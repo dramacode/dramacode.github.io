@@ -1,50 +1,1289 @@
 
 
-**** *book_ *id_epitre *date_1676 *creator_pradon
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_tamerlan
 
-A MONSIEUR DESMARETZ, CONSEILLER DU ROY EN TOUS SES CONSEILS⁎, Et Maistre des Requestes ordinaire de son Hostel.
+Prince, j'ai veu les Grecs, et leurs Ambassadeurs
+Ont remis dans mes mains leur Empire⁎ et leurs cœurs :
+Mais quand pour tout objet⁎ on regarde la gloire⁎,
+Que l'on combat toûjours pour la seule victoire,
+Et qu'on est l'ennemy, la terreur des Tyrans,
+L'on n'abuse jamais du droit des Conquérans ;
+Ce titre spécieux⁎ n'a rien qui m'ébloüisse,
+Il faut que de ses droits chaque Prince joüisse :
+Je vous rends vostre Empire, et pour comble d'honneur,
+Moy-mesme je vous veux déclarer Empereur.
+Vous partirez dans peu, vous reverrez Byzance…
 
-MONSIEUR,
+J'y consens, et de plus vous m'estes nécessaire,
+Et je craignois déja que la soif de régner
+Avec plaisir de moy ne vous fist éloigner ;
+Mon cœur qui ne se peut ouvrir avecque un autre,
+Est charmé⁎ de se voir d'accord avec le vostre,
+Puis que vous pouvez seul, lors⁎ que tout m'est soûmis,
+Vaincre le plus mortel de tous mes Ennemis.
 
-Vous m'avez trop fait connoistre⁎ que vous estiez ennemy des loüanges, pour vous en donner ; ainsi n'ayez plus de crainte d'une Epistre Dédicatoire.
-Je supprime dans celle-cy (puis que vous le voulez) jusques aux moindres choses qui pourroient allarmer vostre modestie.
-Cependant prenez garde, que pour éviter une affaire avec elle, vous ne m'en fassiez une avec la Verité.
-Mais, MONSIEUR, vous en répondrez et pour elle et pour moy ; j'aime mieux la condamner au silence, que de luy servir d'un foible Interprete : D'ailleurs vous faites assez connoistre⁎ ce que vous valez, sans avoir besoin qu'un autre que vostre mérite en parle pour vous.
-Tout le monde sçait avec quelle assiduité vous vous acquitez des Emplois qui vous attachent incessamment aupres de MONSEIGNEUR vostre Oncle, et que vous donnez tout au travail et rien au plaisir, lors⁎ que vous estes dans le plus bel âge de le prendre ; Mais, MONSIEUR, je voy que cecy pouroit encore vous déplaire, et j'aime mieux vous offrir TAMERLAN, qui vous épargnera la fatigue d'une Epistre plus longue.
-J'espere⁎ que malgré le grand nombre d'Affaires qui vous environnent, vous donnerez quelques momens à la lecture de cet Ouvrage, et que vous me ferez la grace de le recevoir comme une marque du respect avec lequel je suis,
+      Il n'en faut point répandre
+De sang, contre un Captif qui ne peut se défendre,
+Dont l'orgueil cependant veut m'imposer la Loy :
+Enfin⁎, c'est Bajazet qu'il faut vaincre pour moy.
+Vous seul pouvez fléchir son courage⁎ indomptable,
+Adoucir sa fierté⁎, la rendre plus traitable ;
+C'est aujourd'huy qu'il faut nous réünir⁎ tous deux.
 
-MONSIEUR,
+Prince, vous le sçavez, trop jaloux de sa gloire⁎,
+Des mains de Bajazet j'enlevé la victoire ;
+Mais vous ne sçaviez pas qu'un Ennemy secret
+Eût vaincu Tamerlan, et vangé Bajazet.
+Bajazet dont le bras a desolé⁎ la Terre,
+Bajazet qui porta le foudre de la Guerre,
+Fust terrassé luy-mesme, et gémit dans mes fers⁎ :
+J'ay du bruit⁎ de sa chûte étonné⁎ l'Univers,
+Ce foudre cependant fixé dans sa Famille,
+A passé⁎ de ses mains dans les yeux de sa Fille.
 
-Vostre tres-humble et tres-obeïssant Serviteur,
+Je l'aime, (avec raison⁎ vous en estes surpris,)
+Mon cœur qui de la guerre avoit fait son étude,
+N'eut point fait des soûpirs une indigne⁎ habitude ;
+Il ne connoissoit⁎ point ces tendres⁎ mouvemens,
+Ce trouble, ces transports⁎ si connus aux Amans⁎,
+Mais Astérie et vous depuis avez fait naître
+Ce trouble et ces transports⁎ dont je ne suis plus maître.
+Quand le fier⁎ Bajazet insultoit⁎ mon couroux,
+Vous ameniez sa Fille en pleurs à mes genoux ;
+Je ne pûs soûtenir l'éclat de tant de charmes⁎,
+J'aperçeus trop de feux⁎ au travers de ses larmes,
+Et ses yeux si charmans⁎, armez de leur douleur,
+Furent conduits par vous pour m'en percer le cœur.
+Prince, de mon amour soyez dépositaire,
+Préparez-y l'esprit de la Fille et du Pere,
+Faites-luy de ma part espérer⁎ un Traité
+Qui luy rende aujourd'huy sa pleine liberté :
+Allez, et luy portez cette grande nouvelle ;
+Je veux par cet hymen⁎ finir⁎ nostre querelle,
+Je suis Maître, et pourois l'y contraindre⁎ en ce jour ;
+Mais, Prince, je ne veux le devoir qu'à l'Amour.
 
-PRADON.
+      Mon dessein n'est pas de l'épouser,
+J'en fais courir le bruit⁎ pour donner jalousie
+A tous ces petits Roys qui rampent dans l'Asie,
+Et qui voulant agir avec moy comme égaux,
+Ont osé s'honorer du nom de mes Rivaux.
+Je leur veux enlever une si belle proye ;
+Que je l'épouse, ou non, qu'importe qu'on le croye ?
+Je sçauray de ma main luy choisir un Epous ;
+Et si vous m'en croyez, Prince, ce sera vous.
 
-**** *book_ *id_avis-au-lecteur *date_1676 *creator_pradon
+      Que pouriez-vous mieux faire ?
+Son Frere est mort, d'un Trône elle est seule heritiere ;
+Songez-y, vostre cœur en sera satisfait,
+Mais sur tout, ménagez l'esprit de Bajazet,
+Allez le voir ; pour moy, j'iray chez Astérie.
+J'attens tout de vos soins⁎, Prince, et je m'y confie⁎ ;
+Et songez en ce jour, si je suis son Epous,
+Que Byzance, Araxide, enfin⁎, tout est à vous.
 
-AU LECTEUR.
+Madame, il n'est plus temps de cacher un secret⁎
+Qui doit faire le sort⁎ de vous, de Bajazet,
+D'Andronic, de moy-mesme, et de toute l'Asie :
+Vostre Pere verra sa liberté, sa vie,
+Dépendre de vous seule, et vous allez enfin⁎,
+En décidant de nous, terminer⁎ son destin.
+Oüy, je veux en ce jour étoufer nostre haine,
+Finir⁎ son Esclavage, et briser vostre chaîne,
+Nous réünir⁎ ensemble ; et pour nous accorder⁎,
+Il faut…
 
-Je ne feray point icy l'Apologie de cette Piece ; Il suffit pour luy servir de sauvegarde contre la Critique la plus envenimée, qu'elle ait eu l'honneur de plaire au plus Grand Roy du Monde, et à la plus galante⁎ et la plus spirituelle Cour de l'Europe ; Apres cela, je dois estre plus que content⁎, et me mettre fort peu en peine, lors⁎ qu'elle a esté universellement approuvée de tous les honnestes⁎ Gens, de la malice⁎ et du chagrin⁎ de quelques Particuliers : Ceux-cy ont fait tout leur possible, ou par eux, ou par leurs organes⁎, pour la décrier et pour la perdre⁎.
-A la vérité je ne croyois pas estre encor digne d'un si grand déchaînement, mais l'envie⁎ m'a trop fait d'honneur, et m'a traité en plus grand Auteur que je ne suis.
-Si Thisbé n'avoit pas esté si loin, peut-estre qu'on eut laissé un libre cours à Tamerlan, et qu'on ne l'eût pas étoufé (comme on a fait) dans le plus fort de son succez.
-C'est le jugement que tous les Gens des-interessez, et qui n'agissent point par les ressorts de la Cabale⁎, ont fait de cette injustice, qui m'a esté plus glorieuse⁎ dans le monde, qu'un plus ample succez.
-Cependant je ne doute pas qu'il n'y ait plusieurs fautes dans cet Ouvrage, je ne prétens pas estre infaillible ; et si nos Maistres du Theatre, qui y regnent avec tant d'empire⁎ et de justice, sont exposez eux-mesmes à des Critiques qui leur ont donné tant d'émotion, pourquoy un jeune Auteur qui commence, et qui n'est encor qu'à sa seconde Piece, en seroit-il plus exempt qu'eux ?
-Il seroit seulement à souhaiter que ces Messieurs tinssent le mesme langage qu'ils font tenir à leurs Héros, qu'en faisant admirer leurs Ouvrages, ils fissent admirer en mesme temps leur procedé⁎, et que les sentimens de leur cœur fussent aussi genereux⁎ et aussi grands que ceux de leur esprit : Ils ne s'abaisseroient point à crier quand on leur imite une syllabe sur des choses qui ne sont point de beauté, qui n'ont aucun brillant particulier, et dont tout le monde auroit esté contraint⁎ de se servir necessairement, dans des Incidens⁎ tirez des entrailles d'un Sujet, comme des 24.
-Lettres de l'Alphabet, qui doivent estre communes à tous ceux qui se meslent⁎ d'écrire.
-D'ailleurs s'ils faisoient refléxion sur plusieurs de leurs Pieces, ils verroient, qu'ils sont eux-mesmes encor moins scrupuleux sur des imitations plus fortes, et on pourroit leur faire connoistre⁎ qu'ils se souviennent aussi-bien des Modernes que des Anciens, et qu'ils possedent avec autant d'avantage les beautez de Tristan, de Mairet et de Rotrou, que celles d'Homere, de Sophocle et d'Euripide.
+La victoire, Madame, en est dûë à l'Amour,
+Luy seul a pû suspendre une juste colere ;
+Andronic s'est chargé d'aprendre à vostre Pere…
+ 
+      Il sçait ce que je veux,
+Luy-mesme à Bajazet en doit parler, Madame ;
+Et tandis que je viens vous découvrir⁎ mon ame,
+Il le voit à cette heure, et le doit disposer,
+Pour mieux nous réünir⁎, à vous faire épouser.
 
-Au reste, je n'entreray point dans le détail de cet Ouvrage, je l'expose au Public afin qu'il en juge luy-mesme, sans tascher de le prévenir⁎ inutilement.
-J'ay fait un honneste Homme de Tamerlan, contre l'opinion de certaines Gens, qui vouloient qu'il fut tout-à-fait brutal, et qu'il fit mourir jusques aux Gardes.
-J'ay tasché d'apporter un tempérament⁎ à sa ferocité naturelle, et d'y mesler un caractere de grandeur et de genérosité⁎, qui est fondé dans l'Histoire, puis qu'il refusa l'Empire⁎ des Grecs, et qu'il a esté un des plus grands Hommes du Monde : Cela se peut voir dans Calchondile, et sur tout dans une Traduction d'un Auteur Arabe, où la Vie de Tamerlan et ses grandes actions sont écrites tout au long.
-J'ay intitulé la Piece,Tamerlan, ou la Mort de Bajazet, puis que c'est la mort de Bajazet qui en fait la catastrophe⁎.
-Je ne diray rien de son caractere, l'Histoire nous marque assez que ce Prince fut intrépide, et méprisa Tamerlan et la vie, jusqu'au dernier soûpir.
-Voila tout ce que j'avois à dire sur cette Tragedie, peut-estre vivra-t-elle autant sur le papier; que certains Ouvrages qui ne tirent leur succez que de la Déclamation, dont les Auteurs sont les Maistres, et qui ne reüssit que pour eux.
-Je souhaite que si celuy-cy m'a attiré leurs mauvaises intentions, je me rende encor plus digne à l'avenir de leur chagrin⁎.
+      Moy, Madame.
 
-Le lecteur me fera assez de justice, pour ne me pas imputer quelques fautes qui se sont coulées dans l'Impression, et que j'ay marquées à la fin de la Piece.
+      Oüy, je vous aime,
+Je le dis, je l'avouë, il sufit. Mais vous-mesmes
+Aprenez que vos yeux seuls ont eu l'ascendant
+Sur la fierté⁎ d'un cœur superbe⁎, indépendant.
+Je n'avois respiré que le sang et la guerre,
+Le nom de Tamerlan faisoit trembler la Terre ;
+Cependant aujourd'huy desarmé, sans couroux,
+Vous voyez Tamerlan soûmis aupres de vous.
 
-**** *book_ *id_I01 *act_I *date_1676 *creator_pradon
+Madame, à vos discours et vos yeux irritez,
+Je connois⁎ la fierté⁎ du sang⁎ dont vous sortez,
+Et je ne voy que trop l'orgueilleux caractere
+D'un Frere impétueux et d'un barbare Pere,
+Qui malgré ma clemence à leur perte obstinez,
+M'ont arraché les fers⁎ que je leur ay donnez.
+Ortobule, il est vray, d'une extréme insolence
+S'attira malgré moy les traits de ma vangeance ;
+Mais, Madame, en ce temps je ne vous voyois pas,
+Et n'avois pas vos yeux pour arrester mon bras ;
+Celle de Bajazet me fust encor plus vive,
+Mais vos yeux ont tenu ma vangeance captive,
+Et malgré sa fureur⁎ et ses emportemens,
+Vos larmes ont noyé tous mes ressentimens ;
+Cependant je suis prest à briser vostre chaîne,
+Il est temps que l'amour finisse⁎ nostre haine,
+Et contre Bajazet mon plus grand ennemy
+N'allez pas réveiller mon couroux endormy.
+Madame, vous sçavez qu'il me brave sans cesse,
+Et par là voyez mieux l'excés de ma tendresse⁎ ;
+Mais si sa haine encor combatoit mon amour,
+S'il refuse sa grace avant la fin du jour,
+Quand je fais tout pour luy, s'il n'en fait pas de mesme,
+Je pouray le haïr autant que je vous aime ;
+Je ne répons de rien, et mon juste couroux
+Pouroit… mais c'est à vous d'en prévenir⁎ les coups⁎.
 
--*who_andronic
+      Oüy, ce Prince, Madame,
+Par son propre intérest doit agir pour ma flame ;
+Je luy rends son Empire, et pour charmer⁎ son cœur,
+Je luy donne Araxide.
+
+      Elle arrive à l'Armée,
+Madame, elle a de quoy rendre une ame charmée⁎,
+Peut-estre que sans vous j'aurois pû l'épouser,
+Mais l'Amour autrement en a sçeu disposer.
+S'il faut qu'à mon dessein son adresse réponde,
+J'uniray ses Estats à ceux de Trébizonde ;
+Araxide en est Reyne, et par son propre éclat
+Elle unit cent Beautez à cent raisons⁎ d'Estat.
+Vous seule à nos desseins ne soyez pas contraire⁎,
+Parlez avec le Prince, et gagnez⁎ vostre Pere ;
+Pourveu⁎ que vostre main soit le prix du Traité,
+Je luy laisse la vie avec la liberté.
+Je vous laisse y penser, et vous quite, Madame,
+Pour vous donner le temps d'y résoudre⁎ vostre ame.
+
+Je voy qu'un peu trop loin vostre orgueil vous emporte,
+Il sied mal dans les fers⁎ d'éclater de la sorte,
+Et dans ces vains transports⁎ d'une aveugle fureur⁎,
+Vous parlez en Captif, et j'écoute en Vainqueur ;
+Vous étalez icy toute vostre foiblesse,
+Oüy, cette grandeur d'ame en marque la bassesse,
+Et lors⁎ qu'en un malheur⁎ on sçait trop s'émouvoir,
+On fait voir sa vertu⁎ moins que son desespoir.
+Bajazet, modérez cette rage inutile,
+Devant moy reprenez une ame plus tranquile,
+Et bien qu'elle paroisse incapable d'éfroy,
+Du moins, souvenez-vous que vous parlez à moy.
+
+Et c'est là ce qui fait tout l'éclat de ma gloire⁎,
+Cet éclat est tiré du sein de la Victoire,
+Et ce mesme Destin, qui te fait murmurer⁎,
+Ne m'arrache au Néant, que pour t'y faire entrer.
+Cette vaste grandeur, cette extréme puissance,
+N'est point, si tu le veux, un droit de ma naissance ;
+Il est beau cependant de mettre aux fers⁎ les Roys,
+Quand la vertu⁎ sur eux nous fait naître des droits ;
+Mais ce n'est point icy que je dois me défendre,
+J'ay pû monter au Trône, et t'en ay fait descendre ;
+Je suis justifié. Ce Bras victorieux
+Sçait ennoblir mon sang⁎, mon Pere, et mes Ayeux,
+Et quelque orgueil enfin⁎ que tu fasses paroître,
+Bajazet est Esclave, et Tamerlan est Maître.
+
+Obeïs avecque elle, ou pour punir ton crime,
+A ses yeux⁎ tu seras ma premiere Victime ;
+C'est à toy d'y penser.
+
+      Il faut punir sa rage,
+Tu seras satisfait. Qu'on l'éloigne de moy.
+
+      Il me brave !
+Il m'ose refuser sa Fille, mon Esclave !
+Oüy, oüy, je l'abandonne, et dés ce mesme jour
+Je me rends à la haine, et j'étoufe l'amour,
+Je répandray son sang pour calmer sa furie⁎,
+Bajazet périra mesme aux yeux⁎ d'Astérie.
+
+Et c'est ce qui m'outrage ; il est devant mes yeux⁎
+Toûjours fier⁎, intrépide, et toûjours furieux⁎ ;
+Il ose devant moy conserver⁎ son audace,
+Je le tiens dans mes fers⁎, et c'est moy qu'il menace,
+Et vous pouvez le plaindre ? ah ! pleignez mon malheur⁎,
+Je suis contraint⁎ de voir la fierté⁎ de son cœur,
+Et je trouve en secret⁎ son sort⁎ digne d'envie⁎,
+Il brave Tamerlan, et méprise la vie.
+Mais enfin⁎, c'en est fait, oüy, je ne veux songer
+Qu'à dompter Bajazet, sa Fille, ou m'en vanger.
+Hé quoy ? ne puis-je pas quand son orgueil me brave,
+Faire épouser sa Fille à mon dernier Esclave ?
+Mais je veux…
+
+      Et qui vous intéresse⁎,
+Prince, pour Bajazet, ou bien pour la Princesse ?
+
+      J'en auray soin sans vous,
+Et feray ce que veut un trop juste couroux.
+
+Oüy, Madame, il est temps de punir son audace.
+
+Je devrois le punir, et son cœur furieux⁎,
+S'il vit encore, en doit rendre grace à vos yeux.
+Profitez cependant du trouble de mon ame,
+Bajazet va venir, qu'il souscrive à ma flame,
+Portez-y vostre cœur aussi-bien que le sien,
+Jusques-là, je pouray vous répondre du mien.
+Vous, Prince, demeurez aupres de la Princesse
+Pour peindre à Bajazet le péril qui le presse,
+J'atendray sa réponse, elle fera son sort⁎,
+C'est d'elle que dépend ou sa vie, ou sa mort.
+
+Enfin, Prince, l'amour termine⁎ nostre haine,
+Bajazet malgré luy verra briser sa chaîne,
+La Princesse en répond, elle me l'a promis,
+Et par l'Hymen⁎ dans peu nous serons réünis⁎.
+Mais ne parliez-vous pas, Prince, de ma tendresse⁎ ?
+Vous pouviez en marquer l'excés à la Princesse ;
+Vous l'avez veu, Madame, et ce cœur orgueilleux
+Aprend à soûpirer, et l'aprend de vos yeux ;
+Ce n'est plus en vainqueur qu'il vient icy paroître,
+Depuis qu'il est à vous il n'agit plus en Maître…
+Mais quel chagrin⁎, Madame, occupe vostre esprit ?
+Je vous vois étonnée⁎, et le Prince interdit,
+Pour qui sont ces soûpirs, et ce regard si tendre⁎ ?
+Répondez ?
+
+      C'est assez,
+Je lis dans vostre cœur mieux que vous ne pensez ;
+Pour avoir écouté l'ombre de vostre Frere,
+Madame, vous avez oublié vostre Pere,
+Il suffit. Andronic, préparez vostre main
+Pour l'hymen⁎ d'Araxide, elle arrive demain,
+Dans une heure partez, allez au devant d'elle
+Par de profonds respects luy marquer vostre zele,
+Et tâchez par vos soins⁎ de prévenir⁎ son cœur,
+De mon autorité j'apuiray vostre ardeur⁎.
+
+      Vous prenez trop de soin de mes feux⁎,
+Araxide à vos yeux⁎ ne sera point rebelle,
+Répondez-moy de vous, et je vous répons d'elle,
+Maître de ses Estats je puis en disposer,
+Et d'un mot Tamerlan vous la fait épouser.
+
+Prince, je vous entens⁎ : Vous, Madame, je voy
+Que vous les entendez⁎ ces raisons⁎ mieux que moy,
+Tamerlan à son tour commence à les connoître⁎ ;
+Vous, Prince, obeissez, je dois parler en Maître,
+Je le veux, je l'ordonne, et ne voyez jamais…
+
+Luy dictez-vous, Madame, un discours si fatal⁎ ?
+Dois-je voir dans ses yeux les regards d'un Rival ?
+Vos yeux l'ont-ils rendu teméraire, perfide⁎ ?
+
+Madame, pour mon cœur, que d'afreuses clartez !
+J'en frémis, mais enfin songez à quelle rage
+Peut emporter l'amour contre qui nous outrage,
+Et puis que cet amour sçait agir en Tyran,
+Malheur⁎! à qui sera Rival de Tamerlan !
+
+      Ingrat⁎, pourquoi m'aprendre
+Un secret⁎ que mon cœur n'a sçeu que trop entendre⁎ ?
+Je te faisois l'honneur d'atendre tout de toy,
+Tu pouvois aujourd'huy tout espérer⁎ de moy,
+Je t'avois confié⁎ mon cœur et ma tendresse⁎,
+Je te donnois un Trône, une illustre⁎ Princesse,
+J'allois te couronner avecque tant d'éclat…
+
+Madame, vous voyez cette ardeur⁎ qui l'entraîne,
+Vous l'aimez, mais il doit demander vostre haine,
+Je perce le mystere, et voy que Bajazet
+Avec luy de concert entreprit son projet,
+Vous-mesme d'Andronic estiez la récompense,
+Mais ils seront tous deux l'objet⁎ de ma vangeance.
+
+Je sçauray contenter⁎ un si juste desir.
+Qu'on l'arreste Tamur, qu'on vienne le saisir.
+
+      Eloignez de mes yeux
+Cet objet⁎ insolent d'un Rival odieux.
+
+Madame, vous voyez à quel point il m'irrite,
+C'est mon Rival, je suis pour luy Barbare, Scyte,
+Je répandray du sang, tout me sera permis,
+Maîtresse⁎, Pere, Amant⁎, tous sont mes ennemis.
+Il faut que de leur sort⁎ vostre bouche décide,
+Pour sauver Andronic, qu'il épouse Araxide,
+Resolvez⁎-l'y vous-mesme, et rejetant ses vœux⁎,
+Pour sauver Bajazet satisfaites mes feux⁎.
+Voilà le seul secret⁎ d'apaiser ma colere,
+Quitez, abandonnez l'Amant⁎ pour vostre Pere ;
+Si l'un et l'autre enfin ne subissent mes Loix,
+Vous les verrez tous deux pour la derniere fois.
+
+Tu dis que Bajazet rentre dans son devoir,
+Tout superbe⁎ qu'il est, qu'il demande à me voir,
+Il fait cette démarche, et cette ame si fiere⁎
+Souhaite une entreveuë, et parle la premiere,
+Te croiray-je, Tamur ? l'as-tu bien entendu⁎ ?
+Ne t'es-tu point trompé quand tu m'as répondu ?
+Bajazet veut me voir ? quelle atteinte impréveuë
+A fléchy son orgueil ? quoy ! dans nostre entreveuë
+Il demande sa Fille ? il n'en faut plus douter,
+Tamur, son cœur se rend, et j'ay sçeu le dompter,
+Parle, répete-moy ce qu'il vient de te dire.
+
+Quoy ? donc j'auroy vaincu Bajazet aujourd'huy ?
+Non, je ne puis le croire, et sa haine invincible
+Aux périls, à la mort, ne fust jamais sensible,
+J'admirois son courage⁎, et malgré sa fureur⁎
+Ce mépris de la mort qui marque un si grand cœur⁎,
+Cette ame inébranlâble, et si noble et si fiere⁎,
+Ont pour luy mille fois suspendu ma colere ;
+Nous sommes ennemis, je le hais, il me hait,
+Mais j'aurois jusqu'icy fait tout ce qu'il a fait.
+Ainsi, de ce retour⁎ j'ay trop d'incertitude,
+De tous costez, Tamur, j'ay de l'inquiétude ;
+Si Bajazet se rend du party de mon cœur,
+Araxide et ma gloire⁎ arrestent mon bonheur ;
+Je sçay bien que ma bouche est ingrate⁎, perfide⁎,
+Qu'elle a donné parole à l'aimable Araxide,
+Mais j'adore⁎ Astérie, et mon cœur à son tour
+S'est malgré mon orgueil donné tout à l'amour.
+J'ay regardé l'amour dans les yeux d'Astérie
+Comme un fier⁎ Ennemy né de mon Ennemie,
+Et pour mieux me vanger d'elle et de mon Vainqueur,
+J'ay voulu le forcer dans le fonds de son cœur.
+
+      C'est de quoy je veux l'entretenir,
+Et mon ordre est donné pour le faire venir.
+Que l'on amene aussi la Princesse Astérie ?
+Bajazet veut la voir, contentons⁎ son envie⁎ ;
+Que je m'aplaudirois d'un peu de cruauté,
+Si par là j'avois sçeu vaincre tant de fierté⁎ !
+Car enfin⁎, je ne puis soufrir⁎ qu'il la soûtienne,
+La grandeur de son ame est égale à la mienne,
+Il faut que je l'abaisse, et que d'un air soûmis
+Il veüille entrer luy-mesme au rang de mes Amis,
+Je serois satisfait si le péril qui presse
+Coûtoit à son grand cœur⁎ cette heureuse⁎ foiblesse,
+Et si j'en triomphois ayant pû le dompter,
+Peut-estre que le mien sçaura se surmonter.
+Cependant de leur sort⁎ il faut que je décide,
+Bajazet, Astérie, Andronic, Araxide,
+Dans mes mains, il est vray, je tiens vostre destin,
+Et cependant le mien en est plus incertain.
+Andronic mon Rival est un Rival que j'aime,
+Il m'a servy sans-doute⁎, Araxide elle-mesme
+Doit s'unir avecque eux dans ce commun éfroy,
+Et je seray peut-estre avecque eux contre moy,
+Mais sur tout Bajazet, Tamur, le puis-je croire,
+Que la crainte ait donné quelque atteinte à sa gloire⁎ ?
+
+      Sa Fille vient. Fais venir Bajazet.
+
+Vostre Pere a changé son superbe⁎ langage,
+Madame, il a quité cette fierté⁎ sauvage⁎,
+Il demande à me voir, et je vous fais venir
+Pour nous voir tous ensemble, et pour nous réünir⁎.
+Luy-mesme a souhaité que vous fussiez présente
+A cet acord si doux qui faisoit vostre atente,
+Vous nous verrez tous deux bientost nous embrasser…
+Mais ce discours commence à vous embarrasser,
+Et je voy…
+
+Il est vray qu'il viendra bientôt me satisfaire,
+Et sans plus écouter une aveugle fureur⁎,
+Qu'il a soin de sa vie et de vostre grandeur.
+
+      Nous finirons⁎ une haine mortelle,
+Elle va faire place à la foy⁎ mutuelle
+Qui nous liant tous deux, vous couronne…
+
+      Ah ! Madame,
+Vostre cœur a paru charmé⁎ de ses refus,
+Cependant, croyez-moy, ne les souhaitez plus,
+Si vous l'aimez, pour luy devenez plus timide⁎,
+Et rendez sa grande ame un peu moins intrépide,
+Et puis que ses refus le pouroient accabler,
+Son intrépidité vous doit faire trembler.
+ 
+Non, Madame, au contraire, on va briser sa chaîne,
+Et Bajazet et moy, dans nos embrassemens,
+Nous allons étoufer tous nos ressentimens.
+ 
+J'excuse d'Andronic la fureur⁎ et l'audace,
+Je luy pardonne mesme une telle menace,
+Son desepoir luy dicte un discours emporté
+Que pour son intérest je n'ay pas écouté.
+
+Bajazet, j'avois crû qu'un conseil⁎ salutaire
+Remetoit au devoir et la Fille et le Pere,
+Mais ne me contrains⁎ plus à la juste rigueur,
+Qui malgré mes bontez puniroit ta fureur⁎.
+
+      Quoy ? veux-tu me dérober la gloire⁎
+D'emporter sur mon cœur une entiere victoire ?
+Qu'on cherche du secours !
+
+Qu'on l'emporte, Tamur !
+
+Madame, demeurez, et dans un tel malheur⁎…
+
+      Demeurez, c'est à moy d'y pourvoir.
+Hola, Gardes, Tamur, veillez sur la Princesse,
+Qu'on la suive, et sur tout qu'on l'observe sans cesse.
+C'en est fait, on verra si je suis un Tyran,
+Il faut que l'Univers connoisse⁎ Tamerlan.
+Bajazet de sa Fille ose charger ma gloire⁎,
+Oüy, Prince, elle en répond, et vous l'en devez croire,
+Il triomphe du Sort⁎, et je veux aujourd'huy,
+En triomphant de moy, faire encor plus que luy.
+Ainsi, Prince, je veux oublier vos caprices,
+Et ne me souvenir que de tous vos services,
+Et quand Bajazet meurt, pour triomphe nouveau,
+Enfermer mon amour dans le mesme tombeau.
+Allez voir la Princesse, apaisez ses allarmes⁎,
+Quand elle aura donné quelque tréve à ses larmes,
+Elle peut à son gré terminer⁎ vostre sort⁎,
+Araxide et ma gloire⁎ exigent cet effort,
+Je l'épouse, et je pars.
+
+
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bajazet
+
+      C'est à vous sans-doute⁎ à qui je dois
+Ce peu de liberté, Seigneur, où je me vois.
+Tamerlan par vos soins⁎ a suspendu sa haine,
+Et c'est vous, qui brisez la moitié de ma chaîne ;
+Je m'en flate⁎, et mon cœur seroit au desespoir,
+Si c'estoit au Tyran qu'il fallut le devoir.
+Croit-il par le retour d'une feinte clémence,
+Que j'oublie un moment ma haine et ma vangeance ?
+S'il pense me fléchir, il se trompe, Seigneur,
+Ses afronts sont gravez trop avant dans mon cœur ;
+D'Ortobule égorgé la trop funeste⁎ image
+Renouvelle toûjours ma douleur et ma rage,
+(Ce cher Fils qui parût incapable d'éfroy,
+Et qui chargé de fers⁎ lui parla comme moy.)
+Je me retrace⁎ encor la Sultane expirante,
+Astérie à ses pieds éperduë et tremblante ;
+Cette indigne⁎ Prison, où je me vis enfin
+La fable⁎ et le joüet d'un insolent destin.
+Je vois donc un Tyran me couvrir d'infamie,
+Que tira du Néant ma fortune⁎ ennemie,
+Et qui sans le secours de ses grands changemens,
+A peine auroit servy d'Esclave aux Otomans.
+ 
+Pour estre son Captif, suis-je moins Bajazet ?
+Oüy, quand il m'ofriroit le Sceptre, la Couronne,
+La liberté, le jour, sa main les empoisonne ;
+Il me laisse la vie et peut-estre aujourd'huy
+Je la perdray⁎, Seigneur, pour n'avoir rien de luy.
+
+Son indigne⁎ pitié rallume ma colére ;
+Mais Tamerlan peut-estre en mon funeste⁎ sort⁎
+Envîra quelque jour⁎ la gloire⁎ de ma mort.
+Cette feinte pitié que marque le Tartare,
+Aigrit⁎ mon desespoir par sa douceur barbare ;
+Et lors⁎ qu'il voit la mort qui vient à mon secours,
+Preste à briser mes fers⁎ en terminant⁎ mes jours,
+Sa pitié politique⁎, et sa fatale⁎ envie⁎,
+Veulent malgré la mort m'enchaîner à la vie,
+Et donner en spéctacle aux yeux de l'Univers
+Un Empereur qui traîne et sa vie et ses fers⁎.
+Ainsi je ne veux plus d'une vie importune,
+Triste⁎ et funeste⁎ objet⁎ des coups⁎ de la Fortune⁎.
+J'ose m'ouvrir à vous ; car loin d'estre ennemis,
+Je vous ay toûjours veu pour moy le cœur d'un Fils,
+Seigneur, et j'eus pour vous depuis l'ame d'un Pere ;
+Mais, le Ciel fist cette ame et trop grande et trop fiere⁎,
+Pour soufrir⁎ plus longtemps les injures⁎ du Sort⁎;
+Je veux sortir des fers⁎, ou courir à la mort.
+Ce n'est point avec vous, Prince, que je dois feindre,
+J'ay sçeu depuis longtemps me taire et me contraindre⁎,
+Et je n'ay point voulu vous charger d'un secret⁎
+Qui pût vous entraîner au sort⁎ de Bajazet.
+Je sçay que Tamerlan vous chérit, vous apuye,
+Je respecte en vous deux l'amitié qui vous lie ;
+Et pour mes intérests je ne fais point de vœux⁎
+Qui tentent⁎ la vertu⁎ d'un Amy genéreux⁎.
+Ainsi, j'ay bien voulu, Prince, vous faire entendre⁎
+Que pour ma liberté je vay tout entreprendre,
+Mais que tout mon espoir dans un si beau dessein
+Est de mourir au moins les armes à la main.
+
+      Vous sçavez ma foiblesse,
+Ne la réveillez point dans mon cœur abatu,
+Pour corrompre mon ame, et tenter⁎ ma vertu⁎.
+Je fuyrai, mais sans-doute⁎ une fuite sanglante
+Par une heureuse⁎ mort remplira⁎ mon attente ;
+Et je veux dans l'espoir que mon cœur s'est promis,
+Du moins sortir couvert du sang des Ennemis.
+Tout est prest, l'heure est prise. Il me reste Astérie,
+Je vous la recommande⁎, ayez soin de sa vie,
+Pour son intérest seul je vous ouvre mon cœur :
+Oüy, pour elle ayez soin d'apaiser l'Empereur,
+Je me suis aperçeu qu'elle vous estoit chere ;
+Que l'amour soit le sçeau du secret⁎ de son Pere.
+Vous essuyrez ses pleurs, si je meurs aujourd'huy ;
+Ne l'abandonnez pas, et luy servez d'apuy.
+Adieu, Seigneur.
+
+Non, je n'écoute rien.
+
+      Vous me deseperez,
+Cruel⁎, quand vous voyez mon attente trompée ;
+Vous m'osez cependant refuser vostre Epée.
+
+      Non, ç'en est fait, je ne veux rien entendre⁎,
+Et je n'écoute plus que la seule raison⁎
+Que poura m'inspirer le fer⁎, ou le poison ;
+Vous me les refusez, et vostre barbarie
+Par un Arrest⁎ mortel me condamne à la vie,
+Prince, rougissez-en : Et vous Gardes, Soldats,
+Ce triste⁎ cœur n'a plus le secours de ce Bras,
+Servez mieux Tamerlan qu'un Amy qui m'acable ;
+Bajazet dans les fers⁎ est-il si redoutable ?
+L'ordre en est-il donné ? frapez, aprochez-vous,
+J'enhardiray vos bras, et conduiray vos coups !
+Mais quoy ? loin de remplir⁎ cette juste espérance,
+L'Amy, les Ennemis, tout est dans le silence.
+Ah Ciel ! j'avois tantost⁎ les armes à la main,
+Et rien ne m'empeschoit de m'en percer le sein :
+Helas ! où m'emportoit l'ardeur⁎ infructueuse
+Que je pouvois me rendre utile et glorieuse⁎,
+Pour trop m'abandonner contre mes Ennemis ?
+Je me suis perdu⁎ seul, et je les ay servis,
+Je me suis veu trahy deux fois par la Fortune⁎,
+Je suis vaincu deux fois, et je ne meurs pas une,
+Le Sort⁎ m'atache aux fers⁎ ; et moy, dans ce malheur⁎,
+Je veux perdre⁎ le jour, et tromper sa fureur⁎.
+
+Il aimeroit ma Fille !
+
+Je rends graces au Ciel, dans le sort⁎ qui m'entraîne,
+Que l'amour ait presté ce secours à ma haine ;
+Je voudrois que ma Fille eût pour luy plus d'apas⁎,
+Ses yeux nous vangeroient au defaut⁎ de mon bras.
+Que j'ay de son amour une sensible joye !
+De mes plus fiers⁎ mépris il se verra la proye,
+Et du moins si nos jours dépendent d'un Vainqueur,
+Elle et moy nous ferons le destin de son cœur ;
+Par de nouveaux mépris j'aigriray⁎ sa vangeance,
+Rejetant sa fortune⁎ avec son alliance ;
+C'est là que ma fierté⁎ de luy peut triompher,
+L'amour me sera plus que la flame et le fer⁎ ;
+Portons-les dans son cœur par les yeux d'Astérie,
+Et quand il m'ofriroit tous les Trônes d'Asie,
+Ses Etats et les miens… reprenez de l'espoir,
+C'est le moindre Rival que vous puissiez avoir.
+
+      Et j'atens sans éfroy,
+Qu'il éclate, qu'il tombe, et n'écrase que moy.
+Si le fier⁎ Tamerlan avoit rompu ma chaîne,
+Il faudroit oublier ma vangeance, ma haine ;
+Et lors⁎ que je ne puis vivre que peu de jours,
+Que je sens mes malheurs⁎ en abreger le cours,
+Ma vertu⁎ va me faire un sort⁎ digne d'envie⁎,
+Je fais trop peu de cas de ce reste de vie,
+Et je veux l'immoler pour avoir le plaisir
+De braver Tamerlan jusqu'au dernier soûpir.
+
+      Hé bien, viens-tu joüir de ma disgrace⁎ ?
+As-tu fait immoler ce reste de Soldats
+Dont j'avois animé la vangeance et le bras ?
+Ce n'estoit pas pour toy d'assez nobles Victimes,
+Il falloit dans ma perte ensevelir leurs crimes,
+Il falloit que ton bras alors tournât sur moy
+Tous les coups que le mien vouloit porter sur toy ;
+J'ay tasché de te joindre⁎, et malgré mon envie⁎
+Je n'ay pû. Trois des tiens l'ont payé de leur vie,
+Qui recevant mes coups, pour toy-mesme éfrayez,
+Sont tombez de ma main tous sanglans à tes pieds.
+ 
+Oüy je parle à Thémir, dont l'obscure naissance
+Doit mettre entre nous deux un peu de différence ;
+Et le Fils de Sangal, vil Pastre qu'autrefois
+Le Destin par caprice arracha de ses Bois,
+En doit, dans sa grandeur, reconnoistre⁎ l'ouvrage,
+Voir que de sa bassesse il repara l'outrage,
+Et que le Sort⁎ aveugle enflant sa vanité
+Le tira du Néant et de l'obscurité.
+
+Des Captifs comme moy sçavent mal obeïr,
+La fierté⁎ de leur sang⁎ ne sçait point les trahir,
+Et si Thémir luy-mesme oubliant sa Famille,
+Tout mon Maître qu'il est, soûpiroit pour ma Fille,
+Il verroit Bajazet, ce Captif malheureux⁎,
+Mépriser son amour, et rebuter ses vœux⁎.
+
+      C'est ce que je prétens⁎,
+D'un regard assuré c'est la mort que j'atens.
+Déja dans deux Combats la Fortune⁎ cruelle⁎
+A conservé⁎ ma vie à ta haine immortelle,
+Pour servir ta fureur⁎ elle a soin de mes jours ;
+J'atens de ton amour un fidelle secours :
+S'il est vray qu'Astérie ait pour toy quelques charmes⁎,
+Contre toy, dans ses yeux j'iray chercher des armes,
+Et quand je la refuse à ton Trône, à ta foy⁎,
+Je suis malgré mes fers⁎ plus Monarque que toy.
+Je m'égare, m'emporte, et Bajazet peut-estre
+Oublie en ce moment qu'il est devant son Maître,
+Et qu'il doit s'aplaudir qu'un vil Chef de Brigans,
+Thémir, enfin⁎, s'allie au sang⁎ des Otomans.
+Tu t'émeûs, je triomphe, et lis sur ton visage
+Mon Arrest⁎; je l'atens.
+
+Si je meurs, je seray plus satisfait que toy.
+
+Ma Fille, il faut montrer la grandeur de ton ame,
+L'on m'envoye à la mort sans-doute⁎, et je te vois
+Et te parle aujourd'huy pour la derniere fois.
+Mais quoy ? lors⁎ que tu dois répondre à ma tendresse⁎,
+Tu mesles à ma joye une indigne⁎ tristesse,
+Et lors⁎ que ma vertu⁎ cherche à te consoler,
+Pour réponse je voy tes pleurs prests à couler.
+
+Epouser Tamerlan ! fais un plus noble éfort,
+Oüy, perdons⁎-nous plutost, et courons à la mort ;
+Astérie, est-ce ainsi qu'une servile crainte
+Te peut faire subir une indigne⁎ contrainte⁎,
+Et dans quelque revers qui nous puisse acabler,
+Le sang⁎ de Bajazet doit-il jamais trembler ?
+Ah ! si pour éviter la mort qui me menace,
+J'achetois à ce prix et ma vie et ta grace,
+Que je pusse aujourd'huy jusques-là me trahir,
+Quand je l'ordonnerois, devrois-tu m'obeïr ?
+Ma Fille, soûtiens mieux la fierté⁎ de ton Pere,
+Entens⁎ la triste⁎ voix d'Ortobule ton Frere,
+Qui tout sanglant encore, et tout percé de coups,
+Méprise Tamerlan, et brave son couroux :
+Regarde, imite, suy ta Mere la Sultane,
+Qui soûtint jusqu'au bout la grandeur Otomane,
+Et qui nous donne à tous en ce funeste⁎ sort⁎
+L'exemple de braver le Tyran et la Mort.
+Pour moy, tu le sçais bien, je suis trop las de vivre,
+Mon malheureux⁎ destin s'obstine à me poursuivre ;
+J'avois tenté la fuite, il n'a pû le soufrir⁎,
+Enfin⁎, j'avois voulu me sauver, ou mourir ;
+Il m'a trahy, pour luy ma haine est implacable,
+Je ne fais que gémir dans l'horreur qui m'acable,
+La douceur et la paix par un coup⁎ si mortel
+Ont fait avec mon cœur un divorce eternel ;
+Dans le comble des maux où ce revers me plonge,
+Tu vois que le chagrin⁎ me devore, me ronge,
+Qu'il entretient ma rage, et que dans ma douleur
+Je n'atens que la mort pour finir⁎ mon malheur⁎ ;
+Mais je ne puis soufrir⁎ qu'un hymen⁎ si funeste⁎
+M'immole tous tes jours pour le peu qui m'en reste.
+
+Je vois avec plaisir la grandeur de ton ame,
+Elle est digne de moy. Mais l'innocente flame
+D'un Prince… Croyez-moy, ma Fille, et m'entendez⁎,
+Vous craignez d'obtenir ce que vous demandez,
+Et si je contentois⁎ cette funeste⁎ envie⁎…
+
+      Epouser le Tartare,
+Immoler Andronic, rendre heureux⁎ un Barbare.
+
+Ma Fille, obeïssez, je le veux, et je suis…
+
+Arrestez, je l'ordonne, et craignez mon couroux.
+Gardes, suivez vostre ordre, à la mort je m'apreste,
+Et portez au Tyran mes refus et ma teste.
+Fin du Troisiéme Acte.
+
+      Ma Fille, il faut que je t'embrasse,
+La fureur⁎ du Destin aujourd'huy me fait grace,
+Vien partager ma joye, essuye enfin tes pleurs,
+Bajazet a vaincu son sort⁎ et ses malheurs⁎.
+
+      Que je me réünisse⁎
+Avec mon Ennemy ? par quel honteux caprice
+Me donner un conseil⁎ qui me remplit⁎ d'horreur ?
+Mais enfin, Tamerlan, je connois⁎ son erreur,
+Si j'ay voulu te voir, ce n'est que pour t'aprendre
+Que sur moy tu n'as plus aucun droit à prétendre⁎,
+Et que brisant mes fers⁎ peut-estre devant toy,
+Tu me verras dans peu libre et maistre de moy.
+
+Tu peux intimider⁎ un malheureux⁎ Esclave,
+J'écoute sans aigreur un Vainqueur qui me brave,
+Tu sçais bien que la mort ne m'a point fait d'éfroy,
+Et quand je l'ay cherchée elle a fuy devant moy ;
+Mais je t'ay prevenu⁎, j'ai remply⁎ mon envie⁎,
+Je quite avec plaisir le fardeau de la vie,
+Je sens que ma fureur⁎ s'éteint avec mes jours,
+Je cede, et suis tranquile en finissant⁎ leur cours,
+Et puis que je vais perdre⁎ une vie importune,
+Je me reconcilie avecque la Fortune⁎,
+Je luy pardonne tout. Ma Fille est dans tes fers⁎,
+Elle attache sur toy les yeux de l'Univers,
+Si la vertu⁎ t'est chere ah ! je te la confie⁎,
+Et ta gloire⁎ aujourd'huy me répond d'Astérie,
+Je l'en charge, il suffit. Ma Fille, c'est à toy
+De vivre, ou s'il le faut, de mourir comme moy.
+
+Ce mal se doit passer⁎, ma Fille, en un moment,
+Ce n'est rien.
+
+      Vostre amitié cruelle⁎
+Me refusa cent fois un poignard pour mourir,
+Seigneur, mais un Esclave a sçeu me secourir,
+Et je me suis rendu par son adresse extréme
+Maître de mon destin malgré le Destin mesme,
+C'est ainsi que j'ay pris le trop heureuse⁎ poison
+Qui des fureurs⁎ du Sort⁎ m'a sçeu faire raison⁎.
+
+      Il n'est plus de secours,
+Qui puisse retarder de si malheureux⁎ jours,
+Je sens déja la mort et secourable et promte,
+Qui m'enleve à la vie, et m'arrache à la honte,
+Console-toy, ma Fille, et malgré ta douleur
+Souvien-toy que ton Pere expire en Empereur.
+
+
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_asterie
+
+Tu m'aprens que la Cour est pleine d'allégresse,
+Que l'heureux⁎ Andronic va régner dans la Gréce,
+Qu'il sera couronné des mains de l'Empereur ;
+Mais de quel œil voit-il sa nouvelle grandeur ?
+Quand Tamerlan luy fait un si grand avantage,
+Sans-doute⁎ que la joye éclate en son visage :
+Mais bien que pour son cœur le Trône ait des apas⁎,
+Dis-moy, quelque chagrin⁎ ne s'y mesle-t-il pas ?
+Oüy, Zaïde, Andronic bientost nous abandonne,
+Il retourne à Byzance, il court à sa Couronne :
+Mais encor, penses-tu qu'il ait la dureté
+De nous abandonner avec tranquilité ?
+
+Il a veu l'Empereur, et va trouver mon Pere !
+Ah sçais-tu quelle perte en luy nous allons faire ?
+Aupres de Tamerlan il nous servoit d'apuy ;
+Nous le perdrons⁎, Zaïde, et peut-estre aujourd'huy :
+Un Empire⁎ éclatant le rapelle en la Grèce,
+Il laisse dans les fers⁎ une triste⁎ Princesse ;
+Et s'il cherche mon Pere, et s'il vient en ce lieu,
+Ce n'est peut estre helas ! que pour nous dire adieu.
+Mais, Zaïde, il est temps que mon secret⁎ éclate ;
+Aprens donc que l'espoir n'a plus rien qui me flate⁎ ;
+Et si Bajazet perd⁎ en ce Prince charmant⁎
+Un véritable Amy, moy j'y pers un Amant⁎.
+
+      Connois⁎ toute mon ame…
+Mais quoy, mes tristes⁎ yeux t'ont-ils caché ma flame ?
+Les soûpirs d'Andronic ont-ils parlé si peu,
+Et suis-je la premiere à t'en faire l'aveu ?
+Je n'osois, il est vray, languissante⁎, abatuë,
+T'avoüer sans rougir un amour qui me tuë ;
+Et croyois qu'Andronic, mes yeux, et ma langueur⁎,
+T'auroient apris pour moy le secret⁎ de mon cœur.
+
+      Helas ! pourquoy le taire,
+Quand mon cœur à tes yeux⁎ prest à me déceler⁎
+A soûpiré cent fois pour te faire parler ?
+Te faut-il rappeller la fatale⁎ Journée
+Où le Ciel décida de nostre destinée,
+Cette afreuse Bataille où le fier⁎ Tamerlan
+Donna le coup⁎ mortel à l'Empire⁎ Ottoman ?
+Dans l'horreur du Combat tu pûs voir que ma Mere,
+Incertaine du sort⁎ de l'Empereur mon Pere,
+Voulut sortir, le suivre, ou courir au trépas ;
+Avec toy j'estois seule, et tombé dans tes bras,
+Tremblante, desolée⁎, au comble des miseres,
+Lors⁎ qu'Andronic défit nos braves Janissaires,
+Perça jusqu'à ma Tente, et l'Epée à la main,
+S'avança, m'aperçeût, et s'arresta soudain ;
+Je parus dans tes bras de pleurs toute trempée.
+A ce triste⁎ spéctacle il baissa son Epée,
+Et ne trouvant qu'éfroy, qu'horreur de toutes parts,
+Quand je tourné sur luy mes timides⁎ regards,
+(Peut-estre ma douleur eût pour luy quelques charmes⁎)
+Je crûs voir ses yeux prests à répandre des larmes ;
+Il m'aborda d'un air et d'un pas chancelant,
+Et ne me rassura luy-mesme qu'en tremblant.
+
+Jamais un Ennemy ne parût plus aimable ;
+En vain je retraçois⁎ à mes sens effrayez
+Ce Vainqueur tout sanglant, il tomboit à mes pieds,
+Zaïde ; et bien qu'il fust tout fumant de carnage,
+Son repentir estoit dépeint sur son visage.
+Te l'avoûray-je enfin ? lors⁎ que je vis couler
+Son sang qu'avec mes pleurs il venoit de mesler,
+Que sa main de ce sang me parut toute teinte,
+Je me sentis saisir d'une secrete crainte,
+Et je vis qu'à travers mon trouble et mon ennuy⁎
+Déja mon foible cœur s'intéressoit⁎ pour luy.
+
+      Ecoute cette histoire,
+Et connois⁎ d'Andronic le triomphe et la gloire⁎.
+Tu voyois qu'il venoit partager nos douleurs,
+D'une main secourable il essuyoit nos pleurs,
+Il tâchoit d'adoucir Tamerlan et mon Pere,
+Et souvent, pour me voir, il venoit chez ma Mere,
+Je ne l'y vis que trop, et je sentis un jour
+Qu'Andronic me voulut déclarer son amour :
+Mais helas ! son respect luy faisant violence,
+Il se tust, et mon cœur entendit⁎ son silence ;
+Je connus⁎ que j'avois partagé ses liens⁎,
+Et les fers⁎ de ce Prince adoucirent les miens.
+Depuis nos cœurs brûlans d'une pareille flame,
+En ont sçeu resserrer⁎ le secret⁎ dans nostre ame ;
+J'ay contraint⁎ devant toy mes pleurs et mes soûpirs,
+Je t'ay caché mes feux⁎ sous d'autres déplaisirs,
+Et n'osant soûpirer du tourment qui me presse,
+Mes malheurs⁎ ont presté des pleurs à ma tendresse⁎.
+C'est ainsi que mon cœur à l'amour destiné,
+Se voit de tous les cœurs le plus infortuné⁎ ;
+Je vais perdre⁎ Andronic, ce coup⁎ me desespere,
+Il quitte sans chagrin⁎ et la Fille et le Pere,
+Peut-estre avec plaisir il part ce mesme jour,
+Et je demeureray seule avec mon amour.
+
+      A vos bontez, Seigneur, il faut céder,
+Il faut leur rendre hommage, et vous laisser la gloire⁎
+Que vous sçavez par tout remporter la victoire,
+Et que seul vous pouviez vous vaincre à vostre tour.
+
+Quoy ? Seigneur, Andronic est-il assez heureuse⁎
+Pour vous faire aprouver…
+
+Qui, Seigneur ?
+
+      Ah Ciel !
+
+Seigneur, un tel aveu me paroist incroyable ;
+Qui fait trembler la Terre, a l'ame inébranlable ;
+Et le grand Tamerlan, l'éfroy de l'Univers,
+N'eût jamais le cœur propre à recevoir des fers⁎.
+Mais quand il seroit vray que quelques foibles charmes⁎
+Toûjours ensevelis sous un torrent de larmes,
+Auroient touché vostre ame, hé pourois-je, Seigneur,
+Répondre à cet amour qui doit me faire horreur ?
+Peut-estre j'en dis trop, et devrois me contraindre⁎,
+Mais le sang⁎ Ottoman, Seigneur, ne sçauroit feindre,
+Et pour prix de ce sang que vous fistes couler,
+Vous ne voulez mon cœur que pour vous l'immoler.
+L'on a veu vostre bras teint du sang de mon Frere,
+Vous menacez souvent la teste de mon Pere,
+La Sultane ma Mere est morte de douleur,
+Vous fistes nostre chûte et tout nostre malheur⁎,
+Vous nous faites encor gémir sous vostre chaîne,
+Et l'amour pouroit-il naître de tant de haine ?
+
+Seigneur, il faudra voir Andronic et mon Pere ;
+Et puis qu'à vostre amour le Prince est nécessaire,
+Il faut sçavoir de luy ce qu'ils ont résolu⁎ :
+Mon Pere a sur mon cœur un pouvoir absolu,
+Et puis qu'Andronic parle…
+
+      Araxide, Seigneur !
+Quoy ? Seigneur, la Princesse…
+
+Qu'ay-je entendu⁎, Zaïde, et que m'a-t-il apris ?
+Quel trouble, quelle horreur, glacent tous mes esprits ?
+Pour Tamerlan j'aprens qu'Andronic s'intéresse⁎,
+Que mon Amant⁎ devient l'apuy de sa tendresse⁎,
+Qu'il en parle à mon Pere, et par un coup⁎ fatal⁎,
+Qu'il est son Confident, et non pas son Rival.
+S'il faut qu'à son dessein son adresse réponde,
+Il unit ses Estats à ceux de Trébizonde ;
+Araxide en est Reyne, et par raison⁎ d'Estat
+Il l'épouse… Ah raisons⁎ propres pour un Ingrat⁎.
+O Ciel ! quel intérest et quelle récompense !
+Araxide est le prix de cette confidence ;
+Oüy, je commence à voir l'excés de mon malheur⁎,
+Pour deux Trônes sans-doute⁎ il a vendu son cœur.
+Quel revers pour le mien si tendre⁎ et si timide⁎ !
+Je craignois son depart, et non pas Araxide,
+Elle arrive bientost… un Empire⁎ éclatant…
+Ah ! que n'est-il party, Zaïde, en cet instant ?
+Mais ne t'a-t-on jamais parlé de la Princesse ?
+A-t-elle cet éclat qui surprend, intéresse⁎ ?
+Mes yeux, mes tristes⁎ yeux tous pleins de ma langueur⁎
+Pouront-ils d'Andronic me conserver⁎ le cœur ?
+Les siens sont-ils à craindre ? est-elle jeune, belle ?
+Enfin⁎, est-elle propre à faire un Infidelle ?
+
+He bien, Seigneur, de vous quel destin dois-je attendre ?
+Et puis qu'à Tamerlan vous prestez vostre main
+Pour me venir porter un poignard dans le sein,
+Ma mort avec mon Pere est-elle résoluë⁎ ?
+J'y souscriray, Seigneur, si vous l'avez concluë⁎.
+
+      Non, Seigneur,
+Je sçauray de mon sang payer vostre bonheur ;
+Pour mon Pere et pour vous ma perte est légitime ;
+Prononcez-en l'Arrest⁎, j'en seray la Victime,
+Victime malheureuse⁎, et qui n'attendoit pas
+De la main d'Andronic le coup⁎ de son trépas.
+Cependant de vos feux⁎ l'ame préocupée,
+Je ne m'attendois pas si-tost d'estre trompée ;
+Mon cœur qui nourissoit d'inutiles desirs
+Reposoit sur la foy⁎ de vos tendres⁎ soûpirs ;
+Je croyois qu'Andronic dont la perte me touche,
+A ce cruel⁎ Arrest⁎ dust refuser sa bouche ;
+Mais puis qu'il en sera doublement couronné,
+Deux Trônes valent mieux qu'un cœur infortuné⁎.
+
+Ciel ! quel est son dessein ?
+ 
+      Ah ! Seigneur,
+Etoufons ce projet dont je frémis d'horreur :
+Il périroit ; ah Ciel ! mettons tout en usage,
+Je feray tout ; Sortons, pour fléchir son courage⁎,
+Courons sans balancer⁎, proposons cet accord…
+
+Ah ! Seigneur, voulez-vous que tremblante, éperduë,
+Mon Pere tout sanglant se présente à ma veuë ?
+Et quand je puis d'un mot luy donner du secours,
+Me redonner la vie en rassurant ses jours,
+Le verray-je égorger à mes yeux⁎ ?
+
+Mais, Seigneur, si mon Pere alloit prendre la fuite,
+Et s'il se déroboit aux mains de l'Empereur ;
+Si sans verser de sang il peut…
+
+Tout est perdu, Seigneur, je vais trouver mon Pere ;
+Courez chez l'Empereur, apaisez sa colere,
+Dites-luy que je puis… vous m'entendez⁎, Seigneur ;
+Mais enfin⁎ il est temps de calmer sa fureur⁎,
+Faisons notre devoir dans un coup⁎ si funeste⁎,
+Sortons, et le Destin ordonnera⁎ du reste.
+Fin du Second Acte.
+
+Quoy ? Seigneur, à la mort entraîne-t-on mon Pere,
+Et rien ne poura-t-il fléchir vostre colere ?
+Je courois l'embrasser, mais enfin vos Soldats
+Viennent cruellement m'arracher de ses bras ;
+A peine il m'avoit jointe⁎, à peine ses caresses
+Commençoient d'assurer⁎ mes timides⁎ tendresses⁎…
+Mais quels sombres regards ? ah Ciel ! je m'aperçois
+Que j'ay veu Bajazet pour la derniere fois.
+
+Ah ! Seigneur, à vos pieds je demande sa grace ;
+Quoy, Bajazet ? ah ! Ciel, mon Pere va mourir,
+Soufrez⁎-moy de le joindre⁎, ou de le secourir.
+Que sçais-je ? en ce moment peut-estre qu‘on le tuë,
+Voyez une Princesse à vos pieds éperduë,
+Et par pitié du moins frapez des mesmes coups
+Son cœur que vous voyez tremblant à vos genoux ;
+Vous me flatiez⁎ tantost⁎ que je vous estoit chere,
+Peut-on aimer la Fille, et condamner le Pere ?
+
+Seigneur, n'accablez point une ame infortunée⁎,
+Mais plaignez seulement sa triste⁎ destinée,
+Et sans nous atendrir dans de si grands malheurs⁎,
+Cachons-nous, s'il se peut, nostre amour et nos pleurs,
+A ma douleur, Seigneur, laissez-moy toute entiere,
+J'atendray, je verray, je fléchiray mon Pere ;
+Mais sans nous acabler de soûpirs superflus,
+Si vous m'aimez, partez, et ne me voyez plus.
+ 
+Hé du moins par pitié cachez-moi vostre flame,
+Retirez-vous, Seigneur, Bajazet doit venir,
+Pourois-je devant vous helas ! l'entretenir ?
+Que sçay-je ? Si l'Amour trahissoit la Nature !
+Il y va de sa vie.
+
+Et j'oublîray le mien, si vostre cœur soûpire.
+Non, Seigneur, devant vous je ne pourois rien dire,
+Andronic avec moy ne doit point se trouver,
+Vous perdriez⁎ mon Pere au lieu de le sauver,
+Mes discours pres de vous auroient de foibles armes,
+Vous lui déroberiez la moitié de mes larmes,
+Je deviendrois muete, ou devant mon Amant⁎
+Helas ! je ne pourois parler que foiblement.
+On vient, retirez-vous, sortez.
+
+Quoy ? d'un air si tranquile, et parmy tant d'allarmes⁎,
+Vous étonnerez⁎-vous, Seigneur, de voir mes larmes ?
+Puis-je avoir comme vous cette intrépidité
+Qui vous fait voir la mort avec tant de fierté⁎ ?
+Vous y courez, Seigneur, et moy je vous arreste,
+C'est moy qui peut défendre une si chere teste,
+Je ne soufriray⁎ point qu'on vous traîne à la mort,
+Je vas, je cours pour vous faire un dernier éfort,
+Je sçay le seul secret⁎ de vous sauver la vie,
+Laissez à Tamerlan épouser Astérie.
+
+Mais, Seigneur, songez-vous dans ce fatal⁎ instant,
+Si nous n'obeïssons, que la mort vous atend ;
+Ces Gardes, ces Soldats, cette funeste⁎ Escorte,
+Helas ! qu'attendent-ils rangez à cette Porte ?
+Si vous sortez, peut-estre ils fondront tous sur vous,
+Et peut-estre à mes yeux⁎ vous perceront de coups ;
+Je vous verray sanglant dans leurs mains vous debattre,
+Par cent coups redoublez ils sçauront vous abatre,
+Et cependant, d'un mot je puis les arrester ;
+Je le prononceray, quoy qu'il puisse coûter,
+Et vous ne verrez point l'infidelle Astérie
+Par ses cruels⁎ refus vous arracher la vie.
+J'en tremble ; ah ! si pour vous vous n'avez point d'éfroy,
+Ah ! Seigneur, ah ! mon Pere, au moins tremblez pour moy.
+Et quand vous périrez par l'ordre du Tartare,
+Seray-je moins en proye à sa fureur⁎ barbare ?
+Sans pouvoir vous ofrir à mon cœur éperdu,
+Je demeureray seule, et j'auray tout perdu⁎ ;
+Je demande à vos pieds par toute ma tendresse⁎,
+Que pour moy vous ayez un peu plus de foiblesse ;
+D'une ame plus tranquile atendez vostre sort⁎,
+Ne courez point vous-mesme au devant de la mort,
+Ortobule a péry, j'ai veu mourir ma Mere,
+Je voy le mesme Bras qui menace mon Pere ;
+Mais enfin malgré vous je doy vous secourir,
+Ils sont morts, vous vivez, et vous allez mourir.
+
+Je ne veux obtenir de vous que vostre vie,
+Ne vous informez point du trouble de mon cœur,
+J'en rougis, mais soufrez⁎ que je parte, Seigneur ;
+Oüy, je vais de ce pas…
+ 
+Ah ! ne m'exposez plus au trouble où je me voy,
+Vous armez un Amant⁎ contre vous, contre moy,
+Ne me repetez point ce nom seul qui m'acable,
+Et si j'obeïssois, vous en seriez coupable.
+
+Vous obeïr ? ah Ciel ! non, Seigneur, je ne puis.
+Mon Pere, soufrez⁎-moy contre une injuste envie⁎
+De vous desobeïr une fois en ma vie ;
+Je vous quite, et je vas vous sauver malgré vous.
+
+Me plaindrez-vous, Seigneur, dans ma triste⁎ avanture ?
+J'ay parlé pour mon Pere, et servy la Nature,
+J'ay fait ce que j'ay dû, mais je viens à mon tour
+Aux yeux⁎ de mon Amant⁎ satisfaire à⁎ l'amour ;
+Ma bouche a prononcé pour un devoir funeste⁎,
+Je ne m'en repens point : mon cœur fera le reste,
+Il vient entre vos mains, tout plein de son malheur⁎,
+Remettre ses soûpirs, mes pleurs et ma douleur…
+
+      Ingrat⁎, que dites-vous ?
+Pouvez-vous me porter de si funestes⁎ coups⁎ ?
+Quand à vos yeux⁎ mon feu⁎ ne peut plus se contraindre⁎,
+Quand je viens devant vous soûpirer et me plaindre,
+Que mon cœur vous fait voir ses vœux⁎ desesperez,
+C'est vous, cruel⁎, c'est vous qui me le déchirez ;
+Enfin, quand je m'apreste à finir⁎ vos allarmes⁎,
+Que bientost de mon sang je vay payer vos larmes,
+Que quite envers mon Pere helas ! en ce moment
+Je cherche à m'acquiter aupres de mon Amant⁎,
+Il m'ose reprocher mon devoir et mon Pere,
+Ce que luy-mesme enfin⁎ m'a contrainte⁎ de faire,
+Tout cela, dans l'instant que je viens en ce lieu
+Le pleurer, et luy dire un eternel adieu.
+
+Il n'est plus temps, Seigneur, de vous rien déguiser⁎,
+En vain Tamerlan croit aujourd'huy m'épouser ;
+D'abord, j'avois voulu, pour vanger ma disgrace⁎,
+Fille de Bajazet, en soûtenir l'audace,
+Et cachant un poignard, pour vanger mon malheur⁎,
+Luy donner une main qui luy perçât le cœur.
+J'ay conçeu sans trembler ce dessein teméraire,
+Mais quoy ? du mesme coup⁎ j'aurois perdu⁎ mon Pere,
+Et ce triste⁎ penser m'a donné de l'éfroy ;
+Mais il faut le sauver, et ne perdre⁎ que moy,
+Engager Tamerlan d'une foy⁎ mutuelle,
+Mourir, et vous prouver que je vous suis fidelle.
+ 
+Si Tamerlan m'épouse, helas ! ce cœur si tendre⁎,
+Qu'Andronic malgré moy veut encore défendre,
+Sera-t-il pas frapé du coup⁎ le plus afreux…
+
+      Ciel ! que voulez-vous faire ?
+Songez que vous perdez⁎ et la Fille et le Pere ;
+Et quand vous m'aprenez que vous voulez mourir,
+Est-ce là le secret⁎ de vous faire obeïr ?
+
+      Hé voulez-vous
+Encore un coup⁎ me voir Tamerlan pour Epoux ?
+Songez-vous à l'horreur où ce destin me livre ?
+ 
+Quoy ? vous-mesme, Andronic, ordonne qu'Astérie
+Etoufe son amour, l'abandonne, l'oublie ?
+Oüy, puis que mon Amant⁎ m'aprend sans s'émouvoir
+Par de fortes raisons⁎ mon funeste⁎ devoir,
+Que luy seul d'un œil sec contemplant ma disgrace⁎
+Me dit tranquilement ce qu'il faut que je fasse,
+Je luy vas obeïr… Mais, Seigneur, entre nous,
+Non, je n'atendois pas tant de force de vous,
+J'atendois d'Andronic un peu plus de foiblesse,
+J'atendois de son cœur un peu plus de tendresse⁎,
+J'atendois… mais que dis-je helas ! j'en dois rougir,
+Seigneur, sans balancer⁎ je vay vous obeïr,
+Et je cours de ce pas épouser…
+
+Vous m'arrestez ? pourquoy m'avez-vous convaincuë ?
+Cette force, Seigneur, qu'est-elle devenuë ?
+La Nature, mon Pere, Andronic, mon devoir,
+Et de plus vos raisons⁎…
+
+N'augmentez pas, Seigneur, mon trouble et mon ennuy⁎,
+Mais plaignez seulement l'excés de ma misere,
+Il ne me souvient plus de vous pres de mon Pere,
+Et lors⁎ que je vous voy, dans ce triste⁎ moment
+J'oublie aussi mon Pere aupres de mon Amant⁎ ;
+Bajazet, Andronic, mon devoir, ma tendresse⁎,
+Enfin⁎ tout m'assassine.
+
+      Moy, Seigneur ? que puis-je vous aprendre ?
+Quels soûpirs ?… si ce n'est des soûpirs de couroux
+Pour un Frere qui parle, et qui percé de coups,
+Me reproche tout haut que vostre main sanglante
+D'un sang qui m'est si cher paroît encor fumante ;
+Sa chere ombre sans cesse à mes yeux⁎ se fait voir,
+Qui me suit, qui m'arreste, et m'aprend mon devoir,
+Et qui me retraçant⁎ sa déplorable histoire,
+Me dit, que j'ay vendu son sang⁎ et sa mémoire,
+Et que par vostre hymen⁎ je trahis…
+
+Moy ? Seigneur… Andronic, allez voir Araxide,
+Allez, sans balancer⁎, obeïssez, partez.
+ 
+Auriez vous un Rival pour une infortunée⁎,
+Languissante⁎, captive, aux pleurs abandonnée,
+Qui fust longtemps en bute à vostre inimitié,
+Rebut de la Fortune⁎, objet⁎ de la pitié ?
+Ah ! Seigneur, qui voudroit dans ma fortune⁎ afreuse
+Prodiguer des soûpirs pour une malheureuse⁎,
+Qui gémira toûjours des maux qu'elle a soufers⁎,
+Et qui n'a pour tous biens que des pleurs et des fers⁎ ?
+Andronic a des yeux, Araxide est charmante⁎,
+Il la verra, son cœur remplira⁎ vostre attente,
+Oüy, Seigneur, j'en répons, il va vous obeïr.
+
+Ah ! Seigneur, arrestez ?… Prince, quelles allarmes⁎ ?
+Au nom de nostre amour, et par toutes mes larmes…
+
+Ah ! Seigneur… il me quite helas ! que vais-je faire ?
+N'estoit-ce pas assez de trembler pour mon Pere ?
+Et cependant je touche au funeste⁎ moment
+Où je verray périr mon Pere et mon Amant⁎ ?
+Quoy ? Zaïde, faut-il qu'à moy-mesme funeste⁎,
+En perdant⁎ tout, je livre un Amant⁎ qui me reste ?
+Qu'à ma Rivale enfin⁎, j'abandonne son cœur,
+Et que pour le sauver j'allume leur ardeur⁎ ?
+S'il faut perdre⁎ ton cœur pour conserver⁎ ta vie,
+Cher Andronic, pardonne à la foible Astérie,
+Je te verrois plutôt… Zaïde, n'entens⁎ pas
+Les douloureux transports⁎ d'un cruel⁎ embaras⁎,
+Ferme, ferme les yeux sur toute ma foiblesse,
+Excuse ma douleur, pardonne à ma tendresse⁎ ;
+Bajazet, Andronic, Pere, Amant⁎ malheureux⁎,
+Je sçauray périr seule, et vous sauver tous deux.
+Fin du Quatriéme Acte.
+
+Ne m'abandonne point, tout est perdu, Zaïde,
+As-tu veu comme moy la Princesse Araxide ?
+Elle vient d'arriver, mon malheur⁎ est certain,
+Peut-estre qu'Andronic l'épousera demain,
+Aujourd'huy pour ma mort tout est d'intelligence⁎,
+Avant ce prompt retour⁎ j'avois quelque espérance ;
+Loin d'Araxide helas ! et pres de mon Amant⁎
+Je voyois mes malheurs⁎ dans quelque éloignement ;
+Mais j'ay veu de trop pres cette pompe⁎ fatale⁎,
+Qui suivoit dans le Camp ma superbe⁎ Rivale,
+Ces Escadrons rangez, ce grand nombre de Chars,
+Qui de l'Armée entiere attiroient les regards,
+Ces Gardes, ces Soldats, cette Suite nombreuse,
+Cette foule qu'entraîne une fortune⁎ heureuse⁎,
+Ces cris de joye, en l'air redoublez tant de fois,
+Cet apareil⁎ qui marche à la suite des Roys,
+Tout allarmoit⁎ un cœur trop tendre⁎ et trop timide⁎,
+Et j'ay tremblé sur tout en voyant Araxide ;
+Quand son Char a paru, mon cœur en a frémy,
+Dans le trouble où j'estois je l'ay veuë à demy ;
+Mais il faut l'avoüer enfin malgré ma haine,
+Ah ! Zaïde, elle est belle, et de plus elle est Reyne.
+
+Un cœur ne peut-il pas changer en un instant ?
+Voy, d'Araxide, voy la grandeur importune,
+Regarde avec pitié toute mon infortune⁎,
+Sur le Trône elle brille aux yeux de l'Univers,
+Moy, dans l'obscurité je languis⁎ dans les fers⁎,
+Un Sceptre peut tenter⁎ une ame ambitieuse,
+Ma Rivale est charmante⁎, et je suis malheureuse⁎,
+Andronic est sensible, il peut manquer de foy⁎,
+Il m'aime, mais helas ! s'il s'aimoit plus que moy !
+
+S'il est ainsi, Zaïde, ah ! qu'elle ait mille charmes⁎,
+Que ses yeux soient brillans, les miens couverts de larmes,
+Que l'heureuse⁎ Araxide allume avec éclat
+Cet amour politique⁎ et de raison⁎ d'Etat !
+Qu'elle soit mille fois plus belle et plus aimable,
+Qu'aux yeux⁎ de Tamerlan je paroisse éfroyable,
+Et s'il se peut helas ! dans mon sort⁎ douloureux
+Qu'Andronic ait pour moy toûjours les mesmes yeux !
+Mais s'il falloit, Zaïde, à moy-mesme fatale⁎
+Contraindre⁎ mon Amant⁎ d'adorer⁎ ma Rivale,
+Que pour sauver ses jours il fallut le céder,
+Quel discours emploiray-je à le persuader ?
+On m'en a menacée, et tantost⁎ le Tartare
+Condamnoit ma tendresse⁎ à cet effort barbare ;
+Helas ! je me serois trahie à tous momens,
+Ciel ! que n'a-t-il quité ces cruels⁎ sentimens ?
+Mais il vient, ah fuyons, de crainte que ma vûë
+Ne rallume en son cœur le poison qui me tuë.
+
+      Quoy ? Seigneur, est-il vray que mon Pere ?…
+ 
+Ah Ciel !
+
+      Ah ! Seigneur
+Les Couronnes n'ont rien de touchant pour mon cœur ;
+Depuis que dans les fers⁎ je suis acoûtumée,
+Seigneur, de la grandeur je ne suis plus charmée⁎.
+Araxide avec vous remplira⁎ mieux que moy
+Un rang que vous devez à son cœur, à sa foy⁎,
+Oubliez Astérie, Esclave infortunée⁎,
+Je ne mérite point d'estre icy couronnée,
+Et si mon Pere enfin plus soûmis et plus doux,
+Vouloit se réünir⁎, Seigneur, avecque vous,
+Si d'un esprit moins fier⁎… Ah Ciel, est-il possible ?
+Bajazet qui parust toûjours ferme, infléxible,
+Luy qui brava toûjours… tantost⁎ mesme, Seigneur,
+Mes larmes, mes soûpirs, n'ont pû toucher son cœur,
+J'ay fait ce que j'ay pû pour attendrir son ame,
+Toûjours inéxorable, intrépide…
+
+Quoy ? Seigneur, auriez-vous l'ame assez inhumaine…
+
+      Que dites-vous, Seigneur ?
+Pourquoy donner encor ce comble à mon malheur⁎ ?
+Et n'ay-je pas assez de mortelles disgraces⁎
+Sans qu'il y faille encor ajoûter vos menaces ?
+Tout retombe sur moy ? voulez-vous en mourant
+Faire à mes tristes⁎ yeux un spéctacle sanglant ?
+Et faudra-t-il périr, pour croistre ma misere,
+De la main d'un Amant⁎ et de celle d'un Pere ?
+J'en seray la Victime, et je dois obeïr,
+Mais je n'ignore pas quand il faudra mourir.
+Il vient. Ah Ciel !
+
+A ce nouveau bonheur immolez Astérie,
+Je n'en murmure⁎ point, qu'il me coûte la vie,
+Dois-je pas vous la rendre ? il n'importe, Seigneur,
+Finissez⁎ vostre haine, embrassez l'Empereur,
+Reünissez⁎ deux cœurs…
+
+Seigneur, que dites-vous, et quel triste⁎ présage…
+Mais Ciel ! à chaque instant vous changez de visage,
+Mon Pere, qu'avez-vous ? quel afreux changement ?
+
+      Mais que vois-je ? ah Seigneur il chancelle,
+Je tremble.
+
+Juste Ciel !
+
+      Seigneur, je veux vous suivre,
+Et je ne pouray pas un moment vous survivre.
+
+Ah ! laisse-moy, Tyran, expirer de douleur !
+Tu pers tout aujoud'huy, malheureuse⁎ Astérie,
+Et pour dernier malheur⁎ il te reste la vie.
+
+
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_andronic
+
 Enfin, Leon, tu vois cette grande Journée
 Qui doit de Tamerlan éclairer l'hymenée⁎ ;
 La Princesse Araxide est l'objet⁎ de ses vœux⁎,
@@ -70,19 +1309,6 @@ Verront-ils Andronic au Trône de ses Peres ?
 Tu m'aprens que mon Frere en est abandonné,
 Et tu crois que dans peu j'y seray couronné.
 
--*who_leon
-Je l'espere⁎, Seigneur, la superbe⁎ Byzance,
-Apres tant de fureurs⁎, rentre en l'obeïssance ;
-La prise de Sebaste, et tant d'autres combats
-Où Tamerlan vainqueur employa vostre bras,
-Et Bajazet captif, et l'Europe allarmée⁎,
-La font trembler au bruit⁎ de vostre renommée.
-Nos Grecs ont député ; Phocas et Leontin
-De l'Empire⁎ à ses pieds ont soûmis le destin,
-Et par ce coup⁎ d'Etat prévenant⁎ la tempeste,
-Esperent⁎ par sa main couronner vostre teste.
-
--*who_andronic
 Oüy, j'espere⁎et je crains ; tu connois⁎ l'Empereur,
 Sa libéralité⁎ répond à son grand cœur⁎,
 D'une main il attaque et prend une Couronne,
@@ -112,11 +1338,6 @@ Un intérest plus cher occupe tout mon cœur,
 Et je sens dans le trouble où ce cœur s'abandonne,
 Que pour le rendre heureux⁎ c'est peu qu'une Couronne.
 
--*who_leon
-Je vous entens⁎, Seigneur ; ce cœur si genéreux⁎,
-Qui n'aimoit que la gloire⁎, est peut-estre amoureux.
-
--*who_andronic
 Je l'avouë, il est vray, je ne l'ay que trop tendre⁎,
 La Gloire⁎ m'a parlé, l'Amour s'est fait entendre⁎,
 Et les suivant tous deux, j'ay donné tour-à-tour
@@ -158,13 +1379,6 @@ A noury nostre amour de douleur et de crainte,
 Et la foule des maux que je dois prévenir⁎,
 Leon, me fait encor trembler pour l'avenir.
 
--*who_leon 
-Seigneur, pour Bajazet vous n'avez rien à craindre,
-Par vos soins⁎ du Tartare il n'a plus à se plaindre ;
-Sans-doute⁎ l'Otoman le touche, et son malheur⁎
-Fait naître un mouvement de pitié dans son cœur.
-
--*who_andronic
 Oüy, je vois Tamerlan d'une humeur triste⁎, et sombre ;
 Et quand de son chagrin⁎ je tâche à percer l'ombre,
 Cette pitié me flate⁎, et j'y crois entrevoir
@@ -178,17 +1392,6 @@ Helas ! dans ce projet si j'espere⁎, je tremble,
 J'y voudrois conserver⁎ l'intérest de mon cœur ;
 J'en soûpire, et je crains ma prochaine⁎ grandeur.
 
--*who_leon
-Seigneur, à l'Empereur demandez la Princesse ;
-Et tandis que son Camp est rempli⁎ d'allégresse,
-Que l'on croit que son cœur va goûter à son tour
-Dans un second hymen⁎ les douceurs de l'amour,
-Que ses Fils sont allez au devant d'Araxide,
-Faites que cet hymen⁎ de vostre sort⁎ décide ;
-Ménagez Tamerlan, Bajazet trop heureux⁎
-Consentira sans-doute⁎ à l'honneur de vos feux⁎;
-
--*who_andronic
 Araxide, il est vray, m'est d'un heureux⁎ présage,
 Son arrivée au Camp m'est un grand avantage,
 Je puis la faire agir aupres de l'Empereur,
@@ -197,85 +1400,16 @@ Bajazet vient, sondons cette ame si hautaine,
 Et tâchons d'étoufer les restes de sa haine.
 Laisse-nous.
 
-**** *book_ *id_I02 *act_I *date_1676 *creator_pradon 
-
--*who_bajazet
-      C'est à vous sans-doute⁎ à qui je dois
-Ce peu de liberté, Seigneur, où je me vois.
-Tamerlan par vos soins⁎ a suspendu sa haine,
-Et c'est vous, qui brisez la moitié de ma chaîne ;
-Je m'en flate⁎, et mon cœur seroit au desespoir,
-Si c'estoit au Tyran qu'il fallut le devoir.
-Croit-il par le retour d'une feinte clémence,
-Que j'oublie un moment ma haine et ma vangeance ?
-S'il pense me fléchir, il se trompe, Seigneur,
-Ses afronts sont gravez trop avant dans mon cœur ;
-D'Ortobule égorgé la trop funeste⁎ image
-Renouvelle toûjours ma douleur et ma rage,
-(Ce cher Fils qui parût incapable d'éfroy,
-Et qui chargé de fers⁎ lui parla comme moy.)
-Je me retrace⁎ encor la Sultane expirante,
-Astérie à ses pieds éperduë et tremblante ;
-Cette indigne⁎ Prison, où je me vis enfin
-La fable⁎ et le joüet d'un insolent destin.
-Je vois donc un Tyran me couvrir d'infamie,
-Que tira du Néant ma fortune⁎ ennemie,
-Et qui sans le secours de ses grands changemens,
-A peine auroit servy d'Esclave aux Otomans.
-
--*who_andronic
 Ah ! Seigneur, oubliez une vangeance vaine,
 Tamerlan peut briser tout-à-fait vostre chaîne,
 Il est Maistre, il peut tout, et j'entens⁎ à regret…
 
--*who_bajazet 
-Pour estre son Captif, suis-je moins Bajazet ?
-Oüy, quand il m'ofriroit le Sceptre, la Couronne,
-La liberté, le jour, sa main les empoisonne ;
-Il me laisse la vie et peut-estre aujourd'huy
-Je la perdray⁎, Seigneur, pour n'avoir rien de luy.
-
--*who_andronic
 Quoy, Seigneur ? vostre cœur à vous-mesme barbare,
 Et plus cruel⁎ pour vous que ne fust le Tartare,
 Va-t-il nous replonger dans les mesmes douleurs ?
 Et quand vous pouvez voir la fin de vos malheurs⁎,
 Que Tamerlan touché d'une pitié sincére…
 
--*who_bajazet
-Son indigne⁎ pitié rallume ma colére ;
-Mais Tamerlan peut-estre en mon funeste⁎ sort⁎
-Envîra quelque jour⁎ la gloire⁎ de ma mort.
-Cette feinte pitié que marque le Tartare,
-Aigrit⁎ mon desespoir par sa douceur barbare ;
-Et lors⁎ qu'il voit la mort qui vient à mon secours,
-Preste à briser mes fers⁎ en terminant⁎ mes jours,
-Sa pitié politique⁎, et sa fatale⁎ envie⁎,
-Veulent malgré la mort m'enchaîner à la vie,
-Et donner en spéctacle aux yeux de l'Univers
-Un Empereur qui traîne et sa vie et ses fers⁎.
-Ainsi je ne veux plus d'une vie importune,
-Triste⁎ et funeste⁎ objet⁎ des coups⁎ de la Fortune⁎.
-J'ose m'ouvrir à vous ; car loin d'estre ennemis,
-Je vous ay toûjours veu pour moy le cœur d'un Fils,
-Seigneur, et j'eus pour vous depuis l'ame d'un Pere ;
-Mais, le Ciel fist cette ame et trop grande et trop fiere⁎,
-Pour soufrir⁎ plus longtemps les injures⁎ du Sort⁎;
-Je veux sortir des fers⁎, ou courir à la mort.
-Ce n'est point avec vous, Prince, que je dois feindre,
-J'ay sçeu depuis longtemps me taire et me contraindre⁎,
-Et je n'ay point voulu vous charger d'un secret⁎
-Qui pût vous entraîner au sort⁎ de Bajazet.
-Je sçay que Tamerlan vous chérit, vous apuye,
-Je respecte en vous deux l'amitié qui vous lie ;
-Et pour mes intérests je ne fais point de vœux⁎
-Qui tentent⁎ la vertu⁎ d'un Amy genéreux⁎.
-Ainsi, j'ay bien voulu, Prince, vous faire entendre⁎
-Que pour ma liberté je vay tout entreprendre,
-Mais que tout mon espoir dans un si beau dessein
-Est de mourir au moins les armes à la main.
-
--*who_andronic
 Ah ! que prétendez⁎-vous, Seigneur, qu'allez vous faire ?
 Songez où vous expose un dessein teméraire ;
 Que vous allez jetter par ce cruel⁎ effort
@@ -283,27 +1417,6 @@ Et vostre Fille et vous dans les bras de la Mort.
 Si vous avez pour elle encor quelque tendresse⁎,
 Ménageons un accord…
 
--*who_bajazet
-      Vous sçavez ma foiblesse,
-Ne la réveillez point dans mon cœur abatu,
-Pour corrompre mon ame, et tenter⁎ ma vertu⁎.
-Je fuyrai, mais sans-doute⁎ une fuite sanglante
-Par une heureuse⁎ mort remplira⁎ mon attente ;
-Et je veux dans l'espoir que mon cœur s'est promis,
-Du moins sortir couvert du sang des Ennemis.
-Tout est prest, l'heure est prise. Il me reste Astérie,
-Je vous la recommande⁎, ayez soin de sa vie,
-Pour son intérest seul je vous ouvre mon cœur :
-Oüy, pour elle ayez soin d'apaiser l'Empereur,
-Je me suis aperçeu qu'elle vous estoit chere ;
-Que l'amour soit le sçeau du secret⁎ de son Pere.
-Vous essuyrez ses pleurs, si je meurs aujourd'huy ;
-Ne l'abandonnez pas, et luy servez d'apuy.
-Adieu, Seigneur.
-
-**** *book_ *id_I03 *act_I *date_1676 *creator_pradon 
-
--*who_andronic
       Ah Ciel ! que vient-il de m'aprendre ?
 Et dans son desespoir que va-t-il entreprendre ?
 Il faut en détourner l'orgueilleux Bajazet,
@@ -311,22 +1424,6 @@ Etoufer, s'il se peut, son funeste⁎ projet ;
 Le Ciel me dictera ce que je dois luy dire…
 Mais Tamerlan paroist, je tremble et je soûpire.
 
-**** *book_ *id_I04 *act_I *date_1676 *creator_pradon
-
--*who_tamerlan
-Prince, j'ai veu les Grecs, et leurs Ambassadeurs
-Ont remis dans mes mains leur Empire⁎ et leurs cœurs :
-Mais quand pour tout objet⁎ on regarde la gloire⁎,
-Que l'on combat toûjours pour la seule victoire,
-Et qu'on est l'ennemy, la terreur des Tyrans,
-L'on n'abuse jamais du droit des Conquérans ;
-Ce titre spécieux⁎ n'a rien qui m'ébloüisse,
-Il faut que de ses droits chaque Prince joüisse :
-Je vous rends vostre Empire, et pour comble d'honneur,
-Moy-mesme je vous veux déclarer Empereur.
-Vous partirez dans peu, vous reverrez Byzance…
-
--*who_andronic
 Ah Seigneur ! permettez que ma reconnoissance
 Réponde par mon trouble aux bontez que j'atends,
 Mais pour les mériter donnez-moy quelque temps ;
@@ -336,77 +1433,20 @@ Et vous pouvez, Seigneur, me faire un sort⁎ plus doux,
 En ne m'exilant pas si-tost d'aupres de vous.
 Soufrez⁎ qu'aupres de vous je combate, et j'espere⁎…
 
--*who_tamerlan
-J'y consens, et de plus vous m'estes nécessaire,
-Et je craignois déja que la soif de régner
-Avec plaisir de moy ne vous fist éloigner ;
-Mon cœur qui ne se peut ouvrir avecque un autre,
-Est charmé⁎ de se voir d'accord avec le vostre,
-Puis que vous pouvez seul, lors⁎ que tout m'est soûmis,
-Vaincre le plus mortel de tous mes Ennemis.
-
--*who_andronic
 Quel est cet Ennemy, Seigneur, qui vous irrite ?
 Le Persan, l'Indien, le Turc, le Moscovite,
 Ont trop senty la force et le poids de vos coups.
 Cependant quelqu'un d'eux s'arme-t-il contre vous ?
 Seigneur, si tout mon sang…
-
--*who_tamerlan
-      Il n'en faut point répandre
-De sang, contre un Captif qui ne peut se défendre,
-Dont l'orgueil cependant veut m'imposer la Loy :
-Enfin⁎, c'est Bajazet qu'il faut vaincre pour moy.
-Vous seul pouvez fléchir son courage⁎ indomptable,
-Adoucir sa fierté⁎, la rendre plus traitable ;
-C'est aujourd'huy qu'il faut nous réünir⁎ tous deux.
-
--*who_andronic 
+ 
 Vous réünir⁎ ? Ah Ciel ! c'est l'objet⁎ de mes vœux⁎ ;
 Soufrez⁎ qu'à ce dessein, Seigneur, ma joye éclate,
 Et quand pour Bajazet vostre pitié me flate⁎,
 J'aprenne avec plaisir que sa juste douleur
 Ait attendry vostre ame, et touché vostre cœur.
 
--*who_tamerlan
-Prince, vous le sçavez, trop jaloux de sa gloire⁎,
-Des mains de Bajazet j'enlevé la victoire ;
-Mais vous ne sçaviez pas qu'un Ennemy secret
-Eût vaincu Tamerlan, et vangé Bajazet.
-Bajazet dont le bras a desolé⁎ la Terre,
-Bajazet qui porta le foudre de la Guerre,
-Fust terrassé luy-mesme, et gémit dans mes fers⁎ :
-J'ay du bruit⁎ de sa chûte étonné⁎ l'Univers,
-Ce foudre cependant fixé dans sa Famille,
-A passé⁎ de ses mains dans les yeux de sa Fille.
-
--*who_andronic
 Quoy, Seigneur, vostre cœur en seroit-il épris ?
 
--*who_tamerlan
-Je l'aime, (avec raison⁎ vous en estes surpris,)
-Mon cœur qui de la guerre avoit fait son étude,
-N'eut point fait des soûpirs une indigne⁎ habitude ;
-Il ne connoissoit⁎ point ces tendres⁎ mouvemens,
-Ce trouble, ces transports⁎ si connus aux Amans⁎,
-Mais Astérie et vous depuis avez fait naître
-Ce trouble et ces transports⁎ dont je ne suis plus maître.
-Quand le fier⁎ Bajazet insultoit⁎ mon couroux,
-Vous ameniez sa Fille en pleurs à mes genoux ;
-Je ne pûs soûtenir l'éclat de tant de charmes⁎,
-J'aperçeus trop de feux⁎ au travers de ses larmes,
-Et ses yeux si charmans⁎, armez de leur douleur,
-Furent conduits par vous pour m'en percer le cœur.
-Prince, de mon amour soyez dépositaire,
-Préparez-y l'esprit de la Fille et du Pere,
-Faites-luy de ma part espérer⁎ un Traité
-Qui luy rende aujourd'huy sa pleine liberté :
-Allez, et luy portez cette grande nouvelle ;
-Je veux par cet hymen⁎ finir⁎ nostre querelle,
-Je suis Maître, et pourois l'y contraindre⁎ en ce jour ;
-Mais, Prince, je ne veux le devoir qu'à l'Amour.
-
--*who_andronic
 Mais vous souvenez-vous d'une illustre⁎ Princesse,
 Qui vous aporte un Sceptre avecque sa tendresse⁎ ?
 Araxide, Seigneur, qui malgré tant de Roys
@@ -416,33 +1456,8 @@ Et quand ce changement se fera reconnoistre⁎,
 Songez à quel mépris vous allez l'exposer.
 Vos refus…
 
--*who_tamerlan
-      Mon dessein n'est pas de l'épouser,
-J'en fais courir le bruit⁎ pour donner jalousie
-A tous ces petits Roys qui rampent dans l'Asie,
-Et qui voulant agir avec moy comme égaux,
-Ont osé s'honorer du nom de mes Rivaux.
-Je leur veux enlever une si belle proye ;
-Que je l'épouse, ou non, qu'importe qu'on le croye ?
-Je sçauray de ma main luy choisir un Epous ;
-Et si vous m'en croyez, Prince, ce sera vous.
-
--*who_andronic
 Moy, Seigneur, l'épouser ?
 
--*who_tamerlan
-      Que pouriez-vous mieux faire ?
-Son Frere est mort, d'un Trône elle est seule heritiere ;
-Songez-y, vostre cœur en sera satisfait,
-Mais sur tout, ménagez l'esprit de Bajazet,
-Allez le voir ; pour moy, j'iray chez Astérie.
-J'attens tout de vos soins⁎, Prince, et je m'y confie⁎ ;
-Et songez en ce jour, si je suis son Epous,
-Que Byzance, Araxide, enfin⁎, tout est à vous.
-
-**** *book_ *id_I05 *act_I *date_1676 *creator_pradon
-
--*who_andronic
 Il adore⁎ Astérie, et m'en fait confidence,
 Il vient sur son Rival fonder son espérance ;
 D'une main, il m'éleve et me fait Empereur ;
@@ -465,335 +1480,8 @@ Dans le goufre et l'horreur des maux que je prévois,
 O Ciel ! ferme mes yeux sur tout ce que je vois.
 Fin du Premier Acte.
 
-**** *book_ *id_II01 *act_II *date_1676 *creator_pradon
-
--*who_asterie
-Tu m'aprens que la Cour est pleine d'allégresse,
-Que l'heureux⁎ Andronic va régner dans la Gréce,
-Qu'il sera couronné des mains de l'Empereur ;
-Mais de quel œil voit-il sa nouvelle grandeur ?
-Quand Tamerlan luy fait un si grand avantage,
-Sans-doute⁎ que la joye éclate en son visage :
-Mais bien que pour son cœur le Trône ait des apas⁎,
-Dis-moy, quelque chagrin⁎ ne s'y mesle-t-il pas ?
-Oüy, Zaïde, Andronic bientost nous abandonne,
-Il retourne à Byzance, il court à sa Couronne :
-Mais encor, penses-tu qu'il ait la dureté
-De nous abandonner avec tranquilité ?
-
--*who_zaide
-Il vient de me parler ; son desordre, Madame,
-M'a fait connoître⁎ assez le trouble de son ame ;
-Il viendra vous trouver, il est triste⁎, inquiet,
-Il a veu l'Empereur, et cherche Bajazet.
-
--*who_asterie
-Il a veu l'Empereur, et va trouver mon Pere !
-Ah sçais-tu quelle perte en luy nous allons faire ?
-Aupres de Tamerlan il nous servoit d'apuy ;
-Nous le perdrons⁎, Zaïde, et peut-estre aujourd'huy :
-Un Empire⁎ éclatant le rapelle en la Grèce,
-Il laisse dans les fers⁎ une triste⁎ Princesse ;
-Et s'il cherche mon Pere, et s'il vient en ce lieu,
-Ce n'est peut estre helas ! que pour nous dire adieu.
-Mais, Zaïde, il est temps que mon secret⁎ éclate ;
-Aprens donc que l'espoir n'a plus rien qui me flate⁎ ;
-Et si Bajazet perd⁎ en ce Prince charmant⁎
-Un véritable Amy, moy j'y pers un Amant⁎.
-
--*who_zaide
-Vous, Madame, un Amant⁎ ?
-
--*who_asterie
-      Connois⁎ toute mon ame…
-Mais quoy, mes tristes⁎ yeux t'ont-ils caché ma flame ?
-Les soûpirs d'Andronic ont-ils parlé si peu,
-Et suis-je la premiere à t'en faire l'aveu ?
-Je n'osois, il est vray, languissante⁎, abatuë,
-T'avoüer sans rougir un amour qui me tuë ;
-Et croyois qu'Andronic, mes yeux, et ma langueur⁎,
-T'auroient apris pour moy le secret⁎ de mon cœur.
-
--*who_zaide
-Le respect m'empeschoit d'en percer le mystere,
-Madame, et je n'osois…
-
--*who_asterie
-      Helas ! pourquoy le taire,
-Quand mon cœur à tes yeux⁎ prest à me déceler⁎
-A soûpiré cent fois pour te faire parler ?
-Te faut-il rappeller la fatale⁎ Journée
-Où le Ciel décida de nostre destinée,
-Cette afreuse Bataille où le fier⁎ Tamerlan
-Donna le coup⁎ mortel à l'Empire⁎ Ottoman ?
-Dans l'horreur du Combat tu pûs voir que ma Mere,
-Incertaine du sort⁎ de l'Empereur mon Pere,
-Voulut sortir, le suivre, ou courir au trépas ;
-Avec toy j'estois seule, et tombé dans tes bras,
-Tremblante, desolée⁎, au comble des miseres,
-Lors⁎ qu'Andronic défit nos braves Janissaires,
-Perça jusqu'à ma Tente, et l'Epée à la main,
-S'avança, m'aperçeût, et s'arresta soudain ;
-Je parus dans tes bras de pleurs toute trempée.
-A ce triste⁎ spéctacle il baissa son Epée,
-Et ne trouvant qu'éfroy, qu'horreur de toutes parts,
-Quand je tourné sur luy mes timides⁎ regards,
-(Peut-estre ma douleur eût pour luy quelques charmes⁎)
-Je crûs voir ses yeux prests à répandre des larmes ;
-Il m'aborda d'un air et d'un pas chancelant,
-Et ne me rassura luy-mesme qu'en tremblant.
-
--*who_zaide
-Je vis que vostre trouble au sien estoit semblable.
-
--*who_asterie
-Jamais un Ennemy ne parût plus aimable ;
-En vain je retraçois⁎ à mes sens effrayez
-Ce Vainqueur tout sanglant, il tomboit à mes pieds,
-Zaïde ; et bien qu'il fust tout fumant de carnage,
-Son repentir estoit dépeint sur son visage.
-Te l'avoûray-je enfin ? lors⁎ que je vis couler
-Son sang qu'avec mes pleurs il venoit de mesler,
-Que sa main de ce sang me parut toute teinte,
-Je me sentis saisir d'une secrete crainte,
-Et je vis qu'à travers mon trouble et mon ennuy⁎
-Déja mon foible cœur s'intéressoit⁎ pour luy.
-
--*who_zaide
-Jamais deux Ennemis n'eurent si peu de haine,
-Il vous traita bien moins en Esclave qu'en Reyne ;
-Et depuis, ses respects, et les soins⁎ assidus,
-Qu'aupres de Tamerlan pour vous il a rendus,
-Madame, font connoître⁎…
-
--*who_asterie
-      Ecoute cette histoire,
-Et connois⁎ d'Andronic le triomphe et la gloire⁎.
-Tu voyois qu'il venoit partager nos douleurs,
-D'une main secourable il essuyoit nos pleurs,
-Il tâchoit d'adoucir Tamerlan et mon Pere,
-Et souvent, pour me voir, il venoit chez ma Mere,
-Je ne l'y vis que trop, et je sentis un jour
-Qu'Andronic me voulut déclarer son amour :
-Mais helas ! son respect luy faisant violence,
-Il se tust, et mon cœur entendit⁎ son silence ;
-Je connus⁎ que j'avois partagé ses liens⁎,
-Et les fers⁎ de ce Prince adoucirent les miens.
-Depuis nos cœurs brûlans d'une pareille flame,
-En ont sçeu resserrer⁎ le secret⁎ dans nostre ame ;
-J'ay contraint⁎ devant toy mes pleurs et mes soûpirs,
-Je t'ay caché mes feux⁎ sous d'autres déplaisirs,
-Et n'osant soûpirer du tourment qui me presse,
-Mes malheurs⁎ ont presté des pleurs à ma tendresse⁎.
-C'est ainsi que mon cœur à l'amour destiné,
-Se voit de tous les cœurs le plus infortuné⁎ ;
-Je vais perdre⁎ Andronic, ce coup⁎ me desespere,
-Il quitte sans chagrin⁎ et la Fille et le Pere,
-Peut-estre avec plaisir il part ce mesme jour,
-Et je demeureray seule avec mon amour.
-
--*who_zaide
-Tamerlan vient icy, songez à vous, Madame,
-Et cachez le desordre où se trouve vostre ame.
-
-**** *book_ *id_II02 *act_II *date_1676 *creator_pradon
-
--*who_tamerlan
-Madame, il n'est plus temps de cacher un secret⁎
-Qui doit faire le sort⁎ de vous, de Bajazet,
-D'Andronic, de moy-mesme, et de toute l'Asie :
-Vostre Pere verra sa liberté, sa vie,
-Dépendre de vous seule, et vous allez enfin⁎,
-En décidant de nous, terminer⁎ son destin.
-Oüy, je veux en ce jour étoufer nostre haine,
-Finir⁎ son Esclavage, et briser vostre chaîne,
-Nous réünir⁎ ensemble ; et pour nous accorder⁎,
-Il faut…
-
--*who_asterie
-      A vos bontez, Seigneur, il faut céder,
-Il faut leur rendre hommage, et vous laisser la gloire⁎
-Que vous sçavez par tout remporter la victoire,
-Et que seul vous pouviez vous vaincre à vostre tour.
-
--*who_tamerlan
-La victoire, Madame, en est dûë à l'Amour,
-Luy seul a pû suspendre une juste colere ;
-Andronic s'est chargé d'aprendre à vostre Pere…
-
--*who_asterie
-Quoy ? Seigneur, Andronic est-il assez heureuse⁎
-Pour vous faire aprouver…
-
--*who_tamerlan 
-      Il sçait ce que je veux,
-Luy-mesme à Bajazet en doit parler, Madame ;
-Et tandis que je viens vous découvrir⁎ mon ame,
-Il le voit à cette heure, et le doit disposer,
-Pour mieux nous réünir⁎, à vous faire épouser.
-
--*who_asterie
-Qui, Seigneur ?
-
--*who_tamerlan
-      Moy, Madame.
-
--*who_asterie
-      Ah Ciel !
-
--*who_tamerlan
-      Oüy, je vous aime,
-Je le dis, je l'avouë, il sufit. Mais vous-mesmes
-Aprenez que vos yeux seuls ont eu l'ascendant
-Sur la fierté⁎ d'un cœur superbe⁎, indépendant.
-Je n'avois respiré que le sang et la guerre,
-Le nom de Tamerlan faisoit trembler la Terre ;
-Cependant aujourd'huy desarmé, sans couroux,
-Vous voyez Tamerlan soûmis aupres de vous.
-
--*who_asterie
-Seigneur, un tel aveu me paroist incroyable ;
-Qui fait trembler la Terre, a l'ame inébranlable ;
-Et le grand Tamerlan, l'éfroy de l'Univers,
-N'eût jamais le cœur propre à recevoir des fers⁎.
-Mais quand il seroit vray que quelques foibles charmes⁎
-Toûjours ensevelis sous un torrent de larmes,
-Auroient touché vostre ame, hé pourois-je, Seigneur,
-Répondre à cet amour qui doit me faire horreur ?
-Peut-estre j'en dis trop, et devrois me contraindre⁎,
-Mais le sang⁎ Ottoman, Seigneur, ne sçauroit feindre,
-Et pour prix de ce sang que vous fistes couler,
-Vous ne voulez mon cœur que pour vous l'immoler.
-L'on a veu vostre bras teint du sang de mon Frere,
-Vous menacez souvent la teste de mon Pere,
-La Sultane ma Mere est morte de douleur,
-Vous fistes nostre chûte et tout nostre malheur⁎,
-Vous nous faites encor gémir sous vostre chaîne,
-Et l'amour pouroit-il naître de tant de haine ?
-
--*who_tamerlan
-Madame, à vos discours et vos yeux irritez,
-Je connois⁎ la fierté⁎ du sang⁎ dont vous sortez,
-Et je ne voy que trop l'orgueilleux caractere
-D'un Frere impétueux et d'un barbare Pere,
-Qui malgré ma clemence à leur perte obstinez,
-M'ont arraché les fers⁎ que je leur ay donnez.
-Ortobule, il est vray, d'une extréme insolence
-S'attira malgré moy les traits de ma vangeance ;
-Mais, Madame, en ce temps je ne vous voyois pas,
-Et n'avois pas vos yeux pour arrester mon bras ;
-Celle de Bajazet me fust encor plus vive,
-Mais vos yeux ont tenu ma vangeance captive,
-Et malgré sa fureur⁎ et ses emportemens,
-Vos larmes ont noyé tous mes ressentimens ;
-Cependant je suis prest à briser vostre chaîne,
-Il est temps que l'amour finisse⁎ nostre haine,
-Et contre Bajazet mon plus grand ennemy
-N'allez pas réveiller mon couroux endormy.
-Madame, vous sçavez qu'il me brave sans cesse,
-Et par là voyez mieux l'excés de ma tendresse⁎ ;
-Mais si sa haine encor combatoit mon amour,
-S'il refuse sa grace avant la fin du jour,
-Quand je fais tout pour luy, s'il n'en fait pas de mesme,
-Je pouray le haïr autant que je vous aime ;
-Je ne répons de rien, et mon juste couroux
-Pouroit… mais c'est à vous d'en prévenir⁎ les coups⁎.
-
--*who_asterie
-Seigneur, il faudra voir Andronic et mon Pere ;
-Et puis qu'à vostre amour le Prince est nécessaire,
-Il faut sçavoir de luy ce qu'ils ont résolu⁎ :
-Mon Pere a sur mon cœur un pouvoir absolu,
-Et puis qu'Andronic parle…
-
--*who_tamerlan
-      Oüy, ce Prince, Madame,
-Par son propre intérest doit agir pour ma flame ;
-Je luy rends son Empire, et pour charmer⁎ son cœur,
-Je luy donne Araxide.
-
--*who_asterie
-      Araxide, Seigneur !
-Quoy ? Seigneur, la Princesse…
-
--*who_tamerlan
-      Elle arrive à l'Armée,
-Madame, elle a de quoy rendre une ame charmée⁎,
-Peut-estre que sans vous j'aurois pû l'épouser,
-Mais l'Amour autrement en a sçeu disposer.
-S'il faut qu'à mon dessein son adresse réponde,
-J'uniray ses Estats à ceux de Trébizonde ;
-Araxide en est Reyne, et par son propre éclat
-Elle unit cent Beautez à cent raisons⁎ d'Estat.
-Vous seule à nos desseins ne soyez pas contraire⁎,
-Parlez avec le Prince, et gagnez⁎ vostre Pere ;
-Pourveu⁎ que vostre main soit le prix du Traité,
-Je luy laisse la vie avec la liberté.
-Je vous laisse y penser, et vous quite, Madame,
-Pour vous donner le temps d'y résoudre⁎ vostre ame.
-
-**** *book_ *id_II03 *act_II *date_1676 *creator_pradon 
-
--*who_asterie
-Qu'ay-je entendu⁎, Zaïde, et que m'a-t-il apris ?
-Quel trouble, quelle horreur, glacent tous mes esprits ?
-Pour Tamerlan j'aprens qu'Andronic s'intéresse⁎,
-Que mon Amant⁎ devient l'apuy de sa tendresse⁎,
-Qu'il en parle à mon Pere, et par un coup⁎ fatal⁎,
-Qu'il est son Confident, et non pas son Rival.
-S'il faut qu'à son dessein son adresse réponde,
-Il unit ses Estats à ceux de Trébizonde ;
-Araxide en est Reyne, et par raison⁎ d'Estat
-Il l'épouse… Ah raisons⁎ propres pour un Ingrat⁎.
-O Ciel ! quel intérest et quelle récompense !
-Araxide est le prix de cette confidence ;
-Oüy, je commence à voir l'excés de mon malheur⁎,
-Pour deux Trônes sans-doute⁎ il a vendu son cœur.
-Quel revers pour le mien si tendre⁎ et si timide⁎ !
-Je craignois son depart, et non pas Araxide,
-Elle arrive bientost… un Empire⁎ éclatant…
-Ah ! que n'est-il party, Zaïde, en cet instant ?
-Mais ne t'a-t-on jamais parlé de la Princesse ?
-A-t-elle cet éclat qui surprend, intéresse⁎ ?
-Mes yeux, mes tristes⁎ yeux tous pleins de ma langueur⁎
-Pouront-ils d'Andronic me conserver⁎ le cœur ?
-Les siens sont-ils à craindre ? est-elle jeune, belle ?
-Enfin⁎, est-elle propre à faire un Infidelle ?
-
--*who_zaide 
-On a crû l'Empereur charmé⁎ de sa beauté,
-La vostre cependant a vaincu sa fierté⁎ ;
-Mais, Madame, Andronic poura mieux vous aprendre…
-
-**** *book_ *id_II04 *act_II *date_1676 *creator_pradon
-
--*who_asterie
-He bien, Seigneur, de vous quel destin dois-je attendre ?
-Et puis qu'à Tamerlan vous prestez vostre main
-Pour me venir porter un poignard dans le sein,
-Ma mort avec mon Pere est-elle résoluë⁎ ?
-J'y souscriray, Seigneur, si vous l'avez concluë⁎.
-
--*who_andronic
 Quoy ? pouriez-vous penser, Madame…
 
--*who_asterie
-      Non, Seigneur,
-Je sçauray de mon sang payer vostre bonheur ;
-Pour mon Pere et pour vous ma perte est légitime ;
-Prononcez-en l'Arrest⁎, j'en seray la Victime,
-Victime malheureuse⁎, et qui n'attendoit pas
-De la main d'Andronic le coup⁎ de son trépas.
-Cependant de vos feux⁎ l'ame préocupée,
-Je ne m'attendois pas si-tost d'estre trompée ;
-Mon cœur qui nourissoit d'inutiles desirs
-Reposoit sur la foy⁎ de vos tendres⁎ soûpirs ;
-Je croyois qu'Andronic dont la perte me touche,
-A ce cruel⁎ Arrest⁎ dust refuser sa bouche ;
-Mais puis qu'il en sera doublement couronné,
-Deux Trônes valent mieux qu'un cœur infortuné⁎.
-
--*who_andronic
 Quand je viens vous chercher, le desepoir dans l'ame,
 Tout plein de ma douleur, dans cet instant, Madame,
 Que tout est contre moy, que je n'ay plus que vous,
@@ -819,36 +1507,16 @@ Quand je tremble pour moy, je crains pour vostre Pere,
 Il entreprend, il doit faire un dernier éfort,
 Pour fuir, percer sa Garde, ou courir à la mort.
 
--*who_asterie
-Ciel ! quel est son dessein ?
-
--*who_andronic
       Il me l'a dit luy-mesme ;
 Il va pour se sauver, par une audace extréme,
 Briser bientost sa chaîne, ou se perdre⁎.
 
--*who_asterie 
-      Ah ! Seigneur,
-Etoufons ce projet dont je frémis d'horreur :
-Il périroit ; ah Ciel ! mettons tout en usage,
-Je feray tout ; Sortons, pour fléchir son courage⁎,
-Courons sans balancer⁎, proposons cet accord…
-
--*who_andronic
 Hé bien, Madame, hé bien, c'est l'Arrest⁎ de ma mort,
 Je l'avois pressenty, mais elle est légitime ;
 Vous voyez que c'est moy qui suis vostre Victime,
 Et je m'estois douté qu'avant la fin du jour
 La Nature à mes yeux⁎ immoleroit l'Amour.
 
--*who_asterie
-Ah ! Seigneur, voulez-vous que tremblante, éperduë,
-Mon Pere tout sanglant se présente à ma veuë ?
-Et quand je puis d'un mot luy donner du secours,
-Me redonner la vie en rassurant ses jours,
-Le verray-je égorger à mes yeux⁎ ?
-
--*who_andronic
       Non, Madame,
 Je sçay vostre devoir, connoissez⁎ mieux mon ame,
 Et vos yeux n'auront pas ce spéctacle aujourd'huy,
@@ -859,21 +1527,285 @@ J'ay cherché Bajazet, et n'ay pû le trouver :
 Hé bien, il faut me perdre⁎, afin de le sauver ;
 Allons, sortons, Madame, et prévenons⁎ la suite…
 
--*who_asterie
-Mais, Seigneur, si mon Pere alloit prendre la fuite,
-Et s'il se déroboit aux mains de l'Empereur ;
-Si sans verser de sang il peut…
-
--*who_andronic
       C'est une erreur,
 Madame, il n'en faut point flater⁎ nostre espérance,
 Craignez de Tamerlan la haine et la vangeance,
 Et, s'il se peut, tâchons d'en détourner l'effet.
 Mais Leon vient à nous. As-tu veu Bajazet ?
 
-**** *book_ *id_II05 *act_II *date_1676 *creator_pradon
+      Mais, Seigneur, modérez
+D'inutiles transports⁎…
 
--*who_leon
+Oüy, Seigneur, malgré vous j'auray soin de vos jours,
+Je veux en respecter et conserver⁎ le cours,
+Ecoutez un secret⁎ que je dois vous aprendre,
+Qui peut…
+
+Vous devez écouter cette funeste⁎ envie⁎.
+(Gardes, retirez-vous, j'auray soin de sa vie.)
+Vivez, Seigneur, vivez, on va briser vos fers⁎,
+Oubliez tous les maux que vous avez soufers⁎,
+Aprenez un secret⁎ dont l'aveu me déchire,
+Je vous avois cherché tantost⁎ pour vous le dire,
+Mais il est temps encor de vous le déclarer ;
+Je ne vous l'aprens pas, Seigneur, sans soûpirer,
+Je sçay que cet aveu me coûtera la vie,
+N'importe ; Tamerlan brûle pour Astérie,
+Et pourveu⁎ que sa main soit le prix du Traité,
+Il vous donne la vie avec la liberté.
+
+      Ou plutost il l'adore⁎ ;
+Il m'a trop découvert⁎ le feu⁎ qui le devore ;
+Luy-mesme m'acablant de ce secret⁎ fatal⁎,
+A fait son Confident de son propre Rival ;
+Malgré mes feux⁎, Seigneur, j'ay contraint⁎ mon courage⁎,
+Enfermant dans mon cœur une inutile rage ;
+L'image d'Astérie, un reste de vertu⁎,
+Vostre intérest, le sien, ont pour luy combatu,
+La gloire⁎, le devoir, et la reconnoissance,
+Ont malgré mon amour enchaîné ma vangeance.
+Quel contretemps ! ô Ciel ! il vient me couronner,
+Et ce n'est cependant que pour m'assassiner :
+Mais si je n'avois craint, Seigneur, que pour ma vie,
+Si je n'avois tremblé pour vous, pour Astérie,
+J'aurois en me vangeant sçeu forcer l'avenir
+A garder de mon Nom l'eternel souvenir.
+
+Mais, Seigneur, quand je voy que l'orage s'apreste,
+Et qu'un simple refus vous peut coûter la teste,
+Que le tonnerre gronde…
+
+Ah Seigneur ! le voicy, modérez-vous de grace,
+Calmez…
+
+Ah ! Seigneur, modérez ce couroux…
+
+Bajazet va périr ! ah ! Seigneur arrestez,
+Et triomphez encor de luy par vos bontez ;
+Vous verrez la Princesse, elle aura trop de charmes⁎,
+Vostre cœur ne poura tenir contre ses larmes,
+Pardonnez à son Pere, un Prince malheureux⁎,
+Qui se voit acablé par un destin afreux,
+Ennuyé⁎ de sa honte, et plein de sa disgrace⁎,
+Et qui ne joüit plus que d'un reste d'audace.
+
+      Ah ! Seigneur ! considérez son rang,
+Le sang⁎ des Ottomans est un illustre⁎ sang⁎ ;
+Songez que la Princesse…
+
+Vostre gloire⁎, Seigneur.
+
+Voicy l'afreux instant que nous avions à craindre,
+Il faut, il faut parler, et ne plus vous contraindre⁎ ;
+Non, Madame, à ma mort n'ayez point de regret,
+Il faut perdre⁎ Andronic, et sauver Bajazet,
+Vous rendrez sa grande ame et plus douce et plus tendre⁎,
+Il verra vos soûpirs, ils se feront entendre⁎,
+Vous vous acquiterez de ce triste⁎ devoir,
+Et vos larmes peut-estre auront trop de pouvoir.
+
+Je ne vous verrois plus ! hé de grace, Madame…
+
+      Hé je vous en conjure,
+Permettez qu'avec vous je puisse encor le voir,
+Malgré tout mon amour je feray mon devoir.
+
+      Adieu, Madame.
+
+Que dit-on dans le Camp du sort⁎ de Bajazet,
+Leon ? et Tamerlan en est-il satisfait ?
+
+Croiras-tu ce retour⁎ l'ouvrage d'un moment,
+Leon ? peux-tu penser qu'aimé de ma Princesse,
+Elle ait si-tost trahy ma flame et sa tendresse⁎ ?
+Pour un Pere, il est vray. Mais quoy ? sans l'ofenser,
+Ne devoit-elle pas plus longtemps balancer⁎ ?
+Elle devoit… helas ! elle pouvoit le faire,
+Un Amant⁎ peut-il pas estre aussi cher qu'un Pere ?
+Tantost⁎ mesme, à mes yeux⁎ elle a veu Tamerlan
+D'un œil plus engageant qu'on ne voit son Tyran ;
+Devant luy sa tristesse a paru trop touchante ;
+Sa douleur n'a jamais esté plus éloquente ;
+Son air, son port, ses pleurs parloient si tendrement⁎,
+Enfin⁎, elle a parlé comme pour un Amant⁎ ;
+Mais voyant l'Empereur, que ne dois-je point croire ?
+Que sçay-je ? si ses yeux ébloüis de sa gloire⁎,
+Charmez⁎ de sa fortune⁎, et pleins de sa grandeur,
+N'ont point esté gagnez⁎ pour séduire son cœur ?
+Et pour me consoler, Leon, dans ma misere,
+Elle va peindre aux miens les périls de son Pere,
+Sa crainte, ses transports⁎, ses soûpirs, ses douleurs,
+Et peut-estre, j'auray le reste de ses pleurs.
+Mais avant qu'un Rival en ait fait sa conqueste,
+J'iray sur les Autels ensanglanter la Feste ;
+Pour réponse à ses pleurs j'ay du sang à verser,
+J'iray… Mais elle vient, Ciel ! que dois-je penser ?
+
+Ces soûpirs estoient dûs, Madame, à vostre Pere,
+Vous n'avez que trop fait ce que vous deviez faire,
+Vostre triste⁎ devoir vient de changer son sort⁎,
+Enfin vous avez dû m'envoyer à la mort,
+Je n'en murmure⁎ point ; Tamerlan, un Empire,
+Vostre devoir, un Pere, et si j'ose le dire,
+Vostre peu de tendresse⁎…
+
+Un eternel adieu ! Que dites-vous, Madame ?
+Quelle subite horreur frape et saisit mon ame ?
+
+Ah ! Madame, vivez, et me manquez de foy⁎,
+Sauvez Bajazet, vous, et ne perdez⁎ que moy,
+Epousez Tamerlan, plutost que de répandre
+Un sang qui m'est si cher, et que je veux défendre,
+Ce cœur que vous voulez… ah ! funeste⁎ penser,
+Est-il encore à vous ce cœur pour le percer ?
+Je veux qu'il soit à moy dans ce péril extréme,
+De grace épargnez-vous par pitié de moy-mesme,
+Et si vous le frapiez dans ce cruel⁎ moment,
+C'est le cœur d'Andronic, le cœur de vostre Amant⁎.
+
+Si vous vivez, mon sort⁎ sera moins rigoureux⁎ ;
+Et quand je mourray seul…
+
+Hé bien, obeïssez, je vivray, ma Princesse,
+Peut-estre loin de vous je vaincray ma foiblesse,
+J'en donneray l'exemple, et mon cœur abatu
+Cherchera du secours aupres de sa vertu⁎ ;
+De puissantes raisons⁎ vous forcent à le faire,
+Il y va de vos jours, de ceux de vostre Pere,
+Tremblez pour eux, Madame, et leur servez d'apuy,
+Si vous mouriez, helas ! Tamerlan aujourd'huy
+Confus d'avoir perdu⁎ le seul bien qu'il espere⁎,
+Vangeroit vostre sang⁎ en perdant⁎ vostre Pere ;
+Bajazet périroit sans-doute⁎.
+
+J'oublîray tout, pourveu⁎ que vous songiez à vivre,
+De mon triste⁎ destin je seray satisfait,
+Oubliez Andronic, songez à Bajazet.
+
+      Ah ! Madame,
+Arrestez, et voyez la douleur de mon ame,
+Pour vous sauver je fais le plus cruel⁎ effort,
+Et ne voyez-vous pas que je cours à la mort ?
+
+      Helas ! en puis-je avoir ?
+Et si pour Andronic vostre cœur est si tendre⁎,
+Madame, ces raisons⁎ les devez-vous entendre⁎ ?
+Oüy, cruelle⁎, voyez un Prince à vos genoux,
+Et mille fois plus foible et plus tendre⁎ que vous,
+Qui la mort dans le cœur, n'eût jamais d'autre envie⁎
+Que de vous conserver⁎ un Pere et vostre vie,
+Et qui vous la demande et pour vous et pour luy.
+
+      Ah ! divine Princesse,
+Perdez⁎ plutost l'Amant⁎, et vivez.
+
+Seigneur, lors⁎ qu'elle espere⁎ un cœur comme le vostre,
+Voudra-t-elle des soins⁎ et des respects d'un autre ?
+Poura-t-elle écouter sans dédain d'autres vœux⁎ ?
+Et vos feux⁎…
+
+Puis-je espérer⁎, Seigneur, l'amour d'une Princesse
+Qui ne me vit jamais, et de qui la tendresse⁎…
+
+Seigneur, vous pouvez faire obeïr vos Sujets,
+Je suis indépendant, et ne connois⁎ personne
+Qui puisse me parler par je veux, ou j'ordonne ;
+Je m'expose sans-doute⁎ aux plus cruels⁎ Destins,
+Mais je n'en suis pas moins du sang⁎ des Constantins,
+Et tous ceux que le Ciel dans mon rang a fait naître
+N'obeïssent jamais quand on leur parle en Maître.
+
+Madame, jusques-là pourois-je vous trahir ?
+Non, non, il faut parler, il n'est plus temps de feindre,
+Oüy, j'adore⁎ Astérie, et je le dis sans craindre,
+Disposez de mon Trône et de mes jours, Seigneur,
+Mais du moins laissez-moi disposer de mon cœur,
+Il est à la Princesse.
+
+Seigneur, vous n'auriez fait d'Andronic qu'un ingrat⁎,
+Ne me prodiguez plus un présent qui m'ofence,
+Un Rival est mal propre à la reconnoissance,
+N'en doutez point. Tantost⁎ mon cœur en frémissant
+A gemy sous le poids d'un bienfait accablant ;
+Les Trônes, les grandeurs, je vous les abandonne,
+Laissez-moy ma Princesse, et prenez ma Couronne,
+J'aime mieux partager avec elle les fers⁎,
+Que sans elle avec vous partager l'Univers.
+
+Je ne crains point la mort, pour vous, pour vostre Etat,
+Seigneur, je l'ay cherchée avec assez d'éclat,
+Sebaste qui me vit au pied de ses murailles
+Connoît⁎ trop qui je suis : J'ay donné deux Batailles,
+Où de mon propre sang (blessé de plusieurs coups)
+J'arrosay les Lauriers que je cueillois pour vous ;
+La plus afreuse mort n'a rien qui m'intimide⁎,
+Frapez sans balancer⁎ un Rival intrépide.
+
+Et que puis-je, Madame ?
+
+Ah ! Madame, est-il vray ce qu'on vient de m'aprendre ?
+Bajazet obeït, son grand cœur⁎ sçait se rendre,
+Il vous immole, ah Ciel ! quel honteux changement !
+Ce cœur⁎ qui fust si ferme à la fin se dément⁎,
+Luy que j'ay veu cent fois par une juste envie⁎
+Demander un poignard pour s'arracher la vie ?
+Qui cherchoit avec soin le secours du poison,
+Et qui le cherchoit mesme avec tant de raison⁎ ?
+Il tremble ; et dans vos mains il remet Astérie,
+Mais pour la conserver⁎ prenez encor ma vie,
+Il vous la faut, Seigneur, perdant ce que je pers⁎
+Je voudrois dans ma chûte entraîner l'Univers,
+Oüy, perdez⁎ un Rival dont la fureur⁎ extréme
+Pouroit vous perdre⁎ un jour en se perdant⁎ luy-mesme,
+Et qui n'ayant pour luy plus rien à ménager,
+Ne cherche qu'à mourir, enfin⁎, ou se vanger.
+
+Pour vostre intérest seul vous devriez l'entendre⁎,
+L'excés de ma douleur, Seigneur, doit vous l'aprendre,
+Oüy, perdez⁎ un Rival…
+
+      Quoy, Seigneur ?…
+
+Si vous l'aimez, Seigneur, craignons son desespoir,
+Et soufrez⁎…
+ 
+      Quelle reconnoissance,
+Seigneur, pour des bontez qui passent⁎ l'espérance...
+Ciel ! pouvois-je espérer⁎ en ce funeste⁎ jour
+Que la Gloire⁎ vangeât la Nature et l'Amour ?
+FIN.
+
+
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
+
+Je l'espere⁎, Seigneur, la superbe⁎ Byzance,
+Apres tant de fureurs⁎, rentre en l'obeïssance ;
+La prise de Sebaste, et tant d'autres combats
+Où Tamerlan vainqueur employa vostre bras,
+Et Bajazet captif, et l'Europe allarmée⁎,
+La font trembler au bruit⁎ de vostre renommée.
+Nos Grecs ont député ; Phocas et Leontin
+De l'Empire⁎ à ses pieds ont soûmis le destin,
+Et par ce coup⁎ d'Etat prévenant⁎ la tempeste,
+Esperent⁎ par sa main couronner vostre teste.
+
+Je vous entens⁎, Seigneur ; ce cœur si genéreux⁎,
+Qui n'aimoit que la gloire⁎, est peut-estre amoureux.
+ 
+Seigneur, pour Bajazet vous n'avez rien à craindre,
+Par vos soins⁎ du Tartare il n'a plus à se plaindre ;
+Sans-doute⁎ l'Otoman le touche, et son malheur⁎
+Fait naître un mouvement de pitié dans son cœur.
+
+Seigneur, à l'Empereur demandez la Princesse ;
+Et tandis que son Camp est rempli⁎ d'allégresse,
+Que l'on croit que son cœur va goûter à son tour
+Dans un second hymen⁎ les douceurs de l'amour,
+Que ses Fils sont allez au devant d'Araxide,
+Faites que cet hymen⁎ de vostre sort⁎ décide ;
+Ménagez Tamerlan, Bajazet trop heureux⁎
+Consentira sans-doute⁎ à l'honneur de vos feux⁎;
+
 Je viens d'estre témoin, Seigneur, de sa disgrace⁎ ;
 Jamais un si grand cœur⁎ n'a fait voir tant d'audace :
 Tout estoit préparé pour la prochaine⁎ nuit ;
@@ -903,500 +1835,6 @@ Lassé de tant de Morts, c'est la mort qu'il regrete,
 Heureux⁎ ! s'il avoit sçeu dans ses vœux⁎ irritez
 Tourner sur luy les coups que son bras a portez.
 
--*who_asterie
-Tout est perdu, Seigneur, je vais trouver mon Pere ;
-Courez chez l'Empereur, apaisez sa colere,
-Dites-luy que je puis… vous m'entendez⁎, Seigneur ;
-Mais enfin⁎ il est temps de calmer sa fureur⁎,
-Faisons notre devoir dans un coup⁎ si funeste⁎,
-Sortons, et le Destin ordonnera⁎ du reste.
-Fin du Second Acte.
-
-**** *book_ *id_III01 *act_III *date_1676 *creator_pradon
-
--*who_bajazet
-Non, je n'écoute rien.
-
--*who_andronic
-      Mais, Seigneur, modérez
-D'inutiles transports⁎…
-
--*who_bajazet
-      Vous me deseperez,
-Cruel⁎, quand vous voyez mon attente trompée ;
-Vous m'osez cependant refuser vostre Epée.
-
--*who_andronic
-Oüy, Seigneur, malgré vous j'auray soin de vos jours,
-Je veux en respecter et conserver⁎ le cours,
-Ecoutez un secret⁎ que je dois vous aprendre,
-Qui peut…
-
--*who_bajazet
-      Non, ç'en est fait, je ne veux rien entendre⁎,
-Et je n'écoute plus que la seule raison⁎
-Que poura m'inspirer le fer⁎, ou le poison ;
-Vous me les refusez, et vostre barbarie
-Par un Arrest⁎ mortel me condamne à la vie,
-Prince, rougissez-en : Et vous Gardes, Soldats,
-Ce triste⁎ cœur n'a plus le secours de ce Bras,
-Servez mieux Tamerlan qu'un Amy qui m'acable ;
-Bajazet dans les fers⁎ est-il si redoutable ?
-L'ordre en est-il donné ? frapez, aprochez-vous,
-J'enhardiray vos bras, et conduiray vos coups !
-Mais quoy ? loin de remplir⁎ cette juste espérance,
-L'Amy, les Ennemis, tout est dans le silence.
-Ah Ciel ! j'avois tantost⁎ les armes à la main,
-Et rien ne m'empeschoit de m'en percer le sein :
-Helas ! où m'emportoit l'ardeur⁎ infructueuse
-Que je pouvois me rendre utile et glorieuse⁎,
-Pour trop m'abandonner contre mes Ennemis ?
-Je me suis perdu⁎ seul, et je les ay servis,
-Je me suis veu trahy deux fois par la Fortune⁎,
-Je suis vaincu deux fois, et je ne meurs pas une,
-Le Sort⁎ m'atache aux fers⁎ ; et moy, dans ce malheur⁎,
-Je veux perdre⁎ le jour, et tromper sa fureur⁎.
-
--*who_andronic
-Vous devez écouter cette funeste⁎ envie⁎.
-(Gardes, retirez-vous, j'auray soin de sa vie.)
-Vivez, Seigneur, vivez, on va briser vos fers⁎,
-Oubliez tous les maux que vous avez soufers⁎,
-Aprenez un secret⁎ dont l'aveu me déchire,
-Je vous avois cherché tantost⁎ pour vous le dire,
-Mais il est temps encor de vous le déclarer ;
-Je ne vous l'aprens pas, Seigneur, sans soûpirer,
-Je sçay que cet aveu me coûtera la vie,
-N'importe ; Tamerlan brûle pour Astérie,
-Et pourveu⁎ que sa main soit le prix du Traité,
-Il vous donne la vie avec la liberté.
-
--*who_bajazet
-Il aimeroit ma Fille !
-
--*who_andronic
-      Ou plutost il l'adore⁎ ;
-Il m'a trop découvert⁎ le feu⁎ qui le devore ;
-Luy-mesme m'acablant de ce secret⁎ fatal⁎,
-A fait son Confident de son propre Rival ;
-Malgré mes feux⁎, Seigneur, j'ay contraint⁎ mon courage⁎,
-Enfermant dans mon cœur une inutile rage ;
-L'image d'Astérie, un reste de vertu⁎,
-Vostre intérest, le sien, ont pour luy combatu,
-La gloire⁎, le devoir, et la reconnoissance,
-Ont malgré mon amour enchaîné ma vangeance.
-Quel contretemps ! ô Ciel ! il vient me couronner,
-Et ce n'est cependant que pour m'assassiner :
-Mais si je n'avois craint, Seigneur, que pour ma vie,
-Si je n'avois tremblé pour vous, pour Astérie,
-J'aurois en me vangeant sçeu forcer l'avenir
-A garder de mon Nom l'eternel souvenir.
-
--*who_bajazet
-Je rends graces au Ciel, dans le sort⁎ qui m'entraîne,
-Que l'amour ait presté ce secours à ma haine ;
-Je voudrois que ma Fille eût pour luy plus d'apas⁎,
-Ses yeux nous vangeroient au defaut⁎ de mon bras.
-Que j'ay de son amour une sensible joye !
-De mes plus fiers⁎ mépris il se verra la proye,
-Et du moins si nos jours dépendent d'un Vainqueur,
-Elle et moy nous ferons le destin de son cœur ;
-Par de nouveaux mépris j'aigriray⁎ sa vangeance,
-Rejetant sa fortune⁎ avec son alliance ;
-C'est là que ma fierté⁎ de luy peut triompher,
-L'amour me sera plus que la flame et le fer⁎ ;
-Portons-les dans son cœur par les yeux d'Astérie,
-Et quand il m'ofriroit tous les Trônes d'Asie,
-Ses Etats et les miens… reprenez de l'espoir,
-C'est le moindre Rival que vous puissiez avoir.
-
--*who_andronic
-Mais, Seigneur, quand je voy que l'orage s'apreste,
-Et qu'un simple refus vous peut coûter la teste,
-Que le tonnerre gronde…
-
--*who_bajazet
-      Et j'atens sans éfroy,
-Qu'il éclate, qu'il tombe, et n'écrase que moy.
-Si le fier⁎ Tamerlan avoit rompu ma chaîne,
-Il faudroit oublier ma vangeance, ma haine ;
-Et lors⁎ que je ne puis vivre que peu de jours,
-Que je sens mes malheurs⁎ en abreger le cours,
-Ma vertu⁎ va me faire un sort⁎ digne d'envie⁎,
-Je fais trop peu de cas de ce reste de vie,
-Et je veux l'immoler pour avoir le plaisir
-De braver Tamerlan jusqu'au dernier soûpir.
-
--*who_andronic
-Ah Seigneur ! le voicy, modérez-vous de grace,
-Calmez…
-
-**** *book_ *id_III02 *act_III *date_1676 *creator_pradon 
-
--*who_bajazet
-      Hé bien, viens-tu joüir de ma disgrace⁎ ?
-As-tu fait immoler ce reste de Soldats
-Dont j'avois animé la vangeance et le bras ?
-Ce n'estoit pas pour toy d'assez nobles Victimes,
-Il falloit dans ma perte ensevelir leurs crimes,
-Il falloit que ton bras alors tournât sur moy
-Tous les coups que le mien vouloit porter sur toy ;
-J'ay tasché de te joindre⁎, et malgré mon envie⁎
-Je n'ay pû. Trois des tiens l'ont payé de leur vie,
-Qui recevant mes coups, pour toy-mesme éfrayez,
-Sont tombez de ma main tous sanglans à tes pieds.
-
--*who_tamerlan
-Je voy qu'un peu trop loin vostre orgueil vous emporte,
-Il sied mal dans les fers⁎ d'éclater de la sorte,
-Et dans ces vains transports⁎ d'une aveugle fureur⁎,
-Vous parlez en Captif, et j'écoute en Vainqueur ;
-Vous étalez icy toute vostre foiblesse,
-Oüy, cette grandeur d'ame en marque la bassesse,
-Et lors⁎ qu'en un malheur⁎ on sçait trop s'émouvoir,
-On fait voir sa vertu⁎ moins que son desespoir.
-Bajazet, modérez cette rage inutile,
-Devant moy reprenez une ame plus tranquile,
-Et bien qu'elle paroisse incapable d'éfroy,
-Du moins, souvenez-vous que vous parlez à moy.
-
--*who_bajazet 
-Oüy je parle à Thémir, dont l'obscure naissance
-Doit mettre entre nous deux un peu de différence ;
-Et le Fils de Sangal, vil Pastre qu'autrefois
-Le Destin par caprice arracha de ses Bois,
-En doit, dans sa grandeur, reconnoistre⁎ l'ouvrage,
-Voir que de sa bassesse il repara l'outrage,
-Et que le Sort⁎ aveugle enflant sa vanité
-Le tira du Néant et de l'obscurité.
-
--*who_tamerlan
-Et c'est là ce qui fait tout l'éclat de ma gloire⁎,
-Cet éclat est tiré du sein de la Victoire,
-Et ce mesme Destin, qui te fait murmurer⁎,
-Ne m'arrache au Néant, que pour t'y faire entrer.
-Cette vaste grandeur, cette extréme puissance,
-N'est point, si tu le veux, un droit de ma naissance ;
-Il est beau cependant de mettre aux fers⁎ les Roys,
-Quand la vertu⁎ sur eux nous fait naître des droits ;
-Mais ce n'est point icy que je dois me défendre,
-J'ay pû monter au Trône, et t'en ay fait descendre ;
-Je suis justifié. Ce Bras victorieux
-Sçait ennoblir mon sang⁎, mon Pere, et mes Ayeux,
-Et quelque orgueil enfin⁎ que tu fasses paroître,
-Bajazet est Esclave, et Tamerlan est Maître.
-
--*who_bajazet
-Des Captifs comme moy sçavent mal obeïr,
-La fierté⁎ de leur sang⁎ ne sçait point les trahir,
-Et si Thémir luy-mesme oubliant sa Famille,
-Tout mon Maître qu'il est, soûpiroit pour ma Fille,
-Il verroit Bajazet, ce Captif malheureux⁎,
-Mépriser son amour, et rebuter ses vœux⁎.
-
--*who_tamerlan
-Obeïs avecque elle, ou pour punir ton crime,
-A ses yeux⁎ tu seras ma premiere Victime ;
-C'est à toy d'y penser.
-
--*who_bajazet
-      C'est ce que je prétens⁎,
-D'un regard assuré c'est la mort que j'atens.
-Déja dans deux Combats la Fortune⁎ cruelle⁎
-A conservé⁎ ma vie à ta haine immortelle,
-Pour servir ta fureur⁎ elle a soin de mes jours ;
-J'atens de ton amour un fidelle secours :
-S'il est vray qu'Astérie ait pour toy quelques charmes⁎,
-Contre toy, dans ses yeux j'iray chercher des armes,
-Et quand je la refuse à ton Trône, à ta foy⁎,
-Je suis malgré mes fers⁎ plus Monarque que toy.
-Je m'égare, m'emporte, et Bajazet peut-estre
-Oublie en ce moment qu'il est devant son Maître,
-Et qu'il doit s'aplaudir qu'un vil Chef de Brigans,
-Thémir, enfin⁎, s'allie au sang⁎ des Otomans.
-Tu t'émeûs, je triomphe, et lis sur ton visage
-Mon Arrest⁎; je l'atens.
-
--*who_tamerlan
-      Il faut punir sa rage,
-Tu seras satisfait. Qu'on l'éloigne de moy.
-
--*who_bajazet
-Si je meurs, je seray plus satisfait que toy.
-
-**** *book_ *id_III03 *act_III *date_1676 *creator_pradon 
-
--*who_andronic
-Ah ! Seigneur, modérez ce couroux…
-
--*who_tamerlan
-      Il me brave !
-Il m'ose refuser sa Fille, mon Esclave !
-Oüy, oüy, je l'abandonne, et dés ce mesme jour
-Je me rends à la haine, et j'étoufe l'amour,
-Je répandray son sang pour calmer sa furie⁎,
-Bajazet périra mesme aux yeux⁎ d'Astérie.
-
--*who_andronic
-Bajazet va périr ! ah ! Seigneur arrestez,
-Et triomphez encor de luy par vos bontez ;
-Vous verrez la Princesse, elle aura trop de charmes⁎,
-Vostre cœur ne poura tenir contre ses larmes,
-Pardonnez à son Pere, un Prince malheureux⁎,
-Qui se voit acablé par un destin afreux,
-Ennuyé⁎ de sa honte, et plein de sa disgrace⁎,
-Et qui ne joüit plus que d'un reste d'audace.
-
--*who_tamerlan
-Et c'est ce qui m'outrage ; il est devant mes yeux⁎
-Toûjours fier⁎, intrépide, et toûjours furieux⁎ ;
-Il ose devant moy conserver⁎ son audace,
-Je le tiens dans mes fers⁎, et c'est moy qu'il menace,
-Et vous pouvez le plaindre ? ah ! pleignez mon malheur⁎,
-Je suis contraint⁎ de voir la fierté⁎ de son cœur,
-Et je trouve en secret⁎ son sort⁎ digne d'envie⁎,
-Il brave Tamerlan, et méprise la vie.
-Mais enfin⁎, c'en est fait, oüy, je ne veux songer
-Qu'à dompter Bajazet, sa Fille, ou m'en vanger.
-Hé quoy ? ne puis-je pas quand son orgueil me brave,
-Faire épouser sa Fille à mon dernier Esclave ?
-Mais je veux…
-
--*who_andronic
-      Ah ! Seigneur ! considérez son rang,
-Le sang⁎ des Ottomans est un illustre⁎ sang⁎ ;
-Songez que la Princesse…
-
--*who_tamerlan
-      Et qui vous intéresse⁎,
-Prince, pour Bajazet, ou bien pour la Princesse ?
-
--*who_andronic
-Vostre gloire⁎, Seigneur.
-
--*who_tamerlan
-      J'en auray soin sans vous,
-Et feray ce que veut un trop juste couroux.
-
-**** *book_ *id_III04 *act_III *date_1676 *creator_pradon 
-
--*who_asterie
-Quoy ? Seigneur, à la mort entraîne-t-on mon Pere,
-Et rien ne poura-t-il fléchir vostre colere ?
-Je courois l'embrasser, mais enfin vos Soldats
-Viennent cruellement m'arracher de ses bras ;
-A peine il m'avoit jointe⁎, à peine ses caresses
-Commençoient d'assurer⁎ mes timides⁎ tendresses⁎…
-Mais quels sombres regards ? ah Ciel ! je m'aperçois
-Que j'ay veu Bajazet pour la derniere fois.
-
--*who_tamerlan
-Oüy, Madame, il est temps de punir son audace.
-
--*who_asterie
-Ah ! Seigneur, à vos pieds je demande sa grace ;
-Quoy, Bajazet ? ah ! Ciel, mon Pere va mourir,
-Soufrez⁎-moy de le joindre⁎, ou de le secourir.
-Que sçais-je ? en ce moment peut-estre qu‘on le tuë,
-Voyez une Princesse à vos pieds éperduë,
-Et par pitié du moins frapez des mesmes coups
-Son cœur que vous voyez tremblant à vos genoux ;
-Vous me flatiez⁎ tantost⁎ que je vous estoit chere,
-Peut-on aimer la Fille, et condamner le Pere ?
-
--*who_tamerlan
-Je devrois le punir, et son cœur furieux⁎,
-S'il vit encore, en doit rendre grace à vos yeux.
-Profitez cependant du trouble de mon ame,
-Bajazet va venir, qu'il souscrive à ma flame,
-Portez-y vostre cœur aussi-bien que le sien,
-Jusques-là, je pouray vous répondre du mien.
-Vous, Prince, demeurez aupres de la Princesse
-Pour peindre à Bajazet le péril qui le presse,
-J'atendray sa réponse, elle fera son sort⁎,
-C'est d'elle que dépend ou sa vie, ou sa mort.
-
-**** *book_ *id_III05 *act_III *date_1676 *creator_pradon
-
--*who_andronic
-Voicy l'afreux instant que nous avions à craindre,
-Il faut, il faut parler, et ne plus vous contraindre⁎ ;
-Non, Madame, à ma mort n'ayez point de regret,
-Il faut perdre⁎ Andronic, et sauver Bajazet,
-Vous rendrez sa grande ame et plus douce et plus tendre⁎,
-Il verra vos soûpirs, ils se feront entendre⁎,
-Vous vous acquiterez de ce triste⁎ devoir,
-Et vos larmes peut-estre auront trop de pouvoir.
-
--*who_asterie
-Seigneur, n'accablez point une ame infortunée⁎,
-Mais plaignez seulement sa triste⁎ destinée,
-Et sans nous atendrir dans de si grands malheurs⁎,
-Cachons-nous, s'il se peut, nostre amour et nos pleurs,
-A ma douleur, Seigneur, laissez-moy toute entiere,
-J'atendray, je verray, je fléchiray mon Pere ;
-Mais sans nous acabler de soûpirs superflus,
-Si vous m'aimez, partez, et ne me voyez plus.
-
--*who_andronic
-Je ne vous verrois plus ! hé de grace, Madame…
-
--*who_asterie 
-Hé du moins par pitié cachez-moi vostre flame,
-Retirez-vous, Seigneur, Bajazet doit venir,
-Pourois-je devant vous helas ! l'entretenir ?
-Que sçay-je ? Si l'Amour trahissoit la Nature !
-Il y va de sa vie.
-
--*who_andronic
-      Hé je vous en conjure,
-Permettez qu'avec vous je puisse encor le voir,
-Malgré tout mon amour je feray mon devoir.
-
--*who_asterie
-Et j'oublîray le mien, si vostre cœur soûpire.
-Non, Seigneur, devant vous je ne pourois rien dire,
-Andronic avec moy ne doit point se trouver,
-Vous perdriez⁎ mon Pere au lieu de le sauver,
-Mes discours pres de vous auroient de foibles armes,
-Vous lui déroberiez la moitié de mes larmes,
-Je deviendrois muete, ou devant mon Amant⁎
-Helas ! je ne pourois parler que foiblement.
-On vient, retirez-vous, sortez.
-
--*who_andronic
-      Adieu, Madame.
-
-**** *book_ *id_III06 *act_III *date_1676 *creator_pradon 
-
--*who_bajazet
-Ma Fille, il faut montrer la grandeur de ton ame,
-L'on m'envoye à la mort sans-doute⁎, et je te vois
-Et te parle aujourd'huy pour la derniere fois.
-Mais quoy ? lors⁎ que tu dois répondre à ma tendresse⁎,
-Tu mesles à ma joye une indigne⁎ tristesse,
-Et lors⁎ que ma vertu⁎ cherche à te consoler,
-Pour réponse je voy tes pleurs prests à couler.
-
--*who_asterie
-Quoy ? d'un air si tranquile, et parmy tant d'allarmes⁎,
-Vous étonnerez⁎-vous, Seigneur, de voir mes larmes ?
-Puis-je avoir comme vous cette intrépidité
-Qui vous fait voir la mort avec tant de fierté⁎ ?
-Vous y courez, Seigneur, et moy je vous arreste,
-C'est moy qui peut défendre une si chere teste,
-Je ne soufriray⁎ point qu'on vous traîne à la mort,
-Je vas, je cours pour vous faire un dernier éfort,
-Je sçay le seul secret⁎ de vous sauver la vie,
-Laissez à Tamerlan épouser Astérie.
-
--*who_bajazet
-Epouser Tamerlan ! fais un plus noble éfort,
-Oüy, perdons⁎-nous plutost, et courons à la mort ;
-Astérie, est-ce ainsi qu'une servile crainte
-Te peut faire subir une indigne⁎ contrainte⁎,
-Et dans quelque revers qui nous puisse acabler,
-Le sang⁎ de Bajazet doit-il jamais trembler ?
-Ah ! si pour éviter la mort qui me menace,
-J'achetois à ce prix et ma vie et ta grace,
-Que je pusse aujourd'huy jusques-là me trahir,
-Quand je l'ordonnerois, devrois-tu m'obeïr ?
-Ma Fille, soûtiens mieux la fierté⁎ de ton Pere,
-Entens⁎ la triste⁎ voix d'Ortobule ton Frere,
-Qui tout sanglant encore, et tout percé de coups,
-Méprise Tamerlan, et brave son couroux :
-Regarde, imite, suy ta Mere la Sultane,
-Qui soûtint jusqu'au bout la grandeur Otomane,
-Et qui nous donne à tous en ce funeste⁎ sort⁎
-L'exemple de braver le Tyran et la Mort.
-Pour moy, tu le sçais bien, je suis trop las de vivre,
-Mon malheureux⁎ destin s'obstine à me poursuivre ;
-J'avois tenté la fuite, il n'a pû le soufrir⁎,
-Enfin⁎, j'avois voulu me sauver, ou mourir ;
-Il m'a trahy, pour luy ma haine est implacable,
-Je ne fais que gémir dans l'horreur qui m'acable,
-La douceur et la paix par un coup⁎ si mortel
-Ont fait avec mon cœur un divorce eternel ;
-Dans le comble des maux où ce revers me plonge,
-Tu vois que le chagrin⁎ me devore, me ronge,
-Qu'il entretient ma rage, et que dans ma douleur
-Je n'atens que la mort pour finir⁎ mon malheur⁎ ;
-Mais je ne puis soufrir⁎ qu'un hymen⁎ si funeste⁎
-M'immole tous tes jours pour le peu qui m'en reste.
-
--*who_asterie
-Mais, Seigneur, songez-vous dans ce fatal⁎ instant,
-Si nous n'obeïssons, que la mort vous atend ;
-Ces Gardes, ces Soldats, cette funeste⁎ Escorte,
-Helas ! qu'attendent-ils rangez à cette Porte ?
-Si vous sortez, peut-estre ils fondront tous sur vous,
-Et peut-estre à mes yeux⁎ vous perceront de coups ;
-Je vous verray sanglant dans leurs mains vous debattre,
-Par cent coups redoublez ils sçauront vous abatre,
-Et cependant, d'un mot je puis les arrester ;
-Je le prononceray, quoy qu'il puisse coûter,
-Et vous ne verrez point l'infidelle Astérie
-Par ses cruels⁎ refus vous arracher la vie.
-J'en tremble ; ah ! si pour vous vous n'avez point d'éfroy,
-Ah ! Seigneur, ah ! mon Pere, au moins tremblez pour moy.
-Et quand vous périrez par l'ordre du Tartare,
-Seray-je moins en proye à sa fureur⁎ barbare ?
-Sans pouvoir vous ofrir à mon cœur éperdu,
-Je demeureray seule, et j'auray tout perdu⁎ ;
-Je demande à vos pieds par toute ma tendresse⁎,
-Que pour moy vous ayez un peu plus de foiblesse ;
-D'une ame plus tranquile atendez vostre sort⁎,
-Ne courez point vous-mesme au devant de la mort,
-Ortobule a péry, j'ai veu mourir ma Mere,
-Je voy le mesme Bras qui menace mon Pere ;
-Mais enfin malgré vous je doy vous secourir,
-Ils sont morts, vous vivez, et vous allez mourir.
-
--*who_bajazet
-Je vois avec plaisir la grandeur de ton ame,
-Elle est digne de moy. Mais l'innocente flame
-D'un Prince… Croyez-moy, ma Fille, et m'entendez⁎,
-Vous craignez d'obtenir ce que vous demandez,
-Et si je contentois⁎ cette funeste⁎ envie⁎…
-
--*who_asterie
-Je ne veux obtenir de vous que vostre vie,
-Ne vous informez point du trouble de mon cœur,
-J'en rougis, mais soufrez⁎ que je parte, Seigneur ;
-Oüy, je vais de ce pas…
-
--*who_bajazet
-      Epouser le Tartare,
-Immoler Andronic, rendre heureux⁎ un Barbare.
-
--*who_asterie 
-Ah ! ne m'exposez plus au trouble où je me voy,
-Vous armez un Amant⁎ contre vous, contre moy,
-Ne me repetez point ce nom seul qui m'acable,
-Et si j'obeïssois, vous en seriez coupable.
-
--*who_bajazet
-Ma Fille, obeïssez, je le veux, et je suis…
-
--*who_asterie
-Vous obeïr ? ah Ciel ! non, Seigneur, je ne puis.
-Mon Pere, soufrez⁎-moy contre une injuste envie⁎
-De vous desobeïr une fois en ma vie ;
-Je vous quite, et je vas vous sauver malgré vous.
-
--*who_bajazet
-Arrestez, je l'ordonne, et craignez mon couroux.
-Gardes, suivez vostre ordre, à la mort je m'apreste,
-Et portez au Tyran mes refus et ma teste.
-Fin du Troisiéme Acte.
-
-**** *book_ *id_IV01 *act_IV *date_1676 *creator_pradon
-
--*who_andronic
-Que dit-on dans le Camp du sort⁎ de Bajazet,
-Leon ? et Tamerlan en est-il satisfait ?
-
--*who_leon
 Sa fortune⁎, Seigneur, vient de changer de face,
 Sa Fille à l'Empereur a demandé sa grace,
 Elle est venuë en pleurs tomber à ses genoux,
@@ -1409,435 +1847,39 @@ Cependant Tamerlan pour le prix de sa vie
 Va malgré luy peut-estre épouser Astérie.
 Tout le Camp est surpris d'un si grand changement.
 
--*who_andronic
-Croiras-tu ce retour⁎ l'ouvrage d'un moment,
-Leon ? peux-tu penser qu'aimé de ma Princesse,
-Elle ait si-tost trahy ma flame et sa tendresse⁎ ?
-Pour un Pere, il est vray. Mais quoy ? sans l'ofenser,
-Ne devoit-elle pas plus longtemps balancer⁎ ?
-Elle devoit… helas ! elle pouvoit le faire,
-Un Amant⁎ peut-il pas estre aussi cher qu'un Pere ?
-Tantost⁎ mesme, à mes yeux⁎ elle a veu Tamerlan
-D'un œil plus engageant qu'on ne voit son Tyran ;
-Devant luy sa tristesse a paru trop touchante ;
-Sa douleur n'a jamais esté plus éloquente ;
-Son air, son port, ses pleurs parloient si tendrement⁎,
-Enfin⁎, elle a parlé comme pour un Amant⁎ ;
-Mais voyant l'Empereur, que ne dois-je point croire ?
-Que sçay-je ? si ses yeux ébloüis de sa gloire⁎,
-Charmez⁎ de sa fortune⁎, et pleins de sa grandeur,
-N'ont point esté gagnez⁎ pour séduire son cœur ?
-Et pour me consoler, Leon, dans ma misere,
-Elle va peindre aux miens les périls de son Pere,
-Sa crainte, ses transports⁎, ses soûpirs, ses douleurs,
-Et peut-estre, j'auray le reste de ses pleurs.
-Mais avant qu'un Rival en ait fait sa conqueste,
-J'iray sur les Autels ensanglanter la Feste ;
-Pour réponse à ses pleurs j'ay du sang à verser,
-J'iray… Mais elle vient, Ciel ! que dois-je penser ?
 
-**** *book_ *id_IV02 *act_IV *date_1676 *creator_pradon 
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zaide
 
--*who_asterie
-Me plaindrez-vous, Seigneur, dans ma triste⁎ avanture ?
-J'ay parlé pour mon Pere, et servy la Nature,
-J'ay fait ce que j'ay dû, mais je viens à mon tour
-Aux yeux⁎ de mon Amant⁎ satisfaire à⁎ l'amour ;
-Ma bouche a prononcé pour un devoir funeste⁎,
-Je ne m'en repens point : mon cœur fera le reste,
-Il vient entre vos mains, tout plein de son malheur⁎,
-Remettre ses soûpirs, mes pleurs et ma douleur…
+Il vient de me parler ; son desordre, Madame,
+M'a fait connoître⁎ assez le trouble de son ame ;
+Il viendra vous trouver, il est triste⁎, inquiet,
+Il a veu l'Empereur, et cherche Bajazet.
 
--*who_andronic
-Ces soûpirs estoient dûs, Madame, à vostre Pere,
-Vous n'avez que trop fait ce que vous deviez faire,
-Vostre triste⁎ devoir vient de changer son sort⁎,
-Enfin vous avez dû m'envoyer à la mort,
-Je n'en murmure⁎ point ; Tamerlan, un Empire,
-Vostre devoir, un Pere, et si j'ose le dire,
-Vostre peu de tendresse⁎…
+Vous, Madame, un Amant⁎ ?
 
--*who_asterie
-      Ingrat⁎, que dites-vous ?
-Pouvez-vous me porter de si funestes⁎ coups⁎ ?
-Quand à vos yeux⁎ mon feu⁎ ne peut plus se contraindre⁎,
-Quand je viens devant vous soûpirer et me plaindre,
-Que mon cœur vous fait voir ses vœux⁎ desesperez,
-C'est vous, cruel⁎, c'est vous qui me le déchirez ;
-Enfin, quand je m'apreste à finir⁎ vos allarmes⁎,
-Que bientost de mon sang je vay payer vos larmes,
-Que quite envers mon Pere helas ! en ce moment
-Je cherche à m'acquiter aupres de mon Amant⁎,
-Il m'ose reprocher mon devoir et mon Pere,
-Ce que luy-mesme enfin⁎ m'a contrainte⁎ de faire,
-Tout cela, dans l'instant que je viens en ce lieu
-Le pleurer, et luy dire un eternel adieu.
+Le respect m'empeschoit d'en percer le mystere,
+Madame, et je n'osois…
 
--*who_andronic
-Un eternel adieu ! Que dites-vous, Madame ?
-Quelle subite horreur frape et saisit mon ame ?
+Je vis que vostre trouble au sien estoit semblable.
 
--*who_asterie
-Il n'est plus temps, Seigneur, de vous rien déguiser⁎,
-En vain Tamerlan croit aujourd'huy m'épouser ;
-D'abord, j'avois voulu, pour vanger ma disgrace⁎,
-Fille de Bajazet, en soûtenir l'audace,
-Et cachant un poignard, pour vanger mon malheur⁎,
-Luy donner une main qui luy perçât le cœur.
-J'ay conçeu sans trembler ce dessein teméraire,
-Mais quoy ? du mesme coup⁎ j'aurois perdu⁎ mon Pere,
-Et ce triste⁎ penser m'a donné de l'éfroy ;
-Mais il faut le sauver, et ne perdre⁎ que moy,
-Engager Tamerlan d'une foy⁎ mutuelle,
-Mourir, et vous prouver que je vous suis fidelle.
+Jamais deux Ennemis n'eurent si peu de haine,
+Il vous traita bien moins en Esclave qu'en Reyne ;
+Et depuis, ses respects, et les soins⁎ assidus,
+Qu'aupres de Tamerlan pour vous il a rendus,
+Madame, font connoître⁎…
 
--*who_andronic
-Ah ! Madame, vivez, et me manquez de foy⁎,
-Sauvez Bajazet, vous, et ne perdez⁎ que moy,
-Epousez Tamerlan, plutost que de répandre
-Un sang qui m'est si cher, et que je veux défendre,
-Ce cœur que vous voulez… ah ! funeste⁎ penser,
-Est-il encore à vous ce cœur pour le percer ?
-Je veux qu'il soit à moy dans ce péril extréme,
-De grace épargnez-vous par pitié de moy-mesme,
-Et si vous le frapiez dans ce cruel⁎ moment,
-C'est le cœur d'Andronic, le cœur de vostre Amant⁎.
+Tamerlan vient icy, songez à vous, Madame,
+Et cachez le desordre où se trouve vostre ame.
+ 
+On a crû l'Empereur charmé⁎ de sa beauté,
+La vostre cependant a vaincu sa fierté⁎ ;
+Mais, Madame, Andronic poura mieux vous aprendre…
 
--*who_asterie 
-Si Tamerlan m'épouse, helas ! ce cœur si tendre⁎,
-Qu'Andronic malgré moy veut encore défendre,
-Sera-t-il pas frapé du coup⁎ le plus afreux…
-
--*who_andronic
-Si vous vivez, mon sort⁎ sera moins rigoureux⁎ ;
-Et quand je mourray seul…
-
--*who_asterie
-      Ciel ! que voulez-vous faire ?
-Songez que vous perdez⁎ et la Fille et le Pere ;
-Et quand vous m'aprenez que vous voulez mourir,
-Est-ce là le secret⁎ de vous faire obeïr ?
-
--*who_andronic
-Hé bien, obeïssez, je vivray, ma Princesse,
-Peut-estre loin de vous je vaincray ma foiblesse,
-J'en donneray l'exemple, et mon cœur abatu
-Cherchera du secours aupres de sa vertu⁎ ;
-De puissantes raisons⁎ vous forcent à le faire,
-Il y va de vos jours, de ceux de vostre Pere,
-Tremblez pour eux, Madame, et leur servez d'apuy,
-Si vous mouriez, helas ! Tamerlan aujourd'huy
-Confus d'avoir perdu⁎ le seul bien qu'il espere⁎,
-Vangeroit vostre sang⁎ en perdant⁎ vostre Pere ;
-Bajazet périroit sans-doute⁎.
-
--*who_asterie
-      Hé voulez-vous
-Encore un coup⁎ me voir Tamerlan pour Epoux ?
-Songez-vous à l'horreur où ce destin me livre ?
-
--*who_andronic
-J'oublîray tout, pourveu⁎ que vous songiez à vivre,
-De mon triste⁎ destin je seray satisfait,
-Oubliez Andronic, songez à Bajazet.
-
--*who_asterie 
-Quoy ? vous-mesme, Andronic, ordonne qu'Astérie
-Etoufe son amour, l'abandonne, l'oublie ?
-Oüy, puis que mon Amant⁎ m'aprend sans s'émouvoir
-Par de fortes raisons⁎ mon funeste⁎ devoir,
-Que luy seul d'un œil sec contemplant ma disgrace⁎
-Me dit tranquilement ce qu'il faut que je fasse,
-Je luy vas obeïr… Mais, Seigneur, entre nous,
-Non, je n'atendois pas tant de force de vous,
-J'atendois d'Andronic un peu plus de foiblesse,
-J'atendois de son cœur un peu plus de tendresse⁎,
-J'atendois… mais que dis-je helas ! j'en dois rougir,
-Seigneur, sans balancer⁎ je vay vous obeïr,
-Et je cours de ce pas épouser…
-
--*who_andronic
-      Ah ! Madame,
-Arrestez, et voyez la douleur de mon ame,
-Pour vous sauver je fais le plus cruel⁎ effort,
-Et ne voyez-vous pas que je cours à la mort ?
-
--*who_asterie
-Vous m'arrestez ? pourquoy m'avez-vous convaincuë ?
-Cette force, Seigneur, qu'est-elle devenuë ?
-La Nature, mon Pere, Andronic, mon devoir,
-Et de plus vos raisons⁎…
-
--*who_andronic
-      Helas ! en puis-je avoir ?
-Et si pour Andronic vostre cœur est si tendre⁎,
-Madame, ces raisons⁎ les devez-vous entendre⁎ ?
-Oüy, cruelle⁎, voyez un Prince à vos genoux,
-Et mille fois plus foible et plus tendre⁎ que vous,
-Qui la mort dans le cœur, n'eût jamais d'autre envie⁎
-Que de vous conserver⁎ un Pere et vostre vie,
-Et qui vous la demande et pour vous et pour luy.
-
--*who_asterie
-N'augmentez pas, Seigneur, mon trouble et mon ennuy⁎,
-Mais plaignez seulement l'excés de ma misere,
-Il ne me souvient plus de vous pres de mon Pere,
-Et lors⁎ que je vous voy, dans ce triste⁎ moment
-J'oublie aussi mon Pere aupres de mon Amant⁎ ;
-Bajazet, Andronic, mon devoir, ma tendresse⁎,
-Enfin⁎ tout m'assassine.
-
--*who_andronic
-      Ah ! divine Princesse,
-Perdez⁎ plutost l'Amant⁎, et vivez.
-
--*who_zaide
       Ah Seigneur,
 J'entens⁎ du bruit⁎, on vient, et je voy l'Empereur.
 
-**** *book_ *id_IV03 *act_IV *date_1676 *creator_pradon
-
--*who_tamerlan
-Enfin, Prince, l'amour termine⁎ nostre haine,
-Bajazet malgré luy verra briser sa chaîne,
-La Princesse en répond, elle me l'a promis,
-Et par l'Hymen⁎ dans peu nous serons réünis⁎.
-Mais ne parliez-vous pas, Prince, de ma tendresse⁎ ?
-Vous pouviez en marquer l'excés à la Princesse ;
-Vous l'avez veu, Madame, et ce cœur orgueilleux
-Aprend à soûpirer, et l'aprend de vos yeux ;
-Ce n'est plus en vainqueur qu'il vient icy paroître,
-Depuis qu'il est à vous il n'agit plus en Maître…
-Mais quel chagrin⁎, Madame, occupe vostre esprit ?
-Je vous vois étonnée⁎, et le Prince interdit,
-Pour qui sont ces soûpirs, et ce regard si tendre⁎ ?
-Répondez ?
-
--*who_asterie
-      Moy, Seigneur ? que puis-je vous aprendre ?
-Quels soûpirs ?… si ce n'est des soûpirs de couroux
-Pour un Frere qui parle, et qui percé de coups,
-Me reproche tout haut que vostre main sanglante
-D'un sang qui m'est si cher paroît encor fumante ;
-Sa chere ombre sans cesse à mes yeux⁎ se fait voir,
-Qui me suit, qui m'arreste, et m'aprend mon devoir,
-Et qui me retraçant⁎ sa déplorable histoire,
-Me dit, que j'ay vendu son sang⁎ et sa mémoire,
-Et que par vostre hymen⁎ je trahis…
-
--*who_tamerlan
-      C'est assez,
-Je lis dans vostre cœur mieux que vous ne pensez ;
-Pour avoir écouté l'ombre de vostre Frere,
-Madame, vous avez oublié vostre Pere,
-Il suffit. Andronic, préparez vostre main
-Pour l'hymen⁎ d'Araxide, elle arrive demain,
-Dans une heure partez, allez au devant d'elle
-Par de profonds respects luy marquer vostre zele,
-Et tâchez par vos soins⁎ de prévenir⁎ son cœur,
-De mon autorité j'apuiray vostre ardeur⁎.
-
--*who_andronic
-Seigneur, lors⁎ qu'elle espere⁎ un cœur comme le vostre,
-Voudra-t-elle des soins⁎ et des respects d'un autre ?
-Poura-t-elle écouter sans dédain d'autres vœux⁎ ?
-Et vos feux⁎…
-
--*who_tamerlan
-      Vous prenez trop de soin de mes feux⁎,
-Araxide à vos yeux⁎ ne sera point rebelle,
-Répondez-moy de vous, et je vous répons d'elle,
-Maître de ses Estats je puis en disposer,
-Et d'un mot Tamerlan vous la fait épouser.
-
--*who_andronic
-Puis-je espérer⁎, Seigneur, l'amour d'une Princesse
-Qui ne me vit jamais, et de qui la tendresse⁎…
-
--*who_tamerlan
-Prince, je vous entens⁎ : Vous, Madame, je voy
-Que vous les entendez⁎ ces raisons⁎ mieux que moy,
-Tamerlan à son tour commence à les connoître⁎ ;
-Vous, Prince, obeissez, je dois parler en Maître,
-Je le veux, je l'ordonne, et ne voyez jamais…
-
--*who_andronic
-Seigneur, vous pouvez faire obeïr vos Sujets,
-Je suis indépendant, et ne connois⁎ personne
-Qui puisse me parler par je veux, ou j'ordonne ;
-Je m'expose sans-doute⁎ aux plus cruels⁎ Destins,
-Mais je n'en suis pas moins du sang⁎ des Constantins,
-Et tous ceux que le Ciel dans mon rang a fait naître
-N'obeïssent jamais quand on leur parle en Maître.
-
--*who_tamerlan
-Luy dictez-vous, Madame, un discours si fatal⁎ ?
-Dois-je voir dans ses yeux les regards d'un Rival ?
-Vos yeux l'ont-ils rendu teméraire, perfide⁎ ?
-
--*who_asterie
-Moy ? Seigneur… Andronic, allez voir Araxide,
-Allez, sans balancer⁎, obeïssez, partez.
-
--*who_tamerlan
-Madame, pour mon cœur, que d'afreuses clartez !
-J'en frémis, mais enfin songez à quelle rage
-Peut emporter l'amour contre qui nous outrage,
-Et puis que cet amour sçait agir en Tyran,
-Malheur⁎! à qui sera Rival de Tamerlan !
-
--*who_asterie 
-Auriez vous un Rival pour une infortunée⁎,
-Languissante⁎, captive, aux pleurs abandonnée,
-Qui fust longtemps en bute à vostre inimitié,
-Rebut de la Fortune⁎, objet⁎ de la pitié ?
-Ah ! Seigneur, qui voudroit dans ma fortune⁎ afreuse
-Prodiguer des soûpirs pour une malheureuse⁎,
-Qui gémira toûjours des maux qu'elle a soufers⁎,
-Et qui n'a pour tous biens que des pleurs et des fers⁎ ?
-Andronic a des yeux, Araxide est charmante⁎,
-Il la verra, son cœur remplira⁎ vostre attente,
-Oüy, Seigneur, j'en répons, il va vous obeïr.
-
--*who_andronic
-Madame, jusques-là pourois-je vous trahir ?
-Non, non, il faut parler, il n'est plus temps de feindre,
-Oüy, j'adore⁎ Astérie, et je le dis sans craindre,
-Disposez de mon Trône et de mes jours, Seigneur,
-Mais du moins laissez-moi disposer de mon cœur,
-Il est à la Princesse.
-
--*who_tamerlan
-      Ingrat⁎, pourquoi m'aprendre
-Un secret⁎ que mon cœur n'a sçeu que trop entendre⁎ ?
-Je te faisois l'honneur d'atendre tout de toy,
-Tu pouvois aujourd'huy tout espérer⁎ de moy,
-Je t'avois confié⁎ mon cœur et ma tendresse⁎,
-Je te donnois un Trône, une illustre⁎ Princesse,
-J'allois te couronner avecque tant d'éclat…
-
--*who_andronic
-Seigneur, vous n'auriez fait d'Andronic qu'un ingrat⁎,
-Ne me prodiguez plus un présent qui m'ofence,
-Un Rival est mal propre à la reconnoissance,
-N'en doutez point. Tantost⁎ mon cœur en frémissant
-A gemy sous le poids d'un bienfait accablant ;
-Les Trônes, les grandeurs, je vous les abandonne,
-Laissez-moy ma Princesse, et prenez ma Couronne,
-J'aime mieux partager avec elle les fers⁎,
-Que sans elle avec vous partager l'Univers.
-
--*who_tamerlan
-Madame, vous voyez cette ardeur⁎ qui l'entraîne,
-Vous l'aimez, mais il doit demander vostre haine,
-Je perce le mystere, et voy que Bajazet
-Avec luy de concert entreprit son projet,
-Vous-mesme d'Andronic estiez la récompense,
-Mais ils seront tous deux l'objet⁎ de ma vangeance.
-
--*who_andronic
-Je ne crains point la mort, pour vous, pour vostre Etat,
-Seigneur, je l'ay cherchée avec assez d'éclat,
-Sebaste qui me vit au pied de ses murailles
-Connoît⁎ trop qui je suis : J'ay donné deux Batailles,
-Où de mon propre sang (blessé de plusieurs coups)
-J'arrosay les Lauriers que je cueillois pour vous ;
-La plus afreuse mort n'a rien qui m'intimide⁎,
-Frapez sans balancer⁎ un Rival intrépide.
-
--*who_tamerlan
-Je sçauray contenter⁎ un si juste desir.
-Qu'on l'arreste Tamur, qu'on vienne le saisir.
-
--*who_asterie
-Ah ! Seigneur, arrestez ?… Prince, quelles allarmes⁎ ?
-Au nom de nostre amour, et par toutes mes larmes…
-
--*who_andronic
-Et que puis-je, Madame ?
-
--*who_tamerlan
-      Eloignez de mes yeux
-Cet objet⁎ insolent d'un Rival odieux.
-
-**** *book_ *id_IV04 *act_IV *date_1676 *creator_pradon 
-
--*who_tamerlan
-Madame, vous voyez à quel point il m'irrite,
-C'est mon Rival, je suis pour luy Barbare, Scyte,
-Je répandray du sang, tout me sera permis,
-Maîtresse⁎, Pere, Amant⁎, tous sont mes ennemis.
-Il faut que de leur sort⁎ vostre bouche décide,
-Pour sauver Andronic, qu'il épouse Araxide,
-Resolvez⁎-l'y vous-mesme, et rejetant ses vœux⁎,
-Pour sauver Bajazet satisfaites mes feux⁎.
-Voilà le seul secret⁎ d'apaiser ma colere,
-Quitez, abandonnez l'Amant⁎ pour vostre Pere ;
-Si l'un et l'autre enfin ne subissent mes Loix,
-Vous les verrez tous deux pour la derniere fois.
-
-**** *book_ *id_IV05 *act_IV *date_1676 *creator_pradon
-
--*who_asterie
-Ah ! Seigneur… il me quite helas ! que vais-je faire ?
-N'estoit-ce pas assez de trembler pour mon Pere ?
-Et cependant je touche au funeste⁎ moment
-Où je verray périr mon Pere et mon Amant⁎ ?
-Quoy ? Zaïde, faut-il qu'à moy-mesme funeste⁎,
-En perdant⁎ tout, je livre un Amant⁎ qui me reste ?
-Qu'à ma Rivale enfin⁎, j'abandonne son cœur,
-Et que pour le sauver j'allume leur ardeur⁎ ?
-S'il faut perdre⁎ ton cœur pour conserver⁎ ta vie,
-Cher Andronic, pardonne à la foible Astérie,
-Je te verrois plutôt… Zaïde, n'entens⁎ pas
-Les douloureux transports⁎ d'un cruel⁎ embaras⁎,
-Ferme, ferme les yeux sur toute ma foiblesse,
-Excuse ma douleur, pardonne à ma tendresse⁎ ;
-Bajazet, Andronic, Pere, Amant⁎ malheureux⁎,
-Je sçauray périr seule, et vous sauver tous deux.
-Fin du Quatriéme Acte.
-
-**** *book_ *id_V01 *act_V *date_1676 *creator_pradon
-
--*who_asterie
-Ne m'abandonne point, tout est perdu, Zaïde,
-As-tu veu comme moy la Princesse Araxide ?
-Elle vient d'arriver, mon malheur⁎ est certain,
-Peut-estre qu'Andronic l'épousera demain,
-Aujourd'huy pour ma mort tout est d'intelligence⁎,
-Avant ce prompt retour⁎ j'avois quelque espérance ;
-Loin d'Araxide helas ! et pres de mon Amant⁎
-Je voyois mes malheurs⁎ dans quelque éloignement ;
-Mais j'ay veu de trop pres cette pompe⁎ fatale⁎,
-Qui suivoit dans le Camp ma superbe⁎ Rivale,
-Ces Escadrons rangez, ce grand nombre de Chars,
-Qui de l'Armée entiere attiroient les regards,
-Ces Gardes, ces Soldats, cette Suite nombreuse,
-Cette foule qu'entraîne une fortune⁎ heureuse⁎,
-Ces cris de joye, en l'air redoublez tant de fois,
-Cet apareil⁎ qui marche à la suite des Roys,
-Tout allarmoit⁎ un cœur trop tendre⁎ et trop timide⁎,
-Et j'ay tremblé sur tout en voyant Araxide ;
-Quand son Char a paru, mon cœur en a frémy,
-Dans le trouble où j'estois je l'ay veuë à demy ;
-Mais il faut l'avoüer enfin malgré ma haine,
-Ah ! Zaïde, elle est belle, et de plus elle est Reyne.
-
--*who_zaide
 Ne craignez rien, Madame, Andronic est constant.
 
--*who_asterie
-Un cœur ne peut-il pas changer en un instant ?
-Voy, d'Araxide, voy la grandeur importune,
-Regarde avec pitié toute mon infortune⁎,
-Sur le Trône elle brille aux yeux de l'Univers,
-Moy, dans l'obscurité je languis⁎ dans les fers⁎,
-Un Sceptre peut tenter⁎ une ame ambitieuse,
-Ma Rivale est charmante⁎, et je suis malheureuse⁎,
-Andronic est sensible, il peut manquer de foy⁎,
-Il m'aime, mais helas ! s'il s'aimoit plus que moy !
-
--*who_zaide
 Madame, suspendez ces mortelles allarmes⁎,
 Pour Tamerlan peut-estre Araxide a des charmes⁎,
 Son cœur ambitieux dans cet heureux⁎ retour⁎
@@ -1851,373 +1893,3 @@ En faveur d'Araxide il sçaura se contraindre⁎,
 Et ce superbe⁎ cœur politique⁎ et jaloux
 Doit par trop de raisons⁎ se dégager de vous.
 
--*who_asterie
-S'il est ainsi, Zaïde, ah ! qu'elle ait mille charmes⁎,
-Que ses yeux soient brillans, les miens couverts de larmes,
-Que l'heureuse⁎ Araxide allume avec éclat
-Cet amour politique⁎ et de raison⁎ d'Etat !
-Qu'elle soit mille fois plus belle et plus aimable,
-Qu'aux yeux⁎ de Tamerlan je paroisse éfroyable,
-Et s'il se peut helas ! dans mon sort⁎ douloureux
-Qu'Andronic ait pour moy toûjours les mesmes yeux !
-Mais s'il falloit, Zaïde, à moy-mesme fatale⁎
-Contraindre⁎ mon Amant⁎ d'adorer⁎ ma Rivale,
-Que pour sauver ses jours il fallut le céder,
-Quel discours emploiray-je à le persuader ?
-On m'en a menacée, et tantost⁎ le Tartare
-Condamnoit ma tendresse⁎ à cet effort barbare ;
-Helas ! je me serois trahie à tous momens,
-Ciel ! que n'a-t-il quité ces cruels⁎ sentimens ?
-Mais il vient, ah fuyons, de crainte que ma vûë
-Ne rallume en son cœur le poison qui me tuë.
-
-**** *book_ *id_V02 *act_V *date_1676 *creator_pradon
-
--*who_tamerlan
-Tu dis que Bajazet rentre dans son devoir,
-Tout superbe⁎ qu'il est, qu'il demande à me voir,
-Il fait cette démarche, et cette ame si fiere⁎
-Souhaite une entreveuë, et parle la premiere,
-Te croiray-je, Tamur ? l'as-tu bien entendu⁎ ?
-Ne t'es-tu point trompé quand tu m'as répondu ?
-Bajazet veut me voir ? quelle atteinte impréveuë
-A fléchy son orgueil ? quoy ! dans nostre entreveuë
-Il demande sa Fille ? il n'en faut plus douter,
-Tamur, son cœur se rend, et j'ay sçeu le dompter,
-Parle, répete-moy ce qu'il vient de te dire.
-
--*who_tamur
-Seigneur, exactement je vay vous en instruire.
-Il m'a mandé luy-mesme, et j'ay couru soudain
-Par vostre ordre, en entrant il m'a donné la main,
-Un air plus satisfait brilloit sur son visage,
-Qui sembloit en banir la fureur⁎ et la rage,
-La douceur et la paix y regnoient à leur tour :
-Je veux voir vostre Maître avant la fin du jour,
-(M'a-t-il dit) je suis las de soufrir⁎ tant de peine,
-Il faut sortir des fers⁎, et finir⁎ nostre haine,
-Allez, et que je voye Astérie avec luy.
-
--*who_tamerlan
-Quoy ? donc j'auroy vaincu Bajazet aujourd'huy ?
-Non, je ne puis le croire, et sa haine invincible
-Aux périls, à la mort, ne fust jamais sensible,
-J'admirois son courage⁎, et malgré sa fureur⁎
-Ce mépris de la mort qui marque un si grand cœur⁎,
-Cette ame inébranlâble, et si noble et si fiere⁎,
-Ont pour luy mille fois suspendu ma colere ;
-Nous sommes ennemis, je le hais, il me hait,
-Mais j'aurois jusqu'icy fait tout ce qu'il a fait.
-Ainsi, de ce retour⁎ j'ay trop d'incertitude,
-De tous costez, Tamur, j'ay de l'inquiétude ;
-Si Bajazet se rend du party de mon cœur,
-Araxide et ma gloire⁎ arrestent mon bonheur ;
-Je sçay bien que ma bouche est ingrate⁎, perfide⁎,
-Qu'elle a donné parole à l'aimable Araxide,
-Mais j'adore⁎ Astérie, et mon cœur à son tour
-S'est malgré mon orgueil donné tout à l'amour.
-J'ay regardé l'amour dans les yeux d'Astérie
-Comme un fier⁎ Ennemy né de mon Ennemie,
-Et pour mieux me vanger d'elle et de mon Vainqueur,
-J'ay voulu le forcer dans le fonds de son cœur.
-
--*who_tamur
-Mais, Seigneur, Andronic épousant Araxide,
-Vous n'auriez plus le nom d'ingrat⁎ et de perfide⁎,
-Ce Prince…
-
--*who_tamerlan
-      C'est de quoy je veux l'entretenir,
-Et mon ordre est donné pour le faire venir.
-Que l'on amene aussi la Princesse Astérie ?
-Bajazet veut la voir, contentons⁎ son envie⁎ ;
-Que je m'aplaudirois d'un peu de cruauté,
-Si par là j'avois sçeu vaincre tant de fierté⁎ !
-Car enfin⁎, je ne puis soufrir⁎ qu'il la soûtienne,
-La grandeur de son ame est égale à la mienne,
-Il faut que je l'abaisse, et que d'un air soûmis
-Il veüille entrer luy-mesme au rang de mes Amis,
-Je serois satisfait si le péril qui presse
-Coûtoit à son grand cœur⁎ cette heureuse⁎ foiblesse,
-Et si j'en triomphois ayant pû le dompter,
-Peut-estre que le mien sçaura se surmonter.
-Cependant de leur sort⁎ il faut que je décide,
-Bajazet, Astérie, Andronic, Araxide,
-Dans mes mains, il est vray, je tiens vostre destin,
-Et cependant le mien en est plus incertain.
-Andronic mon Rival est un Rival que j'aime,
-Il m'a servy sans-doute⁎, Araxide elle-mesme
-Doit s'unir avecque eux dans ce commun éfroy,
-Et je seray peut-estre avecque eux contre moy,
-Mais sur tout Bajazet, Tamur, le puis-je croire,
-Que la crainte ait donné quelque atteinte à sa gloire⁎ ?
-
--*who_tamur
-N'en doutez point, Seigneur, Bajazet étonné⁎
-Se lasse de se voir captif, infortuné⁎ ;
-Pour sauver le débris⁎ de sa triste⁎ Famille,
-Il veut sortir des fers⁎ en vous donnant sa Fille ;
-N'a-t-il pas fait entendre⁎ un si juste projet ?
-Lors⁎ que…
-
--*who_tamerlan
-      Sa Fille vient. Fais venir Bajazet.
-
-**** *book_ *id_V03 *act_V *date_1676 *creator_pradon
-
--*who_tamerlan
-Vostre Pere a changé son superbe⁎ langage,
-Madame, il a quité cette fierté⁎ sauvage⁎,
-Il demande à me voir, et je vous fais venir
-Pour nous voir tous ensemble, et pour nous réünir⁎.
-Luy-mesme a souhaité que vous fussiez présente
-A cet acord si doux qui faisoit vostre atente,
-Vous nous verrez tous deux bientost nous embrasser…
-Mais ce discours commence à vous embarrasser,
-Et je voy…
-
--*who_asterie
-      Quoy ? Seigneur, est-il vray que mon Pere ?…
-
--*who_tamerlan
-Il est vray qu'il viendra bientôt me satisfaire,
-Et sans plus écouter une aveugle fureur⁎,
-Qu'il a soin de sa vie et de vostre grandeur.
-
--*who_asterie 
-Ah Ciel !
-
--*who_tamerlan
-      Nous finirons⁎ une haine mortelle,
-Elle va faire place à la foy⁎ mutuelle
-Qui nous liant tous deux, vous couronne…
-
--*who_asterie
-      Ah ! Seigneur
-Les Couronnes n'ont rien de touchant pour mon cœur ;
-Depuis que dans les fers⁎ je suis acoûtumée,
-Seigneur, de la grandeur je ne suis plus charmée⁎.
-Araxide avec vous remplira⁎ mieux que moy
-Un rang que vous devez à son cœur, à sa foy⁎,
-Oubliez Astérie, Esclave infortunée⁎,
-Je ne mérite point d'estre icy couronnée,
-Et si mon Pere enfin plus soûmis et plus doux,
-Vouloit se réünir⁎, Seigneur, avecque vous,
-Si d'un esprit moins fier⁎… Ah Ciel, est-il possible ?
-Bajazet qui parust toûjours ferme, infléxible,
-Luy qui brava toûjours… tantost⁎ mesme, Seigneur,
-Mes larmes, mes soûpirs, n'ont pû toucher son cœur,
-J'ay fait ce que j'ay pû pour attendrir son ame,
-Toûjours inéxorable, intrépide…
-
--*who_tamerlan
-      Ah ! Madame,
-Vostre cœur a paru charmé⁎ de ses refus,
-Cependant, croyez-moy, ne les souhaitez plus,
-Si vous l'aimez, pour luy devenez plus timide⁎,
-Et rendez sa grande ame un peu moins intrépide,
-Et puis que ses refus le pouroient accabler,
-Son intrépidité vous doit faire trembler.
-
--*who_asterie
-Quoy ? Seigneur, auriez-vous l'ame assez inhumaine…
-
--*who_tamerlan 
-Non, Madame, au contraire, on va briser sa chaîne,
-Et Bajazet et moy, dans nos embrassemens,
-Nous allons étoufer tous nos ressentimens.
-
-**** *book_ *id_V04 *act_V *date_1676 *creator_pradon
-
--*who_andronic
-Ah ! Madame, est-il vray ce qu'on vient de m'aprendre ?
-Bajazet obeït, son grand cœur⁎ sçait se rendre,
-Il vous immole, ah Ciel ! quel honteux changement !
-Ce cœur⁎ qui fust si ferme à la fin se dément⁎,
-Luy que j'ay veu cent fois par une juste envie⁎
-Demander un poignard pour s'arracher la vie ?
-Qui cherchoit avec soin le secours du poison,
-Et qui le cherchoit mesme avec tant de raison⁎ ?
-Il tremble ; et dans vos mains il remet Astérie,
-Mais pour la conserver⁎ prenez encor ma vie,
-Il vous la faut, Seigneur, perdant ce que je pers⁎
-Je voudrois dans ma chûte entraîner l'Univers,
-Oüy, perdez⁎ un Rival dont la fureur⁎ extréme
-Pouroit vous perdre⁎ un jour en se perdant⁎ luy-mesme,
-Et qui n'ayant pour luy plus rien à ménager,
-Ne cherche qu'à mourir, enfin⁎, ou se vanger.
-
--*who_tamerlan 
-J'excuse d'Andronic la fureur⁎ et l'audace,
-Je luy pardonne mesme une telle menace,
-Son desepoir luy dicte un discours emporté
-Que pour son intérest je n'ay pas écouté.
-
--*who_andronic
-Pour vostre intérest seul vous devriez l'entendre⁎,
-L'excés de ma douleur, Seigneur, doit vous l'aprendre,
-Oüy, perdez⁎ un Rival…
-
--*who_asterie
-      Que dites-vous, Seigneur ?
-Pourquoy donner encor ce comble à mon malheur⁎ ?
-Et n'ay-je pas assez de mortelles disgraces⁎
-Sans qu'il y faille encor ajoûter vos menaces ?
-Tout retombe sur moy ? voulez-vous en mourant
-Faire à mes tristes⁎ yeux un spéctacle sanglant ?
-Et faudra-t-il périr, pour croistre ma misere,
-De la main d'un Amant⁎ et de celle d'un Pere ?
-J'en seray la Victime, et je dois obeïr,
-Mais je n'ignore pas quand il faudra mourir.
-Il vient. Ah Ciel !
-
-**** *book_ *id_V05 *act_V *date_1676 *creator_pradon 
-
--*who_bajazet
-      Ma Fille, il faut que je t'embrasse,
-La fureur⁎ du Destin aujourd'huy me fait grace,
-Vien partager ma joye, essuye enfin tes pleurs,
-Bajazet a vaincu son sort⁎ et ses malheurs⁎.
-
--*who_asterie
-A ce nouveau bonheur immolez Astérie,
-Je n'en murmure⁎ point, qu'il me coûte la vie,
-Dois-je pas vous la rendre ? il n'importe, Seigneur,
-Finissez⁎ vostre haine, embrassez l'Empereur,
-Reünissez⁎ deux cœurs…
-
--*who_bajazet
-      Que je me réünisse⁎
-Avec mon Ennemy ? par quel honteux caprice
-Me donner un conseil⁎ qui me remplit⁎ d'horreur ?
-Mais enfin, Tamerlan, je connois⁎ son erreur,
-Si j'ay voulu te voir, ce n'est que pour t'aprendre
-Que sur moy tu n'as plus aucun droit à prétendre⁎,
-Et que brisant mes fers⁎ peut-estre devant toy,
-Tu me verras dans peu libre et maistre de moy.
-
--*who_tamerlan
-Bajazet, j'avois crû qu'un conseil⁎ salutaire
-Remetoit au devoir et la Fille et le Pere,
-Mais ne me contrains⁎ plus à la juste rigueur,
-Qui malgré mes bontez puniroit ta fureur⁎.
-
--*who_bajazet
-Tu peux intimider⁎ un malheureux⁎ Esclave,
-J'écoute sans aigreur un Vainqueur qui me brave,
-Tu sçais bien que la mort ne m'a point fait d'éfroy,
-Et quand je l'ay cherchée elle a fuy devant moy ;
-Mais je t'ay prevenu⁎, j'ai remply⁎ mon envie⁎,
-Je quite avec plaisir le fardeau de la vie,
-Je sens que ma fureur⁎ s'éteint avec mes jours,
-Je cede, et suis tranquile en finissant⁎ leur cours,
-Et puis que je vais perdre⁎ une vie importune,
-Je me reconcilie avecque la Fortune⁎,
-Je luy pardonne tout. Ma Fille est dans tes fers⁎,
-Elle attache sur toy les yeux de l'Univers,
-Si la vertu⁎ t'est chere ah ! je te la confie⁎,
-Et ta gloire⁎ aujourd'huy me répond d'Astérie,
-Je l'en charge, il suffit. Ma Fille, c'est à toy
-De vivre, ou s'il le faut, de mourir comme moy.
-
--*who_asterie
-Seigneur, que dites-vous, et quel triste⁎ présage…
-Mais Ciel ! à chaque instant vous changez de visage,
-Mon Pere, qu'avez-vous ? quel afreux changement ?
-
--*who_bajazet
-Ce mal se doit passer⁎, ma Fille, en un moment,
-Ce n'est rien.
-
--*who_asterie
-      Mais que vois-je ? ah Seigneur il chancelle,
-Je tremble.
-
--*who_andronic
-      Quoy, Seigneur ?…
-
--*who_bajazet
-      Vostre amitié cruelle⁎
-Me refusa cent fois un poignard pour mourir,
-Seigneur, mais un Esclave a sçeu me secourir,
-Et je me suis rendu par son adresse extréme
-Maître de mon destin malgré le Destin mesme,
-C'est ainsi que j'ay pris le trop heureuse⁎ poison
-Qui des fureurs⁎ du Sort⁎ m'a sçeu faire raison⁎.
-
--*who_asterie
-Juste Ciel !
-
--*who_tamerlan
-      Quoy ? veux-tu me dérober la gloire⁎
-D'emporter sur mon cœur une entiere victoire ?
-Qu'on cherche du secours !
-
--*who_bajazet
-      Il n'est plus de secours,
-Qui puisse retarder de si malheureux⁎ jours,
-Je sens déja la mort et secourable et promte,
-Qui m'enleve à la vie, et m'arrache à la honte,
-Console-toy, ma Fille, et malgré ta douleur
-Souvien-toy que ton Pere expire en Empereur.
-
--*who_tamerlan
-Qu'on l'emporte, Tamur !
-
--*who_asterie
-      Seigneur, je veux vous suivre,
-Et je ne pouray pas un moment vous survivre.
-
--*who_tamerlan
-Madame, demeurez, et dans un tel malheur⁎…
-
--*who_asterie
-Ah ! laisse-moy, Tyran, expirer de douleur !
-Tu pers tout aujoud'huy, malheureuse⁎ Astérie,
-Et pour dernier malheur⁎ il te reste la vie.
-
-**** *book_ *id_V06 *act_V *date_1676 *creator_pradon 
-
--*who_andronic
-Si vous l'aimez, Seigneur, craignons son desespoir,
-Et soufrez⁎…
-
--*who_tamerlan
-      Demeurez, c'est à moy d'y pourvoir.
-Hola, Gardes, Tamur, veillez sur la Princesse,
-Qu'on la suive, et sur tout qu'on l'observe sans cesse.
-C'en est fait, on verra si je suis un Tyran,
-Il faut que l'Univers connoisse⁎ Tamerlan.
-Bajazet de sa Fille ose charger ma gloire⁎,
-Oüy, Prince, elle en répond, et vous l'en devez croire,
-Il triomphe du Sort⁎, et je veux aujourd'huy,
-En triomphant de moy, faire encor plus que luy.
-Ainsi, Prince, je veux oublier vos caprices,
-Et ne me souvenir que de tous vos services,
-Et quand Bajazet meurt, pour triomphe nouveau,
-Enfermer mon amour dans le mesme tombeau.
-Allez voir la Princesse, apaisez ses allarmes⁎,
-Quand elle aura donné quelque tréve à ses larmes,
-Elle peut à son gré terminer⁎ vostre sort⁎,
-Araxide et ma gloire⁎ exigent cet effort,
-Je l'épouse, et je pars.
-
--*who_andronic 
-      Quelle reconnoissance,
-Seigneur, pour des bontez qui passent⁎ l'espérance...
-Ciel ! pouvois-je espérer⁎ en ce funeste⁎ jour
-Que la Gloire⁎ vangeât la Nature et l'Amour ?
-FIN.
-
-**** *book_ *id_privilege *date_1676 *creator_pradon
-
-Extrait du Privilege du Roy.
-
-Par Grace et Privilege du Roy, donné à Saint Germain en Laye le 16.
-Janvier 1676.
-Signé, Par le Roy en son Conseil, Desvieux : Il est permis au Sieur PRADON de faire imprimer, vendre et debiter par tel Imprimeur ou Libraire qu'il voudra choisir, une Piece de Theatre de sa composition, intitulée Tamerlan, ou La Mort de Bajazet, pendant le temps et espace de huit années, à commencer du jour qu'elle sera achevée d'imprimer pour la premiere fois ; avec defenses à toutes Personnes, de quelque qualité et condition qu'elles soient, d'en imprimer, ou faire imprimer, vendre et distribuer, en tous les Lieux du Royaume et Terres de l'obeïssance, d'autre Edition que de celle dudit Sieur de Pradon, ou de ceux qui auront droit de luy, à peine de trois mille livres d'amende, payable sans déport par chacun des contrevenans, confiscation des Exemplaires contrefaits, et autres peines plus au long contenues dans lesdites Lettres.
-
-Registré sur le Livre de la Communauté des Libraires et Imprimeurs, Signé THIERRY, Syndic.
-
-Achevé d'imprimer pour la premiere fois le 30.
-Janvier 1676.

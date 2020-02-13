@@ -1,1156 +1,655 @@
 
 
-**** *book_ *id_I01 *act_I
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
--*who_oedipe
-Que je suis indignée !
-Encore une soeur !
-Mon Père y pense-t-il ?
-Combien il me fait de tort !
-Dans ma jeunesse je paraissais souvent en ces lieux, je faisais plaisir : et je serais oubliée !
-Non, je demanderai vengeance ; c'est une ingratitude que je ne puis pardonner à mon père.
-Moi qui ai fait sa réputation !
-Tout le monde sait qu'il m'a l'obligation de ce qu'un Prince aussi éclairé qu'illustre, l'honora de sa protection : que c'est moi qui l'ai rendu célèbre, et je n'en suis pas mieux regardée.
-Mes soeurs ignorent que leur famille est augmentée, je veux les prévenir, et les faire entrer dans ma juste colère.
+Que je suis indignée ! Encore une soeur ! Mon Père y pense-t-il ? Combien il me fait de tort ! Dans ma jeunesse je paraissais souvent en ces lieux, je faisais plaisir : et je serais oubliée ! Non, je demanderai vengeance ; c'est une ingratitude que je ne puis pardonner à mon père. Moi qui ai fait sa réputation ! Tout le monde sait qu'il m'a l'obligation de ce qu'un Prince aussi éclairé qu'illustre, l'honora de sa protection : que c'est moi qui l'ai rendu célèbre, et je n'en suis pas mieux regardée. Mes soeurs ignorent que leur famille est augmentée, je veux les prévenir, et les faire entrer dans ma juste colère.
 
-**** *book_ *id_I02 *act_I
+Toutes mes soeurs seront traitées comme moi... Nous irons chez l'étranger... Nous ne serons jamais oubliées.
 
--*who_zaire
-OEdipe paraît bien agitée !
-Dans son égarement elle ne nous voit pas.
-Écoutons.
+Je ne vous croyais point si près de moi. Puisque vous voilà, je ne vous irai point chercher. Mais qui vous amène ?
 
--*who_oedipe
-Toutes mes soeurs seront traitées comme moi...
-Nous irons chez l'étranger...
-Nous ne serons jamais oubliées.
-
--*who_alzire
-Oubliées !
-Ce ne sera pas moi : je sers d'exemple.
-
--*who_zaire
-Pour moi je suis trop belle pour qu'on me fasse cet affront.
-
--*who_oedipe
-Je ne vous croyais point si près de moi.
-Puisque vous voilà, je ne vous irai point chercher.
-Mais qui vous amène ?
-
--*who_zaire
-Il se fait tant de bruit ici depuis quelques jours, que nous n'avons pu résister au désir d'en apprendre le sujet.
-
--*who_alzire
-Il n'est pas possible d'y tenir.
-Vous êtes ici, vous savez ce qui l'occasionne.
-
--*who_oedipe
 C'est ce qui me met en courroux, sachez que notre père nous abandonne.
 
--*who_zaire
-Comment donc !
-Nous lui avons fait tant d'honneur.
+C'est pour cela même ; et comme il veut s'en procurer encore, il vient de mettre au jour un nouvel enfant, et voilà le sujet de ce bruit qui peut nous être fatal. Ne point se laisser de faire des enfants à son âge !
 
--*who_oedipe
-C'est pour cela même ; et comme il veut s'en procurer encore, il vient de mettre au jour un nouvel enfant, et voilà le sujet de ce bruit qui peut nous être fatal.
-Ne point se laisser de faire des enfants à son âge !
-
--*who_zaire
-Quel mal y trouvez-vous ?
-Cela lui coûte si peu.
-
--*who_oedipe
 Cela peut-nous faire du tort par la suite.
 
--*who_alzire
-Mais sommes-nous bien toutes de lui ?
+Gardez-vous bien de penser autrement, nous n'aurions jamais un père d'un mérite si universel ; ce qui nous console, c'est que nous sommes bien faites, et que nous ne mourrons jamais ; mais plus nous aurons de soeurs, plus nous serons oubliées, et c'est ce que j'appréhende. Les derniers font oublier les premiers ; cela peut arriver parmi nous, et nous ne le méritons pas.
 
--*who_oedipe
-Gardez-vous bien de penser autrement, nous n'aurions jamais un père d'un mérite si universel ; ce qui nous console, c'est que nous sommes bien faites, et que nous ne mourrons jamais ; mais plus nous aurons de soeurs, plus nous serons oubliées, et c'est ce que j'appréhende.
-Les derniers font oublier les premiers ; cela peut arriver parmi nous, et nous ne le méritons pas.
+Je ne vois qu'un moyen ; c'est de n'admettre au nombre de nos soeurs, que celles qui seront dignes de l'être. Épluchons leur conduite.
 
--*who_alzire
-Assurément, il faut y mettre ordre.
+J'en conviens. Mais il est encore temps. Nous sommes les premières et les meilleures tragédies de ce spectacle, comme bonnes et bien aimées du Public, intercédons-le pour nous. Il prendra notre parti, et ne recevra nos soeurs que selon leur mérite et leur beauté.
 
--*who_zaire
-C'est mon sentiment, et le temps presse.
-
--*who_oedipe
-Je ne vois qu'un moyen ; c'est de n'admettre au nombre de nos soeurs, que celles qui seront dignes de l'être.
-Épluchons leur conduite.
-
--*who_alzire
-Nous nous y prenons bien tard.
-
--*who_oedipe
-J'en conviens.
-Mais il est encore temps.
-Nous sommes les premières et les meilleures tragédies de ce spectacle, comme bonnes et bien aimées du Public, intercédons-le pour nous.
-Il prendra notre parti, et ne recevra nos soeurs que selon leur mérite et leur beauté.
-
--*who_alzire
-Il ne faut point s'y prendre ainsi.
-Pourquoi fatiguer le Public de remontrances ?
-Il doit en être las.
-Si nous l'instruisions de notre procédé, il s'en formaliserait ; il voit avec trop de plaisir toutes les productions de notre père, pour nous être favorable.
-
--*who_zaire
-Sa réflexion est juste.
-
--*who_oedipe
-Eh bien, jugeons nous-même du mérite de nos soeurs, mais avec impartialité.
-N'imitons pas ces gens qui croient tout savoir pour faire l'extrait d'un Livre, et en dire du mal s'il est bon.
-Soyons sincères, et les enfants de Voltaire
+Eh bien, jugeons nous-même du mérite de nos soeurs, mais avec impartialité. N'imitons pas ces gens qui croient tout savoir pour faire l'extrait d'un Livre, et en dire du mal s'il est bon. Soyons sincères, et les enfants de Voltaire
 Doivent être assez grands pour être sans envie.
 Et si nous avertissions nos soeurs...
 
--*who_zaire
-Elles se réveilleront sans doute au bruit qui se fait ici.
+Que vois-je ? Il faut que le bruit soir redoublé, puisque voilà Artémire et Eriphile ; elles sont avec Hérode et Mariamne, et Brutus.
 
--*who_alzire
-Je défierais bien qu'elles puissent y résister.
-
--*who_oedipe
-Que vois-je ?
-Il faut que le bruit soir redoublé, puisque voilà Artémire et Eriphile ; elles sont avec Hérode et Mariamne, et Brutus.
-
-**** *book_ *id_I03 *act_I
-
--*who_artemire
-Pourquoi me tirer de la léthargie où j'étais ?
-
--*who_herodeetmariamne
-Ce n'est pas moi.
-Je me suis réveillée comme vous : et si te viens ici, ce n'est que pour y rester jusqu'à ce que le bruit qui nous inquiète, cède.
-
--*who_artemire
-Avec qui sommes-nous ?
-Voilà des personnes bien brillantes : retirons-nous.
-
--*who_oedipe
 Restez, Artémire ; ne craignez rien, nous sommes vos soeurs.
 
--*who_brutus
-Que se passe-t-il donc ici pour ne pas s'entendre ?
-Approchez, Eriphile, vous marchez bien doucement.
-
--*who_eriphile
-C'est avec bien de la peine que je soutiens le grand jour.
-Depuis le temps que mon père me tient enfermée, je ne suis pas reconnaissable.
-
--*who_artemire
-Ma situation est plus mauvaise que la vôtre.
-Depuis ma chute je tremble toujours.
-
--*who_brutus
-Je ne comptais point reparaître ici sitôt ; moi qui suis belle, on me néglige.
-
--*who_oedipe
 On nous en fait autant, et nous avons toutes sujet de nous plaindre.
 
--*who_brutus
-Vous savez le plaisir que j'ai fait ici ; la foule des spectateurs était si grande, que la salle n'était pas assez vaste pour contenir tout le monde.
-
--*who_herodeetmariamne
-Vengeons nous de l'affront qu'on nous fait.
-
--*who_zaire
-Vous vous emportez pour bien peu de chose.
-Que direz-vous donc quAnd vous saurez que nous avons une nouvelle soeur ?
-
--*who_brutus
-Il ne faut point la recevoir.
-
--*who_alzire
-Aussi voulons-nous la juger.
-
--*who_brutus
-Laquelle ?
-Nous en avons de tant de façons...
-Elle n'est point ici sans doute.
-
--*who_oedipe
 Elle est en ce lieu, et va paraître dans un moment.
 
--*who_brutus
-J'aurais voulu que ce fut Mérope, elle attire tout le monde ici, et on n'a des yeux que pour elle.
-
--*who_alzire
-Mérope est bonne ; il ne faut pas lui vouloir du mal.
-
--*who_herodeetmariamne
-Il faudrait aussi reprendre Mahomet ; elle est d'une hardiesse révoltante ; elle imprime trop de terreur.
-
--*who_zaire
-De la terreur !
-C'est bon pour Sémiramis ; on a l'âme émue en la voyant.
-
--*who_artemire
-Je n'aurais pas été fâchée qu'on jugeât la Mort de César.
-
--*who_oedipe
 Son procès est tout fait : quoiqu'elle ait été fort applaudie et qu'elle ait de grandes beautés, nous l'avons renvoyée au collège.
 
--*who_brutus
-Elle est trop bonne pour des grimauds.
-
--*who_alzire
-Le Public a jugé toutes nos soeurs, et nous nous réservons à juger celle qui vient de naître.
-
--*who_herodeetmariamne
-Voici la Mort de César, Mahomet, Mérope et Sémiramis ; elles ont du dépit : à qui en ont-elles ?
-
-**** *book_ *id_I04 *act_I
-
--*who_lamortdecesar
-N'êtes-vous pas surprises de me revoir sur le Théâtre ; malgré ce défaut que l'on me trouve de ne pas aimer les femmes, si c'en est un, et la haine que vous me portez, ne pouvant me souffrir parmi vous, je n'ai pu résilier à la curiosité que j'ai de voir ma nouvelle soeur : elle commence à faire un bruit étonnant.
-
--*who_mahomet
-Il est vrai qu'elle fait parler d'elle comme si elle était merveilleuse.
-
--*who_merope
-Elle ne fera jamais tant de bruit que j'en ai fait.
-
--*who_semiramis
-Il ne faut pas qu'elle l'emporte sur nous.
-Au bruit qu'elle commence à faire, je suis bien vite accourue ici pour en empêcher la continuation.
-
--*who_oedipe
 Je suis la première qu'elle a surprise ici ; je ne rougis point de vous avouer que j'ai tremblée de son arrivée.
 
--*who_merope
-Comment !
-Elle irait loin ?
+Comment ! Le bruit s'est répandu jusqu'à vous ? Cela est inconcevable.
 
--*who_mahomet
-Cela n'est pas étonnant : tout ce que notre père enfante, fait toujours beaucoup de bruit.
-
--*who_brutus
-Nos jeunes soeurs viennent : elles sont furieuses.
-
-**** *book_ *id_I05 *act_I
-
--*who_leducdefoix
-Les voilà toutes ici...
-Nous arrivons peut-être un peu tard c'est la faute de notre père.
-Au surplus, je ne suis pas bien intéressante.
-
--*who_romesauvee
-Si vous me voyez avec vous, c'est un effet du hasard : on peut tirer cependant quelque chose de moi.
-
--*who_lorphelindelachine
-Lorsque je me contemple auprès d'OEdipe, de Mérope, de Zaïre, et d'Alzire, je me trouve bien petite.
-Cela me mortifie autant que d'avoir une nouvelle soeur.
-
--*who_oedipe
-Comment !
-Le bruit s'est répandu jusqu'à vous ?
-Cela est inconcevable.
-
--*who_lorphelindelachine
-Nous ne venons ici que pour l'examiner à notre aise.
-
--*who_romesauvee
-Notre Père se fait vieux elle ne sera pas sans défaut.
-
--*who_semiramis
-La plus belle d'entre nous n'en a-t-elle pas ; mais nous sommes trop.
-
--*who_zaire
-Bon bon, moins nous servirons, moins nous serons usées.
-
--*who_romesauvee
-Et plus nous ferons plaisir quand nous reparaîtrons.
-
--*who_lorphelindelachine
-Je vous assure que notre père aurait dû finir par moi, j'avais achevé sa carrière avec gloire.
-
--*who_semiramis
-C'était bien par moi qu'il aurait dû finir.
-
--*who_merope
-Dites plutôt par moi.
-Je l'ai rendu immortel.
-
--*who_oedipe
 Nous en avons chacune en particulier notre part ; et à l'exception de deux ou trois d'entre nous, nous lui avons fait toutes beaucoup d'honneur.
 
--*who_lorphelindelachine
-Vous avez raison ; mais malgré ma jeunesse je ne puis distinguer les traits de mes deux soeurs.
-Elles me paraissent âgées ; qui sont-elles ?
-
--*who_brutus
-C'est Artémire et Eriphile.
-La première ne s'est fait voir qu'une fois ; la seconde n'eut guère un plus grand avantage.
-Artémire était farcie de grands vers, dont la plupart portaient maximes, entr'autres celui-ci que Cassandre, un de ses personnages, prononce.
-La honte est dans le crime, et non dans le supplice.
-
--*who_oedipe
 Ce vers prouve bien que notre père a une prodigieuse mémoire : il est mot pour mot dans le Comte d'Essex, tragédie de Thomas Corneille : encore aimerais-je mieux.
 Le crime fait la honte, et non pas l'échaffaut.
 
--*who_lorphelindelachine
-Il faut qu'Eriphile soit bien petite ; c'est tout ce que je puis faire que de la distinguer.
-
--*who_romesauvee
-Voilà ce que c'est que de n'avoir pas de fortune, on vous méprise.
-Si je n'avais point de partisans, on me mettrait à côté d'elle et d'Artémire.
-
--*who_artemire
-Moi !
-J'ai l'avantage sur toutes mes soeurs de n'avoir fait pleurer personne.
-
--*who_eriphile
-Ne devriez-vous pas, ma soeur, garder le silence : faites comme moi : je ne parle pas dans la crainte de déshonorer notre père.
-
--*who_semiramis
-Ah !
-Ah !
-Ah !
-Ah !
-Regardez donc cette figure hétéroclite qui s'approche de nous.
-
--*who_herodeetmariamne
-Elle n'ose avancer : qu'elle marche lentement !
-
--*who_brutus
-Elle nous fait des révérences...
-
--*who_alzire
-C'est nous qu'elle cherche.
-
--*who_zaire
-Mais quelqu'un la précède.
-
--*who_merope
-C'est celui qui a intercédé pour elle.
-
--*who_mahomet
-Je le reconnais, c'est un habitant de ces lieux, je lui ai l'obligation de m'avoir fait revivre.
-
--*who_lorphelindelachine
-Plus cette figure s'approche de nous, et plus elle me paraît singulière.
-
--*who_leducdefoix
-Elle n'est pas vêtue comme nous.
-
--*who_oedipe
 Avez-vous assez examiné votre soeur ?
 
--*who_lamortdecesar
-Quoi !
-C'est-là notre soeur !
-Elle n'est pas si mal.
-
--*who_oedipe
 Je vous tire de l'embarras où je vous vois depuis un moment.
 
--*who_semiramis
-Elle nous fait des inclinations de têtes.
+Ce ne font pas des inclinations de têtes qu'elle vous fait. Ne voyez-vous pas qu'elle boite un peu.
 
--*who_oedipe
-Ce ne font pas des inclinations de têtes qu'elle vous fait.
-Ne voyez-vous pas qu'elle boite un peu.
-
--*who_zaire
-C'est bien dommage.
-
--*who_brutus
-Sa conduite irrégulière rend sa marche difficile.
-
--*who_romesauvee
-C'est peut-être une mode nouvelle.
-Notre père fait bien de ne se pas gêner.
-
--*who_eriphile
-Je prévois qu'elle aura plus de bonheur que moi.
-
--*who_artemire
-Il est bien malheureux pour moi de ne ressembler à aucune de mes soeurs.
-
--*who_leducdefoix
-Elle nous contemple avec bien de l'attention.
-
--*who_eriphile
-Pour moi, je voudrais n'être pas ici.
-Si je me retirais ...?
-
--*who_oedipe
 Non, restez encore un moment : il faut au moins que vous soyez présente à l'entrée de notre nouvelle soeur.
 
--*who_eriphile
-Je le veux bien : mais elle ne m'aura pas plutôt vue qu'elle m'oubliera.
+Approchez, et remettez-vous un peu de votre étonnement. Nous sommes vos soeurs, toutes du même Père. Et vous n'avez rien à craindre de nous. Nous avons ici chacune notre Palais ; le mêne souvent sert à plusieurs d'entre nous, mais c'est toujours en l'absence de l'une ou de l'autre. Votre arrivée en ces lieux nous a surpris, nous vous l'avouons : mais vous paraissez bonne, et nous espérons que vous mériterez d'être avec nous par votre sincérité.
 
--*who_artemire
-Autant rester.
-La voici.
+Je vais vous en instruire. Je fuis votre aînée ; et comme j'ai vu naître toutes mes Soeurs, voici en abrégé les jugements qu'on a porté d'elles. ARTÉMIRE a parue après moi, et n'a pas eu assez de force pour se soutenir ; elle languit encore, et n'en reviendra pas. HÉRODE ETMARIAMNE n'aurait pas été plus heureuse ; mais à force de corrections, notre père l'a rendue, meilleure : effectivement elle a des beautés. BRUTUS se conduit sagement, je voudrais que vous lui ressembliez. ERIPHILE fut malheureuse ; elle est si mauvaise , que notre Père n'a jamais eu le courage de la corriger. ZAÏRE est une de nos meilleures Soeurs. On lui reproche quelques défauts dans sa marche ; mais c'est si peu de chose, que le plaisir qu'elle procure fait passer par-dessus ces minuties. ALZIRE est belle et sa conduite régulière ; elle fera toujours honneur à notre père. LA MORT DE CÉSAR a des beautés ; son défaut est de n'aimer que les hommes, c'est pourquoi elle ne peut rester avec nous. MAHOMET n'est pas mauvaise, elle a de la chaleur, mais vous n'avez rien à craindre d'elle. MÉROPE, sa bonté est dangereuse ; et quoique sans beaucoup de conduite, elle ne fait grâce à aucune de nous, elle en surpasse même plusieurs par son intérêt. SÉMIRAMIS est belle à voir ; mais elle n'a pas de vraisemblance, elle est cependant bien constituée. LE DUC DE FOIX est froide ; il n'y a jamais eu qu'une feule action chez elle qui ait fait plaisir : vous valez mieux qu'elle. ROME SAUVÉE ne s'est point fait une grande réputation, notre père n'ayant pas mis assez de temps à la rendre parfaite ; elle reçut cependant des applaudissements. L'ORPHELIN DE LA CHINE est bien conduite, et fait beaucoup de plaisir. Quant à moi, je m'appelle OEDIPE, je suis votre Soeur la mieux faite, je passe même pour le chef-d'oeuvre de notre Père aux yeux de bien des personnes éclairées.
 
-**** *book_ *id_I06 *act_I
+Comment ! Un billet produit de grands événements, quand il n'est pas entendu.
 
--*who_tancrede
-Que de beautés !
-Sont-ce là mes soeurs ?
-Ne me trompé-je pas ?
-Quelles sont grandes et bien faites...
-En voilà pourtant de ma taille, et même de plus petites que moi.
-Me ferai-je connaître ?
-Pourquoi non ?
-Il ne faut qu'un trait de ressemblance pour me déceler.
-Elles ne disent mot... et je n'ose leur parler la première.
-
--*who_oedipe
-Approchez, et remettez-vous un peu de votre étonnement.
-Nous sommes vos soeurs, toutes du même Père.
-Et vous n'avez rien à craindre de nous.
-Nous avons ici chacune notre Palais ; le mêne souvent sert à plusieurs d'entre nous, mais c'est toujours en l'absence de l'une ou de l'autre.
-Votre arrivée en ces lieux nous a surpris, nous vous l'avouons : mais vous paraissez bonne, et nous espérons que vous mériterez d'être avec nous par votre sincérité.
-
--*who_tancrede
-J'ai bien cru ne jamais paraître ici : mon Père était si irrité contre un Anti-philosophe, qu'il m'avait fait revenir avec lui.
-
--*who_brutus
-Portez-vous un beau nom, ma soeur ?
-
--*who_tancrede
-On m'appelle Tancrède.
-
--*who_zaire
-Ce nom annonce quelque chose.
-Le Tasse en parle comme d'un Héros fameux.
-
--*who_tancrede
-Je ne porte point le nom de ce Tancrède-là : mon Héros est un Chevalier de Syracuse.
-
--*who_mahomet
-Ce trait d'Histoire ne me revient pas.
-
--*who_alzire
-Vous devez intéresser davantage si vous êtes neuve.
-
--*who_semiramis
-Vous présentez vous bien sur la scène ?
-
--*who_tancrede
-Mon abord est extrêmement difficile à concevoir.
-
--*who_merope
-Il m'a semblé d'un froid à glace, et si vous n'aviez pas été une fille de mon Père vous n'auriez pas prise si bien.
-
--*who_tancrede
-Je craignais bien de faire un faux pas en entrant ici : mais l'indulgence du Public m'a ranimée, et il ne s'en repent point.
-
--*who_mahomet
-Vous lui avez fait plaisir ?
-
--*who_tancrede
-Je le crois.
-
--*who_lorphelindelachine
-Allez, Tancrède, telle que vous êtes vous ne l'emporterez jamais sur moi.
-
--*who_lamortdecesar
-Quand j'aurai fait connaissance avec elle je dirai mon sentiment.
-
--*who_artemire
-C'est la benne façon de penser.
-Pour être la plus jeune de nous, Tancrède me paraît déjà grande.
-
--*who_eriphile
-À quoi mon père pensait-il donc quand il nous a mis au monde ?
-Tancrède a déjà le pas sur moi.
-Quel bonheur ?
-Elle est née coiffée.
-
--*who_tancrede
-Vous me parlez les unes après les autres inutilement : comment voulez-vous que je vous réponde ?
-Je ne vous connais pas : vous êtes presque toutes fort belles ; mais je ne puis vous distinguer que par votre nom, et je i'ignore.
-
--*who_oedipe
-Je vais vous en instruire.
-Je fuis votre aînée ; et comme j'ai vu naître toutes mes Soeurs, voici en abrégé les jugements qu'on a porté d'elles.
-ARTÉMIRE a parue après moi, et n'a pas eu assez de force pour se soutenir ; elle languit encore, et n'en reviendra pas.
-HÉRODE ETMARIAMNE n'aurait pas été plus heureuse ; mais à force de corrections, notre père l'a rendue, meilleure : effectivement elle a des beautés.
-BRUTUS se conduit sagement, je voudrais que vous lui ressembliez.
-ERIPHILE fut malheureuse ; elle est si mauvaise , que notre Père n'a jamais eu le courage de la corriger.
-ZAÏRE est une de nos meilleures Soeurs.
-On lui reproche quelques défauts dans sa marche ; mais c'est si peu de chose, que le plaisir qu'elle procure fait passer par-dessus ces minuties.
-ALZIRE est belle et sa conduite régulière ; elle fera toujours honneur à notre père.
-LA MORT DE CÉSAR a des beautés ; son défaut est de n'aimer que les hommes, c'est pourquoi elle ne peut rester avec nous.
-MAHOMET n'est pas mauvaise, elle a de la chaleur, mais vous n'avez rien à craindre d'elle.
-MÉROPE, sa bonté est dangereuse ; et quoique sans beaucoup de conduite, elle ne fait grâce à aucune de nous, elle en surpasse même plusieurs par son intérêt.
-SÉMIRAMIS est belle à voir ; mais elle n'a pas de vraisemblance, elle est cependant bien constituée.
-LE DUC DE FOIX est froide ; il n'y a jamais eu qu'une feule action chez elle qui ait fait plaisir : vous valez mieux qu'elle.
-ROME SAUVÉE ne s'est point fait une grande réputation, notre père n'ayant pas mis assez de temps à la rendre parfaite ; elle reçut cependant des applaudissements.
-L'ORPHELIN DE LA CHINE est bien conduite, et fait beaucoup de plaisir.
-Quant à moi, je m'appelle OEDIPE, je suis votre Soeur la mieux faite, je passe même pour le chef-d'oeuvre de notre Père aux yeux de bien des personnes éclairées.
-
--*who_merope
-Nous voilà peintes à ne pas s'y méprendre.
-
--*who_tancrede
-Je ne suis point ingrate ; je vais me faire connaître, en vous faisant un simple détail de mon individu.
-
--*who_semiramis
-Nous vous en prions en grâce.
-
--*who_tancrede
-Je sais ce que je vous dois ; puissai-je mériter votre bienveillance !
-Voilà ce qui a donné lieu à ma naissance.
-Solamir , Général des Sarrasins, assiège Syracuse que plusieurs Chevaliers intrépides défendent vigoureusement.
-Argire, leur Chef, est à leur tête.
-Aménaïde, fille d'Argire, avait été élevée à Byzance avec sa mère, où elle avait fait connaissance de Tancrède, Chevalier proscrit de Syracuse.
-Elle l'aimait du consentement de sa mère qui, avec sa mort, les avaient unis par des serments.
-Amenaïde revient auprès de son père.
-Tancrède voulant revoir Amenaïde, s'était rendu près de Syracuse dans l'intention de servir aussi sa patrie ingrate à son égard.
-Un billet surpris dans les mains d'un esclave que l'on croit être pour Solamir, fait toute mon intrigue.
-
--*who_merope
-Que ce manège est rebattu !
-Je suis surprise qu'il vous ait fait réussir.
-
--*who_zaire
-Le billet dont je me sers, a fait le même effet.
-
--*who_oedipe
-Comment !
-Un billet produit de grands événements, quand il n'est pas entendu.
-
--*who_brutus
-Entendons-nous ; et que Tancréde commence.
-
--*who_artemire
-Que ferons-nous ici, ma Soeur ?
-J'en sais assez ; sortons.
-
--*who_eriphile
-Aussi bien ne servons-nous pas à grand-chose.
-Tancrède vaut mieux que nous ; et cela ne nous rend pas meilleures.
-
--*who_artemire
-Adieu, Tancrède ; nous allons nous reposer.
-Comptez que nous ne vous ferons jamais de tort.
-
--*who_eriphile
-Croyez-moi, Artemire, retournons aux Délices.
-Nous ne pouvons point faire de plus grande peine à notre père que d'être sous ses yeux.
-
--*who_artemire
-Deux malheureux ensemble trouvent de la consolation : je vous suivrai.
-
-**** *book_ *id_I07 *act_I
-
--*who_tancrede
-Est-ce que je leur déplairais ?
-Elles me fuient.
-Si elles allaient cabaler ?
-
--*who_oedipe
 Ne les craignez point : au contraire elles vous trouvent beaucoup au-dessus d'elles.
 
--*who_brutus
+Je trouve cette exposition obscure.
+
+Nous sommes trop d'enfants pour être toutes belles.
+
+Quel intérêt ! Qu'il est vif ! Ô mon père. Vous ne vieillissez point.
+
+Croyez-vous qu'on peut toujours aller de même ? À la fin on se fatigue.
+
+Moi seule j'ai ouvert sa carrière avec honneur.
+
+Sa retraite lui fait honneur en vous cédant sa place, elle ne vous fait point de grâce.
+
+Votre bonté les chagrine. Entre nous, autant le Duc de Foix, Hérode et Mariamne, et Rome Sauvée sont passablement bonnes, autant Artémire et Eriphile sont mauvaises.
+
+Vous avez de trop grande beautés pour ne pas mériter les applaudissements du Public éclairé : Si nous allons vous juger, c'est d'après lui. Mais il est à propos que vous nous laissiez libres. Retirez-vous un moment, nous ne serons pas longtemps.
+
+Nous avons un peu trop parlé devant Tancréde, l'encens que nous lui avons donné va la rendre orgueilleuse. N'aura-t-elle pas assez de gloire d'être avec nous ? Elle mérite, il est vrai, des éloges ; mais elle n'approche pas encore de moi.
+
+Vous pensez juste... Il faut l'admettre parmi nous ; c'est pourquoi j'espère que vous allez me donner vos avis chacune, sans partialités.
+
+C'est toujours lui qui juge de nous : d'un coup d'oeil, il voit nos beautés comme il s'aperçoit de nos défauts. Plusieurs d'entre nous ont été corrigées par notre père sur ses avis, nous devons donc les suivre. Les applaudissements qu'il donne à notre soeur, sont un sûr garant qu'elle lui fait plaisir. Recevons-la d'une voix unanime. Le génie qui protège notre Père ne le quittera qu'au tombeau : l'universalité de ses talents lui ont déjà acquis l'immortalité au Temple de mémoire. Trop heureuses d'être nées d'un tel père !
+
+Tancréde peut revenir et se montrer hardiment. Elle ne sera pas cependant à l'abri de la critique.
+
+Vous faites bien : les actions sont plus recherchées aujourd'hui que les paroles, on aime tout ce qui fait tableau. C'est le goût du du siècle.
+
+Vos beautés, votre genre singulier et vos situations neuves et naturelles vous l'ont fait acquérir Brutus, Zaïre, Alzire, Mérope et moi, nous aurons toujours un avantage sur vous, que vous ne pouvez point nous refuser. Comme vous valez en grandeur, en beauté et en attraits Sémiramis, Mahomet, et l'Orphelin de la Chine , nous vous plaçons après elles ; protestant que vous êtes au-dessus du Duc de Foix, de Rome Sauvée, d'Hérode et Mariamne. Voilà, mon sentiment, à moins que mes soeurs n'en rappellent.
+
+J'entends qu'on vous appelle. Allons, mes soeurs : accompagnons Tancrède jusqu'en ses appartements ; qu'elle y reste en attendant Zulime.
+
+Oui, mais elle n'est pas encore en état de paraître dans le monde, on doit dans peu la mettre à l'étude.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artemire
+
+Pourquoi me tirer de la léthargie où j'étais ?
+
+Avec qui sommes-nous ? Voilà des personnes bien brillantes : retirons-nous.
+
+Ma situation est plus mauvaise que la vôtre. Depuis ma chute je tremble toujours.
+
+Je n'aurais pas été fâchée qu'on jugeât la Mort de César.
+
+Moi ! J'ai l'avantage sur toutes mes soeurs de n'avoir fait pleurer personne.
+
+Il est bien malheureux pour moi de ne ressembler à aucune de mes soeurs.
+
+Autant rester. La voici.
+
+C'est la benne façon de penser. Pour être la plus jeune de nous, Tancrède me paraît déjà grande.
+
+Que ferons-nous ici, ma Soeur ? J'en sais assez ; sortons.
+
+Adieu, Tancrède ; nous allons nous reposer. Comptez que nous ne vous ferons jamais de tort.
+
+Deux malheureux ensemble trouvent de la consolation : je vous suivrai.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herodeetmariamne
+
+Ce n'est pas moi. Je me suis réveillée comme vous : et si te viens ici, ce n'est que pour y rester jusqu'à ce que le bruit qui nous inquiète, cède.
+
+Vengeons nous de l'affront qu'on nous fait.
+
+Il faudrait aussi reprendre Mahomet ; elle est d'une hardiesse révoltante ; elle imprime trop de terreur.
+
+Voici la Mort de César, Mahomet, Mérope et Sémiramis ; elles ont du dépit : à qui en ont-elles ?
+
+Elle n'ose avancer : qu'elle marche lentement !
+
+Pour moi je m'y perds, je crains que vous nous embarrassiez dans votre marche.
+
+Quelle chaleur ! Que de beautés ! Que de situations neuves !
+
+C'est à dire que vous marchez lentement pour finir.
+
+Je m'attendais à un dénouement plus merveilleux.
+
+Je me sens si faible auprès de vous, que je suis obligée de sortir. Je voudrais vous égaler malgré vos imperfections.
+
+Plus je la vois, et plus je me trouve mauvaise.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brutus
+
+Que se passe-t-il donc ici pour ne pas s'entendre ? Approchez, Eriphile, vous marchez bien doucement.
+
+Je ne comptais point reparaître ici sitôt ; moi qui suis belle, on me néglige.
+
+Vous savez le plaisir que j'ai fait ici ; la foule des spectateurs était si grande, que la salle n'était pas assez vaste pour contenir tout le monde.
+
+Il ne faut point la recevoir.
+
+Laquelle ? Nous en avons de tant de façons... Elle n'est point ici sans doute.
+
+J'aurais voulu que ce fut Mérope, elle attire tout le monde ici, et on n'a des yeux que pour elle.
+
+Elle est trop bonne pour des grimauds.
+
+Nos jeunes soeurs viennent : elles sont furieuses.
+
+C'est Artémire et Eriphile. La première ne s'est fait voir qu'une fois ; la seconde n'eut guère un plus grand avantage. Artémire était farcie de grands vers, dont la plupart portaient maximes, entr'autres celui-ci que Cassandre, un de ses personnages, prononce.
+La honte est dans le crime, et non dans le supplice.
+
+Elle nous fait des révérences...
+
+Sa conduite irrégulière rend sa marche difficile.
+
+Portez-vous un beau nom, ma soeur ?
+
+Entendons-nous ; et que Tancréde commence.
+
 Ne nous faites pas attendre davantage ; nous sommes prêtes à vous donner audience.
 
--*who_tancrede
-Je commence.
-Le lieu de ma scène est en Sicile.
-On me représente tantôt dans le Palais d'Argire, et tantôt dans une Place publique.
+Il y a bien des beautés dans cet acte, mars elles font trop froides ; elles ne vous émeuvent point.
+
+Finissez-vous avec bien du fracas ?
+
+Il est trop triste ; et la mort d'Amenaïde, pour être naturelle, n'est pas vraisemblable.
+
+Ni de moi. Qu'elle en est éloignée !
+
+Comme la plus ancienne après vous, OEdipe, je vais donner l'exemple. Malgré ma vieillesse, je conserve toute ma chaleur, et je décide que Tancrède est bonne, et qu'elle restera au Théâtre malgré ses ennemis.
+
+La critique souvent fait notre renommée.
+
+Je crains cependant que le grand jour de l'impression ne vous fasse du tort. Vous parlez bien, j'en conviens ; mais la lecture, ne présente pas aux yeux Faction comme la représentation. Au cabinet souvent on ne nous reconnait plus.
+
+Nous vous rendons justice en vous applaudissant.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eriphile
+
+C'est avec bien de la peine que je soutiens le grand jour. Depuis le temps que mon père me tient enfermée, je ne suis pas reconnaissable.
+
+Ne devriez-vous pas, ma soeur, garder le silence : faites comme moi : je ne parle pas dans la crainte de déshonorer notre père.
+
+Je prévois qu'elle aura plus de bonheur que moi.
+
+Pour moi, je voudrais n'être pas ici. Si je me retirais ...?
+
+Je le veux bien : mais elle ne m'aura pas plutôt vue qu'elle m'oubliera.
+
+À quoi mon père pensait-il donc quand il nous a mis au monde ? Tancrède a déjà le pas sur moi. Quel bonheur ? Elle est née coiffée.
+
+Aussi bien ne servons-nous pas à grand-chose. Tancrède vaut mieux que nous ; et cela ne nous rend pas meilleures.
+
+Croyez-moi, Artemire, retournons aux Délices. Nous ne pouvons point faire de plus grande peine à notre père que d'être sous ses yeux.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaire
+
+OEdipe paraît bien agitée ! Dans son égarement elle ne nous voit pas. Écoutons.
+
+Pour moi je suis trop belle pour qu'on me fasse cet affront.
+
+Il se fait tant de bruit ici depuis quelques jours, que nous n'avons pu résister au désir d'en apprendre le sujet.
+
+Comment donc ! Nous lui avons fait tant d'honneur.
+
+Quel mal y trouvez-vous ? Cela lui coûte si peu.
+
+C'est mon sentiment, et le temps presse.
+
+Sa réflexion est juste.
+
+Elles se réveilleront sans doute au bruit qui se fait ici.
+
+Vous vous emportez pour bien peu de chose. Que direz-vous donc quAnd vous saurez que nous avons une nouvelle soeur ?
+
+De la terreur ! C'est bon pour Sémiramis ; on a l'âme émue en la voyant.
+
+Bon bon, moins nous servirons, moins nous serons usées.
+
+Mais quelqu'un la précède.
+
+C'est bien dommage.
+
+Ce nom annonce quelque chose. Le Tasse en parle comme d'un Héros fameux.
+
+Le billet dont je me sers, a fait le même effet.
+
+Mais vous ne parlez pas comme nous.
+
+Je ne vous vois encore aucune ressemblance avec nous.
+
+Quelle générosité dans ce héros, ma soeur !
+
+On ménage, cet éclaircissement pour le dénouement.
+
+Mon père ne regarde pas de si près à notre conduite ; et malgré cela nous lui faisons honneur.
+
+Je suis si tendre et si bonne, que je ne puis m'empêcher d'avouer que vous m'avez attendrie jusqu'aux larmes.
+
+Vos coups de Théâtre sont merveilleux, mais ils ne sont pas si naturels que les siens.
+
+Elle ne peut m'égaler ; mais je ne puis la renier pour ma soeur, elle a un mérite particulier qui m'intéresse pour elle.
+
+Souvent elle nous a rendu meilleures que nous n'étions.
+
+Plus je vous observe, et plus j'aperçois en vous des beautés.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alzire
+
+Oubliées ! Ce ne sera pas moi : je sers d'exemple.
+
+Il n'est pas possible d'y tenir. Vous êtes ici, vous savez ce qui l'occasionne.
+
+Mais sommes-nous bien toutes de lui ?
+
+Assurément, il faut y mettre ordre.
+
+Nous nous y prenons bien tard.
+
+Il ne faut point s'y prendre ainsi. Pourquoi fatiguer le Public de remontrances ? Il doit en être las. Si nous l'instruisions de notre procédé, il s'en formaliserait ; il voit avec trop de plaisir toutes les productions de notre père, pour nous être favorable.
+
+Je défierais bien qu'elles puissent y résister.
+
+Aussi voulons-nous la juger.
+
+Mérope est bonne ; il ne faut pas lui vouloir du mal.
+
+Le Public a jugé toutes nos soeurs, et nous nous réservons à juger celle qui vient de naître.
+
+C'est nous qu'elle cherche.
+
+Vous devez intéresser davantage si vous êtes neuve.
+
+Dans un premier acte que peut-on désirer !
+
+Je le blâme cependant de croire sa maîtresse infidèle sur un faux soupçon.
+
+C'est dans l'ordre ; et notre père a bien ménagé ses situations.
+
+Si votre conduite était aussi sage que vous êtes belle, vous nous surpasseriez.
+
+Si vous n'aviez pas été une de nos soeurs, j'aurais eu peur pour vous. Vous débutez si mal, qu'on n'aurait peut-être point eu la patience de vous entendre jusqu'au troisième acte si un autre auteur vous eût fait naître.
+
+Toutes ses situations sont prises dans la nature.
+
+Si elle avait ma conduite j'en ferais mon égale : sans cela point de quartier : je suis trop grande, et elle est trop petite.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamortdecesar
+
+N'êtes-vous pas surprises de me revoir sur le Théâtre ; malgré ce défaut que l'on me trouve de ne pas aimer les femmes, si c'en est un, et la haine que vous me portez, ne pouvant me souffrir parmi vous, je n'ai pu résilier à la curiosité que j'ai de voir ma nouvelle soeur : elle commence à faire un bruit étonnant.
+
+Quoi ! C'est-là notre soeur ! Elle n'est pas si mal.
+
+Quand j'aurai fait connaissance avec elle je dirai mon sentiment.
+
+L'intérêt veut percer ; mais il est encore loin.
+
+Cet acte ne m'a point fait tant de plaisir que le troisième.
+
+On dira toujours de lui, en nous voyant, qu'il est le Coriphée et l'Apollon du Théâtre Français.
+
+Quoique plus petite, j'ose faire comparaison avec vous.
+
+Sans doute : elle ne peut pas nous déshonorer. C'est notre soeur ; soyons unies ensembles, ne décourageons pas notre Père par notre mésintelligence.
+
+C'est mon avis... Vous vous y tenez toutes... Adieu : je vais dans une maison bourgeoise où ma présence est nécessaire.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mahomet
+
+Il est vrai qu'elle fait parler d'elle comme si elle était merveilleuse.
+
+Cela n'est pas étonnant : tout ce que notre père enfante, fait toujours beaucoup de bruit.
+
+Je le reconnais, c'est un habitant de ces lieux, je lui ai l'obligation de m'avoir fait revivre.
+
+Ce trait d'Histoire ne me revient pas.
+
+Vous lui avez fait plaisir ?
+
+Cela n'en fait pas plus mal. On ne s'y fait pas d'abord ; mais ce n'est pas ridicule.
+
+Tâchez de vous soutenir jusqu'au bout.
+
+Quoi qu'il en soit, vous m'avez enchantée.
+
+Notre Père vous a ménagé des situations qui vous soutiendront toujours ; mais vous avez des longueurs insupportables.
+
+Et dont on ne pourra la corriger : mais nous autres, sommes-nous exemptes de défauts.
+
+Dispensez-moi de parler, mon silence confirme tout ce que l'on peut avoir dit, et tout ce que l'on peut dire d'elle en bien.
+
+Appelons Tancrède, rien ne peut la retenir .. Elle vient ! Applaudissons-la.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merope
+
+Elle ne fera jamais tant de bruit que j'en ai fait.
+
+Comment ! Elle irait loin ?
+
+Dites plutôt par moi. Je l'ai rendu immortel.
+
+C'est celui qui a intercédé pour elle.
+
+Il m'a semblé d'un froid à glace, et si vous n'aviez pas été une fille de mon Père vous n'auriez pas prise si bien.
+
+Nous voilà peintes à ne pas s'y méprendre.
+
+Que ce manège est rebattu ! Je suis surprise qu'il vous ait fait réussir.
+
+On ne pouvait pas mieux la faire, et pour moi je la trouve belle.
+
+Je ne prévois pas encore le dénouement.
+
+Je n'aime point l'emportement d'Amenaïde vis-à-vis de son père. Elle perd tout à fait le respect qu'elle lui doit.
+
+Je crois que ce dénouement aurait fait plus de plaisir.
+
+Vous ne serez jamais aussi bien faite que moi, et vous ne ferez jamais tant de plaisir.
+
+Comme vous parlez d'elle ? On la prendrait pour un chef-d'oeuvre. Je dis moi qu'elle marche fort mal et qu'elle est d'une inconstance outrée. Comment ! Ne pas rester à la même place : changer de lieu 1 ce sont là des défauts inpardonnables.
+
+Elle brillera pendant quelque temps ; mais à la chute des feuilles je ne lui ferai point de grâce ; c'est un avorton auprès de ma beauté.
+
+Elles ont fait honneur à notre père et à nous.
+
+Vous me faites plus de plaisir à présent, que la première fois.
+
+J'ai cependant un conseil à vous donner, ma soeur : c'est de vous ménager, et de ne pas vous user ; le Public s'en trouvera mieux, ainsi que nous et vous...
+
+Vous n'aurez peut-être pas cette peine : elle peut mourir en naissant.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_semiramis
+
+Il ne faut pas qu'elle l'emporte sur nous. Au bruit qu'elle commence à faire, je suis bien vite accourue ici pour en empêcher la continuation.
+
+La plus belle d'entre nous n'en a-t-elle pas ; mais nous sommes trop.
+
+C'était bien par moi qu'il aurait dû finir.
+
+Ah ! Ah ! Ah ! Ah ! Regardez donc cette figure hétéroclite qui s'approche de nous.
+
+Elle nous fait des inclinations de têtes.
+
+Vous présentez vous bien sur la scène ?
+
+Nous vous en prions en grâce.
+
+Si vous continuez de même, ce n'est pas le moyen de plaire.
+
+Il faut de l'action : sans cela serions-nous parfaites ?
+
+Pour moi je trouve votre héros, ma soeur, trop froid. Il aurait dû éclaircir sa maîtresse de la raison pour laquelle il ne veut point la voir ni l'entendre.
+
+Que j'ai versé de larmes ! Moi qui n'en fais, guère répandre.
+
+Vous avez quelque défaut, mais on vous corrigera.
+
+Les coups de Théâtre qu'elle produit ne font pas si frappants que les miens.
+
+J'intéresse plus au spectacle que dans le cabinet, comme je pense qu'elle aura mon sort, je la trouve digne de nous.
+
+Nous en avons toutes essuyées un assez grand nombre.
+
+Je vous envisage de même, et je vous comprends plus aisément.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdefoix
+
+Les voilà toutes ici... Nous arrivons peut-être un peu tard c'est la faute de notre père. Au surplus, je ne suis pas bien intéressante.
+
+Elle n'est pas vêtue comme nous.
+
+Elle nous contemple avec bien de l'attention.
+
+Je compte sur la fin.
+
+Allez toujours, allez : vous ne pouvez plus tomber ; et je réponds de votre succès.
+
+Vous auriez frappé bien davantage le Spectateur, si après avoir annoncé la mort de Tancréde, on l'eut vu reparaître vainqueur de Solamir.
+
+J'ai eu des admirateurs, j'en ai encore quelques uns, mais vous en aurez plus que moi. Je m'en vais engager les miens à ne me pas abandonner lorsque je paraîtrai. Adieu, mes soeurs.
+
+Vous la méritez.
+
+Et moi, moins je me trouve bonne.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romesauvee
+
+Si vous me voyez avec vous, c'est un effet du hasard : on peut tirer cependant quelque chose de moi.
+
+Notre Père se fait vieux elle ne sera pas sans défaut.
+
+Et plus nous ferons plaisir quand nous reparaîtrons.
+
+Voilà ce que c'est que de n'avoir pas de fortune, on vous méprise. Si je n'avais point de partisans, on me mettrait à côté d'elle et d'Artémire.
+
+C'est peut-être une mode nouvelle. Notre père fait bien de ne se pas gêner.
+
+Jusqu'à présent vous ne valez pas mieux que moi, et je débute avec plus de chaleur.
+
+Il est beaucoup meilleur que les deux premiers, l'intérêt augmente.
+
+Votre héros, ma Soeur, ne devait pas mourir.
+
+Je ne puis marcher qu'après vous, et comme vous valez mieux que moi, je me retire.
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorphelindelachine
+
+Lorsque je me contemple auprès d'OEdipe, de Mérope, de Zaïre, et d'Alzire, je me trouve bien petite. Cela me mortifie autant que d'avoir une nouvelle soeur.
+
+Nous ne venons ici que pour l'examiner à notre aise.
+
+Je vous assure que notre père aurait dû finir par moi, j'avais achevé sa carrière avec gloire.
+
+Vous avez raison ; mais malgré ma jeunesse je ne puis distinguer les traits de mes deux soeurs. Elles me paraissent âgées ; qui sont-elles ?
+
+Il faut qu'Eriphile soit bien petite ; c'est tout ce que je puis faire que de la distinguer.
+
+Plus cette figure s'approche de nous, et plus elle me paraît singulière.
+
+Allez, Tancrède, telle que vous êtes vous ne l'emporterez jamais sur moi.
+
+Votre début me déplaît souverainement, ma soeur.
+
+Je voudrais déjà le voir ; il doit être frappant.
+
+Ne perdez point courage : vous faites, trop de plaisir.
+
+Pourquoi ? Mon dénouement est de même, et je ne suis pas moins très tragique.
+
+Prenez votre rang après moi ; la place est bonne.
+
+C'est beaucoup de ne pas s'en écarter, je n'ai réussi que par-là.
+
+C'est bien dit : que Tancrède soit notre soeur, ses appas plaisent au Public, en ne parlant que d'après lui, nous ne pouvons pas manquer de faire un jugement équitable.
+
+Ah qu'elle est changée !
+
+
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tancrede
+
+Que de beautés ! Sont-ce là mes soeurs ? Ne me trompé-je pas ? Quelles sont grandes et bien faites... En voilà pourtant de ma taille, et même de plus petites que moi. Me ferai-je connaître ? Pourquoi non ? Il ne faut qu'un trait de ressemblance pour me déceler. Elles ne disent mot... et je n'ose leur parler la première.
+
+J'ai bien cru ne jamais paraître ici : mon Père était si irrité contre un Anti-philosophe, qu'il m'avait fait revenir avec lui.
+
+On m'appelle Tancrède.
+
+Je ne porte point le nom de ce Tancrède-là : mon Héros est un Chevalier de Syracuse.
+
+Mon abord est extrêmement difficile à concevoir.
+
+Je craignais bien de faire un faux pas en entrant ici : mais l'indulgence du Public m'a ranimée, et il ne s'en repent point.
+
+Je le crois.
+
+Vous me parlez les unes après les autres inutilement : comment voulez-vous que je vous réponde ? Je ne vous connais pas : vous êtes presque toutes fort belles ; mais je ne puis vous distinguer que par votre nom, et je i'ignore.
+
+Je ne suis point ingrate ; je vais me faire connaître, en vous faisant un simple détail de mon individu.
+
+Je sais ce que je vous dois ; puissai-je mériter votre bienveillance ! Voilà ce qui a donné lieu à ma naissance. Solamir , Général des Sarrasins, assiège Syracuse que plusieurs Chevaliers intrépides défendent vigoureusement. Argire, leur Chef, est à leur tête. Aménaïde, fille d'Argire, avait été élevée à Byzance avec sa mère, où elle avait fait connaissance de Tancrède, Chevalier proscrit de Syracuse. Elle l'aimait du consentement de sa mère qui, avec sa mort, les avaient unis par des serments. Amenaïde revient auprès de son père. Tancrède voulant revoir Amenaïde, s'était rendu près de Syracuse dans l'intention de servir aussi sa patrie ingrate à son égard. Un billet surpris dans les mains d'un esclave que l'on croit être pour Solamir, fait toute mon intrigue.
+
+Est-ce que je leur déplairais ? Elles me fuient. Si elles allaient cabaler ?
+
+Je commence. Le lieu de ma scène est en Sicile. On me représente tantôt dans le Palais d'Argire, et tantôt dans une Place publique.
 ACTE PREMIER DE TANCREDE.
-La première scène de cet acte s'ouvre par une Assemblée du Sénat de Syracuse dans le Palais d'Argire.
-On y parle des affaires et des troubles de l'État.
-Les Sénateurs concluent que pour sa sûreté, on punira de mort celui qui trahira sa patrie, sans égard pour le rang, le sexe et l'âge.
-Argire propose Amenaïde, sa fille, à Orbassan, un des Sénateurs, qui a rendu de grands services à l'État.
-Le Sénat se retire.
+La première scène de cet acte s'ouvre par une Assemblée du Sénat de Syracuse dans le Palais d'Argire. On y parle des affaires et des troubles de l'État. Les Sénateurs concluent que pour sa sûreté, on punira de mort celui qui trahira sa patrie, sans égard pour le rang, le sexe et l'âge. Argire propose Amenaïde, sa fille, à Orbassan, un des Sénateurs, qui a rendu de grands services à l'État. Le Sénat se retire.
 Il y a dans cette scène un seul vers de remarquable.
 À l'infidélité, l'indulgence encourage.
 Orbassan dit encore celui-ci en parlant d'Amenaïde.
 Mais sa voix doit ici se taire an bruit des armes.
-Amenaïde arrive ; Argire, son père, lui annonce Orbassan pour époux.
-Elle frémit.
-Le nom de Tancrède échappe à son père.
-Aménaïde par un soupir fait connaître que ce nom lui est cher.
-Argire s'apperçoit de son trouble, et lui dit :
+Amenaïde arrive ; Argire, son père, lui annonce Orbassan pour époux. Elle frémit. Le nom de Tancrède échappe à son père. Aménaïde par un soupir fait connaître que ce nom lui est cher. Argire s'apperçoit de son trouble, et lui dit :
 La bouche obéit mal lorsque le coeur murmure,,
-Il lui remontre les services importants qu'Orbassan à rendu à sa patrie.
-Amenaïde répond :
+Il lui remontre les services importants qu'Orbassan à rendu à sa patrie. Amenaïde répond :
 Je voudrais qu'un Héros si fier et si puissant,
 N'eût point, pour s'agrandir, opprimé l'innocent.
-Elle demande à son père la liberté de l'entretenir, avec la permission d'Orbastan qui se retire.
-Amenaïde fait dans cette Scène une exposition de ses malheurs.
-Son père veut qu'elle obéisse, et il s'en va.
-Amenaïde frémit de sa destinée.
-Sa confidente la console en vain.
-En parlant des malheurs de Tancrède, elle dit :
+Elle demande à son père la liberté de l'entretenir, avec la permission d'Orbastan qui se retire. Amenaïde fait dans cette Scène une exposition de ses malheurs. Son père veut qu'elle obéisse, et il s'en va. Amenaïde frémit de sa destinée. Sa confidente la console en vain. En parlant des malheurs de Tancrède, elle dit :
 C'est le sort des Héros d'être persécutés,
 À leur seul intérêt les Grands sont attachés.
 Comme elle a fait serment de n'épouser jamais d'autre héros que Tancrède, elle se resout à tout, plutôt que de lui être infidèle ; et elle finit cet acte par ces deux vers :
 Et s'il est des dangers que la crainte envisage,
 Ces dangers me sont chers, ils naissent de l'amour.
 
--*who_oedipe
-Je trouve cette exposition obscure.
-
--*who_merope
-On ne pouvait pas mieux la faire, et pour moi je la trouve belle.
-
--*who_zaire
-Mais vous ne parlez pas comme nous.
-
--*who_tancrede
 Mon Père me fait parler sur ce ton pour éviter la monotonie.
 
--*who_mahomet
-Cela n'en fait pas plus mal.
-On ne s'y fait pas d'abord ; mais ce n'est pas ridicule.
-
--*who_semiramis
-Si vous continuez de même, ce n'est pas le moyen de plaire.
-
--*who_alzire
-Dans un premier acte que peut-on désirer !
-
--*who_lorphelindelachine
-Votre début me déplaît souverainement, ma soeur.
-
--*who_tancrede
 Peut-être que l'acte second vous intéressera davantage.
 
--*who_touteslestragedies
-Nous le souhaitons.
-
--*who_tancrede
 Je vous ménage afin de ne pas vous surprendre trop subitement.
 ACTE SECOND.
-Je n'intéresse pas beaucoup dans la première scène de cet Acte qui se pasze entre Argire et Amenaïde sa fille.
-Argire sort.
-Aménaide reste avec sa confidente, à qui, elle apprend que Tancréde n'est pas éloigné de Syracuse, et qu'elle lui a fait parvenir un billet par un esclave fidèle, elle lui mande qu'il est temps qu'il se montre, et termine son billet par ce vers :
+Je n'intéresse pas beaucoup dans la première scène de cet Acte qui se pasze entre Argire et Amenaïde sa fille. Argire sort. Aménaide reste avec sa confidente, à qui, elle apprend que Tancréde n'est pas éloigné de Syracuse, et qu'elle lui a fait parvenir un billet par un esclave fidèle, elle lui mande qu'il est temps qu'il se montre, et termine son billet par ce vers :
 Régnez sur Syracuse, et surtout sur mon coeur.
 Sa Confidente lui représente les dangers où Tancrède va s'exposer, s'il revient, et lui demande : 
 Qui fera son appui ?
 Amenaïde lui répond :
       Sa gloire.
-Argire, Orbassan et plusieurs Chevaliers arrivent.
-Argire d'un ton sévère dit à sa fille de se retirer.
-Ce qu'elle fait, ignorant le sujet de ce traitement.
-On condamne dans la scène suivante Amenaïde à la mort pour avoir trahi l'État.
-Le billet, trouvé dans les mains de l'esclave, que l'on a surpris dans le camp de Solamir, pour qui l'on soupçonne qu'il est, produit cet événement.
-Argire veut défendre sa fille, un Chevalier lui répond :
+Argire, Orbassan et plusieurs Chevaliers arrivent. Argire d'un ton sévère dit à sa fille de se retirer. Ce qu'elle fait, ignorant le sujet de ce traitement. On condamne dans la scène suivante Amenaïde à la mort pour avoir trahi l'État. Le billet, trouvé dans les mains de l'esclave, que l'on a surpris dans le camp de Solamir, pour qui l'on soupçonne qu'il est, produit cet événement. Argire veut défendre sa fille, un Chevalier lui répond :
 Les lois n'écoutent point la pitié paternelle.
-Argire et les Chevaliers sortent, et laissent Orbassan.
-Arrive Amenaïde enchaînée.
-Orbassan lui dit qu'elle est accusé d'avoir trahi sa patrie, et qu'elle est condamnée à la mort.
-Il lui dit que comme il devait être son époux, il croit pouvoir se déclarer son Chevalier, selon la coutume du pays.
-Amenaïde lui répond fièrement qu'elle ne veut de lui ni pour Chevalier, ni pour époux.
-Orbassan sort furieux.
-Amenaïde veut mourir plutôt que de changer de sentiment, protestant qu'elle n'aimera jamais que Tancrède.
-Elle sort en disant :
+Argire et les Chevaliers sortent, et laissent Orbassan. Arrive Amenaïde enchaînée. Orbassan lui dit qu'elle est accusé d'avoir trahi sa patrie, et qu'elle est condamnée à la mort. Il lui dit que comme il devait être son époux, il croit pouvoir se déclarer son Chevalier, selon la coutume du pays. Amenaïde lui répond fièrement qu'elle ne veut de lui ni pour Chevalier, ni pour époux. Orbassan sort furieux. Amenaïde veut mourir plutôt que de changer de sentiment, protestant qu'elle n'aimera jamais que Tancrède. Elle sort en disant :
 Et je porte au tombeau ,
 De la fidélité l'exemple le plus beau.
 
--*who_brutus
-Il y a bien des beautés dans cet acte, mars elles font trop froides ; elles ne vous émeuvent point.
-
--*who_lamortdecesar
-L'intérêt veut percer ; mais il est encore loin.
-
--*who_herodeetmariamne
-Pour moi je m'y perds, je crains que vous nous embarrassiez dans votre marche.
-
--*who_romesauvee
-Jusqu'à présent vous ne valez pas mieux que moi, et je débute avec plus de chaleur.
-
--*who_zaire
-Je ne vous vois encore aucune ressemblance avec nous.
-
--*who_oedipe
-Nous sommes trop d'enfants pour être toutes belles.
-
--*who_leducdefoix
-Je compte sur la fin.
-
--*who_tancrede
 C'est là où je brille : écoutez cet acte.
 ACTE III.
-Le Théâtre représente, dans le fond, une Place publique.
-D'un coté, ce sont des trophées, des casques et des boucliers attachés a des arbres ; et de l'autre une partie du Palais d'Argire.
-TANCREDE, dont je porte le nom, arrive.
-Un écuyer et deux soldats l'accompagnent.
-Il regarde en soupirant Syracuse.
-Il vient servir l'État contre Solamir.
+Le Théâtre représente, dans le fond, une Place publique. D'un coté, ce sont des trophées, des casques et des boucliers attachés a des arbres ; et de l'autre une partie du Palais d'Argire.
+TANCREDE, dont je porte le nom, arrive. Un écuyer et deux soldats l'accompagnent. Il regarde en soupirant Syracuse. Il vient servir l'État contre Solamir.
 Je le servis injuste, et le chéris ingrat.
-Il veut servir Amenaïde sa Maîtresse.
-Il s'informe où il est, son Ecuyer l'en instruit, et lui montre les casques et les boucliers des chevaliers qui se sont signalés dans les combats.
-Tancrède fait attacher le sien à un arbre.
-Sa devise est l'Amour et l'Honneur.
-Il remercie son écuyer de son zèle à le servir, qui lui répond.
+Il veut servir Amenaïde sa Maîtresse. Il s'informe où il est, son Ecuyer l'en instruit, et lui montre les casques et les boucliers des chevaliers qui se sont signalés dans les combats. Tancrède fait attacher le sien à un arbre. Sa devise est l'Amour et l'Honneur. Il remercie son écuyer de son zèle à le servir, qui lui répond.
 Je ne suis qu'un soldat, qu'un simple citoyen.
 Tancrède répart :
 Je le suis comme vous, les citoyens son frères.
-Il envoie son confident au Palais d'Argire s'informer de sa Maîtresse.
-Il revient lui dire qu'Amenaïde est infidèle, qu'elle aime Solamir, et qu'elle a trahi sa patrie.
-Tancrède est au désespoir.
-Il aperçoit un vieillard désolé, c'est Agire.
-Il l'interroge.
-Argire lui confirme le malheur de la fille criminelle.
-Tancrède qui n'en est pas connnu lui dit :
+Il envoie son confident au Palais d'Argire s'informer de sa Maîtresse. Il revient lui dire qu'Amenaïde est infidèle, qu'elle aime Solamir, et qu'elle a trahi sa patrie. Tancrède est au désespoir. Il aperçoit un vieillard désolé, c'est Agire. Il l'interroge. Argire lui confirme le malheur de la fille criminelle. Tancrède qui n'en est pas connnu lui dit :
 Je pensais
 Que si la vertu même habitait sur la terre,
 Le coeur d'Amenaïde était son sanctuaire.
-Argire lui raconte que pour comble d'infortune, aucun chevalier ne se présente pour défendre la fille.
-Tancréde répond avec vivacité :
+Argire lui raconte que pour comble d'infortune, aucun chevalier ne se présente pour défendre la fille. Tancréde répond avec vivacité :
 Il s'en présentera, gardez vous d'en douter ?
-Argire lui dit, qui osera prendre sa défense ?
-Qui ?
-Répond Tancréde ?
+Argire lui dit, qui osera prendre sa défense ? Qui ? Répond Tancréde ?
 Moi. Je combattrai pour elle.
 Elle ne le mérite point ; mais est pour vous, Pour sa famille auguste. (continue-t-il.),
-Orbassan, et plusieurs Chevaliers viennent annoncer, à Aigire le moment du supplice.
-On veut qu'il se retire.
-Tancrède s'y oppose, et retient Argire.
-Amenaïde arrive entourée de Soldats et de Citoyens : elle adresse aux Chevaliers la parole, et finit son Discours par ce beau vers :
-Elle proteste qu'elle est innocente ; et sa surprise est sans égaie de trouver son père et Tancrède avec lui.
-Elle perd connaissance.
-Tancréde furieux, s'annonce pour son Chevalier, jette le gantelet à Orbassan qui accepte le combat, et fait briser les fers d'Amenaïde, qui devient libre jusqu'au succès du combat.
-Orbassan, avant que départir, dit encore ces beaux vers :
+Orbassan, et plusieurs Chevaliers viennent annoncer, à Aigire le moment du supplice. On veut qu'il se retire. Tancrède s'y oppose, et retient Argire. Amenaïde arrive entourée de Soldats et de Citoyens : elle adresse aux Chevaliers la parole, et finit son Discours par ce beau vers :
+Elle proteste qu'elle est innocente ; et sa surprise est sans égaie de trouver son père et Tancrède avec lui. Elle perd connaissance. Tancréde furieux, s'annonce pour son Chevalier, jette le gantelet à Orbassan qui accepte le combat, et fait briser les fers d'Amenaïde, qui devient libre jusqu'au succès du combat. Orbassan, avant que départir, dit encore ces beaux vers :
 D'un combat singulier la gloire est périssable,
 Mais servir sa patrie est l'honneur véritable.
-Les Chevaliers accompagnent Tancréde et Orbassan qui vont se battre.
-Amenaïde reste avec son père.
-Elle s'inquiète de ne pas voir Tancréde.
-Elle ne sait ce qu'il est devenu.
-Son père lui apprend que cet inconnu est son libérateur, et qu'il est son Chevalier.
-Amenaïde fait un soupir de joie ; son père l'emmène ; et finit cet acte par ce vers :
+Les Chevaliers accompagnent Tancréde et Orbassan qui vont se battre. Amenaïde reste avec son père. Elle s'inquiète de ne pas voir Tancréde. Elle ne sait ce qu'il est devenu. Son père lui apprend que cet inconnu est son libérateur, et qu'il est son Chevalier. Amenaïde fait un soupir de joie ; son père l'emmène ; et finit cet acte par ce vers :
 Ô ma fille ! Vivez : fussiez-vous criminelle.
 
--*who_herodeetmariamne
-Quelle chaleur !
-Que de beautés !
-Que de situations neuves !
-
--*who_oedipe
-Quel intérêt !
-Qu'il est vif !
-Ô mon père.
-Vous ne vieillissez point.
-
--*who_zaire
-Quelle générosité dans ce héros, ma soeur !
-
--*who_alzire
-Je le blâme cependant de croire sa maîtresse infidèle sur un faux soupçon.
-
--*who_semiramis
-Il faut de l'action : sans cela serions-nous parfaites ?
-
--*who_merope
-Je ne prévois pas encore le dénouement.
-
--*who_lorphelindelachine
-Je voudrais déjà le voir ; il doit être frappant.
-
--*who_tancrede
-C'est ce dont vous jugerez.
-Je poursuis.
+C'est ce dont vous jugerez. Je poursuis.
 ACTE QUATRIÈME.
-Tancrède est vainqueur d'Orbassan.
-Plusieurs Chevaliers, témoins de sa victoire, désirent savoir son nom, ce que Tancréde refuse.
-On le prie de remplacer Orbassan, et de commander l'armée contre Solamir.
-Tancrède l'accepte avec plaisir, le croyant son rival.
-Les Chevaliers se retirent pour pré»parer routes les choses nécessaires pour la bataille qui va se donner.
-Tancrède désespéré de l'infidélité de sa maîtresse, veut chercher la mort dans les combats, sans se faire connaître.
-Un Chevalier revient lui annoncer que tout est prêt.
-Tancrède va pour le suivre.
-Amenaide l'arrête et se jette à ses genoux, en l'appellant son liberateur.
-Elle n'ose le nommer à cause du Chevalier qui est présent.
-Tancrède détourne les yeux, de dessus elle.
-Amenaïde s'en alarme.
-Elle lui promet une reconnaissance éternelle, Tancréde lui, répond sèchement :
+Tancrède est vainqueur d'Orbassan. Plusieurs Chevaliers, témoins de sa victoire, désirent savoir son nom, ce que Tancréde refuse. On le prie de remplacer Orbassan, et de commander l'armée contre Solamir. Tancrède l'accepte avec plaisir, le croyant son rival. Les Chevaliers se retirent pour pré»parer routes les choses nécessaires pour la bataille qui va se donner. Tancrède désespéré de l'infidélité de sa maîtresse, veut chercher la mort dans les combats, sans se faire connaître. Un Chevalier revient lui annoncer que tout est prêt. Tancrède va pour le suivre. Amenaide l'arrête et se jette à ses genoux, en l'appellant son liberateur. Elle n'ose le nommer à cause du Chevalier qui est présent. Tancrède détourne les yeux, de dessus elle. Amenaïde s'en alarme. Elle lui promet une reconnaissance éternelle, Tancréde lui, répond sèchement :
 Trop de reconnaissance est un fardeau peut-être ;
 Vivez, Madame, et, moi je vais chercher la mort.
-II sort.
-Amenaïde ne peut revenir de sa surprise.
-Elle déplore ses malheurs sur la froideur de Tancrède.
-Elle ignore les raisons qui portent son amant à l'abandonner.
-Elle s'emporte contre l'Univers, et ne veut plus songer à Tancrède.
-Voilà les hommes, dit-elle.
+II sort. Amenaïde ne peut revenir de sa surprise. Elle déplore ses malheurs sur la froideur de Tancrède. Elle ignore les raisons qui portent son amant à l'abandonner. Elle s'emporte contre l'Univers, et ne veut plus songer à Tancrède. Voilà les hommes, dit-elle.
 Ou trompeurs, ou trompés ; et ma douleur profonde 
 En oubliant Tancrède, oubliera tout le monde.
 Sa confidente lui apprend que Tancréde, sur le bruit public, la croit infidèle, et qu'il croit, comme les autres, que ce billet fatal était pour Solamir ; mais que ce Héros est pardonnable de son erreur, puisqu'il ne savait pas...
 Il devait me connaître ,
-Interrompit vivement Amenaïde.
-Argire vient.
-Sa fille lui apprend que cet inconnu, son libérateur, est Tancréde.
-Argire admire la générosité de ce Héros qui, après avoir été proscrit et dépouillé de tous ses biens, revient pour le défendre et délivrer fa fille.
-Amenaïde dit avec enthousiasme.
+Interrompit vivement Amenaïde. Argire vient. Sa fille lui apprend que cet inconnu, son libérateur, est Tancréde. Argire admire la générosité de ce Héros qui, après avoir été proscrit et dépouillé de tous ses biens, revient pour le défendre et délivrer fa fille. Amenaïde dit avec enthousiasme.
 Quel autre que Tancrède eût été mon appui ?
-Argire lui dit qu'il combat pour lui, qu'il va le rejoindre.
-Amenaïde veut suivre son père, Argire veut la retenir.
-Après un discours un peu trop hardi que tient Amenaïde à son père en lui disant : Notre sexe ne doit-il paraître qu'au milieu des bourreaux ?
-Vous n'avez, plus d'autorité sur moi.
-Elle finit par ce vers.
+Argire lui dit qu'il combat pour lui, qu'il va le rejoindre. Amenaïde veut suivre son père, Argire veut la retenir. Après un discours un peu trop hardi que tient Amenaïde à son père en lui disant : Notre sexe ne doit-il paraître qu'au milieu des bourreaux ? Vous n'avez, plus d'autorité sur moi. Elle finit par ce vers.
 L'injustice à la fin produit l'ìndëpendance.
 Argire convient qu'il n'a plus la même autorité sur fa fille, et sort.
 Amenaïde est résolue d'aller au devant des coups que Solamir peut porter à Tancréde et elle s'emporte toujours contre l'amour qu'elle abjure et l'honneur qui l'accable.
 
--*who_lamortdecesar
-Cet acte ne m'a point fait tant de plaisir que le troisième.
-
--*who_romesauvee
-Il est beaucoup meilleur que les deux premiers, l'intérêt augmente.
-
--*who_merope
-Je n'aime point l'emportement d'Amenaïde vis-à-vis de son père.
-Elle perd tout à fait le respect qu'elle lui doit.
-
--*who_semiramis
-Pour moi je trouve votre héros, ma soeur, trop froid.
-Il aurait dû éclaircir sa maîtresse de la raison pour laquelle il ne veut point la voir ni l'entendre.
-
--*who_zaire
-On ménage, cet éclaircissement pour le dénouement.
-
--*who_alzire
-C'est dans l'ordre ; et notre père a bien ménagé ses situations.
-
--*who_brutus
-Finissez-vous avec bien du fracas ?
-
--*who_tancrede
 Je cause plus de bruit que je n'en fais.
 
--*who_herodeetmariamne
-C'est à dire que vous marchez lentement pour finir.
-
--*who_oedipe
-Croyez-vous qu'on peut toujours aller de même ?
-À la fin on se fatigue.
-
--*who_mahomet
-Tâchez de vous soutenir jusqu'au bout.
-
--*who_leducdefoix
-Allez toujours, allez : vous ne pouvez plus tomber ; et je réponds de votre succès.
-
--*who_lorphelindelachine
-Ne perdez point courage : vous faites, trop de plaisir.
-
--*who_tancrede
-Je tremble de ne vous point émouvoir ; dans, cet acte.
-Cependant le voici.
+Je tremble de ne vous point émouvoir ; dans, cet acte. Cependant le voici.
 ACTE CINQUIÈME.
-Plusieurs Chevaliers, et un grand nombre de soldats ouvrent la scène.
-Un des chevaliers s'informe si l'on a découvert le nom du vainqueur de Solamir, on l'ignore.
-Tous les Chevaliers sont surpris de la valeur de cet inconnu, et un d'entre eux dit entr'autres, ce beau vers.
+Plusieurs Chevaliers, et un grand nombre de soldats ouvrent la scène. Un des chevaliers s'informe si l'on a découvert le nom du vainqueur de Solamir, on l'ignore. Tous les Chevaliers sont surpris de la valeur de cet inconnu, et un d'entre eux dit entr'autres, ce beau vers.
 Nous sommes assez grands pour être sans envie.
 Un autre Chevalier demande quel parti il faut prendre dans la situation critique où ils se trouvent, puisqu'on ne peut savoir le nom de ce héros invincible : un chevalier répond.
 Il n'en est qu'un pour nous, celui du repentir.
-Amenaïde arrive avec Argire.
-On lui annonce que l'Inconnu a vaincu Solamir.
-Moment heureux pour elle ; mais lorsqu'elle réfléchit que son amant la soupçonne d'infidélité, elle se désole.
-Son père pour la rassurer lui dit qu'il ne faudra qu'un mot pour détromper Tancréde.
-Amenaïde répond :
+Amenaïde arrive avec Argire. On lui annonce que l'Inconnu a vaincu Solamir. Moment heureux pour elle ; mais lorsqu'elle réfléchit que son amant la soupçonne d'infidélité, elle se désole. Son père pour la rassurer lui dit qu'il ne faudra qu'un mot pour détromper Tancréde. Amenaïde répond :
 Et ce mot n'est pas dit.
 Ensuite, faisant réflexion que son amant est vainqueur, elle dit aux citoyens dans l'enthousiasme de sa joie, croyant revoir Tancréde :
 Tombez tous à ses pieds, il va tomber aux miens.
-Mais un confident vient lui apprendre que Tancréde est blessé mortellement.
-Il lui apporte une lettre écrite du sang de ce Héros.
-Amenaïde fait un dernier effort pour la lire, sa douleur s'empare de ses sens, et elle dit après avoir lu ce fatal écrit.
+Mais un confident vient lui apprendre que Tancréde est blessé mortellement. Il lui apporte une lettre écrite du sang de ce Héros. Amenaïde fait un dernier effort pour la lire, sa douleur s'empare de ses sens, et elle dit après avoir lu ce fatal écrit.
 Eh bien , mon Père!
-Tancrède, porté par des Soldats et assis sur un trophée dressé à ses belles actions, arrive ; Amenaide court se jetter dans ses bras : Tancrède est mourant, il ne répond rien aux tendres discours, de son Amante.
-Elle lui dit cependant :
+Tancrède, porté par des Soldats et assis sur un trophée dressé à ses belles actions, arrive ; Amenaide court se jetter dans ses bras : Tancrède est mourant, il ne répond rien aux tendres discours, de son Amante. Elle lui dit cependant :
 Honore d'un regard ton amante fidèle.
 À ces mots, Tancréde tourne la tête, ouvre les yeux sur Amenaïde, qui s'écrie avec transport, son amant ne cessant de fixer, ses regards sur elle :
 C'est donc là le dernier que tu jettes sur elle.
-On désabuse Tancréde.
-Il demande à Argire de les unir ensemble voulant mourir l'époux d'Amenaïde : ils se donnent la main.
-Tancrède recommande à sa Maîtresse de vivre, et il expire dans les bras de son épouse.
-Les chevaliers pleurent la destinée de ce héros : Amenaïde s'écrie avec emportement :
+On désabuse Tancréde. Il demande à Argire de les unir ensemble voulant mourir l'époux d'Amenaïde : ils se donnent la main. Tancrède recommande à sa Maîtresse de vivre, et il expire dans les bras de son épouse. Les chevaliers pleurent la destinée de ce héros : Amenaïde s'écrie avec emportement :
 Eh ! Que m'importe a moi vos pleurs ?
-Elle entre dans un si grand transport, qu'elle croit voir son amant qui l'appelle ; et sa douleur est si grande en ce moment, qu'elle expire aux pieds de son époux.
-Son père témoin d'un spectacle si tragique, s'empresse de la secourir et prie les Dieux de la rendre à la vie.
+Elle entre dans un si grand transport, qu'elle croit voir son amant qui l'appelle ; et sa douleur est si grande en ce moment, qu'elle expire aux pieds de son époux. Son père témoin d'un spectacle si tragique, s'empresse de la secourir et prie les Dieux de la rendre à la vie.
 
--*who_herodeetmariamne
-Je m'attendais à un dénouement plus merveilleux.
-
--*who_brutus
-Il est trop triste ; et la mort d'Amenaïde, pour être naturelle, n'est pas vraisemblable.
-
--*who_romesauvee
-Votre héros, ma Soeur, ne devait pas mourir.
-
--*who_leducdefoix
-Vous auriez frappé bien davantage le Spectateur, si après avoir annoncé la mort de Tancréde, on l'eut vu reparaître vainqueur de Solamir.
-
--*who_merope
-Je crois que ce dénouement aurait fait plus de plaisir.
-
--*who_tancrede
 Mais je n'aurais pas été une Tragédie.
 
--*who_lorphelindelachine
-Pourquoi ?
-Mon dénouement est de même, et je ne suis pas moins très tragique.
-
--*who_mahomet
-Quoi qu'il en soit, vous m'avez enchantée.
-
--*who_semiramis
-Que j'ai versé de larmes !
-Moi qui n'en fais, guère répandre.
-
--*who_alzire
-Si votre conduite était aussi sage que vous êtes belle, vous nous surpasseriez.
-
--*who_zaire
-Mon père ne regarde pas de si près à notre conduite ; et malgré cela nous lui faisons honneur.
-
--*who_lamortdecesar
-On dira toujours de lui, en nous voyant, qu'il est le Coriphée et l'Apollon du Théâtre Français.
-
--*who_oedipe
-Moi seule j'ai ouvert sa carrière avec honneur.
-
--*who_tancrede
 J'attends votre décision... mon sort m'inquiète.
 
--*who_lorphelindelachine
-Prenez votre rang après moi ; la place est bonne.
-
--*who_romesauvee
-Je ne puis marcher qu'après vous, et comme vous valez mieux que moi, je me retire.
-
-**** *book_ *id_I08 *act_I
-
--*who_oedipe
-Sa retraite lui fait honneur en vous cédant sa place, elle ne vous fait point de grâce.
-
--*who_semiramis
-Vous avez quelque défaut, mais on vous corrigera.
-
--*who_lamortdecesar
-Quoique plus petite, j'ose faire comparaison avec vous.
-
--*who_merope
-Vous ne serez jamais aussi bien faite que moi, et vous ne ferez jamais tant de plaisir.
-
--*who_alzire
-Si vous n'aviez pas été une de nos soeurs, j'aurais eu peur pour vous.
-Vous débutez si mal, qu'on n'aurait peut-être point eu la patience de vous entendre jusqu'au troisième acte si un autre auteur vous eût fait naître.
-
--*who_zaire
-Je suis si tendre et si bonne, que je ne puis m'empêcher d'avouer que vous m'avez attendrie jusqu'aux larmes.
-
--*who_mahomet
-Notre Père vous a ménagé des situations qui vous soutiendront toujours ; mais vous avez des longueurs insupportables.
-
--*who_herodeetmariamne
-Je me sens si faible auprès de vous, que je suis obligée de sortir.
-Je voudrais vous égaler malgré vos imperfections.
-
--*who_leducdefoix
-J'ai eu des admirateurs, j'en ai encore quelques uns, mais vous en aurez plus que moi.
-Je m'en vais engager les miens à ne me pas abandonner lorsque je paraîtrai.
-Adieu, mes soeurs.
-
--*who_tancrede
 Vous me donnez votre approbation ?
 
--*who_leducdefoix
-Vous la méritez.
-
--*who_herodeetmariamne
-Plus je la vois, et plus je me trouve mauvaise.
-
--*who_leducdefoix
-Et moi, moins je me trouve bonne.
-
-**** *book_ *id_I09 *act_I
-
--*who_tancrede
 Je suis cependant fâchée que mes soeurs m'abandonnent.
 
--*who_oedipe
-Votre bonté les chagrine.
-Entre nous, autant le Duc de Foix, Hérode et Mariamne, et Rome Sauvée sont passablement bonnes, autant Artémire et Eriphile sont mauvaises.
-
--*who_tancrede
 Mais cela ne m'assure point un sort heureux ; vos sentiments sur moi, OEdipe, me seraient bien favorables.
 
--*who_oedipe
-Vous avez de trop grande beautés pour ne pas mériter les applaudissements du Public éclairé : Si nous allons vous juger, c'est d'après lui.
-Mais il est à propos que vous nous laissiez libres.
-Retirez-vous un moment, nous ne serons pas longtemps.
-
--*who_tancrede
 Je me soumets à votre décision ; et je souhaite reparaître à vos yeux plus belle et moins prolixe.
 
-**** *book_ *id_I10 *act_I
-
--*who_oedipe
-Nous avons un peu trop parlé devant Tancréde, l'encens que nous lui avons donné va la rendre orgueilleuse.
-N'aura-t-elle pas assez de gloire d'être avec nous ?
-Elle mérite, il est vrai, des éloges ; mais elle n'approche pas encore de moi.
-
--*who_brutus
-Ni de moi.
-Qu'elle en est éloignée !
-
--*who_semiramis
-Les coups de Théâtre qu'elle produit ne font pas si frappants que les miens.
-
--*who_zaire
-Vos coups de Théâtre sont merveilleux, mais ils ne sont pas si naturels que les siens.
-
--*who_alzire
-Toutes ses situations sont prises dans la nature.
-
--*who_lorphelindelachine
-C'est beaucoup de ne pas s'en écarter, je n'ai réussi que par-là.
-
--*who_merope
-Comme vous parlez d'elle ?
-On la prendrait pour un chef-d'oeuvre.
-Je dis moi qu'elle marche fort mal et qu'elle est d'une inconstance outrée.
-Comment !
-Ne pas rester à la même place : changer de lieu 1 ce sont là des défauts inpardonnables.
-
--*who_mahomet
-Et dont on ne pourra la corriger : mais nous autres, sommes-nous exemptes de défauts.
-
--*who_lamortdecesar
-Sans doute : elle ne peut pas nous déshonorer.
-C'est notre soeur ; soyons unies ensembles, ne décourageons pas notre Père par notre mésintelligence.
-
--*who_oedipe
-Vous pensez juste...
-Il faut l'admettre parmi nous ; c'est pourquoi j'espère que vous allez me donner vos avis chacune, sans partialités.
-
--*who_brutus
-Comme la plus ancienne après vous, OEdipe, je vais donner l'exemple.
-Malgré ma vieillesse, je conserve toute ma chaleur, et je décide que Tancrède est bonne, et qu'elle restera au Théâtre malgré ses ennemis.
-
--*who_zaire
-Elle ne peut m'égaler ; mais je ne puis la renier pour ma soeur, elle a un mérite particulier qui m'intéresse pour elle.
-
--*who_alzire
-Si elle avait ma conduite j'en ferais mon égale : sans cela point de quartier : je suis trop grande, et elle est trop petite.
-
--*who_mahomet
-Dispensez-moi de parler, mon silence confirme tout ce que l'on peut avoir dit, et tout ce que l'on peut dire d'elle en bien.
-
--*who_merope
-Elle brillera pendant quelque temps ; mais à la chute des feuilles je ne lui ferai point de grâce ; c'est un avorton auprès de ma beauté.
-
--*who_semiramis
-J'intéresse plus au spectacle que dans le cabinet, comme je pense qu'elle aura mon sort, je la trouve digne de nous.
-
--*who_lorphelindelachine
-C'est bien dit : que Tancrède soit notre soeur, ses appas plaisent au Public, en ne parlant que d'après lui, nous ne pouvons pas manquer de faire un jugement équitable.
-
--*who_oedipe
-C'est toujours lui qui juge de nous : d'un coup d'oeil, il voit nos beautés comme il s'aperçoit de nos défauts.
-Plusieurs d'entre nous ont été corrigées par notre père sur ses avis, nous devons donc les suivre.
-Les applaudissements qu'il donne à notre soeur, sont un sûr garant qu'elle lui fait plaisir.
-Recevons-la d'une voix unanime.
-Le génie qui protège notre Père ne le quittera qu'au tombeau : l'universalité de ses talents lui ont déjà acquis l'immortalité au Temple de mémoire.
-Trop heureuses d'être nées d'un tel père !
-
--*who_lamortdecesar
-C'est mon avis...
-Vous vous y tenez toutes...
-Adieu : je vais dans une maison bourgeoise où ma présence est nécessaire.
-
--*who_oedipe
-Tancréde peut revenir et se montrer hardiment.
-Elle ne sera pas cependant à l'abri de la critique.
-
--*who_semiramis
-Nous en avons toutes essuyées un assez grand nombre.
-
--*who_merope
-Elles ont fait honneur à notre père et à nous.
-
--*who_brutus
-La critique souvent fait notre renommée.
-
--*who_zaire
-Souvent elle nous a rendu meilleures que nous n'étions.
-
--*who_mahomet
-Appelons Tancrède, rien ne peut la retenir ..
-Elle vient !
-Applaudissons-la.
-
-**** *book_ *id_I11 *act_I
-
--*who_lorphelindelachine
-Ah qu'elle est changée !
-
--*who_tancrede
 Vous m'applaudissez ; j'ai lieu de croire que mon arrêt est favorable.
 
--*who_merope
-Vous me faites plus de plaisir à présent, que la première fois.
-
--*who_semiramis
-Je vous envisage de même, et je vous comprends plus aisément.
-
--*who_zaire
-Plus je vous observe, et plus j'aperçois en vous des beautés.
-
--*who_tancrede
 J'ai été corrigée, et je ne parle plus tant.
 
--*who_oedipe
-Vous faites bien : les actions sont plus recherchées aujourd'hui que les paroles, on aime tout ce qui fait tableau.
-C'est le goût du du siècle.
+Je n'y paraîtrai que bien parée ; et par inclination pour notre père je porterai toujours son portrait avec moi, ainsi que mes plus belles situations, j'en serai peut-être plus recherchée... Mais quel est mon sort ì Aurai-je une place parmi vous.
 
--*who_brutus
-Je crains cependant que le grand jour de l'impression ne vous fasse du tort.
-Vous parlez bien, j'en conviens ; mais la lecture, ne présente pas aux yeux Faction comme la représentation.
-Au cabinet souvent on ne nous reconnait plus.
-
--*who_tancrede
-Je n'y paraîtrai que bien parée ; et par inclination pour notre père je porterai toujours son portrait avec moi, ainsi que mes plus belles situations, j'en serai peut-être plus recherchée...
-Mais quel est mon sort ì Aurai-je une place parmi vous.
-
--*who_oedipe
-Vos beautés, votre genre singulier et vos situations neuves et naturelles vous l'ont fait acquérir Brutus, Zaïre, Alzire, Mérope et moi, nous aurons toujours un avantage sur vous, que vous ne pouvez point nous refuser.
-Comme vous valez en grandeur, en beauté et en attraits Sémiramis, Mahomet, et l'Orphelin de la Chine , nous vous plaçons après elles ; protestant que vous êtes au-dessus du Duc de Foix, de Rome Sauvée, d'Hérode et Mariamne.
-Voilà, mon sentiment, à moins que mes soeurs n'en rappellent.
-
--*who_touteslestragedies
-C'est aussi le nôtre, et nous approuvons tout ce que vous venez de prononcer.
-
--*who_tancrede
 Je suis bien reçue du Public, vous m'admettez à votre rang dans ce spectacle, vous me pardonnez mes défauts, car je conviens que j'en aurai toujours ; mon bonheur ne peut-être plus grand !
 
--*who_brutus
-Nous vous rendons justice en vous applaudissant.
+Cela ne dépendra pas de moi : je suis trop flattée de votre accueil et de votre jugement pour ne pas me soumettre à vos lois. Je ne saurais trop être reconnaissante.
 
--*who_merope
-J'ai cependant un conseil à vous donner, ma soeur : c'est de vous ménager, et de ne pas vous user ; le Public s'en trouvera mieux, ainsi que nous et vous...
+Zulime ! Serait-ce encore une soeur ?
 
--*who_tancrede
-Cela ne dépendra pas de moi : je suis trop flattée de votre accueil et de votre jugement pour ne pas me soumettre à vos lois.
-Je ne saurais trop être reconnaissante.
-
--*who_oedipe
-J'entends qu'on vous appelle.
-Allons, mes soeurs : accompagnons Tancrède jusqu'en ses appartements ; qu'elle y reste en attendant Zulime.
-
--*who_tancrede
-Zulime !
-Serait-ce encore une soeur ?
-
--*who_oedipe
-Oui, mais elle n'est pas encore en état de paraître dans le monde, on doit dans peu la mettre à l'étude.
-
--*who_tancrede
 Je suis contente d'avoir passé avant elle; cela me donnera comme vous le droit de la juger.
 
--*who_merope
-Vous n'aurez peut-être pas cette peine : elle peut mourir en naissant.
+Ce n'est point ce que je souhaite : je ne fuis pas méchante, et je désire qu'elle vive : au moins je ne serai pas la dernière... Mais le bruit redouble ; le Public s'impatiente : allons me montrer, et mériter par ma soumission la continuation de ses applaudissements.
 
--*who_tancrede
-Ce n'est point ce que je souhaite : je ne fuis pas méchante, et je désire qu'elle vive : au moins je ne serai pas la dernière...
-Mais le bruit redouble ; le Public s'impatiente : allons me montrer, et mériter par ma soumission la continuation de ses applaudissements.

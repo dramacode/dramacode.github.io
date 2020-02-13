@@ -1,6 +1,6 @@
 ---
 identifier: gilbert_telephonte  
-creator: Gilbert, Gabriel  
+creator: Gilbert, Gabriel ; Georges Forestier.  
 date: 1642  
 title: Téléphonte. Tragi-comédie  
 ---

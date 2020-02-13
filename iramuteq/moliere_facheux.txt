@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
--*who_eraste
 Sous quel astre, bon Dieu, faut-il que je sois né,
 Pour être de Fâcheux toujours assassiné !
 Il semble que partout le sort me les adresse,
@@ -110,13 +109,6 @@ Non sans avoir longtemps gémi d'un tel martyre,
 Et maudit ce Fâcheux, dont le zèle obstiné
 M'ôtait au rendez-vous qui m'est ici donné.
 
--*who_montagne
-Ce sont chagrins mêlés aux plaisirs de la vie.
-Tout ne va pas, Monsieur, au gré de notre envie.
-Le Ciel veut qu'ici-bas chacun ait ses Fâcheux ;
-Et les hommes seraient, sans cela, trop heureux.
-
--*who_eraste
 Mais de tous mes Fâcheux, le plus fâcheux encore,
 C'est Damis, le tuteur de celle que j'adore ;
 Qui rompt ce qu'à mes vœux elle donne d'espoir,
@@ -124,162 +116,68 @@ Et fait qu'en sa présence elle n'ose me voir.
 Je crains d'avoir déjà passé l'heure promise,
 Et c'est dans cette allée, où devait être Orphise.
 
--*who_montagne
-L'heure d'un rendez-vous d'ordinaire s'étend ;
-Et n'est pas resserrée aux bornes d'un instant.
-
--*who_eraste
 Il est vrai ; mais je tremble, et mon amour extrême
 D'un rien se fait un crime envers celle que j'aime.
 
--*who_montagne
-Si ce parfait amour, que vous prouvez si bien,
-Se fait vers votre objet un grand crime de rien,
-Ce que son cœur, pour vous, sent de feux légitimes,
-En revanche, lui fait un rien de tous vos crimes.
-
--*who_eraste
 Mais, tout de bon, crois‑tu que je sois d'elle aimé ?
 
--*who_montagne
-Quoi ? vous doutez encor d'un amour confirmé…
-
--*who_eraste
 Ah c'est malaisément qu'en pareille matière,
 Un cœur bien enflammé prend assurance entière.
 Il craint de se flatter, et dans ses divers soins,
 Ce que plus il souhaite, est ce qu'il croit le moins.
 Mais songeons à trouver une beauté si rare.
 
--*who_montagne
-Monsieur, votre rabat par devant se sépare.
-
--*who_eraste
 N'importe.
 
--*who_montagne
-      Laissez‑moi l'ajuster, s'il vous plaît.
-
--*who_eraste
 Ouf, tu m'étrangles, fat, laisse-le, comme il est.
 
--*who_montagne
-Souffrez qu'on peigne un peu…
-
--*who_eraste
       Sottise sans pareille !
 Tu m'as, d'un coup de dent, presque emporté l'oreille.
 
--*who_montagne
-Vos canons…
-
--*who_eraste
       Laisse-les ; tu prends trop de souci.
 
--*who_montagne
-Ils sont tout chiffonnés.
-
--*who_eraste
       Je veux qu'ils soient ainsi.
 
--*who_montagne
-Accordez‑moi du moins, pour grâce singulière,
-De frotter ce chapeau, qu'on voit plein de poussière.
-
--*who_eraste
 Frotte donc, puisqu'il faut que j'en passe par là.
 
--*who_montagne
-Le voulez-vous porter fait comme le voilà ?
-
--*who_eraste
 Mon Dieu dépêche-toi.
 
--*who_montagne
-      Ce serait conscience.
-
--*who_eraste
 C'est assez.
 
--*who_montagne
-      Donnez-vous un peu de patience.
-
--*who_eraste
 Il me tue.
 
--*who_montagne
-      En quel lieu vous êtes‑vous fourré ?
-
--*who_eraste
 T'es-tu de ce chapeau pour toujours emparé ?
 
--*who_montagne
-C'est fait.
-
--*who_eraste
       Donne-moi donc.
 
--*who_montagne
-      Hay !
-
--*who_eraste
       Le voilà par terre :
 Je suis fort avancé : que la fièvre te serre.
 
--*who_montagne
-Permettez qu'en deux coups j'ôte…
-
--*who_eraste
       Il ne me plaît pas.
 Au diantre tout valet qui vous est sur les bras ;
 Qui fatigue son Maître, et ne fait que déplaire
 À force de vouloir trancher du nécessaire.
 
-**** *book_ *id_I02 *act_I *date_1661 *creator_moliere
-
--*who_eraste
 Mais vois-je pas Orphise ? oui c'est elle, qui vient.
 Où va-t-elle si vite, et quel homme la tient ?
 Quoi me voir en ces lieux devant elle paraître,
 Et passer en feignant de ne me pas connaître ?
 Que croire ? Qu'en dis‑tu ? Parle donc, si tu veux.
 
--*who_montagne
-Monsieur, je ne dis rien de peur d'être fâcheux.
-
--*who_eraste
 Et c'est l'être en effet que de ne me rien dire
 Dans les extrémités d'un si cruel martyre.
 Fais donc quelque réponse à mon cœur abattu :
 Que dois-je présumer ? parle, qu'en penses‑tu ?
 Dis-moi ton sentiment.
 
--*who_montagne
-      Monsieur, je veux me taire,
-Et ne désire point trancher du nécessaire.
-
--*who_eraste
 Peste l'impertinent ! Va-t-en suivre leurs pas ;
 Vois ce qu'ils deviendront, et ne les quitte pas.
 
--*who_montagne
-Il faut suivre de loin ?
-
--*who_eraste
       Oui.
 
--*who_montagne
-      Sans que l'on me voie,
-Ou faire aucun semblant qu'après eux on m'envoie.
-
--*who_eraste
 Non, tu feras bien mieux de leur donner avis,
 Que par mon ordre exprès ils sont de toi suivis.
 
--*who_montagne
-Vous trouverai-je ici ?
-
--*who_eraste
       Que le Ciel te confonde,
 Homme, à mon sentiment, le plus fâcheux du monde.
 Ah ! que je sens de trouble, et qu'il m'eût été doux,
@@ -287,112 +185,32 @@ Qu'on me l'eût fait manquer, ce fatal rendez-vous.
 Je pensais y trouver toutes choses propices ;
 Et mes yeux pour mon cœur y trouvent des supplices.
 
-**** *book_ *id_I03 *act_I *date_1661 *creator_moliere
-
--*who_lysandre
-Sous ces arbres, de loin, mes yeux t'ont reconnu,
-Cher Marquis, et d'abord je suis à toi venu.
-Comme à de mes amis il faut que je te chante
-Certain air, que j'ai fait, de petite courante,
-Qui de toute la Cour contente les experts,
-Et sur qui plus de vingt ont déjà fait des vers.
-J'ai le bien, la naissance, et quelque emploi passable,
-Et fais figure en France assez considérable ;
-Mais je ne voudrais pas, pour tout ce que je suis,
-N'avoir point fait cet air, qu'ici je te produis.
-La, la, hem, hem : écoute avec soin, je te prie.
-N'est-elle pas belle ?
-
--*who_eraste
       Ah !
 
--*who_lysandre
-      Cette fin est jolie.
-Comment la trouves-tu ?
-
--*who_eraste
       Fort belle assurément.
 
--*who_lysandre
-Les pas que j'en ai faits n'ont pas moins d'agrément,
-Et surtout la figure a merveilleuse grâce.
-Tiens, l'homme passe ainsi : puis la femme repasse :
-Ensemble : puis on quitte, et la femme vient là.
-Vois-tu ce petit trait de feinte que voilà ?
-Ce fleuret ? ces coupés courant après la belle ?
-Dos à dos : face à face, en se pressant sur elle.
-Que t'en semble Marquis ?
-
--*who_eraste
       Tous ces pas-là sont fins.
 
--*who_lysandre
-Je me moque, pour moi, des maîtres Baladins.
-
--*who_eraste
 On le voit.
 
--*who_lysandre
-      Les pas donc…
-
--*who_eraste
       N'ont rien qui ne surprenne.
 
--*who_lysandre
-Veux-tu, par amitié, que je te les apprenne ?
-
--*who_eraste
 Ma foi, pour le présent, j'ai certain embarras…
 
--*who_lysandre
-Eh bien donc, ce sera, lorsque tu le voudras.
-Si j'avais dessus moi ces paroles nouvelles,
-Nous les lirions ensemble, et verrions les plus belles.
-
--*who_eraste
 Une autre fois.
 
--*who_lysandre
-      Adieu, Baptiste le très cher
-N'a point vu ma courante, et je le vais chercher.
-Nous avons, pour les airs, de grandes sympathies,
-Et je veux le prier d'y faire des parties.
-
--*who_eraste
 Ciel ! faut-il que le rang, dont on veut tout couvrir,
 De cent sots, tous les jours, nous oblige à souffrir ;
 Et nous fasse abaisser jusques aux complaisances,
 D'applaudir bien souvent à leurs impertinences ?
 
-**** *book_ *id_I04 *act_I *date_1661 *creator_moliere
-
--*who_montagne
-Monsieur, Orphise est seule, et vient de ce côté.
-
--*who_eraste
 Ah d'un trouble bien grand je me sens agité !
 J'ai de l'amour encore pour la belle inhumaine,
 Et ma raison voudrait, que j'eusse de la haine !
 
--*who_montagne
-Monsieur, votre raison ne sait ce qu'elle veut ;
-Ni ce que sur un cœur une Maîtresse peut.
-Bien que de s'emporter on ait de justes causes,
-Une belle, d'un mot, rajuste bien des choses.
-
--*who_eraste
 Hélas, je te l'avoue, et déjà cet aspect,
 À toute ma colère imprime le respect.
 
-**** *book_ *id_I05 *act_I *date_1661 *creator_moliere
-
--*who_orphise
-Votre front à mes yeux montre peu d'allégresse.
-Serait-ce ma présence, Éraste, qui vous blesse ?
-Qu'est-ce donc ? qu'avez-vous ? et sur quels déplaisirs,
-Lorsque vous me voyez, poussez-vous des soupirs ?
-
--*who_eraste
 Hélas, pouvez-vous bien me demander, cruelle,
 Ce qui fait de mon cœur la tristesse mortelle ?
 Et d'un esprit méchant n'est-ce pas un effet,
@@ -400,39 +218,14 @@ Que feindre d'ignorer ce que vous m'avez fait ?
 Celui dont l'entretien vous a fait, à ma vue,
 Passer…
 
--*who_orphise
-      C'est de cela, que votre âme est émue ?
-
--*who_eraste
 Insultez inhumaine, encore à mon malheur.
 Allez, il vous sied mal de railler ma douleur ;
 Et d'abuser, ingrate, à maltraiter ma flamme,
 Du faible, que pour vous, vous savez, qu'a mon âme.
 
--*who_orphise
-Certes il en faut rire, et confesser ici,
-Que vous êtes bien fou, de vous troubler ainsi.
-L'homme, dont vous parlez, loin qu'il puisse me plaire,
-Est un homme Fâcheux dont j'ai su me défaire ;
-Un de ces importuns, et sots officieux,
-Qui ne sauraient souffrir qu'on soit seule en des lieux ;
-Et viennent aussitôt, avec un doux langage,
-Vous donner une main, contre qui l'on enrage.
-J'ai feint de m'en aller, pour cacher mon dessein ;
-Et, jusqu'à mon carrosse, il m'a prêté la main.
-Je m'en suis promptement défaite de la sorte,
-Et j'ai pour vous trouver, rentré par l'autre porte.
-
--*who_eraste
 À vos discours, Orphise, ajouterai-je foi ?
 Et votre cœur est-il tout sincère pour moi ?
 
--*who_orphise
-Je vous trouve fort bon de tenir ces paroles ;
-Quand je me justifie à vos plaintes frivoles.
-Je suis bien simple encore, et ma sotte bonté…
-
--*who_eraste
 Ah ne vous fâchez pas, trop sévère beauté.
 Je veux croire en aveugle, étant sous votre empire,
 Tout ce que vous aurez la bonté de me dire.
@@ -443,24 +236,6 @@ Exposez à mes yeux le triomphe d'un autre,
 Oui je souffrirai tout de vos divins appas,
 J'en mourrai, mais enfin je ne m'en plaindrai pas.
 
--*who_orphise
-Quand de tels sentiments régneront dans votre âme,
-Je saurai de ma part…
-
-**** *book_ *id_I06 *act_I *date_1661 *creator_moliere
-
--*who_alcandre
-      Marquis, un mot. Madame,
-De grâce pardonnez, si je suis indiscret,
-En osant, devant vous, lui parler en secret.
-Avec peine, Marquis, je te fais la prière ;
-Mais un homme vient là de me rompre en visière,
-Et je souhaite fort, pour ne rien reculer,
-Qu'à l'heure de ma part, tu l'ailles appeler.
-Tu sais, qu'en pareil cas, ce serait avec joie,
-Que je te le rendrais en la même monnaie.
-
--*who_eraste
 Je ne veux point ici faire le Capitan ;
 Mais on m'a vu soldat, avant que Courtisan.
 J'ai servi quatorze ans, et je crois être en passe,
@@ -480,16 +255,9 @@ Et suis ton serviteur en toute autre matière,
 Adieu. Cinquante fois au Diable les Fâcheux,
 Où donc s'est retiré cet objet de mes vœux ?
 
--*who_montagne
-Je ne sais.
-
--*who_eraste
       Pour savoir où la belle est allée,
 Va-t-en chercher partout, j'attends dans cette allée.
 
-**** *book_ *id_II01 *act_II *date_1661 *creator_moliere
-
--*who_eraste
 Mes Fâcheux à la fin se sont-ils écartés ?
 Je pense qu'il en pleut ici de tous côtés.
 Je les fuis, et les trouve, et pour second martyre,
@@ -501,15 +269,413 @@ Qu'ils en eussent chassé tous les gens qui fatiguent !
 Le Soleil baisse fort, et je suis étonné,
 Que mon Valet encor ne soit point retourné.
 
-**** *book_ *id_II02 *act_II *date_1661 *creator_moliere
-
--*who_alcipe
-Bonjour.
-
--*who_eraste
       Eh quoi toujours ma flamme divertie !
 
--*who_alcipe
+C'est dans le jeu, qu'on voit les plus grands coups du sort.
+
+      J'ai compris le tout, par ton récit,
+Et vois de la justice au transport qui t'agite ;
+Mais, pour certaine affaire, il faut que je te quitte :
+Adieu console-toi, pourtant, de ton malheur.
+
+      En quel lieu sommes-nous !
+De quelque part qu'on tourne, on ne voit que des fous.
+Ah ! que tu fais languir ma juste impatience.
+
+Mais me rapportes-tu quelque nouvelle enfin ?
+
+Et quoi ? déjà mon cœur après ce mot soupire,
+Parle.
+
+Oui, dis vite.
+
+Prends-tu quelque plaisir à me tenir en peine ?
+
+      Peste soit fait de tes digressions.
+
+      Sénèque est un sot dans ta bouche,
+Puisqu'il ne me dit rien de tout ce qui me touche.
+Dis-moi ton ordre, tôt.
+
+Laisse.
+
+Quoi !
+
+      Sais-tu que je ne veux pas rire ?
+
+Tenons-nous donc au lieu qu'elle a voulu choisir :
+Mais, puisque l'ordre ici m'offre quelque loisir,
+Laisse-moi méditer, j'ai dessein de lui faire
+Quelques vers, sur un air, où je la vois se plaire.
+
+C'est une question à vider difficile,
+Et vous devez chercher un Juge plus habile.
+
+Hé de grâce…
+
+Que ne puis-je à mon traître inspirer le souci,
+D'inventer quelque chose à me tirer d'ici !
+
+Puisqu'à moins d'un arrêt je ne m'en puis défaire,
+Toutes deux à la fois je vous veux satisfaire ;
+Et pour ne point blâmer ce qui plaît à vos yeux,
+Le jaloux aime plus, et l'autre aime bien mieux.
+
+      Suffit, j'en suis quitte.
+Après ce que j'ai dit, souffrez que je vous quitte.
+
+Que vous tardez, Madame, et que j'éprouve bien…
+
+Sans sujet contre moi voulez-vous vous aigrir,
+Et me reprochez-vous ce qu'on me fait souffrir ?
+Ha ! de grâce attendez…
+
+Ciel ! faut-il qu'aujourd'hui Fâcheuses, et Fâcheux,
+Conspirent à troubler les plus chers de mes vœux !
+Mais allons sur ses pas, malgré sa résistance,
+Et faisons à ses yeux briller notre innocence.
+
+Je cherche ici quelqu'un, et ne puis m'arrêter.
+
+      Non je pense.
+
+Tu ne pouvais mieux faire, et ta prudence est rare :
+C'est ainsi des Fâcheux, qu'il faut qu'on se sépare ;
+Adieu.
+
+Fort bien. Je crois qu'enfin je perdrai patience.
+Cherchons à m'excuser avec diligence.
+
+Il est vrai, d'un côté mes soins ont réussi :
+Cet adorable objet enfin s'est adouci :
+Mais d'un autre on m'accable, et les Astres sévères,
+Ont, contre mon amour, redoublé leurs colères.
+Oui Damis son tuteur, mon plus rude fâcheux,
+Tout de nouveau s'oppose aux plus doux de mes vœux,
+À son aimable nièce a défendu ma vue,
+Et veut, d'un autre Époux, la voir demain pourvue.
+Orphise toutefois, malgré son désaveu,
+Daigne accorder ce soir une grâce à mon feu ;
+Et j'ai fait consentir l'esprit de cette belle,
+À souffrir qu'en secret je la visse chez elle.
+L'amour aime surtout les secrètes faveurs ;
+Dans l'obstacle, qu'on force, il trouve des douceurs ;
+Et le moindre entretien de la beauté qu'on aime,
+Lorsqu'il est défendu, devient grâce suprême.
+Je vais au rendez-vous : c'en est l'heure, à peu près :
+Puis, je veux m'y trouver plutôt avant qu'après.
+
+      Non, je craindrais que peut-être
+À quelques yeux suspects, tu me fisses connaître.
+
+      Je ne le veux pas.
+
+      Te tairas-tu, vingt fois ?
+Et ne veux-tu jamais quitter cette méthode,
+De te rendre, à toute heure, un valet incommode !
+
+Monsieur, souhaitez-vous quelque chose de moi ?
+
+      Sans tant de façons, qu'avez-vous à me dire ?
+
+      Oui je suis fort vanté,
+Passons, Monsieur.
+
+Je vois assez, Monsieur, ce que vous pouvez être,
+Et votre seul abord le peut faire connaître.
+
+Monsieur Caritidès soit. Qu'avez-vous à dire ?
+
+Hé ! Monsieur, vous pouvez le présenter vous-même.
+
+Eh bien vous le pouvez, et prendre votre temps.
+
+Eh bien donnez-moi donc, je le présenterai.
+
+Non…
+
+Ce Placet est fort long et pourrait bien fâcher…
+
+Achevez promptement.
+
+      Fort bien : donnez-le vite, et faites la retraite :
+Il sera vu du Roi ; c'est une affaire faite.
+
+Oui, vous l'aurez demain, Monsieur Caritidès.
+Ma foi de tels savants sont des ânes bien faits.
+J'aurais dans d'autres temps bien ri de sa sottise…
+
+Fort bien, mais dépêchons, car je veux m'en aller.
+
+Voici quelque souffleur, de ces gens qui n'ont rien ;
+Et vous viennent toujours promettre tant de bien.
+Vous avez fait, Monsieur, cette bénite pierre,
+Qui peut, seule, enrichir tous les Rois de la terre ?
+
+Soit, nous en parlerons, je suis un peu pressé.
+
+Non, non, je ne veux point savoir votre secret.
+
+      D'un peu plus loin, et pour cause, Monsieur.
+
+      L'avis est bon, et plaira fort au Roi.
+Adieu, nous nous verrons.
+
+Oui, oui.
+
+      Oui, volontiers. Plût à Dieu qu'à ce prix,
+De tous les Importuns je pusse me voir quitte !
+Voyez quel contretemps prend ici leur visite !
+Je pense qu'à la fin je pourrai bien sortir.
+Viendra-t-il point quelqu'un encor me divertir ?
+
+Quoi ?
+
+À moi ?
+
+Je te suis obligé ; mais crois que tu me fais…
+
+Ah j'enrage.
+
+Je te jure, Marquis, qu'on s'est moqué de toi.
+
+      Que le Ciel me foudroie.
+Si d'aucun démêlé…
+
+Eh mon Dieu ! je te dis, et ne déguise point,
+Que…
+
+Veux-tu m'obliger ?
+
+      Laisse-moi, je te prie.
+
+      Une galanterie,
+En certain lieu, ce soir…
+
+Parbleu, puisque tu veux que j'aie une querelle,
+Je consens à l'avoir pour contenter ton zèle :
+Ce sera contre toi qui me fais enrager,
+Et dont je ne me puis par douceur dégager.
+
+Vous serez mon ami quand vous me quitterez.
+Mais voyez quels malheurs suivent ma destinée !
+Ils m'auront fait passer l'heure qu'on m'a donnée.
+
+J'entrevois là quelqu'un sur la porte d'Orphise.
+Quoi toujours quelque obstacle aux feux qu'elle autorise !
+
+Bien qu'il m'ait voulu perdre, un point d'honneur me presse
+De secourir ici l'oncle de ma Maîtresse.
+Je suis à vous, Monsieur.
+
+Je n'ai fait, vous servant, qu'un acte de justice.
+
+      Oui, oui, Monsieur, c'est moi.
+Trop heureux, que ma main vous ait tiré de peine,
+Trop malheureux d'avoir mérité votre haine.
+
+Mon cœur est si surpris d'une telle merveille,
+Qu'en ce ravissement, je doute, si je veille.
+
+Qui frappe là si fort.
+
+Quoi toujours des Fâcheux, holà Suisses, ici,
+Qu'on me fasse sortir ces gredins que voici.
+
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_montagne
+
+Ce sont chagrins mêlés aux plaisirs de la vie.
+Tout ne va pas, Monsieur, au gré de notre envie.
+Le Ciel veut qu'ici-bas chacun ait ses Fâcheux ;
+Et les hommes seraient, sans cela, trop heureux.
+
+L'heure d'un rendez-vous d'ordinaire s'étend ;
+Et n'est pas resserrée aux bornes d'un instant.
+
+Si ce parfait amour, que vous prouvez si bien,
+Se fait vers votre objet un grand crime de rien,
+Ce que son cœur, pour vous, sent de feux légitimes,
+En revanche, lui fait un rien de tous vos crimes.
+
+Quoi ? vous doutez encor d'un amour confirmé…
+
+Monsieur, votre rabat par devant se sépare.
+
+      Laissez‑moi l'ajuster, s'il vous plaît.
+
+Souffrez qu'on peigne un peu…
+
+Vos canons…
+
+Ils sont tout chiffonnés.
+
+Accordez‑moi du moins, pour grâce singulière,
+De frotter ce chapeau, qu'on voit plein de poussière.
+
+Le voulez-vous porter fait comme le voilà ?
+
+      Ce serait conscience.
+
+      Donnez-vous un peu de patience.
+
+      En quel lieu vous êtes‑vous fourré ?
+
+C'est fait.
+
+      Hay !
+
+Permettez qu'en deux coups j'ôte…
+
+Monsieur, je ne dis rien de peur d'être fâcheux.
+
+      Monsieur, je veux me taire,
+Et ne désire point trancher du nécessaire.
+
+Il faut suivre de loin ?
+
+      Sans que l'on me voie,
+Ou faire aucun semblant qu'après eux on m'envoie.
+
+Vous trouverai-je ici ?
+
+Monsieur, Orphise est seule, et vient de ce côté.
+
+Monsieur, votre raison ne sait ce qu'elle veut ;
+Ni ce que sur un cœur une Maîtresse peut.
+Bien que de s'emporter on ait de justes causes,
+Une belle, d'un mot, rajuste bien des choses.
+
+Je ne sais.
+
+Monsieur, je n'ai pu faire une autre diligence.
+
+Sans doute ; et de l'objet qui fait votre destin,
+J'ai, par un ordre exprès, quelque chose à vous dire.
+
+      Souhaitez-vous de savoir ce que c'est ?
+
+      Monsieur, attendez, s'il vous plaît.
+Je me suis, à courir, presque mis hors d'haleine.
+
+Puisque vous désirez de savoir promptement
+L'ordre que j'ai reçu de cet objet charmant,
+Je vous dirai… Ma foi, sans vous vanter mon zèle,
+J'ai bien fait du chemin, pour trouver cette belle,
+Et si…
+
+Ah ! il faut modérer un peu ses passions,
+Et Sénèque…
+
+      Pour contenter vos vœux,
+Votre Orphise… Une bête est là dans vos cheveux.
+
+      Cette beauté de sa part vous fait dire…
+
+      Devinez.
+
+Son ordre est qu'en ce lieu vous devez vous tenir,
+Assuré que dans peu vous l'y verrez venir,
+Lorsqu'elle aura quitté quelques provinciales,
+Aux personnes de Cour fâcheuses animales.
+
+Suivrai-je vos pas ?
+
+Mais…
+
+      Je dois suivre vos lois :
+Mais au moins si de loin…
+
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orphise
+
+Votre front à mes yeux montre peu d'allégresse.
+Serait-ce ma présence, Éraste, qui vous blesse ?
+Qu'est-ce donc ? qu'avez-vous ? et sur quels déplaisirs,
+Lorsque vous me voyez, poussez-vous des soupirs ?
+
+      C'est de cela, que votre âme est émue ?
+
+Certes il en faut rire, et confesser ici,
+Que vous êtes bien fou, de vous troubler ainsi.
+L'homme, dont vous parlez, loin qu'il puisse me plaire,
+Est un homme Fâcheux dont j'ai su me défaire ;
+Un de ces importuns, et sots officieux,
+Qui ne sauraient souffrir qu'on soit seule en des lieux ;
+Et viennent aussitôt, avec un doux langage,
+Vous donner une main, contre qui l'on enrage.
+J'ai feint de m'en aller, pour cacher mon dessein ;
+Et, jusqu'à mon carrosse, il m'a prêté la main.
+Je m'en suis promptement défaite de la sorte,
+Et j'ai pour vous trouver, rentré par l'autre porte.
+
+Je vous trouve fort bon de tenir ces paroles ;
+Quand je me justifie à vos plaintes frivoles.
+Je suis bien simple encore, et ma sotte bonté…
+
+Quand de tels sentiments régneront dans votre âme,
+Je saurai de ma part…
+
+Non, non, ne quittez pas un si doux entretien.
+À tort vous m'accusez d'être trop tard venue,
+Et vous avez de quoi vous passer de ma vue.
+
+      Laissez-moi, je vous prie,
+Et courez vous rejoindre à votre compagnie.
+
+Monsieur, quelle aventure a d'un trouble effroyable…
+
+Si c'est pour lui payer ce que vous lui devez,
+J'y consens, devant tout, aux jours qu'il a sauvés.
+
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+
+Sous ces arbres, de loin, mes yeux t'ont reconnu,
+Cher Marquis, et d'abord je suis à toi venu.
+Comme à de mes amis il faut que je te chante
+Certain air, que j'ai fait, de petite courante,
+Qui de toute la Cour contente les experts,
+Et sur qui plus de vingt ont déjà fait des vers.
+J'ai le bien, la naissance, et quelque emploi passable,
+Et fais figure en France assez considérable ;
+Mais je ne voudrais pas, pour tout ce que je suis,
+N'avoir point fait cet air, qu'ici je te produis.
+La, la, hem, hem : écoute avec soin, je te prie.
+N'est-elle pas belle ?
+
+      Cette fin est jolie.
+Comment la trouves-tu ?
+
+Les pas que j'en ai faits n'ont pas moins d'agrément,
+Et surtout la figure a merveilleuse grâce.
+Tiens, l'homme passe ainsi : puis la femme repasse :
+Ensemble : puis on quitte, et la femme vient là.
+Vois-tu ce petit trait de feinte que voilà ?
+Ce fleuret ? ces coupés courant après la belle ?
+Dos à dos : face à face, en se pressant sur elle.
+Que t'en semble Marquis ?
+
+Je me moque, pour moi, des maîtres Baladins.
+
+      Les pas donc…
+
+Veux-tu, par amitié, que je te les apprenne ?
+
+Eh bien donc, ce sera, lorsque tu le voudras.
+Si j'avais dessus moi ces paroles nouvelles,
+Nous les lirions ensemble, et verrions les plus belles.
+
+      Adieu, Baptiste le très cher
+N'a point vu ma courante, et je le vais chercher.
+Nous avons, pour les airs, de grandes sympathies,
+Et je veux le prier d'y faire des parties.
+
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+
+Bonjour.
+
 Console-moi, Marquis, d'une étrange partie,
 Qu'au Piquet je perdis, hier, contre un Saint-Bouvain,
 À qui je donnerais quinze points, et la main.
@@ -540,127 +706,24 @@ Sans pouvoir, de dépit, proférer un seul mot.
 Morbleu fais-moi raison de ce coup effroyable.
 À moins que l'avoir vu, peut-il être croyable ?
 
--*who_eraste
-C'est dans le jeu, qu'on voit les plus grands coups du sort.
-
--*who_alcipe
 Parbleu tu jugeras, toi-même, si j'ai tort ;
 Et si c'est sans raison, que ce coup me transporte ;
 Car voici nos deux jeux, qu'exprès sur moi je porte.
 Tiens, c'est ici mon port, comme je te l'ai dit ;
 Et voici…
 
--*who_eraste
-      J'ai compris le tout, par ton récit,
-Et vois de la justice au transport qui t'agite ;
-Mais, pour certaine affaire, il faut que je te quitte :
-Adieu console-toi, pourtant, de ton malheur.
-
--*who_alcipe
 Qui moi ? J'aurai toujours ce coup-là sur le cœur :
 Et c'est pour ma raison, pis qu'un coup de tonnerre.
 Je le veux faire, moi, voir à toute la terre.
 Un six de cœur ! deux points !
 
--*who_eraste
-      En quel lieu sommes-nous !
-De quelque part qu'on tourne, on ne voit que des fous.
-Ah ! que tu fais languir ma juste impatience.
 
-**** *book_ *id_II03 *act_II *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orante
 
--*who_montagne
-Monsieur, je n'ai pu faire une autre diligence.
-
--*who_eraste
-Mais me rapportes-tu quelque nouvelle enfin ?
-
--*who_montagne
-Sans doute ; et de l'objet qui fait votre destin,
-J'ai, par un ordre exprès, quelque chose à vous dire.
-
--*who_eraste
-Et quoi ? déjà mon cœur après ce mot soupire,
-Parle.
-
--*who_montagne
-      Souhaitez-vous de savoir ce que c'est ?
-
--*who_eraste
-Oui, dis vite.
-
--*who_montagne
-      Monsieur, attendez, s'il vous plaît.
-Je me suis, à courir, presque mis hors d'haleine.
-
--*who_eraste
-Prends-tu quelque plaisir à me tenir en peine ?
-
--*who_montagne
-Puisque vous désirez de savoir promptement
-L'ordre que j'ai reçu de cet objet charmant,
-Je vous dirai… Ma foi, sans vous vanter mon zèle,
-J'ai bien fait du chemin, pour trouver cette belle,
-Et si…
-
--*who_eraste
-      Peste soit fait de tes digressions.
-
--*who_montagne
-Ah ! il faut modérer un peu ses passions,
-Et Sénèque…
-
--*who_eraste
-      Sénèque est un sot dans ta bouche,
-Puisqu'il ne me dit rien de tout ce qui me touche.
-Dis-moi ton ordre, tôt.
-
--*who_montagne
-      Pour contenter vos vœux,
-Votre Orphise… Une bête est là dans vos cheveux.
-
--*who_eraste
-Laisse.
-
--*who_montagne
-      Cette beauté de sa part vous fait dire…
-
--*who_eraste
-Quoi !
-
--*who_montagne
-      Devinez.
-
--*who_eraste
-      Sais-tu que je ne veux pas rire ?
-
--*who_montagne
-Son ordre est qu'en ce lieu vous devez vous tenir,
-Assuré que dans peu vous l'y verrez venir,
-Lorsqu'elle aura quitté quelques provinciales,
-Aux personnes de Cour fâcheuses animales.
-
--*who_eraste
-Tenons-nous donc au lieu qu'elle a voulu choisir :
-Mais, puisque l'ordre ici m'offre quelque loisir,
-Laisse-moi méditer, j'ai dessein de lui faire
-Quelques vers, sur un air, où je la vois se plaire.
-
-**** *book_ *id_II04 *act_II *date_1661 *creator_moliere
-
--*who_orante
 Tout le monde sera de mon opinion.
 
--*who_climene
-Croyez-vous l'emporter par obstination ?
-
--*who_orante
 Je pense mes raisons meilleures que les vôtres.
 
--*who_climene
-Je voudrais qu'on ouît les unes et les autres.
-
--*who_orante
 J'avise un homme ici qui n'est pas ignorant ;
 Il pourra nous juger sur notre différend.
 Marquis, de grâce, un mot : Souffrez qu'on vous appelle,
@@ -668,64 +731,26 @@ Pour être, entre nous deux, juge d'une querelle,
 D'un débat, qu'ont ému nos divers sentiments,
 Sur ce qui peut marquer les plus parfaits Amants.
 
--*who_eraste
-C'est une question à vider difficile,
-Et vous devez chercher un Juge plus habile.
-
--*who_orante
 Non : vous nous dites là d'inutiles chansons :
 Votre esprit fait du bruit, et nous vous connaissons ;
 Nous savons que chacun vous donne à juste titre…
 
--*who_eraste
-Hé de grâce…
-
--*who_orante
       En un mot vous serez notre arbitre,
 Et ce sont deux moments qu'il vous faut nous donner.
 
--*who_climene
-Vous retenez ici qui vous doit condamner :
-Car enfin, s'il est vrai ce que j'en ose croire,
-Monsieur, à mes raisons, donnera la victoire.
-
--*who_eraste
-Que ne puis-je à mon traître inspirer le souci,
-D'inventer quelque chose à me tirer d'ici !
-
--*who_orante
 Pour moi, de son esprit j'ai trop bon témoignage,
 Pour craindre qu'il prononce à mon désavantage.
 Enfin ce grand débat qui s'allume entre nous,
 Est de savoir s'il faut qu'un Amant soit jaloux.
 
--*who_climene
-Ou, pour mieux expliquer ma pensée et la vôtre,
-Lequel doit plaire plus d'un jaloux ou d'un autre.
-
--*who_orante
 Pour moi, sans contredit, je suis pour le dernier.
 
--*who_climene
-Et dans mon sentiment je tiens pour le premier.
-
--*who_orante
 Je crois que notre cœur doit donner son suffrage,
 À qui fait éclater du respect davantage.
 
--*who_climene
-Et moi, que si nos vœux doivent paraître au jour,
-C'est pour celui qui fait éclater plus d'amour.
-
--*who_orante
 Oui, mais on voit l'ardeur dont une âme est saisie.
 Bien mieux dans le respect, que dans la jalousie.
 
--*who_climene
-Et c'est mon sentiment, que qui s'attache à nous,
-Nous aime d'autant plus, qu'il se montre jaloux.
-
--*who_orante
 Fi ne me parlez point, pour être Amants, Climène,
 De ces gens dont l'amour est fait comme la haine,
 Et, qui pour tous respects, et toute offre de vœux,
@@ -745,7 +770,36 @@ Et se font les tyrans de leurs propres vainqueurs.
 Moi je veux des Amants que le respect inspire ;
 Et leur soumission marque mieux notre empire.
 
--*who_climene
+Si pour vous plaire il faut beaucoup d'emportement,
+Je sais qui vous pourrait donner contentement ;
+Et je connais des gens dans Paris plus de quatre
+Qui, comme ils le font voir, aiment jusques à battre.
+
+Enfin, par votre arrêt vous devez déclarer,
+Celui de qui l'amour vous semble à préférer.
+
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climene
+
+Croyez-vous l'emporter par obstination ?
+
+Je voudrais qu'on ouît les unes et les autres.
+
+Vous retenez ici qui vous doit condamner :
+Car enfin, s'il est vrai ce que j'en ose croire,
+Monsieur, à mes raisons, donnera la victoire.
+
+Ou, pour mieux expliquer ma pensée et la vôtre,
+Lequel doit plaire plus d'un jaloux ou d'un autre.
+
+Et dans mon sentiment je tiens pour le premier.
+
+Et moi, que si nos vœux doivent paraître au jour,
+C'est pour celui qui fait éclater plus d'amour.
+
+Et c'est mon sentiment, que qui s'attache à nous,
+Nous aime d'autant plus, qu'il se montre jaloux.
+
 Fi ne me parlez point, pour être vrais Amants,
 De ces gens, qui pour nous n'ont nuls emportements ;
 De ces tièdes Galants, de qui les cœurs paisibles,
@@ -767,72 +821,21 @@ S'excuser de l'éclat qu'il a fait contre nous,
 Ses pleurs, son désespoir d'avoir pu nous déplaire,
 Est un charme à calmer toute notre colère.
 
--*who_orante
-Si pour vous plaire il faut beaucoup d'emportement,
-Je sais qui vous pourrait donner contentement ;
-Et je connais des gens dans Paris plus de quatre
-Qui, comme ils le font voir, aiment jusques à battre.
-
--*who_climene
 Si pour vous plaire il faut n'être jamais jaloux,
 Je sais certaines gens fort commodes pour vous ;
 Des hommes en amour d'une humeur si souffrante,
 Qu'ils vous verraient sans peine entre les bras de trente.
 
--*who_orante
-Enfin, par votre arrêt vous devez déclarer,
-Celui de qui l'amour vous semble à préférer.
-
--*who_eraste
-Puisqu'à moins d'un arrêt je ne m'en puis défaire,
-Toutes deux à la fois je vous veux satisfaire ;
-Et pour ne point blâmer ce qui plaît à vos yeux,
-Le jaloux aime plus, et l'autre aime bien mieux.
-
--*who_climene
 L'arrêt est plein d'esprit ; mais…
 
--*who_eraste
-      Suffit, j'en suis quitte.
-Après ce que j'ai dit, souffrez que je vous quitte.
 
-**** *book_ *id_II05 *act_II *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
--*who_eraste
-Que vous tardez, Madame, et que j'éprouve bien…
-
--*who_orphise
-Non, non, ne quittez pas un si doux entretien.
-À tort vous m'accusez d'être trop tard venue,
-Et vous avez de quoi vous passer de ma vue.
-
--*who_eraste
-Sans sujet contre moi voulez-vous vous aigrir,
-Et me reprochez-vous ce qu'on me fait souffrir ?
-Ha ! de grâce attendez…
-
--*who_orphise
-      Laissez-moi, je vous prie,
-Et courez vous rejoindre à votre compagnie.
-
--*who_eraste
-Ciel ! faut-il qu'aujourd'hui Fâcheuses, et Fâcheux,
-Conspirent à troubler les plus chers de mes vœux !
-Mais allons sur ses pas, malgré sa résistance,
-Et faisons à ses yeux briller notre innocence.
-
-**** *book_ *id_II06 *act_II *date_1661 *creator_moliere
-
--*who_dorante
 Ha Marquis que l'on voit de Fâcheux tous les jours,
 Venir de nos plaisirs interrompre le cours !
 Tu me vois enragé d'une assez belle chasse,
 Qu'un fat… C'est un récit qu'il faut que je te fasse.
 
--*who_eraste
-Je cherche ici quelqu'un, et ne puis m'arrêter.
-
--*who_dorante
 Parbleu chemin faisant je te le veux conter.
 Nous étions une troupe assez bien assortie,
 Qui pour courir un Cerf avions hier fait partie ;
@@ -869,10 +872,6 @@ Il vient à la Forêt. Nous lui donnons alors
 La vieille meute ; et moi, je prends en diligence
 Mon Cheval Alezan. Tu l'as vu ?
 
--*who_eraste
-      Non je pense.
-
--*who_dorante
 Comment ? C'est un Cheval aussi bon qu'il est beau,
 Et que ces jours passés j'achetai de Gaveau.
 Je te laisse à penser, si, sur cette matière,
@@ -940,66 +939,12 @@ Que j'ai donné des deux à mon cheval, de rage,
 Et m'en suis revenu chez moi toujours courant,
 Sans vouloir dire un mot à ce sot ignorant.
 
--*who_eraste
-Tu ne pouvais mieux faire, et ta prudence est rare :
-C'est ainsi des Fâcheux, qu'il faut qu'on se sépare ;
-Adieu.
-
--*who_dorante
       Quand tu voudras, nous irons quelque part,
 Où nous ne craindrons point de chasseur Campagnard.
 
--*who_eraste
-Fort bien. Je crois qu'enfin je perdrai patience.
-Cherchons à m'excuser avec diligence.
 
-**** *book_ *id_III01 *act_III *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caritides
 
--*who_eraste
-Il est vrai, d'un côté mes soins ont réussi :
-Cet adorable objet enfin s'est adouci :
-Mais d'un autre on m'accable, et les Astres sévères,
-Ont, contre mon amour, redoublé leurs colères.
-Oui Damis son tuteur, mon plus rude fâcheux,
-Tout de nouveau s'oppose aux plus doux de mes vœux,
-À son aimable nièce a défendu ma vue,
-Et veut, d'un autre Époux, la voir demain pourvue.
-Orphise toutefois, malgré son désaveu,
-Daigne accorder ce soir une grâce à mon feu ;
-Et j'ai fait consentir l'esprit de cette belle,
-À souffrir qu'en secret je la visse chez elle.
-L'amour aime surtout les secrètes faveurs ;
-Dans l'obstacle, qu'on force, il trouve des douceurs ;
-Et le moindre entretien de la beauté qu'on aime,
-Lorsqu'il est défendu, devient grâce suprême.
-Je vais au rendez-vous : c'en est l'heure, à peu près :
-Puis, je veux m'y trouver plutôt avant qu'après.
-
--*who_montagne
-Suivrai-je vos pas ?
-
--*who_eraste
-      Non, je craindrais que peut-être
-À quelques yeux suspects, tu me fisses connaître.
-
--*who_montagne
-Mais…
-
--*who_eraste
-      Je ne le veux pas.
-
--*who_montagne
-      Je dois suivre vos lois :
-Mais au moins si de loin…
-
--*who_eraste
-      Te tairas-tu, vingt fois ?
-Et ne veux-tu jamais quitter cette méthode,
-De te rendre, à toute heure, un valet incommode !
-
-**** *book_ *id_III02 *act_III *date_1661 *creator_moliere
-
--*who_caritides
 Monsieur, le temps répugne à l'honneur de vous voir.
 Le matin est plus propre à rendre un tel devoir :
 Mais de vous rencontrer il n'est pas bien facile ;
@@ -1009,26 +954,13 @@ Et j'ai, pour vous trouver, pris l'heure que voici.
 Encore est-ce un grand heur, dont le destin m'honore ;
 Car deux moments plus tard, je vous manquais encore.
 
--*who_eraste
-Monsieur, souhaitez-vous quelque chose de moi ?
-
--*who_caritides
 Je m'acquitte, Monsieur, de ce que je vous dois ;
 Et vous viens… Excusez l'audace, qui m'inspire,
 Si…
 
--*who_eraste
-      Sans tant de façons, qu'avez-vous à me dire ?
-
--*who_caritides
 Comme le rang, l'esprit, la générosité,
 Que chacun vante en vous…
 
--*who_eraste
-      Oui je suis fort vanté,
-Passons, Monsieur.
-
--*who_caritides
       Monsieur, c'est une peine extrême,
 Lorsqu'il faut à quelqu'un se produire soi-même,
 Et toujours, près des Grands, on doit être introduit,
@@ -1038,11 +970,6 @@ Ce qui peut faire voir notre petit mérite :
 Enfin j'aurais voulu que des gens bien instruits,
 Vous eussent pu, Monsieur, dire ce que je suis.
 
--*who_eraste
-Je vois assez, Monsieur, ce que vous pouvez être,
-Et votre seul abord le peut faire connaître.
-
--*who_caritides
 Oui je suis un savant charmé de vos vertus.
 Non pas de ces savants, dont le nom n'est qu'en us :
 Il n'est rien si commun, qu'un nom à la Latine.
@@ -1050,28 +977,16 @@ Ceux qu'on habille en Grec ont bien meilleure mine ;
 Et pour en avoir un qui se termine en ès,
 Je me fais appeler Monsieur Caritidès.
 
--*who_eraste
-Monsieur Caritidès soit. Qu'avez-vous à dire ?
-
--*who_caritides
 C'est un placet, Monsieur, que je voudrais vous lire ;
 Et que dans la posture, où vous met votre emploi,
 J'ose vous conjurer de présenter au Roi.
 
--*who_eraste
-Hé ! Monsieur, vous pouvez le présenter vous-même.
-
--*who_caritides
 Il est vrai que le Roi fait cette grâce extrême ;
 Mais par ce même excès de ses rares bontés,
 Tant de méchants placets, Monsieur, sont présentés,
 Qu'ils étouffent les bons, et l'espoir où je fonde,
 Est qu'on donne le mien, quand le Prince est sans monde.
 
--*who_eraste
-Eh bien vous le pouvez, et prendre votre temps.
-
--*who_caritides
 Ah Monsieur ! les Huissiers sont de terribles gens,
 Ils traitent les Savants de faquins à nasardes ;
 Et je n'en puis venir qu'à la salle des Gardes.
@@ -1081,39 +996,14 @@ Si je n'avais conçu l'espérance certaine,
 Qu'auprès de notre Roi vous serez mon Mécène.
 Oui, votre crédit m'est un moyen assuré…
 
--*who_eraste
-Eh bien donnez-moi donc, je le présenterai.
-
--*who_caritides
 Le voici ; mais au moins oyez-en la lecture.
 
--*who_eraste
-Non…
-
--*who_caritides
       C'est pour être instruit : Monsieur, je vous conjure.
 
-SIRE,
-
-Votre très humble, très obéissant, très fidèle, et très savant sujet et serviteur Caritidès, Français de nation, Grec de profession ; Ayant considéré les grands et notables abus, qui se commettent aux inscriptions des enseignes des Maisons, Boutiques, Cabarets, Jeux de Boule, et autres lieux de votre bonne Ville de Paris ; en ce que certains ignorants compositeurs desdites inscriptions, renversent, par une barbare, pernicieuse et détestable orthographe toute sorte de sens et raison, sans aucun égard d'Étymologie, Analogie, Énergie, ni Allégorie quelconque ; au grand scandale de la République des Lettres, et de la nation Française, qui se décrie et déshonore par lesdits abus et fautes grossières, envers les Étrangers, et notamment envers les Allemands, curieux lecteurs, et inspectateurs desdites inscriptions.
-
--*who_eraste
-Ce Placet est fort long et pourrait bien fâcher…
-
--*who_caritides
 Ah ! Monsieur pas un mot ne s'en peut retrancher.
 
--*who_eraste
-Achevez promptement.
-
--*who_caritides
 Supplie humblement Votre Majesté de créer, pour le bien de son État, et la gloire de son Empire, une Charge de Contrôleur, Intendant, Correcteur, Réviseur, et Restaurateur général desdites inscriptions ; et d'icelle honorer le suppliant, tant en considération de son rare et éminent savoir, que des grands et signalés services qu'il a rendus à l'État, et à Votre Majesté, en faisant l'Anagramme de votre dite Majesté en Français, Latin, Grec, Hébreu, Syriaque, Chaldéen, Arabe…
 
--*who_eraste
-      Fort bien : donnez-le vite, et faites la retraite :
-Il sera vu du Roi ; c'est une affaire faite.
-
--*who_caritides
 Hélas ! Monsieur, c'est tout que montrer mon placet.
 Si le Roi le peut voir, je suis sûr de mon fait :
 Car comme sa justice en toute chose est grande,
@@ -1123,21 +1013,12 @@ Donnez-moi par écrit votre nom, et surnom,
 J'en veux faire un poème, en forme d'acrostiche,
 Dans les deux bouts un Vers, et dans chaque hémistiche.
 
--*who_eraste
-Oui, vous l'aurez demain, Monsieur Caritidès.
-Ma foi de tels savants sont des ânes bien faits.
-J'aurais dans d'autres temps bien ri de sa sottise…
 
-**** *book_ *id_III03 *act_III *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
 
--*who_ormin
 Bien qu'une grande affaire en ce lieu me conduise,
 J'ai voulu qu'il sortît, avant que vous parler.
 
--*who_eraste
-Fort bien, mais dépêchons, car je veux m'en aller.
-
--*who_ormin
 Je me doute à peu près que l'homme qui vous quitte
 Vous a fort ennuyé, Monsieur, par sa visite.
 C'est un vieux importun, qui n'a pas l'esprit sain,
@@ -1149,13 +1030,6 @@ De tous ces savantas, qui ne sont bons à rien.
 Pour moi je ne crains pas, que je vous importune,
 Puisque je viens, Monsieur, faire votre fortune.
 
--*who_eraste
-Voici quelque souffleur, de ces gens qui n'ont rien ;
-Et vous viennent toujours promettre tant de bien.
-Vous avez fait, Monsieur, cette bénite pierre,
-Qui peut, seule, enrichir tous les Rois de la terre ?
-
--*who_ormin
 La plaisante pensée, hélas, où vous voilà !
 Dieu me garde, Monsieur, d'être de ces fous-là.
 Je ne me repais point de visions frivoles,
@@ -1174,27 +1048,15 @@ Enfin c'est un avis d'un gain inconcevable,
 Et que du premier mot on trouvera faisable.
 Oui, pourvu que par vous je puisse être poussé…
 
--*who_eraste
-Soit, nous en parlerons, je suis un peu pressé.
-
--*who_ormin
 Si vous me promettiez de garder le silence,
 Je vous découvrirais cet avis d'importance.
 
--*who_eraste
-Non, non, je ne veux point savoir votre secret.
-
--*who_ormin
 Monsieur, pour le trahir, je vous crois trop discret,
 Et veux, avec franchise, en deux mots vous l'apprendre.
 Il faut voir si quelqu'un ne peut point nous entendre.
 Cet avis merveilleux, dont je suis l'inventeur,
 Est que…
 
--*who_eraste
-      D'un peu plus loin, et pour cause, Monsieur.
-
--*who_ormin
 Vous voyez le grand gain, sans qu'il faille le dire,
 Que de ces ports de mer le Roi tous les ans tire.
 Or l'avis dont encor nul ne s'est avisé,
@@ -1203,138 +1065,57 @@ En fameux ports de mer, mettre toutes les côtes.
 Ce serait pour monter à des sommes très hautes,
 Et si…
 
--*who_eraste
-      L'avis est bon, et plaira fort au Roi.
-Adieu, nous nous verrons.
-
--*who_ormin
       Au moins appuyez-moi,
 Pour en avoir ouvert les premières paroles.
 
--*who_eraste
-Oui, oui.
-
--*who_ormin
       Si vous vouliez me prêter deux pistoles,
 Que vous reprendriez sur le droit de l'avis,
 Monsieur…
 
--*who_eraste
-      Oui, volontiers. Plût à Dieu qu'à ce prix,
-De tous les Importuns je pusse me voir quitte !
-Voyez quel contretemps prend ici leur visite !
-Je pense qu'à la fin je pourrai bien sortir.
-Viendra-t-il point quelqu'un encor me divertir ?
 
-**** *book_ *id_III04 *act_III *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filinte
 
--*who_filinte
 Marquis, je viens d'apprendre une étrange nouvelle.
 
--*who_eraste
-Quoi ?
-
--*who_filinte
       Qu'un homme, tantôt, t'a fait une querelle.
 
--*who_eraste
-À moi ?
-
--*who_filinte
       Que te sert-il de le dissimuler ?
 Je sais de bonne part qu'on t'a fait appeler ;
 Et comme ton ami, quoi qu'il en réussisse,
 Je te viens, contre tous, faire offre de service.
 
--*who_eraste
-Je te suis obligé ; mais crois que tu me fais…
-
--*who_filinte
 Tu ne l'avoueras pas, mais tu sors sans valets :
 Demeure dans la ville, ou gagne la campagne,
 Tu n'iras nulle part que je ne t'accompagne.
 
--*who_eraste
-Ah j'enrage.
-
--*who_filinte
       À quoi bon de te cacher de moi ?
 
--*who_eraste
-Je te jure, Marquis, qu'on s'est moqué de toi.
-
--*who_filinte
 En vain tu t'en défends.
 
--*who_eraste
-      Que le Ciel me foudroie.
-Si d'aucun démêlé…
-
--*who_filinte
       Tu penses qu'on te croie ?
 
--*who_eraste
-Eh mon Dieu ! je te dis, et ne déguise point,
-Que…
-
--*who_filinte
       Ne me crois pas dupe, et crédule à ce point.
 
--*who_eraste
-Veux-tu m'obliger ?
-
--*who_filinte
       Non.
 
--*who_eraste
-      Laisse-moi, je te prie.
-
--*who_filinte
 Point d'affaire, Marquis.
 
--*who_eraste
-      Une galanterie,
-En certain lieu, ce soir…
-
--*who_filinte
       Je ne te quitte pas :
 En quel lieu que ce soit, je veux suivre tes pas.
 
--*who_eraste
-Parbleu, puisque tu veux que j'aie une querelle,
-Je consens à l'avoir pour contenter ton zèle :
-Ce sera contre toi qui me fais enrager,
-Et dont je ne me puis par douceur dégager.
-
--*who_filinte
 C'est fort mal d'un ami recevoir le service :
 Mais, puisque je vous rends un si mauvais office,
 Adieu, videz sans moi tout ce que vous aurez.
 
--*who_eraste
-Vous serez mon ami quand vous me quitterez.
-Mais voyez quels malheurs suivent ma destinée !
-Ils m'auront fait passer l'heure qu'on m'a donnée.
 
-**** *book_ *id_III05 *act_III *date_1661 *creator_moliere
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
--*who_damis
 Quoi, malgré moi, le traître espère l'obtenir ?
 Ah ! mon juste courroux le saura prévenir.
 
--*who_eraste
-J'entrevois là quelqu'un sur la porte d'Orphise.
-Quoi toujours quelque obstacle aux feux qu'elle autorise !
-
--*who_damis
 Oui, j'ai su que ma Nièce, en dépit de mes soins,
 Doit voir ce soir chez elle Éraste sans témoins.
 
--*who_riviere
-Qu'entends-je à ces gens-là dire de notre Maître ?
-Approchons doucement, sans nous faire connaître.
-
--*who_damis
 Mais avant qu'il ait lieu d'achever son dessein,
 Il faut, de mille coups, percer son traître sein.
 Va-t-en faire venir ceux que je viens de dire,
@@ -1344,33 +1125,13 @@ Mon honneur, que ses feux ont l'orgueil d'outrager ;
 À rompre un rendez-vous, qui dans ce lieu l'appelle,
 Et noyer dans son sang sa flamme criminelle.
 
--*who_riviere
-Avant qu'à tes fureurs on puisse l'immoler,
-Traître tu trouveras en nous à qui parler.
-
--*who_eraste
-Bien qu'il m'ait voulu perdre, un point d'honneur me presse
-De secourir ici l'oncle de ma Maîtresse.
-Je suis à vous, Monsieur.
-
--*who_damis
       Ô Ciel, par quel secours,
 D'un trépas assuré vois-je sauver mes jours !
 À qui suis-je obligé d'un si rare service ?
 
--*who_eraste
-Je n'ai fait, vous servant, qu'un acte de justice.
-
--*who_damis
 Ciel ! puis-je à mon oreille ajouter quelque foi ?
 Est-ce la main d'Éraste…
 
--*who_eraste
-      Oui, oui, Monsieur, c'est moi.
-Trop heureux, que ma main vous ait tiré de peine,
-Trop malheureux d'avoir mérité votre haine.
-
--*who_damis
 Quoi celui, dont j'avais résolu le trépas,
 Est celui, qui, pour moi, vient d'employer son bras ?
 Ah ! c'en est trop, mon cœur est contraint de se rendre ;
@@ -1382,37 +1143,12 @@ Ma haine, trop longtemps, vous a fait injustice ;
 Et pour la condamner par un éclat fameux,
 Je vous joins, dès ce soir, à l'objet de vos vœux.
 
-**** *book_ *id_III06 *act_III *date_1661 *creator_moliere
-
--*who_orphise
-Monsieur, quelle aventure a d'un trouble effroyable…
-
--*who_damis
 Ma Nièce elle n'a rien que de très agréable,
 Puisque après tant de vœux que j'ai blâmés en vous,
 C'est elle qui vous donne Éraste pour Époux.
 Son bras a repoussé le trépas, que j'évite ;
 Et je veux, envers lui, que votre main m'acquitte.
 
--*who_orphise
-Si c'est pour lui payer ce que vous lui devez,
-J'y consens, devant tout, aux jours qu'il a sauvés.
-
--*who_eraste
-Mon cœur est si surpris d'une telle merveille,
-Qu'en ce ravissement, je doute, si je veille.
-
--*who_damis
 Célébrons l'heureux sort, dont vous allez jouir ;
 Et que nos violons viennent nous réjouir.
 
--*who_eraste
-Qui frappe là si fort.
-
--*who_epine
-      Monsieur ce sont des Masques,
-Qui portent des crin-crins, et des tambours de Basques.
-
--*who_eraste
-Quoi toujours des Fâcheux, holà Suisses, ici,
-Qu'on me fasse sortir ces gredins que voici.

@@ -1,6 +1,6 @@
 ---
 identifier: pugetdelaserre_martyredesaintecatherine  
-creator: Puget de La Serre, Jean  
+creator: Puget de La Serre, Jean ; Georges Forestier.  
 date: 1643  
 title: Le Martyre de sainte Catherine. Tragédie en prose  
 ---

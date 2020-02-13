@@ -1,295 +1,7 @@
 
 
-**** *book_ *id_epitre *date_1650 *creator_brosse
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cleanthe
 
-A MONSEIGNEUR
-
-MONSEIGNEUR
-
-LE COMTE
-
-DU DAUGNION,
-
-LIEUTENANT GENERAL
-
-Pour le Roy aux Villes & Gouvernemens de Broüage, La Rochelle, Païs d'Aulnis, Isles & Citadelles d'Olleron & de Ré.
-Seul Lieutenant General des Armées Navales de sa Majesté, & Intendant general de la Marine, Navigation & Commerce de France.
-
-MONSEIGNEUR,
-
-Je serois plus Aveugle que celuy que je vous présente, si m'estant proposé de le faire passer pour Clair-voyant : J'empruntois d'autre que de vous de l'esclat, du jour, & des lumieres.
-Comme je ne croy pas que cette production soit assez puissante pour se soutenir d'elle-mesme, je n'estime pas aussi qu'elle ait si peu de force qu'elle ne puisse entreprendre un voyage de cent lieuës, pour rencontrer où vous estes un Protecteur & un Appuy.
-Quelques vers que je vous ay desja presentez s'estans trouvez à vostre goust, je ne me persuade pas qu'une composition d'un stile de pareille nature vous doive estre desagreable.
-L'Illustre Comte du Daugnion fait tousjours mesme accueil aux choses qui se ressemblent & qu'on luy offre avec mesme affection ; son obligeante humeur ne se dément jamais, non plus que son courage.
-A ce mot,  MONSEIGNEUR, commandez moy de me taire, si vous ne voulez entendre des veritez : Vous possedez parfaitement cette grandeur d'Ame & cette heroïque vertu⁎ qui apprend aux hommes à mespriser le danger, la mort & la fortune⁎.
-C'est par ce glorieux oubly de vous mesme que vous avez si souvent donné de la terreur aux ennemis de cét Estat ; c'est par ce noble mespris de la Vie, qu'on vous a pris en tant de meslées pour le Dieu des combats, & qu'un mesme trouble ayant osté la conduitte aux Chefs, & la resolution aux Soldats, il n'est jamais demeuré personne qui osast tourner visage, pour s'assurer si c'estoit un homme qui les faisoit fuïr.
-Mais à vous figurer par d'autres traits⁎ & pour arriver par degrez au rang que vous tenez aujourd'huy : Si l'on considere vostre Naissance, vous avez avec avantage cette vertu naturelle qui suit le sang, & que nous appelons Noblesse.
-Si l'on regarde vostre Fortune⁎, elle est grande, & telle qu'estant moindre elle seroit au-dessous de ce que vous meritez.
-Si l'on veut connaistre vostre Esprit, il en éblouït beaucoup d'autres de ses lumieres ; si l'on jette les yeux sur vostre Jugement, les évenemens ne le surprenent jamais : si l'on s'informe enfin de vos Employs, ils sont importans.
-Le plus souverain des Monarques qui vous reconnaist pour l'un des plus Illustres sujets de sa Couronne, & peut-estre pour le plus fidelle depositaire d'une partie de sa Puissance, ne vous occupe à rien que de considerable & de glorieux, où tousjours par des actions qui vont jusqu'au prodige, vous soutenez contre toutes sortes de rebelles & de factieux l'Authorité de ce Maistre qui peut tout.
-Quelque chose que j'aye pû dire, MONSEIGNEUR, il m'en reste à dire davantage, mais comme la Peinture n'a point trouvé jusqu'icy de traits pour bien representer la lumiere, l'Eloquence n'a point inventé de termes pour dignement loüer la vertu⁎ ; J'achéve donc par une impuissance de poursuivre, & par la crainte de vous fascher⁎ par où je satisferois tout le monde, permettez-moy seulement encor un mot, pour vous assurer que je prise plus que toute ma vie le peu de temps que j'ay eu l'honneur d'estre auprés de vous, & pour vous supplier de croire que je suis par naturelle inclination, & par le souvenir de vos biensfaits,
-
-MONSEIGNEUR,
-
-Vostre tres-humble, tres-obeissant
-
-& tres-obligé⁎serviteur⁎, BROSSE.
-
-**** *book_ *id_I01 *act_I *date_1650 *creator_brosse
-
--*who_nerine
-Quoy ma discretion vous est-elle suspecte ?
-Ignorez-vous encor combien je vous respecte ?
-
--*who_olimpe
-Non, apprends d'un recit veritable & succinct
-La nature du mal dont mon cœur est atteint,
-Tu sçais que le Soleil depuis que je fus véve
-N'avoit à ses travaux⁎ que vingt fois donné tréve,
-Quand Cleanthe échauffé d'un feu sombre & mourant
-Que mes yeux n'avoient pû bien esteindre en pleurant
-Vint me faire visite, & d'un adroit langage
-Exagera les soins qu'enfante un long veuvage,
-Tu sçais encor comment d'un discours medité
-Il me galantisa⁎ sur mon peu de beauté.
-Et puis comme achevant ce compliment frivole
-Un soupir preparé lui coupa la parole.
-
--*who_nerine
-Vous pristes du plaisir à l'entendre, à le voir,
-Vostre esprit & vos sens vindrent à s'esmouvoir,
-Vous l'aimates enfin !
-
--*who_olimpe
-      Oüy, d'un aveu⁎ tacite
-J'acceptay sa recherche ainsi que sa visite.
-
--*who_nerine
-On fit courir le bruit qu'hymen⁎ dans peu de jours
-Devoit de vos ardeurs authoriser le cours.
-
--*who_olimpe
-Cleanthe m'en pria, mais ma pudeur blessee
-Rejetta sa priere & blasma sa pensee.
-Les manes d'un mary gisant dans le tombeau
-D'un si prompt hymenée⁎ éteindroient le flambeau,
-Luy, dis-je, & leur dépit joinct au courroux celeste
-Rendroit nostre alliance & sterile & funeste,
-Je veux pendant un An demeurer dans le deüil
-Et de ma continence honorer son cercueil.
-Cleanthe à ce propos montra de la tristesse,
-Mais bien-tost sa raison se rendit la maitresse,
-Il loüa mon dessein, & convint avec moy
-Que l'honneur & l'amour m'imposoient cette loy.
-En ce temps cet Auguste & glorieux Monarque
-Qu'avec estonnement⁎ tout l'Univers remarque⁎,
-Pour se rendre justice & rentrer dans ses droits
-D'un siege bien formé pressoit les Dunquerquois,
-Cleanthe en attendant que j'essuirois mes larmes
-Se resolut d'aller paraitre sous les armes,
-De signaler⁎ son cœur⁎, de servir son païs,
-D'oster à l'Espagnol des Estats envahis
-Et croistre de son Roy l'illustre Renommee
-En ajoustant un bras au corps de son armee,
-Il partit sans demeure⁎, & dans fort peu de temps
-Dunquerque le compta parmi nos combattans.
-Mais helas dans le camp, soit par trop de fatigue,
-Ou soit que contre luy la fortune⁎ se ligue,
-Ses yeux auparavant si perçans & si clairs
-Sont d'un nuage obscur soudainement couverts,
-Ces naturels flambeaux demeurent sans lumiere,
-Sans rien perdre pourtant de leur beauté premiere,
-On diroit à les voir qu'ils lancent des rayons
-Qui des objets encor luy tracent les crayons⁎.
-
--*who_nerine
-Ce malheur arrivé depuis une ou deux Lunes
-Peut-il causer encor vos plaintes importunes ?
-
--*who_olimpe
-Non, ce trait⁎ qui du sort marque la cruauté
-Ne m'arracha des pleurs que dans sa nouveauté,
-Mais en ayant depuis interrompu la course
-Si tu m'en vois verser ils ont une autre source.
-
--*who_nerine
-Ce poinct est un secret qui ne m'est pas conu.
-
--*who_olimpe
-Je vay t'en informer d'un discours ingenu.
-Aussi-tost que je sceu l'Accident de Cleanthe
-Mon amoureuse ardeur devint un peu plus lente,
-Et mon cœur chancelant dedans sa passion
-Eut un malin⁎ degoust de son affliction,
-Je combatis d'abord cette ingrate inconstance,
-J'en voulus étouffer la premiere semence :
-Mais sur le poinct qu'alloit triompher ma vertu
-L'on donna du secours à ce vice abbatu.
-Lidamas heureux fils d'un deplorable⁎ pere
-Vint pour me consoler de son destin sevère,
-Il me vid, je le vis, il parla, j'escoutay,
-Mon œil incessamment sur luy fut arresté,
-Sa grace me parut à nulle autre semblable,
-Il fit un beau recit d'un sujet lamentable⁎,
-Enfin en Lidamas toute chose me plut,
-Et se rendit chez moy ce que son pere y fut.
-
--*who_nerine
-Cônut-il vôtre amour ?
-
--*who_olimpe
-      Malgré ma retenuë
-Dés sa conception elle luy fut cônuë,
-Ce cavalier⁎ adroit, prudent, ingenieux,
-Subtil, & bien instruit dans l'entretien des yeux,
-Penetrant par les miens au fond de ma pensee
-Y vid en traits de feu son image tracee ;
-Cet indice assuré qu'il estoit mon vainqueur,
-L'obligea de s'ouvrir en me montrant son cœur,
-Madame (me dit-il) le pouvoir de vos charmes⁎
-Ne m'a pas d'aujourd'huy fait mettre bas les armes,
-Depuis plus de six mois je suis dedans vos fers
-Et vos yeux sont les Rois & les Dieux que je sers,
-Mais d'un pere amoureux l'imperieuse flame
-M'imposoit de cacher la mienne dans mon ame.
-Je l'ay fait par respect jusques à ce moment
-Que je puis profiter de son aveuglement.
-Il finit, & mon cœur charmé⁎ de sa parole
-Se fit au mesme instant l'Autel de cet idole,
-Un regard languissant, un soupir estouffé
-Luy dirent doucement qu'il avoit triomphé.
-Lors certain de mes feux comme de sa victoire
-Il me dist qu'il falloit pour achever sa gloire⁎
-Que je vinsse dans Blois faire quelque sejour,
-Jusqu'à tant qu'on y vid son pere de retour,
-Je fus pour Lidamas à ce poinct complaisante,
-J'y vins & descendis au logis de Cleanthe,
-Où donnant à ma flame une honneste couleur
-Je feignis d'arriver pour visiter sa sœur.
-
--*who_nerine
-Jusqu'icy quel sujet avez-vous d'estre triste ?
-
--*who_olimpe
-Apprends de ce qui suit en quoy mon mal consiste.
-On attend le retour de Cleanthe aujourd'huy
-J'ay peur qu'il croye encor que je brûle pour luy
-Que ses yeux estans morts sa flame vive encore
-Que sa bouche me loüe, & que son cœur m'adore,
-Tu sçais que l'on void naistre un grand nombre de maux
-Quand le pere & le fils se rencontrent Rivaux.
-Voila le seul sujet ma fidelle Nerine,
-Du trouble qui me rend inquiette & chagrine⁎.
-
--*who_nerine
-Je ne puis presumer qu'en son aveuglement
-Cleanthe veüille encor passer pour vôtre Amant,
-Son fils au pis aller par de promptes adresses⁎
-Vous delivrera bien de ses froides caresses.
-
--*who_olimpe
-Nerine, tu dis vray, l'esprit de Lidamas…
-Mais c'est luy que je voy qui s'avance à grand pas.
-
-**** *book_ *id_I02 *act_I *date_1650 *creator_brosse
-
--*who_lidamas
-Mon pere est arrivé Madame, & sa paupiere
-Ne void plus les beautez qu'enfante la lumiere,
-Ce n'est pas que ses yeux ne paraissent fort beaux,
-Mais c'est sans l'éclairer que brillent ces flambeaux,
-Par le malin⁎ effet d'une cause cachee,
-Leur action est morte, ou du moins empeschee,
-Dedans ce triste estat je ne puis concevoir
-Qu'il donne de l'amour ny puisse en recevoir.
-
--*who_olimpe
-Mais ne peut-il pas bien ayant perdu la veuë
-Conserver une amour auparavant receuë.
-
--*who_lidamas
-En vain auprez de vous je veux dissimuler,
-Mon pere brusle encor, & veut encor brusler,
-On l'avoit du carosse à peine mis à terre
-Qu'oubliant le malheur que luy cause la guerre,
-Lidamas, m'a-t'il dit, en me parlant de vous,
-Les Astres envers elle ont-ils esté plus doux ?
-N'a-t'elle point du sort senty la perfidie,
-Ou les aspres accez de quelque maladie ?
-
--*who_olimpe
-Il n'en faut plus douter, il est encor atteint,
-Le feu que j'allumay n'est pas prest d'estre esteint,
-Ce peu que j'ay d'attraits sensiblement le touche,
-On n'est pas loin du cœur quand on est dans la bouche.
-
--*who_lidamas
-A l'instant que ses soins⁎ se declarent pour vous
-Je juge qu'il n'est pas bien guéry de vos coups⁎,
-Doncques d'une voix triste, Olimpe, mon cher pere,
-N'est plus, luy dis-je lors, en estat de vous plaire,
-De ce charmant⁎ objet⁎ les traits imperieux,
-S'ils furent le plaisir sont la peine des yeux,
-Cette rare beauté d'un chacun regardee
-N'est plus qu'un Estre feint, existant en idee,
-Un tragique accident, un rigoureux destin,
-A de tous ses appas⁎ fait un triste butin.
-Là par le prompt secours d'une adréte imposture⁎
-Au gré de mon desir je forme une Aventure,
-Et tâche ainsi d'esteindre en vous defigurant
-Un feu qui me perdroit s'il devenoit plus grand.
-
--*who_olimpe
-L'artifice⁎ est subtil, mais il n'est pas croyable
-Qu'il soit à nos desseins bien long-temps favorable,
-Vous verrez dedans peu Cleanthe detrompé
-Tant de vos vains discours soit-il préocupé ;
-Je veux qu'estant aveugle il ne puisse conaître
-Qu'au bal, sans me masquer, je puis encor paraître,
-Je veux que vôtre sœur ayde à nostre projet,
-Je crains pourtant tousjours avec juste sujet.
-Le valet qui par tout marche avec vôtre pere,
-Luy qu'on peut appeller le flambeau qui l'esclaire,
-L'Ange qui le conduit, l'Argus industrieux
-Qui veille pour sa garde, & luy preste ses yeux,
-N'est pas dans le renom d'estre si peu fidele
-Que sçachant nostre ruse il l'endure & la cele⁎,
-Cleanthe par ses yeux verra tout nostre jeu,
-Il conaitra ma flame, & sçaura vostre feu,
-Il se rendra certain de ma prompte inconstance,
-Il apprendra d'un fils le peu de reverence,
-Il fera nos desseins tout d'un coup eschoüer,
-Et peut-estre joüera⁎ qui le croira joüer⁎.
-
--*who_lidamas
-Cette crainte est, Madame, une pure chimere,
-Je dispose à mon gré du valet de mon pere,
-Cet Argus est gagné, ses yeux sont ébloüys,
-Et j'ay sçeu l'endormir au son de mes Loüis.
-Donc sans vous allarmer d'une crainte si vaine,
-Attendez une issue agréable & certaine,
-Et quoy que mon rival ait à venir icy
-N'ayez à son abord⁎ ny crainte ny soucy⁎.
-Ne luy pouvant long-temps cacher vostre venuë,
-Mon ame sur ce poinct s'est fait voir toute nuë,
-Mais j'ay dit pour tromper cet aveugle amoureux
-Que vous n'estiez icy que d'un jour ou de deux,
-Encor dans le dessein de rendre une visite
-Dont la coustume veut que vous demeuriez quitte.
-
--*who_olimpe
-Mais encor dites-moy, si Cleanthe abusé
-M'oblige à raconter mon malheur supposé⁎,
-Comment ne sçachant pas cet accident frivole⁎
-Pourray-je avec la vostre accorder ma parole ?
-
--*who_lidamas
-Je l'apperçois, passons dans cet appartement,
-Je vous en apprendray l'histoire en un moment.
-
-**** *book_ *id_I03 *act_I *date_1650 *creator_brosse
-
--*who_cleanthe
 Quoy contre mon vouloir & contre ma defense
 Admettre en ma maison, Thelame en mon absence ?
 Fomenter si long-temps une inclination
@@ -299,30 +11,10 @@ Entretenir l'espoir & souffrir la visite ?
 Ha Melice, est-ce là le respect qui m'est deu ?
 Et vostre jugement ne s'est-il pas perdu ?
 
--*who_melice
-Ceux qui de ce rapport⁎ m'ont vers vous desservie,
-Sont portez contre moy de depit ou d'envie,
-Depuis que pour Dunkerque on vous vid quitter Blois.
-Thelame n'est ceans venu pas une fois,
-Qui peut s'emanciper⁎ de dire le contraire
-Fait à la verité…
-
--*who_cleanthe
       Respectez vostre pere ;
 Ceux qui m'ont rapporté vos traits⁎ licentieux
 Cherissent vostre honneur, loin d'en estre envieux.
 
--*who_melice
-Et bien pour ne vous pas en ce poinct contredire,
-Apres l'avoir souffert, croyez que j'en soupire,
-Non pas du repentir d'avoir receu ses vœux,
-Mais bien du doux plaisir que me causent ses feux,
-En suis-je pour cela moins loüable qu'une autre ?
-Sa maison en honneur cede-t'elle à la nostre ?
-Que s'il hérite peu de ses Ancestres morts,
-N'a-t'il pas des vertus qui sont les vrais tresors ?
-
--*who_cleanthe
 Taisez-vous indiscrette⁎, insolente, effrontee,
 Ma bonté cede enfin, vous l'avez surmontee⁎,
 Allez, retirez-vous, & ne me parlez plus
@@ -332,47 +24,19 @@ Mais son peu de fortune en efface le lustre.
 Il est tres-riche en biens de l'esprit & du corps,
 Mais on fait maigre chere avecque ces tresors .
 
-**** *book_ *id_I04 *act_I *date_1650 *creator_brosse
-
--*who_cleanthe
 Sylvestre, si pour moy ton devoir ne sommeille
 Dy-moy ce que mon fils t'a tant dit à l'oreille,
 Sans qu'il m'ait soupçonné d'un feint aveuglement
 J'ay veu qu'il te parloit avec empressement.
 
--*who_sylvestre
-Quand je vous obeïs, je suis dedans mon centre,
-Si je ments d'un seul mot battez-moy dos & ventre,
-Quoy que pauvre garçon, je suis homme de bien,
-Et pour vous le montrer, il m'a dit, ne dy rien.
-
--*who_cleanthe
 Sylvestre continuë, & parle sans reserve.
 
--*who_sylvestre
-S'il a rien dit de plus, jamais je ne vous serve.
-Toutefois…
-
--*who_cleanthe
       Cher Sylvestre acheve jusqu'au bout.
 
--*who_sylvestre
-M'ayant dit, ne dy rien ; il ajouste, & voy tout,
-Et sa langue n'a pas prononcé ces paroles
-Qu'il me fait dans la main couler quelques pistoles.
-
--*who_cleanthe
 Lidamas t'aura dit quelqu'autre chose encor
 Que tu me veux celer⁎ en faveur de son Or.
 Mais poursuis.
 
--*who_sylvestre
-      Si ma dague estoit bien émouluë
-J'ouvrirois à vos yeux ma poitrine veluë.
-C'est tout, ou jamais Vin n'entre dedans mon corps,
-Et cela c'est vouloir passer au rang des morts.
-
--*who_cleanthe
 Sylvestre je te croy. Fils insolent & lâche
 Ton crime se produit quand tu veux qu'on le cache :
 Ne dy rien. Ces trois mots m'apprennent clairement
@@ -384,24 +48,8 @@ Bannit de toy la fourbe⁎ & l'infidelité,
 Garde de declarer à ce fils temeraire
 Que je me plains d'un mal qui n'est qu'imaginaire.
 
--*who_sylvestre
-Je veux encor un coup, si je ne suis secret
-Ne boire à l'avenir, ny vin blanc ny clairet.
-O l'horrible serment ! j'en ay l'ame opilee.
-Me garde d'un tel mal la gresle & la gelee,
-Apres avoir lâché ce moult grand jurement⁎
-Me refuserez-vous un éclaircissement ?
-
--*who_cleanthe
 Touchant ?
 
--*who_sylvestre
-      Chose qui n'est d'autre que de vous sçeuë,
-D'où vient que vous feignez d'avoir perdu la veuë ?
-Pourquoy depuis six mois faire croire en ces lieux
-Que l'huile & le cotton ont manqué dans vos yeux ?
-
--*who_cleanthe
 Asseuré de ta foy⁎ comme de ton silence
 Je te veux honorer de cette confidence.
 A peine le Soleil avoit produit vingt jours
@@ -443,36 +91,13 @@ Par qui la vaine ardeur de ma fille Amoureuse,
 Et les brutaux desseins d'un fils lasche & pervers⁎
 Bien-tost & sans travail⁎ me seront découverts.
 
--*who_sylvestre
-Ma foy si dans le monde on trouve un plus fin homme,
-Je partiray demain pour l'aller dire à Rome.
-Au Diable en ce mestier vous feriez des deffis.
-
--*who_cleanthe
 Silence, Olimpe vient avecque ce bon fils.
 
-**** *book_ *id_I05 *act_I *date_1650 *creator_brosse
-
--*who_lidamas
-La part que prend Olimpe en vostre sort funeste
-L'ameine ici, Monsieur.
-
--*who_cleanthe
       Bonté rare & Celeste.
 
--*who_olimpe
-Quiconque sçait vos maux, & ne s'en peut fâcher⁎,
-Ne porte au lieu d'un cœur dans le sein qu'un rocher.
-
--*who_cleanthe
 Et qui void sans douleur vostre triste avanture
 Tout de roche en effect, n'est homme qu'en figure.
 
--*who_olimpe
-Mais qui ne la void pas, n'a nulle occasion
-D'estre atteint de douleur & de compassion.
-
--*who_cleanthe
 Un semblable discours s'addresse à moy, Madame,
 Mais sçachez que le corps n'agit point sur mon ame,
 Et que si la clarté s'est esteinte en mes yeux
@@ -484,17 +109,780 @@ Ils contemplent des biens meilleurs & plus constans,
 Ils voyent les vertus dont vous estes pourveuë,
 Et ma felicité consiste en cette veuë.
 
--*who_olimpe
-Vous sçavez donc, Monsieur, par quelle aversité
-Mes attraits ont fait place à la difformité ?
-
--*who_cleanthe
 Mon fils m'a raconté ce succez⁎ lamentable⁎,
 Mais faites m'en vous-mesme un recit veritable,
 Peignez cet accident de ses vives couleurs.
 Et que l'ayant oüy, je sente vos douleurs.
 
--*who_olimpe
+De ce fascheux recit soyez donc dispensee,
+Ne rendez point presente une peine passee,
+J'ay sceu de Lidamas en arrivant ici
+Comment un si beau jour vous a mal reüssi.
+Il m'a dit que de l'Air la patience usee
+Fit dans vostre carosse entrer une fusee,
+Dont la chaude vapeur aydant à son dessein
+Vous brusla le visage, & vous noircit le sein.
+
+Allez, Madame, allez, en vous seule je vis
+Et je vous vois encor de l'œil dont je vous veis.
+O d'une honneste femme indigne effronterie !
+O d'un fils impudent insigne fourberie !
+Allons, Sylvestre, allons & donnons plaisamment
+Une fin qui réponde à ce commencement.
+
+Sylvestre acquitte-toy du róle que tu jouës⁎.
+
+Estes-vous seule ici Melice ?
+
+La rencontre s'accorde avecques mon souhait,
+Je viens pour vous parler d'un serviteur⁎ parfait
+Qui tient emprisonné beaucoup d'or dans ses coffres,
+Et qui rempli d'Amour vous addresse ses offres,
+C'est Rustique l'Aisnay fils du vieux Parmenon.
+
+Allez, fille indiscrette⁎ & desobeissante,
+Le soin de vostre honneur n'est pas ce qui vous tente,
+Un Demon moins splendide est vostre possesseur,
+Thelame vous gouverne avec plus de douceur :
+Mais si vous ne sortez de ce desert Empire
+Mon courroux deviendra quelque chose de pire,
+Je vous en advertis.
+
+Ah ! c'est trop…
+
+Impertinent valet, qui t'oses ingerer
+De me donner conseil & de me censurer,
+Tu seras satisfait de ta belle harangue,
+Je vais ou t'estrangler, ou t'arracher la langue,
+Temeraire, indiscret⁎.
+
+      Insolent pédagogue !
+
+Apprends à l'avenir, valet maussade & traitre,
+A ne te plus mesler de censurer ton maitre.
+Et vous fille rebelle à tout ce que je veux
+Pour un nouvel Amant ayez de nouveaux feux,
+Esteignez pour jamais vostre ancienne flame,
+Et recevez des loix d'un autre que Thelame.
+
+C'en est trop endurer, ma patience eschape.
+
+Je ne sçay si je doy nommer sa passion
+Ou du nom de constance, ou d'obstination,
+Mais soit-elle constante, ou soit-elle obstinee,
+Ma seule volonté fera son hymenee⁎.
+Au reste tu m'as pleu dans ta naïveté⁎,
+Tu t'és de ton devoir dignement acquitté,
+Si tu poursuis tousjours j'augmenteray tes gages.
+
+Conduis moi vers Olimpe, & m'y fay reconnaitre
+Qu'aux experts en cet Art tu servirois de maitre.
+Tu sçauras en allant de mes ordres exprés
+Comment il faut mener mes intrigues secrets,
+Je t'instruiray du temps où ta naïve⁎ adresse⁎
+Pourra si tu le veux répondre à ta promesse.
+
+Madame…
+
+Quelque torrent d'ennuis⁎ qui roule dans mon ame
+J'entends tousjours parler mon devoir & ma flame,
+L'un & l'autre m'ont dict que je vinsse en ce lieu,
+J'y suis venu, Madame, accompagné d'un Dieu,
+Amour qui dans mon cœur en souverain preside
+M'a conduit par la main & m'a servi de guide,
+Luy seul jusques à vous a pris soin de mes pas
+Heureux en mon malheur s'il ne me quite pas.
+Mais plus heureux encor si le flambeau qu'il porte
+Vous faisoit voir combien ma passion est forte,
+Et si les traits⁎ ardents qui partent de sa main
+En vous frapant au cœur, vous enflammoient le sein.
+
+      Toubeau⁎, ce mais me tiendroit lieu d'injure,
+Je hay la flatterie, & je fuy l'imposture⁎,
+Vous ne devez jamais concevoir le soupçon
+Que ma bouche & mon cœur parlent d'autre façon.
+
+Vous vous figurez donc qu'une vaine peinture , 
+Qu'un foible & simple trait du pinceau de nature , 
+Qu'un amas concerté d'agreables couleurs,
+Qui redoute l'abord⁎ du froid & des chaleurs,
+Que des regards lascifs confondent⁎ d'ordinaire,
+Et qu'efface tousjours la crainte & la colere,
+Enfin qu'une inconstante & legere beauté
+Jusqu'icy dans vos fers ait mon cœur arresté,
+Je pourrois devenir à ce compte idolatre
+D'une image de pierre, ou de toile, ou de plastre,
+Oüy si je m'attachois à ces frivoles traits,
+Les femmes me plairoient bien moins que leurs portraits.
+Ah ! ne croyez donc pas que sur ces apparences
+Mon inclination fonde ses esperances,
+Je pese les vertus, & ces sacrez tresors
+Me plaisent plus cent fois que les charmes⁎ du corps.
+
+Madame, c'est assez, croyez que je vous vois,
+Ma memoire entretient & revére l'image
+Et de vostre merite & de vostre visage,
+De tout ce qu'en naissant les Cieux mirent en vous
+De divin, de charmant⁎, d'agreable & de doux,
+J'en suis encor épris, j'en ay l'ame enflamee,
+De pas un des mortels vous n'estes tant aimee,
+C'est peu de le montrer par des soins complaisans,
+Je vous en veux donner pour preuve des presens,
+C'est à quoy je m'oblige, & dont je seray quite
+Si vous me permettez encor une visite.
+
+Madame, ce discours est un refus honneste,
+Mais encor une fois je vous fais ma requeste,
+Agreez que tantost je vous revienne voir,
+Et que vous revoyant je fasse mon devoir.
+Enfin si vous m'aimez que vostre amour se montre,
+En daignant accepter de ma main une montre,
+Que de ce bien encor je vous sois obligé⁎,
+Promettez-le, Madame, & puis je prends congé.
+
+Que mon bon-heur est grand ! ce discours me confirme
+Qu'Olimpe considere encor Cleanthe infirme.
+Adieu, Madame, adieu, vous m'avez satisfait,
+Sylvestre allons.
+
+Trouveray-je à present ma fille dans Melice ?
+Ne ferme-t'elle plus l'oreille à son devoir ?
+Reconaist-t'elle enfin mon absolu pouvoir ?
+
+Ma fille un repentir si grand & si visible
+Aux transports⁎ de courroux me rend inaccessible,
+Je ne vous demandois que ce juste dédain
+D'un infertile amour conceu sans mon dessein,
+Je prejugeois tousjours malgré vos resistances,
+Que Thelame formoit de vaines esperances,
+Et que voulant avoir de plus riches liens
+Son merite en oubly, vous songeriez aux biens.
+Le succez⁎ est d'accord avecque mon attente,
+Ce noble incommodé n'a plus rien qui vous tente,
+Vous ne desirez plus d'en faire vostre espoux,
+Ses talens ne sont pas de bon alloy pour nous,
+Sa taille, sa parole, & son maintien aimable,
+S'ils remplissoient le lict, couvriroient mal la table.
+Celuy que je destine à vos pudiques⁎ vœux,
+A d'autre or que celuy qui jaunit les cheveux,
+Son pere tous les jours malgré nos longues guerres
+A cent coutres⁎ tranchants fait déchirer ses terres,
+Que s'il n'est pas issu d'Ayeux fort renommez,
+Il tient dans son buffet des Nobles enfermez,
+Au Temps où nous vivons ces qualitez sont rares
+Et doivent adoucir les cœurs les plus barbares⁎ ;
+Le vostre pourroit-il encor deliberer
+De s'y laisser fléchir, & de les adorer ?
+
+C'est ainsi que répond une fille bien née,
+Allez, je vous prédis un heureux hymenée⁎,
+Acceptant un espoux de ma main seulement,
+Le pire de vos jours coulera doucement .
+Que le vieux Parmenon aura de joye en l'ame
+Aussi-tost qu'il sçaura que son fils vous enflame,
+Et que le Ciel propice aux vœux que nous faisons
+D'un sacré nœud d'hymen⁎ unira nos maisons  ! 
+Il luy faut sans demeure⁎ addresser une lettre
+Qui l'assure d'un bien qu'il n'osoit se promettre,
+Prenez viste la plume, & couchez par escrit
+Une suite de mots qui me vient dans l'esprit.
+
+Mettez, Monsieur sçachez que ma fille veut bien …
+
+Quel secret important as-tu donc à m'apprendre ?
+
+De te perdre meschant, n'és-tu pas yvre ou fou ?
+
+Sylvestre de ma part espere toute chose.
+Mais sçachons si Melice a mis sa plume au poinct
+De peindre⁎ ma pensee, & de ne broüiller⁎ point.
+
+Tellement que Nerine a ravi ta franchise ?
+
+N'est-ce pas fait Melice ? ah Ciel quelle longueur.
+ 
+      Monsieur, sçachez que ma fille veut bien
+Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,
+Qu'il vienne promptement, & n'apprehende rien,
+Comme il plaist à Cleanthe, il agree à Melice.
+
+Il suffit de ces mots, pliez, & le dessus
+Soit au vieux Parmenon, prez de Tours, & rien plus.
+Bon Dieu que vous serez heureuse avec cet homme,
+On dort sur de l'Argent d'un agreable somme,
+Le duvet le plus mol n'a rien de doux au prix,
+Le bien est le repos des corps & des esprits,
+Mais cachetez le mot que vous venez d'escrire.
+
+Va querir un flambeau, mon fidelle valet.
+Vous prenez cette clef, ouvrez mon cabinet,
+Sans qu'il soit de besoin que je vous accompagne,
+Vous y rencontrerez de la cire d'Espagne.
+L'impudente se trompe en me pensant tromper,
+J'ay levé par deux fois la main pour la frapper,
+Mais voulant éprouver sa fourbe⁎ toute entiere
+J'ay retenu mon bras & contraint ma colere,
+Sans que les siens se soient deffiez de mes yeux
+J'ay veu de son écrit les traits pernicieux,
+Lors qu'elle me croyoit repaistre d'impostures⁎
+Je lisois mot à mot ses folles escritures,
+J'en sçay le contenu, mais pour les détester
+Je veux bien estant seul tout haut le réciter.
+Pour le vieux Parmenon, cette fille insensee
+A suivy son caprice, & non pas ma pensee.
+Monsieur ce mot d'escrit est pour vous avertir
+Que vostre fils n'est pas un party pour ma fille,
+Tout mon sang se revolte, & ne peut consentir
+Qu'une goute du vostre entre dans ma famille.
+
+La perfide ! ô Ciel qu'auroit-ce esté
+Si j'eusse eu tant soit peu plus de credulité ?
+Cette autre est de sa part addressee à Thelame
+Voyons les beaux projets que forme cette infame.
+Seul & doux espoir de mes yeux
+Puis que le desespoir vous bannit de ces lieux,
+Apprenez que je vous veux suivre ;    54
+Meditez mon enlevement,
+Comme sans vous je ne puis vivre
+J'y souscrit volontairement.
+Melice, vostre acquise & tres-fidelle Amante.
+
+Je rendray sans effect cette envie insolente.
+Mais la voicy qui vient, remettons ces escrits
+A l'endroit qu'ils estoient lors que je les ay pris,
+Et comme auparavant contrefaisant l'infirme
+Que sa fourbe⁎ à nos yeux jusqu'au bout se confirme.
+
+Donnez à cette lettre un ply juste & nouveau,
+Et puis de mon cachet imprimant la figure
+Contre les curieux armez cette escriture.
+Que je doy rendre au Ciel de graces & de vœux
+De vous trouver si soupple à tout ce que je veux !
+
+      O fille obeissante,
+Qu'un semblable propos me plaist & me contente,
+Allez, je n'ay pour l'heure aucun besoin de vous.
+
+Il m'est conu, Sylvestre, & je le rendray vain.
+Parlons de Lidamas, esperes-tu qu'il vienne ?
+
+Préparons le présent que j'ay promis de faire
+Au Soleil animé qui m'échauffe & m'éclaire,
+Et qui malgré la nuit de mon aveuglement
+Eslance ses rayons dans mon entendement,
+Je ne pouvois d'un don plus seant ny modeste
+Honnorer un visage autrefois tout celeste.
+Par beaucoup de rapports, une montre est un Ciel.
+Reglé dedans son cours, bien qu'artificiel,
+Plus benin que ce globe où sont cloüez les Astres,
+Sans y contribuer il marque nos desastres,
+Et si comme ce corps il ne fait pas le Temps
+Il en marque du moins l'espace & les instans.
+
+Sylvestre, approche, escoute, est-il l'heure d'aller
+Vers les yeux que j'adore & paraitre & brusler.
+
+Reçoy, mauvais censeur, homme plein d'insolence
+D'un plus grand chastiment un soufflet par avance.
+Olimpe pour ta veuë est un objet⁎ trop haut,
+Ce qu'elle a d'accomply te paroist un defaut.
+
+Si jamais…
+
+Ces façons de parler bouffonnes & fantasques
+T'attireront encor…
+
+Sylvestre qu'est-cecy, veux-tu m'abandonner ?
+
+Voy ma condition, & regarde la tienne.
+
+Parmy les mouvemens⁎ dont je me sens toucher
+Je ne sçay si je dois ou rire ou me fascher,
+Qu'en ce siecle de fer où le vice prospere
+L'on trouve peu d'enfans qui respectent leur pere,
+Et que j'espreuve bien en ma juste douleur
+Que n'en avoir jamais est un heureux malheur.
+Sylvestre poursuivons l'intrigue de la montre,
+Prouve encor ton esprit dedans cette rencontre⁎,
+Ne te relâche point.
+
+Apres que j'ay promis ma memoire me presse
+De faire succeder l'effet à ma promesse,
+C'est le premier motif qui me conduit icy,
+L'autre est d'y soupirer mon amoureux soucy⁎.
+
+Ah que vous vous donnez & me causez de peine,
+Sur moy plus que jamais vous estes souveraine,
+Ce que jamais vos yeux eurent de ravissant,
+Ce qu'ils eurent de doux, de noble & de puissant,
+Tout ce qu'Amour peignit sur vostre front d'yvoire ;
+Au moment que je parle est peint dans ma memoire,
+Je vous en apprendrois & l'empire & les coups⁎
+Si mes discours n'estoient écoutez que de vous.
+
+Qu'ils s'en aillent tous deux dans la chambre prochaine⁎.
+Madame faites-en un prompt commandement.
+
+Madame, je disois que tous les avantages
+Que vous eustes jamais sur les plus beaux visages,
+Que ces charmes⁎ divins dont je fus asservy
+Vivent dans mon idée, & que j'en suis ravy⁎,
+Encor que mon tourment surpasse toute chose
+J'en deviens idolastre ainsi que de sa cause,
+Et souhaite qu'hymen⁎ nous arreste tous deux
+Dans des liens tissus d'indissolubles nœuds.
+Si je n'avance rien dont vous soyez faschée⁎,
+Si mes soupirs ardents vous ont un peu touchée,
+Et si vous desirez de m'en rendre certain
+Que ce soit en prenant ce present de ma main.
+
+Ainsi vous m'obligez⁎ beaucoup plus mille fois
+Que si vous soumettiez tout le monde à mes lois.
+Je tiens cete faveur & glorieuse & chere,
+Que je baise la main qui me la vient de faire.
+
+      Quels transports⁎ ? ô Ciel je n'en puis plus.
+Encor un peu de temps, & j'expire dessus.
+Chaste albastre animé, belle main que je touche,
+Tu peux prendre mon cœur, il est dedans ma bouche.
+
+      Ah Madame, laissez,
+Je reçoy du plaisir plus que vous ne pensez.
+
+Rien qui ne peust beaucoup augmenter vostre gloire,
+Rien qui ne témoignast vostre inclination,
+Vostre rare merite & vostre affection.
+Mais je crains d'abuser de vostre patience,
+Et d'estre deplaisant à vostre complaisance,
+Remply de vos faveurs, je prends congé de vous,
+Adieu de mes pensers, objet⁎ cruel & doux.
+Sylvestre.
+
+      Rien qu'en estre conduit.
+
+Va, tu merites trop, cette adraite imposture⁎
+Me remet vers Olimpe en meilleure posture ;
+Elle est à Lidamas un coup⁎ triste & fatal
+Qui doit dans peu de temps changer son bien en mal,
+Rien n'excita jamais le dépit d'une femme
+A l'égal du mespris que l'on fait de sa flame,
+Et son courroux éclate avec juste sujet
+Quand qui la sert s'applique à quelqu'indigne objet⁎.
+Si Nerine t'a creu, je ne fay point de doute
+Qu'à cette heure à l'escart Olimpe ne l'escoute,
+Et que voyant ses feux si laschement trahis
+Elle ne foule aux pieds le présent de mon fils.
+
+Il est vray que sans moy, ce pauvre malheureux
+Auroit suby la loy d'un Arrest rigoureux,
+Il s'estoit declaré deserteur de Milice,
+Et le conseil de guerre en eust fait la Justice.
+Mais laissons ce discours, & ne ramenons point
+La memoire d'un acte où tant d'opprobre est joint
+Suffit que par mes soins je sauvay ce coupable.
+Revenons à Nerine, elle te plaist ?
+
+Elle sçait donc de toy mon feint aveuglement ?
+
+Ce discours est encor un trait de ton esprit.
+Mais qui dans cette sale a laissé cet escrit ?
+Donne-le-moy, Sylvestre, il faut voir ce qu'il porte,
+La plume de Thelame escrit de cette sorte,
+L'addresse⁎ est à Melice, ó Ciel ce suborneur
+Tend infailliblement un piege à son honneur.
+Madame j'ay leu vostre lettre
+Qui veut m'obliger à promettre
+De marquer mon depart par vostre enlevement,
+Je suis vostre sujet, mais je tiens pour maxime
+Que quand un Roy commande un crime
+On desobeit justement.
+Ce soir à la faveur de l'ombre
+Accompagné d'ennuis⁎ sans nombre,
+J'iray selon vostre ordre à dessein de vous voir,
+Mais au lieu de ceder à votre injuste envie
+A vos yeux je perdray la vie
+Ou vous suivrez vostre devoir.
+Thelame.
+
+      Transporté de tristesse & de joye
+Comme entre deux chemins mon esprit se fourvoye,
+Deux divers mouvemens⁎ me tirent devers eux,
+Et je doute lequel je doy suivre des deux.
+Mais c'est trop balancer, dissipons cette doute,
+Suivons la plus plaisante & la meilleure route,
+Et destournant les yeux d'une fille sans cœur⁎
+Envisageons celui qui sauve son honneur.
+Il doit bien-tost venir, car desja les estoiles
+Desployent parmi l'air leurs tenebreuses toiles,
+Je veux recompenser sa veritable amour,
+Et paraitre envers lui genereux⁎ à mon tour,
+Sa vertu m'a surpris, avant que le jour vienne
+Je le veux à l'envy surprendre par la mienne,
+Mon esprit occupé dans un dessein si beau
+M'en fournit un moyen agreable & nouveau.
+Esperez donc, Thelame, & n'ayez plus de crainte
+Que je choque⁎ l'ardeur dont vostre ame est atteinte,
+Je vous promets ma fille, & par dedans mes biens,
+Vous avez des tresors qui surpassent les miens.
+La voici cette fille, indigne de ma grace
+Rejettons ce papier, & luy cedons la place.
+
+Ma fille prenez part à la soudaine joye
+Dans qui mon cœur se plonge & mon ame se noye,
+J'ay pour l'heure un bon œil.
+
+Quel prophetique instinct, ou quel heureux augure
+Entretient vostre esprit dans cette conjecture ?
+
+Volontiers.
+
+Subtile invention, industrie⁎ agreable !
+
+      Vous avez fait un songe veritable
+Melice je vous voy, je voy Thelame aussi
+O Ciel ! qu'heureusement ce songe a reussy.
+
+      Brisez là. Je le sçay bien Thelame
+Les traits de vostre main, m'ont fait voir vostre cœur⁎
+Et passant jusqu'au mien ont tüé ma rigueur , 
+Plus touché de respect que cette ingratte fille
+Vous avez conservé l'honneur de ma famille.
+
+      Vostre discretion
+Vous fait desavoüer cette bonne action.
+Mais je suis esclaircy de toute cette histoire
+Vos nobles sentimens sont peints dans ma memoire.
+Vos molles lâchetez y sont peintes aussi,
+Mais s'il en faut parler, c'est autre part qu'icy.
+Cependant s'il est vray que vous l'aymiez encore
+Scachez que vos vertus font que je vous honore,
+Et qu'avecque plaisir je permets que demain
+Elle vous donne au Temple & le cœur & la main.
+
+Je conduiray l'affaire au gré de vostre envie,
+A la charge pourtant, que vous ne direz point
+Qu'à mon Aveuglement tant d'artifice⁎ est joinct,
+Je veux encor joüer⁎ par cette ruse adraitte
+Un temeraire fils, une Amante indiscrette⁎
+Sçavoir jusqu'à quel poinct leur fourbe⁎ peut aller,
+Et comment ils pourront enfin s'en démeller,
+Je commets⁎ ce secret à vostre confidence
+Songez à le tenir sous la clef du silence.
+
+En jurez vous tous deux.
+
+N'ay-je pas entendu la voix de Lidamas.
+
+      Avec celle que j'ayme ?
+
+      Aucun d'eux ne sçait mon stratageme ?
+
+Miroir des bons valets, & des vrays confidents.
+
+Ton conseil en cecy ne m'est pas necessaire,
+J'ay desja resolu ce qu'il est bon de faire,
+Mais sans me défier de ta discretion,
+Je te tais sur ce point ma resolution.
+Donc sans qu'à la sçavoir tu te rompes la teste,
+Va t'en tenir mon lict & ma toilette preste,
+Ce livre cependant sera mon entretien.
+
+La suitte du Menteur. Lisons du premier acte.
+Et faisons de ces vers une censure exacte.
+
+      Ouy mon fils & j'avoüe
+Que le Ciel en ses soings merite qu'on le louë,
+Sylvestre de ma part vous est allé chercher
+Et sa longueur passoit au poinct de me fascher.
+
+Rien sinon que vous faire escrire ma despense.
+Et dresser un memoire en qui soit contenu
+L'Argent à mon valet donné par le menu,
+Je veux m'instruire au vray jusqu'à combien il monte,
+Tenez, cherchez du blanc dans ce livre de compte,
+Puis d'une main habille & d'un trait assuré,
+Peignez⁎ y nettement ce que je dicteray.
+
+Vous me joüez⁎ mon fils, mais finissez ce jeu,
+Qui vous sied assez mal, & me déplaist un peu.
+
+Seroit-il bien possible ?
+
+Qu'avec un tel valet, un Maistre est miserable⁎,
+Ce coquin de Sylvestre à tous coups⁎ s'estourdit,
+Et ne fait jamais bien les choses qu'on luy dit
+Je veux compter à luy, puis le mettre à la porte.
+
+Qu'a t'il fait qui merite une telle menace ?
+
+Cét intrigue incognu conduit par mon organe,
+Resulte de la montre & de la Courtisane,
+J'ay mieux esté servy que je ne l'esperois ;
+Mais ne feignons pas moins que si je l'ignorois.
+
+J'accuse & je defends mon valet tout ensemble,
+Tantost jusques à luy ma colere descend,
+Puis je me ressouviens que c'est un innocent⁎
+Qui parle sans raison, sans cause, & sans mesure,
+Et qui croit obliger⁎ alors qu'il fait injure⁎.
+Ainsi vostre courroux se pourroit assouvir
+Du Sang d'un Animal qui pensoit vous servir.
+
+Je suis à vous Madame, & vous craignez en vain,
+Qui donne bien le Cœur, peut bien prester la main.
+
+N'en faites pas, Madame, un si bon jugement,
+Je suis plus que jamais dedans l'Aveuglement.
+
+Ah ! Madame, quittez cette vaine croyance,
+Et pour le vray tout pur, laissez la vray-semblance.
+Si j'ay paru si prompt à vous rendre un devoir,
+Et fait ce qu'avec peine on peut faire sans voir
+N'en jugez rien, sinon qu'en mes ardeurs parfaites,
+Un naturel instinct me conduit où vous estes.
+De ce sincére âveu concluez que vos yeux,
+Sont encore des miens les Astres & les Dieux.
+
+Ce discours m'est suspect. Je confesse Madame,
+Que ce Dieu se declare en faveur de ma flame,
+Aussi reconaist-on quel que soit son excez , 
+Que mon cœur n'en ressent que d'honnestes accez.
+
+Quel qu'il soit autant vaut qu'il vous soit immolé,
+Son Nom ?
+
+      Lidamas !
+
+Vous a fait un affront, charmant⁎ objet⁎ que j'ayme,
+Oser se prendre à vous c'est s'attaquer à moy,
+Mais apprenez m'en l'heure, & comment, & pourquoy ?
+
+Prends garde sur ta vie à ne me pas nommer.
+
+Arrestez, Lidamas, hé ! que pensez-vous faire ?
+
+Tout beau⁎, tout beau⁎ mon fils, moderez vostre joye,
+C'est un abus⁎ à vous de croire que je voye,
+Je n'ay quand j'ay retint vostre bras & ce fer,
+Qu'entre-veu seulement une lueur dans l'Air,
+Au reste resistez à ces chaudes Allarmes⁎
+Qui vous font sans sujet avoir recours aux Armes,
+En quoy que ce Maraut ait pû vous offencer,
+La meilleure vangeance est de n'y plus penser .
+Parler à contre temps n'est que son ordinaire , 
+Comme de declarer les choses qu'il faut taire,
+L'innocent⁎ m'a bien dit, mais je ne le croy point,
+Que vostre cœur aymoit Olimpe au dernier poinct,
+Que vous brusliez pour elle, & qu'elle mesme encore,
+Avoit quelque pitié du feu qui vous devore.
+
+Vous me venez de faire un discours bien estrange !
+Olimpe qui m'ayma me néglige & me change,
+Un fils que je croyois en vertu sans esgal,
+Son devoir en oubly, s'est rendu mon rival ?
+Et ce qui plus encor me surprend & m'offence,
+Si l'on croit vos discours, j'en ay pris connoissance.
+Mes yeux par plusieurs fois ont pû me rapporter,
+Des feux que vostre aveu n'osoit manifester.
+Falloit-il fils ingrat & plein de barbarie,
+A la brutalité joindre la Raillerie ?
+Et d'un discours picquant, impie & concerté,
+Vous rire insolamment de mon infirmité ?
+
+Lasche, tu m'as trahy.
+
+Cependant je vous puis justement accuser
+De promettre beaucoup, & de tout refuser.
+Je devois posseder vostre corps & vostre Ame,
+Lidamas toutesfois en joüira, Madame.
+Mais dittes pour excuse en Proverbe commun,
+Que le pere & le fils, ne sont reputez qu'un.
+
+La response est adroitte & l'excuse plausible,
+Pour ce nouvel amant tesmoignez-vous sensible.
+Je me repute⁎ heureux qu'ayant à me quitter,
+Vos yeux dessus mon fils ayent daigné s'arrester,
+Apres ce sentiment de mon Amour esteinte,
+Apprenez-moy de qui vous avez sçeu ma feinte ?
+
+Ma fille il n'est plus temps, on sçait mon artifice⁎,
+Mon faux aveuglement a perdu son credit
+Et s'explique autrement que je ne l'eusse dit,
+Laissons la feinte à part, & reglans mieux les choses,
+Tirons de vrais plaisirs, de veritables causes,
+Disposez-vous tous quatre à vous donner demain,
+Devant les saincts Autels le cœur avec la main.
+
+Ainsi que vostre amour est dehors de mon Ame.
+
+Son insigne vertu qu'on ne peut trop cherir,
+Mais vous, dittes comment ma feinte est reconnuë.
+
+Entrons.
+
+Vostre suivante a pris mon valet par les yeux,
+Madame consentez à ce beau mariage.
+
+
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpe
+
+Non, apprends d'un recit veritable & succinct
+La nature du mal dont mon cœur est atteint,
+Tu sçais que le Soleil depuis que je fus véve
+N'avoit à ses travaux⁎ que vingt fois donné tréve,
+Quand Cleanthe échauffé d'un feu sombre & mourant
+Que mes yeux n'avoient pû bien esteindre en pleurant
+Vint me faire visite, & d'un adroit langage
+Exagera les soins qu'enfante un long veuvage,
+Tu sçais encor comment d'un discours medité
+Il me galantisa⁎ sur mon peu de beauté.
+Et puis comme achevant ce compliment frivole
+Un soupir preparé lui coupa la parole.
+
+      Oüy, d'un aveu⁎ tacite
+J'acceptay sa recherche ainsi que sa visite.
+
+Cleanthe m'en pria, mais ma pudeur blessee
+Rejetta sa priere & blasma sa pensee.
+Les manes d'un mary gisant dans le tombeau
+D'un si prompt hymenée⁎ éteindroient le flambeau,
+Luy, dis-je, & leur dépit joinct au courroux celeste
+Rendroit nostre alliance & sterile & funeste,
+Je veux pendant un An demeurer dans le deüil
+Et de ma continence honorer son cercueil.
+Cleanthe à ce propos montra de la tristesse,
+Mais bien-tost sa raison se rendit la maitresse,
+Il loüa mon dessein, & convint avec moy
+Que l'honneur & l'amour m'imposoient cette loy.
+En ce temps cet Auguste & glorieux Monarque
+Qu'avec estonnement⁎ tout l'Univers remarque⁎,
+Pour se rendre justice & rentrer dans ses droits
+D'un siege bien formé pressoit les Dunquerquois,
+Cleanthe en attendant que j'essuirois mes larmes
+Se resolut d'aller paraitre sous les armes,
+De signaler⁎ son cœur⁎, de servir son païs,
+D'oster à l'Espagnol des Estats envahis
+Et croistre de son Roy l'illustre Renommee
+En ajoustant un bras au corps de son armee,
+Il partit sans demeure⁎, & dans fort peu de temps
+Dunquerque le compta parmi nos combattans.
+Mais helas dans le camp, soit par trop de fatigue,
+Ou soit que contre luy la fortune⁎ se ligue,
+Ses yeux auparavant si perçans & si clairs
+Sont d'un nuage obscur soudainement couverts,
+Ces naturels flambeaux demeurent sans lumiere,
+Sans rien perdre pourtant de leur beauté premiere,
+On diroit à les voir qu'ils lancent des rayons
+Qui des objets encor luy tracent les crayons⁎.
+
+Non, ce trait⁎ qui du sort marque la cruauté
+Ne m'arracha des pleurs que dans sa nouveauté,
+Mais en ayant depuis interrompu la course
+Si tu m'en vois verser ils ont une autre source.
+
+Je vay t'en informer d'un discours ingenu.
+Aussi-tost que je sceu l'Accident de Cleanthe
+Mon amoureuse ardeur devint un peu plus lente,
+Et mon cœur chancelant dedans sa passion
+Eut un malin⁎ degoust de son affliction,
+Je combatis d'abord cette ingrate inconstance,
+J'en voulus étouffer la premiere semence :
+Mais sur le poinct qu'alloit triompher ma vertu
+L'on donna du secours à ce vice abbatu.
+Lidamas heureux fils d'un deplorable⁎ pere
+Vint pour me consoler de son destin sevère,
+Il me vid, je le vis, il parla, j'escoutay,
+Mon œil incessamment sur luy fut arresté,
+Sa grace me parut à nulle autre semblable,
+Il fit un beau recit d'un sujet lamentable⁎,
+Enfin en Lidamas toute chose me plut,
+Et se rendit chez moy ce que son pere y fut.
+
+      Malgré ma retenuë
+Dés sa conception elle luy fut cônuë,
+Ce cavalier⁎ adroit, prudent, ingenieux,
+Subtil, & bien instruit dans l'entretien des yeux,
+Penetrant par les miens au fond de ma pensee
+Y vid en traits de feu son image tracee ;
+Cet indice assuré qu'il estoit mon vainqueur,
+L'obligea de s'ouvrir en me montrant son cœur,
+Madame (me dit-il) le pouvoir de vos charmes⁎
+Ne m'a pas d'aujourd'huy fait mettre bas les armes,
+Depuis plus de six mois je suis dedans vos fers
+Et vos yeux sont les Rois & les Dieux que je sers,
+Mais d'un pere amoureux l'imperieuse flame
+M'imposoit de cacher la mienne dans mon ame.
+Je l'ay fait par respect jusques à ce moment
+Que je puis profiter de son aveuglement.
+Il finit, & mon cœur charmé⁎ de sa parole
+Se fit au mesme instant l'Autel de cet idole,
+Un regard languissant, un soupir estouffé
+Luy dirent doucement qu'il avoit triomphé.
+Lors certain de mes feux comme de sa victoire
+Il me dist qu'il falloit pour achever sa gloire⁎
+Que je vinsse dans Blois faire quelque sejour,
+Jusqu'à tant qu'on y vid son pere de retour,
+Je fus pour Lidamas à ce poinct complaisante,
+J'y vins & descendis au logis de Cleanthe,
+Où donnant à ma flame une honneste couleur
+Je feignis d'arriver pour visiter sa sœur.
+
+Apprends de ce qui suit en quoy mon mal consiste.
+On attend le retour de Cleanthe aujourd'huy
+J'ay peur qu'il croye encor que je brûle pour luy
+Que ses yeux estans morts sa flame vive encore
+Que sa bouche me loüe, & que son cœur m'adore,
+Tu sçais que l'on void naistre un grand nombre de maux
+Quand le pere & le fils se rencontrent Rivaux.
+Voila le seul sujet ma fidelle Nerine,
+Du trouble qui me rend inquiette & chagrine⁎.
+
+Nerine, tu dis vray, l'esprit de Lidamas…
+Mais c'est luy que je voy qui s'avance à grand pas.
+
+Mais ne peut-il pas bien ayant perdu la veuë
+Conserver une amour auparavant receuë.
+
+Il n'en faut plus douter, il est encor atteint,
+Le feu que j'allumay n'est pas prest d'estre esteint,
+Ce peu que j'ay d'attraits sensiblement le touche,
+On n'est pas loin du cœur quand on est dans la bouche.
+
+L'artifice⁎ est subtil, mais il n'est pas croyable
+Qu'il soit à nos desseins bien long-temps favorable,
+Vous verrez dedans peu Cleanthe detrompé
+Tant de vos vains discours soit-il préocupé ;
+Je veux qu'estant aveugle il ne puisse conaître
+Qu'au bal, sans me masquer, je puis encor paraître,
+Je veux que vôtre sœur ayde à nostre projet,
+Je crains pourtant tousjours avec juste sujet.
+Le valet qui par tout marche avec vôtre pere,
+Luy qu'on peut appeller le flambeau qui l'esclaire,
+L'Ange qui le conduit, l'Argus industrieux
+Qui veille pour sa garde, & luy preste ses yeux,
+N'est pas dans le renom d'estre si peu fidele
+Que sçachant nostre ruse il l'endure & la cele⁎,
+Cleanthe par ses yeux verra tout nostre jeu,
+Il conaitra ma flame, & sçaura vostre feu,
+Il se rendra certain de ma prompte inconstance,
+Il apprendra d'un fils le peu de reverence,
+Il fera nos desseins tout d'un coup eschoüer,
+Et peut-estre joüera⁎ qui le croira joüer⁎.
+
+Mais encor dites-moy, si Cleanthe abusé
+M'oblige à raconter mon malheur supposé⁎,
+Comment ne sçachant pas cet accident frivole⁎
+Pourray-je avec la vostre accorder ma parole ?
+
+Quiconque sçait vos maux, & ne s'en peut fâcher⁎,
+Ne porte au lieu d'un cœur dans le sein qu'un rocher.
+
+Mais qui ne la void pas, n'a nulle occasion
+D'estre atteint de douleur & de compassion.
+
+Vous sçavez donc, Monsieur, par quelle aversité
+Mes attraits ont fait place à la difformité ?
+
 J'estois à Bourges lors que par des feux de joye
 L'on celébroit les coups⁎ d'un bras qui tout foudroye,
 D'un Prince glorieux dont les fameux exploits
@@ -516,20 +904,6 @@ D'où son orgueil tombant arrache les estoiles.
 Ah ! Ciel que ce qui suit est dur à raconter,
 C'est r'appeller mon mal que de le reciter.
 
--*who_cleanthe
-De ce fascheux recit soyez donc dispensee,
-Ne rendez point presente une peine passee,
-J'ay sceu de Lidamas en arrivant ici
-Comment un si beau jour vous a mal reüssi.
-Il m'a dit que de l'Air la patience usee
-Fit dans vostre carosse entrer une fusee,
-Dont la chaude vapeur aydant à son dessein
-Vous brusla le visage, & vous noircit le sein.
-
--*who_lidamas
-Avoüez.
-
--*who_olimpe
       C'est ainsi qu'arriva ma disgrace,
 Mais, ô Dieu ! quand je croy que ma douleur se passe
 C'est alors que du sort le courroux renaissant
@@ -537,230 +911,6 @@ Me fait sentir un mal plus aspre & plus pressant,
 Monsieur, je ne sçaurois plus long-temps me contraindre,
 Souffrez que j'aille ailleurs souspirer & me plaindre.
 
--*who_cleanthe
-Allez, Madame, allez, en vous seule je vis
-Et je vous vois encor de l'œil dont je vous veis.
-O d'une honneste femme indigne effronterie !
-O d'un fils impudent insigne fourberie !
-Allons, Sylvestre, allons & donnons plaisamment
-Une fin qui réponde à ce commencement.
-
-**** *book_ *id_II01 *act_II *date_1650 *creator_brosse
-
--*who_thelame
-Mon espoir me trahit, & ma raison s'égare
-D'esperer de flechir ce naturel avare,
-Jamais de mon amour le respect sans égal
-Ne touchera ce cœur de terre & de metal,
-Pour luy faire trouver des ardeurs legitimes
-Il luy faut apporter le Soleil des abismes.
-Le bien est son objet⁎, & ce riche indigent
-Estime & pese un homme au poids de son argent.
-Ah ! Madame, il le faut, mon mauvais sort l'ordonne , 
-Que j'aille sou pirer loing de vostre personne.
-Un puissant desespoir qui combat mon amour,
-Me marque ailleurs un long & funeste sejour.
-Cessez de vous flater⁎, l'avarice d'un Pere
-Ne s'abstiendra jamais de nous estre contraire.
-Adieu, de vostre aveu⁎ felicitez mes pas.
-
--*who_melice
-Quoy me quitter ainsi ?
-
--*who_thelame
-      Quoy ne vous quitter pas ?
-
--*who_melice
-S'absenter de ces lieux ?
-
--*who_thelame
-      On y hait ma presence.
-
--*who_melice
-Mourir desesperé ?
-
--*who_thelame
-      Vivre sans esperance.
-
--*who_melice
-Ne pas perseverer ?
-
--*who_thelame
-      Perseverer en vain.
-
--*who_melice
-Ah Thelame !
-
--*who_thelame
-      Ah Melice !
-
--*who_melice
-      Ha charmant⁎ inhumain.
-Si vous bruslez pour moy d'un veritable zéle,
-Si vous estes constant, genereux⁎ & fidelle,
-Si dans mes interests vous prenez quelque part,
-Si mes jours vous sont chers differez ce depart ;
-Le Temps de qui le cours renverse toutes choses
-Peut-estre changera nos espines en roses.
-Demeurez, cher Thelame, ou pour le moins craignez
-Qu'un autre ait par la force un cœur où vous regnez,
-Thelame songez-y, songez-y bien mon Ame,
-En un mot demeurez, ou je meurs cher Thelame.
-
--*who_thelame
-Puissamment esbranlé de vos ardents soupirs,
-Mais mieux persuadé de mes bruslans desirs,
-Madame, j'y consens, racourcissez mes chaisnes,
-De vostre prisonnier rendez les courses vaines.
-Deusse-je respirer sous des Astres plus durs
-Blois encor quelque temps me tiendra dans ses murs.
-
-**** *book_ *id_II02 *act_II *date_1650 *creator_brosse
-
--*who_cleanthe
-Sylvestre acquitte-toy du róle que tu jouës⁎.
-
--*who_sylvestre
-Si j'y manque d'un mot, couvrez⁎-moy les deux jouës.
-
--*who_thelame
-Cleanthe arrive ici, Madame il m'a surpris,
-Son valet luy dira.
-
--*who_melice
-      R'assurez-vos esprits,
-Vous n'avez seulement qu'à garder le silence,
-Ce valet a sa part dans nostre confidence,
-Mon frére l'a si bien pratiqué sur ce poinct
-Que s'il void quelque chose, il ne parlera point.
-
--*who_cleanthe
-Estes-vous seule ici Melice ?
-
--*who_melice
-      J'y suis seule.
-Amy…
-
--*who_sylvestre
-      Ne craignez rien, j'auray fort bonne gueule.
-
--*who_cleanthe
-La rencontre s'accorde avecques mon souhait,
-Je viens pour vous parler d'un serviteur⁎ parfait
-Qui tient emprisonné beaucoup d'or dans ses coffres,
-Et qui rempli d'Amour vous addresse ses offres,
-C'est Rustique l'Aisnay fils du vieux Parmenon.
-
--*who_melice
-Quoy ce noble d'un jour, grossier jusqu'à son nom ?
-Ah ! de grace, Monsieur, aymez plus vostre fille,
-Sçachez mieux maintenir vostre illustre famille,
-Ce seroit en tirer l'éclat dans le tombeau,
-Un peu de vilain sang tache & gaste le beau.
-
--*who_cleanthe
-Allez, fille indiscrette⁎ & desobeissante,
-Le soin de vostre honneur n'est pas ce qui vous tente,
-Un Demon moins splendide est vostre possesseur,
-Thelame vous gouverne avec plus de douceur :
-Mais si vous ne sortez de ce desert Empire
-Mon courroux deviendra quelque chose de pire,
-Je vous en advertis.
-
--*who_thelame
-      Amant infortuné !
-
--*who_melice
-Je ne sçaurois reprendre un cœur que j'ay donné.
-
--*who_cleanthe
-Ah ! c'est trop…
-
--*who_sylvestre
-      Hé, Monsieur, ô vous son pere unique,
-Car la defuncte estoit, à ce qu'on croit, pudique,
-Vous son vray geniteur, avez-vous entrepris
-De faire plus que Dieu, de forcer les esprits ?
-Laissez aller Madame où son amour l'appelle,
-Celuy qu'elle cherit n'est-il pas digne d'elle ?
-Sa flamberge l'a mis au nombre des plus preux,
-Il a l'esprit fort bon, & le corps vigoureux,
-Sa bonne mine enfin & sa naissance libre
-Mettent avec vos biens Thelame en equilibre.
-
--*who_cleanthe
-Impertinent valet, qui t'oses ingerer
-De me donner conseil & de me censurer,
-Tu seras satisfait de ta belle harangue,
-Je vais ou t'estrangler, ou t'arracher la langue,
-Temeraire, indiscret⁎.
-
--*who_melice
-      Sylvestre, justes Cieux
-Songe à tirer mon cœur⁎ des mains d'un furieux⁎.
-
--*who_sylvestre
-Ha ah ! je n'en puis plus.
-
--*who_cleanthe
-      Insolent pédagogue !
-
--*who_sylvestre
-Vous m'avez fait les yeux plus gros que ceux d'un dogue.
-
--*who_thelame
-Je ne sçaurois souffrir⁎ ce honteux traitement.
-
--*who_melice
-Contraignez-vous pour moy, cher & fidelle Amant.
-
--*who_cleanthe
-Apprends à l'avenir, valet maussade & traitre,
-A ne te plus mesler de censurer ton maitre.
-Et vous fille rebelle à tout ce que je veux
-Pour un nouvel Amant ayez de nouveaux feux,
-Esteignez pour jamais vostre ancienne flame,
-Et recevez des loix d'un autre que Thelame.
-
--*who_melice
-Pour me faire subir vostre injuste rigueur,
-Faites, pere cruel, que j'aye un autre cœur.
-
--*who_cleanthe
-C'en est trop endurer, ma patience eschape.
-
--*who_sylvestre
-Allez, sortez, fuyez, drillez qu'il ne vous frape.
-
--*who_cleanthe
-Je ne sçay si je doy nommer sa passion
-Ou du nom de constance, ou d'obstination,
-Mais soit-elle constante, ou soit-elle obstinee,
-Ma seule volonté fera son hymenee⁎.
-Au reste tu m'as pleu dans ta naïveté⁎,
-Tu t'és de ton devoir dignement acquitté,
-Si tu poursuis tousjours j'augmenteray tes gages.
-
--*who_sylvestre
-Je sçay friser la corde en de tels personnages.
-Assurez-vous de moy, je paye à temps prefix,
-Et dans l'art de fourber⁎ Sylvestre est un phœnix.
-
--*who_cleanthe
-Conduis moi vers Olimpe, & m'y fay reconnaitre
-Qu'aux experts en cet Art tu servirois de maitre.
-Tu sçauras en allant de mes ordres exprés
-Comment il faut mener mes intrigues secrets,
-Je t'instruiray du temps où ta naïve⁎ adresse⁎
-Pourra si tu le veux répondre à ta promesse.
-
-**** *book_ *id_II03 *act_II *date_1650 *creator_brosse 
-
--*who_lidamas
-Laissons l'aller, Madame, & nous entretenons
-De l'intrigue Amoureux que nous entreprenons.
-
--*who_olimpe
 L'espoir est mal fondé que soustient une ruse,
 Plus je pense à la vostre, & plus je suis confuse,
 Elle est bien inventee & satisfait d'abord,
@@ -768,7 +918,201 @@ Mais j'en prevoy la fin que j'apprehende fort,
 Je crains que ce broüillas ne fonde sur nos testes,
 Et que semant du vent nous cueillions des tempestes.
 
--*who_lidamas
+Mais si cet importun, quoy que je puisse dire,
+S'obstine à me compter son amoureux martire,
+Quel sera le moyen de m'en débarasser ?
+
+Monsieur, si l'amour propre, ou si la vaine gloire⁎
+Me rendoit orgueilleuse & facile à tout croire,
+Je pourrois recevoir un pareil compliment
+Pour le sincere aveu d'un veritable⁎ Amant.
+Mais …
+
+Quoy, vous arresteriez vos Amoureux projets
+Au plus deffiguré d'entre tous les objets⁎ ?
+Quoy vous pourriez encor adorer un visage
+De qui le seul aspect⁎ effraye & décourage,
+Non, non, vous avez trop de cœur⁎ & de raison,
+Vous ne sçauriez souffrir qu'une belle prison,
+Lors qu'un peu d'embonpoint, & quelque attrait passable,
+Aux yeux qui me voyoient me rendoit supportable , 
+Je veux m'imaginer que par fois des soupirs
+Formez dans vostre cœur m'addressoient vos desirs,
+Mais depuis le moment qu'un accident funeste,
+Effaça ce crayon⁎ de la beauté celeste,
+Depuis que j'eus perdu ces traits de majesté
+Qu'imprima sur mon front la premiere beauté,
+Je ne sçaurois souffrir l'opinion trompeuse,
+Qu'on brusle encor pour moy d'une flame amoureuse,
+Tout homme m'en feroit des sermens superflus,
+L'on sort bien-tost d'un temple où les Dieux ne sont plus.
+
+Suivez-le, Lidamas, quelquefois ses pareils
+A de plus sages qu'eux donnent de bons conseils.
+
+Nerine, ce discours est de mauvaise grace,
+Tu me prescris à tort ce qu'il faut que je fasse,
+Je conais mon devoir, je sçay m'en acquitter,
+Sans te donner le soin⁎ de m'en solliciter.
+Cleanthe, je l'avoüe, a regné dans mon ame,
+Mais en l'estat qu'il est, merite-t'il ma flame,
+Certes si je pouvois l'estimer aujourd'huy
+Je me declarerois plus aveugle que luy.
+
+Pour guerir vostre esprit d'une telle croyance,
+Je peche expressement contre la bienseance,
+Le refus des présents est de nostre devoir,
+Mais qui donne son cœur peut bien tout recevoir.
+
+Il vient, n'achevez pas.
+
+Monsieur épargnez-moy, quoy mes beautez péries
+Meriteroient vos dons, feroient vos resveries ?
+Tant de présomption ne me possede pas,
+L'on ne peut beaucoup plaire avec si peu d'appas⁎.
+
+Personne n'est icy que Sylvestre & Nerine.
+
+Sortez.
+
+Qu'est-il dedans l'honneur que pour vous je ne fasse,
+Je le reçoy, Monsieur, & je vous en rends grace.
+
+Hé ! Monsieur.
+
+Monsieur encor un coup.
+
+Si quelqu'un nous voyoit que ne pourroit-on croire ?
+
+Je les vay recevoir.
+
+Explique-donc pourquoy tu m'as dit le contraire ?
+
+Cruelle à quel dessein me tiens-tu ce propos ?
+Pourquoy traverses⁎-tu ma flame & mon repos ?
+Quelle haine couverte⁎, & quelle noire envie
+Te fait en mon amour attenter sur ma vie ?
+D'où te naissent ces soins⁎ que je n'approuve pas
+Et qui te porte enfin à blâmer Lidamas ?
+
+Qu'entens-je, juste Ciel, & que dis-tu Nerine ?
+
+Apprends-moy plus au long cette facheuse histoire.
+
+Ne crains rien, je responds qu'il te tiendra parolle.
+
+Cleante verroit clair ! depuis quand justes Cieux ?
+
+Il n'est donc pas aveugle ?
+
+Hô Dieux ! je vay tomber, accourrez je vous prie.
+Mon pied s'est enlassé dans la tapisserie .
+
+Monsieur, j'estois sans vous de secours despourveuë,
+Donc les Cieux adoucis vous ont rendu la veüe ?
+
+Comment doncques d'un pas aussi ferme qu'habille,
+M'avez-vous fait trouver vostre presence utile ?
+Certes nul ne pouvoit s'offrir plus à propos,
+Et je croy qu'il faut voir pour estre si dispos⁎.
+
+Je puis apres le trait⁎ que vous venez de faire
+Conclure encor qu'Amour vous guide & vous esclaire.
+Et qu'en tous vos besoins, sensible & pourvoyant,
+Quand il luy plaist d'Aveugle il vous rend clair-voyant.
+
+Doncques puis qu'envers moy vostre Amour est si pure,
+Tout interest à part, vangez moy d'une injure⁎ :
+Un insolent m'a fait un affront signalé⁎.
+
+      C'est Lidamas.
+
+      Ouy luy-mesme.
+
+Il m'a fait par priére accepter une montre…
+Juste Ciel à mes yeux permets-tu qu'il se montre,
+Il s'avance, le lasche, & marque son mespris
+En mal traitant celuy par qui j'ay tout appris.
+
+Voulez-vous le contraindre à trahir sa pensée.
+
+Je diray bien plustost dedans la bienseance,
+Que mon jugement seul a fait mon inconstance,
+Sçachant que vous feigniez d'estre aveugle vers moy,
+J'ay creu que mon abord⁎ vous donnoit de l'effroy.
+Et que vous ne faisiez cette feinte impreveuë,
+Qu'afin de m'advertir d'éviter vostre veuë.
+Donc si mon procedé vous a mal satisfait,
+Blasmez-vous seul d'un mal que vous vous estes fait.
+
+Quoy donc l'Aversion conceuë envers Thelame ? …
+
+Dittes-nous quel remede a pû vous en guerir.
+
+J'y consens.
+
+
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidamas
+
+Mon pere est arrivé Madame, & sa paupiere
+Ne void plus les beautez qu'enfante la lumiere,
+Ce n'est pas que ses yeux ne paraissent fort beaux,
+Mais c'est sans l'éclairer que brillent ces flambeaux,
+Par le malin⁎ effet d'une cause cachee,
+Leur action est morte, ou du moins empeschee,
+Dedans ce triste estat je ne puis concevoir
+Qu'il donne de l'amour ny puisse en recevoir.
+
+En vain auprez de vous je veux dissimuler,
+Mon pere brusle encor, & veut encor brusler,
+On l'avoit du carosse à peine mis à terre
+Qu'oubliant le malheur que luy cause la guerre,
+Lidamas, m'a-t'il dit, en me parlant de vous,
+Les Astres envers elle ont-ils esté plus doux ?
+N'a-t'elle point du sort senty la perfidie,
+Ou les aspres accez de quelque maladie ?
+
+A l'instant que ses soins⁎ se declarent pour vous
+Je juge qu'il n'est pas bien guéry de vos coups⁎,
+Doncques d'une voix triste, Olimpe, mon cher pere,
+N'est plus, luy dis-je lors, en estat de vous plaire,
+De ce charmant⁎ objet⁎ les traits imperieux,
+S'ils furent le plaisir sont la peine des yeux,
+Cette rare beauté d'un chacun regardee
+N'est plus qu'un Estre feint, existant en idee,
+Un tragique accident, un rigoureux destin,
+A de tous ses appas⁎ fait un triste butin.
+Là par le prompt secours d'une adréte imposture⁎
+Au gré de mon desir je forme une Aventure,
+Et tâche ainsi d'esteindre en vous defigurant
+Un feu qui me perdroit s'il devenoit plus grand.
+
+Cette crainte est, Madame, une pure chimere,
+Je dispose à mon gré du valet de mon pere,
+Cet Argus est gagné, ses yeux sont ébloüys,
+Et j'ay sçeu l'endormir au son de mes Loüis.
+Donc sans vous allarmer d'une crainte si vaine,
+Attendez une issue agréable & certaine,
+Et quoy que mon rival ait à venir icy
+N'ayez à son abord⁎ ny crainte ny soucy⁎.
+Ne luy pouvant long-temps cacher vostre venuë,
+Mon ame sur ce poinct s'est fait voir toute nuë,
+Mais j'ay dit pour tromper cet aveugle amoureux
+Que vous n'estiez icy que d'un jour ou de deux,
+Encor dans le dessein de rendre une visite
+Dont la coustume veut que vous demeuriez quitte.
+
+Je l'apperçois, passons dans cet appartement,
+Je vous en apprendray l'histoire en un moment.
+
+La part que prend Olimpe en vostre sort funeste
+L'ameine ici, Monsieur.
+
+Avoüez.
+
+Laissons l'aller, Madame, & nous entretenons
+De l'intrigue Amoureux que nous entreprenons.
+
 Delivrez vostre esprit de ces fâcheux Accez,
 Un bon commencement attire un bon succez⁎.
 L'ingenieuse erreur où j'entretiens mon pere
@@ -796,234 +1140,279 @@ Que tout autre que moy vous nuit par sa presence,
 Deffaites-vous bien-tost d'un incivil Amant
 Qui vous entretiendra sans vous voir seulement.
 
--*who_olimpe
-Mais si cet importun, quoy que je puisse dire,
-S'obstine à me compter son amoureux martire,
-Quel sera le moyen de m'en débarasser ?
-
--*who_lidamas
 N'en prenez pas le soin, c'est à moy d'y penser.
 Nerine dont la voix imite tant la vostre,
 Qu'à vous ouïr parler on prend l'une pour l'autre,
 Me fournit un moyen facile & non commun
 Pour esloigner de vous cet Amant importun.
 
-**** *book_ *id_II04 *act_II *date_1650 *creator_brosse
-
--*who_sylvestre
-On trouve en bien cherchant, la chose est bien certaine
-Ne fust-ce qu'un ciron égaré dans la plaine,
-Si celle dont l'absence accroist vostre souci⁎
-N'est pas dedans sa chambre, on la rencontre ici.
-
--*who_cleanthe
-Madame…
-
--*who_sylvestre
-      Attendez donc que vous soyez vers elle,
-Vous ressemblez les chiens de chez Jean de Nivelle,
-Vous abbayez de loing. Avancez, Alte-là.
-Tournez-vous autrement, parlez, vous y voila.
-
--*who_cleanthe
-Quelque torrent d'ennuis⁎ qui roule dans mon ame
-J'entends tousjours parler mon devoir & ma flame,
-L'un & l'autre m'ont dict que je vinsse en ce lieu,
-J'y suis venu, Madame, accompagné d'un Dieu,
-Amour qui dans mon cœur en souverain preside
-M'a conduit par la main & m'a servi de guide,
-Luy seul jusques à vous a pris soin de mes pas
-Heureux en mon malheur s'il ne me quite pas.
-Mais plus heureux encor si le flambeau qu'il porte
-Vous faisoit voir combien ma passion est forte,
-Et si les traits⁎ ardents qui partent de sa main
-En vous frapant au cœur, vous enflammoient le sein.
-
--*who_olimpe
-Monsieur, si l'amour propre, ou si la vaine gloire⁎
-Me rendoit orgueilleuse & facile à tout croire,
-Je pourrois recevoir un pareil compliment
-Pour le sincere aveu d'un veritable⁎ Amant.
-Mais …
-
--*who_cleanthe
-      Toubeau⁎, ce mais me tiendroit lieu d'injure,
-Je hay la flatterie, & je fuy l'imposture⁎,
-Vous ne devez jamais concevoir le soupçon
-Que ma bouche & mon cœur parlent d'autre façon.
-
--*who_lidamas
 Desja cet entretien me déplaist & me lasse.
 
--*who_sylvestre
-Tandis qu'ils jaseront, causons nous deux de grace.
-
--*who_olimpe
-Quoy, vous arresteriez vos Amoureux projets
-Au plus deffiguré d'entre tous les objets⁎ ?
-Quoy vous pourriez encor adorer un visage
-De qui le seul aspect⁎ effraye & décourage,
-Non, non, vous avez trop de cœur⁎ & de raison,
-Vous ne sçauriez souffrir qu'une belle prison,
-Lors qu'un peu d'embonpoint, & quelque attrait passable,
-Aux yeux qui me voyoient me rendoit supportable , 
-Je veux m'imaginer que par fois des soupirs
-Formez dans vostre cœur m'addressoient vos desirs,
-Mais depuis le moment qu'un accident funeste,
-Effaça ce crayon⁎ de la beauté celeste,
-Depuis que j'eus perdu ces traits de majesté
-Qu'imprima sur mon front la premiere beauté,
-Je ne sçaurois souffrir l'opinion trompeuse,
-Qu'on brusle encor pour moy d'une flame amoureuse,
-Tout homme m'en feroit des sermens superflus,
-L'on sort bien-tost d'un temple où les Dieux ne sont plus.
-
--*who_cleanthe
-Vous vous figurez donc qu'une vaine peinture , 
-Qu'un foible & simple trait du pinceau de nature , 
-Qu'un amas concerté d'agreables couleurs,
-Qui redoute l'abord⁎ du froid & des chaleurs,
-Que des regards lascifs confondent⁎ d'ordinaire,
-Et qu'efface tousjours la crainte & la colere,
-Enfin qu'une inconstante & legere beauté
-Jusqu'icy dans vos fers ait mon cœur arresté,
-Je pourrois devenir à ce compte idolatre
-D'une image de pierre, ou de toile, ou de plastre,
-Oüy si je m'attachois à ces frivoles traits,
-Les femmes me plairoient bien moins que leurs portraits.
-Ah ! ne croyez donc pas que sur ces apparences
-Mon inclination fonde ses esperances,
-Je pese les vertus, & ces sacrez tresors
-Me plaisent plus cent fois que les charmes⁎ du corps.
-
--*who_lidamas
 Ce compliment trop long use ma patience.
 
--*who_nerine
-Vous me faites rougir par trop de complaisance,
-Fist le Ciel que vos yeux aussi bons qu'autrefois …
-
--*who_cleanthe
-Madame, c'est assez, croyez que je vous vois,
-Ma memoire entretient & revére l'image
-Et de vostre merite & de vostre visage,
-De tout ce qu'en naissant les Cieux mirent en vous
-De divin, de charmant⁎, d'agreable & de doux,
-J'en suis encor épris, j'en ay l'ame enflamee,
-De pas un des mortels vous n'estes tant aimee,
-C'est peu de le montrer par des soins complaisans,
-Je vous en veux donner pour preuve des presens,
-C'est à quoy je m'oblige, & dont je seray quite
-Si vous me permettez encor une visite.
-
--*who_lidamas
 Il croit parler à vous, le pauvre aveugle en tient⁎.
 
--*who_nerine
-Monsieur vous m'honorez plus qu'il ne m'appartient,
-Reservez vos presens pour de plus belles Dames,
-Je ne merite pas ny vos dons ny vos flames,
-Et je puis assurer que si vous me voyez
-Vous plaindriez vos presens s'ils m'estoient envoyez.
-
--*who_cleanthe
-Madame, ce discours est un refus honneste,
-Mais encor une fois je vous fais ma requeste,
-Agreez que tantost je vous revienne voir,
-Et que vous revoyant je fasse mon devoir.
-Enfin si vous m'aimez que vostre amour se montre,
-En daignant accepter de ma main une montre,
-Que de ce bien encor je vous sois obligé⁎,
-Promettez-le, Madame, & puis je prends congé.
-
--*who_lidamas
 Nerine promets-luy d'accepter pour luy plaire.
 
--*who_nerine
-Monsieur tout mon desir tend à vous satisfaire,
-S'il vous plaist de m'offrir un present aujourd'huy,
-Ayant un cœur pour vous, j'auray des mains pour luy.
+Usons en ce moment de l'avis⁎ de Sylvestre.
 
--*who_cleanthe
-Que mon bon-heur est grand ! ce discours me confirme
-Qu'Olimpe considere encor Cleanthe infirme.
-Adieu, Madame, adieu, vous m'avez satisfait,
-Sylvestre allons.
+Je n'ose dire mot, cher Sylvestre de grace
+Tesmoigne du despit, & te plains en ma place.
 
--*who_sylvestre
-      Oüy, maistre, en un pas c'en est fait.
-Vous son unique fils, mon zele vous exhorte
-De venir avec moy, parce qu'il vous importe.
+Pendant leur different qui flatte mon desir
+Pour la seconde fois tâchons à reüssir.
 
--*who_olimpe
-Suivez-le, Lidamas, quelquefois ses pareils
-A de plus sages qu'eux donnent de bons conseils.
+Enfin j'ay pris sa montre, & supposé⁎ la mienne,
+Allons trouver Olimpe, & faisons aujourd'huy
+Un commerce⁎ amoureux des richesses d'autruy.
 
-**** *book_ *id_II05 *act_II *date_1650 *creator_brosse 
+Mon cœur⁎ refuse-t'il ce que ma main luy donne ?
+Qui neglige mes dons, dédaigne ma personne,
+Rejetter un present, c'est le visible effet
+Du degoust que l'on a de celuy qui le fait.
 
--*who_nerine
-Maintenant que je puis m'exprimer sans contrainte,
-Permetez que mon cœur⁎ se montre à vous sans crainte,
-Madame, voulez-vous acquerir un renom
-Qui ternisse à jamais l'éclat de vostre nom ?
-Voulez-vous, negligeant l'amitié⁎ de Cleanthe,
-Qu'on die à l'avenir, Olimpe est inconstante,
-Sa passion luy pleut avant son mauvais sort,
-Et l'œil sec maintenant, elle le verroit mort.
-Ah ! Madame, évitez ce reproche sensible,
-Laissez-vous surmonter⁎ à sa flame invincible,
-Malgré les faux rapports que l'on luy fait de vous,
-Sa plus ardente envie est d'estre vostre espoux,
-Ce constant serviteur⁎ vous aime en toute forme,
-Heureuse,  infortunee, agreable ou difforme,
-Reconaissez, Madame, un zele⁎ si parfait,
-Et dans vos premiers feux persistez comme il fait.
+Cette montre est, Madame, une montre commune,
+Je ne croy pas pourtant que mon pere en ait une…
 
--*who_olimpe
-Nerine, ce discours est de mauvaise grace,
-Tu me prescris à tort ce qu'il faut que je fasse,
-Je conais mon devoir, je sçay m'en acquitter,
-Sans te donner le soin⁎ de m'en solliciter.
-Cleanthe, je l'avoüe, a regné dans mon ame,
-Mais en l'estat qu'il est, merite-t'il ma flame,
-Certes si je pouvois l'estimer aujourd'huy
-Je me declarerois plus aveugle que luy.
+      O Ciel qu'il me déplaist,
+Jamais homme ne fut plus importun qu'il l'est.
 
-**** *book_ *id_III01 *act_III *date_1650 *creator_brosse
+      Il en tient⁎ le bon-homme,
+Il va benir tout seul le feu qui le consomme,
+Il croit avoir baisé cette adorable main.
 
--*who_lucille
-Ouy je l'ay rencontré cet Amant deplorable⁎
-Maudissant les rigueurs d'un pere inexorable,
-Se plaignant du destin, de soy-mesme & de vous,
-Et comme un furieux⁎ se meurtrissant de coups.
-Lucille, m'a-t'il dit, aussi-tost qu'il m'a veuë,
-C'en est fait, je me rends, ma constance est vaincuë,
-Je ne puis plus lutter contre mon mauvais sort,
-Il triomphe, & l'espoir qui me reste est la mort :
-Va-t'en, ajouste-t'il, trouver hors de Thelame
-Son cœur & ses desirs, ses pensers & son ame ;
-J'entends le digne objet⁎ qui me tient dans ses fers,
-Que je vois à toute heure, & pourtant que je pers ;
-Ce superbe Démon qui poursuit les offences,
-Qui suggere & qui prend de sanglantes vengeances,
-L'honneur, esprit mouvant de tout cœur⁎ noble & prompt,
-Me crie incessamment, vange-toy d'un affront.
-Son empressante voix & m'émeut & me pique⁎ ;
-Mais afin d'éviter un accident Tragique,
-Je veux dés aujourd'huy m'absenter de ces lieux,
-Avertis-en Melice, & luy fay mes adieux.
-Ces tristes mots finis, le cœur plein de tristesse,
-Et l'œil noyé de pleurs, il s'enfuit & me laisse.
+      Adieu donc je vous quitte.
 
--*who_melice
+J'aurois fait cette injure⁎ à l'objet⁎ que j'adore ?
+Aprés tant de sermens, le croyez-vous encore ?
+Faut-il incessamment vous les reïterer ?
+Tout l'Element du feu me vienne devorer,
+Et si j'ay merité les soupçons où vous estes
+L'Air s'arme contre moy d'Esclairs & de Tempestes , 
+La Mer me creuse un lict au profond de son Eau
+Et la Terre entr'ouverte en son centre un tombeau,
+Tout l'Univers enfin me donne des allarmes⁎
+Si j'ay si mal traité vostre amour & vos charmes⁎,
+Et si depuis l'instant que je les admiray
+Pour d'autres que pour eux, mon cœur a souspiré.
+Lasche & perfide autheur d'un rapport⁎ qui m'offence,
+Tu ne te peux soustraire à ma juste vengeance
+Sans mettre en contrepoids ma naissance & ton rang,
+Pour laver ton forfait je verseray ton sang,
+La justice du ciel contraire à l'Imposture⁎
+M'ameine cette ingrate & vile créature,
+Le voicy le menteur qui vous en a tant dit
+Remarquez à quel poinct il paroist interdit,
+Ma rencontre l'estonne⁎ ; & son maintien timide⁎
+En me justifiant accuse ce perfide.
+Avance malheureux⁎, & sans aucun détour
+Parle & rend promptement la vie à mon Amour,
+Quelle autre que Madame est sur moy souveraine ?
+Quelle autre me retient d'une invisible chaisne ?
+Quelle autre me remarque entre ses courtisans ?
+Et quelle autre a jamais receu de mes presents ?
+Respond, il te sied mal de craindre & de te taire
+Ta crainte & ton silence augmentent ma colere.
+
+Parle donc viste, & sois sans apprehension.
+
+Quoy le mauvais party que tu m'as voulu faire
+Est un trait⁎ envoyé de la part de mon pere ?
+Il sçait que j'ayme Olimpe ? & que cette beauté
+Ne m'a point jusqu'icy fait voir de cruauté ?
+Quel ennemy couvert⁎ ? quelle bouche indiscrette ?
+A pû luy découvrir une amour si secrette ?
+
+Parle plus clairement, explique tes paroles.
+
+Sylvestre je t'entends⁎, prends cecy par avance.
+
+      Je le croy.
+
+Tu me veux abuser d'une autre menterie⁎.
+
+Apprens nous de sa feinte & la cause & le but.
+
+Blois ny le monde entier n'eut jamais ton pareil,
+Charmé⁎ de ton esprit, j'approuve ton conseil,
+Desja pour reüssir dedans cette entreprise
+Je n'ay besoin de rien que de ton entremise.
+J'imagine un moyen facile à pratiquer
+Par qui sera moqué, qui pretend nous moquer.
+
+Il suffit, en ce lieu sans plus nous arrester
+Dans la chambre prochaine⁎ allons nous concerter.
+
+Adieu, nous te laissons la chose estant ainsi.
+Ton salaire est tout prest, mais sers nous bien aussi.
+
+Quoy le livre à la main ?
+
+Que desirez vous donc de mon obeissance.
+
+La rencontre⁎ est plaisante, il faut que je le die,
+Vostre livre de compte est une Comedie !
+
+Qu'il dissimule bien, & qu'il abonde en ruses.
+Monsieur si j'avois tort , j'en ferois mes excuses.
+Mais que puisse le Ciel, ou l'Enfer en courroux,
+En ce mesme moment, m'aveugler comme vous.
+Si je vous en impose⁎, & si c'est fantaisie,
+Que ce livre de compte est une poësie.
+On le vend dans Paris en vingt lieux au Palais,
+Cent fois ce qu'il contient s'est dit dans le Marais,
+J'ay souvent pris plaisir à l'entendre moy-mesme,
+Et contre les censeurs defendu ce poëme.
+Il est intitulé la suitte du Menteur
+Et sort du cabinet d'un excellent Autheur.
+
+      Il est tres véritable.
+
+Moy l'accabler de coups auparavant qu'il sorte
+Je suis icy venu pensant l'y rencontrer,
+Mais le Ciel à mes yeux ne le veut pas montrer , 
+Quelque endroit de la ville où je puisse l'atteindre,
+Je sçauray le reduire au terme de se plaindre,
+Il n'obtiendra de moy ny trêve ny cartier
+Et ne luy restera pas un seul os entier.
+
+Une action, un trait⁎ d'insuportable audace,
+Un rapport⁎ si perfide, un mensonge si noir
+Et si bien coloré que l'on n'y peut rien voir.
+
+Monsieur que dittes vous ? vous parlez ce me semble.
+
+C'est donc un Animal, bien cruel & bien traitre,
+Qui poursuit & qui mort les enfans de son Maistre.
+Certes si je le puis rencontrer où je vais,
+Je l'empescheray bien de les mordre jamais.
+
+Fay bien l'espouventé.
+
+Ah ! Madame au plus fort de mon cuisant soucy⁎,
+Je me répute⁎ heureux de vous trouver icy,
+Voyez cét imposteur⁎. Je veux que dessus l'heure
+Il me fasse connoistre innocent, ou qu'il meure , 
+Je veux qu'en ce lieu mesme il declare à genoux
+Que je n'ay jamais eu que des respects pour vous.
+Et s'il veut tout à fait appaiser ma colére,
+Qu'il die alors qu'il ment, quel esprit le suggére.
+
+Veux tu par ton silence encor me diffamer,
+Parle donc malheureux⁎, ou ma pitié lassée…
+
+Le perfide qu'il est par un motif couvert⁎,
+Craint de desavoüer un rapport⁎ qui me perd.
+Mais puisque par l'effet d'un respect qui le touche,
+La verité ne peut s'apprendre de sa bouche,
+Puissamment transporté de mon juste dessein,
+Je m'en la vay chercher jusque dedans son sein.
+
+Depuis quand dittes moy, voyez vous clair mon pére ?
+Qu'en cette nouveauté, je me sens resjouy,        
+Et que je voy mon deüil⁎ bientost esvanoüy.
+
+Sylvestre en ce rapport a dit la Verité,
+Je ne le cele⁎ point Olimpe m'a dompté,
+Et bien que cét aveu vous choque⁎ & vous irrite,
+Je n'ay pû sans l'aymer cognoistre son merite.
+Mais qu'une telle Amour m'a fait souffrir de mal,
+J'ay mille fois rougy d'estre vostre rival,
+Et mille fois encor ne sçachant plus que faire,
+Je me suis opposé que vous estiez mon pére,
+Ce vertueux combat d'Amour & de respect,
+Entre Madame & moy s'est fait à vostre aspect⁎,
+N'osans par le discours vous découvrir nos Ames,
+Nostre geste a tasché d'en mettre au jour les flames,
+Vous le sçavez, Monsieur, tout s'est fait devant vous,
+Et vos yeux s'ils parloient, le diroient mieux que nous.
+
+A d'Autres desormais tenez un tel langage ;
+Vous mettez hors de temps les feintes en usage,
+Ne dissimulez plus, vostre Artifice⁎ est sçeu,    
+Et qui pensoit tromper, s'est luy-mesme deçeu.
+Nos traits⁎ divertissants, nos galantes addresses⁎,
+Prouvent que nous estions instruits de vos finesses.
+Et si vous desiriez que je m'explique mieux,
+Olimpe est sans attraits, ainsi que vous sans yeux.
+
+La verité de soy se fait assez connaistre.
+
+Nous en ferons ailleurs l'histoire toute nuë,
+Qui vous obligera d'avouer en l'oyant,
+Que nous avons joüé⁎, l'Aveugle Clair-voyant.
+
+
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melice
+
+Ceux qui de ce rapport⁎ m'ont vers vous desservie,
+Sont portez contre moy de depit ou d'envie,
+Depuis que pour Dunkerque on vous vid quitter Blois.
+Thelame n'est ceans venu pas une fois,
+Qui peut s'emanciper⁎ de dire le contraire
+Fait à la verité…
+
+Et bien pour ne vous pas en ce poinct contredire,
+Apres l'avoir souffert, croyez que j'en soupire,
+Non pas du repentir d'avoir receu ses vœux,
+Mais bien du doux plaisir que me causent ses feux,
+En suis-je pour cela moins loüable qu'une autre ?
+Sa maison en honneur cede-t'elle à la nostre ?
+Que s'il hérite peu de ses Ancestres morts,
+N'a-t'il pas des vertus qui sont les vrais tresors ?
+
+Quoy me quitter ainsi ?
+
+S'absenter de ces lieux ?
+
+Mourir desesperé ?
+
+Ne pas perseverer ?
+
+Ah Thelame !
+
+      Ha charmant⁎ inhumain.
+Si vous bruslez pour moy d'un veritable zéle,
+Si vous estes constant, genereux⁎ & fidelle,
+Si dans mes interests vous prenez quelque part,
+Si mes jours vous sont chers differez ce depart ;
+Le Temps de qui le cours renverse toutes choses
+Peut-estre changera nos espines en roses.
+Demeurez, cher Thelame, ou pour le moins craignez
+Qu'un autre ait par la force un cœur où vous regnez,
+Thelame songez-y, songez-y bien mon Ame,
+En un mot demeurez, ou je meurs cher Thelame.
+
+      R'assurez-vos esprits,
+Vous n'avez seulement qu'à garder le silence,
+Ce valet a sa part dans nostre confidence,
+Mon frére l'a si bien pratiqué sur ce poinct
+Que s'il void quelque chose, il ne parlera point.
+
+      J'y suis seule.
+Amy…
+
+Quoy ce noble d'un jour, grossier jusqu'à son nom ?
+Ah ! de grace, Monsieur, aymez plus vostre fille,
+Sçachez mieux maintenir vostre illustre famille,
+Ce seroit en tirer l'éclat dans le tombeau,
+Un peu de vilain sang tache & gaste le beau.
+
+Je ne sçaurois reprendre un cœur que j'ay donné.
+
+      Sylvestre, justes Cieux
+Songe à tirer mon cœur⁎ des mains d'un furieux⁎.
+
+Contraignez-vous pour moy, cher & fidelle Amant.
+
+Pour me faire subir vostre injuste rigueur,
+Faites, pere cruel, que j'aye un autre cœur.
+
 Lucille à ce surcroist de malheurs sans esgaux,
 Laisse-moy chercher seule un remede à mes maux,
 Souffre que sans secours je combatte ma peine.
 Cependant attends-moy dans la chambre prochaine⁎.
 
-**** *book_ *id_III02 *act_III *date_1650 *creator_brosse 
-
--*who_melice
 L'Esprit envelopé d'un nuage d'ennuis⁎
 Je m'égare en moy-mesme, & ne sçais où je suis,
 Mon destin rigoureux m'a mis dans une route
@@ -1063,17 +1452,6 @@ Je crains hors de saison ce valet & mon pere,
 Qu'importe que tous deux dressent vers moy leurs pas,
 Puisque l'un ne peut lire, & l'autre ne void pas.
 
-**** *book_ *id_III03 *act_III *date_1650 *creator_brosse
-
--*who_sylvestre
-Elle est seule, Monsieur, le temps vous est propice.
-
--*who_cleanthe
-Trouveray-je à present ma fille dans Melice ?
-Ne ferme-t'elle plus l'oreille à son devoir ?
-Reconaist-t'elle enfin mon absolu pouvoir ?
-
--*who_melice
 En cette occasion recourons à la feinte.
 Ah ! Monsieur, ajoustez la vengeance à la plainte,
 Usez des droicts d'un pere, & me faites sentir
@@ -1087,483 +1465,263 @@ D'avoir de Thelame souffert la tyrannie,
 Cette indigne souffrance est une lâcheté
 Qui ne se doit toucher que d'un bras irrité.
 
--*who_cleanthe
-Ma fille un repentir si grand & si visible
-Aux transports⁎ de courroux me rend inaccessible,
-Je ne vous demandois que ce juste dédain
-D'un infertile amour conceu sans mon dessein,
-Je prejugeois tousjours malgré vos resistances,
-Que Thelame formoit de vaines esperances,
-Et que voulant avoir de plus riches liens
-Son merite en oubly, vous songeriez aux biens.
-Le succez⁎ est d'accord avecque mon attente,
-Ce noble incommodé n'a plus rien qui vous tente,
-Vous ne desirez plus d'en faire vostre espoux,
-Ses talens ne sont pas de bon alloy pour nous,
-Sa taille, sa parole, & son maintien aimable,
-S'ils remplissoient le lict, couvriroient mal la table.
-Celuy que je destine à vos pudiques⁎ vœux,
-A d'autre or que celuy qui jaunit les cheveux,
-Son pere tous les jours malgré nos longues guerres
-A cent coutres⁎ tranchants fait déchirer ses terres,
-Que s'il n'est pas issu d'Ayeux fort renommez,
-Il tient dans son buffet des Nobles enfermez,
-Au Temps où nous vivons ces qualitez sont rares
-Et doivent adoucir les cœurs les plus barbares⁎ ;
-Le vostre pourroit-il encor deliberer
-De s'y laisser fléchir, & de les adorer ?
-
--*who_melice
 Sans regarder les biens, le rang ny la personne,
 Je reçois un époux que mon pere me donne,
 S'il l'estime il me plaist, & d'un esprit soumis
 Je l'ayme dés cette heure autant qu'il est permis.
 
--*who_cleanthe
-C'est ainsi que répond une fille bien née,
-Allez, je vous prédis un heureux hymenée⁎,
-Acceptant un espoux de ma main seulement,
-Le pire de vos jours coulera doucement .
-Que le vieux Parmenon aura de joye en l'ame
-Aussi-tost qu'il sçaura que son fils vous enflame,
-Et que le Ciel propice aux vœux que nous faisons
-D'un sacré nœud d'hymen⁎ unira nos maisons  ! 
-Il luy faut sans demeure⁎ addresser une lettre
-Qui l'assure d'un bien qu'il n'osoit se promettre,
-Prenez viste la plume, & couchez par escrit
-Une suite de mots qui me vient dans l'esprit.
-
--*who_melice
 Servons-nous de ce temps, afin d'achever celle
 Que je veux envoyer à mon Amant fidelle.
 
--*who_cleanthe
-Mettez, Monsieur sçachez que ma fille veut bien …
-
--*who_melice
 Attendez, s'il vous plaist, ma plume ne vaut rien.
 Elle ne marque pas, je n'escris rien qui vaille,
 Si je m'en veux servir il faut que je la taille.
 
--*who_sylvestre
-Attendant qu'elle soit plus commode à sa main,
-Confabulons nous deux touchant un mien dessein.
-
--*who_cleanthe
-Quel secret important as-tu donc à m'apprendre ?
-
--*who_sylvestre
-Que depuis ce matin j'enrage de me pendre.
-
--*who_cleanthe
-De te perdre meschant, n'és-tu pas yvre ou fou ?
-
--*who_sylvestre
-J'en ay jetté la pierre & lancé le caillou,
-Sur ce poinct desormais ma volonté s'obstine,
-Je veux estre pendu, mais au cou de Nerine,
-Ce gibet me plaist tant, je le dis sans peché,
-Que je seray ravy⁎ de m'y voir attaché.
-Me contredirez-vous en ce que je propose ?
-
--*who_cleanthe
-Sylvestre de ma part espere toute chose.
-Mais sçachons si Melice a mis sa plume au poinct
-De peindre⁎ ma pensee, & de ne broüiller⁎ point.
-
--*who_melice
 Mon canif tranche mal, & jusqu'icy ma peine
 A la rendre meilleure est inutile & vaine.
 Je m'en vais essayer pour la derniere fois
 A la mettre en estat d'obeïr à mes doigts.
 
--*who_cleanthe
-Tellement que Nerine a ravi ta franchise ?
-
--*who_sylvestre
-Oüy, ses regards filoux d'aujourd'huy me l'ont prise,
-Mais si vostre credit se joint à mes efforts
-J'auray bien-tost sur elle une prise de corps.
-
--*who_melice
 Ces lignes suffiront, finissons la presente
 Par vostre tres-acquise & tres-fidelle Amante.
 
--*who_cleanthe
-N'est-ce pas fait Melice ? ah Ciel quelle longueur.
-
--*who_melice
 Oüy, Monsieur, mon pinceau⁎ se trouve un peu meilleur,
 J'espere d'en former quelque bon caractere⁎
 Qui maintiendra l'honneur de la fille & du pere.
 Dictez.
 
--*who_cleanthe 
-      Monsieur, sçachez que ma fille veut bien
-Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,
-Qu'il vienne promptement, & n'apprehende rien,
-Comme il plaist à Cleanthe, il agree à Melice.
-
-Il suffit de ces mots, pliez, & le dessus
-Soit au vieux Parmenon, prez de Tours, & rien plus.
-Bon Dieu que vous serez heureuse avec cet homme,
-On dort sur de l'Argent d'un agreable somme,
-Le duvet le plus mol n'a rien de doux au prix,
-Le bien est le repos des corps & des esprits,
-Mais cachetez le mot que vous venez d'escrire.
-
--*who_melice
 Monsieur je ne sçaurois, n'ayant ny feu ny cire.
 
--*who_cleanthe
-Va querir un flambeau, mon fidelle valet.
-Vous prenez cette clef, ouvrez mon cabinet,
-Sans qu'il soit de besoin que je vous accompagne,
-Vous y rencontrerez de la cire d'Espagne.
-L'impudente se trompe en me pensant tromper,
-J'ay levé par deux fois la main pour la frapper,
-Mais voulant éprouver sa fourbe⁎ toute entiere
-J'ay retenu mon bras & contraint ma colere,
-Sans que les siens se soient deffiez de mes yeux
-J'ay veu de son écrit les traits pernicieux,
-Lors qu'elle me croyoit repaistre d'impostures⁎
-Je lisois mot à mot ses folles escritures,
-J'en sçay le contenu, mais pour les détester
-Je veux bien estant seul tout haut le réciter.
-Pour le vieux Parmenon, cette fille insensee
-A suivy son caprice, & non pas ma pensee.
-Monsieur ce mot d'escrit est pour vous avertir
-Que vostre fils n'est pas un party pour ma fille,
-Tout mon sang se revolte, & ne peut consentir
-Qu'une goute du vostre entre dans ma famille.
-
--*who_cleanthe
-La perfide ! ô Ciel qu'auroit-ce esté
-Si j'eusse eu tant soit peu plus de credulité ?
-Cette autre est de sa part addressee à Thelame
-Voyons les beaux projets que forme cette infame.
-Seul & doux espoir de mes yeux
-Puis que le desespoir vous bannit de ces lieux,
-Apprenez que je vous veux suivre ;    54
-Meditez mon enlevement,
-Comme sans vous je ne puis vivre
-J'y souscrit volontairement.
-Melice, vostre acquise & tres-fidelle Amante.
-
--*who_cleanthe
-Je rendray sans effect cette envie insolente.
-Mais la voicy qui vient, remettons ces escrits
-A l'endroit qu'ils estoient lors que je les ay pris,
-Et comme auparavant contrefaisant l'infirme
-Que sa fourbe⁎ à nos yeux jusqu'au bout se confirme.
-
--*who_melice
 J'apporte de la cire.
 
--*who_sylvestre
-      Et Sylvestre un flambeau.
-
--*who_cleanthe
-Donnez à cette lettre un ply juste & nouveau,
-Et puis de mon cachet imprimant la figure
-Contre les curieux armez cette escriture.
-Que je doy rendre au Ciel de graces & de vœux
-De vous trouver si soupple à tout ce que je veux !
-
--*who_melice
 La pieté m'oblige, & le Ciel me convie
 D'obeïr à celuy duquel je tiens la vie,
 Tousjours de vos desirs je hasteray l'effect
 Avec tout le plaisir & le soing que j'ay fait,
 Recevez vostre lettre.
 
--*who_cleanthe
-      O fille obeissante,
-Qu'un semblable propos me plaist & me contente,
-Allez, je n'ay pour l'heure aucun besoin de vous.
-
--*who_melice
 Forçons nostre destin à devenir plus doux,
 Lucille m'a promis son silence & sa peine,
 Allons la retrouver dans la chambre prochaine⁎,
 Et d'un pas aussi prompt que mon commandement,
 Envoyons-la porter ce mot à mon Amant.
 
-**** *book_ *id_III04 *act_III *date_1650 *creator_brosse 
+Donne-le-moy, Lucille, & permets qu'à mon aise
+J'en admire les traits, je les lise & les baise.
+Ciel que viens-je d'apprendre ! & que viens-je de voir !
+Donc ma seule esperance a trahi mon espoir,
+L'objet⁎ de mon amour neglige, fuit, & blâme,
+Le noble excez d'amour qu'il excite en mon ame.
+Ah ! Thelame, apres tout ce refus m'est suspect,
+La crainte vous l'inspire, & non pas le respect,
+Vous preferez le vostre au repos de Melice,
+Il n'est rien qu'en aimant un grand cœur⁎ n'accomplisse.
+Lucille, si l'ingrat en qui j'espere en vain
+Se ressouvient des traits qu'a figurez sa main,
+L'air que l'obscurité de la nuit environne,
+Me doit bien-tost ici faire voir sa personne,
+Va l'attendre en la ruë, & l'ameine sans bruit,
+Juger du triste estat où mon cœur est reduit.
 
--*who_sylvestre
-Et puis fiez-vous-y, parbieu ce sexe est drôle,
-Il a la ruse en main ainsi que la parole,
-Monsieur songez à vous, Melice a du dessein.
+Vostre vertu, Thelame, a réveillé la mienne,
+Vous ne m'avez rien dit dont je ne me souvienne,
+J'ay receu des clartez de vous avoir oüy,
+Mon jugement les void sans en estre ébloüy,
+N'apprehendez donc point que je vous mes-estime,
+Si vous me reprenez sur le projet d'un crime,
+Je vous en aime mieux, & je mets mon bonheur
+A mourir pour celuy qui m'a sauvé l'honneur.
+Mourir ! ah qu'ay-je dit, gardons-nous de poursuivre,
+Pour qui me chérit tant ne songeons plus qu'à vivre.
+Et tâchons de reduire un pere sans pitié
+A céder aux ardeurs de sa chaste amitié⁎.
 
--*who_cleanthe
-Il m'est conu, Sylvestre, & je le rendray vain.
-Parlons de Lidamas, esperes-tu qu'il vienne ?
+      Je ne sçaurois vous dire adieu Thelame
+On manque de parolle au poinct de perdre l'Ame
+Recevez un soupir au defaut de la voix.
+Mais qui conduit icy, ce valet que je vois.
 
--*who_sylvestre
-S'il ne vient pas, il faut que le Diable le tienne,
-Mais il ne le tient pas, je l'apperçoy qui vient,
-Comportons-nous tous deux, ainsi qu'il appartient.
+Vous pouvez aisement éviter ces orages
+Hastez-vous de courir vous cacher dans ce coin,
+Du reste n'ayez peur, j'en veux prendre le soin.
 
-**** *book_ *id_III05 *act_III *date_1650 *creator_brosse 
+      Sylvestre me l'a dit
+Le Ciel quand il luy plaist agit sans contredit.
+Puisqu'il a commencé de vous rendre la veuë
+Ce grand commencement doit avoir pleine issuë,
+Et certes si l'on peut recueillir quelque fruit
+Des avertissemens que nous donne la nuict
+Si l'on peut quelque fois s'asseurer sur les songes
+Et si tous leurs rapports ne sont pas des mensonges
+L'on vous verra bientost dans mon pressentiment
+Tout à fait garanty de vostre aveuglement.
 
--*who_cleanthe
-Préparons le présent que j'ay promis de faire
-Au Soleil animé qui m'échauffe & m'éclaire,
-Et qui malgré la nuit de mon aveuglement
-Eslance ses rayons dans mon entendement,
-Je ne pouvois d'un don plus seant ny modeste
-Honnorer un visage autrefois tout celeste.
-Par beaucoup de rapports, une montre est un Ciel.
-Reglé dedans son cours, bien qu'artificiel,
-Plus benin que ce globe où sont cloüez les Astres,
-Sans y contribuer il marque nos desastres,
-Et si comme ce corps il ne fait pas le Temps
-Il en marque du moins l'espace & les instans.
+Quand Sylvestre est venu m'apprendre que le Ciel
+Ne versoit plus sur vous tant d'absinthe & de fiel
+Et qu'avec l'un des yeux sa colere assouvie
+Vous rendoit le plus pur des plaisirs de la vie,
+L'esprit ensevely dans un profond sommeil
+Vostre front m'a paru couronné d'un Soleil
+Dont les rayons épars dessus vostre visage
+Le tiroient tout brillant du milieu d'un nuage.
+Ce phantosme charmant⁎ auroit beaucoup duré
+Si Sylvestre en parlant ne l'eust point effaré.
+Tel est en peu de mots, mon songe & ses peintures,
+Tâchons s'il est menteur d'en voir les impostures⁎
+Et s'il présage vray dans ses obscuritez
+Tâchons pareillement d'en voir les veritez.
+Il n'est pas mal-aisé d'en venir à l'épreuve
+S'il plaist de vous servir d'un moyen que je treuve.
 
--*who_sylvestre
-Ne soyez pas craintif dedans cette rencontre⁎,
-L'occasion vous rit, escamottez la montre.
+      Laissant donc les discours superflus
+Vostre œil gauche est le bon, mettez la main dessus
+Ainsi vous jugerez avec plus d'assurance
+Si des objets présens le droict a connoissance
+Et si de mon sommeil, les bijares tableaux
+Estoient remplis de traits veritables ou faux.
 
--*who_cleanthe
-Sylvestre, approche, escoute, est-il l'heure d'aller
-Vers les yeux que j'adore & paraitre & brusler.
-
--*who_lidamas
-Usons en ce moment de l'avis⁎ de Sylvestre.
-
--*who_sylvestre
-Monsieur vostre raison est sans doute en sequestre,
-A quoy bon dites-moy de faire des présens
-A des attraits passez, à des masques présens ?
-
--*who_cleanthe
-Reçoy, mauvais censeur, homme plein d'insolence
-D'un plus grand chastiment un soufflet par avance.
-Olimpe pour ta veuë est un objet⁎ trop haut,
-Ce qu'elle a d'accomply te paroist un defaut.
-
--*who_lidamas
-Je n'ose dire mot, cher Sylvestre de grace
-Tesmoigne du despit, & te plains en ma place.
-
--*who_cleanthe
-Si jamais…
-
--*who_sylvestre
-      Si jamais je suis vostre valet
-Que l'on m'estrille en asne, en cheval, en mulet,
-Que le plus froid des Vents sans cesse au nez me souffle,
-Qu'on me prenne par tout pour sot & pour marouffle.
-Vostre bras à fraper n'eut jamais de pareil,
-Quoy ? sans vous informer si l'on craint le Soleil
-Et si l'on ayme moins le temps clair que le sombre,
-Vostre main met ainsi les visages à l'ombre,
-Sans trancher du sçavant, ny sans passer pour fol
-Je puis d'oresnavant la nommer parasol⁎.
-
--*who_cleanthe
-Ces façons de parler bouffonnes & fantasques
-T'attireront encor…
-
--*who_sylvestre
-      Quoy ? d'autres demy marques.
-
--*who_lidamas
-Pendant leur different qui flatte mon desir
-Pour la seconde fois tâchons à reüssir.
-
--*who_sylvestre
-Adieu, je ne veux plus conduire qui m'outrage,
-Il vous faut un valet qui n'ait point de visage.
-
--*who_cleanthe
-Sylvestre qu'est-cecy, veux-tu m'abandonner ?
-
--*who_sylvestre
-Oüy, je ne fus jamais enclin à pardonner.
-
--*who_cleanthe
-Voy ma condition, & regarde la tienne.
-
--*who_lidamas
-Enfin j'ay pris sa montre, & supposé⁎ la mienne,
-Allons trouver Olimpe, & faisons aujourd'huy
-Un commerce⁎ amoureux des richesses d'autruy.
-
-**** *book_ *id_III06 *act_III *date_1650 *creator_brosse 
-
--*who_sylvestre
-Monsieur il est sorty, la feinte est superfluë,
-En se pensant brancher ce bel oyseau s'engluë.
-
--*who_cleanthe
-Parmy les mouvemens⁎ dont je me sens toucher
-Je ne sçay si je dois ou rire ou me fascher,
-Qu'en ce siecle de fer où le vice prospere
-L'on trouve peu d'enfans qui respectent leur pere,
-Et que j'espreuve bien en ma juste douleur
-Que n'en avoir jamais est un heureux malheur.
-Sylvestre poursuivons l'intrigue de la montre,
-Prouve encor ton esprit dedans cette rencontre⁎,
-Ne te relâche point.
-
--*who_sylvestre
-      Par Nerine & ses yeux
-Je me comporteray tousjours de bien en mieux.
-
-**** *book_ *id_IV01 *act_IV *date_1650 *creator_brosse
-
--*who_lidamas
-Mon cœur⁎ refuse-t'il ce que ma main luy donne ?
-Qui neglige mes dons, dédaigne ma personne,
-Rejetter un present, c'est le visible effet
-Du degoust que l'on a de celuy qui le fait.
-
--*who_olimpe
-Pour guerir vostre esprit d'une telle croyance,
-Je peche expressement contre la bienseance,
-Le refus des présents est de nostre devoir,
-Mais qui donne son cœur peut bien tout recevoir.
-
--*who_lidamas
-Cette montre est, Madame, une montre commune,
-Je ne croy pas pourtant que mon pere en ait une…
-
--*who_olimpe
-Il vient, n'achevez pas.
-
--*who_lidamas
-      O Ciel qu'il me déplaist,
-Jamais homme ne fut plus importun qu'il l'est.
-
-**** *book_ *id_IV02 *act_IV *date_1650 *creator_brosse
-
--*who_cleanthe
-Apres que j'ay promis ma memoire me presse
-De faire succeder l'effet à ma promesse,
-C'est le premier motif qui me conduit icy,
-L'autre est d'y soupirer mon amoureux soucy⁎.
-
--*who_olimpe
-Monsieur épargnez-moy, quoy mes beautez péries
-Meriteroient vos dons, feroient vos resveries ?
-Tant de présomption ne me possede pas,
-L'on ne peut beaucoup plaire avec si peu d'appas⁎.
-
--*who_cleanthe
-Ah que vous vous donnez & me causez de peine,
-Sur moy plus que jamais vous estes souveraine,
-Ce que jamais vos yeux eurent de ravissant,
-Ce qu'ils eurent de doux, de noble & de puissant,
-Tout ce qu'Amour peignit sur vostre front d'yvoire ;
-Au moment que je parle est peint dans ma memoire,
-Je vous en apprendrois & l'empire & les coups⁎
-Si mes discours n'estoient écoutez que de vous.
-
--*who_olimpe
-Personne n'est icy que Sylvestre & Nerine.
-
--*who_cleanthe
-Qu'ils s'en aillent tous deux dans la chambre prochaine⁎.
-Madame faites-en un prompt commandement.
-
--*who_olimpe
 Sortez.
 
--*who_sylvestre
-      Que je te vay cajoler diablement.
+Que je suis estonnée⁎.
 
--*who_cleanthe
-Madame, je disois que tous les avantages
-Que vous eustes jamais sur les plus beaux visages,
-Que ces charmes⁎ divins dont je fus asservy
-Vivent dans mon idée, & que j'en suis ravy⁎,
-Encor que mon tourment surpasse toute chose
-J'en deviens idolastre ainsi que de sa cause,
-Et souhaite qu'hymen⁎ nous arreste tous deux
-Dans des liens tissus d'indissolubles nœuds.
-Si je n'avance rien dont vous soyez faschée⁎,
-Si mes soupirs ardents vous ont un peu touchée,
-Et si vous desirez de m'en rendre certain
-Que ce soit en prenant ce present de ma main.
+Le fils de Parménon est arrivé, Monsieur,
+Et le voicy qui vient vous offrir son service.
 
--*who_olimpe
-Qu'est-il dedans l'honneur que pour vous je ne fasse,
-Je le reçoy, Monsieur, & je vous en rends grace.
 
--*who_cleanthe
-Ainsi vous m'obligez⁎ beaucoup plus mille fois
-Que si vous soumettiez tout le monde à mes lois.
-Je tiens cete faveur & glorieuse & chere,
-Que je baise la main qui me la vient de faire.
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thelame
 
--*who_olimpe
-Hé ! Monsieur.
+Mon espoir me trahit, & ma raison s'égare
+D'esperer de flechir ce naturel avare,
+Jamais de mon amour le respect sans égal
+Ne touchera ce cœur de terre & de metal,
+Pour luy faire trouver des ardeurs legitimes
+Il luy faut apporter le Soleil des abismes.
+Le bien est son objet⁎, & ce riche indigent
+Estime & pese un homme au poids de son argent.
+Ah ! Madame, il le faut, mon mauvais sort l'ordonne , 
+Que j'aille sou pirer loing de vostre personne.
+Un puissant desespoir qui combat mon amour,
+Me marque ailleurs un long & funeste sejour.
+Cessez de vous flater⁎, l'avarice d'un Pere
+Ne s'abstiendra jamais de nous estre contraire.
+Adieu, de vostre aveu⁎ felicitez mes pas.
 
--*who_cleanthe
-      Quels transports⁎ ? ô Ciel je n'en puis plus.
-Encor un peu de temps, & j'expire dessus.
-Chaste albastre animé, belle main que je touche,
-Tu peux prendre mon cœur, il est dedans ma bouche.
+      Quoy ne vous quitter pas ?
 
--*who_olimpe
-Monsieur encor un coup.
+      On y hait ma presence.
 
--*who_cleanthe
-      Ah Madame, laissez,
-Je reçoy du plaisir plus que vous ne pensez.
+      Vivre sans esperance.
 
--*who_olimpe
-Si quelqu'un nous voyoit que ne pourroit-on croire ?
+      Perseverer en vain.
 
--*who_cleanthe
-Rien qui ne peust beaucoup augmenter vostre gloire,
-Rien qui ne témoignast vostre inclination,
-Vostre rare merite & vostre affection.
-Mais je crains d'abuser de vostre patience,
-Et d'estre deplaisant à vostre complaisance,
-Remply de vos faveurs, je prends congé de vous,
-Adieu de mes pensers, objet⁎ cruel & doux.
-Sylvestre.
+      Ah Melice !
 
--*who_sylvestre
-      A te quitter faut-il donc me resoudre,
-Joly moulin à vent où j'ay dessein de moudre.
-Que vouléz-vous de moy ?
+Puissamment esbranlé de vos ardents soupirs,
+Mais mieux persuadé de mes bruslans desirs,
+Madame, j'y consens, racourcissez mes chaisnes,
+De vostre prisonnier rendez les courses vaines.
+Deusse-je respirer sous des Astres plus durs
+Blois encor quelque temps me tiendra dans ses murs.
 
--*who_cleanthe
-      Rien qu'en estre conduit.
+Cleanthe arrive ici, Madame il m'a surpris,
+Son valet luy dira.
 
--*who_sylvestre
-Allons, je suis le jour & vous estes la nuit,
-Suivez vostre falot.⁎
+      Amant infortuné !
 
--*who_lidamas
-      Il en tient⁎ le bon-homme,
-Il va benir tout seul le feu qui le consomme,
-Il croit avoir baisé cette adorable main.
+Je ne sçaurois souffrir⁎ ce honteux traitement.
 
--*who_nerine
+Non jamais vostre main n'écrivit cette lettre,
+Vostre rare vertu ne l'auroit pû permettre,
+Je crois absolument qu'un folastre demon
+A comme vostre main emprunté vostre nom.
+Si chez vous la raison a repris son Empire,
+Vous ne blâmerez pas ce que je viens de dire,
+Et prendrez mes discours pour d'assurez tesmoins
+Qu'on flatte⁎ davantage alors qu'on aime moins.
+
+L'Amitié⁎ ne peut rien sur cet homme barbare⁎
+Ce beau feu n'agist pas dessus un cœur avare
+Donc au lieu de nourrir un espoir superflu
+Permettez mon départ que le Ciel a conclu
+Adieu.
+
+Si j'en suis apperceu, je pressens ses outrages.
+
+Monsieur ne croyez pas qu'en dépit de l'obstacle
+Qu'oppose à mes ardeurs vostre avare courroux
+Je vienne revolter vostre sang contre vous
+Ce coupable dessein, n'entre pas dans mon ame
+J'en jure.
+
+Moy Monsieur ! espargnez.
+
+Je ne puis recevoir plus d'honneur en ma vie.
+
+Que puissions-nous mourir, si nous le declarons.
+
+
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+
+Quoy ma discretion vous est-elle suspecte ?
+Ignorez-vous encor combien je vous respecte ?
+
+Vous pristes du plaisir à l'entendre, à le voir,
+Vostre esprit & vos sens vindrent à s'esmouvoir,
+Vous l'aimates enfin !
+
+On fit courir le bruit qu'hymen⁎ dans peu de jours
+Devoit de vos ardeurs authoriser le cours.
+
+Ce malheur arrivé depuis une ou deux Lunes
+Peut-il causer encor vos plaintes importunes ?
+
+Ce poinct est un secret qui ne m'est pas conu.
+
+Cônut-il vôtre amour ?
+
+Jusqu'icy quel sujet avez-vous d'estre triste ?
+
+Je ne puis presumer qu'en son aveuglement
+Cleanthe veüille encor passer pour vôtre Amant,
+Son fils au pis aller par de promptes adresses⁎
+Vous delivrera bien de ses froides caresses.
+
+Vous me faites rougir par trop de complaisance,
+Fist le Ciel que vos yeux aussi bons qu'autrefois …
+
+Monsieur vous m'honorez plus qu'il ne m'appartient,
+Reservez vos presens pour de plus belles Dames,
+Je ne merite pas ny vos dons ny vos flames,
+Et je puis assurer que si vous me voyez
+Vous plaindriez vos presens s'ils m'estoient envoyez.
+
+Monsieur tout mon desir tend à vous satisfaire,
+S'il vous plaist de m'offrir un present aujourd'huy,
+Ayant un cœur pour vous, j'auray des mains pour luy.
+
+Maintenant que je puis m'exprimer sans contrainte,
+Permetez que mon cœur⁎ se montre à vous sans crainte,
+Madame, voulez-vous acquerir un renom
+Qui ternisse à jamais l'éclat de vostre nom ?
+Voulez-vous, negligeant l'amitié⁎ de Cleanthe,
+Qu'on die à l'avenir, Olimpe est inconstante,
+Sa passion luy pleut avant son mauvais sort,
+Et l'œil sec maintenant, elle le verroit mort.
+Ah ! Madame, évitez ce reproche sensible,
+Laissez-vous surmonter⁎ à sa flame invincible,
+Malgré les faux rapports que l'on luy fait de vous,
+Sa plus ardente envie est d'estre vostre espoux,
+Ce constant serviteur⁎ vous aime en toute forme,
+Heureuse,  infortunee, agreable ou difforme,
+Reconaissez, Madame, un zele⁎ si parfait,
+Et dans vos premiers feux persistez comme il fait.
+
 Deux Dames dans la sale attendent à dessein
 De vous faire aujourd'huy compliment & visite.
 
--*who_olimpe
-Je les vay recevoir.
-
--*who_lidamas
-      Adieu donc je vous quitte.
-
-**** *book_ *id_IV03 *act_IV *date_1650 *creator_brosse
-
--*who_nerine
 Madame, s'il vous plaist revenez sur vos pas,
 Ce n'est qu'un faux semblant, on ne vous attend pas.
 
--*who_olimpe
-Explique-donc pourquoy tu m'as dit le contraire ?
-
--*who_nerine
 Pour tromper Lidamas, & pour vous en défaire,
 Pour vous prier encor de garder vostre foy⁎
 A qui vit plus en vous qu'il n'est vivant en soy,
@@ -1574,15 +1732,6 @@ Ce n'est à bien parler qu'un oyseau passager,
 Qui ne peut demeurer long-temps en une place
 Que le Printemps ameine, & qu'un jour d'hyver chasse.
 
--*who_olimpe
-Cruelle à quel dessein me tiens-tu ce propos ?
-Pourquoy traverses⁎-tu ma flame & mon repos ?
-Quelle haine couverte⁎, & quelle noire envie
-Te fait en mon amour attenter sur ma vie ?
-D'où te naissent ces soins⁎ que je n'approuve pas
-Et qui te porte enfin à blâmer Lidamas ?
-
--*who_nerine
 Mon zele seulement & la peur raisonnable
 Qu'un faux & feint amour en trompe un veritable.
 Celuy que vostre cœur cherit si constamment
@@ -1600,25 +1749,40 @@ Mais à son bienfaicteur elle l'a redonnee,
 Afin de ruiner le vertueux dessein
 Que Cleanthe pour vous entretient dans son sein.
 
--*who_olimpe
-Qu'entens-je, juste Ciel, & que dis-tu Nerine ?
-
--*who_nerine
 Ce que m'a dit Sylvestre en la chambre voisine.
 Ce que mal-aisément on peut s'imaginer,
 Mais Sylvestre n'est pas garçon pour en donner.
 
--*who_olimpe
-Apprends-moy plus au long cette facheuse histoire.
-
--*who_nerine
 Telle qu'il me l'a dite elle est dans ma memoire,
 Mais j'apperçoy quelqu'un qui pourroit écouter,
 Venez ailleurs qu'icy l'entendre raconter.
 
-**** *book_ *id_IV04 *act_IV *date_1650 *creator_brosse 
 
--*who_lucille
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucille
+
+Ouy je l'ay rencontré cet Amant deplorable⁎
+Maudissant les rigueurs d'un pere inexorable,
+Se plaignant du destin, de soy-mesme & de vous,
+Et comme un furieux⁎ se meurtrissant de coups.
+Lucille, m'a-t'il dit, aussi-tost qu'il m'a veuë,
+C'en est fait, je me rends, ma constance est vaincuë,
+Je ne puis plus lutter contre mon mauvais sort,
+Il triomphe, & l'espoir qui me reste est la mort :
+Va-t'en, ajouste-t'il, trouver hors de Thelame
+Son cœur & ses desirs, ses pensers & son ame ;
+J'entends le digne objet⁎ qui me tient dans ses fers,
+Que je vois à toute heure, & pourtant que je pers ;
+Ce superbe Démon qui poursuit les offences,
+Qui suggere & qui prend de sanglantes vengeances,
+L'honneur, esprit mouvant de tout cœur⁎ noble & prompt,
+Me crie incessamment, vange-toy d'un affront.
+Son empressante voix & m'émeut & me pique⁎ ;
+Mais afin d'éviter un accident Tragique,
+Je veux dés aujourd'huy m'absenter de ces lieux,
+Avertis-en Melice, & luy fay mes adieux.
+Ces tristes mots finis, le cœur plein de tristesse,
+Et l'œil noyé de pleurs, il s'enfuit & me laisse.
+
 Je ne vay qu'en tremblant retrouver ma maitresse,
 Elle a juste sujet de punir ma paresse,
 Sans causer nulle part je devois revenir,
@@ -1642,27 +1806,170 @@ C'est Cleanthe, évitons cet Aveugle importun,
 Et parce que Sylvestre avecque luy s'approche,
 Glissons en esquivant ce papier dans ma poche.
 
-**** *book_ *id_IV05 *act_IV *date_1650 *creator_brosse
+Madame la voici, ne vous tourmentez plus,
+Vostre pere & Sylvestre avoient les pieds dessus.
+Mais l'un estant aveugle, & de bonne aventure⁎
+L'autre n'ayant jamais rien sceu dans la lecture,
+Je ne m'estonne point s'ils n'ont pas amassé⁎
+Cet escrit que Thelame a lui mesme tracé.
 
--*who_sylvestre
+Si vous le commandez je ne m'en puis defendre,
+Mais je croirois meilleur de ne le point attendre,
+Il a, vous le sçavez, une clef du jardin,
+Il peut en y passant accourcir son chemin,
+Et sçachant du logis jusqu'à la moindre addresse⁎
+Il peut encor sans bruit venir voir sa maitresse⁎,
+Comme je l'ay preveu l'affaire a reüssi,
+Mes yeux se sont trompez, ou c'est lui que voici.
+
+
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sylvestre
+
+Quand je vous obeïs, je suis dedans mon centre,
+Si je ments d'un seul mot battez-moy dos & ventre,
+Quoy que pauvre garçon, je suis homme de bien,
+Et pour vous le montrer, il m'a dit, ne dy rien.
+
+S'il a rien dit de plus, jamais je ne vous serve.
+Toutefois…
+
+M'ayant dit, ne dy rien ; il ajouste, & voy tout,
+Et sa langue n'a pas prononcé ces paroles
+Qu'il me fait dans la main couler quelques pistoles.
+
+      Si ma dague estoit bien émouluë
+J'ouvrirois à vos yeux ma poitrine veluë.
+C'est tout, ou jamais Vin n'entre dedans mon corps,
+Et cela c'est vouloir passer au rang des morts.
+
+Je veux encor un coup, si je ne suis secret
+Ne boire à l'avenir, ny vin blanc ny clairet.
+O l'horrible serment ! j'en ay l'ame opilee.
+Me garde d'un tel mal la gresle & la gelee,
+Apres avoir lâché ce moult grand jurement⁎
+Me refuserez-vous un éclaircissement ?
+
+      Chose qui n'est d'autre que de vous sçeuë,
+D'où vient que vous feignez d'avoir perdu la veuë ?
+Pourquoy depuis six mois faire croire en ces lieux
+Que l'huile & le cotton ont manqué dans vos yeux ?
+
+Ma foy si dans le monde on trouve un plus fin homme,
+Je partiray demain pour l'aller dire à Rome.
+Au Diable en ce mestier vous feriez des deffis.
+
+Si j'y manque d'un mot, couvrez⁎-moy les deux jouës.
+
+      Ne craignez rien, j'auray fort bonne gueule.
+
+      Hé, Monsieur, ô vous son pere unique,
+Car la defuncte estoit, à ce qu'on croit, pudique,
+Vous son vray geniteur, avez-vous entrepris
+De faire plus que Dieu, de forcer les esprits ?
+Laissez aller Madame où son amour l'appelle,
+Celuy qu'elle cherit n'est-il pas digne d'elle ?
+Sa flamberge l'a mis au nombre des plus preux,
+Il a l'esprit fort bon, & le corps vigoureux,
+Sa bonne mine enfin & sa naissance libre
+Mettent avec vos biens Thelame en equilibre.
+
+Ha ah ! je n'en puis plus.
+
+Vous m'avez fait les yeux plus gros que ceux d'un dogue.
+
+Allez, sortez, fuyez, drillez qu'il ne vous frape.
+
+Je sçay friser la corde en de tels personnages.
+Assurez-vous de moy, je paye à temps prefix,
+Et dans l'art de fourber⁎ Sylvestre est un phœnix.
+
+On trouve en bien cherchant, la chose est bien certaine
+Ne fust-ce qu'un ciron égaré dans la plaine,
+Si celle dont l'absence accroist vostre souci⁎
+N'est pas dedans sa chambre, on la rencontre ici.
+
+      Attendez donc que vous soyez vers elle,
+Vous ressemblez les chiens de chez Jean de Nivelle,
+Vous abbayez de loing. Avancez, Alte-là.
+Tournez-vous autrement, parlez, vous y voila.
+
+Tandis qu'ils jaseront, causons nous deux de grace.
+
+      Oüy, maistre, en un pas c'en est fait.
+Vous son unique fils, mon zele vous exhorte
+De venir avec moy, parce qu'il vous importe.
+
+Elle est seule, Monsieur, le temps vous est propice.
+
+Attendant qu'elle soit plus commode à sa main,
+Confabulons nous deux touchant un mien dessein.
+
+Que depuis ce matin j'enrage de me pendre.
+
+J'en ay jetté la pierre & lancé le caillou,
+Sur ce poinct desormais ma volonté s'obstine,
+Je veux estre pendu, mais au cou de Nerine,
+Ce gibet me plaist tant, je le dis sans peché,
+Que je seray ravy⁎ de m'y voir attaché.
+Me contredirez-vous en ce que je propose ?
+
+Oüy, ses regards filoux d'aujourd'huy me l'ont prise,
+Mais si vostre credit se joint à mes efforts
+J'auray bien-tost sur elle une prise de corps.
+
+      Et Sylvestre un flambeau.
+
+Et puis fiez-vous-y, parbieu ce sexe est drôle,
+Il a la ruse en main ainsi que la parole,
+Monsieur songez à vous, Melice a du dessein.
+
+S'il ne vient pas, il faut que le Diable le tienne,
+Mais il ne le tient pas, je l'apperçoy qui vient,
+Comportons-nous tous deux, ainsi qu'il appartient.
+
+Ne soyez pas craintif dedans cette rencontre⁎,
+L'occasion vous rit, escamottez la montre.
+
+Monsieur vostre raison est sans doute en sequestre,
+A quoy bon dites-moy de faire des présens
+A des attraits passez, à des masques présens ?
+
+      Si jamais je suis vostre valet
+Que l'on m'estrille en asne, en cheval, en mulet,
+Que le plus froid des Vents sans cesse au nez me souffle,
+Qu'on me prenne par tout pour sot & pour marouffle.
+Vostre bras à fraper n'eut jamais de pareil,
+Quoy ? sans vous informer si l'on craint le Soleil
+Et si l'on ayme moins le temps clair que le sombre,
+Vostre main met ainsi les visages à l'ombre,
+Sans trancher du sçavant, ny sans passer pour fol
+Je puis d'oresnavant la nommer parasol⁎.
+
+      Quoy ? d'autres demy marques.
+
+Adieu, je ne veux plus conduire qui m'outrage,
+Il vous faut un valet qui n'ait point de visage.
+
+Oüy, je ne fus jamais enclin à pardonner.
+
+Monsieur il est sorty, la feinte est superfluë,
+En se pensant brancher ce bel oyseau s'engluë.
+
+      Par Nerine & ses yeux
+Je me comporteray tousjours de bien en mieux.
+
+      Que je te vay cajoler diablement.
+
+      A te quitter faut-il donc me resoudre,
+Joly moulin à vent où j'ay dessein de moudre.
+Que vouléz-vous de moy ?
+
+Allons, je suis le jour & vous estes la nuit,
+Suivez vostre falot.⁎
+
 Aspre à vous satisfaire autant & plus qu'aux pots,
 N'ay-je pas inventé ce mensonge à propos ?
 
--*who_cleanthe
-Va, tu merites trop, cette adraite imposture⁎
-Me remet vers Olimpe en meilleure posture ;
-Elle est à Lidamas un coup⁎ triste & fatal
-Qui doit dans peu de temps changer son bien en mal,
-Rien n'excita jamais le dépit d'une femme
-A l'égal du mespris que l'on fait de sa flame,
-Et son courroux éclate avec juste sujet
-Quand qui la sert s'applique à quelqu'indigne objet⁎.
-Si Nerine t'a creu, je ne fay point de doute
-Qu'à cette heure à l'escart Olimpe ne l'escoute,
-Et que voyant ses feux si laschement trahis
-Elle ne foule aux pieds le présent de mon fils.
-
--*who_sylvestre
 Si Nerine m'a creu ! Ce mot de si, me picque⁎,
 Elle tient mes discours reglez comme Musique,
 Plus qu'à pas un mortel elle se fie en moy,
@@ -1682,23 +1989,8 @@ Eust esté le repas des corbeaux & des loups,
 Et que bravant la mort d'une façon hautaine
 Il eust dansé dans l'air jusqu'à perte d'haleine.
 
--*who_cleanthe
-Il est vray que sans moy, ce pauvre malheureux
-Auroit suby la loy d'un Arrest rigoureux,
-Il s'estoit declaré deserteur de Milice,
-Et le conseil de guerre en eust fait la Justice.
-Mais laissons ce discours, & ne ramenons point
-La memoire d'un acte où tant d'opprobre est joint
-Suffit que par mes soins je sauvay ce coupable.
-Revenons à Nerine, elle te plaist ?
-
--*who_sylvestre
       Sans fable.
 
--*who_cleanthe
-Elle sçait donc de toy mon feint aveuglement ?
-
--*who_sylvestre
 Je suis trop vieux Renard pour cet aveuglement,
 Quand le Ciel m'auroit mis dedans le corps cent Ames
 Je n'en découvrirois pas une seule aux femmes,
@@ -1707,131 +1999,6 @@ Se taire fut tousjours le pire de leurs maux,
 Et s'il faut clairement exprimer ma pensee,
 Pour garder un secret la femme est trop percee.    1130
 
--*who_cleanthe
-Ce discours est encor un trait de ton esprit.
-Mais qui dans cette sale a laissé cet escrit ?
-Donne-le-moy, Sylvestre, il faut voir ce qu'il porte,
-La plume de Thelame escrit de cette sorte,
-L'addresse⁎ est à Melice, ó Ciel ce suborneur
-Tend infailliblement un piege à son honneur.
-Madame j'ay leu vostre lettre
-Qui veut m'obliger à promettre
-De marquer mon depart par vostre enlevement,
-Je suis vostre sujet, mais je tiens pour maxime
-Que quand un Roy commande un crime
-On desobeit justement.
-Ce soir à la faveur de l'ombre
-Accompagné d'ennuis⁎ sans nombre,
-J'iray selon vostre ordre à dessein de vous voir,
-Mais au lieu de ceder à votre injuste envie
-A vos yeux je perdray la vie
-Ou vous suivrez vostre devoir.
-Thelame.
-
--*who_cleanthe
-      Transporté de tristesse & de joye
-Comme entre deux chemins mon esprit se fourvoye,
-Deux divers mouvemens⁎ me tirent devers eux,
-Et je doute lequel je doy suivre des deux.
-Mais c'est trop balancer, dissipons cette doute,
-Suivons la plus plaisante & la meilleure route,
-Et destournant les yeux d'une fille sans cœur⁎
-Envisageons celui qui sauve son honneur.
-Il doit bien-tost venir, car desja les estoiles
-Desployent parmi l'air leurs tenebreuses toiles,
-Je veux recompenser sa veritable amour,
-Et paraitre envers lui genereux⁎ à mon tour,
-Sa vertu m'a surpris, avant que le jour vienne
-Je le veux à l'envy surprendre par la mienne,
-Mon esprit occupé dans un dessein si beau
-M'en fournit un moyen agreable & nouveau.
-Esperez donc, Thelame, & n'ayez plus de crainte
-Que je choque⁎ l'ardeur dont vostre ame est atteinte,
-Je vous promets ma fille, & par dedans mes biens,
-Vous avez des tresors qui surpassent les miens.
-La voici cette fille, indigne de ma grace
-Rejettons ce papier, & luy cedons la place.
-
-**** *book_ *id_IV06 *act_IV *date_1650 *creator_brosse 
-
--*who_lucille
-Madame la voici, ne vous tourmentez plus,
-Vostre pere & Sylvestre avoient les pieds dessus.
-Mais l'un estant aveugle, & de bonne aventure⁎
-L'autre n'ayant jamais rien sceu dans la lecture,
-Je ne m'estonne point s'ils n'ont pas amassé⁎
-Cet escrit que Thelame a lui mesme tracé.
-
--*who_melice
-Donne-le-moy, Lucille, & permets qu'à mon aise
-J'en admire les traits, je les lise & les baise.
-Ciel que viens-je d'apprendre ! & que viens-je de voir !
-Donc ma seule esperance a trahi mon espoir,
-L'objet⁎ de mon amour neglige, fuit, & blâme,
-Le noble excez d'amour qu'il excite en mon ame.
-Ah ! Thelame, apres tout ce refus m'est suspect,
-La crainte vous l'inspire, & non pas le respect,
-Vous preferez le vostre au repos de Melice,
-Il n'est rien qu'en aimant un grand cœur⁎ n'accomplisse.
-Lucille, si l'ingrat en qui j'espere en vain
-Se ressouvient des traits qu'a figurez sa main,
-L'air que l'obscurité de la nuit environne,
-Me doit bien-tost ici faire voir sa personne,
-Va l'attendre en la ruë, & l'ameine sans bruit,
-Juger du triste estat où mon cœur est reduit.
-
--*who_lucille
-Si vous le commandez je ne m'en puis defendre,
-Mais je croirois meilleur de ne le point attendre,
-Il a, vous le sçavez, une clef du jardin,
-Il peut en y passant accourcir son chemin,
-Et sçachant du logis jusqu'à la moindre addresse⁎
-Il peut encor sans bruit venir voir sa maitresse⁎,
-Comme je l'ay preveu l'affaire a reüssi,
-Mes yeux se sont trompez, ou c'est lui que voici.
-
-**** *book_ *id_IV07 *act_IV *date_1650 *creator_brosse 
-
--*who_thelame
-Non jamais vostre main n'écrivit cette lettre,
-Vostre rare vertu ne l'auroit pû permettre,
-Je crois absolument qu'un folastre demon
-A comme vostre main emprunté vostre nom.
-Si chez vous la raison a repris son Empire,
-Vous ne blâmerez pas ce que je viens de dire,
-Et prendrez mes discours pour d'assurez tesmoins
-Qu'on flatte⁎ davantage alors qu'on aime moins.
-
--*who_melice
-Vostre vertu, Thelame, a réveillé la mienne,
-Vous ne m'avez rien dit dont je ne me souvienne,
-J'ay receu des clartez de vous avoir oüy,
-Mon jugement les void sans en estre ébloüy,
-N'apprehendez donc point que je vous mes-estime,
-Si vous me reprenez sur le projet d'un crime,
-Je vous en aime mieux, & je mets mon bonheur
-A mourir pour celuy qui m'a sauvé l'honneur.
-Mourir ! ah qu'ay-je dit, gardons-nous de poursuivre,
-Pour qui me chérit tant ne songeons plus qu'à vivre.
-Et tâchons de reduire un pere sans pitié
-A céder aux ardeurs de sa chaste amitié⁎.
-
--*who_thelame
-L'Amitié⁎ ne peut rien sur cet homme barbare⁎
-Ce beau feu n'agist pas dessus un cœur avare
-Donc au lieu de nourrir un espoir superflu
-Permettez mon départ que le Ciel a conclu
-Adieu.
-
--*who_melice
-      Je ne sçaurois vous dire adieu Thelame
-On manque de parolle au poinct de perdre l'Ame
-Recevez un soupir au defaut de la voix.
-Mais qui conduit icy, ce valet que je vois.
-
-**** *book_ *id_IV08 *act_IV *date_1650 *creator_brosse 
-
--*who_sylvestre
 Madame concluez de ce que je vay dire
 Si vous avez sujet de pleurer ou de rire,
 Si vous devez bénir ou maudire le sort,
@@ -1845,187 +2012,15 @@ Bref il void clair d'un œil, & cét œil est le gauche,
 Il m'a dit qu'il viendroit dans peu de temps icy,
 Il tient ce qu'il promet Madame le voicy.
 
--*who_thelame
-Si j'en suis apperceu, je pressens ses outrages.
-
--*who_melice
-Vous pouvez aisement éviter ces orages
-Hastez-vous de courir vous cacher dans ce coin,
-Du reste n'ayez peur, j'en veux prendre le soin.
-
-**** *book_ *id_IV09 *act_IV *date_1650 *creator_brosse
-
--*who_cleanthe
-Ma fille prenez part à la soudaine joye
-Dans qui mon cœur se plonge & mon ame se noye,
-J'ay pour l'heure un bon œil.
-
--*who_melice
-      Sylvestre me l'a dit
-Le Ciel quand il luy plaist agit sans contredit.
-Puisqu'il a commencé de vous rendre la veuë
-Ce grand commencement doit avoir pleine issuë,
-Et certes si l'on peut recueillir quelque fruit
-Des avertissemens que nous donne la nuict
-Si l'on peut quelque fois s'asseurer sur les songes
-Et si tous leurs rapports ne sont pas des mensonges
-L'on vous verra bientost dans mon pressentiment
-Tout à fait garanty de vostre aveuglement.
-
--*who_cleanthe
-Quel prophetique instinct, ou quel heureux augure
-Entretient vostre esprit dans cette conjecture ?
-
--*who_melice
-Quand Sylvestre est venu m'apprendre que le Ciel
-Ne versoit plus sur vous tant d'absinthe & de fiel
-Et qu'avec l'un des yeux sa colere assouvie
-Vous rendoit le plus pur des plaisirs de la vie,
-L'esprit ensevely dans un profond sommeil
-Vostre front m'a paru couronné d'un Soleil
-Dont les rayons épars dessus vostre visage
-Le tiroient tout brillant du milieu d'un nuage.
-Ce phantosme charmant⁎ auroit beaucoup duré
-Si Sylvestre en parlant ne l'eust point effaré.
-Tel est en peu de mots, mon songe & ses peintures,
-Tâchons s'il est menteur d'en voir les impostures⁎
-Et s'il présage vray dans ses obscuritez
-Tâchons pareillement d'en voir les veritez.
-Il n'est pas mal-aisé d'en venir à l'épreuve
-S'il plaist de vous servir d'un moyen que je treuve.
-
--*who_cleanthe
-Volontiers.
-
--*who_melice
-      Laissant donc les discours superflus
-Vostre œil gauche est le bon, mettez la main dessus
-Ainsi vous jugerez avec plus d'assurance
-Si des objets présens le droict a connoissance
-Et si de mon sommeil, les bijares tableaux
-Estoient remplis de traits veritables ou faux.
-
--*who_cleanthe
-Subtile invention, industrie⁎ agreable !
-
--*who_melice
-Sortez.
-
--*who_cleanthe
-      Vous avez fait un songe veritable
-Melice je vous voy, je voy Thelame aussi
-O Ciel ! qu'heureusement ce songe a reussy.
-
--*who_melice
-Que je suis estonnée⁎.
-
--*who_sylvestre
       Il faut crier miracle.
 
--*who_thelame
-Monsieur ne croyez pas qu'en dépit de l'obstacle
-Qu'oppose à mes ardeurs vostre avare courroux
-Je vienne revolter vostre sang contre vous
-Ce coupable dessein, n'entre pas dans mon ame
-J'en jure.
-
--*who_cleanthe
-      Brisez là. Je le sçay bien Thelame
-Les traits de vostre main, m'ont fait voir vostre cœur⁎
-Et passant jusqu'au mien ont tüé ma rigueur , 
-Plus touché de respect que cette ingratte fille
-Vous avez conservé l'honneur de ma famille.
-
--*who_thelame
-Moy Monsieur ! espargnez.
-
--*who_cleanthe
-      Vostre discretion
-Vous fait desavoüer cette bonne action.
-Mais je suis esclaircy de toute cette histoire
-Vos nobles sentimens sont peints dans ma memoire.
-Vos molles lâchetez y sont peintes aussi,
-Mais s'il en faut parler, c'est autre part qu'icy.
-Cependant s'il est vray que vous l'aymiez encore
-Scachez que vos vertus font que je vous honore,
-Et qu'avecque plaisir je permets que demain
-Elle vous donne au Temple & le cœur & la main.
-
--*who_thelame
-Je ne puis recevoir plus d'honneur en ma vie.
-
--*who_cleanthe
-Je conduiray l'affaire au gré de vostre envie,
-A la charge pourtant, que vous ne direz point
-Qu'à mon Aveuglement tant d'artifice⁎ est joinct,
-Je veux encor joüer⁎ par cette ruse adraitte
-Un temeraire fils, une Amante indiscrette⁎
-Sçavoir jusqu'à quel poinct leur fourbe⁎ peut aller,
-Et comment ils pourront enfin s'en démeller,
-Je commets⁎ ce secret à vostre confidence
-Songez à le tenir sous la clef du silence.
-
--*who_thelame
-Que puissions-nous mourir, si nous le declarons.
-
--*who_cleanthe
-En jurez vous tous deux.
-
--*who_thelame_melice
-      Ouy nous vous en jurons.
-
-**** *book_ *id_V01 *act_V *date_1650 *creator_brosse
-
--*who_lidamas
-J'aurois fait cette injure⁎ à l'objet⁎ que j'adore ?
-Aprés tant de sermens, le croyez-vous encore ?
-Faut-il incessamment vous les reïterer ?
-Tout l'Element du feu me vienne devorer,
-Et si j'ay merité les soupçons où vous estes
-L'Air s'arme contre moy d'Esclairs & de Tempestes , 
-La Mer me creuse un lict au profond de son Eau
-Et la Terre entr'ouverte en son centre un tombeau,
-Tout l'Univers enfin me donne des allarmes⁎
-Si j'ay si mal traité vostre amour & vos charmes⁎,
-Et si depuis l'instant que je les admiray
-Pour d'autres que pour eux, mon cœur a souspiré.
-Lasche & perfide autheur d'un rapport⁎ qui m'offence,
-Tu ne te peux soustraire à ma juste vengeance
-Sans mettre en contrepoids ma naissance & ton rang,
-Pour laver ton forfait je verseray ton sang,
-La justice du ciel contraire à l'Imposture⁎
-M'ameine cette ingrate & vile créature,
-Le voicy le menteur qui vous en a tant dit
-Remarquez à quel poinct il paroist interdit,
-Ma rencontre l'estonne⁎ ; & son maintien timide⁎
-En me justifiant accuse ce perfide.
-Avance malheureux⁎, & sans aucun détour
-Parle & rend promptement la vie à mon Amour,
-Quelle autre que Madame est sur moy souveraine ?
-Quelle autre me retient d'une invisible chaisne ?
-Quelle autre me remarque entre ses courtisans ?
-Et quelle autre a jamais receu de mes presents ?
-Respond, il te sied mal de craindre & de te taire
-Ta crainte & ton silence augmentent ma colere.
-
-**** *book_ *id_V02 *act_V *date_1650 *creator_brosse 
-
--*who_sylvestre
 Monsieur promettez moy que vos mains en courroux,
 Ne me chargeront pas d'une gresle de coups,
 Et j'ose m'engager aprés cette promesse
 De vous remettre bien avec vostre Maitresse⁎.
 
--*who_lidamas
-Parle donc viste, & sois sans apprehension.
-
--*who_sylvestre
 Madame auparavant soyez sa caution.
 
--*who_olimpe
-Ne crains rien, je responds qu'il te tiendra parolle.
-
--*who_sylvestre
 Le discours que j'ay fait n'est qu'une pure colle.
 Qu'une poudre à soufler dans les débiles⁎ yeux,
 Qu'un mensonge de ceux qu'on nomme officieux⁎
@@ -2038,63 +2033,26 @@ Rende en le supplantant ses esperances vaines,
 D'un plein commandement m'a fait vous desservir
 Vers le plus digne objet⁎ qui vous pouvoit ravir⁎.
 
--*who_lidamas
-Quoy le mauvais party que tu m'as voulu faire
-Est un trait⁎ envoyé de la part de mon pere ?
-Il sçait que j'ayme Olimpe ? & que cette beauté
-Ne m'a point jusqu'icy fait voir de cruauté ?
-Quel ennemy couvert⁎ ? quelle bouche indiscrette ?
-A pû luy découvrir une amour si secrette ?
-
--*who_sylvestre
 Luy seul l'a descouverte, & luy seul desormais
 S'il en a le dessein vous jouëra de bons traits⁎.
 
--*who_lidamas
-Parle plus clairement, explique tes paroles.
-
--*who_sylvestre
 Parce qu'on me fait taire à force de pistolles.
 Vostre raisonnement vous fait-il soupçonner
 Que je ne parle pas, lors qu'on m'en veut donner ?
 
--*who_lidamas
-Sylvestre je t'entends⁎, prends cecy par avance.
-
--*who_sylvestre
 Qui donne de l'argent, preste bien du silence,
 Escoutez-moy parler ; je voy clair ?
 
--*who_lidamas
-      Je le croy.
-
--*who_sylvestre
 Vostre pére, Monsieur, voit aussi clair que moy.
 
--*who_lidamas
-Tu me veux abuser d'une autre menterie⁎.
-
--*who_sylvestre
 Si je ments, jettez-vous dessus ma fripperie.
 
--*who_olimpe
-Cleante verroit clair ! depuis quand justes Cieux ?
-
--*who_sylvestre
 Depuis que dans le monde il apporta des yeux,
 Et que debarassé du ventre de sa mére,
 Il vint avecque l'Air respirer la lumiere.
 
--*who_olimpe
-Il n'est donc pas aveugle ?
-
--*who_sylvestre
       Et jamais ne le fut.
 
--*who_lidamas
-Apprens nous de sa feinte & la cause & le but.
-
--*who_sylvestre
 Un semblable recit est de trop longue haleine,
 Vous l'entendrez pourtant n'en soyez pas en peine,
 Je vous diray tantost d'un langage naif⁎
@@ -2110,33 +2068,12 @@ Que vous n'ignoriez pas son feint aveuglement,
 Et que les libertez prises en sa presence
 N'estoient que des essays d'user de patience .
 
--*who_lidamas
-Blois ny le monde entier n'eut jamais ton pareil,
-Charmé⁎ de ton esprit, j'approuve ton conseil,
-Desja pour reüssir dedans cette entreprise
-Je n'ay besoin de rien que de ton entremise.
-J'imagine un moyen facile à pratiquer
-Par qui sera moqué, qui pretend nous moquer.
-
--*who_sylvestre
 Assurez-vous de moy, je vous donne parole
 D'apporter tous mes soins à bien joüer⁎ mon rôle.
 
--*who_lidamas
-Il suffit, en ce lieu sans plus nous arrester
-Dans la chambre prochaine⁎ allons nous concerter.
-
--*who_sylvestre
 Allez & trouvez bon qu'icy seul je demeure
 Nostre piéce en sera plus secrette & meilleure.
 
--*who_lidamas
-Adieu, nous te laissons la chose estant ainsi.
-Ton salaire est tout prest, mais sers nous bien aussi.
-
-**** *book_ *id_V03 *act_V *date_1650 *creator_brosse
-
--*who_sylvestre
 Par quel autre moyen détourner la tempeste
 Qui menaçoit mon dos aussi bien que ma teste ?
 Lidamas irrité m'eust accablé de coups,
@@ -2161,33 +2098,15 @@ Plustost que de jeusner, j'iray la teste nuë,
 Estocader du bras les passans dans la ruë , 
 Mon Maistre me deusse-t -il… il vient à petits pas.
 
-**** *book_ *id_V04 *act_V *date_1650 *creator_brosse 
-
--*who_cleanthe
-N'ay-je pas entendu la voix de Lidamas.
-
--*who_sylvestre
 Cela se peut, il sort.
 
--*who_cleanthe
-      Avec celle que j'ayme ?
-
--*who_sylvestre
 Justement.
 
--*who_cleanthe
-      Aucun d'eux ne sçait mon stratageme ?
-
--*who_sylvestre
 Je demeure confus à cét interrogat⁎
 Il me frappe à l'honneur je vous le dis tout plat.
 Il semble à vous ouyr, que je sois la gazette,
 Mais pour vos interests j'ay la gueule muette.
 
--*who_cleanthe
-Miroir des bons valets, & des vrays confidents.
-
--*who_sylvestre
 Au reste Lidamas en tient droict la dedans.
 Mais du fer asseré d'une si rude fléche
 Que sa raison ne peut en reparer la bresche,
@@ -2198,397 +2117,20 @@ A promis d'exercer ce criminel outrage,
 Monsieur avisez-vous, prevenez ce malheur
 Et donnez quelque chose à sa jeune chaleur⁎.
 
--*who_cleanthe
-Ton conseil en cecy ne m'est pas necessaire,
-J'ay desja resolu ce qu'il est bon de faire,
-Mais sans me défier de ta discretion,
-Je te tais sur ce point ma resolution.
-Donc sans qu'à la sçavoir tu te rompes la teste,
-Va t'en tenir mon lict & ma toilette preste,
-Ce livre cependant sera mon entretien.
-
--*who_sylvestre
 Je l'estimeray bon, si vous le goustez bien.
 
--*who_cleanthe
-La suitte du Menteur. Lisons du premier acte.
-Et faisons de ces vers une censure exacte.
-
-**** *book_ *id_V05 *act_V *date_1650 *creator_brosse
-
--*who_lidamas
-Quoy le livre à la main ?
-
--*who_cleanthe
-      Ouy mon fils & j'avoüe
-Que le Ciel en ses soings merite qu'on le louë,
-Sylvestre de ma part vous est allé chercher
-Et sa longueur passoit au poinct de me fascher.
-
--*who_lidamas
-Que desirez vous donc de mon obeissance.
-
--*who_cleanthe
-Rien sinon que vous faire escrire ma despense.
-Et dresser un memoire en qui soit contenu
-L'Argent à mon valet donné par le menu,
-Je veux m'instruire au vray jusqu'à combien il monte,
-Tenez, cherchez du blanc dans ce livre de compte,
-Puis d'une main habille & d'un trait assuré,
-Peignez⁎ y nettement ce que je dicteray.
-
--*who_lidamas
-La rencontre⁎ est plaisante, il faut que je le die,
-Vostre livre de compte est une Comedie !
-
--*who_cleanthe
-Vous me joüez⁎ mon fils, mais finissez ce jeu,
-Qui vous sied assez mal, & me déplaist un peu.
-
--*who_lidamas
-Qu'il dissimule bien, & qu'il abonde en ruses.
-Monsieur si j'avois tort , j'en ferois mes excuses.
-Mais que puisse le Ciel, ou l'Enfer en courroux,
-En ce mesme moment, m'aveugler comme vous.
-Si je vous en impose⁎, & si c'est fantaisie,
-Que ce livre de compte est une poësie.
-On le vend dans Paris en vingt lieux au Palais,
-Cent fois ce qu'il contient s'est dit dans le Marais,
-J'ay souvent pris plaisir à l'entendre moy-mesme,
-Et contre les censeurs defendu ce poëme.
-Il est intitulé la suitte du Menteur
-Et sort du cabinet d'un excellent Autheur.
-
--*who_cleanthe
-Seroit-il bien possible ?
-
--*who_lidamas
-      Il est tres véritable.
-
--*who_cleanthe
-Qu'avec un tel valet, un Maistre est miserable⁎,
-Ce coquin de Sylvestre à tous coups⁎ s'estourdit,
-Et ne fait jamais bien les choses qu'on luy dit
-Je veux compter à luy, puis le mettre à la porte.
-
--*who_lidamas
-Moy l'accabler de coups auparavant qu'il sorte
-Je suis icy venu pensant l'y rencontrer,
-Mais le Ciel à mes yeux ne le veut pas montrer , 
-Quelque endroit de la ville où je puisse l'atteindre,
-Je sçauray le reduire au terme de se plaindre,
-Il n'obtiendra de moy ny trêve ny cartier
-Et ne luy restera pas un seul os entier.
-
--*who_cleanthe
-Qu'a t'il fait qui merite une telle menace ?
-
--*who_lidamas
-Une action, un trait⁎ d'insuportable audace,
-Un rapport⁎ si perfide, un mensonge si noir
-Et si bien coloré que l'on n'y peut rien voir.
-
--*who_cleanthe
-Cét intrigue incognu conduit par mon organe,
-Resulte de la montre & de la Courtisane,
-J'ay mieux esté servy que je ne l'esperois ;
-Mais ne feignons pas moins que si je l'ignorois.
-
--*who_lidamas
-Monsieur que dittes vous ? vous parlez ce me semble.
-
--*who_cleanthe
-J'accuse & je defends mon valet tout ensemble,
-Tantost jusques à luy ma colere descend,
-Puis je me ressouviens que c'est un innocent⁎
-Qui parle sans raison, sans cause, & sans mesure,
-Et qui croit obliger⁎ alors qu'il fait injure⁎.
-Ainsi vostre courroux se pourroit assouvir
-Du Sang d'un Animal qui pensoit vous servir.
-
--*who_lidamas
-C'est donc un Animal, bien cruel & bien traitre,
-Qui poursuit & qui mort les enfans de son Maistre.
-Certes si je le puis rencontrer où je vais,
-Je l'empescheray bien de les mordre jamais.
-
-**** *book_ *id_V06 *act_V *date_1650 *creator_brosse
-
--*who_olimpe
-Hô Dieux ! je vay tomber, accourrez je vous prie.
-Mon pied s'est enlassé dans la tapisserie .
-
--*who_cleanthe
-Je suis à vous Madame, & vous craignez en vain,
-Qui donne bien le Cœur, peut bien prester la main.
-
--*who_olimpe
-Monsieur, j'estois sans vous de secours despourveuë,
-Donc les Cieux adoucis vous ont rendu la veüe ?
-
--*who_cleanthe
-N'en faites pas, Madame, un si bon jugement,
-Je suis plus que jamais dedans l'Aveuglement.
-
--*who_olimpe
-Comment doncques d'un pas aussi ferme qu'habille,
-M'avez-vous fait trouver vostre presence utile ?
-Certes nul ne pouvoit s'offrir plus à propos,
-Et je croy qu'il faut voir pour estre si dispos⁎.
-
--*who_cleanthe
-Ah ! Madame, quittez cette vaine croyance,
-Et pour le vray tout pur, laissez la vray-semblance.
-Si j'ay paru si prompt à vous rendre un devoir,
-Et fait ce qu'avec peine on peut faire sans voir
-N'en jugez rien, sinon qu'en mes ardeurs parfaites,
-Un naturel instinct me conduit où vous estes.
-De ce sincére âveu concluez que vos yeux,
-Sont encore des miens les Astres & les Dieux.
-
--*who_olimpe
-Je puis apres le trait⁎ que vous venez de faire
-Conclure encor qu'Amour vous guide & vous esclaire.
-Et qu'en tous vos besoins, sensible & pourvoyant,
-Quand il luy plaist d'Aveugle il vous rend clair-voyant.
-
--*who_cleanthe
-Ce discours m'est suspect. Je confesse Madame,
-Que ce Dieu se declare en faveur de ma flame,
-Aussi reconaist-on quel que soit son excez , 
-Que mon cœur n'en ressent que d'honnestes accez.
-
--*who_olimpe
-Doncques puis qu'envers moy vostre Amour est si pure,
-Tout interest à part, vangez moy d'une injure⁎ :
-Un insolent m'a fait un affront signalé⁎.
-
--*who_cleanthe
-Quel qu'il soit autant vaut qu'il vous soit immolé,
-Son Nom ?
-
--*who_olimpe
-      C'est Lidamas.
-
--*who_cleanthe
-      Lidamas !
-
--*who_olimpe
-      Ouy luy-mesme.
-
--*who_cleanthe
-Vous a fait un affront, charmant⁎ objet⁎ que j'ayme,
-Oser se prendre à vous c'est s'attaquer à moy,
-Mais apprenez m'en l'heure, & comment, & pourquoy ?
-
--*who_olimpe
-Il m'a fait par priére accepter une montre…
-Juste Ciel à mes yeux permets-tu qu'il se montre,
-Il s'avance, le lasche, & marque son mespris
-En mal traitant celuy par qui j'ay tout appris.
-
-**** *book_ *id_V07 *act_V *date_1650 *creator_brosse 
-
--*who_lidamas
-Fay bien l'espouventé.
-
--*who_sylvestre
       Vous ne cessez de dire , 
 Je réüssiray mieux que vous qui sçavez lire.
 
--*who_lidamas
-Ah ! Madame au plus fort de mon cuisant soucy⁎,
-Je me répute⁎ heureux de vous trouver icy,
-Voyez cét imposteur⁎. Je veux que dessus l'heure
-Il me fasse connoistre innocent, ou qu'il meure , 
-Je veux qu'en ce lieu mesme il declare à genoux
-Que je n'ay jamais eu que des respects pour vous.
-Et s'il veut tout à fait appaiser ma colére,
-Qu'il die alors qu'il ment, quel esprit le suggére.
-
--*who_cleanthe
-Prends garde sur ta vie à ne me pas nommer.
-
--*who_lidamas
-Veux tu par ton silence encor me diffamer,
-Parle donc malheureux⁎, ou ma pitié lassée…
-
--*who_olimpe
-Voulez-vous le contraindre à trahir sa pensée.
-
--*who_lidamas
-Le perfide qu'il est par un motif couvert⁎,
-Craint de desavoüer un rapport⁎ qui me perd.
-Mais puisque par l'effet d'un respect qui le touche,
-La verité ne peut s'apprendre de sa bouche,
-Puissamment transporté de mon juste dessein,
-Je m'en la vay chercher jusque dedans son sein.
-
--*who_cleanthe
-Arrestez, Lidamas, hé ! que pensez-vous faire ?
-
--*who_lidamas
-Depuis quand dittes moy, voyez vous clair mon pére ?
-Qu'en cette nouveauté, je me sens resjouy,        
-Et que je voy mon deüil⁎ bientost esvanoüy.
-
--*who_cleanthe
-Tout beau⁎, tout beau⁎ mon fils, moderez vostre joye,
-C'est un abus⁎ à vous de croire que je voye,
-Je n'ay quand j'ay retint vostre bras & ce fer,
-Qu'entre-veu seulement une lueur dans l'Air,
-Au reste resistez à ces chaudes Allarmes⁎
-Qui vous font sans sujet avoir recours aux Armes,
-En quoy que ce Maraut ait pû vous offencer,
-La meilleure vangeance est de n'y plus penser .
-Parler à contre temps n'est que son ordinaire , 
-Comme de declarer les choses qu'il faut taire,
-L'innocent⁎ m'a bien dit, mais je ne le croy point,
-Que vostre cœur aymoit Olimpe au dernier poinct,
-Que vous brusliez pour elle, & qu'elle mesme encore,
-Avoit quelque pitié du feu qui vous devore.
-
--*who_lidamas
-Sylvestre en ce rapport a dit la Verité,
-Je ne le cele⁎ point Olimpe m'a dompté,
-Et bien que cét aveu vous choque⁎ & vous irrite,
-Je n'ay pû sans l'aymer cognoistre son merite.
-Mais qu'une telle Amour m'a fait souffrir de mal,
-J'ay mille fois rougy d'estre vostre rival,
-Et mille fois encor ne sçachant plus que faire,
-Je me suis opposé que vous estiez mon pére,
-Ce vertueux combat d'Amour & de respect,
-Entre Madame & moy s'est fait à vostre aspect⁎,
-N'osans par le discours vous découvrir nos Ames,
-Nostre geste a tasché d'en mettre au jour les flames,
-Vous le sçavez, Monsieur, tout s'est fait devant vous,
-Et vos yeux s'ils parloient, le diroient mieux que nous.
-
--*who_cleanthe
-Vous me venez de faire un discours bien estrange !
-Olimpe qui m'ayma me néglige & me change,
-Un fils que je croyois en vertu sans esgal,
-Son devoir en oubly, s'est rendu mon rival ?
-Et ce qui plus encor me surprend & m'offence,
-Si l'on croit vos discours, j'en ay pris connoissance.
-Mes yeux par plusieurs fois ont pû me rapporter,
-Des feux que vostre aveu n'osoit manifester.
-Falloit-il fils ingrat & plein de barbarie,
-A la brutalité joindre la Raillerie ?
-Et d'un discours picquant, impie & concerté,
-Vous rire insolamment de mon infirmité ?
-
--*who_lidamas
-A d'Autres desormais tenez un tel langage ;
-Vous mettez hors de temps les feintes en usage,
-Ne dissimulez plus, vostre Artifice⁎ est sçeu,    
-Et qui pensoit tromper, s'est luy-mesme deçeu.
-Nos traits⁎ divertissants, nos galantes addresses⁎,
-Prouvent que nous estions instruits de vos finesses.
-Et si vous desiriez que je m'explique mieux,
-Olimpe est sans attraits, ainsi que vous sans yeux.
-
--*who_cleanthe
-Lasche, tu m'as trahy.
-
--*who_sylvestre
       Pardonnez-moy, mon Maistre.
 
--*who_lidamas
-La verité de soy se fait assez connaistre.
-
--*who_cleanthe
-Cependant je vous puis justement accuser
-De promettre beaucoup, & de tout refuser.
-Je devois posseder vostre corps & vostre Ame,
-Lidamas toutesfois en joüira, Madame.
-Mais dittes pour excuse en Proverbe commun,
-Que le pere & le fils, ne sont reputez qu'un.
-
--*who_olimpe
-Je diray bien plustost dedans la bienseance,
-Que mon jugement seul a fait mon inconstance,
-Sçachant que vous feigniez d'estre aveugle vers moy,
-J'ay creu que mon abord⁎ vous donnoit de l'effroy.
-Et que vous ne faisiez cette feinte impreveuë,
-Qu'afin de m'advertir d'éviter vostre veuë.
-Donc si mon procedé vous a mal satisfait,
-Blasmez-vous seul d'un mal que vous vous estes fait.
-
--*who_cleanthe
-La response est adroitte & l'excuse plausible,
-Pour ce nouvel amant tesmoignez-vous sensible.
-Je me repute⁎ heureux qu'ayant à me quitter,
-Vos yeux dessus mon fils ayent daigné s'arrester,
-Apres ce sentiment de mon Amour esteinte,
-Apprenez-moy de qui vous avez sçeu ma feinte ?
-
--*who_sylvestre
 Ils me vont declarer, je tremble de frayeur.
 
-**** *book_ *id_V08 *act_V *date_1650 *creator_brosse 
-
--*who_melice
-Le fils de Parménon est arrivé, Monsieur,
-Et le voicy qui vient vous offrir son service.
-
--*who_cleanthe
-Ma fille il n'est plus temps, on sçait mon artifice⁎,
-Mon faux aveuglement a perdu son credit
-Et s'explique autrement que je ne l'eusse dit,
-Laissons la feinte à part, & reglans mieux les choses,
-Tirons de vrais plaisirs, de veritables causes,
-Disposez-vous tous quatre à vous donner demain,
-Devant les saincts Autels le cœur avec la main.
-
--*who_olimpe
-Quoy donc l'Aversion conceuë envers Thelame ? …
-
--*who_cleanthe
-Ainsi que vostre amour est dehors de mon Ame.
-
--*who_olimpe
-Dittes-nous quel remede a pû vous en guerir.
-
--*who_cleanthe
-Son insigne vertu qu'on ne peut trop cherir,
-Mais vous, dittes comment ma feinte est reconnuë.
-
--*who_lidamas
-Nous en ferons ailleurs l'histoire toute nuë,
-Qui vous obligera d'avouer en l'oyant,
-Que nous avons joüé⁎, l'Aveugle Clair-voyant.
-
--*who_cleanthe
-Entrons.
-
--*who_sylvestre
       Toubeau⁎ Monsieur, où courrez-vous si viste
 Vous arriverez bien, où vous irez au giste,
 Avez-vous oublié mon Amour copieux ?
 
--*who_cleanthe
-Vostre suivante a pris mon valet par les yeux,
-Madame consentez à ce beau mariage.
-
--*who_olimpe
-J'y consens.
-
--*who_sylvestre
       J'auray soing de la paix du Mesnage,
 Et sans que je t'oblige à payer ma façon,
 J'essairay dés demain à te faire un garçon.
 
-**** *book_ *id_privilege *date_1650 *creator_brosse
-
-Extraict du Privilege du Roy.
-
-Par grace & privilege du Roy donné à Paris le 10. jour de Novembre 1649.
-Signé, Par le Roy en son Conseil, Le Brun.
-Il est permis à Toussainct Quinet Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre & distribuer une piece de Theatre intitulée, L'Aveugle Clair-voyant, Comedie, du sieur Brosse, pendant le temps de cinq ans entiers & accomplis.
-Et defenses sont faites à tous Imprimeurs, Libraires & autres, de contrefaire le dit Livre, ny le vendre ou exposer en vente d'autre impression que de celle qu'il a fait faire, à peine de trois mil livres d'amende, & de tous despens, dommages & interests, ainsi qu'il est plus amplement porté par lesdites Lettres, qui sont en vertu du present extrait tenuës pour bien & deuëment signifiees, à ce qu'aucun n'en pretende cause d'ignorance.
-
-Achevé d'imprimer pour la premiere fois le 2.
-Mars 1650.
-
-Les exemplaires ont esté fournis.

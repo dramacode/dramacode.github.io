@@ -1,235 +1,485 @@
 
 
-**** *book_ *id_I01 *act_I *date_1768
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cathis
 
--*who_cathis_lolotte
-Mon Papa !
-
--*who_broton
-      Ventrebleu, je ne sais où j'en fuis !
-Est-ce que je peux, moi, vous forger des maris ?
-Ces trois carognes-là me font tourner la tête.
-
--*who_lolotte
-Nous voulons un état ; la demande est honnête.
-
--*who_cathis
 Le moyen, s'il vous plaît, detrouver des époux,
 Quand on ne voit ici que portes et verroux ?
 
--*who_broton
-Eh ! Peut-on trop fermer, quand au travers des grilles,
-On voit s'évaporer l'honneur de tant de filles ?
-
--*who_victoire
-C'est donc notre vertu qui répond de nos moeurs :
-Rien ne peut arrêter le penchant de nos coeurs,
-C'est elle seule aussi que vous devez en croire,
-La contrainte, mon père....
-
--*who_broton
-      Ah ! Taisez-vous, Victoire.
-
--*who_cathis
 Pour trouver des partis, il faut paraître au moins.
 
--*who_broton
-Non, vous dis-je, attendez tout du temps, de mes soins,
-Et je vous marierai ; ces conteurs de sornettes,
-Qui dans chaque maison débitent leurs fleurettes,
-Ne sont point épouseurs ; le quatrième jour
-Qu'on vous frequentera, serviteur ; plus d'amour ;
-Ou bien qu'on vous épouse.
-
--*who_lolotte
-      Il paraît impossible
-Qu'une fille d'honneur qui doit être insensible,
-En quatre jours connaisse, aime, épouse...
-
--*who_broton
-      Comment,
-La doucette Lolotte aussi veut un amant ?
-
--*who_lolotte
-J'ai bientôt dix-huit ans.
-
--*who_cathis
       Et je suis son aînée.
 
--*who_victoire
-Moi, je suis déjà grande.
-
--*who_broton
-      Ah ! Tant mieux.
-
--*who_cathis
       Une année
 En donne trois ici, mon père, en vérité,
 Si vous ne modérez notre captivité,
 Point de maris pour nous. En fait de mariage....
 
--*who_broton
-Morbleu !
-
--*who_cathis
       La plus pressée est toujours la plus sage.
 
--*who_broton
-Ah ! Mesdames tant-pis ! Le tour est merveilleux ;
-Mais moi je ne veux point voir ici d'amoureux :
-Vous prenez des conseils, on vous met à la mode,
-Et corbleu, ma maison est déjà trop commode !
-Votre belle Clorinde avec son Chevalier,
-Sans leur bail, à l'instant vuideraient mon premier.
-C'est elle qui vous met dans la coquetterie.
-Les pompons, la frisure, un air d'étourderie....
-Je vois mille escoffions qui m'étetient inconnus
-Depuis qu'on la fréquente on ne travaille plus.
-Nouër un bout de soie, et sourire avec grâce ;
-Voilà ce qu'on vous montre, et tout cela me lasse.
-On ne dort plus ici ; c'est un train nuit et jour...
-Des carosses sans cesse, embarassent ma cour,
-Elle vient ; des laquais, des coureurs, et des pages.
-On frappe, on ouvre, on entre et de quatre équipages,
-Sortent comtes, marquis et des abbés coquets,
-L'un lui porte ses chiens, l'autre ses perroquets :
-Un Petit-Maitre tient le singe de Madame....
-Voilà le bel exemple ! Ah ! Si ma pauvre femme
-Revenait à la vie et voyait ce fracas,
-Ses filles en rubans, aigrettes, falbalas...
-
--*who_cathis
 Pour les habillements on doit suivre l'usage,
 Clorinde a de grands airs, mais elle est belle et sage,
 Et jamais l'ornement n'influa sur les moeurs.
 
--*who_broton
-Tous ces colifichets amollissent les coeurs ;
-Est-ce pour vous former qu'on vous lie des brochures,
-Qui plus que du latin me paraissent obscures,
-Et ne peuvent au plus amuser que des sots ?
-Eh ! Morbleu, lisez-moi, lisez-moi des bons mots,
-Encor bien rarement : que l'esprit se repose,
-Coudre, filer, pour vous est la meilleure chose.
-Il faut changer de ton ; Lolotte. Et vous Cathis,
-Passez racommoder, s'il vous plaît, mes habits.
+      Oh oui, Madame, et c'est ma soeur Lolotte ;
+Qui l'a déterminé.
 
-**** *book_ *id_I02 *act_I *date_1768
+      Ah ! Ma belle Madame !
+Que d'obligation... De plaisir... Que mon âme..
 
--*who_babot
-Que j'étais ennuyée avec sa sermonade !
-Il ne finissait pas ; une heure en embuscade
-Je voulais vous parler ; Léandre...
+Je dissimulerai.
 
--*who_victoire
+      Ces noeuds sont votre ouvrage.
+
+Asseyez-vous, papa.
+
+C'est que j'ai chaud aussi.
+
+Vous plaît-il de parler ?
+
+Non
+
+Est-il blond ?
+
+Point du tout ; vite otons mon rouge et mes rubans.
+
+Par la simplicité pour moi je veux lui plaire.
+
+      Suis-je bien ?
+
+Eh ! Mais, ma soeur, c'est moi qu'il doit choisir ici.
+
+Monsieur, je m'applaudis de ce titre flatteur.
+
+      Tais-toi point d'interprète :
+Je pense en femme sage, et non pas en coquette...
+
+Eh ! cet heureux défaut fait le bien de la vie.
+
+J'aime que pour un rien on me fasse un procès,
+La fureur d'un jaloux n'a rien dont je m'irrite,
+C'est un aveu secret de son peu de mérite,
+J'aime à le voir se croire indigne de mes feux,
+M'accabler de rigueurs et soupçonner mes voeux,
+C'est par ce sentiment que triomphe une belle :
+Être injuste n'est rien, quand le coeur est fidèle.
+
+      Léandre,
+Cela me paraît fort; vous me poussez à bout :
+Être injuste n'est rien, être infidele est tout,
+Je n'excuserais pas...
+
+Une infidélité ! Qu'en dites-vous, ma soeur ?
+
+Oui la chose vaut bien que l'on y réflechisse.
+
+Mon père saura seul ma résolution.
+
+      Venez, venez mon père.
+
+      Terminez notre affaire,
+
+      À ma soeur.
+
+      Oui.
+
+Cessez, ma tendre soeur d'étaler vos vertus,
+Pour voler un amant, on n'est pas dégoutée,
+Mais vous oubliez donc que je suis votre aînée ?
+Que je l'épouse moi, que fut-il ombrageux,
+Suffisant, emporté, tel qu'il est, je le veux.
+
+      Moi je sais...
+
+      Ah ! Ma pauvre petite,
+Vous n'entendez pas mal déjá vos intérêts !
+
+Vous voulez nous parler, à ce que dit Babot,
+Vous décidez, sans doute ?
+
+À qui parles-tu là?
+
+Cette affaire, ma soeur, a dejà fait du bruit,
+Comment le savez vous?
+
+Nous n'en employons point.
+
+Pourquoi le renvoyer ? nous aurions su peut être,
+Que Léandre n'est pas ce qu'il voudrait paraître.
+
+Quoi ! Ma soeur on nous joue ! et Victoire...
+
+      De grand coeur !
+
+On vous fréquentera quand on sera Marquise.
+
+
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lolotte
+
+Nous voulons un état ; la demande est honnête.
+
+      Il paraît impossible
+Qu'une fille d'honneur qui doit être insensible,
+En quatre jours connaisse, aime, épouse...
+
+J'ai bientôt dix-huit ans.
+
+Vous vous trompez, Madame, et je vois mon modèle.
+
+      Est-il brun ?
+
+Courons à la toilette : en avons nous le temps ?
+
+Et moi par l'ornement.
+
+      Moi, Babot ?
+
+      Et la mienne ?
+
+Le plaisir d'obéir est celui d'une épouse.
+
+S'il a droit de choisir, moi j'y prétends aussi.
+
+Que l'on peut excuser la faiblesse du coeur ;
+Que la vertu triomphe avec plus d'avantage,
+Quand l'épouse pardonne, et qu'elle est belle et sage.
+
+Son caractere est franc, tendre.
+
+Faites moi part, ma soeur, de votre intention.
+
+Imposez donc silence à Atys.
+
+Terminez.
+
+Si vous y consentez, mon espoir le plus doux,
+Serait, des aujourdhui d'en faire mon époux.
+Rien ne doit effrayer dans un mari qu'on aime,
+Caractère léger, un peu libertin même,
+Tout est pour notre gloire un triophe de plus.
+
+Vous déclamiez tantôt contre les infid7les,
+Et j'ai cru...
+
+Que dit il?
+
+Oui sortons; tu pourras en savoir davantage.
+
+      Ma soeur...
+
+      Ah ma soeur !
+Il faut abandonner ce Bourgeois...
+
+
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_victoire
+
+C'est donc notre vertu qui répond de nos moeurs :
+Rien ne peut arrêter le penchant de nos coeurs,
+C'est elle seule aussi que vous devez en croire,
+La contrainte, mon père....
+
+Moi, je suis déjà grande.
+
       Il a raison.
 Mes soeurs, depuis un temps, prennent un mauvais ton :
 Ce qui sied à Clorinde a pour nous peu de grâce.
 
--*who_babot
-Léandre est là qui vient...
-
--*who_victoire
       Ce fard sur nous s'efface :
 L'éclat est pour les grands ; la noblesse a ses droits,
 Et la simplicité fait l'honneur des bourgeois.
 
--*who_babot
+Léandre ? Que dis-tu?
+
+Ah ! Finis. Quoi! Léandre est ici, dis, Babot ?
+
+      Dis donc.
+
+Je t'en conjure, ah ! Dis ; que mon âme est émue !
+
+      Grands Dieux ! Qu'il soit en mon pouvoir ;
+D'accorder la raison, l'amour et mon devoir.
+
+De vous aimer toujours et de chérir ma gloire;
+Et si mon père un jour, consent à nous unir,
+Léandre, mon bonheur sera de vous chérir...
+
+Peut-être peu de temps satisfera nos coeurs ;
+Il suffit que mon père ait marié mes soeurs,
+Il vous acceptera.
+
+C'est un soin superflu, qu'esperez vous Léandre ?
+
+Je suis une cadette, et mes soeurs pour mon choix,
+Ne seront pas d'humeur à me céder leurs droits.
+
+Et moi qui suis plus jeune en ai-je moins d'envie ?
+
+Léandre, en verité, je rougis de ma gloire ;
+Et Babot est bien folle...
+
+      Ah Dieux !
+
+Eh ! Bien, chère Babot, a-t-on fait quelque chose ?
+
+Que je suis malheureuse ! Il est vrai que Léandre,
+Ne veut aimer que moi, mais si longtemps attende.
+Ou sentir le remords d'avoir trompé mes soeurs !
+Gouterais-je un plaisir qui leur coutât des pleurs ?
+Non j'en mourrai Babot.
+
+Au refus de mes soeurs j'obeirai, mon père.
+
+      On trouve par la suite.
+
+      Du transport qui m'anime ;
+Permettez qu'a vos pieds la douce ardeur s'exprime,
+Si je vous interromps...
+
+Mon père, pardonnez ; mon coeur est transporté,
+Par la crainte, l'amour et la reconnaissance.
+
+Vos ordres sont si doux, qui pourrait vous déplaire?
+
+Oui c'est vous, cher Léandre !
+
+Mon père et mon époux partagent ma tendresse.
+
+Couronnez ce beau jour par la douce amitié :
+Je l'espère, mes soeurs, puisque tout m'autorise.
+
+
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+Qu'avez vous décidé, sage et tendre Victoire?
+
+Quand je suis dévoré, par une flame ardente,
+Puis-je me contenter d'une cruelle attente ?
+
+      Mais il faut lui parler.
+
+Obtenir votre main.
+
+Comment donc faire ?
+
+      Me griser !
+
+      Eh ! Bien ?
+
+      Fille complaisante.
+
+Au Cabaret Babot !
+
+      Mais les honnêtes gens,
+Rougissent...
+
+      L'épreuve est un peu sotte.
+
+      Allons, j'irai ; n'importe.
+
+Je ferai tout cela pour vous, belle Victoire.
+
+      Puis tantôt le buveur ?
+J'ai mis en bonnes mains l'interêt de mon coeur !
+
+Non, non, poursuis, Babot, la cause en est trop belle.
+
+      Non.
+
+      Monsieur...
+
+      Comme une épouse elle est peinte en mon coeur.
+
+Ah ! Doucement, Monsieur...
+
+      Excusez-moi mesdames,
+Si j'ai pu m'expliquer un peu trop librement.
+Je parlais en mari.
+
+Si je le suis, jaloux ? oui, sans doute ; à l'excès !
+
+Oui l'Amour est jaloux de toute la nature,
+Mais si mon coeur un jour pouvait vous faire injure,
+Si pour quelques instants j'oubliais vos attraits,
+Je reviendrais à vous plus soumis que jamais.
+Il se peut quelquefois, qu'une âme un peu trop tendre,
+Sur les droits de l'hymen anticipe.
+
+      La chose se pardonne.
+
+Hé bien, papa,
+
+Beau-père, il vaudrait mieux par quelque tour d'adresse,
+Appaiser les deux soeurs. Un valet entendu,
+Que j'ai pris depuis peu, qui leur est inconnu,
+Pourra nous y servir décriant ma conduite.
+Ici comme marchand... Il viendra...
+
+Que ce transport, Victoire, à de quoi me flatter !
+J'en suis l'heureux objet, je n'en saurais douter.
+
+      Hélas ! Chère Victoire !
+
+Quel plaisir nous aurons à vous chérir sans cesse !
+
+Ah ! Par ce seul désir vous comblez tous mes voeux.
+
+Je vois qu'elle a raison : je m'étais oublié.
+
+On s'oublierait à moins, et ces heureux instants.
+Sont les seuls de ma vie...
+
+      Il faut te satisfaire.
+
+Champagne, qu'as-tu fait ? Eh ! Bien suis-je chassé ?
+
+      Ah ! Maraud ! Ah ! Belître !
+
+      Taisez-vous maitre sot !
+
+Fort bien ! Il a raison, puisqu'il est amoureux ;
+Mais je perds mon bonheur, et c'est pour tes beaux yeux.
+
+Votre zèle à présent serait hors de saison ;
+Je ne veux écouter que la droite raison.
+Enfin je vais risquer tout ce que je peux craindre,
+Et mon coeur souffre trop d'être obligé de feindre.
+
+Tout nous réussit mal; il saut, mon cher papa,
+Instruire les deux soeurs...
+
+      Il n'est plus temps de feindre.
+
+      Pardonnez ; vous n'avez rien à craindre.
+Et l'Amour seul, Madame, a causé ces erreurs,
+Je craignais d'offenser ces deux aimables soeurs ;
+En adressant mes voeux à ma chère Victoire,
+Dont la main comblerait mon bonheur et ma gloire.
+J'ose vous implorer...
+
+      Ainsi que ma folie.
+
+
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clorinde
+
+Ah ! Par ce seul récit tu me glace de peur !
+
+      Son mal va lui prendre ! Ah ! Babot, fais qu'il sorte.
+
+      J'aimerais mieux mourir !
+Ah ! Damis... Je frissonne... Et je sens qu'il me peine.
+
+      Ah ! J'en ai la migraine !
+
+      Comme il me regardait !
+
+Dans le trouble où je suis je crains quelques visites ;
+On l'interpreterait...
+
+      Qui ?
+
+Ah ! Ce sont nos enfants ; avons-nous du papa,
+Obtenu joliment d'aller à l'Opéra,
+Mon coeur !
+
+      Paix donc petite sotte ;
+Il faut cacher sa joye et que l'exterieur,
+Offre précifément le contraire du coeur ;
+Voilà le monde.
+
+Comment donc ! Chevalier ! Elle a des sentiments !
+
+      Que tout soit mystère.
+Pour vous, Lolotte, il est bien peu de chose à faire.
+Voyez elle a dejà certain air nonchalant.
+
+Pour d'autres c'est un art, c'est nature chez elle.
+
+Elle a le ton du monde ; elle est faite pour lui.
+Trop de vivacité nous annonce. Aujourd'hui,
+Les jeux, la promenade, et jusques à la danse ;
+Tout doit se prendre enfin d'un air d'indifférence.
+D'un transport modéré le plaisir est plus doux.
+
+      L'Opéra, l'aimez vous ?
+Par exemple en ce lieu la morale est contrire.
+À ce que la vertu nous commande d'austère ;
+Mais cela se tolère à la faveur du chant ;
+On en est quitte après pour vaincre un doux penchant.
+Allons douce beauté, voir du grave, du tendre,
+Vous il vous faut du gai : nous allons tout entendre :
+Sortons. Que dites-vous de leur ajustement ?
+
+Elles sont à charmer.
+
+      Je sens à ce soupir
+Qu'il a fort bien diné.
+
+C'est moi qui l'ai parée.
+
+      Allons,
+Avouez qu'elle est bien.
+
+      Charmante !
+
+      Je suis engageante ?
+
+Me trouvez-vous jolie ?
+
+Nous voilà bons amis, mais ce prélude là,
+Nous annonce qu'il faut se passer d'Opéra.
+
+      C'est ce fou ! C'est lui-même !...
+Je vois son teint rougir, et ses yeux s'égarer.
+
+Tu me l'as déja dit.
+
+Ah ! Damis !
+
+      Qu'en dites-vous, Damis ?
+
+Il faut faire un effort, mes chères.
+
+Je leur fais épouser pour le moins des Marquis :
+De leur âme à l'instant j'ai connu la noblesse ;
+Elles ont de grands biens ; la beauté, la sagesse :
+Que leur faut-il de plus ?
+
+
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babot
+
+Que j'étais ennuyée avec sa sermonade !
+Il ne finissait pas ; une heure en embuscade
+Je voulais vous parler ; Léandre...
+
+Léandre est là qui vient...
+
 Votre commodité n'est donc point de m'entendre ?
 Je reviendrai ce soir vous parler de Léandre.
 
--*who_victoire
-Léandre ? Que dis-tu?
-
--*who_babot
       Non, non, moralisez :
 Que voulez-vous de plus, quand vous vous amusez ?
 Si Monsieur Broton même en prêchant peut vous plaire,
 Je vais le rappeller : telle fille, tel père...
 
--*who_victoire
-Ah ! Finis. Quoi! Léandre est ici, dis, Babot ?
-
--*who_babot
 Parlez raison, vertu...
 
--*who_victoire
-      Dis donc.
-
--*who_babot
       Je ne dis mot.
 
--*who_victoire
-Je t'en conjure, ah ! Dis ; que mon âme est émue !
-
--*who_babot
 Eh bien, j'ai ménagé pour vous une entrevue.
 Léandre vient...
 
--*who_victoire
-      Grands Dieux ! Qu'il soit en mon pouvoir ;
-D'accorder la raison, l'amour et mon devoir.
-
-**** *book_ *id_I03 *act_I *date_1768
-
--*who_leandre
-Qu'avez vous décidé, sage et tendre Victoire?
-
--*who_victoire
-De vous aimer toujours et de chérir ma gloire;
-Et si mon père un jour, consent à nous unir,
-Léandre, mon bonheur sera de vous chérir...
-
--*who_leandre
-Quand je suis dévoré, par une flame ardente,
-Puis-je me contenter d'une cruelle attente ?
-
--*who_victoire
-Peut-être peu de temps satisfera nos coeurs ;
-Il suffit que mon père ait marié mes soeurs,
-Il vous acceptera.
-
--*who_babot
       Bon ! Quand le seront-elles ?
 Il les garde avec soin, et quoi qu'elles soient belles,
 Elles resteront là.
 
--*who_leandre
-      Mais il faut lui parler.
-
--*who_babot
 Si par un stratagème on pouvait l'engeôler ?
 
--*who_victoire
-C'est un soin superflu, qu'esperez vous Léandre ?
-
--*who_leandre
-Obtenir votre main.
-
--*who_babot
       Il n'y veut point entendre.
 
--*who_victoire
-Je suis une cadette, et mes soeurs pour mon choix,
-Ne seront pas d'humeur à me céder leurs droits.
-
--*who_babot
 Encor se marier est toute leur folie.
 
--*who_victoire
-Et moi qui suis plus jeune en ai-je moins d'envie ?
-
--*who_leandre
-Comment donc faire ?
-
--*who_babot
       Mais... Il faudrait boire un peu...
 Vous griser...
 
--*who_leandre
-      Me griser !
-
--*who_babot
       Ceci n'est pas un jeu.
 Monsieur fait d'un bouchon sa retraite ordinaire,
 C'est là qu'il adoucit sa bile atrabilaire,
@@ -238,60 +488,27 @@ Bavarder et brailler deviendra son ami.
 Moi-même qu'au logis il bougonne sans cesse,
 Quand je vais l'y chercher...
 
--*who_leandre
-      Eh ! Bien ?
-
--*who_babot
       Il me caresse.
 Et moi qui sais qu'il faut hurler avec les loups,
 J'avale de bon vin deux ou trois petits coups,
 Alors tout plein d'amour, il dit, ma gouvernante...
 Est une honnête fille... Et...
 
--*who_leandre
-      Fille complaisante.
-
--*who_babot
 Écoutez, n'allez pas faire le Dameret,
 Il faut avec Broton aller au cabaret.
 
--*who_leandre
-Au Cabaret Babot !
-
--*who_babot
       Vous voilà bien à plaindre.
 Si par là vous parez ce que vous devez craindre,
 En buvant comme lui, rapellez le vieux temps ;
 Faites des contes bleus.
 
--*who_leandre
-      Mais les honnêtes gens,
-Rougissent...
-
--*who_babot
       Il le faut.
 
--*who_leandre
-      L'épreuve est un peu sotte.
-
--*who_babot
 Il le faut, il le faut.
 
--*who_leandre
-      Allons, j'irai ; n'importe.
-
--*who_babot
 Il faut boire, jurer, parler beaux sentiments,
 Rire, à l'instant pleurer, critiquer les amants.
 
--*who_leandre
-Je ferai tout cela pour vous, belle Victoire.
-
--*who_victoire
-Léandre, en verité, je rougis de ma gloire ;
-Et Babot est bien folle...
-
--*who_babot
       Il n'est que ce chemin ;
 Je vous le garantis son intime demain,
 Il tramera pour vous et contre vos soeurs même.
@@ -300,10 +517,6 @@ Avec un petit verre on ranime l'Amour,
 Et l'on fait vingt amis et cent amants par jour !
 Clorinde vient...
 
--*who_victoire
-      Ah Dieux !
-
--*who_babot
       Sortez, Mademoiselle,
 J'accommoderai tout ; Damis est avec elle :
 Broton ne veut souffrir aucun amant chez lui,
@@ -311,22 +524,10 @@ Mais je trouve un moyen pour nous tirer d'ici ;
 Et crainte qu'on ne jase et qu'on ne vous soupçonne,
 Faites ce que je dis, je vais leur donner bonne.
 
-**** *book_ *id_I04 *act_I *date_1768
-
--*who_babot
 Contrefaites le fou.
 
--*who_leandre
-      Puis tantôt le buveur ?
-J'ai mis en bonnes mains l'interêt de mon coeur !
-
--*who_babot
 Eh bien, laissons tout là ; finissons la querelle !
 
--*who_leandre
-Non, non, poursuis, Babot, la cause en est trop belle.
-
--*who_babot
 Ah ! Le pauvre garçon ! Son mal est dangereux !
 Il vaudrait mieux, ma foi, qu'il fût bien amoureux
 Que d'avoir des vapeurs qui lui tournent la tête ;
@@ -341,274 +542,24 @@ S'ils' approche de vous, d'abord au moindre geste,
 Son accès le prendra, puis vous le verrez, zeste,
 Sauter, gesticuler, devenir en fureur.
 
--*who_clorinde
-Ah ! Par ce seul récit tu me glace de peur !
-
--*who_damis
-Vient-il souvent ici des objets de la sorte.
-
--*who_babot
 Non.
 
--*who_clorinde
-      Son mal va lui prendre ! Ah ! Babot, fais qu'il sorte.
-
--*who_damis
-Quoi donc ! Vos yeux, Madame, auraient pu le guérir ;
-Le refuseriez vous ?
-
--*who_clorinde
-      J'aimerais mieux mourir !
-Ah ! Damis... Je frissonne... Et je sens qu'il me peine.
-
--*who_babot
 Sa folie est tranquille.
 
--*who_clorinde
-      Ah ! J'en ai la migraine !
-
-**** *book_ *id_I05 *act_I *date_1768
-
--*who_damis
-Madame il est sorti.
-
--*who_clorinde
-      Comme il me regardait !
-
--*who_damis
-Ainsi que lui, Madame, un sage le ferait.
-
--*who_clorinde
-Dans le trouble où je suis je crains quelques visites ;
-On l'interpreterait...
-
--*who_damis
-      Voilà...
-
--*who_clorinde
-      Qui ?
-
--*who_damis
-      Les petites.
-
-**** *book_ *id_I06 *act_I *date_1768
-
--*who_clorinde
-Ah ! Ce sont nos enfants ; avons-nous du papa,
-Obtenu joliment d'aller à l'Opéra,
-Mon coeur !
-
--*who_cathis
-      Oh oui, Madame, et c'est ma soeur Lolotte ;
-Qui l'a déterminé.
-
--*who_clorinde
-      Paix donc petite sotte ;
-Il faut cacher sa joye et que l'exterieur,
-Offre précifément le contraire du coeur ;
-Voilà le monde.
-
--*who_damis
-      Bien !
-
--*who_cathis
-      Ah ! Ma belle Madame !
-Que d'obligation... De plaisir... Que mon âme..
-
--*who_clorinde
-Comment donc ! Chevalier ! Elle a des sentiments !
-
--*who_damis
-Oui, beaucoup, mais beaucoup... Et... Gare les amants !
-
--*who_cathis
-Je dissimulerai.
-
--*who_damis
-      Bon !
-
--*who_clorinde
-      Que tout soit mystère.
-Pour vous, Lolotte, il est bien peu de chose à faire.
-Voyez elle a dejà certain air nonchalant.
-
--*who_damis
-Elle est bien, et ses yeux ont l'air fier et galant.
-
--*who_clorinde
-Pour d'autres c'est un art, c'est nature chez elle.
-
--*who_lolotte
-Vous vous trompez, Madame, et je vois mon modèle.
-
--*who_clorinde
-Elle a le ton du monde ; elle est faite pour lui.
-Trop de vivacité nous annonce. Aujourd'hui,
-Les jeux, la promenade, et jusques à la danse ;
-Tout doit se prendre enfin d'un air d'indifférence.
-D'un transport modéré le plaisir est plus doux.
-
--*who_damis
-Et plus durable aussi...
-
--*who_clorinde
-      L'Opéra, l'aimez vous ?
-Par exemple en ce lieu la morale est contrire.
-À ce que la vertu nous commande d'austère ;
-Mais cela se tolère à la faveur du chant ;
-On en est quitte après pour vaincre un doux penchant.
-Allons douce beauté, voir du grave, du tendre,
-Vous il vous faut du gai : nous allons tout entendre :
-Sortons. Que dites-vous de leur ajustement ?
-
--*who_damis
-Qu'il leur faudrait un peu de rouge seulement.
-
--*who_clorinde
-Elles sont à charmer.
-
--*who_cathis
-      Ces noeuds sont votre ouvrage.
-
--*who_damis
-Une mouche par-là... Fort bien... Voilà je gage,
-Monsieur Broton.
-
-**** *book_ *id_I07 *act_I *date_1768
-
--*who_broton
-      Eh bien ! Qu'est-ce donc !... Du plaisir !...
-
--*who_damis
-Il est gai : d'ou vient-il ?
-
--*who_clorinde
-      Je sens à ce soupir
-Qu'il a fort bien diné.
-
--*who_broton
-      Qu'il fait chaud ! Non, ne bouge...
-
--*who_cathis
-Asseyez-vous, papa.
-
--*who_broton
-      Comme te voilà rouge !
-
--*who_cathis
-C'est que j'ai chaud aussi.
-
--*who_broton
-      Toujours mille chiffons ?
-
--*who_clorinde
-C'est moi qui l'ai parée.
-
--*who_broton
-      Elle est.... Bien.. Propre.
-
--*who_clorinde
-      Allons,
-Avouez qu'elle est bien.
-
--*who_damis
-      Mon cher Broton ?
-
--*who_clorinde
-      Charmante !
-
--*who_broton
-Ah ! Madame, c'est vous... Qui...
-
--*who_clorinde
-      Je suis engageante ?
-
--*who_damis
-N'est-il pas vrai, l'ami ?
-
--*who_broton
-      Vous avez... Un attrait...
-
--*who_clorinde
-Me trouvez-vous jolie ?
-
--*who_broton
-      Ah ! Madame... Au parfait !
-Que je vous parle, enfants : vous serez satisfaites,
-Et les choses dejà sont plus d'à moitié faites.
-
--*who_clorinde
-Nous voilà bons amis, mais ce prélude là,
-Nous annonce qu'il faut se passer d'Opéra.
-
-**** *book_ *id_I08 *act_I *date_1768
-
--*who_cathis
-Vous plaît-il de parler ?
-
--*who_broton
-      Oui vous allez entendre.
-Au cabaret voisin... Connaissez vous Léandre?
-
--*who_cathis
-Non
-
--*who_broton
-      C'est un épouseur... Parbleu ! C'est toujours un...
-Bon garçon, qui boit bien... Et... N'est pas du commun.
-Je l'ai mis sous la table et quoi qu'il sache boire,
-J'ai remporté sur lui l'honneur de la Victoire ;
-Pour choisir entre vous il viendra dans ce jour,
-Songez à lui montrer beaucoup, beaucoup d'amour.
-
-**** *book_ *id_I09 *act_I *date_1768
-
--*who_babot
 J'ai vu le prétendu, dans l'instant il arrive.
 
--*who_cathis
-Est-il blond ?
-
--*who_lolotte
-      Est-il brun ?
-
--*who_babot
       Ah ! Que vous êtes vive !
 Il est noir de cheveux, d'humeur aussi, je crois :
 Ce que j'en ai pu voir me déplait fort à moi,
 Il prétend que l'on soit simple, silencieuse:
 Avec un tel bizarre on serait malheureuse.
 
--*who_cathis
-Point du tout ; vite otons mon rouge et mes rubans.
-
--*who_lolotte
-Courons à la toilette : en avons nous le temps ?
-
--*who_cathis
-Par la simplicité pour moi je veux lui plaire.
-
--*who_lolotte
-Et moi par l'ornement.
-
--*who_babot
       Voilà bien du mystère,
 Pour tenter un coeur pris grâce à notre complot ;
 Le père est tout à nous.
 
--*who_cathis
-      Suis-je bien ?
-
--*who_lolotte
-      Moi, Babot ?
-
--*who_babot
 Votre frisure bouffe.
 
--*who_lolotte
-      Et la mienne ?
-
--*who_babot
       Est trop plate.
 Victoire enfin aura le mari qui la flatte,
 Si nous réussissons dans ce nouveau projet ;
@@ -624,168 +575,28 @@ Quel dommage pourtant de quitter tout cela !
 Car le futur époux voit mieux que le papa,
 Je m'en suis aperçue, il a l'humeur jalouse.
 
--*who_lolotte
-Le plaisir d'obéir est celui d'une épouse.
-
--*who_cathis
-Eh ! Mais, ma soeur, c'est moi qu'il doit choisir ici.
-
--*who_lolotte
-S'il a droit de choisir, moi j'y prétends aussi.
-
--*who_babot
 Vite, redressez-vous, votre père l'amène.
 Que la jeune Victdoire à présent est en peine !
 
-**** *book_ *id_I10 *act_I *date_1768
-
--*who_broton
-Entrez...
-
--*who_leandre
-      Non.
-
--*who_broton
-      Vous...
-
--*who_leandre
-      Monsieur...
-
--*who_broton
-      Enfants c'est le mari...
-Dont je vous ai parlé ; mon gendre et mon ami ;
-Bon vivant, honnête homme... Et, voilà ma cadette,
-Et l'ainée, entre nous, elle est assez drolette ?
-Au moins !
-
--*who_leandre
-      Comme une épouse elle est peinte en mon coeur.
-
--*who_cathis
-Monsieur, je m'applaudis de ce titre flatteur.
-
--*who_babot
 Cela peut vous flatter ?
 
--*who_cathis
-      Tais-toi point d'interprète :
-Je pense en femme sage, et non pas en coquette...
-
--*who_broton
-Il me disait tout bas que tous ces affiquets,
-L'avaient un peu choqué, que des airs trop coquets.
-
--*who_leandre
-Ah ! Doucement, Monsieur...
-
--*who_broton
-      Qui plaisent dans les femmes,
-Offusquent les maris.
-
--*who_leandre
-      Excusez-moi mesdames,
-Si j'ai pu m'expliquer un peu trop librement.
-Je parlais en mari.
-
--*who_babot
       Ce n'est pas en amant ;
 On pourrait vous taxer, Monsieur de jalousie.
 
--*who_cathis
-Eh ! cet heureux défaut fait le bien de la vie.
-
--*who_leandre
-Si je le suis, jaloux ? oui, sans doute ; à l'excès !
-
--*who_cathis
-J'aime que pour un rien on me fasse un procès,
-La fureur d'un jaloux n'a rien dont je m'irrite,
-C'est un aveu secret de son peu de mérite,
-J'aime à le voir se croire indigne de mes feux,
-M'accabler de rigueurs et soupçonner mes voeux,
-C'est par ce sentiment que triomphe une belle :
-Être injuste n'est rien, quand le coeur est fidèle.
-
--*who_babot
 Ne vous y trompez pas, à présent les époux,
 Par le droit du plus fort sont coquets et jaloux.
 
--*who_leandre
-Oui l'Amour est jaloux de toute la nature,
-Mais si mon coeur un jour pouvait vous faire injure,
-Si pour quelques instants j'oubliais vos attraits,
-Je reviendrais à vous plus soumis que jamais.
-Il se peut quelquefois, qu'une âme un peu trop tendre,
-Sur les droits de l'hymen anticipe.
-
--*who_cathis
-      Léandre,
-Cela me paraît fort; vous me poussez à bout :
-Être injuste n'est rien, être infidele est tout,
-Je n'excuserais pas...
-
--*who_babot
       Mais, vous êtes si bonne !
 
--*who_broton
-Ah ! Mon gendre, c'est trop !
-
--*who_leandre
-      La chose se pardonne.
-
--*who_cathis
-Une infidélité ! Qu'en dites-vous, ma soeur ?
-
--*who_lolotte
-Que l'on peut excuser la faiblesse du coeur ;
-Que la vertu triomphe avec plus d'avantage,
-Quand l'épouse pardonne, et qu'elle est belle et sage.
-
--*who_babot
 Vous pardonnerez tout à cet époux parfait?
 Voilà pour tous les tems un modele complet.
 
--*who_broton
-Si Cathis est fachée, en tout cas j'ai trois filles.
-Entends-tu bien ; mon gendre ? Et toutes trois gentilles...
-Viens-t'en laisse-les là : viens vite boire un coup,
-Je veux t'accoutumer à boire comme un trou.
-
-**** *book_ *id_I11 *act_I *date_1768
-
--*who_lolotte
-Son caractere est franc, tendre.
-
--*who_babot
       Et sans artifice.
 
--*who_cathis
-Oui la chose vaut bien que l'on y réflechisse.
-
--*who_lolotte
-Faites moi part, ma soeur, de votre intention.
-
--*who_cathis
-Mon père saura seul ma résolution.
-
-**** *book_ *id_I12 *act_I *date_1768
-
--*who_victoire
-Eh ! Bien, chère Babot, a-t-on fait quelque chose ?
-
--*who_babot
 Léandre était à nous, et quand tout se dispose,
 Le diable dans l'instant vient qui nous brouille tout,
 Cathis n'en voulait plus, et Lolotte y prend goût.
 
--*who_victoire
-Que je suis malheureuse ! Il est vrai que Léandre,
-Ne veut aimer que moi, mais si longtemps attende.
-Ou sentir le remords d'avoir trompé mes soeurs !
-Gouterais-je un plaisir qui leur coutât des pleurs ?
-Non j'en mourrai Babot.
-
--*who_babot
       Trop de délicatesse,
 Dans les pressants dangers dégénère en foiblesse.
 L'affaire est en bon train ; faites vous peu de cas,
@@ -795,476 +606,126 @@ Agir avec tendresse. Ah ! Le bon caractère !
 Vive le bon vieux temps où l'on était tout rond,
 De cette pâte d'homme on n'a plus la façon.
 
-**** *book_ *id_I13 *act_I *date_1768
-
--*who_broton
-Eh ! Mais... Laissez moi donc..
-
--*who_cathis
-      Venez, venez mon père.
-
--*who_broton
-Laissez-moi boire un coup.
-
--*who_cathis
-      Terminez notre affaire,
-
--*who_lolotte
-Imposez donc silence à Atys.
-
--*who_cathis
-      À ma soeur.
-
--*who_lolotte
-Terminez.
-
--*who_cathis
-      Oui.
-
--*who_babot
       Sans doute.
 
--*who_broton
-      Allons de tout mon coeur,
-Commençons par Lolotte elle a vu que Léandre,
-A l'humeur déplaisante, il n'y doit plus prétendre,
-
--*who_lolotte
-Si vous y consentez, mon espoir le plus doux,
-Serait, des aujourdhui d'en faire mon époux.
-Rien ne doit effrayer dans un mari qu'on aime,
-Caractère léger, un peu libertin même,
-Tout est pour notre gloire un triophe de plus.
-
--*who_cathis
-Cessez, ma tendre soeur d'étaler vos vertus,
-Pour voler un amant, on n'est pas dégoutée,
-Mais vous oubliez donc que je suis votre aînée ?
-Que je l'épouse moi, que fut-il ombrageux,
-Suffisant, emporté, tel qu'il est, je le veux.
-
--*who_lolotte
-Vous déclamiez tantôt contre les infid7les,
-Et j'ai cru...
-
--*who_cathis
-      Moi je sais...
-
--*who_broton
-      Peste des peronnelles !
-Le diable vous épouse en peut-il prendre trois ?
-Car Victoire sans doute aime aussi le matois.
-
--*who_victoire
-Au refus de mes soeurs j'obeirai, mon père.
-
--*who_broton
-Eh bien ! Soyez d'accord, et sans tant de colère,
-Laisses-lui le mari qui fait votre débat.
-
--*who_cathis_lolotte
-Nous n'avons point de goût du tout au célibat ;
-Bien des grâces, mon père.
-
--*who_victoire
-      On trouve par la suite.
-
--*who_cathis_lolotte
-Milles grâces, ma soeur.
-
--*who_cathis
-      Ah ! Ma pauvre petite,
-Vous n'entendez pas mal déjá vos intérêts !
-
--*who_broton
-Allez vous consulter, puisque j'ai fait les frais,
-Je vous donne un quart d'heure, et veux sans plus attendre,
-La noce pour ce soir, ou bien, plus de Léandre.
-
-**** *book_ *id_I14 *act_I *date_1768
-
--*who_leandre
-Hé bien, papa,
-
--*who_broton
-      Mon gendre on n'a pu rien gagner.
-Aussi c'est ma bonté qui me fait barguigner,
-Eh ! Que doit m'importer le rang de chaque fille ;
-Pourvu que mon ami vienne dans ma famille ?
-
--*who_babot
 Sans doute.
 
--*who_broton
-      Il faut qu'il ait celle qu'il a choisi,
-J'ordonnerai, morbleu ! Je veux être obéi.
-Je suis honteux d'agir avec tant de faiblesse.
-
--*who_leandre
-Beau-père, il vaudrait mieux par quelque tour d'adresse,
-Appaiser les deux soeurs. Un valet entendu,
-Que j'ai pris depuis peu, qui leur est inconnu,
-Pourra nous y servir décriant ma conduite.
-Ici comme marchand... Il viendra...
-
--*who_babot
       Tout de suite,
 Oui je vais l'introduire, et soyez assuré,
 Qu'on vous équipera, Monsieur, à votre gré.
 
--*who_broton
-Oui bon cela, l'ami !
-
-**** *book_ *id_I15 *act_I *date_1768
-
--*who_victoire
-      Du transport qui m'anime ;
-Permettez qu'a vos pieds la douce ardeur s'exprime,
-Si je vous interromps...
-
--*who_babot
       Quelle vivacité !
 
--*who_victoire
-Mon père, pardonnez ; mon coeur est transporté,
-Par la crainte, l'amour et la reconnaissance.
-
--*who_broton
-Tu transportes le mien ; va ; ton obéissance,
-M'a toujours contente, mon enfant, et ton coeur,
-Est franc comme le mien et digne d'un buveur,
-Je reconnais mon sang, c'est la fille à son père.
-
--*who_victoire
-Vos ordres sont si doux, qui pourrait vous déplaire?
-
--*who_leandre
-Que ce transport, Victoire, à de quoi me flatter !
-J'en suis l'heureux objet, je n'en saurais douter.
-
--*who_victoire
-Oui c'est vous, cher Léandre !
-
--*who_leandre
-      Hélas ! Chère Victoire !
-
--*who_broton
-Morbleu ! Près de cela ce n'est rien que de boire,
-Chers enfants ! Oui... l'Amour... Vous me faites pleurer,
-Pour la première fois ils m'ont fait soupirer.
-
--*who_leandre
-Quel plaisir nous aurons à vous chérir sans cesse !
-
--*who_victoire
-Mon père et mon époux partagent ma tendresse.
-
--*who_broton
-J'aurai tout le bonheur quand vous serez heureux.
-
--*who_leandre
-Ah ! Par ce seul désir vous comblez tous mes voeux.
-
--*who_babot
 Voilà nos gens d'esprit ! Si je n'y prenais garde,
 Ils passeraient, jarni ! Le temps à la moutarde,
 Allez, votre valet devrait être envoyé.
 
--*who_leandre
-Je vois qu'elle a raison : je m'étais oublié.
-
--*who_babot
 Le coeur quoi qu'on en dise, ici n'est qu'une bête,
 Et vous aviez tous trois bon besoin de ma tête.
 
--*who_leandre
-On s'oublierait à moins, et ces heureux instants.
-Sont les seuls de ma vie...
-
--*who_babot
       Ah ! Les beaux sentiments !
 Allez, vous dis-je ; allez.
 
--*who_leandre
-      Il faut te satisfaire.
-
--*who_babot
 Un millier de soupirs ne fait pas une affaire.
 
-**** *book_ *id_I16 *act_I *date_1768
-
--*who_cathis
-Vous voulez nous parler, à ce que dit Babot,
-Vous décidez, sans doute ?
-
--*who_broton
-      Il n'en est pas le mot.
-Entre vous le débat ; la cadette ou l'ainée,
-Tout cela m'est égal, pourvu que la journée,
-Décide qui des trois de Victoire ou de vous,
-Recevra de ma main Léandre pour époux.
-
-**** *book_ *id_I17 *act_I *date_1768
-
--*who_champagne
-Bonjour, ma belle enfant, où sont tes Demoiselles?
-
--*who_cathis
-À qui parles-tu là?
-
--*who_champagne
-      J'ai les modes nouvelles.
-
--*who_babot
 C'est un petit marchand de pompons, de bijoux.
 
--*who_champagne
-Des peignes, des saveurs pour les nouveaux époux.
-La fille du logis, m'a-t'on dit, se marie...
-On ne m'avait pas dit que tu sois si jolie.
-
--*who_cathis
-Cette affaire, ma soeur, a dejà fait du bruit,
-Comment le savez vous?
-
--*who_champagne
-      Tout le monde le dit.
-Voici de bons parfums, des mouches, des aigrettes:
-Pour le futur époux voilà des savonettes.
-Approchez-vous, ma Reine, et choisissez ici.
-
--*who_babot
 Toi qui sais si bien tout, que dit-on du mari ?
 
--*who_champagne
-Recevez ce ruban.
-
--*who_babot
       Tes façons sont galantes.
 
--*who_champagne
-J'en usé ainsi partout, pour les belles suivantes.
-
--*who_babot
 Mais réponds moi ; l'on dit...
 
--*who_champagne
-      Que je suis son valet,
-Que quand je le regarde il me semble parfait.
-
--*who_lolotte
-Que dit il?
-
--*who_babot
       Il m'a dit, qu'il vous trouvait à plaindre.
 
--*who_champagne
-Non.
-
--*who_babot
       Tai-toi donc, serpent !
       Que Léandre sait feindre.
 
--*who_champagne
-Le ferai-je chasser quand j'entre en goût pour toi ?
-
--*who_babot
 Je t'instruirai de tout.
 
--*who_champagne
-      Qui le sait mieux que moi ?
-Voulez-vous du carmin ? Du beau blanc de ceruse ?
-
--*who_babot
 Ceruse, donc, manant ! Marche avec ta peinture.
 
--*who_cathis
-Nous n'en employons point.
-
--*who_babot
       Reviens un autre jour
 Il nous prenait, je crois, pour des femmes de Cour.
 
--*who_cathis
-Pourquoi le renvoyer ? nous aurions su peut être,
-Que Léandre n'est pas ce qu'il voudrait paraître.
-
--*who_babot
 Laissez moi seule, ici, je vais le rapeller,
 Fut-il, mardi ! Muet, je le ferai parler.
 
--*who_lolotte
-Oui sortons; tu pourras en savoir davantage.
-
-**** *book_ *id_I18 *act_I *date_1768
-
--*who_babot
 Écoutez, beau Marchand.
       Tout est manqué: j'enrage !
 
--*who_leandre
-Champagne, qu'as-tu fait ? Eh ! Bien suis-je chassé ?
-
--*who_champagne
-Pas... tout-à-fait, Monsieur,
-
--*who_babot
       Il aurait tout gâtê.
 Si je n'avais rien dit.
 
--*who_leandre
-      Ah ! Maraud ! Ah ! Belître !
-
--*who_babot
 Loin de vous décrier, Valets sur ce chapitre,
 Ne tarissent jamais, leur esprit inventif :
 Trouve dessus cela du faux ou positif ;
 Lui, faisait votre éloge !
 
--*who_champagne
-      En voici le mystère :
-Déplait-on quand on a tant de désir de plaire ?
-Vous me pardonnerez en regardant Babot.
-
--*who_babot
 C'est votre faute...
 
--*who_champagne
-      Oui.
-
--*who_leandre
-      Taisez-vous maitre sot !
-
--*who_babot
 Il n'était qu'a demi dans votre confidence.
 
--*who_champagne
-Si j'ai péché, Monsieur, c'était par ignorance;
-Je pourrai réparer tout le mal que j'ai fait.
-
--*who_babot
 Il voit ici deux soeurs, une autre est votre fait :
 Il ne comprenAit rien à toutes ces vétilles.
 
--*who_champagne
-Qui diable eut deviné que Broton eut trois filles ?
-
--*who_leandre
-Fort bien ! Il a raison, puisqu'il est amoureux ;
-Mais je perds mon bonheur, et c'est pour tes beaux yeux.
-
--*who_babot
 Pouvait-on deviner qu'on lui brouillait la vue ?
 On pourra retrouver l'occasion perdue.
 
--*who_leandre
-Votre zèle à présent serait hors de saison ;
-Je ne veux écouter que la droite raison.
-Enfin je vais risquer tout ce que je peux craindre,
-Et mon coeur souffre trop d'être obligé de feindre.
-
-**** *book_ *id_I19 *act_I *date_1768
-
--*who_leandre
-Tout nous réussit mal; il saut, mon cher papa,
-Instruire les deux soeurs...
-
--*who_babot
       Justement les voilà.
 
--*who_broton
-Eh oui ! La vérité ; c'est la vertu que j'aime.
-In vino veritas.
-
-**** *book_ *id_I20 *act_I *date_1768
-
--*who_clorinde
-      C'est ce fou ! C'est lui-même !...
-Je vois son teint rougir, et ses yeux s'égarer.
-
--*who_babot
 Nous possédons ici de quoi tout réparer.
 
--*who_clorinde
-Tu me l'as déja dit.
-
--*who_leandre
-      Il n'est plus temps de feindre.
-
--*who_clorinde
-Ah ! Damis !
-
--*who_leandre
-      Pardonnez ; vous n'avez rien à craindre.
-Et l'Amour seul, Madame, a causé ces erreurs,
-Je craignais d'offenser ces deux aimables soeurs ;
-En adressant mes voeux à ma chère Victoire,
-Dont la main comblerait mon bonheur et ma gloire.
-J'ose vous implorer...
-
--*who_clorinde
-      Qu'en dites-vous, Damis ?
-
--*who_broton
-On tirerait plutôt morbleu ! du vin d'un puits,
-Qu'on ne dégouterait filles du mariage,
-Surtout quand elles sont... Vous m'entendez...
-D'un âge...
-
--*who_damis
-      À moins que ce ne soit par leur propre raison.
-
--*who_clorinde
-Il faut faire un effort, mes chères.
-
--*who_babot
       Un bon non,
 Car ce libertinage et cette jalousie,
 Tout était faux...
 
--*who_lolotte
-      Ma soeur...
-
--*who_leandre
-      Ainsi que ma folie.
-
--*who_cathis
-Quoi ! Ma soeur on nous joue ! et Victoire...
-
--*who_lolotte
-      Ah ma soeur !
-Il faut abandonner ce Bourgeois...
-
--*who_cathis
-      De grand coeur !
-
--*who_broton
-Baise moi mes Amours... Te voilà raisonnable,
-On verra mon bon coeur, quand nous serons à table,
-Je leur fais un présent qui vaut bien... Cent maris.
-
--*who_clorinde
-Je leur fais épouser pour le moins des Marquis :
-De leur âme à l'instant j'ai connu la noblesse ;
-Elles ont de grands biens ; la beauté, la sagesse :
-Que leur faut-il de plus ?
-
--*who_babot
       C'est fort bien engeôler.
 
--*who_champagne
-Et toi coquine, aussi voudrais-tu m'enrôler ?
-
--*who_broton
-Allons boire aux accords de Victoire et Léandre ;
-Et vive le bon vin qui me procure un gendre !
-
--*who_babot
 L'amour avec Bacchus est au moins de moitié.
 
--*who_victoire
-Couronnez ce beau jour par la douce amitié :
-Je l'espère, mes soeurs, puisque tout m'autorise.
 
--*who_cathis
-On vous fréquentera quand on sera Marquise.
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
+Bonjour, ma belle enfant, où sont tes Demoiselles?
+
+      J'ai les modes nouvelles.
+
+Des peignes, des saveurs pour les nouveaux époux.
+La fille du logis, m'a-t'on dit, se marie...
+On ne m'avait pas dit que tu sois si jolie.
+
+      Tout le monde le dit.
+Voici de bons parfums, des mouches, des aigrettes:
+Pour le futur époux voilà des savonettes.
+Approchez-vous, ma Reine, et choisissez ici.
+
+Recevez ce ruban.
+
+J'en usé ainsi partout, pour les belles suivantes.
+
+      Que je suis son valet,
+Que quand je le regarde il me semble parfait.
+
+Non.
+
+Le ferai-je chasser quand j'entre en goût pour toi ?
+
+      Qui le sait mieux que moi ?
+Voulez-vous du carmin ? Du beau blanc de ceruse ?
+
+Pas... tout-à-fait, Monsieur,
+
+      En voici le mystère :
+Déplait-on quand on a tant de désir de plaire ?
+Vous me pardonnerez en regardant Babot.
+
+      Oui.
+
+Si j'ai péché, Monsieur, c'était par ignorance;
+Je pourrai réparer tout le mal que j'ai fait.
+
+Qui diable eut deviné que Broton eut trois filles ?
+
+Et toi coquine, aussi voudrais-tu m'enrôler ?
+

@@ -1,6 +1,6 @@
 ---
 identifier: romagnesi_arlequinbellerophon  
-creator: Biancolelli, Pierre-François ; dit Dominique fils ; Romagnesi, Jean-Antoine.  
+creator: Biancolelli, Pierre-François ; dit Dominique fils ; Romagnesi, Jean-Antoine ; Georges Forestier.  
 date: 1738  
 title: Arlequin, Bellerophon. Parodie  
 ---

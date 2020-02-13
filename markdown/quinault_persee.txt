@@ -1,6 +1,6 @@
 ---
 identifier: quinault_persee  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1682  
 title: Persée. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: desfontaines_eurimedon  
-creator: Desfontaines, Nicolas  
+creator: Desfontaines, Nicolas ; Georges Forestier.  
 date: 1637  
 title: Eurimédon ou l'Illustre pirate. Tragi-comédie  
 ---

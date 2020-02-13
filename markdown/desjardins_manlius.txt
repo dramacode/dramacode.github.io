@@ -1,6 +1,6 @@
 ---
 identifier: desjardins_manlius  
-creator: Villedieu, Marie-Catherine de  
+creator: Villedieu, Marie-Catherine de ; Georges Forestier.  
 date: 1662  
 title: Manlius. Tragi-comédie  
 ---

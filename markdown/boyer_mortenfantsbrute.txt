@@ -1,6 +1,6 @@
 ---
 identifier: boyer_mortenfantsbrute  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1648  
 title: La Mort des enfans de Brute. Tragédie  
 ---

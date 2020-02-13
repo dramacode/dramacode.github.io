@@ -1,1779 +1,1044 @@
 
 
-**** *book_ *id_I01 *act_I *date_1695
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbernard
 
--*who_lucas
-Tatigué que c'est grand dommage que je ne connaisse A ni B. Gros et grand comme je sis, c'est une honte que je ne sache pas encore lire.
-Ah !
-Que j'aurais de plaisir à défricher ce qu'il y a dans ce papier que je viens de trouver !
-Il faut que ce soit queuque chose de biau ; car il était bien emmailloté : cachets par ici, cachets par y-là… Si c'était queuque bon contrat, queuque bonne lettre de change, que fait-on ?
-La forteune viant parfois en dormant ; alle m'en veut peut-être ?
-Pourquoi non ?
-Je ne serais pas le premier manant qu'alle aurait fait grand Seigneur, ça se voit à chaque bout de champ, ça arrive tous les jours, et fi personne ne crie miracle.
-Si on me voyait dans un biau carrosse, qu'est-ce qui croirait que j'ai été paysan ?
-Je ne m'en souviendrais peut-être pas moi-même.
-
-**** *book_ *id_I02 *act_I *date_1695
-
--*who_lisette
-Que fais-tu là, Lucas ?
-
--*who_lucas
-Je me promène, Mademoiselle Lisette.
-Comme j'avons soupé de bonne heure, en attendant qu'il soit tout à fait nuit, je suis bian aise de faire un peu de digestion.
-
--*who_lisette
-Mais, tu parlais tout seul, je pense ?
-
--*who_lucas
-C'est que je songeais à faire fortune : je ne sis pas un sot, non, tel que vous me voyez.
-
--*who_lisette
-Je le crois bien, tu as la physionomie d'avoir de l'esprit.
-
--*who_lucas
-J'en ai comme un enragé ; mais, je ne sais pas lire, c'est ce qui me chagraine.
-
--*who_lisette
-Tu as raison, cela est chagrinant ; mais cela n'est pas trop nécessaire pour faire fortune.
-
--*who_lucas
-Morgué, si fait, et j'en aurais bon besoin à l'heure qu'il est.
-
--*who_lisette
-Comment donc, Lucas ?
-
--*who_lucas
-Accoutez, je sommes pour être mariés ensemble ; car Monsieur Bertrand notre maître dit qu'il le veut, je le veux bian itou.
-Quand vous ne le voudriais pas, vous, je sommes deux contre un, à la pluralité des voix je serons mari et femme, ne vous en déplaise.
-
--*who_lisette
-C'est une chose sûre ; mais afin que les choses se fassent de bonne grâce, et que je le veuille bien aussi, c'est pour cela que tu veux faire fortune ?
-
--*who_lucas
-Tout justement, vous l'avez deviné.
-J'aime à être riche, moi ; il m'est avis que ça est bian commode, Mademoiselle Lisette.
-
--*who_lisette
-Tu as raison.
-
--*who_lucas
-Oh bian donc, comme je partagerons notre forteune, il n'y a point de danger de vous montrer ce que je vians de trouver.
-
--*who_lisette
-Qu'est-ce que c'est ?
-
--*who_lucas
-Motus, au moins.
-
--*who_lisette
-Est-ce quelque diamant ?
-
--*who_lucas
-Non.
-
--*who_lisette
-Une bourse pleine d'or ?
-
--*who_lucas
-Non.
-
--*who_lisette
-Quoi donc ?
-
--*who_lucas
-Un papier.
-
--*who_lisette
-Quel papier ?
-
--*who_lucas
-Un papier dont j'ai bonne opinion, c'est tout dire, le voilà.
-Tenez, il fait encore un tantinet jour, vous savez lire, voyez ce que c'est, car je n'y entends goutte, oui ; mais morgué, lisez donc tout haut, point de trahison, au moins.
-
--*who_lisette
-Madame votre mère m'est venue trouver : vous avez fort bien fait de lui mander naturellement où vous êtes, le sujet qui vous y retient, et les moyens qu'il y a de vous rendre service.
-Je suivrai de près le valet de chambre qui vous porte ma lettre : tâchez de plaire, puisque vous l'avez entrepris, et comptez qu'on n'épargnera rien pour vous rendre heureux.
-Le Chevalier d'Artimon.
-D'Artimon !
-C'est l'oncle d'Angélique.
-
--*who_lucas
-Il n'y a morgué pas là de quoi faire forteune.
-Mais tatigué que les gens sont sots d'empaqueter si bien si peu de chose ?
-
--*who_lisette
-Où as-tu trouvé ce papier ?
-
--*who_lucas
-Auprès de la petite porte du jardin : je n'aurais pargué pas pris la peine de le ramasser, si j'eusse cru que c'eût été si peu de chose.
-Vous en ferez votre profit, je vous le baille.
-
--*who_lisette
-Où vas-tu si vite ?
-
--*who_lucas
-Je n'ai pas le temps de m'amuser, je m'en cours dire à Monsieur Bernard queuque chose que j'ai vu ; car je ly dis tout, comme vous savez, c'est ce qui fait que je sommes si bons amis.
-
-**** *book_ *id_I03 *act_I *date_1695
-
--*who_lisette
-Une lettre du Chevalier d'artimon, qui ne s'adresse point à sa nièce !
-Quelle autre correspondance peut-il avoir en ce pays-ci ?
-Ah !
-Vous voilà le plus à propos du monde.
-
-**** *book_ *id_I04 *act_I *date_1695
-
--*who_angelique
-As-tu quelque chose à m'apprendre qui puisse me faire plaisir ?
-
--*who_lisette
-Cela se pourrait bien, connaissez-vous l'écriture de votre oncle ?
-
--*who_angelique
-De mon oncle le Chevalier ?
-Oui, Lisette.
-
--*who_lisette
-En est-ce là ?
-Voyez.
-
--*who_angelique
-Sans doute, cette lettre est de lui, donne.
-À qui s'adresse-t-elle ?
-Où l'as-tu trouvée ?
-Qui te l'a rendue ?
-
--*who_lisette
-Elle ne s'adresse à personne.
-C'est par hasard qu'elle est entre mes mains ; je ne sais ce qu'elle signifie, mais le cœur me dit quelque chose de bon, et je me flatte que nous allons voir de la nouveauté dans nos affaires.
-
--*who_angelique
-Non, Lisette ; je suis née malheureuse, et je ne sache rien au monde qui puisse changer ma destinée.
-
--*who_lisette
-Mais dans le fonds, qu'est-ce qui vous manque ?
-Ce ne sont pas les soupirants, Dieu merci.
-Vous n'en avez que trop, peut-être, et je ne sais pas même s'il n'y en a point ici quelqu'un incognito, qui attend une occasion favorable pour se déclarer.
-Ce Peintre, et ce Jardinier qui sont ici depuis quinze jours ?
-
--*who_angelique
-Que veux-tu dire ?
-
--*who_lisette
-Ces gens-là ne sont rien moins que ce qu'ils paraissent ; je m'y connais, ce sont des amoureux en masque, sur ma parole.
-
--*who_angelique
-Que tu es extravagante, Lisette, avec tes idées !
-
--*who_lisette
-Donnez-vous patience, nous aurons tout le temps d'éclaircir mes doutes, et selon toutes les apparences nous ne retournerons pas sitôt à Paris.
-Ce bizarre Monsieur Bernard, que votre père en mourant s'avisa pour nos péchés de nommer votre Tuteur en dépit de toute la famille, a ses raisons pour demeurer ici, et sous prétexte d'embellir sa maison de campagne, de faire peindre ses appartements, il vous cache aux yeux de tout le monde, et nous tient reléguées depuis six mois dans le fond d'un Village, où il y a plus de cinq mois et trois semaines que je m'ennuie.
-
--*who_angelique
-Ah !
-Ma chère Lisette.
-
--*who_lisette
-J'entends.
-Vous vous ennuyez aussi, et de plus d'une manière, même.
-L'état de fille vous déplaît autant que le Village, et franchement vous avez raison ; c'est une chose ennuyeuse.
-Mais enfin ce qui se trouve à Paris, se trouve en province, il y a des épouseurs par tout pays ; et si par hasard le Peintre était ce que je m'imagine je répondrais bien, moi, de faire passer vos chagrins avant qu'il fût peu.
-
--*who_angelique
-Hé !
-Que me servirait-il qu'on m'aimât, et même de faire un choix ?
-Les injustes caprices de mon Tuteur, qui refuse tous les partis qui se présentent, ne me permettent pas de me déterminer en faveur de quelqu'un.
-
--*who_lisette
-Hé, mort de ma vie, votre Tuteur ne fait que ce qu'il veut : ne savez-vous pas ce qu'il vous faut ?
-Il ne vous le donne point, c'est à vous de le prendre.
-
--*who_angelique
-Ah !
-Que me conseilles-tu ?
-Les mauvaises manières qu'il a pour moi ne me feront jamais sortir des égards que je me dois à moi-même ; et quelque passion que je puisse avoir, elle sera toujours soumise à la raison et à la bienséance.
-
--*who_lisette
-Et avec ces beaux sentiments-là, vous mourrez vieille fille, cela est cruel : Monsieur Bernard, pour ne point rendre compte de votre bien, écartera tous les prétendants ; car enfin il n'a point eu jusqu'ici de bonnes raisons pour rebuter ceux qui vous ont demandée.
-
--*who_angelique
-C'était des partis fort convenables, Lisette.
-
--*who_lisette
-Oui : mais cependant pourquoi a-t-il refusé ce jeune Conseiller ?
-Parce qu'il est ignorant, dit-il : la grande merveille !
-Hé, mort de ma vie, si pour être de robe il fallait absolument être habile homme, la plupart des Charges seraient à vendre.
-
--*who_angelique
-Tu as raison.
-Hé, qu'ai-je affaire aussi que mon mari soit savant, Lisette ?
-
--*who_lisette
-Bon, c'est quelque chose de bien nécessaire pour le mariage que de la science : et voilà ce gros Colonel qui vous aimait tant, par exemple, on dit qu'il sait du latin, celui-là, du grec ; que sais-je, moi.
-Il a tous les livres du monde dans la cervelle.
-
--*who_angelique
-Oh, cet homme-là ne me revenait point du tout, je te l'avoue.
-
--*who_lisette
-Ni à moi non plus, et cependant je vous aurais toujours conseillé de le prendre en attendant mieux ; mais le mauvais Tuteur l'a-t-il voulu.
-Il dit que c'est un homme qui ne s'attache qu'à l'étude, et qui ne songe point à son Régiment : le Conseiller en sait trop peu pour un Magistrat, et le Colonel en sait trop pour un homme d'épée.
-Ne voilà-t-il pas de bonnes chiennes de raisons ?
-
--*who_angelique
-Tu me fais entrevoir des choses…
-
--*who_lisette
-Je vous fais entrevoir juste.
-Et comment a-t-il reçu la demande que lui fit, il y a quelque temps, la mère de ce jeune Marquis, dont les terres sont si proches d'ici ?
-
--*who_angelique
-Je n'ai jamais vu ce Marquis, j'en ai ouï dire mille biens.
-
--*who_lisette
-Je ne le connais pas non plus que vous, et cependant je m'intéressais pour lui, parce que Madame sa mère est si bonne personne, outre qu'il est presque toujours à la Cour ; et l'air de ce pays-là nous conviendrait assez, à ce qu'il me semble.
-
--*who_angelique
-Je ne saurais pardonner à mon Tuteur d'avoir rebuter celui-là, je te l'avoue.
-
--*who_lisette
-Il prétend encore avoir eu raison ; ce Marquis, dit-il, est trop honnête homme.
-Il est franc, généreux, bon ami, sincère.
-C'est un Courtisan qui ne sait pas son métier, Monsieur Bernard veut que tout le monde excelle comme lui, dans ce qu'il se mêle de faire.
-
--*who_angelique
-Comment donc, qu'on excelle comme lui ?
-Que veux-tu dire ?
-
--*who_lisette
-Quoi !
-Vous ne voyez pas comme moi que sa conduite est admirable ?
-
--*who_angelique
-En quoi admirable ?
-
--*who_lisette
-En ce qu'il ne vous marie point.
-Vous êtes jeune, belle et riche, il est votre Tuteur, il vous refuse à tout le monde, il vous garde pour lui, peut-être.
-N'est-ce pas faire le métier de Tuteur à merveille ?
-
--*who_angelique
-Si je croyais qu'il eût cette pensée, il n'y a rien au monde que je ne fusse capable de faire plutôt que d'être exposée…
-
--*who_lisette
-Paix, taisez-vous ; voici son espion, il ne faut rien dire devant ce maraud-là.
-
-**** *book_ *id_I05 *act_I *date_1695
-
--*who_lucas
-Oh palsangué je vous trouve bian à point.
-Réjouissez-vous, Mademoiselle, vous ne serez plus si fâchée.
-
--*who_angelique
-Comment ?
-
--*who_lucas
-Réjouissez-vous, vous dis-je encore une fois, tout vient à point à qui peut attendre, vous serez mariée à la fin.
-
--*who_angelique
-Tes conjectures n'étaient pas justes, ma pauvre Lisette.
-
--*who_lisette
-Elle sera mariée !
-Qui te l'a dit ?
-
--*who_lucas
-Morgué je le sais bian, il n'y aura point de nenni pour cette fois-ci, et sti qui la prend n'en aura pas le démenti ; car j'y ons regardé.
-
--*who_angelique
-Explique-toi donc ?
-Quel homme est-ce ?
-
--*who_lucas
-Oh palsangué, c'est une bonne affaire.
-
--*who_lisette
-Quelque jeune homme, peut-être ?
-
--*who_lucas
-Un jeune homme ?
-Fi : est-ce que ce serait une bonne affaire pour une fille qu'un jeune homme d'astheure ?
-
--*who_angelique
-Est-ce quelque personne de qualité ?
-
--*who_lucas
-De qualité ?
-Dieu vous en garde.
-Ils avons toujours queuque ménage en Ville les gens de qualité, et ils en sont plus soigneux que de celui de leurs femmes encore.
-
--*who_lisette
-Ne serait-ce point queuque financier.
-
--*who_lucas
-Un Financier ?
-Elle serait bian lotie : aujourd'hui Madame, et demain rian peut-être.
-
--*who_angelique
-Hé !
-Ne nous tiens pas davantage dans l'incertitude.
-
--*who_lucas
-Tatigué comme vous gobez ça.
-Je sis un porteux de bonnes nouvelles, moi, n'est-il pas vrai ?
-
--*who_lisette
-Hé, de par tous les diantres, achève donc de la dire ta bonne nouvelle.
-Est-ce un parti avantageux enfin ?
-
--*who_lucas
-Oh, pour sti-là je vous en réponds.
-Hé pargué, tenez vela Monsieur, qu'il vous le dise lui-même.
-
-**** *book_ *id_I06 *act_I *date_1695
-
--*who_monsieurbernard
 Oh, c'est vous que je cherche, Angélique : j'allais monter à votre appartement, et je suis bien aise de vous rencontrer ici.
 
--*who_angelique
-Souhaitez-vous quelque chose de moi ?
-
--*who_monsieurbernard
 Oui, depuis le souper on m'a appris des choses qui ont achevé de me faire prendre des résolutions dont vous serez bien aise, et j'ai de bonnes nouvelles à vous dire.
 
--*who_angelique
-Me voilà prête à vous écouter.
-
--*who_monsieurbernard
 On vous demande en mariage.
 
--*who_angelique
-On m'a déjà demandée tant de fois inutilement, que cette nouvelle n'est pour moi, ni surprenante, ni agréable.
+Les meilleures du monde, Lisette. Tu sais combien j'ai pris de soin pour ton éducation.
 
--*who_lisette
-Oh, cette fois-ci ne sera pas comme les autres, et de la manière dont Monsieur parle, je vois bien qu'il a de bonnes intentions.
-
--*who_monsieurbernard
-Les meilleures du monde, Lisette.
-Tu sais combien j'ai pris de soin pour ton éducation.
-
--*who_lisette
-Cela est vrai.
-
--*who_angelique
-Je vous en suis bien redevable.
-
--*who_monsieurbernard
 Depuis la mort de ses parents, je n'ai épargné aucune chose pour la rendre une personne accomplie.
 
--*who_lisette
-Et vous avez très bien réussi.
-
--*who_monsieurbernard
 Il me semble qu'il ne manque plus à l'accomplissement de mon ouvrage, que de la voir heureusement mariée.
 
--*who_lisette
-Vous avez raison, il faut un bon mari pour couronner l'œuvre.
-
--*who_monsieurbernard
 J'ai peut-être, selon son gré, un peu trop différé de le faire ; et entre nous, Lisette, elle en a murmuré quelquefois.
 
--*who_angelique
-Moi, Monsieur ?
-
--*who_lisette
-Oh, pour cela oui, je vous l'avoue, nous en murmurions tout à l'heure encore.
-
--*who_angelique
-Tu perds l'esprit, Lisette.
-
--*who_lisette
-Vous rougissez : voilà une pudeur bien placée !
-Hé, allez, allez, en fait de mariage les honnêtes filles ont toujours plus d'impatience que les autres.
-
--*who_monsieurbernard
 Elle n'aura rien perdu pour attendre.
 
--*who_lisette
-Ses intérêts sont bien entre vos mains.
-
--*who_monsieurbernard
 Aujourd'hui tout me détermine à la marier incessamment, et j'ai été averti de bonne part qu'on forme des desseins contre son honneur.
 
--*who_angelique
-Hé !
-Quels desseins, Monsieur ?
-
--*who_monsieurbernard
 On veut vous enlever l'une et l'autre.
 
--*who_angelique
-Nous enlever !
-
--*who_monsieurbernard
 Oui, mais…
 
--*who_lisette
-Au remède, Monsieur, vite, au remède, on ne peut trop se hâter de mettre l'honneur des filles à couvert des mauvaises intentions des hommes.
-
--*who_monsieurbernard
 C'est aussi le parti que je prends.
 
--*who_lisette
-Vous êtes un homme de bon esprit.
-
--*who_monsieurbernard
 Et pour la dérober aux persécutions et aux poursuites d'une foule de prétendants qui ne lui conviennent point, j'ai résolu dès demain d'en faire ma femme, et j'ai pris pour cela…
 
--*who_angelique
-Comment, Monsieur ?
-
--*who_lisette
-Mes conjectures n'étaient pas fausses.
-
--*who_monsieurbernard
 Plaît-il ?
 
--*who_angelique
-Vous avez fait dessein, dites-vous ?
-
--*who_monsieurbernard
 De vous épouser dès demain moi-même, et d'ôter ainsi tout espoir…
 
--*who_lisette
-Oh, si c'est pour cela, qu'il nous laisse enlever, cela vaut beaucoup mieux.
+Qu'avez-vous ? Vous voilà toute je ne sais comment.
 
--*who_monsieurbernard
-Qu'avez-vous ?
-Vous voilà toute je ne sais comment.
-
--*who_angelique
-Je me trouve mal, Monsieur.
-Viens auprès de moi, Lisette.
-
--*who_lisette
-Madame, Madame, holà donc, Madame.
-
--*who_monsieurbernard
 Ouais, voilà un mal qui lui prend bien brusquement.
 
--*who_lisette
-Il ne faut pas que cela vous étonne, Monsieur, elle est si fort outrée des mauvais desseins que l'on fait contre elle, que le moins qu'elle puisse faire, c'est de s'évanouir ; je crois que j'en mourrais, moi, si j'étais à sa place.
-
--*who_monsieurbernard
 Oh bien, bien, cela ne sera rien : qu'elle prenne un peu de repos, je mettrai bon ordre à ce qui la chagrine.
 
--*who_lisette
-Hom, quel ordre, quel ordre !
-Nous y mettrons un contrordre, nous autres.
+Ici, Lucas. Tu as un gros bon sens que j'ai toujours trouvé admirable.
 
-**** *book_ *id_I07 *act_I *date_1695
-
--*who_monsieurbernard
-Ici, Lucas.
-Tu as un gros bon sens que j'ai toujours trouvé admirable.
-
--*who_lucas
-Mon bon sens et moi, je sommes à votre sarvice.
-
--*who_monsieurbernard
 Que penses-tu de l'évanouissement d'Angélique ?
 
--*who_lucas
-Morgué, je pense qu'alle ne vous aime point.
-Voyez-vous ; alle serait bien aise d'être mariée, mais alle est fâchée que ce soit avec vous.
-
--*who_monsieurbernard
 Elle n'en épousera pourtant point d'autre.
 
--*who_lucas
-Acoutez, Monsieur, ne jurons de rian, et défions-nous de tout, il se mitonne queuque manigance, à quoi il faut prendre garde.
-
--*who_monsieurbernard
 Mais es-tu bien sûr de ce que tu m'as dit ?
 
--*who_lucas
-J'en sis margué plus sûr, que je ne sis sûr qui était mon père.
-Ne vous ai-je pas dit que votre Jardinier va tous les soirs au bout de la Saussaie ; qu'a-t-il affaire là ce Jardinier ?
-Il vient un grand homme à cheval.
-
--*who_monsieurbernard
 Tous les soirs aussi ?
 
--*who_lucas
-Il y était il n'y a pas une bonne heure : le Jardinier et ly se promenont, ils parlont, ils gesticulont, ils se tourmantont, et puis ils se séparont : le Monsieur à cheval galope d'un côté, et le Jardinier trotte de l'autre.
-Morgué qu'est-ce que cela signifie ?
-
--*who_monsieurbernard
 Tu as raison, il y a là-dessous quelque chose.
 
--*who_lucas
-S'il y a queuque chose ?
-Je vous en réponds ; mais ce n'est pas tout.
-Maturine, la servante des trois Rois, dit qu'ils avont cheuz eux du depuis quatre jours, trois ou quatre Monsieux que votre Jardinier connaît itou : ils soupiont tout à l'heure ensemble, et ils parlions de vous, de Mademoiselle Angélique ; ils disiont qu'il la fallait ôter de vos pattes, et qu'ils la mettriont dans les pattes d'un autre.
-Que sais-je moi ?
-Mais bref, tant y en a, ce sont vos affaires.
-
--*who_monsieurbernard
 Et le Peintre, sur quoi le soupçonnes-tu d'être de la partie ?
 
--*who_lucas
-Sur quoi ?
-Sur ce que le Jardinier et ly sont bons amis ; puisqu'ils s'aimont tant, il ne valont pas mieux l'un et l'autre.
-
--*who_monsieurbernard
 Cela pourrait être ; il faut que j'approfondisse cette affaire.
 
--*who_lucas
-Et quand vous aurez approfondi, que ferez-vous ?
-
--*who_monsieurbernard
 Je les chasserai.
 
--*who_lucas
-Hé, morgué, chassez-les sans approfondissement.
-Faut-il tant de façons ?
-Je sommes cheux vous, j'y avons deux filles, vous aimez l'une, vous voulez que j'aime l'autre, je le veux bian, moi, pour vous faire plaisir, tout coup vaille.
-Accoutez, mettons tout le monde dehors, et ne demeurons que nous quatre, je ne serons jaloux de parsonne, et je varrons beau jeu, ne vous boutez pas en peine.
-
--*who_monsieurbernard
 Je veux avant toutes choses pénétrer ce mystère, te dis-je : je vais faire un tour dans le Village, et tâcher de savoir qui sont ces gens qui logent aux trois Rois.
 
--*who_lucas
-Vous ne saurez que ce que je vous ai dit.
-
--*who_monsieurbernard
 Pour toi, quand je serai dehors, prends soin de bien rôder partout, et d'observer exactement ce qui se passera dans le logis.
 
--*who_lucas
-Vela qui est bien, vous n'avez qu'à dire.
-
--*who_monsieurbernard
 Le Jardinier est-il rentré.
 
--*who_lucas
-Il faut bien qu'il le soit, car vela lui-même.
-
-**** *book_ *id_I08 *act_I *date_1695
-
--*who_monsieurbernard
 Approchez, Monsieur le maraud, approchez.
 
--*who_lolive
-Avez-vous quelque ordre à me donner, Monsieur ?
-Me voilà prêt à vous obéir.
-
--*who_monsieurbernard
 D'où venez-vous à l'heure qu'il est, coquin que vous êtes ?
 
--*who_lolive
-Je viens d'ici près, Monsieur.
-
--*who_monsieurbernard
 Vous êtes un pendard.
 
--*who_lolive
-Monsieur.
-
--*who_monsieurbernard
 Un fripon.
 
--*who_lolive
-Monsieur.
-
--*who_monsieurbernard
 Un ivrogne, qui ne bougez du cabaret.
 
--*who_lolive
-Ah, Monsieur !
-Demandez, je n'y ai pas mis les pieds depuis que j'ai l'honneur d'être à votre service.
+Tu n'y a pas mis les pieds, infâme ? Qui sont ces gens avec qui tu viens de souper ?
 
--*who_monsieurbernard
-Tu n'y a pas mis les pieds, infâme ?
-Qui sont ces gens avec qui tu viens de souper ?
-
--*who_lolive
-Oh pour cela oui, Monsieur, je vous l'avoue, ce sont de mes amis, des gens de qualité.
-
--*who_monsieurbernard
 Des gens de qualité de tes amis !
 
--*who_lolive
-Oui, Monsieur, ils auront l'honneur de vous venir faire la révérence, pour voir vos parterres, vos potagers, vos espaliers, vos palissades ; ce sont des illustres, des Jardiniers de la Cour qui voyagent par curiosité.
-
--*who_monsieurbernard
 Ah, ah, ah, Monsieur.
 
--*who_monsieurbernard
 Tiens, porte cela de ma part à tes Jardiniers de la Cour.
 
-**** *book_ *id_I09 *act_I *date_1695
-
--*who_lucas
-Ah, ah, ah, parsangué cela est tout à fait drôle !
-À qui en a-t-il donc de vous rosser comme ça, sans dire gare : queu caprice est ça, Monsieur le Jardinier !
-
--*who_lolive
-Parbleu je ne sais pas ; mais, je l'enverrais au diable avec ses caprices.
-
--*who_lucas
-Est-ce que vous prenez ça sérieusement ?
-Il ne vous a baillé que queuques coups de bâton, vela une belle bagatelle, ce sont de petites himeurs qui ly prenont comme ça parfois, et il faut un peu excuser les défauts des parsonnes.
-
--*who_lolive
-Maugrebleu de ses défauts.
-Mais baste, j'ai aussi des défauts à peu près pareils ; et si les siens le reprennent encore, les miens me prendront à coup sûr, et nos défauts auront querelle ensemble.
-
--*who_lucas
-Vous jouez de malheur d'être tombé le premier sous sa patte.
-Il a du chagrin, il est amoureux.
-
--*who_lolive
-Lui amoureux ?
-Et de qui amoureux ?
-
--*who_lucas
-De Mademoiselle Angélique.
-
--*who_lolive
-Et depuis quand ?
-
--*who_lucas
-Pargué, depuis toujours ; mais, il ne lui a dit que depuis tout à l'heure.
-
--*who_lolive
-Hé bien ?
-
--*who_lucas
-Hé bien ?
-Ne jasez point, au moins.
-
--*who_lolive
-Non, non, ne craignez rien.
-
--*who_lucas
-Il ne la veut marier avec parsonne, parce qu'il veut qu'alle se marie avec ly, mais elle ne l'aime pas.
-
--*who_lolive
-Non ?
-
--*who_lucas
-Non voirement, c'est ce qui le met de mauvaise himeur.
-Il la battrait si alle était sa femme ; en attendant qu'alle la devienne, afin que les coups qu'alle mérite ne soyont pas perdus, il les baille au premier venu, c'est sa magnière.
-Oh, pour ça, c'est un plaisant homme.
-
--*who_lolive
-Je ne trouve point cela plaisant, moi, et je n'ai que faire…
-
--*who_lucas
-Acoutez, pour les coups de bâton d'aujourd'hui, vous pourriais bian y avoir un tantinet votre part, à ce que je m'imagine.
-
--*who_lolive
-Comment donc ?
-
--*who_lucas
-Allons, allons, boutez la main à la conscience, je dis tout ce que je sais ; vos bons amis les Jardiniers de la cour, Hem ?
-
--*who_lolive
-Hé bien ?
-
--*who_lucas
-Ce sont eux qui vous avons procuré cette aubaine-là, je vous conseille de les en remercier.
-Sarviteur, Monsieur le Jardinier.
-
-**** *book_ *id_I10 *act_I *date_1695
-
--*who_lolive
-Voilà un maroufle qui se moque de moi.
-La mine est éventée ; quel parti prendre ?
-Il n'y a point à balancer.
-
-**** *book_ *id_I11 *act_I *date_1695
-
--*who_dorante
-Trouverai-je l'occasion de me déclarer ?
-Et quand je l'aurai trouvée, aurai-je assez de bonheur pour persuader Angélique ?
-
--*who_lolive
-Ma foi, Monsieur, il faut vous dépêcher de le faire si vous voulez y réussir.
-
--*who_dorante
-Ah, te voilà, mon pauvre l'Olive !
-
--*who_lolive
-N'êtes-vous point las de ce déguisement, Monsieur ?
-N'est-il pas temps que vous cessiez d'être Peintre, et que vous redeveniez ce que vous êtes ?
-
--*who_dorante
-Hé, paix, paix, l'Olive.
-As-tu résolu de tout perdre.
-
--*who_lolive
-Hé, morbleu, tout est déjà perdu.
-Monsieur Bernard vient de me donner cent coups de bâtons, afin que vous le sachiez.
-
--*who_dorante
-À toi ?
-
--*who_lolive
-À moi-même.
-
--*who_dorante
-Hé, paix, paix.
-Parlons bas.
-
--*who_lolive
-On ne nous écoute point.
-
--*who_dorante
-Il n'importe.
-Et pourquoi t'a-t-il maltraité ?
-
--*who_lolive
-Il faut qu'il soupçonne quelque chose, ou que ce soit par manière de conversation.
-Son gros coquin de Fermier dit que c'est sa coutume ; pour se désennuyer, il rosse tantôt l'un, tantôt l'autre : votre tour viendra peut être, c'est ce qui me console.
-Mais, Monsieur, j'ai bien autre chose à vous apprendre.
-
--*who_dorante
-Quoi ?
-
--*who_lolive
-Vous ne regardez ce Monsieur Bernard que comme le Tuteur d'Angélique ?
-
--*who_dorante
-Hé bien ?
-
--*who_lolive
-Il est votre rival, je vous en avertis.
-
--*who_dorante
-Mon rival !
-Que me dis-tu là ?
-
--*who_lolive
-Ne vous alarmez point, Angélique le hait en perfection ; et la crainte qu'elle a d'être à lui, la déterminera plus facilement à se donner à vous.
-
--*who_dorante
-Ah !
-Mon pauvre l'Olive, je tremble à lui découvrir qui je suis, ce que je sens pour elle ; et je crains qu'elle ne s'effarouche en apprenant le dessein que j'ai formé.
-
--*who_lolive
-Qu'elle ne s'effarouche !
-La crainte est bonne.
-Hé, allez, allez, Monsieur, les filles d'aujourd'hui sont des animaux bien apprivoisés ; elles ne s'effarouchent point qu'on les aime, et nous vivons dans un siècle fort aguerri.
-
--*who_dorante
-Non, l'Olive, attendons pour me déclarer que le Chevalier d'Artimon son oncle, soit arrivé.
-Si j'en crois la lettre que son valet de chambre m'a rendue hier soir, il ne doit point tarder.
-
--*who_lolive
-Il ne doit point tarder ?
-Mais il tardera peut-être ; croyez-moi, Monsieur, il y a quatre ou cinq de mes camarades dans le Village qui n'attendent que vos ordres pour entrer en action.
-Vous attendez, vous le consentement de votre Maîtresse, il faut le demander pour l'obtenir.
-
--*who_dorante
-Mais enfin ?
-
--*who_lolive
-Mais enfin, il faut venir au fait, et tout au plus vite, nous n'avons point de temps à perdre.
-Nous travaillons ici depuis quinze jours l'un et l'autre, moi à gâter le jardin de Monsieur Bernard, et vous à défigurer ses plafonds et ses cheminées ; car vous êtes un très mauvais Peintre, et je ne suis pas un bon jardinier, moi, sans contredit.
-La fourberie sera découverte avant terme, si nous ne nous hâtons d'en profiter.
-Voici la suivante, laissez-moi un peu causer avec elle, j'irai dans un moment vous rendre compte de la conversation.
-
--*who_dorante
-Ne lui donne pas trop à connaître…
-
--*who_lolive
-Laissez-moi faire, je ne gâterai rien.
-
-**** *book_ *id_I12 *act_I *date_1695
-
--*who_lisette
-Il faut absolument que je démêle ce que je soupçonne.
-Monsieur Bernard, Monsieur Bernard, votre extravagante passion nous fera faire quelque extravagance.
-
--*who_lolive
-Je suis votre très humble serviteur, Mademoiselle Lisette.
-
--*who_lisette
-Je suis votre servante, Monsieur le Jardinier.
-
--*who_lolive
-Vous me semblez avoir l'esprit occupé de quelque affaire importante, Mademoiselle Lisette ?
-
--*who_lisette
-Oui, j'ai quelque chose en mouvement dans la cervelle, je vous l'avoue.
-
--*who_lolive
-J'ai aussi la tête embarrassée de quelques petites bagatelles.
-
--*who_lisette
-Ne pourrait-on point savoir le sujet de votre embarras ?
-
--*who_lolive
-Refuseriez-vous de m'apprendre la cause de votre mouvement ?
-
--*who_lisette
-C'est notre Monsieur Bernard qui me chagrine.
-
--*who_lolive
-Cela est heureux, c'est aussi lui à qui j'en veux justement.
-
--*who_lisette
-Il forme de petits projets que je renverserai s'il m'est possible.
-
--*who_lolive
-Il m'a donné quelques coups de bâton, dont j'espère que je mourrai quitte.
-
--*who_lisette
-Il vous a donné des coups de bâton, Monsieur !
-
--*who_lolive
-Oui, Mademoiselle, je ne suis pas glorieux, comme vous voyez.
-
--*who_lisette
-Vous n'êtes pas glorieux : mais vous êtes vindicatif, peut-être ?
-
--*who_lolive
-Oh, pour cela oui, comme tous les diables.
-Et s'il ne tient, pour vous le persuader, qu'à faire pièce à Monsieur Bernard, vous n'avez qu'à parler, je suis votre homme.
-
--*who_lisette
-Si l'on pouvait vous confier un secret ?
-
--*who_lolive
-Pour gage de ma discrétion, je vous en confierai un autre.
-
--*who_lisette
-Je m'intéresse pour une petite personne qui mérite bien que l'on fasse quelque chose pour elle.
-
--*who_lolive
-Je rends service à un honnête homme qui n'est pas ingrat de ce qu'on fait pour lui.
-
--*who_lisette
-Ah, je vous entends.
-
--*who_lolive
-Comment ?
-
--*who_lisette
-Regardez-moi un peu en face.
-
--*who_lolive
-Ma physionomie vous plaît-elle ?
-
--*who_lisette
-Vous n'êtes pas Jardinier, Monsieur le Jardinier.
-
--*who_lolive
-Vous devinez la moitié des choses.
-
--*who_lisette
-Et le Peintre n'est pas Peintre, sur ma parole.
-
--*who_lolive
-Vous savez tout mon secret, dites-moi le vôtre.
-
--*who_lisette
-N'avez-vous pas l'esprit de le deviner ?
-
--*who_lolive
-Oh que si fait.
-La petite personne pour qui vous vous intéressez, est Angélique ?
-
--*who_lisette
-Justement.
-
--*who_lolive
-Elle est amoureuse de quelqu'un ?
-
--*who_lisette
-Non pas encore : mais elle hait Monsieur Bernard.
-
--*who_lolive
-C'est une grande disposition pour en aimer un autre.
-
--*who_lisette
-Ce Monsieur Bernard veut l'épouser malgré qu'elle en ait.
-
--*who_lolive
-Voilà d'heureuses conjonctures ; et si vous voulez lui faire entendre que le Peintre est mon maître, homme de condition, amoureux d'elle à la folie.
-
--*who_lisette
-Hé bien ?
-
--*who_lolive
-Je crois que nous n'aurions pas de peine à faire ce mariage-là, qu'en dis-tu ?
-
--*who_lisette
-Il s'en fait de plus difficiles.
-
--*who_lolive
-N'est-il pas vrai ?
-Et le nôtre ne sera pas malaisé à conclure, je pense.
-
--*who_lisette
-Oh, que non, quand les parties sont une fois d'accord, les affaires sont bientôt terminées.
-
--*who_lolive
-Touche donc là, sans façon, ma chère.
-Ce sont de bonnes filles que ces Lisettes, je n'en ai jamais trouvé qui n'aient dit , oui.
-
--*who_lisette
-Voici Angélique, va chercher ton maître, et l'amène ici ; il ne faut point que les choses languissent.
-
--*who_lolive
-J'y cours, et je te le livre tout à l'heure.
-Ah !
-Qu'on est heureux en amour de trouver des filles si expéditives.
-
-**** *book_ *id_I13 *act_I *date_1695
-
--*who_angelique
-Pourquoi me laisses-tu seule, Lisette ?
-Dans l'accablement où je suis, tu m'abandonnes à mes chagrins, et depuis que tu es sortie de ma chambre, j'ai fait les plus cruelles réflexions.
-
--*who_lisette
-Et je viens de faire, moi, la rencontre la plus heureuse.
-
--*who_angelique
-Tu causais avec le Jardinier ; que te disait-il ?
-
--*who_lisette
-Vivat, Madame, la fortune et l'amour sont pour la jeunesse, et le Tuteur est pris pour dupe.
-
--*who_angelique
-Comment ?
-
--*who_lisette
-Je m'en étais toujours bien doutée, que le Peintre était un faux Peintre.
-
--*who_angelique
-En as-tu quelque certitude ?
-
--*who_lisette
-C'est un de vos amants, qui s'est déguisé pour s'introduire auprès de vous.
-
--*who_angelique
-Que me dis-tu ?
-
--*who_lisette
-Je vous dis vrai.
-
--*who_angelique
-Un de mes amants !
-Il y a quinze jours qu'il est ici, il ne m'a point encore parlé.
-Qu'il est indolent, ou timide !
-Et dans l'extrémité où je me trouve, que j'ai peu de secours à attendre d'une tendresse comme la sienne ?
-
--*who_lisette
-Oui, vous aimez la vivacité dans un amant, vous avez le goût bon ; et le Peintre en aura, ne vous mettez point en peine.
-Le voici.
-
-**** *book_ *id_I14 *act_I *date_1695
-
--*who_angelique
-Ah, Lisette, que sa présence me cause de trouble, je n'ai jamais senti ce que je sens.
-
--*who_lisette
-Ce sont les effets de la sympathie.
-Allons, mort de ma vie, il ne faut pas être rebelle à la destinée.
-
--*who_lolive
-Hé, allons donc, Monsieur, ferme, courage.
-
--*who_dorante
-Je tremble, l'Olive.
-
--*who_lolive
-Ira-t-il ?
-
--*who_lisette
-Il n'ose vous aborder.
-
--*who_angelique
-Qu'osera-t-il donc entreprendre, pour me prouver l'amour que tu me dis qu'il a pour moi ?
-
--*who_dorante
-J'oserai tout, belle Angélique, si vous souffrez que je vous aime, et si vous me permettez d'espérer.
-
--*who_lolive
-Ah !
-Le voilà en mouvement, Dieu merci.
-
--*who_dorante
-Je ne vous adore, il est vrai, que depuis deux mois, parce qu'il n'y a que deux mois que j'eus le bonheur de vous voir pour la première fois de ma vie.
-J'ai fait parler à votre Tuteur ma mère elle-même.
-
--*who_lisette
-Madame, c'est le Marquis dont nous parlions encore aujourd'hui.
-Oh, par ma foi, Monsieur Bernard, nous nous marierons ; mais vous ne signerez point au Contrat.
-
--*who_dorante
-Oui, c'est moi, charmante Angélique, qui brûle d'unir ma destinée à la vôtre.
-
--*who_angelique
-Si vous êtes le Marquis, Monsieur, j'ai reçu tant de témoignage de tendresse de Madame votre mère, quand elle vint ici…
-
--*who_lolive
-Je me donne au diable.
-Madame sa mère est aussi folle de vous que le fils, c'est beaucoup.
-
--*who_lisette
-Ah !
-Madame, par reconnaissance pour l'une, vous ne pouvez vous dispenser d'aimer l'autre.
-
--*who_dorante
-Je ne demande point, adorable Angélique, que pour vous délivrer des persécutions d'un Tuteur bizarre, vous vous jetiez aveuglément entre mes bras, moins par tendresse, peut-être, que par désespoir ; c'est l'amour qui me fait faire le personnage que je fais ici.
-Mais l'aveu de votre famille l'autorisera, sans doute.
-Votre oncle le Chevalier…
-
--*who_lisette
-Hé vite, hé vite, éloignez-vous, j'entends tousser de loin ce gros coquin de Lucas ; il vient de ce côté-ci, peut-être : il ne faut pas qu'il nous trouve ensemble.
-
--*who_angelique
-Ah, Lisette !
-
--*who_lolive
-Sauvons-nous, Monsieur.
-
--*who_dorante
-Un mot, avant que je vous quitte.
-
--*who_angelique
-Que voulez-vous que je vous dise ?
-
--*who_lisette
-Hé retirez-vous, la nuit s'avance à grand pas : quand elle sera tout à fait obscure, revenez ici dans le même endroit, vous nous y trouverez l'une et l'autre.
-
--*who_dorante
-Que je vais attendre ce moment avec impatience !
-
--*who_lolive
-Nous voyagerons, Monsieur, apparemment, et la partie sera quarrée ; elles sont à nous, sur ma parole.
-
-**** *book_ *id_I15 *act_I *date_1695
-
--*who_lisette
-Hé bien, que dites-vous de tout ceci ?
-Votre cœur est plus agité que le mien, je gage.
-
--*who_angelique
-Mon cœur est agité, je te l'avoue, et mon esprit embarrassé.
-
--*who_lisette
-Il faut pourtant se hâter de prendre parti ; et voici une aventure qu'il faut brusquer, si vous voulez la conduire à bonne fin.
-
--*who_angelique
-Mais comment la finir sans consentir à un enlèvement ?
-
--*who_lisette
-Ce ne sera pas un enlèvement, le Ciel nous en préserve.
-Il faudra faire la chose par manière de promenade.
-
--*who_angelique
-Mais la médisance…
-
--*who_lisette
-Bon, bon, c'est une bonne carogne que la médisance ; elle est elle-même si fort décriée, que personne ne s'embarrasse de ce qu'elle peut dire.
-
--*who_angelique
-Quel éclat ferait mon Tuteur !
-
-**** *book_ *id_I16 *act_I *date_1695
-
--*who_monsieurbernard
 Qui va là ?
 
--*who_lisette
-Le voilà, Madame, nous sommes perdues.
-
--*who_angelique
-Crois-tu qu'il nous ait écoutées ?
-
--*who_monsieurbernard
 Qui va là encore une fois ?
 
--*who_lucas
-Palsangué, qui va là toi-même ?
-
--*who_monsieurbernard
 Lucas ?
 
--*who_lucas
-Monsieur ?
-
--*who_monsieurbernard
 Est-ce toi ?
 
--*who_lucas
-Hé, voirement oui, qui pourrait-ce être ?
-Vous m'avez baillé ordre de rôder partout ; et je rôde, comme vous voyez, mais je ne trouve rian.
-
--*who_lisette
-Nous avons bien fait de les renvoyer.
-
--*who_angelique
-La nuit devient noire, ils vont venir : comment ferons-nous ?
-
--*who_monsieurbernard
 Hem, que murmures-tu entre tes dents ?
 
--*who_lucas
-Tatigué, comme vous vous gaussez !
-C'est vous, qui jasez tout seul, je pense.
-
--*who_monsieurbernard
 Tu rêves, je n'ai pas parlé.
 
--*who_lucas
-Tout de bon ?
-
--*who_monsieurbernard
 Non vraiment.
 
--*who_lucas
-Oh bien morgué, je sommes donc ici plus de deux ; il y a de la trahison, prenons garde à nous.
-
--*who_lisette
-Il faut les éviter, sauvons-nous.
-
--*who_lucas
-Morgué je tiens queuque chose que je ne laisserai pas aller.
-
--*who_angelique
-Doucement, Lucas.
-
--*who_monsieurbernard
 Je pense que c'est la voix d'Angélique ?
 
--*who_angelique
-Oui, Monsieur, c'est moi qui me promène avec Lisette.
-
--*who_monsieurbernard
 Ah, ah.
 
--*who_lucas
-Les mâles se sont envolés, Monsieu, je n'avons déniché que les femelles.
-
--*who_monsieurbernard
 Vous êtes aujourd'hui bien tard dans le jardin ?
 
--*who_lisette
-Pour dissiper un grand mal de tête qui lui est resté de son évanouissement de tantôt, je lui ai conseillé de faire un tour de promenade.
-
--*who_monsieurbernard
 C'est fort bien fait : mais l'heure de la promenade est un peu passée, l'humidité de la nuit pourrait vous incommoder, rentrons.
 
--*who_angelique
-L'air me fait du bien, au contraire ; et je continuerai, s'il vous plaît, de me promener avec Lisette.
-
--*who_monsieurbernard
 Non, non, puisque vous voulez vous promener, je ne vous quitterai point, je suis ce soir aussi dans le goût de la promenade ; allons, venez.
 
--*who_angelique
-Lisette ?
-
--*who_lisette
-On trouvera moyen de s'en débarrasser.
-
--*who_lucas
-Où êtes-vous donc, Mademoiselle Lisette, que je nous promenions itou par ensemple ?
-
-**** *book_ *id_I17 *act_I *date_1695
-
--*who_dorante
-L'Olive ?
-
--*who_lolive
-Monsieur.
-
--*who_dorante
-N'as-tu point entendu marcher ?
-Ce sont elles, sans doute.
-
--*who_lolive
-Non, Monsieur, je n'ai rien entendu, il n'y a encore personne, nous revenons de trop bonne heure, et quoique la nuit soit des plus obscures, elle ne l'est point assez à ma fantaisie.
-
--*who_dorante
-Que veux-tu ?
-Les moments me durent des siècles, absent d'Angélique, et je ne puis me rendre trop tôt dans un lieu où elle doit être, où je lui ai parlé de mon amour pour la première fois, et où j'espère la trouver sensible à ce que je souffre pour elle.
-
--*who_lolive
-Cela est bien tendre :mais, dites-moi un peu, Monsieur, si par aventure les belles consentent au voyage, cette affaire-ci me paraît d'une nature à mériter que la justice s'en mêle.
-
--*who_dorante
-Cela peut arriver, elle s'en mêlera, sans doute.
-
--*who_lolive
-Tant pis, je voudrais bien que cela se fît sans elle.
-
--*who_dorante
-Pourquoi ?
-
--*who_lolive
-Elle est tracassières, la Justice, elle fera des informations, des poursuites.
-
--*who_dorante
-Nous nous tirerons bien d'affaires, cela s'accommodera.
-
--*who_lolive
-Oui, cela s'accommodera pour vous ; mais je serai peut-être pendu par accommodement, moi : ce sera un des articles.
-Ce Monsieur Bernard m'en veut diablement.
-
--*who_dorante
-Je te réponds de tout, ne te mets pas en peine.
-Angélique ne vient pas encore !
-
--*who_lolive
-Elle ne viendra peut-être pas, Monsieur.
-Si c'était une baie qu'elle nous eût donnée ?
-
--*who_dorante
-Paix, paix, j'entends quelqu'un.
-
-**** *book_ *id_I18 *act_I *date_1695
-
--*who_angelique
-Nous revenons insensiblement au même endroit où vous nous avez trouvées.
-
--*who_dorante
-La voici, l'Olive.
-
--*who_monsieurbernard
 Cette allée sombre vous plaît apparemment mieux qu'une autre ?
 
--*who_dorante
-L'Olive ?
-
--*who_lolive
-Oui, c'est elle, vous avez raison ; mais elle est en compagnie ; retirons-nous, Monsieur, la place est prise.
-
--*who_monsieurbernard
 Mais, mignonne, n'êtes-vous point lasse de vous promener, et ne serions-nous pas mieux dans la maison ?
 
--*who_angelique
-Vous ne vous plaisez qu'à me contraindre.
+Hem ? Comment ? Quoi ? Que dites-vous ?
 
--*who_lisette
-Elle a raison : un peu de complaisance une fois en votre vie, y a-t-il du mal à se promener ?
-
--*who_lolive
-Je suis pris, Monsieur.
-
--*who_dorante
-Et moi aussi.
-
--*who_lisette
-Est-ce toi ?
-
--*who_lolive
-Moi-même.
-
--*who_lisette
-Paix.
-
--*who_angelique
-Ne faites point de bruit.
-
--*who_monsieurbernard
-Hem ?
-Comment ?
-Quoi ?
-Que dites-vous ?
-
--*who_angelique
-Je dis, Monsieur, que si vous voulez rentrer absolument, nous achèverons, Lisette et moi, notre caprice de promenade.
-
--*who_monsieurbernard
 Non, je ne suis point pressé, Mignonne, et je ne rentrerai qu'avec vous.
 
--*who_angelique
-Quelle peine !
-
--*who_lisette
-Va te coucher, Lucas, et emmène Monsieur.
-
--*who_lucas
-Oh non, tatigué, je ne m'irai coucher qu'avec toi.
-
--*who_lisette
-Avec moi !
-Parle donc hé, maroufle ?
-
--*who_monsieurbernard
 Mais, Mignonne, cette passion de vous promener ainsi toute la nuit me paraît bien nouvelle et bien extraordinaire, j'ai peine à croire qu'elle soit sans fondement, je vous l'avoue.
 
--*who_angelique
-Et moi, Monsieur, je vous avoue naturellement que vous voyez juste.
-Ce peintre que vous avez ici depuis quinze jours.
-
--*who_dorante
-Ah !
-Madame, vous me perdez.
-
--*who_monsieurbernard
 Hé bien, ce Peintre qu'a-t-il fait ?
 
--*who_angelique
-Il a eu aujourd'hui l'audace de me dire qu'il est amoureux de moi.
-
--*who_lucas
-Morgué, je vous l'avais bian dit, Monsieu, que le Jardinier et ly étions deux fripons.
-
--*who_angelique
-Je suis bien malheureuse, ma pauvre Lisette, d'être exposée…
-
--*who_lisette
-Hem, que vous êtes bonne, Madame !
-C'est par ordre de Monsieur que tout cela se fait, il veut nous éprouver ; et cela n'est ,ni beau, ni honnête de soupçonner de pauvres innocentes comme nous, et de faire sonder notre pudeur par un Peintre, et par un maraud de Jardinier.
-
--*who_lolive
-Hom, masque.
-
--*who_monsieurbernard
 Quoi, le peintre et je jardinier ?
 
--*who_angelique
-Ils ont eu la hardiesse de nous demander à Lisette et à moi un rendez-vous cette nuit.
-
--*who_monsieurbernard
 Un rendez-vous !
 
--*who_lisette
-Oui vraiment, un rendez-vous, et nous avons eu la faiblesse de leur accorder la chose, Monsieur.
-
--*who_monsieurbernard
 Vous leur avez donné le rendez-vous ?
 
--*who_angelique
-Oui, Monsieur.
-
--*who_monsieurbernard
 Comment oui ?
 
--*who_lisette
-Que voulez-vous ?
-Les filles sont curieuses ; on est bien aise de voir jusqu'où des coquins comme cela, pousseront las choses.
-Voici l'heure à peu près, Monsieur, si vous vouliez nous irions par curiosité encore.
-
--*who_monsieurbernard
 Qu'est-ce à dire par curiosité ?
 
--*who_lucas
-Tatigué que cette Lisette est curieuse !
-Je n'aime pas ça.
+Moi ? Je ne sais ce que c'est, je vous jure.
 
--*who_angelique
-Pour moi, Monsieur, je ne veux pas être la dupe de cette affaire, s'il vous plaît ; je démêlerai l'aventure, et vous me vengerez de ces Insolents.
-
--*who_lisette
-Mort de ma vie, il les faut faire expirer sous le bâton, Madame.
-
--*who_lolive
-Si tu ne me laisses aller, je crierai.
-
--*who_angelique
-Oh, je saurai bien me venger de vous, s'il est vrai, comme je le pense, que ce soit vous, qui par soupçon de ma conduite, me fassiez faire cette mauvaise plaisanterie.
-
--*who_monsieurbernard
-Moi ?
-Je ne sais ce que c'est, je vous jure.
-
--*who_lucas
-Ni moi non plus, la peste m'étouffe.
-
--*who_angelique
-Voulez-vous me le bien persuader ?
-
--*who_monsieurbernard
 Oh, de tout mon cœur.
 
--*who_angelique
-Le rendez-vous est au coin du parterre, sous ces marronniers d'Inde, il faut que vous y alliez à ma place.
-
--*who_monsieurbernard
 Oui, j'irai, je vous en réponds.
 
--*who_angelique
-Et nous irons tout de ce pas, Lisette et moi, nous cacher derrière la palissade pour entendre la conversation, et savoir ce que nous devons croire.
-
--*who_monsieurbernard
 Oh, je le veux bien, vous me rendez justice.
 
--*who_lisette
-Il faut donc que Lucas prenne aussi ma place, Madame ?
+Ne perdons point de temps. Allons, viens, Lucas.
 
--*who_lucas
-Volontiers : morgué que ce sera drôle !
-
--*who_monsieurbernard
-Ne perdons point de temps.
-Allons, viens, Lucas.
-
--*who_angelique
-Non, Monsieur, ce n'est point ainsi qu‘il faut y aller.
-
--*who_monsieurbernard
 Comment donc ?
 
--*who_angelique
-Il faut prendre des habits de femmes pour les mieux tromper.
+Qu'en avons-nous affaire ? On n'y voit goutte.
 
--*who_monsieurbernard
-Qu'en avons-nous affaire ?
-On n'y voit goutte.
-
--*who_lucas
-On n'y voit goutte, mais on tâte, Monsieu.
-Ça est bian pensé des habits de femmes !
-
--*who_monsieurbernard
 Hé bien soit, voyons la fin de tout cela.
 
--*who_angelique
-Vous trouverez un déshabillé pour vous, et une coiffure sur ma toilette.
-
--*who_lisette
-Et pour l'ajustement de Lucas, vous le prendrez dans ma garde-robe.
-
--*who_lucas
-Pargué, je n'avons pas besoin de tant de parure.
-
--*who_angelique
-Allez vite, et revenez de même.
-
--*who_lucas
-Ne vous boutez pas en peine, je serons bientôt fagotés.
-Morgué que j'allons rire.
-
-**** *book_ *id_I19 *act_I *date_1695
-
--*who_lisette
-Maintenant, Monsieur le Jardinier.
-
--*who_lolive
-La peste, que tu as la serre bonne !
-
--*who_angelique
-Je ne tiens pas mal aussi ce qui me tombe en partage ; et quelques efforts que vous ayez faits pour m'échapper…
-
--*who_dorante
-Je fais tout mon bonheur d'être auprès de vous : mais le commencement de notre conversation…
-
--*who_lolive
-Je me donne au diable, j'ai eu belle peur ; j'ai cru d'abord que vous étiez traîtresse, Madame.
-
--*who_angelique
-Cette conversation s'est terminée plus heureusement que vous ne pensiez.
-
--*who_dorante
-Elle vous a débarrassée de vos surveillants ; nous sommes seuls, charmante Angélique, quelles résolutions sont les vôtres ?
-
--*who_angelique
-Que vous alliez tout au plus vite au rendez-vous que l'on vient de vous procurer.
-
--*who_dorante
-Ah !
-De grâce, parlons sérieusement, je vous prie.
-
--*who_lisette
-On vous parle sérieusement aussi, il faut y aller.
-
--*who_lolive
-Pour moi, je ne demande pas mieux.
-
--*who_dorante
-Adorable Angélique, profitons d'une occasion si favorable : il s'agit de me désespérer, ou de vous déterminer à une fuite.
-
--*who_angelique
-Non, pour le parti de la fuite, nr vous attendez point que je le prenne.
-Ménageons votre fortune et ma réputation, une affaire d'éclat perdrait l'une et l'autre : écrivez à votre famille, j'attends des nouvelles de la mienne.
-
--*who_dorante
-Et que deviendrai-je en attendant, moi, Madame ?
-
--*who_angelique
-Vous me dites que vous m'aimez, vous aurez le temps de me le persuader.
-
--*who_dorante
-Après ce que vous avez dit à votre Tuteur, il ne faut pas que le jour me retrouve chez lui, ni dans le Village.
-
--*who_lisette
-Au contraire, allez au rendez-vous, vous dis-je, et trouvez les moyens de mériter sa confiance.
-
--*who_dorante
-Sa confiance, Madame !
-
--*who_lisette
-Oui, sa confiance.
-Vous avez de l'esprit et de l'amour, et vous ne comprenez pas ce qu'on vous conseille ?
-
--*who_lolive
-Il faut que j'aie plus d'esprit que mon maître assurément ; car je comprends la chose à merveille, moi.
-
--*who_dorante
-Mais expliquez-vous donc ?
-
--*who_lolive
-Je vous expliquerai tout, suivez-moi seulement.
-
--*who_dorante
-Je vous obéis aveuglément, Madame, quel prix recevrai-je de ma soumission ?
-
--*who_lisette
-Hé, mort de ma vie, dépêchez-vous, on vous dira cela quand vous serez revenu.
-
-**** *book_ *id_I20 *act_I *date_1695
-
--*who_angelique
-La plaisanterie devient peut-être un peu trop forte, Lisette, et Monsieur Bernard…
-
--*who_lisette
-Hé, allez, allez, Madame, C'est un bon homme qui le mérite bien.
-Comment, on ne saurait se défaire de ce petit importun-là ?
-
--*who_angelique
-L'imagination du rendez-vous m'est venue bien à propos pour nous en débarrasser.
-
--*who_lisette
-Avouez que je ne vous ai pas mal secondée : nous sommes vives nous autres dans l'occasion, nos soupirants en ont tremblé.
-
--*who_angelique
-Cette aventure produira des effets admirables, Lisette.
-
--*who_lisette
-Assurément.
-Le Tuteur convaincu de notre bonne foi, ne sera plus défiant, et nous serons un peu moins gênées.
-Par ma foi, voilà une jolie manière de guérir les soupçons d'un jaloux !
-
--*who_monsieurbernard_lucas
-Haie, haie, haie, à l'aide.
-
--*who_angelique
-J'entends du bruit, Lisette.
-
--*who_lisette
-Oui, Madame, on applique le remède, il faut lui donner le temps d'opérer : rentrons dans le logis.
-
--*who_monsieurbernard
 Au secours, au secours.
 
--*who_lucas
-À l'aide, à l'aide.
-
-**** *book_ *id_I21 *act_I *date_1695
-
--*who_dorante
-Vous prétendez en vain m'échapper : je veux vous mener moi-même à Monsieur Bernard, et le rendre témoin de votre trahison ; comment malheureuse, vous trompez un si honnête homme ?
-Ah perfide !
-
--*who_monsieurbernard
 Voilà un brave garçon, je ne l'aurais pas cru.
 
--*who_lucas
-Hé, je suis tout moulu de coups, miséricorde !
-
--*who_lolive
-Oh, tu as beau fuir, tu ne m'échapperas pas.
-Trahir un si bon maître que le tien, carogne de Lisette !
-
--*who_lucas
-Oh tatigué, tenez-vous donc.
-Si c'est Lisette à qui vous en voulez, je ne suis pas elle, je suis Lucas.
-
--*who_lolive
-Comment, Lucas ?
-
--*who_lucas
-Oui, palsangué, regardez-y plutôt ; voici tout à propos de la lumière.
-
-**** *book_ *id_I22 *act_I *date_1695
-
--*who_maturine
-Hé !
-Quel vacarme est-ce là ?
-À qui en avez-vous donc ?
-Quel bruit vous faites !
-
--*who_dorante
-Lucas en habit de femme, que veut dire ceci ?
-
--*who_lucas
-Ça veut dire que je croyons vous attraper, et que je sommes attrapés, nous.
-C'est notte Monsieu qui est la Damoiselle que vous avez si bian époustée.
-
--*who_dorante
-Quoi, Monsieur ?
-
--*who_monsieurbernard
 Oui, mon cher enfant, c'est moi-même.
 
--*who_dorante
-Je suis au désespoir, Monsieur, des coups de bâton…
+Ne me faites point d'excuses. Je suis ravi d'avoir ce témoignage de ton zèle et de ton affection.
 
--*who_monsieurbernard
-Ne me faites point d'excuses.
-Je suis ravi d'avoir ce témoignage de ton zèle et de ton affection.
+Ho ! Non, non, diable ! Hé bien, Lucas, te voilà avec tes soupçons, tu es détrompé maintenant, dis, n'est-il pas vrai ?
 
--*who_dorante
-Monsieur…
+Approchez. Où êtes-vous, Angélique ? Venez embrasser cet honnête garçon-là : voilà la perle des domestiques. Hé bien, étais-je d'intelligence avec eux ? Qu'en dites-vous ? Vous me rendez justice à l'heure qu'il est.
 
--*who_lolive
-Si vous voulez encore quelques preuves de la mienne, Monsieur, vous n'avez qu'à dire.
+Votre oncle ! Et que vient-il faire ici à l'heure qu'il est ?
 
--*who_monsieurbernard
-Ho !
-Non, non, diable !
-Hé bien, Lucas, te voilà avec tes soupçons, tu es détrompé maintenant, dis, n'est-il pas vrai ?
+Oui, Monsieur, c'est moi-même. Il faut vous dire…
 
--*who_lucas
-Détrompé, non, mais je sis battu.
-
--*who_monsieurbernard
-Approchez.
-Où êtes-vous, Angélique ?
-Venez embrasser cet honnête garçon-là : voilà la perle des domestiques.
-Hé bien, étais-je d'intelligence avec eux ?
-Qu'en dites-vous ?
-Vous me rendez justice à l'heure qu'il est.
-
--*who_angelique
-Oh, pour cela oui, Monsieur, je vous en réponds : et voici mon oncle le Chevalier qui vient d'arriver, qui vous la rendra bien davantage encore.
-
--*who_monsieurbernard
-Votre oncle !
-Et que vient-il faire ici à l'heure qu'il est ?
-
--*who_angelique
-Nous ne tarderons pas à l'apprendre.
-C'est quelque affaire pressée, apparemment.
-
--*who_dorante
-Le Chevalier me tient parole, tout va bien, l'Olive.
-
--*who_lucas
-Morgué, Monsieur, ne nous montrons pas comme ça, on se gausserait de nous.
-
-**** *book_ *id_I23 *act_I *date_1695
-
--*who_lisette
-Tenez, Monsieur, c'est Monsieur Bernard à qui vous en voulez, le voilà en déshabillé de campagne.
-
--*who_lechevalier
-Monsieur Bernard !
-
--*who_monsieurbernard
-Oui, Monsieur, c'est moi-même.
-Il faut vous dire…
-
--*who_lechevalier
-Dans un tel équipage !
-Donnez-vous le bal ici, Monsieur ?
-Ma nièce, y en a-t-il quelqu'un dans le Village ?
-
--*who_monsieurbernard
 Ce n'est point une mascarade, Monsieur je vais vous expliquer…
 
--*who_lisette
-Le pauvre homme a perdu l'esprit depuis quelque temps, il nous le faut veiller toutes les nuits.
-
--*who_monsieurbernard
 Comment, insolente ?
 
--*who_lolive
-Il ne courre encore que dans le jardin ; mais il courra bientôt les champs, si je ne me trompe.
-
--*who_lechevalier
-Ah !
-Te voilà, l'Olive.
-
--*who_lolive
-Vous voyez, Monsieur, chacun a sa folie dans cette maison-ci : la mienne est d'être Jardinier.
-
--*who_lechevalier
-Je sais l'aventure.
-
--*who_lisette
-Et voilà aussi un autre fou de votre connaissance, qui s'est mis dans la tête…
-
--*who_lechevalier
-Je connais sa folie ; je viens ici pour la guérir.
-Et quelle figure est-ce encore là.
-
--*who_lisette
-C'est le Fermier de Monsieur Bernard, qui a la même folie que son maître, ils ont tous deux la rage d'être femmes.
-
--*who_lucas
-Morgué, ça n'est pas vrai, je ne veux pas être femme, c'est une trop méchante engeance, et j'aimerais mieux être loup-garou.
-
--*who_monsieurbernard
 Ouais, tout ceci commence à me déplaire, qu'est-ce donc que cela signifie ?
 
--*who_lechevalier
-Vous êtes-là, ma nièce, en bien mauvaise compagnie.
-
--*who_angelique
-Je m'y déplais beaucoup, mon oncle, je vous l'avoue.
-
--*who_lechevalier
-Je le crois bien, ce sont les Petites-Maisons que cette maison-ci : il faut en sortir au plus vite.
-
--*who_monsieurbernard
 On se moque de moi, je pense.
 
--*who_angelique
-Pour le Peintres et le Jardinier, ce sont des espèces de fous assez agréables.
-Si vous voulez bien, mon oncle, nous les emmènerons avec nous.
-
--*who_lechevalier
-Volontiers, ma nièce.
-
--*who_lolive
-Nous divertirons ces Dames dans le voyage, Monsieur.
-
--*who_lechevalier
-J'ai là mon carrosse, allons ; venez.
-
--*who_monsieurbernard
 L'on prétend ainsi malgré moi…
 
--*who_lechevalier
-Doucement, s'il vous plaît, Monsieur Bernard, votre folie me paraît dangereuse, vous demeurerez tout seul : mais je vous ferai garder à vue, en attendant qu'on vous enferme, ou que votre bon sens vous revienne.
-
--*who_monsieurbernard
 Quoi, Angélique ?
 
--*who_angelique
-Adieu, Monsieur, je suis bien fâchée de votre accident, nous nous reverrons quand vous serez plus sage.
+Ma pauvre lisette ! Empêche que…
 
--*who_monsieurbernard
-Ma pauvre lisette !
-Empêche que…
+Quoi ! Tout le monde m'abandonne ?
 
--*who_lisette
-Jusqu'au revoir, Monsieur, quand sa folie le prendra recommandez qu'on ne le batte point, il vient d'en avoir assez, je vous assure.
-
--*who_monsieurbernard
-Quoi !
-Tout le monde m'abandonne ?
-
--*who_dorante
-Vous êtes persuadé de mon zèle et de ma fidélité, je vais suivre votre maîtresse ; et je vous promets de l'entretenir toute ma vie dans les bons sentiments qu'elle pour vous.
-
--*who_monsieurbernard
 Hom, je crève.
 
--*who_lolive
-Je laisse votre jardin en bon état.
-Souvenez-vous quelquefois de moi, je vous prie ; ne donnez jamais de coups de bâton à vos Jardiniers, ces marauds-là savent les rendre.
+Ah ! Mon pauvre Lucas, je perds Angélique, que deviendrai-je ?
 
--*who_monsieurbernard
-Ah !
-Mon pauvre Lucas, je perds Angélique, que deviendrai-je ?
 
--*who_lucas
-Bon, palsangué, que voulez-vous faire ?
-Ils ont biau dire, je sommes pas fous, je sommes les sots, et si j'avions épousé ces deux carognes-là, je l'aurions été bian davantage.
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+Monsieur Bernard !
+
+Dans un tel équipage ! Donnez-vous le bal ici, Monsieur ? Ma nièce, y en a-t-il quelqu'un dans le Village ?
+
+Ah ! Te voilà, l'Olive.
+
+Je sais l'aventure.
+
+Je connais sa folie ; je viens ici pour la guérir. Et quelle figure est-ce encore là.
+
+Vous êtes-là, ma nièce, en bien mauvaise compagnie.
+
+Je le crois bien, ce sont les Petites-Maisons que cette maison-ci : il faut en sortir au plus vite.
+
+Volontiers, ma nièce.
+
+J'ai là mon carrosse, allons ; venez.
+
+Doucement, s'il vous plaît, Monsieur Bernard, votre folie me paraît dangereuse, vous demeurerez tout seul : mais je vous ferai garder à vue, en attendant qu'on vous enferme, ou que votre bon sens vous revienne.
+
+
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
+Trouverai-je l'occasion de me déclarer ? Et quand je l'aurai trouvée, aurai-je assez de bonheur pour persuader Angélique ?
+
+Ah, te voilà, mon pauvre l'Olive !
+
+Hé, paix, paix, l'Olive. As-tu résolu de tout perdre.
+
+À toi ?
+
+Hé, paix, paix. Parlons bas.
+
+Il n'importe. Et pourquoi t'a-t-il maltraité ?
+
+Quoi ?
+
+Hé bien ?
+
+Mon rival ! Que me dis-tu là ?
+
+Ah ! Mon pauvre l'Olive, je tremble à lui découvrir qui je suis, ce que je sens pour elle ; et je crains qu'elle ne s'effarouche en apprenant le dessein que j'ai formé.
+
+Non, l'Olive, attendons pour me déclarer que le Chevalier d'Artimon son oncle, soit arrivé. Si j'en crois la lettre que son valet de chambre m'a rendue hier soir, il ne doit point tarder.
+
+Mais enfin ?
+
+Ne lui donne pas trop à connaître…
+
+Je tremble, l'Olive.
+
+J'oserai tout, belle Angélique, si vous souffrez que je vous aime, et si vous me permettez d'espérer.
+
+Je ne vous adore, il est vrai, que depuis deux mois, parce qu'il n'y a que deux mois que j'eus le bonheur de vous voir pour la première fois de ma vie. J'ai fait parler à votre Tuteur ma mère elle-même.
+
+Oui, c'est moi, charmante Angélique, qui brûle d'unir ma destinée à la vôtre.
+
+Je ne demande point, adorable Angélique, que pour vous délivrer des persécutions d'un Tuteur bizarre, vous vous jetiez aveuglément entre mes bras, moins par tendresse, peut-être, que par désespoir ; c'est l'amour qui me fait faire le personnage que je fais ici. Mais l'aveu de votre famille l'autorisera, sans doute. Votre oncle le Chevalier…
+
+Un mot, avant que je vous quitte.
+
+Que je vais attendre ce moment avec impatience !
+
+L'Olive ?
+
+N'as-tu point entendu marcher ? Ce sont elles, sans doute.
+
+Que veux-tu ? Les moments me durent des siècles, absent d'Angélique, et je ne puis me rendre trop tôt dans un lieu où elle doit être, où je lui ai parlé de mon amour pour la première fois, et où j'espère la trouver sensible à ce que je souffre pour elle.
+
+Cela peut arriver, elle s'en mêlera, sans doute.
+
+Pourquoi ?
+
+Nous nous tirerons bien d'affaires, cela s'accommodera.
+
+Je te réponds de tout, ne te mets pas en peine. Angélique ne vient pas encore !
+
+Paix, paix, j'entends quelqu'un.
+
+La voici, l'Olive.
+
+L'Olive ?
+
+Et moi aussi.
+
+Ah ! Madame, vous me perdez.
+
+Je fais tout mon bonheur d'être auprès de vous : mais le commencement de notre conversation…
+
+Elle vous a débarrassée de vos surveillants ; nous sommes seuls, charmante Angélique, quelles résolutions sont les vôtres ?
+
+Ah ! De grâce, parlons sérieusement, je vous prie.
+
+Adorable Angélique, profitons d'une occasion si favorable : il s'agit de me désespérer, ou de vous déterminer à une fuite.
+
+Et que deviendrai-je en attendant, moi, Madame ?
+
+Après ce que vous avez dit à votre Tuteur, il ne faut pas que le jour me retrouve chez lui, ni dans le Village.
+
+Sa confiance, Madame !
+
+Mais expliquez-vous donc ?
+
+Je vous obéis aveuglément, Madame, quel prix recevrai-je de ma soumission ?
+
+Vous prétendez en vain m'échapper : je veux vous mener moi-même à Monsieur Bernard, et le rendre témoin de votre trahison ; comment malheureuse, vous trompez un si honnête homme ? Ah perfide !
+
+Lucas en habit de femme, que veut dire ceci ?
+
+Quoi, Monsieur ?
+
+Je suis au désespoir, Monsieur, des coups de bâton…
+
+Monsieur…
+
+Le Chevalier me tient parole, tout va bien, l'Olive.
+
+Vous êtes persuadé de mon zèle et de ma fidélité, je vais suivre votre maîtresse ; et je vous promets de l'entretenir toute ma vie dans les bons sentiments qu'elle pour vous.
+
+
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
+Avez-vous quelque ordre à me donner, Monsieur ? Me voilà prêt à vous obéir.
+
+Je viens d'ici près, Monsieur.
+
+Monsieur.
+
+Monsieur.
+
+Ah, Monsieur ! Demandez, je n'y ai pas mis les pieds depuis que j'ai l'honneur d'être à votre service.
+
+Oh pour cela oui, Monsieur, je vous l'avoue, ce sont de mes amis, des gens de qualité.
+
+Oui, Monsieur, ils auront l'honneur de vous venir faire la révérence, pour voir vos parterres, vos potagers, vos espaliers, vos palissades ; ce sont des illustres, des Jardiniers de la Cour qui voyagent par curiosité.
+
+Parbleu je ne sais pas ; mais, je l'enverrais au diable avec ses caprices.
+
+Maugrebleu de ses défauts. Mais baste, j'ai aussi des défauts à peu près pareils ; et si les siens le reprennent encore, les miens me prendront à coup sûr, et nos défauts auront querelle ensemble.
+
+Lui amoureux ? Et de qui amoureux ?
+
+Et depuis quand ?
+
+Hé bien ?
+
+Non, non, ne craignez rien.
+
+Non ?
+
+Je ne trouve point cela plaisant, moi, et je n'ai que faire…
+
+Comment donc ?
+
+Hé bien ?
+
+Voilà un maroufle qui se moque de moi. La mine est éventée ; quel parti prendre ? Il n'y a point à balancer.
+
+Ma foi, Monsieur, il faut vous dépêcher de le faire si vous voulez y réussir.
+
+N'êtes-vous point las de ce déguisement, Monsieur ? N'est-il pas temps que vous cessiez d'être Peintre, et que vous redeveniez ce que vous êtes ?
+
+Hé, morbleu, tout est déjà perdu. Monsieur Bernard vient de me donner cent coups de bâtons, afin que vous le sachiez.
+
+À moi-même.
+
+On ne nous écoute point.
+
+Il faut qu'il soupçonne quelque chose, ou que ce soit par manière de conversation. Son gros coquin de Fermier dit que c'est sa coutume ; pour se désennuyer, il rosse tantôt l'un, tantôt l'autre : votre tour viendra peut être, c'est ce qui me console. Mais, Monsieur, j'ai bien autre chose à vous apprendre.
+
+Vous ne regardez ce Monsieur Bernard que comme le Tuteur d'Angélique ?
+
+Il est votre rival, je vous en avertis.
+
+Ne vous alarmez point, Angélique le hait en perfection ; et la crainte qu'elle a d'être à lui, la déterminera plus facilement à se donner à vous.
+
+Qu'elle ne s'effarouche ! La crainte est bonne. Hé, allez, allez, Monsieur, les filles d'aujourd'hui sont des animaux bien apprivoisés ; elles ne s'effarouchent point qu'on les aime, et nous vivons dans un siècle fort aguerri.
+
+Il ne doit point tarder ? Mais il tardera peut-être ; croyez-moi, Monsieur, il y a quatre ou cinq de mes camarades dans le Village qui n'attendent que vos ordres pour entrer en action. Vous attendez, vous le consentement de votre Maîtresse, il faut le demander pour l'obtenir.
+
+Mais enfin, il faut venir au fait, et tout au plus vite, nous n'avons point de temps à perdre. Nous travaillons ici depuis quinze jours l'un et l'autre, moi à gâter le jardin de Monsieur Bernard, et vous à défigurer ses plafonds et ses cheminées ; car vous êtes un très mauvais Peintre, et je ne suis pas un bon jardinier, moi, sans contredit. La fourberie sera découverte avant terme, si nous ne nous hâtons d'en profiter. Voici la suivante, laissez-moi un peu causer avec elle, j'irai dans un moment vous rendre compte de la conversation.
+
+Laissez-moi faire, je ne gâterai rien.
+
+Je suis votre très humble serviteur, Mademoiselle Lisette.
+
+Vous me semblez avoir l'esprit occupé de quelque affaire importante, Mademoiselle Lisette ?
+
+J'ai aussi la tête embarrassée de quelques petites bagatelles.
+
+Refuseriez-vous de m'apprendre la cause de votre mouvement ?
+
+Cela est heureux, c'est aussi lui à qui j'en veux justement.
+
+Il m'a donné quelques coups de bâton, dont j'espère que je mourrai quitte.
+
+Oui, Mademoiselle, je ne suis pas glorieux, comme vous voyez.
+
+Oh, pour cela oui, comme tous les diables. Et s'il ne tient, pour vous le persuader, qu'à faire pièce à Monsieur Bernard, vous n'avez qu'à parler, je suis votre homme.
+
+Pour gage de ma discrétion, je vous en confierai un autre.
+
+Je rends service à un honnête homme qui n'est pas ingrat de ce qu'on fait pour lui.
+
+Comment ?
+
+Ma physionomie vous plaît-elle ?
+
+Vous devinez la moitié des choses.
+
+Vous savez tout mon secret, dites-moi le vôtre.
+
+Oh que si fait. La petite personne pour qui vous vous intéressez, est Angélique ?
+
+Elle est amoureuse de quelqu'un ?
+
+C'est une grande disposition pour en aimer un autre.
+
+Voilà d'heureuses conjonctures ; et si vous voulez lui faire entendre que le Peintre est mon maître, homme de condition, amoureux d'elle à la folie.
+
+Je crois que nous n'aurions pas de peine à faire ce mariage-là, qu'en dis-tu ?
+
+N'est-il pas vrai ? Et le nôtre ne sera pas malaisé à conclure, je pense.
+
+Touche donc là, sans façon, ma chère. Ce sont de bonnes filles que ces Lisettes, je n'en ai jamais trouvé qui n'aient dit , oui.
+
+J'y cours, et je te le livre tout à l'heure. Ah ! Qu'on est heureux en amour de trouver des filles si expéditives.
+
+Hé, allons donc, Monsieur, ferme, courage.
+
+Ira-t-il ?
+
+Ah ! Le voilà en mouvement, Dieu merci.
+
+Je me donne au diable. Madame sa mère est aussi folle de vous que le fils, c'est beaucoup.
+
+Sauvons-nous, Monsieur.
+
+Nous voyagerons, Monsieur, apparemment, et la partie sera quarrée ; elles sont à nous, sur ma parole.
+
+Monsieur.
+
+Non, Monsieur, je n'ai rien entendu, il n'y a encore personne, nous revenons de trop bonne heure, et quoique la nuit soit des plus obscures, elle ne l'est point assez à ma fantaisie.
+
+Cela est bien tendre :mais, dites-moi un peu, Monsieur, si par aventure les belles consentent au voyage, cette affaire-ci me paraît d'une nature à mériter que la justice s'en mêle.
+
+Tant pis, je voudrais bien que cela se fît sans elle.
+
+Elle est tracassières, la Justice, elle fera des informations, des poursuites.
+
+Oui, cela s'accommodera pour vous ; mais je serai peut-être pendu par accommodement, moi : ce sera un des articles. Ce Monsieur Bernard m'en veut diablement.
+
+Elle ne viendra peut-être pas, Monsieur. Si c'était une baie qu'elle nous eût donnée ?
+
+Oui, c'est elle, vous avez raison ; mais elle est en compagnie ; retirons-nous, Monsieur, la place est prise.
+
+Je suis pris, Monsieur.
+
+Moi-même.
+
+Hom, masque.
+
+Si tu ne me laisses aller, je crierai.
+
+La peste, que tu as la serre bonne !
+
+Je me donne au diable, j'ai eu belle peur ; j'ai cru d'abord que vous étiez traîtresse, Madame.
+
+Pour moi, je ne demande pas mieux.
+
+Il faut que j'aie plus d'esprit que mon maître assurément ; car je comprends la chose à merveille, moi.
+
+Je vous expliquerai tout, suivez-moi seulement.
+
+Oh, tu as beau fuir, tu ne m'échapperas pas. Trahir un si bon maître que le tien, carogne de Lisette !
+
+Comment, Lucas ?
+
+Si vous voulez encore quelques preuves de la mienne, Monsieur, vous n'avez qu'à dire.
+
+Il ne courre encore que dans le jardin ; mais il courra bientôt les champs, si je ne me trompe.
+
+Vous voyez, Monsieur, chacun a sa folie dans cette maison-ci : la mienne est d'être Jardinier.
+
+Nous divertirons ces Dames dans le voyage, Monsieur.
+
+Je laisse votre jardin en bon état. Souvenez-vous quelquefois de moi, je vous prie ; ne donnez jamais de coups de bâton à vos Jardiniers, ces marauds-là savent les rendre.
+
+
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
+As-tu quelque chose à m'apprendre qui puisse me faire plaisir ?
+
+De mon oncle le Chevalier ? Oui, Lisette.
+
+Sans doute, cette lettre est de lui, donne. À qui s'adresse-t-elle ? Où l'as-tu trouvée ? Qui te l'a rendue ?
+
+Non, Lisette ; je suis née malheureuse, et je ne sache rien au monde qui puisse changer ma destinée.
+
+Que veux-tu dire ?
+
+Que tu es extravagante, Lisette, avec tes idées !
+
+Ah ! Ma chère Lisette.
+
+Hé ! Que me servirait-il qu'on m'aimât, et même de faire un choix ? Les injustes caprices de mon Tuteur, qui refuse tous les partis qui se présentent, ne me permettent pas de me déterminer en faveur de quelqu'un.
+
+Ah ! Que me conseilles-tu ? Les mauvaises manières qu'il a pour moi ne me feront jamais sortir des égards que je me dois à moi-même ; et quelque passion que je puisse avoir, elle sera toujours soumise à la raison et à la bienséance.
+
+C'était des partis fort convenables, Lisette.
+
+Tu as raison. Hé, qu'ai-je affaire aussi que mon mari soit savant, Lisette ?
+
+Oh, cet homme-là ne me revenait point du tout, je te l'avoue.
+
+Tu me fais entrevoir des choses…
+
+Je n'ai jamais vu ce Marquis, j'en ai ouï dire mille biens.
+
+Je ne saurais pardonner à mon Tuteur d'avoir rebuter celui-là, je te l'avoue.
+
+Comment donc, qu'on excelle comme lui ? Que veux-tu dire ?
+
+En quoi admirable ?
+
+Si je croyais qu'il eût cette pensée, il n'y a rien au monde que je ne fusse capable de faire plutôt que d'être exposée…
+
+Comment ?
+
+Tes conjectures n'étaient pas justes, ma pauvre Lisette.
+
+Explique-toi donc ? Quel homme est-ce ?
+
+Est-ce quelque personne de qualité ?
+
+Hé ! Ne nous tiens pas davantage dans l'incertitude.
+
+Souhaitez-vous quelque chose de moi ?
+
+Me voilà prête à vous écouter.
+
+On m'a déjà demandée tant de fois inutilement, que cette nouvelle n'est pour moi, ni surprenante, ni agréable.
+
+Je vous en suis bien redevable.
+
+Moi, Monsieur ?
+
+Tu perds l'esprit, Lisette.
+
+Hé ! Quels desseins, Monsieur ?
+
+Nous enlever !
+
+Comment, Monsieur ?
+
+Vous avez fait dessein, dites-vous ?
+
+Je me trouve mal, Monsieur. Viens auprès de moi, Lisette.
+
+Pourquoi me laisses-tu seule, Lisette ? Dans l'accablement où je suis, tu m'abandonnes à mes chagrins, et depuis que tu es sortie de ma chambre, j'ai fait les plus cruelles réflexions.
+
+Tu causais avec le Jardinier ; que te disait-il ?
+
+Comment ?
+
+En as-tu quelque certitude ?
+
+Que me dis-tu ?
+
+Un de mes amants ! Il y a quinze jours qu'il est ici, il ne m'a point encore parlé. Qu'il est indolent, ou timide ! Et dans l'extrémité où je me trouve, que j'ai peu de secours à attendre d'une tendresse comme la sienne ?
+
+Ah, Lisette, que sa présence me cause de trouble, je n'ai jamais senti ce que je sens.
+
+Qu'osera-t-il donc entreprendre, pour me prouver l'amour que tu me dis qu'il a pour moi ?
+
+Si vous êtes le Marquis, Monsieur, j'ai reçu tant de témoignage de tendresse de Madame votre mère, quand elle vint ici…
+
+Ah, Lisette !
+
+Que voulez-vous que je vous dise ?
+
+Mon cœur est agité, je te l'avoue, et mon esprit embarrassé.
+
+Mais comment la finir sans consentir à un enlèvement ?
+
+Mais la médisance…
+
+Quel éclat ferait mon Tuteur !
+
+Crois-tu qu'il nous ait écoutées ?
+
+La nuit devient noire, ils vont venir : comment ferons-nous ?
+
+Doucement, Lucas.
+
+Oui, Monsieur, c'est moi qui me promène avec Lisette.
+
+L'air me fait du bien, au contraire ; et je continuerai, s'il vous plaît, de me promener avec Lisette.
+
+Lisette ?
+
+Nous revenons insensiblement au même endroit où vous nous avez trouvées.
+
+Vous ne vous plaisez qu'à me contraindre.
+
+Ne faites point de bruit.
+
+Je dis, Monsieur, que si vous voulez rentrer absolument, nous achèverons, Lisette et moi, notre caprice de promenade.
+
+Quelle peine !
+
+Et moi, Monsieur, je vous avoue naturellement que vous voyez juste. Ce peintre que vous avez ici depuis quinze jours.
+
+Il a eu aujourd'hui l'audace de me dire qu'il est amoureux de moi.
+
+Je suis bien malheureuse, ma pauvre Lisette, d'être exposée…
+
+Ils ont eu la hardiesse de nous demander à Lisette et à moi un rendez-vous cette nuit.
+
+Oui, Monsieur.
+
+Pour moi, Monsieur, je ne veux pas être la dupe de cette affaire, s'il vous plaît ; je démêlerai l'aventure, et vous me vengerez de ces Insolents.
+
+Oh, je saurai bien me venger de vous, s'il est vrai, comme je le pense, que ce soit vous, qui par soupçon de ma conduite, me fassiez faire cette mauvaise plaisanterie.
+
+Voulez-vous me le bien persuader ?
+
+Le rendez-vous est au coin du parterre, sous ces marronniers d'Inde, il faut que vous y alliez à ma place.
+
+Et nous irons tout de ce pas, Lisette et moi, nous cacher derrière la palissade pour entendre la conversation, et savoir ce que nous devons croire.
+
+Non, Monsieur, ce n'est point ainsi qu‘il faut y aller.
+
+Il faut prendre des habits de femmes pour les mieux tromper.
+
+Vous trouverez un déshabillé pour vous, et une coiffure sur ma toilette.
+
+Allez vite, et revenez de même.
+
+Je ne tiens pas mal aussi ce qui me tombe en partage ; et quelques efforts que vous ayez faits pour m'échapper…
+
+Cette conversation s'est terminée plus heureusement que vous ne pensiez.
+
+Que vous alliez tout au plus vite au rendez-vous que l'on vient de vous procurer.
+
+Non, pour le parti de la fuite, nr vous attendez point que je le prenne. Ménageons votre fortune et ma réputation, une affaire d'éclat perdrait l'une et l'autre : écrivez à votre famille, j'attends des nouvelles de la mienne.
+
+Vous me dites que vous m'aimez, vous aurez le temps de me le persuader.
+
+La plaisanterie devient peut-être un peu trop forte, Lisette, et Monsieur Bernard…
+
+L'imagination du rendez-vous m'est venue bien à propos pour nous en débarrasser.
+
+Cette aventure produira des effets admirables, Lisette.
+
+J'entends du bruit, Lisette.
+
+Oh, pour cela oui, Monsieur, je vous en réponds : et voici mon oncle le Chevalier qui vient d'arriver, qui vous la rendra bien davantage encore.
+
+Nous ne tarderons pas à l'apprendre. C'est quelque affaire pressée, apparemment.
+
+Je m'y déplais beaucoup, mon oncle, je vous l'avoue.
+
+Pour le Peintres et le Jardinier, ce sont des espèces de fous assez agréables. Si vous voulez bien, mon oncle, nous les emmènerons avec nous.
+
+Adieu, Monsieur, je suis bien fâchée de votre accident, nous nous reverrons quand vous serez plus sage.
+
+
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Que fais-tu là, Lucas ?
+
+Mais, tu parlais tout seul, je pense ?
+
+Je le crois bien, tu as la physionomie d'avoir de l'esprit.
+
+Tu as raison, cela est chagrinant ; mais cela n'est pas trop nécessaire pour faire fortune.
+
+Comment donc, Lucas ?
+
+C'est une chose sûre ; mais afin que les choses se fassent de bonne grâce, et que je le veuille bien aussi, c'est pour cela que tu veux faire fortune ?
+
+Tu as raison.
+
+Qu'est-ce que c'est ?
+
+Est-ce quelque diamant ?
+
+Une bourse pleine d'or ?
+
+Quoi donc ?
+
+Quel papier ?
+
+Madame votre mère m'est venue trouver : vous avez fort bien fait de lui mander naturellement où vous êtes, le sujet qui vous y retient, et les moyens qu'il y a de vous rendre service. Je suivrai de près le valet de chambre qui vous porte ma lettre : tâchez de plaire, puisque vous l'avez entrepris, et comptez qu'on n'épargnera rien pour vous rendre heureux. Le Chevalier d'Artimon. D'Artimon ! C'est l'oncle d'Angélique.
+
+Où as-tu trouvé ce papier ?
+
+Où vas-tu si vite ?
+
+Une lettre du Chevalier d'artimon, qui ne s'adresse point à sa nièce ! Quelle autre correspondance peut-il avoir en ce pays-ci ? Ah ! Vous voilà le plus à propos du monde.
+
+Cela se pourrait bien, connaissez-vous l'écriture de votre oncle ?
+
+En est-ce là ? Voyez.
+
+Elle ne s'adresse à personne. C'est par hasard qu'elle est entre mes mains ; je ne sais ce qu'elle signifie, mais le cœur me dit quelque chose de bon, et je me flatte que nous allons voir de la nouveauté dans nos affaires.
+
+Mais dans le fonds, qu'est-ce qui vous manque ? Ce ne sont pas les soupirants, Dieu merci. Vous n'en avez que trop, peut-être, et je ne sais pas même s'il n'y en a point ici quelqu'un incognito, qui attend une occasion favorable pour se déclarer. Ce Peintre, et ce Jardinier qui sont ici depuis quinze jours ?
+
+Ces gens-là ne sont rien moins que ce qu'ils paraissent ; je m'y connais, ce sont des amoureux en masque, sur ma parole.
+
+Donnez-vous patience, nous aurons tout le temps d'éclaircir mes doutes, et selon toutes les apparences nous ne retournerons pas sitôt à Paris. Ce bizarre Monsieur Bernard, que votre père en mourant s'avisa pour nos péchés de nommer votre Tuteur en dépit de toute la famille, a ses raisons pour demeurer ici, et sous prétexte d'embellir sa maison de campagne, de faire peindre ses appartements, il vous cache aux yeux de tout le monde, et nous tient reléguées depuis six mois dans le fond d'un Village, où il y a plus de cinq mois et trois semaines que je m'ennuie.
+
+J'entends. Vous vous ennuyez aussi, et de plus d'une manière, même. L'état de fille vous déplaît autant que le Village, et franchement vous avez raison ; c'est une chose ennuyeuse. Mais enfin ce qui se trouve à Paris, se trouve en province, il y a des épouseurs par tout pays ; et si par hasard le Peintre était ce que je m'imagine je répondrais bien, moi, de faire passer vos chagrins avant qu'il fût peu.
+
+Hé, mort de ma vie, votre Tuteur ne fait que ce qu'il veut : ne savez-vous pas ce qu'il vous faut ? Il ne vous le donne point, c'est à vous de le prendre.
+
+Et avec ces beaux sentiments-là, vous mourrez vieille fille, cela est cruel : Monsieur Bernard, pour ne point rendre compte de votre bien, écartera tous les prétendants ; car enfin il n'a point eu jusqu'ici de bonnes raisons pour rebuter ceux qui vous ont demandée.
+
+Oui : mais cependant pourquoi a-t-il refusé ce jeune Conseiller ? Parce qu'il est ignorant, dit-il : la grande merveille ! Hé, mort de ma vie, si pour être de robe il fallait absolument être habile homme, la plupart des Charges seraient à vendre.
+
+Bon, c'est quelque chose de bien nécessaire pour le mariage que de la science : et voilà ce gros Colonel qui vous aimait tant, par exemple, on dit qu'il sait du latin, celui-là, du grec ; que sais-je, moi. Il a tous les livres du monde dans la cervelle.
+
+Ni à moi non plus, et cependant je vous aurais toujours conseillé de le prendre en attendant mieux ; mais le mauvais Tuteur l'a-t-il voulu. Il dit que c'est un homme qui ne s'attache qu'à l'étude, et qui ne songe point à son Régiment : le Conseiller en sait trop peu pour un Magistrat, et le Colonel en sait trop pour un homme d'épée. Ne voilà-t-il pas de bonnes chiennes de raisons ?
+
+Je vous fais entrevoir juste. Et comment a-t-il reçu la demande que lui fit, il y a quelque temps, la mère de ce jeune Marquis, dont les terres sont si proches d'ici ?
+
+Je ne le connais pas non plus que vous, et cependant je m'intéressais pour lui, parce que Madame sa mère est si bonne personne, outre qu'il est presque toujours à la Cour ; et l'air de ce pays-là nous conviendrait assez, à ce qu'il me semble.
+
+Il prétend encore avoir eu raison ; ce Marquis, dit-il, est trop honnête homme. Il est franc, généreux, bon ami, sincère. C'est un Courtisan qui ne sait pas son métier, Monsieur Bernard veut que tout le monde excelle comme lui, dans ce qu'il se mêle de faire.
+
+Quoi ! Vous ne voyez pas comme moi que sa conduite est admirable ?
+
+En ce qu'il ne vous marie point. Vous êtes jeune, belle et riche, il est votre Tuteur, il vous refuse à tout le monde, il vous garde pour lui, peut-être. N'est-ce pas faire le métier de Tuteur à merveille ?
+
+Paix, taisez-vous ; voici son espion, il ne faut rien dire devant ce maraud-là.
+
+Elle sera mariée ! Qui te l'a dit ?
+
+Quelque jeune homme, peut-être ?
+
+Ne serait-ce point queuque financier.
+
+Hé, de par tous les diantres, achève donc de la dire ta bonne nouvelle. Est-ce un parti avantageux enfin ?
+
+Oh, cette fois-ci ne sera pas comme les autres, et de la manière dont Monsieur parle, je vois bien qu'il a de bonnes intentions.
+
+Cela est vrai.
+
+Et vous avez très bien réussi.
+
+Vous avez raison, il faut un bon mari pour couronner l'œuvre.
+
+Oh, pour cela oui, je vous l'avoue, nous en murmurions tout à l'heure encore.
+
+Vous rougissez : voilà une pudeur bien placée ! Hé, allez, allez, en fait de mariage les honnêtes filles ont toujours plus d'impatience que les autres.
+
+Ses intérêts sont bien entre vos mains.
+
+Au remède, Monsieur, vite, au remède, on ne peut trop se hâter de mettre l'honneur des filles à couvert des mauvaises intentions des hommes.
+
+Vous êtes un homme de bon esprit.
+
+Mes conjectures n'étaient pas fausses.
+
+Oh, si c'est pour cela, qu'il nous laisse enlever, cela vaut beaucoup mieux.
+
+Madame, Madame, holà donc, Madame.
+
+Il ne faut pas que cela vous étonne, Monsieur, elle est si fort outrée des mauvais desseins que l'on fait contre elle, que le moins qu'elle puisse faire, c'est de s'évanouir ; je crois que j'en mourrais, moi, si j'étais à sa place.
+
+Hom, quel ordre, quel ordre ! Nous y mettrons un contrordre, nous autres.
+
+Il faut absolument que je démêle ce que je soupçonne. Monsieur Bernard, Monsieur Bernard, votre extravagante passion nous fera faire quelque extravagance.
+
+Je suis votre servante, Monsieur le Jardinier.
+
+Oui, j'ai quelque chose en mouvement dans la cervelle, je vous l'avoue.
+
+Ne pourrait-on point savoir le sujet de votre embarras ?
+
+C'est notre Monsieur Bernard qui me chagrine.
+
+Il forme de petits projets que je renverserai s'il m'est possible.
+
+Il vous a donné des coups de bâton, Monsieur !
+
+Vous n'êtes pas glorieux : mais vous êtes vindicatif, peut-être ?
+
+Si l'on pouvait vous confier un secret ?
+
+Je m'intéresse pour une petite personne qui mérite bien que l'on fasse quelque chose pour elle.
+
+Ah, je vous entends.
+
+Regardez-moi un peu en face.
+
+Vous n'êtes pas Jardinier, Monsieur le Jardinier.
+
+Et le Peintre n'est pas Peintre, sur ma parole.
+
+N'avez-vous pas l'esprit de le deviner ?
+
+Justement.
+
+Non pas encore : mais elle hait Monsieur Bernard.
+
+Ce Monsieur Bernard veut l'épouser malgré qu'elle en ait.
+
+Hé bien ?
+
+Il s'en fait de plus difficiles.
+
+Oh, que non, quand les parties sont une fois d'accord, les affaires sont bientôt terminées.
+
+Voici Angélique, va chercher ton maître, et l'amène ici ; il ne faut point que les choses languissent.
+
+Et je viens de faire, moi, la rencontre la plus heureuse.
+
+Vivat, Madame, la fortune et l'amour sont pour la jeunesse, et le Tuteur est pris pour dupe.
+
+Je m'en étais toujours bien doutée, que le Peintre était un faux Peintre.
+
+C'est un de vos amants, qui s'est déguisé pour s'introduire auprès de vous.
+
+Je vous dis vrai.
+
+Oui, vous aimez la vivacité dans un amant, vous avez le goût bon ; et le Peintre en aura, ne vous mettez point en peine. Le voici.
+
+Ce sont les effets de la sympathie. Allons, mort de ma vie, il ne faut pas être rebelle à la destinée.
+
+Il n'ose vous aborder.
+
+Madame, c'est le Marquis dont nous parlions encore aujourd'hui. Oh, par ma foi, Monsieur Bernard, nous nous marierons ; mais vous ne signerez point au Contrat.
+
+Ah ! Madame, par reconnaissance pour l'une, vous ne pouvez vous dispenser d'aimer l'autre.
+
+Hé vite, hé vite, éloignez-vous, j'entends tousser de loin ce gros coquin de Lucas ; il vient de ce côté-ci, peut-être : il ne faut pas qu'il nous trouve ensemble.
+
+Hé retirez-vous, la nuit s'avance à grand pas : quand elle sera tout à fait obscure, revenez ici dans le même endroit, vous nous y trouverez l'une et l'autre.
+
+Hé bien, que dites-vous de tout ceci ? Votre cœur est plus agité que le mien, je gage.
+
+Il faut pourtant se hâter de prendre parti ; et voici une aventure qu'il faut brusquer, si vous voulez la conduire à bonne fin.
+
+Ce ne sera pas un enlèvement, le Ciel nous en préserve. Il faudra faire la chose par manière de promenade.
+
+Bon, bon, c'est une bonne carogne que la médisance ; elle est elle-même si fort décriée, que personne ne s'embarrasse de ce qu'elle peut dire.
+
+Le voilà, Madame, nous sommes perdues.
+
+Nous avons bien fait de les renvoyer.
+
+Il faut les éviter, sauvons-nous.
+
+Pour dissiper un grand mal de tête qui lui est resté de son évanouissement de tantôt, je lui ai conseillé de faire un tour de promenade.
+
+On trouvera moyen de s'en débarrasser.
+
+Elle a raison : un peu de complaisance une fois en votre vie, y a-t-il du mal à se promener ?
+
+Est-ce toi ?
+
+Paix.
+
+Va te coucher, Lucas, et emmène Monsieur.
+
+Avec moi ! Parle donc hé, maroufle ?
+
+Hem, que vous êtes bonne, Madame ! C'est par ordre de Monsieur que tout cela se fait, il veut nous éprouver ; et cela n'est ,ni beau, ni honnête de soupçonner de pauvres innocentes comme nous, et de faire sonder notre pudeur par un Peintre, et par un maraud de Jardinier.
+
+Oui vraiment, un rendez-vous, et nous avons eu la faiblesse de leur accorder la chose, Monsieur.
+
+Que voulez-vous ? Les filles sont curieuses ; on est bien aise de voir jusqu'où des coquins comme cela, pousseront las choses. Voici l'heure à peu près, Monsieur, si vous vouliez nous irions par curiosité encore.
+
+Mort de ma vie, il les faut faire expirer sous le bâton, Madame.
+
+Il faut donc que Lucas prenne aussi ma place, Madame ?
+
+Et pour l'ajustement de Lucas, vous le prendrez dans ma garde-robe.
+
+Maintenant, Monsieur le Jardinier.
+
+On vous parle sérieusement aussi, il faut y aller.
+
+Au contraire, allez au rendez-vous, vous dis-je, et trouvez les moyens de mériter sa confiance.
+
+Oui, sa confiance. Vous avez de l'esprit et de l'amour, et vous ne comprenez pas ce qu'on vous conseille ?
+
+Hé, mort de ma vie, dépêchez-vous, on vous dira cela quand vous serez revenu.
+
+Hé, allez, allez, Madame, C'est un bon homme qui le mérite bien. Comment, on ne saurait se défaire de ce petit importun-là ?
+
+Avouez que je ne vous ai pas mal secondée : nous sommes vives nous autres dans l'occasion, nos soupirants en ont tremblé.
+
+Assurément. Le Tuteur convaincu de notre bonne foi, ne sera plus défiant, et nous serons un peu moins gênées. Par ma foi, voilà une jolie manière de guérir les soupçons d'un jaloux !
+
+Oui, Madame, on applique le remède, il faut lui donner le temps d'opérer : rentrons dans le logis.
+
+Tenez, Monsieur, c'est Monsieur Bernard à qui vous en voulez, le voilà en déshabillé de campagne.
+
+Le pauvre homme a perdu l'esprit depuis quelque temps, il nous le faut veiller toutes les nuits.
+
+Et voilà aussi un autre fou de votre connaissance, qui s'est mis dans la tête…
+
+C'est le Fermier de Monsieur Bernard, qui a la même folie que son maître, ils ont tous deux la rage d'être femmes.
+
+Jusqu'au revoir, Monsieur, quand sa folie le prendra recommandez qu'on ne le batte point, il vient d'en avoir assez, je vous assure.
+
+
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
+Tatigué que c'est grand dommage que je ne connaisse A ni B. Gros et grand comme je sis, c'est une honte que je ne sache pas encore lire. Ah ! Que j'aurais de plaisir à défricher ce qu'il y a dans ce papier que je viens de trouver ! Il faut que ce soit queuque chose de biau ; car il était bien emmailloté : cachets par ici, cachets par y-là… Si c'était queuque bon contrat, queuque bonne lettre de change, que fait-on ? La forteune viant parfois en dormant ; alle m'en veut peut-être ? Pourquoi non ? Je ne serais pas le premier manant qu'alle aurait fait grand Seigneur, ça se voit à chaque bout de champ, ça arrive tous les jours, et fi personne ne crie miracle. Si on me voyait dans un biau carrosse, qu'est-ce qui croirait que j'ai été paysan ? Je ne m'en souviendrais peut-être pas moi-même.
+
+Je me promène, Mademoiselle Lisette. Comme j'avons soupé de bonne heure, en attendant qu'il soit tout à fait nuit, je suis bian aise de faire un peu de digestion.
+
+C'est que je songeais à faire fortune : je ne sis pas un sot, non, tel que vous me voyez.
+
+J'en ai comme un enragé ; mais, je ne sais pas lire, c'est ce qui me chagraine.
+
+Morgué, si fait, et j'en aurais bon besoin à l'heure qu'il est.
+
+Accoutez, je sommes pour être mariés ensemble ; car Monsieur Bertrand notre maître dit qu'il le veut, je le veux bian itou. Quand vous ne le voudriais pas, vous, je sommes deux contre un, à la pluralité des voix je serons mari et femme, ne vous en déplaise.
+
+Tout justement, vous l'avez deviné. J'aime à être riche, moi ; il m'est avis que ça est bian commode, Mademoiselle Lisette.
+
+Oh bian donc, comme je partagerons notre forteune, il n'y a point de danger de vous montrer ce que je vians de trouver.
+
+Motus, au moins.
+
+Non.
+
+Non.
+
+Un papier.
+
+Un papier dont j'ai bonne opinion, c'est tout dire, le voilà. Tenez, il fait encore un tantinet jour, vous savez lire, voyez ce que c'est, car je n'y entends goutte, oui ; mais morgué, lisez donc tout haut, point de trahison, au moins.
+
+Il n'y a morgué pas là de quoi faire forteune. Mais tatigué que les gens sont sots d'empaqueter si bien si peu de chose ?
+
+Auprès de la petite porte du jardin : je n'aurais pargué pas pris la peine de le ramasser, si j'eusse cru que c'eût été si peu de chose. Vous en ferez votre profit, je vous le baille.
+
+Je n'ai pas le temps de m'amuser, je m'en cours dire à Monsieur Bernard queuque chose que j'ai vu ; car je ly dis tout, comme vous savez, c'est ce qui fait que je sommes si bons amis.
+
+Oh palsangué je vous trouve bian à point. Réjouissez-vous, Mademoiselle, vous ne serez plus si fâchée.
+
+Réjouissez-vous, vous dis-je encore une fois, tout vient à point à qui peut attendre, vous serez mariée à la fin.
+
+Morgué je le sais bian, il n'y aura point de nenni pour cette fois-ci, et sti qui la prend n'en aura pas le démenti ; car j'y ons regardé.
+
+Oh palsangué, c'est une bonne affaire.
+
+Un jeune homme ? Fi : est-ce que ce serait une bonne affaire pour une fille qu'un jeune homme d'astheure ?
+
+De qualité ? Dieu vous en garde. Ils avons toujours queuque ménage en Ville les gens de qualité, et ils en sont plus soigneux que de celui de leurs femmes encore.
+
+Un Financier ? Elle serait bian lotie : aujourd'hui Madame, et demain rian peut-être.
+
+Tatigué comme vous gobez ça. Je sis un porteux de bonnes nouvelles, moi, n'est-il pas vrai ?
+
+Oh, pour sti-là je vous en réponds. Hé pargué, tenez vela Monsieur, qu'il vous le dise lui-même.
+
+Mon bon sens et moi, je sommes à votre sarvice.
+
+Morgué, je pense qu'alle ne vous aime point. Voyez-vous ; alle serait bien aise d'être mariée, mais alle est fâchée que ce soit avec vous.
+
+Acoutez, Monsieur, ne jurons de rian, et défions-nous de tout, il se mitonne queuque manigance, à quoi il faut prendre garde.
+
+J'en sis margué plus sûr, que je ne sis sûr qui était mon père. Ne vous ai-je pas dit que votre Jardinier va tous les soirs au bout de la Saussaie ; qu'a-t-il affaire là ce Jardinier ? Il vient un grand homme à cheval.
+
+Il y était il n'y a pas une bonne heure : le Jardinier et ly se promenont, ils parlont, ils gesticulont, ils se tourmantont, et puis ils se séparont : le Monsieur à cheval galope d'un côté, et le Jardinier trotte de l'autre. Morgué qu'est-ce que cela signifie ?
+
+S'il y a queuque chose ? Je vous en réponds ; mais ce n'est pas tout. Maturine, la servante des trois Rois, dit qu'ils avont cheuz eux du depuis quatre jours, trois ou quatre Monsieux que votre Jardinier connaît itou : ils soupiont tout à l'heure ensemble, et ils parlions de vous, de Mademoiselle Angélique ; ils disiont qu'il la fallait ôter de vos pattes, et qu'ils la mettriont dans les pattes d'un autre. Que sais-je moi ? Mais bref, tant y en a, ce sont vos affaires.
+
+Sur quoi ? Sur ce que le Jardinier et ly sont bons amis ; puisqu'ils s'aimont tant, il ne valont pas mieux l'un et l'autre.
+
+Et quand vous aurez approfondi, que ferez-vous ?
+
+Hé, morgué, chassez-les sans approfondissement. Faut-il tant de façons ? Je sommes cheux vous, j'y avons deux filles, vous aimez l'une, vous voulez que j'aime l'autre, je le veux bian, moi, pour vous faire plaisir, tout coup vaille. Accoutez, mettons tout le monde dehors, et ne demeurons que nous quatre, je ne serons jaloux de parsonne, et je varrons beau jeu, ne vous boutez pas en peine.
+
+Vous ne saurez que ce que je vous ai dit.
+
+Vela qui est bien, vous n'avez qu'à dire.
+
+Il faut bien qu'il le soit, car vela lui-même.
+
+Ah, ah, ah, parsangué cela est tout à fait drôle ! À qui en a-t-il donc de vous rosser comme ça, sans dire gare : queu caprice est ça, Monsieur le Jardinier !
+
+Est-ce que vous prenez ça sérieusement ? Il ne vous a baillé que queuques coups de bâton, vela une belle bagatelle, ce sont de petites himeurs qui ly prenont comme ça parfois, et il faut un peu excuser les défauts des parsonnes.
+
+Vous jouez de malheur d'être tombé le premier sous sa patte. Il a du chagrin, il est amoureux.
+
+De Mademoiselle Angélique.
+
+Pargué, depuis toujours ; mais, il ne lui a dit que depuis tout à l'heure.
+
+Hé bien ? Ne jasez point, au moins.
+
+Il ne la veut marier avec parsonne, parce qu'il veut qu'alle se marie avec ly, mais elle ne l'aime pas.
+
+Non voirement, c'est ce qui le met de mauvaise himeur. Il la battrait si alle était sa femme ; en attendant qu'alle la devienne, afin que les coups qu'alle mérite ne soyont pas perdus, il les baille au premier venu, c'est sa magnière. Oh, pour ça, c'est un plaisant homme.
+
+Acoutez, pour les coups de bâton d'aujourd'hui, vous pourriais bian y avoir un tantinet votre part, à ce que je m'imagine.
+
+Allons, allons, boutez la main à la conscience, je dis tout ce que je sais ; vos bons amis les Jardiniers de la cour, Hem ?
+
+Ce sont eux qui vous avons procuré cette aubaine-là, je vous conseille de les en remercier. Sarviteur, Monsieur le Jardinier.
+
+Palsangué, qui va là toi-même ?
+
+Monsieur ?
+
+Hé, voirement oui, qui pourrait-ce être ? Vous m'avez baillé ordre de rôder partout ; et je rôde, comme vous voyez, mais je ne trouve rian.
+
+Tatigué, comme vous vous gaussez ! C'est vous, qui jasez tout seul, je pense.
+
+Tout de bon ?
+
+Oh bien morgué, je sommes donc ici plus de deux ; il y a de la trahison, prenons garde à nous.
+
+Morgué je tiens queuque chose que je ne laisserai pas aller.
+
+Les mâles se sont envolés, Monsieu, je n'avons déniché que les femelles.
+
+Où êtes-vous donc, Mademoiselle Lisette, que je nous promenions itou par ensemple ?
+
+Oh non, tatigué, je ne m'irai coucher qu'avec toi.
+
+Morgué, je vous l'avais bian dit, Monsieu, que le Jardinier et ly étions deux fripons.
+
+Tatigué que cette Lisette est curieuse ! Je n'aime pas ça.
+
+Ni moi non plus, la peste m'étouffe.
+
+Volontiers : morgué que ce sera drôle !
+
+On n'y voit goutte, mais on tâte, Monsieu. Ça est bian pensé des habits de femmes !
+
+Pargué, je n'avons pas besoin de tant de parure.
+
+Ne vous boutez pas en peine, je serons bientôt fagotés. Morgué que j'allons rire.
+
+À l'aide, à l'aide.
+
+Hé, je suis tout moulu de coups, miséricorde !
+
+Oh tatigué, tenez-vous donc. Si c'est Lisette à qui vous en voulez, je ne suis pas elle, je suis Lucas.
+
+Oui, palsangué, regardez-y plutôt ; voici tout à propos de la lumière.
+
+Ça veut dire que je croyons vous attraper, et que je sommes attrapés, nous. C'est notte Monsieu qui est la Damoiselle que vous avez si bian époustée.
+
+Détrompé, non, mais je sis battu.
+
+Morgué, Monsieur, ne nous montrons pas comme ça, on se gausserait de nous.
+
+Morgué, ça n'est pas vrai, je ne veux pas être femme, c'est une trop méchante engeance, et j'aimerais mieux être loup-garou.
+
+Bon, palsangué, que voulez-vous faire ? Ils ont biau dire, je sommes pas fous, je sommes les sots, et si j'avions épousé ces deux carognes-là, je l'aurions été bian davantage.
+

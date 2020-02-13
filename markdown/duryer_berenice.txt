@@ -1,6 +1,6 @@
 ---
 identifier: duryer_berenice  
-creator: Du Ryer, Pierre  
+creator: Du Ryer, Pierre ; Georges Forestier.  
 date: 1645  
 title: Bérénice. Tragi-comédie en prose.  
 ---

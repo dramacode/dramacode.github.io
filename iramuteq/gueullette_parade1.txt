@@ -1,2715 +1,1292 @@
 
 
-**** *book_ *id_I01 *act_I *date_1714
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
--*who_lemaitre
-Il faut, de toute nécessité, que je m'embarque aujourd'hui pour Corbeil où je dois aller recevoir trois cent francs.
-Voyons si je n'ai rien oublié pour le voyage.
-Voilà mon bonnet de nuit, une chemise.
-Mais, vraiment, le meilleur était sorti de ma mémoire.
-Gilles !
-Gilles !
+Il faut, de toute nécessité, que je m'embarque aujourd'hui pour Corbeil où je dois aller recevoir trois cent francs. Voyons si je n'ai rien oublié pour le voyage. Voilà mon bonnet de nuit, une chemise. Mais, vraiment, le meilleur était sorti de ma mémoire. Gilles ! Gilles !
 
--*who_gilles
-Ah !
-Monsieur, je n'en puis plus !
+Gilles !... Ah ! Te voilà... Qu'est-ce que cela veut dire?
 
--*who_lemaitre
-Gilles !...
-Ah !
-Te voilà...
-Qu'est-ce que cela veut dire?
-
--*who_gilles
-Ahi ! ahi ! ahi ! ahi !
-
--*who_lemaitre
 Avance donc, animal.
 
--*who_gilles
-Ah !
-Monsieur, me voilà en bel état.
-J'ai les cinq doigts dépouillés.
-
--*who_lemaitre
 Et comment cela t'est-il arrivé ?
 
--*who_gilles
-Je voulais tremper une croûte au pot.
-Jacqueline, cette chienne de Jacqueline, m'a poussé le coude et m'a fait enfoncer la main dans la marmite...
-Ah !
-Monsieur, je me meurs...
-Du vin !...
-Du vinaigre !
-
--*who_lemaitre
 Voilà, misérable, ce que te coûte ta gourmandise.
 
--*who_gilles
-Du vin !...
-Du vinaigre!...
-Un médecin !...
-Un chirurgien !...
-Un apothicaire !
+Voilà un garçon estropié pour le reste de ses jours. Monsieur Taille-Bras ! Monsieur Visautrou ! Heureusement que ces messieurs sont mes voisins. Au secours ! Mon valet Gilles est fort malade !
 
--*who_lemaitre
-Voilà un garçon estropié pour le reste de ses jours.
-Monsieur Taille-Bras !
-Monsieur Visautrou !
-Heureusement que ces messieurs sont mes voisins.
-Au secours !
-Mon valet Gilles est fort malade !
+Hélas ? Monsieur, voilà mon valet Gilles en pitoyable état.
 
-**** *book_ *id_I02 *act_I *date_1714
+Eh ! Messieurs, finissez vos contestations et secourez, si vous le pouvez, ce pauvre diable.
 
--*who_taillebras
-Qu'y a-t-il, Monsieur ?
-Vous criez comme si le feu était à la maison.
-
--*who_lemaitre
-Hélas ?
-Monsieur, voilà mon valet Gilles en pitoyable état.
-
--*who_gilles
-Hélas, oui !
-
--*who_visautrou
-À quoi servent ces cornets de papier ?
-
--*who_gilles
-C'est que j'ai eu les doigts brûlés dans la marmite.
-
--*who_visautrou
-Cela est fâcheux, mon ami.
-Hippocrate, en pareil cas, dit que, pour tempérer la chaleur que cause la brûlure, il faut commencer par prendre un petit clystère dulcifiant.
-
--*who_gilles
-Qu'est-ce que vous parlez d'hypocras, Monsieur ?
-J'en boirais bien un coup pour me fortifier le cœur.
-
--*who_visautrou
-Ce n'est pas d'hypocras que je parle.
-C'est d'Hippocrate, le prince de la médecine.
-
--*who_taillebras
-Monsieur Visautrou parle sensément.
-Mais Gallien assure qu'en pareil cas il faut auparavant phlébotomiser le malade.
-
--*who_gilles
-Ah !
-Ah !
-Ah !
-
--*who_visautrou
-Vous vous trompez, Monsieur, c'est par le clystère qu'il faut commencer.
-
--*who_taillebras
-Et moi, je vous soutiens que c'est par la saignée.
-
--*who_lemaitre
-Eh !
-Messieurs, finissez vos contestations et secourez, si vous le pouvez, ce pauvre diable.
-
--*who_gilles
-Ah !
-Je me meurs !
-Du vin !...
-Du vinaigre !
-
--*who_lemaitre
 Il me fend le cœur, dépêchez-vous donc.
 
--*who_taillebras
-Cela va être fait dans le moment.
-
--*who_lemaitre
 Qu'allez-vous donc faire ?
 
--*who_taillebras
-Lui couper le bras que j'emporterai chez moi, puisque vous êtes si pressé, et je panserai la main tout à loisir.
+Comment, cette maison-ci ? Mais, vraiment, elle m'appartient.
 
--*who_gilles
-Oh !
-Non, non, Monsieur, n'allez pas si vite.
-Ah !
-Je sens bien que je n'irai pas loin.
-Cela me gagne les parties nobles.
-Ah !
-Monsieur mon maître !
-Qu'il est dur de mourir si jeune !
-Mais, auparavant, ne pourrais-je pas faire un petit bout de testament par-devant main de notaire?
+Non pas, s'il vous plaît, Monsieur le tabellion ; diable ! Quel quiproquo ! Mettez, s'il vous plaît, dépendra et non pendra. Mais, Gilles, je ne te connais pas de garde-robe. En quoi consiste-t-elle ?
 
--*who_taillebras
-Oh ! cela est très aisé.
-Pour vivre à son aise, il faut manger à plus d'un râtelier.
-Je suis chirurgien, comme vous savez, et tabellion, fort à votre service.
-Faites seulement apporter une table.
-Vous n'avez à présent qu'à me dicter vos volontés :
-    « Par-devant, etc... fut présent, etc... lequel, etc... nous a ainsi dicté ses intentions.
-Premièrement... »
-Allons, Monsieur Gilles, c'est à vous de parler.
-
--*who_gilles
-Ah !
-Monsieur !
-Vous n'avez qu'à écrire tout ce qu'il vous plaira.
-
--*who_taillebras
-Mais, Monsieur, ce sont vos volontés, et non pas les nôtres, que nous devons coucher sur le papier.
-
--*who_gilles
-Eh bien !
-Monsieur, puisque cela est, pour la bonne amitié que je porte à Monsieur de Parlaventrebleu, mon maître, je lui laisse cette maison-ci.
-
--*who_lemaitre
-Comment, cette maison-ci ?
-Mais, vraiment, elle m'appartient.
-
--*who_gilles
-C'est pour cela que je vous la laisse, mon doux maître.
-Vous voyez bien que je ne puis l'emporter.
-Item, je laisse à Jacqueline, la cuisinière de Monsieur de Parlaventrebleu, la plus grosse paire de fesses qu'il y ait dans le village.
-
--*who_taillebras
-Mais, Monsieur...
-
--*who_gilles
-Écrivez, écrivez.
-
--*who_taillebras
-...
-Dans tout le village.
-
--*who_gilles
-Plus, je laisse au notaire qui aura eu la bonté de faire mon testament...
-
--*who_taillebras
-Ah !
-Monsieur Gilles, la plume me tombe des mains.
-
--*who_gilles
-Attendez, Monsieur.
-Je laisse donc au susdit notaire ou tabellion la plus belle paire de cornes qui ait jamais été sur la tête d'un cocu.
-
--*who_taillebras
-Mon ami, vous faites le goguenard.
-Heureusement que je suis garçon, cela ne me regarde pas.
-Mais je vous déclare que, dès à présent, je renonce au legs.
-
--*who_gilles
-Cela dépendra plus de votre femme que de vous.
-Item, je laisse à mon petit frère, Guillaume Bambinois, toute ma garde-robe, à condition qu'il dépendra de Monsieur Parlaventrebleu, mon bon maître...
-
--*who_taillebras
-Qu'il pendra Monsieur de Parlaventrebleu ?
-
--*who_lemaitre
-Non pas, s'il vous plaît, Monsieur le tabellion ; diable !
-Quel quiproquo !
-Mettez, s'il vous plaît, dépendra et non pendra.
-Mais, Gilles, je ne te connais pas de garde-robe.
-En quoi consiste-t-elle ?
-
--*who_gilles
-Vous le voyez, Monsieur, je porte tout sur moi.
-Il y a pourtant encore deux chaussons chez la blanchisseuse.
-Item, je laisse à Lallemand, frotteur de feu Mme de Parlaventrebleu...
-
--*who_taillebras
-Un lavement au frotteur de madame ?
-
--*who_gilles
-Eh !
-Non, Monsieur.
-
--*who_taillebras
-Monsieur Gilles, ma foi, vous vous moquez de nous.
-Je vois bien qu'il faut quitter la plume pour le bistouri.
-
--*who_gilles
-Attendez encore un moment, Monsieur.
-Dans un grand péril, j'ai fait un vœu singulier dont je n'ai pu encore m'acquitter.
-Si vous voulez bien le faire pour moi, ou Monsieur Visautrou, je crois même que, pour le présent, cela convient mieux à Monsieur l'apothicaire, qui est marié depuis trois mois.
-
--*who_visautrou
-Cela est vrai, Monsieur, et j'ai même une fort jolie femme.
-
--*who_gilles
-Tant mieux, Monsieur ; vous vous acquitterez mieux du vœu, et je vous en aurai une extrême obligation.
-
--*who_visautrou
-Mais, s'il faut trop s'éloigner de ma maison, Monsieur, j'ai bien des pratiques.
-
--*who_gilles
-Oh !
-Monsieur, pourvu que vous en soyez seulement à cent pas, cela suffit.
-
--*who_visautrou
-Cela étant, je vous promets d'exécuter votre vœu.
-
--*who_gilles
-Ah !
-Je respire et je meurs content.
-Eh bien !
-Monsieur, dans un danger très pressant, j'ai fait vœu...
-Ah !
-Je n'y tiens plus !
-
--*who_visautrou
-Achevez donc !
-
--*who_gilles
-Monsieur, vous ne le voudrez pas.
-Ma pauvre femme Gillette n'a jamais voulu m'acquitter de ce vœu, et cela lui était bien facile.
-
--*who_visautrou
-Eh bien !
-À son refus, je m'en charge.
-
--*who_gilles
-Assurément ?
-
--*who_visautrou
-J'en jure par ma seringue, mes canons et mon mortier.
-
--*who_gilles
-Eh bien, donc !
-Monsieur, dans un très grand péril, puisque j'etais prêt d'être pendu pour avoir été en maraude, j'ai fait vœu, si j'en revenais...
-
--*who_visautrou
-De quoi as-tu fait vœu ?
-
--*who_gilles
-J'ai fait vœu d'être cocu.
-
--*who_visautrou
-Que le diable t'emporte, animal !
-Exécute ton vœu toi-même.
-Il y a une heure qu'il nous tient le bec dans l'eau pour nous dire une impertinence.
-Or çà, finissons.
-Voyons cette main malade.
-
--*who_gilles
-Ah !
-Ah !
-Ah !
-
--*who_lemaitre
 Doucement, Monsieur Visautrou.
-Là, là, un peu de patience.
-Tu ne seras pas plus tôt guéri que tu ne sentiras plus de mal.
+Là, là, un peu de patience. Tu ne seras pas plus tôt guéri que tu ne sentiras plus de mal.
 
--*who_gilles
-Voyez le gros sorcier !
-
--*who_taillebras
-Commençons par le pouce.
-
--*who_gilles
-Ah !
-Monsieur, prenez garde.
-Ah !
-Ah !
-Ah !
-Ah !
-
--*who_taillebras
-Enfin, nous voici débarrassés de cette folle.
-Voici le cornet qui enveloppait le pouce.
-Je n'y vois aucun mal.
-
--*who_gilles
-Tout de bon, Monsieur ?
-
--*who_visautrou
-Certainement.
-
--*who_gilles
-Je ne m'en serais jamais douté.
-
--*who_visautrou
-Passons à l'index.
-
--*who_gilles
-C'est celui-là.
-Il m'élance furieusement.
-Ah !
-Ah !
-Ah !
-
--*who_taillebras
-Il est très sain.
-
--*who_gilles
-Ah !
-Quel bonheur !
-Il faut donc que le mal soit au doigt du milieu.
-
--*who_visautrou
-Le voilà découvert.
-
--*who_gilles
-Ah !
-Monsieur, je vous le disais bien !
-Du vin !...
-Du vinaigre !...
-
--*who_taillebras
-Non, mon ami, il n'y a rien.
-Nous avons ôté le papier qui le couvrait.
-Voilà ce que Monsieur Visautrou voulait dire.
-
--*who_gilles
-Tant mieux.
-Mais, Messieurs, allez, je vous prie, bien doucement aux deux autres.
-
--*who_visautrou
-Voilà les cornets ôtés, et ces deux doigts ne sont pas plus maltraités que les trois autres.
-
--*who_gilles
-Cela est-il bien vrai, Messieurs ?
-
--*who_taillebras
-Très vrai.
-
--*who_gilles
-Voyez ce que fait la force de l'imagination.
-
--*who_taillebras
-Monsieur, ce coquin-là se moque de nous et de vous.
-
--*who_lemaitre
 Je ne le crois pas assez fin pour cela.
 
--*who_taillebras
-À la bonne heure ; mais il faut nous payer.
+Cela est juste. Gilles, sur l'argent qui te reste pour la dépense de la maison, satisfais ces messieurs. Je rentre me préparer pour mon voyage.
 
--*who_lemaitre
-Cela est juste.
-Gilles, sur l'argent qui te reste pour la dépense de la maison, satisfais ces messieurs.
-Je rentre me préparer pour mon voyage.
+Eh bien ! Ces messieurs sont-ils payés ?
 
--*who_gilles
-Or çà, Messieurs, combien vous faut-il ?
+Avant de partir pour Corbeil, je me suis ressouvenu que j'avais vingt écus à envoyer à mon procureur. Tu les lui porteras dans cette bourse.
 
--*who_taillebras
-Mais, pour monsieur et pour moi, cela peut valoir quinze francs.
-
--*who_gilles
-Quinze francs !
-Ma foi, Messieurs, il ne me reste que quinze sols dix-huit deniers.
-Si cela vous accommode, vous pouvez les partager entre vous deux.
-
--*who_visautrou
-Quel insolent !
-Pour qui nous prends-tu ?
-
--*who_gilles
-Pour des ignorants qui ne savez pas connaître si je suis malade.
-
--*who_taillebras
-Il s'agit de nous satisfaire, sinon...
-
--*who_gilles
-Ah ! vous n'êtes pas contents ?
-Eh bien !
-Voici la monnaie que j'ai à vous donner.
-
-**** *book_ *id_I03 *act_I *date_1714
-
--*who_lemaitre
-Eh bien !
-Ces messieurs sont-ils payés ?
-
--*who_gilles
-Oh !
-Que oui, Monsieur.
-
--*who_lemaitre
-Avant de partir pour Corbeil, je me suis ressouvenu que j'avais vingt écus à envoyer à mon procureur.
-Tu les lui porteras dans cette bourse.
-
--*who_gilles
-Oui, Monsieur.
-
--*who_lemaitre
 Et voici une bouteille de vin grec, qu'en passant tu remettras à Madamoiselle Ampoüisse.
 
--*who_gilles
-Oui, Monsieur.
-
--*who_lemaitre
 Que veux-tu faire ?
 
--*who_gilles
-Je veux voir si c'est du vin grec.
+Et comment le reconnaîtrais-tu ? Tu n'en as jamais bu.
 
--*who_lemaitre
-Et comment le reconnaîtrais-tu ?
-Tu n'en as jamais bu.
-
--*who_gilles
-Non, Monsieur, mais cela est aisé.
-Si en buvant, il fait grec, grec, grec, c'est du vin grec.
-
--*who_lemaitre
 Fort bien, mais je ne prétends pas que tu satisfasses ta curiosité en cette occasion, et tu peux assurer Madamoiselle Ampoüisse que c'est du véritable vin grec.
-Ouais ! cette bouteille te tente terriblement.
-Oh !
-Je sais un bon moyen de t'empêcher d'y toucher.
+Ouais ! cette bouteille te tente terriblement. Oh ! Je sais un bon moyen de t'empêcher d'y toucher.
 Il faut avouer que tu es bien malpropre.
 
--*who_gilles
-Dame, Monsieur, j'ai oublié mon mouchoir.
-Je vais le chercher dans la maison.
+Va, et ensuite tu iras exécuter tes commissions. Pour moi, je vais partir pour Corbeil.
 
--*who_lemaitre
-Va, et ensuite tu iras exécuter tes commissions.
-Pour moi, je vais partir pour Corbeil.
+Il faut avouer que je suis heureux. Au moment que j'allais entrer dans le bateau, j'ai rencontré celui qui me devoit de l'argent. Il m'a payé et nous avons été boire bouteille ensemble. Mais n'aperçois-je point mon valet Gilles ? C'est lui-même. Apparemment qu'il arrive de chez Madamoiselle Ampoüisse. Eh bien, comment se porte-t-elle?
 
-**** *book_ *id_I04 *act_I *date_1714
+Oui. Je ne vais pas en campagne. Eh bien ! Que dit-on de ma bouteille ?
 
--*who_prendstout
-Morbleu !
-Camarade, voilà une belle occasion de boire la bouteille de vin grec que Gilles doit porter à Madamoiselle Ampoüisse.
-
--*who_laisserien
-Mais comment peux-tu parvenir à la boire, puisque tu as vu, comme moi, que son maître la lui a attachée au derrière ?
-
--*who_prendstout
-Voilà qui est bien difficile !
-Tu n'as non plus d'idée qu'un enfant.
-Tiens, mon ami, voici ce qu'il faut faire.
-Pendant que l'un de nous l'amusera par quelque récit merveilleux auquel il donnera toute son attention, l'autre boira à même la bouteille, et chacun de nous aura son tour.
-
--*who_laisserien
-Ventrebleu, tu as raison, je ne suis qu'une bête.
-Tu as l'invention plus belle que moi.
-Mais je ne te le cède en rien pour l'exécution.
-
--*who_prendstout
-Nous allons voir.
-Voici Gilles.
-Sois sur tes gardes.
-Je vais commencer.
-
-**** *book_ *id_I05 *act_I *date_1714
-
--*who_gilles
-Enfin, voilà le maître parti.
-Je vais exécuter mes commissions.
-
--*who_prendstout
-Eh, parbleu !
-Camarade, je crois voir Gilles Bambinois Cadet L'Aîné.
-
--*who_laisserien
-Oui vraiment, c'est lui-même.
-
--*who_gilles
-Oui, Messieurs, c'est moi-même ; est-ce que vous me connaissez ?
-
--*who_prendstout
-N'es-tu pas fils de cette tripière qui vendait de la chair cuite au Pont-aux-Choux ?
-
--*who_gilles
-Oui, Messieurs.
-
--*who_laisserien
-On disait aussi qu'en chambre elle en fournissait à la Cour.
-
--*who_gilles
-Justement, c'est elle-même.
-
--*who_prendstout
-Vous aviez une sœur assez gentille ?
-
--*who_gilles
-Oui vraiment.
-Mais si vous me connaissez, moi, je ne vous connais pas.
-
--*who_laisserien
-Nous avons pourtant, Prends-Tout et moi, été à l'école avec toi.
-
--*who_gilles
-Cela peut être.
-Mais il y a bien longtemps.
-
--*who_prendstout
-Depuis plus de vingt-cinq ans, mon ami, nous avons voyagé par toute la terre, et nous avons vu des choses si étonnantes que nous ne les pouvons croire nous-mêmes.
-
--*who_gilles
-Je serais bien curieux de savoir ces choses-là.
-
--*who_prendstout
-Croirais-tu bien, par exemple, que dans le Monomotapa j'ai vu une souris qui avait fait ses petits dans l'oreille d'un chat ?
-
--*who_gilles
-Dans l'oreille d'un chat ?
-Cela est-il possible ?
-
--*who_laisserien
-Dans le pays des Chinois...
-
--*who_gilles
-Les cerneaux sont à bon marché dans ce pays-là.
-
--*who_laisserien
-Pourquoi, mon ami ?
-
--*who_gilles
-Eh !
-Parguenne, s'ils font des noix si aisément, quand ils ont le ventre libre ils font des cerneaux.
-
--*who_laisserien
-Oh ! le plaisant corps !
-Le pays des Chinois, mon ami, c'est la Chine.
-Dans ce lieu, j'ai vu pendre un homme pour avoir, dans un four chaud, fait durcir des pelotes de neige qu'il vendait pour du sel.
-
--*who_gilles
-Houlas !
-Ils sont donc bien sévères, dans ce pays-là?
-
--*who_prendstout
-Dans la Norvège, j'ai vu une rivière dont les eaux sont si chaudes que l'on y pêche des brochets au court-bouillon, des tanches à l'étuvée et des carpes frites.
-
--*who_gilles
-Cela est-il croyable ?
-Houlas !
-
--*who_laisserien
-En passant par la Suisse, j'ai vu un homme sans bras qui tenait son cul à deux mains.
-
--*who_gilles
-Ah !
-Celui-là est original.
-
--*who_prendstout
-Ce n'est rien que cela.
-J'ai vu à Durtal quelque chose de bien plus curieux quand j'y passai.
-Il y avait un serrurier qui avait trouvé le secret de faire des servantes d'acier, lesquelles, par le moyen de ressorts très souples, obéissaient à tout ce qu'on leur commandait.
-
--*who_gilles
-Cela est des plus merveilleux.
-Mais la rouille ne s'y mettait-elle pas ?
-
--*who_prendstout
-Non, mon ami, pourvu qu'on eût le soin de les fourbir deux fois la semaine.
-
--*who_gilles
-Oh !
-Parguenne !
-Si j'en avais eu une, elle n'aurait pas couru risque de s'enrouiller.
-Des servantes d'acier!
-Houlas !
-
--*who_laisserien
-J'ai fait trois mille lieues à pied avec la même paire de souliers sans que la semelle fût usée.
-
--*who_gilles
-Oh !
-Le gros fin !
-Tu portais tes souliers dans tes mains ?
-
--*who_laisserien
-Non, mon ami, c'est que la semelle de ces souliers était faite de langues de femmes.
-Cela ne s'use jamais.
-
--*who_gilles
-Oh !
-Oh !
-Cela est plaisant.
-
--*who_prendstout
-Dans le pays du roi des Mèdes...
-
--*who_gilles
-Il y a donc bien des gadoues dans ce pays-là, puisque c'est le roi des Merdes ?
-
--*who_prendstout
-Fi !
-Le vilain !
-Je te dis roi des Mèdes, animal !
-Dans ce pays, toutes les filles, dès l'âge de douze ans, s'amusent avec une flûte d'Arabie qui n'a qu'un trou et dont elles jouent sans remuer les doigts.
-
--*who_gilles
-Qu'est-ce donc qu'elles remuent ?
-Oh !
-Morguenne, voilà un drôle de corps.
-
--*who_prendstout
-Nous ne t'avons pas menti d'un seul mot dans la moindre chose.
-
--*who_gilles
-Oh ! je vous crois, Messieurs, tout cela est bel et bon.
-Mais quelque plaisir que j'aie à retrouver d'aussi anciens camarades, il faut que je vous quitte pour porter cette bouteille de vin grec à son adresse.
-Adieu, mes amis, nous nous reverrons.
-
--*who_prendstout
-Adieu, camarade.
-
--*who_laisserien
-Adieu, à revoir.
-
-**** *book_ *id_I06 *act_I *date_1714
-
--*who_lemaitre
-Il faut avouer que je suis heureux.
-Au moment que j'allais entrer dans le bateau, j'ai rencontré celui qui me devoit de l'argent.
-Il m'a payé et nous avons été boire bouteille ensemble.
-Mais n'aperçois-je point mon valet Gilles ?
-C'est lui-même.
-Apparemment qu'il arrive de chez Madamoiselle Ampoüisse.
-Eh bien, comment se porte-t-elle?
-
--*who_gilles
-Ah !
-Monsieur, vous voilà de retour ?
-
--*who_lemaitre
-Oui.
-Je ne vais pas en campagne.
-Eh bien !
-Que dit-on de ma bouteille ?
-
--*who_gilles
-De votre bouteille ?
-Elle est encore en place.
-Je n'y ai pas touché au moins.
-
--*who_lemaitre
 Et pourquoi ne l'as-tu pas portée ?
 
--*who_gilles
-J'y allais lorsque deux de mes camarades d'école sont arrivés ici d'un grand voyage qui a duré vingt-cinq ans.
-Ils m'ont raconté des choses si surprenantes que j'en suis encore tout confus et tout étonné.
-
--*who_lemaitre
 Je gagerais presque que ce sont quelques fripons qui se sont moqués de toi.
 
--*who_gilles
-Oh !
-Que non, Monsieur, ce sont d'honnêtes gens.
-Ils s'appellent, l'un Prends-Tout et l'autre Laisse-Rien.
+Voilà deux noms bien suspects. Cela sent diablement les filous. Voyons un peu ma bouteille... Il n'y a plus rien dedans !
 
--*who_lemaitre
-Voilà deux noms bien suspects.
-Cela sent diablement les filous.
-Voyons un peu ma bouteille...
-Il n'y a plus rien dedans !
-
--*who_gilles
-Il n'y a plus de vin grec ?
-
--*who_lemaitre
 Non vraiment.
 
--*who_gilles
-Ah !
-Parbleu, Monsieur, le tour est drôle.
-Apparemment qu'ils l'ont bu l'un après l'autre à mon derrière, car je n'en voyais jamais qu'un à la fois ; je ne m'en doutais pas.
-Mais, morguenne, ils ont fait bien des culbutes pour en venir à bout.
-Je ne sais pas comment ils ne se sont pas cassé le nez.
-
--*who_lemaitre
 Et moi, je ne sais à quoi il tient, maraud, que je ne te casse la tête pour ta butorderie.
 
--*who_gilles
-Morguenne !
-Je ne pouvais pas deviner leur friponnerie.
-C'est vous qui êtes une bête de m'avoir attaché cette bouteille au cul.
-
--*who_lemaitre
 Je vous apprendrai à parler, maraud.
 
--*who_gilles
-Monsieur, prenez garde à ce que vous allez faire ; si une fois la moutarde me monte au nez...
+Comment, insolent, tu oses menacer ton maître ! Il faut que je te passe mon épée à travers le corps.
 
--*who_lemaitre
-Comment, insolent, tu oses menacer ton maître !
-Il faut que je te passe mon épée à travers le corps.
-
--*who_gilles
-Doucement, Monsieur, j'ai auparavant une petite question à vous faire.
-
--*who_lemaitre
 Quelle est-elle ?
 
--*who_gilles
-Deux hommes veulent se battre l'épée à la main ; le pied glisse à l'un des deux ; il tombe par terre.
-L'autre peut-il profiter de sa chute et le maltraiter ?
+Non. Le point d'honneur veut que celui qui est debout attende que l'autre soit relevé.
 
--*who_lemaitre
-Non.
-Le point d'honneur veut que celui qui est debout attende que l'autre soit relevé.
+Très absolument ! On se déshonorerait de faire autrement.
 
--*who_gilles
-Le point d'honneur veut cela absolument ?
+Ah ! Maraud, je vais t'abattre la tête.
 
--*who_lemaitre
-Très absolument !
-On se déshonorerait de faire autrement.
-
--*who_gilles
-Nous allons bientôt voir si tu dis vrai.
-
--*who_lemaitre
-Ah !
-Maraud, je vais t'abattre la tête.
-
--*who_gilles
-Le point d'honneur !
-
--*who_lemaitre
 Lève-toi, coquin!
 
--*who_gilles
-Quel sot !
+Ah ! Misérable ! L'insulte est trop grande.
 
--*who_lemaitre
-Ah !
-Misérable !
-L'insulte est trop grande.
+Voilà un maître faquin !... Et ma bourse, à quoi je ne pensais plus, qu'est-elle devenue ?
 
--*who_gilles
-Le point d'honneur !
-Tu vas te déshonorer.
-
--*who_lemaitre
-Voilà un maître faquin !...
-Et ma bourse, à quoi je ne pensais plus, qu'est-elle devenue ?
-
--*who_gilles
-Ta bourse, elle est avec l'argent.
-
--*who_lemaitre
 Et l'argent ?
 
--*who_gilles
-Avec la bourse.
-
--*who_lemaitre
 Mais la bourse et l'argent ?
 
--*who_gilles
-Ils sont ensemble.
+Oh ! Il faut que je perce ce scélérat.
 
--*who_lemaitre
-Oh !
-Il faut que je perce ce scélérat.
-
--*who_gilles
-Doucement !
-Le point d'honneur.
-
--*who_lemaitre
 Ces fripons te l'auront aussi escamotée.
 
--*who_gilles
-Cela peut être.
-Voyons.
-Non...
-La voilà !
+Ah ! Du moins, j'en suis quitte pour ma bouteille. Et, parbleu ! Je ne chargerai pas un sot de la bourse. Quoiqu'il commence à faire nuit, je la porterai moi-même, et je veux bien que l'on m'étrille si l'on me l'attrape. Rentre au logis, coquin ; rentre, et ne parais pas devant moi que ma colère ne soit passée.
 
--*who_lemaitre
-Ah !
-Du moins, j'en suis quitte pour ma bouteille.
-Et, parbleu !
-Je ne chargerai pas un sot de la bourse.
-Quoiqu'il commence à faire nuit, je la porterai moi-même, et je veux bien que l'on m'étrille si l'on me l'attrape.
-Rentre au logis, coquin ; rentre, et ne parais pas devant moi que ma colère ne soit passée.
+Je vais du même pas chez mon procureur. Il n'y a pas loin d'ici.
 
--*who_gilles
-J'en suis quitte à bon marché.
-
-**** *book_ *id_I07 *act_I *date_1714
-
--*who_prendstout
-Nous verrons tout à l'heure si tu es plus fin que ton valet.
-
--*who_lemaitre
-Je vais du même pas chez mon procureur.
-Il n'y a pas loin d'ici.
-
--*who_prendstout
-Monsieur, ayez pitié de moi !
-
--*who_lemaitre
 Qu'as-tu, mon enfant ?
 
--*who_prendstout
-Mon père veut m'assommer, Monsieur.
+Ton père ? Et qui est-il ?
 
--*who_lemaitre
-Ton père ?
-Et qui est-il ?
-
--*who_prendstout
-C'est Monsieur Guillaume, Monsieur, le savetier du coin.
-Et moi, Monsieur, je suis le petit Jacquot, son fils.
-
--*who_lemaitre
 Et qu'as-tu fait à ton père ?
 
--*who_prendstout
-Hélas !
-Rien, Monsieur ; parce que j'ai été jouer à la fossette avec des petits garçons comme moi.
-Ah !
-Monsieur, le voilà, le voilà !
+Eh bien ! Je vais lui parler.
 
--*who_lemaitre
-Eh bien !
-Je vais lui parler.
-
--*who_prendstout
-Je vous en prie, Monsieur, soyez mon protecteur.
-
--*who_lemaitre
 Laisse-moi faire.
 
--*who_prendstout
-Si j'attrape ce petit fripon, je l'assommerai du coup.
-Vous l'entendez, Monsieur.
+Oui, oui, cache-toi derrière moi. Eh bien ! Qu'est-ce, Monsieur Guillaume ? Vous voilà bien en colère.
 
--*who_lemaitre
-Oui, oui, cache-toi derrière moi.
-Eh bien !
-Qu'est-ce, Monsieur Guillaume ?
-Vous voilà bien en colère.
-
--*who_prendstout
-Oui, Monsieur, j'ai un petit coquin de fils qui depuis huit jours fait l'école buissonnière.
-
--*who_lemaitre
 Tu ne m'avais pas dit cela.
 
--*who_prendstout
-Cela est vrai, Monsieur ; ce sont mes camarades qui refont débauché.
-
--*who_lemaitre
 Tu es un petit libertin.
 
--*who_prendstout
-Je crois, Monsieur, entrevoir ce petit gueux à côté de vous.
-Ah !
-Vous allez voir comme je vais l'étriller.
-
--*who_lemaitre
 Prenez donc garde à ce que vous faites.
 
--*who_prendstout
-Ah !
-Monsieur, je n'en puis plus ; je suis mort.
-Mon père frappe comme un sourd.
+La correction est un peu violente. Eh bien ! À présent, Monsieur Guillaume, il faut lui pardonner.
 
--*who_lemaitre
-La correction est un peu violente.
-Eh bien !
-À présent, Monsieur Guillaume, il faut lui pardonner.
-
--*who_prendstout
-Lui pardonner, Monsieur, à un petit fripon qui me vole ?
-
--*who_lemaitre
 Qui vous vole ?
 
--*who_prendstout
-Oui, Monsieur, qui me vole pour aller voir la fille.
+Ah ! Ah ! Le petit pendard !
 
--*who_lemaitre
-Ah !
-Ah !
-Le petit pendard !
+Tu le mérites bien. Mais, Monsieur Guillaume, prenez un peu garde comme vous frappez. Il y a une partie des coups qui tombent sur moi.
 
--*who_prendstout
-Ah !
-Monsieur, je vous demande excuse.
-Mon père a menti.
-Vous l'entendez, Monsieur ?
-Comment, coquin, j'ai menti !
-Ah !
-Vous en aurez.
-Ahi !
-Ahi !
-Ahi !
-Ah !
-Monsieur, je suis brisé de coups.
+Par terre, dans sa poche ? Cela ne vaut rien. Et tu as été voir la fille avec cet argent ?
 
--*who_lemaitre
-Tu le mérites bien.
-Mais, Monsieur Guillaume, prenez un peu garde comme vous frappez.
-Il y a une partie des coups qui tombent sur moi.
+Mais aussi, Monsieur Guillaume, vous n'y pensez pas de dire que votre fils va voir la fille. Il n'a que douze ans !
 
--*who_prendstout
-Je vous en demande pardon, Monsieur, c'est la fureur qui me transporte.
-Mais aussi un petit voleur qui va voir la fille !...
-Ah !
-Je vous apprendrai, coquin !...
-Ah !
-Monsieur, je n'ai pas volé mon père.
-J'ai trouvé par terre, dans la poche de sa culotte, trente-six sols.
+Oh ! Cela étant, il chasse de race. Mais en voilà assez, vous l'avez suffisamment maltraité.
 
--*who_lemaitre
-Par terre, dans sa poche ?
-Cela ne vaut rien.
-Et tu as été voir la fille avec cet argent ?
+Que diable ! Éloigne-toi donc de moi. Je reçois plus de coups que toi !
 
--*who_prendstout
-Non, Monsieur, je vous assure.
-Mon père se moque, je n'ai que douze ans.
+Peste soit du brutal ! Je suis brisé de coups et je n'aurai jamais la force d'aller porter mon argent chez mon procureur. Mais, ciel ! On m'a pris ma bourse... Au voleur ! Au voleur !
 
--*who_lemaitre
-Mais aussi, Monsieur Guillaume, vous n'y pensez pas de dire que votre fils va voir la fille.
-Il n'a que douze ans !
+Ah ! Gilles, je suis au désespoir ! On m'a roué de coups et on m'a volé ma bourse.
 
--*who_prendstout
-Qu'est-ce que cela fait, Monsieur ?
-Je la voyais bien à dix, moi qui vous parle.
+Non ! Il faut que ce soit ce petit fripon de Jacquot qui m'ait fait ce tour.
 
--*who_lemaitre
-Oh !
-Cela étant, il chasse de race.
-Mais en voilà assez, vous l'avez suffisamment maltraité.
+Un petit garçon que son père vient de bien rosser. C'est le fils de Monsieur Guillaume. Je me suis mal à propos mêlé dans leur querelle, et ce petit coquin, en m'embrassant la cuisse, m'aura sans doute volé ma bourse, que j'avais mise dans cette poche-là.
 
--*who_prendstout
-Ah !
-Que non, Monsieur, je lui en donnerai bien davantage.
-Ah !
-Pardon, mon papa, mon petit papa.
-Point de pardon.
-Je veux qu'il expire sous le bâton.
-Ah !
-Ah !
-Je n'en puis plus, j'ai la tête cassée.
-Ah !
-Je suis mort.
+Oh ! Cela n'est que trop sûr. Il n'y a que ce petit fripon qui m'ait abordé depuis que tu es rentré dans la maison.
 
--*who_lemaitre
-Que diable !
-Éloigne-toi donc de moi.
-Je reçois plus de coups que toi !
-
--*who_prendstout
-Ah !
-Monsieur, je vous en fais excuse.
-Monsieur, amusez mon père pendant que je m'enfuirai.
-Avant que tu t'enfuisses, je prétends t'estropier et te rendre cul-de-jatte.
-
--*who_lemaitre
-Peste soit du brutal !
-Je suis brisé de coups et je n'aurai jamais la force d'aller porter mon argent chez mon procureur.
-Mais, ciel !
-On m'a pris ma bourse...
-Au voleur !
-Au voleur !
-
-**** *book_ *id_I08 *act_I *date_1714
-
--*who_gilles
-Que diantre, voilà bien du tapage !
-
--*who_lemaitre
-Ah !
-Gilles, je suis au désespoir !
-On m'a roué de coups et on m'a volé ma bourse.
-
--*who_gilles
-Comment ?
-Ce sont donc des assassins ?
-
--*who_lemaitre
-Non !
-Il faut que ce soit ce petit fripon de Jacquot qui m'ait fait ce tour.
-
--*who_gilles
-Qu'est-ce que ce petit Jacquot ?
-
--*who_lemaitre
-Un petit garçon que son père vient de bien rosser.
-C'est le fils de Monsieur Guillaume.
-Je me suis mal à propos mêlé dans leur querelle, et ce petit coquin, en m'embrassant la cuisse, m'aura sans doute volé ma bourse, que j'avais mise dans cette poche-là.
-
--*who_gilles
-Cela est-il bien possible ?
-
--*who_lemaitre
-Oh !
-Cela n'est que trop sûr.
-Il n'y a que ce petit fripon qui m'ait abordé depuis que tu es rentré dans la maison.
-
--*who_gilles
-Monsieur, avec votre permission, que je vous ôte votre épée.
-Elle ne fait que vous embarrasser.
-
--*who_lemaitre
 Tiens, la voilà !
 
--*who_gilles
-Ah ! vous vous laissez voler votre bourse, et vous m'avez battu pour avoir laissé boire à mon cul une méchante bouteille de vin grec.
-Vous en aurez tout votre sou.
-
--*who_lemaitre
 Comment, scélérat ?
 
--*who_gilles
-N'avez-vous pas dit tantôt : «Je veux bien que l'on m'étrille si l'on me prend cette bourse» ?
+Ah ! Misérable ! À ton maître ? Coquin ! Si tu ne m'avais pas ôté mon épée !
 
--*who_lemaitre
-Ah !
-Misérable !
-À ton maître ?
-Coquin !
-Si tu ne m'avais pas ôté mon épée !
-
--*who_gilles
-Oh !
-Je n'ai eu garde de me fier au point d'honneur.
-
--*who_lemaitre
 Sors de ma maison, infâme !
 
--*who_gilles
-Très volontiers.
-Je ne me soucie guère de servir un pareil maître.
+Oh ! Je n'en puis plus. Je suis moulu de coups. Je vais me mettre au lit. Qu'on aille me chercher un chirurgien !
 
--*who_lemaitre
-Oh !
-Je n'en puis plus.
-Je suis moulu de coups.
-Je vais me mettre au lit.
-Qu'on aille me chercher un chirurgien !
+Je voudrais bien savoir d'où vous venez, Messieurs les coquins. Il y a deux jours que vous n'avez pas paru dans la maison.
 
-**** *book_ *id_II01 *act_II *date_1714
+Ah ! Le vilain ivrogne ! Cela est bel et bon, mais je vous trouve bien insolents d'aller ainsi à la noce sans m'en demander la permission.
 
--*who_gilles
-Il faut avouer que je joue de malheur.
-Mon maître m'assomme parce que je laisse boire son vin à mon derrière, et il a l'esprit assez mal fait pour se fâcher quand je lui donne quelques coups de bâton pour s'être laissé voler sa bourse.
-Il fait plus, il me chasse de la maison.
-Après tout, je m'en bats les fesses.
-Jusqu'à ce que j'aie trouvé une autre condition, je vais me retirer chez ma femme.
-Nous ne sommes pas cependant trop bien ensemble.
-Eh bien !
-Je prendrai avec elle un ton caressant.
-Gillette !
-Gillette !
+Fût-ce la bastarde du diable ; voilà une belle parenté. Et encore vous me laissez avec Gilles, qui est un butor.
 
-**** *book_ *id_II02 *act_II *date_1714
-
--*who_gillette
-Qui est le butor qui frappe ainsi ?
-
--*who_gilles
-C'est moi, Gillette.
-
--*who_gillette
-Qui, toi ?
-
--*who_gilles
-Et, parbleu !
-C'est Gilles, le mari de Mme Gillette.
-
--*who_gillette
-Eh bien !
-Attends, je ne saurais t'ouvrir à présent.
-
--*who_gilles
-Pourquoi donc ?
-Qu'est-ce qui t'en empêche ?
-
--*who_gillette
-C'est que je suis en voyage.
-
--*who_gilles
-Comment, en voyage ?
-
--*who_gillette
-Oui, je suis actuellement dans l'île de Chio.
-
--*who_gilles
-Ma foi, je crois qu'elle dit vrai, cela ne sent pas trop bon.
-
--*who_gillette
-Eh bien !
-Me voilà ; que me veux-tu ?
-
--*who_gilles
-Bonjour, ma petite femme ; viens çà que je te baise.
-
--*who_gillette
-Ah !
-Le vilain !
-Comme il pue le vin !
-
--*who_gilles
-Oh !
-Mon trognon, tu ne t'y connais pas.
-Je n'ai bu d'aujourd'hui que de l'eau-de-vie.
-
--*who_gillette
-Chien d'ivrogne !
-Voilà à quoi tu employés tous tes gages.
-Va, va, je prierai Monsieur de Parlaventrebleu de ne pas te donner dorénavant un sol.
-
--*who_gilles
-Cela serait inutile, ma petite femme ; nous ne demeurons plus ensemble.
-
--*who_gillette
-Tu n'es plus à son service ?
-
--*who_gilles
-Non, je lui ai donné son congé avec quelques coups de bâton par-dessus le marché.
-
--*who_gillette
-Ah !
-Ah !
-Je ne m'étonne plus si tu fais tant le chien couchant.
-
--*who_gilles
-Ma foi, Gillette, tu te trompes.
-Si je te caresse, c'est que je t'aime, et tu sais bien que nous ne nous brouillons jamais ensemble que pour ta malpropreté.
-Je ne trouve jamais ton ménage bien rangé.
-
--*who_gillette
-Pardienne, tu es bien plaisant.
-Si tu ne le trouves pas bien, viens le faire toi-même.
-
--*who_gilles
-Mais ce n'est pas l'affaire d'un homme.
-
--*who_gillette
-Ne voilà t'il pas un plaisant galeux pour tant faire le monsieur ?
-
--*who_gilles
-Doucement, Gillette.
-Je suis un peu brutal, comme vous savez, et je pourrais bien appliquer sur ta face une giroflée à cinq feuilles qui te changerait la physionomie.
-
--*who_gillette
-Jour de Dieu !
-Tu n'es pas assez hardi pour cela.
-Je t'arracherais les yeux.
-
--*who_gilles
-Tais-toi, tais-toi.
-Tu n'es qu'une bavarde.
-
--*who_gillette
-Je babille moins que toi, si ce n'est quelquefois avec nos voisines.
-
--*who_gilles
-Ah !
-Oui, oui, avec nos voisines.
-Dis plutôt avec un certain voisin qui te...
-Baste !...
-Que je t'y attrape, je l'étrillerai en chien courant.
-
--*who_gillette
-Aïe !
-Aïe !
-Il faut filer doux.
-Va, tu ne sais ce que tu dis.
-Je le répète, tu n'es qu'un bavard.
-
--*who_gilles
-C'est toi qui n'es qu'une babillarde éternelle.
-
--*who_gillette
-Eh bien !
-Veux-tu faire un marché nous deux ?
-Tiens, pour te faire voir que je parle moins que toi, celui de nous qui parlera le premier fera le ménage.
-
--*who_gilles
-Je le veux bien.
-Oh !
-Parbleu !
-Je suis bien sûr que ce sera toi qui le feras.
-
--*who_gillette
-Nous allons voir.
-Mais écoute, Gilles, nous pouvons du moins nous expliquer par signes.
-
--*who_gilles
-Soit !
-Par signes !
-Et combien de temps garderons-nous le silence ?
-
--*who_gillette
-Autant que tu le voudras.
-
--*who_gilles
-Eh bien !
-Une heure.
-
--*who_gillette
-Va !
-Une heure.
-C'est pour en mourir, cependant !
-Mais, n'importe !
-
-**** *book_ *id_II03 *act_II *date_1714
-
--*who_lesuisse
-Ponne chour, ma petit cuir.
-Li fouloir que je li estre à toy, la petite pouchonne.
-Toi rire, ti moi ? fisache di piastre !
-Moi tonnir à toi une ponne soufflet à ta physonomie.
-Ah !
-Toi li être ponne garçonne.
-Toi li être par mon foy joulie.
-Ta fisache li estre sans façonnement.
-Li être pas comme la tisache de sti damoiselles di Paris.
-Moi li être content peaucoup plus que grandement di faire avec toi un petit l'épousement pour mon vie.
-Moi craindre pas le cocuage, vouloir encore pousser sti fille.
-Toi li être, par mon foi, la plus pelle meilleure himeur du monde.
-Toi li dire à moi un petite touceur.
-Ponne pour moi, un femme muette.
-Quand moi revenir à ma logement, je la trouvir touce comme un moutonne.
-Fienne donc toi avec moi, ma petit cuir.
-Par mon foi, moi tonnir à toi un soufflet sur ton face !
-Va trouvir un petit ménage qui aura la même ressemplement.
-Ponne chour, camerate.
-
--*who_gillette
-Au secours, Gilles...
-Gilles, à moi !
-Gilles...
-Gilles...
-Ah ! vilain coquin !
-Il faut que tu sois bien lâche pour souffrir que l'on me traite ainsi !
-
--*who_gilles
-Tu as parlé la première.
-Tu feras le ménage.
-
--*who_gillette
-Vilain gueux !
-Vilain ivrogne !
-
--*who_gilles
-Tu feras le ménage.
-
--*who_gillette
-Sac à vin !
-Infâme !
-
--*who_gilles
-Tu feras le ménage.
-
--*who_gillette
-Puisque ce vilain marsouin est si bête, je vais me venger de lui en le faisant lui-même porteur d'une lettre pour Monsieur Olibrius, mon amant.
-Ne songeons plus à ce misérable-là.
-Voici une lettre que Monsieur Stirlik-Berlik m'a chargée de faire remettre à notre voisin, Monsieur Olibrius.
-Il m'a dit qu'il y aurait un écu à gagner pour cette commission.
-J'en aurais chargé cet indigne, mais je vais la porter moi-même.
-
--*who_gilles
-Un écu pour le porteur de cette lettre ?
-Ah !
-Voyez donc comme elle la rendra !
-Va !
-Va !
-Je la porterai aussi bien que toi.
-
--*who_gillette
-Oh !
-Que non.
-
--*who_gilles
-Rentre seulement dans la maison et point de bruit.
-
--*who_gillette
-Voyez ce bélître qui m'empêche encore de gagner un écu.
-Je rentre seulement pour me recoiffer ; mais nous nous reverrons.
-Oh !
-L'animal !
-Oh !
-Le cheval !
-
-**** *book_ *id_II04 *act_II *date_1714
-
--*who_gilles
-Toc !
-Toc !
-Holà !
-Quelqu'un.
-
--*who_olibrius
-Qui est-ce qui heurte donc ainsi ?
-
--*who_gilles
-C'est moi, Monsieur.
-Il faut commencer par me donner un écu pour le port.
-
--*who_olibrius
-Eh !
-Je crois que c'est Monsieur Gilles, mon voisin.
-Et pour le port de quoi demandez-vous un écu ?
-
--*who_gilles
-Pour le port de cette lettre.
-Ma femme m'a dit qu'il y avait autant à gagner.
-
--*who_olibrius
-Il faut que ce soit quelque tour d'adresse de Madamoiselle Gillette, pour me faire tenir un billet.
-Mais, mon ami, faut-il encore que je sache de quoi il s'agit et de quelle part vient cette lettre.
-
--*who_gilles
-De la part de Monsieur Stirlik-Berlik.
-
--*who_olibrius
-Je ne me trompe pas.
-C'est une tromperie de ma maîtresse.
-Mon voisin, quand j'aurai lu la lettre, tu auras l'écu, si la lettre le dit.
-
--*who_gilles
-Ah !
-Bon, cela.
-
--*who_olibrius
-Vous êtes bien curieux, mon ami.
-
--*who_gilles
-Monsieur, outre l'écu promis, j'ai encore des raisons pour savoir ce que contient cette lettre.
-
--*who_olibrius
-Je vais lui jouer d'un tour à quoi il ne s'attend pas.
-Eh bien ! mon voisin, il faut vous satisfaire.
-« Monsieur, vous m'avez offensé dans l'honneur, et je veux vous voir l'épée à la main.
-Mais, comme j'ai pris médecine aujourd'hui et que je ne puis me battre, ce sera, s'il vous plaît, contre le porteur que vous aurez à faire.»
-
--*who_gilles
-Contre le porteur ?
-Cet homme est fou.
-À propos de quoi me battre, moi ?
-
--*who_olibrius
-Attendez, mon ami.
-« C'est un brave garçon !
-Cependant, comme il est journalier, s'il refusait de mesurer son épée contre la vôtre...»
-
--*who_gilles
-Il ne faut pas être bien brave pour mesurer deux épées et voir quelle est la plus longue.
-
--*who_olibrius
-« Avec une douzaine de coups de bâton vous viendrez à bout d'échauffer sa bile.
-En cas que vous ne soyez pas content de son procédé, vous pouvez l'assommer ou lui couper la tête.
-Je prends le tout sur mon compte et suis votre ennemi.» «Stirlik-Berlik.»
-
--*who_gilles
-Qu'est-ce que cela veut dire ?
-Il ne parle pas de me donner un écu.
-
--*who_olibrius
-Au contraire, mon ami, tu l'as entendu, il faut te battre contre moi.
-
--*who_gilles
-Mais je ne connais pas Stirlik-Berlik, et je ne vous ai jamais offensé.
-
--*who_olibrius
-N'es-tu pas porteur de cette lettre ?
-
--*who_gilles
-Oui !
-Qu'est-ce que cela fait ?
-
--*who_olibrius
-Qu'est-ce que cela fait ?
-Tu vas le voir.
-Allons, morbleu !
-L'épée à la main.
-
--*who_gilles
-Attendez donc.
-Je n'en ai pas ; et, d'ailleurs, je ne veux pas me battre.
-
--*who_olibrius
-Cela étant ainsi, il faut avoir recours au remède.
-
--*who_gilles
-Ahi !
-Ahi !
-Ahi !
-Gillette, Gillette, au secours !
-
-**** *book_ *id_II05 *act_II *date_1714
-
--*who_gillette
-Qu'y a-t-il donc ?
-Tu cries comme un homme que l'on assomme.
-
--*who_gilles
-Eh !
-Parguenne, je crois que c'est à peu près la même chose.
-Tu me bailles là une bonne commission.
-
--*who_gillette
-Qu'est-ce à dire ?
-
--*who_gilles
-Il faut que je me batte l'épée à la main contre Monsieur Olibrius !
-La lettre le dit.
-
--*who_gillette
-Eh bien, poltron, tu recules dans une affaire d'honneur ?
-Je me battrai, moi.
-
--*who_olibrius
-Ah !
-Mademoiselle, je veux bien faire assaut avec vous, mais ce ne sera pas avec ces armes-là.
-
--*who_gillette
-Trêve de plaisanterie, Monsieur ; je ne l'entends pas, moi, et je vous aurai bientôt donné votre reste.
-
--*who_olibrius
-Oh !
-Mademoiselle, je le crois bien.
-
--*who_gillette
-Lâche que tu es !
-Vois-tu comme je lui fais peur !
-Ce n'est qu'un poltron.
-
--*who_gilles
-Si j'en étais sûr !
-
--*who_gillette
-Tu es cent fois plus méchant que lui.
-D'ailleurs, je sais à n'en point douter que la lame de son épée n'est que de plomb et la garde de fer-blanc.
-
--*who_gilles
-Queu conte !
-
--*who_gillette
-Il n'y a pas de conte.
-Je vais te chercher une épée.
-Je veux absolument que tu te battes contre lui.
-
--*who_gilles
-Si les choses sont comme tu le dis, je me battrai sûrement.
-
--*who_olibrius
-Eh bien !
-Ce dialogue-là finira-t-il ?
-
--*who_gillette
-Attendez, attendez, Monsieur le rodomont.
-Vous allez voir beau jeu.
-
--*who_gilles
-Oh !
-Oh !
-Nous ne vous craignons pas.
-
--*who_gillette
-Tiens, voilà une bonne épée.
-Allons, du courage !
-
--*who_gilles
-Cela est bien aisé à dire.
-
--*who_olibrius
-Ah !
-C'en est trop, je veux abattre la tête à ce coquin-là.
-
--*who_gilles
-Gillette !
-C'est bien le diable, il veut me couper la tête.
-
--*who_gillette
-Tu n'es qu'un sot.
-Mets l'épée à la main.
-Tu verras qu'il fuira aussitôt.
-
--*who_gilles
-Allons !
-Morbleu...
-Gillette, il ne s'enfuit pas !
-
--*who_olibrius
-Voilà bien des raisons.
-
--*who_gilles
-Tenez, Monsieur, j'ai une proposition à vous faire ; je ne demande pas mieux que de me battre, mais je ne puis le faire de sens froid.
-
--*who_olibrius
-Ah !
-Qu'à cela ne tienne ; je vais échauffer ta bile.
-Allons, coquin, maraud, infâme, lâche, poltron !
-
--*who_gilles
-Oh !
-Tout cela ne me fâche pas.
-
--*who_olibrius
-Non ?
-Eh bien !
-Je sais un autre moyen de te mettre en colère.
-
--*who_gilles
-Oh !
-Passe pour cela.
-Pour le coup, tu vas voir beau jeu.
-Comment nous battrons-nous ?
-
--*who_olibrius
-Mais seul à seul.
-
--*who_gilles
-Va, seul à seul.
-
--*who_olibrius
-Que fais-tu donc ?
-
--*who_gilles
-Je me bats seul à seul.
-
--*who_olibrius
-Ce n'est pas ainsi que je l'entends.
-
--*who_gilles
-Parguenne !
-Cela m'accommode, moi ; et il y aura bien du malheur si je suis blessé de cette manière.
-
--*who_olibrius
-Allons, mon ami, trêve à la plaisanterie.
-
--*who_gilles
-Attendez donc ; vous poussez comme un diable.
-Tenez, afin de n'avoir pas d'avantage l'un sur l'autre, marquons une raie sur le plancher.
-
--*who_olibrius
-Volontiers.
-
--*who_gilles
-Voilà mon chapeau qui servira de raie.
-
--*who_olibrius
-Va !
-Avance donc.
-
--*who_gilles
-Quel niais !
-
--*who_olibrius
-Comment, misérable !...
-
--*who_gilles
-Prends garde à la raie...
-Mais, parguenne !
-Vous êtes un drôle de brave ; votre épée est plus longue que la mienne de deux pieds.
-
--*who_olibrius
-Je n'en crois rien.
-
--*who_gilles
-Voyons, voyons.
-
--*who_olibrius
-Je t'en fais juge toi-même.
-Voilà mon épée.
-
--*who_gilles
-Ah !
-Ah !
-Poltron.
-
--*who_olibrius
-Mais, Gilles...
-
--*who_gilles
-Vous fuyez, coquin...
-
--*who_olibrius
-Ah ! c'en est trop !
-Je ne veux que le fourreau de mon épée pour lui faire peur.
-Attends, coquin, voilà une autre épée.
-
--*who_gilles
-Gillette !
-Gillette !
-Vite, au secours !
-
-**** *book_ *id_II06 *act_II *date_1714
-
--*who_gillette
-Eh bien !
-Que me veux-tu ?
-
--*who_gilles
-Vois-tu comme il me pousse !
-Arrête-le donc.
-
--*who_gillette
-Attends, attends.
-
--*who_olibrius
-Ah !
-Traîtresse !
-Lâchez-moi.
-
--*who_gilles
-Ne le lâche pas, au contraire.
-Pousse la porte.
-Diable !
-Ma vie en dépend.
-
--*who_gillette
-Ne crains rien, j'ai mis les verrous.
-
--*who_gilles
-Ce n'est pas assez.
-Ferme la serrure à double tour.
-
--*who_gillette
-Sauve-toi, Gilles, c'est le plus court.
-Il est si furieux qu'il veut sauter par la fenêtre.
-
--*who_gilles
-Ma foi, sauvons-nous, c'est un diable que cet homme-là.
-
-**** *book_ *id_III01 *act_III *date_1714
-
--*who_lemaitre
-Je voudrais bien savoir d'où vous venez, Messieurs les coquins.
-Il y a deux jours que vous n'avez pas paru dans la maison.
-
--*who_sansquartier
-Monsieur, excusez, s'il vous plaît.
-C'est que la bastarde de la cousine de Monsieur Divertissant a été mariée à Saint-Denis, et, comme il a été prié de la noce, et moi aussi, nous n'avons pas voulu refuser l'honneur qu'on nous a fait.
-
--*who_divertissant
-Oui, Monsieur, nous en arrivons dans le moment.
-La mariée a voulu que la noce se fît à Saint-Denis, à cause de la grande mesure.
-Ah !
-Pardi, nous y avons bu comme des trous.
-Heu !
-
--*who_lemaitre
-Ah !
-Le vilain ivrogne !
-Cela est bel et bon, mais je vous trouve bien insolents d'aller ainsi à la noce sans m'en demander la permission.
-
--*who_sansquartier
-Considérez, Monsieur, que c'est la bastarde de sa cousine.
-
--*who_lemaitre
-Fût-ce la bastarde du diable ; voilà une belle parenté.
-Et encore vous me laissez avec Gilles, qui est un butor.
-
--*who_divertissant
-Oh !
-Pour cela, oui, Monsieur.
-
--*who_lemaitre
 Une franche bête.
 
--*who_sansquartier
-Vous avez raison.
-
--*who_lemaitre
 Un imbécile que, pour ses impertinences, j'ai été obligé de chasser.
 
--*who_divertissant
-Ah !
-Que vous avez bien fait !
-D'ailleurs, c'était un ivrogne...
-Heu !...
-
--*who_sansquartier
-Qu'appelles-tu bien fait !
-Il s'agit de savoir pourquoi Monsieur l'a mis dehors.
-
--*who_lemaitre
 Comment ?
 
--*who_sansquartier
-Oui, Monsieur, on ne chasse pas ainsi un honnête garçon, et vous nous en direz, s'il vous plaît, la raison.
+Je vous en dirai la raison ? Mais voilà des manants bien insolents !
 
--*who_lemaitre
-Je vous en dirai la raison ?
-Mais voilà des manants bien insolents !
-
--*who_divertissant
-Mon camarade parle juste...
-Vous nous la direz ou vous aurez beau jeu.
-
--*who_lemaitre
 Mais je crois que ces coquins-là ont perdu l'esprit.
 
--*who_divertissant
-Cela se pourrait, Monsieur, parce que Sans-Quartier et moi nous en avons.
-Mais, pour vous, vous n'êtes pas dans ce cas.
+Oh ! C'est pousser l'impudence au dernier point. Parbleu, faquins, je vous apprendrai à qui vous parlez. Hors d'ici, et ne vous avisez jamais de remettre les pieds chez moi.
 
--*who_lemaitre
-Oh !
-C'est pousser l'impudence au dernier point.
-Parbleu, faquins, je vous apprendrai à qui vous parlez.
-Hors d'ici, et ne vous avisez jamais de remettre les pieds chez moi.
-
--*who_sansquartier
-Non, Monsieur, nous ne sortirons pas comme cela.
-
--*who_lemaitre
 Vous ne sortirez pas ?
 
--*who_divertissant
-N'avez-vous pas chassé Gilles ?
-
--*who_lemaitre
 Sans doute.
 
--*who_divertissant
-Vous nous renvoyez aussi ?
-
--*who_lemaitre
 Assurément !
 
--*who_divertissant
-Eh bien ! il faut que Jacqueline sorte avec nous.
+Jacqueline, je m'en garderai bien. C'est une fille sage, raisonnable.
 
--*who_lemaitre
-Jacqueline, je m'en garderai bien.
-C'est une fille sage, raisonnable.
+Ah ! Ah ! Ceci est plaisant ! Et quelle autorité avez-vous donc sur Jacqueline ?
 
--*who_sansquartier
-Cela n'est pas vrai, Monsieur ; et nous ne voulons pas qu'elle reste davantage dans votre chienne de maison.
+Comment ? C'est votre femme à tous deux ?
 
--*who_lemaitre
-Ah !
-Ah !
-Ceci est plaisant !
-Et quelle autorité avez-vous donc sur Jacqueline ?
+Insolents ! Je ne sais à quoi il tient que je ne vous donne cent coups de bâton.
 
--*who_sansquartieretdivertissant
-C'est ma femme, Monsieur.
+Ah ! Vous osez me défier, marauds que vous êtes ! Je vous apprendrai à me connaître ! Hors d'ici, coquins !
 
--*who_lemaitre
-Comment ?
-C'est votre femme à tous deux ?
-
--*who_divertissant
-Oui, Monsieur, nous l'avons épousée aux Porcherons, et nous la servons par quartiers.
-
--*who_lemaitre
-Insolents !
-Je ne sais à quoi il tient que je ne vous donne cent coups de bâton.
-
--*who_sansquartier
-Vous n'êtes pas assez hardi pour cela, entendez-vous ?
-
--*who_lemaitre
-Ah !
-Vous osez me défier, marauds que vous êtes !
-Je vous apprendrai à me connaître !
-Hors d'ici, coquins !
-
--*who_sansquartier
-Ahi !
-Ahi !
-Ahi !
-
--*who_divertissant
-Au secours !
-Au guet !
-À la livrée !
-
--*who_lemaitre
 Ah ! je vous étrillerai sur le ventre et partout.
 
-**** *book_ *id_III02 *act_III *date_1714
+Quel est l'insolent qui heurte de cette manière et qui ose dire holà ! Hé ! En frappant à ma porte ?
 
--*who_sansquartier
-Ne nous voilà pas mal, à présent.
-De quoi diable aussi t'avises-tu de parler de Jacqueline ?
-
--*who_divertissant
-Il est vrai, j'ai tort !
-Le diable emporte la chienne de noce et la bastarde de la cousine !
-Nous voilà donc hors de condition.
-
--*who_sansquartier
-Parbleu, mon ami, il faut s'en consoler.
-Voici justement Gilles.
-Il est dans le même cas que nous.
-
-**** *book_ *id_III03 *act_III *date_1714
-
--*who_gilles
-Morguenne !
-J'ai fait une sottise.
-
--*who_sansquartier
-Eh !
-Bonjour, camarade ; comment va la joie ?
-
--*who_gilles
-Mal !
-Vous êtes bien heureux, vous autres, d'être toujours chez Monsieur de Parlaventrebleu.
-Moi, il m'a chassé pour une bouteille de vin grec.
-
--*who_divertissant
-Ma foi, mon ami, il nous a aussi mis à la porte.
-
--*who_gilles
-Sérieusement ?
-
--*who_sansquartier
-Oui, ma foi.
-Mais, à propos, il ne nous a pas payé nos gages !
-
--*who_gilles
-Parguenne !
-Vous m'en faites ressouvenir.
-Il ne m'a donné à compte qu'une volée de coups de bâton !
-
--*who_divertissant
-Cela n'a point de cours au marché.
-Mais les lui as-tu demandés, tes gages ?
-
--*who_gilles
-Non.
-
--*who_sansquartier
-Ni nous non plus.
-
--*who_divertissant
-Il n'est pas dans son tort.
-Il faut aller les lui demander.
-Mais un seul de nous doit porter la parole.
-
--*who_sansquartier
-Eh bien !
-Ce sera moi, et vous verrez de quelle manière je m'y prendrai.
-Éloignez-vous seulement un peu.
-Je vais heurter à sa porte.
-
-**** *book_ *id_III04 *act_III *date_1714
-
--*who_sansquartier
-Holà !
-Hé !
-Quelqu'un ?
-
--*who_lemaitre
-Quel est l'insolent qui heurte de cette manière et qui ose dire holà !
-Hé !
-En frappant à ma porte ?
-
--*who_sansquartier
-C'est moi, Monsieur.
-
--*who_lemaitre
 Comment, faquin, vous osez me parler le chapeau sur la tête !
 
--*who_sansquartier
-Pourquoi ne l'aurais-je pas ?
-Je ne suis plus votre domestique.
+Ah ! Maraud, je vous apprendrai le respect que vous me devez.
 
--*who_lemaitre
-Ah !
-Maraud, je vous apprendrai le respect que vous me devez.
-
--*who_sansquartier
-Doucement, Monsieur ; je suis brutal, je vous en avertis.
-
--*who_lemaitre
 Et moi, je vais vous montrer comme je traite les brutaux.
 
-**** *book_ *id_III05 *act_III *date_1714
-
--*who_divertissant
-Ah bien !
-As-tu reçu quelque chose ?
-
--*who_sansquartier
-Oui.
-
--*who_gilles
-Allons, morbleu, de la joie.
-Allons !
-Allons!
-Allons à la guinguette, allons !
-
--*who_divertissant
-As-tu de l'argent ?
-
--*who_sansquartier
-Ma foi, non.
-
--*who_gilles
-Ni moi non plus.
-
--*who_divertissant
-Mais tu nous as dit que tu avais reçu...
-
--*who_sansquartier
-Oui, des coups de bâton.
-
--*who_gilles
-Va-t'en au diable !
-De quelle manière lui as-tu donc parlé ?
-
--*who_sansquartier
-D'un ton ferme et même un peu insolent.
-
--*who_divertissant
-Tu as tort !
-Il fallait user de politesse.
-Laisse-moi faire.
-J'y vais, moi, et j'espère que je ne reviendrai pas les mains vides.
-
--*who_sansquartier
-Vas-y donc.
-Nous verrons si tu réussiras mieux que moi.
-Nous t'attendons ici près.
-
-**** *book_ *id_III06 *act_III *date_1714
-
--*who_divertissant
-Toc, toc, toc.
-
--*who_lemaitre
 Qui heurte ?
 
--*who_divertissant
-Monsieur, c'est votre petit serviteur.
-
--*who_lemaitre
 Voilà un ton bien soumis.
 
--*who_divertissant
-Monsieur, c'est que je sais vivre.
-Sans-Quartier ne sait pas éplucher ses paroles.
-Pour moi, Monsieur, je me flatte que vous voudrez bien me faire l'honneur de me faire la grâce d'écouter mes raisons.
+Oh ! Oh ! Voilà du brillant. Écoutons !
 
--*who_lemaitre
-Oh !
-Oh !
-Voilà du brillant.
-Écoutons !
-
--*who_divertissant
-Monsieur, Aristote dit que quand on quitte le maréchal on paye les vieux fers.
-
--*who_lemaitre
 Je n'ai jamais lu cela dans Aristote.
 
--*who_divertissant
-Cela y est pourtant.
-Or, est-il, Monsieur ; prenez par comparaison que Sans-Quartier, Gilles et moi, nous sommes les maréchaux, et vous le cheval...
-Vous voyez bien la conséquence de mon raisonnement, et il faut que vous nous payiez.
-
--*who_lemaitre
 Cela est juste, et je vais payer vos comparaisons ce qu'elles méritent.
 
-**** *book_ *id_III07 *act_III *date_1714
-
--*who_sansquartier
-Il me semble que tu n'es pas content ?
-
--*who_divertissant
-Non, cet homme-là n'aime pas les comparaisons.
-Il y avait, pourtant, bien de l'esprit dans ce que je lui disais.
-Je n'y comprends rien.
-Sans-Quartier l'a abordé d'un ton brusque ; il l'a rossé; moi, d'un air doucereux, et avec toute la politesse possible.
-Il m'a battu.
-Comment donc faut-il s'y prendre ?
-
--*who_gilles
-J'en viendrai à bout, moi.
-Vous allez voir.
-Il faut prendre un ton aigre-doux.
-Éloignez-vous.
-
-**** *book_ *id_III08 *act_III *date_1714
-
--*who_gilles
-Holà !
-Quelqu'un !
-Est-ce qu'il n'y a personne ici ?
-Ventre tête bleue !
-
--*who_lemaitre
 Qui est là ?
 
--*who_gilles
-Ah !
-Monsieur, je suis votre valet.
-C'est Monsieur Gilles Bambinois Cadet L'Aîné qui vient pour vous faire, avec votre permission, une petite prière.
+Voilà parler, cela. Eh bien ! De quoi s'agit-il, mon ami ?
 
--*who_lemaitre
-Voilà parler, cela.
-Eh bien !
-De quoi s'agit-il, mon ami ?
+Ah ! Doucement, doucement, Monsieur Gilles. Point de colère.
 
--*who_gilles
-D'une bagatelle.
-De payer nos gages, à mes camarades et à moi...
-Sinon, par la mort !...
-
--*who_lemaitre
-Ah !
-Doucement, doucement, Monsieur Gilles.
-Point de colère.
-
--*who_gilles
-Il a peur.
-Courage !
-Savez-vous bien, Monsieur, avec tout le respect que je vous dois, que si vous ne nous donnez de l'argent, et tout à l'heure, je suis homme à mettre le feu.
-
--*who_lemaitre
 À mettre le feu ?
 
--*who_gilles
-Oui !
-À mettre le feu !
-Ah !
-Ah!
-Vous ne me connaissez pas encore !
+À mettre le feu ? Faquin ! À mettre le feu, misérable !
+À mettre le feu, infâme ! À ma maison, apparemment !
 
--*who_lemaitre
-À mettre le feu ?
-Faquin !
-À mettre le feu, misérable !
-À mettre le feu, infâme !
-À ma maison, apparemment !
+Ah ! Quand on s'y prend ainsi, encore passe ; je vois bien que tout ce que vous avez dit et le ton que vous avez pris est une pure plaisanterie.
 
--*who_gilles
-Ah !
-Que non, Monsieur, à un fagot, au premier cabaret, pour nous chauffer ; car nous enrageons de froid, mes camarades et moi ; et, si vous voulez bien, sauf votre respect, nous bailler, à-compte, quelque petite monnaie...
+Je le voyais bien. Et quelle espèce voulez-vous ? Est-ce de la monnaie courante ou de la monnaie de poids ?
 
--*who_lemaitre
-Ah !
-Quand on s'y prend ainsi, encore passe ; je vois bien que tout ce que vous avez dit et le ton que vous avez pris est une pure plaisanterie.
-
--*who_gilles
-Oh !
-Pour cela, oui, Monsieur, je suis très plaisant de mon naturel.
-
--*who_lemaitre
-Je le voyais bien.
-Et quelle espèce voulez-vous ?
-Est-ce de la monnaie courante ou de la monnaie de poids ?
-
--*who_gilles
-Mais, Monsieur, je crois qu'il n'y a pas de mal à ce qu'elle soit de poids.
-Mais dépêchez-vous, car si une fois la cervelle s'échauffe...
-
--*who_lemaitre
-Oh !
-Puisque vous êtes si vif, il faut vous payer sans attendre.
-Tenez, voilà de la monnaie de poids.
+Oh ! Puisque vous êtes si vif, il faut vous payer sans attendre. Tenez, voilà de la monnaie de poids.
 Partagez cela avec vos camarades.
 
--*who_gilles
-Je n'y manquerai pas, Monsieur.
+Parbleu, je viens de faire un plaisant rêve. Je m'imaginais que trois coquins à pendre conspiraient contre ma vie. L'un proposait de me faire casser le col en semant des pois sur mon escalier ; le second, en perçant un bateau sur lequel il supposait que je monterais pour aller à la pêche ; un autre, en enlevant la lunette des commodités et en lui substituant une lunette de papier gris.
 
-**** *book_ *id_III09 *act_III *date_1714
+Ah ! Ah ! Vous voilà, Messieurs, je ne vous voyais pas. Tenez, ces trois fripons vous ressemblaient comme deux gouttes d'eau.
 
--*who_sansquartier
-Eh bien !
-Comment t'es-tu tiré d'affaire ?
-
--*who_gilles
-À merveille, j'ai reçu de la monnaie de poids, et vous en aurez votre part.
-
--*who_divertissant
-Cela est juste.
-
--*who_gilles
-Je n'ai pas reçu d'autre argent.
-
--*who_sansquartier
-Que la peste te crève avec tes mauvaises plaisanteries !
-Mais, après tout, il nous faut de l'argent; et, puisque nous avons à faire à un homme si peu raisonnable, il faut lui faire un mauvais parti.
-
--*who_divertissant
-Tu as raison.
-J'imagine une chose toute simple.
-Il faut ici guetter Jacqueline.
-La première fois qu'elle sortira de la maison, je l'aborderai, et pendant que je l'amuserai, vous irez semer des pois sur l'escalier de Monsieur de Parlaventrebleu.
-Quand elle sera rentrée dans sa cuisine, nous heurterons fortement à la porte.
-Elle n'ouvrira pas.
-Le maître, impatient, voudra descendre pour voir qui heurte.
-Il tombera du haut en bas de l'escalier et se rompra le col.
-
--*who_sansquartier
-Cela ne vaut rien.
-On trouvera les pois ; on s'informera qui les a semés.
-Nous serons arrêtés et peut-être envoyés aux galères.
-Je pense à quelque chose de mieux.
-Monsieur de Parlaventrebleu aime la pêche.
-Il faut nous déguiser en bateliers.
-Il a la vue basse ; il ne nous reconnaîtra pas.
-Il entrera dans notre bateau, que nous aurons auparavant percé de toutes parts et rebouché avec du liège.
-Au milieu de la rivière, dans l'endroit le plus profond, nous ôterons les bouchons.
-L'eau pénétrera dans le bateau ; il ira bientôt à fond...
-Et...
-
--*who_gilles
-Voilà ce qui s'appelle avoir de l'esprit, cela !
-
--*who_divertissant
-Fort bien !
-Et nous serons tous trois dans le bateau ?
-
--*who_sansquartier
-Sans doute.
-
--*who_divertissant
-Et vous savez l'un et l'autre nager, apparemment ?
-
--*who_gilles
-Comme une pierre.
-
--*who_sansquartier
-Et moi à peu près de même.
-
--*who_divertissant
-Vous voyez bien, mon ami, que vous raisonnez comme un cheval, et que nous nous noyerons tous, de compagnie.
-
--*who_gilles
-Divertissant a raison.
-Oh !
-Morguenne !
-C'est moi, pour le coup, qui ai trouvé une bonne manière de nous venger.
-Cela part de là.
-Écoutez-moi bien.
-Notre maître, comme vous savez, relève de maladie, et il lui est resté un petit bénéfice de ventre.
-Je m'introduirai dans la maison par le moyen de Jacqueline ; j'ôterai la lunette des commodités qui sont dans la cour.
-À sa place, j'en mettrai une qui ne sera que de papier brouillard.
-Quand il viendra pour se mettre dessus, voilà mon bigre qui dégringolera jusqu'au fond de la fosse.
-
--*who_divertissant
-Notre maître ne sera pas assez imbécile pour se laisser ainsi attraper.
-
--*who_gilles
-Trouve donc un meilleur expédient ?
-
--*who_divertissant
-Oui-dà !
-Je viens d'en imaginer un contre lequel la justice ne saurait mordre sur nous, et je vous garantis mon homme mort, pourvu que nous trouvions quelqu'un qui ait l'haleine assez forte pour cela.
-
--*who_gilles
-Qu'appelles-tu la laine ?
-
--*who_divertissant
-Le souffle !
-Le vent !
-
--*who_gilles
-S'il ne s'agit que de cela, je suis bien votre affaire.
-
--*who_divertissant
-Eh bien !
-Mon ami, nous nous cacherons, Sans-Quartier et moi, aux deux côtés de la porte du maître.
-Sitôt qu'il sortira nous l'arrêterons, nous lui mettrons la culotte bas...
-
--*who_gilles
-Cela est bien imaginé.
-
--*who_divertissant
-Toi, Gilles, tu lui souffleras au derrière jusqu'à ce que l'âme lui sorte par la bouche.
-La justice ne viendra pas fourrer son nez là.
-
--*who_gilles
-Va-t'en au diable, avec ton expédient.
-Souffles-y toi-même.
-
-**** *book_ *id_III10 *act_III *date_1714
-
--*who_lemaitre
-Parbleu, je viens de faire un plaisant rêve.
-Je m'imaginais que trois coquins à pendre conspiraient contre ma vie.
-L'un proposait de me faire casser le col en semant des pois sur mon escalier ; le second, en perçant un bateau sur lequel il supposait que je monterais pour aller à la pêche ; un autre, en enlevant la lunette des commodités et en lui substituant une lunette de papier gris.
-
--*who_gilles
-Monsieur, votre serviteur.
-J'ai entendu tout ce que vous venez de dire.
-Et vous avez fait effectivement ce rêve-là ?
-
--*who_lemaitre
-Ah !
-Ah !
-Vous voilà, Messieurs, je ne vous voyais pas.
-Tenez, ces trois fripons vous ressemblaient comme deux gouttes d'eau.
-
--*who_gilles
-Celui-là n'a-t-il pas la physionomie du semeur de pois ?
-
--*who_lemaitre
 Justement.
 
--*who_gilles
-Et celui-ci n'a-t-il pas un peu l'air du batelier ou du pêcheur ?
-
--*who_lemaitre
 Oui, vraiment, et je trouve dans les traits de ton visage tous ceux du lunetier de papier brouillard.
 
--*who_gilles
-Cela est fort plaisant.
+Mais ce qui m'a le plus réjoui dans mon rêve, c'est la proposition que l'un d'eux a faite de me faire mourir d'une façon très comique. Qu'en dis-tu, mon ami ?
 
--*who_lemaitre
-Mais ce qui m'a le plus réjoui dans mon rêve, c'est la proposition que l'un d'eux a faite de me faire mourir d'une façon très comique.
-Qu'en dis-tu, mon ami ?
-
--*who_gilles
-Ah !
-Monsieur, je ne suis pas complice de cette mort-là.
-Je n'ai jamais voulu souffler.
-Mais, Monsieur, en conscience, vous avez fait véritablement ce rêve-là ?
-
--*who_lemaitre
 Oui, vraiment, mais je ne l'ai pas achevé.
 
--*who_sansquartier
-Peut-on, Monsieur, vous demander ce qui y manque ?
-
--*who_lemaitre
 C'est de donner cent coups de bâton à ces trois coquins-là.
 
-**** *book_ *id_III11 *act_III *date_1714
-
--*who_sansquartier
-Ne nous voilà pas mal avec notre chienne de conspiration !
-Ma foi, nous avons fait une sottise.
-Mais il faut tâcher de la réparer.
-
--*who_gilles
-Comment faire ?
-
--*who_divertissant
-Nous ne sommes pas capables de faire entendre raison à cet homme-là.
-Il faudrait trouver quelqu'un qui pût en venir à bout.
-
--*who_gilles
-Oui ; mais c'est là le difficile.
-
--*who_sansquartier
-Il me vient une idée.
-Il faut lui mettre un docteur en tête.
-
--*who_divertissant
-C'est bien imaginé ; mais as-tu de l'argent pour donner à ce docteur ?
-
--*who_sansquartier
-Non.
-
--*who_divertissant
-Ni moi.
-
--*who_gilles
-Pour moi, je n'ai pas la maille.
-
--*who_divertissant
-Nous voilà bien embarrassés.
-Il faut que l'un de nous se déguise en docteur.
-Le maître ne voit pas trop clair, il ne nous reconnaîtra pas.
-
--*who_sansquartier
-Fort bien.
-Ce sera donc toi qui fera le rôle.
-
--*who_divertissant
-Non.
-Il faudrait avoir une figure qui en imposât.
-
--*who_sansquartier
-Comme Gilles, par exemple ?
-
--*who_gilles
-Ne pensez pas rire, Messieurs.
-Il n'y a pas un de vous qui me vaille.
-
--*who_sansquartier
-Eh bien !
-Ce sera donc toi qui feras le docteur.
-
--*who_gilles
-Docteur toi-même !
-Parbleu, je ne sais ni lire ni écrire.
-
--*who_divertissant
-Cela n'y fait rien.
-Avec une robe, tout ce qu'il faut pour te déguiser et quatre mots de mauvais latin tu feras ton personnage à merveille.
-Et puis, nous te soufflerons !
-
--*who_gilles
-Oui-da !
-Pour me faire mourir.
-
--*who_sansquartier
-Non, non, Gilles, ce ne sera pas de cette façon.
-Habillons-le toujours.
-
--*who_divertissant
-Le compère Retourné, Monsieur fripier, notre voisin, nous prêtera bien une robe.
-J'en vois une pendue à sa boutique.
-
--*who_gilles
-Mais je crains les coups de bâton.
-
--*who_divertissant
-Il n'y a rien à appréhender.
-On ne bat pas impunément un docteur.
-
--*who_sansquartier
-Tiens, voilà tout l'équipage.
-
--*who_gilles
-Me voilà plaisamment fagoté.
-Et le latin ?
-
--*who_sansquartier
-Je vais t'apprendre d'excellent latin.
-Il faudra le prononcer d'un ton grave.
-Écoute bien : Ego.
-
--*who_gilles
-Pourquoi m'appelles-tu nigaud ?
-
--*who_sansquartier
-Je ne te dis pas cela.
-Je dis : Ego !
-
--*who_gilles
-Nego ?
-
--*who_sansquartier
-Ego.
-
--*who_gilles
-Ergo ?
-
--*who_sansquartier
-Ego, ego, ego !
-Bête que tu es !
-
--*who_gilles
-Ego, ego, ego, bête que tu es !
-Mais c'est là du français.
-
--*who_sansquartier
-Sum.
-
--*who_gilles
-Je t'assomme ?...
-Va-t'en au diable !
-
--*who_sansquartier
-Sum doctor.
-
--*who_gilles
-Doctor !
-
--*who_sansquartier
-Doctorantibus, payantibus.
-
--*who_gilles
-Doctorantibus, payantibus.
-
--*who_sansquartier
-A Sanquartieribus.
-
--*who_gilles
-A Sanquartieribus.
-
--*who_sansquartier
-Divertissantibus et Gilantibus.
-
--*who_gilles
-Divertissantibus et Gilantibus.
-La peste !
-Voilà de beau latin, à ce qu'il me paraît !
-
--*who_divertissant
-Il est très énergique.
-Or çà !
-Es-tu bien sûr de ton rôle, en te soufflant ?
-
--*who_gilles
-Heurte seulement.
-Tu verras si j'ai de l'esprit.
-Mais soufflez-moi bien tous deux.
-
--*who_divertissant
-Ne t'embarrasse de rien.
-
-**** *book_ *id_III12 *act_III *date_1714
-
--*who_sansquartier
-Toc !
-Toc !
-Toc !
-
--*who_lemaitre
 Qui est là ?
 
--*who_sansquartier
-Monsieur, c'est votre très humble serviteur.
-
--*who_lemaitre
 Encore !
 
--*who_divertissant
-Ah !
-Monsieur, ne vous fâchez pas, s'il vous plaît, et écoutez-moi.
-Nous avons connu que nous n'étions que des bêtes et que nous n'avions pas assez d'esprit pour entrer en conversation avec vous au sujet de nos gages, et, pour cet effet, nous nous sommes proposé de vous mettre un docteur en tête.
-
--*who_lemaitre
 Un docteur en tête ?
 
--*who_sansquartier
-Oui, Monsieur ; un docteur qui sait lire et écrire.
+Oh ! Oh !
 
--*who_lemaitre
-Oh !
-Oh !
-
--*who_sansquartier
-Nous espérons que vous voudrez bien que nous vous le présentions.
-
--*who_lemaitre
 Quand vous m'amènerez un homme raisonnable, encore passe...
 
--*who_divertissant
-Je vais donc le faire entrer, Monsieur.
+Très volontiers. Je l'écouterai avec plaisir.
 
--*who_lemaitre
-Très volontiers.
-Je l'écouterai avec plaisir.
-
--*who_divertissant
-Avancez, Monsieur le docteur.
-C'est à Monsieur à qui il faut porter la parole.
-
-**** *book_ *id_III13 *act_III *date_1714
-
--*who_gilles
-Ego.
-
--*who_sansquartier
-Sum.
-
--*who_gilles
-Sum.
-
--*who_sansquartier
-Doctor, doctorantibus.
-
--*who_lemaitre
 Avec votre permission, Monsieur le docteur, j'ai oublié de dire quelque chose dans ma maison.
 Qu'on l'arrête, qu'on lui coupe la gorge..., qu'on le jette dans l'eau bouillante, qu'on lui arrache poil à poil...
 
--*who_gilles
-Entends-tu tout ce qu'il dit ?...
-Quelque sot qui ira haranguer cet homme-là !
-
--*who_divertissant
-Eh !
-Ne vois-tu pas bien qu'il s'agit apparemment du cochon de lait qu'on lui a envoyé il y a trois jours.
-Tu t'effrayes de rien.
-Qu'on le jette dans l'eau bouillante ; c'est pour le peler.
-
--*who_gilles
-Ah !
-Ma foi, j'ai eu belle peur.
-
--*who_divertissant
-Habille-toi !
-Allons !
-Un peu de courage !
-Le voici : Ego sum doctor.
-
--*who_gilles
-Ego sum doctor.
-
--*who_lemaitre
-Je vous demande excuse, Monsieur le docteur.
-Vous venez dans un moment où j'étais occupé.
-Je suis à vous dans l'instant.
+Je vous demande excuse, Monsieur le docteur. Vous venez dans un moment où j'étais occupé. Je suis à vous dans l'instant.
 Qu'on lie ces cotrets..., qu'on en prenne cinq ou six ; des meilleurs parements.
 
--*who_gilles
-Eh bien !
-Qu'as-tu à dire ?
-
--*who_sansquartier
-Eh !
-Animal, c'est pour faire cuire le cochon de lait, pour lui donner de la couleur.
-
--*who_gilles
-Cela pourrait bien être.
-Je me suis alarmé hors propos.
-Reprenons notre air grave.
-Le voici : Ego sum doctor.
-
--*who_lemaitre
 Pardonnez, Monsieur, je n'ai qu'un petit mot à dire.
 Quinte, quatorze et le point.
 
--*who_gilles
-Ceci n'est point équivoque, pour le coup.
-
--*who_sansquartier
-Eh bien ?
-
--*who_gilles
-Quinze ou quatorze coups de poing !
-
--*who_divertissant
-Peste soit du butor !
-Il a dit quinte, quatorze et le point.
-Sans doute, il avait commencé une partie de piquet.
-
--*who_gilles
-Tu crois cela ?
-
--*who_sansquartier
-Très certainement.
-
--*who_gilles
-Ah !
-Que j'ai été alarmé !
-
--*who_divertissant
-Allons ! remets ta robe.
-
--*who_lemaitre
 Eh bien, Monsieur le docteur ?
 
--*who_gilles
-Ego sum doctor...
-
--*who_lemaitre
 Je suis à vous dans la minute.
 Quatorze de valets.
 
--*who_gilles
-Au diable si je les attends !
+Je ne puis avoir un moment à moi. Eh bien, Docteur ?
 
--*who_divertissant
-Peste soit du butor !
-Le piquet, animal !
-Le piquet !
-Quatorze de valets.
-
--*who_gilles
-Ah !
-J'ai cru être mort !
-
--*who_sansquartier
-Allons !
-Bon courage ; rhabille-toi.
-
--*who_lemaitre
-Je ne puis avoir un moment à moi.
-Eh bien, Docteur ?
-
--*who_gilles
-Ego sum doctor doctorantibus.
-
--*who_lemaitre
 Je reviens dans l'instant.
 Pique, cœur, et je jette du carreau.
 
--*who_gilles
-Qu'on lui pique le cœur, qu'on le jette sur le carreau !
-Dis donc encore que c'est là du piquet !
-
--*who_divertissant
-Très sûrement.
-Tu l'as vu jouer cent fois à ce jeu-là.
-Il nomme ses couleurs et la carte qu'il jette.
-
--*who_gilles
-Oh ! par ma foi, je n'en puis plus !...
-
--*who_sansquartier
-Allons, Gilles, un peu de fermeté.
-Tu t'effrayes de rien.
-
--*who_lemaitre
 Me voici, enfin, et la partie de piquet est finie.
 
--*who_divertissant
-Tu vois bien qu'il jouait au piquet.
+Eh bien ? Monsieur le docteur, je vous attends. Qu'avez-vous à me proposer pour ces messieurs ?
 
--*who_gilles
-Effectivement.
-Je vois que tu as raison.
-
--*who_lemaitre
-Eh bien ?
-Monsieur le docteur, je vous attends.
-Qu'avez-vous à me proposer pour ces messieurs ?
-
--*who_gilles
-Ego sum doctor.
-
--*who_lemaitre
-Ah !
-Parbleu, j'oubliais le plus essentiel.
+Ah ! Parbleu, j'oubliais le plus essentiel.
 Jacqueline, que l'on aille tout à l'heure chercher le chaudronnier.
 
--*who_gilles
-Le chaudronnier !...
-Miséricorde !...
-C'est là du piquet apparemment ?
+Enfin, vous finirez votre phrase. Sum doctor doctorantibus.
 
--*who_divertissant
-Non, mon ami ; mais tu sais que les chaudrons, et surtout la principale marmite de la maison, sont en mauvais état.
+Voilà un plaisant langage pour un docteur ! De quelle université est-il ?
 
--*who_gilles
-Ah !
-Je suis plus qu'à demi mort.
-Je n'ai de ma vie eu si peur !
-
--*who_sansquartier
-Quelle misère ! tu n'as non plus de courage qu'une poule mouillée.
-
--*who_lemaitre
-Enfin, vous finirez votre phrase.
-Sum doctor doctorantibus.
-
--*who_gilles
-Payantibus a Sansquartieribus, Divertissantibus et Gilantibus.
-
--*who_lemaitre
-Voilà un plaisant langage pour un docteur !
-De quelle université est-il ?
-
--*who_divertissant
-De Bourges, Monsieur.
-
--*who_lemaitre
 J'ai bien vu que ce n'était qu'un âne.
 
--*who_sansquartier
-Si nous avions eu plus d'argent, nous aurions acheté un docteur qui vous eût débité de meilleur latin.
-Mais, comme vous n'avez jamais étudié qu'à Asnières...
+Ah ! Ah ! Monsieur Gilles ! C'est donc vous qui faites le personnage de docteur. Vous imaginez-vous que je ne vous aie pas reconnu tout dès l'abord ?
 
--*who_gilles
+Ah ! Vous joignez l'insulte à l'insolence ! Voilà comme j'étrille Monsieur le docteur de l'université d'Asnières.
+
+Voilà comment je les paye à des coquins tels que vous.
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
+Ah ! Monsieur, je n'en puis plus !
+
+Ahi ! ahi ! ahi ! ahi !
+
+Ah ! Monsieur, me voilà en bel état. J'ai les cinq doigts dépouillés.
+
+Je voulais tremper une croûte au pot. Jacqueline, cette chienne de Jacqueline, m'a poussé le coude et m'a fait enfoncer la main dans la marmite... Ah ! Monsieur, je me meurs... Du vin !... Du vinaigre !
+
+Du vin !... Du vinaigre!... Un médecin !... Un chirurgien !... Un apothicaire !
+
+Hélas, oui !
+
+C'est que j'ai eu les doigts brûlés dans la marmite.
+
+Qu'est-ce que vous parlez d'hypocras, Monsieur ? J'en boirais bien un coup pour me fortifier le cœur.
+
+Ah ! Ah ! Ah !
+
+Ah ! Je me meurs ! Du vin !... Du vinaigre !
+
+Oh ! Non, non, Monsieur, n'allez pas si vite. Ah ! Je sens bien que je n'irai pas loin. Cela me gagne les parties nobles. Ah ! Monsieur mon maître ! Qu'il est dur de mourir si jeune ! Mais, auparavant, ne pourrais-je pas faire un petit bout de testament par-devant main de notaire?
+
+Ah ! Monsieur ! Vous n'avez qu'à écrire tout ce qu'il vous plaira.
+
+Eh bien ! Monsieur, puisque cela est, pour la bonne amitié que je porte à Monsieur de Parlaventrebleu, mon maître, je lui laisse cette maison-ci.
+
+C'est pour cela que je vous la laisse, mon doux maître. Vous voyez bien que je ne puis l'emporter. Item, je laisse à Jacqueline, la cuisinière de Monsieur de Parlaventrebleu, la plus grosse paire de fesses qu'il y ait dans le village.
+
+Écrivez, écrivez.
+
+Plus, je laisse au notaire qui aura eu la bonté de faire mon testament...
+
+Attendez, Monsieur. Je laisse donc au susdit notaire ou tabellion la plus belle paire de cornes qui ait jamais été sur la tête d'un cocu.
+
+Cela dépendra plus de votre femme que de vous. Item, je laisse à mon petit frère, Guillaume Bambinois, toute ma garde-robe, à condition qu'il dépendra de Monsieur Parlaventrebleu, mon bon maître...
+
+Vous le voyez, Monsieur, je porte tout sur moi. Il y a pourtant encore deux chaussons chez la blanchisseuse. Item, je laisse à Lallemand, frotteur de feu Mme de Parlaventrebleu...
+
+Eh ! Non, Monsieur.
+
+Attendez encore un moment, Monsieur. Dans un grand péril, j'ai fait un vœu singulier dont je n'ai pu encore m'acquitter. Si vous voulez bien le faire pour moi, ou Monsieur Visautrou, je crois même que, pour le présent, cela convient mieux à Monsieur l'apothicaire, qui est marié depuis trois mois.
+
+Tant mieux, Monsieur ; vous vous acquitterez mieux du vœu, et je vous en aurai une extrême obligation.
+
+Oh ! Monsieur, pourvu que vous en soyez seulement à cent pas, cela suffit.
+
+Ah ! Je respire et je meurs content. Eh bien ! Monsieur, dans un danger très pressant, j'ai fait vœu... Ah ! Je n'y tiens plus !
+
+Monsieur, vous ne le voudrez pas. Ma pauvre femme Gillette n'a jamais voulu m'acquitter de ce vœu, et cela lui était bien facile.
+
+Assurément ?
+
+Eh bien, donc ! Monsieur, dans un très grand péril, puisque j'etais prêt d'être pendu pour avoir été en maraude, j'ai fait vœu, si j'en revenais...
+
+J'ai fait vœu d'être cocu.
+
+Ah ! Ah ! Ah !
+
+Voyez le gros sorcier !
+
+Ah ! Monsieur, prenez garde. Ah ! Ah ! Ah ! Ah !
+
+Tout de bon, Monsieur ?
+
+Je ne m'en serais jamais douté.
+
+C'est celui-là. Il m'élance furieusement. Ah ! Ah ! Ah !
+
+Ah ! Quel bonheur ! Il faut donc que le mal soit au doigt du milieu.
+
+Ah ! Monsieur, je vous le disais bien ! Du vin !... Du vinaigre !...
+
+Tant mieux. Mais, Messieurs, allez, je vous prie, bien doucement aux deux autres.
+
+Cela est-il bien vrai, Messieurs ?
+
+Voyez ce que fait la force de l'imagination.
+
+Or çà, Messieurs, combien vous faut-il ?
+
+Quinze francs ! Ma foi, Messieurs, il ne me reste que quinze sols dix-huit deniers. Si cela vous accommode, vous pouvez les partager entre vous deux.
+
+Pour des ignorants qui ne savez pas connaître si je suis malade.
+
+Ah ! vous n'êtes pas contents ? Eh bien ! Voici la monnaie que j'ai à vous donner.
+
+Oh ! Que oui, Monsieur.
+
+Oui, Monsieur.
+
+Oui, Monsieur.
+
+Je veux voir si c'est du vin grec.
+
+Non, Monsieur, mais cela est aisé. Si en buvant, il fait grec, grec, grec, c'est du vin grec.
+
+Dame, Monsieur, j'ai oublié mon mouchoir. Je vais le chercher dans la maison.
+
+Enfin, voilà le maître parti. Je vais exécuter mes commissions.
+
+Oui, Messieurs, c'est moi-même ; est-ce que vous me connaissez ?
+
+Oui, Messieurs.
+
+Justement, c'est elle-même.
+
+Oui vraiment. Mais si vous me connaissez, moi, je ne vous connais pas.
+
+Cela peut être. Mais il y a bien longtemps.
+
+Je serais bien curieux de savoir ces choses-là.
+
+Dans l'oreille d'un chat ? Cela est-il possible ?
+
+Les cerneaux sont à bon marché dans ce pays-là.
+
+Eh ! Parguenne, s'ils font des noix si aisément, quand ils ont le ventre libre ils font des cerneaux.
+
+Houlas ! Ils sont donc bien sévères, dans ce pays-là?
+
+Cela est-il croyable ? Houlas !
+
+Ah ! Celui-là est original.
+
+Cela est des plus merveilleux. Mais la rouille ne s'y mettait-elle pas ?
+
+Oh ! Parguenne ! Si j'en avais eu une, elle n'aurait pas couru risque de s'enrouiller. Des servantes d'acier! Houlas !
+
+Oh ! Le gros fin ! Tu portais tes souliers dans tes mains ?
+
+Oh ! Oh ! Cela est plaisant.
+
+Il y a donc bien des gadoues dans ce pays-là, puisque c'est le roi des Merdes ?
+
+Qu'est-ce donc qu'elles remuent ? Oh ! Morguenne, voilà un drôle de corps.
+
+Oh ! je vous crois, Messieurs, tout cela est bel et bon. Mais quelque plaisir que j'aie à retrouver d'aussi anciens camarades, il faut que je vous quitte pour porter cette bouteille de vin grec à son adresse. Adieu, mes amis, nous nous reverrons.
+
+Ah ! Monsieur, vous voilà de retour ?
+
+De votre bouteille ? Elle est encore en place. Je n'y ai pas touché au moins.
+
+J'y allais lorsque deux de mes camarades d'école sont arrivés ici d'un grand voyage qui a duré vingt-cinq ans. Ils m'ont raconté des choses si surprenantes que j'en suis encore tout confus et tout étonné.
+
+Oh ! Que non, Monsieur, ce sont d'honnêtes gens. Ils s'appellent, l'un Prends-Tout et l'autre Laisse-Rien.
+
+Il n'y a plus de vin grec ?
+
+Ah ! Parbleu, Monsieur, le tour est drôle. Apparemment qu'ils l'ont bu l'un après l'autre à mon derrière, car je n'en voyais jamais qu'un à la fois ; je ne m'en doutais pas. Mais, morguenne, ils ont fait bien des culbutes pour en venir à bout. Je ne sais pas comment ils ne se sont pas cassé le nez.
+
+Morguenne ! Je ne pouvais pas deviner leur friponnerie. C'est vous qui êtes une bête de m'avoir attaché cette bouteille au cul.
+
+Monsieur, prenez garde à ce que vous allez faire ; si une fois la moutarde me monte au nez...
+
+Doucement, Monsieur, j'ai auparavant une petite question à vous faire.
+
+Deux hommes veulent se battre l'épée à la main ; le pied glisse à l'un des deux ; il tombe par terre. L'autre peut-il profiter de sa chute et le maltraiter ?
+
+Le point d'honneur veut cela absolument ?
+
+Nous allons bientôt voir si tu dis vrai.
+
+Le point d'honneur !
+
+Quel sot !
+
+Le point d'honneur ! Tu vas te déshonorer.
+
+Ta bourse, elle est avec l'argent.
+
+Avec la bourse.
+
+Ils sont ensemble.
+
+Doucement ! Le point d'honneur.
+
+Cela peut être. Voyons. Non... La voilà !
+
+J'en suis quitte à bon marché.
+
+Que diantre, voilà bien du tapage !
+
+Comment ? Ce sont donc des assassins ?
+
+Qu'est-ce que ce petit Jacquot ?
+
+Cela est-il bien possible ?
+
+Monsieur, avec votre permission, que je vous ôte votre épée. Elle ne fait que vous embarrasser.
+
+Ah ! vous vous laissez voler votre bourse, et vous m'avez battu pour avoir laissé boire à mon cul une méchante bouteille de vin grec. Vous en aurez tout votre sou.
+
+N'avez-vous pas dit tantôt : «Je veux bien que l'on m'étrille si l'on me prend cette bourse» ?
+
+Oh ! Je n'ai eu garde de me fier au point d'honneur.
+
+Très volontiers. Je ne me soucie guère de servir un pareil maître.
+
+Il faut avouer que je joue de malheur. Mon maître m'assomme parce que je laisse boire son vin à mon derrière, et il a l'esprit assez mal fait pour se fâcher quand je lui donne quelques coups de bâton pour s'être laissé voler sa bourse. Il fait plus, il me chasse de la maison. Après tout, je m'en bats les fesses. Jusqu'à ce que j'aie trouvé une autre condition, je vais me retirer chez ma femme. Nous ne sommes pas cependant trop bien ensemble. Eh bien ! Je prendrai avec elle un ton caressant.
+Gillette ! Gillette !
+
+C'est moi, Gillette.
+
+Et, parbleu ! C'est Gilles, le mari de Mme Gillette.
+
+Pourquoi donc ? Qu'est-ce qui t'en empêche ?
+
+Comment, en voyage ?
+
+Ma foi, je crois qu'elle dit vrai, cela ne sent pas trop bon.
+
+Bonjour, ma petite femme ; viens çà que je te baise.
+
+Oh ! Mon trognon, tu ne t'y connais pas. Je n'ai bu d'aujourd'hui que de l'eau-de-vie.
+
+Cela serait inutile, ma petite femme ; nous ne demeurons plus ensemble.
+
+Non, je lui ai donné son congé avec quelques coups de bâton par-dessus le marché.
+
+Ma foi, Gillette, tu te trompes. Si je te caresse, c'est que je t'aime, et tu sais bien que nous ne nous brouillons jamais ensemble que pour ta malpropreté. Je ne trouve jamais ton ménage bien rangé.
+
+Mais ce n'est pas l'affaire d'un homme.
+
+Doucement, Gillette. Je suis un peu brutal, comme vous savez, et je pourrais bien appliquer sur ta face une giroflée à cinq feuilles qui te changerait la physionomie.
+
+Tais-toi, tais-toi. Tu n'es qu'une bavarde.
+
+Ah ! Oui, oui, avec nos voisines. Dis plutôt avec un certain voisin qui te... Baste !... Que je t'y attrape, je l'étrillerai en chien courant.
+
+C'est toi qui n'es qu'une babillarde éternelle.
+
+Je le veux bien. Oh ! Parbleu ! Je suis bien sûr que ce sera toi qui le feras.
+
+Soit ! Par signes ! Et combien de temps garderons-nous le silence ?
+
+Eh bien ! Une heure.
+
+Tu as parlé la première. Tu feras le ménage.
+
+Tu feras le ménage.
+
+Tu feras le ménage.
+
+Un écu pour le porteur de cette lettre ? Ah ! Voyez donc comme elle la rendra ! Va ! Va ! Je la porterai aussi bien que toi.
+
+Rentre seulement dans la maison et point de bruit.
+
+Toc ! Toc ! Holà ! Quelqu'un.
+
+C'est moi, Monsieur. Il faut commencer par me donner un écu pour le port.
+
+Pour le port de cette lettre. Ma femme m'a dit qu'il y avait autant à gagner.
+
+De la part de Monsieur Stirlik-Berlik.
+
+Ah ! Bon, cela.
+
+Monsieur, outre l'écu promis, j'ai encore des raisons pour savoir ce que contient cette lettre.
+
+Contre le porteur ? Cet homme est fou. À propos de quoi me battre, moi ?
+
+Il ne faut pas être bien brave pour mesurer deux épées et voir quelle est la plus longue.
+
+Qu'est-ce que cela veut dire ? Il ne parle pas de me donner un écu.
+
+Mais je ne connais pas Stirlik-Berlik, et je ne vous ai jamais offensé.
+
+Oui ! Qu'est-ce que cela fait ?
+
+Attendez donc. Je n'en ai pas ; et, d'ailleurs, je ne veux pas me battre.
+
+Ahi ! Ahi ! Ahi ! Gillette, Gillette, au secours !
+
+Eh ! Parguenne, je crois que c'est à peu près la même chose. Tu me bailles là une bonne commission.
+
+Il faut que je me batte l'épée à la main contre Monsieur Olibrius ! La lettre le dit.
+
+Si j'en étais sûr !
+
+Queu conte !
+
+Si les choses sont comme tu le dis, je me battrai sûrement.
+
+Oh ! Oh ! Nous ne vous craignons pas.
+
+Cela est bien aisé à dire.
+
+Gillette ! C'est bien le diable, il veut me couper la tête.
+
+Allons ! Morbleu... Gillette, il ne s'enfuit pas !
+
+Tenez, Monsieur, j'ai une proposition à vous faire ; je ne demande pas mieux que de me battre, mais je ne puis le faire de sens froid.
+
+Oh ! Tout cela ne me fâche pas.
+
+Oh ! Passe pour cela. Pour le coup, tu vas voir beau jeu.
+Comment nous battrons-nous ?
+
+Va, seul à seul.
+
+Je me bats seul à seul.
+
+Parguenne ! Cela m'accommode, moi ; et il y aura bien du malheur si je suis blessé de cette manière.
+
+Attendez donc ; vous poussez comme un diable. Tenez, afin de n'avoir pas d'avantage l'un sur l'autre, marquons une raie sur le plancher.
+
+Voilà mon chapeau qui servira de raie.
+
+Quel niais !
+
+Prends garde à la raie... Mais, parguenne ! Vous êtes un drôle de brave ; votre épée est plus longue que la mienne de deux pieds.
+
+Voyons, voyons.
+
+Ah ! Ah ! Poltron.
+
+Vous fuyez, coquin...
+
+Gillette ! Gillette ! Vite, au secours !
+
+Vois-tu comme il me pousse ! Arrête-le donc.
+
+Ne le lâche pas, au contraire. Pousse la porte. Diable ! Ma vie en dépend.
+
+Ce n'est pas assez. Ferme la serrure à double tour.
+
+Ma foi, sauvons-nous, c'est un diable que cet homme-là.
+
+Morguenne ! J'ai fait une sottise.
+
+Mal ! Vous êtes bien heureux, vous autres, d'être toujours chez Monsieur de Parlaventrebleu. Moi, il m'a chassé pour une bouteille de vin grec.
+
+Sérieusement ?
+
+Parguenne ! Vous m'en faites ressouvenir. Il ne m'a donné à compte qu'une volée de coups de bâton !
+
+Non.
+
+Allons, morbleu, de la joie.
+Allons ! Allons! Allons à la guinguette, allons !
+
+Ni moi non plus.
+
+Va-t'en au diable ! De quelle manière lui as-tu donc parlé ?
+
+J'en viendrai à bout, moi. Vous allez voir. Il faut prendre un ton aigre-doux. Éloignez-vous.
+
+Holà ! Quelqu'un ! Est-ce qu'il n'y a personne ici ? Ventre tête bleue !
+
+Ah ! Monsieur, je suis votre valet. C'est Monsieur Gilles Bambinois Cadet L'Aîné qui vient pour vous faire, avec votre permission, une petite prière.
+
+D'une bagatelle. De payer nos gages, à mes camarades et à moi...
+Sinon, par la mort !...
+
+Il a peur. Courage !
+Savez-vous bien, Monsieur, avec tout le respect que je vous dois, que si vous ne nous donnez de l'argent, et tout à l'heure, je suis homme à mettre le feu.
+
+Oui ! À mettre le feu ! Ah ! Ah! Vous ne me connaissez pas encore !
+
+Ah ! Que non, Monsieur, à un fagot, au premier cabaret, pour nous chauffer ; car nous enrageons de froid, mes camarades et moi ; et, si vous voulez bien, sauf votre respect, nous bailler, à-compte, quelque petite monnaie...
+
+Oh ! Pour cela, oui, Monsieur, je suis très plaisant de mon naturel.
+
+Mais, Monsieur, je crois qu'il n'y a pas de mal à ce qu'elle soit de poids.
+Mais dépêchez-vous, car si une fois la cervelle s'échauffe...
+
+Je n'y manquerai pas, Monsieur.
+
+À merveille, j'ai reçu de la monnaie de poids, et vous en aurez votre part.
+
+Je n'ai pas reçu d'autre argent.
+
+Voilà ce qui s'appelle avoir de l'esprit, cela !
+
+Comme une pierre.
+
+Divertissant a raison. Oh ! Morguenne ! C'est moi, pour le coup, qui ai trouvé une bonne manière de nous venger. Cela part de là. Écoutez-moi bien. Notre maître, comme vous savez, relève de maladie, et il lui est resté un petit bénéfice de ventre. Je m'introduirai dans la maison par le moyen de Jacqueline ; j'ôterai la lunette des commodités qui sont dans la cour. À sa place, j'en mettrai une qui ne sera que de papier brouillard. Quand il viendra pour se mettre dessus, voilà mon bigre qui dégringolera jusqu'au fond de la fosse.
+
+Trouve donc un meilleur expédient ?
+
+Qu'appelles-tu la laine ?
+
+S'il ne s'agit que de cela, je suis bien votre affaire.
+
+Cela est bien imaginé.
+
+Va-t'en au diable, avec ton expédient. Souffles-y toi-même.
+
+Monsieur, votre serviteur. J'ai entendu tout ce que vous venez de dire. Et vous avez fait effectivement ce rêve-là ?
+
+Celui-là n'a-t-il pas la physionomie du semeur de pois ?
+
+Et celui-ci n'a-t-il pas un peu l'air du batelier ou du pêcheur ?
+
+Cela est fort plaisant.
+
+Ah ! Monsieur, je ne suis pas complice de cette mort-là. Je n'ai jamais voulu souffler. Mais, Monsieur, en conscience, vous avez fait véritablement ce rêve-là ?
+
+Comment faire ?
+
+Oui ; mais c'est là le difficile.
+
+Pour moi, je n'ai pas la maille.
+
+Ne pensez pas rire, Messieurs. Il n'y a pas un de vous qui me vaille.
+
+Docteur toi-même ! Parbleu, je ne sais ni lire ni écrire.
+
+Oui-da ! Pour me faire mourir.
+
+Mais je crains les coups de bâton.
+
+Me voilà plaisamment fagoté. Et le latin ?
+
+Pourquoi m'appelles-tu nigaud ?
+
+Nego ?
+
+Ergo ?
+
+Ego, ego, ego, bête que tu es ! Mais c'est là du français.
+
+Je t'assomme ?... Va-t'en au diable !
+
+Doctor !
+
+Doctorantibus, payantibus.
+
+A Sanquartieribus.
+
+Divertissantibus et Gilantibus. La peste ! Voilà de beau latin, à ce qu'il me paraît !
+
+Heurte seulement. Tu verras si j'ai de l'esprit. Mais soufflez-moi bien tous deux.
+
+Ego.
+
+Sum.
+
+Entends-tu tout ce qu'il dit ?... Quelque sot qui ira haranguer cet homme-là !
+
+Ah ! Ma foi, j'ai eu belle peur.
+
+Ego sum doctor.
+
+Eh bien ! Qu'as-tu à dire ?
+
+Cela pourrait bien être. Je me suis alarmé hors propos.
+Reprenons notre air grave. Le voici : Ego sum doctor.
+
+Ceci n'est point équivoque, pour le coup.
+
+Quinze ou quatorze coups de poing !
+
+Tu crois cela ?
+
+Ah ! Que j'ai été alarmé !
+
+Ego sum doctor...
+
+Au diable si je les attends !
+
+Ah ! J'ai cru être mort !
+
+Ego sum doctor doctorantibus.
+
+Qu'on lui pique le cœur, qu'on le jette sur le carreau ! Dis donc encore que c'est là du piquet !
+
+Oh ! par ma foi, je n'en puis plus !...
+
+Effectivement. Je vois que tu as raison.
+
+Ego sum doctor.
+
+Le chaudronnier !... Miséricorde !... C'est là du piquet apparemment ?
+
+Ah ! Je suis plus qu'à demi mort. Je n'ai de ma vie eu si peur !
+
+Payantibus a Sansquartieribus, Divertissantibus et Gilantibus.
+
 A Sansquartieribus, Divertissantibus et Gilantibus.
 
--*who_lemaitre
-Ah !
-Ah !
-Monsieur Gilles !
-C'est donc vous qui faites le personnage de docteur.
-Vous imaginez-vous que je ne vous aie pas reconnu tout dès l'abord ?
+Quel conte ! Vous n'avez pas assez d'esprit pour cela...
 
--*who_gilles
-Quel conte !
-Vous n'avez pas assez d'esprit pour cela...
 
--*who_lemaitre
-Ah !
-Vous joignez l'insulte à l'insolence !
-Voilà comme j'étrille Monsieur le docteur de l'université d'Asnières.
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_taillebras
 
--*who_divertissant
-Mais, Monsieur, enfin !
-Nos gages ?
+Qu'y a-t-il, Monsieur ? Vous criez comme si le feu était à la maison.
 
--*who_lemaitre
-Voilà comment je les paye à des coquins tels que vous.
+Monsieur Visautrou parle sensément. Mais Gallien assure qu'en pareil cas il faut auparavant phlébotomiser le malade.
+
+Et moi, je vous soutiens que c'est par la saignée.
+
+Cela va être fait dans le moment.
+
+Lui couper le bras que j'emporterai chez moi, puisque vous êtes si pressé, et je panserai la main tout à loisir.
+
+Oh ! cela est très aisé. Pour vivre à son aise, il faut manger à plus d'un râtelier. Je suis chirurgien, comme vous savez, et tabellion, fort à votre service. Faites seulement apporter une table.
+Vous n'avez à présent qu'à me dicter vos volontés : « Par-devant, etc... fut présent, etc... lequel, etc... nous a ainsi dicté ses intentions. Premièrement... » Allons, Monsieur Gilles, c'est à vous de parler.
+
+Mais, Monsieur, ce sont vos volontés, et non pas les nôtres, que nous devons coucher sur le papier.
+
+Mais, Monsieur...
+
+... Dans tout le village.
+
+Ah ! Monsieur Gilles, la plume me tombe des mains.
+
+Mon ami, vous faites le goguenard. Heureusement que je suis garçon, cela ne me regarde pas. Mais je vous déclare que, dès à présent, je renonce au legs.
+
+Qu'il pendra Monsieur de Parlaventrebleu ?
+
+Un lavement au frotteur de madame ?
+
+Monsieur Gilles, ma foi, vous vous moquez de nous. Je vois bien qu'il faut quitter la plume pour le bistouri.
+
+Commençons par le pouce.
+
+Enfin, nous voici débarrassés de cette folle. Voici le cornet qui enveloppait le pouce. Je n'y vois aucun mal.
+
+Il est très sain.
+
+Non, mon ami, il n'y a rien. Nous avons ôté le papier qui le couvrait. Voilà ce que Monsieur Visautrou voulait dire.
+
+Très vrai.
+
+Monsieur, ce coquin-là se moque de nous et de vous.
+
+À la bonne heure ; mais il faut nous payer.
+
+Mais, pour monsieur et pour moi, cela peut valoir quinze francs.
+
+Il s'agit de nous satisfaire, sinon...
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_visautrou
+
+À quoi servent ces cornets de papier ?
+
+Cela est fâcheux, mon ami. Hippocrate, en pareil cas, dit que, pour tempérer la chaleur que cause la brûlure, il faut commencer par prendre un petit clystère dulcifiant.
+
+Ce n'est pas d'hypocras que je parle. C'est d'Hippocrate, le prince de la médecine.
+
+Vous vous trompez, Monsieur, c'est par le clystère qu'il faut commencer.
+
+Cela est vrai, Monsieur, et j'ai même une fort jolie femme.
+
+Mais, s'il faut trop s'éloigner de ma maison, Monsieur, j'ai bien des pratiques.
+
+Cela étant, je vous promets d'exécuter votre vœu.
+
+Achevez donc !
+
+Eh bien ! À son refus, je m'en charge.
+
+J'en jure par ma seringue, mes canons et mon mortier.
+
+De quoi as-tu fait vœu ?
+
+Que le diable t'emporte, animal ! Exécute ton vœu toi-même. Il y a une heure qu'il nous tient le bec dans l'eau pour nous dire une impertinence. Or çà, finissons. Voyons cette main malade.
+
+Certainement.
+
+Passons à l'index.
+
+Le voilà découvert.
+
+Voilà les cornets ôtés, et ces deux doigts ne sont pas plus maltraités que les trois autres.
+
+Quel insolent ! Pour qui nous prends-tu ?
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prendstout
+
+Morbleu ! Camarade, voilà une belle occasion de boire la bouteille de vin grec que Gilles doit porter à Madamoiselle Ampoüisse.
+
+Voilà qui est bien difficile ! Tu n'as non plus d'idée qu'un enfant. Tiens, mon ami, voici ce qu'il faut faire. Pendant que l'un de nous l'amusera par quelque récit merveilleux auquel il donnera toute son attention, l'autre boira à même la bouteille, et chacun de nous aura son tour.
+
+Nous allons voir. Voici Gilles. Sois sur tes gardes. Je vais commencer.
+
+Eh, parbleu ! Camarade, je crois voir Gilles Bambinois Cadet L'Aîné.
+
+N'es-tu pas fils de cette tripière qui vendait de la chair cuite au Pont-aux-Choux ?
+
+Vous aviez une sœur assez gentille ?
+
+Depuis plus de vingt-cinq ans, mon ami, nous avons voyagé par toute la terre, et nous avons vu des choses si étonnantes que nous ne les pouvons croire nous-mêmes.
+
+Croirais-tu bien, par exemple, que dans le Monomotapa j'ai vu une souris qui avait fait ses petits dans l'oreille d'un chat ?
+
+Dans la Norvège, j'ai vu une rivière dont les eaux sont si chaudes que l'on y pêche des brochets au court-bouillon, des tanches à l'étuvée et des carpes frites.
+
+Ce n'est rien que cela. J'ai vu à Durtal quelque chose de bien plus curieux quand j'y passai. Il y avait un serrurier qui avait trouvé le secret de faire des servantes d'acier, lesquelles, par le moyen de ressorts très souples, obéissaient à tout ce qu'on leur commandait.
+
+Non, mon ami, pourvu qu'on eût le soin de les fourbir deux fois la semaine.
+
+Dans le pays du roi des Mèdes...
+
+Fi ! Le vilain ! Je te dis roi des Mèdes, animal ! Dans ce pays, toutes les filles, dès l'âge de douze ans, s'amusent avec une flûte d'Arabie qui n'a qu'un trou et dont elles jouent sans remuer les doigts.
+
+Nous ne t'avons pas menti d'un seul mot dans la moindre chose.
+
+Adieu, camarade.
+
+Nous verrons tout à l'heure si tu es plus fin que ton valet.
+
+Monsieur, ayez pitié de moi !
+
+Mon père veut m'assommer, Monsieur.
+
+C'est Monsieur Guillaume, Monsieur, le savetier du coin. Et moi, Monsieur, je suis le petit Jacquot, son fils.
+
+Hélas ! Rien, Monsieur ; parce que j'ai été jouer à la fossette avec des petits garçons comme moi. Ah ! Monsieur, le voilà, le voilà !
+
+Je vous en prie, Monsieur, soyez mon protecteur.
+
+Si j'attrape ce petit fripon, je l'assommerai du coup.
+Vous l'entendez, Monsieur.
+
+Oui, Monsieur, j'ai un petit coquin de fils qui depuis huit jours fait l'école buissonnière.
+
+Cela est vrai, Monsieur ; ce sont mes camarades qui refont débauché.
+
+Je crois, Monsieur, entrevoir ce petit gueux à côté de vous. Ah ! Vous allez voir comme je vais l'étriller.
+
+Ah ! Monsieur, je n'en puis plus ; je suis mort. Mon père frappe comme un sourd.
+
+Lui pardonner, Monsieur, à un petit fripon qui me vole ?
+
+Oui, Monsieur, qui me vole pour aller voir la fille.
+
+Ah ! Monsieur, je vous demande excuse. Mon père a menti.
+Vous l'entendez, Monsieur ? Comment, coquin, j'ai menti ! Ah ! Vous en aurez.
+Ahi ! Ahi ! Ahi ! Ah ! Monsieur, je suis brisé de coups.
+
+Je vous en demande pardon, Monsieur, c'est la fureur qui me transporte. Mais aussi un petit voleur qui va voir la fille !... Ah ! Je vous apprendrai, coquin !...
+Ah ! Monsieur, je n'ai pas volé mon père. J'ai trouvé par terre, dans la poche de sa culotte, trente-six sols.
+
+Non, Monsieur, je vous assure. Mon père se moque, je n'ai que douze ans.
+
+Qu'est-ce que cela fait, Monsieur ? Je la voyais bien à dix, moi qui vous parle.
+
+Ah ! Que non, Monsieur, je lui en donnerai bien davantage.
+Ah ! Pardon, mon papa, mon petit papa.
+Point de pardon. Je veux qu'il expire sous le bâton.
+Ah ! Ah ! Je n'en puis plus, j'ai la tête cassée. Ah ! Je suis mort.
+
+Ah ! Monsieur, je vous en fais excuse.
+Monsieur, amusez mon père pendant que je m'enfuirai.
+Avant que tu t'enfuisses, je prétends t'estropier et te rendre cul-de-jatte.
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laisserien
+
+Mais comment peux-tu parvenir à la boire, puisque tu as vu, comme moi, que son maître la lui a attachée au derrière ?
+
+Ventrebleu, tu as raison, je ne suis qu'une bête. Tu as l'invention plus belle que moi. Mais je ne te le cède en rien pour l'exécution.
+
+Oui vraiment, c'est lui-même.
+
+On disait aussi qu'en chambre elle en fournissait à la Cour.
+
+Nous avons pourtant, Prends-Tout et moi, été à l'école avec toi.
+
+Dans le pays des Chinois...
+
+Pourquoi, mon ami ?
+
+Oh ! le plaisant corps ! Le pays des Chinois, mon ami, c'est la Chine. Dans ce lieu, j'ai vu pendre un homme pour avoir, dans un four chaud, fait durcir des pelotes de neige qu'il vendait pour du sel.
+
+En passant par la Suisse, j'ai vu un homme sans bras qui tenait son cul à deux mains.
+
+J'ai fait trois mille lieues à pied avec la même paire de souliers sans que la semelle fût usée.
+
+Non, mon ami, c'est que la semelle de ces souliers était faite de langues de femmes. Cela ne s'use jamais.
+
+Adieu, à revoir.
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gillette
+
+Qui est le butor qui frappe ainsi ?
+
+Qui, toi ?
+
+Eh bien ! Attends, je ne saurais t'ouvrir à présent.
+
+C'est que je suis en voyage.
+
+Oui, je suis actuellement dans l'île de Chio.
+
+Eh bien ! Me voilà ; que me veux-tu ?
+
+Ah ! Le vilain ! Comme il pue le vin !
+
+Chien d'ivrogne ! Voilà à quoi tu employés tous tes gages. Va, va, je prierai Monsieur de Parlaventrebleu de ne pas te donner dorénavant un sol.
+
+Tu n'es plus à son service ?
+
+Ah ! Ah ! Je ne m'étonne plus si tu fais tant le chien couchant.
+
+Pardienne, tu es bien plaisant. Si tu ne le trouves pas bien, viens le faire toi-même.
+
+Ne voilà t'il pas un plaisant galeux pour tant faire le monsieur ?
+
+Jour de Dieu ! Tu n'es pas assez hardi pour cela. Je t'arracherais les yeux.
+
+Je babille moins que toi, si ce n'est quelquefois avec nos voisines.
+
+Aïe ! Aïe ! Il faut filer doux. Va, tu ne sais ce que tu dis. Je le répète, tu n'es qu'un bavard.
+
+Eh bien ! Veux-tu faire un marché nous deux ? Tiens, pour te faire voir que je parle moins que toi, celui de nous qui parlera le premier fera le ménage.
+
+Nous allons voir. Mais écoute, Gilles, nous pouvons du moins nous expliquer par signes.
+
+Autant que tu le voudras.
+
+Va ! Une heure. C'est pour en mourir, cependant ! Mais, n'importe !
+
+Au secours, Gilles... Gilles, à moi !
+Gilles... Gilles...
+Ah ! vilain coquin ! Il faut que tu sois bien lâche pour souffrir que l'on me traite ainsi !
+
+Vilain gueux ! Vilain ivrogne !
+
+Sac à vin ! Infâme !
+
+Puisque ce vilain marsouin est si bête, je vais me venger de lui en le faisant lui-même porteur d'une lettre pour Monsieur Olibrius, mon amant.
+Ne songeons plus à ce misérable-là. Voici une lettre que Monsieur Stirlik-Berlik m'a chargée de faire remettre à notre voisin, Monsieur Olibrius. Il m'a dit qu'il y aurait un écu à gagner pour cette commission. J'en aurais chargé cet indigne, mais je vais la porter moi-même.
+
+Oh ! Que non.
+
+Voyez ce bélître qui m'empêche encore de gagner un écu. Je rentre seulement pour me recoiffer ; mais nous nous reverrons.
+Oh ! L'animal ! Oh ! Le cheval !
+
+Qu'y a-t-il donc ? Tu cries comme un homme que l'on assomme.
+
+Qu'est-ce à dire ?
+
+Eh bien, poltron, tu recules dans une affaire d'honneur ? Je me battrai, moi.
+
+Trêve de plaisanterie, Monsieur ; je ne l'entends pas, moi, et je vous aurai bientôt donné votre reste.
+
+Lâche que tu es ! Vois-tu comme je lui fais peur ! Ce n'est qu'un poltron.
+
+Tu es cent fois plus méchant que lui. D'ailleurs, je sais à n'en point douter que la lame de son épée n'est que de plomb et la garde de fer-blanc.
+
+Il n'y a pas de conte. Je vais te chercher une épée. Je veux absolument que tu te battes contre lui.
+
+Attendez, attendez, Monsieur le rodomont. Vous allez voir beau jeu.
+
+Tiens, voilà une bonne épée. Allons, du courage !
+
+Tu n'es qu'un sot. Mets l'épée à la main. Tu verras qu'il fuira aussitôt.
+
+Eh bien ! Que me veux-tu ?
+
+Attends, attends.
+
+Ne crains rien, j'ai mis les verrous.
+
+Sauve-toi, Gilles, c'est le plus court. Il est si furieux qu'il veut sauter par la fenêtre.
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
+
+Monsieur, excusez, s'il vous plaît. C'est que la bastarde de la cousine de Monsieur Divertissant a été mariée à Saint-Denis, et, comme il a été prié de la noce, et moi aussi, nous n'avons pas voulu refuser l'honneur qu'on nous a fait.
+
+Considérez, Monsieur, que c'est la bastarde de sa cousine.
+
+Vous avez raison.
+
+Qu'appelles-tu bien fait ! Il s'agit de savoir pourquoi Monsieur l'a mis dehors.
+
+Oui, Monsieur, on ne chasse pas ainsi un honnête garçon, et vous nous en direz, s'il vous plaît, la raison.
+
+Non, Monsieur, nous ne sortirons pas comme cela.
+
+Cela n'est pas vrai, Monsieur ; et nous ne voulons pas qu'elle reste davantage dans votre chienne de maison.
+
+Vous n'êtes pas assez hardi pour cela, entendez-vous ?
+
+Ahi ! Ahi ! Ahi !
+
+Ne nous voilà pas mal, à présent. De quoi diable aussi t'avises-tu de parler de Jacqueline ?
+
+Parbleu, mon ami, il faut s'en consoler. Voici justement Gilles. Il est dans le même cas que nous.
+
+Eh ! Bonjour, camarade ; comment va la joie ?
+
+Oui, ma foi. Mais, à propos, il ne nous a pas payé nos gages !
+
+Ni nous non plus.
+
+Eh bien ! Ce sera moi, et vous verrez de quelle manière je m'y prendrai. Éloignez-vous seulement un peu. Je vais heurter à sa porte.
+
+Holà ! Hé ! Quelqu'un ?
+
+C'est moi, Monsieur.
+
+Pourquoi ne l'aurais-je pas ? Je ne suis plus votre domestique.
+
+Doucement, Monsieur ; je suis brutal, je vous en avertis.
+
+Oui.
+
+Ma foi, non.
+
+Oui, des coups de bâton.
+
+D'un ton ferme et même un peu insolent.
+
+Vas-y donc. Nous verrons si tu réussiras mieux que moi. Nous t'attendons ici près.
+
+Il me semble que tu n'es pas content ?
+
+Eh bien ! Comment t'es-tu tiré d'affaire ?
+
+Que la peste te crève avec tes mauvaises plaisanteries ! Mais, après tout, il nous faut de l'argent; et, puisque nous avons à faire à un homme si peu raisonnable, il faut lui faire un mauvais parti.
+
+Cela ne vaut rien. On trouvera les pois ; on s'informera qui les a semés. Nous serons arrêtés et peut-être envoyés aux galères. Je pense à quelque chose de mieux. Monsieur de Parlaventrebleu aime la pêche. Il faut nous déguiser en bateliers. Il a la vue basse ; il ne nous reconnaîtra pas. Il entrera dans notre bateau, que nous aurons auparavant percé de toutes parts et rebouché avec du liège. Au milieu de la rivière, dans l'endroit le plus profond, nous ôterons les bouchons. L'eau pénétrera dans le bateau ; il ira bientôt à fond... Et...
+
+Sans doute.
+
+Et moi à peu près de même.
+
+Peut-on, Monsieur, vous demander ce qui y manque ?
+
+Ne nous voilà pas mal avec notre chienne de conspiration ! Ma foi, nous avons fait une sottise. Mais il faut tâcher de la réparer.
+
+Il me vient une idée. Il faut lui mettre un docteur en tête.
+
+Non.
+
+Fort bien. Ce sera donc toi qui fera le rôle.
+
+Comme Gilles, par exemple ?
+
+Eh bien ! Ce sera donc toi qui feras le docteur.
+
+Non, non, Gilles, ce ne sera pas de cette façon. Habillons-le toujours.
+
+Tiens, voilà tout l'équipage.
+
+Je vais t'apprendre d'excellent latin. Il faudra le prononcer d'un ton grave. Écoute bien : Ego.
+
+Je ne te dis pas cela. Je dis : Ego !
+
+Ego.
+
+Ego, ego, ego ! Bête que tu es !
+
+Sum.
+
+Sum doctor.
+
+Doctorantibus, payantibus.
+
+A Sanquartieribus.
+
+Divertissantibus et Gilantibus.
+
+Toc ! Toc ! Toc !
+
+Monsieur, c'est votre très humble serviteur.
+
+Oui, Monsieur ; un docteur qui sait lire et écrire.
+
+Nous espérons que vous voudrez bien que nous vous le présentions.
+
+Sum.
+
+Doctor, doctorantibus.
+
+Eh ! Animal, c'est pour faire cuire le cochon de lait, pour lui donner de la couleur.
+
+Eh bien ?
+
+Très certainement.
+
+Allons ! Bon courage ; rhabille-toi.
+
+Allons, Gilles, un peu de fermeté. Tu t'effrayes de rien.
+
+Quelle misère ! tu n'as non plus de courage qu'une poule mouillée.
+
+Si nous avions eu plus d'argent, nous aurions acheté un docteur qui vous eût débité de meilleur latin. Mais, comme vous n'avez jamais étudié qu'à Asnières...
+
+
+**** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
+
+Oui, Monsieur, nous en arrivons dans le moment. La mariée a voulu que la noce se fît à Saint-Denis, à cause de la grande mesure. Ah ! Pardi, nous y avons bu comme des trous. Heu !
+
+Oh ! Pour cela, oui, Monsieur.
+
+Ah ! Que vous avez bien fait ! D'ailleurs, c'était un ivrogne... Heu !...
+
+Mon camarade parle juste... Vous nous la direz ou vous aurez beau jeu.
+
+Cela se pourrait, Monsieur, parce que Sans-Quartier et moi nous en avons. Mais, pour vous, vous n'êtes pas dans ce cas.
+
+N'avez-vous pas chassé Gilles ?
+
+Vous nous renvoyez aussi ?
+
+Eh bien ! il faut que Jacqueline sorte avec nous.
+
+Oui, Monsieur, nous l'avons épousée aux Porcherons, et nous la servons par quartiers.
+
+Au secours ! Au guet ! À la livrée !
+
+Il est vrai, j'ai tort ! Le diable emporte la chienne de noce et la bastarde de la cousine ! Nous voilà donc hors de condition.
+
+Ma foi, mon ami, il nous a aussi mis à la porte.
+
+Cela n'a point de cours au marché. Mais les lui as-tu demandés, tes gages ?
+
+Il n'est pas dans son tort. Il faut aller les lui demander. Mais un seul de nous doit porter la parole.
+
+Ah bien ! As-tu reçu quelque chose ?
+
+As-tu de l'argent ?
+
+Mais tu nous as dit que tu avais reçu...
+
+Tu as tort ! Il fallait user de politesse. Laisse-moi faire. J'y vais, moi, et j'espère que je ne reviendrai pas les mains vides.
+
+Toc, toc, toc.
+
+Monsieur, c'est votre petit serviteur.
+
+Monsieur, c'est que je sais vivre. Sans-Quartier ne sait pas éplucher ses paroles. Pour moi, Monsieur, je me flatte que vous voudrez bien me faire l'honneur de me faire la grâce d'écouter mes raisons.
+
+Monsieur, Aristote dit que quand on quitte le maréchal on paye les vieux fers.
+
+Cela y est pourtant. Or, est-il, Monsieur ; prenez par comparaison que Sans-Quartier, Gilles et moi, nous sommes les maréchaux, et vous le cheval... Vous voyez bien la conséquence de mon raisonnement, et il faut que vous nous payiez.
+
+Non, cet homme-là n'aime pas les comparaisons. Il y avait, pourtant, bien de l'esprit dans ce que je lui disais. Je n'y comprends rien. Sans-Quartier l'a abordé d'un ton brusque ; il l'a rossé; moi, d'un air doucereux, et avec toute la politesse possible. Il m'a battu. Comment donc faut-il s'y prendre ?
+
+Cela est juste.
+
+Tu as raison. J'imagine une chose toute simple. Il faut ici guetter Jacqueline. La première fois qu'elle sortira de la maison, je l'aborderai, et pendant que je l'amuserai, vous irez semer des pois sur l'escalier de Monsieur de Parlaventrebleu. Quand elle sera rentrée dans sa cuisine, nous heurterons fortement à la porte. Elle n'ouvrira pas. Le maître, impatient, voudra descendre pour voir qui heurte. Il tombera du haut en bas de l'escalier et se rompra le col.
+
+Fort bien ! Et nous serons tous trois dans le bateau ?
+
+Et vous savez l'un et l'autre nager, apparemment ?
+
+Vous voyez bien, mon ami, que vous raisonnez comme un cheval, et que nous nous noyerons tous, de compagnie.
+
+Notre maître ne sera pas assez imbécile pour se laisser ainsi attraper.
+
+Oui-dà ! Je viens d'en imaginer un contre lequel la justice ne saurait mordre sur nous, et je vous garantis mon homme mort, pourvu que nous trouvions quelqu'un qui ait l'haleine assez forte pour cela.
+
+Le souffle ! Le vent !
+
+Eh bien ! Mon ami, nous nous cacherons, Sans-Quartier et moi, aux deux côtés de la porte du maître. Sitôt qu'il sortira nous l'arrêterons, nous lui mettrons la culotte bas...
+
+Toi, Gilles, tu lui souffleras au derrière jusqu'à ce que l'âme lui sorte par la bouche. La justice ne viendra pas fourrer son nez là.
+
+Nous ne sommes pas capables de faire entendre raison à cet homme-là. Il faudrait trouver quelqu'un qui pût en venir à bout.
+
+C'est bien imaginé ; mais as-tu de l'argent pour donner à ce docteur ?
+
+Ni moi.
+
+Nous voilà bien embarrassés. Il faut que l'un de nous se déguise en docteur. Le maître ne voit pas trop clair, il ne nous reconnaîtra pas.
+
+Non. Il faudrait avoir une figure qui en imposât.
+
+Cela n'y fait rien. Avec une robe, tout ce qu'il faut pour te déguiser et quatre mots de mauvais latin tu feras ton personnage à merveille. Et puis, nous te soufflerons !
+
+Le compère Retourné, Monsieur fripier, notre voisin, nous prêtera bien une robe. J'en vois une pendue à sa boutique.
+
+Il n'y a rien à appréhender. On ne bat pas impunément un docteur.
+
+Il est très énergique. Or çà ! Es-tu bien sûr de ton rôle, en te soufflant ?
+
+Ne t'embarrasse de rien.
+
+Ah ! Monsieur, ne vous fâchez pas, s'il vous plaît, et écoutez-moi. Nous avons connu que nous n'étions que des bêtes et que nous n'avions pas assez d'esprit pour entrer en conversation avec vous au sujet de nos gages, et, pour cet effet, nous nous sommes proposé de vous mettre un docteur en tête.
+
+Je vais donc le faire entrer, Monsieur.
+
+Avancez, Monsieur le docteur. C'est à Monsieur à qui il faut porter la parole.
+
+Eh ! Ne vois-tu pas bien qu'il s'agit apparemment du cochon de lait qu'on lui a envoyé il y a trois jours. Tu t'effrayes de rien. Qu'on le jette dans l'eau bouillante ; c'est pour le peler.
+
+Habille-toi ! Allons ! Un peu de courage ! Le voici : Ego sum doctor.
+
+Peste soit du butor ! Il a dit quinte, quatorze et le point. Sans doute, il avait commencé une partie de piquet.
+
+Allons ! remets ta robe.
+
+Peste soit du butor ! Le piquet, animal ! Le piquet ! Quatorze de valets.
+
+Très sûrement. Tu l'as vu jouer cent fois à ce jeu-là. Il nomme ses couleurs et la carte qu'il jette.
+
+Tu vois bien qu'il jouait au piquet.
+
+Non, mon ami ; mais tu sais que les chaudrons, et surtout la principale marmite de la maison, sont en mauvais état.
+
+De Bourges, Monsieur.
+
+Mais, Monsieur, enfin ! Nos gages ?
+

@@ -1,6 +1,6 @@
 ---
 identifier: boyer_amoursjupitersemele  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1666  
 title: Les Amours de Jupiter et Sémélé. Tragédie.  
 ---

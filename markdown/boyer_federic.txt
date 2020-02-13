@@ -1,6 +1,6 @@
 ---
 identifier: boyer_federic  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1660  
 title: Fédéric. Tragi-comédie  
 ---

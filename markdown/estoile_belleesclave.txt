@@ -1,6 +1,6 @@
 ---
 identifier: estoile_belleesclave  
-creator: L'Estoile, Claude de  
+creator: L'Estoile, Claude de ; Georges Forestier.  
 date: 1643  
 title: La Belle Esclave. Tragi-comédie  
 ---

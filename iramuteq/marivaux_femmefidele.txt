@@ -1,996 +1,220 @@
 
 
-**** *book_ *id_I01 *act_I *date_1750
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
--*who_frontin
-Le jardin est bien changé depuis dix ans, et nous allons savoir si nos femmes sont de même.
-
--*who_lemarquis
 Regarde, n'est-ce pas là mon jardinier qui vient à nous ?
 
--*who_frontin
-C'est Colas que Madame a conservé !
-
--*who_lemarquis
 J'ai toujours peur qu'on ne nous reconnaisse.
 
--*who_frontin
-Il n'y a pas de danger : on nous croit du temps du déluge !
-
--*who_lemarquis
 Colas s'avance, préviens-le, et dis-lui que je souhaite parler à la Marquise : mais surtout point d'étourderie, vois, tu y es sujet ; n'oublie pas ta vieillesse.
 
-**** *book_ *id_I02 *act_I *date_1750
-
--*who_frontin
-Serviteur, Maître Colas !
-
--*who_colas
-Oh !
-Oh !
-Qu'est-ce qui vous a dit mon nom, bonhomme ?
-
--*who_frontin
-C'est le village.
-
--*who_colas
-Et qu'est-ce que vous voulez ?
-Faut-il entrer comme ça dans le jardin des personnes sans demander ni quoi ni qu'est-ce ?
-
--*who_frontin
-Peut-être avons-nous affaire dans le jardin des personnes.
-
--*who_colas
-Vous venez donc chercher quelqu'un ici ?
-
--*who_frontin
-Nous venons de la part de feu Monsieur le Marquis d'Ardeuil apporter des nouvelles de sa santé à Madame la Marquise, sa veuve.
-
--*who_colas
-Des nouvelles de la santé d'un mort ?
-Velà-t-il pas une belle acabit de santé ?
-Hélas !
-Le pauvre Monsieur le Marquis, je savons bian qu'il est défunt, vous ne nous apprenez rian de nouviau, il y a déjà queuque temps que j'avons reçu le darnier certificat de son trépassement.
-
--*who_lemarquis
 Le certificat, dites-vous ?
 
--*who_colas
-Oui, Monsieur.
-
--*who_frontin
-Il ne vous aura pas dit les circonstances.
-
--*who_colas
-Oh !
-Si fait.
-Je savons tous les tenants et les aboutissants...
-C'est la peste qui a étouffé Monsieur le Marquis.
-
--*who_lemarquis
 Il a raison ; c'est cette contagion qui a emporté tant de captifs.
 
--*who_frontin
-Nous en mourûmes tous.
-
--*who_colas
-Je ne dis pas qu'alle vous étouffit vous autres, puisque vous velà ; je dis tant seulement qu'alle tuit Monsieur le Marquis.
-
--*who_frontin
-Nous pensâmes en mourir aussi.
-
--*who_colas
-Hélas !
-Il ne pensait pas, li ; il en fut tué tout à fait.
-
--*who_lemarquis
 On le regrette donc beaucoup ici ?
 
--*who_colas
-Ah !
-Monsieur, je ne l'aurons jamais en oubliance.
-Jamais je ne varrons son pareil.
-C'est un hasard que noute dame n'en a perdu l'esprit ; la mort de l'homme fut quasiment l'entarement de la femme ; et depuis qu'alle est réchappée, alle a biau faire, cette misérable perte lui est toujours restée dans le coeur.
+Que je la plains ! Quand son mari mourut, il me chargea de lui rendre une lettre qu'il écrivit, de lui dire même de certaines choses, si j'étais assez heureux pour revenir dans ma patrie ; et je viens m'acquitter de ma commission, malgré l'âge où je suis.
 
--*who_lemarquis
-Que je la plains !
-Quand son mari mourut, il me chargea de lui rendre une lettre qu'il écrivit, de lui dire même de certaines choses, si j'étais assez heureux pour revenir dans ma patrie ; et je viens m'acquitter de ma commission, malgré l'âge où je suis.
-
--*who_colas
-C'est l'effet de votre bonté : car vous paraissez bian caduc et bien cassé.
-Vous avez donc été tous deux pris des Turcs, votre valet et vous, avec note maître ?
-
--*who_lemarquis
 Nous avons été plus de neuf ans ensemble sous différents patrons.
 
--*who_colas
-Il m'est avis que c'est de vilain monde ; eh !
-Dites-moi, braves gens, ce pauvre Frontin qui s'embarquit de compagnie avec noute maître, que lui est-il arrivé ?
-Est-il mort emporté itou ?
-
--*who_frontin
-Qui ?
-Moi, Maître Colas ?
-
--*who_colas
-Comment, vous ?
-Est-ce qu'ous êtes Frontin ?
-
--*who_lemarquis
 C'est qu'il porte le même nom.
 
--*who_frontin
-Je suis le grand-oncle du défunt.
-
--*who_colas
-Boutez-vous là, que je vous contemple...
-Oh !
-Morgué !
-Il n'y a barbe qui tienne ; à cette heure que j'y regarde, je vais parier que vous êtes le défunt du grand-oncle.
-
--*who_lemarquis
 Quelle vision !
 
--*who_frontin
-Défunt vous-même !
+Doucement donc ! Ne crie point ; tais-toi, Maître Colas, tais-toi ; oui, c'est moi ; mais je t'ordonne de me garder le secret, je te l'ordonne.
 
--*who_colas
-Jarnigué !
-C'est li, vous dis-je...
-Et cela me fait rêver itou que son camarade...
-Eh !
-Palsangué, Monsieur !...
-C'est encore vous !
-C'est Monsieur le Marquis, c'est Frontin ; je me moque des barbes, ce n'est que des manigances ; je sis trop aise, ça me transporte, il faut que je crie...
-Faut que j'aille conter ça : queu plaisir !
-Faut que tout le village danse, c'est moi qui mènerai le branle !
-Velà Monsieur le Marquis, velà Frontin, velà les défunts qui ne sont pas morts !
-Allons, morgué !
-De la joie !
-Je vas dire qu'on sonne le tocsin.
+Étourdi, que fais-tu ? Si quelqu'un allait venir ?
 
--*who_lemarquis
-Doucement donc !
-Ne crie point ; tais-toi, Maître Colas, tais-toi ; oui, c'est moi ; mais je t'ordonne de me garder le secret, je te l'ordonne.
-
--*who_frontin
-Je perdrais jusqu'à mon dernier sou avec toi et ton tocsin.
-
--*who_lemarquis
-Étourdi, que fais-tu ?
-Si quelqu'un allait venir ?
-
--*who_frontin
-Voilà ma caducité rétablie.
-
--*who_colas
-Ouf !
-Laissez-moi reprendre mon vent !...
-Queu contentement !...
-Comme vous velà faits !
-D'où viant vous ajancer comme ça des barbes de grands-pères ?
-
--*who_lemarquis
 J'ai mes raisons : tu sais combien j'aimais la Marquise ; il n'y avait qu'un mois que nous étions mariés, quand je fus obligé de la quitter pour ce malheureux voyage en Sicile, au retour duquel nous fûmes pris par un corsaire d'Alger ; nous avons depuis passé dix ans dans de différents esclavages, sans qu'il m'ait été possible de donner de mes nouvelles à la Marquise, et, malgré cette longue absence, je reviens toujours plein d'amour pour elle, fort en peine de savoir si ma mémoire lui est encore chère, et c'est avec l'intention d'éprouver ce qui en est que j'ai pris ce déguisement.
 
--*who_colas
-Il est certain qu'alle vous aime autant que ça se peut pour un trépassé, et drès qu'alle vous varra, qu'alle vous touchera, mon avis est qu'il y aura de la pâmoison dans la revoyance.
-
--*who_frontin
-Et ma femme se pâmera-t-elle ?
-
--*who_colas
-Non.
-
--*who_frontin
-...
-La masque !
-
--*who_lemarquis
 Tais-toi.
 Elle va pourtant se marier, Colas, on me l'a dit dans le village.
 
--*who_colas
-Que voulez-vous, nout'maître !...
-Alle a été quatre ans dans les syncopes et pis encore deux ou trois ans dans les mélancolies, pus étique...
-Pus chétive...
-Pus langoureuse...
-Alle faisait compassion à tout le monde, alle n'avait appétit à rien, un oiseau mangeait plus qu'elle...
-Il n'y avait pas moyen de la ragoûter ; sa mère lui en faisait reproche : Eh mais !
-Mon enfant, qu'est-ce que c'est que ça, queu train menez-vous donc ?
-Il est vrai que vout'homme est mort ; mais il en reste tant d'autres !
-Mais il y en a tant qui le valent !
-Et nonobstant tout ce qu'an lui reprochait, la pauvre femme n'amendait point.
-À la parfin, il y a deux ans, je pense, que la mère, vers la moisson, amenit au château une troupe de monde, parmi quoi il y avait un grand monsieur qui en fut affolé drès qu'il l'envisagit, et c'est c'ti-à qui va la prendre pour femme...
-Ils se promenaient tout à l'heure envars ici, et il a eu bian du mal après elle.
-Il n'y a que trois mois qu'alle peut l'endurer : la v'là stapendant qui se ravigote, et je pense que le tabellion doit venir tantôt de Paris.
+Juste ciel ! Et l'aime-t-elle ?
 
--*who_lemarquis
-Juste ciel !
-Et l'aime-t-elle ?
+Je suis si ému que je ferai mieux de ne les pas voir en ce moment-ci... Dis-moi où je puis me retirer.
 
--*who_colas
-Mais... oui... tout doucement, à condition qu'ous êtes mort.
-
--*who_frontin
-Et ma femme ?
-
--*who_colas
-Oh ! si vous êtes défunt, tenez-vous-y.
-
--*who_frontin
-Ah !
-La maudite créature !
-
--*who_colas
-Tenez, Monsieur, velà voute veuve et son prétendu qui prenont leur tournant ici avec voute belle-mère.
-
--*who_lemarquis
-Je suis si ému que je ferai mieux de ne les pas voir en ce moment-ci...
-Dis-moi où je puis me retirer.
-
--*who_colas
-Enfilez ce chemin, il y a au bout ma cabane où vous vous nicherez.
-
--*who_lemarquis
 Garde-moi le secret, Colas ; et toi, Frontin, reste ici et dis à la Marquise qu'un gentilhomme qui arrive d'Alger, et qui est dans ce village, envoie savoir s'il peut la voir pour lui parler de feu son mari.
 
--*who_frontin
-Oui, Monsieur, ne vous embarrassez pas.
-
-**** *book_ *id_I03 *act_I *date_1750
-
--*who_frontin
-Est-ce là ce grand monsieur qui s'emploie à ravigoter la Marquise ?
-
--*who_colas
-Lui-même.
-
--*who_frontin
-Eh bien !
-Notre retour ne le ravigotera guère.
-
--*who_colas
-Faut avoir quatre-vingts ans en leur parlant au moins, faut tousser beaucoup.
-
--*who_frontin
-Hem !
-Hem !
-Hem !
-
--*who_dorante
-Je compte que le notaire sera ici sur les six heures.
-
--*who_lamarquise
-Point de compagnie surtout ; je n'en veux pas.
-
--*who_madameargante
-Personne n'est averti, ma fille...
-Qu'est-ce que c'est que ce vieillard-là ?
-
--*who_lamarquise
-C'est un captif, si je ne me trompe.
-Colas, avec qui êtes-vous ?
-
--*who_colas
-Avec un vieux qui, sauf vote respect, reviant du pays barbare, note dame.
-
--*who_frontin
-Oui, Madame, du pays d'Alger.
-
--*who_lamarquise
-D'Alger ?
-Est-ce là où vous avez été captif ?
-Y avez-vous demeuré longtemps ?
-C'est un pays où Monsieur le Marquis d'Ardeuil est mort ; peut-être l'avez-vous connu ?
-
--*who_frontin
-J'ai surtout connu son valet, Frontin, qui est aussi, et qui se privait de tout pour le faire vivre.
-
--*who_madameargante
-Oui, oui, ce Frontin était un domestique affectionné.
-
--*who_colas
-Une bonne pâte de garçon, je l'avions élevé tout petit.
-
--*who_lamarquise
-Je ne saurais le récompenser, puisqu'il n'est plus.
-
--*who_madameargante
-Allez, allez, bon vieillard, en voilà assez.
-
--*who_dorante
-Laissez-nous.
-
--*who_lamarquise
-Attendez.
-Mon mari était donc avec vous ?
-
--*who_frontin
-Il me semble que je vois encore sa brouette à côté de la mienne.
-
--*who_lamarquise
-Ah !
-Ciel !...
-Entendez-vous, ma mère ?
-Il faut donc qu'il ait bien souffert.
-
--*who_frontin
-Considérablement.
-
--*who_lamarquise
-Ah !
-Dorante, n'êtes-vous pas pénétré de ce qu'il dit là ?
-
--*who_dorante
-Cet entretien, en un tel jour, est bien mal à propos, et je souhaiterais qu'on nous l'épargnât.
-
--*who_madameargante
-Que ne vous retirez-vous, puisqu'on vous le dit ?
-Voilà un vieillard bien importun avec ses relations.
-Que venez-vous faire ici ?
-
--*who_lamarquise
-Ma mère, ne le brusquez point.
-Je voudrais pouvoir soulager tous ceux qui ont langui dans les fers avec mon mari.
-
--*who_madameargante
-Eh bien !
-Qu'on ait soin de lui.
-Colas, menez-le là-bas.
-
--*who_colas
-Il n'y a qu'à le mener à l'office.
-
--*who_frontin
-J'oubliais le principal.
-
--*who_madameargante
-Encore !
-
--*who_frontin
-Mon maître m'envoie demander s'il peut voir Madame la Marquise : c'est un gentilhomme des plus respectables et des plus décrépis.
-
--*who_lamarquise
-A-t-il été captif aussi ?
-
--*who_frontin
-Il apporte d'Alger certaines circonstances touchant le défunt Marquis d'Ardeuil.
-
--*who_madameargante
-Mais d'aujourd'hui nous ne finirons de captifs, tout Alger va fondre ici !
-
--*who_dorante
-Je vais l'aller voir et je vous rapporterai ce qu'il m'aura dit, Madame.
-
--*who_lamarquise
-Non, Dorante, je veux qu'il vienne.
-Quoi !
-Refuser de recevoir un homme qui a été l'ami de mon mari, et qui vient exprès ici pour m'en parler, vous n'y songez pas, Dorante ; ce n'est point là me connaître.
-Allez, Colas, allez avec ce domestique dire de ma part à son maître qu'il me fera beaucoup d'honneur, et que je l'attends.
-
--*who_frontin
-Je suis touché de voir un aussi bon coeur de veuve.
-
-**** *book_ *id_I04 *act_I *date_1750
-
--*who_madameargante
-Tout ceci n'aboutira qu'à vous replonger dans vos tristesse, ma fille.
-Je ne vous conçois pas : y a-t-il de la raison à aimer ce qui chagrine, et ne voyez-vous pas d'ailleurs que vous affligez Dorante ?
-
--*who_dorante
-Il est vrai...
-J'aurais pu penser que mon amour tînt lieu de quelque consolation à Madame.
-
--*who_lamarquise
-Vous vous trompez, Dorante, et je ne vous épouserais pas si votre attachement pour moi ne m'avait point touchée.
-Mais de quoi vous plaignez-vous ?
-Ce n'est point un amant, c'est un époux que je regrette ; vous l'avez connu, vous m'avez avoué vous-même qu'il méritait mes regrets ; ne lui enviez point mes larmes, elles ne prennent rien sur les sentiments que j'ai pour vous : vous êtes peut-être le seul homme du monde à qui je puisse consentir de me donner après avoir été à lui, et vous devez être content.
-
-**** *book_ *id_I05 *act_I *date_1750
-
--*who_lemarquis
 Ah !
 Je viens, Madame, m'acquitter d'une parole...
 
--*who_madameargante
-Vous vous trompez, Monsieur, ce n'est point moi que ceci regarde, c'est ma fille que voici.
+Tais-toi !... Je vous rends mille grâces, Madame. Il est vrai qu'on ne saurait être plus unis que nous l'avons été, Monsieur le Marquis et moi... Ah !...
 
--*who_lamarquise
-Venez, Monsieur, j'aurais à me plaindre de vous.
-Vous étiez bien en droit de regarder la maison de Monsieur le Marquis comme la vôtre, et de descendre ici tout d'un coup, sans s'arrêter dans le village.
-
--*who_frontin
-D'autant que le vin du cabaret est détestable.
-
--*who_lemarquis
-Tais-toi !...
-Je vous rends mille grâces, Madame.
-Il est vrai qu'on ne saurait être plus unis que nous l'avons été, Monsieur le Marquis et moi...
-Ah !...
-
--*who_lamarquise
-Vous soupirez, Monsieur, vous le regrettez aussi.
-
--*who_lemarquis
 Toutes ses infortunes ont été les miennes, et je ne puis même jeter les yeux sur vous, Madame, sans me sentir pénétré de toutes les tendresses dont il m'a chargé en mourant de vous assurer.
 
--*who_lamarquise
-Ah !
-
--*who_dorante
-Ouf !
-
--*who_lemarquis
 Je vous demande pardon si je m'attendris moi-même ; je trouble peut-être quelque engagement nouveau : il me semble que ma commission n'est pas ici au gré de tout le monde.
 
--*who_madameargante
-À vous dire vrai, Monsieur, voilà Monsieur, à qui vous auriez fait grand plaisir de la négliger : il va épouser ma fille, mettez-vous à sa place.
-
--*who_lemarquis
 Mon ami est donc heureux de ne plus vivre et d'avoir ignoré ce mariage ; du moins est-il mort avec la douceur de penser que Madame serait inconsolable.
 
--*who_madameargante
-Inconsolable !...
-Avec votre permission, Monsieur, cette pensée dans laquelle il est mort ne valait rien du tout ; le ciel nous préserve qu'elle soit exaucée !
-Croyez-moi, passons là-dessus.
-
--*who_lamarquise
-Vous ne sauriez croire combien vous m'affligez, ma mère, vous ne vous y prenez pas bien, vous me désespérez.
-Ne m'ôtez point la consolation d'écouter Monsieur.
-Je veux tout savoir, ou je me fâcherai, je romprais tout.
-Non, Monsieur, que rien ne vous retienne ; ne m'épargnez point, répétez-moi tous les discours du Marquis, toutes ses tendresses qui me seront éternellement chères, et pardonnez à l'amitié que ma mère a pour moi la répugnance qu'elle a à vous entendre.
-
--*who_lemarquis
 Remettons plutôt ce qui me reste à vous dire, Madame ; vous serez peut-être seule une autre fois, et je reviendrai.
 
--*who_madameargante
-Eh non, Monsieur, achevons ; que peut-il vous rester tant ?
-Le Marquis l'aimait beaucoup, il vous l'a dit, il est mort en vous le répétant, ce doit être là tout, il ne saurait guère y en avoir davantage.
-
--*who_frontin
-...
-Nous ne sommes pas au bout.
-
--*who_lemarquis
 Voici toujours un portrait qui est de vous, Madame, qu'il emporta d'ici en vous quittant, qu'il m'a recommandé de vous rendre, que nos patrons, tout barbares qu'ils sont, n'ont pas eu la cruauté d'arracher à sa tendresse, et qu'il a conservé mille fois plus chèrement que sa vie.
 
--*who_lamarquise
-Hélas !
-Je le reconnais, c'est le dernier gage qu'il reçut de mon amour, et il l'a gardé jusqu'à la mort.
-Ah !
-Dorante, souffrez que je vous laisse, je ne saurais à présent en écouter davantage ; j'ai besoin de quelque moment de liberté ; et vous, Monsieur, demeurez quelques jours ici pour vous reposer, ne me refusez pas cette grâce : je vais donner des ordres pour cela...
-Ah !...
-
--*who_dorante
-Ne me confierez-vous pas ce portrait, Madame ?
-Il m'est permis de le souhaiter.
-
--*who_lemarquis
 Il m'est échappé de vous dire qu'il vous priait de ne le donner à personne.
 
--*who_dorante
-Vous avez bien de la mémoire, Monsieur.
-
--*who_lamarquise
-Laissez-moi me conformer à ce qu'il a désiré, Dorante ; c'est un respect que je lui dois.
-
-**** *book_ *id_I06 *act_I *date_1750
-
--*who_lemarquis
 Je suis votre serviteur, Madame ; je vais me reposer un peu en attendant de revoir Madame la Marquise.
 
--*who_dorante
-Ne voyez-vous pas que vous l'affligez, Monsieur, avec vos narrations ?
+Je ne veux faire de peine à personne. Je m'acquitte d'un devoir que j'ai promis de remplir.
 
--*who_madameargante
-Vous réjouissez-vous à faire pleurer ma fille ?
-Vous avez les façons bien algériennes !
-
--*who_lemarquis
-Je ne veux faire de peine à personne.
-Je m'acquitte d'un devoir que j'ai promis de remplir.
-
--*who_frontin
-Nous sommes des personnages tout à fait bénins.
-
--*who_madameargante
-Monsieur, dites à ce vieux valet de se taire.
-
--*who_lemarquis
 Il faut l'excuser ; il est devenu familier à force d'être mon camarade.
 
--*who_frontin
-Nous étions dans la même condition.
-
--*who_lemarquis
 Paix !...
 
--*who_madameargante
-Ah ça, Monsieur, après tout, vous avez l'air d'un galant homme ; à votre âge, on a eu le temps de le devenir, et je crois que vous l'êtes.
-
--*who_lemarquis
 Vous me rendez justice, Madame.
 
--*who_madameargante
-On le voit à votre physionomie.
-
--*who_frontin
-Si mon maître voulait, vous le verriez encore mieux.
-
--*who_lemarquis
 Encore !...
 
--*who_madameargante
-Ne nuisez donc point à Monsieur, ne reculez point son mariage.
-Vous avez dit à ma fille que vous aviez encore à lui parler.
-Abrégez avec elle, et ménagez sa faiblesse là-dessus : à quoi bon l'attendrir pour un homme qui n'est plus au monde ?
-Ne vous reprocheriez-vous pas d'être venu nous troubler pour satisfaire aux injustes fantaisies d'un mort ?
-
--*who_lemarquis
 Vous avez raison ; mais heureusement Monsieur n'a rien à craindre ; on a, ce me semble, beaucoup de tendresse pour lui.
 
--*who_dorante
-Cette tendresse ne saurait résister quand on lui parle du défunt.
-
--*who_madameargante
-Figurez-vous que depuis dix ans nous n'osons pas prononcer son nom devant elle ; qu'elle a vécu dans l'accablement pendant près de huit ans, qu'elle a refusé vingt mariages meilleurs que celui du Marquis.
-
--*who_lemarquis
 Elle lui était donc extrêmement attachée ?
 
--*who_madameargante
-Ah !
-Monsieur, cela passe toute imagination.
-Il est vrai que c'était un homme de mérite, un homme estimable, il avait des qualités...
-Mais enfin il n'est plus, et si vous connaissiez Monsieur, vous verriez qu'elle ne perd pas au change.
-
--*who_dorante
-Madame est prévenue en ma faveur.
-
--*who_lemarquis
 Je ferai donc en sorte que Madame la Marquise ne le regrette pas davantage.
 
--*who_dorante
-Vous me rendrez ainsi le plus grand service du monde.
-
--*who_madameargante
-Mais à quoi donc se réduit ce que vous avez à lui dire ?
-
--*who_lemarquis
 À presque rien : j'ai une lettre à lui remettre.
 
--*who_dorante
-Une lettre du défunt ?
-
--*who_lemarquis
 Oui, Monsieur.
 
--*who_madameargante
-Encore une lettre !
-
--*who_lemarquis
 Oui, Madame.
 
--*who_dorante
-Je vous demande de la supprimer, Monsieur ; vous risquez de me perdre en la rendant.
+La supprimer, Monsieur ? Il ne m'est pas possible : j'ai fait serment de la remettre, il y va de mon honneur.
 
--*who_lemarquis
-La supprimer, Monsieur ?
-Il ne m'est pas possible : j'ai fait serment de la remettre, il y va de mon honneur.
-
--*who_madameargante
-Quoi !
-Il y va de votre honneur d'ôter la vie à ma fille ?
-
--*who_lemarquis
 Ce n'est pas mon dessein, Madame.
 
--*who_dorante
-Ne la lui remettez donc pas, elle s'en trouvera mieux.
+Il m'en a fait une plus grande de m'en tirer. Frontin ou Dorante.Je ne compte plus sur rien.
 
--*who_madameargante
-Le ciel nous aurait fait une grande grâce de vous laisser à Alger.
-
--*who_lemarquis
-Il m'en a fait une plus grande de m'en tirer.
-Frontin ou Dorante.Je ne compte plus sur rien.
-
--*who_madameargante
-Voilà, je vous l'avoue, un étrange mort, avec sa misérable lettre !
-Et plus étrange encore le vieillard qui s'en est chargé !
-
--*who_lemarquis
 Vous me traitez bien mal, Madame.
 
--*who_dorante
-...
-
--*who_frontin
-... nous sommes cruellement houspillés.
-
--*who_lemarquis
 J'ai quelquefois trouvé plus d'accueil chez les barbares.
 
--*who_madameargante
-Et moi, souvent plus de raison chez les enfants.
-
--*who_frontin
-Aussi leur donne-t-on des soufflets par mauvaise coutume.
-
--*who_madameargante
-Impertinent, vous en mériteriez sans votre âge.
-
--*who_lemarquis
 Doucement, Madame, doucement.
 
--*who_madameargante
-Retirons-nous, Dorante ; je sens que le feu me monte à la tête.
-
-**** *book_ *id_I07 *act_I *date_1750
-
--*who_frontin
-Ils aimeraient nous voir morts, mais nous prétendons vieillir bien davantage, ah ! ah !
-
--*who_colas
-Eh bian, noute maître, j'ons vu que vous parliez à Madame.
-N'avez-vous pas eu contentement d'elle ?
-N'est-ce pas que c'est une brave femme que voute femme ?
-
--*who_lemarquis
 Oui, je n'ai pas lieu de m'en plaindre, et malgré ce mariage qui allait se terminer, je crois qu'elle ne sera pas fâchée de me retrouver.
 
--*who_colas
-Je vous avartis qu'alle se lamente là-bas dans ce petit cabinet de vardure, alle a la face toute trempée : j'ons vu ses deux yeux qui vont quasiment comme des arrosoirs, c'est une piquée.
-Faut l'apaiser, Monsieur, faut li montrer le défunt.
+J'ai encore à l'entretenir. Je veux voir jusqu'où va son inclination pour mon rival, et si la lettre que je lui rendrai l'engagera sans peine à rompre son mariage.
 
--*who_lemarquis
-J'ai encore à l'entretenir.
-Je veux voir jusqu'où va son inclination pour mon rival, et si la lettre que je lui rendrai l'engagera sans peine à rompre son mariage.
-
--*who_frontin
-Et moi, je veux voir ce que fait ma masque de femme.
-
--*who_colas
-Oh !
-Il n'y a rian là de biau à voir, la curiosité est bian chetite.
-Tenez, la velà qui viant avec son nouviau galant qui batifole à l'entour d'elle.
-
--*who_frontin
-Je vais les faire batifoler à grands coups de houssine.
-
--*who_lemarquis
 Prends garde à ce que tu feras.
 
-**** *book_ *id_I08 *act_I *date_1750
-
--*who_lisette
-Monsieur, n'êtes-vous pas l'homme d'Alger ?
-
--*who_lemarquis
 Je suis du moins l'homme qui en arrive.
 
--*who_lisette
-Je vais vous montrer votre appartement, Monsieur, si vous souhaitez vous y retirer.
-
--*who_lemarquis
 Je vais m'y rendre...
 Scapin, vous irez chercher mes hardes.
 
--*who_frontin
-Oui, Monsieur, tout à l'heure.
+Je vous demande pardon, Madame, et je me retire. Je croyais Madame la Marquise avec vous.
 
-**** *book_ *id_I09 *act_I *date_1750
-
--*who_colas
-Tenez, bonhomme, velà cette demoiselle Lisette que vous charchez.
-
--*who_jeannot
-Est-ce là la dernière mode de là-bas ?
-
--*who_colas
-Arrêtez-vous donc, petit garçon ; faut-il badiner comme ça avec la barbe du vieux monde ?
-
--*who_lisette
-Laissez-moi libre avec le bon vieillard.
-
--*who_colas
-Oui, oui, ça est juste : faut pas que les gens du dehors sachiont les petites broutilles du ménage ; j'allons nous jeter de côté, Jeannot et moi.
-
-**** *book_ *id_I10 *act_I *date_1750
-
--*who_locuteurdelascenex
-...
-
-**** *book_ *id_I11 *act_I *date_1750
-
--*who_lisette
-Jeannot !
-Colas !
-À moi !
-Au secours !
-
--*who_colas
-Quoi donc ?
-Est-ce qu'il y a du massacre ici ?
-
--*who_lisette
-Appelez donc du secours, Colas !
-
--*who_colas
-Bellement, noute ancien, rengainez donc, remettez dans le fourriau.
-
--*who_frontin
-Je n'ai qu'une oreille à vous abattre.
-
--*who_colas
-Non, non, laissez li la paire d'oreilles.
-
--*who_frontin
-Ce pauvre Frontin avait bien deviné qu'elle était comme ma femme qui m'était infidèle.
-
--*who_colas
-Velà le biau sorcier, c'était deviner qu'alle était une femme.
-
--*who_frontin
-Et je garderai le legs, puisque ce galant a su faire broncher la fidélité de la coquine.
-
--*who_colas
-Faudra donc pas de poche à la veuve pour sarrer ça.
-
--*who_frontin
-À moi la somme !
-
-**** *book_ *id_I12 *act_I *date_1750
-
--*who_madameargante
-Voici son valet ; essayons de le gagner, et qu'il nous instruise.
-Ah !
-Vous voilà, bonhomme, nous vous cherchons.
-
--*who_lisette
-...
-
--*who_frontin
-Je suis légataire et non pas voleur.
-
--*who_madameargante
-Allez, Lisette, laissez-nous, nous verrons cela.
-
--*who_frontin
-...
-
--*who_lisette
-J'ai cru entendre la voix du mort.
-
--*who_colas
-Ah !
-Ah !
-Ah !
-
-**** *book_ *id_I13 *act_I *date_1750
-
--*who_madameargante
-Ah çà, dites-nous, mon bonhomme, votre maître prétend-il rester longtemps ici ?
-
--*who_frontin
-Il prétend y prendre son quartier d'hiver.
-
--*who_madameargante
-Son quartier d'hiver !
-
--*who_dorante
-C'est un homme intrépide !
-
--*who_madameargante
-Doucement, Dorante, il y a du remède à tout : voici un vieillard qui me paraît un honnête homme.
-Il me semble lui avoir entendu dire qu'il avait vu mourir le Marquis, et il ne nous refusera pas de l'assurer à ma fille, si son maître disait le contraire ; il sera bien aise de nous servir ; n'est-ce pas, bonhomme ?
-
--*who_frontin
-Il y va de mon honneur, et je parle bon français.
-
--*who_madameargante
-Non, pas trop bon, car on ne vous entend pas.
-Que voulez-vous qu'on fasse ?
-
--*who_frontin
-Vous avez pourtant su nous taxer d'honnêtes gens.
-
--*who_madameargante
-Ah !
-J'y suis, c'est de l'argent qu'il demande.
-
--*who_frontin
-Ce ne sera pas ma faute s'il en réchappe.
-
--*who_madameargante
-Voici votre maître et j'ai envie que nous lui parlions.
-
--*who_frontin
-Comme il vous plaira.
-
-**** *book_ *id_I14 *act_I *date_1750
-
--*who_lemarquis
-Je vous demande pardon, Madame, et je me retire.
-Je croyais Madame la Marquise avec vous.
-
--*who_madameargante
-Voyons ce qu'il dira...
-Approchez, Monsieur, vous n'êtes point de trop : votre valet nous parlait du Marquis qu'il a vu mort.
-
--*who_lemarquis
 Mon valet se trompe, car, à parler exactement, le Marquis était près d'expirer quand je l'ai quitté ; mais il vivait encore, et j'ai même un scrupule d'avoir dit qu'il n'était plus.
 
--*who_dorante
-Sans doute avez-vous d'autres raisons que votre valet pour être de ce sentiment-là.
-
--*who_lemarquis
 Mais, Scapin, vous n'y pensez pas ?
 
--*who_dorante
-Je l'ai si bien vu mort, nous disait-il, qu'il me semble le voir encore.
-
--*who_lemarquis
 Vous êtes un fripon, Scapin.
 
--*who_frontin
-Ah ! le fourbe !
-
--*who_madameargante
-Allons, parlez-lui donc, ôtez-lui son scrupule.
-
--*who_frontin
-Qu'importe ?
-Vous ne vous en portez pas plus mal.
-
--*who_madameargante
-Il a vu, ce qui s'appelle vu.
-
--*who_dorante
-Vous, mon bon homme, vous m'avez l'air de méditer pour essayer de vous dédire.
-
--*who_madameargante
-Et vous, Monsieur, vous avez tout l'air d'un aventurier qui par son industrie veut prolonger ici un séjour qui l'accommode.
-
--*who_lemarquis
 Un aventurier, moi, Madame ?
 
--*who_dorante
-Quittez le château, Monsieur, nous vous donnerons de l'argent pour faire votre voyage.
-
--*who_lemarquis
 Je n'ai besoin de rien, Monsieur.
 
--*who_madameargante
-Que de passer ici l'hiver.
-
--*who_lemarquis
 Tout le temps que je voudrai, Madame.
 
--*who_madameargante
-Comment donc, radoteur, vous prenez le ton de maître ?
-
--*who_dorante
-Il apprendra à qui il se joue.
-
--*who_lemarquis
 Vous en apprendrez plus que moi.
 
--*who_madameargante
-Jusqu'au revoir.
-
-**** *book_ *id_I15 *act_I *date_1750
-
--*who_lemarquis
 D'où vient donc que tu me raies du nombre des vivants ?
 
--*who_frontin
-Voilà ce qui en efface.
+Ah ! Je te le pardonne ; mais laisse-nous, voici la Marquise.
 
--*who_lemarquis
-Ah !
-Je te le pardonne ; mais laisse-nous, voici la Marquise.
-
-**** *book_ *id_I16 *act_I *date_1750
-
--*who_lamarquise
-Eh bien, Monsieur, nous voici seuls, et vous pouvez en liberté me parler de mon mari ; ne prenez point garde à ma douleur, elle m'est mille fois plus chère que tous les plaisirs du monde.
-
--*who_lemarquis
 Non, Madame, j'ai changé d'avis, dispensez-moi de parler : mon ami, s'il pouvait savoir ce qui se passe, approuverait lui-même ma discrétion.
 
--*who_lamarquise
-D'où vient donc, Monsieur ?
-Quel motif avez-vous pour me cacher le reste ?
-
--*who_lemarquis
 Ce que vous voulez savoir n'est fait que pour une épouse qui serait restée veuve, Madame.
 Le Marquis ne l'a adressé qu'à un coeur qui se serait conservé pour lui.
 
--*who_lamarquise
-Ah !
-Monsieur, comment avez-vous le courage de me tenir ce discours, dans l'attendrissement où vous me voyez ?
-Que pourrait lui-même me reprocher le Marquis ?
-Je le pleure depuis que je l'ai perdu et je le pleurerai toute ma vie.
+Vous allez cependant donner votre main à un autre, Madame, et ce n'est point à moi à y trouver à redire ; mais je ne saurais m'empêcher d'être sensible à la consternation où il en serait lui-même... Son épouse prête à se remarier ! Ce n'est pas un crime, et cependant il en mourrait, Madame. Je finis ma vie dans les plus grands malheurs, me disait-il ; mais mon coeur a joui d'un bien qui les a tous adoucis : c'est la certitude où je suis que la Marquise n'aimera jamais que moi. Et cependant il se trompait, Madame, et mon amitié en gémit pour lui.
 
--*who_lemarquis
-Vous allez cependant donner votre main à un autre, Madame, et ce n'est point à moi à y trouver à redire ; mais je ne saurais m'empêcher d'être sensible à la consternation où il en serait lui-même...
-Son épouse prête à se remarier !
-Ce n'est pas un crime, et cependant il en mourrait, Madame.
-Je finis ma vie dans les plus grands malheurs, me disait-il ; mais mon coeur a joui d'un bien qui les a tous adoucis : c'est la certitude où je suis que la Marquise n'aimera jamais que moi.
-Et cependant il se trompait, Madame, et mon amitié en gémit pour lui.
-
--*who_lamarquise
-Hélas, Monsieur !
-J'aime votre sensibilité, et je la respecte, mais vous n'êtes pas instruit ; c'est l'ami de mon mari même que je vais prendre pour juge : ne vous imaginez pas que mon coeur soit coupable ; que le vôtre ne gémisse point, le Marquis n'est point trompé.
-
--*who_lemarquis
 Il est question d'un mariage, Madame, et, suivant toute apparence, vous ne vous mariez pas sans amour.
 
--*who_lamarquise
-Attendez, Monsieur, il faut s'expliquer ; oui, les apparences peuvent être contre moi ; mais laissez-moi vous dire ; je mérite bien qu'on m'écoute.
-Je connaissais bien le Marquis, et j'ai peut-être porté la douleur au delà même de ce qu'un coeur comme le sien l'aurait voulu.
-Oui, je suis persuadée qu'il aimerait mieux que je l'oubliasse, que de savoir ce que je souffre encore.
+Ah ! J'ai peine à me contraindre.
 
--*who_lemarquis
-Ah !
-J'ai peine à me contraindre.
-
--*who_lamarquise
-Vous me trouvez prête à terminer un mariage, et je ne vous dis pas que je haïsse celui que j'épouse ; non, je ne le hais point, j'aurais tort : c'est un honnête homme.
-Mais pensez-vous que je l'épouse avec une tendresse dont mon mari pût se plaindre ?
-Ai-je pour lui des sentiments qui pussent affliger le Marquis ?
-Non, Monsieur, non, je n'ai pas le coeur épris, je ne l'ai que reconnaissant de tous les services qu'il m'a rendus, et qui sont sans nombre.
-C'est d'ailleurs un homme qui depuis près de deux ans vit avec moi dans un respect, dans une soumission, avec une déférence pour ma douleur, enfin dans des chagrins, dans des inquiétudes pour ma santé qui est considérablement altérée, dans des frayeurs de me voir mourir, qu'à moins d'avoir une âme dépouillée de tout sentiment, cela a dû faire quelque impression sur moi ; mais quelle impression, Monsieur ?
-La moindre de toutes : je l'ai plaint, il m'a fait pitié, voilà tout.
-
--*who_lemarquis
 Et vous l'épousez ?
 
--*who_lamarquise
-Dites donc que j'y consens, ce qui est bien différent, et que j'y consens tourmentée par une mère à qui je suis chère, qui me doit l'être, qui n'a jamais rien aimé tant que moi, et que mes refus désolent.
-On n'est pas toujours la maîtresse de son sort, Monsieur, il y a des complaisances inévitables dans la vie, des espèces de combats qu'on ne saurait toujours soutenir.
-J'ai vu cette mère mille fois désespérée de mon état, elle tomba malade : j'en étais cause ; il ne s'agissait pas moins que de lui sauver la vie, car elle se mourait, mon opiniâtreté la tuait.
-Je ne sais point être insensible à de pareilles choses, et elle m'arracha une promesse d'épouser Dorante.
-J'y mis pourtant une condition, qui était de renvoyer une seconde fois à Alger ; et tout ce qu'on m'en apporta fut un nouveau certificat de la mort du Marquis.
-J'avais promis, cependant.
-Ma mère me somma de ma parole ; il fallut me rendre, et je me rendis.
-Je me sacrifiai, Monsieur, je me sacrifiai.
-Est-ce là de l'amour ?
-Est-ce là oublier le Marquis ?
-Est-ce là épouser avec tendresse ?
-
--*who_lemarquis
 Voyons si elle rompra...
 Non, je conçois même par ce détail que vous seriez bien aise de revoir le Marquis.
 
--*who_lamarquise
-Ah !
-Monsieur, le revoir, hélas !
-Il n'en faudrait pas tant ; la moindre lueur de cette espérance arrêterait tout ; il y a dix ans que je ne vis pas, et je vivrais.
-
--*who_lemarquis
 Je n'hésiterai donc plus à vous donner cette lettre ; elle ne viendra point mal à propos, elle vous convient encore.
 
--*who_lamarquise
+Oui, Madame, et qu'il vous écrivit en mourant. J'étais présent.
+
+Ah ! Madame, je commence à craindre de vous avoir trop attendrie.
+
+Oui, Madame, on s'est trompé ; il est vrai que la plus grande partie des captifs mourut à Alger pendant que nous y étions ; mais nous trouvâmes le moyen de nous sauver, et c'est notre disparition qui a fait l'erreur : je suis dans le même cas, et le Marquis mourut dans notre fuite, ou du moins il se mourait quand je fus obligé de le quitter.
+
+Vous souhaitez donc qu'il vive ?
+
+S'il n'avait hésité de paraître que dans la crainte de n'être plus aimé ? S'il m'avait pré de venir ici pour pouvoir l'informer de vos dispositions ?
+
+Il va venir dans un instant, et vous l'allez voir.
+
+Non, je vous suis aussi cher qu'il vous l'est lui-même.
+
+Voici votre mère.
+
+Je ne saurais, Madame, il faut en conscience que je certifie qu'il vit encore.
+
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
+Point de compagnie surtout ; je n'en veux pas.
+
+C'est un captif, si je ne me trompe. Colas, avec qui êtes-vous ?
+
+D'Alger ? Est-ce là où vous avez été captif ? Y avez-vous demeuré longtemps ? C'est un pays où Monsieur le Marquis d'Ardeuil est mort ; peut-être l'avez-vous connu ?
+
+Je ne saurais le récompenser, puisqu'il n'est plus.
+
+Attendez. Mon mari était donc avec vous ?
+
+Ah ! Ciel !... Entendez-vous, ma mère ? Il faut donc qu'il ait bien souffert.
+
+Ah ! Dorante, n'êtes-vous pas pénétré de ce qu'il dit là ?
+
+Ma mère, ne le brusquez point. Je voudrais pouvoir soulager tous ceux qui ont langui dans les fers avec mon mari.
+
+A-t-il été captif aussi ?
+
+Non, Dorante, je veux qu'il vienne. Quoi ! Refuser de recevoir un homme qui a été l'ami de mon mari, et qui vient exprès ici pour m'en parler, vous n'y songez pas, Dorante ; ce n'est point là me connaître. Allez, Colas, allez avec ce domestique dire de ma part à son maître qu'il me fera beaucoup d'honneur, et que je l'attends.
+
+Vous vous trompez, Dorante, et je ne vous épouserais pas si votre attachement pour moi ne m'avait point touchée. Mais de quoi vous plaignez-vous ? Ce n'est point un amant, c'est un époux que je regrette ; vous l'avez connu, vous m'avez avoué vous-même qu'il méritait mes regrets ; ne lui enviez point mes larmes, elles ne prennent rien sur les sentiments que j'ai pour vous : vous êtes peut-être le seul homme du monde à qui je puisse consentir de me donner après avoir été à lui, et vous devez être content.
+
+Venez, Monsieur, j'aurais à me plaindre de vous. Vous étiez bien en droit de regarder la maison de Monsieur le Marquis comme la vôtre, et de descendre ici tout d'un coup, sans s'arrêter dans le village.
+
+Vous soupirez, Monsieur, vous le regrettez aussi.
+
+Ah !
+
+Vous ne sauriez croire combien vous m'affligez, ma mère, vous ne vous y prenez pas bien, vous me désespérez. Ne m'ôtez point la consolation d'écouter Monsieur. Je veux tout savoir, ou je me fâcherai, je romprais tout. Non, Monsieur, que rien ne vous retienne ; ne m'épargnez point, répétez-moi tous les discours du Marquis, toutes ses tendresses qui me seront éternellement chères, et pardonnez à l'amitié que ma mère a pour moi la répugnance qu'elle a à vous entendre.
+
+Hélas ! Je le reconnais, c'est le dernier gage qu'il reçut de mon amour, et il l'a gardé jusqu'à la mort. Ah ! Dorante, souffrez que je vous laisse, je ne saurais à présent en écouter davantage ; j'ai besoin de quelque moment de liberté ; et vous, Monsieur, demeurez quelques jours ici pour vous reposer, ne me refusez pas cette grâce : je vais donner des ordres pour cela... Ah !...
+
+Laissez-moi me conformer à ce qu'il a désiré, Dorante ; c'est un respect que je lui dois.
+
+Eh bien, Monsieur, nous voici seuls, et vous pouvez en liberté me parler de mon mari ; ne prenez point garde à ma douleur, elle m'est mille fois plus chère que tous les plaisirs du monde.
+
+D'où vient donc, Monsieur ? Quel motif avez-vous pour me cacher le reste ?
+
+Ah ! Monsieur, comment avez-vous le courage de me tenir ce discours, dans l'attendrissement où vous me voyez ? Que pourrait lui-même me reprocher le Marquis ? Je le pleure depuis que je l'ai perdu et je le pleurerai toute ma vie.
+
+Hélas, Monsieur ! J'aime votre sensibilité, et je la respecte, mais vous n'êtes pas instruit ; c'est l'ami de mon mari même que je vais prendre pour juge : ne vous imaginez pas que mon coeur soit coupable ; que le vôtre ne gémisse point, le Marquis n'est point trompé.
+
+Attendez, Monsieur, il faut s'expliquer ; oui, les apparences peuvent être contre moi ; mais laissez-moi vous dire ; je mérite bien qu'on m'écoute. Je connaissais bien le Marquis, et j'ai peut-être porté la douleur au delà même de ce qu'un coeur comme le sien l'aurait voulu. Oui, je suis persuadée qu'il aimerait mieux que je l'oubliasse, que de savoir ce que je souffre encore.
+
+Vous me trouvez prête à terminer un mariage, et je ne vous dis pas que je haïsse celui que j'épouse ; non, je ne le hais point, j'aurais tort : c'est un honnête homme. Mais pensez-vous que je l'épouse avec une tendresse dont mon mari pût se plaindre ? Ai-je pour lui des sentiments qui pussent affliger le Marquis ? Non, Monsieur, non, je n'ai pas le coeur épris, je ne l'ai que reconnaissant de tous les services qu'il m'a rendus, et qui sont sans nombre. C'est d'ailleurs un homme qui depuis près de deux ans vit avec moi dans un respect, dans une soumission, avec une déférence pour ma douleur, enfin dans des chagrins, dans des inquiétudes pour ma santé qui est considérablement altérée, dans des frayeurs de me voir mourir, qu'à moins d'avoir une âme dépouillée de tout sentiment, cela a dû faire quelque impression sur moi ; mais quelle impression, Monsieur ? La moindre de toutes : je l'ai plaint, il m'a fait pitié, voilà tout.
+
+Dites donc que j'y consens, ce qui est bien différent, et que j'y consens tourmentée par une mère à qui je suis chère, qui me doit l'être, qui n'a jamais rien aimé tant que moi, et que mes refus désolent. On n'est pas toujours la maîtresse de son sort, Monsieur, il y a des complaisances inévitables dans la vie, des espèces de combats qu'on ne saurait toujours soutenir. J'ai vu cette mère mille fois désespérée de mon état, elle tomba malade : j'en étais cause ; il ne s'agissait pas moins que de lui sauver la vie, car elle se mourait, mon opiniâtreté la tuait. Je ne sais point être insensible à de pareilles choses, et elle m'arracha une promesse d'épouser Dorante. J'y mis pourtant une condition, qui était de renvoyer une seconde fois à Alger ; et tout ce qu'on m'en apporta fut un nouveau certificat de la mort du Marquis. J'avais promis, cependant. Ma mère me somma de ma parole ; il fallut me rendre, et je me rendis. Je me sacrifiai, Monsieur, je me sacrifiai. Est-ce là de l'amour ? Est-ce là oublier le Marquis ? Est-ce là épouser avec tendresse ?
+
+Ah ! Monsieur, le revoir, hélas ! Il n'en faudrait pas tant ; la moindre lueur de cette espérance arrêterait tout ; il y a dix ans que je ne vis pas, et je vivrais.
+
 Une lettre de lui, Monsieur ?
 
--*who_lemarquis
-Oui, Madame, et qu'il vous écrivit en mourant.
-J'étais présent.
+Ah ! Cher Marquis !
 
--*who_lamarquise
-Ah !
-Cher Marquis !
-
--*who_lemarquis
-Ah !
-Madame, je commence à craindre de vous avoir trop attendrie.
-
--*who_lamarquise
-Je ne sais plus où je suis.
-Lisons.
+Je ne sais plus où je suis. Lisons.
 Je me meurs, chère épouse, et je n'ai pas deux heures à vivre ; je vais perdre le plaisir de vous aimer.
 C'est le seul bien qui me restait, et c'est après vous le seul que je regrette.
 Il faut que je respire.
@@ -999,86 +223,382 @@ Je reconnais le sien.
 Ma faiblesse me force de finir, mon ami part, on l'entraîne, et il ne peut pas sans risquer sa vie attendre mon dernier soupir.
 Comment, Monsieur, il vivait donc encore quand vous l'avez quitté ?
 
--*who_lemarquis
-Oui, Madame, on s'est trompé ; il est vrai que la plus grande partie des captifs mourut à Alger pendant que nous y étions ; mais nous trouvâmes le moyen de nous sauver, et c'est notre disparition qui a fait l'erreur : je suis dans le même cas, et le Marquis mourut dans notre fuite, ou du moins il se mourait quand je fus obligé de le quitter.
+Mais vous n'êtes donc sûr de rien, il a donc pu en revenir ? Parlez, Monsieur ; déjà je romps tout : plus de mariage ! Mais de quel côté irait-on ? Quelles mesures prendre ? Où pourrait-on le trouver ? Vous êtes son ami, Monsieur, l'abandonnerez-vous ?
 
--*who_lamarquise
-Mais vous n'êtes donc sûr de rien, il a donc pu en revenir ?
-Parlez, Monsieur ; déjà je romps tout : plus de mariage !
-Mais de quel côté irait-on ?
-Quelles mesures prendre ?
-Où pourrait-on le trouver ?
-Vous êtes son ami, Monsieur, l'abandonnerez-vous ?
+Si je le souhaite ! Ne me promettez rien que de vrai ; j'en mourrais.
 
--*who_lemarquis
-Vous souhaitez donc qu'il vive ?
+Tout mon coeur est à lui. Où est-il ? Menez-moi où il est.
 
--*who_lamarquise
-Si je le souhaite !
-Ne me promettez rien que de vrai ; j'en mourrais.
+Je vais le voir ! Je vais le voir ! Marchons, hâtons-nous, allons le trouver, je me meurs de joie, je vais le voir ! Vous êtes après lui ce qui me sera le plus cher.
 
--*who_lemarquis
-S'il n'avait hésité de paraître que dans la crainte de n'être plus aimé ?
-S'il m'avait pré de venir ici pour pouvoir l'informer de vos dispositions ?
-
--*who_lamarquise
-Tout mon coeur est à lui.
-Où est-il ?
-Menez-moi où il est.
-
--*who_lemarquis
-Il va venir dans un instant, et vous l'allez voir.
-
--*who_lamarquise
-Je vais le voir !
-Je vais le voir !
-Marchons, hâtons-nous, allons le trouver, je me meurs de joie, je vais le voir !
-Vous êtes après lui ce qui me sera le plus cher.
-
--*who_lemarquis
-Non, je vous suis aussi cher qu'il vous l'est lui-même.
-
--*who_lamarquise
-Qu'est-ce que c'est donc ?
-Qui êtes-vous ?
-Ah !
-Cher Marquis !
+Qu'est-ce que c'est donc ? Qui êtes-vous ?
+Ah ! Cher Marquis !
 Que je suis heureuse !
 
--*who_lemarquis
-Voici votre mère.
-
-**** *book_ *id_I17 *act_I *date_1750
-
--*who_madameargante
-Ma fille, je vous avertis que nous faisons arrêter cet homme-là qui refuse par pur intérêt de certifier que le Marquis est mort.
-
--*who_lemarquis
-Je ne saurais, Madame, il faut en conscience que je certifie qu'il vit encore.
-
--*who_madameargante
-Ah !
-Que vois-je ?
-C'est lui-même !
-
--*who_lamarquise
 Oui, ma mère, c'est lui, c'est lui que je tiens et que j'embrasse.
 
--*who_madameargante
-Monsieur, je n'ai plus rien à dire, jugez de mon embarras, et je me sauve bien confuse de tout ce qui s'est passé.
-
--*who_dorante
-Personne ici n'est plus déplacé que moi.
-
--*who_lamarquise
 Ni personne qui puisse me le disputer en ravissement.
 
--*who_frontin
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+
+Personne n'est averti, ma fille...
+Qu'est-ce que c'est que ce vieillard-là ?
+
+Oui, oui, ce Frontin était un domestique affectionné.
+
+Allez, allez, bon vieillard, en voilà assez.
+
+Que ne vous retirez-vous, puisqu'on vous le dit ? Voilà un vieillard bien importun avec ses relations. Que venez-vous faire ici ?
+
+Eh bien ! Qu'on ait soin de lui. Colas, menez-le là-bas.
+
+Encore !
+
+Mais d'aujourd'hui nous ne finirons de captifs, tout Alger va fondre ici !
+
+Tout ceci n'aboutira qu'à vous replonger dans vos tristesse, ma fille. Je ne vous conçois pas : y a-t-il de la raison à aimer ce qui chagrine, et ne voyez-vous pas d'ailleurs que vous affligez Dorante ?
+
+Vous vous trompez, Monsieur, ce n'est point moi que ceci regarde, c'est ma fille que voici.
+
+À vous dire vrai, Monsieur, voilà Monsieur, à qui vous auriez fait grand plaisir de la négliger : il va épouser ma fille, mettez-vous à sa place.
+
+Inconsolable !... Avec votre permission, Monsieur, cette pensée dans laquelle il est mort ne valait rien du tout ; le ciel nous préserve qu'elle soit exaucée ! Croyez-moi, passons là-dessus.
+
+Eh non, Monsieur, achevons ; que peut-il vous rester tant ? Le Marquis l'aimait beaucoup, il vous l'a dit, il est mort en vous le répétant, ce doit être là tout, il ne saurait guère y en avoir davantage.
+
+Vous réjouissez-vous à faire pleurer ma fille ? Vous avez les façons bien algériennes !
+
+Monsieur, dites à ce vieux valet de se taire.
+
+Ah ça, Monsieur, après tout, vous avez l'air d'un galant homme ; à votre âge, on a eu le temps de le devenir, et je crois que vous l'êtes.
+
+On le voit à votre physionomie.
+
+Ne nuisez donc point à Monsieur, ne reculez point son mariage. Vous avez dit à ma fille que vous aviez encore à lui parler. Abrégez avec elle, et ménagez sa faiblesse là-dessus : à quoi bon l'attendrir pour un homme qui n'est plus au monde ? Ne vous reprocheriez-vous pas d'être venu nous troubler pour satisfaire aux injustes fantaisies d'un mort ?
+
+Figurez-vous que depuis dix ans nous n'osons pas prononcer son nom devant elle ; qu'elle a vécu dans l'accablement pendant près de huit ans, qu'elle a refusé vingt mariages meilleurs que celui du Marquis.
+
+Ah ! Monsieur, cela passe toute imagination. Il est vrai que c'était un homme de mérite, un homme estimable, il avait des qualités... Mais enfin il n'est plus, et si vous connaissiez Monsieur, vous verriez qu'elle ne perd pas au change.
+
+Mais à quoi donc se réduit ce que vous avez à lui dire ?
+
+Encore une lettre !
+
+Quoi ! Il y va de votre honneur d'ôter la vie à ma fille ?
+
+Le ciel nous aurait fait une grande grâce de vous laisser à Alger.
+
+Voilà, je vous l'avoue, un étrange mort, avec sa misérable lettre ! Et plus étrange encore le vieillard qui s'en est chargé !
+
+Et moi, souvent plus de raison chez les enfants.
+
+Impertinent, vous en mériteriez sans votre âge.
+
+Retirons-nous, Dorante ; je sens que le feu me monte à la tête.
+
+Voici son valet ; essayons de le gagner, et qu'il nous instruise.
+Ah ! Vous voilà, bonhomme, nous vous cherchons.
+
+Allez, Lisette, laissez-nous, nous verrons cela.
+
+Ah çà, dites-nous, mon bonhomme, votre maître prétend-il rester longtemps ici ?
+
+Son quartier d'hiver !
+
+Doucement, Dorante, il y a du remède à tout : voici un vieillard qui me paraît un honnête homme. Il me semble lui avoir entendu dire qu'il avait vu mourir le Marquis, et il ne nous refusera pas de l'assurer à ma fille, si son maître disait le contraire ; il sera bien aise de nous servir ; n'est-ce pas, bonhomme ?
+
+Non, pas trop bon, car on ne vous entend pas. Que voulez-vous qu'on fasse ?
+
+Ah ! J'y suis, c'est de l'argent qu'il demande.
+
+Voici votre maître et j'ai envie que nous lui parlions.
+
+Voyons ce qu'il dira... Approchez, Monsieur, vous n'êtes point de trop : votre valet nous parlait du Marquis qu'il a vu mort.
+
+Allons, parlez-lui donc, ôtez-lui son scrupule.
+
+Il a vu, ce qui s'appelle vu.
+
+Et vous, Monsieur, vous avez tout l'air d'un aventurier qui par son industrie veut prolonger ici un séjour qui l'accommode.
+
+Que de passer ici l'hiver.
+
+Comment donc, radoteur, vous prenez le ton de maître ?
+
+Jusqu'au revoir.
+
+Ma fille, je vous avertis que nous faisons arrêter cet homme-là qui refuse par pur intérêt de certifier que le Marquis est mort.
+
+Ah ! Que vois-je ? C'est lui-même !
+
+Monsieur, je n'ai plus rien à dire, jugez de mon embarras, et je me sauve bien confuse de tout ce qui s'est passé.
+
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
+Je compte que le notaire sera ici sur les six heures.
+
+Laissez-nous.
+
+Cet entretien, en un tel jour, est bien mal à propos, et je souhaiterais qu'on nous l'épargnât.
+
+Je vais l'aller voir et je vous rapporterai ce qu'il m'aura dit, Madame.
+
+Il est vrai... J'aurais pu penser que mon amour tînt lieu de quelque consolation à Madame.
+
+Ouf !
+
+Ne me confierez-vous pas ce portrait, Madame ? Il m'est permis de le souhaiter.
+
+Vous avez bien de la mémoire, Monsieur.
+
+Ne voyez-vous pas que vous l'affligez, Monsieur, avec vos narrations ?
+
+Cette tendresse ne saurait résister quand on lui parle du défunt.
+
+Madame est prévenue en ma faveur.
+
+Vous me rendrez ainsi le plus grand service du monde.
+
+Une lettre du défunt ?
+
+Je vous demande de la supprimer, Monsieur ; vous risquez de me perdre en la rendant.
+
+Ne la lui remettez donc pas, elle s'en trouvera mieux.
+
 ...
 
--*who_lisette
-Ah !
-Le coquin !
+C'est un homme intrépide !
 
--*who_colas
+Sans doute avez-vous d'autres raisons que votre valet pour être de ce sentiment-là.
+
+Je l'ai si bien vu mort, nous disait-il, qu'il me semble le voir encore.
+
+Vous, mon bon homme, vous m'avez l'air de méditer pour essayer de vous dédire.
+
+Quittez le château, Monsieur, nous vous donnerons de l'argent pour faire votre voyage.
+
+Il apprendra à qui il se joue.
+
+Personne ici n'est plus déplacé que moi.
+
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+Le jardin est bien changé depuis dix ans, et nous allons savoir si nos femmes sont de même.
+
+C'est Colas que Madame a conservé !
+
+Il n'y a pas de danger : on nous croit du temps du déluge !
+
+Serviteur, Maître Colas !
+
+C'est le village.
+
+Peut-être avons-nous affaire dans le jardin des personnes.
+
+Nous venons de la part de feu Monsieur le Marquis d'Ardeuil apporter des nouvelles de sa santé à Madame la Marquise, sa veuve.
+
+Il ne vous aura pas dit les circonstances.
+
+Nous en mourûmes tous.
+
+Nous pensâmes en mourir aussi.
+
+Qui ? Moi, Maître Colas ?
+
+Je suis le grand-oncle du défunt.
+
+Défunt vous-même !
+
+Je perdrais jusqu'à mon dernier sou avec toi et ton tocsin.
+
+Voilà ma caducité rétablie.
+
+Et ma femme se pâmera-t-elle ?
+
+... La masque !
+
+Et ma femme ?
+
+Ah ! La maudite créature !
+
+Oui, Monsieur, ne vous embarrassez pas.
+
+Est-ce là ce grand monsieur qui s'emploie à ravigoter la Marquise ?
+
+Eh bien ! Notre retour ne le ravigotera guère.
+
+Hem ! Hem ! Hem !
+
+Oui, Madame, du pays d'Alger.
+
+J'ai surtout connu son valet, Frontin, qui est aussi, et qui se privait de tout pour le faire vivre.
+
+Il me semble que je vois encore sa brouette à côté de la mienne.
+
+Considérablement.
+
+J'oubliais le principal.
+
+Mon maître m'envoie demander s'il peut voir Madame la Marquise : c'est un gentilhomme des plus respectables et des plus décrépis.
+
+Il apporte d'Alger certaines circonstances touchant le défunt Marquis d'Ardeuil.
+
+Je suis touché de voir un aussi bon coeur de veuve.
+
+D'autant que le vin du cabaret est détestable.
+
+... Nous ne sommes pas au bout.
+
+Nous sommes des personnages tout à fait bénins.
+
+Nous étions dans la même condition.
+
+Si mon maître voulait, vous le verriez encore mieux.
+
+... nous sommes cruellement houspillés.
+
+Aussi leur donne-t-on des soufflets par mauvaise coutume.
+
+Ils aimeraient nous voir morts, mais nous prétendons vieillir bien davantage, ah ! ah !
+
+Et moi, je veux voir ce que fait ma masque de femme.
+
+Je vais les faire batifoler à grands coups de houssine.
+
+Oui, Monsieur, tout à l'heure.
+
+Je n'ai qu'une oreille à vous abattre.
+
+Ce pauvre Frontin avait bien deviné qu'elle était comme ma femme qui m'était infidèle.
+
+Et je garderai le legs, puisque ce galant a su faire broncher la fidélité de la coquine.
+
+À moi la somme !
+
+Je suis légataire et non pas voleur.
+
+...
+
+Il prétend y prendre son quartier d'hiver.
+
+Il y va de mon honneur, et je parle bon français.
+
+Vous avez pourtant su nous taxer d'honnêtes gens.
+
+Ce ne sera pas ma faute s'il en réchappe.
+
+Comme il vous plaira.
+
+Ah ! le fourbe !
+
+Qu'importe ? Vous ne vous en portez pas plus mal.
+
+Voilà ce qui en efface.
+
+...
+
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Monsieur, n'êtes-vous pas l'homme d'Alger ?
+
+Je vais vous montrer votre appartement, Monsieur, si vous souhaitez vous y retirer.
+
+Laissez-moi libre avec le bon vieillard.
+
+Jeannot ! Colas ! À moi ! Au secours !
+
+Appelez donc du secours, Colas !
+
+...
+
+J'ai cru entendre la voix du mort.
+
+Ah ! Le coquin !
+
+
+**** *creator_marivaux *book_marivaux_femmefidele *style_prose *genre_comedy *dist1_marivaux_prose_comedy_femmefidele *dist2_marivaux_prose_comedy *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colas
+
+Oh ! Oh ! Qu'est-ce qui vous a dit mon nom, bonhomme ?
+
+Et qu'est-ce que vous voulez ? Faut-il entrer comme ça dans le jardin des personnes sans demander ni quoi ni qu'est-ce ?
+
+Vous venez donc chercher quelqu'un ici ?
+
+Des nouvelles de la santé d'un mort ? Velà-t-il pas une belle acabit de santé ? Hélas ! Le pauvre Monsieur le Marquis, je savons bian qu'il est défunt, vous ne nous apprenez rian de nouviau, il y a déjà queuque temps que j'avons reçu le darnier certificat de son trépassement.
+
+Oui, Monsieur.
+
+Oh ! Si fait. Je savons tous les tenants et les aboutissants... C'est la peste qui a étouffé Monsieur le Marquis.
+
+Je ne dis pas qu'alle vous étouffit vous autres, puisque vous velà ; je dis tant seulement qu'alle tuit Monsieur le Marquis.
+
+Hélas ! Il ne pensait pas, li ; il en fut tué tout à fait.
+
+Ah ! Monsieur, je ne l'aurons jamais en oubliance. Jamais je ne varrons son pareil. C'est un hasard que noute dame n'en a perdu l'esprit ; la mort de l'homme fut quasiment l'entarement de la femme ; et depuis qu'alle est réchappée, alle a biau faire, cette misérable perte lui est toujours restée dans le coeur.
+
+C'est l'effet de votre bonté : car vous paraissez bian caduc et bien cassé. Vous avez donc été tous deux pris des Turcs, votre valet et vous, avec note maître ?
+
+Il m'est avis que c'est de vilain monde ; eh ! Dites-moi, braves gens, ce pauvre Frontin qui s'embarquit de compagnie avec noute maître, que lui est-il arrivé ? Est-il mort emporté itou ?
+
+Comment, vous ? Est-ce qu'ous êtes Frontin ?
+
+Boutez-vous là, que je vous contemple... Oh ! Morgué ! Il n'y a barbe qui tienne ; à cette heure que j'y regarde, je vais parier que vous êtes le défunt du grand-oncle.
+
+Jarnigué ! C'est li, vous dis-je... Et cela me fait rêver itou que son camarade... Eh ! Palsangué, Monsieur !... C'est encore vous ! C'est Monsieur le Marquis, c'est Frontin ; je me moque des barbes, ce n'est que des manigances ; je sis trop aise, ça me transporte, il faut que je crie... Faut que j'aille conter ça : queu plaisir ! Faut que tout le village danse, c'est moi qui mènerai le branle ! Velà Monsieur le Marquis, velà Frontin, velà les défunts qui ne sont pas morts ! Allons, morgué ! De la joie ! Je vas dire qu'on sonne le tocsin.
+
+Ouf ! Laissez-moi reprendre mon vent !... Queu contentement !... Comme vous velà faits ! D'où viant vous ajancer comme ça des barbes de grands-pères ?
+
+Il est certain qu'alle vous aime autant que ça se peut pour un trépassé, et drès qu'alle vous varra, qu'alle vous touchera, mon avis est qu'il y aura de la pâmoison dans la revoyance.
+
+Non.
+
+Que voulez-vous, nout'maître !... Alle a été quatre ans dans les syncopes et pis encore deux ou trois ans dans les mélancolies, pus étique... Pus chétive... Pus langoureuse... Alle faisait compassion à tout le monde, alle n'avait appétit à rien, un oiseau mangeait plus qu'elle... Il n'y avait pas moyen de la ragoûter ; sa mère lui en faisait reproche : Eh mais ! Mon enfant, qu'est-ce que c'est que ça, queu train menez-vous donc ? Il est vrai que vout'homme est mort ; mais il en reste tant d'autres ! Mais il y en a tant qui le valent ! Et nonobstant tout ce qu'an lui reprochait, la pauvre femme n'amendait point. À la parfin, il y a deux ans, je pense, que la mère, vers la moisson, amenit au château une troupe de monde, parmi quoi il y avait un grand monsieur qui en fut affolé drès qu'il l'envisagit, et c'est c'ti-à qui va la prendre pour femme... Ils se promenaient tout à l'heure envars ici, et il a eu bian du mal après elle. Il n'y a que trois mois qu'alle peut l'endurer : la v'là stapendant qui se ravigote, et je pense que le tabellion doit venir tantôt de Paris.
+
+Mais... oui... tout doucement, à condition qu'ous êtes mort.
+
+Oh ! si vous êtes défunt, tenez-vous-y.
+
+Tenez, Monsieur, velà voute veuve et son prétendu qui prenont leur tournant ici avec voute belle-mère.
+
+Enfilez ce chemin, il y a au bout ma cabane où vous vous nicherez.
+
+Lui-même.
+
+Faut avoir quatre-vingts ans en leur parlant au moins, faut tousser beaucoup.
+
+Avec un vieux qui, sauf vote respect, reviant du pays barbare, note dame.
+
+Une bonne pâte de garçon, je l'avions élevé tout petit.
+
+Il n'y a qu'à le mener à l'office.
+
+Eh bian, noute maître, j'ons vu que vous parliez à Madame. N'avez-vous pas eu contentement d'elle ? N'est-ce pas que c'est une brave femme que voute femme ?
+
+Je vous avartis qu'alle se lamente là-bas dans ce petit cabinet de vardure, alle a la face toute trempée : j'ons vu ses deux yeux qui vont quasiment comme des arrosoirs, c'est une piquée. Faut l'apaiser, Monsieur, faut li montrer le défunt.
+
+Oh ! Il n'y a rian là de biau à voir, la curiosité est bian chetite. Tenez, la velà qui viant avec son nouviau galant qui batifole à l'entour d'elle.
+
+Tenez, bonhomme, velà cette demoiselle Lisette que vous charchez.
+
+Arrêtez-vous donc, petit garçon ; faut-il badiner comme ça avec la barbe du vieux monde ?
+
+Oui, oui, ça est juste : faut pas que les gens du dehors sachiont les petites broutilles du ménage ; j'allons nous jeter de côté, Jeannot et moi.
+
+Quoi donc ? Est-ce qu'il y a du massacre ici ?
+
+Bellement, noute ancien, rengainez donc, remettez dans le fourriau.
+
+Non, non, laissez li la paire d'oreilles.
+
+Velà le biau sorcier, c'était deviner qu'alle était une femme.
+
+Faudra donc pas de poche à la veuve pour sarrer ça.
+
+Ah ! Ah ! Ah !
+
 Mon ami le défunt, commençons par aller boire sur votre testament.
+

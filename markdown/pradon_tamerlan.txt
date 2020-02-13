@@ -1,6 +1,6 @@
 ---
 identifier: pradon_tamerlan  
-creator: Pradon, Nicolas  
+creator: Pradon, Nicolas ; Georges Forestier.  
 date: 1676  
 title: Tamerlan ou la Mort de Bajazet. Tragédie  
 ---

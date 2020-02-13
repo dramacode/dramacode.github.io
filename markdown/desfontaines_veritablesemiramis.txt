@@ -1,6 +1,6 @@
 ---
 identifier: desfontaines_veritablesemiramis  
-creator: Desfontaines, Nicolas  
+creator: Desfontaines, Nicolas ; Georges Forestier.  
 date: 1647  
 title: La Véritable Sémiramis. Tragédie  
 ---

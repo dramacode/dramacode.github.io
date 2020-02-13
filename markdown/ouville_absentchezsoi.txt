@@ -1,6 +1,6 @@
 ---
 identifier: ouville_absentchezsoi  
-creator: Ouville, Antoine d'  
+creator: Ouville, Antoine d' ; Georges Forestier.  
 date: 1643  
 title: L'Absent chez soy. Comédie  
 ---

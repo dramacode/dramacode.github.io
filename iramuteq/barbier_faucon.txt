@@ -1,122 +1,37 @@
 
 
-**** *book_ *id_I01 *act_I *date_1719
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
 
--*who_federic
 Te voilà bien chagrin ?
 
--*who_pasquin
-      N'en ai-je pas raison ?
-Vainement dans les airs vous lâchez ce faucon ;
-Il ne rapporte rien.
-
--*who_federic
       Hé, maraud, que t'importe ?
 
--*who_pasquin
-Comment ! Nous ne vivons que de ce qu'il rapporte :
-Il nous a jusqu'ici fourni quelques repas ;
-Mais il ne vaut plus rien depuis qu'il est si gras;
-Ah ! Que j'aime un Oiseau, qui par un seul coup d'aIle,
-S'en va me tenir lieu de pourvoyeur fidèle !
-Je voudrais que son vol fut plus prompt qu'un éclair :
-J'appelle tels oiseaux les pirates de l'air.
-Un Vaisseau trop chargé, Monsieur, n'avance guère,
-Et le meilleur voilier, est le meilleur corsaire.
-
--*who_federic
 Rassure-toi, le jour n'est pas encor passé.
 
--*who_pasquin
-Ah ! Le petit ingrat, je l'ai trop engraissé ;
-Et pour ma récompense il veut que je maigrisse :
-Tenez, voyez plutôt, j'ai déjà la jaunisse,
-Me voilà saffrané jusques au blanc des yeux.
-
--*who_federic
 Tant mieux.
 
--*who_pasquin
-      Que dites-vous ?
-
--*who_federic
       Tant mieux, Pasquin, tant mieux.
 
--*who_pasquin
-Dites plutôt, tant pis.
-
--*who_federic
       Hé ! Hé ! Hé !
 
--*who_pasquin
-      Pourquoi rire ?
-
--*who_federic
 Hé ! Qui ne rirait pas ? Ne viens-tu pas de dire,
 Que depuis qu'il est gras ce faucon ne vaut rien ?
 Prononçant son arrêt tu prononces le tien ;
 À te faire jeûner je mettrai mon étude ;
 Tu n'en vaudras que mieux.
 
--*who_pasquin
-      L'épreuve est un peu rude ;
-Et s'il y faut venir, je ne vous réponds pas,
-De m'attacher ici plus longtemps sur vos pas.
-
--*who_federic
 Tu pourrais me quitter !
 
--*who_pasquin
-      J'irai trouver Lisette ;
-Pour me mettre à l'abri d'une affreuse disette :
-Dans ce triste séjour, on ne fait que jeûner ;
-L'Oiseau n'a-t-il rien pris ? Il ne faut point dîner ?
-Voilà ce qu'ont produit vos feux pour Axiane :
-J'en enrage ; à jeûner, c'est ce qui me condamne.
-
--*who_federic
 Ce jeûne-là, Pasquin, te tient bien fort au coeur ?
 
--*who_pasquin
-Oui, c'est-là le sujet de ma triste langueur.
-
--*who_federic
 Le terme est un peu fort.
 
--*who_pasquin
-      Il est de votre style ;
-Doux, tendre, pathétique, et pourtant inutile.
-
--*who_federic
 Poursuis ; tout à loisir je te laisse jaser.
 
--*who_pasquin
-Nous voici dans un lieu propre à moraliser.
-Cà, raisonnons un peu : pour plaire à votre ingrate,
-Dont malgré ses rigueurs le souvenir vous flatte,
-Vous n'avez épargné ni bijoux, ni cadeaux :
-Pour elle tous les jours c'étaient plaisirs nouveaux,
-Comédie, Opéra, bombance sur bombance :
-Cependant, de vos soins, quelle est la recompense ?
-L'Amour qui vous a fait consumer votre bien,
-Est ce faucon lâché, qui ne rapporte rien.
-
--*who_federic
 Quoi ! Des comparaisons !
 
--*who_pasquin
-      Ce sont sages paroles ;
-Mais vous les écoutez comme des fariboles,
-Que d'un air dédaigneux il faut mettre à l'écart ;
-Et d'ailleurs mes leçons viennent un peu tard.
-
--*who_federic
 Moraliseur fâcheux, n'as-tu plus rien à dire ?
 
--*who_pasquin
-Quoi ! Vous ne pleurez pas !
-
--*who_federic
       Va, je n'aime qu'à rire.
 Philosophe nouveau, tu le sais bien. Pasquin,
 Plus l'amour autrefois m'a causé de chagrin,
@@ -134,97 +49,34 @@ Moi, je l'irais chercher ! Qu'elle n'y compte pas,
 Dussai-je autant d'amour que je lui sais d'appas :
 Non, je fuis trop piqué.
 
--*who_pasquin
-      Monsieur, je me défie
-D'un dépit si contraire à la Philosophie ;
-Votre coeur me paraît un peu trop agité :
-Ne sauriez-vous haïr avec tranquillité ?
-
--*who_federic
 Moi, je ne la hais point ; mais du moins je te jure
 De ne la jamais voir.
 
--*who_pasquin
-      Je crains peu le parjure :
-On ne peut qu'à grands frais se montrer son amant,
-Et votre pauvreté me répond du serment :
-Ah ! Qu'il eût mieux valu...
-
--*who_federic
       Toujours de la morale ?
 
--*who_pasquin
-Ce font noires vapeurs que l'abstinence exhale ;
-Mais quand dînerons-nous ?
-
--*who_federic
       Tu dîneras demain.
 
--*who_pasquin
-Peste soit de l'Amour qui fait mourir de faim.
-
--*who_federic
 Mais toi-même autrefois n'aimais-tu pas Lisette ?
 
--*who_pasquin
-Mais, comme sa Maîtresse, était-elle coquette ?
-Du moins dans mes amours je n'ai rien mis du mien.
-
--*who_federic
 Et la grande raison, c'est que tu n'avais rien.
 
--*who_pasquin
-Qu'importe, à vos dépens je me donnais carrière :
-Ô Lisette ! Avec toi je faisais chère entière :
-Que de charmants repas ! Mais regrets superflus !
-Hélas ! J'en ai tant fait, que je n'en ferai plus :
-Tous mes plaisirs passés ne sont qu'une ombre vaine ;
-Vous avez fait la faute, et j'en porte la peine.
-
--*who_federic
 Mais pour Lisette encor ressens-tu de l'amour ?
 
--*who_pasquin
-Je puis de sa cuisine avoir besoin un jour,
-Et ce jour n'est pas loin.
-
--*who_federic
       Imite ma sagesse,
 Oublions pour jamais et suivante et maîtresse ;
 De la seule raison il faut suivre la loi ;
 Pour moi je n'aime plus que ce faucon et toi.
 
--*who_pasquin
-Passe pour le faucon, grâce à votre tendresse,
-Autant que je maigris, tous les jours il engraisse.
-
--*who_federic
 Quel bruit vient me frapper ? Cours, va voir ce que c'est.
 
--*who_pasquin
-À la chasse d'autrui, prenons-nous intérêt ?
-
--*who_federic
 N'importe, va savoir...
 
--*who_pasquin
-      Si c'est votre Diane ?
-Elle aime les forêts.
-
--*who_federic
       Quoi ! Toujours Axiane ?
 Pasquin, je te défends de prononcer son nom :
 Fais ce que je te dis, va, donne ce faucon.
 
--*who_pasquin
-Tenez : je fuis ravi que l'on m'en débarasse.
-
--*who_federic
 Cours, et viens m'informer de tout ce qui se passe.
 
-**** *book_ *id_I02 *act_I *date_1719
-
--*who_federic
 Toi qui d'un vol plus prompt que celui des Zéphirs,
 T'élances dans les airs au gré de mes désirs ,
 Et qui dans les forêts à mes leçons docile,
@@ -253,54 +105,21 @@ Si je l'élève ici, c'est pour l'humilier,
 Et je ne m'en souviens, que pour mieux l'oublier.
 Mais j'aperçois Pasquin.
 
-**** *book_ *id_I03 *act_I *date_1719
-
--*who_federic
       Hé bien ! Quelle nouvelle ?
 
--*who_pasquin
-Ah ! Monsieur, il n'en fut jamais de plus cruelle :
-Ouf ! Je ne puis parler tant je suis confondu.
-
--*who_federic
 Qu'est-il donc arrivé ? Parle.
 
--*who_pasquin
-      Tout est perdu.
-
--*who_federic
 Quel étrange accident, Pasquin, viens-tu m'apprendre ?
 
--*who_pasquin
-Tremblez, votre Axiane en ces lieux va se rendre.
-
--*who_federic
 Pasquin ?
 
--*who_pasquin
-      Ce n'est pas tout : pour nous assassiner,
-C'est peu que d'y venir, elle y prétend dîner.
-
--*who_federic
 Ô comble de bonheur ! Pasquin, un tête-à-tête !
 Qu'à la bien recevoir à l'envi tout s'apprête.
 Adorable beauté ! Que ne puisse à tes yeux
 Prodiguer l'ambroisie, et le nectar des Dieux ?
 
--*who_pasquin
-Que parlez-vous ici de nectar, d'ambroisie ?
-L'Amour vous a-t-il fait tomber en frénésie ?
-Ne vous souvient-il plus de cet ordre inhumain,
-Qui tantôt pour dîner m'a remis à demain ?
-
--*who_federic
 Que me rappelles-tu ?
 
--*who_pasquin
-      Cet oiseau si fidèle
-Vous sert mal au besoin.
-
--*who_federic
       Ô fortune cruelle !
 Ne m'as-tu pas encor assez persécuté ?
 Je te pardonnerais de m'avoir tout ôté,
@@ -308,51 +127,19 @@ Si du moins pour premier et pour dernier office
 Dans ce pressant besoin je te trouvais propice.
 Pasquin ?
 
--*who_pasquin
-      Hé bien ! Pasquin ?
-
--*who_federic
       N'imagines-tu rien ?
 Cherche, invente.
 
--*who_pasquin
-      Monsieur...
-
--*who_federic
       Hé bien ! Dépêche.
 
--*who_pasquin
-      Hé bien !
-
--*who_federic
 Quoi ! Toi-même au besoin tu me manques ?
 
--*who_pasquin
-      J'enrage.
-De rien on ne fait rien ; et le diable, je gage,
-S'il était comme moi dans un si mauvais pas,
-Tout inventif qu'il est, ne s'en tirerait pas.
-Je ne sais qu'un moyen.
-
--*who_federic
       Ah ! Que j'aime ton zèle !
 
--*who_pasquin
-C'est de vous éclipser aux yeux de votre belle.
-
--*who_federic
 Que me proposes-tu ? Je fuirais ses beaux yeux ?
 
--*who_pasquin
-Voyez, imaginez, quelque chose de mieux.
-
--*who_federic
 De grâce, cher Pasquin, montre ici ton adresse.
 
--*who_pasquin
-Elle est à bout.
-
--*who_federic
       Ah ! Ciel ! Cependant le temps presse ;
 Et l'objet de mes feux sans doute n'est pas loin ;
 Il y va de ma gloire, il faut en prendre soin :
@@ -360,54 +147,23 @@ Il faut, quoi qu'il arrive, aux yeux de ce que j'aime
 Dérober, s'il se peut, mon indigence extrême.
 Amour, inspire-moi.
 
--*who_pasquin
-      Ma foi, jusqu'à ce jour
-Rien de bon ne vous fut inspiré par l'amour.
-
--*who_federic
 On vient. Écoute.
 
--*who_pasquin
-      Ciel ! Je pourrais m'y résoudre !
-Ah ! Que je sois plutôt écrasé de la foudre,
-Monsieur....
-
--*who_federic
       Épargne-toi des conseils superflus,
 Emporte ce Faucon, et ne réplique plus.
 
--*who_pasquin
-Je suis mort.
-
-**** *book_ *id_I04 *act_I *date_1719
-
--*who_federic
       Quoi ! C'est vous, trop aimable inhumaine !
 Auprès de Federic quel destin vous amène ?
 J'avais cru pour jamais être oublié de vous.
 
--*who_axiane
-Il faut bien vous chercher, quand vous nous fuyez tous.
-
--*who_federic
 Hélas ! En vous fuyant, je fuis tout ce que j'aime ;
 Et m'arrachant à vous, je m'arrache à moi-même :
 Mais je me cache en vain dans le fond des forêts ;
 Des yeux qui m'ont blessé, jc sens partout les traits.
 Se peut-il que l'Amour survive à l'espérance ?
 
--*who_axiane
-Vous plaindrez-vous toujours de mon indifférence ?
-L'Amour a des tourments quii doivent m'alarmer,
-Et mon coeur à ce prix ne veut pas s'enflammer.
-
--*who_federic
 Quoi ! Je ne puis prétendre au bonheur de vous plaire ?
 
--*who_axiane
-Avez-vous des rivaux que mon coeur vous préfère ?
-
--*who_federic
 Le mal de mes rivaux n'adoucit pas le mien :
 Est ce un bonheur pour moi que ce coeur n'aime rien ?
 Que dis-je ? Pour ma flamme il vaudrait mieux peut-être,
@@ -415,24 +171,144 @@ Qu'un Rival plus heureux eût su s'en rendre maître ;
 Comme j'ai plus d'amour, je pourrais aspirer
 Au bonheur, sans égal, de me voir préférer.
 
--*who_axiane
+Et pourquoi les quitter ? Craignez-vous d'en trop dire ?
+
+Ciel ! qu'entends-je ? Achevez de rompre le silence.
+
+Me voilà de mon sort pleinement éclairci.
+Ah ! cruelle.
+
+      Si tu dis un mot, crains d'éprouver ma rage;
+
+      Bourreau, te tairas-tu ?
+Madame, pardonnez, pour certaines affaires ;
+Je donne à ce valet des ordres nécessaires.
+Prends garde de broncher.
+      Pasquin, tu m'entends bien,
+De tout ce que j'ai dit, fais qu'il ne manque rien.
+
+      Ce coquin va me deshonorer ;
+D'un pas si dangereux, tâchons de nous tirer.
+Pasquin depuis un temps est sujet au délire,
+Il est fou.
+
+      Voyez, comme son mal empire ;
+Il est d'autant plus fou qu'il croit ne l'être pas.
+
+      Si tu réponds, je te casse les bras.
+
+Voyez, comme il répond, et jugez s'il est sage.
+
+      Pour un mot lâché, deux cents coups de bâton.
+
+Je lui dis certains mots d'un Médecin Arabe.
+
+Voyez, comme son mal lui fait rouler les yeux.
+
+      Garde-toi d'une épreuve pareille,
+Il te l'arracherait.
+
+Il est temps de finir tes mortelles alarmes;
+Madame ; votre vue a pour moi mille charmes :
+Mais au mal de Pasquin il faut aller pourvoir,
+Et préparer ces lieux pour vous y recevoir.
+
+      Un plat, et très léger.
+
+Bien en prend à ton dos.
+
+Va, fais-nous avertir, lorsque tout sera prêt.
+
+Lisette, qu'as-tu fait de ta belle maîtresse ?
+
+      Quoi ! Seule ? Il faut l'aller trouver.
+
+Lisette, que dis-tu ?
+
+Madame, pardonnez si je vous ai quittée ,
+D'un soin pressant mon âme était inquiétée,
+Et ma présence était nécessaire à Pasquin.
+On va bientôt servir.
+
+Ce séjour écarté ne permet pas d'en faire.
+
+      Dans un désert on fait mauvaise chère :
+Cependant je prends soin qu'on vous offre en ces lieux
+Ce que j'ai de plus cher, et de plus précieux.
+
+      Quoi ! vous pourriez douter,
+Quoique vous ordonniez, que je ne l'exécute ?
+La Fortune ennemie en vain me persécute ;
+Elle m'a tout ôté par une dure loi :
+Mais ce coeur qui me reste, est plus à vous qu'à moi.
+
+      Expliquez-vous, de grâce ?
+Que puis-je ?
+
+Je tremble.
+
+      Juste Ciel !
+
+Ai-je bien entendu ? Quoi ! Vous voulez, Madame...
+
+      Hé ! Que puis-je accorder ?
+Fortune impitoyable, achevé, prend ma vie ;
+Barbare, je croyais ta fureur assouvie ;
+Mais tu mets aujourd'hui le comble à mon malheur,
+Par le coup imprévu dont tu frappes mon coeur.
+Ô rigueur sans égale ! Ô tyrannique empire !
+
+      Que me demandez-vous ?
+Hélas ! Si vous saviez, Madame, à quel usage...
+
+Je n'ai jamais aimé ! Quel injuste langage !
+Hélas ! Et dans quel temps me fait-on cet outrage !
+Je viens de me réduire au plus funeste état ;
+Et quand j'ai tout donné, je passe pour ingrat.
+
+      Non, demeurez, ou dans mon noir transport,
+De ce fer a vos yeux, je me donne la mort :
+Il faut sur mes refus que je me justifie.
+Heureux, si vous n'aviez demandé que ma vie !
+Je vous l'aurais donnée, elle est en mon pouvoir,
+L'amour que j'ai pour vous m'en eût fait un devoir,
+Mais faut-il que le sort à tous mes voeux contraire,
+M'ôte le seul moyen que j'avais de vous plaire ?
+Avec plus de noirceur peut-il m'assassiner ?
+Hélas ! L'oiseau n'est plus, vous en allez diner.
+
+      Le sort à tel point m'est funeste,
+Que je vous offre en vain le seul bien qui me reste ;
+Mais n'importe, en ces lieux prêt à vous recevoir ;
+Ai-je pu trop payer le plaisir de vous voir ?
+
+      Quels mots ont frappé mon oreille !
+Votre coeur est à moi ! Je doute si je veille :
+Ah ! Dans le doux transport qui vient de me saisir,
+Permettez qu'à vos pieds j'expire de plaisir.
+
+      Amour, ai-je trop fait pour toi ?
+
+
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axiane
+
+Il faut bien vous chercher, quand vous nous fuyez tous.
+
+Vous plaindrez-vous toujours de mon indifférence ?
+L'Amour a des tourments quii doivent m'alarmer,
+Et mon coeur à ce prix ne veut pas s'enflammer.
+
+Avez-vous des rivaux que mon coeur vous préfère ?
+
 Ah ! Ne souhaitez pas qu'un autre objet m'enflamme,
 Si l'amour une fois s'emparait de mon âme :
 J'ose vous l'assurer, ce serait pour toujours ;
 Je me connais trop bien : mais quittons ces discours.
 
--*who_federic
-Et pourquoi les quitter ? Craignez-vous d'en trop dire ?
-
--*who_axiane
 Mon coeur s'est expliqué, cela vous doit suffire :
 Croyez que jusqu'ici vous l'avez mal connu,
 Et qu'un jour... mais ce jour n'est pas encor venu.
 
--*who_federic
-Ciel ! qu'entends-je ? Achevez de rompre le silence.
-
--*who_axiane
 Arrêtez, ces transports ont trop de violence :
 Mais je m'en prends à moi, ce que j'ai fait pour vous
 A donné lieu, Sans doute, à des transports si doux :
@@ -444,255 +320,39 @@ Après avoir longtemps couru de plaine en plaine,
 Ma troupe chasse encor dans la forêt prochaine ;
 Moi, pour me reposer, je viens l'attendre ici.
 
--*who_federic
-Me voilà de mon sort pleinement éclairci.
-Ah ! cruelle.
-
-**** *book_ *id_I05 *act_I *date_1719
-
--*who_pasquin
-      Monsieur, je n'ai pas le courage
-De...
-
--*who_federic
-      Si tu dis un mot, crains d'éprouver ma rage;
-
--*who_pasquin
-Dûssai-je être cent fois et mille fois battu ;
-J'en aurai le coeur net.
-
--*who_federic
-      Bourreau, te tairas-tu ?
-Madame, pardonnez, pour certaines affaires ;
-Je donne à ce valet des ordres nécessaires.
-Prends garde de broncher.
-      Pasquin, tu m'entends bien,
-De tout ce que j'ai dit, fais qu'il ne manque rien.
-
--*who_pasquin
-Non, je ne saurais plus me faire violence ;
-Ce serait vous trahir que garder le silence.
-Madame.
-
--*who_federic
-      Ce coquin va me deshonorer ;
-D'un pas si dangereux, tâchons de nous tirer.
-Pasquin depuis un temps est sujet au délire,
-Il est fou.
-
--*who_pasquin
-      Moi !
-
--*who_federic
-      Voyez, comme son mal empire ;
-Il est d'autant plus fou qu'il croit ne l'être pas.
-
--*who_pasquin
-Quoi donc ?
-
--*who_federic
-      Si tu réponds, je te casse les bras.
-
--*who_pasquin
-Je serais trop heureux, si j'en perdais l'usage.
-
--*who_federic
-Voyez, comme il répond, et jugez s'il est sage.
-
--*who_lisette
-Ah ! mon pauvre Pasquin : éloignement máudir !
-En cessant de me voir, il a perdu l'esprit.
-
--*who_pasquin
-C'est bien en vous voyant en ces lieux l'une et l'autre ;
-Qu'y venez - vous chercher ì Quel malheur est le nôtre!
-
--*who_lisette
-Madame, il est trop vrai ; n'en doutons nullement ;
-De ses yeux enfoncés, voyez l'égarement,
-L'amour l'a rendu fou.
-
--*who_pasquin
-      Mais toi-même es-tu folle ?
-De croire que l'amour...
-
--*who_lisette
-      Cette seule parole
-Ne me fait que trop voir que son timbre est fêlé,
-ll peut nier qu'il m'aime ! il est ensorcelé.
-
--*who_pasquin
-Trêve d'amour, Lisette, et de sorcellerie ;
-Veux-tu savoir d'où vient toute la diablerie.
-C'est...
-
--*who_federic
-      Pour un mot lâché, deux cents coups de bâton.
-
--*who_pasquin
-Ouf ! C'est le prendre là sur un diable de ton.
-
--*who_federic
-Je lui dis certains mots d'un Médecin Arabe.
-
--*who_pasquin
-Je n'ai garde d'en perdre une seule syllabe :
-Ce sont mots d'un grand poids, ils opèrent des mieux.
-
--*who_federic
-Voyez, comme son mal lui fait rouler les yeux.
-
--*who_pasquin
-Que je dise à Lisette un seul mot à l'oreille;
-Écoute.
-
--*who_federic
-      Garde-toi d'une épreuve pareille,
-Il te l'arracherait.
-
--*who_lisette
-      Ah ! ah ! N'approche pas.
-Je vais m'évanouir si tu fais un seul pas.
-
--*who_federic
-Il est temps de finir tes mortelles alarmes;
-Madame ; votre vue a pour moi mille charmes :
-Mais au mal de Pasquin il faut aller pourvoir,
-Et préparer ces lieux pour vous y recevoir.
-
--*who_pasquin
-Allez, vous nous ruinez ; c'est une conscience.
-
--*who_axiane
 Au moins ne faites pas ici de la dépense ;
 Je ne veux qu'un seul plat.
 
--*who_federic
-      Un plat, et très léger.
-
--*who_pasquin
-Quelque léger qu'il soit, il nous coûtera cher.
-
-**** *book_ *id_I06 *act_I *date_1719
-
--*who_axiane
 Pasquin me fait pitié.
 
--*who_lisette
-      Je suis inconsolable.
-Encor si de son mal j'étais seule coupable ;
-Si pour me trop aimer il perdait la raison,
-D'où le mal est venu viendrait la guérison ;
-Je sens que ma fierté rendrait bientôt les armes,
-Et d'ailleurs sa folie honorerait mes charmes ;
-Mais, Madame ; c'est vous que j'en dois accuser.
-
--*who_axiane
 Moi !
 
--*who_lisette
-      Je vous parle ici sans vous rien déguiser,
-Je vous garantis sous le valet et le maître ;
-L'un l'est déjà, pour l'autre il n'est pas loin de l'être.
-
--*who_axiane
 Tu perds l'esprit toi-même.
 
--*who_lisette
-      Oh que non.
-
--*who_axiane
       Mais enfin,
 Que veux-tu dire ?
 
--*who_lisette
-      Hélas ! Si vous plaignez Pasquin,
-Federic plus que lui sera bientôt à plaindre.
-
--*who_axiane
 Mais à devenir fou qui pourrait le contraindre ?
 
--*who_lisette
-La faim. Quand malgré soi l'on jeûne trop souvent,
-L'estomac au cerveau ne porte que du vent.
-Du corps et de l'esprit la sympathie est telle,
-Que l'un s'affaiblissant, l'autre baisse et chancelle ;
-Et voilà ce qui fait que le pauvre Pasquin,
-Des petites-maisons enfilant le chemin,
-Vient par tous ses discours de vous faire connaître,
-Qu'il y va préparer la loge de son maître.
-
--*who_axiane
 Soit, mais de tout cela suis-je coupable moi ?
 
--*who_lisette
-Qui donc ? Morbleu ! Qui donc ? Parlez de bonne foi :
-Avez-vous pu souffrir en bonne conscience,
-Que pour vous Federic épuisât fa finance,
-Que pour vous nuit et jour il fît tant de fracas ?
-Car enfin vous l'aimiez, ou vous ne l'aimiez pas ;
-Parlez : si vous l'aimiez, c'est un trait d'étourdie ;
-Si vous ne l'aimiez pas, c'est une perfidie :
-C'à que répondez-vous sur l'un et l'autre point ?
-
--*who_axiane
 Que j'aime Federic, que je ne l'aime point,
 Qu'importe ?
 
--*who_lisette
-      La réponse est tant soit peu normande,
-Et c'est ce qu'on appelle éluder la demande.
-
--*who_axiane
 Moi ! Je n'élude rien. Choisis ce que tu veux :
 J'aime, je n'aime point.
 
--*who_lisette
-      Lequel choisir des deux ?
-
--*who_axiane
 Tout est égal pour moi.
 
--*who_lisette
-      Me voilà bien instruite :
-Quoi ? Dans tous vos discours trouver fuite sur fuites !
-Je m'y perds.
-
--*who_axiane
       Mais pourquoi me presses-tu si fort ?
 
--*who_lisette
-C'est que de Federic je déplore le sort.
-
--*who_axiane
 Va, ne le plains pas tant.
 
--*who_lisette
-      Quoi ! Serait-il possible,
-Qu'enfin à son amour votre coeur fut sensible ?
-
--*who_axiane
 Je ne dis pas cela.
 
--*who_lisette
-      Quoi donc ?
-
--*who_axiane
       Que Federic
 Peut-être n'aime point.
 
--*who_lisette
-      Ha ! Ha ! Voilà le hic.
-Nous n'osons pas aimer, ou nous n'osons le dire,
-Que sur de bons garants que pour nous on soupire ;
-Mais quel garant plus sûr voulez-vous de l'amour,
-Dont Federic pour vous brûla jusqu'à ce jour ?
-Ces Fêtes, ces cadeaux, cette énorme dépense,
-Dont il n'obtint jamais la moindre récompense,
-Et dont il fait ici pénitence à loisir ,
-Tout cela s'est donc fait, pourquoi ?
-
--*who_axiane
       Pour son plaisir,
 Voilà comme ils sont tous. Crédules que nous sommes,
 Ne serons-nous jamais que les dupes des hommes.
@@ -716,179 +376,291 @@ Et je vois dans son coeur succéder en ce jour,
 La fureur de la chasse aux transports de l'amour ;
 Et tu te plains encor ! C'est moi que tu dois plaindre.
 
--*who_lisette
-Que j'aime à voir enfin que vous cessiez de feindre !
-Je me doutais déjà que vous l'aimiez un peu.
-
--*who_axiane
 Moi ! l'aimer!
 
--*who_lisette
-      Est-il temps d'en rétracter l'aveu ?
-Mais, quand de Federic votre coeur se défie,
-Permettez un moment que je le justifie.
-S'il vous fuit, c'est qu'il craint de vous importuner,
-Quiconque, comme lui n'a plus rien à donner
-Auprès d'une Maîtresse est bientôt incommode ;
-N'aimer que pour aimer ! Ce n'en est plus la mode ;
-Et l'on risque de perdre, et ses soins et son temps,
-Quand on ne fait l'amour qu'à beaux soupirs comptants.
-Pour la chasse, entre nous, fait-il mal quand il l'aime ?
-Il veut vous imiter, être un autre vous-même.
-Pour le faucon, malgré votre mauvaise humeur,
-Je ne puis m'empêcher d'en rire au fond du coeur :
-Et d'un oiseau chéri vous voyant inquiète,
-Je vous dirais tout franc, si vous étiez coquette,
-Qu'avec vous Federic le fait aller de pair,
-Et qu'il n'a jamais eu que des amours en l'air.
-
--*who_axiane
 Tais-toi : je n'aime pas sur ce point qu'on plaisante.
 
--*who_lisette
-Ah ! Vous le prenez là sur un ton qui m'enchante.
-Poursuivez : redoublez ce charmant ........
-Vous ne fûtes jamais plus aimable à mes yeux.
-Continuez, Madame, aimez qui vous adore :
-Que Federic apprenne...
-
--*who_axiane
       Il n'est pas temps encore.
 
--*who_lisette
-Qu'attendez-vous ? Qu'il perde ou l'esprit, ou le jour ?
-Voyez où l'a réduit l'excès de son amour !
-Avec le seul Pasquin dans un séjour sauvage,
-Il cache le débris d'un éclatant naufrage :
-Lui, qu'on vit autrefois entouré de laquais,
-Remplir pompeusement un superbe palais :
-Les mets les plus exquis inondaient ses cuisines :
-Il ne vit que de fruits, peut-être de racines ;
-Et s'il mange parfois un morceau de gibier,
-Il le tient d'un oiseau, son père nourricier.
-Cependant... j'en ressens une douleur amère :
-Hélas ! S'il s'est ruiné ce n'est que pour vous plaire ;
-Voilà de son amour le déplorable effet.
-
--*who_axiane
 Ah ! S'il est vrai qu'il m'aime, il n'en a que trop fait :
 Mais si son triste sort est mon funeste ouvrage,
 Quelle gloire pour moi d'en réparer l'outrage !
 
--*who_lisette
-Ah ! J'attendais de vous ce généreux retour.
-
--*who_axiane
 Voyons si Federic mérite mon amour.
 Par quelque piège adroit qu'il faut que je lui dresse,
 Je veux savoir, pour moi, jusqu'où va sa tendresse ;
 J'en doute encor, Lisette, et prétends l'éprouver.
 Toi, ne fuis point mes pas, et me laisse y rêver.
 
-**** *book_ *id_I07 *act_I *date_1719
+      Au moins point de festin.
 
--*who_lisette
-Quel est donc son dessein ? D'un Amant si fidèle,
-Elle veut faire encore une épreuve nouvelle !
-Mais quoi ? Que pourrait-elle enfin se proposer ?
-Federic l'aime trop pour lui rien refuser.
-Je vois Pasquin. Ô Ciel ! Quelle mélancolie ?
+Tant mieux.
 
-**** *book_ *id_I08 *act_I *date_1719
+Je ne regarde ici que la main qui le donne :
+Quel que soit un repas, le bon coeur l'assaisonne :
+Je compte sur le vôtre, et j'ose me flatter...
+Mais non, n'achevons point.
 
--*who_pasquin
+Que vous me rassurez !
+
+      Federic, vous savez que la chasse
+Dès mes plus tendres ans fit mes foins les plus chers ;
+Vous avez un oiseau plus prompt que les éclairs.
+
+      De plaisir je me sens éperdue,
+Sitôt que je le vois se perdre dans la nue :
+Je l'aime, et je mettrais mon coeur même à ce prix,
+Si...
+
+      Quel trouble agite vos esprits ?
+
+Non, je ne veux plus rien ; le trouble de ton âme
+M'apprend trop tes refus : Que puis-je demander ?
+
+Qu'entends-je ! Avec le sort c'est donc moi qui conspire ?
+Je viens à votre coeur porter les derniers coups :
+Quoi ! Pour un seul Oiseuu...
+
+Va, tu n'as pas besoin d'en dire davantage :
+Je sais qu'à le garder tout doit t'interesser ;
+Qu'il t'est cher, précieux : mais as-tu pu penser,
+Que pour te le ravir je fusse assez cruelle ?
+Je voulais de tes feux une marque nouvelle,
+Triste épreuve ! Ton coeur d'un seul mot alarmé,
+Ne m'a que trop fait voir qu'il n'a jamais aimé.
+
+Ah ! C'en est trop enfin , ce reproche me blesse.
+Pour m'en sauver la honte, il faut que je vous laisse.
+Adieu.
+
+L'oiseau n'est plus !
+
+Hélas ! Qu'avez-vous fait ? Et qu'ai-je fait moi-même ?
+Quel outrage ! Quel prix de votre amour extrême !
+Et comment réparer cet excès de rigueur ?
+Est-ce assez de mes biens ? De ma main ? De mon coeur ?
+Tout est à vous.
+
+Federic, il est temps qu'une chaîne éternelle
+Unisse à mon destin l'amant le plus fidèle ;
+Mon coeur est tout à vous, ma main dépend de moi,
+Je vous la donne.
+
+
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
+      N'en ai-je pas raison ?
+Vainement dans les airs vous lâchez ce faucon ;
+Il ne rapporte rien.
+
+Comment ! Nous ne vivons que de ce qu'il rapporte :
+Il nous a jusqu'ici fourni quelques repas ;
+Mais il ne vaut plus rien depuis qu'il est si gras;
+Ah ! Que j'aime un Oiseau, qui par un seul coup d'aIle,
+S'en va me tenir lieu de pourvoyeur fidèle !
+Je voudrais que son vol fut plus prompt qu'un éclair :
+J'appelle tels oiseaux les pirates de l'air.
+Un Vaisseau trop chargé, Monsieur, n'avance guère,
+Et le meilleur voilier, est le meilleur corsaire.
+
+Ah ! Le petit ingrat, je l'ai trop engraissé ;
+Et pour ma récompense il veut que je maigrisse :
+Tenez, voyez plutôt, j'ai déjà la jaunisse,
+Me voilà saffrané jusques au blanc des yeux.
+
+      Que dites-vous ?
+
+Dites plutôt, tant pis.
+
+      Pourquoi rire ?
+
+      L'épreuve est un peu rude ;
+Et s'il y faut venir, je ne vous réponds pas,
+De m'attacher ici plus longtemps sur vos pas.
+
+      J'irai trouver Lisette ;
+Pour me mettre à l'abri d'une affreuse disette :
+Dans ce triste séjour, on ne fait que jeûner ;
+L'Oiseau n'a-t-il rien pris ? Il ne faut point dîner ?
+Voilà ce qu'ont produit vos feux pour Axiane :
+J'en enrage ; à jeûner, c'est ce qui me condamne.
+
+Oui, c'est-là le sujet de ma triste langueur.
+
+      Il est de votre style ;
+Doux, tendre, pathétique, et pourtant inutile.
+
+Nous voici dans un lieu propre à moraliser.
+Cà, raisonnons un peu : pour plaire à votre ingrate,
+Dont malgré ses rigueurs le souvenir vous flatte,
+Vous n'avez épargné ni bijoux, ni cadeaux :
+Pour elle tous les jours c'étaient plaisirs nouveaux,
+Comédie, Opéra, bombance sur bombance :
+Cependant, de vos soins, quelle est la recompense ?
+L'Amour qui vous a fait consumer votre bien,
+Est ce faucon lâché, qui ne rapporte rien.
+
+      Ce sont sages paroles ;
+Mais vous les écoutez comme des fariboles,
+Que d'un air dédaigneux il faut mettre à l'écart ;
+Et d'ailleurs mes leçons viennent un peu tard.
+
+Quoi ! Vous ne pleurez pas !
+
+      Monsieur, je me défie
+D'un dépit si contraire à la Philosophie ;
+Votre coeur me paraît un peu trop agité :
+Ne sauriez-vous haïr avec tranquillité ?
+
+      Je crains peu le parjure :
+On ne peut qu'à grands frais se montrer son amant,
+Et votre pauvreté me répond du serment :
+Ah ! Qu'il eût mieux valu...
+
+Ce font noires vapeurs que l'abstinence exhale ;
+Mais quand dînerons-nous ?
+
+Peste soit de l'Amour qui fait mourir de faim.
+
+Mais, comme sa Maîtresse, était-elle coquette ?
+Du moins dans mes amours je n'ai rien mis du mien.
+
+Qu'importe, à vos dépens je me donnais carrière :
+Ô Lisette ! Avec toi je faisais chère entière :
+Que de charmants repas ! Mais regrets superflus !
+Hélas ! J'en ai tant fait, que je n'en ferai plus :
+Tous mes plaisirs passés ne sont qu'une ombre vaine ;
+Vous avez fait la faute, et j'en porte la peine.
+
+Je puis de sa cuisine avoir besoin un jour,
+Et ce jour n'est pas loin.
+
+Passe pour le faucon, grâce à votre tendresse,
+Autant que je maigris, tous les jours il engraisse.
+
+À la chasse d'autrui, prenons-nous intérêt ?
+
+      Si c'est votre Diane ?
+Elle aime les forêts.
+
+Tenez : je fuis ravi que l'on m'en débarasse.
+
+Ah ! Monsieur, il n'en fut jamais de plus cruelle :
+Ouf ! Je ne puis parler tant je suis confondu.
+
+      Tout est perdu.
+
+Tremblez, votre Axiane en ces lieux va se rendre.
+
+      Ce n'est pas tout : pour nous assassiner,
+C'est peu que d'y venir, elle y prétend dîner.
+
+Que parlez-vous ici de nectar, d'ambroisie ?
+L'Amour vous a-t-il fait tomber en frénésie ?
+Ne vous souvient-il plus de cet ordre inhumain,
+Qui tantôt pour dîner m'a remis à demain ?
+
+      Cet oiseau si fidèle
+Vous sert mal au besoin.
+
+      Hé bien ! Pasquin ?
+
+      Monsieur...
+
+      Hé bien !
+
+      J'enrage.
+De rien on ne fait rien ; et le diable, je gage,
+S'il était comme moi dans un si mauvais pas,
+Tout inventif qu'il est, ne s'en tirerait pas.
+Je ne sais qu'un moyen.
+
+C'est de vous éclipser aux yeux de votre belle.
+
+Voyez, imaginez, quelque chose de mieux.
+
+Elle est à bout.
+
+      Ma foi, jusqu'à ce jour
+Rien de bon ne vous fut inspiré par l'amour.
+
+      Ciel ! Je pourrais m'y résoudre !
+Ah ! Que je sois plutôt écrasé de la foudre,
+Monsieur....
+
+Je suis mort.
+
+      Monsieur, je n'ai pas le courage
+De...
+
+Dûssai-je être cent fois et mille fois battu ;
+J'en aurai le coeur net.
+
+Non, je ne saurais plus me faire violence ;
+Ce serait vous trahir que garder le silence.
+Madame.
+
+      Moi !
+
+Quoi donc ?
+
+Je serais trop heureux, si j'en perdais l'usage.
+
+C'est bien en vous voyant en ces lieux l'une et l'autre ;
+Qu'y venez - vous chercher ì Quel malheur est le nôtre!
+
+      Mais toi-même es-tu folle ?
+De croire que l'amour...
+
+Trêve d'amour, Lisette, et de sorcellerie ;
+Veux-tu savoir d'où vient toute la diablerie.
+C'est...
+
+Ouf ! C'est le prendre là sur un diable de ton.
+
+Je n'ai garde d'en perdre une seule syllabe :
+Ce sont mots d'un grand poids, ils opèrent des mieux.
+
+Que je dise à Lisette un seul mot à l'oreille;
+Écoute.
+
+Allez, vous nous ruinez ; c'est une conscience.
+
+Quelque léger qu'il soit, il nous coûtera cher.
+
 Hélas !
 
--*who_lisette
-      Je sens venir quelque accès de folie.
-
--*who_pasquin
 Hélas ! Il ne vit plus ! Ô comble de malheurs !
 Je viens de voir son sang couler avec mes pleurs.
 
--*who_lisette
-Quoi ! Federic est mort ? Parle ; que veux-tu dire ?
-
--*who_pasquin
 Qui te parle de lui ?
 
--*who_lisette
-      Grâce au Ciel ! Je respire ;
-Et qui donc pleures-tu ?
-
--*who_pasquin
       C'est... gare le bâton.
 
--*who_lisette
-Achève...
-
--*who_pasquin
       C'est...
 
--*who_lisette
-      Hé ! Bien.
-
--*who_pasquin
       C'est le meilleur oison ;
 Par qui l'on puisse voir des basse-cours peuplées,
 Qu'allez-vous devenir, ô veuves désolées ?
 
--*who_lisette
-Ah ! Ciel ! Peut-on plus loin porter l'égarement ?
-Sans doute son délire augmente en ce moment,
-Fuyons.
-
--*who_pasquin
       Dans mon malheur, Lisette m'abandonne :
 Fortune, c'en est trop. Demeure.
 
--*who_lisette
-      Je frissonne.
-
--*who_pasquin
 Quoi ? Ton pauvre Pasquin t'inspire de l'effroi !
 
--*who_lisette
-Je crains les fous.
-
--*who_pasquin
       Mon Maître est moins sage que moi.
 Peste soit de l'amour qu'il a pour Axiane !
 Puisqu'à mourir de faim tous deux il nous condamne...
 
--*who_lisette
-Je l'ai bien dit ; la faim lui trouble la raison.
-Mais par bonheur pour lui, j'ai le contre-poison ;
-Il en faut sur le champ employer la recette.
-Pasquin ?
-
--*who_pasquin
       Hé bien.
 
--*who_lisette
-      Un mot.
-
--*who_pasquin
       Je vais mourir, Lisette.
 
--*who_lisette
-Bon, tu ne mourras pas pour un oison de moins ;
-Et l'Amour va bientôt pourvoir à tes besoins.
-
--*who_pasquin
 Vraiment, il s'y prend bien, d'un coup il nous accable.
 
--*who_lisette
-C'est un grand médecin.
-
--*who_pasquin
       Le mal est incurable,
 Nous n'avons plus d'espoir. Ô le maudit repas !
 
--*who_lisette
-Ha ! Ha !
-
--*who_pasquin
       Tous les oisons ne se ressemblent pas ;
 Et le nôtre était tel, que tout notre ménage...
 Federic me défend d'en dire davantage.
@@ -907,81 +679,34 @@ Au défaut des échos seront les interprêtes :
 Là, le tendre Pasquin, t'assurant de sa foi,
 Lisette, dira-t-il, puis-je vivre sans toi ?
 
--*who_lisette
-Va, Pasquin, tu vivras, c'est moi qui t'en assure ;
-Ton destin va changer.
-
--*who_pasquin
       Hé ! Par quelle aventure ?
 Je suis trop malheureux.
 
--*who_lisette
-      Laisse-là tes regrets ;
-Tu jouiras bientôt d'un sort rempli d'attraits.
-
--*who_pasquin
 Que viens-tu m'annoncer ?
 
--*who_lisette
-      La plus grande nouvelle...
-Axiane à la fin cesse d'être cruelle,
-Et ton Maître pourrait s'en ressentir un jour :
-Mais, Pasquin, elle doute encor de son amour.
-
--*who_pasquin
 Et peut-il en donner une preuve plus grande,
 Que... ? Je n'ose achever.
 
--*who_lisette
-      Quoi qu'elle lui demande ,
-À lui complaire en tout il faut le disposer.
-
--*who_pasquin
 Il ne peut désormais donner, ni refuser;
 Il n'a plus rien.
 
--*who_lisette
-      N'importe, il faut la mettre à même ;
-Offrir tout, donner tout, pour lui prouver qu'il l'aime.
-Elle veut de son coeur s'assurer aujourd'hui.
-Tiens, s'il ne promet tout, tout est perdu pour lui.
-
--*who_pasquin
 Pour promettre, il le peut : pour donner c'est le diable :
 Il est sec.
 
--*who_lisette
-      Quoi ! Son sort est si déplorable ?
-
--*who_pasquin
 J'en pleure tous les jours.
 
--*who_lisette
-      Va, cesse de pleurer ;
-L'Amour a fait le mal, il peut le réparer.
-
--*who_pasquin
 Au moins s'il se pouvait que ta riche maîtresse,
 Jusqu'à nous épouser fît aller sa tendresse ;
 Je braverais la faim, muni d'un tel appui,
 Et me consolerais du repas d'aujourd'hui.
 Mais les moments sont chers ; et pour peu qu'on diffère...
 
--*who_lisette
-Va, dans un jeune coeur, l'Amour ne s'endort guère ;
-Il fait bien du chemin.
-
--*who_pasquin
       Ah ! Quel est mon bonheur !
 Allons, plus de soucis, plus de mauvaise humeur ;
 Rions, chantons, dansons. Ô ! Ma chère Lisette !
 Je ne me connais plus ; ma joie est si parfaite,
 Qu'il ne tient plus qu'à moi de te sauter au cou.
 
--*who_lisette
-Modère ce transport ; tu deviens encor fou !
-
--*who_pasquin
 On les croit à moins : Oui, ma belle Princesse,
 On devient fou de joie, ainsi que de tristesse :
 D'un excès de plaisir les traits sont si puissants,
@@ -990,210 +715,221 @@ Je sens que ma raison... mais Federic approche ;
 Je sens que c'est à moi d'aller tourner la broche.
 Je t'invite au convoi de défunt notre oison.
 
-**** *book_ *id_I09 *act_I *date_1719
-
--*who_pasquin
 Vous le voyez, Monsieur, je n'en dis pas le nom.
 
--*who_federic
-Bien en prend à ton dos.
-
--*who_pasquin
       Ah ! nous savons peut-être
 Le respect qu'un valet doit porter à son maître,
 Et nous n'avons à coeur que son propre intérêt.
 
--*who_federic
-Va, fais-nous avertir, lorsque tout sera prêt.
+De chasseurs, une troupe s'avance :
+Quoi ! Viendrait-on encor me rogner ma pitance.
 
-**** *book_ *id_I10 *act_I *date_1719
+Que m'apprends-tu, Lisette ? Ah ! Tu me rends la vie !
+Que je vais m'en donner ! Ô sort digne d'envie !
+Qu'un repas succulent commence un sort si doux ?
+Mais croyez-moi, Madame, allons dîner chez vous.
 
--*who_federic
-Lisette, qu'as-tu fait de ta belle maîtresse ?
 
--*who_lisette
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
+Ah ! mon pauvre Pasquin : éloignement máudir !
+En cessant de me voir, il a perdu l'esprit.
+
+Madame, il est trop vrai ; n'en doutons nullement ;
+De ses yeux enfoncés, voyez l'égarement,
+L'amour l'a rendu fou.
+
+      Cette seule parole
+Ne me fait que trop voir que son timbre est fêlé,
+ll peut nier qu'il m'aime ! il est ensorcelé.
+
+      Ah ! ah ! N'approche pas.
+Je vais m'évanouir si tu fais un seul pas.
+
+      Je suis inconsolable.
+Encor si de son mal j'étais seule coupable ;
+Si pour me trop aimer il perdait la raison,
+D'où le mal est venu viendrait la guérison ;
+Je sens que ma fierté rendrait bientôt les armes,
+Et d'ailleurs sa folie honorerait mes charmes ;
+Mais, Madame ; c'est vous que j'en dois accuser.
+
+      Je vous parle ici sans vous rien déguiser,
+Je vous garantis sous le valet et le maître ;
+L'un l'est déjà, pour l'autre il n'est pas loin de l'être.
+
+      Oh que non.
+
+      Hélas ! Si vous plaignez Pasquin,
+Federic plus que lui sera bientôt à plaindre.
+
+La faim. Quand malgré soi l'on jeûne trop souvent,
+L'estomac au cerveau ne porte que du vent.
+Du corps et de l'esprit la sympathie est telle,
+Que l'un s'affaiblissant, l'autre baisse et chancelle ;
+Et voilà ce qui fait que le pauvre Pasquin,
+Des petites-maisons enfilant le chemin,
+Vient par tous ses discours de vous faire connaître,
+Qu'il y va préparer la loge de son maître.
+
+Qui donc ? Morbleu ! Qui donc ? Parlez de bonne foi :
+Avez-vous pu souffrir en bonne conscience,
+Que pour vous Federic épuisât fa finance,
+Que pour vous nuit et jour il fît tant de fracas ?
+Car enfin vous l'aimiez, ou vous ne l'aimiez pas ;
+Parlez : si vous l'aimiez, c'est un trait d'étourdie ;
+Si vous ne l'aimiez pas, c'est une perfidie :
+C'à que répondez-vous sur l'un et l'autre point ?
+
+      La réponse est tant soit peu normande,
+Et c'est ce qu'on appelle éluder la demande.
+
+      Lequel choisir des deux ?
+
+      Me voilà bien instruite :
+Quoi ? Dans tous vos discours trouver fuite sur fuites !
+Je m'y perds.
+
+C'est que de Federic je déplore le sort.
+
+      Quoi ! Serait-il possible,
+Qu'enfin à son amour votre coeur fut sensible ?
+
+      Quoi donc ?
+
+      Ha ! Ha ! Voilà le hic.
+Nous n'osons pas aimer, ou nous n'osons le dire,
+Que sur de bons garants que pour nous on soupire ;
+Mais quel garant plus sûr voulez-vous de l'amour,
+Dont Federic pour vous brûla jusqu'à ce jour ?
+Ces Fêtes, ces cadeaux, cette énorme dépense,
+Dont il n'obtint jamais la moindre récompense,
+Et dont il fait ici pénitence à loisir ,
+Tout cela s'est donc fait, pourquoi ?
+
+Que j'aime à voir enfin que vous cessiez de feindre !
+Je me doutais déjà que vous l'aimiez un peu.
+
+      Est-il temps d'en rétracter l'aveu ?
+Mais, quand de Federic votre coeur se défie,
+Permettez un moment que je le justifie.
+S'il vous fuit, c'est qu'il craint de vous importuner,
+Quiconque, comme lui n'a plus rien à donner
+Auprès d'une Maîtresse est bientôt incommode ;
+N'aimer que pour aimer ! Ce n'en est plus la mode ;
+Et l'on risque de perdre, et ses soins et son temps,
+Quand on ne fait l'amour qu'à beaux soupirs comptants.
+Pour la chasse, entre nous, fait-il mal quand il l'aime ?
+Il veut vous imiter, être un autre vous-même.
+Pour le faucon, malgré votre mauvaise humeur,
+Je ne puis m'empêcher d'en rire au fond du coeur :
+Et d'un oiseau chéri vous voyant inquiète,
+Je vous dirais tout franc, si vous étiez coquette,
+Qu'avec vous Federic le fait aller de pair,
+Et qu'il n'a jamais eu que des amours en l'air.
+
+Ah ! Vous le prenez là sur un ton qui m'enchante.
+Poursuivez : redoublez ce charmant ........
+Vous ne fûtes jamais plus aimable à mes yeux.
+Continuez, Madame, aimez qui vous adore :
+Que Federic apprenne...
+
+Qu'attendez-vous ? Qu'il perde ou l'esprit, ou le jour ?
+Voyez où l'a réduit l'excès de son amour !
+Avec le seul Pasquin dans un séjour sauvage,
+Il cache le débris d'un éclatant naufrage :
+Lui, qu'on vit autrefois entouré de laquais,
+Remplir pompeusement un superbe palais :
+Les mets les plus exquis inondaient ses cuisines :
+Il ne vit que de fruits, peut-être de racines ;
+Et s'il mange parfois un morceau de gibier,
+Il le tient d'un oiseau, son père nourricier.
+Cependant... j'en ressens une douleur amère :
+Hélas ! S'il s'est ruiné ce n'est que pour vous plaire ;
+Voilà de son amour le déplorable effet.
+
+Ah ! J'attendais de vous ce généreux retour.
+
+Quel est donc son dessein ? D'un Amant si fidèle,
+Elle veut faire encore une épreuve nouvelle !
+Mais quoi ? Que pourrait-elle enfin se proposer ?
+Federic l'aime trop pour lui rien refuser.
+Je vois Pasquin. Ô Ciel ! Quelle mélancolie ?
+
+      Je sens venir quelque accès de folie.
+
+Quoi ! Federic est mort ? Parle ; que veux-tu dire ?
+
+      Grâce au Ciel ! Je respire ;
+Et qui donc pleures-tu ?
+
+Achève...
+
+      Hé ! Bien.
+
+Ah ! Ciel ! Peut-on plus loin porter l'égarement ?
+Sans doute son délire augmente en ce moment,
+Fuyons.
+
+      Je frissonne.
+
+Je crains les fous.
+
+Je l'ai bien dit ; la faim lui trouble la raison.
+Mais par bonheur pour lui, j'ai le contre-poison ;
+Il en faut sur le champ employer la recette.
+Pasquin ?
+
+      Un mot.
+
+Bon, tu ne mourras pas pour un oison de moins ;
+Et l'Amour va bientôt pourvoir à tes besoins.
+
+C'est un grand médecin.
+
+Ha ! Ha !
+
+Va, Pasquin, tu vivras, c'est moi qui t'en assure ;
+Ton destin va changer.
+
+      Laisse-là tes regrets ;
+Tu jouiras bientôt d'un sort rempli d'attraits.
+
+      La plus grande nouvelle...
+Axiane à la fin cesse d'être cruelle,
+Et ton Maître pourrait s'en ressentir un jour :
+Mais, Pasquin, elle doute encor de son amour.
+
+      Quoi qu'elle lui demande ,
+À lui complaire en tout il faut le disposer.
+
+      N'importe, il faut la mettre à même ;
+Offrir tout, donner tout, pour lui prouver qu'il l'aime.
+Elle veut de son coeur s'assurer aujourd'hui.
+Tiens, s'il ne promet tout, tout est perdu pour lui.
+
+      Quoi ! Son sort est si déplorable ?
+
+      Va, cesse de pleurer ;
+L'Amour a fait le mal, il peut le réparer.
+
+Va, dans un jeune coeur, l'Amour ne s'endort guère ;
+Il fait bien du chemin.
+
+Modère ce transport ; tu deviens encor fou !
+
 Dans le bosquet prochain certain souci la presse ;
 Elle y rêve.
 
--*who_federic
-      Quoi ! Seule ? Il faut l'aller trouver.
-
--*who_lisette
 Non, vous ne perdrez rien à la laisser rêver.
 
--*who_federic
-Lisette, que dis-tu ?
-
--*who_lisette
       Quoi qu'elle vous demande...
 Je crains qu'elle ne vienne, et qu'elle ne m'entende :
 Justement ; la voici. Monsieur , songez-y bien ;
 Quoi qu'elle exige enfin, ne lui refusez rien.
 
-**** *book_ *id_I11 *act_I *date_1719
-
--*who_federic
-Madame, pardonnez si je vous ai quittée ,
-D'un soin pressant mon âme était inquiétée,
-Et ma présence était nécessaire à Pasquin.
-On va bientôt servir.
-
--*who_axiane
-      Au moins point de festin.
-
--*who_federic
-Ce séjour écarté ne permet pas d'en faire.
-
--*who_axiane
-Tant mieux.
-
--*who_federic
-      Dans un désert on fait mauvaise chère :
-Cependant je prends soin qu'on vous offre en ces lieux
-Ce que j'ai de plus cher, et de plus précieux.
-
--*who_axiane
-Je ne regarde ici que la main qui le donne :
-Quel que soit un repas, le bon coeur l'assaisonne :
-Je compte sur le vôtre, et j'ose me flatter...
-Mais non, n'achevons point.
-
--*who_federic
-      Quoi ! vous pourriez douter,
-Quoique vous ordonniez, que je ne l'exécute ?
-La Fortune ennemie en vain me persécute ;
-Elle m'a tout ôté par une dure loi :
-Mais ce coeur qui me reste, est plus à vous qu'à moi.
-
--*who_axiane
-Que vous me rassurez !
-
--*who_federic
-      Expliquez-vous, de grâce ?
-Que puis-je ?
-
--*who_axiane
-      Federic, vous savez que la chasse
-Dès mes plus tendres ans fit mes foins les plus chers ;
-Vous avez un oiseau plus prompt que les éclairs.
-
--*who_federic
-Je tremble.
-
--*who_axiane
-      De plaisir je me sens éperdue,
-Sitôt que je le vois se perdre dans la nue :
-Je l'aime, et je mettrais mon coeur même à ce prix,
-Si...
-
--*who_federic
-      Juste Ciel !
-
--*who_axiane
-      Quel trouble agite vos esprits ?
-
--*who_federic
-Ai-je bien entendu ? Quoi ! Vous voulez, Madame...
-
--*who_axiane
-Non, je ne veux plus rien ; le trouble de ton âme
-M'apprend trop tes refus : Que puis-je demander ?
-
--*who_lisette
 Accordez tout, Monsieur.
 
--*who_federic
-      Hé ! Que puis-je accorder ?
-Fortune impitoyable, achevé, prend ma vie ;
-Barbare, je croyais ta fureur assouvie ;
-Mais tu mets aujourd'hui le comble à mon malheur,
-Par le coup imprévu dont tu frappes mon coeur.
-Ô rigueur sans égale ! Ô tyrannique empire !
-
--*who_axiane
-Qu'entends-je ! Avec le sort c'est donc moi qui conspire ?
-Je viens à votre coeur porter les derniers coups :
-Quoi ! Pour un seul Oiseuu...
-
--*who_federic
-      Que me demandez-vous ?
-Hélas ! Si vous saviez, Madame, à quel usage...
-
--*who_axiane
-Va, tu n'as pas besoin d'en dire davantage :
-Je sais qu'à le garder tout doit t'interesser ;
-Qu'il t'est cher, précieux : mais as-tu pu penser,
-Que pour te le ravir je fusse assez cruelle ?
-Je voulais de tes feux une marque nouvelle,
-Triste épreuve ! Ton coeur d'un seul mot alarmé,
-Ne m'a que trop fait voir qu'il n'a jamais aimé.
-
--*who_federic
-Je n'ai jamais aimé ! Quel injuste langage !
-Hélas ! Et dans quel temps me fait-on cet outrage !
-Je viens de me réduire au plus funeste état ;
-Et quand j'ai tout donné, je passe pour ingrat.
-
--*who_axiane
-Ah ! C'en est trop enfin , ce reproche me blesse.
-Pour m'en sauver la honte, il faut que je vous laisse.
-Adieu.
-
--*who_federic
-      Non, demeurez, ou dans mon noir transport,
-De ce fer a vos yeux, je me donne la mort :
-Il faut sur mes refus que je me justifie.
-Heureux, si vous n'aviez demandé que ma vie !
-Je vous l'aurais donnée, elle est en mon pouvoir,
-L'amour que j'ai pour vous m'en eût fait un devoir,
-Mais faut-il que le sort à tous mes voeux contraire,
-M'ôte le seul moyen que j'avais de vous plaire ?
-Avec plus de noirceur peut-il m'assassiner ?
-Hélas ! L'oiseau n'est plus, vous en allez diner.
-
--*who_axiane
-L'oiseau n'est plus !
-
--*who_federic
-      Le sort à tel point m'est funeste,
-Que je vous offre en vain le seul bien qui me reste ;
-Mais n'importe, en ces lieux prêt à vous recevoir ;
-Ai-je pu trop payer le plaisir de vous voir ?
-
--*who_axiane
-Hélas ! Qu'avez-vous fait ? Et qu'ai-je fait moi-même ?
-Quel outrage ! Quel prix de votre amour extrême !
-Et comment réparer cet excès de rigueur ?
-Est-ce assez de mes biens ? De ma main ? De mon coeur ?
-Tout est à vous.
-
--*who_federic
-      Quels mots ont frappé mon oreille !
-Votre coeur est à moi ! Je doute si je veille :
-Ah ! Dans le doux transport qui vient de me saisir,
-Permettez qu'à vos pieds j'expire de plaisir.
-
--*who_axiane
-Federic, il est temps qu'une chaîne éternelle
-Unisse à mon destin l'amant le plus fidèle ;
-Mon coeur est tout à vous, ma main dépend de moi,
-Je vous la donne.
-
--*who_federic
-      Amour, ai-je trop fait pour toi ?
-
-**** *book_ *id_I12 *act_I *date_1719
-
--*who_pasquin
-De chasseurs, une troupe s'avance :
-Quoi ! Viendrait-on encor me rogner ma pitance.
-
--*who_lisette
 Rassure-toi, Pasquin, tout répond à tes voeux ;
 Axiane est sensible, et ton maître est heureux.
 
--*who_pasquin
-Que m'apprends-tu, Lisette ? Ah ! Tu me rends la vie !
-Que je vais m'en donner ! Ô sort digne d'envie !
-Qu'un repas succulent commence un sort si doux ?
-Mais croyez-moi, Madame, allons dîner chez vous.

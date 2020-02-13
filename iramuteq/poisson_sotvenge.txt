@@ -1,261 +1,17 @@
 
 
-**** *book_ *id_I01 *act_I *date_1661
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
 
--*who_lubine
-Quoi ! Vous osez Maître Ragot,
-Maître importun, et maître sot,
-Me venir rendre encor visite,
-Moi qui vous hais et vous évite,
-Comme l'on évite la mort.
-
--*who_monsieurragot
-Ne vous emportez pas si fort,
-Lubine , voici la dernière :
-Vous êtes pour moi chaste et fière,
-Mais le Compère a tant d'appas
-Que pour lui vous ne l'êtes pas.
-
--*who_lubine
-Vous l'avez dit, qu'en peut-il être ?
-
--*who_monsieurragot
-Rien, car vous n'avez point de Maître :
-À dire vrai que craindriez vous ?
-Votre mari roué de coups,
-De vous et de l'heureux Compère,
-Qui mange chez vous d'ordinaire ?
-Et qui je pense y couche aussi ?
-J'en aurais fort peu de souci,
-Mais vous me traitez d'une sorte...
-
--*who_lubine
-Faites vos plaintes à la porte,
-Je suis lasse de l'entretien
-D'un homme plus sot que le mien.
-
--*who_monsieurragot
-Ah ! C'est trop mépriser ma flamme ;
-Je m'en saurai venger, infâme,
-J'encouragerai ton mari,
-Je chasserai ton favori ;
-Enfin je m'en vais dans ma rage
-Te faire un diable de ravage,
-Dès aujourd'hui ton sot époux
-Te donnera deux mille coups :
-Mais pour commencer cette affaire,
-Allons empaumer le Compère.
-
-**** *book_ *id_I02 *act_I *date_1661
-
--*who_croquillon
-D'où vient ce grand empressement ?
-
--*who_lecompere
-Il est huit heures justement,
-C'est l'heure qu'elle m'a donnée.
-
--*who_croquillon
-Je ne sais point de haquenée,
-Dont l'amble...
-
--*who_lecompere
-      Veux-tu m'obliger ?
-C'est ici l'heure du Berger ;
-La manquer !
-
--*who_croquillon
-      Mon maître extravague.
-
--*who_lecompere
-À propos donne-moi ma bague.
-
--*who_croquillon
-Mais Lubin ce pauvre Jobet,
-Qui va quérir comme un barbet,
-Et qui vous rapporte de même,
-Dont la patience est extrême ;
-Ce mari plus battu qu'un chien,
-Qui voit beaucoup, et ne dit rien ;
-Enfin ce plus sot que tout autre,
-Dont la femme est, je crois, la vôtre,
-N'est-il pas sur votre journal
-Marqué pour un original ?
-
--*who_lecompere
-Donne donc, il est fort commode.
-
--*who_croquillon
-Il n'en amène pas la mode,
-On le pratique en toutes parts :
-Diable la mode des cornards
-Est une mode d'importance,
-On ne la change point en France,
-Les autres durent quinze jours,
-Mais celle-là dure toujours.
-
--*who_lecompere
-C'est l'objet de ta raillerie.
-
--*who_croquillon
-Il revient de la boucherie
-Quérir une tête de veau,
-Il vient de rentrer.
-
--*who_lecompere
-      Mon anneau :
-Que ta longueur me désespère !
-
--*who_croquillon
-Vous allez donc voir la Commère ?
-
--*who_lecompere
-Oui, maudit traître, en cet instant
-Que tu jases, elle m'attend,
-Et c'est pour finir mon martyre...
-
--*who_croquillon
-Courez, je n'ai plus rien à dire,
-Mais je crains pour le diamant.
-
--*who_lecompere
-C'est peu pour cet heureux moment.
-
--*who_croquillon
-Monsieur, Ragot est à la porte.
-
--*who_lecompere
-Que veut-il ? Le diable l'emporte :
-Cours lui dire que d'aujourd'hui
-Je ne puis pas parler à lui,
-Et qu'une affaire d'importance...
-
--*who_croquillon
-Il n'est plus temps, car il avance.
-
--*who_lecompere
-Le diable le puisse emporter ?
-Coquin, veux-tu pas l'arrêter ?
-
--*who_croquillon
-Il vient, songez à lui répondre.
-
--*who_lecompere
-Que l'enfer le puisse confondre !
-Un vautour lui mange le coeur !
-
-**** *book_ *id_I03 *act_I *date_1661
-
--*who_lecompere
-Ah ! Monsieur, votre serviteur.
-
--*who_monsieurragot
-Je vous ai détourné peut-être.
-
--*who_lecompere
-Vous vous moquez,
-
--*who_croquillon
-      Ah qu'il est traître ?
-
--*who_monsieurragot
-Sans vous, ami, je suis perdu.
-
--*who_lecompere
-Fusse-tu mille fois pendu.
-Monsieur, allât-il de ma vie.
-Je ne perdrai jamais l'envie
-De vous prouver ma passion.
-
--*who_monsieurragot
-Je suis dans la confusion.
-
--*who_lecompere
-Et moi, je suis dedans la rage.
-
--*who_croquillon
-Cela ne va pas mal, courage.
-
--*who_monsieurragot
-Portez vous à deux pas d'ici,
-Vous m'allez ôter de souci.
-
--*who_lecompere
-J'irais pour vous jusques à Rome
-Les pieds nus.
-
--*who_croquillon
-      Ah, le méchant homme ?
-
--*who_lecompere
-Et je vous donnerais mon coeur.
-
--*who_monsieurragot
-Votre franchise et votre ardeur,
-Se trouve pour moi sans seconde.
-
--*who_lecompere
-Derechef l'enfer te confonde ;
-Je crains qu'on ne m'aille ravir
-L'avantage de vous servir.
-
--*who_monsieurragot
-Partons.
-
--*who_lecompere
-      Tu le paieras, traître.
-
-**** *book_ *id_I04 *act_I *date_1661
-
--*who_croquillon
-Eh bien, vit-on jamais paraître
-Une plus grande trahison ?
-Si je rentre dans ta maison
-Puissent toutes les chambrières
-Me donner cent coups d'étrivières.
-Je ne puis pas trouver, je crois,
-Un plus méchant maître que toi.
-
-**** *book_ *id_I05 *act_I *date_1661
-
--*who_lubin
 Diable soit ta chienne de vie !
 Dis, Carogne, as-tu point envie
 De me traiter plus doucement?
 
--*who_lubine
-Va : reporte la seulement
-Au boucher, et sans plus attendre.
-
--*who_lubin
 Il ne la voudra pas reprendre.
 
--*who_lubine
-Mais me veux-tu faire enrager ?
-Crois-tu que je puisse manger
-De cette tête ? Va la rendre.
-
--*who_lubin
 Il ne la voudra pas reprendre.
 
--*who_lubine
-Elle pue, ne la sens-tu pas,
-Dis-lui qu'on la sent de dix pas,
-Et qu'il joue à se faire pendre.
-
--*who_lubin
 Il ne la voudra pas reprendre.
 
--*who_lubine
-Si tu me fais prendre un bâton.
-Mais voyez son diable de ton.
-Il ne la voudra pas reprendre !
-Ma foi ! Si tu me fais te prendre !
-Je te donnerai du gros bout,
-Et dessus le ventre et partout
-Chien de cornard.
-
--*who_lubin
       Je le confesse,
 Quand tu n'étais que ma maîtresse >
 Voyant tout ce que tu faisais
@@ -265,56 +21,15 @@ D'avoir fait notre mariage,
 Il n'a pas trop mal réussi,
 Car il le voulait bien aussi.
 
--*who_lubine
-Ah ! Que de t'avoir je suis lasse !
-L'on me montre au doigt quand je passe,
-Voilà la femme de ce gueux,
-Dit-on.
-
--*who_lubin
       Moi l'on me montre à deux.
 
--*who_lubine
-Moi, t'avoir pris ! Moi qui suis fille
-D'un bon tapissier de la ville.
-
--*who_lubin
 C'est pourquoi, l'on me l'a bien dit,
 Tu fais de si bons tours de lit.
 
--*who_lubine
-Quoi tu veux jaser, chien d'ivrogne ?
-Reporte donc cette charogne,
-Ou je te vais rompre les bras.
-
--*who_lubin
 J'y vais, ne me frappe donc pas :
 Mais comme il ne la pourra vendre :
 Il ne la voudra pas reprendre.
 
--*who_lubine
-Encore : tu le payeras
-Aussitôt que tu reviendras :
-Ne suis-je pas bien misérable
-D'avoir pris un homme semblable ?
-Ce gueux était distributeur
-De ces billets d'Opérateur
-Il gagnait deux sous la journée.
-Regardez combien c'est Tannée»
-Sans aller compter par ses doigts
-C'est tout juste un écu par mois.
-N'est-ce pas pour faire grand chère.
-C'était un objet de misère,
-Il était tout déguenillé,
-Voyez comme il est habillé,
-Cependant depuis peu le traître !
-Voudrait je crois faire le maître !
-Il ne veut que ce qu'il lui plaît.
-Le sot, je l'ai fait ce qu'il est.
-
-**** *book_ *id_I06 *act_I *date_1661
-
--*who_lubin
 Est-ce une si belle besogne
 Pour t'en oser vanter, carogne
 Fais-moi, du moins, m'ayant fait sot
@@ -368,12 +83,6 @@ Je me jette dans ma roulette,
 Mais elle et son passionné
 Sont jusques à minuit sonné...
 
-**** *book_ *id_I07 *act_I *date_1661
-
--*who_lecompere
-Est-elle au logis, ma Commère ?
-
--*who_lubin
 Oui, Monsieur : voila le Compère.
 Voyez s'il heurte ? Point du tout,
 Son diable de passe-partout,
@@ -383,35 +92,11 @@ D'être à mettre le pot au feu !
 Nous allons, je crois voir beau jeu,
 Voici ma besogne ordinaire.
 
-**** *book_ *id_I08 *act_I *date_1661
-
--*who_lubine
-Frotte les souliers du Compère:
-Hé bien, chien ? Ta tête de veau !
-
--*who_lubin
 Il m'a redonné d'un morceau
 Qui sera fort bon et fort tendre.
 
--*who_lubine
-Il ne la voudra pas reprendre ?
-L'a-t-il pas reprise, faquin ?
-
--*who_lubin
 Vraiment oui.
 
--*who_lubine
-      Va quérir du vin,
-Et que le rôtisseur nous barde
-Une bonne et grasse poularde
-Pour dîner mon Compère et moi.
-Tu prendras, si tu veux pour toi,
-Ou des noix, ou bien du fromage :
-Redonne ces souliers.
-
-**** *book_ *id_I09 *act_I *date_1661
-
--*who_lubin
       J'enrage,
 Et si Job en ma place était
 Je pense qu'il enragerait
@@ -419,54 +104,16 @@ Et qu'il dirAit en sa colère
 La peste étouffe le Compère,
 Le diable lui casse les os.
 
-**** *book_ *id_I10 *act_I *date_1661
-
--*who_monsieurragot
-L'occasion s'offre à propos ;
-Allons donc jeter par avance
-Les fondements de ma vengeance :
-Je ne travaillerai point mal
-Si je puis chasser mon rival
-D'auprès cette impudente femme.
-Va n'as-tu point de honte infâme,
-Que les voisins entendent tous
-Ta femme te rouer de coups ?
-
--*who_lubin
 Il est vrai, voisin, mais qu'y faire ?
 Faut-il que je m'en désespère ?
 Le maudit compère qu'elle a
 Me hait, et l'oblige à cela.
 
--*who_monsieurragot
-Que fait-il chez toi ce compère?
-
--*who_lubin
 Il fait ce que j'y devrais faire.
 
--*who_monsieurragot
-J'ai feint d'avoir adroitement
-Besoin de lui pour un moment ;
-Pour l'avertir que l'on le blâme
-De voir trop librement ta femme :
-Mais loin d'en être inquiété
-En se moquant il m'a quitté ;
-Il allait troussant sa moustache
-Te monter un vilain panache.
-
--*who_lubin
 Vous m'eussiez obligé beaucoup
 Voisin, de détourner ce coup.
 
--*who_monsieurragot
-Encor passe pour ce Compère,
-Car nos femmes ont d'ordinaire
-Pour notre plus grand ennemi
-Quelque Compère ou quelque ami ;
-Mais on te croit sans raillerie
-Chef de la grande Confrérie.
-
--*who_lubin
 Voisin, je suis ce que je suis,
 Et d'être autrement je ne puis;
 Ma femme est, et coquette, et belle,
@@ -478,36 +125,495 @@ C'est qu'elle me bat comme un diable,
 Car ses coups me rendent la peau
 Plus noire que votre chapeau.
 
--*who_monsieurragot
-Vois-tu Voisin ? Je suis un homme...
-
--*who_lubin
 Je le sais, qui revient de Rome.
 
--*who_monsieurragot
-J'ai bien été dans d'autres lieux,
-Et si je ne suis pas trop vieux.
-
--*who_lubin
 Peut-on aller plus loin que Rome ?
 
--*who_monsieurragot
-Tu n'en as guère vu, pauvre homme !
-
--*who_lubin
 Guère ? J'ai pourtant vu Paris,
 Et le trésor de Saint-Denis.
 
--*who_monsieurragot
-C'est voir, sans voir toute la France
-Ce qui s'y voit de conséquence.
-
--*who_lubin
 Mais peste. Je m'amuse bien
 J'aurai tantôt du rot de chien,
 Je vais revenir.
 
--*who_monsieurragot
+Peste ! L'admirable racine !
+D'où peut venir son origine ?
+
+Peste ? Il était des plus habilles :
+Ce bois a cette faculté ?
+
+Vraiment je veux bien qu'elle en tâte ;
+Mais une autre fois, car j'ai hâte.
+
+La baiserais-je quelquefois ?
+Pourrais-je coucher avec elle.
+
+Morbleu ! Que je serais heureux !
+Ce serait une bonne affaire !
+Mais où coucherait le Compère ?
+
+Elle ne le voudra jamais,
+C'est un homme qu'elle idolâtre.
+
+Ce serait bien là mon affaire :
+Mais l'homme qui l'avait trouvé
+Ce bâton...
+
+Qui, c'était une bonne lame.
+
+Ah ! Je veux donc bien les apprendre.
+Avant que de rien entreprendre.
+
+Elle va revenir, je meure :
+Apprenez-les moi tout à l'heure
+Et nous allons dans un moment
+Voir un diable de changement
+Pour elle et pour moi fort risible ;
+Si le secret est infaillible
+Je ne vous épargnerai rien,
+Prenez mon honneur et mon bien,
+J'ai fort peu de l'un et de l'autre,
+Mais disposez comme de vôtre.
+
+Vraiment pour cesser d'être esclave...
+
+La peste ! Quels diables de mots !
+Je ne trouve plus à propos
+De les apprendre tout à l'heure,
+Il me faut deux-mots, ou je meure
+Avant que de les bien savoir
+Adieu, voisin, jusqu'au revoir.
+
+Mais donnez-vous de la mémoire ?
+Il faudrait vite m'en fournir
+Car ma femme va revenir.
+
+Tasse, roti....
+
+Patience, un peu de repos.
+
+      Je sais bien une tasse
+Dans laquelle on boit.
+
+Dites-les moi plus posément.
+
+      Disons ensemble.
+
+      Il me semble
+Que quand nous parlerons toux deux
+Je les dirai peut-être mieux.
+
+      Tasse. Dis-je pas bien ?
+
+      Je ne sais plus rien.
+
+Il faut achever notre affaire.
+
+Mais que l'on parle mal là-bas !
+Le langage est bien incommode
+Dedans la ville d'Antipode !
+Cela me ferait détester.
+
+Écoutez, je crois les savoir :
+Tasse vouzi friou titave.
+
+Ne voilà-t-il pas la carogne ?
+
+Tasse rouzi friou... J'y fais...
+Il ne m'en souviendra jamais,
+Voisin.
+
+Il s'en est allé sans rien dire,
+Elle a raison, faute d'un mot
+Je ne suis encore qu'un sot.
+Il rimait ce me semble à cave :
+Tasse rouzi friou titave.
+Bon je l'ai retrouvé sans vous.
+
+Des fous ! Pas tant fou que l'on pense :
+Allons, fais-moi la révérence.
+Et quelque joli compliment.
+
+Tasse rouzi friou titave.
+
+La révérence, bas, plus bas,
+Ma foi, cette racine est drôle !
+Allons, qu'on joue un autre rôle.
+
+Ah coquine tu m'injuries.
+
+Mon mignon ! Hé mon chien de coeur :
+D'où diable me vient cet honneur ?
+Crois-tu parler à ton Compère ?
+Tasse rouzi friou, j'espère
+Te reconnaître quelque jour.
+
+Va mettre dehors ce compère,
+Et ne le regarde jamais,
+Va vite, et reviens : désormais
+Je suis le mari de ma femme
+Tasse rouzi friou, mon âme.
+
+Voilà le Compère sorti,
+Bon.
+
+Il est parti ! Ton coeur soupire !
+Allons, tout à l'heure il faut rire.
+
+Ris ,ou je te romprai les bras,
+Ma racine est mal employée.
+
+Oui-dà, bien fort ; bon, ne ris plus,
+Je trouve tes ris superflus ;
+Pleure à présent à chaudes larmes ;
+On dit que ta voix a des charmes ,
+Chante, éternue, auparavant.
+
+Comme tu voudras, éternue,
+Éternue, ou bien je te tue.
+
+Tasse friou titave, à moi.
+
+Ah ! J'ai tort s'il ne se peut faire.
+Fais donc un feint éternuement ;
+Dieu t'assiste, je suis content.
+
+À propos, chante la chanson....
+Et là, cette chanson qu'on chante.
+
+Et la voix, l'esprit, et le corps,
+Tu n'es bonne que quand tu dors,
+Mais vois-tu , je veux être maître,
+Et c'est enfin mon tour de l'être :
+Chante pour charmer mes ennuis.
+
+Il faut donc prendre médecine.
+Quatre prises de ma racine
+Purgent les mauvaises humeurs.
+
+Que tu fais mal la décédé !
+Tu ferais mieux la possédée.
+
+Chante, tes pleurs font superflus ;
+Je suis fort content que tu meures,
+Pends-toi, si tu veux dans deux heures,
+Je veux avant que voir ta fin
+T'entendre dire : Ah ! Le bon vin,
+Tu as endormi ma mère,
+Mais jamais, jamais,
+Toure, loure, loure, loure,
+Mais jamais, jamais,
+Tu ne m'endormiras.
+
+Ah, voisin !
+
+Que venez-vous chercher ici ?
+
+      Ne faites point tant le brave ;
+Tasse rouzi friou titave,
+Vous pourrait maltraiter, ma foi,
+Votre gîte n'est plus chez moi,
+Le temps est passé.
+
+Il n'est compère ni commère,
+Vous devez être satisfait
+De tout ce que vous avez fait
+Contez-le pour votre partage,
+Vous n'en ferez pas davantage.
+Car j'userai de mon pouvoir.
+
+Ah ! Vous voulez faire le brave.
+Tasse rouzi friou titave.
+Mon fils voici le coup d'honneur
+Sers ton très humble serviteur,
+Et fais au moins sur le Compère
+Ce que tu fais sur la Commère,
+Comme diable il gagne le haut.
+
+Par elle mon sort a changé.
+
+
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lubine
+
+Quoi ! Vous osez Maître Ragot,
+Maître importun, et maître sot,
+Me venir rendre encor visite,
+Moi qui vous hais et vous évite,
+Comme l'on évite la mort.
+
+Vous l'avez dit, qu'en peut-il être ?
+
+Faites vos plaintes à la porte,
+Je suis lasse de l'entretien
+D'un homme plus sot que le mien.
+
+Va : reporte la seulement
+Au boucher, et sans plus attendre.
+
+Mais me veux-tu faire enrager ?
+Crois-tu que je puisse manger
+De cette tête ? Va la rendre.
+
+Elle pue, ne la sens-tu pas,
+Dis-lui qu'on la sent de dix pas,
+Et qu'il joue à se faire pendre.
+
+Si tu me fais prendre un bâton.
+Mais voyez son diable de ton.
+Il ne la voudra pas reprendre !
+Ma foi ! Si tu me fais te prendre !
+Je te donnerai du gros bout,
+Et dessus le ventre et partout
+Chien de cornard.
+
+Ah ! Que de t'avoir je suis lasse !
+L'on me montre au doigt quand je passe,
+Voilà la femme de ce gueux,
+Dit-on.
+
+Moi, t'avoir pris ! Moi qui suis fille
+D'un bon tapissier de la ville.
+
+Quoi tu veux jaser, chien d'ivrogne ?
+Reporte donc cette charogne,
+Ou je te vais rompre les bras.
+
+Encore : tu le payeras
+Aussitôt que tu reviendras :
+Ne suis-je pas bien misérable
+D'avoir pris un homme semblable ?
+Ce gueux était distributeur
+De ces billets d'Opérateur
+Il gagnait deux sous la journée.
+Regardez combien c'est Tannée»
+Sans aller compter par ses doigts
+C'est tout juste un écu par mois.
+N'est-ce pas pour faire grand chère.
+C'était un objet de misère,
+Il était tout déguenillé,
+Voyez comme il est habillé,
+Cependant depuis peu le traître !
+Voudrait je crois faire le maître !
+Il ne veut que ce qu'il lui plaît.
+Le sot, je l'ai fait ce qu'il est.
+
+Frotte les souliers du Compère:
+Hé bien, chien ? Ta tête de veau !
+
+Il ne la voudra pas reprendre ?
+L'a-t-il pas reprise, faquin ?
+
+      Va quérir du vin,
+Et que le rôtisseur nous barde
+Une bonne et grasse poularde
+Pour dîner mon Compère et moi.
+Tu prendras, si tu veux pour toi,
+Ou des noix, ou bien du fromage :
+Redonne ces souliers.
+
+      Te moques-tu de moi ?
+
+Que fais-tu donc là, chien d'ivrogne ?
+
+      Dis sot, est-ce pour rire ?
+
+Il faut le mettre au rang des fous.
+
+Il a perdu le jugement.
+Comme ce coquin, fait le grave !
+
+J'y vais, ne me frappe donc pas.
+
+D'où peut venir cet enragé ?
+Dis donc, que diable as-tu mangé !
+
+Mon mignon, quitte ces furies.
+
+Hélas ! Pardon mon cher amour,
+Que veux-tu ? D'où vient ta colère ?
+
+      Pour l'amour de moi.
+
+      Mon amour, il est parti.
+
+Rire et pleurer, je ne puis pas.
+
+Rirai-je à gorge déployée ?
+
+Moi que j'éternue, et comment ?
+
+Mais je ne le puis pas, ma foi.
+
+Mais cela n'est pas volontaire.
+
+Je le crois tu le dois bien être,
+Tu voulais tant faire le maître,
+Tu l'es de la bonne façon.
+
+Qui moi ? J'ai la voix trop méchante.
+
+Je suis malade et je ne puis.
+
+Ah ! Je n'en puis plus, je me meurs.
+
+Cesse tes coups, je n'en puis plus.
+
+Mon mignon, mon friou titave,
+Commande, je suis ton esclave.
+
+
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
+
+Il est huit heures justement,
+C'est l'heure qu'elle m'a donnée.
+
+      Veux-tu m'obliger ?
+C'est ici l'heure du Berger ;
+La manquer !
+
+À propos donne-moi ma bague.
+
+Donne donc, il est fort commode.
+
+C'est l'objet de ta raillerie.
+
+      Mon anneau :
+Que ta longueur me désespère !
+
+Oui, maudit traître, en cet instant
+Que tu jases, elle m'attend,
+Et c'est pour finir mon martyre...
+
+C'est peu pour cet heureux moment.
+
+Que veut-il ? Le diable l'emporte :
+Cours lui dire que d'aujourd'hui
+Je ne puis pas parler à lui,
+Et qu'une affaire d'importance...
+
+Le diable le puisse emporter ?
+Coquin, veux-tu pas l'arrêter ?
+
+Que l'enfer le puisse confondre !
+Un vautour lui mange le coeur !
+
+Ah ! Monsieur, votre serviteur.
+
+Vous vous moquez,
+
+Fusse-tu mille fois pendu.
+Monsieur, allât-il de ma vie.
+Je ne perdrai jamais l'envie
+De vous prouver ma passion.
+
+Et moi, je suis dedans la rage.
+
+J'irais pour vous jusques à Rome
+Les pieds nus.
+
+Et je vous donnerais mon coeur.
+
+Derechef l'enfer te confonde ;
+Je crains qu'on ne m'aille ravir
+L'avantage de vous servir.
+
+      Tu le paieras, traître.
+
+Est-elle au logis, ma Commère ?
+
+Sortir si brusquement ! Pourquoi
+Dites donc.
+
+Ah ! C'est en peu de mots tout dire,
+J'obéis, et je me retire.
+
+Hen.
+
+      Hé compère !
+
+Et moi je vous ferai savoir...
+
+
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurragot
+
+Ne vous emportez pas si fort,
+Lubine , voici la dernière :
+Vous êtes pour moi chaste et fière,
+Mais le Compère a tant d'appas
+Que pour lui vous ne l'êtes pas.
+
+Rien, car vous n'avez point de Maître :
+À dire vrai que craindriez vous ?
+Votre mari roué de coups,
+De vous et de l'heureux Compère,
+Qui mange chez vous d'ordinaire ?
+Et qui je pense y couche aussi ?
+J'en aurais fort peu de souci,
+Mais vous me traitez d'une sorte...
+
+Ah ! C'est trop mépriser ma flamme ;
+Je m'en saurai venger, infâme,
+J'encouragerai ton mari,
+Je chasserai ton favori ;
+Enfin je m'en vais dans ma rage
+Te faire un diable de ravage,
+Dès aujourd'hui ton sot époux
+Te donnera deux mille coups :
+Mais pour commencer cette affaire,
+Allons empaumer le Compère.
+
+Je vous ai détourné peut-être.
+
+Sans vous, ami, je suis perdu.
+
+Je suis dans la confusion.
+
+Portez vous à deux pas d'ici,
+Vous m'allez ôter de souci.
+
+Votre franchise et votre ardeur,
+Se trouve pour moi sans seconde.
+
+Partons.
+
+L'occasion s'offre à propos ;
+Allons donc jeter par avance
+Les fondements de ma vengeance :
+Je ne travaillerai point mal
+Si je puis chasser mon rival
+D'auprès cette impudente femme.
+Va n'as-tu point de honte infâme,
+Que les voisins entendent tous
+Ta femme te rouer de coups ?
+
+Que fait-il chez toi ce compère?
+
+J'ai feint d'avoir adroitement
+Besoin de lui pour un moment ;
+Pour l'avertir que l'on le blâme
+De voir trop librement ta femme :
+Mais loin d'en être inquiété
+En se moquant il m'a quitté ;
+Il allait troussant sa moustache
+Te monter un vilain panache.
+
+Encor passe pour ce Compère,
+Car nos femmes ont d'ordinaire
+Pour notre plus grand ennemi
+Quelque Compère ou quelque ami ;
+Mais on te croit sans raillerie
+Chef de la grande Confrérie.
+
+Vois-tu Voisin ? Je suis un homme...
+
+J'ai bien été dans d'autres lieux,
+Et si je ne suis pas trop vieux.
+
+Tu n'en as guère vu, pauvre homme !
+
+C'est voir, sans voir toute la France
+Ce qui s'y voit de conséquence.
+
       Non demeure,
 Je m'en vais te ravir sur l'heure :
 T'entretenir, étant pressé
@@ -521,54 +627,23 @@ Laquelle mise sur l'échine
 D'une femme fut-ce un Démon,
 La rend plus douce qu'un mouton.
 
--*who_lubin
-Peste ! L'admirable racine !
-D'où peut venir son origine ?
-
--*who_monsieurragot
 Du pied d'un arbre que j'ai vu
 Qu'avait planté Lusse-tu-cru,
 À ce qu'on dit, et puis fit Gilles.
 
--*who_lubin
-Peste ? Il était des plus habilles :
-Ce bois a cette faculté ?
-
--*who_monsieurragot
 Si ta femme en avait tâté.
 
--*who_lubin
-Vraiment je veux bien qu'elle en tâte ;
-Mais une autre fois, car j'ai hâte.
-
--*who_monsieurragot
 Attend, dans un quart d'heure, ou deux.
 Elle en tâtera si tu veux ;
 Ce ne serait plus elle-même,
 Sa douceur deviendrait extrême
 Par la faculté de ce bois.
 
--*who_lubin
-La baiserais-je quelquefois ?
-Pourrais-je coucher avec elle.
-
--*who_monsieurragot
 Hé quoi donc ? La grande nouvelle !
 N'y couches-tu pas quand tu veux ?
 
--*who_lubin
-Morbleu ! Que je serais heureux !
-Ce serait une bonne affaire !
-Mais où coucherait le Compère ?
-
--*who_monsieurragot
 Qu'il couche au diable désormais.
 
--*who_lubin
-Elle ne le voudra jamais,
-C'est un homme qu'elle idolâtre.
-
--*who_monsieurragot
 Mais tu la battras comme plâtre
 Si tu veux, et tu lui feras
 Faire tout ce que tu voudras.
@@ -586,19 +661,9 @@ Te dire en larmes, je promets
 De n'aimer que toi désormais,
 De ne plus souffrir le Compère.
 
--*who_lubin
-Ce serait bien là mon affaire :
-Mais l'homme qui l'avait trouvé
-Ce bâton...
-
--*who_monsieurragot
       L'avait éprouvé :
 Mais connaissais-tu pas ma femme ?
 
--*who_lubin
-Qui, c'était une bonne lame.
-
--*who_monsieurragot
 Trois coups la rendirent d'abord
 Plus douce qu'un enfant qui dort :
 Mais il faut dedans ta mémoire
@@ -606,385 +671,53 @@ Mettre quatre mots de grimoire,
 Et les dire, autrement, ma foi,
 Les coups retourneraient sur toi.
 
--*who_lubin
-Ah ! Je veux donc bien les apprendre.
-Avant que de rien entreprendre.
-
--*who_monsieurragot
 Oui, car il les faut prononcer.
 Auparavant que commencer.
 
--*who_lubin
-Elle va revenir, je meure :
-Apprenez-les moi tout à l'heure
-Et nous allons dans un moment
-Voir un diable de changement
-Pour elle et pour moi fort risible ;
-Si le secret est infaillible
-Je ne vous épargnerai rien,
-Prenez mon honneur et mon bien,
-J'ai fort peu de l'un et de l'autre,
-Mais disposez comme de vôtre.
-
--*who_monsieurragot
 Va je ne te demande rien,
 Voici les mots retiens les bien.
 
--*who_lubin
-Vraiment pour cesser d'être esclave...
-
--*who_monsieurragot
 Tasse vouzi driou titave.
 
--*who_lubin
-La peste ! Quels diables de mots !
-Je ne trouve plus à propos
-De les apprendre tout à l'heure,
-Il me faut deux-mots, ou je meure
-Avant que de les bien savoir
-Adieu, voisin, jusqu'au revoir.
-
--*who_monsieurragot
 Demeure, il n'est rien plus facile :
 Quand tu serais plus imbécile
 Que la même imbécillité,
 Je donne la facilité
 D'apprendre en un jour une histoire..
 
--*who_lubin
-Mais donnez-vous de la mémoire ?
-Il faudrait vite m'en fournir
-Car ma femme va revenir.
-
--*who_monsieurragot
 Dis donc, tu n'as que de la bave :
 Tasse vouzi driou titave.
 
--*who_lubin
-Tasse, roti....
-
--*who_monsieurragot
       Quoi ! Quatre mots...
 
--*who_lubin
-Patience, un peu de repos.
-
--*who_monsieurragot
 Tasse...
 
--*who_lubin
-      Je sais bien une tasse
-Dans laquelle on boit.
-
--*who_monsieurragot
       Je me lasse.
 
--*who_lubin
-Dites-les moi plus posément.
-
--*who_monsieurragot
 Je parle assez distinctement
 Tasse rouzi....
 
--*who_lubin
-      Disons ensemble.
-
--*who_monsieurragot
 Pourquoi m'interrompre ?
 
--*who_lubin
-      Il me semble
-Que quand nous parlerons toux deux
-Je les dirai peut-être mieux.
-
--*who_monsieurragot
 Tasse.
 
--*who_lubin
-      Tasse. Dis-je pas bien ?
-
--*who_monsieurragot
 Achève.
 
--*who_lubin
-      Je ne sais plus rien.
-
--*who_monsieurragot
 Et comment donc prétends-tu faire ?
 
--*who_lubin
-Il faut achever notre affaire.
-
--*who_monsieurragot
 Mais quoi ! Si tu ne retiens pas.
 
--*who_lubin
-Mais que l'on parle mal là-bas !
-Le langage est bien incommode
-Dedans la ville d'Antipode !
-Cela me ferait détester.
-
--*who_monsieurragot
 Je ne me veux point rebuter,
 Il faut s'armer de patience
 Pour bien assurer sa vengeance,
 Elle est tantôt en mon pouvoir.
 
--*who_lubin
-Écoutez, je crois les savoir :
-Tasse vouzi friou titave.
-
--*who_monsieurragot
 Les voilà, tu n'es plus esclave,
 Ils te rendront maître chez toi.
 Adieu.
 
-**** *book_ *id_I11 *act_I *date_1661
-
--*who_lubine
-      Te moques-tu de moi ?
-
--*who_lubin
-Ne voilà-t-il pas la carogne ?
-
--*who_lubine
-Que fais-tu donc là, chien d'ivrogne ?
-
--*who_lubin
-Tasse rouzi friou... J'y fais...
-Il ne m'en souviendra jamais,
-Voisin.
-
--*who_lubine
-      Dis sot, est-ce pour rire ?
-
--*who_lubin
-Il s'en est allé sans rien dire,
-Elle a raison, faute d'un mot
-Je ne suis encore qu'un sot.
-Il rimait ce me semble à cave :
-Tasse rouzi friou titave.
-Bon je l'ai retrouvé sans vous.
-
--*who_lubine
-Il faut le mettre au rang des fous.
-
--*who_lubin
-Des fous ! Pas tant fou que l'on pense :
-Allons, fais-moi la révérence.
-Et quelque joli compliment.
-
--*who_lubine
-Il a perdu le jugement.
-Comme ce coquin, fait le grave !
-
--*who_lubin
-Tasse rouzi friou titave.
-
--*who_lubine
-J'y vais, ne me frappe donc pas.
-
--*who_lubin
-La révérence, bas, plus bas,
-Ma foi, cette racine est drôle !
-Allons, qu'on joue un autre rôle.
-
--*who_lubine
-D'où peut venir cet enragé ?
-Dis donc, que diable as-tu mangé !
-
--*who_lubin
-Ah coquine tu m'injuries.
-
--*who_lubine
-Mon mignon, quitte ces furies.
-
--*who_lubin
-Mon mignon ! Hé mon chien de coeur :
-D'où diable me vient cet honneur ?
-Crois-tu parler à ton Compère ?
-Tasse rouzi friou, j'espère
-Te reconnaître quelque jour.
-
--*who_lubine
-Hélas ! Pardon mon cher amour,
-Que veux-tu ? D'où vient ta colère ?
-
--*who_lubin
-Va mettre dehors ce compère,
-Et ne le regarde jamais,
-Va vite, et reviens : désormais
-Je suis le mari de ma femme
-Tasse rouzi friou, mon âme.
-
-**** *book_ *id_I12 *act_I *date_1661
-
--*who_lecompere
-Sortir si brusquement ! Pourquoi
-Dites donc.
-
--*who_lubine
-      Pour l'amour de moi.
-
--*who_lecompere
-Ah ! C'est en peu de mots tout dire,
-J'obéis, et je me retire.
-
--*who_lubin
-Voilà le Compère sorti,
-Bon.
-
--*who_lubine
-      Mon amour, il est parti.
-
--*who_lubin
-Il est parti ! Ton coeur soupire !
-Allons, tout à l'heure il faut rire.
-
--*who_lubine
-Rire et pleurer, je ne puis pas.
-
--*who_lubin
-Ris ,ou je te romprai les bras,
-Ma racine est mal employée.
-
--*who_lubine
-Rirai-je à gorge déployée ?
-
--*who_lubin
-Oui-dà, bien fort ; bon, ne ris plus,
-Je trouve tes ris superflus ;
-Pleure à présent à chaudes larmes ;
-On dit que ta voix a des charmes ,
-Chante, éternue, auparavant.
-
--*who_lubine
-Moi que j'éternue, et comment ?
-
--*who_lubin
-Comme tu voudras, éternue,
-Éternue, ou bien je te tue.
-
--*who_lubine
-Mais je ne le puis pas, ma foi.
-
--*who_lubin
-Tasse friou titave, à moi.
-
--*who_lubine
-Mais cela n'est pas volontaire.
-
--*who_lubin
-Ah ! J'ai tort s'il ne se peut faire.
-Fais donc un feint éternuement ;
-Dieu t'assiste, je suis content.
-
--*who_lubine
-Je le crois tu le dois bien être,
-Tu voulais tant faire le maître,
-Tu l'es de la bonne façon.
-
--*who_lubin
-À propos, chante la chanson....
-Et là, cette chanson qu'on chante.
-
--*who_lubine
-Qui moi ? J'ai la voix trop méchante.
-
--*who_lubin
-Et la voix, l'esprit, et le corps,
-Tu n'es bonne que quand tu dors,
-Mais vois-tu , je veux être maître,
-Et c'est enfin mon tour de l'être :
-Chante pour charmer mes ennuis.
-
--*who_lubine
-Je suis malade et je ne puis.
-
--*who_lubin
-Il faut donc prendre médecine.
-Quatre prises de ma racine
-Purgent les mauvaises humeurs.
-
--*who_lubine
-Ah ! Je n'en puis plus, je me meurs.
-
--*who_lubin
-Que tu fais mal la décédé !
-Tu ferais mieux la possédée.
-
--*who_lubine
-Cesse tes coups, je n'en puis plus.
-
--*who_lubin
-Chante, tes pleurs font superflus ;
-Je suis fort content que tu meures,
-Pends-toi, si tu veux dans deux heures,
-Je veux avant que voir ta fin
-T'entendre dire : Ah ! Le bon vin,
-Tu as endormi ma mère,
-Mais jamais, jamais,
-Toure, loure, loure, loure,
-Mais jamais, jamais,
-Tu ne m'endormiras.
-
--*who_lubin_lubine
-Ah, le bon vin !
-Tu as endormi ma mère,
-Mais jamais, jamais,
-Toure, loure, loure, loure,
-Mais jamais, jamais,
-Tu ne m'endormiras.
-
--*who_lubine
-Mon mignon, mon friou titave,
-Commande, je suis ton esclave.
-
-**** *book_ *id_I13 *act_I *date_1661
-
--*who_lubin
-Ah, voisin !
-
--*who_monsieurragot
       As-tu réussi ?
 
--*who_lubin
-Que venez-vous chercher ici ?
-
--*who_lecompere
-Hen.
-
--*who_lubin
-      Ne faites point tant le brave ;
-Tasse rouzi friou titave,
-Vous pourrait maltraiter, ma foi,
-Votre gîte n'est plus chez moi,
-Le temps est passé.
-
--*who_lecompere
-      Hé compère !
-
--*who_lubin
-Il n'est compère ni commère,
-Vous devez être satisfait
-De tout ce que vous avez fait
-Contez-le pour votre partage,
-Vous n'en ferez pas davantage.
-Car j'userai de mon pouvoir.
-
--*who_lecompere
-Et moi je vous ferai savoir...
-
--*who_lubin
-Ah ! Vous voulez faire le brave.
-Tasse rouzi friou titave.
-Mon fils voici le coup d'honneur
-Sers ton très humble serviteur,
-Et fais au moins sur le Compère
-Ce que tu fais sur la Commère,
-Comme diable il gagne le haut.
-
--*who_monsieurragot
 Mais suis-je vengé comme il faut ?
 Si vous menez Jean, Jacques ou Blaise,
 Enfin quelque ami qui vous plaise,
@@ -993,8 +726,63 @@ Que votre femme n'aime pas,
 Et qu'elle vous fasse la mine,
 Venez emprunter ma racine.
 
--*who_lubin
-Par elle mon sort a changé.
-
--*who_monsieurragot
 Voilà, Messieurs, le sot vengé.
+
+
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_croquillon
+
+D'où vient ce grand empressement ?
+
+Je ne sais point de haquenée,
+Dont l'amble...
+
+      Mon maître extravague.
+
+Mais Lubin ce pauvre Jobet,
+Qui va quérir comme un barbet,
+Et qui vous rapporte de même,
+Dont la patience est extrême ;
+Ce mari plus battu qu'un chien,
+Qui voit beaucoup, et ne dit rien ;
+Enfin ce plus sot que tout autre,
+Dont la femme est, je crois, la vôtre,
+N'est-il pas sur votre journal
+Marqué pour un original ?
+
+Il n'en amène pas la mode,
+On le pratique en toutes parts :
+Diable la mode des cornards
+Est une mode d'importance,
+On ne la change point en France,
+Les autres durent quinze jours,
+Mais celle-là dure toujours.
+
+Il revient de la boucherie
+Quérir une tête de veau,
+Il vient de rentrer.
+
+Vous allez donc voir la Commère ?
+
+Courez, je n'ai plus rien à dire,
+Mais je crains pour le diamant.
+
+Monsieur, Ragot est à la porte.
+
+Il n'est plus temps, car il avance.
+
+Il vient, songez à lui répondre.
+
+      Ah qu'il est traître ?
+
+Cela ne va pas mal, courage.
+
+      Ah, le méchant homme ?
+
+Eh bien, vit-on jamais paraître
+Une plus grande trahison ?
+Si je rentre dans ta maison
+Puissent toutes les chambrières
+Me donner cent coups d'étrivières.
+Je ne puis pas trouver, je crois,
+Un plus méchant maître que toi.
+

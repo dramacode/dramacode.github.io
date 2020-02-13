@@ -1,382 +1,44 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_lafontaine *book_lafontaine_rieursdubeaurichard *style_verse *genre_ballet *dist1_lafontaine_verse_ballet_rieursdubeaurichard *dist2_lafontaine_verse_ballet *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesavetier
 
--*who_rieur
-Le Beau-Richard tient ses grands jours
-Et va rétablir son empire.
-L'année est fertile en bons tours ;
-Jeunes gens, apprenez à rire.
-Tout devient risible ici-bas,
-Ce n'est que farce et comédie ;
-On ne peut quasi faire un pas,
-Ni tourner le pied qu'on n'en rie.
-Qui ne rirait des précieux ?
-Qui ne rirait de ces coquettes
-En qui tout est mystérieux,
-Et qui font tant les Guillemettes ?
-Elles parlent d'un certain ton
-Elles ont un certain langage
-Dont aurait ri l'aîné Caton,
-Lui qui passait pour homme sage.
-D'elles pourtant il ne s'agit
-En la présente comédie :
-Un bon bourgeois s'y radoucit
-Pour une femme assez jolie.
-« Faites-moi votre favori
-Lui dit-il, et laissez-moi faire. »
-La femme en parle à son mari
-Qui répond, songeant a l'affaire :
-« Ma femme, il vous faut l'abuser,
-Car c'est un homme un peu crédule,
-Sous l'espérance d'un baiser,
-Faites-lui rendre ma cédule.
-« Déchirez-la de bout en bout
-Car la somme en est assez grande
-Toussez après ; ce n'est pas tout :
-Toussez si haut qu'on vous entende.
-« Il ne faut pas tarder beaucoup
-De peur qu'il n'arrive fortune.
-Toussez, toussez encore un coup,
-Et toussez plutôt deux fois qu'une. »
-Ainsi fut dit, ainsi fut fait.
-En certain coin l'époux demeure,
-Le galant vient frisque et de hait,
-La dame tousse à temps et heure.
-Le mari sort diligemment,
-Le galant songe à s'aller pendre ;
-Mais il y songe seulement :
-Pour cela n'est-il à reprendre.
-Tous les galants craignent la toux,
-Elle a souvent trouble la fête.
-Nous parlons aussi comme l'époux,
-Autant nous en pend sur la tête.
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_marchand
-J'ai de l'argent, j'ai du bonheur,
-Aux mieux fournis je fais la nique ;
-Et si j'avais un petit coeur,
-J'aurais de tout dans ma boutique.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_cribleurs
-Monsieur, si vous avez du blé
-Ou quelque ordure se rencontre,
-Nous vous l'aurons bientôt criblé.
-
--*who_lemarchand
-Tenez, en voici de la montre.
-
--*who_cribleurs
-Six coups de crible, assurez-vous
-Que la moindre ordure s'emporte ;
-Rien ne reste à faire après nous,
-Tant nous criblons de bonne sorte.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_lesavetier
 Bonjour, Monsieur.
 
--*who_lemarchand
-      Comment vous va ?
-Le ménage est-il à son aise ?
-
--*who_lesavetier
 Las ! Nous vivons cahin-caha,
 Étant sans blé, ne vous déplaise.
 À présent on ne gagne rien ;
 Cependant il faut que l'on vive.
 
--*who_lemarchand
-Je fais crédit aux gens de bien,
-Mais je veux qu'un notaire écrive.
-Voyez ce blé.
-
--*who_lesavetier
       Il est bien gris.
 
--*who_lemarchand
-Cette montre est beaucoup plus nette.
-
--*who_lesavetier
 Voici mon fait, dites le prix.
 
--*who_lemarchand
-Quarante écus.
-
--*who_lesavetier
       C'est chose faite
 Mine dans muid.
 
--*who_lemarchand
-      C'est un peu fort,
-Mettez pourtant la montre en poche.
-
--*who_lesavetier
 Faut six setiers.
 
--*who_lemarchand
-J'en suis d'accord.
-Le notaire est ici tout proche.
-Le Savetier sort pour aller quérir un Notaire.
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_lenotaire
-Avec moi l'on ne craint jamais
-Les et caetera de notaire ;
-Tous mes contrats sont fort bien faits
-Quand l'avocat me les fait faire.
-Il ne faut point recommencer ;
-C'est un grand cas quand on m'affine
-Et Sarasin m'a fait passer
-Un bail d'amour à Socratine.
-Mieux que pas un, sans contredit
-Je règle une affaire importante.
-Je signerai, ce m'a-t-on dit,
-Le mariage de l'Infante.
-
--*who_lesavetier
 Je dois à Monsieur que voilà
 Et c'est un mot qu'il en faut faire.
 
--*who_lenotaire
-Par-devant les..., et cætera...
-C'est notre style de notaire.
-
--*who_lemarchand
-Mettez pour six setiers de blé.
-Mine dans muid.
-
--*who_lenotaire
-      Quelle est la somme ?
-
--*who_lemarchand
-Quarante écus.
-
--*who_lenotaire
-      C'est bon marché.
-
--*who_lesavetier
 C'est que Monsieur est honnête homme.
 
--*who_lenotaire
-Payable quand ?
-
--*who_lemarchand
-      À la Saint-Jean.
-
--*who_lesavetier
 Jean ne me plaît.
 
--*who_lemarchand
-      Que vous importe ?
-Craignez-vous de voir un sergent
-Le lendemain à votre porte ?
-
--*who_lesavetier
 À la Saint-Nicolas est bon.
 
--*who_lemarchand
-Jean... Nicolas... rien ne m'arrête.
-
--*who_lenotaire
-C'est d'hiver ?
-
--*who_lesavetier
       Oui.
 
--*who_lenotaire
-      Signez-vous ?
-
--*who_lesavetier
       Non.
 
--*who_lenotaire
-A déclaré... La chose est faite.
-Tenez.
-
--*who_lemarchand
-      Tenez.
-
--*who_lenotaire
-      Il ne faut rien.
-
--*who_lemarchand
-Cela n'est pas juste, beau sire.
-
--*who_lesavetier
 Monsieur, je le paierai fort bien
 En retirant...
 
--*who_lenotaire
-      C'est assez dire.
-
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_lemeunier
-Celui-là ment bien par ses dents,
-Qui nous fait larrons comme diables :
-Diables sont noirs, meuniers sont blancs.
-Mais tous les deux sont misérables.
-Le meunier semble un Jodelet
-Farine d'étrange manière ;
-Le diable garde le mulet,
-Tandis qu'on baise la meunière.
-Ai-je un mulet, il est quinteux ;
-Et je ne suis pas mieux en mule ;
-Si j'ai quelque âne, il est boiteux,
-Au lieu d'avancer il recule.
-Celui-ci marche a pas comptés ;
-On le prendrait pour un chanoine.
-Allons donc, mon âne.
-
--*who_lane
-      Attendez.
-Je n'ai pas mangé mon avoine.
-
--*who_lemeunier
-Vous mangerez tout votre soûl.
-
--*who_lane
-Hin-han, hin-han.
-
--*who_lemeunier
-      Que veut-il dire ?
-Hé quoi ! Mon âne, êtes-vous fou ?
-Vous brayez quand vous voulez rire !
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_lafemme
-Que mon mari fait l'assoté !
-Il ne m'appelle que son âme ;
-Si j'étais homme, en vérité,
-Je n'aimerais pas tant ma femme.
-
--*who_lemarchand
-Ce logis m'est hypothéqué ;
-L'homme me doit, la femme est belle,
-Nous ferions bien quelque marché,
-Non lui et moi, mais moi et elle.
-Vous me devez, mais, entre nous,
-Si vous vouliez... bien à votre aise
-
--*who_lafemme
-Monsieur, pour qui me prenez-vous ?
-Voyez un peu frère Nicaise !
-
--*who_lemarchand
-Accordez-moi quelque faveur.
-
--*who_lafemme
-Pourquoi cela ?
-
--*who_lemarchand
-      Comme ressouce ;
-Songez que votre serviteur...
-A beaucoup d'argent dans sa bourse.
-
--*who_lafemme
-Je n'ai souci de votre argent.
-
--*who_lemarchand
-Pour faire court, en trois paroles,
-La courtoisie ou le sergent,
-Ou bien payez-moi six pistoles !
-
--*who_lafemme
-Je suis pauvre, mais j'ai du coeur :
-Plutôt que mes meubles l'on crie,
-Comme j'ai soin de notre honneur,
-Je ferai tout.
-
--*who_lemarchand
-      Ma douce amie
-On doit apporter du vin frais,
-Quelque régal il nous faut faire.
-
-**** *book_ *id_I08 *act_I *date_(non
-
--*who_lepatissier
-Monsieur un tel se met en frais...
-Oh ! Oh ! Voici bien autre affaire ;
-Mais ne faisons semblant de rien...
-Bonjour, Monsieur ; bonjour, Madame.
-
--*who_lemarchand
-Tous tes dauphins ne valent rien.
-
--*who_lepatissier
-En voici de bons, sur mon âme.
-
--*who_lemarchand
-Mets sur ton livre, pâtissier.
-Je n'ai pas un sou de monnaie.
-
--*who_lemarchand
-À vous !
-
--*who_lafemme
-      À vous !... Mais le papier ?
-
--*who_lemarchand
-Le voilà.
-
--*who_lafemme
-      Donnez, que je voie ;
-Donnez, donnez, mon cher Monsieur !
-
--*who_lemarchand
-Quelque sot ! Ardez c'est mon voire.
-
--*who_lafemme
-Je suis vraiment femme d'honneur ;
-Quand j'ai juré, l'on me peut croire :
-Déchirez.
-
--*who_lemarchand
-      Crac...
-
--*who_lafemme
-      Déchirez donc :
-Vous n'en déchirez que partie.
-
--*who_lemarchand
-Il est déchiré tout du long.
-
--*who_lafemme
-Hem !
-
--*who_lemarchand
-      Qu'avez-vous, ma douce amie ?
-
--*who_lafemme
-C'est le rhume. Hem !
-
--*who_lemarchand
-      Foin de la toux !
-Assurément, ce sont défaites.
-
-**** *book_ *id_I09 *act_I *date_(non
-
--*who_lesavetier
 Ah ! Monsieur, quoi ! Vous voir chez nous ?
 C'est trop d'honneur que vous nous faites.
 
--*who_lemarchand
-Argent ! Argent !
-
--*who_lesavetier
       Papier ! Papier !
 
--*who_lemarchand
-Si je m'oblige à vous le rendre...
-
--*who_lesavetier
 Ce n'est rien fait : point de quartier !
 Je ne me laisse point surprendre.
+

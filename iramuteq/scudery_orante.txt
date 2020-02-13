@@ -1,144 +1,13 @@
 
 
-**** *book_ *id_body-1 *date_1635 *creator_scudery
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_isimandre
 
-A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE
-
-Madame,
-
-j'advouë que ce que je presente à vostre Grandeur est indigne d'elle : Mais si vous ne deviez recevoir que les choses qui meritent de l'estre de vous, il est certain que vous auriez droict de refuser tout ce qu'on vous pourroit offrir.
-Cette foiblesse, qui m'est commune, avec tout le reste des hommes, ne me donne point d'affliction ; je sçay qu'il est mesme des fuites, qui ne sont pas honteuses aux particuliers, parce qu'elles sont generales, & que ceux qui se sauvent de la perte d'une bataille n'estoient pas obligez d'y mourir.
-Mais quand ce raisonnement n'auroit pas esté capable de me faire hardy, le favorable accueil que j'ay tousjours receu de V.E. m'eust aussi bien obligé de l'estre.
-Oüy, MADAME, vostre bonté fait ma hardiesse, & mon crime vient de vostre vertu : mais quoy que l'on tienne pour asseuré qu'une erreur en appelle une autre, je m'empescheray bien d'adjouster à la faute que je commets, en vous donnant une chose de si peu d'importance, celle de vous loüer de mauvaise grace : que s'il faut toutefois que je le fasse, pour suivre la coustume que les autres ont establie, je pense avoir assez d'adresse pour m'en acquiter plus dignement sans eloquence, qu'ils ne feroient avec toutes les regles & toutes les beautez de leur art.
-Et cela, MADAME, en disant seulement que vous estes l'illustre Sang de BOURBON, si Noble & si pur, qu'il a moins de taches que le Soleil ; de sorte que vous auriez plus de peine à faillir, que les autres n'en ont à bien faire : Et s'il faut encore adjouster à cette gloire essentielle une qui vous vienne d'ailleurs ; apres avoir remarqué que vous avez l'honneur d'appartenir au plus grand Monarque de la terre : Je diray que vous estes Sœur d'un Prince, qui possede toutes les bonnes qualitez que doit avoir un homme de la sienne, & femme d'un autre, de qui le cœur & l'esprit disputent de grandeur avec sa naissance : C'est tout ce que peut vous dire,
-
-Madame,
-
-Vostre très-humble &
-
-très-obéïssant serviteur,
-
-DE SCUDERY.
-
-**** *book_ *id_body-2 *date_1635 *creator_scudery
-
-Fautes survenuës en l'impression de l'Orante.
-
-Page 18. vers 2. mots, lisez maux.
-
-Page 19. vers 19. infortuné, lisez infortunée.
-
-Page 29. vers 6. un Dien, lisez un Dieu.
-
-Page 70. vers 2. le, lisez la.
-
-Page 85. vers 7. fouffrez, lisez souffrez.
-
-Page 104. vers 8. pere, lisez peres.
-
-Page 108. vers 1.suivez, lisez suiviez.
-
-**** *book_ *id_body-3 *date_1635 *creator_scudery
-
-AU LECTEUR.
-
-Je confesse ingenuëment que ma sterilité vient de l'abondance d'autruy : L'on a tant fait d'Avant-propos, qu'il est comme impossible maintenant que mes pensées ne se rencontrent avec celles d'un autre ; & je ne veux point te donner sujet d'appeller larcin ce qui ne seroit que concurrence.
-Contente-toy donc que je te prie seulement d'excuser mes fautes, & celles de l'Impression.
-
-Adieu.
-
-**** *book_ *id_body-4 *date_1635 *creator_scudery
-
-PRIVILEGE DU ROY.
-
-LOUIS PAR LA GRACE DE DIEU ROY DE FRANCE ET DE NAVARRE :
-
-A nos amez, et Feaux Conseillers, les gens tenans nos Cours de Parlement ; Maistres des requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans,& tous autres de nos Justiciers & Officiers qu'il appartiendra ; Salut.
-Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Paris, nous a fait remonstrer qu'il desireroit imprimer un Livre intitulé Orante, Tragi-Comédie du Sieur de SCUDERY, s'il nous plaisoit de luy accorder nos Lettres sur ce necessaires ; humblement nous requerant icelles.
-A CES CAUSES, Nous avons permis & permettons par ces présentes à l'exposant, d'imprimer ou faire imprimer, vendre & debiter ledit Livre en tous les lieux de nostre obeyssance, durant l'espace de sept ans entiers & accomplis, à compter du jour qu'il sera achevé d'imprimer pour la premiere fois.
-Et faisons deffenses à toutes personnes, de quelque qualité qu'elles soient, tant de nos subjects que des estrangers, d'en exposer en vente aucuns exemplaires contrefaits, à peine de quinze cens livres d'amende, qui sera payée sans deport, et nonobstant oppositions ou appellations quelconques, par chacun de ceux qui en seront trouvez saisis, ou qui l'auront imprimé ou fait imprimer sans le consentement dudit exposant ; de confiscation de tous les exemplaires, & de tous les despens dommages & interests : A condition qu'il en sera mis deux exemplaires en nostre Bibliothéque publique, à faute dequoy les présentes seront de nul effect.
-Si vous mandons que du contenu en icelles, vous fassiez joüïr plainement & paisiblement ledit exposant, sans souffrir qu'aucun empeschement luy soit donné.
-Voulons qu'en mettant au commencement, ou à la fin dudit livre, un bref extraict des presentes, elles soient tenuës pour deuëment signifiées, & que foy soit adjoustée aux coppies qui en seront colationnées par un de nos amez et seaux Conseiller, Secrétaires, comme à l'original.
-Mandons au premier nostre Huissier ou Sergent sur ce requis, de faire pour l'execution d'iceluy, tous exploicts necessaires, sans demander autre permission.
-CAR TEL EST nostre plaisir, nonobstant Clameur de Haro, Chartre Normande ; et autres lettres à ces contraires.
-Donné à Paris le dernier jour de juin, l'an de grace mille six cens trente cinq.
-Et de nostre Regne le vingt-sixiesme.
-
-Par le Roy en son Conseil.
-
-CONRART.
-
-Achevé d'imprimer ce I. Septembre 1635.
-
-Lesdits livres ont este fournis, ainsi qu'il est porté par le Privilege.
-
-**** *book_ *id_I01 *act_I *date_1635 *creator_scudery
-
--*who_rosimond
-Malgré le vœu⁎ discret d'une bouche muette,
-Enfin je vous connois amoureux & Poëte :
-Non, non, je vous y prends ; que sert de le celer⁎ ?
-C'est trop en mesme temps, que se taire, & brusler ;
-Voyons dans ce Sonnet, qu'on cache comme un crime ;
-Des regrets mesurez⁎, & des souspirs en rime.
-
--*who_isimandre
 Rends-le moy cher Amy :
 
--*who_rosimond
-      J'y suis bien resolu,
-Mais ce ne sera pas avant que l'avoir leu.
-
--*who_isimandre
 Comme tous mes plaisirs ont desja fait naufrage,
 Le desordre des sens en met en mon ouvrage,
 Et mes vers sont confus, autant que mon humeur⁎ :
 
--*who_rosimond
-
-Icy l'humilité ne sent point le Rimeur.
-Il falloit preparer mes yeux & mes oreilles ;
-Me dire qu'à genoux on doit voir des merveilles ;
-Me reciter vos vers en accents relevez⁎ ;
-C'est tout leur ornement, & vous les en privez :
-Les Maistres du mestier ont bien une autre emphase ;
-Pour vous ravir l'esprit, ils tombent en extase⁎ ;
-A chaque fin de stance on les voit se pasmer⁎,
-Pour vous donner le temps qu'il faut à l'estimer ;
-Et faisant les yeux doux, ils semblent vouloir dire,
-Vous devez m'adorer, parce que je m'admire ;
-Mais mon visage froid desespere un Autheur,
-Et je le fais tomber d'une belle hauteur.
-Or vous dont je connois, & l'adresse, & la force ;
-Me faisant un refus, me jettez une amorce ;
-En un mot, je veux voir, en voyant ce sonnet,
-Ce que vous enfantez⁎ dans vostre Cabinet.
-SONNET.
-
-Qu'on me fasse un Tombeau, je ne me puis promettre
-De vivre desormais l'espace d'un moment :
-Mille ans ont fait leur cours depuis l'esloignement,
-De l'homme paresseux qui doit rendre ma lettre :
-
-Dieux, Parques, & Destins, me voulez vous permettre,
-Immortel comme vous, d'estre eternellement ?
-Si vous estes puissans, faites le moy parestre,
-Me donnant le repos qu'on trouve au monument⁎.
-
-Avoir vescu mille ans, n'est-ce pas un bel âge ?
-Mais que l'impatience, helas ! me rend peu sage,
-Mon esprit agité, soy-mesme ne s'entend⁎ :
-
-Depuis que j'escrivis, j'ay compté mille années,
-Et tout consideré, ce n'est que six journées,
-Dieux ! que le temps est long pour un bien qu'on attend.
-
-Quoy donc, vous en tenez? & cette humeur⁎ rebelle,
-Enfin dans l'Univers, a pû voir une Belle ?
-Il se trouve un object⁎, qui merite vos soins ?
-Si ce discours est vray, c'est Venus pour le moins.
-
--*who_isimandre
 Celle dont le Berceau fut pris d'une Coquille,
 Pourroit servir de lustre⁎ à cette belle fille ;
 Et l'on doit confesser malgré ses cruautez,
@@ -148,10 +17,6 @@ Pour les coups de ses yeux, il n'est rien à l'espreuve ;
 Et bien qu'un arbre, un roc, s'en laissassent charmer,
 Elle a plus fait encor, en me faisant aimer.
 
--*who_rosimond
-De sçavoir quelle elle est, le desir vient de naistre :
-
--*who_isimandre
 Sans te dire son nom tu la pourras connaistre :
 On ne voit rien d'esgal au moindre de ses traicts⁎ ;
 Escoute moy parler pour voir de ses Portraicts.
@@ -164,19 +29,10 @@ Pense de voir un port⁎, qui fait rougir les Graces;
 Songe à tous les attraicts, songe à tous les appas⁎,
 Telle est cette Beauté, ne la connois tu pas ?
 
--*who_rosimond
-Mon ame en est ravie, & non moins ignorante :
-
--*who_isimandre
 Est-il besoin encor de te nommer Orante ?
 Injurieux amy, confesse moy ce point,
 Qu'à juger des portraicts tu ne te connois point.
 
--*who_rosimond
-Le moyen de la voir à travers la querelle,
-Et cette inimitié qui vous est naturelle ?
-
--*who_isimandre
 Espouse qui voudra ses injustes fureurs⁎ ;
 Je dois cherir mon pere, & non pas ses erreurs :
 Ces vieux ressentimens que la colere attise,
@@ -188,10 +44,6 @@ Je baiseray les pas de ma belle ennemie,
 Mon esprit ne sçauroit en estre diverti⁎ ;
 Malgré mon interest, il est de son parti.
 
--*who_rosimond
-Estes vous assuré, que le sien est du vostre ?
-
--*who_isimandre
 A quiconque aime bien qu'importe l'un ou l'autre ?
 Le veritable amant ne doit rien esperer ;
 Rien demander aux Dieux, c'est assez d'adorer :
@@ -200,10 +52,6 @@ L'amour qui fait ma peine en est la recompense ;
 Les bonnes actions ont un certain plaisir,
 Qui s'esleve plus haut que ne fait le desir.
 
--*who_rosimond
-Pourquoy donc desirer responce d'une lettre ?
-
--*who_isimandre
 Ha ! que je hay ces vers, parce qu'un d'eux est traistre :
 Il apprend un secret qui me descouvrira⁎ ;
 Et le mettant au jour, ta voix m'en privera,
@@ -212,13 +60,6 @@ Sçache que pour cela, je craindrois le silence ;
 Tout endormy qu'il est d'une froide vapeur ;
 Son sommeil de pavots esveilleroit ma peur.
 
--*who_rosimond
-Que ma fidelité me pleige, & vous console ;
-Sçachez que mon devoir commande à ma parole ;
-Un secret en mon ame, augmente son credit⁎ ;
-Ne le dire qu'à moy, c'est ne l'avoir point dit.
-
--*who_isimandre
 Je le crois, cher Amy, tu pleurerois ma perte :
 C'est pour toy seul aussi que mon ame est ouverte ;
 Je descouvre⁎ à toy seul l'injustice du sort ;
@@ -236,153 +77,384 @@ Les termes pleins de feu qu'Amour m'a fait escrire,
 Et que ses volontez m'ordonnent de la voir,
 En despit du malheur je feray mon devoir.
 
--*who_rosimond
-Soyez Amant discret, ainsi qu'Amant fidelle ;
-Puis qu'elle vous cherit, conservez vous pour elle ;
-Si vous allez à Pise, où gist vostre bon-heur,
-Souvenez-vous qu'Ormin en est le Gouverneur.
-
--*who_isimandre
 La force de l'Amour rendra la sienne vaine ;
 Mon cœur tout genereux⁎ se mocque de sa haine ;
 Et sçache que pour voir ce que j'aime le mieux,
 J'attaquerois l'enfer & forcerois le Cieux.
 
-**** *book_ *id_I02 *act_I *date_1635 *creator_scudery
+Que l'attente est fascheuse à l'Amant qui souspire⁎ !
+Qu'un bien semble tardif alors qu'on le desire !
+Le cours d'un Siecle entier a bien moins de moments,
+Que la crainte & l'espoir ne donnent de tourments.
+Paresseux Messager, qui fait languir mon ame,
+Resouds toy de quitter les beaux yeux de ma Dame :
+Voy mes maux, songe à moy, regarde ton devoir ;
+Et sois prompt à venir, si tu me veux revoir.
+Pense que ta longueur, m'assassine, & me tuë ;
+Toy seul peux relever ma pauvre ame abatuë :
+Souffre que mes desirs t'arrachent de ce Ciel ;
+Voudrois-tu du Nectar, quand je n'ai que du fiel ?
+Ton immortalité me cousteroit la vie :
+He ! sois plus pitoyable, en suivant mon envie :
+Tu m'as cent fois promis d'aider à mon dessein ;
+Ha bons Dieux ! le voicy ; le cœur me bat au sein ;
+Je tremble en remarquant, qu'il s'est peint le visage,
+De la pasle couleur d'un funeste presage ;
+La tristesse le suit,& marche sur ses pas ;
+Je lis dedans ses yeux ce qu'il ne me dit pas ;
+Et dans l'incertitude où me met son silence,
+L'excez de mon supplice, accroist sa violence :
+Mes pleurs suivent les siens, sans en voir le subjet ;
+Toy qui fais ma douleur, monstre luy son objet.
+Ne me le cele point ; veut-on forcer Orante ?
+As tu veu les abois de sa vertu mourante ?
+As tu veu son esprit à travers son discours ?
+Suis-je desesperé ? n'ay-je plus de secours ?
+N'implore-t'elle point le pouvoir de mes armes ?
+N'as-tu point veu ses pleurs, comme tu vois mes larmes ?
+Ne m'escrit-elle pas ? Que sert de le celer⁎ ?
+Enfin, dois-je mourir ? ou si tu dois parler ?
 
--*who_ormin
-Rude & foible raison, abandonne mon ame :
-Ta froideur ne sçauroit s'opposer à ma flame :
-L'amitié⁎ vient du sang ; & j'espreuve⁎ en ce jour,
-Qu'elle n'est qu'un chemin qui conduit à l'amour.
-J'aime (je le confesse) Orante me possede ;
-Je suis homme, elle est belle , on m'attaque, & je cede :
-Ses regards ont des traicts⁎ qui percent jusqu'au cœur ;
-Le mien est bon esclave, il aime son vainqueur.
-Et pourroit-on blasmer ce qui n'est point blasmable ?
-Pour estre ma parente, est-elle moins aimable ?
-Loix, qui nous deffendez les plaisirs innocens,
-Laissez nous l'esprit libre, ou nous ostez les sens.
-L'object⁎ de mon desir luy peut servir d'excuse ;
-Il arrache de force un cœur qu'on luy refuse ;
-La raison & la crainte ont beau le secourir,
-L'esperance le flatte, en le faisant mourir,
-Et trouvant que l'amour est fille de l'estime,
-Tout ce qu'on luy deffend luy semble legitime :
-Une conqueste aisee est digne de mespris ;
-La peine est une amorce aux genereux⁎ esprits ;
-Et quoy qu'un sot discours en pareille advanture⁎,
-Oppose aux loix d'Amour celles de la Nature,
-Il les faut mespriser, pour estre possesseur ;
-Si j'aime une cousine, un Dieu cherit sa sœur.
-Ouy, puis qu'Amour le veut, la sentence est donnée :
-Allumons son flambeau par celuy d'Hymenée⁎ ;
-Laissons cueïllir la fleur, pour receuïllir le fruit ;
-Et tirons cent bons jours d'une mauvaise nuit.
-Orante sera mienne estant à ce Florange ;
-Les deffauts d'un mary la porteront au change⁎ ;
-Et dedans son esprit toutes ses actions,
-Pourront servir de lustre⁎ à mes perfections.
-C'est de là que mon bien prendra son origine ;
-Je bastis sur l'espoir de sa mauvaise mine⁎ ;
-L'entretien d'un brutal est capable d'aider
-Au dessein que j'ay pris de la persuader :
-J'ay le vent favorable, & j'apercoy la rive ;
-Pour posseder Orante, il faut que je m'en prive ;
-Le Ciel entend mes vœus⁎, & mon bon-heur s'y lit ;
-Mais, Amour avec eux n'entre pas dans le lit .
+N'adjouste point aux miens, tes regrets superflus ;
+Prononce mon arrest⁎ ;
 
-**** *book_ *id_I03 *act_I *date_1635 *creator_scudery
+Tout ce que tu me dis est remply de mensonge :
+Et ton cerveau debile⁎ a fait un mauvais songe.
+Orante ne vit plus ! Orante est au cerceuil !
+Dois-je croire ta voix ? Dois-je croire mon œil ?
+C'est de toy cher papier que je le veux apprendre :
+BILLET.
+Tienne je meurs, mon Isimandre.
+Il n'en faut plus douter ; par la rigueur du sort,
+La vertu ne vit plus, & le Soleil est mort.
+Il n'en faut plus douter, sa plume veritable,
+Ne m'a que trop bien peint sa perte lamentable :
+Il n'en faut plus douter ; elle abandonne aux vers,
+Le plus rare thresor qui fust en l'Univers.
+Orante ne vit plus ! Orante n'est que poudre :
+Et moy je ne meurs pas apres ce coup de foudre !
+Apres l'avoir souffert⁎, je respire un moment :
+Ha ! je ne me crois plus un veritable Amant :
+Je flattois mon esprit, en l'estimant fidelle ;
+S'il eust sçeu bien aimer, il seroit aupres d'elle ;
+Quand la blessure est grande on finit sans parler ;
+Et celui qui se pleint, tasche à se consoler.
+Chere Ombre⁎, je te suis, si tu me veux attendre :
+BILLET.
+Tienne je meurs, mon Isimandre.
+He n'est-ce pas respondre, à mon cœur, à ma voix ?
+Disant ce qu'elle a fait, on dit ce que je dois.
+Caracteres sanglans, entrez dans ma pensée ;
+Representez y bien mon Orante blessée ;
+Que le traict⁎ de la Mort, la peigne en mon esprit,
+En l'estat qu'elle estoit, en traçant cét escrit ;
+Ha ! je voy ce Phantosme, & sa main tasche à mettre,
+Les derniers traits⁎ de l'ame en ceux de cette lettre ;
+Et l'Amour semble dire à mon cœur prisonnier,
+Tout le sang est sorty, j'y reste le dernier.
+Suy moy dans les Enfers, où je m'en vay descendre.
+BILLET.
+Tienne je meurs, mon Isimandre.
+Attends, Orante, attends, mon ame qui te suit ;
+Ne t'en va point sans elle en l'eternelle nuit ;
+Juge de mon amour, juge de ta puissance ;
+Remarque l'une & l'autre en mon obeïssance ;
+Mais souffre que je pousse en un mesme chemin,
+Et le traistre Florange, & le cruel Ormin :
+Permets que nous goustions ceste douce allegeance⁎,
+Que les cœurs irritez⁎ trouvent en la vangeance ;
+Mon esprit au tombeau ne peut estre endormy.
+S'il ne mesle à mon sang celuy de l'ennemy :
+Ma Deesse demande un pareil sacrifice :
+Partons Clindor, allons luy rendre cét office ;
+Et quand j'auray puny ces volleurs de mon bien,
+Je respandray mon sang sur les marques du sien.
 
--*who_clindor
-Nerine, qu'à propos je vous ay rencontrée !
-Vous pouvez au Chasteau me donner libre entrée ;
-Mon maistre vous en prie, & l'Amour comme luy,
-Demande que vos soins l'assistent aujourd'huy.
+Orante n'est pas morte ! Orante vit encore !
+Fidelle Messager, il faut que je t'adore.
 
--*who_nerine
-Ha ! fidelle Clindor, un bon demon t'ameine :
-Si ton Maistre pâtit, Orante est bien en peine ;
-Florange la recherche, & sa Mere y consent ;
-Juge par là des maux que son esprit ressent.
-Mais que fait Isimandre en cette longue absence ?
+Orante ! ce beau nom, me charme, & me ravit ;
+Mais bien-heureux papier, redis moy qu'elle vit.
+LETTRE.
+L'esperance m'estant ostée,
 
--*who_clindor
-Il desire la mort ; il maudit sa naissance ;
-Il accuse le sort ; il attaque les Cieux ;
-Et croit que pour pleurer Nature fit les yeux.
-Son ame suit Orante, & n'a point d'autre idée ;
-Son feu ne peut souffrir celuy de Celidée ;
-Il croit qu'aupres de l'œil, dont le sien est espris,
-Une Desse mesme, est digne de mespris.
-Il rend les Bois tesmoings de son inquietude,
-Son unique recours est en la solitude ;
-C'est là, que librement dans le mal qui le point :
-Il se plaint à l'Amour, qui ne le quitte point,
-C'est là que ce grand Dieu luy dicta les pensées,
-Que garde ce papier, que sa main a tracées ;
-Et qu'il adresse aux yeux qui luy font endurer
-Un mal si violent, qu'il ne sçauroit durer.
+Le trespas me sembla fort doux ;
+L'amour me fit mourir, & m'a ressuscitée
+Mais je veux que ce soit pour vous.
 
--*who_nerine
-Ma Maistresse aujourd'huy n'est point accompagnée ;
-Sa fievre à ce matin, a voulu la seignée ;
-Elle garde la Chambre, où je m'en vay courir ;
-Mieux que le Medecin je la puis secourir ;
-Son remede consiste au papier que je porte,
-Dont je vay r'animer son esperance morte ;
-Toy, fidelle Clindor suis moy dans le Chasteau ;
-Passe la basse court, le nez dans le manteau ;
-Monte au grand escalier, où je m'en vay t'attendre :
+Ha trop heureux Amant ! O trop fidelle Amante !
+Dieux que le calme plaist, lors qu'il suit la tourmente :
+Miracle de nos jours, incomparable foy⁎,
+Que ne vous dois-je point ? vivre & mourir pour moy !
+Mon sang a marqué mon courage⁎ ;
 
--*who_clindor
-J'ose tout, je fais tout, pour servir Isimandre.
+Mais apprenez de ce discours ;
+Que pour sauver le reste, apres ce grand orage,
+J'ay besoin de vostre secours.
 
-**** *book_ *id_I04 *act_I *date_1635 *creator_scudery
+Vous l'aurez chere Orante, & pour voir tant de charmes ;
+Amour joindra sa force à celle de mes armes :
+J'auray pour obeïr à ce divin escrit,
+Autant de force au bras, comme vous en l'esprit.
+Soyez discret, soyez fidelle,
 
--*who_lucinde
-Vous l'accusez à tort, elle a plus de bonté⁎ ;
-Son cœur ne prend de loy que de ma volonté,
-Son esprit est fort doux, j'en dispose absoluë,
-Florange, elle est à vous, si j'y suis resoluë :
-Et puis qu'Ormin l'agrée, & Palinice encor,
-Quand vous auriez les ans, que l'on donne à Nestor ;
-Quand plus de cent Hyvers, horribles en tempeste ;
-Auroient ainsi qu'aux champs, neigé sur vostre teste ;
-Croyez (puisqu'il est vray) que j'aurois le pouvoir
-De la mettre en vos bras comme dans son devoir.
+Sans estre connu dans ce lieu :
+Orante vous permet de venir aupres d'elle ;
+Vollez s'il est possible ; adieu.
 
--*who_florange
-Mon âge luy fait peur, sa tristesse m'estonne⁎ ;
-Et je pleins la douleur que mon plaisir luy donne :
-Je ne la trouve point favorable à mes vœux⁎ ;
-L'or ne sçauroit cacher l'argent de mes cheveux.
+Observons de tout point les loix de ma Maistresse :
+Aide par tes advis⁎ au desir qui me presse :
+Apprends moy Lindoman, par ton sage conseil,
+Sans estre veu d'aucun d'approcher du Soleil.
 
--*who_palinice
-La foy⁎ de mon mary vous assure la sienne :
+Prepare mon Orante, apprends-luy ma venuë ;
+Allons voir le Soleil à travers cette nuë⁎ ;
+C'est ainsi que sans crime on peut estre trompeur ;
+Qu'Argus soit en ce lieu, je n'en ay point de peur ;
+Comme le feu se cache en sa Sphere supréme,
+Le mien plus pur que luy se cachera de mesme ;
+Mon cœur est son vray centre, où son esclat ne luit,
+Que pour moy qui le sens, & pour qui l'a produit.
 
--*who_lucinde
-Puis que je l'ay promis, il faut que je le tienne :
-On ne peut vous l'oster, Orante est vostre bien ;
-Esperez tout Florange, & ne craignez plus rien ;
-Condamnez desormais cette pleinte au silence,
-Aussitost que son mal perdra sa violence,
-Guarissant la douleur par qui vous souspirez⁎,
-Je sçauray bien la mettre où vous la desirez.
+Lisez dedans mes yeux, voyez en ma couleur,
+Que l'extreme plaisir ressemble à la douleur :
+Ma bouche en est muette, & mon esprit se pasme⁎
+Fermez la d'un baiser, pour retenir mon ame :
 
--*who_florange
-Ce discours me ravit ; n'en parlons plus Madame :
-L'excez de ce plaisir me deroberoit⁎ l'ame ;
-Je mourrois à vos yeux, & mon cœur a dessein,
-De prendre pour Tombeau l'albastre de son sein.
-Courronné des lauriers d'une victoire insigne⁎,
-Puis qu'il me faut mourir je veux je mourir en Cygne,
-Et chante les beautez, & vanter les appas⁎,
-Que je trouve en ses yeux, que je gouste au trespas.
+Lieux sacrez à l'Amour, pleins d'appas⁎, & de charmes ;
+Monstrez moy ce beau sang, que j'y mesle mes larmes ;
+Mais non, je me repens de ma temerité ;
+Conservez-le tout pur à la posterité.
+Quand on vous couvriroit des richesses du Gange,
+Cét esmail est si beau que vous perdriez au change :
+Puisse bientost l'Aurore en orner ses habits ;
+Et le mesler au Ciel avecque ses rubis.
+Ce tresor est trop grand, pour rester sur la terre.
 
-**** *book_ *id_I05 *act_I *date_1635 *creator_scudery
+On vous veut enlever ! y consentirez vous :
 
--*who_orante
+Sur les ailes d'Amour vollons en ma patrie :
+Que Naples vous revoye en jeune Cavalier,
+Ce remede est fascheux, mais il est singulier ;
+L'Amour s'est tousjours pleu dans les metamorphoses ;
+Le temps en s'enfuyant ameine toutes choses ;
+Sous le nom d'un Amy mon pere vous peut voir :
+
+Le devoir & l'amour obligent ma Maistresse.
+A fuir sagement l'ennemy qui la presse.
+
+Ha ! si vous en doutez, que je meure à l'instant.
+
+Je feray sourdement l'equipage à Florence ;
+Et dans trois jours Clindor vous les apportera,
+Sur le pretexte faux des Tableaux qu'il aura.
+
+Et bien ; j'en feray faire, & pour vous, & pour elle ;
+Et les ayant vestus, soyez le jour suivant,
+Dans le temple de Mars, dés le Soleil levant.
+Là vous me trouverez couvert d'une autre sorte ;
+Les Chevaux seront prests à cent pas de la porte ;
+Et pourveu que le cœur ne vous manque au besoing,
+Quand on vous cherchera, nous serons desja loing.
+
+Madame, remarquez comme en cette peinture,
+L'Art plus divin qu'humain, imite la Nature :
+Voyez comme Adonis semble admirer Venus ;
+Comme à travers le crespe on voit ses membres nus ;
+Cét autre est ravissant, où le Pinceau prophane,
+Offre aux yeux d'Acteon les beautez de Diane ;
+Voyez que ce visage est en colere & beau ;
+Et que ce corps plongé se fait un habit d'eau.
+
+Voyez dans ce tableau, cette histoire connuë,
+Où le fol Ixion n'embrasse que la nuë ;
+Voyez de Jupiter le regard inhumain ;
+Comme il hausse le bras, la foudre dans la main.
+
+Voyez comme Apollon court apres sa Dafné ?
+Elle devient un bois, dont il est couronné ;
+Pour atteindre plustost cette Nimphe superbe,
+Il laisse choir sa lire, & son carquois sur l'herbe ;
+Il la suit, elle fuit, et va de toutes parts,
+La robe retroussée, & les cheveux espars.
+
+      Je l'envoyray, ma foy⁎ :
+
+Cét homme qui me sert l'apportera (Madame)
+Ha ! que n'ay-je son cœur, ainsi qu'il a mon ame.
+
+Bons Dieux que d'accidens⁎ choquent⁎ mon entreprise⁎ ;
+Si je ne me bats point, il me suivra dans Pise ;
+
+Je suivray ton conseil, & celuy de l'honneur⁎.
+Cét arbre, & cette escharpe asseureront Florange,
+Que ma main sans second, sçait bien comme on se vange ;
+
+      Ce que veut mon devoir.
+O toy que le mal-heur oppose à mon passage,
+Vieux spectre que les ans n'ont pas rendu plus sage,
+Souviens toy du beau sang qu'Orante a respandu :
+Et reçoy de mon bras le loyer⁎ qui t'est deu ;
+
+Demande moy la vie, & me rends ton espée :
+
+      & moy je vous pardonne ;
+Ciel ! de quelle douleur ay-je le cœur percé ?
+Clindor, que ferons nous ? je me trouve blessé ;
+Le moyen que sanglant j'aille où l'Amour m'appelle ?
+Ha chetif Isimandre ! O fortune infidelle !
+Traverser cette ville en l'estat où je suis,
+Sans estre reconnu, c'est ce que je ne puis :
+On m'attend cependant ; helas ! que dois-je faire ?
+
+C'est au Temple de Mars que ma Venus doit estre.
+
+Tasche donc de voller, Florange, suivez moy.
+
+Ce secret est trop haut pour vostre connoissance ;
+Le vaincu doit ployer sous les loix du vainqueur ;
+
+Aussi vieux qu'un rocher, vous n'avez que la voix.
+
+Desormais vous ny moy n'avons plus rien à craindre.
+
+Le mal dont vous parlez ne vous est pas connu.
+
+L'inevitable fin d'une esperance vaine.
+
+Ce poil s'accorde mal avecque ce discours.
+
+Par luy vous renversez l'ordre de la Nature.
+
+Songez que la vieillesse a besoin de repos.
+
+Mais l'Amour est aveugle, & la fortune est femme.
+
+Vous en verrez bien tost de plus heureux que vous.
+
+Que votre œil se prepare à voir tomber la foudre.
+
+      Vous l'avez deviné.
+Approche mon espoir,
+
+Nous la tenons captive, elle est prise en ces lieux,
+
+Allez, retirez vous, reprenez vostre espée,
+Et sur vos passions ayez plus de pouvoir :
+
+Icy la diligence⁎ est bien fort necessaire ;
+Ce vieux monstre amoureux, ce debile⁎ adversaire,
+Va chercher du secours, & nous serons suivis,
+Si tost que de ma route on aura quelque advis⁎.
+Clindor, volle devant, & forme une chimere,
+Qui puisse trouver place en l'esprit de mon pere ;
+Dis luy qu'ayant quitté le logis paternel,
+Je me suis repenty de me voir criminel,
+Et que par mes douleurs jugeant de sa souffrance,
+J'ay rompu le dessein d'un voyage de France ;
+Dis luy que deux Guerriers m'ont tiré du danger,
+Où mettent les voleurs l'un & l'autre estranger,
+Dis luy que je les meine, & qu'il fasse connoistre,
+En les bien recevant, la grandeur de mon estre ;
+La blessure que j'ay prouvera ton discours ;
+Mais les meilleurs conseils sont icy les plus cours ;
+Donne viste un cheval, que j'enleve ma proye ;
+Elle vaut mieux qu'Helene, & Naples moins que Troye ;
+Et premier que je rende un bien que j'ay vollé,
+Brusle comme mon cœur mon païs desolé.
+
+CARTEL⁎.
+Isimandre, Orante trompée,
+
+Oblige Ormin à te punir ;
+Je t'attends avec une espée,
+Souviens toy que tu dois venir.
+Si tu satisfais mon envïe,
+Autre que moy ne te nuira :
+Viens m'oster, ou perdre la vie,
+Où ce Page te conduira.
+
+Dures extremitez, où le destin m'engage :
+Amour oste le cœur, & non pas le courage⁎ :
+Si je fais ce combat, je hazarde mon heur⁎,
+Et j'en serois indigne, en vivant sans honneur⁎ :
+Ha ! mon affliction n'a rien qui la console.
+Où me dois tu mener ?
+
+      Je le veux bien ; adieu.
+Separons nous, je crains que mon pere ne sorte :
+Je te suy pas à pas, va m'attendre à la porte.
+Tousjours l'homme est subjet aux caprices du sort ;
+Et son premier repos est celuy de la mort.
+Si tu donnes ta vie au danger qui la presse,
+Amant infortuné, que fera ta Maistresse ?
+Quoy ! la veux tu laisser souz un habit trompeur ?
+Ne mourra-t'elle pas ? n'en as tu point de peur ?
+Veux tu que sans support⁎ elle soit (vagabonde)
+L'oppobre, le mespris, & la fable du monde ?
+O dangereux voisins, temeraires Gaulois.
+Dont les mauvaises mœurs ont perverty nos loix,
+Que par vous mon esprit souffre une peine amere,
+Suivant ce point d'honneur qui n'est qu'une Chimere !
+Il le faut cependant ; le destin l'a voulu,
+Mon honneur le commande, & j'y suis resolu,
+Ha ! voicy mon Orante, & mon ame contrainte,
+Aura peine à cacher sa douleur & sa crainte :
+Mais je luy veux donner un conseil au besoing⁎,
+Afin si je peris que quelqu'un en ait soing.
+Veux-tu pas te resoudre à parler à mon pere ?
+Tu sçais bien comme un cœur souffre quand il espere.
+Le danger nous tallonne, & le mal va croissant ;
+Fais agir sur le sien ton esprit tout puissant :
+Force-le par raison, fléchy-le par des larmes,
+Une ame de rocher cederoit à ces armes ;
+Fay combattre pour toy l'amour & la pitié,
+Et fay lui voir qu'Orante a pris son amitié⁎.
+Quitte cette pudeur, elle nous est contraire ;
+Ressuscite Isimandre, & fay mourir son frere ;
+Que ce nom desormais soit banny d'entre nous ;
+Veux-tu pour l'obtenir que je sois à genous ?
+
+Le Ciel m'a refusé les graces qu'il te donne ;
+Et mon discours n'a point l'art de persuader :
+Helas ! je le vois bien, tu ne veux pas m'aider :
+
+L'espreuve en fera foy ; le voicy, tu le vois,
+Adieu, peut-estre adieu, pour la derniere fois.
+
+J'entends un bruit d'espée ; advançons :
+
+Je ne sçaurois souffrir⁎ ce complot inhumain :
+Le Ciel te destinoit à mourir de ma main ;
+La seconde rencontre, acheve la premiere :
+
+Le sort pour m'obliger, en ce jour a permis,
+Qu'un ennemy pour vous combat vos ennemis ;
+Afin que l'honneur sauf, sa voix vous fasse entendre,
+Qu'Amour, & la raison ont conduit Isimandre :
+Je suis ce mal-heureux que vous allez cherchant ;
+Vous le voyez soldat, & l'avez veu Marchant.
+
+Mon ame est dans mes yeux, jugez de son plaisir.
+Je ne puis exprimer les transports de ma joye ;
+Et mon cœur veut s'ouvrir, à dessein qu'on la voye.
+Ouy, Ouy, soyons unis ; mon pere est appaisé ;
+Le chemin de son ame est un chemin aisé ;
+Le repos est un bien que son esprit souhaite :
+Mais Monsieur il est temps de faire la retraite ;
+Naples vous peut revoir, y venant quant & moy :
+
+Vous qui pouvez donner à mon cœur amoureux,
+La fortune prospere, ou le sort mal-heureux,
+Si vous avez pitié de me voir dans la flame,
+Commandez à ce corps d'aller querir son ame.
+
+Madame, je vous rends un bien inestimable ;
+Moy seul ay fait la faute, elle n'est point blamable :
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orante
+
 STANCES. 
 
 Amour, je veux suivre l'envie,
@@ -446,131 +518,391 @@ Taschons de consoler l'esprit d'un miserable ;
 Faisons voir que la mort ne peut rien sur l'Amour :
 Adieu cher Isimandre, adieu, je perds le jour.
 
-**** *book_ *id_I06 *act_I *date_1635 *creator_scudery
+Je conjure les Dieux de vous recompenser.
 
--*who_nerine
-Que me donneriez vous d'une bonne nouvelle ?
-Madame, vous dormez ; c'est en vain que j'appelle :
-Ha Ciel ! quel accident⁎ ? au secours mes amis ;
-Dieux ! vous l'avez veu faire, & vous l'avez permis !
-Elle nage en son sang : ô l'horrible spectacle !
-Son funeste projet n'a point trouvé d'obstacle :
-Et ce papier m'apprend, que sa fidelité,
-Arrive par la mort à l'immortalité.
+M'empeschant de mourir, ton secours me conduit,
+Du repos à la peine, & du silence au bruit.
 
-**** *book_ *id_I07 *act_I *date_1635 *creator_scudery
+Ha ! ne me flatte⁎ pas d'un espoir decevant⁎,
+J'arresterois plustost les ondes, & le vent,
+Que la suitte des maux, dont je suis traversée ;
+L'esperance est trop foible, elle en est renversée ;
+La rigueur de ma mere, & celle de mon sort,
+Ne laissent à mon choix, que Florange, ou la mort ;
+Toutes mes volontez panchent vers la derniere :
+Elle delivrera mon ame prisonniere ;
+Et malgré tous vos soins, mon esprit enflamé,
+Fera voir que le feu ne peut estre enfermé :
+Une ame genereuse⁎ a la clef de sa porte :
+Rien ne peut empescher que la mienne ne sorte ;
+Je meurs sans desespoir, je finis par raison ;
+La liberté vaut mieux que ne fait la prison.
 
--*who_clindor
-Il faut que je m'advance à la chambre voisine :
-Quel prodige⁎ est-ce-là ? que faites vous Nerine ?
+La crois-tu veritable ?
 
--*who_nerine
-Retourne vers ton Maistre, & va-t'en l'advertir,
-Qu'Orante ne vit plus, qu'il est temps de partir :
-Porte luy ce papier :
+Et bien donc, je vivray, puis qu'il te plaist ainsi :
+Mais Nerine, mon cœur, tire moy de soucy,
+Quand la perte du sang (estant esvanoüye)
+M'eust dérobé la veuë aussi bien que l'oüye ;
+Apprends-moy que devint, un papier, un escrit,
+Où l'Amour par ma plume avoit peint mon esprit ;
+Ne l'apperceus-tu point ? il estoit sur ma table :
 
--*who_clindor
-      O funeste message !
+Clindor est donc icy ?
 
--*who_nerine
-Qu'il punisse Florange autheur de ce dommage ;
-On la vouloit forcer de vivre sous sa Loy ;
-Adieu, ne sois point veu, quelqu'un vient, sauve toy.
+O mal-heur sans esgal ! ô faute incomparable !
+Voyons ce qu'escrivoit cét Amant déplorable⁎.
+LETTRE.
 
-**** *book_ *id_I08 *act_I *date_1635 *creator_scudery
+Je ne sçaurois plus endurer ;
+Mon mal est trop grand pour durer
+Vostre absence me tyrannise :
+Bornant mes jours ou mon soucy ;
+Permettez moy d'aller à Pise,
+Ou souffrez⁎ que je meure icy.
+Faites Orante (au nom des Dieux)
+Qu'un miroir vous monstre vos yeux ;
+Sa glace vous rendant sensible,
+Mes Soleils verront clairement,
+Que sans doute il n'est pas possible,
+De souffrir⁎ leur esloignement.
 
--*who_lucinde
-Quel bruit ay-je entendu ?
+Naples me paroist un desert
+Mon œil perd tout, quand il vous pert ;
+Je ne me sçaurois plus deffendre
+D'aller voir ces Rois de mon cœur ;
+Adieu, je suis
+      Vostre
+      ISIMANDRE.
+Au divin Object⁎ mon vainqueur.
+Ha Ciel ! tout est perdu, si ton conseil ne m'aide ;
 
--*who_ormin
+Est-il assez discret pour luy monstrer ma flame ?
+
+Je le veux : mais Floran …
+
+Mettez vous en repos, sans parler davantage ;
+Je vous doit du respect, à cause de vostre aage.
+
+Songez que le Sepulcre est prés de vostre couche,
+Et qu'Ormin vous deffend d'en ouvrir plus la bouche ;
+
+Amour est bien un Dieu plus puissant qu'Hymenée⁎.
+Ah, Monsieur ! on me force, & les Cieux ennemis,
+Veulent m'oster un bien que vous m'avez promis.
+
+Servons nous du loisir qui nous vient sans l'attendre ;
+Despeschons Lindoman au fidele Isimandre ;
+Afin que son esprit, où regne la raison,
+Tire le mien de peine, & mon corps de prison.
+
+Je ne puis te payer, je le voy plus j'y pense :
+
+Je l'ay desja present, je croy le regarder,
+
+Mais s'il est reconnu, le danger est extreme ;
+
+Souz un mauvais habit paroist sa bonne mine⁎,
+Ainsi que l'or esclate en l'obscur d'une mine.
+
+      Je n'en ay point de peur :
+Mon projet est certain, leur espoir est trompeur ;
+Je verray leur pratique aujourd'huy renversée ;
+Si je suis Andromede, Isimandre est Persée ;
+Son œil escartera le malheur qui me suit.
+
+Mon cœur nage en la joye, & rien ne l'importune ;
+Il ne craint plus les traicts⁎ que tire la fortune.
+
+Vous me faites pitié, je veux vous secourir ;
+Vivez cher Isimandre, où j'ay voulu mourir.
+
+On triomphe en la paix, & nous sommes en guerre,
+On me veut enlever ; quel remede avons nous ?
+
+Cherchez nostre secours dedans vostre industrie⁎ :
+
+Il se fait un combat d'amour & du devoir :
+
+Mais se peut-il trouver un Amoureux constant⁎ ?
+
+Où prendre des habits ? le moyen ? l'apparence ?
+
+Ne laissons pas Nerine, elle est de la querelle :
+
+Vous avez dessus luy la puissance absoluë :
+Puis que vous le voulez, m'y voilà resoluë.
+Et deussay-je trouver la mort à mon chemin ;
+Je vous suivray par tout :
+
+Ha Monsieur, approchez, venez voir des merveilles ;
+Qui chez les plus grands Rois n'auroient point de pareilles ;
+Tout ainsi que les miens, vos yeux seront charmez :
+
+Que me demandez vous de ces quatre Peintures ?
+
+Et cét autre Tableau ?
+
+Adieu, n'y manquez pas, souvenez vous de moy.
+
+Monsieur, cét Ixion me semble le plus beau
+
+Mais le foudre⁎ punit ses projects orgueilleux ;
+
+Que Diane me plaist ! Que j'aime ce rivage !
+
+Cette Nimphe qui fuit me touche de pitié :
+
+Il faudra qu'un rideau couvre cette premiere.
+
+Vous prendriez trop de soing ;
+
+Je devois recevoir ce present à genous :
+
+L'excez de vos bontez me rend toute confuse :
+
+En m'obligeant⁎ (Monsieur) jusqu'en un si haut point,
+Vous me croirez ingrate, & je ne la suis point.
+
+De ce discours obscur j'ay l'esprit estonné⁎,
+Mais prenez le repos que vous m'avez donné.
+Tousjours quelque malheur le Destin me suscite⁎ :
+Florange me poursuit, Ormin me solicite ;
+Sa femme veut ma perte ; & ma Mere y consent ;
+Helas ! que d'ennemis contre un cœur innocent.
+Mais j'apperçoy le port en depit de l'orage ;
+Je sortiray des fers si j'en ay le courage⁎ ;
+Comment ! j'hesite encor ! sur un point assuré !
+Non, non, il faut partir ; Orante l'a juré.
+
+Ha ! je tremble Nerine :
+
+Veüille Amour, qu'Isimandre ait devancé mes pas.
+
+Dieux ! il ne songe point au tourment qui me presse :
+Pour avoir tant d'amour, il a trop de paresse.
+Si ne me trouvant pas on se met à chercher,
+Un lieu tousjours ouvert, pourra-t'il me cacher ?
+Et si par ces habits on connoist mon envie,
+Rien me peut-il sauver & l'honneur⁎, & la vie ?
+
+Quand Clindor te donna ces habillements d'hommes,
+Ne te marqua-t'il pas ce lieu mesme où nous sommes ?
+
+Sans doute que leur faute est celle du destin ;
+Qui jaloux de mon aise, & l'ayant reconnuë,
+Pour me desesperer, empesche leur venuë :
+Quelque obstacle fascheux leur deffend de venir.
+Mais je n'en auray point quand je voudray finir ;
+Dans l'excez des mal-heurs, où personne ne m'aide,
+J'ay tousjours creu la mort un souverain remede ;
+Qui l'a pris une fois, le prendra bien encor :
+
+Prends pitié de mon cœur, en luy faisant connoistre,
+Si vainqueur ou blessé je dois revoir ton Maistre.
+
+      Fuyons, fuyons ma vie ;
+Nostre heur⁎ est assez grand, pour exciter l'envie.
+
+Ha ! chassez ce phantosme il desplait à mes yeux.
+ 
+Cruel, que ne fais tu ce que ta voix m'ordonne ?
+
+Charmeur, tes volontez sont tousjours souveraines ;
+Elles tiennent sur moy la qualité de Reines.
+
+Des vertus d'un Seigneur que tout le monde admire ;
+De ce fils que le Ciel accomplit de tout point ;
+Et certes ce penser ne m'abandonne point.
+
+On ne sçauroit cacher une si belle vie,
+Qui fait parler l'Histoire, & fait taire l'envie.
+Mais comme sa valeur dés ses plus jeunes ans,
+A mis la poudre aux yeux à tous les Courtisans ;
+Et que suivant vos pas aux dangers de l'armée,
+Il a pris bonne part à vostre renommée,
+Vous devriez desormais l'arrester en ces lieux ;
+Songez que la fortune est un monstre sans yeux,
+Et qu'elle peut frapper ceux qu'elle favorise :
+Donnons-luy des desirs que le vostre authorise ;
+Afin que l'arrestant, comme il est à propos,
+Les derniers de vos jours se coulent en repos.
+
+Peut-estre en cét Himen⁎ voulez vous trop choisir :
+
+Vous oubliez un point d'une importance extréme :
+
+      Qu'il aime une fille, & qu'une fille l'aime.
+
+Et si je vous nommois, une fille estimée ;
+Honneste, noble, riche, & qui plus est, aimée ;
+Y consenteriez vous ?
+
+Jugez si je me trompe, en vous nommant Orante :
+
+Il est nay cependant : & s'est bien rendu tel,
+Que d'une part & d'autre il doit estre immortel.
+Les haines des parens sont de foibles obstacles ;
+Et l'Amour est un Dieu, qui se plaist aux miracles.
+Cette vieille querelle a desja trop duré ;
+Elle desplaist au Ciel ; soyez en assuré :
+Il n'assemble les cœurs d'un fils & d'une fille,
+Que pour mettre en repos l'une & l'autre famille.
+Mais pourtant leurs esprits qui sçavent leur devoir,
+Rangent leurs volontez, dessous vostre pouvoir :
+Tous prests de se priver du jour qui les esclaire,
+Plutost que d'achever rien qui vous pust desplaire.
+
+Ha ! formez quelques pas, que j'en baise les traces ;
+Aussi bien que ce fils je vous dois rendre graces :
+C'est moy qui suis ……qui suis ……
+
+Quelles sont ses couleurs ?
+
+      Dieux, que je suis confuse !
+
+      Quel mal-heur m'accompagne !
+Sans doute c'est Ormin, car ce Page est à luy.
+Reprenons nos habits, il est temps aujourd'huy ;
+Afin que si du sort les loix me sont fatales,
+Je les puisse changer en celuy des Vestales :
+C'est un port⁎ assuré qui s'offre à ma douleur :
+Mes feux sont eternels aussi bien que le leur.
+ 
+Mon silence, & mon teint vous parlent de ma honte :
+
+Et je vous serviray pour tous les deux ensemble :
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_rosimond
+
+Malgré le vœu⁎ discret d'une bouche muette,
+Enfin je vous connois amoureux & Poëte :
+Non, non, je vous y prends ; que sert de le celer⁎ ?
+C'est trop en mesme temps, que se taire, & brusler ;
+Voyons dans ce Sonnet, qu'on cache comme un crime ;
+Des regrets mesurez⁎, & des souspirs en rime.
+
+      J'y suis bien resolu,
+Mais ce ne sera pas avant que l'avoir leu.
+
+
+Icy l'humilité ne sent point le Rimeur.
+Il falloit preparer mes yeux & mes oreilles ;
+Me dire qu'à genoux on doit voir des merveilles ;
+Me reciter vos vers en accents relevez⁎ ;
+C'est tout leur ornement, & vous les en privez :
+Les Maistres du mestier ont bien une autre emphase ;
+Pour vous ravir l'esprit, ils tombent en extase⁎ ;
+A chaque fin de stance on les voit se pasmer⁎,
+Pour vous donner le temps qu'il faut à l'estimer ;
+Et faisant les yeux doux, ils semblent vouloir dire,
+Vous devez m'adorer, parce que je m'admire ;
+Mais mon visage froid desespere un Autheur,
+Et je le fais tomber d'une belle hauteur.
+Or vous dont je connois, & l'adresse, & la force ;
+Me faisant un refus, me jettez une amorce ;
+En un mot, je veux voir, en voyant ce sonnet,
+Ce que vous enfantez⁎ dans vostre Cabinet.
+SONNET.
+
+Qu'on me fasse un Tombeau, je ne me puis promettre
+De vivre desormais l'espace d'un moment :
+Mille ans ont fait leur cours depuis l'esloignement,
+De l'homme paresseux qui doit rendre ma lettre :
+
+Dieux, Parques, & Destins, me voulez vous permettre,
+Immortel comme vous, d'estre eternellement ?
+Si vous estes puissans, faites le moy parestre,
+Me donnant le repos qu'on trouve au monument⁎.
+
+Avoir vescu mille ans, n'est-ce pas un bel âge ?
+Mais que l'impatience, helas ! me rend peu sage,
+Mon esprit agité, soy-mesme ne s'entend⁎ :
+
+Depuis que j'escrivis, j'ay compté mille années,
+Et tout consideré, ce n'est que six journées,
+Dieux ! que le temps est long pour un bien qu'on attend.
+
+Quoy donc, vous en tenez? & cette humeur⁎ rebelle,
+Enfin dans l'Univers, a pû voir une Belle ?
+Il se trouve un object⁎, qui merite vos soins ?
+Si ce discours est vray, c'est Venus pour le moins.
+
+De sçavoir quelle elle est, le desir vient de naistre :
+
+Mon ame en est ravie, & non moins ignorante :
+
+Le moyen de la voir à travers la querelle,
+Et cette inimitié qui vous est naturelle ?
+
+Estes vous assuré, que le sien est du vostre ?
+
+Pourquoy donc desirer responce d'une lettre ?
+
+Que ma fidelité me pleige, & vous console ;
+Sçachez que mon devoir commande à ma parole ;
+Un secret en mon ame, augmente son credit⁎ ;
+Ne le dire qu'à moy, c'est ne l'avoir point dit.
+
+Soyez Amant discret, ainsi qu'Amant fidelle ;
+Puis qu'elle vous cherit, conservez vous pour elle ;
+Si vous allez à Pise, où gist vostre bon-heur,
+Souvenez-vous qu'Ormin en est le Gouverneur.
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+
+Rude & foible raison, abandonne mon ame :
+Ta froideur ne sçauroit s'opposer à ma flame :
+L'amitié⁎ vient du sang ; & j'espreuve⁎ en ce jour,
+Qu'elle n'est qu'un chemin qui conduit à l'amour.
+J'aime (je le confesse) Orante me possede ;
+Je suis homme, elle est belle , on m'attaque, & je cede :
+Ses regards ont des traicts⁎ qui percent jusqu'au cœur ;
+Le mien est bon esclave, il aime son vainqueur.
+Et pourroit-on blasmer ce qui n'est point blasmable ?
+Pour estre ma parente, est-elle moins aimable ?
+Loix, qui nous deffendez les plaisirs innocens,
+Laissez nous l'esprit libre, ou nous ostez les sens.
+L'object⁎ de mon desir luy peut servir d'excuse ;
+Il arrache de force un cœur qu'on luy refuse ;
+La raison & la crainte ont beau le secourir,
+L'esperance le flatte, en le faisant mourir,
+Et trouvant que l'amour est fille de l'estime,
+Tout ce qu'on luy deffend luy semble legitime :
+Une conqueste aisee est digne de mespris ;
+La peine est une amorce aux genereux⁎ esprits ;
+Et quoy qu'un sot discours en pareille advanture⁎,
+Oppose aux loix d'Amour celles de la Nature,
+Il les faut mespriser, pour estre possesseur ;
+Si j'aime une cousine, un Dieu cherit sa sœur.
+Ouy, puis qu'Amour le veut, la sentence est donnée :
+Allumons son flambeau par celuy d'Hymenée⁎ ;
+Laissons cueïllir la fleur, pour receuïllir le fruit ;
+Et tirons cent bons jours d'une mauvaise nuit.
+Orante sera mienne estant à ce Florange ;
+Les deffauts d'un mary la porteront au change⁎ ;
+Et dedans son esprit toutes ses actions,
+Pourront servir de lustre⁎ à mes perfections.
+C'est de là que mon bien prendra son origine ;
+Je bastis sur l'espoir de sa mauvaise mine⁎ ;
+L'entretien d'un brutal est capable d'aider
+Au dessein que j'ay pris de la persuader :
+J'ay le vent favorable, & j'apercoy la rive ;
+Pour posseder Orante, il faut que je m'en prive ;
+Le Ciel entend mes vœus⁎, & mon bon-heur s'y lit ;
+Mais, Amour avec eux n'entre pas dans le lit .
+
       Bons Dieux Orante est morte !
 
--*who_florange
-Quel homme, ou quel demon, l'a mise de la sorte ?
-
--*who_palinice
-Elle s'est fait saigner, & son bras s'est ouvert ;
-Mais je vois qu'elle vit, par le sang qu'elle pert.
-
--*who_lucinde
-Ma fille,
-
--*who_palinice
-      Ma Cousine,
-
--*who_ormin
       Orante,
 
--*who_florange
-      Ma Maistresse :
-
--*who_nerine
-Qu'on luy jette de l'eau, remettons la compresse :
-
--*who_ormin
 Ha Ciel ! elle revient ;
 
--*who_nerine
-      Ouy mais c'est pour mourir,
-Si vous n'avez dessein de la mieux secourir ;
-Florange luy desplaist, sa mere la martire⁎ :
-
--*who_ormin
 Le bruit luy feroit mal, que chacun se retire,
 Vivez aimable Orante, on ne vous peut forcer ;
 
--*who_orante
-Je conjure les Dieux de vous recompenser.
-
-**** *book_ *id_II01 *act_II *date_1635 *creator_scudery
-
--*who_palinice
-Invisible serpent, cruelle jalousie,
-Qui vomis ton venin dans nostre fantaisie⁎,
-Bourreau de mon repos, vray Monstre des enfers,
-Qui mets l'ame à la gesne⁎, & l'esprit dans les fers ;
-Cesse de me monstrer ta vaine, & pasle image ;
-Cesse de me predire un funeste dommage ;
-Orante aime l'honneur⁎, Ormin sçait son devoir ;
-Mais Amour est aveugle, il ne sçauroit rien voir.
-La plus forte raison cede à cette manie ;
-Et bien qu'elle soit Reine, elle est souvent bannie.
-Le change⁎ a des attraits plus forts que la beauté :
-Tousjours l'esprit d'un homme aime la nouveauté ;
-L'Hymen⁎ est un fardeau qu'il juge insupportable ;
-Plus un bien est aisé, moins il est delectable ;
-Ce que nous possedons, est presque sans plaisir ;
-L'amour trouve sa fin en celle du desir ;
-Lors qu'il est au sommet, il commence à descendre ;
-Et ce brasier s'esteint dedans sa propre cendre.
-Dieux ! je l'experimente en ma juste douleur :
-Ormin est tousjours triste, il change de couleur ;
-Des souspirs continus descouvrent⁎ sa folie ;
-Son cœur suit par les yeux la belle qui le lie ;
-Il ne me parle plus qu'en termes de mespris ;
-Orante est un miracle entre les beaux esprits ;
-Elle seule merite une extreme loüange ;
-Il la peint des couleurs, dont on peindroit un Ange ;
-Il luy donne l'encens qu'on offriroit aux Dieux ;
-Il mesprise la terre, & se mocque des Cieux ;
-Afin de l'obliger⁎, il manque à sa promesse ;
-Florange n'estant qu'homme offence sa Deesse ;
-Pour posseder ce corps il faut estre immortel,
-Bref, pour avoir sa couche il luy dresse un Autel.
-Il est vray, je le voy, son ame en est blessée ;
-Elle est l'unique object⁎ qu'il a dans la pensée ;
-Il mesprise ma flame aussi bien que sa foy ;
-Pour rendre Orante à luy, l'ingrat n'est plus à moy.
-Mais il manque d'amour, & non moy de courage⁎ ;
-On connoist le Pilote au milieu de l'orage ;
-Faisons agir l'esprit pour rompre ses desseins ;
-Taschons de luy donner des sentimens plus seins :
-Qu'il prenne pour guarir la medecine amere,
-Et que son pouvoir cede à celuy d'une mere.
-
-**** *book_ *id_II02 *act_II *date_1635 *creator_scudery
-
--*who_ormin
 STANCES.
 
 Je fais gloire de mes malheurs ;
@@ -627,181 +959,8 @@ Viens rendre une visite au bel œil mon vainqueur ;
 Et pour faire un miracle, en voyant ma Rebelle ;
 Suy moy dans mon retour, & demeure chez elle.
 
-**** *book_ *id_II03 *act_II *date_1635 *creator_scudery 
-
--*who_orante
-M'empeschant de mourir, ton secours me conduit,
-Du repos à la peine, & du silence au bruit.
-
--*who_nerine
-Vous irez (si le sort calme sa violence)
-De la peine au repos, & du bruit au silence.
-
--*who_orante
-Ha ! ne me flatte⁎ pas d'un espoir decevant⁎,
-J'arresterois plustost les ondes, & le vent,
-Que la suitte des maux, dont je suis traversée ;
-L'esperance est trop foible, elle en est renversée ;
-La rigueur de ma mere, & celle de mon sort,
-Ne laissent à mon choix, que Florange, ou la mort ;
-Toutes mes volontez panchent vers la derniere :
-Elle delivrera mon ame prisonniere ;
-Et malgré tous vos soins, mon esprit enflamé,
-Fera voir que le feu ne peut estre enfermé :
-Une ame genereuse⁎ a la clef de sa porte :
-Rien ne peut empescher que la mienne ne sorte ;
-Je meurs sans desespoir, je finis par raison ;
-La liberté vaut mieux que ne fait la prison.
-
--*who_nerine
-La parole d'Ormin doit bannir cette crainte ;
-
--*who_orante
-La crois-tu veritable ?
-
--*who_nerine
-      Et la croyez vous feinte ?
-Non, esperez Madame, un traitement plus dous ;
-Vivez pour Isimandre, ainsi qu'il vit pour vous ;
-Et croyez que le Ciel, par ses Loix souveraines,
-Mesurera vos biens aux grandeurs de vos peines ;
-Il vous a fait un mal, dont il aura pitié.
-Faistes que le Destin cede à vostre amitié⁎ ;
-Le sage (à ce qu'on dit) se fait ses destinées :
-Le pilote se rit des vagues mutinées ;
-C'est parmy les mal-heurs que paroist la vertu ;
-La fortune mesprise un courage⁎ abatu ;
-On gagne ses faveurs avec la resistance ;
-Elle est fille, elle est belle, on la vainc par constance⁎.
-
--*who_orante
-Et bien donc, je vivray, puis qu'il te plaist ainsi :
-Mais Nerine, mon cœur, tire moy de soucy,
-Quand la perte du sang (estant esvanoüye)
-M'eust dérobé la veuë aussi bien que l'oüye ;
-Apprends-moy que devint, un papier, un escrit,
-Où l'Amour par ma plume avoit peint mon esprit ;
-Ne l'apperceus-tu point ? il estoit sur ma table :
-
--*who_nerine
-Ha ! Madame pardon, ma memoire est coupable :
-Le soin de soulager vostre corps affoibly,
-A fait que mes pensers ont mis tout en oubly :
-Ouy Madame, je leus cette honorable marque,
-Que laissoit vostre amour en despit de la parque ;
-Et Clindor la receut à l'instant de ma main :
-
--*who_orante
-Clindor est donc icy ?
-
--*who_nerine
-      Non, il partit soudain :
-Et porta ce billet, & la mort à son Maistre,
-De qui j'avois receu pour vous une autre lettre :
-Mais ayant le dessein d'accompagner vos pas :
-Je voulois que sa fin, suivist nostre trespas.
-
--*who_orante
-O mal-heur sans esgal ! ô faute incomparable !
-Voyons ce qu'escrivoit cét Amant déplorable⁎.
-LETTRE.
-
-Je ne sçaurois plus endurer ;
-Mon mal est trop grand pour durer
-Vostre absence me tyrannise :
-Bornant mes jours ou mon soucy ;
-Permettez moy d'aller à Pise,
-Ou souffrez⁎ que je meure icy.
-Faites Orante (au nom des Dieux)
-Qu'un miroir vous monstre vos yeux ;
-Sa glace vous rendant sensible,
-Mes Soleils verront clairement,
-Que sans doute il n'est pas possible,
-De souffrir⁎ leur esloignement.
-
-Naples me paroist un desert
-Mon œil perd tout, quand il vous pert ;
-Je ne me sçaurois plus deffendre
-D'aller voir ces Rois de mon cœur ;
-Adieu, je suis
-      Vostre
-      ISIMANDRE.
-Au divin Object⁎ mon vainqueur.
-Ha Ciel ! tout est perdu, si ton conseil ne m'aide ;
-
--*who_nerine
-Je vous ay fait un mal dont voicy le remede :
-Escrivez seulement trois mots de vostre main ;
-Que Lindoman les porte, & qu'il parte demain :
-
--*who_orante
-Est-il assez discret pour luy monstrer ma flame ?
-
--*who_nerine
-Un secret important, l'est tousjours dans son ame :
-Isimandre, sans doute, a besoin de cela :
-
--*who_orante
-Je le veux : mais Floran …
-
--*who_nerine
-      Madame, le voila.
-
-**** *book_ *id_II04 *act_II *date_1635 *creator_scudery
-
--*who_florange
-Mon abord vous desplaist ; mon respect vous offence ;
-Mais contre vos rigueurs, Amour prend ma deffence :
-Et promet à mon cœur, pour le reconforter,
-La force de les vaincre, ou de les supporter.
-
--*who_orante
-Mettez vous en repos, sans parler davantage ;
-Je vous doit du respect, à cause de vostre aage.
-
--*who_florange
-Mon feu ne peut souffrir⁎ un si froid compliment :
-Vous me traittez en Pere, & non pas en Amant !
-Ha ! veuïllez adoucir mes peines obstinées ;
-Et compter mon argent plustost que mes années ;
-Pour faire que mon Astre⁎, ait un aspect plus dous,
-Songez que mon Amour est jeune comme vous.
-
--*who_orante
-Songez que le Sepulcre est prés de vostre couche,
-Et qu'Ormin vous deffend d'en ouvrir plus la bouche ;
-
--*who_florange
-Ormin peut tout sur moy, mais rien sur mon amour :
-Il ne peut me l'oster, qu'en me privant du jour.
-Sa foy⁎ me veut trahir, mais en cette advanture⁎,
-Mon Amour outragé s'adresse à la Nature :
-Madame, c'est de vous que j'attends aujourd'huy,
-Ou ma premiere joye, ou mon dernier ennuy⁎ :
-Ormin est sans parole ; Orante me mesprise ;
-Et ce jour pour mon ame, est bien un jour de crise.
-Prononçant un arrest⁎, que j'attends à genous,
-Vuidez le different, qui s'esmeut entre nous.
-
-**** *book_ *id_II05 *act_II *date_1635 *creator_scudery
-
--*who_lucinde
-Ma parole tiendra, puis que je l'ay donnée :
-
--*who_orante
-Amour est bien un Dieu plus puissant qu'Hymenée⁎.
-Ah, Monsieur ! on me force, & les Cieux ennemis,
-Veulent m'oster un bien que vous m'avez promis.
-
-**** *book_ *id_II06 *act_II *date_1635 *creator_scudery
-
--*who_ormin
 Qui vous fait si hardy, que de m'estre rebelle ?
 
--*who_florange
-Fermez l'œil pour ma faute, & voyez cette Belle.
-
--*who_ormin
 Allez, si jamais plus vous procedez ainsi,
 Je vous feray bien voir, que je commande icy.
 Madame, ce Mary n'est pas bon pour Orante ;
@@ -809,230 +968,219 @@ Leur âge est inesgal, leur humeur⁎ differente ;
 Pour agir là dessus avecque jugement,
 Souffrez que je vous meine à vostre Appartement.
 
--*who_orante
-Servons nous du loisir qui nous vient sans l'attendre ;
-Despeschons Lindoman au fidele Isimandre ;
-Afin que son esprit, où regne la raison,
-Tire le mien de peine, & mon corps de prison.
+Elles valent beaucoup, si vous les estimez.
 
-**** *book_ *id_II07 *act_II *date_1635 *creator_scudery
+Certes, Peintre, ou Marchand, ou tous les deux ensemble,
+La langue & le pinceau, font tres-bien ce me semble.
 
--*who_isimandre
-Que l'attente est fascheuse à l'Amant qui souspire⁎ !
-Qu'un bien semble tardif alors qu'on le desire !
-Le cours d'un Siecle entier a bien moins de moments,
-Que la crainte & l'espoir ne donnent de tourments.
-Paresseux Messager, qui fait languir mon ame,
-Resouds toy de quitter les beaux yeux de ma Dame :
-Voy mes maux, songe à moy, regarde ton devoir ;
-Et sois prompt à venir, si tu me veux revoir.
-Pense que ta longueur, m'assassine, & me tuë ;
-Toy seul peux relever ma pauvre ame abatuë :
-Souffre que mes desirs t'arrachent de ce Ciel ;
-Voudrois-tu du Nectar, quand je n'ai que du fiel ?
-Ton immortalité me cousteroit la vie :
-He ! sois plus pitoyable, en suivant mon envie :
-Tu m'as cent fois promis d'aider à mon dessein ;
-Ha bons Dieux ! le voicy ; le cœur me bat au sein ;
-Je tremble en remarquant, qu'il s'est peint le visage,
-De la pasle couleur d'un funeste presage ;
-La tristesse le suit,& marche sur ses pas ;
-Je lis dedans ses yeux ce qu'il ne me dit pas ;
-Et dans l'incertitude où me met son silence,
-L'excez de mon supplice, accroist sa violence :
-Mes pleurs suivent les siens, sans en voir le subjet ;
-Toy qui fais ma douleur, monstre luy son objet.
-Ne me le cele point ; veut-on forcer Orante ?
-As tu veu les abois de sa vertu mourante ?
-As tu veu son esprit à travers son discours ?
-Suis-je desesperé ? n'ay-je plus de secours ?
-N'implore-t'elle point le pouvoir de mes armes ?
-N'as-tu point veu ses pleurs, comme tu vois mes larmes ?
-Ne m'escrit-elle pas ? Que sert de le celer⁎ ?
-Enfin, dois-je mourir ? ou si tu dois parler ?
+Allez chercher ailleurs vos bonnes advantures⁎ ;
+Desja vostre marché, sans marchander est fait ;
+Qu'on le meine là bas, & qu'il soit satisfait ;
+Le prix se mesurant avecque sa demande,
+Qu'il ait ce qu'il dira, puis que je le commande ;
 
-**** *book_ *id_II08 *act_II *date_1635 *creator_scudery
+Il eut un haut dessein, & le Ciel pour Tombeau ;
+Il fut heureux en songe, & je luy porte envie ;
+Sa mort fut glorieuse aussi bien que sa vie.
 
--*who_clindor
-Juste Ciel, je voudrois dans le mal qui me touche,
-Qu'un silence eternel me vint fermer la bouche :
+Les desseins eslevez sont tousjours perilleux :
+Ce grand cœur rencontra la fortune irritée,
+Il n'eut pas la Couronne, & l'avoit meritée ;
+Mais si j'avois son sort, je mourrois sans regret ;
+Il descouvrit⁎ son mal, & le mien est secret :
 
--*who_isimandre
-N'adjouste point aux miens, tes regrets superflus ;
-Prononce mon arrest⁎ ;
+Dieux ! elle n'a pas seule un naturel sauvage :
+Une autre haït mes yeux qui l'osent adorer,
+Et fait que mes pensers me viennent devorer :
+Miserable Acteon, je l'esprouve⁎ rebelle ;
+Mais n'importe mon cœur, mourons, car elle est belle.
 
--*who_clindor
-      Orante ne vit plus,
-Elle a voulu mourir, plustost qu'aller au change⁎ ;
-Elle vous adoroit, & n'aimoit point Florange,
-Que le pouvoir d'Ormin luy donnoit pour Espous ;
-Enfin, que vous diray-je, elle est morte pour vous.
-Et trouvant un remede aux rigueurs de ses peines,
-Sa generosite s'est fait coupper les veines :
-Ce tragique Tesmoing vous dira mieux que moy,
-Quelle fut son amour, sa constance⁎, & sa foy⁎.
+Vous aimez un object⁎ qui n'a point d'amitié⁎ :
+Voyez qu'elle est aveugle en fuyant la lumiere.
 
--*who_isimandre
-Tout ce que tu me dis est remply de mensonge :
-Et ton cerveau debile⁎ a fait un mauvais songe.
-Orante ne vit plus ! Orante est au cerceuil !
-Dois-je croire ta voix ? Dois-je croire mon œil ?
-C'est de toy cher papier que je le veux apprendre :
-BILLET.
-Tienne je meurs, mon Isimandre.
-Il n'en faut plus douter ; par la rigueur du sort,
-La vertu ne vit plus, & le Soleil est mort.
-Il n'en faut plus douter, sa plume veritable,
-Ne m'a que trop bien peint sa perte lamentable :
-Il n'en faut plus douter ; elle abandonne aux vers,
-Le plus rare thresor qui fust en l'Univers.
-Orante ne vit plus ! Orante n'est que poudre :
-Et moy je ne meurs pas apres ce coup de foudre !
-Apres l'avoir souffert⁎, je respire un moment :
-Ha ! je ne me crois plus un veritable Amant :
-Je flattois mon esprit, en l'estimant fidelle ;
-S'il eust sçeu bien aimer, il seroit aupres d'elle ;
-Quand la blessure est grande on finit sans parler ;
-Et celui qui se pleint, tasche à se consoler.
-Chere Ombre⁎, je te suis, si tu me veux attendre :
-BILLET.
-Tienne je meurs, mon Isimandre.
-He n'est-ce pas respondre, à mon cœur, à ma voix ?
-Disant ce qu'elle a fait, on dit ce que je dois.
-Caracteres sanglans, entrez dans ma pensée ;
-Representez y bien mon Orante blessée ;
-Que le traict⁎ de la Mort, la peigne en mon esprit,
-En l'estat qu'elle estoit, en traçant cét escrit ;
-Ha ! je voy ce Phantosme, & sa main tasche à mettre,
-Les derniers traits⁎ de l'ame en ceux de cette lettre ;
-Et l'Amour semble dire à mon cœur prisonnier,
-Tout le sang est sorty, j'y reste le dernier.
-Suy moy dans les Enfers, où je m'en vay descendre.
-BILLET.
-Tienne je meurs, mon Isimandre.
-Attends, Orante, attends, mon ame qui te suit ;
-Ne t'en va point sans elle en l'eternelle nuit ;
-Juge de mon amour, juge de ta puissance ;
-Remarque l'une & l'autre en mon obeïssance ;
-Mais souffre que je pousse en un mesme chemin,
-Et le traistre Florange, & le cruel Ormin :
-Permets que nous goustions ceste douce allegeance⁎,
-Que les cœurs irritez⁎ trouvent en la vangeance ;
-Mon esprit au tombeau ne peut estre endormy.
-S'il ne mesle à mon sang celuy de l'ennemy :
-Ma Deesse demande un pareil sacrifice :
-Partons Clindor, allons luy rendre cét office ;
-Et quand j'auray puny ces volleurs de mon bien,
-Je respandray mon sang sur les marques du sien.
+Si les feux d'Adonis sont indignes du jour,
+Laissez-les moy couvrir, je sçay cacher l'Amour.
 
-**** *book_ *id_III01 *act_III *date_1635 *creator_scudery
+      Ha ! qu'elle est inhumaine ;
+Elle pleint mon travail, & ne pleint pas ma peine.
 
--*who_florange
-La peine que je sens leur est indifferante :
-Amour que dois-je faire ? on me ravit Orante ;
-O toy qui le fais naistre, assiste mon ennuy⁎ ;
-Ou si tu vis d'espoir, meurs aussi bien que luy.
-Mon extreme douleur n'a rien qui la console ;
-Orante est sans amour, Ormin est sans parole ;
-Que dis-je mal-heureux ? Elle a donné sa foy⁎ ;
-Elle est bien sans amour, mais ce n'est que pour moy.
-J'ay sceu comme Isimandre occupe sa belle ame ;
-Son cœur est consommé d'une secrete flame ;
-Mais croyant que mon œil ne le sçauroit ouvrir,
-L'Amour qu'elle a caché me l'a fait descouvrir⁎.
-Ha qu'on voit clairement, en despit de la feinte,
-Si le cœur est sans playe, ou si l'ame est atteinte ;
-L'œil d'un Amant jaloux, voit tout, peut tout percer ;
-Et mesme dans l'esprit il surprend un penser :
-Un sousris, une larme, un souspir, une œillade,
-Sont indices certains que l'esprit est malade,
-Sur quoy l'homme subtil fonde son jugement :
-Celuy qui souffre un mal le connoist aisément.
-Il n'est que trop certain qu'Orante aime Isimandre :
-Mais puis qu'elle est à moy, je sçauray la deffendre ;
-Naples n'est pas si loing, ny son bon-heur si prés ;
-Tel cherche du Laurier, qui trouve du Cyprés.
-Et bien que ce Rival ait la place occupée,
-Il faudra qu'il la prenne au bout de mon espée ;
-Ormin, la Mere, Orante, Isimandre, & le sort,
-Ne peuvent me l'oster, qu'en me donnant la mort.
+Je ne puis rien donner, moy mesme estant à vous,
 
-**** *book_ *id_III02 *act_III *date_1635 *creator_scudery
+Croyez Ormin sans cœur, si je vous le refuse.
+Que vos commandemens secondent mes desirs ;
+Demandez quelque bien qui serve à vos plaisirs ;
+Ordonnez moy d'aller sur la terre & sur l'onde,
+Avecque le Soleil faire le tour du monde.
+Commandez à mon bras d'esgorger un Lion ;
+Ordonnez luy de mettre Osse sur Pelion ;
+J'attaqueray le Ciel, & dans cette escalade,
+Je seray plus heureux que ne fut Encelade :
+Si ces lambris d'azur peuvent plaire à vos yeux,
+J'oseray vous placer dans le Throsne des Dieux;
+Vostre seule froideur a borné ma puissance ;
+Esprouvez mon amour par mon obeïssance.
 
--*who_isimandre
-Orante n'est pas morte ! Orante vit encore !
-Fidelle Messager, il faut que je t'adore.
+Je crois qu'une Deesse est tousjours veritable.
+Mais ce long entretien vous est insupportable ;
+Et mon esprit grossier aupres de vos appas⁎,
+Gouste un contentement qu'il ne vous donne pas.
+Adieu, voicy la nuit, les objects se ternissent ;
+Je souhaite à vos yeux un bien qu'ils me ravissent.
 
--*who_lindoman
-Quoy Monsieur, doutez vous, d'un bon-heur asseuré ?
-Vos yeux verront bientost ce que j'ay tant juré ;
-Nous approchons de Pise ; & dans l'heure où nous sommes,
-Vous vous confesserez le plus heureux des hommes.
-Cét habit de Marchand ravira vos esprits,
-Dans un autre dessein que vous ne l'aviez pris :
-Et sans vous en servir contre vostre adversaire,
-Pour approcher d'Orante, il vous est necessaire.
+Le feu de mon courroux se mesle avec ma flame ;
+On enleve mon cœur, on dérobe mon ame ;
+Au moins cruel destin, fais voir à mes desirs,
+L'invisible ennemy qui destruit mes plaisirs.
+Descouvre moy le Ciel où mon Soleil demeure ;
+Que je meure vangé puis qu'il faut que je meure ;
+Et permets que son sang puisse effacer l'affront,
+Qui me perce le cœur, & me rougit le front.
+Mais à tort ce soupçon m'entre en la fantaisie⁎ ;
+Et je donne à l'Amour un trait de jalousie :
+Sans doute que ma femme a fait ce beau dessein ;
+Mais un coup de poignard luy va percer le sein,
+Si sa ruse entreprend de faire l'ignorante ;
+Elle perdra le jour, si je perds mon Orante.
 
--*who_isimandre
-Orante ! ce beau nom, me charme, & me ravit ;
-Mais bien-heureux papier, redis moy qu'elle vit.
-LETTRE.
-L'esperance m'estant ostée,
+La belle invention ! ô Dieux qu'elle est subtile !
 
-Le trespas me sembla fort doux ;
-L'amour me fit mourir, & m'a ressuscitée
-Mais je veux que ce soit pour vous.
+Tousjours vostre chagrin se plaist à me fascher :
 
-Ha trop heureux Amant ! O trop fidelle Amante !
-Dieux que le calme plaist, lors qu'il suit la tourmente :
-Miracle de nos jours, incomparable foy⁎,
-Que ne vous dois-je point ? vivre & mourir pour moy !
-Mon sang a marqué mon courage⁎ ;
+Mon esprit affligé n'entend point raillerie :
 
-Mais apprenez de ce discours ;
-Que pour sauver le reste, apres ce grand orage,
-J'ay besoin de vostre secours.
+Vous qui la retenez pouvez m'en esclaircir:
 
-Vous l'aurez chere Orante, & pour voir tant de charmes ;
-Amour joindra sa force à celle de mes armes :
-J'auray pour obeïr à ce divin escrit,
-Autant de force au bras, comme vous en l'esprit.
-Soyez discret, soyez fidelle,
+Vous me croyez aveugle, & j'ay fort bonne veuë :
 
-Sans estre connu dans ce lieu :
-Orante vous permet de venir aupres d'elle ;
-Vollez s'il est possible ; adieu.
+Votre ruse paroist plus claire que le jour.
 
-Observons de tout point les loix de ma Maistresse :
-Aide par tes advis⁎ au desir qui me presse :
-Apprends moy Lindoman, par ton sage conseil,
-Sans estre veu d'aucun d'approcher du Soleil.
+Descouvre mon amour ! pour qui ? pour ma parente ?
 
--*who_lindoman
-La ruse d'un Demon ne verroit pas la nostre :
-Cet habit vous desguise, & vous fait tout un autre ;
-Je vous laissois passer quand vous estes venu,
-Si Clindor par malheur ne m'eust pas reconnu.
-Je vay marcher devant, afin qu'on ne soubçonne;
-Venez droit au Chasteau sans parler à personne ;
-Clindor vous conduira dans son Apartement :
+Et bien ; soit ; il est vray ; mais je la veux avoir :
 
--*who_clindor
-J'en sçay bien le chemin, quittez nous seulement.
+Ha ! ne contestez plus, rendez la moy, vous dis-je :
+Quoy ! vous n'en ferez rien ?
 
--*who_isimandre
-Prepare mon Orante, apprends-luy ma venuë ;
-Allons voir le Soleil à travers cette nuë⁎ ;
-C'est ainsi que sans crime on peut estre trompeur ;
-Qu'Argus soit en ce lieu, je n'en ay point de peur ;
-Comme le feu se cache en sa Sphere supréme,
-Le mien plus pur que luy se cachera de mesme ;
-Mon cœur est son vray centre, où son esclat ne luit,
-Que pour moy qui le sens, & pour qui l'a produit.
+Resolvons nous mon cœur, ma perte est assurée ;
+Orante la procure, & le Ciel l'a jurée ;
+Un autre la possede : ô penser assassin !
+Jamais volleur ne fit un si riche larcin.
+Bien-heureux Isimandre, en cette douce guerre,
+Tu pilles les thresors du Ciel & de la Terre ;
+Ce fameux Conquerant, qu'on a fait immortel,
+Prit l'Univers entier, & ne prit rien de tel.
+Mais quand Naples seroit en ces Plages desertes,
+Qui par les Matelots ne sont pas descouvertes ;
+Quand tu la cacherois en ces lieux retirez,
+Que les rayons du jour n'ont jamais esclairez ;
+Quand tu te logerois au milieu d'une armée ;
+Quand tu disparoistrois comme un corps de fumée ;
+Quand tu pourrois voller, perfide assure toy,
+Que tu me la rendrois, Leriste suivez moy.
 
-**** *book_ *id_III03 *act_III *date_1635 *creator_scudery
+C'est icy que ma main se va remplir de gloire ;
+C'est icy qu'on verra le champ de ma victoire ;
+Icy j'effaceray la marque d'un affront,
+Par la rougeur du sang ostant celle du front.
+Le terrain est fort bon : dans l'ardeur qui me presse,
+Que n'avons nous au moins, entre nous la Maistresse ;
+Pour la faire rester comme un prix amoureux,
+Non pas au plus rusé, mais au plus genereux⁎.
+Afin que le peril plus aisément j'escarte,
+Dois-je porter en tierce ? ou bien plus tost en quarte ?
+Non, par un autre coup, je prepare sa mort,
+Je passeray sur luy, car je suis assez fort.
 
--*who_palinice
+      Que faites vous Florange ?
+
+Oubliez vous l'honneur⁎ ?
+
+Pour un cœur genereux⁎, les biens-faits ont des charmes ;
+Et vous me desarmez en conservant mes armes :
+Vous venez de me vaincre, en me rendant vainqueur ;
+Au lieu d'en tesmoigner je manquerois de cœur,
+Si je vous disputois une palme obtenuë ;
+Ma colere s'en va comme elle estoit venuë ;
+Elle s'esvanoüit ; & dedans ce moment,
+Vous avez triomphé de mon ressentiment.
+Je connois mon erreur, elle est toute apparente,
+Mais ne vous souvenez que des beautez d'Orante :
+Possedez-la paisible ; & m'accordez ce point,
+(Au nom de vostre amour) de ne me haïr point.
+Bornons enfin le cours d'une haine ancienne,
+Qui perd vostre Maison, & qui destruit la mienne ;
+Faites souscrire un pere avecque mon desir :
+
+Je marche sans frayeur, marchant sur vostre foy.
+
+Il n'est rien d'eternel en la terre où nous sommes :
+La haine doit finir aussi bien que les hommes ;
+Le merite d'un fils esteignant mon courrous,
+Je viens vous assurer que je suis tout à vous.
+
+Oublions le passé (mon cœur) je t'en conjure :
+ 
+Je me doute à peu pres quel amy ce peut estre :
+Ha ! sans faute c'est luy, car je le voy paroistre ;
+Mais souz un autre habit que vous ne l'avez veu :
+
+C'est de vous maintenant que ce couple fidelle,
+Attend une faveur qu'il vient de prendre d'elle :
+Monsieur, soyez bon pere en exauçant leurs vœux :
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palinice
+
+La foy⁎ de mon mary vous assure la sienne :
+
+Elle s'est fait saigner, & son bras s'est ouvert ;
+Mais je vois qu'elle vit, par le sang qu'elle pert.
+
+      Ma Cousine,
+
+Invisible serpent, cruelle jalousie,
+Qui vomis ton venin dans nostre fantaisie⁎,
+Bourreau de mon repos, vray Monstre des enfers,
+Qui mets l'ame à la gesne⁎, & l'esprit dans les fers ;
+Cesse de me monstrer ta vaine, & pasle image ;
+Cesse de me predire un funeste dommage ;
+Orante aime l'honneur⁎, Ormin sçait son devoir ;
+Mais Amour est aveugle, il ne sçauroit rien voir.
+La plus forte raison cede à cette manie ;
+Et bien qu'elle soit Reine, elle est souvent bannie.
+Le change⁎ a des attraits plus forts que la beauté :
+Tousjours l'esprit d'un homme aime la nouveauté ;
+L'Hymen⁎ est un fardeau qu'il juge insupportable ;
+Plus un bien est aisé, moins il est delectable ;
+Ce que nous possedons, est presque sans plaisir ;
+L'amour trouve sa fin en celle du desir ;
+Lors qu'il est au sommet, il commence à descendre ;
+Et ce brasier s'esteint dedans sa propre cendre.
+Dieux ! je l'experimente en ma juste douleur :
+Ormin est tousjours triste, il change de couleur ;
+Des souspirs continus descouvrent⁎ sa folie ;
+Son cœur suit par les yeux la belle qui le lie ;
+Il ne me parle plus qu'en termes de mespris ;
+Orante est un miracle entre les beaux esprits ;
+Elle seule merite une extreme loüange ;
+Il la peint des couleurs, dont on peindroit un Ange ;
+Il luy donne l'encens qu'on offriroit aux Dieux ;
+Il mesprise la terre, & se mocque des Cieux ;
+Afin de l'obliger⁎, il manque à sa promesse ;
+Florange n'estant qu'homme offence sa Deesse ;
+Pour posseder ce corps il faut estre immortel,
+Bref, pour avoir sa couche il luy dresse un Autel.
+Il est vray, je le voy, son ame en est blessée ;
+Elle est l'unique object⁎ qu'il a dans la pensée ;
+Il mesprise ma flame aussi bien que sa foy ;
+Pour rendre Orante à luy, l'ingrat n'est plus à moy.
+Mais il manque d'amour, & non moy de courage⁎ ;
+On connoist le Pilote au milieu de l'orage ;
+Faisons agir l'esprit pour rompre ses desseins ;
+Taschons de luy donner des sentimens plus seins :
+Qu'il prenne pour guarir la medecine amere,
+Et que son pouvoir cede à celuy d'une mere.
+
 Ce n'est pas sans rougir que je me voy contrainte,
 D'obliger vostre esprit à partager ma crainte :
 J'ay balancé long-temps avant que de parler ;
@@ -1062,7 +1210,88 @@ Voyez qu'il a manqué de parole à Florange ;
 Il suit l'humeur d'Orante afin de l'obliger⁎ ;
 Croyez que mon advis⁎ n'est pas à negliger.
 
--*who_lucinde
+Suivrez vous un moyen que l'esprit me sugere ?
+
+      Ostez vous de ce lieu,
+Ne voyez plus Ormin, partez sans dire adieu ;
+Que Florange vous suive, & qu'apres dans Florence,
+Il recoive le fruit de sa perseverance ;
+Le temps qui change tout, pourra changer Ormin :
+
+Vous serez en repos, & nostre Amant en peine :
+
+Vous serez dans le calme, & rirez des tempestes ;
+Car pour vostre départ toutes choses sont prestes ;
+
+Ne cherchons pas si loing, les ennemis sont pres :
+Le principe du mal m'en fit prevoir l'issuë
+Ormin a fait ce coup, ou je suis fort deceuë⁎ ;
+Mais allons descouvrir la route qu'elle a prise :
+
+Mensonge bien pensé ! mais pourtant inutile.
+
+Orante est en vos mains, que sert de la cacher ?
+
+Est elle au cabinet, ou dans la gallerie ?
+
+Un dessein descouvert ne sçauroit reüssir.
+
+Je ne m'estonne⁎ point, sa perte estoit preveuë.
+
+Votre haine descouvre, & fait voir vostre amour.
+
+Vous n'aimez pas le sang, mais la beauté d'Orante.
+
+Puis qu'elle est en tes mains, perfide, va la voir.
+
+Ciel ! peux-tu voir son crime, & ne le pas punir ?
+
+Souffrez⁎ en ce dessein que je vous accompagne ;
+Car sans doute qu'Ormin se va mettre en campagne ;
+Mon interest au vostre, icy se meslera :
+
+Patientez un peu, nous le verrons sans doute :
+Je me mocque d'un mal que vostre esprit redoute ;
+Puisqu'il paroist icy, je le tiens innocent ;
+Vostre fille est sa femme, & son pere y consent :
+Un nouveau possesseur est ardent & fidelle ;
+S'il la tenoit cachée il seroit aupres d'elle ;
+Ces plaisirs dérobez attachent tout le jour ;
+Je la croy plus à luy, puis qu'il a moins d'amour.
+
+Mettons nous dans ce lieu qui regarde la porte ;
+Nous le descouvrirons, soit qu'il entre, ou qu'il sorte :
+
+Vostre seul repentir efface mon injure.
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
+Vous l'accusez à tort, elle a plus de bonté⁎ ;
+Son cœur ne prend de loy que de ma volonté,
+Son esprit est fort doux, j'en dispose absoluë,
+Florange, elle est à vous, si j'y suis resoluë :
+Et puis qu'Ormin l'agrée, & Palinice encor,
+Quand vous auriez les ans, que l'on donne à Nestor ;
+Quand plus de cent Hyvers, horribles en tempeste ;
+Auroient ainsi qu'aux champs, neigé sur vostre teste ;
+Croyez (puisqu'il est vray) que j'aurois le pouvoir
+De la mettre en vos bras comme dans son devoir.
+
+Puis que je l'ay promis, il faut que je le tienne :
+On ne peut vous l'oster, Orante est vostre bien ;
+Esperez tout Florange, & ne craignez plus rien ;
+Condamnez desormais cette pleinte au silence,
+Aussitost que son mal perdra sa violence,
+Guarissant la douleur par qui vous souspirez⁎,
+Je sçauray bien la mettre où vous la desirez.
+
+Quel bruit ay-je entendu ?
+
+Ma fille,
+
+Ma parole tiendra, puis que je l'ay donnée :
+
 Vos pensers & les miens ont de la simpathie :
 Je prevoyois le mal dont je suis advertie ;
 Et taschois de trouver par mon raisonnement ,
@@ -1076,427 +1305,350 @@ Est un grain que je seme en un champ infertile ;
 Elle s'adresse au Ciel qui ne la reçoit point ;
 Il passe ; & mon malheur est tousjours en un point.
 
--*who_palinice
-Suivrez vous un moyen que l'esprit me sugere ?
-
--*who_lucinde
 Toute difficulté me paroistra legere,
 Proposez seulement :
 
--*who_palinice
-      Ostez vous de ce lieu,
-Ne voyez plus Ormin, partez sans dire adieu ;
-Que Florange vous suive, & qu'apres dans Florence,
-Il recoive le fruit de sa perseverance ;
-Le temps qui change tout, pourra changer Ormin :
-
--*who_lucinde
 Dans six jours au plus tard je me mets en chemin.
 
--*who_palinice
-Vous serez en repos, & nostre Amant en peine :
-
--*who_lucinde
 J'aime plus mon honneur⁎ que je ne crains sa haine.
 
--*who_nerine
-Dieux ! on la veut forcer, je n'y puis consentir ;
-Mais ce mal est pressant, je vay l'en advertir.
-
-**** *book_ *id_III04 *act_III *date_1635 *creator_scudery
-
--*who_orante
-Je ne puis te payer, je le voy plus j'y pense :
-
--*who_lindoman
-En faisant mon devoir, j'ay pris ma recompense.
-
--*who_orante
-Je l'ay desja present, je croy le regarder,
-
--*who_lindoman
-Madame, assurez vous qu'il ne sçauroit tarder.
-
--*who_orante
-Mais s'il est reconnu, le danger est extreme ;
-
--*who_lindoman
-Il est si fort changé, que ce n'est plus luy mesme :
-Sous l'habit d'un Marchand qui cache ses appas⁎,
-Vous qui l'avez au cœur ne le connoistrez pas.
-
--*who_orante
-Souz un mauvais habit paroist sa bonne mine⁎,
-Ainsi que l'or esclate en l'obscur d'une mine.
-
-**** *book_ *id_III05 *act_III *date_1635 *creator_scudery
-
--*who_nerine
-Ha Madame, escoutez…
-
--*who_orante
-      Je n'en ay point de peur :
-Mon projet est certain, leur espoir est trompeur ;
-Je verray leur pratique aujourd'huy renversée ;
-Si je suis Andromede, Isimandre est Persée ;
-Son œil escartera le malheur qui me suit.
-
--*who_lindoman
-Je l'apperçoy Madame, & Clindor le conduit.
-
--*who_orante
-Mon cœur nage en la joye, & rien ne l'importune ;
-Il ne craint plus les traicts⁎ que tire la fortune.
-
-**** *book_ *id_III06 *act_III *date_1635 *creator_scudery
-
--*who_isimandre
-Lisez dedans mes yeux, voyez en ma couleur,
-Que l'extreme plaisir ressemble à la douleur :
-Ma bouche en est muette, & mon esprit se pasme⁎
-Fermez la d'un baiser, pour retenir mon ame :
-
--*who_orante
-Vous me faites pitié, je veux vous secourir ;
-Vivez cher Isimandre, où j'ay voulu mourir.
-
--*who_isimandre
-Lieux sacrez à l'Amour, pleins d'appas⁎, & de charmes ;
-Monstrez moy ce beau sang, que j'y mesle mes larmes ;
-Mais non, je me repens de ma temerité ;
-Conservez-le tout pur à la posterité.
-Quand on vous couvriroit des richesses du Gange,
-Cét esmail est si beau que vous perdriez au change :
-Puisse bientost l'Aurore en orner ses habits ;
-Et le mesler au Ciel avecque ses rubis.
-Ce tresor est trop grand, pour rester sur la terre.
-
--*who_orante
-On triomphe en la paix, & nous sommes en guerre,
-On me veut enlever ; quel remede avons nous ?
-
--*who_isimandre
-On vous veut enlever ! y consentirez vous :
-
--*who_orante
-Cherchez nostre secours dedans vostre industrie⁎ :
-
--*who_isimandre
-Sur les ailes d'Amour vollons en ma patrie :
-Que Naples vous revoye en jeune Cavalier,
-Ce remede est fascheux, mais il est singulier ;
-L'Amour s'est tousjours pleu dans les metamorphoses ;
-Le temps en s'enfuyant ameine toutes choses ;
-Sous le nom d'un Amy mon pere vous peut voir :
-
--*who_orante
-Il se fait un combat d'amour & du devoir :
-
--*who_isimandre
-Le devoir & l'amour obligent ma Maistresse.
-A fuir sagement l'ennemy qui la presse.
-
--*who_orante
-Mais se peut-il trouver un Amoureux constant⁎ ?
-
--*who_isimandre
-Ha ! si vous en doutez, que je meure à l'instant.
-
--*who_orante
-Où prendre des habits ? le moyen ? l'apparence ?
-
--*who_isimandre
-Je feray sourdement l'equipage à Florence ;
-Et dans trois jours Clindor vous les apportera,
-Sur le pretexte faux des Tableaux qu'il aura.
-
--*who_orante
-Ne laissons pas Nerine, elle est de la querelle :
-
--*who_isimandre
-Et bien ; j'en feray faire, & pour vous, & pour elle ;
-Et les ayant vestus, soyez le jour suivant,
-Dans le temple de Mars, dés le Soleil levant.
-Là vous me trouverez couvert d'une autre sorte ;
-Les Chevaux seront prests à cent pas de la porte ;
-Et pourveu que le cœur ne vous manque au besoing,
-Quand on vous cherchera, nous serons desja loing.
-
--*who_orante
-Vous avez dessus luy la puissance absoluë :
-Puis que vous le voulez, m'y voilà resoluë.
-Et deussay-je trouver la mort à mon chemin ;
-Je vous suivray par tout :
-
--*who_nerine
-      Voicy venir Ormin.
-
--*who_isimandre
-Madame, remarquez comme en cette peinture,
-L'Art plus divin qu'humain, imite la Nature :
-Voyez comme Adonis semble admirer Venus ;
-Comme à travers le crespe on voit ses membres nus ;
-Cét autre est ravissant, où le Pinceau prophane,
-Offre aux yeux d'Acteon les beautez de Diane ;
-Voyez que ce visage est en colere & beau ;
-Et que ce corps plongé se fait un habit d'eau.
-
--*who_orante
-Ha Monsieur, approchez, venez voir des merveilles ;
-Qui chez les plus grands Rois n'auroient point de pareilles ;
-Tout ainsi que les miens, vos yeux seront charmez :
-
-**** *book_ *id_III07 *act_III *date_1635 *creator_scudery
-
--*who_ormin
-Elles valent beaucoup, si vous les estimez.
-
--*who_isimandre
-Voyez dans ce tableau, cette histoire connuë,
-Où le fol Ixion n'embrasse que la nuë ;
-Voyez de Jupiter le regard inhumain ;
-Comme il hausse le bras, la foudre dans la main.
-
--*who_ormin
-Certes, Peintre, ou Marchand, ou tous les deux ensemble,
-La langue & le pinceau, font tres-bien ce me semble.
-
--*who_isimandre
-Voyez comme Apollon court apres sa Dafné ?
-Elle devient un bois, dont il est couronné ;
-Pour atteindre plustost cette Nimphe superbe,
-Il laisse choir sa lire, & son carquois sur l'herbe ;
-Il la suit, elle fuit, et va de toutes parts,
-La robe retroussée, & les cheveux espars.
-
--*who_orante
-Que me demandez vous de ces quatre Peintures ?
-
--*who_ormin
-Allez chercher ailleurs vos bonnes advantures⁎ ;
-Desja vostre marché, sans marchander est fait ;
-Qu'on le meine là bas, & qu'il soit satisfait ;
-Le prix se mesurant avecque sa demande,
-Qu'il ait ce qu'il dira, puis que je le commande ;
-
--*who_orante
-Et cét autre Tableau ?
-
--*who_isimandre
-      Je l'envoyray, ma foy⁎ :
-
--*who_orante
-Adieu, n'y manquez pas, souvenez vous de moy.
-
--*who_isimandre
-Cét homme qui me sert l'apportera (Madame)
-Ha ! que n'ay-je son cœur, ainsi qu'il a mon ame.
-
--*who_orante
-Monsieur, cét Ixion me semble le plus beau
-
--*who_ormin
-Il eut un haut dessein, & le Ciel pour Tombeau ;
-Il fut heureux en songe, & je luy porte envie ;
-Sa mort fut glorieuse aussi bien que sa vie.
-
--*who_orante
-Mais le foudre⁎ punit ses projects orgueilleux ;
-
--*who_ormin
-Les desseins eslevez sont tousjours perilleux :
-Ce grand cœur rencontra la fortune irritée,
-Il n'eut pas la Couronne, & l'avoit meritée ;
-Mais si j'avois son sort, je mourrois sans regret ;
-Il descouvrit⁎ son mal, & le mien est secret :
-
--*who_orante
-Que Diane me plaist ! Que j'aime ce rivage !
-
--*who_ormin
-Dieux ! elle n'a pas seule un naturel sauvage :
-Une autre haït mes yeux qui l'osent adorer,
-Et fait que mes pensers me viennent devorer :
-Miserable Acteon, je l'esprouve⁎ rebelle ;
-Mais n'importe mon cœur, mourons, car elle est belle.
-
--*who_orante
-Cette Nimphe qui fuit me touche de pitié :
-
--*who_ormin
-Vous aimez un object⁎ qui n'a point d'amitié⁎ :
-Voyez qu'elle est aveugle en fuyant la lumiere.
-
--*who_orante
-Il faudra qu'un rideau couvre cette premiere.
-
--*who_ormin
-Si les feux d'Adonis sont indignes du jour,
-Laissez-les moy couvrir, je sçay cacher l'Amour.
-
--*who_orante
-Vous prendriez trop de soing ;
-
--*who_ormin
-      Ha ! qu'elle est inhumaine ;
-Elle pleint mon travail, & ne pleint pas ma peine.
-
--*who_orante
-Je devois recevoir ce present à genous :
-
--*who_ormin
-Je ne puis rien donner, moy mesme estant à vous,
-
--*who_orante
-L'excez de vos bontez me rend toute confuse :
-
--*who_ormin
-Croyez Ormin sans cœur, si je vous le refuse.
-Que vos commandemens secondent mes desirs ;
-Demandez quelque bien qui serve à vos plaisirs ;
-Ordonnez moy d'aller sur la terre & sur l'onde,
-Avecque le Soleil faire le tour du monde.
-Commandez à mon bras d'esgorger un Lion ;
-Ordonnez luy de mettre Osse sur Pelion ;
-J'attaqueray le Ciel, & dans cette escalade,
-Je seray plus heureux que ne fut Encelade :
-Si ces lambris d'azur peuvent plaire à vos yeux,
-J'oseray vous placer dans le Throsne des Dieux;
-Vostre seule froideur a borné ma puissance ;
-Esprouvez mon amour par mon obeïssance.
-
--*who_orante
-En m'obligeant⁎ (Monsieur) jusqu'en un si haut point,
-Vous me croirez ingrate, & je ne la suis point.
-
--*who_ormin
-Je crois qu'une Deesse est tousjours veritable.
-Mais ce long entretien vous est insupportable ;
-Et mon esprit grossier aupres de vos appas⁎,
-Gouste un contentement qu'il ne vous donne pas.
-Adieu, voicy la nuit, les objects se ternissent ;
-Je souhaite à vos yeux un bien qu'ils me ravissent.
-
--*who_orante
-De ce discours obscur j'ay l'esprit estonné⁎,
-Mais prenez le repos que vous m'avez donné.
-Tousjours quelque malheur le Destin me suscite⁎ :
-Florange me poursuit, Ormin me solicite ;
-Sa femme veut ma perte ; & ma Mere y consent ;
-Helas ! que d'ennemis contre un cœur innocent.
-Mais j'apperçoy le port en depit de l'orage ;
-Je sortiray des fers si j'en ay le courage⁎ ;
-Comment ! j'hesite encor ! sur un point assuré !
-Non, non, il faut partir ; Orante l'a juré.
-
-**** *book_ *id_IV01 *act_IV *date_1635 *creator_scudery
-
--*who_palinice
-Vous serez dans le calme, & rirez des tempestes ;
-Car pour vostre départ toutes choses sont prestes ;
-
--*who_lucinde
 Demain sans differer m'esloignant de ce lieu,
 Mon esprit affligé vous dérobe un Adieu.
 
--*who_orante
-Ha ! je tremble Nerine :
+Helas ! de mon support⁎ je me trouve privée ;
+Madame, c'en est fait, ma fille est enlevée ;
+Elle n'est plus icy ; Nerine a disparu ;
+En vain tout le Chasteau j'ay quatre fois couru ;
+Son Cabinet est vuide ; & sa Chambre est ouverte ;
+Ha ! je n'en doute plus, cela me dit ma perte !
+Je suis au desespoir ; & je perds la raison,
+Souffrez⁎ vous des voleurs dedans vostre maison ?
+Soulagez ma douleur, puis qu'elle vous afflige ;
+Un mal est incurable, alors qu'on le neglige ;
+Il est encore temps, faites courir après :
 
--*who_nerine
-      O bon-heur sans exemple ;
-Madame, sauvons nous, entrons dedans le Temple ;
-Souz cét habit trompeur on ne vous connoist pas :
+Vous redoublez encor la gesne⁎ à mes esprits.
 
--*who_orante
-Veüille Amour, qu'Isimandre ait devancé mes pas.
+      O bons Dieux, quel prodige⁎ :
+Page, secourez moy, je ne le puis tenir :
 
-**** *book_ *id_IV02 *act_IV *date_1635 *creator_scudery
+Pour avoir moins de maux, que n'ay-je moins vescu !
 
--*who_florange
+O combien d'accidents⁎ chocquent⁎ nostre famille !
+Ses plus grands ennemis sont aimez de ma fille ;
+Mais j'yray la trouver pour en avoir raison,
+Deust mon pays natal devenir ma prison.
+
+Pourveu que nous partions, tout ce qu'il vous plaira.
+
+Voyant ce ravisseur, qui passoit dans la ruë,
+J'ay quitté la fenestre, & j'y suis accouruë ;
+Mais comme il se cachoit, de peur d'estre connu,
+Je n'ay sceu dans trois pas, ce qu'il est devenu ;
+Son extréme vistesse a trompé ma poursuite ;
+A peine mes regards ont descouvert sa fuite,
+(Chose qui m'a faschée, & qui l'a resjoüy)
+Qu'en esclair, en phantome, il s'est esvanoüy.
+
+Plûst au Ciel que ce mal eust enfin bonne issuë ;
+Et qu'elle fust ainsi que vous l'avez conçeuë ;
+Je me consolerois ; ma fille auroit bien fait ;
+Il est nostre ennemy, mais il est tout parfait.
+
+J'ay ma part à la paix aussi bien qu'à la guerre :
+Je crois avoir acquis le reste de la terre,
+Puisque par cét accord on me donne pouvoir,
+D'habiter un païs que je n'osois revoir.
+
+Pour l'amour d'Isimandre il faut luy pardonner :
+Et je ne la reprens que pour vous la donner,
+
+Soyez desormais sage, ayant esté trop prompte :
+Oubliant le passé qui ne nous sert de rien,
+Ne parlons plus d'un mal qui nous produit un bien.
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florange
+
+Mon âge luy fait peur, sa tristesse m'estonne⁎ ;
+Et je pleins la douleur que mon plaisir luy donne :
+Je ne la trouve point favorable à mes vœux⁎ ;
+L'or ne sçauroit cacher l'argent de mes cheveux.
+
+Ce discours me ravit ; n'en parlons plus Madame :
+L'excez de ce plaisir me deroberoit⁎ l'ame ;
+Je mourrois à vos yeux, & mon cœur a dessein,
+De prendre pour Tombeau l'albastre de son sein.
+Courronné des lauriers d'une victoire insigne⁎,
+Puis qu'il me faut mourir je veux je mourir en Cygne,
+Et chante les beautez, & vanter les appas⁎,
+Que je trouve en ses yeux, que je gouste au trespas.
+
+Quel homme, ou quel demon, l'a mise de la sorte ?
+
+      Ma Maistresse :
+
+Mon abord vous desplaist ; mon respect vous offence ;
+Mais contre vos rigueurs, Amour prend ma deffence :
+Et promet à mon cœur, pour le reconforter,
+La force de les vaincre, ou de les supporter.
+
+Mon feu ne peut souffrir⁎ un si froid compliment :
+Vous me traittez en Pere, & non pas en Amant !
+Ha ! veuïllez adoucir mes peines obstinées ;
+Et compter mon argent plustost que mes années ;
+Pour faire que mon Astre⁎, ait un aspect plus dous,
+Songez que mon Amour est jeune comme vous.
+
+Ormin peut tout sur moy, mais rien sur mon amour :
+Il ne peut me l'oster, qu'en me privant du jour.
+Sa foy⁎ me veut trahir, mais en cette advanture⁎,
+Mon Amour outragé s'adresse à la Nature :
+Madame, c'est de vous que j'attends aujourd'huy,
+Ou ma premiere joye, ou mon dernier ennuy⁎ :
+Ormin est sans parole ; Orante me mesprise ;
+Et ce jour pour mon ame, est bien un jour de crise.
+Prononçant un arrest⁎, que j'attends à genous,
+Vuidez le different, qui s'esmeut entre nous.
+
+Fermez l'œil pour ma faute, & voyez cette Belle.
+
+La peine que je sens leur est indifferante :
+Amour que dois-je faire ? on me ravit Orante ;
+O toy qui le fais naistre, assiste mon ennuy⁎ ;
+Ou si tu vis d'espoir, meurs aussi bien que luy.
+Mon extreme douleur n'a rien qui la console ;
+Orante est sans amour, Ormin est sans parole ;
+Que dis-je mal-heureux ? Elle a donné sa foy⁎ ;
+Elle est bien sans amour, mais ce n'est que pour moy.
+J'ay sceu comme Isimandre occupe sa belle ame ;
+Son cœur est consommé d'une secrete flame ;
+Mais croyant que mon œil ne le sçauroit ouvrir,
+L'Amour qu'elle a caché me l'a fait descouvrir⁎.
+Ha qu'on voit clairement, en despit de la feinte,
+Si le cœur est sans playe, ou si l'ame est atteinte ;
+L'œil d'un Amant jaloux, voit tout, peut tout percer ;
+Et mesme dans l'esprit il surprend un penser :
+Un sousris, une larme, un souspir, une œillade,
+Sont indices certains que l'esprit est malade,
+Sur quoy l'homme subtil fonde son jugement :
+Celuy qui souffre un mal le connoist aisément.
+Il n'est que trop certain qu'Orante aime Isimandre :
+Mais puis qu'elle est à moy, je sçauray la deffendre ;
+Naples n'est pas si loing, ny son bon-heur si prés ;
+Tel cherche du Laurier, qui trouve du Cyprés.
+Et bien que ce Rival ait la place occupée,
+Il faudra qu'il la prenne au bout de mon espée ;
+Ormin, la Mere, Orante, Isimandre, & le sort,
+Ne peuvent me l'oster, qu'en me donnant la mort.
+
 C'est en vain qu'on me fuit, c'est en vain qu'on se cache ;
 Je suis seul, ils sont deux, mais l'un & l'autre est lâche ;
 Quelque mauvais dessein les oblige à courir ;
 Téméraire Isimandre, apprens qu'il faut mourir.
 
--*who_isimandre
-Bons Dieux que d'accidens⁎ choquent⁎ mon entreprise⁎ ;
-Si je ne me bats point, il me suivra dans Pise ;
-
--*who_clindor
-Ouvrons nous par sa mort le chemin du bon-heur ;
-
--*who_isimandre
-Je suivray ton conseil, & celuy de l'honneur⁎.
-Cét arbre, & cette escharpe asseureront Florange,
-Que ma main sans second, sçait bien comme on se vange ;
-
--*who_florange
 Me monstrez vous mes yeux ce que je pense voir ?
 
--*who_clindor
-Monsieur, que faites vous ?
-
--*who_isimandre
-      Ce que veut mon devoir.
-O toy que le mal-heur oppose à mon passage,
-Vieux spectre que les ans n'ont pas rendu plus sage,
-Souviens toy du beau sang qu'Orante a respandu :
-Et reçoy de mon bras le loyer⁎ qui t'est deu ;
-
--*who_florange
 Témerité sans force ! esperance trompée :
 
--*who_isimandre
-Demande moy la vie, & me rends ton espée :
-
--*who_florange
 Je fais l'un, prenez l'autre, & gloire des Guerriers,
 Ne soüillez point de sang l'esclat de vos lauriers,
 
--*who_clindor
-Monsieur, punissez-le du travail qu'il vous donne ;
-
--*who_florange
 Je vous cede mon droict,
 
--*who_isimandre
-      & moy je vous pardonne ;
-Ciel ! de quelle douleur ay-je le cœur percé ?
-Clindor, que ferons nous ? je me trouve blessé ;
-Le moyen que sanglant j'aille où l'Amour m'appelle ?
-Ha chetif Isimandre ! O fortune infidelle !
-Traverser cette ville en l'estat où je suis,
-Sans estre reconnu, c'est ce que je ne puis :
-On m'attend cependant ; helas ! que dois-je faire ?
-
--*who_clindor
-Deschargez vous sur moy du poids de cette affaire ;
-J'auray par mon travail la fin de vos travaux ;
-Allez vous reposer aupres de nos Chevaux ;
-Mais de peur qu'il ne parle, il faut garder ce traistre ;
-
--*who_isimandre
-C'est au Temple de Mars que ma Venus doit estre.
-
--*who_clindor
-Cachez vous dans le bois, & soyez sans effroy :
-
--*who_isimandre
-Tasche donc de voller, Florange, suivez moy.
-
--*who_florange
 Que desirez vous plus de mon obeïssance ?
 
--*who_isimandre
-Ce secret est trop haut pour vostre connoissance ;
-Le vaincu doit ployer sous les loix du vainqueur ;
-
--*who_florange
 Que n'avois je le bras aussi bon que le cœur.
 
-**** *book_ *id_IV03 *act_IV *date_1635 *creator_scudery
+La fortune a trahy tout l'espoir que j'avois :
 
--*who_poliante
+Il est vray ; mais souffrez⁎ qu'elle me serve à pleindre ;
+
+Le plus grand des mal-heurs, enfin m'est advenu :
+
+Que sçauroit adjouster la fortune à ma peine ?
+
+Donnez moy cette fin en celle de mes jours :
+
+Et ce discours s'accorde mal avec mon advanture⁎ :
+
+Comment l'entendez vous ? expliquez ce propos :
+
+L'âge dont vous parlez n'a rien qui soit infame :
+
+Desja depuis long-temps j'en ay senty les coups :
+
+Ne pouvant l'empescher, il faudra m'y resoudre :
+
+Que je ne meure point d'un coup inopiné ;
+Orante vient icy ;
+ 
+Que par l'ombre du bien l'ame est souvent trompée :
+
+Je meurs de voir Orante, & de ne la plus voir.
+
+Si vous cherchez Orante, elle n'est plus à Pise :
+Et ses charmes ont pris un Amant qui la prise.
+Isimandre l'emmene, apres m'avoir vaincu :
+
+Comme j'avois des feux, il avoit de la flame :
+L'excez de la douleur m'a fait lire en son ame ;
+Et comme son esprit adoroit mon vainqueur,
+Il n'a pû retenir les sentiments du cœur.
+Sa raison a perdu son ordinaire usage ;
+Sa folle passion s'est peinte en son visage ;
+Ses souspirs ont fait voir en mesme temps au jour,
+Le feu de la colere, & celuy de l'amour.
+L'un & l'autre esclatoit ; l'un & l'autre visible,
+Me l'on fait reconnoistre, amoureux & sensible.
+Et j'ay veu par les pleurs que respandoyent ses yeux,
+Qu'il perdoit comme moy, ce qu'il aimoit le mieux.
+Ouy, j'ay veu clairement quelle est sa maladie :
+L'amour qu'il a pour elle, a fait sa perfidie ;
+Le traistre a fait mon mal, pour establir son bien ;
+Et rompu mon dessein pour achever le sien.
+Ce coup est sans remede,& moy sans allegeance⁎,
+Si je ne la rencontre avecque la vangeance ;
+Ouy, vangeons nous mon cœur des outrages souffers,
+Afin de t'exciter, voy le bien que tu pers ;
+Figure toy les traicts⁎ de la beauté d'Orante ;
+Songe que le perfide a trompé ton attente ;
+Qu'apres t'avoir promis il t'a manqué de foy⁎ ;
+Te ravissant un bien qu'il reservoit pout soy ;
+Voudrois tu le souffrir⁎ ? responds à ma demande ?
+Non, non qu'il soit puny puis qu'Amour le commande.
+Vangeant la foy⁎ rompuë, & qu'il eut à mespris,
+Qu'il n'ait point de retour au voyage entrepris.
+Suivons, suivons ses pas, & loing de la patrie,
+Faisons agir la force avecque l'industrie⁎ ;
+Deux BRAVES employez seconderont mes coups ;
+Ce sont là des exploits qui sont dignes de nous.
+Aux combats inégaux la victoire est certaine ;
+Quand on veut rompre en lice, ou courre à la quintaine
+L'egalité sied bien, car elle est sans danger :
+Je ne veux point mourir, je cherche à me vanger.
+Je veux choisir le temps, & le moyen propice ;
+Je veux qu'il tombe seul dedans le precipice ;
+Je veux qu'apres sa perte, en perdant les tesmoins,
+Je sois celuy de tous qu'on en soupçonne moins.
+Ha ! je nâge desja dans le sang du perfide ;
+J'obeïs au courroux, je n'en tiens plus la bride ;
+Il m'emporte, il m'entraine, il me force à courir,
+Je te suy, je te tiens, Ormin, il faut mourir.
+
+Main basse Compagnons:
+
+Je fais ce que je dois ; je punis, je me vange.
+
+      Je le trouve à punir,
+Un qui donne sa foy⁎, pour ne la pas tenir.
+
+      Je perds l'espoir, avecque la lumiere.
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+
+Ha ! fidelle Clindor, un bon demon t'ameine :
+Si ton Maistre pâtit, Orante est bien en peine ;
+Florange la recherche, & sa Mere y consent ;
+Juge par là des maux que son esprit ressent.
+Mais que fait Isimandre en cette longue absence ?
+
+Ma Maistresse aujourd'huy n'est point accompagnée ;
+Sa fievre à ce matin, a voulu la seignée ;
+Elle garde la Chambre, où je m'en vay courir ;
+Mieux que le Medecin je la puis secourir ;
+Son remede consiste au papier que je porte,
+Dont je vay r'animer son esperance morte ;
+Toy, fidelle Clindor suis moy dans le Chasteau ;
+Passe la basse court, le nez dans le manteau ;
+Monte au grand escalier, où je m'en vay t'attendre :
+
+Que me donneriez vous d'une bonne nouvelle ?
+Madame, vous dormez ; c'est en vain que j'appelle :
+Ha Ciel ! quel accident⁎ ? au secours mes amis ;
+Dieux ! vous l'avez veu faire, & vous l'avez permis !
+Elle nage en son sang : ô l'horrible spectacle !
+Son funeste projet n'a point trouvé d'obstacle :
+Et ce papier m'apprend, que sa fidelité,
+Arrive par la mort à l'immortalité.
+
+Retourne vers ton Maistre, & va-t'en l'advertir,
+Qu'Orante ne vit plus, qu'il est temps de partir :
+Porte luy ce papier :
+
+Qu'il punisse Florange autheur de ce dommage ;
+On la vouloit forcer de vivre sous sa Loy ;
+Adieu, ne sois point veu, quelqu'un vient, sauve toy.
+
+Qu'on luy jette de l'eau, remettons la compresse :
+
+      Ouy mais c'est pour mourir,
+Si vous n'avez dessein de la mieux secourir ;
+Florange luy desplaist, sa mere la martire⁎ :
+
+Vous irez (si le sort calme sa violence)
+De la peine au repos, & du bruit au silence.
+
+La parole d'Ormin doit bannir cette crainte ;
+
+      Et la croyez vous feinte ?
+Non, esperez Madame, un traitement plus dous ;
+Vivez pour Isimandre, ainsi qu'il vit pour vous ;
+Et croyez que le Ciel, par ses Loix souveraines,
+Mesurera vos biens aux grandeurs de vos peines ;
+Il vous a fait un mal, dont il aura pitié.
+Faistes que le Destin cede à vostre amitié⁎ ;
+Le sage (à ce qu'on dit) se fait ses destinées :
+Le pilote se rit des vagues mutinées ;
+C'est parmy les mal-heurs que paroist la vertu ;
+La fortune mesprise un courage⁎ abatu ;
+On gagne ses faveurs avec la resistance ;
+Elle est fille, elle est belle, on la vainc par constance⁎.
+
+Ha ! Madame pardon, ma memoire est coupable :
+Le soin de soulager vostre corps affoibly,
+A fait que mes pensers ont mis tout en oubly :
+Ouy Madame, je leus cette honorable marque,
+Que laissoit vostre amour en despit de la parque ;
+Et Clindor la receut à l'instant de ma main :
+
+      Non, il partit soudain :
+Et porta ce billet, & la mort à son Maistre,
+De qui j'avois receu pour vous une autre lettre :
+Mais ayant le dessein d'accompagner vos pas :
+Je voulois que sa fin, suivist nostre trespas.
+
+Je vous ay fait un mal dont voicy le remede :
+Escrivez seulement trois mots de vostre main ;
+Que Lindoman les porte, & qu'il parte demain :
+
+Un secret important, l'est tousjours dans son ame :
+Isimandre, sans doute, a besoin de cela :
+
+      Madame, le voila.
+
+Dieux ! on la veut forcer, je n'y puis consentir ;
+Mais ce mal est pressant, je vay l'en advertir.
+
+Ha Madame, escoutez…
+
+      Voicy venir Ormin.
+
+      O bon-heur sans exemple ;
+Madame, sauvons nous, entrons dedans le Temple ;
+Souz cét habit trompeur on ne vous connoist pas :
+
+Je ne sçay que juger de son retardement ;
+Mais qu'il manque d'amour, Madame, nullement,
+
+Il me marqua le lieu, le jour, & le matin.
+
+O ciel ! voicy venir le fidelle Clindor,
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
+
 Que n'es tu le tesmoing de mon inquietude ?
 Je te ferois rougir de ton ingratitude ;
 Fils sans obeïssance, enfant sans amitié,
@@ -1550,494 +1702,24 @@ Pour allonger ses jours, retranchez mes années ;
 Et bornant son voyage ainsi que mon ennuy⁎,
 Que je meure en moy mesme, & que je vive en luy.
 
-**** *book_ *id_IV04 *act_IV *date_1635 *creator_scudery
-
--*who_orante
-Dieux ! il ne songe point au tourment qui me presse :
-Pour avoir tant d'amour, il a trop de paresse.
-Si ne me trouvant pas on se met à chercher,
-Un lieu tousjours ouvert, pourra-t'il me cacher ?
-Et si par ces habits on connoist mon envie,
-Rien me peut-il sauver & l'honneur⁎, & la vie ?
-
--*who_nerine
-Je ne sçay que juger de son retardement ;
-Mais qu'il manque d'amour, Madame, nullement,
-
--*who_orante
-Quand Clindor te donna ces habillements d'hommes,
-Ne te marqua-t'il pas ce lieu mesme où nous sommes ?
-
--*who_nerine
-Il me marqua le lieu, le jour, & le matin.
-
--*who_orante
-Sans doute que leur faute est celle du destin ;
-Qui jaloux de mon aise, & l'ayant reconnuë,
-Pour me desesperer, empesche leur venuë :
-Quelque obstacle fascheux leur deffend de venir.
-Mais je n'en auray point quand je voudray finir ;
-Dans l'excez des mal-heurs, où personne ne m'aide,
-J'ay tousjours creu la mort un souverain remede ;
-Qui l'a pris une fois, le prendra bien encor :
-
--*who_nerine
-O ciel ! voicy venir le fidelle Clindor,
-
-**** *book_ *id_IV05 *act_IV *date_1635 *creator_scudery
-
--*who_clindor
-Si vous me voyez seul, qu'il ne vous semble estrange ;
-Mon Maistre par mal-heur a rencontré Florange ;
-Mais souffrez⁎ en fuyant la colère d'Ormin,
-Que ce discours se fasse avec nostre chemin.
-
--*who_orante
-Prends pitié de mon cœur, en luy faisant connoistre,
-Si vainqueur ou blessé je dois revoir ton Maistre.
-
--*who_clindor
-Et vainqueur, & blessé, mais fort legerement ;
-Quelqu'un nous surprendra, sauvons nous vistement.
-
-**** *book_ *id_IV06 *act_IV *date_1635 *creator_scudery
-
--*who_lucinde
-Helas ! de mon support⁎ je me trouve privée ;
-Madame, c'en est fait, ma fille est enlevée ;
-Elle n'est plus icy ; Nerine a disparu ;
-En vain tout le Chasteau j'ay quatre fois couru ;
-Son Cabinet est vuide ; & sa Chambre est ouverte ;
-Ha ! je n'en doute plus, cela me dit ma perte !
-Je suis au desespoir ; & je perds la raison,
-Souffrez⁎ vous des voleurs dedans vostre maison ?
-Soulagez ma douleur, puis qu'elle vous afflige ;
-Un mal est incurable, alors qu'on le neglige ;
-Il est encore temps, faites courir après :
-
--*who_palinice
-Ne cherchons pas si loing, les ennemis sont pres :
-Le principe du mal m'en fit prevoir l'issuë
-Ormin a fait ce coup, ou je suis fort deceuë⁎ ;
-Mais allons descouvrir la route qu'elle a prise :
-
--*who_lucinde
-Vous redoublez encor la gesne⁎ à mes esprits.
-
-**** *book_ *id_IV07 *act_IV *date_1635 *creator_scudery
-
--*who_ormin
-Le feu de mon courroux se mesle avec ma flame ;
-On enleve mon cœur, on dérobe mon ame ;
-Au moins cruel destin, fais voir à mes desirs,
-L'invisible ennemy qui destruit mes plaisirs.
-Descouvre moy le Ciel où mon Soleil demeure ;
-Que je meure vangé puis qu'il faut que je meure ;
-Et permets que son sang puisse effacer l'affront,
-Qui me perce le cœur, & me rougit le front.
-Mais à tort ce soupçon m'entre en la fantaisie⁎ ;
-Et je donne à l'Amour un trait de jalousie :
-Sans doute que ma femme a fait ce beau dessein ;
-Mais un coup de poignard luy va percer le sein,
-Si sa ruse entreprend de faire l'ignorante ;
-Elle perdra le jour, si je perds mon Orante.
-
-**** *book_ *id_IV08 *act_IV *date_1635 *creator_scudery
-
--*who_florange
-La fortune a trahy tout l'espoir que j'avois :
-
--*who_isimandre
-Aussi vieux qu'un rocher, vous n'avez que la voix.
-
--*who_florange
-Il est vray ; mais souffrez⁎ qu'elle me serve à pleindre ;
-
--*who_isimandre
-Desormais vous ny moy n'avons plus rien à craindre.
-
--*who_florange
-Le plus grand des mal-heurs, enfin m'est advenu :
-
--*who_isimandre
-Le mal dont vous parlez ne vous est pas connu.
-
--*who_florange
-Que sçauroit adjouster la fortune à ma peine ?
-
--*who_isimandre
-L'inevitable fin d'une esperance vaine.
-
--*who_florange
-Donnez moy cette fin en celle de mes jours :
-
--*who_isimandre
-Ce poil s'accorde mal avecque ce discours.
-
--*who_florange
-Et ce discours s'accorde mal avec mon advanture⁎ :
-
--*who_isimandre
-Par luy vous renversez l'ordre de la Nature.
-
--*who_florange
-Comment l'entendez vous ? expliquez ce propos :
-
--*who_isimandre
-Songez que la vieillesse a besoin de repos.
-
--*who_florange
-L'âge dont vous parlez n'a rien qui soit infame :
-
--*who_isimandre
-Mais l'Amour est aveugle, & la fortune est femme.
-
--*who_florange
-Desja depuis long-temps j'en ay senty les coups :
-
--*who_isimandre
-Vous en verrez bien tost de plus heureux que vous.
-
--*who_florange
-Ne pouvant l'empescher, il faudra m'y resoudre :
-
--*who_isimandre
-Que votre œil se prepare à voir tomber la foudre.
-
--*who_florange
-Que je ne meure point d'un coup inopiné ;
-Orante vient icy ;
-
--*who_isimandre
-      Vous l'avez deviné.
-Approche mon espoir,
-
-**** *book_ *id_IV09 *act_IV *date_1635 *creator_scudery
-
--*who_orante
-      Fuyons, fuyons ma vie ;
-Nostre heur⁎ est assez grand, pour exciter l'envie.
-
--*who_isimandre
-Nous la tenons captive, elle est prise en ces lieux,
-
--*who_orante
-Ha ! chassez ce phantosme il desplait à mes yeux.
-
--*who_florange 
-Que par l'ombre du bien l'ame est souvent trompée :
-
--*who_isimandre
-Allez, retirez vous, reprenez vostre espée,
-Et sur vos passions ayez plus de pouvoir :
-
--*who_florange
-Je meurs de voir Orante, & de ne la plus voir.
-
--*who_isimandre
-Icy la diligence⁎ est bien fort necessaire ;
-Ce vieux monstre amoureux, ce debile⁎ adversaire,
-Va chercher du secours, & nous serons suivis,
-Si tost que de ma route on aura quelque advis⁎.
-Clindor, volle devant, & forme une chimere,
-Qui puisse trouver place en l'esprit de mon pere ;
-Dis luy qu'ayant quitté le logis paternel,
-Je me suis repenty de me voir criminel,
-Et que par mes douleurs jugeant de sa souffrance,
-J'ay rompu le dessein d'un voyage de France ;
-Dis luy que deux Guerriers m'ont tiré du danger,
-Où mettent les voleurs l'un & l'autre estranger,
-Dis luy que je les meine, & qu'il fasse connoistre,
-En les bien recevant, la grandeur de mon estre ;
-La blessure que j'ay prouvera ton discours ;
-Mais les meilleurs conseils sont icy les plus cours ;
-Donne viste un cheval, que j'enleve ma proye ;
-Elle vaut mieux qu'Helene, & Naples moins que Troye ;
-Et premier que je rende un bien que j'ay vollé,
-Brusle comme mon cœur mon païs desolé.
-
-**** *book_ *id_IV10 *act_IV *date_1635 *creator_scudery
-
--*who_ormin
-La belle invention ! ô Dieux qu'elle est subtile !
-
--*who_palinice
-Mensonge bien pensé ! mais pourtant inutile.
-
--*who_ormin
-Tousjours vostre chagrin se plaist à me fascher :
-
--*who_palinice
-Orante est en vos mains, que sert de la cacher ?
-
--*who_ormin
-Mon esprit affligé n'entend point raillerie :
-
--*who_palinice
-Est elle au cabinet, ou dans la gallerie ?
-
--*who_ormin
-Vous qui la retenez pouvez m'en esclaircir:
-
--*who_palinice
-Un dessein descouvert ne sçauroit reüssir.
-
--*who_ormin
-Vous me croyez aveugle, & j'ay fort bonne veuë :
-
--*who_palinice
-Je ne m'estonne⁎ point, sa perte estoit preveuë.
-
--*who_ormin
-Votre ruse paroist plus claire que le jour.
-
--*who_palinice
-Votre haine descouvre, & fait voir vostre amour.
-
--*who_ormin
-Descouvre mon amour ! pour qui ? pour ma parente ?
-
--*who_palinice
-Vous n'aimez pas le sang, mais la beauté d'Orante.
-
--*who_ormin
-Et bien ; soit ; il est vray ; mais je la veux avoir :
-
--*who_palinice
-Puis qu'elle est en tes mains, perfide, va la voir.
-
--*who_ormin
-Ha ! ne contestez plus, rendez la moy, vous dis-je :
-Quoy ! vous n'en ferez rien ?
-
--*who_lucinde
-      O bons Dieux, quel prodige⁎ :
-Page, secourez moy, je ne le puis tenir :
-
--*who_palinice
-Ciel ! peux-tu voir son crime, & ne le pas punir ?
-
-**** *book_ *id_IV11 *act_IV *date_1635 *creator_scudery
-
--*who_florange
-Si vous cherchez Orante, elle n'est plus à Pise :
-Et ses charmes ont pris un Amant qui la prise.
-Isimandre l'emmene, apres m'avoir vaincu :
-
--*who_lucinde
-Pour avoir moins de maux, que n'ay-je moins vescu !
-
--*who_ormin
-Resolvons nous mon cœur, ma perte est assurée ;
-Orante la procure, & le Ciel l'a jurée ;
-Un autre la possede : ô penser assassin !
-Jamais volleur ne fit un si riche larcin.
-Bien-heureux Isimandre, en cette douce guerre,
-Tu pilles les thresors du Ciel & de la Terre ;
-Ce fameux Conquerant, qu'on a fait immortel,
-Prit l'Univers entier, & ne prit rien de tel.
-Mais quand Naples seroit en ces Plages desertes,
-Qui par les Matelots ne sont pas descouvertes ;
-Quand tu la cacherois en ces lieux retirez,
-Que les rayons du jour n'ont jamais esclairez ;
-Quand tu te logerois au milieu d'une armée ;
-Quand tu disparoistrois comme un corps de fumée ;
-Quand tu pourrois voller, perfide assure toy,
-Que tu me la rendrois, Leriste suivez moy.
-
--*who_lucinde
-O combien d'accidents⁎ chocquent⁎ nostre famille !
-Ses plus grands ennemis sont aimez de ma fille ;
-Mais j'yray la trouver pour en avoir raison,
-Deust mon pays natal devenir ma prison.
-
--*who_palinice
-Souffrez⁎ en ce dessein que je vous accompagne ;
-Car sans doute qu'Ormin se va mettre en campagne ;
-Mon interest au vostre, icy se meslera :
-
--*who_lucinde
-Pourveu que nous partions, tout ce qu'il vous plaira.
-
--*who_florange
-Comme j'avois des feux, il avoit de la flame :
-L'excez de la douleur m'a fait lire en son ame ;
-Et comme son esprit adoroit mon vainqueur,
-Il n'a pû retenir les sentiments du cœur.
-Sa raison a perdu son ordinaire usage ;
-Sa folle passion s'est peinte en son visage ;
-Ses souspirs ont fait voir en mesme temps au jour,
-Le feu de la colere, & celuy de l'amour.
-L'un & l'autre esclatoit ; l'un & l'autre visible,
-Me l'on fait reconnoistre, amoureux & sensible.
-Et j'ay veu par les pleurs que respandoyent ses yeux,
-Qu'il perdoit comme moy, ce qu'il aimoit le mieux.
-Ouy, j'ay veu clairement quelle est sa maladie :
-L'amour qu'il a pour elle, a fait sa perfidie ;
-Le traistre a fait mon mal, pour establir son bien ;
-Et rompu mon dessein pour achever le sien.
-Ce coup est sans remede,& moy sans allegeance⁎,
-Si je ne la rencontre avecque la vangeance ;
-Ouy, vangeons nous mon cœur des outrages souffers,
-Afin de t'exciter, voy le bien que tu pers ;
-Figure toy les traicts⁎ de la beauté d'Orante ;
-Songe que le perfide a trompé ton attente ;
-Qu'apres t'avoir promis il t'a manqué de foy⁎ ;
-Te ravissant un bien qu'il reservoit pout soy ;
-Voudrois tu le souffrir⁎ ? responds à ma demande ?
-Non, non qu'il soit puny puis qu'Amour le commande.
-Vangeant la foy⁎ rompuë, & qu'il eut à mespris,
-Qu'il n'ait point de retour au voyage entrepris.
-Suivons, suivons ses pas, & loing de la patrie,
-Faisons agir la force avecque l'industrie⁎ ;
-Deux BRAVES employez seconderont mes coups ;
-Ce sont là des exploits qui sont dignes de nous.
-Aux combats inégaux la victoire est certaine ;
-Quand on veut rompre en lice, ou courre à la quintaine
-L'egalité sied bien, car elle est sans danger :
-Je ne veux point mourir, je cherche à me vanger.
-Je veux choisir le temps, & le moyen propice ;
-Je veux qu'il tombe seul dedans le precipice ;
-Je veux qu'apres sa perte, en perdant les tesmoins,
-Je sois celuy de tous qu'on en soupçonne moins.
-Ha ! je nâge desja dans le sang du perfide ;
-J'obeïs au courroux, je n'en tiens plus la bride ;
-Il m'emporte, il m'entraine, il me force à courir,
-Je te suy, je te tiens, Ormin, il faut mourir.
-
-**** *book_ *id_V01 *act_V *date_1635 *creator_scudery
-
--*who_isimandre
-CARTEL⁎.
-Isimandre, Orante trompée,
-
-Oblige Ormin à te punir ;
-Je t'attends avec une espée,
-Souviens toy que tu dois venir.
-Si tu satisfais mon envïe,
-Autre que moy ne te nuira :
-Viens m'oster, ou perdre la vie,
-Où ce Page te conduira.
-
-Dures extremitez, où le destin m'engage :
-Amour oste le cœur, & non pas le courage⁎ :
-Si je fais ce combat, je hazarde mon heur⁎,
-Et j'en serois indigne, en vivant sans honneur⁎ :
-Ha ! mon affliction n'a rien qui la console.
-Où me dois tu mener ?
-
--*who_leriste
-      Du costé de Pouzzole.
-Mais sans vous designer espressément le lieu,
-Je vous y conduiray,
-
--*who_isimandre
-      Je le veux bien ; adieu.
-Separons nous, je crains que mon pere ne sorte :
-Je te suy pas à pas, va m'attendre à la porte.
-Tousjours l'homme est subjet aux caprices du sort ;
-Et son premier repos est celuy de la mort.
-Si tu donnes ta vie au danger qui la presse,
-Amant infortuné, que fera ta Maistresse ?
-Quoy ! la veux tu laisser souz un habit trompeur ?
-Ne mourra-t'elle pas ? n'en as tu point de peur ?
-Veux tu que sans support⁎ elle soit (vagabonde)
-L'oppobre, le mespris, & la fable du monde ?
-O dangereux voisins, temeraires Gaulois.
-Dont les mauvaises mœurs ont perverty nos loix,
-Que par vous mon esprit souffre une peine amere,
-Suivant ce point d'honneur qui n'est qu'une Chimere !
-Il le faut cependant ; le destin l'a voulu,
-Mon honneur le commande, & j'y suis resolu,
-Ha ! voicy mon Orante, & mon ame contrainte,
-Aura peine à cacher sa douleur & sa crainte :
-Mais je luy veux donner un conseil au besoing⁎,
-Afin si je peris que quelqu'un en ait soing.
-Veux-tu pas te resoudre à parler à mon pere ?
-Tu sçais bien comme un cœur souffre quand il espere.
-Le danger nous tallonne, & le mal va croissant ;
-Fais agir sur le sien ton esprit tout puissant :
-Force-le par raison, fléchy-le par des larmes,
-Une ame de rocher cederoit à ces armes ;
-Fay combattre pour toy l'amour & la pitié,
-Et fay lui voir qu'Orante a pris son amitié⁎.
-Quitte cette pudeur, elle nous est contraire ;
-Ressuscite Isimandre, & fay mourir son frere ;
-Que ce nom desormais soit banny d'entre nous ;
-Veux-tu pour l'obtenir que je sois à genous ?
-
-**** *book_ *id_V02 *act_V *date_1635 *creator_scudery
-
--*who_orante 
-Cruel, que ne fais tu ce que ta voix m'ordonne ?
-
--*who_isimandre
-Le Ciel m'a refusé les graces qu'il te donne ;
-Et mon discours n'a point l'art de persuader :
-Helas ! je le vois bien, tu ne veux pas m'aider :
-
--*who_orante
-Charmeur, tes volontez sont tousjours souveraines ;
-Elles tiennent sur moy la qualité de Reines.
-
--*who_isimandre
-L'espreuve en fera foy ; le voicy, tu le vois,
-Adieu, peut-estre adieu, pour la derniere fois.
-
-**** *book_ *id_V03 *act_V *date_1635 *creator_scudery
-
--*who_poliante
 Dequoy s'entretenoit le brave Cleomire ?
 
--*who_orante
-Des vertus d'un Seigneur que tout le monde admire ;
-De ce fils que le Ciel accomplit de tout point ;
-Et certes ce penser ne m'abandonne point.
-
--*who_poliante
 L'amitié⁎ vous deçoit⁎, ainsi qu'elle m'abuse ;
 Les deffauts d'un amy ne manquent pas d'excuse ;
 L'œil flatte ce qu'il aime, & mon fils n'est parfait,
 Desirant vous servir qu'au vœu qu'il en a fait.
 
--*who_orante
-On ne sçauroit cacher une si belle vie,
-Qui fait parler l'Histoire, & fait taire l'envie.
-Mais comme sa valeur dés ses plus jeunes ans,
-A mis la poudre aux yeux à tous les Courtisans ;
-Et que suivant vos pas aux dangers de l'armée,
-Il a pris bonne part à vostre renommée,
-Vous devriez desormais l'arrester en ces lieux ;
-Songez que la fortune est un monstre sans yeux,
-Et qu'elle peut frapper ceux qu'elle favorise :
-Donnons-luy des desirs que le vostre authorise ;
-Afin que l'arrestant, comme il est à propos,
-Les derniers de vos jours se coulent en repos.
-
--*who_poliante
 Ce que vous proposez est le but où j'aspire ;
 C'est un bien que je cherche, & pour qui je souspire⁎ ;
 Mais je ne trouve point où borner ce desir.
 
--*who_orante
-Peut-estre en cét Himen⁎ voulez vous trop choisir :
-
--*who_poliante
 Nullement ; mon esprit n'a point cette foiblesse :
 Pourveu que la vertu se joigne à la Noblesse,
 Je seray satisfait, je ne cherche point l'or,
 Ces qualitez chez moy tiendront lieu de thresor.
 
--*who_orante
-Vous oubliez un point d'une importance extréme :
-
--*who_poliante
 Quel ?
 
--*who_orante
-      Qu'il aime une fille, & qu'une fille l'aime.
-
--*who_poliante
 Je ne l'oubliois pas, j'y suis trop disposé ;
 Mais estant necessaire, il est presupposé.
 Ces marchez d'interest, sont des maux qu'on doit craindre ;
@@ -2045,20 +1727,10 @@ Et j'aime trop mon fils pour le vouloir contraindre ; 1290
 Aussi loing d'y songer je blasme ces parents,
 Qui peres comme moy deviennent des tirans.
 
--*who_orante
-Et si je vous nommois, une fille estimée ;
-Honneste, noble, riche, & qui plus est, aimée ;
-Y consenteriez vous ?
-
--*who_poliante
       N'en doutez nullement :
 Mais Naples n'en a point, selon mon jugement ;
 Et si vous la sçavez, mon ame est ignorante :
 
--*who_orante
-Jugez si je me trompe, en vous nommant Orante :
-
--*who_poliante
 Orante (a ce qu'on dit) a ces trois qualitez :
 Mais on ne peut finir ce que vous projettez.
 La haine hereditaire (execrable folie ;
@@ -2068,21 +1740,6 @@ A tousjours divisé, les siens, & ma maison.
 Et je ne puis penser, comme sans la connoistre,
 L'amour dont vous parlez auroit jamais pû naistre.
 
--*who_orante
-Il est nay cependant : & s'est bien rendu tel,
-Que d'une part & d'autre il doit estre immortel.
-Les haines des parens sont de foibles obstacles ;
-Et l'Amour est un Dieu, qui se plaist aux miracles.
-Cette vieille querelle a desja trop duré ;
-Elle desplaist au Ciel ; soyez en assuré :
-Il n'assemble les cœurs d'un fils & d'une fille,
-Que pour mettre en repos l'une & l'autre famille.
-Mais pourtant leurs esprits qui sçavent leur devoir,
-Rangent leurs volontez, dessous vostre pouvoir :
-Tous prests de se priver du jour qui les esclaire,
-Plutost que d'achever rien qui vous pust desplaire.
-
--*who_poliante
 Pardonnez Cleomire, à mon estonnement ;
 Mon esprit pense faire un beau songe en dormant.
 Ce que vous m'apprenez est si plein de merveille,
@@ -2094,183 +1751,13 @@ Ma volonté suivra celle des destinées :
 Ouy, dites à ce fils qui vous a fait parler,
 Que j'approuve le feu dont il osa brusler.
 
--*who_orante
-Ha ! formez quelques pas, que j'en baise les traces ;
-Aussi bien que ce fils je vous dois rendre graces :
-C'est moy qui suis ……qui suis ……
-
-**** *book_ *id_V04 *act_V *date_1635 *creator_scudery 
-
--*who_clindor
-      Je viens vous advertir
-Que mon Maistre a querelle, & qu'on l'a veu sortir
-Avec sa longue espée, & sans nul equipage :
-
--*who_poliante
 Quelqu'un le conduit-il ?
 
--*who_clindor
-      Ouy Monseigneur, un Page,
-De livrée inconnuë, & qui nous fait juger,
-Que celuy qui l'envoye, est sans doute Estranger.
-
--*who_orante
-Quelles sont ses couleurs ?
-
--*who_clindor
-      Si mon œil ne s'abuse,
-Incarnat, blanc, & verd :
-
--*who_orante
-      Dieux, que je suis confuse !
-
--*who_poliante
 Que ne le suiviez vous ?
 
--*who_clindor
-      En vain je l'ay tasché ;
-Et contre mon devoir il a paru fasché.
-
--*who_poliante
 Viste, viste, à cheval, qu'on batte la campagne ;
 Empeschons ce duel.
 
--*who_orante
-      Quel mal-heur m'accompagne !
-Sans doute c'est Ormin, car ce Page est à luy.
-Reprenons nos habits, il est temps aujourd'huy ;
-Afin que si du sort les loix me sont fatales,
-Je les puisse changer en celuy des Vestales :
-C'est un port⁎ assuré qui s'offre à ma douleur :
-Mes feux sont eternels aussi bien que le leur.
-
-**** *book_ *id_V05 *act_V *date_1635 *creator_scudery
-
--*who_ormin
-C'est icy que ma main se va remplir de gloire ;
-C'est icy qu'on verra le champ de ma victoire ;
-Icy j'effaceray la marque d'un affront,
-Par la rougeur du sang ostant celle du front.
-Le terrain est fort bon : dans l'ardeur qui me presse,
-Que n'avons nous au moins, entre nous la Maistresse ;
-Pour la faire rester comme un prix amoureux,
-Non pas au plus rusé, mais au plus genereux⁎.
-Afin que le peril plus aisément j'escarte,
-Dois-je porter en tierce ? ou bien plus tost en quarte ?
-Non, par un autre coup, je prepare sa mort,
-Je passeray sur luy, car je suis assez fort.
-
-**** *book_ *id_V06 *act_V *date_1635 *creator_scudery
-
--*who_florange
-Main basse Compagnons:
-
--*who_ormin
-      Que faites vous Florange ?
-
--*who_florange
-Je fais ce que je dois ; je punis, je me vange.
-
--*who_ormin
-Oubliez vous l'honneur⁎ ?
-
--*who_florange
-      Je le trouve à punir,
-Un qui donne sa foy⁎, pour ne la pas tenir.
-
-**** *book_ *id_V07 *act_V *date_1635 *creator_scudery
-
--*who_isimandre
-J'entends un bruit d'espée ; advançons :
-
--*who_leriste
-      Ha ! le traistre ;
-Florange, Monseigneur, assassine mon Maistre :
-
--*who_isimandre
-Je ne sçaurois souffrir⁎ ce complot inhumain :
-Le Ciel te destinoit à mourir de ma main ;
-La seconde rencontre, acheve la premiere :
-
--*who_argamor
-Fuyons,
-
--*who_florange
-      Je perds l'espoir, avecque la lumiere.
-
--*who_isimandre
-Le sort pour m'obliger, en ce jour a permis,
-Qu'un ennemy pour vous combat vos ennemis ;
-Afin que l'honneur sauf, sa voix vous fasse entendre,
-Qu'Amour, & la raison ont conduit Isimandre :
-Je suis ce mal-heureux que vous allez cherchant ;
-Vous le voyez soldat, & l'avez veu Marchant.
-
--*who_ormin
-Pour un cœur genereux⁎, les biens-faits ont des charmes ;
-Et vous me desarmez en conservant mes armes :
-Vous venez de me vaincre, en me rendant vainqueur ;
-Au lieu d'en tesmoigner je manquerois de cœur,
-Si je vous disputois une palme obtenuë ;
-Ma colere s'en va comme elle estoit venuë ;
-Elle s'esvanoüit ; & dedans ce moment,
-Vous avez triomphé de mon ressentiment.
-Je connois mon erreur, elle est toute apparente,
-Mais ne vous souvenez que des beautez d'Orante :
-Possedez-la paisible ; & m'accordez ce point,
-(Au nom de vostre amour) de ne me haïr point.
-Bornons enfin le cours d'une haine ancienne,
-Qui perd vostre Maison, & qui destruit la mienne ;
-Faites souscrire un pere avecque mon desir :
-
--*who_isimandre
-Mon ame est dans mes yeux, jugez de son plaisir.
-Je ne puis exprimer les transports de ma joye ;
-Et mon cœur veut s'ouvrir, à dessein qu'on la voye.
-Ouy, Ouy, soyons unis ; mon pere est appaisé ;
-Le chemin de son ame est un chemin aisé ;
-Le repos est un bien que son esprit souhaite :
-Mais Monsieur il est temps de faire la retraite ;
-Naples vous peut revoir, y venant quant & moy :
-
--*who_ormin
-Je marche sans frayeur, marchant sur vostre foy.
-
-**** *book_ *id_V08 *act_V *date_1635 *creator_scudery 
-
--*who_lucinde
-Voyant ce ravisseur, qui passoit dans la ruë,
-J'ay quitté la fenestre, & j'y suis accouruë ;
-Mais comme il se cachoit, de peur d'estre connu,
-Je n'ay sceu dans trois pas, ce qu'il est devenu ;
-Son extréme vistesse a trompé ma poursuite ;
-A peine mes regards ont descouvert sa fuite,
-(Chose qui m'a faschée, & qui l'a resjoüy)
-Qu'en esclair, en phantome, il s'est esvanoüy.
-
--*who_palinice
-Patientez un peu, nous le verrons sans doute :
-Je me mocque d'un mal que vostre esprit redoute ;
-Puisqu'il paroist icy, je le tiens innocent ;
-Vostre fille est sa femme, & son pere y consent :
-Un nouveau possesseur est ardent & fidelle ;
-S'il la tenoit cachée il seroit aupres d'elle ;
-Ces plaisirs dérobez attachent tout le jour ;
-Je la croy plus à luy, puis qu'il a moins d'amour.
-
--*who_lucinde
-Plûst au Ciel que ce mal eust enfin bonne issuë ;
-Et qu'elle fust ainsi que vous l'avez conçeuë ;
-Je me consolerois ; ma fille auroit bien fait ;
-Il est nostre ennemy, mais il est tout parfait.
-
--*who_palinice
-Mettons nous dans ce lieu qui regarde la porte ;
-Nous le descouvrirons, soit qu'il entre, ou qu'il sorte :
-
-**** *book_ *id_V09 *act_V *date_1635 *creator_scudery
-
--*who_poliante
 L'Amitié⁎ m'abusoit ; son conseil estoit faux ;
 En le considerant j'en ay veu les deffaux :
 Si je suivois mon fils, en suivant mon envie,
@@ -2282,64 +1769,25 @@ En voyant son berceau, je vis sa sepulture ;
 Je nasquis pour mourir ; je l'ay fait naistre tel ;
 Mais une belle mort le peut rendre immortel.
 
--*who_clindor
-Cette Philosophie est un peu trop austere :
-
--*who_poliante
 Tu verrois dans mon cœur que je suis homme, & pere :
 J'en ay le sentiment ; mais il est combatu,
 Des armes du discours que preste la vertu.
 
--*who_clindor
-Ha Monsieur le voicy !
-
--*who_poliante
       n'ay-je pas bonne veuë ?
 Mon ame de raison est-elle bien pourveuë ?
 Je reconnois Ormin, ce n'est point une erreur ;
 Je l'ay veu maintes fois aupres de l'Empereur.
 
-**** *book_ *id_V10 *act_V *date_1635 *creator_scudery 
-
--*who_ormin
-Il n'est rien d'eternel en la terre où nous sommes :
-La haine doit finir aussi bien que les hommes ;
-Le merite d'un fils esteignant mon courrous,
-Je viens vous assurer que je suis tout à vous.
-
--*who_poliante
 Dans l'accommodement ainsi qu'à la Victoire,
 Qui marche le premier, a la premiere gloire ;
 Mais puis que vos bontez me la veulent ravir,
 Je garderay pour moy celle de vous servir.
 
-**** *book_ *id_V11 *act_V *date_1635 *creator_scudery
-
--*who_lucinde
-J'ay ma part à la paix aussi bien qu'à la guerre :
-Je crois avoir acquis le reste de la terre,
-Puisque par cét accord on me donne pouvoir,
-D'habiter un païs que je n'osois revoir.
-
--*who_poliante
 Madame, esperez tout de mon obeïssance ;
 Naples que je gouverne est en vostre puissance ;
 Et tant que j'y seray, vostre commandement,
 Aura tousjours le droict d'agir absolument.
 
--*who_ormin
-Oublions le passé (mon cœur) je t'en conjure :
-
--*who_palinice
-Vostre seul repentir efface mon injure.
-
--*who_isimandre
-Vous qui pouvez donner à mon cœur amoureux,
-La fortune prospere, ou le sort mal-heureux,
-Si vous avez pitié de me voir dans la flame,
-Commandez à ce corps d'aller querir son ame.
-
--*who_poliante
 Il parle d'un Amy que la sienne cherit.
 Allez ; qu'il vienne voir comme le Ciel nous rit :
 Jamais deux volontez ne furent mieux unies ;
@@ -2347,48 +1795,14 @@ Leur accord va passant toutes les harmonies ;
 Chaque jour l'un à l'autre ils parlent en secret ;
 Et la nuit les separe avec bien du regret.
 
--*who_ormin 
-Je me doute à peu pres quel amy ce peut estre :
-Ha ! sans faute c'est luy, car je le voy paroistre ;
-Mais souz un autre habit que vous ne l'avez veu :
-
--*who_poliante
 Quel prodige⁎ nouveau m'attaque à l'impourvueu ?
 
-**** *book_ *id_V12 *act_V *date_1635 *creator_scudery
-
--*who_isimandre
-Madame, je vous rends un bien inestimable ;
-Moy seul ay fait la faute, elle n'est point blamable :
-
--*who_lucinde
-Pour l'amour d'Isimandre il faut luy pardonner :
-Et je ne la reprens que pour vous la donner,
-
--*who_orante 
-Mon silence, & mon teint vous parlent de ma honte :
-
--*who_lucinde
-Soyez desormais sage, ayant esté trop prompte :
-Oubliant le passé qui ne nous sert de rien,
-Ne parlons plus d'un mal qui nous produit un bien.
-
--*who_ormin
-C'est de vous maintenant que ce couple fidelle,
-Attend une faveur qu'il vient de prendre d'elle :
-Monsieur, soyez bon pere en exauçant leurs vœux :
-
--*who_poliante
 Ce brave Cavalier sçait bien que je le veux.
 Sous l'un & l'autre habit esgalement j'admire,
 Tantost la belle Orante, & tantost Cleomire ;
 Mon cœur n'est pas un bien que je donne à demy ;
 Je l'aime comme fille, & l'aimois comme amy.
 
--*who_orante
-Et je vous serviray pour tous les deux ensemble :
-
--*who_poliante
 On ne peut separer ce que le Ciel assemble.
 Il a certains ressorts qu'on ne peut descouvrir :
 C'est un livre fermé qu'on ne sçauroit ouvrir :
@@ -2401,3 +1815,119 @@ Une amour sans froideur, comme sans jalousie ;
 Et pour comble de joye, & de prosperité,
 Des Enfans aussi bons que vous l'aurez esté.
 FIN.
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clindor
+
+Nerine, qu'à propos je vous ay rencontrée !
+Vous pouvez au Chasteau me donner libre entrée ;
+Mon maistre vous en prie, & l'Amour comme luy,
+Demande que vos soins l'assistent aujourd'huy.
+
+Il desire la mort ; il maudit sa naissance ;
+Il accuse le sort ; il attaque les Cieux ;
+Et croit que pour pleurer Nature fit les yeux.
+Son ame suit Orante, & n'a point d'autre idée ;
+Son feu ne peut souffrir celuy de Celidée ;
+Il croit qu'aupres de l'œil, dont le sien est espris,
+Une Desse mesme, est digne de mespris.
+Il rend les Bois tesmoings de son inquietude,
+Son unique recours est en la solitude ;
+C'est là, que librement dans le mal qui le point :
+Il se plaint à l'Amour, qui ne le quitte point,
+C'est là que ce grand Dieu luy dicta les pensées,
+Que garde ce papier, que sa main a tracées ;
+Et qu'il adresse aux yeux qui luy font endurer
+Un mal si violent, qu'il ne sçauroit durer.
+
+J'ose tout, je fais tout, pour servir Isimandre.
+
+Il faut que je m'advance à la chambre voisine :
+Quel prodige⁎ est-ce-là ? que faites vous Nerine ?
+
+      O funeste message !
+
+Juste Ciel, je voudrois dans le mal qui me touche,
+Qu'un silence eternel me vint fermer la bouche :
+
+      Orante ne vit plus,
+Elle a voulu mourir, plustost qu'aller au change⁎ ;
+Elle vous adoroit, & n'aimoit point Florange,
+Que le pouvoir d'Ormin luy donnoit pour Espous ;
+Enfin, que vous diray-je, elle est morte pour vous.
+Et trouvant un remede aux rigueurs de ses peines,
+Sa generosite s'est fait coupper les veines :
+Ce tragique Tesmoing vous dira mieux que moy,
+Quelle fut son amour, sa constance⁎, & sa foy⁎.
+
+J'en sçay bien le chemin, quittez nous seulement.
+
+Ouvrons nous par sa mort le chemin du bon-heur ;
+
+Monsieur, que faites vous ?
+
+Monsieur, punissez-le du travail qu'il vous donne ;
+
+Deschargez vous sur moy du poids de cette affaire ;
+J'auray par mon travail la fin de vos travaux ;
+Allez vous reposer aupres de nos Chevaux ;
+Mais de peur qu'il ne parle, il faut garder ce traistre ;
+
+Cachez vous dans le bois, & soyez sans effroy :
+
+Si vous me voyez seul, qu'il ne vous semble estrange ;
+Mon Maistre par mal-heur a rencontré Florange ;
+Mais souffrez⁎ en fuyant la colère d'Ormin,
+Que ce discours se fasse avec nostre chemin.
+
+Et vainqueur, & blessé, mais fort legerement ;
+Quelqu'un nous surprendra, sauvons nous vistement.
+
+      Je viens vous advertir
+Que mon Maistre a querelle, & qu'on l'a veu sortir
+Avec sa longue espée, & sans nul equipage :
+
+      Ouy Monseigneur, un Page,
+De livrée inconnuë, & qui nous fait juger,
+Que celuy qui l'envoye, est sans doute Estranger.
+
+      Si mon œil ne s'abuse,
+Incarnat, blanc, & verd :
+
+      En vain je l'ay tasché ;
+Et contre mon devoir il a paru fasché.
+
+Cette Philosophie est un peu trop austere :
+
+Ha Monsieur le voicy !
+
+
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindoman
+
+Quoy Monsieur, doutez vous, d'un bon-heur asseuré ?
+Vos yeux verront bientost ce que j'ay tant juré ;
+Nous approchons de Pise ; & dans l'heure où nous sommes,
+Vous vous confesserez le plus heureux des hommes.
+Cét habit de Marchand ravira vos esprits,
+Dans un autre dessein que vous ne l'aviez pris :
+Et sans vous en servir contre vostre adversaire,
+Pour approcher d'Orante, il vous est necessaire.
+
+La ruse d'un Demon ne verroit pas la nostre :
+Cet habit vous desguise, & vous fait tout un autre ;
+Je vous laissois passer quand vous estes venu,
+Si Clindor par malheur ne m'eust pas reconnu.
+Je vay marcher devant, afin qu'on ne soubçonne;
+Venez droit au Chasteau sans parler à personne ;
+Clindor vous conduira dans son Apartement :
+
+En faisant mon devoir, j'ay pris ma recompense.
+
+Madame, assurez vous qu'il ne sçauroit tarder.
+
+Il est si fort changé, que ce n'est plus luy mesme :
+Sous l'habit d'un Marchand qui cache ses appas⁎,
+Vous qui l'avez au cœur ne le connoistrez pas.
+
+Je l'apperçoy Madame, & Clindor le conduit.
+

@@ -1,1491 +1,855 @@
 
 
-**** *book_ *id_I01 *act_I *date_1692
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
--*who_marton
-Que demandez-vous ici, Monsieur ?
-
--*who_clitandre
 Ce que je demande, Marton ?
 
--*who_marton
-Comment, Marton !
-Vous me connaissez donc, à ce que je vois ?
-
--*who_clitandre
 Si je te reconnais ?
 
--*who_marton
-Hé !
-C'est vous, Monsieur Clitandre ?
-Vous étiez Abbé dans le temps que nous nous sommes vus à Paris, vous voilà maintenant Officier.
-Qui vous eut reconnu ?
-Quelle métamorphose !
-
--*who_clitandre
 Je n'ai changé que d'habit, mon enfant, et j'ai toujours eu de bonnes inclinations, comme tu sais ?
 
--*who_marton
-Vous étiez un éveillé petit-collet : je ne sais pas ce que vous êtes avec une épée.
-
--*who_merlin
-Oh diable !
-Il est devenu bien plus modeste ; le petit-collet l'avait gâté, il faisait comme les autres.
-
--*who_marton
-Vous êtes de notre nouvelle garnison, apparemment ?
-
--*who_clitandre
 Oui, mon enfant.
 
--*who_marton
-Hé, que venez-vous faire dans ce logis ?
-Est-ce à moi que vous rendez visite ?
+Il faut te parler naturellement, Marton. Le jour que nous prîmes possession de la Ville, en passant à la tête du Régiment, je te vis à la fenêtre avec une jeune personne.
 
--*who_clitandre
-Il faut te parler naturellement, Marton.
-Le jour que nous prîmes possession de la Ville, en passant à la tête du Régiment, je te vis à la fenêtre avec une jeune personne.
-
--*who_marton
-Je n'avais garde de vous reconnaître.
-
--*who_clitandre
 Elle me parut toute charmante ; et depuis ce moment, je cherche l'occasion de te parler ; heureux si quand cette place est notre conquête, le cœur de ton adorable Maîtresse pouvait devenir la mienne.
 
--*who_marton
-Comment diantre !
-Vous êtes aussi prompt à prendre l'amour, qu'à prendre des Villes, Monsieur.
-
--*who_clitandre
 Ne t'effarouche point, Marton, n'est point à cause de notre connaissance seulement que je veux que tu t'intéresses pour moi ; commence par prendre ces dix louis, je te prie.
 
--*who_marton
-Ah !
-Monsieur…
-
--*who_clitandre
 Prends, Marton.
 
--*who_marton
-Non, Monsieur, je ne suis point intéressée.
-
--*who_merlin
-Ma foi, Monsieur, cela vaut davantage ; nous sommes ici de nouveaux débarqués ; il faut un peu payer sa bienvenue : mettez trente pistoles ; comme elle n'est pas intéressée, elle en prendra plutôt trente que dix.
-
--*who_clitandre
 Merlin n'en sera pas dédit, voilà trente louis, ma chère Marton, accepte-les, je t'en conjure.
 
--*who_marton
-En vérité, Monsieur, ce n'est pas sans répugnance ; mais, si je faisais trop la fière, vous me croiriez l'humeur espagnole, je prends votre argent pour vous obéir.
-Vous faites si bien les choses, vous autres Français, qu'il n'y a pas moyen de s'en défendre.
-
--*who_merlin
-Elle n'est pas intéressée, assurément.
-Hé, à quoi bon tout ce mystère, mon enfant, ne sait-on pas qu'il faut que chacun vive ?
-
--*who_clitandre
 Je n'en demeurerai pas là, ma chère Marton, et je prétends…
 
--*who_marton
-Vous en userez comme il vous plaira, Monsieur, vous êtes le maître.
-
--*who_merlin
-Qu'elle est complaisante !
-
--*who_marton
-Que puis-je faire pour votre service, voyons ?
-Quoique Flamande, j'ai les inclinations tout à fait Françaises ; j'ai demeuré si longtemps à Paris, j'ai sucé les mœurs du pays, je suis bonne Princesse ; et je puis dire sans vanité, que j'ai fait mon apprentissage chez une des plus habiles coquettes qui fût au monde.
-Car voyez-vous, Monsieur, quand on n'a point de bien, il faut se faire un talent.
-Paris passe pour être la source des Sciences, et c'est là que j'ai puisé le secret de manier adroitement une intrigue ; c'est là que j'ai appris à m'acquitter avec succès des petites commissions que l'on me donne, et à me rendre capable de soutenir la confidence d'une fille de dix-huit ans : aussi peut-on dire, à ma gloire, que je suis la personne de Flandres qui a le plus de réputation.
-
--*who_merlin
-On n'est pas malheureux, Monsieur, de retrouver ses anciennes connaissances.
-
--*who_marton
-Çà, de quoi s'agit-il ?
-Voyons.
-
--*who_clitandre
 Il s'agit de me bien mettre dans l'esprit de ta belle Maîtresse, de purger son âme de cette prévention naturelle qu'ont toutes les personnes de ce pays-ci contre les manières Françaises, et de la rendre enfin sensible à ma tendresse, Marton.
 
--*who_marton
-Ah, que vous me proposez-là une chose difficile, Monsieur !
-
--*who_merlin
-Comment difficile ?
-Oh, rend donc l'argent.
-
--*who_clitandre
 Ma chère Marton…
 
--*who_marton
-Ce qui m'embarrasse, c'est qu'il y a ici un certain Espagnol, qui depuis deux ans est amoureux de ma maîtresse.
-
--*who_merlin
-Cela est fort embarrassant.
-Il sera bien difficile à un Français de faire déguerpir un Espagnol, n'est-ce pas ?
-
--*who_marton
-Mais par-dessus tout cela, nous avons une demi vieille Tante, des plus Coquettes dans le fond, et en apparence d'une sévérité à faire enrager toute une Garnison.
-
--*who_merlin
-Quoi, tu as fait ton apprentissage à Paris, et tu t'embarrasses d'une Tante ?
-
--*who_clitandre
 Ma pauvre Marton ?
 
--*who_marton
-Voici ma maîtresse et la vôtre.
-
--*who_clitandre
 Est-elle adorable, Marton !
 
--*who_marton
-Allez faire un tour de jardin, je vais lui parler de vous ; venez nous aborder dans quelques moments.
-Je crois que vos affaires n'iront pas tout à fait mal, puisque je m'en mêle.
+Madame, c'est ici une de ces aventures qui déconcerte un Cavalier. J'ai trop de choses à vous dire pour être en état de vous parler ; et comment oser vous apprendre dans une première conversation, que mon cœur sent pour vous tout ce que vous êtes capable d'inspirer ? Non, Madame, je crains trop de m'attirer votre colère : mais je prie instamment Marton d'être auprès de vous l'interprète de ma tendresse.
 
--*who_merlin
-Les tiennes sont toutes faites, Marton ; si tu réussis je t'épouserai.
-
--*who_marton
-J'ai bien affaire de toi, vraiment.
-Va, va, j'aime mieux trente louis bien comptés que tous les maris du monde.
-
-**** *book_ *id_I02 *act_I *date_1692
-
--*who_angelique
-Marton ?
-
--*who_marton
-Mademoiselle.
-
--*who_angelique
-Que veut ce jeune homme à qui vous parliez, Marton ?
-
--*who_marton
-Rien, Mademoiselle.
-Nous nous sommes reconnus, je l'ai vu autrefois à Paris.
-La peste, qu'il y faisait bonne figure !
-C'est un Seigneur tout des plus riches, et avec cela fort honnête homme.
-
--*who_angelique
-Je ne l'ai vu que de fort loin, mais cela m'a paru sur son visage.
-
--*who_marton
-Sa physionomie ne trompe point, il vient de me donner trente pistoles.
-
--*who_angelique
-Trente pistoles, Marton !
-Et dans quelle vue ?
-
--*who_marton
-Dans la vue de me faire plaisir.
-Il voit que je suis une pauvre fille, dont la fortune et la patrie sont exposées aux insultes des gens de guerre : la compassion l'a touché pour moi vivement.
-Il m'a donné trente pistoles.
-
--*who_angelique
-Cela est bien louable.
-Les Français ont les manières nobles, Marton.
-
--*who_marton
-Par ma foi, l'on en dira ce qu'on voudra, mais je ne saurais trahir mon cœur, cette Nation-là me plaît plus qu'une autre, ce sont des gens de bon commerce.
-Mais votre Don Julien, depuis deux ans qu'il vous fait la cour, n'a pas eu l'honnêteté de me faire le moindre petit présent.
-Avec ces sortes d'animaux-là, quel plaisir a-t-on de servir une jolie personne ?
-
--*who_angelique
-C'est donc parce que vous êtes à moi, Marton, que ce jeune officier…
-
--*who_marton
-Je ne vous dis pas cela.
-Je veux seulement vous faire comprendre que les Français ont les manières plus insinuantes que les Espagnols ; c'est un fond de galanterie inépuisable, un abord civil et touchant, du respect sans bassesse, de la délicatesse dans la conversation ; fiers au combat, et soumis près des Dames, ils semblent également faits et pour l'amour, et pour la guerre.
-
--*who_angelique
-Les trente pistoles vous rendent éloquente.
-Vous faites leur panégyrique, Marton ?
-
--*who_marton
-Hé, ne pensez-vous pas comme moi ?
-Que de façon !
-Vous étiez à votre fenêtre le jour que leurs Troupes entrèrent dans la Ville.
-Presque tous leurs Officiers vous parurent bien faits ; vous louiez la taille de celui-ci, l'air et la démarche de celui-là ; et qu'il vous en souvienne, vous me dites le soir en confidence qu'il y en avait un que vous aviez plus remarqué que les autres.
-
--*who_angelique
-Ma pauvre Marton, ne me trahis point, c'est celui qui te parlait tout à l'heure.
-
--*who_marton
-Serait-il possible ?
-
--*who_angelique
-Il n'est que trop vrai pour moi, ma chère Marton.
-
--*who_marton
-Oh, par ma foi, j'en suis bien aise.
-
--*who_angelique
-Marton…
-
--*who_marton
-Puisqu'il est ainsi, j'ai à vous dire, que s'il vous plaît, vous ne lui plaisez pas moins ; et ce n'est que pour vous le dire, que je l'ai fait demeurer dans le jardin.
-
--*who_angelique
-Mais si l'on vient à savoir que j'aime déjà un Français, que dira-t-on dans la Ville ?
-
--*who_marton
-On dira que vous êtes de bon goût.
-Que pourrait-on dire autre chose ?
-C'est à bonne intention une fois ; et croyez-moi, vous êtes jeune, ne contraignez point votre cœur, si vous voulez faire un tendre usage de vos beaux jours.
-Un Français est justement ce qu'il vous faut pour cela, je vous en avertis.
-
--*who_angelique
-Mais ma Tante ?
-
--*who_marton
-Votre Tante : oh nous ne prendrons point ses avis là-dessus.
-Elle n'est pas tellement Espagnole, qu'elle ne s'accommodât d'un Français, aussi bien qu'une autre, mais il n'y aura pas presse à lui en conter.
-Écoutez votre nouvel amant, le voici qui approche ; quelqu'un lui aura dit que votre Tante est sortie ; il est Français, il sait profiter de l'occasion.
-
-**** *book_ *id_I03 *act_I *date_1692
-
--*who_clitandre
-Madame, c'est ici une de ces aventures qui déconcerte un Cavalier.
-J'ai trop de choses à vous dire pour être en état de vous parler ; et comment oser vous apprendre dans une première conversation, que mon cœur sent pour vous tout ce que vous êtes capable d'inspirer ?
-Non, Madame, je crains trop de m'attirer votre colère : mais je prie instamment Marton d'être auprès de vous l'interprète de ma tendresse.
-
--*who_angelique
-Monsieur, je ne suis pas tout à fait surprise du premier compliment que vous me faites.
-Je reconnais à vos manières cette galanterie Française, dont j'avais entendu parler : vous croiriez faire un crime d'aborder une femme sans lui parler d'amour ; mais comme vous êtes nos vainqueurs, je dois craindre de vous irriter par ma réponse.
-Marton voudra bien la faire pour moi.
-
--*who_marton
-Vous me faites donc l'un et l'autre votre Plénipotentiaire absolue : et par ma foi vous avez raison.
-Les grandes phrases sont embarrassantes, oui ; et l'on ne traite plus l'amour par compliment, cela durerait trop.
-Vous dites à Monsieur qu'il est votre vainqueur ; par exemple, il vous répondrait bien, s'il voulait, que c'est lui qui se trouve le vaincu : là-dessus vous lui feriez connaître qu'il a poussé sa victoire plus loin qu'il ne s'imagine.
-À cela, il dirait quelque chose, apparemment ; sur quoi vous ne vous tairiez pas, sans doute.
-À quoi tout cela vous mènerait-il ?
-Abrégeons les choses.
-Dites à Mademoiselle que vous l'aimez : répondez à Monsieur que vous ne le haïssez pas.
-Voilà sans tant de préambule le résultat qu'aurait la conversation, n'est-ce pas ?
-
--*who_merlin
-Tudieu, que ces Flamandes sont expéditives !
-
--*who_clitandre
 La désavouerez-vous de la réponse qu'elle vous fait faire.
 
--*who_angelique
-Vous fait-elle dire ce que vous pensez, et le penserez-vous toujours ?
+Ah ! Quand on est faite comme vous, peut-on penser qu'il y ait des infidèles au monde ? Pour moi…
 
--*who_merlin
-Ah !
-Je vous jure…
-
--*who_angelique
-Les Français ont la réputation d'être inconstants.
-
--*who_merlin
-Oh !
-Madame, nous ne sommes pas Français par cet endroit-là nous autres.
-
--*who_clitandre
-Ah !
-Quand on est faite comme vous, peut-on penser qu'il y ait des infidèles au monde ?
-Pour moi…
-
--*who_marton
-Hé bien, tenez, vous retombez dans la bagatelle.
-Halte-là, s'il vous plaît, et venons au fait.
-Voici une affaire qu'il faut brusquer.
-Premièrement en amour comme en guerre, les Français aiment les impromptus, Mademoiselle.
-
--*who_angelique
-Mais comment ferons-nous, Marton, pour faire consentir ma Tante à ce mariage ; car sans elle…
-
--*who_marton
-Il faut trouver moyen de la tromper, et vous débarrasser de votre Espagnol.
-Et ce ne sont pas là de petites affaires, les Espagnols gardent mieux les femmes que les Villes.
-
--*who_merlin
-Oui, mais s'il y a des Français pour prendre leurs Villes, il y a des Martons pour enlever leurs femmes.
-
--*who_marton
-Chacun a ses petits talents dans ce monde.
-
--*who_clitandre
 Emploie les tiens pour nous servir, ma chère Marton.
 
--*who_marton
-Oh !
-Je n'y épargnerai rien, je vous en assure.
-Il faut que la tante vous donne la moitié de son bien, premièrement.
-
--*who_angelique
-Il ne faut point espérer cela, Marton.
-
--*who_marton
-Il faut qu'elle le fasse, vous dis-je, il n'y a rien de plus juste.
-Elle a déjà quarante ans, supposons qu'elle jusqu'à quatre-vingt ; comme elle a fait la moitié de sa carrière, il ne lui faut plus que la moitié de son bien pour achever l'autre.
-
--*who_clitandre
 Hé, ne plaisante point, Marton, je t'en conjure.
 
--*who_marton
-Je ne plaisante point, cela sera, vous dis-je.
-Je lui donne quatre-vingts années à vivre, a-t-elle lieu de se plaindre ?
+Tu vois le chef de la famille, mon enfant, c'est moi qui suis le grand Merlin. Va t'informer de moi à Paris, tu apprendras de belles choses. Tout retentit en ce pays-là de mon savoir faire. Faut-il épuiser la bourse d'un vieillard avare, pour fournir aux dépenses d'un fils prodigue ? C'est Merlin à qui l'on s'adresse. Deux jeunes Amants veulent-ils parvenir au comble de la félicité ? Ils ont recours à Monsieur Merlin. Voit-on des Tantes surannées, attrapées par de jeunes nièces ? C'est Merlin qui a fait le coup. Enfin, mon enfant, je suis à Paris ce que tu es en Flandres, et à l'heure qu'il est, j'ai vingt garçons qui travaillent en mon absence.
 
--*who_merlin
-Il n'y a rien de plus honnête, assurément.
-
--*who_marton
-Mais toi, qui fais là le raisonneur, es-tu bon à quelque chose, parle ?
-
--*who_merlin
-Si je suis bon à quelque chose ?
-Tu n'as qu'à me mettre à l'épreuve, et tu verras si je suis bon à quelque chose.
-Je m'appelle Merlin, afin que tu le saches.
-
--*who_marton
-Quoi !
-Tu es de ces Merlins…
-
--*who_clitandre
-Tu vois le chef de la famille, mon enfant, c'est moi qui suis le grand Merlin.
-Va t'informer de moi à Paris, tu apprendras de belles choses.
-Tout retentit en ce pays-là de mon savoir faire.
-Faut-il épuiser la bourse d'un vieillard avare, pour fournir aux dépenses d'un fils prodigue ?
-C'est Merlin à qui l'on s'adresse.
-Deux jeunes Amants veulent-ils parvenir au comble de la félicité ?
-Ils ont recours à Monsieur Merlin.
-Voit-on des Tantes surannées, attrapées par de jeunes nièces ?
-C'est Merlin qui a fait le coup.
-Enfin, mon enfant, je suis à Paris ce que tu es en Flandres, et à l'heure qu'il est, j'ai vingt garçons qui travaillent en mon absence.
-
--*who_clitandre
 Oh, finissez cette conversation, de grâce ; et songez à trouver l'un et l'autre les plus prompts moyens de nous servir.
 
--*who_marton
-C'est à quoi nous allons songer : mais comme la Tante peut revenir, et que si elle vous trouvait ensemble, cela retarderait l'exécution de vos projets, il faut commencer par vous séparer.
-
--*who_clitandre
 Voilà un commencement bien cruel, Marton.
 
--*who_marton
-Vous en trouverez la fin plus agréable.
-Allez dans votre chambre.
-Et vous, allez vous mettre à l'ombre dans le petit bois du jardin ; il ne faut pas vous éloigner, je prévois que l'affaire sera bientôt expédiée ; et une intrigue, menée par deux illustres comme nous, ne saurait pas longtemps durer.
-
--*who_clitandre
 Quelque peu qu'elle dure, que les moments m'en vont être ennuyeux !
 
--*who_angelique
-Si mon impatience pouvait hâter le succès que vous souhaitez…
-
--*who_marton
-Hé, mort de ma vie, laissez-nous, nous n'avons point de temps à perdre.
-
-**** *book_ *id_I04 *act_I *date_1692
-
--*who_merlin
-Je suis bienheureux, Mademoiselle Marton, d'être employé dans une affaire que vous prenez si fort à cœur.
-
--*who_marton
-Mon bonheur est grand, Monsieur Merlin, d'avoir à travailler sous un personnage de votre mérite, et de votre réputation.
-
--*who_merlin
-Si la chose réussit, c'est à vos lumières que l'on en sera redevable, Mademoiselle Marton.
-
--*who_marton
-Les miennes ont besoin des vôtres ; Monsieur Merlin.
-
--*who_merlin
-Nous travaillerons donc ensemble à frais communs, mon adorable, nous partagerons les soins et les peines, et par conséquent… Au moins, vous avez déjà reçu trente pistoles à bon compte.
-
--*who_marton
-Oh, je suis votre servante, j'ai reçu trente pistoles, je les garde ; c'est sur nouveaux frais qu'on nous emploie : si cela ne vous accommode pas…
-
--*who_merlin
-Mais, vous voyez bien…
-
--*who_marton
-Oh, je vois bien, je vois bien.
-Tiens, mon enfant, point de mésintelligence parmi les alliés, cela fait manquer les entreprises.
-
--*who_merlin
-Je crois parbleu qu'elle a raison.
-Tout coup vaille.
-Allons, mon Maître est galant homme, il fera les choses de bonne grâce.
-
--*who_marton
-C'est le bien prendre.
-
--*who_merlin
-En tous cas, tu me dédommageras d'ailleurs, n'est-ce pas ?
-
--*who_marton
-Songeons d'abord à nos desseins, on verra ce qu'on aura à faire.
-
--*who_merlin
-Sur cet espoir-là, formons notre plan, et sachons ce que nous avons à faire.
-Qu'est-ce que la Tante en question, premièrement ?
-
--*who_marton
-C'est une vieille fille, et de mauvaise humeur, par conséquent.
-
--*who_merlin
-Il faut ôter les miroirs de sa chambre, c'est ce qui la fâche, peut-être.
-
--*who_marton
-Point du tout, elle se trouve fort jolie, et elle ne se changerait pas pour une autre.
-
--*who_merlin
-A-t-elle le goût Français, ou Espagnol ?
-
--*who_marton
-Elle est Espagnole par habitude, mais je la crois Française par raison.
-
--*who_merlin
-Par raison de politique, peut-être ?
-
--*who_marton
-Par raison d'amour.
-Elle veut être mariée, c'est là sa folie ; et c'est ce qui fait qu'elle n'est point fâchée que la Ville ait changé de Maître.
-Les Espagnols réfléchissent trop pour elle, ils se donnaient le temps de la connaître, et à moins qu'on ne l'épouse sans réflexion, elle court risque de n'être jamais épousée.
-Il n'y a qu'un étourdi de Français qui puisse faire la chose.
-
--*who_merlin
-Oui, vous voulez brusquer les noces, Madame notre Tante ; oh, par ma foi, j'en suis fort aise.
-
--*who_marton
-Cela te donne-t-il quelque idée ?
-
--*who_merlin
-Oh, laisse-moi faire, je veux attraper tout son bien, et la faire mourir fille, de plus.
-
--*who_marton
-Voilà de grands desseins, au moins.
-
--*who_merlin
-Ne te mets pas en peine.
-Oui, justement… Un des habits de mon Maître… Un air de Marquis… L'affaire est dans le sac, j'en suis caution, moi.
-
--*who_marton
-À vue de pays, je commence à deviner la chose.
-Tu vas devenir Marquis pour duper la Tante.
-
--*who_merlin
-Cela est admirable !
-Comme les gens du métier pénètrent les choses !
-Venons à l'Espagnol ; quel homme est-ce ?
-
--*who_marton
-Mais, que veux-tu que je te dise, c'est un Espagnol qui s'appelle Don Julien.
-
--*who_merlin
-Quelque Officier, apparemment ?
-
--*who_marton
-Hé, vraiment oui, c'est un officier de notre défunte garnison, justement.
-
--*who_merlin
-Hé, pourquoi n'est-il pas dans le Château comme les autres ?
-
--*who_marton
-Pourquoi ?
-C'est qu'il n'aime pas tant la gloire que sa Maîtresse.
-Il pourrait être tué dans le Château ; au pis aller, il ne sera que marié dans la Ville.
-Il craint plus la mort que le mariage, Merlin.
-
--*who_merlin
-C'est qu'il n'en connaît pas les suites, Marton ; mais, il ne sera ni tué, ni marié, j'en répons ; je vais y mettre ordre.
-Prends seulement soin d'avertir mon Maître de ce que tu devines : pour moi, je me charge du dénouement, laisse-moi faire.
-Voici quelqu'un.
-
--*who_marton
-C'est notre tante, il n'est pas trop à propos qu'elle te voie.
-
--*who_merlin
-Pourquoi non ?
-Cela ne gâtera rien.
-Au contraire, cela fondera la chose, et elle me verra si peu qu'elle ne reconnaîtra pas tantôt mon visage.
-
-**** *book_ *id_I05 *act_I *date_1692
-
--*who_araminte
-Que vous veut ce garçon, Marton ?
-
--*who_marton
-Il ne me veut rien, Madame, c'est vous qu'il demande.
-
--*who_merlin
-Oui, Madame, je venais voir si vous étiez visible ; et puisque je vous vois, je comprends bien que oui ; je vais le dire à mon Maître.
-
--*who_araminte
-Hé, attends, attends, mon enfant.
-Qui est-il ton Maître ?
-
--*who_merlin
-On ne m'a pas chargé d'en dire davantage, Madame ; vous êtes visible, cela suffit, je vais rendre réponse.
-
-**** *book_ *id_I06 *act_I *date_1692
-
--*who_araminte
-C'est le valet de chambre de quelque officier français, Marton ?
-
--*who_marton
-Apparemment, Madame.
-Il ne me l'a pourtant pas dit, mais, je l'ai bien jugé à ses allures.
-
--*who_araminte
-En effet, ces gens-là sont terriblement brusques dans toutes leurs manières.
-
--*who_marton
-Oui, ils ont un certain feu, une certaine vivacité… Il y a bien de la différence du flegme Espagnol à leur étourderie, et nous nous apercevons bien du change, Madame.
-
--*who_araminte
-Les étourdis ne me déplaisent pas : j'aime la vivacité, moi, Marton.
-
--*who_marton
-Les gens de réflexion ne sont pas bons pour vous, vous avez raison.
-
--*who_araminte
-Je ne suis point trop fâchée que les Français soient ici, Marton, nous aurons nouvelle compagnie.
-
--*who_marton
-Ma foi, Madame, je les trouve fort jolis gens, moi, quelque chose qu'on en dise ; et j'ai remarqué qu'il n'y a que les maris de ce pays-ci qui en parlent mal.
-
--*who_araminte
-Ah, ma pauvre Marton !
-
--*who_marton
-Ah, ma pauvre Marton !
-Vous avez quelque chose à me dire ?
-
--*who_araminte
-Je n'ai jamais eu rien de caché pour toi.
-Mais, Marton…
-
--*who_marton
-Quoi !
-Mais ?
-Seriez-vous amoureuse de quelque Français ?
-
--*who_araminte
-Je ne suis amoureuse de personne en particulier.
-
--*who_marton
-Ah !
-J'entends, vous en voulez à toute la Nation, comment diantre !
-
--*who_araminte
-Je veux devenir Française, Marton.
-Si j'ai différé si longtemps à me marier, ce n'a pas été manque de mérite, j'ai toujours eu bon nombre d'adorateurs, tu le sais.
-Je ne me pique pourtant pas d'être belle ; mais, sans vanité, j'ai quelques charmes qui ne sont pas indifférents, non de ces attraits enfantins, comme ma Nièce ; mais, quelque chose d'héroïque et de majestueux.
-N'est-il pas vrai, Marton ?
-
--*who_marton
-Tenez-vous un peu, que je vous voie en face.
-Ah !
-La belle physionomie de femme.
-Tenez, Madame, vous ressemblez à l'Empereur Trajan comme deux gouttes d'eau ; vous avez tous les traits d'un grand personnage.
-
--*who_araminte
-Hé dis-moi, crois-tu que cela soit capable de captiver une liberté Française ?
-
--*who_marton
-Capable, Madame !
-Ils aiment fort les beautés Romaines.
-
--*who_araminte
-Est-il possible ?
-
--*who_marton
-Si vous vouliez seulement vous faire un petit filet de barbe, je répondrais de la chose.
-Attendez, montrez-moi votre main, j'aurai bientôt vu ce qui en arrivera.
-
--*who_araminte
-Est-ce que tu te connais à ces choses-là ?
-
--*who_marton
-Si je m'y connais !
-J'ai été Bohémienne.
-Ah que vous êtes menacée d'une belle fortune, Madame !
-
--*who_araminte
-Comment ?
-
--*who_marton
-Vous serez Marquise, et Marquise Française, avant qu'il soit vingt quatre heures.
-
--*who_araminte
-À quoi vois-tu cela, Marton ?
-
--*who_marton
-À quoi je le vois ?
-Il n'y a rien de plus facile à comprendre.
-Tenez, voyez-vous bien ces deux lignes qui croisent la ligne de vie ?
-Là, vers le milieu.
-
--*who_araminte
-Hé bien ?
-
--*who_marton
-Cela s'appelle des lignes de dignités, Madame, et voilà ce qui vous fera Marquise, cela est sûr ; quand vous ne le voudriez pas, il faudrait que cela fût.
-
--*who_araminte
-J'ai la physionomie de la main tout à fait heureuse, Marton, n'est-il pas vrai ?
-
--*who_marton
-On ne peut pas plus.
-
--*who_araminte
-Mais vraiment, je ne te croyais pas si habile, Marton.
-
--*who_marton
-Vraiment, Madame, je n'ai quitté Paris que parce que j'étais trop habile.
-J'étais accablée de curieux et de curieuses ; de filles qui venaient demander quand elles auraient des maris ; de femmes qui voulaient savoir quand elles n'en auraient plus.
-Je commençais même à passer pour un peu sorcière.
-Ma réputation me faisait des envieux.
-Je me suis dérobée à ma gloire et à la renommée, et j'ai tout quitté de peur de trop faire parler de moi.
-
--*who_araminte
-Je n'avais jamais ouï dire que tu eusses un si beau talent.
-
--*who_marton
-Je ne m'en sers que pour mes amis, l'on ne dit pas tout ce qu'on sait.
-Voilà Don Julien, par exemple, à qui vous voulez donner votre nièce.
-
--*who_araminte
-Hé bien, Don Julien…
-
--*who_marton
-Vous croyez que je vous laisserai faire cette alliance-là, peut-être ?
-
--*who_araminte
-Hé, pourquoi non ?
-Que veux-tu donc dire ?
-
--*who_marton
-Don Julien sera pendu !
-Madame.
-
--*who_araminte
-Don Julien pendu !
-Es-tu folle ?
-
--*who_marton
-Il le sera, vous dis-je, car j'y ai regardé.
-C'est pourtant un fort honnête homme, il mourra innocent : mais pour pendu, il faut qu'il le soit, je l'ai condamné à cela ; et de tous ceux que j'ai pendus en ma vie, il n'en a jamais réchappé un.
-
--*who_araminte
-Je ne le veux plus voir, Marton ; je me garderai bien de lui donner ma nièce.
-
--*who_marton
-Ce sont vos affaires.
-Je vous dis consciencieusement les choses ; mais ne lui en parlez point, Madame, il ne faut pas affliger ce pauvre homme.
-
--*who_araminte
-Ce serait un beau compliment à lui faire, je n'ai garde.
-Que veut ce petit laquais ?
-
-**** *book_ *id_I07 *act_I *date_1692
-
--*who_ricochet
-C'est Don Julien qui vous demande, ma Marraine ?
-
--*who_araminte
-Le petit sot, avec sa Marraine.
-La visite de cet homme m'embarrasse depuis ce que tu m'en as dit, Marton.
-
--*who_marton
-Oh, Madame, il ne faut pas s'effaroucher encore, il ne sera pas pendu si tôt : mais il le sera.
-
-**** *book_ *id_I08 *act_I *date_1692
-
--*who_donjulien
-Vous voyez, Madame, ce que peut l'amour sur un cœur bien fait : c'est lui qui me retient ici quand tous les autres sont dans le Château.
-
--*who_araminte
-Il est vrai que je suis surprise que vous n'y ayez pas passé avec votre Compagnie, Monsieur.
-
--*who_marton
-Avec sa Compagnie, Madame ?
-Il y a deux ans qu'il n'a que trois soldats qui lui servent de laquais et de valet de chambre.
-
--*who_donjulien
-Il est vrai que depuis que je suis dans le service, j'ai perdu bien de mes gens, Madame.
-
--*who_marton
-Les uns sont morts de faim, les autres de peur, et le reste de maladie : n'est-ce pas, Monsieur ?
-
--*who_araminte
-Taisez-vous, Marton.
-
--*who_donjulien
-Quand je fis ma Compagnie, je la fis complète ; elle a duré tant qu'elle a pu.
-Mais parlons sérieusement, Madame, je suis tous les jours à la veille d'être tué sur une brèche.
-
--*who_marton
-Oh, vous êtes trop prudent pour cela.
-
--*who_donjulien
-Avant que m'y exposer, je prétends, en épousant votre nièce, lui assurer tous mes biens, Madame : que deviendraient-ils, si je mourrais garçon ?
-
--*who_araminte
-Lui assurer tous vos biens, Monsieur ?
-
--*who_donjulien
-Oui, Madame, je suis puissamment riche, il m'est dû vingt années de paie, et des millions de récompense.
-
--*who_marton
-La belle ressource pour une veuve !
-
--*who_araminte
-Ah, le pauvre homme !
-
--*who_marton
-Il ne s'attend pas à être pendu.
-
--*who_araminte
-Hé, Monsieur, dans le dérangement des affaires où nous sommes, pouvez-vous songer à des noces ?
-Allez vous renfermer dans le Château, Monsieur.
-
--*who_donjulien
-Je n'aime pas à être enfermé, Madame, et je ne trouve pas qu'un homme de cœur doive se cacher derrière des murailles.
-
--*who_araminte
-Mais enfin, Monsieur…
-
--*who_donjulien
-Mais enfin, chacun a son goût, Madame.
-Pour moi, je ne fais jamais rien d'inutile : si le Château est pris, il en faudrait sortir.
-Est-ce la peine d'y entrer ?
-
--*who_araminte
-Vous méprisez furieusement la gloire, Monsieur.
-
--*who_donjulien
-Je ne la méprise point, mais…
-
--*who_marton
-La gloire n'est pas bonne à voir de près ; Monsieur a raison, elle est trop laide.
-
-**** *book_ *id_I09 *act_I *date_1692
-
--*who_ricochet
-Mademoiselle Marton ?
-
--*who_araminte
-Que veut encore ce petit animal-là ?
-
--*who_ricochet
-C'est Mademoiselle Marton qu'on demande, ma Marraine ?
-
--*who_araminte
-Allez voir ce que c'est, Marton.
-
--*who_marton
-Je m'en doute à peu près, c'est notre homme.
-
-**** *book_ *id_I10 *act_I *date_1692
-
--*who_donjulien
-Hé bien, Madame, conclurons-nous ?
-Je ne puis demeurer ici longtemps encore.
-Ne faites pas perdre à votre nièce les avantages que je lui veux faire.
-
--*who_araminte
-Don Julien, je suis de vos amies ; croiriez-vous un conseil que je vais vous donner en conscience ?
-
--*who_donjulien
-Quel est-il ce conseil, Madame ?
-
--*who_araminte
-Entrez dans le château, s'il est possible, et tâchez de vous faire tuer, je vous en conjure.
-
--*who_donjulien
-Vous moquez-vous de moi, Madame ?
-
--*who_araminte
-Non, je vous parle sérieusement, faites-vous tuer, le plutôt vaut le mieux.
-
--*who_donjulien
-Je n'y comprends rien.
-
--*who_araminte
-Ce n'est pas de votre goût, peut-être ?
-
--*who_donjulien
-Non, par ma foi, Madame, je vous l'avoue.
-
--*who_araminte
-Quel aveuglement !
-Ah le pauvre homme ?
-
--*who_donjulien
-Mais, que veut dire…
-
--*who_araminte
-Je voudrais que vous fussiez mort, et qu'il m'en eût coûté grand-chose.
-
--*who_donjulien
-Vous voulez me faire perdre l'esprit, ou vous le perdez vous-même, Madame.
-
--*who_araminte
-Je perds l'esprit moi, Monsieur, je perds l'esprit ?
-Allez, vous êtes un ingrat qui ne méritez pas les bontés que l'on a pour vous, et dès à présent je romps tout commerce.
-
--*who_donjulien
-Madame…
-
--*who_araminte
-Je vous abandonne à votre mauvaise destinée.
-
--*who_donjulien
-Elle extravague.
-Voyons sa nièce.
-
--*who_araminte
-On lui conseille de se faire tuer de peur d'accident, et il me dit que je perds l'esprit.
-Je ne serai pas fâchée qu'il soit un peu pendu, il a le cerveau mal timbré.
-
-**** *book_ *id_I11 *act_I *date_1692
-
--*who_marton
-Vivat, Madame.
-
--*who_araminte
-Qu'est-ce qu'il y a, Marton ?
-
--*who_marton
-Voilà déjà plus de la moitié de mes prédictions accomplies ?
-
--*who_araminte
-Comment ?
-
--*who_marton
-Préparez-vous, Madame, à recevoir un Marquis de conséquence, qui vient ici vous rendre visite.
-
--*who_araminte
-Est-ce un joli homme, Marton ?
-
--*who_marton
-Si c'est un joli homme !
-C'est un Petit-Maître.
-
--*who_araminte
-Et qu'est-ce que c'est que des Petits-Maîtres ?
-
--*who_marton
-Il y en a de plusieurs espèces ; mais ordinairement ce sont de jeunes gens entêtés de leur qualité, badins, folâtres, enjoués, qui parlent beaucoup et qui disent peu, soupirant sans tendresse, amoureux par conversation, magnifiques sans biens, généreux en promesses, prodigues d'amitiés, inventeurs de modes, et des airs surtout.
-
--*who_araminte
-Hé, de quels airs, Marton ?
-
--*who_marton
-Des airs à la mode.
-L'étourderie d'un écolier, la brusque valeur d'un enfant de Paris, fracas d'équipage, tabatières de quinze différents volumes, gros nœuds d'épée, perpétuel maniement de perruque, distractions continuelles, gestes affectés, éclats de rire sans sujet, mots favoris placés à l'aventure, se piquant d'esprit et de bon goût, et disant quelquefois de bonnes choses par hasard ; grands épouseurs surtout.
-Voilà, Madame, ce que c'est que les Petits-Maîtres.
-
--*who_araminte
-Les jolis gens, Marton !
-Il va en venir ici un, dis-tu ?
-
--*who_marton
-Il est à la porte, Madame, dans son carrosse.
-
--*who_araminte
-Suis-je assez bien pour le recevoir ?
-
--*who_marton
-Vous êtes, qu'on ne peut pas mieux.
-
--*who_araminte
-Aide-moi un peu à ranger mes attraits, Marton.
-Laquais, faites entrer ce Petit Maître.
-
--*who_marton
-Le voici, Madame.
-
--*who_araminte
-Marton, je me meurs : qu'il a bonne mine !
-
-**** *book_ *id_I12 *act_I *date_1692
-
--*who_merlin
-Je me donne au diable, Madame, si je regrette les belles de Paris, puisqu'on trouve en ce pays-ci des adorables comme vous.
-Comment morbleu, elle est toute charmante !
-Oh parsanbleu, je veux faire souche en Flandres, Madame, cela est résolu.
-
--*who_araminte
-Voilà un discours des plus obligeants, Monsieur ; et vous vous exprimez en termes si forts et si énergiques, que je serais fort embarrassée de vous répondre dans le même style.
-
--*who_merlin
-Dans le même style !
-Oui, fort bien, dans le même style, que cela est bien dit !
-La peste m'étouffe, tout l'esprit du monde n'est pas à Paris, on en trouve dans les Provinces.
-
--*who_araminte
-Il est déjà charmé de moi, Marton.
-
--*who_merlin
-Mais que vois-je !
-C'est elle-même, c'est Marton.
-Je ne l'ai pas d'abord reconnue.
-Tu as donc fait banqueroute à la France, Marton, à la France banqueroute ?
-Ah, tu as déserté, Marton, je te ferai une affaire.
-
--*who_marton
-Oh, Monsieur, on ne punit pas les désertrices.
-
--*who_merlin
-Cela se devrait, Marton.
-Une fille de ta force, quand elle déserte, fait plus de tort au service de l'amour, que vingt soldats au service du Roi.
-Je te perdrais, Marton, si tu n'étais pas de mes amies.
-
--*who_marton
-Je vous suis bien obligée de m'épargner, Monsieur.
-
--*who_araminte
-Qu'il a de l'esprit, ma chère Marton.
-
--*who_merlin
-Mille pardons de la petite digression, ma Princesse.
-Où en étions-nous ?
-Marton, tu as là une Maîtresse incomparable.
-Elle est superlativement aimable, Dieu me damne.
-Au moins, Madame, je vous aime ; je me meurs, Madame ; je vous en avertis, Madame ; ne me laissez pas mourir, Madame, je vous prie.
-
--*who_araminte
-Qu'avez-vous, Monsieur ?
-
--*who_merlin
-J'ai le cœur vivement attaqué, Madame.
-Je suis frappé, là, sur mon honneur, Madame.
-
--*who_araminte
-Quoi !
-Monsieur…
-
--*who_merlin
-Il n'y a pas de milieu à cela, Madame : il faut que je meure, ou que je vous épouse, Madame.
-
--*who_marton
-Voilà une maladie bien violente, Madame.
-
--*who_merlin
-Je prévois que j'en mourrai, Marton.
-
--*who_araminte
-Me voilà bien embarrassée.
-
--*who_merlin
-Sauvez-moi la vie, Madame, sauvez-moi la vie.
-
--*who_araminte
-Que les Français sont pressants, Marton !
-
--*who_marton
-Ils sont tous comme cela.
-Dès qu'ils voient une belle femme, ils crèveraient plutôt que de ne la pas épouser.
-
--*who_merlin
-Oui, ma Reine, ce sont nos manières ; Marton est une fille qui sait l'usage.
-
--*who_araminte
-Mais vraiment, cela est extraordinaire, Monsieur.
-Je n'ai pas l'honneur de vous connaître ; vous venez ici pour la première fois, et vous voulez déjà m'épouser.
-
--*who_merlin
-Demandez à Marton, si ce n'est pas là l'usage : nous autres jeunes gens, nous aimons les mariages de rencontre.
-
--*who_marton
-Et vous trouvez de bons hasards quelquefois.
-
--*who_merlin
-Ma Princesse, ma Reine, ma Déesse, je vous parle en conscience, je me meurs d'amour, ou le diable m'emporte.
-
--*who_araminte
-Mais cet amour est bien prompt, Monsieur.
-
--*who_merlin
-Que voulez-vous que je vous dise ?
-C'est un impromptu de vos charmes, et un effet de ma destinée.
-
--*who_araminte
-S'il disait vrai, ma pauvre Marton !
-
--*who_marton
-Je crois qu'il est sincère.
-Et ne vous l'ai-je pas dit, Madame, qu'il fallait absolument que vous fussiez Marquise.
-
--*who_araminte
-Il faut qu'il y ait là-dedans de la fatalité ; et mon cœur est dans une agitation qui n'est point naturelle.
-
--*who_merlin
-Se pourrait-il, mon adorable !...
-
--*who_araminte
-Un peu de trêve, Monsieur le Marquis, un peu de trêve, je vous en conjure.
-
--*who_marton
-Ne tirez plus, Monsieur, ne tirez plus ; le cœur de Madame bat la chamade.
-
--*who_merlin
-Ah !
-Que je suis malheureux, Marton.
-
--*who_araminte
-Non, Monsieur le Marquis ; non, ne vous plaignez point de votre destinée ; je cède à la mienne, je vous épouse, je me rends à vos empressements ; voilà qui est fini.
-
--*who_marton
-La Place capitule, Monsieur, dressons les articles.
-
--*who_merlin
-Il n'est pas sous le Ciel un plus infortuné mortel, Madame.
-
--*who_marton
-À qui en avez-vous ?
-
--*who_araminte
-On se rend, Monsieur le Marquis, que voulez-vous de plus ?
-On se rend, vous dis-je.
-
--*who_merlin
-Hé, ce n'est point assez, Madame, ce n'est point assez.
-
--*who_marton
-Comment donc, Monsieur, on capitule, et vous n'êtes pas content ?
-Est-ce que vous voudriez nous prendre d'assaut, de par tous les diantres ?
-
--*who_merlin
-Ce n'est pas cela, Marton ; mais, j'ai un cadet qui voudra être compris dans la capitulation.
-
--*who_marton
-Vous avez un frère qui est aussi amoureux de Madame ?
-
--*who_araminte
-Mais, je ne pourrai jamais vous épouser deux, comment faudra-t-il faire ?
-
--*who_merlin
-Vous ne comprenez pas la chose, ma Princesse.
-Le vieux fou d'oncle avec son Testament…
-
--*who_marton
-Que parlez-vous d'oncle, de Testament, que voulez-vous dire ?
-
--*who_araminte
-Expliquez-vous, Monsieur le Marquis.
-
--*who_merlin
-C'est le testament d'un oncle, mon adorable, qui fait obstacle à mon bonheur.
-
--*who_araminte
-Comment ?
-
--*who_merlin
-Le maudit oncle !
-C'était un Seigneur tout des plus riches, qui en mourant, s'est avisé, pour nos péchés, de nous faire ses héritiers mon frère et moi.
-
--*who_araminte
-Mais, je ne vois pas, Monsieur le Marquis, que ce testament ait rien de commun avec notre mariage.
-
--*who_merlin
-Ah !
-Il renferme une condition bien terrible, ce vilain Testament/
-
--*who_marton
-Quelle condition ?
-Quoi ?
-
--*who_araminte
-Il ordonne que les héritiers se marieront tous deux le même jour, sinon celui qui sera le plus pressé, il le déshérite.
-
--*who_araminte
-Mais, voilà une clause bien extraordinaire ?
-
--*who_marton
-Ah !
-Madame, feu Monsieur mon oncle était l'oncle le plus bizarre et le plus hétéroclite qu'on ait jamais vu.
-
--*who_araminte
-Hé, ne pourrait-on point faire casser son testament, Monsieur le Marquis ?
-
--*who_merlin
-Le faire casser, mon incomparable !
-C'est le Testament le plus dur et le moins cassable qu'il y ait en France.
-
--*who_araminte
-Ah !
-Marton, que je suis malheureuse.
-
--*who_marton
-Attendez, ne vous affligez point ; il me passe dans la tête de petites idées, qui pourraient bien nous tirer d'embarras.
-Oui.
-
--*who_araminte
-Qu'imagines-tu, ma pauvre Marton ?
-
--*who_merlin
-Laissons-la faire, ma Princesse ?
-C'est ne fille impayable, et qui a des idées tout à fait justes.
-
--*who_marton
-Oui, fort bien, justement : le Contrat d'Angélique et de D. Julien est tout dressé depuis quinze jours, il n'y a eu que l'Impromptu du siège qui a empêché de le signer.
-
--*who_araminte
-Hé bien, Marton ?
-
--*who_marton
-Il n'y a pas d'autre moyen, Madame ; vous avez une nièce qu'il faut donner au cadet, vous épouserez l'aîné, vous ; et la condition du Testament sera suivie
-
--*who_merlin
-Vous avez une Nièce, ma charmante ?
-
--*who_araminte
-Oui, Monsieur.
-
--*who_merlin
-Hé morbleu !
-Que ne parlez-vous donc ?
-Voilà une affaire consommée : il semble que cela soit fait exprès, mon cadet aime les Nièces à la folie.
-
--*who_araminte
-Mais, il n'est peut-être pas en ce pays-ci ?
-
--*who_merlin
-Il est allé faire un tour dans mon carrosse, il va venir me reprendre.
-
--*who_araminte
-Quand il viendra, qu'on le fasse entrer, Marton.
-
--*who_marton
-Et je vais tout d'un temps chercher votre Notaire, Madame, afin d'expédier les choses.
-
--*who_merlin
-Qu'elle a les allures Françaises, votre Marton ; les affaires ne languissent point avec elle.
-
--*who_araminte
-Voilà ma Nièce, Monsieur le Marquis.
-
-**** *book_ *id_I13 *act_I *date_1692
-
--*who_merlin
-Tudieu, mon cadet, quel friand morceau !
-Voilà un Cavalier qui la suit, si je ne me trompe.
-
--*who_araminte
-Ah !
-Monsieur le Marquis, c'est un Espagnol dont je voudrais bien être débarrassée.
-
--*who_merlin
-Je vous en déferai, Madame, ne vous mettez pas en peine.
-
--*who_donjulien
-Mais, rendez-moi une réponse positive, Mademoiselle, je serai content.
-
--*who_angelique
-Ah !
-Que vous prenez mal les moments, Monsieur, pour hâter un mariage que l'on a si longtemps différé.
-
--*who_donjulien
-C'est parce qu'on l'a tant différé, que je presse pour le conclure, Mademoiselle.
-
--*who_merlin
-Vous me paraissez un importun personnage, Seigneur Espagnol.
-
--*who_angelique
-C'est Merlin déguisé, je pense ?
-
--*who_donjulien
-Vous me semblez bien téméraire, Seigneur Français, de parler à Don Julien comme vous faites.
-
--*who_merlin
-Savez-vous bien, seigneur Don Julien, puisque Don Julien y a, qu'il y a ici des fenêtres.
-
--*who_donjulien
-Je n'entends pas ce langage-là, Seigneur Français.
-
--*who_merlin
-Vous ne comprenez pas ce que cela veut dire ?
-Si vous ne sortez tout à l'heure par la porte, je vous jetterai par la brèche.
-M'entendez-vous mieux ?
-
--*who_donjulien
-Ah, ah, ah, ah.
-
--*who_merlin
-Mon petit ami, Monsieur Julien…
-
--*who_donjulien
-Ah, ah, ah, ah, mon petit ami, la fierté vous sied mal, Seigneur Français, c'est pourtant l'apanage de votre nation, que la fierté.
-
--*who_merlin
-Par la morbleu, c'est trop de patience ; il faut casser la tête à cet animal-là, Madame.
-
--*who_donjulien
-Miséricorde !
-
--*who_merlin
-Ah, ah, ah, ah.
-
--*who_araminte
-Vous portez des pistolets, Monsieur le Marquis !
-
--*who_merlin
-Non, Madame, ce n'est qu'une lunette d'approche, avec quoi j'ai fait mourir de peur vingt Espagnols en ma vie.
-Il ne faut pas d'autres armes avec ces gens-là.
-
-**** *book_ *id_I14 *act_I *date_1692
-
--*who_marton
-Voilà Monsieur votre Frère qui arrive.
-Votre Notaire va venir, Madame.
-L'affaire est en bon train, Mademoiselle.
-
--*who_merlin
-À propos, ma Reine, votre Nièce est-elle riche ?
-Dans notre famille, les aînés ne sont qu'amoureux ; mais, les cadets sont intéressés comme tous les diables.
-
--*who_araminte
-Cela ne fera point d'obstacle à votre bonheur, et je donnerai la moitié de tous mes biens à ma Nièce.
-
--*who_merlin
-Ah !
-Que vous avez l'âme belle, Madame.
-Je me donne au diable, vous méritiez de naître en pleine Cour de France.
-Oh, il faut que dans votre famille il y ait eu quelque échappé de Français : vous êtes de bonne race, sur ma parole, mon adorable.
-
--*who_araminte
-Sérieusement, Monsieur le Marquis, remarquez-vous dans mes manières…
-
--*who_merlin
-Voici mon cadet, ma Princesse.
-
-**** *book_ *id_I15 *act_I *date_1692
-
--*who_merlin
-Approchez, mon frère cadet, approchez, et remerciez-moi bien fort : vous êtes plus heureux que sage ; tenez voilà une fortune que je vous ai ménagée.
-Le cœur vous en dit-il, voyez ?
-Il n'est point ici question de bagatelle ; il s'agit d'épouser au moins.
-
--*who_clitandre
 Vous êtes mon aîné, Monsieur, j'ai toujours fait aveuglément ce que vous avez souhaité ; mais rien ne m'a jamais tant fait de plaisir que ce que vous m'ordonnez aujourd'hui de faire.
 
--*who_merlin
-Ils sont bien appris, nos cadets : vos nièces sont-elles aussi bien instruites, Madame ?
-
--*who_araminte
-Parlez, ma nièce, ce jeune seigneur vous conviendrait-t-il, répondez ?
-
--*who_angelique
-Quand vous me commandez, Madame, je ne fais jamais qu'obéir : mais aujourd'hui, je vous l'avoue, j'obéirai sans répugnance.
-
--*who_merlin
-Voilà des enfants bien nés.
-Ah !
-Qu'ils feront un heureux ménage !
-Ils ont une complaisance aveugle.
-Procédons aux Contrats, ma Reine.
-
--*who_araminte
-Voici Monsieur griffon, mon Notaire.
-
-**** *book_ *id_I16 *act_I *date_1692
-
--*who_monsieurgriffon
-Sur ce que Mademoiselle Marton m'a dit de votre part, Madame, je suis au plus vite accouru pour vous rendre mes petits services.
-
--*who_merlin
-Il s'agit de faire deux Contrats de mariage, Monsieur Griffon.
-
--*who_monsieurgriffon
-Il y en a déjà un tout fait, Monsieur : celui de D. Julien peut servir.
-Mademoiselle Marton m'a dit de changer seulement le nom, et de mettre celui de Monsieur Clitandre, cela est fait.
-
--*who_merlin
-Qu'elle est vive, Madame, cette Marton !
-
--*who_araminte
-Il y faut ajouter, Monsieur Griffon, que je donne à ma nièce la moitié de mon bien en faveur de ce mariage.
-
--*who_monsieurgriffon
-Cela ne sera pas bien difficile, Madame.
-
--*who_angelique
-Ma chère Tante, que je vous ai d'obligation !
-
--*who_marton
-Je vous ai bien dit, moi, que vous avuez une bonne Tante.
-
--*who_merlin
-Monsieur Griffon, les Français sont de grands épouseurs, vous voyez comme la pratique donne déjà.
-
--*who_monsieurgriffon
-Monsieur, ce ne sont pas les Notaires à qui ils font le plus gagner en ce pays-ci.
-
--*who_merlin
-Il faut bien que tout le monde vive, Monsieur Griffon.
-
--*who_monsieurgriffon
-Voilà qui est fait, il n'y a qu'à signer.
-
--*who_araminte
-Donnez vite, Monsieur Griffon, dépêchons.
-Allons tôt, ma nièce : hâtez-vous, Monsieur.
-
--*who_clitandre
 Je signe aveuglément, mon frère : mais…
 
--*who_merlin
-Hé, signe promptement, cadet, signe.
-
-**** *book_ *id_I17 *act_I *date_1692
-
--*who_araminte
-Que veut encore ce petit coquin-là ?
-Il ne fait qu'aller et venir.
-
--*who_ricochet
-C'est un grand pendard qui demande ce Monsieur-là, ma Marraine.
-
--*who_merlin
-Comment diantre, c'est un de mes Sergents !
-Qu'est-ce qu'il y a Monsieur de la Verdure ?
-Que diable venez-vous faire ici, quand vous me savez en bonne fortune ; vous avez bonne grâce de me venir détourner.
-
--*who_laverdure
-Pargué mon Colonel, je vous demande bien pardon, mais nan va bailler une attaque, le Régiment est commandé pour ça ; est-ce que vous voudriais qu'il y allât sans vous ?
-
--*who_merlin
-Mon Régiment est commandé ?
-
--*who_laverdure
-Oui palsangué, il l'est.
-
--*who_merlin
-Ah tête !
-Ah mort !
-Ah sang !
-Mon Régiment est commandé, et je m'amuse à la bagatelle ; adieu, Madame, je n'arriverai pas assez tôt.
-
--*who_araminte
-Quoi, Monsieur le Marquis, vous me quittez ?
-
--*who_merlin
-Je suis Français, Madame, et la gloire m'appelle.
-
--*who_araminte
-Et vous préférez la gloire à l'amour, Monsieur le Marquis ?
-
--*who_merlin
-L'amour aura son tour ; je vais revenir, Madame, dans le moment même.
-
-**** *book_ *id_I18 *act_I *date_1692
-
--*who_marton
-Voilà un Marquis qui aime la gloire : comme il court après !
-
--*who_araminte
-Je le suivrai partout Marton, ne me quitte pas.
-
--*who_laverdure
-Vous ?
-Morgué, où est-ce que vous voulez aller ?
-Halte-là, s'il vous plaît, les personnes de la Ville à l'assaut du château, testigué queu ménage.
-
--*who_angelique
-Cela ne serait pas dans la bienséance, il a raison, ma tante.
-
--*who_araminte
-Le petit ingrat qui me quitte pour la gloire ; tout autre qu'un Français ne ferait pas une action comme celle-là, Marton.
-
--*who_marton
-Ne vous alarmez point, vous allez le voir revenir triomphant, Madame.
-
--*who_laverdure
-Lui, morgué, vous ne le reverrez point, il a beau dire.
-
--*who_araminte
-Je ne le reverrai point ?
-
--*who_laverdure
-S'il en revient, la peste m'étouffe, il sera tué, sur ma parole, je m'en vas l'entarrer : serviteur.
-
-**** *book_ *id_I19 *act_I *date_1692
-
--*who_araminte
-Il sera tué, Marton !
-
--*who_angelique
-Ma chère tante !
-
--*who_araminte
-Vous êtes bien contente, vous, ma nièce, on ne vous abandonne point pour courir après la gloire.
-
--*who_clitandre
 Je ne suis pas commandé, Madame ; mon Régiment est de la Garnison.
 
-**** *book_ *id_I20 *act_I *date_1692
-
--*who_merlin
-Grande, grande nouvelle que je vous apporte, Monsieur.
-
--*who_clitandre
 Qu'y a-t-il, Monsieur Jolicœur ?
 
--*who_merlin
-Le Château capitule, Monsieur.
-
--*who_clitandre
 Le Château capitule !
 
--*who_merlin
-Monsieur le Marquis votre frère, m'envoie vous le dire.
-
--*who_araminte
-Il n'ira donc point à l'assaut ; je respire, Marton.
-
--*who_merlin
-Non, Madame, il n'ira point à l'assaut ; le voilà qui part pour l'Allemagne.
-
--*who_araminte
-Comment ?
-
--*who_clitandre
 Mon frère va en Allemagne ?
 
--*who_merlin
-Oui, Monsieur, la gloire l'y appelle.
-
--*who_araminte
-Oh, pour le coup, elle a beau l'appeler, il ne partira point qu'il ne m'est épousée.
-
--*who_merlin
-Il ne peut vous épouser qu'à son retour.
-Il m'a dit de faire tenir le contrat tout prêt.
-Il vous épousera en repassant.
-
--*who_araminte
-Il ne m'épousera qu'en repassant ?
-Je suis trahie, et j'en mourrai.
-
--*who_clitandre
 Suivons-la pour la consoler.
 
--*who_merlin
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
+Oh diable ! Il est devenu bien plus modeste ; le petit-collet l'avait gâté, il faisait comme les autres.
+
+Ma foi, Monsieur, cela vaut davantage ; nous sommes ici de nouveaux débarqués ; il faut un peu payer sa bienvenue : mettez trente pistoles ; comme elle n'est pas intéressée, elle en prendra plutôt trente que dix.
+
+Elle n'est pas intéressée, assurément. Hé, à quoi bon tout ce mystère, mon enfant, ne sait-on pas qu'il faut que chacun vive ?
+
+Qu'elle est complaisante !
+
+On n'est pas malheureux, Monsieur, de retrouver ses anciennes connaissances.
+
+Comment difficile ? Oh, rend donc l'argent.
+
+Cela est fort embarrassant. Il sera bien difficile à un Français de faire déguerpir un Espagnol, n'est-ce pas ?
+
+Quoi, tu as fait ton apprentissage à Paris, et tu t'embarrasses d'une Tante ?
+
+Les tiennes sont toutes faites, Marton ; si tu réussis je t'épouserai.
+
+Tudieu, que ces Flamandes sont expéditives !
+
+Ah ! Je vous jure…
+
+Oh ! Madame, nous ne sommes pas Français par cet endroit-là nous autres.
+
+Oui, mais s'il y a des Français pour prendre leurs Villes, il y a des Martons pour enlever leurs femmes.
+
+Il n'y a rien de plus honnête, assurément.
+
+Si je suis bon à quelque chose ? Tu n'as qu'à me mettre à l'épreuve, et tu verras si je suis bon à quelque chose. Je m'appelle Merlin, afin que tu le saches.
+
+Je suis bienheureux, Mademoiselle Marton, d'être employé dans une affaire que vous prenez si fort à cœur.
+
+Si la chose réussit, c'est à vos lumières que l'on en sera redevable, Mademoiselle Marton.
+
+Nous travaillerons donc ensemble à frais communs, mon adorable, nous partagerons les soins et les peines, et par conséquent… Au moins, vous avez déjà reçu trente pistoles à bon compte.
+
+Mais, vous voyez bien…
+
+Je crois parbleu qu'elle a raison. Tout coup vaille. Allons, mon Maître est galant homme, il fera les choses de bonne grâce.
+
+En tous cas, tu me dédommageras d'ailleurs, n'est-ce pas ?
+
+Sur cet espoir-là, formons notre plan, et sachons ce que nous avons à faire. Qu'est-ce que la Tante en question, premièrement ?
+
+Il faut ôter les miroirs de sa chambre, c'est ce qui la fâche, peut-être.
+
+A-t-elle le goût Français, ou Espagnol ?
+
+Par raison de politique, peut-être ?
+
+Oui, vous voulez brusquer les noces, Madame notre Tante ; oh, par ma foi, j'en suis fort aise.
+
+Oh, laisse-moi faire, je veux attraper tout son bien, et la faire mourir fille, de plus.
+
+Ne te mets pas en peine. Oui, justement… Un des habits de mon Maître… Un air de Marquis… L'affaire est dans le sac, j'en suis caution, moi.
+
+Cela est admirable ! Comme les gens du métier pénètrent les choses ! Venons à l'Espagnol ; quel homme est-ce ?
+
+Quelque Officier, apparemment ?
+
+Hé, pourquoi n'est-il pas dans le Château comme les autres ?
+
+C'est qu'il n'en connaît pas les suites, Marton ; mais, il ne sera ni tué, ni marié, j'en répons ; je vais y mettre ordre. Prends seulement soin d'avertir mon Maître de ce que tu devines : pour moi, je me charge du dénouement, laisse-moi faire. Voici quelqu'un.
+
+Pourquoi non ? Cela ne gâtera rien. Au contraire, cela fondera la chose, et elle me verra si peu qu'elle ne reconnaîtra pas tantôt mon visage.
+
+Oui, Madame, je venais voir si vous étiez visible ; et puisque je vous vois, je comprends bien que oui ; je vais le dire à mon Maître.
+
+On ne m'a pas chargé d'en dire davantage, Madame ; vous êtes visible, cela suffit, je vais rendre réponse.
+
+Je me donne au diable, Madame, si je regrette les belles de Paris, puisqu'on trouve en ce pays-ci des adorables comme vous. Comment morbleu, elle est toute charmante ! Oh parsanbleu, je veux faire souche en Flandres, Madame, cela est résolu.
+
+Dans le même style ! Oui, fort bien, dans le même style, que cela est bien dit ! La peste m'étouffe, tout l'esprit du monde n'est pas à Paris, on en trouve dans les Provinces.
+
+Mais que vois-je ! C'est elle-même, c'est Marton. Je ne l'ai pas d'abord reconnue. Tu as donc fait banqueroute à la France, Marton, à la France banqueroute ? Ah, tu as déserté, Marton, je te ferai une affaire.
+
+Cela se devrait, Marton. Une fille de ta force, quand elle déserte, fait plus de tort au service de l'amour, que vingt soldats au service du Roi. Je te perdrais, Marton, si tu n'étais pas de mes amies.
+
+Mille pardons de la petite digression, ma Princesse. Où en étions-nous ? Marton, tu as là une Maîtresse incomparable. Elle est superlativement aimable, Dieu me damne. Au moins, Madame, je vous aime ; je me meurs, Madame ; je vous en avertis, Madame ; ne me laissez pas mourir, Madame, je vous prie.
+
+J'ai le cœur vivement attaqué, Madame. Je suis frappé, là, sur mon honneur, Madame.
+
+Il n'y a pas de milieu à cela, Madame : il faut que je meure, ou que je vous épouse, Madame.
+
+Je prévois que j'en mourrai, Marton.
+
+Sauvez-moi la vie, Madame, sauvez-moi la vie.
+
+Oui, ma Reine, ce sont nos manières ; Marton est une fille qui sait l'usage.
+
+Demandez à Marton, si ce n'est pas là l'usage : nous autres jeunes gens, nous aimons les mariages de rencontre.
+
+Ma Princesse, ma Reine, ma Déesse, je vous parle en conscience, je me meurs d'amour, ou le diable m'emporte.
+
+Que voulez-vous que je vous dise ? C'est un impromptu de vos charmes, et un effet de ma destinée.
+
+Se pourrait-il, mon adorable !...
+
+Ah ! Que je suis malheureux, Marton.
+
+Il n'est pas sous le Ciel un plus infortuné mortel, Madame.
+
+Hé, ce n'est point assez, Madame, ce n'est point assez.
+
+Ce n'est pas cela, Marton ; mais, j'ai un cadet qui voudra être compris dans la capitulation.
+
+Vous ne comprenez pas la chose, ma Princesse. Le vieux fou d'oncle avec son Testament…
+
+C'est le testament d'un oncle, mon adorable, qui fait obstacle à mon bonheur.
+
+Le maudit oncle ! C'était un Seigneur tout des plus riches, qui en mourant, s'est avisé, pour nos péchés, de nous faire ses héritiers mon frère et moi.
+
+Ah ! Il renferme une condition bien terrible, ce vilain Testament/
+
+Le faire casser, mon incomparable ! C'est le Testament le plus dur et le moins cassable qu'il y ait en France.
+
+Laissons-la faire, ma Princesse ? C'est ne fille impayable, et qui a des idées tout à fait justes.
+
+Vous avez une Nièce, ma charmante ?
+
+Hé morbleu ! Que ne parlez-vous donc ? Voilà une affaire consommée : il semble que cela soit fait exprès, mon cadet aime les Nièces à la folie.
+
+Il est allé faire un tour dans mon carrosse, il va venir me reprendre.
+
+Qu'elle a les allures Françaises, votre Marton ; les affaires ne languissent point avec elle.
+
+Tudieu, mon cadet, quel friand morceau ! Voilà un Cavalier qui la suit, si je ne me trompe.
+
+Je vous en déferai, Madame, ne vous mettez pas en peine.
+
+Vous me paraissez un importun personnage, Seigneur Espagnol.
+
+Savez-vous bien, seigneur Don Julien, puisque Don Julien y a, qu'il y a ici des fenêtres.
+
+Vous ne comprenez pas ce que cela veut dire ? Si vous ne sortez tout à l'heure par la porte, je vous jetterai par la brèche. M'entendez-vous mieux ?
+
+Mon petit ami, Monsieur Julien…
+
+Par la morbleu, c'est trop de patience ; il faut casser la tête à cet animal-là, Madame.
+
+Ah, ah, ah, ah.
+
+Non, Madame, ce n'est qu'une lunette d'approche, avec quoi j'ai fait mourir de peur vingt Espagnols en ma vie. Il ne faut pas d'autres armes avec ces gens-là.
+
+À propos, ma Reine, votre Nièce est-elle riche ? Dans notre famille, les aînés ne sont qu'amoureux ; mais, les cadets sont intéressés comme tous les diables.
+
+Ah ! Que vous avez l'âme belle, Madame. Je me donne au diable, vous méritiez de naître en pleine Cour de France. Oh, il faut que dans votre famille il y ait eu quelque échappé de Français : vous êtes de bonne race, sur ma parole, mon adorable.
+
+Voici mon cadet, ma Princesse.
+
+Approchez, mon frère cadet, approchez, et remerciez-moi bien fort : vous êtes plus heureux que sage ; tenez voilà une fortune que je vous ai ménagée. Le cœur vous en dit-il, voyez ? Il n'est point ici question de bagatelle ; il s'agit d'épouser au moins.
+
+Ils sont bien appris, nos cadets : vos nièces sont-elles aussi bien instruites, Madame ?
+
+Voilà des enfants bien nés. Ah ! Qu'ils feront un heureux ménage ! Ils ont une complaisance aveugle. Procédons aux Contrats, ma Reine.
+
+Il s'agit de faire deux Contrats de mariage, Monsieur Griffon.
+
+Qu'elle est vive, Madame, cette Marton !
+
+Monsieur Griffon, les Français sont de grands épouseurs, vous voyez comme la pratique donne déjà.
+
+Il faut bien que tout le monde vive, Monsieur Griffon.
+
+Hé, signe promptement, cadet, signe.
+
+Comment diantre, c'est un de mes Sergents ! Qu'est-ce qu'il y a Monsieur de la Verdure ? Que diable venez-vous faire ici, quand vous me savez en bonne fortune ; vous avez bonne grâce de me venir détourner.
+
+Mon Régiment est commandé ?
+
+Ah tête ! Ah mort ! Ah sang ! Mon Régiment est commandé, et je m'amuse à la bagatelle ; adieu, Madame, je n'arriverai pas assez tôt.
+
+Je suis Français, Madame, et la gloire m'appelle.
+
+L'amour aura son tour ; je vais revenir, Madame, dans le moment même.
+
+Grande, grande nouvelle que je vous apporte, Monsieur.
+
+Le Château capitule, Monsieur.
+
+Monsieur le Marquis votre frère, m'envoie vous le dire.
+
+Non, Madame, il n'ira point à l'assaut ; le voilà qui part pour l'Allemagne.
+
+Oui, Monsieur, la gloire l'y appelle.
+
+Il ne peut vous épouser qu'à son retour. Il m'a dit de faire tenir le contrat tout prêt. Il vous épousera en repassant.
+
 Hé bien, Marton.
 
--*who_marton
+Nous faisons tout en impromptu, nous autres. M'aimes-tu ? Dis.
+
+Encore autre impromptu, je t'épouse, et vivent les Français, Marton. Il n'y a ni villes, ni femmes qui leur résistent.
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araminte
+
+Que vous veut ce garçon, Marton ?
+
+Hé, attends, attends, mon enfant. Qui est-il ton Maître ?
+
+C'est le valet de chambre de quelque officier français, Marton ?
+
+En effet, ces gens-là sont terriblement brusques dans toutes leurs manières.
+
+Les étourdis ne me déplaisent pas : j'aime la vivacité, moi, Marton.
+
+Je ne suis point trop fâchée que les Français soient ici, Marton, nous aurons nouvelle compagnie.
+
+Ah, ma pauvre Marton !
+
+Je n'ai jamais eu rien de caché pour toi. Mais, Marton…
+
+Je ne suis amoureuse de personne en particulier.
+
+Je veux devenir Française, Marton. Si j'ai différé si longtemps à me marier, ce n'a pas été manque de mérite, j'ai toujours eu bon nombre d'adorateurs, tu le sais. Je ne me pique pourtant pas d'être belle ; mais, sans vanité, j'ai quelques charmes qui ne sont pas indifférents, non de ces attraits enfantins, comme ma Nièce ; mais, quelque chose d'héroïque et de majestueux. N'est-il pas vrai, Marton ?
+
+Hé dis-moi, crois-tu que cela soit capable de captiver une liberté Française ?
+
+Est-il possible ?
+
+Est-ce que tu te connais à ces choses-là ?
+
+Comment ?
+
+À quoi vois-tu cela, Marton ?
+
+Hé bien ?
+
+J'ai la physionomie de la main tout à fait heureuse, Marton, n'est-il pas vrai ?
+
+Mais vraiment, je ne te croyais pas si habile, Marton.
+
+Je n'avais jamais ouï dire que tu eusses un si beau talent.
+
+Hé bien, Don Julien…
+
+Hé, pourquoi non ? Que veux-tu donc dire ?
+
+Don Julien pendu ! Es-tu folle ?
+
+Je ne le veux plus voir, Marton ; je me garderai bien de lui donner ma nièce.
+
+Ce serait un beau compliment à lui faire, je n'ai garde. Que veut ce petit laquais ?
+
+Le petit sot, avec sa Marraine. La visite de cet homme m'embarrasse depuis ce que tu m'en as dit, Marton.
+
+Il est vrai que je suis surprise que vous n'y ayez pas passé avec votre Compagnie, Monsieur.
+
+Taisez-vous, Marton.
+
+Lui assurer tous vos biens, Monsieur ?
+
+Ah, le pauvre homme !
+
+Hé, Monsieur, dans le dérangement des affaires où nous sommes, pouvez-vous songer à des noces ? Allez vous renfermer dans le Château, Monsieur.
+
+Mais enfin, Monsieur…
+
+Vous méprisez furieusement la gloire, Monsieur.
+
+Que veut encore ce petit animal-là ?
+
+Allez voir ce que c'est, Marton.
+
+Don Julien, je suis de vos amies ; croiriez-vous un conseil que je vais vous donner en conscience ?
+
+Entrez dans le château, s'il est possible, et tâchez de vous faire tuer, je vous en conjure.
+
+Non, je vous parle sérieusement, faites-vous tuer, le plutôt vaut le mieux.
+
+Ce n'est pas de votre goût, peut-être ?
+
+Quel aveuglement ! Ah le pauvre homme ?
+
+Je voudrais que vous fussiez mort, et qu'il m'en eût coûté grand-chose.
+
+Je perds l'esprit moi, Monsieur, je perds l'esprit ? Allez, vous êtes un ingrat qui ne méritez pas les bontés que l'on a pour vous, et dès à présent je romps tout commerce.
+
+Je vous abandonne à votre mauvaise destinée.
+
+On lui conseille de se faire tuer de peur d'accident, et il me dit que je perds l'esprit. Je ne serai pas fâchée qu'il soit un peu pendu, il a le cerveau mal timbré.
+
+Qu'est-ce qu'il y a, Marton ?
+
+Comment ?
+
+Est-ce un joli homme, Marton ?
+
+Et qu'est-ce que c'est que des Petits-Maîtres ?
+
+Hé, de quels airs, Marton ?
+
+Les jolis gens, Marton ! Il va en venir ici un, dis-tu ?
+
+Suis-je assez bien pour le recevoir ?
+
+Aide-moi un peu à ranger mes attraits, Marton. Laquais, faites entrer ce Petit Maître.
+
+Marton, je me meurs : qu'il a bonne mine !
+
+Voilà un discours des plus obligeants, Monsieur ; et vous vous exprimez en termes si forts et si énergiques, que je serais fort embarrassée de vous répondre dans le même style.
+
+Il est déjà charmé de moi, Marton.
+
+Qu'il a de l'esprit, ma chère Marton.
+
+Qu'avez-vous, Monsieur ?
+
+Quoi ! Monsieur…
+
+Me voilà bien embarrassée.
+
+Que les Français sont pressants, Marton !
+
+Mais vraiment, cela est extraordinaire, Monsieur. Je n'ai pas l'honneur de vous connaître ; vous venez ici pour la première fois, et vous voulez déjà m'épouser.
+
+Mais cet amour est bien prompt, Monsieur.
+
+S'il disait vrai, ma pauvre Marton !
+
+Il faut qu'il y ait là-dedans de la fatalité ; et mon cœur est dans une agitation qui n'est point naturelle.
+
+Un peu de trêve, Monsieur le Marquis, un peu de trêve, je vous en conjure.
+
+Non, Monsieur le Marquis ; non, ne vous plaignez point de votre destinée ; je cède à la mienne, je vous épouse, je me rends à vos empressements ; voilà qui est fini.
+
+On se rend, Monsieur le Marquis, que voulez-vous de plus ? On se rend, vous dis-je.
+
+Mais, je ne pourrai jamais vous épouser deux, comment faudra-t-il faire ?
+
+Expliquez-vous, Monsieur le Marquis.
+
+Comment ?
+
+Mais, je ne vois pas, Monsieur le Marquis, que ce testament ait rien de commun avec notre mariage.
+
+Il ordonne que les héritiers se marieront tous deux le même jour, sinon celui qui sera le plus pressé, il le déshérite.
+
+Mais, voilà une clause bien extraordinaire ?
+
+Hé, ne pourrait-on point faire casser son testament, Monsieur le Marquis ?
+
+Ah ! Marton, que je suis malheureuse.
+
+Qu'imagines-tu, ma pauvre Marton ?
+
+Hé bien, Marton ?
+
+Oui, Monsieur.
+
+Mais, il n'est peut-être pas en ce pays-ci ?
+
+Quand il viendra, qu'on le fasse entrer, Marton.
+
+Voilà ma Nièce, Monsieur le Marquis.
+
+Ah ! Monsieur le Marquis, c'est un Espagnol dont je voudrais bien être débarrassée.
+
+Vous portez des pistolets, Monsieur le Marquis !
+
+Cela ne fera point d'obstacle à votre bonheur, et je donnerai la moitié de tous mes biens à ma Nièce.
+
+Sérieusement, Monsieur le Marquis, remarquez-vous dans mes manières…
+
+Parlez, ma nièce, ce jeune seigneur vous conviendrait-t-il, répondez ?
+
+Voici Monsieur griffon, mon Notaire.
+
+Il y faut ajouter, Monsieur Griffon, que je donne à ma nièce la moitié de mon bien en faveur de ce mariage.
+
+Donnez vite, Monsieur Griffon, dépêchons. Allons tôt, ma nièce : hâtez-vous, Monsieur.
+
+Que veut encore ce petit coquin-là ? Il ne fait qu'aller et venir.
+
+Quoi, Monsieur le Marquis, vous me quittez ?
+
+Et vous préférez la gloire à l'amour, Monsieur le Marquis ?
+
+Je le suivrai partout Marton, ne me quitte pas.
+
+Le petit ingrat qui me quitte pour la gloire ; tout autre qu'un Français ne ferait pas une action comme celle-là, Marton.
+
+Je ne le reverrai point ?
+
+Il sera tué, Marton !
+
+Vous êtes bien contente, vous, ma nièce, on ne vous abandonne point pour courir après la gloire.
+
+Il n'ira donc point à l'assaut ; je respire, Marton.
+
+Comment ?
+
+Oh, pour le coup, elle a beau l'appeler, il ne partira point qu'il ne m'est épousée.
+
+Il ne m'épousera qu'en repassant ? Je suis trahie, et j'en mourrai.
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
+Marton ?
+
+Que veut ce jeune homme à qui vous parliez, Marton ?
+
+Je ne l'ai vu que de fort loin, mais cela m'a paru sur son visage.
+
+Trente pistoles, Marton ! Et dans quelle vue ?
+
+Cela est bien louable. Les Français ont les manières nobles, Marton.
+
+C'est donc parce que vous êtes à moi, Marton, que ce jeune officier…
+
+Les trente pistoles vous rendent éloquente. Vous faites leur panégyrique, Marton ?
+
+Ma pauvre Marton, ne me trahis point, c'est celui qui te parlait tout à l'heure.
+
+Il n'est que trop vrai pour moi, ma chère Marton.
+
+Marton…
+
+Mais si l'on vient à savoir que j'aime déjà un Français, que dira-t-on dans la Ville ?
+
+Mais ma Tante ?
+
+Monsieur, je ne suis pas tout à fait surprise du premier compliment que vous me faites. Je reconnais à vos manières cette galanterie Française, dont j'avais entendu parler : vous croiriez faire un crime d'aborder une femme sans lui parler d'amour ; mais comme vous êtes nos vainqueurs, je dois craindre de vous irriter par ma réponse. Marton voudra bien la faire pour moi.
+
+Vous fait-elle dire ce que vous pensez, et le penserez-vous toujours ?
+
+Les Français ont la réputation d'être inconstants.
+
+Mais comment ferons-nous, Marton, pour faire consentir ma Tante à ce mariage ; car sans elle…
+
+Il ne faut point espérer cela, Marton.
+
+Si mon impatience pouvait hâter le succès que vous souhaitez…
+
+Ah ! Que vous prenez mal les moments, Monsieur, pour hâter un mariage que l'on a si longtemps différé.
+
+C'est Merlin déguisé, je pense ?
+
+Quand vous me commandez, Madame, je ne fais jamais qu'obéir : mais aujourd'hui, je vous l'avoue, j'obéirai sans répugnance.
+
+Ma chère Tante, que je vous ai d'obligation !
+
+Cela ne serait pas dans la bienséance, il a raison, ma tante.
+
+Ma chère tante !
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjulien
+
+Vous voyez, Madame, ce que peut l'amour sur un cœur bien fait : c'est lui qui me retient ici quand tous les autres sont dans le Château.
+
+Il est vrai que depuis que je suis dans le service, j'ai perdu bien de mes gens, Madame.
+
+Quand je fis ma Compagnie, je la fis complète ; elle a duré tant qu'elle a pu. Mais parlons sérieusement, Madame, je suis tous les jours à la veille d'être tué sur une brèche.
+
+Avant que m'y exposer, je prétends, en épousant votre nièce, lui assurer tous mes biens, Madame : que deviendraient-ils, si je mourrais garçon ?
+
+Oui, Madame, je suis puissamment riche, il m'est dû vingt années de paie, et des millions de récompense.
+
+Je n'aime pas à être enfermé, Madame, et je ne trouve pas qu'un homme de cœur doive se cacher derrière des murailles.
+
+Mais enfin, chacun a son goût, Madame. Pour moi, je ne fais jamais rien d'inutile : si le Château est pris, il en faudrait sortir. Est-ce la peine d'y entrer ?
+
+Je ne la méprise point, mais…
+
+Hé bien, Madame, conclurons-nous ? Je ne puis demeurer ici longtemps encore. Ne faites pas perdre à votre nièce les avantages que je lui veux faire.
+
+Quel est-il ce conseil, Madame ?
+
+Vous moquez-vous de moi, Madame ?
+
+Je n'y comprends rien.
+
+Non, par ma foi, Madame, je vous l'avoue.
+
+Mais, que veut dire…
+
+Vous voulez me faire perdre l'esprit, ou vous le perdez vous-même, Madame.
+
+Madame…
+
+Elle extravague. Voyons sa nièce.
+
+Mais, rendez-moi une réponse positive, Mademoiselle, je serai content.
+
+C'est parce qu'on l'a tant différé, que je presse pour le conclure, Mademoiselle.
+
+Vous me semblez bien téméraire, Seigneur Français, de parler à Don Julien comme vous faites.
+
+Je n'entends pas ce langage-là, Seigneur Français.
+
+Ah, ah, ah, ah.
+
+Ah, ah, ah, ah, mon petit ami, la fierté vous sied mal, Seigneur Français, c'est pourtant l'apanage de votre nation, que la fierté.
+
+Miséricorde !
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marton
+
+Que demandez-vous ici, Monsieur ?
+
+Comment, Marton ! Vous me connaissez donc, à ce que je vois ?
+
+Hé ! C'est vous, Monsieur Clitandre ? Vous étiez Abbé dans le temps que nous nous sommes vus à Paris, vous voilà maintenant Officier. Qui vous eut reconnu ? Quelle métamorphose !
+
+Vous étiez un éveillé petit-collet : je ne sais pas ce que vous êtes avec une épée.
+
+Vous êtes de notre nouvelle garnison, apparemment ?
+
+Hé, que venez-vous faire dans ce logis ? Est-ce à moi que vous rendez visite ?
+
+Je n'avais garde de vous reconnaître.
+
+Comment diantre ! Vous êtes aussi prompt à prendre l'amour, qu'à prendre des Villes, Monsieur.
+
+Ah ! Monsieur…
+
+Non, Monsieur, je ne suis point intéressée.
+
+En vérité, Monsieur, ce n'est pas sans répugnance ; mais, si je faisais trop la fière, vous me croiriez l'humeur espagnole, je prends votre argent pour vous obéir. Vous faites si bien les choses, vous autres Français, qu'il n'y a pas moyen de s'en défendre.
+
+Vous en userez comme il vous plaira, Monsieur, vous êtes le maître.
+
+Que puis-je faire pour votre service, voyons ? Quoique Flamande, j'ai les inclinations tout à fait Françaises ; j'ai demeuré si longtemps à Paris, j'ai sucé les mœurs du pays, je suis bonne Princesse ; et je puis dire sans vanité, que j'ai fait mon apprentissage chez une des plus habiles coquettes qui fût au monde. Car voyez-vous, Monsieur, quand on n'a point de bien, il faut se faire un talent. Paris passe pour être la source des Sciences, et c'est là que j'ai puisé le secret de manier adroitement une intrigue ; c'est là que j'ai appris à m'acquitter avec succès des petites commissions que l'on me donne, et à me rendre capable de soutenir la confidence d'une fille de dix-huit ans : aussi peut-on dire, à ma gloire, que je suis la personne de Flandres qui a le plus de réputation.
+
+Çà, de quoi s'agit-il ? Voyons.
+
+Ah, que vous me proposez-là une chose difficile, Monsieur !
+
+Ce qui m'embarrasse, c'est qu'il y a ici un certain Espagnol, qui depuis deux ans est amoureux de ma maîtresse.
+
+Mais par-dessus tout cela, nous avons une demi vieille Tante, des plus Coquettes dans le fond, et en apparence d'une sévérité à faire enrager toute une Garnison.
+
+Voici ma maîtresse et la vôtre.
+
+Allez faire un tour de jardin, je vais lui parler de vous ; venez nous aborder dans quelques moments. Je crois que vos affaires n'iront pas tout à fait mal, puisque je m'en mêle.
+
+J'ai bien affaire de toi, vraiment. Va, va, j'aime mieux trente louis bien comptés que tous les maris du monde.
+
+Mademoiselle.
+
+Rien, Mademoiselle. Nous nous sommes reconnus, je l'ai vu autrefois à Paris. La peste, qu'il y faisait bonne figure ! C'est un Seigneur tout des plus riches, et avec cela fort honnête homme.
+
+Sa physionomie ne trompe point, il vient de me donner trente pistoles.
+
+Dans la vue de me faire plaisir. Il voit que je suis une pauvre fille, dont la fortune et la patrie sont exposées aux insultes des gens de guerre : la compassion l'a touché pour moi vivement. Il m'a donné trente pistoles.
+
+Par ma foi, l'on en dira ce qu'on voudra, mais je ne saurais trahir mon cœur, cette Nation-là me plaît plus qu'une autre, ce sont des gens de bon commerce. Mais votre Don Julien, depuis deux ans qu'il vous fait la cour, n'a pas eu l'honnêteté de me faire le moindre petit présent. Avec ces sortes d'animaux-là, quel plaisir a-t-on de servir une jolie personne ?
+
+Je ne vous dis pas cela. Je veux seulement vous faire comprendre que les Français ont les manières plus insinuantes que les Espagnols ; c'est un fond de galanterie inépuisable, un abord civil et touchant, du respect sans bassesse, de la délicatesse dans la conversation ; fiers au combat, et soumis près des Dames, ils semblent également faits et pour l'amour, et pour la guerre.
+
+Hé, ne pensez-vous pas comme moi ? Que de façon ! Vous étiez à votre fenêtre le jour que leurs Troupes entrèrent dans la Ville. Presque tous leurs Officiers vous parurent bien faits ; vous louiez la taille de celui-ci, l'air et la démarche de celui-là ; et qu'il vous en souvienne, vous me dites le soir en confidence qu'il y en avait un que vous aviez plus remarqué que les autres.
+
+Serait-il possible ?
+
+Oh, par ma foi, j'en suis bien aise.
+
+Puisqu'il est ainsi, j'ai à vous dire, que s'il vous plaît, vous ne lui plaisez pas moins ; et ce n'est que pour vous le dire, que je l'ai fait demeurer dans le jardin.
+
+On dira que vous êtes de bon goût. Que pourrait-on dire autre chose ? C'est à bonne intention une fois ; et croyez-moi, vous êtes jeune, ne contraignez point votre cœur, si vous voulez faire un tendre usage de vos beaux jours. Un Français est justement ce qu'il vous faut pour cela, je vous en avertis.
+
+Votre Tante : oh nous ne prendrons point ses avis là-dessus. Elle n'est pas tellement Espagnole, qu'elle ne s'accommodât d'un Français, aussi bien qu'une autre, mais il n'y aura pas presse à lui en conter. Écoutez votre nouvel amant, le voici qui approche ; quelqu'un lui aura dit que votre Tante est sortie ; il est Français, il sait profiter de l'occasion.
+
+Vous me faites donc l'un et l'autre votre Plénipotentiaire absolue : et par ma foi vous avez raison. Les grandes phrases sont embarrassantes, oui ; et l'on ne traite plus l'amour par compliment, cela durerait trop. Vous dites à Monsieur qu'il est votre vainqueur ; par exemple, il vous répondrait bien, s'il voulait, que c'est lui qui se trouve le vaincu : là-dessus vous lui feriez connaître qu'il a poussé sa victoire plus loin qu'il ne s'imagine. À cela, il dirait quelque chose, apparemment ; sur quoi vous ne vous tairiez pas, sans doute. À quoi tout cela vous mènerait-il ? Abrégeons les choses. Dites à Mademoiselle que vous l'aimez : répondez à Monsieur que vous ne le haïssez pas. Voilà sans tant de préambule le résultat qu'aurait la conversation, n'est-ce pas ?
+
+Hé bien, tenez, vous retombez dans la bagatelle. Halte-là, s'il vous plaît, et venons au fait. Voici une affaire qu'il faut brusquer. Premièrement en amour comme en guerre, les Français aiment les impromptus, Mademoiselle.
+
+Il faut trouver moyen de la tromper, et vous débarrasser de votre Espagnol. Et ce ne sont pas là de petites affaires, les Espagnols gardent mieux les femmes que les Villes.
+
+Chacun a ses petits talents dans ce monde.
+
+Oh ! Je n'y épargnerai rien, je vous en assure. Il faut que la tante vous donne la moitié de son bien, premièrement.
+
+Il faut qu'elle le fasse, vous dis-je, il n'y a rien de plus juste. Elle a déjà quarante ans, supposons qu'elle jusqu'à quatre-vingt ; comme elle a fait la moitié de sa carrière, il ne lui faut plus que la moitié de son bien pour achever l'autre.
+
+Je ne plaisante point, cela sera, vous dis-je. Je lui donne quatre-vingts années à vivre, a-t-elle lieu de se plaindre ?
+
+Mais toi, qui fais là le raisonneur, es-tu bon à quelque chose, parle ?
+
+Quoi ! Tu es de ces Merlins…
+
+C'est à quoi nous allons songer : mais comme la Tante peut revenir, et que si elle vous trouvait ensemble, cela retarderait l'exécution de vos projets, il faut commencer par vous séparer.
+
+Vous en trouverez la fin plus agréable. Allez dans votre chambre. Et vous, allez vous mettre à l'ombre dans le petit bois du jardin ; il ne faut pas vous éloigner, je prévois que l'affaire sera bientôt expédiée ; et une intrigue, menée par deux illustres comme nous, ne saurait pas longtemps durer.
+
+Hé, mort de ma vie, laissez-nous, nous n'avons point de temps à perdre.
+
+Mon bonheur est grand, Monsieur Merlin, d'avoir à travailler sous un personnage de votre mérite, et de votre réputation.
+
+Les miennes ont besoin des vôtres ; Monsieur Merlin.
+
+Oh, je suis votre servante, j'ai reçu trente pistoles, je les garde ; c'est sur nouveaux frais qu'on nous emploie : si cela ne vous accommode pas…
+
+Oh, je vois bien, je vois bien. Tiens, mon enfant, point de mésintelligence parmi les alliés, cela fait manquer les entreprises.
+
+C'est le bien prendre.
+
+Songeons d'abord à nos desseins, on verra ce qu'on aura à faire.
+
+C'est une vieille fille, et de mauvaise humeur, par conséquent.
+
+Point du tout, elle se trouve fort jolie, et elle ne se changerait pas pour une autre.
+
+Elle est Espagnole par habitude, mais je la crois Française par raison.
+
+Par raison d'amour. Elle veut être mariée, c'est là sa folie ; et c'est ce qui fait qu'elle n'est point fâchée que la Ville ait changé de Maître. Les Espagnols réfléchissent trop pour elle, ils se donnaient le temps de la connaître, et à moins qu'on ne l'épouse sans réflexion, elle court risque de n'être jamais épousée. Il n'y a qu'un étourdi de Français qui puisse faire la chose.
+
+Cela te donne-t-il quelque idée ?
+
+Voilà de grands desseins, au moins.
+
+À vue de pays, je commence à deviner la chose. Tu vas devenir Marquis pour duper la Tante.
+
+Mais, que veux-tu que je te dise, c'est un Espagnol qui s'appelle Don Julien.
+
+Hé, vraiment oui, c'est un officier de notre défunte garnison, justement.
+
+Pourquoi ? C'est qu'il n'aime pas tant la gloire que sa Maîtresse. Il pourrait être tué dans le Château ; au pis aller, il ne sera que marié dans la Ville. Il craint plus la mort que le mariage, Merlin.
+
+C'est notre tante, il n'est pas trop à propos qu'elle te voie.
+
+Il ne me veut rien, Madame, c'est vous qu'il demande.
+
+Apparemment, Madame. Il ne me l'a pourtant pas dit, mais, je l'ai bien jugé à ses allures.
+
+Oui, ils ont un certain feu, une certaine vivacité… Il y a bien de la différence du flegme Espagnol à leur étourderie, et nous nous apercevons bien du change, Madame.
+
+Les gens de réflexion ne sont pas bons pour vous, vous avez raison.
+
+Ma foi, Madame, je les trouve fort jolis gens, moi, quelque chose qu'on en dise ; et j'ai remarqué qu'il n'y a que les maris de ce pays-ci qui en parlent mal.
+
+Ah, ma pauvre Marton ! Vous avez quelque chose à me dire ?
+
+Quoi ! Mais ? Seriez-vous amoureuse de quelque Français ?
+
+Ah ! J'entends, vous en voulez à toute la Nation, comment diantre !
+
+Tenez-vous un peu, que je vous voie en face. Ah ! La belle physionomie de femme. Tenez, Madame, vous ressemblez à l'Empereur Trajan comme deux gouttes d'eau ; vous avez tous les traits d'un grand personnage.
+
+Capable, Madame ! Ils aiment fort les beautés Romaines.
+
+Si vous vouliez seulement vous faire un petit filet de barbe, je répondrais de la chose. Attendez, montrez-moi votre main, j'aurai bientôt vu ce qui en arrivera.
+
+Si je m'y connais ! J'ai été Bohémienne. Ah que vous êtes menacée d'une belle fortune, Madame !
+
+Vous serez Marquise, et Marquise Française, avant qu'il soit vingt quatre heures.
+
+À quoi je le vois ? Il n'y a rien de plus facile à comprendre. Tenez, voyez-vous bien ces deux lignes qui croisent la ligne de vie ? Là, vers le milieu.
+
+Cela s'appelle des lignes de dignités, Madame, et voilà ce qui vous fera Marquise, cela est sûr ; quand vous ne le voudriez pas, il faudrait que cela fût.
+
+On ne peut pas plus.
+
+Vraiment, Madame, je n'ai quitté Paris que parce que j'étais trop habile. J'étais accablée de curieux et de curieuses ; de filles qui venaient demander quand elles auraient des maris ; de femmes qui voulaient savoir quand elles n'en auraient plus. Je commençais même à passer pour un peu sorcière. Ma réputation me faisait des envieux. Je me suis dérobée à ma gloire et à la renommée, et j'ai tout quitté de peur de trop faire parler de moi.
+
+Je ne m'en sers que pour mes amis, l'on ne dit pas tout ce qu'on sait. Voilà Don Julien, par exemple, à qui vous voulez donner votre nièce.
+
+Vous croyez que je vous laisserai faire cette alliance-là, peut-être ?
+
+Don Julien sera pendu ! Madame.
+
+Il le sera, vous dis-je, car j'y ai regardé. C'est pourtant un fort honnête homme, il mourra innocent : mais pour pendu, il faut qu'il le soit, je l'ai condamné à cela ; et de tous ceux que j'ai pendus en ma vie, il n'en a jamais réchappé un.
+
+Ce sont vos affaires. Je vous dis consciencieusement les choses ; mais ne lui en parlez point, Madame, il ne faut pas affliger ce pauvre homme.
+
+Oh, Madame, il ne faut pas s'effaroucher encore, il ne sera pas pendu si tôt : mais il le sera.
+
+Avec sa Compagnie, Madame ? Il y a deux ans qu'il n'a que trois soldats qui lui servent de laquais et de valet de chambre.
+
+Les uns sont morts de faim, les autres de peur, et le reste de maladie : n'est-ce pas, Monsieur ?
+
+Oh, vous êtes trop prudent pour cela.
+
+La belle ressource pour une veuve !
+
+Il ne s'attend pas à être pendu.
+
+La gloire n'est pas bonne à voir de près ; Monsieur a raison, elle est trop laide.
+
+Je m'en doute à peu près, c'est notre homme.
+
+Vivat, Madame.
+
+Voilà déjà plus de la moitié de mes prédictions accomplies ?
+
+Préparez-vous, Madame, à recevoir un Marquis de conséquence, qui vient ici vous rendre visite.
+
+Si c'est un joli homme ! C'est un Petit-Maître.
+
+Il y en a de plusieurs espèces ; mais ordinairement ce sont de jeunes gens entêtés de leur qualité, badins, folâtres, enjoués, qui parlent beaucoup et qui disent peu, soupirant sans tendresse, amoureux par conversation, magnifiques sans biens, généreux en promesses, prodigues d'amitiés, inventeurs de modes, et des airs surtout.
+
+Des airs à la mode. L'étourderie d'un écolier, la brusque valeur d'un enfant de Paris, fracas d'équipage, tabatières de quinze différents volumes, gros nœuds d'épée, perpétuel maniement de perruque, distractions continuelles, gestes affectés, éclats de rire sans sujet, mots favoris placés à l'aventure, se piquant d'esprit et de bon goût, et disant quelquefois de bonnes choses par hasard ; grands épouseurs surtout. Voilà, Madame, ce que c'est que les Petits-Maîtres.
+
+Il est à la porte, Madame, dans son carrosse.
+
+Vous êtes, qu'on ne peut pas mieux.
+
+Le voici, Madame.
+
+Oh, Monsieur, on ne punit pas les désertrices.
+
+Je vous suis bien obligée de m'épargner, Monsieur.
+
+Voilà une maladie bien violente, Madame.
+
+Ils sont tous comme cela. Dès qu'ils voient une belle femme, ils crèveraient plutôt que de ne la pas épouser.
+
+Et vous trouvez de bons hasards quelquefois.
+
+Je crois qu'il est sincère. Et ne vous l'ai-je pas dit, Madame, qu'il fallait absolument que vous fussiez Marquise.
+
+Ne tirez plus, Monsieur, ne tirez plus ; le cœur de Madame bat la chamade.
+
+La Place capitule, Monsieur, dressons les articles.
+
+À qui en avez-vous ?
+
+Comment donc, Monsieur, on capitule, et vous n'êtes pas content ? Est-ce que vous voudriez nous prendre d'assaut, de par tous les diantres ?
+
+Vous avez un frère qui est aussi amoureux de Madame ?
+
+Que parlez-vous d'oncle, de Testament, que voulez-vous dire ?
+
+Quelle condition ? Quoi ?
+
+Ah ! Madame, feu Monsieur mon oncle était l'oncle le plus bizarre et le plus hétéroclite qu'on ait jamais vu.
+
+Attendez, ne vous affligez point ; il me passe dans la tête de petites idées, qui pourraient bien nous tirer d'embarras. Oui.
+
+Oui, fort bien, justement : le Contrat d'Angélique et de D. Julien est tout dressé depuis quinze jours, il n'y a eu que l'Impromptu du siège qui a empêché de le signer.
+
+Il n'y a pas d'autre moyen, Madame ; vous avez une nièce qu'il faut donner au cadet, vous épouserez l'aîné, vous ; et la condition du Testament sera suivie
+
+Et je vais tout d'un temps chercher votre Notaire, Madame, afin d'expédier les choses.
+
+Voilà Monsieur votre Frère qui arrive. Votre Notaire va venir, Madame.
+L'affaire est en bon train, Mademoiselle.
+
+Je vous ai bien dit, moi, que vous avuez une bonne Tante.
+
+Voilà un Marquis qui aime la gloire : comme il court après !
+
+Ne vous alarmez point, vous allez le voir revenir triomphant, Madame.
+
 Tu n'expédies pas mal une intrigue.
 
--*who_merlin
-Nous faisons tout en impromptu, nous autres.
-M'aimes-tu ?
-Dis.
+Si je t'aime ! Et le moyen de s'en défendre ?
 
--*who_marton
-Si je t'aime !
-Et le moyen de s'en défendre ?
 
--*who_merlin
-Encore autre impromptu, je t'épouse, et vivent les Français, Marton.
-Il n'y a ni villes, ni femmes qui leur résistent.
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffon
+
+Sur ce que Mademoiselle Marton m'a dit de votre part, Madame, je suis au plus vite accouru pour vous rendre mes petits services.
+
+Il y en a déjà un tout fait, Monsieur : celui de D. Julien peut servir. Mademoiselle Marton m'a dit de changer seulement le nom, et de mettre celui de Monsieur Clitandre, cela est fait.
+
+Cela ne sera pas bien difficile, Madame.
+
+Monsieur, ce ne sont pas les Notaires à qui ils font le plus gagner en ce pays-ci.
+
+Voilà qui est fait, il n'y a qu'à signer.
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laverdure
+
+Pargué mon Colonel, je vous demande bien pardon, mais nan va bailler une attaque, le Régiment est commandé pour ça ; est-ce que vous voudriais qu'il y allât sans vous ?
+
+Oui palsangué, il l'est.
+
+Vous ? Morgué, où est-ce que vous voulez aller ? Halte-là, s'il vous plaît, les personnes de la Ville à l'assaut du château, testigué queu ménage.
+
+Lui, morgué, vous ne le reverrez point, il a beau dire.
+
+S'il en revient, la peste m'étouffe, il sera tué, sur ma parole, je m'en vas l'entarrer : serviteur.
+
+
+**** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ricochet
+
+C'est Don Julien qui vous demande, ma Marraine ?
+
+Mademoiselle Marton ?
+
+C'est Mademoiselle Marton qu'on demande, ma Marraine ?
+
+C'est un grand pendard qui demande ce Monsieur-là, ma Marraine.
+

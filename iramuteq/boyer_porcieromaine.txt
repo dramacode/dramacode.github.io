@@ -1,37 +1,7 @@
 
 
-**** *book_ *id_dedicace *date_1646 *creator_boyer
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
 
-A MADAME LA MARQUISE DE RAMBOUILLET
-
-MADAME,
-
-C'est une dame romaine, qui vient vous rendre ses devoirs.
-Si beaucoup de françois et de ceux qui se piquent de connoistre les personnes de son païs, ne l'ont extrèmement flatée, elle conserve encore assés de l'air de ce qu'elle fut autrefois pour n'avoir pas besoin de vous dire son nom en vous abordant.
-Mais comme il n'y a que vous, MADAME, en ce Royaume, qui se puisse vanter d'avoir avec son païs et son sexe, une naissance pareilles aux siennes ; c'est de vous seule, qu'elle veut savoir, si en quittant le langage de Rome, elle en a perdu les sentiments.
-Et sans tirer aucun avantage de tout ce qu'on dit en sa faveur, c'est seulement par l'accueil que vous lui ferez, qu'elle veut juger d'elle-mesme.
-Elle espère de vostre bonté que vous souffrirez son entretien, et
-
-pour peu que vous la trouviez semblable à la fille du grand Caton, et à la veuve de Brutus, elle vous estime trop généreuse pour ne s'asseurer pas
-
-que vous lui donnerez vostre protection : et c'est MADAME, l'espérance de ce glorieux avantage, qui l'a fait venir chez vous.
-Dans l'obligation qu'elle a de se laisser voir à toute la France estrangère comme elle est, considérable seulement par la grandeur de ses disgraces, sans une faveur comme la vostre, il n'est point de mauvaise rencontre qu'elle ne deût apréhender.
-Mais si vous vous déclarez pour elle, le respect qu'on a pour tout ce que vous avoüez, la rendre aussi vénérable dans les lieux de vostre séjour, qu'elle le fut autrefois dans ceux de vostre naissance, et n'estant plus estrangère, où vous estes si considérée, j'espère, MADAME, qu'elle aura assez de bonheur pour avoir l'entrée de plus curieux cabinets, et pour n'y perdre pas l'estime, qu'elle attend de vostre approbation.
-Aussi me flatant par avance du succez de mon essay, je m'eslève à des plus grands desseins, qui pourront mieux soustenir la dignité de vostre Nom, et vous faire agréer la hardiesse que je prens de me dire,
-
-MADAME
-
-Vostre trés-humble, et trés
-
-obéïssant serviteur.
-
-BOYER
-
-LA PORCIE ROMAINE TRAGEDIE
-
-**** *book_ *id_I01 *act_I *date_1646 *creator_boyer
-
--*who_brute
 Pourquoy mal à propos, image triste, et noire,
 Troubles tu sans respect mon repos, et ma gloire ?
 Caesar est-ce ton ombre et viens-tu dans ces lieux
@@ -54,12 +24,6 @@ S'efforce à retarder les desseins glorieux,
 Que pour la liberté m'inspirèrent les Dieux.
 Maxime, à moy.
 
-**** *book_ *id_I02 *act_I *date_1646 *creator_boyer
-
--*who_maxime
-      Seigneur,
-
--*who_brute
       Voy cette ombre obstinée.
 Mais je ne la voy plus, et mon âme estonnée
 Sent un trouble secret, quand cette ombre s'enfuit.
@@ -79,17 +43,6 @@ Ou victimes de Rome, ou ses libérateurs,
 Vivans dans la franchise⁎, ou mourrans avec elle,
 Décidons promptement cette vieille querelle.
 
--*who_maxime
-Quoy ? Seigneur maintenant ; quand les Dieux en courroux
-De la grandeur Romaine ennemys ou jaloux,
-Vous font voir clairement vos futures disgraces;
-Et pour vous advertir, n'usent que des menaces !
-Ecoutez leurs advis, quoy que trop rigoureux ;
-Taschez d'en profiter, servez-vous d'eux contr'eux ;
-Ne bravez pas la foudre, alors que les Dieux tonnent :
-Qui vous peut soûtenir, lorsqu'ils vous abandonnent ?
-
--*who_brute
 Ah ! Ne m'entretiens plus d'un si lâche discours ;
 Que la terre, et les Dieux me laissent sans recours
 Qu'ils n'osent me deffendre, et soûtenir ma cheute ;
@@ -105,33 +58,6 @@ Cassie en rougiroit. Mais Dieux ! Quelle tristesse
 Couvre, et paslit ce front autrefois si serain ?
 Est-ce là le maintien, et le front d'un Romain ?
 
-**** *book_ *id_I03 *act_I *date_1646 *creator_boyer
-
--*who_cassie
-Brute je suis Romain, cognoissez mieux Cassie:
-Je crains pour nostre Rome, et non pas pour ma vie.
-Quoy seray-je sans crainte, et sans ébranlement⁎ ?
-Quand je voy nos soldats frémir d'estonnement⁎
-Ces horribles corbeaux, cette troupe affamée,
-Dans ces champs de Pharsale au sang accoustumée,
-Renouvelant l'espoir de leurs derniers butins,
-Sont les noirs truchemens⁎ de nos mauvais destins.
-Ces menaces du Ciel, et mille autre présages
-Ont droit d'espouvanter les plus fermes courages.
-La rencontre d'un More effroyable à nos yeux.
-Une suëur de sang qui coule de nos Dieux.
-Mon cheval abatu par l'esclat de la foudre;
-Et par le mesme éclat un Autel mis en poudre⁎.
-Un prestre mort du coup, un autre de frayeur.
-La victime échapée au Sacrificateur.
-Les malignes ardeurs d'une estrange comete,
-Qui rend d'estonnement⁎ la Nature muete,
-Justifient mon trouble, et font voir aujourd'huy,
-Qu'icy ma crainte est juste en craignant pour autruy :
-Et j'estime envers Rome, insensible ou sans zèle,
-Qui prévoit tant de maux, et ne craint rien pour elle.
-
--*who_brute
 Dieux ! S'il faut présumer que tout est arresté
 Par l'immuable loy de la fatalité ;
 Pourquoy nous advertir des maux inévitables ?
@@ -148,20 +74,6 @@ Cachons à l'Univers un faible si honteux.
 N'escoutons-plus enfin ces Oracles douteux.
 Consultons seulement Rome, et nostre courage.
 
--*who_cassie
-Brute, Rome pourtant craint l'effet du présage.
-Vous sçavez que le Ciel par ses ordres cachez⁎
-Tient à certains momens nos mal-heurs attachez.
-Differons un combat, que les soldats en crainte,
-Entreprendront sans doute avec trop de contrainte.
-Donnons le temps au Ciel de travailler pour nous ;
-Donnons-luy le loisir de vaincre son courroux ;
-Lassons sa cruauté par nostre patience ;
-Que sa longue fureur cède à nostre constance ;
-Et respectant la main qui nous a menacez,
-Faisons rougir les Dieux de s'estre courroucez.
-
--*who_brute
 Qu'ils rougissent plustost de voir périr Octave :
 De triomphant qu'il est, devenir nostre Esclave ;
 Et malgré les dangers, dont ils m'ont adverty,
@@ -191,15 +103,6 @@ Qu'ils n'ayent pas le loisir de voir qui le surmonte ;
 Qu'ils sçachent que le coup qui punit les Tyrans,
 Est un coup qui menace, et frape en même temps.
 
--*who_cassie
-Brute a donc resolu de forcer mille obstacles.
-De vaincre les Destins, de faire des miracles,
-D'expozer tout un Monde à la haine des Cieux :
-Brute l'a résolu contre l'avis des Dieux.
-Mais résistera-t-il à l'avis de Cassie ?
-Brute se souvient-il qu'il hazarde⁎ Porcie ?
-
--*who_brute
 Je sens à ce beau nom chanceler ma vertu.
 Chaste, et divin amour, dont je suis combatu,
 Toy, de qui je ressens les mortelles atteintes,
@@ -211,10 +114,6 @@ Puisqu'il ayme Porcie avec tant de tendresse,
 Qu'il ne l'oze exposer à ces fameux revers,
 A qui j'oze exposer Rome, et tout l'Univers.
 
--*who_cassie
-Vous vous rendez enfin.
-
--*who_brute
       Oüy, je me rends Cassie,
 Je me rends sans rougir en faveur de Porcie ;
 Et je fus envers elle ingrat, et sans souci,
@@ -234,9 +133,6 @@ Qui doit haster ma gloire, et son esloignement.
 O ! Dieux que cet objet met du trouble en mon Ame
 Qu'un coeur est esbranlé par les yeux d'une femme !
 
-**** *book_ *id_I04 *act_I *date_1646 *creator_boyer
-
--*who_brute
 Enfin nous arrivons à ce funeste jour,
 Trop différé pour Rome, et peu pour nostre Amour.
 L'ennemy s'offre à nous, Caesar est tout en armes ;
@@ -256,38 +152,6 @@ Irrite mes frayeurs, et trahit ma constance.
 N'exposés pas tout, Brute, et que votre pitié
 Mette enfin à couvert⁎ sa plus belle moitié.
 
--*who_porcie
-Quoy !Vous me renvoyez ; Brute bannit sa femme :
-Et ce cruel divorce est l'effet de sa flâme !
-M'aime-t-il de la sorte ? et faut-il aujourd'huy,
-Que ce qui nous unit me sépare de luy ?
-Faut-il que par un sort honteux à ma naissance,
-Vous m'esloigniez des lieux, où j'atens ma vengeance ?
-Quand l'ennemy s'aproche, et vient fondre sur nous,
-C'est son premier exploict de m'esloigner de vous.
-Luy donnez-vous déjà ce superbe avantage,
-De paroistre plus fort que nostre mariage ?
-Quoy ? Me soupçonnez-vous ? Ay-je le coeur trop bas ?
-Seray-je en asseurance⁎ où vous ne serez pas ?
-Puis-je estre en asseurance⁎ en craignant vostre chute ?
-Si vous craignez pour moy, je ne crains que pour Brute :
-Brute estant exposé, je suis dans le danger,
-Et mon esloignement ne m'en peut dégager.
-Si le sort vous couronne, et cède à ma prière,
-L'Espouze du Vainqueur le sçaura la dernière ;
-Et peut-estre Caesar en fuyant le péril,
-Peut venir dans un lieu fameux par mon exil ;
-Et me mettant aux fers pour réparer sa gloire,
-Vous punir par sa fuite, et par vostre victoire.
-Que si le Ciel injuste a juré vostre mort,
-Je vivray cependant ignorant vostre sort ;
-Et quand je l'auray sçeu, je ne puis que vous suivre,
-Moy qui ne devrois pas un moment vous survivre,
-Ah ! Quitez ce dessein, j'embrasse vos genoux :
-Par le cher nom de Brute, et par celuy d'Espoux :
-Par ces pleurs, par ce coeur, et par cette tendresse.
-
--*who_brute
 Que faites-vous, Madame, espargnés ma foiblesse ;
 Faites à mon Amour une plus juste loy :
 Usez mieux du pouvoir que vous avez sur moy.
@@ -302,15 +166,6 @@ Puis-je toujours rongé par ce pressant soucy,
 Prester tout mon esprit aux desseins de ma gloire ?
 Et m'abandonner tout aux soins de ma victoire ?
 
--*who_porcie
-Icy donc ma présence abat un si grand coeur ?
-Ah ! Plustost redoublez sa force, et sa valeur.
-Tirez de ma présence un si noble avantage,
-Qu'elle vous fasse agir avec plus de courage,
-Pour combattre, pour vaincre, et pour vous conserver,
-Ayant avecque Rome une femme à sauver.
-
--*who_brute
 Il est vray, je l'avouë, icy vostre présence
 Doit pour vostre interest soustenir ma constance :
 Que ne feray-je point aidé par vos regars ?
@@ -327,32 +182,6 @@ Je voys à nos Tyrans, Porcie abandonnée,
 Par un char triomphant insolemment traisnée.
 O !Dieux.
 
--*who_porcie
-      Me faites-vous un si lasche destin ?
-Voyez quel fut Caton, et quelle fut sa fin:
-Reconnoissez son sang ; et sçachez que sa fille
-Ne trahira jamais l'honneur de sa famille.
-Prévoyant sa défaite attendit-il Caesar ?
-Voulut-il augmenter la pompe de son char ?
-Sçeut-il pas par un coup digne d'un si grand homme
-Se soustraire au destin, qui fit succomber Rome ?
-Et malgré l'ennemy qui creut l'avoir vaincu,
-Mourir libre et Romain comme il avoit vécu ?
-Ainsi mourut Caton, ainsi mourra Porcie:
-Et si jamais Caesar me tenoit asservie,
-J'irai chercher la mort par des chemins divers ;
-Mon juste désespoir triompheroit des fers ;
-On me verroit perir par mon propre esclavage,
-Et faisant de ma chaine un effroyage usage
-Changer heureusement par un illustre effort
-L'instrument de ma honte en celui de ma mort.
-Enfin vous me verrez au milieu de ma cheute,
-Digne sang de Caton, digne femme de Brute ;
-Imiter comme il faut un père généreux⁎ ;
-Imiter mon espoux, et répondre à tous deux.
-Reconnoissez Porcie à cet adveu fidèle.
-
--*who_brute
 Plus je la reconnois, et plus je crains pour elle.
 Cachez⁎-moi des apas,⁎ que je n'ose exposer ;
 Quoi que tant de Vertu⁎ semble m'y disposer,
@@ -365,17 +194,6 @@ Etaler dans ces champs ses plus noires images ;
 Et sans considérer alliance ni rang
 Tirer de mille endroits un déluge de sang.
 
--*who_porcie
-Je verrai ces horreurs servir à vostre gloire,
-Et ces torrens de sang haster vostre victoire.
-Ne m'estant pas permis d'aider que par des voeux
-La gloire, et le succez d'un combat si fameux,
-Je pourray pour le moins voir de prés avec joye.
-Tous nos persécuteurs devenir nostre proye.
-Voir briser tous nos fers, voir vanger nos parens,
-Triompher nostre Rome, et tomber ses Tyrans.
-
--*who_brute
 O ! Coeur vraiment Romain, et digne de la gloire,
 Qui des plus grands Héros illustre la mémoire.
 Je ne résiste plus, demeurez, j'y consens.
@@ -397,45 +215,10 @@ J'auray soin de pourvoir au salut de Porcie.
 Tu sçais combien ce soin importe à mon Amour.
 Adieu, nous nous verrons à la pointe du jour.
 
-**** *book_ *id_II01 *act_II *date_1646 *creator_boyer
-
--*who_brute
 Hé bien, tout est-il prest ?
 
--*who_cassie
-      Oüy, Brute, il faut combâtre :
-Les soldats, que les Dieux semblent vouloir abâtre,
-Et qu'ils avoient émeu par d'injustes frayeurs,
-Ont repris par ma voix leurs premières ardeurs.
-Amys (leur ay-je dit d'une voix assez forte
-Quelle soudaine peur vous abat de la sorte ?
-Ces coeurs dans les périls éprouvés si souvent
-Se laissent-ils troubler par un souffle de vent
-Par le feu d'un éclair : par le bruit d'un orage :
-Par les cris des corbeaux animés au carnage,
-Qui demandent le sang, qu'il vous faut immoler
-Et bruslent d'une soif, dont vous devez brusler ?
-Rome et la Liberté, ces deux noms adorables
-Vous sont-ils maintenant si peu considérables,
-Que vous les négligiés par des présages vains,
-Et qu'on doute à vous voir, si vous estes Romains.
-A ces mots, j'aperçoy qu'une ardeur vive, et prompte,
-Rougit leurs fronts palis d'une superbe honte,
-Et leurs esprits enfin pleinement excitez
-Font briller dans leurs yeux ces malignes clartez.
-Dont un aspre dépit, et l'effort de la rage
-Dans leur premier transport arment un grand courage,
-Et tous meslant leurs voix dans un commun éclat,
-Par des cris redoublez s'animent au combat.
-On n'attend plus que vous.
-
--*who_brute
       Allons donc : mais Cassie,
 
--*who_cassie
-Quoy ?
-
--*who_brute
       Je revoy tousjours l'image de Porcie ;
 Tu vois que je l'expose, et que malgré mes voeux
 Rien ne peut ébransler un coeur si généreux.
@@ -444,10 +227,6 @@ Ou que n'es-tu mon ame un peu moins amoureuse.
 Ce coeur trop chancelant au poinct d'exécuter
 N'aurroit pas des frayeurs, qu'il ne peut surmonter.
 
--*who_cassie
-Qu'avés vous résolu ?
-
--*who_brute
       De courir à la gloire,
 De servir mon amour, sans souiller ma mémoire ;
 D'aymer tousjours Porcie, et de la conserver,
@@ -461,9 +240,6 @@ Elle vient ; un Adieu me rend quite envers elle
 Accorde à mon Amour ce funeste loisir ;
 Va, ne sois pas tesmoin de nostre déplaisir.
 
-**** *book_ *id_II02 *act_II *date_1646 *creator_boyer
-
--*who_brute
 Il est temps de partir : souffrez que je vous quite :
 On presse le combat, Rome m'y sollicite ;
 Et la voix du soldat plein d'un noble courroux,
@@ -503,7 +279,601 @@ Ces indignes tesmoins de nostre lâcheté :
 Soupirez pour ma gloire, ainsi que pour la vostre ;
 Enfin soyez Porcie, et ne soyez point autre.
 
--*who_porcie
+Adieu donc, ma Porcie.
+
+Madame esperés mieux, adieu ;demeure icy,
+Maxime, prens soin d'elle ; et toy Julie aussi.
+
+Madame, où courrez-vous, fuyez un misérable.
+Fuyez, fuyez ma honte, et le sort qui m'accable.
+C'en est fait, et je voy tout à coup renversé
+Un destin que les Dieux ont longtemps balancé.
+Le mal-heur de Cassie a produit nos disgraces,
+Et le Ciel par sa mort a remply ses menaces,
+Enfin César triomphe.
+
+Hélas vostre douleur me rend plus mal-heureux :
+Par l'excez de l'ébranlement⁎ qui vous rend abatuë,
+César se peut vanter de vous avoir vaincuë.
+Vous vous faites sentir avec trop de rigueur,
+Grands-Dieux, si ma disgrace abat un si grand coeur.
+Qu'icy vostre vertu s'excite toute entière ;
+Voicy pour vostre gloire une illustre matière :
+Un époux mal-heureux, que la fortune abat,
+Fait de vostre vertu le plus brillant éclat
+Si sauvant vostre nom de sa dernière honte,
+Vous sçavez triompher du coup, qui le surmonte,
+Soustenez un mal-heur dont ma gloire frémit,
+Et méprisez un coup, soubs qui Rome gémit.
+Du moins dans le regret d'une perte commune,
+Monstrez, si vous pleurez ou Brute, ou sa fortune ;
+Sa fortune a péry, c'est ce que vous pleurez,
+Et vous aimez un bien, pour qui vous soupirez.
+Tout Brute reste encor dans ce mal-heur extrème ;
+Brute ne peut jamais périr que par luy-mème ;
+Il ne sera jamais sous le pouvoir d'autruy,
+Et tout vaincu qu'il est, Brute dépend de luy.
+
+Hélas ! Vostre vertu⁎ dans ce pressant mal-heur
+Ne m'afflige pas moins qu'a fait vostre douleur.
+Je voy dans l'un et l'autre une pareille envie ;
+Toutes deux à leur tour menacent vostre vie.
+Il est vray qu'en l'estat où le sort nous a mis
+La mort est à nos maux un remède permis.
+Madame il faut mourir ; c'est une gloire extrème
+De pouvoir en mourant disposer de soy-mesme :
+De n'avoir point de Maistre au siècle de César,
+Et ravir nostre gloire aux pompes de son Char.
+Le seul mourir est libre en l'estat où nous sommes,
+Donnons ce grand exemple au veu de tous les hommes.
+Monstrons à nostre Rome en cette extrémité,
+Que tous deux par un coup de générosité
+Sçavons mettre à couvert⁎ d'un tyran inflexible,
+Tout ce qui luy restoit de grand et d'invincible.
+Que s'il faut espérer la grace du vainqueur,
+Craignons plus que la mort cette indigne faveur.
+Nous ne fusmes jamais un sujet de clémence ;
+Le malheur qui nous perd nous laisse l'innocence,
+Et c'est pour un Romain un trop funeste don,
+S'il doit de son tyran recevoir un pardon.
+Sus donc, chère Porcie, excitez vostre gloire ;
+De cent braves ayeulx r'apellez la mémoire,
+Et retraçant sur vous tant de traits de valeur,
+Peignez dans vostre mort la gloire de la leur.
+
+C'est trop, c'est trop, Madame, en l'estat où je suis,
+Me pressez-vous de vivre au milieu des ennuis.
+Brute vivra sans gloire, et tout couvert de honte ?
+Et de la liberté fera si peu de conte ?
+C'est sur moy, c'est sur moy que doit tomber le sort ;
+Puisque je suis vaincu je mérite la mort.
+Si le sang de Caton me fit prendre les armes,
+Je le fis par devoir autant que par vos larmes,
+Et Rome à mesme temps m'y devoit engager,
+Quand je n'aurois pas eu de beaupere à vanger.
+Si ma main a vangé la mort d'un si grand homme,
+Je n'ay pas achevé la vengeance de Rome ;
+Vivez donc, cependant que je cours au trespas,
+Vostre père est vangé, mais Rome ne l'est pas.
+J'ay par tous mes efforts soustenu sa querelle ;
+Maintenant c'est ma mort, qui m'acquite envers elle.
+J'abandonne un destin qu'on ne peut secourir,
+Ou plustost je sers Rome en me faisant mourir,
+Ne la pouvant sauver dans ce commun naufrage,
+Que du seul déplaisir de voir mon esclavage.
+Pour vous, qui méritez un destin plus heureux,
+Portez, portez à Rome un coeur si généreux⁎ :
+Présentés-luy le sang que je verse pour elle,
+Reprochez-luy ma mort, et l'ardeur de mon zèle ;
+Faites enfin pour moy, ce qu'Antoine autrefois
+Fit pour vanger César, et soûtenir ses drois.
+S'il arma les Romains contre leur propre gloire,
+Armez-les maintenant pour leur propre victoire,
+Aydez à renverser avec vos propres mains
+Le joug, dont trois Tyrans accablent les Romains.
+
+      Hé ! Bien mourons, Madame.
+Enfin vostre devoir triomphe de ma flamme :
+Vostre gloire le veut, il y faut consentir :
+Ma générosité⁎ ne se peut démentir.
+Tendresse, amour, pitié, qui la vouliez surprendre,
+Servez mieux mon devoir, il est temps de se rendre.
+Je ne me deffends plus contre tant de vertu⁎.
+Toy, qui vois son dessein y consentiras-tu.
+Justes Ciel ! Pourras-tu voir périr ton ouvrage ?
+Le reste des Catons, la gloire de nostre âge ?
+Pourras-tu voir enfin entrer dans le tombeau,
+Tout ce que nostre Rome a de grand et de beau ?
+Voir ces brillans appas⁎ se couvrir des ténèbres ?
+Voir changer ces clartez en des ombres funèbres ?
+Voir tomber ce beau sang et par un prompt effort
+Voir passer dans ce corps les horreurs de la mort?
+Ah ! Madame
+
+Vous voulez donc mourir, mais quel fer, quelle main
+Osera traverser cet adorable sein ?
+O ! Dieux. Que veut Maxime, et qu'à-t-il à nous dire ?
+
+      Voicy Maxime,
+De quoy braver Octave, et sauver nostre estime.
+Mais avant que mourir prévenons son dessein,
+Et mourons, s'il se peut, les armes à la main.
+Avant qu'on me ravisse une si chère vie,
+Il faut que ma fureur pleinement assouvie,
+Par des sanglants exploits achevant ce grand jour,
+Honore nostre mort, et vange mon amour.
+Mourons, mais tous couverts du sang de ces perfides.
+Vous, restes généreux⁎ de nos troupes timides,
+Venez sur nos tyrans porter vos derniers coups.
+
+Doi-je pas tenter tout par un effort supréme,
+Pour servir nostre Rome, et sauver ce que j'ayme ?
+Nos efforts seront vains, mais nostre désespoir
+Ne doit pas attenter⁎ dessus nostre devoir.
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
+      Seigneur,
+
+Quoy ? Seigneur maintenant ; quand les Dieux en courroux
+De la grandeur Romaine ennemys ou jaloux,
+Vous font voir clairement vos futures disgraces;
+Et pour vous advertir, n'usent que des menaces !
+Ecoutez leurs advis, quoy que trop rigoureux ;
+Taschez d'en profiter, servez-vous d'eux contr'eux ;
+Ne bravez pas la foudre, alors que les Dieux tonnent :
+Qui vous peut soûtenir, lorsqu'ils vous abandonnent ?
+
+Ne blasmez point, Madame, un devoir légitime ;
+Si je suis criminel, Brute a fait tout le crime,
+Qui pour mieux signaler l'amitié d'un époux
+M'oblige d'arrester, et d'estre auprés de vous.
+
+      Mais que dira-t-il ?
+
+      Dieux, que me dites-vous !
+Madame, quand le Ciel se déclare pour nous,
+De grace, cachez-luy cette ingrate tristesse
+
+Madame, donnez-vous le loisir de m'entendre,
+
+Quel charme injurieux vous cache sa victoire ?
+Ces indignes frayeurs me rendent tout confus :
+Ouvrez les yeux, Madame, et ne vous trompez plus.
+J'ay veu tout le combat, aprenés-en l'issue.
+Il est vray que quelqu'un vous peut avoir deceuë.
+La victoire douteuse a long-temps balancé ;
+J'ay veu plus d'une fois nostre espoir renversé.
+Et voila le sujet de ces fausses allarmes.⁎
+Mais, Madame, aprenés le succés de nos Armes.
+Estant auprés de Brute, assés prés des hazards,⁎
+J'y voy voler par tout une gresle de dards.
+L'avance sans songer au péril de ma vie,
+Mais un zèle plus fort m'en fit perdre l'envie :
+Je m'escarte, et soudain nos soldats à la fois,
+Tous comme par dépit jetent arcs, traits, carquois :
+Chacun tire l'espée, et leurs brillantes lames,
+Dans l'air noircy de poudre⁎ allument mille flâmes.
+Tous la foudre à la main, et d'un commun accord
+Fondent sur l'autre Armée avecque tant d'effort,
+Que par ce rude choc se voyant esbranlée,
+Elle épaissit ses rangs, évite la mélée,
+Et ménageant sa force avecque sa valeur,
+Laisse exhaler sans fruit leur première chaleur.
+Brute aime le péril, et veut tout entreprendre.
+Antoine moins ardent s'obstine à se deffendre.
+Enfin voyant ses gens, et plus frais, et plus forts,
+Et nos soldats lassés par leurs propres efforts,
+Il fait quitter aux siens le soin de leur deffence,
+Et lâche enfin la bride à leur impatience.
+Ils se mèlent alors, mais se recognoissans,
+Le sang ou l'amitié les rend tous languissans.
+Tous poussez par leurs Chefs, plus que par leur courage,
+Les yeux fermez d'horreur s'excitent au carnage.
+L'un estouffe un germain, qu'il brûle d'embrasser ;
+L'autre immole un amy qu'il voudroit caresser.
+J'en voy parmy ceux-là qui devenus timides
+Par l'effroyable aspect de tant de parricides,
+A des crimes si noirs n'ozent s'abandonner,
+Et reçoivent la mort de peur de la donner.
+L'un combat seulement d'une main languissante,
+Qui par des coups légers se conserve innocente.
+Plusieurs vangent sur eux celuy qu'ils ont blessé ;
+D'autres mèlent des pleurs au sang qu'ils ont versé ;
+L'un met les armes bas, l'autre rompt son espée ;
+L'un, qui portant un coup voit sa valeur trompée,
+Est ravy de faillir le coup qu'il entreprend ;
+Un autre terrassé par la main d'un parent,
+Pour le laisser joüyr d'un si triste avantage,
+Luy cache son forfait en couvrant son visage.
+Mais enfin quelque Amour qu'ils sentent pour le sang,
+La fureur les surmonte, et n'espargne aucun flanc.
+Là de crainte, et d'horreur, j'avois l'Ame trancie,
+Quand Philippe venant du combat de Cassie
+M'aborde avec le front d'un homme satisfait,
+Et me dit en courant qu'Octave estoit défait⁎ ;
+Il sème dans le camp cette grande victoire ;
+Brute l'aprend soudain, et prend part à la gloire :
+Il monstre plus d'ardeur, mais presque en mème instant
+Le sort capricieux, et tousjours inconstant,
+Altère cette joye en abandonnant Brute,
+Ses gens lâchent le pied, il reste seul en bute ;
+Son cheval par leur fuite est soudain renversé :
+Il tombe.
+
+      Mais sans s'estre blessé.
+Philippe voit sa chûte, et sans en voir la suite,
+Vers le camp de Cassie il se sauve à la fuite.
+Moy pour secourir Brute estant un peu trop loin,
+J'en voy, qui plus presens m'espargnèrent ce soin.
+Il remonte à cheval, et soudain son courage,
+Semble par le dépit se convertir en rage :
+Il court de tous costez plus viste que le vent ;
+S'opose aux fugitifs, leur gagne le devant,
+Fait avancer contr'eux toute l'arrière garde,
+Arreste enfin leur fuite, ou du moins la retarde ;
+Et ramassant ainsi la plus-part des Soldats,
+Ranime son espoir, et revient sur ses pas :
+L'ennemy cède enfin, se trouble, s'espouvante,
+Et nostre grand Héros, pour remplir son attente
+Pensant n'avoir rien fait, s'il ne va jusqu'au bout,
+Ainsi qu'un fier torrent, trouble, et ravage tout.
+
+Cassie espouvanté !
+
+Philippe, c'est l'effet de ta soudaine suite :
+De ton zèle imprudent, voila l'indigne suite.
+O ! Ciel si tes frayeurs causent ce désespoir,
+Quel Dieu peut empescher, ce que j'oze prévoir ?
+
+Après tant de mal-heurs vous tombez dans un pire ;
+J'ay par vostre ordre en vain ralié nos soldats,
+Pour amuser Octave, et retarder ses pas ;
+Et comblé les chemins de sang, et de carnage ;
+Octave malgré nous s'est enfin fait passage,
+Il vous cherche part tout, ne demande que vous,
+Et semble à ce seul but borner tout son courroux.
+Enfin vous estes pris, Seigneur.
+
+J'avoüeray⁎ hardiment une action si belle ;
+Je ne trahiray point la gloire de mon zèle.
+Oüy, Porcie eut péry si l'on no m'eut surpris,
+Et d'un si beau trespas le mien estoit le pris.
+Résolu de tomber avecque ma fortune,
+Et de me délivrer d'une vie importune
+J'ay creu que je devois avant que de périr
+Mériter par ce coup la gloire de mourir.
+Pouvois-je par un coup, qui fut plus légitime
+Signaler mon courage, eslever mon estime ;
+Et conserver l'honneur du Maistre que je sers
+Qu'en sauvant sa moitié de la honte des fers.
+Je sçay combien Porcie ayme la renommée :
+Mon Ame de ses voeux pleinement informée
+Sans son commandement sollicitoit ma main
+D'affranchir par sa mort l'honneur du sang Romain.
+J'ay voulu l'immoler, j'ay couru pour la joindre ;
+Si le coup est failly, l'honneur n'en est pas moindre ;
+Et quoy que ma valeur ayt tenté vainement
+D'oster à ton triomphe un si grand ornement.
+Mon coeur avecque⁎ joye attend de ta justice
+D'un crime généreux⁎ un illustre suplice.
+Il est vray que j'ay tort dans l'estat où je suis,
+De vouloir par ma mort terminer mes ennuys⁎ :
+Cependant que Porcie esclave et mal-heureuse
+Cherche en vain pour sa gloire une mort généreuse⁎.
+Souffrez-donc qu'elle meure, ou vive sans rougir.
+Octave, c'est ainsi qu'un grand coeur doit agir.
+Une gloire éclatante, et qui n'est pas commune
+Dépend de la vertu⁎, non pas de la fortune.
+Le sort donne souvent le tiltre de vainqueur ;
+Mais celuy de Clément est l'effet d'un grand coeur.
+Est-il d'un généreux, et pourrois-tu sans blâme
+Punir un ennemy sur l'honneur de sa femme ?
+Et forçant aujourd'huy ton inclination
+Préférer à ta gloire un peu d'ambition ?
+Sauve, sauve ta gloire en celle de Porcie :
+Triomphe de son coeur, et non pas de sa vie :
+Et relevant un sort tristement abatu
+Oblige une ennemie à loüer ta vertu⁎.
+Attendris cet orgueil à l'aspect de ses charmes.
+Et laisse-toy toucher par de si belles larmes.
+Mais j'offence ta gloire en cette occasion
+D'apeller ce grand coeur à la compassion,
+Ne conçois pas pour nous des sentimens vulgaires,
+Considère ta gloire, et non pas mes misères ;
+Et si tu te résous de finir nos mal-heurs,
+Escoute ta vertu⁎ plustost que nos douleurs.
+
+Seigneur, je connoy Brute, et sa vertu⁎ sévère
+Luy deffend de souffrir un destin si contraire :
+Il en rompra le cours, et ce coeur indompté
+Préviendra par sa mort l'effet de ta bonté
+
+N'offence pas, Seigneur, la gloire de mon Maistre :
+Il fuit pour mourir libre, et par un noble effort
+Goûter avec loisir, le plaisir de la mort.
+Voilà, voilà Seigneur, le sujet de sa fuite.
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassie
+
+Brute je suis Romain, cognoissez mieux Cassie:
+Je crains pour nostre Rome, et non pas pour ma vie.
+Quoy seray-je sans crainte, et sans ébranlement⁎ ?
+Quand je voy nos soldats frémir d'estonnement⁎
+Ces horribles corbeaux, cette troupe affamée,
+Dans ces champs de Pharsale au sang accoustumée,
+Renouvelant l'espoir de leurs derniers butins,
+Sont les noirs truchemens⁎ de nos mauvais destins.
+Ces menaces du Ciel, et mille autre présages
+Ont droit d'espouvanter les plus fermes courages.
+La rencontre d'un More effroyable à nos yeux.
+Une suëur de sang qui coule de nos Dieux.
+Mon cheval abatu par l'esclat de la foudre;
+Et par le mesme éclat un Autel mis en poudre⁎.
+Un prestre mort du coup, un autre de frayeur.
+La victime échapée au Sacrificateur.
+Les malignes ardeurs d'une estrange comete,
+Qui rend d'estonnement⁎ la Nature muete,
+Justifient mon trouble, et font voir aujourd'huy,
+Qu'icy ma crainte est juste en craignant pour autruy :
+Et j'estime envers Rome, insensible ou sans zèle,
+Qui prévoit tant de maux, et ne craint rien pour elle.
+
+Brute, Rome pourtant craint l'effet du présage.
+Vous sçavez que le Ciel par ses ordres cachez⁎
+Tient à certains momens nos mal-heurs attachez.
+Differons un combat, que les soldats en crainte,
+Entreprendront sans doute avec trop de contrainte.
+Donnons le temps au Ciel de travailler pour nous ;
+Donnons-luy le loisir de vaincre son courroux ;
+Lassons sa cruauté par nostre patience ;
+Que sa longue fureur cède à nostre constance ;
+Et respectant la main qui nous a menacez,
+Faisons rougir les Dieux de s'estre courroucez.
+
+Brute a donc resolu de forcer mille obstacles.
+De vaincre les Destins, de faire des miracles,
+D'expozer tout un Monde à la haine des Cieux :
+Brute l'a résolu contre l'avis des Dieux.
+Mais résistera-t-il à l'avis de Cassie ?
+Brute se souvient-il qu'il hazarde⁎ Porcie ?
+
+Vous vous rendez enfin.
+
+      Oüy, Brute, il faut combâtre :
+Les soldats, que les Dieux semblent vouloir abâtre,
+Et qu'ils avoient émeu par d'injustes frayeurs,
+Ont repris par ma voix leurs premières ardeurs.
+Amys (leur ay-je dit d'une voix assez forte
+Quelle soudaine peur vous abat de la sorte ?
+Ces coeurs dans les périls éprouvés si souvent
+Se laissent-ils troubler par un souffle de vent
+Par le feu d'un éclair : par le bruit d'un orage :
+Par les cris des corbeaux animés au carnage,
+Qui demandent le sang, qu'il vous faut immoler
+Et bruslent d'une soif, dont vous devez brusler ?
+Rome et la Liberté, ces deux noms adorables
+Vous sont-ils maintenant si peu considérables,
+Que vous les négligiés par des présages vains,
+Et qu'on doute à vous voir, si vous estes Romains.
+A ces mots, j'aperçoy qu'une ardeur vive, et prompte,
+Rougit leurs fronts palis d'une superbe honte,
+Et leurs esprits enfin pleinement excitez
+Font briller dans leurs yeux ces malignes clartez.
+Dont un aspre dépit, et l'effort de la rage
+Dans leur premier transport arment un grand courage,
+Et tous meslant leurs voix dans un commun éclat,
+Par des cris redoublez s'animent au combat.
+On n'attend plus que vous.
+
+Quoy ?
+
+Qu'avés vous résolu ?
+
+Désirs impétueux d'une ardeur violente,
+Transports⁎ précipitez, douleurs impatientes,
+Ne vous oposez plus à mon dernier devoir :
+Je m'abandonne après à tout mon désespoir :
+Pour le moins un moment souffrez que je respire.
+Que fait fileuses. O ! Dieux, que luy pourray-je dire !
+
+      Oüy, Brute est mort, Julie.
+
+      Dans un profond deuil mon Ame ensevelie,
+Et ces traits languissans, que peignent mes douleurs,
+Te descouvrent assez la perte, et nos malheurs.
+Il est vray, je sens bien que ma gloire indignée,
+A croire un meilleur sort rend mon Ame obstinée :
+Et ce coeur resistant au destin qui l'abat,
+S'il cède à la douleur, ce n'est pas sans combat.
+Me suis-je point trompé, Philippe, et la poussière,
+Qui couvrant tout le camp, nous cachoit la lumière,
+M'a-t'elle point surpris d'une fausse terreur ?
+As-tu veu Brute mort ? N'est-ce point une erreur ?
+
+Philippe tes discours justifient donc ma plainte.
+Je te voy donc, Amy, sans honneurs, sans Tombeau,
+La proye ou le rebut d'un infame Corbeau,
+Le plus grand des Romains, et tout l'espoir de Rome,
+A peine retenir la figure d'un homme.
+Dieux, faites-vous semblable, et d'une mesme main,
+Le destin du grand Brute, et d'un simple Romain ?
+Et tranchez-vous si-tost avec tant de licence,
+Du monde désolé la dernière espérance ?
+Mais quand mesme il vivroit, (si j'oze conçevoir
+Parmy tant de malheurs, quelque léger espoir)
+Le mal seroit plus grand, et sa mort moins funeste ;
+Mon désespoir s'accroist par l'espoir qui me reste :
+Dans quelque grand éclat qu'il ait tousiours vescu ;
+Le seul sang peut lever la honte d'un vaincu.
+Vous, qui n'estes jamais lassez de nous poursuivre,
+Dieux, le condamnez-vous à la honte de vivre :
+Mais aussi si nos jours relèvent de son sort,
+Nous pouvez-vous l'oster par un si prompt effort ?
+Il est mort cependant, et sans que vostre rage
+Par de nouveaux malheurs s'explique davantage,
+Sans autre ordre, et sans vous, son destin aujourd'huy
+Precipite le mien, et m'entraisne vers luy.
+Sacrez manes de Brute, ombre pasle, et sanglante,
+Parmy d'indignes morts confusément errante.
+Viens, amy contempler avec quelle vigueur,
+Ma constante amitié règne encor dans mon coeur.
+Avec quelles ardeurs, il brûle de te suivre ;
+A combien de trespas ta disgrace le livre ;
+Et souffre qu'au milieu de ses justes douleurs,
+Il te donne aujourd'huy du sang au lieu de pleurs.
+Sus, fidelle affranchy, rens-moy ce bon office,
+Offre à ce grand Héros un si beau sacrifice ;
+La victime, et le Dieu sont dignes de ta main.
+Respond à ce beau choix avec un coeur Romain.
+Frape, contente Brute, et qu'un coup favorable
+Rende en quelque façon nostre destin semblable :
+Si Brute a succombé par la fuite des siens,
+Fais que je tombe icy souz les efforts des miens :
+Si Brute dans sa mort treuve cet avantage,
+Qu'abâtu souz les siens il fait voir son courage,
+Fais que pour l'imiter je succombe aujourd'huy
+Par mon propre courage, et par la main d'autruy.
+
+      Ne crains point, contente mon envie;
+Tranche, tranche le fil d'une fâcheuse vie :
+Obéis sans réplique, et sans examiner
+Ce que le Ciel apreuve, et ne peut condamner.
+Ne crains-point du reproche, où mon dessein t'engage :
+Tu me prestes la main, et non pas le courage.
+Plus à mon désespoir ton secours paroist lent,
+Plus je sens qu'il s'accroist, et se rend violent.
+Qu'attens-tu ?Qu'un Tyran me fasse son esclave,
+Et que mon infamie enfle l'orgueil d'Octave.
+Fais que je meure libre, et qu'un coup attendu
+Me conserve aujourd'huy ce que je t'ay rendu.
+Ne manque pas de foy, si tu manques de zèle,
+Et ne sois pas ingrat, si tu n'es pas fidèle.
+
+Donc, vous blâmez tous deux un coup si magnanime.
+Mon trespas vous fait peur, et passe pour un crime.
+Vous voulez que je vive alors que Brute est mort ?
+Et rompre l'amitié qui confond nostre sort.
+Puis-je sans lâcheté survivre un si grand homme,
+Sur l'espoir incertain de vanger nostre Rome ?
+J'esperay de vaincre, où Brute a succombé !
+De demeurer debout quand le Monde est tombé !
+C'est avoir pour la vie une Amour sans seconde,
+Que de n'oser périr avecque⁎ tout le Monde.
+Quiconque en cet estat se perd avec honneur,
+Doit rendre les vainqueurs jaloux de son bon-heur,
+Et l'on ne peut tomber d'une plus belle chute,
+Qu'alors qu'on voit tomber l'Univers, Rome, et Brute.
+Mais fileuses est icy : que je crains son abord,
+Et qu'un fâcheux respect va retarder ma mort.
+Toy, va voir cependant, si l'ennemy s'avance.
+
+Madame, il n'est plus temps qu'un trop lâche silence
+Vous cache le sujet de mes justes douleurs ;
+Il est vray que je crains qu'après tant de malheurs,
+Un coup si rigoureux vous treuve trop sensible.
+Esprouvez-vous, Madame, autant qu'il est possible,
+Et monstrez au plus fort de vos adversitez
+Que vous n'oubliez point le sang dont vous sortez.
+Brute n'est plus, Madame, et mon Ame soupire
+D'avoir de vie assez pour vous le pouvoir dire.
+Je ne condamne point vos justes déplaisirs,
+Je respecte vos pleurs, j'aprouve vos soupirs ;
+Et s'il faut qu'aujourd'huy la voix d'un misérable
+Vous fasse revenir du deuil qui vous accable.
+C'est pour ne laisser point ce grand coeur abâtu,
+Alors qu'il doit agir par sa seule vertu⁎.
+Si vaincre la douleur au point de sa naissance,
+Est le suprème effort d'une masle constance ;
+Si quiconque entreprend un coup si généreux⁎,
+Tente contre soy-mesme un combat dangereux :
+Songez, songez qu'Octave est beaucoup plus à craindre ;
+Qu'il oste à vostre Amour le loisir de se plaindre.
+Relevez donc ce coeur, consultez avec luy
+Du glorieux dessein qu'il doit prendre aujourd'huy :
+N'agissez que par luy dans ce malheur extrème ;
+Que sa haute vertu⁎ se règle sur soy-mème.
+Quelque coup dont le sort oze vous assaillir,
+Le sang du grand Caton ne peut jampis faillir.
+Je vous laisse à vous-mème ;adieu, Brute m'apelle,
+Et Rome veut qu'enfin par un coup digne d'elle,
+J'aprene aux vrais Romains à faire leur devoir.
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
+
+Quoy !Vous me renvoyez ; Brute bannit sa femme :
+Et ce cruel divorce est l'effet de sa flâme !
+M'aime-t-il de la sorte ? et faut-il aujourd'huy,
+Que ce qui nous unit me sépare de luy ?
+Faut-il que par un sort honteux à ma naissance,
+Vous m'esloigniez des lieux, où j'atens ma vengeance ?
+Quand l'ennemy s'aproche, et vient fondre sur nous,
+C'est son premier exploict de m'esloigner de vous.
+Luy donnez-vous déjà ce superbe avantage,
+De paroistre plus fort que nostre mariage ?
+Quoy ? Me soupçonnez-vous ? Ay-je le coeur trop bas ?
+Seray-je en asseurance⁎ où vous ne serez pas ?
+Puis-je estre en asseurance⁎ en craignant vostre chute ?
+Si vous craignez pour moy, je ne crains que pour Brute :
+Brute estant exposé, je suis dans le danger,
+Et mon esloignement ne m'en peut dégager.
+Si le sort vous couronne, et cède à ma prière,
+L'Espouze du Vainqueur le sçaura la dernière ;
+Et peut-estre Caesar en fuyant le péril,
+Peut venir dans un lieu fameux par mon exil ;
+Et me mettant aux fers pour réparer sa gloire,
+Vous punir par sa fuite, et par vostre victoire.
+Que si le Ciel injuste a juré vostre mort,
+Je vivray cependant ignorant vostre sort ;
+Et quand je l'auray sçeu, je ne puis que vous suivre,
+Moy qui ne devrois pas un moment vous survivre,
+Ah ! Quitez ce dessein, j'embrasse vos genoux :
+Par le cher nom de Brute, et par celuy d'Espoux :
+Par ces pleurs, par ce coeur, et par cette tendresse.
+
+Icy donc ma présence abat un si grand coeur ?
+Ah ! Plustost redoublez sa force, et sa valeur.
+Tirez de ma présence un si noble avantage,
+Qu'elle vous fasse agir avec plus de courage,
+Pour combattre, pour vaincre, et pour vous conserver,
+Ayant avecque Rome une femme à sauver.
+
+      Me faites-vous un si lasche destin ?
+Voyez quel fut Caton, et quelle fut sa fin:
+Reconnoissez son sang ; et sçachez que sa fille
+Ne trahira jamais l'honneur de sa famille.
+Prévoyant sa défaite attendit-il Caesar ?
+Voulut-il augmenter la pompe de son char ?
+Sçeut-il pas par un coup digne d'un si grand homme
+Se soustraire au destin, qui fit succomber Rome ?
+Et malgré l'ennemy qui creut l'avoir vaincu,
+Mourir libre et Romain comme il avoit vécu ?
+Ainsi mourut Caton, ainsi mourra Porcie:
+Et si jamais Caesar me tenoit asservie,
+J'irai chercher la mort par des chemins divers ;
+Mon juste désespoir triompheroit des fers ;
+On me verroit perir par mon propre esclavage,
+Et faisant de ma chaine un effroyage usage
+Changer heureusement par un illustre effort
+L'instrument de ma honte en celui de ma mort.
+Enfin vous me verrez au milieu de ma cheute,
+Digne sang de Caton, digne femme de Brute ;
+Imiter comme il faut un père généreux⁎ ;
+Imiter mon espoux, et répondre à tous deux.
+Reconnoissez Porcie à cet adveu fidèle.
+
+Je verrai ces horreurs servir à vostre gloire,
+Et ces torrens de sang haster vostre victoire.
+Ne m'estant pas permis d'aider que par des voeux
+La gloire, et le succez d'un combat si fameux,
+Je pourray pour le moins voir de prés avec joye.
+Tous nos persécuteurs devenir nostre proye.
+Voir briser tous nos fers, voir vanger nos parens,
+Triompher nostre Rome, et tomber ses Tyrans.
+
 Me mécognoissez vous souz un voile de pleurs ?
 Ou bien suis-je changée au milieu des douleurs ?
 Est-ce là le reproche où mon amour m'expose ?
@@ -545,22 +915,11 @@ Dérobez promptement cet objet à mes yeux ;
 Cet objet trop charmant, qui trouble ma constance,
 Plus j'en sens les douceurs, plus je crains son absence
 
--*who_brute
-Adieu donc, ma Porcie.
-
--*who_porcie
       Adieu, souvenez-vous,
 Que Brute est tout mon bien, que Brute est mon époux :
 Et si le Ciel, hélas ! Par un coup trop funeste...
 Pardonnés des souspirs qui vous diront le reste.
 
--*who_brute
-Madame esperés mieux, adieu ;demeure icy,
-Maxime, prens soin d'elle ; et toy Julie aussi.
-
-**** *book_ *id_II03 *act_II *date_1646 *creator_boyer
-
--*who_porcie
 Il est party, Julie, et je n'ose m'en plaindre
 Rome me le deffend, lors que j'ay tout à craindre ;
 Et mon coeur ébranslé, mais qui n'ose faillir,
@@ -630,13 +989,6 @@ Ta présence en ces lieux est tout ce qui t'accuse,
 Si donc de ta valeur je m'ose deffier,
 Va, cours, volle au combat pour te justifier.
 
--*who_maxime
-Ne blasmez point, Madame, un devoir légitime ;
-Si je suis criminel, Brute a fait tout le crime,
-Qui pour mieux signaler l'amitié d'un époux
-M'oblige d'arrester, et d'estre auprés de vous.
-
--*who_porcie
 Voy, ma chère Julie à quel poinct Brute m'aime :
 Il me laisse Maxime, et s'en prive lui-mesme.
 Il quitte en ma faveur un si fidèle apuy.
@@ -655,10 +1007,6 @@ Et les plus grands malheurs qu'on peut craindre aujourd'huy
 Pour venir jusqu'à moy doivent passer par luy.
 Va.
 
--*who_maxime
-      Mais que dira-t-il ?
-
--*who_porcie
       Que Maxime est fidelle,
 Et qu'il a pour Porcie un véritable zèle ;
 Que si sa tendre amour blasme ce procédé ;
@@ -672,9 +1020,6 @@ T'oblige d'arrester de peur de luy desplaire,
 Pour le moins va sçavoir, s'il est en bon estat,
 Et reviens m'advertir du succez du combat.
 
-**** *book_ *id_II04 *act_II *date_1646 *creator_boyer
-
--*who_porcie
 Je puis donc maintenant avecque confidence⁎
 T'expliquer mes douleurs, et mon peu de constance :
 Quelques beaux sentimens que je fasse éclater,
@@ -708,12 +1053,6 @@ Abandonnez ce soin, laissez-nous à nous-mème :
 Pour un peu de secours que l'on reçoit de vous,
 Vous nous donnez des pleurs trop indignes de nous.
 
--*who_julie
-Vous vous emportez trop à d'inutiles plaintes :
-Nous-mesme, non les Dieux, faisons toutes nos craintes.
-Mais quel est le sujet de ces promptes frayeurs ?
-
--*who_porcie
 Icy tous les objets me causent mille horreurs.
 Ces restes malheureux d'une effroyable armée,
 Rome dedans ces lieux à demy consommée,
@@ -729,40 +1068,6 @@ Si donc Pompée a fuy par Brute secondé,
 Brute tiendra-t-il ferme où tous deux ont cédé ?
 Voy par quelles terreurs le Ciel me persécute.
 
--*who_julie
-Sur ces lâches destins, réglez-vous ceux de Brute ?
-Et faut-il qu'une fille en cette extrémité
-Vous fasse des leçons de générosité ?
-Non, que j'oze blâmer ce que l'Amour fait naistre :
-Mais enfin il est temps que vous fassiez paraistre.
-Que l'Amour qui produit ces tendres mouvemens,
-Ne descend pas chez vous en de bas sentimens ;
-Que puisque la vertu⁎ ne hait pas la tendresse,
-D'elle vient vostre peur, non de quelque foiblesse ;
-Et que par des pensers⁎ dignes des plus grands coeurs
-Vous sçaurez démentir ces indignes terreurs.
-Si Brute a donc suivy le destin de Pompée ;
-Si de quelque frayeur ce coup vous a frapée ;
-Dites que sa valeur en cette occasion,
-Voulut par une adroite, et juste ambition,
-Réserver à luy seul une illustre victoire,
-Dont le nom de Pompée eut absorbé la gloire.
-Qu'il espargna César, et qu'il le couronna,
-Pour rendre plus fameux le coup qu'il luy donna.
-Si ce lieu plein d'effroy présente à vostre veüe,
-De tant d'illustres morts la cendre confonduë ;
-Si ces vieux ossemens l'un sur l'autre entassez
-Vous font apréhender tous nos mal-heurs passez :
-Enfin, si dans ces lieux on vit la tyrannie
-Triompher une fois, on l'y verra punie.
-Nous avons d'autres Dieux contre d'autres Tyrans :
-Nous avons d'autres mains pour vanger nos parens,
-Et l'on verra la mort dans ces plaines sanglantes
-Nous prester le secours de leurs ombres errantes.
-Ainsi ce qui produit vos agitations,
-Doit icy soustenir vos résolutions.
-
--*who_porcie
 Que tes discours, Julie, eschauffent mon courage !
 Oüy, je sens tes ardeurs, j'accepte ton présage :
 Tout m'offre un bon succez, et tout semble augmenter
@@ -776,185 +1081,6 @@ L'oeil tournée vers le Ciel, quelquefois vers l'Armée,
 Je pousseray vers l'un des soûpirs généreux,
 Et l'autre m'aprendra le succez de mes voeux.
 
-**** *book_ *id_III01 *act_III *date_1646 *creator_boyer
-
--*who_cassie
-Désirs impétueux d'une ardeur violente,
-Transports⁎ précipitez, douleurs impatientes,
-Ne vous oposez plus à mon dernier devoir :
-Je m'abandonne après à tout mon désespoir :
-Pour le moins un moment souffrez que je respire.
-Que fait fileuses. O ! Dieux, que luy pourray-je dire !
-
-**** *book_ *id_III02 *act_III *date_1646 *creator_boyer
-
--*who_julie
-Hélas !Sans m'informer, quels sont les desplaisirs,
-Qui d'un si grand courage arrachent ces soupirs ;
-J'en prevoy le sujet.
-
--*who_cassie
-      Oüy, Brute est mort, Julie.
-
--*who_julie
-Dieux !
-
--*who_cassie
-      Dans un profond deuil mon Ame ensevelie,
-Et ces traits languissans, que peignent mes douleurs,
-Te descouvrent assez la perte, et nos malheurs.
-Il est vray, je sens bien que ma gloire indignée,
-A croire un meilleur sort rend mon Ame obstinée :
-Et ce coeur resistant au destin qui l'abat,
-S'il cède à la douleur, ce n'est pas sans combat.
-Me suis-je point trompé, Philippe, et la poussière,
-Qui couvrant tout le camp, nous cachoit la lumière,
-M'a-t'elle point surpris d'une fausse terreur ?
-As-tu veu Brute mort ? N'est-ce point une erreur ?
-
--*who_philipe
-Non, Seigneur, je l'ay veu tomber en ma présence
-Par sa propre valeur, et par sa résistance ;
-Quand pressé de cent mains sans estre esbranlé,
-Souz la fuite des siens il se vit accablé.
-Ne vous souvient-il plus avec quelle furie
-Venoit fondre sur vous cette Cavalerie,
-Dont le bruit a troublé toutes vos légions ?
-Le désordre des Chefs, la mort des espions,
-Vous peuvent-ils donner que des sujets de crainte ?
-
--*who_cassie
-Philippe tes discours justifient donc ma plainte.
-Je te voy donc, Amy, sans honneurs, sans Tombeau,
-La proye ou le rebut d'un infame Corbeau,
-Le plus grand des Romains, et tout l'espoir de Rome,
-A peine retenir la figure d'un homme.
-Dieux, faites-vous semblable, et d'une mesme main,
-Le destin du grand Brute, et d'un simple Romain ?
-Et tranchez-vous si-tost avec tant de licence,
-Du monde désolé la dernière espérance ?
-Mais quand mesme il vivroit, (si j'oze conçevoir
-Parmy tant de malheurs, quelque léger espoir)
-Le mal seroit plus grand, et sa mort moins funeste ;
-Mon désespoir s'accroist par l'espoir qui me reste :
-Dans quelque grand éclat qu'il ait tousiours vescu ;
-Le seul sang peut lever la honte d'un vaincu.
-Vous, qui n'estes jamais lassez de nous poursuivre,
-Dieux, le condamnez-vous à la honte de vivre :
-Mais aussi si nos jours relèvent de son sort,
-Nous pouvez-vous l'oster par un si prompt effort ?
-Il est mort cependant, et sans que vostre rage
-Par de nouveaux malheurs s'explique davantage,
-Sans autre ordre, et sans vous, son destin aujourd'huy
-Precipite le mien, et m'entraisne vers luy.
-Sacrez manes de Brute, ombre pasle, et sanglante,
-Parmy d'indignes morts confusément errante.
-Viens, amy contempler avec quelle vigueur,
-Ma constante amitié règne encor dans mon coeur.
-Avec quelles ardeurs, il brûle de te suivre ;
-A combien de trespas ta disgrace le livre ;
-Et souffre qu'au milieu de ses justes douleurs,
-Il te donne aujourd'huy du sang au lieu de pleurs.
-Sus, fidelle affranchy, rens-moy ce bon office,
-Offre à ce grand Héros un si beau sacrifice ;
-La victime, et le Dieu sont dignes de ta main.
-Respond à ce beau choix avec un coeur Romain.
-Frape, contente Brute, et qu'un coup favorable
-Rende en quelque façon nostre destin semblable :
-Si Brute a succombé par la fuite des siens,
-Fais que je tombe icy souz les efforts des miens :
-Si Brute dans sa mort treuve cet avantage,
-Qu'abâtu souz les siens il fait voir son courage,
-Fais que pour l'imiter je succombe aujourd'huy
-Par mon propre courage, et par la main d'autruy.
-
--*who_philipe
-Quoy ? Seigneur.
-
--*who_cassie
-      Ne crains point, contente mon envie;
-Tranche, tranche le fil d'une fâcheuse vie :
-Obéis sans réplique, et sans examiner
-Ce que le Ciel apreuve, et ne peut condamner.
-Ne crains-point du reproche, où mon dessein t'engage :
-Tu me prestes la main, et non pas le courage.
-Plus à mon désespoir ton secours paroist lent,
-Plus je sens qu'il s'accroist, et se rend violent.
-Qu'attens-tu ?Qu'un Tyran me fasse son esclave,
-Et que mon infamie enfle l'orgueil d'Octave.
-Fais que je meure libre, et qu'un coup attendu
-Me conserve aujourd'huy ce que je t'ay rendu.
-Ne manque pas de foy, si tu manques de zèle,
-Et ne sois pas ingrat, si tu n'es pas fidèle.
-
--*who_julie
-J'excusois vos douleurs dans leurs premiers efforts ;
-Mais je n'excuse plus ces violens transports :
-Est-ce bien ménager une teste si chère ?
-Versez-vous pour un mort un sang si nécessaire ?
-Rome perdra son Brute, et l'on verra pour luy
-Tomber son dernier sang, et son dernier apuy !
-Et par vostre douleur sa gloire négligée
-Rougir de tant d'affronts sans en estre vangée.
-Que vostre mort, Seigneur, s'accorde à ce devoir :
-Mourez en vous vangeant, non par le désespoir.
-
--*who_cassie
-Donc, vous blâmez tous deux un coup si magnanime.
-Mon trespas vous fait peur, et passe pour un crime.
-Vous voulez que je vive alors que Brute est mort ?
-Et rompre l'amitié qui confond nostre sort.
-Puis-je sans lâcheté survivre un si grand homme,
-Sur l'espoir incertain de vanger nostre Rome ?
-J'esperay de vaincre, où Brute a succombé !
-De demeurer debout quand le Monde est tombé !
-C'est avoir pour la vie une Amour sans seconde,
-Que de n'oser périr avecque⁎ tout le Monde.
-Quiconque en cet estat se perd avec honneur,
-Doit rendre les vainqueurs jaloux de son bon-heur,
-Et l'on ne peut tomber d'une plus belle chute,
-Qu'alors qu'on voit tomber l'Univers, Rome, et Brute.
-Mais fileuses est icy : que je crains son abord,
-Et qu'un fâcheux respect va retarder ma mort.
-Toy, va voir cependant, si l'ennemy s'avance.
-
-**** *book_ *id_III03 *act_III *date_1646 *creator_boyer
-
--*who_cassie
-Madame, il n'est plus temps qu'un trop lâche silence
-Vous cache le sujet de mes justes douleurs ;
-Il est vray que je crains qu'après tant de malheurs,
-Un coup si rigoureux vous treuve trop sensible.
-Esprouvez-vous, Madame, autant qu'il est possible,
-Et monstrez au plus fort de vos adversitez
-Que vous n'oubliez point le sang dont vous sortez.
-Brute n'est plus, Madame, et mon Ame soupire
-D'avoir de vie assez pour vous le pouvoir dire.
-Je ne condamne point vos justes déplaisirs,
-Je respecte vos pleurs, j'aprouve vos soupirs ;
-Et s'il faut qu'aujourd'huy la voix d'un misérable
-Vous fasse revenir du deuil qui vous accable.
-C'est pour ne laisser point ce grand coeur abâtu,
-Alors qu'il doit agir par sa seule vertu⁎.
-Si vaincre la douleur au point de sa naissance,
-Est le suprème effort d'une masle constance ;
-Si quiconque entreprend un coup si généreux⁎,
-Tente contre soy-mesme un combat dangereux :
-Songez, songez qu'Octave est beaucoup plus à craindre ;
-Qu'il oste à vostre Amour le loisir de se plaindre.
-Relevez donc ce coeur, consultez avec luy
-Du glorieux dessein qu'il doit prendre aujourd'huy :
-N'agissez que par luy dans ce malheur extrème ;
-Que sa haute vertu⁎ se règle sur soy-mème.
-Quelque coup dont le sort oze vous assaillir,
-Le sang du grand Caton ne peut jampis faillir.
-Je vous laisse à vous-mème ;adieu, Brute m'apelle,
-Et Rome veut qu'enfin par un coup digne d'elle,
-J'aprene aux vrais Romains à faire leur devoir.
-
-**** *book_ *id_III04 *act_III *date_1646 *creator_boyer
-
--*who_porcie
 Dieux que viens-je d'entendre !Et que viens-je de voir !
 N'est-ce point un fantôme, ou n'est-ce point un songe,
 Qui d'une peur panique a produit ce mensonge !
@@ -1001,137 +1127,26 @@ Qu'importe, quel chemin je prendray pour te suivre.
 Si je meurs aujourd'huy par un illustre effort,
 La fille de Caton peut choisir cette mort.
 
--*who_julie
-Madame, surmontez ces premières allarmes.⁎
-
--*who_porcie
 Ah ! Ne t'opose point au torrent de mes larmes :
 Si tu m'aimes encor, viens mourir avec moy.
 
--*who_julie
-Je n'y recule point, mais qu'est-ce-que je voy ?
-C'est Maxime, et son front marque beaucoup de joye.
-
-**** *book_ *id_III05 *act_III *date_1646 *creator_boyer
-
--*who_porcie
 Maxime se peut-il qu'encor je te revoye ?
 Hé ! Bien tout est perdu.
 
--*who_maxime
-      Dieux, que me dites-vous !
-Madame, quand le Ciel se déclare pour nous,
-De grace, cachez-luy cette ingrate tristesse
-
--*who_porcie
 Mais plustost cache moy cette fausse allégresse ;
 En vain quand je connois l'excez de mon mal-heur,
 Tu veux trahir ma gloire, et tromper ma douleur
 
--*who_maxime
-Madame, donnez-vous le loisir de m'entendre,
-
--*who_porcie
 Hé ! Je ne sçay que trop, ce que tu veux m'aprendre ;
 Tu me diras enfin apres un long discours,
 Que Brute estant défait⁎ a sçeu trancher ses jours ;
 Qu'il a sçeu mourir libre, et tout couvert de gloire
 
--*who_maxime
-Quel charme injurieux vous cache sa victoire ?
-Ces indignes frayeurs me rendent tout confus :
-Ouvrez les yeux, Madame, et ne vous trompez plus.
-J'ay veu tout le combat, aprenés-en l'issue.
-Il est vray que quelqu'un vous peut avoir deceuë.
-La victoire douteuse a long-temps balancé ;
-J'ay veu plus d'une fois nostre espoir renversé.
-Et voila le sujet de ces fausses allarmes.⁎
-Mais, Madame, aprenés le succés de nos Armes.
-Estant auprés de Brute, assés prés des hazards,⁎
-J'y voy voler par tout une gresle de dards.
-L'avance sans songer au péril de ma vie,
-Mais un zèle plus fort m'en fit perdre l'envie :
-Je m'escarte, et soudain nos soldats à la fois,
-Tous comme par dépit jetent arcs, traits, carquois :
-Chacun tire l'espée, et leurs brillantes lames,
-Dans l'air noircy de poudre⁎ allument mille flâmes.
-Tous la foudre à la main, et d'un commun accord
-Fondent sur l'autre Armée avecque tant d'effort,
-Que par ce rude choc se voyant esbranlée,
-Elle épaissit ses rangs, évite la mélée,
-Et ménageant sa force avecque sa valeur,
-Laisse exhaler sans fruit leur première chaleur.
-Brute aime le péril, et veut tout entreprendre.
-Antoine moins ardent s'obstine à se deffendre.
-Enfin voyant ses gens, et plus frais, et plus forts,
-Et nos soldats lassés par leurs propres efforts,
-Il fait quitter aux siens le soin de leur deffence,
-Et lâche enfin la bride à leur impatience.
-Ils se mèlent alors, mais se recognoissans,
-Le sang ou l'amitié les rend tous languissans.
-Tous poussez par leurs Chefs, plus que par leur courage,
-Les yeux fermez d'horreur s'excitent au carnage.
-L'un estouffe un germain, qu'il brûle d'embrasser ;
-L'autre immole un amy qu'il voudroit caresser.
-J'en voy parmy ceux-là qui devenus timides
-Par l'effroyable aspect de tant de parricides,
-A des crimes si noirs n'ozent s'abandonner,
-Et reçoivent la mort de peur de la donner.
-L'un combat seulement d'une main languissante,
-Qui par des coups légers se conserve innocente.
-Plusieurs vangent sur eux celuy qu'ils ont blessé ;
-D'autres mèlent des pleurs au sang qu'ils ont versé ;
-L'un met les armes bas, l'autre rompt son espée ;
-L'un, qui portant un coup voit sa valeur trompée,
-Est ravy de faillir le coup qu'il entreprend ;
-Un autre terrassé par la main d'un parent,
-Pour le laisser joüyr d'un si triste avantage,
-Luy cache son forfait en couvrant son visage.
-Mais enfin quelque Amour qu'ils sentent pour le sang,
-La fureur les surmonte, et n'espargne aucun flanc.
-Là de crainte, et d'horreur, j'avois l'Ame trancie,
-Quand Philippe venant du combat de Cassie
-M'aborde avec le front d'un homme satisfait,
-Et me dit en courant qu'Octave estoit défait⁎ ;
-Il sème dans le camp cette grande victoire ;
-Brute l'aprend soudain, et prend part à la gloire :
-Il monstre plus d'ardeur, mais presque en mème instant
-Le sort capricieux, et tousjours inconstant,
-Altère cette joye en abandonnant Brute,
-Ses gens lâchent le pied, il reste seul en bute ;
-Son cheval par leur fuite est soudain renversé :
-Il tombe.
-
--*who_porcie
       Justes Dieux !
 
--*who_maxime
-      Mais sans s'estre blessé.
-Philippe voit sa chûte, et sans en voir la suite,
-Vers le camp de Cassie il se sauve à la fuite.
-Moy pour secourir Brute estant un peu trop loin,
-J'en voy, qui plus presens m'espargnèrent ce soin.
-Il remonte à cheval, et soudain son courage,
-Semble par le dépit se convertir en rage :
-Il court de tous costez plus viste que le vent ;
-S'opose aux fugitifs, leur gagne le devant,
-Fait avancer contr'eux toute l'arrière garde,
-Arreste enfin leur fuite, ou du moins la retarde ;
-Et ramassant ainsi la plus-part des Soldats,
-Ranime son espoir, et revient sur ses pas :
-L'ennemy cède enfin, se trouble, s'espouvante,
-Et nostre grand Héros, pour remplir son attente
-Pensant n'avoir rien fait, s'il ne va jusqu'au bout,
-Ainsi qu'un fier torrent, trouble, et ravage tout.
-
--*who_porcie
 Ce succez me ravit, et j'ay peine à le croire,
 Cassie espouvanté revient dans ma mémoire.
 
--*who_maxime
-Cassie espouvanté !
-
--*who_porcie
       C'est luy, qui fait ma peur ;
 Oüy, c'est luy qui touché d'une fausse terreur,
 Est venu dans ces lieux portant sur son visage
@@ -1143,13 +1158,6 @@ M'a fait perdre le soin de conserver sa vie,
 Et nous sommes privez d'un si puissant secours,
 Si le Ciel à luy-mème a confié ses jours
 
--*who_maxime
-Philippe, c'est l'effet de ta soudaine suite :
-De ton zèle imprudent, voila l'indigne suite.
-O ! Ciel si tes frayeurs causent ce désespoir,
-Quel Dieu peut empescher, ce que j'oze prévoir ?
-
--*who_porcie
 Maxime, va sçavoir s'il a cessé de vivre :
 A quelque désespoir, ou sa douleur le livre ;
 Un avis favorable, ou quelque meilleur sort,
@@ -1167,9 +1175,355 @@ De tant de nobles flancs, frapez les moins utiles :
 Je mourray glorieuse, et béniray mon sort,
 Si vous me choisissez pour une telle mort
 
-**** *book_ *id_IV01 *act_IV *date_1646 *creator_boyer
+Comment, aprens-moy tout.
 
--*who_philipe
+Que devint donc Cassie après ce grand mal-heur ?
+
+Vous, qui par tant de maux, par tant de sang perdu
+Nous faites disputer un bien qui nous est deu,
+Grands-Dieux, la liberté que Rome vous demande,
+Est-elle à vostre avis une faveur si grande ?
+Ou nous regardez-vous avec tant de mépris,
+Que pour la rachepter il faille un si grand prix ?
+Ne nous devez-vous pas une entière victoire ?
+N'est-ce pas vostre cause, ainsi que nostre gloire ?
+Maistres de l'Univers souffrirez-vous des Roys ?
+Soustiendrez-vous le trosne au dépens de vos Loix ?
+Déclarez-vous enfin, quel dessein est le vostre ?
+Quand vous sauvez un Chef vous faites périr l'autre.
+Arbitre souverain de tous nos différens
+Destin si tu nous sers, si tu haïs nos Tyrans.
+Monstre, monstre envers Rome une faveur si pleine,
+Qu'on puisse distinguer ton amour de ta haine :
+Partageant tes faveurs on doute si tu sers,
+Rome ou ses ennemis, Octave ou l'Univers.
+Mais que dis-je grands-Dieux ?Pardonez à mon zèle,
+Si je semble envers vous ingrate et criminele,
+L'interest des Romains me fait plaindre de vous.
+Je sçay ce que vos soins ont fait pour mon épous ;
+Je sçay qu'en sa faveur vous forcez mille obstacles ;
+Je reconnois en luy l'effet de vos miracles,
+Et je revoy enfin cet extrème danger,
+Dont vostre seule main le pouvoit dégager,
+Vostre indignation nous est si peu sensible
+Par la comparaison d'un bon-heur si visible,
+Que je dois espérer de vos rares bontez
+Le comble souverain de nos félicitez.
+
+      Dieux !Que viens-je d'entendre !
+Ciel ! Qui dans un moment m'accables de faveurs,
+Que nos maux sont petits au prix de nos bon-heurs !
+Mais quel facheux objet revient dans ma mémoire
+Traverser mon repos, et déchirer ma gloire ?
+Julie hélas !
+
+      O ! Dieux, ce prompt retour
+Me deffend tant de joye, et trouble mon Amour.
+
+Cent pensers⁎ differens, comme un amas des flots
+Viennent soudainement accabler mon repos ;
+Je connois la fortune, et ses vicissitudes
+Semblent m'accoustumer à tant d'inquiétudes.
+J'espère la victoire, et je crains le mal-heur ;
+Je ressens de la joye, et cède à la douleur.
+Si Brute triomphant doit estouffer mes plaintes,
+La mort de son amy ressucite mes craintes,
+Et l'espoir qui soustient mes glorieux désirs
+Est aussi-tost banny par mes justes soûpirs :
+Mais malgré ces frayeurs éclate enfin ma joye,
+Jouïssons du bon-heur que le Ciel nous envoye :
+Allons, allons Julie, au devant du vainqueur.
+
+      O ! Transports⁎, ah Seigneur !
+
+      O sort trop rigoureux.
+
+Je ne feins point, Seigneur, de répandre des larmes,
+Puisque mon seul mal-heur fait celuy de vos armes.
+Tousjours quelque disgrace a suivy ma maison :
+Je n'y voy point de mort sans fer, ou sans poison.
+L'Estoile, qui luisoit au point de ma naissance
+Mesla dans vostre sort sa fatale influence ?
+C'est par moy que sa rage a passé jusqu'à vous,
+Et par vous je la voy passer jusques à tous.
+C'est par moy que le Ciel eut droit sur vostre vie,
+Et par là sa fureur devoit estre assouvie.
+Dieux ! Faut-il qu'un Hymen ait servy d'instrument
+Au désordre fatal d'un si grand changement ?
+Vous deviez par ma mort rompre ce mariage,
+Et ne m'offrir jamais un si triste avantage.
+C'est là, c'est là, Seigneur, le sujet de mes pleurs :
+Je demeure insensible à mes propres mal-heurs,
+Et dans l'excez des maux où ma vertu⁎ se treuve,
+Donnez-luy, s'il se peut, une plus forte épreuve ;
+Vous la verrez tousjours aller d'un mesme pas,
+Regarder d'un mesme oeil, la vie et le trespas,
+Et bravant des vainqueurs, la fortune et la gloire,
+Par l'éclat de ma mort effacer leur victoire
+
+Seigneur, tant de raisons apuyent ma constance,
+Qu'elle aura moins de gloire, ayant trop d'asseurance⁎
+Il suffit de sçavoir que je meurs avec vous :
+C'est par là que mon sort fera mille jaloux.
+Il est vray que s'il faut qu'avec vous je périsse,
+Ma mort m'est une gloire, et non pas un suplice.
+Seule je dois mourir, ayant seule causé
+Les maux où maintenant je vous voy exposé.
+J'eus soif du sang de Jule, et pour me satisfaire,
+Vous sceutes l'immoler aux Manes de mon père ;
+Vous portastes le coup, quand j'eus donné l'arrest.
+Et si Rome à mes yeux mesla son interest
+L'ingrate vous trahit en soustenant Octave,
+Et vous desavoüa⁎ devenant son esclave.
+Si doncques ma vengeance a faït tous vos travaux
+Vangez-vous par ma mort du plus grand de vos maux:
+Que je sois par un coup, et noble et légitime,
+Des Destins irritez la dernière victime.
+
+Moy ! Moy ! Que j'aille à Rome, à Rome l'infidelle,
+Qui fait si peu pour vous, qui fites tant pour elle ;
+A Rome, qui se plaist à nous voir succomber ;
+Qui couronne la main, qui nous a fait tomber !
+Moy ! Seigneur, j'y verray ces illustres images,
+Du zèle des Catons, les sacrez témoignages,
+Par des chétives mains tomber de ces hauts lieux,
+Et des Tyrans placez où furent nos ayeux !
+J'y verray triompher leur détestable haine !
+J'y verray mettre aux fers la fortune Romaine !.
+Je m'y verray moy-mesme en estat de servir!
+J'iray m'offrir aux mains, qui veulent m'asservir !
+Car enfin pensez-vous qu'avec les seules larmes
+Je puisse rétablir la gloire de nos armes ?
+Nos malheurs sont trop grands, et pour borner leurs cours,
+Une femme, Seigneur, est un foible secours.
+Puisque Brute a péry, tout doit périr ensemble ;
+Je ne puis éviter le sort, qui nous assemble.
+Hé ! Quel sort puis-je attendre, et plus noble et plus dous,
+Que l'éclatant honneur de mourir avec vous.
+Consentez à ma mort.
+
+      Ah ! Seigneur, espargnez ma foiblesse ;
+Consommons maintenant cette indigne tendresse.
+
+Quoy, pour un vain effort m'abandonnerez-vous ?
+
+Prépare toy mon ame à la dernière foudre :
+Nostre destin s'achève, il est temps de résoudre.
+Ménageons comme il faut ce précieux moment,
+Et mourons sans désordre, et sans estonnement⁎.
+Oüy malgré vos efforts, Tyrans, malgré vos haines
+Nous mourrons sans rougir, et libres et Romaines,
+Et je me puis vanter si proche de la mort,
+Que je puis pour le moins disposer de mon sort.
+Allons, Julie, allons : mais sur tout si tu m'aymes,
+Monstre un coeur invincible en ces malheurs extrèmes,
+Et quand je vay souffrir un glorieux trépas,
+N'offre rien à mes yeux de lasche ny de bas.
+Regarde avec plaisir la perte d'une vie
+Glorieuse à César, et honteuse à Porcie.
+Souviens-toy du devoir, qui m'oblige à périr,
+Et qu'à qui n'ose vivre, il est bon de mourir.
+
+      Ah ! Laissez-moy mourir
+Bourreaux, qui me perdez, loin de me secourir.
+Cruels, mon Brute, est mort, et je le dois survivre !
+Vos malignes pitiez m'empeschent de le suivre.
+
+Tu n'eslèves, cruel, l'esclat de ma naissance ;
+Tu ne me viens flater de cette vanité,
+Que pour croistre ma honte, et ton indignité.
+Si ton ame consent à cette haute estime,
+Dont tu viens d'honorer cette vertu⁎ sublime,
+Ne déments pas l'honneur, que tu fais à mon sang,
+Et par tes traitemens fais justice à mon rang.
+Recognois-tu Caton où je suis enchaisnée ?
+Oste moi de ces fers, où sa gloire est bornée.
+Héros, dont la vertu⁎ frape mon souvenir,
+Tu devois pénétrer jusques dans l'avenir,
+Et mélant les destins de père, et de la fille,
+Sauver par un seul coup l'honneur de ta famille.
+Pour quel crime, grands Dieux, et pour quelle raison
+Par moi la servitude entre dans ma maison ?
+Toi, si Caton encor peut vivre en ta mémoire,
+Si tu connois sa fille avec si peu de gloire,
+Rends-nous tout nostre éclat par générosité⁎ ;
+Ou souffre que je meure avec la liberté.
+Mais je prie un mortel, et ce triste langage
+M'introduit à la honte, et sent trop l'esclavage.
+Que si dans cet estat je puis faire des voeux ;
+Puis-je exiger d'Octave un effort généreux⁎ ?
+L'héritier de César, et l'ennemy de Brute ;
+Lui qui me met aux fers, lui qui me persécute ;
+Lui qui tout dégoutant du sang de mes parens
+Monte par mille horreurs au trône des Tirans.
+Luy.
+
+Tu t'en sers toutefois, pour offencer ma gloire,
+Et tu t'ozes servir d'un injuste pouvoir,
+Pour empescher ma mort, et forcer mon devoir.
+Mais par quel droit, Tiran, faut-il que j'en dépende ?
+La vertu⁎ ne sert point où le vice commande,
+Et ces fers n'ostent rien à l'éclat des Romains ;
+Ils relèvent nos coeurs, s'ils abaissent nos mains,
+Et Rome ne sent point la honte du servage.
+
+Qu'un Tiran connoist mal les sentimens de Rome !
+Celle, qui gémissoit soubs le pouvoir d'un homme,
+Souffriroit aujourd'huy vostre trionvirat ?
+Mais tu te vantes trop de ce nouvel éclat :
+Tu te flates en vain de ce pouvoir inique.
+Rome, Rome n'est plus soubz ce joug tirannique ;
+Brute sçachant mourir avec ses propres mains,
+A fait cheoir avec luy le dernier des Romains.
+Tombez-donc maintenant aigles infortunées;
+Sortez, sortez des mains, qui vous ont enchainées.
+Et vous d'un faux honneur ornemens superflus,
+Brisez-vous vains vaisseaux, et ne paroissez plus.
+Toy, Ville mal-heureuse, autrefois sans seconde,
+Dont le nom seulement fit trembler tout le monde ;
+Quite ce nom de Rome, et tous ces tiltres vains ;
+Tombe en voyant tomber le dernier des Romains.
+Que tes débris portez par tout, où va le Tibre,
+Monstrent que tu n'es plus en cessant d'estre libre,
+Et qu'aprés tant de maux Rome n'a subsisté
+Qu'autant qu'un vray Romain soustint sa liberté.
+
+Cruel, Rome, dis-tu, verra mon esclavage !
+Mon coeur peus-tu souffrir un si sensible outrage ?
+Préviens en expirant cet horrible mal-heur :
+Meurs aprés ce discours de honte, et de douleur.
+Brute, Caton, Romains, vous qu'un coup favorable
+Exempte des rigueurs d'un sort si déplorable,
+Affranchissez ce coeur des foiblesses du corps,
+Brisez tous ces liens, rompez tous ses accords,
+Par qui l'injuste Ciel retient icy mon ame.
+Servez-vous du poison, du fer ;ou de la flamme.
+Digne objet de mes pleurs, cher père, cher époux,
+Ostez à ce Tyran, ce qui reste de vous,
+Prenez, prenez ce coeur, que ce corps tient esclave ;
+Arrachez cette gloire aux triomphes d'Octave,
+Et ne permettez pas que l'horreur de mon sort
+Efface indignement l'éclat de vostre mort :
+Mais j'entens vostre voix, je sens vostre présence.
+Meurs, meurs, me dites-vous, avec plus de constance :
+Soustiens malgré ces fers, la gloire des Romains ;
+Et pour nous imiter meurs par tes propres mains.
+Voila, voila Tyran, ce qu'il faut que je fasse.
+Je sçauray soustenir la gloire de ma race :
+Et je trouve chez nous dequoy me secourir,
+Mille exemples fameux m'ont apris de⁎ mourir.
+Préviens tous les moyens, et l'effort ordinaire,
+Par qui le désespoir tasche à te satisfaire.
+Je dois à l'Univers un exemple nouveau.
+Il est plus d'un chemin qui conduit au tombeau :
+Et sans plus différer dans ce mal-heur extrème
+Je ne me veux servir que de mon mal-heur mème.
+Dans l'état où je suis, ma haine et ma douleur
+Par mille traits perçans vont déchirer ce coeur.
+L'horreur de ton triomphe, et la crainte de vivre,
+La perte d'un époux que je brusle de suivre,
+Ma gloire et mon amour, qui demandent ma mort,
+Malgré tes vains efforts précipitent mon sort.
+Cependant que je meurs, vis dans l'ignominie :
+Vis esclave du trosne, et de la tyrannie :
+Vis ennemy de tous, sans honneur, sans éclat,
+Accablé soubs le poids de ton triomvirat.
+Que tous trois ennemy de leur propre fortune
+Tombent sous les débris d'une grandeur commune.
+Que ce piquant remords, qui poursuit les Tyrans
+T'oblige à détester le pouvoir que tu prens ;
+Qu'un tas de factieux par leurs sourdes pratiques
+Purge enfin l'Univers de ces pestes publiques :
+Ou qu'un peuple mutin justement révolté,
+Par des sanglants efforts vange la liberté.
+Accepte et crains toujours ce présage funeste
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
+Vous vous emportez trop à d'inutiles plaintes :
+Nous-mesme, non les Dieux, faisons toutes nos craintes.
+Mais quel est le sujet de ces promptes frayeurs ?
+
+Sur ces lâches destins, réglez-vous ceux de Brute ?
+Et faut-il qu'une fille en cette extrémité
+Vous fasse des leçons de générosité ?
+Non, que j'oze blâmer ce que l'Amour fait naistre :
+Mais enfin il est temps que vous fassiez paraistre.
+Que l'Amour qui produit ces tendres mouvemens,
+Ne descend pas chez vous en de bas sentimens ;
+Que puisque la vertu⁎ ne hait pas la tendresse,
+D'elle vient vostre peur, non de quelque foiblesse ;
+Et que par des pensers⁎ dignes des plus grands coeurs
+Vous sçaurez démentir ces indignes terreurs.
+Si Brute a donc suivy le destin de Pompée ;
+Si de quelque frayeur ce coup vous a frapée ;
+Dites que sa valeur en cette occasion,
+Voulut par une adroite, et juste ambition,
+Réserver à luy seul une illustre victoire,
+Dont le nom de Pompée eut absorbé la gloire.
+Qu'il espargna César, et qu'il le couronna,
+Pour rendre plus fameux le coup qu'il luy donna.
+Si ce lieu plein d'effroy présente à vostre veüe,
+De tant d'illustres morts la cendre confonduë ;
+Si ces vieux ossemens l'un sur l'autre entassez
+Vous font apréhender tous nos mal-heurs passez :
+Enfin, si dans ces lieux on vit la tyrannie
+Triompher une fois, on l'y verra punie.
+Nous avons d'autres Dieux contre d'autres Tyrans :
+Nous avons d'autres mains pour vanger nos parens,
+Et l'on verra la mort dans ces plaines sanglantes
+Nous prester le secours de leurs ombres errantes.
+Ainsi ce qui produit vos agitations,
+Doit icy soustenir vos résolutions.
+
+Hélas !Sans m'informer, quels sont les desplaisirs,
+Qui d'un si grand courage arrachent ces soupirs ;
+J'en prevoy le sujet.
+
+Dieux !
+
+J'excusois vos douleurs dans leurs premiers efforts ;
+Mais je n'excuse plus ces violens transports :
+Est-ce bien ménager une teste si chère ?
+Versez-vous pour un mort un sang si nécessaire ?
+Rome perdra son Brute, et l'on verra pour luy
+Tomber son dernier sang, et son dernier apuy !
+Et par vostre douleur sa gloire négligée
+Rougir de tant d'affronts sans en estre vangée.
+Que vostre mort, Seigneur, s'accorde à ce devoir :
+Mourez en vous vangeant, non par le désespoir.
+
+Madame, surmontez ces premières allarmes.⁎
+
+Je n'y recule point, mais qu'est-ce-que je voy ?
+C'est Maxime, et son front marque beaucoup de joye.
+
+Madame, Brute arrive, on vient de me l'aprendre?
+Il est proche d'icy.
+
+      Madame.
+
+Vostre Amour s'afligeant de ce bon-heur extrème.
+Semble prendre plaisir à se tromper soy-mème.
+
+Je l'aperçoy, Madame.
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipe
+
+Non, Seigneur, je l'ay veu tomber en ma présence
+Par sa propre valeur, et par sa résistance ;
+Quand pressé de cent mains sans estre esbranlé,
+Souz la fuite des siens il se vit accablé.
+Ne vous souvient-il plus avec quelle furie
+Venoit fondre sur vous cette Cavalerie,
+Dont le bruit a troublé toutes vos légions ?
+Le désordre des Chefs, la mort des espions,
+Vous peuvent-ils donner que des sujets de crainte ?
+
+Quoy ? Seigneur.
+
 Non, je n'excuse point cette honteuse fuite,
 Et je dois à jamais en déplorer la suite :
 Si je fus imprudent, au moins j'auray le coeur
@@ -1178,10 +1532,6 @@ J'aurois suivy mon Maistre, et j'en bruslois d'envie :
 Mais son commandement jaloux de vostre vie,
 A suspendu le coup d'un juste désespoir.
 
--*who_porcie
-Comment, aprens-moy tout.
-
--*who_philipe
       Vous allez tout sçavoir.
 Voyant Brute abatu je courus vers mon Maistre,
 Mon zèle impétueux voulut soudain paroistre :
@@ -1194,10 +1544,6 @@ Et quoy qu'enorgueilly du succez de combat,
 Il perd à mesme temps l'espoir de sa victoire,
 Et cède à la douleur tout le soin de sa gloire
 
--*who_porcie
-Que devint donc Cassie après ce grand mal-heur ?
-
--*who_philipe
 Il vint vous l'annoncer, vous vistes sa douleur.
 Enfin cherchant par tout quelque main favorable,
 Qui borna par sa mort un dueïl inconsolable,
@@ -1258,335 +1604,9 @@ Le reste de sa vie avec son dernier sang.
 Il meurt, et si j'ay deu malgré moy le survivre,
 Il vous quitte, Madame, et je parts pour le suivre.
 
-**** *book_ *id_IV02 *act_IV *date_1646 *creator_boyer
 
--*who_porcie
-Vous, qui par tant de maux, par tant de sang perdu
-Nous faites disputer un bien qui nous est deu,
-Grands-Dieux, la liberté que Rome vous demande,
-Est-elle à vostre avis une faveur si grande ?
-Ou nous regardez-vous avec tant de mépris,
-Que pour la rachepter il faille un si grand prix ?
-Ne nous devez-vous pas une entière victoire ?
-N'est-ce pas vostre cause, ainsi que nostre gloire ?
-Maistres de l'Univers souffrirez-vous des Roys ?
-Soustiendrez-vous le trosne au dépens de vos Loix ?
-Déclarez-vous enfin, quel dessein est le vostre ?
-Quand vous sauvez un Chef vous faites périr l'autre.
-Arbitre souverain de tous nos différens
-Destin si tu nous sers, si tu haïs nos Tyrans.
-Monstre, monstre envers Rome une faveur si pleine,
-Qu'on puisse distinguer ton amour de ta haine :
-Partageant tes faveurs on doute si tu sers,
-Rome ou ses ennemis, Octave ou l'Univers.
-Mais que dis-je grands-Dieux ?Pardonez à mon zèle,
-Si je semble envers vous ingrate et criminele,
-L'interest des Romains me fait plaindre de vous.
-Je sçay ce que vos soins ont fait pour mon épous ;
-Je sçay qu'en sa faveur vous forcez mille obstacles ;
-Je reconnois en luy l'effet de vos miracles,
-Et je revoy enfin cet extrème danger,
-Dont vostre seule main le pouvoit dégager,
-Vostre indignation nous est si peu sensible
-Par la comparaison d'un bon-heur si visible,
-Que je dois espérer de vos rares bontez
-Le comble souverain de nos félicitez.
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
-**** *book_ *id_IV03 *act_IV *date_1646 *creator_boyer
-
--*who_julie
-Madame, Brute arrive, on vient de me l'aprendre?
-Il est proche d'icy.
-
--*who_porcie
-      Dieux !Que viens-je d'entendre !
-Ciel ! Qui dans un moment m'accables de faveurs,
-Que nos maux sont petits au prix de nos bon-heurs !
-Mais quel facheux objet revient dans ma mémoire
-Traverser mon repos, et déchirer ma gloire ?
-Julie hélas !
-
--*who_julie
-      Madame.
-
--*who_porcie
-      O ! Dieux, ce prompt retour
-Me deffend tant de joye, et trouble mon Amour.
-
--*who_julie
-Vostre Amour s'afligeant de ce bon-heur extrème.
-Semble prendre plaisir à se tromper soy-mème.
-
--*who_porcie
-Cent pensers⁎ differens, comme un amas des flots
-Viennent soudainement accabler mon repos ;
-Je connois la fortune, et ses vicissitudes
-Semblent m'accoustumer à tant d'inquiétudes.
-J'espère la victoire, et je crains le mal-heur ;
-Je ressens de la joye, et cède à la douleur.
-Si Brute triomphant doit estouffer mes plaintes,
-La mort de son amy ressucite mes craintes,
-Et l'espoir qui soustient mes glorieux désirs
-Est aussi-tost banny par mes justes soûpirs :
-Mais malgré ces frayeurs éclate enfin ma joye,
-Jouïssons du bon-heur que le Ciel nous envoye :
-Allons, allons Julie, au devant du vainqueur.
-
--*who_julie
-Je l'aperçoy, Madame.
-
--*who_porcie
-      O ! Transports⁎, ah Seigneur !
-
-**** *book_ *id_IV04 *act_IV *date_1646 *creator_boyer
-
--*who_brute
-Madame, où courrez-vous, fuyez un misérable.
-Fuyez, fuyez ma honte, et le sort qui m'accable.
-C'en est fait, et je voy tout à coup renversé
-Un destin que les Dieux ont longtemps balancé.
-Le mal-heur de Cassie a produit nos disgraces,
-Et le Ciel par sa mort a remply ses menaces,
-Enfin César triomphe.
-
--*who_porcie
-      O sort trop rigoureux.
-
--*who_brute
-Hélas vostre douleur me rend plus mal-heureux :
-Par l'excez de l'ébranlement⁎ qui vous rend abatuë,
-César se peut vanter de vous avoir vaincuë.
-Vous vous faites sentir avec trop de rigueur,
-Grands-Dieux, si ma disgrace abat un si grand coeur.
-Qu'icy vostre vertu s'excite toute entière ;
-Voicy pour vostre gloire une illustre matière :
-Un époux mal-heureux, que la fortune abat,
-Fait de vostre vertu le plus brillant éclat
-Si sauvant vostre nom de sa dernière honte,
-Vous sçavez triompher du coup, qui le surmonte,
-Soustenez un mal-heur dont ma gloire frémit,
-Et méprisez un coup, soubs qui Rome gémit.
-Du moins dans le regret d'une perte commune,
-Monstrez, si vous pleurez ou Brute, ou sa fortune ;
-Sa fortune a péry, c'est ce que vous pleurez,
-Et vous aimez un bien, pour qui vous soupirez.
-Tout Brute reste encor dans ce mal-heur extrème ;
-Brute ne peut jamais périr que par luy-mème ;
-Il ne sera jamais sous le pouvoir d'autruy,
-Et tout vaincu qu'il est, Brute dépend de luy.
-
--*who_porcie
-Je ne feins point, Seigneur, de répandre des larmes,
-Puisque mon seul mal-heur fait celuy de vos armes.
-Tousjours quelque disgrace a suivy ma maison :
-Je n'y voy point de mort sans fer, ou sans poison.
-L'Estoile, qui luisoit au point de ma naissance
-Mesla dans vostre sort sa fatale influence ?
-C'est par moy que sa rage a passé jusqu'à vous,
-Et par vous je la voy passer jusques à tous.
-C'est par moy que le Ciel eut droit sur vostre vie,
-Et par là sa fureur devoit estre assouvie.
-Dieux ! Faut-il qu'un Hymen ait servy d'instrument
-Au désordre fatal d'un si grand changement ?
-Vous deviez par ma mort rompre ce mariage,
-Et ne m'offrir jamais un si triste avantage.
-C'est là, c'est là, Seigneur, le sujet de mes pleurs :
-Je demeure insensible à mes propres mal-heurs,
-Et dans l'excez des maux où ma vertu⁎ se treuve,
-Donnez-luy, s'il se peut, une plus forte épreuve ;
-Vous la verrez tousjours aller d'un mesme pas,
-Regarder d'un mesme oeil, la vie et le trespas,
-Et bravant des vainqueurs, la fortune et la gloire,
-Par l'éclat de ma mort effacer leur victoire
-
--*who_brute
-Hélas ! Vostre vertu⁎ dans ce pressant mal-heur
-Ne m'afflige pas moins qu'a fait vostre douleur.
-Je voy dans l'un et l'autre une pareille envie ;
-Toutes deux à leur tour menacent vostre vie.
-Il est vray qu'en l'estat où le sort nous a mis
-La mort est à nos maux un remède permis.
-Madame il faut mourir ; c'est une gloire extrème
-De pouvoir en mourant disposer de soy-mesme :
-De n'avoir point de Maistre au siècle de César,
-Et ravir nostre gloire aux pompes de son Char.
-Le seul mourir est libre en l'estat où nous sommes,
-Donnons ce grand exemple au veu de tous les hommes.
-Monstrons à nostre Rome en cette extrémité,
-Que tous deux par un coup de générosité
-Sçavons mettre à couvert⁎ d'un tyran inflexible,
-Tout ce qui luy restoit de grand et d'invincible.
-Que s'il faut espérer la grace du vainqueur,
-Craignons plus que la mort cette indigne faveur.
-Nous ne fusmes jamais un sujet de clémence ;
-Le malheur qui nous perd nous laisse l'innocence,
-Et c'est pour un Romain un trop funeste don,
-S'il doit de son tyran recevoir un pardon.
-Sus donc, chère Porcie, excitez vostre gloire ;
-De cent braves ayeulx r'apellez la mémoire,
-Et retraçant sur vous tant de traits de valeur,
-Peignez dans vostre mort la gloire de la leur.
-
--*who_porcie
-Seigneur, tant de raisons apuyent ma constance,
-Qu'elle aura moins de gloire, ayant trop d'asseurance⁎
-Il suffit de sçavoir que je meurs avec vous :
-C'est par là que mon sort fera mille jaloux.
-Il est vray que s'il faut qu'avec vous je périsse,
-Ma mort m'est une gloire, et non pas un suplice.
-Seule je dois mourir, ayant seule causé
-Les maux où maintenant je vous voy exposé.
-J'eus soif du sang de Jule, et pour me satisfaire,
-Vous sceutes l'immoler aux Manes de mon père ;
-Vous portastes le coup, quand j'eus donné l'arrest.
-Et si Rome à mes yeux mesla son interest
-L'ingrate vous trahit en soustenant Octave,
-Et vous desavoüa⁎ devenant son esclave.
-Si doncques ma vengeance a faït tous vos travaux
-Vangez-vous par ma mort du plus grand de vos maux:
-Que je sois par un coup, et noble et légitime,
-Des Destins irritez la dernière victime.
-
--*who_brute
-C'est trop, c'est trop, Madame, en l'estat où je suis,
-Me pressez-vous de vivre au milieu des ennuis.
-Brute vivra sans gloire, et tout couvert de honte ?
-Et de la liberté fera si peu de conte ?
-C'est sur moy, c'est sur moy que doit tomber le sort ;
-Puisque je suis vaincu je mérite la mort.
-Si le sang de Caton me fit prendre les armes,
-Je le fis par devoir autant que par vos larmes,
-Et Rome à mesme temps m'y devoit engager,
-Quand je n'aurois pas eu de beaupere à vanger.
-Si ma main a vangé la mort d'un si grand homme,
-Je n'ay pas achevé la vengeance de Rome ;
-Vivez donc, cependant que je cours au trespas,
-Vostre père est vangé, mais Rome ne l'est pas.
-J'ay par tous mes efforts soustenu sa querelle ;
-Maintenant c'est ma mort, qui m'acquite envers elle.
-J'abandonne un destin qu'on ne peut secourir,
-Ou plustost je sers Rome en me faisant mourir,
-Ne la pouvant sauver dans ce commun naufrage,
-Que du seul déplaisir de voir mon esclavage.
-Pour vous, qui méritez un destin plus heureux,
-Portez, portez à Rome un coeur si généreux⁎ :
-Présentés-luy le sang que je verse pour elle,
-Reprochez-luy ma mort, et l'ardeur de mon zèle ;
-Faites enfin pour moy, ce qu'Antoine autrefois
-Fit pour vanger César, et soûtenir ses drois.
-S'il arma les Romains contre leur propre gloire,
-Armez-les maintenant pour leur propre victoire,
-Aydez à renverser avec vos propres mains
-Le joug, dont trois Tyrans accablent les Romains.
-
--*who_porcie
-Moy ! Moy ! Que j'aille à Rome, à Rome l'infidelle,
-Qui fait si peu pour vous, qui fites tant pour elle ;
-A Rome, qui se plaist à nous voir succomber ;
-Qui couronne la main, qui nous a fait tomber !
-Moy ! Seigneur, j'y verray ces illustres images,
-Du zèle des Catons, les sacrez témoignages,
-Par des chétives mains tomber de ces hauts lieux,
-Et des Tyrans placez où furent nos ayeux !
-J'y verray triompher leur détestable haine !
-J'y verray mettre aux fers la fortune Romaine !.
-Je m'y verray moy-mesme en estat de servir!
-J'iray m'offrir aux mains, qui veulent m'asservir !
-Car enfin pensez-vous qu'avec les seules larmes
-Je puisse rétablir la gloire de nos armes ?
-Nos malheurs sont trop grands, et pour borner leurs cours,
-Une femme, Seigneur, est un foible secours.
-Puisque Brute a péry, tout doit périr ensemble ;
-Je ne puis éviter le sort, qui nous assemble.
-Hé ! Quel sort puis-je attendre, et plus noble et plus dous,
-Que l'éclatant honneur de mourir avec vous.
-Consentez à ma mort.
-
--*who_brute
-      Hé ! Bien mourons, Madame.
-Enfin vostre devoir triomphe de ma flamme :
-Vostre gloire le veut, il y faut consentir :
-Ma générosité⁎ ne se peut démentir.
-Tendresse, amour, pitié, qui la vouliez surprendre,
-Servez mieux mon devoir, il est temps de se rendre.
-Je ne me deffends plus contre tant de vertu⁎.
-Toy, qui vois son dessein y consentiras-tu.
-Justes Ciel ! Pourras-tu voir périr ton ouvrage ?
-Le reste des Catons, la gloire de nostre âge ?
-Pourras-tu voir enfin entrer dans le tombeau,
-Tout ce que nostre Rome a de grand et de beau ?
-Voir ces brillans appas⁎ se couvrir des ténèbres ?
-Voir changer ces clartez en des ombres funèbres ?
-Voir tomber ce beau sang et par un prompt effort
-Voir passer dans ce corps les horreurs de la mort?
-Ah ! Madame
-
--*who_porcie
-      Ah ! Seigneur, espargnez ma foiblesse ;
-Consommons maintenant cette indigne tendresse.
-
--*who_brute
-Vous voulez donc mourir, mais quel fer, quelle main
-Osera traverser cet adorable sein ?
-O ! Dieux. Que veut Maxime, et qu'à-t-il à nous dire ?
-
-**** *book_ *id_IV05 *act_IV *date_1646 *creator_boyer
-
--*who_maxime
-Après tant de mal-heurs vous tombez dans un pire ;
-J'ay par vostre ordre en vain ralié nos soldats,
-Pour amuser Octave, et retarder ses pas ;
-Et comblé les chemins de sang, et de carnage ;
-Octave malgré nous s'est enfin fait passage,
-Il vous cherche part tout, ne demande que vous,
-Et semble à ce seul but borner tout son courroux.
-Enfin vous estes pris, Seigneur.
-
--*who_brute
-      Voicy Maxime,
-De quoy braver Octave, et sauver nostre estime.
-Mais avant que mourir prévenons son dessein,
-Et mourons, s'il se peut, les armes à la main.
-Avant qu'on me ravisse une si chère vie,
-Il faut que ma fureur pleinement assouvie,
-Par des sanglants exploits achevant ce grand jour,
-Honore nostre mort, et vange mon amour.
-Mourons, mais tous couverts du sang de ces perfides.
-Vous, restes généreux⁎ de nos troupes timides,
-Venez sur nos tyrans porter vos derniers coups.
-
--*who_porcie
-Quoy, pour un vain effort m'abandonnerez-vous ?
-
--*who_brute
-Doi-je pas tenter tout par un effort supréme,
-Pour servir nostre Rome, et sauver ce que j'ayme ?
-Nos efforts seront vains, mais nostre désespoir
-Ne doit pas attenter⁎ dessus nostre devoir.
-
-**** *book_ *id_IV06 *act_IV *date_1646 *creator_boyer
-
--*who_porcie
-Prépare toy mon ame à la dernière foudre :
-Nostre destin s'achève, il est temps de résoudre.
-Ménageons comme il faut ce précieux moment,
-Et mourons sans désordre, et sans estonnement⁎.
-Oüy malgré vos efforts, Tyrans, malgré vos haines
-Nous mourrons sans rougir, et libres et Romaines,
-Et je me puis vanter si proche de la mort,
-Que je puis pour le moins disposer de mon sort.
-Allons, Julie, allons : mais sur tout si tu m'aymes,
-Monstre un coeur invincible en ces malheurs extrèmes,
-Et quand je vay souffrir un glorieux trépas,
-N'offre rien à mes yeux de lasche ny de bas.
-Regarde avec plaisir la perte d'une vie
-Glorieuse à César, et honteuse à Porcie.
-Souviens-toy du devoir, qui m'oblige à périr,
-Et qu'à qui n'ose vivre, il est bon de mourir.
-
-**** *book_ *id_V01 *act_V *date_1646 *creator_boyer
-
--*who_octave
 Hé ! Bien qu'est devenu ce lasche parricide,
 Que tant de trahisons ont rendu si timide ?
 Il se cache le traistre, et ce foible mutin
@@ -1597,116 +1617,23 @@ N'attaque les Césars qu'au milieu du Sénat,
 Et ne se sert contr'eux, que de l'assassinat.
 Mais peut-il maintenant rencontrer quelque azile ?
 
--*who_valere
-Seigneur, il est perdu, sa fuite est inutile.
-Aprés l'avoir réduit dans cet apartement,
-Pour remplir aussi-tost vostre commandement ;
-Me voyant soustenu d'une troupe assez forte,
-J'ataque, et fait céder les Gardes de la porte.
-On entre dans la chambre, et Brute a mesme temps
-Soustenu par les siens, abat deux de nos gens.
-Sauvez-le (dis-je alors ) et taschez de le prendre,
-A ces mots, on le presse, on l'invite à se rendre.
-Luy, qui craint d'estre pris, se dégage, on le suit,
-Il revient sur nos gens, et tantost il s'enfuit.
-Cependant qu'on le cherche, on rencontre sa femme :
-Ce désordre avoit mis le trouble dans son ame ;
-Et dans son désespoir, croyant que Brute est mort,
-Elle fait pour le suivre un généreux⁎ effort.
-Je préviens son dessein, mais je voy qu'on l'emmeine
-
--*who_octave
 Va t'en remplir mon ordre, et me tirer de peine ;
 Qu'on le cherche par tout.
 
-**** *book_ *id_V02 *act_V *date_1646 *creator_boyer
-
--*who_porcie
-      Ah ! Laissez-moy mourir
-Bourreaux, qui me perdez, loin de me secourir.
-Cruels, mon Brute, est mort, et je le dois survivre !
-Vos malignes pitiez m'empeschent de le suivre.
-
--*who_octave
 Quoy, Madame, osez-vous soubmettre ce grand coeur
 Aux désordres honteux d'une extrème douleur.
 La fille de Caton a si peu de constance ?
 
--*who_porcie
-Tu n'eslèves, cruel, l'esclat de ma naissance ;
-Tu ne me viens flater de cette vanité,
-Que pour croistre ma honte, et ton indignité.
-Si ton ame consent à cette haute estime,
-Dont tu viens d'honorer cette vertu⁎ sublime,
-Ne déments pas l'honneur, que tu fais à mon sang,
-Et par tes traitemens fais justice à mon rang.
-Recognois-tu Caton où je suis enchaisnée ?
-Oste moi de ces fers, où sa gloire est bornée.
-Héros, dont la vertu⁎ frape mon souvenir,
-Tu devois pénétrer jusques dans l'avenir,
-Et mélant les destins de père, et de la fille,
-Sauver par un seul coup l'honneur de ta famille.
-Pour quel crime, grands Dieux, et pour quelle raison
-Par moi la servitude entre dans ma maison ?
-Toi, si Caton encor peut vivre en ta mémoire,
-Si tu connois sa fille avec si peu de gloire,
-Rends-nous tout nostre éclat par générosité⁎ ;
-Ou souffre que je meure avec la liberté.
-Mais je prie un mortel, et ce triste langage
-M'introduit à la honte, et sent trop l'esclavage.
-Que si dans cet estat je puis faire des voeux ;
-Puis-je exiger d'Octave un effort généreux⁎ ?
-L'héritier de César, et l'ennemy de Brute ;
-Lui qui me met aux fers, lui qui me persécute ;
-Lui qui tout dégoutant du sang de mes parens
-Monte par mille horreurs au trône des Tirans.
-Luy.
-
--*who_octave
       C'est trop, et c'est mal implorer ma clémence,
 Enfin tant de mespris lassent ma patience :
 Honorez ma fortune, et bénissez les dieux,
 De vous donner pour Maistre un vainqueur glorieux,
 Qui n'abuza jamais des droits de sa victoire.
 
--*who_porcie
-Tu t'en sers toutefois, pour offencer ma gloire,
-Et tu t'ozes servir d'un injuste pouvoir,
-Pour empescher ma mort, et forcer mon devoir.
-Mais par quel droit, Tiran, faut-il que j'en dépende ?
-La vertu⁎ ne sert point où le vice commande,
-Et ces fers n'ostent rien à l'éclat des Romains ;
-Ils relèvent nos coeurs, s'ils abaissent nos mains,
-Et Rome ne sent point la honte du servage.
-
--*who_octave
 Non, Madame, car Rome aime son esclavage :
 Et ce pouvoir, que trois ont droit de partager,
 Luy fait aimer son joug, et le rend plus léger.
 
--*who_porcie
-Qu'un Tiran connoist mal les sentimens de Rome !
-Celle, qui gémissoit soubs le pouvoir d'un homme,
-Souffriroit aujourd'huy vostre trionvirat ?
-Mais tu te vantes trop de ce nouvel éclat :
-Tu te flates en vain de ce pouvoir inique.
-Rome, Rome n'est plus soubz ce joug tirannique ;
-Brute sçachant mourir avec ses propres mains,
-A fait cheoir avec luy le dernier des Romains.
-Tombez-donc maintenant aigles infortunées;
-Sortez, sortez des mains, qui vous ont enchainées.
-Et vous d'un faux honneur ornemens superflus,
-Brisez-vous vains vaisseaux, et ne paroissez plus.
-Toy, Ville mal-heureuse, autrefois sans seconde,
-Dont le nom seulement fit trembler tout le monde ;
-Quite ce nom de Rome, et tous ces tiltres vains ;
-Tombe en voyant tomber le dernier des Romains.
-Que tes débris portez par tout, où va le Tibre,
-Monstrent que tu n'es plus en cessant d'estre libre,
-Et qu'aprés tant de maux Rome n'a subsisté
-Qu'autant qu'un vray Romain soustint sa liberté.
-
--*who_octave
 Malgré ces tristes voeux, malgré ce vain présage.
 Rome, et tous les Romains verront vostre esclavage,
 Et je feray paraistre aux yeux de l'Univers
@@ -1716,130 +1643,16 @@ De mon char triomphant augmentera la pompe.
 Tout Caton paroistra dessoubz cette fierté ;
 Et ma gloire en croistra de le voir surmonté.
 
--*who_porcie
-Cruel, Rome, dis-tu, verra mon esclavage !
-Mon coeur peus-tu souffrir un si sensible outrage ?
-Préviens en expirant cet horrible mal-heur :
-Meurs aprés ce discours de honte, et de douleur.
-Brute, Caton, Romains, vous qu'un coup favorable
-Exempte des rigueurs d'un sort si déplorable,
-Affranchissez ce coeur des foiblesses du corps,
-Brisez tous ces liens, rompez tous ses accords,
-Par qui l'injuste Ciel retient icy mon ame.
-Servez-vous du poison, du fer ;ou de la flamme.
-Digne objet de mes pleurs, cher père, cher époux,
-Ostez à ce Tyran, ce qui reste de vous,
-Prenez, prenez ce coeur, que ce corps tient esclave ;
-Arrachez cette gloire aux triomphes d'Octave,
-Et ne permettez pas que l'horreur de mon sort
-Efface indignement l'éclat de vostre mort :
-Mais j'entens vostre voix, je sens vostre présence.
-Meurs, meurs, me dites-vous, avec plus de constance :
-Soustiens malgré ces fers, la gloire des Romains ;
-Et pour nous imiter meurs par tes propres mains.
-Voila, voila Tyran, ce qu'il faut que je fasse.
-Je sçauray soustenir la gloire de ma race :
-Et je trouve chez nous dequoy me secourir,
-Mille exemples fameux m'ont apris de⁎ mourir.
-Préviens tous les moyens, et l'effort ordinaire,
-Par qui le désespoir tasche à te satisfaire.
-Je dois à l'Univers un exemple nouveau.
-Il est plus d'un chemin qui conduit au tombeau :
-Et sans plus différer dans ce mal-heur extrème
-Je ne me veux servir que de mon mal-heur mème.
-Dans l'état où je suis, ma haine et ma douleur
-Par mille traits perçans vont déchirer ce coeur.
-L'horreur de ton triomphe, et la crainte de vivre,
-La perte d'un époux que je brusle de suivre,
-Ma gloire et mon amour, qui demandent ma mort,
-Malgré tes vains efforts précipitent mon sort.
-Cependant que je meurs, vis dans l'ignominie :
-Vis esclave du trosne, et de la tyrannie :
-Vis ennemy de tous, sans honneur, sans éclat,
-Accablé soubs le poids de ton triomvirat.
-Que tous trois ennemy de leur propre fortune
-Tombent sous les débris d'une grandeur commune.
-Que ce piquant remords, qui poursuit les Tyrans
-T'oblige à détester le pouvoir que tu prens ;
-Qu'un tas de factieux par leurs sourdes pratiques
-Purge enfin l'Univers de ces pestes publiques :
-Ou qu'un peuple mutin justement révolté,
-Par des sanglants efforts vange la liberté.
-Accepte et crains toujours ce présage funeste
-
--*who_octave
 Allez vomir ailleurs le poison qui vous reste,
 Superbe ; allez ailleurs plaindre vostre mal heur.
 Et mourrez, s'il se peut, de rage et de douleur.
 
-**** *book_ *id_V03 *act_V *date_1646 *creator_boyer
-
--*who_octave
 Mais plustost qu'elle vive en faveur de ma gloire.
 Jouyssons pleinement du fruit de ma victoire.
 Qu'une illustre pitié la sauve du trespas.
 Toy, Pison, prend soin d'elle, et ne la quite pas.
 Mais d'où vient ce grand bruit.
 
-**** *book_ *id_V04 *act_V *date_1646 *creator_boyer
-
--*who_tite
-      Seigneur, voicy Maxime,
-Que nostre vigilance a surpris dans son crime,
-Et qui s'ose vanter du tragique dessein
-Qu'un execrable zèle avoit mis dans son sein.
-
--*who_maxime
-J'avoüeray⁎ hardiment une action si belle ;
-Je ne trahiray point la gloire de mon zèle.
-Oüy, Porcie eut péry si l'on no m'eut surpris,
-Et d'un si beau trespas le mien estoit le pris.
-Résolu de tomber avecque ma fortune,
-Et de me délivrer d'une vie importune
-J'ay creu que je devois avant que de périr
-Mériter par ce coup la gloire de mourir.
-Pouvois-je par un coup, qui fut plus légitime
-Signaler mon courage, eslever mon estime ;
-Et conserver l'honneur du Maistre que je sers
-Qu'en sauvant sa moitié de la honte des fers.
-Je sçay combien Porcie ayme la renommée :
-Mon Ame de ses voeux pleinement informée
-Sans son commandement sollicitoit ma main
-D'affranchir par sa mort l'honneur du sang Romain.
-J'ay voulu l'immoler, j'ay couru pour la joindre ;
-Si le coup est failly, l'honneur n'en est pas moindre ;
-Et quoy que ma valeur ayt tenté vainement
-D'oster à ton triomphe un si grand ornement.
-Mon coeur avecque⁎ joye attend de ta justice
-D'un crime généreux⁎ un illustre suplice.
-Il est vray que j'ay tort dans l'estat où je suis,
-De vouloir par ma mort terminer mes ennuys⁎ :
-Cependant que Porcie esclave et mal-heureuse
-Cherche en vain pour sa gloire une mort généreuse⁎.
-Souffrez-donc qu'elle meure, ou vive sans rougir.
-Octave, c'est ainsi qu'un grand coeur doit agir.
-Une gloire éclatante, et qui n'est pas commune
-Dépend de la vertu⁎, non pas de la fortune.
-Le sort donne souvent le tiltre de vainqueur ;
-Mais celuy de Clément est l'effet d'un grand coeur.
-Est-il d'un généreux, et pourrois-tu sans blâme
-Punir un ennemy sur l'honneur de sa femme ?
-Et forçant aujourd'huy ton inclination
-Préférer à ta gloire un peu d'ambition ?
-Sauve, sauve ta gloire en celle de Porcie :
-Triomphe de son coeur, et non pas de sa vie :
-Et relevant un sort tristement abatu
-Oblige une ennemie à loüer ta vertu⁎.
-Attendris cet orgueil à l'aspect de ses charmes.
-Et laisse-toy toucher par de si belles larmes.
-Mais j'offence ta gloire en cette occasion
-D'apeller ce grand coeur à la compassion,
-Ne conçois pas pour nous des sentimens vulgaires,
-Considère ta gloire, et non pas mes misères ;
-Et si tu te résous de finir nos mal-heurs,
-Escoute ta vertu⁎ plustost que nos douleurs.
-
--*who_octave
 Maxime je me rends, l'orgueil de ma victoire
 M'a long-temps ébloüy par une fausse gloire.
 Ton discours r'apellant ma générosité⁎
@@ -1857,39 +1670,54 @@ Estant Dieu maintenant il ayme la clémence ?
 Et l'on apaise moins une Divinité
 Par un sang criminel, que par l'humilité.
 
--*who_maxime
-Seigneur, je connoy Brute, et sa vertu⁎ sévère
-Luy deffend de souffrir un destin si contraire :
-Il en rompra le cours, et ce coeur indompté
-Préviendra par sa mort l'effet de ta bonté
-
--*who_octave
 Cependant il s'enfuit, et n'oseroit paraistre.
 
--*who_maxime
-N'offence pas, Seigneur, la gloire de mon Maistre :
-Il fuit pour mourir libre, et par un noble effort
-Goûter avec loisir, le plaisir de la mort.
-Voilà, voilà Seigneur, le sujet de sa fuite.
-
--*who_octave
 Dans l'estat où je voy sa fortune réduite,
 Il faut, il faut enfin, qu'il tombe dans nos mains,
 Et pour s'en garantir tous ses efforts sont vains.
 Mais Valère revient.
 
-**** *book_ *id_V05 *act_V *date_1646 *creator_boyer
-
--*who_valere
-      Seigneur Brute et sa femme
-Sont morts, l'un par le fer, et l'autre par la flamme.
-
--*who_octave
 O ! Ciel tout mon triomphe a péry par leur mort :
 Mais Valère aprends-moy par quel bras, par quel sort
 Ils ont trahy vos soins, et trompé ma clémence.
 
--*who_valere
+O ! Dieux que la pitié sensiblement me blesse ;
+Je souffre ses douleurs, je ressens sa foiblesse.
+Conte moy promptement la fin de son mal-heur,
+Et par un court récit abrège ma douleur.
+
+O ! Miracle inoüy de générosité⁎.
+Triste effet de ma haine, et de ma cruauté !
+Falloit-il que le sort la rendit mon esclave,
+Pour reprocher sa mort au triomphe d'Octave ?
+Que je hay ma fortune, et ce superbe rang
+Qui pour un peu de gloire a cousté tant de sang
+Qu'on délivre Maxime, et que sa délivrance
+Après tant de rigueur signale ma clémence.
+
+
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
+Seigneur, il est perdu, sa fuite est inutile.
+Aprés l'avoir réduit dans cet apartement,
+Pour remplir aussi-tost vostre commandement ;
+Me voyant soustenu d'une troupe assez forte,
+J'ataque, et fait céder les Gardes de la porte.
+On entre dans la chambre, et Brute a mesme temps
+Soustenu par les siens, abat deux de nos gens.
+Sauvez-le (dis-je alors ) et taschez de le prendre,
+A ces mots, on le presse, on l'invite à se rendre.
+Luy, qui craint d'estre pris, se dégage, on le suit,
+Il revient sur nos gens, et tantost il s'enfuit.
+Cependant qu'on le cherche, on rencontre sa femme :
+Ce désordre avoit mis le trouble dans son ame ;
+Et dans son désespoir, croyant que Brute est mort,
+Elle fait pour le suivre un généreux⁎ effort.
+Je préviens son dessein, mais je voy qu'on l'emmeine
+
+      Seigneur Brute et sa femme
+Sont morts, l'un par le fer, et l'autre par la flamme.
+
 Seigneur, leur désespoir a déçeu ma prudence.
 Ayant rencontré Brute, et voyant nos soldats,
 Qui le suivent de prés, et ne l'épargnent pas,
@@ -1926,13 +1754,6 @@ Elle, qui nous unit, maintenant nous sépare.
 Ah ! Rigueur, à ces mots poussant un grand soûpir,
 Elle semble expirer à faute de mourir
 
--*who_octave
-O ! Dieux que la pitié sensiblement me blesse ;
-Je souffre ses douleurs, je ressens sa foiblesse.
-Conte moy promptement la fin de son mal-heur,
-Et par un court récit abrège ma douleur.
-
--*who_valere
 Elle se lève enfin, et sans paroistre émeuë,
 Elle aproche un grand feu qui s'offroit à sa veuë,
 Et passant tout d'un coup dans un grand désespoir,
@@ -1948,12 +1769,3 @@ Sa bouche est tout en feu, quand ses yeux n'en ont plus.
 Cette chaleur l'estouffe, et sa bouche allumée
 Pousse avec sa belle ame un globe de fumée.
 
--*who_octave
-O ! Miracle inoüy de générosité⁎.
-Triste effet de ma haine, et de ma cruauté !
-Falloit-il que le sort la rendit mon esclave,
-Pour reprocher sa mort au triomphe d'Octave ?
-Que je hay ma fortune, et ce superbe rang
-Qui pour un peu de gloire a cousté tant de sang
-Qu'on délivre Maxime, et que sa délivrance
-Après tant de rigueur signale ma clémence.

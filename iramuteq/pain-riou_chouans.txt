@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1795
+**** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *date_1795 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacitoyennefloch
 
--*who_lacitoyennefloch
 Peut-il être un destin plus doux
 Entre mon fils et mon époux ?
 Celui qui me donna la vie
@@ -10,44 +9,90 @@ Sourit à sa fille attendrie ;
 Bon père !... Il vient... il vient céans
 Se réunir à ces enfants.
 
--*who_lepererenaud
-Je vois le terme de mes maux,
-Je retrouve ici le repos.
-Depuis si longtemps je les aime ;
-J'ai besoin d'être aimé de même.
-Mon cœur me dit qu'il faut mourir
-Aux lieux où l'on sait me chérir.
+Enfin, mon père, nous vous possédons ; nous ne vous ferons plus de reproches ; vous venez terminer votre carrière au milieu de vos enfants.
 
--*who_lecitoyenfloch
+Il était temps que vous vinssiez. Vous n'aviez pas encore vu ce petit marmot que vous bercez de si bon cœur.
+
+Aussi ai-je ouï dire que la Convention veut conserver le souvenir de cet intrépide équipage. Un nouveau Vengeur ira bientôt sur les mers venger celui-là. Tu sais, mon ami, que nous avons envoyé cinquante livres pour la construction de ce vaisseau... Mais vous, mon père , qui avez servi si longtemps, avez-vous vu de telles actions ?
+Voyons racontez-nous quelques traits de courage. Mais choisissez parmi les plus beaux ; car, après ce qu'il vient de lire, nous avons le droit d'être difficiles.
+
+J'aime ce trait sans l'admirer. Quel bon Français n'en ferait autant en pareille occasion ? Je ne suis qu'une femme ; mais certes j'aurais crié comme d'Assas : c'est l'ennemi !
+
+Je l'aurais fait certainement. Juge de ce que je ferais pour sauver la patrie.
+
+Tais-toi, imbécile : ta frayeur aura peut-être grossi les objets.
+
+Ah ! Mon enfant.
+
+Tigres, n'approchez pas : craignez la fureur d'une mère.
+Ah ! Qui que vous soyez, ayez pitié de mes larmes. Je suis fille, épouse et mère ; ah ! Jugez de ma douleur.
+
+Parlez que faut-il faire ? Je promets tout... tout.
+
+Ouelle affreuse situation !... Pauvre petit !... Mon père ! Mon époux !... Les abandonner !...Non, jamais...
+Ah ! Dans ces horribles moments ,
+Mon fils, tu redoubles ma peine.
+Qu'au moins cette troupe inhumaine
+Épargne les jours innocents.
+Cruels, vous immolez mon père,
+Et vous m'arrachez mou époux ?...
+N'est-ce donc pas assez pour vous ?
+Laissez cet enfant à sa mère.
+Ils ne périront pas ; je vais remplir l'ordre cruel : je vais... Arrête, malheureuse... Entends une voix secrète qui te dit...
+« Iras-tu livrer ton, pays
+À cette horde sanguinaire ?
+Tu servirons ses ennemis !...
+Ces vils brigands par toi conduits
+Viendraient ravager cette terre !...
+Sois républicaine ou péris.
+Il faut à la patrie
+Immoler les objets qui font aimer la vie. »
+Seule ! Si quelqu'un m'aidait ! Un ami... Un voisin... Corniquet !... Oui...Où est-il.?....
+Ah !
+
+Oui ; viens, viens.
+
+Aimes-tu ta patrie ?
+
+Te sens-tu un peu plus de courage que tout à l'heure.
+
+Il s'agit de sauver ton pays... Cours avertir la commune de Malestroit. Moi, j'irai prévenir les braves volontaires qui sont cantonnés à deux lieues d'ici ; je marcherai à leur tête ; je la guiderai, et nous viendrons ensemble exterminer ces ennemis de la république.
+
+Vole sur mes pas.
+
+C'est un parti pris.
+
+Tu ne mérites pas d'être associé à la gloire de cette action. Seule, je suffirai à tout : ô ma patrie , prête-moi de la force et des ailes.
+
+Arrêtez, malheureux.
+
+Des liens !...
+
+Dieu ! Mon fils !... Qu'est devenu mon fils ? Ah ! Si les barbares...
+Réponds : où est mon fils ?...
+
+Pauvre petit !... Tu as faim ! Tout à l'heure... Tout à l'heure, mon fils...
+
+Que dites-vous, mon père ? De l'admiration pour une action simple qui était un devoir pour moi ! J'ai mis du zèle et de la promptitude à prévenir nos braves amis... Ils ont fait le reste. Oui, c'est à eux, à ces jeunes guerriers, à ces sauveurs de la République que nous devons aussi notre salut.
+
+Que peut-on aimer ici bas ?...
+C'est son fils, son époux, son père,
+Je le sens.... mais n'étais-je pas
+Citoyenne avant d'être more ?
+Quand le devoir parle à son tour,
+Je sacrifie
+À la patrie
+Mon fils, mon père et mon amour.
+
+
+**** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecitoyenfloch
+
 Quels républicains ! Quels héros !
 Ils savent braver tous les maux ;
 De ces fiers ennemis des rois
 Lisons ( bis ) les immortels exploits.
 
--*who_lacitoyennefloch
-Enfin, mon père, nous vous possédons ; nous ne vous ferons plus de reproches ; vous venez terminer votre carrière au milieu de vos enfants.
-
--*who_lepererenaud
-Que veux-tu, ma fille ?
-Je sentais d'avance tout le charme de cette réunion, je la désirais.
-Mais j'étais retenu à Malestroit, où je demeurais depuis quelques années, par la force de l'habitude.
-J'y avais de vieux camarade ; nous trinquions souvent ensemble, et le verre à la main nous recommencions nos anciennes campagnes.
-
--*who_lacitoyennefloch
-Il était temps que vous vinssiez.
-Vous n'aviez pas encore vu ce petit marmot que vous bercez de si bon cœur.
-
--*who_lepererenaud
-Non : mais je l'ai reconnu d'abord ; c'est le portrait vivant de notre ami Floch ; il sera, j'ose l'espérer, aussi bon républicain que son père.
-
--*who_lecitoyenfloch
-Républicain ...
-Eh !
-Qui ne le serait pas, qui ne se féliciterait pas de l'être, en apprenant les succès inouïs de nos frères d'armes, en lisant leurs faits héroïques ?...
-Je tiens un recueil de leurs belles actions...
-Je ne le lis jamais sans attendrissement.
-Tenez, je prends au hasard : ah !...
-Écoutez...C'est une belle réponse d'un capitaine de volontaires grièvement blessé et transporté à l'hospice.
+Républicain ... Eh ! Qui ne le serait pas, qui ne se féliciterait pas de l'être, en apprenant les succès inouïs de nos frères d'armes, en lisant leurs faits héroïques ?... Je tiens un recueil de leurs belles actions... Je ne le lis jamais sans attendrissement. Tenez, je prends au hasard : ah !... Écoutez...C'est une belle réponse d'un capitaine de volontaires grièvement blessé et transporté à l'hospice.
 « Mes amis, ne me plaignez pas,
 Disait le brave Bellerie ,
 Si le canon m'enlève un bras,
@@ -56,15 +101,9 @@ Je suis, ( connaissez mieux mon cœur )
 Alors qu'un laurier me couronne,
 Plus grand sur ce lit de douleur
 Qu'un tyran assis sur son trône. »
-Eh bien !
-N'est-ce pas là un brave homme ?
+Eh bien ! N'est-ce pas là un brave homme ?
 
--*who_lepererenaud
-Cela ne m'étonne pas de la part de nos volontaires.
-
--*who_lecitoyenfloch
-Je crois que nos marins vont s'efforcer de les égaler.
-Voici le trait du Vengeur.
+Je crois que nos marins vont s'efforcer de les égaler. Voici le trait du Vengeur.
 Ce vaisseau des mains des Français,
 Voyant s'échapper la victoire,
 Pour ne point se rendre aux Anglais,
@@ -74,33 +113,91 @@ Lui semblent un asile unique ;
 Il s'enfonce... et du sein des mers
 S'élève encore un cri civique.
 
--*who_lacitoyennefloch
-Aussi ai-je ouï dire que la Convention veut conserver le souvenir de cet intrépide équipage.
-Un nouveau Vengeur ira bientôt sur les mers venger celui-là.
-Tu sais, mon ami, que nous avons envoyé cinquante livres pour la construction de ce vaisseau...
-Mais vous, mon père , qui avez servi si longtemps, avez-vous vu de telles actions ?
-Voyons racontez-nous quelques traits de courage.
-Mais choisissez parmi les plus beaux ; car, après ce qu'il vient de lire, nous avons le droit d'être difficiles.
+D'accord, ma femme, tu aurais parlé ; cela n'est pas douteux. Mais s'il eût fallu te taire pour sauver le régiment ?
 
--*who_lepererenaud
-Oui, j'ai servi long-temps ; mais malheureusement c'est pour un tyran que mon sang a coulé.
-Ces beaux traits étaient rares alors : on se battait bien néanmoins ; car le Français n'a jamais manqué de courage...
-Pardi !
-Dans mon régiment, (vous savez que je servais dans Auvergne, infanterie,) il s'est fait une belle action...
-Je veux vous la raconter...
-Quel dommage qu'un si brave militaire ne fût pas républicain !
+Eh bien ! Nous les attendrons de pied ferme : ils ne peuvent, après tout, que nous ôter la vie. C'est là que s'arrête ta fureur des méchants.
 
--*who_lecitoyenfloch,lacitoyennefloch
-Qui donc ?
-Qui donc ?
+Des armes ? J'en avAis peu..; mais je les ai données à nos braves défenseurs. Dieux ! Voici les Chouans. Ah ! Mon père !
 
--*who_lepererenaud
+Nous n'en reconnaissons plus.
+
+Scélérats, assouvissez donc votre rage.
+
+Vous ne trouverez ici que des vertus.
+
+Et-vous, mon père, qui veniez habiter notre maison : au même instant des scélérats viennent s'en emparer.
+
+La patrie ne m'en devient que plus chère. Celui-là l'aime véritablement qui supporte tous les maux pour elle. Périssons, mon père, et que la République triomphe ! Et ma femme... malheureuse... Tu vas guider les satellites des tyrans ; tu vas racheter notre vie par une trahison.
+
+Scélérats , oserez-vous enchaîner jusqu'à notre pensée ?
+
+Mon père, de quel poids je suis soulagée. Je craignais, je l'avoue, la faiblesse de son sexe ; je craignais jusqu'à son attachement pour nous. Mais d'après les discours de ce brigand, d'après ces signes d'une fureur concentrée, sans doute mon épouse à sauvé les habitants de Malestroit ; et loin de servir les rebelles, elle a causé leur défaite. Ah ! Cette idée me console, et ôte à la mort, que j'attends avec calme, tout ce qu'elle pouvait avait de hideux et de poignant.
+
+Ah ! Mon père, peut-on craindre la mort,
+Lorsqu'on s'immole à la patrie ?
+Tout bon Français enviera notre sort,
+Et la gloire est une autre vie.
+Sur mon tombeau les pères attendris ,
+Les yeux baignés de douces larmes,
+Diront un jour, en embrassant leurs fils :
+Combien le devoir a de charmes !
+
+Mon père , sauvons-le ; épargnons un crime à ces brigands... Bientôt nous ne serons plus... Qu'il vive lui !... Qu'il vive pour sa mère !...Qu'il vive pour la consoler !... Éloigné du sein qui le nourrit, il commence à sentir le besoin... Ô mon fils ! Tes petits bras caressants ne s'étendront plus vers ton père... Lorsque tu seras en âge de marcher seul vers ma tombe, donne une larme à ma cendre chéri, et cours essuyer les pleurs de ta mère... Mais comment le soustraire à nos assassins ?... Si Corniquet ne s'était pas éloigné... Mais sa maison n'est pas loin ; il pourrait venir à travers le verger.
+
+Il ne nous entend pas... Si nous avions quelque signe qu'il pût apercevoir.
+
+Il nous regarde... Corniquet, Corniquet !
+
+Mon ami, viens nous aider : au nom de Dieu, cache cet enfant ; porte-le dans le bois ; où tu voudras... Sauve-le.
+
+Ne crains rien.
+
+En voici une.
+Mon père, tout doucement :
+Agissons avec prudence.
+
+Ah ! Que Dieu soit ton recours ;
+Pauvre enfant, qu'il sauve tes jours.
+
+Veille sur lui, mon ami, aies-en bien soin ; c'est le dernier service que tu nous rendras.
+
+Non... Cette mort est trop belle ; nous voulons la voir venir.
+
+Ô ma bien-aimée ! Tu sauves ton pays, et tu nous rends la vie.
+
+Calme-toi... Tu vas le revoir. Corniquet... Mais le voici.
+
+Mes amis, mes libérateurs ! Il ne faut pas que nous nous quittions sans trinquer ensemble : allons nous reposer dans la chambre voisine, et buvons à la république et à la Convention.
+
+Eh ! Que pouvait sur moi le sort ?
+J'avais les vertus de ma femme :
+Tandis qu'on apprêtait ma mort ,
+Une voix, au fond ce mon âme,
+Me disait : il faut qu'en ce jour
+Tu sacrifies
+À la patrie
+Ton bien, ta vie et ton amour.
+
+
+**** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepererenaud
+
+Je vois le terme de mes maux,
+Je retrouve ici le repos.
+Depuis si longtemps je les aime ;
+J'ai besoin d'être aimé de même.
+Mon cœur me dit qu'il faut mourir
+Aux lieux où l'on sait me chérir.
+
+Que veux-tu, ma fille ? Je sentais d'avance tout le charme de cette réunion, je la désirais. Mais j'étais retenu à Malestroit, où je demeurais depuis quelques années, par la force de l'habitude. J'y avais de vieux camarade ; nous trinquions souvent ensemble, et le verre à la main nous recommencions nos anciennes campagnes.
+
+Non : mais je l'ai reconnu d'abord ; c'est le portrait vivant de notre ami Floch ; il sera, j'ose l'espérer, aussi bon républicain que son père.
+
+Cela ne m'étonne pas de la part de nos volontaires.
+
+Oui, j'ai servi long-temps ; mais malheureusement c'est pour un tyran que mon sang a coulé. Ces beaux traits étaient rares alors : on se battait bien néanmoins ; car le Français n'a jamais manqué de courage... Pardi ! Dans mon régiment, (vous savez que je servais dans Auvergne, infanterie,) il s'est fait une belle action... Je veux vous la raconter... Quel dommage qu'un si brave militaire ne fût pas républicain !
+
 Ma foi d'Assas, le fameux d'Assas !
 
--*who_lecitoyenfloch,lacitoyennefloch
-Qu'a-t-il donc fait ?
-
--*who_lepererenaud
 Attendez ; je crois qu'il dort...
 Écoutez, vous autres.
 Dans un bois placé ,
@@ -125,356 +222,25 @@ Se jettent sur lui... Silence !
 « Si tu parles, tu péris. »
 Ô d'Assas ! Que vas-tu faire
 Pour sauver ton régiment ?
-Il crie :
-    « À moi, Auvergne !
-C'est l'ennemi ! »
+Il crie : « À moi, Auvergne ! C'est l'ennemi ! »
 On le frappe... Il tombe à terre,
 Et nous l'y trouvons mourant.
 
--*who_lacitoyennefloch
-J'aime ce trait sans l'admirer.
-Quel bon Français n'en ferait autant en pareille occasion ?
-Je ne suis qu'une femme ; mais certes j'aurais crié comme d'Assas : c'est l'ennemi !
+Nous ôter la vie !... Il faut la leur disputer : je veux pour ma part échiner quelques-uns... Des armes !
+Il cherche.
 
--*who_lecitoyenfloch
-D'accord, ma femme, tu aurais parlé ; cela n'est pas douteux.
-Mais s'il eût fallu te taire pour sauver le régiment ?
+Quoi ! Pas seulement un manche à balai !
 
--*who_lacitoyennefloch
-Je l'aurais fait certainement.
-Juge de ce que je ferais pour sauver la patrie.
-
-**** *book_ *id_I02 *act_I *date_1795
-
--*who_corniquet
-Ô mes amis ! Ah ! Quel malheur ! ,
-Je sis quasi mort de frayeur.
-On a vu d'loin' v'nir les chouans :
-I sont pu pis que les bringans...
-Siz allaient nous égorger tous,
-Mon Dieu, mon Dieu ! Que ferions nous ?
-Moi j'n'sis pas du tout d'avis
-De prendr' n'y bâtons ni fusils,
-Ça pourr it fâcher ces messieux :
-Filer tout doux n'vaut'il pas mieux ?
-Pardon, j'n'sis qu'un pauv' benet ;
-Mon nom est Gilles Corniquet/
-
--*who_lacitoyennefloch
-Tais-toi, imbécile : ta frayeur aura peut-être grossi les objets.
-
--*who_corniquet
-J'n'sis qu'un imbécile ?
-Elle est bonne là...
-N'entendez-vous pas, citoyenne Floch ?...
-Ah !
-Mon Dieu, mon Dieu, mon Dieu ; les voici qui viennent.
-
--*who_lecitoyenfloch
-Eh bien !
-Nous les attendrons de pied ferme : ils ne peuvent, après tout, que nous ôter la vie.
-C'est là que s'arrête ta fureur des méchants.
-
--*who_lepererenaud
-Nous ôter la vie !...
-Il faut la leur disputer : je veux pour ma part échiner quelques-uns...
-Des armes !
-Quoi !
-Pas seulement un manche à balai !
-
--*who_lecitoyenfloch
-Des armes ?
-J'en avAis peu..; mais je les ai données à nos braves défenseurs.
-Dieux !
-Voici les Chouans.
-Ah !
-Mon père !
-
--*who_lacitoyennefloch
-Ah !
-Mon enfant.
-
-**** *book_ *id_I03 *act_I *date_1795
-
--*who_lechef
-De par le Roi.
-
--*who_lecitoyenfloch
-Nous n'en reconnaissons plus.
-
--*who_lepererenaud
 Nous sommes républicains.
 
--*who_lecitoyenfloch
-Scélérats, assouvissez donc votre rage.
-
--*who_lacitoyennefloch
-Tigres, n'approchez pas : craignez la fureur d'une mère.
-Ah !
-Qui que vous soyez, ayez pitié de mes larmes.
-Je suis fille, épouse et mère ; ah !
-Jugez de ma douleur.
-
--*who_lechef
-Pas encore...
-Cette femme peut nous servir ; j'y puis compter avec de tels otages.
-Relevez-vous, madame : la vie de votre père, de votre mari, de votre fils est en vos mains.
-
--*who_lacitoyennefloch
-Parlez que faut-il faire ?
-Je promets tout... tout.
-
--*who_lechef
-Une de nos colonnes est à deux lieues d'ici : je viens d'apprendre que Malestroit est dégarni de troupes ; que ses habitants sont dans une parfaite sécurité....
-Voilà l'instant de l'attaquer avec succès.
-Portez cette lettre du chef de la colonne.
-Un de mes meilleurs chevaux vous attend à la porte.
-Volez...
-Ne craignez pas d'être arrêtée par les royalistes ; vous pénétrerez facilement avec les mots que je vais vous confier.
-Robespierre et Louis XVI.
-Je vous donne deux heures : si vous me trahissez ou si vous tardez, vous ne retrouverez ici que les ruines de votre maison et les cadavres de ceux qui vous sont chers.
-Suivez-moi, vous autres, et emmenez-les.
-
-**** *book_ *id_I04 *act_I *date_1795
-
--*who_lacitoyennefloch
-Ouelle affreuse situation !...
-Pauvre petit !...
-Mon père !
-Mon époux !...
-Les abandonner !...Non, jamais...
-Ah ! Dans ces horribles moments ,
-Mon fils, tu redoubles ma peine.
-Qu'au moins cette troupe inhumaine
-Épargne les jours innocents.
-Cruels, vous immolez mon père,
-Et vous m'arrachez mou époux ?...
-N'est-ce donc pas assez pour vous ?
-Laissez cet enfant à sa mère.
-Ils ne périront pas ; je vais remplir l'ordre cruel : je vais...
-Arrête, malheureuse...
-Entends une voix secrète qui te dit...
-« Iras-tu livrer ton, pays
-À cette horde sanguinaire ?
-Tu servirons ses ennemis !...
-Ces vils brigands par toi conduits
-Viendraient ravager cette terre !...
-Sois républicaine ou péris.
-Il faut à la patrie
-Immoler les objets qui font aimer la vie. »
-Seule !
-Si quelqu'un m'aidait !
-Un ami...
-Un voisin...
-Corniquet !...
-Oui...Où est-il.?....
-Ah !
-
-**** *book_ *id_I05 *act_I *date_1795
-
--*who_corniquet
-Sont-ils partis ?...
-
--*who_lacitoyennefloch
-Oui ; viens, viens.
-
--*who_corniquet
-Ouf...
-Je l'ai échappé belle !...
-Ces maudits Chouans !
-
--*who_lacitoyennefloch
-Aimes-tu ta patrie ?
-
--*who_corniquet
-Oh !
-Pour c'qui est en cas d'ça.
-
--*who_lacitoyennefloch
-Te sens-tu un peu plus de courage que tout à l'heure.
-
--*who_corniquet
-Voyons : qu'estq'c'est ?
-Je sis brave à steure.
-V'là l'coeur qui me r'vient.
-
--*who_lacitoyennefloch
-Il s'agit de sauver ton pays...
-Cours avertir la commune de Malestroit.
-Moi, j'irai prévenir les braves volontaires qui sont cantonnés à deux lieues d'ici ; je marcherai à leur tête ; je la guiderai, et nous viendrons ensemble exterminer ces ennemis de la république.
-
--*who_corniquet
-Oh !
-Pas si bête !
-Pas si bête !
-Il n'auraient qu'à s'apercevoir d'ça...
-Dam i'n'badineraient pas...
-C'est qui n'sont pas polis du tout ces Chouans.
-
--*who_lacitoyennefloch
-Vole sur mes pas.
-
--*who_corniquet
-Ah ! je n'ose pas.
-
--*who_lacitoyennefloch,corniquet
-Viens me seconder...
-      Je tremble.
-Par nous avertis
-Nos braves amis
-Vont tous accourir...
-      Je tremble.
-Quoi ! Lâche ! Tu balances encor !
-      Je tremble.
-Ose avec moi braver la mort...
-      Je tremble.
-
--*who_lacitoyennefloch
-C'est un parti pris.
-
--*who_corniquet
-Calmez vos esprits.
-
--*who_ensemble
-Non, nous n'irons point ensemble.
-
--*who_lacitoyennefloch
-Tu ne mérites pas d'être associé à la gloire de cette action.
-Seule, je suffirai à tout : ô ma patrie , prête-moi de la force et des ailes.
-
-**** *book_ *id_I06 *act_I *date_1795
-
--*who_corniquet
-Oh !
-Queu femme !
-J'gag' quia pus d'esprit dans ce petit corps là que dans le mien...
-Avec tout son esprit pourtant, al fait là une grande sottise : aller comme çà s'exposer !
-J'aime bien mieux que ce soit elle que moi.
-Dans pareille entreprise
-Que j'aille m'engager !...
-Non, non : quoi qu'on en dise,
-J'évite le danger.
-Eh ! Mais oui dà,
-Comment peut-on trouver de mal à çà ?
-J'aime bien la patrie ;
-Je voudrais la sauver :
-Mais j'aime aussi la vie ;
-Je veux la conserver.
-Eh ! mais oui dà,
-Beaucoup de gens ont pensé comme çà.
-Eh ben !
-Je m'amuse à bavarder, tandis que je devrais être bien loin...
-Il faut pourtant que je me sauve...
-Siz allaient me rencontrer ici !....
-Ah !
-Mon Dieu !Les v'là qui viennent : i m'feront mourir de peur.
-
-**** *book_ *id_I07 *act_I *date_1795
-
--*who_undesbrigands
-Eh bien !
-Y a-t-il quelque chose à piller ici ?
-Allons, camarades ; il ne faut pas se gêner ; nous sommes sur le pays conquis.
-De l'or, des assignats, de l'argenterie.
-
--*who_lecitoyenfloch
-Vous ne trouverez ici que des vertus.
-
--*who_lepererenaud
 Mon ami, souffrons-nous assez ?
 
--*who_lecitoyenfloch
-Et-vous, mon père, qui veniez habiter notre maison : au même instant des scélérats viennent s'en emparer.
+Je venais partager vos plaisirs ; il est bien juste que je partage vos peines... Faut-il ainsi supporter l'insolence de ces brigands ?
 
--*who_lepererenaud
-Je venais partager vos plaisirs ; il est bien juste que je partage vos peines...
-Faut-il ainsi supporter l'insolence de ces brigands ?
+Je ne peux m'imaginer que ma fille ait commis cette lâcheté... Elle tient de son père ; elle aime sa patrie plus que sa famille.
 
--*who_lecitoyenfloch
-La patrie ne m'en devient que plus chère.
-Celui-là l'aime véritablement qui supporte tous les maux pour elle.
-Périssons, mon père, et que la République triomphe !
-Et ma femme... malheureuse...
-Tu vas guider les satellites des tyrans ; tu vas racheter notre vie par une trahison.
+Hé bien ! Mon ami, mon coeur me le disait : ma fille n'a point déshonoré son père, son époux ; elle n'a pas trahi son pays... Elle est encore digne de nous.
 
--*who_lepererenaud
-Je ne peux m'imaginer que ma fille ait commis cette lâcheté...
-Elle tient de son père ; elle aime sa patrie plus que sa famille.
-
--*who_lebrigand
-Eh bien !
-Qu'est-ce qu'ils disent donc ceux-là ?
-
--*who_lecitoyenfloch
-Scélérats , oserez-vous enchaîner jusqu'à notre pensée ?
-
--*who_lebrigand
-Une armoire !
-Camarades, enfonçons !... ...
-Voici des provisions !...
-Quelles victuailles !
-Un veau tout entier !
-Saisissez ce garnement ;
-Il faut que ma main l'assomme.
-
--*who_corniquet
-Mon cher monsieur le chouan,
-Ayez pitié d'un pauvre homme.
-Aye ! aye ! aye !
-Aye ! aye ! aye !... De grâce !
-De grâce, aye ! aye ! aye !
-
-**** *book_ *id_I08 *act_I *date_1795
-
--*who_lechef
-Que faites-vous de ce maraud ?
-
--*who_lebrigand
-C'est un imbécile, un pauvre diable que la frayeur avait caché dans cette armoire.
-
--*who_lechef
-Va-t-en.
-
--*who_corniquet
-Très volontiers, je vous assure.
-
-**** *book_ *id_I09 *act_I *date_1795
-
--*who_lechef
-Je suis gonflé de fureur.
-La colonne de Saint-Pavin s'est présentée devant Malestroit : on était prévenu...
-Elle a été repoussée.
-Nous sommes trahis...
-Cette femme sans doute...
-N'importe , voilà mes victimes.
-Qu'on les garde ici avec soin : une sentinelle à chaque porte, en dehors.
-Fais exécuter cet ordre sur le champ, et cours m'avertir au moindre mouvement.
-
-**** *book_ *id_I10 *act_I *date_1795
-
--*who_lepererenaud
-Hé bien !
-Mon ami, mon coeur me le disait : ma fille n'a point déshonoré son père, son époux ; elle n'a pas trahi son pays...
-Elle est encore digne de nous.
-
--*who_lecitoyenfloch
-Mon père, de quel poids je suis soulagée.
-Je craignais, je l'avoue, la faiblesse de son sexe ; je craignais jusqu'à son attachement pour nous.
-Mais d'après les discours de ce brigand, d'après ces signes d'une fureur concentrée, sans doute mon épouse à sauvé les habitants de Malestroit ; et loin de servir les rebelles, elle a causé leur défaite.
-Ah !
-Cette idée me console, et ôte à la mort, que j'attends avec calme, tout ce qu'elle pouvait avait de hideux et de poignant.
-
--*who_lecitoyenfloch
-Ah ! Mon père, peut-on craindre la mort,
-Lorsqu'on s'immole à la patrie ?
-Tout bon Français enviera notre sort,
-Et la gloire est une autre vie.
-Sur mon tombeau les pères attendris ,
-Les yeux baignés de douces larmes,
-Diront un jour, en embrassant leurs fils :
-Combien le devoir a de charmes !
-
--*who_lepererenaud
 Si ton père, dans les champs de la mort,
 Pour un roi prodigua sa vie ,
 En ce moment qu'il doit bénir son sort
@@ -484,227 +250,31 @@ Diront, versant de douces larmes :
 Quand on a su vivre pour son pays,
 Dans la mort on trouve des charmes.
 
--*who_lepererenaud
-Il dort encore, être malheureux !
-À peine entré dans le monde, tu vas en sortir ; ou si tu échappes à la férocité de nos ennemis, si tu ne revois le jour, tu ne reverras pas celui qui te l'a donné.
+Il dort encore, être malheureux ! À peine entré dans le monde, tu vas en sortir ; ou si tu échappes à la férocité de nos ennemis, si tu ne revois le jour, tu ne reverras pas celui qui te l'a donné.
 
--*who_lecitoyenfloch
-Mon père , sauvons-le ; épargnons un crime à ces brigands...
-Bientôt nous ne serons plus...
-Qu'il vive lui !...
-Qu'il vive pour sa mère !...Qu'il vive pour la consoler !...
-Éloigné du sein qui le nourrit, il commence à sentir le besoin...
-Ô mon fils !
-Tes petits bras caressants ne s'étendront plus vers ton père...
-Lorsque tu seras en âge de marcher seul vers ma tombe, donne une larme à ma cendre chéri, et cours essuyer les pleurs de ta mère...
-Mais comment le soustraire à nos assassins ?...
-Si Corniquet ne s'était pas éloigné...
-Mais sa maison n'est pas loin ; il pourrait venir à travers le verger.
+Je ne vois rien... Attends... Oui, le voilà.
+Corniquet ! Corniquet !
 
--*who_lepererenaud
-Je ne vois rien...
-Attends...
-Oui, le voilà.
-Corniquet !
-Corniquet !
+Attends... Les brigands n'ont pas aperçu ces couleurs chéries... Elles vont nous êtes utiles.
 
--*who_lecitoyenfloch
-Il ne nous entend pas...
-Si nous avions quelque signe qu'il pût apercevoir.
+Il vient. Le voilà tout près.
 
--*who_lepererenaud
-Attends...
-Les brigands n'ont pas aperçu ces couleurs chéries...
-Elles vont nous êtes utiles.
+Mais la fenêtre est trop haute ; une corde ! Vite.
 
--*who_lecitoyenfloch
-Il nous regarde...
-Corniquet, Corniquet !
-
--*who_lepererenaud
-Il vient.
-Le voilà tout près.
-
-**** *book_ *id_I11 *act_I *date_1795
-
--*who_lecitoyenfloch
-Mon ami, viens nous aider : au nom de Dieu, cache cet enfant ; porte-le dans le bois ; où tu voudras...
-Sauve-le.
-
--*who_corniquet
-C'est-y ben difficile ?
-Et les brigands ?...
-I nous écoutent peut-être ben.
-
--*who_lecitoyenfloch
-Ne crains rien.
-
--*who_lepererenaud
-Mais la fenêtre est trop haute ; une corde !
-Vite.
-
--*who_lecitoyenfloch
-En voici une.
-Mon père, tout doucement :
-Agissons avec prudence.
-
--*who_lepererenaud
 Tiens la corde fortement.
 Bon, il est là-bas, je pense.
 
--*who_lecitoyenfloch
-Ah ! Que Dieu soit ton recours ;
-Pauvre enfant, qu'il sauve tes jours.
-
--*who_lepererenaud
 Dieu conservera ses jours ;
 De l'innocent c'est le recours.
 
--*who_lecitoyenfloch
-Veille sur lui, mon ami, aies-en bien soin ; c'est le dernier service que tu nous rendras.
-
--*who_corniquet
-Laissez faire : allez.
-Oh !
-Les bringands ne le verront pas.
-
-**** *book_ *id_I12 *act_I *date_1795
-
--*who_lechef
-Tout est découvert ; cette femme nous a trahis ; elle a révélé aux républicains le mot d'ordre que je lui avais confié, elle s'est servi de mon meilleur cheval pour prévenir les habitants de Malustroit, qui ont mit en déroute la colonne du chevalier de Saint-Pavin, et peut-être, par l'effet de sa perfidie, allons-nous être accablés.
-On a vu quelques bleus dans le lointain.
-Malédiction sur cette infernale femme !...
-Mais elle nous a laissé des victimes...
-Que tout le monde s'apprête, et commençons par nous venger.
-Vos armes sont-elles en état ?
-
--*who_lebrigand
-Oui, commandant.
-
--*who_lechef
-À genoux.
-
--*who_lepererenaud
 Des républicains savent mourir debout.
 
--*who_lechef
-Qu'on leur bande les yeux.
-
--*who_lecitoyenfloch
-Non...
-Cette mort est trop belle ; nous voulons la voir venir.
-
--*who_lechef
-En joue sur ces coquins.
-
-**** *book_ *id_I13 *act_I *date_1795
-
--*who_lacitoyennefloch
-Arrêtez, malheureux.
-
--*who_lofficier
-Bas les armes, scélérats.
-
--*who_lofficier
-Une cocarde blanche, exécrable signe du royalisme.
-
--*who_lacitoyennefloch
-Des liens !...
-
--*who_lecitoyenfloch
-Ô ma bien-aimée !
-Tu sauves ton pays, et tu nous rends la vie.
-
--*who_lepererenaud
 Ma fille, ornement de ta patrie, honneur de ma vieillesse, je fus toujours heureux d'être ton père ; j'en suis fier en ce moment.
 
--*who_lofficier
-Républicains, dignes amis, quel tableau pour mes regards !
-Quel charme pour mon coeur !
-Combien je suis heureux d'être l'instrument dont le ciel s'est servi pour votre délivrance, et pour la gloire de la République !...
-Mais nous devons tout... tout à cette, excellente citoyenne.
-Elle a sauvé nos frères ; elle a conduit mes pas ; elle vous a rendus à la vie...
-Ah !
-Toutes les couronnes civiques lui sont dues !
-Je publierai son courage, ses vertus sublimes...
-La reconnaissance nationale va consacrer ce grand jour : les regards de la France entière vont se fixer sur ce modeste asile, et la postérité saura qu'une Française républicaine a tout à la fois bien mérité de la patrie, de la nature, de l'amour et de l'amitié.
-
--*who_lacitoyennefloch
-Dieu !
-Mon fils !...
-Qu'est devenu mon fils ?
-Ah !
-Si les barbares...
-Réponds : où est mon fils ?...
-
--*who_lecitoyenfloch
-Calme-toi...
-Tu vas le revoir.
-Corniquet...
-Mais le voici.
-
-**** *book_ *id_I14 *act_I *date_1795
-
--*who_corniquet
-Je suis bien aise que la république ait triomphé.
-Vive la république !
-Tenez, voisine, voici votre marmot : c'est moi pour tant qui l'ai sauvé, malgré tous ces vilains Chouans.
-Venez encore, comme tantôt, me dire que je ne suis qu'une bête.
-Comme ils s'enfuient tous ces brigands !
-Il y en a tout plein de tués, tout plein !
-Tout plein !
-Nous sommes les plus forts a présent...
-Vive la république !
-
--*who_lacitoyennefloch
-Pauvre petit !...
-Tu as faim !
-Tout à l'heure...
-Tout à l'heure, mon fils...
-
--*who_lofficier
-Heureuse famille !
-Que de vertus se trouvent ici réunies !
-
--*who_lecitoyenfloch
-Mes amis, mes libérateurs !
-Il ne faut pas que nous nous quittions sans trinquer ensemble : allons nous reposer dans la chambre voisine, et buvons à la république et à la Convention.
-
--*who_lepererenaud
 C'est bien penser, mon ami.
 
--*who_corniquet
-Oh !
-Oui, c'est ben pensé da...
-J'ai une soif que c'est incroyable.
-J'ai couru comme les Autrichiens aux champs de Fleurus...
-Dam !
-Sauve qui peut, c'est mon principe à moi dans les cas difficiles.
+Viens, ma fille, et sois sûre que je note parlerai plus du héros de l'ancien régime. D'Asssas , le fameux d'Assas est surpassé.
 
--*who_lepererenaud
-Viens, ma fille, et sois sûre que je note parlerai plus du héros de l'ancien régime.
-D'Asssas , le fameux d'Assas est surpassé.
-
--*who_lacitoyennefloch
-Que dites-vous, mon père ?
-De l'admiration pour une action simple qui était un devoir pour moi !
-J'ai mis du zèle et de la promptitude à prévenir nos braves amis...
-Ils ont fait le reste.
-Oui, c'est à eux, à ces jeunes guerriers, à ces sauveurs de la République que nous devons aussi notre salut.
-
-**** *book_ *id_I15 *act_I *date_1795
-
--*who_lacitoyennefloch
-Que peut-on aimer ici bas ?...
-C'est son fils, son époux, son père,
-Je le sens.... mais n'étais-je pas
-Citoyenne avant d'être more ?
-Quand le devoir parle à son tour,
-Je sacrifie
-À la patrie
-Mon fils, mon père et mon amour.
-
--*who_lepererenaud
 Mes amis , toujours la vertu.
 Obtient sa juste récompense.
 Si ton bonheur fut suspendu?
@@ -714,32 +284,3 @@ Fille chérie,
 Une patrie,
 Ton fils, ton père et ton amour.
 
--*who_lecitoyenfloch
-Eh ! Que pouvait sur moi le sort ?
-J'avais les vertus de ma femme :
-Tandis qu'on apprêtait ma mort ,
-Une voix, au fond ce mon âme,
-Me disait : il faut qu'en ce jour
-Tu sacrifies
-À la patrie
-Ton bien, ta vie et ton amour.
-
--*who_lofficier
-Je suis jeune, je suis Français,
-Et le plaisir m'est nécessaire :
-J'aime à lire, un prochain succès
-Dans les yeux furtifs de Glycère ;
-Mais au premier son du tambour.
-Je sacrifie
-À la patrie
-Mon bien , ma vie et mon amour.
-
--*who_corniquet
-Je rends hommage au vrai guerrier,
-Sans en avoir le caractère ;
-Et si je préfère au laurier
-De vivre le plaisir vulgaire,
-J'aime à voir qu'au son du tambour
-On sacrifie
-À sa patrie
-Son bien, sa vie et son amour.

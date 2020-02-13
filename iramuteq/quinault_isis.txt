@@ -1,14 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1677
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_larenommee
 
--*who_larenommee_suite
-Publions en tous lieux
-Du plus grand des héros la valeur triomphante.
-Que la Terre et les cieux
-Retentissent du bruit de sa gloire éclatante.
-
--*who_larenommee
 C'est lui dont les Dieux ont fait choix
 Pour combler le bonheur de l'Empire François,
 En vain pour le troubler, tout s'unit, tout conspire,
@@ -16,116 +9,20 @@ C'est en vain que l'Envie a ligué tant de rois.
 Heureux l'Empire
 Qui suit ses lois !
 
--*who_lechoeur
-Heureux l'Empire
-Qui suit ses lois !
-
--*who_larenommee
 Il faut que partout on l'admire
 Parlons de ses vertus racontons ses exploits,
 A peine y pourrons nous suffire
 Avec toutes nos voix;
 
--*who_lechoeur
-Heureux l'Empire
-Qui suit ses lois !
-
--*who_larenommee
 Il faut le dire cent-et-cent fois
 Heureux l'empire qui suit ses lois.
 
--*who_lechoeur
-Il faut le dire cent-et-cent fois
-Heureux l'empire qui suit ses lois.
-
-**** *book_ *id_I02 *act_I *date_1677
-
--*who_deuxtritons
-C'est le Dieu des eaux qui va paraître
-Rangeons nous près de notre Maître
-Enchaînons les vents les plus terribles
-Que le bruit des flots cède à nos chants.
-Régnez Zéphirs paisibles,
-Ramenez le doux printemps.
-
--*who_neptune
-Mon empire a servi de théâtre à la guerre,
-Publiez des exploits nouveaux
-C'est le même vainqueur
-Si fameux sur la terre
-Qui triomphe encor sur les eaux.
-
--*who_larenommee_neptune
-Célébrez son grand nom sur la terre et sur l'onde
-Qu'il ne soit pas borné par les plus vastes mers
-Qu'il vole jusqu'au bout du monde
-Qu'il dure autant que l'univers.
-
--*who_choeurs
-Célébrez son grand nom sur la terre et sur l'onde
-Qu'il ne soit pas borné par les plus vastes mers
-Qu'il vole jusqu'au bout du monde
-Qu'il dure autant que l'univers.
-
-**** *book_ *id_I03 *act_I *date_1677
-
--*who_callyope
-Cessez pour quelque temps bruit terrible des armes
-Qui troublez le repos de cent climats divers
-Ne troublez point les charmes
-De nos divins concerts.
-
--*who_callyope_thalie_apollon
-Ne troublez point les charmes
-De nos divins concerts.
-
--*who_callyope
-Recommençons nos chants,
-Allons les faire entendre.
-
--*who_melpomene
-Dans une auguste Cour.
-
--*who_thalie
-La Paix, la douce Paix
-N'ose encore descendre du céleste séjour.
-
--*who_callyope
-La Paix, la douce Paix
-N'ose encore descendre du céleste séjour.
-
--*who_callyope_thalie_apollon
-Près du Vainqueur allons attendre son bienheureux retour.
-
--*who_apollon
-Ne parlons pas toujours de la guerre cruelle,
-Parlons des plaisirs et des jeux.
-Les Muses et les Arts
-Vont signaler leur zèle,
-Je vais favoriser leurs voeux
-Nous préparons une fête nouvelle
-Pour le Héros qui les appelle
-Dans cet asile heureux
-
--*who_lechoeur
-Ne parlons pas toujours de la guerre cruelle,
-Parlons des plaisirs et des jeux.
-
--*who_larenommee
 Hâtez-vous, Plaisirs, hâtez-vous
 De montrer vos charmes les plus doux.
 
--*who_apollon_neptune_larenommee
-Hâtez-vous, Plaisirs, hâtez-vous
-De montrer vos charmes les plus doux.
 
--*who_lechoeur
-Hâtez-vous, Plaisirs, hâtez-vous
-De montrer vos charmes les plus doux.
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hierax
 
-**** *book_ *id_II01 *act_II *date_1677
-
--*who_hierax
 Cessons d'aimer une infidèle,
 Évitons la honte cruelle
 De servir, d'adorer qui ne nous aime plus.
@@ -142,34 +39,11 @@ Lorsqu'il faut dans un coeur faire place à l'Amour;
 Mais que vous êtes lente
 Lorsqu'un juste dépit presse votre retour.
 
-**** *book_ *id_II02 *act_II *date_1677
-
--*who_pirante
-C'est trop entretenir
-Ces tristes rêveries;
-Venez, tournez vos pas sur ces rives fleuries
-Regardez ces flots argentés,
-Qui dans ces vallons écartés,
-Font briller l'émail des prairies
-Interrompez vos soupirs
-Tout doit être ici;
-Ce beau séjour est l'asile
-Du repos et des plaisirs.
-
--*who_hierax
 Depuis qu'une nymphe inconstante
 A trahi mon amour et m'a manqué de foy
 Ces lieux jadis si beaux n'ont plus rien qui m'enchante;
 Ce que j'aime a changé, tout est changé pour moi.
 
--*who_pirante
-La fille d'Inachus hautement vous préfère
-A mille autres amants de votre sort jaloux;
-Vous avez l'aveu de son père
-En faveur d'Argus votre frère,
-La puissante Junon se déclare pour vous.
-
--*who_hierax
 Si l'ingrate m'aimait, je serais son époux.
 Cette nymphe légère
 De jour en jour diffère
@@ -181,11 +55,6 @@ Je ne le connais que trop bien,
 Sa bouche quelquefois dit encor qu'elle m'aime;
 Mais son coeur ni ses yeux ne m'en disent plus rien.
 
--*who_pirante
-Se peut-il qu'elle dissimule !
-Après de serments, ne la croyez-vous pas ?
-
--*who_hierax
 Je ne les crus que trop, hélas !
 Ces serments qui trompent mon coeur tendre et crédule;
 Ce fut dans ces vallons où par mille détours,
@@ -199,15 +68,6 @@ Mais le Zéphir léger et l'onde fugitive
 Ont enfin emporté les serments qu'elle a faits.
 Je la vois, l'infidèle.
 
--*who_pirante
-Éclaircissez vous avec elle.
-
-**** *book_ *id_II03 *act_II *date_1677
-
--*who_io
-M'aimez vous ? puis-je m'en flatter ?
-
--*who_hierax
 Cruelle, en voulez vous douter ?
 En vain votre inconstance éclate,
 En vain elle m'anime à briser tous les noeuds
@@ -231,26 +91,12 @@ Voyez couler ces flots dans cette vaste plaine
 C'est le même penchant qui toujours les entraîne.
 Leurs cours ne change point et vous avez changé
 
--*who_io
-Laissez moi revenir de mes frayeurs secrètes;
-J'attends de votre amour cet effort généreux.
-
--*who_hierax
 Je veux ce qui vous plaît, cruelle que vous êtes,
 Vous n'abusez que trop d'un amour malheureux !
 
--*who_io
-Non, je vous aime encor !
-
--*who_hierax
       Quelle froideur extrême !
 Inconstante, est-ce ainsi qu'on doit dire qu'on aime.
 
--*who_io
-C'est à tort que vous m'accusez,
-Vous avez vu toujours vos rivaux méprisés
-
--*who_hierax
 Le mal de mes rivaux
 N'égale point ma peine,
 La douce illusion d'une espérance vaine
@@ -263,7 +109,6 @@ Je ne le sens que trop
 Votre coeur se détache
 Et je ne sais qui me l'arrache
 
--*who_hierax
 Je cherche en vain l'heureux amant
 Qui me dérobe un bien charmant
 Où j'ai cru devoir seul prétendre
@@ -274,7 +119,77 @@ Vous ne me dites rien;
 Il faut vous délivrer d'un fâcheux entretiens;
 Ma présence vous blesse et c'est trop vous contraindre.
 
--*who_io
+La perfide craint ma présence
+Elle me fuit en vain et j'irai la chercher.
+
+      Laissez moi lui reprocher
+Sa cruelle inconstance
+
+Quoi ! Junon me devient contraire ?
+
+L'amitié fraternelle a si peur de pouvoir ?
+
+Quel est l'heureux amant qui s'en est fait aimer ?
+Nommez le moi.
+
+Ô Dieux !
+
+Dieux tout puissants ! ah ! vous étiez jaloux
+De la félicité que vous m'avez ravie,
+Dieux tout puissants ! ah ! vous étiez jaloux
+De me voir plus heureux que vous.
+Vous n'avez pu souffrir le bonheur de la vie
+Et je voyais vos grandeurs sans envie.
+J'aimais, j'étais aimé.
+Mon sort était trop doux.
+
+Argus avec cent yeux sommeille;
+Mais croyez vous endormir un amant jaloux ?
+Demeurez !
+
+J'ai tout perdu j'attends le trépas sans effroi.
+Un coup de foudre est une grâce
+Pour un malheureux comme moi.
+Éveillez vous, Argus, éveillez-vous, vous vous laissez surprendre.
+
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirante
+
+C'est trop entretenir
+Ces tristes rêveries;
+Venez, tournez vos pas sur ces rives fleuries
+Regardez ces flots argentés,
+Qui dans ces vallons écartés,
+Font briller l'émail des prairies
+Interrompez vos soupirs
+Tout doit être ici;
+Ce beau séjour est l'asile
+Du repos et des plaisirs.
+
+La fille d'Inachus hautement vous préfère
+A mille autres amants de votre sort jaloux;
+Vous avez l'aveu de son père
+En faveur d'Argus votre frère,
+La puissante Junon se déclare pour vous.
+
+Se peut-il qu'elle dissimule !
+Après de serments, ne la croyez-vous pas ?
+
+Éclaircissez vous avec elle.
+
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_io
+
+M'aimez vous ? puis-je m'en flatter ?
+
+Laissez moi revenir de mes frayeurs secrètes;
+J'attends de votre amour cet effort généreux.
+
+Non, je vous aime encor !
+
+C'est à tort que vous m'accusez,
+Vous avez vu toujours vos rivaux méprisés
+
 Jaloux sombre et chagrin,
 Partout où je vous vois,
 Vous ne cessez de vous plaindre
@@ -282,25 +197,6 @@ Je voudrais vous aimer
 Autant que je le dois,
 Et vous me forcez à vous craindre.
 
--*who_hierax_io
-Non, non, il ne tient qu'à vous
-De rendre notre sort plus doux
-Non, non, il ne tient qu'à vous
-De rendre mon coeur plus tendre
-Non, non, il ne tient qu'à vous
-De rendre mon coeur moins jaloux.
-
-**** *book_ *id_II04 *act_II *date_1677
-
--*who_micene
-Ce prince trop longtemps dans ses chagrins s'obstine
-On pardonne au premier transport
-D'un amour qui se plaint à tort
-Et qui sans raison se mutine.
-Mais à la fin on se chagrine
-Contre un Amour chagrin.
-
--*who_io
 Je veux bien te parler enfin sans artifice
 Ce prince infortuné s'alarme avec justice.
 Le maître souverain de la terre et des cieux
@@ -313,14 +209,6 @@ Fait toujours résistance.
 Et pour attaquer ma constance,
 Il ne fallait pas moins que le plus grand des Dieux.
 
--*who_micene
-On écoute aisément Jupiter qui soupire.
-C'est un amant qu'on ose mépriser.
-Et du plus grand des coeurs
-Ce glorieux empire
-Est difficile à mépriser.
-
--*who_io
 Lorsqu'on me presse de me rendre
 Aux attraits d'un amour nouveau,
 Plus le charme est puissant
@@ -329,83 +217,6 @@ De pouvoir m'en défendre.
 Quoi ! tu veux me quitter ?
 Doù vient ce soin pressant ?
 
--*who_micene
-C'est pour vous seule ici que Mercure descend.
-
-**** *book_ *id_II05 *act_II *date_1677
-
--*who_mercure
-Le Dieu puissant qui lance le tonnerre
-Et qui des cieux tient le sceptre en ses mains
-A résolu de venir sur la terre
-Chasser les maux qui troublent les humains.
-Que la terre avec soin à cet honneur réponde
-Échos retentissez dans ces lieux pleins d'appas,
-Annoncez qu'aujourd'hui pour le bonheur du monde,
-Jupiter descends ici-bas.
-
--*who_choeurdesdivinites
-Échos retentissez dans ces lieux pleins d'appas,
-Annoncez qu'aujourd'hui pour le bonheur du monde,
-Jupiter descends ici-bas.
-
--*who_mercure
-C'est ainsi que Mercure
-Pour abuser les Dieux jaloux
-Doit parler hautement à toute la nature.
-Mais il doit s'expliquer
-Autrement avec vous;
-C'est pour vous voir,
-C'est pour vous plaire,
-Que Jupiter descend du céleste séjour.
-Et les biens qu'ici bas sa présence va faire
-Ne seront dûs qu'à son amour.
-
--*who_isis
-Pourquoi du haut des cieux,
-Ce Dieu veut-il descendre ?
-Mes voeux sont engagés.
-Mon coeur a fait un choix
-L'amour tôt ou tard doit prétendre
-Que tous les coeurs se rangent sous ses lois.
-C'est un hommage qu'il faut rendre
-Mais assez de le rendre une fois.
-
--*who_mercure
-Ce serait en aimant une contrainte étrange
-Qu'un coeur pour mieux choisir n'osât se dégager.
-Quand c'est pour Jupiter qu'on change
-Il n'est pas honteux de changer.
-Que tout l'univers se pare
-De ce qu'il a de plus rare
-Que tout brille dans ces lieux.
-Que la terre partage
-L'éclat et la gloire des cieux.
-Que tout rende hommage
-Au plus grand des dieux.
-
-**** *book_ *id_II06 *act_II *date_1677
-
--*who_jupiter
-Les armes que je tiens protègent l'innocence.
-L'effort n'en est fâcheux qu'à l'orgueil des titans.
-Vous qui suivez les lois,
-Vivez sous ma puissance,
-Toujours heureux, toujours contents.
-Jupiter vient sur la terre.
-Pour la combler de bienfaits,
-Il est armé du tonnerre
-Mais c'est pour donner la paix.
-
--*who_choeurs
-Jupiter vient sur la terre.
-Pour la combler de bienfaits,
-Il est armé du tonnerre
-Mais c'est pour donner la paix.
-
-**** *book_ *id_III01 *act_III *date_1677
-
--*who_io
 Où suis-je ? D'où vient ce nuage ?
 Les ondes de mon père et son charmant rivage
 Ont disparu tout à coup à mes yeux !
@@ -415,871 +226,58 @@ Me fait elle si tôt acheter l'avantage
 De plaire au plus puissant des Dieux ?
 Que vois-je ? Quel éclat se répand dans ces lieux.
 
-**** *book_ *id_III02 *act_III *date_1677
-
--*who_jupiter
-Vous voyez Jupiter; Que rien ne vous étonne.
-C'est pour tromper Junon et ses regards jaloux
-Qu'un nuage vous environne;
-Belle nymphe, rassurez-vous
-Je vous aime et pour vous le dire,
-Je sors avec plaisir de mon suprême empire.
-La foudre est dans mes mains,
-Les Dieux me font la cour,
-Je tiens tout l'Univers sous mon obéissance;
-Mais si je prétends en ce jour
-Engager votre coeur à m'aimer à son tour,
-Je fonde moins mon espérance
-Sur la grandeur de ma puissance
-Que sur l'excès de mon amour.
-
--*who_io
 Que sert-il qu'ici-bas votre amour me choisisse ?
 L'honneur me vient trop tard, j'ai formé d'autres noeuds
 Il fallait que ce bien pour combler tous nos voeux,
 Ne me coûtât point d'injustice,
 Et ne fit point de malheureux
 
--*who_jupiter
-C'est une assez grande gloire
-Pour votre premier vainqueur,
-D'être encore dans votre mémoire
-Et de me disputer si longtemps votre coeur.
-
--*who_io
 La gloire doit forcer mon coeur à se défendre.
 Si vous sortez du Ciel pour chercher les douceurs
 D'une amour tendre,
 Vous pouvez aisément attaquer d'autres coeurs
 Qui feront gloire de se rendre.
 
--*who_jupiter
-Il n'est rien dans les Cieux il n'est rien ici-bas
-De si charment que vos appas;
-Rien ne peut me toucher d'une flamme si forte;
-Belle Nymphe vous l'emportez
-Sur les autres beautés,
-Autant que Jupiter l'emporte
-Sur les autres Divinités !
-Verrez-vous tant d'amour avec indifférence ?
-Quel trouble vous saisit ? Où tournez vous vos pas ?
-
--*who_io
 Mon coeur en votre présence
 Fait trop peu de résistance
 Contentez-vous, hélas !
 D'étonner ma constance,
 Et n'en triomphez pas.
 
--*who_jupiter
-Et pourquoi craignez vous Jupiter qui vous aime ?
-
--*who_io
 Je crains tout, je me crains moi-même.
 
--*who_jupiter
-Quoi ! voulez vous me fuir
-
--*who_io
       C'est mon dernier espoir.
 
--*who_jupiter
-Écoutez mon amour.
-
--*who_io
       Écoutez mon devoir.
 
--*who_jupiter
-Vous avez un coeur libre et qui peut de défendre
-
--*who_io
 Non, vous ne laissez pas mon coeur en mon pouvoir
 
--*who_jupiter
-Quoi ! vous ne voulez pas m'entendre
-
--*who_io
 Je n'ai que trop de peine à ne le pas vouloir.
 Laissez-moi...
 
--*who_jupiter
-      Quoi si tôt.
-
--*who_io
       Je devais moins attendre;
 Que ne fuyais-je hélas ! Avant que de vous voir.
 
--*who_jupiter
-L'amour pour moi me sollicite
-Et je vois que vous me quittez
-
--*who_io
 Le devoir veut que je vous quitte,
 Et je sens que vous m'arrêtez
 
-**** *book_ *id_III03 *act_III *date_1677
-
--*who_mercure
-Iris est ici-bas et Junon elle-même
-Pourrait vous suivre dans ces lieux.
-
--*who_jupiter
-Pour la nymphe que j'aime
-Je crains ses transports furieux.
-
--*who_mercure
-Sa vengeance serait funeste,
-Si votre amour était surpris.
-
--*who_jupiter
-Va, prends soin d'arrêter Iris,
-Mon amour prendra soin du reste.
-
-**** *book_ *id_III04 *act_III *date_1677
-
--*who_mercure
-Arrêtez, belle Iris, différez un moment
-D'accomplir en ces lieux ce que Junon désire.
-
--*who_iris
-Vous m'arrêtez vainement
-Et vous n'aurez rien à me dire.
-
--*who_mercure
-Mais, si je vous disais que je veux vous choisir
-Pour attacher mon coeur d'une éternelle chaîne ?
-
--*who_iris
-Je vous écouterais peut-être avec plaisir,
-Mais je vous croirais avec peine.
-
--*who_mercure
-Refusez vous d'unir votre coeur et le mien.
-
--*who_iris
-Jupiter et Junon nous occupent sans cesse
-Nos soins sont assez grands sans que l'amour nous blesse,
-Nous n'avons pas tous deux de loisir d'aimer bien.
-
--*who_mercure
-Si je fais ma première affaire
-De vous voir et de vous plaire.
-
--*who_iris
-Je ferai mon premier devoir
-De vous plaire et de vous voir.
-
--*who_mercure
-Un coeur fidèle
-A pour moi de charmants appas:
-Vous avez mille attraits,
-Vous n'êtes que trop belle:
-Mais je crains que vous n'ayez pas.
-Un coeur fidèle.
-
--*who_iris
-Pourquoi craignez-vous tant
-Que mon coeur se dégage
-Je vous permets d'être inconstant,
-Sitôt que je serai volage.
-
--*who_mercure_iris
-Promettez moi de constantes amours,
-Je vous promets de vous aimer toujours.
-
--*who_mercure
-Que la feinte entre nous finisse
-
--*who_iris
-Parlons sans mystère en ce jour;
-
--*who_mercure_iris
-Le moindre artifice
-Offense l'amour.
-
--*who_iris
-Quel soin presse ici-bas Jupiter de descendre.
-
--*who_mercure
-Le seul bien des mortels lui fait quitter les cieux;
-Mais quel soupçons nouveau Junon peut elle prendre ?
-Ne suivrait elle pas Jupiter en ces lieux.
-
--*who_iris
-Dans les jardins d'Hébé Junon vient de descendre.
-
--*who_mercure
-Un nuage entrouvert la découvre à mes yeux ;
-Iris parle ainsi sans mystère !
-C'est ainsi que je puis me fier à ta foi.
-
--*who_iris
-Ne me reprochez pas que je suis peu sincère,
-Vous ne l'êtes pas plus que moi.
-
--*who_mercure_iris
-Gardez pour quelque autre
-Votre amour trompeur,
-Je reprends mon coeur,
-Reprenez le vôtre.
-
-**** *book_ *id_III05 *act_III *date_1677
-
--*who_iris
-J'ai cherché vainement la fille d'Inachus.
-
--*who_junon
-Ah ! Je n'ai pas besoin d'en savoir davantage,
-Non, Isis, ne la cherchons plus.
-Jupiter dans ces lieux m'a donné de l'ombrage,
-J'ai traversé les airs, j'ai percé le nuage
-Qu'il opposait à mes regards ;
-Mais en vain j'ai tourné les yeux de toutes parts,
-Ce Dieu par son pouvoir suprême
-M'a caché la nymphe qu'il aime,
-Et ne m'a laissé voir que des troupeaux épars !
-Non, non, je ne suis pas une incrédule épouse
-Qu'un puisse tromper aisément;
-Voyons qui feindra mieux de Jupiter amant
-Ou de Junon jalouse.
-Il est maître des Cieux, la terre suit sa loi;
-Sous sa toute puissance, il faut que tout fléchisse;
-Mais puisqu'il ne prétend s'armer que d'artifice
-Tout Jupiter qu'il est, il est moins fort que moi.
-Dans ces lieux écartés, vois que la terre est belle.
-
--*who_iris
-Elle honore son maître et brille sous ses pas.
-
--*who_junon
-L'amour cet amour infidèle,
-Qui du plus haut des cieux l'appelle,
-Fait que tout lui rit ici-bas.
-Près d'une maîtresse nouvelle
-Dans le fond des déserts, on trouve des appas.
-Et le ciel même ne plaît pas
-Avec une épouse immortelle.
-
-**** *book_ *id_III06 *act_III *date_1677
-
--*who_jupiter
-Dans les jardins d'Hébé vous deviez en ce jour
-D'une nouvelle nymphe
-Augmenter votre cour;
-Quel dessein si pressant dans ces lieux vous amène.
-
--*who_junon
-Je ne vous suivrai pas plus loin. Je viens de votre amour
-Attendre un nouveau soin :
-Ne vous étonnez pas qu'on vous quitte avec peine,
-Et que de Jupiter on ait toujours besoin.
-Vous m'aimez, et j'en suis certaine.
-
--*who_jupiter
-Souhaitez, je promets que vos voeux seront satisfaits.
-
--*who_junon
-J'ai fait choix d'une nymphe et déjà la Déesse
-De l'aimable Jeunesse
-Se prépare à la recevoir;
-Mais je n'ose, sans vous, disposer de personne.
-Si j'ai quelque pouvoir,
-Je n'en prétends avoir
-Qu'autant que votre amour m'en donne
-Ce don de votre main me sera précieux.
-
--*who_jupiter
-J'approuve vos désirs ;
-Que rien n'y soit contraire;
-Mercure ayez soin de lui plaire,
-Et portez à son gré, mes ordres en tous lieux;
-Que tout suive les lois de la reine des cieux.
-
--*who_iris_mercure
-Que tout suive les lois de la reine des Cieux.
-
--*who_jupiter
-Parlez, et qu'hautement votre choix se déclare.
-
--*who_junon
-La nymphe qui me plaît ne vous déplaira pas,
-Vous ne verrez pas ici-bas
-De mérite plus grand ni beauté plus rare;
-Les honneurs que je lui prépare
-Ne lui sont que trop dûs,
-Enfin, Junon choisit la fille d'Inachus.
-
--*who_jupiter
-La fille d'Inachus.
-
--*who_junon
-      Déclarez pour elle.
-Peut-on voir à ma suite une nymphe plus belle,
-Plus capable d'orner ma cour,
-Et de marquer pour moi,
-Le soin de votre amour;
-Vous me l'avez promise et je vous le demande.
-
--*who_jupiter
-Vous ne sauriez combler d'une gloire trop grande
-La nymphe que vous choisissez;
-Junon commande
-Allez, allez, Mercure obéissez.
-
--*who_junon
-Junon commande
-Allez, allez, Mercure obéissez.
-
-**** *book_ *id_III07 *act_III *date_1677
-
--*who_hebe
-Les plaisirs les plus doux
-Sont faits pour la jeunesse.
-Venez, venez jeux charmants, venez tous;
-Cardez vous bien d'amener avec vous
-La sévère Sagesse.
-Fuyez, fuyez, sombre tristesse
-Noirs chagrins, fuyez loin de nous
-Vous êtes destinés pour l'affreuse vieillesse
-Les plaisirs les plus doux
-Sont faits pour la jeunesse.
-
--*who_lechoeur
-Les plaisirs les plus doux
-Sont faits pour la jeunesse.
-
--*who_deuxnymphes
-Aimez, profitez du temps,
-Jeunesse charmante
-Rendez vos désirs contents.
-Tout rit tout enchante
-Dans les plus beaux ans:
-L'amour vous éclaire
-Marchez sur ses pas
-Cherchez à vous faire
-Des noeuds pleins d'appas.
-Que vous sert de plaire,
-Si vous n'aimez pas ?
-
--*who_choeurs
-Que ces lieux ont d'attraits !
-Goûtons-en bien les charmes,
-L'Amour n'y fait jamais verser de tristes larmes
-Les soins et les alarmes,
-N'en troublent point la paix.
-Jouissons dans ces retraites
-Des douceurs les plus parfaites;
-Suivez-nous, charmants plaisirs,
-Comblez tous nos désirs.
-
-**** *book_ *id_III08 *act_III *date_1677
-
--*who_mercure
-Servez, Nymphe, servez avec un soin fidèle,
-La puissante reine des Cieux.
-Suivez dans ces aimables lieux
-La jeunesse immortelle
-Tout plaît et tout rit avec elle.
-
--*who_hebe
-Que c'est un plaisir charmant
-D'être jeune et belle !
-Triomphez à tout moment
-D'une conquête nouvelle.
-Que c'est un plaisir charmant
-D'être jeune et belle !
-
-**** *book_ *id_IV01 *act_IV *date_1677
-
--*who_argus
-Dans ce solitaire séjour
-Vous êtes sous ma garde,
-Junon vous y laisse:
-Mes yeux veilleront tour à tour
-Et vous observeront sans cesse.
-
--*who_io
 Est-ce là le bonheur que Junon m'a promis.
 Argus apprenez-moi quel crime j'ai commis.
 
--*who_argus
-Vous êtes aimable
-Vos yeux devaient moins charmer.
-Vous êtes coupable
-De faire trop aimer
-Ne me déguisez rien, de quoi m'accuse-t-elle
-Quelle offenses à ses yeux me rend si criminelle ?
-Ne pourrai-je apaiser son funeste courroux.
-
--*who_argus
-C'est une offense cruelle
-De paraître belle
-À ses yeux jaloux
-L'amour de Jupiter a trop paru pour vous
-
--*who_io
 Je suis perdue, ô ciel ! si Junon est jalouse.
 
--*who_argus
-On ne plaît guère à l'épouse
-Lorsqu'on plaît trop à l'époux.
-Vous n'en serez pas mieux d'être ingrate et volage
-Vous quittez un fidèle amant,
-Pour recevoir un plus brillant hommage
-Mais c'est un avantage
-Que vous payerez chèrement.
-J'ai l'ordre d'enfermer vos dangereux appas
-La Déesse se défend que vous voyez personne
-
--*who_io
 Aux rigueurs de Junon Jupiter m'abandonne.
 Non, non Jupiter ne m'aime pas.
 
-**** *book_ *id_IV02 *act_IV *date_1677
-
--*who_hierax
-La perfide craint ma présence
-Elle me fuit en vain et j'irai la chercher.
-
--*who_argus
-Non !
-
--*who_hierax
-      Laissez moi lui reprocher
-Sa cruelle inconstance
-
--*who_argus
-Non, non, on ne la doit point voir
-
--*who_hierax
-Quoi ! Junon me devient contraire ?
-
--*who_argus
-L'ordre est exprès pour tous, perdez un vain espoir.
-
--*who_hierax
-L'amitié fraternelle a si peur de pouvoir ?
-
--*who_argus
-Non, je ne connais plus ni d'ami, ni de frère,
-Je ne connais que mon devoir
-Laissez la nymphe en paix,
-Ce n'est plus vous qu'elle aime.
-
--*who_hierax
-Quel est l'heureux amant qui s'en est fait aimer ?
-Nommez le moi.
-
--*who_argus
-      Tremblez à l'entendre nommer.
-C'est un Dieu tout puissant, c'est Jupiter lui-même.
-
--*who_hierax
-Ô Dieux !
-
--*who_argus
-      Dégagez vous d'un amour si fatal
-Sans balancer il faut vous y résoudre
-C'est un redoutable rival
-Qu'un amant qui lance la foudre.
-
--*who_hierax
-Dieux tout puissants ! ah ! vous étiez jaloux
-De la félicité que vous m'avez ravie,
-Dieux tout puissants ! ah ! vous étiez jaloux
-De me voir plus heureux que vous.
-Vous n'avez pu souffrir le bonheur de la vie
-Et je voyais vos grandeurs sans envie.
-J'aimais, j'étais aimé.
-Mon sort était trop doux.
-
--*who_argus
-Heureux qui peut briser
-Qui peut briser sa chaîne
-Finissez une plainte vaine
-Méritez l'infidélité;
-Un coeur ingrat vaut-il la peine
-D'être tant regretté.
-
--*who_hierax_argus
-Heureux qui peut briser
-Qui peut briser sa chaîne
-
--*who_argus
-Liberté, liberté.
-
-**** *book_ *id_IV03 *act_IV *date_1677
-
--*who_syrinx_choeurs
-Liberté, liberté !
-
--*who_hierax_argus
-Quelles danses ! quels chants et quelle nouveauté !
-
--*who_syrinx_choeurs
-S'il est quelque bien au monde
-C'est la liberté.
-
--*who_hierax_argus
-Que voulez-vous ?
-
--*who_choeurdesnymphes
-Liberté, liberté.
-
--*who_hierax_argus
-Que voulez-vous ? il faut qu'on nous réponde.
-
--*who_syrinx_choeurs
-S'il est quelque bien au monde,
-C'est la liberté.
-
-**** *book_ *id_IV04 *act_IV *date_1677
-
--*who_mercure_choeursdenymphes_bergers_satyres_sylvains
-Liberté, liberté
-S'il est quelque bien au monde
-C'est la liberté.
-Liberté, liberté
-
--*who_mercure
-De la Nymphe Syrinx l'on chérit la mémoire,
-Il en regrette encor la perte chaque jour;
-Pour célébrer une fête à sa gloire
-Ce Dieu lui même assemble ici sa cour
-Il veut que du malheur de son fidèle amour.
-Un spectacle touchant représente l'histoire
-
--*who_argus
-C'est un plaisir pour nous; poursuivez j'y consens
-Je ne m'oppose point à ces jeux innocents.
-
--*who_mercure
-Il donne dans le piège, achevez sans remise
-Achevez de surprendre Argus et tous ses yeux.
-Si vous tentez une grande entreprise,
-Mercure vous conduit, l'amour vous favorise
-Et vous servez le plus puissant des Dieux.
-
-**** *book_ *id_IV05 *act_IV *date_1677
-
--*who_syrinx
-Liberté, liberté
-S'il est quelque bien au monde
-C'est la liberté.
-
--*who_syrinx
-L'empire de l'Amour n'est pas moins agité
-Que l'empire de l'onde
-Ne cherchons point d'autre félicité
-Qu'un doux loisir dans une paix profonde
-S'il est quelque bien au monde
-C'est la liberté.
-Liberté, liberté !
-
-**** *book_ *id_IV06 *act_IV *date_1677
-
--*who_deuxbergers
-Quel bien devez-vous attendre
-Beautés qui chassez dans ces lieux
-Que pouvez-vous prendre
-Qui vaille un coeur tendre
-Soumis à vos lois ?
-Ce n'est qu'en aimant
-Qu'on trouve un sort charmant
-Aimez enfin à votre tour
-Il faut que tout cède à l'amour.
-Il sait frapper d'un coup certain
-Le cerf léger qui fuit en vain
-Jusque dans les antres secrets
-Au fond des forêts
-Tout doit sentir ses traits.
-Lorsque l'amour vous appelle,
-Pourquoi fuyez-vous ses plaisirs ?
-La Rose nouvelle
-N'en est que plus belle
-D'aimer les Zéphirs.
-Ce n'est qu'en aimant
-Qu'on trouve un sort charmant,
-Aimez enfin, à votre tour;
-Il faut que tout cède à l'amour :
-Il sait frapper d'un coup certain
-Le cerf léger qui fuit en vain :
-Jusques dans les antres secrets
-Au fonds des forêts,
-Tout doit sentir ses traits,
-
--*who_pan
-Je vous aime Nymphe charmante;
-Un amant, un mortel cherche à plaire à vos yeux
-
--*who_syrinx
-Pan est un Dieu puissant, je révère les Dieux;
-Mais le nom d'amour m'épouvante.
-
--*who_pan
-Pour vous faire retrouver le nom d'amant plus doux.
-J'y joindrai le titre d'époux.
-Je n'aurai pas de peine
-A m'engager dans une aimable chaîne
-Pour ne jamais changer.
-Aimez un Dieu qui vous adore.
-
--*who_syrinx
-Un époux doit être encore
-Plus à craindre qu'un amant
-
--*who_pan
-Dissipez de vaines alarmes,
-Éprouvez l'amour et ses charmes
-Connaissez les plus doux appas.
-Non, ce ne peut être
-que faute de la connaître
-Qu'il ne vous plaît pas.
-
--*who_syrinx
-Les maux d'autrui me rendront sage.
-Ah ! Quel malheur
-De laisser engager son coeur !
-Pourquoi faut-il le plus beau de son âge
-Dans une mortelle langueur ?
-Ah, quel malheur !
-Pourquoi n'avoir pas le courage
-De s'affranchir de la rigueur
-D'un funeste esclavage ?
-Ah ! Quel malheur
-De laisser engager son coeur !
-
--*who_pan
-Ah ! Quel dommage
-Que vous ne sachiez pas aimer !
-Que vous sert-il d'avoir tant d'attraits en partage,
-Si vous en négligez le plus grand avantage ?
-Que vous sert-il de savoir tout charmer ?
-Ah, quel dommage
-Que vous ne sachiez pas aimer !
-
--*who_choeurs
-Aimons sans cesse.
-
--*who_choeurdesnymphes
-N'aimons jamais.
-
--*who_choeurdesilvainssatyresbergers
-Pour vivre en paix.
-N'aimons jamais.
-
--*who_syrinx
-Le chagrin suit toujours les coeurs que l'amour blesse.
-
--*who_pan
-La tranquille sagesse
-N'a que des plaisirs imparfaits.
-
--*who_choeurdesilvainssatyresbergers
-Aimons sans cesse.
-
--*who_choeurdesnymphes
-N'aimons jamais.
-
--*who_syrinx
-On ne peut aimer sans faiblesse.
-
--*who_pan
-Que cette faiblesse a d'attraits !
-
--*who_choeurdesilvainssatyresbergers
-Aimons sans cesse.
-
--*who_choeurdesnymphes
-N'aimons jamais.
-
--*who_choeurdesilvainssatyresbergers
-Cédons à l'Amour qui nous presse
-Pour vivre heureux aimons sans cesse
-
--*who_choeurdesnymphes
-Pour vivre en paix
-N'aimons jamais
-
--*who_choeurdesilvainssatyresbergers
-Aimons sans cesse.
-
--*who_choeurdesnymphes
-N'aimons jamais
-Pour vivre en paix
-
--*who_syrinx
-Faut-il qu'en vain discours un si beau jour se passe ?
-Mes compagnes courons dans le fond des forêts.
-Voyons qui d'entre nous se sert mieux de ses traits
-Courons à la chasse.
-
--*who_doublechoeurs
-      À la chasse !
-Courons à la chasse, à la chasse.
-
--*who_syrinx
-Pourquoi me suivre de si près.
-
--*who_pan
-Pourquoi fuir qui vous aime ?
-
--*who_syrinx
-      Un amant m'embarrasse.
-
--*who_syrinx_choeurs
-Courons à la chasse, à la chasse.
-
--*who_pan
-Je ne puis vous quitter, mon coeur s'attacher à vous
-Par des noeuds trop forts et trop deux.
-
--*who_syrinx
-Mes compagnes, venez... C'est en vain que j'appelle.
-
--*who_pan
-Écoutez, ingrate, écoutez
-Un Dieu charmé de vos beautés;
-Qui vous jure un amour fidèle.
-
--*who_syrinx
-Je déclare à l'Amour une guerre immortelle.
-
--*who_troupedebergers
-Cruelle, arrêtez !
-
--*who_troupedesylvainsetdesatyres
-Arrêtez cruelle.
-
--*who_syrinx
-On me retient de tous côtés
-
--*who_troupedesylvainsetdesatyres
-Cruelle, arrêtez !
-
--*who_syrinx
-Dieux, protecteurs de l'innocence,
-Naïades, Nymphes des eaux.
-J'implore ici votre assistance.
-
--*who_pan
-Où vous exposez-vous ? Quels prodiges nouveaux
-La nymphe est changée en roseaux !
-Hélas ! hélas ! Quel bruit ! Qu'entends-je ! Ah ! Quelle voix nouvelle !
-La Nymphe tâche encor d'exprimer ses regrets.
-Que son murmure est doux ! Que sa plainte a d'attraits.
-Ne cessons point de nous plaindre avec elle.
-Ranimons les restes charmants
-D'un nymphe qui fut si belle,
-Elle répond encore à nos gémissements,
-Ne cessons point de nous plaindre avec elle.
-
--*who_pan
-Les yeux qui m'ont charmé ne verront plus le jour
-Était-ce ainsi, cruelle amour,
-Qu'il fallait te venger d'une beauté rebelle,
-N'aurait-il pas suffi de t'en rendre vainqueur
-Et de voir dans les fers son insensible coeur,
-Brûler avec le mien d'une ardeur éternelle ?
-Que tout ressente mes tourments.
-
--*who_pan_deuxbergers
-Ranimons les restes charmants
-D'un nymphe qui fut si belle,
-Elle répond encore à nos gémissements,
-Ne cessons point de nous plaindre avec elle.
-
--*who_pan
-Que ces roseaux plaintifs soient à jamais aimés.
-
--*who_mercure
-Il suffit Argus dort, tous ses yeux sont fermés,
-Allons, que rien ne nous retarde
-Délivrons la nymphe qu'il garde.
-
-**** *book_ *id_IV07 *act_IV *date_1677
-
--*who_mercure
-Reconnaissez Mercure et fuyez avec nous;
-Éloignez-vous d'Argus, avant qu'il se réveille.
-
--*who_hierax
-Argus avec cent yeux sommeille;
-Mais croyez vous endormir un amant jaloux ?
-Demeurez !
-
--*who_mercure
-      Malheureux ! d'où te vient cette audace ?
-
--*who_hierax
-J'ai tout perdu j'attends le trépas sans effroi.
-Un coup de foudre est une grâce
-Pour un malheureux comme moi.
-Éveillez vous, Argus, éveillez-vous, vous vous laissez surprendre.
-
--*who_hierax_argus
-Puissante reine des cieux
-Junon venez nous défendre.
-
--*who_mercure
-Commencez d'éprouver la colère des Dieux.
-
--*who_choeurs
-Fuyons.
-
--*who_io
       Vous me quittez ? Quel secours puis-je attendre !
 
--*who_choeurs
-Fuyons, Junon vient dans ces lieux.
-
-**** *book_ *id_IV08 *act_IV *date_1677
-
--*who_junon
-Revois le jour, Argus que ta figure change.
-Et vous Nymphe apprenez comment Junon se venge.
-Sors, barbare Erinnis, sors du fond des Enfers ;
-Viens, prends de servir ma vengeance fatale
-Et d'en montrer l'horreur en cent climats divers
-Épouvante tout l'univers
-Par les tourments de ma rivale
-Viens la punir au gré de mon courroux;
-Redoutable ta rage infernale
-Et fais s'il se peut qu'elle égale
-La fureur de mon coeur jaloux.
-
--*who_io
 Ô Dieux ! Ô Dieux ! Où me réduisez vous ?
 
-**** *book_ *id_V01 *act_V *date_1677
-
--*who_choeurdespeuples
-L'hiver qui nous tourmente
-S'obstine à nous geler
-Nous ne saurions parler
-Qu'avec une voix tremblante
-La neige et les glaçons
-Nous donnent de mortels frissons
-Les frimas se répandent
-Sur nos corps languissants;
-Le froid transit nos sens
-Les plus durs rochers se fendent.
-La neige et les glaçons
-Nous donnent de mortels frissons
-
-**** *book_ *id_V02 *act_V *date_1677
-
--*who_io
 Laisse-moi, cruelle Furie,
 Cruelle, laisse moi respirer un moment
 Ah ! Barbare, plus je te prie,
 Et plus tu prends plaisir d'augmenter mon tourment.
 
--*who_lafurie
-Soupire, gémis, pleure,
-Crie je me fais de tes peines un spectacle charmant.
-
--*who_io
 Laisse moi, cruelle Furie
 Cruelle laisse moi respirer un moment
 Quel horrible séjour ! Quel froid insupportable !
@@ -1288,211 +286,47 @@ Ne sont-ils pas d'assez cruels bourreaux ?
 Pour punir un coeur misérable,
 Viens-tu chercher si loin des supplices nouveaux ?
 
--*who_lafurie
-Malheureux habitants d'une demeure affreuse,
-Connaissez de Junon le funeste courroux:
-Par sa vengeance rigoureuse
-Vous voyez une malheureuse
-Qui souffre cent fois plus que vous.
-
--*who_io_lafurie
-Vous voyez une malheureuse
-Qui souffre cent fois plus que vous.
-
--*who_choeurdespeuples
-Ah ! Quelle peine
-De trembler de languir dans l'horreur des frimas.
-
--*who_io
 Ah ! Quelle peine
 D'éprouver tant de maux, sans trouver le trépas
 Ah ! quelle vengeance inhumaine !
 
--*who_lafurie
-Viens changer de tourments, passe en d'autres climats.
-
--*who_io
 Ah ! Quelle peine !
 
--*who_choeurdespeuples
-Ah ! quelle peine
-De trembler de languir dans l'horreur des frimas.
-
-**** *book_ *id_V03 *act_V *date_1677
-
--*who_choeurdeschabyles
-Tôt tôt tôt.
-
--*who_premierconducteurchabyles
-Que chacun avec soin S'empresse.
-
--*who_secondconducteurchabyles
-Forgez, qu'on travaille sans cesse.
-
--*who_lesdeuxconducteurs
-Qu'on prépare tout ce qu'il faut
-Tôt tôt tôt.
-
--*who_lesdeuxconducteurs_choeurchalybes
-Que le feu des forges s'allume :
-Travaillons d'un effort nouveau :
-Qu'on fasse retentir l'enclume
-Sous les coups pesants du marteau.
-
-**** *book_ *id_V04 *act_V *date_1677
-
--*who_io
 Quel déluge de feux vient sur moi se répandre.
 Ô ciel !
 
--*who_lafurie
-      Le ciel ne peut t'entendre,
-Tu ne te plains pas assez haut.
-
--*who_lesdeuxconducteurs_choeurchalybes
-Tôt, tôt, tôt.
-
--*who_io
 Junon serait moins inhumaine.
 Tu me fais trop souffrir, tu sers trop bien sa haine.
 
--*who_lafurie
-Au gré de son dépit jaloux
-Les maux les plus cruels seront encore trop doux.
-
--*who_io
 Hélas ! Quelle rigueur extrême
 C'est en vain que Jupiter m'aime
 La haine de Junon jouit de mon tourment
 Que vous haïssez fortement,
 Grand Dieux ! Qu'il s'en faut bien que vous aimiez de même !
 
--*who_conducteurs_choeurschalybes
-Qu'on prépare tout ce qu'il faut
-Tôt, tôt, tôt, tôt, tôt.
-
--*who_io
 Ne pourrai-je cesse de vivre ?
 Cherchons le trépas dans les flots.
 
--*who_lafurie
-Partout ma rage doit te suivre
-N'attends ni secours ni repos.
-
--*who_choeurchalybes
-Qu'on prépare tout ce qu'il faut
-Tôt tôt tôt.
-
-**** *book_ *id_V05 *act_V *date_1677
-
--*who_choeurdelasuitedesparques
-Exécutons l'arrêt du sort
-Suivons ses lois les plus cruelles.
-Présentons sans cesse à la Mort
-Des victimes nouvelles
-
--*who_laguerre
-Que le fer.
-
--*who_lafamine
-      Que la faim.
-
--*who_lincendie
-      Que les feux
-
--*who_linondation
-      Que les eaux.
-
--*who_ensemble
-Que tout serve à creuser mille et mille tombeaux
-
--*who_lesmaladiesviolentes
-Qu'on s'empresse d'entrer dans les royaumes sombres
-par mille chemins différents
-
--*who_lesmaladieslanguissantes
-Achevez d'expirer, infortunés mourants,
-Cherchez un long repos dans le séjour des ombres.
-
--*who_lechoeur
-Exécutons l'arrêt du Sort,
-Suivons ses lois les plus cruelles ;
-Présentons sans cesse à la Mort
-Des victimes nouvelles.
-
--*who_laguerre
-Que le fer.
-
--*who_lafamine
-      Que la faim.
-
--*who_lincendie
-      Que les feux
-
--*who_linondation
-      Que les eaux.
-
--*who_tousensemble
-Que tout serve à creuse mille et mille tombeaux.
-
-**** *book_ *id_V06 *act_V *date_1677
-
--*who_io
 C'est contre moi qu'il faut tourner
 Votre rigueur la plus funeste,
 D'une vie odieuse arrachez moi le reste
 Hâtez vous de la terminer.
 
--*who_choeur_suite_parques
-C'est aux Parques de l'ordonner.
-
--*who_io
 Favorisez mes voeux, Déesses souveraines
 Qui réglez du Destin immuables lois,
 Finissez mes jours et mes peines,
 Ne me condamnez pas à mourir mille fois.
 
-**** *book_ *id_V07 *act_V *date_1677
-
--*who_lesparques
-Le fil de la vie
-De tous les humains
-Suivant notre envie
-Tourne dans nos mains.
-Suivant notre envie.
-
--*who_io
 Tranchez mon triste sort d'un coup qui me délivre
 Des tourments que Junon me contraint à souffrir;
 Chacun vous fait des voeux pour vivre
 Et je vous en fais pour mourir.
 
--*who_lafurie
-Jupiter l'a soumise aux lois de son épouse ;
-Elle a rendu Junon jalouse;
-L'amour d'un Dieu puissant a trop su la charme.
-Elle est trop punie encore.
-
--*who_io
 Est ce si grand crime d'aimer
 Ce que tout l'Univers adore ?
 
--*who_lesparques
-Nymphe, apaise Junon si tu veux voir la fin
-De ton sort déplorable ;
-C'est l'arrêt du Destin
-Il est irrévocable.
-
--*who_io
 Hélas ! comment fléchir une haine implacable !
 
--*who_parques_furie_choeur
-C'est l'arrêt du Destin,
-Il est irrévocable.
-
-**** *book_ *id_VI01 *act_VI *date_1677
-
--*who_io
 Terminez mes tourments, puissant maître du monde,
 Sans vous, sans votre amour hélas !
 Je ne souffrirais pas.
@@ -1515,9 +349,205 @@ Il est tranquille au comble de la gloire
 Il m'abandonne au milieu des douleurs.
 À la fin je succombe heureuse si je meurs.
 
-**** *book_ *id_VI02 *act_VI *date_1677
+Ah ! mon supplice augmente encore !
+Tout le feu des Enfers me brûle et me dévore;
+Mourrai-je tant de fois, sans voir finir mon sort ?
 
--*who_jupiter
+N'importe en ma faveur soyez toujours sensible.
+
+Aimez moi, s'il vous est possible
+Assez pour la forcer à me donner la mort.
+
+Ah ! Laissez moi mourir.
+
+Vous l'aimez d'un amour trop tendre
+Non elle ne peut trop souffrir.
+
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+Le Dieu puissant qui lance le tonnerre
+Et qui des cieux tient le sceptre en ses mains
+A résolu de venir sur la terre
+Chasser les maux qui troublent les humains.
+Que la terre avec soin à cet honneur réponde
+Échos retentissez dans ces lieux pleins d'appas,
+Annoncez qu'aujourd'hui pour le bonheur du monde,
+Jupiter descends ici-bas.
+
+C'est ainsi que Mercure
+Pour abuser les Dieux jaloux
+Doit parler hautement à toute la nature.
+Mais il doit s'expliquer
+Autrement avec vous;
+C'est pour vous voir,
+C'est pour vous plaire,
+Que Jupiter descend du céleste séjour.
+Et les biens qu'ici bas sa présence va faire
+Ne seront dûs qu'à son amour.
+
+Ce serait en aimant une contrainte étrange
+Qu'un coeur pour mieux choisir n'osât se dégager.
+Quand c'est pour Jupiter qu'on change
+Il n'est pas honteux de changer.
+Que tout l'univers se pare
+De ce qu'il a de plus rare
+Que tout brille dans ces lieux.
+Que la terre partage
+L'éclat et la gloire des cieux.
+Que tout rende hommage
+Au plus grand des dieux.
+
+Iris est ici-bas et Junon elle-même
+Pourrait vous suivre dans ces lieux.
+
+Sa vengeance serait funeste,
+Si votre amour était surpris.
+
+Arrêtez, belle Iris, différez un moment
+D'accomplir en ces lieux ce que Junon désire.
+
+Mais, si je vous disais que je veux vous choisir
+Pour attacher mon coeur d'une éternelle chaîne ?
+
+Refusez vous d'unir votre coeur et le mien.
+
+Si je fais ma première affaire
+De vous voir et de vous plaire.
+
+Un coeur fidèle
+A pour moi de charmants appas:
+Vous avez mille attraits,
+Vous n'êtes que trop belle:
+Mais je crains que vous n'ayez pas.
+Un coeur fidèle.
+
+Que la feinte entre nous finisse
+
+Le seul bien des mortels lui fait quitter les cieux;
+Mais quel soupçons nouveau Junon peut elle prendre ?
+Ne suivrait elle pas Jupiter en ces lieux.
+
+Un nuage entrouvert la découvre à mes yeux ;
+Iris parle ainsi sans mystère !
+C'est ainsi que je puis me fier à ta foi.
+
+Servez, Nymphe, servez avec un soin fidèle,
+La puissante reine des Cieux.
+Suivez dans ces aimables lieux
+La jeunesse immortelle
+Tout plaît et tout rit avec elle.
+
+De la Nymphe Syrinx l'on chérit la mémoire,
+Il en regrette encor la perte chaque jour;
+Pour célébrer une fête à sa gloire
+Ce Dieu lui même assemble ici sa cour
+Il veut que du malheur de son fidèle amour.
+Un spectacle touchant représente l'histoire
+
+Il donne dans le piège, achevez sans remise
+Achevez de surprendre Argus et tous ses yeux.
+Si vous tentez une grande entreprise,
+Mercure vous conduit, l'amour vous favorise
+Et vous servez le plus puissant des Dieux.
+
+Il suffit Argus dort, tous ses yeux sont fermés,
+Allons, que rien ne nous retarde
+Délivrons la nymphe qu'il garde.
+
+Reconnaissez Mercure et fuyez avec nous;
+Éloignez-vous d'Argus, avant qu'il se réveille.
+
+      Malheureux ! d'où te vient cette audace ?
+
+Commencez d'éprouver la colère des Dieux.
+
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+Les armes que je tiens protègent l'innocence.
+L'effort n'en est fâcheux qu'à l'orgueil des titans.
+Vous qui suivez les lois,
+Vivez sous ma puissance,
+Toujours heureux, toujours contents.
+Jupiter vient sur la terre.
+Pour la combler de bienfaits,
+Il est armé du tonnerre
+Mais c'est pour donner la paix.
+
+Vous voyez Jupiter; Que rien ne vous étonne.
+C'est pour tromper Junon et ses regards jaloux
+Qu'un nuage vous environne;
+Belle nymphe, rassurez-vous
+Je vous aime et pour vous le dire,
+Je sors avec plaisir de mon suprême empire.
+La foudre est dans mes mains,
+Les Dieux me font la cour,
+Je tiens tout l'Univers sous mon obéissance;
+Mais si je prétends en ce jour
+Engager votre coeur à m'aimer à son tour,
+Je fonde moins mon espérance
+Sur la grandeur de ma puissance
+Que sur l'excès de mon amour.
+
+C'est une assez grande gloire
+Pour votre premier vainqueur,
+D'être encore dans votre mémoire
+Et de me disputer si longtemps votre coeur.
+
+Il n'est rien dans les Cieux il n'est rien ici-bas
+De si charment que vos appas;
+Rien ne peut me toucher d'une flamme si forte;
+Belle Nymphe vous l'emportez
+Sur les autres beautés,
+Autant que Jupiter l'emporte
+Sur les autres Divinités !
+Verrez-vous tant d'amour avec indifférence ?
+Quel trouble vous saisit ? Où tournez vous vos pas ?
+
+Et pourquoi craignez vous Jupiter qui vous aime ?
+
+Quoi ! voulez vous me fuir
+
+Écoutez mon amour.
+
+Vous avez un coeur libre et qui peut de défendre
+
+Quoi ! vous ne voulez pas m'entendre
+
+      Quoi si tôt.
+
+L'amour pour moi me sollicite
+Et je vois que vous me quittez
+
+Pour la nymphe que j'aime
+Je crains ses transports furieux.
+
+Va, prends soin d'arrêter Iris,
+Mon amour prendra soin du reste.
+
+Dans les jardins d'Hébé vous deviez en ce jour
+D'une nouvelle nymphe
+Augmenter votre cour;
+Quel dessein si pressant dans ces lieux vous amène.
+
+Souhaitez, je promets que vos voeux seront satisfaits.
+
+J'approuve vos désirs ;
+Que rien n'y soit contraire;
+Mercure ayez soin de lui plaire,
+Et portez à son gré, mes ordres en tous lieux;
+Que tout suive les lois de la reine des cieux.
+
+Parlez, et qu'hautement votre choix se déclare.
+
+La fille d'Inachus.
+
+Vous ne sauriez combler d'une gloire trop grande
+La nymphe que vous choisissez;
+Junon commande
+Allez, allez, Mercure obéissez.
+
 Il ne m'est pas permis de finir votre peine
 Et ma puissance souveraine
 Doit suivre du Destin l'irrévocable loi :
@@ -1525,30 +555,13 @@ C'est tout ce que je puis par un amour extrême
 Que de quitter le Ciel et ma gloire suprême
 Pour prendre part aux maux que vous souffrez pour moi.
 
--*who_io
-Ah ! mon supplice augmente encore !
-Tout le feu des Enfers me brûle et me dévore;
-Mourrai-je tant de fois, sans voir finir mon sort ?
-
--*who_jupiter
 Ma tendresse pour vous rend Junon inflexible
 Elle voit mon amour il lui paraît trop fort;
 Son courroux se redouble et devient invincible.
 
--*who_io
-N'importe en ma faveur soyez toujours sensible.
-
--*who_jupiter
 C'est trop vous exposer à son jaloux transport,
 J'irrite en vous aimant sa vengeance terrible.
 
--*who_io
-Aimez moi, s'il vous est possible
-Assez pour la forcer à me donner la mort.
-
-**** *book_ *id_VI03 *act_VI *date_1677
-
--*who_jupiter
 Venez, venez Déesse impitoyable
 Venez, voyez, reconnaissez
 Cette Nymphe mourante autrefois trop aimable.
@@ -1560,56 +573,20 @@ Sans jalousie et sans alarmes
 Voyez ses yeux noyés de larmes
 Que l'ombre de la mort commence de couvrir.
 
--*who_junon
-Ils n'ont encor que trop de charmes
-Puisqu'ils savent attendrir.
-
--*who_jupiter
 Une juste pitié peut elle vous aigrir ?
 Votre courroux fatal ne doit-il pas s'éteindre ?
 
--*who_junon
-Ah ! vous la plaignez trop, elle n'est pas à plaindre
-Non elle ne peut trop souffrir.
-
--*who_jupiter
 Je sais que c'est de vous que son sort doit dépendre.
 Ce n'est qu'à vos bontés qu'elle doit recourir.
 Il n'est rien que de moi vous ne deviez attendre,
 Si je puis obliger votre haine à se rendre.
 
--*who_io
-Ah ! Laissez moi mourir.
-
--*who_junon
-Prenez soin de la secourir.
-
--*who_io
-Vous l'aimez d'un amour trop tendre
-Non elle ne peut trop souffrir.
-
--*who_jupiter
 Quoi ! Le coeur de Junon quelque grand qu'il puisse être
 Ne saurait triompher d'une injuste fureur
 
--*who_junon
-De la terre et du Ciel Jupiter est le maître
-Et Jupiter n'est pas le maître de son coeur ?
-
--*who_jupiter
 Hé bien ! il faut que je commence
 À me vaincre en ce jour.
 
--*who_junon
-Vous m'apprendrez à me vaincre à mon tour.
-
--*who_jupiter_junon
-Abandonnez votre vengeance
-Je vous rends mon amour .
-J'abandonnerai ma vengeance,
-Rendez moi votre amour.
-
--*who_jupiter
 Noires Ondes du Styx, c'est par vous que je jure.
 Fleuve affreux écoutez le serment que je fais.
 Si cette Nymphe, enfin, reprend tous ses attraits,
@@ -1619,7 +596,127 @@ De nos coeurs réunis la bienheureuse paix.
 Noires Ondes du Styx, c'est par vous que je jure.
 Fleuve affreux écoutez le serment que je fais.
 
--*who_junon
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iris
+
+Vous m'arrêtez vainement
+Et vous n'aurez rien à me dire.
+
+Je vous écouterais peut-être avec plaisir,
+Mais je vous croirais avec peine.
+
+Jupiter et Junon nous occupent sans cesse
+Nos soins sont assez grands sans que l'amour nous blesse,
+Nous n'avons pas tous deux de loisir d'aimer bien.
+
+Je ferai mon premier devoir
+De vous plaire et de vous voir.
+
+Pourquoi craignez-vous tant
+Que mon coeur se dégage
+Je vous permets d'être inconstant,
+Sitôt que je serai volage.
+
+Parlons sans mystère en ce jour;
+
+Quel soin presse ici-bas Jupiter de descendre.
+
+Dans les jardins d'Hébé Junon vient de descendre.
+
+Ne me reprochez pas que je suis peu sincère,
+Vous ne l'êtes pas plus que moi.
+
+J'ai cherché vainement la fille d'Inachus.
+
+Elle honore son maître et brille sous ses pas.
+
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
+Ah ! Je n'ai pas besoin d'en savoir davantage,
+Non, Isis, ne la cherchons plus.
+Jupiter dans ces lieux m'a donné de l'ombrage,
+J'ai traversé les airs, j'ai percé le nuage
+Qu'il opposait à mes regards ;
+Mais en vain j'ai tourné les yeux de toutes parts,
+Ce Dieu par son pouvoir suprême
+M'a caché la nymphe qu'il aime,
+Et ne m'a laissé voir que des troupeaux épars !
+Non, non, je ne suis pas une incrédule épouse
+Qu'un puisse tromper aisément;
+Voyons qui feindra mieux de Jupiter amant
+Ou de Junon jalouse.
+Il est maître des Cieux, la terre suit sa loi;
+Sous sa toute puissance, il faut que tout fléchisse;
+Mais puisqu'il ne prétend s'armer que d'artifice
+Tout Jupiter qu'il est, il est moins fort que moi.
+Dans ces lieux écartés, vois que la terre est belle.
+
+L'amour cet amour infidèle,
+Qui du plus haut des cieux l'appelle,
+Fait que tout lui rit ici-bas.
+Près d'une maîtresse nouvelle
+Dans le fond des déserts, on trouve des appas.
+Et le ciel même ne plaît pas
+Avec une épouse immortelle.
+
+Je ne vous suivrai pas plus loin. Je viens de votre amour
+Attendre un nouveau soin :
+Ne vous étonnez pas qu'on vous quitte avec peine,
+Et que de Jupiter on ait toujours besoin.
+Vous m'aimez, et j'en suis certaine.
+
+J'ai fait choix d'une nymphe et déjà la Déesse
+De l'aimable Jeunesse
+Se prépare à la recevoir;
+Mais je n'ose, sans vous, disposer de personne.
+Si j'ai quelque pouvoir,
+Je n'en prétends avoir
+Qu'autant que votre amour m'en donne
+Ce don de votre main me sera précieux.
+
+La nymphe qui me plaît ne vous déplaira pas,
+Vous ne verrez pas ici-bas
+De mérite plus grand ni beauté plus rare;
+Les honneurs que je lui prépare
+Ne lui sont que trop dûs,
+Enfin, Junon choisit la fille d'Inachus.
+
+      Déclarez pour elle.
+Peut-on voir à ma suite une nymphe plus belle,
+Plus capable d'orner ma cour,
+Et de marquer pour moi,
+Le soin de votre amour;
+Vous me l'avez promise et je vous le demande.
+
+Junon commande
+Allez, allez, Mercure obéissez.
+
+Revois le jour, Argus que ta figure change.
+Et vous Nymphe apprenez comment Junon se venge.
+Sors, barbare Erinnis, sors du fond des Enfers ;
+Viens, prends de servir ma vengeance fatale
+Et d'en montrer l'horreur en cent climats divers
+Épouvante tout l'univers
+Par les tourments de ma rivale
+Viens la punir au gré de mon courroux;
+Redoutable ta rage infernale
+Et fais s'il se peut qu'elle égale
+La fureur de mon coeur jaloux.
+
+Ils n'ont encor que trop de charmes
+Puisqu'ils savent attendrir.
+
+Ah ! vous la plaignez trop, elle n'est pas à plaindre
+Non elle ne peut trop souffrir.
+
+Prenez soin de la secourir.
+
+De la terre et du Ciel Jupiter est le maître
+Et Jupiter n'est pas le maître de son coeur ?
+
+Vous m'apprendrez à me vaincre à mon tour.
+
 Nymphe, je veux finir votre peine éternelle
 Que la Furie emporte aux Enfers avec elle
 Le trouble et les horreurs dont vos sens sont saisis !
@@ -1628,22 +725,66 @@ Goûtez les biens parfaits que les Dieux ont choisis :
 Et sous le nouveau nom d'Isis
 Jouissez d'un bonheur qui jamais ne finisse.
 
--*who_jupiter_junon
-Dieux, recevez Isis au rang des immortels !
-Peuples voisins du Nil, dressez lui des Autels !
 
--*who_choeur_divinites
-Venez, venez, Divinités nouvelle,
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argus
 
--*who_choeur_peuples_egypte
-Isis, Tournez sur nous vos yeux
-Voyez l'ardeur de notre zèle.
+Dans ce solitaire séjour
+Vous êtes sous ma garde,
+Junon vous y laisse:
+Mes yeux veilleront tour à tour
+Et vous observeront sans cesse.
 
--*who_choeur_divinites
-La céleste Cour vous appelle
+Vous êtes aimable
+Vos yeux devaient moins charmer.
+Vous êtes coupable
+De faire trop aimer
+Ne me déguisez rien, de quoi m'accuse-t-elle
+Quelle offenses à ses yeux me rend si criminelle ?
+Ne pourrai-je apaiser son funeste courroux.
 
--*who_jupiter_junon
-Isis est immortelle
-Isis va briller dans les Cieux.
-Isis jouit avec les Dieux
-D'une gloire éternelle.
+C'est une offense cruelle
+De paraître belle
+À ses yeux jaloux
+L'amour de Jupiter a trop paru pour vous
+
+On ne plaît guère à l'épouse
+Lorsqu'on plaît trop à l'époux.
+Vous n'en serez pas mieux d'être ingrate et volage
+Vous quittez un fidèle amant,
+Pour recevoir un plus brillant hommage
+Mais c'est un avantage
+Que vous payerez chèrement.
+J'ai l'ordre d'enfermer vos dangereux appas
+La Déesse se défend que vous voyez personne
+
+Non !
+
+Non, non, on ne la doit point voir
+
+L'ordre est exprès pour tous, perdez un vain espoir.
+
+Non, je ne connais plus ni d'ami, ni de frère,
+Je ne connais que mon devoir
+Laissez la nymphe en paix,
+Ce n'est plus vous qu'elle aime.
+
+      Tremblez à l'entendre nommer.
+C'est un Dieu tout puissant, c'est Jupiter lui-même.
+
+      Dégagez vous d'un amour si fatal
+Sans balancer il faut vous y résoudre
+C'est un redoutable rival
+Qu'un amant qui lance la foudre.
+
+Heureux qui peut briser
+Qui peut briser sa chaîne
+Finissez une plainte vaine
+Méritez l'infidélité;
+Un coeur ingrat vaut-il la peine
+D'être tant regretté.
+
+Liberté, liberté.
+
+C'est un plaisir pour nous; poursuivez j'y consens
+Je ne m'oppose point à ces jeux innocents.
+

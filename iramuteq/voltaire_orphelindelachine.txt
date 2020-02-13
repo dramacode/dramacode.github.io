@@ -1,726 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1755
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gengis
 
--*who_idame
-Se peut-il qu'en ce temps de désolation,
-En ce jour de carnage et de destruction,
-Quand ce palais sanglant, ouvert à des tartares,
-Tombe avec l'univers sous ces peuples barbares,
-Dans cet amas affreux de publiques horreurs,
-Il soit encor pour moi de nouvelles douleurs ?
-
--*who_asseli
-Eh ! Qui n'éprouve, hélas ! Dans la perte commune,
-Les tristes sentiments de sa propre infortune ?
-Qui de nous vers le ciel n'élève pas ses cris
-Pour les jours d'un époux, ou d'un père, ou d'un fils ?
-Dans cette vaste enceinte, au tartare inconnue,
-Où le roi dérobait à la publique vue
-Ce peuple désarmé de paisibles mortels,
-Interprètes des lois, ministres des autels,
-Vieillards, femmes, enfants, troupeau faible et timide,
-Dont n'a point approché cette guerre homicide,
-Nous ignorons encore à quelle atrocité
-Le vainqueur insolent porte sa cruauté.
-Nous entendons gronder la foudre et les tempêtes.
-Le dernier coup approche, et vient frapper nos têtes.
-
--*who_idame
-Ô fortune ! Ô pouvoir au-dessus de l'humain !
-Chère et triste Asséli, sais-tu quelle est la main
-Qui du Catai sanglant presse le vaste empire,
-Et qui s'appesantit sur tout ce qui respire ?
-
--*who_asseli
-On nomme ce tyran du nom de roi des rois.
-C'est ce fier Gengis-Kan, dont les affreux exploits
-Font un vaste tombeau de la superbe Asie.
-Octar, son lieutenant, déjà, dans sa furie,
-Porte au palais, dit-on, le fer et les flambeaux.
-Le Catai passe enfin sous des maîtres nouveaux :
-Cette ville, autrefois souveraine du monde,
-Nage de tous côtés dans le sang qui l'inonde ;
-Voilà ce que cent voix, en sanglots superflus,
-Ont appris dans ces lieux à mes sens éperdus.
-
--*who_idame
-Sais-tu que ce tyran de la terre interdite,
-Sous qui de cet état la fin se précipite,
-Ce destructeur des rois, de leur sang abreuvé,
-Est un scythe, un soldat dans la poudre élevé,
-Un guerrier vagabond de ces déserts sauvages,
-Climat qu'un ciel épais ne couvre que d'orages ?
-C'est lui qui, sur les siens briguant l'autorité,
-Tantôt fort et puissant, tantôt persécuté,
-Vint jadis à tes yeux, dans cette auguste ville,
-Aux portes du palais demander un asile.
-Son nom est Témugin ; c'est t'en apprendre assez.
-
--*who_asseli
-Quoi ! C'est lui dont les voeux vous furent adressés !
-Quoi ! C'est ce fugitif, dont l'amour et l'hommage
-À vos parents surpris parurent un outrage !
-Lui qui traîne après soi tant de rois ses suivants.
-Dont le nom seul impose au reste des vivants ?
-
--*who_idame
-C'est lui-même, Asséli : son superbe courage,
-Sa future grandeur, brillaient sur son visage ;
-Tout semblait, je l'avoue, esclave auprès de lui ;
-Et lorsque de la cour il mendiait l'appui,
-Inconnu, fugitif, il ne parlait qu'en maître.
-Il m'aimait ; et mon coeur s'en applaudit peut-être :
-Peut-être qu'en secret je tirais vanité
-D'adoucir ce lion dans mes fers arrêté,
-De plier à nos moeurs cette grandeur sauvage,
-D'instruire à nos vertus son féroce courage,
-Et de le rendre enfin, graces à ces liens,
-Digne un jour d'être admis parmi nos citoyens.
-Il eût servi l'état, qu'il détruit par la guerre :
-Un refus a produit les malheurs de la terre.
-De nos peuples jaloux tu connais la fierté.
-De nos arts, de nos lois l'auguste antiquité,
-Une religion de tout temps épurée,
-De cent siècles de gloire une suite avérée :
-Tout nous interdisait, dans nos préventions,
-Une indigne alliance avec les nations.
-Enfin un autre hymen, un plus saint noeud m'engage ;
-Le vertueux Zamti mérita mon suffrage.
-Qui l'eût cru, dans ces temps de paix et de bonheur,
-Qu'un scythe méprisé serait notre vainqueur ?
-Voilà ce qui m'alarme, et qui me désespère.
-J'ai refusé sa main ; je suis épouse et mère :
-Il ne pardonne pas : il se vit outrager ;
-Et l'univers sait trop s'il aime à se venger.
-Étrange destinée, et revers incroyable !
-Est-il possible, ô dieu ! Que ce peuple innombrable
-Sous le glaive du scythe expire sans combats,
-Comme de vils troupeaux que l'on mène au trépas ?
-
--*who_asseli
-Les coréens, dit-on, rassemblaient une armée ;
-Mais nous ne savons rien que par la renommée,
-Et tout nous abandonne aux mains des destructeurs.
-
--*who_idame
-Que cette incertitude augmente mes douleurs !
-J'ignore à quel excès parviennent nos misères,
-Si l'empereur encore au palais de ses pères
-A trouvé quelque asile, ou quelque défenseur,
-Si la reine est tombée aux mains de l'oppresseur,
-Si l'un et l'autre touche à son heure fatale.
-Hélas ! Ce dernier fruit de leur foi conjugale,
-Ce malheureux enfant, à nos soins confié,
-Excite encor ma crainte ainsi que ma pitié.
-Mon époux au palais porte un pied téméraire ;
-Une ombre de respect pour son saint ministère
-Peut-être adoucira ces vainqueurs forcenés.
-On dit que ces brigands aux meurtres acharnés,
-Qui remplissent de sang la terre intimidée,
-Ont d'un dieu cependant conservé quelque idée ;
-Tant la nature même, en toute nation,
-Grava l'être suprême et la religion.
-Mais je me flatte en vain qu'aucun respect les touche ;
-La crainte est dans mon coeur, et l'espoir dans ma bouche ;
-Je me meurs...
-
-**** *book_ *id_I02 *act_I *date_1755
-
--*who_idame
-      Est-ce vous, époux infortuné ?
-Notre sort sans retour est-il déterminé ?
-Hélas ! Qu'avez-vous vu ?
-
--*who_zamti
-      Ce que je tremble à dire.
-Le malheur est au comble ; il n'est plus, cet empire :
-Sous le glaive étranger j'ai vu tout abattu.
-De quoi nous a servi d'adorer la vertu ?
-Nous étions vainement, dans une paix profonde,
-Et les législateurs et l'exemple du monde ;
-Vainement par nos lois l'univers fut instruit :
-La sagesse n'est rien ; la force a tout détruit.
-J'ai vu de ces brigands la horde hyperborée,
-Par des fleuves de sang se frayant une entrée
-Sur les corps entassés de nos frères mourants,
-Portant partout le glaive et les feux dévorants.
-Ils pénètrent en foule à la demeure auguste
-Où de tous les humains le plus grand, le plus juste,
-D'un front majestueux attendait le trépas.
-La reine évanouie était entre ses bras.
-De leurs nombreux enfants ceux en qui le courage
-Commençait vainement à croître avec leur âge,
-Et qui pouvaient mourir les armes à la main,
-Étaient déjà tombés sous le fer inhumain.
-Il restait près de lui ceux dont la tendre enfance
-N'avait que la faiblesse et des pleurs pour défense ;
-On les voyait encore autour de lui pressés,
-Tremblants à ses genoux qu'ils tenaient embrassés.
-J'entre par des détours inconnus au vulgaire ;
-J'approche en frémissant de ce malheureux père ;
-Je vois ces vils humains, ces monstres des déserts,
-À notre auguste maître osant donner des fers,
-Traîner dans son palais, d'une main sanguinaire,
-Le père, les enfants, et leur mourante mère.
-
--*who_idame
-C'est donc là leur destin ! Quel changement, ô cieux !
-
--*who_zamti
-Ce prince infortuné tourne vers moi les yeux ;
-Il m'appelle, il me dit, dans la langue sacrée,
-Du conquérant tartare et du peuple ignorée :
-"Conserve au moins le jour au dernier de mes fils ! "
-Jugez si mes serments et mon coeur l'ont promis ;
-Jugez de mon devoir quelle est la voix pressante.
-J'ai senti ranimer ma force languissante ;
-J'ai revolé vers vous. Les ravisseurs sanglants
-Ont laissé le passage à mes pas chancelants ;
-Soit que dans les fureurs de leur horrible joie,
-Au pillage acharnés, occupés de leur proie,
-Leur superbe mépris ait détourné les yeux ;
-Soit que cet ornement d'un ministre des cieux,
-Ce symbole sacré du grand dieu que j'adore,
-À la férocité puisse imposer encore ;
-Soit qu'enfin ce grand dieu, dans ses profonds desseins,
-Pour sauver cet enfant qu'il a mis dans mes mains,
-Sur leurs yeux vigilants répandant un nuage,
-Ait égaré leur vue ou suspendu leur rage.
-
--*who_idame
-Seigneur, il serait temps encor de le sauver :
-Qu'il parte avec mon fils ; je les puis enlever :
-Ne désespérons point, et préparons leur fuite ;
-De notre prompt départ qu'Étan ait la conduite.
-Allons vers la Corée, au rivage des mers,
-Aux lieux où l'océan ceint ce triste univers.
-La terre a des déserts et des antres sauvages ;
-Portons-y ces enfants, tandis que les ravages
-N'inondent point encor ces asiles sacrés,
-Éloignés du vainqueur, et peut-être ignorés.
-Allons ; le temps est cher, et la plainte inutile.
-
--*who_zamti
-Hélas ! Le fils des rois n'a pas même un asile !
-J'attends les coréens ; ils viendront, mais trop tard :
-Cependant la mort vole au pied de ce rempart.
-Saisissons, s'il se peut, le moment favorable
-De mettre en sûreté ce gage inviolable.
-
-**** *book_ *id_I03 *act_I *date_1755
-
--*who_zamti
-Étan, où courez-vous, interdit, consterné ?
-
--*who_idame
-Fuyons de ce séjour au scythe abandonné.
-
--*who_etan
-Vous êtes observés ; la fuite est impossible ;
-Autour de notre enceinte une garde terrible
-Aux peuples consternés offre de toutes parts
-Un rempart hérissé de piques et de dards.
-Les vainqueurs ont parlé ; l'esclavage en silence
-Obéit à leur voix dans cette ville immense ;
-Chacun reste immobile et de crainte et d'horreur
-Depuis que sous le glaive est tombé l'empereur.
-
--*who_zamti
-Il n'est donc plus !
-
--*who_idame
-      Ô cieux !
-
--*who_etan
-      De ce nouveau carnage
-Qui pourra retracer l'épouvantable image ?
-Son épouse, ses fils sanglants et déchirés...
-Ô famille de dieux sur la terre adorés !
-Que vous dirai-je ? Hélas ! Leurs têtes exposées
-Du vainqueur insolent excitent les risées,
-Tandis que leurs sujets, tremblant de murmurer,
-baissent des yeux mourants qui craignent de pleurer.
-De nos honteux soldats les alfanges errantes
-À genoux ont jeté leurs armes impuissantes.
-Les vainqueurs fatigués dans nos murs asservis,
-Lassés de leur victoire et de sang assouvis,
-Publiant à la fin le terme du carnage,
-Ont, au lieu de la mort, annoncé l'esclavage.
-Mais d'un plus grand désastre on nous menace encor ;
-On prétend que ce roi des fiers enfants du nord,
-Gengis-Kan, que le ciel envoya pour détruire,
-Dont les seuls lieutenants oppriment cet empire,
-Dans nos rs autrefois inconnu, dédaigné,
-Vient, toujours implacable, et toujours indigné,
-Consommer sa colère et venger son injure.
-Sa nation farouche est d'une autre nature
-Que les tristes humains qu'enferment nos remparts :
-Ils habitent des champs, des tentes et des chars ;
-Ils se croiraient gênés dans cette ville immense ;
-De nos arts, de nos lois la beauté les offense.
-Ces brigands vont changer en d'éternels déserts
-Les murs que si longtemps admira l'univers.
-
--*who_idame
-Le vainqueur vient sans doute armé de la vengeance.
-Dans mon obscurité j'avais quelque espérance ;
-Je n'en ai plus. Les cieux, à nous nuire attachés,
-Ont éclairé la nuit où nous étions cachés.
-Trop heureux les mortels inconnus à leur maître !
-
--*who_zamti
-Les nôtres sont tombés : le juste ciel peut-être
-Voudra pour l'orphelin signaler son pouvoir :
-Veillons sur lui ; voilà notre premier devoir.
-Que nous veut ce tartare ?
-
--*who_idame
-      Ô ciel, prends ma défense !
-
-**** *book_ *id_I04 *act_I *date_1755
-
--*who_octar
-Esclaves, écoutez ; que votre obéissance
-Soit l'unique réponse aux ordres de ma voix.
-Il reste encore un fils du dernier de vos rois ;
-C'est vous qui l'élevez : votre soin téméraire
-Nourrit un ennemi dont il faut se défaire.
-Je vous ordonne, au nom du vainqueur des humains,
-De remettre aujourd'hui cet enfant dans mes mains :
-Je vais l'attendre : allez ; qu'on m'apporte ce gage.
-Pour peu que vous tardiez, le sang et le carnage
-Vont de mon maître encor signaler le courroux,
-Et la destruction commencera par vous.
-La nuit vient, le jour fuit ; vous, avant qu'il finisse,
-Si vous aimez la vie, allez, qu'on obéisse.
-
-**** *book_ *id_I05 *act_I *date_1755
-
--*who_idame
-Où sommes-nous réduits ? Ô monstres ! Ô terreur !
-Chaque instant fait éclore une nouvelle horreur,
-Et produit des forfaits dont l'âme intimidée
-Jusqu'à ce jour de sang n'avait point eu d'idée.
-Vous ne répondez rien ; vos soupirs élancés
-Au ciel qui nous accable en vain sont adressés.
-Enfant de tant de rois, faut-il qu'on sacrifie
-Aux ordres d'un soldat ton innocente vie ?
-
--*who_zamti
-J'ai promis, j'ai juré de conserver ses jours.
-
--*who_idame
-De quoi lui serviront vos malheureux secours ?
-Qu'importent vos serments, vos stériles tendresses ?
-Êtes-vous en état de tenir vos promesses ?
-N'espérons plus.
-
--*who_zamti
-      Ah ciel ! Eh quoi ! Vous voudriez
-Voir du fils de mes rois les jours sacrifiés ?
-
--*who_idame
-Non, je n'y puis penser sans des torrents de larmes,
-Et si je n'étais mère, et si, dans mes alarmes,
-Le ciel me permettait d'abréger un destin
-Nécessaire à mon fils élevé dans mon sein,
-Je vous dirais : mourons, et, lorsque tout succombe,
-Sur les pas de nos rois descendons dans la tombe.
-
--*who_zamti
-Après l'atrocité de leur indigne sort,
-Qui pourrait redouter et refuser la mort ?
-Le coupable la craint, le malheureux l'appelle,
-Le brave la défie, et marche au-devant d'elle ;
-Le sage, qui l'attend, la reçoit sans regrets.
-
--*who_idame
-Quels sont en me parlant vos sentiments secrets ?
-Vous baissez vos regards, vos cheveux se hérissent,
-Vous pâlissez, vos yeux de larmes se remplissent :
-Mon coeur répond au vôtre ; il sent tous vos tourments.
-Mais que résolvez-vous ?
-
--*who_zamti
-      De garder mes serments.
-Auprès de cet enfant, allez, daignez m'attendre.
-
--*who_idame
-Mes prières, mes cris, pourront-ils le défendre ?
-
-**** *book_ *id_I06 *act_I *date_1755
-
--*who_etan
-Seigneur, votre pitié ne peut le conserver.
-Ne songez qu'à l'état, que sa mort peut sauver :
-Pour le salut du peuple il faut bien qu'il périsse.
-
--*who_zamti
-Oui... je vois qu'il faut faire un triste sacrifice.
-Écoute : cet empire est-il cher à tes yeux ?
-Reconnais-tu ce dieu de la terre et des cieux,
-Ce dieu que sans mélange annonçaient nos ancêtres,
-Méconnu par le bonze, insulté par nos maîtres ?
-
--*who_etan
-Dans nos communs malheurs il est mon seul appui :
-Je pleure la patrie, et n'espère qu'en lui.
-
--*who_zamti
-Jure ici par son nom, par sa toute-puissance,
-Que tu conserveras dans l'éternel silence
-Le secret qu'en ton sein je dois ensevelir.
-Jure-moi que tes mains oseront accomplir
-Ce que les intérêts et les lois de l'empire,
-Mon devoir, et mon dieu, vont par moi te prescrire.
-
--*who_etan
-Je le jure, et je veux, dans ces murs désolés,
-Voir nos malheurs communs sur moi seul assemblés,
-Si, trahissant vos voeux, et démentant mon zèle,
-Ou ma bouche ou ma main vous était infidèle.
-
--*who_zamti
-Allons, il ne m'est plus permis de reculer.
-
--*who_etan
-De vos yeux attendris je vois des pleurs couler.
-Hélas ! De tant de maux les atteintes cruelles
-Laissent donc place encore à des larmes nouvelles !
-
--*who_zamti
-On a porté l'arrêt ! Rien ne peut le changer !
-
--*who_etan
-On presse ; et cet enfant, qui vous est étranger...
-
--*who_zamti
-Étranger ! Lui ! Mon roi !
-
--*who_etan
-      Notre roi fut son père ;
-Je le sais, j'en frémis : parlez, que dois-je faire ?
-
--*who_zamti
-On compte ici mes pas ; j'ai peu de liberté.
-Sers-toi de la faveur de ton obscurité.
-De ce dépôt sacré tu sais quel est l'asile :
-Tu n'es point observé ; l'accès t'en est facile.
-Cachons pour quelque temps cet enfant précieux
-Dans le sein des tombeaux bâtis par ses aïeux.
-Nous remettrons bientôt au chef de la Corée
-Ce tendre rejeton d'une tige adorée.
-Il peut ravir du moins à nos cruels vainqueurs
-Ce malheureux enfant, l'objet de leurs terreurs :
-Il peut sauver mon roi. Je prends sur moi le reste.
-
--*who_etan
-Et que deviendrez-vous sans ce gage funeste ?
-Que pourrez-vous répondre au vainqueur irrité ?
-
--*who_zamti
-J'ai de quoi satisfaire à sa férocité.
-
--*who_etan
-Vous, seigneur ?
-
--*who_zamti
-      Ô nature ! Ô devoir tyrannique !
-
--*who_etan
-Eh bien ?
-
--*who_zamti
-      Dans son berceau saisis mon fils unique.
-
--*who_etan
-Votre fils !
-
--*who_zamti
-      Songe au roi que tu dois conserver.
-Prends mon fils... que son sang... je ne puis achever.
-
--*who_etan
-Ah ! Que m'ordonnez-vous ?
-
--*who_zamti
-      Respecte ma tendresse ;
-Respecte mon malheur, et surtout ma faiblesse ;
-N'oppose aucun obstacle à cet ordre sacré,
-Et remplis ton devoir après l'avoir juré.
-
--*who_etan
-Vous m'avez arraché ce serment téméraire.
-À quel devoir affreux me faut-il satisfaire ?
-J'admire avec horreur ce dessein généreux ;
-Mais si mon amitié...
-
--*who_zamti
-      C'en est trop, je le veux.
-Je suis père ; et ce coeur, qu'un tel arrêt déchire,
-S'en est dit cent fois plus que tu ne peux m'en dire.
-J'ai fait taire le sang, fais taire l'amitié.
-Pars.
-
--*who_etan
-      Il faut obéir.
-
--*who_zamti
-      Laisse-moi, par pitié.
-
-**** *book_ *id_I07 *act_I *date_1755
-
--*who_zamti
-J'ai fait taire le sang ! Ah ! Trop malheureux père
-J'entends trop cette voix si fatale et si chère.
-Ciel ! Impose silence aux cris de ma douleur :
-Mon épouse, mon fils, me déchirent le coeur.
-De ce coeur effrayé cache-moi la blessure.
-L'homme est trop faible, hélas ! Pour dompter la nature :
-Que peut-il par lui-même ? Achève, soutiens-moi ;
-Affermis la vertu prête à tomber sans toi.
-
-**** *book_ *id_II01 *act_II *date_1755
-
--*who_zamti
-Étan auprès de moi tarde trop à se rendre :
-Il faut que je lui parle ; et je crains de l'entendre.
-Je tremble malgré moi de son fatal retour.
-Ô mon fils ! Mon cher fils ! As-tu perdu le jour ?
-Aura-t-on consommé ce fatal sacrifice ?
-Je n'ai pu de ma main te conduire au supplice ;
-Je n'en eus pas la force ; en ai-je assez au moins
-Pour apprendre l'effet de mes funestes soins ?
-En ai-je encore assez pour cacher mes alarmes ?
-
-**** *book_ *id_II02 *act_II *date_1755
-
--*who_zamti
-Viens, ami... je t'entends... je sais tout par tes larmes.
-
--*who_etan
-Votre malheureux fils...
-
--*who_zamti
-      Arrête, parle-moi
-De l'espoir de l'empire, et du fils de mon roi ;
-Est-il en sûreté ?
-
--*who_etan
-      Les tombeaux de ses pères
-Cachent à nos tyrans sa vie et ses misères.
-Il vous devra des jours pour souffrir commencés ;
-Présent fatal, peut-être !
-
--*who_zamti
-      Il vit : c'en est assez.
-Ô vous, à qui je rends ces services fidèles !
-Ô mes rois ! Pardonnez mes larmes paternelles.
-
--*who_etan
-Osez-vous en ces lieux gémir en liberté ?
-
--*who_zamti
-Où porter ma douleur et ma calamité ?
-Et comment désormais soutenir les approches,
-Le désespoir, les cris, les éternels reproches,
-Les imprécations d'une mère en fureur ?
-Encor, si nous pouvions prolonger son erreur !
-
--*who_etan
-On a ravi son fils dans sa fatale absence :
-À nos cruels vainqueurs on conduit son enfance ;
-Et soudain j'ai volé pour donner mes secours
-Au royal orphelin dont on poursuit les jours.
-
--*who_zamti
-Ah ! Du moins, cher Étan, si tu pouvais lui dire
-Que nous avons livré l'héritier de l'empire,
-Que j'ai caché mon fils, qu'il est en sûreté !
-Imposons quelque temps à sa crédulité.
-Hélas ! La vérité si souvent est cruelle !
-On l'aime ; et les humains sont malheureux par elle.
-Allons... ciel ! Elle-même approche de ces lieux :
-La douleur et la mort sont peintes dans ses yeux.
-
-**** *book_ *id_II03 *act_II *date_1755
-
--*who_idame
-Qu'ai-je vu ? Qu'a-t-on fait ? Barbare, est-il possible ?
-L'avez-vous commandé ce sacrifice horrible ?
-Non, je ne puis le croire ; et le ciel irrité
-N'a pas dans votre sein mis tant de cruauté.
-Non, vous ne serez point plus dur et plus barbare
-Que la loi du vainqueur, et le fer du tartare.
-Vous pleurez, malheureux !
-
--*who_zamti
-      Ah ! Pleurez avec moi ;
-Mais avec moi songez à sauver votre roi.
-
--*who_idame
-Que j'immole mon fils !
-
--*who_zamti
-      Telle est notre misère :
-Vous êtes citoyenne avant que d'être mère.
-
--*who_idame
-Quoi ! Sur toi la nature a si peu de pouvoir !
-
--*who_zamti
-Elle n'en a que trop, mais moins que mon devoir ;
-Et je dois plus au sang de mon malheureux maître,
-Qu'à cet enfant obscur à qui j'ai donné l'être.
-
--*who_idame
-Non, je ne connais point cette horrible vertu.
-J'ai vu nos murs en cendre, et ce trône abattu ;
-J'ai pleuré de nos rois les disgrâces affreuses ;
-Mais par quelles fureurs, encor plus douloureuses,
-Veux-tu, de ton épouse avançant le trépas,
-Livrer le sang d'un fils qu'on ne demande pas ?
-Ces rois ensevelis, disparus dans la poudre,
-Sont-ils pour toi des dieux dont tu craignes la foudre ?
-À ces dieux impuissants, dans la tombe endormis,
-As-tu fait le serment d'assassiner ton fils ?
-Hélas ! Grands et petits, et sujets, et monarques,
-Distingués un moment par de frivoles marques,
-Égaux par la nature, égaux par le malheur,
-Tout mortel est chargé de sa propre douleur ;
-Sa peine lui suffit ; et, dans ce grand naufrage,
-Rassembler nos débris, voilà notre partage.
-Où serais-je, grand dieu, si ma crédulité
-Eût tombé dans le piège à mes pas présenté ?
-Auprès du fils des rois si j'étais demeurée,
-La victime aux bourreaux allait être livrée,
-Je cessais d'être mère, et le même couteau
-Sur le corps de mon fils me plongeait au tombeau.
-Grâces à mon amour, inquiète, troublée,
-À ce fatal berceau l'instinct m'a rappelée.
-J'ai vu porter mon fils à nos cruels vainqueurs ;
-Mes mains l'ont arraché des mains des ravisseurs.
-Barbare, ils n'ont point eu ta fermeté cruelle ;
-J'en ai chargé soudain cette esclave fidèle,
-Qui soutient de son lait ses misérables jours,
-Ces jours qui périssaient sans moi, sans mon secours ;
-J'ai conservé le sang du fils et de la mère,
-Et j'ose dire encor de son malheureux père.
-
--*who_zamti
-Quoi ! Mon fils est vivant !
-
--*who_idame
-      Oui, rends grâces au ciel,
-Malgré toi favorable à ton coeur paternel.
-Repens-toi.
-
--*who_zamti
-      Dieu des cieux, pardonnez cette joie,
-Qui se mêle un moment aux pleurs où je me noie !
-Ô ma chère Idamé ! Ces moments seront courts :
-Vainement de mon fils vous prolongiez les jours ;
-Vainement vous cachiez cette fatale offrande :
-Si nous ne donnons pas le sang qu'on nous demande,
-Nos tyrans soupçonneux seront bientôt vengés ;
-Nos citoyens tremblants, avec nous égorgés,
-Vont payer de vos soins les efforts inutiles ;
-De soldats entourés, nous n'avons plus d'asiles ;
-Et mon fils, qu'au trépas vous croyez arracher,
-À l'oeil qui le poursuit ne peut plus se cacher.
-Il faut subir son sort.
-
--*who_idame
-      Ah ! Cher époux, demeure ;
-Écoute-moi du moins.
-
--*who_zamti
-      Hélas ! ... il faut qu'il meure.
-
--*who_idame
-Qu'il meure ! Arrête, tremble, et crains mon désespoir ;
-Crains sa mère.
-
--*who_zamti
-      Je crains de trahir mon devoir.
-Abandonnez le vôtre ; abandonnez ma vie
-Aux détestables mains d'un conquérant impie.
-C'est mon sang qu'à Gengis il vous faut demander.
-Allez, il n'aura pas de peine à l'accorder.
-Dans le sang d'un époux trempez vos mains perfides ;
-Allez : ce jour n'est fait que pour des parricides.
-Rendez vains mes serments, sacrifiez nos lois,
-Immolez votre époux, et le sang de vos rois.
-
--*who_idame
-De mes rois ! Va, te dis-je ; ils n'ont rien à prétendre ;
-Je ne dois point mon sang en tribut à leur cendre :
-Va, le nom de sujet n'est pas plus saint pour nous
-Que ces noms si sacrés et de père et d'époux.
-La nature et l'hymen, voilà les lois premières,
-Les devoirs, les liens, des nations entières ;
-Ces lois viennent des dieux ; le reste est des humains.
-Ne me fais point haïr le sang des souverains :
-Oui, sauvons l'orphelin d'un vainqueur homicide ;
-Mais ne le sauvons pas au prix d'un parricide ;
-Que les jours de mon fils n'achètent point ses jours :
-Loin de l'abandonner, je vole à son secours ;
-Je prends pitié de lui ; prends pitié de toi-même,
-De ton fils innocent, de sa mère qui t'aime.
-Je ne menace plus, je tombe à tes genoux.
-Ô père infortuné ! Cher et cruel époux !
-Pour qui j'ai méprisé, tu t'en souviens peut-être,
-Ce mortel qu'aujourd'hui le sort a fait ton maître ;
-Accorde-moi mon fils, accorde-moi ce sang
-Que le plus r amour a formé dans mon flanc,
-Et ne résiste point au cri terrible et tendre
-Qu'à tes sens désolés l'amour a fait entendre.
-
--*who_zamti
-Ah ! C'est trop abuser du charme et du pouvoir
-Dont la nature et vous combattez mon devoir.
-Trop faible épouse, hélas ! Si vous pouviez connaître...
-
--*who_idame
-Je suis faible, oui, pardonne ; une mère doit l'être.
-Je n'aurai point de toi ce reproche à souffrir
-Quand il faudra te suivre, et qu'il faudra mourir.
-Cher époux, si tu peux au vainqueur sanguinaire,
-À la place du fils, sacrifier la mère,
-Je suis prête : Idamé ne se plaindra de rien ;
-Et mon coeur est encore aussi grand que le tien.
-
--*who_zamti
-Oui, j'en crois ta vertu.
-
-**** *book_ *id_II04 *act_II *date_1755
-
--*who_octar
-      Quoi ! Vous osez reprendre
-Ce dépôt que ma voix vous ordonna de rendre ?
-Soldats, suivez leurs pas, et me répondez d'eux :
-Saisissez cet enfant qu'ils cachent à mes yeux ;
-Allez : votre empereur en ces lieux va paraître ;
-Apportez la victime aux pieds de votre maître.
-Soldats, veillez sur eux.
-
--*who_zamti
-      Je suis prêt d'obéir :
-Vous aurez cet enfant.
-
--*who_idame
-      Je ne le puis souffrir :
-Non, vous ne l'obtiendrez, cruels, qu'avec ma vie.
-
--*who_octar
-Qu'on fasse retirer cette femme hardie.
-Voici votre empereur ; ayez soin d'empêcher
-Que tous ces vils captifs osent en approcher.
-
-**** *book_ *id_II05 *act_II *date_1755
-
--*who_gengis
 On a poussé trop loin le droit de ma conquête.
 Que le glaive se cache, et que la mort s'arrête :
 Je veux que les vaincus respirent désormais.
@@ -747,9 +28,6 @@ Tandis qu'en occident je fais voler mes fils
 Des murs de Samarcande aux bords du Tanaïs.
 Sortez : demeure, Octar.
 
-**** *book_ *id_II06 *act_II *date_1755
-
--*who_gengis
       Eh bien ! Pouvais-tu croire
 Que le sort m'élevât à ce comble de gloire ?
 Je foule aux pieds ce trône, et je règne en des lieux
@@ -763,12 +41,6 @@ De mes voeux mal conçus devinrent le partage ;
 Une femme ici même a refusé la main
 Sous qui, depuis cinq ans, tremble le genre humain.
 
--*who_octar
-Quoi ! Dans ce haut degré de gloire et de puissance,
-Quand le monde à vos pieds se prosterne en silence,
-D'un tel ressouvenir vous seriez occupé !
-
--*who_gengis
 Mon esprit, je l'avoue, en fut toujours frappé.
 Des affronts attachés à mon humble fortune
 C'est le seul dont je garde une idée importune.
@@ -783,13 +55,6 @@ De qui son imprudence outragea la tendresse ;
 Qu'à l'aspect des grandeurs, qu'elle eût pu partager,
 Son désespoir secret servît à me venger.
 
--*who_octar
-Mon oreille, Seigneur, était accoutumée
-Aux cris de la victoire et de la renommée,
-Au bruit des murs fumants renversés sous vos pas,
-Et non à ces discours, que je ne conçois pas.
-
--*who_gengis
 Non, depuis qu'en ces lieux mon âme fut vaincue,
 Depuis que ma fierté fut ainsi confondue,
 Mon coeur s'est désormais défendu sans retour
@@ -817,74 +82,15 @@ Je la veux oublier, je ne veux point la voir :
 Qu'elle pleure à loisir sa fierté trop rebelle ;
 Octar, je vous défends que l'on s'informe d'elle.
 
--*who_octar
-Vous avez en ces lieux des soins plus importants.
-
--*who_gengis
 Oui, je me souviens trop de tant d'égarements.
 
-**** *book_ *id_II07 *act_II *date_1755
-
--*who_osman
-La victime, seigneur, allait être égorgée ;
-Une garde autour d'elle était déjà rangée ;
-Mais un événement, que je n'attendais pas,
-Demande un nouvel ordre, et suspend son trépas ;
-Une femme éperdue, et de larmes baignée,
-Arrive, tend les bras à la garde indignée,
-Et nous surprenant tous par ses cris forcenés :
-"Arrêtez, c'est mon fils que vous assassinez !
-C'est mon fils ! On vous trompe au choix de la victime."
-Le désespoir affreux qui parle et qui l'anime,
-Ses yeux, son front, sa voix, ses sanglots, ses clameurs,
-Sa fureur intrépide au milieu de ses pleurs,
-Tout semblait annoncer, par ce grand caractère,
-Le cri de la nature, et le coeur d'une mère.
-Cependant son époux devant nous appelé,
-Non moins éperdu qu'elle, et non moins accablé,
-Mais sombre et recueilli dans sa douleur funeste :
-"De nos rois, a-t-il dit, voilà ce qui nous reste ;
-Frappez ; voilà le sang que vous me demandez. "
-De larmes, en parlant, ses yeux sont inondés.
-Cette femme à ces mots d'un froid mortel saisie,
-Longtemps sans mouvement, sans couleur, et sans vie,
-Ouvrant enfin les yeux, d'horreur appesantis,
-Dès qu'elle a pu parler a réclamé son fils :
-Le mensonge n'a point des douleurs si sincères ;
-On ne versa jamais de larmes plus amères.
-On doute, on examine, et je reviens confus
-Demander à vos pieds vos ordres absolus.
-
--*who_gengis
 Je saurai démêler un pareil artifice ;
 Et qui m'a pu tromper est sûr de son supplice.
 Ce peuple de vaincus prétend-il m'aveugler ?
 Et veut-on que le sang recommence à couler ?
 
--*who_octar
-Cette femme ne peut tromper votre prudence :
-Du fils de l'empereur elle a conduit l'enfance :
-Aux enfants de son maître on s'attache aisément ;
-Le danger, le malheur ajoute au sentiment ;
-Le fanatisme alors égale la nature,
-Et sa douleur si vraie ajoute à l'imposture.
-Bientôt, de son secret perçant l'obscurité,
-Vos yeux sur cette nuit répandront la clarté.
-
--*who_gengis
 Quelle est donc cette femme ?
 
--*who_octar
-      On dit qu'elle est unie
-À l'un de ces lettrés que respectait l'Asie,
-Qui, trop enorgueillis du faste de leurs lois,
-Sur leur vain tribunal osaient braver cent rois.
-Leur foule est innombrable : ils sont tous dans les chaînes ;
-Ils connaîtront enfin des lois plus souveraines :
-Zamti, c'est là le nom de cet esclave altier
-Qui veillait sur l'enfant qu'on doit sacrifier.
-
--*who_gengis
 Allez interroger ce couple condamnable ;
 Tirez la vérité de leur bouche coupable ;
 Que nos guerriers surtout, à leurs postes fixés,
@@ -896,35 +102,11 @@ Nous saurons quels mortels s'avancent au trépas,
 Et si l'on veut forcer les enfants de la guerre
 À porter le carnage aux bornes de la terre.
 
-**** *book_ *id_III01 *act_III *date_1755
-
--*who_gengis
 A-t-on de ces captifs éclairci l'imposture ?
 A-t-on connu leur crime et vengé mon injure ?
 Ce rejeton des rois, à leur garde commis,
 Entre les mains d'Octar est-il enfin remis ?
 
--*who_osman
-Il cherche à pénétrer dans ce sombre mystère.
-À l'aspect des tourments, ce mandarin sévère
-Persiste en sa réponse avec tranquillité ;
-Il semble sur son front porter la vérité :
-Son épouse en tremblant nous répond par des larmes ;
-Sa plainte, sa douleur, augmente encor ses charmes.
-De pitié malgré nous nos coeurs étaient surpris,
-Et nous nous étonnions de nous voir attendris :
-Jamais rien de si beau ne frappa notre vue.
-Seigneur, le croiriez-vous ? Cette femme éperdue
-À vos sacrés genoux demande à se jeter.
-"Que le vainqueur des rois daigne enfin m'écouter :
-Il pourra d'un enfant protéger l'innocence ;
-Malgré ses cruautés j'espère en sa clémence :
-Puisqu'il est tout-puissant, il sera généreux ;
-Pourrait-il rebuter les pleurs des malheureux ?"
-C'est ainsi qu'elle parle ; et j'ai dû lui promettre
-Qu'à vos pieds en ces lieux vous daignerez l'admettre.
-
--*who_gengis
 De ce mystère enfin je dois être éclairci.
 Oui, qu'elle vienne : allez, et qu'on l'amène ici.
 Qu'elle ne pense pas que, par de vaines plaintes,
@@ -936,23 +118,10 @@ Et mon coeur dès longtemps s'est affermi contre elles.
 Elle cherche un honneur dont dépendra son sort ;
 Et vouloir me tromper, c'est demander la mort.
 
--*who_osman
-Voilà cette captive à vos pieds amenée.
-
--*who_gengis
 Que vois-je ? Est-il possible ? Ô ciel ! Ô destinée !
 Ne me trompé-je point ? Est-ce un songe ? Une erreur ?
 C'est Idamé ! C'est elle ! Et mes sens...
 
-**** *book_ *id_III02 *act_III *date_1755
-
--*who_idame
-      Ah ! Seigneur,
-Tranchez les tristes jours d'une femme éperdue.
-Vous devez vous venger, je m'y suis attendue ;
-Mais, seigneur, épargnez un enfant innocent.
-
--*who_gengis
 Rassurez-vous ; sortez de cet effroi pressant...
 Ma surprise, madame, est égale à la vôtre...
 Le destin qui fait tout nous trompa l'un et l'autre.
@@ -968,31 +137,14 @@ Il faut qu'entre mes mains ce dépôt soit livré.
 Votre coeur sur un fils doit être rassuré ;
 Je le prends sous ma garde.
 
--*who_idame
-      À peine je respire.
-
--*who_gengis
 Mais de la vérité, madame, il faut m'instruire :
 Quel indigne artifice ose-t-on m'opposer ?
 De vous, de votre époux, qui prétend m'imposer ?
 
--*who_idame
-Ah ! Des infortunés épargnez la misère.
-
--*who_gengis
 Vous savez si je dois haïr ce téméraire.
 
--*who_idame
-Vous, Seigneur !
-
--*who_gengis
       J'en dis trop, et plus que je ne veux.
 
--*who_idame
-Ah ! Rendez-moi, seigneur, un enfant malheureux :
-Vous me l'avez promis ; sa grâce est prononcée.
-
--*who_gengis
 Sa grâce est dans vos mains : ma gloire est offensée,
 Mes ordres méprisés, mon pouvoir avili ;
 En un mot, vous savez jusqu'où je suis trahi.
@@ -1006,34 +158,16 @@ Qui sous ses lois, madame, a pu vous captiver ?
 Quel est cet insolent qui pense me braver ?
 Qu'il vienne.
 
--*who_idame
-      Mon époux, vertueux et fidèle,
-Objet infortuné de ma douleur mortelle,
-Servit son dieu, son roi, rendit mes jours heureux.
-
--*who_gengis
 Qui !... Lui ? Mais depuis quand formâtes-vous
 Ces noeuds ?
 
--*who_idame
-      Depuis que loin de nous le sort, qui vous seconde,
-Eut entraîné vos pas pour le malheur du monde.
-
--*who_gengis
 J'entends ; depuis le jour que je fus outragé,
 Depuis que de vous deux je dus être vengé,
 Depuis que vos climats ont mérité ma haine.
 
-**** *book_ *id_III03 *act_III *date_1755
-
--*who_gengis
 Parle ; as-tu satisfait à ma loi souveraine ?
 As-tu mis dans mes mains le fils de l'empereur ?
 
--*who_zamti
-J'ai rempli mon devoir, c'en est fait ; oui, seigneur.
-
--*who_gengis
 Tu sais si je punis la fraude et l'insolence :
 Tu sais que rien n'échappe aux coups de ma vengeance ;
 Que si le fils des rois par toi m'est enlevé,
@@ -1043,114 +177,26 @@ Mais je veux bien le croire. Allez, et qu'on saisisse
 L'enfant que cet esclave a remis en vos mains.
 Frappez.
 
--*who_zamti
-      Malheureux père !
-
--*who_idame
-      Arrêtez, inhumains !
-Ah ! Seigneur, est-ce ainsi que la pitié vous presse ?
-Est-ce ainsi qu'un vainqueur sait tenir sa promesse ?
-
--*who_gengis
 Est-ce ainsi qu'on m'abuse, et qu'on croit me jouer ?
 C'en est trop ; écoutez, il faut tout m'avouer.
 Sur cet enfant, madame, expliquez-vous sur l'heure,
 Instruisez-moi de tout ; répondez, ou qu'il meure.
 
--*who_idame
-Eh bien ! Mon fils l'emporte : et si, dans mon malheur,
-L'aveu que la nature arrache à ma douleur
-Est encore à vos yeux une offense nouvelle ;
-S'il faut toujours du sang à votre âme cruelle,
-Frappez ce triste coeur qui cède à son effroi,
-Et sauvez un mortel plus généreux que moi.
-Seigneur, il est trop vrai que notre auguste maître,
-Qui, sans vos seuls exploits, n'eût point cessé de l'être,
-A remis à mes mains, aux mains de mon époux,
-Ce dépôt respectable à tout autre qu'à vous.
-Seigneur, assez d'horreurs suivaient votre victoire,
-Assez de cruautés ternissaient tant de gloire ;
-Dans des fleuves de sang tant d'innocents plongés,
-L'empereur et sa femme, et cinq fils égorgés,
-Le fer de tous côtés dévastant cet empire,
-Tous ces champs de carnage auraient dû vous suffire.
-Un barbare en ces lieux est venu demander
-Ce dépôt précieux que j'aurais dû garder,
-Ce fils de tant de rois, notre unique espérance.
-À cet ordre terrible, à cette violence,
-Mon époux, inflexible en sa fidélité,
-N'a vu que son devoir, et n'a point hésité :
-Il a livré son fils. La nature outragée
-Vainement déchirait son âme partagée ;
-Il imposait silence à ses cris douloureux.
-Vous deviez ignorer ce sacrifice affreux :
-J'ai dû plus respecter sa fermeté sévère ;
-Je devais l'imiter : mais enfin je suis mère ;
-Mon âme est au-dessous d'un si cruel effort ;
-Je n'ai pu de mon fils consentir à la mort.
-Hélas ! Au désespoir que j'ai trop fait paraître,
-Une mère aisément pouvait se reconnaître.
-Voyez de cet enfant le père confondu,
-Qui ne vous a trahi qu'à force de vertu :
-L'un n'attend son salut que de son innocence ;
-Et l'autre est respectable alors qu'il vous offense.
-Ne punissez que moi, qui trahis à la fois
-Et l'époux que j'admire, et le sang de mes rois.
-Digne époux ! Digne objet de toute ma tendresse !
-La pitié maternelle est ma seule faiblesse :
-Mon sort suivra le tien ; je meurs si tu péris ;
-Pardonne-moi du moins d'avoir sauvé ton fils.
-
--*who_zamti
-Je t'ai tout pardonné, je n'ai plus à me plaindre.
-Pour le sang de mon roi je n'ai plus rien à craindre ;
-Ses jours sont assurés.
-
--*who_gengis
       Traître, ils ne le sont pas :
 Va réparer ton crime, ou subir le trépas.
 
--*who_zamti
-Le crime est d'obéir à des ordres injustes.
-La souveraine voix de mes maîtres augustes,
-Du sein de leurs tombeaux, parle plus haut que toi :
-Tu fus notre vainqueur, et tu n'es pas mon roi ;
-Si j'étais ton sujet, je te serais fidèle.
-Arrache-moi la vie, et respecte mon zèle :
-Je t'ai livré mon fils, j'ai pu te l'immoler ;
-Penses-tu que pour moi je puisse encor trembler ?
-
--*who_gengis
 Qu'on l'ôte de mes yeux.
 
--*who_idame
-      Ah ! Daignez...
-
--*who_gengis
       Qu'on l'entraîne.
 
--*who_idame
-Non, n'accablez que moi des traits de votre haine.
-Cruel ! Qui m'aurait dit que j'aurais par vos coups
-Perdu mon empereur, mon fils, et mon époux ?
-Quoi ! Votre âme jamais ne peut être amollie ?
-
--*who_gengis
 Allez, suivez l'époux à qui le sort vous lie.
 Est-ce à vous de prétendre encore à me toucher ?
 Et quel droit avez-vous de me rien reprocher ?
 
--*who_idame
-Ah ! Je l'avais prévu, je n'ai plus d'espérance.
-
--*who_gengis
 Allez, dis-je, Idamé : si jamais la clémence
 Dans mon coeur malgré moi pouvait encore entrer,
 Vous sentez quels affronts il faudrait réparer.
 
-**** *book_ *id_III04 *act_III *date_1755
-
--*who_gengis
 D'où vient que je gémis ? D'où vient que je balance ?
 Quel dieu parlait en elle, et prenait sa défense ?
 Est-il dans les vertus, est-il dans la beauté
@@ -1159,51 +205,14 @@ Ah ! Demeurez, Octar ; je me crains, je m'ignore :
 Il me faut un ami, je n'en eus point encore ;
 Mon coeur en a besoin.
 
--*who_octar
-      Puisqu'il faut vous parler,
-S'il est des ennemis qu'on vous doive immoler,
-Si vous voulez couper d'une race odieuse,
-Dans ses derniers rameaux, la tige dangereuse,
-Précipitez sa perte ; il faut que la rigueur,
-Trop nécessaire appui du trône d'un vainqueur,
-Frappe sans intervalle un coup sûr et rapide :
-C'est un torrent qui passe en son cours homicide ;
-Le temps ramène l'ordre et la tranquillité ;
-Le peuple se façonne à la docilité ;
-De ses premiers malheurs l'image est affaiblie ;
-bientôt il les pardonne, et même il les oublie.
-Mais lorsque goutte à goutte on fait couler le sang,
-Qu'on ferme avec lenteur, et qu'on rouvre le flanc,
-Que les jours renaissants ramènent le carnage,
-Le désespoir tient lieu de force et de courage,
-Et fait d'un peuple faible un peuple d'ennemis,
-D'autant plus dangereux qu'ils étaient plus soumis.
-
--*who_gengis
 Quoi ! C'est cette Idamé ! Quoi ! C'est là cette esclave !
 Quoi ! L'hymen l'a soumise au mortel qui me brave !
 
--*who_octar
-Je conçois que pour elle il n'est point de pitié ;
-Vous ne lui devez plus que votre inimitié.
-Cet amour, dites-vous, qui vous touche pour elle,
-Fut d'un feu passager la légère étincelle :
-Ses imprudents refus, la colère, et le temps,
-En ont éteint dans vous les restes languissants ;
-Elle n'est à vos yeux qu'une femme coupable,
-D'un criminel obscur épouse méprisable.
-
--*who_gengis
 Il en sera puni ; je le dois, je le veux :
 Ce n'est pas avec lui que je suis généreux.
 Moi, laisser respirer un vaincu que j'abhorre !
 Un esclave ! Un rival !
 
--*who_octar
-      Pourquoi vit-il encore ?
-Vous êtes tout-puissant, et n'êtes point vengé !
-
--*who_gengis
 Juste ciel ! à ce point mon coeur serait changé !
 C'est ici que ce coeur connaîtrait les alarmes,
 Vaincu par la beauté, désarmé par les larmes,
@@ -1216,19 +225,6 @@ Dans le coeur détesté de cet indigne époux.
 Est-il bien vrai que j'aime ? Est-ce moi qui soupire ?
 Qu'est-ce donc que l'amour ? A-t-il donc tant d'empire ?
 
--*who_octar
-Je n'appris qu'à combattre, à marcher sous vos lois ;
-Mes chars et mes coursiers, mes flèches, mon carquois,
-Voilà mes passions et ma seule science :
-Des caprices du coeur j'ai peu d'intelligence ;
-Je connais seulement la victoire et nos moeurs :
-Les captives toujours ont suivi leurs vainqueurs.
-Cette délicatesse importune, étrangère,
-Dément votre fortune et votre caractère.
-Et qu'importe pour vous qu'une esclave de plus
-Attende en gémissant vos ordres absolus ?
-
--*who_gengis
 Qui connaît mieux que moi jusqu'où va ma puissance ?
 Je puis, je le sais trop, user de violence ;
 Mais quel bonheur honteux, cruel, empoisonné,
@@ -1252,84 +248,35 @@ Je la veux pour jamais chasser de mon esprit.
 Je me rends tout entier à ma grandeur suprême ;
 Je l'oublie : elle arrive ; elle triomphe, et j'aime.
 
-**** *book_ *id_III05 *act_III *date_1755
-
--*who_gengis
 Eh bien ! Que résout-elle, et que m'apprenez-vous ?
 
--*who_osman
-Elle est prête à périr auprès de son époux,
-Plutôt que découvrir l'asile impénétrable
-Où leurs soins ont caché cet enfant misérable ;
-Ils jurent d'affronter le plus cruel trépas.
-Son époux la retient tremblante entre ses bras ;
-Il soutient sa constance, il l'exhorte au supplice :
-Ils demandent tous deux que la mort les unisse.
-Tout un peuple autour d'eux pleure et frémit d'effroi.
-
--*who_gengis
 Idamé, dites-vous, attend la mort de moi ?
 Ah ! Rassurez son âme et faites-lui connaître
 Que ses jours sont sacrés, qu'ils sont chers à son maître.
 C'en est assez ; volez.
 
-**** *book_ *id_III06 *act_III *date_1755
-
--*who_octar
-      Quels ordres donnez-vous
-Sur cet enfant des rois qu'on dérobe à nos coups ?
-
--*who_gengis
 Aucun.
 
--*who_octar
-      Vous commandiez que notre vigilance
-Aux mains d'Idamé même enlevât son enfance.
-
--*who_gengis
 Qu'on attende.
 
--*who_octar
-      On pourrait...
-
--*who_gengis
       Il ne peut m'échapper.
 
--*who_octar
-Peut-être elle vous trompe.
-
--*who_gengis
       Elle ne peut tromper.
 
--*who_octar
-Voulez-vous de ces rois conserver ce qui reste ?
-
--*who_gengis
 Je veux qu'Idamé vive ; ordonne tout le reste.
 Va la trouver. Mais non, cher Octar, hâte-toi
 De forcer son époux à fléchir sous ma loi :
 C'est peu de cet enfant ; c'est peu de son supplice ;
 Il faut bien qu'il me fasse un plus grand sacrifice.
 
--*who_octar
-Lui ?
-
--*who_gengis
       Sans doute : oui, lui-même.
 
--*who_octar
-      Et quel est votre espoir ?
-
--*who_gengis
 De dompter Idamé, de l'aimer, de la voir,
 D'être aimé de l'ingrate, ou de me venger d'elle,
 De la punir. Tu vois ma faiblesse nouvelle :
 Emporté, malgré moi, par de contraires voeux,
 Je frémis, et j'ignore encor ce que je veux.
 
-**** *book_ *id_IV01 *act_IV *date_1755
-
--*who_gengis
 Ainsi la liberté, le repos, et la paix,
 Ce but de mes travaux me fuira pour jamais !
 Je ne puis être à moi ! D'aujourd'hui je commence
@@ -1349,25 +296,8 @@ Des périls à prévoir, des complots à détruire ;
 Que tout pèse à mon coeur en secret tourmenté !
 Ah ! Je fus plus heureux dans mon obscurité.
 
-**** *book_ *id_IV02 *act_IV *date_1755
-
--*who_gengis
 Eh bien ! Vous avez vu ce mandarin farouche ?
 
--*who_octar
-Nul péril ne l'émeut, nul respect ne le touche.
-Seigneur, en votre nom j'ai rougi de parler
-À ce vil ennemi qu'il fallait immoler ;
-D'un oeil d'indifférence il a vu le supplice ;
-Il répète les noms de devoir, de justice ;
-Il brave la victoire : on dirait que sa voix,
-Du haut d'un tribunal, nous dicte ici des lois.
-Confondez avec lui son épouse rebelle ;
-Ne vous abaissez point à soupirer pour elle ;
-Et détournez les yeux de ce couple proscrit,
-Qui vous ose braver quand la terre obéit.
-
--*who_gengis
 Non, je ne reviens point encor de ma surprise :
 Quels sont donc ces humains que mon bonheur maîtrise ?
 Quels sont ces sentiments, qu'au fond de nos climats
@@ -1393,41 +323,12 @@ Peut-être qu'en effet il est une autre gloire :
 Mon coeur est en secret jaloux de leurs vertus ;
 Et, vainqueur, je voudrais égaler les vaincus.
 
--*who_octar
-Pouvez-vous de ce peuple admirer la faiblesse ?
-Quel mérite ont des arts enfants de la mollesse,
-Qui n'ont pu les sauver des fers et de la mort ?
-Le faible est destiné pour servir le plus fort :
-Tout cède sur la terre aux travaux, au courage ;
-Mais c'est vous qui cédez, qui souffrez un outrage,
-Vous qui tendez les mains, malgré votre courroux,
-À je ne sais quels fers inconnus parmi nous ;
-Vous qui vous exposez à la plainte importune
-De ceux dont la valeur a fait votre fortune.
-Ces braves compagnons de vos travaux passés
-Verront-ils tant d'honneurs par l'amour effacés ?
-Leur grand coeur s'en indigne, et leurs fronts en rougissent ;
-Leurs clameurs jusqu'à vous par ma voix retentissent ;
-Je vous parle en leur nom comme au nom de l'état.
-Excusez un tartare, excusez un soldat
-blanchi sous le harnais et dans votre service,
-Qui ne peut supporter un amoureux caprice,
-Et qui montre la gloire à vos yeux éblouis.
-
--*who_gengis
 Que l'on cherche Idamé.
 
--*who_octar
-      Vous voulez...
-
--*who_gengis
       Obéis.
 De ton zèle hardi réprime la rudesse ;
 Je veux que mes sujets respectent ma faiblesse.
 
-**** *book_ *id_IV03 *act_IV *date_1755
-
--*who_gengis
 À mon sort à la fin je ne puis résister ;
 Le ciel me la destine, il n'en faut point douter.
 Qu'ai-je fait, après tout, dans ma grandeur suprême ?
@@ -1450,14 +351,6 @@ Qu'ils combattent sous moi, qu'ils meurent à ma suite ;
 Mais qu'ils n'osent jamais juger de ma conduite.
 Idamé ne vient point... c'est elle, je la vois.
 
-**** *book_ *id_IV04 *act_IV *date_1755
-
--*who_idame
-Quoi ! Vous voulez jouir encor de mon effroi ?
-Ah ! Seigneur, épargnez une femme, une mère ;
-Ne rougissez-vous pas d'accabler ma misère ?
-
--*who_gengis
 Cessez à vos frayeurs de vous abandonner :
 Votre époux peut se rendre, on peut lui pardonner ;
 J'ai déjà suspendu l'effet de ma vengeance,
@@ -1489,87 +382,19 @@ Dans vos yeux interdits ce que je dois attendre :
 Oubliez mon pouvoir, oubliez ma fierté,
 Pesez vos intérêts, parlez en liberté.
 
--*who_idame
-À tant de changements tour à tour condamnée
-Je ne le cèle point, vous m'avez étonnée :
-Je vais, si je le puis, reprendre mes esprits ;
-Et, quand je répondrai, vous serez plus surpris.
-Il vous souvient du temps et de la vie obscure
-Où le ciel enfermait votre grandeur future ;
-L'effroi des nations n'était que Témugin ;
-L'univers n'était pas, seigneur, en votre main :
-Elle était pure alors, et me fut présentée :
-Apprenez qu'en ce temps je l'aurais acceptée.
-
--*who_gengis
 Ciel ! Que m'avez-vous dit ? Ô ciel ! Vous m'aimeriez !
 Vous !
 
--*who_idame
-      J'ai dit que ces voeux, que vous me présentiez,
-N'auraient point révolté mon âme assujettie,
-Si les sages mortels à qui j'ai dû la vie
-N'avaient fait à mon coeur un contraire devoir.
-De nos parents sur nous vous savez le pouvoir :
-Du dieu que nous servons ils sont la vive image ;
-Nous leur obéissons en tout temps, en tout âge.
-Cet empire détruit, qui dut être immortel,
-Seigneur, était fondé sur le droit paternel,
-Sur la foi de l'hymen, sur l'honneur, la justice,
-Le respect des serments ; et, s'il faut qu'il périsse,
-Si le sort l'abandonne à vos heureux forfaits,
-L'esprit qui l'anima ne périra jamais.
-Vos destins sont changés ; mais le mien ne peut l'être.
-
--*who_gengis
 Quoi ! Vous m'auriez aimé !
 
--*who_idame
-      C'est à vous de connaître
-Que ce serait encore une raison de plus
-Pour n'attendre de moi qu'un éternel refus.
-Mon hymen est un noeud formé par le ciel même :
-Mon époux m'est sacré : je dirai plus, je l'aime.
-Je le préfère à vous, au trône, à vos grandeurs.
-Pardonnez mon aveu ; mais respectez nos moeurs.
-Ne pensez pas non plus que je mette ma gloire
-À remporter sur vous cette illustre victoire,
-À braver un vainqueur, à tirer vanité
-De ces justes refus qui ne m'ont point coûté :
-Je remplis mon devoir, et je me rends justice ;
-Je ne fais point valoir un pareil sacrifice.
-Portez ailleurs les dons que vous me proposez,
-Détachez-vous d'un coeur qui les a méprisés ;
-Et, puisqu'il faut toujours qu'Idamé vous implore,
-Permettez qu'à jamais mon époux les ignore.
-De ce faible triomphe il serait moins flatté
-Qu'indigné de l'outrage à ma fidélité.
-
--*who_gengis
 Il sait mes sentiments, madame ; il faut les suivre :
 Il s'y conformera s'il aime encore à vivre.
 
--*who_idame
-Il en est incapable ; et si dans les tourments
-La douleur égarait ses nobles sentiments,
-Si son âme vaincue avait quelque mollesse,
-Mon devoir et ma foi soutiendraient sa faiblesse ;
-De son coeur chancelant je deviendrais l'appui
-En attestant des noeuds déshonorés par lui.
-
--*who_gengis
 Ce que je viens d'entendre, ô dieux ! Est-il croyable ?
 Quoi ! Lorsque envers vous-même il s'est rendu coupable ;
 Lorsque sa cruauté, par un barbare effort,
 Vous arrachant un fils, l'a conduit à la mort !
 
--*who_idame
-Il eut une vertu, seigneur, que je révère :
-Il pensait en héros, je n'agissais qu'en mère ;
-Et, si j'étais injuste assez pour le haïr,
-Je me respecte assez pour ne le point trahir.
-
--*who_gengis
 Tout m'étonne dans vous, mais aussi tout m'outrage :
 J'adore avec dépit cet excès de courage ;
 Je vous aime encore plus quand vous me résistez :
@@ -1577,11 +402,6 @@ Vous subjuguez mon coeur, et vous le révoltez.
 Redoutez-moi ; sachez que, malgré ma faiblesse,
 Ma fureur peut aller plus loin que ma tendresse.
 
--*who_idame
-Je sais qu'ici tout tremble ou périt sous vos coups :
-Les lois vivent encore, et l'emportent sur vous.
-
--*who_gengis
 Les lois ! Il n'en est plus : quelle erreur obstinée
 Ose les alléguer contre ma destinée ?
 Il n'est ici de lois que celles de mon coeur,
@@ -1603,279 +423,6 @@ Pensez-y ; vous savez jusqu'où va ma vengeance,
 Et songez à quel prix vous pouvez désarmer
 Un maître qui vous aime, et qui rougit d'aimer.
 
-**** *book_ *id_IV05 *act_IV *date_1755
-
--*who_idame
-Il me faut donc choisir leur perte ou l'infamie !
-Ô pur sang de mes rois ! Ô moitié de ma vie !
-Cher époux, dans mes mains quand je tiens votre sort,
-Ma voix, sans balancer, vous condamne à la mort !
-
--*who_asseli
-Ah ! Reprenez plutôt cet empire suprême
-Qu'aux beautés, aux vertus, attacha le ciel même ;
-Ce pouvoir, qui soumit ce scythe furieux
-Aux lois de la raison qu'il lisait dans vos yeux.
-Longtemps accoutumée à dompter sa colère,
-Que ne pouvez-vous point, puisque vous savez plaire !
-
--*who_idame
-Dans l'état où je suis c'est un malheur de plus.
-
--*who_asseli
-Vous seule adouciriez le destin des vaincus :
-Dans nos calamités, le ciel, qui vous seconde,
-Veut vous opposer seule à ce tyran du monde ;
-Vous avez vu tantôt son courage irrité
-Se dépouiller pour vous de sa férocité.
-Il aurait dû cent fois, il devrait même encore,
-Perdre dans votre époux un rival qu'il abhorre ;
-Zamti pourtant respire après l'avoir bravé ;
-À son épouse encore il n'est point enlevé.
-On vous respecte en lui ; ce vainqueur sanguinaire
-Sur les débris du monde a craint de vous déplaire.
-Enfin, souvenez-vous que, dans ces mêmes lieux,
-Il sentit, le premier, le pouvoir de vos yeux :
-Son amour autrefois fut pur et légitime.
-
--*who_idame
-Arrête ; il ne l'est plus : y penser est un crime.
-
-**** *book_ *id_IV06 *act_IV *date_1755
-
--*who_idame
-Ah ! Dans ton infortune et dans mon désespoir,
-Suis-je encor ton épouse et peux-tu me revoir ?
-
--*who_zamti
-On le veut : du tyran tel est l'ordre funeste ;
-Je dois à ses fureurs ce moment qui me reste.
-
--*who_idame
-On t'a dit à quel prix ce tyran daigne enfin
-Sauver tes tristes jours, et ceux de l'orphelin ?
-
--*who_zamti
-Ne parlons pas des miens, laissons notre infortune.
-Un citoyen n'est rien dans la perte commune ;
-Il doit s'anéantir. Idamé, souviens-toi
-Que mon devoir unique est de sauver mon roi :
-Nous lui devions nos jours, nos services, notre être,
-Tout, jusqu'au sang d'un fils qui naquit pour son maître ;
-Mais l'honneur est un bien que nous ne devons pas.
-Cependant l'orphelin n'attend que le trépas ;
-Mes soins l'ont enfermé dans ces asiles sombres
-Où des rois ses aïeux on révère les ombres ;
-La mort, si nous tardons, l'y dévore avec eux.
-En vain des coréens le prince généreux
-Attend ce cher dépôt que lui promit mon zèle.
-Étan, de son salut ce ministre fidèle,
-Étan, ainsi que moi, se voit chargé de fers.
-Toi seule à l'orphelin restes dans l'univers ;
-C'est à toi maintenant de conserver sa vie,
-Et ton fils, et ta gloire à mon honneur unie.
-
--*who_idame
-Ordonne ; que veux-tu ? Que faut-il ?
-
--*who_zamti
-      M'oublier,
-Vivre pour ton pays, lui tout sacrifier.
-Ma mort, en éteignant les flambeaux d'hyménée.
-Est un arrêt des cieux qui fait ta destinée.
-Il n'est plus d'autres soins ni d'autres lois pour nous :
-L'honneur d'être fidèle aux cendres d'un époux
-Ne saurait balancer une gloire plus belle.
-C'est au prince, à l'état, qu'il faut être fidèle.
-Remplissons de nos rois les ordres absolus ;
-Je leur donnai mon fils, je leur donne encor plus.
-Libre par mon trépas, enchaîne ce tartare ;
-Éteins sur mon tombeau les foudres du barbare :
-Je commence à sentir la mort avec horreur
-Quand ma mort t'abandonne à cet usurpateur :
-Je fais en frémissant ce sacrifice impie ;
-Mais mon devoir l'épure, et mon trépas l'expie :
-Il était nécessaire autant qu'il est affreux.
-Idamé, sers de mère à ton roi malheureux ;
-Règne, que ton roi vive, et que ton époux meure :
-Règne, dis-je, à ce prix : oui, je le veux...
-
--*who_idame
-      Demeure.
-Me connais-tu ? Veux-tu que ce funeste rang
-Soit le prix de ma honte, et le prix de ton sang ?
-Penses-tu que je sois moins épouse que mère ?
-Tu t'abuses, cruel, et ta vertu sévère
-A commis contre toi deux crimes en un jour,
-Qui font frémir tous deux la nature et l'amour.
-Barbare envers ton fils, et plus envers moi-même,
-Ne te souvient-il plus qui je suis, et qui t'aime ?
-Crois-moi ; dans nos malheurs il est un sort plus beau,
-Un plus noble chemin pour descendre au tombeau.
-Soit amour, soit mépris, le tyran qui m'offense,
-Sur moi, sur mes desseins, n'est pas en défiance :
-Dans ces remparts fumants, et de sang abreuvés,
-Je suis libre, et mes pas ne sont point observés ;
-Le chef des coréens s'ouvre un secret passage,
-Non loin de ces tombeaux où ce précieux gage
-À l'oeil qui le poursuit fut caché par tes mains :
-De ces tombeaux sacrés je sais tous les chemins ;
-Je cours y ranimer sa languissante vie,
-Le rendre aux défenseurs armés pour la patrie,
-Le porter en mes bras dans leurs rangs belliqueux,
-Comme un présent d'un dieu qui combat avec eux.
-Nous mourrons, je le sais, mais tout couverts de gloire ;
-Nous laisserons de nous une illustre mémoire.
-Mettons nos noms obscurs au rang des plus grands noms,
-Et juge si mon coeur a suivi tes leçons.
-
--*who_zamti
-Tu l'inspires, grand dieu ! Que ton bras la soutienne !
-Idamé, ta vertu l'emporte sur la mienne ;
-Toi seule as mérité que les cieux attendris
-Daignent sauver par toi ton prince et ton pays.
-
-**** *book_ *id_V01 *act_V *date_1755
-
--*who_asseli
-Quoi ! Rien n'a résisté ! Tout a fui sans retour !
-Quoi ! Je vous vois deux fois sa captive en un jour !
-Fallait-il affronter ce conquérant sauvage ?
-Sur les faibles mortels il a trop d'avantage.
-Une femme, un enfant, des guerriers sans vertu !
-Que pouviez-vous ? Hélas !
-
--*who_idame
-      J'ai fait ce que j'ai dû.
-Tremblante pour mon fils, sans force, inanimée,
-J'ai porté dans mes bras l'empereur à l'armée.
-Son aspect a d'abord animé les soldats :
-Mais Gengis a marché ; la mort suivait ses pas ;
-Et des enfants du nord la horde ensanglantée
-Aux fers dont je sortais m'a soudain rejetée.
-C'en est fait.
-
--*who_asseli
-      Ainsi donc ce malheureux enfant
-Retombe entre ses mains, et meurt presque en naissant :
-Votre époux avec lui termine sa carrière.
-
--*who_idame
-L'un et l'autre bientôt voit son heure dernière.
-Si l'arrêt de la mort n'est point porté contre eux,
-C'est pour leur préparer des tourments plus affreux.
-Mon fils, ce fils si cher, va les suivre peut-être.
-Devant ce fier vainqueur il m'a fallu paraître ;
-Tout fumant de carnage, il m'a fait appeler,
-Pour jouir de mon trouble, et pour mieux m'accabler.
-Ses regards inspiraient l'horreur et l'épouvante.
-Vingt fois il a levé sa main toute sanglante
-Sur le fils de mes rois, sur mon fils malheureux.
-Je me suis en tremblant jetée au-devant d'eux ;
-Tout en pleurs, à ses pieds je me suis prosternée ;
-Mais lui, me repoussant d'une main forcenée,
-La menace à la bouche, et détournant les yeux,
-Il est sorti pensif, et rentré furieux ;
-Et s'adressant aux siens d'une voix oppressée,
-Il leur criait vengeance, et changeait de pensée ;
-Tandis qu'autour de lui ses barbares soldats
-Semblaient lui demander l'ordre de mon trépas.
-
--*who_asseli
-Pensez-vous qu'il donnât un ordre si funeste ?
-Il laisse vivre encor votre époux qu'il déteste ;
-L'orphelin aux bourreaux n'est point abandonné.
-Daignez demander grâce, et tout est pardonné.
-
--*who_idame
-Non, ce féroce amour est tourné tout en rage.
-Ah ! Si tu l'avais vu redoubler mon outrage,
-M'assurer de sa haine, insulter à mes pleurs !
-
--*who_asseli
-Et vous doutez encor d'asservir ses fureurs ?
-Ce lion subjugué, qui rugit dans sa chaîne,
-S'il ne vous aimait pas, parlerait moins de haine.
-
--*who_idame
-Qu'il m'aime ou me haïsse, il est temps d'achever
-Des jours que, sans horreur, je ne puis conserver.
-
--*who_asseli
-Ah ! Que résolvez-vous ?
-
--*who_idame
-      Quand le ciel en colère
-De ceux qu'il persécute a comblé la misère,
-Il les soutient souvent dans le sein des douleurs,
-Et leur donne un courage égal à leurs malheurs.
-J'ai pris, dans l'horreur même où je suis parvenue,
-Une force nouvelle, à mon coeur inconnue.
-Va, je ne craindrai plus ce vainqueur des humains ;
-Je dépendrai de moi : mon sort est dans mes mains.
-
--*who_asseli
-Mais ce fils, cet objet de crainte et de tendresse,
-L'abandonnerez-vous ?
-
--*who_idame
-      Tu me rends ma faiblesse,
-Tu me perces le coeur. Ah ! Sacrifice affreux !
-Que n'avais-je point fait pour ce fils malheureux !
-Mais Gengis, après tout, dans sa grandeur altière,
-Environné de rois couchés dans la poussière,
-Ne recherchera point un enfant ignoré,
-Parmi les malheureux dans la foule égaré ;
-Ou peut-être il verra d'un regard moins sévère
-Cet enfant innocent dont il aima la mère :
-À cet espoir au moins mon triste coeur se rend ;
-C'est une illusion que j'embrasse en mourant.
-Haïra-t-il ma cendre, après m'avoir aimée ?
-Dans la nuit de la tombe en serai-je opprimée ?
-Poursuivra-t-il mon fils ?
-
-**** *book_ *id_V02 *act_V *date_1755
-
--*who_octar
-      Idamé, demeurez :
-Attendez l'empereur en ces lieux retirés.
-Veillez sur ces enfants ; et vous à cette porte,
-Tartares, empêchez qu'aucun n'entre et ne sorte.
-Éloignez-vous.
-
--*who_idame
-      Seigneur, il veut encor me voir !
-J'obéis, il le faut, je cède à son pouvoir.
-Si j'obtenais du moins, avant de voir un maître,
-Qu'un moment à mes yeux mon époux pût paraître,
-Peut-être du vainqueur les esprits ramenés
-Rendraient enfin justice à deux infortunés.
-Je sens que je hasarde une prière vaine :
-La victoire est chez vous implacable, inhumaine ;
-Mais enfin la pitié, seigneur, en vos climats,
-Est-elle un sentiment qu'on ne connaisse pas ?
-Et ne puis-je implorer votre voix favorable ?
-
--*who_octar
-Quand l'arrêt est porté, qui conseille est coupable.
-Vous n'êtes plus ici sous vos antiques rois,
-Qui laissaient désarmer la rigueur de leurs lois.
-D'autres temps, d'autres moeurs : ici règnent les armes ;
-Nous ne connaissons point les prières, les larmes.
-On commande, et la terre écoute avec terreur.
-Demeurez, attendez l'ordre de l'empereur.
-
-**** *book_ *id_V03 *act_V *date_1755
-
--*who_idame
-Dieu des infortunés, qui voyez mon outrage,
-Dans ces extrémités soutenez mon courage ;
-Versez du haut des cieux, dans ce coeur consterné,
-Les vertus de l'époux que vous m'avez donné.
-
-**** *book_ *id_V04 *act_V *date_1755
-
--*who_gengis
 Non, je n'ai point assez déployé ma colère,
 Assez humilié votre orgueil téméraire,
 Assez fait de reproche aux infidélités
@@ -1885,15 +432,6 @@ Ni tout votre danger, ni l'horreur qui m'anime,
 Vous, que j'avais aimée, et que je dus haïr ;
 Vous, qui me trahissiez, et que je dois punir.
 
--*who_idame
-Ne punissez que moi ; c'est la grâce dernière
-Que j'ose demander à la main meurtrière
-Dont j'espérais en vain fléchir la cruauté.
-Éteignez dans mon sang votre inhumanité.
-Vengez-vous d'une femme à son devoir fidèle ;
-Finissez ses tourments.
-
--*who_gengis
       Je ne le puis, cruelle ;
 Les miens sont plus affreux, je les veux terminer.
 Je viens pour vous punir, je puis tout pardonner.
@@ -1942,17 +480,6 @@ Mais ce mot important, madame, il faut le dire :
 Prononcez sans tarder, sans feinte, sans détour,
 Si je vous dois enfin ma haine ou mon amour.
 
--*who_idame
-L'une et l'autre aujourd'hui serait trop condamnable ;
-Votre haine est injuste, et votre amour coupable ;
-Cet amour est indigne et de vous et de moi :
-Vous me devez justice ; et si vous êtes roi,
-Je la veux, je l'attends pour moi contre vous-même.
-Je suis loin de braver votre grandeur suprême ;
-Je la rappelle en vous, lorsque vous l'oubliez ;
-Et vous-même en secret vous me justifiez.
-
--*who_gengis
 Eh bien ! Vous le voulez ; vous choisissez ma haine,
 Vous l'aurez ; et déjà je la retiens à peine :
 Je ne vous connais plus ; et mon juste courroux
@@ -1962,40 +489,18 @@ Vont payer de leur sang votre fierté rebelle.
 Ce mot que je voulais les a tous condamnés ;
 C'en est fait, et c'est vous qui les assassinez.
 
--*who_idame
-Barbare !
-
--*who_gengis
       Je le suis ; j'allais cesser de l'être :
 Vous aviez un amant, vous n'avez plus qu'un maître,
 Un ennemi sanglant, féroce, sans pitié,
 Dont la haine est égale à votre inimitié.
 
--*who_idame
-Eh bien ! Je tombe aux pieds de ce maître sévère :
-Le ciel l'a fait mon roi ; seigneur, je le révère :
-Je demande à genoux une grâce de lui.
-
--*who_gengis
 Inhumaine, est-ce à vous d'en attendre aujourd'hui ?
 Levez-vous : je suis prêt encore à vous entendre.
 Pourrai-je me flatter d'un sentiment plus tendre ?
 Que voulez-vous ? Parlez.
 
--*who_idame
-      Seigneur, qu'il soit permis
-Qu'en secret mon époux près de moi soit admis,
-Que je lui parle.
-
--*who_gengis
       Vous !
 
--*who_idame
-      Écoutez ma prière.
-Cet entretien sera ma ressource dernière :
-Vous jugerez après si j'ai dû résister.
-
--*who_gengis
 Non, ce n'était pas lui qu'il fallait consulter :
 Mais je veux bien encor souffrir cette entrevue.
 Je crois qu'à la raison son âme enfin rendue
@@ -2009,131 +514,9 @@ Oui, j'y consens. Octar, veillez à cette porte.
 Vous, suivez-moi. Quel soin m'abaisse et me transporte !
 Faut-il encore aimer ? Est-ce là mon destin ?
 
--*who_idame
-Je renais, et je sens s'affermir dans mon sein
-Cette intrépidité dont je doutais encore.
-
-**** *book_ *id_V05 *act_V *date_1755
-
--*who_idame
-Ô toi, qui me tiens lieu de ce ciel que j'implore,
-Mortel plus respectable et plus grand à mes yeux
-Que tous ces conquérants dont l'homme a fait des dieux !
-L'horreur de nos destins ne t'est que trop connue ;
-La mesure est comblée, et notre heure est venue.
-
--*who_zamti
-Je le sais.
-
--*who_idame
-      C'est en vain que tu voulus deux fois
-Sauver le rejeton de nos malheureux rois.
-
--*who_zamti
-Il n'y faut plus penser, l'espérance est perdue ;
-De tes devoirs sacrés tu remplis l'étendue :
-Je mourrai consolé.
-
--*who_idame
-      Que deviendra mon fils ?
-Pardonne encor ce mot à mes sens attendris,
-Pardonne à ces soupirs ; ne vois que mon courage.
-
--*who_zamti
-Nos rois sont au tombeau, tout est dans l'esclavage.
-Va, crois-moi, ne plaignons que les infortunés
-Qu'à respirer encor le ciel a condamnés.
-
--*who_idame
-La mort la plus honteuse est ce qu'on te prépare.
-
--*who_zamti
-Sans doute ; et j'attendais les ordres du barbare :
-Ils ont tardé longtemps.
-
--*who_idame
-      Eh bien ! écoute-moi :
-Ne saurons-nous mourir que par l'ordre d'un roi ?
-Les taureaux aux autels tombent en sacrifice ;
-Les criminels tremblants sont traînés au supplice ;
-Les mortels généreux disposent de leur sort :
-Pourquoi des mains d'un maître attendre ici la mort ?
-L'homme était-il donc né pour tant de dépendance !
-De nos voisins altiers imitons la constance ;
-De la nature humaine ils soutiennent les droits,
-Vivent libres chez eux, et meurent à leur choix ;
-Un affront leur suffit pour sortir de la vie,
-Et plus que le néant ils craignent l'infamie.
-Le hardi japonais n'attend pas qu'au cercueil
-Un despote insolent le plonge d'un coup d'oeil.
-Nous avons enseigné ces braves insulaires ;
-Apprenons d'eux enfin des vertus nécessaires ;
-Sachons mourir comme eux.
-
--*who_zamti
-      Je t'approuve, et je crois
-Que le malheur extrême est au-dessus des lois.
-J'avais déjà conçu tes desseins magnanimes ;
-Mais seuls et désarmés, esclaves et victimes,
-Courbés sous nos tyrans, nous attendons leurs coups.
-
--*who_idame
-Tiens, sois libre avec moi ; frappe, et délivre-nous.
-
--*who_zamti
-Ciel !
-
--*who_idame
-      Déchire ce sein, ce coeur qu'on déshonore.
-J'ai tremblé que ma main, mal affermie encore,
-Ne portât sur moi-même un coup mal assuré.
-Enfonce dans ce coeur un bras moins égaré ;
-Immole avec courage une épouse fidèle ;
-Tout couvert de mon sang, tombe et meurs auprès d'elle ;
-Qu'à mes derniers moments j'embrasse mon époux ;
-Que le tyran le voie, et qu'il en soit jaloux.
-
--*who_zamti
-Grâce au ciel, jusqu'au bout ta vertu persévère ;
-Voilà de ton amour la marque la plus chère.
-Digne épouse, reçois mes éternels adieux ;
-Donne ce glaive, donne, et détourne les yeux.
-Idamé, en lui donnant le poignard.
-Tiens, commence par moi ; tu le dois : tu balances !
-
--*who_zamti
-Je ne puis.
-
--*who_idame
-      Je le veux.
-
--*who_zamti
-      Je frémis.
-
--*who_idame
-      Tu m'offenses.
-Frappe, et tourne sur toi tes bras ensanglantés.
-
--*who_zamti
-Eh bien ! Imite-moi.
-
--*who_idame
-      Frappe, dis-je...
-
-**** *book_ *id_V06 *act_V *date_1755
-
--*who_gengis
       Arrêtez,
 Arrêtez, malheureux ! Ô ciel ! Qu'alliez-vous faire ?
 
--*who_idame
-Nous délivrer de toi, finir notre misère,
-À tant d'atrocités dérober notre sort.
-
--*who_zamti
-Veux-tu nous envier jusques à notre mort ?
-
--*who_gengis
 Oui... Dieu, maître des rois, à qui mon coeur s'adresse,
 Témoin de mes affronts, témoin de ma faiblesse,
 Toi qui mis à mes pieds tant d'états, tant de rois,
@@ -2145,16 +528,6 @@ Veut mourir de ta main, plutôt que d'être à moi.
 Vous apprendrez tous deux à souffrir mon empire,
 Peut-être à faire plus.
 
--*who_idame
-      Que prétends-tu nous dire ?
-
--*who_zamti
-Quel est ce nouveau trait de l'inhumanité ?
-
--*who_idame
-D'où vient que notre arrêt n'est pas encor porté ?
-
--*who_gengis
 Il va l'être, madame, et vous allez l'apprendre.
 Vous me rendiez justice, et je vais vous la rendre.
 À peine dans ces lieux je crois ce que j'ai vu :
@@ -2184,15 +557,1332 @@ Triomphez de la force, elle vous doit hommage :
 J'en donnerai l'exemple, et votre souverain
 Se soumet à vos lois les armes à la main.
 
--*who_idame
-Ciel ! Que viens-je d'entendre ? Hélas ! Puis-je vous croire ?
+      Vos vertus.
 
--*who_zamti
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octar
+
+Esclaves, écoutez ; que votre obéissance
+Soit l'unique réponse aux ordres de ma voix.
+Il reste encore un fils du dernier de vos rois ;
+C'est vous qui l'élevez : votre soin téméraire
+Nourrit un ennemi dont il faut se défaire.
+Je vous ordonne, au nom du vainqueur des humains,
+De remettre aujourd'hui cet enfant dans mes mains :
+Je vais l'attendre : allez ; qu'on m'apporte ce gage.
+Pour peu que vous tardiez, le sang et le carnage
+Vont de mon maître encor signaler le courroux,
+Et la destruction commencera par vous.
+La nuit vient, le jour fuit ; vous, avant qu'il finisse,
+Si vous aimez la vie, allez, qu'on obéisse.
+
+      Quoi ! Vous osez reprendre
+Ce dépôt que ma voix vous ordonna de rendre ?
+Soldats, suivez leurs pas, et me répondez d'eux :
+Saisissez cet enfant qu'ils cachent à mes yeux ;
+Allez : votre empereur en ces lieux va paraître ;
+Apportez la victime aux pieds de votre maître.
+Soldats, veillez sur eux.
+
+Qu'on fasse retirer cette femme hardie.
+Voici votre empereur ; ayez soin d'empêcher
+Que tous ces vils captifs osent en approcher.
+
+Quoi ! Dans ce haut degré de gloire et de puissance,
+Quand le monde à vos pieds se prosterne en silence,
+D'un tel ressouvenir vous seriez occupé !
+
+Mon oreille, Seigneur, était accoutumée
+Aux cris de la victoire et de la renommée,
+Au bruit des murs fumants renversés sous vos pas,
+Et non à ces discours, que je ne conçois pas.
+
+Vous avez en ces lieux des soins plus importants.
+
+Cette femme ne peut tromper votre prudence :
+Du fils de l'empereur elle a conduit l'enfance :
+Aux enfants de son maître on s'attache aisément ;
+Le danger, le malheur ajoute au sentiment ;
+Le fanatisme alors égale la nature,
+Et sa douleur si vraie ajoute à l'imposture.
+Bientôt, de son secret perçant l'obscurité,
+Vos yeux sur cette nuit répandront la clarté.
+
+      On dit qu'elle est unie
+À l'un de ces lettrés que respectait l'Asie,
+Qui, trop enorgueillis du faste de leurs lois,
+Sur leur vain tribunal osaient braver cent rois.
+Leur foule est innombrable : ils sont tous dans les chaînes ;
+Ils connaîtront enfin des lois plus souveraines :
+Zamti, c'est là le nom de cet esclave altier
+Qui veillait sur l'enfant qu'on doit sacrifier.
+
+      Puisqu'il faut vous parler,
+S'il est des ennemis qu'on vous doive immoler,
+Si vous voulez couper d'une race odieuse,
+Dans ses derniers rameaux, la tige dangereuse,
+Précipitez sa perte ; il faut que la rigueur,
+Trop nécessaire appui du trône d'un vainqueur,
+Frappe sans intervalle un coup sûr et rapide :
+C'est un torrent qui passe en son cours homicide ;
+Le temps ramène l'ordre et la tranquillité ;
+Le peuple se façonne à la docilité ;
+De ses premiers malheurs l'image est affaiblie ;
+bientôt il les pardonne, et même il les oublie.
+Mais lorsque goutte à goutte on fait couler le sang,
+Qu'on ferme avec lenteur, et qu'on rouvre le flanc,
+Que les jours renaissants ramènent le carnage,
+Le désespoir tient lieu de force et de courage,
+Et fait d'un peuple faible un peuple d'ennemis,
+D'autant plus dangereux qu'ils étaient plus soumis.
+
+Je conçois que pour elle il n'est point de pitié ;
+Vous ne lui devez plus que votre inimitié.
+Cet amour, dites-vous, qui vous touche pour elle,
+Fut d'un feu passager la légère étincelle :
+Ses imprudents refus, la colère, et le temps,
+En ont éteint dans vous les restes languissants ;
+Elle n'est à vos yeux qu'une femme coupable,
+D'un criminel obscur épouse méprisable.
+
+      Pourquoi vit-il encore ?
+Vous êtes tout-puissant, et n'êtes point vengé !
+
+Je n'appris qu'à combattre, à marcher sous vos lois ;
+Mes chars et mes coursiers, mes flèches, mon carquois,
+Voilà mes passions et ma seule science :
+Des caprices du coeur j'ai peu d'intelligence ;
+Je connais seulement la victoire et nos moeurs :
+Les captives toujours ont suivi leurs vainqueurs.
+Cette délicatesse importune, étrangère,
+Dément votre fortune et votre caractère.
+Et qu'importe pour vous qu'une esclave de plus
+Attende en gémissant vos ordres absolus ?
+
+      Quels ordres donnez-vous
+Sur cet enfant des rois qu'on dérobe à nos coups ?
+
+      Vous commandiez que notre vigilance
+Aux mains d'Idamé même enlevât son enfance.
+
+      On pourrait...
+
+Peut-être elle vous trompe.
+
+Voulez-vous de ces rois conserver ce qui reste ?
+
+Lui ?
+
+      Et quel est votre espoir ?
+
+Nul péril ne l'émeut, nul respect ne le touche.
+Seigneur, en votre nom j'ai rougi de parler
+À ce vil ennemi qu'il fallait immoler ;
+D'un oeil d'indifférence il a vu le supplice ;
+Il répète les noms de devoir, de justice ;
+Il brave la victoire : on dirait que sa voix,
+Du haut d'un tribunal, nous dicte ici des lois.
+Confondez avec lui son épouse rebelle ;
+Ne vous abaissez point à soupirer pour elle ;
+Et détournez les yeux de ce couple proscrit,
+Qui vous ose braver quand la terre obéit.
+
+Pouvez-vous de ce peuple admirer la faiblesse ?
+Quel mérite ont des arts enfants de la mollesse,
+Qui n'ont pu les sauver des fers et de la mort ?
+Le faible est destiné pour servir le plus fort :
+Tout cède sur la terre aux travaux, au courage ;
+Mais c'est vous qui cédez, qui souffrez un outrage,
+Vous qui tendez les mains, malgré votre courroux,
+À je ne sais quels fers inconnus parmi nous ;
+Vous qui vous exposez à la plainte importune
+De ceux dont la valeur a fait votre fortune.
+Ces braves compagnons de vos travaux passés
+Verront-ils tant d'honneurs par l'amour effacés ?
+Leur grand coeur s'en indigne, et leurs fronts en rougissent ;
+Leurs clameurs jusqu'à vous par ma voix retentissent ;
+Je vous parle en leur nom comme au nom de l'état.
+Excusez un tartare, excusez un soldat
+blanchi sous le harnais et dans votre service,
+Qui ne peut supporter un amoureux caprice,
+Et qui montre la gloire à vos yeux éblouis.
+
+      Vous voulez...
+
+      Idamé, demeurez :
+Attendez l'empereur en ces lieux retirés.
+Veillez sur ces enfants ; et vous à cette porte,
+Tartares, empêchez qu'aucun n'entre et ne sorte.
+Éloignez-vous.
+
+Quand l'arrêt est porté, qui conseille est coupable.
+Vous n'êtes plus ici sous vos antiques rois,
+Qui laissaient désarmer la rigueur de leurs lois.
+D'autres temps, d'autres moeurs : ici règnent les armes ;
+Nous ne connaissons point les prières, les larmes.
+On commande, et la terre écoute avec terreur.
+Demeurez, attendez l'ordre de l'empereur.
+
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
+La victime, seigneur, allait être égorgée ;
+Une garde autour d'elle était déjà rangée ;
+Mais un événement, que je n'attendais pas,
+Demande un nouvel ordre, et suspend son trépas ;
+Une femme éperdue, et de larmes baignée,
+Arrive, tend les bras à la garde indignée,
+Et nous surprenant tous par ses cris forcenés :
+"Arrêtez, c'est mon fils que vous assassinez !
+C'est mon fils ! On vous trompe au choix de la victime."
+Le désespoir affreux qui parle et qui l'anime,
+Ses yeux, son front, sa voix, ses sanglots, ses clameurs,
+Sa fureur intrépide au milieu de ses pleurs,
+Tout semblait annoncer, par ce grand caractère,
+Le cri de la nature, et le coeur d'une mère.
+Cependant son époux devant nous appelé,
+Non moins éperdu qu'elle, et non moins accablé,
+Mais sombre et recueilli dans sa douleur funeste :
+"De nos rois, a-t-il dit, voilà ce qui nous reste ;
+Frappez ; voilà le sang que vous me demandez. "
+De larmes, en parlant, ses yeux sont inondés.
+Cette femme à ces mots d'un froid mortel saisie,
+Longtemps sans mouvement, sans couleur, et sans vie,
+Ouvrant enfin les yeux, d'horreur appesantis,
+Dès qu'elle a pu parler a réclamé son fils :
+Le mensonge n'a point des douleurs si sincères ;
+On ne versa jamais de larmes plus amères.
+On doute, on examine, et je reviens confus
+Demander à vos pieds vos ordres absolus.
+
+Il cherche à pénétrer dans ce sombre mystère.
+À l'aspect des tourments, ce mandarin sévère
+Persiste en sa réponse avec tranquillité ;
+Il semble sur son front porter la vérité :
+Son épouse en tremblant nous répond par des larmes ;
+Sa plainte, sa douleur, augmente encor ses charmes.
+De pitié malgré nous nos coeurs étaient surpris,
+Et nous nous étonnions de nous voir attendris :
+Jamais rien de si beau ne frappa notre vue.
+Seigneur, le croiriez-vous ? Cette femme éperdue
+À vos sacrés genoux demande à se jeter.
+"Que le vainqueur des rois daigne enfin m'écouter :
+Il pourra d'un enfant protéger l'innocence ;
+Malgré ses cruautés j'espère en sa clémence :
+Puisqu'il est tout-puissant, il sera généreux ;
+Pourrait-il rebuter les pleurs des malheureux ?"
+C'est ainsi qu'elle parle ; et j'ai dû lui promettre
+Qu'à vos pieds en ces lieux vous daignerez l'admettre.
+
+Voilà cette captive à vos pieds amenée.
+
+Elle est prête à périr auprès de son époux,
+Plutôt que découvrir l'asile impénétrable
+Où leurs soins ont caché cet enfant misérable ;
+Ils jurent d'affronter le plus cruel trépas.
+Son époux la retient tremblante entre ses bras ;
+Il soutient sa constance, il l'exhorte au supplice :
+Ils demandent tous deux que la mort les unisse.
+Tout un peuple autour d'eux pleure et frémit d'effroi.
+
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamti
+
+      Ce que je tremble à dire.
+Le malheur est au comble ; il n'est plus, cet empire :
+Sous le glaive étranger j'ai vu tout abattu.
+De quoi nous a servi d'adorer la vertu ?
+Nous étions vainement, dans une paix profonde,
+Et les législateurs et l'exemple du monde ;
+Vainement par nos lois l'univers fut instruit :
+La sagesse n'est rien ; la force a tout détruit.
+J'ai vu de ces brigands la horde hyperborée,
+Par des fleuves de sang se frayant une entrée
+Sur les corps entassés de nos frères mourants,
+Portant partout le glaive et les feux dévorants.
+Ils pénètrent en foule à la demeure auguste
+Où de tous les humains le plus grand, le plus juste,
+D'un front majestueux attendait le trépas.
+La reine évanouie était entre ses bras.
+De leurs nombreux enfants ceux en qui le courage
+Commençait vainement à croître avec leur âge,
+Et qui pouvaient mourir les armes à la main,
+Étaient déjà tombés sous le fer inhumain.
+Il restait près de lui ceux dont la tendre enfance
+N'avait que la faiblesse et des pleurs pour défense ;
+On les voyait encore autour de lui pressés,
+Tremblants à ses genoux qu'ils tenaient embrassés.
+J'entre par des détours inconnus au vulgaire ;
+J'approche en frémissant de ce malheureux père ;
+Je vois ces vils humains, ces monstres des déserts,
+À notre auguste maître osant donner des fers,
+Traîner dans son palais, d'une main sanguinaire,
+Le père, les enfants, et leur mourante mère.
+
+Ce prince infortuné tourne vers moi les yeux ;
+Il m'appelle, il me dit, dans la langue sacrée,
+Du conquérant tartare et du peuple ignorée :
+"Conserve au moins le jour au dernier de mes fils ! "
+Jugez si mes serments et mon coeur l'ont promis ;
+Jugez de mon devoir quelle est la voix pressante.
+J'ai senti ranimer ma force languissante ;
+J'ai revolé vers vous. Les ravisseurs sanglants
+Ont laissé le passage à mes pas chancelants ;
+Soit que dans les fureurs de leur horrible joie,
+Au pillage acharnés, occupés de leur proie,
+Leur superbe mépris ait détourné les yeux ;
+Soit que cet ornement d'un ministre des cieux,
+Ce symbole sacré du grand dieu que j'adore,
+À la férocité puisse imposer encore ;
+Soit qu'enfin ce grand dieu, dans ses profonds desseins,
+Pour sauver cet enfant qu'il a mis dans mes mains,
+Sur leurs yeux vigilants répandant un nuage,
+Ait égaré leur vue ou suspendu leur rage.
+
+Hélas ! Le fils des rois n'a pas même un asile !
+J'attends les coréens ; ils viendront, mais trop tard :
+Cependant la mort vole au pied de ce rempart.
+Saisissons, s'il se peut, le moment favorable
+De mettre en sûreté ce gage inviolable.
+
+Étan, où courez-vous, interdit, consterné ?
+
+Il n'est donc plus !
+
+Les nôtres sont tombés : le juste ciel peut-être
+Voudra pour l'orphelin signaler son pouvoir :
+Veillons sur lui ; voilà notre premier devoir.
+Que nous veut ce tartare ?
+
+J'ai promis, j'ai juré de conserver ses jours.
+
+      Ah ciel ! Eh quoi ! Vous voudriez
+Voir du fils de mes rois les jours sacrifiés ?
+
+Après l'atrocité de leur indigne sort,
+Qui pourrait redouter et refuser la mort ?
+Le coupable la craint, le malheureux l'appelle,
+Le brave la défie, et marche au-devant d'elle ;
+Le sage, qui l'attend, la reçoit sans regrets.
+
+      De garder mes serments.
+Auprès de cet enfant, allez, daignez m'attendre.
+
+Oui... je vois qu'il faut faire un triste sacrifice.
+Écoute : cet empire est-il cher à tes yeux ?
+Reconnais-tu ce dieu de la terre et des cieux,
+Ce dieu que sans mélange annonçaient nos ancêtres,
+Méconnu par le bonze, insulté par nos maîtres ?
+
+Jure ici par son nom, par sa toute-puissance,
+Que tu conserveras dans l'éternel silence
+Le secret qu'en ton sein je dois ensevelir.
+Jure-moi que tes mains oseront accomplir
+Ce que les intérêts et les lois de l'empire,
+Mon devoir, et mon dieu, vont par moi te prescrire.
+
+Allons, il ne m'est plus permis de reculer.
+
+On a porté l'arrêt ! Rien ne peut le changer !
+
+Étranger ! Lui ! Mon roi !
+
+On compte ici mes pas ; j'ai peu de liberté.
+Sers-toi de la faveur de ton obscurité.
+De ce dépôt sacré tu sais quel est l'asile :
+Tu n'es point observé ; l'accès t'en est facile.
+Cachons pour quelque temps cet enfant précieux
+Dans le sein des tombeaux bâtis par ses aïeux.
+Nous remettrons bientôt au chef de la Corée
+Ce tendre rejeton d'une tige adorée.
+Il peut ravir du moins à nos cruels vainqueurs
+Ce malheureux enfant, l'objet de leurs terreurs :
+Il peut sauver mon roi. Je prends sur moi le reste.
+
+J'ai de quoi satisfaire à sa férocité.
+
+      Ô nature ! Ô devoir tyrannique !
+
+      Dans son berceau saisis mon fils unique.
+
+      Songe au roi que tu dois conserver.
+Prends mon fils... que son sang... je ne puis achever.
+
+      Respecte ma tendresse ;
+Respecte mon malheur, et surtout ma faiblesse ;
+N'oppose aucun obstacle à cet ordre sacré,
+Et remplis ton devoir après l'avoir juré.
+
+      C'en est trop, je le veux.
+Je suis père ; et ce coeur, qu'un tel arrêt déchire,
+S'en est dit cent fois plus que tu ne peux m'en dire.
+J'ai fait taire le sang, fais taire l'amitié.
+Pars.
+
+      Laisse-moi, par pitié.
+
+J'ai fait taire le sang ! Ah ! Trop malheureux père
+J'entends trop cette voix si fatale et si chère.
+Ciel ! Impose silence aux cris de ma douleur :
+Mon épouse, mon fils, me déchirent le coeur.
+De ce coeur effrayé cache-moi la blessure.
+L'homme est trop faible, hélas ! Pour dompter la nature :
+Que peut-il par lui-même ? Achève, soutiens-moi ;
+Affermis la vertu prête à tomber sans toi.
+
+Étan auprès de moi tarde trop à se rendre :
+Il faut que je lui parle ; et je crains de l'entendre.
+Je tremble malgré moi de son fatal retour.
+Ô mon fils ! Mon cher fils ! As-tu perdu le jour ?
+Aura-t-on consommé ce fatal sacrifice ?
+Je n'ai pu de ma main te conduire au supplice ;
+Je n'en eus pas la force ; en ai-je assez au moins
+Pour apprendre l'effet de mes funestes soins ?
+En ai-je encore assez pour cacher mes alarmes ?
+
+Viens, ami... je t'entends... je sais tout par tes larmes.
+
+      Arrête, parle-moi
+De l'espoir de l'empire, et du fils de mon roi ;
+Est-il en sûreté ?
+
+      Il vit : c'en est assez.
+Ô vous, à qui je rends ces services fidèles !
+Ô mes rois ! Pardonnez mes larmes paternelles.
+
+Où porter ma douleur et ma calamité ?
+Et comment désormais soutenir les approches,
+Le désespoir, les cris, les éternels reproches,
+Les imprécations d'une mère en fureur ?
+Encor, si nous pouvions prolonger son erreur !
+
+Ah ! Du moins, cher Étan, si tu pouvais lui dire
+Que nous avons livré l'héritier de l'empire,
+Que j'ai caché mon fils, qu'il est en sûreté !
+Imposons quelque temps à sa crédulité.
+Hélas ! La vérité si souvent est cruelle !
+On l'aime ; et les humains sont malheureux par elle.
+Allons... ciel ! Elle-même approche de ces lieux :
+La douleur et la mort sont peintes dans ses yeux.
+
+      Ah ! Pleurez avec moi ;
+Mais avec moi songez à sauver votre roi.
+
+      Telle est notre misère :
+Vous êtes citoyenne avant que d'être mère.
+
+Elle n'en a que trop, mais moins que mon devoir ;
+Et je dois plus au sang de mon malheureux maître,
+Qu'à cet enfant obscur à qui j'ai donné l'être.
+
+Quoi ! Mon fils est vivant !
+
+      Dieu des cieux, pardonnez cette joie,
+Qui se mêle un moment aux pleurs où je me noie !
+Ô ma chère Idamé ! Ces moments seront courts :
+Vainement de mon fils vous prolongiez les jours ;
+Vainement vous cachiez cette fatale offrande :
+Si nous ne donnons pas le sang qu'on nous demande,
+Nos tyrans soupçonneux seront bientôt vengés ;
+Nos citoyens tremblants, avec nous égorgés,
+Vont payer de vos soins les efforts inutiles ;
+De soldats entourés, nous n'avons plus d'asiles ;
+Et mon fils, qu'au trépas vous croyez arracher,
+À l'oeil qui le poursuit ne peut plus se cacher.
+Il faut subir son sort.
+
+      Hélas ! ... il faut qu'il meure.
+
+      Je crains de trahir mon devoir.
+Abandonnez le vôtre ; abandonnez ma vie
+Aux détestables mains d'un conquérant impie.
+C'est mon sang qu'à Gengis il vous faut demander.
+Allez, il n'aura pas de peine à l'accorder.
+Dans le sang d'un époux trempez vos mains perfides ;
+Allez : ce jour n'est fait que pour des parricides.
+Rendez vains mes serments, sacrifiez nos lois,
+Immolez votre époux, et le sang de vos rois.
+
+Ah ! C'est trop abuser du charme et du pouvoir
+Dont la nature et vous combattez mon devoir.
+Trop faible épouse, hélas ! Si vous pouviez connaître...
+
+Oui, j'en crois ta vertu.
+
+      Je suis prêt d'obéir :
+Vous aurez cet enfant.
+
+J'ai rempli mon devoir, c'en est fait ; oui, seigneur.
+
+      Malheureux père !
+
+Je t'ai tout pardonné, je n'ai plus à me plaindre.
+Pour le sang de mon roi je n'ai plus rien à craindre ;
+Ses jours sont assurés.
+
+Le crime est d'obéir à des ordres injustes.
+La souveraine voix de mes maîtres augustes,
+Du sein de leurs tombeaux, parle plus haut que toi :
+Tu fus notre vainqueur, et tu n'es pas mon roi ;
+Si j'étais ton sujet, je te serais fidèle.
+Arrache-moi la vie, et respecte mon zèle :
+Je t'ai livré mon fils, j'ai pu te l'immoler ;
+Penses-tu que pour moi je puisse encor trembler ?
+
+On le veut : du tyran tel est l'ordre funeste ;
+Je dois à ses fureurs ce moment qui me reste.
+
+Ne parlons pas des miens, laissons notre infortune.
+Un citoyen n'est rien dans la perte commune ;
+Il doit s'anéantir. Idamé, souviens-toi
+Que mon devoir unique est de sauver mon roi :
+Nous lui devions nos jours, nos services, notre être,
+Tout, jusqu'au sang d'un fils qui naquit pour son maître ;
+Mais l'honneur est un bien que nous ne devons pas.
+Cependant l'orphelin n'attend que le trépas ;
+Mes soins l'ont enfermé dans ces asiles sombres
+Où des rois ses aïeux on révère les ombres ;
+La mort, si nous tardons, l'y dévore avec eux.
+En vain des coréens le prince généreux
+Attend ce cher dépôt que lui promit mon zèle.
+Étan, de son salut ce ministre fidèle,
+Étan, ainsi que moi, se voit chargé de fers.
+Toi seule à l'orphelin restes dans l'univers ;
+C'est à toi maintenant de conserver sa vie,
+Et ton fils, et ta gloire à mon honneur unie.
+
+      M'oublier,
+Vivre pour ton pays, lui tout sacrifier.
+Ma mort, en éteignant les flambeaux d'hyménée.
+Est un arrêt des cieux qui fait ta destinée.
+Il n'est plus d'autres soins ni d'autres lois pour nous :
+L'honneur d'être fidèle aux cendres d'un époux
+Ne saurait balancer une gloire plus belle.
+C'est au prince, à l'état, qu'il faut être fidèle.
+Remplissons de nos rois les ordres absolus ;
+Je leur donnai mon fils, je leur donne encor plus.
+Libre par mon trépas, enchaîne ce tartare ;
+Éteins sur mon tombeau les foudres du barbare :
+Je commence à sentir la mort avec horreur
+Quand ma mort t'abandonne à cet usurpateur :
+Je fais en frémissant ce sacrifice impie ;
+Mais mon devoir l'épure, et mon trépas l'expie :
+Il était nécessaire autant qu'il est affreux.
+Idamé, sers de mère à ton roi malheureux ;
+Règne, que ton roi vive, et que ton époux meure :
+Règne, dis-je, à ce prix : oui, je le veux...
+
+Tu l'inspires, grand dieu ! Que ton bras la soutienne !
+Idamé, ta vertu l'emporte sur la mienne ;
+Toi seule as mérité que les cieux attendris
+Daignent sauver par toi ton prince et ton pays.
+
+Je le sais.
+
+Il n'y faut plus penser, l'espérance est perdue ;
+De tes devoirs sacrés tu remplis l'étendue :
+Je mourrai consolé.
+
+Nos rois sont au tombeau, tout est dans l'esclavage.
+Va, crois-moi, ne plaignons que les infortunés
+Qu'à respirer encor le ciel a condamnés.
+
+Sans doute ; et j'attendais les ordres du barbare :
+Ils ont tardé longtemps.
+
+      Je t'approuve, et je crois
+Que le malheur extrême est au-dessus des lois.
+J'avais déjà conçu tes desseins magnanimes ;
+Mais seuls et désarmés, esclaves et victimes,
+Courbés sous nos tyrans, nous attendons leurs coups.
+
+Ciel !
+
+Grâce au ciel, jusqu'au bout ta vertu persévère ;
+Voilà de ton amour la marque la plus chère.
+Digne épouse, reçois mes éternels adieux ;
+Donne ce glaive, donne, et détourne les yeux.
+Idamé, en lui donnant le poignard.
+Tiens, commence par moi ; tu le dois : tu balances !
+
+Je ne puis.
+
+      Je frémis.
+
+Eh bien ! Imite-moi.
+
+Veux-tu nous envier jusques à notre mort ?
+
+Quel est ce nouveau trait de l'inhumanité ?
+
 Êtes-vous digne enfin, seigneur, de votre gloire ?
 Ah ! Vous ferez aimer votre joug aux vaincus.
 
--*who_idame
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_idame
+
+Se peut-il qu'en ce temps de désolation,
+En ce jour de carnage et de destruction,
+Quand ce palais sanglant, ouvert à des tartares,
+Tombe avec l'univers sous ces peuples barbares,
+Dans cet amas affreux de publiques horreurs,
+Il soit encor pour moi de nouvelles douleurs ?
+
+Ô fortune ! Ô pouvoir au-dessus de l'humain !
+Chère et triste Asséli, sais-tu quelle est la main
+Qui du Catai sanglant presse le vaste empire,
+Et qui s'appesantit sur tout ce qui respire ?
+
+Sais-tu que ce tyran de la terre interdite,
+Sous qui de cet état la fin se précipite,
+Ce destructeur des rois, de leur sang abreuvé,
+Est un scythe, un soldat dans la poudre élevé,
+Un guerrier vagabond de ces déserts sauvages,
+Climat qu'un ciel épais ne couvre que d'orages ?
+C'est lui qui, sur les siens briguant l'autorité,
+Tantôt fort et puissant, tantôt persécuté,
+Vint jadis à tes yeux, dans cette auguste ville,
+Aux portes du palais demander un asile.
+Son nom est Témugin ; c'est t'en apprendre assez.
+
+C'est lui-même, Asséli : son superbe courage,
+Sa future grandeur, brillaient sur son visage ;
+Tout semblait, je l'avoue, esclave auprès de lui ;
+Et lorsque de la cour il mendiait l'appui,
+Inconnu, fugitif, il ne parlait qu'en maître.
+Il m'aimait ; et mon coeur s'en applaudit peut-être :
+Peut-être qu'en secret je tirais vanité
+D'adoucir ce lion dans mes fers arrêté,
+De plier à nos moeurs cette grandeur sauvage,
+D'instruire à nos vertus son féroce courage,
+Et de le rendre enfin, graces à ces liens,
+Digne un jour d'être admis parmi nos citoyens.
+Il eût servi l'état, qu'il détruit par la guerre :
+Un refus a produit les malheurs de la terre.
+De nos peuples jaloux tu connais la fierté.
+De nos arts, de nos lois l'auguste antiquité,
+Une religion de tout temps épurée,
+De cent siècles de gloire une suite avérée :
+Tout nous interdisait, dans nos préventions,
+Une indigne alliance avec les nations.
+Enfin un autre hymen, un plus saint noeud m'engage ;
+Le vertueux Zamti mérita mon suffrage.
+Qui l'eût cru, dans ces temps de paix et de bonheur,
+Qu'un scythe méprisé serait notre vainqueur ?
+Voilà ce qui m'alarme, et qui me désespère.
+J'ai refusé sa main ; je suis épouse et mère :
+Il ne pardonne pas : il se vit outrager ;
+Et l'univers sait trop s'il aime à se venger.
+Étrange destinée, et revers incroyable !
+Est-il possible, ô dieu ! Que ce peuple innombrable
+Sous le glaive du scythe expire sans combats,
+Comme de vils troupeaux que l'on mène au trépas ?
+
+Que cette incertitude augmente mes douleurs !
+J'ignore à quel excès parviennent nos misères,
+Si l'empereur encore au palais de ses pères
+A trouvé quelque asile, ou quelque défenseur,
+Si la reine est tombée aux mains de l'oppresseur,
+Si l'un et l'autre touche à son heure fatale.
+Hélas ! Ce dernier fruit de leur foi conjugale,
+Ce malheureux enfant, à nos soins confié,
+Excite encor ma crainte ainsi que ma pitié.
+Mon époux au palais porte un pied téméraire ;
+Une ombre de respect pour son saint ministère
+Peut-être adoucira ces vainqueurs forcenés.
+On dit que ces brigands aux meurtres acharnés,
+Qui remplissent de sang la terre intimidée,
+Ont d'un dieu cependant conservé quelque idée ;
+Tant la nature même, en toute nation,
+Grava l'être suprême et la religion.
+Mais je me flatte en vain qu'aucun respect les touche ;
+La crainte est dans mon coeur, et l'espoir dans ma bouche ;
+Je me meurs...
+
+      Est-ce vous, époux infortuné ?
+Notre sort sans retour est-il déterminé ?
+Hélas ! Qu'avez-vous vu ?
+
+C'est donc là leur destin ! Quel changement, ô cieux !
+
+Seigneur, il serait temps encor de le sauver :
+Qu'il parte avec mon fils ; je les puis enlever :
+Ne désespérons point, et préparons leur fuite ;
+De notre prompt départ qu'Étan ait la conduite.
+Allons vers la Corée, au rivage des mers,
+Aux lieux où l'océan ceint ce triste univers.
+La terre a des déserts et des antres sauvages ;
+Portons-y ces enfants, tandis que les ravages
+N'inondent point encor ces asiles sacrés,
+Éloignés du vainqueur, et peut-être ignorés.
+Allons ; le temps est cher, et la plainte inutile.
+
+Fuyons de ce séjour au scythe abandonné.
+
+      Ô cieux !
+
+Le vainqueur vient sans doute armé de la vengeance.
+Dans mon obscurité j'avais quelque espérance ;
+Je n'en ai plus. Les cieux, à nous nuire attachés,
+Ont éclairé la nuit où nous étions cachés.
+Trop heureux les mortels inconnus à leur maître !
+
+      Ô ciel, prends ma défense !
+
+Où sommes-nous réduits ? Ô monstres ! Ô terreur !
+Chaque instant fait éclore une nouvelle horreur,
+Et produit des forfaits dont l'âme intimidée
+Jusqu'à ce jour de sang n'avait point eu d'idée.
+Vous ne répondez rien ; vos soupirs élancés
+Au ciel qui nous accable en vain sont adressés.
+Enfant de tant de rois, faut-il qu'on sacrifie
+Aux ordres d'un soldat ton innocente vie ?
+
+De quoi lui serviront vos malheureux secours ?
+Qu'importent vos serments, vos stériles tendresses ?
+Êtes-vous en état de tenir vos promesses ?
+N'espérons plus.
+
+Non, je n'y puis penser sans des torrents de larmes,
+Et si je n'étais mère, et si, dans mes alarmes,
+Le ciel me permettait d'abréger un destin
+Nécessaire à mon fils élevé dans mon sein,
+Je vous dirais : mourons, et, lorsque tout succombe,
+Sur les pas de nos rois descendons dans la tombe.
+
+Quels sont en me parlant vos sentiments secrets ?
+Vous baissez vos regards, vos cheveux se hérissent,
+Vous pâlissez, vos yeux de larmes se remplissent :
+Mon coeur répond au vôtre ; il sent tous vos tourments.
+Mais que résolvez-vous ?
+
+Mes prières, mes cris, pourront-ils le défendre ?
+
+Qu'ai-je vu ? Qu'a-t-on fait ? Barbare, est-il possible ?
+L'avez-vous commandé ce sacrifice horrible ?
+Non, je ne puis le croire ; et le ciel irrité
+N'a pas dans votre sein mis tant de cruauté.
+Non, vous ne serez point plus dur et plus barbare
+Que la loi du vainqueur, et le fer du tartare.
+Vous pleurez, malheureux !
+
+Que j'immole mon fils !
+
+Quoi ! Sur toi la nature a si peu de pouvoir !
+
+Non, je ne connais point cette horrible vertu.
+J'ai vu nos murs en cendre, et ce trône abattu ;
+J'ai pleuré de nos rois les disgrâces affreuses ;
+Mais par quelles fureurs, encor plus douloureuses,
+Veux-tu, de ton épouse avançant le trépas,
+Livrer le sang d'un fils qu'on ne demande pas ?
+Ces rois ensevelis, disparus dans la poudre,
+Sont-ils pour toi des dieux dont tu craignes la foudre ?
+À ces dieux impuissants, dans la tombe endormis,
+As-tu fait le serment d'assassiner ton fils ?
+Hélas ! Grands et petits, et sujets, et monarques,
+Distingués un moment par de frivoles marques,
+Égaux par la nature, égaux par le malheur,
+Tout mortel est chargé de sa propre douleur ;
+Sa peine lui suffit ; et, dans ce grand naufrage,
+Rassembler nos débris, voilà notre partage.
+Où serais-je, grand dieu, si ma crédulité
+Eût tombé dans le piège à mes pas présenté ?
+Auprès du fils des rois si j'étais demeurée,
+La victime aux bourreaux allait être livrée,
+Je cessais d'être mère, et le même couteau
+Sur le corps de mon fils me plongeait au tombeau.
+Grâces à mon amour, inquiète, troublée,
+À ce fatal berceau l'instinct m'a rappelée.
+J'ai vu porter mon fils à nos cruels vainqueurs ;
+Mes mains l'ont arraché des mains des ravisseurs.
+Barbare, ils n'ont point eu ta fermeté cruelle ;
+J'en ai chargé soudain cette esclave fidèle,
+Qui soutient de son lait ses misérables jours,
+Ces jours qui périssaient sans moi, sans mon secours ;
+J'ai conservé le sang du fils et de la mère,
+Et j'ose dire encor de son malheureux père.
+
+      Oui, rends grâces au ciel,
+Malgré toi favorable à ton coeur paternel.
+Repens-toi.
+
+      Ah ! Cher époux, demeure ;
+Écoute-moi du moins.
+
+Qu'il meure ! Arrête, tremble, et crains mon désespoir ;
+Crains sa mère.
+
+De mes rois ! Va, te dis-je ; ils n'ont rien à prétendre ;
+Je ne dois point mon sang en tribut à leur cendre :
+Va, le nom de sujet n'est pas plus saint pour nous
+Que ces noms si sacrés et de père et d'époux.
+La nature et l'hymen, voilà les lois premières,
+Les devoirs, les liens, des nations entières ;
+Ces lois viennent des dieux ; le reste est des humains.
+Ne me fais point haïr le sang des souverains :
+Oui, sauvons l'orphelin d'un vainqueur homicide ;
+Mais ne le sauvons pas au prix d'un parricide ;
+Que les jours de mon fils n'achètent point ses jours :
+Loin de l'abandonner, je vole à son secours ;
+Je prends pitié de lui ; prends pitié de toi-même,
+De ton fils innocent, de sa mère qui t'aime.
+Je ne menace plus, je tombe à tes genoux.
+Ô père infortuné ! Cher et cruel époux !
+Pour qui j'ai méprisé, tu t'en souviens peut-être,
+Ce mortel qu'aujourd'hui le sort a fait ton maître ;
+Accorde-moi mon fils, accorde-moi ce sang
+Que le plus r amour a formé dans mon flanc,
+Et ne résiste point au cri terrible et tendre
+Qu'à tes sens désolés l'amour a fait entendre.
+
+Je suis faible, oui, pardonne ; une mère doit l'être.
+Je n'aurai point de toi ce reproche à souffrir
+Quand il faudra te suivre, et qu'il faudra mourir.
+Cher époux, si tu peux au vainqueur sanguinaire,
+À la place du fils, sacrifier la mère,
+Je suis prête : Idamé ne se plaindra de rien ;
+Et mon coeur est encore aussi grand que le tien.
+
+      Je ne le puis souffrir :
+Non, vous ne l'obtiendrez, cruels, qu'avec ma vie.
+
+      Ah ! Seigneur,
+Tranchez les tristes jours d'une femme éperdue.
+Vous devez vous venger, je m'y suis attendue ;
+Mais, seigneur, épargnez un enfant innocent.
+
+      À peine je respire.
+
+Ah ! Des infortunés épargnez la misère.
+
+Vous, Seigneur !
+
+Ah ! Rendez-moi, seigneur, un enfant malheureux :
+Vous me l'avez promis ; sa grâce est prononcée.
+
+      Mon époux, vertueux et fidèle,
+Objet infortuné de ma douleur mortelle,
+Servit son dieu, son roi, rendit mes jours heureux.
+
+      Depuis que loin de nous le sort, qui vous seconde,
+Eut entraîné vos pas pour le malheur du monde.
+
+      Arrêtez, inhumains !
+Ah ! Seigneur, est-ce ainsi que la pitié vous presse ?
+Est-ce ainsi qu'un vainqueur sait tenir sa promesse ?
+
+Eh bien ! Mon fils l'emporte : et si, dans mon malheur,
+L'aveu que la nature arrache à ma douleur
+Est encore à vos yeux une offense nouvelle ;
+S'il faut toujours du sang à votre âme cruelle,
+Frappez ce triste coeur qui cède à son effroi,
+Et sauvez un mortel plus généreux que moi.
+Seigneur, il est trop vrai que notre auguste maître,
+Qui, sans vos seuls exploits, n'eût point cessé de l'être,
+A remis à mes mains, aux mains de mon époux,
+Ce dépôt respectable à tout autre qu'à vous.
+Seigneur, assez d'horreurs suivaient votre victoire,
+Assez de cruautés ternissaient tant de gloire ;
+Dans des fleuves de sang tant d'innocents plongés,
+L'empereur et sa femme, et cinq fils égorgés,
+Le fer de tous côtés dévastant cet empire,
+Tous ces champs de carnage auraient dû vous suffire.
+Un barbare en ces lieux est venu demander
+Ce dépôt précieux que j'aurais dû garder,
+Ce fils de tant de rois, notre unique espérance.
+À cet ordre terrible, à cette violence,
+Mon époux, inflexible en sa fidélité,
+N'a vu que son devoir, et n'a point hésité :
+Il a livré son fils. La nature outragée
+Vainement déchirait son âme partagée ;
+Il imposait silence à ses cris douloureux.
+Vous deviez ignorer ce sacrifice affreux :
+J'ai dû plus respecter sa fermeté sévère ;
+Je devais l'imiter : mais enfin je suis mère ;
+Mon âme est au-dessous d'un si cruel effort ;
+Je n'ai pu de mon fils consentir à la mort.
+Hélas ! Au désespoir que j'ai trop fait paraître,
+Une mère aisément pouvait se reconnaître.
+Voyez de cet enfant le père confondu,
+Qui ne vous a trahi qu'à force de vertu :
+L'un n'attend son salut que de son innocence ;
+Et l'autre est respectable alors qu'il vous offense.
+Ne punissez que moi, qui trahis à la fois
+Et l'époux que j'admire, et le sang de mes rois.
+Digne époux ! Digne objet de toute ma tendresse !
+La pitié maternelle est ma seule faiblesse :
+Mon sort suivra le tien ; je meurs si tu péris ;
+Pardonne-moi du moins d'avoir sauvé ton fils.
+
+      Ah ! Daignez...
+
+Non, n'accablez que moi des traits de votre haine.
+Cruel ! Qui m'aurait dit que j'aurais par vos coups
+Perdu mon empereur, mon fils, et mon époux ?
+Quoi ! Votre âme jamais ne peut être amollie ?
+
+Ah ! Je l'avais prévu, je n'ai plus d'espérance.
+
+Quoi ! Vous voulez jouir encor de mon effroi ?
+Ah ! Seigneur, épargnez une femme, une mère ;
+Ne rougissez-vous pas d'accabler ma misère ?
+
+À tant de changements tour à tour condamnée
+Je ne le cèle point, vous m'avez étonnée :
+Je vais, si je le puis, reprendre mes esprits ;
+Et, quand je répondrai, vous serez plus surpris.
+Il vous souvient du temps et de la vie obscure
+Où le ciel enfermait votre grandeur future ;
+L'effroi des nations n'était que Témugin ;
+L'univers n'était pas, seigneur, en votre main :
+Elle était pure alors, et me fut présentée :
+Apprenez qu'en ce temps je l'aurais acceptée.
+
+      J'ai dit que ces voeux, que vous me présentiez,
+N'auraient point révolté mon âme assujettie,
+Si les sages mortels à qui j'ai dû la vie
+N'avaient fait à mon coeur un contraire devoir.
+De nos parents sur nous vous savez le pouvoir :
+Du dieu que nous servons ils sont la vive image ;
+Nous leur obéissons en tout temps, en tout âge.
+Cet empire détruit, qui dut être immortel,
+Seigneur, était fondé sur le droit paternel,
+Sur la foi de l'hymen, sur l'honneur, la justice,
+Le respect des serments ; et, s'il faut qu'il périsse,
+Si le sort l'abandonne à vos heureux forfaits,
+L'esprit qui l'anima ne périra jamais.
+Vos destins sont changés ; mais le mien ne peut l'être.
+
+      C'est à vous de connaître
+Que ce serait encore une raison de plus
+Pour n'attendre de moi qu'un éternel refus.
+Mon hymen est un noeud formé par le ciel même :
+Mon époux m'est sacré : je dirai plus, je l'aime.
+Je le préfère à vous, au trône, à vos grandeurs.
+Pardonnez mon aveu ; mais respectez nos moeurs.
+Ne pensez pas non plus que je mette ma gloire
+À remporter sur vous cette illustre victoire,
+À braver un vainqueur, à tirer vanité
+De ces justes refus qui ne m'ont point coûté :
+Je remplis mon devoir, et je me rends justice ;
+Je ne fais point valoir un pareil sacrifice.
+Portez ailleurs les dons que vous me proposez,
+Détachez-vous d'un coeur qui les a méprisés ;
+Et, puisqu'il faut toujours qu'Idamé vous implore,
+Permettez qu'à jamais mon époux les ignore.
+De ce faible triomphe il serait moins flatté
+Qu'indigné de l'outrage à ma fidélité.
+
+Il en est incapable ; et si dans les tourments
+La douleur égarait ses nobles sentiments,
+Si son âme vaincue avait quelque mollesse,
+Mon devoir et ma foi soutiendraient sa faiblesse ;
+De son coeur chancelant je deviendrais l'appui
+En attestant des noeuds déshonorés par lui.
+
+Il eut une vertu, seigneur, que je révère :
+Il pensait en héros, je n'agissais qu'en mère ;
+Et, si j'étais injuste assez pour le haïr,
+Je me respecte assez pour ne le point trahir.
+
+Je sais qu'ici tout tremble ou périt sous vos coups :
+Les lois vivent encore, et l'emportent sur vous.
+
+Il me faut donc choisir leur perte ou l'infamie !
+Ô pur sang de mes rois ! Ô moitié de ma vie !
+Cher époux, dans mes mains quand je tiens votre sort,
+Ma voix, sans balancer, vous condamne à la mort !
+
+Dans l'état où je suis c'est un malheur de plus.
+
+Arrête ; il ne l'est plus : y penser est un crime.
+
+Ah ! Dans ton infortune et dans mon désespoir,
+Suis-je encor ton épouse et peux-tu me revoir ?
+
+On t'a dit à quel prix ce tyran daigne enfin
+Sauver tes tristes jours, et ceux de l'orphelin ?
+
+Ordonne ; que veux-tu ? Que faut-il ?
+
+      Demeure.
+Me connais-tu ? Veux-tu que ce funeste rang
+Soit le prix de ma honte, et le prix de ton sang ?
+Penses-tu que je sois moins épouse que mère ?
+Tu t'abuses, cruel, et ta vertu sévère
+A commis contre toi deux crimes en un jour,
+Qui font frémir tous deux la nature et l'amour.
+Barbare envers ton fils, et plus envers moi-même,
+Ne te souvient-il plus qui je suis, et qui t'aime ?
+Crois-moi ; dans nos malheurs il est un sort plus beau,
+Un plus noble chemin pour descendre au tombeau.
+Soit amour, soit mépris, le tyran qui m'offense,
+Sur moi, sur mes desseins, n'est pas en défiance :
+Dans ces remparts fumants, et de sang abreuvés,
+Je suis libre, et mes pas ne sont point observés ;
+Le chef des coréens s'ouvre un secret passage,
+Non loin de ces tombeaux où ce précieux gage
+À l'oeil qui le poursuit fut caché par tes mains :
+De ces tombeaux sacrés je sais tous les chemins ;
+Je cours y ranimer sa languissante vie,
+Le rendre aux défenseurs armés pour la patrie,
+Le porter en mes bras dans leurs rangs belliqueux,
+Comme un présent d'un dieu qui combat avec eux.
+Nous mourrons, je le sais, mais tout couverts de gloire ;
+Nous laisserons de nous une illustre mémoire.
+Mettons nos noms obscurs au rang des plus grands noms,
+Et juge si mon coeur a suivi tes leçons.
+
+      J'ai fait ce que j'ai dû.
+Tremblante pour mon fils, sans force, inanimée,
+J'ai porté dans mes bras l'empereur à l'armée.
+Son aspect a d'abord animé les soldats :
+Mais Gengis a marché ; la mort suivait ses pas ;
+Et des enfants du nord la horde ensanglantée
+Aux fers dont je sortais m'a soudain rejetée.
+C'en est fait.
+
+L'un et l'autre bientôt voit son heure dernière.
+Si l'arrêt de la mort n'est point porté contre eux,
+C'est pour leur préparer des tourments plus affreux.
+Mon fils, ce fils si cher, va les suivre peut-être.
+Devant ce fier vainqueur il m'a fallu paraître ;
+Tout fumant de carnage, il m'a fait appeler,
+Pour jouir de mon trouble, et pour mieux m'accabler.
+Ses regards inspiraient l'horreur et l'épouvante.
+Vingt fois il a levé sa main toute sanglante
+Sur le fils de mes rois, sur mon fils malheureux.
+Je me suis en tremblant jetée au-devant d'eux ;
+Tout en pleurs, à ses pieds je me suis prosternée ;
+Mais lui, me repoussant d'une main forcenée,
+La menace à la bouche, et détournant les yeux,
+Il est sorti pensif, et rentré furieux ;
+Et s'adressant aux siens d'une voix oppressée,
+Il leur criait vengeance, et changeait de pensée ;
+Tandis qu'autour de lui ses barbares soldats
+Semblaient lui demander l'ordre de mon trépas.
+
+Non, ce féroce amour est tourné tout en rage.
+Ah ! Si tu l'avais vu redoubler mon outrage,
+M'assurer de sa haine, insulter à mes pleurs !
+
+Qu'il m'aime ou me haïsse, il est temps d'achever
+Des jours que, sans horreur, je ne puis conserver.
+
+      Quand le ciel en colère
+De ceux qu'il persécute a comblé la misère,
+Il les soutient souvent dans le sein des douleurs,
+Et leur donne un courage égal à leurs malheurs.
+J'ai pris, dans l'horreur même où je suis parvenue,
+Une force nouvelle, à mon coeur inconnue.
+Va, je ne craindrai plus ce vainqueur des humains ;
+Je dépendrai de moi : mon sort est dans mes mains.
+
+      Tu me rends ma faiblesse,
+Tu me perces le coeur. Ah ! Sacrifice affreux !
+Que n'avais-je point fait pour ce fils malheureux !
+Mais Gengis, après tout, dans sa grandeur altière,
+Environné de rois couchés dans la poussière,
+Ne recherchera point un enfant ignoré,
+Parmi les malheureux dans la foule égaré ;
+Ou peut-être il verra d'un regard moins sévère
+Cet enfant innocent dont il aima la mère :
+À cet espoir au moins mon triste coeur se rend ;
+C'est une illusion que j'embrasse en mourant.
+Haïra-t-il ma cendre, après m'avoir aimée ?
+Dans la nuit de la tombe en serai-je opprimée ?
+Poursuivra-t-il mon fils ?
+
+      Seigneur, il veut encor me voir !
+J'obéis, il le faut, je cède à son pouvoir.
+Si j'obtenais du moins, avant de voir un maître,
+Qu'un moment à mes yeux mon époux pût paraître,
+Peut-être du vainqueur les esprits ramenés
+Rendraient enfin justice à deux infortunés.
+Je sens que je hasarde une prière vaine :
+La victoire est chez vous implacable, inhumaine ;
+Mais enfin la pitié, seigneur, en vos climats,
+Est-elle un sentiment qu'on ne connaisse pas ?
+Et ne puis-je implorer votre voix favorable ?
+
+Dieu des infortunés, qui voyez mon outrage,
+Dans ces extrémités soutenez mon courage ;
+Versez du haut des cieux, dans ce coeur consterné,
+Les vertus de l'époux que vous m'avez donné.
+
+Ne punissez que moi ; c'est la grâce dernière
+Que j'ose demander à la main meurtrière
+Dont j'espérais en vain fléchir la cruauté.
+Éteignez dans mon sang votre inhumanité.
+Vengez-vous d'une femme à son devoir fidèle ;
+Finissez ses tourments.
+
+L'une et l'autre aujourd'hui serait trop condamnable ;
+Votre haine est injuste, et votre amour coupable ;
+Cet amour est indigne et de vous et de moi :
+Vous me devez justice ; et si vous êtes roi,
+Je la veux, je l'attends pour moi contre vous-même.
+Je suis loin de braver votre grandeur suprême ;
+Je la rappelle en vous, lorsque vous l'oubliez ;
+Et vous-même en secret vous me justifiez.
+
+Barbare !
+
+Eh bien ! Je tombe aux pieds de ce maître sévère :
+Le ciel l'a fait mon roi ; seigneur, je le révère :
+Je demande à genoux une grâce de lui.
+
+      Seigneur, qu'il soit permis
+Qu'en secret mon époux près de moi soit admis,
+Que je lui parle.
+
+      Écoutez ma prière.
+Cet entretien sera ma ressource dernière :
+Vous jugerez après si j'ai dû résister.
+
+Je renais, et je sens s'affermir dans mon sein
+Cette intrépidité dont je doutais encore.
+
+Ô toi, qui me tiens lieu de ce ciel que j'implore,
+Mortel plus respectable et plus grand à mes yeux
+Que tous ces conquérants dont l'homme a fait des dieux !
+L'horreur de nos destins ne t'est que trop connue ;
+La mesure est comblée, et notre heure est venue.
+
+      C'est en vain que tu voulus deux fois
+Sauver le rejeton de nos malheureux rois.
+
+      Que deviendra mon fils ?
+Pardonne encor ce mot à mes sens attendris,
+Pardonne à ces soupirs ; ne vois que mon courage.
+
+La mort la plus honteuse est ce qu'on te prépare.
+
+      Eh bien ! écoute-moi :
+Ne saurons-nous mourir que par l'ordre d'un roi ?
+Les taureaux aux autels tombent en sacrifice ;
+Les criminels tremblants sont traînés au supplice ;
+Les mortels généreux disposent de leur sort :
+Pourquoi des mains d'un maître attendre ici la mort ?
+L'homme était-il donc né pour tant de dépendance !
+De nos voisins altiers imitons la constance ;
+De la nature humaine ils soutiennent les droits,
+Vivent libres chez eux, et meurent à leur choix ;
+Un affront leur suffit pour sortir de la vie,
+Et plus que le néant ils craignent l'infamie.
+Le hardi japonais n'attend pas qu'au cercueil
+Un despote insolent le plonge d'un coup d'oeil.
+Nous avons enseigné ces braves insulaires ;
+Apprenons d'eux enfin des vertus nécessaires ;
+Sachons mourir comme eux.
+
+Tiens, sois libre avec moi ; frappe, et délivre-nous.
+
+      Déchire ce sein, ce coeur qu'on déshonore.
+J'ai tremblé que ma main, mal affermie encore,
+Ne portât sur moi-même un coup mal assuré.
+Enfonce dans ce coeur un bras moins égaré ;
+Immole avec courage une épouse fidèle ;
+Tout couvert de mon sang, tombe et meurs auprès d'elle ;
+Qu'à mes derniers moments j'embrasse mon époux ;
+Que le tyran le voie, et qu'il en soit jaloux.
+
+      Je le veux.
+
+      Tu m'offenses.
+Frappe, et tourne sur toi tes bras ensanglantés.
+
+      Frappe, dis-je...
+
+Nous délivrer de toi, finir notre misère,
+À tant d'atrocités dérober notre sort.
+
+      Que prétends-tu nous dire ?
+
+D'où vient que notre arrêt n'est pas encor porté ?
+
+Ciel ! Que viens-je d'entendre ? Hélas ! Puis-je vous croire ?
+
 Qui peut vous inspirer ce dessein ?
 
--*who_gengis
-      Vos vertus.
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asseli
+
+Eh ! Qui n'éprouve, hélas ! Dans la perte commune,
+Les tristes sentiments de sa propre infortune ?
+Qui de nous vers le ciel n'élève pas ses cris
+Pour les jours d'un époux, ou d'un père, ou d'un fils ?
+Dans cette vaste enceinte, au tartare inconnue,
+Où le roi dérobait à la publique vue
+Ce peuple désarmé de paisibles mortels,
+Interprètes des lois, ministres des autels,
+Vieillards, femmes, enfants, troupeau faible et timide,
+Dont n'a point approché cette guerre homicide,
+Nous ignorons encore à quelle atrocité
+Le vainqueur insolent porte sa cruauté.
+Nous entendons gronder la foudre et les tempêtes.
+Le dernier coup approche, et vient frapper nos têtes.
+
+On nomme ce tyran du nom de roi des rois.
+C'est ce fier Gengis-Kan, dont les affreux exploits
+Font un vaste tombeau de la superbe Asie.
+Octar, son lieutenant, déjà, dans sa furie,
+Porte au palais, dit-on, le fer et les flambeaux.
+Le Catai passe enfin sous des maîtres nouveaux :
+Cette ville, autrefois souveraine du monde,
+Nage de tous côtés dans le sang qui l'inonde ;
+Voilà ce que cent voix, en sanglots superflus,
+Ont appris dans ces lieux à mes sens éperdus.
+
+Quoi ! C'est lui dont les voeux vous furent adressés !
+Quoi ! C'est ce fugitif, dont l'amour et l'hommage
+À vos parents surpris parurent un outrage !
+Lui qui traîne après soi tant de rois ses suivants.
+Dont le nom seul impose au reste des vivants ?
+
+Les coréens, dit-on, rassemblaient une armée ;
+Mais nous ne savons rien que par la renommée,
+Et tout nous abandonne aux mains des destructeurs.
+
+Ah ! Reprenez plutôt cet empire suprême
+Qu'aux beautés, aux vertus, attacha le ciel même ;
+Ce pouvoir, qui soumit ce scythe furieux
+Aux lois de la raison qu'il lisait dans vos yeux.
+Longtemps accoutumée à dompter sa colère,
+Que ne pouvez-vous point, puisque vous savez plaire !
+
+Vous seule adouciriez le destin des vaincus :
+Dans nos calamités, le ciel, qui vous seconde,
+Veut vous opposer seule à ce tyran du monde ;
+Vous avez vu tantôt son courage irrité
+Se dépouiller pour vous de sa férocité.
+Il aurait dû cent fois, il devrait même encore,
+Perdre dans votre époux un rival qu'il abhorre ;
+Zamti pourtant respire après l'avoir bravé ;
+À son épouse encore il n'est point enlevé.
+On vous respecte en lui ; ce vainqueur sanguinaire
+Sur les débris du monde a craint de vous déplaire.
+Enfin, souvenez-vous que, dans ces mêmes lieux,
+Il sentit, le premier, le pouvoir de vos yeux :
+Son amour autrefois fut pur et légitime.
+
+Quoi ! Rien n'a résisté ! Tout a fui sans retour !
+Quoi ! Je vous vois deux fois sa captive en un jour !
+Fallait-il affronter ce conquérant sauvage ?
+Sur les faibles mortels il a trop d'avantage.
+Une femme, un enfant, des guerriers sans vertu !
+Que pouviez-vous ? Hélas !
+
+      Ainsi donc ce malheureux enfant
+Retombe entre ses mains, et meurt presque en naissant :
+Votre époux avec lui termine sa carrière.
+
+Pensez-vous qu'il donnât un ordre si funeste ?
+Il laisse vivre encor votre époux qu'il déteste ;
+L'orphelin aux bourreaux n'est point abandonné.
+Daignez demander grâce, et tout est pardonné.
+
+Et vous doutez encor d'asservir ses fureurs ?
+Ce lion subjugué, qui rugit dans sa chaîne,
+S'il ne vous aimait pas, parlerait moins de haine.
+
+Ah ! Que résolvez-vous ?
+
+Mais ce fils, cet objet de crainte et de tendresse,
+L'abandonnerez-vous ?
+
+
+**** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_etan
+
+Vous êtes observés ; la fuite est impossible ;
+Autour de notre enceinte une garde terrible
+Aux peuples consternés offre de toutes parts
+Un rempart hérissé de piques et de dards.
+Les vainqueurs ont parlé ; l'esclavage en silence
+Obéit à leur voix dans cette ville immense ;
+Chacun reste immobile et de crainte et d'horreur
+Depuis que sous le glaive est tombé l'empereur.
+
+      De ce nouveau carnage
+Qui pourra retracer l'épouvantable image ?
+Son épouse, ses fils sanglants et déchirés...
+Ô famille de dieux sur la terre adorés !
+Que vous dirai-je ? Hélas ! Leurs têtes exposées
+Du vainqueur insolent excitent les risées,
+Tandis que leurs sujets, tremblant de murmurer,
+baissent des yeux mourants qui craignent de pleurer.
+De nos honteux soldats les alfanges errantes
+À genoux ont jeté leurs armes impuissantes.
+Les vainqueurs fatigués dans nos murs asservis,
+Lassés de leur victoire et de sang assouvis,
+Publiant à la fin le terme du carnage,
+Ont, au lieu de la mort, annoncé l'esclavage.
+Mais d'un plus grand désastre on nous menace encor ;
+On prétend que ce roi des fiers enfants du nord,
+Gengis-Kan, que le ciel envoya pour détruire,
+Dont les seuls lieutenants oppriment cet empire,
+Dans nos rs autrefois inconnu, dédaigné,
+Vient, toujours implacable, et toujours indigné,
+Consommer sa colère et venger son injure.
+Sa nation farouche est d'une autre nature
+Que les tristes humains qu'enferment nos remparts :
+Ils habitent des champs, des tentes et des chars ;
+Ils se croiraient gênés dans cette ville immense ;
+De nos arts, de nos lois la beauté les offense.
+Ces brigands vont changer en d'éternels déserts
+Les murs que si longtemps admira l'univers.
+
+Seigneur, votre pitié ne peut le conserver.
+Ne songez qu'à l'état, que sa mort peut sauver :
+Pour le salut du peuple il faut bien qu'il périsse.
+
+Dans nos communs malheurs il est mon seul appui :
+Je pleure la patrie, et n'espère qu'en lui.
+
+Je le jure, et je veux, dans ces murs désolés,
+Voir nos malheurs communs sur moi seul assemblés,
+Si, trahissant vos voeux, et démentant mon zèle,
+Ou ma bouche ou ma main vous était infidèle.
+
+De vos yeux attendris je vois des pleurs couler.
+Hélas ! De tant de maux les atteintes cruelles
+Laissent donc place encore à des larmes nouvelles !
+
+On presse ; et cet enfant, qui vous est étranger...
+
+      Notre roi fut son père ;
+Je le sais, j'en frémis : parlez, que dois-je faire ?
+
+Et que deviendrez-vous sans ce gage funeste ?
+Que pourrez-vous répondre au vainqueur irrité ?
+
+Vous, seigneur ?
+
+Eh bien ?
+
+Votre fils !
+
+Ah ! Que m'ordonnez-vous ?
+
+Vous m'avez arraché ce serment téméraire.
+À quel devoir affreux me faut-il satisfaire ?
+J'admire avec horreur ce dessein généreux ;
+Mais si mon amitié...
+
+      Il faut obéir.
+
+Votre malheureux fils...
+
+      Les tombeaux de ses pères
+Cachent à nos tyrans sa vie et ses misères.
+Il vous devra des jours pour souffrir commencés ;
+Présent fatal, peut-être !
+
+Osez-vous en ces lieux gémir en liberté ?
+
+On a ravi son fils dans sa fatale absence :
+À nos cruels vainqueurs on conduit son enfance ;
+Et soudain j'ai volé pour donner mes secours
+Au royal orphelin dont on poursuit les jours.
+

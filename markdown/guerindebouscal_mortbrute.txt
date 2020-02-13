@@ -1,6 +1,6 @@
 ---
 identifier: guerindebouscal_mortbrute  
-creator: Guérin de Bouscal, Guyon  
+creator: Guérin de Bouscal, Guyon ; Georges Forestier.  
 date: 1637  
 title: La Mort de Brute et de Porcie, ou La vengeance de la mort de César. Tragédie  
 ---

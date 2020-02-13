@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_charmedelavoix  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1658  
 title: Le Charme de la voix. Comédie  
 ---

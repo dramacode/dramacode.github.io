@@ -1,6 +1,6 @@
 ---
 identifier: lagrangechancel_oresteetpilade  
-creator: La Grange-Chancel, François-Joseph de  
+creator: La Grange-Chancel, François-Joseph de ; Georges Forestier.  
 date: 1697  
 title: Oreste et Pilade. Tragédie  
 ---

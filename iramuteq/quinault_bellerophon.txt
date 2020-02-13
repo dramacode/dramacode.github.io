@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1671
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proetus
 
--*who_proetus
 Licas, il est certain, pour me favoriser
 La fortune propice a semblé s'épuiser
 C'était peu de jouir des droits héréditaires
@@ -18,21 +17,6 @@ Pour tout dire en un mot, j'épouse ce que j'aime ;
 Et pour me rendre heureux dans sa possession,
 L'amour est de concert avec l'ambition.
 
--*who_licas
-Si de votre destin la gloire est peu commune,
-Vous la tenez de vous plus que de la Fortune.
-Combien de rois jaloux ont voulu vous l'ôter ?
-Quels efforts pour les vaincre a-t-il fallu tenter ?
-Le ciel même irrité plutôt que favorable,
-A fait naître au-dessus de tout l'effort humain,
-Un prodige au-dessus de tout l'effort humain,
-Dont l'avide fureur porte un trépas certain ;
-Qui tantôt dans nos bois, tantôt sur le rivage,
-Détruit tout remplit tout d'horreur et de carnage,
-Et par l'effroi public a fait jusqu'à ce jour
-Retarder le bonheur qui flatte votre amour.
-
--*who_proetus
 La colère du Ciel par vos yeux adoucie
 Commence à dissiper l'effroi de la Lycie ;
 Et si l'on croit des Dieux les Oracles sacrés
@@ -72,36 +56,14 @@ Et bientôt mon amour pourra tout obtenir.
 Alors pour mon ami j'espère avec adresse...
 Mais il vient.
 
-**** *book_ *id_I02 *act_I *date_1671
-
--*who_bellerophon
-      Trouvez bon, Seigneur, que l'on nous laisse.
-
--*who_proetus
 D'où naissent ces soupirs, et ces regards troublés ?
 
--*who_bellerophon
-Seigneur...
-
--*who_proetus
       Béllérophon, expliquez-vous, parlez.
 Apprenez-moi quel trouble ainsi vous peut surprendre.
+B
 
--*who_bellerophon
-Héla ! Seigneur, comment pourrai-je vous l'apprendre,
-Et malgré l'amitié qui m'attache en ce lieu,
-Comment pourrai-je enfin, Seigneur, vous dire adieu.
-
--*who_proetus
 Adieu ! Dites-vous ?
 
--*who_bellerophon
-      J'en frémis, l'en soupire,
-J'en ai le cœur percé, mais il faut vous le dire :
-Il le faut en dépit de mes plus doux souhaits,
-Il vous faut même enfin dire adieu pour jamais.
-
--*who_proetus
 Ainsi, cruel ami, dans un temps d'allégresse
 Vous voulez donc troubler ma joie et ma tendresse ?
 Et ravir aux douceurs dont je m'étais flatté
@@ -112,37 +74,14 @@ D'un bonheur qui pour moi n'a rien qui soit si doux
 Que l'espoir de pouvoir l'étendre jusqu'à vous ?
 De vous faire épouser une princesse aimable...
 
--*who_bellerophon
-Ah ! Cessez de flatter un ami misérable ;
-Philonoé mérite et peut choisir un roi,
-Et son choix est un bien qui n'est pas fait pour moi.
-
--*who_proetus
 Mais quel dessein étrange à partir vous engage ?
 Quel soin ...
 
--*who_bellerophon
-      Dispensez-moi d'en dire davantage ;
-Je vous quitte, il le faut, et pour comble d'ennuis,
-Vous dire adieu, Seigneur, est tout ce que je puis.
-
--*who_proetus
 Est-ce là tout le prix d'une amitié si rare ?
 Béllérophon ainsi d'avec moi se sépare ?
 Il a quelque secret qu'il refuse à ma foi ?
 Il me quitte, il me fuit, sans me dire pourquoi ?
 
--*who_bellerophon
-N'en prenez point, Seigneur, de soupçon qui m'offense ;
-C'est votre intérêt seul qui m'engage au silence ;
-Accablé de chagrins qui me font éloigner.
-Je vous les cache exprès pour vous les épargner.
-Jouissez d'un bonheur, et tranquille, et durable,
-N'entrez point, s'il se peut, dans tout ce qui m'accable,
-Goûtez en paix les biens qui vont combler vos vœux,
-Et ne vous chargés point des maux d'un malheureux.
-
--*who_proetus
 En pouvez-vous avoir sans que je les partage ?
 Entre de vrais amis toute réserve outrage,
 Et la tendre amitié doit rendre plus jaloux,
@@ -150,48 +89,14 @@ Du partage des maux, que des biens les plus doux.
 Ne me dérobez point la part que j'y dois prendre.
 Pouvez-vous contre mou si longtemps vous défendre ?
 
--*who_bellerophon
-Encore un coup, Seigneur, gardez de trop savoir,
-Et ne vous servez pas de tout votre pouvoir.
-Je n'ai que trop de peine avec vous à me taire,
-C'est un fardeau pour moi qu'une secret à vous faire,
-Et mon cœur trop à vous pour vous être fermé,
-N'est à suivre vos vœux que trop accoutumé.
-
--*who_proetus
 Dites donc tout.
 
--*who_bellerophon
-      Hé bien...
-
--*who_proetus
       Votre âme encore hésite ?
 
--*who_bellerophon
-Le reine votre épouse approche, et je vous quitte.
-
--*who_proetus
 Quoi ? Vous me quitterez sans m'avoir éclairci ?
 
-**** *book_ *id_I03 *act_I *date_1671
-
--*who_stenobee
-Quoi ? Béllérophon vous me quitte ainsi ?
-
--*who_proetus
 Madame ...
 
--*who_stenobee
-      Allez, Seigneur, suivez-le sans contrainte ;
-Je ne vous prétends pas retenir par ma plainte.
-Je sais ce que je suis, et ce que je vous dois :
-Des serments solennels vous engagent ma foi :
-À votre ambassadeur pour vous je l'ai donnée,
-Rien ne peut plus rien rompre notre hyménée ;
-Et déjà comme époux vous pouvez librement
-Vous dispenser pour moi des devoirs d'un amant.
-
--*who_proetus
 Connaissez mieux mon cœur, et l'ardeur qui le presse,
 Si j'aime mon ami, j'adore ma princesse ;
 Et ce que l'amitié sur moi peut en ce jour,
@@ -200,23 +105,8 @@ Béllérophon, Madame, à partir se dispose,
 Et pour dernière peine il m'en cache la cause.
 Souffrez que je le suive.
 
--*who_stenobee
-      Épargnez-vous ce soin :
-Vous pouvez tout apprendre, et sans parler plus loin.
-Je sais ce qui e chasse, et sans aucun mystère,
-Près d'être tout à vous je ne veux ne vous rien taire.
-
--*who_proetus
 Quoi, Madame, serait-ce un ordre exprès du roi ?
 
--*who_stenobee
-Seigneur, vous le savez, le roi se fie à moi :
-À me croire aisément sa bonté le dispose :
-Sur moi des plus grands soins son âge se repose ;
-Et si votre ami part, j'avouerai sans détour,
-Que c'est moi qui l'oblige à quitter cette cour.
-
--*who_proetus
 Quoi ? Vous-même m'ôtez un ami si fidèle ?
 A ce qui m'est si cher vous seriez si cruelle ?
 Ah ! Que Béllérophon par un zèle discret,
@@ -227,7 +117,588 @@ Mais quel crime est le sien ? Pour vous, pour vos états,
 Voyez ce qu'il a fait dans les derniers combats ?
 Voyez quelle est sa gloire ? Et quelle haute estime...
 
--*who_stenobee
+C'est pour Béllérophon une maxime veine ;
+Je connais sa vertu, j'en répondrai sans peine ;
+Et son crédit ici fut-il encore plus grand,
+L'amitié qui nous lie en est un sûr garant,
+Cette tendre amitié pour lui vous sollicite...
+
+N'accusez point l'amour, il a fait son devoir,
+L'empire de mon cœur est en votre pouvoir ;
+L'amitié n'ôte rien à vos droits sur mon âme,
+C'est un surcroît d'ardeur qui fait croître ma flamme,
+J'en sais mieux vous aimer, et toujours seulement
+L'ami le plus sensible en est plus tendre amant.
+
+Le mien est tout à vous.
+
+Enfin le roi, Madame, a choisi la journée
+Où se doit achever notre heureux hyménée :
+Il veut que dans trois jours le grand jour que j'attends
+Rende ma joie entière et tous mes vœux contents.
+Les Dieux mêmes d'accord du bonheur que j'espère
+Ont promis de nouveau d'apaiser leur colère,
+Et de nous garantir du monstre furieux
+Dont la rage a versé tant de sang en ces lieux.
+Avec soin à l'envi toute la cour s'apprête
+A redoublé l'éclat d'une si belle fête,
+Chacun de mon bonheur semble faire le sien...
+
+Je sais l'excès d'honneur que vous lui vouliez faire.
+Je connais tout le prix d'une faveur si chère ;
+Mais je n'ose, Madame, oublier qu'aujourd'hui
+Vous m'avez défendu de vous parler de lui.
+J'ai cru que vos bontés après cette défense
+Pour tout remerciement demandaient mon silence,
+Et j'ai craint d'être ingrat plus que reconnaissant
+Si je répondais mieux qu'en vous obéissant.
+Je ne vous dirai rien dont vous puissiez vous plaindre,
+Et puisque votre haine a tant pu se contraindre,
+Il est bien juste aussi qu'en mon cœur à son tourne
+L'amitié se contraigne en faveur de l'amour.
+
+Non, Madame, pour peu que vous puissiez souffrir...
+
+Si mon soin déplaît, je consens à ma taire.
+
+Béllérophon m'est cher, et je plains son malheur...
+
+Que sachant votre haine il avait peine à croire
+Que vous l'eussiez jugé digne de tant de gloire,
+Et craignait d'abuser dans un espoir si doux
+D'un effort que pour moi vous faisiez malgré vous.
+
+      Il ne m'est pas possible
+D'exprimer à quel point il y paraît sensible.
+Quelques peines qu'il trouve en son bannissement,
+Vous voir son ennemie, est son plus grand tourment.
+Il est au désespoir d'avoir pu vous déplaire,
+Il sent tous ses malheurs moins que votre colère ;
+Et vous l'auriez, Madame, à demi consolé
+Si sans l'avoir haï vous l'aviez exilé.
+
+Malgré votre rigueur, il ne parle de vous
+Que d'un air à fléchir le plus mortel courroux.
+Il n'échappe à sa plainte aucun mot qui n'exprime
+Le plus profond respect, et la plus haute estime ;
+Et sans vous accuser de lui faire aucun tort
+Il se plaint moins de vous que de son mauvais sort.
+
+      Je n'en suis assez dire.
+Madame, plut aux Dieux qu'avant qu'il dut partir
+Vous-même à l'écouter vous puissiez consentir ;
+Je suis sûr que votre âme en serait attendrie,
+Fut-elle contre lui mille fois plus aigrie :
+Vous ne le pourriez voir sans le croire innocent...
+
+Vous semblez vous troubler ?
+
+Que mon bonheur est grand ! Quelle douceur parfaite
+De voir avec l'amour l'amitié satisfaite !
+
+Près de traîner ailleurs une mourante vie
+Il n'a point de plus forte et de plus chère envie.
+S'excuser près de vous est tout ce qu'il prétend ;
+S'il part sans votre haine il part assez content.
+Chassez-le s'il le faut, mais souffre qu'il vous voit.
+Et qu'il emporte au moins cette dernière joie :
+Pour unique faveur c'est tout ce qu'aujourd'hui
+L'amour et l'amitié vous demandent pour lui.
+
+Peut-il venir enfin, Madame ?
+
+Par quels remerciements...
+
+      On vient de me l'apprendre.
+Et si j'ose en juger sur ce que je lui dois
+C'est pour Béllérophon qu'elle entretient le roi.
+Mais après ses bontés, je devrai tout aux vôtres.
+
+Votre sœur favorable, enfin, à ma prière
+À mon heureux mai rend son estime entière.
+Et si dans sa colère elle même aujourd'hui
+A bien pu proposer votre hymen avec lui,
+Après avoir forcé sa colère à s'éteindre,
+S'il ne craint rien de vous, il n' plus rien à craindre.
+
+Et c'est maintenant qu'il m'est permis de dire
+Qu'il ne manque plus rien à ce que je désire.
+Et qu'enfin s'il peut être un bonheur achevé,
+C'est moi qu'aujourd'hui les Dieux l'ont réservé.
+Je sens dans tous mes vœux mon âme satisfaite ;
+Mais puisque c'est par vous que ma joie est parfaite,
+J'aurai soin du bonheur de qui me rend heureux
+Et qu'il ne manque rien au comble de vos vœux.
+En faveur d'un ami je veux que tout conspire,
+Il n'a qu'un seul défaut, c'est qu'il est sans empire.
+
+Un si parfait ami m'est plus cher que moi-même,
+C'est être heureux deux fois que l'être en ce qu'on aime,
+Et j'espère obliger votre charmante sœur
+À souffrir que je cède un trône en sa faveur.
+Je prétends couronner une flamme si belle...
+Mais j'aperçois la reine , allons au devant d'elle.
+
+Enfin vous avez vu Béllérophon.
+
+Madame, quel chagrin se montre dans vos yeux ?
+Mon amour ne peut-il être encore sans alarmes !
+Vous fuyez mes regards, vous me cachez vos larmes !
+Peut-on savoir d'où naît le trouble où je vous vois ?
+
+Quel déplaisir secret peut donc tant vous saisir ?
+
+Vous savez l'intérêt que nous y devons prendre ?
+
+      Achevez !
+
+Qu'a-t-il pu dire enfin ? Vous pouvez nous l'apprendre ?
+
+Et la reine...
+
+Quoi ! Ni le nom de sœur, ni le titre d'époux,
+N'obtiendront rien...
+
+Il m'importe, il est doux avec ce que l'on aime,
+De pouvoir partager jusqu'à la douleur même.
+
+Non Madame, avec vous il nous plaît de souffrir.
+
+Au nom du feu sacré qui déjà nous assemble.
+
+Nous vous promettons tout, vous n'avez qu'à parler.
+
+      Dieux ! Rien n'est plus certain,
+Je reconnais ce chiffre, et ces mots de sa main.
+Je sais qu'en ma faveur rien ne vous sollicite,
+Que pour vous mériter il faut être un grand roi ;
+Mais si l'excès d'amour tenait lieu de mérite,
+Vous ne seriez jamais qu'à moi.
+
+      L'ingrat !
+
+J'en suis confus, Madame, et je cours de ce pas
+Vous venger par ma main du plus grand des ingrats,
+A tant de droits trahis i faut que je l'immole.
+
+Mais que pouvez-vous craindre ?...
+
+Tout mon sang ne vaut pas les pleurs que vous versez,
+Commandez seulement, Madame, c'est assez,
+Et pour me retenir, pour m'arracher les armes,
+Il suffit d'un regard, et c'est trop de vos larmes.
+
+Qu'un malheureux tiré d'exil et de misère,
+Favorisé, comblé d'une amitié si chère,
+Qu'un ingrat que mes soins s'empressaient de placer
+Sur un trône où pour lui j'aimais à renoncer,
+Avec tant de fureur, avec tant d'artifice,
+Pour prix de mes bontés lâchement me trahisse ?
+Que m'ôtant ce qu'en lui je n'ai que trop aimé
+Il veuille encore m'ôter l'objet qui m'a charmé ?
+Et cherche à me blesser d'une rage inflexible
+Par tout ce qu'en mon cœur il sait de plus sensible.
+Hélas ! Il est certain, sans ce coup rigoureux
+Pour un simple mortel j'eusse été trop heureux.
+Ah ! Que j'éprouve bien que par des lois trop dures,
+Les humains n'ont jamais des douceur toutes pures,
+Et que toujours les Dieux du vrai bonheur jaloux
+Mêlent quelque amertume à nos besoins les plus doux.
+
+C'est de ma propre pain qu'il aurait du périr.
+
+Qu'il aille donc périr errant loin de nos yeux,
+Et qu'un d'un nouveau monstre il délivre ces lieux ;
+Qu'odieux à lui-même et sans aucun asile...
+Ah d'un excès d'horreur je me sens immobile,
+Troublé de voir le traître... il vient, fuyez.
+
+Ah cherches-tu perfide encore à m'éblouir ?
+Et jusques à deux fois prétends-tu me trahir ?
+
+      Et peux-tu l'oublier ?
+Va traître, tout ton sang ne saurait l'expier.
+
+Dérobez-vous, Princesse, à des malheurs nouveaux.
+Sauvez-vous de ces lieux, fuyez sur mes vaisseaux.
+Fuyez un peuple aveugle, et dont l'injuste envie...
+
+      Apprenez donc le reste.
+Averti que mes gens trop touchés de son sort
+Courraient pour le sauver sur le chemin du fort,
+J'ai cru devoir moi-même aller par ma présence
+De leur zèle indiscret calmer la violence.
+J'ai pris soin de les suivre, et les faisant rentrer,
+Dans la ville après eux j'allais me retirer ;
+Lorsque j'ai vu le monstre, et n'ai pu me défendre
+D'admirer qu'un perfide osât lui seul l'attendre.
+Ses gardes plein d'effroi l'ayant d'abord quitté,
+Le bruit de son trépas a partout éclaté ;
+Et contre un ennemi jusqu'alors indomptable,
+Lui-même a dû juger sa perte inévitable.
+Cependant, il l'attaque avec un dard lancé
+Qui, perçant l'œil du monstre, y demeure enfoncé.
+Son sang qui par ce coup jaillit en abondance,
+L'achevant d'aveugler, détourne sa vengeance,
+Sa victime a couvert par son aveuglement
+À sa fureur errante échappe heureusement.
+Ce grand corps sans rien voir, s'élance à l'aventure,
+Il se veut prendre au dard qu'il sent dans sa blessure ;
+Mais n'y pouvant atteindre, il se heurte, il se mord,
+Il s'affaiblit toujours par ce qu'il fait d'effort,
+Et plus en s'agitant sa rage en vain s'essaye,
+Plus le dard qui pénètre approfondit sa plaie.
+
+Loin d'éviter le monstre, il marche sur ses pas.
+Il le voit qui revient, il l'attend au passage ;
+Observe un faible endroit, joint l'adresse au courage ;
+Un javelot à la main, à côté se glissant,
+Choisit le flanc qu'il montre, et le perce en passant.
+La coup en est mortel ; le monstre qui se roule
+S'efforce d'avaler tout son sang qui s'écoule,
+Épuise à se débattre un reste de vigueur,
+Et tombe enfin sans vie, au pieds de son vainqueur.
+La peuple en haut des tours, témoin de sa victoire,
+Par de longs cris de joie célèbre la gloire.
+Il sort, il court en foule, où ce grand corps sanglant
+Tout mort qu'il est, étonne, et n'est vu qu'en tremblant.
+Plus à voir ce prodige, on s'effraye, on se trouble,
+Plus l'admiration pour le vainqueur redouble,
+Chacun pour l'honorer s'efforce d'enrichir ;
+Tel assure avoir vu des Dieux le secourir,
+Et venir assister ses forces inégales,
+L'un d'un cheval volant, l'autre d'armes fatales,
+Tant en des cœurs surpris d'un grand événement
+La superposition s'insinue aisément.
+L'ardeur du peuple enfin lui devient si forte,
+Que jusques au palais en triomphe on le porte,
+Et qu'on entend partout crier avec chaleur
+Qu'il faut que votre hymen couronne sa valeur.
+De quelle joie, ô Dieux ! Paraissez-vous capable ?
+Quelque heureux qu'il puisse être, en est-il moins coupable,
+Nous a-t-il moins trahis ? Pouvez-vous l'oublier !
+
+      Parle, quels cris percent jusqu'en ces lieux.
+
+      Achève.
+
+      Ah Dieux !
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerophon
+
+      Trouvez bon, Seigneur, que l'on nous laisse.
+
+Seigneur...
+
+Héla ! Seigneur, comment pourrai-je vous l'apprendre,
+Et malgré l'amitié qui m'attache en ce lieu,
+Comment pourrai-je enfin, Seigneur, vous dire adieu.
+
+      J'en frémis, l'en soupire,
+J'en ai le cœur percé, mais il faut vous le dire :
+Il le faut en dépit de mes plus doux souhaits,
+Il vous faut même enfin dire adieu pour jamais.
+
+Ah ! Cessez de flatter un ami misérable ;
+Philonoé mérite et peut choisir un roi,
+Et son choix est un bien qui n'est pas fait pour moi.
+
+      Dispensez-moi d'en dire davantage ;
+Je vous quitte, il le faut, et pour comble d'ennuis,
+Vous dire adieu, Seigneur, est tout ce que je puis.
+
+N'en prenez point, Seigneur, de soupçon qui m'offense ;
+C'est votre intérêt seul qui m'engage au silence ;
+Accablé de chagrins qui me font éloigner.
+Je vous les cache exprès pour vous les épargner.
+Jouissez d'un bonheur, et tranquille, et durable,
+N'entrez point, s'il se peut, dans tout ce qui m'accable,
+Goûtez en paix les biens qui vont combler vos vœux,
+Et ne vous chargés point des maux d'un malheureux.
+
+Encore un coup, Seigneur, gardez de trop savoir,
+Et ne vous servez pas de tout votre pouvoir.
+Je n'ai que trop de peine avec vous à me taire,
+C'est un fardeau pour moi qu'une secret à vous faire,
+Et mon cœur trop à vous pour vous être fermé,
+N'est à suivre vos vœux que trop accoutumé.
+
+      Hé bien...
+
+Le reine votre épouse approche, et je vous quitte.
+
+Prêt à quitter ces lieux par un ordre sévère,
+Sur le point d'y laisser tout ce qui peut me plaire,
+Un malheureux banni sans secours, sans espoir,
+Pour dernière douceur peut-il oser vous voir ?
+Puis-je espérer de vous un moment pour m'entendre ?
+
+La reine vous a vue, et j'ai lieu de trembler.
+
+      Ah ! Quoi qu'elle vous die,
+De grâce au moins songez qu'elle est mon ennemie,
+Et que de mon exil la rigoureuse loi
+Doit rendre un peu suspect son rapport contre moi.
+
+Ah Madame !
+
+Ah plutôt je crains bien qu'elle en ai trop peu.
+Oui, Madame, je crains qu'elle n'ait su vous taire,
+La raison qui m'engage au choix que j'ose faire,
+Et me fait préférer à votre hymen charmant
+L'affreuse cruauté de mon bannissement.
+Après tant de rigueur, une offre si propice
+M'a du me faire d'abord craindre quelque artifice :
+J'ai dû me défier d'un si grand changement,
+D'une haine si forte éteinte en ce moment,
+J'ai craint en m'engageant dans un choix téméraire
+Que me trouvant sans crime on ne voulut m'en faire,
+J'ai craint un piège offert sous un appas si doux,
+Mais si j'ai craint pour moi, c'est bien moins que pour vous.
+La reine votre sœur peut être assez cruelle
+Pour aimer à vous voir toujours au dessous-d'elle,
+Et pour songer plutôt à chercher un moyen
+D'abaisser votre sort que d'élever le mien.
+Je me suis fait justice, et j'ai dû vous la rendre.
+Je sais qu'à moins d'un trône on vous fait trop descendre,
+J'ai mieux aimé pour moi voir tout espoir perdu,
+Qu'être heureux aux dépens du rang qui vous est dû
+Je n'ai pu jusqu'à vous rejeter ma disgrâce,
+Et quelque affreux que soit le sort qui me menace,
+Si vous en accablant je l'avais évité,
+Je me reprocherais de l'avoir mérité.
+
+On doit peu me louer d'un choix si magnanime.
+La générosité n'est pas ce qui m'anime ;
+Je n'en sens point assez pour perdre un bien si doux,
+Et tenir contre un charme aussi puissant que vous.
+Je n'ai pas tant de force, et si j'ose tout dire,
+Il n'est point de vertu qui seule y put suffire,
+Et pour ce grand effort, dans mon cœur en ce jour,
+La gloire avait besoin du secours de l'amour.
+Ce nom fatal m'échappe m'échappe, il vous trouble, il vous blesse ;
+De grâce pardonnez ce reste de faiblesse,
+Un amour qui s'immole, et qui n'espère rien,
+Croit être dispensé de se cacher si bien.
+Du moins, si cet aveu contre moi vous anime,
+Songez que le supplice a précédé le crime :
+Qu'avec le châtient le courroux doit finir,
+Et qu'on plaint un coupable en le voyant punir.
+Vous ne répondrez point ? Est-ce pour me confondre ?
+
+Hélas ! Vous m'écoutez pour la dernière fois.
+
+M'en pourriez-vous blâmer . Et se pourrait-il faire
+Que mon choix méritât d'avoir pu vous déplaire ?
+Qu'en secret votre cœur n'en fut pas satisfait ?
+
+Hé ! M'était-il permis d'en oser faire un autre ?
+D'oser à mon bonheur sacrifier le vôtre ?
+Et quand je me verrais digne d'un sort si doux,
+Devais-je oser jamais le tenir que de vous ?
+C'est un bien dont je sais le prix mieux que personne ;
+À peine en est-on digne avec une couronne,
+Sans un trône à donner on ne peut l'acquérir,
+Et je n'ai que mon cœur à vous pouvoir offrir.
+
+Que dites-vous, Madame ? Et n'avez-vous point peur
+Qu'un aveu si charmant ne tente trop mon cœur ?
+Vous assurez-vous tant d'un choix dont je soupire ?
+Et ne craignez-vous point que je n'ose m'en dédire ?
+Mon devoir est sans force, il vient de s'épuiser ;
+Et si d'une autre main j'ai pu vous refuser,
+Je ne répondrais pas de mon amour extrême
+Jusques à vous pouvoir refuser de vous-même ?
+Dieux ! Comment à ce choix ai-je pu consentir ?
+Hélas ! Si vous pouviez m'en laisser repentir ?
+Si pour prix de l'effort que s'est fait ma tendresse
+Je pouvais obtenir l'aveu de ma faiblesse....
+
+      Vous me quittez sans me rien dire...
+
+Que me dit ce soupir ?
+
+Obtiens-je enfin de vous l'aveu que je désire ?
+
+Ne m'a-t-on point flatté d'une vaine espérance ?
+Pourrez-vous bien, Madame, endurer ma présence ?
+Que me veut dire encore le trouble où je vous vois !
+Peut-être avez-vous cru voir Proetus avec moi.
+Parlez, pour me souffrir souhaitez vous qu'il vienne ?
+Sa présence à vos yeux peut adoucir la mienne,
+Je n'en dois pas douter, je vous entends trop bien...
+
+Si Proetus ne vient pas ce n'est qu'à ma prière.
+J'ai voulu vous laisser liberté toute entière,
+Et ne pas abuser de ce qu'en ma faveur
+L'intérêt d'un ami pourrait sur votre cœur.
+Si l'on m'a près de vous noirci de quelque crime
+Qui vous ait fait juger mon exil légitime,
+Je sens trop d'innocence, et m'y dois trop fier
+Pour prendre aucun secours pour me justifier.
+Et si vous m'exilez par votre propre haine
+Je ne veux exiger rien qui vous fasse peine,
+Je pars quoi que je quitte en partant de ces lieux
+Ce qui m'est le plus doux et le plus précieux.
+
+Je ne me pique pas de tant de fermeté,
+Et ne suis point héros jusqu'à la dureté.
+Je sens si bien l'horreur du sort qui me menace,
+Qu'au lieu de mon exil la mort me ferait grâce ;
+Et peut-être en dépit de votre inimitié
+Si vous saviez mes maux en auriez-vous pitié.
+
+Toute votre pitié ne m'est que trop bien due,
+Et rien ne manque aux maux dont j'ai l'âme abattue
+Plaignez un malheureux qui ne peut l'être plus.
+
+On peut être à la guerre intrépide, invincible,
+Et n'être que trop tendre ailleurs et trop sensible.
+Où le cœur est charmé la valeur perd ses droits,
+Et l'âme la plus forte a de faibles endroits.
+
+Quand on se sent touché d'une téméraire amour,
+Le respect permet-il de l'oser mettre au jour ?
+
+Ah si vous excusiez l'audace de mes vœux,
+Ils n'auraient rien à craindre, ils seraient trop heureux ;
+Mais si vous m'exciter que faut-il que j'espère ?
+
+C'est beaucoup d'engager votre piété propice
+À révoquer l'arrêt d'un si cruel supplice :
+Mais n'en puis-je espérer rien encore de plus doux ?
+
+Que ne pouvez-vous point ? Mon espérance est vaine
+Si votre haine encore...
+
+Ah souffrez qu'à vos pieds après cette assurance,
+J'ose exprimer ma joie, et ma reconnaissance ;
+Que j'y laisse éclater mes transports les plus doux ;
+Qu'enfin, pour votre sœur mon amour..
+
+      Après tant de bontés que je n'osais attendre,
+De mes remerciements vouez-vous vous défendre ?
+Lorsque je vous dois tout puis-je avec moins d'excès...
+
+Je sais votre crédit sur le roi votre père,
+Ne craignant rien de vous qui peut m'être contraire ?
+Quel obstacle nouveau peut troubler mon bonheur ?
+
+Ah n'appréhendez rien si c'est là votre crainte ;
+J'avais le même effroi tous mes vœux incertains
+N'osaient même accepter mon bonheur de vos mains
+Et vous pardonnez bien à mon amour extrême
+De l'avoir attendu du choix ce que j'aime.
+Votre adorable sœur, enfin, a la bonté
+De vouloir faire grâce à ma témérité ;
+Elle renonce au trône où son destin l'appelle
+Pour régner sur un cœur amoureux et fidèle,
+Et l'excès de l'amour que j'ai pour ses appas
+Répare le défaut du rang que je n'ai pas.
+C'est à vous maintenant qu'il faut que je m'adresse ;
+Et si dans mon bonheur votre âme s'intéresse,
+Si du plus tendre amour les transports les plus grands...
+
+Je dois tout espérer et vous m'êtes propice ;
+Mais de grâce empêchez que mon espoir languisse ;
+Pressez l'heureux effet que j'attends de vos soins ;
+C'est beaucoup aux amants qu'un moment plus ou moins.
+Si vous saviez l'ardeur qu'un si beau feu m'inspire...
+
+Je vous cherchais partout avec impatience.
+Et manquait à ma joie encore votre présence.
+Et j'ai besoin pour être entièrement heureux
+De la part qu'avec moi vous y prendrez tous deux.
+Qu'un doux ravissement sur tous mes sens préside !
+Belle princesse, enfin...
+
+Moi ! Perfide ! Et pour vous ! Quel soupçon de ma foi...
+
+Me quitter sans m'entendre !
+
+Princesse, avez vous peur que je me justifie ?
+Mais quel crime ai-je fait ? Pourquoi me le cacher ?
+Ah ! Demeurez au moins, pour me le reprocher.
+
+Quoi me fuir pour jamais, sans espoir, sans secours.
+
+Seigneur, quel changement : et qui pouvait l'attendre ?
+D'un cœur si grand, si noble, et qui semblait si tendre !
+Vous êtes interdit ? Ah ? Seigneur, je le vois,
+Ce coup qui,me confond, vous trouble autant que moi.
+Vous êtes trop touché du malheur qui me presse,
+Il vous en coûte trop d'avoir tant de tendresse.
+Et pour vous épargner tant de maux, tant de soins,
+Je vous pardonnerais de m'aimer un peu moins.
+Mais savez-vous d'où vient que la princesse aigrie
+D'une extrême bonté passe la barbarie ?
+Que sans vouloir m'entendre elle me fuit ainsi ?...
+Seigneur, sans me parler, vous me fuyez aussi ?
+Que vois-je ? Ô justes dieux ! Quelle fureur soudaine
+Dans vos yeux menaçants m'exprime tant de haine ?
+Vous à qui je dois tout, vous mon unique appui,
+Vous aussi, vous voulez m'accabler aujourd'hui ?
+Qu'ai-je donc fait pour perdre une amitié si chère ?
+Seigneur ! Mon protecteur ! Vous seul en qui l'espère ;
+Si vous m'abandonnez que puis-je devenir ?
+Achevez, par pitié, du moins, de ma punir ;
+M'ôtant ce qui rendait mes jours dignes d'envie,
+Vous seriez trop cruel de laisser la vie.
+
+Après tant de bontés, pour prix de tant de gloire,
+Je pourrais vous trahir ? Et le pouvez vous croire ?
+Apprenez-moi mon crime ?
+
+Seigneur, ne croyez pas ainsi que je vous laisse.
+
+      Ne m'arrêtez point.
+
+      Qu'ai-je à considérer ?
+
+Je reconnais la reine à ce coup qui m'accable.
+Allons, vouloir me perdre est un soin favorable.
+Ma vie est désormais un trop cruel tourment.
+Et pour qui veut périr, il n'importe comment.
+
+Amis, laissez-moi seul. La princesse est ici.
+Ne craignez point qu'un peuple ébloui de ma gloire
+Vous rende malgré vous le prix de ma victoire ;
+Pour moi, sans votre cœur, il n'est point d'autre bien :
+Je compte en la perdant ma victoire pour rien.
+Si ma princesse encore de ma foi se défie
+Le ciel par un miracle en vain me justifie :
+C'est un crime assez grand que de vous faire horreur.
+
+Quoi je reviens enfin sûr de plaire à vos yeux.
+
+Se peut-il que l'amour...
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stenobee
+
+Quoi ? Béllérophon vous me quitte ainsi ?
+
+      Allez, Seigneur, suivez-le sans contrainte ;
+Je ne vous prétends pas retenir par ma plainte.
+Je sais ce que je suis, et ce que je vous dois :
+Des serments solennels vous engagent ma foi :
+À votre ambassadeur pour vous je l'ai donnée,
+Rien ne peut plus rien rompre notre hyménée ;
+Et déjà comme époux vous pouvez librement
+Vous dispenser pour moi des devoirs d'un amant.
+
+      Épargnez-vous ce soin :
+Vous pouvez tout apprendre, et sans parler plus loin.
+Je sais ce qui e chasse, et sans aucun mystère,
+Près d'être tout à vous je ne veux ne vous rien taire.
+
+Seigneur, vous le savez, le roi se fie à moi :
+À me croire aisément sa bonté le dispose :
+Sur moi des plus grands soins son âge se repose ;
+Et si votre ami part, j'avouerai sans détour,
+Que c'est moi qui l'oblige à quitter cette cour.
+
 Je ne le vois que trop, Seigneur, et c'est son crime :
 Son estime ne sait que trop bien éclater :
 Sa gloire va si loin qu'elle est à redouter.
@@ -240,14 +711,6 @@ Ce qui s'élève trop doit donner de l'ombrage ,
 L'excès de gloire est crime en matière d'État.
 Et pouvoir trop tenter tient lieu d'un attentat.
 
--*who_proetus
-C'est pour Béllérophon une maxime veine ;
-Je connais sa vertu, j'en répondrai sans peine ;
-Et son crédit ici fut-il encore plus grand,
-L'amitié qui nous lie en est un sûr garant,
-Cette tendre amitié pour lui vous sollicite...
-
--*who_stenobee
 Et c'est cette amitié qui contre lui m'irrite ;
 Et sil faut que mon cœur s'ouvre entier à vos yeux,
 Il est si cher pour vous, qu'il m'en est odieux.
@@ -266,15 +729,6 @@ J'attendais d'un époux même bonté pour moi ;
 Et je tiendrais à honte, et prendrais pour injure,
 Qu'en ma faveur l'amour fit moins que la nature.
 
--*who_proetus
-N'accusez point l'amour, il a fait son devoir,
-L'empire de mon cœur est en votre pouvoir ;
-L'amitié n'ôte rien à vos droits sur mon âme,
-C'est un surcroît d'ardeur qui fait croître ma flamme,
-J'en sais mieux vous aimer, et toujours seulement
-L'ami le plus sensible en est plus tendre amant.
-
--*who_stenobee
 Non, non, pour m'éblouir c'est une vaine adresse :
 On n'a qu'un fond borné d'ardeur, et de tendresse,
 Et ce fonds pour aimer dans nos cœurs établi,
@@ -284,10 +738,6 @@ M'ôte au cœur d'un amant la part quelle veut y prendre.
 J'y perds ce qu'elle a droit d'y prétendre à son tour,
 Et la moitié d'un cœur est trop peu pour l'amour.
 
--*who_proetus
-Le mien est tout à vous.
-
--*who_stenobee
       Pour m'en rendre certaine,
 Qu'il souffre donc l'exil d'un ami qui me gêne.
 Que ce cœur tout moi n'ait point d'attachement
@@ -301,24 +751,9 @@ Donnez à votre ami ce jour que je lui laisse :
 Mais après vos regrets aujourd'hui consommés,
 Ne m'en parlez jamais, au moins, si vous m'aimez.
 
-**** *book_ *id_I04 *act_I *date_1671
-
--*who_stenobee
 J'agis d'une manière à devoir te surprendre,
 Tu ne la comprends pas.
 
--*who_megare
-      Qui pourrait le comprendre ?
-Voir en vous dont jamais le cœur ne se dément,
-Pour un homme si rare un si grand changement ?
-Y voir pour ce héros succéder tant de haine
-Aux marques d'une estime et si juste, et si pleine ?
-Après tant de faveurs dont vous l'avez comblé,
-Le voir cruellement par vous-même accablé ?
-Enfin pour le bannir vous voir tout entreprendre ?
-Madame, à dire vrai, c'est de quoi me surprendre.
-
--*who_stenobee
 Je ne condamne point ton juste étonnement :
 Mais écoute, et t'étonne encore plus justement.
 Ce héros autrefois l'objet de mon estime,
@@ -326,10 +761,6 @@ Contre qui tant de haine apparemment m'anime,
 ne me force pas moins encore de l'estimer ;
 Et si je le bannis c'est pour le trop aimer.
 
--*who_megare
-Vous, Madame ?
-
--*who_stenobee
       Oui, c'est là son crime véritable,
 À force de mérite il n'est que trop coupable ;
 Pouvait-il l'être plus que d'avoir coupable ;
@@ -343,12 +774,6 @@ Et dont il a troublé la paix et l'innocence.
 Voilà ce qui m'engage enfin à la bannir ;
 Son crime est de me plaire, et je l'en veux punir.
 
--*who_megare
-Il est vrai qu'il n'a pu s'attacher à vous plaire,
-Sans trahir pour Proetus une amitié bien chère ;
-En osant vous aimer il est méconnaissant...
-
--*who_stenobee
 Ah ! C'est sur quoi l'ingrat n'est que trop innocent :
 Il n'est dans son devoir que trop inébranlable,
 Trop exempt des erreurs dont il me rend capable ;
@@ -368,10 +793,6 @@ Que m'avoir fait descendre à d'indignes d'erreurs,
 Que n'avoir pu m'aimer, et c'est d'aimer ailleurs,
 D'avoir choisi ma sœur pour l'objet de sa flamme.
 
--*who_megare
-Un peu de jalousie éblouit bien une âme.
-
--*who_stenobee
 En puis-je mal juger ? Je m'en fie à ta foi :
 Toi-même, si tu peux, juges-en mieux que moi.
 Tu sais que ce matin, de soucis travaillée,
@@ -400,17 +821,8 @@ Mais si l'excès d'amour tenait lieu de mérite,
 Vous ne seriez jamais qu'à moi.
 Parle, explique ces mots.
 
--*who_megare
-      Ils font juger qu'il aime,
-Mais ne pourraient-ils pas s'expliquer par vous-même ?
-
--*who_stenobee
 Que me dis-tu ? Mégare, et pourquoi me flatter ?
 
--*who_megare
-Mais, Madame, quel lieu trouvez-vous d'en douter ?
-
--*who_stenobee
 Mais où me réduis-tu si tu me le fais croire ?
 Je n'ai que mon dépit qui soutienne ma gloire ;
 Avec tout son secours, malgré tout mon effort,
@@ -418,10 +830,6 @@ Mon cœur contre un ingrat ne se sent pas trop fort ;
 Et me défendant mal quand le dépit me presse,
 Si cet ingrat m'aimait, juge de ma faiblesse.
 
--*who_megare
-Doutez, puisqu'il le faut.
-
--*who_stenobee
       Ah ! Ne doutons de rien
 Et quoiqu'il en puisse être, éclaircissons-nous bien.
 Je n'ose lui parler pour m'éclaircir moi-même ;
@@ -453,44 +861,20 @@ Hâte-toi de répondre à mon impatience,
 Et songe qu'en un cœur inquiet, et jaloux,
 L'état d'incertitude est le pire de tous.
 
-**** *book_ *id_II01 *act_II *date_1671
-
--*who_stenobee
 Ne me flattes-tu pas ? Mégare, est-il possible ?
 Béllérophon paraît pour ma sœur insensible ?
 L'offre de son hymen est pour lui sans appas ?
 Mégare, encore un coup, ne me flattes-tu pas ?
 Ce refus est surprenant semble à peine croyable.
 
--*who_megare
-Tout surprenant qu'il est, rien n'est plus véritable.
-
--*who_stenobee
 Mais avec soin, Mégare, as-tu bien remarqué
 L'air, ou libre, ou contraint, dont il s'est expliqué ?
 A-t-il rêvé longtemps avant que de répondre ?
 N'a-t-il point témoigné, se troubler, se confondre ?
 
--*who_megare
-Quand j'ai parlé de vous sur tout ce que j'ai dit
-Il a semblé d'abord incertain, interdit.
-Mais offrant à son choix l'exil, ou l'hyménée,
-Son âme a sans effort paru déterminée.
-
--*who_stenobee
 Enfin as-tu connu qu'en refusant ma sœur,
 Il ait fait voir pour elle ou mépris, ou froideur ?
 
--*who_megare
-Il a, sans l'offenser, en courtisan habile
-Coloré son refus d'une excuse civil ;
-A dit qu'en sa faveur il ne méritait pas
-Qu'on forçat votre sœur à descendre trop bas,
-Et puisque son exil pouvait vous satisfaire
-Qu'il cherchait le moyen le plus sûr de vous plaire.
-Mais voulez-vous, Madame, à présent le chasser ?
-
--*who_stenobee
 Si je le veux ? Hélas ! Puis-je m'en dispenser ?
 S'il n'aime point ma sœur, et si c'est moi qu'il aime ;
 Au trouble où je me sens, dans ma faiblesse extrême
@@ -501,10 +885,6 @@ Que veux-tu que ma gloire et mon devoir deviennent ?
 Pour mon mal, sans sa fuite, est-il quelque secours,
 Et guérit-on jamais quand on se voit toujours ?
 
--*who_megare
-À son exil ainsi vous êtes résolue ?
-
--*who_stenobee
 Je le devrais, au moins j'en suis bien convaincue ;
 Ce soin n'est je le sais que trop de mon devoir,
 Je doute seulement s'il est en mon pouvoir.
@@ -515,10 +895,6 @@ Et s'il coûte à bannir un ingrat quand il plaît,
 Quel effort n'est-ce point pour une âme charmée
 De bannir ce qui plaît quand on s'en croit aimée ?
 
--*who_megare
-Cependant c'est demain qu'il part...
-
--*who_stenobee
       Voici ma sœur :
 Et pour Béllérophon il faut sonder son cœur.
 Je veux que son refus lui dire la nouvelle.
@@ -526,38 +902,14 @@ Malgré ce que j'obtiens d'avantage sur elle,
 Malgré les nœuds du sang, par un jaloux transport,
 Je ne sais quoi toujours me trouble à son abord.
 
-**** *book_ *id_II02 *act_II *date_1671
-
--*who_stenobee
 Je brûlais de vous voir, j'avais en confidence
 A vous dire ma sœur un secret d'importance.
 
--*who_philonoe
-Je cherche aussi, Madame, à pouvoir sans témoins
-Vous donner un avis qui n'importe pas moins
-Tout l'État y prend part.
-
--*who_stenobee
       Mon avis cède au vôtre :
 L'intérêt de l'État l'emporte sur tout autre.
 Commencez donc, ma sœur, la première à parler,
 et j'aurai soin après de ne vous rien celer.
 
--*who_philonoe
-Béllérophon ici s'est acquis tant de gloire
-Qu'on peut malaisément en perdre la mémoire,
-Et qu'on a peine à voir sans en être surpris
-Que tant de mérite un exil soit le prix.
-On murmure, on s'émeut, chacun ose le plaindre,
-Mais le peuple sur tout paraît le plus à craindre ;
-Il pourrait s'emporter à trop d'émotion,
-Et passer du murmure à la sédition.
-C'est à vous d'en juger, d'en prévenir la suite.
-Je laisse avec le roi tout votre conduite,
-Et sans prétendre en rien choquer votre pouvoir
-C'est un sincère avis que j'ai cru vous devoir.
-
--*who_stenobee
 Il est donc juste aussi, ma sœur, que sans mystère
 Je réponde à mon tour, à votre avis sincère.
 Je veux m'ouvrir à vous d'un esprit ingénu ;
@@ -581,18 +933,9 @@ Révoquer cet exil que j'avais résolu,
 Quelque intérêt pour moi que votre amitié prenne,
 Peut-être à m'excuser auriez-vous de la peine.
 
--*who_philonoe
-Il n'est guère de prix quoi qu'il doive coûter
-Qu'ici Béllérophon ne puisse mériter.
-
--*who_stenobee
 Mais si ce prix plus grand que vous ne pouvez croire
 Était même aux dépens de votre propre gloire ?
 
--*who_philonoe
-Se peut-il que ma gloire ait rien démêler...
-
--*who_stenobee
 Je me suis engagée à ne vous rien celer,
 Et j'avouerai quel tort j'ai prétendu vous faire
 En dussai-je attirer votre juste colère.
@@ -611,17 +954,6 @@ De ce choix trop abject colore d'injustice.
 Je n'ai point de raison qui put l'autoriser,
 Et je laisse à l'amour de soin de l'excuser.
 
--*who_philonoe
-Je vous l'avouerai, Madame, un trône a de quoi plaire ;
-Et s'il vous faut ici céder celui d'un père,
-Peut-être est-il des rois qui perdront le souci
-De ma donner ailleurs ce que je cède ici.
-Mais il n'est point d'appas dont la couronne brille
-Que je ne sacrifie au bien de ma famille,
-Toujours les plus hauts rangs ne sont pas les meilleurs
-Et vivre près de vous vaut bien régner ailleurs.
-
--*who_stenobee
 Ah ! C'en est trop, ma sœur, tant d'amitié m'accable.
 Je sens mon injustice encore moins excusable,
 Et de tout votre sort j'ai pu disposer,
@@ -639,417 +971,46 @@ Ma tendresse à son tour vous veut rendre justice,
 Et va presser mon père, en m'offrant un époux,
 De faire en même temps un choix digne de vous.
 
-**** *book_ *id_II03 *act_II *date_1671
-
--*who_ladice
-Recevez-vous, Madame, avec tant de tristesse
-Une si favorable et si belle promesse ?
-Quoi l'espoir le plus doux de l'hymen d'un grand roi,
-Ne peut vous inspirer que chagrin et qu'effroi ?
-
--*who_philonoe
-Si le trouble ou je suis te fait peine à comprendre,
-Tu n'as qu'à bien ouï ce qu'on a fait entendre ;
-Tu sais peu quel dépit un mépris peut causer,
-Et ce qu'on de honte à se voir refuser.
-
--*who_ladice
-Quel honte, Madame, avez-vous lieu de croire,
-Dans un mépris heureux qui sauve votre gloire ?
-Voyez qui vous refuse : un prince infortuné,
-Persécuté par tout, des siens abandonne,
-Et dont sans son refus l'alliance importune,
-Vous eût fait épouser la mauvaise fortune.
-
--*who_philonoe
-Ladice, tu dis vrai, je dois m'en souvenir,
-Béllérophon n'est pas d'un rang digne à m'obtenir :
-Il n'est rien en effet qui pour lui sollicite
-Qu'un peu de renommée avec trop de mérite ;
-Et tout prince qu'il est à moins que d'être toi,
-Il n'en eut pu sans audace aspirer jusqu'à moi ;
-Il n'en eut pu trouver de légitime excuse ;
-Ladice, cependant, c'est lui qui me refuse
-Et le peu qu'entre nous on voit d'égalité
-D'un refus si cruel accroît l'indignité.
-
--*who_ladice
-Mais, Madame, en montrant tant de délicatesse
-N'est-ce point trop sentir que ce refus vous blesse ?
-
--*who_philonoe
-Ah Ladice !
-
--*who_ladice
-      Mon zèle est peut-être indiscret ?
-
--*who_philonoe
-Non achève, pénètre, et vois tout mon secret.
-Vois quel trouble odieux me presse et me surmonte ;
-Fais m'en frémir d'horreur, fais m'en rougir de honte ;
-Et du moins si mon cœur n'en peut plus revenir
-En me le reprochant commence à m'en punir.
-Je devrais en effet recevoir cette offense
-Avec moins de colère, et plus d'indifférence ;
-C'est un bonheur pour moi que son aveuglement,
-L'outrage est moins honteux que le ressentiment :
-L'affront vient de trop bas pour men laisser atteindre,
-J'honore trop l'ingrat d'avoir daigné m'en plaindre,
-D'avoir tant de regret de son heureux refus,
-Et j'ai trop de dépit pour n'avoir rien de plus.
-
--*who_ladice
-Si votre âme en secret était déjà séduite,
-Songez sans son refus où vous étiez réduite ?
-Songez où son hymen eut pu vous engager ?
-
--*who_philonoe
-Hélas j'aurais... Mais non, ne m'y fais pas songer.
-Méprisons cet ingrat comme il m'a méprisée :
-Mais crois-tu que ma sœur ne m'ait point abusée.
-Ne pourrait-elle point par des déguisements,
-Avoir voulu sonder mes secrets sentiments ?
-Pénétrer mon espoir, voir quel désire me presse,
-Et pour Béllérophon jusqu'où je m'intéresse ?
-Son refus me fait peine encore à concevoir.
-
--*who_ladice
-Madame le voici, vous allez tout savoir.
-
-**** *book_ *id_II04 *act_II *date_1671
-
--*who_bellerophon
-Prêt à quitter ces lieux par un ordre sévère,
-Sur le point d'y laisser tout ce qui peut me plaire,
-Un malheureux banni sans secours, sans espoir,
-Pour dernière douceur peut-il oser vous voir ?
-Puis-je espérer de vous un moment pour m'entendre ?
-
--*who_philonoe
-Après ce qu'on vois doit, vous pouvez tout prétendre.
-
--*who_bellerophon
-La reine vous a vue, et j'ai lieu de trembler.
-
--*who_philonoe
-Elle ne m'a rien dit qui vous doive troubler.
-J'aurais tort de m'en plaindre.
-
--*who_bellerophon
-      Ah ! Quoi qu'elle vous die,
-De grâce au moins songez qu'elle est mon ennemie,
-Et que de mon exil la rigoureuse loi
-Doit rendre un peu suspect son rapport contre moi.
-
--*who_philonoe
-La rapport de la reine est trop à votre gloire.
-
--*who_bellerophon
-Ah Madame !
-
--*who_philonoe
-      Parlez, ne l'en dois-je pas croire ?
-En a-t-elle trop dit ? J'en croirai votre aveu.
-
--*who_bellerophon
-Ah plutôt je crains bien qu'elle en ai trop peu.
-Oui, Madame, je crains qu'elle n'ait su vous taire,
-La raison qui m'engage au choix que j'ose faire,
-Et me fait préférer à votre hymen charmant
-L'affreuse cruauté de mon bannissement.
-Après tant de rigueur, une offre si propice
-M'a du me faire d'abord craindre quelque artifice :
-J'ai dû me défier d'un si grand changement,
-D'une haine si forte éteinte en ce moment,
-J'ai craint en m'engageant dans un choix téméraire
-Que me trouvant sans crime on ne voulut m'en faire,
-J'ai craint un piège offert sous un appas si doux,
-Mais si j'ai craint pour moi, c'est bien moins que pour vous.
-La reine votre sœur peut être assez cruelle
-Pour aimer à vous voir toujours au dessous-d'elle,
-Et pour songer plutôt à chercher un moyen
-D'abaisser votre sort que d'élever le mien.
-Je me suis fait justice, et j'ai dû vous la rendre.
-Je sais qu'à moins d'un trône on vous fait trop descendre,
-J'ai mieux aimé pour moi voir tout espoir perdu,
-Qu'être heureux aux dépens du rang qui vous est dû
-Je n'ai pu jusqu'à vous rejeter ma disgrâce,
-Et quelque affreux que soit le sort qui me menace,
-Si vous en accablant je l'avais évité,
-Je me reprocherais de l'avoir mérité.
-
--*who_philonoe
-Un juste étonnement me laisse peu capable
-De vous dire à quel point je vous suis redevable :
-Je sens comme je dois de si généreux soins,
-Et veux bien avouer que j'en attendais moins,
-Je n'avais pas prévu ce grand effort de gloire ;
-De tout autre que vous j'eusse eu peine à la croire,
-Et jusqu'à votre aveu, j'avais presque douté
-Qu'on put porter si loin la générosité.
-
--*who_bellerophon
-On doit peu me louer d'un choix si magnanime.
-La générosité n'est pas ce qui m'anime ;
-Je n'en sens point assez pour perdre un bien si doux,
-Et tenir contre un charme aussi puissant que vous.
-Je n'ai pas tant de force, et si j'ose tout dire,
-Il n'est point de vertu qui seule y put suffire,
-Et pour ce grand effort, dans mon cœur en ce jour,
-La gloire avait besoin du secours de l'amour.
-Ce nom fatal m'échappe m'échappe, il vous trouble, il vous blesse ;
-De grâce pardonnez ce reste de faiblesse,
-Un amour qui s'immole, et qui n'espère rien,
-Croit être dispensé de se cacher si bien.
-Du moins, si cet aveu contre moi vous anime,
-Songez que le supplice a précédé le crime :
-Qu'avec le châtient le courroux doit finir,
-Et qu'on plaint un coupable en le voyant punir.
-Vous ne répondrez point ? Est-ce pour me confondre ?
-
--*who_philonoe
-Vous écoutez toujours, n'est-ce point trop répondre ?
-
--*who_bellerophon
-Hélas ! Vous m'écoutez pour la dernière fois.
-
--*who_philonoe
-Il n'a tenu qu'à vous de faire un autre choix.
-
--*who_bellerophon
-M'en pourriez-vous blâmer . Et se pourrait-il faire
-Que mon choix méritât d'avoir pu vous déplaire ?
-Qu'en secret votre cœur n'en fut pas satisfait ?
-
--*who_philonoe
-Que sert de s'expliquer sur un choix déjà fait ?
-
--*who_bellerophon
-Hé ! M'était-il permis d'en oser faire un autre ?
-D'oser à mon bonheur sacrifier le vôtre ?
-Et quand je me verrais digne d'un sort si doux,
-Devais-je oser jamais le tenir que de vous ?
-C'est un bien dont je sais le prix mieux que personne ;
-À peine en est-on digne avec une couronne,
-Sans un trône à donner on ne peut l'acquérir,
-Et je n'ai que mon cœur à vous pouvoir offrir.
-
--*who_philonoe
-Mais qui vous avait dit que quoi que l'on pût fait
-Le seul charme du trône eut le droit de me plaire ?
-Que mon âme attachée à l'ardeur de régner
-Crut d'un illustre cœur l'empire à dédaigner ?
-Et malgré le penchant qu'un tendre amour excite
-Fit tout pour la grandeur et rien pour le mérite ?
-
--*who_bellerophon
-Que dites-vous, Madame ? Et n'avez-vous point peur
-Qu'un aveu si charmant ne tente trop mon cœur ?
-Vous assurez-vous tant d'un choix dont je soupire ?
-Et ne craignez-vous point que je n'ose m'en dédire ?
-Mon devoir est sans force, il vient de s'épuiser ;
-Et si d'une autre main j'ai pu vous refuser,
-Je ne répondrais pas de mon amour extrême
-Jusques à vous pouvoir refuser de vous-même ?
-Dieux ! Comment à ce choix ai-je pu consentir ?
-Hélas ! Si vous pouviez m'en laisser repentir ?
-Si pour prix de l'effort que s'est fait ma tendresse
-Je pouvais obtenir l'aveu de ma faiblesse....
-
--*who_philonoe
-Adieu.
-
--*who_bellerophon
-      Vous me quittez sans me rien dire...
-
--*who_philonoe
-      Hélas !
-
--*who_bellerophon
-Que me dit ce soupir ?
-
--*who_philonoe
-      Ah ! Ne l'entendez pas.
-
--*who_bellerophon
-Obtiens-je enfin de vous l'aveu que je désire ?
-
--*who_philonoe
-Ne vous obstinez point à m'en faire trop dire,
-Allez, et me laissez, s'il se peut, souvenir
-Que ce n'est pas de moi qu'il me faut obtenir.
-
-**** *book_ *id_III01 *act_III *date_1671
-
--*who_proetus
-Enfin le roi, Madame, a choisi la journée
-Où se doit achever notre heureux hyménée :
-Il veut que dans trois jours le grand jour que j'attends
-Rende ma joie entière et tous mes vœux contents.
-Les Dieux mêmes d'accord du bonheur que j'espère
-Ont promis de nouveau d'apaiser leur colère,
-Et de nous garantir du monstre furieux
-Dont la rage a versé tant de sang en ces lieux.
-Avec soin à l'envi toute la cour s'apprête
-A redoublé l'éclat d'une si belle fête,
-Chacun de mon bonheur semble faire le sien...
-
--*who_stenobee
 Mais que fait votre ami ? Vous n'en m'en dites rien.
 
--*who_proetus
-Je sais l'excès d'honneur que vous lui vouliez faire.
-Je connais tout le prix d'une faveur si chère ;
-Mais je n'ose, Madame, oublier qu'aujourd'hui
-Vous m'avez défendu de vous parler de lui.
-J'ai cru que vos bontés après cette défense
-Pour tout remerciement demandaient mon silence,
-Et j'ai craint d'être ingrat plus que reconnaissant
-Si je répondais mieux qu'en vous obéissant.
-Je ne vous dirai rien dont vous puissiez vous plaindre,
-Et puisque votre haine a tant pu se contraindre,
-Il est bien juste aussi qu'en mon cœur à son tourne
-L'amitié se contraigne en faveur de l'amour.
-
--*who_stenobee
 C'est trop faire souffrir une amitié si tendre,
 Et je souffrirai moins peut-être à vous entendre.
 
--*who_proetus
-Non, Madame, pour peu que vous puissiez souffrir...
-
--*who_stenobee
 Que vous connaissez bien comme il faut m'attendrir.
 
--*who_proetus
-Si mon soin déplaît, je consens à ma taire.
-
--*who_stenobee
 Parlez-Seigneur, parlez, vous savez trop me plaire.
 
--*who_proetus
-Béllérophon m'est cher, et je plains son malheur...
-
--*who_stenobee
 Mais que vous a-t-il dit de l'offre de ma sœur ?
 
--*who_proetus
-Que sachant votre haine il avait peine à croire
-Que vous l'eussiez jugé digne de tant de gloire,
-Et craignait d'abuser dans un espoir si doux
-D'un effort que pour moi vous faisiez malgré vous.
-
--*who_stenobee
 Craint-il si fort ma haine ?
 
--*who_proetus
-      Il ne m'est pas possible
-D'exprimer à quel point il y paraît sensible.
-Quelques peines qu'il trouve en son bannissement,
-Vous voir son ennemie, est son plus grand tourment.
-Il est au désespoir d'avoir pu vous déplaire,
-Il sent tous ses malheurs moins que votre colère ;
-Et vous l'auriez, Madame, à demi consolé
-Si sans l'avoir haï vous l'aviez exilé.
-
--*who_stenobee
 Il se plaint bien de moi ? Je l'avouerai sans feindre,
 Il doit peut-être avoir quelque lieu de s'en plaindre.
 
--*who_proetus
-Malgré votre rigueur, il ne parle de vous
-Que d'un air à fléchir le plus mortel courroux.
-Il n'échappe à sa plainte aucun mot qui n'exprime
-Le plus profond respect, et la plus haute estime ;
-Et sans vous accuser de lui faire aucun tort
-Il se plaint moins de vous que de son mauvais sort.
-
--*who_stenobee
 Dans l'ardeur que pour lui l'amitié vous inspire
 N'en dites-vous point trop ?
 
--*who_proetus
-      Je n'en suis assez dire.
-Madame, plut aux Dieux qu'avant qu'il dut partir
-Vous-même à l'écouter vous puissiez consentir ;
-Je suis sûr que votre âme en serait attendrie,
-Fut-elle contre lui mille fois plus aigrie :
-Vous ne le pourriez voir sans le croire innocent...
-
--*who_stenobee
 Ha ! Vous êtes, Seigneur, un ami bien pressant ?
 
--*who_proetus
-Vous semblez vous troubler ?
-
--*who_stenobee
       N'en soyez point en peine,
 Mon trouble ne vient pas du côté de la haine.
 C'est un reste de gloire, et je rougie, Seigneur,
 Que vous trouviez si bien le faible de mon cœur.
 
--*who_proetus
-Que mon bonheur est grand ! Quelle douceur parfaite
-De voir avec l'amour l'amitié satisfaite !
-
--*who_stenobee
 Vos soins pour votre ami n'ont que trop de pouvoir.
 Mais souhaite-t-il tant en effet de ma voir ?
 
--*who_proetus
-Près de traîner ailleurs une mourante vie
-Il n'a point de plus forte et de plus chère envie.
-S'excuser près de vous est tout ce qu'il prétend ;
-S'il part sans votre haine il part assez content.
-Chassez-le s'il le faut, mais souffre qu'il vous voit.
-Et qu'il emporte au moins cette dernière joie :
-Pour unique faveur c'est tout ce qu'aujourd'hui
-L'amour et l'amitié vous demandent pour lui.
-
--*who_stenobee
 Contre des droits si forts le moyen que l'on tienne.
 
--*who_proetus
-Peut-il venir enfin, Madame ?
-
--*who_stenobee
       Hé bien, qu'il vienne.
 
--*who_proetus
-Par quels remerciements...
-
--*who_stenobee
       Il n'en est pas besoin,
 Et s'il en faut, Seigneur, l'amour en prendra soin.
 
-**** *book_ *id_III02 *act_III *date_1671
-
--*who_megare
-J'admire avec quel art vous l'avez su réduire
-À prendre en sa faveur tout ce qui peut lui nuire.
-À se trahir lui-même, et par un soin fatal
-À presser le bonheur de son propre rival.
-À voir Béllérophon il vous a résolue ?
-
--*who_stenobee
 Que je la crains, ô Dieux, cette funeste vue !
 
--*who_megare
-Quoi, vous craignez de voir un amant qui vous plaît,
-Et surtout, dans l'État où vous savez qu'il est.
-Tendre, amoureux, soumis, souffrant sans s'oser plaindre.
-
--*who_stenobee
 Mégare, en cet état, qu'un amant est à craindre !
 
--*who_megare
-Il est vrai qu'entre vous l'amour a peu d'espoir,
-Vous devez redouter Proetus et son pouvoir ;
-Votre père aura peine à rompre un hyménée
-Fondé sur une foi publiquement donnée :
-Je crains mille périls que je vois trop certains.
-
--*who_stenobee
 Je ne m'étonne pas des périls que tu crains.
 Je puis ce que je veux sur l'esprit de mon père ;
 Tu vois depuis quel temps mon hymen se diffère.
@@ -1062,12 +1023,6 @@ La Licie a de quoi braver un roi d'Argos
 Ce n'est pas là ma crainte, et ce qui fait le trouble
 Que je sens dans mon cœur que chaque instant redouble.
 
--*who_megare
-Qui peut donc vous troubler, et d'où naît votre effroi
-Si vous ne craignez rien des scrupules du roi,
-Du pouvoir de Proetus, de son dépit externe...
-
--*who_stenobee
 Ah n'ai-je rien, Mégare, à craindre de moi-même ?
 Prête à m'abandonner sans espoir de retour,
 À l'aveugle transport d'un criminel amour,
@@ -1092,70 +1047,21 @@ Savaient faire pouvoir tout ce qu'ils font connaître,
 Et si montrant l'abîme où l'on va se jeter
 Ils donnaient de la force assez pour l'éviter.
 
--*who_megare
-Je ne m'étonne plus que votre cœur s'alarme,
-Et d'un objet si cher appréhende le charme.
-Vous deviez bien sans doute éviter de la voir.
-Et si vous le pouviez...
-
--*who_stenobee
       Et comment le pouvoir !
 
--*who_megare
-Sans attendre qu'il vienne, et devant qu'il vous voit,
-Il n'est pas possible encore qu'on le renvoie.
-Et si vous le voulez j'airai de votre part.
-
--*who_stenobee
 Je le voudrais assez s'il n'était trop tard.
 Il est si près, peut-être...
 
--*who_megare
-      On peut en diligence
-Prendre encore le temps d'empêcher qu'il n'avance.
-
--*who_stenobee
 Plus je crois qu'il approche et plus je sens d'effroi.
 
--*who_megare
-Irai-je ?
-
--*who_stenobee
       Il n'est plus temps, Mégare, je le vois.
 
-**** *book_ *id_III03 *act_III *date_1671
-
--*who_bellerophon
-Ne m'a-t-on point flatté d'une vaine espérance ?
-Pourrez-vous bien, Madame, endurer ma présence ?
-Que me veut dire encore le trouble où je vous vois !
-Peut-être avez-vous cru voir Proetus avec moi.
-Parlez, pour me souffrir souhaitez vous qu'il vienne ?
-Sa présence à vos yeux peut adoucir la mienne,
-Je n'en dois pas douter, je vous entends trop bien...
-
--*who_stenobee
 Pourquoi m'entendez-vous quand je ne vous dis rien ?
 Proetus ici peut-être eut été nécessaire,
 Mais il a fait pour vous tout ce qu'il pouvait faire,
 Et si je vous vois seul avec peine aujourd'hui,
 Je n'en aurais pas moins à vous voir avec lui.
 
--*who_bellerophon
-Si Proetus ne vient pas ce n'est qu'à ma prière.
-J'ai voulu vous laisser liberté toute entière,
-Et ne pas abuser de ce qu'en ma faveur
-L'intérêt d'un ami pourrait sur votre cœur.
-Si l'on m'a près de vous noirci de quelque crime
-Qui vous ait fait juger mon exil légitime,
-Je sens trop d'innocence, et m'y dois trop fier
-Pour prendre aucun secours pour me justifier.
-Et si vous m'exilez par votre propre haine
-Je ne veux exiger rien qui vous fasse peine,
-Je pars quoi que je quitte en partant de ces lieux
-Ce qui m'est le plus doux et le plus précieux.
-
--*who_stenobee
 Vous êtes bienheureuse de vous trouver capable
 D'avoir toujours sans peine une âme inébranlable :
 Quoi qu'il faille quitter et de cher et de doux,
@@ -1163,15 +1069,6 @@ L'effort n'en coûte guère aux héros comme vous,
 Et pour s'en consoler la grandeur du courage
 Aux cœurs comme le vôtre est un grand avantage.
 
--*who_bellerophon
-Je ne me pique pas de tant de fermeté,
-Et ne suis point héros jusqu'à la dureté.
-Je sens si bien l'horreur du sort qui me menace,
-Qu'au lieu de mon exil la mort me ferait grâce ;
-Et peut-être en dépit de votre inimitié
-Si vous saviez mes maux en auriez-vous pitié.
-
--*who_stenobee
 Je n'eus jamais pour vous une assez forte haine
 Pour vous pourvoir bannir sans regret, et sans peine :
 Mais je ne jugeais à plaindre qu'à demi,
@@ -1181,86 +1078,32 @@ Que souffre dans l'absence une amitié fidèle,
 Il est des maux plus grands que ceux de l'amitié,
 Et qui rendent encore plus digne de pitié.
 
--*who_bellerophon
-Toute votre pitié ne m'est que trop bien due,
-Et rien ne manque aux maux dont j'ai l'âme abattue
-Plaignez un malheureux qui ne peut l'être plus.
-
--*who_stenobee
 Que pourriez-vous ici regretter que Proetus ?
 Si vous étiez amant... mais j'ai peine à le croire,
 Vous autres grands guerriers vous n'aimez que la gloire ;
 Et vous tenez l'amour trop au-dessous de vous
 Pour abaisser votre âme à céder à ses coups.
 
--*who_bellerophon
-On peut être à la guerre intrépide, invincible,
-Et n'être que trop tendre ailleurs et trop sensible.
-Où le cœur est charmé la valeur perd ses droits,
-Et l'âme la plus forte a de faibles endroits.
-
--*who_stenobee
 vous avez su longtemps aimer avec mystère :
 Et l'amour n'est pas fort qui sait si bien se taire.
 
--*who_bellerophon
-Quand on se sent touché d'une téméraire amour,
-Le respect permet-il de l'oser mettre au jour ?
-
--*who_stenobee
 Le respect fait souvent des lois trop rigoureuses.
 Et les témérités sont quelquefois heureuses.
 
--*who_bellerophon
-Ah si vous excusiez l'audace de mes vœux,
-Ils n'auraient rien à craindre, ils seraient trop heureux ;
-Mais si vous m'exciter que faut-il que j'espère ?
-
--*who_stenobee
 Ne craignez plus d'exil, je n'ai plus de colère ;
 Puisqu'ici tant de nœuds ont pu vous attacher
 Il serait trop cruel de vous en arracher.
 
--*who_bellerophon
-C'est beaucoup d'engager votre piété propice
-À révoquer l'arrêt d'un si cruel supplice :
-Mais n'en puis-je espérer rien encore de plus doux ?
-
--*who_stenobee
 N'en fais-je pas assez ? Mon espérance est vaine
 
--*who_bellerophon
-Que ne pouvez-vous point ? Mon espérance est vaine
-Si votre haine encore...
-
--*who_stenobee
       Ne parlons plus de haine ;
 Vous pouvez désormais vous croire tout permis,
 Et vous ne devez plus craindre ici d'ennemis.
 
--*who_bellerophon
-Ah souffrez qu'à vos pieds après cette assurance,
-J'ose exprimer ma joie, et ma reconnaissance ;
-Que j'y laisse éclater mes transports les plus doux ;
-Qu'enfin, pour votre sœur mon amour..
-
--*who_stenobee
 Levez-vous.
 
--*who_bellerophon
-      Après tant de bontés que je n'osais attendre,
-De mes remerciements vouez-vous vous défendre ?
-Lorsque je vous dois tout puis-je avec moins d'excès...
-
--*who_stenobee
 Pour me remercier attendez le succès.
 
--*who_bellerophon
-Je sais votre crédit sur le roi votre père,
-Ne craignant rien de vous qui peut m'être contraire ?
-Quel obstacle nouveau peut troubler mon bonheur ?
-
--*who_stenobee
 Mais ne craignez vous rien du côté de ma sœur !
 Pour moi, vous le savez, cette même journée
 Je vous en ai déjà fait offrir l'hyménée.
@@ -1272,40 +1115,12 @@ Et je crois qu'à ses yeux dans le chois d'un époux
 Le défaut de couronne est le plus grand de tous.
 Je craindrais d'en venir jusques à la contrainte.
 
--*who_bellerophon
-Ah n'appréhendez rien si c'est là votre crainte ;
-J'avais le même effroi tous mes vœux incertains
-N'osaient même accepter mon bonheur de vos mains
-Et vous pardonnez bien à mon amour extrême
-De l'avoir attendu du choix ce que j'aime.
-Votre adorable sœur, enfin, a la bonté
-De vouloir faire grâce à ma témérité ;
-Elle renonce au trône où son destin l'appelle
-Pour régner sur un cœur amoureux et fidèle,
-Et l'excès de l'amour que j'ai pour ses appas
-Répare le défaut du rang que je n'ai pas.
-C'est à vous maintenant qu'il faut que je m'adresse ;
-Et si dans mon bonheur votre âme s'intéresse,
-Si du plus tendre amour les transports les plus grands...
-
--*who_stenobee
 Allez, vous connaîtrez l'intérêt que j'y prends.
 
--*who_bellerophon
-Je dois tout espérer et vous m'êtes propice ;
-Mais de grâce empêchez que mon espoir languisse ;
-Pressez l'heureux effet que j'attends de vos soins ;
-C'est beaucoup aux amants qu'un moment plus ou moins.
-Si vous saviez l'ardeur qu'un si beau feu m'inspire...
-
--*who_stenobee
 Je l'imagine assez sans vous l'entendre dire ;
 J'en sais plus qu'il ne faut pour faire mon devoir,
 Allez, mes soins pour vous passeront votre espoir.
 
-**** *book_ *id_III04 *act_III *date_1671
-
--*who_stenobee
 Hé bien Mégare, hé bien, où suis-je enfin réduite ?
 J'expliquais mieux que toi ces mots qui t'ont séduite.
 Je ne sentais que trop dans le fond de mon cœur
@@ -1315,11 +1130,6 @@ As-tu bien vu l'excès de l'ardeur qui le presse ?
 Ce qu'il sent de transports, ce qu'il prend de souci.
 Ah sans ma sœur, peut-être, il m'aimerait ainsi.
 
--*who_megare
-Si ses vœux n'ont osé s'élever à vous-même,
-Tout vous doit être égal qui que ce soit qu'il aime.
-
--*who_stenobee
 Ah que tu conçois mal lors que l'on manque un cœur
 Ce qu'il coûte à le voir dans les mains d'une sœur.
 Plus ma rivale touche, et plus le dépit presse,
@@ -1335,165 +1145,32 @@ Je suis femme, et ma force est dans les artifices.
 Allons Mégare, allons, songeons à ménager
 Tout ce que notre sexe a d'art pour se venger.
 
-**** *book_ *id_IV01 *act_IV *date_1671
-
--*who_philonoe
-Si vous cherchez ma sœur, nous la pouvons attendre,
-Elle est avec mon père.
-
--*who_proetus
-      On vient de me l'apprendre.
-Et si j'ose en juger sur ce que je lui dois
-C'est pour Béllérophon qu'elle entretient le roi.
-Mais après ses bontés, je devrai tout aux vôtres.
-
--*who_philonoe
-Ne pouvant rien pour moi, que ne pourrais-je pour d'autres ?
-Vous savez mon devoir , et que jusqu'à mon cœur
-Tout dépend de mon père, ou plutôt de ma sœur.
-
--*who_proetus
-Votre sœur favorable, enfin, à ma prière
-À mon heureux mai rend son estime entière.
-Et si dans sa colère elle même aujourd'hui
-A bien pu proposer votre hymen avec lui,
-Après avoir forcé sa colère à s'éteindre,
-S'il ne craint rien de vous, il n' plus rien à craindre.
-
--*who_philonoe
-Je ne puis qu'obéir, mais s'il le faut, Seigneur,
-Au moins, j'obéirai sans peine en sa faveur.
-
--*who_proetus
-Et c'est maintenant qu'il m'est permis de dire
-Qu'il ne manque plus rien à ce que je désire.
-Et qu'enfin s'il peut être un bonheur achevé,
-C'est moi qu'aujourd'hui les Dieux l'ont réservé.
-Je sens dans tous mes vœux mon âme satisfaite ;
-Mais puisque c'est par vous que ma joie est parfaite,
-J'aurai soin du bonheur de qui me rend heureux
-Et qu'il ne manque rien au comble de vos vœux.
-En faveur d'un ami je veux que tout conspire,
-Il n'a qu'un seul défaut, c'est qu'il est sans empire.
-
--*who_philonoe
-Je vrai bonheur n'est pas dans le rang le plus haut,
-Et tout ce qui sait plaire est toujours sans défaut.
-
--*who_proetus
-Un si parfait ami m'est plus cher que moi-même,
-C'est être heureux deux fois que l'être en ce qu'on aime,
-Et j'espère obliger votre charmante sœur
-À souffrir que je cède un trône en sa faveur.
-Je prétends couronner une flamme si belle...
-Mais j'aperçois la reine , allons au devant d'elle.
-
-**** *book_ *id_IV02 *act_IV *date_1671
-
--*who_proetus
-Enfin vous avez vu Béllérophon.
-
--*who_stenobee
       Ô Dieux !
 
--*who_proetus
-Madame, quel chagrin se montre dans vos yeux ?
-Mon amour ne peut-il être encore sans alarmes !
-Vous fuyez mes regards, vous me cachez vos larmes !
-Peut-on savoir d'où naît le trouble où je vous vois ?
-
--*who_stenobee
 Non, Seigneur, ce n'est rien, Mégare, soutiens-moi.
 
--*who_philonoe
-On doit appréhender un mal que l'on néglige,
-Et si c'est...
-
--*who_stenobee
       Non, ma sœur, non, ce n'est rien vous dis-je.
 
--*who_proetus
-Quel déplaisir secret peut donc tant vous saisir ?
-
--*who_stenobee
 Ah ! Que ne suis-je morte avec ce déplaisir !
 
--*who_philonoe
-Ne pouvons-nous, Madame, espérer de l'apprendre ?
-
--*who_proetus
-Vous savez l'intérêt que nous y devons prendre ?
-
--*who_stenobee
 Vous avez trop de part, tous deux, dans mes ennuis.
 Ah ma sœur ! Ah Seigneur !
 
--*who_proetus
-      Achevez !
-
--*who_stenobee
       Je ne puis.
 
--*who_philonoe
-Mégare, peut savoir d'où ce chagrin peut naître ?
-
--*who_megare
-J'ai peine, ainsi que vous, Madame, à le connaître.
-Mais si j'osais, Seigneur, former quelque soupçon,
-Il ne pourrait tomber que sur Béllérophon.
-
--*who_proetus
-Qu'a-t-il pu dire enfin ? Vous pouvez nous l'apprendre ?
-
--*who_megare
-Il avait trop de peur que l'on ne peut entendre :
-Il m'a fait retirer avant qu'il ai rien dit :
-Je l'ai vu seulement sortir tout interdit.
-
--*who_proetus
-Et la reine...
-
--*who_megare
-      Avec soin elle a voulu se taire.
-Elle s'est fait un effort pour cacher sa colère ;
-Mais un écrit fatal qu'on lui vient d'apporter
-A su contraindre enfin son courroux d'éclater.
-C'est d'où naît la douleur qui de son cœur s'empare...
-
--*who_stenobee
 Ne sauriez-vous taire indiscrète Mégare ?
 
--*who_proetus
-Quoi ! Ni le nom de sœur, ni le titre d'époux,
-N'obtiendront rien...
-
--*who_stenobee
       Hélas ! Que me demandez-vous ?
 Je vous chéris tous deux avec trop de tendresse,
 Ne me pressez point tant et craignez ma faiblesse.
 De mon cœur contre vous je ne réponds pas bien,
 De peur d'obtenir trop, ne me demandez rien.
 
--*who_proetus
-Il m'importe, il est doux avec ce que l'on aime,
-De pouvoir partager jusqu'à la douleur même.
-
--*who_stenobee
 Encore un coup, craignez vous deux d'en savoir plus ;
 Les malheurs ne sont rien quand ils sont inconnus.
 Préférez à l'horreur d'une clarté fâcheuse
 La douce obscurité d'une ignorance heureuse.
 
--*who_proetus
-Non Madame, avec vous il nous plaît de souffrir.
-
--*who_philonoe
-C'est adoucir ses maux que de les découvrir.
-
--*who_proetus
-Au nom du feu sacré qui déjà nous assemble.
-
--*who_stenobee
 Que le sang et l'amour sont puissants joints ensemble,
 Je vous l'avais bien dit, je n'y puis résister,
 Et j'ai pitié des maux qu'il vous en va coûter.
@@ -1501,10 +1178,6 @@ Au moins, promettez-mois quelle que soit l'offense,
 Que vous me laisserez le soin de la vengeance ;
 Que vos ressentiments ne pourront s'en mêler.
 
--*who_proetus
-Nous vous promettons tout, vous n'avez qu'à parler.
-
--*who_stenobee
 Qui se serait douter de cette perfidie !
 Ciel ! À qui faut-il donc désormais qu'on se fie ?
 Et qui peut se garder du crime revêtu
@@ -1521,25 +1194,12 @@ Le crime a tant d'horreur que je tremble à le dire.
 Mais pour vous l'expliquer ce témoin peut suffire.
 Il vient de votre ami.
 
--*who_proetus
-      Dieux ! Rien n'est plus certain,
-Je reconnais ce chiffre, et ces mots de sa main.
-Je sais qu'en ma faveur rien ne vous sollicite,
-Que pour vous mériter il faut être un grand roi ;
-Mais si l'excès d'amour tenait lieu de mérite,
-Vous ne seriez jamais qu'à moi.
-
--*who_stenobee
 Je l'avais bien prévu, cet amour si coupable
 Vous trouble, vous confond, vous frappe et vous accable.
 C'est un mal qu'à regret je vous ai découvert,
 Je vous l'eusse épargné si vous l'aviez souffert ;
 Vous deviez sur mes vœux prendre un peu moins d'empire.
 
--*who_philonoe
-Béllérophon ainsi peut oser vous écrire ?
-
--*who_stenobee
 Plut au Dieux que l'ingrat pour vous moins endurci,
 Eut sans crime, ma sœur, pu vous écrire ainsi.
 Je ne veux point vous dire avec quelle insolence
@@ -1547,13 +1207,6 @@ Il se vante d'avoir surpris votre innocence,
 Et su l'art d'éblouir et Proetus, et le roi,
 Feignant des feux pour vous qu'il ne sent que pour moi.
 
--*who_philonoe
-Le perfide !
-
--*who_proetus
-      L'ingrat !
-
--*who_stenobee
       Vous pouvez voir sans peine
 Dans cet indigne amour la source de ma haine.
 Souvent de ces regards l'indiscrète langueur
@@ -1581,20 +1234,10 @@ De me faire à mon tour oublier mon devoir.
 De tant d'indignités, Seigneur, vous êtes cause ,
 Et vous voyez pour vous où mon amour m'expose.
 
--*who_proetus
-J'en suis confus, Madame, et je cours de ce pas
-Vous venger par ma main du plus grand des ingrats,
-A tant de droits trahis i faut que je l'immole.
-
--*who_stenobee
 Ah Seigneur, est-ce ainsi que vous tenez parole,
 Qu'à tout ce que je veux, je puis vous engager ?
 N'ai-je pas réservé le soin de nous venger ?
 
--*who_proetus
-Mais que pouvez-vous craindre ?...
-
--*who_stenobee
       Une fureur extrême,
 Je crains, demandez-vous ce qu'on craint quand on aime,
 Pour un objet trop cher tout m'alarme en ce jour,
@@ -1602,184 +1245,9 @@ Et la frayeur n'est pas une honte à l'amour.
 N'exposez point des jours où les miens s'intéressent,
 Vous me l'avez promis, mes larmes vous en pressent.
 
--*who_proetus
-Tout mon sang ne vaut pas les pleurs que vous versez,
-Commandez seulement, Madame, c'est assez,
-Et pour me retenir, pour m'arracher les armes,
-Il suffit d'un regard, et c'est trop de vos larmes.
-
--*who_stenobee
 Allez pour nous venger je sais ce que je dois ;
 Je vais en prendre soin fiez-vous en à moi.
 
-**** *book_ *id_IV03 *act_IV *date_1671
-
--*who_proetus
-Qu'un malheureux tiré d'exil et de misère,
-Favorisé, comblé d'une amitié si chère,
-Qu'un ingrat que mes soins s'empressaient de placer
-Sur un trône où pour lui j'aimais à renoncer,
-Avec tant de fureur, avec tant d'artifice,
-Pour prix de mes bontés lâchement me trahisse ?
-Que m'ôtant ce qu'en lui je n'ai que trop aimé
-Il veuille encore m'ôter l'objet qui m'a charmé ?
-Et cherche à me blesser d'une rage inflexible
-Par tout ce qu'en mon cœur il sait de plus sensible.
-Hélas ! Il est certain, sans ce coup rigoureux
-Pour un simple mortel j'eusse été trop heureux.
-Ah ! Que j'éprouve bien que par des lois trop dures,
-Les humains n'ont jamais des douceur toutes pures,
-Et que toujours les Dieux du vrai bonheur jaloux
-Mêlent quelque amertume à nos besoins les plus doux.
-
--*who_philonoe
-L'ingrat ! Puisque son âme était préoccupée
-Pourquoi dans ses forfaits m'a-t-il enveloppée ?
-Que ne m'épargnerait-il la honte d'un aveu
-Qui me coûtait si cher, et lui servait si peu ?
-À quoi bon sans besoin, par une injuste envie
-Troubler l'heureuse paix d'une innocente vie ?
-Pour lui les trahisons ont-elles tant d'appas
-Que trahis l'amour ne lui suffise pas ?
-Et pour trahir l'amour, qu'était-il nécessaire
-Qu'il vint surprendre un cœur qu'il n'avait que faire ?
-Non, vous n'êtes, Seigneur, à plaindre qu'à demi :
-Vous ne perdez pas tout en perdant un ami ;
-Votre tendresse à deux se trouvait partagée,
-Et la mienne à l'ingrat s'était toute engagée.
-Votre amitié trahie a du moins en ce jour
-La douceur de se voir consoler par l'amour,
-Et dans mon cœur sensible au seul bien qu'on me vole
-L'amour trahi perd tout, et rien ne le console.
-
--*who_proetus
-C'est de ma propre pain qu'il aurait du périr.
-
--*who_philonoe
-Il n'est que trop coupable et ne peut trop souffrir ;
-Mis l'exil et l'horreur de perdre ce qu'il aime
-Sont un supplice encore plus grand que la mort même.
-
--*who_proetus
-Qu'il aille donc périr errant loin de nos yeux,
-Et qu'un d'un nouveau monstre il délivre ces lieux ;
-Qu'odieux à lui-même et sans aucun asile...
-Ah d'un excès d'horreur je me sens immobile,
-Troublé de voir le traître... il vient, fuyez.
-
--*who_philonoe
-      Hélas !
-Si vous êtes troublé, puis-je ne l'être pas ?
-
-**** *book_ *id_IV04 *act_IV *date_1671
-
--*who_bellerophon
-Je vous cherchais partout avec impatience.
-Et manquait à ma joie encore votre présence.
-Et j'ai besoin pour être entièrement heureux
-De la part qu'avec moi vous y prendrez tous deux.
-Qu'un doux ravissement sur tous mes sens préside !
-Belle princesse, enfin...
-
--*who_philonoe
-      Va, laisse-moi, perfide.
-
--*who_bellerophon
-Moi ! Perfide ! Et pour vous ! Quel soupçon de ma foi...
-
--*who_philonoe
-Va, ne me dis plus rien, perfide, laisse-moi.
-
--*who_bellerophon
-Me quitter sans m'entendre !
-
--*who_philonoe
-      Et pour toute votre vie.
-
--*who_bellerophon
-Princesse, avez vous peur que je me justifie ?
-Mais quel crime ai-je fait ? Pourquoi me le cacher ?
-Ah ! Demeurez au moins, pour me le reprocher.
-
--*who_philonoe
-Qui l'eût pu concevoir ! Quelle horreur en approche ?
-Ingrat, mérites-tu que je te le reproche ?
-
--*who_bellerophon
-Quoi me fuir pour jamais, sans espoir, sans secours.
-
--*who_philonoe
-Ha que pour mon repos ne t'ai-je fuis toujours.
-
-**** *book_ *id_IV05 *act_IV *date_1671
-
--*who_bellerophon
-Seigneur, quel changement : et qui pouvait l'attendre ?
-D'un cœur si grand, si noble, et qui semblait si tendre !
-Vous êtes interdit ? Ah ? Seigneur, je le vois,
-Ce coup qui,me confond, vous trouble autant que moi.
-Vous êtes trop touché du malheur qui me presse,
-Il vous en coûte trop d'avoir tant de tendresse.
-Et pour vous épargner tant de maux, tant de soins,
-Je vous pardonnerais de m'aimer un peu moins.
-Mais savez-vous d'où vient que la princesse aigrie
-D'une extrême bonté passe la barbarie ?
-Que sans vouloir m'entendre elle me fuit ainsi ?...
-Seigneur, sans me parler, vous me fuyez aussi ?
-Que vois-je ? Ô justes dieux ! Quelle fureur soudaine
-Dans vos yeux menaçants m'exprime tant de haine ?
-Vous à qui je dois tout, vous mon unique appui,
-Vous aussi, vous voulez m'accabler aujourd'hui ?
-Qu'ai-je donc fait pour perdre une amitié si chère ?
-Seigneur ! Mon protecteur ! Vous seul en qui l'espère ;
-Si vous m'abandonnez que puis-je devenir ?
-Achevez, par pitié, du moins, de ma punir ;
-M'ôtant ce qui rendait mes jours dignes d'envie,
-Vous seriez trop cruel de laisser la vie.
-
--*who_proetus
-Ah cherches-tu perfide encore à m'éblouir ?
-Et jusques à deux fois prétends-tu me trahir ?
-
--*who_bellerophon
-Après tant de bontés, pour prix de tant de gloire,
-Je pourrais vous trahir ? Et le pouvez vous croire ?
-Apprenez-moi mon crime ?
-
--*who_proetus
-      Et peux-tu l'oublier ?
-Va traître, tout ton sang ne saurait l'expier.
-
--*who_bellerophon
-Seigneur, ne croyez pas ainsi que je vous laisse.
-
-**** *book_ *id_IV06 *act_IV *date_1671
-
--*who_timante
-C'est...
-
--*who_bellerophon
-      Ne m'arrêtez point.
-
--*who_timante
-      C'est un ordre qui presse,
-Seigneur ! Considérez...
-
--*who_bellerophon
-      Qu'ai-je à considérer ?
-
--*who_timante
-Que c'est de vous Seigneur, que je dois m'assurer.
-
--*who_bellerophon
-Je reconnais la reine à ce coup qui m'accable.
-Allons, vouloir me perdre est un soin favorable.
-Ma vie est désormais un trop cruel tourment.
-Et pour qui veut périr, il n'importe comment.
-
-**** *book_ *id_V01 *act_V *date_1671
-
--*who_stenobee
 Je tiens Béllérophon enfin sous ma puissance.
 Par mon ordre, on le mène en un lieu d'assurance.
 Il m'était important de l'ôter de ces lieux ;
@@ -1793,18 +1261,10 @@ D'en pouvoir disposer et sans crainte et sans peine ,
 Et ma superbe sœur dont l'ingrat suit la loi,
 Du moins si je le perds, le perdra comme moi.
 
--*who_megare
-Ainsi donc vous voulez sa vie en sacrifice ?
-
--*who_stenobee
 Ah, je l'ai trop aimé pour vouloir qu'il périsse.
 Sa vie encore m'est chère, et malgré ma fureur,
 Si j'osais, j'en voudrais seulement à mon cœur.
 
--*who_megare
-Nul espoir ne vous reste ?
-
--*who_stenobee
       Eh ! Pourquoi non, Mégare ?
 Si je puis écarter tout ce qui nous sépare,
 Rompre mon hyménée, et marier ma sœur,
@@ -1824,9 +1284,6 @@ Qu'on goûte à se venger, et surtout, d'une sœur.
 La voici, vois ses pleurs ; sa peine est sans égale,
 Ah ! Qu'il est doux de voir pleurer une rivale !
 
-**** *book_ *id_V02 *act_V *date_1671
-
--*who_stenobee
 Laissez en ma présence agir en liberté,
 Le trouble dont je vois votre esprit agité :
 Ma sœur, n'étouffez point vos soupirs ni vos plaintes,
@@ -1845,10 +1302,6 @@ Mais peut-être en est-il qui pour sécher vos larmes
 Au rebut d'un ingrat verront encore des charmes.
 Qui pour vous consoler pendant Béllérophon...
 
--*who_philonoe
-Ciel !
-
--*who_stenobee
       Votre cœur frémit à ce funeste nom ?
 Vous parler d'un ingrat qui vous fait tant d'outrage,
 C'est vous renouveler une cruelle image :
@@ -1856,7 +1309,352 @@ C'est redoubler vos pleurs ; et pour les essuyer
 Il vaut mieux s'il se peut vous laisser l'oublier.
 N'en parlons plus, l'oubli n'est que trop légitime.
 
--*who_philonoe
+Quoi douter de son crime ? En perdre la mémoire ?
+D'où vous vient maintenant tant de peine à le croire ?
+Qui le rend moins coupable. Et l'ayant cru d'abord ...
+
+Béllérophon est mort !
+
+Moi, j'ai voulu sa mort ! Ah c'est donc un faux bruit.
+Quelqu'un mal informé répand cette nouvelle.
+Je n'ai point pour l'ingrat de haine si cruelle :
+Non tout ingrat qu'il est... Mais qu'aperçois-je, ô Dieux,
+Timante de retour sans mon ordre en ces lieux !
+
+      Qui peut à ce point vous confondre ?
+Quitter Béllérophon dont vos devez répondre ?
+
+Béllérophon au monstre dont vous devez répondre ?
+
+Et vous l'avez quitté ?
+
+      Le suivre et périr avec lui.
+Tâcher de votre vie avant la sienne offerte
+Au moins de quelque instant put retarder sa perte.
+Mais qui puis-je en sa mort accuser plus que moi ?
+Prenons soin de sa gloire, il le veut, je le dois
+Et je vais hautement commencer sa vengeance
+Par l'aveu de mon crime, et de son innocence.
+
+      Oui je l'avoue à tous.
+Il n'en avait que trop pour Proetus, et pour vous,
+Il n'a que trop rempli tout ce qu'on peut attendre
+De l'âme la plus haute, et du cœur le plus tendre.
+Il ne fut pour tous deux jusqu'au dernier moment,
+Que trop parfait ami, que trop fidèle amant.
+Il ne fut que trop digne et d'amour et d'estime,
+Et son trop de vertu fut enfin tout son crime.
+
+      Je l'aimais plus que vous.
+
+Et par cette fureur jugez de mon amour.
+C'est pas là qu'il doit être au-dessus de tout autre.
+Mon cœur pour la vertu fut fait comme le vôtre
+La gloire qui vous plut, fit mes vœux les plus doux ;
+J'ai porté la fierté cent fois plus loin que vous :
+Voyez où m'a réduite une amour si funeste ?
+Dans vos pertes, du moins, l'innocence vous reste,
+Et de tant de vertu, de gloire et de fierté,
+Il ne me reste rien, l'amour m'a tout ôté.
+Vos feux furent gênés de scrupules, de craintes,
+Et ma flamme a grossi par l'effort des contraintes :
+Rien en vous résistait ; tout m'était opposé ;
+Votre amour n'osait rien ; le mien a tout osé ;
+Il m'a fait trahir tout, sans s'épargner lui-même ;
+Il m'a fait perdre tout , jusques à ce que j'aime ;
+Et sur vos feux, les miens l'ont d'autant emporté
+Qu'ils sont plus criminels, et qu'ils m'ont plus coûté.
+Mais pleurer ce héros ce n'est pas assez faire :
+C'est l'effort trop commun d'une regret ordinaire.
+Voyons qui l'aime plus au-delà du trépas,
+Ou vous qu'il adorait, ou moi qu'il n'aimait pas,
+Et jusque chez les morts, par l'ardeur de le suivre,
+Montrons pour qui des deux, il devait plutôt vivre.
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
+
+      Qui pourrait le comprendre ?
+Voir en vous dont jamais le cœur ne se dément,
+Pour un homme si rare un si grand changement ?
+Y voir pour ce héros succéder tant de haine
+Aux marques d'une estime et si juste, et si pleine ?
+Après tant de faveurs dont vous l'avez comblé,
+Le voir cruellement par vous-même accablé ?
+Enfin pour le bannir vous voir tout entreprendre ?
+Madame, à dire vrai, c'est de quoi me surprendre.
+
+Vous, Madame ?
+
+Il est vrai qu'il n'a pu s'attacher à vous plaire,
+Sans trahir pour Proetus une amitié bien chère ;
+En osant vous aimer il est méconnaissant...
+
+Un peu de jalousie éblouit bien une âme.
+
+      Ils font juger qu'il aime,
+Mais ne pourraient-ils pas s'expliquer par vous-même ?
+
+Mais, Madame, quel lieu trouvez-vous d'en douter ?
+
+Doutez, puisqu'il le faut.
+
+Tout surprenant qu'il est, rien n'est plus véritable.
+
+Quand j'ai parlé de vous sur tout ce que j'ai dit
+Il a semblé d'abord incertain, interdit.
+Mais offrant à son choix l'exil, ou l'hyménée,
+Son âme a sans effort paru déterminée.
+
+Il a, sans l'offenser, en courtisan habile
+Coloré son refus d'une excuse civil ;
+A dit qu'en sa faveur il ne méritait pas
+Qu'on forçat votre sœur à descendre trop bas,
+Et puisque son exil pouvait vous satisfaire
+Qu'il cherchait le moyen le plus sûr de vous plaire.
+Mais voulez-vous, Madame, à présent le chasser ?
+
+À son exil ainsi vous êtes résolue ?
+
+Cependant c'est demain qu'il part...
+
+J'admire avec quel art vous l'avez su réduire
+À prendre en sa faveur tout ce qui peut lui nuire.
+À se trahir lui-même, et par un soin fatal
+À presser le bonheur de son propre rival.
+À voir Béllérophon il vous a résolue ?
+
+Quoi, vous craignez de voir un amant qui vous plaît,
+Et surtout, dans l'État où vous savez qu'il est.
+Tendre, amoureux, soumis, souffrant sans s'oser plaindre.
+
+Il est vrai qu'entre vous l'amour a peu d'espoir,
+Vous devez redouter Proetus et son pouvoir ;
+Votre père aura peine à rompre un hyménée
+Fondé sur une foi publiquement donnée :
+Je crains mille périls que je vois trop certains.
+
+Qui peut donc vous troubler, et d'où naît votre effroi
+Si vous ne craignez rien des scrupules du roi,
+Du pouvoir de Proetus, de son dépit externe...
+
+Je ne m'étonne plus que votre cœur s'alarme,
+Et d'un objet si cher appréhende le charme.
+Vous deviez bien sans doute éviter de la voir.
+Et si vous le pouviez...
+
+Sans attendre qu'il vienne, et devant qu'il vous voit,
+Il n'est pas possible encore qu'on le renvoie.
+Et si vous le voulez j'airai de votre part.
+
+      On peut en diligence
+Prendre encore le temps d'empêcher qu'il n'avance.
+
+Irai-je ?
+
+Si ses vœux n'ont osé s'élever à vous-même,
+Tout vous doit être égal qui que ce soit qu'il aime.
+
+J'ai peine, ainsi que vous, Madame, à le connaître.
+Mais si j'osais, Seigneur, former quelque soupçon,
+Il ne pourrait tomber que sur Béllérophon.
+
+Il avait trop de peur que l'on ne peut entendre :
+Il m'a fait retirer avant qu'il ai rien dit :
+Je l'ai vu seulement sortir tout interdit.
+
+      Avec soin elle a voulu se taire.
+Elle s'est fait un effort pour cacher sa colère ;
+Mais un écrit fatal qu'on lui vient d'apporter
+A su contraindre enfin son courroux d'éclater.
+C'est d'où naît la douleur qui de son cœur s'empare...
+
+Ainsi donc vous voulez sa vie en sacrifice ?
+
+Nul espoir ne vous reste ?
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philonoe
+
+Je cherche aussi, Madame, à pouvoir sans témoins
+Vous donner un avis qui n'importe pas moins
+Tout l'État y prend part.
+
+Béllérophon ici s'est acquis tant de gloire
+Qu'on peut malaisément en perdre la mémoire,
+Et qu'on a peine à voir sans en être surpris
+Que tant de mérite un exil soit le prix.
+On murmure, on s'émeut, chacun ose le plaindre,
+Mais le peuple sur tout paraît le plus à craindre ;
+Il pourrait s'emporter à trop d'émotion,
+Et passer du murmure à la sédition.
+C'est à vous d'en juger, d'en prévenir la suite.
+Je laisse avec le roi tout votre conduite,
+Et sans prétendre en rien choquer votre pouvoir
+C'est un sincère avis que j'ai cru vous devoir.
+
+Il n'est guère de prix quoi qu'il doive coûter
+Qu'ici Béllérophon ne puisse mériter.
+
+Se peut-il que ma gloire ait rien démêler...
+
+Je vous l'avouerai, Madame, un trône a de quoi plaire ;
+Et s'il vous faut ici céder celui d'un père,
+Peut-être est-il des rois qui perdront le souci
+De ma donner ailleurs ce que je cède ici.
+Mais il n'est point d'appas dont la couronne brille
+Que je ne sacrifie au bien de ma famille,
+Toujours les plus hauts rangs ne sont pas les meilleurs
+Et vivre près de vous vaut bien régner ailleurs.
+
+Si le trouble ou je suis te fait peine à comprendre,
+Tu n'as qu'à bien ouï ce qu'on a fait entendre ;
+Tu sais peu quel dépit un mépris peut causer,
+Et ce qu'on de honte à se voir refuser.
+
+Ladice, tu dis vrai, je dois m'en souvenir,
+Béllérophon n'est pas d'un rang digne à m'obtenir :
+Il n'est rien en effet qui pour lui sollicite
+Qu'un peu de renommée avec trop de mérite ;
+Et tout prince qu'il est à moins que d'être toi,
+Il n'en eut pu sans audace aspirer jusqu'à moi ;
+Il n'en eut pu trouver de légitime excuse ;
+Ladice, cependant, c'est lui qui me refuse
+Et le peu qu'entre nous on voit d'égalité
+D'un refus si cruel accroît l'indignité.
+
+Ah Ladice !
+
+Non achève, pénètre, et vois tout mon secret.
+Vois quel trouble odieux me presse et me surmonte ;
+Fais m'en frémir d'horreur, fais m'en rougir de honte ;
+Et du moins si mon cœur n'en peut plus revenir
+En me le reprochant commence à m'en punir.
+Je devrais en effet recevoir cette offense
+Avec moins de colère, et plus d'indifférence ;
+C'est un bonheur pour moi que son aveuglement,
+L'outrage est moins honteux que le ressentiment :
+L'affront vient de trop bas pour men laisser atteindre,
+J'honore trop l'ingrat d'avoir daigné m'en plaindre,
+D'avoir tant de regret de son heureux refus,
+Et j'ai trop de dépit pour n'avoir rien de plus.
+
+Hélas j'aurais... Mais non, ne m'y fais pas songer.
+Méprisons cet ingrat comme il m'a méprisée :
+Mais crois-tu que ma sœur ne m'ait point abusée.
+Ne pourrait-elle point par des déguisements,
+Avoir voulu sonder mes secrets sentiments ?
+Pénétrer mon espoir, voir quel désire me presse,
+Et pour Béllérophon jusqu'où je m'intéresse ?
+Son refus me fait peine encore à concevoir.
+
+Après ce qu'on vois doit, vous pouvez tout prétendre.
+
+Elle ne m'a rien dit qui vous doive troubler.
+J'aurais tort de m'en plaindre.
+
+La rapport de la reine est trop à votre gloire.
+
+      Parlez, ne l'en dois-je pas croire ?
+En a-t-elle trop dit ? J'en croirai votre aveu.
+
+Un juste étonnement me laisse peu capable
+De vous dire à quel point je vous suis redevable :
+Je sens comme je dois de si généreux soins,
+Et veux bien avouer que j'en attendais moins,
+Je n'avais pas prévu ce grand effort de gloire ;
+De tout autre que vous j'eusse eu peine à la croire,
+Et jusqu'à votre aveu, j'avais presque douté
+Qu'on put porter si loin la générosité.
+
+Vous écoutez toujours, n'est-ce point trop répondre ?
+
+Il n'a tenu qu'à vous de faire un autre choix.
+
+Que sert de s'expliquer sur un choix déjà fait ?
+
+Mais qui vous avait dit que quoi que l'on pût fait
+Le seul charme du trône eut le droit de me plaire ?
+Que mon âme attachée à l'ardeur de régner
+Crut d'un illustre cœur l'empire à dédaigner ?
+Et malgré le penchant qu'un tendre amour excite
+Fit tout pour la grandeur et rien pour le mérite ?
+
+Adieu.
+
+      Hélas !
+
+      Ah ! Ne l'entendez pas.
+
+Ne vous obstinez point à m'en faire trop dire,
+Allez, et me laissez, s'il se peut, souvenir
+Que ce n'est pas de moi qu'il me faut obtenir.
+
+Si vous cherchez ma sœur, nous la pouvons attendre,
+Elle est avec mon père.
+
+Ne pouvant rien pour moi, que ne pourrais-je pour d'autres ?
+Vous savez mon devoir , et que jusqu'à mon cœur
+Tout dépend de mon père, ou plutôt de ma sœur.
+
+Je ne puis qu'obéir, mais s'il le faut, Seigneur,
+Au moins, j'obéirai sans peine en sa faveur.
+
+Je vrai bonheur n'est pas dans le rang le plus haut,
+Et tout ce qui sait plaire est toujours sans défaut.
+
+On doit appréhender un mal que l'on néglige,
+Et si c'est...
+
+Ne pouvons-nous, Madame, espérer de l'apprendre ?
+
+Mégare, peut savoir d'où ce chagrin peut naître ?
+
+C'est adoucir ses maux que de les découvrir.
+
+Béllérophon ainsi peut oser vous écrire ?
+
+Le perfide !
+
+L'ingrat ! Puisque son âme était préoccupée
+Pourquoi dans ses forfaits m'a-t-il enveloppée ?
+Que ne m'épargnerait-il la honte d'un aveu
+Qui me coûtait si cher, et lui servait si peu ?
+À quoi bon sans besoin, par une injuste envie
+Troubler l'heureuse paix d'une innocente vie ?
+Pour lui les trahisons ont-elles tant d'appas
+Que trahis l'amour ne lui suffise pas ?
+Et pour trahir l'amour, qu'était-il nécessaire
+Qu'il vint surprendre un cœur qu'il n'avait que faire ?
+Non, vous n'êtes, Seigneur, à plaindre qu'à demi :
+Vous ne perdez pas tout en perdant un ami ;
+Votre tendresse à deux se trouvait partagée,
+Et la mienne à l'ingrat s'était toute engagée.
+Votre amitié trahie a du moins en ce jour
+La douceur de se voir consoler par l'amour,
+Et dans mon cœur sensible au seul bien qu'on me vole
+L'amour trahi perd tout, et rien ne le console.
+
+Il n'est que trop coupable et ne peut trop souffrir ;
+Mis l'exil et l'horreur de perdre ce qu'il aime
+Sont un supplice encore plus grand que la mort même.
+
+      Hélas !
+Si vous êtes troublé, puis-je ne l'être pas ?
+
+      Va, laisse-moi, perfide.
+
+Va, ne me dis plus rien, perfide, laisse-moi.
+
+      Et pour toute votre vie.
+
+Qui l'eût pu concevoir ! Quelle horreur en approche ?
+Ingrat, mérites-tu que je te le reproche ?
+
+Ha que pour mon repos ne t'ai-je fuis toujours.
+
+Ciel !
+
 Non, non , Madame, parlez-moi de son crime,
 Peignez-m'en bien l'horreur, retracez-la toujours,
 Des plus noires couleurs empruntez le secours ;
@@ -1865,47 +1663,102 @@ C'est trop peu de l'oubli, j'ai besoin de la haine,
 Et peut-être en cherchant l'oubli hors de saison
 Tout ce que j'oublierais serait sa trahison.
 
--*who_stenobee
-Quoi douter de son crime ? En perdre la mémoire ?
-D'où vous vient maintenant tant de peine à le croire ?
-Qui le rend moins coupable. Et l'ayant cru d'abord ...
-
--*who_philonoe
 Madame je l'aimais, et j'apprends qu'il est mort.
 
--*who_stenobee
-Béllérophon est mort !
-
--*who_philonoe
       La nouvelle en est sue.
 Quoi ? Sa mort vous surprend, vous qui l'avez voulue !
 Vous enfin dont la haine au trépas l'a conduit !
 
--*who_stenobee
-Moi, j'ai voulu sa mort ! Ah c'est donc un faux bruit.
-Quelqu'un mal informé répand cette nouvelle.
-Je n'ai point pour l'ingrat de haine si cruelle :
-Non tout ingrat qu'il est... Mais qu'aperçois-je, ô Dieux,
-Timante de retour sans mon ordre en ces lieux !
+Ô Dieux ! Son innocence ?
 
-**** *book_ *id_V03 *act_V *date_1671
+Pourquoi le poursuivre avec tant de courroux ?
+Pourquoi le tant haïr ?
 
--*who_timante
+Vous auriez pu l'aimer ? Vous dont l'injuste envie
+Persécuta sans cesse et sa gloire et sa vie !
+Vous de qui la fureur lui coûte enfin le jour ?
+
+      Ah laisse-moi punir mon lâche cœur
+De n'avoir pu mourir d'amour et de douleur.
+Allons, ne souffrons pas que dans le tombeau même
+Ma rivale avant moi rejoigne ce que j'aime.
+
+Béllérophon est mort, qu'ai-je à fuir que la vie ?
+Plaignez moins son destin trop illustre et trop doux :
+Gardez votre pitié tout entière pour vous.
+
+Timante nous a dit son désespoir funeste :
+Il l'a vu s'exposer...
+
+Ainsi Béllérophon évite le trépas ?
+
+Ma sœur vient hautement de la justifier
+Hâtez-vous de la voir, sa fureur est extrême,
+Et pourrait bien enfin tourner contre elle-même.
+
+Toute injuste qu'elle est, secourons-la, n'importe.
+
+      Quoi ? Timante, elle est morte ?
+
+Ne parons plus de crime, excusez mon erreur.
+Je sais votre innocence, il m'est doux de la croire,
+Et je l'estime encore plus que votre victoire.
+
+Il n'était pas besoin d'être si glorieux,
+Sans chercher les périls d'une gloire si chère,
+Revenir innocent suffisait pour me plaire.
+
+      Seigneur, l'amour content
+Pourrait en dire trop, ne l'écoutons pas tant.
+Songeons à consoler Proetus et mon père.
+Le sang et l'amitié ne doivent pas moins faire;
+Qu'ils fassent leur devoir, et vous assurez bien
+Que l'amour à son tour n'oubliera pas le sien.
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladice
+
+Recevez-vous, Madame, avec tant de tristesse
+Une si favorable et si belle promesse ?
+Quoi l'espoir le plus doux de l'hymen d'un grand roi,
+Ne peut vous inspirer que chagrin et qu'effroi ?
+
+Quel honte, Madame, avez-vous lieu de croire,
+Dans un mépris heureux qui sauve votre gloire ?
+Voyez qui vous refuse : un prince infortuné,
+Persécuté par tout, des siens abandonne,
+Et dont sans son refus l'alliance importune,
+Vous eût fait épouser la mauvaise fortune.
+
+Mais, Madame, en montrant tant de délicatesse
+N'est-ce point trop sentir que ce refus vous blesse ?
+
+      Mon zèle est peut-être indiscret ?
+
+Si votre âme en secret était déjà séduite,
+Songez sans son refus où vous étiez réduite ?
+Songez où son hymen eut pu vous engager ?
+
+Madame le voici, vous allez tout savoir.
+
+Madame...
+
+
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_timante
+
+C'est...
+
+      C'est un ordre qui presse,
+Seigneur ! Considérez...
+
+Que c'est de vous Seigneur, que je dois m'assurer.
+
 Ah Madame !
 
--*who_stenobee
-      Qui peut à ce point vous confondre ?
-Quitter Béllérophon dont vos devez répondre ?
-
--*who_timante
 J'ai fait ce que j'ai pu, mais le pouvoir humains
 Contre l'effort du monstre a toujours été vain.
 Chacun sait trop sa rage et l'effroi qu'elle imprime...
 
--*who_stenobee
-Béllérophon au monstre dont vous devez répondre ?
-
--*who_timante
 C'en est fait, il est mort. Par votre arrêté,
 Seul, dans un char couvert, de soldats escorté,
 Je le faisais conduire au fort en diligence:
@@ -1947,192 +1800,17 @@ Dis-lui, quoi qu'elle ait fait, que je ne me plain pas.
 Pourvu qu'au moins rendant justice à ma mémoire
 Elle ait après ma mort quelque soin de ma gloire.
 
--*who_stenobee
-Et vous l'avez quitté ?
-
--*who_timante
       Que pouvais-je aujourd'hui,
 Seul sans espoir...
 
--*who_stenobee
-      Le suivre et périr avec lui.
-Tâcher de votre vie avant la sienne offerte
-Au moins de quelque instant put retarder sa perte.
-Mais qui puis-je en sa mort accuser plus que moi ?
-Prenons soin de sa gloire, il le veut, je le dois
-Et je vais hautement commencer sa vengeance
-Par l'aveu de mon crime, et de son innocence.
-
--*who_philonoe
-Ô Dieux ! Son innocence ?
-
--*who_stenobee
-      Oui je l'avoue à tous.
-Il n'en avait que trop pour Proetus, et pour vous,
-Il n'a que trop rempli tout ce qu'on peut attendre
-De l'âme la plus haute, et du cœur le plus tendre.
-Il ne fut pour tous deux jusqu'au dernier moment,
-Que trop parfait ami, que trop fidèle amant.
-Il ne fut que trop digne et d'amour et d'estime,
-Et son trop de vertu fut enfin tout son crime.
-
--*who_philonoe
-Pourquoi le poursuivre avec tant de courroux ?
-Pourquoi le tant haïr ?
-
--*who_stenobee
-      Je l'aimais plus que vous.
-
--*who_philonoe
-Vous auriez pu l'aimer ? Vous dont l'injuste envie
-Persécuta sans cesse et sa gloire et sa vie !
-Vous de qui la fureur lui coûte enfin le jour ?
-
--*who_stenobee
-Et par cette fureur jugez de mon amour.
-C'est pas là qu'il doit être au-dessus de tout autre.
-Mon cœur pour la vertu fut fait comme le vôtre
-La gloire qui vous plut, fit mes vœux les plus doux ;
-J'ai porté la fierté cent fois plus loin que vous :
-Voyez où m'a réduite une amour si funeste ?
-Dans vos pertes, du moins, l'innocence vous reste,
-Et de tant de vertu, de gloire et de fierté,
-Il ne me reste rien, l'amour m'a tout ôté.
-Vos feux furent gênés de scrupules, de craintes,
-Et ma flamme a grossi par l'effort des contraintes :
-Rien en vous résistait ; tout m'était opposé ;
-Votre amour n'osait rien ; le mien a tout osé ;
-Il m'a fait trahir tout, sans s'épargner lui-même ;
-Il m'a fait perdre tout , jusques à ce que j'aime ;
-Et sur vos feux, les miens l'ont d'autant emporté
-Qu'ils sont plus criminels, et qu'ils m'ont plus coûté.
-Mais pleurer ce héros ce n'est pas assez faire :
-C'est l'effort trop commun d'une regret ordinaire.
-Voyons qui l'aime plus au-delà du trépas,
-Ou vous qu'il adorait, ou moi qu'il n'aimait pas,
-Et jusque chez les morts, par l'ardeur de le suivre,
-Montrons pour qui des deux, il devait plutôt vivre.
-
--*who_ladice
-Madame...
-
--*who_philonoe
-      Ah laisse-moi punir mon lâche cœur
-De n'avoir pu mourir d'amour et de douleur.
-Allons, ne souffrons pas que dans le tombeau même
-Ma rivale avant moi rejoigne ce que j'aime.
-
-**** *book_ *id_V04 *act_V *date_1671
-
--*who_proetus
-Dérobez-vous, Princesse, à des malheurs nouveaux.
-Sauvez-vous de ces lieux, fuyez sur mes vaisseaux.
-Fuyez un peuple aveugle, et dont l'injuste envie...
-
--*who_philonoe
-Béllérophon est mort, qu'ai-je à fuir que la vie ?
-Plaignez moins son destin trop illustre et trop doux :
-Gardez votre pitié tout entière pour vous.
-
--*who_philonoe
-Timante nous a dit son désespoir funeste :
-Il l'a vu s'exposer...
-
--*who_proetus
-      Apprenez donc le reste.
-Averti que mes gens trop touchés de son sort
-Courraient pour le sauver sur le chemin du fort,
-J'ai cru devoir moi-même aller par ma présence
-De leur zèle indiscret calmer la violence.
-J'ai pris soin de les suivre, et les faisant rentrer,
-Dans la ville après eux j'allais me retirer ;
-Lorsque j'ai vu le monstre, et n'ai pu me défendre
-D'admirer qu'un perfide osât lui seul l'attendre.
-Ses gardes plein d'effroi l'ayant d'abord quitté,
-Le bruit de son trépas a partout éclaté ;
-Et contre un ennemi jusqu'alors indomptable,
-Lui-même a dû juger sa perte inévitable.
-Cependant, il l'attaque avec un dard lancé
-Qui, perçant l'œil du monstre, y demeure enfoncé.
-Son sang qui par ce coup jaillit en abondance,
-L'achevant d'aveugler, détourne sa vengeance,
-Sa victime a couvert par son aveuglement
-À sa fureur errante échappe heureusement.
-Ce grand corps sans rien voir, s'élance à l'aventure,
-Il se veut prendre au dard qu'il sent dans sa blessure ;
-Mais n'y pouvant atteindre, il se heurte, il se mord,
-Il s'affaiblit toujours par ce qu'il fait d'effort,
-Et plus en s'agitant sa rage en vain s'essaye,
-Plus le dard qui pénètre approfondit sa plaie.
-
--*who_philonoe
-Ainsi Béllérophon évite le trépas ?
-
--*who_proetus
-Loin d'éviter le monstre, il marche sur ses pas.
-Il le voit qui revient, il l'attend au passage ;
-Observe un faible endroit, joint l'adresse au courage ;
-Un javelot à la main, à côté se glissant,
-Choisit le flanc qu'il montre, et le perce en passant.
-La coup en est mortel ; le monstre qui se roule
-S'efforce d'avaler tout son sang qui s'écoule,
-Épuise à se débattre un reste de vigueur,
-Et tombe enfin sans vie, au pieds de son vainqueur.
-La peuple en haut des tours, témoin de sa victoire,
-Par de longs cris de joie célèbre la gloire.
-Il sort, il court en foule, où ce grand corps sanglant
-Tout mort qu'il est, étonne, et n'est vu qu'en tremblant.
-Plus à voir ce prodige, on s'effraye, on se trouble,
-Plus l'admiration pour le vainqueur redouble,
-Chacun pour l'honorer s'efforce d'enrichir ;
-Tel assure avoir vu des Dieux le secourir,
-Et venir assister ses forces inégales,
-L'un d'un cheval volant, l'autre d'armes fatales,
-Tant en des cœurs surpris d'un grand événement
-La superposition s'insinue aisément.
-L'ardeur du peuple enfin lui devient si forte,
-Que jusques au palais en triomphe on le porte,
-Et qu'on entend partout crier avec chaleur
-Qu'il faut que votre hymen couronne sa valeur.
-De quelle joie, ô Dieux ! Paraissez-vous capable ?
-Quelque heureux qu'il puisse être, en est-il moins coupable,
-Nous a-t-il moins trahis ? Pouvez-vous l'oublier !
-
--*who_philonoe
-Ma sœur vient hautement de la justifier
-Hâtez-vous de la voir, sa fureur est extrême,
-Et pourrait bien enfin tourner contre elle-même.
-
-**** *book_ *id_V05 *act_V *date_1671
-
--*who_timante
 Seigneur...
 
--*who_proetus
-      Parle, quels cris percent jusqu'en ces lieux.
-
--*who_timante
 La reine votre épouse...
 
--*who_proetus
-      Achève.
-
--*who_timante
       Expire.
 
--*who_proetus
-      Ah Dieux !
-
--*who_philonoe
-Toute injuste qu'elle est, secourons-la, n'importe.
-
--*who_timante
 Madame, il n'est plus temps...
 
--*who_philonoe
-      Quoi ? Timante, elle est morte ?
-
--*who_timante
 Le désespoir au cœur, la fureur dans les yeux,
 Elle a couru chez elle, en sortant de ces lieux.
 D'une fatale épée à Proetus destinée,
@@ -2159,38 +1837,3 @@ Ce héros s'avançant a su cette disgrâce ;
 Et je l'ai vu suivi d'une gros de populace
 Vers votre appartement passer... Mais le voici.
 
-**** *book_ *id_V06 *act_V *date_1671
-
--*who_bellerophon
-Amis, laissez-moi seul. La princesse est ici.
-Ne craignez point qu'un peuple ébloui de ma gloire
-Vous rende malgré vous le prix de ma victoire ;
-Pour moi, sans votre cœur, il n'est point d'autre bien :
-Je compte en la perdant ma victoire pour rien.
-Si ma princesse encore de ma foi se défie
-Le ciel par un miracle en vain me justifie :
-C'est un crime assez grand que de vous faire horreur.
-
--*who_philonoe
-Ne parons plus de crime, excusez mon erreur.
-Je sais votre innocence, il m'est doux de la croire,
-Et je l'estime encore plus que votre victoire.
-
--*who_bellerophon
-Quoi je reviens enfin sûr de plaire à vos yeux.
-
--*who_philonoe
-Il n'était pas besoin d'être si glorieux,
-Sans chercher les périls d'une gloire si chère,
-Revenir innocent suffisait pour me plaire.
-
--*who_bellerophon
-Se peut-il que l'amour...
-
--*who_philonoe
-      Seigneur, l'amour content
-Pourrait en dire trop, ne l'écoutons pas tant.
-Songeons à consoler Proetus et mon père.
-Le sang et l'amitié ne doivent pas moins faire;
-Qu'ils fassent leur devoir, et vous assurez bien
-Que l'amour à son tour n'oubliera pas le sien.

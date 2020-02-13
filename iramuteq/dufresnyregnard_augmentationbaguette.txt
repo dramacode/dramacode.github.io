@@ -1,151 +1,263 @@
 
 
-**** *book_ *id_I01 *act_I *date_1693
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
--*who_arlequin
-Tandis que nos musiciens prendront haleine, il ne vous déplaira pas, messieurs, que je vous fasse un petit conte.
-Le Cabaretier.
-CONTE.
-Ces jours gras, un cabaretier,
-Des plus fripons de son métier,
-Avait un muid, pour tout potage,
-D'un bon vin vieux de l'Hermitage.
-Un voisin curieux en voulut un flacon ;
-Les voisins du voisin le trouvèrent si bon,
-Qu'ils en firent tirer mainte et mainte bouteille.
-Mon scélérat, croyant faire merveille,
-Et perpétuer son tonneau,
-Le remplissait de vin nouveau.
-Les fins gourmets entraient en danse,
-L'argent venait en abondance ;
-Bref, la pièce eut tant de crédit,
-Qu'il ne fut ni grand ni petit,
-Qui n'en voulût boire chopine.
-Mon matois faisait bonne mine ;
-Plus le vin vieux il débitait,
-Et plus le vin nouveau marchait,
-Espérant, par ce stratagème,
-S'engraisser pendant le carême :
-Mais par malheur le bon vin vieux s'usa,
-Et le nouveau du tonneau s'empara ;
-Tant qu'à la fin, pour finir mon histoire,
-Personne n'en voulut plus boire.
-À l'application.
-Nous sommes, ne vous en déplaise,
-Ce fripon de cabaretier,
-Qui depuis trois mois, à notre aise,
-Faisant valoir notre métier,
-Allongeons notre comédie,
-Et qui mêlons dans le tonneau
-Quelques pintes de vin nouveau,
-Pour vous le faire enfin boire jusqu'à la lie.
-Le parterre, qui seul règle notre destin,
-Est ce fin gourmet de voisin
-Qui nous attire l'abondance ;
-Mais aussi, par reconnaissance,
-Pour quinze sous nous lui donnons
-Pareil vin qu'au théâtre un écu nous vendons.
-Nous allons vous donner encor quelques bouteilles
-De ce râpé par les oreilles :
-Messieurs, nous serons trop heureux
-Si le vin nouveau passe à la faveur du vieux.
-
-**** *book_ *id_I02 *act_I *date_1693
-
--*who_belise
-Holà !
-Ho, quelqu'un !
-Portier, limonadier, ouvreuses de loges !
-Depuis trois mois on ne saurait trouver à se placer dans cet hôtel de Bourgogne.
-
--*who_roger
 Voilà une de ces bouteilles de vin que je vous avais promises ; mais elle me paraît bien aigre.
 
--*who_belise
-Bonjour, monsieur ; jouez-vous encore aujourd'hui votre Baguette de Vulcain ?
+Si nous la jouons ? Je le crois, ma foi ; et il ne tiendra qu'à ces messieurs
+Que nous ne la jouions encore trois mois. Apparemment, madame, que vous cherchez votre mari ? Est-il dans le cas de la baguette ?
 
--*who_roger
-Si nous la jouons ?
-Je le crois, ma foi ; et il ne tiendra qu'à ces messieurs
-Que nous ne la jouions encore trois mois.
-Apparemment, madame, que vous cherchez votre mari ?
-Est-il dans le cas de la baguette ?
-
--*who_belise
-Moi, un mari ?
-Moi, chercher mari ?
-Est-ce que j'ai l'air d'une femme à mari ?
-
--*who_roger
 Je vous demande pardon ; je vois bien que vous n'êtes qu'une femme à galant.
 
--*who_belise
-Un bel esprit comme moi, me soupçonner de dégénérer jusqu'aux êtres matériels !
-Apprenez, mon ami, que j'ai épousé l'antique, et que je n'aurai jamais d'autres maris que Juvénal, Horace, Virgile, et surtout le bon homme Homère.
+Vous avez fait là de belles épousailles ! Avec de pareils maris, vous aurez bien de la peine à réparer les torts que la guerre cause au genre humain.
 
--*who_roger
-Vous avez fait là de belles épousailles !
-Avec de pareils maris, vous aurez bien de la peine à réparer les torts que la guerre cause au genre humain.
-
--*who_belise
-Assez de filles se chargeront de ce soin-là ; pour moi, je passe mes jours avec les livres, et je ne m'endors point que je n'aie une douzaine d'auteurs anciens sous mon chevet.
-
--*who_roger
 On ne dispute pas des goûts ; mais je connais des femmes aussi spirituelles que vous qui dorment plus volontiers avec des modernes.
 
--*who_belise
-On dit que dans votre comédie vous faites une comparaison du vieux temps avec le nouveau.
-Cela n'aurait-il pas quelque rapport avec le parallèle des anciens et des modernes, qui partage à présent tous nos beaux esprits ?
-Quel parti prenez-vous dans cette dispute-là, vous autres comédiens ?
+Mais, madame, je vous en fais juge vous-même. En mille ans, les auteurs anciens ne nous produiraient pas un verre d'eau ; et ce sont les modernes, comme vous voyez, qui font bouillir notre marmite.
 
--*who_roger
-Mais, madame, je vous en fais juge vous-même.
-En mille ans, les auteurs anciens ne nous produiraient pas un verre d'eau ; et ce sont les modernes, comme vous voyez, qui font bouillir notre marmite.
+Eh ! Que feriez-vous ?
 
--*who_belise
-Si je savais que vous parlassiez sérieusement, et que vous prissiez le parti des modernes...
+L'herbe aurait tout le temps de croître dans le parterre. Mais vous entrez bien chaudement dans les intérêts de l'antiquité.
 
--*who_roger
-Eh !
-Que feriez-vous ?
-
--*who_belise
-Ce que je ferais !
-Je troublerais vos spectacles, je louerais des gens pour siffler, et je vous empêcherais de parler français, jusqu'à ce que Pasquariel eût été reçu, pour son beau langage, à l'Académie.
-
--*who_roger
-L'herbe aurait tout le temps de croître dans le parterre.
-Mais vous entrez bien chaudement dans les intérêts de l'antiquité.
-
--*who_belise
-Si j'y entre chaudement !
-Vous ne savez donc pas que je suis le flambeau fatal qui vient d'allumer la guerre parmi les gens de lettres ?
-
--*who_roger
 Je ne croyais pas que cette nation-là fût belliqueuse.
 
--*who_belise
-Que dites-vous ?
-Dans le dernier combat, trois de nos chefs furent blessés à mort d'un seul coup d'épigramme.
-
--*who_roger
 Si on charge une fois les sonnets à cartouche, il en demeurera bien sur le carreau : les Invalides ne suffiront pas pour les blessés ; il en faudra mener quelques uns aux Petites-Maisons.
 
--*who_belise
-Je soutiendrai les anciens envers et contre tous.
-
--*who_roger
 J'ai à vous dire qu'il est inutile de vous tant échauffer ; cette guerre-là est terminée.
 
--*who_belise
-Cela ne se peut.
-On ne fait rien à l'Académie sans me consulter.
+Je ne sais pas si cela se peut ; mais je sais bien que voilà l'arrêt que je porte dans ma poche. Lisez.
 
--*who_roger
-Je ne sais pas si cela se peut ; mais je sais bien que voilà l'arrêt que je porte dans ma poche.
-Lisez.
+Voilà le Druide, qui est un antique, qui vous en donnera une autre.
 
--*who_belise
+Juvénal, Horace et Virgile,
+En bon français, sont des nigauds ;
+Il vous faut un mari, la fille,
+Mais un mari de chair et d'os.
+
+Voilà un jeune tendron qui ne serait pas mauvais à enchanter, et je mêlerais volontiers ma magie noire avec sa magie blanche.
+
+Endormir une mère ! J'aimerais mieux avoir dix maris à bercer.
+
+Le bon naturel de fille ! Hélas ! Une pauvre petite mineure qui cherche à s'émanciper ! Cela me fend le coeur !
+
+Cela est dans l'ordre.
+
+Je vous sais bon gré, à votre âge, d'aimer la réforme.
+
+C'est que les filles d'aujourd'hui aiment le grand air.
+
+C'est à peu près la même chose à présent, excepté que le fruit que mangent les dames est un peu plus épicé ; et elles ont trouvé le moyen de se rafraîchir avec des jambons de Mayence, des mortadelles et des cervelas de la rue des Barres. Pour leur laitage, c'est ordinairement du vin de Champagne comme il sort du tonneau.
+
+Vous avez là une jolie cousine.
+
+Non ; car dans la colère où je suis contre elle, si je l'endormais une fois, elle courrait risque de ne s'éveiller de sa vie.
+
+Voilà le Druide, qui est homme expert dans ces cas-là ; il va vous satisfaire.
+
+Quand mère sauvage
+Dit dans ses leçons
+Que fille a votre âge
+Doit fuir les garçons,
+Vous devez répondre :
+C'est ce que j'ai résolu
+Lanturelu, lanturelu, lanturelu.
+
+M'as-tu déjà vu quelquefois ?
+
+J'aurais vraiment grand tort ; la harangue est jolie.
+
+Demandez-le plutôt à monsieur que voilà.
+
+Pour son bien, ses parents ?
+
+Qui diable s'en serait douté ?
+
+Combien t'a-t-elle fait attendre ?
+Un an ?
+
+      Deux ans ?
+
+      Dix ans ?
+
+C'est bien peu ; mais avec une femme qu'on aime,
+Il ne faut pas entrer dans un calcul bourgeois,
+Ni prendre garde à trois ou quatre mois.
+
+Tu n'éprouves pas seul un pareil accident ;
+Et si l'on comptait bien l'absence ou la présence
+De la plupart de nos maris,
+On trouverait que dans Paris
+Il serait peu d'enfants dont la naissance
+Ne vînt ou trop tôt ou trop tard,
+À moins que l'on ne fît un almanach bâtard.
+
+Il faut toujours s'en faire honneur,
+Et peut-être en es-tu l'auteur.
+Il est des enfants vifs qui cherchent la lumière
+Presque aussitôt qu'ils sont conçus ;
+Et les femmes d'esprit sur pareille matière
+Font aisément des impromptus.
+
+Mais quel âge avait-il ?
+
+      Qu'est-ce qu'il me lanterne ?
+Ton enfant est produit à terme.
+À quoi bon faire tant de bruit ?
+Quatre mois et demi de jour, autant de nuit ;
+À neuf mois le total se monte.
+Hé bien, n'est-ce pas là ton compte ?
+
+Le Druide va te calmer l'esprit par un petit couplet de chanson.
+
+Au temps passé,
+On n'achetait que les belles ;
+Mais tout a changé,
+Toureloure, loure, loure ;
+Il ne reste point de bête au marché.
+
+
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+
+Voilà une de ces bouteilles de vin que je vous avais promises ; mais elle me paraît bien aigre.
+
+Si nous la jouons ? Je le crois, ma foi ; et il ne tiendra qu'à ces messieurs
+Que nous ne la jouions encore trois mois. Apparemment, madame, que vous cherchez votre mari ? Est-il dans le cas de la baguette ?
+
+Je vous demande pardon ; je vois bien que vous n'êtes qu'une femme à galant.
+
+Vous avez fait là de belles épousailles ! Avec de pareils maris, vous aurez bien de la peine à réparer les torts que la guerre cause au genre humain.
+
+On ne dispute pas des goûts ; mais je connais des femmes aussi spirituelles que vous qui dorment plus volontiers avec des modernes.
+
+Mais, madame, je vous en fais juge vous-même. En mille ans, les auteurs anciens ne nous produiraient pas un verre d'eau ; et ce sont les modernes, comme vous voyez, qui font bouillir notre marmite.
+
+Eh ! Que feriez-vous ?
+
+L'herbe aurait tout le temps de croître dans le parterre. Mais vous entrez bien chaudement dans les intérêts de l'antiquité.
+
+Je ne croyais pas que cette nation-là fût belliqueuse.
+
+Si on charge une fois les sonnets à cartouche, il en demeurera bien sur le carreau : les Invalides ne suffiront pas pour les blessés ; il en faudra mener quelques uns aux Petites-Maisons.
+
+J'ai à vous dire qu'il est inutile de vous tant échauffer ; cette guerre-là est terminée.
+
+Je ne sais pas si cela se peut ; mais je sais bien que voilà l'arrêt que je porte dans ma poche. Lisez.
+
+Voilà le Druide, qui est un antique, qui vous en donnera une autre.
+
+Juvénal, Horace et Virgile,
+En bon français, sont des nigauds ;
+Il vous faut un mari, la fille,
+Mais un mari de chair et d'os.
+
+Voilà un jeune tendron qui ne serait pas mauvais à enchanter, et je mêlerais volontiers ma magie noire avec sa magie blanche.
+
+Endormir une mère ! J'aimerais mieux avoir dix maris à bercer.
+
+Le bon naturel de fille ! Hélas ! Une pauvre petite mineure qui cherche à s'émanciper ! Cela me fend le coeur !
+
+Cela est dans l'ordre.
+
+Je vous sais bon gré, à votre âge, d'aimer la réforme.
+
+C'est que les filles d'aujourd'hui aiment le grand air.
+
+C'est à peu près la même chose à présent, excepté que le fruit que mangent les dames est un peu plus épicé ; et elles ont trouvé le moyen de se rafraîchir avec des jambons de Mayence, des mortadelles et des cervelas de la rue des Barres. Pour leur laitage, c'est ordinairement du vin de Champagne comme il sort du tonneau.
+
+Vous avez là une jolie cousine.
+
+Non ; car dans la colère où je suis contre elle, si je l'endormais une fois, elle courrait risque de ne s'éveiller de sa vie.
+
+Voilà le Druide, qui est homme expert dans ces cas-là ; il va vous satisfaire.
+
+Quand mère sauvage
+Dit dans ses leçons
+Que fille a votre âge
+Doit fuir les garçons,
+Vous devez répondre :
+C'est ce que j'ai résolu
+Lanturelu, lanturelu, lanturelu.
+
+M'as-tu déjà vu quelquefois ?
+
+J'aurais vraiment grand tort ; la harangue est jolie.
+
+Demandez-le plutôt à monsieur que voilà.
+
+Pour son bien, ses parents ?
+
+Qui diable s'en serait douté ?
+
+Combien t'a-t-elle fait attendre ?
+Un an ?
+
+      Deux ans ?
+
+      Dix ans ?
+
+C'est bien peu ; mais avec une femme qu'on aime,
+Il ne faut pas entrer dans un calcul bourgeois,
+Ni prendre garde à trois ou quatre mois.
+
+Tu n'éprouves pas seul un pareil accident ;
+Et si l'on comptait bien l'absence ou la présence
+De la plupart de nos maris,
+On trouverait que dans Paris
+Il serait peu d'enfants dont la naissance
+Ne vînt ou trop tôt ou trop tard,
+À moins que l'on ne fît un almanach bâtard.
+
+Il faut toujours s'en faire honneur,
+Et peut-être en es-tu l'auteur.
+Il est des enfants vifs qui cherchent la lumière
+Presque aussitôt qu'ils sont conçus ;
+Et les femmes d'esprit sur pareille matière
+Font aisément des impromptus.
+
+Mais quel âge avait-il ?
+
+      Qu'est-ce qu'il me lanterne ?
+Ton enfant est produit à terme.
+À quoi bon faire tant de bruit ?
+Quatre mois et demi de jour, autant de nuit ;
+À neuf mois le total se monte.
+Hé bien, n'est-ce pas là ton compte ?
+
+Le Druide va te calmer l'esprit par un petit couplet de chanson.
+
+Au temps passé,
+On n'achetait que les belles ;
+Mais tout a changé,
+Toureloure, loure, loure ;
+Il ne reste point de bête au marché.
+
+
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+
+Holà ! Ho, quelqu'un ! Portier, limonadier, ouvreuses de loges ! Depuis trois mois on ne saurait trouver à se placer dans cet hôtel de Bourgogne.
+
+Bonjour, monsieur ; jouez-vous encore aujourd'hui votre Baguette de Vulcain ?
+
+Moi, un mari ? Moi, chercher mari ? Est-ce que j'ai l'air d'une femme à mari ?
+
+Un bel esprit comme moi, me soupçonner de dégénérer jusqu'aux êtres matériels ! Apprenez, mon ami, que j'ai épousé l'antique, et que je n'aurai jamais d'autres maris que Juvénal, Horace, Virgile, et surtout le bon homme Homère.
+
+Assez de filles se chargeront de ce soin-là ; pour moi, je passe mes jours avec les livres, et je ne m'endors point que je n'aie une douzaine d'auteurs anciens sous mon chevet.
+
+On dit que dans votre comédie vous faites une comparaison du vieux temps avec le nouveau. Cela n'aurait-il pas quelque rapport avec le parallèle des anciens et des modernes, qui partage à présent tous nos beaux esprits ? Quel parti prenez-vous dans cette dispute-là, vous autres comédiens ?
+
+Si je savais que vous parlassiez sérieusement, et que vous prissiez le parti des modernes...
+
+Ce que je ferais ! Je troublerais vos spectacles, je louerais des gens pour siffler, et je vous empêcherais de parler français, jusqu'à ce que Pasquariel eût été reçu, pour son beau langage, à l'Académie.
+
+Si j'y entre chaudement ! Vous ne savez donc pas que je suis le flambeau fatal qui vient d'allumer la guerre parmi les gens de lettres ?
+
+Que dites-vous ? Dans le dernier combat, trois de nos chefs furent blessés à mort d'un seul coup d'épigramme.
+
+Je soutiendrai les anciens envers et contre tous.
+
+Cela ne se peut. On ne fait rien à l'Académie sans me consulter.
+
 Voyons.
 Ces jours passes, en bonne compagnie,
 Trois héros de l'Académie
@@ -155,267 +267,8 @@ Des modernes auteurs l'un prenait la défense ;
 L'autre des anciens soutenait les raisons :
 Le plus savant des trois prit en main la balance ;
 Et moi, dit-il, je suis pour les jetons.
-Oh !
-Je ne n'arrête pas à cette décision-là.
+Oh ! Je ne n'arrête pas à cette décision-là.
 
--*who_roger
-Voilà le Druide, qui est un antique, qui vous en donnera une autre.
-
--*who_ledruide
-En vain une fille, à votre âge,
-Donne son suffrage
-Pour l'antiquité,
-Son esprit a beau faire,
-Son cœur plus sincère
-Décide pour la nouveauté.
-
--*who_roger
-Juvénal, Horace et Virgile,
-En bon français, sont des nigauds ;
-Il vous faut un mari, la fille,
-Mais un mari de chair et d'os.
-
-**** *book_ *id_I03 *act_I *date_1693
-
--*who_angelique
-Ah, monsieur l'enchanteur !
-J'ai recours à votre sorcellerie.
-
--*who_roger
-Voilà un jeune tendron qui ne serait pas mauvais à enchanter, et je mêlerais volontiers ma magie noire avec sa magie blanche.
-
--*who_angelique
-On dit que vous avez réveillé une fille qui dormait depuis deux cents ans.
-Ne pourriez-vous point endormir ma mère pour la moitié de ce temps-là ?
-
--*who_roger
-Endormir une mère !
-J'aimerais mieux avoir dix maris à bercer.
-
--*who_angelique
-Faites-la donc dormir seulement deux ou trois jours, pour me donner le temps de me marier sans lui en rien dire.
-
--*who_roger
-Le bon naturel de fille !
-Hélas !
-Une pauvre petite mineure qui cherche à s'émanciper !
-Cela me fend le coeur !
-
--*who_angelique
-Oh !
-Je l'en avertirai, sitôt qu'elle sera éveillée.
-
--*who_roger
-Cela est dans l'ordre.
-
--*who_angelique
-Il n'y a plus moyen de durer avec cette femme-là : elle veut que je vive dans la régularité où l'on était de son temps ; et cela ne s'accommode pas avec la réforme de celui-ci.
-
--*who_roger
-Je vous sais bon gré, à votre âge, d'aimer la réforme.
-
--*who_angelique
-Elle veut m'habiller à sa fantaisie.
-Le dernier corps qu'elle m'a fait faire me va jusqu'au menton ; et vous savez qu'une fille aimerait autant n'avoir point de gorge que de ne la pas montrer.
-
--*who_roger
-C'est que les filles d'aujourd'hui aiment le grand air.
-
--*who_angelique
-Elle me contrôle sur tout.
-Croiriez-vous qu'elle me défend de manger d'aucun ragoût ?
-Elle dit qu'autrefois les femmes ne vivaient que de fruit et de laitage.
-
--*who_roger
-C'est à peu près la même chose à présent, excepté que le fruit que mangent les dames est un peu plus épicé ; et elles ont trouvé le moyen de se rafraîchir avec des jambons de Mayence, des mortadelles et des cervelas de la rue des Barres.
-Pour leur laitage, c'est ordinairement du vin de Champagne comme il sort du tonneau.
-
--*who_angelique
-Du vin de Champagne !
-Fi donc !
-Cela gâte le teint ; et je n'en bois plus depuis que ma cousine m'a appris à boire du ratafia.
-
--*who_roger
-Vous avez là une jolie cousine.
-
--*who_angelique
-Vous ne voulez donc point endormir ma mère ?
-
--*who_roger
-Non ; car dans la colère où je suis contre elle, si je l'endormais une fois, elle courrait risque de ne s'éveiller de sa vie.
-
--*who_angelique
-Apprenez-moi donc ce qu'il faut faire pour l'empêcher de gronder.
-
--*who_roger
-Voilà le Druide, qui est homme expert dans ces cas-là ; il va vous satisfaire.
-
--*who_ledruide
-Mère qui gronde,
-Qui tempête et qui fronde,
-Fait son emploi dans le monde
-Quand elle est sur son retour.
-Fille qui la laisse dire,
-Et qui n'en fait que rire,
-Fait sa charge à son tour.
-
--*who_roger
-Quand mère sauvage
-Dit dans ses leçons
-Que fille a votre âge
-Doit fuir les garçons,
-Vous devez répondre :
-C'est ce que j'ai résolu
-Lanturelu, lanturelu, lanturelu.
-
-**** *book_ *id_I04 *act_I *date_1693
-
--*who_nigaudin
-Bonjour, monsieur. Quand je vous vois,
-Je ne puis m'empêcher de rire.
-
--*who_roger
-M'as-tu déjà vu quelquefois ?
-
--*who_nigaudin
-Par ma foi, je ne sais qu'en dire.
-Or donc, pour revenir à mon premier discours...
-Mais vous m'interrompez toujours.
-
--*who_roger
-J'aurais vraiment grand tort ; la harangue est jolie.
-
--*who_nigaudin
-Vous saurez donc, monsieur, qu'on a sa fantaisie ;
-Tantôt on est garçon, tantôt on ne l'est plus.
-Il n'est rien tel que les cocus ;
-Car ils le sont toute leur vie.
-
--*who_roger
-Demandez-le plutôt à monsieur que voilà.
-
--*who_nigaudin
-Vous voyez bien cette poulette-là,
-C'est ma femme, quoi qu'on en dise.
-Savez-vous pourquoi je l'ai prise ?
-
--*who_roger
-Pour son bien, ses parents ?
-
--*who_nigaudin
-      Non, c'est pour sa beauté.
-
--*who_roger
-Qui diable s'en serait douté ?
-
--*who_nigaudin
-Mais regardez-la bien ; c'est elle
-Qui me fait bouillir la cervelle :
-Je croyais qu'au bout de neuf mois
-Une femelle au moins un enfant devait rendre.
-
--*who_roger
-Combien t'a-t-elle fait attendre ?
-Un an ?
-
--*who_nigaudin
-      Oh !
-
--*who_roger
-      Deux ans ?
-
--*who_nigaudin
-      Oh !
-
--*who_roger
-      Dix ans ?
-
--*who_nigaudin
-      Oh ! Que nenni.
-Elle a mis tout au plus quatre mois et demi,
-Et je crains quelque stratagème.
-
--*who_roger
-C'est bien peu ; mais avec une femme qu'on aime,
-Il ne faut pas entrer dans un calcul bourgeois,
-Ni prendre garde à trois ou quatre mois.
-
--*who_nigaudin
-C'est pourtant le hic de l'affaire.
-C'est ce qui fait que bien souvent
-On n'est pas père d'un enfant,
-Quoiqu'on soit mari de sa mère.
-
--*who_roger
-Tu n'éprouves pas seul un pareil accident ;
-Et si l'on comptait bien l'absence ou la présence
-De la plupart de nos maris,
-On trouverait que dans Paris
-Il serait peu d'enfants dont la naissance
-Ne vînt ou trop tôt ou trop tard,
-À moins que l'on ne fît un almanach bâtard.
-
--*who_nigaudin
-Vous ne croyez donc pas que la progéniture
-Soit tout à fait de ma manufacture ?
-
--*who_roger
-Il faut toujours s'en faire honneur,
-Et peut-être en es-tu l'auteur.
-Il est des enfants vifs qui cherchent la lumière
-Presque aussitôt qu'ils sont conçus ;
-Et les femmes d'esprit sur pareille matière
-Font aisément des impromptus.
-
--*who_nigaudin
-Cet enfant est venu, tout franc, trop à la hâte,
-Et je crois n'avoir pas mis la main à la pâte.
-
--*who_roger
-Mais quel âge avait-il ?
-
--*who_nigaudin
-      Je vous l'ai déjà dit ;
-Quatre mois et demi.
-
--*who_roger
-      Qu'est-ce qu'il me lanterne ?
-Ton enfant est produit à terme.
-À quoi bon faire tant de bruit ?
-Quatre mois et demi de jour, autant de nuit ;
-À neuf mois le total se monte.
-Hé bien, n'est-ce pas là ton compte ?
-
--*who_nigaudin
-Vous avez raison cette fois.
-Je suis bien plus heureux que je ne le pensais.
-Viens, ma pouponne ;
-Viens, ma bouchonne,
-Que je répare ton honneur.
-
--*who_roger
-Le Druide va te calmer l'esprit par un petit couplet de chanson.
-
--*who_ledruide
-Vous n'avez pas besoin qu'on vous console ;
-Elle a tout l'air d'une femme d'honneur :
-J'en jurerais presque sur sa parole ;
-Mais j'aime mieux jurer sur sa laideur.
-
--*who_roger
-Au temps passé,
-On n'achetait que les belles ;
-Mais tout a changé,
-Toureloure, loure, loure ;
-Il ne reste point de bête au marché.
-
-**** *book_ *id_I05 *act_I *date_1693
-
--*who_ledruide
-La verte jeunesse,
-Qui tourne à tout vent, etc.
-
--*who_belise
 Pour moi l'hyménée
 N'a point de douceurs ;
 Je suis destinée
@@ -425,7 +278,29 @@ Car dans ce temps-ci,
 Il n'est point de livre
 Si froid qu'un mari.
 
--*who_angelique
+
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
+Ah, monsieur l'enchanteur ! J'ai recours à votre sorcellerie.
+
+On dit que vous avez réveillé une fille qui dormait depuis deux cents ans. Ne pourriez-vous point endormir ma mère pour la moitié de ce temps-là ?
+
+Faites-la donc dormir seulement deux ou trois jours, pour me donner le temps de me marier sans lui en rien dire.
+
+Oh ! Je l'en avertirai, sitôt qu'elle sera éveillée.
+
+Il n'y a plus moyen de durer avec cette femme-là : elle veut que je vive dans la régularité où l'on était de son temps ; et cela ne s'accommode pas avec la réforme de celui-ci.
+
+Elle veut m'habiller à sa fantaisie. Le dernier corps qu'elle m'a fait faire me va jusqu'au menton ; et vous savez qu'une fille aimerait autant n'avoir point de gorge que de ne la pas montrer.
+
+Elle me contrôle sur tout. Croiriez-vous qu'elle me défend de manger d'aucun ragoût ? Elle dit qu'autrefois les femmes ne vivaient que de fruit et de laitage.
+
+Du vin de Champagne ! Fi donc ! Cela gâte le teint ; et je n'en bois plus depuis que ma cousine m'a appris à boire du ratafia.
+
+Vous ne voulez donc point endormir ma mère ?
+
+Apprenez-moi donc ce qu'il faut faire pour l'empêcher de gronder.
+
 Ma mère à mon âge,
 À ce que l'on dit,
 Fit son mariage
@@ -434,3 +309,84 @@ Je puis, ce me semble,
 Par bonnes raisons,
 Suivre son exemple,
 Non pas ses leçons.
+
+
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nigaudin
+
+Bonjour, monsieur. Quand je vous vois,
+Je ne puis m'empêcher de rire.
+
+Par ma foi, je ne sais qu'en dire.
+Or donc, pour revenir à mon premier discours...
+Mais vous m'interrompez toujours.
+
+Vous saurez donc, monsieur, qu'on a sa fantaisie ;
+Tantôt on est garçon, tantôt on ne l'est plus.
+Il n'est rien tel que les cocus ;
+Car ils le sont toute leur vie.
+
+Vous voyez bien cette poulette-là,
+C'est ma femme, quoi qu'on en dise.
+Savez-vous pourquoi je l'ai prise ?
+
+      Non, c'est pour sa beauté.
+
+Mais regardez-la bien ; c'est elle
+Qui me fait bouillir la cervelle :
+Je croyais qu'au bout de neuf mois
+Une femelle au moins un enfant devait rendre.
+
+      Oh !
+
+      Oh !
+
+      Oh ! Que nenni.
+Elle a mis tout au plus quatre mois et demi,
+Et je crains quelque stratagème.
+
+C'est pourtant le hic de l'affaire.
+C'est ce qui fait que bien souvent
+On n'est pas père d'un enfant,
+Quoiqu'on soit mari de sa mère.
+
+Vous ne croyez donc pas que la progéniture
+Soit tout à fait de ma manufacture ?
+
+Cet enfant est venu, tout franc, trop à la hâte,
+Et je crois n'avoir pas mis la main à la pâte.
+
+      Je vous l'ai déjà dit ;
+Quatre mois et demi.
+
+Vous avez raison cette fois.
+Je suis bien plus heureux que je ne le pensais.
+Viens, ma pouponne ;
+Viens, ma bouchonne,
+Que je répare ton honneur.
+
+
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledruide
+
+En vain une fille, à votre âge,
+Donne son suffrage
+Pour l'antiquité,
+Son esprit a beau faire,
+Son cœur plus sincère
+Décide pour la nouveauté.
+
+Mère qui gronde,
+Qui tempête et qui fronde,
+Fait son emploi dans le monde
+Quand elle est sur son retour.
+Fille qui la laisse dire,
+Et qui n'en fait que rire,
+Fait sa charge à son tour.
+
+Vous n'avez pas besoin qu'on vous console ;
+Elle a tout l'air d'une femme d'honneur :
+J'en jurerais presque sur sa parole ;
+Mais j'aime mieux jurer sur sa laideur.
+
+La verte jeunesse,
+Qui tourne à tout vent, etc.
+

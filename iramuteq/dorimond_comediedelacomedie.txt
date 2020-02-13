@@ -1,14 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
 
--*who_leandre
-Puisque je vous rencontre, il faut faire partie:
-Allons nous divertir à voir la comédie ;
-Ce passe-temps est propre à charmer les ennuis :
-À peine il m'en souvient à l'instant que j'y suis.
-
--*who_lucidor
 Allons-y, je le veux ; au coin de cette rue,
 Une affiche à propos se montre à notre vue.
 La pièce que nous vous donnons
@@ -26,14 +19,9 @@ Et les auditeurs d'importance ;
 Qu'ici les uns dressent leurs pas,
 Que les autres n'y viennent pas.
 
--*who_lucidor
 Ho ! ho ! L'affiche en vers ? Cette troupe est jolie :
 Peut-être y verrons-nous quelque galant Génie.
 
--*who_leandre
-J'aime la comédie, elle est mon élément.
-
--*who_lucidor
 Tous deux nous nous trouvons d'un même sentiment :
 Il faut être privé de bon sens, de science,
 Pour ne la suivre pas, allons en diligence.
@@ -48,11 +36,6 @@ Ils y profiteront s'ils ont une bonne âme ;
 Car on y voit toujours triompher les vertus :
 Là le vice sur eux n'a jamais le dessus.
 
--*who_leandre
-Mais les Italiens prennent plus de licence
-Que ne font les Français, et quelqu'un s'en offense.
-
--*who_lucidor
 Le Théâtre Français est bien plus sérieux,
 J'en fais bien plus d'état, et l'estime bien mieux ;
 Mais on peut sans pécher goûter les inepties
@@ -60,38 +43,71 @@ Qu'ils mêlent galamment avec leurs facéties ;
 On rencontre des gens qui tondraient sur un oeuf
 Et qui bien souvent ont l'esprit comme un boeuf.
 
-**** *book_ *id_I02 *act_I *date_(inc
 
--*who_dame1
-Pour moi, je vous le dis, jamais la comédie,
-N'eut tant d'attraits charmants, et tant de modestie ;
-Le théâtre n'a rien que d'honnête et de beau,
-Chaque jour il produit un prodige nouveau.
-Les Vestales pourraient avecque bienséance
-Ouïr la comédie : elle n'est qu'innocence,
-Produisant les douceurs d'un divertissement,
-Elle instruit les enfants à vivre sagement.
-Ma fille est fort coquette, et, comme j'appréhende
-Qu'une ville assiégée à la fin ne se rende,
-Je lui veux faire voir avec combien d'ardeur,
-Une fille bien sage a soin de son honneur.
-Car le théâtre enfin, l'amour des rois, des reines
-Est un crayon, parlant des actions humaines.
-Pour moi, j'eus toujours soin de garder mon honneur
-Et je veux que ma fille ait la même pudeur.
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant
 
--*who_dame2
-Il le faut avouer, certainement, Madame :
-La belle comédie est le charme de l'âme ;
-Allons-y je vous prie.
+Isabelle, bonjour, votre humble serviteur !
+Que votre habit est riche et de belle couleur !
+Ah Dieux ! La belle étoffe, et la belle dentelle !
+Qui vous en a fait don ?
 
--*who_dame1
-      Allons ; je le veux bien.
-Pour moi je la préfère au plus bel entretien.
+Que je vous tienne ici lieu de valet de chambre :
+Votre cravate...
 
-**** *book_ *id_I03 *act_I *date_(inc
+Vous allez au théâtre où je vous conduirai.
+Ma soeur veut vous donner un fort beau point de Gênes,
+Et moi des citrons doux, et de la porcelaine.
 
--*who_leportier
+      Et moi de beaux rubans.
+
+      Et moi de beaux pendants.
+
+Et moi ce que j'ai de pris de rare en Catalogne.
+
+      Et la taille gentille.
+
+      Êtes-vous femme ou fille ?
+Aimez-moi je, vous prie, et m'appelez « mon coeur »,
+Et je vous nommerai ma mignonne et ma soeur.
+
+Qu'elle fait bien la fière, et la cruelle aussi !
+
+Voulez-vous sans cesser faire la dédaigneuse ?
+
+Je vis hier jouer une pièce nouvelle,
+Au Théâtre François dont la prose est fort belle :
+C'est le pompeux Cinna, les traits en sont nouveaux.
+
+On me vient de donner un sonnet merveilleux.
+
+      Au moins trente.
+
+
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepinai
+
+Et moi des gants d'Espagne.
+
+Et moi de la pommade.
+
+Et moi des épagneuls qui viennent de Boulogne.
+
+Elle a le teint fort beau.
+
+Son oeil me plaît assez.
+
+Vous faites, par ma foi, fort bien la comédie :
+Quand vous parlez d'amour, que vous estes jolie !
+
+Vous allez bien jouer étant de cette humeur,
+Votre rôle est-il plain d'amour, ou de rigueur ?
+
+J'aime Thomas Morus, les vers en sont forts beaux.
+
+Combien a-t-il de vers.
+
+
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leportier
+
 Ce téton est-il bon ? Cette piastre est légère !
 Ils sont sans conscience ou bien ils n'en ont guère :
 Dés qu'ils ont des tétons qui ne sont pas de poids,
@@ -121,9 +137,40 @@ Contre lui vaillamment je veux tirer la brette ;
 Mon sang est échauffé, je suis las d'en souffrir :
 N'en laissons plus passer, c'est à faire mourir.
 
-**** *book_ *id_I04 *act_I *date_(inc
+Voici deux grands filous de fort mauvais augure :
+Tiens mon mousqueton prêt, mettons-nous en posture !
 
--*who_lacomedienne
+      Il faut de l'argent !
+
+      Par la mort !
+
+      Tu fais un vain effort !
+
+Je fais ce que je suis, quand je veux je me fâche.
+
+On m'a déjà percé, j'ai vu l'occasion,
+Les canons, les fusils, et le fer et la flamme
+Ne me font point de peur, je me ris de ta lame.
+
+S'il ne tient qu'à jurer, ah ! La vache est à nous !
+Il me faut de l'argent, quoique vous puissiez faire.
+
+Allez n'en ayant point, fanfaron sans pareil,
+Dormir le dos en terre, et le ventre au soleil.
+Allez prendre la mouche, et chanter la guimbarde,
+Sous le fais d'un mousquet, ou d'une hallebarde.
+
+Je vais parler à vous, messieurs les fiers à bras ;
+Et d'estoc, et de taille, et de quarte et de tierce
+Pour le dernier sommeil il faut que je te berce.
+Ils ne se battraient pas, s'ils n'étaient dix contre un,
+Mais je me bat d'un air qui n'est pas du commun;
+Ils s'en vont revenir peut-être avec main forte.
+On s'en va commencer, rentrons, fermons la porte.
+
+
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedienne
+
 Ah Dieu ! Je vois passer un qui fait l'idolâtre
 En venant m'aborder quand je suis au théâtre ;
 J'en vois venir un autre : ils viennent m'aborder.
@@ -131,99 +178,24 @@ Comment ferai-je, ils vont beaucoup m'incommoder :
 Ils s'en vont me parler de soupir et de flammes,
 Faire les patineurs, et les mourantes âmes.
 
--*who_galant
-Isabelle, bonjour, votre humble serviteur !
-Que votre habit est riche et de belle couleur !
-Ah Dieux ! La belle étoffe, et la belle dentelle !
-Qui vous en a fait don ?
-
--*who_lacomedienne
       Qui ? C'est Mademoiselle :
 Sa générosité m'en a fait un présent
 Et je le faits briller sur la scène à présent.
 Ma cravate est défaite, et mon beau collier d'ambre...
 
--*who_galant
-Que je vous tienne ici lieu de valet de chambre :
-Votre cravate...
-
--*who_lacomedienne
       Hé bien ! Je l'accommoderai.
 
--*who_galant
-Vous allez au théâtre où je vous conduirai.
-Ma soeur veut vous donner un fort beau point de Gênes,
-Et moi des citrons doux, et de la porcelaine.
-
--*who_lepinai
-Et moi des gants d'Espagne.
-
--*who_galant
-      Et moi de beaux rubans.
-
--*who_lepinai
-Et moi de la pommade.
-
--*who_galant
-      Et moi de beaux pendants.
-
--*who_lepinai
-Et moi des épagneuls qui viennent de Boulogne.
-
--*who_galant
-Et moi ce que j'ai de pris de rare en Catalogne.
-
--*who_lacomedienne
 Et de gâce, Messieurs, ne vous échauffez pas :
 Pour prendre vos présents, j'ai trop peu de deux bras.
 
--*who_lepinai
-Elle a le teint fort beau.
-
--*who_galant
-      Et la taille gentille.
-
--*who_lepinai
-Son oeil me plaît assez.
-
--*who_galant
-      Êtes-vous femme ou fille ?
-Aimez-moi je, vous prie, et m'appelez « mon coeur »,
-Et je vous nommerai ma mignonne et ma soeur.
-
--*who_lepinai
-Vous faites, par ma foi, fort bien la comédie :
-Quand vous parlez d'amour, que vous estes jolie !
-
--*who_galant
-Qu'elle fait bien la fière, et la cruelle aussi !
-
--*who_lacomedienne
 Aussi mon métier est mon unique souci
 Et de lui seul je suis ardemment amoureuse.
 
--*who_galant
-Voulez-vous sans cesser faire la dédaigneuse ?
-
--*who_lacomedienne
 Je m'en vais au théâtre avec des sentiments
 Qui sont trop relevés pour tous vos compliments.
 Je sens que la fierté s'empare de mon âme :
 Ce n'est que pour des rois que mon coeur est de flamme.
 
--*who_lepinai
-Vous allez bien jouer étant de cette humeur,
-Votre rôle est-il plain d'amour, ou de rigueur ?
-
--*who_galant
-Je vis hier jouer une pièce nouvelle,
-Au Théâtre François dont la prose est fort belle :
-C'est le pompeux Cinna, les traits en sont nouveaux.
-
--*who_lepinai
-J'aime Thomas Morus, les vers en sont forts beaux.
-
--*who_lacomedienne
 Plutôt que de parler, tenez la bouche close :
 Cinna c'est fait en vers, Thomas Morus en prose !
 Voyez quelle ignorance, et quels discours divers
@@ -231,16 +203,6 @@ Il met les vers en prose et lui la prose en vers !
 Vos discours à l'instant font de grandes merveilles
 Et vous parlez des vers comme font les corneilles.
 
--*who_galant
-On me vient de donner un sonnet merveilleux.
-
--*who_lepinai
-Combien a-t-il de vers.
-
--*who_galant
-      Au moins trente.
-
--*who_lacomedienne
       Encor mieux !
 De grâce, informez-vous des règles poétiques :
 Les épiques pour vous seraient les dramatiques.
@@ -299,68 +261,22 @@ Et qu'elles sont aussi toutes spirituelles.
 Allons les divertir par nos accents mignards
 Et recevoir l'honneur d'attirer leurs regards.
 
-**** *book_ *id_I05 *act_I *date_(inc
 
--*who_leportier
-Voici deux grands filous de fort mauvais augure :
-Tiens mon mousqueton prêt, mettons-nous en posture !
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_filou
 
--*who_filou
 Ouvre !
 
--*who_leportier
-      Il faut de l'argent !
-
--*who_filou
       Ah ventre !
 
--*who_leportier
-      Par la mort !
-
--*who_filou
 Tu me refuse en vain !
 
--*who_leportier
-      Tu fais un vain effort !
-
--*who_filou
 Comment tu faits le brave, et la rude moustache ?
 
--*who_leportier
-Je fais ce que je suis, quand je veux je me fâche.
-
--*who_filou
 Je m'en vais te percer si j'entre en action,
 
--*who_leportier
-On m'a déjà percé, j'ai vu l'occasion,
-Les canons, les fusils, et le fer et la flamme
-Ne me font point de peur, je me ris de ta lame.
-
--*who_filou
 Par la tête, jarni, redoute mon courroux.
 
--*who_leportier
-S'il ne tient qu'à jurer, ah ! La vache est à nous !
-Il me faut de l'argent, quoique vous puissiez faire.
-
--*who_filou
 Je n'en ai point, ami, redoute ma colère !
 
--*who_leportier
-Allez n'en ayant point, fanfaron sans pareil,
-Dormir le dos en terre, et le ventre au soleil.
-Allez prendre la mouche, et chanter la guimbarde,
-Sous le fais d'un mousquet, ou d'une hallebarde.
-
--*who_filou
 Ah c'est trop endurer, Portier tu périras.
 
--*who_leportier
-Je vais parler à vous, messieurs les fiers à bras ;
-Et d'estoc, et de taille, et de quarte et de tierce
-Pour le dernier sommeil il faut que je te berce.
-Ils ne se battraient pas, s'ils n'étaient dix contre un,
-Mais je me bat d'un air qui n'est pas du commun;
-Ils s'en vont revenir peut-être avec main forte.
-On s'en va commencer, rentrons, fermons la porte.

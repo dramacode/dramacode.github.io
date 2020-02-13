@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1706
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_democrite
 
--*who_democrite
 Je veux être obéi ; votre jeune cervelle
 Pour l'utile, aujourd'hui, choisit la bagatelle.
 Cléandre, ce mignon, à vos yeux est charmant :
@@ -32,53 +31,285 @@ C'est un colifichet qui voudrait nous surprendre,
 Dont les biens, embrouillés dans de très grands procès,
 Peut-être ne viendront qu'après votre décès.
 
--*who_philine
-Si mon coeur...
-
--*who_democrite
       Taisez-vous, je veux qu'on m'obéisse.
 Vous suivez sottement votre amoureux caprice ;
 C'est faire votre bien que de vous résister,
 Et je ne prétends point ici vous consulter.
 Adieu.
 
-**** *book_ *id_I02 *act_I *date_1706
+Toinette !
 
--*who_philine
+      Puisque c'est aujourd'hui
+Qu'Ariste doit venir, ayez soin que pour lui
+L'on prépare un régal : ma fille est prévenue...
+
+Il a plus de raison.
+
+Mais elle doit suffire.
+
+C'en est fait, taisez-vous, je lui laisse le choix :
+Qu'elle prenne celui qui lui plaira des trois.
+
+      Mais retirez-vous, et gardez le silence !
+Parbleu, c'est bien à vous à taxer ma prudence !
+
+En effet, est-il rien de plus avantageux ?
+Quoi ! je préférerais, pour je ne sais quels feux,
+Un jeune homme sans biens à trois partis sortables !
+Que faire, sans le bien, des figures aimables ?
+S'il gagnait son procès, cet amant si chéri,
+En ce cas, il pourrait devenir son mari :
+Mais vider des procès, c'est une mer à boire.
+
+      C'est moi seul, enfin, que j'en veux croire.
+
+Voulez-vous lui parler ?
+
+      Le voilà.
+
+Ah ! je comprends, Monsieur, et la chose est fort claire ;
+Je suis instruit de tout ; j'espérais de vous voir,
+Comme on me l'avait dit, aujourd'hui sur le soir.
+
+Je suis persuadé que vous lui plairez fort.
+Si vous ne lui plaisiez, elle aurait un grand tort ;
+Mais comme vous avez pressé votre visite,
+Et qu'on n'espérait pas que vous vinssiez si vite,
+Elle est chez un parent, même assez loin d'ici.
+Si vous vouliez, Monsieur, revenir aujourd'hui,
+Vous vous verriez tous deux, et l'on prendrait mesure.
+
+      Je fais avec prudence
+De ne l'avoir trompé par aucune assurance.
+Il est bon de choisir ; j'en dois voir encor deux,
+Et ma fille à son gré choisira l'un d'entre eux.
+Ariste et l'autre ici doivent bientôt se rendre,
+Et j'aurai dans ce jour l'un des trois pour mon gendre.
+Quelque mérite enfin qu'ait notre Chevalier,
+Il faut attendre Ariste et notre financier.
+L'heure approche, et bientôt...
+
+Quel ivrogne ! parlez, auriez-vous quelque affaire
+Avec lui ?
+
+      Mais c'est moi qui le suis.
+
+Votre nom, s'il vous plaît ?
+
+Vous êtes goguenard ; je suis pourtant charmé
+De vous voir.
+
+      Je le veux : qu'on appelle ma fille.
+
+      La voilà.
+
+Ma fille, c'est Ariste.
+
+      Quelles sont vos raisons ?
+
+Ce rustique bourgeois commence à me déplaire.
+
+      Des sabots !
+
+Le prenne qui voudra : mais je vous remercie.
+Non, je n'en vis jamais, de si sot, en ma vie.
+Adieu, sieur campagnard : je vous donne un bonsoir.
+Pour ma fille, jamais n'espérez de l'avoir.
+Laissons-le.
+
+      Qui frappe là-bas ? à qui donc en veut-on ?
+
+J'y suis et je descends.
+
+Vous êtes donc Monsieur de la Boursinière ?
+Et quel malheur, Monsieur, quelle subite affaire
+Peut, en si peu de temps, causer votre départ ?
+À cet éloignement ma fille a-t-elle part ?
+
+      Permettez pourtant que je soupçonne ;
+Et dans l'étonnement qu'un tel départ me donne,
+J'entrevois que peut-être ici quelque jaloux
+Pourrait, en ce moment, vous éloigner de nous.
+Vous ne répondez rien, avouez-moi la chose ;
+D'un changement si grand apprenez-moi la cause.
+J'y suis intéressé ; car si des envieux
+Vous avaient fait, Monsieur, des rapports odieux,
+Je ne vous retiens pas, mais daignez m'en instruire.
+Il faut vous détromper.
+
+Non, non, il n'est plus temps de vouloir le celer.
+Je vois trop ce que c'est, et vous pouvez parler.
+
+Moi ? de ce nom je ne connais personne.
+
+      Eh bien donc ? Ce Crispin ?
+
+      Il ment, c'est un coquin.
+
+D'un rapport si mauvais je ne puis me fâcher.
+
+Allez, je vous attends.
+
+J'ai le coeur mieux placé.
+
+      Quelle méchanceté !
+Qui peut être l'auteur de cette fausseté ?
+
+Souvent, sans le savoir, on a des ennemis
+Cachés sous le beau nom de nos meilleurs amis.
+
+C'est moi.
+
+      Eh ! mais, dans quel esprit
+Me l'offrez-vous, à moi ? votre nom, que je sache,
+M'est inconnu ; qu'importe ?... On dirait qu'il se fâche.
+Est-on Turc avec ceux que l'on ne connaît pas ?
+Je ne suis pas de ceux qui font tant de fracas.
+
+Il est, je l'avouerai, de ridicules hommes.
+
+Il ne s'agit ici de nom ni de surnom.
+
+Finissons, s'il vous plaît.
+
+Qu'elle se porte bien, ou qu'elle soit malade,
+Que vous importe à vous ?
+
+Je n'entends rien, Monsieur, à tout ce beau mystère.
+
+      J'en jure.
+
+      Monsieur, avez-vous fait partie
+De vous moquer de moi ?
+
+      Il ne m'importe guère.
+
+Moi !
+
+Je n'y prends nulle part, et ne veux point gager.
+
+      Eh bien ! soit : je me lasse
+De ce galimatias ; expliquez-vous de grâce.
+
+Quelle est donc cette énigme ?
+
+Je m'y perds.
+
+Non, je n'y connais rien ; Monsieur le financier,
+Ou qui que vous soyez, il faudrait vous lier ;
+Je ne puis démêler si c'est la fourberie,
+Ou si ce n'est enfin que pure frénésie
+Qui vous conduit ici : mais n'y revenez plus.
+
+Je ne puis débrouiller tout ce galimatias,
+Et tout ceci me met dans un grand embarras.
+
+Oui.
+
+Ne craignez rien.
+
+Dans un malheur si grand, pourrais-je quelque chose ?
+
+Calmez les mouvements dont votre âme agitée...
+
+Quoi ! c'est celui qui veut entrer dans ma famille ?
+
+Cette action est noire.
+
+Il vient bien à propos, nous pourrons lui parler.
+
+      Pourquoi vous en aller ?
+
+      Tenez-vous donc derrière ;
+Il ne vous verra pas.
+
+      Laissez-moi faire.
+
+      Eh ! qui vous l'a donc dit
+Qu'elle eût de ces accès ?
+
+Cet homme a déjà fait une autre menterie :
+C'est un nommé Crispin, insigne en fourberie ;
+Je n'en sais que le nom, il n'est point de chez moi.
+Mais vous, n'avez-vous point engagé votre foi ?
+Vous êtes interdit ! que prétendiez-vous faire ?
+Vous marier deux fois ?
+
+Vous devriez rougir d'une telle action :
+C'est du ciel s'attirer la malédiction.
+Et ne savez-vous pas que la polygamie
+Est ici cas pendable et qui coûte la vie ?
+
+Oui, voilà mon auteur, regardez si j'ai tort.
+
+      C'est votre femme.
+
+      Ce fripon, cet insigne coquin ?
+
+Arrêtons ce maraud.
+
+      Regardez ce minois ;
+Le reconnaissez-vous ?
+
+C'est lui-même.
+
+Qui m'aurait envoyé tantôt certain fripon ?
+Il s'est dit financier, et prenait votre nom.
+
+      Oui, le coquin ne disait que sottises.
+
+      Ariste ?
+
+Mais cela ne se peut, ma surprise est extrême.
+
+      C'est encor ton ouvrage,
+Dis, coquin ?
+
+      C'est lui, mais le fourbe a plus fait,
+Il m'a trompé de même, et vous a contrefait.
+
+      Vous étiez trois qui demandiez ma fille ;
+Et qui vouliez, Messieurs, entrer dans ma famille,
+Ma fille aimait déjà, elle avait fait son choix,
+Et refusait toujours d'épouser l'un des trois.
+Je vous ménageai tous, dans la douce espérance
+Avec un de vous trois d'entrer en alliance ;
+J'ignore les raisons qui poussent ce coquin.
+
+Qu'on appelle ma fille. A tout ce beau mystère
+A-t-elle quelque part ?
+
+      Franc coquin !
+      Vous voilà donc, ma fille !
+En fait de tours d'esprit, vous êtes fort habile,
+Mais votre habileté ne servira de rien :
+Vous n'épouserez point un jeune homme sans bien.
+Déterminez-vous donc.
+
+Toi, sors d'ici, maraud, et ne parais jamais.
+
+C'en est fait, et mon coeur cesse d'être inflexible.
+Levez-vous, finissez tous vos remerciements :
+Je ne sépare plus de si tendres amants.
+Ces messieurs resteront pour la cérémonie.
+Soyez contents tous deux, votre peine est finie.
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philine
+
+Si mon coeur...
+
       Dis-moi, que faire après ce coup terrible ?
 Tout autre que Cléandre à mes yeux est horrible.
 Quel malheur !
 
--*who_toinette
-      Il est vrai.
-
--*who_philine
       Dans un tel embarras,
 Plutôt que de choisir, je prendrais le trépas.
 
-**** *book_ *id_I03 *act_I *date_1706
-
--*who_cleandre
-N'avez-vous pu, Madame, adoucir votre père ?
-À nous unir tous deux est-il toujours contraire ?
-
--*who_philine
 Oui, Cléandre.
 
--*who_cleandre
-      À quoi donc vous déterminez-vous ?
-
--*who_philine
 À rien.
 
--*who_cleandre
-      Je l'avouerai, le compliment est doux.
-Vous m'aimez cependant ; au péril qui nous presse,
-Quand je tremble d'effroi, rien ne vous intéresse.
-Nous sommes menacés du plus affreux malheur :
-Sans alarme pourtant...
-
--*who_philine
       Doutez-vous que mon coeur,
 Cher Cléandre, avec vous ne partage vos craintes ?
 De nos communs chagrins je ressens les atteintes;
@@ -90,24 +321,208 @@ Mais à quoi me résoudre en cette extrémité,
 Si de ces trois partis mon père est entêté ?
 Qu'exigez-vous de moi ?
 
--*who_cleandre
-      À quoi bon vous le dire,
-Philine, si l'amour n'a pu vous en instruire ?
-Il est des moyens sûrs, et quand on aime bien...
-
--*who_philine
 Arrêtez, je comprends, mais je n'en ferai rien.
 Si mon amour m'est cher, ma vertu m'est plus chère.
 Non, n'attendez de moi rien qui lui soit contraire ;
 De ces moyens si sûrs ne me parlez jamais.
 
--*who_cleandre
-Quoi !
-
--*who_philine
       Si vous m'en parlez, je vous fuis désormais.
 
--*who_cleandre
+Je ne vous retiens pas, devenez infidèle ;
+Donnez-moi tous les noms d'ingrate et de cruelle ;
+Je ne regrette point un amant tel que vous,
+Puisque de ma vertu vous n'êtes point jaloux.
+
+Ah !
+
+Je n'aurai pas de peine à tenir ma promesse.
+
+De mon père tu sais quelle est l'intention.
+Il m'offre trois partis : Ariste, un vieux barbon ;
+L'autre est un chevalier, l'autre homme de finance ;
+Mais Ariste, ce vieux, aurait la préférence :
+Il a de très grands biens, et mon père aujourd'hui
+Pourrait le préférer à tout autre parti.
+Il arrive en ce jour.
+
+Peut-être qu'à ce vieux je me verrais livrée.
+
+      Adieu.
+
+Eh ! pourquoi les quitter ?
+
+Dieux ! quel original ! je n'en veux point, mon père !
+
+Des sabots !
+
+      Mettez-vous à ma place,
+Mon père, et dites-moi ce qu'il faut que je fasse.
+
+Mon père, faites-moi grâce, et mon coeur est tout prêt
+S'il faut à mon amant renoncer pour jamais.
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_toinette
+
+      Il est vrai.
+
+Votre père pourrait, Madame, vous surprendre ;
+Vous savez qu'il n'est pas fort prudent de l'attendre ;
+Finissez vos débats, et calmez le chagrin...
+
+      Quoi ! Toujours triste mine !
+
+Ah ! Que vous m'ennuyez ! Pour finir vos alarmes,
+C'est un fort bon moyen que de verser des larmes !
+Retournez au logis passer votre chagrin.
+
+Que vous êtes enfants !
+
+Qu'un air triste et mourant vous sied bien à tous deux !
+
+Eh bien ! Finissez-vous ? Toi, Crispin, tiens ton maître.
+Hélas ! Que vous avez de peine à vous connaître !
+
+Hélas ! Beau Cupidon ! Le douillet personnage !
+Mais, Madame, en un mot, cessez ce badinage.
+Votre père viendra.
+
+      Je le sais, mais que faire ?
+Je ne vois rien ici qui ne vous soit contraire.
+Dans ta tête, Crispin, cherche, invente un moyen.
+Pour moi, je suis à bout, et je ne trouve rien.
+Remue un peu, Crispin, ton imaginative.
+
+Pour moi, je doute fort qu'on puisse rien trouver.
+
+Dieux ! quel enthousiasme !
+
+      Quel bruit pour ne rien faire !
+
+      Un avorton.
+
+Eh ! Ne dirait-on pas qu'il médite une ligue ?
+Venons, venons au fait.
+
+Ha ! Votre enthousiasme est enfin achevé.
+
+Benêt !
+
+Sans doute.
+
+Mais enfin, lui parti, cet homme de finance,
+De La Boursinière, est rival d'importance.
+
+      Ce chevalier charmant ?...
+
+      Hé oui, mais le temps presse.
+Ne t'amuse donc pas, Crispin ; il faut pourvoir
+À chasser tous les trois, et même dès ce soir.
+Ariste étant parti, dis-nous par quelle adresse,
+Des deux autres messieurs...
+
+Eh ! qui sont donc ces gens ?
+
+Est-il vrai, trouvez-vous que je sois bien aimable ?
+On ne voit, me dit-on, rien de plus agréable ;
+En gros je suis parfaite, et charmante en détail :
+Mes yeux sont tout de feu, mes lèvres de corail,
+Le nez le plus friand, la taille la plus fine.
+Mais mon esprit encor vaut bien mieux que ma mine.
+Gageons que votre coeur ne tient pas d'un filet ?
+Fripon, vous soupirez, avouez-le tout net.
+Il est tout interdit.
+
+Je vois que le pauvre homme a perdu la parole :
+S'il devenait muet, papa, je deviens folle.
+Parlez donc, cher amant, petit mari futur ;
+Sied-il bien aux amants d'avoir le coeur si dur ?
+Allez, petit ingrat, vous méritez ma haine.
+Je ferai désormais la fière et l'inhumaine.
+
+      Tourne vers moi les yeux,
+Et vois combien les miens sont tendres amoureux.
+Ha ! Que pour toi déjà j'ai conçu de tendresse !
+Ô trop heureux mortel de m'avoir pour maîtresse !
+
+      Vous ne me dites mot !
+Je vous croyais poli, mais vous n'êtes qu'un sot.
+Moi devenir sa femme ! Ha, ha, quelle figure !
+Marier un objet, chef-d'oeuvre de nature,
+Fi donc ! Avec un singe aussi vilain que lui !
+
+      Cher papa, non, j'en mourrais d'ennui.
+Je suis, vous le savez, sujette à la migraine ;
+L'aspect de ce magot la rendrait quotidienne.
+Que je le hais déjà ! je ne le puis souffrir.
+S'il devient mon époux, ma vertu va finir ;
+Je ne réponds de rien.
+
+      Grâces à mon adresse.
+
+Est-il vrai, sieur Crispin ? Ah ! vous vous ravalez.
+
+C'est trop se prodiguer.
+
+Démocrite paraît : adieu, songe au projet.
+
+Ils ne viendront qu'au soir rendre visite au père.
+
+      Eh bien ! Monsieur ?
+
+Je sais fort bien, Monsieur, qu'elle attend sa venue ;
+Mais, pour être sa femme, il est un peu trop vieux.
+
+      En sera-t-elle mieux ?
+La raison, à son âge, est, ma foi, bagatelle,
+Et la raison n'est pas le charme d'une belle.
+
+      Oui, pour de vieux époux ;
+Mais les jeunes, Monsieur, n'en sont pas si jaloux.
+Un peu moins de raison, plus de galanterie ;
+Et voilà ce qui fait le plaisir de la vie.
+
+Mais...
+
+Que voulez-vous, Monsieur ?
+
+Non.
+
+D'accord.
+      C'est bien en vain que j'ai fait sentinelle.
+Tout ceci va fort mal : les desseins de Crispin,
+Autant qu'on peut juger, n'auront pas bonne fin.
+Je ne m'en mêle plus.
+
+      Monsieur, soyez sensible.
+
+      Es-tu bien amoureux ?
+
+      Quelle est donc ta folie ?
+Que fais-tu ?
+
+      J'y consens.
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+
+N'avez-vous pu, Madame, adoucir votre père ?
+À nous unir tous deux est-il toujours contraire ?
+
+      À quoi donc vous déterminez-vous ?
+
+      Je l'avouerai, le compliment est doux.
+Vous m'aimez cependant ; au péril qui nous presse,
+Quand je tremble d'effroi, rien ne vous intéresse.
+Nous sommes menacés du plus affreux malheur :
+Sans alarme pourtant...
+
+      À quoi bon vous le dire,
+Philine, si l'amour n'a pu vous en instruire ?
+Il est des moyens sûrs, et quand on aime bien...
+
+Quoi !
+
 Eh bien ! Fuyez, ingrate, et riez de ma perte.
 Votre injuste froideur est enfin découverte.
 N'attendez point de moi de marques de douleur;
@@ -121,13 +536,6 @@ Je vais mettre à vous fuir mon unique constance ;
 Et si vous m'accablez d'un si cruel destin,
 Vous ne jouirez pas du moins de mon chagrin.
 
--*who_philine
-Je ne vous retiens pas, devenez infidèle ;
-Donnez-moi tous les noms d'ingrate et de cruelle ;
-Je ne regrette point un amant tel que vous,
-Puisque de ma vertu vous n'êtes point jaloux.
-
--*who_cleandre
 Finissons là-dessus ; quand on est sans tendresse
 On peut faire aisément des leçons de sagesse,
 Philine, et quand un coeur chérit comme le mien...
@@ -148,26 +556,52 @@ Adieu, chère Philine...
       Avant que je vous quitte...
 De quelques feints regrets du moins plaignez ma fuite.
 
--*who_philine
-Ah !
-
--*who_cleandre
       Mais où fuyez-vous ? Arrêtez donc vos pas.
 Je suis prêt d'obéir ; et ne me fuyez pas.
 
--*who_toinette
-Votre père pourrait, Madame, vous surprendre ;
-Vous savez qu'il n'est pas fort prudent de l'attendre ;
-Finissez vos débats, et calmez le chagrin...
+Promettez-moi, Philine, une vive tendresse.
 
--*who_crispin
+      Non, il ne suffit pas
+D'avoir pour à présent terminé nos débats.
+Voyons encore ici quel biais l'on pourrait prendre,
+Pour nous unir enfin, ce qu'on peut entreprendre.
+
+Oui vraiment.
+
+Hé que faire ?
+
+      Hé bien ! J'en aurai soin :
+Va, je t'en donnerai.
+
+Adieu, chère Philine.
+
+      Mais dis, Crispin,
+Pour tromper Démocrite es-tu bien assez fin ?
+
+Que tu me rends content ! Si j'épouse Philine,
+Je te fonde, Crispin, une sûre cuisine.
+
+Va, tu ne perdras rien ; ne te mets point en peine.
+
+De mon destin, Monsieur, je viens vous rendre maître ;
+Pardonnez aux effets d'un violent amour,
+Et vous-même dictez notre arrêt en ce jour.
+Je me suis, il est vrai, servi de stratagème ;
+Mais que ne fait-on pas, pour avoir ce qu'on aime ?
+On m'enlevait l'objet de mes plus tendres feux,
+Et, pour tout avouer, nous nous aimons tous deux.
+Vous connaissez, Monsieur, mon sort et ma famille ;
+Mon procès est gagné, j'adore votre fille :
+Prononcez, et s'il faut embrasser vos genoux...
+
+Puisque vous vous aimez, je veux vous marier.
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 Oui, croyez-en, Madame, et Toinette et Crispin ;
 Faites la paix tous deux.
 
--*who_toinette
-      Quoi ! Toujours triste mine !
-
--*who_crispin
 Parbleu ! Qu'avez-vous donc, Monsieur, qui vous chagrine ?
 Je suis de vos amis, ouvrez-moi votre coeur :
 À raconter sa peine on sent de la douceur.
@@ -180,85 +614,23 @@ Dans leur triste gousset logent la sécheresse :
 Mais Crispin fut toujours un généreux garçon ;
 Je vous offre ma bourse, usez-en sans façon.
 
--*who_toinette
-Ah ! Que vous m'ennuyez ! Pour finir vos alarmes,
-C'est un fort bon moyen que de verser des larmes !
-Retournez au logis passer votre chagrin.
-
--*who_crispin
 Et retournons au nôtre y prendre un doigt de vin.
 
--*who_toinette
-Que vous êtes enfants !
-
--*who_crispin
       Leur douloureux martyre,
 En les faisant pleurer, me fait crever de rire.
 
--*who_toinette
-Qu'un air triste et mourant vous sied bien à tous deux !
-
--*who_crispin
 Qu'il est beau de pleurer, quand on est amoureux !
 
--*who_toinette
-Eh bien ! Finissez-vous ? Toi, Crispin, tiens ton maître.
-Hélas ! Que vous avez de peine à vous connaître !
-
--*who_crispin
 Ils ne se disent mot, Toinette ; sifflons-les.
 On siffle bien aussi messieurs les perroquets.
 
--*who_cleandre
-Promettez-moi, Philine, une vive tendresse.
-
--*who_philine
-Je n'aurai pas de peine à tenir ma promesse.
-
--*who_crispin
 Quel aimable jargon ! je me sens attendrir ;
 Si vous continuez, je vais m'évanouir.
 
--*who_toinette
-Hélas ! Beau Cupidon ! Le douillet personnage !
-Mais, Madame, en un mot, cessez ce badinage.
-Votre père viendra.
-
--*who_cleandre
-      Non, il ne suffit pas
-D'avoir pour à présent terminé nos débats.
-Voyons encore ici quel biais l'on pourrait prendre,
-Pour nous unir enfin, ce qu'on peut entreprendre.
-
--*who_philine
-De mon père tu sais quelle est l'intention.
-Il m'offre trois partis : Ariste, un vieux barbon ;
-L'autre est un chevalier, l'autre homme de finance ;
-Mais Ariste, ce vieux, aurait la préférence :
-Il a de très grands biens, et mon père aujourd'hui
-Pourrait le préférer à tout autre parti.
-Il arrive en ce jour.
-
--*who_toinette
-      Je le sais, mais que faire ?
-Je ne vois rien ici qui ne vous soit contraire.
-Dans ta tête, Crispin, cherche, invente un moyen.
-Pour moi, je suis à bout, et je ne trouve rien.
-Remue un peu, Crispin, ton imaginative.
-
--*who_crispin
 En fait de tours d'esprit, la femelle est plus vive.
 
--*who_toinette
-Pour moi, je doute fort qu'on puisse rien trouver.
-
--*who_crispin
 Silence ! par mes soins je prétends vous sauver.
 
--*who_toinette
-Dieux ! quel enthousiasme !
-
--*who_crispin
       Halte là ! Mon génie
 Va des fureurs du sort affranchir votre vie.
 Ne redoutez plus rien ; je vais tarir vos pleurs,
@@ -266,63 +638,26 @@ Et vous allez par moi voir finir vos malheurs.
 Oui, quoique le destin vous livre ici la guerre,
 Si Crispin est pour vous...
 
--*who_toinette
-      Quel bruit pour ne rien faire !
-
--*who_crispin
 Osez-vous me troubler, dans l'état où je suis ?
 Si ma main... Mais, plutôt, rappelons nos esprits.
 J'enfante...
 
--*who_toinette
-      Un avorton.
-
--*who_crispin
       Le dessein d'une intrigue.
 
--*who_toinette
-Eh ! Ne dirait-on pas qu'il médite une ligue ?
-Venons, venons au fait.
-
--*who_crispin
       Enfin je l'ai trouvé.
 
--*who_toinette
-Ha ! Votre enthousiasme est enfin achevé.
-
--*who_crispin
 D'Ariste vous craignez la subite arrivée.
 
--*who_philine
-Peut-être qu'à ce vieux je me verrais livrée.
-
--*who_crispin
 Vaines terreurs, chansons. Vous, vous êtes certain
 De ne pouvoir jamais lui donner votre main ?
 
--*who_cleandre
-Oui vraiment.
-
--*who_crispin
       Avec moi, tout ceci bagatelle.
 
--*who_cleandre
-Hé que faire ?
-
--*who_crispin
       Ah ! parbleu, ménagez ma cervelle.
 
--*who_toinette
-Benêt !
-
--*who_crispin
       Sans compliment : c'est dans cette journée,
 Qu'Ariste doit venir pour tenter hyménée ?
 
--*who_toinette
-Sans doute.
-
--*who_crispin
       Du voyage il perdra tous les frais.
 Je saurai de ces lieux l'éloigner pour jamais.
 Quand il sera parti, je prendrai sa figure :
@@ -330,38 +665,16 @@ D'un campagnard grossier imitant la posture,
 J'irai trouver ce père, et vous verrez enfin
 Et quel trésor je suis, et ce que vaut Crispin.
 
--*who_toinette
-Mais enfin, lui parti, cet homme de finance,
-De La Boursinière, est rival d'importance.
-
--*who_crispin
 Nous pourvoirons à tout.
 
--*who_toinette
-      Ce chevalier charmant ?...
-
--*who_crispin
 Ce sont de nos cadets brouillés avec l'argent :
 Chez les vieilles beautés est leur bureau d'adresse.
 Qu'il y cherche fortune.
 
--*who_toinette
-      Hé oui, mais le temps presse.
-Ne t'amuse donc pas, Crispin ; il faut pourvoir
-À chasser tous les trois, et même dès ce soir.
-Ariste étant parti, dis-nous par quelle adresse,
-Des deux autres messieurs...
-
--*who_crispin
       J'ai des tours de souplesse
 Dont l'effet sera sûr... A propos, j'ai besoin
 De quelque habit de femme.
 
--*who_cleandre
-      Hé bien ! J'en aurai soin :
-Va, je t'en donnerai.
-
--*who_crispin
       Je connais certain drôle,
 Que je dois employer, et qui jouera son rôle.
 Vous, ne paraissez pas ; et vous, ne craignez rien :
@@ -369,29 +682,11 @@ Tout doit vous réussir, cet oracle est certain.
 Je ne m'éloigne pas. Avertis-moi, Toinette,
 Si l'un des trois arrive, afin que je l'arrête.
 
--*who_cleandre
-Adieu, chère Philine.
-
--*who_philine
-      Adieu.
-
-**** *book_ *id_I04 *act_I *date_1706
-
--*who_cleandre
-      Mais dis, Crispin,
-Pour tromper Démocrite es-tu bien assez fin ?
-
--*who_crispin
 Reposez-vous sur moi, dormez en assurance,
 Et méritez mes soins par votre confiance.
 De ce que j'entreprends je sors avec honneur,
 Ou j'en sors, pour le moins, toujours avec bonheur.
 
--*who_cleandre
-Que tu me rends content ! Si j'épouse Philine,
-Je te fonde, Crispin, une sûre cuisine.
-
--*who_crispin
 Je savais autrefois quelques mots de latin :
 Mais depuis qu'à vos pas m'attache le destin,
 De tous les temps, celui que garde ma mémoire.
@@ -399,470 +694,95 @@ C'est le futur, soit dit sans taxer votre gloire,
 Vous dites au futur : Ca, tu seras payé ;
 Pour de présent, caret : vous l'avez oublié.
 
--*who_cleandre
-Va, tu ne perdras rien ; ne te mets point en peine.
-
--*who_crispin
 Quand vous vous marierez, j'aurai bien mon étrenne.
 Sortons ; mais quel serait ce grand original ?
 Ma foi, ce pourrait bien être notre animal.
 Allez chez vous m'attendre.
 
-**** *book_ *id_I05 *act_I *date_1706
-
--*who_maitrejacques
-      C'est là, monsieur Ariste :
-Velà bian la maison, je le sens à la piste ;
-Mais l'homme que voici nous instruira de ça.
-
--*who_crispin
 Que cherchez-vous, Messieurs ?
 
--*who_ariste
-      Ne serait-ce pas là
-La maison d'un nommé le Seigneur Démocrite ?
-
--*who_maitrejacques
-Je sons partis tous deux pour lui rendre visite.
-
--*who_crispin
 Oui, que demandez-vous ?
 
--*who_ariste
-      J'arrive ici pour lui.
-
--*who_maitrejacques
-C'est que ce Démocrite avertit celui-ci
-Qu'il lui baillait sa fille, et ça m'a fait envie ;
-Je venions assister à la çarimonie.
-Je devons épouser la fille de Jacquet,
-Et je venions un peu voir comment ça se fait.
-
--*who_crispin
 Est-ce Ariste ?
 
--*who_ariste
-      C'est moi.
-
--*who_maitrejacques
-      Velà sa portraiture,
-Tout comme l'a bâti notre mère nature.
-
--*who_crispin
 Moi, je suis Démocrite.
 
--*who_ariste
-      Ah ! quel heureux hasard !
-Démocrite, pardon si j'arrive un peu tard.
-
--*who_crispin
 Vous vous moquez de moi.
 
--*who_maitrejacques
-      Velà donc le biau-père ?
-Oh ! bian, pisque c'est vous, souffrez donc sans mystère
-Que je vous dégauchisse un petit compliment,
-En vous remarcissant de votre traitement.
-
--*who_crispin
 Vous me comblez d'honneur ; je voudrais que ma fille
 Pût, dans la suite, Ariste, unir notre famille.
 On nous a fait de vous un si sage récit.
 
--*who_ariste
-Je ne mérite pas tout ce qu'on en a dit.
-
--*who_maitrejacques
-Palsangué ! Qu'ils feront tous deux un beau carrage
-Je ne sais pas au vrai si la fille est bian sage ;
-Mais, margué ! Je m'en doute.
-
--*who_crispin
       Il ne me sied pas bien
 De la louer moi-même et d'en dire du bien.
 Vous en pourrez juger, elle est très vertueuse.
 
--*who_maitrejacques
-Biau-père, dites-moi, n'est-elle pas rêveuse ?
-
--*who_crispin
 Monsieur sera content s'il devient son époux.
 
--*who_ariste
-C'est, je l'ose assurer, mon souhait le plus doux ;
-Et quoique dans ces lieux j'aie fait ma retraite...
-
--*who_maitrejacques
-C'est qu'en ville autrefois sa fortune était faite.
-Il était emplouyé dans un très grand emploi ;
-Mais on le rechercha de par Monsieur le Roi.
-Il avait un biau train ; quelques farmiers venirent ;
-Ah ! Les méchants bourriaux ! Les farmiers le forcirent
-À compter. Ils disiont que Monsieur avait pris
-Plus d'argent qu'il ne faut et qu'il n'était permis ;
-Enfin, tout ci, tout ça, ces gens, pour son salaire,
-Vouliont, ce disaient-ils, lui faire pardre terre.
-Ceti-ci prit la mouche ; il leur plantit tout là,
-Et de ci les valets, et les cheviaux de là ;
-Et Monsieur, bien fâché d'une telle avanie,
-S'en venit dans les champs vivre en mélancoulie.
-
--*who_ariste
-Le fait est seulement que, lassé du fracas,
-Le séjour du village a pour moi plus d'appas.
-Maître Jacques, apercevant Toinette à une fenêtre.
-Ah ! le friand minois que je vois qui regarde !
-
--*who_toinette
-Eh ! qui sont donc ces gens ?
-
--*who_maitrejacques
-      L'agriable camarde !
-Biau-père, c'est l'enfant dont vous voulez parler ?
-
--*who_crispin
 Il est vrai, c'est ma fille ; et je vais l'appeler.
 Ma fille, descendez.
 
--*who_maitrejacques
-      Morgué, qu'elle est gentille !
-
-**** *book_ *id_I06 *act_I *date_1706
-
--*who_crispin
 Fais ton rôle, entends-tu ? Je te nomme ma fille,
 Et cet homme est Ariste. Approchez-vous de nous,
 Ma fille, et saluez votre futur époux.
 
--*who_maitrejacques
-      Jarnigué, la friponne ! Elle aurait ma tendresse.
-
--*who_ariste
-Je serais trop heureux, Monsieur, je le confesse.
-Madame a des appas dont on est si charmé,
-Qu'en la voyant d'abord on se sent enflammé.
-
--*who_toinette
-Est-il vrai, trouvez-vous que je sois bien aimable ?
-On ne voit, me dit-on, rien de plus agréable ;
-En gros je suis parfaite, et charmante en détail :
-Mes yeux sont tout de feu, mes lèvres de corail,
-Le nez le plus friand, la taille la plus fine.
-Mais mon esprit encor vaut bien mieux que ma mine.
-Gageons que votre coeur ne tient pas d'un filet ?
-Fripon, vous soupirez, avouez-le tout net.
-Il est tout interdit.
-
--*who_crispin
       Tu réponds à merveilles ;
 Courage sur ce ton.
 
--*who_maitrejacques
-      Ca ravit mes oreilles.
-
--*who_ariste
-Que veut dire ceci ? Veut-elle badiner ?
-Cet air et ses discours ont droit de m'étonner.
-
--*who_toinette
-Je vois que le pauvre homme a perdu la parole :
-S'il devenait muet, papa, je deviens folle.
-Parlez donc, cher amant, petit mari futur ;
-Sied-il bien aux amants d'avoir le coeur si dur ?
-Allez, petit ingrat, vous méritez ma haine.
-Je ferai désormais la fière et l'inhumaine.
-
--*who_ariste
-Je n'y comprends plus rien.
-
--*who_toinette
-      Tourne vers moi les yeux,
-Et vois combien les miens sont tendres amoureux.
-Ha ! Que pour toi déjà j'ai conçu de tendresse !
-Ô trop heureux mortel de m'avoir pour maîtresse !
-
--*who_ariste
-Dans quel égarement...
-
--*who_toinette
-      Vous ne me dites mot !
-Je vous croyais poli, mais vous n'êtes qu'un sot.
-Moi devenir sa femme ! Ha, ha, quelle figure !
-Marier un objet, chef-d'oeuvre de nature,
-Fi donc ! Avec un singe aussi vilain que lui !
-
--*who_ariste
-La guenon !
-
--*who_toinette
-      Cher papa, non, j'en mourrais d'ennui.
-Je suis, vous le savez, sujette à la migraine ;
-L'aspect de ce magot la rendrait quotidienne.
-Que je le hais déjà ! je ne le puis souffrir.
-S'il devient mon époux, ma vertu va finir ;
-Je ne réponds de rien.
-
--*who_ariste
-      Quelle étrange folie !
-
--*who_crispin
 Son humeur est contraire à la mélancolie.
 
--*who_ariste
-À l'autre !
-
--*who_crispin
       Expliquez-vous, ne vous plaît-elle pas ?
 
--*who_ariste
-Sans son extravagance elle aurait des appas.
-Retirons-nous d'ici, laissons ces imbéciles :
-Ils auraient de l'argent à courir dans les villes.
-Nous venons de bien loin pour ne voir que des fous.
-
--*who_maitrejacques
-Adieu, biauté quinteuse ; adieu donc, sans courroux.
-La peste les étouffe.
-
--*who_crispin
       Mon humeur est mutine :
 Point de bruit, s'il vous plaît, ou bien sur votre échine
 J'apostrophe un ergo qu'on nomme in barbara.
 
--*who_maitrejacques
-Ah ! morgué, le biau nid que j'avions trouvé là !
-
-**** *book_ *id_I07 *act_I *date_1706
-
--*who_crispin
 Il est congédié.
 
--*who_toinette
-      Grâces à mon adresse.
-
--*who_crispin
 Je te trouve en effet digne de ma tendresse.
 
--*who_toinette
-Est-il vrai, sieur Crispin ? Ah ! vous vous ravalez.
-
--*who_crispin
 Vous ne savez donc pas tout ce que vous valez ?
 
--*who_toinette
-C'est trop se prodiguer.
-
--*who_crispin
       Je ne puis m'en défendre :
 Les grands hommes souvent se plaisent à descendre.
 
--*who_toinette
-Démocrite paraît : adieu, songe au projet.
-
--*who_crispin
 Ne t'embarrasse pas : va, je sais mon sujet.
 Je vais me dire Ariste, et trouver Démocrite,
 Et je saurai chasser les autres dans la suite.
 Mais prends garde, l'un d'eux pourrait bien arriver :
 Je ne m'écarte point, viens vite me trouver.
 
--*who_toinette
-Ils ne viendront qu'au soir rendre visite au père.
-
--*who_crispin
 Je pourrai donc les voir et terminer l'affaire.
 
-**** *book_ *id_I08 *act_I *date_1706
-
--*who_democrite
-Toinette !
-
--*who_toinette
-      Eh bien ! Monsieur ?
-
--*who_democrite
-      Puisque c'est aujourd'hui
-Qu'Ariste doit venir, ayez soin que pour lui
-L'on prépare un régal : ma fille est prévenue...
-
--*who_toinette
-Je sais fort bien, Monsieur, qu'elle attend sa venue ;
-Mais, pour être sa femme, il est un peu trop vieux.
-
--*who_democrite
-Il a plus de raison.
-
--*who_toinette
-      En sera-t-elle mieux ?
-La raison, à son âge, est, ma foi, bagatelle,
-Et la raison n'est pas le charme d'une belle.
-
--*who_democrite
-Mais elle doit suffire.
-
--*who_toinette
-      Oui, pour de vieux époux ;
-Mais les jeunes, Monsieur, n'en sont pas si jaloux.
-Un peu moins de raison, plus de galanterie ;
-Et voilà ce qui fait le plaisir de la vie.
-
--*who_democrite
-C'en est fait, taisez-vous, je lui laisse le choix :
-Qu'elle prenne celui qui lui plaira des trois.
-
--*who_toinette
-Mais...
-
--*who_democrite
-      Mais retirez-vous, et gardez le silence !
-Parbleu, c'est bien à vous à taxer ma prudence !
-
-**** *book_ *id_I09 *act_I *date_1706
-
--*who_democrite
-En effet, est-il rien de plus avantageux ?
-Quoi ! je préférerais, pour je ne sais quels feux,
-Un jeune homme sans biens à trois partis sortables !
-Que faire, sans le bien, des figures aimables ?
-S'il gagnait son procès, cet amant si chéri,
-En ce cas, il pourrait devenir son mari :
-Mais vider des procès, c'est une mer à boire.
-
-**** *book_ *id_I10 *act_I *date_1706
-
--*who_lechevalier
-C'est ici.
-
--*who_democrite
-      C'est moi seul, enfin, que j'en veux croire.
-
--*who_lechevalier
-Le seigneur Démocrite est-il pas logé là ?
-
--*who_democrite
-Voulez-vous lui parler ?
-
--*who_lechevalier
-      Oui, Monsieur.
-
--*who_democrite
-      Le voilà.
-
--*who_lechevalier
-La rencontre est heureuse, et ma joie est extrême,
-En arrivant d'abord, de vous trouver vous-même.
-Philine est le sujet qui m'amène vers vous :
-Mon bonheur sera grand si je suis son époux.
-Je suis le chevalier de la Minardinière.
-
--*who_democrite
-Ah ! je comprends, Monsieur, et la chose est fort claire ;
-Je suis instruit de tout ; j'espérais de vous voir,
-Comme on me l'avait dit, aujourd'hui sur le soir.
-
--*who_lechevalier
-Puis-je croire, Monsieur, que votre aimable fille
-Voudra bien consentir d'unir notre famille ?
-
--*who_democrite
-Je suis persuadé que vous lui plairez fort.
-Si vous ne lui plaisiez, elle aurait un grand tort ;
-Mais comme vous avez pressé votre visite,
-Et qu'on n'espérait pas que vous vinssiez si vite,
-Elle est chez un parent, même assez loin d'ici.
-Si vous vouliez, Monsieur, revenir aujourd'hui,
-Vous vous verriez tous deux, et l'on prendrait mesure.
-
--*who_lechevalier
-Vous pouvez ordonner, et c'est me faire injure
-Que de penser, Monsieur, que je plaignis mes pas,
-Et l'espoir qui me flatte a pour moi trop d'appas.
-Je reviens sur le soir.
-
-**** *book_ *id_I11 *act_I *date_1706
-
--*who_democrite
-      Je fais avec prudence
-De ne l'avoir trompé par aucune assurance.
-Il est bon de choisir ; j'en dois voir encor deux,
-Et ma fille à son gré choisira l'un d'entre eux.
-Ariste et l'autre ici doivent bientôt se rendre,
-Et j'aurai dans ce jour l'un des trois pour mon gendre.
-Quelque mérite enfin qu'ait notre Chevalier,
-Il faut attendre Ariste et notre financier.
-L'heure approche, et bientôt...
-
-**** *book_ *id_I12 *act_I *date_1706
-
--*who_crispin
       Morbleu de Démocrite !
 Je pense qu'à mes yeux sa maison prend la fuite.
 Depuis longtemps ici que je la cherche en vain,
 J'aurais, je gage, bu dix chopines de vin.
 
--*who_democrite
-Quel ivrogne ! parlez, auriez-vous quelque affaire
-Avec lui ?
-
--*who_crispin
       Babillard, vous plaît-il de vous taire ?
 Vous interroge-t-on ?
 
--*who_democrite
-      Mais c'est moi qui le suis.
-
--*who_crispin
 Ah ! ah ! je me reprends, si je me suis mépris.
 Comment vous portez-vous ? Je me porte à merveille,
 Et je suis toujours frais, grâce au jus de la treille.
 
--*who_democrite
-Votre nom, s'il vous plaît ?
-
--*who_crispin
       Et mon surnom aussi.
 Je suis Antoine Ariste, arrivé d'aujourd'hui.
 Exprès pour épouser votre fille, je pense :
 Car le doute est fondé dessus l'expérience.
 
--*who_democrite
-Vous êtes goguenard ; je suis pourtant charmé
-De vous voir.
-
--*who_crispin
       Dites-moi, pourrai-je en être aimé ?
 Voyons-la.
 
--*who_democrite
-      Je le veux : qu'on appelle ma fille.
-
--*who_crispin
 Je me promets de faire une grande famille ;
 J'aime fort à peupler.
 
-**** *book_ *id_I13 *act_I *date_1706
-
--*who_democrite
-      La voilà.
-
--*who_crispin
       Je la vois.
 Mon humeur lui plaira, j'en juge à son minois.
 
--*who_democrite
-Ma fille, c'est Ariste.
-
--*who_crispin
       Oh ! oh ! que de fontange !
 Il faut quitter cela, ma mignonne, mon ange.
 
--*who_philine
-Eh ! pourquoi les quitter ?
-
--*who_democrite
-      Quelles sont vos raisons ?
-
--*who_crispin
 Oui, oui, parmi les boeufs, les vaches, les dindons,
 Il vous fera beau voir de rubans tout ornée !
 Dans huit jours vous serez couleur de cheminée.
@@ -877,23 +797,9 @@ Pour éveiller ses gens, crier comme une folle :
 Voilà, ma chère enfant, désormais votre emploi,
 Et de ce que je veux faites-vous une loi.
 
--*who_philine
-Dieux ! quel original ! je n'en veux point, mon père !
-
--*who_democrite
-Ce rustique bourgeois commence à me déplaire.
-
--*who_crispin
 Ses souliers, pour les champs, sont un peu trop mignons :
 Dans une basse-cour, des sabots seront bons.
 
--*who_philine
-Des sabots !
-
--*who_democrite
-      Des sabots !
-
--*who_crispin
       Oui, des sabots, ma fille.
 Sachez qu'on en porta toujours dans ma famille ;
 Et j'ai même un cousin, à présent financier,
@@ -903,21 +809,10 @@ Quand, au lieu de damas, habillée en servante,
 Et devenue enfin une grosse dondon,
 De ma maison des champs vous prendrez le timon.
 
--*who_democrite
-Le prenne qui voudra : mais je vous remercie.
-Non, je n'en vis jamais, de si sot, en ma vie.
-Adieu, sieur campagnard : je vous donne un bonsoir.
-Pour ma fille, jamais n'espérez de l'avoir.
-Laissons-le.
-
--*who_crispin
       Dieu vous garde. Parbleu ! Qu'elle choisisse ;
 Qu'elle prenne un garçon, Normand, Breton ou Suisse ;
 Et que m'importe à moi !
 
-**** *book_ *id_I14 *act_I *date_1706
-
--*who_crispin
       Pour la subtilité,
 Je pense qu'ici-bas mon pareil n'est pas né.
 Que d'adresse, morbleu ! De Paris jusqu'à Rome
@@ -946,431 +841,60 @@ Mais le voilà qui vient, notre vrai financier.
 Courage, il faut ici faire un tour du métier.
 Il arrive à propos.
 
-**** *book_ *id_I15 *act_I *date_1706
-
--*who_lefinancier
-      Oui, voilà sa demeure ;
-Sans doute je pourrai le trouver à cette heure.
-Mais, est-ce toi, Crispin ?
-
--*who_crispin
       C'est votre serviteur.
 Et quel hasard, Monsieur, ou plutôt quel bonheur
 Fait qu'on vous trouve ici ?
 
--*who_lefinancier
-      J'y fais un mariage.
-
--*who_crispin
 Vous mariez quelqu'un dans ce petit village ?
 
--*who_lefinancier
-Connais-tu Démocrite ?
-
--*who_crispin
       Hé ! je loge chez lui.
 
--*who_lefinancier
-Quoi ! tu loges chez lui ? j'y viens moi-même aussi.
-
--*who_crispin
 Hé qu'y faire ?
 
--*who_lefinancier
-      J'y viens pour épouser sa fille.
-
--*who_crispin
 Quoi ! vous vous alliez avec cette famille !
 
--*who_lefinancier
-Hé, ne fais-je pas bien ?
-
--*who_crispin
       Je suis de la maison,
 Et je ne puis parler.
 
--*who_lefinancier
-      Tu me donnes soupçon :
-De grâce, explique-toi.
-
--*who_crispin
       Je n'ose vous rien dire.
 
--*who_lefinancier
-Quoi ! tu me cacherais ?...
-
--*who_crispin
       Je n'aime point à nuire.
 
--*who_lefinancier
-Crispin, encore un coup...
-
--*who_crispin
       Ah ! si l'on m'entendait,
 Je serais mort, Monsieur, et l'on m'assommerait.
 
--*who_lefinancier
-Quoi ! Crispin autrefois qui fut à mon service !...
-
--*who_crispin
 Enfin, vous voulez donc, Monsieur, que je périsse ?
 
--*who_lefinancier
-Ne t'embarrasse pas.
-
--*who_crispin
       Gardez donc le secret.
 Je suis perdu, Monsieur, si vous n'êtes discret.
 Je tremble.
 
--*who_lefinancier
-      Parle donc.
-
--*who_crispin
       Eh bien donc ! cette fille,
 Son père et ses parents et toute la famille,
 Tombent d'un certain mal que je n'ose nommer.
 
--*who_lefinancier
-Ha Crispin, quelle horreur ! tu me fais frissonner.
-Je venais de ce pas rendre visite au père,
-Et peut-être, sans toi, j'eus terminé l'affaire.
-À présent, c'en est fait, je ne veux plus le voir,
-Je m'en retourne enfin à Paris dès ce soir.
-
--*who_crispin
 Je m'enfuis, mais sur tout gardez bien le silence.
 
--*who_lefinancier
-Tiens !
-
--*who_crispin
       Je n'exige pas, Monsieur, de récompense.
 
--*who_lefinancier
-Tiens donc.
-
--*who_crispin
       Vous le voulez, il faut vous obéir.
 Adieu, Monsieur : motus !
 
-**** *book_ *id_I16 *act_I *date_1706
-
--*who_lefinancier
-      Qu'allais-je devenir ?
-J'aurais, sans son avis, fait un beau mariage !
-Elle m'eût apporté belle dot en partage !
-Je serais bien fâché d'être époux à ce prix ;
-Je ne suis point assez de ses appas épris.
-Retirons-nous... Pourtant un peu de bienséance,
-À vrai dire, n'est pas de si grande importance.
-Démocrite m'attend : avant que de quitter,
-Il est bon de le voir et de me rétracter.
-
-**** *book_ *id_I17 *act_I *date_1706
-
--*who_toinette
-Que voulez-vous, Monsieur ?
-
--*who_lefinancier
-      Le seigneur Démocrite
-Est-il là ? je venais pour lui rendre visite.
-
--*who_toinette
-Non.
-
--*who_democrite
-      Qui frappe là-bas ? à qui donc en veut-on ?
-
--*who_lefinancier
-Le seigneur Démocrite est-il en sa maison ?
-
--*who_democrite
-J'y suis et je descends.
-
--*who_lefinancier
-      Vous vous trompiez, la belle.
-
--*who_toinette
-D'accord.
-      C'est bien en vain que j'ai fait sentinelle.
-Tout ceci va fort mal : les desseins de Crispin,
-Autant qu'on peut juger, n'auront pas bonne fin.
-Je ne m'en mêle plus.
-
-**** *book_ *id_I18 *act_I *date_1706
-
--*who_lefinancier
-      J'étais dans l'espérance
-De pouvoir avec vous contracter alliance.
-Un accident, Monsieur, m'oblige de partir :
-J'ai cru de mon devoir de vous en avertir.
-
--*who_democrite
-Vous êtes donc Monsieur de la Boursinière ?
-Et quel malheur, Monsieur, quelle subite affaire
-Peut, en si peu de temps, causer votre départ ?
-À cet éloignement ma fille a-t-elle part ?
-
--*who_lefinancier
-Non, Monsieur.
-
--*who_democrite
-      Permettez pourtant que je soupçonne ;
-Et dans l'étonnement qu'un tel départ me donne,
-J'entrevois que peut-être ici quelque jaloux
-Pourrait, en ce moment, vous éloigner de nous.
-Vous ne répondez rien, avouez-moi la chose ;
-D'un changement si grand apprenez-moi la cause.
-J'y suis intéressé ; car si des envieux
-Vous avaient fait, Monsieur, des rapports odieux,
-Je ne vous retiens pas, mais daignez m'en instruire.
-Il faut vous détromper.
-
--*who_lefinancier
-      Que pourrais-je vous dire ?
-
--*who_democrite
-Non, non, il n'est plus temps de vouloir le celer.
-Je vois trop ce que c'est, et vous pouvez parler.
-
--*who_lefinancier
-N'avez-vous pas chez vous un valet que l'on nomme Crispin ?
-
--*who_democrite
-Moi ? de ce nom je ne connais personne.
-
--*who_lefinancier
-Le fourbe ! il m'a trompé.
-
--*who_democrite
-      Eh bien donc ? Ce Crispin ?
-
--*who_lefinancier
-Il s'est dit de chez vous.
-
--*who_democrite
-      Il ment, c'est un coquin.
-
--*who_lefinancier
-Un mal affreux, dit-il, attaquait votre fille.
-Il en a dit autant de toute la famille.
-
--*who_democrite
-D'un rapport si mauvais je ne puis me fâcher.
-
--*who_lefinancier
-Mais il faut le punir, et je vais le chercher.
-
--*who_democrite
-Allez, je vous attends.
-
--*who_lefinancier
-      Au reste, je vous prie,
-Que je ne souffre point de cette calomnie.
-
--*who_democrite
-J'ai le coeur mieux placé.
-
-**** *book_ *id_I19 *act_I *date_1706
-
--*who_democrite
-      Quelle méchanceté !
-Qui peut être l'auteur de cette fausseté ?
-
--*who_frontin
-Le rôle que Crispin ici me donne à faire
-N'est pas des plus aisés, et veut bien du mystère.
-
--*who_democrite
-Souvent, sans le savoir, on a des ennemis
-Cachés sous le beau nom de nos meilleurs amis.
-
--*who_frontin
-Connaissez-vous ici le seigneur Démocrite ?
-Je viens exprès ici pour lui rendre visite.
-
--*who_democrite
-C'est moi.
-
--*who_frontin
-      J'en suis ravi : ce que j'ai de crédit
-Est à votre service.
-
--*who_democrite
-      Eh ! mais, dans quel esprit
-Me l'offrez-vous, à moi ? votre nom, que je sache,
-M'est inconnu ; qu'importe ?... On dirait qu'il se fâche.
-Est-on Turc avec ceux que l'on ne connaît pas ?
-Je ne suis pas de ceux qui font tant de fracas.
-
--*who_frontin
-En buvant tous les deux, nous saurons qui nous sommes.
-
--*who_democrite
-Il est, je l'avouerai, de ridicules hommes.
-
--*who_frontin
-Je suis de vos amis, je vous dirai mon nom.
-
--*who_democrite
-Il ne s'agit ici de nom ni de surnom.
-
--*who_frontin
-Vous êtes aujourd'hui d'une humeur chagrinante :
-Mon amitié pourtant n'est pas indifférente.
-
--*who_democrite
-Finissons, s'il vous plaît.
-
--*who_frontin
-      Je le veux. Dites-moi
-Comment va notre enfant ? Elle est belle, ma foi ;
-Je veux dès aujourd'hui lui donner sérénade.
-
--*who_democrite
-Qu'elle se porte bien, ou qu'elle soit malade,
-Que vous importe à vous ?
-
--*who_frontin
-      Je la connais fort bien ;
-Elle est riche, papa : mais vous n'en dites rien ;
-Il ne tiendra qu'à vous de terminer l'affaire.
-
--*who_democrite
-Je n'entends rien, Monsieur, à tout ce beau mystère.
-
--*who_frontin
-Vous le dites.
-
--*who_democrite
-      J'en jure.
-
--*who_frontin
-      Oh ! point de jurement.
-Je ne vous en crois pas, même à votre serment.
-Démocrite, entre nous, point tant de modestie.
-Venons au fait.
-
--*who_democrite
-      Monsieur, avez-vous fait partie
-De vous moquer de moi ?
-
--*who_frontin
-      Morbleu ! point de détours.
-Faites venir ici l'objet de mes amours.
-La friponne, je crois qu'elle en sera bien aise ;
-Et vous l'êtes aussi, papa, ne vous déplaise.
-J'en suis ravi de même, et nous serons tous trois.
-En même temps, ici, plus contents que des rois.
-Savez-vous qui je suis ?
-
--*who_democrite
-      Il ne m'importe guère.
-
--*who_frontin
-Ah ! si vous le saviez, vous diriez le contraire.
-
--*who_democrite
-Moi !
-
--*who_frontin
-      Je gage que si. Je suis, pour abréger...
-
--*who_democrite
-Je n'y prends nulle part, et ne veux point gager.
-
--*who_frontin
-C'est qu'il a peur de perdre.
-
--*who_democrite
-      Eh bien ! soit : je me lasse
-De ce galimatias ; expliquez-vous de grâce.
-
--*who_frontin
-Je suis le financier qui devait sur le soir,
-Pour ce que vous savez, vous parler et vous voir.
-
--*who_democrite
-Quelle est donc cette énigme ?
-
--*who_frontin
-      Un peu de patience ;
-J'adoucirai bientôt votre aigre révérence.
-J'ai mille francs et plus de revenu par jour :
-Dites, avec cela peut-on faire l'amour ?
-Grand nombre de chevaux, de laquais, d'équipages.
-Quand je me marierai, ma femme aura des pages.
-Voyez-vous cet habit ? Il est beau, somptueux ;
-Un autre avec cela ferait le glorieux :
-Fi ! C'est un guenillon que je porte en campagne :
-Vous croiriez ma maison un pays de cocagne.
-Voulez-vous voir mon train ? Il est fort près d'ici.
-
--*who_democrite
-Je m'y perds.
-
--*who_frontin
-      Ma livrée est magnifique aussi.
-Papa, savez-vous bien qu'un excès de tendresse
-Va rendre votre enfant de tant de biens maîtresse ?
-Vous avez, m'a-t-on dit, en rente, vingt mil francs.
-Partagez-nous-en dix, et nous serons contents.
-Après cela, mourez pour nous laisser le reste.
-Dites, en vérité, puis-je être plus modeste ?
-
--*who_democrite
-Non, je n'y connais rien ; Monsieur le financier,
-Ou qui que vous soyez, il faudrait vous lier ;
-Je ne puis démêler si c'est la fourberie,
-Ou si ce n'est enfin que pure frénésie
-Qui vous conduit ici : mais n'y revenez plus.
-
--*who_frontin
-Adieu, je mangerai tout seul mes revenus.
-Vinssiez-vous à présent prier pour votre fille,
-J'abandonne à jamais votre ingrate famille.
-
-**** *book_ *id_I20 *act_I *date_1706
-
--*who_democrite
-Je ne puis débrouiller tout ce galimatias,
-Et tout ceci me met dans un grand embarras.
-
-**** *book_ *id_I21 *act_I *date_1706
-
--*who_crispin
 N'est-ce pas vous, Monsieur, qu'on nomme Démocrite ?
 
--*who_democrite
-Oui.
-
--*who_crispin
       Vous êtes, dit-on, un homme de mérite ;
 Et j'espère, Monsieur, de votre probité,
 Que vous écouterez mon infélicité :
 Mais puis-je dans ces lieux me découvrir sans crainte ?
 
--*who_democrite
-Ne craignez rien.
-
--*who_crispin
       O ciel ! sois touché de ma plainte !
 Vous me voyez, Monsieur, réduite au désespoir,
 Causé par un ingrat qui m'a su décevoir.
 
--*who_democrite
-Dans un malheur si grand, pourrais-je quelque chose ?
-
--*who_crispin
 Oui, Monsieur, vous allez en apprendre la cause :
 Mais la force me manque, et, dans un tel récit,
 Mon coeur respire à peine, et ma douleur s'aigrit.
 
--*who_democrite
-Calmez les mouvements dont votre âme agitée...
-
--*who_crispin
 Hélas ! par les sanglots ma voix est arrêtée :
 Mais enfin, il est temps d'avouer mon malheur.
 Daigne le juste ciel terminer ma douleur !
@@ -1388,195 +912,187 @@ Hélas ! épargnez-moi ce triste souvenir,
 Et ne remédions qu'aux maux de l'avenir.
 Cet ingrat chevalier épouse votre fille.
 
--*who_democrite
-Quoi ! c'est celui qui veut entrer dans ma famille ?
-
--*who_crispin
 Lui-même ! vous voyez la noire trahison.
 
--*who_democrite
-Cette action est noire.
-
--*who_crispin
       Hélas ! c'est un fripon.
 Cet ingrat m'a séduite : Ha Monsieur, quel dommage
 De tromper lâchement une fille à mon âge !
 
--*who_democrite
-Il vient bien à propos, nous pourrons lui parler.
-
--*who_crispin
 Non, non, je vais sortir.
 
--*who_democrite
-      Pourquoi vous en aller ?
-
--*who_crispin
 Ah ! c'est un furieux.
 
--*who_democrite
-      Tenez-vous donc derrière ;
-Il ne vous verra pas.
-
--*who_crispin
       J'ai peur.
 
--*who_democrite
-      Laissez-moi faire.
-
-**** *book_ *id_I22 *act_I *date_1706
-
--*who_lechevalier
-Quoique j'eus résolu de ne plus vous revoir
-Et que je dus partir de ces lieux dès ce soir,
-J'ai cru devoir encor rétracter ma parole,
-Résolu de ne point épouser une folle.
-Je suis fâché, Monsieur, de vous parler si franc ;
-Mais vous méritez bien un pareil compliment,
-Puisque vous me trompiez, sans un avis fidèle.
-Votre fille est fort riche, elle est jeune, elle est belle ;
-Mais les fréquents accès qui troublent son esprit
-Ne sont pas de mon goût.
-
--*who_democrite
-      Eh ! qui vous l'a donc dit
-Qu'elle eût de ces accès ?
-
--*who_lechevalier
-      J'ai promis de me taire.
-Celui de qui je tiens cet avis salutaire,
-Je le connais fort bien, et vous le connaissez.
-Cet homme est de chez vous, c'est vous en dire assez.
-
--*who_democrite
-Cet homme a déjà fait une autre menterie :
-C'est un nommé Crispin, insigne en fourberie ;
-Je n'en sais que le nom, il n'est point de chez moi.
-Mais vous, n'avez-vous point engagé votre foi ?
-Vous êtes interdit ! que prétendiez-vous faire ?
-Vous marier deux fois ?
-
--*who_lechevalier
-      Quel est donc ce mystère ?
-
--*who_democrite
-Vous devriez rougir d'une telle action :
-C'est du ciel s'attirer la malédiction.
-Et ne savez-vous pas que la polygamie
-Est ici cas pendable et qui coûte la vie ?
-
--*who_lechevalier
-Moi, je suis marié ! qui vous fait ce rapport ?
-
--*who_democrite
-Oui, voilà mon auteur, regardez si j'ai tort.
-
--*who_lechevalier
-Eh bien ?
-
--*who_democrite
-      C'est votre femme.
-
--*who_lechevalier
-      Ah ! le plaisant visage,
-Le ragoûtant objet que j'avais en partage !
-Mais je crois la connaître. Ah parbleu ! c'est Crispin,
-Lui-même.
-
--*who_democrite
-      Ce fripon, cet insigne coquin ?
-
--*who_lechevalier
-Malheureux, tu m'as dit que Philine était folle,
-Réponds donc !
-
--*who_crispin
       Ah, Monsieur, j'ai perdu la parole.
 
--*who_democrite
-Arrêtons ce maraud.
-
--*who_crispin
       Oui, je suis un fripon :
 Ayez pitié de moi.
 
--*who_lechevalier
-      Mille coups de bâton,
-Fourbe, vont te payer.
-
-**** *book_ *id_I23 *act_I *date_1706
-
--*who_lefinancier
-      Ma peine est inutile,
-Je crois que notre fourbe a regagné la ville,
-Je n'ai pu le trouver.
-
--*who_democrite
-      Regardez ce minois ;
-Le reconnaissez-vous ?
-
--*who_lefinancier
-      Eh ! c'est Crispin, je crois.
-
--*who_democrite
-C'est lui-même.
-
--*who_lefinancier
-      Voleur !
-
--*who_crispin
       Ah ! je suis prêt à rendre
 L'argent que j'ai reçu... vous me l'avez fait prendre.
 
--*who_democrite
-Qui m'aurait envoyé tantôt certain fripon ?
-Il s'est dit financier, et prenait votre nom.
-
--*who_lefinancier
-Le mien ?
-
--*who_democrite
-      Oui, le coquin ne disait que sottises.
-
--*who_lefinancier
-N'était-ce pas de toi qu'il les avait apprises ?
-Parle.
-
--*who_crispin
       Vous l'avez dit, oui, j'ai fait tout le mal ;
 Mais à mon crime, hélas ! mon regret est égal.
 
--*who_lefinancier
-Ah ! monsieur l'hypocrite !
+      Il est vrai.
 
-**** *book_ *id_I24 *act_I *date_1706
+Hélas !
 
--*who_ariste
+Je vais tout avouer : je m'appelle Crispin,
+Ecoutez-moi sans bruit, quatre mots font l'affaire.
+
+      Vous allez le savoir :
+Ces trois messieurs devaient vous parler sur le soir,
+Et l'un des trois allait devenir votre gendre.
+Cléandre, au désespoir, voulait aller se pendre ;
+Il aime votre fille, il en est fort aimé.
+Or, étant son valet, dans cette extrémité,
+Je m'offris sur le champ de détourner l'orage,
+Et Toinette avec moi joua son personnage.
+De tout ce qui s'est fait, enfin, je suis l'auteur ;
+Mais je me repens bien d'être né trop bon coeur :
+Sans cela...
+
+Je puis dire avoir vu le bâton de bien près.
+Vous venez à propos : quoi ! vous osez paraître !
+
+Hélas ! que de douceur !
+
+Finis la mienne aussi, marions-nous tous deux.
+Je suis pressé, Toinette.
+
+Ha ! l'on ne vit jamais pareille impatience,
+Et l'amour dans mon coeur épuise sa puissance.
+Viens, ne retarde point l'instant de nos plaisirs :
+Prends ce baiser pour gage, objet de mes désirs
+Un seul ne suffit pas.
+
+      Je pelote en attendant partie.
+
+Le veux-tu ?
+
+Tu te fais bien prier !
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
+      Ne serait-ce pas là
+La maison d'un nommé le Seigneur Démocrite ?
+
+      J'arrive ici pour lui.
+
+      C'est moi.
+
+      Ah ! quel heureux hasard !
+Démocrite, pardon si j'arrive un peu tard.
+
+Je ne mérite pas tout ce qu'on en a dit.
+
+C'est, je l'ose assurer, mon souhait le plus doux ;
+Et quoique dans ces lieux j'aie fait ma retraite...
+
+Le fait est seulement que, lassé du fracas,
+Le séjour du village a pour moi plus d'appas.
+Maître Jacques, apercevant Toinette à une fenêtre.
+Ah ! le friand minois que je vois qui regarde !
+
+Je serais trop heureux, Monsieur, je le confesse.
+Madame a des appas dont on est si charmé,
+Qu'en la voyant d'abord on se sent enflammé.
+
+Que veut dire ceci ? Veut-elle badiner ?
+Cet air et ses discours ont droit de m'étonner.
+
+Je n'y comprends plus rien.
+
+Dans quel égarement...
+
+La guenon !
+
+      Quelle étrange folie !
+
+À l'autre !
+
+Sans son extravagance elle aurait des appas.
+Retirons-nous d'ici, laissons ces imbéciles :
+Ils auraient de l'argent à courir dans les villes.
+Nous venons de bien loin pour ne voir que des fous.
+
       Il faut nous en instruire.
 
--*who_maitrejacques
-Pargué, ces biaux messieurs pourront bian nous le dire.
-
--*who_ariste
 Démocrite, Messieurs, est-il connu de vous ?
 
--*who_maitrejacques
+C'est cependant mon nom.
+
+La chose est comme il dit.
+
+De vos liens, pour moi, je ne suis point jaloux.
+
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitrejacques
+
+      C'est là, monsieur Ariste :
+Velà bian la maison, je le sens à la piste ;
+Mais l'homme que voici nous instruira de ça.
+
+Je sons partis tous deux pour lui rendre visite.
+
+C'est que ce Démocrite avertit celui-ci
+Qu'il lui baillait sa fille, et ça m'a fait envie ;
+Je venions assister à la çarimonie.
+Je devons épouser la fille de Jacquet,
+Et je venions un peu voir comment ça se fait.
+
+      Velà sa portraiture,
+Tout comme l'a bâti notre mère nature.
+
+      Velà donc le biau-père ?
+Oh ! bian, pisque c'est vous, souffrez donc sans mystère
+Que je vous dégauchisse un petit compliment,
+En vous remarcissant de votre traitement.
+
+Palsangué ! Qu'ils feront tous deux un beau carrage
+Je ne sais pas au vrai si la fille est bian sage ;
+Mais, margué ! Je m'en doute.
+
+Biau-père, dites-moi, n'est-elle pas rêveuse ?
+
+C'est qu'en ville autrefois sa fortune était faite.
+Il était emplouyé dans un très grand emploi ;
+Mais on le rechercha de par Monsieur le Roi.
+Il avait un biau train ; quelques farmiers venirent ;
+Ah ! Les méchants bourriaux ! Les farmiers le forcirent
+À compter. Ils disiont que Monsieur avait pris
+Plus d'argent qu'il ne faut et qu'il n'était permis ;
+Enfin, tout ci, tout ça, ces gens, pour son salaire,
+Vouliont, ce disaient-ils, lui faire pardre terre.
+Ceti-ci prit la mouche ; il leur plantit tout là,
+Et de ci les valets, et les cheviaux de là ;
+Et Monsieur, bien fâché d'une telle avanie,
+S'en venit dans les champs vivre en mélancoulie.
+
+      L'agriable camarde !
+Biau-père, c'est l'enfant dont vous voulez parler ?
+
+      Morgué, qu'elle est gentille !
+
+      Jarnigué, la friponne ! Elle aurait ma tendresse.
+
+      Ca ravit mes oreilles.
+
+Adieu, biauté quinteuse ; adieu donc, sans courroux.
+La peste les étouffe.
+
+Ah ! morgué, le biau nid que j'avions trouvé là !
+
+Pargué, ces biaux messieurs pourront bian nous le dire.
+
 C'est que j'en savons un qui s'est moqué de nous.
 Velà, Monsieur, Ariste.
 
--*who_democrite
-      Ariste ?
-
--*who_maitrejacques
       Oui, lui-même.
 
--*who_democrite
-Mais cela ne se peut, ma surprise est extrême.
-
--*who_ariste
-C'est cependant mon nom.
-
--*who_maitrejacques
       J'étions venus tantôt
 Pour le voir : mais j'avons trouvé queuque maraud,
 Qui disait comme ça qu'il était Démocrite.
@@ -1596,145 +1112,236 @@ Monsieur, je sons trompé, j'en avons une dose,
 Ai-je dit, moi. Pargué ! pour être plus certain,
 Je venons en tout ça savoir encor la fin.
 
--*who_ariste
-La chose est comme il dit.
-
--*who_democrite
-      C'est encor ton ouvrage,
-Dis, coquin ?
-
--*who_crispin
-      Il est vrai.
-
--*who_maitrejacques
       Quel est donc ce visage ?
 C'est notre homme !
 
--*who_democrite
-      C'est lui, mais le fourbe a plus fait,
-Il m'a trompé de même, et vous a contrefait.
 
--*who_crispin
-Hélas !
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
--*who_democrite
-      Vous étiez trois qui demandiez ma fille ;
-Et qui vouliez, Messieurs, entrer dans ma famille,
-Ma fille aimait déjà, elle avait fait son choix,
-Et refusait toujours d'épouser l'un des trois.
-Je vous ménageai tous, dans la douce espérance
-Avec un de vous trois d'entrer en alliance ;
-J'ignore les raisons qui poussent ce coquin.
+C'est ici.
 
--*who_crispin
-Je vais tout avouer : je m'appelle Crispin,
-Ecoutez-moi sans bruit, quatre mots font l'affaire.
+Le seigneur Démocrite est-il pas logé là ?
 
--*who_democrite
-Qu'on appelle ma fille. A tout ce beau mystère
-A-t-elle quelque part ?
+      Oui, Monsieur.
 
--*who_crispin
-      Vous allez le savoir :
-Ces trois messieurs devaient vous parler sur le soir,
-Et l'un des trois allait devenir votre gendre.
-Cléandre, au désespoir, voulait aller se pendre ;
-Il aime votre fille, il en est fort aimé.
-Or, étant son valet, dans cette extrémité,
-Je m'offris sur le champ de détourner l'orage,
-Et Toinette avec moi joua son personnage.
-De tout ce qui s'est fait, enfin, je suis l'auteur ;
-Mais je me repens bien d'être né trop bon coeur :
-Sans cela...
+La rencontre est heureuse, et ma joie est extrême,
+En arrivant d'abord, de vous trouver vous-même.
+Philine est le sujet qui m'amène vers vous :
+Mon bonheur sera grand si je suis son époux.
+Je suis le chevalier de la Minardinière.
 
--*who_democrite
-      Franc coquin !
-      Vous voilà donc, ma fille !
-En fait de tours d'esprit, vous êtes fort habile,
-Mais votre habileté ne servira de rien :
-Vous n'épouserez point un jeune homme sans bien.
-Déterminez-vous donc.
+Puis-je croire, Monsieur, que votre aimable fille
+Voudra bien consentir d'unir notre famille ?
 
--*who_philine
-      Mettez-vous à ma place,
-Mon père, et dites-moi ce qu'il faut que je fasse.
+Vous pouvez ordonner, et c'est me faire injure
+Que de penser, Monsieur, que je plaignis mes pas,
+Et l'espoir qui me flatte a pour moi trop d'appas.
+Je reviens sur le soir.
 
--*who_democrite
-Toi, sors d'ici, maraud, et ne parais jamais.
+Quoique j'eus résolu de ne plus vous revoir
+Et que je dus partir de ces lieux dès ce soir,
+J'ai cru devoir encor rétracter ma parole,
+Résolu de ne point épouser une folle.
+Je suis fâché, Monsieur, de vous parler si franc ;
+Mais vous méritez bien un pareil compliment,
+Puisque vous me trompiez, sans un avis fidèle.
+Votre fille est fort riche, elle est jeune, elle est belle ;
+Mais les fréquents accès qui troublent son esprit
+Ne sont pas de mon goût.
 
--*who_crispin
-Je puis dire avoir vu le bâton de bien près.
-Vous venez à propos : quoi ! vous osez paraître !
+      J'ai promis de me taire.
+Celui de qui je tiens cet avis salutaire,
+Je le connais fort bien, et vous le connaissez.
+Cet homme est de chez vous, c'est vous en dire assez.
 
-**** *book_ *id_I25 *act_I *date_1706
+      Quel est donc ce mystère ?
 
--*who_cleandre
-De mon destin, Monsieur, je viens vous rendre maître ;
-Pardonnez aux effets d'un violent amour,
-Et vous-même dictez notre arrêt en ce jour.
-Je me suis, il est vrai, servi de stratagème ;
-Mais que ne fait-on pas, pour avoir ce qu'on aime ?
-On m'enlevait l'objet de mes plus tendres feux,
-Et, pour tout avouer, nous nous aimons tous deux.
-Vous connaissez, Monsieur, mon sort et ma famille ;
-Mon procès est gagné, j'adore votre fille :
-Prononcez, et s'il faut embrasser vos genoux...
+Moi, je suis marié ! qui vous fait ce rapport ?
 
--*who_ariste
-De vos liens, pour moi, je ne suis point jaloux.
+Eh bien ?
 
--*who_lechevalier
+      Ah ! le plaisant visage,
+Le ragoûtant objet que j'avais en partage !
+Mais je crois la connaître. Ah parbleu ! c'est Crispin,
+Lui-même.
+
+Malheureux, tu m'as dit que Philine était folle,
+Réponds donc !
+
+      Mille coups de bâton,
+Fourbe, vont te payer.
+
 À vos désirs aussi je suis prêt à souscrire
 
--*who_lefinancier
+
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
+
+      Oui, voilà sa demeure ;
+Sans doute je pourrai le trouver à cette heure.
+Mais, est-ce toi, Crispin ?
+
+      J'y fais un mariage.
+
+Connais-tu Démocrite ?
+
+Quoi ! tu loges chez lui ? j'y viens moi-même aussi.
+
+      J'y viens pour épouser sa fille.
+
+Hé, ne fais-je pas bien ?
+
+      Tu me donnes soupçon :
+De grâce, explique-toi.
+
+Quoi ! tu me cacherais ?...
+
+Crispin, encore un coup...
+
+Quoi ! Crispin autrefois qui fut à mon service !...
+
+Ne t'embarrasse pas.
+
+      Parle donc.
+
+Ha Crispin, quelle horreur ! tu me fais frissonner.
+Je venais de ce pas rendre visite au père,
+Et peut-être, sans toi, j'eus terminé l'affaire.
+À présent, c'en est fait, je ne veux plus le voir,
+Je m'en retourne enfin à Paris dès ce soir.
+
+Tiens !
+
+Tiens donc.
+
+      Qu'allais-je devenir ?
+J'aurais, sans son avis, fait un beau mariage !
+Elle m'eût apporté belle dot en partage !
+Je serais bien fâché d'être époux à ce prix ;
+Je ne suis point assez de ses appas épris.
+Retirons-nous... Pourtant un peu de bienséance,
+À vrai dire, n'est pas de si grande importance.
+Démocrite m'attend : avant que de quitter,
+Il est bon de le voir et de me rétracter.
+
+      Le seigneur Démocrite
+Est-il là ? je venais pour lui rendre visite.
+
+Le seigneur Démocrite est-il en sa maison ?
+
+      Vous vous trompiez, la belle.
+
+      J'étais dans l'espérance
+De pouvoir avec vous contracter alliance.
+Un accident, Monsieur, m'oblige de partir :
+J'ai cru de mon devoir de vous en avertir.
+
+Non, Monsieur.
+
+      Que pourrais-je vous dire ?
+
+N'avez-vous pas chez vous un valet que l'on nomme Crispin ?
+
+Le fourbe ! il m'a trompé.
+
+Il s'est dit de chez vous.
+
+Un mal affreux, dit-il, attaquait votre fille.
+Il en a dit autant de toute la famille.
+
+Mais il faut le punir, et je vais le chercher.
+
+      Au reste, je vous prie,
+Que je ne souffre point de cette calomnie.
+
+      Ma peine est inutile,
+Je crois que notre fourbe a regagné la ville,
+Je n'ai pu le trouver.
+
+      Eh ! c'est Crispin, je crois.
+
+      Voleur !
+
+Le mien ?
+
+N'était-ce pas de toi qu'il les avait apprises ?
+Parle.
+
+Ah ! monsieur l'hypocrite !
+
 Je me dépars de tout, je ne puis pas plus dire.
 
--*who_philine
-Mon père, faites-moi grâce, et mon coeur est tout prêt
-S'il faut à mon amant renoncer pour jamais.
 
--*who_crispin
-Hélas ! que de douceur !
+**** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
--*who_toinette
-      Monsieur, soyez sensible.
+Le rôle que Crispin ici me donne à faire
+N'est pas des plus aisés, et veut bien du mystère.
 
--*who_democrite
-C'en est fait, et mon coeur cesse d'être inflexible.
-Levez-vous, finissez tous vos remerciements :
-Je ne sépare plus de si tendres amants.
-Ces messieurs resteront pour la cérémonie.
-Soyez contents tous deux, votre peine est finie.
+Connaissez-vous ici le seigneur Démocrite ?
+Je viens exprès ici pour lui rendre visite.
 
--*who_crispin
-Finis la mienne aussi, marions-nous tous deux.
-Je suis pressé, Toinette.
+      J'en suis ravi : ce que j'ai de crédit
+Est à votre service.
 
--*who_toinette
-      Es-tu bien amoureux ?
+En buvant tous les deux, nous saurons qui nous sommes.
 
--*who_crispin
-Ha ! l'on ne vit jamais pareille impatience,
-Et l'amour dans mon coeur épuise sa puissance.
-Viens, ne retarde point l'instant de nos plaisirs :
-Prends ce baiser pour gage, objet de mes désirs
-Un seul ne suffit pas.
+Je suis de vos amis, je vous dirai mon nom.
 
--*who_toinette
-      Quelle est donc ta folie ?
-Que fais-tu ?
+Vous êtes aujourd'hui d'une humeur chagrinante :
+Mon amitié pourtant n'est pas indifférente.
 
--*who_crispin
-      Je pelote en attendant partie.
+      Je le veux. Dites-moi
+Comment va notre enfant ? Elle est belle, ma foi ;
+Je veux dès aujourd'hui lui donner sérénade.
 
--*who_cleandre
-Puisque vous vous aimez, je veux vous marier.
+      Je la connais fort bien ;
+Elle est riche, papa : mais vous n'en dites rien ;
+Il ne tiendra qu'à vous de terminer l'affaire.
 
--*who_crispin
-Le veux-tu ?
+Vous le dites.
 
--*who_toinette
-      J'y consens.
+      Oh ! point de jurement.
+Je ne vous en crois pas, même à votre serment.
+Démocrite, entre nous, point tant de modestie.
+Venons au fait.
 
--*who_crispin
-Tu te fais bien prier !
+      Morbleu ! point de détours.
+Faites venir ici l'objet de mes amours.
+La friponne, je crois qu'elle en sera bien aise ;
+Et vous l'êtes aussi, papa, ne vous déplaise.
+J'en suis ravi de même, et nous serons tous trois.
+En même temps, ici, plus contents que des rois.
+Savez-vous qui je suis ?
+
+Ah ! si vous le saviez, vous diriez le contraire.
+
+      Je gage que si. Je suis, pour abréger...
+
+C'est qu'il a peur de perdre.
+
+Je suis le financier qui devait sur le soir,
+Pour ce que vous savez, vous parler et vous voir.
+
+      Un peu de patience ;
+J'adoucirai bientôt votre aigre révérence.
+J'ai mille francs et plus de revenu par jour :
+Dites, avec cela peut-on faire l'amour ?
+Grand nombre de chevaux, de laquais, d'équipages.
+Quand je me marierai, ma femme aura des pages.
+Voyez-vous cet habit ? Il est beau, somptueux ;
+Un autre avec cela ferait le glorieux :
+Fi ! C'est un guenillon que je porte en campagne :
+Vous croiriez ma maison un pays de cocagne.
+Voulez-vous voir mon train ? Il est fort près d'ici.
+
+      Ma livrée est magnifique aussi.
+Papa, savez-vous bien qu'un excès de tendresse
+Va rendre votre enfant de tant de biens maîtresse ?
+Vous avez, m'a-t-on dit, en rente, vingt mil francs.
+Partagez-nous-en dix, et nous serons contents.
+Après cela, mourez pour nous laisser le reste.
+Dites, en vérité, puis-je être plus modeste ?
+
+Adieu, je mangerai tout seul mes revenus.
+Vinssiez-vous à présent prier pour votre fille,
+J'abandonne à jamais votre ingrate famille.
+

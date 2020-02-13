@@ -1,90 +1,30 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lisimon
 
--*who_alcipe
-M'y voilà résolu, je quitte enfin Paris,
-Et fasse qui voudra la guerre aux beaux esprits :
-Je renonce à jamais à ce métier funeste,
-Il aurait de mes jours empoisonné le reste ;
-Et pour faire le bien, me ferai-je haïr ?
-Mais, ne critiquer plus, c'est m'ôter tout plaisir ;
-Plaisir d'autant plus doux, qu'aux vapeurs de ma bile
-Je ne mêle jamais une humeur indocile
-Que contre un sot écrit, si j'use de rigueur,
-Je sais en critiquant respecter un auteur ;
-Et cependant ici, soit raison, soit caprice,
-Puis-je en nommer un seul qui m'ait rendu justice ?
-Non sans doute, et bien loin de me justifier,
-Contre moi Lisimon est toujours le premier ;
-Des beaux esprits du jour adoptant la démence,
-Il a plus loin qu'eux tous poussé l'extravagance.
-Des drames larmoyants devenu protecteur,
-Il prétend de cet art atteindre la hauteur ;
-Un neveu que je hais pour son air hypocrite,
-Se plaît à l'encenser comme homme de mérite,
-Et lui fermant les yeux sur ses nombreux travers
-Lui dit qu'il peut en sage instruire l'univers ;
-Tandis que celui même auquel il se confie,
-Sans doute rit tout bas de tant de bonhomie.
-
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_lisimon
 En croirai-je, mon frère, un avis peu certain...
 Qui peut vous inspirer un semblable dessein ?
 Étant si bons amis, nous quitter de la sorte ?
 
--*who_alcipe
-Pour en user ainsi j'ai mes raisons.
-
--*who_lisimon
       N'importe ;
 Pourquoi de ce départ ne pas nous avertir,
 Chacun dans ce logis se faisait un plaisir,
 Par un tribut d'encens et de reconnaissance,
 D'adoucir dans mon cœur l'ennui de votre absence.
 
--*who_alcipe
-Eh ! Comment, s'il vous plaît, pourriez-vous ?...
-
--*who_lisimon
       En prenant
 Nos adieux pour sujet d'un drame larmoyant.
 
--*who_alcipe
-Quoi ! Tout de bon.
-
--*who_lisimon
       Sans doute.
 
--*who_alcipe
-      À sottise pareille
-Que dirait tout Paris ?
-
--*who_lisimon
       On s'écrirait, merveille.
 
--*who_alcipe
-Et l'on applaudirait ?
-
--*who_lisimon
       À tout rompre.
 
--*who_alcipe
-      Ah ! Grands Dieux !
-Quel esprit de vertige habite donc ces lieux !
-Mais ne craignez-vous plus le sifflet du parterre ?
-
--*who_lisimon
 On sifflerait plutôt les pièces de Molière ;
 Convenez entre nous que son trop de gaieté
 Dégénère parfois en inutilité.
 
--*who_alcipe
-Vous le haïssez donc ?
-
--*who_lisimon
       Non, ma juste critique
 Ne hait que sa gaieté trop peu philosophique,
 Et s'il a pu jadis sur Monsieur Trissotin,
@@ -94,66 +34,24 @@ Ces sages écrivains que tout Paris admire ;
 Et sans doute avec eux étonnant l'univers,
 Il eût mieux employé sa morale et ses vers.
 
--*who_alcipe
-Vous le connaissez mal, et jamais dans la France
-Il n'eût vu de sang froid pareille extravagance ;
-Jamais d'un sombre anglais les tragiques fureurs,
-Aux yeux des Parisiens n'eussent coûté des pleurs.
-Jamais le fer en main à la nature entière,
-Un fou n'eût imputé le poids de sa misère ;
-Et las du monde entier, jamais auteur moral
-Ne fût impunément devenu sépulcral.
-
--*who_lisimon
 Et voilà justement ce noble écart de l'âme,
 Qu'un d'entre eux nous dépeint avec des traits de flamme.
 Embrassez son système, et parmi nos auteurs,
 Notre philosophie a de bons protecteurs.
 
--*who_alcipe
-Et qu'a produit de beau cette philosophie ?
-Les voit-on, dites-moi, foulant aux pieds l'envie,
-Pratiquer les vertus dont leurs écrits sont pleins,
-Mépriser la fureur de ces sots écrivains,
-Qui pouvant être amis se traitent en corsaires,
-Se jurent sans raison les plus cruelles guerres ;
-Et qui prenant à part ceux qu'ils ont ennuyés,
-Les font s'intéresser à leurs inimitiés.
-Mais quittons ces propos, et dites-moi, de grâce,
-Vous, que j'ai vu longtemps errer près du Parnasse,
-Depuis quand tenez-vous au genre larmoyant ?
-
--*who_lisimon
 Depuis que j'ai rougi de mon égarement.
 
--*who_alcipe
-Depuis quel temps enfin ?
-
--*who_lisimon
       Cela ne se peut dire.
 J'ai trouvé de tout temps qu'il était sot de rire....
 
--*who_alcipe
-Ainsi de plus en plus outrageant le bon sens,
-De mon neveu Damis vous prisez les talents.
-
--*who_lisimon
 Je fais plus ; je prétends lui donner une femme ;
 Le voir de sa moitié lui-même embellir l'âme ;
 Et je veux que bientôt, épris des plus beaux feux
 Il soit par sentiment époux très amoureux.
 
--*who_alcipe
-Mais savez-vous s'il l'aime, et si la jeune fille
-Répond, en l'épousant, aux vœux de sa famille ?
-
--*who_lisimon
 Croyez qu'en ce logis ma seule volonté,
 Est chose dont jamais on ne s'est écarté.
 
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_lisimon
 Je le répète encor, la voix de la nature
 Est d'un être pensant la règle la plus sûre ;
 Au bien de ses enfants sacrifier ses goûts,
@@ -163,20 +61,9 @@ Connaissant le dessein que mon cœur se propose ;
 Qu'il me tarde à vous voir achever le bonheur
 D'un père et d'un époux...
 
--*who_lisette
-      Cet espoir est flatteur,
-Et répond aux projets que vous avez sur elle...
-Des époux adorés il sera le modèle.
-
--*who_lisimon
 Lisette, taisez-vous ; et vous, répondez-moi :
 L'époux que je vous donne aura-t-il votre choix ?
 
--*who_emilie
-Venant de votre main, ayant votre promesse,
-Pourrais-je mépriser ses vœux et sa tendresse ?
-
--*who_lisimon
 Vous l'entendez, mon frère, est-il plus grand plaisir,
 Que d'avoir des enfants qui sachent vous chérir ?
 Croyez que son amour et sa reconnaissance,
@@ -186,416 +73,8 @@ Où je pourrai trouver mon auteur larmoyant ;
 Cependant le temps presse, et je vois avec peine,
 Un ouvrage aussi beau fait sans reprendre haleine.
 
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_alcipe
-Quel ridicule affreux, et quelle triste erreur,
-En lui tournant la tête, a donc changé son cœur !
-Nous, soyons généreux.
-      Oserais-je, Madame,
-Sur l'hymen proposé vous découvrir mon âme ;
-Les yeux moins prévenus, je vois avec regret
-Que pour lui votre cœur est encore un secret ;
-Ne me déguisez rien ; croyez que ma tendresse,
-À vous servir en tout aisément s'intéresse....
-
--*who_emilie
-Quand un père a parlé, je ne sais qu'obéir,
-Et loin de lui causer le moindre déplaisir...
-
--*who_alcipe
-Cependant cet hymen...
-
--*who_emilie
-      Craignant de lui déplaire
-J'obéirai, Monsieur, aux ordres de mon père.
-
--*who_lisette
-Monsieur, je suis plus franche et je vais sans façon
-Vous parler du futur, mais sur un autre ton.
-Vous savez qu'en ces lieux presqu'avec frénésie,
-Jadis on nous faisait jouer la Comédie,
-Que Monsieur à la table admettant des savants
-En échange avec eux recevait leur encens,
-Qu'on était bien venu, pourvu qu'avec hardiesse
-On pût sans s'y connaître applaudir une pièce,
-La trouver sans défauts et rire avec fureur,
-En maudissant tout bas et l'ouvrage et l'auteur ;
-Que les temps sont changés, dans leurs drames en prose,
-Nous corriger n'est plus le but qu'on s'y propose,
-On veut nous attendrir et nous faire pleurer
-Sur de certains malheurs bien faits pour effrayer,
-Et qui sur tous les points choquant la vraisemblance,
-De leurs sombres auteurs prouve l'extravagance :
-Mais ce ne serait rien si bornant là leurs vœux,
-Ces modernes esprits n'étaient pas amoureux :
-Cet amour est de trop, et la philosophie
-Devrait les garantir d'une telle folie.
-Peut-on à dix-sept ans, dans l'âge des plaisirs,
-D'un lugubre écrivain écouter les soupirs ?
-
--*who_alcipe
-Lisette, il n'est pas temps de faire une satyre,
-Contre le bel esprit c'est trop peu de médire ;
-Il faut avec prudence en démontrer l'erreur,
-Faire tomber son masque hypocrite et menteur,
-Et quoiqu'en critiquant toujours avec décence
-Détacher le bandeau qui flattait l'ignorance.
-Mais quant à cet époux, si l'amour paternel
-Exige en sa faveur un effort trop cruel,
-Bien qu'il soit mon neveu, je romps cet hyménée,
-Qui le rendrait heureux et vous infortunée....
-Peut-être ma rigueur...
-
--*who_emilie
-      Ah ! Pourrai-je jamais
-M'acquitter envers vous pour de si grands bienfaits ?
-
--*who_lisette
-Qui pourrait résister à cet aveu si tendre...
-Son cœur est si naïf...
-
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_lisette
-      Mais j'aperçois Clitandre.
-
--*who_emilie
-Quel instant !
-
--*who_lisette
-      Apprenez que Monsieur aujourd'hui
-Contre un père abusé daigne être notre appui.
-
--*who_alcipe
-Oui, Clitandre, aujourd'hui je prétends que mon frère
-Aux projets de son cœur soit un peu moins sévère ;
-Puissai-je aussi vous voir, remplissant mes désirs,
-En possédant ses vœux partager ses plaisirs.
-J'estime et j'aime en vous cet air de modestie,
-Qui vous fait raisonner en homme de génie,
-Qui vous fait mépriser l'imbécile travers
-De vouloir qu'en tous lieux on récite vos vers,
-De vouloir qu'en tous lieux une muse indiscrète,
-Au lieu d'homme sensé vous annonce poète,
-De faire impunément le connaisseur en tout,
-Et d'être enfin ici l'arbitre du bon goût.
-
--*who_clitandre
-Rendez moins de Justice à cette folle ivresse,
-Dont j'ai su, dites-vous, garantir ma jeunesse :
-C'est effet de nature et non de la raison...
-
--*who_alcipe
-Et qu'importe la cause, êtes-vous sage ou non ?
-Vous voit-on chaque jour affrontant la satyre,
-Aux dépens de chacun vous distraire à médire ?
-En qualité d'auteur faisant le bel esprit,
-Sur un mot, sur un rien, condamner un écrit,
-Distribuer partout aux hommes comme aux femmes
-Des sonnets, des rondeaux ou des épithalames,
-Quelquefois de la prose et surtout des romans
-De structure lugubre et pleins de sentiments ?
-
--*who_clitandre
-Je n'ai point ces travers, n'ayant point leur génie,
-Me sentant peu de goût pour la Métromanie ;
-Mais ils sont bien vengés, on les siffle souvent...
-Et je ne puis comme eux en peignant mon tourment
-Au sein de ce que j'aime inspirant ma tendresse...
-
--*who_alcipe
-Et moi je veux ici servir votre faiblesse,
-Si Madame y consent et donne son aveu.
-
--*who_lisette
-Monsieur, moi j'en réponds, je la connais un peu.
-
--*who_emilie
-À quelle extrémité me réduis-tu, Lisette ?...
-
--*who_lisette
-Quand on parle pour vous votre bouche est muette !
-
--*who_alcipe
-Clitandre il me suffit, et de votre bonheur,
-Je sais un bon moyen de devenir auteur.
-
-**** *book_ *id_I06 *act_I *date_(inc
-
--*who_clitandre
-L'ai-je bien entendu... contre toute apparence
-Alcipe à tous mes vœux serait d'intelligence.
-Quoi ! Contre son neveu... Mais Lisette après tout,
-Du meilleur des projets tu peux venir à bout...
-Tu n'as qu'à le vouloir...
-
--*who_lisette
-      Ah ! Comptez sur Lisette.
-
--*who_clitandre
-Tu sais bien qu'en ces lieux on déteste un poète ;
-Qu'autrefois Lisimon leur grand admirateur
-A cessé tout-à-coup d'en être protecteur ;
-Qu'un auteur de libelle a souvent la manie
-De s'orner du manteau de la Philosophie.
-On m'a dit en secret que l'auteur ténébreux
-De ce genre exécrable était fort amoureux ;
-Saisissons, s'il se peut, son message au Mercure
-Peut-être y verrons-nous....
-
--*who_lisette
-      J'en accepte l'augure.
-Mais quel est le porteur de cet heureux envoi ?
-
--*who_clitandre
-Sans doute c'est Pasquin.
-
--*who_lisette
-      Reposez-vous sur moi.
-Pasquin auprès de moi courtisan malhabile
-Voit depuis très longtemps sa constance inutile,
-Un seul mot, un regard, me sont un sûr garant
-De connaître le cœur de l'auteur larmoyant.
-Mais le voici, rentrez... De votre stratagème
-Je réponds m'acquitter et me venger moi-même.
-
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_pasquin
-Serviteur à l'objet de mes tendres amours.
-Mon Maître est-il ici ?
-
--*who_lisette
-      Du moins pour quelques jours.
-
--*who_pasquin
-N'épouserait-il plus ?
-
--*who_lisette
-      Cela se pourrait faire.
-
--*who_pasquin
-Serait-il là-dessous caché quelque mystère
-Et si c'est pour demain.
-
--*who_lisette
-      Il ne faut qu'un moment,
-Pour qu'à jamais sa flamme ait causé son tourment ;
-Crois-tu qu'il soit aimé ?
-
--*who_pasquin
-      Sans doute, et le Mercure
-Le vante assez pour que ...
-
--*who_lisette
-      J'aimerais sa figure.
-
--*who_pasquin
-Il est grand et bienfait...
-
--*who_lisette
-      Mais son air trop pincé
-Me le ferait haïr.
-
--*who_pasquin
-      Un auteur si sensé !
-
--*who_lisette
-Qui, malgré les grands airs de sa philosophie.
-
--*who_pasquin
-Lisette connaît donc son genre de folie.
-
--*who_lisette
-Je sais qu'il est auteur de drames larmoyants,
-Et l'ennemi juré des faiseurs de romans.
-
--*who_pasquin
-Il est vrai qu'aujourd'hui ses romans dramatiques
-Ont réveillé le fiel des auteurs satyriques ;
-Que lassés de le voir planer au haut des Cieux,
-Leur critique est venu le chercher en ces lieux ;
-Mais lui pour étouffer leur haine scandaleuse,
-S'arme en tous ses écrits d'une horreur ténébreuse :
-Honnête homme du reste, et se comportant bien ;
-Bon ami, bon parent et brave citoyen,
-Ayant ce seul travers, et se croyant célèbre ;
-Pour avoir enfanté quelque drame funèbre.
-
--*who_lisimon
 Et comment nomme-ton des travers aussi grands ?
 
--*who_pasquin
-N'osant leur refuser quelque peu de bon sens,
-On appelle leur muse une muse amphibie,
-Jouant le sentiment et la lacrymanie.
-
--*who_lisette
-Il est vrai que ton maître en a bien la fureur.
-
--*who_pasquin
-Oui, je gémis pour lui d'une semblable erreur ;
-Quand je le vois écrire il ressemble à merveille
-À ceux à qui l'on vient de crier à l'oreille ;
-Il voit, mais n'entend plus, et par distraction,
-Fort souvent sur mon dos il fait sensation.
-Cet article est de trop.
-
--*who_lisette
-      Te paie-t-il tes gages ?
-
--*who_pasquin
-Il me les doit payer, si de nouveaux orages,
-De l'hymen qu'en ces lieux...
-
--*who_lisette
-      Ne nous rebutons point.
-Mais par un bon projet suivi de point en point
-Tu peux voir aujourd'hui ta fortune assurée...
-
--*who_pasquin
-Et quel est ce projet ?
-
--*who_lisette
-      De Monsieur l'Ethérée
-M'aider à démasquer et le cœur et l'esprit,
-Voir tous ses airs pédants tomber en discrédit.
-
--*who_pasquin
-Crois-moi, c'est temps perdu, sous un maintien sévère,
-Lisette, il n'a jamais masqué son caractère.
-
--*who_lisette
-Et souvent par erreur, auteur un peu brutal,
-Il te fait sur ton dos un sermon fort moral.
-
--*who_pasquin
-S'il péchait par le cœur j'en tirerais vengeance ;
-Mais j'aime ses travers et son extravagance.
-
--*who_lisette
-Tu le crois donc sincère, et tel que son maintien.
-
--*who_pasquin
-Je te l'ai déjà dit, c'est un homme de bien,
-Avec quelques travers...
-
--*who_lisette
-      Il t'envoie au Mercure
-Annoncer ses romans...
-
--*who_pasquin
-      Même je conjecture,
-Qu'à dessein aujourd'hui... que même ce paquet...
-
--*who_lisette
-Voyons ce qu'il contient.
-
--*who_pasquin
-      C'est un roman au net ;
-Écrit très merveilleux pour attirer le sexe,
-Et que je lis parfois quand j'ai l'âme perplexe.
-
--*who_lisette
-Le style ?
-
--*who_pasquin
-      C'est en prose, à ce que j'en ai vu,
-Sujet intéressant, mais souvent rebattu,
-Un sombre assassinat, une reconnaissance,
-Une fille cloîtrée et qui fait pénitence
-Pour de petits péchés où le Ciel n'eut point part,
-Quand sa vertu mourante... Ah Ciel, avec quel art !...
-
--*who_pasquin
-Mais quel est ce billet, et quel nouveau délire ?
-Lui, faiseur de libelle ?
-
--*who_lisette
-      Ah ! C'est quelque satyre !
-
--*who_pasquin
-Sonnet sur un vieux fou dénué de talents,
-Qui pour se faire un nom court après le bon sens,
-Et qui du larmoyant possédant la manie,
-Pense prouver par là le feu de son génie.
-Quoi, même critiquer jusqu'à son bienfaiteur !
-
--*who_lisette
-C'est du beau ton, Pasquin, et telle est d'un auteur,
-Sous un dehors heureux, la louable coutume,
-Qu'un bienfait nous expose aux aigreurs de sa plume.
-
--*who_pasquin
-Je n'en puis revenir, cet écrit me confond,
-En vain à l'excuser mon esprit se morfond.
-
--*who_lisette
-Prête-moi ce sonnet, et plus de conscience,
-Rabattons son orgueil et son impertinence ;
-C'est venger le public et les honnêtes gens
-De la fausse vertu de tous ces charlatans.
-
--*who_pasquin
-Il me reste un scrupule, et je n'ose sans honte...
-
--*who_lisette
-Préjugé ! Et lui-même en a-t-il tenu compte ?
-
--*who_pasquin
-Cette raison l'emporte, et je vais t'initier,
-Lisette, à lui servir un plat de mon métier.
-
-**** *book_ *id_II01 *act_II *date_(inc
-
--*who_letheree
-Enfin, grâce à moi seul, en devenant auteur,
-J'ai trouvé le moyen de faire mon bonheur,
-De m'attirer l'estime ainsi que l'indulgence
-De tous ceux dont le cœur respire la décence,
-Et de nos beaux esprits blâmant l'oisiveté,
-Pour un homme de bien pouvoir être cité,
-Par de sages écrits d'acquérir la tendresse,
-D'une beauté célèbre autant par sa richesse
-Que par mille vertus, à moins donc que mes yeux
-Ne prennent pour vertus des dehors trop heureux.
-Ainsi, sans plus compter sur le gain de mon livre
-Je me vois pour toujours aisément de quoi vivre,
-Et pourrai néanmoins, sans me voir alarmé,
-Par le prêt clandestin d'un libraire affamé,
-Des humains malheureux embrassant la défense,
-Sur un sujet si beau méditer en silence,
-Jusqu'à ce que les ans mûrissant ma raison,
-Puissent par mes écrits me faire un jour un nom.
-Je borne là mes vœux, et je trouve stupide
-Tout homme qu'à trente ans le travail intimide,
-Qui se voit sans frémir de soi-même bourreau,
-S'avancer sans horreur dans la nuit du tombeau,
-Et qui traite de fous ceux qui mettent leur gloire
-À voir leurs noms inscrits au temple de Mémoire.
-Cependant qu'il m'en coûte à faire ce métier,
-Qui me fait admirer de l'Univers entier.
-L'envie et ses poisons sous des formes nouvelles
-M'attaquent chaque jour dans d'infâmes libelles ;
-On m'y nomme un méchant, un coquin ténébreux ;
-Tandis qu'à la vertu j'ai consacré mes vœux :
-Même encor l'autre jour leur fureur insensée
-Va jusqu'à me prouver que ma veine est usée,
-Et dans un beau sonnet conclut qu'en vrai pédant
-Je fais à tout Paris encenser mon talent.
-Vengeons-nous, il le faut et faisons que ce traître,
-Aux traits qu'il m'a lancés, se fasse reconnaître :
-(Oui, c'est le seul moyen de déciller les yeux ;)
-Imprimons sous mon nom ce libelle odieux,
-Et nous d'un bon ouvrage utile et respectable,
-Faisons aux gens de bien un présent agréable ;
-Forçons les à gémir sur de nouveaux malheurs,
-Et bénir avec moi la source de leurs pleurs.
-
-**** *book_ *id_II02 *act_II *date_(inc
-
--*who_lisimon
 Morbleu le bon exemple ; et quelle sotte ivresse
 M'a fait en vains plaisirs consommer ma jeunesse ;
 Mais que faisiez-vous-là, vous avez l'air rêveur,
@@ -603,29 +82,13 @@ Et je vous vois encor l'embarras d'un auteur,
 Qui donnant plein effort au feu de son génie,
 Est surpris achevant un plan de comédie ?
 
--*who_letheree
-Il est vrai qu'à l'instant j'esquissais un tableau
-Qui mérite, ma foi, le plus hardi pinceau.
-« Essai sur le bonheur que l'on goûte en ménage ;
-Ou moyens de fixer une femme volage. »
-Exista-t-il jamais un sujet plus heureux ?
-
--*who_lisimon
 Quel homme !
 
--*who_letheree
-      Pour bien peindre il faut être amoureux.
-
--*who_lisimon
 Sans doute... Mais parlons du sujet qui m'amène.
 D'un frère que j'aimais l'humeur trop incertaine.
 Apparemment ici voit avec déplaisir
 Les Muses entre nous badiner à loisir...
 
--*who_letheree
-Qu'ont produit ses serments ?
-
--*who_lisimon
       Que las de nos ouvrages
 Il traite d'insensés nos auteurs les plus sages ;
 Et qu'au fond de l'Artois il court avec humeur
@@ -636,20 +99,9 @@ Dans un drame avec art retracer à nos yeux,
 Tous les soupirs que vont me coûter ses adieux ?
 Vous seul...
 
--*who_letheree
-      Quoi ! Vous voulez que d'un ton héroïque
-Je chante de vos cœurs l'amitié sympathique ;
-Je prévois entre nous bien des difficultés ;
-D'ailleurs le peu de temps.
-
--*who_lisimon
       Hé quoi ! Vous hésitez ?
 Vous qui d'un jet d'esprit composeriez un drame.
 
--*who_letheree
-Le titre.
-
--*who_lisimon
       Jeu d'enfant. Si ma veine s'enflamme
 On peut dans un instant vous en trouver quelqu'un ;
 Convenable au sujet et surtout peu commun :
@@ -659,37 +111,16 @@ Rêvons donc, et trouvons un titre si frappant
 Qu'on puisse y reconnaître un auteur larmoyant.
 Mais quelle est mon erreur ? Quoi ! Ma veine est stérile ?
 
--*who_letheree
-Un champ dur au labour est toujours très fertile.
-
--*who_lisimon
 J'aime assez qu'avec peine...
 
--*who_letheree
-      Eh bien ?
-
--*who_lisimon
       Ah ! m'y voilà.
 J'ai senti rarement cette abondance-là.
 Les adieux...
 
--*who_letheree
-      Mais vraiment ce début m'encourage.
-
--*who_lisimon
 Le titre fait souvent le succès d'un ouvrage :
 Jugez de celui-ci, puisqu'à peine naissant,
 Il mérite déjà votre applaudissement.
 
--*who_letheree
-Oui, je veux qu'aujourd'hui le beau feu qui m'anime,
-Du public étonné vous attire l'estime,
-Et qu'on pleure au tableau de deux amis parfaits,
-Qu'un sort dur et jaloux sépare pour jamais,
-Sans leur laisser du moins la plus douce espérance
-De se revoir un jour en ce lieu de plaisance.
-
--*who_lisimon
 Ah ! Vous m'attendrissez et que du cœur humain,
 Vous avez mieux que moi su prendre le chemin :
 Continuez, mon cher, et vous êtes cet homme
@@ -701,192 +132,6 @@ Du bon goût, sur ses pas, reconnaître la trace.
 Voltaire excelle encor à quatre-vingt-dix ans,
 Et malgré les censeurs, il n'est pas sans talents.
 
--*who_letheree
-Nous d'un objet charmant, et de qui la richesse
-Est moins chère à mes yeux que ne l'est sa tendresse ;
-Faisons que cet écrit nous attache le cœur,
-Et qu'en faisant le mien j'assure son bonheur.
-Muse, broyons du noir, qu'une tristesse affreuse
-Répande dans mon sein une horreur ténébreuse ;
-Que Thalie éplorée, et brisant ses pinceaux,
-Délaisse ce Molière et ses joyeux tableaux,
-Et qu'approuvant enfin le feu qui me consume,
-Melpomène parfois vienne tailler ma plume.
-
-**** *book_ *id_II03 *act_II *date_(inc
-
--*who_pasquin
-Grands Dieux ! Qui l'eût pensé que ce grave maintien,
-Cachât pourtant un cœur aussi faux que le sien.
-Ah ! Que l'on doit haïr cette philosophie,
-Puisqu'elle sert de masque à tant d'hypocrisie.
-Éclaircissons ce doute, et sachons en effet,
-Si cet homme si sage est auteur du sonnet.
-Monsieur, je vous cherchais.
-
--*who_letheree
-      Tais-toi.
-
--*who_pasquin
-      Monsieur compose.
-Est-ce en vers ? Je me tais ; mais point si c'est en prose.
-Vous ne répondez rien ; feriez-vous un roman ?
-
--*who_letheree
-Non, d'un drame bourgeois je commence le plan,
-Et trêve à tes discours.
-
--*who_pasquin
-      Monsieur, mais le Mercure.
-
--*who_letheree
-Qu'il aille, ainsi que toi, vers la race future,
-C'est un mauvais ouvrage et bien mal digéré.
-
--*who_pasquin
-Parce qu'assez souvent il vous a censuré.
-
--*who_letheree
-Pasquin, quand j'ai parlé, je veux qu'on m'obéisse.
-
--*who_pasquin
-Eh bien, je me tairai.
-
--*who_letheree
-      Telle en sera l'esquisse :
-La pièce est en un acte ; ainsi sans plus tarder,
-Au courant de la plume il faut nous hasarder.
-
--*who_pasquin
-La drôle de manie, et qu'avec vraisemblance
-On accuse un auteur d'un peu d'extravagance.
-
--*who_letheree
-Cette idée est terrible et fera son effet ;
-Cette autre est plus sublime et fait seule portrait.
-La tristesse et l'horreur ont passé dans mon âme.
-
--*who_pasquin
-On la reconnaîtrait au trouble qui l'enflamme.
-
--*who_letheree
-Ma verve est bien montée, et je vais à l'instant
-Passer de la protase au premier incident,
-À la reconnaissance, aux billets sans adresse,
-Aux adieux des amis, enfin à leur tendresse :
-C'est-là qu'il faut briller ; c'est-là qu'avec chaleur...
-Muse, soutiens le feu qui brûle dans mon cœur.
-
--*who_pasquin
-On dirait, à le voir, tant sa face est chargée,
-Que par un coup du sort, sa tête est dérangée ;
-Essayons cependant avant de le quitter,
-Si de ce qu'il me doit il voudrait m'acquitter.
-Voudriez-vous, Monsieur ?
-
--*who_letheree
-      Et quel est ce grimoire ?
-
--*who_pasquin
-Sous votre bon plaisir, c'est ce petit mémoire
-Que l'autre jour....
-
--*who_letheree
-      Traitons un point plus important.
-Tu sais bien que je suis assez mal en argent ;
-La presse va si mal, et Messieurs les Libraires,
-Sont depuis si longtemps devenus usuraires,
-Que cela fait pitié.
-
--*who_pasquin
-      Qui le sait mieux que nous ?
-Puisqu'il est sans argent, il me faut filer doux.
-Mais, Monsieur, dites-moi, c'est demain qu'à la presse
-On moissonne gratis les lauriers du Permesse ;
-Résistez-vous, de grâce, au charme décevant,
-De se voir par un Dieu loué de son vivant ?
-
--*who_letheree
-Non, sans doute, et c'est-là ce qui sait mon envie.
-
--*who_pasquin
-Vers le bureau, Monsieur, dépêchez, je vous prie ;
-Autrement vous seriez remis à l'autre mois.
-
--*who_letheree
-Tu peux aller.
-
--*who_pasquin
-      Monsieur, qu'un sonnet cette fois !
-Y pensez-vous, grands Dieux ! Et l'auteur du Mercure ?
-Qu'il versera sur vous et de fiel et d'injure.
-
--*who_letheree
-Pasquin, il me suffit, et j'ai quelque dessein
-Pour le leur envoyer tout écrit de ma main.
-
-**** *book_ *id_II04 *act_II *date_(inc
-
--*who_pasquin
-Le traître jusqu'au bout a poussé l'insolence ;
-Sans doute ce sonnet prouve son ignorance ;
-N'allons pas cependant, faisant le bel esprit,
-Imiter ses travers, et gloser cet écrit.
-Tout critique sensé doit au moins se connaître
-À tout ce qu'il condamne, ou bien approuve en maître.
-A-t-on d'un gros bon sens les organes pourvus ?
-Il faut peu raisonner et se taire encor plus.
-
-**** *book_ *id_II05 *act_II *date_(inc
-
--*who_pasquin
-Mais j'aperçois Lisette.
-
--*who_lisette
-      Eh bien ! Quelle nouvelle ?
-
--*who_pasquin
-Notre beau philosophe est auteur du libelle ;
-Le sonnet est de lui ; son air sombre et rêveur
-A dessus ce papier distillé son aigreur.
-
--*who_lisette
-Prête-le moi, Pasquin.
-
--*who_pasquin
-      Hélas, qu'avec aisance
-Une femme conçoit un projet de vengeance !
-
--*who_lisette
-Je n'ai d'autre projet que de le démasquer.
-
--*who_pasquin
-Dans une triste affaire, ah ! Tu vas m'embarquer ;
-Chez tous nos beaux esprits il doit faire figure,
-Et je cours très grand risque à voler le Mercure.
-
--*who_lisette
-Le voler, et c'est lui qui par un sot trafic,
-Plus d'une fois par mois a volé le public ;
-Par l'ennui qu'à longs traits...
-
--*who_pasquin
-      Mais c'est trahir mon maître.
-
--*who_lisette
-Tous moyens sont permis pour démasquer un traître.
-
--*who_pasquin
-Tu le veux, j'y consens ; et s'il les croit perdus,
-Pour sa muse en fureur c'est un effort de plus.
-
--*who_lisette
-Quelqu'un vient, c'est Monsieur ; du projet de Clitandre
-Essayons maintenant où le but pourra tendre.
-
-**** *book_ *id_II06 *act_II *date_(inc
-
--*who_lisimon
 Dieux ! Qu'il sera surpris lorsque dans un instant
 Je vais lui débiter mon drame larmoyant.
 Parmi de vieux papiers j'ai trouvé cette esquisse,
@@ -907,26 +152,6 @@ Ce bienfait est le seul que j'attende de vous.
 Et toi, Muse, reçois tous mes vœux les plus doux.
 Écrivons....
 
-**** *book_ *id_II07 *act_II *date_(inc
-
--*who_letheree
-      Je ne puis, malgré la vraisemblance,
-Finir si simplement un drame d'importance ;
-Et bien que mon système ait peu de partisans,
-Un dénouement n'est beau que chargé d'incidents.
-Que dirait-on de moi ? Moi dont l'heureux génie,
-De Molière surtout déteste la manie ;
-Lui qui veut qu'un sujet avec art ménagé,
-D'ornements superflus se trouve dégagé ;
-Et moi qui d'un sujet simple par sa nature
-Prétend qu'un auteur fasse une longue aventure :
-Qu'une reconnaissance, un billet déchiré,
-Un récit de malheurs, un enfant égaré,
-Divisant l'intérêt, et faisant épisode,
-Fassent ce qu'on appelle une pièce à la mode ;
-Cependant le temps presse, et mon feu qui s'éteint....
-
--*who_lisimon
 De tous nos beaux esprits je vais donc être craint.
 Ils ont assez longtemps raillé mon impuissance ;
 Mais me voyant auteur, quelle douce vengeance !
@@ -934,67 +159,30 @@ Il me semble les voir interdits, stupéfaits,
 Venir en hâte ici me demander la paix.
 Complimenteurs jaloux d'une muse naissante...
 
--*who_letheree
-Quoi ! Rien de merveilleux ne remplit mon attente.
-
--*who_lisimon
 Embrasser leur rival, encenser mes talents.
 
--*who_letheree
-J'enrage...
-
--*who_lisimon
       Et tout cela m'arrive à soixante ans.
 
--*who_letheree
-Quoi ! Vainement encor me creusant la cervelle...
-Je ne puis d'un sujet....
-
--*who_lisimon
       Je deviens un modèle ;
 On me cite partout, on s'empresse à me voir.
 
--*who_letheree
-Grands Dieux !
-
--*who_lisimon
       Et chacun rend justice à mon savoir.
 
--*who_letheree
-C'en est fait, je succombe.
-
--*who_lisimon
       Ah ! Ciel, quelle incartade ;
 Pendant plus de deux mois j'en vais être malade.
 Mais, dites-moi de grâce, et sans rien déguiser,
 Quelle fureur...
 
--*who_letheree
-      C'était à force de penser ;
-Ne pouvant rien trouver, et cherchant avec peine
-À rallumer le feu dont a brûlé ma veine,
-Le dépit, la fureur... et ma confusion
-Vous en ferait avoir meilleure opinion.
-
--*who_lisimon
 Sur ce point-là j'ai tort, et je vous fais excuse,
 C'est moi qui dérangeais Madame votre Muse ;
 Elle vous délaissait pour habiter chez nous...
 
--*who_letheree
-Comment...
-
--*who_lisimon
       Je composais en même temps que vous.
 Vous en pourrez gémir : une jeune cervelle,
 Enrage assez souvent de se voir un modèle ;
 Et pour vous en convaincre, écoutez seulement
 Les mille et un malheurs.
 
--*who_letheree
-      Ah ! C'est du larmoyant.
-
--*who_lisimon
 Le titre, vous savez, fait beaucoup à la chose ;
 Il est beau pour un drame en un acte et en prose.
 Les mille et un malheurs ; la scène est à London ;
@@ -1010,190 +198,58 @@ Mortel au cœur d'airain, pleure, tremble et gémis,
 Si les maux que ta haine, homicide et farouche,
 Répand sur les humains, n'a plus rien qui te touche.
 
--*who_letheree
-Mais ce sont-là des vers...
-
--*who_lisimon
       Ils en ont la longueur,
 Le nombre, la cadence, et non la sotte aigreur ;
 J'aimerais en effet que ma Muse intrépide,
 Suivît sans mon aveu le Dieu des vers pour guide.
 
--*who_letheree
-Que lui feriez-vous donc ?
-
--*who_lisimon
       En connaissant l'abus,
 Je ferais de la prose, ou je n'écrirais plus.
 
--*who_letheree
-En matière de goût vous êtes difficile.
-
--*who_lisimon
 Vous en pouvez juger... mais c'est de votre style
 Que je suis amoureux... Dieu sait si j'ai bon choix....
 
--*who_letheree
-Les adieux !
-
--*who_lisimon
       Ah ! C'est donc du tragique bourgeois.
 
--*who_letheree
-Sans doute.
-
--*who_lisimon
       Les adieux ! Que ce titre est sonore.
 
--*who_letheree
-« D'un côté du théâtre on voit d'Éléonore,
-Un métier à l'aiguille et du linge de deuil ;
-Une table à quadrille, et de l'autre un fauteuil ;
-Un laquais fort stupide, et que par bienséance,
-On peut nommer André, Gervais ou la Prudence,
-Arrange des paquets qui sont prêts à partir ;
-Vous paraissez alors, et d'un vrai déplaisir,
-Le visage défait et l'âme consternée,
-Vous regrettez de voir l'odieuse journée
-Qui doit vous séparer d'un frère aussi chéri... »
-Qu'avez-vous ? Je vous vois déjà tout attendri ;
-Vos yeux prêts à pleurer.
-
--*who_lisimon
       Ah ! Vous m'arrachez l'âme.
 
--*who_letheree
-Ce récit vous fait peine.
-
--*who_lisimon
       Eh ! Sans doute, ce drame
 Va me faire pleurer au point que de longtemps
 Je n'oserai revoir des drames larmoyants.
 
--*who_letheree
-Il faut donc épargner un cœur aussi sensible ;
-Nous ne le lirons point.
-
--*who_lisimon
       Eh ! Serait-il possible ?
 À force de pleurer. Ah ! j'en perdrais l'esprit !
 
-**** *book_ *id_II08 *act_II *date_(inc
-
--*who_alcipe
-Quoi, grands Dieux ! De sa plume est parti cet écrit ;
-Et son cœur assez faux ose avec assurance
-De ce faible vieillard abuser la démence ?
-Verrai je impunément d'un manteau de vertu,
-Pour tromper les humains, un fourbe revêtu ;
-Mais il est un moyen de démasquer ce traître...
-
--*who_lisimon
 En ces lieux qu'à propos, vous venez à paraître ;
 Mon frère, apprenez donc un secret important
 Qu'à tout autre qu'à vous je dirais en tremblant.
 Je vous préviens qu'ici, dans un drame tragique,
 On chante de nos cœurs l'amitié sympathique.
 
--*who_alcipe
-Eh ! Quoi toujours ce drame et toujours des travers ?
-
--*who_lisimon
 Ne vous affligez pas, il est écrit en vers,
 Et conserve si bien l'empreinte du génie
 Qu'enfin c'est un ouvrage à terrasser l'envie.
 
--*who_alcipe
-Quoi ! ce drame....
-
--*who_lisimon
       Écoutez, et voyez si jamais....
 
--*who_alcipe
-Je crois tout.
-
--*who_lisimon
       Mais enfin.
 
--*who_alcipe
-      Ah ! rendez moi la paix.
-Et de tous ces écrits dont votre verve abonde,
-Vous me verrez bientôt assommer tout le monde ;
-Mais puis-je en ce moment y prendre du plaisir,
-Quand de chagrins réels je me vois assaillir ?
-
--*who_lisimon
 Quel travers surprenant, et quelle frénésie,
 Le fait donc ennemi de la philosophie ?
 Il est toujours grondant, il s'emporte d'un rien,
 Et n'aime dans autrui d'autre avis que le sien.
 
-**** *book_ *id_III01 *act_III *date_(inc
-
--*who_lisimon
 J'ai peine à concevoir ce que votre bon cœur.
 
--*who_alcipe
-Croyez que j'ai longtemps gémi de votre erreur,
-Tant que tous ses travers et sa philosophie
-De vos yeux abusés étaient l'unique envie,
-Que vous le regardiez comme un homme divin,
-Pratiquant les vertus dont votre cœur est plein,
-N'ayant pour tout système et pour désir unique
-Que de vous faire prendre un ton philosophique,
-Un jargon détestable, à qui le vrai bon sens
-A droit de refuser le plus léger encens ;
-Et que ce ridicule adopté par outrance,
-Ne vous faisait passer que pour être en démence,
-Que vos biens, et surtout un objet si charmant,
-N'étaient pas le lien d'un tel aveuglement ;
-J'ai cru que je pouvais, sans vouloir vous contraindre,
-Vous laisser une erreur qui n'était plus à craindre ;
-Une fois que le traître à vos yeux démasqué...
-
--*who_lisimon
 Eh ! Comment reconnaître un bienfait si marqué.
 
--*who_alcipe
-N'y pensons plus, mon frère, il en coûte à mon âme,
-Des complots les plus noirs à dévoiler la trame ;
-L'ingrat qui vous outrage eut des droits sur mon cœur
-Dont encor je n'ai pu devenir le vainqueur ;
-Je médite un projet où nous pourrons sans crainte
-Connaître la noirceur dont son âme est atteinte,
-Ou bien de ses erreurs arrachant le bandeau,
-De la vertu chez lui rallumer le flambeau.
-
--*who_lisimon
 Comptez, comptez sur moi....
 
--*who_alcipe
-      D'abord avec adresse,
-Je vais, mais sans aigreur, lui prêcher la sagesse,
-Narrer succinctement à quel point ses erreurs
-Ont servi sous nos yeux à corrompre ses mœurs,
-Et combien le sot air de sa philosophie,
-Cache un cœur amoureux de son hypocrisie.
-Je prévois à regret que sourd à mes leçons,
-D'auteur philosophique il va prendre les tons,
-Citer de ces grands mots et de ces longues phrases,
-Que tous ces charlatans citent dans leurs extases ;
-Parler d'humanité, de bonheur évident,
-Et me prouver à moi mon peu de jugement.
-Paraissez applaudir à sa vaste ignorance,
-Et de ses partisans blâmez la tolérance,
-Vous verrez qu'à ces mots, autorisé par vous,
-La Satyre eut souvent ses loisirs les plus doux.
-Mais je dois, avant tout, consoler Émilie,
-Des maux que lui causa cette lacrymanie.
-
--*who_lisimon
 J'y consens volontiers, et de changer son cœur,
 Puissions-nous tous les deux obtenir le bonheur.
 
-**** *book_ *id_III02 *act_III *date_(inc
-
--*who_lisimon
 Je n'en puis revenir ; quoi, la philosophie
 Lui servait à masquer pareille hypocrisie,
 Au moment qu'à ses pieds je mettais tout mon bien,
@@ -1233,216 +289,268 @@ Chacun pour les grossir me paraît informé ;
 Il semble qu'on me guette, et que chacun conspire
 À croître sans pitié l'ennui qui me déchire.
 
-**** *book_ *id_III03 *act_III *date_(inc
+Ah ! Vraiment croyez-vous que ce soit peu de chose,
+Que cet aveu qu'ici l'amitié lui propose.
 
--*who_pasquin
-Je m'en veux en secret ; vos bienfaits généreux
-À moi-même aujourd'hui me rendent odieux.
-Malgré tous vos discours, je me sens trop coupable,
-Et de ce nouveau trait je me sens incapable.
-Tu m'as trahi, Lisette.
+Ainsi que nos plaisirs tous nos goûts sont divers.
+Souffrez que jusques-là de sa philosophie
+Je puisse ouvertement éclairer mon génie.
 
--*who_lisette
-      Écoute-moi, Pasquin.
-Que crains-tu, si Monsieur...
+Allez plus loin, Monsieur, pour un homme estimable ;
+En vous nommant ainsi je ne suis qu'équitable.
 
--*who_pasquin
-      Je crains tout.
+Mes enfants, oui, soyons tous heureux en ce jour ;
+Mes yeux sont dessillés ; je vois que la nature
+Chez nous plaça du ris la source la plus pure.
+Je renonce, excusez, au genre larmoyant ;
+Vous ne concevez pas d'où vient ce changement.
+En deux mots le voici : je suis sexagénaire,
+Et cours me délasser et rire avec Molière.
 
--*who_lisette
-      Mais enfin....
 
--*who_pasquin
-Avec tous ses défauts, je dûs chérir mon maître ;
-À ce trait de noirceur peut-on me reconnaître ?
-Encore une heure ou deux le traître est démasqué.
-Et seul j'en suis la cause.
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
 
--*who_clitandre
+Venant de votre main, ayant votre promesse,
+Pourrais-je mépriser ses vœux et sa tendresse ?
+
+Quand un père a parlé, je ne sais qu'obéir,
+Et loin de lui causer le moindre déplaisir...
+
+      Craignant de lui déplaire
+J'obéirai, Monsieur, aux ordres de mon père.
+
+      Ah ! Pourrai-je jamais
+M'acquitter envers vous pour de si grands bienfaits ?
+
+Quel instant !
+
+À quelle extrémité me réduis-tu, Lisette ?...
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Rendez moins de Justice à cette folle ivresse,
+Dont j'ai su, dites-vous, garantir ma jeunesse :
+C'est effet de nature et non de la raison...
+
+Je n'ai point ces travers, n'ayant point leur génie,
+Me sentant peu de goût pour la Métromanie ;
+Mais ils sont bien vengés, on les siffle souvent...
+Et je ne puis comme eux en peignant mon tourment
+Au sein de ce que j'aime inspirant ma tendresse...
+
+L'ai-je bien entendu... contre toute apparence
+Alcipe à tous mes vœux serait d'intelligence.
+Quoi ! Contre son neveu... Mais Lisette après tout,
+Du meilleur des projets tu peux venir à bout...
+Tu n'as qu'à le vouloir...
+
+Tu sais bien qu'en ces lieux on déteste un poète ;
+Qu'autrefois Lisimon leur grand admirateur
+A cessé tout-à-coup d'en être protecteur ;
+Qu'un auteur de libelle a souvent la manie
+De s'orner du manteau de la Philosophie.
+On m'a dit en secret que l'auteur ténébreux
+De ce genre exécrable était fort amoureux ;
+Saisissons, s'il se peut, son message au Mercure
+Peut-être y verrons-nous....
+
+Sans doute c'est Pasquin.
+
       Un bienfait si marqué,
 Nous forcera, Pasquin, à la reconnaissance.
 
--*who_pasquin
-Puissai-je, comme vous, n'en avoir repentance.
 
--*who_lisette
-Mais, Pasquin, c'est ici qu'il faut bien te servir
-Du bel art que le Ciel t'a donné pour mentir ;
-Apprends-lui ce larcin, sers bien notre vengeance,
-Et tu pourras compter sur ma reconnaissance.
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
 
--*who_pasquin
-Le voici, rentrez vite : il a l'air d'un auteur
-Qui cherche à composer et n'est pas en humeur.
+M'y voilà résolu, je quitte enfin Paris,
+Et fasse qui voudra la guerre aux beaux esprits :
+Je renonce à jamais à ce métier funeste,
+Il aurait de mes jours empoisonné le reste ;
+Et pour faire le bien, me ferai-je haïr ?
+Mais, ne critiquer plus, c'est m'ôter tout plaisir ;
+Plaisir d'autant plus doux, qu'aux vapeurs de ma bile
+Je ne mêle jamais une humeur indocile
+Que contre un sot écrit, si j'use de rigueur,
+Je sais en critiquant respecter un auteur ;
+Et cependant ici, soit raison, soit caprice,
+Puis-je en nommer un seul qui m'ait rendu justice ?
+Non sans doute, et bien loin de me justifier,
+Contre moi Lisimon est toujours le premier ;
+Des beaux esprits du jour adoptant la démence,
+Il a plus loin qu'eux tous poussé l'extravagance.
+Des drames larmoyants devenu protecteur,
+Il prétend de cet art atteindre la hauteur ;
+Un neveu que je hais pour son air hypocrite,
+Se plaît à l'encenser comme homme de mérite,
+Et lui fermant les yeux sur ses nombreux travers
+Lui dit qu'il peut en sage instruire l'univers ;
+Tandis que celui même auquel il se confie,
+Sans doute rit tout bas de tant de bonhomie.
 
-**** *book_ *id_III04 *act_III *date_(inc
+Pour en user ainsi j'ai mes raisons.
 
--*who_pasquin
-Monsieur, je viens ici du message au Mercure,
-Vous rendre mot pour mot.....
+Eh ! Comment, s'il vous plaît, pourriez-vous ?...
 
--*who_letheree
-      D'abord je conjecture
-Que tu fus bien reçu des commis du bureau.
+Quoi ! Tout de bon.
 
--*who_pasquin
-Assez bien (sans pourtant leur ôter mon chapeau) ;
-(Connu dans un endroit, on peut avec hardiesse
-Négliger ces devoirs d'austère politesse.)
-Mais l'auteur du Mercure et tous ses assistants,
-Sont, j'ose me flatter, de bien aimables gens.
-D'abord en s'inclinant, l'un d'entre eux me demande
-Le but de mon message, et moi sans qu'on m'entende,
-Sans presque ouvrir la bouche ou desserrer les dents :
-« Je viens ici, Messieurs, stipuler votre encens,
-Pour un auteur connu de vous et du Parnasse :
-C'est Monsieur l'Etherée ; ah ! Cet auteur de race,
-Un mauvais Prosomane ; auriez-vous de ses vers ? »
+      À sottise pareille
+Que dirait tout Paris ?
 
--*who_letheree
-Les faquins !
+Et l'on applaudirait ?
 
--*who_pasquin
-      Dites-lui qu'un esprit de travers,
-Est un sombre écrivain qui nuit et jour compose
-Ou de tristes romans, ou des drames en prose.
+      Ah ! Grands Dieux !
+Quel esprit de vertige habite donc ces lieux !
+Mais ne craignez-vous plus le sifflet du parterre ?
 
--*who_letheree
-Ce sont de sottes gens que ces gens de bureau.
+Vous le haïssez donc ?
 
--*who_pasquin
-Mais écoutez, Monsieur, un trait bien plus nouveau ;
-On met votre roman au rang de ces ouvrages
-Qui doivent au Mercure occuper quelques pages,
-Pour en tirer l'essence et critiquer sans goût
-Ce qui dans cet écrit vous a coûté beaucoup ;
-Je veux dire le style, et non pas les pensées ;
-Mais du maître-écrivain les grâces empesées,
-En déchiffrant le titre et tournant deux feuillets,
-Un auteur si petit ne se taira jamais.
-Il faut le rhabiller ; et d'un ton emphatique,
-Il renvoie l'ouvrage au commis satyrique ;
-Il dit ; et celui-ci, dont l'amour du prochain,
-Plus d'une fois par mois réveilla le venin,
-Jaloux de critiquer un aussi bon ouvrage,
-Se prépare aussitôt à le mettre au pillage.
-C'est ainsi qu'ils font voir par un contraste heureux,
-Que tel fut critiqué, qui fut bien moins sot qu'eux.
+Vous le connaissez mal, et jamais dans la France
+Il n'eût vu de sang froid pareille extravagance ;
+Jamais d'un sombre anglais les tragiques fureurs,
+Aux yeux des Parisiens n'eussent coûté des pleurs.
+Jamais le fer en main à la nature entière,
+Un fou n'eût imputé le poids de sa misère ;
+Et las du monde entier, jamais auteur moral
+Ne fût impunément devenu sépulcral.
 
--*who_letheree
-Travaillez pour la gloire.
+Et qu'a produit de beau cette philosophie ?
+Les voit-on, dites-moi, foulant aux pieds l'envie,
+Pratiquer les vertus dont leurs écrits sont pleins,
+Mépriser la fureur de ces sots écrivains,
+Qui pouvant être amis se traitent en corsaires,
+Se jurent sans raison les plus cruelles guerres ;
+Et qui prenant à part ceux qu'ils ont ennuyés,
+Les font s'intéresser à leurs inimitiés.
+Mais quittons ces propos, et dites-moi, de grâce,
+Vous, que j'ai vu longtemps errer près du Parnasse,
+Depuis quand tenez-vous au genre larmoyant ?
 
--*who_pasquin
-      Aussi c'est votre faute.
-Mais la gloire, après tout, est-ce faveur si haute ?
+Depuis quel temps enfin ?
 
--*who_letheree
-Les sots, les sots, Pasquin, en ignorent le prix.
+Ainsi de plus en plus outrageant le bon sens,
+De mon neveu Damis vous prisez les talents.
 
--*who_pasquin
-Il est donc bien des sots, mon cher maître, à Paris.
-Je connais bien des gens, et des gens d'importance,
-Gens de robe, d'épée, et même de finance,
-Qui pour en acquérir, fallut-il faire un pas...
+Mais savez-vous s'il l'aime, et si la jeune fille
+Répond, en l'épousant, aux vœux de sa famille ?
 
--*who_letheree
-Aussi leurs noms, Pasquin, ne leur survivront pas.
+Quel ridicule affreux, et quelle triste erreur,
+En lui tournant la tête, a donc changé son cœur !
+Nous, soyons généreux.
+      Oserais-je, Madame,
+Sur l'hymen proposé vous découvrir mon âme ;
+Les yeux moins prévenus, je vois avec regret
+Que pour lui votre cœur est encore un secret ;
+Ne me déguisez rien ; croyez que ma tendresse,
+À vous servir en tout aisément s'intéresse....
 
--*who_pasquin
-Le vôtre survivra, malgré ces ridicules
-Dont veulent vous charger quelques esprits crédules.
+Cependant cet hymen...
 
--*who_letheree
-Et quoi, ce genre sombre !..
+Lisette, il n'est pas temps de faire une satyre,
+Contre le bel esprit c'est trop peu de médire ;
+Il faut avec prudence en démontrer l'erreur,
+Faire tomber son masque hypocrite et menteur,
+Et quoiqu'en critiquant toujours avec décence
+Détacher le bandeau qui flattait l'ignorance.
+Mais quant à cet époux, si l'amour paternel
+Exige en sa faveur un effort trop cruel,
+Bien qu'il soit mon neveu, je romps cet hyménée,
+Qui le rendrait heureux et vous infortunée....
+Peut-être ma rigueur...
 
--*who_pasquin
-      On dit que vos romans,
-S'ils prouvent sans effort jusqu'où vont vos talents,
-N'ont pour autre défaut que cet air de tristesse
-Et de mélancolie, aimé de la vieillesse,
-Mais peu fait pour le siècle où vous les composez.
+Oui, Clitandre, aujourd'hui je prétends que mon frère
+Aux projets de son cœur soit un peu moins sévère ;
+Puissai-je aussi vous voir, remplissant mes désirs,
+En possédant ses vœux partager ses plaisirs.
+J'estime et j'aime en vous cet air de modestie,
+Qui vous fait raisonner en homme de génie,
+Qui vous fait mépriser l'imbécile travers
+De vouloir qu'en tous lieux on récite vos vers,
+De vouloir qu'en tous lieux une muse indiscrète,
+Au lieu d'homme sensé vous annonce poète,
+De faire impunément le connaisseur en tout,
+Et d'être enfin ici l'arbitre du bon goût.
 
--*who_letheree
-Les sages les liront.
+Et qu'importe la cause, êtes-vous sage ou non ?
+Vous voit-on chaque jour affrontant la satyre,
+Aux dépens de chacun vous distraire à médire ?
+En qualité d'auteur faisant le bel esprit,
+Sur un mot, sur un rien, condamner un écrit,
+Distribuer partout aux hommes comme aux femmes
+Des sonnets, des rondeaux ou des épithalames,
+Quelquefois de la prose et surtout des romans
+De structure lugubre et pleins de sentiments ?
 
--*who_pasquin
-      Les fous, les insensés,
-Monsieur, sont en grand nombre, et leur foule grossie...
+Et moi je veux ici servir votre faiblesse,
+Si Madame y consent et donne son aveu.
 
--*who_letheree
-Je ne changerai pas...
+Clitandre il me suffit, et de votre bonheur,
+Je sais un bon moyen de devenir auteur.
 
--*who_pasquin
-      De la philosophie,
-Arborerez-vous seul le superbe étendard ?
+Quoi, grands Dieux ! De sa plume est parti cet écrit ;
+Et son cœur assez faux ose avec assurance
+De ce faible vieillard abuser la démence ?
+Verrai je impunément d'un manteau de vertu,
+Pour tromper les humains, un fourbe revêtu ;
+Mais il est un moyen de démasquer ce traître...
 
--*who_letheree
-Je veux de l'univers attirer le regard.
+Eh ! Quoi toujours ce drame et toujours des travers ?
 
--*who_pasquin
-Mais quoi ! Toujours pleurer.
+Quoi ! ce drame....
 
--*who_letheree
-      Oui, Pasquin.
+Je crois tout.
 
--*who_pasquin
-      Cette étude
-Serait-elle chez vous passée en habitude ?
-Cependant autrefois folâtre en vos beaux jours,
-Vous chantiez les plaisirs, les jeux et les amours.
+      Ah ! rendez moi la paix.
+Et de tous ces écrits dont votre verve abonde,
+Vous me verrez bientôt assommer tout le monde ;
+Mais puis-je en ce moment y prendre du plaisir,
+Quand de chagrins réels je me vois assaillir ?
 
--*who_letheree
-Je vais donc me venger, et que cette aventure
-Va surprendre de gens dans le nouveau Mercure !
-Moi, faiseur de libelle, et devenu méchant,
-J'enrage... ah ! Malgré moi, ce trait est fort plaisant.
+Croyez que j'ai longtemps gémi de votre erreur,
+Tant que tous ses travers et sa philosophie
+De vos yeux abusés étaient l'unique envie,
+Que vous le regardiez comme un homme divin,
+Pratiquant les vertus dont votre cœur est plein,
+N'ayant pour tout système et pour désir unique
+Que de vous faire prendre un ton philosophique,
+Un jargon détestable, à qui le vrai bon sens
+A droit de refuser le plus léger encens ;
+Et que ce ridicule adopté par outrance,
+Ne vous faisait passer que pour être en démence,
+Que vos biens, et surtout un objet si charmant,
+N'étaient pas le lien d'un tel aveuglement ;
+J'ai cru que je pouvais, sans vouloir vous contraindre,
+Vous laisser une erreur qui n'était plus à craindre ;
+Une fois que le traître à vos yeux démasqué...
 
--*who_pasquin
-Quoi ! Même sous mes yeux vanter ses ridicules !
-Peut-on jouer ainsi les humains trop crédules ?
+N'y pensons plus, mon frère, il en coûte à mon âme,
+Des complots les plus noirs à dévoiler la trame ;
+L'ingrat qui vous outrage eut des droits sur mon cœur
+Dont encor je n'ai pu devenir le vainqueur ;
+Je médite un projet où nous pourrons sans crainte
+Connaître la noirceur dont son âme est atteinte,
+Ou bien de ses erreurs arrachant le bandeau,
+De la vertu chez lui rallumer le flambeau.
 
--*who_letheree
-Mais tu parais rêveur ; as tu quelques soucis ?
-Contes-les moi, Pasquin, je suis de tes amis.
+      D'abord avec adresse,
+Je vais, mais sans aigreur, lui prêcher la sagesse,
+Narrer succinctement à quel point ses erreurs
+Ont servi sous nos yeux à corrompre ses mœurs,
+Et combien le sot air de sa philosophie,
+Cache un cœur amoureux de son hypocrisie.
+Je prévois à regret que sourd à mes leçons,
+D'auteur philosophique il va prendre les tons,
+Citer de ces grands mots et de ces longues phrases,
+Que tous ces charlatans citent dans leurs extases ;
+Parler d'humanité, de bonheur évident,
+Et me prouver à moi mon peu de jugement.
+Paraissez applaudir à sa vaste ignorance,
+Et de ses partisans blâmez la tolérance,
+Vous verrez qu'à ces mots, autorisé par vous,
+La Satyre eut souvent ses loisirs les plus doux.
+Mais je dois, avant tout, consoler Émilie,
+Des maux que lui causa cette lacrymanie.
 
--*who_pasquin
-Toi, scélérat, plutôt...
-
--*who_letheree
-      Avec moi veux-tu feindre ?
-
--*who_pasquin
-Je veux te démasquer.
-
--*who_letheree
-      Tu parais te contraindre ;
-Et d'où vient aujourd'hui te défier de moi ?
-
--*who_pasquin
-Je crains que sur mon dos...
-
--*who_letheree
-      Je te donne ma foi,
-De t'excuser surtout, si la vérité pure...
-
--*who_pasquin
-Il faut donc confesser que l'auteur du Mercure
-N'a pas entre ses mains ce superbe sonnet,
-Que sur un bel esprit hier vous avez fait.
-
--*who_letheree
-Et qu'est-il devenu ?
-
--*who_pasquin
-      Je ne sais.
-
--*who_letheree
-      Téméraire !
-Oses-tu bien...
-
-**** *book_ *id_III05 *act_III *date_(inc
-
--*who_alcipe
       Damis, vous êtes en colère.
 Et comment accorder cet excès de rigueur
 Avec tout le sang froid qu'il faut pour être auteur ?
@@ -1489,18 +597,8 @@ Comme charlatanisme ou défaut de bon sens.
 Prenez, sans plus tarder, un autre train de vie,
 Et renoncez enfin à la Philosophie.
 
--*who_letheree
-Vous vous faites mes torts bien plus grands qu'ils ne sont.
-
--*who_alcipe
 Mais enfin, que fais-tu ?
 
--*who_letheree
-      Ce que mille autres font.
-Ce qu'ont fait les Corneille avant que leur génie
-Puisse guider leur plume et leur philosophie.
-
--*who_alcipe
 Contraignons-nous encor.
       Tu peux de tes travers
 Oh ! Tant qu'il te plaira récréer l'Univers.
@@ -1548,24 +646,301 @@ Voilà ce que je crains ; on dit que la satyre
 Sur toi de tous les temps conserva quelque empire,
 Et qu'épris d'un beau feu...
 
--*who_letheree
-      Je vois où vous tendez,
-Et ne me crois pas fait pour de tels procédés.
-J'ai bien quelques travers ; mais je suis honnête homme.
-
--*who_pasquin
-S'il dit la vérité je consens qu'on m'assomme.
-
--*who_letheree
-Et toujours dans mon cœur consultant la raison,
-J'ai su de la satyre éviter le poison.
-
--*who_alcipe
 Que cet aveu me plaît ; et dans cet instant même,
 Je ne puis t'exprimer à quel point mon cœur t'aime ;
 Ta bouche et tes écrits sont donc d'accord entre eux ?
 
--*who_letheree
+Qui ne croirait, grands Dieux ! Qu'il dit la vérité ;
+Et j'ai pourtant en main ce sonnet si vanté,
+Qui de son bienfaiteur, esprit simple et docile,
+Nous fera voir le nom chansonné par la ville.
+Mais cependant, crois-moi, va, quitte ce métier,
+Si ton front est couvert du plus noble laurier,
+Crains que la jalousie...
+
+Dans leur chute ils pourront t'entraîner avec eux,
+Et qui te soutiendra ?
+
+Pouvez-vous à ce point encenser ses travers ?
+
+Lui, ce cœur faux...
+
+      Démens donc ce libelle,
+Qu'au Bureau du Mercure un messager fidèle,
+Et gagé par tes soins...
+
+Quoi ! Tu n'es pas l'auteur de cette impertinence ?
+
+Viens réparer mes torts ; je doutai de ton cœur,
+Et je veux à jamais assurer ton bonheur.
+Damis, sois généreux ; tu sais que l'hyménée
+Ne rend de nos beaux jours la trame fortunée,
+Que lorsqu'un tendre amour en a formé les nœuds ;
+Clitandre aime Émilie et possède ses vœux,
+Consens à leurs plaisirs.
+
+Mon frère, approuvez-vous ses feux et son amour ?
+
+      Je fais quelle est ton âme,
+Et combien la vertu te séduit et t'enflamme ;
+Ne pourras-tu, Damis, ouvrir enfin les yeux,
+Et laisser pour jamais les drames ténébreux ?
+Crains au moins la satyre, et que de ton génie...
+
+Se peut-il qu'autrefois, accourant à grands flots,
+Paris ait applaudi des préjugés si sots :
+Et que même aujourd'hui des sottises pareilles
+Portent pour leur devise : à l'aîné des Corneilles.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letheree
+
+Enfin, grâce à moi seul, en devenant auteur,
+J'ai trouvé le moyen de faire mon bonheur,
+De m'attirer l'estime ainsi que l'indulgence
+De tous ceux dont le cœur respire la décence,
+Et de nos beaux esprits blâmant l'oisiveté,
+Pour un homme de bien pouvoir être cité,
+Par de sages écrits d'acquérir la tendresse,
+D'une beauté célèbre autant par sa richesse
+Que par mille vertus, à moins donc que mes yeux
+Ne prennent pour vertus des dehors trop heureux.
+Ainsi, sans plus compter sur le gain de mon livre
+Je me vois pour toujours aisément de quoi vivre,
+Et pourrai néanmoins, sans me voir alarmé,
+Par le prêt clandestin d'un libraire affamé,
+Des humains malheureux embrassant la défense,
+Sur un sujet si beau méditer en silence,
+Jusqu'à ce que les ans mûrissant ma raison,
+Puissent par mes écrits me faire un jour un nom.
+Je borne là mes vœux, et je trouve stupide
+Tout homme qu'à trente ans le travail intimide,
+Qui se voit sans frémir de soi-même bourreau,
+S'avancer sans horreur dans la nuit du tombeau,
+Et qui traite de fous ceux qui mettent leur gloire
+À voir leurs noms inscrits au temple de Mémoire.
+Cependant qu'il m'en coûte à faire ce métier,
+Qui me fait admirer de l'Univers entier.
+L'envie et ses poisons sous des formes nouvelles
+M'attaquent chaque jour dans d'infâmes libelles ;
+On m'y nomme un méchant, un coquin ténébreux ;
+Tandis qu'à la vertu j'ai consacré mes vœux :
+Même encor l'autre jour leur fureur insensée
+Va jusqu'à me prouver que ma veine est usée,
+Et dans un beau sonnet conclut qu'en vrai pédant
+Je fais à tout Paris encenser mon talent.
+Vengeons-nous, il le faut et faisons que ce traître,
+Aux traits qu'il m'a lancés, se fasse reconnaître :
+(Oui, c'est le seul moyen de déciller les yeux ;)
+Imprimons sous mon nom ce libelle odieux,
+Et nous d'un bon ouvrage utile et respectable,
+Faisons aux gens de bien un présent agréable ;
+Forçons les à gémir sur de nouveaux malheurs,
+Et bénir avec moi la source de leurs pleurs.
+
+Il est vrai qu'à l'instant j'esquissais un tableau
+Qui mérite, ma foi, le plus hardi pinceau.
+« Essai sur le bonheur que l'on goûte en ménage ;
+Ou moyens de fixer une femme volage. »
+Exista-t-il jamais un sujet plus heureux ?
+
+      Pour bien peindre il faut être amoureux.
+
+Qu'ont produit ses serments ?
+
+      Quoi ! Vous voulez que d'un ton héroïque
+Je chante de vos cœurs l'amitié sympathique ;
+Je prévois entre nous bien des difficultés ;
+D'ailleurs le peu de temps.
+
+Le titre.
+
+Un champ dur au labour est toujours très fertile.
+
+      Eh bien ?
+
+      Mais vraiment ce début m'encourage.
+
+Oui, je veux qu'aujourd'hui le beau feu qui m'anime,
+Du public étonné vous attire l'estime,
+Et qu'on pleure au tableau de deux amis parfaits,
+Qu'un sort dur et jaloux sépare pour jamais,
+Sans leur laisser du moins la plus douce espérance
+De se revoir un jour en ce lieu de plaisance.
+
+Nous d'un objet charmant, et de qui la richesse
+Est moins chère à mes yeux que ne l'est sa tendresse ;
+Faisons que cet écrit nous attache le cœur,
+Et qu'en faisant le mien j'assure son bonheur.
+Muse, broyons du noir, qu'une tristesse affreuse
+Répande dans mon sein une horreur ténébreuse ;
+Que Thalie éplorée, et brisant ses pinceaux,
+Délaisse ce Molière et ses joyeux tableaux,
+Et qu'approuvant enfin le feu qui me consume,
+Melpomène parfois vienne tailler ma plume.
+
+      Tais-toi.
+
+Non, d'un drame bourgeois je commence le plan,
+Et trêve à tes discours.
+
+Qu'il aille, ainsi que toi, vers la race future,
+C'est un mauvais ouvrage et bien mal digéré.
+
+Pasquin, quand j'ai parlé, je veux qu'on m'obéisse.
+
+      Telle en sera l'esquisse :
+La pièce est en un acte ; ainsi sans plus tarder,
+Au courant de la plume il faut nous hasarder.
+
+Cette idée est terrible et fera son effet ;
+Cette autre est plus sublime et fait seule portrait.
+La tristesse et l'horreur ont passé dans mon âme.
+
+Ma verve est bien montée, et je vais à l'instant
+Passer de la protase au premier incident,
+À la reconnaissance, aux billets sans adresse,
+Aux adieux des amis, enfin à leur tendresse :
+C'est-là qu'il faut briller ; c'est-là qu'avec chaleur...
+Muse, soutiens le feu qui brûle dans mon cœur.
+
+      Et quel est ce grimoire ?
+
+      Traitons un point plus important.
+Tu sais bien que je suis assez mal en argent ;
+La presse va si mal, et Messieurs les Libraires,
+Sont depuis si longtemps devenus usuraires,
+Que cela fait pitié.
+
+Non, sans doute, et c'est-là ce qui sait mon envie.
+
+Tu peux aller.
+
+Pasquin, il me suffit, et j'ai quelque dessein
+Pour le leur envoyer tout écrit de ma main.
+
+      Je ne puis, malgré la vraisemblance,
+Finir si simplement un drame d'importance ;
+Et bien que mon système ait peu de partisans,
+Un dénouement n'est beau que chargé d'incidents.
+Que dirait-on de moi ? Moi dont l'heureux génie,
+De Molière surtout déteste la manie ;
+Lui qui veut qu'un sujet avec art ménagé,
+D'ornements superflus se trouve dégagé ;
+Et moi qui d'un sujet simple par sa nature
+Prétend qu'un auteur fasse une longue aventure :
+Qu'une reconnaissance, un billet déchiré,
+Un récit de malheurs, un enfant égaré,
+Divisant l'intérêt, et faisant épisode,
+Fassent ce qu'on appelle une pièce à la mode ;
+Cependant le temps presse, et mon feu qui s'éteint....
+
+Quoi ! Rien de merveilleux ne remplit mon attente.
+
+J'enrage...
+
+Quoi ! Vainement encor me creusant la cervelle...
+Je ne puis d'un sujet....
+
+Grands Dieux !
+
+C'en est fait, je succombe.
+
+      C'était à force de penser ;
+Ne pouvant rien trouver, et cherchant avec peine
+À rallumer le feu dont a brûlé ma veine,
+Le dépit, la fureur... et ma confusion
+Vous en ferait avoir meilleure opinion.
+
+Comment...
+
+      Ah ! C'est du larmoyant.
+
+Mais ce sont-là des vers...
+
+Que lui feriez-vous donc ?
+
+En matière de goût vous êtes difficile.
+
+Les adieux !
+
+Sans doute.
+
+« D'un côté du théâtre on voit d'Éléonore,
+Un métier à l'aiguille et du linge de deuil ;
+Une table à quadrille, et de l'autre un fauteuil ;
+Un laquais fort stupide, et que par bienséance,
+On peut nommer André, Gervais ou la Prudence,
+Arrange des paquets qui sont prêts à partir ;
+Vous paraissez alors, et d'un vrai déplaisir,
+Le visage défait et l'âme consternée,
+Vous regrettez de voir l'odieuse journée
+Qui doit vous séparer d'un frère aussi chéri... »
+Qu'avez-vous ? Je vous vois déjà tout attendri ;
+Vos yeux prêts à pleurer.
+
+Ce récit vous fait peine.
+
+Il faut donc épargner un cœur aussi sensible ;
+Nous ne le lirons point.
+
+      D'abord je conjecture
+Que tu fus bien reçu des commis du bureau.
+
+Les faquins !
+
+Ce sont de sottes gens que ces gens de bureau.
+
+Travaillez pour la gloire.
+
+Les sots, les sots, Pasquin, en ignorent le prix.
+
+Aussi leurs noms, Pasquin, ne leur survivront pas.
+
+Et quoi, ce genre sombre !..
+
+Les sages les liront.
+
+Je ne changerai pas...
+
+Je veux de l'univers attirer le regard.
+
+      Oui, Pasquin.
+
+Je vais donc me venger, et que cette aventure
+Va surprendre de gens dans le nouveau Mercure !
+Moi, faiseur de libelle, et devenu méchant,
+J'enrage... ah ! Malgré moi, ce trait est fort plaisant.
+
+Mais tu parais rêveur ; as tu quelques soucis ?
+Contes-les moi, Pasquin, je suis de tes amis.
+
+      Avec moi veux-tu feindre ?
+
+      Tu parais te contraindre ;
+Et d'où vient aujourd'hui te défier de moi ?
+
+      Je te donne ma foi,
+De t'excuser surtout, si la vérité pure...
+
+Et qu'est-il devenu ?
+
+      Téméraire !
+Oses-tu bien...
+
+Vous vous faites mes torts bien plus grands qu'ils ne sont.
+
+      Ce que mille autres font.
+Ce qu'ont fait les Corneille avant que leur génie
+Puisse guider leur plume et leur philosophie.
+
+      Je vois où vous tendez,
+Et ne me crois pas fait pour de tels procédés.
+J'ai bien quelques travers ; mais je suis honnête homme.
+
+Et toujours dans mon cœur consultant la raison,
+J'ai su de la satyre éviter le poison.
+
 Et c'est-là ce qui doit m'excuser à vos yeux.
 Si trompant vos projets, et courant à la gloire,
 Je me vois, malgré vous au Temple de Mémoire,
@@ -1582,54 +957,15 @@ Et si je suis enfin un impudique auteur,
 Dont les talents vantés et protégés des belles,
 Ne peuvent enfanter que d'honnêtes libelles ?
 
--*who_alcipe
-Qui ne croirait, grands Dieux ! Qu'il dit la vérité ;
-Et j'ai pourtant en main ce sonnet si vanté,
-Qui de son bienfaiteur, esprit simple et docile,
-Nous fera voir le nom chansonné par la ville.
-Mais cependant, crois-moi, va, quitte ce métier,
-Si ton front est couvert du plus noble laurier,
-Crains que la jalousie...
-
--*who_letheree
       Ah ! J'ai pour leur répondre
 Su trouver un moyen qui doit tous les confondre.
 
--*who_alcipe
-Dans leur chute ils pourront t'entraîner avec eux,
-Et qui te soutiendra ?
-
--*who_letheree
       Les hommes vertueux.
 
-**** *book_ *id_III06 *act_III *date_(inc
-
--*who_lisimon
-Ah ! Vraiment croyez-vous que ce soit peu de chose,
-Que cet aveu qu'ici l'amitié lui propose.
-
--*who_alcipe
-Pouvez-vous à ce point encenser ses travers ?
-
--*who_lisimon
-Ainsi que nos plaisirs tous nos goûts sont divers.
-Souffrez que jusques-là de sa philosophie
-Je puisse ouvertement éclairer mon génie.
-
--*who_alcipe
-Lui, ce cœur faux...
-
--*who_letheree
       Qu'entends-je ? Ignorez-vous, Monsieur,
 Que le moindre soupçon blesse trop mon honneur,
 Pour laisser dans l'oubli... ?
 
--*who_alcipe
-      Démens donc ce libelle,
-Qu'au Bureau du Mercure un messager fidèle,
-Et gagé par tes soins...
-
--*who_letheree
       Je vois qu'on m'a trahi ;
 Mais je veux qu'à l'instant vous soyez éclairci.
 Ennuyé du fatras de sonnets, d'épigrammes,
@@ -1641,88 +977,438 @@ Devait renouveler l'incendie au Permesse ;
 Et là, sans être vu, je rejetais sur eux,
 La honte et le surnom de coquin ténébreux.
 
--*who_alcipe
-Quoi ! Tu n'es pas l'auteur de cette impertinence ?
-
--*who_letheree
 Je voulais qu'il servît à ma propre vengeance,
 Pasquin, imprudemment se l'est laissé voler ;
 Jugez de ce malheur s'il faut se consoler ?
 
--*who_pasquin
-Monsieur, écoutez moi, je suis le seul coupable ;
-C'est moi qui vous croyant un homme abominable,
-Aimant à critiquer jusqu'à son bienfaiteur,
-Crut par cet écrit seul démasquer votre cœur ;
-Voyez ce que mérite une telle impudence...
-
--*who_letheree
 Ta honte et tes remords feront seuls ma vengeance ;
 Ne crains plus mon courroux, Pasquin, il me suffit,
 De pouvoir à leurs yeux passer pour bon esprit.
 
--*who_lisimon
-Allez plus loin, Monsieur, pour un homme estimable ;
-En vous nommant ainsi je ne suis qu'équitable.
-
--*who_letheree
 Eh bien, mon oncle, eh bien, des vrais honnêtes gens,
 Voilà comme mon cœur veut mériter l'encens.
 Rien ne peut m'alarmer, les poisons de l'envie,
 Attaquent vainement le bonheur de ma vie.
 
--*who_alcipe
-Viens réparer mes torts ; je doutai de ton cœur,
-Et je veux à jamais assurer ton bonheur.
-Damis, sois généreux ; tu sais que l'hyménée
-Ne rend de nos beaux jours la trame fortunée,
-Que lorsqu'un tendre amour en a formé les nœuds ;
-Clitandre aime Émilie et possède ses vœux,
-Consens à leurs plaisirs.
-
--*who_letheree
       Voici votre promesse,
 Puisque enfin je n'ai pu mériter sa tendresse.
 
--*who_alcipe
-Mon frère, approuvez-vous ses feux et son amour ?
-
--*who_lisimon
-Mes enfants, oui, soyons tous heureux en ce jour ;
-Mes yeux sont dessillés ; je vois que la nature
-Chez nous plaça du ris la source la plus pure.
-Je renonce, excusez, au genre larmoyant ;
-Vous ne concevez pas d'où vient ce changement.
-En deux mots le voici : je suis sexagénaire,
-Et cours me délasser et rire avec Molière.
-
--*who_letheree
 Vous pouvez tout, Monsieur, et je suis trop heureux,
 Si vous êtes enfin au comble de vos vœux.
 Je n'ai pas prétendu.
 
--*who_alcipe
-      Je fais quelle est ton âme,
-Et combien la vertu te séduit et t'enflamme ;
-Ne pourras-tu, Damis, ouvrir enfin les yeux,
-Et laisser pour jamais les drames ténébreux ?
-Crains au moins la satyre, et que de ton génie...
-
--*who_letheree
 Je me justifierai par mon genre de vie.
 Mais si quelques auteurs, pour se rendre immortels,
 Outragent nos écrits et brisent nos autels,
 Je leur prépare un drame et si triste et si sombre,
 Qu'ils en auront longtemps même peur de mon ombre.
 
--*who_alcipe
-Se peut-il qu'autrefois, accourant à grands flots,
-Paris ait applaudi des préjugés si sots :
-Et que même aujourd'hui des sottises pareilles
-Portent pour leur devise : à l'aîné des Corneilles.
 
--*who_pasquin
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
+Serviteur à l'objet de mes tendres amours.
+Mon Maître est-il ici ?
+
+N'épouserait-il plus ?
+
+Serait-il là-dessous caché quelque mystère
+Et si c'est pour demain.
+
+      Sans doute, et le Mercure
+Le vante assez pour que ...
+
+Il est grand et bienfait...
+
+      Un auteur si sensé !
+
+Lisette connaît donc son genre de folie.
+
+Il est vrai qu'aujourd'hui ses romans dramatiques
+Ont réveillé le fiel des auteurs satyriques ;
+Que lassés de le voir planer au haut des Cieux,
+Leur critique est venu le chercher en ces lieux ;
+Mais lui pour étouffer leur haine scandaleuse,
+S'arme en tous ses écrits d'une horreur ténébreuse :
+Honnête homme du reste, et se comportant bien ;
+Bon ami, bon parent et brave citoyen,
+Ayant ce seul travers, et se croyant célèbre ;
+Pour avoir enfanté quelque drame funèbre.
+
+N'osant leur refuser quelque peu de bon sens,
+On appelle leur muse une muse amphibie,
+Jouant le sentiment et la lacrymanie.
+
+Oui, je gémis pour lui d'une semblable erreur ;
+Quand je le vois écrire il ressemble à merveille
+À ceux à qui l'on vient de crier à l'oreille ;
+Il voit, mais n'entend plus, et par distraction,
+Fort souvent sur mon dos il fait sensation.
+Cet article est de trop.
+
+Il me les doit payer, si de nouveaux orages,
+De l'hymen qu'en ces lieux...
+
+Et quel est ce projet ?
+
+Crois-moi, c'est temps perdu, sous un maintien sévère,
+Lisette, il n'a jamais masqué son caractère.
+
+S'il péchait par le cœur j'en tirerais vengeance ;
+Mais j'aime ses travers et son extravagance.
+
+Je te l'ai déjà dit, c'est un homme de bien,
+Avec quelques travers...
+
+      Même je conjecture,
+Qu'à dessein aujourd'hui... que même ce paquet...
+
+      C'est un roman au net ;
+Écrit très merveilleux pour attirer le sexe,
+Et que je lis parfois quand j'ai l'âme perplexe.
+
+      C'est en prose, à ce que j'en ai vu,
+Sujet intéressant, mais souvent rebattu,
+Un sombre assassinat, une reconnaissance,
+Une fille cloîtrée et qui fait pénitence
+Pour de petits péchés où le Ciel n'eut point part,
+Quand sa vertu mourante... Ah Ciel, avec quel art !...
+
+Mais quel est ce billet, et quel nouveau délire ?
+Lui, faiseur de libelle ?
+
+Sonnet sur un vieux fou dénué de talents,
+Qui pour se faire un nom court après le bon sens,
+Et qui du larmoyant possédant la manie,
+Pense prouver par là le feu de son génie.
+Quoi, même critiquer jusqu'à son bienfaiteur !
+
+Je n'en puis revenir, cet écrit me confond,
+En vain à l'excuser mon esprit se morfond.
+
+Il me reste un scrupule, et je n'ose sans honte...
+
+Cette raison l'emporte, et je vais t'initier,
+Lisette, à lui servir un plat de mon métier.
+
+Grands Dieux ! Qui l'eût pensé que ce grave maintien,
+Cachât pourtant un cœur aussi faux que le sien.
+Ah ! Que l'on doit haïr cette philosophie,
+Puisqu'elle sert de masque à tant d'hypocrisie.
+Éclaircissons ce doute, et sachons en effet,
+Si cet homme si sage est auteur du sonnet.
+Monsieur, je vous cherchais.
+
+      Monsieur compose.
+Est-ce en vers ? Je me tais ; mais point si c'est en prose.
+Vous ne répondez rien ; feriez-vous un roman ?
+
+      Monsieur, mais le Mercure.
+
+Parce qu'assez souvent il vous a censuré.
+
+Eh bien, je me tairai.
+
+La drôle de manie, et qu'avec vraisemblance
+On accuse un auteur d'un peu d'extravagance.
+
+On la reconnaîtrait au trouble qui l'enflamme.
+
+On dirait, à le voir, tant sa face est chargée,
+Que par un coup du sort, sa tête est dérangée ;
+Essayons cependant avant de le quitter,
+Si de ce qu'il me doit il voudrait m'acquitter.
+Voudriez-vous, Monsieur ?
+
+Sous votre bon plaisir, c'est ce petit mémoire
+Que l'autre jour....
+
+      Qui le sait mieux que nous ?
+Puisqu'il est sans argent, il me faut filer doux.
+Mais, Monsieur, dites-moi, c'est demain qu'à la presse
+On moissonne gratis les lauriers du Permesse ;
+Résistez-vous, de grâce, au charme décevant,
+De se voir par un Dieu loué de son vivant ?
+
+Vers le bureau, Monsieur, dépêchez, je vous prie ;
+Autrement vous seriez remis à l'autre mois.
+
+      Monsieur, qu'un sonnet cette fois !
+Y pensez-vous, grands Dieux ! Et l'auteur du Mercure ?
+Qu'il versera sur vous et de fiel et d'injure.
+
+Le traître jusqu'au bout a poussé l'insolence ;
+Sans doute ce sonnet prouve son ignorance ;
+N'allons pas cependant, faisant le bel esprit,
+Imiter ses travers, et gloser cet écrit.
+Tout critique sensé doit au moins se connaître
+À tout ce qu'il condamne, ou bien approuve en maître.
+A-t-on d'un gros bon sens les organes pourvus ?
+Il faut peu raisonner et se taire encor plus.
+
+Mais j'aperçois Lisette.
+
+Notre beau philosophe est auteur du libelle ;
+Le sonnet est de lui ; son air sombre et rêveur
+A dessus ce papier distillé son aigreur.
+
+      Hélas, qu'avec aisance
+Une femme conçoit un projet de vengeance !
+
+Dans une triste affaire, ah ! Tu vas m'embarquer ;
+Chez tous nos beaux esprits il doit faire figure,
+Et je cours très grand risque à voler le Mercure.
+
+      Mais c'est trahir mon maître.
+
+Tu le veux, j'y consens ; et s'il les croit perdus,
+Pour sa muse en fureur c'est un effort de plus.
+
+Je m'en veux en secret ; vos bienfaits généreux
+À moi-même aujourd'hui me rendent odieux.
+Malgré tous vos discours, je me sens trop coupable,
+Et de ce nouveau trait je me sens incapable.
+Tu m'as trahi, Lisette.
+
+      Je crains tout.
+
+Avec tous ses défauts, je dûs chérir mon maître ;
+À ce trait de noirceur peut-on me reconnaître ?
+Encore une heure ou deux le traître est démasqué.
+Et seul j'en suis la cause.
+
+Puissai-je, comme vous, n'en avoir repentance.
+
+Le voici, rentrez vite : il a l'air d'un auteur
+Qui cherche à composer et n'est pas en humeur.
+
+Monsieur, je viens ici du message au Mercure,
+Vous rendre mot pour mot.....
+
+Assez bien (sans pourtant leur ôter mon chapeau) ;
+(Connu dans un endroit, on peut avec hardiesse
+Négliger ces devoirs d'austère politesse.)
+Mais l'auteur du Mercure et tous ses assistants,
+Sont, j'ose me flatter, de bien aimables gens.
+D'abord en s'inclinant, l'un d'entre eux me demande
+Le but de mon message, et moi sans qu'on m'entende,
+Sans presque ouvrir la bouche ou desserrer les dents :
+« Je viens ici, Messieurs, stipuler votre encens,
+Pour un auteur connu de vous et du Parnasse :
+C'est Monsieur l'Etherée ; ah ! Cet auteur de race,
+Un mauvais Prosomane ; auriez-vous de ses vers ? »
+
+      Dites-lui qu'un esprit de travers,
+Est un sombre écrivain qui nuit et jour compose
+Ou de tristes romans, ou des drames en prose.
+
+Mais écoutez, Monsieur, un trait bien plus nouveau ;
+On met votre roman au rang de ces ouvrages
+Qui doivent au Mercure occuper quelques pages,
+Pour en tirer l'essence et critiquer sans goût
+Ce qui dans cet écrit vous a coûté beaucoup ;
+Je veux dire le style, et non pas les pensées ;
+Mais du maître-écrivain les grâces empesées,
+En déchiffrant le titre et tournant deux feuillets,
+Un auteur si petit ne se taira jamais.
+Il faut le rhabiller ; et d'un ton emphatique,
+Il renvoie l'ouvrage au commis satyrique ;
+Il dit ; et celui-ci, dont l'amour du prochain,
+Plus d'une fois par mois réveilla le venin,
+Jaloux de critiquer un aussi bon ouvrage,
+Se prépare aussitôt à le mettre au pillage.
+C'est ainsi qu'ils font voir par un contraste heureux,
+Que tel fut critiqué, qui fut bien moins sot qu'eux.
+
+      Aussi c'est votre faute.
+Mais la gloire, après tout, est-ce faveur si haute ?
+
+Il est donc bien des sots, mon cher maître, à Paris.
+Je connais bien des gens, et des gens d'importance,
+Gens de robe, d'épée, et même de finance,
+Qui pour en acquérir, fallut-il faire un pas...
+
+Le vôtre survivra, malgré ces ridicules
+Dont veulent vous charger quelques esprits crédules.
+
+      On dit que vos romans,
+S'ils prouvent sans effort jusqu'où vont vos talents,
+N'ont pour autre défaut que cet air de tristesse
+Et de mélancolie, aimé de la vieillesse,
+Mais peu fait pour le siècle où vous les composez.
+
+      Les fous, les insensés,
+Monsieur, sont en grand nombre, et leur foule grossie...
+
+      De la philosophie,
+Arborerez-vous seul le superbe étendard ?
+
+Mais quoi ! Toujours pleurer.
+
+      Cette étude
+Serait-elle chez vous passée en habitude ?
+Cependant autrefois folâtre en vos beaux jours,
+Vous chantiez les plaisirs, les jeux et les amours.
+
+Quoi ! Même sous mes yeux vanter ses ridicules !
+Peut-on jouer ainsi les humains trop crédules ?
+
+Toi, scélérat, plutôt...
+
+Je veux te démasquer.
+
+Je crains que sur mon dos...
+
+Il faut donc confesser que l'auteur du Mercure
+N'a pas entre ses mains ce superbe sonnet,
+Que sur un bel esprit hier vous avez fait.
+
+      Je ne sais.
+
+S'il dit la vérité je consens qu'on m'assomme.
+
+Monsieur, écoutez moi, je suis le seul coupable ;
+C'est moi qui vous croyant un homme abominable,
+Aimant à critiquer jusqu'à son bienfaiteur,
+Crut par cet écrit seul démasquer votre cœur ;
+Voyez ce que mérite une telle impudence...
+
 C'est penser sagement ; on devrait pour longtemps
 Cesser de nous donner des drames larmoyants.
 Mais quant à ce Roman, Messieurs, je conjecture
 Qu'on en fait un précis dans le prochain Mercure.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+      Cet espoir est flatteur,
+Et répond aux projets que vous avez sur elle...
+Des époux adorés il sera le modèle.
+
+Monsieur, je suis plus franche et je vais sans façon
+Vous parler du futur, mais sur un autre ton.
+Vous savez qu'en ces lieux presqu'avec frénésie,
+Jadis on nous faisait jouer la Comédie,
+Que Monsieur à la table admettant des savants
+En échange avec eux recevait leur encens,
+Qu'on était bien venu, pourvu qu'avec hardiesse
+On pût sans s'y connaître applaudir une pièce,
+La trouver sans défauts et rire avec fureur,
+En maudissant tout bas et l'ouvrage et l'auteur ;
+Que les temps sont changés, dans leurs drames en prose,
+Nous corriger n'est plus le but qu'on s'y propose,
+On veut nous attendrir et nous faire pleurer
+Sur de certains malheurs bien faits pour effrayer,
+Et qui sur tous les points choquant la vraisemblance,
+De leurs sombres auteurs prouve l'extravagance :
+Mais ce ne serait rien si bornant là leurs vœux,
+Ces modernes esprits n'étaient pas amoureux :
+Cet amour est de trop, et la philosophie
+Devrait les garantir d'une telle folie.
+Peut-on à dix-sept ans, dans l'âge des plaisirs,
+D'un lugubre écrivain écouter les soupirs ?
+
+Qui pourrait résister à cet aveu si tendre...
+Son cœur est si naïf...
+
+      Mais j'aperçois Clitandre.
+
+      Apprenez que Monsieur aujourd'hui
+Contre un père abusé daigne être notre appui.
+
+Monsieur, moi j'en réponds, je la connais un peu.
+
+Quand on parle pour vous votre bouche est muette !
+
+      Ah ! Comptez sur Lisette.
+
+      J'en accepte l'augure.
+Mais quel est le porteur de cet heureux envoi ?
+
+      Reposez-vous sur moi.
+Pasquin auprès de moi courtisan malhabile
+Voit depuis très longtemps sa constance inutile,
+Un seul mot, un regard, me sont un sûr garant
+De connaître le cœur de l'auteur larmoyant.
+Mais le voici, rentrez... De votre stratagème
+Je réponds m'acquitter et me venger moi-même.
+
+      Du moins pour quelques jours.
+
+      Cela se pourrait faire.
+
+      Il ne faut qu'un moment,
+Pour qu'à jamais sa flamme ait causé son tourment ;
+Crois-tu qu'il soit aimé ?
+
+      J'aimerais sa figure.
+
+      Mais son air trop pincé
+Me le ferait haïr.
+
+Qui, malgré les grands airs de sa philosophie.
+
+Je sais qu'il est auteur de drames larmoyants,
+Et l'ennemi juré des faiseurs de romans.
+
+Il est vrai que ton maître en a bien la fureur.
+
+      Te paie-t-il tes gages ?
+
+      Ne nous rebutons point.
+Mais par un bon projet suivi de point en point
+Tu peux voir aujourd'hui ta fortune assurée...
+
+      De Monsieur l'Ethérée
+M'aider à démasquer et le cœur et l'esprit,
+Voir tous ses airs pédants tomber en discrédit.
+
+Et souvent par erreur, auteur un peu brutal,
+Il te fait sur ton dos un sermon fort moral.
+
+Tu le crois donc sincère, et tel que son maintien.
+
+      Il t'envoie au Mercure
+Annoncer ses romans...
+
+Voyons ce qu'il contient.
+
+Le style ?
+
+      Ah ! C'est quelque satyre !
+
+C'est du beau ton, Pasquin, et telle est d'un auteur,
+Sous un dehors heureux, la louable coutume,
+Qu'un bienfait nous expose aux aigreurs de sa plume.
+
+Prête-moi ce sonnet, et plus de conscience,
+Rabattons son orgueil et son impertinence ;
+C'est venger le public et les honnêtes gens
+De la fausse vertu de tous ces charlatans.
+
+Préjugé ! Et lui-même en a-t-il tenu compte ?
+
+      Eh bien ! Quelle nouvelle ?
+
+Prête-le moi, Pasquin.
+
+Je n'ai d'autre projet que de le démasquer.
+
+Le voler, et c'est lui qui par un sot trafic,
+Plus d'une fois par mois a volé le public ;
+Par l'ennui qu'à longs traits...
+
+Tous moyens sont permis pour démasquer un traître.
+
+Quelqu'un vient, c'est Monsieur ; du projet de Clitandre
+Essayons maintenant où le but pourra tendre.
+
+      Écoute-moi, Pasquin.
+Que crains-tu, si Monsieur...
+
+      Mais enfin....
+
+Mais, Pasquin, c'est ici qu'il faut bien te servir
+Du bel art que le Ciel t'a donné pour mentir ;
+Apprends-lui ce larcin, sers bien notre vengeance,
+Et tu pourras compter sur ma reconnaissance.
+

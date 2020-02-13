@@ -1,14 +1,9 @@
 
 
-**** *book_ *id_I01 *act_I *date_1646
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
 
--*who_roxane
 Hézionne mourrons.
 
--*who_hezionne
-      Il faut vivre Madame.
-
--*who_roxane
 À combien de tyrans ai-je donné mon Âme
 Elle est à la vengeance, à la haine, à l'amour,
 Enfin tous ces bourreaux la géhennent tour à tour
@@ -33,10 +28,6 @@ Leur grand ébranlement fait chanceler mon Trône
 Ce Trône que sous moi mon bras sent succomber
 Se va briser du coup par qui je dois tomber.
 
--*who_hezionne
-Les Dieux dessus ce rang vous ont bien affermie.
-
--*who_roxane
 Je dois tout redouter d'une armée ennemie
 Déjà Lysimachus monte sur nos remparts
 Artaxerxe y volant plante ses étendards,
@@ -63,108 +54,24 @@ L'on me verra pécher sans aucun repentir,
 Et voyant mes forfaits l'un et l'autre se suivre,
 Je mourrai dans le crime ainsi que j'y veux vivre.
 
-**** *book_ *id_I02 *act_I *date_1646
-
--*who_arbate
-Ma Princesse Orondate.
-
--*who_roxane
       À ce nom je frémis,
 Est-il victorieux, où sont nos ennemis,
 Ont-ils gagné la ville.
 
--*who_arbate
-      Ils sont défaits Madame.
-
--*who_roxane
 Contre tant de frayeurs, rassure-toi mon âme.
 Hé bien cet Orondate.
 
--*who_arbate
-      Est en votre pouvoir.
-
--*who_roxane
 Il est mon prisonnier.
 
--*who_arbate
-      Désirez-vous le voir.
-
--*who_roxane
 À qui dois-je sa prise, à quels Dieux, à quels charmes.
 
--*who_arbate
-Je tairai la moitié de ce qu'ont fait nos Armes,
-Les assiégeants à peine approchent nos remparts
-Qu'on fit tomber sur eux une grêle de dards,
-Ils ont longtemps souffert la descente des flèches,
-Mais voulant s'efforcer d'y faire quelques brèches,
-On a vu leurs Béliers faciliter l'assaut
-Et leurs chefs de nos murs escalader le haut,
-Le long de nos créneaux ils plantaient leurs échelles,
-Et l'ardeur d'y voler leur fournissait des ailes,
-Comme ils en approchaient on les a repoussés,
-Et d'un tas de mourants comblé tous nos fossés :
-Le divin Orondate à qui ces grands obstacles
-Comme pour le tenter demandaient des Miracles,
-S'est fait voir tout-puissant aux esprits curieux,
-Et nous a fait paraître un démon à nos yeux,
-Nos soldats effrayés de cette contenance
-Ont longtemps évité sa fatale présence,
-Et demeurant frappés d'un long étonnement,
-Ils le considéraient sans aucun mouvement ;
-Ils imputaient ses faits à la seule magie
-Quand ce Prince honteux de cette Léthargie
-Dissipa par ses coups leur assoupissement,
-Et leur vint redonner leur premier sentiment,
-Tous ceux que cet objet avait rendus stupides
-Le voyant délaissé devinrent moins timides,
-Il reçut sur les bras un monde d'ennemis.
-
--*who_roxane
 Ah c'est trop me surprendre enfin fut-il soumis.
 
--*who_arbate
-Par un grand accident sa valeur fut trompée.
-
--*who_roxane
 Quel.
 
--*who_arbate
-      Son malheur voulut qu'il rompit son épée
-De ce tronçon sanglant qui restait en sa main
-Il fit des actions qui surpassent l'humain
-Dans son grand désespoir il était formidable :
-Mais se sentant pressé d'une foule innombrable
-En vain il se raidit contre tout ce torrent
-Le grand nombre l'entoure il l'accable et le prend,
-Et désarmé qu'il est, le peuple l'environne
-Il admire en tremblant cette fière personne,
-Lui sans s'épouvanter s'arrête à chaque pas
-Et donne des frayeurs qu'il ne recevait pas,
-Je m'approche de lui je reprends ces idées
-Que mon peu de mémoire avait si bien gardées,
-J'unis tous ces rapports, j'assemble tous ses traits
-Et mon âme courant de portraits en portraits
-En le cherchant dans lui je rencontre Orondate,
-Comme en me contemplant il se figure Arbate,
-Il détourne en courroux les yeux de dessus moi
-Et trouve que ma vue est indigne de soi,
-Je demande aux soldats tous fiers de cette proie
-Où l'ordre qu'ils ont eu le retient et l'envoie,
-À Perdicas dit l'un.
-
--*who_roxane
       Que l'on l'amène ici.
 Allez les conjurer.
 
--*who_arbate
-      Je les en prie aussi,
-Je leur ai conseillé de venir chez la Reine.
-Enfin sur mon avis, Néander vous l'amène
-Il arrive bientôt désirez-vous le voir.
-Voulez-vous.
-
--*who_roxane
       Je le veux, et n'ai point ce pouvoir,
 Avecque des transports mon âme le désire,
 Elle recherche en soi quelque reste d'Empire,
@@ -186,21 +93,11 @@ Arbate c'est vous seul que cet emploi regarde,
 Prenez avecque vous la moitié de ma garde
 Et mettez Orondate en cet appartement.
 
--*who_arbate
-Je m'en vais obéir à ce commandement.
-
--*who_roxane
 Arbate qu'on le traite ainsi que ma personne,
 Et surtout observez l'ordre que je vous donne,
 Défendez-en l'entrée et même à Perdicas
 Allez le recevoir.
 
--*who_arbate
-      J'obéis de ce pas.
-
-**** *book_ *id_I03 *act_I *date_1646
-
--*who_roxane
 Et bien ma confidente, as-tu vu ma faiblesse
 Dessus mes passions je suis bien peu maîtresse
 De pleine autorité je forme des projets,
@@ -208,38 +105,13 @@ Je commande je règne enfin j'ai des sujets
 Et ce droit souverain que donne un Diadème
 Agissant sur autrui s'affaiblit en moi-même.
 
--*who_hezionne
-Madame Perdicas ?
-
--*who_roxane
       Qu'a-t-il à m'annoncer.
 
-**** *book_ *id_I04 *act_I *date_1646
-
--*who_perdicas
-L'Arrêt n'est plus douteux je le viens prononcer,
-Et dans l'événement que le Ciel nous expose,
-Il montre l'intérêt qu'il prend dans notre cause
-Nos heureux ennemis n'ont vaincus à leur tour,
-Ils n'ont pu conserver leur victoire qu'un jour,
-Ils ont été défaits et par cet avantage
-Je viens de réparer notre premier outrage,
-De nos murs dans leur camp j'ai jeté mon malheur.
-
--*who_roxane
 Ne leur envoyez point votre rare valeur,
 Vous ne me dites point la prise d'Orondate.
 
--*who_perdicas
-Orondate est ici.
-
--*who_roxane
       Je l'ai su par Arbate.
 
--*who_perdicas
-Ce Prince est prisonnier ?
-
--*who_roxane
       De plus il est le mien,
 Prince chacun de nous doit conserver le sien,
 Le sort nous en présente une même matière,
@@ -248,125 +120,39 @@ Mais dans nos intérêts le droit veut être égal,
 J'aurai même pouvoir dessus votre rival,
 Que je vous ai donné dessus ma concurrente.
 
--*who_perdicas
-J'ai pour vos volontés une âme complaisante.
-
--*who_roxane
 Je vous défends sa vue il est des généreux,
 De ne point insulter au sort d'un malheureux.
 Vous vous échapperiez contre un homme que j'aime,
 Il est votre rival.
 
--*who_perdicas
-      Je me vaincrais moi-même,
-Toutefois je suivrai ce que vous résoudrez,
-Et je ne le verrai que quand vous le voudrez,
-Au reste l'ennemi s'est montré magnanime
-Le présent qu'il nous fait surpasse notre estime,
-Il nous a redonné le grand Séleucus.
-
--*who_roxane
 Il est dans Babylone.
 
--*who_perdicas
-      Avec Néarchus,
-Il vient pour vous parler.
-
--*who_roxane
       Qu'aura-t-il à me dire.
 
--*who_perdicas
-Son Conseil est utile au bien de votre Empire,
-S'il vous donne un avis daignez le recevoir.
-
--*who_roxane
 Montrons-lui le plaisir que j'ai de le revoir,
 Descendons.
 
--*who_perdicas
-      Le voici, Cassander vous l'amène.
-
-**** *book_ *id_I05 *act_I *date_1646
-
--*who_roxane
 Hé bien Séleucus vous brisez votre chaîne.
 
--*who_seleucus
-Madame je suis libre et grâce aux ennemis.
-
--*who_roxane
 Vous savez l'impuissance où le sort nous a mis
 Nous avons fait des voeux pour votre délivrance.
 
--*who_seleucus
-En effet les souhaits supposent l'impuissance
-Ces inutiles voeux dont vous vous prévalez
-Pendant notre prison nous ont mal consolés,
-C'est par d'autres moyens que je vous ai servie,
-Je vous sers tous les jours en hasardant ma vie,
-J'ai prodigué mon sang dans le dernier combat.
-
--*who_roxane
 Quoi de mon bienfaiteur vous devenez ingrat,
 En méprisant les voeux avecque mon estime
 Vous attirez sur vous la honte de mon crime,
 Sachez que le reproche affaiblit le bienfait.
 
--*who_seleucus
-Madame j'ai raison d'être mal satisfait.
-
--*who_roxane
 Et bien Séleucus il faut vous satisfaire,
 Qu'avez-vous à traiter.
 
--*who_seleucus
-      Une importante affaire.
-
--*who_roxane
 Prenons place et sachons ce que vous désirez
 Et que veut l'ennemi que vous nous préférez.
 
--*who_seleucus
-Je demande Orondate et c'est ce qui m'amène,
-Cassander, Perdicas, disposez-y la Reine,
-Quoi tous deux étonnés est-ce ainsi qu'on me sert
-Malgré tous vos détours votre cour m'est ouvert.
-
--*who_roxane
 Cruel Séleucus ?
 
--*who_perdicas
-      Séleucus barbare.
-
--*who_cassander
-Léger Séleucus.
-
--*who_seleucus
-      Enfin tout se déclare
-Perdicas de quels yeux vous dois-je regarder.
-
--*who_perdicas
-Et vous Séleucus qu'osez-vous demander.
-
--*who_seleucus
-Je demande Orondate.
-
--*who_perdicas
-      Hé bien il le faut rendre
-Consentez-y Madame.
-
--*who_roxane
       Ah ! Que viens-je d'entendre,
 Perdicas est-ce vous qui venez de parler.
 
--*who_perdicas
-Si j'ai quelque intérêt je lui veux immoler
-Cassander à ma voix joignez votre suffrage,
-Rendons à notre ami ce cruel témoignage,
-Et lui faisant sentir quelle est notre amitié
-Exigeons d'un barbare un reste de pitié.
-
--*who_roxane
 Ah ! Le faux généreux qui se veut contrefaire,
 En qui ce sentiment n'était point volontaire,
 Et dont l'âme forcée et double sur ce point
@@ -375,205 +161,36 @@ Exercez vos vertus sur une autre matière,
 Faites le libéral de votre prisonnière,
 Tous les Princes ligués demandent Statira.
 
--*who_perdicas
-Avant que l'accorder Perdicas périra.
-
--*who_roxane
 Avant que se résoudre à donner Orondate,
 Roxane doit périr ?
 
--*who_seleucus
-      Ah Reine trop ingrate,
-Trop rusé Perdicas trop faible Cassander.
-
--*who_cassander
-Prince c'est un traité qu'on ne peut accorder,
-Et si jusqu'à ce prix l'on porte votre échange,
-L'ennemi nous en donne un moyen bien étrange.
-
--*who_roxane
 Cassander Perdicas maintenez mon parti.
 
--*who_seleucus
-Ah ! De tels Conseillers conseil bien assorti,
-Ah digne Partisan des fureurs d'une femme,
-Déguisé Perdicas elle a sondé votre âme,
-Elle a su pénétrer dedans vos sentiments,
-Mais vous avez tous deux les mêmes mouvements ;
-Et vous vous connaissez.
-
--*who_perdicas
-      Votre erreur est insigne,
-Et j'ai fait un effort dont vous êtes indigne.
-
--*who_seleucus
-Je ne veux rien devoir à vos faibles Conseils
-Et j'estime bien peu la foi de vos pareils,
-Perdicas entre nous je romps toute franchise,
-Je vous rends l'amitié que vous m'aviez promise,
-Et jusqu'au souvenir je m'en suis dépouillé.
-
--*who_perdicas
-Prince je la reprends comme un présent souillé,
-Depuis assez longtemps elle est interrompue,
-Et chez mes ennemis vous l'avez corrompue,
-Je ne profane plus un présent de ce prix.
-
--*who_seleucus
-Je vous témoigne assez comme j'en fais mépris,
-Dès que votre amitié se glisse dans une âme,
-Elle y traîne après soi quelque chose d'infâme.
-
--*who_perdicas
-C'est trop Séleucus.
-
--*who_seleucus
-      Ah ! Ce n'est pas assez,
-Je me saurai venger ?
-
--*who_cassander
-      Quoi vous nous menacez.
-
--*who_seleucus
-Tremblez-vous Cassander.
-
--*who_cassander
-      Quoi devant vos semblables.
-
--*who_seleucus
-Mes pareils devant vous sont toujours redoutables,
-Les vôtres devant moi ne peuvent m'étonner
-Et dans l'occasion savent m'abandonner,
-Vous attendez la mort à l'abri des murailles
-Pendant que je la cherche au milieu des batailles
-C'est vous mes déserteurs qui m'avez oublié,
-Avec qui mes malheurs m'aviez-vous allié.
-
--*who_cassander
-Avec des successeurs dignes d'un Alexandre.
-
--*who_seleucus
-Ni vous ni Perdicas n'y devez point prétendre.
-Et ce nom glorieux est au-dessus de vous.
-
--*who_perdicas
-Sans le respect des yeux qui se portent sur nous.
-
--*who_seleucus
-Ce prétexte vous plaît de redouter la Reine.
-
--*who_roxane
 De nos persécuteurs avez-vous pris la haine,
 Voulez-vous retourner parmi nos ennemis.
 
--*who_seleucus
-L'on me voit observer tout ce que j'ai promis,
-Et si votre Conseil ne relâche Orondate.
-
--*who_roxane
 En vain de son retour notre ennemi se flatte,
 Et le vôtre chez eux vous sera plus aisé,
 Que tout ce que par vous ils nous ont proposé,
 Vous pouvez donc rentrer dans votre servitude.
 
--*who_seleucus
-Elle n'a rien pour moi de honteux ni de rude,
-Oui j'y veux retourner, mais bien accompagné,
-Vous vous repentirez de m'avoir dédaigné,
-Soldats que l'on me suive.
-
-**** *book_ *id_I06 *act_I *date_1646
-
--*who_roxane
       Il nous le faut réduire,
 Lui secondé des siens est en état de nuire,
 Nous nous affaiblissons en l'y laissant aller.
 
--*who_perdicas
-Il faudra qu'Alcétas s'en aille lui parler.
-
--*who_roxane
 Vous m'avez bien surprise en prenant sa défense.
 
--*who_perdicas
-Pour ce que vous voulez, j'ai de la déférence,
-Et vous avez pu voir comme quoi j'agissais,
-Il l'a bien remarqué ?
-
--*who_roxane
       Je le reconnaissais ?
 Et quoiqu'ouvertement l'on vit ce stratagème,
 J'étais ingénieuse à m'aveugler moi-même.
 
--*who_perdicas
-Contre un monde assemblé je voudrais vous servir.
-
-**** *book_ *id_I07 *act_I *date_1646
-
--*who_cassander
-Notre grande union a de quoi vous ravir,
-Nous négligeons pour vous nos propres avantages.
-
--*who_roxane
 Vous tenez tous les jours de semblables langages.
 
--*who_cassander
-C'est qu'il faut trop souvent vous en entretenir,
-Il faut persécuter votre ressouvenir,
-Je vois votre mémoire ou faible ou bien ingrate,
-Suffit pour me chasser qu'elle loge Orondate
-Il y refuse place on lui veut retenir,
-J'y demande une entrée et l'on m'en veut bannir
-Malheureux Cassender trop heureux Orondate
-Endure avec plaisir que ton rival te flatte,
-Mêle dedans ta joie un peu de ma douleur
-Donne-moi ton bonheur et reçois mon malheur,
-Et par un changement qui n'aura rien d'étrange,
-Nous nous rendrons heureux par ce contraire échange,
-Nous deviendrons amis dedans le même temps,
-De deux infortunés, nous ferons deux contents.
-Ah rival ! Que je plains quel malheur est le nôtre
-Il n'est point au pouvoir ni de l'un ni de l'autre,
-Et même ton supplice est bien plus rigoureux,
-À force de bonheur tu deviens malheureux,
-C'est à vous d'accorder deux rivaux déplorables,
-À tirer deux heureux de deux grands misérables,
-Et quittant un secret où vous vous obstinez
-À créer de nous deux deux amants fortunés.
-
--*who_roxane
 Si vous persévérez à vouloir ma disgrâce,
 Par d'éternels dédains il faut que je vous lasse,
 Que si vous les aimez je vous en veux combler,
 Et s'il hait mes faveurs je l'en veux accabler.
 
--*who_cassander
-Persistez-vous vous-même, à m'être si cruelle,
-Votre inhumanité sera donc éternelle,
-Pourquoi me traitez-vous avec indignité ?
-Trouvez-vous des défauts dedans mes qualités,
-Ne me méprisez point ma naissance est Royale
-À la grandeur du sang j'ai la puissance égale,
-Et vous avez été la femme de mon Roi,
-La Fille d'un Satrape est au-dessous de moi,
-À de plus haut partis elle ne peut prétendre
-Pense-t-elle trouver un second Alexandre,
-Le premier des humains n'a point laissé d'égal,
-Et s'il peut après soi recevoir un rival,
-Parmi ses successeurs je suis considérable
-Et par mes grands respecte je lui suis comparable
-Les Dieux à qui le monde élève des Autels
-Reçoivent moins d'honneur du côté des mortels,
-Que vous n'en recevez par mon idolâtrie
-Avecque moins d'ardeur tout l'univers les prie
-Et vos parfaits rivaux sont aujourd'hui jaloux
-De me voir prosterner à vos sacrés genoux,
-Je n'en partirai point que dans la connaissance
-Que celle qui leur semble aura pris leur clémence,
-Et que son naturel changeant de volontés,
-Ayant pris leurs vertus emprunte leurs bontés.
-
--*who_roxane
 Allez prince indiscret vous rendre ailleurs aimable
 Sachez que devant moi vous êtes effroyable,
 Vous pensez m'agréer, quels charmes avez-vous,
@@ -583,27 +200,1098 @@ Je pourrai Cassander vous voir et vous entendre
 Jusque-là permettez que j'arrache à mes yeux
 Le plus noir des objets et le plus odieux.
 
-**** *book_ *id_I08 *act_I *date_1646
+Arrête-toi barbare et demeure immobile
+Viens rendre par ma mort ton attentat facile,
+Quoi tu t'es partagé, tu ne sais que choisir
+Par un regard mortel explique ton désir :
+Mais pour l'exécuter manquerais-tu d'audace
+Je te vois sur le point de demander ta grâce,
+Et la fuite des tiens te laissant dans nos mains
+À ta confusion a détruit tes desseins.
 
--*who_cassander
-Ah ! Tu l'aimais trop peu, trop infidèle Reine,
-Pour trouver dans sa mort la cause de ta haine
-Mais si dans ce soupçon je te suis odieux
-Je m'en vais tout souiller d'un sang plus précieux
-Et par ce triste objet me rendant plus sensible
-Je veux devant tes yeux devenir plus horrible,
-Tu mourras mon rival je cours à ton trépas
-Et toi mon désespoir ne m'abandonne pas.
+      Il fuit, il fuit le lâche
+Et jusques à soi-même il faudra qu'il se cache,
+Je veux que l'on le suive.
 
-**** *book_ *id_II01 *act_II *date_1646
+Hé bien mon ennemi je vous sauve la vie.
 
--*who_oroondate
+Malgré ce désespoir je vous veux conserver.
+
+J'ai cru dans ce péril vous rendre un bon office
+Apprenez-en la cause en blâmant son effet.
+
+Quoique vous y cherchiez un sens si délicat,
+De toutes les façons vous seriez un ingrat.
+
+La honte qu'ils en ont leur semble bien plus rude,
+De voir que leurs faveurs servent l'ingratitude,
+Et je les trouve à plaindre entre les affligés,
+D'avoir pour ennemis leurs plus grands obligés.
+
+Cruel méconnaissant où va votre mémoire.
+
+Prince cette action est à mon avantage
+Il la faut remarquer par son plus beau visage
+Cet illustre attentat a montré mon amour.
+Et par ce grand éclat je l'ai mis dans son jour.
+Aux yeux de l'univers je l'ai rendu visible.
+
+Jugez de la grandeur de mon affection
+Comparez-la mon Prince à son aversion,
+Quel amour eûtes-vous de cette âme infidèle,
+Quel est le traitement que vous reçûtes d'elle,
+Pour moi tous vos dédains n'ont fait que m'animer,
+Même armé contre moi j'ai voulu vous aimer.
+
+Quoi ne ferez-vous rien en faveur d'une Reine,
+À qui pour tant d'amour vous rendez de la haine
+Songez que dans l'état où le sort vous a mis,
+Il vous a suscité deux puissants ennemis.
+Et que dans les transports dont leur âme est saisie,
+Ils feront choir sur vous toute leur jalousie,
+Servez-vous de mon bras pour retenir le leur.
+
+Que souffrez-vous ingrat.
+
+Que souffrez-vous sous moi.
+
+      Ah ! Ce mépris m'outrage.
+Conservez mon amour.
+
+Souffrir un entretien qui me serait funeste,
+Vous y voir ruiner tout l'espoir qui me reste,
+Ah ! Je verrai plutôt la mort de Statira
+Ma cruelle rivale à mes yeux périra
+Et dans les mouvements que m'inspire la rage
+Déjà dedans son sang je sens mon coeur qui nage
+Et mon oeil de sa mort à demi consolé
+Chercher dedans son coeur le coeur qu'il m'a volé.
+
+C'est trop insolemment irriter mon amour
+Craignez que mon courroux ne commande à son tour,
+L'amour las de régner lui remet son empire,
+Et dans ce grand conseil qu'un nouveau Roi m'inspire
+Si je m'abandonnais à mes ressentiments
+Si mon âme courrait après ses mouvements,
+De mille passions je vous rendrais la proie
+Mon coeur vous déchirant palpiterait de joie,
+Gardez de me réduire en ces extrémités
+Et par le souvenir de tant de cruautés,
+Dont à chaque moment vous me rendez coupable.
+Orondate, jugez de quoi je suis capable,
+Voyez où peut s'étendre un absolu pouvoir.
+Quand il est mesuré par un grand désespoir.
+
+Ah ! Que ne puis-je pas.
+
+Ah ! C'est trop m'irriter Orondate, Orondate,
+Vous vous perdrez.
+
+      Arbate,
+Que l'on le conduise en son appartement.
+
+Que je sens dans mon âme un feu bien véhément
+Je sens de cette ardeur enflammer mon visage.
+
+Non, non, c'est trop servir je vais rompre mes fers
+Prendre sur moi le droit que j'ai sur l'univers,
+Et domptant un vainqueur que j'avais pu m'élire
+Assujettir mon Maître à ce nouvel Empire,
+Ah ! Tyran orgueilleux tu ne sais pas régner
+Et cette occasion a su le témoigner,
+Tu ménages trop mal les forces d'une esclave,
+Il n'est pas toujours propre à souffrir qu'on le brave.
+
+Ainsi parle mon coeur quand il est en courroux,
+Mais je sens apaiser les troubles de mon âme.
+Et dans mes mouvements tout fait jour à ma flamme.
+Ces rebelles domptés y viennent tour à tour
+Avecque ma raison se soumettre à l'amour,
+Mon âme est toute à lui, rien que lui n'y préside
+Il se fait de mon coeur un esclave timide,
+Et d'un serf échappé prêt à lui commander
+Il le remet aux fers et les lui fait garder,
+Pour l'avoir menacé de redoubler ses peines.
+
+Hélas mon Hézionne il est ainsi conclu
+C'est un funeste amour que les Dieux ont voulu.
+
+Perdicas suis-je Reine ai-je ici du pouvoir.
+
+Si j'en porte le nom ma puissance est bien vaine,
+L'Insolent Cassander.
+
+Il a choisi son temps dans l'absence d'Arbate
+Et ce désespéré s'immolait Orondate,
+Au point que ma venue empêchant son dessein
+La crainte ou le respect a retenu ta main,
+D'ici tout furieux rappelant son courage
+Suivi de six soldats il s'est fait un passage.
+Il nous vient d'échapper.
+
+Je m'étonne fort peu de son ressentiment.
+
+Qu'avez-vous Perdicas que veut votre visage
+Mais avant qu'il s'explique on entend son langage,
+De quoi m'entretient-il ?
+
+J'en ai bien pris ma part je m'y laisse émouvoir.
+
+      Achevez.
+
+Qui.
+
+Ah ! Rivale insolente orgueilleuse Princesse,
+Tu te flattes en vain de jouir de ce bien
+Et vous qui permettez ce fatal entretien,
+En savez-vous la fin.
+
+L'amour sait-il que c'est que de dissimuler,
+Leurs yeux se parleront au défaut de leur langue
+Ils entendront tous deux leur muette harangue
+Et comme leurs deux cours sont égaux en désirs
+Ils sauront s'expliquer par l'aide des soupirs,
+Rompons cet entretien on nous y va détruire,
+Ils ne l'ont demandé qu'à dessein de nous nuire.
+
+      L'ingrat l'a désiré.
+
+Hé bien dedans ce jour je la rendrai contente
+Où faut-il que ce coup l'aille s'entretenir.
+
+      Faites l'y donc venir.
+
+      J'évite sa présence,
+Mon coeur de sa faiblesse a quelque connaissance
+De peur de m'emporter je ne la veux point voir
+Elle entre Perdicas allez la recevoir.
+
+Madame vous saurez que je vis sans faiblesse,
+Les remords qu'on se fait tiennent de la bassesse,
+Et quiconque renonce au bien qu'il a cherché
+Est indigne d'avoir le prix de son péché,
+N'attendez point de moi le désaveu d'un crime
+Que par mille raisons j'ai rendu légitime,
+Je ne viens point ici pour me justifier
+C'est à mon propre sens que je m'en veux fier,
+Et ne voulant que moi pour mon dernier refuge
+Dans tous mes attentats je m'établis pour juge,
+Je ne sais point de loi que mon seul intérêt
+J'ai juré votre mort j'en ai conclu l'arrêt,
+Que si j'ai suspendu cette juste sentence
+Et si j'ai retardé le cours de ma vengeance,
+C'est ma compassion qui m'a parlé pour vous
+Perdicas avec elle arrêta mon courroux
+Et tous deux m'empêchant de me pouvoir résoudre
+Pour un temps de mes mains ont diverti la foudre,
+Aujourd'hui qu'Orondate avec tous ses mépris
+Jusques au désespoir a porté mes esprits,
+Que vous-même obstinée au dessein de me nuire
+Travaillez avec zèle à vous vouloir détruire,
+Je ne puis plus forcer tous ces grands mouvements
+Je n'ai plus de pouvoir sur mes ressentiments,
+Je ne puis empêcher que ma fureur n'éclate
+Si vous ne m'opposez la tête d'Orondate,
+Et si par son amour suivi d'un repentir
+L'ingrat à vous sauver ne me fait consentir
+
+Vous-même m'avez fait une amante implacable
+Vous me l'avez ravi mais vous me le rendrez.
+
+      Vous mourrez, vous mourrez.
+
+Hé bien j'achèverai cet important ouvrage,
+Et mon âme suivant ses premiers mouvements
+Je m'en vais couronner de beaux commencements,
+Votre va sceller les crimes de ma vie.
+
+Et vous Prince assoupi dans ce honteux silence
+Que délibérez-vous ?
+
+Enfin mon bras se lasse à suspendre une foudre
+Vous n'avez qu'un moment à vous pouvoir résoudre.
+
+Arrête Perdicas regarde à ton côté,
+Quelle des passions est en toi la plus forte
+Ou voir vivre Orondate ou voir la Reine morte,
+Choisis.
+
+Non tu ne mourras pas je défendrai ta vie.
+
+Malgré tous tes dédains je te saurai défendre
+Et contre un Perdicas je saurai l'entreprendre.
+
+Perdicas je te compte entre mes adversaires.
+
+Orondate rentrez.
+
+Dans son appartement reconduisez-le Arbate.
+
+Avant que donner l'un Roxane périra.
+
+Tu te ressouviendras de trahir ta promesse.
+
+Et toi de l'avoir mis au sein de mon amant.
+
+      Toi mon ressentiment.
+
+Hé bien mes confidents je suis abandonnée,
+Et ce grand changement ne m'a point étonnée,
+Mes ennemis et moi partagions l'univers
+Nous l'avions divisé dans deux partis divers,
+Et le donnant en proie aux fureurs de la guerre
+Chacun de nous a pris la moitié de la terre,
+Aujourd'hui ce traité me semble être fini
+Et je vois contre moi le monde réuni,
+La fortune en tous lieux m'ordonne des batailles
+Elle m'en fait dedans et dehors nos murailles,
+Aux portes Artaxerxe avec Lysimachus
+Dans nos murs Perdicas avec Séleucus,
+Alcétas Cassander avec tous nos complices
+Enfin je suis venue à d'affreux précipices,
+Où ces traîtres amis qui ne m'y suivaient pas
+Dans mon aveuglement me poussaient pas à pas,
+Ces lâches me rendant aux pieds de ces abîmes
+En m'y faisant tomber y feront choir leurs crimes
+Et couvrant dessous moi les meurtres qu'ils ont faits,
+Ils vont dans mon sépulcre enterrer leurs forfaits
+Ô ! Ciel si tu résous la peine de nos crimes
+De tous ces criminels forme-toi des victimes,
+Dressant à ta justice un monument si beau
+De toute Babylone érige un grand tombeau,
+Quand pour les abîmer s'entrouvrira la terre
+Accablez-moi grands Dieux par un coup de tonnerre,
+Et dehors réservant ce revers à vos mains,
+Daignez ôter l'honneur de ma chute aux humains.
+
+Assez pour le contraindre à me réduire en poudre
+Mais dans mon châtiment être rempli d'horreur,
+Et dût-il même aux Dieux donner de la terreur
+Mon crime était trop beau pour n'être point aimable,
+Et quiconque a des yeux en deviendrait capable,
+Arbate mes soldats sont-ils tous assemblés.
+
+À quelque autre dessein mon ordre les réserve,
+Allez les avertir de se tenir tout prêts.
+
+      Toi qui vois le fonds de mes secrets,
+Ne peux-tu deviner ce que je délibère.
+
+Je veux à main armée entrer chez Perdicas
+M'immoler Statira jusque dedans ses bras,
+Et dans le même instant d'une fureur égale
+D'un bras fumant encor du sang de ma rivale
+Rompant de mes amours ce double empêchement
+Traverser de deux coups la maîtresse et l'amant
+Là mes yeux à longs traits contemplant ma vengeance,
+Goûteront par leur mort quelque part d'allégeance,
+Et voyant le départ de leur dernier soupir
+Quand ils ne vivront plus je mourrai de plaisir.
+
+      Âme inhumaine arrête
+Ne porte point mon bras sur cette chère tête,
+Et plutôt qu'à Roxane imputer ce dessein
+Détourne ma fureur contre mon propre sein,
+C'est dessus Statira que je borne mes crimes
+Et mon ressentiment n'eût que deux victimes
+Perdicas en est l'une et doit être immolé,
+Mon coeur en quelque sorte en sera consolé,
+Va donc voir Orondate et de ma part lui dire
+Que Roxane ressent un éternel martyre,
+Qu'elle est dans un état plus triste que le sien
+Et qu'elle lui demande un dernier entretien,
+Qu'elle va le revoir.
+
+      Hé bien prends donc ma place
+Et si ma passion te pouvait animer,
+Dis-lui tout ce qu'on dit quand on se fait aimer.
+
+
+
+Passion envieillie amour presque éternelle,
+Je t'ai dès le berceau.
+Et je crois qu'à dessein de se rendre immortelle,
+Tu me suis au tombeau.
+C'est de ma volonté qu'elle prend sa nature,
+Je ne l'altère pas.
+Et loin de la finir je consens qu'elle dure,
+Au-delà du trépas.
+Ce titre injurieux de veuve d'Alexandre,
+Et de ce Dieu des Rois.
+Cet éloge imparfait que partagea Cassandre,
+Est moindre que mon choix.
+D'un honneur plus entier ma passion se flatte,
+Et mon coeur amoureux.
+Établit dans le nom de femme d'Orondate,
+Le nom le plus heureux.
+Et toi jaloux mari dont l'ombre me vient dire
+Que j'ai trahi ma foi.
+Ne traite point ta veuve avecque tant d'Empire,
+Je l'aimai devant toi.
+Et quand l'ambition me fit être sa femme,
+L'amour t'ôta mon coeur.
+Et dès lors m'enlevant Alexandre de l'âme,
+Il y mit mon vainqueur.
+Il y plaça si bien son adorable ouvrage,
+Qu'il eût le premier lieu.
+Si bien qu'il faut détruire en détruisant l'image
+Et l'autel et le Dieu.
+Arbate est de retour : hé bien tout se prépare.
+
+Allons chez Perdicas enlever ma rivale.
+
+De quelque trahison seriez-vous averti.
+
+Contre nos ennemis ils font quelque sortie
+Mais ici ma puissance est bien anéantie,
+Quoi choquant à mes yeux le conseil et sa foi
+De son caprice seul il recevait la loi,
+Arbate de ce pas va voir sa contenance
+Et me la vient redire avecque diligence,
+Je m'en vieux défier il peut venir ici.
+
+
+
+Ma conservation est mon moindre souci,
+Cruel auteur de ma souffrance,
+Tes yeux ne sont-ils pas témoins
+D'un nombre de maux et de soins,
+Que j'endure pour ta défense,
+Par des regards et des soupirs,
+Je t'ai découvert mes désirs,
+Et quoi que t'en ait dit ma bouche,
+Ton âme a tant de cruauté,
+Que le même mal qui me touche,
+Accroît ton inhumanité.
+
+Mais par degrés mon coeur se flatte,
+Il demande de la pitié.
+Il veut ensuite l'amitié,
+Et s'il l'obtenait d'Orondate,
+Il pourrait bientôt s'emporter
+Puisqu'en pensant le mériter,
+Mon âme insatiable et vaine
+T'offrant des souhaits tour à tour
+Demanderait contre ta haine,
+En dernier présent ton amour.
+
+Donne-moi ce que je te donne,
+Cruel si dedans ta rigueur
+Tu feins d'avoir perdu ton coeur,
+À le trouver je m'abandonne,
+Si ma rivale l'a caché,
+Dans le sien il sera cherché,
+Comme il faut que je le possède,
+Et qu'on contente mon dessein,
+Il faudra qu'elle me le cède
+Ou je le tire hors de son sein,
+Sachons ce qu'aura dit mon aimable insensible.
+
+Hézionne, Orondate ?
+
+Toi mortelle douleur que pressent mes amours
+Meurs-tu par le silence ou bien par le discours,
+Et pour me soulager dans ce rude martyre
+Faut-il, ma passion, te celer ou te dire,
+Hélas tout m'est égal ou me taire ou parler
+Et je ne sais comment tu te dois exhaler.
+
+Arbate expliquez-vous.
+
+Lequel si dans l'état où mon amour est mis
+Mon malheur s'est acquis cent sortes d'ennemis.
+
+Soutenez-moi ma fille, et me soutiens Arbate
+Je ne puis supporter un coup si véhément
+La douleur que je sens m'ôte le sentiment,
+Et l'horreur de ce coup par qui mon coeur se pâme
+Avant que sur son corps vient d'agir sur mon âme
+Ne me soutenez plus laissez-moi défaillir
+Mon oeil comme mon coeur commence à s'affaiblir
+Hézionne je meurs, je meurs fidèle Arbate.
+
+      Va sauver Orondate.
+C'est là mon plus grand soin.
+
+Que je passe aisément d'un mouvement à l'autre
+Toi douleur, vous amour, quel charme est donc vôtre,
+Et par quelle magie une âme en un moment
+D'insensible qu'elle est reprend le sentiment,
+Faut-il perdre Orondate, ah ! Perdons-nous nous-même,
+Mon âme est moins en moi que dans celui que j'aime,
+Exposons dans le corps pour conserver le coeur.
+Allons, allons défendre.
+
+À leur avidité j'offre donc tout mon sang,
+Qu'ils épargnent au moins le beau sang d'Orondate.
+
+      L'un et l'autre se flatte,
+Et mon amant mourrait avec mes propres mains
+Avant que je le misse entre ses inhumains,
+Jusqu'au dernier soupir va défendre sa vie
+Arbate va combattre.
+
+Va quérir Orondate et l'amène Hermione.
+
+Belle attache des sens ne parle point de trône
+En vain ambition viens-tu m'entretenir
+Grandeurs ce n'est point vous que je peux retenir
+Tu me pensais surprendre et m'échapper, couronne
+Tu ne me quittes pas c'est moi qui t'abandonne,
+Indigne successeur du plus grand des humains
+Je vous rends cet état qui tomba dans mes mains
+Et malgré tous les droits que m'y donne Alexandre
+L'univers est à vous je n'y veux rien prétendre,
+Mais si quelque justice est mêlée dans vos voeux
+Orondate, Orondate est le bien que je veux,
+Et sa possession où mon orgueil aspire,
+Touche mieux mes désirs que celle d'un empire,
+Quoi vous me ravirez un bien que j'ai conquis
+Qu'avec tant de travaux mon amour s'est acquis
+Ah ! Cruel Perdicas âme barbare ingrate
+Je laisse Statira qu'on me quitte Orondate,
+Et quoique ce traité m'ait été si fatal
+Accepte une rivale en donnant un rival.
+Et quittant les transports dont son âme est saisie
+Laissons-nous les objets de notre jalousie,
+Et sans que nos fureurs leur ravissent le jour
+Contentons-nous d'avoir l'objet notre amour
+Je vois venir le mien.
+
+      Hé bien votre tristesse
+N'est-elle pas changée.
+
+Je vous donne Roxane.
+
+Ton âme en ce qu'elle hait est moins que ce qu'elle aime,
+Mais pourquoi n'ai-je point la même liberté
+Tu m'oses offenser avec impunité,
+Et mon âme avec peine ose aller au murmure
+Le dédain dedans moi prend une autre nature,
+Et de ma flatterie empruntant tout son prix
+Je trouve des faveurs dans tes plus grands mépris.
+
+Orondate est mon Dieu qu'il jure par lui-même,
+Qu'il daigne prononcer le nom de mon amant
+Je m'engage à l'ouïr sur un si beau serment.
+
+      Hé bien je t'abandonne
+Indigne de l'appui que mon amour te donne,
+Va, va désespéré, va trouver Perdicas
+Et comme un furieux jette-toi dans ses bras,
+Aux portes du Palais tes ennemis t'attendent
+Pour te sacrifier tes rivaux te demandent,
+Va comme une victime aux pieds de leur autel
+Recevoir de leurs mains le dernier coup mortel.
+
+Hé bien comme la leur ils prendront ma vengeance,
+Considère à quels Dieux tu vas être immolé.
+
+Tu l'y laisses cruel.
+
+Je ne te retiens point.
+
+Que feras-tu contre eux qu'un impuissant effort
+Mon Orondate épargne et ton sang et mes larmes.
+
+L'un de ces deux malheurs m'afflige seulement
+Encor plus que la mort je crains l'éloignement,
+Tu fuiras mais n'importe.
+      Allez quérir ses armes.
+Ah ? Que ne puis-je amour y mettre quelque charmes,
+Et puisque qu'en son salut je prends tant d'intérêt
+Pour me le conserver que n'ai-je ce secret,
+Et s'il faut que sa mort me rende inconsolable
+Fais que ma volonté le rende invulnérable.
+
+Si Statira t'offrait une vie immortelle
+Ton âme l'agréerait bien moins des Dieux que d'elle,
+Et même entre ses bras un moment écoulé
+De nos longs entretiens t'aurait jà consolé
+Ton âme de ses yeux pleine et rassasiée
+Parmi de doux transports se feindrait extasiée,
+Et quatre ou cinq instants dans ton coeur amoureux
+Vaudraient l'éternité de tous les bienheureux,
+Mais tes yeux la perdront.
+
+Est-il des biens qu'on ne puisse corrompre
+Dedans tes visions je t'irais interrompre,
+Et rendant à ta vue un objet odieux
+Ton âme reverrait ce qu'abhorraient tes yeux
+L'amour, mais Hézionne apporte ici tes armes.
+
+C'est de Statira que tu prendras tes charmes,
+Ton coeur fortifié par l'union du sien,
+Dédaigne en sa faveur l'assistance du mien,
+Avec ce beau secours tu te crois invincible,
+Et la mort d'un rival te parait infaillible,
+Reçois au moins cruel les voeux qu'on fait pour toi
+Qu'une part de l'honneur rejaillisse sur moi,
+Puisqu'à te conserver notre ardeur est égale
+Daigne-moi rendre grâce autant qu'à ma rivale
+Et quoique de nous deux en ce noble dessein
+L'une ait armé ton coeur et l'autre armé ta main
+Pesant de quel côté te viendra la victoire
+Regarde à qui de nous tu crois devoir ta gloire,
+Ah quel sensible objet se présente à mes yeux
+Où viens-tu cher Arbate.
+
+      Faut-il enfin céder
+Je ne puis te quitter et ne puis te garder,
+Fatale extrémité.
+
+Permets qu'auparavant je les baigne de larmes,
+Et que dedans l'instant que me donne ton sort
+Je te donne en tremblant les après de ta mort,
+Mort je sens que ma main refuse cet office
+Hézionne rendez-lui ce funeste service.
+
+Hé bien l'événement n'en sera dû qu'à moi,
+S'il y meurt je n'en suis qu'une cause parfaite
+Puisque ses volontés auront fait sa défaire,
+Et si de ce combat il peut sortir vainqueur
+Ma main l'ayant armée en aura tout l'honneur,
+Tiens voilà ton épée : ah ! Que je suis émue.
+
+      Ôte-toi de ma vue
+Sans me montrer ta fuite abandonne ce lieu
+Et ne me force point à te faire un adieu,
+Je le pense éternel si j'en crois mes alarmes.
+
+      Laisse agir mes soupirs et mes larmes.
+
+Allons mon Hézionne enlever ma rivale.
+
+      Notre force est égale,
+Allons faire assembler mes soldats et les leurs
+Voici l'instant fatal d'où pendent nos malheurs,
+Et nos dissensions font tomber sur nos têtes
+Tout ce que nos amours ont formé de tempêtes,
+Cassander me ruine et je le détruirai
+Perdicas m'a perdue et moi je le perdrai,
+Et joignant de tous trois et la peine et le crime
+Nous nous allons traîner tous trois dans un abîme
+Que si je puis garder quelque force en tombant
+Et sentir d'un moment ma chute en succombant,
+Dans ce funeste instant qu'il faut que je périsse
+J'entraîne ma rivale au même précipice,
+Ou cherchant à nous nuire un éternel appas
+Nous nous contesterons ce que nous n'aurons pas,
+Ou traitant notre amant et de nôtre et de nôtre
+Il ne sera le prix ni de l'un ni de l'autre,
+Et cependant nos cours et jaloux et cruels
+D'un coeur imaginaire en viendront aux réels
+Et revivant sur eux toute leur jalousie,
+Se verront déchirés avec tant de furie,
+Que nos courroux cessant faute d'avoir des cours
+Manque d'objets de haine ils perdront leurs rigueurs.
+
+Si peu de combattants ne peut m'envelopper
+Et d'ailleurs mes soldats sont encore en défense
+Pour les fortifier donnons-leur ma présence,
+Et si quelque chemin se présente à nos yeux
+Allons, allons porter la guerre en d'autres lieux.
+
+Voir faire mon tombeau du lieu de mon asile.
+
+Mes ennemis y sont.
+
+Sais-tu par quel secret ils ont gagné la ville.
+
+Ah ! Qu'une âme amoureuse agit imprudemment
+Laisser Séleucus dans son ressentiment,
+Réflexion mortelle aussi bien qu'inutile
+Il le fallait contraindre à sortir de la ville,
+Mais de quelque dépit dont il fut enflammé
+Sans nos divisions il n'aurait point armé.
+
+Tu sais qu'à ce moment nous sortîmes d'ici
+Que nous prîmes tous deux un différent souci,
+Toi de voir du combat l'épouvantable issue
+Et moi d'exécuter l'entreprise conçue,
+D'abord cinq cent soldats s'étant offerts à moi
+J'allai chez ma rivale y porter mon effroi,
+Et ne pouvant ravoir le tout de ce que j'aime
+Recouvrer pour le moins une part de lui-même,
+J'y commence un combat tel que voulait l'amour
+Après de grands efforts enfin tout m'y fait jour,
+Ma rivale montant sur une galerie,
+Regarde avec sa sour d'où vient cette furie,
+Et me voyant entrer le flambeau dans la main
+Ces esprits effrayés devinent mon dessein,
+Je monte un escalier qui me rendait vers elle
+Quand un nombre de voix et l'étonne et m'appelle
+Elle va dans sa chambre attendre son trépas
+Et moi d'un pied tremblant je redescends en bas,
+Où je trouve d'abord toute la Cour en armes
+Je vois Séleucus plus fort que mes gendarmes.
+Ainsi dans un moment je changeai de destin
+Et fus presque sa proie en quittant mon burin
+Je m'échappai pourtant et cherchant un asile
+J'ai presque traversé tous les lieux de la ville,
+Enfin ayant erré parmi tant de détours
+Dans mon premier Palais j'eus mon dernier recours
+Et puisqu'il plait au Ciel que j'ai pu te rejoindre
+Malgré tous ses excès ma douleur en est moindre.
+
+Du sort de Péricas n'as-tu pu rien attendre.
+
+      Roxane il se faut rendre.
+
+      C'est à moi seulement
+Je suis encor la même après ce changement,
+Et quoique tu sois seule auprès de ma personne
+J'attends pour m'effrayer que l'amour m'abandonne,
+Roxane qu'attends-tu quel doit être ton sort
+Amour de quelle main dois-je attendre la mort,
+Si de quelque bonheur tu veux que je me flatte
+Fais-moi la recevoir de la main d'Orondate,
+Plût aux Dieux que le sort l'amena dans ces lieux,
+Et qu'il fut le premier qui s'offrit à mes yeux,
+Ah ! De tous les objets le plus épouvantable.
+
+      Arrête Cassander
+Donne-moi le loisir de te voir misérable.
+
+Aussi si j'en jouis j'en rends grâces aux Dieux.
+
+Hé bien c'est mon destin il faut que je l'adore
+Que mon coeur l'idolâtre et que mon coeur t'abhorre
+Et de mes passions sans faire aucun retour
+Que tu gardes la haine et qu'il garde l'amour.
+
+Je ne prends aucun droit dessus ta liberté
+C'est au vainqueur à voir comme tu l'as traité,
+Qu'ayant d'ici manqué ta première entreprise
+Ton amour a mêlé l'audace à la surprise,
+Que dans ta jalousie intéressant l'état
+On t'a vu retomber dans un autre attentat,
+Et s'étant obstiné dans ta première envie,
+Pour la seconde fois t'armer contre sa vie.
+
+Quel crime ai-je commis que d'aimer Orondate.
+
+      Je ne veux aucune part aux tiens,
+Mais suivant les raisons que ton amour propose
+De tous mes attentats Orondate est la cause.
+
+De cette passion tu ressens les effets.
+
+Aux peines de mon crime engager mon amant
+Ah qu'il en ait le blâme et non le châtiment.
+
+L'on voit le criminel par le premier puni.
+
+S'il ne m'en reste aucun oses-tu t'en flatter.
+
+Crois-tu me devenir un second Orondate.
+
+Je n'y recule pas je n'ai point ce souci,
+Demeure à me garder, j'y consens quel outrage
+As-tu bien écouté cet horrible présage,
+Qu'a-t-il dit Hézionne avons-nous pu l'ouïr.
+
+Il ne me manque plus que de voir ma rivale
+Séleucus l'amène ô présence fatale,
+Après un Cassander arrive Statira.
+
+Tu me vois, tu me vois, rivale trop heureuse
+Toujours infortunée et toujours amoureuse,
+Mais dans la passion que j'ai pour notre amant
+Te céder à regret tout mon contentement,
+Bien qu'à te le laisser mon coeur me sollicite
+Ce n'est qu'à la mort à qui le mien le quitte
+Au moins prends patience et dans tes prompts désirs,
+Avant que me l'ôter vois mes derniers soupirs,
+Et d'un oeil attentif regardant leur sortie
+Attends que de mon corps mon âme soit partie,
+Et que moins indignée en délaissant le jour,
+Que dedans le regret de perdre notre amour
+Ne le pouvant garder elle te l'abandonne.
+
+      Hé bien mon sort t'étonne,
+Est-il d'une nature à te faire pitié.
+
+Encor pleine d'amour je refuse ta grâce,
+Ta libéralité marque assez ta rigueur
+Ce n'est point sans secret que m'offres ton coeur,
+Puisque ne pensant pas que je te sois ingrate
+Tu prétends par ce don t'acquérir Orondate
+Et forcer ta rivale à t'en faire un présent
+N'espère point de moi cet aveu complaisant,
+Quoique ton amitié me soit considérable
+À celui que tu veux tu n'es pas comparable,
+Bien que mon coeur qui suit ses moindres mouvements,
+Mette mes yeux d'accord avec ces sentiments
+Et que leur arrachant un aveu légitime
+Il te juge avec eux digne de son estime.
+
+Non, non, jouis d'un bien que ma mort te procure.
+
+Non, non, par mon trépas il faut que je te laisse
+Et du monde et de lui la paisible maîtresse
+Règne donc ma rivale et donne à tous des fers,
+Prends Empire sur lui comme sur l'univers,
+De même qu'en amante en veuve d'Alexandre,
+Dispose de deux biens que je t'ai voulu rendre,
+Mais de ces deux présents gardant le plus parfait
+Daigne remercier celle qui te le fait,
+Et recevant de moi cette faveur insigne
+Confesse qu'après toi j'en étais seule digne.
+
+Ou l'amour ou la mort point de milieu Princesse
+Et comme d'un côté mon espérance cesse,
+Comme l'un de ces choix n'est que dans mon pouvoir,
+Reine ce n'est qu'à moi que je le veux devoir,
+J'en ferai par ma mort une perte éclatante
+Tiens Reine ce poignard te va rendre contente.
+
+      N'approche point de moi,
+Ou mon ressentiment agirait dessus toi,
+Ne force point mes yeux d'aller sur ta personne
+Et d'y considérer l'horreur qu'elle me donne.
+
+      Mais toi-même évite mon courroux,
+Veux-tu rendre mes yeux les témoins de ta joie
+Qu'avecque ton amant ta rivale te voie,
+Et que se figurant tous vos contentements
+Connus aux seuls jaloux ou bien aux seuls amants
+Elle ait le déplaisir d'être à votre hyménée
+Faut-il par ta rigueur qu'elle y soit condamnée,
+Qu'elle ajoute au regret qu'elle a de le savoir
+La seconde douleur qu'elle aurait de le voir,
+Prévenons par ma mort.
+
+      Amante malheureuse,
+T'est-il donc ordonné de ne pouvoir mourir
+Et qui cause ta mort te vient-il secourir.
+
+Ah ! Souffre que je meurs ou que je me retire.
+
+Adieu cruels.
+
+Oui pour te traverser je garderai la vie,
+Et puisque tu le veux je reverrai le jour
+À dessein que mon nom trouble encor ton amour,
+Que si ma passion me veut être fidèle
+Je vais prier les Dieux de me rendre immortelle,
+Et puisqu'à vous troubler je trouve mes appas
+Je vous verrai mourir et je ne mourrai pas.
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+
+Cherchez dans la vertu.
+
+Vous vous rebuterez j'y mettrai cent obstacles
+Et pour les surmonter je ferai cent miracles.
+
+Lâche que ferez-vous ?
+
+Pensez-vous effrayer celle qui sait mourir
+Ce même désespoir me peut bien secourir,
+Et ce commun recours de tous les misérables
+Comme une belle issue aux choses déplorables,
+Je saurai par ma mort.
+
+Ah ! Lâche dessus moi détourne ton envie,
+Que t'a fait Orondate.
+
+      Il ne fut jamais tien
+Et si quelque rival avait droit d'y prétendre
+Perdicas n'est pas homme à l'être d'Alexandre.
+
+      Il me peut mériter
+S'il était en état de te le disputer,
+Et si je me donnais des mains de la victoire
+Il t'en saurait ravir et le prix et la gloire,
+Et pour te témoigner comme je vous connais,
+L'estime que j'en fais celle que j'ai de toi,
+Rends-lui la liberté va combattre en personne.
+
+Tu crains avec raison de n'être pas vainqueur.
+
+Quand il aura quitté je le saurai reprendre
+Quand je l'aurai repris je le saurai défendre,
+Que s'il faut à demi contenter ton dessein
+Tu me verras tirer ce coeur hors de mon sein,
+Que si l'âme après soi laisse quelque vengeance
+Tu pourras voir ce coeur trembler à ta présence,
+Et servant de Spectacle à tes yeux inhumains,
+S'émouvoir par l'horreur de tomber en tes mains
+Orondate c'est toi que Statira veut suivre
+Elle meurt avec toi ne pouvant pas y vivre.
+
+      Hé bien il périra.
+Au moins s'il doit mourir c'est avec Statira,
+Ne crois point par sa mort tirer autre avantage
+Que celui de la mienne.
+
+      Suis ta rage,
+Au reste Perdicas conserve-moi ta foi
+Souviens-toi du serment que j'ai reçu de toi,
+N'espérez rien de moi qu'en gardant ta promesse.
+
+      Ô Dieux en quelle main
+Ah soin trop délicat toute main m'est égale
+Mourons chez Perdicas ou bien chez ma rivale.
+
+Comme il est interdit je demeure éperdue,
+Comme quoi mon amour me faites-vous agir
+Ma vertu souffrez-vous qu'il me fasse rougir,
+Verse dans ta pratique austère et délicate,
+Ne puis-je point revoir le vivant Orondate
+Toi que la destinée a rendu mon vainqueur
+Qui même après ta mort j'ai conservé mon coeur
+Il cesse d'être à toi je te l'ôte Alexandre
+Après l'avoir gardé je te force à le rendre,
+Et te le ravissant avec quelque douceur
+J'en veux récompenser son premier possesseur.
+
+Approchez-vous.
+
+      Orondate.
+
+Quelle altération ne ressent point mon âme.
+
+      Ah Prince levez-vous
+Je ne vous puis souffrir en cette humble posture.
+
+Levez-vous Orondate et prenez cette place.
+Hé bien mes ennemis m'accordent une grâce,
+Roxane et Perdicas m'ont permis de vous voir,
+C'est la seule faveur que j'en voulais avoir,
+Et comme ce bonheur m'est très considérable
+Je ne rougirai point d'être leur redevable,
+Et dit ce juste aveu vous être un peu fatal
+Je m'en sens obligée à votre seul rival.
+
+Malgré sa volonté nous en tirons un bien,
+Et quoique sa malice y soit si manifeste,
+Nous le rendrons fatal à qui le veut funeste.
+
+      Ah ! Fatale mémoire.
+
+Oui Prince Statira se fit voir infidèle.
+
+Dedans ce traitement je me crus raisonnable,
+Je vous avais banni vous tenant criminel.
+
+Avec quel déplaisir sus-je votre innocence.
+
+Je le trouvai bien juste en cet événement,
+Mon âme également se rendit haïssable
+Orondate innocent Orondate coupable,
+Et mon coeur déchiré par un double désir
+Ne sut pour son repos lequel il dut choisir,
+L'amour ne put souffrir Orondate coupable
+L'abord d'un criminel lui parut effroyable,
+Et mon honneur formant un parti plus puissant
+Ne put point supporter Orondate innocent,
+Ainsi mon coeur rempli par celui d'Alexandre
+Ne voulut point s'ouvrir à qui le vint surprendre
+Et qui d'un faux appas brillant et revêtu
+Avecque sa vertu séduisait ma vertu,
+Mon Prince dites-moi pouvais-je vous entendre.
+
+Oui pour vous écouter j'altérai mon devoir
+Et pour vous mieux ouïr je désirai vous voir,
+J'obtins de mon honneur ce sensible avantage.
+
+Il fallait satisfaire à la voix d'Alexandre
+Qui disait à mon coeur lasse-toi de l'entendre.
+
+      Je vous laissai l'espoir
+Et je me vis bientôt en état de vous voir.
+
+Des raisons que j'en eus vous eûtes connaissance
+Mon Alexandre à peine était enseveli
+L'espace de trois jours l'eût-il mis en oubli,
+Et vous pouvais-je voir dedans un temps d'alarmes,
+Où toute Babylone était fondue en larmes
+Où l'horrible Roxane augmentant nos douleurs
+Mêlait impunément le sang avec les pleurs,
+Encore en ces moments partagiez-vous mon âme
+
+Nous n'en pouvons mon Prince arracher la tristesse
+Et dedans ce grand cours que prennent nos malheurs,
+Nous trouvons chaque instant des sujets de douleurs,
+Perdicas prend le soin de nous les faire naître.
+
+Comme elle Perdicas s'irrite chaque jour.
+
+Que vous impose-t-elle.
+
+Perdicas veut aussi que vous me délaissiez.
+
+La vôtre suit aussi ce que je vous annonce.
+
+      Et je vous dis le mien.
+
+Et je dois votre vue à la même promesse,
+Prince résolvez-vous.
+
+      Me voudrez-vous haïr.
+
+Et vous qu'à Perdicas je puisse satisfaire
+Je puisse exécuter de tels commandements.
+
+Vous le savez.
+
+      Orondate elle n'a rien d'horrible
+Quand dedans ce moment elle serait visible,
+Qu'entre elle et Perdicas, il me faudrait choisir
+La mort proche de lui serait tout mon désir.
+
+      Cruel, est-ce votre désir.
+
+L'amour que j'ai pour vous ne paraît point si forte
+Elle fait sur mon âme un différent effort,
+J'aimerais moins mon Prince infidèle que mort,
+Et je le souffrirais d'une âme plus égale
+Dans les bras de la mort qu'aux mains de ma rivale,
+Qu'il meurt l'inconstant ou qu'il vive pour moi.
+
+Que voulez-vous de moi Roxane impitoyable.
+
+Je saurai conserver.
+
+Parmi les cruautés vous vous êtes nourrie
+Vous mîtes tout en sang votre propre patrie,
+Et devant l'univers trahissant votre foi
+Vous voulûtes verser le sang de votre Roi,
+Quand votre lâche amour pour s'ôter un obstacle
+Voulut saouler vos yeux par un sanglant spectacle
+Et vous faire goûter ce mets délicieux
+Dont l'abject si souvent avait repu vos yeux,
+Cet horrible habitude à le vouloir répandre,
+Vous a fait prendre part à la mort d'Alexandre
+Votre âme y concourant dedans sa trahison
+Redoubla par ses voeux la force du poison,
+Et son intelligence avec ces parricides
+Du sang qu'elle voulait les rendit plus avides,
+De la soif qu'elle avait, elle les altéra,
+Ensuite elle voulut celui de Statira,
+Quand son exécuteur qu'épouvantait ce crime
+Aux voeux d'une enragée ôta cette victime,
+Et plus barbare qu'elle en l'osant secourir
+La sauvant une fois la fit cent fois mourir,
+Voilà, voilà Roxane un grand apprentissage.
+
+Hé bien exécuter votre dernière envie,
+Mais ne prétendez pas de m'ôter mon amour
+Je ne le perdrai point, même en perdant le jour.
+
+Je ne veux prononcer que ma seule sentence
+Et d'un si triste arrêt mon amour vous dispense,
+Orondate vivra s'il peut vivre sans moi.
+Mais je mourrai pour lui
+
+Orondate vivez non point pour ma rivale.
+
+Donnez à mon amour ce sentiment jaloux,
+J'aime mieux vous voir mort que vous voir infidèle.
+
+Orondate la vie a-t-elle tant d'appas
+Pour me rendre obligée aux soins de Perdicas,
+Mon prince c'est vous seul qui m'avez protégée
+À qui je suis ingrate aussi bien qu'obligée,
+Mais après cet aveu que mon âme vous fait
+Souffrez que par ma mort j'égale ce bienfait,
+Je puis sans offenser rompre avec Alexandre
+Le bien qu'il eut vivant son ombre le va rendre,
+Ne conservez donc plus un souvenir jaloux
+Et reprenez mon Prince un coeur qui fut à vous.
+
+Qu'attends-tu Perdicas me voici toute prête
+Venge-toi d'Orondate aux dépends de ma tête,
+Comme j'endure en lui fais-le souffrir en moi.
+
+      Tu ne m'étonnes pas
+C'est par ma seule mort.
+
+Fille de Cohortan perds dedans ta furie
+La femme d'Alexandre et le sang de Darie,
+Et portant dans ton sein ta dernière vigueur
+Viens frapper Orondate au travers de mon coeur
+Et nous sacrifiant au démon de la rage
+Renverse tout ensemble et l'autel et l'image.
+
+Perdicas est-ce ainsi que tu crois m'obliger,
+Roxane est moins barbare en sauvant ce que j'aime
+Sans sa protection j'aurais péri moi-même,
+Sauvant une partie en qui je veux mourir
+Tu pers une moitié que je veux secourir,
+Dans Statira je meurs et vis dans Orondate.
+
+Cruel notre salut est partout hasardeux.
+
+Roxane à Perdicas, dérobez Orondate.
+
+      Plutôt cent fois mourir.
+
+L'un et l'autre Palais sont l'horreur de mes yeux
+L'un est à Perdicas l'autre à mon ennemie
+Chaque hôte à sa maison prête son infamie,
+Et bien loin que mes yeux trouvent des appas
+J'y crois toujours trouver Roxane ou Perdicas.
+
+Ah ! Reine malheureuse.
+
+Reine dépouillons-nous de notre inimitié,
+Et te traitant de sour permets que je t'embrasse.
+
+Je ne veux rien devoir à mon peu de beauté
+Elle n'a point agi dessus sa liberté,
+S'il croit trouver en moi les appas qu'il évite
+C'est son aveuglement et non pas mon mérite,
+Je ne suis point si vaine et je pense qu'en toi
+Il aurait rencontré ce qu'il recherche en moi.
+
+Aussi de ces deux dons te rendant la moitié
+Mon Orondate et moi t'offrons notre amitié.
+
+Amante furieuse où portes-tu tes coups
+Arrête.
+
+Madame dans l'excès de mon contentement
+Laissez dire à mes yeux mon premier compliment.
+
+Le désordre où je suis cause votre licence
+Et mon âme en aveu convertit mon silence,
+Vous me ferez rougir, mon Prince levez-vous.
+
+Orondate parlez.
+
+Je le veux.
+
+      Achevez, que me demandez-vous.
+
+      Quoi de plus.
+
+De quel crime Seigneur voulez-vous votre grâce.
+
+      Je souffre votre audace.
+Et de cette façon que vous voulez agir
+Votre indiscrétion me ferait moins rougir.
+Parlez ?
+
+      Oui je vous le commande.
+
+Oui mon Prince espérez.
+
+Cruel expliquez-vous.
+
+Orondate à la fin rentre dedans mon âme,
+Mon Alexandre est mort enfin je suis à vous.
+
+J'ai tout avec vous.
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oroondate
+
 Où me conduisez-vous, vous Arbate, Hézionne.
 
--*who_hezionne
-Ici Seigneur.
-
--*who_oroondate
       Ici suis-je dans Babylone,
 Ici tous les objets déplaisent à mes yeux
 Je deviens à moi-même un spectacle odieux
@@ -627,10 +1315,6 @@ Tu l'oses avouer par ce honteux silence
 Quoi lâche tu te tais ôte-moi ta présence,
 Et tu montres par-là la moitié de mes maux.
 
--*who_hezionne
-Quoi Seigneur ?
-
--*who_oroondate
       Vous avez des sentiments égaux,
 Le naturel d'Arbate a passé dans ton âme,
 Et comme lui tu sers la rage d'une femme,
@@ -638,12 +1322,6 @@ Vous lui prêtez tous deux vos insolents Conseils
 Enfin dans votre emploi je vous trouve pareils.
 Et comme il me déplaît ta présence m'irrite.
 
--*who_hezionne
-La Reine en un moment vous va rendre visite.
-
-**** *book_ *id_II02 *act_II *date_1646
-
--*who_oroondate
 Elle-même à son tour offenser à mes yeux,
 Rien que la seule horreur n'habite dans ces lieux,
 C'est de ses attentats l'effroyable demeure
@@ -667,30 +1345,14 @@ Chasse-moi Cassender, Perdicas, et Roxane,
 Et de tous les objets que mon oeil t'enverra
 Conserve chèrement celui de Statira.
 
-**** *book_ *id_II03 *act_II *date_1646
-
--*who_cassander
-Soldats n'avancez point, qu'on se tienne à la porte.
-
--*who_oroondate
 Ah ! Traître est-ce sur moi que ta fureur se porte,
 Tes esprits chancelants tes pas mal assurés.
 Ta main toute tremblante et tes yeux égarés,
 M'éclaircissent assez du sujet qui t'amène.
 
--*who_cassander
-Je ne puis refuser ton trépas à ma haine,
-Elle a voulu ta mort je lui fais ce présent.
-
--*who_oroondate
 Lâche à tes passions es-tu si complaisant,
 Âme dès ta naissance en du sang détrempée.
 
--*who_cassander
-Prodigieux respect dont mon âme est frappée,
-Mon cour sent un remords qu'il n'a jamais connu.
-
--*who_oroondate
 C'est qu'au comble du crime il était parvenu,
 Et dès lors qu'à ce point est monté l'habitude
 Il chasse du péché tout ce qu'il a de rude,
@@ -699,84 +1361,28 @@ Trouve moins le repos que l'endurcissement,
 Mais de ton repentir se découvre la feinte
 Et c'est moins un remords qu'un effet de ta crainte.
 
--*who_cassander
-Non, non, c'est la pitié qui suspendait mon bras
-Enfin il va tomber tu mourras tu mourras.
-
-**** *book_ *id_II04 *act_II *date_1646
-
--*who_roxane
-Arrête-toi barbare et demeure immobile
-Viens rendre par ma mort ton attentat facile,
-Quoi tu t'es partagé, tu ne sais que choisir
-Par un regard mortel explique ton désir :
-Mais pour l'exécuter manquerais-tu d'audace
-Je te vois sur le point de demander ta grâce,
-Et la fuite des tiens te laissant dans nos mains
-À ta confusion a détruit tes desseins.
-
--*who_cassander
-J'en saurai bien sortir.
-
--*who_roxane
-      Il fuit, il fuit le lâche
-Et jusques à soi-même il faudra qu'il se cache,
-Je veux que l'on le suive.
-
--*who_oroondate
       Il n'est que trop suivi
 À ses propres remords il ne s'est point ravi.
 
-**** *book_ *id_II05 *act_II *date_1646
-
--*who_roxane
-Hé bien mon ennemi je vous sauve la vie.
-
--*who_oroondate
 Le présent qu'on me fait n'est pas digne d'envie
 Je m'efforce à périr non pas à me sauver.
 
--*who_roxane
-Malgré ce désespoir je vous veux conserver.
-
--*who_oroondate
 C'est me rendre Madame un funeste service.
 
--*who_roxane
-J'ai cru dans ce péril vous rendre un bon office
-Apprenez-en la cause en blâmant son effet.
-
--*who_oroondate
 Elle pourrait partir d'un principe imparfait,
 Si c'est le sentiment qu'ici l'on se propose,
 L'effet m'en plairait mieux que ne ferait la cause.
 
--*who_roxane
-Quoique vous y cherchiez un sens si délicat,
-De toutes les façons vous seriez un ingrat.
-
--*who_oroondate
 Il est injurieux et sensible à l'extrême,
 De se voir redevable en dépit de soi-même,
 Et de tels bienfaiteurs il nous est moins fatal,
 D'en recevoir du bien que d'en avoir du mal.
 
--*who_roxane
-La honte qu'ils en ont leur semble bien plus rude,
-De voir que leurs faveurs servent l'ingratitude,
-Et je les trouve à plaindre entre les affligés,
-D'avoir pour ennemis leurs plus grands obligés.
-
--*who_oroondate
 Si les maux sont des biens je vous suis redevable,
 Votre profusion chaque jour m'en accable,
 Et de la quantité que vous me les versez,
 Je vous ai dit souvent Madame c'est assez.
 
--*who_roxane
-Cruel méconnaissant où va votre mémoire.
-
--*who_oroondate
 Hé bien de votre vie, entreprenons l'histoire,
 Elle est toute présente à mon ressouvenir
 Mais je ne sais par où commencer ou finir,
@@ -789,25 +1395,8 @@ Que votre premier soin fut de saisir Cassandre,
 Et si son faux trépas n'eût abusé vos yeux
 Vous auriez de son sang vu rougir tous ces lieux.
 
--*who_roxane
-Prince cette action est à mon avantage
-Il la faut remarquer par son plus beau visage
-Cet illustre attentat a montré mon amour.
-Et par ce grand éclat je l'ai mis dans son jour.
-Aux yeux de l'univers je l'ai rendu visible.
-
--*who_oroondate
 Était-ce le secret de me rendre sensible.
 
--*who_roxane
-Jugez de la grandeur de mon affection
-Comparez-la mon Prince à son aversion,
-Quel amour eûtes-vous de cette âme infidèle,
-Quel est le traitement que vous reçûtes d'elle,
-Pour moi tous vos dédains n'ont fait que m'animer,
-Même armé contre moi j'ai voulu vous aimer.
-
--*who_oroondate
 Si je fus exilé malgré mon innocence,
 Si me tenant coupable et dans ma longue absence
 Tirant de faux soupçons de mon éloignement
@@ -817,24 +1406,10 @@ La générosité me force à la défendre
 C'est de votre malice et la suite et l'effet,
 Et je remets sur vous le mal qu'elle m'a fait.
 
--*who_roxane
-Quoi ne ferez-vous rien en faveur d'une Reine,
-À qui pour tant d'amour vous rendez de la haine
-Songez que dans l'état où le sort vous a mis,
-Il vous a suscité deux puissants ennemis.
-Et que dans les transports dont leur âme est saisie,
-Ils feront choir sur vous toute leur jalousie,
-Servez-vous de mon bras pour retenir le leur.
-
--*who_oroondate
 Puisque je suis tombé dans un double malheur,
 Il m'est indifférent dans lequel je périsse,
 Et plus d'eux que de vous j'agréerais mon supplice.
 
--*who_roxane
-Que souffrez-vous ingrat.
-
--*who_oroondate
       D'effroyables efforts.
 Ce que peuvent sentir et l'esprit et le corps,
 Je souffre dans deux lieux, double chaîne me presse.
@@ -843,35 +1418,15 @@ Et sentant tour à tour deux tourments différents
 Mon âme en deux endroits gémit sous deux tyrans,
 Elle sent sous votre ordre une double torture.
 
--*who_roxane
-Que souffrez-vous sous moi.
-
--*who_oroondate
       Ce qu'ailleurs elle endure,
 J'entre dedans ses maux, elle prend part aux miens,
 Et par mes déplaisirs j'ose juger des siens.
 Perdicas vous ressemble.
 
--*who_roxane
-      Ah ! Ce mépris m'outrage.
-Conservez mon amour.
-
--*who_oroondate
       Quelle en est l'avantage,
 Quelle en est la faveur, que j'en puis recevoir,
 En pourrai-je obtenir le plaisir de la voir.
 
--*who_roxane
-Souffrir un entretien qui me serait funeste,
-Vous y voir ruiner tout l'espoir qui me reste,
-Ah ! Je verrai plutôt la mort de Statira
-Ma cruelle rivale à mes yeux périra
-Et dans les mouvements que m'inspire la rage
-Déjà dedans son sang je sens mon coeur qui nage
-Et mon oeil de sa mort à demi consolé
-Chercher dedans son coeur le coeur qu'il m'a volé.
-
--*who_oroondate
 Roxane jusqu'au bout poussez votre furie,
 On a vu des effets de votre barbarie,
 Quand vous auriez foulé le sang de votre Roi
@@ -883,29 +1438,8 @@ Nul ne serait surpris de vos grands attentats,
 Le monde vous connait pour une sanguinaire
 Toute la terre a su, ce que vous saviez faire.
 
--*who_roxane
-C'est trop insolemment irriter mon amour
-Craignez que mon courroux ne commande à son tour,
-L'amour las de régner lui remet son empire,
-Et dans ce grand conseil qu'un nouveau Roi m'inspire
-Si je m'abandonnais à mes ressentiments
-Si mon âme courrait après ses mouvements,
-De mille passions je vous rendrais la proie
-Mon coeur vous déchirant palpiterait de joie,
-Gardez de me réduire en ces extrémités
-Et par le souvenir de tant de cruautés,
-Dont à chaque moment vous me rendez coupable.
-Orondate, jugez de quoi je suis capable,
-Voyez où peut s'étendre un absolu pouvoir.
-Quand il est mesuré par un grand désespoir.
-
--*who_oroondate
 De tout hors d'un seul point je vous croirai capable.
 
--*who_roxane
-Ah ! Que ne puis-je pas.
-
--*who_oroondate
       Me devenir aimable,
 Cherchez tous les moyens de plaire à Cassander
 Votre coeur est un bien que je lui veux céder,
@@ -914,327 +1448,8 @@ Donnez-lui votre amour il en est le seul digne
 Qu'il ne redoute plus ni rivaux ni jaloux,
 Comme vous le valez il est digne de vous.
 
--*who_roxane
-Ah ! C'est trop m'irriter Orondate, Orondate,
-Vous vous perdrez.
-
--*who_oroondate
       N'importe allons Arbate.
 
--*who_roxane
-      Arbate,
-Que l'on le conduise en son appartement.
-
-**** *book_ *id_II06 *act_II *date_1646
-
--*who_roxane
-Que je sens dans mon âme un feu bien véhément
-Je sens de cette ardeur enflammer mon visage.
-
--*who_hezionne
-Votre âme est-elle née à souffrir cet outrage.
-
--*who_roxane
-Non, non, c'est trop servir je vais rompre mes fers
-Prendre sur moi le droit que j'ai sur l'univers,
-Et domptant un vainqueur que j'avais pu m'élire
-Assujettir mon Maître à ce nouvel Empire,
-Ah ! Tyran orgueilleux tu ne sais pas régner
-Et cette occasion a su le témoigner,
-Tu ménages trop mal les forces d'une esclave,
-Il n'est pas toujours propre à souffrir qu'on le brave.
-
--*who_hezionne
-Que cet effort est beau que vous faites sur vous.
-
--*who_roxane
-Ainsi parle mon coeur quand il est en courroux,
-Mais je sens apaiser les troubles de mon âme.
-Et dans mes mouvements tout fait jour à ma flamme.
-Ces rebelles domptés y viennent tour à tour
-Avecque ma raison se soumettre à l'amour,
-Mon âme est toute à lui, rien que lui n'y préside
-Il se fait de mon coeur un esclave timide,
-Et d'un serf échappé prêt à lui commander
-Il le remet aux fers et les lui fait garder,
-Pour l'avoir menacé de redoubler ses peines.
-
--*who_hezionne
-Il vous est bien honteux de languir dans ses chaînes.
-
--*who_roxane
-Hélas mon Hézionne il est ainsi conclu
-C'est un funeste amour que les Dieux ont voulu.
-
--*who_hezionne
-Perdicas entre ici composez-vous Madame
-N'envoyez point aux yeux l'émotion de l'âme.
-
-**** *book_ *id_II07 *act_II *date_1646
-
--*who_roxane
-Perdicas suis-je Reine ai-je ici du pouvoir.
-
--*who_perdicas
-Madame vous l'avez si vous voulez l'avoir,
-Où vous vous rencontrez vous êtes souveraine.
-
--*who_roxane
-Si j'en porte le nom ma puissance est bien vaine,
-L'Insolent Cassander.
-
--*who_perdicas
-      Je sais son attentat
-Et viens de le laisser dans un funeste état.
-
--*who_roxane
-Il a choisi son temps dans l'absence d'Arbate
-Et ce désespéré s'immolait Orondate,
-Au point que ma venue empêchant son dessein
-La crainte ou le respect a retenu ta main,
-D'ici tout furieux rappelant son courage
-Suivi de six soldats il s'est fait un passage.
-Il nous vient d'échapper.
-
--*who_perdicas
-      Il est venu chez moi
-Tout son visage en feu m'a donné de l'effroi.
-Perdicas me dit-il j'ai fait la Reine ingrate
-Je viens en sa faveur de sauver Orondate,
-Mais si quelque respect a suspendu ma main
-Dites-lui que ce coup se peut faire demain,
-Et qu'en continuant dans sa première envie
-Je tuerai mon rival ou je perdrai la vie,
-J'ai d'abord apaisé ce premier mouvement.
-
--*who_roxane
-Je m'étonne fort peu de son ressentiment.
-
--*who_perdicas
-Ne le rebutez point il vous est nécessaire
-Il est d'un naturel changeant et téméraire
-Comme il est violent son transport dure peu,
-Il suit dans sa fureur la nature du feu.
-
--*who_roxane
-Qu'avez-vous Perdicas que veut votre visage
-Mais avant qu'il s'explique on entend son langage,
-De quoi m'entretient-il ?
-
--*who_perdicas
-      Il vous dit mon malheur
-Mon coeur jusqu'à mes yeux fait monter ma douleur,
-Et de ces déplaisirs dont mon âme est émue
-Quiconque m'envisage en reçoit de ma vue.
-
--*who_roxane
-J'en ai bien pris ma part je m'y laisse émouvoir.
-
--*who_perdicas
-Ma Princesse.
-
--*who_roxane
-      Achevez.
-
--*who_perdicas
-      Elle désire voir.
-
--*who_roxane
-Qui.
-
--*who_perdicas
-      L'heureux Orondate elle en a ma promesse.
-
--*who_roxane
-Ah ! Rivale insolente orgueilleuse Princesse,
-Tu te flattes en vain de jouir de ce bien
-Et vous qui permettez ce fatal entretien,
-En savez-vous la fin.
-
--*who_perdicas
-      J'en ai prévu l'issue
-Mais de cette façon que la chose est conçue,
-Aux yeux de cent témoins ils se pourraient parler.
-
--*who_roxane
-L'amour sait-il que c'est que de dissimuler,
-Leurs yeux se parleront au défaut de leur langue
-Ils entendront tous deux leur muette harangue
-Et comme leurs deux cours sont égaux en désirs
-Ils sauront s'expliquer par l'aide des soupirs,
-Rompons cet entretien on nous y va détruire,
-Ils ne l'ont demandé qu'à dessein de nous nuire.
-
--*who_perdicas
-Orondate le veut.
-
--*who_roxane
-      L'ingrat l'a désiré.
-
--*who_perdicas
-Madame mon amour en a bien murmuré,
-Mais quoique j'y répugne il faut que j'y consente.
-
--*who_roxane
-Hé bien dedans ce jour je la rendrai contente
-Où faut-il que ce coup l'aille s'entretenir.
-
--*who_perdicas
-Ici si vous voulez.
-
--*who_roxane
-      Faites l'y donc venir.
-
--*who_perdicas
-Elle arrive bientôt.
-
--*who_roxane
-      J'évite sa présence,
-Mon coeur de sa faiblesse a quelque connaissance
-De peur de m'emporter je ne la veux point voir
-Elle entre Perdicas allez la recevoir.
-
-**** *book_ *id_II08 *act_II *date_1646
-
--*who_perdicas
-Hé bien impérieuse il faut vous satisfaire
-Enfin j'ai rencontré le secret de vous plaire
-Et de mille moyens que j'ai de vous servir
-Je n'en trouve qu'un seul qui vous puisse ravir
-Encor ne peut-il fuir votre connaissance
-Et je n'en puis prétendre aucune récompense.
-
--*who_statira
-Cherchez dans la vertu.
-
--*who_perdicas
-      Vous la portez trop haut
-Je me propose un but mon âme a ce défaut.
-
--*who_statira
-Vous vous rebuterez j'y mettrai cent obstacles
-Et pour les surmonter je ferai cent miracles.
-
--*who_perdicas
-Rien ne peut échapper à la longueur du temps
-Je pourrai parvenir au but où je prétends,
-Que si le désespoir m'en ouvre le passage.
-
--*who_statira
-Lâche que ferez-vous ?
-
--*who_perdicas
-      Je mets tout en usage.
-
--*who_statira
-Pensez-vous effrayer celle qui sait mourir
-Ce même désespoir me peut bien secourir,
-Et ce commun recours de tous les misérables
-Comme une belle issue aux choses déplorables,
-Je saurai par ma mort.
-
--*who_perdicas
-      Ah Madame vivez
-De leur plus ferme appui mes jours seraient privés,
-Si j'avais projeté de vous ôter la vie
-Ma mort précéderait l'effet de mon envie,
-Et de mes propres bras j'irais jusqu'en mon sein,
-Dans les flots de mon sang étouffer mon dessein
-La donnant de ma honte une marque assez vraie
-Pour vous ouvrir mon coeur j'élargirais ma plaie
-Là ce coeur moins rempli de sang que de courroux
-Dirait en palpitant qu'il le verse pour vous,
-Et pour expier l'horreur d'un demi-crime
-Avecque sa complice il se donne en victime,
-Ce n'est point contre vous qu'il ose murmurer
-À peine contre vous ose-t-il soupirer,
-Mais en vous épargnant il veut perdre Orondate
-Je ne puis empêcher que son courroux n'éclate,
-J'ai beau dire à ce coeur qu'il se laisse toucher
-Qu'à vous comme à Roxane Orondate est trop cher,
-Le cruel me répond que sa mort est ma vie.
-
--*who_statira
-Ah ! Lâche dessus moi détourne ton envie,
-Que t'a fait Orondate.
-
--*who_perdicas
-      Il m'a volé mon bien,
-Votre coeur ma Princesse.
-
--*who_statira
-      Il ne fut jamais tien
-Et si quelque rival avait droit d'y prétendre
-Perdicas n'est pas homme à l'être d'Alexandre.
-
--*who_perdicas
-Orondate l'est moins.
-
--*who_statira
-      Il me peut mériter
-S'il était en état de te le disputer,
-Et si je me donnais des mains de la victoire
-Il t'en saurait ravir et le prix et la gloire,
-Et pour te témoigner comme je vous connais,
-L'estime que j'en fais celle que j'ai de toi,
-Rends-lui la liberté va combattre en personne.
-
--*who_perdicas
-Je ne rends point au sort un présent qu'il me donne.
-
--*who_statira
-Tu crains avec raison de n'être pas vainqueur.
-
--*who_perdicas
-Il faut qu'avec sa vie il quitte votre coeur.
-
--*who_statira
-Quand il aura quitté je le saurai reprendre
-Quand je l'aurai repris je le saurai défendre,
-Que s'il faut à demi contenter ton dessein
-Tu me verras tirer ce coeur hors de mon sein,
-Que si l'âme après soi laisse quelque vengeance
-Tu pourras voir ce coeur trembler à ta présence,
-Et servant de Spectacle à tes yeux inhumains,
-S'émouvoir par l'horreur de tomber en tes mains
-Orondate c'est toi que Statira veut suivre
-Elle meurt avec toi ne pouvant pas y vivre.
-
--*who_perdicas
-Vous le perdez Madame.
-
--*who_statira
-      Hé bien il périra.
-Au moins s'il doit mourir c'est avec Statira,
-Ne crois point par sa mort tirer autre avantage
-Que celui de la mienne.
-
--*who_perdicas
-      Il mourra.
-
--*who_statira
-      Suis ta rage,
-Au reste Perdicas conserve-moi ta foi
-Souviens-toi du serment que j'ai reçu de toi,
-N'espérez rien de moi qu'en gardant ta promesse.
-
--*who_perdicas
-Hé bien vous la verrez inhumaine Princesse,
-Vous verrez vous verrez ce fortuné rival
-Mais de cet entretien favorable ou fatal,
-Selon qu'il le va rendre ou propice ou funeste
-Sa grâce est apparente ou sa mort manifeste
-Je m'en vais de Roxane apprendre le dessein,
-Et vous ayez soin d'elle.
-
--*who_statira
-      Ô Dieux en quelle main
-Ah soin trop délicat toute main m'est égale
-Mourons chez Perdicas ou bien chez ma rivale.
-
-**** *book_ *id_III01 *act_III *date_1646
-
--*who_oroondate
 Transports délicieux ravissements si doux
 Extases de l'amour qui m'entraînez à vous
 Belles illusions aimables impostures
@@ -1254,10 +1469,6 @@ Que l'oeil de Statira va verser dans mon âme
 Et mon coeur tout grossi des plaisirs qu'il conçoit
 Tout préparé qu'il est mourra s'il les reçoit.
 
--*who_hezionne
-Vous verrez Statira.
-
--*who_oroondate
       Je verrai ma Princesse
 Ah ! Mon âme conçoit une entière allégresse,
 Ne mêlez rien de triste à mon contentement
@@ -1300,17 +1511,9 @@ Votre Alexandre est mort et je suis innocent,
 Perdicas y remet et Roxane y consent,
 Ainsi rien ne rompra notre belle entrevue.
 
--*who_hezionne
-Voici la Reine.
-
--*who_oroondate
       Ô Dieux que mon âme est émue,
 Quoi Roxane à mes yeux.
 
--*who_hezionne
-      C'est votre Statira.
-
--*who_oroondate
 Ah ! Ma bouche ah ! Mes yeux qui de vous parlera
 Qui de vous craindre moins de lui pouvoir déplaire,
 Répondez qui de vous fera le téméraire,
@@ -1322,60 +1525,17 @@ Et dans le triste accueil qu'ils pensent recevoir
 Si l'un ne parle point l'autre ne veut point voir,
 Et mon âme en ce point demeure suspendue.
 
--*who_statira
-Comme il est interdit je demeure éperdue,
-Comme quoi mon amour me faites-vous agir
-Ma vertu souffrez-vous qu'il me fasse rougir,
-Verse dans ta pratique austère et délicate,
-Ne puis-je point revoir le vivant Orondate
-Toi que la destinée a rendu mon vainqueur
-Qui même après ta mort j'ai conservé mon coeur
-Il cesse d'être à toi je te l'ôte Alexandre
-Après l'avoir gardé je te force à le rendre,
-Et te le ravissant avec quelque douceur
-J'en veux récompenser son premier possesseur.
-
-**** *book_ *id_III02 *act_III *date_1646
-
--*who_statira
-Approchez-vous.
-
--*who_oroondate
       Hélas.
 
--*who_statira
-      Orondate.
-
--*who_oroondate
       Madame.
 
--*who_statira
-Quelle altération ne ressent point mon âme.
-
--*who_oroondate
 Permettez qu'un coupable expire à vos genoux,
 Il vous offre sa tête.
 
--*who_statira
-      Ah Prince levez-vous
-Je ne vous puis souffrir en cette humble posture.
-
--*who_oroondate
 Souffrez tous ces respects de votre créature,
 Et pardonnant ce zèle à ma témérité
 Que je retombe aux pieds de ma divinité.
 
--*who_statira
-Levez-vous Orondate et prenez cette place.
-Hé bien mes ennemis m'accordent une grâce,
-Roxane et Perdicas m'ont permis de vous voir,
-C'est la seule faveur que j'en voulais avoir,
-Et comme ce bonheur m'est très considérable
-Je ne rougirai point d'être leur redevable,
-Et dit ce juste aveu vous être un peu fatal
-Je m'en sens obligée à votre seul rival.
-
--*who_oroondate
 Quoiqu'il nous ait servi par une lâche cause
 Je ne regarde point le but qu'il se propose
 Et daignant convertir une injure en bienfait,
@@ -1384,12 +1544,6 @@ Ou du moins à celui qu'il nous a voulu faire,
 Puisque son sentiment était moins de vous plaire
 Que de vous procurer ce mortel entretien.
 
--*who_statira
-Malgré sa volonté nous en tirons un bien,
-Et quoique sa malice y soit si manifeste,
-Nous le rendrons fatal à qui le veut funeste.
-
--*who_oroondate
 Avec quelle bonté daignez-vous recevoir
 Celui qui tout tremblant n'osait point vous revoir,
 Mon coeur se redisait l'effroyable sentence
@@ -1398,103 +1552,35 @@ Et qui ayant ôté jusques au sentiment
 Joignit presque ma mort à mon bannissement,
 Vous en souvenez-vous.
 
--*who_statira
-      Ah ! Fatale mémoire.
-
--*who_oroondate
 Dès lors j'abandonnai le soin de la victoire
 Et me croyant coupable aussitôt que puni,
 Je délaissai des lieux dont vous m'aviez banni.
 
--*who_statira
-Oui Prince Statira se fit voir infidèle.
-
--*who_oroondate
 Madame Statira ne fut point criminelle,
 Et mon soupçon irait jusqu'à l'impiété,
 D'imaginer un crime en ma divinité,
 Je me justifiais sans vous rendre coupable.
 
--*who_statira
-Dedans ce traitement je me crus raisonnable,
-Je vous avais banni vous tenant criminel.
-
--*who_oroondate
 Je méritai Madame un exil éternel,
 Je ne murmurai point contre votre ordonnance.
 
--*who_statira
-Avec quel déplaisir sus-je votre innocence.
-
--*who_oroondate
 Cruelle Statira quel fut ce sentiment.
 
--*who_statira
-Je le trouvai bien juste en cet événement,
-Mon âme également se rendit haïssable
-Orondate innocent Orondate coupable,
-Et mon coeur déchiré par un double désir
-Ne sut pour son repos lequel il dut choisir,
-L'amour ne put souffrir Orondate coupable
-L'abord d'un criminel lui parut effroyable,
-Et mon honneur formant un parti plus puissant
-Ne put point supporter Orondate innocent,
-Ainsi mon coeur rempli par celui d'Alexandre
-Ne voulut point s'ouvrir à qui le vint surprendre
-Et qui d'un faux appas brillant et revêtu
-Avecque sa vertu séduisait ma vertu,
-Mon Prince dites-moi pouvais-je vous entendre.
-
--*who_oroondate
 Puisque l'on m'accusait je me devais défendre.
 
--*who_statira
-Oui pour vous écouter j'altérai mon devoir
-Et pour vous mieux ouïr je désirai vous voir,
-J'obtins de mon honneur ce sensible avantage.
-
--*who_oroondate
 Et de votre rigueur le dernier témoignage,
 Puisque de cet honneur suivant les dures lois
 Vous m'osâtes bannir pour la seconde fois.
 
--*who_statira
-Il fallait satisfaire à la voix d'Alexandre
-Qui disait à mon coeur lasse-toi de l'entendre.
-
--*who_oroondate
 Fallut-il obéir.
 
--*who_statira
-      Je vous laissai l'espoir
-Et je me vis bientôt en état de vous voir.
-
--*who_oroondate
 Même après son trépas vous fuyez ma présence.
 
--*who_statira
-Des raisons que j'en eus vous eûtes connaissance
-Mon Alexandre à peine était enseveli
-L'espace de trois jours l'eût-il mis en oubli,
-Et vous pouvais-je voir dedans un temps d'alarmes,
-Où toute Babylone était fondue en larmes
-Où l'horrible Roxane augmentant nos douleurs
-Mêlait impunément le sang avec les pleurs,
-Encore en ces moments partagiez-vous mon âme
-
--*who_oroondate
 Ah ! Pour tant de faveurs que vous rends-je Madame,
 Et qu'est-ce qu'un ingrat a pu vous reprocher
 Je consomme à me plaire un temps qui m'est si cher
 Passons dans les transports les moments qu'on nous laisse.
 
--*who_statira
-Nous n'en pouvons mon Prince arracher la tristesse
-Et dedans ce grand cours que prennent nos malheurs,
-Nous trouvons chaque instant des sujets de douleurs,
-Perdicas prend le soin de nous les faire naître.
-
--*who_oroondate
 Roxane contribue à nous les faire accroître,
 Cet esprit amoureux ne se peut rebuter
 Et ne se lasse point de me persécuter,
@@ -1502,69 +1588,31 @@ Encore en endurant agréerais-je ma peine
 Si le mal que je sens me venait de sa haine,
 Mais mon plus grand tourment me naît de son amour.
 
--*who_statira
-Comme elle Perdicas s'irrite chaque jour.
-
--*who_oroondate
 Roxane comme lui ne manque point d'audace,
 .......................................
 J'ai ces frayeurs pour vous que vous avez pour moi.
 
--*who_statira
-Que vous impose-t-elle.
-
--*who_oroondate
       Une effroyable loi,
 Que je puis appeler une loi digne d'elle
 Et que de mon côté je puis nommer mortelle,
 La dirai-je elle veut que vous me haïssiez.
 
--*who_statira
-Perdicas veut aussi que vous me délaissiez.
-
--*who_oroondate
 Madame votre mort suivra votre réponse.
 
--*who_statira
-La vôtre suit aussi ce que je vous annonce.
-
--*who_oroondate
 Je vous ai dit mon ordre.
 
--*who_statira
-      Et je vous dis le mien.
-
--*who_oroondate
 À ces conditions je dois votre entretien.
 
--*who_statira
-Et je dois votre vue à la même promesse,
-Prince résolvez-vous.
-
--*who_oroondate
       Résolvez-vous Princesse
 Ne m'aimerez-vous point.
 
--*who_statira
-      Me voudrez-vous haïr.
-
--*who_oroondate
 Madame pensez-vous que je puisse obéir
 Et qu'aux lois de Roxane on me fasse complaire.
 
--*who_statira
-Et vous qu'à Perdicas je puisse satisfaire
-Je puisse exécuter de tels commandements.
-
--*who_oroondate
 Vous êtes toute juste en tous vos sentiments,
 Dedans vos actions vous êtes volontaire
 Et vous n'ignorez pas ce que vous devez faire.
 
--*who_statira
-Vous le savez.
-
--*who_oroondate
       Jugeant de ce que vous devriez
 Je sais qu'avec raison vous m'abandonneriez.
 Non point que Perdicas n'ait aucun avantage
@@ -1573,144 +1621,22 @@ Non que j'en veuille faire un jugement jaloux
 Comme moi mon rival est indigne de vous,
 Mais la mort.
 
--*who_statira
-      Orondate elle n'a rien d'horrible
-Quand dedans ce moment elle serait visible,
-Qu'entre elle et Perdicas, il me faudrait choisir
-La mort proche de lui serait tout mon désir.
-
--*who_oroondate
 Quoique dans ces deux choix ma mort soit manifeste,
 Celui de Perdicas me parait moins funeste,
 Vivez, vivez.
 
--*who_statira
-      Cruel, est-ce votre désir.
-
--*who_oroondate
 Oui si votre rigueur me permet de choisir,
 J'aimerais mieux ma Reine infidèle que morte.
 
--*who_statira
-L'amour que j'ai pour vous ne paraît point si forte
-Elle fait sur mon âme un différent effort,
-J'aimerais moins mon Prince infidèle que mort,
-Et je le souffrirais d'une âme plus égale
-Dans les bras de la mort qu'aux mains de ma rivale,
-Qu'il meurt l'inconstant ou qu'il vive pour moi.
-
--*who_oroondate
 Il veut vivre et mourir pour vous prouver sa foi.
 
--*who_arbate
-Seigneur il faut finir.
-
--*who_oroondate
       Ah ! Le plus grand des traîtres.
 Et digne exécuteur de l'ordre de tes maîtres,
 Mais je vois l'un et l'autre et dans ce fier abord
 Je lis dedans les yeux l'arrêt de notre mort.
 
-**** *book_ *id_III03 *act_III *date_1646
-
--*who_roxane
-Madame vous saurez que je vis sans faiblesse,
-Les remords qu'on se fait tiennent de la bassesse,
-Et quiconque renonce au bien qu'il a cherché
-Est indigne d'avoir le prix de son péché,
-N'attendez point de moi le désaveu d'un crime
-Que par mille raisons j'ai rendu légitime,
-Je ne viens point ici pour me justifier
-C'est à mon propre sens que je m'en veux fier,
-Et ne voulant que moi pour mon dernier refuge
-Dans tous mes attentats je m'établis pour juge,
-Je ne sais point de loi que mon seul intérêt
-J'ai juré votre mort j'en ai conclu l'arrêt,
-Que si j'ai suspendu cette juste sentence
-Et si j'ai retardé le cours de ma vengeance,
-C'est ma compassion qui m'a parlé pour vous
-Perdicas avec elle arrêta mon courroux
-Et tous deux m'empêchant de me pouvoir résoudre
-Pour un temps de mes mains ont diverti la foudre,
-Aujourd'hui qu'Orondate avec tous ses mépris
-Jusques au désespoir a porté mes esprits,
-Que vous-même obstinée au dessein de me nuire
-Travaillez avec zèle à vous vouloir détruire,
-Je ne puis plus forcer tous ces grands mouvements
-Je n'ai plus de pouvoir sur mes ressentiments,
-Je ne puis empêcher que ma fureur n'éclate
-Si vous ne m'opposez la tête d'Orondate,
-Et si par son amour suivi d'un repentir
-L'ingrat à vous sauver ne me fait consentir
-
--*who_perdicas
-Et vous Prince apprenez jusqu'où va ma colère
-Jusques à ce moment elle a paru légère,
-Et tant qu'un désespoir a suspendu ma main
-J'ai toujours renvoyé ma rage au lendemain,
-Aujourd'hui ma fureur s'est toute ramassée
-Et pour vous accabler elle s'est entassée,
-Tous mes ressentiments se sont multipliés
-Avec ceux de Roxane ils se sont alliés,
-Prince le seul secret de s'en pouvoir défendre
-C'est de se disposer à me rendre Cassandre,
-Si de votre refus dépend votre trépas.
-
--*who_oroondate
 Que me demandez-vous barbare Perdicas.
 
--*who_statira
-Que voulez-vous de moi Roxane impitoyable.
-
--*who_roxane
-Vous-même m'avez fait une amante implacable
-Vous me l'avez ravi mais vous me le rendrez.
-
--*who_statira
-Je saurai conserver.
-
--*who_roxane
-      Vous mourrez, vous mourrez.
-
--*who_statira
-Parmi les cruautés vous vous êtes nourrie
-Vous mîtes tout en sang votre propre patrie,
-Et devant l'univers trahissant votre foi
-Vous voulûtes verser le sang de votre Roi,
-Quand votre lâche amour pour s'ôter un obstacle
-Voulut saouler vos yeux par un sanglant spectacle
-Et vous faire goûter ce mets délicieux
-Dont l'abject si souvent avait repu vos yeux,
-Cet horrible habitude à le vouloir répandre,
-Vous a fait prendre part à la mort d'Alexandre
-Votre âme y concourant dedans sa trahison
-Redoubla par ses voeux la force du poison,
-Et son intelligence avec ces parricides
-Du sang qu'elle voulait les rendit plus avides,
-De la soif qu'elle avait, elle les altéra,
-Ensuite elle voulut celui de Statira,
-Quand son exécuteur qu'épouvantait ce crime
-Aux voeux d'une enragée ôta cette victime,
-Et plus barbare qu'elle en l'osant secourir
-La sauvant une fois la fit cent fois mourir,
-Voilà, voilà Roxane un grand apprentissage.
-
--*who_roxane
-Hé bien j'achèverai cet important ouvrage,
-Et mon âme suivant ses premiers mouvements
-Je m'en vais couronner de beaux commencements,
-Votre va sceller les crimes de ma vie.
-
--*who_statira
-Hé bien exécuter votre dernière envie,
-Mais ne prétendez pas de m'ôter mon amour
-Je ne le perdrai point, même en perdant le jour.
-
--*who_roxane
-Et vous Prince assoupi dans ce honteux silence
-Que délibérez-vous ?
-
--*who_oroondate
       Tu prends toute licence,
 L'impuissance où je suis t'avait fortifié
 Dessus ce fondement tu t'étais confié,
@@ -1727,41 +1653,14 @@ Fais indigne rival que je te porte envie,
 Et dans ce sentiment que je me plaigne à moi
 D'avoir pour bienfaiteur un homme comme toi
 
--*who_perdicas
-S'il t'était arrivé de me rendre service
-Mon coeur désavouerait un si mortel office,
-N'attends point que de toi j'exige aucun bienfait
-Et te démens le don que tu dis m'avoir fait.
-
--*who_roxane
-Enfin mon bras se lasse à suspendre une foudre
-Vous n'avez qu'un moment à vous pouvoir résoudre.
-
--*who_oroondate
 Hé bien par vos regards expliquez votre loi
 Et ce que vous ferez et de vous et de moi.
 
--*who_statira
-Je ne veux prononcer que ma seule sentence
-Et d'un si triste arrêt mon amour vous dispense,
-Orondate vivra s'il peut vivre sans moi.
-Mais je mourrai pour lui
-
--*who_oroondate
       Je me fais même loi,
 Je périrai pour vous la loi doit être égale.
 
--*who_statira
-Orondate vivez non point pour ma rivale.
-
--*who_oroondate
 Je ne vis point pour elle et je mourrai pour vous.
 
--*who_statira
-Donnez à mon amour ce sentiment jaloux,
-J'aime mieux vous voir mort que vous voir infidèle.
-
--*who_oroondate
 Je meurs pour vous Madame et ne vis point pour elle,
 Mais comme vous voulez cette preuve de foi
 J'ose vous imposer une semblable Loi,
@@ -1772,93 +1671,18 @@ Et toi lâche rival qui poursuis mon trépas,
 Je te veux pardonner si tu la veux défendre
 Tu vois dans Statira la femme d'Alexandre.
 
--*who_statira
-Orondate la vie a-t-elle tant d'appas
-Pour me rendre obligée aux soins de Perdicas,
-Mon prince c'est vous seul qui m'avez protégée
-À qui je suis ingrate aussi bien qu'obligée,
-Mais après cet aveu que mon âme vous fait
-Souffrez que par ma mort j'égale ce bienfait,
-Je puis sans offenser rompre avec Alexandre
-Le bien qu'il eut vivant son ombre le va rendre,
-Ne conservez donc plus un souvenir jaloux
-Et reprenez mon Prince un coeur qui fut à vous.
-
--*who_perdicas
-Ne reçoit point ce don il te serait funeste
-La vie est un présent.
-
--*who_oroondate
       Que de toi je déteste,
 Et je mourrais d'horreur si tu me la donnais
 C'est moi qui te la donne et toi tu la reçois.
 
--*who_statira
-Qu'attends-tu Perdicas me voici toute prête
-Venge-toi d'Orondate aux dépends de ma tête,
-Comme j'endure en lui fais-le souffrir en moi.
-
--*who_oroondate
 Ah plutôt.
 
--*who_perdicas
-      Je consens de l'affliger en toi,
-Et que ton coeur ouvert devant cette inhumaine
-Fasse entrer dans le sien une part de ta peine,
-Pour vous si votre amour vous la fait ressentir
-Par un autre secret je le ferai pâtir,
-Et confondant les maux et de l'un et de l'autre
-Je lui ferai souffrir et sa peine et la vôtre,
-Résolvez Statira.
-
--*who_statira
-      Tu ne m'étonnes pas
-C'est par ma seule mort.
-
--*who_perdicas
-      Plutôt par son trépas,
-J'ai trouvé le secret par qui je vous sépare
-Je t'ai trop épargné meurs scythe meurs barbare,
-Et me rends le repos, que tu m'avais ôté.
-
--*who_roxane
-Arrête Perdicas regarde à ton côté,
-Quelle des passions est en toi la plus forte
-Ou voir vivre Orondate ou voir la Reine morte,
-Choisis.
-
--*who_oroondate
       Ah ! Perdicas protège Statira,
 Après si tu le veux Orondate mourra.
 
--*who_statira
-Fille de Cohortan perds dedans ta furie
-La femme d'Alexandre et le sang de Darie,
-Et portant dans ton sein ta dernière vigueur
-Viens frapper Orondate au travers de mon coeur
-Et nous sacrifiant au démon de la rage
-Renverse tout ensemble et l'autel et l'image.
-
--*who_oroondate
 Viens femme furieuse achever ton dessein
 Et frapper ta rivale au travers de mon sein.
 
--*who_roxane
-Non tu ne mourras pas je défendrai ta vie.
-
--*who_perdicas
-Et j'aurai pour la Reine une semblable envie,
-Contre tes cruautés je la veux protéger.
-
--*who_statira
-Perdicas est-ce ainsi que tu crois m'obliger,
-Roxane est moins barbare en sauvant ce que j'aime
-Sans sa protection j'aurais péri moi-même,
-Sauvant une partie en qui je veux mourir
-Tu pers une moitié que je veux secourir,
-Dans Statira je meurs et vis dans Orondate.
-
--*who_oroondate
 Et toi femme enragée en vain ton bras se flatte,
 Et tu prétends en vain de m'avoir protégé
 Ce n'est qu'à Perdicas que je suis obligé,
@@ -1867,428 +1691,16 @@ Il sauve une partie en qui je voulais vivre,
 Et que ta barbarie en m'osant secourir
 Conserve une moitié dans qui je veux mourir.
 
--*who_roxane
-Malgré tous tes dédains je te saurai défendre
-Et contre un Perdicas je saurai l'entreprendre.
-
--*who_perdicas
-Malgré tous vos mépris je vous protégerai
-Et contre une Roxane ou bien je périrai.
-
--*who_roxane
-Perdicas je te compte entre mes adversaires.
-
--*who_perdicas
-Roxane tes soldats te seront nécessaires,
-Et je te compte aussi parmi mes ennemis.
-
--*who_arbate
-Ah ! Considérez-vous d'un regard plus remis,
-Vos ennemis communs en prendront avantage.
-
--*who_roxane
-Orondate rentrez.
-
--*who_perdicas
-      Vous évitez sa rage.
-
--*who_statira
-Cruel notre salut est partout hasardeux.
-
--*who_oroondate
 Même péril nous presse en la main de tous deux.
 
--*who_roxane
-Dans son appartement reconduisez-le Arbate.
-
--*who_statira
-Roxane à Perdicas, dérobez Orondate.
-
--*who_oroondate
 Perdicas à Roxane, arrachez Statira.
 
--*who_roxane
-Avant que donner l'un Roxane périra.
-
--*who_perdicas
-Avant qu'accorder l'autre on m'arrachera l'âme.
-
--*who_oroondate
 Et moi vous délaissant je vous jure Madame
 Qu'avant qu'être à Roxane on me verra périr.
 Et vous à Perdicas ?
 
--*who_statira
-      Plutôt cent fois mourir.
-
--*who_roxane
-Tu te ressouviendras de trahir ta promesse.
-
--*who_perdicas
-Toi de porter le fer au coeur de ma Princesse.
-
--*who_roxane
-Et toi de l'avoir mis au sein de mon amant.
-
--*who_perdicas
-Redoute ma fureur.
-
--*who_roxane
-      Toi mon ressentiment.
-
-**** *book_ *id_IV01 *act_IV *date_1646
-
--*who_roxane
-Hé bien mes confidents je suis abandonnée,
-Et ce grand changement ne m'a point étonnée,
-Mes ennemis et moi partagions l'univers
-Nous l'avions divisé dans deux partis divers,
-Et le donnant en proie aux fureurs de la guerre
-Chacun de nous a pris la moitié de la terre,
-Aujourd'hui ce traité me semble être fini
-Et je vois contre moi le monde réuni,
-La fortune en tous lieux m'ordonne des batailles
-Elle m'en fait dedans et dehors nos murailles,
-Aux portes Artaxerxe avec Lysimachus
-Dans nos murs Perdicas avec Séleucus,
-Alcétas Cassander avec tous nos complices
-Enfin je suis venue à d'affreux précipices,
-Où ces traîtres amis qui ne m'y suivaient pas
-Dans mon aveuglement me poussaient pas à pas,
-Ces lâches me rendant aux pieds de ces abîmes
-En m'y faisant tomber y feront choir leurs crimes
-Et couvrant dessous moi les meurtres qu'ils ont faits,
-Ils vont dans mon sépulcre enterrer leurs forfaits
-Ô ! Ciel si tu résous la peine de nos crimes
-De tous ces criminels forme-toi des victimes,
-Dressant à ta justice un monument si beau
-De toute Babylone érige un grand tombeau,
-Quand pour les abîmer s'entrouvrira la terre
-Accablez-moi grands Dieux par un coup de tonnerre,
-Et dehors réservant ce revers à vos mains,
-Daignez ôter l'honneur de ma chute aux humains.
-
--*who_arbate
-Quel crime avez-vous fait à mériter la foudre.
-
--*who_roxane
-Assez pour le contraindre à me réduire en poudre
-Mais dans mon châtiment être rempli d'horreur,
-Et dût-il même aux Dieux donner de la terreur
-Mon crime était trop beau pour n'être point aimable,
-Et quiconque a des yeux en deviendrait capable,
-Arbate mes soldats sont-ils tous assemblés.
-
--*who_arbate
-Les Gardes du Palais sont partout redoublés,
-Et dix mille soldats qu'au besoin l'on conserve.
-
--*who_roxane
-À quelque autre dessein mon ordre les réserve,
-Allez les avertir de se tenir tout prêts.
-
--*who_arbate
-J'obéis.
-
-**** *book_ *id_IV02 *act_IV *date_1646
-
--*who_roxane
-      Toi qui vois le fonds de mes secrets,
-Ne peux-tu deviner ce que je délibère.
-
--*who_hezionne
-Pour moi comme pour lui cet ordre est un mystère.
-
--*who_roxane
-Je veux à main armée entrer chez Perdicas
-M'immoler Statira jusque dedans ses bras,
-Et dans le même instant d'une fureur égale
-D'un bras fumant encor du sang de ma rivale
-Rompant de mes amours ce double empêchement
-Traverser de deux coups la maîtresse et l'amant
-Là mes yeux à longs traits contemplant ma vengeance,
-Goûteront par leur mort quelque part d'allégeance,
-Et voyant le départ de leur dernier soupir
-Quand ils ne vivront plus je mourrai de plaisir.
-
--*who_hezionne
-Parlez-vous d'Orondate ?
-
--*who_roxane
-      Âme inhumaine arrête
-Ne porte point mon bras sur cette chère tête,
-Et plutôt qu'à Roxane imputer ce dessein
-Détourne ma fureur contre mon propre sein,
-C'est dessus Statira que je borne mes crimes
-Et mon ressentiment n'eût que deux victimes
-Perdicas en est l'une et doit être immolé,
-Mon coeur en quelque sorte en sera consolé,
-Va donc voir Orondate et de ma part lui dire
-Que Roxane ressent un éternel martyre,
-Qu'elle est dans un état plus triste que le sien
-Et qu'elle lui demande un dernier entretien,
-Qu'elle va le revoir.
-
--*who_hezionne
-      N'attendez point de grâce
-Ne vous exposez plus.
-
--*who_roxane
-      Hé bien prends donc ma place
-Et si ma passion te pouvait animer,
-Dis-lui tout ce qu'on dit quand on se fait aimer.
-
-**** *book_ *id_IV03 *act_IV *date_1646
-
--*who_roxane
-
-
-Passion envieillie amour presque éternelle,
-Je t'ai dès le berceau.
-Et je crois qu'à dessein de se rendre immortelle,
-Tu me suis au tombeau.
-C'est de ma volonté qu'elle prend sa nature,
-Je ne l'altère pas.
-Et loin de la finir je consens qu'elle dure,
-Au-delà du trépas.
-Ce titre injurieux de veuve d'Alexandre,
-Et de ce Dieu des Rois.
-Cet éloge imparfait que partagea Cassandre,
-Est moindre que mon choix.
-D'un honneur plus entier ma passion se flatte,
-Et mon coeur amoureux.
-Établit dans le nom de femme d'Orondate,
-Le nom le plus heureux.
-Et toi jaloux mari dont l'ombre me vient dire
-Que j'ai trahi ma foi.
-Ne traite point ta veuve avecque tant d'Empire,
-Je l'aimai devant toi.
-Et quand l'ambition me fit être sa femme,
-L'amour t'ôta mon coeur.
-Et dès lors m'enlevant Alexandre de l'âme,
-Il y mit mon vainqueur.
-Il y plaça si bien son adorable ouvrage,
-Qu'il eût le premier lieu.
-Si bien qu'il faut détruire en détruisant l'image
-Et l'autel et le Dieu.
-Arbate est de retour : hé bien tout se prépare.
-
-**** *book_ *id_IV04 *act_IV *date_1646
-
--*who_arbate
-J'ai fait tout assembler le Grec et le Barbare,
-Et comme aux grands emplois ils se laissent ravir
-Ils briguent à l'envie l'honneur de vous servir.
-
--*who_roxane
-Allons chez Perdicas enlever ma rivale.
-
--*who_arbate
-Il pourrait bien former une entreprise égale,
-
--*who_roxane
-De quelque trahison seriez-vous averti.
-
--*who_arbate
-J'ai vu sous les drapeaux tous ceux de son parti.
-
--*who_roxane
-Contre nos ennemis ils font quelque sortie
-Mais ici ma puissance est bien anéantie,
-Quoi choquant à mes yeux le conseil et sa foi
-De son caprice seul il recevait la loi,
-Arbate de ce pas va voir sa contenance
-Et me la vient redire avecque diligence,
-Je m'en vieux défier il peut venir ici.
-
-**** *book_ *id_IV05 *act_IV *date_1646
-
--*who_roxane
-
-
-Ma conservation est mon moindre souci,
-Cruel auteur de ma souffrance,
-Tes yeux ne sont-ils pas témoins
-D'un nombre de maux et de soins,
-Que j'endure pour ta défense,
-Par des regards et des soupirs,
-Je t'ai découvert mes désirs,
-Et quoi que t'en ait dit ma bouche,
-Ton âme a tant de cruauté,
-Que le même mal qui me touche,
-Accroît ton inhumanité.
-
-Mais par degrés mon coeur se flatte,
-Il demande de la pitié.
-Il veut ensuite l'amitié,
-Et s'il l'obtenait d'Orondate,
-Il pourrait bientôt s'emporter
-Puisqu'en pensant le mériter,
-Mon âme insatiable et vaine
-T'offrant des souhaits tour à tour
-Demanderait contre ta haine,
-En dernier présent ton amour.
-
-Donne-moi ce que je te donne,
-Cruel si dedans ta rigueur
-Tu feins d'avoir perdu ton coeur,
-À le trouver je m'abandonne,
-Si ma rivale l'a caché,
-Dans le sien il sera cherché,
-Comme il faut que je le possède,
-Et qu'on contente mon dessein,
-Il faudra qu'elle me le cède
-Ou je le tire hors de son sein,
-Sachons ce qu'aura dit mon aimable insensible.
-
-**** *book_ *id_IV06 *act_IV *date_1646
-
--*who_roxane
-Hézionne, Orondate ?
-
--*who_hezionne
-      Est toujours invincible,
-Au moins en votre endroit est-il toujours égal
-J'ai trouvé ce Héros qui dévorait son mal,
-Mais quelque fermeté qu'ait montrée son visage
-J'ai vu sur lui des traits de tristesse et de rage,
-Ce coeur auparavant plus fort que ses malheurs
-Semblait s'humilier sous ses grandes douleurs,
-Son âme frémissant sous un si grand martyre
-Comme pour s'exhaler de temps en temps soupire.
-
--*who_roxane
-Toi mortelle douleur que pressent mes amours
-Meurs-tu par le silence ou bien par le discours,
-Et pour me soulager dans ce rude martyre
-Faut-il, ma passion, te celer ou te dire,
-Hélas tout m'est égal ou me taire ou parler
-Et je ne sais comment tu te dois exhaler.
-
-**** *book_ *id_IV07 *act_IV *date_1646
-
--*who_arbate
-Madame ma frayeur avait quelque apparence.
-
--*who_roxane
-Arbate expliquez-vous.
-
--*who_arbate
-      Votre ennemi s'avance.
-
--*who_roxane
-Lequel si dans l'état où mon amour est mis
-Mon malheur s'est acquis cent sortes d'ennemis.
-
--*who_arbate
-Cassander Perdicas que leur amour emporte
-Ont saisi du Palais et l'enceinte et la porte,
-Et déjà par le sang que leurs coups ont versé
-Jusque dedans la Cour ils auront traversé,
-Ils viennent dans vos bras massacrer Orondate.
-
--*who_roxane
-Soutenez-moi ma fille, et me soutiens Arbate
-Je ne puis supporter un coup si véhément
-La douleur que je sens m'ôte le sentiment,
-Et l'horreur de ce coup par qui mon coeur se pâme
-Avant que sur son corps vient d'agir sur mon âme
-Ne me soutenez plus laissez-moi défaillir
-Mon oeil comme mon coeur commence à s'affaiblir
-Hézionne je meurs, je meurs fidèle Arbate.
-
--*who_arbate
-Ah Madame songez.
-
--*who_roxane
-      Va sauver Orondate.
-C'est là mon plus grand soin.
-
--*who_hezionne
-      Elle expire grands Dieux.
-
--*who_arbate
-Son coeur reprend sa force elle ouvre encor les yeux
-
--*who_roxane
-Que je passe aisément d'un mouvement à l'autre
-Toi douleur, vous amour, quel charme est donc vôtre,
-Et par quelle magie une âme en un moment
-D'insensible qu'elle est reprend le sentiment,
-Faut-il perdre Orondate, ah ! Perdons-nous nous-même,
-Mon âme est moins en moi que dans celui que j'aime,
-Exposons dans le corps pour conserver le coeur.
-Allons, allons défendre.
-
--*who_arbate
-      Ah ! Craignez leur rigueur,
-Dedans l'aveuglement où les porte leur rage
-Ces amis révoltés vous feraient quelque outrage
-Ils ne verraient en vous ni mérite ni rang.
-
--*who_roxane
-À leur avidité j'offre donc tout mon sang,
-Qu'ils épargnent au moins le beau sang d'Orondate.
-
--*who_arbate
-Ils le veulent avoir.
-
--*who_roxane
-      L'un et l'autre se flatte,
-Et mon amant mourrait avec mes propres mains
-Avant que je le misse entre ses inhumains,
-Jusqu'au dernier soupir va défendre sa vie
-Arbate va combattre.
-
--*who_arbate
-      Et c'est là mon envie,
-Dussé-je rencontrer la mort dessus mes pas
-Puisqu'il faut vous servir je vole à mon trépas.
-
--*who_roxane
-Va quérir Orondate et l'amène Hermione.
-
-**** *book_ *id_IV08 *act_IV *date_1646
-
--*who_roxane
-Belle attache des sens ne parle point de trône
-En vain ambition viens-tu m'entretenir
-Grandeurs ce n'est point vous que je peux retenir
-Tu me pensais surprendre et m'échapper, couronne
-Tu ne me quittes pas c'est moi qui t'abandonne,
-Indigne successeur du plus grand des humains
-Je vous rends cet état qui tomba dans mes mains
-Et malgré tous les droits que m'y donne Alexandre
-L'univers est à vous je n'y veux rien prétendre,
-Mais si quelque justice est mêlée dans vos voeux
-Orondate, Orondate est le bien que je veux,
-Et sa possession où mon orgueil aspire,
-Touche mieux mes désirs que celle d'un empire,
-Quoi vous me ravirez un bien que j'ai conquis
-Qu'avec tant de travaux mon amour s'est acquis
-Ah ! Cruel Perdicas âme barbare ingrate
-Je laisse Statira qu'on me quitte Orondate,
-Et quoique ce traité m'ait été si fatal
-Accepte une rivale en donnant un rival.
-Et quittant les transports dont son âme est saisie
-Laissons-nous les objets de notre jalousie,
-Et sans que nos fureurs leur ravissent le jour
-Contentons-nous d'avoir l'objet notre amour
-Je vois venir le mien.
-
-**** *book_ *id_IV09 *act_IV *date_1646
-
--*who_roxane
-      Hé bien votre tristesse
-N'est-elle pas changée.
-
--*who_oroondate
       Ah ! Rends-moi ma Princesse.
 
--*who_roxane
-Je vous donne Roxane.
-
--*who_oroondate
       Ah reprends ton présent,
 N'attends point de ma bouche un aveu complaisant
 Et ne retombant point dans une conférence
@@ -2297,86 +1709,29 @@ Non ne perds plus de temps en d'amoureux discours
 Plus d'oreilles plus d'yeux pour tes lâches amours
 L'horreur que j'ai de toi m'emporte hors de moi-même.
 
--*who_roxane
-Ton âme en ce qu'elle hait est moins que ce qu'elle aime,
-Mais pourquoi n'ai-je point la même liberté
-Tu m'oses offenser avec impunité,
-Et mon âme avec peine ose aller au murmure
-Le dédain dedans moi prend une autre nature,
-Et de ma flatterie empruntant tout son prix
-Je trouve des faveurs dans tes plus grands mépris.
-
--*who_oroondate
 Roxane au nom des Dieux s'il est vrai que l'on m'aime.
 
--*who_roxane
-Orondate est mon Dieu qu'il jure par lui-même,
-Qu'il daigne prononcer le nom de mon amant
-Je m'engage à l'ouïr sur un si beau serment.
-
--*who_oroondate
 Ôte-moi de tes mains.
 
--*who_roxane
-      Hé bien je t'abandonne
-Indigne de l'appui que mon amour te donne,
-Va, va désespéré, va trouver Perdicas
-Et comme un furieux jette-toi dans ses bras,
-Aux portes du Palais tes ennemis t'attendent
-Pour te sacrifier tes rivaux te demandent,
-Va comme une victime aux pieds de leur autel
-Recevoir de leurs mains le dernier coup mortel.
-
--*who_oroondate
 J'y serais encor mieux que dessous ta puissance.
 
--*who_roxane
-Hé bien comme la leur ils prendront ma vengeance,
-Considère à quels Dieux tu vas être immolé.
-
--*who_oroondate
 Roxane je mourrai doublement consolé,
 Je ne me verrai plus dessous ta tyrannie
 Et voyant d'avec moi Statira désunie,
 Quoiqu'avant d'expirer ce coup me fut fatal
 Je na la verrai plus aux mains de mon rival.
 
--*who_roxane
-Tu l'y laisses cruel.
-
--*who_oroondate
       Laisse-moi la défendre.
 
--*who_roxane
-Je ne te retiens point.
-
--*who_oroondate
       Laisse-moi donc descendre
 Et me donne un poignard pour reculer ma mort.
 
--*who_roxane
-Que feras-tu contre eux qu'un impuissant effort
-Mon Orondate épargne et ton sang et mes larmes.
-
--*who_oroondate
 Si tu veux m'obliger fais-moi rendre mes armes,
 Pourras-tu bien souffrir que ces deux inhumains
 Me viennent massacrer à tes yeux en tes mains
 Et que dedans ton coeur ils plongent cette épée
 Qu'ils auront devant toi dedans mon sang trempée.
 
--*who_roxane
-L'un de ces deux malheurs m'afflige seulement
-Encor plus que la mort je crains l'éloignement,
-Tu fuiras mais n'importe.
-      Allez quérir ses armes.
-Ah ? Que ne puis-je amour y mettre quelque charmes,
-Et puisque qu'en son salut je prends tant d'intérêt
-Pour me le conserver que n'ai-je ce secret,
-Et s'il faut que sa mort me rende inconsolable
-Fais que ma volonté le rende invulnérable.
-
--*who_oroondate
 Roxane un malheureux ne veut point être tel
 S'il faut tenir de toi le don d'être immortel,
 Et s'il faut que tes voeux prolongent notre vie
@@ -2384,18 +1739,6 @@ Peu d'hommes à l'accroitre étendraient leur envie,
 Et s'il faut que je vive en cette éternité
 La mort me plairait mieux que l'immortalité.
 
--*who_roxane
-Si Statira t'offrait une vie immortelle
-Ton âme l'agréerait bien moins des Dieux que d'elle,
-Et même entre ses bras un moment écoulé
-De nos longs entretiens t'aurait jà consolé
-Ton âme de ses yeux pleine et rassasiée
-Parmi de doux transports se feindrait extasiée,
-Et quatre ou cinq instants dans ton coeur amoureux
-Vaudraient l'éternité de tous les bienheureux,
-Mais tes yeux la perdront.
-
--*who_oroondate
       J'en garderai l'idée
 Et de ces visions mon âme possédée,
 Portant avecque soi son idole en tout lieu
@@ -2405,35 +1748,681 @@ Et mes yeux détachés de l'objet de ma haine,
 Indignes le voyant d'avoir pu voir le jour
 Mon âme adorera celui de mon amour.
 
--*who_roxane
-Est-il des biens qu'on ne puisse corrompre
-Dedans tes visions je t'irais interrompre,
-Et rendant à ta vue un objet odieux
-Ton âme reverrait ce qu'abhorraient tes yeux
-L'amour, mais Hézionne apporte ici tes armes.
+Ce nom ne m'est plus doux dans la bouche d'un traître.
 
-**** *book_ *id_IV10 *act_IV *date_1646
+Ah ! Fin digne de lui, digne d'un infidèle,
+Roxane qu'attends-tu.
 
--*who_roxane
-C'est de Statira que tu prendras tes charmes,
-Ton coeur fortifié par l'union du sien,
-Dédaigne en sa faveur l'assistance du mien,
-Avec ce beau secours tu te crois invincible,
-Et la mort d'un rival te parait infaillible,
-Reçois au moins cruel les voeux qu'on fait pour toi
-Qu'une part de l'honneur rejaillisse sur moi,
-Puisqu'à te conserver notre ardeur est égale
-Daigne-moi rendre grâce autant qu'à ma rivale
-Et quoique de nous deux en ce noble dessein
-L'une ait armé ton coeur et l'autre armé ta main
-Pesant de quel côté te viendra la victoire
-Regarde à qui de nous tu crois devoir ta gloire,
-Ah quel sensible objet se présente à mes yeux
-Où viens-tu cher Arbate.
+      Fais-moi rendre mes armes.
 
-**** *book_ *id_IV11 *act_IV *date_1646
+Roxane ce bienfait.
 
--*who_arbate
+Si les Dieux.
+
+Ô Dieux qui dans mon coeur mettez tant de pitié
+Puisqu'un autre a l'amour qu'elle ait mon amitié.
+
+      Que fais-tu furieuse ;
+Donne-moi ce poignard.
+
+Je te rends la faveur que tu m'avais prêtée
+Et je crois qu'envers toi mon âme est acquittée.
+
+Oui tu peux de ce pas rentrer dans ton Empire,
+La Grèce est toute à toi je t'y laisse régner.
+
+      Soldats allez l'accompagner,
+Ne l'abandonnez point, combattez son envie,
+
+Que je rentre en l'extase où m'entraîne ma flamme,
+Et que par des transports où s'élève mon âme,
+Capables d'épuiser tous les discours humains
+Je semble en ce baiser la laisser sur vos mains.
+
+Souffrez sans que vos yeux en deviennent jaloux
+Et sans que vos beautés en perdent leur hommage
+Qu'avec Séleucus mon âme se partage,
+Ah ! Prince généreux divin Séleucus
+Digne des sentiments qu'en eût Lysimachus
+Et de la liberté qu'il reçut d'Artaxerxe
+Vous sauvez le débris de la maison de Perse,
+Et votre bras l'ôtant des mains d'un ravisseur
+Orondate à sa Reine, Artaxerxe à sa sour,
+Permettez qu'à vos pieds je vous en rende grâce.
+
+      Donc que je vous embrasse
+Et que mon coeur troublé pour la seconde fois
+Fasse faire à mes bras l'office de ma voix.
+
+C'est par vous que je suis au bout de mes travaux.
+
+Ah confondons nos cours dans nos embrassements.
+
+Mon âme en ces moments se défie et se flatte,
+Et tous mes sens frappés par ce divin aspect
+Si prêts de tout oser conservent leur respect.
+
+      L'oserai-je Madame.
+
+      Ah ! Mes yeux faites-lui voir mon âme
+Il est mort de mes mains cet insolent rival
+Que sa présomption avait fait notre égal,
+Enfin de trois rivaux je suis le seul qui reste
+Donnez-moi, mais ma perte est ici manifeste,
+Je n'ose.
+
+Un pardon.
+
+      Je l'attends à genoux.
+
+De ma témérité.
+
+      Le voulez-vous.
+
+Mais m'accorderez-vous le don que je demande.
+
+      Ah ! C'est trop hasarder.
+
+      Vous puis-je posséder.
+Hé bien serais-je heureux dites-le moi Madame.
+
+Ô Dieux de mon bonheur n'êtes-vous point jaloux
+Qu'on dise à Cassander de rentrer dans ses terres
+Et pour tous les États conquis durant nos guerres
+J'en laisse le partage au grand Séleucus.
+
+      Consultez-vous avec Lysimachus.
+Et quand à ma fortune et celle d'Artaxerxe
+Nous renonçons tous deux à l'Empire de Perse,
+Et montant sur un rang qu'ont tenu mes aïeux
+Avec ma Statira je m'égale à nos Dieux.
+
+      Allons quitter les armes
+Et delà contemplant vos agréables charmes,
+Mourir dans des transports qu'on ne peut exprimer
+Et qui ne sont connus que de qui sait aimer.
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perdicas
+
+L'Arrêt n'est plus douteux je le viens prononcer,
+Et dans l'événement que le Ciel nous expose,
+Il montre l'intérêt qu'il prend dans notre cause
+Nos heureux ennemis n'ont vaincus à leur tour,
+Ils n'ont pu conserver leur victoire qu'un jour,
+Ils ont été défaits et par cet avantage
+Je viens de réparer notre premier outrage,
+De nos murs dans leur camp j'ai jeté mon malheur.
+
+Orondate est ici.
+
+Ce Prince est prisonnier ?
+
+J'ai pour vos volontés une âme complaisante.
+
+      Je me vaincrais moi-même,
+Toutefois je suivrai ce que vous résoudrez,
+Et je ne le verrai que quand vous le voudrez,
+Au reste l'ennemi s'est montré magnanime
+Le présent qu'il nous fait surpasse notre estime,
+Il nous a redonné le grand Séleucus.
+
+      Avec Néarchus,
+Il vient pour vous parler.
+
+Son Conseil est utile au bien de votre Empire,
+S'il vous donne un avis daignez le recevoir.
+
+      Le voici, Cassander vous l'amène.
+
+      Séleucus barbare.
+
+Et vous Séleucus qu'osez-vous demander.
+
+      Hé bien il le faut rendre
+Consentez-y Madame.
+
+Si j'ai quelque intérêt je lui veux immoler
+Cassander à ma voix joignez votre suffrage,
+Rendons à notre ami ce cruel témoignage,
+Et lui faisant sentir quelle est notre amitié
+Exigeons d'un barbare un reste de pitié.
+
+Avant que l'accorder Perdicas périra.
+
+      Votre erreur est insigne,
+Et j'ai fait un effort dont vous êtes indigne.
+
+Prince je la reprends comme un présent souillé,
+Depuis assez longtemps elle est interrompue,
+Et chez mes ennemis vous l'avez corrompue,
+Je ne profane plus un présent de ce prix.
+
+C'est trop Séleucus.
+
+Sans le respect des yeux qui se portent sur nous.
+
+Il faudra qu'Alcétas s'en aille lui parler.
+
+Pour ce que vous voulez, j'ai de la déférence,
+Et vous avez pu voir comme quoi j'agissais,
+Il l'a bien remarqué ?
+
+Contre un monde assemblé je voudrais vous servir.
+
+Madame vous l'avez si vous voulez l'avoir,
+Où vous vous rencontrez vous êtes souveraine.
+
+      Je sais son attentat
+Et viens de le laisser dans un funeste état.
+
+      Il est venu chez moi
+Tout son visage en feu m'a donné de l'effroi.
+Perdicas me dit-il j'ai fait la Reine ingrate
+Je viens en sa faveur de sauver Orondate,
+Mais si quelque respect a suspendu ma main
+Dites-lui que ce coup se peut faire demain,
+Et qu'en continuant dans sa première envie
+Je tuerai mon rival ou je perdrai la vie,
+J'ai d'abord apaisé ce premier mouvement.
+
+Ne le rebutez point il vous est nécessaire
+Il est d'un naturel changeant et téméraire
+Comme il est violent son transport dure peu,
+Il suit dans sa fureur la nature du feu.
+
+      Il vous dit mon malheur
+Mon coeur jusqu'à mes yeux fait monter ma douleur,
+Et de ces déplaisirs dont mon âme est émue
+Quiconque m'envisage en reçoit de ma vue.
+
+Ma Princesse.
+
+      Elle désire voir.
+
+      L'heureux Orondate elle en a ma promesse.
+
+      J'en ai prévu l'issue
+Mais de cette façon que la chose est conçue,
+Aux yeux de cent témoins ils se pourraient parler.
+
+Orondate le veut.
+
+Madame mon amour en a bien murmuré,
+Mais quoique j'y répugne il faut que j'y consente.
+
+Ici si vous voulez.
+
+Elle arrive bientôt.
+
+Hé bien impérieuse il faut vous satisfaire
+Enfin j'ai rencontré le secret de vous plaire
+Et de mille moyens que j'ai de vous servir
+Je n'en trouve qu'un seul qui vous puisse ravir
+Encor ne peut-il fuir votre connaissance
+Et je n'en puis prétendre aucune récompense.
+
+      Vous la portez trop haut
+Je me propose un but mon âme a ce défaut.
+
+Rien ne peut échapper à la longueur du temps
+Je pourrai parvenir au but où je prétends,
+Que si le désespoir m'en ouvre le passage.
+
+      Je mets tout en usage.
+
+      Ah Madame vivez
+De leur plus ferme appui mes jours seraient privés,
+Si j'avais projeté de vous ôter la vie
+Ma mort précéderait l'effet de mon envie,
+Et de mes propres bras j'irais jusqu'en mon sein,
+Dans les flots de mon sang étouffer mon dessein
+La donnant de ma honte une marque assez vraie
+Pour vous ouvrir mon coeur j'élargirais ma plaie
+Là ce coeur moins rempli de sang que de courroux
+Dirait en palpitant qu'il le verse pour vous,
+Et pour expier l'horreur d'un demi-crime
+Avecque sa complice il se donne en victime,
+Ce n'est point contre vous qu'il ose murmurer
+À peine contre vous ose-t-il soupirer,
+Mais en vous épargnant il veut perdre Orondate
+Je ne puis empêcher que son courroux n'éclate,
+J'ai beau dire à ce coeur qu'il se laisse toucher
+Qu'à vous comme à Roxane Orondate est trop cher,
+Le cruel me répond que sa mort est ma vie.
+
+      Il m'a volé mon bien,
+Votre coeur ma Princesse.
+
+Orondate l'est moins.
+
+Je ne rends point au sort un présent qu'il me donne.
+
+Il faut qu'avec sa vie il quitte votre coeur.
+
+Vous le perdez Madame.
+
+      Il mourra.
+
+Hé bien vous la verrez inhumaine Princesse,
+Vous verrez vous verrez ce fortuné rival
+Mais de cet entretien favorable ou fatal,
+Selon qu'il le va rendre ou propice ou funeste
+Sa grâce est apparente ou sa mort manifeste
+Je m'en vais de Roxane apprendre le dessein,
+Et vous ayez soin d'elle.
+
+Et vous Prince apprenez jusqu'où va ma colère
+Jusques à ce moment elle a paru légère,
+Et tant qu'un désespoir a suspendu ma main
+J'ai toujours renvoyé ma rage au lendemain,
+Aujourd'hui ma fureur s'est toute ramassée
+Et pour vous accabler elle s'est entassée,
+Tous mes ressentiments se sont multipliés
+Avec ceux de Roxane ils se sont alliés,
+Prince le seul secret de s'en pouvoir défendre
+C'est de se disposer à me rendre Cassandre,
+Si de votre refus dépend votre trépas.
+
+S'il t'était arrivé de me rendre service
+Mon coeur désavouerait un si mortel office,
+N'attends point que de toi j'exige aucun bienfait
+Et te démens le don que tu dis m'avoir fait.
+
+Ne reçoit point ce don il te serait funeste
+La vie est un présent.
+
+      Je consens de l'affliger en toi,
+Et que ton coeur ouvert devant cette inhumaine
+Fasse entrer dans le sien une part de ta peine,
+Pour vous si votre amour vous la fait ressentir
+Par un autre secret je le ferai pâtir,
+Et confondant les maux et de l'un et de l'autre
+Je lui ferai souffrir et sa peine et la vôtre,
+Résolvez Statira.
+
+      Plutôt par son trépas,
+J'ai trouvé le secret par qui je vous sépare
+Je t'ai trop épargné meurs scythe meurs barbare,
+Et me rends le repos, que tu m'avais ôté.
+
+Et j'aurai pour la Reine une semblable envie,
+Contre tes cruautés je la veux protéger.
+
+Malgré tous vos mépris je vous protégerai
+Et contre une Roxane ou bien je périrai.
+
+Roxane tes soldats te seront nécessaires,
+Et je te compte aussi parmi mes ennemis.
+
+      Vous évitez sa rage.
+
+Avant qu'accorder l'autre on m'arrachera l'âme.
+
+Toi de porter le fer au coeur de ma Princesse.
+
+Redoute ma fureur.
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassander
+
+Léger Séleucus.
+
+Prince c'est un traité qu'on ne peut accorder,
+Et si jusqu'à ce prix l'on porte votre échange,
+L'ennemi nous en donne un moyen bien étrange.
+
+      Quoi vous nous menacez.
+
+      Quoi devant vos semblables.
+
+Avec des successeurs dignes d'un Alexandre.
+
+Notre grande union a de quoi vous ravir,
+Nous négligeons pour vous nos propres avantages.
+
+C'est qu'il faut trop souvent vous en entretenir,
+Il faut persécuter votre ressouvenir,
+Je vois votre mémoire ou faible ou bien ingrate,
+Suffit pour me chasser qu'elle loge Orondate
+Il y refuse place on lui veut retenir,
+J'y demande une entrée et l'on m'en veut bannir
+Malheureux Cassender trop heureux Orondate
+Endure avec plaisir que ton rival te flatte,
+Mêle dedans ta joie un peu de ma douleur
+Donne-moi ton bonheur et reçois mon malheur,
+Et par un changement qui n'aura rien d'étrange,
+Nous nous rendrons heureux par ce contraire échange,
+Nous deviendrons amis dedans le même temps,
+De deux infortunés, nous ferons deux contents.
+Ah rival ! Que je plains quel malheur est le nôtre
+Il n'est point au pouvoir ni de l'un ni de l'autre,
+Et même ton supplice est bien plus rigoureux,
+À force de bonheur tu deviens malheureux,
+C'est à vous d'accorder deux rivaux déplorables,
+À tirer deux heureux de deux grands misérables,
+Et quittant un secret où vous vous obstinez
+À créer de nous deux deux amants fortunés.
+
+Persistez-vous vous-même, à m'être si cruelle,
+Votre inhumanité sera donc éternelle,
+Pourquoi me traitez-vous avec indignité ?
+Trouvez-vous des défauts dedans mes qualités,
+Ne me méprisez point ma naissance est Royale
+À la grandeur du sang j'ai la puissance égale,
+Et vous avez été la femme de mon Roi,
+La Fille d'un Satrape est au-dessous de moi,
+À de plus haut partis elle ne peut prétendre
+Pense-t-elle trouver un second Alexandre,
+Le premier des humains n'a point laissé d'égal,
+Et s'il peut après soi recevoir un rival,
+Parmi ses successeurs je suis considérable
+Et par mes grands respecte je lui suis comparable
+Les Dieux à qui le monde élève des Autels
+Reçoivent moins d'honneur du côté des mortels,
+Que vous n'en recevez par mon idolâtrie
+Avecque moins d'ardeur tout l'univers les prie
+Et vos parfaits rivaux sont aujourd'hui jaloux
+De me voir prosterner à vos sacrés genoux,
+Je n'en partirai point que dans la connaissance
+Que celle qui leur semble aura pris leur clémence,
+Et que son naturel changeant de volontés,
+Ayant pris leurs vertus emprunte leurs bontés.
+
+Ah ! Tu l'aimais trop peu, trop infidèle Reine,
+Pour trouver dans sa mort la cause de ta haine
+Mais si dans ce soupçon je te suis odieux
+Je m'en vais tout souiller d'un sang plus précieux
+Et par ce triste objet me rendant plus sensible
+Je veux devant tes yeux devenir plus horrible,
+Tu mourras mon rival je cours à ton trépas
+Et toi mon désespoir ne m'abandonne pas.
+
+Soldats n'avancez point, qu'on se tienne à la porte.
+
+Je ne puis refuser ton trépas à ma haine,
+Elle a voulu ta mort je lui fais ce présent.
+
+Prodigieux respect dont mon âme est frappée,
+Mon cour sent un remords qu'il n'a jamais connu.
+
+Non, non, c'est la pitié qui suspendait mon bras
+Enfin il va tomber tu mourras tu mourras.
+
+J'en saurai bien sortir.
+
+Soldats c'est mal traiter un Prince déplorable
+Vous avez seulement l'ordre de me garder,
+Où me conduisez-vous ?
+
+Cruelle mon malheur t'est-il donc agréable.
+Barbare ce spectacle est digne de tes yeux.
+
+Ils ont mis dans ton corps une âme bien horrible
+Je pense qu'à toi-même ils t'aient faite insensible,
+Et dans la dureté dont ton coeur est formé,
+Je ne sais par quel charme Orondate est aimé,
+Mais à se voir chérir par une âme inhumaine
+Un amour de la sorte est pire que la haine,
+S'il était à son choix de m'en faire un retour,
+Il recevrait ta haine en donnant ton amour.
+
+Tu crois me le donner comme une grande peine
+Ton amour lui nuit plus que ne me nuit ta haine
+Quoiqu'en ta passion et ton ressentiment
+Tu ne puisses choquer l'ennemi ni l'amant,
+Et que dans cet état où chacun t'abandonne,
+Ils te laissent au point de ne nuire à personne.
+
+Dis qu'armant contre lui j'armai contre tes jours
+Ajoute-moi de là ce qu'ont fait tes amours,
+S'il faut que l'un de nous sur l'autre se contemple
+Vois que nous nous réglions sur un pareil exemple
+Si tu sens de l'horreur à t'égaler à moi,
+J'en rencontre encor plus à m'égaler à toi.
+
+Et quel crime ai-je fait que d'aimer une ingrate
+Outre ses attentats je te charge des miens,
+Mon amour.
+
+Et Roxane a causé les crimes que j'ai faits.
+
+Et de la tienne aussi tu portes le supplice
+Et le regret de voir échapper ton complice.
+
+Si mes voeux sont ouïs je désire en ma haine
+Que tu portes du mien et le blâme et la peine,
+Et pour tant de forfaits un supplice infini.
+
+À de plus grands tourments tu te vois réservée
+Puisque de tout espoir je te veux voir privée.
+
+À quelque peu d'espoir je me laisse emporter.
+
+D'un plaisir plus parfait ma vengeance se flatte.
+Parmi tous mes malheurs il m'en nait cet espoir
+De voir un jour tomber Roxane en mon pouvoir
+De lui faire souffrir de ma haine immortelle
+Tout ce que mon amour m'a fait endurer d'elle,
+Et par de grands mépris accroissant ses douleurs
+Quand elle pleurera sourire de ses pleurs,
+Où l'on doit me mener soldats qu'on me conduise.
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+
+Madame je suis libre et grâce aux ennemis.
+
+En effet les souhaits supposent l'impuissance
+Ces inutiles voeux dont vous vous prévalez
+Pendant notre prison nous ont mal consolés,
+C'est par d'autres moyens que je vous ai servie,
+Je vous sers tous les jours en hasardant ma vie,
+J'ai prodigué mon sang dans le dernier combat.
+
+Madame j'ai raison d'être mal satisfait.
+
+      Une importante affaire.
+
+Je demande Orondate et c'est ce qui m'amène,
+Cassander, Perdicas, disposez-y la Reine,
+Quoi tous deux étonnés est-ce ainsi qu'on me sert
+Malgré tous vos détours votre cour m'est ouvert.
+
+      Enfin tout se déclare
+Perdicas de quels yeux vous dois-je regarder.
+
+Je demande Orondate.
+
+      Ah Reine trop ingrate,
+Trop rusé Perdicas trop faible Cassander.
+
+Ah ! De tels Conseillers conseil bien assorti,
+Ah digne Partisan des fureurs d'une femme,
+Déguisé Perdicas elle a sondé votre âme,
+Elle a su pénétrer dedans vos sentiments,
+Mais vous avez tous deux les mêmes mouvements ;
+Et vous vous connaissez.
+
+Je ne veux rien devoir à vos faibles Conseils
+Et j'estime bien peu la foi de vos pareils,
+Perdicas entre nous je romps toute franchise,
+Je vous rends l'amitié que vous m'aviez promise,
+Et jusqu'au souvenir je m'en suis dépouillé.
+
+Je vous témoigne assez comme j'en fais mépris,
+Dès que votre amitié se glisse dans une âme,
+Elle y traîne après soi quelque chose d'infâme.
+
+      Ah ! Ce n'est pas assez,
+Je me saurai venger ?
+
+Tremblez-vous Cassander.
+
+Mes pareils devant vous sont toujours redoutables,
+Les vôtres devant moi ne peuvent m'étonner
+Et dans l'occasion savent m'abandonner,
+Vous attendez la mort à l'abri des murailles
+Pendant que je la cherche au milieu des batailles
+C'est vous mes déserteurs qui m'avez oublié,
+Avec qui mes malheurs m'aviez-vous allié.
+
+Ni vous ni Perdicas n'y devez point prétendre.
+Et ce nom glorieux est au-dessus de vous.
+
+Ce prétexte vous plaît de redouter la Reine.
+
+L'on me voit observer tout ce que j'ai promis,
+Et si votre Conseil ne relâche Orondate.
+
+Elle n'a rien pour moi de honteux ni de rude,
+Oui j'y veux retourner, mais bien accompagné,
+Vous vous repentirez de m'avoir dédaigné,
+Soldats que l'on me suive.
+
+Madame en un moment Orondate viendra
+J'ai de vous retirer d'un séjour plein d'alarmes,
+Et rempli des excès où vivaient des gens d'armes,
+Avec plus de repos vous serez en ces lieux.
+
+Ce serait un plaisir qui me ferait injure,
+Et s'il faut que ta mort m'acquière notre amant,
+Je le pense payer un peu trop chèrement.
+
+Ah je veux m'exposer.
+
+Prince vous m'offensez.
+
+Héros digne d'un coeur qu'eût le grand Alexandre
+Que même devant vous il n'eut osé prétendre,
+En vain votre malheur vous donne des rivaux.
+
+Je ne refuse point ma part de la victoire
+Néarchus comme moi prend part à cette gloire.
+
+Ah ! Prince employez mieux d'agréables moments
+Prince ces beaux instants veulent tout Orondate.
+
+C'est vous ?
+
+
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+
+Ma Princesse Orondate.
+
+      Ils sont défaits Madame.
+
+      Est en votre pouvoir.
+
+      Désirez-vous le voir.
+
+Je tairai la moitié de ce qu'ont fait nos Armes,
+Les assiégeants à peine approchent nos remparts
+Qu'on fit tomber sur eux une grêle de dards,
+Ils ont longtemps souffert la descente des flèches,
+Mais voulant s'efforcer d'y faire quelques brèches,
+On a vu leurs Béliers faciliter l'assaut
+Et leurs chefs de nos murs escalader le haut,
+Le long de nos créneaux ils plantaient leurs échelles,
+Et l'ardeur d'y voler leur fournissait des ailes,
+Comme ils en approchaient on les a repoussés,
+Et d'un tas de mourants comblé tous nos fossés :
+Le divin Orondate à qui ces grands obstacles
+Comme pour le tenter demandaient des Miracles,
+S'est fait voir tout-puissant aux esprits curieux,
+Et nous a fait paraître un démon à nos yeux,
+Nos soldats effrayés de cette contenance
+Ont longtemps évité sa fatale présence,
+Et demeurant frappés d'un long étonnement,
+Ils le considéraient sans aucun mouvement ;
+Ils imputaient ses faits à la seule magie
+Quand ce Prince honteux de cette Léthargie
+Dissipa par ses coups leur assoupissement,
+Et leur vint redonner leur premier sentiment,
+Tous ceux que cet objet avait rendus stupides
+Le voyant délaissé devinrent moins timides,
+Il reçut sur les bras un monde d'ennemis.
+
+Par un grand accident sa valeur fut trompée.
+
+      Son malheur voulut qu'il rompit son épée
+De ce tronçon sanglant qui restait en sa main
+Il fit des actions qui surpassent l'humain
+Dans son grand désespoir il était formidable :
+Mais se sentant pressé d'une foule innombrable
+En vain il se raidit contre tout ce torrent
+Le grand nombre l'entoure il l'accable et le prend,
+Et désarmé qu'il est, le peuple l'environne
+Il admire en tremblant cette fière personne,
+Lui sans s'épouvanter s'arrête à chaque pas
+Et donne des frayeurs qu'il ne recevait pas,
+Je m'approche de lui je reprends ces idées
+Que mon peu de mémoire avait si bien gardées,
+J'unis tous ces rapports, j'assemble tous ses traits
+Et mon âme courant de portraits en portraits
+En le cherchant dans lui je rencontre Orondate,
+Comme en me contemplant il se figure Arbate,
+Il détourne en courroux les yeux de dessus moi
+Et trouve que ma vue est indigne de soi,
+Je demande aux soldats tous fiers de cette proie
+Où l'ordre qu'ils ont eu le retient et l'envoie,
+À Perdicas dit l'un.
+
+      Je les en prie aussi,
+Je leur ai conseillé de venir chez la Reine.
+Enfin sur mon avis, Néander vous l'amène
+Il arrive bientôt désirez-vous le voir.
+Voulez-vous.
+
+Je m'en vais obéir à ce commandement.
+
+      J'obéis de ce pas.
+
+Seigneur il faut finir.
+
+Ah ! Considérez-vous d'un regard plus remis,
+Vos ennemis communs en prendront avantage.
+
+Quel crime avez-vous fait à mériter la foudre.
+
+Les Gardes du Palais sont partout redoublés,
+Et dix mille soldats qu'au besoin l'on conserve.
+
+J'obéis.
+
+J'ai fait tout assembler le Grec et le Barbare,
+Et comme aux grands emplois ils se laissent ravir
+Ils briguent à l'envie l'honneur de vous servir.
+
+Il pourrait bien former une entreprise égale,
+
+J'ai vu sous les drapeaux tous ceux de son parti.
+
+Madame ma frayeur avait quelque apparence.
+
+      Votre ennemi s'avance.
+
+Cassander Perdicas que leur amour emporte
+Ont saisi du Palais et l'enceinte et la porte,
+Et déjà par le sang que leurs coups ont versé
+Jusque dedans la Cour ils auront traversé,
+Ils viennent dans vos bras massacrer Orondate.
+
+Ah Madame songez.
+
+Son coeur reprend sa force elle ouvre encor les yeux
+
+      Ah ! Craignez leur rigueur,
+Dedans l'aveuglement où les porte leur rage
+Ces amis révoltés vous feraient quelque outrage
+Ils ne verraient en vous ni mérite ni rang.
+
+Ils le veulent avoir.
+
+      Et c'est là mon envie,
+Dussé-je rencontrer la mort dessus mes pas
+Puisqu'il faut vous servir je vole à mon trépas.
+
       Expirer à tes yeux,
 C'est de mes trahisons la digne récompense
 Et la fin de ma vie attendait ta présence,
@@ -2449,10 +2438,6 @@ Et s'étant figuré tous leurs contentements
 Ne pouvoir plus choquer l'heure de ces deux amants
 Vous Prince puis-je avoir un pardon de mon maître.
 
--*who_oroondate
-Ce nom ne m'est plus doux dans la bouche d'un traître.
-
--*who_arbate
 Vos furieux rivaux sont entrés dans la Cour
 Où ces jaloux amants célèbrent leur amour,
 Je viens de leur servir de première victime,
@@ -2461,114 +2446,65 @@ Je meurs et pour finir je cherche d'autres lieux
 Mon front sent de la honte à mourir à vos yeux,
 Et mon coeur de l'horreur à mourir devant elle.
 
-**** *book_ *id_IV12 *act_IV *date_1646
 
--*who_oroondate
-Ah ! Fin digne de lui, digne d'un infidèle,
-Roxane qu'attends-tu.
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hezionne
 
--*who_roxane
-      Faut-il enfin céder
-Je ne puis te quitter et ne puis te garder,
-Fatale extrémité.
+      Il faut vivre Madame.
 
--*who_oroondate
-      Fais-moi rendre mes armes.
+Les Dieux dessus ce rang vous ont bien affermie.
 
--*who_roxane
-Permets qu'auparavant je les baigne de larmes,
-Et que dedans l'instant que me donne ton sort
-Je te donne en tremblant les après de ta mort,
-Mort je sens que ma main refuse cet office
-Hézionne rendez-lui ce funeste service.
+Madame Perdicas ?
 
--*who_hezionne
+Ici Seigneur.
+
+Quoi Seigneur ?
+
+La Reine en un moment vous va rendre visite.
+
+Votre âme est-elle née à souffrir cet outrage.
+
+Que cet effort est beau que vous faites sur vous.
+
+Il vous est bien honteux de languir dans ses chaînes.
+
+Perdicas entre ici composez-vous Madame
+N'envoyez point aux yeux l'émotion de l'âme.
+
+Vous verrez Statira.
+
+Voici la Reine.
+
+      C'est votre Statira.
+
+Pour moi comme pour lui cet ordre est un mystère.
+
+Parlez-vous d'Orondate ?
+
+      N'attendez point de grâce
+Ne vous exposez plus.
+
+      Est toujours invincible,
+Au moins en votre endroit est-il toujours égal
+J'ai trouvé ce Héros qui dévorait son mal,
+Mais quelque fermeté qu'ait montrée son visage
+J'ai vu sur lui des traits de tristesse et de rage,
+Ce coeur auparavant plus fort que ses malheurs
+Semblait s'humilier sous ses grandes douleurs,
+Son âme frémissant sous un si grand martyre
+Comme pour s'exhaler de temps en temps soupire.
+
+      Elle expire grands Dieux.
+
 Donnez-moi ma Princesse un plus sortable emploi.
 
--*who_roxane
-Hé bien l'événement n'en sera dû qu'à moi,
-S'il y meurt je n'en suis qu'une cause parfaite
-Puisque ses volontés auront fait sa défaire,
-Et si de ce combat il peut sortir vainqueur
-Ma main l'ayant armée en aura tout l'honneur,
-Tiens voilà ton épée : ah ! Que je suis émue.
-
--*who_oroondate
-Roxane ce bienfait.
-
--*who_roxane
-      Ôte-toi de ma vue
-Sans me montrer ta fuite abandonne ce lieu
-Et ne me force point à te faire un adieu,
-Je le pense éternel si j'en crois mes alarmes.
-
--*who_oroondate
-Si les Dieux.
-
--*who_roxane
-      Laisse agir mes soupirs et mes larmes.
-
--*who_oroondate
-Ô Dieux qui dans mon coeur mettez tant de pitié
-Puisqu'un autre a l'amour qu'elle ait mon amitié.
-
-**** *book_ *id_IV13 *act_IV *date_1646
-
--*who_roxane
-Allons mon Hézionne enlever ma rivale.
-
--*who_hezionne
 Et des mains d'un amant.
 
--*who_roxane
-      Notre force est égale,
-Allons faire assembler mes soldats et les leurs
-Voici l'instant fatal d'où pendent nos malheurs,
-Et nos dissensions font tomber sur nos têtes
-Tout ce que nos amours ont formé de tempêtes,
-Cassander me ruine et je le détruirai
-Perdicas m'a perdue et moi je le perdrai,
-Et joignant de tous trois et la peine et le crime
-Nous nous allons traîner tous trois dans un abîme
-Que si je puis garder quelque force en tombant
-Et sentir d'un moment ma chute en succombant,
-Dans ce funeste instant qu'il faut que je périsse
-J'entraîne ma rivale au même précipice,
-Ou cherchant à nous nuire un éternel appas
-Nous nous contesterons ce que nous n'aurons pas,
-Ou traitant notre amant et de nôtre et de nôtre
-Il ne sera le prix ni de l'un ni de l'autre,
-Et cependant nos cours et jaloux et cruels
-D'un coeur imaginaire en viendront aux réels
-Et revivant sur eux toute leur jalousie,
-Se verront déchirés avec tant de furie,
-Que nos courroux cessant faute d'avoir des cours
-Manque d'objets de haine ils perdront leurs rigueurs.
-
--*who_hezionne
 Mais de tous les côtés vous êtes assaillie
 Et de vos ennemis la coeur étant remplie,
 Il sera malaisé de pouvoir échapper.
 
--*who_roxane
-Si peu de combattants ne peut m'envelopper
-Et d'ailleurs mes soldats sont encore en défense
-Pour les fortifier donnons-leur ma présence,
-Et si quelque chemin se présente à nos yeux
-Allons, allons porter la guerre en d'autres lieux.
-
-**** *book_ *id_V01 *act_V *date_1646
-
--*who_roxane
-Voir faire mon tombeau du lieu de mon asile.
-
--*who_hezionne
 À pas de conquérants ils marchent dans la ville.
 
--*who_roxane
-Mes ennemis y sont.
-
--*who_hezionne
       Ils en sont possesseurs,
 Artaxerxe en courroux y demandent ses sours,
 Et traînant à sa suite et le fer et la flamme
@@ -2584,10 +2520,6 @@ Et jusqu'à tel excès sa rage s'est accrue,
 Que tel qui se rencontre au-devant de ses pas
 Semble à ce furieux un autre Perdicas.
 
--*who_roxane
-Sais-tu par quel secret ils ont gagné la ville.
-
--*who_hezionne
 Son entrée aux vainqueurs ne fut pas difficile,
 Puisque Séleucus dessus tous nos remparts
 Fit planter par les siens grand nombre d'étendards
@@ -2598,15 +2530,6 @@ Et ceux de Perdicas les avaient imités,
 De façon que nos murs défendus par des traîtres
 Il leur fut bien aisé de s'en rendre les maîtres.
 
--*who_roxane
-Ah ! Qu'une âme amoureuse agit imprudemment
-Laisser Séleucus dans son ressentiment,
-Réflexion mortelle aussi bien qu'inutile
-Il le fallait contraindre à sortir de la ville,
-Mais de quelque dépit dont il fut enflammé
-Sans nos divisions il n'aurait point armé.
-
--*who_hezionne
 Aussi dans un instant sa trame fut hardie
 On vit son entreprise aussi prompte qu'ardie,
 Pendant que Cassander suivi de Perdicas
@@ -2630,511 +2553,12 @@ Ils commencent ensemble, un combat de rivaux
 Et suivant les endroits où l'ardeur les emporte
 Ils quittent du Palais et l'enceinte et la porte.
 
--*who_roxane
-Tu sais qu'à ce moment nous sortîmes d'ici
-Que nous prîmes tous deux un différent souci,
-Toi de voir du combat l'épouvantable issue
-Et moi d'exécuter l'entreprise conçue,
-D'abord cinq cent soldats s'étant offerts à moi
-J'allai chez ma rivale y porter mon effroi,
-Et ne pouvant ravoir le tout de ce que j'aime
-Recouvrer pour le moins une part de lui-même,
-J'y commence un combat tel que voulait l'amour
-Après de grands efforts enfin tout m'y fait jour,
-Ma rivale montant sur une galerie,
-Regarde avec sa sour d'où vient cette furie,
-Et me voyant entrer le flambeau dans la main
-Ces esprits effrayés devinent mon dessein,
-Je monte un escalier qui me rendait vers elle
-Quand un nombre de voix et l'étonne et m'appelle
-Elle va dans sa chambre attendre son trépas
-Et moi d'un pied tremblant je redescends en bas,
-Où je trouve d'abord toute la Cour en armes
-Je vois Séleucus plus fort que mes gendarmes.
-Ainsi dans un moment je changeai de destin
-Et fus presque sa proie en quittant mon burin
-Je m'échappai pourtant et cherchant un asile
-J'ai presque traversé tous les lieux de la ville,
-Enfin ayant erré parmi tant de détours
-Dans mon premier Palais j'eus mon dernier recours
-Et puisqu'il plait au Ciel que j'ai pu te rejoindre
-Malgré tous ses excès ma douleur en est moindre.
-
--*who_hezionne
 Madame l'ennemi pourrait être forcé
 Et jusque dans son camp peut être repoussé.
 
--*who_roxane
-Du sort de Péricas n'as-tu pu rien attendre.
-
--*who_hezionne
 Ni moins de Cassander.
 
--*who_roxane
-      Roxane il se faut rendre.
-
--*who_hezionne
 À qui vous rendrez-vous.
 
--*who_roxane
-      C'est à moi seulement
-Je suis encor la même après ce changement,
-Et quoique tu sois seule auprès de ma personne
-J'attends pour m'effrayer que l'amour m'abandonne,
-Roxane qu'attends-tu quel doit être ton sort
-Amour de quelle main dois-je attendre la mort,
-Si de quelque bonheur tu veux que je me flatte
-Fais-moi la recevoir de la main d'Orondate,
-Plût aux Dieux que le sort l'amena dans ces lieux,
-Et qu'il fut le premier qui s'offrit à mes yeux,
-Ah ! De tous les objets le plus épouvantable.
-
-**** *book_ *id_V02 *act_V *date_1646
-
--*who_cassander
-Soldats c'est mal traiter un Prince déplorable
-Vous avez seulement l'ordre de me garder,
-Où me conduisez-vous ?
-
--*who_roxane
-      Arrête Cassander
-Donne-moi le loisir de te voir misérable.
-
--*who_cassander
-Cruelle mon malheur t'est-il donc agréable.
-Barbare ce spectacle est digne de tes yeux.
-
--*who_roxane
-Aussi si j'en jouis j'en rends grâces aux Dieux.
-
--*who_cassander
-Ils ont mis dans ton corps une âme bien horrible
-Je pense qu'à toi-même ils t'aient faite insensible,
-Et dans la dureté dont ton coeur est formé,
-Je ne sais par quel charme Orondate est aimé,
-Mais à se voir chérir par une âme inhumaine
-Un amour de la sorte est pire que la haine,
-S'il était à son choix de m'en faire un retour,
-Il recevrait ta haine en donnant ton amour.
-
--*who_roxane
-Hé bien c'est mon destin il faut que je l'adore
-Que mon coeur l'idolâtre et que mon coeur t'abhorre
-Et de mes passions sans faire aucun retour
-Que tu gardes la haine et qu'il garde l'amour.
-
--*who_cassander
-Tu crois me le donner comme une grande peine
-Ton amour lui nuit plus que ne me nuit ta haine
-Quoiqu'en ta passion et ton ressentiment
-Tu ne puisses choquer l'ennemi ni l'amant,
-Et que dans cet état où chacun t'abandonne,
-Ils te laissent au point de ne nuire à personne.
-
--*who_roxane
-Je ne prends aucun droit dessus ta liberté
-C'est au vainqueur à voir comme tu l'as traité,
-Qu'ayant d'ici manqué ta première entreprise
-Ton amour a mêlé l'audace à la surprise,
-Que dans ta jalousie intéressant l'état
-On t'a vu retomber dans un autre attentat,
-Et s'étant obstiné dans ta première envie,
-Pour la seconde fois t'armer contre sa vie.
-
--*who_cassander
-Dis qu'armant contre lui j'armai contre tes jours
-Ajoute-moi de là ce qu'ont fait tes amours,
-S'il faut que l'un de nous sur l'autre se contemple
-Vois que nous nous réglions sur un pareil exemple
-Si tu sens de l'horreur à t'égaler à moi,
-J'en rencontre encor plus à m'égaler à toi.
-
--*who_roxane
-Quel crime ai-je commis que d'aimer Orondate.
-
--*who_cassander
-Et quel crime ai-je fait que d'aimer une ingrate
-Outre ses attentats je te charge des miens,
-Mon amour.
-
--*who_roxane
-      Je ne veux aucune part aux tiens,
-Mais suivant les raisons que ton amour propose
-De tous mes attentats Orondate est la cause.
-
--*who_cassander
-Et Roxane a causé les crimes que j'ai faits.
-
--*who_roxane
-De cette passion tu ressens les effets.
-
--*who_cassander
-Et de la tienne aussi tu portes le supplice
-Et le regret de voir échapper ton complice.
-
--*who_roxane
-Aux peines de mon crime engager mon amant
-Ah qu'il en ait le blâme et non le châtiment.
-
--*who_cassander
-Si mes voeux sont ouïs je désire en ma haine
-Que tu portes du mien et le blâme et la peine,
-Et pour tant de forfaits un supplice infini.
-
--*who_roxane
-L'on voit le criminel par le premier puni.
-
--*who_cassander
-À de plus grands tourments tu te vois réservée
-Puisque de tout espoir je te veux voir privée.
-
--*who_roxane
-S'il ne m'en reste aucun oses-tu t'en flatter.
-
--*who_cassander
-À quelque peu d'espoir je me laisse emporter.
-
--*who_roxane
-Crois-tu me devenir un second Orondate.
-
--*who_cassander
-D'un plaisir plus parfait ma vengeance se flatte.
-Parmi tous mes malheurs il m'en nait cet espoir
-De voir un jour tomber Roxane en mon pouvoir
-De lui faire souffrir de ma haine immortelle
-Tout ce que mon amour m'a fait endurer d'elle,
-Et par de grands mépris accroissant ses douleurs
-Quand elle pleurera sourire de ses pleurs,
-Où l'on doit me mener soldats qu'on me conduise.
-
-**** *book_ *id_V03 *act_V *date_1646
-
--*who_gardes
-Madame il ne se peut qu'on vous laisse en franchise,
-Souffrez pour vous garder que je demeure ici.
-
--*who_roxane
-Je n'y recule pas je n'ai point ce souci,
-Demeure à me garder, j'y consens quel outrage
-As-tu bien écouté cet horrible présage,
-Qu'a-t-il dit Hézionne avons-nous pu l'ouïr.
-
--*who_hezionne
 Ce sont des passetemps dont il ne peut jouir.
 
--*who_roxane
-Il ne me manque plus que de voir ma rivale
-Séleucus l'amène ô présence fatale,
-Après un Cassander arrive Statira.
-
-**** *book_ *id_V04 *act_V *date_1646
-
--*who_seleucus
-Madame en un moment Orondate viendra
-J'ai de vous retirer d'un séjour plein d'alarmes,
-Et rempli des excès où vivaient des gens d'armes,
-Avec plus de repos vous serez en ces lieux.
-
--*who_statira
-L'un et l'autre Palais sont l'horreur de mes yeux
-L'un est à Perdicas l'autre à mon ennemie
-Chaque hôte à sa maison prête son infamie,
-Et bien loin que mes yeux trouvent des appas
-J'y crois toujours trouver Roxane ou Perdicas.
-
--*who_roxane
-Tu me vois, tu me vois, rivale trop heureuse
-Toujours infortunée et toujours amoureuse,
-Mais dans la passion que j'ai pour notre amant
-Te céder à regret tout mon contentement,
-Bien qu'à te le laisser mon coeur me sollicite
-Ce n'est qu'à la mort à qui le mien le quitte
-Au moins prends patience et dans tes prompts désirs,
-Avant que me l'ôter vois mes derniers soupirs,
-Et d'un oeil attentif regardant leur sortie
-Attends que de mon corps mon âme soit partie,
-Et que moins indignée en délaissant le jour,
-Que dedans le regret de perdre notre amour
-Ne le pouvant garder elle te l'abandonne.
-
--*who_statira
-Ah ! Reine malheureuse.
-
--*who_roxane
-      Hé bien mon sort t'étonne,
-Est-il d'une nature à te faire pitié.
-
--*who_statira
-Reine dépouillons-nous de notre inimitié,
-Et te traitant de sour permets que je t'embrasse.
-
--*who_roxane
-Encor pleine d'amour je refuse ta grâce,
-Ta libéralité marque assez ta rigueur
-Ce n'est point sans secret que m'offres ton coeur,
-Puisque ne pensant pas que je te sois ingrate
-Tu prétends par ce don t'acquérir Orondate
-Et forcer ta rivale à t'en faire un présent
-N'espère point de moi cet aveu complaisant,
-Quoique ton amitié me soit considérable
-À celui que tu veux tu n'es pas comparable,
-Bien que mon coeur qui suit ses moindres mouvements,
-Mette mes yeux d'accord avec ces sentiments
-Et que leur arrachant un aveu légitime
-Il te juge avec eux digne de son estime.
-
--*who_statira
-Je ne veux rien devoir à mon peu de beauté
-Elle n'a point agi dessus sa liberté,
-S'il croit trouver en moi les appas qu'il évite
-C'est son aveuglement et non pas mon mérite,
-Je ne suis point si vaine et je pense qu'en toi
-Il aurait rencontré ce qu'il recherche en moi.
-
--*who_roxane
-Non, non, jouis d'un bien que ma mort te procure.
-
--*who_seleucus
-Ce serait un plaisir qui me ferait injure,
-Et s'il faut que ta mort m'acquière notre amant,
-Je le pense payer un peu trop chèrement.
-
--*who_roxane
-Non, non, par mon trépas il faut que je te laisse
-Et du monde et de lui la paisible maîtresse
-Règne donc ma rivale et donne à tous des fers,
-Prends Empire sur lui comme sur l'univers,
-De même qu'en amante en veuve d'Alexandre,
-Dispose de deux biens que je t'ai voulu rendre,
-Mais de ces deux présents gardant le plus parfait
-Daigne remercier celle qui te le fait,
-Et recevant de moi cette faveur insigne
-Confesse qu'après toi j'en étais seule digne.
-
--*who_statira
-Aussi de ces deux dons te rendant la moitié
-Mon Orondate et moi t'offrons notre amitié.
-
--*who_roxane
-Ou l'amour ou la mort point de milieu Princesse
-Et comme d'un côté mon espérance cesse,
-Comme l'un de ces choix n'est que dans mon pouvoir,
-Reine ce n'est qu'à moi que je le veux devoir,
-J'en ferai par ma mort une perte éclatante
-Tiens Reine ce poignard te va rendre contente.
-
--*who_seleucus
-Ah je veux m'exposer.
-
--*who_roxane
-      N'approche point de moi,
-Ou mon ressentiment agirait dessus toi,
-Ne force point mes yeux d'aller sur ta personne
-Et d'y considérer l'horreur qu'elle me donne.
-
--*who_statira
-Amante furieuse où portes-tu tes coups
-Arrête.
-
--*who_roxane
-      Mais toi-même évite mon courroux,
-Veux-tu rendre mes yeux les témoins de ta joie
-Qu'avecque ton amant ta rivale te voie,
-Et que se figurant tous vos contentements
-Connus aux seuls jaloux ou bien aux seuls amants
-Elle ait le déplaisir d'être à votre hyménée
-Faut-il par ta rigueur qu'elle y soit condamnée,
-Qu'elle ajoute au regret qu'elle a de le savoir
-La seconde douleur qu'elle aurait de le voir,
-Prévenons par ma mort.
-
-**** *book_ *id_V05 *act_V *date_1646
-
--*who_oroondate
-      Que fais-tu furieuse ;
-Donne-moi ce poignard.
-
--*who_roxane
-      Amante malheureuse,
-T'est-il donc ordonné de ne pouvoir mourir
-Et qui cause ta mort te vient-il secourir.
-
--*who_oroondate
-Je te rends la faveur que tu m'avais prêtée
-Et je crois qu'envers toi mon âme est acquittée.
-
--*who_statira
-Madame dans l'excès de mon contentement
-Laissez dire à mes yeux mon premier compliment.
-
--*who_roxane
-Ah ! Souffre que je meurs ou que je me retire.
-
--*who_oroondate
-Oui tu peux de ce pas rentrer dans ton Empire,
-La Grèce est toute à toi je t'y laisse régner.
-
--*who_roxane
-Adieu cruels.
-
--*who_oroondate
-      Soldats allez l'accompagner,
-Ne l'abandonnez point, combattez son envie,
-
--*who_roxane
-Oui pour te traverser je garderai la vie,
-Et puisque tu le veux je reverrai le jour
-À dessein que mon nom trouble encor ton amour,
-Que si ma passion me veut être fidèle
-Je vais prier les Dieux de me rendre immortelle,
-Et puisqu'à vous troubler je trouve mes appas
-Je vous verrai mourir et je ne mourrai pas.
-
-**** *book_ *id_V06 *act_V *date_1646
-
--*who_oroondate
-Que je rentre en l'extase où m'entraîne ma flamme,
-Et que par des transports où s'élève mon âme,
-Capables d'épuiser tous les discours humains
-Je semble en ce baiser la laisser sur vos mains.
-
--*who_statira
-Le désordre où je suis cause votre licence
-Et mon âme en aveu convertit mon silence,
-Vous me ferez rougir, mon Prince levez-vous.
-
--*who_oroondate
-Souffrez sans que vos yeux en deviennent jaloux
-Et sans que vos beautés en perdent leur hommage
-Qu'avec Séleucus mon âme se partage,
-Ah ! Prince généreux divin Séleucus
-Digne des sentiments qu'en eût Lysimachus
-Et de la liberté qu'il reçut d'Artaxerxe
-Vous sauvez le débris de la maison de Perse,
-Et votre bras l'ôtant des mains d'un ravisseur
-Orondate à sa Reine, Artaxerxe à sa sour,
-Permettez qu'à vos pieds je vous en rende grâce.
-
--*who_seleucus
-Prince vous m'offensez.
-
--*who_oroondate
-      Donc que je vous embrasse
-Et que mon coeur troublé pour la seconde fois
-Fasse faire à mes bras l'office de ma voix.
-
--*who_seleucus
-Héros digne d'un coeur qu'eût le grand Alexandre
-Que même devant vous il n'eut osé prétendre,
-En vain votre malheur vous donne des rivaux.
-
--*who_oroondate
-C'est par vous que je suis au bout de mes travaux.
-
--*who_seleucus
-Je ne refuse point ma part de la victoire
-Néarchus comme moi prend part à cette gloire.
-
--*who_oroondate
-Ah confondons nos cours dans nos embrassements.
-
--*who_seleucus
-Ah ! Prince employez mieux d'agréables moments
-Prince ces beaux instants veulent tout Orondate.
-
--*who_oroondate
-Mon âme en ces moments se défie et se flatte,
-Et tous mes sens frappés par ce divin aspect
-Si prêts de tout oser conservent leur respect.
-
--*who_statira
-Orondate parlez.
-
--*who_oroondate
-      L'oserai-je Madame.
-
--*who_statira
-Je le veux.
-
--*who_oroondate
-      Ah ! Mes yeux faites-lui voir mon âme
-Il est mort de mes mains cet insolent rival
-Que sa présomption avait fait notre égal,
-Enfin de trois rivaux je suis le seul qui reste
-Donnez-moi, mais ma perte est ici manifeste,
-Je n'ose.
-
--*who_statira
-      Achevez, que me demandez-vous.
-
--*who_oroondate
-Un pardon.
-
--*who_statira
-      Quoi de plus.
-
--*who_oroondate
-      Je l'attends à genoux.
-
--*who_statira
-De quel crime Seigneur voulez-vous votre grâce.
-
--*who_oroondate
-De ma témérité.
-
--*who_statira
-      Je souffre votre audace.
-Et de cette façon que vous voulez agir
-Votre indiscrétion me ferait moins rougir.
-Parlez ?
-
--*who_oroondate
-      Le voulez-vous.
-
--*who_statira
-      Oui je vous le commande.
-
--*who_oroondate
-Mais m'accorderez-vous le don que je demande.
-
--*who_statira
-Oui mon Prince espérez.
-
--*who_oroondate
-      Ah ! C'est trop hasarder.
-
--*who_statira
-Cruel expliquez-vous.
-
--*who_oroondate
-      Vous puis-je posséder.
-Hé bien serais-je heureux dites-le moi Madame.
-
--*who_statira
-Orondate à la fin rentre dedans mon âme,
-Mon Alexandre est mort enfin je suis à vous.
-
--*who_oroondate
-Ô Dieux de mon bonheur n'êtes-vous point jaloux
-Qu'on dise à Cassander de rentrer dans ses terres
-Et pour tous les États conquis durant nos guerres
-J'en laisse le partage au grand Séleucus.
-
--*who_seleucus
-C'est vous ?
-
--*who_oroondate
-      Consultez-vous avec Lysimachus.
-Et quand à ma fortune et celle d'Artaxerxe
-Nous renonçons tous deux à l'Empire de Perse,
-Et montant sur un rang qu'ont tenu mes aïeux
-Avec ma Statira je m'égale à nos Dieux.
-
--*who_statira
-J'ai tout avec vous.
-
--*who_oroondate
-      Allons quitter les armes
-Et delà contemplant vos agréables charmes,
-Mourir dans des transports qu'on ne peut exprimer
-Et qui ne sont connus que de qui sait aimer.

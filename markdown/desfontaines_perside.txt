@@ -1,6 +1,6 @@
 ---
 identifier: desfontaines_perside  
-creator: Desfontaines, Nicolas  
+creator: Desfontaines, Nicolas ; Georges Forestier.  
 date: 1644  
 title: Perside, ou la Suite d'Ibrahim Bassa. Tragédie.  
 ---

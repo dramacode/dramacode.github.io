@@ -1,2230 +1,1322 @@
 
 
-**** *book_ *id_a *date_1669 *creator_moliere
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
 
-Prologue
+Hé bien, quoi ? qu'est-ce ? qu'y a-t-il ? Au diantre soit la sotte Ville, et les sottes Gens qui y sont : ne pouvoir faire un pas sans trouver des Nigauds qui vous regardent, et se mettent à rire ! Eh, Messieurs les Badauds, faites vos affaires, et laissez passer les Personnes sans leur rire au nez. Je me donne au Diable, si je ne baille un coup de poing au premier que je verrai rire.
 
--*who_voix1
-Répands, charmante nuit, répands sur tous les yeux,
-De tes pavots la douce violence,
-Et ne laisse veiller en ces aimables lieux
-Que les cœurs que l'Amour soumet à sa puissance.
-Tes ombres et ton silence
-Plus beau que le plus beau jour,
-Offrent de doux moments à soupirer d'amour.
-
--*who_voix2
-Que soupirer d'amour
-Est une douce chose,
-Quand rien à nos voeux ne s'oppose !
-À d'aimables penchants notre cœur nous dispose,
-Mais on a des Tyrans à qui l'on doit le jour :
-Que soupirer d'amour
-Est une douce chose,
-Quand rien à nos vœux ne s'oppose !
-
--*who_voix3
-Tout ce qu'à nos vœux on oppose,
-Contre un parfait amour ne gagne jamais rien ;
-Et pour vaincre toute chose,
-Il ne faut que s'aimer bien.
-
--*who_voix1_voix2_voix3
-Aimons-nous donc d'une ardeur éternelle,
-Les rigueurs des Parents, la contrainte cruelle,
-L'absence, les travaux, la fortune rebelle,
-Ne font que redoubler une amitié fidèle :
-Aimons-nous donc d'une ardeur éternelle.
-Quand deux cœurs s'aiment bien,
-Tout le reste n'est rien.
-
-**** *book_ *id_I01 *act_I *date_1669 *creator_moliere
-
--*who_julie
-Mon Dieu, Éraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble ; et tout serait perdu, après la défense que l'on m'a faite.
-
--*who_eraste
-Je regarde de tous côtés, et je n'aperçois rien.
-
--*who_julie
-Aie aussi l'œil au guet, Nérine, et prends bien garde qu'il ne vienne personne.
-
--*who_nerine
-Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.
-
--*who_julie
-Avez-vous imaginé pour notre affaire quelque chose de favorable ? et croyez-vous, Éraste, pouvoir venir à bout de détourner ce fâcheux Mariage que mon Père s'est mis en tête ?
-
--*who_eraste
-Au moins y travaillons-nous fortement ; et déjà nous avons préparé un bon nombre de Batteries pour renverser ce dessein ridicule.
-
--*who_nerine
-Par ma foi, voilà votre Père !
-
--*who_julie
-Ah séparons-nous vite.
-
--*who_nerine
-Non, non, non, ne bougez, je m'étais trompée.
-
--*who_julie
-Mon Dieu, Nérine, que tu es sotte, de nous donner de ces frayeurs !
-
--*who_eraste
-Oui, belle Julie, nous avons dressé pour cela quantité de Machines, et nous ne feignons point de mettre tout en usage, sur la permission que vous m'avez donnée.Ne nous demandez point tous les ressorts que nous ferons jouer, vous en aurez le divertissement ; et comme aux Comédies, il est bon de vous laisser le plaisir de la surprise, et de ne vous avertir point de tout ce qu'on vous fera voir, c'est assez de vous dire que nous avons en main divers stratagèmes tous prêts à produire dans l'occasion, et que l'ingénieuse Nérine et l'adroit Sbrigani entreprennent l'affaire.
-
--*who_nerine
-Assurément.Votre Père se moque-t-il de vouloir vous anger de son Avocat de Limoges, Monsieur de Pourceaugnac, qu'il n'a vu de sa vie, et qui vient par le Coche vous enlever à notre barbe ?
-Faut-il que trois ou quatre mille écus de plus, sur la parole de votre Oncle, lui fassent rejeter un Amant qui vous agrée ?
-Et une Personne comme vous, est-elle faite pour un Limosin ?
-S'il a envie de se marier, que ne prend-il une Limosine, et ne laisse-t-il en repos les Chrétiens ?
-Le seul nom de Monsieur de Pourceaugnac m'a mis dans une colère effroyable.J'enrage de Monsieur de Pourceaugnac.Quand il n'y aurait que ce nom-là, Monsieur de Pourceaugnac, j'y brûlerai mes Livres, ou je romprai ce Mariage, et vous ne serez point Madame de Pourceaugnac.Pourceaugnac ! cela se peut-il souffrir ?
-Non, Pourceaugnac est une chose que je ne saurais supporter, et nous lui jouerons tant de pièces, nous lui ferons tant de niches sur niches, que nous renverrons à Limoges Monsieur de Pourceaugnac.
-
--*who_eraste
-Voici notre subtil Napolitain, qui nous dira des nouvelles.
-
-**** *book_ *id_I02 *act_I *date_1669 *creator_moliere
-
--*who_sbrigani
-Monsieur, votre Homme arrive, je l'ai vu à trois lieues d'ici, où a couché le Coche ; et dans la Cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par cœur.
-Pour sa figure, je ne veux point vous en parler, vous verrez de quel air la Nature l'a dessinée, et si l'ajustement qui l'accompagne y répond comme il faut : mais pour son Esprit, je vous avertis par avance qu'il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu'il est Homme enfin à donner dans tous les panneaux qu'on lui présentera.
-
--*who_eraste
-Nous dis-tu vrai ?
-
--*who_sbrigani
-Oui, si je me connais en Gens.
-
--*who_nerine
-Madame, voilà un Illustre, votre affaire ne pouvait être mise en de meilleures mains, et c'est le Héros de notre Siècle pour les exploits dont il s'agit : Un Homme qui vingt fois en sa vie pour servir ses Amis, a généreusement affronté les Galères ; qui au péril de ses bras et de ses épaules, sait mettre noblement à fin les aventures les plus difficiles ; et qui, tel que vous le voyez, est exilé de son Pays pour je ne sais combien d'actions honorables qu'il a généreusement entreprises.
-
--*who_sbrigani
-Je suis confus des louanges dont vous m'honorez, et je pourrais vous en donner avec plus de justice sur les merveilles de votre vie ; et principalement sur la gloire que vous acquîtes, lorsqu'avec tant d'honnêteté vous pipâtes au jeu, pour douze mille écus, ce jeune Seigneur étranger que l'on mena chez vous ; lorsque vous fîtes galamment ce faux Contrat qui ruina toute une Famille ; lorsque avec tant de grandeur d'âme vous sûtes nier le dépôt qu'on vous avait confié ; et que si généreusement on vous vit prêter votre témoignage à faire pendre ces deux Personnes qui ne l'avaient pas mérité.
-
--*who_nerine
-Ce sont petites bagatelles qui ne valent pas qu'on en parle, et vos éloges me font rougir.
-
--*who_sbrigani
-Je veux bien épargner votre modestie ; laissons cela ; et pour commencer notre affaire, allons vite joindre notre Provincial, tandis que de votre côté vous nous tiendrez prêts au besoin les autres Acteurs de la Comédie.
-
--*who_eraste
-Au moins, Madame, souvenez-vous de votre Rôle ; et pour mieux couvrir notre jeu, feignez, comme on vous a dit, d'être la plus contente du monde des résolutions de votre Père.
-
--*who_julie
-S'il ne tient qu'à cela, les choses iront à merveille.
-
--*who_eraste
-Mais, belle Julie, si toutes nos Machines venaient à ne pas réussir ?
-
--*who_julie
-Je déclarerai à mon Père mes véritables sentiments.
-
--*who_eraste
-Et si contre vos sentiments il s'obstinait à son dessein ?
-
--*who_julie
-Je le menacerais de me jeter dans un Convent.
-
--*who_eraste
-Mais si malgré tout cela il voulait vous forcer à ce Mariage ?
-
--*who_julie
-Que voulez-vous que je vous dise ?
-
--*who_eraste
-Ce que je veux que vous me disiez ?
-
--*who_julie
-Oui.
-
--*who_eraste
-Ce qu'on dit quand on aime bien.
-
--*who_julie
-Mais quoi ?
-
--*who_eraste
-Que rien ne pourra vous contraindre, et que malgré tous les efforts d'un Père, vous me promettez d'être à moi.
-
--*who_julie
-Mon Dieu, Éraste, contentez-vous de ce que je fais maintenant, et n'allez point tenter sur l'avenir les résolutions de mon cœur : ne fatiguez point mon devoir par les propositions d'une fâcheuse extrémité dont peut-être n'aurons-nous pas besoin ; et s'il y faut venir, souffrez au moins que j'y sois entraînée par la suite des choses.
-
--*who_eraste
-Eh bien…
-
--*who_sbrigani
-Ma foi, voici notre Homme, songeons à nous.
-
--*who_nerine
-Ah comme il est bâti !
-
-**** *book_ *id_I03 *act_I *date_1669 *creator_moliere
-
--*who_pourceaugnac
-Hé bien, quoi ? qu'est-ce ? qu'y a-t-il ?
-Au diantre soit la sotte Ville, et les sottes Gens qui y sont : ne pouvoir faire un pas sans trouver des Nigauds qui vous regardent, et se mettent à rire !
-Eh, Messieurs les Badauds, faites vos affaires, et laissez passer les Personnes sans leur rire au nez.
-Je me donne au Diable, si je ne baille un coup de poing au premier que je verrai rire.
-
--*who_sbrigani
-Qu'est-ce que c'est, Messieurs ? que veut dire cela ? à qui en avez-vous ? faut-il se moquer ainsi des honnêtes Étrangers qui arrivent ici ?
-
--*who_pourceaugnac
 Voilà un Homme raisonnable celui-là.
 
--*who_sbrigani
-Quel procédé est le vôtre ? et qu'avez-vous à rire ?
-
--*who_pourceaugnac
 Fort bien.
 
--*who_sbrigani
-Monsieur a-t-il quelque chose de ridicule en soi ?
-
--*who_pourceaugnac
 Oui.
 
--*who_sbrigani
-Est-il autrement que les autres ?
-
--*who_pourceaugnac
 Suis-je tortu, ou bossu ?
 
--*who_sbrigani
-Apprenez à connaître les Gens.
-
--*who_pourceaugnac
 C'est bien dit.
 
--*who_sbrigani
-Monsieur est d'une mine à respecter.
-
--*who_pourceaugnac
 Cela est vrai.
 
--*who_sbrigani
-Personne de condition.
-
--*who_pourceaugnac
 Oui, Gentilhomme Limosin.
 
--*who_sbrigani
-Homme d'esprit.
-
--*who_pourceaugnac
 Qui a étudié en Droit.
 
--*who_sbrigani
-Il vous fait trop d'honneur, de venir dans votre Ville.
-
--*who_pourceaugnac
 Sans doute.
 
--*who_sbrigani
-Monsieur n'est point une Personne à faire rire.
-
--*who_pourceaugnac
 Assurément.
 
--*who_sbrigani
-Et quiconque rira de lui, aura affaire à moi.
-
--*who_pourceaugnac
 Monsieur, je vous suis infiniment obligé.
 
--*who_sbrigani
-Je suis fâché, Monsieur, de voir recevoir de la sorte une Personne comme vous, et je vous demande pardon pour la Ville.
-
--*who_pourceaugnac
 Je suis votre serviteur.
 
--*who_sbrigani
-Je vous ai vu ce matin, Monsieur, avec le Coche, lorsque vous avez déjeuné ; et la grâce avec laquelle vous mangiez votre pain, m'a fait naître d'abord de l'amitié pour vous : Et comme je sais que vous n'êtes jamais venu en ce Pays, et que vous y êtes tout neuf, je suis bien aise de vous avoir trouvé pour vous offrir mon service à cette arrivée, et vous aider à vous conduire parmi ce Peuple, qui n'a pas parfois pour les honnêtes Gens toute la considération qu'il faudrait.
-
--*who_pourceaugnac
 C'est trop de grâce que vous me faites.
 
--*who_sbrigani
-Je vous l'ai déjà dit ; du moment que je vous ai vu, je me suis senti pour vous de l'inclination.
-
--*who_pourceaugnac
 Je vous suis obligé.
 
--*who_sbrigani
-Votre physionomie m'a plu.
-
--*who_pourceaugnac
 Ce m'est beaucoup d'honneur.
 
--*who_sbrigani
-J'y ai vu quelque chose d'honnête.
-
--*who_pourceaugnac
 Je suis votre serviteur.
 
--*who_sbrigani
-Quelque chose d'aimable.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-De gracieux.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-De doux.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-De majestueux.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-De franc.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-Et de cordial.
-
--*who_pourceaugnac
 Ah, ah.
 
--*who_sbrigani
-Je vous assure que je suis tout à vous.
-
--*who_pourceaugnac
 Je vous ai beaucoup d'obligation.
 
--*who_sbrigani
-C'est du fond du cœur que je parle.
-
--*who_pourceaugnac
 Je le crois.
 
--*who_sbrigani
-Si j'avais l'honneur d'être connu de vous, vous sauriez que je suis un Homme tout à fait sincère.
-
--*who_pourceaugnac
 Je n'en doute point.
 
--*who_sbrigani
-Ennemi de la fourberie.
-
--*who_pourceaugnac
 J'en suis persuadé.
 
--*who_sbrigani
-Et qui n'est pas capable de déguiser ses sentiments.
-
--*who_pourceaugnac
 C'est ma pensée.
 
--*who_sbrigani
-Vous regardez mon habit qui n'est pas fait comme les autres ; mais je suis originaire de Naples, à votre service, et j'ai voulu conserver un peu et la manière de s'habiller, et la sincérité de mon Pays.
-
--*who_pourceaugnac
 C'est fort bien fait : Pour moi j'ai voulu me mettre à la mode de la Cour pour la Campagne.
 
--*who_sbrigani
-Ma foi, cela vous va mieux qu'à tous nos Courtisans.
-
--*who_pourceaugnac
 C'est ce que m'a dit mon Tailleur ; l'habit est propre et riche, et il fera du bruit ici.
 
--*who_sbrigani
-Sans doute.
-N'irez-vous pas au Louvre ?
-
--*who_pourceaugnac
 Il faudra bien aller faire ma Cour.
 
--*who_sbrigani
-Le Roi sera ravi de vous voir.
-
--*who_pourceaugnac
 Je le crois.
 
--*who_sbrigani
-Avez-vous arrêté un Logis ?
-
--*who_pourceaugnac
 Non, j'allais en chercher un.
 
--*who_sbrigani
-Je serai bien aise d'être avec vous pour cela, et je connais tout ce Pays-ci.
-
-**** *book_ *id_I04 *act_I *date_1669 *creator_moliere
-
--*who_eraste
-Ah qu'est-ce ci ! que vois-je !
-Quelle heureuse rencontre !
-Monsieur de Pourceaugnac ! que je suis ravi de vous voir !
-Comment ? il semble que vous ayez peine à me reconnaître ?
-
--*who_pourceaugnac
 Monsieur, je suis votre serviteur.
 
--*who_eraste
-Est-il possible que cinq ou six années m'aient ôté de votre mémoire ? et que vous ne reconnaissiez pas le meilleur Ami de toute la Famille des Pourceaugnac ?
-
--*who_pourceaugnac
 Pardonnez-moi.
 Ma foi, je ne sais qui il est.
 
--*who_eraste
-Il n'y a pas un Pourceaugnac à Limoges que je ne connaisse depuis le plus grand jusques au plus petit ; je ne fréquentais qu'eux dans le temps que j'y étais, et j'avais l'honneur de vous voir presque tous les jours.
-
--*who_pourceaugnac
 C'est moi qui l'ai reçu, Monsieur.
 
--*who_eraste
-Vous ne vous remettez point mon visage ?
-
--*who_pourceaugnac
 Si fait.
 Je ne le connais point.
 
--*who_eraste
-Vous ne vous ressouvenez pas que j'ai eu le bonheur de boire avec vous je ne sais combien de fois ?
-
--*who_pourceaugnac
 Excusez-moi.
 Je ne sais ce que c'est.
 
--*who_eraste
-Comment appelez-vous ce Traiteur de Limoges qui fait si bonne chère ?
-
--*who_pourceaugnac
 Petit-Jean ?
 
--*who_eraste
-Le voilà.Nous allions le plus souvent ensemble chez lui nous réjouir.
-Comment est-ce que vous nommez à Limoges ce Lieu où l'on se promène ?
-
--*who_pourceaugnac
 Le Cimetière des Arènes ?
 
--*who_eraste
-Justement ; c'est où je passais de si douces heures à jouir de votre agréable Conversation.
-Vous ne vous remettez pas tout cela ?
-
--*who_pourceaugnac
 Excusez-moi, je me le remets.
 Diable emporte, si je m'en souviens.
 
--*who_sbrigani
-Il y a cent choses comme cela qui passent de la tête.
-
--*who_eraste
-Embrassez-moi donc, je vous prie, et resserrons les nœuds de notre ancienne amitié.
-
--*who_sbrigani
-Voilà un Homme qui vous aime fort.
-
--*who_eraste
-Dites-moi un peu des nouvelles de toute la Parenté : Comment se porte Monsieur votre… là… qui est si honnête Homme ?
-
--*who_pourceaugnac
 Mon Frère le Consul ?
 
--*who_eraste
-Oui.
-
--*who_pourceaugnac
 Il se porte le mieux du monde.
 
--*who_eraste
-Certes j'en suis ravi.
-Et celui qui est de si bonne humeur ? là… Monsieur votre… ?
-
--*who_pourceaugnac
 Mon cousin l'Assesseur ?
 
--*who_eraste
-Justement.
-
--*who_pourceaugnac
 Toujours gai et gaillard.
 
--*who_eraste
-Ma foi, j'en ai beaucoup de joie.
-Et Monsieur votre Oncle ? le…
-
--*who_pourceaugnac
 Je n'ai point d'Oncle.
 
--*who_eraste
-Vous aviez pourtant en ce temps-là…
-
--*who_pourceaugnac
 Non, rien qu'une Tante.
 
--*who_eraste
-C'est ce que je voulais dire, Madame votre Tante ; comment se porte-t-elle ?
-
--*who_pourceaugnac
 Elle est morte depuis six mois.
 
--*who_eraste
-Hélas la pauvre Femme ! elle était si bonne personne.
-
--*who_pourceaugnac
 Nous avons aussi mon Neveu le Chanoine, qui a pensé mourir de la petite vérole.
 
--*who_eraste
-Quel dommage ç'aurait été !
-
--*who_pourceaugnac
 Le connaissez-vous aussi ?
 
--*who_eraste
-Vraiment si je le connais !
-Un grand Garçon bien fait.
-
--*who_pourceaugnac
 Pas des plus grands.
 
--*who_eraste
-Non, mais de taille bien prise.
-
--*who_pourceaugnac
 Eh oui.
 
--*who_eraste
-Qui est votre Neveu…
-
--*who_pourceaugnac
 Oui.
 
--*who_eraste
-Fils de votre Frère et de votre Sœur…
-
--*who_pourceaugnac
 Justement.
 
--*who_eraste
-Chanoine de l'Église de… comment l'appelez-vous ?
-
--*who_pourceaugnac
 De Saint-Etienne.
 
--*who_eraste
-Le voilà, je ne connais autre.
-
--*who_pourceaugnac
 Il dit toute la Parenté.
 
--*who_sbrigani
-Il vous connaît plus que vous ne croyez.
-
--*who_pourceaugnac
 À ce que je vois, vous avez demeuré longtemps dans notre Ville ?
 
--*who_eraste
-Deux ans entiers.
-
--*who_pourceaugnac
 Vous étiez donc là quand mon Cousin l'Élu, fit tenir son Enfant à Monsieur notre Gouverneur ?
 
--*who_eraste
-Vraiment oui, j'y fus convié des premiers.
-
--*who_pourceaugnac
 Cela fut galant.
 
--*who_eraste
-Très galant.
-
--*who_pourceaugnac
 C'était un Repas bien troussé.
 
--*who_eraste
-Sans doute.
-
--*who_pourceaugnac
 Vous vîtes donc aussi la querelle que j'eus avec ce Gentilhomme Périgordin ?
 
--*who_eraste
-Oui.
-
--*who_pourceaugnac
 Parbleu il trouva à qui parler.
 
--*who_eraste
-Ah, ah.
-
--*who_pourceaugnac
 Il me donna un soufflet, mais je lui dis bien son fait.
 
--*who_eraste
-Assurément.
-Au reste, je ne prétends pas que vous preniez d'autre Logis que le mien.
-
--*who_pourceaugnac
 Je n'ai garde de…
 
--*who_eraste
-Vous moquez-vous ?
-Je ne souffrirai point du tout que mon meilleur Ami soit autre part que dans ma Maison.
-
--*who_pourceaugnac
 Ce serait vous…
 
--*who_eraste
-Non : le Diable m'emporte, vous logerez chez moi.
-
--*who_sbrigani
-Puisqu'il le veut obstinément, je vous conseille d'accepter l'offre.
-
--*who_eraste
-Où sont vos hardes ?
-
--*who_pourceaugnac
 Je les ai laissées avec mon Valet où je suis descendu.
 
--*who_eraste
-Envoyons-les quérir par quelqu'un.
-
--*who_pourceaugnac
 Non : je lui ai défendu de bouger, à moins que j'y fusse moi-même, de peur de quelque fourberie.
 
--*who_sbrigani
-C'est prudemment avisé.
-
--*who_pourceaugnac
 Ce Pays-ci est un peu sujet à caution.
 
--*who_eraste
-On voit les Gens d'esprit en tout.
-
--*who_sbrigani
-Je vais accompagner Monsieur, et le ramènerai où vous voudrez.
-
--*who_eraste
-Oui, je serai bien aise de donner quelques ordres, et vous n'avez qu'à revenir à cette Maison-là.
-
--*who_sbrigani
-Nous sommes à vous tout à l'heure.
-
--*who_eraste
-Je vous attends avec impatience.
-
--*who_pourceaugnac
 Voilà une connaissance où je ne m'attendais point.
 
--*who_sbrigani
-Il a la mine d'être honnête Homme.
-
--*who_eraste
-Ma foi, Monsieur de Pourceaugnac, nous vous en donnerons de toutes les façons ; les choses sont préparées, et je n'ai qu'à frapper.
-
-**** *book_ *id_I05 *act_I *date_1669 *creator_moliere
-
--*who_eraste
-Je crois, Monsieur, que vous êtes le Médecin à qui l'on est venu parler de ma part.
-
--*who_apothicaire
-Non, Monsieur, ce n'est pas moi qui suis le Médecin ; à moi n'appartient pas cet honneur, et je ne suis qu'Apothicaire, Apothicaire indigne, pour vous servir.
-
--*who_eraste
-Et Monsieur le Médecin est-il à la Maison ?
-
--*who_apothicaire
-Oui, il est là embarrassé à expédier quelques Malades, et je vais lui dire que vous êtes ici.
-
--*who_eraste
-Non, ne bougez : j'attendrai qu'il ait fait ; c'est pour lui mettre entre les mains certain Parent que nous avons, dont on lui a parlé, et qui se trouve attaqué de quelque folie, que nous serions bien aises qu'il pût guérir avant que de le marier.
-
--*who_apothicaire
-Je sais ce que c'est, je sais ce que c'est, et j'étais avec lui quand on lui a parlé de cette affaire.
-Ma foi, ma foi, vous ne pouviez pas vous adresser à un Médecin plus habile ; c'est un Homme qui sait la Médecine à fond, comme je sais ma Croix-de-Pardieu ; et qui, quand on devrait crever, ne démordrait pas d'un iota des règles des Anciens.
-Oui, il suit toujours le grand chemin, le grand chemin, et ne va point chercher midi à quatorze heures ; et pour tout l'or du monde, il ne voudrait pas avoir guéri une Personne avec d'autres remèdes que ceux que la Faculté permet.
-
--*who_eraste
-Il fait fort bien ; un Malade ne doit point vouloir guérir, que la Faculté n'y consente.
-
--*who_apothicaire
-Ce n'est pas parce que nous sommes grands Amis, que j'en parle ; mais il y a plaisir, il y a plaisir d'être son Malade ; et j'aimerais mieux mourir de ses remèdes, que de guérir de ceux d'un autre : car quoi qui puisse arriver, on est assuré que les choses sont toujours dans l'ordre ; et quand on meurt sous sa conduite, vos Héritiers n'ont rien à vous reprocher.
-
--*who_eraste
-C'est une grande consolation pour un Défunt.
-
--*who_apothicaire
-Assurément ; on est bien aise au moins d'être mort méthodiquement.
-Au reste, il n'est pas de ces Médecins qui marchandent les maladies ; c'est un Homme expéditif, expéditif, qui aime à dépêcher ses Malades ; et quand on a à mourir, cela se fait avec lui le plus vite du monde.
-
--*who_eraste
-En effet, il n'est rien tel que de sortir promptement d'affaire.
-
--*who_apothicaire
-Cela est vrai, à quoi bon tant barguigner et tant tourner autour du pot ? il faut savoir vitement le court ou le long d'une maladie.
-
--*who_eraste
-Vous avez raison.
-
--*who_apothicaire
-Voilà déjà trois de mes Enfants dont il m'a fait l'honneur de conduire la maladie, qui sont morts en moins de quatre jours, et qui entre les mains d'un autre, auraient langui plus de trois mois.
-
--*who_eraste
-Il est bon d'avoir des Amis comme cela.
-
--*who_apothicaire
-Sans doute.
-Il ne me reste plus que deux Enfants dont il prend soin comme des siens ; il les traite et gouverne à sa fantaisie, sans que je me mêle de rien ; et le plus souvent, quand je reviens de la Ville, je suis tout étonné que je les trouve saignés ou purgés par son ordre.
-
--*who_eraste
-Voilà des soins fort obligeants.
-
--*who_apothicaire
-Le voici, le voici, le voici qui vient.
-
-**** *book_ *id_I06 *act_I *date_1669 *creator_moliere
-
--*who_paysan
-Monsieur, il n'en peut plus, et il dit qu'il sent dans la tête les plus grandes douleurs du monde.
-
--*who_medecin1
-Le Malade est un sot, d'autant plus que dans la maladie dont il est attaqué, ce n'est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.
-
--*who_paysan
-Quoi que c'en soit, Monsieur, il a toujours avec cela son cours de ventre depuis six mois.
-
--*who_medecin1
-Bon, c'est signe que le dedans se dégage.
-Je l'irai visiter dans deux ou trois jours ; mais s'il mourait avant ce temps-là, ne manquez pas de m'en donner avis, car il n'est pas de la civilité, qu'un Médecin visite un Mort.
-
--*who_paysanne
-Mon Père, Monsieur, est toujours malade de plus en plus.
-
--*who_medecin1
-Ce n'est pas ma faute ; je lui donne des remèdes, que ne guérit-il ?
-Combien a-t-il été saigné de fois ?
-
--*who_paysanne
-Quinze, Monsieur, depuis vingt jours.
-
--*who_medecin1
-Quinze fois saigné ?
-
--*who_paysanne
-Oui.
-
--*who_medecin1
-Et il ne guérit point ?
-
--*who_paysanne
-Non, Monsieur.
-
--*who_medecin1
-C'est signe que la maladie n'est pas dans le sang.
-Nous le ferons purger autant de fois, pour voir si elle n'est pas dans les humeurs ; et si rien ne nous réussit, nous l'enverrons aux Bains.
-
--*who_apothicaire
-Voilà le fin cela, voilà le fin de la Médecine.
-
--*who_eraste
-C'est moi, Monsieur, qui vous ai envoyé parler ces jours passés pour un Parent un peu troublé d'esprit, que je veux vous donner chez vous, afin de le guérir avec plus de commodité, et qu'il soit vu de moins de monde.
-
--*who_medecin1
-Oui, Monsieur, j'ai déjà disposé tout, et promets d'en avoir tous les soins imaginables.
-
--*who_eraste
-Le voici.
-
--*who_medecin1
-La conjoncture est tout à fait heureuse, et j'ai ici un Ancien de mes Amis avec lequel je serai bien aise de consulter sa maladie.
-
-**** *book_ *id_I07 *act_I *date_1669 *creator_moliere
-
--*who_eraste
-Une petite affaire m'est survenue, qui m'oblige à vous quitter ; mais voilà une Personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu'il lui sera possible.
-
--*who_medecin1
-Le devoir de ma Profession m'y oblige, et c'est assez que vous me chargiez de ce soin.
-
--*who_pourceaugnac
 C'est son Maître d'Hôtel, et il faut que ce soit un Homme de qualité.
 
--*who_medecin1
-Oui, je vous assure que je traiterai Monsieur méthodiquement, et dans toutes les régularités de notre Art.
-
--*who_pourceaugnac
 Mon Dieu, il ne me faut point tant de cérémonies, et je ne viens pas ici pour incommoder.
 
--*who_medecin1
-Un tel Emploi ne me donne que de la joie.
-
--*who_eraste
-Voilà toujours six Pistoles d'avance, en attendant ce que j'ai promis.
-
--*who_pourceaugnac
 Non, s'il vous plaît, je n'entends pas que vous fassiez de dépense, et que vous envoyiez rien acheter pour moi.
 
--*who_eraste
-Mon Dieu, laissez faire, ce n'est pas pour ce que vous pensez.
-
--*who_pourceaugnac
 Je vous demande de ne me traiter qu'en Ami.
 
--*who_eraste
-C'est ce que je veux faire.
-Je vous recommande surtout de ne le point laisser sortir de vos mains, car parfois il veut s'échapper.
-
--*who_medecin1
-Ne vous mettez pas en peine.
-
--*who_eraste
-Je vous prie de m'excuser, de l'incivilité que je commets.
-
--*who_pourceaugnac
 Vous vous moquez, et c'est trop de grâce que vous me faites.
 
-**** *book_ *id_I08 *act_I *date_1669 *creator_moliere
-
--*who_medecin1
-Ce m'est beaucoup d'honneur, Monsieur, d'être choisi pour vous rendre service.
-
--*who_pourceaugnac
 Je suis votre serviteur.
 
--*who_medecin1
-Voici un habile Homme, mon Confrère, avec lequel je vais consulter la manière dont nous vous traiterons.
-
--*who_pourceaugnac
 Il ne faut point tant de façons, vous dis-je, et je suis Homme à me contenter de l'ordinaire.
 
--*who_medecin1
-Allons, des sièges.
-
--*who_pourceaugnac
 Voilà, pour un jeune Homme, des Domestiques bien lugubres !
 
--*who_medecin1
-Allons, Monsieur, prenez votre place, Monsieur.
-
--*who_pourceaugnac
 Votre très humble valet.
 Que veut dire cela ?
 
--*who_medecin1
-Mangez-vous bien, Monsieur ?
-
--*who_pourceaugnac
 Oui, et bois encore mieux.
 
--*who_medecin1
-Tant pis ; cette grande appétition du froid et de l'humide, est une indication de la chaleur et sécheresse qui est au dedans.Dormez-vous fort ?
-
--*who_pourceaugnac
 Oui, quand j'ai bien soupé.
 
--*who_medecin1
-Faites-vous des songes ?
-
--*who_pourceaugnac
 Quelquefois.
 
--*who_medecin1
-De quelle nature sont-ils ?
+De la nature des songes. Quelle diable de conversation est-ce là ?
 
--*who_pourceaugnac
-De la nature des songes.
-Quelle diable de conversation est-ce là ?
-
--*who_medecin1
-Vos déjections, comment sont-elles ?
-
--*who_pourceaugnac
 Ma foi, je ne comprends rien à toutes ces questions, et je veux plutôt boire un coup.
 
--*who_medecin1
-Un peu de patience, nous allons raisonner sur votre affaire devant vous, et nous le ferons en Français, pour être plus intelligibles.
-
--*who_pourceaugnac
 Quel grand raisonnement faut-il pour manger un morceau ?
 
--*who_medecin1
-Comme ainsi soit qu'on ne puisse guérir une maladie, qu'on ne la connaisse parfaitement, et qu'on ne la puisse parfaitement connaître, sans en bien établir l'idée particulière et la véritable espèce, par ses signes diagnostiques et prognostiques ; vous me permettrez, Monsieur notre Ancien, d'entrer en considération de la maladie dont il s'agit, avant que de toucher à la thérapeutique et aux remèdes qu'il nous conviendra faire pour la parfaite curation d'icelle.Je dis donc, Monsieur, avec votre permission, que notre Malade ici présent, est malheureusement attaqué, affecté, possédé, travaillé de cette sorte de folie que nous nommons fort bien, mélancolie hypocondriaque, espèce de folie très fâcheuse, et qui ne demande pas moins qu'un Esculape comme vous, consommé dans notre Art ; vous, dis-je, qui avez blanchi, comme on dit, sous le harnois, et auquel il en a tant passé par les mains de toutes les façons.Je l'appelle mélancolie hypocondriaque, pour la distinguer des deux autres ; car le célèbre Galien établit doctement à son ordinaire trois espèces de cette maladie, que nous nommons mélancolie, ainsi appelée non seulement par les Latins, mais encore par les Grecs ; ce qui est bien à remarquer pour notre affaire : La première, qui vient du propre vice du cerveau ; la seconde, qui vient de tout le sang, fait et rendu atrabilaire ; la troisième, appelée hypocondriaque, qui est la nôtre, laquelle procède du vice de quelque partie du bas-ventre, et de la région inférieure, mais particulièrement de la rate, dont la chaleur et l'inflammation porte au cerveau de notre Malade beaucoup de fuligines épaisses et crasses, dont la vapeur noire et maligne cause dépravation aux fonctions de la faculté princesse, et fait la maladie dont par notre raisonnement il est manifestement atteint et convaincu.Qu'ainsi ne soit, pour diagnostique incontestable de ce que je dis, vous n'avez qu'à considérer ce grand sérieux que vous voyez ; cette tristesse accompagnée de crainte et de défiance, signes pathognomoniques et individuels de cette maladie, si bien marquée chez le Divin vieillard Hippocrate ; cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grêle, noire et velue, lesquels signes le dénotent très affecté de cette maladie, procédante du vice des hypocondres ; laquelle maladie par laps de temps naturalisée, envieillie, habituée, et ayant pris droit de bourgeoisie chez lui, pourrait bien dégénérer, ou en manie, ou en phtisie, ou en apoplexie, ou même en fine frénésie et fureur.Tout ceci supposé, puisqu'une maladie bien connue est à demi guérie, car ignoti nulla est curatio morbi, il ne vous sera pas difficile de convenir des remèdes que nous devons faire à Monsieur.Premièrement, pour remédier à cette pléthore obturante, et à cette cacochymie luxuriante par tout le corps, je suis d'avis qu'il soit phlébotomisé libéralement ; c'est-à-dire que les saignées soient fréquentes et plantureuses : En premier lieu de la basilique, puis de la céphalique, et même si le mal est opiniâtre, de lui ouvrir la veine du front, et que l'ouverture soit large, afin que le gros sang puisse sortir ; et en même temps, de le purger, désopiler, et évacuer par purgatifs propres et convenables ; c'est-à-dire par cholagogues, mélanogogues, et cætera ; et comme la véritable source de tout le mal est ou une humeur crasse et féculente, ou une vapeur noire et grossière qui obscurcit, infecte et salit les esprits animaux, il est à propos ensuite qu'il prenne un bain d'eau pure et nette, avec force petit-lait clair, pour purifier par l'eau la féculence de l'humeur crasse, et éclaircir par le lait clair la noirceur de cette vapeur ; mais avant toute chose, je trouve qu'il est bon de le réjouir par agréables Conversations, Chants et Instruments de Musique, à quoi il n'y a pas d'inconvénient de joindre des Danseurs, afin que leurs mouvements, disposition et agilité puissent exciter et réveiller la paresse de ses esprits engourdis, qui occasionne l'épaisseur de son sang, d'où procède la maladie.Voilà les remèdes que j'imagine, auxquels pourront être ajoutés beaucoup d'autres meilleurs par Monsieur notre Maître et Ancien, suivant l'expérience, jugement, lumière et suffisance qu'il s'est acquise dans notre Art.Dixi.
+Messieurs, il y a une heure que je vous écoute. Est-ce que nous jouons ici une Comédie ?
 
--*who_medecin2
-À Dieu ne plaise, Monsieur, qu'il me tombe en pensée d'ajouter rien à ce que vous venez de dire : vous avez si bien discouru sur tous les signes, les symptômes et les causes de la maladie de Monsieur ; le raisonnement que vous en avez fait est si docte et si beau, qu'il est impossible qu'il ne soit pas fou, et mélancolique hypocondriaque ; et quand il ne le serait pas, il faudrait qu'il le devînt, pour la beauté des choses que vous avez dites, et la justesse du raisonnement que vous avez fait.
-Oui, Monsieur, vous avez dépeint fort graphiquement, graphice depinxisti, tout ce qui appartient à cette maladie ; il ne se peut rien de plus doctement, sagement, ingénieusement conçu, pensé, imaginé, que ce que vous avez prononcé au sujet de ce mal, soit pour la diagnose, ou la prognose, ou la thérapie ; et il ne me reste rien ici, que de féliciter Monsieur, d'être tombé entre vos mains, et de lui dire qu'il est trop heureux d'être fou, pour éprouver l'efficace et la douceur des remèdes que vous avez si judicieusement proposés : Je les approuve tous, manibus et pedibus descendo in tuam sententiam.Tout ce que j'y voudrais, c'est de faire les saignées et les purgations en nombre impair, Numero Deus impari gaudet : de prendre le lait clair avant le bain ; de lui composer un fronteau où il entre du sel ; le sel est symbole de la sagesse : de faire blanchir les murailles de sa chambre, pour dissiper les ténèbres de ses esprits, album est disgregativum visus, et de lui donner tout à l'heure un petit Lavement, pour servir de prélude et d'introduction à ces judicieux remèdes, dont s'il a à guérir, il doit recevoir du soulagement.
-Fasse le Ciel que ces remèdes, Monsieur, qui sont les vôtres, réussissent au Malade selon notre intention.
-
--*who_pourceaugnac
-Messieurs, il y a une heure que je vous écoute.
-Est-ce que nous jouons ici une Comédie ?
-
--*who_medecin1
-Non, Monsieur, nous ne jouons point.
-
--*who_pourceaugnac
 Qu'est-ce que tout ceci ? et que voulez-vous dire avec votre galimatias et vos sottises ?
 
--*who_medecin1
-Bon, dire des injures.
-Voilà un diagnostique qui nous manquait pour la confirmation de son mal, et ceci pourrait bien tourner en manie.
-
--*who_pourceaugnac
 Avec qui m'a-t-on mis ici ?
 
--*who_medecin1
-Autre diagnostique : La sputation fréquente.
-
--*who_pourceaugnac
 Laissons cela, et sortons d'ici.
 
--*who_medecin1
-Autre encore : L'inquiétude de changer de place.
-
--*who_pourceaugnac
 Qu'est-ce donc que toute cette affaire ? et que me voulez-vous ?
 
--*who_medecin1
-Vous guérir, selon l'ordre qui nous a été donné.
-
--*who_pourceaugnac
 Me guérir.
 
--*who_medecin1
-Oui.
-
--*who_pourceaugnac
 Parbleu je ne suis pas malade.
 
--*who_medecin1
-Mauvais signe, lorsqu'un Malade ne sent pas son mal.
-
--*who_pourceaugnac
 Je vous dis que je me porte bien.
 
--*who_medecin1
-Nous savons mieux que vous comment vous vous portez, et nous sommes Médecins, qui voyons clair dans votre constitution.
-
--*who_pourceaugnac
 Si vous êtes Médecins, je n'ai que faire de vous ; et je me moque de la Médecine.
 
--*who_medecin1
-Hon, hon ; voici un Homme plus fou que nous ne pensons.
-
--*who_pourceaugnac
 Mon Père et ma Mère n'ont jamais voulu de remèdes, et ils sont morts tous deux sans l'assistance des Médecins.
 
--*who_medecin1
-Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé.
-Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accroissons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
+Que Diable est-ce là ? Les Gens de ce Pays-ci sont-ils insensés ? Je n'ai jamais rien vu de tel, et je n'y comprends rien du tout.
 
-**** *book_ *id_I09 *act_I *date_1669 *creator_moliere
+Comment ? Je n'ai que faire de cela.
 
--*who_pourceaugnac
-Que Diable est-ce là ?
-Les Gens de ce Pays-ci sont-ils insensés ?
-Je n'ai jamais rien vu de tel, et je n'y comprends rien du tout.
-
-**** *book_ *id_I10 *act_I *date_1669 *creator_moliere
-
--*who_musicien1_musicien2
-Bon di, bon di, bon di,
-Non vi lasciate uccidere
-Dal dolor malinconico,
-Noi vi faremo ridere
-Col nostro canto harmonico,
-Sol'per guarirui
-Siamo venuti qui
-Bon di, bon di, bon di.
-
--*who_musicien1
-Altro non è la pazzia
-Che malinconia.
-Il malato
-Non è disperato,
-Se vol pigliar un poco d'allegria
-Altro non è la pazzia
-Che malinconia.
-
--*who_musicien2
-Sù, cantate, ballate, ridete ;
-E se far meglio volete,
-Quando sentite il deliro vicino,
-Pigliate del vino,
-E qualche volta un po po di tabac
-Alegramente, Monsu Pourceaugnac.
-
-**** *book_ *id_I11 *act_I *date_1669 *creator_moliere
-
--*who_apothicaire
-Monsieur, voici un petit remède, un petit remède, qu'il vous faut prendre, s'il vous plaît, s'il vous plaît.
-
--*who_pourceaugnac
-Comment ?
-Je n'ai que faire de cela.
-
--*who_apothicaire
-Il a été ordonné, Monsieur, il a été ordonné.
-
--*who_pourceaugnac
 Ah, que de bruit.
 
--*who_apothicaire
-Prenez-le, Monsieur, prenez-le : il ne vous fera point de mal, il ne vous fera point de mal.
-
--*who_pourceaugnac
 Ah.
 
--*who_apothicaire
-C'est un petit Clystère, un petit Clystère, bénin, bénin ; il est bénin, bénin : là, prenez, prenez, prenez, Monsieur ; c'est pour déterger, pour déterger, déterger…
-
--*who_musicien1_musicien2
-
-Piglialo su
-Signor Monsù,
-Piglialo, piglialo, piglialo su,
-Che non ti farà male,
-Piglialo su questo servitiale,
-Piglialo su
-Signor Monsù,
-Piglialo, piglialo, piglialo su.
-
--*who_pourceaugnac
 Allez-vous-en au Diable.
 
-**** *book_ *id_II01 *act_II *date_1669 *creator_moliere
+Piglialo su, piglialo su, Signor Monsù. Que diable est-ce là ? Ah !
 
--*who_medecin1
-Il a forcé tous les obstacles que j'avais mis ; et s'est dérobé aux remèdes que je commençais de lui faire.
-
--*who_sbrigani
-C'est être bien ennemi de soi-même, que de fuir des remèdes aussi salutaires que les vôtres.
-
--*who_medecin1
-Marque d'un cerveau démonté, et d'une raison dépravée, que de ne vouloir pas guérir.
-
--*who_sbrigani
-Vous l'auriez guéri haut la main.
-
--*who_medecin1
-Sans doute, quand il y aurait eu complication de douze maladies.
-
--*who_sbrigani
-Cependant voilà cinquante Pistoles bien acquises, qu'il vous fait perdre.
-
--*who_medecin1
-Moi, je n'entends point les perdre, et prétends le guérir en dépit qu'il en ait.
-Il est lié et engagé à mes remèdes, et je veux le faire saisir où je le trouverai, comme Déserteur de la Médecine, et Infracteur de mes Ordonnances.
-
--*who_sbrigani
-Vous avez raison, vos remèdes étaient un coup sûr, et c'est de l'argent qu'il vous vole.
-
--*who_medecin1
-Où puis-je en avoir des nouvelles ?
-
--*who_sbrigani
-Chez le bon Homme Oronte, assurément, dont il vient épouser la Fille, et qui ne sachant rien de l'infirmité de son Gendre futur, voudra peut-être se hâter de conclure le Mariage.
-
--*who_medecin1
-Je vais lui parler tout à l'heure.
-
--*who_sbrigani
-Vous ne ferez point mal.
-
--*who_medecin1
-Il est hypothéqué à mes Consultations ; et un Malade ne se moquera pas d'un Médecin.
-
--*who_sbrigani
-C'est fort bien dit à vous ; et si vous m'en croyez, vous ne souffrirez point qu'il se marie, que vous ne l'ayez pansé tout votre soûl.
-
--*who_medecin1
-Laissez-moi faire.
-
--*who_sbrigani
-Je vais de mon côté dresser une autre batterie, et le Beau-père est aussi dupe que le Gendre.
-
-**** *book_ *id_II02 *act_II *date_1669 *creator_moliere
-
--*who_medecin1
-Vous avez, Monsieur, un certain Monsieur de Pourceaugnac, qui doit épouser votre Fille.
-
--*who_oronte
-Oui, je l'attends de Limoges, et il devrait être arrivé.
-
--*who_medecin1
-Aussi l'est-il, et il s'en est fui de chez moi, après y avoir été mis ; mais je vous défends de la part de la Médecine, de procéder au mariage que vous avez conclu, que je ne l'aie dûment préparé pour cela, et mis en état de procréer des Enfants bien conditionnés et de corps et d'esprit.
-
--*who_oronte
-Comment donc ?
-
--*who_medecin1
-Votre prétendu Gendre a été constitué mon Malade : Sa Maladie qu'on m'a donné à guérir, est un meuble qui m'appartient, et que je compte entre mes effets ; et je vous déclare que je ne prétends point qu'il se marie, qu'au préalable il n'ait satisfait à la Médecine, et subi les remèdes que je lui ai ordonnés.
-
--*who_oronte
-Il a quelque mal ?
-
--*who_medecin1
-Oui.
-
--*who_oronte
-Et quel mal, s'il vous plaît ?
-
--*who_medecin1
-Ne vous en mettez pas en peine.
-
--*who_oronte
-Est-ce quelque mal…
-
--*who_medecin1
-Les Médecins sont obligés au secret : Il suffit que je vous ordonne, à vous et à votre Fille, de ne point célébrer, sans mon consentement, vos Noces avec lui, sur peine d'encourir la disgrâce de la Faculté, et d'être accablés de toutes les Maladies qu'il nous plaira.
-
--*who_oronte
-Je n'ai garde, si cela est, de faire le Mariage.
-
--*who_medecin1
-On me l'a mis entre les mains, et il est obligé d'être mon malade.
-
--*who_oronte
-À la bonne heure.
-
--*who_medecin1
-Il a beau fuir, je le ferai condamner par Arrêt à se faire guérir par moi.
-
--*who_oronte
-J'y consens.
-
--*who_medecin1
-Oui, il faut qu'il crève, ou que je le guérisse.
-
--*who_oronte
-Je le veux bien.
-
--*who_medecin1
-Et si je ne le trouve, je m'en prendrai à vous, et je vous guérirai au lieu de lui.
-
--*who_oronte
-Je me porte bien.
-
--*who_medecin1
-Il n'importe, il me faut un Malade, et je prendrai qui je pourrai.
-
--*who_oronte
-Prenez qui vous voudrez, mais ce ne sera pas moi.
-Voyez un peu la belle raison.
-
-**** *book_ *id_II03 *act_II *date_1669 *creator_moliere
-
--*who_sbrigani
-Montsir, avec le Vostre permissione, je suisse un Trancher Marchant Flamane, qui voudrait bienne vous temandair un petit nouvel.
-
--*who_oronte
-Quoi, Monsieur ?
-
--*who_sbrigani
-Mettez le vostre chapeau sur le teste, Montsir, si ve plaist.
-
--*who_oronte
-Dites-moi, Monsieur, ce que vous voulez.
-
--*who_sbrigani
-Moi le dire rien, Montsir, si vous le mettre pas le chapeau sur le teste.
-
--*who_oronte
-Soit.
-Qu'y a-t-il, Monsieur ?
-
--*who_sbrigani
-Fous connaistre point en sti File un certe Montsir Oronte ?
-
--*who_oronte
-Oui, je le connais.
-
--*who_sbrigani
-Et quel Homme est-ile, Montsir, si ve plaist ?
-
--*who_oronte
-C'est un Homme comme les autres.
-
--*who_sbrigani
-Je vous temande, Montsir, s'il est un Homme riche qui a du bienne ?
-
--*who_oronte
-Oui.
-
--*who_sbrigani
-Mais riche beaucoup grandement, Montsir ?
-
--*who_oronte
-Oui.
-
--*who_sbrigani
-J'en suis aise beaucoup, Montsir.
-
--*who_oronte
-Mais pourquoi cela ?
-
--*who_sbrigani
-L'est, Montsir, pour un petit raisonne de conséquence pour nous.
-
--*who_oronte
-Mais encore, pourquoi ?
-
--*who_sbrigani
-L'est, Montsir, que sti Montsir Oronte donne son Fille en mariage à un certe Montsir de Pourcegnac.
-
--*who_oronte
-Hé bien.
-
--*who_sbrigani
-Et sti Montsir de Pourcegnac, Montsir, l'est un Homme que doivre beaucoup grandement à dix ou douze Marchanne Flamane qui estre venu ici.
-
--*who_oronte
-Ce Monsieur de Pourceaugnac doit beaucoup à dix ou douze Marchands ?
-
--*who_sbrigani
-Oui, Montsir ; et depuis huite mois, nous avoir obtenir un petit Santence contre lui, et lui à remettre à payer tou ce Créanciers de sti Mariage que sti Montsir Oronte donne pour son Fille.
-
--*who_oronte
-Hon, hon, il a remis là à payer ses Créanciers ?
-
--*who_sbrigani
-Oui, Montsir, et avec un grant dévotion nous tous attendre sti Mariage.
-
--*who_oronte
-L'avis n'est pas mauvais.
-Je vous donne le bonjour.
-
--*who_sbrigani
-Je remercie, Montsir, de la faveur grande.
-
--*who_oronte
-Votre très humble valet.
-
--*who_sbrigani
-Je le suis, Montsir, obliger plus que beaucoup du bon nouvel que Montsir m'avoir donné.
-Cela ne va pas mal ; quittons notre ajustement de Flamand, pour songer à d'autres machines ; et tâchons de semer tant de soupçons et de division entre le Beau-père et le Gendre, que cela rompe le Mariage prétendu.
-Tous deux également sont propres à gober les hameçons qu'on leur veut tendre ; et entre nous autres Fourbes de la première Classe, nous ne faisons que nous jouer, lorsque nous trouvons un Gibier aussi facile que celui-là.
-
-**** *book_ *id_II04 *act_II *date_1669 *creator_moliere
-
--*who_pourceaugnac
-Piglialo su, piglialo su, Signor Monsù.
-Que diable est-ce là ?
-Ah !
-
--*who_sbrigani
-Qu'est-ce, Monsieur, qu'avez-vous ?
-
--*who_pourceaugnac
 Tout ce que je vois, me semble Lavement.
 
--*who_sbrigani
-Comment ?
-
--*who_pourceaugnac
 Vous ne savez pas ce qui m'est arrivé dans ce Logis à la porte duquel vous m'avez conduit ?
 
--*who_sbrigani
-Non vraiment, qu'est-ce que c'est ?
-
--*who_pourceaugnac
 Je pensais y être régalé comme il faut.
 
--*who_sbrigani
-Hé bien ?
+Je vous laisse entre les mains de Monsieur. Des Médecins habillés de noir. Dans une chaise. Tâter le pouls. Comme ainsi soit. Il est fou. Deux gros joufflus. Grands chapeaux. Buon dì, buon dì.Six Pantalons. Ta, ra, ta, ta : Ta, ra, ta, ta. Allegramente Monsù Pourceaugnac. Apothicaire. Lavement. Prenez, Monsieur, prenez, prenez. Il est bénin, bénin, bénin. C'est pour déterger, pour déterger, déterger. Piglialo su, Signor Monsù, piglialo, piglialo, piglialo su. Jamais je n'ai été si soûl de sottises.
 
--*who_pourceaugnac
-Je vous laisse entre les mains de Monsieur.
-Des Médecins habillés de noir.
-Dans une chaise.
-Tâter le pouls.
-Comme ainsi soit.
-Il est fou.
-Deux gros joufflus.
-Grands chapeaux.
-Buon dì, buon dì.Six Pantalons.
-Ta, ra, ta, ta : Ta, ra, ta, ta.
-Allegramente Monsù Pourceaugnac.
-Apothicaire.
-Lavement.
-Prenez, Monsieur, prenez, prenez.
-Il est bénin, bénin, bénin.
-C'est pour déterger, pour déterger, déterger.
-Piglialo su, Signor Monsù, piglialo, piglialo, piglialo su.
-Jamais je n'ai été si soûl de sottises.
-
--*who_sbrigani
-Qu'est-ce que tout cela veut dire ?
-
--*who_pourceaugnac
 Cela veut dire que cet Homme-là, avec ses grandes embrassades, est un Fourbe qui m'a mis dans une Maison pour se moquer de moi, et me faire une pièce.
 
--*who_sbrigani
-Cela est-il possible ?
-
--*who_pourceaugnac
 Sans doute, ils étaient une douzaine de Possédés après mes chausses ; et j'ai eu toutes les peines du monde à m'échapper de leurs pattes.
 
--*who_sbrigani
-Voyez un peu, les mines sont bien trompeuses !
-Je l'aurais cru le plus affectionné de vos Amis.
-Voilà un de mes étonnements, comme il est possible qu'il y ait des Fourbes comme cela dans le Monde.
+Ne sens-je point le Lavement ? Voyez, je vous prie.
 
--*who_pourceaugnac
-Ne sens-je point le Lavement ?
-Voyez, je vous prie.
-
--*who_sbrigani
-Eh il y a quelque petite chose qui approche de cela.
-
--*who_pourceaugnac
 J'ai l'odorat et l'imagination tout rempli de cela, et il me semble toujours que je vois une douzaine de Lavements qui me couchent en joue.
 
--*who_sbrigani
-Voilà une méchanceté bien grande ! et les Hommes sont bien traîtres et scélérats !
-
--*who_pourceaugnac
 Enseignez-moi, de grâce, le Logis de Monsieur Oronte ; je suis bien aise d'y aller tout à l'heure.
 
--*who_sbrigani
-Ah, ah, vous êtes donc de complexion amoureuse, et vous avez ouï parler que ce Monsieur Oronte a une Fille…
-
--*who_pourceaugnac
 Oui, je viens l'épouser.
 
--*who_sbrigani
-L'é… L'épouser ?
-
--*who_pourceaugnac
 Oui.
 
--*who_sbrigani
-En mariage ?
-
--*who_pourceaugnac
 De quelle façon donc ?
 
--*who_sbrigani
-Ah c'est une autre chose, et je vous demande pardon.
-
--*who_pourceaugnac
 Qu'est-ce que cela veut dire ?
 
--*who_sbrigani
-Rien.
-
--*who_pourceaugnac
 Mais encore ?
 
--*who_sbrigani
-Rien, vous dis-je ; j'ai un peu parlé trop vite.
-
--*who_pourceaugnac
 Je vous prie de me dire ce qu'il y a là-dessous.
 
--*who_sbrigani
-Non, cela n'est pas nécessaire.
-
--*who_pourceaugnac
 De grâce.
 
--*who_sbrigani
-Point, je vous prie de m'en dispenser.
-
--*who_pourceaugnac
 Est-ce que vous n'êtes pas de mes Amis ?
 
--*who_sbrigani
-Si fait, on ne peut pas l'être davantage.
-
--*who_pourceaugnac
 Vous devez donc ne me rien cacher.
 
--*who_sbrigani
-C'est une chose où il y va de l'intérêt du prochain.
-
--*who_pourceaugnac
 Afin de vous obliger à m'ouvrir votre cœur, voilà une petite Bague que je vous prie de garder pour l'amour de moi.
 
--*who_sbrigani
-Laissez-moi consulter un peu si je le puis faire en conscience.
-C'est un Homme qui cherche son bien, qui tâche de pourvoir sa Fille le plus avantageusement qu'il est possible ; et il ne faut nuire à personne.
-Ce sont des choses qui sont connues à la vérité, mais j'irai les découvrir à un Homme qui les ignore, et il est défendu de scandaliser son prochain.
-Cela est vrai ; mais d'autre part voilà un Étranger qu'on veut surprendre, et qui de bonne foi vient se marier avec une Fille qu'il ne connaît pas, et qu'il n'a jamais vue ; un Gentilhomme plein de franchise, pour qui je me sens de l'inclination, qui me fait l'honneur de me tenir pour son Ami, prend confiance en moi, et me donne une Bague à garder pour l'amour de lui.
-Oui, je trouve que je puis vous dire les choses sans blesser ma conscience ; mais tâchons de vous les dire le plus doucement qu'il nous sera possible, et d'épargner les Gens le plus que nous pourrons.
-De vous dire que cette Fille-là mène une vie déshonnête, cela serait un peu trop fort ; cherchons pour nous expliquer, quelques termes plus doux.
-Le mot de Galante aussi n'est pas assez ; celui de Coquette achevée, me semble propre à ce que nous voulons, et je m'en puis servir, pour vous dire honnêtement ce qu'elle est.
-
--*who_pourceaugnac
 L'on me veut donc prendre pour dupe ?
 
--*who_sbrigani
-Peut-être dans le fond n'y a-t-il pas tant de mal que tout le monde croit ; et puis il y a des Gens, après tout, qui se mettent au-dessus de ces sortes de choses, et qui ne croient pas que leur honneur dépende…
-
--*who_pourceaugnac
 Je suis votre serviteur, je ne me veux point mettre sur la tête un chapeau comme celui-là, et l'on aime à aller le front levé dans la Famille des Pourceaugnac.
 
--*who_sbrigani
-Voilà le Père.
-
--*who_pourceaugnac
 Ce Vieillard-là ?
 
--*who_sbrigani
-Oui, je me retire.
-
-**** *book_ *id_II05 *act_II *date_1669 *creator_moliere
-
--*who_pourceaugnac
 Bonjour, Monsieur, bonjour.
 
--*who_oronte
-Serviteur, Monsieur, serviteur.
-
--*who_pourceaugnac
 Vous êtes Monsieur Oronte, n'est-ce pas ?
 
--*who_oronte
-Oui.
-
--*who_pourceaugnac
 Et moi, Monsieur de Pourceaugnac.
 
--*who_oronte
-À la bonne heure.
-
--*who_pourceaugnac
 Croyez-vous, Monsieur Oronte, que les Limosins soient des sots ?
 
--*who_oronte
-Croyez-vous, Monsieur de Pourceaugnac, que les Parisiens soient des bêtes ?
-
--*who_pourceaugnac
 Vous imaginez-vous, Monsieur Oronte, qu'un Homme comme moi soit si affamé de Femme ?
 
--*who_oronte
-Vous imaginez-vous, Monsieur de Pourceaugnac, qu'une Fille comme la mienne soit si affamée de Mari ?
+Tu-dieu, quelle Galante ! Comme elle prend feu d'abord !
 
-**** *book_ *id_II06 *act_II *date_1669 *creator_moliere
-
--*who_julie
-On vient de me dire, mon Père, que Monsieur de Pourceaugnac est arrivé.
-Ah le voilà sans doute, et mon cœur me le dit.
-Qu'il est bien fait ! qu'il a bon air ! et que je suis contente d'avoir un tel Époux !
-Souffrez que je l'embrasse, et que je lui témoigne…
-
--*who_oronte
-Doucement, ma Fille, doucement.
-
--*who_pourceaugnac
-Tu-dieu, quelle Galante !
-Comme elle prend feu d'abord !
-
--*who_oronte
-Je voudrais bien savoir, Monsieur de Pourceaugnac, par quelle raison vous venez…
-
--*who_julie
-Que je suis aise de vous voir ! et que je brûle d'impatience…
-
--*who_oronte
-Ah, ma Fille, ôtez-vous de là, vous dis-je.
-
--*who_pourceaugnac
 Ho, ho, quelle égrillarde !
 
--*who_oronte
-Je voudrais bien, dis-je, savoir par quelle raison, s'il vous plaît, vous avez la hardiesse de…
-
--*who_pourceaugnac
 Vertu de ma vie !
 
--*who_oronte
-Encore, qu'est-ce à dire cela ?
-
--*who_julie
-Ne voulez-vous pas que je caresse l'Époux que vous m'avez choisi ?
-
--*who_oronte
-Non : rentrez là -dedans.
-
--*who_julie
-Laissez-moi le regarder.
-
--*who_oronte
-Rentrez, vous dis-je.
-
--*who_julie
-Je veux demeurer là, s'il vous plaît.
-
--*who_oronte
-Je ne veux pas, moi ; et si tu ne rentres tout à l'heure, je…
-
--*who_julie
-Hé bien, je rentre.
-
--*who_oronte
-Ma Fille est une sotte, qui ne sait pas les choses.
-
--*who_pourceaugnac
 Comme nous lui plaisons !
 
--*who_oronte
-Tu ne veux pas te retirer ?
-
--*who_julie
-Quand est-ce donc que vous me marierez avec Monsieur ?
-
--*who_oronte
-Jamais ; et tu n'es pas pour lui.
-
--*who_julie
-Je le veux avoir, moi, puisque vous me l'avez promis.
-
--*who_oronte
-Si je te l'ai promis, je te le dépromets.
-
--*who_pourceaugnac
 Elle voudrait bien me tenir.
 
--*who_julie
-Vous avez beau faire, nous serons mariés ensemble en dépit de tout le monde.
-
--*who_oronte
-Je vous en empêcherai bien tous deux, je vous assure.
-Voyez un peu quel vertigo lui prend.
-
--*who_pourceaugnac
 Mon Dieu, notre Beau-père prétendu, ne vous fatiguez point tant ; on n'a pas envie de vous enlever votre Fille, et vos grimaces n'attraperont rien.
 
--*who_oronte
-Toutes les vôtres n'auront pas grand effet.
+Vous êtes-vous mis dans la tête que Léonard de Pourceaugnac soit un Homme à acheter Chat en poche ? Et qu'il n'ait pas là-dedans quelque morceau de judiciaire pour se conduire, pour se faire informer de l'histoire du Monde, et voir en se mariant, si son honneur a bien toutes ses sûretés ?
 
--*who_pourceaugnac
-Vous êtes-vous mis dans la tête que Léonard de Pourceaugnac soit un Homme à acheter Chat en poche ?
-Et qu'il n'ait pas là-dedans quelque morceau de judiciaire pour se conduire, pour se faire informer de l'histoire du Monde, et voir en se mariant, si son honneur a bien toutes ses sûretés ?
-
--*who_oronte
-Je ne sais pas ce que cela veut dire : mais vous êtes-vous mis dans la tête, qu'un Homme de soixante et trois ans ait si peu de cervelle, et considère si peu sa fille, que de la marier avec un Homme qui a ce que vous savez, et qui a été mis chez un Médecin pour être pansé ?
-
--*who_pourceaugnac
 C'est une pièce que l'on m'a faite, et je n'ai aucun mal.
 
--*who_oronte
-Le Médecin me l'a dit lui-même.
-
--*who_pourceaugnac
 Le Médecin en a menti ; je suis Gentilhomme, et je le veux voir l'épée à la main.
 
--*who_oronte
-Je sais ce que j'en dois croire, et vous ne m'abuserez pas là-dessus, non plus que sur les dettes que vous avez assignées sur le Mariage de ma Fille.
-
--*who_pourceaugnac
 Quelles dettes ?
 
--*who_oronte
-La feinte ici est inutile, et j'ai vu le Marchand Flamand, qui, avec les autres Créanciers, a obtenu depuis huit mois Sentence contre vous.
-
--*who_pourceaugnac
 Quel Marchand Flamand ? quels Créanciers ? quelle Sentence obtenue contre moi ?
 
--*who_oronte
-Vous savez bien ce que je veux dire.
-
-**** *book_ *id_II07 *act_II *date_1669 *creator_moliere
-
--*who_lucette
-Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés.
-Podes-tu, scélérat, podes-tu sousteni ma bisto ?
-
--*who_pourceaugnac
 Qu'est-ce que veut cette Femme-là ?
 
--*who_lucette
-Que te boli, infame !
-Tu fas semblan de nou me pas connouysse, et nou rougisses pas, impudent que tu sios, nou rougisses pas de me beyre ?
-Nou sabi pas, Moussur, saquos bous dont m'an dit que bouillo espousa la Fillo ; may yeu bous declari que yeu soun sa Fenno, et que ya set ans, Moussur, qu'en passan à Pezenas el auguet l'adresse dambé sas mignardisos, commo sap tapla fayre, de me gaigna lou cor, et m'oubligel pra quel mouyen à ly douna la ma per l'espousa.
-
--*who_oronte
-Oh, Oh.
-
--*who_pourceaugnac
 Que Diable est-ce ci ?
 
--*who_lucette
-Lou trayté me quitel trés ans aprés, sul preteste de qualques affayres que l'apelabon dins soun Païs, et despey noun ly resçauput quaso de noubelo ; may dins lou tens qui soungeabi lou mens, m'an dounat abist, que begnio dins aquesto Bilo, per se remarida danbé un autro joüena Fillo, que sous Parens ly an proucurado, sensse saupré res de sou prumié mariatge.Yeu ay tout quitat en diligensso, et me souy rendu dodins aqueste Loc lou pu leu qu'ay pouscut, per m'oupousa en aquel criminel mariatge, et confondre as elys de tout le mounde lou plus méchant des Hommes.
-
--*who_pourceaugnac
 Voilà une étrange effrontée !
 
--*who_lucette
-Impudent, n'as pas honte de m'injuria, alloc d'estre confus day reproches secrets que ta conssiensso te deu fayre ?
-
--*who_pourceaugnac
 Moi, je suis votre Mari ?
 
--*who_lucette
-Infame, gausos-tu dire lou contrari ?
-He tu sabes be, per ma penno, que n'es que trop bertat ; et plaguesso al Cel qu'aco nou fougesso pas, et que m'auquesso layssado dins l'estat d'innoussenço et dins la tranquillitat oun moun amo bibio daban que tous charmes et tas trounpariés oun m'en benguesson malhurousomen fayre sourty ; yeu nou serio pas reduito à fayré lou tristé perssounatgé qu'yeu fave presentomen ; à beyre un Marit cruel mespresa touto l'ardou qu'yeu ay per el, et me laissa sensse cap de pietat abandounado à las mourtéles doulous que yeu ressenty de sas perfidos acciûs.
-
--*who_oronte
-Je ne saurais m'empêcher de pleurer.
-Allez, vous êtes un méchant Homme.
-
--*who_pourceaugnac
 Je ne connais rien à tout ceci.
 
-**** *book_ *id_II08 *act_II *date_1669 *creator_moliere
-
--*who_nerine
-Ah je n'en pis plus, je sis toute essoflée.
-Ah finfaron, tu m'as bien fait courir, tu ne m'écaperas mie.
-Justice, justice ; je boute empeschement au Mariage.
-Chés mon Mery, Monsieur, et je veux faire pindre che bon pindar-là.
-
--*who_pourceaugnac
 Encore !
 
--*who_oronte
-Quel diable d'Homme est-ce ci ?
-
--*who_lucette
-Et que boulés-bous dire, ambe bostre empachomen, et bostro pendarié ?
-Quaquel Homo es bostre Marit ?
-
--*who_nerine
-Oui, Medeme, et je sis sa Femme.
-
--*who_lucette
-Aquo es faus, aquos yeu que soun sa Fenno ; et se deû estre pendut, aquo sera yeu que lou faray penda.
-
--*who_nerine
-Je n'entains mie che baragoin-là.
-
--*who_lucette
-Yeu bous disy que yeu soun sa Fenno.
-
--*who_nerine
-Sa Femme ?
-
--*who_lucette
-Oy.
-
--*who_nerine
-Je vous dis que chest my, encore in coup, qui le sis.
-
--*who_lucette
-Et yeu bous sousteni yeu, qu'aquos yeu.
-
--*who_nerine
-Il y a quetre ans qu'il m'a éposée.
-
--*who_lucette
-Et yeu set ans y a que m'a preso per Fenno.
-
--*who_nerine
-J'ay des gairents de tout ce que je dy.
-
--*who_lucette
-Tout mon Païs lo sap.
-
--*who_nerine
-No Ville en est témoin.
-
--*who_lucette
-Tout Pézenas a bist nostre mariatge.
-
--*who_nerine
-Tout Chin-Quentin a assisté à no Noce.
-
--*who_lucette
-Nou y a res de tan beritable.
-
--*who_nerine
-Il gn'y a rien de plus chertain.
-
--*who_lucette
-Gausos-tu dire lou contrari, valisquos ?
-
--*who_nerine
-Est-che que tu me démaintiras, méchaint Homme ?
-
--*who_pourceaugnac
 Il est aussi vrai l'un que l'autre.
 
--*who_lucette
-Quaign'inpudensso !
-Et coussy, miserable, nou te soubenes plus de la pauro Françon, et del paure Jeanet, que soun lous fruits de nostre mariatge ?
-
--*who_nerine
-Bayez un peu l'insolence.
-Quoy, tu ne te souviens mie de chette pauvre ainfain, no petite Madelaine, que tu m'as laichée pour gaige de ta foy ?
-
--*who_pourceaugnac
 Voilà deux impudentes carognes !
 
--*who_lucette
-Beny Françon, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre à un Payre dénaturat la duretat qu'el a per nautres.
-
--*who_nerine
-Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte à vo père de l'inpudainche qu'il a.
-
--*who_jeanet
-Ah mon Papa, mon Papa, mon Papa.
-
--*who_pourceaugnac
 Diantre soit des petits Fils de Putains.
 
--*who_lucette
-Coussy, trayte, tu nou sios pas dins la darnière confusiu, de ressaupre à tal tous Enfants, et de ferma l'aureillo à la tendresso paternello ?
-Tu nou m'escaperas pas, infame, yeu te boly seguy per tout, et te reproucha ton crime jusquos à tant que me sio beniado, et que t'ayo fayt penia, couqui, te boli fayré penia.
-
--*who_nerine
-Ne rougis-tu mie de dire ches mots-là, et d'estre insainsible aux cairesses de chette pauvre ainfain ?
-Tu ne te sauveras mie de mes pates ; et en dépit de tes dains ; je feray bien voir que je sis ta Femme, et je te feray pindre.
-
--*who_enfants
-Mon Papa, mon Papa, mon Papa.
-
--*who_pourceaugnac
 Au secours, au secours, où fuirai-je ? je n'en puis plus.
 
--*who_oronte
-Allez, vous ferez bien de le faire punir, et il mérite d'être pendu.
+Ah je suis assommé. Quelle peine ! Quelle maudite Ville ! Assassiné de tous côtés !
 
-**** *book_ *id_II09 *act_II *date_1669 *creator_moliere
+Oui. Il pleut en ce Pays des Femmes et des Lavements.
 
--*who_sbrigani
-Je conduis de l'œil toutes choses, et tout ceci ne va pas mal.
-Nous fatiguerons tant notre Provincial, qu'il faudra, ma foi, qu'il déguerpisse.
-
-**** *book_ *id_II10 *act_II *date_1669 *creator_moliere
-
--*who_pourceaugnac
-Ah je suis assommé.
-Quelle peine !
-Quelle maudite Ville !
-Assassiné de tous côtés !
-
--*who_sbrigani
-Qu'est-ce, Monsieur, est-il encore arrivé quelque chose ?
-
--*who_pourceaugnac
-Oui.
-Il pleut en ce Pays des Femmes et des Lavements.
-
--*who_sbrigani
-Comment donc ?
-
--*who_pourceaugnac
 Deux carognes de baragouineuses me sont venues accuser de les avoir épousées toutes deux, et me menacent de la justice.
 
--*who_sbrigani
-Voilà une méchante affaire, et la justice en ce Pays-ci est rigoureuse en diable contre cette sorte de crime.
-
--*who_pourceaugnac
 Oui : Mais quand il y aurait Information, Ajournement, Décret, et Jugement obtenu par surprise, Défaut et Contumace, j'ai la voie de Conflit de Juridiction, pour temporiser et venir aux Moyens de nullité qui seront dans les Procédures.
 
--*who_sbrigani
-Voilà en parler dans tous les termes ; et l'on voit bien, Monsieur, que vous êtes du métier.
-
--*who_pourceaugnac
 Moi, point du tout, je suis Gentilhomme.
 
--*who_sbrigani
-Il faut bien pour parler ainsi, que vous ayez étudié la Pratique.
-
--*who_pourceaugnac
 Point, ce n'est que le sens commun qui me fait juger que je serai toujours reçu à mes Faits justificatifs, et qu'on ne me saurait condamner sur une simple accusation, sans un récolement et confrontation avec mes Parties.
 
--*who_sbrigani
-En voilà du plus fin encore.
-
--*who_pourceaugnac
 Ces mots-là me viennent sans que je les sache.
 
--*who_sbrigani
-Il me semble que le sens commun d'un Gentilhomme peut bien aller à concevoir ce qui est du droit et de l'ordre de la Justice ; mais non pas à savoir les vrais termes de la Chicane.
-
--*who_pourceaugnac
 Ce sont quelques mots que j'ai retenus en lisant les Romans.
 
--*who_sbrigani
-Ah fort bien.
-
--*who_pourceaugnac
 Pour vous montrer que je n'entends rien du tout à la Chicane, je vous prie de me mener chez quelque Avocat pour consulter mon Affaire.
 
--*who_sbrigani
-Je le veux, et vais vous conduire chez deux Hommes fort habiles ; mais j'ai auparavant à vous avertir de n'être point surpris de leur manière de parler ; ils ont contracté du Barreau certaine habitude de Déclamation, qui fait que l'on dirait qu'ils chantent, et vous prendrez pour Musique tout ce qu'ils vous diront.
-
--*who_pourceaugnac
 Qu'importe comme ils parlent, pourvu qu'ils me disent ce que je veux savoir.
 
-**** *book_ *id_II11 *act_II *date_1669 *creator_moliere
-
--*who_avocat1
-La polygamie est un cas,
-Est un cas pendable.
-
--*who_avocat2
-Votre fait
-Est clair et net ;
-Et tout le droit
-Sur cet endroit
-Conclut tout droit.
-Si vous consultez nos Auteurs,
-Législateurs et Glossateurs,
-Justinian, Papinian,
-Ulpian et Tribonian,
-Fernand, Rebuffe, Jean Imole,
-Paul, Castre, Julian, Barthole,
-Jason, Alciat et Cujas,
-Ce grand Homme si capable ;
-La Polygamie est un cas
-Est un cas pendable.
-Tous les Peuples policés,
-Et bien sensés ;
-Les Français, Anglais, Hollandais,
-Danois, Suédois, Polonais,
-Portugais, Espagnols, Flamands,
-Italiens, Allemands,
-Sur ce fait tiennent loi semblable,
-Et l'affaire est sans embarras ;
-La polygamie est un cas,
-Est un cas pendable.
-
-**** *book_ *id_III01 *act_III *date_1669 *creator_moliere
-
--*who_sbrigani
-Oui, les choses s'acheminent où nous voulons : Et comme ses lumières sont fort petites, et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la Justice de ce Pays, et des apprêts qu'on faisait déjà pour sa mort, qu'il veut prendre la fuite ; et pour se dérober avec plus de facilité aux Gens que je lui ai dit qu'on avait mis pour l'arrêter aux Portes de la Ville, il s'est résolu à se déguiser, et le déguisement qu'il a pris est l'habit d'une Femme.
-
--*who_eraste
-Je voudrais bien le voir en cet équipage.
-
--*who_sbrigani
-Songez de votre part à achever la Comédie ; et tandis que je jouerai mes Scènes avec lui, allez-vous-en… Vous entendez bien ?
-
--*who_eraste
-Oui.
-
--*who_sbrigani
-Et lorsque je l'aurai mis où je veux…
-
--*who_eraste
-Fort bien.
-
--*who_sbrigani
-Et quand le Père aura été averti par moi…
-
--*who_eraste
-Cela va le mieux du monde.
-
--*who_sbrigani
-Voici notre Demoiselle, allez vite, qu'il ne nous voie ensemble.
-
-**** *book_ *id_III02 *act_III *date_1669 *creator_moliere
-
--*who_sbrigani
-Pour moi, je ne crois pas qu'en cet état on puisse jamais vous connaître, et vous avez la mine comme cela, d'une Femme de condition.
-
--*who_pourceaugnac
 Voilà qui m'étonne, qu'en ce Pays-ci les formes de la Justice ne soient point observées.
 
--*who_sbrigani
-Oui, je vous l'ai déjà dit, ils commencent ici par faire pendre un Homme, et puis ils lui font son Procès.
-
--*who_pourceaugnac
 Voilà une Justice bien injuste.
 
--*who_sbrigani
-Elle est sévère comme tous les Diables, particulièrement sur ces sortes de crimes.
-
--*who_pourceaugnac
 Mais quand on est innocent ?
 
--*who_sbrigani
-N'importe, ils ne s'enquêtent point de cela ; et puis ils ont en cette Ville une haine effroyable pour les Gens de votre Pays, et ils ne sont point plus ravis que de voir pendre un Limosin.
-
--*who_pourceaugnac
 Qu'est-ce que les Limosins leur ont fait ?
 
--*who_sbrigani
-Ce sont des brutaux, ennemis de la gentillesse et du mérite des autres Villes.
-Pour moi, je vous avoue que je suis pour vous dans une peur épouvantable ; et je ne me consolerais de ma vie, si vous veniez à être pendu.
-
--*who_pourceaugnac
 Ce n'est pas tant la peur de la mort qui me fait fuir, que de ce qu'il est fâcheux à un Gentilhomme d'être pendu, et qu'une preuve comme celle-là ferait tort à nos Titres de Noblesse.
 
--*who_sbrigani
-Vous avez raison, on vous contesterait après cela le Titre d'Écuyer.
-Au reste, étudiez-vous, quand je vous mènerai par la main, à bien marcher comme une Femme, et prendre le langage et toutes les manières d'une Personne de qualité.
-
--*who_pourceaugnac
 Laissez-moi faire, j'ai vu les Personnes du bel air ; tout ce qu'il y a, c'est que j'ai un peu de barbe.
 
--*who_sbrigani
-Votre barbe n'est rien, et il y a des Femmes qui en ont autant que vous.
-Çà, voyons un peu comme vous ferez.
-Bon.
+Allons donc, mon Carrosse ; où est-ce qu'est mon Carrosse ? Mon Dieu, qu'on est misérable, d'avoir des Gens comme cela ! Est-ce qu'on me fera attendre toute la journée sur le pavé, et qu'on ne me fera point venir mon Carrosse ?
 
--*who_pourceaugnac
-Allons donc, mon Carrosse ; où est-ce qu'est mon Carrosse ?
-Mon Dieu, qu'on est misérable, d'avoir des Gens comme cela !
-Est-ce qu'on me fera attendre toute la journée sur le pavé, et qu'on ne me fera point venir mon Carrosse ?
+Holà ! ho, Cocher, petit Laquais. Ah petit fripon, que de coups de fouet je vous ferai donner tantôt ! Petit Laquais, petit Laquais ; où est-ce donc qu'est ce petit Laquais ? ce petit Laquais ne se trouvera-t-il point ? ne me fera-t-on point venir ce petit Laquais ? est-ce que je n'ai point un petit Laquais dans le monde ?
 
--*who_sbrigani
-Fort bien.
-
--*who_pourceaugnac
-Holà ! ho, Cocher, petit Laquais.
-Ah petit fripon, que de coups de fouet je vous ferai donner tantôt !
-Petit Laquais, petit Laquais ; où est-ce donc qu'est ce petit Laquais ? ce petit Laquais ne se trouvera-t-il point ? ne me fera-t-on point venir ce petit Laquais ? est-ce que je n'ai point un petit Laquais dans le monde ?
-
--*who_sbrigani
-Voilà qui va à merveille : mais je remarque une chose, cette Coiffe est un peu trop déliée, j'en vais quérir une un peu plus épaisse, pour vous mieux cacher le visage, en cas de quelque rencontre.
-
--*who_pourceaugnac
 Que deviendrai-je cependant ?
 
--*who_sbrigani
-Attendez-moi là.
-Je suis à vous dans un moment ; vous n'avez qu'à vous promener.
-
-**** *book_ *id_III03 *act_III *date_1669 *creator_moliere
-
--*who_suisse1
-Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l'a esté contané par Ortonnance à l'être pendu par son cou.
-
--*who_suisse1
-Li faut nous loër un fenestre pour foir sti Choustice.
-
--*who_suisse1
-Li disent que l'on fait téjà planter un grand potence tout neuve pour li accrocher sti Porcegnac.
-
--*who_suisse2
-Ly sira, ma foi, un grand plaisir, d'y regarter pendre sti Limosin.
-
--*who_suisse1
-Oui, de li foir gambiller les pieds en haut tevant tout le monde.
-
--*who_suisse2
-Li est un plaisant drole, oui ; li disent que c'être marié trois foye.
-
--*who_suisse1
-Sti diable li vouloir trois Femmes à li tout seul ; li est bien assez t'une.
-
--*who_suisse2
-Ah pon chour, Mameselle.
-
--*who_suisse1
-Que faire fous là tout seul ?
-
--*who_pourceaugnac
 J'attends mes Gens, Messieurs.
 
--*who_suisse2
-Li est belle, par mon foi.
-
--*who_pourceaugnac
 Doucement, Messieurs.
 
--*who_suisse1
-Fous, Mameselle, fouloir finir réchouir fous à la Crève ?
-Nous faire foir à fous un petit pendement pien choli.
-
--*who_pourceaugnac
 Je vous rends grâce.
 
--*who_suisse2
-L'est un Gentilhomme Limossin qui sera pendu chantiment, à un grand potence.
-
--*who_pourceaugnac
 Je n'ai pas de curiosité.
 
--*who_suisse1
-Li est là un petit teton qui l'est drole.
-
--*who_pourceaugnac
 Tout beau.
 
--*who_suisse1
-Mon foy, moi couchair pien avec fous.
-
--*who_pourceaugnac
 Ah c'en est trop, et ces sortes d'ordures-là ne se disent point à une Femme de ma condition.
 
--*who_suisse2
-Laisse, toi, l'est moi qui le veut couchair avec elle.
-
--*who_suisse1
-Moy ne vouloir pas laisser.
-
--*who_suisse1
-Moi li vouloir, moi.
-
--*who_suisse1
-Moi ne faire rien.
-
--*who_suisse1
-Toi l'avoir menti.
-
--*who_suisse1
-Toi l'avoir menty toi-même.
-
--*who_pourceaugnac
 Au secours, à la force.
 
-**** *book_ *id_III04 *act_III *date_1669 *creator_moliere
-
--*who_exempt
-Qu'est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ?
-Allons, que l'on sorte de là, si vous ne voulez que je vous mette en prison.
-
--*who_suisse1
-Parti pon, toi ne l'afoir point.
-
--*who_suisse2
-Parti pon aussi, toi ne l'afoir point encore.
-
--*who_pourceaugnac
 Je vous suis bien obligée, Monsieur, de m'avoir délivrée de ces insolents.
 
--*who_exempt
-Ouais, voilà un visage qui ressemble bien à celui que l'on m'a dépeint.
-
--*who_pourceaugnac
 Ce n'est pas moi, je vous assure.
 
--*who_exempt
-Ah, ah ! qu'est-ce que je veux dire ?
-
--*who_pourceaugnac
 Je ne sais pas.
 
--*who_exempt
-Pourquoi donc dites-vous cela ?
-
--*who_pourceaugnac
 Pour rien.
 
--*who_exempt
-Voilà un discours qui marque quelque chose, et je vous arrête prisonnier.
-
--*who_pourceaugnac
 Eh, Monsieur, de grâce.
 
--*who_exempt
-Non, non : à votre mine, et à vos discours, il faut que vous soyez ce Monsieur de Pourceaugnac que nous cherchons, qui se soit déguisé de la sorte ; et vous viendrez en prison tout à l'heure.
-
--*who_pourceaugnac
 Hélas !
 
-**** *book_ *id_III05 *act_III *date_1669 *creator_moliere
-
--*who_sbrigani
-Ah Ciel ! que veut dire cela ?
-
--*who_pourceaugnac
 Ils m'ont reconnu.
 
--*who_exempt
-Oui, oui, c'est de quoi je suis ravi.
-
--*who_sbrigani
-Eh !
-Monsieur, pour l'amour de moi : vous savez que nous sommes Amis il y a longtemps ; je vous conjure de ne le point mener en prison.
-
--*who_exempt
-Non ; il m'est impossible.
-
--*who_sbrigani
-Vous êtes Homme d'accommodement ; n'y a-t-il pas moyen d'ajuster cela avec quelques Pistoles ?
-
--*who_exempt
-Retirez-vous un peu.
-
--*who_sbrigani
-Il faut lui donner de l'argent pour vous laisser aller ; Faites vite.
-
--*who_pourceaugnac
 Ah maudite Ville !
 
--*who_sbrigani
-Tenez, Monsieur.
-
--*who_exempt
-Combien y a-t-il ?
-
--*who_sbrigani
-Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
-
--*who_exempt
-Non, mon ordre est trop exprès.
-
--*who_sbrigani
-Mon Dieu attendez.
-Dépêchez, donnez-lui-en encore autant.
-
--*who_pourceaugnac
 Mais…
 
--*who_sbrigani
-Dépêchez-vous, vous dis-je, et ne perdez point de temps : Vous auriez un grand plaisir, quand vous seriez pendu.
-
--*who_pourceaugnac
 Ah !
 
--*who_sbrigani
-Tenez, Monsieur.
+Adieu. Voilà le seul honnête Homme que j'ai trouvé en cette Ville.
 
--*who_exempt
-Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sûreté pour moi.
-Laissez-le-moi conduire, et ne bougez d'ici.
 
--*who_sbrigani
-Je vous prie donc d'en avoir un grand soin.
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
--*who_exempt
-Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sûreté.
+Oui, je l'attends de Limoges, et il devrait être arrivé.
 
--*who_pourceaugnac
-Adieu.
-Voilà le seul honnête Homme que j'ai trouvé en cette Ville.
+Comment donc ?
 
--*who_sbrigani
-Ne perdez point de temps ; je vous aime tant, que je voudrais que vous fussiez déjà bien loin.
-Que le Ciel te conduise !
-Par ma foi, voilà une grande dupe.
-Mais voici…
+Il a quelque mal ?
 
-**** *book_ *id_III06 *act_III *date_1669 *creator_moliere
+Et quel mal, s'il vous plaît ?
 
--*who_sbrigani
-Ah ! quelle étrange aventure ! quelle fâcheuse nouvelle pour un Père !
-Pauvre Oronte, que je te plains !
-Que diras-tu ? et de quelle façon pourras-tu supporter cette douleur mortelle ?
+Est-ce quelque mal…
 
--*who_oronte
+Je n'ai garde, si cela est, de faire le Mariage.
+
+À la bonne heure.
+
+J'y consens.
+
+Je le veux bien.
+
+Je me porte bien.
+
+Prenez qui vous voudrez, mais ce ne sera pas moi. Voyez un peu la belle raison.
+
+Quoi, Monsieur ?
+
+Dites-moi, Monsieur, ce que vous voulez.
+
+Soit. Qu'y a-t-il, Monsieur ?
+
+Oui, je le connais.
+
+C'est un Homme comme les autres.
+
+Oui.
+
+Oui.
+
+Mais pourquoi cela ?
+
+Mais encore, pourquoi ?
+
+Hé bien.
+
+Ce Monsieur de Pourceaugnac doit beaucoup à dix ou douze Marchands ?
+
+Hon, hon, il a remis là à payer ses Créanciers ?
+
+L'avis n'est pas mauvais. Je vous donne le bonjour.
+
+Votre très humble valet.
+
+Serviteur, Monsieur, serviteur.
+
+Oui.
+
+À la bonne heure.
+
+Croyez-vous, Monsieur de Pourceaugnac, que les Parisiens soient des bêtes ?
+
+Vous imaginez-vous, Monsieur de Pourceaugnac, qu'une Fille comme la mienne soit si affamée de Mari ?
+
+Doucement, ma Fille, doucement.
+
+Je voudrais bien savoir, Monsieur de Pourceaugnac, par quelle raison vous venez…
+
+Ah, ma Fille, ôtez-vous de là, vous dis-je.
+
+Je voudrais bien, dis-je, savoir par quelle raison, s'il vous plaît, vous avez la hardiesse de…
+
+Encore, qu'est-ce à dire cela ?
+
+Non : rentrez là -dedans.
+
+Rentrez, vous dis-je.
+
+Je ne veux pas, moi ; et si tu ne rentres tout à l'heure, je…
+
+Ma Fille est une sotte, qui ne sait pas les choses.
+
+Tu ne veux pas te retirer ?
+
+Jamais ; et tu n'es pas pour lui.
+
+Si je te l'ai promis, je te le dépromets.
+
+Je vous en empêcherai bien tous deux, je vous assure. Voyez un peu quel vertigo lui prend.
+
+Toutes les vôtres n'auront pas grand effet.
+
+Je ne sais pas ce que cela veut dire : mais vous êtes-vous mis dans la tête, qu'un Homme de soixante et trois ans ait si peu de cervelle, et considère si peu sa fille, que de la marier avec un Homme qui a ce que vous savez, et qui a été mis chez un Médecin pour être pansé ?
+
+Le Médecin me l'a dit lui-même.
+
+Je sais ce que j'en dois croire, et vous ne m'abuserez pas là-dessus, non plus que sur les dettes que vous avez assignées sur le Mariage de ma Fille.
+
+La feinte ici est inutile, et j'ai vu le Marchand Flamand, qui, avec les autres Créanciers, a obtenu depuis huit mois Sentence contre vous.
+
+Vous savez bien ce que je veux dire.
+
+Oh, Oh.
+
+Je ne saurais m'empêcher de pleurer. Allez, vous êtes un méchant Homme.
+
+Quel diable d'Homme est-ce ci ?
+
+Allez, vous ferez bien de le faire punir, et il mérite d'être pendu.
+
 Qu'est-ce ? quel malheur me présages-tu ?
 
--*who_sbrigani
-Ah !
-Monsieur, ce perfide de Limosin, ce traître de Monsieur de Pourceaugnac vous enlève votre Fille.
-
--*who_oronte
 Il m'enlève ma Fille !
 
--*who_sbrigani
-Oui ; elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un Caractère pour se faire aimer de toutes les Femmes.
+Allons vite à la Justice. Des Archers après eux.
 
--*who_oronte
-Allons vite à la Justice.
-Des Archers après eux.
-
-**** *book_ *id_III07 *act_III *date_1669 *creator_moliere
-
--*who_eraste
-Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre Père.
-Tenez, Monsieur, voilà votre Fille que j'ai tirée de force d'entre les mains de l'Homme avec qui elle s'enfuyait ; non pas pour l'amour d'elle, mais pour votre seule considération : car après l'action qu'elle a faite, je dois la mépriser, et me guérir absolument de l'amour que j'avais pour elle.
-
--*who_oronte
 Ah infâme que tu es !
 
--*who_eraste
-Comment ? me traiter de la sorte, après toutes les marques d'amitié que je vous ai données !
-Je ne vous blâme point de vous être soumise aux volontés de Monsieur votre Père ; il est sage et judicieux dans les choses qu'il fait, et je ne me plains point de lui de m'avoir rejeté pour un autre.
-S'il a manqué à la parole qu'il m'avait donnée, il a ses raisons pour cela.
-On lui a fait croire que cet autre est plus riche que moi de quatre ou cinq mille écus ; et quatre ou cinq mille écus est un denier considérable, et qui vaut bien la peine qu'un Homme manque à sa parole : Mais oublier en un moment toute l'ardeur que je vous ai montrée, vous laisser d'abord enflammer d'amour pour un nouveau venu, et le suivre honteusement sans le consentement de Monsieur votre Père, après les crimes qu'on lui impute, c'est une chose condamnée de tout le monde, et dont mon cœur ne peut vous faire d'assez sanglants reproches.
+Taisez-vous ! Vous êtes une impertinente, et je sais mieux que vous ce qui en est.
 
--*who_julie
-Hé bien ! oui, j'ai conçu de l'amour pour lui, et je l'ai voulu suivre, puisque mon Père me l'avait choisi pour Époux.
-Quoi que vous me disiez, c'est un fort honnête Homme ; et tous les crimes dont on l'accuse, sont faussetés épouvantables.
-
--*who_oronte
-Taisez-vous !
-Vous êtes une impertinente, et je sais mieux que vous ce qui en est.
-
--*who_julie
-Ce sont sans doute des pièces qu'on lui fait, et c'est peut-être lui qui a trouvé cet artifice pour vous en dégoûter.
-
--*who_eraste
-Moi, je serais capable de cela !
-
--*who_julie
-Oui, vous.
-
--*who_oronte
 Taisez-vous, vous dis-je ? vous êtes une sotte.
 
--*who_eraste
-Non, non, ne vous imaginez pas que j'aie aucune envie de détourner ce Mariage, et que ce soit ma passion qui m'ait forcé à courir après vous.
-Je vous l'ai déjà dit, ce n'est que la seule considération que j'ai pour Monsieur votre Père, et je n'ai pu souffrir qu'un honnête Homme comme lui fût exposé à la honte de tous les bruits qui pourraient suivre une action comme la vôtre.
-
--*who_oronte
 Je vous suis, Seigneur Éraste, infiniment obligé.
 
--*who_eraste
-Adieu, Monsieur, j'avais toutes les ardeurs du monde d'entrer dans votre Alliance ; j'ai fait tout ce que j'ai pu pour obtenir un tel honneur, mais j'ai été malheureux, et vous ne m'avez pas jugé digne de cette grâce.
-Cela n'empêchera pas que je ne conserve pour vous les sentiments d'estime et de vénération où votre Personne m'oblige ; et si je n'ai pu être votre Gendre, au moins serai-je éternellement votre Serviteur.
-
--*who_oronte
 Arrêtez, Seigneur Éraste ; votre procédé me touche l'âme, et je vous donne ma Fille en mariage.
 
--*who_julie
-Je ne veux point d'autre Mari que Monsieur de Pourceaugnac.
+Et je veux, moi, tout à l'heure, que tu prennes le Seigneur Éraste. Çà, la main.
 
--*who_oronte
-Et je veux, moi, tout à l'heure, que tu prennes le Seigneur Éraste.
-Çà, la main.
-
--*who_julie
-Non, je n'en ferai rien.
-
--*who_oronte
 Je te donnerai sur les oreilles.
 
--*who_eraste
-Non, non, Monsieur, ne lui faites point de violence, je vous en prie.
-
--*who_oronte
 C'est à elle à m'obéir, et je sais me montrer le Maître.
 
--*who_eraste
-Ne voyez-vous pas l'amour qu'elle a pour cet Homme-là ?
-Et voulez-vous que je possède un Corps, dont un autre possédera le cœur ?
+C'est un sortilège qu'il lui a donné, et vous verrez qu'elle changera de sentiment avant qu'il soit peu. Donnez-moi votre main. Allons.
 
--*who_oronte
-C'est un sortilège qu'il lui a donné, et vous verrez qu'elle changera de sentiment avant qu'il soit peu.
-Donnez-moi votre main.
-Allons.
+Ah que de bruit. Çà, votre main, vous dis-je. Ah, ah, ah.
 
--*who_julie
+Je vous suis beaucoup obligé, et j'augmente de dix mille écus le Mariage de ma Fille. Allons, qu'on fasse venir le Notaire pour dresser le Contrat.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
+
+Mon Dieu, Éraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble ; et tout serait perdu, après la défense que l'on m'a faite.
+
+Aie aussi l'œil au guet, Nérine, et prends bien garde qu'il ne vienne personne.
+
+Avez-vous imaginé pour notre affaire quelque chose de favorable ? et croyez-vous, Éraste, pouvoir venir à bout de détourner ce fâcheux Mariage que mon Père s'est mis en tête ?
+
+Ah séparons-nous vite.
+
+Mon Dieu, Nérine, que tu es sotte, de nous donner de ces frayeurs !
+
+S'il ne tient qu'à cela, les choses iront à merveille.
+
+Je déclarerai à mon Père mes véritables sentiments.
+
+Je le menacerais de me jeter dans un Convent.
+
+Que voulez-vous que je vous dise ?
+
+Oui.
+
+Mais quoi ?
+
+Mon Dieu, Éraste, contentez-vous de ce que je fais maintenant, et n'allez point tenter sur l'avenir les résolutions de mon cœur : ne fatiguez point mon devoir par les propositions d'une fâcheuse extrémité dont peut-être n'aurons-nous pas besoin ; et s'il y faut venir, souffrez au moins que j'y sois entraînée par la suite des choses.
+
+On vient de me dire, mon Père, que Monsieur de Pourceaugnac est arrivé. Ah le voilà sans doute, et mon cœur me le dit. Qu'il est bien fait ! qu'il a bon air ! et que je suis contente d'avoir un tel Époux ! Souffrez que je l'embrasse, et que je lui témoigne…
+
+Que je suis aise de vous voir ! et que je brûle d'impatience…
+
+Ne voulez-vous pas que je caresse l'Époux que vous m'avez choisi ?
+
+Laissez-moi le regarder.
+
+Je veux demeurer là, s'il vous plaît.
+
+Hé bien, je rentre.
+
+Quand est-ce donc que vous me marierez avec Monsieur ?
+
+Je le veux avoir, moi, puisque vous me l'avez promis.
+
+Vous avez beau faire, nous serons mariés ensemble en dépit de tout le monde.
+
+Hé bien ! oui, j'ai conçu de l'amour pour lui, et je l'ai voulu suivre, puisque mon Père me l'avait choisi pour Époux. Quoi que vous me disiez, c'est un fort honnête Homme ; et tous les crimes dont on l'accuse, sont faussetés épouvantables.
+
+Ce sont sans doute des pièces qu'on lui fait, et c'est peut-être lui qui a trouvé cet artifice pour vous en dégoûter.
+
+Oui, vous.
+
+Je ne veux point d'autre Mari que Monsieur de Pourceaugnac.
+
+Non, je n'en ferai rien.
+
 Je ne…
 
--*who_oronte
-Ah que de bruit.
-Çà, votre main, vous dis-je.
-Ah, ah, ah.
 
--*who_eraste
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
+Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.
+
+Par ma foi, voilà votre Père !
+
+Non, non, non, ne bougez, je m'étais trompée.
+
+Assurément.Votre Père se moque-t-il de vouloir vous anger de son Avocat de Limoges, Monsieur de Pourceaugnac, qu'il n'a vu de sa vie, et qui vient par le Coche vous enlever à notre barbe ? Faut-il que trois ou quatre mille écus de plus, sur la parole de votre Oncle, lui fassent rejeter un Amant qui vous agrée ? Et une Personne comme vous, est-elle faite pour un Limosin ? S'il a envie de se marier, que ne prend-il une Limosine, et ne laisse-t-il en repos les Chrétiens ? Le seul nom de Monsieur de Pourceaugnac m'a mis dans une colère effroyable.J'enrage de Monsieur de Pourceaugnac.Quand il n'y aurait que ce nom-là, Monsieur de Pourceaugnac, j'y brûlerai mes Livres, ou je romprai ce Mariage, et vous ne serez point Madame de Pourceaugnac.Pourceaugnac ! cela se peut-il souffrir ? Non, Pourceaugnac est une chose que je ne saurais supporter, et nous lui jouerons tant de pièces, nous lui ferons tant de niches sur niches, que nous renverrons à Limoges Monsieur de Pourceaugnac.
+
+Madame, voilà un Illustre, votre affaire ne pouvait être mise en de meilleures mains, et c'est le Héros de notre Siècle pour les exploits dont il s'agit : Un Homme qui vingt fois en sa vie pour servir ses Amis, a généreusement affronté les Galères ; qui au péril de ses bras et de ses épaules, sait mettre noblement à fin les aventures les plus difficiles ; et qui, tel que vous le voyez, est exilé de son Pays pour je ne sais combien d'actions honorables qu'il a généreusement entreprises.
+
+Ce sont petites bagatelles qui ne valent pas qu'on en parle, et vos éloges me font rougir.
+
+Ah comme il est bâti !
+
+Ah je n'en pis plus, je sis toute essoflée. Ah finfaron, tu m'as bien fait courir, tu ne m'écaperas mie. Justice, justice ; je boute empeschement au Mariage. Chés mon Mery, Monsieur, et je veux faire pindre che bon pindar-là.
+
+Oui, Medeme, et je sis sa Femme.
+
+Je n'entains mie che baragoin-là.
+
+Sa Femme ?
+
+Je vous dis que chest my, encore in coup, qui le sis.
+
+Il y a quetre ans qu'il m'a éposée.
+
+J'ay des gairents de tout ce que je dy.
+
+No Ville en est témoin.
+
+Tout Chin-Quentin a assisté à no Noce.
+
+Il gn'y a rien de plus chertain.
+
+Est-che que tu me démaintiras, méchaint Homme ?
+
+Bayez un peu l'insolence. Quoy, tu ne te souviens mie de chette pauvre ainfain, no petite Madelaine, que tu m'as laichée pour gaige de ta foy ?
+
+Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte à vo père de l'inpudainche qu'il a.
+
+Ne rougis-tu mie de dire ches mots-là, et d'estre insainsible aux cairesses de chette pauvre ainfain ? Tu ne te sauveras mie de mes pates ; et en dépit de tes dains ; je feray bien voir que je sis ta Femme, et je te feray pindre.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucette
+
+Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés. Podes-tu, scélérat, podes-tu sousteni ma bisto ?
+
+Que te boli, infame ! Tu fas semblan de nou me pas connouysse, et nou rougisses pas, impudent que tu sios, nou rougisses pas de me beyre ? Nou sabi pas, Moussur, saquos bous dont m'an dit que bouillo espousa la Fillo ; may yeu bous declari que yeu soun sa Fenno, et que ya set ans, Moussur, qu'en passan à Pezenas el auguet l'adresse dambé sas mignardisos, commo sap tapla fayre, de me gaigna lou cor, et m'oubligel pra quel mouyen à ly douna la ma per l'espousa.
+
+Lou trayté me quitel trés ans aprés, sul preteste de qualques affayres que l'apelabon dins soun Païs, et despey noun ly resçauput quaso de noubelo ; may dins lou tens qui soungeabi lou mens, m'an dounat abist, que begnio dins aquesto Bilo, per se remarida danbé un autro joüena Fillo, que sous Parens ly an proucurado, sensse saupré res de sou prumié mariatge.Yeu ay tout quitat en diligensso, et me souy rendu dodins aqueste Loc lou pu leu qu'ay pouscut, per m'oupousa en aquel criminel mariatge, et confondre as elys de tout le mounde lou plus méchant des Hommes.
+
+Impudent, n'as pas honte de m'injuria, alloc d'estre confus day reproches secrets que ta conssiensso te deu fayre ?
+
+Infame, gausos-tu dire lou contrari ? He tu sabes be, per ma penno, que n'es que trop bertat ; et plaguesso al Cel qu'aco nou fougesso pas, et que m'auquesso layssado dins l'estat d'innoussenço et dins la tranquillitat oun moun amo bibio daban que tous charmes et tas trounpariés oun m'en benguesson malhurousomen fayre sourty ; yeu nou serio pas reduito à fayré lou tristé perssounatgé qu'yeu fave presentomen ; à beyre un Marit cruel mespresa touto l'ardou qu'yeu ay per el, et me laissa sensse cap de pietat abandounado à las mourtéles doulous que yeu ressenty de sas perfidos acciûs.
+
+Et que boulés-bous dire, ambe bostre empachomen, et bostro pendarié ? Quaquel Homo es bostre Marit ?
+
+Aquo es faus, aquos yeu que soun sa Fenno ; et se deû estre pendut, aquo sera yeu que lou faray penda.
+
+Yeu bous disy que yeu soun sa Fenno.
+
+Oy.
+
+Et yeu bous sousteni yeu, qu'aquos yeu.
+
+Et yeu set ans y a que m'a preso per Fenno.
+
+Tout mon Païs lo sap.
+
+Tout Pézenas a bist nostre mariatge.
+
+Nou y a res de tan beritable.
+
+Gausos-tu dire lou contrari, valisquos ?
+
+Quaign'inpudensso ! Et coussy, miserable, nou te soubenes plus de la pauro Françon, et del paure Jeanet, que soun lous fruits de nostre mariatge ?
+
+Beny Françon, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre à un Payre dénaturat la duretat qu'el a per nautres.
+
+Coussy, trayte, tu nou sios pas dins la darnière confusiu, de ressaupre à tal tous Enfants, et de ferma l'aureillo à la tendresso paternello ? Tu nou m'escaperas pas, infame, yeu te boly seguy per tout, et te reproucha ton crime jusquos à tant que me sio beniado, et que t'ayo fayt penia, couqui, te boli fayré penia.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_eraste
+
+Je regarde de tous côtés, et je n'aperçois rien.
+
+Au moins y travaillons-nous fortement ; et déjà nous avons préparé un bon nombre de Batteries pour renverser ce dessein ridicule.
+
+Oui, belle Julie, nous avons dressé pour cela quantité de Machines, et nous ne feignons point de mettre tout en usage, sur la permission que vous m'avez donnée.Ne nous demandez point tous les ressorts que nous ferons jouer, vous en aurez le divertissement ; et comme aux Comédies, il est bon de vous laisser le plaisir de la surprise, et de ne vous avertir point de tout ce qu'on vous fera voir, c'est assez de vous dire que nous avons en main divers stratagèmes tous prêts à produire dans l'occasion, et que l'ingénieuse Nérine et l'adroit Sbrigani entreprennent l'affaire.
+
+Voici notre subtil Napolitain, qui nous dira des nouvelles.
+
+Nous dis-tu vrai ?
+
+Au moins, Madame, souvenez-vous de votre Rôle ; et pour mieux couvrir notre jeu, feignez, comme on vous a dit, d'être la plus contente du monde des résolutions de votre Père.
+
+Mais, belle Julie, si toutes nos Machines venaient à ne pas réussir ?
+
+Et si contre vos sentiments il s'obstinait à son dessein ?
+
+Mais si malgré tout cela il voulait vous forcer à ce Mariage ?
+
+Ce que je veux que vous me disiez ?
+
+Ce qu'on dit quand on aime bien.
+
+Que rien ne pourra vous contraindre, et que malgré tous les efforts d'un Père, vous me promettez d'être à moi.
+
+Eh bien…
+
+Ah qu'est-ce ci ! que vois-je ! Quelle heureuse rencontre ! Monsieur de Pourceaugnac ! que je suis ravi de vous voir ! Comment ? il semble que vous ayez peine à me reconnaître ?
+
+Est-il possible que cinq ou six années m'aient ôté de votre mémoire ? et que vous ne reconnaissiez pas le meilleur Ami de toute la Famille des Pourceaugnac ?
+
+Il n'y a pas un Pourceaugnac à Limoges que je ne connaisse depuis le plus grand jusques au plus petit ; je ne fréquentais qu'eux dans le temps que j'y étais, et j'avais l'honneur de vous voir presque tous les jours.
+
+Vous ne vous remettez point mon visage ?
+
+Vous ne vous ressouvenez pas que j'ai eu le bonheur de boire avec vous je ne sais combien de fois ?
+
+Comment appelez-vous ce Traiteur de Limoges qui fait si bonne chère ?
+
+Le voilà.Nous allions le plus souvent ensemble chez lui nous réjouir. Comment est-ce que vous nommez à Limoges ce Lieu où l'on se promène ?
+
+Justement ; c'est où je passais de si douces heures à jouir de votre agréable Conversation. Vous ne vous remettez pas tout cela ?
+
+Embrassez-moi donc, je vous prie, et resserrons les nœuds de notre ancienne amitié.
+
+Dites-moi un peu des nouvelles de toute la Parenté : Comment se porte Monsieur votre… là… qui est si honnête Homme ?
+
+Oui.
+
+Certes j'en suis ravi. Et celui qui est de si bonne humeur ? là… Monsieur votre… ?
+
+Justement.
+
+Ma foi, j'en ai beaucoup de joie. Et Monsieur votre Oncle ? le…
+
+Vous aviez pourtant en ce temps-là…
+
+C'est ce que je voulais dire, Madame votre Tante ; comment se porte-t-elle ?
+
+Hélas la pauvre Femme ! elle était si bonne personne.
+
+Quel dommage ç'aurait été !
+
+Vraiment si je le connais ! Un grand Garçon bien fait.
+
+Non, mais de taille bien prise.
+
+Qui est votre Neveu…
+
+Fils de votre Frère et de votre Sœur…
+
+Chanoine de l'Église de… comment l'appelez-vous ?
+
+Le voilà, je ne connais autre.
+
+Deux ans entiers.
+
+Vraiment oui, j'y fus convié des premiers.
+
+Très galant.
+
+Sans doute.
+
+Oui.
+
+Ah, ah.
+
+Assurément. Au reste, je ne prétends pas que vous preniez d'autre Logis que le mien.
+
+Vous moquez-vous ? Je ne souffrirai point du tout que mon meilleur Ami soit autre part que dans ma Maison.
+
+Non : le Diable m'emporte, vous logerez chez moi.
+
+Où sont vos hardes ?
+
+Envoyons-les quérir par quelqu'un.
+
+On voit les Gens d'esprit en tout.
+
+Oui, je serai bien aise de donner quelques ordres, et vous n'avez qu'à revenir à cette Maison-là.
+
+Je vous attends avec impatience.
+
+Ma foi, Monsieur de Pourceaugnac, nous vous en donnerons de toutes les façons ; les choses sont préparées, et je n'ai qu'à frapper.
+
+Je crois, Monsieur, que vous êtes le Médecin à qui l'on est venu parler de ma part.
+
+Et Monsieur le Médecin est-il à la Maison ?
+
+Non, ne bougez : j'attendrai qu'il ait fait ; c'est pour lui mettre entre les mains certain Parent que nous avons, dont on lui a parlé, et qui se trouve attaqué de quelque folie, que nous serions bien aises qu'il pût guérir avant que de le marier.
+
+Il fait fort bien ; un Malade ne doit point vouloir guérir, que la Faculté n'y consente.
+
+C'est une grande consolation pour un Défunt.
+
+En effet, il n'est rien tel que de sortir promptement d'affaire.
+
+Vous avez raison.
+
+Il est bon d'avoir des Amis comme cela.
+
+Voilà des soins fort obligeants.
+
+C'est moi, Monsieur, qui vous ai envoyé parler ces jours passés pour un Parent un peu troublé d'esprit, que je veux vous donner chez vous, afin de le guérir avec plus de commodité, et qu'il soit vu de moins de monde.
+
+Le voici.
+
+Une petite affaire m'est survenue, qui m'oblige à vous quitter ; mais voilà une Personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu'il lui sera possible.
+
+Voilà toujours six Pistoles d'avance, en attendant ce que j'ai promis.
+
+Mon Dieu, laissez faire, ce n'est pas pour ce que vous pensez.
+
+C'est ce que je veux faire.
+Je vous recommande surtout de ne le point laisser sortir de vos mains, car parfois il veut s'échapper.
+
+Je vous prie de m'excuser, de l'incivilité que je commets.
+
+Je voudrais bien le voir en cet équipage.
+
+Oui.
+
+Fort bien.
+
+Cela va le mieux du monde.
+
+Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre Père. Tenez, Monsieur, voilà votre Fille que j'ai tirée de force d'entre les mains de l'Homme avec qui elle s'enfuyait ; non pas pour l'amour d'elle, mais pour votre seule considération : car après l'action qu'elle a faite, je dois la mépriser, et me guérir absolument de l'amour que j'avais pour elle.
+
+Comment ? me traiter de la sorte, après toutes les marques d'amitié que je vous ai données ! Je ne vous blâme point de vous être soumise aux volontés de Monsieur votre Père ; il est sage et judicieux dans les choses qu'il fait, et je ne me plains point de lui de m'avoir rejeté pour un autre. S'il a manqué à la parole qu'il m'avait donnée, il a ses raisons pour cela. On lui a fait croire que cet autre est plus riche que moi de quatre ou cinq mille écus ; et quatre ou cinq mille écus est un denier considérable, et qui vaut bien la peine qu'un Homme manque à sa parole : Mais oublier en un moment toute l'ardeur que je vous ai montrée, vous laisser d'abord enflammer d'amour pour un nouveau venu, et le suivre honteusement sans le consentement de Monsieur votre Père, après les crimes qu'on lui impute, c'est une chose condamnée de tout le monde, et dont mon cœur ne peut vous faire d'assez sanglants reproches.
+
+Moi, je serais capable de cela !
+
+Non, non, ne vous imaginez pas que j'aie aucune envie de détourner ce Mariage, et que ce soit ma passion qui m'ait forcé à courir après vous. Je vous l'ai déjà dit, ce n'est que la seule considération que j'ai pour Monsieur votre Père, et je n'ai pu souffrir qu'un honnête Homme comme lui fût exposé à la honte de tous les bruits qui pourraient suivre une action comme la vôtre.
+
+Adieu, Monsieur, j'avais toutes les ardeurs du monde d'entrer dans votre Alliance ; j'ai fait tout ce que j'ai pu pour obtenir un tel honneur, mais j'ai été malheureux, et vous ne m'avez pas jugé digne de cette grâce. Cela n'empêchera pas que je ne conserve pour vous les sentiments d'estime et de vénération où votre Personne m'oblige ; et si je n'ai pu être votre Gendre, au moins serai-je éternellement votre Serviteur.
+
+Non, non, Monsieur, ne lui faites point de violence, je vous en prie.
+
+Ne voyez-vous pas l'amour qu'elle a pour cet Homme-là ? Et voulez-vous que je possède un Corps, dont un autre possédera le cœur ?
+
 Ne croyez pas que ce soit pour l'amour de vous que je vous donne la main ; ce n'est que de Monsieur votre Père dont je suis amoureux, et c'est lui que j'épouse.
 
--*who_oronte
-Je vous suis beaucoup obligé, et j'augmente de dix mille écus le Mariage de ma Fille.
-Allons, qu'on fasse venir le Notaire pour dresser le Contrat.
-
--*who_eraste
 En attendant qu'il vienne, nous pouvons jouir du divertissement de la Saison, et faire entrer les Masques que le bruit des Noces de Monsieur de Pourceaugnac a attirés ici de tous les endroits de la Ville.
 
-Scène VIII
 
--*who_egyptienne
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sbrigani
+
+Monsieur, votre Homme arrive, je l'ai vu à trois lieues d'ici, où a couché le Coche ; et dans la Cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par cœur. Pour sa figure, je ne veux point vous en parler, vous verrez de quel air la Nature l'a dessinée, et si l'ajustement qui l'accompagne y répond comme il faut : mais pour son Esprit, je vous avertis par avance qu'il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu'il est Homme enfin à donner dans tous les panneaux qu'on lui présentera.
+
+Oui, si je me connais en Gens.
+
+Je suis confus des louanges dont vous m'honorez, et je pourrais vous en donner avec plus de justice sur les merveilles de votre vie ; et principalement sur la gloire que vous acquîtes, lorsqu'avec tant d'honnêteté vous pipâtes au jeu, pour douze mille écus, ce jeune Seigneur étranger que l'on mena chez vous ; lorsque vous fîtes galamment ce faux Contrat qui ruina toute une Famille ; lorsque avec tant de grandeur d'âme vous sûtes nier le dépôt qu'on vous avait confié ; et que si généreusement on vous vit prêter votre témoignage à faire pendre ces deux Personnes qui ne l'avaient pas mérité.
+
+Je veux bien épargner votre modestie ; laissons cela ; et pour commencer notre affaire, allons vite joindre notre Provincial, tandis que de votre côté vous nous tiendrez prêts au besoin les autres Acteurs de la Comédie.
+
+Ma foi, voici notre Homme, songeons à nous.
+
+Qu'est-ce que c'est, Messieurs ? que veut dire cela ? à qui en avez-vous ? faut-il se moquer ainsi des honnêtes Étrangers qui arrivent ici ?
+
+Quel procédé est le vôtre ? et qu'avez-vous à rire ?
+
+Monsieur a-t-il quelque chose de ridicule en soi ?
+
+Est-il autrement que les autres ?
+
+Apprenez à connaître les Gens.
+
+Monsieur est d'une mine à respecter.
+
+Personne de condition.
+
+Homme d'esprit.
+
+Il vous fait trop d'honneur, de venir dans votre Ville.
+
+Monsieur n'est point une Personne à faire rire.
+
+Et quiconque rira de lui, aura affaire à moi.
+
+Je suis fâché, Monsieur, de voir recevoir de la sorte une Personne comme vous, et je vous demande pardon pour la Ville.
+
+Je vous ai vu ce matin, Monsieur, avec le Coche, lorsque vous avez déjeuné ; et la grâce avec laquelle vous mangiez votre pain, m'a fait naître d'abord de l'amitié pour vous : Et comme je sais que vous n'êtes jamais venu en ce Pays, et que vous y êtes tout neuf, je suis bien aise de vous avoir trouvé pour vous offrir mon service à cette arrivée, et vous aider à vous conduire parmi ce Peuple, qui n'a pas parfois pour les honnêtes Gens toute la considération qu'il faudrait.
+
+Je vous l'ai déjà dit ; du moment que je vous ai vu, je me suis senti pour vous de l'inclination.
+
+Votre physionomie m'a plu.
+
+J'y ai vu quelque chose d'honnête.
+
+Quelque chose d'aimable.
+
+De gracieux.
+
+De doux.
+
+De majestueux.
+
+De franc.
+
+Et de cordial.
+
+Je vous assure que je suis tout à vous.
+
+C'est du fond du cœur que je parle.
+
+Si j'avais l'honneur d'être connu de vous, vous sauriez que je suis un Homme tout à fait sincère.
+
+Ennemi de la fourberie.
+
+Et qui n'est pas capable de déguiser ses sentiments.
+
+Vous regardez mon habit qui n'est pas fait comme les autres ; mais je suis originaire de Naples, à votre service, et j'ai voulu conserver un peu et la manière de s'habiller, et la sincérité de mon Pays.
+
+Ma foi, cela vous va mieux qu'à tous nos Courtisans.
+
+Sans doute. N'irez-vous pas au Louvre ?
+
+Le Roi sera ravi de vous voir.
+
+Avez-vous arrêté un Logis ?
+
+Je serai bien aise d'être avec vous pour cela, et je connais tout ce Pays-ci.
+
+Il y a cent choses comme cela qui passent de la tête.
+
+Voilà un Homme qui vous aime fort.
+
+Il vous connaît plus que vous ne croyez.
+
+Puisqu'il le veut obstinément, je vous conseille d'accepter l'offre.
+
+C'est prudemment avisé.
+
+Je vais accompagner Monsieur, et le ramènerai où vous voudrez.
+
+Nous sommes à vous tout à l'heure.
+
+Il a la mine d'être honnête Homme.
+
+C'est être bien ennemi de soi-même, que de fuir des remèdes aussi salutaires que les vôtres.
+
+Vous l'auriez guéri haut la main.
+
+Cependant voilà cinquante Pistoles bien acquises, qu'il vous fait perdre.
+
+Vous avez raison, vos remèdes étaient un coup sûr, et c'est de l'argent qu'il vous vole.
+
+Chez le bon Homme Oronte, assurément, dont il vient épouser la Fille, et qui ne sachant rien de l'infirmité de son Gendre futur, voudra peut-être se hâter de conclure le Mariage.
+
+Vous ne ferez point mal.
+
+C'est fort bien dit à vous ; et si vous m'en croyez, vous ne souffrirez point qu'il se marie, que vous ne l'ayez pansé tout votre soûl.
+
+Je vais de mon côté dresser une autre batterie, et le Beau-père est aussi dupe que le Gendre.
+
+Montsir, avec le Vostre permissione, je suisse un Trancher Marchant Flamane, qui voudrait bienne vous temandair un petit nouvel.
+
+Mettez le vostre chapeau sur le teste, Montsir, si ve plaist.
+
+Moi le dire rien, Montsir, si vous le mettre pas le chapeau sur le teste.
+
+Fous connaistre point en sti File un certe Montsir Oronte ?
+
+Et quel Homme est-ile, Montsir, si ve plaist ?
+
+Je vous temande, Montsir, s'il est un Homme riche qui a du bienne ?
+
+Mais riche beaucoup grandement, Montsir ?
+
+J'en suis aise beaucoup, Montsir.
+
+L'est, Montsir, pour un petit raisonne de conséquence pour nous.
+
+L'est, Montsir, que sti Montsir Oronte donne son Fille en mariage à un certe Montsir de Pourcegnac.
+
+Et sti Montsir de Pourcegnac, Montsir, l'est un Homme que doivre beaucoup grandement à dix ou douze Marchanne Flamane qui estre venu ici.
+
+Oui, Montsir ; et depuis huite mois, nous avoir obtenir un petit Santence contre lui, et lui à remettre à payer tou ce Créanciers de sti Mariage que sti Montsir Oronte donne pour son Fille.
+
+Oui, Montsir, et avec un grant dévotion nous tous attendre sti Mariage.
+
+Je remercie, Montsir, de la faveur grande.
+
+Je le suis, Montsir, obliger plus que beaucoup du bon nouvel que Montsir m'avoir donné. Cela ne va pas mal ; quittons notre ajustement de Flamand, pour songer à d'autres machines ; et tâchons de semer tant de soupçons et de division entre le Beau-père et le Gendre, que cela rompe le Mariage prétendu. Tous deux également sont propres à gober les hameçons qu'on leur veut tendre ; et entre nous autres Fourbes de la première Classe, nous ne faisons que nous jouer, lorsque nous trouvons un Gibier aussi facile que celui-là.
+
+Qu'est-ce, Monsieur, qu'avez-vous ?
+
+Comment ?
+
+Non vraiment, qu'est-ce que c'est ?
+
+Hé bien ?
+
+Qu'est-ce que tout cela veut dire ?
+
+Cela est-il possible ?
+
+Voyez un peu, les mines sont bien trompeuses ! Je l'aurais cru le plus affectionné de vos Amis. Voilà un de mes étonnements, comme il est possible qu'il y ait des Fourbes comme cela dans le Monde.
+
+Eh il y a quelque petite chose qui approche de cela.
+
+Voilà une méchanceté bien grande ! et les Hommes sont bien traîtres et scélérats !
+
+Ah, ah, vous êtes donc de complexion amoureuse, et vous avez ouï parler que ce Monsieur Oronte a une Fille…
+
+L'é… L'épouser ?
+
+En mariage ?
+
+Ah c'est une autre chose, et je vous demande pardon.
+
+Rien.
+
+Rien, vous dis-je ; j'ai un peu parlé trop vite.
+
+Non, cela n'est pas nécessaire.
+
+Point, je vous prie de m'en dispenser.
+
+Si fait, on ne peut pas l'être davantage.
+
+C'est une chose où il y va de l'intérêt du prochain.
+
+Laissez-moi consulter un peu si je le puis faire en conscience. C'est un Homme qui cherche son bien, qui tâche de pourvoir sa Fille le plus avantageusement qu'il est possible ; et il ne faut nuire à personne. Ce sont des choses qui sont connues à la vérité, mais j'irai les découvrir à un Homme qui les ignore, et il est défendu de scandaliser son prochain. Cela est vrai ; mais d'autre part voilà un Étranger qu'on veut surprendre, et qui de bonne foi vient se marier avec une Fille qu'il ne connaît pas, et qu'il n'a jamais vue ; un Gentilhomme plein de franchise, pour qui je me sens de l'inclination, qui me fait l'honneur de me tenir pour son Ami, prend confiance en moi, et me donne une Bague à garder pour l'amour de lui. Oui, je trouve que je puis vous dire les choses sans blesser ma conscience ; mais tâchons de vous les dire le plus doucement qu'il nous sera possible, et d'épargner les Gens le plus que nous pourrons. De vous dire que cette Fille-là mène une vie déshonnête, cela serait un peu trop fort ; cherchons pour nous expliquer, quelques termes plus doux. Le mot de Galante aussi n'est pas assez ; celui de Coquette achevée, me semble propre à ce que nous voulons, et je m'en puis servir, pour vous dire honnêtement ce qu'elle est.
+
+Peut-être dans le fond n'y a-t-il pas tant de mal que tout le monde croit ; et puis il y a des Gens, après tout, qui se mettent au-dessus de ces sortes de choses, et qui ne croient pas que leur honneur dépende…
+
+Voilà le Père.
+
+Oui, je me retire.
+
+Je conduis de l'œil toutes choses, et tout ceci ne va pas mal. Nous fatiguerons tant notre Provincial, qu'il faudra, ma foi, qu'il déguerpisse.
+
+Qu'est-ce, Monsieur, est-il encore arrivé quelque chose ?
+
+Comment donc ?
+
+Voilà une méchante affaire, et la justice en ce Pays-ci est rigoureuse en diable contre cette sorte de crime.
+
+Voilà en parler dans tous les termes ; et l'on voit bien, Monsieur, que vous êtes du métier.
+
+Il faut bien pour parler ainsi, que vous ayez étudié la Pratique.
+
+En voilà du plus fin encore.
+
+Il me semble que le sens commun d'un Gentilhomme peut bien aller à concevoir ce qui est du droit et de l'ordre de la Justice ; mais non pas à savoir les vrais termes de la Chicane.
+
+Ah fort bien.
+
+Je le veux, et vais vous conduire chez deux Hommes fort habiles ; mais j'ai auparavant à vous avertir de n'être point surpris de leur manière de parler ; ils ont contracté du Barreau certaine habitude de Déclamation, qui fait que l'on dirait qu'ils chantent, et vous prendrez pour Musique tout ce qu'ils vous diront.
+
+Oui, les choses s'acheminent où nous voulons : Et comme ses lumières sont fort petites, et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la Justice de ce Pays, et des apprêts qu'on faisait déjà pour sa mort, qu'il veut prendre la fuite ; et pour se dérober avec plus de facilité aux Gens que je lui ai dit qu'on avait mis pour l'arrêter aux Portes de la Ville, il s'est résolu à se déguiser, et le déguisement qu'il a pris est l'habit d'une Femme.
+
+Songez de votre part à achever la Comédie ; et tandis que je jouerai mes Scènes avec lui, allez-vous-en… Vous entendez bien ?
+
+Et lorsque je l'aurai mis où je veux…
+
+Et quand le Père aura été averti par moi…
+
+Voici notre Demoiselle, allez vite, qu'il ne nous voie ensemble.
+
+Pour moi, je ne crois pas qu'en cet état on puisse jamais vous connaître, et vous avez la mine comme cela, d'une Femme de condition.
+
+Oui, je vous l'ai déjà dit, ils commencent ici par faire pendre un Homme, et puis ils lui font son Procès.
+
+Elle est sévère comme tous les Diables, particulièrement sur ces sortes de crimes.
+
+N'importe, ils ne s'enquêtent point de cela ; et puis ils ont en cette Ville une haine effroyable pour les Gens de votre Pays, et ils ne sont point plus ravis que de voir pendre un Limosin.
+
+Ce sont des brutaux, ennemis de la gentillesse et du mérite des autres Villes. Pour moi, je vous avoue que je suis pour vous dans une peur épouvantable ; et je ne me consolerais de ma vie, si vous veniez à être pendu.
+
+Vous avez raison, on vous contesterait après cela le Titre d'Écuyer. Au reste, étudiez-vous, quand je vous mènerai par la main, à bien marcher comme une Femme, et prendre le langage et toutes les manières d'une Personne de qualité.
+
+Votre barbe n'est rien, et il y a des Femmes qui en ont autant que vous. Çà, voyons un peu comme vous ferez. Bon.
+
+Fort bien.
+
+Voilà qui va à merveille : mais je remarque une chose, cette Coiffe est un peu trop déliée, j'en vais quérir une un peu plus épaisse, pour vous mieux cacher le visage, en cas de quelque rencontre.
+
+Attendez-moi là. Je suis à vous dans un moment ; vous n'avez qu'à vous promener.
+
+Ah Ciel ! que veut dire cela ?
+
+Eh ! Monsieur, pour l'amour de moi : vous savez que nous sommes Amis il y a longtemps ; je vous conjure de ne le point mener en prison.
+
+Vous êtes Homme d'accommodement ; n'y a-t-il pas moyen d'ajuster cela avec quelques Pistoles ?
+
+Il faut lui donner de l'argent pour vous laisser aller ; Faites vite.
+
+Tenez, Monsieur.
+
+Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
+
+Mon Dieu attendez. Dépêchez, donnez-lui-en encore autant.
+
+Dépêchez-vous, vous dis-je, et ne perdez point de temps : Vous auriez un grand plaisir, quand vous seriez pendu.
+
+Tenez, Monsieur.
+
+Je vous prie donc d'en avoir un grand soin.
+
+Ne perdez point de temps ; je vous aime tant, que je voudrais que vous fussiez déjà bien loin. Que le Ciel te conduise ! Par ma foi, voilà une grande dupe. Mais voici…
+
+Ah ! quelle étrange aventure ! quelle fâcheuse nouvelle pour un Père ! Pauvre Oronte, que je te plains ! Que diras-tu ? et de quelle façon pourras-tu supporter cette douleur mortelle ?
+
+Ah ! Monsieur, ce perfide de Limosin, ce traître de Monsieur de Pourceaugnac vous enlève votre Fille.
+
+Oui ; elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un Caractère pour se faire aimer de toutes les Femmes.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medecin1
+
+Le Malade est un sot, d'autant plus que dans la maladie dont il est attaqué, ce n'est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.
+
+Bon, c'est signe que le dedans se dégage. Je l'irai visiter dans deux ou trois jours ; mais s'il mourait avant ce temps-là, ne manquez pas de m'en donner avis, car il n'est pas de la civilité, qu'un Médecin visite un Mort.
+
+Ce n'est pas ma faute ; je lui donne des remèdes, que ne guérit-il ? Combien a-t-il été saigné de fois ?
+
+Quinze fois saigné ?
+
+Et il ne guérit point ?
+
+C'est signe que la maladie n'est pas dans le sang. Nous le ferons purger autant de fois, pour voir si elle n'est pas dans les humeurs ; et si rien ne nous réussit, nous l'enverrons aux Bains.
+
+Oui, Monsieur, j'ai déjà disposé tout, et promets d'en avoir tous les soins imaginables.
+
+La conjoncture est tout à fait heureuse, et j'ai ici un Ancien de mes Amis avec lequel je serai bien aise de consulter sa maladie.
+
+Le devoir de ma Profession m'y oblige, et c'est assez que vous me chargiez de ce soin.
+
+Oui, je vous assure que je traiterai Monsieur méthodiquement, et dans toutes les régularités de notre Art.
+
+Un tel Emploi ne me donne que de la joie.
+
+Ne vous mettez pas en peine.
+
+Ce m'est beaucoup d'honneur, Monsieur, d'être choisi pour vous rendre service.
+
+Voici un habile Homme, mon Confrère, avec lequel je vais consulter la manière dont nous vous traiterons.
+
+Allons, des sièges.
+
+Allons, Monsieur, prenez votre place, Monsieur.
+
+Mangez-vous bien, Monsieur ?
+
+Tant pis ; cette grande appétition du froid et de l'humide, est une indication de la chaleur et sécheresse qui est au dedans.Dormez-vous fort ?
+
+Faites-vous des songes ?
+
+De quelle nature sont-ils ?
+
+Vos déjections, comment sont-elles ?
+
+Un peu de patience, nous allons raisonner sur votre affaire devant vous, et nous le ferons en Français, pour être plus intelligibles.
+
+Comme ainsi soit qu'on ne puisse guérir une maladie, qu'on ne la connaisse parfaitement, et qu'on ne la puisse parfaitement connaître, sans en bien établir l'idée particulière et la véritable espèce, par ses signes diagnostiques et prognostiques ; vous me permettrez, Monsieur notre Ancien, d'entrer en considération de la maladie dont il s'agit, avant que de toucher à la thérapeutique et aux remèdes qu'il nous conviendra faire pour la parfaite curation d'icelle.Je dis donc, Monsieur, avec votre permission, que notre Malade ici présent, est malheureusement attaqué, affecté, possédé, travaillé de cette sorte de folie que nous nommons fort bien, mélancolie hypocondriaque, espèce de folie très fâcheuse, et qui ne demande pas moins qu'un Esculape comme vous, consommé dans notre Art ; vous, dis-je, qui avez blanchi, comme on dit, sous le harnois, et auquel il en a tant passé par les mains de toutes les façons.Je l'appelle mélancolie hypocondriaque, pour la distinguer des deux autres ; car le célèbre Galien établit doctement à son ordinaire trois espèces de cette maladie, que nous nommons mélancolie, ainsi appelée non seulement par les Latins, mais encore par les Grecs ; ce qui est bien à remarquer pour notre affaire : La première, qui vient du propre vice du cerveau ; la seconde, qui vient de tout le sang, fait et rendu atrabilaire ; la troisième, appelée hypocondriaque, qui est la nôtre, laquelle procède du vice de quelque partie du bas-ventre, et de la région inférieure, mais particulièrement de la rate, dont la chaleur et l'inflammation porte au cerveau de notre Malade beaucoup de fuligines épaisses et crasses, dont la vapeur noire et maligne cause dépravation aux fonctions de la faculté princesse, et fait la maladie dont par notre raisonnement il est manifestement atteint et convaincu.Qu'ainsi ne soit, pour diagnostique incontestable de ce que je dis, vous n'avez qu'à considérer ce grand sérieux que vous voyez ; cette tristesse accompagnée de crainte et de défiance, signes pathognomoniques et individuels de cette maladie, si bien marquée chez le Divin vieillard Hippocrate ; cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grêle, noire et velue, lesquels signes le dénotent très affecté de cette maladie, procédante du vice des hypocondres ; laquelle maladie par laps de temps naturalisée, envieillie, habituée, et ayant pris droit de bourgeoisie chez lui, pourrait bien dégénérer, ou en manie, ou en phtisie, ou en apoplexie, ou même en fine frénésie et fureur.Tout ceci supposé, puisqu'une maladie bien connue est à demi guérie, car ignoti nulla est curatio morbi, il ne vous sera pas difficile de convenir des remèdes que nous devons faire à Monsieur.Premièrement, pour remédier à cette pléthore obturante, et à cette cacochymie luxuriante par tout le corps, je suis d'avis qu'il soit phlébotomisé libéralement ; c'est-à-dire que les saignées soient fréquentes et plantureuses : En premier lieu de la basilique, puis de la céphalique, et même si le mal est opiniâtre, de lui ouvrir la veine du front, et que l'ouverture soit large, afin que le gros sang puisse sortir ; et en même temps, de le purger, désopiler, et évacuer par purgatifs propres et convenables ; c'est-à-dire par cholagogues, mélanogogues, et cætera ; et comme la véritable source de tout le mal est ou une humeur crasse et féculente, ou une vapeur noire et grossière qui obscurcit, infecte et salit les esprits animaux, il est à propos ensuite qu'il prenne un bain d'eau pure et nette, avec force petit-lait clair, pour purifier par l'eau la féculence de l'humeur crasse, et éclaircir par le lait clair la noirceur de cette vapeur ; mais avant toute chose, je trouve qu'il est bon de le réjouir par agréables Conversations, Chants et Instruments de Musique, à quoi il n'y a pas d'inconvénient de joindre des Danseurs, afin que leurs mouvements, disposition et agilité puissent exciter et réveiller la paresse de ses esprits engourdis, qui occasionne l'épaisseur de son sang, d'où procède la maladie.Voilà les remèdes que j'imagine, auxquels pourront être ajoutés beaucoup d'autres meilleurs par Monsieur notre Maître et Ancien, suivant l'expérience, jugement, lumière et suffisance qu'il s'est acquise dans notre Art.Dixi.
+
+Non, Monsieur, nous ne jouons point.
+
+Bon, dire des injures. Voilà un diagnostique qui nous manquait pour la confirmation de son mal, et ceci pourrait bien tourner en manie.
+
+Autre diagnostique : La sputation fréquente.
+
+Autre encore : L'inquiétude de changer de place.
+
+Vous guérir, selon l'ordre qui nous a été donné.
+
+Oui.
+
+Mauvais signe, lorsqu'un Malade ne sent pas son mal.
+
+Nous savons mieux que vous comment vous vous portez, et nous sommes Médecins, qui voyons clair dans votre constitution.
+
+Hon, hon ; voici un Homme plus fou que nous ne pensons.
+
+Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé. Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accroissons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
+
+Il a forcé tous les obstacles que j'avais mis ; et s'est dérobé aux remèdes que je commençais de lui faire.
+
+Marque d'un cerveau démonté, et d'une raison dépravée, que de ne vouloir pas guérir.
+
+Sans doute, quand il y aurait eu complication de douze maladies.
+
+Moi, je n'entends point les perdre, et prétends le guérir en dépit qu'il en ait. Il est lié et engagé à mes remèdes, et je veux le faire saisir où je le trouverai, comme Déserteur de la Médecine, et Infracteur de mes Ordonnances.
+
+Où puis-je en avoir des nouvelles ?
+
+Je vais lui parler tout à l'heure.
+
+Il est hypothéqué à mes Consultations ; et un Malade ne se moquera pas d'un Médecin.
+
+Laissez-moi faire.
+
+Vous avez, Monsieur, un certain Monsieur de Pourceaugnac, qui doit épouser votre Fille.
+
+Aussi l'est-il, et il s'en est fui de chez moi, après y avoir été mis ; mais je vous défends de la part de la Médecine, de procéder au mariage que vous avez conclu, que je ne l'aie dûment préparé pour cela, et mis en état de procréer des Enfants bien conditionnés et de corps et d'esprit.
+
+Votre prétendu Gendre a été constitué mon Malade : Sa Maladie qu'on m'a donné à guérir, est un meuble qui m'appartient, et que je compte entre mes effets ; et je vous déclare que je ne prétends point qu'il se marie, qu'au préalable il n'ait satisfait à la Médecine, et subi les remèdes que je lui ai ordonnés.
+
+Oui.
+
+Ne vous en mettez pas en peine.
+
+Les Médecins sont obligés au secret : Il suffit que je vous ordonne, à vous et à votre Fille, de ne point célébrer, sans mon consentement, vos Noces avec lui, sur peine d'encourir la disgrâce de la Faculté, et d'être accablés de toutes les Maladies qu'il nous plaira.
+
+On me l'a mis entre les mains, et il est obligé d'être mon malade.
+
+Il a beau fuir, je le ferai condamner par Arrêt à se faire guérir par moi.
+
+Oui, il faut qu'il crève, ou que je le guérisse.
+
+Et si je ne le trouve, je m'en prendrai à vous, et je vous guérirai au lieu de lui.
+
+Il n'importe, il me faut un Malade, et je prendrai qui je pourrai.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_apothicaire
+
+Non, Monsieur, ce n'est pas moi qui suis le Médecin ; à moi n'appartient pas cet honneur, et je ne suis qu'Apothicaire, Apothicaire indigne, pour vous servir.
+
+Oui, il est là embarrassé à expédier quelques Malades, et je vais lui dire que vous êtes ici.
+
+Je sais ce que c'est, je sais ce que c'est, et j'étais avec lui quand on lui a parlé de cette affaire. Ma foi, ma foi, vous ne pouviez pas vous adresser à un Médecin plus habile ; c'est un Homme qui sait la Médecine à fond, comme je sais ma Croix-de-Pardieu ; et qui, quand on devrait crever, ne démordrait pas d'un iota des règles des Anciens. Oui, il suit toujours le grand chemin, le grand chemin, et ne va point chercher midi à quatorze heures ; et pour tout l'or du monde, il ne voudrait pas avoir guéri une Personne avec d'autres remèdes que ceux que la Faculté permet.
+
+Ce n'est pas parce que nous sommes grands Amis, que j'en parle ; mais il y a plaisir, il y a plaisir d'être son Malade ; et j'aimerais mieux mourir de ses remèdes, que de guérir de ceux d'un autre : car quoi qui puisse arriver, on est assuré que les choses sont toujours dans l'ordre ; et quand on meurt sous sa conduite, vos Héritiers n'ont rien à vous reprocher.
+
+Assurément ; on est bien aise au moins d'être mort méthodiquement. Au reste, il n'est pas de ces Médecins qui marchandent les maladies ; c'est un Homme expéditif, expéditif, qui aime à dépêcher ses Malades ; et quand on a à mourir, cela se fait avec lui le plus vite du monde.
+
+Cela est vrai, à quoi bon tant barguigner et tant tourner autour du pot ? il faut savoir vitement le court ou le long d'une maladie.
+
+Voilà déjà trois de mes Enfants dont il m'a fait l'honneur de conduire la maladie, qui sont morts en moins de quatre jours, et qui entre les mains d'un autre, auraient langui plus de trois mois.
+
+Sans doute. Il ne me reste plus que deux Enfants dont il prend soin comme des siens ; il les traite et gouverne à sa fantaisie, sans que je me mêle de rien ; et le plus souvent, quand je reviens de la Ville, je suis tout étonné que je les trouve saignés ou purgés par son ordre.
+
+Le voici, le voici, le voici qui vient.
+
+Voilà le fin cela, voilà le fin de la Médecine.
+
+Monsieur, voici un petit remède, un petit remède, qu'il vous faut prendre, s'il vous plaît, s'il vous plaît.
+
+Il a été ordonné, Monsieur, il a été ordonné.
+
+Prenez-le, Monsieur, prenez-le : il ne vous fera point de mal, il ne vous fera point de mal.
+
+C'est un petit Clystère, un petit Clystère, bénin, bénin ; il est bénin, bénin : là, prenez, prenez, prenez, Monsieur ; c'est pour déterger, pour déterger, déterger…
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_paysanne
+
+Mon Père, Monsieur, est toujours malade de plus en plus.
+
+Quinze, Monsieur, depuis vingt jours.
+
+Oui.
+
+Non, Monsieur.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse1
+
+Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l'a esté contané par Ortonnance à l'être pendu par son cou.
+
+Li faut nous loër un fenestre pour foir sti Choustice.
+
+Li disent que l'on fait téjà planter un grand potence tout neuve pour li accrocher sti Porcegnac.
+
+Oui, de li foir gambiller les pieds en haut tevant tout le monde.
+
+Sti diable li vouloir trois Femmes à li tout seul ; li est bien assez t'une.
+
+Que faire fous là tout seul ?
+
+Fous, Mameselle, fouloir finir réchouir fous à la Crève ? Nous faire foir à fous un petit pendement pien choli.
+
+Li est là un petit teton qui l'est drole.
+
+Mon foy, moi couchair pien avec fous.
+
+Moy ne vouloir pas laisser.
+
+Moi li vouloir, moi.
+
+Moi ne faire rien.
+
+Toi l'avoir menti.
+
+Toi l'avoir menty toi-même.
+
+Parti pon, toi ne l'afoir point.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse2
+
+Ly sira, ma foi, un grand plaisir, d'y regarter pendre sti Limosin.
+
+Li est un plaisant drole, oui ; li disent que c'être marié trois foye.
+
+Ah pon chour, Mameselle.
+
+Li est belle, par mon foi.
+
+L'est un Gentilhomme Limossin qui sera pendu chantiment, à un grand potence.
+
+Laisse, toi, l'est moi qui le veut couchair avec elle.
+
+Parti pon aussi, toi ne l'afoir point encore.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
+
+Qu'est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ? Allons, que l'on sorte de là, si vous ne voulez que je vous mette en prison.
+
+Ouais, voilà un visage qui ressemble bien à celui que l'on m'a dépeint.
+
+Ah, ah ! qu'est-ce que je veux dire ?
+
+Pourquoi donc dites-vous cela ?
+
+Voilà un discours qui marque quelque chose, et je vous arrête prisonnier.
+
+Non, non : à votre mine, et à vos discours, il faut que vous soyez ce Monsieur de Pourceaugnac que nous cherchons, qui se soit déguisé de la sorte ; et vous viendrez en prison tout à l'heure.
+
+Oui, oui, c'est de quoi je suis ravi.
+
+Non ; il m'est impossible.
+
+Retirez-vous un peu.
+
+Combien y a-t-il ?
+
+Non, mon ordre est trop exprès.
+
+Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sûreté pour moi. Laissez-le-moi conduire, et ne bougez d'ici.
+
+Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sûreté.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_egyptienne
+
 Sortez, sortez de ces lieux,
 Soucis, chagrins et tristesse,
 Venez, venez, ris et jeux,
@@ -2232,11 +1324,6 @@ Plaisirs, amour et tendresse.
 Ne songeons qu'à nous réjouir,
 La grande affaire est le plaisir.
 
--*who_musiciens
-Ne songeons qu'à nous réjouir,
-La grande affaire est le plaisir.
-
--*who_egyptienne
 À me suivre tous ici,
 Votre ardeur est non commune,
 Et vous êtes en souci
@@ -2244,7 +1331,15 @@ De votre bonne fortune :
 Soyez toujours amoureux,
 C'est le moyen d'être heureux.
 
--*who_egyptien
+La Gloire,
+
+Les sceptres qui font tant d'envie.
+
+Il n'est point, sans l'amour, de plaisir dans la vie.
+
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
+
 Aimons jusques au trépas,
 La raison nous y convie :
 Hélas ! si l'on n'aimait pas,
@@ -2252,37 +1347,9 @@ Que serait-ce de la vie ?
 Ah ! perdons plutôt le jour,
 Que de perdre notre amour.
 
--*who_egyptien
 Les Biens,
 
--*who_egyptienne
-La Gloire,
-
--*who_egyptien
 Les Grandeurs,
 
--*who_egyptienne
-Les sceptres qui font tant d'envie.
-
--*who_egyptien
 Tout n'est rien, si l'amour n'y mêle ses ardeurs.
 
--*who_egyptienne
-Il n'est point, sans l'amour, de plaisir dans la vie.
-
--*who_egyptien_egyptienne
-Soyons toujours amoureux,
-C'est le moyen d'être heureux.
-
--*who_choeur
-Sus, sus, chantons tous ensemble,
-Dansons, sautons, jouons-nous.
-
--*who_musicien1
-Lors que pour rire on s'assemble,
-Les plus sages, ce me semble,
-Sont ceux qui sont les plus fous.
-
--*who_choeur
-Ne songeons qu'à nous réjouir,
-La grande affaire est le plaisir.

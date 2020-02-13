@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1736
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphemie
 
--*who_euphemie
 N'attendez pas, mon fils, qu'avec un ton sévère
 Je déploie à vos yeux l'autorité de mère :
 Toujours prête à me rendre à vos justes raisons,
@@ -28,10 +27,6 @@ Le tribut des défauts qu'on eut dans la jeunesse ;
 Connaissez donc le monde, et songez qu'aujourd'hui
 Il faut que vous viviez pour vous moins que pour lui.
 
--*who_damis
-Je ne sais où peut tendre un si long préambule.
-
--*who_euphemie
 Je vois qu'il vous paraît injuste et ridicule ;
 Vous méprisez des soins pour vous bien importants :
 Vous m'en croirez un jour ; il n'en sera plus temps.
@@ -60,7 +55,51 @@ Qui dit celui d'autrui doit passer pour un traître ;
 Qui dit le sien, mon fils, passe ici pour un sot.
 Qu'avez-vous à répondre à cela ?
 
--*who_damis
+Mais j'étais à Paris depuis deux jours.
+
+Je suis sûre, Damis, que cette confidence
+Vient de votre amitié, non de votre imprudence.
+
+      Eh, eh... mais enfin, entre nous,
+Songez au vrai bonheur qui vient s'offrir à vous :
+Hortense a des appas ; mais de plus cette Hortense
+Est le meilleur parti qui soit pour vous en France.
+
+      D'elle seule elle reçoit des lois,
+Et le don de sa main dépendra de son choix.
+
+      Vous saurez flatter son caractère,
+Ménager son esprit.
+
+C'est bien dit ; mais, Damis, elle fuit les éclats ;
+Et les airs trop bruyants ne l'accommodent pas :
+Elle peut, comme une autre, avoir quelque faiblesse ;
+Mais jusque dans ses goûts elle a de la sagesse,
+Craint surtout de se voir en spectacle à la cour,
+Et d'être le sujet de l'histoire du jour ;
+Le secret, le mystère est tout ce qui la flatte.
+
+Mais près d'elle, en un mot, quel sort vous a produit ?
+Nul jeune homme jamais n'est chez elle introduit ;
+Elle fuit avec soin, en personne prudente,
+De nos jeunes seigneurs la cohue éclatante.
+
+Eh bien ! je veux aussi l'aller trouver moi-même.
+La mère d'un amant qui nous plaît, qui nous aime,
+Est toujours, que je crois, reçue avec plaisir.
+De vous adroitement je veux l'entretenir,
+Et disposer son coeur à presser l'hyménée
+Qui fera le bonheur de votre destinée.
+Obtenez au plus tôt et sa main et sa foi,
+Je vous y servirai ; mais n'en parlez qu'à moi.
+
+Soyez heureux, mon fils, c'est tout ce que je veux.
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
+Je ne sais où peut tendre un si long préambule.
+
       Pas le mot ;
 Je suis de votre avis je hais le caractère
 De quiconque n'a pas le pouvoir de se taire ;
@@ -79,64 +118,21 @@ Nous leur cachons à tous notre ardeur mutuelle :
 L'amour depuis deux jours a serré ce lien,
 Depuis deux jours entiers ; et vous n'en savez rien.
 
--*who_euphemie
-Mais j'étais à Paris depuis deux jours.
-
--*who_damis
       Madame,
 On n'a jamais brûlé d'une si belle flamme.
 Plus l'aveu vous en plaît, plus mon coeur est content ;
 Et mon bonheur s'augmente en vous le racontant.
 
--*who_euphemie
-Je suis sûre, Damis, que cette confidence
-Vient de votre amitié, non de votre imprudence.
-
--*who_damis
 En doutez-vous ?
 
--*who_euphemie
-      Eh, eh... mais enfin, entre nous,
-Songez au vrai bonheur qui vient s'offrir à vous :
-Hortense a des appas ; mais de plus cette Hortense
-Est le meilleur parti qui soit pour vous en France.
-
--*who_damis
 Je le sais.
 
--*who_euphemie
-      D'elle seule elle reçoit des lois,
-Et le don de sa main dépendra de son choix.
-
--*who_damis
 Et tant mieux.
 
--*who_euphemie
-      Vous saurez flatter son caractère,
-Ménager son esprit.
-
--*who_damis
       Je fais mieux, je sais plaire.
 
--*who_euphemie
-C'est bien dit ; mais, Damis, elle fuit les éclats ;
-Et les airs trop bruyants ne l'accommodent pas :
-Elle peut, comme une autre, avoir quelque faiblesse ;
-Mais jusque dans ses goûts elle a de la sagesse,
-Craint surtout de se voir en spectacle à la cour,
-Et d'être le sujet de l'histoire du jour ;
-Le secret, le mystère est tout ce qui la flatte.
-
--*who_damis
 Il faudra bien pourtant qu'enfin la chose éclate.
 
--*who_euphemie
-Mais près d'elle, en un mot, quel sort vous a produit ?
-Nul jeune homme jamais n'est chez elle introduit ;
-Elle fuit avec soin, en personne prudente,
-De nos jeunes seigneurs la cohue éclatante.
-
--*who_damis
 Ma foi ! chez elle encor je ne suis point reçu ;
 Je l'ai longtemps lorgnée, et, grâce au ciel, j'ai plu.
 D'abord elle rendit mes billets sans les lire ;
@@ -144,27 +140,10 @@ Bientôt elle les lut, et daigne enfin m'écrire.
 Depuis près de deux jours je goûte un doux espoir ;
 Et je dois, en un mot, l'entretenir ce soir.
 
--*who_euphemie
-Eh bien ! je veux aussi l'aller trouver moi-même.
-La mère d'un amant qui nous plaît, qui nous aime,
-Est toujours, que je crois, reçue avec plaisir.
-De vous adroitement je veux l'entretenir,
-Et disposer son coeur à presser l'hyménée
-Qui fera le bonheur de votre destinée.
-Obtenez au plus tôt et sa main et sa foi,
-Je vous y servirai ; mais n'en parlez qu'à moi.
-
--*who_damis
 Non, il n'est point ailleurs, madame, je vous jure,
 Une mère plus tendre, une amitié plus pure :
 A vous plaire à jamais je borne tous mes voeux.
 
--*who_euphemie
-Soyez heureux, mon fils, c'est tout ce que je veux.
-
-**** *book_ *id_I02 *act_I *date_1736
-
--*who_damis
 Ma mère n'a point tort ; je sais bien qu'en ce monde
 Il faut, pour réussir, une adresse profonde.
 Hors dix ou douze amis à qui je puis parler,
@@ -190,52 +169,20 @@ Sans être soupçonné, sans paraître volage ;
 Et mangeant en six mois la moitié de son bien,
 J'aurai toute la cour sans qu'on en sache rien.
 
-**** *book_ *id_I03 *act_I *date_1736
-
--*who_damis
 Hé ! bonjour, commandeur.
 
--*who_trasimon
-      Aye ! Ouf ! On m'estropie...
-
--*who_damis
 Embrassons-nous encor, commandeur, je te prie.
 
--*who_trasimon
-Souffrez...
-
--*who_damis
       Que je t'étouffe une troisième fois.
 
--*who_trasimon
-Mais quoi ?
-
--*who_damis
       Déride un peu ce renfrogné minois ;
 Réjouis-toi, je suis le plus heureux des hommes.
 
--*who_trasimon
-Je venais pour vous dire...
-
--*who_damis
       Oh ! Parbleu tu m'assommes
 Avec ce front glacé que tu portes ici.
 
--*who_trasimon
-Mais je ne prétends pas vous réjouir aussi ;
-Vous avez sur les bras une fâcheuse affaire.
-
--*who_damis
 Eh ! eh ! pas si fâcheuse.
 
--*who_trasimon
-      Erminie et Valère
-Contre vous en ces lieux déclament hautement :
-Vous avez parlé d'eux un peu légèrement ;
-Et même depuis peu le vieux seigneur Horace
-M'a prié...
-
--*who_damis
       Voilà bien de quoi je m'embarrasse !
 Horace est un vieux fou, plutôt qu'un vieux seigneur,
 Tout chamarré d'orgueil, pétri d'un faux honneur,
@@ -253,117 +200,48 @@ Est reçu chez Clarice avec quelque faveur ;
 Que la grosse comtesse en crève de douleur.
 Et toi, vieux commandeur, comment va la tendresse ?
 
--*who_trasimon
-Vous savez que le sexe assez peu m'intéresse.
-
--*who_damis
 Je ne suis pas de même ; et le sexe, ma foi,
 À la ville, à la cour, me donne assez d'emploi.
 Écoute ; il faut ici que mon coeur te confie
 Un secret dont dépend le bonheur de ma vie.
 
--*who_trasimon
-Puis-je vous y servir ?
-
--*who_damis
       Toi ? point du tout.
 
--*who_trasimon
-      Eh bien !
-Damis, s'il est ainsi, ne m'en dites donc rien.
-
--*who_damis
 Le droit de l'amitié...
 
--*who_trasimon
-      C'est cette amitié même
-Qui me fait éviter avec un soin extrême
-Le fardeau d'un secret au hasard confié,
-Qu'on me dit par faiblesse, et non par amitié,
-Dont tout autre que moi serait dépositaire,
-Qui de mille soupçons est la source ordinaire,
-Et qui peut nous combler de honte et de dépit,
-Moi d'en avoir trop su, vous d'en avoir trop dit.
-
--*who_damis
 Malgré toi, commandeur, quoi que tu puisses dire,
 Pour te faire plaisir, je veux du moins te lire
 Le billet qu'aujourd'hui...
 
--*who_trasimon
-      Par quel empressement ?...
-
--*who_damis
 Ah ! tu le trouveras écrit bien tendrement.
 
--*who_trasimon
-Puisque vous le voulez enfin...
-
--*who_damis
       C'est l'amour même,
 Ma foi, qui l'a dicté. Tu verras comme on m'aime.
 La main qui me l'écrit le rend d'un prix... vois-tu...
 Mais d'un prix... eh, morbleu ! je crois l'avoir perdu.
 Je ne le trouve point... Holà ! La Fleur ! La Brie !
 
-**** *book_ *id_I04 *act_I *date_1736
-
--*who_laquais
-Monseigneur ?
-
--*who_damis
       Remontez vite à la galerie,
 Retournez chez tous ceux que j'ai vus ce matin ;
 Allez chez ce vieux duc... Ah ! je le trouve enfin ;
 Ces marauds l'ont mis là par pure étourderie.
 Laissez-nous. Commandeur, écoute, je te prie.
 
-**** *book_ *id_I05 *act_I *date_1736
-
--*who_clitandre
-Oui, tout le long du jour demeure en ce jardin ;
-Observe tout, vois tout, redis-moi tout, Pasquin ;
-Rends-moi compte, en un mot, de tous les pas d'Hortense
-Ah ! je saurai...
-
-**** *book_ *id_I06 *act_I *date_1736
-
--*who_damis
       Voici le marquis qui s'avance.
 Bonjour, marquis.
 
--*who_clitandre
-      Bonjour.
-
--*who_damis
       Qu'as-tu donc aujourd'hui ?
 Sur ton front à longs traits qui diable a peint l'ennui ?
 Tout le monde m'aborde avec un air si morne,
 Que je crois...
 
--*who_clitandre
-      Ma douleur, hélas ! n'a point de borne.
-
--*who_damis
 Que marmottes-tu là ?
 
--*who_clitandre
-      Que je suis malheureux !
-
--*who_damis
 Çà, pour vous égayer, pour vous plaire à tous deux,
 Le marquis entendra le billet de ma belle.
 
--*who_clitandre
-Quel congé ! quelle lettre ! Hortense... Ah ! la cruelle !
-
--*who_damis
 C'est un billet à faire expirer un jaloux.
 
--*who_clitandre
-Si vous êtes aimé, que votre sort est doux !
-
--*who_damis
 Il le faut avouer, les femmes de la ville,
 Ma foi, ne savent point écrire de ce style.
 Enfin je cède aux feux dont mon coeur est épris ;
@@ -379,69 +257,27 @@ Ne me la jamais reprocher !
 Plus je vous montre ma tendresse,
 Et plus à tous les yeux vous devez la cacher.
 
--*who_trasimon
-Vous prenez très grand soin d'obéir à la dame,
-Sans doute, et vous brûlez d'une discrète flamme.
-
--*who_clitandre
-Heureux qui, d'une femme adorant les appas,
-Reçoit de tels billets, et ne les montre pas !
-
--*who_damis
 Vous trouvez donc la lettre...
 
--*who_trasimon
-      Un peu forte.
-
--*who_clitandre
-      Adorable.
-
--*who_damis
 Celle qui me l'écrit est cent fois plus aimable.
 Que vous seriez charmés si vous saviez son nom !
 Mais dans ce monde il faut de la discrétion.
 
--*who_trasimon
-Oh ! nous n'exigeons point de telle confidence.
-
--*who_clitandre
-Damis, nous nous aimons, mais c'est avec prudence.
-
--*who_trasimon
-Loin de vouloir ici vous forcer de parler...
-
--*who_damis
 Non, je vous aime trop pour rien dissimuler.
 Je vois que vous pensez, et la cour le publie,
 Que je n'ai d'autre affaire ici qu'avec Julie.
 
--*who_clitandre
-On le dit d'après vous, mais nous n'en croyons rien.
-
--*who_damis
 Oh ! crois... Jusqu'à présent, la chose allait fort bien ;
 Nous nous étions aimés, quittés, repris encore :
 On en parle partout.
 
--*who_trasimon
-      Non, tout cela s'ignore.
-
--*who_damis
 Tu crois qu'à cet oison je suis fort attaché ;
 Mais, par ma foi, j'en suis très faiblement touché.
 
--*who_trasimon
-Ou fort, ou faiblement, il ne m'importe guère.
-
--*who_damis
 La Julie est aimable, il est vrai, mais légère ;
 L'autre est ce qu'il me faut, et c'est solidement
 Que je l'aime.
 
--*who_clitandre
-      Enfin donc cet objet si charmant...
-
--*who_damis
 Vous m'y forcez ; allons, il faut bien vous l'apprendre :
 Regarde ce portrait, mon cher ami Clitandre ;
 Çà, dis-moi si jamais tu vis de tes deux yeux
@@ -449,18 +285,8 @@ Rien de plus adorable et de plus gracieux,
 C'est Macé qui l'a peint ; c'est tout dire, et je pense
 Que tu reconnaîtras...
 
--*who_clitandre
-      Juste ciel ! C'est Hortense.
-
--*who_damis
 Pourquoi t'en étonner ?
 
--*who_trasimon
-      Vous oubliez, monsieur,
-Qu'Hortense est ma cousine, et chérit son honneur,
-Et qu'un pareil aveu...
-
--*who_damis
       Vous nous la donnez bonne ;
 J'ai six cousines, moi, que je vous abandonne ;
 Et je vous les verrais lorgner, tromper, quitter,
@@ -470,38 +296,18 @@ Prendre avec soin sur nous l'honneur de nos cousines !
 Nous aurions trop à faire à la cour ; et, ma foi,
 C'est assez que chacun réponde ici pour soi.
 
--*who_trasimon
-Mais Hortense, monsieur...
-
--*who_damis
       Eh bien ! Oui, je l'adore,
 Elle n'aime que moi, je vous le dis encore ;
 Et je l'épouserai pour vous faire enrager.
 
--*who_clitandre
-Ah ! plus cruellement pouvait-on m'outrager ?
-
--*who_damis
 Nos noces, croyez-moi, ne seront point secrètes ;
 Et vous n'en serez pas, tout cousin que vous êtes.
 
--*who_trasimon
-Adieu, monsieur Damis : on peut vous faire voir
-Que sur une cousine on a quelque pouvoir.
-
-**** *book_ *id_I07 *act_I *date_1736
-
--*who_damis
 Que je hais ce censeur, et son air pédantesque,
 Et tous ces faux éclats de vertu romanesque !
 Qu'il est sec ! qu'il est brut ! et qu'il est ennuyeux !
 Mais tu vois ce portrait d'un oeil bien curieux ?
 
--*who_clitandre
-Comme ici de moi-même il faut que je sois maître !
-Qu'il faut dissimuler !
-
--*who_damis
       Tu remarques peut-être
 Qu'au coin de cette boîte Il manque un des brillants ?
 Mais tu sais que la chasse hier dura longtemps ;
@@ -515,17 +321,9 @@ Choisis, comme pour toi, l'un de ses diamants :
 Je lui dois, entre nous, plus de vingt mille francs.
 Adieu : ne montre au moins ce portrait à personne.
 
--*who_clitandre
-Où suis-je ?
-
--*who_damis
       Adieu, marquis : à toi je m'abandonne ;
 Sois discret.
 
--*who_clitandre
-      Se peut-il ?
-
--*who_damis
       J'aime un ami prudent :
 Va, de tous mes secrets tu seras confident.
 Eh ! peut-on posséder ce que le coeur désire,
@@ -536,30 +334,14 @@ C'est n'avoir point d'amis qu'être sans confiance ;
 C'est n'être point heureux que de l'être en silence.
 Tu n'as vu qu'un portrait, et qu'un seul billet doux.
 
--*who_clitandre
-Eh bien ?
-
--*who_damis
       L'on m'a donné, mon cher, un rendez-vous.
 
--*who_clitandre
-Ah ! Je frémis.
-
--*who_damis
       Ce soir, pendant le bal qu'on donne,
 Je dois, sans être vu ni suivi de personne,
 Entretenir Hortense, ici, dans ce jardin.
 
--*who_clitandre
-Voici le dernier coup. Ah je succombe enfin.
-
--*who_damis
 Là, n'es-tu pas charmé de ma bonne fortune ?
 
--*who_clitandre
-Hortense doit vous voir ?
-
--*who_damis
       Oui, mon cher, sur la brune :
 Mais le soleil qui baisse amène ces moments,
 Ces moments fortunés, désirés si longtemps.
@@ -572,9 +354,457 @@ Toi, rôde près d'ici, marquis, je t'en conjure.
 Pour te faire un peu part de ces plaisirs si doux,
 Je te donne le soin d'écarter les jaloux.
 
-**** *book_ *id_I08 *act_I *date_1736
+Je verrai dans ce lieu la beauté qui m'engage.
 
--*who_clitandre
+Lisons.
+      Hom... hom... « Vous méritez de me charmer.
+Je sens à vos vertus ce que je dois d'estime...
+Mais je ne saurais vous aimer. »
+...
+Est-il un trait plus noir et plus abominable ?
+Je ne me croyais pas à ce point estimable.
+Je veux que tout ceci soit public à la cour,
+Et j'en informerai le monde dès ce jour.
+La chose assurément vaut bien qu'on la publie.
+
+Tenez ; c'est là le cas qu'on fait de tels écrits.
+
+      Il est quelques maîtresses
+Par qui l'original est un peu mieux reçu.
+
+Prends ma bague, et dis-moi, mais sans friponnerie,
+À quel impertinent, à quel fat de la cour,
+Ta maîtresse aujourd'hui prodigue son amour.
+
+Parbleu, j'en suis ravi. J'en apprends là de belles,
+Et je veux en chansons mettre un peu ces nouvelles.
+
+Allons, je vais au bal montrer un peu mes charmes.
+
+Je devrais être au bal, et danser à cette heure.
+
+Elle me lorgne encore, ou je suis fort trompé.
+Il faut que je m'approche.
+
+Fuir, et me regarder ! ah ! quelle perfidie !
+Arrêtez. A ce point pouvez-vous me trahir ?
+
+Ah ! l'effort n'est pas grand, grâces à vos caprices.
+
+Ainsi, du rendez-vous prompts à nous en aller,
+Nous n'étions donc venus que pour nous quereller ?
+
+Mais l'indigne billet que de vous j'ai reçu ?
+
+Moi, je vous ai rendu votre portrait, cruelle ?
+
+Je consens de quitter le roi, toute la cour,
+La faveur où je suis, les postes que j'espère,
+N'être jamais de rien, cesser partout de plaire,
+S'il est vrai qu'aujourd'hui je vous ai renvoyé
+Ce portrait à mes mains par l'amour confié.
+
+      Ah ! J'aperçois Clitandre.
+
+Viens çà, marquis, viens çà. Pourquoi fuis-tu d'ici ?
+Madame, il peut d'un mot débrouiller tout ceci.
+
+      Ne craignez rien, madame ;
+C'est un ami prudent à qui j'ouvre mon âme :
+Il est mon confident, qu'il soit le vôtre aussi.
+Il faut...
+
+Ah ! marquis, je ressens la douleur la plus vive :
+Il faut que je te parle... il faut que je la suive.
+Attends-moi. Demeurez. Ah ! Je suivrai vos pas.
+
+Ah ! marquis, cher marquis, parle ; d'où vient qu'Hortense
+M'ordonne en grand secret d'éviter sa présence ?
+D'où vient que son portrait, que je fie à ta foi,
+Se trouve entre ses mains ? Parle, réponds, dis-moi.
+
+      Et vous, monsieur le traître,
+Vous, le valet d'Hortense, ou qui prétendez l'être,
+Il faut que vous mouriez en ce lieu de ma main.
+
+      C'est en vain...
+
+Quel intérêt si grand peux-tu prendre à sa vie ?
+
+Par amitié pour toi je diffère un moment.
+Çà, maraud, apprends-moi la noirceur effroyable...
+
+Non, je ne promets rien, et je veux tout apprendre.
+
+      C'est donc ici la place
+Où toutes les beautés donnent leurs rendez-vous ?
+Ma foi, je suis assez à la mode, entre nous.
+Oui, la mode fait tout, décide tout en France ;
+Elle règle les rangs, l'honneur, la bienséance,
+Le mérite, l'esprit, les plaisirs.
+
+Ah ! si pour mon bonheur on peut savoir ceci,
+Je veux qu'avant deux ans la cour n'ait point de belle
+A qui l'amour pour moi ne tourne la cervelle.
+Il ne s'agit ici que de bien débuter.
+Bientôt Eglé, Doris... Mais qui les peut compter ?
+Quels plaisirs ! quelle file !
+
+Ah ! Julie, est-ce vous ? vous qui m'êtes si chère !
+Je vous connais malgré ce masque trop jaloux,
+Et mon coeur amoureux m'avertit que c'est vous.
+Otez, Julie, ôtez ce masque impitoyable ;
+Non, ne me cachez point ce visage adorable,
+Ce front, ces doux regards, cet aimable souris,
+Qui de mon tendre amour sont la cause et le prix.
+Vous êtes en ces lieux la seule que j'adore.
+
+Oh ! j'ai sur ce pied-là de quoi vous contenter :
+J'ai fait en peu de temps d'assez belles conquêtes ;
+Je pourrais me vanter de fortunes honnêtes ;
+Et nous sommes couru de plus d'une beauté
+Qui pourraient de tout autre enfler la vanité.
+Nous en citerions bien qui font les difficiles,
+Et qui sont avec nous passablement faciles.
+
+      Eh !... ma foi, vous n'avez qu'à parler,
+Et je suis prêt, Julie, à vous tout immoler.
+Voulez-vous qu'à jamais mon coeur vous sacrifie
+La petite Isabelle et la vive Erminie,
+Clarice, Églé, Doris ?...
+
+Écoutez. Entre nous, j'ai certaine maîtresse
+À qui ce portrait-là ressemble trait pour trait :
+Mais vous m'accuseriez d'être trop indiscret.
+
+      Si je n'avais quelque peu de prudence,
+Si je voulais parler, je nommerais Hortense.
+Pourquoi donc à ce nom vous éloigner de moi ?
+Je n'aime point Hortense alors que je vous vois ;
+Elle n'est près de vous ni touchante ni belle :
+De plus, certain abbé fréquente trop chez elle ;
+Et de nuit, entre nous, Trasimon son cousin
+Passe un peu trop souvent par le mur du jardin.
+
+Du dernier bien : je dis la chose comme elle est.
+
+Non, je ne vous mens point ; c'est la vérité pure.
+
+      Eh ! sur cela quel est votre souci ?
+Pour parler d'elle enfin sommes-nous donc ici ?
+Daignez, daignez plutôt...
+
+Je vous dis que j'en ai la preuve par écrit.
+
+      Vous m'outrez de dépit.
+
+      C'est trop me faire injure.
+Tenez donc : vous pouvez connaître l'écriture.
+
+Juste ciel ! Désormais à qui peut-on parler ?
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+
+Nérine, j'en conviens, Clitandre est vertueux ;
+Je connais la constance et l'ardeur de ses feux :
+Il est sage, discret, honnête homme, sincère ;
+Je le dois estimer ; mais Damis sait me plaire :
+Je sens trop, aux transports de mon coeur combattu,
+Que l'amour n'est jamais le prix de la vertu.
+C'est par les agréments que l'on touche une femme ;
+Et pour une de nous que l'amour prend par l'âme,
+Nérine, il en est cent qu'il séduit par les yeux.
+J'en rougis. Mais Damis ne vient point en ces lieux !
+
+Non, je ne devais pas arriver la première.
+
+Damis trop fortement occupe mon esprit.
+Sa mère, ce jour même, a su, par sa visite,
+De son fils dans mon coeur augmenter le mérite.
+Je vois bien qu'elle veut avancer le moment
+Où je dois pour époux accepter mon amant ;
+Mais je veux en secret lui parler à lui-même,
+Sonder ses sentiments.
+
+Il m'aime, je le crois, je le sais. Mais je veux
+Mille fois de sa bouche entendre ses aveux ;
+Voir s'il est en effet si digne de me plaire ;
+Connaître son esprit, son coeur, son caractère ;
+Ne point céder, Nérine, à ma prévention,
+Et juger, si je puis, de lui sans passion.
+
+Quoi ! ne viendrait-il pas ?
+
+Il ne viendra point ?
+
+Mon portrait !
+
+Je doute si je veille.
+
+      Ciel ! Quelle perfidie !
+J'en mourrai de douleur.
+
+Quel changement ! Quel prix de l'amour le plus tendre !
+
+A-t-il pu jusque-là pousser son infamie ?
+
+Il me rend mon portrait ! Ah ! Périsse à jamais
+Ce malheureux crayon de mes faibles attraits !
+
+Nérine, quel amour mon coeur avait conçu !
+Prends ma bourse. Dis-moi pour qui je suis trahie,
+À quel heureux objet Damis me sacrifie.
+
+C'est le comble, Nérine, au malheur de mes feux,
+De voir que tout ceci va faire un bruit affreux.
+Allons, loin de l'ingrat je vais cacher mes larmes.
+
+      D'où vient que je demeure ?
+
+Il rêve. Hélas ! d'Hortense il n'est point occupé.
+
+      Il faut que je le fuie.
+
+Laissez-moi m'efforcer, cruel, à vous haïr.
+
+Je le veux, je le dois, grâce à vos injustices.
+
+Que ce discours, ô ciel ! est plein de perfidie,
+Alors que l'on m'outrage ; et qu'on aime Julie !
+
+Mais mon portrait enfin que vous m'avez rendu ?
+
+Moi ! j'aurais pu jamais vous écrire, infidèle,
+Un billet, un seul mot, qui ne fût point d'amour ?
+
+Je fais plus. Je consens de n'être point aimée
+De l'amant dont mon âme est malgré moi charmée,
+S'il a reçu de moi ce billet prétendu.
+Mais voilà le portrait, ingrat, qui m'est rendu ;
+Ce prix trop méprisé d'une amitié trop tendre,
+Le voilà : pouvez-vous...
+
+Quoi ! Clitandre saurait...
+
+      Sortons, Nérine : ô ciel ! quel étourdi !
+
+Est-il vrai que Julie à ses yeux soit si belle
+Qu'il en soit amoureux ?
+
+Crois-tu que pour Julie il ait eu le coeur tendre ?
+Qu'en penses-tu ? dis-moi.
+
+Son indiscrétion, Nérine, fut extrême :
+Je devrais le haïr ; peut-être que je l'aime.
+Tout à l'heure, en pleurant, il jurait devant toi
+Qu'il m'aimerait toujours, et sans parler de moi ;
+Qu'il voulait m'adorer, et qu'il saurait se taire.
+
+Pour la dernière fois je le veux éprouver.
+Nérine, il est au bal ; il faut l'aller trouver.
+Déguise-toi ; dis-lui qu'avec impatience
+Julie ici l'attend dans l'ombre et le silence.
+L'artifice est permis sous ce masque trompeur,
+Qui du moins de mon front cachera la rougeur :
+Je paraîtrai Julie aux yeux de l'infidèle ;
+Je saurai ce qu'il pense et de moi-même et d'elle :
+C'est de cet entretien que dépendra mon choix.
+Ne vous écartez point, restez près de ce bois ;
+Tâchez auprès de vous de retenir Clitandre :
+L'un et l'autre en ces lieux daignez un peu m'attendre ;
+Je vous appellerai quand il en sera temps.
+
+Il faut fixer enfin mes voeux trop inconstants.
+Sachons, sous cet habit, à ses yeux travestie,
+Sous ce masque, et surtout sous le nom de Julie,
+Si l'indiscrétion de ce jeune éventé
+Fut un excès d'amour ou bien de vanité ;
+Si je dois le haïr ou lui donner sa grâce.
+Mais déjà je le vois.
+
+      L'étourdi !
+
+      Ah ! la tête légère !
+
+Non, de vous mon humeur n'est pas connue encore.
+Je ne voudrais jamais accepter votre foi,
+Si vous aviez un coeur qui n'eût aimé que moi.
+Je veux que mon amant soit bien plus à la mode,
+Que de ses rendez-vous le nombre l'incommode,
+Que par trente grisons tous ses pas soient comptés,
+Que mon amour vainqueur l'arrache à cent beautés,
+Qu'il me fasse surtout de brillants sacrifices ;
+Sans cela je ne puis accepter ses services :
+Un amant moins couru ne me saurait flatter.
+
+Mais encore ?
+
+      Quelle offrande est-ce là ?
+On m'offre tous les jours ces sacrifices-là ?
+Ces dames, entre nous, sont trop souvent quittées.
+Nommez-moi des beautés qui soient plus respectées,
+Et dont je puisse au moins triompher sans rougir.
+Ah ! si vous aviez pu forcer à vous chérir
+Quelque femme à l'amour jusqu'alors insensible,
+Aux manèges de cour toujours inaccessible,
+De qui la bienséance accompagnât les pas,
+Qui, sage en sa conduite, évitât les éclats,
+Enfin qui pour vous seul eût eu quelque faiblesse...
+
+Point, point.
+
+A l'indiscrétion joindre la calomnie !
+Contraignons-nous encore. Écoutez, je vous prie ;
+Comment avec Hortense êtes-vous, s'il vous plaît ?
+
+Peut-on plus loin pousser l'audace et l'imposture !
+
+Le traître !
+
+      Non, je ne saurais croire
+Qu'elle vous ait cédé cette entière victoire.
+
+Je n'en crois rien du tout.
+
+Je veux voir par mes yeux.
+
+Oui, je la connais, traître ! et je connais ton coeur.
+J'ai réparé ma faute, enfin ; et mon bonheur
+M'a rendu pour jamais le portrait et la lettre
+Qu'à ces indignes mains j'avais osé commettre.
+Il est temps ; Trasimon, Clitandre, montrez-vous.
+
+Si je ne vous suis point un objet de courroux,
+Si vous m'aimez encore, à vos lois asservie,
+Je vous offre ma main, ma fortune et ma vie.
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasimon
+
+      Aye ! Ouf ! On m'estropie...
+
+Souffrez...
+
+Mais quoi ?
+
+Je venais pour vous dire...
+
+Mais je ne prétends pas vous réjouir aussi ;
+Vous avez sur les bras une fâcheuse affaire.
+
+      Erminie et Valère
+Contre vous en ces lieux déclament hautement :
+Vous avez parlé d'eux un peu légèrement ;
+Et même depuis peu le vieux seigneur Horace
+M'a prié...
+
+Vous savez que le sexe assez peu m'intéresse.
+
+Puis-je vous y servir ?
+
+      Eh bien !
+Damis, s'il est ainsi, ne m'en dites donc rien.
+
+      C'est cette amitié même
+Qui me fait éviter avec un soin extrême
+Le fardeau d'un secret au hasard confié,
+Qu'on me dit par faiblesse, et non par amitié,
+Dont tout autre que moi serait dépositaire,
+Qui de mille soupçons est la source ordinaire,
+Et qui peut nous combler de honte et de dépit,
+Moi d'en avoir trop su, vous d'en avoir trop dit.
+
+      Par quel empressement ?...
+
+Puisque vous le voulez enfin...
+
+Vous prenez très grand soin d'obéir à la dame,
+Sans doute, et vous brûlez d'une discrète flamme.
+
+      Un peu forte.
+
+Oh ! nous n'exigeons point de telle confidence.
+
+Loin de vouloir ici vous forcer de parler...
+
+      Non, tout cela s'ignore.
+
+Ou fort, ou faiblement, il ne m'importe guère.
+
+      Vous oubliez, monsieur,
+Qu'Hortense est ma cousine, et chérit son honneur,
+Et qu'un pareil aveu...
+
+Mais Hortense, monsieur...
+
+Adieu, monsieur Damis : on peut vous faire voir
+Que sur une cousine on a quelque pouvoir.
+
+Oui, croyez, ma cousine, et faites votre compte
+Que ce jeune éventé nous couvrira de honte.
+Comment ! montrer partout et lettres et portrait !
+En public ! À moi-même ! Après un pareil trait,
+Je prétends de ma main lui brûler la cervelle.
+
+      Il importe fort peu
+Mais qu'il vous déshonore, il m'importe, morbleu !
+Et je sais l'intérêt qu'un parent doit y prendre.
+
+Il vous a promis là bien plus qu'il ne peut faire.
+
+Je vous l'avais bien dit que je la rendrais sage.
+C'est moi seul, Mons Damis, qui fais ce mariage.
+Adieu : possédez mieux l'art de dissimuler.
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Oui, tout le long du jour demeure en ce jardin ;
+Observe tout, vois tout, redis-moi tout, Pasquin ;
+Rends-moi compte, en un mot, de tous les pas d'Hortense
+Ah ! je saurai...
+
+      Bonjour.
+
+      Ma douleur, hélas ! n'a point de borne.
+
+      Que je suis malheureux !
+
+Quel congé ! quelle lettre ! Hortense... Ah ! la cruelle !
+
+Si vous êtes aimé, que votre sort est doux !
+
+Heureux qui, d'une femme adorant les appas,
+Reçoit de tels billets, et ne les montre pas !
+
+      Adorable.
+
+Damis, nous nous aimons, mais c'est avec prudence.
+
+On le dit d'après vous, mais nous n'en croyons rien.
+
+      Enfin donc cet objet si charmant...
+
+      Juste ciel ! C'est Hortense.
+
+Ah ! plus cruellement pouvait-on m'outrager ?
+
+Comme ici de moi-même il faut que je sois maître !
+Qu'il faut dissimuler !
+
+Où suis-je ?
+
+      Se peut-il ?
+
+Eh bien ?
+
+Ah ! Je frémis.
+
+Voici le dernier coup. Ah je succombe enfin.
+
+Hortense doit vous voir ?
+
 Ai-je assez retenu mon trouble et ma colère ?
 Hélas ! après un an de mon amour sincère,
 Hortense en ma faveur enfin s'attendrissait ;
@@ -591,22 +821,11 @@ De cet écervelé la voilà donc coiffée !
 Elle veut à mes yeux lui servir de trophée.
 Hortense, ah ! Que mon coeur vous connaissait bien mal !
 
-**** *book_ *id_I09 *act_I *date_1736
-
--*who_clitandre
 Enfin, mon cher Pasquin, j'ai trouvé mon rival.
 
--*who_pasquin
-Hélas ! monsieur, tant pis.
-
--*who_clitandre
       C'est Damis que l'on aime ;
 Oui, c'est cet étourdi.
 
--*who_pasquin
-      Qui vous l'a dit ?
-
--*who_clitandre
       Lui-même.
 L'indiscret, à mes yeux de trop d'orgueil enflé,
 Vient se vanter à moi du bien qu'il m'a volé.
@@ -615,29 +834,15 @@ Qu'il confie à mes mains cette aimable peinture ;
 C'est pour mieux triompher. Hortense ! eh ! qui l'eût cru
 Que jamais près de vous Damis m'aurait perdu ?
 
--*who_pasquin
-Damis est bien joli.
-
--*who_clitandre
       Comment ? Tu prétends, traître,
 Qu'un jeune fat...
 
--*who_pasquin
-      Aye ! Ouf ! Il est vrai que peut-être...
-Eh, ne m'étranglez pas ! Il n'a que du caquet...
-Mais son air... entre nous, c'est un vrai freluquet.
-
--*who_clitandre
 Tout freluquet qu'il est, c'est lui qu'on me préfère.
 Il faut montrer ici ton adresse ordinaire.
 Pasquin, pendant le bal que l'on donne ce soir,
 Hortense et mon rival doivent ici se voir.
 Console-moi, sers-moi, rompons cette partie.
 
--*who_pasquin
-Mais, monsieur...
-
--*who_clitandre
       Ton esprit est rempli d'industrie ;
 Tout est à toi : voilà de l'or à pleines mains.
 D'un rival imprudent dérangeons les desseins ;
@@ -646,7 +851,81 @@ Tâchons de lui voler les moments qu'on lui donne.
 Puisqu'il est indiscret, il en faut profiter ;
 De ces lieux, en un mot, il le faut écarter.
 
--*who_pasquin
+Veux-tu m'abandonner à ma douleur extrême ?
+
+      Non.
+
+      Oui.
+
+Hélas ! Il est trop vrai.
+
+Eh ! oui, je le sais bien.
+
+Eh ! Oui, bourreau.
+
+      En d'autres mains, qui, moi, j'irais remettre
+Un portrait confié ?...
+
+Mais...
+
+Tu veux...
+
+Je suis, je l'avouerai, dans un grand embarras.
+Je les croyais tous deux brouillés sur ta parole.
+
+Voyons un peu tous deux le chemin qu'ils vont prendre.
+
+Damis marche après elle ; Hortense au moins le fuit.
+
+Damis en vain lui parle ; on détourne la tête.
+
+Il se met à genoux ; il reçoit des mépris.
+
+Hortense entre chez elle enfin, et le renvoie.
+Je sens des mouvements de chagrin et de joie,
+D'espérance et de crainte, et ne puis deviner
+Où cette intrigue-ci pourra se terminer.
+
+Vous m'embarrassez fort.
+
+      Eh ! monsieur...
+
+Épargnez ce valet, c'est moi qui vous en prie.
+
+Je vous en prie encore, et sérieusement.
+
+Ah ! madame, à vos pieds un malheureux amant
+Devrait mourir de joie et de saisissement.
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
+Quelle vivacité ! quoi ! cette humeur si fière ?...
+
+Au premier rendez-vous vous avez du dépit ?
+
+      Doutez-vous qu'il vous aime ?
+
+      Ah ! Le petit traître !
+
+      Mais l'on peut aujourd'hui
+Aisément, si l'on veut, savoir cela de lui.
+
+
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
+Hélas ! monsieur, tant pis.
+
+      Qui vous l'a dit ?
+
+Damis est bien joli.
+
+      Aye ! Ouf ! Il est vrai que peut-être...
+Eh, ne m'étranglez pas ! Il n'a que du caquet...
+Mais son air... entre nous, c'est un vrai freluquet.
+
+Mais, monsieur...
+
 Croyez-vous me charger d'une facile affaire ?
 J'arrêterais, monsieur, le cours d'une rivière,
 Un cerf dans une plaine, un oiseau dans les airs,
@@ -656,650 +935,91 @@ Un Manceau tonsuré qui court un bénéfice,
 La tempête, le vent, le tonnerre et ses coups,
 Plutôt qu'un petit-maître allant en rendez-vous.
 
--*who_clitandre
-Veux-tu m'abandonner à ma douleur extrême ?
-
--*who_pasquin
 Attendez. Il me vient en tête un stratagème.
 Hortense ni Damis ne m'ont jamais vu ?
 
--*who_clitandre
-      Non.
-
--*who_pasquin
 Vous avez en vos mains un sien portrait ?
 
--*who_clitandre
-      Oui.
-
--*who_pasquin
       Bon.
 Vous avez un billet que vous écrit la belle ?
 
--*who_clitandre
-Hélas ! Il est trop vrai.
-
--*who_pasquin
       Cette lettre cruelle
 Est un ordre bien net de ne lui parler plus ?
 
--*who_clitandre
-Eh ! oui, je le sais bien.
-
--*who_pasquin
       La lettre est sans dessus ?
 
--*who_clitandre
-Eh ! Oui, bourreau.
-
--*who_pasquin
       Prêtez vite et portrait et lettre.
 Donnez.
 
--*who_clitandre
-      En d'autres mains, qui, moi, j'irais remettre
-Un portrait confié ?...
-
--*who_pasquin
       Voilà bien des façons :
 Le scrupule est plaisant. Donnez-moi ces chiffons.
 
--*who_clitandre
-Mais...
-
--*who_pasquin
       Mais reposez-vous de tout sur ma prudence.
 
--*who_clitandre
-Tu veux...
-
--*who_pasquin
       Eh ! dénichez. Voici madame Hortense.
 
-**** *book_ *id_I10 *act_I *date_1736
-
--*who_hortense
-Nérine, j'en conviens, Clitandre est vertueux ;
-Je connais la constance et l'ardeur de ses feux :
-Il est sage, discret, honnête homme, sincère ;
-Je le dois estimer ; mais Damis sait me plaire :
-Je sens trop, aux transports de mon coeur combattu,
-Que l'amour n'est jamais le prix de la vertu.
-C'est par les agréments que l'on touche une femme ;
-Et pour une de nous que l'amour prend par l'âme,
-Nérine, il en est cent qu'il séduit par les yeux.
-J'en rougis. Mais Damis ne vient point en ces lieux !
-
--*who_nerine
-Quelle vivacité ! quoi ! cette humeur si fière ?...
-
--*who_hortense
-Non, je ne devais pas arriver la première.
-
--*who_nerine
-Au premier rendez-vous vous avez du dépit ?
-
--*who_hortense
-Damis trop fortement occupe mon esprit.
-Sa mère, ce jour même, a su, par sa visite,
-De son fils dans mon coeur augmenter le mérite.
-Je vois bien qu'elle veut avancer le moment
-Où je dois pour époux accepter mon amant ;
-Mais je veux en secret lui parler à lui-même,
-Sonder ses sentiments.
-
--*who_nerine
-      Doutez-vous qu'il vous aime ?
-
--*who_hortense
-Il m'aime, je le crois, je le sais. Mais je veux
-Mille fois de sa bouche entendre ses aveux ;
-Voir s'il est en effet si digne de me plaire ;
-Connaître son esprit, son coeur, son caractère ;
-Ne point céder, Nérine, à ma prévention,
-Et juger, si je puis, de lui sans passion.
-
-**** *book_ *id_I11 *act_I *date_1736
-
--*who_pasquin
 Madame, en grand secret, monsieur Damis mon maître...
 
--*who_hortense
-Quoi ! ne viendrait-il pas ?
-
--*who_pasquin
       Non.
 
--*who_nerine
-      Ah ! Le petit traître !
-
--*who_hortense
-Il ne viendra point ?
-
--*who_pasquin
       Non ; mais, par bon procédé,
 Il vous rend ce portrait dont il est excédé.
 
--*who_hortense
-Mon portrait !
-
--*who_pasquin
       Reprenez vite la miniature.
 
--*who_hortense
-Je doute si je veille.
-
--*who_pasquin
       Allons, je vous conjure.
 Dépêchez-moi, j'ai hâte ; et, de sa part, ce soir,
 J'ai deux portraits à rendre, et deux à recevoir.
 Jusqu'au revoir. Adieu.
 
--*who_hortense
-      Ciel ! Quelle perfidie !
-J'en mourrai de douleur.
-
--*who_pasquin
       De plus, il vous supplie
 De finir la lorgnade, et chercher aujourd'hui,
 Avec vos airs pincés, d'autres dupes que lui.
 
-**** *book_ *id_I12 *act_I *date_1736
-
--*who_damis
-Je verrai dans ce lieu la beauté qui m'engage.
-
--*who_pasquin
 C'est Damis. Je suis pris. Ne perdons point courage.
 Vous voyez, monseigneur, un des grisons secrets
 Qui d'Hortense partout va portant les poulets.
 J'ai certain billet doux de sa part à vous rendre.
 
--*who_hortense
-Quel changement ! Quel prix de l'amour le plus tendre !
-
--*who_damis
-Lisons.
-      Hom... hom... « Vous méritez de me charmer.
-Je sens à vos vertus ce que je dois d'estime...
-Mais je ne saurais vous aimer. »
-...
-Est-il un trait plus noir et plus abominable ?
-Je ne me croyais pas à ce point estimable.
-Je veux que tout ceci soit public à la cour,
-Et j'en informerai le monde dès ce jour.
-La chose assurément vaut bien qu'on la publie.
-
--*who_hortense
-A-t-il pu jusque-là pousser son infamie ?
-
--*who_damis
-Tenez ; c'est là le cas qu'on fait de tels écrits.
-
--*who_pasquin
 Je suis honteux pour vous d'un si cruel mépris.
 Madame, vous voyez de quel air il déchire
 Les billets qu'à l'ingrat vous daignâtes écrire.
 
--*who_hortense
-Il me rend mon portrait ! Ah ! Périsse à jamais
-Ce malheureux crayon de mes faibles attraits !
-
--*who_pasquin
 Vous voyez devant vous l'ingrate met en pièces
 Votre portrait, monsieur.
 
--*who_damis
-      Il est quelques maîtresses
-Par qui l'original est un peu mieux reçu.
-
--*who_hortense
-Nérine, quel amour mon coeur avait conçu !
-Prends ma bourse. Dis-moi pour qui je suis trahie,
-À quel heureux objet Damis me sacrifie.
-
--*who_pasquin
 A cinq ou six beautés dont il se dit l'amant,
 Qu'il sert toutes bien mal, qu'il trompe également ;
 Mais surtout à la jeune, à la belle Julie.
 
--*who_damis
-Prends ma bague, et dis-moi, mais sans friponnerie,
-À quel impertinent, à quel fat de la cour,
-Ta maîtresse aujourd'hui prodigue son amour.
-
--*who_pasquin
 Vous méritez, ma foi, d'avoir la préférence ;
 Mais un certain abbé lorgne de près Hortense ;
 Et chez elle, de nuit, par le mur du jardin,
 Je fais entrer parfois Trasimon son cousin.
 
--*who_damis
-Parbleu, j'en suis ravi. J'en apprends là de belles,
-Et je veux en chansons mettre un peu ces nouvelles.
-
--*who_hortense
-C'est le comble, Nérine, au malheur de mes feux,
-De voir que tout ceci va faire un bruit affreux.
-Allons, loin de l'ingrat je vais cacher mes larmes.
-
--*who_damis
-Allons, je vais au bal montrer un peu mes charmes.
-
--*who_pasquin
 Vous n'avez rien, madame, à désirer de moi ?
 Vous n'avez nul besoin de mon petit emploi ?
 Le ciel vous tienne en paix.
 
-**** *book_ *id_I13 *act_I *date_1736
-
--*who_hortense
-      D'où vient que je demeure ?
-
--*who_damis
-Je devrais être au bal, et danser à cette heure.
-
--*who_hortense
-Il rêve. Hélas ! d'Hortense il n'est point occupé.
-
--*who_damis
-Elle me lorgne encore, ou je suis fort trompé.
-Il faut que je m'approche.
-
--*who_hortense
-      Il faut que je le fuie.
-
--*who_damis
-Fuir, et me regarder ! ah ! quelle perfidie !
-Arrêtez. A ce point pouvez-vous me trahir ?
-
--*who_hortense
-Laissez-moi m'efforcer, cruel, à vous haïr.
-
--*who_damis
-Ah ! l'effort n'est pas grand, grâces à vos caprices.
-
--*who_hortense
-Je le veux, je le dois, grâce à vos injustices.
-
--*who_damis
-Ainsi, du rendez-vous prompts à nous en aller,
-Nous n'étions donc venus que pour nous quereller ?
-
--*who_hortense
-Que ce discours, ô ciel ! est plein de perfidie,
-Alors que l'on m'outrage ; et qu'on aime Julie !
-
--*who_damis
-Mais l'indigne billet que de vous j'ai reçu ?
-
--*who_hortense
-Mais mon portrait enfin que vous m'avez rendu ?
-
--*who_damis
-Moi, je vous ai rendu votre portrait, cruelle ?
-
--*who_hortense
-Moi ! j'aurais pu jamais vous écrire, infidèle,
-Un billet, un seul mot, qui ne fût point d'amour ?
-
--*who_damis
-Je consens de quitter le roi, toute la cour,
-La faveur où je suis, les postes que j'espère,
-N'être jamais de rien, cesser partout de plaire,
-S'il est vrai qu'aujourd'hui je vous ai renvoyé
-Ce portrait à mes mains par l'amour confié.
-
--*who_hortense
-Je fais plus. Je consens de n'être point aimée
-De l'amant dont mon âme est malgré moi charmée,
-S'il a reçu de moi ce billet prétendu.
-Mais voilà le portrait, ingrat, qui m'est rendu ;
-Ce prix trop méprisé d'une amitié trop tendre,
-Le voilà : pouvez-vous...
-
--*who_damis
-      Ah ! J'aperçois Clitandre.
-
-**** *book_ *id_I14 *act_I *date_1736
-
--*who_damis
-Viens çà, marquis, viens çà. Pourquoi fuis-tu d'ici ?
-Madame, il peut d'un mot débrouiller tout ceci.
-
--*who_hortense
-Quoi ! Clitandre saurait...
-
--*who_damis
-      Ne craignez rien, madame ;
-C'est un ami prudent à qui j'ouvre mon âme :
-Il est mon confident, qu'il soit le vôtre aussi.
-Il faut...
-
--*who_hortense
-      Sortons, Nérine : ô ciel ! quel étourdi !
-
-**** *book_ *id_I15 *act_I *date_1736
-
--*who_damis
-Ah ! marquis, je ressens la douleur la plus vive :
-Il faut que je te parle... il faut que je la suive.
-Attends-moi. Demeurez. Ah ! Je suivrai vos pas.
-
-**** *book_ *id_I16 *act_I *date_1736
-
--*who_clitandre
-Je suis, je l'avouerai, dans un grand embarras.
-Je les croyais tous deux brouillés sur ta parole.
-
--*who_pasquin
 Je le croyais aussi. J'ai bien joué mon rôle ;
 Ils se devraient haïr tous deux assurément :
 Mais pour se pardonner il ne faut qu'un moment.
 
--*who_clitandre
-Voyons un peu tous deux le chemin qu'ils vont prendre.
-
--*who_pasquin
 Vers son appartement Hortense va se rendre.
 
--*who_clitandre
-Damis marche après elle ; Hortense au moins le fuit.
-
--*who_pasquin
 Elle fuit faiblement, et son amant la suit.
 
--*who_clitandre
-Damis en vain lui parle ; on détourne la tête.
-
--*who_pasquin
 Il est vrai ; mais Damis de temps en temps l'arrête.
 
--*who_clitandre
-Il se met à genoux ; il reçoit des mépris.
-
--*who_pasquin
 Ah ! vous êtes perdu, l'on regarde Damis.
 
--*who_clitandre
-Hortense entre chez elle enfin, et le renvoie.
-Je sens des mouvements de chagrin et de joie,
-D'espérance et de crainte, et ne puis deviner
-Où cette intrigue-ci pourra se terminer.
-
-**** *book_ *id_I17 *act_I *date_1736
-
--*who_damis
-Ah ! marquis, cher marquis, parle ; d'où vient qu'Hortense
-M'ordonne en grand secret d'éviter sa présence ?
-D'où vient que son portrait, que je fie à ta foi,
-Se trouve entre ses mains ? Parle, réponds, dis-moi.
-
--*who_clitandre
-Vous m'embarrassez fort.
-
--*who_damis
-      Et vous, monsieur le traître,
-Vous, le valet d'Hortense, ou qui prétendez l'être,
-Il faut que vous mouriez en ce lieu de ma main.
-
--*who_pasquin
 Monsieur, protégez-nous.
 
--*who_clitandre
-      Eh ! monsieur...
-
--*who_damis
-      C'est en vain...
-
--*who_clitandre
-Épargnez ce valet, c'est moi qui vous en prie.
-
--*who_damis
-Quel intérêt si grand peux-tu prendre à sa vie ?
-
--*who_clitandre
-Je vous en prie encore, et sérieusement.
-
--*who_damis
-Par amitié pour toi je diffère un moment.
-Çà, maraud, apprends-moi la noirceur effroyable...
-
--*who_pasquin
 Ah ! monsieur, cette affaire est embrouillée en diable ;
 Mais je vous apprendrai de surprenants secrets,
 Si vous me promettez de n'en parler jamais.
 
--*who_damis
-Non, je ne promets rien, et je veux tout apprendre.
-
--*who_pasquin
 Monsieur, Hortense arrive, et pourrait nous entendre.
 Ah ! monsieur, que dirai-je ? Hélas ! je suis à bout.
 Allons tous trois au bal, et je vous dirai tout.
 
-**** *book_ *id_I18 *act_I *date_1736
-
--*who_trasimon
-Oui, croyez, ma cousine, et faites votre compte
-Que ce jeune éventé nous couvrira de honte.
-Comment ! montrer partout et lettres et portrait !
-En public ! À moi-même ! Après un pareil trait,
-Je prétends de ma main lui brûler la cervelle.
-
--*who_hortense
-Est-il vrai que Julie à ses yeux soit si belle
-Qu'il en soit amoureux ?
-
--*who_trasimon
-      Il importe fort peu
-Mais qu'il vous déshonore, il m'importe, morbleu !
-Et je sais l'intérêt qu'un parent doit y prendre.
-
--*who_hortense
-Crois-tu que pour Julie il ait eu le coeur tendre ?
-Qu'en penses-tu ? dis-moi.
-
--*who_nerine
-      Mais l'on peut aujourd'hui
-Aisément, si l'on veut, savoir cela de lui.
-
--*who_hortense
-Son indiscrétion, Nérine, fut extrême :
-Je devrais le haïr ; peut-être que je l'aime.
-Tout à l'heure, en pleurant, il jurait devant toi
-Qu'il m'aimerait toujours, et sans parler de moi ;
-Qu'il voulait m'adorer, et qu'il saurait se taire.
-
--*who_trasimon
-Il vous a promis là bien plus qu'il ne peut faire.
-
--*who_hortense
-Pour la dernière fois je le veux éprouver.
-Nérine, il est au bal ; il faut l'aller trouver.
-Déguise-toi ; dis-lui qu'avec impatience
-Julie ici l'attend dans l'ombre et le silence.
-L'artifice est permis sous ce masque trompeur,
-Qui du moins de mon front cachera la rougeur :
-Je paraîtrai Julie aux yeux de l'infidèle ;
-Je saurai ce qu'il pense et de moi-même et d'elle :
-C'est de cet entretien que dépendra mon choix.
-Ne vous écartez point, restez près de ce bois ;
-Tâchez auprès de vous de retenir Clitandre :
-L'un et l'autre en ces lieux daignez un peu m'attendre ;
-Je vous appellerai quand il en sera temps.
-
-**** *book_ *id_I19 *act_I *date_1736
-
--*who_hortense
-Il faut fixer enfin mes voeux trop inconstants.
-Sachons, sous cet habit, à ses yeux travestie,
-Sous ce masque, et surtout sous le nom de Julie,
-Si l'indiscrétion de ce jeune éventé
-Fut un excès d'amour ou bien de vanité ;
-Si je dois le haïr ou lui donner sa grâce.
-Mais déjà je le vois.
-
-**** *book_ *id_I20 *act_I *date_1736
-
--*who_damis
-      C'est donc ici la place
-Où toutes les beautés donnent leurs rendez-vous ?
-Ma foi, je suis assez à la mode, entre nous.
-Oui, la mode fait tout, décide tout en France ;
-Elle règle les rangs, l'honneur, la bienséance,
-Le mérite, l'esprit, les plaisirs.
-
--*who_hortense
-      L'étourdi !
-
--*who_damis
-Ah ! si pour mon bonheur on peut savoir ceci,
-Je veux qu'avant deux ans la cour n'ait point de belle
-A qui l'amour pour moi ne tourne la cervelle.
-Il ne s'agit ici que de bien débuter.
-Bientôt Eglé, Doris... Mais qui les peut compter ?
-Quels plaisirs ! quelle file !
-
--*who_hortense
-      Ah ! la tête légère !
-
--*who_damis
-Ah ! Julie, est-ce vous ? vous qui m'êtes si chère !
-Je vous connais malgré ce masque trop jaloux,
-Et mon coeur amoureux m'avertit que c'est vous.
-Otez, Julie, ôtez ce masque impitoyable ;
-Non, ne me cachez point ce visage adorable,
-Ce front, ces doux regards, cet aimable souris,
-Qui de mon tendre amour sont la cause et le prix.
-Vous êtes en ces lieux la seule que j'adore.
-
--*who_hortense
-Non, de vous mon humeur n'est pas connue encore.
-Je ne voudrais jamais accepter votre foi,
-Si vous aviez un coeur qui n'eût aimé que moi.
-Je veux que mon amant soit bien plus à la mode,
-Que de ses rendez-vous le nombre l'incommode,
-Que par trente grisons tous ses pas soient comptés,
-Que mon amour vainqueur l'arrache à cent beautés,
-Qu'il me fasse surtout de brillants sacrifices ;
-Sans cela je ne puis accepter ses services :
-Un amant moins couru ne me saurait flatter.
-
--*who_damis
-Oh ! j'ai sur ce pied-là de quoi vous contenter :
-J'ai fait en peu de temps d'assez belles conquêtes ;
-Je pourrais me vanter de fortunes honnêtes ;
-Et nous sommes couru de plus d'une beauté
-Qui pourraient de tout autre enfler la vanité.
-Nous en citerions bien qui font les difficiles,
-Et qui sont avec nous passablement faciles.
-
--*who_hortense
-Mais encore ?
-
--*who_damis
-      Eh !... ma foi, vous n'avez qu'à parler,
-Et je suis prêt, Julie, à vous tout immoler.
-Voulez-vous qu'à jamais mon coeur vous sacrifie
-La petite Isabelle et la vive Erminie,
-Clarice, Églé, Doris ?...
-
--*who_hortense
-      Quelle offrande est-ce là ?
-On m'offre tous les jours ces sacrifices-là ?
-Ces dames, entre nous, sont trop souvent quittées.
-Nommez-moi des beautés qui soient plus respectées,
-Et dont je puisse au moins triompher sans rougir.
-Ah ! si vous aviez pu forcer à vous chérir
-Quelque femme à l'amour jusqu'alors insensible,
-Aux manèges de cour toujours inaccessible,
-De qui la bienséance accompagnât les pas,
-Qui, sage en sa conduite, évitât les éclats,
-Enfin qui pour vous seul eût eu quelque faiblesse...
-
--*who_damis
-Écoutez. Entre nous, j'ai certaine maîtresse
-À qui ce portrait-là ressemble trait pour trait :
-Mais vous m'accuseriez d'être trop indiscret.
-
--*who_hortense
-Point, point.
-
--*who_damis
-      Si je n'avais quelque peu de prudence,
-Si je voulais parler, je nommerais Hortense.
-Pourquoi donc à ce nom vous éloigner de moi ?
-Je n'aime point Hortense alors que je vous vois ;
-Elle n'est près de vous ni touchante ni belle :
-De plus, certain abbé fréquente trop chez elle ;
-Et de nuit, entre nous, Trasimon son cousin
-Passe un peu trop souvent par le mur du jardin.
-
--*who_hortense
-A l'indiscrétion joindre la calomnie !
-Contraignons-nous encore. Écoutez, je vous prie ;
-Comment avec Hortense êtes-vous, s'il vous plaît ?
-
--*who_damis
-Du dernier bien : je dis la chose comme elle est.
-
--*who_hortense
-Peut-on plus loin pousser l'audace et l'imposture !
-
--*who_damis
-Non, je ne vous mens point ; c'est la vérité pure.
-
--*who_hortense
-Le traître !
-
--*who_damis
-      Eh ! sur cela quel est votre souci ?
-Pour parler d'elle enfin sommes-nous donc ici ?
-Daignez, daignez plutôt...
-
--*who_hortense
-      Non, je ne saurais croire
-Qu'elle vous ait cédé cette entière victoire.
-
--*who_damis
-Je vous dis que j'en ai la preuve par écrit.
-
--*who_hortense
-Je n'en crois rien du tout.
-
--*who_damis
-      Vous m'outrez de dépit.
-
--*who_hortense
-Je veux voir par mes yeux.
-
--*who_damis
-      C'est trop me faire injure.
-Tenez donc : vous pouvez connaître l'écriture.
-
--*who_hortense
-Oui, je la connais, traître ! et je connais ton coeur.
-J'ai réparé ma faute, enfin ; et mon bonheur
-M'a rendu pour jamais le portrait et la lettre
-Qu'à ces indignes mains j'avais osé commettre.
-Il est temps ; Trasimon, Clitandre, montrez-vous.
-
-**** *book_ *id_I21 *act_I *date_1736
-
--*who_hortense
-Si je ne vous suis point un objet de courroux,
-Si vous m'aimez encore, à vos lois asservie,
-Je vous offre ma main, ma fortune et ma vie.
-
--*who_clitandre
-Ah ! madame, à vos pieds un malheureux amant
-Devrait mourir de joie et de saisissement.
-
--*who_trasimon
-Je vous l'avais bien dit que je la rendrais sage.
-C'est moi seul, Mons Damis, qui fais ce mariage.
-Adieu : possédez mieux l'art de dissimuler.
-
--*who_damis
-Juste ciel ! Désormais à qui peut-on parler ?

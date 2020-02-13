@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_inconnu  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1675  
 title: L'Inconnu?. Comédie mêlée d'ornements  
 ---

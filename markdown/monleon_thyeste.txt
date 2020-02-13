@@ -1,6 +1,6 @@
 ---
 identifier: monleon_thyeste  
-creator: Monléon, De  
+creator: Monléon, De ; Georges Forestier.  
 date: 1638  
 title: Le Thyeste. Tragédie  
 ---

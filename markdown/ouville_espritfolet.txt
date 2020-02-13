@@ -1,6 +1,6 @@
 ---
 identifier: ouville_espritfolet  
-creator: Ouville, Antoine d'  
+creator: Ouville, Antoine d' ; Georges Forestier.  
 date: 1642  
 title: L'Esprit folet. Comédie  
 ---

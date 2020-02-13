@@ -1,219 +1,12 @@
 
 
-**** *book_ *id_epitre *date_1661 *creator_corneille
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_camma
 
-Espitre
-
-A SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC.
-
-MONSEIGNEUR,
-
-J'offre à VOSTRE ALTESSE SERENISSIME le portrait d'une reine dont le temps ne sçauroit trop respecter la memoire.
-Sa beauté causa le crime qui luy fit pleurer la perte de son Mary, et sa vertu la soûmit avec tant de fermeté à la rigueur du devoir qui luy en fit jurer la vangeance, qu'elle ne refusa pas de l'acheter au dépens même de sa vie ; mais quoy qu'il semble que cette gloire ait esté la seule qui l'ait pû toucher, elle ne peut revivre aujourd'hui sans se montrer sensible à une autre, et celle de vous avoir plû luy est si prétieuse, qu'elle n'en croiroit jouir qu'imparfaitement si vous ne lui permettiez de la publier.
-C'est, MONSEIGNEUR, pour obtenir cette grâce de V.A que me faisant précipiter le respectueux hommage que je vous rends, elle ne me souffre⁎ point d'examiner si le zéle ardent qui me porte à cette entreprise a quelque chose d'assez fort pour vous en faire excuser la temerité.
-On m'en accusera sans doute, mais j'aime mieux me voir exposé à ce péril, que de demeurer plus long-temps dans une admiration muette de tant de hautes qualitez qui estonnent⁎ d'autant plus, qu'on peut dire qu'elles sont moins des dons de la Nature, que l'ouvrage de vos propres soins.
-Vous ne vous en êtes épargné aucun, et il ne vous a pas suffi de trouver en vous un Grand Prince si tôt que vous vous êtes connu ; vous n'avez songé qu'à vous estudier assidûment pour vous rendre digne de l'estre, et vous ne vous estes point souffert de repos que vous n'ayez empesché la Fortune d'entrer en partage avec votre vertu, du vif éclat qu'un si glorieux titre répand sur vous.
-L'estude est belle, MONSEIGNEUR, mais comme elle demande les lumieres les plus profondes, et les plus penetrantes de l'esprit, il en est peu qui s'y puissent appliquer avec succez.
-En effet, il est rare d'en trouver une de la force et de l'etenduë de celui de V.A et c'est un sujet de surprise pour tous ceux qui ont l'honneur de vous approcher, que dans l'âge qui semble moins le permettre, vous joigniez à cette brillante vivacité qu'il inspire, la solidité du plus sublime raisonnement.
-Mais on a tort de s'en estonner, ⁎ puisque c'est une des moindres merveilles que le Ciel nous ait promises de vous ; il ne vous a fait voir le jour que pour vous en faire, et il vous en offre les moyens à puiser dans une source qui en est si seconde, que pour estre en pouvoir de produire les plus incroyables, votre naissance estoit le seul secours que vous aviez à souhaiter.
-Je ne dis pas, MONSEIGNEUR, cette naissance illustre qui par l'élevation du rang que vous tenez, vous donne droit aux Couronnes ; j'entens cet avantage particulier que vous avez d'estre né d'un HEROS qui n'a besoin que de vous communiquer un rayon de sa vertu⁎ pour vous mettre en estat de les meriter.
-Je le puis dire, MONSEIGNEUR, et je suis asseuré que V.A ne m'en desadvouëra pas.
-Cet avantage est d'un prix si relevé, que quand vous auriez pû naître ce que vous auriez voulu choisir, vous eussiez préferé ce que vous estes à tout ce que l'indiscrete ambition pourroit présumer au dessus.
-Vous y trouvez ce qui fait la véritable grandeur, et celle qui tient les peuples soûmis ne vous flateroit⁎ point tant que l'honneur d'estre Fils de celuy qui a obscurcy le nom des Cesars, et qui ne souffrant rien qui puisse aller au de-là des Grandes Actions qu'on luy a veu faire, ne laisse qu'à ceux de son sang le privilege de les pouvoir égaler.
-Jouissez-en , MONSEIGNEUR, et repassant en vous-mesme ces Prodiges inconcevables qu'il a fait paroistre de valeur, de prudence et de conduite, applaudissez-vous en secret des Miracles continuels où votre vie est destinée.
-Chaque Laurier qu'il a cueilly dans le champ de Mars, est une asseurance de ceux que La Victoire y a semez pour vous.
-Il n'a point pris de Villes, il n'a point gagné de Batailles qui ne vous soient autant de garands des Triomphes qui vous attendent, et l'Image présente de tant d'inimitables exploits vous doit faire goûter par advance le fruit de ceux qui vous sont reservez.
-Il me semble, MONSEIGNEUR, que je vois V.A se perdre agreablement dans ces hautes et pompeuses⁎ idées, et que la secrète joye qu'elles vous donnent, redouble cette noble fierté qui accompagne toûjours les personnes de votre rang.
-On n'en peut ressentir de plus parfaite, et si elle étoit capable de recevoir quelque legere alteration, ce ne pourroit être que de ce loüable chagrin⁎ qui fit autrefois soûpirer Alexandre des conquestes de Philippe.
-Mais il vous seroit aisé de le dissiper par la certitude où vous devez être, que quoy que le Grand CONDE ne doive qu'à luy seul ce qui luy asseure l'Immortalité, vous ne laisserez pas d'y contribuer quelque chose.
-L'histoire ne s'en taira point, MONSEIGNEUR, et quand elle aura fortement exageré ce qui le met au dessus des plus fameux Conquerants que l'Antiquité nous vante, elle n'oubliera pas de marquer pour l'achevement de sa gloire, celle qu'il aura euë d'avoir donné à la France un Fils digne d'elle et de luy.
-Il ne pouvoit luy faire un présent qui luy fust plus cher, et si dans le foible talent que j'ay, il m'estoit permis de former quelque ambitieux desir, ce seroit que vous daignassiez advouër un jour de publier les grandes choses qu'elle vous verra executer ; mais c'est une grace qu'il n'est pas juste que j'espere, ce dessein demande des forces que je ne sçaurois jamais acquerir, puisqu'il faudroit qu'elles fussent égales à l'ardeur toute soûmise avec laquelle je suis,
-
-MONSEIGNEUR,
-
-De V.A SERENISSIME,
-
-Le tres-humble, tres-obeïssant et tres-fidelle Serviteur,
-
-T. CORNEILLE.
-
-**** *book_ *id_privilege *date_1661 *creator_corneille
-
-Extrait du Privilege du Roy
-
-Par Lettres Patentes du Roy données à Paris le 14 Février 1661.
-Signées, CONRART : il est permis à AUGUSTIN COURBE, Marchand libraire en la Ville de Paris, de faire imprimer, vendre et debiter en tous lieux de l'obeïssance de sa Majesté, une Tragédie composée par le Sieur THOMAS CORNEILLE, intitulée Camma, Reine de Galatie, Tragédie, en telles marges, & tels caracteres, en un ou plusieurs volumes, et autant de fois qu'il voudra, durant sept ans entiers, à compter du jour, que ladite Tragédie sera achevée d'imprimer pour la première fois.
-Avec defferences à toutes personnes de quelque qualité et condition qu'elles soient, de l'imprimer, vendre et debiter, sous quelque pretexte que ce soit, pendant ledit temps, sans consentement dudit COURBE, ou de ceux qui auront son droit, à peine de deux mil livres d'amende, de confiscation des Exemplaires contrefaits, et de tous dépens, dommages et interests, comme il est porté plus au long par lesdites Lettres Patentes, à l'Extrait, et aux Copies collationnées auxquelles sa Majesté veut que foy soit adjoûtée comme à l'Original.
-Et scellées du Grand sceau de cire jaune sur simple queuë.
-
-Et ledit Courbé a associé, pour moitié, au présent Privilège Guillaume de Luyne, aussi Marchand libraire, suivant l'accord fait entr'eux.
-
-Achevé d'imprimer pour la première fois le 24 Mars 1661, à ROUEN par LAURENS MAURRY.
-
-Les Exemplaires ont esté fournis, ainsi qu'il est porté par ledit Privilege.
-
-Registré sur le livre de la Communauté, le 23.
-Février 1661, conformément à l'Arrest du Parlement du 9.
-Avril 1653.
-Signé, Josse, Syndic.
-
-**** *book_ *id_I01 *act_I *date_1661 *creator_corneille
-
--*who_sinorix
-Tu dis vray, cher Phaedime, on auroit peine à croire
-Qu'un grand cœur soûpirast au milieu de la gloire,
-Qu'au faiste des grandeurs Sinorix eslevé
-Souhaitast dans leur pompe⁎ un bien plus achevé,
-Et que de tant d'honneurs sa fortune suivie
-Pûst opposer quelque ombre à l'éclat de sa vie.
-Il n'est rien au dessus du rang où tu me vois,
-Toute la Galatie obeït à mes loix ;
-Un vieux droit que soûtint⁎ un peu de violence
-M'a laissé sur le Trône établir ma puissance,
-On me flate⁎, on me craint, chacun m'offre des vœux,
-Cependant, tu le sais, je ne suis pas heureux.
-Depuis six mois je regne, et regne sans obstacles ;
-Mais le Sort fait en vain pour moy tant de miracles
-Si du plus digne Objet trop vivement charmé,
-J'aime pour mon supplice, et ne puis estre aimé.
-
--*who_phaedime
-C'est vous plaire, Seigneur, à croistre vostre peine,
-Que d'expliquer si mal les refus de la Reine,
-Qui peut-estre en secret brûlant⁎ déja pour vous
-N'ose encor par devoir vous prendre pour Espoux.
-Quelque éclat à ses yeux dont la Couronne brille,
-Elle est Vefve d'un Roy qui vous donnoit sa Fille,
-Et qui par vostre hymen luy faisoit éviter
-D'avoir avecque vous un Trône à disputer.
-Du peuple qui vous craint l'entier et prompt suffrage
-Vous en a fait sur elle emporter l'avantage,
-Et lors que tout l'Estat respecte en vous son Roy,
-Vous la laissez Sujette, et luy manquez de foy⁎.
-L'affront est grand, Seigneur, et quoy que dans sa haine
-Le nom de Belle-mere engage peu la Reine,
-Du moins l'honneur la force à prendre l'interest
-De la Fille d'un Roy qui la fit ce qu'elle est.
-Voila ce qui vous nuit, et vous nuira sans cesse,
-Si vos ordres enfin n'éloignent la Princesse.
-Ostez-luy cet obstacle, et vous verrez soudain
-Que son cœur adoucy vous répond de sa main.
-
--*who_sinorix
-Je voy bien qu'il le faut mais le puis-je, Phaedime,
-Sans m'exposer encor à trembler de mon crime,
-Et revoir quel excez d'injustice et d'horreur
-Déja de mon amour a suivy la fureur ?
-A ses brûlants⁎ transports livrant toute mon ame,
-J'ay perdu le Mary, pour acquerir la Femme.
-Des beautez de la Reine eperduëment épris,
-D'un parricide⁎ affreux je l'ay faite le prix,
-Et pour rompre du Roy ce second hymenée,
-J'en ay par le poison tranché la destinée.
-C'est peu de Sinatus à ma rage immolé,
-Si mon devoir ailleurs n'est encor violé.
-Hesione sa Fille à qui son choix m'engage,
-De mes lâches mépris souffre l'indigne outrage,
-Et pour forcer⁎ les maux dont mon cœur est atteint,
-Son exil est un ordre où je me vois contraint.
-
--*who_phaedime
-Mais luy-mesme à sa perte engagea vostre flame⁎,
-Il vous donnoit sa Fille, et vous aimiez sa femme,
-Et dans un sort si dur, la seule mort d'un Roy
-De ce fatal hymen dégageoit vostre foy⁎ ;
-Mais de ce crime en vain l'ombre vous embarrasse,
-Il n'en est point, Seigneur, que le Trône n'efface,
-Et dans quelques horreurs qu'on ait pû se porter,
-Pour estre absous de tout, il suffit d'y monter
-
--*who_sinorix
-Ce sont là des Tyrans les damnables maximes
-En qui l'impunité fait le pardon des crimes,
-Et qui d'un noir forfait esperant quelque bien,
-Apres l'avoir commis ne se reprochent rien ;
-Mais las ! tu me plaindrois si tu pouvois connoistre
-Ce que dans un grand cœur le repentir fait naistre,
-Quand aprés un effort⁎ mille fois combatu⁎,
-Le crime par contrainte échape à la vertu,
-De son indigne objet sans cesse possedée,
-L'ame en traîne partout l'épouvantable idée,
-Un vif et dur remords n'en est jamais banny,
-Et coupable un moment on est tousjours puny.
-
--*who_phaedime
-C'est beaucoup que du moins cette mort qui vous gêne⁎
-Soit toûjours un secret ignoré de la Reine,
-Et qu'à Sostrate seul l'ayant sçeu confier,
-Vous n'ayez point vers elle à vous justifier ;
-Mais comme enfin, Seigneur, Sostrate a de l'adresse,
-Devient-elle inutile auprés de la Princesse,
-Et ses soins⁎ n'ont-ils pû la faire balancer⁎
-Sur l'hymen où pour luy vous la voulez forcer⁎ ?
-
--*who_sinorix
-Il la voit chaque jour, Phaedime, et je puis dire
-Que ce cher Confident partage mon martyre,
-Puisqu'à mes interests s'osant abandonner,
-Il a pris malgré luy ce qu'il n'a pû donner.
-S'il a brigué⁎ d'abord son hymen pour me plaire,
-C'est un bien aujourd'huy qu'à tout autre il préfere,
-Et quoy qu'il m'ait caché, le chagrin⁎ qui le suit
-Trahit le desespoir où l'amour le reduit.
-Aussi plus que le mien son interest me presse
-D'embrasser⁎ un conseil⁎ qui bannit la Princesse.
-J'ay fait naistre sa flame⁎, et je luy dois offrir,
-L'eloignant de ses yeux, une aide à le guerir.
-
--*who_phaedime
-Sostrate est genereux⁎, et jamais un vray zele
-Ne marquera pour vous une ame plus fidelle,
-Mais ce fatal amour qui l'accable aujourd'huy,
-Seroit peut-estre un crime à tout autre qu'à luy.
-D'un bel espoir trahy l'irreparable offence
-Sur vous de la Princesse attire la vangeance,
-Et pretendre à son cœur, c'est presser son couroux
-D'accepter une main qui la vange de vous.
-
--*who_sinorix 
-Contre moy de Sostrate il n'est rien qu'elle obtienne,
-Mon amitié pour luy me répond de la sienne,
-Sa vertu m'est connuë, et ce que je luy doy
-Ne me laisse aucun droit de douter de sa foy⁎.
-Cét amour que tu crains flate⁎ en ce point ma peine
-Qu'esperant d'estre aimé si j'épouse la Reine,
-Avec tant de chaleur il luy peint mon tourment…
-Mais je la voy qui passe à son appartement.
-
-**** *book_ *id_I02 *act_I *date_1661 *creator_corneille
-
--*who_sinorix
-Vos yeux de vostre cœur marquant l'impatience,
-Madame, et tant de soins⁎ d'eviter ma presence,
-Ne me font que trop voir le peu qu'il prend de part
-Au bonheur impréveu que m'offre le hazard.
-
--*who_camma
 Le chagrin⁎ où je vis me rend si peu traitable⁎,
 Que souvent malgré moy son aigreur⁎ vous accable,
 Et mon zéle pour vous osant s'en indigner
 Par ces soins⁎ de vous fuïr cherche à vous l'épargner.
 
--*who_sinorix
-Ah, si ce n'est qu'au prix d'une si chere veuë,
-Perdez une bonté dont la rigueur me tuë,
-Et puisque pour mes vœux il n'est rien de si doux,
-Accablez-moy plustost que me priver de vous.
-Je sçay bien qu'à me voir quelque nouvel outrage
-Toûjours de mon amour repoussera l'hommage,
-Que je n'entendray rien qui me souffre l'espoir,
-Mais, Madame, j'auray le plaisir de vous voir.
-Ce charme, où tout mon cœur pleinement s'abandonne,
-Adoucit les mépris dont la fierté⁎ m'étonne⁎,
-Et dans l'âpre douleur de ce qu'il faut oüir,
-S'il ne peut l'etouffer, il la sçait ebloüir⁎.
-
--*who_camma
 J'ignore quels mépris je vous ay fais paroistre,
 Mais je sçay qu'en m'aimant vous m'avez dû connoître,
 Et ne pretendre pas qu'une moindre fierté⁎,
@@ -235,33 +28,11 @@ J'en aurois le pouvoir, mais j'en perdrois le titre,
 Et pour des droits honteux quittant un bien constant,
 Je pourrois davantage, et ne ferois pas tant.
 
--*who_sinorix
-Ouy, gardez vostre rang, vous le perdrez, Madame,
-Si d'un Usurpateur vous devenez la Femme,
-Et de Reine aujourd'huy le nom qui vous est dû,
-Dans ce titre odieux se verra confondu.
-Mais pourquoy, rejettant l'offre d'une Couronne,
-Nommez-vous attentat⁎ le droit qui me la donne,
-Et quel crime ay-je fait, quand secondé des Dieux
-J'ay rentré par leur ordre au bien de mes Ayeux ?
-
--*who_camma
 Pour ébloüir⁎ mes sens c'est une foible amorce⁎
 Qu'un droit qu'expliqua moins la raison que la force,
 Le Peuple fut timide⁎, et vous voyant armer⁎,
 Préfera le Tyran qui pouvoit l'opprimer.
 
--*who_sinorix
-Et bien, je suis Tyran, ma seule violence
-Fut le droit qui m'acquit la supréme puissance,
-Le crime est noir et lâche, il fait horreur à tous,
-Mais causé par l'amour est-il crime pour vous ?
-Cet amour n'auroit eu qu'une ardeur imparfaite
-S'il m'eut souffert⁎ l'affront de vous laisser Sujette,
-Et seul au vol d'un Trône ayant sçeu me forcer⁎,
-Je ne l'ay fait du moins que pour vous y placer.
-
--*who_camma
 Et lors qu'à cet excez monte vostre injustice,
 Vous trouvez glorieux de m'en rendre complice,
 Et ce parfait amour qui cherche à m'obliger⁎
@@ -275,26 +46,6 @@ Pour meriter le Trône, épousez la Princesse,
 Et luy rendant des vœux à sa flame⁎ échapez,
 Possedez justement ce que vous usurpez.
 
--*who_sinorix
-Si j'en formay pour elle, on ne les vit paroistre
-Que quand mon cœur pour vous n'osoit se bien connoistre,
-Et que son zéle⁎ ardent par un adroit détour
-Cedoit à mon devoir les soins⁎ de mon amour.
-Ce cœur en qui l'espoir eust esté lors un crime
-Ne vit qu'elle aprés vous digne de son estime,
-Et pour ce triste⁎ hymen, mal instruit de mon feu,
-Sinatus le pressant⁎, il donna son adveu⁎ ;
-Mais si tost que sa mort laissant agir ma flame⁎,
-Du secret de mes vœux eut dégagé mon ame,
-Libres dans leur hommage, il leur fut assez doux
-D'estre encore en estat de s'expliquer pour vous.
-Ainsi ce qu'ils cachoient se fit bien tôt connoistre,
-Je parus inconstant afin de ne pas l'estre,
-Et fis voir qu'à mon feu⁎, pour s'oser exprimer,
-Il manquoit seulement que vous peussiez aimer.
-Vous le pouvez, Madame, et de vos vœux maistresse…
-
--*who_camma
 Non, non, c'est présumer en moy trop de foiblesse,
 Quoy qu'un Trône ait d'éclat, il n'a rien d'assez doux
 Pour me faire trahir les Manes d'un Espoux.
@@ -307,47 +58,15 @@ La source de son sang à mon coeur est trop chere,
 Et l'on ne verra point qu'infidelle à ce sang
 J'aide à la Tyrannie à luy voler son rang.
 
--*who_sinorix
-Ah, puisque vous prenez quelque soin de ma gloire,
-Sauvez-la d'un peril plus grand qu'on ne peut croire,
-Et ne me forcez point, lors que je m'en defens,
-A meriter l'horreur que l'on doit aux Tyrans.
-J'aime une Reine Auguste⁎, et cette ardeur est telle
-Que n'aimant et le Trône et le jour que pour elle,
-Mon cœur, que les dédains peuvent pousser à bout,
-Dedans son desespoir, est capable de tout.
-Daignez m'en épargner la fatale disgrace⁎.
-
--*who_camma
 Vous avancez beaucoup d'employer la menace.
 Je ne vous diray point s'il la faut redoubler,
 Mais mon cœur est à vous quand il pourra trembler.
 
--*who_sinorix
-Et bien, pour me punir allez jusqu'à l'outrage,
-Noircissez ce beau feu⁎ dont vous fuyez l'hommage,
-Malgré tant de mépris redoublez chaque jour,
-Dans un respect égal vous verrez mon amour,
-Je vous le jure encor ; mais pour le satisfaire,
-Sçachant ce qui me nuit, je sçay ce qu'il faut faire,
-Et luy devant l'éclat d'un trop juste couroux,
-Je puis estre Tyran pour d'autres que pour vous.
-Je vous laisse y penser, Madame.
-
-**** *book_ *id_I03 *act_I *date_1661 *creator_corneille
-
--*who_camma
       Ah, le perfide !
 Il veut donc achever son lâche parricide⁎,
 Joindre la Fille au Pere ! ô mon unique espoir ?
 O vangeance, est-ce ainsi que tu sers mon devoir ?
 
--*who_phenice
-Si dans vos déplaisirs⁎ la vangeance vous flate⁎,
-Pour en jouïr, Madame, il est temps qu'elle éclate,
-Sinorix menaceant, rien n'est à négliger.
-
--*who_camma
 Quoy, tu doutes encor si je veux me vanger ?
 Par le noir attentat⁎ de ce Tyran infame
 J'auray veu dans mes bras Sinatus rendre l'ame,
@@ -362,40 +81,15 @@ D'une secrete horreur saisit tout mon courage,
 Et m'annonça dés lors les funestes malheurs
 Qui pressent ma vangeance, et font couler mes pleurs.
 
--*who_phenice
-Pour bien l'executer, si vous m'en voulez croire,
-Il faut que la Princesse en partage la gloire ;
-Comme elle ignore encore le crime du poison,
-Vos mépris, d'un Tyran luy font en vain raison,
-Elle les prend pour feinte, et croyant que dans l'ame
-La seule ardeur du Trône est ce qui vous enflame,
-De ces jaloux soupçons l'impatiente aigreur⁎
-Vous fait souffrir assez pour la tirer d'erreur,
-Vous sçavez sa fierté⁎.
-
--*who_camma
       Dequoy qu'elle m'accuse,
 Il n'est pas temps encor que je la desabuse⁎,
 Si la gloire en secret me pousse à me vanger,
 Ce seroit l'affoiblir que de la partager.
-
--*who_phenice
-Mais Sostrate l'aimant, peut-estre que par elle
-Il vous seroit aisé d'en corrompre le zele.
-Dans ce que sur sa foy⁎ Sinorix prend d'appuy,
-Sostrate pouvant tout, on ne peut rien sans luy,
-Il vous faut l'acquerir, et l'amour qui le flate⁎
-Le peut seul obliger…
-
--*who_camma 
+ 
       Tu connois mal Sostrate,
 Il aime, il cherche à plaire, et toutefois, helas !
 Son cœur contre un Tyran craint d'advoüer son bras.
 
--*who_phenice
-Vous le sçavez, Madame ?
-
--*who_camma
       Apprens par quelle adresse,
 Brûlant⁎ pour une Reine, il feint pour la Princesse,
 Et que mon ordre exprés y contraignant sa foy⁎,    
@@ -408,10 +102,6 @@ Mais je reconnois trop, quelques soins⁎ qu'il employe,
 Qu'en me niant ce crime il veut que je le croye,
 On penetre aisément dans le cœur des Amants.
 
--*who_phenice
-Mais, Madame, pour luy quels sont vos sentiments ?
-
--*who_camma
 Te parler sans aigreur⁎ de l'ardeur qui le presse,
 Phenice, n'est ce pas t'advoüer ma foiblesse,
 Et que ce triste⁎ cœur de vangeance animé,
@@ -437,90 +127,32 @@ Un peril si pressant ne veut plus de remise,
 Il faut montrer ma haine, et que si jusqu'icy
 La Princesse abusée a creu… mais la voicy.
 
-**** *book_ *id_I04 *act_I *date_1661 *creator_corneille
-
--*who_hesione
-Madame, je ne sçay si dans ce qui se passe
-De mes ressentimens vous approuvez l'audace,
-Et si de mon orgueil l'éclat impetueux
-N'a rien pour Sinorix qui contraigne vos vœux⁎.
-Il tâche à les seduire, et le Trône…
-
--*who_camma
       Ouy, Princesse,
 Mais qu'ils cedent ou non, que ce scrupule cesse,
 L'injure⁎ qu'on vous fait et qu'il faut reparer,
 A leur ambition n'a rien à déferer⁎.
 
--*who_hesione
-Un zéle dont l'ardeur me sera tousjours chere,
-M'oblige à respecter la Vefve de mon Pere,
-Et je ne croirois pas y répondre assez bien
-Si sur vostre interest je ne reglois le mien.
-
--*who_camma
 Donc si j'ose accepter l'offre d'une Couronne,
 Ce zéle genereux⁎ soudain me l'abandonne ? 
 Sans vouloir rien pretendre, il m'en cede l'espoir ?
 
--*who_hesione
-Pour m'y resoudre au moins je voudrois le sçavoir.
-
--*who_camma
 Si ma façon d'agir vous l'a fait mal comprendre,
 Par de plus grands effets il faudra vous l'apprendre,
 D'un doute trop cruel vostre esprit est atteint.
 
--*who_hesione
-Je sçay que Sinorix vous accuse, et se plaint ;
-Mais souvent le dehors n'est qu'une adroite feinte,
-Qui resiste le plus aime à ceder contrainte,
-Et cet amusement des credules esprits
-Fait subsister l'espoir au milieu des mépris.
-
--*who_camma
 A d'étranges soupçons le chagrin⁎ vous expose.
 
--*who_hesione
-Je veux bien l'advoüer, Sostrate en est la cause,
-Il vous voit si souvent que comme il m'ose aimer,
-Vos secrets entretiens ont droit de m'alarmer.
-Il croit, si le Tyran vous avoit épousée
-Que mon cœur luy seroit une conqueste aisée,
-Et c'est à quoy sans doute il tâche à vous porter ?
-
--*who_camma
 Il en a l'ordre au moins s'il veut l'executer.
 
--*who_hesione
-Qui l'en empescheroit ?
-
--*who_camma
       Ma volonté peut-estre,
 Ou quelque autre raison que l'on ne peut connoître.
 
--*who_hesione 
-Mais vous l'auriez souffert⁎ un peu plus rarement.
-
--*who_camma
 Je n'ay pas crû devoir en user autrement.
 
--*who_hesione
-Quand on ne pretend rien on doit peu se contraindre.
-
--*who_camma
 Il est bon quelquefois de se forcer⁎ à feindre.
 
--*who_hesione
-C'est pour une grande ame un sentiment trop bas.
-
--*who_camma
 Ouy, mais j'ay des secrets qu'on ne penetre pas.
 
--*who_hesione
-Je n'ay pas merité d'en sçavoir le mystere.
-
--*who_camma
 Vous en usez si mal que j'ay lieu de me taire,
 Mais enfin je pardonne à l'aigreur⁎ où vous met
 L'injurieux⁎ éclat de l'affront qu'on vous fait,
@@ -529,90 +161,650 @@ Je la verray sans peine, et pour plus d'asseurance
 Je vous laisse Sostrate, avec qui consulter
 Des moyens les plus seurs de bien l'executer.
 
-**** *book_ *id_I05 *act_I *date_1661 *creator_corneille 
+Je veux bien l'advoüer, vous m'aviez sçeu contraindre
+A croire en vous ce feu⁎ dont je vous oyais plaindre,
+Mais dans vos feints transports je connoy mon erreur,
+Vous appellez amour ce qui n'est que fureur.
+Quoy ? si je me défens de⁎ faire une bassesse,
+Il faut soudain d'exil menacer la Princesse,
+Et d'un indigne espoir vostre cœur combatu⁎
+Ose trouver pour elle un crime en ma vertu ?
+Suivez un mouvement⁎ qu'il vous est doux de croire,
+Dans vostre tyrannie envelopez ma gloire,
+Et rejettez sur moy par l'ardeur de regner
+La honte du dessein qui vous fait l'éloigner ;
+J'en fuiray l'infamie en prenant sa querelle⁎,
+Et quelque fiere⁎ ardeur qui vous arme contre elle,
+Nous verrons qui des deux en fera plus juger,
+Ou vous pour la punir, ou moy pour la vanger.
 
--*who_hesione
-Viens, Sostrate, il est temps que je t'ouvre mon ame
-Sur l'espoir dont enfin tu peux flater⁎ ta flame⁎.
-Tes soins⁎ de mon orgueil en poursuivent l'adveu⁎ ?
+Et bien, sans respecter le sang qui la fit naistre
+Commence enfin, Tyran, à te faire connoistre,
+Montre-toy tout entier, et cherche à découvrir
+La lâcheté du cœur que tu m'oses offrir.
+Je veux qu'à t'espouser son interest m'engage,
+Ce cœur que tu poursuis sera-t-il ton partage
+Et crois-tu qu'un adveu⁎ par contrainte arraché
+L'acquiere à tes souhaits si tu ne l'as touché ?
+Songe qu'indépendant, et jaloux de ce titre
+C'est luy seul de ses droits qu'il choisit pour arbitre,
+Et que contre ses vœux, la plus pressante⁎ loy
+Ne sçauroit le reduire à disposer de soy.
 
--*who_sostrate
-Madame, le respect accompagne mon feu⁎,
-Sinorix jusqu'à vous en a porté l'audace,
-Mais quoy que son appuy combate ma disgrace⁎,
-Vous me pouvez toûjours défendre d'esperer,
-Sans que mon cœur jamais en ose murmurer.
+Si ce divers⁎ panchant est un droit qu'il nous laisse,
+Tâche de m'en convaincre en aimant la Princesse,
+Et puisque ton amour se soûmet à ton choix
+Dispose en sa faveur d'un cœur que tu luy dois,
 
--*who_hesione
-Tu me l'as fait paroistre, et j'aurois lieu sans doute
-D'admirer les efforts⁎ que ton respect te coûte,
-Si d'un charme trompeur ton esprit combatu⁎
-Ne laissoit contre moy séduire ta vertu.
-Ta foy⁎ pour Sinorix cherche à gagner la Reine ?
+Quoy ? puis-je plus pour toy que tu ne peux pour elle,
+Et ce penible effort⁎ où ton cœur ne peut rien,
+Suis-je plus en pouvoir de l'obtenir du mien ?
 
--*who_sostrate
-Vers toute autre ce soin⁎ pourroit vous mettre en peine,
-Mais tant de fiers⁎ mépris…
+Ton silence, Sostrate, a droit de me confondre⁎,
+Sinorix a parlé, c'est à toy de répondre,
+Le temps presse, on menace, et sans plus differer
+Ou pour l'un ou pour l'autre il faut te déclarer.
+Si mon cœur est pour toy d'un prix assez insigne⁎,
+S'il remplit tes desirs, tu peux t'en rendre digne,
+Mais aussi, c'est un bien qui doit peu te flater⁎
+Si tes vœux⁎ incertains n'osent le meriter ;
+Car enfin quelque espoir dont ma main t'entretienne,
+Tu ne peux l'obtenir sans faire agir la tienne,
+Et je m'appreste en vain à couronner ton feu⁎
+Si Sinatus vangé ne m'en donne l'adveu⁎.
 
--*who_hesione
-      Ne les vante point tant,
-J'en connoy l'artifice⁎, et voy ce qu'elle attend.
-Tu verrois le Tyran toucher bien-tost son ame
-Si j'avois de ma main recompensé ta flame⁎,
-Et donné lieu par là de rejetter sur moy
-L'affront de le reduire à me manquer de foy⁎ ;
-Mais si ce seul espoir l'engage à se contraindre,
-Elle me connoit mal de s'obstiner à feindre,
-Et d'oser présumer qu'un cœur comme le mien
-Par mon hymen jamais authorise le sien.
+Ouy, tu l'es, puisqu'enfin c'est en servant ma haine
+Que tu peux égaler le destin d'une Reine,
+Et trouver dans l'éclat d'un illustre projet
+A reparer l'affront du titre de Sujet.
+Crois-tu qu'à t'écouter je me fusse abaissée
+Si je n'eusse pû voir cette honte effacée,
+Et sçeu, pour m'enhardir⁎ à recevoir ta foy⁎,
+Que qui perd un Tyran est au dessus d'un Roy ?
+Renonce à cette gloire, et quitte un avantage
+Qui peut-estre jamais n'a touché ton courage,
+Mais s'il le dédaignait, pourquoy te déguiser,
+Et differer tousjours à me desabuser⁎ ?
 
--*who_sostrate
-Il est juste, Madame, et l'ardeur de vous plaire
-N'enfle pas mes desirs d'un orgueil temeraire,
-Jusqu'à pretendre enfin qu'elle aura le pouvoir…
+Dy plustost qu'alarmé de l'amour de ton Maistre
+Ton feu⁎ desesperoit d'oser jamais paroistre,
+Et que ta passion corrompant ton devoir
+Sacrifiait ses jours à ce manque d'espoir.
+L'ardeur dont tu flatois⁎ ma noble impatience,
+Par ton seul interest s'offroit à ma vangeance,
+Et tu consentois moins par cét accord fatal
+A punir mon Tyran qu'à perdre ton Rival.
+Alors tu n'avois point cette vertu⁎ timide⁎
+Qui tremble à voir mon cœur le prix d'un parricide⁎,
+Et ta flame⁎ aisément convainquoit ta raison
+Qu'il pouvoit s'acquerir par une trahison.
+Aujourd'huy seulement qu'un foible stratagême
+Fait promettre au Tyran de me ceder si j'aime,
+Tu veux estre fidelle, et luy garder ta foy⁎,
+Sur l'espoir de me rendre aussi lâche que toy.
+Son adveu⁎ d'un beau choix me laissant la puissance,
+Tu crois qu'en ta faveur j'oublîray ma vangeance,
+Et que d'un fol amour secondant le pouvoir,
+Je t'aideray moy-mesme à trahir mon devoir ;
+Mais gravé dans ce cœur où rien ne le partage,
+Apprens que l'effacer est un penible ouvrage,
+Et que je plains en toy, si ton feu⁎ l'entreprend,
+L'inutile vertu⁎ que cet espoir te rend.
 
--*who_hesione
-Va, c'est un peu trop tost renoncer à l'espoir ;
-Non que par cet adveu⁎ que tu n'osois attendre,
-Flatant⁎ ta passion, je vueille la surprendre,
-Je ne te diray point qu'elle ait pû m'enflammer,
-Mais si je n'aime point, du moins je puis aimer.
-C'est à toy de chercher à m'en rendre capable,
-Mon estime déja t'est assez favorable,
-Je connoy ton merite, et sçay que dans ton rang
-Jamais plus de vertu⁎ ne soûtint⁎ un beau sang.
-Tu vois que je commence, acheve, entreprens, ose,
-Peut-estre un seul obstacle à ton bon-heur s'oppose.
-J'aspire à me vanger, et ce fiers⁎ mouvement⁎
-Eloigne de mon cœur tout autre sentiment.
-Plein d'une passion et si juste et si forte,
-Pour y faire entrer l'une, il faut que l'autre en sorte,
-Et ta flame⁎ à l'espoir cherche en vain quelque jour⁎,
-A moins que la vangeance ait fait place à l'amour.
-J'ay receu du Tyran le plus sanglant outrage,
-Tu le sçais, je n'ay rien à dire davantage :
-Ou du feu⁎ qui te brûle⁎ écoute moins l'appas⁎,
-Ou ne m'offre ton cœur qu'en suite de ton bras.
+      Ce que je te dois dire,
+Que jamais sur ton cœur la gloire n'eut d'empire,
+Et qu'un lâche interest qu'il vient de mettre au jour
+Le rend traître ou fidelle au gré de ton amour.
 
--*who_sostrate
-Quoy…
+Le rare et seur moyen d'ébloüir⁎ ma vangeance !
+Les maux que tu te fais ne sont qu'en apparence,
+Et cet espoir pour toy si fâcheux à quitter,
+Sur quelque heureux revers te peut tousjours flater⁎ :
+Mais puis-je à Sinatus sans me noircir d'un crime
+N'accorder pas le sang qu'il attend pour victime,
+Et laisser sa vangeance à decider au Sort,
+N'est-ce pas devenir complice de sa mort ?
 
--*who_hesione
-      Ne réplique point ; quand ce grand coup t'étonne⁎,
-Voy que je suis ta Reine, et que je te l'ordonne,
-Et si ta lâcheté me prepare un refus,
-Ne me le fais sçavoir qu'en ne me voyant plus.
-C'en sera l'asseurance⁎, adieu.
+Non, non, le crime est seur et l'injure⁎ certaine,
+Sinatus, mais trop tard, connut la trahison,
+Et tout prest d'expirer m'advertit du poison.
+Sur ce funeste advis cent marques évidentes
+M'en donnerent dés lors des preuves trop constantes,
+Et le Tyran depuis luy-mesme en a fait foy⁎
+A trahir la Princesse, et soûpirer pour⁎ moy.
+J'en sçay trop, et ton zéle en vain le justifie.
 
--*who_sostrate
-      Que fuir ta veuë
-N'est-ce tout le peril d'un ordre qui me tuë !
-Mais las ! forcé d'aimer, quels seront mes souhaits
-S'il faut trahir par tout, ou n'esperer jamais ?
+Va, si l'indice est foible, ose pour sa défence
+Me répondre qu'en luy j'outrage l'innocence,
+Je t'en veux croire seul, mais aussi souviens-toy
+Que s'il n'est point coupable, il est digne de moy.
 
-**** *book_ *id_II01 *act_II *date_1661 *creator_corneille
+      Mais tes vœux ardents à luy sauver le jour
+Languiront si je songe à payer son amour ?
 
--*who_sinorix
+      Il me suffit ; puisque c'est te déplaire
+Porte luy ma réponce, et dy luy qu'il espere,
+Que mon cœur n'aime rien, et que dans peu sa foy⁎
+Peut selon ses souhaits attendre tout de moy.
+
+L'occasion est belle, il est seul, advançons.
+
+      Perdons cét infame.
+Que fais-tu, mal-heureux ?
+
+Vous avez peu besoin que je vous éclaircisse,
+Un autre peut icy vous rendre cet office⁎,
+Et dans l'effort⁎ douteux qui vous comble d'effroy
+Le fidelle Sostrate a plus de part que moy.
+
+      Ah, c'est trop me confondre⁎.
+Je voy, j'entens, j'écoute, et ne sçay que répondre,
+Et mon esprit confus, surpris, inquiété,
+Tombe enfin malgré moy dans la stupidité⁎.
+Ce que Sostrate a fait m'est la plus rude offence,
+Je voudrois toutefois parler en sa defense,
+Et lors qu'en sa faveur la pitié m'entretient,
+Un autre sentiment m'inspire, et me retient.
+
+A quoy qu'en son malheur sa fierté⁎ le hazarde,
+Je ne vous dis plus rien sur ce qui le regarde,
+Mais sur vos interests, vous devez présumer
+Que si son entreprise a pû vous alarmer,
+Si d'un effroy secret vostre ame embarassée
+Se trouve à quelque trouble indignement forcée,
+Ces alarmes, ce trouble, et ces sujets d'effroy
+Sont des maux qu'aujourd'huy vous souffrez malgré moy,
+Qu'à vous les épargner aussi prompte qu'ardente…
+
+Ce chagrin⁎ inquiet incessamment⁎ vous gêne⁎.
+
+Sans me justifier, quoy que vous vueilliez croire,
+Il suffit que mon cœur ait l'appuy de ma gloire,
+Et que de mes desseins pleinement satisfait
+Il puisse m'applaudir sur tout ce que j'ay fait.
+Cependant dans son sort Sostrate estant à plaindre,
+Je vous laisse calmer l'orage qu'il doit craindre,
+Et me remets au temps à voir qui de nous deux
+Avec plus de succez aura conduit ses vœux⁎.
+
+L'Arrest en est donné ! que me dis-tu, Phenice ?
+
+Quoy, cet amy si cher ne trouve point de grace ?
+
+Phenice, il est donc temps que ma vangeance cede,
+Qu'au mal que j'ay causé j'oppose le remede,
+Et qu'à tant de fureur, ce cœur reconnoissant
+Par l'offre du coupable arrache l'innocent.
+
+Espargner à Sostrate une mort volontaire,
+Et ne permettre pas qu'il expie aujourd'huy
+Le crime glorieux qu'il a jetté sur luy.
+Dés lors sans un époux dont l'interest me presse
+J'eusse de son amour desadvoüé l'adresse,
+Et n'aurois pas souffert que mon Tyran trompé
+Le chargeast⁎ d'un forfait sur ma gloire usurpé ;
+Mais voyant Sinatus sans espoir de vangeance
+Si je n'en confirmois l'abus par mon silence,
+J'ay voulu m'y contraindre, et crû que la pitié
+Luy feroit pour Sostrate écouter l'amitié.
+C'est à moy, puisqu'enfin je l'en vois incapable,
+A détruire une erreur qui cache le coupable,
+A luy montrer le bras qui s'immoloit ses jours,
+Et des Dieux pour le reste attendre le secours.
+
+Mais quand je luy diray qu'une ardeur de vangeance
+M'a fait de ses forfaits cacher la connoissance ;
+Que je sçay qu'en secret sa lâche trahison
+Pour perdre Sinatus eut recours au poison ;
+Qu'à vanger cette mort ma haine tousjours preste,
+A Sostrate cent fois a demandé sa teste ;
+Qu'à son refus tantost dans ma noble fierté⁎,
+Mon bras se l'immoloit s'il ne l'eust arresté ;
+Que l'adveu⁎ qu'à sa flame⁎ il a crû propice
+Pour le mieux ébloüir⁎ n'estoit qu'un artifice⁎,
+Crois-tu que ce rapport trouve si peu de foy⁎
+Qu'il le laisse douter entre Sostrate et moy ?
+
+La cause en est trop juste où le crime est extrême,
+Mais souvent il est beau de se vaincre soy-mesme,
+Et d'attacher sa gloire à ce pompeux⁎ éclat
+Dont brille le pardon d'un indigne attentat⁎.
+
+Quoy, la pitié pour luy ne touche point vostre ame,
+Luy qui vous fut si cher, luy qu'enfin…
+
+Mais enfin à present que je me vois remise
+De ce trouble où tantost m'engageoit la surprise,
+J'oys sans cesse mon cœur me reprocher tout bas
+Que j'ay fait son peril, et ne l'en tire pas.
+Non que s'il s'agissoit encor de vostre teste
+A de plus vifs efforts⁎ cette main ne fust preste,
+Mais si vous tenez tout d'un genereux⁎ secours,
+Pour les vostres sauvez je demande ses jours.
+
+Estant sans interest je voudrois m'en défendre,
+Mais quoy que vostre haine ait droit d'en murmurer,
+Ayant fait son malheur je dois le reparer.
+
+Mais songez que c'est moy qui vous en sollicite,
+Et qu'aprés tant de vœux que j'ay peu dédaigner,
+S'ils sont ardents pour moy, c'est mal le témoigner.
+
+Donc ces fortes raisons par vous mesme approuvées
+Sont chimeres en l'air que ma crainte a resvées ?
+J'ay montré ma foiblesse à leur trop déferer ?
+
+C'est là ce grand pouvoir que vostre amour me donne ?
+Vous m'osez refuser quand j'ay crû ne devoir…
+
+Est-ce me la donner qu'abuser de mon zéle,
+Et m'imposer des loix dont le fatal accord,
+Ou hazarde ma gloire, ou le livre à la mort ?
+
+Quoy, j'aurois fait pour luy des efforts⁎ superflus ?
+Ah, songez…
+
+Sous quel voile trompeur le lâche se déguise !
+A me tyranniser sa gloire l'authorise,
+Quand il m'arrache l'ame, il agit par vertu ?
+Ah, Sostrate, Sostrate, à quoy me reduis-tu ?
+
+Tu dois estre content si ton erreur t'est chere,
+Ton amour l'a fait naistre, et je sçauray la taire,
+Tu le veux, j'y consents, elle aura son effet.
+
+      Quoy, mourir ? tu me crois assez lâche
+Pour te livrer au sort dont ta vertu m'arrache ?
+Si je cache l'abus qui t'expose à perir,
+C'est par la seule peur de te mal secourir.
+Le Tyran redoublant la rage qui l'anime
+De ton amour pour moy te pourroit faire un crime,
+Et dans son desespoir, sa fureur le pressant⁎,
+Confondre le coupable avecque l'innocent.
+Ainsi mon imprudence, à suivre cette envie,
+Du moins à ce peril exposeroit ta vie,
+Et quand je te la dois c'est à moy de trouver
+L'infaillible moyen de te la conserver.
+
+Celuy que d'un Tyran m'offre la violence.
+
+      Je tremble à me le proposer,
+J'en fremis, mais enfin il le faut épouser.
+
+Luy dont encor le sang me plairoit à répandre,
+Luy dont, si le hazard m'offroit un coup certain,
+Au peril de cent morts j'irois percer le sein ;
+Mais cette occasion si difficile à prendre,
+Tu me mets hors d'estat de la pouvoir attendre,
+Ta vie est en danger, et pour te secourir
+Il me faut faire plus mille fois que mourir.
+Il me faut consentir qu'un honteux hymenée
+A mon lâche Tyran joigne ma destinée,
+Il me faut violer les devoirs les plus saints,
+Ne me condamne point, c'est toy qui m'y contrains,
+C'est toy qui t'opposant à ma noble colere
+Me plonges dans un gouffre où tout me desespere,
+Où quoy que mes malheurs offrent à mes regards,
+Ce n'est qu'accablement, qu'horreur de toutes parts,
+Où d'un triste⁎ devoir déplorable victime
+Je connois, je deteste, et couronne le crime,
+Mais je raisonne en vain sur un point resolu,
+Il n'y faut plus penser, c'est toy qui l'as voulu.
+
+Moy, que si lâchement je consente à ta perte ?
+Que te devant le jour je t'en laisse priver ?
+
+Le dessein que je prens t'est un rude supplice,
+Je le sçay, mais toy-mesme en loüeras la justice,
+Puisque par sa rigueur je rens ce que je doy
+A ce qu'a fait ton zéle et pour et contre moy.
+A m'arrester le bras et m'immoler ta vie
+Tu m'as en mesme temps offencée et servie,
+Et je dois par l'hymen dont tu me vois presser⁎
+Te punir tout ensemble et te recompenser.
+Devant tout aux motifs de ta noble imposture,
+Il m'acquite vers toy par le jour qu'il t'asseure,
+Et m'ayant outragée à secourir ton Roy,
+Par l'horreur de me perdre il me vange de toy.
+Ainsi des deux costez il fait plus qu'on ne pense,
+En payant le service il repare l'offence,
+Et de tes jours sauvez te faisant un tourment,
+Au prix qui les rachete il joint le châtiment.
+
+Si la severité⁎ qu'exerce ma vangeance
+Paroist à ton amour au dessus de l'offence,
+Aussi, quoy que pour moy ton zéle⁎ ait entrepris,
+Tu vois que le service est au dessous du prix.
+C'est une illustre mort que ton amour affronte,
+Mais pour la détourner je me couvre de honte,
+Ton zéle⁎ à mon peril sacrifioit tes jours,
+Et j'immole ma gloire à celuy que tu cours.
+Pour toy je l'asservis au sort le plus infame,
+De mon Tyran pour toy j'ose me rendre femme,
+Deshonorer mon rang, obscurcir ma vertu.
+Sostrate, encor un coup, à quoy me reduis-tu ?
+
+      Je vois tout, je sçais tout,
+Mais en vain de mon sort l'épouventable image
+Te laisse quelque espoir d'ébranler mon courage.
+Pour te sauver le jour l'effort⁎ est resolu,
+Je te l'ay déjà dit, c'est toy qui l'as voulu.
+
+Il peut me coûter plus que vous ne voudrez croire.
+
+Chacun dans ses malheurs est juge de la sienne,
+Mais, Princesse, aujourd'huy que rien ne vous retienne,
+Je ne déguise point ce que vous connoissez,
+Pour rompre mon hymen éclatez, agissez,
+Puisqu'il empesche seul un injuste supplice,
+Puisqu'il sauve Sostrate…
+
+Il est divers⁎ chemins qui ménent à la gloire.
+
+Je n'ay point d'autre choix dans celuy qu'on me laisse,
+Nommez-en les motifs injustice, bassesse,
+Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
+Je porte ma réponce, et n'écoute plus rien.
+
+      Je le sçay, mais, Sinorix, écoute,
+Il est d'autres secrets dont tu peux estre en doute,
+Et j'ay quelques clartez acquises par hazard
+Dont il est juste enfin que je te fasse part.
+Mon hymen, si j'en croy les transports de ta flame⁎,
+Faisoit l'unique bien qui pûst toucher ton ame,
+Et malgré tes soûpirs tant de fois repoussez
+Tes vœux de ce costez viennent d'estre exaucez.
+Ainsi le Ciel souscrit à quoy que tu pretendes,
+Je t'ay donné la main, tu regnes, tu commandes,
+Et tu ne vois plus rien dont la possession
+Irrite ton amour ou ton ambition ;
+Mais quand tout à l'envy répond à ton attente,
+Si l'on te voit content, je ne suis pas contente,
+Et mon triste⁎ devoir toûjours inquieté
+Me demande raison de ta félicité.
+Sinatus ennuyé⁎ d'un assez long veufvage
+Admira quelque éclat dont brilloit mon visage,
+Et d'un second hymen ayant pris le dessein,
+Son amour aussi-tost m'honora de sa main,
+Tu le sçais, et qu'il m'eut à peine couronnée
+Qu'un fatal accident trancha sa destinée,
+Sa mort fut impréveuë, et sans s'inquieter
+Au malheur de son âge on voulut l'imputer.
+Pour moy, que de ce coup surprit la promptitude,
+Je mis à l'averer ma plus pressante étude,
+Et découvris enfin, sans qu'on l'ait soupçonné,
+Que ce Roy malheureux mourut empoisonné.
+
+Il n'est pas temps encore de montrer ta surprise,
+S'il t'est advantageux de la faire éclater,
+Ce que tu vas oüir la pourra mériter.
+Acheve cependant de me prester silence
+Du sort de Sinatus j'ay donc eu connoissance,
+Et l'horreur d'un forfait et si lâche et si noir
+Laisse mes sentimens aisez à concevoir.
+La plus pressante ardeur que pour punir un traistre
+La vangeance jamais dans un cœur ait fait naistre,
+Tout ce que peut la haine y joindre de soûtien⁎,
+Pour vanger son trépas se trouva dans le mien.
+A ses Manes sacrez un zele inviolable
+Me fit jurer soudain d'immoler le Coupable,
+Et le Ciel m'est témoin si dans ce triste⁎ cœur
+Rien égala jamais une si noble ardeur.
+Cependant de mon sort telle est la perfidie,
+Que quoy que cette ardeur ne soit point refroidie,
+Que sa mort de mes vœux soit l'objet le plus doux,
+Je n'ai pû m'affranchir⁎ d'en faire mon Espoux.
+
+      Tu vois, t'expliquant l'entreprise,
+Si j'avois lieu d'abord d'arrester ta surprise,
+Et de dire, en parlant d'un poison odieux,
+Que ce qui le suivoit la meriteroit mieux ?
+
+      Non, non, Sinorix, tu t'abuses
+Si tu crois que je veüille entendre des excuses,
+A des vœux criminels tu t'es abandonné,
+Sinatus leur nuisoit, tu l'as empoisonné.
+
+C'est le connoistre mal ; pour un Maistre infidelle
+Je puis répondre, helas ! qu'il n'a que trop de zele,
+Et que si dans ma haine on pouvoit m'ébransler,
+Les soins⁎ qu'il en a pris l'auroient fait chanceler.
+C'est-là son déplaisir⁎ qu'avec impatience
+Il me voye aspirer sans cesse à la vangeance,
+Et ne puisse opposer qu'un inutile effort⁎
+A cette avidité de poursuivre ta mort.
+
+Va, ne t'abuse point sur ce noble attentat⁎,
+Et cesse à ma pitié, dans l'erreur qui te flate⁎,
+D'imputer un secours que tu dois à Sostrate.
+Quand ma haine te porte un poignard dans le sein
+C'est luy pour t'en sauver qui m'arreste la main,
+Trop fidelle Sujet il m'oste ma victime,
+Trop genereux⁎ Amant il prend sur luy mon crime,
+Et je ne l'ay souffert⁎ qu'afin de m'asseurer
+Une autre occasion de pouvoir conspirer.
+Comme l'hymen oblige à quelque confiance,
+Voilà dequoy j'ay crû te devoir confidence,
+C'est à toy là-dessus à te bien consulter.
+
+L'affront m'en fait rougir, l'affront m'en desespere,
+Mais puis que je l'ay fait, croy que je l'ay dû faire,
+Et tremble d'autant plus que dans ce desespoir
+Je sçay ta perfidie, tu connois mon devoir.
+C'est t'expliquer assez les projets de ma haine.
+
+      Non, mieux que toy je sçay ce qui t'est dû.
+Ma vangeance par là flateroit⁎ peu ma peine,
+Tu l'offres à l'amour, je la dois à la haine.
+Souffrir⁎ que ton remords me la fasse obtenir,
+C'est te rendre ta gloire, et non pas te punir.
+Il faut que ce couroux que je te laisse à craindre
+N'ait rien en te perdant qui me force à te plaindre,
+Et que le coup heureux qu'il refuse à ton bras
+Me vange de ton crime, et ne l'efface pas.
+
+Voy par là que le Ciel avec moy s'interesse,
+De ma vangeance enfin secondant les projets
+Pour te chasser du Trône il arme tes sujets.
+Crains tout de leur revolte, et de l'ardeur soudaine
+Qu'a mise…
+
+Va, songe à tes Mutins, et me laisse en repos,
+Si le Trône t'est dû, cherche à n'en point descendre.
+
+Quoy, le peuple peut-estre en veut à ma personne
+Et dans ce grand peril Sostrate m'abandonne ?
+Arreste, j'ay besoin icy de ton secours.
+
+Que l'on m'approche un siege. Il n'est plus temps, Sostrate,
+D'empescher contre moy que ce couroux n'éclate.
+Puisqu'on sçait ton amour, plains toy, condamne moy,
+Dy que l'ambition m'a fait trahir ma foy⁎.
+Si pourtant la raison éclairoit ta colere,
+Ce que tu viens d'oüir t'auroit dû satisfaire,
+Le sort de Sinorix n'est pas un sort trop doux.
+
+Tout t'est permis, Sostrate, et tu vois mon silence
+Souffrir⁎ de ta douleur l'entiere violence,
+Parle, accuse, condamne un projet important,
+Peut-estre l'heure est proche où tu seras content.
+
+      Parle, et bien ?
+
+Enfin, Sostrate, enfin, grace à mon hymenée,
+Voicy pour mes desirs une illustre journée,
+Ma vangeance est remplie, et je meurs sans regret.
+
+      Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,
+Dy qu'il m'a fait tahir une amour⁎ sans égale ;
+J'avois empoisonné la coupe nuptiale,
+Et n'ay donné ma foy⁎ que sur le doux espoir
+D'en obtenir la mort que j'ay fait recevoir.
+
+      Tu me fais injustice,
+Si la douceur de vivre eust flaté⁎ ma raison
+J'aurois sçeu prévenir la force du poison,
+Laisse agir son pouvoir, le Sort ainsi l'ordonne.
+
+Je n'ay rien oublié de ce que je te doy,
+Mais dans l'estat honteux où de peur de te nuire
+Par l'hymen d'un Tyran il m'a falu reduire,
+Quand j'en ay dans mon cœur le reproche à souffrir⁎
+Il n'est point en mon choix de vivre ou de mourir.
+C'est à moy d'effacer une tache si noire,
+J'ay rachepté ta vie aux dépens de ma gloire,
+Et tu dois consentir qu'aprés ce grand secours
+Je rachete ma gloire aux dépens de mes jours.
+Vy content, si pour vivre et soulager ta peine
+Il te suffit enfin de sçavoir que ta Reine…
+Qu'on m'emporte, je meurs, et mes sens interdits⁎…
+
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_sinorix
+
+Tu dis vray, cher Phaedime, on auroit peine à croire
+Qu'un grand cœur soûpirast au milieu de la gloire,
+Qu'au faiste des grandeurs Sinorix eslevé
+Souhaitast dans leur pompe⁎ un bien plus achevé,
+Et que de tant d'honneurs sa fortune suivie
+Pûst opposer quelque ombre à l'éclat de sa vie.
+Il n'est rien au dessus du rang où tu me vois,
+Toute la Galatie obeït à mes loix ;
+Un vieux droit que soûtint⁎ un peu de violence
+M'a laissé sur le Trône établir ma puissance,
+On me flate⁎, on me craint, chacun m'offre des vœux,
+Cependant, tu le sais, je ne suis pas heureux.
+Depuis six mois je regne, et regne sans obstacles ;
+Mais le Sort fait en vain pour moy tant de miracles
+Si du plus digne Objet trop vivement charmé,
+J'aime pour mon supplice, et ne puis estre aimé.
+
+Je voy bien qu'il le faut mais le puis-je, Phaedime,
+Sans m'exposer encor à trembler de mon crime,
+Et revoir quel excez d'injustice et d'horreur
+Déja de mon amour a suivy la fureur ?
+A ses brûlants⁎ transports livrant toute mon ame,
+J'ay perdu le Mary, pour acquerir la Femme.
+Des beautez de la Reine eperduëment épris,
+D'un parricide⁎ affreux je l'ay faite le prix,
+Et pour rompre du Roy ce second hymenée,
+J'en ay par le poison tranché la destinée.
+C'est peu de Sinatus à ma rage immolé,
+Si mon devoir ailleurs n'est encor violé.
+Hesione sa Fille à qui son choix m'engage,
+De mes lâches mépris souffre l'indigne outrage,
+Et pour forcer⁎ les maux dont mon cœur est atteint,
+Son exil est un ordre où je me vois contraint.
+
+Ce sont là des Tyrans les damnables maximes
+En qui l'impunité fait le pardon des crimes,
+Et qui d'un noir forfait esperant quelque bien,
+Apres l'avoir commis ne se reprochent rien ;
+Mais las ! tu me plaindrois si tu pouvois connoistre
+Ce que dans un grand cœur le repentir fait naistre,
+Quand aprés un effort⁎ mille fois combatu⁎,
+Le crime par contrainte échape à la vertu,
+De son indigne objet sans cesse possedée,
+L'ame en traîne partout l'épouvantable idée,
+Un vif et dur remords n'en est jamais banny,
+Et coupable un moment on est tousjours puny.
+
+Il la voit chaque jour, Phaedime, et je puis dire
+Que ce cher Confident partage mon martyre,
+Puisqu'à mes interests s'osant abandonner,
+Il a pris malgré luy ce qu'il n'a pû donner.
+S'il a brigué⁎ d'abord son hymen pour me plaire,
+C'est un bien aujourd'huy qu'à tout autre il préfere,
+Et quoy qu'il m'ait caché, le chagrin⁎ qui le suit
+Trahit le desespoir où l'amour le reduit.
+Aussi plus que le mien son interest me presse
+D'embrasser⁎ un conseil⁎ qui bannit la Princesse.
+J'ay fait naistre sa flame⁎, et je luy dois offrir,
+L'eloignant de ses yeux, une aide à le guerir.
+ 
+Contre moy de Sostrate il n'est rien qu'elle obtienne,
+Mon amitié pour luy me répond de la sienne,
+Sa vertu m'est connuë, et ce que je luy doy
+Ne me laisse aucun droit de douter de sa foy⁎.
+Cét amour que tu crains flate⁎ en ce point ma peine
+Qu'esperant d'estre aimé si j'épouse la Reine,
+Avec tant de chaleur il luy peint mon tourment…
+Mais je la voy qui passe à son appartement.
+
+Vos yeux de vostre cœur marquant l'impatience,
+Madame, et tant de soins⁎ d'eviter ma presence,
+Ne me font que trop voir le peu qu'il prend de part
+Au bonheur impréveu que m'offre le hazard.
+
+Ah, si ce n'est qu'au prix d'une si chere veuë,
+Perdez une bonté dont la rigueur me tuë,
+Et puisque pour mes vœux il n'est rien de si doux,
+Accablez-moy plustost que me priver de vous.
+Je sçay bien qu'à me voir quelque nouvel outrage
+Toûjours de mon amour repoussera l'hommage,
+Que je n'entendray rien qui me souffre l'espoir,
+Mais, Madame, j'auray le plaisir de vous voir.
+Ce charme, où tout mon cœur pleinement s'abandonne,
+Adoucit les mépris dont la fierté⁎ m'étonne⁎,
+Et dans l'âpre douleur de ce qu'il faut oüir,
+S'il ne peut l'etouffer, il la sçait ebloüir⁎.
+
+Ouy, gardez vostre rang, vous le perdrez, Madame,
+Si d'un Usurpateur vous devenez la Femme,
+Et de Reine aujourd'huy le nom qui vous est dû,
+Dans ce titre odieux se verra confondu.
+Mais pourquoy, rejettant l'offre d'une Couronne,
+Nommez-vous attentat⁎ le droit qui me la donne,
+Et quel crime ay-je fait, quand secondé des Dieux
+J'ay rentré par leur ordre au bien de mes Ayeux ?
+
+Et bien, je suis Tyran, ma seule violence
+Fut le droit qui m'acquit la supréme puissance,
+Le crime est noir et lâche, il fait horreur à tous,
+Mais causé par l'amour est-il crime pour vous ?
+Cet amour n'auroit eu qu'une ardeur imparfaite
+S'il m'eut souffert⁎ l'affront de vous laisser Sujette,
+Et seul au vol d'un Trône ayant sçeu me forcer⁎,
+Je ne l'ay fait du moins que pour vous y placer.
+
+Si j'en formay pour elle, on ne les vit paroistre
+Que quand mon cœur pour vous n'osoit se bien connoistre,
+Et que son zéle⁎ ardent par un adroit détour
+Cedoit à mon devoir les soins⁎ de mon amour.
+Ce cœur en qui l'espoir eust esté lors un crime
+Ne vit qu'elle aprés vous digne de son estime,
+Et pour ce triste⁎ hymen, mal instruit de mon feu,
+Sinatus le pressant⁎, il donna son adveu⁎ ;
+Mais si tost que sa mort laissant agir ma flame⁎,
+Du secret de mes vœux eut dégagé mon ame,
+Libres dans leur hommage, il leur fut assez doux
+D'estre encore en estat de s'expliquer pour vous.
+Ainsi ce qu'ils cachoient se fit bien tôt connoistre,
+Je parus inconstant afin de ne pas l'estre,
+Et fis voir qu'à mon feu⁎, pour s'oser exprimer,
+Il manquoit seulement que vous peussiez aimer.
+Vous le pouvez, Madame, et de vos vœux maistresse…
+
+Ah, puisque vous prenez quelque soin de ma gloire,
+Sauvez-la d'un peril plus grand qu'on ne peut croire,
+Et ne me forcez point, lors que je m'en defens,
+A meriter l'horreur que l'on doit aux Tyrans.
+J'aime une Reine Auguste⁎, et cette ardeur est telle
+Que n'aimant et le Trône et le jour que pour elle,
+Mon cœur, que les dédains peuvent pousser à bout,
+Dedans son desespoir, est capable de tout.
+Daignez m'en épargner la fatale disgrace⁎.
+
+Et bien, pour me punir allez jusqu'à l'outrage,
+Noircissez ce beau feu⁎ dont vous fuyez l'hommage,
+Malgré tant de mépris redoublez chaque jour,
+Dans un respect égal vous verrez mon amour,
+Je vous le jure encor ; mais pour le satisfaire,
+Sçachant ce qui me nuit, je sçay ce qu'il faut faire,
+Et luy devant l'éclat d'un trop juste couroux,
+Je puis estre Tyran pour d'autres que pour vous.
+Je vous laisse y penser, Madame.
+
 Je vous le dis encor, c'est à vous de resoudre.
 Il est en vostre choix de repousser la foudre⁎,
 Je la tiens suspenduë, et malgré mon couroux
@@ -622,25 +814,6 @@ Si vous n'y renoncez en faveur de Sostrate,
 Je sçay ce que je dois à ses feux⁎ méprisez
 Au defaut de l'adveu⁎ que vous luy refusez.
 
--*who_hesione
-Certes, jusques icy l'exemple est assez rare
-Que contre l'injustice un Tyran se declare.
-J'en fais une, il est vray, si Sostrate confus
-A l'orgueil de mon sang impute mes refus ;
-Mais quel aveuglement fait que tu me l'opposes ?
-La veux tu condamner quand c'est toy qui la causes
-Et que par l'attentat⁎ qui t'éleve aujourd'huy
-Tu m'ostes le pouvoir de rien faire pour luy ?
-Tu le plains de montrer une vertu sublime
-Sans qu'à peine il m'en coûte un sentiment d'estime,
-Mais ce charme brillant dont mon cœur est surpris,
-Quand il se donneroit, demande un plus haut prix.
-Au lieu de luy prester cette pitié frivole,
-Rends-moy l'éclat du rang que ta rage me vole,
-Alors tu connoistras s'il faut me reprocher
-Que l'amour d'un Heros ne puisse me toucher.
-
--*who_sinorix
 Cessez de vous flater⁎ d'un droit imaginaire
 Qui vous laisse pretendre à la grandeur d'un Pere,
 Quoy que dans vos Ayeux vous comptiez de nos Rois,
@@ -666,21 +839,6 @@ Vos seuls emportemens font toute vostre injure⁎,
 Et c'est un peu trop loin en pousser la rigueur
 Que vouloir sur le Trône assujettir mon cœur.
 
--*who_hesione
-Moy, que par une lâche et honteuse foiblesse
-Je cherche de ton cœur à me rendre Maistresse ?
-Je l'aurois accepté quand sur l'adveu⁎ du Roy
-Ma vertu te pouvoit rendre digne de moy ;
-Mais quelque juste ardeur dont le Trône m'anime,
-Ne croy pas que je t'aide à joüir de ton crime ;
-Qui tient pour y monter le chemin que tu prens
-Merite d'y perir comme font les Tyrans.
-Rendre par mon hymen ta grandeur affermie,
-Ce seroit de leur Sort t'épargner l'infamie,
-Et d'un rang où t'éleve un indigne attentat⁎,
-Prendre sur moy la honte, et t'asseurer l'éclat.
-
--*who_sinorix
 Rejettez-la, Madame, et sauvez vostre gloire
 Du peril odieux d'une tache si noire ;
 Mon cœur qui voit l'injure⁎ où vous alliez ceder,
@@ -698,49 +856,12 @@ Je sçay ce que je puis alors que je commande,
 Et si toûjours Sostrate est par vous outragé,
 Ne pouvant estre heureux, il peut estre vangé.
 
--*who_hesione
-Va, ne croy pas qu'icy son interest m'abuse,
-D'un faux zele pour luy je vois l'indigne ruse,
-Par cet empressement à soûtenir⁎ son feu⁎
-Ta lâcheté du tien sollicite l'adveu⁎.
-Ce que la Reine doit au sang dont je suis née
-Luy défend d'accepter la foy⁎ qui m'est donnée,
-Et quoy que mon orgueil en dédaigne l'appas⁎,
-Le mépris que j'en fais ne te dégage pas.
-Tu le vois, et l'hymen où tu crois me contraindre,
-La doit mettre en estat de n'avoir plus à feindre,
-De répondre à ta flame⁎, et de s'abandonner
-Aux douceurs de l'espoir que tu luy fais donner ;
-Mais maistresse d'un cœur qui brave ton Empire,
-Je ris des vains projets que cet amour t'inspire,
-Et tous mes déplaisirs⁎ semblent s'évanoüir
-Quand tu fais un parjure, et n'en sçaurois jouïr.
-
--*who_sinorix
 J'en jouïrai, Madame, et puisque vostre audace
 Ose presser l'effet d'une juste menace,
 Nous verrons si l'exil pourra vous laisser jour
 A trouver les moyens de nuire à mon amour,
 L'Arrest en est donné.
 
--*who_hesione
-      Fay donc qu'on l'execute.
-C'est par là que les Dieux ont resolu ta cheute,
-Sans cette indignité mon Sort seroit trahy,
-Plus tu seras Tyran, plus tu seras haï,
-Mes Sujets me plaindront, et leur haine timide⁎
-Cessera dans ta mort de croire un parricide⁎.
-Redouble tes forfaits ; loin d'en rien⁎ redouter,
-Je vay faire des vœux afin de les haster.
-
-**** *book_ *id_II02 *act_II *date_1661 *creator_corneille 
-
--*who_phaedime
-Je l'avois bien preveu, Seigneur, que la menace,
-Loin d'étonner⁎ sa haine, aigriroit⁎ son audace,
-Il falloit sans la voir en venir aux effets.
-
--*who_sinorix
 Ah, laisse moy trembler du dessein que je fais,
 Et souffre à⁎ ma vertu, que mon amour opprime,
 De faire quelque effort⁎ pour m'épargner un crime,
@@ -763,25 +884,11 @@ Mon cœur craint à ce prix le repos qu'il souhaite,
 Et qu'il n'est point de maux où je n'ose m'offrir
 S'il faut cesser d'aimer pour cesser de souffrir.
 
-**** *book_ *id_II03 *act_II *date_1661 *creator_corneille 
-
--*who_sinorix
 Et bien ? as-tu, Sostrate, entretenu la Reine ?
 La Princesse toûjours régle-t'elle sa haine,
 Et sur ses interests son indigne rigueur
 S'obstine-t'elle encor au refus de mon cœur ?
 
--*who_sostrate
-Si vostre amour du temps n'attend quelque miracle,
-En vain de son orgueil il croit vaincre l'obstacle.
-Comme elle s'est tantôt⁎ expliquée avec vous,
-Mes soins⁎ n'ont fait, Seigneur, qu'accroistre son couroux.
-C'est assez qu'elle-mesme elle ait voulu vous dire
-Quel inutile espoir flate⁎ vostre martyre,
-Vostre pouvoir est grand, mais pour forcer⁎ sa foy⁎,
-Il n'étend point vos droits sur la Vefve d'un Roy.
-
--*who_sinorix
 Ouy, Sostrate, elle peut me dédaigner sans craindre
 Que mon amour s'emporte à la vouloir contraindre.
 Quoy qu'à ma tyrannie elle ose reprocher,
@@ -791,51 +898,20 @@ De mon malheur en elle il faut punir la cause,
 Et te vanger des maux où t'a précipité
 L'inutile secours que ton feu⁎ m'a presté.
 
--*who_sostrate
-Quoy, contre la Princesse armer vostre colere ?
-Ah, Seigneur, songez-vous…
-
--*who_sinorix
       L'arrest t'en doit déplaire,
 Tu l'aimes, je le sçais, et ton amour soûmis
 Pour punir son orgueil ne se croit rien permis.
 Garde ces sentiments, tandis que ma vangeance
 Pressant…
 
--*who_phaedime
-      Voyez, Seigneur, que la Reine s'advance.
-
--*who_sinorix
 La Reine vient icy ! qu'en dois-je présumer ?
 Dieux, rendez-la flexible⁎, ou m'empeschez d'aimer.
 
-**** *book_ *id_II04 *act_II *date_1661 *creator_corneille
-
--*who_sinorix
 Madame, quel dessein en ce lieu vous amene ?
 Y venez-vous chercher à jouïr de ma peine,
 Et dans le desespoir où vous m'avez reduit,
 Par ce triste⁎ spectacle en goûter mieux le fruit ?
 
--*who_camma
-Je veux bien l'advoüer, vous m'aviez sçeu contraindre
-A croire en vous ce feu⁎ dont je vous oyais plaindre,
-Mais dans vos feints transports je connoy mon erreur,
-Vous appellez amour ce qui n'est que fureur.
-Quoy ? si je me défens de⁎ faire une bassesse,
-Il faut soudain d'exil menacer la Princesse,
-Et d'un indigne espoir vostre cœur combatu⁎
-Ose trouver pour elle un crime en ma vertu ?
-Suivez un mouvement⁎ qu'il vous est doux de croire,
-Dans vostre tyrannie envelopez ma gloire,
-Et rejettez sur moy par l'ardeur de regner
-La honte du dessein qui vous fait l'éloigner ;
-J'en fuiray l'infamie en prenant sa querelle⁎,
-Et quelque fiere⁎ ardeur qui vous arme contre elle,
-Nous verrons qui des deux en fera plus juger,
-Ou vous pour la punir, ou moy pour la vanger.
-
--*who_sinorix
 Ce dessein de vangeance est l'effet d'un beau zele,
 Mais vous répondez-vous⁎ qu'il fasse assez pour elle,
 Lors que pour prevenir l'arrest que vous craignez
@@ -849,21 +925,6 @@ C'est un mal qu'à vous seule il faudra qu'on impute,
 Et ce sera pour vous un genre de forfait
 D'avoir pû l'empescher, et ne l'avoir pas fait.
 
--*who_camma
-Et bien, sans respecter le sang qui la fit naistre
-Commence enfin, Tyran, à te faire connoistre,
-Montre-toy tout entier, et cherche à découvrir
-La lâcheté du cœur que tu m'oses offrir.
-Je veux qu'à t'espouser son interest m'engage,
-Ce cœur que tu poursuis sera-t-il ton partage
-Et crois-tu qu'un adveu⁎ par contrainte arraché
-L'acquiere à tes souhaits si tu ne l'as touché ?
-Songe qu'indépendant, et jaloux de ce titre
-C'est luy seul de ses droits qu'il choisit pour arbitre,
-Et que contre ses vœux, la plus pressante⁎ loy
-Ne sçauroit le reduire à disposer de soy.
-
--*who_sinorix
 Dans les cruels mépris qui troublent ma constance
 Le refus que j'ay fait d'user de violence
 Montre assez que l'amour qui regne dans mon sein,
@@ -873,21 +934,8 @@ Que ce cœur par luy seul peut devenir sensible,
 Nos desirs sont sa regle, et contraint d'obeïr,
 Il prend d'eux le panchant d'aimer ou de haïr.
 
--*who_camma
-Si ce divers⁎ panchant est un droit qu'il nous laisse,
-Tâche de m'en convaincre en aimant la Princesse,
-Et puisque ton amour se soûmet à ton choix
-Dispose en sa faveur d'un cœur que tu luy dois,
-
--*who_sinorix
 Me contraindre à l'aimer ! et vostre erreur est telle…    
 
--*who_camma
-Quoy ? puis-je plus pour toy que tu ne peux pour elle,
-Et ce penible effort⁎ où ton cœur ne peut rien,
-Suis-je plus en pouvoir de l'obtenir du mien ?
-
--*who_sinorix
 Ouy, Madame, et ce cœur ne pourroit se défendre
 Des soins⁎ qu'à la Princesse il refuse de rendre,
 Si d'un premier amour les doux et pressants nœuds⁎
@@ -917,23 +965,769 @@ Vous, Sostrate, attendez les ordres de la Reine,
 Et songez à me faire un fidelle rapport
 Si tost que sa réponse aura reglé mon sort.
 
-**** *book_ *id_II05 *act_II *date_1661 *creator_corneille
+Quoy qu'encore contre moy quelque interest combate⁎,
+Elle m'a confirmé le rapport de Sostrate,
+Tout espoir est permis à mon cœur amoureux ;
+Mais il faut que le temps aide à me rendre heureux,
+J'ay voulu luy ceder pour montrer plus de zéle⁎.
 
--*who_camma
-Ton silence, Sostrate, a droit de me confondre⁎,
-Sinorix a parlé, c'est à toy de répondre,
-Le temps presse, on menace, et sans plus differer
-Ou pour l'un ou pour l'autre il faut te déclarer.
-Si mon cœur est pour toy d'un prix assez insigne⁎,
-S'il remplit tes desirs, tu peux t'en rendre digne,
-Mais aussi, c'est un bien qui doit peu te flater⁎
-Si tes vœux⁎ incertains n'osent le meriter ;
-Car enfin quelque espoir dont ma main t'entretienne,
-Tu ne peux l'obtenir sans faire agir la tienne,
-Et je m'appreste en vain à couronner ton feu⁎
-Si Sinatus vangé ne m'en donne l'adveu⁎.
+D'un scrupule⁎ de gloire il est embarassé.
+Aprés ses longs refus, un peu de bienseance
+Doit l'obliger encor à quelque resistance,
+C'est ce qu'à mon amour elle vient d'opposer.
 
--*who_sostrate
+Ouy, Phaedime, et mon ame étonnée⁎, interdite⁎,
+Se veut en vain soustraire à l'horreur qui l'agite.
+Plus j'ay lieu de tenir mon bonheur asseuré,
+Plus par de vifs remords je me sens déchiré.
+Une secrete voix que leur rigueur anime
+De moment en moment⁎ me reproche mon crime,
+Et lors que j'en fremis, pour me confondre⁎ mieux,
+L'Ombre de Sinatus se presente à mes yeux.
+Pasle et défiguré plus qu'on ne peut comprendre,
+Il sort de cette tombe où je l'ay fait descendre,
+Et marquant du poison les efforts⁎ violents,
+Il chancelle, et vers moy se conduit à pas lents.
+Ses yeux, quoy qu'égarez, fixes sur le coupable,
+Me lancent un regard affreux, épouvantable,
+Et comme si c'estoit me faire peu souffrir,
+Je l'entens s'écrier, Tyran, il faut mourir,
+Il est temps d'expier ta criminelle flame⁎ ;
+Tu m'as ravy le jour pour me ravir ma Femme,
+Et trahissant ma Fille, adroit dans ce grand Art,
+Tu luy voles un Trône où tu n'as point de part.
+Ta lâche ambition s'estant pû satisfaire,
+Tiens seur pour toy le prix que ton amour espere,
+Mais prest de l'obtenir, tremble, et malgré tes soins⁎
+Succombe au coup fatal que tu prévois le moins.
+Là j'ay beau repousser cette funeste image,
+L'horreur qu'elle me laisse accable mon courage,
+Et sans cesse agitant mon esprit incertain
+Me montre un bras levé pour me percer le sein.
+
+Mais puisqu'elle sçaura que j'ay fléchy la Reine,
+Que ne permettra-t'elle aux transports de sa haine ?
+Déjà, déjà peut-estre elle en sçait le secret.
+
+Comme j'aime Sostrate à l'égal de moy-mesme
+Je sçay bien que pour moy sa tendresse est extréme,
+Qu'il donneroit cent fois tout son sang pour le mien,
+Mais souvent l'amour parle, et croit ne dire rien.
+Pour me tirer du trouble où ce soupçon me laisse,
+Phaedime, de ce pas va trouver la Princesse,
+Et par ses sentiments tâche de pressentir
+Si de l'heur⁎ de ma flame⁎ il a pû l'advertir.
+Il est bien mal-aisé, quoy que d'abord on feigne,
+Que long-temps dans sa rage un grand cœur se contraigne,
+Fais agir ton adresse à lire dans le sien.
+
+Dieux, dont les loix pour nous doivent estre adorables⁎,
+Est-ce ainsi que j'ay crû vous trouver exorables⁎
+Et me reserviez-vous à la necessité
+De gemir du bonheur que j'ay tant souhaité ?
+Helas ! fut-il jamais une infortune égale ?
+Quels que soient mes desirs, l'issuë en est fatale,
+Et mes vœux⁎ acceptez, je ne fais seulement
+Que prendre ailleurs ma peine, et changer de tourment.
+Aprés avoir languy sous la disgrace⁎ extréme
+Qui m'ostoit tout espoir d'obtenir ce que j'aime,
+Je me sens maintenant et gêner⁎ et punir
+Par le cruel remords que j'ay de l'obtenir.
+Accablé de l'horreur qui dans mon cœur se glisse,
+Je voudrois n'aimer plus pour en fuir le supplice,
+Et dans ce qu'à mes yeux la Reine offre d'appas⁎,
+J'aimerois mieux mourir que ne l'adorer pas.
+Ainsi le triste⁎ excez de ce confus martyre
+Fait revolter mon cœur contre ce qu'il desire,
+Et contraire à moy-mesme en mes propres desseins
+Je crains ce que je veux, et veux ce que je crains.
+Ah, qu'il est mal-aisé qu'une ame genereuse⁎
+Tire d'un noir forfait dequoy se rendre heureuse,
+Et qu'aux cœurs dont le zele⁎ à la gloire est offert,
+Le bonheur coûte cher quand le crime l'acquiert !
+Mais quoy ? d'où tout à coup me vient ce nouveau trouble ?
+Mon désordre s'augmente, et ma frayeur redouble.
+Est-ce un advis du Ciel qui cherche à m'annoncer
+L'arrest que son couroux s'appreste à prononcer ?
+Il est juste, et d'un Roy quand j'ay fait ma victime,
+S'il punit par le foudre⁎, il le doit à mon crime.
+Dieux, hâtez-en la peine, ou m'ostez ces soupçons.
+
+O Sinatus !
+
+Justes Dieux, un Poignard ! On en veut à mes jours,
+A moy, Gardes, à moy, qu'on vienne à mon secours.
+
+      La trahison d'un faux succez suivie
+Vient d'employer ce fer pour m'arracher la vie ;
+Mais j'ay tort d'accuser mon ingrat ennemy,
+Il n'est dans son forfait coupable qu'à demy,
+Il suit l'ordre du Ciel dont l'arrest trop severe
+Trouve pour moy la mort une peine legere,
+Et d'un lâche assassin n'arreste la fureur
+Qu'afin que la menace en redouble l'horreur.
+C'est peu que dans mon sang cette fureur s'esteigne,
+Avant que j'y succombe il veut que je la craigne,
+Et dans cette frayeur pour mieux m'envelopper,
+Il retire le bras sur le point de fraper.
+Sa cruelle pitié qui de mon Sort decide
+M'envoye un protecteur avec un Parricide⁎,
+Et dans le mesme instant, d'un effort⁎ different
+L'un attaque ma vie, et l'autre la défend.
+Voudrez-vous m'éclaircir ce coup abominable,
+Madame ? je le vois, et le trouve incroyable,
+Et mon cœur qu'en confond le projet odieux,
+Cherche sur tant de rage à démentir mes yeux.
+
+Et bien, parle, Sostrate, et me tire de peine.
+Suivras-tu contre moy l'exemple de la Reine,
+Et voudras-tu comme elle en cét évenement
+Refuser quelque jour⁎ à mon aveuglement ?
+
+Traistre, par cét adveu⁎ mets le comble à ta rage,
+Je ne voyois que trop le crime qui t'engage,
+Mais pour avoir pretexte à t'en justifier,
+Je voulois que du moins tu l'osasses nier.
+La Reine en ta faveur ayant voulu se taire
+Me donnoit jour⁎ à prendre une erreur volontaire ;
+Et si par ton silence il m'eust esté permis,
+Je t'ostois de l'abysme où ta flame⁎ t'a mis.
+Aidé de ce silence à toy seul favorable
+Je me fusse contraint à douter du coupable,
+Et j'aurois pû par là dans un sort si cruel
+Donner à l'innocent les jours du criminel.
+Dans celuy dont ma mort a sçeu toucher l'envie
+J'eusse craint de punir qui m'a sauvé la vie,
+Et la peine et le prix qu'à tous deux je vous doy
+Fussent restez secrets entre mon cœur et moy ;
+Mais c'est peu qu'à ma perte un lâche espoir t'anime,
+Si tu ne fais encore vanité de ton crime,
+Et si l'indigne adveu⁎ que ta fureur en fait
+Ne tâche aux yeux de tous d'en supléer l'effet.
+Ingrat, de mes bienfaits est-ce la recompense ?
+
+Quoy, traistre jusques-là ta rage te peut plaire ?
+Et bien, sçache à ton tour que plus tu me fus cher,
+Moins ce cœur dans ton sort se laissera toucher ;
+Que l'amitié par toy lâchement outragée
+Sur ton sang hautement sera par moy vangée,
+Et que de ma tendresse estouffant la chaleur
+Je le verray couler sans la moindre douleur.
+Mais pardonnez, Madame, aux transports qu'authorise
+Du plus noir attentat⁎ la plus lâche entreprise,
+Et qui m'offrant un gouffre ouvert de toutes parts,
+Sur le coupable seul arreste mes regards.
+Surpris de sa fureur je m'emporte, et j'oublie,
+Quand je luy dois la mort, que je vous dois la vie,
+Et que m'abandonnant à cét ardent couroux,
+Ce cœur juste pour luy devient ingrat pour vous.
+Sans vous je n'estois plus, sans vous, triste⁎ victime,
+Mon sang d'un Parricide⁎ eut couronné le crime,
+Et dans ce grand secours, c'est peu le meriter
+Que songer à punir plustost qu'à m'acquiter.
+Souffrez⁎ donc qu'à vos pieds…    
+
+Vous, Madame, defendre un perfide, un infame ?
+
+Par cette lâche ardeur de perir pour son crime,
+Admirez contre moy quelle rage l'anime,
+Et le charme qu'il trouve à se rendre aujourd'huy
+Indigne des bontez que vous auriez pour luy.
+
+O de bonté pour moy preuve trop obligeante !
+Je me tais tout remply de ce que vous pensez,
+Et je ne vous dis rien ne pouvant dire assez.
+Mais toy, qui mets ta gloire à braver les supplices,
+Aprés t'estre accusé nomme-nous tes complices,
+Et sçachons quel soûtien⁎ assez ferme, assez fort,
+Engageoit ton audace à resoudre ma mort.
+Sous l'effort⁎ de ton bras apprens-nous qui conspire.
+
+Quoy ? garder le silence est ta plus seure adresse
+Pour tâcher de ton crime à sauver la Princesse ?
+Va, tu nous tiens en vain ce grand secret caché,
+L'arrest de son exil t'avoit déjà touché,
+Et luy contant l'espoir que me souffre⁎ la Reine,
+Tu n'as pû refuser un forfait à sa haine ?
+Tu t'es montré soudain prest à m'assassiner ?
+
+Les sermens d'un perfide entraînent un parjure,
+En vain tu crois par là nous ébloüir⁎ les yeux,
+Qui peut perdre son Roy ne connoit point de Dieux.
+
+Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?
+
+Et bien ? j'ay fait sans doute injure⁎ à la Princesse,
+Lâche, ton attentat⁎ n'a rien qui l'interesse,
+Et j'ay dû, quand ton bras s'arme contre ton Roy,
+Recevoir tes sermens pour garands de ta foy⁎ ?
+
+Non, vous ne mourrez point, et puisque par ma perte
+L'asseurance du Trône à vos vœux est offerte,
+J'aurois tort si j'osois retrancher de vos droits
+Le pouvoir d'attenter une seconde fois.
+
+Princesse, tant d'orgueil lasse ma patience,
+La Reine icy toûjours garde pleine puissance,
+Et quand vous l'offencez, c'est à moy de vanger
+Les outrages piquants⁎ qu'elle ose negliger.
+Déjà dessous vos pas s'ouvre le précipice,
+Si je veux consentir à me faire justice,
+Et si vous ne songez à vous mieux secourir…
+
+Mais un pareil Sujet en peut aimer le titre
+Quand du Sort de la Reine il s'est rendu l'arbitre,
+Et qu'il en peut tenir le pouvoir limité
+Dans les emportemens de sa seule fierté⁎.
+Pour la gloire du rang conservez-la, Madame,
+Tandis qu'à d'autres soins⁎ je livreray mon ame,
+Et chercheray sur qui, dans ce noir attentat⁎,
+De mon ressentiment doit s'estendre l'éclat,
+J'en sçay dont en ma Cour l'appuy secret vous flate⁎.
+
+Quoy, genereuse⁎ assez pour ne luy pas survivre ?
+
+Et bien, pour satisfaire à cette noble envie
+Je vous mets en pouvoir de luy sauver la vie.
+Ouy, quoy qu'il ait tenté, je laisse à vostre choix
+D'empescher contre luy la rigueur de nos loix.
+Sostrate doit perir, tout le veut, tout m'en presse,
+Mais je puis épargner l'époux de la Princesse,
+Et sa grace pour vous est un effet certain
+Si pour prix de son crime il obtient vostre main.
+
+Fay, fay le magnanime, et souffre à⁎ ton audace
+De braver ma vangeance et rejetter ma grace,
+Mais j'en jure les Dieux qui m'ont soûmis ton sort,
+Elle n'a que ce choix, son hymen, ou ta mort.
+
+Il mourra donc, Madame, et vous aurez la gêne⁎
+De voir que vos mépris feront toute sa peine,
+Et que de vostre main ce refus éclatant
+Redoublera l'horreur de la mort qui l'attend.
+Au moins ce luy doit estre un supplice assez rude
+De n'en devoir l'arrest qu'à vostre ingratitude,
+Et de voir qu'en effet, qui doit le secourir,
+Quand je veux le sauver, le condamne à perir.
+
+Fay le mettre en lieu seur, je suis las de l'entendre,
+Sosime. Vous, Madame, advisez à⁎ ce choix,
+Je veux bien vous l'offrir une seconde fois,
+Mais dans une heure enfin si vostre main n'est preste,
+La foudre⁎ l'est déjà pour lancer sur sa teste,
+Songez-y.
+
+Madame, je sçay bien que vous devant la vie,
+Que sans vostre secours un lâche m'eust ravie,
+On auroit dû déja me voir à vos genoux
+Vous consacrer cent fois ce que je tiens de vous ;
+Mais j'ay crû dans l'ardeur du couroux qui m'enflame
+Vous devoir dérober les troubles de mon ame,
+Sans cesse, je l'advouë, il me vient animer,
+Et toute mon estude a peine à le calmer.
+
+Madame, c'est à quoy j'avois sçeu me contraindre,
+A Sostrate déjà j'ostois tout lieu de craindre,
+Et faisant sur moy-mesme un genereux⁎effort⁎,
+Je laissois la Princesse arbitre de son sort ;
+Mais avec tant d'orgueil, mais avec tant d'audace
+Tous deux ont dédaigné que je leur fisse grace,
+Qu'il faut qu'un châtiment aussi juste que prompt
+Par le sang du perfide en repare l'affront.
+
+      Ah, Madame,
+Que vous concevez mal, en pressant ma pitié,
+Quelle horreur à l'outrage adjouste l'amitié !
+Le coup que de tout autre on verroit sans colere
+Nous arrache le cœur quand la main nous est chere,
+Et l'oubly ne pouvant jamais s'en obtenir,
+Ce cœur devient par là plus ardent à punir.
+Si j'ay chery Sostrate, aprés son parricide⁎
+J'aime mieux le voir mort que de le voir perfide,
+Et trouve plus de peine en ce rude combat
+A haïr un amy qu'à punir un ingrat.
+
+Quel indigne party la pitié vous fait prendre !
+
+Mais songez qu'évitant la peine qu'il merite…
+
+S'ils sont ardents pour vous ? qu'on améne Sostrate.
+La vangeance déjà n'a plus rien qui me flate⁎,
+Mais qu'au moins un triomphe et si grand et si beau
+Sur vostre fier⁎ devoir m'en acquiere un nouveau,
+Faites à vostre tour que sa rigueur se rende,
+Vous me demandez grace, et je vous la demande ;
+Cessez de reculer, pour me voir trop soûmis,
+L'effet du doux espoir que vous m'avez permis.
+J'estonne⁎ mon respect, il tremble en ce que j'ose,
+Mais à qui donne tout vous devez quelque chose,
+Et mon couroux vaincu peut-estre a merité
+L'entier et prompt adveu⁎ de ma felicité.
+
+Il suffisoit tantost⁎ de me faire esperer,
+Mais contre ce devoir et cette bienseance
+Qu'opposoit le scrupule à mon impatience,
+Le sang où ma vangeance a voulu renoncer
+Authorise l'hymen dont j'ose vous presser ;
+A ce prix seulement mon cœur vous l'abandonne.
+
+C'est blesser cét amour, j'en suis au desespoir,
+Mais contre les fureurs d'une fiere⁎ Princesse
+Dans ce juste refus ma gloire s'interesse,
+Et ne sçauroit souffrir⁎ que par ses attentats⁎,
+Elle m'ait fait trembler, et n'en soûpire pas.
+Il faut, si le Coupable échape à ma justice,
+Que demain vostre hymen me vange et la punisse,
+Et que le vain effort⁎ d'un coup si malheureux
+Luy coûte la douleur de m'avoir fait heureux.
+
+Approche, et quoy qu'ait pû ta criminelle audace,
+Pour la seconde fois viens recevoir ta grace.
+Ce cœur que rien pour toy ne pouvoit plus toucher,
+En faveur de la Reine ose me l'arracher,
+Elle est entre ses mains, tu peux l'obtenir d'elle.
+
+Quoy, traistre, jusqu'au bout obstiné dans ta rage
+L'effet de mes bontez te tiendra lieu d'outrage ?
+Ta grace t'est offerte, il est vray ; mais apprens
+Que c'est contre mes vœux que pour toy je me rends ;
+Que tout ce qu'ont d'horreur les plus affreux supplices
+Feroit à te punir mes plus cheres delices,
+Et que j'attacherois leur plus charmant transport⁎
+A goûter à longs traits le plaisir de ta mort.
+Aprés un tel adveu⁎ fuy tes fieres⁎ maximes,
+Fais encor vanité de voir punir tes crimes,
+Aux bontez de la Reine oppose tes refus.
+
+      Non, Madame, il y va de ma gloire,
+Souffrez à⁎ mon amour cette juste victoire ;
+Je sçay que resister lors que vous commandez
+C'est trahir le respect que vous en attendez,
+Mais je dois à mon rang pour punir la Princesse,
+Ou le sang d'un perfide, ou l'hymen que je presse.
+Si mon bonheur trop prompt a dequoy vous gêner⁎
+A son lâche destin daignez l'abandonner ;
+Il ne vaut pas, l'ingrat, que par reconnoissance,
+Vous vous fassiez pour luy la moindre violence,
+Ny qu'il coûte à ce cœur qu'ont charmé vos appas⁎
+Le pressant déplaisir⁎ de ne vous ceder pas.
+Mais enfin c'est en vain que l'amour m'y convie,
+Vostre main seule a droit de racheter la vie,
+Et vous pouvez choisir, si ce prix est trop haut,
+De monter sur le Trône, ou luy sur l'échafaut.
+C'est dequoy j'attendray la réponce certaine.
+Qu'on se tienne éloigné par respect pour la Reine.
+Je le laisse avec vous afin que ses advis,
+S'ils flatent⁎ vos souhaits, puissent estre suivis.
+
+Tu parois encor, lâche, et quand ta perfidie
+Joint ta gloire soüillée à l'amitié trahie,
+Loin d'éviter mes yeux, je te vois fierement⁎
+Attendre tout l'éclat de mon ressentiment ;
+Mais ne croy plus pour toy que mon couroux l'exprime,
+Mon indignation t'abandonne à ton crime,
+Et quoy que ton audace aime à le soûtenir⁎,
+C'est en te dédaignant que je te veux punir.
+
+Quoy, de tant de fierté⁎ c'est-là ce qui te reste,
+Et las à me braver de perdre tes efforts⁎,
+Tu ne crois plus honteux de ceder au remords ?
+
+C'est donc là d'où partoient les refus de la Reine ?
+Toûjours traistre, toûjours infidelle à ton Roy
+Tu détournois ses vœux quand ils panchoient vers moy.
+Je ne m'estonne⁎ plus si tes serments sans cesse
+Osoient de ton forfait affranchir la Princesse.
+Quoy qu'avec toy sa haine eust juré mon trépas
+Un interest plus fort armoit déja ton bras,
+Tu feignois par amour d'applaudir à sa rage
+Tandis qu'une autre ardeur eschauffoit ton courage,
+Et que l'heureux succez qui suivoit mes desirs
+Te pressoit dans mon sang d'estouffer tes soûpirs.
+Ainsi plus lâche encore qu'on ne pouvoit connoistre
+Tu trahissois ensemble et la Reine et ton Maistre,
+Puisque le coup fatal qu'elle a sçeu m'épargner,
+En me privant du jour, l'empeschoit de regner.
+
+Madame, sçavez-vous quelle esperance offerte
+Avoit poussé Sostrate à resoudre ma perte ?
+Son orgueil jusqu'à vous ayant porté ses vœux
+S'indignoit d'un hymen qui me rendoit heureux,
+Et ma mort…
+
+Empoisonné, Madame ? ah, coupable entreprise !
+
+Quoy, Madame…
+
+Ah, Madame…
+
+Pour asseurer sa flame⁎, et détruire ma gloire,
+C'est-là ce qu'un perfide ose vous faire croire ?
+
+      Vous aimant, il a crû reüssir
+Si de quelque grand crime il pouvoit me noircir ?
+
+Vous, la poursuivre ! vous, dont le secours propice
+Du coup qui me perdoit a rompu l'injustice !
+Vous, qui me dérobant aux fureurs d'un ingrat…
+
+Non, vous cherchez en vain à me faire douter.
+Les soupçons qu'en vostre ame on aime à faire naistre
+Font perir Sinatus par le crime d'un traistre,
+Sa mort rend de couroux vostre cœur embrasé,
+Et m'en croyant l'autheur vous m'auriez épousé ?
+
+Pour les executer vous aurez peu de peine,
+Et la vie à mes vœux n'est pas un bien si doux
+Qu'il vaille le malheur d'estre haï de vous.
+De vostre hymen sur moy la gloire répanduë
+Commençoit à remplir leur plus vaste étenduë,
+Mais en le poursuivant comme un bonheur certain,
+J'ay cherché vostre cœur, et non pas vostre main.
+S'il aime, s'il s'obstine à croire l'imposture,
+Ordonnez que mon bras repare vostre injure⁎,
+Il est prest, et par luy tout mon sang répandu
+Sçaura…
+
+Quoy, ce parfait amour dont l'ardeur forte et tendre
+Contre la calomnie auroit dû me defendre,
+Cet hommage soûmis, ce respect dont jamais…
+
+      Ah, je ne crains que vostre seule haine.
+Madame, au nom des Dieux daignez regler mon sort,
+Donnez moy vostre amour, ou m'accordez la mort,
+L'arrest à son defaut m'en sera favorable.
+Pourquoy le differer si je suis crû coupable ?
+Pourquoy n'ordonner pas qu'aux Manes d'un Heros…
+
+Pour vous le conserver il faut l'aller défendre,
+J'y cours, et pour dompter de lâches Factieux
+J'appelle icy sans peur la justice des Dieux ;
+Mais aprés le succez qu'elle m'offre infaillible
+Si l'abus rend toûjours vostre haine inflexible,
+Ce cœur qui ne voit rien de si rude à souffrir⁎
+Ne prend plus que de moy les ordres de mourir.
+
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hesione
+
+Madame, je ne sçay si dans ce qui se passe
+De mes ressentimens vous approuvez l'audace,
+Et si de mon orgueil l'éclat impetueux
+N'a rien pour Sinorix qui contraigne vos vœux⁎.
+Il tâche à les seduire, et le Trône…
+
+Un zéle dont l'ardeur me sera tousjours chere,
+M'oblige à respecter la Vefve de mon Pere,
+Et je ne croirois pas y répondre assez bien
+Si sur vostre interest je ne reglois le mien.
+
+Pour m'y resoudre au moins je voudrois le sçavoir.
+
+Je sçay que Sinorix vous accuse, et se plaint ;
+Mais souvent le dehors n'est qu'une adroite feinte,
+Qui resiste le plus aime à ceder contrainte,
+Et cet amusement des credules esprits
+Fait subsister l'espoir au milieu des mépris.
+
+Je veux bien l'advoüer, Sostrate en est la cause,
+Il vous voit si souvent que comme il m'ose aimer,
+Vos secrets entretiens ont droit de m'alarmer.
+Il croit, si le Tyran vous avoit épousée
+Que mon cœur luy seroit une conqueste aisée,
+Et c'est à quoy sans doute il tâche à vous porter ?
+
+Qui l'en empescheroit ?
+ 
+Mais vous l'auriez souffert⁎ un peu plus rarement.
+
+Quand on ne pretend rien on doit peu se contraindre.
+
+C'est pour une grande ame un sentiment trop bas.
+
+Je n'ay pas merité d'en sçavoir le mystere.
+
+Viens, Sostrate, il est temps que je t'ouvre mon ame
+Sur l'espoir dont enfin tu peux flater⁎ ta flame⁎.
+Tes soins⁎ de mon orgueil en poursuivent l'adveu⁎ ?
+
+Tu me l'as fait paroistre, et j'aurois lieu sans doute
+D'admirer les efforts⁎ que ton respect te coûte,
+Si d'un charme trompeur ton esprit combatu⁎
+Ne laissoit contre moy séduire ta vertu.
+Ta foy⁎ pour Sinorix cherche à gagner la Reine ?
+
+      Ne les vante point tant,
+J'en connoy l'artifice⁎, et voy ce qu'elle attend.
+Tu verrois le Tyran toucher bien-tost son ame
+Si j'avois de ma main recompensé ta flame⁎,
+Et donné lieu par là de rejetter sur moy
+L'affront de le reduire à me manquer de foy⁎ ;
+Mais si ce seul espoir l'engage à se contraindre,
+Elle me connoit mal de s'obstiner à feindre,
+Et d'oser présumer qu'un cœur comme le mien
+Par mon hymen jamais authorise le sien.
+
+Va, c'est un peu trop tost renoncer à l'espoir ;
+Non que par cet adveu⁎ que tu n'osois attendre,
+Flatant⁎ ta passion, je vueille la surprendre,
+Je ne te diray point qu'elle ait pû m'enflammer,
+Mais si je n'aime point, du moins je puis aimer.
+C'est à toy de chercher à m'en rendre capable,
+Mon estime déja t'est assez favorable,
+Je connoy ton merite, et sçay que dans ton rang
+Jamais plus de vertu⁎ ne soûtint⁎ un beau sang.
+Tu vois que je commence, acheve, entreprens, ose,
+Peut-estre un seul obstacle à ton bon-heur s'oppose.
+J'aspire à me vanger, et ce fiers⁎ mouvement⁎
+Eloigne de mon cœur tout autre sentiment.
+Plein d'une passion et si juste et si forte,
+Pour y faire entrer l'une, il faut que l'autre en sorte,
+Et ta flame⁎ à l'espoir cherche en vain quelque jour⁎,
+A moins que la vangeance ait fait place à l'amour.
+J'ay receu du Tyran le plus sanglant outrage,
+Tu le sçais, je n'ay rien à dire davantage :
+Ou du feu⁎ qui te brûle⁎ écoute moins l'appas⁎,
+Ou ne m'offre ton cœur qu'en suite de ton bras.
+
+      Ne réplique point ; quand ce grand coup t'étonne⁎,
+Voy que je suis ta Reine, et que je te l'ordonne,
+Et si ta lâcheté me prepare un refus,
+Ne me le fais sçavoir qu'en ne me voyant plus.
+C'en sera l'asseurance⁎, adieu.
+
+Certes, jusques icy l'exemple est assez rare
+Que contre l'injustice un Tyran se declare.
+J'en fais une, il est vray, si Sostrate confus
+A l'orgueil de mon sang impute mes refus ;
+Mais quel aveuglement fait que tu me l'opposes ?
+La veux tu condamner quand c'est toy qui la causes
+Et que par l'attentat⁎ qui t'éleve aujourd'huy
+Tu m'ostes le pouvoir de rien faire pour luy ?
+Tu le plains de montrer une vertu sublime
+Sans qu'à peine il m'en coûte un sentiment d'estime,
+Mais ce charme brillant dont mon cœur est surpris,
+Quand il se donneroit, demande un plus haut prix.
+Au lieu de luy prester cette pitié frivole,
+Rends-moy l'éclat du rang que ta rage me vole,
+Alors tu connoistras s'il faut me reprocher
+Que l'amour d'un Heros ne puisse me toucher.
+
+Moy, que par une lâche et honteuse foiblesse
+Je cherche de ton cœur à me rendre Maistresse ?
+Je l'aurois accepté quand sur l'adveu⁎ du Roy
+Ma vertu te pouvoit rendre digne de moy ;
+Mais quelque juste ardeur dont le Trône m'anime,
+Ne croy pas que je t'aide à joüir de ton crime ;
+Qui tient pour y monter le chemin que tu prens
+Merite d'y perir comme font les Tyrans.
+Rendre par mon hymen ta grandeur affermie,
+Ce seroit de leur Sort t'épargner l'infamie,
+Et d'un rang où t'éleve un indigne attentat⁎,
+Prendre sur moy la honte, et t'asseurer l'éclat.
+
+Va, ne croy pas qu'icy son interest m'abuse,
+D'un faux zele pour luy je vois l'indigne ruse,
+Par cet empressement à soûtenir⁎ son feu⁎
+Ta lâcheté du tien sollicite l'adveu⁎.
+Ce que la Reine doit au sang dont je suis née
+Luy défend d'accepter la foy⁎ qui m'est donnée,
+Et quoy que mon orgueil en dédaigne l'appas⁎,
+Le mépris que j'en fais ne te dégage pas.
+Tu le vois, et l'hymen où tu crois me contraindre,
+La doit mettre en estat de n'avoir plus à feindre,
+De répondre à ta flame⁎, et de s'abandonner
+Aux douceurs de l'espoir que tu luy fais donner ;
+Mais maistresse d'un cœur qui brave ton Empire,
+Je ris des vains projets que cet amour t'inspire,
+Et tous mes déplaisirs⁎ semblent s'évanoüir
+Quand tu fais un parjure, et n'en sçaurois jouïr.
+
+      Fay donc qu'on l'execute.
+C'est par là que les Dieux ont resolu ta cheute,
+Sans cette indignité mon Sort seroit trahy,
+Plus tu seras Tyran, plus tu seras haï,
+Mes Sujets me plaindront, et leur haine timide⁎
+Cessera dans ta mort de croire un parricide⁎.
+Redouble tes forfaits ; loin d'en rien⁎ redouter,
+Je vay faire des vœux afin de les haster.
+
+Nomme mieux un beau zéle⁎ où la gloire préside.
+Je sçay par quel malheur son projet avorté
+L'expose aux fiers⁎ transports d'un Tyran irrité,
+Et viens avec plaisir complice de son crime
+Offrir à sa fureur une double victime.
+C'est pour moy que son bras dans son indigne sang
+Cherchoit à reparer l'outrage de mon rang.
+Par moy ce bras armé pour soûtenir⁎ ma haine
+Perdoit l'usurpateur qui détrône sa Reine,
+Et d'un illustre effort⁎ le genereux⁎ éclat
+D'un honteux esclavage affranchissoit l'Estat.
+Le Ciel dont contre toy le couroux se déguise
+Nous oste exprés le fruit d'une belle entreprise,
+Et pour voir où ta rage arrestera son cours
+De Sostrate ou de moy t'abandonne les jours ;
+Ose, et de mon destin prenant droit de resoudre,
+De la main qui le lance arrache enfin le foudre⁎,
+Et comblant des forfaits qu'on ne peut égaler
+Oste aux Dieux le pouvoir de plus dissimuler.
+Je suis preste à souffrir quoy que ta rage ordonne,
+La plus affreuse mort n'aura rien qui m'estonne⁎,
+Et le coup m'en plaira, s'il me peut épargner
+L'horreur de te voir Maistre, où je devrois regner.
+
+J'ay dit ce qu'a voulu l'interest de ma gloire,
+Et quand ce grand motif à mon cœur vient s'offrir,
+Si je ne sçais aimer, du moins je sçay mourir.
+
+Une si juste ardeur suivra tousjours ma haine,
+Mais je dois respecter les projets de la Reine,
+Et ne poursuivre plus d'un effort⁎ si constant
+Un Trône, où je découvre enfin qu'elle pretend.
+
+J'ay soupçonné d'abord, mais je parle certaine,
+Et je ne vous fais icy qu'un reproche trop dû,
+Quand le Trône sans vous m'auroit esté rendu.
+Rompre un coup qui perdoit l'autheur de ma misere,
+C'est avoüer le vol qu'un traistre en a sçeu faire,
+Et qui dans cette honte a voulu s'engager,
+N'en asseure le fruit que pour le partager.
+
+A quelle indignité je te voy recourir !
+Quoy, sur ce vain couroux tu crois que je me rende ?
+Eclate, ordonne, agis, c'est ce que je demande,
+Mais ne t'arreste pas, quand tu peux m'accabler,
+A l'inutile effort⁎ de me faire trembler ;
+Car enfin tu le sçais, Tyran, quoy que tu fasses,
+Je te dédaigne trop pour craindre tes menaces.
+Du Destin qui me perd la fatale rigueur
+Ne sçauroit abaisser ny mon rang ny mon cœur,
+Malgré sa lâcheté j'ay l'ame toûjours vaine,
+Malgré ta trahison je suis toûjours ta Reine,
+Et j'ay la joye au moins que ton heureux projet,
+S'il te fait mon Tyran, te laisse mon Sujet.
+
+Je les éprouve⁎ donc plus lâches que Sostrate.
+C'est luy seul dont le zéle à mes desirs se rend,
+Je m'explique, il est prest, j'ordonne, il entreprend,
+Tu tiens le criminel, je t'offre sa complice.
+
+      Qu'oses-tu dire ?
+Je t'ay sollicité, c'est ton bras qui conspire,
+Et tu cherches en vain à rejetter sur toy
+Les motifs d'un beau coup qui ne sont deus qu'à moy.
+
+      Non, non, c'est m'offencer, Sostrate,
+Souffre d'un grand projet que la gloire me flate⁎.
+Où le peril est beau m'empescher d'y courir,
+C'est m'arracher la part que j'en puis acquerir.
+
+Ne pouvant le sauver, du moins je le dois suivre,
+Et n'aurois dans mon sort à me plaindre de rien,
+Si te donnant mon sang je conservois le sien.
+
+Le détour est adroit, et me mettroit en peine
+S'il pouvoit m'empescher de voir que je suis Reine,
+Mais ma main dans ce rang ne sçauroit se donner
+Qu'en remplissant le droit qu'elle a de couronner.
+Par là de son refus ne croy pas qu'on s'étonne⁎,
+Ta fureur m'a ravy ce qu'il faut qu'elle donne,
+Et tu m'ostes ainsi par tes lâches forfaits
+Le pouvoir d'accepter l'offre que tu me fais.                 1190
+
+Va, nous sçaurons dans peu, malgré ta lâche audace,
+Si sa peine à ton tour n'a rien qui t'embarasse,
+Et si dans le malheur que ses projets ont eu
+Tu l'oseras punir d'un acte de vertu⁎.
+Alors cette douceur à ses vœux est offerte,
+Que je suivray son sort, ou vangeray sa perte,
+Et que hors mon hymen ne luy refusant rien,
+Il aura pour victime, ou son sang, ou le mien.
+
+      Tu pers temps ; puisque sa mort te plaist,
+Tonne contre tous deux, j'attendray ton arrest.
+
+On m'apprend à quel prix il t'est permis de vivre,
+Et je n'ay point douté de ce que je voy suivre.
+Le zéle est genereux⁎, et j'ay bien à rougir
+Qu'où mon cœur n'ose rien une autre vueille agir.
+L'effort⁎ que je refuse à ma reconnoissance
+Par sa seule pitié la Reyne s'y dispense⁎,
+Et pour sauver tes jours d'un arrest inhumain,
+Je n'offre que du sang, elle donne la main.
+D'un plus noble triomphe eut-on jamais la gloire ?
+
+Comme de son éclat tout mon cœur est surpris,
+Je l'examine assez pour en sçavoir le prix.
+On veut perdre Sostrate, et quand je l'abandonne,
+Daigner monter au Trône et prendre une Couronne
+Pour l'arracher au sort dont il est combatu⁎,
+C'est l'effet d'une rare et sublime vertu.
+
+Non, non, Sostrate, non, ton esperance est vaine,
+Lors que l'offre d'un Trône a droit de nous flater⁎,
+Quels qu'en soient les degrez, il est beau d'y monter.
+C'est par là qu'on s'asseure une illustre memoire.
+
+Y pretendre arriver par des moyens si bas,
+Ce sont de vos secrets qu'on ne penetre pas.
+
+      Va, c'est trop, quitte ce desespoir,
+Sostrate, ton amour a bien fait son devoir.
+Pour vaincre les malheurs dont je suis poursuivie
+Tu m'as aveuglement sacrifié ta vie ;
+Si les Dieux ont trahy ton espoir et le mien,
+N'en estant point garand, je ne t'impute rien,
+Calme ces déplaisirs⁎ à qui ta raison cede.
+
+Si pour t'obtenir grace aprés ton entreprise
+A l'hymen d'un Tyran la Reine s'authorise,
+C'est par là que les Dieux peut-estre ont resolu⁎
+De remettre en mes mains le pouvoir absolu.
+Tout le peuple en secret plaignant ma destinée
+De Sinorix pour moy souhaite l'hymenée,
+Et nous verrons du sang sans doute répandu
+S'il voit qu'elle partage un Trône qui m'est dû.
+Conserve-moy ton zele⁎, et pour heureux présage
+Voy ta Princesse ferme au milieu de l'orage.
+Adieu, je vais agir, cependant souviens-toy
+Que tu peux, si je regne, esperer tout de moy.
+
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sostrate
+
+Madame, le respect accompagne mon feu⁎,
+Sinorix jusqu'à vous en a porté l'audace,
+Mais quoy que son appuy combate ma disgrace⁎,
+Vous me pouvez toûjours défendre d'esperer,
+Sans que mon cœur jamais en ose murmurer.
+
+Vers toute autre ce soin⁎ pourroit vous mettre en peine,
+Mais tant de fiers⁎ mépris…
+
+Il est juste, Madame, et l'ardeur de vous plaire
+N'enfle pas mes desirs d'un orgueil temeraire,
+Jusqu'à pretendre enfin qu'elle aura le pouvoir…
+
+Quoy…
+
+      Que fuir ta veuë
+N'est-ce tout le peril d'un ordre qui me tuë !
+Mais las ! forcé d'aimer, quels seront mes souhaits
+S'il faut trahir par tout, ou n'esperer jamais ?
+
+Si vostre amour du temps n'attend quelque miracle,
+En vain de son orgueil il croit vaincre l'obstacle.
+Comme elle s'est tantôt⁎ expliquée avec vous,
+Mes soins⁎ n'ont fait, Seigneur, qu'accroistre son couroux.
+C'est assez qu'elle-mesme elle ait voulu vous dire
+Quel inutile espoir flate⁎ vostre martyre,
+Vostre pouvoir est grand, mais pour forcer⁎ sa foy⁎,
+Il n'étend point vos droits sur la Vefve d'un Roy.
+
+Quoy, contre la Princesse armer vostre colere ?
+Ah, Seigneur, songez-vous…
+
 Madame, il est aisé par mon desordre extrême
 De juger des combats que je rends en moy-mesme,
 Non que j'aspire enfin qu'à meriter un bien
@@ -951,62 +1745,13 @@ Je puis ce que je veux, c'est mon Roy, c'est mon Maistre,
 Et si j'ose sur luy porter de lâches coups,
 Me soüiller de son sang, suis-je digne de vous ?
 
--*who_camma
-Ouy, tu l'es, puisqu'enfin c'est en servant ma haine
-Que tu peux égaler le destin d'une Reine,
-Et trouver dans l'éclat d'un illustre projet
-A reparer l'affront du titre de Sujet.
-Crois-tu qu'à t'écouter je me fusse abaissée
-Si je n'eusse pû voir cette honte effacée,
-Et sçeu, pour m'enhardir⁎ à recevoir ta foy⁎,
-Que qui perd un Tyran est au dessus d'un Roy ?
-Renonce à cette gloire, et quitte un avantage
-Qui peut-estre jamais n'a touché ton courage,
-Mais s'il le dédaignait, pourquoy te déguiser,
-Et differer tousjours à me desabuser⁎ ?
-
--*who_sostrate
 J'ay promis, il est vray, c'est ce qui fait ma peine,
 Mais j'ay crû que l'amour fléchiroit vostre haine,
 Et que pour en calmer les transports éclatants
 Il falloit seulement avoir recours au temps.
 
--*who_camma
-Dy plustost qu'alarmé de l'amour de ton Maistre
-Ton feu⁎ desesperoit d'oser jamais paroistre,
-Et que ta passion corrompant ton devoir
-Sacrifiait ses jours à ce manque d'espoir.
-L'ardeur dont tu flatois⁎ ma noble impatience,
-Par ton seul interest s'offroit à ma vangeance,
-Et tu consentois moins par cét accord fatal
-A punir mon Tyran qu'à perdre ton Rival.
-Alors tu n'avois point cette vertu⁎ timide⁎
-Qui tremble à voir mon cœur le prix d'un parricide⁎,
-Et ta flame⁎ aisément convainquoit ta raison
-Qu'il pouvoit s'acquerir par une trahison.
-Aujourd'huy seulement qu'un foible stratagême
-Fait promettre au Tyran de me ceder si j'aime,
-Tu veux estre fidelle, et luy garder ta foy⁎,
-Sur l'espoir de me rendre aussi lâche que toy.
-Son adveu⁎ d'un beau choix me laissant la puissance,
-Tu crois qu'en ta faveur j'oublîray ma vangeance,
-Et que d'un fol amour secondant le pouvoir,
-Je t'aideray moy-mesme à trahir mon devoir ;
-Mais gravé dans ce cœur où rien ne le partage,
-Apprens que l'effacer est un penible ouvrage,
-Et que je plains en toy, si ton feu⁎ l'entreprend,
-L'inutile vertu⁎ que cet espoir te rend.
-
--*who_sostrate
 Ah ! que me dites-vous ?
 
--*who_camma
-      Ce que je te dois dire,
-Que jamais sur ton cœur la gloire n'eut d'empire,
-Et qu'un lâche interest qu'il vient de mettre au jour
-Le rend traître ou fidelle au gré de ton amour.
-
--*who_sostrate
 Et bien, pour épargner ce soupçon à ma gloire,
 Il faut oser icy ce qu'on ne pourra croire,
 Estouffer de l'amour le charme le plus doux,
@@ -1044,278 +1789,27 @@ C'est vous offrir assez pour les jours de mon Maistre,
 Et si j'ay merité qu'on m'accuse en ce jour
 D'estre traistre ou fidelle au gré de mon amour.
 
--*who_camma
-Le rare et seur moyen d'ébloüir⁎ ma vangeance !
-Les maux que tu te fais ne sont qu'en apparence,
-Et cet espoir pour toy si fâcheux à quitter,
-Sur quelque heureux revers te peut tousjours flater⁎ :
-Mais puis-je à Sinatus sans me noircir d'un crime
-N'accorder pas le sang qu'il attend pour victime,
-Et laisser sa vangeance à decider au Sort,
-N'est-ce pas devenir complice de sa mort ?
-
--*who_sostrate
 Tousjours sur cette mort vous croyez vostre haine.
 
--*who_camma
-Non, non, le crime est seur et l'injure⁎ certaine,
-Sinatus, mais trop tard, connut la trahison,
-Et tout prest d'expirer m'advertit du poison.
-Sur ce funeste advis cent marques évidentes
-M'en donnerent dés lors des preuves trop constantes,
-Et le Tyran depuis luy-mesme en a fait foy⁎
-A trahir la Princesse, et soûpirer pour⁎ moy.
-J'en sçay trop, et ton zéle en vain le justifie.
-
--*who_sostrate
 L'apparence souvent abuse qui s'y fie,
 Et contre Sinorix c'est un faible garand
 Que d'avoir seulement le soupçon d'un mourant.
 
--*who_camma
-Va, si l'indice est foible, ose pour sa défence
-Me répondre qu'en luy j'outrage l'innocence,
-Je t'en veux croire seul, mais aussi souviens-toy
-Que s'il n'est point coupable, il est digne de moy.
-
--*who_sostrate
 Ah, c'est pousser trop loin un effort⁎ magnanime,
 Vous luy rendrez justice à le croire sans crime,
 Mais…
 
--*who_camma
-      Mais tes vœux ardents à luy sauver le jour
-Languiront si je songe à payer son amour ?
-
--*who_sostrate
 Madame…
 
--*who_camma
-      Il me suffit ; puisque c'est te déplaire
-Porte luy ma réponce, et dy luy qu'il espere,
-Que mon cœur n'aime rien, et que dans peu sa foy⁎
-Peut selon ses souhaits attendre tout de moy.
-
-**** *book_ *id_III01 *act_III *date_1661 *creator_corneille
-
--*who_phaedime
-Ce changement, Seigneur, n'offre rien qui m'étonne⁎,
-Je connois ce que peut l'éclat d'une Couronne,
-Et n'ay jamais douté, malgré son feint couroux,
-Que la Reine en secret ne fist des vœux⁎ pour vous.
-
--*who_sinorix
-Quoy qu'encore contre moy quelque interest combate⁎,
-Elle m'a confirmé le rapport de Sostrate,
-Tout espoir est permis à mon cœur amoureux ;
-Mais il faut que le temps aide à me rendre heureux,
-J'ay voulu luy ceder pour montrer plus de zéle⁎.
-
--*who_phaedime
-Non, non, pressez⁎, Seigneur, vous obtiendrez tout d'elle,
-Déja son fier⁎ devoir voudroit estre forcé.
-
--*who_sinorix
-D'un scrupule⁎ de gloire il est embarassé.
-Aprés ses longs refus, un peu de bienseance
-Doit l'obliger encor à quelque resistance,
-C'est ce qu'à mon amour elle vient d'opposer.
-
--*who_phaedime
-Sur un adveu⁎ si doux vous pouvez tout oser,
-Menacez, contraignez, rien ne luy peut déplaire.
-Mais puis-je m'expliquer sans estre temeraire ?
-Tout vous rit, tout vous flate⁎, et cependant, Seigneur,
-Je voy qu'un noir chagrin⁎ trouble vostre bonheur.
-
--*who_sinorix
-Ouy, Phaedime, et mon ame étonnée⁎, interdite⁎,
-Se veut en vain soustraire à l'horreur qui l'agite.
-Plus j'ay lieu de tenir mon bonheur asseuré,
-Plus par de vifs remords je me sens déchiré.
-Une secrete voix que leur rigueur anime
-De moment en moment⁎ me reproche mon crime,
-Et lors que j'en fremis, pour me confondre⁎ mieux,
-L'Ombre de Sinatus se presente à mes yeux.
-Pasle et défiguré plus qu'on ne peut comprendre,
-Il sort de cette tombe où je l'ay fait descendre,
-Et marquant du poison les efforts⁎ violents,
-Il chancelle, et vers moy se conduit à pas lents.
-Ses yeux, quoy qu'égarez, fixes sur le coupable,
-Me lancent un regard affreux, épouvantable,
-Et comme si c'estoit me faire peu souffrir,
-Je l'entens s'écrier, Tyran, il faut mourir,
-Il est temps d'expier ta criminelle flame⁎ ;
-Tu m'as ravy le jour pour me ravir ma Femme,
-Et trahissant ma Fille, adroit dans ce grand Art,
-Tu luy voles un Trône où tu n'as point de part.
-Ta lâche ambition s'estant pû satisfaire,
-Tiens seur pour toy le prix que ton amour espere,
-Mais prest de l'obtenir, tremble, et malgré tes soins⁎
-Succombe au coup fatal que tu prévois le moins.
-Là j'ay beau repousser cette funeste image,
-L'horreur qu'elle me laisse accable mon courage,
-Et sans cesse agitant mon esprit incertain
-Me montre un bras levé pour me percer le sein.
-
--*who_phaedime
-De ces vaines frayeurs il vaut mieux vous defendre,
-Seigneur, qui contre vous oseroit entreprendre ?
-Vous mesme en le craignant cessez de vous trahir.
-La Princesse sans doute a droit de vous haïr ;
-Mais enfin, de regner son cœur toûjours avide
-Ne prend point contre vous le desespoir pour guide,
-Et tout ce grand éclat où l'enhardit⁎ son rang
-Aspire à vostre main, et non à vostre sang.
-
--*who_sinorix
-Mais puisqu'elle sçaura que j'ay fléchy la Reine,
-Que ne permettra-t'elle aux transports de sa haine ?
-Déjà, déjà peut-estre elle en sçait le secret.
-
--*who_phaedime
-Quoy, Sostrate, Seigneur, seroit si peu discret ?
-
--*who_sinorix
-Comme j'aime Sostrate à l'égal de moy-mesme
-Je sçay bien que pour moy sa tendresse est extréme,
-Qu'il donneroit cent fois tout son sang pour le mien,
-Mais souvent l'amour parle, et croit ne dire rien.
-Pour me tirer du trouble où ce soupçon me laisse,
-Phaedime, de ce pas va trouver la Princesse,
-Et par ses sentiments tâche de pressentir
-Si de l'heur⁎ de ma flame⁎ il a pû l'advertir.
-Il est bien mal-aisé, quoy que d'abord on feigne,
-Que long-temps dans sa rage un grand cœur se contraigne,
-Fais agir ton adresse à lire dans le sien.
-
--*who_phaedime
-Je connois mon devoir et n'épargneray rien.
-
-**** *book_ *id_III02 *act_III *date_1661 *creator_corneille 
-
--*who_sinorix
-Dieux, dont les loix pour nous doivent estre adorables⁎,
-Est-ce ainsi que j'ay crû vous trouver exorables⁎
-Et me reserviez-vous à la necessité
-De gemir du bonheur que j'ay tant souhaité ?
-Helas ! fut-il jamais une infortune égale ?
-Quels que soient mes desirs, l'issuë en est fatale,
-Et mes vœux⁎ acceptez, je ne fais seulement
-Que prendre ailleurs ma peine, et changer de tourment.
-Aprés avoir languy sous la disgrace⁎ extréme
-Qui m'ostoit tout espoir d'obtenir ce que j'aime,
-Je me sens maintenant et gêner⁎ et punir
-Par le cruel remords que j'ay de l'obtenir.
-Accablé de l'horreur qui dans mon cœur se glisse,
-Je voudrois n'aimer plus pour en fuir le supplice,
-Et dans ce qu'à mes yeux la Reine offre d'appas⁎,
-J'aimerois mieux mourir que ne l'adorer pas.
-Ainsi le triste⁎ excez de ce confus martyre
-Fait revolter mon cœur contre ce qu'il desire,
-Et contraire à moy-mesme en mes propres desseins
-Je crains ce que je veux, et veux ce que je crains.
-Ah, qu'il est mal-aisé qu'une ame genereuse⁎
-Tire d'un noir forfait dequoy se rendre heureuse,
-Et qu'aux cœurs dont le zele⁎ à la gloire est offert,
-Le bonheur coûte cher quand le crime l'acquiert !
-Mais quoy ? d'où tout à coup me vient ce nouveau trouble ?
-Mon désordre s'augmente, et ma frayeur redouble.
-Est-ce un advis du Ciel qui cherche à m'annoncer
-L'arrest que son couroux s'appreste à prononcer ?
-Il est juste, et d'un Roy quand j'ay fait ma victime,
-S'il punit par le foudre⁎, il le doit à mon crime.
-Dieux, hâtez-en la peine, ou m'ostez ces soupçons.
-
-**** *book_ *id_III03 *act_III *date_1661 *creator_corneille
-
--*who_camma
-L'occasion est belle, il est seul, advançons.
-
--*who_sinorix
-O Sinatus !
-
--*who_sostrate
       Que vois-je ! Ah !
 
--*who_camma
-      Perdons cét infame.
-Que fais-tu, mal-heureux ?
-
--*who_sostrate
       Que faites-vous, Madame ?
 
--*who_sinorix
-Justes Dieux, un Poignard ! On en veut à mes jours,
-A moy, Gardes, à moy, qu'on vienne à mon secours.
-
--*who_sosime
-Seigneur.
-
--*who_sinorix
-      La trahison d'un faux succez suivie
-Vient d'employer ce fer pour m'arracher la vie ;
-Mais j'ay tort d'accuser mon ingrat ennemy,
-Il n'est dans son forfait coupable qu'à demy,
-Il suit l'ordre du Ciel dont l'arrest trop severe
-Trouve pour moy la mort une peine legere,
-Et d'un lâche assassin n'arreste la fureur
-Qu'afin que la menace en redouble l'horreur.
-C'est peu que dans mon sang cette fureur s'esteigne,
-Avant que j'y succombe il veut que je la craigne,
-Et dans cette frayeur pour mieux m'envelopper,
-Il retire le bras sur le point de fraper.
-Sa cruelle pitié qui de mon Sort decide
-M'envoye un protecteur avec un Parricide⁎,
-Et dans le mesme instant, d'un effort⁎ different
-L'un attaque ma vie, et l'autre la défend.
-Voudrez-vous m'éclaircir ce coup abominable,
-Madame ? je le vois, et le trouve incroyable,
-Et mon cœur qu'en confond le projet odieux,
-Cherche sur tant de rage à démentir mes yeux.
-
--*who_camma
-Vous avez peu besoin que je vous éclaircisse,
-Un autre peut icy vous rendre cet office⁎,
-Et dans l'effort⁎ douteux qui vous comble d'effroy
-Le fidelle Sostrate a plus de part que moy.
-
--*who_sinorix
-Et bien, parle, Sostrate, et me tire de peine.
-Suivras-tu contre moy l'exemple de la Reine,
-Et voudras-tu comme elle en cét évenement
-Refuser quelque jour⁎ à mon aveuglement ?
-
--*who_sostrate
 Non, Seigneur, c'est en vain que je voudrois me taire,
 Vous avez veu l'effort⁎ que mon bras vient de faire ;
 Le crime veut du sang, et sans rien balancer⁎,
 Sçachant ce qui m'est dû, vous devez prononcer.
 
--*who_sinorix
-Traistre, par cét adveu⁎ mets le comble à ta rage,
-Je ne voyois que trop le crime qui t'engage,
-Mais pour avoir pretexte à t'en justifier,
-Je voulois que du moins tu l'osasses nier.
-La Reine en ta faveur ayant voulu se taire
-Me donnoit jour⁎ à prendre une erreur volontaire ;
-Et si par ton silence il m'eust esté permis,
-Je t'ostois de l'abysme où ta flame⁎ t'a mis.
-Aidé de ce silence à toy seul favorable
-Je me fusse contraint à douter du coupable,
-Et j'aurois pû par là dans un sort si cruel
-Donner à l'innocent les jours du criminel.
-Dans celuy dont ma mort a sçeu toucher l'envie
-J'eusse craint de punir qui m'a sauvé la vie,
-Et la peine et le prix qu'à tous deux je vous doy
-Fussent restez secrets entre mon cœur et moy ;
-Mais c'est peu qu'à ma perte un lâche espoir t'anime,
-Si tu ne fais encore vanité de ton crime,
-Et si l'indigne adveu⁎ que ta fureur en fait
-Ne tâche aux yeux de tous d'en supléer l'effet.
-Ingrat, de mes bienfaits est-ce la recompense ?
-
--*who_sostrate
 Ils sont tous dans mon cœur mieux gravez qu'on ne pense ;
 Mais enfin, je l'advouë, il ne peut consentir
 Que de ce que j'ay fait j'ose me repentir.
@@ -1325,42 +1819,6 @@ Et pour mieux la haster, sçachez que cette main
 En mesme occasion auroit mesme dessein ;
 Que cent fois de nouveau l'effort⁎ qu'elle a sçeu faire…
 
--*who_sinorix
-Quoy, traistre jusques-là ta rage te peut plaire ?
-Et bien, sçache à ton tour que plus tu me fus cher,
-Moins ce cœur dans ton sort se laissera toucher ;
-Que l'amitié par toy lâchement outragée
-Sur ton sang hautement sera par moy vangée,
-Et que de ma tendresse estouffant la chaleur
-Je le verray couler sans la moindre douleur.
-Mais pardonnez, Madame, aux transports qu'authorise
-Du plus noir attentat⁎ la plus lâche entreprise,
-Et qui m'offrant un gouffre ouvert de toutes parts,
-Sur le coupable seul arreste mes regards.
-Surpris de sa fureur je m'emporte, et j'oublie,
-Quand je luy dois la mort, que je vous dois la vie,
-Et que m'abandonnant à cét ardent couroux,
-Ce cœur juste pour luy devient ingrat pour vous.
-Sans vous je n'estois plus, sans vous, triste⁎ victime,
-Mon sang d'un Parricide⁎ eut couronné le crime,
-Et dans ce grand secours, c'est peu le meriter
-Que songer à punir plustost qu'à m'acquiter.
-Souffrez⁎ donc qu'à vos pieds…    
-
--*who_camma
-      Ah, c'est trop me confondre⁎.
-Je voy, j'entens, j'écoute, et ne sçay que répondre,
-Et mon esprit confus, surpris, inquiété,
-Tombe enfin malgré moy dans la stupidité⁎.
-Ce que Sostrate a fait m'est la plus rude offence,
-Je voudrois toutefois parler en sa defense,
-Et lors qu'en sa faveur la pitié m'entretient,
-Un autre sentiment m'inspire, et me retient.
-
--*who_sinorix
-Vous, Madame, defendre un perfide, un infame ?
-
--*who_sostrate
 Non, non, de grace, non, ne dites rien, Madame,
 Et sans vouloir pour moy tenter un vain effort⁎
 A toute ma disgrace⁎ abandonnez mon sort.
@@ -1369,34 +1827,6 @@ Me seroit plus cruel que la mort qu'on m'appreste,
 Par là mon desespoir se verroit achevé,
 Et je mourrois cent fois si vous m'aviez sauvé.
 
--*who_sinorix
-Par cette lâche ardeur de perir pour son crime,
-Admirez contre moy quelle rage l'anime,
-Et le charme qu'il trouve à se rendre aujourd'huy
-Indigne des bontez que vous auriez pour luy.
-
--*who_camma
-A quoy qu'en son malheur sa fierté⁎ le hazarde,
-Je ne vous dis plus rien sur ce qui le regarde,
-Mais sur vos interests, vous devez présumer
-Que si son entreprise a pû vous alarmer,
-Si d'un effroy secret vostre ame embarassée
-Se trouve à quelque trouble indignement forcée,
-Ces alarmes, ce trouble, et ces sujets d'effroy
-Sont des maux qu'aujourd'huy vous souffrez malgré moy,
-Qu'à vous les épargner aussi prompte qu'ardente…
-
--*who_sinorix
-O de bonté pour moy preuve trop obligeante !
-Je me tais tout remply de ce que vous pensez,
-Et je ne vous dis rien ne pouvant dire assez.
-Mais toy, qui mets ta gloire à braver les supplices,
-Aprés t'estre accusé nomme-nous tes complices,
-Et sçachons quel soûtien⁎ assez ferme, assez fort,
-Engageoit ton audace à resoudre ma mort.
-Sous l'effort⁎ de ton bras apprens-nous qui conspire.
-
--*who_sostrate
 Je vous ay dit, Seigneur, ce que j'avois à dire ;
 Nommez ce que le Ciel vient de vous faire voir
 Un effet de ma rage, ou de mon desespoir,
@@ -1405,16 +1835,6 @@ Vos yeux vous soient garands de ce qu'il en faut croire,
 Vous avez leur rapport, prononcez là-dessus,
 J'ay parlé, j'ay tout dit, et ne sçay rien de plus.
 
--*who_sinorix
-Quoy ? garder le silence est ta plus seure adresse
-Pour tâcher de ton crime à sauver la Princesse ?
-Va, tu nous tiens en vain ce grand secret caché,
-L'arrest de son exil t'avoit déjà touché,
-Et luy contant l'espoir que me souffre⁎ la Reine,
-Tu n'as pû refuser un forfait à sa haine ?
-Tu t'es montré soudain prest à m'assassiner ?
-
--*who_sostrate
 Ah, contre-elle, Seigneur, qu'osez-vous soupçonner ?
 J'atteste⁎ tous les Dieux, et je veux que leur foudre⁎
 Tombe à vos yeux sur l'heure et me reduise en poudre,
@@ -1422,564 +1842,47 @@ Si dans ce grand projet qu'a détruit le hazard,
 On peut à la Princesse imputer quelque part.
 C'est moy seul dont le sang doit laver vostre injure⁎.
 
--*who_sinorix
-Les sermens d'un perfide entraînent un parjure,
-En vain tu crois par là nous ébloüir⁎ les yeux,
-Qui peut perdre son Roy ne connoit point de Dieux.
-
-**** *book_ *id_III04 *act_III *date_1661 *creator_corneille 
-
--*who_sinorix
-Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?
-
--*who_hesione
-Nomme mieux un beau zéle⁎ où la gloire préside.
-Je sçay par quel malheur son projet avorté
-L'expose aux fiers⁎ transports d'un Tyran irrité,
-Et viens avec plaisir complice de son crime
-Offrir à sa fureur une double victime.
-C'est pour moy que son bras dans son indigne sang
-Cherchoit à reparer l'outrage de mon rang.
-Par moy ce bras armé pour soûtenir⁎ ma haine
-Perdoit l'usurpateur qui détrône sa Reine,
-Et d'un illustre effort⁎ le genereux⁎ éclat
-D'un honteux esclavage affranchissoit l'Estat.
-Le Ciel dont contre toy le couroux se déguise
-Nous oste exprés le fruit d'une belle entreprise,
-Et pour voir où ta rage arrestera son cours
-De Sostrate ou de moy t'abandonne les jours ;
-Ose, et de mon destin prenant droit de resoudre,
-De la main qui le lance arrache enfin le foudre⁎,
-Et comblant des forfaits qu'on ne peut égaler
-Oste aux Dieux le pouvoir de plus dissimuler.
-Je suis preste à souffrir quoy que ta rage ordonne,
-La plus affreuse mort n'aura rien qui m'estonne⁎,
-Et le coup m'en plaira, s'il me peut épargner
-L'horreur de te voir Maistre, où je devrois regner.
-
--*who_sinorix
-Et bien ? j'ay fait sans doute injure⁎ à la Princesse,
-Lâche, ton attentat⁎ n'a rien qui l'interesse,
-Et j'ay dû, quand ton bras s'arme contre ton Roy,
-Recevoir tes sermens pour garands de ta foy⁎ ?
-
--*who_sostrate
 Qu'avez-vous dit, Madame, et que faites-vous croire ?
 
--*who_hesione
-J'ay dit ce qu'a voulu l'interest de ma gloire,
-Et quand ce grand motif à mon cœur vient s'offrir,
-Si je ne sçais aimer, du moins je sçay mourir.
-
--*who_sinorix
-Non, vous ne mourrez point, et puisque par ma perte
-L'asseurance du Trône à vos vœux est offerte,
-J'aurois tort si j'osois retrancher de vos droits
-Le pouvoir d'attenter une seconde fois.
-
--*who_hesione
-Une si juste ardeur suivra tousjours ma haine,
-Mais je dois respecter les projets de la Reine,
-Et ne poursuivre plus d'un effort⁎ si constant
-Un Trône, où je découvre enfin qu'elle pretend.
-
--*who_camma
-Ce chagrin⁎ inquiet incessamment⁎ vous gêne⁎.
-
--*who_hesione
-J'ay soupçonné d'abord, mais je parle certaine,
-Et je ne vous fais icy qu'un reproche trop dû,
-Quand le Trône sans vous m'auroit esté rendu.
-Rompre un coup qui perdoit l'autheur de ma misere,
-C'est avoüer le vol qu'un traistre en a sçeu faire,
-Et qui dans cette honte a voulu s'engager,
-N'en asseure le fruit que pour le partager.
-
--*who_camma
-Sans me justifier, quoy que vous vueilliez croire,
-Il suffit que mon cœur ait l'appuy de ma gloire,
-Et que de mes desseins pleinement satisfait
-Il puisse m'applaudir sur tout ce que j'ay fait.
-Cependant dans son sort Sostrate estant à plaindre,
-Je vous laisse calmer l'orage qu'il doit craindre,
-Et me remets au temps à voir qui de nous deux
-Avec plus de succez aura conduit ses vœux⁎.
-
-**** *book_ *id_III05 *act_III *date_1661 *creator_corneille
-
--*who_sinorix
-Princesse, tant d'orgueil lasse ma patience,
-La Reine icy toûjours garde pleine puissance,
-Et quand vous l'offencez, c'est à moy de vanger
-Les outrages piquants⁎ qu'elle ose negliger.
-Déjà dessous vos pas s'ouvre le précipice,
-Si je veux consentir à me faire justice,
-Et si vous ne songez à vous mieux secourir…
-
--*who_hesione
-A quelle indignité je te voy recourir !
-Quoy, sur ce vain couroux tu crois que je me rende ?
-Eclate, ordonne, agis, c'est ce que je demande,
-Mais ne t'arreste pas, quand tu peux m'accabler,
-A l'inutile effort⁎ de me faire trembler ;
-Car enfin tu le sçais, Tyran, quoy que tu fasses,
-Je te dédaigne trop pour craindre tes menaces.
-Du Destin qui me perd la fatale rigueur
-Ne sçauroit abaisser ny mon rang ny mon cœur,
-Malgré sa lâcheté j'ay l'ame toûjours vaine,
-Malgré ta trahison je suis toûjours ta Reine,
-Et j'ay la joye au moins que ton heureux projet,
-S'il te fait mon Tyran, te laisse mon Sujet.
-
--*who_sinorix
-Mais un pareil Sujet en peut aimer le titre
-Quand du Sort de la Reine il s'est rendu l'arbitre,
-Et qu'il en peut tenir le pouvoir limité
-Dans les emportemens de sa seule fierté⁎.
-Pour la gloire du rang conservez-la, Madame,
-Tandis qu'à d'autres soins⁎ je livreray mon ame,
-Et chercheray sur qui, dans ce noir attentat⁎,
-De mon ressentiment doit s'estendre l'éclat,
-J'en sçay dont en ma Cour l'appuy secret vous flate⁎.
-
--*who_hesione
-Je les éprouve⁎ donc plus lâches que Sostrate.
-C'est luy seul dont le zéle à mes desirs se rend,
-Je m'explique, il est prest, j'ordonne, il entreprend,
-Tu tiens le criminel, je t'offre sa complice.
-
--*who_sostrate
 Madame, qui vous porte à vous faire injustice,
 A vouloir de mon sort partager le couroux ?
 J'entreprens, il est vray, mais ce n'est pas pour vous,
 Par mon seul interest j'ay dû…
 
--*who_hesione
-      Qu'oses-tu dire ?
-Je t'ay sollicité, c'est ton bras qui conspire,
-Et tu cherches en vain à rejetter sur toy
-Les motifs d'un beau coup qui ne sont deus qu'à moy.
-
--*who_sostrate
 Mais, Madame…
 
--*who_hesione
-      Non, non, c'est m'offencer, Sostrate,
-Souffre d'un grand projet que la gloire me flate⁎.
-Où le peril est beau m'empescher d'y courir,
-C'est m'arracher la part que j'en puis acquerir.
-
--*who_sinorix
-Quoy, genereuse⁎ assez pour ne luy pas survivre ?
-
--*who_hesione
-Ne pouvant le sauver, du moins je le dois suivre,
-Et n'aurois dans mon sort à me plaindre de rien,
-Si te donnant mon sang je conservois le sien.
-
--*who_sinorix
-Et bien, pour satisfaire à cette noble envie
-Je vous mets en pouvoir de luy sauver la vie.
-Ouy, quoy qu'il ait tenté, je laisse à vostre choix
-D'empescher contre luy la rigueur de nos loix.
-Sostrate doit perir, tout le veut, tout m'en presse,
-Mais je puis épargner l'époux de la Princesse,
-Et sa grace pour vous est un effet certain
-Si pour prix de son crime il obtient vostre main.
-
--*who_sostrate
 Non, Seigneur, ordonnez la peine qui m'est deuë ;
 Quand je verrois pour moy la Princesse renduë,
 Sçachant quelle contrainte elle en pourroit sentir,
 Jamais, jamais ce cœur n'y voudroit consentir.
 
--*who_sinorix
-Fay, fay le magnanime, et souffre à⁎ ton audace
-De braver ma vangeance et rejetter ma grace,
-Mais j'en jure les Dieux qui m'ont soûmis ton sort,
-Elle n'a que ce choix, son hymen, ou ta mort.
-
--*who_hesione
-Le détour est adroit, et me mettroit en peine
-S'il pouvoit m'empescher de voir que je suis Reine,
-Mais ma main dans ce rang ne sçauroit se donner
-Qu'en remplissant le droit qu'elle a de couronner.
-Par là de son refus ne croy pas qu'on s'étonne⁎,
-Ta fureur m'a ravy ce qu'il faut qu'elle donne,
-Et tu m'ostes ainsi par tes lâches forfaits
-Le pouvoir d'accepter l'offre que tu me fais.                 1190
-
--*who_sinorix
-Il mourra donc, Madame, et vous aurez la gêne⁎
-De voir que vos mépris feront toute sa peine,
-Et que de vostre main ce refus éclatant
-Redoublera l'horreur de la mort qui l'attend.
-Au moins ce luy doit estre un supplice assez rude
-De n'en devoir l'arrest qu'à vostre ingratitude,
-Et de voir qu'en effet, qui doit le secourir,
-Quand je veux le sauver, le condamne à perir.
-
--*who_hesione
-Va, nous sçaurons dans peu, malgré ta lâche audace,
-Si sa peine à ton tour n'a rien qui t'embarasse,
-Et si dans le malheur que ses projets ont eu
-Tu l'oseras punir d'un acte de vertu⁎.
-Alors cette douceur à ses vœux est offerte,
-Que je suivray son sort, ou vangeray sa perte,
-Et que hors mon hymen ne luy refusant rien,
-Il aura pour victime, ou son sang, ou le mien.
-
--*who_sostrate
 Ah, Madame, cessez de vous laissez surprendre…
 
--*who_sinorix
-Fay le mettre en lieu seur, je suis las de l'entendre,
-Sosime. Vous, Madame, advisez à⁎ ce choix,
-Je veux bien vous l'offrir une seconde fois,
-Mais dans une heure enfin si vostre main n'est preste,
-La foudre⁎ l'est déjà pour lancer sur sa teste,
-Songez-y.
-
--*who_hesione
-      Tu pers temps ; puisque sa mort te plaist,
-Tonne contre tous deux, j'attendray ton arrest.
-
-**** *book_ *id_IV01 *act_IV *date_1661 *creator_corneille
-
--*who_camma
-L'Arrest en est donné ! que me dis-tu, Phenice ?
-
--*who_phenice
-Qu'on dresse l'appareil⁎ d'un funeste supplice,
-Et que c'est par sa mort qu'un Tyran inhumain
-Punit ce fier⁎ refus de luy donner la main.
-
--*who_camma
-Quoy, cet amy si cher ne trouve point de grace ?
-
--*who_phenice
-Enfin l'effet est prest de suivre la menace.
-Jamais tant de fureur ne se peut concevoir
-Qu'en tous ses sentimens Sinorix en fait voir.
-Indigné de l'orgueil que montre la Princesse,
-Il éclate, il foudroye⁎, il s'emporte sans cesse,
-Et le rang qu'en son cœur Sostrate a sçeu tenir
-Semble augmenter sa rage à le vouloir punir.
-
--*who_camma
-Phenice, il est donc temps que ma vangeance cede,
-Qu'au mal que j'ay causé j'oppose le remede,
-Et qu'à tant de fureur, ce cœur reconnoissant
-Par l'offre du coupable arrache l'innocent.
-
--*who_phenice
-Vous découvrir, Madame ? ah, que voulez-vous faire ?
-
--*who_camma
-Espargner à Sostrate une mort volontaire,
-Et ne permettre pas qu'il expie aujourd'huy
-Le crime glorieux qu'il a jetté sur luy.
-Dés lors sans un époux dont l'interest me presse
-J'eusse de son amour desadvoüé l'adresse,
-Et n'aurois pas souffert que mon Tyran trompé
-Le chargeast⁎ d'un forfait sur ma gloire usurpé ;
-Mais voyant Sinatus sans espoir de vangeance
-Si je n'en confirmois l'abus par mon silence,
-J'ay voulu m'y contraindre, et crû que la pitié
-Luy feroit pour Sostrate écouter l'amitié.
-C'est à moy, puisqu'enfin je l'en vois incapable,
-A détruire une erreur qui cache le coupable,
-A luy montrer le bras qui s'immoloit ses jours,
-Et des Dieux pour le reste attendre le secours.
-
--*who_phenice
-Comme il faudra pour luy que vostre haine éclate,
-Vous l'allez irriter sans secourir Sostrate.
-N'ayant rien dit d'abord, vous luy ferez penser
-Que vous n'avez dessein que de l'embarasser,
-Et je crains que piqué⁎ de voir par là vostre ame
-Desadvoüer l'espoir dont il flate⁎ sa flame⁎,
-Il ne haste une mort dont par quelque interest
-Il peut songer encor à suspendre l'arrest.
-
--*who_camma
-Mais quand je luy diray qu'une ardeur de vangeance
-M'a fait de ses forfaits cacher la connoissance ;
-Que je sçay qu'en secret sa lâche trahison
-Pour perdre Sinatus eut recours au poison ;
-Qu'à vanger cette mort ma haine tousjours preste,
-A Sostrate cent fois a demandé sa teste ;
-Qu'à son refus tantost dans ma noble fierté⁎,
-Mon bras se l'immoloit s'il ne l'eust arresté ;
-Que l'adveu⁎ qu'à sa flame⁎ il a crû propice
-Pour le mieux ébloüir⁎ n'estoit qu'un artifice⁎,
-Crois-tu que ce rapport trouve si peu de foy⁎
-Qu'il le laisse douter entre Sostrate et moy ?
-
--*who_phenice
-Le voicy qui paroist ; avant que rien⁎ éclate
-Songez à Sinatus, jettez l'œil sur Sostrate,
-Et craignez qu'à sa rage abandonnant vos jours,
-L'un ne soit sans vangeance, et l'autre sans secours.
-
-**** *book_ *id_IV02 *act_IV *date_1661 *creator_corneille
-
--*who_sinorix
-Madame, je sçay bien que vous devant la vie,
-Que sans vostre secours un lâche m'eust ravie,
-On auroit dû déja me voir à vos genoux
-Vous consacrer cent fois ce que je tiens de vous ;
-Mais j'ay crû dans l'ardeur du couroux qui m'enflame
-Vous devoir dérober les troubles de mon ame,
-Sans cesse, je l'advouë, il me vient animer,
-Et toute mon estude a peine à le calmer.
-
--*who_camma
-La cause en est trop juste où le crime est extrême,
-Mais souvent il est beau de se vaincre soy-mesme,
-Et d'attacher sa gloire à ce pompeux⁎ éclat
-Dont brille le pardon d'un indigne attentat⁎.
-
--*who_sinorix
-Madame, c'est à quoy j'avois sçeu me contraindre,
-A Sostrate déjà j'ostois tout lieu de craindre,
-Et faisant sur moy-mesme un genereux⁎effort⁎,
-Je laissois la Princesse arbitre de son sort ;
-Mais avec tant d'orgueil, mais avec tant d'audace
-Tous deux ont dédaigné que je leur fisse grace,
-Qu'il faut qu'un châtiment aussi juste que prompt
-Par le sang du perfide en repare l'affront.
-
--*who_camma
-Quoy, la pitié pour luy ne touche point vostre ame,
-Luy qui vous fut si cher, luy qu'enfin…
-
--*who_sinorix
-      Ah, Madame,
-Que vous concevez mal, en pressant ma pitié,
-Quelle horreur à l'outrage adjouste l'amitié !
-Le coup que de tout autre on verroit sans colere
-Nous arrache le cœur quand la main nous est chere,
-Et l'oubly ne pouvant jamais s'en obtenir,
-Ce cœur devient par là plus ardent à punir.
-Si j'ay chery Sostrate, aprés son parricide⁎
-J'aime mieux le voir mort que de le voir perfide,
-Et trouve plus de peine en ce rude combat
-A haïr un amy qu'à punir un ingrat.
-
--*who_camma
-Mais enfin à present que je me vois remise
-De ce trouble où tantost m'engageoit la surprise,
-J'oys sans cesse mon cœur me reprocher tout bas
-Que j'ay fait son peril, et ne l'en tire pas.
-Non que s'il s'agissoit encor de vostre teste
-A de plus vifs efforts⁎ cette main ne fust preste,
-Mais si vous tenez tout d'un genereux⁎ secours,
-Pour les vostres sauvez je demande ses jours.
-
--*who_sinorix
-Quel indigne party la pitié vous fait prendre !
-
--*who_camma
-Estant sans interest je voudrois m'en défendre,
-Mais quoy que vostre haine ait droit d'en murmurer,
-Ayant fait son malheur je dois le reparer.
-
--*who_sinorix
-Mais songez qu'évitant la peine qu'il merite…
-
--*who_camma
-Mais songez que c'est moy qui vous en sollicite,
-Et qu'aprés tant de vœux que j'ay peu dédaigner,
-S'ils sont ardents pour moy, c'est mal le témoigner.
-
--*who_sinorix
-S'ils sont ardents pour vous ? qu'on améne Sostrate.
-La vangeance déjà n'a plus rien qui me flate⁎,
-Mais qu'au moins un triomphe et si grand et si beau
-Sur vostre fier⁎ devoir m'en acquiere un nouveau,
-Faites à vostre tour que sa rigueur se rende,
-Vous me demandez grace, et je vous la demande ;
-Cessez de reculer, pour me voir trop soûmis,
-L'effet du doux espoir que vous m'avez permis.
-J'estonne⁎ mon respect, il tremble en ce que j'ose,
-Mais à qui donne tout vous devez quelque chose,
-Et mon couroux vaincu peut-estre a merité
-L'entier et prompt adveu⁎ de ma felicité.
-
--*who_camma
-Donc ces fortes raisons par vous mesme approuvées
-Sont chimeres en l'air que ma crainte a resvées ?
-J'ay montré ma foiblesse à leur trop déferer ?
-
--*who_sinorix
-Il suffisoit tantost⁎ de me faire esperer,
-Mais contre ce devoir et cette bienseance
-Qu'opposoit le scrupule à mon impatience,
-Le sang où ma vangeance a voulu renoncer
-Authorise l'hymen dont j'ose vous presser ;
-A ce prix seulement mon cœur vous l'abandonne.
-
--*who_camma
-C'est là ce grand pouvoir que vostre amour me donne ?
-Vous m'osez refuser quand j'ay crû ne devoir…
-
--*who_sinorix
-C'est blesser cét amour, j'en suis au desespoir,
-Mais contre les fureurs d'une fiere⁎ Princesse
-Dans ce juste refus ma gloire s'interesse,
-Et ne sçauroit souffrir⁎ que par ses attentats⁎,
-Elle m'ait fait trembler, et n'en soûpire pas.
-Il faut, si le Coupable échape à ma justice,
-Que demain vostre hymen me vange et la punisse,
-Et que le vain effort⁎ d'un coup si malheureux
-Luy coûte la douleur de m'avoir fait heureux.
-
-**** *book_ *id_IV03 *act_IV *date_1661 *creator_corneille 
-
--*who_sinorix
-Approche, et quoy qu'ait pû ta criminelle audace,
-Pour la seconde fois viens recevoir ta grace.
-Ce cœur que rien pour toy ne pouvoit plus toucher,
-En faveur de la Reine ose me l'arracher,
-Elle est entre ses mains, tu peux l'obtenir d'elle.
-
--*who_camma
-Est-ce me la donner qu'abuser de mon zéle,
-Et m'imposer des loix dont le fatal accord,
-Ou hazarde ma gloire, ou le livre à la mort ?
-
--*who_sostrate
 Ah, Madame, il se peut que ce choix vous arreste ?
 Mon destin est trop beau pour en estre inquiete,
 C'est en ternir l'éclat que de me secourir,
 Conservez vostre gloire, et me laissez mourir.
 
--*who_sinorix
-Quoy, traistre, jusqu'au bout obstiné dans ta rage
-L'effet de mes bontez te tiendra lieu d'outrage ?
-Ta grace t'est offerte, il est vray ; mais apprens
-Que c'est contre mes vœux que pour toy je me rends ;
-Que tout ce qu'ont d'horreur les plus affreux supplices
-Feroit à te punir mes plus cheres delices,
-Et que j'attacherois leur plus charmant transport⁎
-A goûter à longs traits le plaisir de ta mort.
-Aprés un tel adveu⁎ fuy tes fieres⁎ maximes,
-Fais encor vanité de voir punir tes crimes,
-Aux bontez de la Reine oppose tes refus.
-
--*who_camma
-Quoy, j'aurois fait pour luy des efforts⁎ superflus ?
-Ah, songez…
-
--*who_sinorix
-      Non, Madame, il y va de ma gloire,
-Souffrez à⁎ mon amour cette juste victoire ;
-Je sçay que resister lors que vous commandez
-C'est trahir le respect que vous en attendez,
-Mais je dois à mon rang pour punir la Princesse,
-Ou le sang d'un perfide, ou l'hymen que je presse.
-Si mon bonheur trop prompt a dequoy vous gêner⁎
-A son lâche destin daignez l'abandonner ;
-Il ne vaut pas, l'ingrat, que par reconnoissance,
-Vous vous fassiez pour luy la moindre violence,
-Ny qu'il coûte à ce cœur qu'ont charmé vos appas⁎
-Le pressant déplaisir⁎ de ne vous ceder pas.
-Mais enfin c'est en vain que l'amour m'y convie,
-Vostre main seule a droit de racheter la vie,
-Et vous pouvez choisir, si ce prix est trop haut,
-De monter sur le Trône, ou luy sur l'échafaut.
-C'est dequoy j'attendray la réponce certaine.
-Qu'on se tienne éloigné par respect pour la Reine.
-Je le laisse avec vous afin que ses advis,
-S'ils flatent⁎ vos souhaits, puissent estre suivis.
-
-**** *book_ *id_IV04 *act_IV *date_1661 *creator_corneille 
-
--*who_camma
-Sous quel voile trompeur le lâche se déguise !
-A me tyranniser sa gloire l'authorise,
-Quand il m'arrache l'ame, il agit par vertu ?
-Ah, Sostrate, Sostrate, à quoy me reduis-tu ?
-
--*who_sostrate
 A daigner, pour le prix de l'amour le plus rare,
 Avoüer mon destin de l'heur⁎ qu'il me prepare,
 Et laissant Sinorix dans son aveuglement,
 Honorer d'un soûpir la perte d'un Amant.
 
--*who_camma
-Tu dois estre content si ton erreur t'est chere,
-Ton amour l'a fait naistre, et je sçauray la taire,
-Tu le veux, j'y consents, elle aura son effet.
-
--*who_sostrate
 Ah, puisqu'il est ainsi, que je meurs satisfait !
 Madame…
 
--*who_camma
-      Quoy, mourir ? tu me crois assez lâche
-Pour te livrer au sort dont ta vertu m'arrache ?
-Si je cache l'abus qui t'expose à perir,
-C'est par la seule peur de te mal secourir.
-Le Tyran redoublant la rage qui l'anime
-De ton amour pour moy te pourroit faire un crime,
-Et dans son desespoir, sa fureur le pressant⁎,
-Confondre le coupable avecque l'innocent.
-Ainsi mon imprudence, à suivre cette envie,
-Du moins à ce peril exposeroit ta vie,
-Et quand je te la dois c'est à moy de trouver
-L'infaillible moyen de te la conserver.
-
--*who_sostrate
 Quel moyen où l'amour n'a point eu de puissance ?
 
--*who_camma
-Celuy que d'un Tyran m'offre la violence.
-
--*who_sostrate
 Quoy, Madame…
 
--*who_camma
-      Je tremble à me le proposer,
-J'en fremis, mais enfin il le faut épouser.
-
--*who_sostrate
 Luy contre qui tantost⁎ vous osiez entreprendre ?
 
--*who_camma
-Luy dont encor le sang me plairoit à répandre,
-Luy dont, si le hazard m'offroit un coup certain,
-Au peril de cent morts j'irois percer le sein ;
-Mais cette occasion si difficile à prendre,
-Tu me mets hors d'estat de la pouvoir attendre,
-Ta vie est en danger, et pour te secourir
-Il me faut faire plus mille fois que mourir.
-Il me faut consentir qu'un honteux hymenée
-A mon lâche Tyran joigne ma destinée,
-Il me faut violer les devoirs les plus saints,
-Ne me condamne point, c'est toy qui m'y contrains,
-C'est toy qui t'opposant à ma noble colere
-Me plonges dans un gouffre où tout me desespere,
-Où quoy que mes malheurs offrent à mes regards,
-Ce n'est qu'accablement, qu'horreur de toutes parts,
-Où d'un triste⁎ devoir déplorable victime
-Je connois, je deteste, et couronne le crime,
-Mais je raisonne en vain sur un point resolu,
-Il n'y faut plus penser, c'est toy qui l'as voulu.
-
--*who_sostrate
 Et bien, de tous ces maux où seul je vous expose
 Souffrez vous⁎ la douceur de voir punir la cause,
 Et ne m'enviez point la gloire d'une mort
 Qui de tant de malheurs affranchit vostre sort.
 Par ce profond respect dont l'asseurance offerte…
 
--*who_camma
-Moy, que si lâchement je consente à ta perte ?
-Que te devant le jour je t'en laisse priver ?
-
--*who_sostrate
 Helas, Madame helas ! pouvez-vous me sauver ?
 En l'estat où je suis ma mort est asseurée,
 Mon maistre et mon amour à l'envy l'ont jurée,
@@ -1998,25 +1901,6 @@ Madame, par pitié sauvez-moy de moy-mesme,
 Et ne remettez point à mes vives douleurs
 A contraindre ma main de finir mes malheurs.
 
--*who_camma
-Le dessein que je prens t'est un rude supplice,
-Je le sçay, mais toy-mesme en loüeras la justice,
-Puisque par sa rigueur je rens ce que je doy
-A ce qu'a fait ton zéle et pour et contre moy.
-A m'arrester le bras et m'immoler ta vie
-Tu m'as en mesme temps offencée et servie,
-Et je dois par l'hymen dont tu me vois presser⁎
-Te punir tout ensemble et te recompenser.
-Devant tout aux motifs de ta noble imposture,
-Il m'acquite vers toy par le jour qu'il t'asseure,
-Et m'ayant outragée à secourir ton Roy,
-Par l'horreur de me perdre il me vange de toy.
-Ainsi des deux costez il fait plus qu'on ne pense,
-En payant le service il repare l'offence,
-Et de tes jours sauvez te faisant un tourment,
-Au prix qui les rachete il joint le châtiment.
-
--*who_sostrate
 Quelle justice, helas, vostre haine authorise ?
 J'ay rompu, je l'advouë, une triste⁎ entreprise,
 Mais ce crime est-il tel que bien examiné
@@ -2026,34 +1910,11 @@ M'attire un châtiment qui n'a point de semblable,
 Et pour vous satisfaire en de si rudes coups
 La mort que je demande en est-elle un trop doux ?
 
--*who_camma
-Si la severité⁎ qu'exerce ma vangeance
-Paroist à ton amour au dessus de l'offence,
-Aussi, quoy que pour moy ton zéle⁎ ait entrepris,
-Tu vois que le service est au dessous du prix.
-C'est une illustre mort que ton amour affronte,
-Mais pour la détourner je me couvre de honte,
-Ton zéle⁎ à mon peril sacrifioit tes jours,
-Et j'immole ma gloire à celuy que tu cours.
-Pour toy je l'asservis au sort le plus infame,
-De mon Tyran pour toy j'ose me rendre femme,
-Deshonorer mon rang, obscurcir ma vertu.
-Sostrate, encor un coup, à quoy me reduis-tu ?
-
--*who_sostrate
 Mais vous mesme obstinée à me perdre, à vous nuire,
 A quoy, Madame, à quoy vous osez-vous reduire ?
 Au plus honteux projet vostre cœur se resout,
 Il le sçait, il le voit.
 
--*who_camma
-      Je vois tout, je sçais tout,
-Mais en vain de mon sort l'épouventable image
-Te laisse quelque espoir d'ébranler mon courage.
-Pour te sauver le jour l'effort⁎ est resolu,
-Je te l'ay déjà dit, c'est toy qui l'as voulu.
-
--*who_sostrate
 Dites, dites plustost que du Trône touchée
 Vostre ame à la vangeance enfin s'est arrachée,
 Et voit avec plaisir le supréme pouvoir
@@ -2076,186 +1937,42 @@ Je me pers, je m'égare, et dans mon desespoir
 Je ne puis écouter ny raison, ny devoir,
 Mon amour s'abandonne au torrent qui l'entraîne.
 
-**** *book_ *id_IV05 *act_IV *date_1661 *creator_corneille 
-
--*who_sostrate
 Ah, Madame, empeschez le dessein de la Reine,
 Trop injuste pour vous, trop aveugle pour moy,
 Pour me sauver la vie, elle épouse le Roy.
 
--*who_hesione
-On m'apprend à quel prix il t'est permis de vivre,
-Et je n'ay point douté de ce que je voy suivre.
-Le zéle est genereux⁎, et j'ay bien à rougir
-Qu'où mon cœur n'ose rien une autre vueille agir.
-L'effort⁎ que je refuse à ma reconnoissance
-Par sa seule pitié la Reyne s'y dispense⁎,
-Et pour sauver tes jours d'un arrest inhumain,
-Je n'offre que du sang, elle donne la main.
-D'un plus noble triomphe eut-on jamais la gloire ?
-
--*who_camma
-Il peut me coûter plus que vous ne voudrez croire.
-
--*who_hesione
-Comme de son éclat tout mon cœur est surpris,
-Je l'examine assez pour en sçavoir le prix.
-On veut perdre Sostrate, et quand je l'abandonne,
-Daigner monter au Trône et prendre une Couronne
-Pour l'arracher au sort dont il est combatu⁎,
-C'est l'effet d'une rare et sublime vertu.
-
--*who_camma
-Chacun dans ses malheurs est juge de la sienne,
-Mais, Princesse, aujourd'huy que rien ne vous retienne,
-Je ne déguise point ce que vous connoissez,
-Pour rompre mon hymen éclatez, agissez,
-Puisqu'il empesche seul un injuste supplice,
-Puisqu'il sauve Sostrate…
-
--*who_sostrate
       Ah, souffrez⁎ qu'il perisse,
 Qu'il remplisse en mourant la gloire de son sort.
 Madame, s'il se peut, obtenez-moy la mort,
 Empeschez l'injustice où se porte la Reine.
 
--*who_hesione
-Non, non, Sostrate, non, ton esperance est vaine,
-Lors que l'offre d'un Trône a droit de nous flater⁎,
-Quels qu'en soient les degrez, il est beau d'y monter.
-C'est par là qu'on s'asseure une illustre memoire.
-
--*who_camma
-Il est divers⁎ chemins qui ménent à la gloire.
-
--*who_hesione
-Y pretendre arriver par des moyens si bas,
-Ce sont de vos secrets qu'on ne penetre pas.
-
--*who_camma
-Je n'ay point d'autre choix dans celuy qu'on me laisse,
-Nommez-en les motifs injustice, bassesse,
-Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
-Je porte ma réponce, et n'écoute plus rien.
-
-**** *book_ *id_IV06 *act_IV *date_1661 *creator_corneille 
-
--*who_sostrate
 Madame… elle nous quitte. O cœur impitoyable !
 Pouvois-je craindre, helas ! un sort plus effroyable ?
 Princesse…
 
--*who_hesione
-      Va, c'est trop, quitte ce desespoir,
-Sostrate, ton amour a bien fait son devoir.
-Pour vaincre les malheurs dont je suis poursuivie
-Tu m'as aveuglement sacrifié ta vie ;
-Si les Dieux ont trahy ton espoir et le mien,
-N'en estant point garand, je ne t'impute rien,
-Calme ces déplaisirs⁎ à qui ta raison cede.
-
--*who_sostrate
 Ne me consolez point, mes maux sont sans remede,
 Et quand le Ciel s'obstine à me pousser à bout,
 Madame, c'est à moy de répondre de tout.
 
--*who_hesione
-Si pour t'obtenir grace aprés ton entreprise
-A l'hymen d'un Tyran la Reine s'authorise,
-C'est par là que les Dieux peut-estre ont resolu⁎
-De remettre en mes mains le pouvoir absolu.
-Tout le peuple en secret plaignant ma destinée
-De Sinorix pour moy souhaite l'hymenée,
-Et nous verrons du sang sans doute répandu
-S'il voit qu'elle partage un Trône qui m'est dû.
-Conserve-moy ton zele⁎, et pour heureux présage
-Voy ta Princesse ferme au milieu de l'orage.
-Adieu, je vais agir, cependant souviens-toy
-Que tu peux, si je regne, esperer tout de moy.
-
--*who_sostrate
 Quel espoir où je vois abysme sur abysme,
 Où les Dieux irritez, où la Reine… Ah, Sosime !
 
--*who_sosime
-Seigneur, si la pitié que j'ay de vostre sort…
-
--*who_sostrate
 Allons, et s'il se peut, qu'on me méne à la mort.
 
-**** *book_ *id_V01 *act_V *date_1661 *creator_corneille
-
--*who_sostrate
 Quoy, d'un si dur revers ma disgrace⁎ est suivie,
 Sosime, et malgré moy l'on me laisse la vie ?
 
--*who_sosime
-Seigneur, vous plaignez-vous quand cét illustre effort⁎
-Vous épargne l'horreur d'une honteuse mort ?
-Sinorix a donné sa vangeance à la Reine,
-Mais aprés ce triomphe obtenu sur sa haine,
-Ce qui suit, quoy que juste, estonnant⁎ vos desirs
-Vous contraindra sans doute à pousser des soûpirs.
-
--*who_sostrate
 Je sçay quel coup affreux la Fortune me garde,
 La Reine…
 
--*who_sosime
-      Ce malheur n'a rien qui la regarde,
-C'est à vostre amour seul qui s'offre à redouter.
-La Princesse tantost a voulu s'emporter ;
-Contre l'ambition d'une Reine infidelle,
-Peuple, a-t'elle crié, prendras-tu ma querelle⁎ ?
-C'est pour la couronner que me manquant de foy⁎
-Un Tyran a trahy la Fille de ton Roy.
-Par ces mots pleins d'ardeur allant de place en place
-Dans les cœurs les plus froids elle a mis de l'audace,
-Et les auroit contraints peut-estre d'éclater
-Si soudain Sinorix ne l'eust fait arrester.
-Dans son appartement il la tient prisonniere,
-Et comme on ne peut rien sur une ame si fiere⁎,
-Je crains que cét effort⁎ imprudemment tenté
-Ne le force à l'exil qu'il avoit arresté.
-
--*who_sostrate
 Mais la Reine, Sosime, à quand son hymenée ?
 
--*who_sosime
-La pompe⁎ vient, Seigneur, d'en estre terminée.
-
--*who_sostrate
 Quoy, c'en est déjà fait ? ah destins ennemis !
 La Reine est mariée, et les Dieux l'ont permis.
 Au moins, dy moy, Sosime, en cette rude atteinte
 Ce qu'elle a témoigné de douleur, de contrainte.
 C'est pour moy qu'à l'hymen son cœur violenté…
 
--*who_sosime
-Cessez, cessez, Seigneur, d'en estre inquieté.
-Dans les biens les plus grands que le Ciel nous envoye
-Jamais sur un visage on n'a veu plus de joye.
-Tandis que Sinorix donne ordre aux Factieux,
-Dans le Temple enfermée elle invoque les Dieux,
-Où si tost qu'il paroist, se voyant sans Rivale,
-Elle fait apporter la Coupe Nuptiale,
-Baise le sacré Vase, et s'approchant du Roy,
-Dieux, dit-elle, soyez les témoins de ma foy⁎.
-Là pour suivre nos loix le portant à la bouche,
-On lit dedans ses yeux le plaisir qui la touche,
-Et le Roy que possede un transport⁎ éclatant,
-Prend de sa main le vase, et l'imite à l'instant.
-Vers le grand Prestre alors l'un et l'autre s'avance,
-On voit croistre leur joye où leur bonheur commence,
-Et c'est-là qu'aussi-tost s'estant donnez la foy⁎
-L'hymen tout glorieux les unit sous sa loy.
-Jugez par là, Seigneur, si vous avez à craindre
-Que la Reine pour vous ait voulu se contraindre,
-Elle aspiroit au Trône, et par de si beaux nœuds⁎,
-En vous sauvant la vie, elle a remply ses vœux.
-Il est doux d'obliger⁎ quand on gagne un Empire.
-
--*who_sostrate
 Ah, Sosime, c'est trop, souffre⁎ que je respire,
 Si mes maux sont si grands laisse-moy l'ignorer,
 Et ne t'obstine point à me desesperer.
@@ -2272,27 +1989,10 @@ Peignez-moy bien l'horreur du mal qui me possede,
 La Reine est mariée, et pour finir mes jours
 Mon desespoir n'attend que ce triste⁎ secours.
 
--*who_sosime
-Que dites-vous, Seigneur, et que viens-je d'entendre ?
-
--*who_sostrate
 Ce qu'au Roy, ce qu'à tous il faut enfin apprendre,
 Dans les maux où le Ciel a voulu m'exposer,
 Qui n'espere plus rien n'a rien à déguiser.
 
-**** *book_ *id_V02 *act_V *date_1661 *creator_corneille
-
--*who_sinorix
-Tu parois encor, lâche, et quand ta perfidie
-Joint ta gloire soüillée à l'amitié trahie,
-Loin d'éviter mes yeux, je te vois fierement⁎
-Attendre tout l'éclat de mon ressentiment ;
-Mais ne croy plus pour toy que mon couroux l'exprime,
-Mon indignation t'abandonne à ton crime,
-Et quoy que ton audace aime à le soûtenir⁎,
-C'est en te dédaignant que je te veux punir.
-
--*who_sostrate
 Seigneur, puisqu'à ce point ma peine vous est chere,
 Aprenez que le Ciel cherche à vous satisfaire,
 Et que tous les tourments l'un sur l'autre amassez
@@ -2303,12 +2003,6 @@ Mille maux l'un de l'autre à l'envy renaissants
 Accablent ma raison, et confondent⁎ mes sens,
 Tout me nuit, tout me perd, tout me devient funeste.
 
--*who_sinorix
-Quoy, de tant de fierté⁎ c'est-là ce qui te reste,
-Et las à me braver de perdre tes efforts⁎,
-Tu ne crois plus honteux de ceder au remords ?
-
--*who_sostrate
 Non, Seigneur, au remords rien ne peut me résoudre,
 Quand vous me condamnez la gloire sait m'absoudre,
 J'ai montré quelque audace, et pour n'en point rougir
@@ -2339,229 +2033,8 @@ Il faut y consentir, et forcer⁎ mon devoir
 A vous laisser joüir de tout mon desespoir,
 Je l'estale à vos yeux, triomphez de ma peine.
 
--*who_sinorix
-C'est donc là d'où partoient les refus de la Reine ?
-Toûjours traistre, toûjours infidelle à ton Roy
-Tu détournois ses vœux quand ils panchoient vers moy.
-Je ne m'estonne⁎ plus si tes serments sans cesse
-Osoient de ton forfait affranchir la Princesse.
-Quoy qu'avec toy sa haine eust juré mon trépas
-Un interest plus fort armoit déja ton bras,
-Tu feignois par amour d'applaudir à sa rage
-Tandis qu'une autre ardeur eschauffoit ton courage,
-Et que l'heureux succez qui suivoit mes desirs
-Te pressoit dans mon sang d'estouffer tes soûpirs.
-Ainsi plus lâche encore qu'on ne pouvoit connoistre
-Tu trahissois ensemble et la Reine et ton Maistre,
-Puisque le coup fatal qu'elle a sçeu m'épargner,
-En me privant du jour, l'empeschoit de regner.
-
-**** *book_ *id_V03 *act_V *date_1661 *creator_corneille
-
--*who_sinorix
-Madame, sçavez-vous quelle esperance offerte
-Avoit poussé Sostrate à resoudre ma perte ?
-Son orgueil jusqu'à vous ayant porté ses vœux
-S'indignoit d'un hymen qui me rendoit heureux,
-Et ma mort…
-
--*who_camma
-      Je le sçay, mais, Sinorix, écoute,
-Il est d'autres secrets dont tu peux estre en doute,
-Et j'ay quelques clartez acquises par hazard
-Dont il est juste enfin que je te fasse part.
-Mon hymen, si j'en croy les transports de ta flame⁎,
-Faisoit l'unique bien qui pûst toucher ton ame,
-Et malgré tes soûpirs tant de fois repoussez
-Tes vœux de ce costez viennent d'estre exaucez.
-Ainsi le Ciel souscrit à quoy que tu pretendes,
-Je t'ay donné la main, tu regnes, tu commandes,
-Et tu ne vois plus rien dont la possession
-Irrite ton amour ou ton ambition ;
-Mais quand tout à l'envy répond à ton attente,
-Si l'on te voit content, je ne suis pas contente,
-Et mon triste⁎ devoir toûjours inquieté
-Me demande raison de ta félicité.
-Sinatus ennuyé⁎ d'un assez long veufvage
-Admira quelque éclat dont brilloit mon visage,
-Et d'un second hymen ayant pris le dessein,
-Son amour aussi-tost m'honora de sa main,
-Tu le sçais, et qu'il m'eut à peine couronnée
-Qu'un fatal accident trancha sa destinée,
-Sa mort fut impréveuë, et sans s'inquieter
-Au malheur de son âge on voulut l'imputer.
-Pour moy, que de ce coup surprit la promptitude,
-Je mis à l'averer ma plus pressante étude,
-Et découvris enfin, sans qu'on l'ait soupçonné,
-Que ce Roy malheureux mourut empoisonné.
-
--*who_sinorix
-Empoisonné, Madame ? ah, coupable entreprise !
-
--*who_camma
-Il n'est pas temps encore de montrer ta surprise,
-S'il t'est advantageux de la faire éclater,
-Ce que tu vas oüir la pourra mériter.
-Acheve cependant de me prester silence
-Du sort de Sinatus j'ay donc eu connoissance,
-Et l'horreur d'un forfait et si lâche et si noir
-Laisse mes sentimens aisez à concevoir.
-La plus pressante ardeur que pour punir un traistre
-La vangeance jamais dans un cœur ait fait naistre,
-Tout ce que peut la haine y joindre de soûtien⁎,
-Pour vanger son trépas se trouva dans le mien.
-A ses Manes sacrez un zele inviolable
-Me fit jurer soudain d'immoler le Coupable,
-Et le Ciel m'est témoin si dans ce triste⁎ cœur
-Rien égala jamais une si noble ardeur.
-Cependant de mon sort telle est la perfidie,
-Que quoy que cette ardeur ne soit point refroidie,
-Que sa mort de mes vœux soit l'objet le plus doux,
-Je n'ai pû m'affranchir⁎ d'en faire mon Espoux.
-
--*who_sinorix
-Quoy, Madame…
-
--*who_camma
-      Tu vois, t'expliquant l'entreprise,
-Si j'avois lieu d'abord d'arrester ta surprise,
-Et de dire, en parlant d'un poison odieux,
-Que ce qui le suivoit la meriteroit mieux ?
-
--*who_sinorix
-Ah, Madame…
-
--*who_camma
-      Non, non, Sinorix, tu t'abuses
-Si tu crois que je veüille entendre des excuses,
-A des vœux criminels tu t'es abandonné,
-Sinatus leur nuisoit, tu l'as empoisonné.
-
--*who_sinorix
-Pour asseurer sa flame⁎, et détruire ma gloire,
-C'est-là ce qu'un perfide ose vous faire croire ?
-
--*who_sostrate
 Moy, Seigneur ?
 
--*who_sinorix
-      Vous aimant, il a crû reüssir
-Si de quelque grand crime il pouvoit me noircir ?
-
--*who_camma
-C'est le connoistre mal ; pour un Maistre infidelle
-Je puis répondre, helas ! qu'il n'a que trop de zele,
-Et que si dans ma haine on pouvoit m'ébransler,
-Les soins⁎ qu'il en a pris l'auroient fait chanceler.
-C'est-là son déplaisir⁎ qu'avec impatience
-Il me voye aspirer sans cesse à la vangeance,
-Et ne puisse opposer qu'un inutile effort⁎
-A cette avidité de poursuivre ta mort.
-
--*who_sinorix
-Vous, la poursuivre ! vous, dont le secours propice
-Du coup qui me perdoit a rompu l'injustice !
-Vous, qui me dérobant aux fureurs d'un ingrat…
-
--*who_camma
-Va, ne t'abuse point sur ce noble attentat⁎,
-Et cesse à ma pitié, dans l'erreur qui te flate⁎,
-D'imputer un secours que tu dois à Sostrate.
-Quand ma haine te porte un poignard dans le sein
-C'est luy pour t'en sauver qui m'arreste la main,
-Trop fidelle Sujet il m'oste ma victime,
-Trop genereux⁎ Amant il prend sur luy mon crime,
-Et je ne l'ay souffert⁎ qu'afin de m'asseurer
-Une autre occasion de pouvoir conspirer.
-Comme l'hymen oblige à quelque confiance,
-Voilà dequoy j'ay crû te devoir confidence,
-C'est à toy là-dessus à te bien consulter.
-
--*who_sinorix
-Non, vous cherchez en vain à me faire douter.
-Les soupçons qu'en vostre ame on aime à faire naistre
-Font perir Sinatus par le crime d'un traistre,
-Sa mort rend de couroux vostre cœur embrasé,
-Et m'en croyant l'autheur vous m'auriez épousé ?
-
--*who_camma
-L'affront m'en fait rougir, l'affront m'en desespere,
-Mais puis que je l'ay fait, croy que je l'ay dû faire,
-Et tremble d'autant plus que dans ce desespoir
-Je sçay ta perfidie, tu connois mon devoir.
-C'est t'expliquer assez les projets de ma haine.
-
--*who_sinorix
-Pour les executer vous aurez peu de peine,
-Et la vie à mes vœux n'est pas un bien si doux
-Qu'il vaille le malheur d'estre haï de vous.
-De vostre hymen sur moy la gloire répanduë
-Commençoit à remplir leur plus vaste étenduë,
-Mais en le poursuivant comme un bonheur certain,
-J'ay cherché vostre cœur, et non pas vostre main.
-S'il aime, s'il s'obstine à croire l'imposture,
-Ordonnez que mon bras repare vostre injure⁎,
-Il est prest, et par luy tout mon sang répandu
-Sçaura…
-
--*who_camma
-      Non, mieux que toy je sçay ce qui t'est dû.
-Ma vangeance par là flateroit⁎ peu ma peine,
-Tu l'offres à l'amour, je la dois à la haine.
-Souffrir⁎ que ton remords me la fasse obtenir,
-C'est te rendre ta gloire, et non pas te punir.
-Il faut que ce couroux que je te laisse à craindre
-N'ait rien en te perdant qui me force à te plaindre,
-Et que le coup heureux qu'il refuse à ton bras
-Me vange de ton crime, et ne l'efface pas.
-
--*who_sinorix
-Quoy, ce parfait amour dont l'ardeur forte et tendre
-Contre la calomnie auroit dû me defendre,
-Cet hommage soûmis, ce respect dont jamais…
-
-**** *book_ *id_V04 *act_V *date_1661 *creator_corneille
-
--*who_phaedime
-Ah, Seigneur, les Mutins assiegent le Palais,
-Et chacun à hauts cris demandant la Princesse …
-
--*who_camma
-Voy par là que le Ciel avec moy s'interesse,
-De ma vangeance enfin secondant les projets
-Pour te chasser du Trône il arme tes sujets.
-Crains tout de leur revolte, et de l'ardeur soudaine
-Qu'a mise…
-
--*who_sinorix
-      Ah, je ne crains que vostre seule haine.
-Madame, au nom des Dieux daignez regler mon sort,
-Donnez moy vostre amour, ou m'accordez la mort,
-L'arrest à son defaut m'en sera favorable.
-Pourquoy le differer si je suis crû coupable ?
-Pourquoy n'ordonner pas qu'aux Manes d'un Heros…
-
--*who_camma
-Va, songe à tes Mutins, et me laisse en repos,
-Si le Trône t'est dû, cherche à n'en point descendre.
-
--*who_sinorix
-Pour vous le conserver il faut l'aller défendre,
-J'y cours, et pour dompter de lâches Factieux
-J'appelle icy sans peur la justice des Dieux ;
-Mais aprés le succez qu'elle m'offre infaillible
-Si l'abus rend toûjours vostre haine inflexible,
-Ce cœur qui ne voit rien de si rude à souffrir⁎
-Ne prend plus que de moy les ordres de mourir.
-
-**** *book_ *id_V05 *act_V *date_1661 *creator_corneille
-
--*who_camma
-Quoy, le peuple peut-estre en veut à ma personne
-Et dans ce grand peril Sostrate m'abandonne ?
-Arreste, j'ay besoin icy de ton secours.
-
--*who_sostrate
 Le Destin veut ma mort, il la presse, et j'y cours,
 La vouloir retarder dans l'ennuy⁎ qui m'accable
 C'est m'exposer encor à devenir coupable ;
@@ -2572,16 +2045,6 @@ Si je parle aprés eux je vais faire cent crimes,
 Ostez en le pouvoir à mon juste couroux,
 Et me laissez mourir sans me plaindre de vous.
 
--*who_camma
-Que l'on m'approche un siege. Il n'est plus temps, Sostrate,
-D'empescher contre moy que ce couroux n'éclate.
-Puisqu'on sçait ton amour, plains toy, condamne moy,
-Dy que l'ambition m'a fait trahir ma foy⁎.
-Si pourtant la raison éclairoit ta colere,
-Ce que tu viens d'oüir t'auroit dû satisfaire,
-Le sort de Sinorix n'est pas un sort trop doux.
-
--*who_sostrate
 Madame, il est haï, mais il est vostre époux.
 A la vangeance en vain le devoir vous entraîne,
 Ce titre malgré vous suspendra vostre haine,
@@ -2620,32 +2083,177 @@ Vous va mettre en estat de regner satisfaite,
 Heureux, s'il m'est permis, pour tromper mes malheurs,
 De vous dire en mourant, c'est pour vous que je meurs.
 
--*who_camma
-Tout t'est permis, Sostrate, et tu vois mon silence
-Souffrir⁎ de ta douleur l'entiere violence,
-Parle, accuse, condamne un projet important,
-Peut-estre l'heure est proche où tu seras content.
-
--*who_sostrate
 Où je seray content ? Et le puis-je, Madame,
 Dans l'affreux desespoir où vous voyez ma flame⁎ ?
 Tout l'augmente, et je fais cent efforts⁎ superflus…
 
-**** *book_ *id_V06 *act_V *date_1661 *creator_corneille 
-
--*who_sosime
-Ah, Madame, le Roy…
-
--*who_camma
-      Parle, et bien ?
-
--*who_sosime
-      Ne vit plus.
-
--*who_sostrate
 Quoy, de nos Factieux la troupe mutinée…
 
--*who_sosime
+Quoy…
+
+La Reine empoisonnée !
+
+      Ah, Phenice,
+Viste, à la secourir…
+
+Qu'aux lâchetez du Sort ce cœur vous abandonne !
+Que mes soins⁎, mes malheurs, tout soit perdu pour moy !
+
+O peu sensible amant ! elle meurt, et tu vis.
+Préviens, lâche, préviens…
+
+Que vous sert d'empescher un coup si necessaire ?
+Pour m'arrester le bras en de pareils ennuis⁎,
+Helas ! me sauvez-vous de la rage où je suis ?
+
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_phaedime
+
+C'est vous plaire, Seigneur, à croistre vostre peine,
+Que d'expliquer si mal les refus de la Reine,
+Qui peut-estre en secret brûlant⁎ déja pour vous
+N'ose encor par devoir vous prendre pour Espoux.
+Quelque éclat à ses yeux dont la Couronne brille,
+Elle est Vefve d'un Roy qui vous donnoit sa Fille,
+Et qui par vostre hymen luy faisoit éviter
+D'avoir avecque vous un Trône à disputer.
+Du peuple qui vous craint l'entier et prompt suffrage
+Vous en a fait sur elle emporter l'avantage,
+Et lors que tout l'Estat respecte en vous son Roy,
+Vous la laissez Sujette, et luy manquez de foy⁎.
+L'affront est grand, Seigneur, et quoy que dans sa haine
+Le nom de Belle-mere engage peu la Reine,
+Du moins l'honneur la force à prendre l'interest
+De la Fille d'un Roy qui la fit ce qu'elle est.
+Voila ce qui vous nuit, et vous nuira sans cesse,
+Si vos ordres enfin n'éloignent la Princesse.
+Ostez-luy cet obstacle, et vous verrez soudain
+Que son cœur adoucy vous répond de sa main.
+
+Mais luy-mesme à sa perte engagea vostre flame⁎,
+Il vous donnoit sa Fille, et vous aimiez sa femme,
+Et dans un sort si dur, la seule mort d'un Roy
+De ce fatal hymen dégageoit vostre foy⁎ ;
+Mais de ce crime en vain l'ombre vous embarrasse,
+Il n'en est point, Seigneur, que le Trône n'efface,
+Et dans quelques horreurs qu'on ait pû se porter,
+Pour estre absous de tout, il suffit d'y monter
+
+C'est beaucoup que du moins cette mort qui vous gêne⁎
+Soit toûjours un secret ignoré de la Reine,
+Et qu'à Sostrate seul l'ayant sçeu confier,
+Vous n'ayez point vers elle à vous justifier ;
+Mais comme enfin, Seigneur, Sostrate a de l'adresse,
+Devient-elle inutile auprés de la Princesse,
+Et ses soins⁎ n'ont-ils pû la faire balancer⁎
+Sur l'hymen où pour luy vous la voulez forcer⁎ ?
+
+Sostrate est genereux⁎, et jamais un vray zele
+Ne marquera pour vous une ame plus fidelle,
+Mais ce fatal amour qui l'accable aujourd'huy,
+Seroit peut-estre un crime à tout autre qu'à luy.
+D'un bel espoir trahy l'irreparable offence
+Sur vous de la Princesse attire la vangeance,
+Et pretendre à son cœur, c'est presser son couroux
+D'accepter une main qui la vange de vous.
+
+Je l'avois bien preveu, Seigneur, que la menace,
+Loin d'étonner⁎ sa haine, aigriroit⁎ son audace,
+Il falloit sans la voir en venir aux effets.
+
+      Voyez, Seigneur, que la Reine s'advance.
+
+Ce changement, Seigneur, n'offre rien qui m'étonne⁎,
+Je connois ce que peut l'éclat d'une Couronne,
+Et n'ay jamais douté, malgré son feint couroux,
+Que la Reine en secret ne fist des vœux⁎ pour vous.
+
+Non, non, pressez⁎, Seigneur, vous obtiendrez tout d'elle,
+Déja son fier⁎ devoir voudroit estre forcé.
+
+Sur un adveu⁎ si doux vous pouvez tout oser,
+Menacez, contraignez, rien ne luy peut déplaire.
+Mais puis-je m'expliquer sans estre temeraire ?
+Tout vous rit, tout vous flate⁎, et cependant, Seigneur,
+Je voy qu'un noir chagrin⁎ trouble vostre bonheur.
+
+De ces vaines frayeurs il vaut mieux vous defendre,
+Seigneur, qui contre vous oseroit entreprendre ?
+Vous mesme en le craignant cessez de vous trahir.
+La Princesse sans doute a droit de vous haïr ;
+Mais enfin, de regner son cœur toûjours avide
+Ne prend point contre vous le desespoir pour guide,
+Et tout ce grand éclat où l'enhardit⁎ son rang
+Aspire à vostre main, et non à vostre sang.
+
+Quoy, Sostrate, Seigneur, seroit si peu discret ?
+
+Je connois mon devoir et n'épargneray rien.
+
+Ah, Seigneur, les Mutins assiegent le Palais,
+Et chacun à hauts cris demandant la Princesse …
+
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosime
+
+Seigneur.
+
+Seigneur, si la pitié que j'ay de vostre sort…
+
+Seigneur, vous plaignez-vous quand cét illustre effort⁎
+Vous épargne l'horreur d'une honteuse mort ?
+Sinorix a donné sa vangeance à la Reine,
+Mais aprés ce triomphe obtenu sur sa haine,
+Ce qui suit, quoy que juste, estonnant⁎ vos desirs
+Vous contraindra sans doute à pousser des soûpirs.
+
+      Ce malheur n'a rien qui la regarde,
+C'est à vostre amour seul qui s'offre à redouter.
+La Princesse tantost a voulu s'emporter ;
+Contre l'ambition d'une Reine infidelle,
+Peuple, a-t'elle crié, prendras-tu ma querelle⁎ ?
+C'est pour la couronner que me manquant de foy⁎
+Un Tyran a trahy la Fille de ton Roy.
+Par ces mots pleins d'ardeur allant de place en place
+Dans les cœurs les plus froids elle a mis de l'audace,
+Et les auroit contraints peut-estre d'éclater
+Si soudain Sinorix ne l'eust fait arrester.
+Dans son appartement il la tient prisonniere,
+Et comme on ne peut rien sur une ame si fiere⁎,
+Je crains que cét effort⁎ imprudemment tenté
+Ne le force à l'exil qu'il avoit arresté.
+
+La pompe⁎ vient, Seigneur, d'en estre terminée.
+
+Cessez, cessez, Seigneur, d'en estre inquieté.
+Dans les biens les plus grands que le Ciel nous envoye
+Jamais sur un visage on n'a veu plus de joye.
+Tandis que Sinorix donne ordre aux Factieux,
+Dans le Temple enfermée elle invoque les Dieux,
+Où si tost qu'il paroist, se voyant sans Rivale,
+Elle fait apporter la Coupe Nuptiale,
+Baise le sacré Vase, et s'approchant du Roy,
+Dieux, dit-elle, soyez les témoins de ma foy⁎.
+Là pour suivre nos loix le portant à la bouche,
+On lit dedans ses yeux le plaisir qui la touche,
+Et le Roy que possede un transport⁎ éclatant,
+Prend de sa main le vase, et l'imite à l'instant.
+Vers le grand Prestre alors l'un et l'autre s'avance,
+On voit croistre leur joye où leur bonheur commence,
+Et c'est-là qu'aussi-tost s'estant donnez la foy⁎
+L'hymen tout glorieux les unit sous sa loy.
+Jugez par là, Seigneur, si vous avez à craindre
+Que la Reine pour vous ait voulu se contraindre,
+Elle aspiroit au Trône, et par de si beaux nœuds⁎,
+En vous sauvant la vie, elle a remply ses vœux.
+Il est doux d'obliger⁎ quand on gagne un Empire.
+
+Que dites-vous, Seigneur, et que viens-je d'entendre ?
+
+Ah, Madame, le Roy…
+
+      Ne vit plus.
+
 Non, Seigneur, apprenez la triste⁎ destinée.
 A peine pour punir leurs nouveaux attentats⁎
 Vers le lieu du tumulte il a fait quelques pas,
@@ -2678,63 +2286,63 @@ Il nomme encor la Reine, et ne peut plus rien dire,
 Il meurt, et sur ce bruit chacun de voix en voix
 Esleve la Princesse au Trône de nos Rois.
 
--*who_camma
-Enfin, Sostrate, enfin, grace à mon hymenée,
-Voicy pour mes desirs une illustre journée,
-Ma vangeance est remplie, et je meurs sans regret.
-
--*who_sostrate
-Quoy…
-
--*who_camma
-      Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,
-Dy qu'il m'a fait tahir une amour⁎ sans égale ;
-J'avois empoisonné la coupe nuptiale,
-Et n'ay donné ma foy⁎ que sur le doux espoir
-D'en obtenir la mort que j'ay fait recevoir.
-
--*who_sostrate
-La Reine empoisonnée !
-
--*who_phenice
-      Ah, Madame !
-
--*who_sostrate
-      Ah, Phenice,
-Viste, à la secourir…
-
--*who_camma
-      Tu me fais injustice,
-Si la douceur de vivre eust flaté⁎ ma raison
-J'aurois sçeu prévenir la force du poison,
-Laisse agir son pouvoir, le Sort ainsi l'ordonne.
-
--*who_sostrate
-Qu'aux lâchetez du Sort ce cœur vous abandonne !
-Que mes soins⁎, mes malheurs, tout soit perdu pour moy !
-
--*who_camma
-Je n'ay rien oublié de ce que je te doy,
-Mais dans l'estat honteux où de peur de te nuire
-Par l'hymen d'un Tyran il m'a falu reduire,
-Quand j'en ay dans mon cœur le reproche à souffrir⁎
-Il n'est point en mon choix de vivre ou de mourir.
-C'est à moy d'effacer une tache si noire,
-J'ay rachepté ta vie aux dépens de ma gloire,
-Et tu dois consentir qu'aprés ce grand secours
-Je rachete ma gloire aux dépens de mes jours.
-Vy content, si pour vivre et soulager ta peine
-Il te suffit enfin de sçavoir que ta Reine…
-Qu'on m'emporte, je meurs, et mes sens interdits⁎…
-
--*who_sostrate
-O peu sensible amant ! elle meurt, et tu vis.
-Préviens, lâche, préviens…
-
--*who_sosime
       Seigneur, qu'allez-vous faire ?
 
--*who_sostrate
-Que vous sert d'empescher un coup si necessaire ?
-Pour m'arrester le bras en de pareils ennuis⁎,
-Helas ! me sauvez-vous de la rage où je suis ?
+
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
+
+Si dans vos déplaisirs⁎ la vangeance vous flate⁎,
+Pour en jouïr, Madame, il est temps qu'elle éclate,
+Sinorix menaceant, rien n'est à négliger.
+
+Pour bien l'executer, si vous m'en voulez croire,
+Il faut que la Princesse en partage la gloire ;
+Comme elle ignore encore le crime du poison,
+Vos mépris, d'un Tyran luy font en vain raison,
+Elle les prend pour feinte, et croyant que dans l'ame
+La seule ardeur du Trône est ce qui vous enflame,
+De ces jaloux soupçons l'impatiente aigreur⁎
+Vous fait souffrir assez pour la tirer d'erreur,
+Vous sçavez sa fierté⁎.
+
+Mais Sostrate l'aimant, peut-estre que par elle
+Il vous seroit aisé d'en corrompre le zele.
+Dans ce que sur sa foy⁎ Sinorix prend d'appuy,
+Sostrate pouvant tout, on ne peut rien sans luy,
+Il vous faut l'acquerir, et l'amour qui le flate⁎
+Le peut seul obliger…
+
+Vous le sçavez, Madame ?
+
+Mais, Madame, pour luy quels sont vos sentiments ?
+
+Qu'on dresse l'appareil⁎ d'un funeste supplice,
+Et que c'est par sa mort qu'un Tyran inhumain
+Punit ce fier⁎ refus de luy donner la main.
+
+Enfin l'effet est prest de suivre la menace.
+Jamais tant de fureur ne se peut concevoir
+Qu'en tous ses sentimens Sinorix en fait voir.
+Indigné de l'orgueil que montre la Princesse,
+Il éclate, il foudroye⁎, il s'emporte sans cesse,
+Et le rang qu'en son cœur Sostrate a sçeu tenir
+Semble augmenter sa rage à le vouloir punir.
+
+Vous découvrir, Madame ? ah, que voulez-vous faire ?
+
+Comme il faudra pour luy que vostre haine éclate,
+Vous l'allez irriter sans secourir Sostrate.
+N'ayant rien dit d'abord, vous luy ferez penser
+Que vous n'avez dessein que de l'embarasser,
+Et je crains que piqué⁎ de voir par là vostre ame
+Desadvoüer l'espoir dont il flate⁎ sa flame⁎,
+Il ne haste une mort dont par quelque interest
+Il peut songer encor à suspendre l'arrest.
+
+Le voicy qui paroist ; avant que rien⁎ éclate
+Songez à Sinatus, jettez l'œil sur Sostrate,
+Et craignez qu'à sa rage abandonnant vos jours,
+L'un ne soit sans vangeance, et l'autre sans secours.
+
+      Ah, Madame !
+

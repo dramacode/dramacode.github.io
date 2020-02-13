@@ -1,6 +1,6 @@
 ---
 identifier: discret_nocesdevaugirard  
-creator: Discret, L. C.  
+creator: Discret, L. C. ; Georges Forestier.  
 date: 1638  
 title: Les Noces de Vaugirard, ou Les Naifvetez champestres. Pastorale  
 ---

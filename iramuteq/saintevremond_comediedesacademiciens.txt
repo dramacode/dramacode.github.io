@@ -1,65 +1,170 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_serisay
 
--*who_saintamant
-Faret, qui ne rirait de notre Académie ?
-A-t-on vu de nos jours une telle infamie ?
-Passer huit à dix ans à reformer six mots !
-Pardieu, mon cher Faret, nous sommes de grands sots !
+Qu'avez-vous, Monseigneur ? Je vous vois tout ému.
 
--*who_faret
-Tant sots qu'il vous plaira : mais les premiers de France
-Sont les admirateurs de notre suffisance.
-Quoi ! Trouvez-vous mauvais que de pauvres auteurs
-Devant les ignorants s'érigent en docteurs ?
-S'ils peuvent se donner du crédit, de l'estime,
-L'erreur des abusés n'est pas pour eux un crime.
-Après tout, où trouver de ces rares savants,
-Dont le nom immortel percera tous les ans ?
-Si pour l'Académie il faut tant de science,
-Vous et moi pourrions bien ailleurs prendre séance.
+Mais, quelle est cette injure, et d'où vient tant de mal ?
 
--*who_saintamant
-Oui, mais je n'aime que monsieur de Godeau,
-Excepté ce qu'il fait, ne trouve rien de beau ;
-Qu'un fat de chapelain aille en chaque ruelle,
-D'un ridicule ton réciter sa PUCELLE ;
-Ou, que dur et contraint en ses vers amoureux,
-Il fasse un sot portrait de l'objet des ses voeux ;
-Que son esprit stérile et sa veine forcée
-Produisent de grands mots qui n'ont sens ni pensée.
-Je voudrais que Gombaud, L'Estoile et Colletet,
-En prose comme en vers eussent un peu mieux fait ;
-Que des "Amis rivaux" BoisRobert ayant honte,
-Revint à son talent de faire bien un conte.
-Enfin...
+Modérez, Colletet, modérez ce courroux.
+Offenser un prélat à qui l'on doit hommage,
+C'est d'un homme insensé faire le personnage.
 
--*who_faret
-      Vous avez tort de mépriser Godeau ;
-Il a l'esprit fertile, et le tour assez beau :
-Tout le défaut qu'il a, soit en vers, soit en prose,
-C'est qu'en trop de façons il dit la même chose.
-L'Estoile fait des vers avec le Cardinal :
-Colletet est bon homme, et n'écrit pas trop mal ;
-Bois-Robert est plaisant autant qu'on saurait l'être ;
-Il s'est assez bien mis dans l'esprit de son maître ;
-À tous ses madrigaux il donne un joli tour,
-Et feraient des leçons aux Grecs de leur amour.
-Baudoin fait des vers au-dessous des images,
-Mais "Davila" traduit est un de ses ouvrages.
-Gombault, pour un châtré, ne manque pas de feu...
-J'entends quelqu'un qui monte ; arrêtons nous un peu :
-Je commence à le voir ; c'est l'Évêque de Grasse.
+Nous sommes tous contents ; la discorde est finie,
+Et la paix régnera dans notre compagnie :
+Au reste, l'heure approche ou se doit terminer
+La réforme des mots que nous allons donner,
+Et par qui nous aurons la gloire sans seconde,
+D'établir le français en tous les lieux du monde.
 
--*who_saintamant
-Il faut se retirer, et lui quitter la place :
-Nous reviendrons tantôt. Allons, mon cher Faret,
-Trouver, proche d'ici, quelque bn cabaret.
+Donc, pour peu de temps, allons quelqu'autre part.
 
-**** *book_ *id_I02 *act_I *date_(non
+Vous attendiez ici cette heure fortunée
+Où la réforme enfin doit être terminée.
 
--*who_godeau
+Nous saurons mépriser de sots et vains murmures.
+
+Et de sa haine encore quel est le fondement ?
+
+Monsieur le Chancellier calmera son courroux.
+
+Ce n'est pas d'aujourd'hui qu'on voit cette injustice.
+
+Eh ! Pour l'amour de moi, finissez la querelle :
+Soyons, soyons unis d'une amitié fidèle.
+Encore, Monsieur Silhon, de quoi vous plaignez-vous ?
+
+Je vois venir à nous la Sibylle Gournai !
+Quel supplice, bon Dieu, m'avez-vous ordonné !
+
+Baissez-vous, Boisrobert, et ramassez sa dent.
+
+Allez-vous-en ailleurs faire votre harangue.
+
+"Tout ainsi" que l'esprit est vague et "contournable".
+De même le discours doit être variable.
+Les termes ont le sort qu'on voit au genre humain ;
+Un mot vit aujourd'hui, qui périra demain.
+L'usage parmi nous est fort "ambulatoire".
+
+Porchères semble avoir dessein de nous parler.
+
+Vous nous voyez pensifs, mornes et taciturnes,
+De perdre l'intendant, de nos "Plaisirs nocturnes" ;
+Et vous ferez savoir, au muet orateur
+"Des affaires d'État", le fond de notre cour.
+Nous regrettons beaucoup un si grand personnage,
+Et ne suivrons pas moins notre important ouvrage.
+
+Nous sommes satisfaits de vos stances bacchiques,
+Et vous êtes reçus Buveurs Académiques.
+Mais de peur de vieillir à réformer les mots,
+Nous allons travailler. Laissez-nous en repos ;
+La chose qui se traite est assez d'importance.
+
+Enfin, ils sont sortis. Sans tarder davantage,
+Réformons les défauts que l'on trouve dans le langage,
+Et d'un style trop vieux, faisons-en un nouveau.
+Vous, parlez le premier, docte et sage Godeau.
+
+Vous êtes trop modeste ; et votre dignité...
+
+On ne saurait avoir aucune jalousie.
+
+      Parlez discrètement ;
+Vous, Monsieur de Godeau.
+
+C'est assez disputé. Messieurs, asseyez-vous :
+Que quelqu'un succède à l'Évêque de Grasse ;
+Parlez, vous, Chapelain, sans user de préface.
+
+En matière d'État, vous savez que les rois
+N'ôtent pas tout d'un coup les anciennes lois ;
+De même dans les mots, ce n'est pas être sage,
+Que d'ôter pleinement ce qu'approuve l'usage.
+
+Que dira Colletet ?
+
+Grâce à Dieu, Compagnons, la divine assemblée
+A si bien travaillé, que la langue est réglée.
+Nous avons retouché ces durs et rudes mots,
+Qui semblaient introduits par les barbares Goths ;
+Et s'il n'en reste aucun en faveur de l'usage,
+Il sera désormais un méchant personnage.
+OR, qui fit l'important, déchu de tous honneurs,
+Ne pourra plus servir qu'à de vieux raisonneurs.
+COMBIEN QUE, POUR CE QUE, sont un son incommode,
+Et D'AUTANT et PARFOIS ne sont plus à la mode.
+IL CONSTE, IL NOUS APPERT, sont termes de barreau ;
+Mais le plaideur français aime un air plus nouveau.
+IL APPERT était bon pour Cujas et Barthole ;
+IL CONSTE ira trouver la Parlement de Dôle,
+Où, malgré sa vieillesse, il se rendra commun ;
+Par les graves discours de l'Orateur Le Brun.
+Du pieux Chapelain la bonté paternelle
+Peut garder son tombeau pour sa propre PUCELLE.
+Aux stériles esprits, dans leur fade entretien,
+On permet À RAVIR, lequel n'exprime rien.
+JADIS est conservé par respect pour Malherbe.
+Dans l'Ode il a marché, JADIS, grave et superbe ;
+Et de là s'abaissant aux saveurs de Scarron,
+Il a pris l'air burlesque et le comique ton ;
+Mais il demeure exclu du discours ordinaire :
+Vieux JADIS, c'est pour tout ce que l'on peut faire.
+Il faudra modérer cet indiscret POURQUOI,
+Et révérer le CAR, pour l'intérêt du Roi.
+En toutes nations la coutume est bien forte ;
+On dire cependant que l'on POUSSE LA PORTE.
+Nous souffrons NÉANMOINS; et craignons le Palais,
+Nous laissons NONOBSTANT en repos pour jamais.
+Qu'en milieu des cités, la vaine COTTERIE
+Au prodigue CADEAU soit toujours assortie :
+Et que dans le repos, ainsi que dans l'amour,
+Ils demeurent bourgeois éloignés de la Cour.
+Auteurs, mes Compagnons, qui réglez le langage,
+Avons-nous assez fait ? En faut-il davantage ?
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_desmarets
+
+Je ne vois point ici Saint-Amant ni Faret :
+Que sont-ils devenus ?
+
+Ils sont au cabaret ! Messieurs, quelle impudence !
+Vous voyez parmi nous un CHANCELIER DE FRANCE,
+Qui vient de son logis en ce méchant quartier,
+Sachant bien le respect que l'on doit à son métier ;
+Et ces vieux débauchés, au mépris de la gloire,
+Lorsque nous travaillons, font leur plaisir de boire !
+
+Silhon s'oppose enfin.
+
+Aujourd'hui prose et vers sont une même chose.
+
+Que deviendrait sans CAR l'autorité du Roi ?
+
+Je vous connais Gombaud ; vous êtes hérétique,
+Et partisan secret de toute République.
+
+Du CAR viennent des lois : sans CAR, pour d'Ordonnance ;
+Et ce ne serait plus que désordre et licence.
+
+Un faiseur de romans, père de POLEXANDRE,
+À corriger les fous n'a pas droit de prétendre.
+
+Puisque CAR est sauvé laissons le reste en paix,
+Et faisons une loi qui demeure à jamais.
+« Les Auteurs assemblés pour régler le langage,
+Ont enfin décidé dans leur aréopage :
+Voici les mots soufferts, voici les mots cassés... »
+Monsieur de Serisay, c'est à vous : prononcez.
+
+À ce divin arrêt, des arrêts le plus beau,
+Je m'en vais tout à l'heure apposer le grand sceau.
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_godeau
+
 Et quoi ! Chers nourrissons des filles de Mémoire,
 Qui sur les temps futurs obtiendrez la victoire ;
 Beau mignons de Pallas, vrais favoris des Dieux ;
@@ -70,51 +175,21 @@ Mais voici Colletet qui hâte un peu le pas ;
 Je l'ai toujours connu sobre dans ses repas.
 Bonjour, cher Colletet.
 
--*who_colletet
-      Grand Évêque de Grasse,
-Dites-moi, s'il vous plaît, comme il faut que je fasse.
-Ne dois-je pas baiser votre sacré talon ?
-
--*who_godeau
 Nous sommes tous égaux, étant fils d'Apollon.
 Levez-vous Colletet.
 
--*who_colletet
-      Votre magnificence
-Me permet, Monseigneur, une telle licence.
-
--*who_godeau
 Rien de saurait changer le commerce entre nous :
 Je suis évêque ailleurs, ici Godeau pour vous.
 
--*who_colletet
-Très révérend Seigneur, je vais donc vous complaire.
-
--*who_godeau
 Attendant nos Messieurs, que nous faudra-t-il faire ?
 
--*who_colletet
-Je suis prêt à obéir à votre volonté.
-
--*who_godeau
 Parlons comme autrefois, avecque liberté.
 Vous savez, Colletet, à quel point je vous aime.
 
--*who_colletet
-Seigneur, votre amitié m'est un honneur extrême.
-
--*who_godeau
 Oh bien, seul avec vous ainsi que je me vois,
 Je vais prendre le temps de vous parler de moi.
 Avez-vous vu mes vers ?
 
--*who_colletet
-      Vos vers ! Je les adore.
-Je les ai lus cent fois, et je les lis encore ;
-Tout en est excellent, tout est beau, tout est net,
-Exact et régulier, châtié tout-à-fait.
-
--*who_godeau
 Manquai-je en quelque endroit à garder la césure ?
 Y peut-on remarquer une seule hiature ?
 Suis-je par scrupuleux à choisir les mots ?
@@ -124,152 +199,44 @@ N'est si bien observé nulle part, que je pense.
 Colletet, je me loue, il le faut avouer ;
 Mais c'est fort justement que je me puis louer.
 
--*who_colletet
-Vous êtes de ceux-là qui peuvent dans la vie
-Mépriser tous les traits de la plus noire envie :
-Vous n'aviez pars besoin de votre dignité,
-Pour vous mettre à couvert de la malignité.
-
--*who_godeau
 On se flatte souvent : mais, si je ne m'abuse,
 S'attaquer à Godeau, c'est se prendre à la Muse :
 Et le plus envieux se verrait transporté,
 S'il lisait une fois mon "Benedicite"
 Ô l'excellent ouvrage !
 
--*who_colletet
-      Ô la pièce admirable !
-
--*who_godeau
 Chef d'oeuvre précieux !
 
--*who_colletet
-      Merveille incomparable.
-
--*who_godeau
 Que ne peut-on désirer après un tel effort ?
 
--*who_colletet
-Qui n'en sera content, aura, ma foi, grand tort.
-Mais, sans parler de moi trop à son avantage,
-Suis-je pas, Monseigneur, assez grand personnage ?
-
--*who_godeau
 Colletet, mon ami, vous ne fait pas mal.
 
--*who_colletet
-Moi, je prétends traiter tout le monde d'égal,
-En matière d'écrits : le bien est autre choses ;
-De richesse et de rang la fortune dispose.
-Que pourriez-vous encore reprendre dans mes vers ?
-
--*who_godeau
 Colletet, vos discours sont obscurs et couverts.
 
--*who_colletet
-Il est certain que j'ai le style magnifique.
-
--*who_godeau
 Colletet parle mieux qu'un homme de boutique.
 
--*who_colletet
-Ah ! Le respect m'échappe. Et mieux que vous ainsi.
-
--*who_godeau
 Parlez bas, Colletet, quand vous parlez ainsi.
 
--*who_colletet
-C'est vous, Monsieur Godeau, qui me faites outrage.
-
--*who_godeau
 Vous voulez me contrainte à louer votre ouvrage ?
 
--*who_colletet
-J'ai tant loué le vôtre !
-
--*who_godeau
       Il le méritait bien.
 
--*who_colletet
-Je le trouve fort plat, pour ne vous celer rien.
-
--*who_godeau
 Mais vous en parlez mal, vous êtes en colère.
 
--*who_colletet
-Si j'en ai dit du bien, c'était pour vous complaire.
-
--*who_godeau
 Colletet, je vous trouve un gentil violon.
 
--*who_colletet
-Nous sommes tous égaux, état fils d'Apollon.
-
--*who_godeau
 Vous, enfant d'Apollon ? Vous n'êtes qu'une bête.
 
--*who_colletet
-Et vous, Monsieur Godeau, vous me rompez la tête.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_serisay
-Qu'avez-vous, Monseigneur ? Je vous vois tout ému.
-
--*who_godeau
 Colletet m'insulter ! Qui l'aurait jamais cru ?
 
--*who_colletet
-Traiter un vieil auteur avec cette infamie,
-C'est affronter en moi toute l'Académie.
-
--*who_serisay
-Mais, quelle est cette injure, et d'où vient tant de mal ?
-
--*who_colletet
-"Colletet, mon ami, vous ne faites pas mal ;
-Vous parlez un peu mieux qu'un homme de boutique,"
-Et mieux que vous, Godeau ; car, enfin, je m'explique
-Et notre Directeur le saura comme vous.
-
--*who_serisay
-Modérez, Colletet, modérez ce courroux.
-Offenser un prélat à qui l'on doit hommage,
-C'est d'un homme insensé faire le personnage.
-
--*who_colletet
-Je sais bien respecter Godeau comme prélat ;
-Mais Godeau comme auteur, je le trouve fort plat.
-
--*who_godeau
 Ma colère se passe ; et je veux, sans murmure,
 En prélat patient endurer cette injure.
 
--*who_colletet
-Moi, je veux recevoir la satisfaction
-Du tort qu'a pu souffrir ma réputation.
-Ô, d'un humble prélat patience parfaite !
-Il parle d'endurer l'injure qu'il a faite.
-Pardonner à des gens que l'on a maltraités,
-Ce sont du bon Godeau les générosités.
-
--*who_godeau
 Hé bien, cher Colletet, je ferai davantage ;
 Vous serez reconnu pour un grand personnage.
 Soyons, je vous conjure, amis de bonne foi,
 Et vous saurez écrire et parler mieux au moi.
 
--*who_colletet
-Ordonnez, Monseigneur, ce qu'il faut que je fasse ;
-J'ai plus failli que vous, et je demande grâce.
-Que partout on exalte et partout soit chanté
-De ce divin prélat le benedicite.
-Ô l'ouvrage excellent : Ô pièce admirable !
-Chef d'oeuvre précieux ! Merveille incomparable !
-Que partout on exalte, et partout soit chanté
-De ce divin prélat le BENEDICITE.
-
--*who_godeau
 Qu'en tous lieux on exalte, qu'en tous lieux on chante
 De notre Colletet "La Cane barbotante" ;
 Ces beaux vers que le temps ne saurait effacer,
@@ -279,79 +246,73 @@ Du canard amoureux la Vénus aquatique,
 Qu'au sens de Richelieu le Roi ne pourrait pas
 De tout l'or du royaume en payer les appas.
 
--*who_serisay
-Nous sommes tous contents ; la discorde est finie,
-Et la paix régnera dans notre compagnie :
-Au reste, l'heure approche ou se doit terminer
-La réforme des mots que nous allons donner,
-Et par qui nous aurons la gloire sans seconde,
-D'établir le français en tous les lieux du monde.
+Qui croirait, Monseigneur, que ces enchanteresses,
+Que les neuf belles soeurs, nos divines maîtresses,
+Vinssent ici flatter nos esprits et nos sens,
+Si vous n'aviez aimé leurs charmes innocents ?
 
--*who_colletet
-Monsieur le Chancelier ne doit venir que tard.
+      Ils sont au cabaret.
 
--*who_serisay
-Donc, pour peu de temps, allons quelqu'autre part.
+Je vois entre Faret suivi de Saint-Amant.
 
-**** *book_ *id_I04 *act_I *date_(non
+C'est m'obliger beaucoup ; et cette déférence
+Serait dûe à quelqu'autre avec plus d'apparence.
 
--*who_porcheres
-Illustre Colomby, vrai cousin de Malherbe,
-De ton mérite seul, glorieux et superbe ;
-Parmi tous les auteurs, en voit-on aujourd'hui
-Qui puissent approcher ou de vous, ou de lui ?
+Je reçois cet honneur sans l'avoir mérité ;
+Je le dois purement à votre courtoisie.
 
--*who_colomby
-Malherbe ne vit plus, Bertaut n'est plus au monde ;
-D'ignorance et d'erreur toute le terre abonde.
+Je dirai donc, Messieurs, qu'il est très important.
+D'ôter de notre Langue OR, POURCE QUE, D'AUTANT ;
+C'est là mon sentiment. Vous me voyez attendre
+Que quelqu'Émulateur s'apprête à les défendre.
 
--*who_porcheres
-Desportes a subi notre commun destin :
-Passerat a vécu ; j'ai vu mourir Rapin :
-Et c'étaient des auteurs dont l'illustre génie
-Aurait pu faire honneur à notre compagnie.
+      Je dis premièrement,
+Que ces mots sont usés, qu'ils tombent de vieillesse ;
+Et d'ailleurs il s'y trouve une grande rudesse.
 
--*who_colomby
-Vous savez que j'avais auprès du Potentat
-La charge d'Orateur des affaires d'État.
+Le premier sent l'école et tient trop du pédant ;
+Et tous ont trop vécu.
 
--*who_porcheres
-Et vous n'ignorez pas que j'eus dans la régence
-Des "Nocturnes plaisirs" le suprême intendance.
 
--*who_colomby
-Or, n'étant point payé de mes appointements.
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gombaud
 
--*who_porcheres
-Détrompé que je suis de tous amusements.
+Qu'à dire des chansons qui vantent la liqueur
+Dont le poète Bacchus réjouit votre cour.
 
--*who_colomby
-Je fais faire leçon aux gens de nos provinces
-Du peu de gain qu'on fait au service des Princes.
+Je dis que la coutume assez souvent trop forte,
+Fait dire improprement que l'on "ferme la porte".
+L'usage tous les jours autorise des mots,
+Dont on se sert pourtant assez mal à propos.
+Pour avoir moins froid à la fin décembre,
+On va "pousser la porte", et l'on "ferme sa chambre".
 
--*who_porcheres
-J'abandonne la Cour, et vais dans chaque lieu
-Louer la Reine et blâmer Richelieu.
+Beau titre que le CAR, au suprême pouvoir,
+Pour prescrire aux sujets la règle et le devoir !
 
--*who_colomby
-Aux auteurs assemblés prenez le soin de dire
-Que, las de mes emplois, enfin je me retire.
+Je suis fort bon sujet, et le serai toujours ;
+Prêt de mourir pour CAR, après un tel discours.
 
--*who_porcheres
-C'est la forme ordinaire : et, quiconque a quitté,
-Leur a fait en quittant cette civilité.
+Je demande pardon, si trop mal à propos,
+J'ai parlé contre un mot qui maintient le repos.
 
--*who_colomby
-Vous direz de ma part, sans aucune autre forme,
-Qu'au lieu de réformer les mots, je me reforme.
 
--*who_porcheres
-Je traiterai la chose un peu moins durement,
-Et leur ferai pour moi le même compliment.
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gomberville
 
-**** *book_ *id_II01 *act_II *date_(non
+Que ferons-nous, Messieurs, de CAR et de POURQUOI ?
 
--*who_chapelain
+Le Roi sera toujours ce que le Roi doit être,
+Et ce n'est pas un mot qui le rend notre maître.
+
+L'effort de votre esprit en chose imaginaire,
+Vous rendra, Desmarets, un grand visionnaire.
+Le POÈTE, le VAILLANT, le RICHE, l'AMOUREUX,
+Feront de leur auteur un aussi grand fou qu'eux.
+
+Et le POURQUOI, Messieurs ?
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelain
+
 Tandis que je suis seul, il faut que je compose
 Quelqu'ouvrage excellent, soit en vers, soit en prose.
 La prose est trop facile, et son bas naturel
@@ -473,197 +434,18 @@ Qu'un visage ici bas en soleils le surmonte.
 J'achève heureusement : il me fallait finir ;
 Aussi bien nos auteurs commencent à venir.
 
-**** *book_ *id_II02 *act_II *date_(non
-
--*who_serisay
-Vous attendiez ici cette heure fortunée
-Où la réforme enfin doit être terminée.
-
--*who_chapelain
 Depuis plus de huit ans nous attendons ce jour
 Où doit être réglé tout langage de Cour.
 Mais que les ignorants vont nous dire d'injures !
 
--*who_serisay
-Nous saurons mépriser de sots et vains murmures.
-
--*who_boisrobert
-Nous allons bientôt voir un de nos mécontents
-Résolu de se plaindre et de nous et du temps.
-
--*who_chapelain
 C'est Silhon irrité contre l'Académie,
 Et prêt à la traiter de mortelle ennemie.
 
--*who_serisay
-Et de sa haine encore quel est le fondement ?
-
--*who_chapelain
 Nous réformons un nom propre au raisonnement,
 Il laissera sans « OR » tous discours politiques ;
 Et n'écrira jamais des affaires publiques.
 Silhon est violent, s'il parle contre nous...
 
--*who_serisay
-Monsieur le Chancellier calmera son courroux.
-
--*who_boisrobert
-Faut-il un Chancellier pour calmer sa colère ?
-Godeau m'a répondu d'entreprendre l'affaire :
-Il doit attaquer « OR », qui Silhon aime tant,
-Aussi bien que « PARFOIS », « POUR CE QUE » et « D'AUTANT ».
-
--*who_silhon
-À dire vrai, Messieurs, c'est une chose étrange ;
-On a beau mériter honneur, gloire, louange,
-Affermir tant qu'on peut l'autorité des lois,
-Faire service à Dieu, travailler pour les rois,
-Prescrire le devoir et du peuple et des princes,
-Instruire un potentat à régler ses provinces,
-Il faut avoir l'affront de vous des esprits doux
-Gagner chez nos auteurs plus de crédits que nous.
-
--*who_serisay
-Ce n'est pas d'aujourd'hui qu'on voit cette injustice.
-
--*who_boisrobert
-Ce n'est pas d'aujourd'hui qu'on a vu du caprice.
-
--*who_silhon
-Les siècles, Boisrobert, sont assez différents ;
-On blâmait autrefois les hommes ignorants ;
-La science aujourd'hui donne fort peu d'estime.
-En savoir plus que vous, n'est pas un petit crime.
-
--*who_boisrobert
-J'aime les ignorants d'avoir tant de bonheur.
-
--*who_silhon
-Vous n'avez pas manque d'acquérir cet honneur.
-
--*who_serisay
-Eh ! Pour l'amour de moi, finissez la querelle :
-Soyons, soyons unis d'une amitié fidèle.
-Encore, Monsieur Silhon, de quoi vous plaignez-vous ?
-
--*who_boisrobert
-Un mot qu'on veut changer lui donne le courroux.
-
--*who_silhon
-C'est un mot, il est vrai, mais de grande importance.
-
--*who_boisrobert
-On pourrait s'en passer bien mieux que finance.
-
--*who_silhon
-Il est pourtant utile et le sera toujours.
-On trouve bien sa place en de graves discours.
-En affaire, au barreau, dans la théologie,
-« OR » est fort positif et de grande énergie.
-
--*who_serisay
-Je vois venir à nous la Sibylle Gournai !
-Quel supplice, bon Dieu, m'avez-vous ordonné !
-
--*who_silhon
-Elle mérite bien que vous fassiez cas d'elle.
-
--*who_boisrobert
-À soixante dix ans, elle est encore pucelle.
-
-**** *book_ *id_II03 *act_II *date_(non
-
--*who_mademoiselledegournai
-Je vous ai bien cherché, Monsieur le président.
-
--*who_serisay
-Baissez-vous, Boisrobert, et ramassez sa dent.
-
--*who_boisrobert
-C'est une grosse dent qui vous était tombée
-Et qu'un autre que moi vous avait dérobée.
-
--*who_silhon
-Montagne en perdit une, âgé de soixante ans.
-
--*who_mademoiselledegournai
-J'aime à lui ressembler, même à perdre ses dents.
-Mais apprenez de lui que par toute la Grèce,
-C'était comme un devoir d'honorer la vieillesse.
-Et le vieil âge en vous sera peu respecté,
-Si vous en usez mal dans la virilité.
-Montagne s'employait à corriger le vice,
-Et bien connaître l'homme était son exercice :
-Il n'aurait pas "cuidé" pourvoir tirer grand "los"
-Du stérile "labeur" de réformer les mots.
-
--*who_boisrobert
-Vous fûtes ennemie en tout temps du langage.
-
--*who_mademoiselledegournai
-Le "sens", à mon avis, vous eût rendu plus sage.
-Avec tous mes vieux mots, encore ma raison,
-Parmi les gens sensés se trouve de saison.
-
--*who_boisrobert
-Je l'avoue aisément ; et votre expérience,
-Nymphe des premiers ans, vaut mieux que la science.
-
--*who_melledegournai
-On méprisait un fourbe au temps que je vous dis ;
-Boisrobert le plaisant eût été gueux "jadis" ;
-Et Montagne et Charron avaient l'âme trop forte
-Pour demeurer toujours en "recoin" d'une porte,
-"Aucuper" jour et nuit leur plus grand ennemis,
-Et les grands de la Cour être valets soumis.
-
--*who_boisrobert
-Ce sont là raisons que le démon vous dicte.
-Comment, vieille Gournai ; vous aimez la "vindicte" ?
-Qui vous fait "détracter" ? Qui vous met en "courroux" ?
-
--*who_melledegournai
-Montagne haïssait les menteurs et les fous.
-Poursuivez, "savanteaux", à réformer la langue.
-
--*who_serisay
-Allez-vous-en ailleurs faire votre harangue.
-
--*who_mademoiselledegournai
-Ôtez "moult" et "jaçait", bien que mal à propos,
-Mais laissez, pour le mois "blandice, "angoisse", et "los".
-
--*who_serisay
-"Tout ainsi" que l'esprit est vague et "contournable".
-De même le discours doit être variable.
-Les termes ont le sort qu'on voit au genre humain ;
-Un mot vit aujourd'hui, qui périra demain.
-L'usage parmi nous est fort "ambulatoire".
-
--*who_mademoiselledegournai
-Vous raillez sottement la vérité "notoire".
-Il mourra, "tout ainsi", que je vois méprisé :
-Mais devant lui mourront les vers de Serisay.
-
-**** *book_ *id_III01 *act_III *date_(non
-
--*who_m.lechancellier
-C'est aujourd'hui, Messieurs, qu'on révèle la France
-Les mystères secrets de la vraie éloquence.
-Les Muses, qui du ciel ont descendu chez nous,
-Vous rendent par ma bouche un oracle si doux.
-C'est à tort, grands auteurs, que la Grèce se vante ;
-La Rome des Latins n'est plus la triomphante ;
-L'Italie aujourd'hui tombe dans le mépris,
-Et les Muses n'ont plus de séjour qu'à Paris.
-
--*who_godeau
-Qui croirait, Monseigneur, que ces enchanteresses,
-Que les neuf belles soeurs, nos divines maîtresses,
-Vinssent ici flatter nos esprits et nos sens,
-Si vous n'aviez aimé leurs charmes innocents ?
-
--*who_chapelain
 
 
 Vous voyez les choses futures,
@@ -673,80 +455,48 @@ Vous voyez tout ce qu'il faut faire,
 Au rebours du sens populaire,
 Pour maintenir le potentat.
 
--*who_boisrobert
-
-
-Superbes filles de Mémoire,
-Venez accroître mon ardeur ;
-Je vais travailler à la gloire
-D'une incomparable grandeur...
-Que le style élevé me paraît incommode !
-Je n'ai pas le talent qu'il faut pour faire une ode.
-
--*who_monsieurlechancellier
-Que chacun se réduise au mérite d'auteur.
-J'estime le savant et je hais le flatteur.
-Mes louanges, Messieurs, ne sont pas nécessaires,
-Et vous avez ici de plus grandes affaires.
-
--*who_serisay
-Porchères semble avoir dessein de nous parler.
-
--*who_porcheres
-Quatre mots seulement, Messieurs ; puis m'en aller.
-Monsieur de Colomby m'a chargé de vous dire
-Que las de ses emplois enfin il se retire ;
-Et cous saurez aussi, qu'ennuyé à la Cour,
-Je vais chercher ailleurs un tranquille séjour.
-
--*who_serisay
-Vous nous voyez pensifs, mornes et taciturnes,
-De perdre l'intendant, de nos "Plaisirs nocturnes" ;
-Et vous ferez savoir, au muet orateur
-"Des affaires d'État", le fond de notre cour.
-Nous regrettons beaucoup un si grand personnage,
-Et ne suivrons pas moins notre important ouvrage.
-
--*who_desmarets
-Je ne vois point ici Saint-Amant ni Faret :
-Que sont-ils devenus ?
-
--*who_godeau
-      Ils sont au cabaret.
-
--*who_desmarets
-Ils sont au cabaret ! Messieurs, quelle impudence !
-Vous voyez parmi nous un CHANCELIER DE FRANCE,
-Qui vient de son logis en ce méchant quartier,
-Sachant bien le respect que l'on doit à son métier ;
-Et ces vieux débauchés, au mépris de la gloire,
-Lorsque nous travaillons, font leur plaisir de boire !
-
--*who_godeau
-Je vois entre Faret suivi de Saint-Amant.
-
--*who_chapelain
 Et, si je ne me trompe, ils ont bu largement.
 
-**** *book_ *id_III02 *act_III *date_(non
-
--*who_saintamant
-Pour tout emploi chez vous, Seigneurs Académiques,
-Nous serons vos buveurs et vos poètes bacchiques.
-
--*who_faret
-Nous perdons le respect, mais, ô grand chancelier !
-Vous aurez la bonté de vouloir l'oublier.
-
--*who_chapelain
 Il ne vous reste plus qu'à parler de la guerre,
 Qui, dans les cabarets, se fait à coups de verre.
 
--*who_gombaud
-Qu'à dire des chansons qui vantent la liqueur
-Dont le poète Bacchus réjouit votre cour.
+Il est bien échauffé : qu'on lui tâte le pouls.
 
--*who_saintamant
+IL CONSTE, IL NOUS APPERT, sont termes de barreau,
+Que leur antiquité doit porter au tombeau.
+
+Horace les fait naître, et puis les fait mourir ;
+Sans quelque métaphore, on ne peut discourir.
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintamant
+
+Faret, qui ne rirait de notre Académie ?
+A-t-on vu de nos jours une telle infamie ?
+Passer huit à dix ans à reformer six mots !
+Pardieu, mon cher Faret, nous sommes de grands sots !
+
+Oui, mais je n'aime que monsieur de Godeau,
+Excepté ce qu'il fait, ne trouve rien de beau ;
+Qu'un fat de chapelain aille en chaque ruelle,
+D'un ridicule ton réciter sa PUCELLE ;
+Ou, que dur et contraint en ses vers amoureux,
+Il fasse un sot portrait de l'objet des ses voeux ;
+Que son esprit stérile et sa veine forcée
+Produisent de grands mots qui n'ont sens ni pensée.
+Je voudrais que Gombaud, L'Estoile et Colletet,
+En prose comme en vers eussent un peu mieux fait ;
+Que des "Amis rivaux" BoisRobert ayant honte,
+Revint à son talent de faire bien un conte.
+Enfin...
+
+Il faut se retirer, et lui quitter la place :
+Nous reviendrons tantôt. Allons, mon cher Faret,
+Trouver, proche d'ici, quelque bn cabaret.
+
+Pour tout emploi chez vous, Seigneurs Académiques,
+Nous serons vos buveurs et vos poètes bacchiques.
+
 
 
 Prenez soin de notre langage,
@@ -758,7 +508,59 @@ Vieillisse à réformer les mots ;
 Celle de Bacchus, dans la coupe,
 Ira cherche sa joie et trouver le repos.
 
--*who_faret
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colomby
+
+Malherbe ne vit plus, Bertaut n'est plus au monde ;
+D'ignorance et d'erreur toute le terre abonde.
+
+Vous savez que j'avais auprès du Potentat
+La charge d'Orateur des affaires d'État.
+
+Or, n'étant point payé de mes appointements.
+
+Je fais faire leçon aux gens de nos provinces
+Du peu de gain qu'on fait au service des Princes.
+
+Aux auteurs assemblés prenez le soin de dire
+Que, las de mes emplois, enfin je me retire.
+
+Vous direz de ma part, sans aucune autre forme,
+Qu'au lieu de réformer les mots, je me reforme.
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faret
+
+Tant sots qu'il vous plaira : mais les premiers de France
+Sont les admirateurs de notre suffisance.
+Quoi ! Trouvez-vous mauvais que de pauvres auteurs
+Devant les ignorants s'érigent en docteurs ?
+S'ils peuvent se donner du crédit, de l'estime,
+L'erreur des abusés n'est pas pour eux un crime.
+Après tout, où trouver de ces rares savants,
+Dont le nom immortel percera tous les ans ?
+Si pour l'Académie il faut tant de science,
+Vous et moi pourrions bien ailleurs prendre séance.
+
+      Vous avez tort de mépriser Godeau ;
+Il a l'esprit fertile, et le tour assez beau :
+Tout le défaut qu'il a, soit en vers, soit en prose,
+C'est qu'en trop de façons il dit la même chose.
+L'Estoile fait des vers avec le Cardinal :
+Colletet est bon homme, et n'écrit pas trop mal ;
+Bois-Robert est plaisant autant qu'on saurait l'être ;
+Il s'est assez bien mis dans l'esprit de son maître ;
+À tous ses madrigaux il donne un joli tour,
+Et feraient des leçons aux Grecs de leur amour.
+Baudoin fait des vers au-dessous des images,
+Mais "Davila" traduit est un de ses ouvrages.
+Gombault, pour un châtré, ne manque pas de feu...
+J'entends quelqu'un qui monte ; arrêtons nous un peu :
+Je commence à le voir ; c'est l'Évêque de Grasse.
+
+Nous perdons le respect, mais, ô grand chancelier !
+Vous aurez la bonté de vouloir l'oublier.
+
 
 
 Si l'esprit de la suffisance,
@@ -770,283 +572,200 @@ Et dieu qui conduit tout sagement à sa fin,
 De nos divins talents réserve l'exercice
 Pour le temps précieux que nous buvons du vin.
 
--*who_serisay
-Nous sommes satisfaits de vos stances bacchiques,
-Et vous êtes reçus Buveurs Académiques.
-Mais de peur de vieillir à réformer les mots,
-Nous allons travailler. Laissez-nous en repos ;
-La chose qui se traite est assez d'importance.
-
--*who_faret
 Nous nous tairons.
 
--*who_m.lechancellier
-      Sortez ; C'est le mieux, je pense.
-
--*who_faret
 Si nous vous offensons, Monsieur le Chancelier,
 Vous aurez la bonté de vouloir l'oublier.
 
-**** *book_ *id_III03 *act_III *date_(non
 
--*who_serisay
-Enfin, ils sont sortis. Sans tarder davantage,
-Réformons les défauts que l'on trouve dans le langage,
-Et d'un style trop vieux, faisons-en un nouveau.
-Vous, parlez le premier, docte et sage Godeau.
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boisrobert
 
--*who_godeau
-C'est m'obliger beaucoup ; et cette déférence
-Serait dûe à quelqu'autre avec plus d'apparence.
+Nous allons bientôt voir un de nos mécontents
+Résolu de se plaindre et de nous et du temps.
 
--*who_serisay
-Vous êtes trop modeste ; et votre dignité...
+Faut-il un Chancellier pour calmer sa colère ?
+Godeau m'a répondu d'entreprendre l'affaire :
+Il doit attaquer « OR », qui Silhon aime tant,
+Aussi bien que « PARFOIS », « POUR CE QUE » et « D'AUTANT ».
 
--*who_godeau
-Je reçois cet honneur sans l'avoir mérité ;
-Je le dois purement à votre courtoisie.
+Ce n'est pas d'aujourd'hui qu'on a vu du caprice.
 
--*who_serisay
-On ne saurait avoir aucune jalousie.
+J'aime les ignorants d'avoir tant de bonheur.
 
--*who_godeau
-Je dirai donc, Messieurs, qu'il est très important.
-D'ôter de notre Langue OR, POURCE QUE, D'AUTANT ;
-C'est là mon sentiment. Vous me voyez attendre
-Que quelqu'Émulateur s'apprête à les défendre.
+Un mot qu'on veut changer lui donne le courroux.
 
--*who_desmarets
-Silhon s'oppose enfin.
+On pourrait s'en passer bien mieux que finance.
 
--*who_serisay
-      Parlez discrètement ;
-Vous, Monsieur de Godeau.
+À soixante dix ans, elle est encore pucelle.
 
--*who_godeau
-      Je dis premièrement,
-Que ces mots sont usés, qu'ils tombent de vieillesse ;
-Et d'ailleurs il s'y trouve une grande rudesse.
+C'est une grosse dent qui vous était tombée
+Et qu'un autre que moi vous avait dérobée.
 
--*who_silhon
-Inepte sentiment ! Absurde vision !
-Ces mots mènent enfin à la conclusion :
-L'un sert à résumer, comme à la conséquence ;
-Les autres, à prouver des choses d'importance.
+Vous fûtes ennemie en tout temps du langage.
 
--*who_godeau
-Le premier sent l'école et tient trop du pédant ;
-Et tous ont trop vécu.
+Je l'avoue aisément ; et votre expérience,
+Nymphe des premiers ans, vaut mieux que la science.
 
--*who_latroupe
-      "Nous en disons autant".
+Ce sont là raisons que le démon vous dicte.
+Comment, vieille Gournai ; vous aimez la "vindicte" ?
+Qui vous fait "détracter" ? Qui vous met en "courroux" ?
 
--*who_silhon
-Qu'ils soient bannis des vers et conservés en prose.
 
--*who_desmarets
-Aujourd'hui prose et vers sont une même chose.
 
--*who_chapelain
-Il est bien échauffé : qu'on lui tâte le pouls.
+Superbes filles de Mémoire,
+Venez accroître mon ardeur ;
+Je vais travailler à la gloire
+D'une incomparable grandeur...
+Que le style élevé me paraît incommode !
+Je n'ai pas le talent qu'il faut pour faire une ode.
 
--*who_serisay
-C'est assez disputé. Messieurs, asseyez-vous :
-Que quelqu'un succède à l'Évêque de Grasse ;
-Parlez, vous, Chapelain, sans user de préface.
-
--*who_chapelain
-IL CONSTE, IL NOUS APPERT, sont termes de barreau,
-Que leur antiquité doit porter au tombeau.
-
--*who_silhon
-J'estime en Chapelain la bonté de nature,
-Qui veut donner aux mots même la sépulture.
-
--*who_chapelain
-Horace les fait naître, et puis les fait mourir ;
-Sans quelque métaphore, on ne peut discourir.
-
--*who_silhon
-Les mots peuvent mourir, mais jamais métaphore
-N'avait dressé TOMBEAU pour de tels mots encore.
-
--*who_latroupe
-IL CONSTE, IL NOUS APPERT, doivent être abolis,
-Mais on ne les voit pas encore ensevelis.
-
--*who_gombaud
-Je dis que la coutume assez souvent trop forte,
-Fait dire improprement que l'on "ferme la porte".
-L'usage tous les jours autorise des mots,
-Dont on se sert pourtant assez mal à propos.
-Pour avoir moins froid à la fin décembre,
-On va "pousser la porte", et l'on "ferme sa chambre".
-
--*who_serisay
-En matière d'État, vous savez que les rois
-N'ôtent pas tout d'un coup les anciennes lois ;
-De même dans les mots, ce n'est pas être sage,
-Que d'ôter pleinement ce qu'approuve l'usage.
-
--*who_latroupe
-Digne raisonnement ! Noble comparaison !
-Gombeau n'a pas de tort, mais vous avez raison.
-
--*who_boisrobert
 Messieurs, je veux ôter un terme de coquette :
 C'est le mot d' "à ravir".
 
--*who_lestoile
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lestoile
+
       Il est bon en fleurette.
 Cet et cent faux galants en leur fade entretien,
 De ce mot d'À RAVIR se servent assez bien :
 Et principalement dans les amours de ville,
 À RAVIR se rendra chaque jour plus utile.
 
--*who_latroupe
-" Nous n'avons parmi nous que des auteurs de Cour,
-Et partant ennemis de ce dernier amour.
-Les dames de Quartier auront leur COTTERIE
-À qui nous laisserons le droit de bourgeoisie."
-
--*who_gomberville
-Que ferons-nous, Messieurs, de CAR et de POURQUOI ?
-
--*who_desmarets
-Que deviendrait sans CAR l'autorité du Roi ?
-
--*who_gomberville
-Le Roi sera toujours ce que le Roi doit être,
-Et ce n'est pas un mot qui le rend notre maître.
-
--*who_gombaud
-Beau titre que le CAR, au suprême pouvoir,
-Pour prescrire aux sujets la règle et le devoir !
-
--*who_desmarets
-Je vous connais Gombaud ; vous êtes hérétique,
-Et partisan secret de toute République.
-
--*who_gombaud
-Je suis fort bon sujet, et le serai toujours ;
-Prêt de mourir pour CAR, après un tel discours.
-
--*who_desmarets
-Du CAR viennent des lois : sans CAR, pour d'Ordonnance ;
-Et ce ne serait plus que désordre et licence.
-
--*who_gombaud
-Je demande pardon, si trop mal à propos,
-J'ai parlé contre un mot qui maintient le repos.
-
--*who_gomberville
-L'effort de votre esprit en chose imaginaire,
-Vous rendra, Desmarets, un grand visionnaire.
-Le POÈTE, le VAILLANT, le RICHE, l'AMOUREUX,
-Feront de leur auteur un aussi grand fou qu'eux.
-
--*who_desmarets
-Un faiseur de romans, père de POLEXANDRE,
-À corriger les fous n'a pas droit de prétendre.
-
--*who_m.lechancellier
-Ni vous autres, Messieurs, droit de vous quereller ;
-Laissera CAR en paix ; il n'en faut plus parler.
-
--*who_gomberville
-Et le POURQUOI, Messieurs ?
-
--*who_latroupe
-      Sans cesse il questionne.
-Qu'il soit moins importun, ou bien on l'abandonne.
-
--*who_lestoile
 Je ne saurais souffrir le vieux AUPARAVANT,
 Qui se trouve cent fois à la place d'AVANT.
 
--*who_baudoin
-Pour mes traductions c'est un mot nécessaire ;
-Et si l'on s'en sert mal, je n'y saurais que faire.
-
--*who_lestoile
 Peut-être voudrez-vous garder encore JADIS ?
 
--*who_baudoin
-Sans lui, comment rimer si bien à PARADIS ?
-
--*who_lestoile
 PARADIS est un mot ignoré du Parnasse,
 Et les "Cieux", dans nos vers, auront meilleure grâce.
 
--*who_serisay
-Que dira Colletet ?
 
--*who_colletet
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silhon
+
+À dire vrai, Messieurs, c'est une chose étrange ;
+On a beau mériter honneur, gloire, louange,
+Affermir tant qu'on peut l'autorité des lois,
+Faire service à Dieu, travailler pour les rois,
+Prescrire le devoir et du peuple et des princes,
+Instruire un potentat à régler ses provinces,
+Il faut avoir l'affront de vous des esprits doux
+Gagner chez nos auteurs plus de crédits que nous.
+
+Les siècles, Boisrobert, sont assez différents ;
+On blâmait autrefois les hommes ignorants ;
+La science aujourd'hui donne fort peu d'estime.
+En savoir plus que vous, n'est pas un petit crime.
+
+Vous n'avez pas manque d'acquérir cet honneur.
+
+C'est un mot, il est vrai, mais de grande importance.
+
+Il est pourtant utile et le sera toujours.
+On trouve bien sa place en de graves discours.
+En affaire, au barreau, dans la théologie,
+« OR » est fort positif et de grande énergie.
+
+Elle mérite bien que vous fassiez cas d'elle.
+
+Montagne en perdit une, âgé de soixante ans.
+
+Inepte sentiment ! Absurde vision !
+Ces mots mènent enfin à la conclusion :
+L'un sert à résumer, comme à la conséquence ;
+Les autres, à prouver des choses d'importance.
+
+Qu'ils soient bannis des vers et conservés en prose.
+
+J'estime en Chapelain la bonté de nature,
+Qui veut donner aux mots même la sépulture.
+
+Les mots peuvent mourir, mais jamais métaphore
+N'avait dressé TOMBEAU pour de tels mots encore.
+
+
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colletet
+
+      Grand Évêque de Grasse,
+Dites-moi, s'il vous plaît, comme il faut que je fasse.
+Ne dois-je pas baiser votre sacré talon ?
+
+      Votre magnificence
+Me permet, Monseigneur, une telle licence.
+
+Très révérend Seigneur, je vais donc vous complaire.
+
+Je suis prêt à obéir à votre volonté.
+
+Seigneur, votre amitié m'est un honneur extrême.
+
+      Vos vers ! Je les adore.
+Je les ai lus cent fois, et je les lis encore ;
+Tout en est excellent, tout est beau, tout est net,
+Exact et régulier, châtié tout-à-fait.
+
+Vous êtes de ceux-là qui peuvent dans la vie
+Mépriser tous les traits de la plus noire envie :
+Vous n'aviez pars besoin de votre dignité,
+Pour vous mettre à couvert de la malignité.
+
+      Ô la pièce admirable !
+
+      Merveille incomparable.
+
+Qui n'en sera content, aura, ma foi, grand tort.
+Mais, sans parler de moi trop à son avantage,
+Suis-je pas, Monseigneur, assez grand personnage ?
+
+Moi, je prétends traiter tout le monde d'égal,
+En matière d'écrits : le bien est autre choses ;
+De richesse et de rang la fortune dispose.
+Que pourriez-vous encore reprendre dans mes vers ?
+
+Il est certain que j'ai le style magnifique.
+
+Ah ! Le respect m'échappe. Et mieux que vous ainsi.
+
+C'est vous, Monsieur Godeau, qui me faites outrage.
+
+J'ai tant loué le vôtre !
+
+Je le trouve fort plat, pour ne vous celer rien.
+
+Si j'en ai dit du bien, c'était pour vous complaire.
+
+Nous sommes tous égaux, état fils d'Apollon.
+
+Et vous, Monsieur Godeau, vous me rompez la tête.
+
+Traiter un vieil auteur avec cette infamie,
+C'est affronter en moi toute l'Académie.
+
+"Colletet, mon ami, vous ne faites pas mal ;
+Vous parlez un peu mieux qu'un homme de boutique,"
+Et mieux que vous, Godeau ; car, enfin, je m'explique
+Et notre Directeur le saura comme vous.
+
+Je sais bien respecter Godeau comme prélat ;
+Mais Godeau comme auteur, je le trouve fort plat.
+
+Moi, je veux recevoir la satisfaction
+Du tort qu'a pu souffrir ma réputation.
+Ô, d'un humble prélat patience parfaite !
+Il parle d'endurer l'injure qu'il a faite.
+Pardonner à des gens que l'on a maltraités,
+Ce sont du bon Godeau les générosités.
+
+Ordonnez, Monseigneur, ce qu'il faut que je fasse ;
+J'ai plus failli que vous, et je demande grâce.
+Que partout on exalte et partout soit chanté
+De ce divin prélat le benedicite.
+Ô l'ouvrage excellent : Ô pièce admirable !
+Chef d'oeuvre précieux ! Merveille incomparable !
+Que partout on exalte, et partout soit chanté
+De ce divin prélat le BENEDICITE.
+
+Monsieur le Chancelier ne doit venir que tard.
+
       Le plus grand de mes soins
 Est d'ôter NONOBSTANT, et casser NÉANMOINS.
 
--*who_habert
-Condamner NÉANMOINS ! D'où vient cette pensée ?
-Colletet, avez-vous la cervelle blessée ?
-NÉANMOINS ! Qui remplit et coule doucement ;
-Qui met dans le discours un certain ornement...
-Pour casser NONOBSTANT, c'est un méchant office,
-Que nous nous rendrions dans les cours de Justice.
-
--*who_desmarets
-Puisque CAR est sauvé laissons le reste en paix,
-Et faisons une loi qui demeure à jamais.
-« Les Auteurs assemblés pour régler le langage,
-Ont enfin décidé dans leur aréopage :
-Voici les mots soufferts, voici les mots cassés... »
-Monsieur de Serisay, c'est à vous : prononcez.
-
--*who_serisay
-Grâce à Dieu, Compagnons, la divine assemblée
-A si bien travaillé, que la langue est réglée.
-Nous avons retouché ces durs et rudes mots,
-Qui semblaient introduits par les barbares Goths ;
-Et s'il n'en reste aucun en faveur de l'usage,
-Il sera désormais un méchant personnage.
-OR, qui fit l'important, déchu de tous honneurs,
-Ne pourra plus servir qu'à de vieux raisonneurs.
-COMBIEN QUE, POUR CE QUE, sont un son incommode,
-Et D'AUTANT et PARFOIS ne sont plus à la mode.
-IL CONSTE, IL NOUS APPERT, sont termes de barreau ;
-Mais le plaideur français aime un air plus nouveau.
-IL APPERT était bon pour Cujas et Barthole ;
-IL CONSTE ira trouver la Parlement de Dôle,
-Où, malgré sa vieillesse, il se rendra commun ;
-Par les graves discours de l'Orateur Le Brun.
-Du pieux Chapelain la bonté paternelle
-Peut garder son tombeau pour sa propre PUCELLE.
-Aux stériles esprits, dans leur fade entretien,
-On permet À RAVIR, lequel n'exprime rien.
-JADIS est conservé par respect pour Malherbe.
-Dans l'Ode il a marché, JADIS, grave et superbe ;
-Et de là s'abaissant aux saveurs de Scarron,
-Il a pris l'air burlesque et le comique ton ;
-Mais il demeure exclu du discours ordinaire :
-Vieux JADIS, c'est pour tout ce que l'on peut faire.
-Il faudra modérer cet indiscret POURQUOI,
-Et révérer le CAR, pour l'intérêt du Roi.
-En toutes nations la coutume est bien forte ;
-On dire cependant que l'on POUSSE LA PORTE.
-Nous souffrons NÉANMOINS; et craignons le Palais,
-Nous laissons NONOBSTANT en repos pour jamais.
-Qu'en milieu des cités, la vaine COTTERIE
-Au prodigue CADEAU soit toujours assortie :
-Et que dans le repos, ainsi que dans l'amour,
-Ils demeurent bourgeois éloignés de la Cour.
-Auteurs, mes Compagnons, qui réglez le langage,
-Avons-nous assez fait ? En faut-il davantage ?
-
--*who_latroupe
-Voilà ce qu'à peu près nous pensons réformer :
-Anathème sur ceux qui voudront le blâmer ;
-Et soit traiter chez nous plus mal qu'un hérétique,
-Qui ne reconnaîtra la TOUPE ACADÉMIQUE.
-
--*who_desmarets
-À ce divin arrêt, des arrêts le plus beau,
-Je m'en vais tout à l'heure apposer le grand sceau.

@@ -1,1545 +1,654 @@
 
 
-**** *book_ *id_I01 *act_I *date_1779
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
 
--*who_janot
 Oui, mon ami, fais-moi compliment, que je te dis, de ça, parce que c'est pas de ces choses qui arrivent deux fois dans la vie d'un homme, da ! de faire sa fortune tout d'un coup.
 
--*who_dodinet
-Oh !
-Oui : t'as raison.
-T'es ben là ; faut t'y tenir.
+Comment, que tu dis donc, toi ? Je suis ben là ! Où çà ? Dans c'te rue qu'i' faut que je me tienne ?
 
--*who_janot
-Comment, que tu dis donc, toi ?
-Je suis ben là !
-Où çà ?
-Dans c'te rue qu'i' faut que je me tienne ?
+Bah ! C'est rien que tout ça : si tu me voyais donc avec c'te belle robe qu'all' m'a donnée pour ma veste, de c't attrape de Mam'selle Suzon, chez le dégraisseur, c'est ben aut' chose ! Va !
 
--*who_dodinet
-Eh !
-Non, chez c'te comtesse où ce que te vl'à habillé comme un Monsieur.
+Ah ! Dame, c'est que t'es remuant, toi ! V'là ce qu'i faut, et c'est ce qui fait que ton chemin est fait. Pour moi, tout ce que j'en veux faire est fait, en fait de service.
 
--*who_janot
-Bah !
-C'est rien que tout ça : si tu me voyais donc avec c'te belle robe qu'all' m'a donnée pour ma veste, de c't attrape de Mam'selle Suzon, chez le dégraisseur, c'est ben aut' chose !
-Va !
+Eh ben ! Dame, tu n'entends pas ce que je te dis, de m'en faire un, au sujet du bonheur que j'ai, qui soit ben tourné, de compliment.
 
--*who_dodinet
-Oh !
-Je crais ben que c'est une bonne condition : avec les grandes dames y a toujours quéque chose à gagner, mêmement c'est ben par le canal d'une comme ça que je me suis tobtenu l'emploi que j'ai.
-
--*who_janot
-Ah !
-Dame, c'est que t'es remuant, toi !
-V'là ce qu'i faut, et c'est ce qui fait que ton chemin est fait.
-Pour moi, tout ce que j'en veux faire est fait, en fait de service.
-
--*who_dodinet
-Comment donc ça ?
-
--*who_janot
-Eh ben !
-Dame, tu n'entends pas ce que je te dis, de m'en faire un, au sujet du bonheur que j'ai, qui soit ben tourné, de compliment.
-
--*who_dodinet
-Queu bonheur donc qui t'arrive ?
-
--*who_janot
 I' m'arrive, mon ami, que je vas mettre la comtesse sur le pavé.
 
--*who_dodinet
-Sur le pavé !
-
--*who_janot
 Oui : j'y vas rendre sa condition et l'y dire qu'alle en cherche un autre.
 
--*who_dodinet
-Et quéque tu vas devenir après, toi ?
+Moi ! Je me ferai grand seigneur.
 
--*who_janot
-Moi !
-Je me ferai grand seigneur.
+Des fonds ! Est-ce que je n'en ai pas donc, dis-moi, aussi ben qu'un autre, des fonds ?
 
--*who_dodinet
-Oh !
-Tu ne serais pas le premier qu'on aurait vu faire ce chemin-là aussi vite : mais encore i' faut des fonds pour ça.
+Oh ! C'est tout su, va. Et toi, je ne veux pus que tu sois là un rat... Comme tu m'as dit, de quoi donc ?
 
--*who_janot
-Des fonds !
-Est-ce que je n'en ai pas donc, dis-moi, aussi ben qu'un autre, des fonds ?
+De cave ! Oui, rat-de-cave. Je te fais mon intendant : je ne te donnerai pas de gages, mais ce que tu prendras sera pour toi.
 
--*who_dodinet
-Dame !
-Faut savoir.
+Oui-da ! Mais à condition que quand tu m'auras ruiné, tu me prendras pour intendant à ton tour.
 
--*who_janot
-Oh !
-C'est tout su, va.
-Et toi, je ne veux pus que tu sois là un rat...
-Comme tu m'as dit, de quoi donc ?
-
--*who_dodinet
-De cave.
-
--*who_janot
-De cave !
-Oui, rat-de-cave.
-Je te fais mon intendant : je ne te donnerai pas de gages, mais ce que tu prendras sera pour toi.
-
--*who_dodinet
-Oh ben !
-Laisse faire, va, je ne serai pas le plus mal partagé.
-
--*who_janot
-Oui-da !
-Mais à condition que quand tu m'auras ruiné, tu me prendras pour intendant à ton tour.
-
--*who_dodinet
-Ah !
-C'est juste : je te donnerai ta revanche...
-
--*who_janot
 Et moi je reprendrai le tout.
 
--*who_dodinet
-Mais dis-moi donc un peu, Janot, est-ce que t'es devenu fou depuis quéque temps ?
-
--*who_janot
 Non pardine pas : au contraire, va.
 
--*who_dodinet
-As-tu été heureux à queuque jeu !
-
--*who_janot
 Non, je ne sais jouer qu'à la bête, et comme je la mettais toujoux, ça m'en a dégoûté.
 
--*who_dodinet
-Mais il y a des jeux d'adresse.
+Oh ! Non : je n'y suis pas heureux à ceux-là.
 
--*who_janot
-Oh !
-Non : je n'y suis pas heureux à ceux-là.
+À la Loterie ! Eh ! Tu sais bien que je n'y mets pas, et M. Ragot dit qu'on n'y peut pas gagner sans ça...
 
--*who_dodinet
-Tu as donc gagné à la Loterie ?
+Bon ! Y en a pourtant d'autres.
 
--*who_janot
-À la Loterie !
-Eh !
-Tu sais bien que je n'y mets pas, et M. Ragot dit qu'on n'y peut pas gagner sans ça...
+Oh ! Non. N'y a pas de ça dans mon affaire : c'est bon jeu bon argent.
 
--*who_dodinet
-Il faut donc que tu aies volé tes maîtres, car voilà à peu près tous les moyens de s'enrichir que je connaisse, moi.
-
--*who_janot
-Bon !
-Y en a pourtant d'autres.
-
--*who_dodinet
-Lesquels donc ?...
-Tu ne connais pas d'aut' fille que Mam'selle Suzon, toi : ce n'est pas par là que tu...
-
--*who_janot
-Oh !
-Non.
-N'y a pas de ça dans mon affaire : c'est bon jeu bon argent.
-
--*who_dodinet
-Explique-moi donc ça, mon ami, car je n'y comprends rien.
-
--*who_janot
 Écoute, Dodinet, ne va pas conter ça à tout le monde, da.
 
--*who_dodinet
-Oh !
-N'aie pas peur.
-
--*who_janot
 C'est un secret au moins, et fort encore.
 
--*who_dodinet
-Pardine ! je le crois ben : dis-le donc.
+Imagine-toi, Dodinet, j'ai trouvé... Je crains qu'i' n'y ait zici quéqu'zun qui nous écoute.
 
--*who_janot
-Imagine-toi, Dodinet, j'ai trouvé...
-Je crains qu'i' n'y ait zici quéqu'zun qui nous écoute.
+J'ai trouvé un morceau... comment qu'on appelle ça ?... D'or... Un magot... Un nigaud... Dodinet, dis donc.
 
--*who_dodinet
-Non, non.
-I' n'y a personne : dis ben vite.
-T'as trouve...
-
--*who_janot
-J'ai trouvé un morceau... comment qu'on appelle ça ?...
-D'or...
-Un magot...
-Un nigaud...
-Dodinet, dis donc.
-
--*who_dodinet
-Nigaud toi-même, bête : c'est un lingot que tu veux dire.
-
--*who_janot
 Oui, un lingot, gros comme mon poing d'or...
 
--*who_dodinet
-Massif ?
+Eh ! Oui, je te dis, dans une carrière, massif, auprès de Vaugirard.
 
--*who_janot
-Eh !
-Oui, je te dis, dans une carrière, massif, auprès de Vaugirard.
+Pardine ! Je te le disais ben.
 
--*who_dodinet
-Ah !
-Mon cher ami, mais c'est une fortune immense que ça.
+Pas si bête que de porter ça sur moi : c'est lourd comme tout ; et pis j'aurais qu'à le perdre. Je l'ai caché dans ma paillasse.
 
--*who_janot
-Pardine !
-Je te le disais ben.
+Si c'en est ! Ah ! Vraiment, je m'y connais p't-êt'. Crais-tu que j'ai été élevé comme toi dans une boîte ! Et pis tu ne sais donc pas ? Depis que j' demeure cheux c'te comtesse, j'en magne et remagne tous les jours. C'est pas comme cheux M. Ragot, qu'on n'y magne que de la mitraille : je me salissais les doigts avec ses pièces grises... Ah ! Çà, dis donc, Dodinet, je veux faire une fin, queu qu'tu me consellles ?
 
--*who_dodinet
-Mais où ce que tu l'as mis, montre-le-moi donc ?
+Eh ben ! Oui : mais faut savoir par queue porte que j'y entrerai !
 
--*who_janot
-Pas si bête que de porter ça sur moi : c'est lourd comme tout ; et pis j'aurais qu'à le perdre.
-Je l'ai caché dans ma paillasse.
-
--*who_dodinet
-C'est un trésor que ça, Janot ; mais dis donc, es-tu ben sûr que c'en est de l'or ?
-
--*who_janot
-Si c'en est !
-Ah !
-Vraiment, je m'y connais p't-êt'.
-Crais-tu que j'ai été élevé comme toi dans une boîte !
-Et pis tu ne sais donc pas ?
-Depis que j' demeure cheux c'te comtesse, j'en magne et remagne tous les jours.
-C'est pas comme cheux M. Ragot, qu'on n'y magne que de la mitraille : je me salissais les doigts avec ses pièces grises...
-Ah !
-Çà, dis donc, Dodinet, je veux faire une fin, queu qu'tu me consellles ?
-
--*who_dodinet
-Écoute : t'as de l'instinct, faut te pousser dans le monde.
-
--*who_janot
-Eh ben !
-Oui : mais faut savoir par queue porte que j'y entrerai !
-
--*who_dodinet
-Mais faut te marier, mon ami, c'est là la grand'porte, c'est celle-là qui mène à tout.
-À présent que t'as du bien, tout le monde te jettera ses filles à la tête.
-
--*who_janot
 Oui, pourvu que ça ne m'y fasse pas de mal.
 
--*who_dodinet
-Ah !
-Dame, ça se pourrait bien, mais on n'y regarde pas de si près, et pis y a du remède à tout.
-Dis-moi, as-tu encore de l'inclination pour Mam'selle Suzon ?
+Mam'selle Suzon ? Non. C'est une affronteuse qui m'a mis dedans, vois-tu. Je ne l'i pardonnerai jamais, et pis c'est la fille d'un savequier. Je ne suis pas fier, mais ça ne m'irait pas.
 
--*who_janot
-Mam'selle Suzon ?
-Non.
-C'est une affronteuse qui m'a mis dedans, vois-tu.
-Je ne l'i pardonnerai jamais, et pis c'est la fille d'un savequier.
-Je ne suis pas fier, mais ça ne m'irait pas.
+Ah ! C'te fille que j'y avais parlé pour ses mailles, que je devais l'i en reprendre par le moyen de ma sœur dont que je l'i ai toffert son service en fait de couture ?
 
--*who_dodinet
-T'as raison : te v'là à même de choisir, faut en profiter.
-Aimerais-tu pas mieux la fille de boutique du dégraisseur ?
+Ah ! C'est encore d'un méquier ben bas, qu'en dis-tu ? Ben sale, Dodinet ? I' me faut pus haut que ça.
 
--*who_janot
-Ah !
-C'te fille que j'y avais parlé pour ses mailles, que je devais l'i en reprendre par le moyen de ma sœur dont que je l'i ai toffert son service en fait de couture ?
-
--*who_dodinet
-Oui, celle-là.
-
--*who_janot
-Ah !
-C'est encore d'un méquier ben bas, qu'en dis-tu ?
-Ben sale, Dodinet ?
-I' me faut pus haut que ça.
-
--*who_dodinet
-Dame !
-Qui done veux-tu prendre au bout de tout ?
-
--*who_janot
 Veux-tu que je te le dise ?
 
--*who_dodinet
-Eh !
-Pardine !
-Je te le demande exprès.
-
--*who_janot
 Eh ben ! quiens, c'est Mam'selle Courtois, la femme de chambre de la comtesse.
 
--*who_dodinet
-Oh !
-Diable, t'es ambitionneux.
+Ah ! Dame ! Moi, v'là comme je suis, vois-tu ! C'est comme dit c't aut', quand on prend du galon on n'en saurait trop prendre.
 
--*who_janot
-Ah !
-Dame !
-Moi, v'là comme je suis, vois-tu !
-C'est comme dit c't aut', quand on prend du galon on n'en saurait trop prendre.
+Pardine ! si elle le voudra ! ah ! Que oui, va : que de reste encore. Je l'i fais, tous les jours, sans que ça paraisse, des petits plaisirs qu'all' en est ben aise comme tout, que je l'i galope pour des commissions depis le matin jusqu'au soir, qu'all' me donne ! Tu crois que ça ne la tentera pas, sous ma palliasse, en or fin ?...
 
--*who_dodinet
-C'est fort ben pris à toi : mais c't femme de chambre voudra-t-elle te le laisser prendre son galon ?
+Oh ! Oui. Je te dis qu'all' m'aimera p'têt' que trop. Mais quoique ça, je veux ben faire les choses. Charge-toi de ça, toi, Dodinet, tu seras mon garçon d'honneur... Faut que je propose à Mam'selle Courtois, ma future, un grand repas, pour signer au cabaret le contrat de mariage, au coin de la rue que tu connais, où que je nous rassemblerons tous, pas vrai ?
 
--*who_janot
-Pardine ! si elle le voudra ! ah !
-Que oui, va : que de reste encore.
-Je l'i fais, tous les jours, sans que ça paraisse, des petits plaisirs qu'all' en est ben aise comme tout, que je l'i galope pour des commissions depis le matin jusqu'au soir, qu'all' me donne !
-Tu crois que ça ne la tentera pas, sous ma palliasse, en or fin ?...
-
--*who_dodinet
-Ah !
-Oui, t'as raison.
-Je n'y pensais pas moi : ça prévient ben les gens à prendre du goût ça.
-
--*who_janot
-Oh !
-Oui.
-Je te dis qu'all' m'aimera p'têt' que trop.
-Mais quoique ça, je veux ben faire les choses.
-Charge-toi de ça, toi, Dodinet, tu seras mon garçon d'honneur...
-Faut que je propose à Mam'selle Courtois, ma future, un grand repas, pour signer au cabaret le contrat de mariage, au coin de la rue que tu connais, où que je nous rassemblerons tous, pas vrai ?
-
--*who_dodinet
-Je veux ben, moi : quoi que tu veux que je fasse ?
-
--*who_janot
 Pendant que je vas aller l'y reporter son habit, à la comtesse, de jockey, et pis que j'inviterai Mam'selle Courtois à çall' fin de l'i conter ça en douceur, faut que t'ailles, toi, au cabaret commander le repas.
 
--*who_dodinet
-Pourquoi que tu n'y vas pas toi-même ?
+Oh ! Non, toi, ça vaut mieux, parce que t'es pus connu que moi. Et pis avec ton épée, ça en impose.
 
--*who_janot
-Oh !
-Non, toi, ça vaut mieux, parce que t'es pus connu que moi.
-Et pis avec ton épée, ça en impose.
+Écoute donc, Dodinet, me conseilles-tu d'inviter Monsieur Ragot et sa femme ? Ça les f'ra bisquer de me voir heureux. Qu'en dis-tu ?
 
--*who_dodinet
-Eh ben !
-Allons : j'y vas.
+Eh ben ! C'est dit, tu les iras cherçher de ma part, et pis Mam'selle Suzon avec son père, et pis la fille de boutique du dégraisseur. Quand on est en train, ça ne coûte pas davantage, pas vrai donc ! Moi, je vas amener Mam'selle Courtois, et pis quand je les verrai toutes les trois, je saurai pour laquelle je me déterminerai, car avec ces filles ça va et ça vient, on ne sait jamais à quoi s'en tenir.
 
--*who_janot
-Écoute donc, Dodinet, me conseilles-tu d'inviter Monsieur Ragot et sa femme ?
-Ça les f'ra bisquer de me voir heureux.
-Qu'en dis-tu ?
+C'est bon. Va toujours commander le repas, v'là qu'est dit. Le rendez-vous est au cabaret : les premiers venus y attendront les autres.
 
--*who_dodinet
-Oui, c'est ben imaginé : j'en rirons.
+Ah ! V'là pourtant que le bonheur commence à m'en vouloir un p'tit peu. Ah ! Dame ! Aussi, comme on dit, on n'est pas né coiffé pour rien. Mais pour en revenir là-dessus, en parlant de mariage, c'est-i' un bonheur que d'être né coiffé ? Oh ! Pardine, sûrement. Une fois que la coiffure est faite, n'y a pus de danger ; mais pendant que je rêve là, moi, m'est avis que c'est M. Ragot qui détourne la rue là-bas, avec sa redingote et sa perruque. Oui, ma fine, je le reconnais à ses tableaux, qu'i' vient de quéque inventaire. Faut que je fasse mon fier, voir un peu si i' me reconnaîtra, moi, sous c't habit-là.
 
--*who_janot
-Eh ben !
-C'est dit, tu les iras cherçher de ma part, et pis Mam'selle Suzon avec son père, et pis la fille de boutique du dégraisseur.
-Quand on est en train, ça ne coûte pas davantage, pas vrai donc !
-Moi, je vas amener Mam'selle Courtois, et pis quand je les verrai toutes les trois, je saurai pour laquelle je me déterminerai, car avec ces filles ça va et ça vient, on ne sait jamais à quoi s'en tenir.
+Eh ben ! Quoi que c'est donc ! Vous pouvez pas prendre garde sur qui que vous marchez.
 
--*who_dodinet
-Écoute, Janot, j'ai un de mes amis qui est clerc de notaire que je connais, je l'inviterai aussi pour qu'il se trouve au repas et qu'il te dresse le contrat tout prêt : entends-tu ?
+Si fait, c'est vot' faute. Quand on marche dans les rues faut avoir les yeux partout.
 
--*who_janot
-C'est bon.
-Va toujours commander le repas, v'là qu'est dit.
-Le rendez-vous est au cabaret : les premiers venus y attendront les autres.
+C'est bon. I' ne me reconnaît pas. Ce que c'est que de nous ! Comme un habit change le monde !
+Eh ! Dites donc, bonhomme, est-ce que vous seriez peintre ?
 
-**** *book_ *id_I02 *act_I *date_1779
+Ah ! Vous êtes barbouilleur en cul-de-sac ?
 
--*who_janot
-Ah !
-V'là pourtant que le bonheur commence à m'en vouloir un p'tit peu.
-Ah !
-Dame !
-Aussi, comme on dit, on n'est pas né coiffé pour rien.
-Mais pour en revenir là-dessus, en parlant de mariage, c'est-i' un bonheur que d'être né coiffé ?
-Oh !
-Pardine, sûrement.
-Une fois que la coiffure est faite, n'y a pus de danger ; mais pendant que je rêve là, moi, m'est avis que c'est M. Ragot qui détourne la rue là-bas, avec sa redingote et sa perruque.
-Oui, ma fine, je le reconnais à ses tableaux, qu'i' vient de quéque inventaire.
-Faut que je fasse mon fier, voir un peu si i' me reconnaîtra, moi, sous c't habit-là.
+Ni l'un ni l'autre ? Et pourquoi donc faire que vous avez ces tableaux ?
 
-**** *book_ *id_I03 *act_I *date_1779
-
--*who_janot
-Eh ben !
-Quoi que c'est donc !
-Vous pouvez pas prendre garde sur qui que vous marchez.
-
--*who_ragot
-Ah !
-Monsieur, pardon.
-C'est pas ma faute.
-
--*who_janot
-Si fait, c'est vot' faute.
-Quand on marche dans les rues faut avoir les yeux partout.
-
--*who_ragot
-Eh ben !
-Monsieur, je ne l'ai pas fait exprès, là.
-
--*who_janot
-C'est bon.
-I' ne me reconnaît pas.
-Ce que c'est que de nous !
-Comme un habit change le monde !
-Eh !
-Dites donc, bonhomme, est-ce que vous seriez peintre ?
-
--*who_ragot
-Non, Monsieur.
-
--*who_janot
-Ah !
-Vous êtes barbouilleur en cul-de-sac ?
-
--*who_ragot
-Non, Monsieur, ni l'un ni l'autre.
-
--*who_janot
-Ni l'un ni l'autre ?
-Et pourquoi donc faire que vous avez ces tableaux ?
-
--*who_ragot
-Monsieur, c'est que je viens de les acheter.
-
--*who_janot
 Vous vous y connaissez donc ?
 
--*who_ragot
-Oh !
-Comme ça, pas trop.
+Eh ! Pourquoi donc que vous les achetez si vous ne vous y connaissez pas ?
 
--*who_janot
-Eh !
-Pourquoi donc que vous les achetez si vous ne vous y connaissez pas ?
-
--*who_ragot
-C'est pour les revendre à d'autres qui s'y connaîtront encore moins que moi.
-
--*who_janot
 En avez-vous ben, des chalands ?
 
--*who_ragot
-Dieu merci !
-Je n'en manque pas.
-
--*who_janot
 Comme ça, c'est un bon commerce que le vôtre.
 
--*who_ragot
-Mais y a des temps que ça n' laisse pas qu' d'aller.
-
--*who_janot
 Oui, suivant les dupes, pas vrai ?
 
--*who_ragot
-Oh !
-Monsieur, faut qu'i' y en ait des uns et des autres.
+Eh ben ! Voyons. Comben me vendrez-vous l'original de c'te copie-là ?
 
--*who_janot
-Eh ben !
-Voyons.
-Comben me vendrez-vous l'original de c'te copie-là ?
+Oh ! De ça, par exempe, vous vous trompez : je suis ben original moi-même, et pus sûr que vot' tableau encore.
 
--*who_ragot
-Copie !
-Oh !
-Je ne l'ai pas encore payé pour ça.
-Mais à propos de copie, vous m'avez ben l'air vous d'être la copie d'un certain original que j'ai connu, i' n'y pas ben longtemps.
-
--*who_janot
-Oh !
-De ça, par exempe, vous vous trompez : je suis ben original moi-même, et pus sûr que vot' tableau encore.
-
--*who_ragot
-Comment se pourrait-i' faire que...
-
--*who_janot
 Faut ben que ça se puisse, pisque ça est, et c'est pas un meuble d'inventaire, non-da, fait pour vot' boutique, au moins.
 
--*who_ragot
-Ah ventrebleu !
-Nous y v'là, c't habit-là me trompait, mais je te reconnais à ton paroli.
+Eh ben ! Oui, chacun a son parlement. Après, de quoi que vous en voulez dire ?
 
--*who_janot
-Eh ben !
-Oui, chacun a son parlement.
-Après, de quoi que vous en voulez dire ?
+Petit gueux ! Ah ! Ça, mais, Monsieur Ragot, est-ce que que vous croyez encore être du temps que je vous allais chercher au four votre souper de deux sous, donc ? Dame ! C'est que c'est ben changé du d'pis, au moins.
 
--*who_ragot
-Dire !
-Mais qu'on voit ben que c'est pas toujours les honnêtes gens qu'avons le pus de bonheur, pisqu'un p'tit gueux comme toi a trouvé des ressources.
+Oh ! Dame ! Ce que je fais ? Je fais fortune : v'là ce que je fais.
 
--*who_janot
-Petit gueux !
-Ah !
-Ça, mais, Monsieur Ragot, est-ce que que vous croyez encore être du temps que je vous allais chercher au four votre souper de deux sous, donc ?
-Dame !
-C'est que c'est ben changé du d'pis, au moins.
+Pas vrai ! Eh ben ! Sans rancune. Je me marie aujoud'hui, ou ben à peu près toujours. Si je n'allons pas jusqu'a définition finale, j'irons ben jusqu'aux accordailles. Je faisons un festin pour ça, et je viens vous inviter du gueulton, si le cœur vous en dit, pour en être le témoin.
 
--*who_ragot
-Oui, c'est ce qui me paraît.
-Qué que tu fais donc à présent ?
+Pardine ! Ici près. Tenez, là, au cabaret du coin, où ce que tout est déjà commandé. Allez-vous-y-en ; tout de suite: vous boirez un verre de vin en attendant la compagnie, que j'avons fait mettre au frais, à quinze sous, là, aux barreaux verts.
 
--*who_janot
-Oh !
-Dame !
-Ce que je fais ?
-Je fais fortune : v'là ce que je fais.
+Oh ! Vous aurez bientôt compagnie, et pis Dodinet, donc ! Que vous allez trouver là... Et pis, que ne faites-vous une chose ? Allez chercher Mme Ragot : faut ben qu'elle s'en ressente aussi. Pardine ! Dans une fête, comme on dit, pus y a de monde et pus y a de personnes.
 
--*who_ragot
-Diable !
-C'est un bon métier ça.
+Écoute, faut l'i faire une frime : ne l'y parlez pas de moi. Faut dire que c'est un monsieur qui la demande pour voir comme all' prendra la chose.
 
--*who_janot
-Pas vrai !
-Eh ben !
-Sans rancune.
-Je me marie aujoud'hui, ou ben à peu près toujours.
-Si je n'allons pas jusqu'a définition finale, j'irons ben jusqu'aux accordailles.
-Je faisons un festin pour ça, et je viens vous inviter du gueulton, si le cœur vous en dit, pour en être le témoin.
+Tant mieux ! All' ne m'en veut pus, donc ?
 
--*who_ragot
-Ben volonquiers, mon enfant : j'ai toujours eu de l'amitié pour toi.
-Je suis charmé de ton bonheur.
-Où que ça s' fera.
+Ah ! Je le crais. Y a des familles comme ça. La not' était ben tranquille aussi, sinon que queuque fois mon père et ma mère vouliont s'étrangler, et pis mon frère et mes sœurs s'arrachaient les yeux ; moi, quand je voyais ça, j'allais chercher la soupe. Les v'là tout d'un coup qui tombaient sur l'écuelle, d'un silence que vous auriez entendu grouiller une souris, avec leurs cuillers, qui n'en perdaient pas une goutte.
 
--*who_janot
-Pardine !
-Ici près.
-Tenez, là, au cabaret du coin, où ce que tout est déjà commandé.
-Allez-vous-y-en ; tout de suite: vous boirez un verre de vin en attendant la compagnie, que j'avons fait mettre au frais, à quinze sous, là, aux barreaux verts.
-
--*who_ragot
-C'est bon, mon ami, je m'y en vas : mais dis donc, ne va pas me laisser longtemps là en affront, au moins, car i' n'y a rien qui ennuie et qui soûle plus vite que de boire tout seul.
-
--*who_janot
-Oh !
-Vous aurez bientôt compagnie, et pis Dodinet, donc !
-Que vous allez trouver là...
-Et pis, que ne faites-vous une chose ?
-Allez chercher Mme Ragot : faut ben qu'elle s'en ressente aussi.
-Pardine !
-Dans une fête, comme on dit, pus y a de monde et pus y a de personnes.
-
--*who_ragot
-C'est ben dit, Monsieur Janot.
-J'allons chercher not' ménagère, et je ne tarderons pas à vous faire honneur.
-Justement all' m'attendait pour déjeuner, ça l'i viendra comme mars en carême.
-
--*who_janot
-Écoute, faut l'i faire une frime : ne l'y parlez pas de moi.
-Faut dire que c'est un monsieur qui la demande pour voir comme all' prendra la chose.
-
--*who_ragot
-Oh !
-Elle a bon cœur : elle prendra tout bien.
-
--*who_janot
-Tant mieux !
-All' ne m'en veut pus, donc ?
-
--*who_ragot
-Ah !
-Pardi !
-Oui.
-Vous ne serez pas sitôt à table ensemble qu'alle ne songera pus qu'à boire et à manger.
-
--*who_janot
-Ah !
-Je le crais.
-Y a des familles comme ça.
-La not' était ben tranquille aussi, sinon que queuque fois mon père et ma mère vouliont s'étrangler, et pis mon frère et mes sœurs s'arrachaient les yeux ; moi, quand je voyais ça, j'allais chercher la soupe.
-Les v'là tout d'un coup qui tombaient sur l'écuelle, d'un silence que vous auriez entendu grouiller une souris, avec leurs cuillers, qui n'en perdaient pas une goutte.
-
--*who_ragot
-Ah !
-Ben, va, ma femme est ben comme ça, avant qu'all' boude contre son ventre...
-Et pis d'ailleurs avec les honnêtes gens, la rancune est bientôt passée.
-Sans adieu, Monsieur Janot, avant peu, j'allons boire à vot' sante.
-
--*who_janot
 De tout mon cœur, et grand bien vous fasse et à moi aussi.
 
-**** *book_ *id_I04 *act_I *date_1779
+Bon ! I' fait semblant, à cause du vin qu'i' va boire, de faire semblant de rien, mais, dans le fond, i' fume, je le vois ben, moi. Tant mieux ! Ça fait toujours plaisir de faire envie aux autres. Mordine ! Quand ça ne serait pas vrai que ça serait véritable d'avoir trouvé ce que j'ai trouvé, j'en ferais toujours le semblant par exprès pour leur faire la nargue. Il m'a paru qu'il en avait le nez pus long, M. Ragot, qu'à l'ordinaire, d'un pied. Pendant que je suis en train, faut encore que j'en fasse une, pour voir un peu comment que ça fera. Me v'là devant la boutique du père de Mam'selle Suzon, faut que je l'invite aussi à ce repas, afin d'y donner un crève-cœur. C'est ben pensé : je suis sûr que ça va le faire enrager. Voyons ça. Approchons.
 
--*who_janot
-Bon !
-I' fait semblant, à cause du vin qu'i' va boire, de faire semblant de rien, mais, dans le fond, i' fume, je le vois ben, moi.
-Tant mieux !
-Ça fait toujours plaisir de faire envie aux autres.
-Mordine !
-Quand ça ne serait pas vrai que ça serait véritable d'avoir trouvé ce que j'ai trouvé, j'en ferais toujours le semblant par exprès pour leur faire la nargue.
-Il m'a paru qu'il en avait le nez pus long, M. Ragot, qu'à l'ordinaire, d'un pied.
-Pendant que je suis en train, faut encore que j'en fasse une, pour voir un peu comment que ça fera.
-Me v'là devant la boutique du père de Mam'selle Suzon, faut que je l'invite aussi à ce repas, afin d'y donner un crève-cœur.
-C'est ben pensé : je suis sûr que ça va le faire enrager.
-Voyons ça.
-Approchons.
+Ah ! Le v'là qui travaille. Faut que je le rebute un peu. Parlez donc, l'homme, est-ce pas ici qu'il demeure un savetier... Un malheureux ?
 
-**** *book_ *id_I05 *act_I *date_1779
+Un ivrogne... Un drôle ?
 
--*who_janot
-Ah !
-Le v'là qui travaille.
-Faut que je le rebute un peu.
-Parlez donc, l'homme, est-ce pas ici qu'il demeure un savetier...
-Un malheureux ?
+Hein ? Qué que tu dis ?
 
--*who_simon
-Monsieur...
+Oh ben ! La demande que Monsieur demande, c'est pour te demander si tu n'es pas savetier.
 
--*who_janot
-Un ivrogne...
-Un drôle ?
+Comment ! Je le vois ben. Est-ce que je suis fait pour me connaître à un métier aussi bas, aussi vilain, aussi dégoûtant, aussi malpropre...
 
--*who_simon
-Monsieur...
+Allons, allons, pas de réplique. T'es savetier, v'là qu'est fini. Je viens te commander de l'ouvrage pour te faire gagner ta vie, parce qu'il faut que tout le monde vive.
 
--*who_janot
-Hein ?
-Qué que tu dis ?
-
--*who_simon
-Rien, Monsieur.
-Je demande ce que Monsieur demande.
-
--*who_janot
-Oh ben !
-La demande que Monsieur demande, c'est pour te demander si tu n'es pas savetier.
-
--*who_simon
-Eh !
-Pardine, vous le voyez ben.
-
--*who_janot
-Comment !
-Je le vois ben.
-Est-ce que je suis fait pour me connaître à un métier aussi bas, aussi vilain, aussi dégoûtant, aussi malpropre...
-
--*who_simon
-Monsieur !
-Monsieur !
-Monsieur !...
-
--*who_janot
-Allons, allons, pas de réplique.
-T'es savetier, v'là qu'est fini.
-Je viens te commander de l'ouvrage pour te faire gagner ta vie, parce qu'il faut que tout le monde vive.
-
--*who_simon
-Ah !
-Monsieur, je vous remercie de tout mon cœur.
-De queu part que c'est-i', s'il vous plaît ?
-
--*who_janot
 C'est de la part d'une comtesse, tel que tu me vois.
 
--*who_simon
-D'une comtesse !
-Ça n'est pas vous par hasard ?
-
--*who_janot
 Moi, la comtesse !
 
--*who_simon
-Non, pour qui i' faut travailler ?
-
--*who_janot
 Non, non : c'est une remonture qu'il faut faire à son postillon, pour ses bottes, qu'all' attend après.
 
--*who_simon
-Eh ben !
-Les avez-vous là ?
-
--*who_janot
 Non : je ne les ai pas dessus moi ; mais c'est tout d' même, vous n'avez qu'à les venir prendre ou ben emporter votre boutique pour les raccommoder à l'hôtel.
 
--*who_simon
-Comment !
-Que j'emporte ma boutique ?
-Mais, Monsieur, pardon, excuse ; sus vot' respect, révérence parler, le nom n'est pas une offense ; mais ne seriez-vous pas un petit coquin que j'ai teu l'honneur de rosser y a quéque temps pour des vitres qu'l' m'avait cassées ?
+Ah ! Au sujet de quéque chose qu'on lui avait jeté, pas vrai ?
 
--*who_janot
-Ah !
-Au sujet de quéque chose qu'on lui avait jeté, pas vrai ?
+Comment ! Est-ce que vous avez encore ça sus l' cœur, vous ?
 
--*who_simon
-Tout juste.
-
--*who_janot
-Comment !
-Est-ce que vous avez encore ça sus l' cœur, vous ?
-
--*who_simon
-Moi, non.
-Je n'y pense pus, sinon que ça m'en rappelle ; mais, au bout de tout, c'est donc vous-même ?
-
--*who_janot
 Oui-da, c'est moi : mais je sis ben nettoyé du d'pis c' temps-là, va.
 
--*who_simon
-Eh !
-Jarni !
-Il y paraît, vous v'là prope comme un sou.
-Qu'est-ce qui vous arrange donc si ben à présent ?
+Oh ! C'est chez une comtesse. Comme je t'ai dit, y a là un homme qu'a soin de moi, que j'ai sa protection.
 
--*who_janot
-Oh !
-C'est chez une comtesse.
-Comme je t'ai dit, y a là un homme qu'a soin de moi, que j'ai sa protection.
+Oh ! Un homme d'importance : c'est lui qui mène toute la maison.
 
--*who_simon
-Qu'est-ce que c'est que c't homme-là ?
-
--*who_janot
-Oh !
-Un homme d'importance : c'est lui qui mène toute la maison.
-
--*who_simon
-L'intendant ?
-
--*who_janot
 Non, c'est le cocher.
 
--*who_simon
-La peste !
-I' faut ben le ménager.
+Bon ! Je me passerai ben de lui à présent : c'est moi qui vas protéger les autres de ce coup-ci.
 
--*who_janot
-Bon !
-Je me passerai ben de lui à présent : c'est moi qui vas protéger les autres de ce coup-ci.
+Oh ! Dame, c'est une histoire qu'est un peu longue.
 
--*who_simon
-Comment donc ça ?
+Ah ! Le nigaud ! Qui a donné là dedans.
 
--*who_janot
-Oh !
-Dame, c'est une histoire qu'est un peu longue.
+Pardine ! Dans le godan de c't' hôtel de la comtesse que je te conte.
 
--*who_simon
-Eh ben !
-Écoutez : v'là que j'allons à l'hôtel chercher les bottes, vous me conterez ça en chemin.
-
--*who_janot
-Ah !
-Le nigaud !
-Qui a donné là dedans.
-
--*who_simon
-Dans de quoi donc ?
-
--*who_janot
-Pardine !
-Dans le godan de c't' hôtel de la comtesse que je te conte.
-
--*who_simon
-Comment !
-Est-ce que ça n'est pas vrai ?
-
--*who_janot
 Pas du tout : tu t'es laissé là attraper à propos de botte.
 
--*who_simon
-Que le diable vous emporte donc de venir me faire perdre mon temps.
-J'avons aut' chose à faire qu'à rire, moi.
+Eh ! Là, là, ne te fâche pas. Tu n'es pas au milieu : c'est la fin qui raccommodera tout ça.
 
--*who_janot
-Eh !
-Là, là, ne te fâche pas.
-Tu n'es pas au milieu : c'est la fin qui raccommodera tout ça.
-
--*who_simon
-Eh ben !
-Quoi que gn'y a donc encore ?
-
--*who_janot
 Y a que je viens te prier de prier Mam'selle Suzon, ta fille, et toi, de venir assister en propres personnes au repas du festin de mes accordailles, dans un cabaret, avec une jolie demoiselle, que je donne là au coin de la rue.
 
--*who_simon
-Ah ! vraiment, Monsieur Janot, si ce n'est que ça, je ne manquerons pas de répondre à l'honneur que vous nous faites, en nous y trouvant le verre à la main, comme quoi que je vas faire ma toilette tout de suite.
-
--*who_janot
 Oui, et Mam'selle ta fille aussi.
 
--*who_simon
-Oh !
-Elle aura bentôt fait de se faire brave : c'est tout juste aujourd'hui un lendemain de fête, all' n'est pas encore ben decoiffér d'hier, c'est zune avance.
-
--*who_janot
 Bon, bon, sans cérémonie : qu'all' vienne dîner comme elle est, ça sera toujours autant de pris.
 
--*who_simon
-Mais, Monsieur Janot, je n'ai qu'une peur à l'heure qu'il est.
-
--*who_janot
 De quoi donc ?
 
--*who_simon
-C'est c'te p'tite fille, qui maugré vent et marée a toujours zeu une poignée d'inclination pour vous, quand ça va vous voir en épouster zune autre, ça va l'y retourner tout son lait.
+Écoutez, Monsieur Simon, consolez-la, c't' enfant, je ne vous dis rien, mais je n'ai pas encore dit mon dernier mot. On ne sait pas comment que la chance tournera : qu'all' vienne toujours ; p't-êt' que quand je la verrai là, qu'est-ce qui sait ? La future n'est pas encore si future, que... Enfin vous m'entendez ben.
 
--*who_janot
-Écoutez, Monsieur Simon, consolez-la, c't' enfant, je ne vous dis rien, mais je n'ai pas encore dit mon dernier mot.
-On ne sait pas comment que la chance tournera : qu'all' vienne toujours ; p't-êt' que quand je la verrai là, qu'est-ce qui sait ?
-La future n'est pas encore si future, que...
-Enfin vous m'entendez ben.
-
--*who_simon
-Oui, oui ; diab' !
-Il n'y a rien de pus clair : je vous entends.
-
--*who_janot
 Si vous n'étiez pas un bavard, je vous dirais ben queuque chose de pus clair encore, mais c'est que...
 
--*who_simon
-Moi, bavard !
-Ah !
-Pardi !
-Oui, je ne dis jamais que ce que je sais, et pis quéquefois ce que je ne sais pas, mais du reste on ne me ferait pas deserrer les dents.
+Eh ! V'là comme faut être. Écoutez, j'ai trouvé un trésor.
 
--*who_janot
-Eh !
-V'là comme faut être.
-Écoutez, j'ai trouvé un trésor.
+Oui, mon ami, un trésor, fin encore, et je me marie tout de suite avec tant qu'il durera. Et... Allez-moi bien vite chercher Mam'selle Suzon, et amenez-la au cabaret, où ce que je dirai le reste... Et moi, je vas chercher le trésor.
 
--*who_simon
-Miséricorde !
-Un trésor !
+Quiens ! Pâmer ! Sembe-t-i' pas qu'ils le tiennent déjà. Ventreguenne ! Comme ça vous affriande ! Diable ! C'est dangereux d'être si riche. V'là déjà qu'i' m'a presque étranglé, lui, à force de caresses. Eh ben ! Dodinet... Qu'est-ce que t'as fait ?
 
--*who_janot
-Oui, mon ami, un trésor, fin encore, et je me marie tout de suite avec tant qu'il durera.
-Et...
-Allez-moi bien vite chercher Mam'selle Suzon, et amenez-la au cabaret, où ce que je dirai le reste...
-Et moi, je vas chercher le trésor.
+C'est bon. Moi, j'ai ben avancé la besogne aussi, va : j'ai déjà invité Monsieur et Madame Ragot, avec Mam'selle Suzon, et son ch' père, dans sa boutique, que je leux ai fait tourner la tête à tous.
 
--*who_simon
-J'y cours, mon cher ami.
-Un trésor !
-Embrassons-nous, mon cher Janot.
-Un trésor !
-Fin, ah!
-Queu bonheur !
-Embrassons-nous encore : je vous en fais mon compliment...
-Encore...
-Ah !
-Comme Suzon va être contente, c'te pauvre enfant !
-Un trésor !
-Ça va la faire pâmer, M. Janot, ça va la faire pâmer.
-Holà !
-Suzon, holà !
-
-**** *book_ *id_I06 *act_I *date_1779
-
--*who_janot
-Quiens !
-Pâmer !
-Sembe-t-i' pas qu'ils le tiennent déjà.
-Ventreguenne !
-Comme ça vous affriande !
-Diable !
-C'est dangereux d'être si riche.
-V'là déjà qu'i' m'a presque étranglé, lui, à force de caresses.
-Eh ben !
-Dodinet...
-Qu'est-ce que t'as fait ?
-
-**** *book_ *id_I07 *act_I *date_1779
-
--*who_dodinet
-Mon ami, tout est en bon train : les viandes sont à la broche, le couvert est mis, le vin est sur la table, et je viens de chercher le clerc de notaire, qui est déjà au cabaret à griffonier et à boire en nous attendant.
-
--*who_janot
-C'est bon.
-Moi, j'ai ben avancé la besogne aussi, va : j'ai déjà invité Monsieur et Madame Ragot, avec Mam'selle Suzon, et son ch' père, dans sa boutique, que je leux ai fait tourner la tête à tous.
-
--*who_dodinet
-Comme ça, je n'ai donc pus à prier, moi, que la fille de boutique du dégraisseur ?
-Comment que tu dis qu'elle s'appelle ?
-
--*who_janot
 Mam'selle Perrette, une petite blonde, où ce que tu lui verras des yeux dans la tête, avec un petit nez, qu'all' rit toujours, où ce que tu la reconnaîtras ben, va.
 
--*who_dodinet
-C'est bon, c'est bon : je trouverai ben, ne t'inquiète pas.
+Tu l'amèneras avec toi, et pendant c' temps-là, je vas chercher Mam'selle Courtois et mon lingot, et pis rendre l'habit à la comtesse, et pis je reviendrai vous trouver tout de suite. Vous n'avez toujours qu'à boire et manger, tout le monde ?
 
--*who_janot
-Tu l'amèneras avec toi, et pendant c' temps-là, je vas chercher Mam'selle Courtois et mon lingot, et pis rendre l'habit à la comtesse, et pis je reviendrai vous trouver tout de suite.
-Vous n'avez toujours qu'à boire et manger, tout le monde ?
+Me v'là ben prope, moi ! La comtesse qui s'est mise en colère contre moi. Elle m'a repris sa veste et m'a dit des sottises par-dessus. Heureusement que j'avais encore ce manteau de c't abbé, mais ce n'est rien que ça. C'te Mam'selle Courtois qui a fait la difficile, tenez ! Quand j'y ai parlé en manière, là... Comme pour l'i faire une déclaration d'amour. Retire-toi de là, petit vilain. Diabe ! Elle est ben dégoûtée. Comme c'est trompeur dans les paroles que ça dit pourtant, ces filles ! Je croyais du d'abord, moi, qu'i' gn'y avait qu'à me baisser. Eh ben ! À présent c'est tout le contraire. Mais c'est égal : je m'en moque aussi à mon tour. J'ai toujours là mon lingot que j'ai repris en m'en allant. Avec ça, je ne serai pas embarrassé d'en trouver d'autres... Jarni ! C'est une belle invention que c't or ! Ça vous console tout de suite dans vos chagrins. Y a des amis qui vous font des discours d'une aune, qui n'avancent à rien, et celui-là, sans vous rien dire, rien que de le regarder, ça vous tranquillise en un clin d'œil : c'est bien différent.
 
--*who_dodinet
-Oui, oui.
+Ma foi, rien du tout. C'est elle qui a fait... Là, comme si... T'entends bien ?
 
-**** *book_ *id_I08 *act_I *date_1779
-
--*who_madameragot
-Qu'est-ce que tu me ragotes là, toi, depis une heure, avec ton dîner au cabaret, pour une noce ?
-Et de qui est c'te noce?
-Voyons, de not' chat ?
-
--*who_ragot
-Eh !
-Non, ma femme : je vous dis, c'est d'un quéq'zun que...
-
--*who_madameragot
-Eh ben !
-Après ?
-Est-ce qu'il n'a pas de nom ce quéq'zun que...
-
--*who_ragot
-Si fait, si fait, Mme Ragot, mais c'est que i' m'a dit qu'i'...
-
--*who_madameragot
-La peste t'étrangle avec tes cachotteries ; un quéq'zun que...
-Qui m'a dit qu'i'...
-Qui m'a dit quoi?...
-Eh !
-Qué que tu lui as répondu, toi?
-
--*who_ragot
-J'y ai répondu que vous y viendriez, comme de raison.
-
--*who_madameragot
-Eh ben ! par où que c'est qu'i' faut donc passer ?
-Ce cabaret, c'est-i' encore un mystère ?
-
-**** *book_ *id_I09 *act_I *date_1779
-
--*who_simon
-Allons, ma fille, redresse-toi : te v'là pas mal comme ça.
-Quiens, prends-moi par le bras ! ça te donnera du maintien.
-Ah !
-C'est Monsieur et Madame Ragot.
-Pardon, mon voisin, si je nous rencontrons à vous barrer une porte.
-Vous alliez pour entrer, je crois ?
-
--*who_ragot
-Et vous-même, M. Simon, vous alliez faire un petit écot, pas vrai ?
-
--*who_simon
-Je sommes de noce.
-
--*who_ragot
-Ah !
-Queue rencontre !
-Je venons aussi pour une noce d'accordailles.
-Passez donc.
-
--*who_simon
-Après vous, Monsieur Ragot.
-
--*who_ragot
-Allez-vous faire des compliments ?
-
--*who_simon
-Je ne passerons pas avant Mme Ragot.
-
--*who_ragot
-Mon voisin, vous permettez ?
-
--*who_simon
-Comment donc !
-Trop d'honneur.
-
-**** *book_ *id_I10 *act_I *date_1779
-
--*who_perrette
-Comment !
-C'est de la part de ce Monsieur qui m'avait tant promis de choses, au sujet de mes mailles, quand j'en aurais.
-
--*who_dodinet
-Oui : vous voyez qu'il est de parole.
-En avez-vous à reprendre à c't' heure ci ?
-
--*who_perrette
-Non, pas encore : je ne crois pas, du moins.
-
--*who_dodinet
-Ah !
-Vous conservez ben vos affaires.
-Depis le temps, y en a d'aucunes qui auraient été déjà ravaudées pus de quatre fois.
-
--*who_perrette
-Eh !
-C'est-i' ben loin que nous allons ?
-
--*who_dodinet
-Non : je nous y v'là devant la porte...
-Et avez-vous songé à lui depuis que vous ne l'avez pas revu ?
-
--*who_perrette
-Ma fine, j'avons été assez grondée par rapport à lui, pour m'en souvenir, qu'il m'a pensé faire mettre à la porte.
-
--*who_dodinet
-Mais ne vous avait-i' pas promis quéque chose dans c' temps-là ?
-
--*who_perrette
-Bon ! les promesses que les garçons font aux filles, i' n'y a pas de fiate à y prendre : aussi, ça nous entre par une oreille et ça nous sort par l'autre.
-
--*who_dodinet
-Ah !
-Mais, Mademoiselle, y a garçon et garçon.
-Si vous vouliez, par exemple, je vous en ferais voir un, moi, que quand i' tient ce qu'i' promet, c'est qui ne manque jamais de parole, da.
-
--*who_perrette
-Ah !
-Monsieur, ils sont rares ceux-là.
-
--*who_dodinet
-Ah !
-Mademoiselle, pas si rares que votre mérite n'en fasse ben retrouver quéque échantillon, et quand vous voudrez...
-Mais entrons toujours, on nous attend, et tout en devisant, je vous ferai voir que gn'y en a tencore.
-
--*who_perrette
-Monsieur, ça n'est pas de refus : quand i' s'en rencontre, ça' fait toujours plaisir.
-C'est-i' là ?
-
--*who_dodinet
-Oui, Mademoiselle, au fond de la cour, n° 9 : À Belle-Vue.
-
--*who_perrette
-Comment donc !
-Mais c'est bon signe, Monsieur ; v'là une annonce qu'est heureuse.
-
--*who_dodinet
-Allez toujours ; allez, Mademoiselle, le reste s'ensuivra.
-
-**** *book_ *id_I11 *act_I *date_1779
-
--*who_janot
-Me v'là ben prope, moi !
-La comtesse qui s'est mise en colère contre moi.
-Elle m'a repris sa veste et m'a dit des sottises par-dessus.
-Heureusement que j'avais encore ce manteau de c't abbé, mais ce n'est rien que ça.
-C'te Mam'selle Courtois qui a fait la difficile, tenez !
-Quand j'y ai parlé en manière, là...
-Comme pour l'i faire une déclaration d'amour.
-Retire-toi de là, petit vilain.
-Diabe !
-Elle est ben dégoûtée.
-Comme c'est trompeur dans les paroles que ça dit pourtant, ces filles !
-Je croyais du d'abord, moi, qu'i' gn'y avait qu'à me baisser.
-Eh ben !
-À présent c'est tout le contraire.
-Mais c'est égal : je m'en moque aussi à mon tour.
-J'ai toujours là mon lingot que j'ai repris en m'en allant.
-Avec ça, je ne serai pas embarrassé d'en trouver d'autres...
-Jarni !
-C'est une belle invention que c't or !
-Ça vous console tout de suite dans vos chagrins.
-Y a des amis qui vous font des discours d'une aune, qui n'avancent à rien, et celui-là, sans vous rien dire, rien que de le regarder, ça vous tranquillise en un clin d'œil : c'est bien différent.
-
-**** *book_ *id_I12 *act_I *date_1779
-
--*who_dodinet
-Ah !
-Te v'là, Janot !
-Eh ben !
-On t'attend là dedans.
-Tout le monde est à table !
-Et ta demoiselle, qué que t'en as donc fait ?
-
--*who_janot
-Ma foi, rien du tout.
-C'est elle qui a fait...
-Là, comme si...
-T'entends bien ?
-
--*who_dodinet
-Diabe !
-C'est malheureux ça.
-Tu ne lui as donc pas montré ton lingot ?
-
--*who_janot
 Si fait : c'est par là que j'ai commencé ; mais elle, pour me faire enrager, vois-tu, quand elle l'a eu ben regardé, elle m'a dit que ça n'en était pas.
 
--*who_dodinet
-Comment !
-Que c'en était pas !
-
--*who_janot
 Oui, d'or : j'ai eu beau lui soutenir, moi, que c'en était, elle s'est obstinée, au point qu'elle n'a pas voulu en démordre.
 
--*who_dodinet
-Eh !
-Mais diante !
-Il faut vérifier ça, vois-tu : c'est sérieux au moins, Janot.
-Tout ce monde qui mange là dedans, i's comptent ben que c'en est, eux.
+Et je te dis ben que c'en est aussi, moi. T'es comme un enfant. Est-ce qu'une fille se connaît à ça, donc !
 
--*who_janot
-Et je te dis ben que c'en est aussi, moi.
-T'es comme un enfant.
-Est-ce qu'une fille se connaît à ça, donc !
+Oh ! Mais écoute donc : faut aller doucement ici : mon ami, faut de la prudence. Si je vas montrer ça au premier venu, on sera jaloux contre moi. Dès qu'on saura que c'en est, tu verras tout le monde qui en voudra sa part : faut prendre garde.
 
--*who_dodinet
-Mais c'est que c'est de conséquence : tu ne sais pas, toi, que le cabaretier est déjà venu me demander de l'argent : y a déjà six bouteilles de bues sans compter le manger.
-Pour le tranquilliser, viens-t'en un peu lui montrer ça.
+À la bonne heure comme ça. Quoique je suis tranquille là-dessus, moi : je suis ben sûr que c'en est, va.
 
--*who_janot
-Oh !
-Mais écoute donc : faut aller doucement ici : mon ami, faut de la prudence.
-Si je vas montrer ça au premier venu, on sera jaloux contre moi.
-Dès qu'on saura que c'en est, tu verras tout le monde qui en voudra sa part : faut prendre garde.
+Diable ! Tout ça commence à me fourrer martel en tête, moi. Si je montre ça à un orfèvre, i' cherchera à me tricher d'abord, ou ben i' craira que je l'ai volé quéque part. V'la l'embarras. Jarni ! Je ne croyais pas que ça donnait tant de tintoin. J'aimerais mieux l'avoir trouvé en louis d'or, à présent, ça serait pus commode. Mais pour en être, je suis ben sûr que c'en est. Voyez donc comme ça brille ! Je m'en vas toujours chez l'orfèvre. Holà ! Monsieur le maître marchand orfèvre !
 
--*who_dodinet
-C'est vrai, t'as raison.
-Y a tant d'envieux au jour d'aujourd'hui qui cherchent à vivre aux dépens des autres; i' faut se défier de tout le monde.
-Mais cependant, mon ami, ça presse.
-Écoute : va-t'en chez un orfèvre.
-Tiens, en v'là un là devant : tâche de te faire donner quéque chose à compte, ou de savoir au juste ce qu'il en est, et moi, je m'en vas toujours là dedans le cabaret les retenir un peu, qu'ils ne boivent et ne mangent pas tout jusqu'à la définition de ça.
-
--*who_janot
-À la bonne heure comme ça.
-Quoique je suis tranquille là-dessus, moi : je suis ben sûr que c'en est, va.
-
--*who_dodinet
-Eh ben !
-Si c'en est, tant mieux.
-On le verra toujours ben ; mais le pus prudent, c'est de prendre ses précautions.
-On allait servir le rôti, je m'en vas toujours le décommander, jusqu'à nouvel ordre.
-
-**** *book_ *id_I13 *act_I *date_1779
-
--*who_janot
-Diable !
-Tout ça commence à me fourrer martel en tête, moi.
-Si je montre ça à un orfèvre, i' cherchera à me tricher d'abord, ou ben i' craira que je l'ai volé quéque part.
-V'la l'embarras.
-Jarni !
-Je ne croyais pas que ça donnait tant de tintoin.
-J'aimerais mieux l'avoir trouvé en louis d'or, à présent, ça serait pus commode.
-Mais pour en être, je suis ben sûr que c'en est.
-Voyez donc comme ça brille !
-Je m'en vas toujours chez l'orfèvre.
-Holà !
-Monsieur le maître marchand orfèvre !
-
-**** *book_ *id_I14 *act_I *date_1779
-
--*who_ragot
-Eh ben donc !
-Mon cher ami Janot, qu'est-ce que c'est donc qu'on dit de c' trésor que t'as trouvé !
-
--*who_lorfevre
-Qu'est-ce qu'il y a pour votre service, Monsieur ?
-
--*who_janot
 Je vas vous conter ça tout à l'heure.
 Monsieur, faites-moi un plaisir de me dire un peu, s'il vous plaît, comben que ça vaut d'argent ce morceau d'or-là.
 
--*who_ragot
-Diabe !
-Il est beau.
+Hein ! Quoi que vous avez donc dit, Monsieur ?
 
--*who_lorfevre
-D'or ?
-Ça n'en est pas.
+Eh ben ! Comment que vous avez entendu, vous, Monsieur Ragot ?
 
--*who_janot
-Hein !
-Quoi que vous avez donc dit, Monsieur ?
+Comment ! Ça n'en serait pas !
 
--*who_lorfevre
-Je vous dis que ça n'en est pas.
+Oh ben ! J'allons voir ça. Restez là, vous, Monsieur Ragot. J'en aurons bentôt le cœur net, allez.
 
--*who_janot
-Eh ben !
-Comment que vous avez entendu, vous, Monsieur Ragot ?
+Hélas ! Mesdames, je vous demande ben pardon, que ça n'est pas de ma faute, où ce que si vous l'aviez vu vous-mêmes, j'en avais un beau morceau qui vous aurait fait envie, que vous vous y seriez trompées comme moi, jaune comme un coin et brillant comme une lanterne allumée.
 
--*who_ragot
-J'ai entendu que ça n'en est pas.
+Hélas ! Mam'selle Suzon, preuve en main tenez, regardez par vous-même.
 
--*who_janot
-Comment !
-Ça n'en serait pas !
-
--*who_lorfevre
-Vous n'avez qu'à entrer dans ma boutique, je vais vous le toucher sur ma pierre, vous en serez plus sûr.
-
--*who_janot
-Oh ben !
-J'allons voir ça.
-Restez là, vous, Monsieur Ragot.
-J'en aurons bentôt le cœur net, allez.
-
-**** *book_ *id_I15 *act_I *date_1779
-
--*who_ragot
-Et nous aussi, je crais.
-Heureusement que j'avons déjà pris un bon à-compte sur le repas, car il me semble que le dessert ne vaudra pas les entrées.
-Holà, mesdames, venez-vous-en donc ici prendre un peu l'air.
-Est-ce qu'on boit comme ça les uns sans les autres ?
-Attendez donc la future.
-
-**** *book_ *id_I16 *act_I *date_1779
-
--*who_dodinet
-Eh ben !
-Où ce que nous en sommes !
-
--*who_ragot
-Ah !
-Je crois que j'en sommes au dessert.
-
--*who_dodinet
-Au dessert ?
-
--*who_ragot
-Oui.
-Il a montré son lingot à l'orfèvre ; mais i' l'i a dit que ça n'en était pas.
-
--*who_dodinet
-Comment !
-Ça se pourrait que ça n'en soit pas ?
-Ah !
-Ventrebleu !
-Qu'est-ce qui payera le diner, à présent ?
-
--*who_ragot
-Ma foi, qui ça voudra.
-Ça ne me regarde pas ; mais je crais que si on attend après le lingot pour souper, on aura les dents longues.
-Eh ben !
-Eh ben !
-Queu tocsin qui sonne donc là-dedans ?
-Queu remue-ménage !
-
--*who_madameragot
-Parle donc, hé !
-Monsieur Nicodème ; est-ce que tu te moques de nous donc ?
-
-**** *book_ *id_I17 *act_I *date_1779
-
--*who_madameragot
-Qu'est-ce que c'est donc que c't' affronterie-là de nous venir retirer les morceaux du bec ?
-
--*who_ragot
-Qu'est-ce que vous avez donc, Mme Ragot ?
-
--*who_perrette
-C'est des impertinents qui nous enlèvent not' mangeaille de dessus nos assiettes.
-
--*who_suzon
-Oui ; mais j'avons fait main basse, et je mettrons c'te bouteille-là à fin, s'i' plaît à Dieu.
-
--*who_madameragot
-Pardine !
-C'est ben juste ; pisqu'on nous a invités à la noce, faut ben que j' vivions p't-êt'.
-Mais où c' qu'est donc la mariée dans tout ça, et l'épouseur ?
-Eh !
-Le v'là qui sort de chez l'orfèvre ; comme il a l'oreille basse !
-Ah !
-V'là un mauvais signe pour la noce.
-
-**** *book_ *id_I18 *act_I *date_1779
-
--*who_perrette
-Eh !
-Bonjour donc, Monsieur Janot ; vous êtes rare comme les beaux jours : on ne vous voit plus.
-
--*who_madameragot
-Pardi, oui, v'là qu'est bien retourné : c'est ben de ça qui s'agit.
-Parlez donc, beau mignon, quoi que c'est donc qu'on dit que vous avez qui en est ou qui n'en est pas ?
-Est-ce-t-i' donc pour affronter le monde qu' vous nous avez invités ?
-Parlez donc.
-
--*who_janot
-Hélas !
-Mesdames, je vous demande ben pardon, que ça n'est pas de ma faute, où ce que si vous l'aviez vu vous-mêmes, j'en avais un beau morceau qui vous aurait fait envie, que vous vous y seriez trompées comme moi, jaune comme un coin et brillant comme une lanterne allumée.
-
--*who_suzon
-Le pauvre garçon !
-Comme le v'là penaud !
-C'est-i' ben vrai ce que vous nous dites là, Monsieur Janot ?
-
--*who_janot
-Hélas !
-Mam'selle Suzon, preuve en main tenez, regardez par vous-même.
-
--*who_suzon
-Ah !
-Ce diamant !
-Comme ça tarluit : c'est ben dommage.
-Examinez donc ça, Madame.
-
--*who_madameragot
-Dame, oui, c'était ben tentant : c'était apparemment là-dessus que vous vouliez trouver une femme.
-
--*who_perrette
-Une femme !
-Était-ce-t-i' moi, Monsieur Janot, que vous auriez choisie ?
-
--*who_suzon
-Mon p'tit Janot, était-ce-t-i' pour moi vot' lingot ?
-
--*who_janot
 Allez-vous-en au diabe : c'est vous qui m'avez porté malheur.
 
-**** *book_ *id_I19 *act_I *date_1779
-
--*who_ragot
-Non, ça ne nous regarde pas : arrangez-vous avec Monsieur.
-
--*who_simon
-Eh !
-Par la ventrebleu !
-Zst-ce qu'on invite les gens pour les faire payer donc ?
-Ça ne serait pas juste.
-Ah !
-Vous v'là, l'ami Janot.
-Arrangez donc un peu ça, vous, avec ce trésor en question.
-
--*who_janot
 Laisse-moi tranquille, toi.
 
--*who_ragot
-Ah !
-Monsieur Janot, vous v'là bien maussade pour un jour de noce.
-Qu'est-ce que vous avez donc dans la tête, mesdemoiselles ?
-Est-ce vous qui chagrinez ce jeune homme ?
+Ah ! Me v'là ben: je n'ai pus qu'à porter ça à la monnaie. Si ma comtesse voulait me reprendre encore, ça ne serait que demi-mal.
 
-**** *book_ *id_I20 *act_I *date_1779
-
--*who_dodinet
-Messieurs, laissez-moi aller, encore un coup : je vous dis que ce n'est pas pour moi la carte.
-
--*who_lecabaretier
-Tenez-le ben, mes amis.
-Oh !
-Tu payeras, chien d'escroc : c'est toi qui as commandé le repas.
-
--*who_dodinet
-Mais, messieurs, je n'ai pas d'argent assez dessus moi.
-
--*who_lecabaretier
-Eh ben !
-Tu as des effets : tu viendras les chercher.
-
--*who_dodinet
-À mon secours, Janot.
-Eh !
-Janot.
-
--*who_lenotaire
-Monsieur Janot, le contrat servira pour une autre fois ; mais à c't' heure on a besoin de vous là-dedans pour régler les comptes.
-
--*who_ragot
-Oui, oui, ne vous gênez pas, mon ami ; nous ne vous retenons pas.
-
--*who_madameragot
-Oui, si je n'avons pas mieux dîné, ça n'est pas de votre faute.
-Nous vous sommes toujours ben obligés de la bonne volonté.
-
--*who_suzon
-Adieu, Monsieur Janot.
-Je souhaite que le jour de la noce vous réussisse mieux que celui des accordailles.
-
--*who_simon
-Si vous voulez venir collationner avec nous, Mam'selle Perrette, je vous remettrons chez vous après.
-
--*who_perrette
-Ça n'est pas de refus, Monsieur, car M. Janot m'a mise en appétit ; mais je ne lui en veux pas, ça se passera sus aut' chose.
-
-**** *book_ *id_I21 *act_I *date_1779
-
--*who_janot
-Ah !
-Me v'là ben: je n'ai pus qu'à porter ça à la monnaie.
-Si ma comtesse voulait me reprendre encore, ça ne serait que demi-mal.
-
-**** *book_ *id_I22 *act_I *date_1779
-
--*who_dodinet
-Ah !
-Te v'là, Janot.
-Tiens, mon ami : je suis bien aise de te trouver.
-
--*who_janot
 Qu'est-ce que c'est que ça ?
 
--*who_dodinet
-C'est la carte du cabaret.
-Vite, donne-moi de l'argent, que j'aille payer.
-
--*who_janot
 Est-ce que tu n'as pas payé déjà ?
 
--*who_dodinet
-Eh !
-Pardine !
-Avec quoi ?
-Quiens, on m'a pris mon chapeau, mon épée et mes bouques en gage.
+Eh ben ! Mon ami, nous v'là tranquilles comme ça. I' n' leur faut pus d'argent.
 
--*who_janot
-Eh ben !
-Mon ami, nous v'là tranquilles comme ça.
-I' n' leur faut pus d'argent.
+Eh ben ! Dame, mon ami, arrange-toi : v'là le lingot. L'orfèvre dit comme ça que ça n'en est pas du bon or.
 
--*who_dodinet
-Non-da, mais i' me faut mes effets, à moi.
+Je t'en demande pardon, mon ami. J'y perds pus que toi à ça ; mais dame aussi on ne sait jamais à quoi s'en tenir. L'aut' jour, j'ai été dupe, moi, parce que c'en était ; aujourd'hui, t'es trompé, toi, parce que ça n'en est pas ; ça prouve que chacun a son tour, et que tout ce qui reluit n'est pas or. Quiens, Dodinet, i' n' faut pas encore se désespèrer : l'orfèvre s'est p't-êt' trompé. V'là un homme que je vois là, qui sort d'un collège ; ça a l'air d'un savant, avec sa grande robe ; y nous dira tout de suite de quoi i' retourne ben mieux que l'orfèvre, lui. Appelons-le.
 
--*who_janot
-Eh ben !
-Dame, mon ami, arrange-toi : v'là le lingot.
-L'orfèvre dit comme ça que ça n'en est pas du bon or.
-
--*who_dodinet
-Me v'là bien avancé, moi, à présent.
-Que le diable t'emporte, va, avec ton maudit lingot : je te l'avais-t-i' pas répété cent fois tantôt que ça n'en était pas ?
-
--*who_janot
-Je t'en demande pardon, mon ami.
-J'y perds pus que toi à ça ; mais dame aussi on ne sait jamais à quoi s'en tenir.
-L'aut' jour, j'ai été dupe, moi, parce que c'en était ; aujourd'hui, t'es trompé, toi, parce que ça n'en est pas ; ça prouve que chacun a son tour, et que tout ce qui reluit n'est pas or.
-Quiens, Dodinet, i' n' faut pas encore se désespèrer : l'orfèvre s'est p't-êt' trompé.
-V'là un homme que je vois là, qui sort d'un collège ; ça a l'air d'un savant, avec sa grande robe ; y nous dira tout de suite de quoi i' retourne ben mieux que l'orfèvre, lui.
-Appelons-le.
-
-**** *book_ *id_I23 *act_I *date_1779
-
--*who_janot
 Monsieur, si c'était un effet de vot' complaisance, je voudrais ben vous demander, pour savoir...
 
--*who_lephilosophe
-Savoir ?
-Ah !
-Je crois bien, mon ami !
-Que vous voudriez savoir.
-Vous n'êtes pas le seul qui voudriez savoir ; mais voilà justement le difficile, c'est de savoir.
-Tout le monde croit savoir, et personne ne sait.
-Pour moi, tout mon savoir ne m'a appris qu'à savoir que je ne sais rien.
-
--*who_janot
 Je le crois ben, Monsieur ; mais c'est que je vous demande...
 
--*who_lephilosophe
-Oh !
-Demande !
-Une demande est bientôt faite ; mais il y a demande et demande : une demande se divise en juste et en injuste.
-Une demande juste, c'est une demande par laquelle on demande...
+Eh ! Que de demandes ! Je viens seulement pour que vous me disiez, sur une chose, que j'ai, d'or, là, massif, fin, si c'en est, ou ben si ça n'en est pas.
 
--*who_janot
-Eh !
-Que de demandes !
-Je viens seulement pour que vous me disiez, sur une chose, que j'ai, d'or, là, massif, fin, si c'en est, ou ben si ça n'en est pas.
-
--*who_lephilosophe
-Si cela en est ?
-Ah !
-Mon ami, que de gens sont trompés à ce mot !
-Combien qui, dupes de l'apparence, prennent le mot pour la chose, l'ombre pour la lumière et l'illusion pour la realité.
-Défiez-vous de tout, mon enfant.
-Soyez en garde contre tout le monde.
-Celui-ci vient avec de beaux compliments, affichant ua extérieur zélé et chaud pour vous servir, vous prenez cela pour de l'amitié, eh bien !
-Ça n'en est pas.
-
--*who_janot
 Mais il n'est pas question de ça.
 
--*who_lephilosophe
-Celui-là, bavard outré, qui vous fait de grandes phrases et vous débite de grands mots, qui pille ab hoc et ab hac tout ce qu'il dit et tout ce qu'il écrit, et vous étourdit avec ses lieux communs ; simples que vous êtes, vous prenez cela pour de l'esprit, eh bien !
-Ça n'en est pas.
+Eh ! Qu'est-ce qui vous parle d'esprit ?
 
--*who_janot
-Eh !
-Qu'est-ce qui vous parle d'esprit ?
+Peste soit de la beauté ! Écoutez-moi.
 
--*who_lephilosophe
-Cette jeune fille que vous voyez si parée avec ces cheveux postiches et ces dents artificielles, ce teint fait au pastel et tous ces appas empruntés ; pauvres nigauds, vous prenez cela pour de la beauté, eh bien !
-Ça n'en est pas.
+Le diabe vous emporte avec votre amour. C'est de l'or...
 
--*who_janot
-Peste soit de la beauté !
-Écoutez-moi.
+Ah ! Maudit bavard ! Que n'étais-tu donc là l'autre jour, de c't' histoire dessus ma veste, t'aurais bon dit que c'en était de ce coup-là.
 
--*who_lephilosophe
-Cette femme, qui ne parle que de son mari, qui ne peut faire un pas sans lui, qui se trouve mal quand il sort et se jette à son cou quand il revient ; bonne dupe ! vous prenez cela pour de l'amour !
-Oh bien !
-Ça n'en est pas.
+Ah ! Si j'étais le plus fort, que je te rosserais de bon courage !
 
--*who_janot
-Le diabe vous emporte avec votre amour.
-C'est de l'or...
+Ah ! Miséricorde, i' ne finira pas, et le cabaretier qui m'attend.
 
--*who_lephilosophe
-De l'or ?
-Eh !
-Où cela ?
-Sur l'habit d'un Gascon ?
-Ça n'en est pas.
-Dans la bourse d'un joueur ?
-Ça n'en est pas ; dans le creuset d'un alchimiste ?
-Ça n'en est pas ; dans le coffre-fort d'un poète ?
-Ça n'en est pas ; d'un peintre ?
-Ça n'en est pas ; d'un musicien ?
-Ça n'en est pas.
+Ah ! Le misérable, il a juré de me faire perdre patience. Veux-tu décamper d'ici avec ton diabe de ça n'en est pas.
 
--*who_janot
-Ah !
-Maudit bavard !
-Que n'étais-tu donc là l'autre jour, de c't' histoire dessus ma veste, t'aurais bon dit que c'en était de ce coup-là.
+Encore ! Chien de rabâcheur.
 
--*who_lephilosophe
-Que voulez-vous donc dire ?
-Expliquez-vous.
-
--*who_janot
-Ah !
-Si j'étais le plus fort, que je te rosserais de bon courage !
-
--*who_lephilosophe
-Du courage !
-Qui ?
-Ce fanfaron qui parlait si haut, et qui faisait blanc de son épée ?
-Vous preniez cela pour du courage !
-Eh bien !
-Ça n'en était pas.
-
--*who_janot
-Ah !
-Miséricorde, i' ne finira pas, et le cabaretier qui m'attend.
-
--*who_lephilosophe
-Le cabaretier !
-Ah !
-Si le breuvage contrefait qu'il vous vend est du vin pur.
-Eh bien !
-Ça n'en est pas.
-
--*who_janot
-Ah !
-Le misérable, il a juré de me faire perdre patience.
-Veux-tu décamper d'ici avec ton diabe de ça n'en est pas.
-
--*who_lephilosophe
-Oh !
-Vous vous fâchez, et vous me demanderez si c'est là de la raison ?
-Eh bien !
-Ça n'en est pas.
-
--*who_janot
-Encore !
-Chien de rabâcheur.
-
--*who_lephilosophe
-De la modération !
-Ça n'en est pas.
-
--*who_janot
 C'est le diabe qui te puisse emporter.
 
--*who_lephilosophe
-De la prudence, du bon sens, du jugement ?
-Ça n'en est pas, ça n'en peut pas être, et ça n'en sera jamais.
+Eh ben ! Messieurs, ça n'en est donc pas. Que de brillantes espérances on voit tous les jours s'évanouir ! Que de gens rêvent avoir trouvé un trésor et que le réveil désabuse ! Pour nous, le seul que nous ambitionnons, c'est le bonheur de vous plaire.
 
--*who_janot
-Eh ben !
-Messieurs, ça n'en est donc pas.
-Que de brillantes espérances on voit tous les jours s'évanouir !
-Que de gens rêvent avoir trouvé un trésor et que le réveil désabuse !
-Pour nous, le seul que nous ambitionnons, c'est le bonheur de vous plaire.
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dodinet
+
+Oh ! Oui : t'as raison. T'es ben là ; faut t'y tenir.
+
+Eh ! Non, chez c'te comtesse où ce que te vl'à habillé comme un Monsieur.
+
+Oh ! Je crais ben que c'est une bonne condition : avec les grandes dames y a toujours quéque chose à gagner, mêmement c'est ben par le canal d'une comme ça que je me suis tobtenu l'emploi que j'ai.
+
+Comment donc ça ?
+
+Queu bonheur donc qui t'arrive ?
+
+Sur le pavé !
+
+Et quéque tu vas devenir après, toi ?
+
+Oh ! Tu ne serais pas le premier qu'on aurait vu faire ce chemin-là aussi vite : mais encore i' faut des fonds pour ça.
+
+Dame ! Faut savoir.
+
+De cave.
+
+Oh ben ! Laisse faire, va, je ne serai pas le plus mal partagé.
+
+Ah ! C'est juste : je te donnerai ta revanche...
+
+Mais dis-moi donc un peu, Janot, est-ce que t'es devenu fou depuis quéque temps ?
+
+As-tu été heureux à queuque jeu !
+
+Mais il y a des jeux d'adresse.
+
+Tu as donc gagné à la Loterie ?
+
+Il faut donc que tu aies volé tes maîtres, car voilà à peu près tous les moyens de s'enrichir que je connaisse, moi.
+
+Lesquels donc ?... Tu ne connais pas d'aut' fille que Mam'selle Suzon, toi : ce n'est pas par là que tu...
+
+Explique-moi donc ça, mon ami, car je n'y comprends rien.
+
+Oh ! N'aie pas peur.
+
+Pardine ! je le crois ben : dis-le donc.
+
+Non, non. I' n'y a personne : dis ben vite. T'as trouve...
+
+Nigaud toi-même, bête : c'est un lingot que tu veux dire.
+
+Massif ?
+
+Ah ! Mon cher ami, mais c'est une fortune immense que ça.
+
+Mais où ce que tu l'as mis, montre-le-moi donc ?
+
+C'est un trésor que ça, Janot ; mais dis donc, es-tu ben sûr que c'en est de l'or ?
+
+Écoute : t'as de l'instinct, faut te pousser dans le monde.
+
+Mais faut te marier, mon ami, c'est là la grand'porte, c'est celle-là qui mène à tout. À présent que t'as du bien, tout le monde te jettera ses filles à la tête.
+
+Ah ! Dame, ça se pourrait bien, mais on n'y regarde pas de si près, et pis y a du remède à tout. Dis-moi, as-tu encore de l'inclination pour Mam'selle Suzon ?
+
+T'as raison : te v'là à même de choisir, faut en profiter. Aimerais-tu pas mieux la fille de boutique du dégraisseur ?
+
+Oui, celle-là.
+
+Dame ! Qui done veux-tu prendre au bout de tout ?
+
+Eh ! Pardine ! Je te le demande exprès.
+
+Oh ! Diable, t'es ambitionneux.
+
+C'est fort ben pris à toi : mais c't femme de chambre voudra-t-elle te le laisser prendre son galon ?
+
+Ah ! Oui, t'as raison. Je n'y pensais pas moi : ça prévient ben les gens à prendre du goût ça.
+
+Je veux ben, moi : quoi que tu veux que je fasse ?
+
+Pourquoi que tu n'y vas pas toi-même ?
+
+Eh ben ! Allons : j'y vas.
+
+Oui, c'est ben imaginé : j'en rirons.
+
+Écoute, Janot, j'ai un de mes amis qui est clerc de notaire que je connais, je l'inviterai aussi pour qu'il se trouve au repas et qu'il te dresse le contrat tout prêt : entends-tu ?
+
+Mon ami, tout est en bon train : les viandes sont à la broche, le couvert est mis, le vin est sur la table, et je viens de chercher le clerc de notaire, qui est déjà au cabaret à griffonier et à boire en nous attendant.
+
+Comme ça, je n'ai donc pus à prier, moi, que la fille de boutique du dégraisseur ? Comment que tu dis qu'elle s'appelle ?
+
+C'est bon, c'est bon : je trouverai ben, ne t'inquiète pas.
+
+Oui, oui.
+
+Oui : vous voyez qu'il est de parole. En avez-vous à reprendre à c't' heure ci ?
+
+Ah ! Vous conservez ben vos affaires. Depis le temps, y en a d'aucunes qui auraient été déjà ravaudées pus de quatre fois.
+
+Non : je nous y v'là devant la porte... Et avez-vous songé à lui depuis que vous ne l'avez pas revu ?
+
+Mais ne vous avait-i' pas promis quéque chose dans c' temps-là ?
+
+Ah ! Mais, Mademoiselle, y a garçon et garçon. Si vous vouliez, par exemple, je vous en ferais voir un, moi, que quand i' tient ce qu'i' promet, c'est qui ne manque jamais de parole, da.
+
+Ah ! Mademoiselle, pas si rares que votre mérite n'en fasse ben retrouver quéque échantillon, et quand vous voudrez... Mais entrons toujours, on nous attend, et tout en devisant, je vous ferai voir que gn'y en a tencore.
+
+Oui, Mademoiselle, au fond de la cour, n° 9 : À Belle-Vue.
+
+Allez toujours ; allez, Mademoiselle, le reste s'ensuivra.
+
+Ah ! Te v'là, Janot ! Eh ben ! On t'attend là dedans. Tout le monde est à table ! Et ta demoiselle, qué que t'en as donc fait ?
+
+Diabe ! C'est malheureux ça. Tu ne lui as donc pas montré ton lingot ?
+
+Comment ! Que c'en était pas !
+
+Eh ! Mais diante ! Il faut vérifier ça, vois-tu : c'est sérieux au moins, Janot. Tout ce monde qui mange là dedans, i's comptent ben que c'en est, eux.
+
+Mais c'est que c'est de conséquence : tu ne sais pas, toi, que le cabaretier est déjà venu me demander de l'argent : y a déjà six bouteilles de bues sans compter le manger. Pour le tranquilliser, viens-t'en un peu lui montrer ça.
+
+C'est vrai, t'as raison. Y a tant d'envieux au jour d'aujourd'hui qui cherchent à vivre aux dépens des autres; i' faut se défier de tout le monde. Mais cependant, mon ami, ça presse. Écoute : va-t'en chez un orfèvre. Tiens, en v'là un là devant : tâche de te faire donner quéque chose à compte, ou de savoir au juste ce qu'il en est, et moi, je m'en vas toujours là dedans le cabaret les retenir un peu, qu'ils ne boivent et ne mangent pas tout jusqu'à la définition de ça.
+
+Eh ben ! Si c'en est, tant mieux. On le verra toujours ben ; mais le pus prudent, c'est de prendre ses précautions. On allait servir le rôti, je m'en vas toujours le décommander, jusqu'à nouvel ordre.
+
+Eh ben ! Où ce que nous en sommes !
+
+Au dessert ?
+
+Comment ! Ça se pourrait que ça n'en soit pas ? Ah ! Ventrebleu ! Qu'est-ce qui payera le diner, à présent ?
+
+Messieurs, laissez-moi aller, encore un coup : je vous dis que ce n'est pas pour moi la carte.
+
+Mais, messieurs, je n'ai pas d'argent assez dessus moi.
+
+À mon secours, Janot. Eh ! Janot.
+
+Ah ! Te v'là, Janot. Tiens, mon ami : je suis bien aise de te trouver.
+
+C'est la carte du cabaret. Vite, donne-moi de l'argent, que j'aille payer.
+
+Eh ! Pardine ! Avec quoi ? Quiens, on m'a pris mon chapeau, mon épée et mes bouques en gage.
+
+Non-da, mais i' me faut mes effets, à moi.
+
+Me v'là bien avancé, moi, à présent. Que le diable t'emporte, va, avec ton maudit lingot : je te l'avais-t-i' pas répété cent fois tantôt que ça n'en était pas ?
+
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragot
+
+Ah ! Monsieur, pardon. C'est pas ma faute.
+
+Eh ben ! Monsieur, je ne l'ai pas fait exprès, là.
+
+Non, Monsieur.
+
+Non, Monsieur, ni l'un ni l'autre.
+
+Monsieur, c'est que je viens de les acheter.
+
+Oh ! Comme ça, pas trop.
+
+C'est pour les revendre à d'autres qui s'y connaîtront encore moins que moi.
+
+Dieu merci ! Je n'en manque pas.
+
+Mais y a des temps que ça n' laisse pas qu' d'aller.
+
+Oh ! Monsieur, faut qu'i' y en ait des uns et des autres.
+
+Copie ! Oh ! Je ne l'ai pas encore payé pour ça. Mais à propos de copie, vous m'avez ben l'air vous d'être la copie d'un certain original que j'ai connu, i' n'y pas ben longtemps.
+
+Comment se pourrait-i' faire que...
+
+Ah ventrebleu ! Nous y v'là, c't habit-là me trompait, mais je te reconnais à ton paroli.
+
+Dire ! Mais qu'on voit ben que c'est pas toujours les honnêtes gens qu'avons le pus de bonheur, pisqu'un p'tit gueux comme toi a trouvé des ressources.
+
+Oui, c'est ce qui me paraît. Qué que tu fais donc à présent ?
+
+Diable ! C'est un bon métier ça.
+
+Ben volonquiers, mon enfant : j'ai toujours eu de l'amitié pour toi. Je suis charmé de ton bonheur. Où que ça s' fera.
+
+C'est bon, mon ami, je m'y en vas : mais dis donc, ne va pas me laisser longtemps là en affront, au moins, car i' n'y a rien qui ennuie et qui soûle plus vite que de boire tout seul.
+
+C'est ben dit, Monsieur Janot. J'allons chercher not' ménagère, et je ne tarderons pas à vous faire honneur. Justement all' m'attendait pour déjeuner, ça l'i viendra comme mars en carême.
+
+Oh ! Elle a bon cœur : elle prendra tout bien.
+
+Ah ! Pardi ! Oui. Vous ne serez pas sitôt à table ensemble qu'alle ne songera pus qu'à boire et à manger.
+
+Ah ! Ben, va, ma femme est ben comme ça, avant qu'all' boude contre son ventre... Et pis d'ailleurs avec les honnêtes gens, la rancune est bientôt passée. Sans adieu, Monsieur Janot, avant peu, j'allons boire à vot' sante.
+
+Eh ! Non, ma femme : je vous dis, c'est d'un quéq'zun que...
+
+Si fait, si fait, Mme Ragot, mais c'est que i' m'a dit qu'i'...
+
+J'y ai répondu que vous y viendriez, comme de raison.
+
+Et vous-même, M. Simon, vous alliez faire un petit écot, pas vrai ?
+
+Ah ! Queue rencontre ! Je venons aussi pour une noce d'accordailles. Passez donc.
+
+Allez-vous faire des compliments ?
+
+Mon voisin, vous permettez ?
+
+Eh ben donc ! Mon cher ami Janot, qu'est-ce que c'est donc qu'on dit de c' trésor que t'as trouvé !
+
+Diabe ! Il est beau.
+
+J'ai entendu que ça n'en est pas.
+
+Et nous aussi, je crais. Heureusement que j'avons déjà pris un bon à-compte sur le repas, car il me semble que le dessert ne vaudra pas les entrées. Holà, mesdames, venez-vous-en donc ici prendre un peu l'air. Est-ce qu'on boit comme ça les uns sans les autres ? Attendez donc la future.
+
+Ah ! Je crois que j'en sommes au dessert.
+
+Oui. Il a montré son lingot à l'orfèvre ; mais i' l'i a dit que ça n'en était pas.
+
+Ma foi, qui ça voudra. Ça ne me regarde pas ; mais je crais que si on attend après le lingot pour souper, on aura les dents longues. Eh ben ! Eh ben ! Queu tocsin qui sonne donc là-dedans ? Queu remue-ménage !
+
+Qu'est-ce que vous avez donc, Mme Ragot ?
+
+Non, ça ne nous regarde pas : arrangez-vous avec Monsieur.
+
+Ah ! Monsieur Janot, vous v'là bien maussade pour un jour de noce. Qu'est-ce que vous avez donc dans la tête, mesdemoiselles ? Est-ce vous qui chagrinez ce jeune homme ?
+
+Oui, oui, ne vous gênez pas, mon ami ; nous ne vous retenons pas.
+
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameragot
+
+Qu'est-ce que tu me ragotes là, toi, depis une heure, avec ton dîner au cabaret, pour une noce ? Et de qui est c'te noce? Voyons, de not' chat ?
+
+Eh ben ! Après ? Est-ce qu'il n'a pas de nom ce quéq'zun que...
+
+La peste t'étrangle avec tes cachotteries ; un quéq'zun que... Qui m'a dit qu'i'... Qui m'a dit quoi?... Eh ! Qué que tu lui as répondu, toi?
+
+Eh ben ! par où que c'est qu'i' faut donc passer ? Ce cabaret, c'est-i' encore un mystère ?
+
+Parle donc, hé ! Monsieur Nicodème ; est-ce que tu te moques de nous donc ?
+
+Qu'est-ce que c'est donc que c't' affronterie-là de nous venir retirer les morceaux du bec ?
+
+Pardine ! C'est ben juste ; pisqu'on nous a invités à la noce, faut ben que j' vivions p't-êt'. Mais où c' qu'est donc la mariée dans tout ça, et l'épouseur ? Eh ! Le v'là qui sort de chez l'orfèvre ; comme il a l'oreille basse ! Ah ! V'là un mauvais signe pour la noce.
+
+Pardi, oui, v'là qu'est bien retourné : c'est ben de ça qui s'agit. Parlez donc, beau mignon, quoi que c'est donc qu'on dit que vous avez qui en est ou qui n'en est pas ? Est-ce-t-i' donc pour affronter le monde qu' vous nous avez invités ? Parlez donc.
+
+Dame, oui, c'était ben tentant : c'était apparemment là-dessus que vous vouliez trouver une femme.
+
+Oui, si je n'avons pas mieux dîné, ça n'est pas de votre faute. Nous vous sommes toujours ben obligés de la bonne volonté.
+
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
+
+Monsieur...
+
+Monsieur...
+
+Rien, Monsieur. Je demande ce que Monsieur demande.
+
+Eh ! Pardine, vous le voyez ben.
+
+Monsieur ! Monsieur ! Monsieur !...
+
+Ah ! Monsieur, je vous remercie de tout mon cœur. De queu part que c'est-i', s'il vous plaît ?
+
+D'une comtesse ! Ça n'est pas vous par hasard ?
+
+Non, pour qui i' faut travailler ?
+
+Eh ben ! Les avez-vous là ?
+
+Comment ! Que j'emporte ma boutique ? Mais, Monsieur, pardon, excuse ; sus vot' respect, révérence parler, le nom n'est pas une offense ; mais ne seriez-vous pas un petit coquin que j'ai teu l'honneur de rosser y a quéque temps pour des vitres qu'l' m'avait cassées ?
+
+Tout juste.
+
+Moi, non. Je n'y pense pus, sinon que ça m'en rappelle ; mais, au bout de tout, c'est donc vous-même ?
+
+Eh ! Jarni ! Il y paraît, vous v'là prope comme un sou. Qu'est-ce qui vous arrange donc si ben à présent ?
+
+Qu'est-ce que c'est que c't homme-là ?
+
+L'intendant ?
+
+La peste ! I' faut ben le ménager.
+
+Comment donc ça ?
+
+Eh ben ! Écoutez : v'là que j'allons à l'hôtel chercher les bottes, vous me conterez ça en chemin.
+
+Dans de quoi donc ?
+
+Comment ! Est-ce que ça n'est pas vrai ?
+
+Que le diable vous emporte donc de venir me faire perdre mon temps. J'avons aut' chose à faire qu'à rire, moi.
+
+Eh ben ! Quoi que gn'y a donc encore ?
+
+Ah ! vraiment, Monsieur Janot, si ce n'est que ça, je ne manquerons pas de répondre à l'honneur que vous nous faites, en nous y trouvant le verre à la main, comme quoi que je vas faire ma toilette tout de suite.
+
+Oh ! Elle aura bentôt fait de se faire brave : c'est tout juste aujourd'hui un lendemain de fête, all' n'est pas encore ben decoiffér d'hier, c'est zune avance.
+
+Mais, Monsieur Janot, je n'ai qu'une peur à l'heure qu'il est.
+
+C'est c'te p'tite fille, qui maugré vent et marée a toujours zeu une poignée d'inclination pour vous, quand ça va vous voir en épouster zune autre, ça va l'y retourner tout son lait.
+
+Oui, oui ; diab' ! Il n'y a rien de pus clair : je vous entends.
+
+Moi, bavard ! Ah ! Pardi ! Oui, je ne dis jamais que ce que je sais, et pis quéquefois ce que je ne sais pas, mais du reste on ne me ferait pas deserrer les dents.
+
+Miséricorde ! Un trésor !
+
+J'y cours, mon cher ami. Un trésor ! Embrassons-nous, mon cher Janot. Un trésor ! Fin, ah! Queu bonheur ! Embrassons-nous encore : je vous en fais mon compliment... Encore... Ah ! Comme Suzon va être contente, c'te pauvre enfant ! Un trésor ! Ça va la faire pâmer, M. Janot, ça va la faire pâmer. Holà ! Suzon, holà !
+
+Allons, ma fille, redresse-toi : te v'là pas mal comme ça. Quiens, prends-moi par le bras ! ça te donnera du maintien. Ah ! C'est Monsieur et Madame Ragot. Pardon, mon voisin, si je nous rencontrons à vous barrer une porte. Vous alliez pour entrer, je crois ?
+
+Je sommes de noce.
+
+Après vous, Monsieur Ragot.
+
+Je ne passerons pas avant Mme Ragot.
+
+Comment donc ! Trop d'honneur.
+
+Eh ! Par la ventrebleu ! Zst-ce qu'on invite les gens pour les faire payer donc ? Ça ne serait pas juste. Ah ! Vous v'là, l'ami Janot. Arrangez donc un peu ça, vous, avec ce trésor en question.
+
+Si vous voulez venir collationner avec nous, Mam'selle Perrette, je vous remettrons chez vous après.
+
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
+
+Oui ; mais j'avons fait main basse, et je mettrons c'te bouteille-là à fin, s'i' plaît à Dieu.
+
+Le pauvre garçon ! Comme le v'là penaud ! C'est-i' ben vrai ce que vous nous dites là, Monsieur Janot ?
+
+Ah ! Ce diamant ! Comme ça tarluit : c'est ben dommage. Examinez donc ça, Madame.
+
+Mon p'tit Janot, était-ce-t-i' pour moi vot' lingot ?
+
+Adieu, Monsieur Janot. Je souhaite que le jour de la noce vous réussisse mieux que celui des accordailles.
+
+
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+
+Comment ! C'est de la part de ce Monsieur qui m'avait tant promis de choses, au sujet de mes mailles, quand j'en aurais.
+
+Non, pas encore : je ne crois pas, du moins.
+
+Eh ! C'est-i' ben loin que nous allons ?
+
+Ma fine, j'avons été assez grondée par rapport à lui, pour m'en souvenir, qu'il m'a pensé faire mettre à la porte.
+
+Bon ! les promesses que les garçons font aux filles, i' n'y a pas de fiate à y prendre : aussi, ça nous entre par une oreille et ça nous sort par l'autre.
+
+Ah ! Monsieur, ils sont rares ceux-là.
+
+Monsieur, ça n'est pas de refus : quand i' s'en rencontre, ça' fait toujours plaisir. C'est-i' là ?
+
+Comment donc ! Mais c'est bon signe, Monsieur ; v'là une annonce qu'est heureuse.
+
+C'est des impertinents qui nous enlèvent not' mangeaille de dessus nos assiettes.
+
+Eh ! Bonjour donc, Monsieur Janot ; vous êtes rare comme les beaux jours : on ne vous voit plus.
+
+Une femme ! Était-ce-t-i' moi, Monsieur Janot, que vous auriez choisie ?
+
+Ça n'est pas de refus, Monsieur, car M. Janot m'a mise en appétit ; mais je ne lui en veux pas, ça se passera sus aut' chose.
+

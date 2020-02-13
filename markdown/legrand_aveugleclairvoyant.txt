@@ -1,6 +1,6 @@
 ---
 identifier: legrand_aveugleclairvoyant  
-creator: Legrand, Marc-Antoine  
+creator: Legrand, Marc-Antoine ; Georges Forestier.  
 date: 1716  
 title: L'Aveugle clair-voyant. Comédie  
 ---

@@ -1,108 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1686
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
 
--*who_diane
-Qu'avec plaisir je reviens en ces lieux,
-Que jadis mon séjour rendis si glorieux,
-Où régnaient la splendeur et la magnificence !
-Le Fils du plus puissant, du plus juste des Rois
-Leur redonne aujourd'hui par sa seule présence
-Encore plus d'éclat qu'ils n'eurent autrefois.
-
--*who_unedryade
-Depuis le jour que sur votre promesse
-Nous nous sommes flattés de le voir en ces lieux,
-Les Dryades mes Soeurs, et tous ces autres Dieux,
-Après ce doux moment ont soupiré sans cesse.
-
--*who_unsylvain
-Nous avons préparé pour lui
-Les fêtes, les concerts que l'allégresse inspire ;
-Que le sombre chagrin, que le funeste ennui
-De cet heureux séjour pour jamais se retire !
-Que les Plaisirs en foule y viennent aujourd'hui.
-
--*who_diane
-Suivez les mouvements de votre ardeur fidèle ;
-Commencez vos concerts,
-Que le bruit de vos chants raisonne dans les airs !
-Heureux ! Si le succès répond à votre zèle !
-
--*who_lechoeur
-Suivons les mouvements de notre ardeur fidèle,
-Commençons nos concerts,
-Que le bruit de nos chants résonne dans les airs !
-Heureux, si le succès répond à notre zèle
-
-**** *book_ *id_I02 *act_I *date_1686
-
--*who_labondance
-Dans les jours de réjouissance,
-J'ai toujours le premier emploi ;
-Vous seriez-vous flattés de la vaine espérance
-De pouvoir vous passer de moi ?
-Que feriez-vous sans l'Abondance ?
-
--*who_comus
-À mon visage, à ma suite ordinaire
-Reconnaissez Comus Dieu des Festins,
-Dont la présence à vos desseins .
-Est aujourd'hui si nécessaire.
-Que vous sert d'assembler au gré de vos désirs
-Tous les Jeux et tous les Plaisirs ?
-Si vous n'avez ceux de la Table
-Tous les coeurs seront mécontents,
-La Fête la plus agréable
-Sans moi ne peut durer longtemps.
-
--*who_diane,labondance,comus
-Unissons nos efforts, et qu'une ardeur si belle
-Sans cesse se renouvelle.
-
--*who_lechoeur
-Unissons nos efforts, et qu'une ardeur si belle
-Sans cesse se renouvelle.
-
--*who_apollon
-Apollon en ce jour approuve votre zèle
-Pour un prince charmant,
-Et vient joindre aux plaisirs d'une fête si belle
-D'un spectacle nouveau le doux amusement.
-Au plus grand des Héros j'ai toujours soin de plaire,
-Eh ! Que puis-je mieux faire
-Que de vous seconder par des chants destinés
-À divertir un fils qu'il aime ?
-Puissent ces mêmes chants un jour plus fortunés,
-Le divertir encor lui-même !
-Digne Fils de ce conquérant,
-Que ne quittent jamais Minerve et la Victoire,
-Tu vois par les respects que l'Univers lui rend
-Le prix de ses travaux, et l'éclat de sa gloire,
-Tu vois ses ennemis à ses pieds abattus,
-Tu jouis des exploits de sa main triomphante,
-Tâche de l'imiter ; sans cesse il te présente
-Un exemple parfait de toutes les Vertus.
-Vous, habitants de ce séjour aimable,
-Redoublez votre empressement,
-Gardez-vous de perdre un moment
-D'un temps si favorable.
-
--*who_comus
-Apollon flatte nos voeux,
-D'un succès heureux,
-Nous connaissons sa puissance,
-Il remplira notre espérance.
-
--*who_lechoeur
-Apollon flatte nos voeux
-D'un succès heureux,
-Nous connaissons sa puissance,.
-Il remplira notre espérance.
-
-**** *book_ *id_II01 *act_II *date_1686
-
--*who_acis
 C'est vain qu'en ces lieux j'ai devancé l'Aurore,
 Hélas ! Je n'y vois point la beauté que j'adore,
 La Mer qui la cache à mes yeux,
@@ -113,54 +12,14 @@ Je l'apprends aux échos, aux oiseaux de ces bois,
 Loin de moi cependant trop longtemps arrêtée.
 Seule elle semble ici méconnaître ma voix.
 
-**** *book_ *id_II02 *act_II *date_1686
-
--*who_teleme
-Vous n'êtes pas le seul de qui la voix plaintive
-Se fait entendre en ces lieux chaque jour,
-Une beauté cruelle, un malheureux amour,
-M'amène aussi sur cette rive.
-
--*who_acis
 Pouvez-vous comparer vos maux à mes malheurs ?
 Je suis mortel : j'adore une déesse,
 Quelle source pour moi d'éternelles douleurs !
 Je n'ose qu'en tremblant exprimer ma tendresse,
 Et souvent en secret je dévore mes pleurs.
 
--*who_teleme
-Acis, détrompez-vous,
-Espérez un destin plus doux,
-Vous ne pousserez point de soupirs inutiles,
-Après vos longs chagrins, la joie aura son tour,
-Les Déesses en amour
-Ne sont pas les plus difficiles.
-Hélas ! Que n'en est-il de même
-Du malheureux Télème ?
-La charmante Scylla, l'honneur de nos hameaux
-Me fait gémir sous le poids de sa chaîne,
-Et la rigueur de l'inhumaine
-Change en hivers tous mes jours les plus beaux...
-
--*who_acis
 Que d'un coeur méprisé l'état est déplorable !
 
--*who_teleme
-Qu'une ingrate beauté fait souffrir sous sa loi !
-
--*who_acis,teleme
-Ah ! Je succombe au tourment qui m'accable,
-Peut-on sans espérance aimer autant que moi ?
-
--*who_teleme
-Vous attendez ici l'objet qui vous engage,
-Vous le verrez bientôt paraître sur ses bords,
-Je vais chercher Scylla dans le prochain bocage,
-J'ai déjà trop contraint ma flamme et mes transports.
-
-**** *book_ *id_II03 *act_II *date_1686
-
--*who_acis
 Faudra-t-il encore vous attendre
 Fière Beauté qui régnez dans mon coeur ?
 Venez par un regard soulager ma langueur,
@@ -179,234 +38,31 @@ Cause-t-il seul mon infortune ?
 Ah ! Ce serait trop me punir :
 Dieux ! Mais mon trouble cesse, et je la vois venir.
 
-**** *book_ *id_II04 *act_II *date_1686
-
--*who_galatee
-J'ai cru trouver ici la Nymphe qui m'est chère,
-Je vais lui reprocher son peu d'empressement.
-
--*who_acis
 Sans cette Nymphe hélas ! Ce rivage charmant
 N'a-t-il rien qui puisse vous plaire ?
 
--*who_galatee
-Je suis sensib1e aux charmes de ces lieux,
-Mais ma joie eût été plus grande,
-Si ce rivage eût offert à mes yeux
-La Nymphe que je demande.
-
--*who_acis
 Ah ! Si vous connaissez par la seule amitié
 Les ennuis que l'absence cause,
 N'aurez-vous point quelque pitié
 Des tourments où l'Amour m'expose ?
 
--*who_galatee
-Finissez ce discours : ne pouvez-vous parler
-Que de votre tendresse ?
-
--*who_acis
 Hélas ! Un seul moment peut-on dissimuler
 Des peines qu'on souffre sans cesse ?
 Pourquoi me voulez-vous forcer à vous celer
 La douleur qui me presse ?
 Cherchez-vous à la redoubler ?
 
--*who_galatee
-À regret je vous entends plaindre
-D'un mal que je ne puis guérir,
-Étouffez un amour qui vous fait trop souffrir,
-Vous n'aurez plus à vous contraindre.
-
--*who_acis
 Ah ! Vous me haïssez, je n'en saurais douter
 Par cet ordre cruel votre haine s'explique.
 
--*who_galatee
-Suspendez vos regrets pour me laisser goûter
-L'heureuse paix de ce séjour rustique,
-J'y viens avec plaisir, tout y charme mes yeux,
-J'y vois les champs parés de mille fleurs que j'aime ;
-Enfin le doux penchant qui m'attire en ces lieux
-L'emporte sur l'horreur extrême
-D'y rencontrer un Géant odieux.
-
-**** *book_ *id_II05 *act_II *date_1686
-
--*who_scylla
-Quoi ! M'arrêterez-vous en dépit de moi-même !
-
--*who_teleme
-Que me servent les soins que mon coeur prend pour vous ?
-Mon sort en est-il plus doux ?
-Hélas ! Plus je vous aime,
-Plus mon amour aigrit votre courroux...
-
--*who_acis
 Ô Ciel ! Quel destin est le nôtre ?
 
--*who_teleme
-Quel est le succès de nos voeux ?
-
--*who_acis,teleme
-Serons-nous toujours l'un et l'autre
-Les plus tendres amants et les plus malheureux ?
-
--*who_galatee
-Ah ! Qu'un Amant dont la plainte
-Nous cause trop de contrainte
-Sait peu l'art de nous charmer !
-Loin de plaire, il embarrasse,
-Et ne saurait quoi qu'il fasse,
-Nous engager à l'aimer.
-
--*who_scylla
-Un amant que l'on dédaigne
-Doit causer peu d'embarras,
-Et qu'importe qu'il se plaigne,
-Si l'on ne l'écoute pas ?
-
--*who_scylla
-Mais quels concerts se font entendre ?
-
--*who_galatee
-Qu'elle troupe paraît, et s'approche de nous ?
-
--*who_acis
 Ce sont des coeurs unis par l'amour le plus tendre,
 Des coeurs libres de soins et de soupçons jaloux ;
 Tous leurs jours sont charmants, tous leurs moments doux,
 Écoutez leurs chansons, et vous pourrez apprendre
 Si leurs plaisirs n'ont rien d'agréable pour vous.
 
-**** *book_ *id_II06 *act_II *date_1686
-
--*who_tircis,aminte
-Que l'Amour qui nous enchaîne
-Flatte nos tendres désirs !
-
--*who_lechoeur
-Goûtons les plus doux plaisirs,
-Ils viennent s'offrir sans peine,
-Et pour payer nos soupirs
-Chaque jour nous les ramène.
-
--*who_tircis,aminte
-Que l'Amour qui nous enchaîne
-Flatte nos tendres désirs !
-
--*who_tircis
-Que mon coeur est charmé !
-
--*who_aminte
-Que mon âme est contente !
-
--*who_tircis
-Je ne puis exprimer la douceur qui m'enchante.
-
--*who_aminte
-Sans l'amour de nos feux
-Serions-nous heureux ?
-
--*who_tircis,aminte
-Redoublons sans cesse
-Notre tendresse.
-
--*who_lechoeur
-Redoublons sans cesse
-Notre tendresse.
-
--*who_aminte
-Former les mêmes désirs,
-Vivre l'un pour l'autre,
-Servir de nouveaux plaisirs,
-Voilà quel sort est le nôtre.
-
--*who_tircis
-L'Amour dans ces beaux lieux nous a tous rassemblés,
-Célébrons les faveurs dont il nous a comblés.
-
--*who_lechoeur
-L'Amour dans ces beaux lieux nous a tous rassemblés,
-Célébrons les saveurs dont il nous a comblés.
-
--*who_aminte
-Que les plus galantes fêtes
-Parmi nous soient toujours prêtes !
-Qu'au bruit de nos chansons la plus fière beauté
-Ne puisse un seul moment garder sa liberté.
-
--*who_lechoeur
-Que les plus galantes Fêtes
-Parmi nous soient toujours prêtes :
-Qu'au bruit de nos chansons la plus fière beauté
-Ne puisse un seul moment garder sa liberté.
-
--*who_scylla
-Le fier Poliphème s'avance,
-Bergers, éloignez-vous,
-C'est assez de sa présence
-Pour changer en chagrins vos plaisirs les plus doux.
-
-**** *book_ *id_II07 *act_II *date_1686
-
--*who_polipheme
-Je regarde partout, et ma recherche est vaine,
-Ces nymphes, ces bergers que sont-ils devenus,
-Se peut-il qu'en ces lieux je ne les trouve plus ?
-Le soin de m'éviter dans ces bois les entraîne ?
-Où prétendent-ils se cacher ?
-Connaissent-ils bien Poliphème ?
-Est-il quelque antre affreux où ma fureur extrême
-Ne les aille chercher ?
-Allons, courons punir leur fuite.
-Mais je vois Galatée, et mon âme interdite
-Perd toute sa fureur ;
-Je me sens agité de trouble et de terreur.
-
-**** *book_ *id_II08 *act_II *date_1686
-
--*who_polipheme
-Que tardons-nous ? Parlons de l'ardeur qui m'anime,
-Est-ce à moi de trembler ?
-Si d'un cruel amour je deviens la victime,
-Qui pourrait me contraindre à le dissimuler ?
-Vous voyez, charmante Déesse,
-Un Amant que vos yeux ont soumis à vos lois,
-J'ignorais le pouvoir de ce Dieu qui me blesse,
-Je l'éprouve aujourd'hui pour la première fois.
-
--*who_galatee
-Que dites-vous ? Puis-je vous croire ?
-Je vous fais connaître l'Amour ?
-
--*who_polipheme
-Peut-être avant la fin du jour
-Vous applaudirez-vous d'une telle victoire ?
-Tout ce que vous voyez reconnaît mon pouvoir,
-Le Dieu des Eaux m'a donné la naissance,
-Si vous y consentez je puis vous faire voir
-Mes richesses et ma puissance :
-Je veux que tous les coeurs qui vivent sous ma loi
-Viennent vous rendre hommage,
-Leur zèle parlera pour moi.
-Approuvez-vous ces soins où mon amour m'engage ?
-
--*who_galatee
-Je ne condamne point ce dessein généreux.
-
--*who_polipheme
-Je suis au comble de mes voeux,
-Je vais tout préparer pour cette grande fête.
-Vous connaîtrez bientôt quelle est votre conquête.
-
--*who_galatee
-Enfin j'ai calmé sa fureur,
-Des coeurs qu'il a troublés dissipons 1a terreur.
-
-**** *book_ *id_III01 *act_III *date_1686
-
--*who_acis
 Quoi ? Vous avez promis d'assister à la fête
 Que Poliphème vous apprête ?
 Les soins de ce barbare ont pu vous attendrir,
@@ -414,28 +70,14 @@ Dans ses projets votre bonté le flatte,
 C'en est donc fait, ingrate,
 Vous me condamnez à mourir.
 
--*who_galatee
-Quel reproche osez-vous me faire ?
-
--*who_acis
 Non, non, je ne puis plus me taire ;
 Attendez-vous de voir
 Les plus sanglants effets d'un mortel désespoir.
 
--*who_galatee
-Quoi ? Que voulez-vous entreprendre ?
-
--*who_acis
 Pourquoi cherchez-vous à l'apprendre ?
 Si vous ne m'aimez pas,
 Que vous peut importer ma vie ou mon trépas ?
 
--*who_galatee
-Sans que pour vous l'Amour me sollicite,
-Je puis souhaiter d'être instruite
-De vos desseins secrets.
-
--*who_acis
 Eh bien ! Apprenez donc que ma mort est certaine,
 Vous ne jouirez plus de mes tendres regrets,
 En terminant mes jours, je finirai ma peine.
@@ -450,16 +92,99 @@ Ce n'est que pour la mort que je forme des voeux,
 Agréez seulement ce dernier sacrifice
 D'un coeur toujours fidèle, et toujours malheureux.
 
--*who_galatee
+Qu'entends-je ? Votre coeur dans mon sort s'intéresse ?
+
+Mais, puisque vous vouliez couronner ma tendresse,
+Fallait-il du Cyclope approuver les désirs ?
+
+Immortels habitants des Cieux !
+Dans les transports de mon âme ravie
+Je puis regarder sans envie
+Votre sort glorieux.
+Aimer, d'un doux succès voir sa flamme suivie,
+N'est-ce pas un plaisir réservé pour les Dieux ?
+
+Suivez l'exemple qu'on vous donne,
+Une déesse à l'amour s'abandonne,
+Son coeur ne peut plus résister,
+Que peut mieux faire
+Une bergère
+Que de l'imiter ?
+
+N'assurerez-vous point ma gloire et mon bonheur ?
+Après le don de votre coeur
+Aurai-je encor des voeux à faire ?
+
+Vous me quittez ? Hélas ! N'osez-vous arrêter ?
+
+Mourant pour vos beaux yeux, je ne crains point la mort.
+Où puis-je la trouver plus belle ?
+Dois-je enfin me plaindre du sort
+Si je meurs heureux et fidèle ?
+
+Vous me fuyez ? Par où l'ai-je donc mérité ?
+
+Déesse c'en est fait, je vous perds, et j'expire.
+
+      Galatée ?
+
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
+
+J'ai cru trouver ici la Nymphe qui m'est chère,
+Je vais lui reprocher son peu d'empressement.
+
+Je suis sensib1e aux charmes de ces lieux,
+Mais ma joie eût été plus grande,
+Si ce rivage eût offert à mes yeux
+La Nymphe que je demande.
+
+Finissez ce discours : ne pouvez-vous parler
+Que de votre tendresse ?
+
+À regret je vous entends plaindre
+D'un mal que je ne puis guérir,
+Étouffez un amour qui vous fait trop souffrir,
+Vous n'aurez plus à vous contraindre.
+
+Suspendez vos regrets pour me laisser goûter
+L'heureuse paix de ce séjour rustique,
+J'y viens avec plaisir, tout y charme mes yeux,
+J'y vois les champs parés de mille fleurs que j'aime ;
+Enfin le doux penchant qui m'attire en ces lieux
+L'emporte sur l'horreur extrême
+D'y rencontrer un Géant odieux.
+
+Ah ! Qu'un Amant dont la plainte
+Nous cause trop de contrainte
+Sait peu l'art de nous charmer !
+Loin de plaire, il embarrasse,
+Et ne saurait quoi qu'il fasse,
+Nous engager à l'aimer.
+
+Qu'elle troupe paraît, et s'approche de nous ?
+
+Que dites-vous ? Puis-je vous croire ?
+Je vous fais connaître l'Amour ?
+
+Je ne condamne point ce dessein généreux.
+
+Enfin j'ai calmé sa fureur,
+Des coeurs qu'il a troublés dissipons 1a terreur.
+
+Quel reproche osez-vous me faire ?
+
+Quoi ? Que voulez-vous entreprendre ?
+
+Sans que pour vous l'Amour me sollicite,
+Je puis souhaiter d'être instruite
+De vos desseins secrets.
+
 Il me quitte ; arrêtez, Acis, je vous l'ordonne,
 Je ne puis soutenir le trouble où je vous vois,
 Contre un si tendre amour ma fierté m'abandonne,
 Et ma faible raison ne répond plus de moi.
 
--*who_acis
-Qu'entends-je ? Votre coeur dans mon sort s'intéresse ?
-
--*who_galatee
 Vous n'avez point perdu vos soins,
 Je vous ai fait voir ma faiblesse,
 Vos yeux en ont été de fidèles témoins.
@@ -468,106 +193,26 @@ Il ne veut point vous en ravir la gloire ;
 Connaissez le bonheur qui vous est préparé,
 Je l'ai rendu plus doux quand je l'ai différé.
 
--*who_acis
-Mais, puisque vous vouliez couronner ma tendresse,
-Fallait-il du Cyclope approuver les désirs ?
-
--*who_galatee
 Je craignais pour vos jours sa fureur vengeresse ;
 Je voulais à ses yeux dérober nos soupirs
 Par une agréable promesse.
 
--*who_acis
-Immortels habitants des Cieux !
-Dans les transports de mon âme ravie
-Je puis regarder sans envie
-Votre sort glorieux.
-Aimer, d'un doux succès voir sa flamme suivie,
-N'est-ce pas un plaisir réservé pour les Dieux ?
-
-**** *book_ *id_III02 *act_III *date_1686
-
--*who_galatee
 De mon fidèle amant j'ai rempli l'espérance,
 Mon coeur répond à ses désirs ;
 De ce tendre berger couronnez la constance,
 Ne lui refusez plus le prix de ses soupirs.
 
--*who_acis
-Suivez l'exemple qu'on vous donne,
-Une déesse à l'amour s'abandonne,
-Son coeur ne peut plus résister,
-Que peut mieux faire
-Une bergère
-Que de l'imiter ?
-
--*who_teleme
-Vous défendez-vous encore,
-Contre un amant qui vous adore,
-Et dans un jour au bonheur destiné,
-Serai-je seul infortuné ?
-
--*who_scylla
-En vain vous prétendez inspirer à mon âme
-Le désir de s'enflammer,
-L'exemple et les conseils nous forcent-ils d'aimer ?
-Par son propre penchant il faut qu'un coeur s'enflamme,
-Vous l'avez entendu cent fois,
-Je fuis l'Amour, je méprise ses lois,
-Quittez une entreprise vaine ;
-Vos soupirs importuns me pourraient engager
-À redoubler votre peine
-Plutôt qu'à la soulager.
-
--*who_teleme
-C'en est trop ! Vos mépris étouffent ma tendresse,
-Je sens le calme heureux de ma première paix,
-Et je dois rougir désormais
-D'avoir montré tant de faiblesse.
-Cependant redoutez la vengeance des Dieux,
-Ils me font pressentir le sort qui vous menace,
-Ils éteindront ce feu qui brille dans vos yeux,
-Ils rendront vos attraits sans douceur et sans grâce.
-Que dis-je ? Ils changeront ces riches dons des Cieux
-En des marques de leur colère,
-Et vous serez un jour par ce retour sévère
-L'objet le plus funeste et le plus odieux.
-
-**** *book_ *id_III03 *act_III *date_1686
-
--*who_scylla
-Quelque fureur qui l'inspire
-Il ne saurait m'alarmer,
-Je crains moins les malheurs qu'il vient de me prédire,
-Que le péril d'aimer.
-
--*who_galatee
 Je ne puis approuver cette fierté rebelle
 Qui flatte votre vanité,
 Une extrême cruauté
 Pour un amant fidèle
 Est toujours criminelle.
 
--*who_scylla
-Vous aimez tendrement ; je déteste l'amour,
-Et déjà ma fierté commence à vous déplaire ;
-Je me bannis de votre Cour,
-Pour éviter votre colère.
-
-**** *book_ *id_III04 *act_III *date_1686
-
--*who_galatee
 Quelle erreur loin de nous précipice ses pas !
 Dieux ! qu'un vain orgueil l'abuse !
 L'insensible ne connaît pas
 Les plaisirs qu'elle refuse.
 
--*who_acis
-N'assurerez-vous point ma gloire et mon bonheur ?
-Après le don de votre coeur
-Aurai-je encor des voeux à faire ?
-
--*who_galatee
 Je puis donner ma foi par l'aveu de mon père,
 Je l'ai sur votre amour dès longtemps pressenti,
 À vos désirs Nerée a consenti.
@@ -580,9 +225,6 @@ Dignes de consacrer nos ardeurs légitimes,
 J'aurai soin de m'y rendre avant la fin du jour,
 J'y conduirai l'hymenée et l'amour.
 
-**** *book_ *id_III05 *act_III *date_1686
-
--*who_galatee
 Qu'une injuste fierté nous cause de contrainte,
 Et tyrannise nos désirs,
 Tandis qu'à mon Amant j'ai caché mes soupirs,
@@ -596,198 +238,20 @@ Que vous êtes charmants !
 Mais je vois le Cyclope, il prévient mon attente,
 Contraignons-nous quelques moments.
 
-**** *book_ *id_III06 *act_III *date_1686
-
--*who_polipheme
-Qu'à l'envi chacun se presse
-De me suivre dans ces lieux,
-Pour un coeur que l'Amour blesse
-Les moments sont précieux ;
-Préparez à ma Déesse
-Un triomphe glorieux ;
-Hâtez-vous, il faut sans cesse
-Rendre hommage à ses beaux yeux.
-Qu'à l'envi chacun se presse
-De me suivre dans ces lieux.
-
--*who_lechoeur
-Qu'à l'envi chacun se presse
-De vous suivre dans ces lieux !
-Pour un coeur que l'Amour blesse
-Les moments sont précieux,
-Préparons à la Déesse,
-Un triomphe glorieux ;
-Hâtons-nous, il faut sans cesse
-Rendre hommage à ses beaux yeux,
-Qu'à l'envi chacun se presse
-De vous suivre dans ces lieux !
-
--*who_polipheme
-Connais, puissant Amour, ta dernière victoire,
-Ce triomphe suffit pour te combler de gloire,
-Tu ranges sous tes lois un coeur audacieux,
-Qui méprise la foudre et brave tous les Dieux.
-
--*who_lechoeur
-Ô vous ! Adorable immortelle
-Écoutez favorablement
-Les voeux de votre amant,
-Vous ne ferez jamais de conquête si belle,
-Plus un coeur est loin d'aimer,
-Plus il est beau de l'enflammer.
-
--*who_polipheme
-Je suis content de votre zèle,
-À mes yeux vos transports ont assez éclaté,
-Voyons s'ils ont su plaire à ma divinité :
-Qu'on me laisse seul avec elle.
-
-**** *book_ *id_III07 *act_III *date_1686
-
--*who_polipheme
-Chaque moment me tue, et redouble mes feux,
-Je ne puis plus souffrir l'ardeur qui me dévore,
-Hâtez-vous de me rendre heureux.
-Voulez-vous accabler un coeur qui vous adore ?
-
--*who_galatee
 Le seul Nerée a droit de disposer de moi,
 Jamais à ses désirs mon coeur ne fut contraire,
 Peut-on sans son aveu me demander ma foi ?
 Allez : et pour l'hymen que votre amour espère,
 Méritez le choix de mon père.
 
--*who_polipheme
-Oui j'obtiendrai l'aveu charmant
-Qui seul peut assurer le repos de ma vie,
-Ma demande sera suivie
-D'un prompt consentement.
-Pour hâter mon bonheur je vais tout entreprendre,
-Votre père connaît ma force et mon pouvoir,
-Et sait trop ce qu'on doit attendre
-D'un amant tel que moi réduit au désespoir.
-
-**** *book_ *id_IV01 *act_IV *date_1686
-
--*who_lepretre
-Vous qui dans ces lieux solitaires
-Célébrez avec moi Junon et ses mystères,
-Ministres de son Temple, et favoris des Cieux,
-Qui faites vos plaisirs du service des Dieux,
-Préparez les fleurs les plus belles,
-Et l'encens le plus précieux,
-Vous verrez bientôt en ces lieux
-Arriver deux amants fidèles,
-Ils sont dignes des soins que vous prendrez pour eux,
-L'hyménée et l'amour veulent qu'ils soient heureux.
-
--*who_lechoeur
-Puissent-ils près de nous trouver un sûr asile !
-Daigne le juste Ciel favoriser leurs voeux !
-Puissent-ils voir croître leurs feux
-Dans un hymen doux et tranquille.
-
--*who_lepretre
-Qu'ils forment chaque jour mille nouveaux désirs !
-Que 1'Amour seul ait soin de régler leurs plaisirs !
-
--*who_lechoeur
-Puissent-ils près de nous trouver un sûr asile !
-Daigne le juste Ciel favoriser leurs voeux !
-Puissent-ils voir croître leurs feux.
-Dans un hymen doux et tranquille.
-
-**** *book_ *id_IV02 *act_IV *date_1686
-
--*who_lepretre
-Les voici ces tendres amants,
-Dans leur impatience ils comptent les moments,
-Avançons vers le Temple, et par un sacrifice
-Intéressons Junon à leur être propice.
-
-**** *book_ *id_IV03 *act_IV *date_1686
-
--*who_polipheme
-Que vois-je ? Quel objet pour un amant jaloux ?
-L'Ingrate Galatée, et le berger qu'elle aime ?
-Tu mourras, téméraire, et Jupiter lui-même
-Ne saurait dérober ta tête à mon courroux.
-
--*who_lechoeur
-Le Cyclope menace ! Ô Ciel protège nous !
-Sers-toi pour nous sauver de ton pouvoir suprême.
-
-**** *book_ *id_IV04 *act_IV *date_1686
-
--*who_galatee
 Fuyons sa violence extrême ;
 Heureux de pouvoir l'éviter.
 
--*who_acis
-Vous me quittez ? Hélas ! N'osez-vous arrêter ?
-
--*who_galatee
 Fuyez Acis, s'il est possible
 Ou votre perte est infaillible.
 
--*who_acis
-Mourant pour vos beaux yeux, je ne crains point la mort.
-Où puis-je la trouver plus belle ?
-Dois-je enfin me plaindre du sort
-Si je meurs heureux et fidèle ?
-
-**** *book_ *id_IV05 *act_IV *date_1686
-
--*who_polipheme
-Quel chemin ont-ils pris ces amants trop heureux ?
-Sans doute Jupiter s'intéresse pour eux.
-Qu'il se montre, ce Dieu que l'Univers révère,
-C'est un objet digne de ma colère.
-Je l'attends : mais il craint de paraître à mes yeux,
-Et croit braver ma rage enfermé dans les Cieux ;
-J'y monterai malgré l'effort de son tonnerre,
-J'entasserai ces monts pour aller jusqu'à lui,
-Et ferai plus trembler tout l'Olympe aujourd'hui,
-Que ne firent jadis les enfants de la terre.
-Mais commençons d'exercer mon courroux
-Sur un rival que je déteste.
-Qu'il soit anéanti par un seul de mes coups,
-Que sa mort soit enfin si triste et si funeste,
-Que de tout son bonheur je ne sois plus jaloux !
-
-**** *book_ *id_IV06 *act_IV *date_1686
-
--*who_galatee
 Allez, éloignez-vous, faut-il vous le redire ?
 
--*who_acis
-Vous me fuyez ? Par où l'ai-je donc mérité ?
-
--*who_polipheme
-Traître, reçois le prix de ta témérité.
-
--*who_acis
-Déesse c'en est fait, je vous perds, et j'expire.
-
-**** *book_ *id_IV07 *act_IV *date_1686
-
--*who_polipheme
-Il est mort l'insolent ! J'ai trompé son attente,
-Je suis content puisque je suis vengé,
-Ah ! Quel plaisir pour un coeur outragé
-Qu'une vengeance sanglante.
-Et toi Déesse perfide,
-Pleure l'indigne Amant que tu m'as préféré ;
-Ma tendresse a fait place au transport qui me guide,
-J'ai repoussé les traits dont j'étais pénétré.
-Publions par tout ma victoire,
-Elle assure à la fois mon repos et ma gloire,
-J'immole dans le même jour
-Mon rival et mon amour.
-
-**** *book_ *id_IV08 *act_IV *date_1686
-
--*who_galatee
 Enfin j'ai dissipé la crainte
 Qui m'arrêtait au fond des flots,
 Je vois régner ici le calme et le repos,
@@ -840,9 +304,231 @@ Faites cesser mon infortune,
 Ranimez mon amant, redonnez-lui le jour,
 Et s'il se peut encor augmentez son amour.
 
-**** *book_ *id_IV09 *act_IV *date_1686
+Cher Acis !
 
--*who_neptune
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polipheme
+
+Je regarde partout, et ma recherche est vaine,
+Ces nymphes, ces bergers que sont-ils devenus,
+Se peut-il qu'en ces lieux je ne les trouve plus ?
+Le soin de m'éviter dans ces bois les entraîne ?
+Où prétendent-ils se cacher ?
+Connaissent-ils bien Poliphème ?
+Est-il quelque antre affreux où ma fureur extrême
+Ne les aille chercher ?
+Allons, courons punir leur fuite.
+Mais je vois Galatée, et mon âme interdite
+Perd toute sa fureur ;
+Je me sens agité de trouble et de terreur.
+
+Que tardons-nous ? Parlons de l'ardeur qui m'anime,
+Est-ce à moi de trembler ?
+Si d'un cruel amour je deviens la victime,
+Qui pourrait me contraindre à le dissimuler ?
+Vous voyez, charmante Déesse,
+Un Amant que vos yeux ont soumis à vos lois,
+J'ignorais le pouvoir de ce Dieu qui me blesse,
+Je l'éprouve aujourd'hui pour la première fois.
+
+Peut-être avant la fin du jour
+Vous applaudirez-vous d'une telle victoire ?
+Tout ce que vous voyez reconnaît mon pouvoir,
+Le Dieu des Eaux m'a donné la naissance,
+Si vous y consentez je puis vous faire voir
+Mes richesses et ma puissance :
+Je veux que tous les coeurs qui vivent sous ma loi
+Viennent vous rendre hommage,
+Leur zèle parlera pour moi.
+Approuvez-vous ces soins où mon amour m'engage ?
+
+Je suis au comble de mes voeux,
+Je vais tout préparer pour cette grande fête.
+Vous connaîtrez bientôt quelle est votre conquête.
+
+Qu'à l'envi chacun se presse
+De me suivre dans ces lieux,
+Pour un coeur que l'Amour blesse
+Les moments sont précieux ;
+Préparez à ma Déesse
+Un triomphe glorieux ;
+Hâtez-vous, il faut sans cesse
+Rendre hommage à ses beaux yeux.
+Qu'à l'envi chacun se presse
+De me suivre dans ces lieux.
+
+Connais, puissant Amour, ta dernière victoire,
+Ce triomphe suffit pour te combler de gloire,
+Tu ranges sous tes lois un coeur audacieux,
+Qui méprise la foudre et brave tous les Dieux.
+
+Je suis content de votre zèle,
+À mes yeux vos transports ont assez éclaté,
+Voyons s'ils ont su plaire à ma divinité :
+Qu'on me laisse seul avec elle.
+
+Chaque moment me tue, et redouble mes feux,
+Je ne puis plus souffrir l'ardeur qui me dévore,
+Hâtez-vous de me rendre heureux.
+Voulez-vous accabler un coeur qui vous adore ?
+
+Oui j'obtiendrai l'aveu charmant
+Qui seul peut assurer le repos de ma vie,
+Ma demande sera suivie
+D'un prompt consentement.
+Pour hâter mon bonheur je vais tout entreprendre,
+Votre père connaît ma force et mon pouvoir,
+Et sait trop ce qu'on doit attendre
+D'un amant tel que moi réduit au désespoir.
+
+Que vois-je ? Quel objet pour un amant jaloux ?
+L'Ingrate Galatée, et le berger qu'elle aime ?
+Tu mourras, téméraire, et Jupiter lui-même
+Ne saurait dérober ta tête à mon courroux.
+
+Quel chemin ont-ils pris ces amants trop heureux ?
+Sans doute Jupiter s'intéresse pour eux.
+Qu'il se montre, ce Dieu que l'Univers révère,
+C'est un objet digne de ma colère.
+Je l'attends : mais il craint de paraître à mes yeux,
+Et croit braver ma rage enfermé dans les Cieux ;
+J'y monterai malgré l'effort de son tonnerre,
+J'entasserai ces monts pour aller jusqu'à lui,
+Et ferai plus trembler tout l'Olympe aujourd'hui,
+Que ne firent jadis les enfants de la terre.
+Mais commençons d'exercer mon courroux
+Sur un rival que je déteste.
+Qu'il soit anéanti par un seul de mes coups,
+Que sa mort soit enfin si triste et si funeste,
+Que de tout son bonheur je ne sois plus jaloux !
+
+Traître, reçois le prix de ta témérité.
+
+Il est mort l'insolent ! J'ai trompé son attente,
+Je suis content puisque je suis vengé,
+Ah ! Quel plaisir pour un coeur outragé
+Qu'une vengeance sanglante.
+Et toi Déesse perfide,
+Pleure l'indigne Amant que tu m'as préféré ;
+Ma tendresse a fait place au transport qui me guide,
+J'ai repoussé les traits dont j'étais pénétré.
+Publions par tout ma victoire,
+Elle assure à la fois mon repos et ma gloire,
+J'immole dans le même jour
+Mon rival et mon amour.
+
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teleme
+
+Vous n'êtes pas le seul de qui la voix plaintive
+Se fait entendre en ces lieux chaque jour,
+Une beauté cruelle, un malheureux amour,
+M'amène aussi sur cette rive.
+
+Acis, détrompez-vous,
+Espérez un destin plus doux,
+Vous ne pousserez point de soupirs inutiles,
+Après vos longs chagrins, la joie aura son tour,
+Les Déesses en amour
+Ne sont pas les plus difficiles.
+Hélas ! Que n'en est-il de même
+Du malheureux Télème ?
+La charmante Scylla, l'honneur de nos hameaux
+Me fait gémir sous le poids de sa chaîne,
+Et la rigueur de l'inhumaine
+Change en hivers tous mes jours les plus beaux...
+
+Qu'une ingrate beauté fait souffrir sous sa loi !
+
+Vous attendez ici l'objet qui vous engage,
+Vous le verrez bientôt paraître sur ses bords,
+Je vais chercher Scylla dans le prochain bocage,
+J'ai déjà trop contraint ma flamme et mes transports.
+
+Que me servent les soins que mon coeur prend pour vous ?
+Mon sort en est-il plus doux ?
+Hélas ! Plus je vous aime,
+Plus mon amour aigrit votre courroux...
+
+Quel est le succès de nos voeux ?
+
+Vous défendez-vous encore,
+Contre un amant qui vous adore,
+Et dans un jour au bonheur destiné,
+Serai-je seul infortuné ?
+
+C'en est trop ! Vos mépris étouffent ma tendresse,
+Je sens le calme heureux de ma première paix,
+Et je dois rougir désormais
+D'avoir montré tant de faiblesse.
+Cependant redoutez la vengeance des Dieux,
+Ils me font pressentir le sort qui vous menace,
+Ils éteindront ce feu qui brille dans vos yeux,
+Ils rendront vos attraits sans douceur et sans grâce.
+Que dis-je ? Ils changeront ces riches dons des Cieux
+En des marques de leur colère,
+Et vous serez un jour par ce retour sévère
+L'objet le plus funeste et le plus odieux.
+
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scylla
+
+Quoi ! M'arrêterez-vous en dépit de moi-même !
+
+Un amant que l'on dédaigne
+Doit causer peu d'embarras,
+Et qu'importe qu'il se plaigne,
+Si l'on ne l'écoute pas ?
+
+Mais quels concerts se font entendre ?
+
+Le fier Poliphème s'avance,
+Bergers, éloignez-vous,
+C'est assez de sa présence
+Pour changer en chagrins vos plaisirs les plus doux.
+
+En vain vous prétendez inspirer à mon âme
+Le désir de s'enflammer,
+L'exemple et les conseils nous forcent-ils d'aimer ?
+Par son propre penchant il faut qu'un coeur s'enflamme,
+Vous l'avez entendu cent fois,
+Je fuis l'Amour, je méprise ses lois,
+Quittez une entreprise vaine ;
+Vos soupirs importuns me pourraient engager
+À redoubler votre peine
+Plutôt qu'à la soulager.
+
+Quelque fureur qui l'inspire
+Il ne saurait m'alarmer,
+Je crains moins les malheurs qu'il vient de me prédire,
+Que le péril d'aimer.
+
+Vous aimez tendrement ; je déteste l'amour,
+Et déjà ma fierté commence à vous déplaire ;
+Je me bannis de votre Cour,
+Pour éviter votre colère.
+
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aminte
+
+Que mon âme est contente !
+
+Sans l'amour de nos feux
+Serions-nous heureux ?
+
+Former les mêmes désirs,
+Vivre l'un pour l'autre,
+Servir de nouveaux plaisirs,
+Voilà quel sort est le nôtre.
+
+Que les plus galantes fêtes
+Parmi nous soient toujours prêtes !
+Qu'au bruit de nos chansons la plus fière beauté
+Ne puisse un seul moment garder sa liberté.
+
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+
 Je sors de mes grottes profondes,
 Tes cris ont pénétré jusques au fond des ondes,
 Tes maux par mon secours seront bientôt finis,
@@ -852,41 +538,16 @@ Dieux ! Qui suivez ma Cour,
 Paraissez sur les Eaux, honorez ce grand jour
 De votre auguste présence.
 
-**** *book_ *id_IV10 *act_IV *date_1686
-
--*who_choeurdedivinites
-Nous accourons au seul bruit de ta voix,
-Notre plus doux plaisir est de suivre tes lois.
-
--*who_neptune
 Ma fille, le Destin répond è ta prière.
 Vivez, Acis, vivez, revoyez la lumière ;
 Mais vivez désormais
 Pour ne mourir jamais,.
 
--*who_lechoeur
-Acis, vivez désormais
-Pour ne mourir jamais.
-
--*who_neptune
 Que votre sang se change et devienne une eau pure,
 Dont l'agréable murmure
 Fasse naître dans tous les coeurs
 D'innocentes ardeurs.
 
-**** *book_ *id_IV11 *act_IV *date_1686
-
--*who_galatee
-Cher Acis !
-
--*who_acis
-      Galatée ?
-
--*who_acis,galatee
-      Il m'est permis encore
-De revoir ce que j'adore.
-
--*who_neptune
 Jouissez des biens éternels
 Qui sont faits pour les immortels.
 Vous Fleuves amoureux, vous Naïades charmantes
@@ -894,44 +555,3 @@ Venez de ces amants redoubler les plaisirs ;
 Venez, animer leurs désirs
 Par les chansons les plus touchantes.
 
--*who_unenaiade
-Sous ses lois l'Amour veut qu'on jouisse
-D'un bonheur qui jamais ne finisse.
-Tendres coeurs venez tous,
-En jouir avec nous.
-
--*who_lechoeur
-Sous ses lois l'Amour veut qu'on jouisse
-D'un bonheur qui jamais ne finisse,
-Tendres coeurs venez tous
-En jouir avec nous.
-
--*who_deuxnaiades
-Vous qui croyez l'amour une faiblesse,
-Ne venez point troubler notre innocente paix,
-Ce n'est point pour des coeurs sans tendresse
-Que nos chants amoureux et nos plaisirs sont faits.
-
--*who_unenaiade
-Tendres coeurs conservez l'espérance,
-C'est en vain qu'on vous fait résistance,
-Qu'on s'arme de rigueur, de haine et de courroux ;
-Que ne vaincrez-vous point si i'Amour est pour vous ?
-
--*who_lechoeur
-Tendres coeurs conservez l'espérance,
-C'est en vain qu'on vous fait résistance,
-Qu'on s'arme de rigueur, de haine et de courroux
-Que ne vaincrez-vous point si l'Amour est pour vous ?
-
--*who_unenaiade
-Désormais on doit aimer sans crainte,
-De quoi sert une injuste contrainte ?
-Beautés à qui le Ciel a donné mille appas,
-L'Amour vous punira de n'en profiter pas.
-
--*who_lechoeur
-Sous ses lois l'Amour veut qu'on jouisse
-D'un bonheur qui jamais ne finisse.
-Tendres coeurs venez tous
-En jouir avec nous.

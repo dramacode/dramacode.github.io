@@ -1,6 +1,6 @@
 ---
 identifier: boyer_ulysse  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1650  
 title: Ulysse dans l'île de Circé ou Euryloche foudroyé  
 ---

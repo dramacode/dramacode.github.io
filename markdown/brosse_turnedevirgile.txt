@@ -1,6 +1,6 @@
 ---
 identifier: brosse_turnedevirgile  
-creator: Brosse  
+creator: Brosse ; Georges Forestier.  
 date: 1647  
 title: Le Turne de Virgile. Tragédie.  
 ---

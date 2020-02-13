@@ -1,412 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1761
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
 
--*who_dejanire
-Dircé, voici le jour où mon sort se décide,
-Le jour qui doit me rendre Alcide,
-Hélas ! s'il peut m'être rendu.
-Lui-même il a marqué ce terme à son absence,
-Et ce jour expiré, tout espoir est perdu.
-
--*who_dirce
-Junon le tient sous sa puissance,
-Elle a prolongé ses travaux.
-
--*who_dejanire
-Dieux ! Encor des dangers nouveaux !
-Ne vous lassez-vous point d'éprouver sa constance ?
-Il vit pour l'univers ; il ne vit plus pour nous.
-Faible, plaintive, errante, aux larmes condamnée,
-Sa famille est abandonnée.
-Il dédaigne les soins et de père et d'époux.
-
--*who_dirce
-De tous les ennuis qu'il vous cause,
-Sa gloire doit vous consoler.
-
--*who_dejanire
-Sa gloire ? Ah ! sans frémir puis-je me rappeler
-Les périls, les combats où sa valeur l'expose ?
-Je crois le voir environné
-Des monstres de Némée et de ceux d'Erymante,
-J'entends les sifflements de l'Hydre menaçante,
-J'entends les cris affreux de Cerbère enchaîné ;
-Et mon époux sans cesse à mes yeux se présente
-Luttant contre le sort, à le perdre obstiné.
-
-**** *book_ *id_I02 *act_I *date_1761
-
--*who_dejanire
-Mais que vois-je ? mon fils ! en quels lieux est Alcide ?
-
--*who_hilus
-Il revient ; Junon même à ce vainqueur rapide
-Se lasse d'opposer d'inutiles efforts.
-Au pied du mont Olympe un saint devoir l'arrête.
-A Jupiter son père il consacre une fête.
-Cependant ses captifs s'avancent sur ces bords.
-Dans les fers du vainqueur, une beauté céleste
-Attire et charme tous les coeurs.
-
--*who_dejanire
-Et quelle est cette esclave ?
-
--*who_hilus
-Un silence modeste
-Nous cache son pays, son rang et ses aïeux,
-Mais, si j'en crois mon coeur, elle est du sang des Dieux.
-Tout en elle intéresse, enchante.
-Avec elle on gémit de sa captivité.
-Ah ! que la douleur est touchante
-Lorsqu'elle afflige la beauté !
-Verrez-vous sans pitié cette aimable captive ?
-Il est si cruel d'accabler
-L'innocence faible et craintive,
-Et si doux de la consoler !
-
--*who_dejanire
-Pense au retour d'Alcide, à ce jour plein de charmes.
-Dis-moi qu'il vient tarir les larmes
-Que son absence a fait couler.
-Mais j'entends des chants de victoire.
-
-**** *book_ *id_I03 *act_I *date_1761
-
--*who_lechoeur
-Victoire, victoire !
-Le vainqueur des tyrans revient dans nos climats :
-Il est précédé par la gloire,
-Et la paix vole sur ses pas.
-
--*who_unethessalienne
-Triomphe, aimable paix, enchaîne les héros,
-Ton règne est le printemps du monde.
-Que jamais la trompette à nos voix ne réponde ;
-Que la seule musette éveille les échos.
-Triomphe, aimable paix, enchaîne les héros,
-Ton règne est le printemps du monde.
-
--*who_dejanire
-Peuple, c'est votre appui qui revient en ces lieux :
-Allons à son retour intéresser les Dieux.
-
-**** *book_ *id_I04 *act_I *date_1761
-
--*who_junon
-N'es-tu qu'à moi seule fatale,
-Jalousie infernale ?
-Dans les cieux, sur la terre, attachée à mes pas,
-Tu montes sur ton char, tu ne me quittes pas.
-N'es-tu qu'à moi seule fatale,
-Jalousie infernale ?
-Ne sais-tu tourmenter que le coeur de Junon ?
-Vois la gloire d'Alcide, et l'éclat de son nom ;
-Vois le triomphe heureux que ce rivage étale.
-Jalousie infernale,
-Ne sais-tu tourmenter que le coeur de Junon ?
-
--*who_lajalousie
-Non, non, dans la nature entière
-Tous les heureux sont mes rivaux.
-Je voudrais du soleil obscurcir la lumière ;
-D'Alcide en frémissant j'admire les travaux.
-Le bonheur de Déjanire
-Me révolte, me déchire :
-Je voudrais l'en punir par des tourmens nouveaux.
-
--*who_junon
-Va, répands dans son sein les feux qui me consument,
-Ces feux que la vengeance et que l'amour allument.
-Déjanire aime son époux ;
-Invisible à ses yeux, et sans cesse autour d'elle,
-Va signaler ta rage en servant mon courroux.
-
--*who_lajalousie
-Noirs soupçons, tourments des jaloux,
-Par la voix de Dircé, sa compagne fidèle,
-Venez percer son coeur des plus sensibles coups.
-
--*who_junon_lajalousie
-Que le désespoir, la fureur,
-Embrasent, dévorent son âme,
-Qu'elle immole, dans son erreur,
-Le fatal objet de sa flamme ;
-Que Jupiter lui-même en frémisse d'horreur.
-
-**** *book_ *id_II01 *act_II *date_1761
-
--*who_iole
-Quelle voix suspend mes alarmes ?
-Quel Dieu vient adoucir la rigueur de mes fers ?
-En parcourant ces vastes mers
-Mes yeux ne versent plus de larmes.
-Que dis-je ? Mon exil, mes malheurs me sont chers.
-Pour moi l'esclavage a des charmes.
-Un calme heureux succède au tumulte des armes ;
-Et j'oublie en ces lieux les plus cruels revers.
-Quelle voix suspend mes alarmes ?
-Quel Dieu vient adoucir la rigueur de mes fers ?
-
-**** *book_ *id_II02 *act_II *date_1761
-
--*who_hilus
-Venez, fille des rois, il est temps de paraître.
-Le rang où le ciel vous fit naître
-N'est plus ignoré dans ces lieux.
-Moi-même, avant de la connaître,
-J'ai lu vos destins dans vos yeux.
-L'amour vous a soumis un coeur dont il est maître.
-La beauté pour régner n'a pas besoin d'aïeux.
-
--*who_iole
-Laissez gémir une victime.
-Nos coeurs sont-ils faits pour l'amour ?
-Et puis-je pardonner au sang qui vous anime
-Sans révolter celui qui me donna le jour ?
-Hilus, mon père est mort.
-
--*who_hilus
-Il est mort avec gloire.
-C'est le crime de la victoire,
-Et non pas celui du vainqueur.
-Mais, faut-il vous venger en me perçant le coeur ?
-Frappez.
-
--*who_iole
-      Vous n'êtes point coupable.
-
--*who_hilus
-Pourquoi donc m'accabler d'une injuste rigueur ?
-
--*who_iole
-Hélas ! À travers ma douleur
-Voyez-vous éclater une haine implacable ?
-Non, non, vous n'êtes point coupable.
-Héros sensible et généreux,
-Vous serez assez malheureux,
-Sans que ma haine vous accable.
-
--*who_hilus
-Si vous m'aimez, quel bien manquerait à mes voeux ?
-
--*who_iole
-Ah ! Je frémis des maux que l'amour nous prépare.
-Mais dois-je révéler ce mystère fatal ?
-
--*who_hilus
-Ah ! parlez. Quel effroi de mon âme s'empare !
-
--*who_iole
-Perfide époux, tyran barbare, Alcide ose m'aimer.
-
--*who_hilus
-Mon père est mon rival !
-
--*who_iole
-Fille de Palénor, j'ai vu la flamme errante
-Répandre dans nos murs sa fureur dévorante.
-J'ai vu le vainqueur inhumain
-Dans les fers me traîner mourante ;
-Et je l'ai vu m'offrir sa main
-Qui du sang de mon père était encore fumante.
-
--*who_hilus
-Ô dieux ! Qu'ai-je entendu !
-
--*who_iole
-      Son amour criminel
-Vient m'attacher à lui par un noeud solennel.
-
--*who_hilus
-Ô mère infortunée ! Ô malheureuse épouse !
-
--*who_iole
-Tremblez que sa fureur jalouse
-Ne le rende encor plus cruel.
-De nous voir et de nous entendre
-Fuyons, s'il se peut, le danger.
-Un regard, un soupir est facile à surprendre ;
-Le mystère en amour est un voile léger,
-Et tout peut trahir un coeur tendre.
-De nous voir et de nous entendre
-Fuyons, s'il se peut, le danger.
-
--*who_iole_hilus
-La plaisir de mêler nos larmes
-N'adoucira plus nos malheurs.
-La pitié dans vos yeux a pour moi trop de charmes.
-Oubliez mes alarmes,
-Cachez-moi vos douleurs.
-La pitié dans vos yeux a pour moi trop de charmes.
-
-**** *book_ *id_II03 *act_II *date_1761
-
--*who_dejanire
-Mon fils, que tes vaisseaux, avant la fin du jour,
-Soient prêts à s'élancer sur la plaine liquide.
-Chargé de mes présents, vole au devant d'Alcide,
-Va lui porter l'hommage et les voeux de l'amour.
-
-**** *book_ *id_II04 *act_II *date_1761
-
--*who_dejanire
-De mon bonheur puis-je douter encore, Dircé ?
-J'aime un héros que l'univers adore,
-Le digne sang des dieux, l'exemple des mortels,
-Un fils dont Jupiter s'honore,
-Qui doit lui-même un jour partager ses autels.
-
--*who_dirce
-Puisse le tendre amour dont vous brûlez sans cesse
-Ne jamais vous coûter de pleurs !
-
--*who_dejanire
-Avec mille vertus Alcide eut sa faiblesse.
-Les plaisirs sur ses pas ont répandu des fleurs ;
-Ils ont égaré sa jeunesse.
-Le charme est enfin dissipé.
-Il s'éloigne d'Omphale, il me tient sa promesse,
-Il vient me rendre un coeur de moi seule occupé.
-
-**** *book_ *id_II05 *act_II *date_1761
-
--*who_lechoeurdescaptifs
-Épouse d'un héros qui des dieux est l'image,
-L'amour et l'effroi des humains ;
-Des coeurs qu'il a soumis recevez l'humble hommage.
-Sa valeur n'eût jamais enchaîné que des mains ;
-Sa démence a fait davantage.
-
--*who_dejanire
-Que de ces fers on les dégage.
-
--*who_unecaptive
-Je trouve mes dieux
-Partout où l'on aime.
-Pour tous, en tous lieux
-L'Amour est le même.
-Vaincus et vainqueurs,
-Sous sa loi suprême
-Il tient tous les coeurs.
-
--*who_lechoeurdescaptifs
-Nous trouvons nos dieux
-Partout où l'on aime, etc.
-
--*who_unecaptive
-Parmi les lauriers,
-À l'ombre d'un hêtre,
-Bergers, ou guerriers,
-Nous n'avons qu'un maître.
-Aimé dans les fers
-L'esclave croit être
-Roi de l'univers.
-
--*who_lechoeurdescaptifs
-Nous trouvons nos dieux
-Partout où l'on aime, etc.
-
--*who_dejanire
-Princesse, au gré de la victoire
-Les trônes tour à tour sont détruits ou fondés.
-Le sort vous a trahie, et nous a secondés ;
-Mais à vaincre le sort un grand coeur met sa gloire.
-Vos droits vous sont rendus dans cet heureux séjour.
-Du fils de Jupiter la cour est votre asile.
-
--*who_iole
-Le malheur fuit l'éclat du jour,
-Il ne veut qu'un oubli tranquille.
-
--*who_dejanire
-Non, non, si mes voeux sont remplis,
-Vous ne gémirez plus du malheur qui vous presse.
-Dans ces lieux, pour vous embellis,
-A vos destins tout s'intéresse.
-
--*who_iole
-Et pour elle et pour moi quel horrible avenir !
-Si vous êtes sensible aux pleurs de l'innocence,
-De ces bords dangereux laissez-moi me bannir.
-Laissez-moi retourner aux lieux de ma naissance,
-Y pleurer mes malheurs.
-
--*who_dejanire
-Non ; je veux les finir.
-
--*who_iole
-Si vous êtes sensible aux pleurs de l'innocence,
-De ces bords dangereux laissez-moi me bannir.
-
--*who_dejanire
-C'en est assez. Alcide en ces lieux va venir ;
-Et vous êtes sous sa puissance.
-
-**** *book_ *id_II06 *act_II *date_1761
-
--*who_dirce
-Est-ce à vous de la retenir ?
-Apprenez qu'Alcide l'adore.
-
--*who_dejanire
-Dieux, qu'entends-je !
-
--*who_dirce
-On dit plus encore.
-Au mépris de vos feux l'hymen va les unir.
-
--*who_dejanire
-Et qui t'a révélé le crime du perfide ?
-
--*who_dirce
-L'esclave favori d'Alcide,
-Lychas a publié ce mystère odieux.
-Daignez l'interroger.
-
--*who_dejanire
-Moi ! rougir à ses yeux !
-Hélas ! pour m'accabler en faut-il davantage ?
-Je n'en ai que trop entendu.
-Cette esclave est tremblante et veut fuir ce rivage ;
-J'ai vu mon fils lui-même interdit, confondu.
-Du crime de l'ingrat leur trouble est le présage.
-La honte, la douleur, le désespoir, la rage
-Déchirent mon coeur éperdu.
-C'en est fait, mes enfants, vous avez tout perdu.
-L'opprobre et l'abandon, voila votre partage.
-Père barbare !... Ô dieux qui me l'avez rendu,
-Dans les pleurs ne l'ai-je attendu,
-Que pour lui voir briser le saint noeud qui l'engage ?
-Est-ce là le prix qui m'est dû ?
-Non, je ne puis survivre à ce dernier outrage.
-La honte, la douleur, le désespoir, la rage
-Déchirent mon coeur éperdu.
-
--*who_dirce
-Pour ramener l'ingrat n'avez-vous point encore
-Ce tissu précieux, ce présent du Centaure ?
-
--*who_dejanire
-Ah ! Dircé, quel recours ! je rougis d'y penser.
-
--*who_dirce
-Vous laisserez-vous offenser ?
-Dans ce voile enchanté l'amour cache sa flamme.
-C'est un charme puissant pour attendrir son âme :
-Nessus vous l'a prédit expirant à vos yeux.
-
--*who_dejanire
-Je ne me connais plus... je tremble, je frissonne...
-Au trouble de mes sens ma raison m'abandonne.
-Je le vois préparer cet hymen odieux...
-Je périrai moi-même avant qu'il s'accomplisse.
-Viens. À la perfide opposons l'artifice :
-C'est le dernier espoir que me laissent les dieux.
-
-**** *book_ *id_III01 *act_III *date_1761
-
--*who_hercule
 Trompeuse image de ma gloire,
 Cachez ma honte à l'univers.
 Destructeur des tyrans de la terre et des mers,
@@ -415,62 +10,25 @@ Et dompté par l'amour, je languis dans ses fers.
 Trompeuse image de ma gloire,
 Cachez ma honte à l'univers.
 
-**** *book_ *id_III02 *act_III *date_1761
-
--*who_philoctete
-Au pied du monte Olympe, une illustre jeunesse
-Vient célébrer les jeux que tu fais publier.
-
--*who_hercule
 Puissent-ils me faire oublier
 Les charmes que j'évite et que je vois sans cesse !
 Je ne t'ai point caché ma nouvelle faiblesse :
 La beauté fut toujours l'écueil de ma vertu.
 
--*who_philoctete
-On succombe aisément au danger que l'on aime.
-Ton coeur ne connaît pas ce qu'il peut sur lui-même.
-Il eût vaincu l'amour, s'il avait combattu.
-Vois Déjanire dans les larmes ;
-Vois du plus tendre hymen les fruits abandonnés.
-A la honte, à l'oubli les as-tu condamnés ?
-Rompras-tu sans remords des noeuds si pleins de charmes ?
-
--*who_hercule
 Trop indigne des noms et de père et d'époux,
 Je veux bien t'avouer la fureur qui m'anime.
 J'immolerais mon fils pour première victime,
 Si je m'abandonnais à mes transports jaloux.
 
--*who_philoctete
-Hilus !
-
--*who_hercule
       Il a su plaire à l'objet qui m'enflamme.
 La haine et la pitié, la nature et l'amour
 Partagent tour à tour
 Et déchirent mon âme.
 
--*who_philoctete
-Tous les monstres encor ne sont pas terrassés.
-
--*who_hercule
 L'amour est dans mon coeur une hydre renaissante.
 
--*who_philoctete
-Ranime contre lui ta force languissante.
-
--*who_hercule
 Je le veux, mais en vain.
 
--*who_philoctete
-Tu le veux, c'est assez.
-Mais j'entends dans les airs la trompette éclatante.
-Les jeux sont annoncés.
-
-**** *book_ *id_III03 *act_III *date_1761
-
--*who_hercule
 Arbitre des destins, ô toi dont la puissance
 Remplit l'immensité des cieux !
 Dieu souverain de tous les dieux !
@@ -480,104 +38,23 @@ Comme toi j'ai vengé la timide innocence ;
 De ton sang immortel suis-je digne à tes yeux ?
 Arbitre des destins, etc.
 
--*who_lechoeur
-Chantons Alcide et ses combats.
-
--*who_hercule
 Chantez, chantez le dieu terrible
 Qui donne la force à mon bras.
 
--*who_lechoeur
-Chantons Alcide et ses combats.
-Les tyrans sont domptés, et la terre est paisible.
-
--*who_hercule_philoctete
-Chantez, chantez le dieu terrible
-Qui donne la force à mon / son bras.
-
--*who_lechoeur
-A sa valeur rapide il n'est rien d'impossible.
-Et partout la victoire a volé sur ses pas.
-Chantons Alcide et ses combats.
-Chantons.
-
--*who_hercule_philoctete
-Chantez le dieu qui me / le rend invincible.
-
--*who_lechoeur
-Chantons Alcide et ses combats.
-
--*who_lechoeur_alcide
-Chantons / Chantez le dieu terrible
-Qui donne la force à son / mon bras.
-
--*who_unthessalien
-Volez, amours, sur le char de la gloire.
-Pour les héros les doux loisirs sont faits.
-L'aimable paix embellit la victoire,
-Et les plaisirs embellissent la paix.
-Dans les combats voyez Mars en colère,
-Il fait frémir l'univers alarmé.
-Prés de Vénus voyez Mars à Cythère,
-Rien n'est plus doux que ce dieu désarmé.
-
--*who_lethessalien_lechoeur
-Volez, amours, etc.
-
-**** *book_ *id_III04 *act_III *date_1761
-
--*who_hercule
 Quoi ! mon fils de retour ?
 
--*who_hilus
-De l'amour le plus tendre
-Recevez l'offrande et les voeux.
-Rendez à Déjanire un époux glorieux.
-Venez tarir les pleurs que vous faites répandre.
-Ah ! que n'avez-vous pu l'entendre !
-Que n'avez-vous pu voir éclater ses transports !
-Son coeur s'élançait vers ces bords,
-Impatient de vous attendre.
-Seigneur, venez jouir d'un spectacle si doux.
-Déjanire est tremblante, et n'ose croire encore
-Que le sort apaisé lui rende son époux.
-Les dieux même, les dieux que l'univers adore
-Ne sont pas aimés comme vous.
-
--*who_philoctete
-Entre un coupable amour et la plus belle flamme,
-Alcide, à quoi te résous-tu ?
-Le crime et la vertu se disputent ton âme ;
-Vas-tu céder au crime et trahir la vertu ?
-
--*who_hercule
 Je le craindrai ce coeur trop long-temps combattu.
 Vous ne me parlez point de la jeune captive ?
 
--*who_hilus
-La reine, qui la plaint, daigne essuyer ses pleurs.
-
--*who_hercule
 Est-ce assez d'adoucir, de plaindre ses malheurs ?
 Dans un humble esclavage est-ce assez qu'elle vive ?
 Le ciel l'a mise au rang des rois
 Mon fils, du diadème il faut ceindre sa tête ;
 Et pour la couronner c'est vous dont j'ai fait choix.
 
--*who_hilus
-Moi ? Seigneur !
-
--*who_hercule
       Vous l'aimez, je vous cède mes droits,
 Et je vous remets ma conquête.
 
--*who_hilus
-Mon père ! Ah ! Ce bienfait m'est plus cher que le jour.
-
--*who_philoctete
-Enfin je reconnais Alcide.
-
--*who_hercule
 La vertu dans mon coeur te devra son retour ;
 Et sans l'amitié qui me guide
 Je me laissais encore égarer par l'amour.
@@ -587,174 +64,10 @@ Viens, Lychas, porte-moi ce voile précieux :
 Puis-je m'en revêtir pour un plus digne usage
 Que pour sacrifier au souverain des dieux.
 
-**** *book_ *id_IV01 *act_IV *date_1761
-
--*who_dejanire
-Qu'ai-je fait ! Ô Nessus, ta fureur m'a trompée.
-
--*who_dirce
-Reine, qui peut vous alarmer ?
-
--*who_dejanire
-Juge du coup mortel dont mon âme est frappée.
-Le sang où la robe est trempée,
-A mes yeux vient de s'enflammer.
-Tremblante au bord du précipice,
-J'avais craint d'employer ce funeste artifice :
-Tu m'en as inspiré le coupable dessein ;
-Ou plutôt c'est l'enfer qui l'a mis dans mon sein.
-
--*who_lajalousie
-Oui, c'est la Jalousie, compagne et tyran de l'Amour.
-
--*who_dejanire
-Ciel !
-
--*who_lajalousie
-      Je servais Junon, et Dircé m'a servie.
-Pleure Alcide expirant ; tu le perds sans retour.
-
-**** *book_ *id_IV02 *act_IV *date_1761
-
--*who_dejanire
-Dieu, grand Dieu ! sois sensible à ma douleur profonde.
-Protège un héros cher au monde :
-Hélas ! il est ton sang, il est digne de toi.
-
-**** *book_ *id_IV03 *act_IV *date_1761
-
--*who_dejanire
-Ministres des autels, partagez mon effroi.
-De ce héros, l'espoir, le vengeur de la terre,
-D'Alcide en ce moment les jours sont menacés :
-Attirez sur moi le tonnerre ;
-Qu'Alcide vive, c'est assez.
-
--*who_lechoeur_dejanire
-Dieu, grand Dieu ! sois sensible à sa / ma douleur profonde ;
-Protège un héros cher au monde.
-
--*who_dejanire
-De tes autels j'approche en frémissant.
-Mon crime m'a rendu ton temple redoutable.
-Hélas ! ma main seule est coupable,
-Et mon coeur, tu le sais, mon coeur est innocent.
-
--*who_lechoeur_dejanire
-Dieu, grand Dieu ! sois sensible à sa / ma douleur profonde ;
-Protège un héros cher au monde.
-
--*who_legrandpretre_lechoeur
-Père d'Alcide, à tes genoux,
-Pour lui nos voeux se font entendre.
-Veille sur lui comme il veille sur nous
-Rends lui les biens qu'il prend soin de répandre.
-
--*who_dejanire
-Le temple est ébranlé ! Quels éclats menaçants !
-
--*who_legrandpretre
-Fuis, tremble, épouse criminelle.
-Le ciel avec horreur rejette ton encens.
-
-**** *book_ *id_IV04 *act_IV *date_1761
-
--*who_dejanire
-Ah ! mon fils !
-
--*who_hilus
-      Dieux ! Qu'entends-je ? Et quelle voix m'appelle ?
-
--*who_dejanire
-Tu méconnais ta mère ! Arrête.
-
--*who_hilus
-      Laissez-moi.
-Ce nom me fait frémir d'effroi.
-Allez, allez cacher dans la nuit éternelle
-Un forfait qui vous rend l'horreur de l'univers.
-Quand je crois présenter les dons d'une main chère,
-C'est votre fureur que je sers !
-Vous rendez votre fils le bourreau de son père !
-Puis-je à ces traits affreux reconnaître ma mère ?
-
--*who_dejanire
-Hélas ! C'en est donc fait.
-
--*who_hilus
-      La plus grand des humains,
-Alcide, votre époux, l'auteur de ma naissance
-A reçu la mort de mes mains.
-
--*who_dejanire
-Injustes Dieux ! cruels destins !
-C'est vous qui dans le crime entraînez l'innocence.
-
--*who_hilus
-Alcide expire, consumé
-Du feu que dans son sein vous avez allumé.
-Couvert de la robe fatale,
-Il marchait à l'autel ; une flamme infernale
-Tout à coup pénètre ses sens.
-Il veut de la douleur étouffer les accents,
-Mais il n'en peut dompter l'horrible violence,
-Et par les cris les plus perçants
-Il rompt ce farouche silence.
-Son corps fumant exhale une noire vapeur
-A ses flancs embrasés le voile affreux s'attache
-Il le déchire avec fureur ;
-Mais en lambeaux sanglants c'est en vain qu'il l'arrache,
-Et le poison rapide a coulé dans son coeur.
-Il tombe, il se débat en mordant la poussière :
-Des pleurs mêlés de sang inondent sa paupière :
-Il se relève avec effort,
-Il embrasse l'autel, il implore la mort.
-Tout frémit : la terreur l'environne et nous glace.
-Il me voit, il m'appelle, et j'approche éperdu.
-Malheureux, m'a-t-il dit, ton erreur m'a perdu ;
-Mais elle est innocente, et ta douleur l'efface.
-Traîne-moi loin de ces autels
-Que ma faiblesse déshonore ;
-Fuyons, puisque je vis encore,
-Et cessons d'exciter la pitié des mortels.
-Vous l'allez voir.
-
--*who_dejanire
-      Après mon crime,
-Le voir ! Ah ! je vais le venger.
-De mes transports jaloux ton père est la victime.
-Par un charme inconnu j'ai voulu l'engager ;
-Ce charme est un poison funeste
-Qu'une furie a préparé.
-La rage des enfers, la colère céleste,
-Rien n'excuse l'erreur de mon coeur égaré.
-Qu'Alcide en mourant me déteste ;
-Que de tout l'univers mon nom soit abhorré.
-Mais en fermant les yeux de ton malheureux père,
-Peins-lui le désespoir de ta coupable mère ;
-Et dis-lui que mon coeur l'a toujours adoré.
-
-**** *book_ *id_V01 *act_V *date_1761
-
--*who_lechoeur
-Alcide au tombeau va descendre.
-Qui méritait mieux des autels ?
-Hélas ! du plus grand des mortels
-Il ne vva rester que des cendres.
-
-**** *book_ *id_V02 *act_V *date_1761
-
--*who_hercule
 Enfin je succombe à ma rage.
 L'excès de la douleur a vaincu mon courage.
 Cruel, à mes tourmens veux-tu m'abandonner ?
 
--*who_philoctete
-De ta gloire à jamais ce seul instant décide.
-Ose souffrir la vie, ose la couronner
-Par une mort digne d'Alcide.
-
--*who_hercule
 Quelle mort ! sous les coups d'une femme perfide !
 Oui, je veux lui survivre ; oui, je veux de ma main
 Arracher son coeur inhumain.
@@ -762,68 +75,16 @@ Qui la dérobe à ma vengeance ?
 Quoi ! mon fils avec elle est-il d'intelligence ?
 Il me fuit.
 
--*who_philoctete
-      Tu le vois dans la douleur plongé.
-
-**** *book_ *id_V03 *act_V *date_1761
-
--*who_hercule
 Approche. Hé bien, suis-je vengé ?
 Viens-tu d'immoler ma victime.
 
--*who_hilus
-Elle est ma mère.
-
--*who_hercule
       Après son crime,
 Peux-tu la nommer sans horreur ?
 
--*who_hilus
-Hélas ! Connaissez mon erreur :
-Pour vous rendre à ses voeux, dans ses tendres alarmes
-Elle a cru n'employer qu'un secours innocent.
-Nessus l'avait trompé ; et ce venin puissant
-Est le sang du perfide infecté par vos armes.
-
--*who_hercule
 Son coeur n'est point coupable !
 
--*who_hilus
-Ah ! croyez-en mes larmes
-Et la douleur qu'elle ressent.
-
--*who_lechoeurdefemmes
-Ô jour fatal ! Ô mort cruelle !
-
--*who_hercule
 Qu'entends-je ? Quel cri gémissant !
 
-**** *book_ *id_V04 *act_V *date_1761
-
--*who_lechoeur
-Ô jour fatal ! Ô mort cruelle !
-
--*who_hilus
-La reine ?...
-
--*who_iole
-      Elle n'est plus.
-
--*who_hilus
-      Ô mon père !
-
--*who_iole
-      À nos yeux
-Elle vient d'expirer, en demandant aux dieux
-D'épuiser leur rigueur sur elle.
-
--*who_hercule_hilus_lechoeur
-Ô jour fatal ! Ô mort cruelle !
-
--*who_hilus
-Nos malheurs sont comblés.
-
--*who_hercule
 Il faut les soutenir.
 Venez, trop aimable captive.
 Pour essuyer vos pleurs que mon fils me survive.
@@ -854,79 +115,491 @@ Où sont-ils, ces brigands dont j'ai purgé la terre ?
 Ils seraient moins cruels que vous.
 Dieux ! accordez-moi le tonnerre.
 
--*who_hilus_lechoeur
-Il expire dans les tourments.
-
--*who_philoctete
-Alcide !... Quels gémissements !
-
--*who_hercule
 Mes yeux appesantis vont perdre la lumière.
 Hilus, jure-moi d'accomplir
 La volonté d'un père à son heure dernière.
 
--*who_hilus
-Ordonnez.
-
--*who_hercule
       Jure-moi que tu vas la remplir.
 
--*who_hilus
-J'en atteste les dieux.
-
--*who_hercule
       Viens délivrer mon âme
 De son infernale prison.
 Au bûcher de ton père ose porter la flamme.
 
--*who_hilus
-Moi !
-
--*who_hercule
       Frémis du parjure et de la trahison.
 
--*who_hilus
-Vous voulez que je sois l'horreur de la nature !
-Les dieux me puniraient si je n'étais parjure.
-
--*who_hercule
 Obéis, tu le dois.
 
--*who_hilus
-      Je ne puis.
-
--*who_hercule
       Je le veux.
 
--*who_hilus
-Mon père !
-
--*who_philoctete
-      Alcide.
-
--*who_hercule
       Ah ! Malheureux !
 
-**** *book_ *id_V05 *act_V *date_1761
-
--*who_jupiter
-Viens, mon fils, viens jouir de ta gloire nouvelle,
-La flamme a consumé ta dépouille mortelle ;
-Triomphe du trépas, affranchi toi des lois.
-Dieux, il est votre égal. Terre, il est mon image.
-Mondes qui m'adorez, rendez-lui votre hommage.
-Astres brillants des cieux, retracez ses exploits...
-
--*who_lechoeur
-Que tout l'univers soit son temple
-Il est rempli de ses bienfaits.
-Que sa gloire soit à jamais
-Des vertus l'espoir et l'exemple,
-Et l'épouvante des forfaits.
-
--*who_hercule
 Peuples, recebez mes adieux.
 Digne ami, c'est à toi que je laisse mes armes.
 Mon fils, j'aurai sur vous les yeux.
 Princesse, embellissez la terre par vos charmes ;
 Mais tournez quelquefois vos regards vers les cieux.
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+
+Dircé, voici le jour où mon sort se décide,
+Le jour qui doit me rendre Alcide,
+Hélas ! s'il peut m'être rendu.
+Lui-même il a marqué ce terme à son absence,
+Et ce jour expiré, tout espoir est perdu.
+
+Dieux ! Encor des dangers nouveaux !
+Ne vous lassez-vous point d'éprouver sa constance ?
+Il vit pour l'univers ; il ne vit plus pour nous.
+Faible, plaintive, errante, aux larmes condamnée,
+Sa famille est abandonnée.
+Il dédaigne les soins et de père et d'époux.
+
+Sa gloire ? Ah ! sans frémir puis-je me rappeler
+Les périls, les combats où sa valeur l'expose ?
+Je crois le voir environné
+Des monstres de Némée et de ceux d'Erymante,
+J'entends les sifflements de l'Hydre menaçante,
+J'entends les cris affreux de Cerbère enchaîné ;
+Et mon époux sans cesse à mes yeux se présente
+Luttant contre le sort, à le perdre obstiné.
+
+Mais que vois-je ? mon fils ! en quels lieux est Alcide ?
+
+Et quelle est cette esclave ?
+
+Pense au retour d'Alcide, à ce jour plein de charmes.
+Dis-moi qu'il vient tarir les larmes
+Que son absence a fait couler.
+Mais j'entends des chants de victoire.
+
+Peuple, c'est votre appui qui revient en ces lieux :
+Allons à son retour intéresser les Dieux.
+
+Mon fils, que tes vaisseaux, avant la fin du jour,
+Soient prêts à s'élancer sur la plaine liquide.
+Chargé de mes présents, vole au devant d'Alcide,
+Va lui porter l'hommage et les voeux de l'amour.
+
+De mon bonheur puis-je douter encore, Dircé ?
+J'aime un héros que l'univers adore,
+Le digne sang des dieux, l'exemple des mortels,
+Un fils dont Jupiter s'honore,
+Qui doit lui-même un jour partager ses autels.
+
+Avec mille vertus Alcide eut sa faiblesse.
+Les plaisirs sur ses pas ont répandu des fleurs ;
+Ils ont égaré sa jeunesse.
+Le charme est enfin dissipé.
+Il s'éloigne d'Omphale, il me tient sa promesse,
+Il vient me rendre un coeur de moi seule occupé.
+
+Que de ces fers on les dégage.
+
+Princesse, au gré de la victoire
+Les trônes tour à tour sont détruits ou fondés.
+Le sort vous a trahie, et nous a secondés ;
+Mais à vaincre le sort un grand coeur met sa gloire.
+Vos droits vous sont rendus dans cet heureux séjour.
+Du fils de Jupiter la cour est votre asile.
+
+Non, non, si mes voeux sont remplis,
+Vous ne gémirez plus du malheur qui vous presse.
+Dans ces lieux, pour vous embellis,
+A vos destins tout s'intéresse.
+
+Non ; je veux les finir.
+
+C'en est assez. Alcide en ces lieux va venir ;
+Et vous êtes sous sa puissance.
+
+Dieux, qu'entends-je !
+
+Et qui t'a révélé le crime du perfide ?
+
+Moi ! rougir à ses yeux !
+Hélas ! pour m'accabler en faut-il davantage ?
+Je n'en ai que trop entendu.
+Cette esclave est tremblante et veut fuir ce rivage ;
+J'ai vu mon fils lui-même interdit, confondu.
+Du crime de l'ingrat leur trouble est le présage.
+La honte, la douleur, le désespoir, la rage
+Déchirent mon coeur éperdu.
+C'en est fait, mes enfants, vous avez tout perdu.
+L'opprobre et l'abandon, voila votre partage.
+Père barbare !... Ô dieux qui me l'avez rendu,
+Dans les pleurs ne l'ai-je attendu,
+Que pour lui voir briser le saint noeud qui l'engage ?
+Est-ce là le prix qui m'est dû ?
+Non, je ne puis survivre à ce dernier outrage.
+La honte, la douleur, le désespoir, la rage
+Déchirent mon coeur éperdu.
+
+Ah ! Dircé, quel recours ! je rougis d'y penser.
+
+Je ne me connais plus... je tremble, je frissonne...
+Au trouble de mes sens ma raison m'abandonne.
+Je le vois préparer cet hymen odieux...
+Je périrai moi-même avant qu'il s'accomplisse.
+Viens. À la perfide opposons l'artifice :
+C'est le dernier espoir que me laissent les dieux.
+
+Qu'ai-je fait ! Ô Nessus, ta fureur m'a trompée.
+
+Juge du coup mortel dont mon âme est frappée.
+Le sang où la robe est trempée,
+A mes yeux vient de s'enflammer.
+Tremblante au bord du précipice,
+J'avais craint d'employer ce funeste artifice :
+Tu m'en as inspiré le coupable dessein ;
+Ou plutôt c'est l'enfer qui l'a mis dans mon sein.
+
+Ciel !
+
+Dieu, grand Dieu ! sois sensible à ma douleur profonde.
+Protège un héros cher au monde :
+Hélas ! il est ton sang, il est digne de toi.
+
+Ministres des autels, partagez mon effroi.
+De ce héros, l'espoir, le vengeur de la terre,
+D'Alcide en ce moment les jours sont menacés :
+Attirez sur moi le tonnerre ;
+Qu'Alcide vive, c'est assez.
+
+De tes autels j'approche en frémissant.
+Mon crime m'a rendu ton temple redoutable.
+Hélas ! ma main seule est coupable,
+Et mon coeur, tu le sais, mon coeur est innocent.
+
+Le temple est ébranlé ! Quels éclats menaçants !
+
+Ah ! mon fils !
+
+Tu méconnais ta mère ! Arrête.
+
+Hélas ! C'en est donc fait.
+
+Injustes Dieux ! cruels destins !
+C'est vous qui dans le crime entraînez l'innocence.
+
+      Après mon crime,
+Le voir ! Ah ! je vais le venger.
+De mes transports jaloux ton père est la victime.
+Par un charme inconnu j'ai voulu l'engager ;
+Ce charme est un poison funeste
+Qu'une furie a préparé.
+La rage des enfers, la colère céleste,
+Rien n'excuse l'erreur de mon coeur égaré.
+Qu'Alcide en mourant me déteste ;
+Que de tout l'univers mon nom soit abhorré.
+Mais en fermant les yeux de ton malheureux père,
+Peins-lui le désespoir de ta coupable mère ;
+Et dis-lui que mon coeur l'a toujours adoré.
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_hilus
+
+Il revient ; Junon même à ce vainqueur rapide
+Se lasse d'opposer d'inutiles efforts.
+Au pied du mont Olympe un saint devoir l'arrête.
+A Jupiter son père il consacre une fête.
+Cependant ses captifs s'avancent sur ces bords.
+Dans les fers du vainqueur, une beauté céleste
+Attire et charme tous les coeurs.
+
+Un silence modeste
+Nous cache son pays, son rang et ses aïeux,
+Mais, si j'en crois mon coeur, elle est du sang des Dieux.
+Tout en elle intéresse, enchante.
+Avec elle on gémit de sa captivité.
+Ah ! que la douleur est touchante
+Lorsqu'elle afflige la beauté !
+Verrez-vous sans pitié cette aimable captive ?
+Il est si cruel d'accabler
+L'innocence faible et craintive,
+Et si doux de la consoler !
+
+Venez, fille des rois, il est temps de paraître.
+Le rang où le ciel vous fit naître
+N'est plus ignoré dans ces lieux.
+Moi-même, avant de la connaître,
+J'ai lu vos destins dans vos yeux.
+L'amour vous a soumis un coeur dont il est maître.
+La beauté pour régner n'a pas besoin d'aïeux.
+
+Il est mort avec gloire.
+C'est le crime de la victoire,
+Et non pas celui du vainqueur.
+Mais, faut-il vous venger en me perçant le coeur ?
+Frappez.
+
+Pourquoi donc m'accabler d'une injuste rigueur ?
+
+Si vous m'aimez, quel bien manquerait à mes voeux ?
+
+Ah ! parlez. Quel effroi de mon âme s'empare !
+
+Mon père est mon rival !
+
+Ô dieux ! Qu'ai-je entendu !
+
+Ô mère infortunée ! Ô malheureuse épouse !
+
+De l'amour le plus tendre
+Recevez l'offrande et les voeux.
+Rendez à Déjanire un époux glorieux.
+Venez tarir les pleurs que vous faites répandre.
+Ah ! que n'avez-vous pu l'entendre !
+Que n'avez-vous pu voir éclater ses transports !
+Son coeur s'élançait vers ces bords,
+Impatient de vous attendre.
+Seigneur, venez jouir d'un spectacle si doux.
+Déjanire est tremblante, et n'ose croire encore
+Que le sort apaisé lui rende son époux.
+Les dieux même, les dieux que l'univers adore
+Ne sont pas aimés comme vous.
+
+La reine, qui la plaint, daigne essuyer ses pleurs.
+
+Moi ? Seigneur !
+
+Mon père ! Ah ! Ce bienfait m'est plus cher que le jour.
+
+      Dieux ! Qu'entends-je ? Et quelle voix m'appelle ?
+
+      Laissez-moi.
+Ce nom me fait frémir d'effroi.
+Allez, allez cacher dans la nuit éternelle
+Un forfait qui vous rend l'horreur de l'univers.
+Quand je crois présenter les dons d'une main chère,
+C'est votre fureur que je sers !
+Vous rendez votre fils le bourreau de son père !
+Puis-je à ces traits affreux reconnaître ma mère ?
+
+      La plus grand des humains,
+Alcide, votre époux, l'auteur de ma naissance
+A reçu la mort de mes mains.
+
+Alcide expire, consumé
+Du feu que dans son sein vous avez allumé.
+Couvert de la robe fatale,
+Il marchait à l'autel ; une flamme infernale
+Tout à coup pénètre ses sens.
+Il veut de la douleur étouffer les accents,
+Mais il n'en peut dompter l'horrible violence,
+Et par les cris les plus perçants
+Il rompt ce farouche silence.
+Son corps fumant exhale une noire vapeur
+A ses flancs embrasés le voile affreux s'attache
+Il le déchire avec fureur ;
+Mais en lambeaux sanglants c'est en vain qu'il l'arrache,
+Et le poison rapide a coulé dans son coeur.
+Il tombe, il se débat en mordant la poussière :
+Des pleurs mêlés de sang inondent sa paupière :
+Il se relève avec effort,
+Il embrasse l'autel, il implore la mort.
+Tout frémit : la terreur l'environne et nous glace.
+Il me voit, il m'appelle, et j'approche éperdu.
+Malheureux, m'a-t-il dit, ton erreur m'a perdu ;
+Mais elle est innocente, et ta douleur l'efface.
+Traîne-moi loin de ces autels
+Que ma faiblesse déshonore ;
+Fuyons, puisque je vis encore,
+Et cessons d'exciter la pitié des mortels.
+Vous l'allez voir.
+
+Elle est ma mère.
+
+Hélas ! Connaissez mon erreur :
+Pour vous rendre à ses voeux, dans ses tendres alarmes
+Elle a cru n'employer qu'un secours innocent.
+Nessus l'avait trompé ; et ce venin puissant
+Est le sang du perfide infecté par vos armes.
+
+Ah ! croyez-en mes larmes
+Et la douleur qu'elle ressent.
+
+La reine ?...
+
+      Ô mon père !
+
+Nos malheurs sont comblés.
+
+Ordonnez.
+
+J'en atteste les dieux.
+
+Moi !
+
+Vous voulez que je sois l'horreur de la nature !
+Les dieux me puniraient si je n'étais parjure.
+
+      Je ne puis.
+
+Mon père !
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+
+Au pied du monte Olympe, une illustre jeunesse
+Vient célébrer les jeux que tu fais publier.
+
+On succombe aisément au danger que l'on aime.
+Ton coeur ne connaît pas ce qu'il peut sur lui-même.
+Il eût vaincu l'amour, s'il avait combattu.
+Vois Déjanire dans les larmes ;
+Vois du plus tendre hymen les fruits abandonnés.
+A la honte, à l'oubli les as-tu condamnés ?
+Rompras-tu sans remords des noeuds si pleins de charmes ?
+
+Hilus !
+
+Tous les monstres encor ne sont pas terrassés.
+
+Ranime contre lui ta force languissante.
+
+Tu le veux, c'est assez.
+Mais j'entends dans les airs la trompette éclatante.
+Les jeux sont annoncés.
+
+Entre un coupable amour et la plus belle flamme,
+Alcide, à quoi te résous-tu ?
+Le crime et la vertu se disputent ton âme ;
+Vas-tu céder au crime et trahir la vertu ?
+
+Enfin je reconnais Alcide.
+
+De ta gloire à jamais ce seul instant décide.
+Ose souffrir la vie, ose la couronner
+Par une mort digne d'Alcide.
+
+      Tu le vois dans la douleur plongé.
+
+Alcide !... Quels gémissements !
+
+      Alcide.
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
+
+Quelle voix suspend mes alarmes ?
+Quel Dieu vient adoucir la rigueur de mes fers ?
+En parcourant ces vastes mers
+Mes yeux ne versent plus de larmes.
+Que dis-je ? Mon exil, mes malheurs me sont chers.
+Pour moi l'esclavage a des charmes.
+Un calme heureux succède au tumulte des armes ;
+Et j'oublie en ces lieux les plus cruels revers.
+Quelle voix suspend mes alarmes ?
+Quel Dieu vient adoucir la rigueur de mes fers ?
+
+Laissez gémir une victime.
+Nos coeurs sont-ils faits pour l'amour ?
+Et puis-je pardonner au sang qui vous anime
+Sans révolter celui qui me donna le jour ?
+Hilus, mon père est mort.
+
+      Vous n'êtes point coupable.
+
+Hélas ! À travers ma douleur
+Voyez-vous éclater une haine implacable ?
+Non, non, vous n'êtes point coupable.
+Héros sensible et généreux,
+Vous serez assez malheureux,
+Sans que ma haine vous accable.
+
+Ah ! Je frémis des maux que l'amour nous prépare.
+Mais dois-je révéler ce mystère fatal ?
+
+Perfide époux, tyran barbare, Alcide ose m'aimer.
+
+Fille de Palénor, j'ai vu la flamme errante
+Répandre dans nos murs sa fureur dévorante.
+J'ai vu le vainqueur inhumain
+Dans les fers me traîner mourante ;
+Et je l'ai vu m'offrir sa main
+Qui du sang de mon père était encore fumante.
+
+      Son amour criminel
+Vient m'attacher à lui par un noeud solennel.
+
+Tremblez que sa fureur jalouse
+Ne le rende encor plus cruel.
+De nous voir et de nous entendre
+Fuyons, s'il se peut, le danger.
+Un regard, un soupir est facile à surprendre ;
+Le mystère en amour est un voile léger,
+Et tout peut trahir un coeur tendre.
+De nous voir et de nous entendre
+Fuyons, s'il se peut, le danger.
+
+Le malheur fuit l'éclat du jour,
+Il ne veut qu'un oubli tranquille.
+
+Et pour elle et pour moi quel horrible avenir !
+Si vous êtes sensible aux pleurs de l'innocence,
+De ces bords dangereux laissez-moi me bannir.
+Laissez-moi retourner aux lieux de ma naissance,
+Y pleurer mes malheurs.
+
+Si vous êtes sensible aux pleurs de l'innocence,
+De ces bords dangereux laissez-moi me bannir.
+
+      Elle n'est plus.
+
+      À nos yeux
+Elle vient d'expirer, en demandant aux dieux
+D'épuiser leur rigueur sur elle.
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
+
+Junon le tient sous sa puissance,
+Elle a prolongé ses travaux.
+
+De tous les ennuis qu'il vous cause,
+Sa gloire doit vous consoler.
+
+Puisse le tendre amour dont vous brûlez sans cesse
+Ne jamais vous coûter de pleurs !
+
+Est-ce à vous de la retenir ?
+Apprenez qu'Alcide l'adore.
+
+On dit plus encore.
+Au mépris de vos feux l'hymen va les unir.
+
+L'esclave favori d'Alcide,
+Lychas a publié ce mystère odieux.
+Daignez l'interroger.
+
+Pour ramener l'ingrat n'avez-vous point encore
+Ce tissu précieux, ce présent du Centaure ?
+
+Vous laisserez-vous offenser ?
+Dans ce voile enchanté l'amour cache sa flamme.
+C'est un charme puissant pour attendrir son âme :
+Nessus vous l'a prédit expirant à vos yeux.
+
+Reine, qui peut vous alarmer ?
+
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lajalousie
+
+Non, non, dans la nature entière
+Tous les heureux sont mes rivaux.
+Je voudrais du soleil obscurcir la lumière ;
+D'Alcide en frémissant j'admire les travaux.
+Le bonheur de Déjanire
+Me révolte, me déchire :
+Je voudrais l'en punir par des tourmens nouveaux.
+
+Noirs soupçons, tourments des jaloux,
+Par la voix de Dircé, sa compagne fidèle,
+Venez percer son coeur des plus sensibles coups.
+
+Oui, c'est la Jalousie, compagne et tyran de l'Amour.
+
+      Je servais Junon, et Dircé m'a servie.
+Pleure Alcide expirant ; tu le perds sans retour.
+

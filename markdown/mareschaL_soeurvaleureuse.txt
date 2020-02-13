@@ -1,6 +1,6 @@
 ---
 identifier: mareschaL_soeurvaleureuse  
-creator: Mareschal, André  
+creator: Mareschal, André ; Georges Forestier.  
 date: 1634  
 title: La Soeur valeureuse ou l'Aveugle amante. Tragi-comédie  
 ---
@@ -791,9 +791,9 @@ Fay mentir aujourd'huy l'Oracle qui te guide ;
 C'est luy qui t'a promis de rencontrer icy  
 L'object⁎ de ton amour & de ta honte aussi,  
 Luy qui t'a fait quitter & Parents & la Perse ;  
-Songe au bien⁎ qu'il te garde après tant de traverse⁎ :  < Oracle. >
+Songe au bien⁎ qu'il te garde après tant de traverse⁎ :   [62]
 
-Dans la forest d'Elvye [62]*, après estre guery*  
+Dans la forest d'Elvye [63]*, après estre guery*  
 Ton cœur obligera⁎ Pere, Frere, & Mary.  
 Quel Oracle plus doux ? Quel bon-heur plus extréme ?  
 En voicy la forest, en voicy le lieu mesme,  
@@ -802,14 +802,14 @@ Me servira de Pere, & sera mon Epoux ;
 Voilà, certes, voilà le sens de cét Oracle :  
 Attends donc en ce lieu l'effect⁎ d'un tel miracle,  
 Ton voyage, ton sort⁎ est icy limité.  
-Non, fay ceder l'espoir à la timidité [63] ;  
+Non, fay ceder l'espoir à la timidité [64] ;  
 Si les aisles d'Amour ayderent ta poursuitte,  
 Prends celles de la peur & te mets à la fuitte,  
-D'un contraire dessein⁎ fuy ce que tu cerchois⁎ [64] ;  
+D'un contraire dessein⁎ fuy ce que tu cerchois⁎ [65] ;  
 Pour reculer ainsi doncque tu l'approchois ?  
 O Dieux ! que mes desirs épreuvent de contrainte !  
 Que je souffre d'amour, & que je sents de crainte !  
-Que le sort⁎ est cruel qui m'a tant fait courir [65],  
+Que le sort⁎ est cruel qui m'a tant fait courir [66],  
 Et qu'il m'obligeroit⁎ s'il me faisoit mourir !  
 Oronte mét bas son écu⁎ & son casque, pour dormir au pied d'un arbre.
 
@@ -818,7 +818,7 @@ L'une attend du repos lors que l'autre me tuë :
 Sommeil, ôte à mes yeux un objét⁎ si charmant⁎,  
 Puis regardant le portraict.
 
-Ils [66] s'en vont dans mon cœur pour le voir en dormant ;  
+Ils [67] s'en vont dans mon cœur pour le voir en dormant ;  
 Si ce repos est loin des faveurs⁎ que j'espere,  
 Dieux, envoyez la Sœur en la place du Frere.  
 Oronte s'endort.
@@ -834,23 +834,23 @@ Dis-tu qu'il est parti, qu'on ne l'a sceu treuver ?
 
     LYCANTHE.
 La crainte & le danger l'auront fait esquiver⁎ ?  
-J'ai couru sur ses pas, j'ay sa piste suivie [67],  
-Visité tout le Camp, tout le Château d'Elvye [68] :  
+J'ai couru sur ses pas, j'ay sa piste suivie [68],  
+Visité tout le Camp, tout le Château d'Elvye [69] :  
 Mais ainsi qu'un fantôme, un spectre decevant⁎,  
 Cet Homme, aprés l'Appel⁎, s'est perdu dans le vent.   
 
     DORAME.
 Qu'il échappe ; du moins ce Cartel⁎ me demeure,  
-Qui m'assigne au combat le lieu, la forme [69], et l'heure :  
-Va, retourne au Château ; député [70] de ma part  
+Qui m'assigne au combat le lieu, la forme [70], et l'heure :  
+Va, retourne au Château ; député [71] de ma part  
 Excuse auprés d'Olympe un si soudain départ,  
 Surtout, dans sa Maison tiens l'affaire couverte⁎.  
 
     LYCANTHE.
 Oter à ma vertu⁎ l'occasion offerte ?  
-Suis-je pas [71], dans l'honneur⁎ qu'on ne me peut ravir,  
+Suis-je pas [72], dans l'honneur⁎ qu'on ne me peut ravir,  
 Comme de qualité, de cœur à vous servir ?  
-Avoir tant d'autres fois recerché [72] ma franchise⁎ ?  
+Avoir tant d'autres fois recerché [73] ma franchise⁎ ?  
 La mépriser au temps qu'elle vous est acquise ?  
 N'offencez point ainsi ma nouvelle amitié,  
 Qui resistant aux dons⁎ se rend à la pitié.  
@@ -859,8 +859,8 @@ Qui resistant aux dons⁎ se rend à la pitié.
 Doncque tu viens à moy, quand le sort⁎ m'abandonne ?  
 Ton cœur n'esperant rien, c'est alors qu'il se donne ?  
 La faveur⁎ ni mes biens⁎ n'avoient pû t'émouvoir⁎,  
-La vertu⁎ plus que l'or a sur toy de [73] pouvoir ;  
-C'est entrer au [74] Vaisseau, quand tu vois le naufrage ;  
+La vertu⁎ plus que l'or a sur toy de [74] pouvoir ;  
+C'est entrer au [75] Vaisseau, quand tu vois le naufrage ;  
 Ah ! vrayment, chér Amy, j'estime ton courage⁎ ;  
 Mais modere l'ardeur dont tu m'as conjuré⁎,  
 Ne me dispute point un triomphe asseuré,  
@@ -869,8 +869,8 @@ Ce duel me promet la victoire certaine ;
 Lucidor que j'attends me fera peu de mal ;  
 Ah ! je crains ma maîtresse, & non pas mon Rival ;  
 Je tiens le sort⁎ de l'un au bout de mon épée ;  
-L'autre de mille traits⁎ a mon ame frappée [75],  
-Et quelque si grand Dieu qui me [76] vinst secourir,  
+L'autre de mille traits⁎ a mon ame frappée [76],  
+Et quelque si grand Dieu qui me [77] vinst secourir,  
 Olympe a des mépris qui me feront mourir :  
 C'est en quoy seulement je desire qu'on m'ayde,  
 Où mon espoir est vain⁎, & puissant ton remede.  
@@ -880,21 +880,21 @@ Grand Prince, vous pouvez disposer de ma foy⁎,
 Qui me tiendra constant à suivre vostre loy⁎ :  
 Olympe ne sçauroit m'estimer infidele⁎,  
 Car en faisant pour vous je croy faire pour elle ;  
-Attaché par ma charge [77] au bien⁎ de sa maison,  
+Attaché par ma charge [78] au bien⁎ de sa maison,  
 Croyez que je le suis bien⁎ plus à la raison⁎ ;  
-Je regarde en vous seul tout l'espoir de la Thrace [78],  
+Je regarde en vous seul tout l'espoir de la Thrace [79],  
 Autre ame de mon Roy, le premier en sa grace⁎,  
 Qui tenez les ressorts⁎ d'une entiere faveur⁎.  
 
     DORAME.
-Pour reconnoitre un jour ton zele [79] & ta ferveur [80] :  
+Pour reconnoitre un jour ton zele [80] & ta ferveur [81] :  
 Lycanthe, en un poinct⁎ seul oblige⁎ ma fortune⁎,  
-Si tu la veux avoir avecque [81] moy commune ;  
+Si tu la veux avoir avecque [82] moy commune ;  
 Epargne ta valeur⁎, je ne la cérche⁎ pas ;  
 Il n'est icy besoin que de feinte⁎ & d'appas⁎ :  
 Gagne l'esprit⁎ d'Olympe, & fait moy cét office⁎  
 D'employer à mon bien⁎ les soins⁎ & l'artifice⁎,  
-Qu'elle n'ait de secrét⁎ qui ne me soit ouvert⁎ [82],  
+Qu'elle n'ait de secrét⁎ qui ne me soit ouvert⁎ [83],  
 Que j'agisse en son cœur par un Amy couvert⁎ ;  
 Aprés……  
 
@@ -907,7 +907,7 @@ Que crains-tu ?
 
     LYCANTHE.
         De vous voir sans crainte, & sans raison⁎  
-Flatter vostre malheur & sucrer un poison⁎ [83] ;  
+Flatter vostre malheur & sucrer un poison⁎ [84] ;  
 Lucidor plus heureux est seul en sa pensée⁎.  
 
     DORAME.
@@ -950,20 +950,20 @@ Te diray-je un secrét⁎ d'une importance extréme,
 Dont je n'ose quasi me fier à moy-mesme ?  
 Ouy, t'ayant à ce poinct⁎ fidele reconnu,  
 Lycanthe, je te veux montrer mon cœur à nu.  
-L'Asie entiere sçait notre siege de *Pruse* [84] ;  
+L'Asie entiere sçait notre siege de *Pruse* [85] ;  
 Mais apprends aujourd'huy que ce n'est qu'une ruse,  
 Que dedans le secrét⁎, cette guerre est un tour  
 De mon ambition, comme de mon amour.  
-L'effort⁎ m'avoit déja ravi la Bythinie [85],  
-Et le droict⁎ que Gelandre à mes titres⁎ dénie [86], [87]  
+L'effort⁎ m'avoit déja ravi la Bythinie [86],  
+Et le droict⁎ que Gelandre à mes titres⁎ dénie [87], [88]  
 Ce Parent qui détient encore mon Estat⁎,  
-M'avoit presques oté le nom de Potentat [88] :  
+M'avoit presques oté le nom de Potentat [89] :  
 Battu, forcé⁎, perdu, chassé de ma Province,  
 Je treuvay mon refuge auprés de vostre Prince,  
 Roy qui fait de la Thrace un Temple aux afligez,  
 Et ses Sujéts de ceux qui lui sont obligez⁎ ;  
-Je conte [89] les moments par ses graces⁎ receuës,  
-Et quand je les tairois un chacun [90] les a sceuës ;  
+Je conte [90] les moments par ses graces⁎ receuës,  
+Et quand je les tairois un chacun [91] les a sceuës ;  
 Je faisois dans mes mains reluire ses bien⁎-faits,  
 Qui surmontoient l'envie autant que mes souhaits ;  
 Ayant gagné le Pere, il me gagna la Fille ;  
@@ -976,8 +976,8 @@ Gelandre n'attendoit de mon sceptre usurpé
 Qu'à rendre le Pays⁎ qu'il avoit occupé :  
 Lucidor en ce temps me vint à la traverse⁎  
 Sous le superbe nom de fils du Roy de Perse ;  
-Sa qualité rendoit notable [91] son sejour,  
-Mesme, au lieu de la faire [92], on lui faisoit la Cour ;  
+Sa qualité rendoit notable [92] son sejour,  
+Mesme, au lieu de la faire [93], on lui faisoit la Cour ;  
 C'estoit l'ame du Roy, le cœur de la Noblesse :  
 Ah ! fâcheux souvenir, dont la honte me blesse !  
 Sa grandeur offusqua la mienne à son abord⁎,  
@@ -985,35 +985,35 @@ Chaque jour l'élevoit, & rabaissoit mon sort⁎ ;
 Le Roy tint quelque temps sa faveur⁎ partagée ;  
 Mais la fille se vit dans l'amour engagée,  
 Olympe, qu'on croyoit destinée à mon choix,  
-Quitta mon amitié [93] pour entrer sous ses loix⁎ ;  
+Quitta mon amitié [94] pour entrer sous ses loix⁎ ;  
 Le Roy mesme, ébloüi d'une telle fortune⁎,  
-Tint sa recherche [94] heureuse, & la mienne importune :  
+Tint sa recherche [95] heureuse, & la mienne importune :  
 La Cour en toute forme, & sous mille couleurs ;  
 Me parlant de son bien⁎ m'enseignoit mes malheurs ;  
-Son destin rompoit l'art [95], & passoit ma science ;  
+Son destin rompoit l'art [96], & passoit ma science ;  
 Je prevoyois ma mort, chacun leur alliance ;  
 Et les loix⁎ du Païs⁎ murmuroient sourdement  
 Du joug que luy tendoit ce fatal changement,  
 Où Lucidor prenant un droit⁎ hereditaire  
-A la Perse rendroit la Thrace tributaire [96] :  
+A la Perse rendroit la Thrace tributaire [97] :  
 Lors j'avisay de rompre un coup⁎ si perilleux,  
-Par un effort⁎ d'esprit⁎ subtil & merveilleux [97].  
+Par un effort⁎ d'esprit⁎ subtil & merveilleux [98].  
 
     LYCANTHE.
 Ne me retenez plus sur ce poinct⁎ en haleine ;  
 Que vous avez de grâce⁎ à conter vostre peine !  
 Vous me rendez nouveau ce que j'ay veu passer,  
-Quand vostre esprit⁎ ainsi me le [98] vient retrasser ;  
+Quand vostre esprit⁎ ainsi me le [99] vient retrasser ;  
 Que mes yeux sont jaloux du bien⁎ de mes oreilles !  
 
     DORAME.
-Ecoute, & les [99] prepare à bien⁎ d'autres merveilles⁎.  
+Ecoute, & les [100] prepare à bien⁎ d'autres merveilles⁎.  
 J'aborde Lucidor, je le tire⁎ en secrét⁎,  
 Et par un feint soûpir, témoin d'un faux regrét  
 En luy parlant des yeux, sans qu'il pûst rien comprendre,  
 Je le rends malheureux avant que de m'entendre ;  
 Je parle & me retiens, afin de l'attirer,  
-Et ma feinte⁎ le fait sans fainte⁎ [100] soûpirer :  
+Et ma feinte⁎ le fait sans fainte⁎ [101] soûpirer :  
 Je luy dy qu'à ce jour il connoistrait Dorame,  
 Qu'on dressoit contre luy sourdement une trame⁎ ;  
 Puis la luy declarant & cachant à moitié,  
@@ -1025,18 +1025,18 @@ Que le roy contre luy couvoit dedans le sein :
 Fuyez, Prince, fuyez l'embusche qui vous dresse  
 Pour lict une prison, un tombeau pour Maitresse ;  
 Le Roy (luy dis-je) a sceu que vos secrets⁎ efforts⁎  
-Meditoient d'enlever Olympe de nos bords [101],  
+Meditoient d'enlever Olympe de nos bords [102],  
 Et ce fâcheux soupçon qu'en son cœur on imprime  
 Previendra le dessein⁎, & punira le crime.  
 A ces mots il pâlit ; & d'un songe inventé  
 Je tombay par hazard⁎ dedans la verité ;  
-C'estoit, (mais qui l'eust creu ?) de vray [102] son entreprise :  
+C'estoit, (mais qui l'eust creu ?) de vray [103] son entreprise :  
 Il l'avoüe ; & j'ajoûte, aprés l'avoir apprise :  
 Vostre amour combattant les loix⁎ de ce Païs⁎,  
 D'eux mesmes vos desseins⁎ par là se sont trahis ;  
 Le Roy vous ayme en Prince, & vous craint pour son Gendre ;  
 Vostre crime est connu, l'on n'attend qu'à vous prendre ;  
-C'est ce que dans [103] demain l'on doit mettre en effect⁎ :  
+C'est ce que dans [104] demain l'on doit mettre en effect⁎ :  
 Mais que n'a pû souffrir un Amy si parfaict,  
 Qui vous offre à la fuitte un azile, ou la porte.  
 
@@ -1070,8 +1070,8 @@ Que son bien⁎ & le mien naistroient de ce hazard⁎,
 Que je luy cederois l'entiere Bythinie  
 Quand on verroit Melinde à Lucidor unie ;  
 Que ce Prince l'aymoit, & ne quittoit la Cour  
-Que pour fuir [104] Olympe, & suivre une autre amour,  
-Que l'importunité [105] de la Fille & du Pere  
+Que pour fuir [105] Olympe, & suivre une autre amour,  
+Que l'importunité [106] de la Fille & du Pere  
 Luy faisoit voir ma Sœur plus aymable & plus chere.  
 Il le creut aisément ; & Melinde par fois  
 Luy confirmoit à part le tout de vive voix ;  
@@ -1080,7 +1080,7 @@ Caressoit Lucidor, tâchoit d'en estre aymée.
 Cependant que ma Sœur les tient dans cette erreur,  
 La Cour grossit de bruit, Olympe de fureur ;  
 Je m'écrie à la force⁎, & ma plainte élevée  
-Soûtient que Lucidor a ma Sœur enlevée [106] :  
+Soûtient que Lucidor a ma Sœur enlevée [107] :  
 Je me riois de voir le Peuple dans les cris,  
 Olympe au desespoir, & le Roy tout surpris  
 Il creut que ce complot offenceoït sa puissance,  
@@ -1106,7 +1106,7 @@ M'écrit que Lucidor la tenoit sous des loix⁎,
 Dont la severité jointe à son insolence  
 Yroit dans peu de jours jusqu'à la violence ;  
 Pour sauver sa pudeur, & pour le prevenir,  
-Que sans plus [107] seul à seul je devois le punir ;  
+Que sans plus [108] seul à seul je devois le punir ;  
 Qu'en épargnant ses vœux⁎ & les bras d'une Armée,  
 D'où viendroit son salut, viendroit ma renommée :  
 Olympe par ces mots receut un coup⁎ mortel ;  
@@ -1115,17 +1115,17 @@ Quel combat plus heureux ? qui devant la disgrace
 Hazardoit⁎ ma faveur⁎, & m'éloignoit de Thrace ?  
 J'addresse avec avis⁎ le Cartel⁎ à ma Sœur,  
 Pour le montrer sans bruit à ce feint ravisseur :  
-Lucidor me répond ; quelque rang que je tinse [108],  
+Lucidor me répond ; quelque rang que je tinse [109],  
 Qu'il vivoit en Soldat & combattoit en Prince,  
 Que je le pourrois voir au front d'un Bataillon  
-Où l'honneur⁎ plus parfait serviroit d'aiguillon [109].  
-Depuis, sa lâcheté fait que je le decrie [110],  
-Ce procedé honteux⁎ a sa gloire⁎ flétrie [111] :  
+Où l'honneur⁎ plus parfait serviroit d'aiguillon [110].  
+Depuis, sa lâcheté fait que je le decrie [111],  
+Ce procedé honteux⁎ a sa gloire⁎ flétrie [112] :  
 Toutefois aujourd'huy venu dans ce Château  
 Qui fait une couronne à ce petit côteau,  
 Et qu'Olympe a choisy pour retraitte fidelle⁎,  
 J'ay receu ce billet où ce Prince m'appele ;  
-Sa valeur⁎ hors de temps [112] fait un dernier effort⁎,  
+Sa valeur⁎ hors de temps [113] fait un dernier effort⁎,  
 Mais il ne vient toûjours que trop tost à sa mort.  
 Donc tandis que je vay mettre fin à l'orage,  
 Que ta fidelité⁎ seconde mon courage⁎  
@@ -1133,18 +1133,18 @@ Qui resigne à toy seul ma vie, & mon secrét⁎.
 
     LYCANTHE.
 Cét honneur⁎ infini l'est moins que mon regrét  
-D'avoir les bras liez à ce noble service [113].  
+D'avoir les bras liez à ce noble service [114].  
 
     DORAME.
 Me servir prés d'Olympe est un meilleur office⁎ :  
-Allons d'un mesme temps travailler à mon gré [114] ;  
+Allons d'un mesme temps travailler à mon gré [115] ;  
 Toy dans son Cabinét, & moy dessus le pré.  
 
     LYCANTHE.
 L'un m'est aussi honteux⁎ que l'autre est honorable⁎.  
 
     DORAME.
-Tout service est d'honneur⁎, qui nous est favorable [115].   
+Tout service est d'honneur⁎, qui nous est favorable [116].   
 
 
 ### SCENE III.
@@ -1153,26 +1153,26 @@ Tout service est d'honneur⁎, qui nous est favorable [115].
 Lucidor me trahir ? me promettre la foy⁎,  
 Pour enlever Melinde, & se moquer de moy ?  
 Refuser un combat, & reduire en fumée  
-Aussi bien⁎ nostre amour, comme sa renommée [116] ?  
+Aussi bien⁎ nostre amour, comme sa renommée [117] ?  
 Qu'il souffre cette honte ; & moy son changement ?  
 Qu'on étaigne sa gloire⁎, avant mon jugement ?  
 Non ; j'ayme encore trop l'Ingrat⁎, & l'Infidelle⁎,  
-Parmy tant d'Ennemis seule je tiens pour elle [117] ;  
+Parmy tant d'Ennemis seule je tiens pour elle [118] ;  
 Sa lâcheté m'inspire un dessein⁎ genereux,  
 Et sa flâme en mourant a redoublé mes feux⁎ :  
 Admire, Lucidor, qu'une Fille offencée  
 S'arme pour un Amant, bien⁎ qu'il l'ait délaissée ;  
 Regarde une Princesse au milieu des hazards⁎,  
-Et tous les traits⁎ d'Amour changez en ceux de Mars [118] :  
+Et tous les traits⁎ d'Amour changez en ceux de Mars [119] :  
 Cette main delicate, autrefois occupée  
 A tenir un miroir, ose prendre une épée ;  
 Un chapeau sans respect cache & n'épargne pas  
 Ces cheveux où la grâce⁎ étalloit ses appas⁎,  
-Qui [119] s'en plaignent, honteux⁎ d'estre mis en servage [120],  
-Eux, qui tendroient des rets [121] au plus libre courage⁎ ;  
+Qui [120] s'en plaignent, honteux⁎ d'estre mis en servage [121],  
+Eux, qui tendroient des rets [122] au plus libre courage⁎ ;  
 Leurs nœuds prétoient par onde un ombrage à ce front,  
 Qui n'a plus que celuy que ces plumes luy font ;  
-Mon sein que le Zephyr [122] n'auroit touché qu'en crainte  
+Mon sein que le Zephyr [123] n'auroit touché qu'en crainte  
 Attend d'un fer⁎ cruel une mortelle attainte ;  
 Un rival odieux déployra son couroux  
 Sur un cœur, qui ne dûst recevoir que tes coups⁎ ;  
@@ -1186,19 +1186,19 @@ Méle son infamie avecque mon mal-heur,
 Perds l'esprit⁎ & les sens ; mais sauve ta valeur⁎ :  
 Lucidor appellé, (Dieux ! qui le pouroit croire ?)  
 De peur de me gagner, laisse perdre sa gloire⁎ ;  
-Ton Rival orgueilleux ne se [123] peut contenir ;  
+Ton Rival orgueilleux ne se [124] peut contenir ;  
 Viens, sinon pour me plaire, au moins pour le punir ;  
-Songe à tes interests, méts les miens hors de comte [124],  
+Songe à tes interests, méts les miens hors de comte [125],  
 N'écoute point mes cris, considere ta honte,  
 Que ton honneur⁎ se plaint. …Mais c'est parler au vent ;  
-Il demeure perfide & sourd comme devant [125] :  
+Il demeure perfide & sourd comme devant [126] :  
 Allons, Olympe, allons où la gloire⁎ l'appelle,  
 Sacrifier mon sang à sa propre querelle,  
 Mourir pour un ingrat⁎, un traître, un inconstant.  
 Olympe apperçeoit Oronte qui dort, qu'elle prend pour Dorame.
 
 Que voy-je ? n'est-ce pas son Rival qui l'attend ?  
-Sus, sus [126] ; debout, Dormeur.  
+Sus, sus [127] ; debout, Dormeur.  
 Considerant Oronte au lieu de Dorame.
 
         O la merveille⁎ étrange⁎ !  
@@ -1257,14 +1257,14 @@ Va, poursuy ton dessein⁎ ; mais pour l'achever mieux
 Mets au bras cét Ecu⁎, ce Casque sur tes yeux :  
 Elle mét le casque & l'écu⁎ d'Oronte, qu'elle emporte, luy laissant son chapeau.
 
-Ou ces Armes en fin pouront forcer⁎ les Parques [127],  
-Ou je mourray contente avec ces cheres marques [128].   
+Ou ces Armes en fin pouront forcer⁎ les Parques [128],  
+Ou je mourray contente avec ces cheres marques [129].   
 
 
 ### SCENE IV.
 
     ORONTE. *S'éveillant.*.
-Doux charmeur [129], n'es-tu pas, ô sommeil gratieux,  
+Doux charmeur [130], n'es-tu pas, ô sommeil gratieux,  
 L'image⁎ du repos qu'on goûte dans les Cieux ?  
 Si les soins⁎, les travaux⁎ sont l'enfer où nous sommes,  
 On te doit bien⁎ nommer le Paradis des hommes :  
@@ -1277,7 +1277,7 @@ Oronte se leve en surprise, ne voiant point son casque ni son écu⁎, & le cher
 Je le cherche des yeux, & ne voy que sa place :  
 Parlez, Arbres, Rochers, vistes-vous l'enlever ?  
 Transports, rages, fureurs, faites-le moy treuver.  
-Helas ! je cherche en vain ; & ce qui plus [130] me trouble,  
+Helas ! je cherche en vain ; & ce qui plus [131] me trouble,  
 Pour me tuer deux fois ce larcin paroist double ;  
 Mon Casque suit l'Ecu⁎. Vous qui les emportez,  
 Fuyez, hommes ou Dieux, dans ces bois écartez ;  
@@ -1300,7 +1300,7 @@ Et vous nous punissez en nous donnant le jour.
 Ainsi dessus les lieux destinez à ma joye  
 A tous les trais⁎ du sort⁎ vous m'exposez en proye ;  
 M'aviez-vous pas promis qu'à l'endroit où je suis  
-Je treuverois mon Frere & perdrois mes ennuis [131] ?  
+Je treuverois mon Frere & perdrois mes ennuis [132] ?  
 Menteurs, vous me joüez dedans vostre imposture,  
 Vous promistes le corps, & m'ôtez la peinture,  
 Et de tout cét espoir si long, si decevant⁎  
@@ -1336,7 +1336,7 @@ Quel sera leur regrét, connoissant que ma vie
 Fut offerte pour l'un, & par l'autre ravie ?  
 Leur creve-cœur sera plus grand que mon mal-heur.  
 Mais, Dieux ! comme le Ciel seconde ma douleur⁎ !  
-Ce Casque estoit fatal, que [132] le destin me laisse,  
+Ce Casque estoit fatal, que [133] le destin me laisse,  
 Il couvre mon visage, & l'Ecu⁎ ma foiblesse ;  
 Le hazard⁎ fit pour moy plus que mon jugement ;  
 L'impatience jointe à mon aveuglement  
@@ -1378,7 +1378,7 @@ Dieux jaloux, seriez-vous riche de ma dépoüille ?
 Terre, pour la treuver, faut-il que je te foüille ?  
 Invisibles Tyrans⁎, craignez-vous mon pouvoir ?  
 Faut-il qu'un Ennemy me perde sans le voir ?  
-Mais quel bruit ? Tout resonne ; un foudre [133] en ces allarmes  
+Mais quel bruit ? Tout resonne ; un foudre [134] en ces allarmes  
 Frappe….  
 Oronte voyant Olympe sous ses armes & qui tombe.
 
@@ -1397,7 +1397,7 @@ Un tiers ? un Assassin ? ah ! quelle trahison !
 Ton sang pour l'adorer, sortira de prison !  
 
     DORAME.
-Ah ! je tombe blessé ; ma trame⁎ est desourdie [134] :  
+Ah ! je tombe blessé ; ma trame⁎ est desourdie [135] :  
 Puis parlant à Olympe qu'il prend pour Lucidor.
 
 Et tu vis, Lucidor, aprés ta perfidie ?  
@@ -1440,14 +1440,14 @@ Tu soûpires pour moy, je soûpire pour luy ;
 Dans son defaut de cœur j'ay montré mon courage⁎,  
 Et rendu mon amour plus forte que l'outrage ;  
 Parmy tous les dépits qui devroient m'animer  
-Je ne le puis haïr, & ne te [135] puis aymer :  
+Je ne le puis haïr, & ne te [136] puis aymer :  
 Ouy, je t'ay faict venir moy-mesme en cette place,  
 Pour soûtenir sa gloire⁎, & rompre ton audace ;  
 J'eus soin⁎ de son honneur⁎ dedans sa lacheté ;  
 On n'ayme pas un bien⁎, sans l'avoir acheté :  
 Tu l'appelles ; il fuit ; & je le represente,  
 Je recherche ma honte, afin qu'on l'en exemte ;  
-Encore que l'Ingrat⁎ soit indigne du jour [136] :  
+Encore que l'Ingrat⁎ soit indigne du jour [137] :  
 Apprends, à mon exemple, à supporter l'amour.  
 
     DORAME.
@@ -1492,7 +1492,7 @@ Pardonne luy ce coup⁎, Dorame, si tu m'aymes.
 
     DORAME.
 Coup⁎, par qui je luy suis à jamais obligé⁎ ;  
-Que j'estois malheureux, s'il ne m'eust affligé [137] !  
+Que j'estois malheureux, s'il ne m'eust affligé [138] !  
 
     ORONTE.
 Et le mal peut tirer⁎ cette reconnoissance ?  
@@ -1529,7 +1529,7 @@ Cét Amant assiégé, que je perds, & que j'ayme,
 Dans sa captivité triomphe de moy-mesme :  
 Que te servent ces pleurs qui nourissent tes feux⁎ ?  
 Plus tu veux échapper, plus tu serres tes nœuds ;  
-Melinde, apprends qu'Amour [138] dans l'obstacle s'irrite,  
+Melinde, apprends qu'Amour [139] dans l'obstacle s'irrite,  
 Et que l'obeïssance aura lieu de merite ;  
 Les trais⁎ de Lucidor, ouy, te feront perir ;  
 Mais quel bon-heur plus grand que celuy d'en mourir ?  
@@ -1590,7 +1590,7 @@ Me font presques hayr Lucidor, & mes fers⁎.
     GELANDRE.
 Hayssez seulement cette humeur inconnuë,  
 Qui dérobe à nos yeux depuis peu vostre veuë ;  
-Par dessein⁎ nous fuir [139], et presque vous cacher  
+Par dessein⁎ nous fuir [140], et presque vous cacher  
 C'est……  
 
     MELINDE.
@@ -1599,15 +1599,15 @@ Mais vous riez, Gelandre ; aprés m'avoir surprise…..
 
     GELANDRE.
 Dans une passion, que je n'ay pas apprise ;  
-Des soûpirs toutefois, malgré l'ame passez [140],  
+Des soûpirs toutefois, malgré l'ame passez [141],  
 Mesme cette rougeur me la découvre assez :  
-Parliez-vous pas [141] d'amour seule en vostre pensée⁎ ?  
+Parliez-vous pas [142] d'amour seule en vostre pensée⁎ ?  
 Celle de Lucidor sera fort avancée ?  
 Comment s'entretient-il en sa double prison ?  
 
     MELINDE.
 Comme un blessé, qui voit, & fuit sa guerison ;  
-Il méprise la paix, & s'attache à l'injure [142],  
+Il méprise la paix, & s'attache à l'injure [143],  
 Il m'ayme :  
 Parlant bas & se tournant de côté.
 
@@ -1617,7 +1617,7 @@ Témoigne au Roy qu'il est digne Amant & Guerrier ;
 Mon Frere à ce dessein⁎ fomente cette guerre.  
 
     GELANDRE.
-Qui me remplit de crainte, & ruine [143] ma Terre.  
+Qui me remplit de crainte, & ruine [144] ma Terre.  
 
     MELINDE.
 Mais qui reparera vos pertes en un jour.  
@@ -1668,7 +1668,7 @@ Tout me quitte ; je suis sans esprit⁎ & sans voix.
 Dorame, ta promesse, à la fin m'abandonne  
 Olympe, est-ce le fruict que ton amour me donne ?  
 Quoy donc ? Amante, Amy, ne sont que des faux noms ?  
-On n'entend plus de vous que le bruit des canons [144],  
+On n'entend plus de vous que le bruit des canons [145],  
 Et le premier assaut qui choque la constance  
 M'a treuvé sans support, & vous sans resistance ?  
 Vous me deviez deffendre, & vous me poursuivez ?  
@@ -1681,16 +1681,16 @@ La main tremblant.
 D'où vient qu'elle est pesante, & si pleine de flame ?  
 Prends courage⁎, mon cœur… Mais je m'éforce en vain⁎,  
 Helas ! je n'en ay plus, je le porte en la main ;  
-Cœur lâche, cœur peureux, quoy ! tu fais qu'elle [145] tremble ?  
+Cœur lâche, cœur peureux, quoy ! tu fais qu'elle [146] tremble ?  
 
     LUCIDOR.
 Olympe, fais qu'un monde à ma perte s'assemble,  
 Dy que je doy mourir, j'aymeray le trépas ;  
-Sine [146] ma mort au moins, & j'y courts de ce pas ;  
+Sine [147] ma mort au moins, & j'y courts de ce pas ;  
 Je puis ce que tu veux ; mais fay que je le sçache.  
 
     MELINDE. *L'écoutant & répondant en elle méme.*.
-Tu me presserois moins sur [147] ce que je te cache.  
+Tu me presserois moins sur [148] ce que je te cache.  
 
     LUCIDOR.
 Parle.  
@@ -1707,7 +1707,7 @@ Toutefois il la faut surmonter à cette heure.
 Elle aborde Lucidor.
 
 Permettrez-vous enfin qu'une Princesse meure,  
-Qui ne pouvant montrer de bouche [148] sa langueur  
+Qui ne pouvant montrer de bouche [149] sa langueur  
 A mis sur ce papier ce qu'elle a dans le cœur ?  
 
     LUCIDOR.
@@ -1723,7 +1723,7 @@ Dont la crainte déjà se tourne à mon tourment⁎.
 O parole d'un songe ! & pitié d'un moment !  
 Que son erreur me tient en de fausses delices !  
 Fuyons, n'attendons pas qu'on les change en supplices.  
-Mais quoy ? veux-tu quitter la partie au besoin [149] ?  
+Mais quoy ? veux-tu quitter la partie au besoin [150] ?  
 Ly toy mesme en ses yeux, & l'écoute de loin ;  
 De ce moment dépent ou ta mort ou ta vie :  
 Ah ! ce cruel regard me l'a déjà ravie.  
@@ -1762,14 +1762,14 @@ Et cette injure est si mortelle,
 Que sans finir ta vie elle n'a point de fin.   
 Il reprend ce dernier vers.
 
-Que sans finir ma vie elle n'a point de fin [151] ?  
+Que sans finir ma vie elle n'a point de fin [152] ?  
 Et c'est icy, Melinde, une lettre amoureuse ?  
 
     MELINDE.
 C'est par où je me voy doublement malheureuse.  
 
     LUCIDOR.
-Les termes en sont beaux, mais un peu trop pressants [152].  
+Les termes en sont beaux, mais un peu trop pressants [153].  
 
     MELINDE.
 Ils ravissent vos yeux, & dérobent mes sens ;  
@@ -1817,7 +1817,7 @@ Qui mélerent en vous la rigueur & les charmes⁎ ;
 Vous n'y lirez que feux⁎, & n'y verrez que larmes.  
 
     LUCIDOR.
-Cettuy-cy [153] les condamne ; & pour vous démentir,  
+Cettuy-cy [154] les condamne ; & pour vous démentir,  
 S'oblige⁎ à mon trépas.  
 
     MELINDE.
@@ -1829,7 +1829,7 @@ De garand ? je n'en eus jamais que mon courage⁎.
     MELINDE.
 Mon amour a déjà dissippé cét orage ;  
 Ma crainte, qui sur moy tournoit également  
-Ou la perte [154] d'un Frere, ou celle d'un Amant ;  
+Ou la perte [155] d'un Frere, ou celle d'un Amant ;  
 Pour me les conserver, d'une action hardie  
 Contre eux à leur profit usa de perfidie :  
 Les trahir m'est vertu⁎ dans cette extremité,  
@@ -1906,10 +1906,10 @@ Perfide, ce refus m'en donne plus d'envie.
 N'exposez pas la vostre, & m'arrachez la vie.   
 
     LUCIDOR.
-Ce que feroit la haine, ayons le de l'amour [155].  
+Ce que feroit la haine, ayons le de l'amour [156].  
 
     MELINDE.
-C'est commettre [156] un Soleil, pour étaindre le jour [157].  
+C'est commettre [157] un Soleil, pour étaindre le jour [158].  
 
     LUCIDOR.
 Il faut que desormais ta crainte qui m'offence  
@@ -1924,7 +1924,7 @@ Accorde moy ce poinct⁎, ou bien⁎ tu ne vis plus.
 
     MELINDE.
 Ma mort ne me seroit qu'une perte legere ;  
-Mais vous obeissant, je vous perds, ou mon Frere [158] ;  
+Mais vous obeissant, je vous perds, ou mon Frere [159] ;  
 Et sans vous obeir je vous offence aussi ;  
 Amour veut une chose, & la deffend icy ;  
 Que feray-je ?  
@@ -1977,7 +1977,7 @@ Qui vous asseurera d'une amitié fidelle⁎ ;
 Mon cœur & mon esprit⁎ en sont d'autres témoins,  
 Qui pour estre secréts⁎ ne le diront pas moins :  
 L'impression du corps en fit une en mon ame,  
-Qui me priva [159] de sang & me remplit de flâme.  
+Qui me priva [160] de sang & me remplit de flâme.  
 
     ORONTE.
 Qui vit jamais venir pareille affection  
@@ -2001,7 +2001,7 @@ Produire qui nous nuit, l'avancer prés du Roy ;
 Je dy qu'il n'appartient qu'à vostre seule foy⁎.  
 
     DORAME.
-Je dy qu'il n'appartient qu'à vos vertus⁎ insignes [160]  
+Je dy qu'il n'appartient qu'à vos vertus⁎ insignes [161]  
 D'obtenir des faveurs⁎ & mille fois plus dignes,  
 Et que vostre presence a des charmes⁎ si doux  
 Qu'on ne sçauroit vous voir & n'estre pas à vous ;  
@@ -2020,10 +2020,10 @@ Que n'osant l'employer il me faudra perir.
 
     ORONTE.
 Vous le meriteriez, en cette défiance,  
-Où vous pechez autant qu'en la vaine⁎ creance [161]  
+Où vous pechez autant qu'en la vaine⁎ creance [162]  
 Qui vous figure en moy de fausses qualitez ;  
 C'est demander un bien⁎, quand vous le meritez ;  
-Aprés vostre service [162] est-il rien qui la touche ?  
+Aprés vostre service [163] est-il rien qui la touche ?  
 
     DORAME.
 Un mot en ma faveur⁎, tiré⁎ de vostre bouche.  
@@ -2059,7 +2059,7 @@ Me font heureux Amant, & vous parfait Amy.
 Et bien, puis qu'il le faut ; afin de vous complaire…   
 
     DORAME.
-Montrez-vous à mes vœux⁎ un Ange tutelaire [163].  
+Montrez-vous à mes vœux⁎ un Ange tutelaire [164].  
 
     ORONTE.
 Je m'en vay de ce pas tenter sa passion.  
@@ -2074,10 +2074,10 @@ Mais mon ambition a des ressorts⁎ secréts⁎,
 Dont la force⁎ l'applique à mes seuls interests :  
 Flatter son amitié, la payer d'une feinte⁎  
 L'engage à ma deffense, & me tire⁎ de crainte,  
-Et cette [164] occasion que j'ay prise aux cheveux [165]  
+Et cette [165] occasion que j'ay prise aux cheveux [166]  
 Peut nuire à mon Rival & servir à mes vœux⁎ ;  
 J'oppose un Frere à l'autre au sort⁎ qui nous menace,  
-Et j'attends dans le port l'orage ou la bonace [166].   
+Et j'attends dans le port l'orage ou la bonace [167].   
 
 
 ### SCENE V.
@@ -2089,11 +2089,11 @@ Ton amitié dément le sang de ce Volage,
 Vous n'estes, pour le plus, freres que de visage ;  
 Le tien fait naistre un feu⁎ dont l'éclat m'ébloüit,  
 Doux feu⁎, qui me consume, & qui me réjoüit ;  
-Sa lumiere m'aveugle à force⁎ de reluire [167],  
+Sa lumiere m'aveugle à force⁎ de reluire [168],  
 Et pour me plaire trop elle ne peut que nuire ;  
 Laisse, Oronte, à mes sens un reste de vigueur,  
 Et ce qu'il leur en faut pour dire (Prends mon cœur.)  
-Quoy ? veux tu le ravir, avant qu'on te le donne [168] ?  
+Quoy ? veux tu le ravir, avant qu'on te le donne [169] ?  
 Le forcer⁎ dans le temps que je te l'abandonne ?  
 M'ôter en mes tourments⁎ l'usage des clameurs,  
 Et la force⁎, en mourant, de m'écrier (je meurs ?)  
@@ -2137,7 +2137,7 @@ ORONTE, OLYMPE.
 Paroissent dans vos yeux, pour émouvoir⁎ nos sens ;  
 Qui s'excusent, muéts de respect & de crainte,  
 Que le silence parle & vous porte leur plainte,  
-Quand la secrette⁎ ardeur qui les fait consommer [169]  
+Quand la secrette⁎ ardeur qui les fait consommer [170]  
 Vous montre un feu⁎ caché qu'elle n'ose nommer.  
 
     OLYMPE. *Parlant bas.*.
@@ -2147,7 +2147,7 @@ C'est prendre de l'encens du Dieu que l'on adore.
     ORONTE.
 Consultez-vous déjà vostre severité  
 Sur la peine qui suit une temerité ?  
-Il merite la mort, cét Amant, cét Ichare [170] ;  
+Il merite la mort, cét Amant, cét Ichare [171] ;  
 Qu'Olympe la luy donne, il l'ayme & s'y prepare,  
 S'il la doit à l'amour & non pas au dédain ;  
 Tout autre coup⁎ luy semble aymable de sa main.  
@@ -2173,7 +2173,7 @@ Qu'elle grâce⁎ ?
     OLYMPE. *Parlant bas.*.
         A ce mot je soûpire ;  
 Ses vœux⁎ sont mes souhaits, on me porte où j'aspire :  
-Mon Prince [171], levez-vous, parmy tant d'actions  
+Mon Prince [172], levez-vous, parmy tant d'actions  
 N'ajoûtez pas ma honte à vos perfections ;  
 Puis-je voir à mes pieds celuy qui me surmonte ?  
 Faut-il que je rougisse & d'amour, & de honte ?  
@@ -2229,19 +2229,19 @@ Prenez plustost le mien.
         Dorame le merite.  
 
     OLYMPE.
-Cœur de Tygre [172], masqué sous un front hypocrite,  
+Cœur de Tygre [173], masqué sous un front hypocrite,  
 Serpent, dont le venin s'est caché sous des fleurs ;  
 Oronte soûriant.
 
-Que ces ingrats⁎ soûris [173] me coûteront de pleurs !  
+Que ces ingrats⁎ soûris [174] me coûteront de pleurs !  
 Va, que jamais le jour te puisse estre funeste.  
 Que dy-je, furieuse ? Oronte, s'il vous reste  
 Quelque foible rayon d'un sentiment humain,  
 Secourez une Amante, & luy prestez la main ;  
-Faut-il que ce refus me reduise en furie [174] ?  
+Faut-il que ce refus me reduise en furie [175] ?  
 
     ORONTE.
-Et que le vostre y mette un pour qui je vous prie [175] ?  
+Et que le vostre y mette un pour qui je vous prie [176] ?  
 
     OLYMPE.
 Ne perdez pas pour vous ce qu'il n'aura jamais.   
@@ -2306,10 +2306,10 @@ Je mets Olympe en flame, & Dorame en fureur.
 Auprés de mes tourments⁎ que leur peine est legere !  
 Eux de m'importuner, & moy d'aymer un Frere,  
 Que l'espace d'un mur empéche de sçavoir  
-Que je demeure ici [176] seulement pour le voir :  
+Que je demeure ici [177] seulement pour le voir :  
 Le voir ? ô Dieux ! comment le pourois-je entreprendre ?  
-Mais quelqu'un de la Ville en ces lieux se vient rendre [177] ;  
-C'est un Heraut [178] sans doute aux signes que je voy :  
+Mais quelqu'un de la Ville en ces lieux se vient rendre [178] ;  
+C'est un Heraut [179] sans doute aux signes que je voy :  
 La belle occasion ! il passe ; informe toy.   
 
 
@@ -2397,7 +2397,7 @@ Que la Ville de Pruse & le Château d'Elvye
 Pour le disputer regardent par envie.  
 
     ORONTE.
-C'est assez, dedans [179] peu j'espere le treuver.  
+C'est assez, dedans [180] peu j'espere le treuver.  
 
     MELINDE *sur le bout du theatre.*.
 Bon Dieux ! quelle rencontre ? il me faut esquiver⁎ ;  
@@ -2420,7 +2420,7 @@ Qu'un étrange⁎ accident termine mes regrets !
 ### SCENE VIII.
 
     LUCIDOR.
-Arrivé sur les lieux, je plains ma diligence [180] ;  
+Arrivé sur les lieux, je plains ma diligence [181] ;  
 Doy-je encore long-temps suspendre ma vengeance ?  
 Traître, voy cette épée, elle n'attend que toy ;  
 Aurois-tu de courage⁎ aussi peu que de foy⁎ ?  
@@ -2438,10 +2438,10 @@ Mais mon courage⁎ en vain⁎ luy parle de venir ;
 Ce qui dûst le hâter l'aura pû retenir,  
 Sa crainte luy ravit l'honneur⁎ qu'on luy presente,  
 Et peut-estre il medite un trait⁎ qui l'en exemte ;  
-Ses ruses m'ont fait voir, aprés un million [181],  
-Qu'il combat en renard, & non pas en lyon [182] :  
+Ses ruses m'ont fait voir, aprés un million [182],  
+Qu'il combat en renard, & non pas en lyon [183] :  
 Et j'attends du courage⁎ encore d'un perfide ?  
-Toutefois le voicy, qui cerche⁎ son Alcide [183].   
+Toutefois le voicy, qui cerche⁎ son Alcide [184].   
 
 
 ### SCENE IX.
@@ -2507,7 +2507,7 @@ C'est ce qu'il me deffend afin de m'affliger ;
 Je ne demande pas pour faveur⁎ qu'il me donne  
 Que ce qu'il ne sçauroit refuser à personne,  
 Le suivre, luy parler, le voir, & le servir  
-C'est un bien⁎ pour tout autre, & qu'il me veut ravir [184] ;  
+C'est un bien⁎ pour tout autre, & qu'il me veut ravir [185] ;  
 Et quoy ? vous me fuyez ainsi qu'une Ennemie ?  
 
     LUCIDOR.
@@ -2530,7 +2530,7 @@ Pire que mille morts, que la peste, & les fers⁎ ;
 Va, tire⁎ toy d'icy, malheureuse, effrontée.  
 
     ORONTE.
-Tygre [185], puis qu'à ce poinct⁎ ta fureur est montée,  
+Tygre [186], puis qu'à ce poinct⁎ ta fureur est montée,  
 Je veux avoir ton cœur ou de force⁎, ou d'amour.  
 
     LUCIDOR.
@@ -2559,7 +2559,7 @@ Rien ne s'offre à present qu'une promte sortie,
 Qui les mette en allarme, & rompe la partie.   
 
     MELINDE.
-Allons. Dieux ! je les voy qui sont venus aux coups⁎ [186].  
+Allons. Dieux ! je les voy qui sont venus aux coups⁎ [187].  
 
     GELANDRE.
 Déjà le camp remuë, on marche ; hâstons nous.  
@@ -2619,7 +2619,7 @@ Ah ! la foule m'emporte, & le nombre me domte⁎.
 
     ORONTE. *Les ayant mis en déroute.*.
 Il fuit ; voilà le sort⁎ que trainent les ingrats⁎ ;  
-Qui [187] ne connoist mon cœur, il connoistra mon bras.  
+Qui [188] ne connoist mon cœur, il connoistra mon bras.  
 Mais vous, dont la valeur⁎ mériteroit de rendre…  
 
     DORAME.
@@ -2672,11 +2672,11 @@ Et je crains qu'à souffrir sa presence importune
 L'une m'ôte l'amour, & l'autre la fortune⁎.  
 Dieux ! je perdray la vie, & tout l'Estat⁎ devant :  
 Faux espoir, vains⁎ projéts, n'estiez-vous que du vent ?  
-Que l'Astre des Grandeurs a sa course incertaine [188] !  
+Que l'Astre des Grandeurs a sa course incertaine [189] !  
 Que mon esprit⁎ ne serve aujourd'huy qu'à ma peine ?  
 Ouy, je forge mes fers⁎, j'invente mes travaux⁎,  
 Et pour en perdre un seul je me fay deux Rivaux,  
-Simple [189] je chasse un Frere, & mets l'autre en sa place,  
+Simple [190] je chasse un Frere, & mets l'autre en sa place,  
 Et le mal-heur de l'un sert à l'autre de grâce⁎ ;  
 Enfin je suis par tout coupable, & malheureux.  
 Mais qu'ajoûte Lycanthe à mon sort⁎ rigoureux ?    
@@ -2693,7 +2693,7 @@ Qu'apporte-tu ? ma mort ?
         Une lettre, qui donne  
 A ma fidelité⁎ la palme, & la Couronne ;  
 Mais qui porte en effect⁎ par un contraire effort⁎  
-La vie à l'Etranger [190], à vous mesme la mort.  
+La vie à l'Etranger [191], à vous mesme la mort.  
 
     DORAME.
 La mort ?  
@@ -2703,12 +2703,12 @@ La mort ?
 Avant que de mourir, la main de l'Homicide⁎.  
 
     DORAME. *Lit ainsi le dos de la lettre.*.
-*Olympe à son Oronte.* [191]  
+*Olympe à son Oronte.* [192]  
         **Ah ! cruelle⁎ ; ce trait⁎  
 Mét son consentement & ma peine en portrait :  
 Foible bien⁎, vain⁎ plaisir qui dépend d'une plume !  
 Et plus vain⁎ desespoir que le papier allume !  
-C'est trop cher acheter de l'ancre [192] par des pleurs ;  
+C'est trop cher acheter de l'ancre [193] par des pleurs ;  
 Preparez-vous, mes sens, à vaincre mes douleurs⁎ :  
 Mais celle qui m'attaque en me blessant se cache  
 En montrant la lettre cachetée.
@@ -2716,11 +2716,11 @@ En montrant la lettre cachetée.
 Son cœur est là dedans ; il faut que je l'arrache :  
 Sorts, cruel Ennemy, pour me combattre mieux,  
 Sorts, viens paroistre au jour, ou laisse entrer mes yeux ;  
-Traître, à quoy [193] m'assaillir à travers cét obstacle ?  
+Traître, à quoy [194] m'assaillir à travers cét obstacle ?  
 
     LYCANTHE.
-Puis que vous desirez d' [194]entendre un triste Oracle,  
-Appaisez vos fureurs, & soyez [195] plus discrét  
+Puis que vous desirez d' [195]entendre un triste Oracle,  
+Appaisez vos fureurs, & soyez [196] plus discrét  
 Il ouvre la lettre et luy montre un cachét d'Olympe pour la refermer.
 
 Vos maux en cette lettre, & leur plaisir secrét⁎ ;  
@@ -2741,10 +2741,10 @@ D'un trait⁎, qui par les yeux m'entrera dans le cœur :
 Aprés avoir leu bas quelque lignes, & fait des signes de tres grande indignation, il reprend tres haut en soûpirant.
 
 Ah ! donnons à ce cœur tout enflé, tout farouche  
-Du vent par mes soûpirs, & de l'air par ma bouche.  < Lettre D’Olympe à Oronte >
+Du vent par mes soûpirs, & de l'air par ma bouche.   [197]
 Que Dorame lit tout haut
 
-J'ay triomphé de vous mesme par vo- stre bras, Oronte ; & l'Amour qui en ma faveur⁎ s'est montré plus fort que l'a- mitié & le sang, vous remercie par ma bouche de cette victoire, que vous m'a- vez donnée sur vous en l'emportant sur Dorame contre Lucidor. De vray, pour me vanger n'avoir [196] pas feint de châtier l'In- constance en la personne d'un Frere ; ni d'en ôter l'honneur⁎ à un amy, de qui vous avez quitté les interests pour les miens ; s'opposer aux fureurs de l'un, & prevenir celles de l'autre ; emprunter le nom de Dorame, pour soûtenir la gloire⁎ du mien plus avantageusement ; prendre le per- sonnage de ce Temeraire [197], pour punir un Parjure [198], & me vanger des deux ensem- ble par un seul effort⁎ ; N'est-ce pas vous declarer tout à moy ? m'asseurer de vostre deffaite envers Olympe, par vostre victoi- re contre eux ? & me faire offrir par vostre courage⁎ ce Cœur glorieux⁎, que la bouche eust eu honte de me presenter sans autre effect⁎ que la parole ? Soyez toûjours muét, & ne me parlez plus, Oronte, que de cette sorte ; ôtez la bouche à l'Amour & luy re- donnez les yeux, pour voir seulement vos miracles ; ne dittes point que vous m'ay- mez ; sinon par ce qui vous rend digne de l'affection que je vous porte : j'apprendray l'art d'entendre cette honneste voix de vostre amour au milieu du silence. De mesme toutes mes pensées⁎ vous parleront de la recompense que vous meritez, & que je prepare à vostre vertu⁎, qui comme elle est l'objét⁎ ensemble & le prix de ma foix⁎, recevant de moy quelque grâce⁎ m'obligera⁎ du bien⁎ mesme que vous veut
+J'ay triomphé de vous mesme par vo- stre bras, Oronte ; & l'Amour qui en ma faveur⁎ s'est montré plus fort que l'a- mitié & le sang, vous remercie par ma bouche de cette victoire, que vous m'a- vez donnée sur vous en l'emportant sur Dorame contre Lucidor. De vray, pour me vanger n'avoir [198] pas feint de châtier l'In- constance en la personne d'un Frere ; ni d'en ôter l'honneur⁎ à un amy, de qui vous avez quitté les interests pour les miens ; s'opposer aux fureurs de l'un, & prevenir celles de l'autre ; emprunter le nom de Dorame, pour soûtenir la gloire⁎ du mien plus avantageusement ; prendre le per- sonnage de ce Temeraire [199], pour punir un Parjure [200], & me vanger des deux ensem- ble par un seul effort⁎ ; N'est-ce pas vous declarer tout à moy ? m'asseurer de vostre deffaite envers Olympe, par vostre victoi- re contre eux ? & me faire offrir par vostre courage⁎ ce Cœur glorieux⁎, que la bouche eust eu honte de me presenter sans autre effect⁎ que la parole ? Soyez toûjours muét, & ne me parlez plus, Oronte, que de cette sorte ; ôtez la bouche à l'Amour & luy re- donnez les yeux, pour voir seulement vos miracles ; ne dittes point que vous m'ay- mez ; sinon par ce qui vous rend digne de l'affection que je vous porte : j'apprendray l'art d'entendre cette honneste voix de vostre amour au milieu du silence. De mesme toutes mes pensées⁎ vous parleront de la recompense que vous meritez, & que je prepare à vostre vertu⁎, qui comme elle est l'objét⁎ ensemble & le prix de ma foix⁎, recevant de moy quelque grâce⁎ m'obligera⁎ du bien⁎ mesme que vous veut
 Olympe.
 Lycanthe, il faut mourir ; l'Arrest en est dressé,  
 Cette lettre le porte, & je l'ay prononcé ;  
@@ -2963,7 +2963,7 @@ Que me prends-tu, Voleur ? est-ce là cét office⁎ ?
 Qu'elle ait, au lieu du cœur, le sang en sacrifice.  
 
     DORAME. *Parlant bas.*.
-Vos baisers, vos soûpirs, & tant de privautez [199]  
+Vos baisers, vos soûpirs, & tant de privautez [201]  
 Qui vous sont des faveurs⁎, me sont des cruautez ;   
 Lâche, & perfide Amy ! sourde, ingratte⁎ Maistresse !  
 Ah ! l'amour me transporte, & la douleur⁎ me presse.  
@@ -2990,7 +2990,7 @@ Puis revenant à Oronte.
 
 Pour le bien⁎ d'un Amy, cherissez une Amante ;  
 La pitié qu'il demande & qu'espere sa foy⁎,  
-Vous me l'enseignerez l'exerceant [200] envers moy.  
+Vous me l'enseignerez l'exerceant [202] envers moy.  
 
     ORONTE.
 L'exerceant envers vous, pour luy quel avantage ?   
@@ -3062,9 +3062,9 @@ Que Dorame dépoüille un miserable Prince ;
 Tu possedes le cœur, il n'a que la Province ;  
 Il le veut asservir par une trahison,  
 Et l'amour & ma foy⁎ l'ont mis dans ta prison ;  
-Sa perte en t'agreant recompense la nostre [201],  
+Sa perte en t'agreant recompense la nostre [203],  
 On m'ôte une Couronne, & j'en obtiens une autre ;  
-Si je puis esperer un Myrthe [202] glorieux⁎,  
+Si je puis esperer un Myrthe [204] glorieux⁎,  
 Je prefere ma perte à la gloire⁎ des Dieux,  
 Tu m'obliges⁎, Dorame, en me faisant outrage,  
 Et j'adore un Soleil au milieu de l'orage.  
@@ -3081,7 +3081,7 @@ LUCIDOR, MELINDE, GELANDRE.
     LUCIDOR *parlant à Melinde.*.
 En vain⁎ vous m'opposez & vos feux⁎, & vos larmes ;  
 Rien ne me peut toucher, la pitié ni les charmes⁎ ;  
-Aymez moy, Frere & Sœur, ou m'offencez [203] toûjours ;  
+Aymez moy, Frere & Sœur, ou m'offencez [205] toûjours ;  
 Je méprise sa haine autant que vos amours,  
 Vous, indigne du cœur, il l'est de mon courage⁎ ;  
 Vous troublâtes la mer, où vous ferez naufrage.  
@@ -3089,16 +3089,16 @@ Puis s'avanceant à Gelandre.
 
 Ah ! Prince, on nous trahit, un perfide attentat  
 Se dresse à mes amours, & contre vostre Estat⁎.  
-Un Amy m'a séduit [204], un Parent vous opprime ;  
+Un Amy m'a séduit [206], un Parent vous opprime ;  
 Et j'amene à vos pieds la Complice du crime :  
 Sus donc ordonnez luy le juste châtiment…  
 
     MELINDE* à genoux devant Gelandre.*.
 Que merite & que cerche⁎ un vif ressentiment  
-De l'injure [205] qu'à tort on vous avoit dressée,  
+De l'injure [207] qu'à tort on vous avoit dressée,  
 Et qui m'a par mes mains la premiere blessée :  
 Ouy, Gelandre, mon Frere en son ambition  
-N'aspiroit qu'à ravir par une faction [206]  
+N'aspiroit qu'à ravir par une faction [208]  
 Olympe à Lucidor, à vous le Dyadéme,  
 Perdre d'un mesme temps un Rival, & vous mesme.  
 
@@ -3127,7 +3127,7 @@ Les effects⁎ disent trop leur trahison commune :
 Gelandre, mon amour soûtient vostre fortune⁎ ;  
 Pour vanger l'une et l'autre, & perdre un Ravisseur,  
 Je vay songer au Frere & vous laisse la Sœur ;  
-La Perse manquera d'hommes & de puissance [207],  
+La Perse manquera d'hommes & de puissance [209],  
 Ou je puny bien⁎ tost une injuste licence⁎ :  
 Je reméts la perfide en garde à vos prisons.  
 Il s'en va.
@@ -3137,7 +3137,7 @@ Il s'en va.
 Encore est-ce trop peu pour tant de trahisons.  
 
     GELANDRE *parlant bas.*.
-Las ! je suis dans la sienne [208], & j'en aurois pour elle ?  
+Las ! je suis dans la sienne [210], & j'en aurois pour elle ?  
 Mon ame à cét objét⁎ tient mes sens en querelle,  
 Je soûtiens dans mon cœur un combat different :  
 Mais l'amour est plus forte, & la haine se rend ;  
@@ -3233,7 +3233,7 @@ Prends au bout de la mienne une lettre, & ta mort :
 Ly hardiment ; aprés, j'acheveray ton sort⁎.  
 
     ORONTE *prenant la lettre.*.
-Moy le tien ; jusques là cét effect⁎ le prolonge [209].  
+Moy le tien ; jusques là cét effect⁎ le prolonge [211].  
 Aprés avoir leu la lettre.
 
 Qu'est-ce ? ô Dieux ! tout cecy ne me semble qu'un songe ;  
@@ -3259,7 +3259,7 @@ Ah ! ma vie en mon sang…..
 Il est mort ; accourons, & vangeons son trépas.  
 
     ORONTE. *Leur montrant Lycanthe mort.*.
-Voyez vostre destin, traîtres, dessus [210] vos pas :  
+Voyez vostre destin, traîtres, dessus [212] vos pas :  
 Le nombre m'épouvante aussi peu que les armes.  
 
     Page⁎*aprés avoir pleuré le desastre d'Oronte ; s'encourageant & prenant l'épée de Lycanthe.*.
@@ -3274,7 +3274,7 @@ Va tenir compagnie à cette Ame infidelle ;
 Sur les bords de L'Enfer ton compagnon t'appelle.  
 
     PAGE. *Voyant son Ennemy chancelant d'un coup⁎, & mourant luy-méme.*.
-Tombe, traître, & m'attends à descendre là-bas [211],  
+Tombe, traître, & m'attends à descendre là-bas [213],  
 Pour y continuer encore nos combats :  
 Que je regrette peu cette poitrine ouverte !  
 Trop heureux que sa mort ait prevenu ma perte :  
@@ -3294,20 +3294,20 @@ Pour te perdre…..
 Mon courage⁎ a laissé l'office⁎ à ma douleur⁎ ;  
 Les Dieux à ton trépas, aprés un tel outrage,  
 Ont bien⁎ moins employé ma valeur⁎ que ma rage.  
-Mais à quoy [212] ces propos ? regarde qu'en son cours  
+Mais à quoy [214] ces propos ? regarde qu'en son cours  
 Ce sang vient jusqu'à toy demander ton secours :  
 Puis courant à son Page⁎.
 
 Mon Fils ; il meurt ; ô Ciel ! enseigne à la Memoire  
-Qu'ils se donnent d'un temps & s'ôtent la victoire [213].  
+Qu'ils se donnent d'un temps & s'ôtent la victoire [215].  
 Enfin se sentant affoiblir de ses blessures.
 
-Ma foiblesse ravit la mienne [214] en son progrez :  
+Ma foiblesse ravit la mienne [216] en son progrez :  
 Ne mourant pas des coups⁎, je mourrois de regrets ;  
-Ah ! je n'ay plus esprit⁎ ny [215] sang qui me soûtienne :  
+Ah ! je n'ay plus esprit⁎ ny [217] sang qui me soûtienne :  
 Attends, belle Ame, attends, ou viens prendre la mienne :  
 Quelle offence ? toy mort ! las ! si je ne suivois  
-Qui me suivit par tout pendant que je vivois [216] ?  
+Qui me suivit par tout pendant que je vivois [218] ?  
 Ne pouvant te donner une autre sepulture,  
 Ce corps au moins du tien sera la couverture.  
 Oronte se laisse tomber sur le corps du Page⁎, tenant en main la lettre sanglante.
@@ -3338,7 +3338,7 @@ Destins, pour échapper ce bras m'ouvre la porte ;
 Que tout me soit, Olympe, ou contraire ou suspect ;  
 S'il faut perdre l'amour, je perdray le respect,  
 Et si de mes desseins⁎ la trame⁎ est reconnuë,  
-S'il faut (comme Ixion [217]) n'embrasser qu'une nuë [218],  
+S'il faut (comme Ixion [219]) n'embrasser qu'une nuë [220],  
 J'en tireray⁎ du moins un foudre si mortel  
 Que mes feux⁎ détruiront la victime, & l'Autel ;  
 J'attaqueray l'Estat⁎, le Roy mesme en personne,  
@@ -3357,7 +3357,7 @@ LE ROY DE THRACE, DORAME.
 
 
     ROY DE THRACE* commandant à ses gens de se retirer.*.
-Qu'autre [219] personne icy ne nous soit introduitte.  
+Qu'autre [221] personne icy ne nous soit introduitte.  
 
     DORAME *considerant le Roy, & parlant bas.*.
 Je ly dedans ses yeux quelque dessein⁎ caché ;  
@@ -3379,13 +3379,13 @@ Vous portez sa douleur⁎ & son mal en l'esprit⁎.
 Autrement qu'on ne pense : ah ! ma crainte s'envole ;  
 D'un crime que j'ay fait je voy qu'on me console :  
 Reparons à ce coup⁎ mon esprit⁎ abbattu,  
-Reprochons à mes sens le deffaut [220] qu'ils ont eu.  
+Reprochons à mes sens le deffaut [222] qu'ils ont eu.  
 
     LE ROY.
 D'un contre-coup égal je ressents deux attaintes,  
 La douleur de sa playe, & l'excés de vos plaintes ;  
 Mais le Ciel, qui connoist le secrét⁎ de mes vœux⁎,  
-S'il me veut conserver, vous gardera [221] tous deux ;  
+S'il me veut conserver, vous gardera [223] tous deux ;  
 J'acheterois vos cœurs de ce Dieu qui les donne  
 L'un de mon Sceptre offert, l'autre de ma Couronne ;  
 Le vostre, qui partage à nous deux vostre foy⁎,  
@@ -3405,13 +3405,13 @@ Qui soûtient mes Sujéts & perd nos Enuieux ;
 J'ay par vostre valeur⁎ & par vostre conduitte  
 Mis nos Amis en paix, les Ennemis en fuitte,  
 Irriter mes desirs, mon pouvoir, & mes loix⁎,  
-C'est fournir de matiere à [222] vos rares exploicts ;  
+C'est fournir de matiere à [224] vos rares exploicts ;  
 Par vous, mesme en naissant l'envie est étouffée,  
 Quiconque nous attaque il vous offre un trophée :  
 Lucidor, pour le prix de sa temerité,  
 En servira de preuve à la Posterité ;  
 Et Gelandre sera, dans une mesme offence,  
-Le témoin de sa perte & non pas sa deffense [223] :  
+Le témoin de sa perte & non pas sa deffense [225] :  
 Quoy que certains avis⁎ que j'apprends tous les jours  
 M'asseurent que la Perse arrive à leur secours ;  
 Cela tire⁎ en avant & renflame la guerre.  
@@ -3419,7 +3419,7 @@ Cela tire⁎ en avant & renflame la guerre.
     DORAME.
 Sire, en son premier bruit étouffons ce tonnerre ;  
 Pruse bien⁎ tost renduë à l'effort⁎ de nos coups⁎  
-Nous donne à triompher avant qu'on soit à nous [224] ;  
+Nous donne à triompher avant qu'on soit à nous [226] ;  
 Melinde entre nos mains, Gelandre dans l'orage  
 Porteront Lucidor à fuïr le naufrage.  
 
@@ -3427,7 +3427,7 @@ Porteront Lucidor à fuïr le naufrage.
 Ou plustost à se perdre, en perdant son espoir ;  
 C'est ce que j'apprehende, & qu'il faudra prevoir :  
 Je mesure sur moy l'affliction du Pere ;  
-L'un des Fils est au lict, & nous perdrions [225] son Frere ;  
+L'un des Fils est au lict, & nous perdrions [227] son Frere ;  
 De ces Princes meurtris⁎ le spectacle odieux  
 Armeroit contre nous les hommes & les Dieux :  
 L'un flatte ma bonté, lors que l'autre en abuse ;  
@@ -3456,7 +3456,7 @@ OLYMPE, ORONTE.
 
     OLYMPE *voyant Oronte dans le lict.*.
 Voilà ce que vous coûte une amitié fidelle⁎ ;  
-Vous n'aviez rien de sainct ni d'aymable au prix d'elle [226] ;  
+Vous n'aviez rien de sainct ni d'aymable au prix d'elle [228] ;  
 C'est ainsi que Dorame a payé vos travaux⁎ ?  
 
     ORONTE.
@@ -3487,12 +3487,12 @@ Sa trahison a pris vos vertus⁎ pour objéts⁎ ;
 Elles, dont la douceur luy paroist inhumaine,  
 Qui servoient à son bien⁎, se tournent à sa peine ;  
 Mais le plus grand effort⁎ d'un mal-heur si puissant  
-Epargne le Perfide [227], & blesse l'Innocent [228] :  
+Epargne le Perfide [229], & blesse l'Innocent [230] :  
 Helas ! en quel estat⁎ vous treuva Nepoléme :  
 Noyé dans vostre sang, demy-mort, froid & bléme ?  
 Je l'envoyois au Camp, sur un soupçon d'amour ?  
 Pour y joindre Lycanthe & hâter son retour ;  
-Mais il treuva ce Traître avecque ses Complices [229],  
+Mais il treuva ce Traître avecque ses Complices [231],  
 De qui la mort prevint de plus honteux⁎ supplices ;  
 Vous, couché comme mort, d'un œil indifferent  
 Sembliez encore lire une lettre en mourant.  
@@ -3532,7 +3532,7 @@ Outre qu'ayant sur moy toute chose permise,
 J'aymerois l'attentat quand il l'auroit commis,  
 Puis que ma mort seroit un don⁎ de mes Amis ;  
 J'adorerois le coup⁎, & la main qui me blesse,  
-Et si j'en soûpirois [230] j'aurois trop de foiblesse.   
+Et si j'en soûpirois [232] j'aurois trop de foiblesse.   
 
     OLYMPE.
 Aveugle affection ! ô l'innocente erreur !  
@@ -3559,9 +3559,9 @@ Je tiendrois mal-heureux qui n'a point de tourment⁎.
 C'est donc à ce dessein⁎ qu'un Amy si perfide,  
 Afin de l'obliger⁎, s'est fait son homicide⁎ ?  
 Il vous doit la plus-part de ce bien⁎ pretendu,  
-Que l'Innocent [231] achete & qu'un Traître [232] a vendu ;  
+Que l'Innocent [233] achete & qu'un Traître [234] a vendu ;  
 Mettre aprés sa personne, & la foy⁎ meprisée,  
-Sa perte à compliment, & son mal en risée [233] ?  
+Sa perte à compliment, & son mal en risée [235] ?  
 Ah ! ce coup⁎ qui vous rend insensible & mocqueur  
 Vous devroit fendre l'ame, & saigner dans le cœur.  
 
@@ -3637,7 +3637,7 @@ Pour rendre ma vertu⁎ suspecte à la memoire :
 Viens où l'Amour te meine ; il n'a plus de bandeau,  
 Il t'appelle du lict pour entrer au tombeau ;  
 Remis, ou peu s'en faut, cette épée invincible  
-Te guerit tout à faict par un coup⁎ plus sensible [234].  
+Te guerit tout à faict par un coup⁎ plus sensible [236].  
 
     ORONTE.
 Sensible ? ce discours me l'est plus que la mort ;  
@@ -3690,13 +3690,13 @@ Tenez, et joüissez du fruict de vostre attente.
     DORAME *parlant bas.*.
 Quoy doncque ? je me rends, & la pitié me tente ?  
 Non, quoy qu'il soit blessé, je ne suis pas vangé ;  
-Son bras qui l'a puni m'a plus desobligé [235],  
+Son bras qui l'a puni m'a plus desobligé [237],  
 Ce n'est qu'autant de sang qu'il ôte à ma vangeance ;  
 Ma main auroit bien⁎ mieux treuvé mon allegeance :  
 Foible épée, as-tu fait ce coup⁎ qui m'est honteux⁎ ?  
-Mais appelons ses gens sur un poinct⁎ si douteux [236].  
+Mais appelons ses gens sur un poinct⁎ si douteux [238].  
 Accourez ; il se tuë ; empéchez sa furie ;  
-Voyez vostre mal-heur, & sa forcenerie [237] :  
+Voyez vostre mal-heur, & sa forcenerie [239] :  
 Mon épée en ses mains, si quelqu'un ne la prend,  
 Sa rage aprés ce coup⁎ en medite un plus grand.   
 
@@ -3744,11 +3744,11 @@ Il hait la liberté, fait mesme qu'on la craigne,
 Et la chasse d'un cœur aussitost qu'il y regne.  
 
     MELINDE.
-Ses plumes [238] nous font voir qu'il sçait bien⁎ en partir.  
+Ses plumes [240] nous font voir qu'il sçait bien⁎ en partir.  
 
     GELANDRE.
 Non ; c'est pour y voler, & non pour en sortir :  
-Conservons luy pourtant l'usage de ses aîles [239],  
+Conservons luy pourtant l'usage de ses aîles [241],  
 Sortant d'une prison qu'il entre en de plus belles ;  
 Vostre cœur est tenu sous un ingrat⁎ pouvoir,  
 Et vous voyez le mien prest à le recevoir ;  
@@ -3769,7 +3769,7 @@ Vous, relevez la vostre en mon amour offerte ;
 Ma premiere victoire est de vous acquerir.  
 
     MELINDE.
-Perdant tout, il m'en reste une belle [240] à mourir.   
+Perdant tout, il m'en reste une belle [242] à mourir.   
 
 
 ### SCENE VI.
@@ -3789,7 +3789,7 @@ Il commencea la guerre, elle finit en luy.
 Dorame paroist suivy d'Oronte pour se battre.
 
 Mais quel dessein⁎ l'amene à mes yeux aujourd'huy ?  
-Quoy ? nous suivroit-il point [241] ? Non, luy mesme s'arreste ;  
+Quoy ? nous suivroit-il point [243] ? Non, luy mesme s'arreste ;  
 Suivy d'un cavalier au combat il s'appreste :  
 Tirons⁎ nous à l'écart, Amis, voyons leur jeu.   
 
@@ -3818,7 +3818,7 @@ Pour me plaire en effect⁎, venez, sans m'épargner.
 Dure loy⁎, qui m'oblige⁎ à perdre pour gagner !  
 Ma victoire consiste à me l'ôter moy-mesme.  
 
-    LUCIDOR [242] *les voyant au combat.*.
+    LUCIDOR [244] *les voyant au combat.*.
 Ils combattent pour moy dans ce peril extréme ;  
 C'est ma Sœur, & Dorame ; ils me vangent sur eux,  
 Et ma haine s'acquiert ce qu'ils perdront tous les deux.  
@@ -3829,7 +3829,7 @@ Portez ; cette douceur en m'épargnant m'offence ;
     ORONTE.
 Mon cœur retient mon bras, lors que ma main s'avance.  
 Ah ! Prince, cher Amy, quittez cette fureur ;  
-Tout ce qui s'est passé donnons le [243] à vostre erreur.  
+Tout ce qui s'est passé donnons le [245] à vostre erreur.  
 
     DORAME.
 La plus grande ne fut que d'aymer un tel homme.  
@@ -3887,10 +3887,10 @@ Mon courage⁎ les tire⁎, & non pas ma foiblesse.
 Helas ! cette eau m'enflame, & sa pitié me blesse.  
 Une secrette⁎ force⁎ a changé tous mes sens,  
 Qui malgré ma fureur luy sont obéissants ;  
-J'ay pris un autre cœur, autres yeux, autre bouche [244] ;  
+J'ay pris un autre cœur, autres yeux, autre bouche [246] ;  
 Oronte, est-ce bien⁎ vous ?  
 
-    LUCIDOR [245] *les surprenant.*.
+    LUCIDOR [247] *les surprenant.*.
         Mais, perfide, est-ce toy,  
 Que le Ciel a puni par un autre que moy ?  
 Depuis ta trahison tu trainois ton supplice ;  
@@ -3916,7 +3916,7 @@ Une fille d'Oronte ? ô Dieux quel changement ?
 Ces mots t'ôtent la vie.  
 
     DORAME.
-        A moy le jugement [246].  
+        A moy le jugement [248].  
 
     LUCIDOR.
 Fuy, malheureuse, fuy, que le vice a conduitte ;  
@@ -3945,7 +3945,7 @@ Je soûtiendray tout seul l'effect⁎ de ce duel ;
 Voyons qui de vous deux sera le plus cruel.  
 
     LUCIDOR.
-Quoy ? ce Monstre opposé, comme une autre Meduse [247],  
+Quoy ? ce Monstre opposé, comme une autre Meduse [249],  
 Tient mon ame insensible.  
 
     ORONTE.
@@ -3999,7 +3999,7 @@ Mon sang contre mon sang devant moy conjuré⁎ ?
 Oronte, Lucidor, couple dénaturé,  
 Est-ce ainsi qu'un destin vous remét à ma veuë ?  
 O Fille, de raison⁎ & de sens dépourveuë !  
-Cruels, également ces deux bras que je fis [248] !  
+Cruels, également ces deux bras que je fis [250] !  
 Dy que t'a fait ma Fille ? & que t'a fait mon Fils ?  
 Tous vos coups⁎ ne portoient que contre vostre Pere ;  
 L'un me voloit sa Sœur, l'autre m'ôtoit son Frere ;  
@@ -4007,8 +4007,8 @@ Et ces cœurs qu'à l'amour Nature avoit formez
 La haine les tenoit l'un contre l'autre armez :  
 Pour rendre vos fureurs d'autant plus inhumaines,  
 Doncque j'ay veu mon sang s'écouler par vos veines ?  
-Quel [249] poura mon courroux châtier le premier ?  
-Quel [250] poura mon amour caresser le dernier ?  
+Quel [251] poura mon courroux châtier le premier ?  
+Quel [252] poura mon amour caresser le dernier ?  
 Ne choisy point des deux ; tu ne peux miserable,  
 Qu'aymer un Ennemy, qu'embrasser un coupable ;  
 Ta bonté leur montrant ce qu'ils t'ont fait de tort,  
@@ -4141,7 +4141,7 @@ Et qu'un doux mouvement anime cette roche ;
 L'agreable vengeance ! on diroit qu'un dédain,  
 Témoignant son orgueil, l'endurcit sous ma main ;  
 Au vent de mes soupirs dont l'attainte est si douce  
-Il s'abbaisse [251] par fois, & par fois les repousse,  
+Il s'abbaisse [253] par fois, & par fois les repousse,  
 Et dedans ce combat amoureux & plaisant  
 S'il souffre cét effort⁎, je meurs en le baisant.  
 
@@ -4177,7 +4177,7 @@ Ce lyen est trop fort, pour craindre qu'on le rompe ;
 Jamais la paix ne vint avecque tant de pompe ;  
 Sous le front des fureurs le repos s'est produit ;  
 Le foudre à cette fois est ennemy du bruit ;  
-Tant d'hommes qui tenoient la Thrace en defiance [252]  
+Tant d'hommes qui tenoient la Thrace en defiance [254]  
 Ne sont que les témoins d'une belle alliance ;  
 Tous nos champs revestus des plus belles couleurs  
 Ont la picque & les dards cachez dessous les fleurs ;  
@@ -4231,7 +4231,7 @@ Mettons, outre nos cœurs, nos Couronnes en une.
 La mienne dépendra toûjours de vostre loy⁎,  
 Les Thraces connoistront que vous regnez en moy ;  
 Quoy que cette alliance à nos loix⁎ soit contraire,  
-J'affecte [253] sa grandeur qui m'en devroit distraire,  
+J'affecte [255] sa grandeur qui m'en devroit distraire,  
 Trop content si par là mon âge languissant  
 Voit mon sceptre fleurir dessous un plus puissant :  
 Mais le Ciel, qui permét ce bon-heur sans exemple,  
@@ -4282,7 +4282,7 @@ Dieux ! quels effects⁎ pouront vous contenter un jour ?
 
     DORAME.
 Ceux qui de l'amitié feront naistre l'amour ?  
-Quel fils plus legitime à cette douce Mere [254],  
+Quel fils plus legitime à cette douce Mere [256],  
 Si c'est luy qui la rend plus parfaitte & plus chere ?  
 Où sont tant de transports, & ces doux sentiments,  
 Qui servoient à mon bien⁎ & furent mes tourments⁎ ?  
@@ -4338,7 +4338,7 @@ Le Ciel accomplira nos lyens qu'il a faits.
 
 ### SCENE IV.
 
-    MELINDE *delivrée de prison par Gelandre.*.< StancesPassage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ».. >
+    MELINDE *delivrée de prison par Gelandre.*. [257] [258]
 
 A quoy mes soûpirs et mes plaintes ?  
 Ce mal desesperé n'a plus de guerison ;  
@@ -4349,12 +4349,12 @@ Gelandre, ta pitié vaut bien⁎ moins que ma rage,
 En m'obligeant⁎ elle m'outrage,  
 Et ne m'ôte mes maux que par d'autres offerts.  
 
-Pour moy l'horreur avoit de [256] charmes⁎ ;  
+Pour moy l'horreur avoit de [259] charmes⁎ ;  
 Et je treuve odieuse aujourd'huy la clarté ;  
 Tu ne m'as, cher Amant, rendu la liberté  
 Qu'afin que le jour vist mes larmes :  
 Je n'avois en prison qu'à souffrir ma douleur⁎ ;  
-Mais je treuve en tes soins⁎ une seconde geine [257],  
+Mais je treuve en tes soins⁎ une seconde geine [260],  
 Ton amour s'ajoûte à ma peine,  
 Et le bien⁎ qu'on me fait redouble mon malheur.  
 
@@ -4436,7 +4436,7 @@ Puis parlant à Melinde.
 
     Page⁎.
 Prince, déjà les Rois dans le Temple assemblez,  
-Que le soldat en foule & le Peuple environne [258],  
+Que le soldat en foule & le Peuple environne [261],  
 Vous demandent present aux encens qu'on leur donne.  
 
     GELANDRE.
@@ -4471,7 +4471,7 @@ Que la cause du mal apporte le remede.
     GELANDRE.
 Quel bon-heur est si grand que ce plaisir n'excede ?  
 Fortune⁎, que peux-tu maintenant sur mes sens,  
-Que [259] ma perte les rend glorieux⁎ & puissans ?  
+Que [262] ma perte les rend glorieux⁎ & puissans ?  
 J'offense mon malheur si mon cœur en soûpire ;  
 On me prend une Ville, & je gagne un Empire :  
 Le Ciel, dont les projéts ne furent jamais vains⁎,  
@@ -4479,14 +4479,14 @@ M'offre d'un bon succez des presages certains ;
 Allons treuver les Roys, & bannissons la crainte.  
 
     MELINDE.
-Allons ; je suis à tout [260], sans peur & sans contrainte.   
+Allons ; je suis à tout [263], sans peur & sans contrainte.   
 
 
 ### SCENE VI.
 LES ROYS DE PERSE, ET DE THRACE, OLYMPE, LUCIDOR.
 
 
-    LE ROY DE PERSE.* Adorant le Soleil* [261]* dans le Temple.*.
+    LE ROY DE PERSE.* Adorant le Soleil* [264]* dans le Temple.*.
 Premier flambeau du Ciel, Ame de l'Univers,  
 Qui fait voir & qui voit tant de Peuples divers,  
 Soleil, dont les rayons sont au reste du Monde  
@@ -4514,7 +4514,7 @@ Accorde la victoire, ou conserve la paix.
 
     LUCIDOR.
 En signe des faveurs⁎ que le Ciel nous envoye,  
-Soleil, que tes rayons servent de feux⁎ de joye [262],  
+Soleil, que tes rayons servent de feux⁎ de joye [265],  
 Que nos plaisirs soient peints sur le front de ce jour,  
 Et pour nous éclairer prends le flambeau d'Amour.  
 
@@ -4522,7 +4522,7 @@ Et pour nous éclairer prends le flambeau d'Amour.
 Montre à toute la Terre & ta flame, & la mienne,  
 Et dy que mon ardeur a surmonté la tienne ;  
 Puis tombant dans la Mer, sur la fin de ton cours,  
-Raconte à ses Trytons [263] nostre aise & nos amours.  
+Raconte à ses Trytons [266] nostre aise & nos amours.  
 Dorame & Oronte viennent.
 
 
@@ -4574,7 +4574,7 @@ Merite d'estre mise au nombre des merveilles⁎.
 
     ROY DE THRACE.
 Et par mille accidents arrivez dans ma Cour  
-D'un mouvement aveugle est passée [264] à l'amour,  
+D'un mouvement aveugle est passée [267] à l'amour,  
 Qu'une honneste pudeur dessus son front accuse :  
 Doy-je donner à l'un ce qu'à l'autre on refuse ?  
 Ouy, j'accorde un pardon, mesme je le poursuy ;  
@@ -4588,13 +4588,13 @@ Aussitost que la vie Amour fut dans son cœur ;
 Un mesme jour me vit & veuf, & deux fois Pere,  
 Me donna deux Enfans, & m'emporta la Mere ; 191  
 La Reyne, d'une couche enfantant ces Gemeaux  
-Sentit comme le fruict doubles aussi les maux [265],  
+Sentit comme le fruict doubles aussi les maux [268],  
 Leur donnant la lumiere elle luy fut ravie,  
 Et de la sienne propre elle acheta leur vie :  
 Eux & l'Amour, enfants, se joüoient au berceau ;  
 Depuis tous leurs mal-heurs vindrent de ce flambeau :  
 La Nature les fit ainsi que d'un mesme âge,  
-Tous [266] pareils en valeur⁎, semblables de visage,  
+Tous [269] pareils en valeur⁎, semblables de visage,  
 Mais d'un cœur different ; car luy ne l'aymoit pas,  
 Elle suivoit par tout son humeur & ses pas ;  
 Imitant Lucidor la Sœur treuvoit des charmes⁎  
@@ -4607,7 +4607,7 @@ Mais appreuve aujourd'huy son autre passion.
     DORAME.
 Pouvions-nous recourir à de plus doux refuges ?  
 Icy nos protecteurs sont ensembles nos Juges ;  
-Qu'esperons nous d'avoir [267] qu'un heureux traitement…   
+Qu'esperons nous d'avoir [270] qu'un heureux traitement…   
 
     LE ROY DE PERSE.
 De qui tient vos plaisirs pour son consentement.  
@@ -4615,7 +4615,7 @@ Il donne sa Fille en mariage à Dorame.
 
 Vous m'avez conservé celle que je vous donne ;  
 Prince, vous estes Roy, possedant sa personne ;  
-Les Medes [268] sont soûmis desormais à vos loy⁎.  
+Les Medes [271] sont soûmis desormais à vos loy⁎.  
 
     DORAME.
 Rends luy graces⁎, Amour ; ou prestes moy ta voix.  
@@ -4658,7 +4658,7 @@ Un plaisir si parfait d'un si grand desespoir ?
 
     DORAME.
 Aprés avoir acquis un bien⁎ si veritable,  
-D'en refuser quelqu'un [269] je me treuve incapable.  
+D'en refuser quelqu'un [272] je me treuve incapable.  
 
     ROY DE THRACE.
 Du moins à cét effect⁎ nous les avons mandez.  
@@ -4707,10 +4707,10 @@ Et le destin a fait tout cela pour vous plaire.
 Que le repos est doux, aprés tant de tourments⁎ !  
 
     GELANDRE.
-Où sont les grands plaisirs qu' [270]au cœurs des vrais Amants ?  
+Où sont les grands plaisirs qu' [273]au cœurs des vrais Amants ?  
 
     MELINDE.
-Ma flame est là cachée, on n'en voit que la moindre [271].  
+Ma flame est là cachée, on n'en voit que la moindre [274].  
 
     ROY DE PERSE.
 Separons les, mon Frere, afin de les rejoindre.  < FIN. >
@@ -5054,11 +5054,11 @@ en Grève ;
 
 Lad. De Surlis, rue de Poitou, paroisse Saint-Nicolas-des-Champs ;
 
-Lesquels ont faict et accordé volontairement entre eulx les articles qui ensuivent soulz lesquelz ilz s'unissent et se lient ensemble pour l'exercice de la comédie, affin de conservation de leur trouppe soulz le nom de l'Illustre [272] Théâtre ; c'est à sçavoir :
+Lesquels ont faict et accordé volontairement entre eulx les articles qui ensuivent soulz lesquelz ilz s'unissent et se lient ensemble pour l'exercice de la comédie, affin de conservation de leur trouppe soulz le nom de l'Illustre [275] Théâtre ; c'est à sçavoir :
 
 Que, pour n'oster la liberté raisonnable à personne d'entre eulx, aucun ne pourra se retirer de la trouppe sans en advertir quatre mois auparavant, comme pareillement la trouppe n'en pourra congédier aucun sans luy en donner advis les quatre mois auparavant.
 
-*Item* que les pièces nouvelles de théâtre qui viendront à la trouppe seront disposées [273] sans contredit par les autheurs, sans qu'aucun puisse se plaindre du rolle qui lui sera donné ; que les pièces qui seront imprimées, si l'autheur n'en dispose, seront disposées par la trouppe mesme à la pluralité des voix, sy l'on ne s'arreste à l'accord qui en est pour ce faict envers lesd. Clerin, Pocquelin et Joseph Béjart, qui doivent choisir alternativement les Héros, sans préjudice de la prérogative que tous les susd. Accordent à lad. Magdelaine Béjart, de choisir le rolle qui luy plaira.
+*Item* que les pièces nouvelles de théâtre qui viendront à la trouppe seront disposées [276] sans contredit par les autheurs, sans qu'aucun puisse se plaindre du rolle qui lui sera donné ; que les pièces qui seront imprimées, si l'autheur n'en dispose, seront disposées par la trouppe mesme à la pluralité des voix, sy l'on ne s'arreste à l'accord qui en est pour ce faict envers lesd. Clerin, Pocquelin et Joseph Béjart, qui doivent choisir alternativement les Héros, sans préjudice de la prérogative que tous les susd. Accordent à lad. Magdelaine Béjart, de choisir le rolle qui luy plaira.
 
 *Item* que toutes les choses qui concerneront leur théâtre et les affaires qui surviendront, tant que celles que l'on prévoit que de celles que l'on ne prévoit point la trouppe les décidera à la pluralité des voix, sans que personne d'entre eulx y puisse contredire.
 
@@ -5066,7 +5066,7 @@ Que, pour n'oster la liberté raisonnable à personne d'entre eulx, aucun ne pou
 
 *Item* ceulx qui sortiront de la trouppe pour vouloir des choses qu'elle ne voudra pas, ou que lad. trouppe sera obligée de mettre dehors faulte de faire leur devoir, en ce cas ilz ne pourront prétendre à aucun partage et desdommagement des frais communs.
 
-*Item* que ceulx ou celles qui sortiront de la trouppe et malicieusement ne voudront suivre aucun des articles présens, seront obligez à tous les desdommagements des fraiz de lad. trouppe et pour cet effet seront ypotecquez leurs équipages [274] et généralement tous et chacuns leurs biens présens et advenir, en quelque lieu et en quelque temps qu'ilz puissent estre trouvez.
+*Item* que ceulx ou celles qui sortiront de la trouppe et malicieusement ne voudront suivre aucun des articles présens, seront obligez à tous les desdommagements des fraiz de lad. trouppe et pour cet effet seront ypotecquez leurs équipages [277] et généralement tous et chacuns leurs biens présens et advenir, en quelque lieu et en quelque temps qu'ilz puissent estre trouvez.
 
 A l'entretennement duquel article toutes les parties s'obligent comme s'ils estoient majeurs, pour la nécessité de la société contractée par tous les articles cy dessus.
 
@@ -5285,428 +5285,436 @@ A History of French Dramatic Literature in the seventeenth Century
 
 [61] Il s'agit de la traditionnelle exclamation « Comme si on pouvait… ! », le point d'interrogation indique qu'il faut monter la voix.
 
-[62] Nom fictif.
+[62] Oracle.
 
-[63] Lâcheté, poltronnerie.
+[63] Nom fictif.
 
-[64] Dans tout le texte on ne trouve que la forme « cercher » pour « chercher ».
+[64] Lâcheté, poltronnerie.
 
-[65] « Qui » : lui qui (le sort).
+[65] Dans tout le texte on ne trouve que la forme « cercher » pour « chercher ».
 
-[66] « Ils » représente ici « les yeux » du v. 59.
+[66] « Qui » : lui qui (le sort).
 
-[67] Ancienne construction de phrase, où le complément d'objet pouvait précéder le verbe, elle disparaît définitivement au début du XVII*e* siècle, mais on trouve encore des traces lorsque, comme c'est le cas ici, le complément est placé entre l'auxiliaire et le participe.
+[67] « Ils » représente ici « les yeux » du v. 59.
 
-[68] Nom fictif.
+[68] Ancienne construction de phrase, où le complément d'objet pouvait précéder le verbe, elle disparaît définitivement au début du XVII*e* siècle, mais on trouve encore des traces lorsque, comme c'est le cas ici, le complément est placé entre l'auxiliaire et le participe.
 
-[69] Façon, manière de faire les choses.
+[69] Nom fictif.
 
-[70] Participe passé du verbe « députer » : envoyer vers quelque Prince, ou quelque assemblée, pour luy rendre ses devoirs et soumissions, pour luy représenter ses besoins, luy faire des remontrances, pour faire et négocier ses affaires, assister à quelques delibérations, ou autres choses semblables.
+[70] Façon, manière de faire les choses.
 
-[71] « Pas » employé seul en interrogation directe est très courant au XVII*e* siècle.
+[71] Participe passé du verbe « députer » : envoyer vers quelque Prince, ou quelque assemblée, pour luy rendre ses devoirs et soumissions, pour luy représenter ses besoins, luy faire des remontrances, pour faire et négocier ses affaires, assister à quelques delibérations, ou autres choses semblables.
 
-[72] Dans tout le texte on ne trouve que cette forme « recercher » pour « rechercher ».
+[72] « Pas » employé seul en interrogation directe est très courant au XVII*e* siècle.
 
-[73] L'expression du partitif est posé comme nécessaire dès le début du XVII*e* siècle, en revanche la particule « de » réapparaît couramment, contrairement à notre usage.
+[73] Dans tout le texte on ne trouve que cette forme « recercher » pour « rechercher ».
 
-[74] La préposition « au » signifie ici « dans », le lieu où l'on va.
+[74] L'expression du partitif est posé comme nécessaire dès le début du XVII*e* siècle, en revanche la particule « de » réapparaît couramment, contrairement à notre usage.
 
-[75] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
+[75] La préposition « au » signifie ici « dans », le lieu où l'on va.
 
-[76] Le pronom personnel régime indirect complément d'un infinitif régime précède le plus souvent le syntagme verbal, l'infinitif régime faisant corps au XVII*e* siècle avec le verbe régent.
+[76] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
 
-[77] Fonction publique, officielle, signifie une dignité, un office. Ces charges civiles ou militaires sont permanentes.
+[77] Le pronom personnel régime indirect complément d'un infinitif régime précède le plus souvent le syntagme verbal, l'infinitif régime faisant corps au XVII*e* siècle avec le verbe régent.
 
-[78] Région de l'Europe orientale partagée entre la Grèce, la Turquie et la Bulgarie.
+[78] Fonction publique, officielle, signifie une dignité, un office. Ces charges civiles ou militaires sont permanentes.
 
-[79] Ardeur, passion.
+[79] Région de l'Europe orientale partagée entre la Grèce, la Turquie et la Bulgarie.
 
-[80] Action empressée qu'on a pour faire quelque bonne œuvre.
+[80] Ardeur, passion.
 
-[81] Même remarque que pour donc/doncque. « Avec » s'écrit dans toute la pièce en deux syllabes, « avecque », pour obtenir le décompte nécessaire à un alexandrin.
+[81] Action empressée qu'on a pour faire quelque bonne œuvre.
 
-[82] Découvert.
+[82] Même remarque que pour donc/doncque. « Avec » s'écrit dans toute la pièce en deux syllabes, « avecque », pour obtenir le décompte nécessaire à un alexandrin.
 
-[83] Adoucir un poison, ici il faut comprendre : laisser Dorame dans ses illusions.
+[83] Découvert.
 
-[84] Ancien nom de Brousse en Turquie, ville de Bithynie ancienne.
+[84] Adoucir un poison, ici il faut comprendre : laisser Dorame dans ses illusions.
 
-[85] Région du nord-ouest de l'Asie Mineure, en bordure du Pont-Euxin et de la Propontide.
+[85] Ancien nom de Brousse en Turquie, ville de Bithynie ancienne.
 
-[86] Refuse.
+[86] Région du nord-ouest de l'Asie Mineure, en bordure du Pont-Euxin et de la Propontide.
 
-[87] Comprendre : et le droit que Gélandre refuse à mes titres de propriété.
+[87] Refuse.
 
-[88] Qui a une puissance souveraine et fort étenduë.
+[88] Comprendre : et le droit que Gélandre refuse à mes titres de propriété.
 
-[89] Comprendre : compter. Il n'y a entre « compter » et « conter » qu'une simple différence d'orthographe, et les deux formes s'emploient indifféremment dans tous les sens.
+[89] Qui a une puissance souveraine et fort étenduë.
 
-[90] La forme pronominale est souvent précédée de l'article indéfini. C'était là le tour courant au XVII*e* siècle. La plupart des auteurs de la première partie du siècle en use régulièrement.
+[90] Comprendre : compter. Il n'y a entre « compter » et « conter » qu'une simple différence d'orthographe, et les deux formes s'emploient indifféremment dans tous les sens.
 
-[91] Qui est remarquable.
+[91] La forme pronominale est souvent précédée de l'article indéfini. C'était là le tour courant au XVII*e* siècle. La plupart des auteurs de la première partie du siècle en use régulièrement.
 
-[92] Au lieu que lui, fasse la cour au Roy de Thrace.
+[92] Qui est remarquable.
 
-[93] Sens fort d'amour.
+[93] Au lieu que lui, fasse la cour au Roy de Thrace.
 
-[94] Alternance de « rechercher » avec « recercher » au profit du premier.
+[94] Sens fort d'amour.
 
-[95] Rendait l'art, l'artifice inutile.
+[95] Alternance de « rechercher » avec « recercher » au profit du premier.
 
-[96] Qui paye tribut à un Prince estranger pour conserver la paix avec luy, ou pour avoir sa protection. Ici il faut comprendre que si Lucidor épouse Olympe, la Thrace, pays dont Olympe sera reine, sera sous le contrôle de la Perse dont Lucidor est le futur roi.
+[96] Rendait l'art, l'artifice inutile.
 
-[97] Surprenant.
+[97] Qui paye tribut à un Prince estranger pour conserver la paix avec luy, ou pour avoir sa protection. Ici il faut comprendre que si Lucidor épouse Olympe, la Thrace, pays dont Olympe sera reine, sera sous le contrôle de la Perse dont Lucidor est le futur roi.
 
-[98] Le pronom personnel régime indirect complément d'un infinitif régime précède le plus souvent le syntagme verbal, l'infinitif régime faisant corps au XVII*e* siècle avec le verbe régent.
+[98] Surprenant.
 
-[99] Lorsque deux impératifs sont coordonnés, il est constant, tout au long du XVII*e* siècle et au-delà, que le pronom personnel complément, régime direct, à la forme atone, vienne se placer devant le second impératif.
+[99] Le pronom personnel régime indirect complément d'un infinitif régime précède le plus souvent le syntagme verbal, l'infinitif régime faisant corps au XVII*e* siècle avec le verbe régent.
 
-[100] Alternance de l'orthographe feinte/fainte sans distinction de sens.
+[100] Lorsque deux impératifs sont coordonnés, il est constant, tout au long du XVII*e* siècle et au-delà, que le pronom personnel complément, régime direct, à la forme atone, vienne se placer devant le second impératif.
 
-[101] De nos rives.
+[101] Alternance de l'orthographe feinte/fainte sans distinction de sens.
 
-[102] Effectivement.
+[102] De nos rives.
 
-[103] Dès.
+[103] Effectivement.
 
-[104] Diérèse.
+[104] Dès.
 
-[105] Action qui incommode.
+[105] Diérèse.
 
-[106] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
+[106] Action qui incommode.
 
-[107] Que sans plus attendre.
+[107] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
 
-[108] Subjonctif toujours après « quelque…que ».
+[108] Que sans plus attendre.
 
-[109] Se dit figurément en Morale de ce qui excite.
+[109] Subjonctif toujours après « quelque…que ».
 
-[110] Médire, tâcher de faire perdre la réputation.
+[110] Se dit figurément en Morale de ce qui excite.
 
-[111] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
+[111] Médire, tâcher de faire perdre la réputation.
 
-[112] Comprendre : en retard.
+[112] L'ancienne construction où le complément d'objet pouvait précéder le verbe, disparaît définitivement au début du XVII*e* siècle. Ce que l'on trouve encore, comme cela figure ici, c'est le complément placé entre l'auxiliaire et le participe.
 
-[113] Comprendre : Lycanthe regrette infiniment que Dorame ne veuille pas l'impliquer plus et directement dans sa machination, pour ainsi prouver sa valeur au combat.
+[113] Comprendre : en retard.
 
-[114] Selon ma volonté.
+[114] Comprendre : Lycanthe regrette infiniment que Dorame ne veuille pas l'impliquer plus et directement dans sa machination, pour ainsi prouver sa valeur au combat.
 
-[115] La relative peut être éloignée de son antécédent, comme c'est le cas ici avec la relative qui a pour antécédent « tout service ».
+[115] Selon ma volonté.
 
-[116] « Comme » remplace fréquemment « que » en corrélation avec « aussi », dans la première partie du XVII*e* siècle.
+[116] La relative peut être éloignée de son antécédent, comme c'est le cas ici avec la relative qui a pour antécédent « tout service ».
 
-[117] Le pronom personnel « elle » renvoie à « nostre amour » (v. 314).
+[117] « Comme » remplace fréquemment « que » en corrélation avec « aussi », dans la première partie du XVII*e* siècle.
 
-[118] Mars (Arès en grec), fils détesté de Junon (Héra) et Jupiter (Zeus), est le dieu de la guerre.
+[118] Le pronom personnel « elle » renvoie à « nostre amour » (v. 314).
 
-[119] Renvoie à « ces cheveux ».
+[119] Mars (Arès en grec), fils détesté de Junon (Héra) et Jupiter (Zeus), est le dieu de la guerre.
 
-[120] Vieux mot qui signifioit autrefois esclavage, servitude, et qui s'est employé pour marquer la captivité.
+[120] Renvoie à « ces cheveux ».
 
-[121] Filets.
+[121] Vieux mot qui signifioit autrefois esclavage, servitude, et qui s'est employé pour marquer la captivité.
 
-[122] Vent doux et agréable, brise légère.
+[122] Filets.
 
-[123] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
+[123] Vent doux et agréable, brise légère.
 
-[124] compte.
+[124] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
 
-[125] Avant.
+[125] compte.
 
-[126] Interjection dont on se sert pour exhorter, pour inciter. Debout, vite, allons.
+[126] Avant.
 
-[127] Déesses mineures de la Terre. Elles étaient très importantes, sans résidence bien déterminée, divine ou terrestre, elles étaient les Moires en grec, en latin les Parques, qui, nous dit Hésiode, distribuent aux hommes dès l'instant de leur naissance tout le bonheur et le malheur que la vie leur réserve. Elles étaient trois, Clotho, la fileuse, dont la quenouille déroule le fil de la vie ; Lachésis, dispensatrice du Sort, qui assigne à chacun sa destinée ; Atropos, l'inflexible, qui tranche sans pitié le fil de la vie. Suggère le destin.
+[127] Interjection dont on se sert pour exhorter, pour inciter. Debout, vite, allons.
 
-[128] Armes à l'effigie de Lucidor.
+[128] Déesses mineures de la Terre. Elles étaient très importantes, sans résidence bien déterminée, divine ou terrestre, elles étaient les Moires en grec, en latin les Parques, qui, nous dit Hésiode, distribuent aux hommes dès l'instant de leur naissance tout le bonheur et le malheur que la vie leur réserve. Elles étaient trois, Clotho, la fileuse, dont la quenouille déroule le fil de la vie ; Lachésis, dispensatrice du Sort, qui assigne à chacun sa destinée ; Atropos, l'inflexible, qui tranche sans pitié le fil de la vie. Suggère le destin.
 
-[129] Sorcier qui a la vertu, ou la réputation de faire quelque effet merveilleux par la puissance des charmes ou du Demon. (Furetière,* op. cit.*).
+[129] Armes à l'effigie de Lucidor.
 
-[130] Désormais, davantage.
+[130] Sorcier qui a la vertu, ou la réputation de faire quelque effet merveilleux par la puissance des charmes ou du Demon. (Furetière,* op. cit.*).
 
-[131] Douleur odieuse, tourment insupportable, violent désespoir.
+[131] Désormais, davantage.
 
-[132] L'antécédent de « que » est « Ce casque ».
+[132] Douleur odieuse, tourment insupportable, violent désespoir.
 
-[133] Ce substantif est masculin et féminin, on le trouve au sens propre au masculin et au féminin, mais plus souvent au féminin, et au sens figuré plus ordinairement au masculin. Il est étymologiquement du masculin, comme venant d'un neutre (lat. *fulgur*) ; il est devenu féminin sous l'influence de sa terminaison féminine.
+[133] L'antécédent de « que » est « Ce casque ».
 
-[134] Contraire d'« ourdir », signifie ainsi mettre à jour une trame, déjouer une machination.
+[134] Ce substantif est masculin et féminin, on le trouve au sens propre au masculin et au féminin, mais plus souvent au féminin, et au sens figuré plus ordinairement au masculin. Il est étymologiquement du masculin, comme venant d'un neutre (lat. *fulgur*) ; il est devenu féminin sous l'influence de sa terminaison féminine.
 
-[135] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
+[135] Contraire d'« ourdir », signifie ainsi mettre à jour une trame, déjouer une machination.
 
-[136] Comprendre : encore que Lucidor ne mérite pas de vivre.
+[136] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
 
-[137] Au sens fort de blesser.
+[137] Comprendre : encore que Lucidor ne mérite pas de vivre.
 
-[138] Personnification de l'Amour, souvent représenté comme un Chérubin ailé qui tire des flèches, de là l'allusion aux « traits » de Lucidor au v. 567.
+[138] Au sens fort de blesser.
 
-[139] La scansion exige ici de faire la diérèse en « fuir ».
+[139] Personnification de l'Amour, souvent représenté comme un Chérubin ailé qui tire des flèches, de là l'allusion aux « traits » de Lucidor au v. 567.
 
-[140] Malgré que Mélinde ait passé en revue sa conscience.
+[140] La scansion exige ici de faire la diérèse en « fuir ».
 
-[141] L'emploi de « pas » seul, en interrogation directe reste très courant au XVII*e* siècle.
+[141] Malgré que Mélinde ait passé en revue sa conscience.
 
-[142] Mélinde.
+[142] L'emploi de « pas » seul, en interrogation directe reste très courant au XVII*e* siècle.
 
-[143] Diérèse.
+[143] Mélinde.
 
-[144] Anachronisme de l'auteur, les premiers canons apparurent en Afrique du Nord vers 1250, et notre pièce se situe entre le V*e* siècle av. J.-C. et le II*e* et III*e* siècle après J.-C.
+[144] Diérèse.
 
-[145] Le pronom personnel « elle » représente « la main » du vers précédent.
+[145] Anachronisme de l'auteur, les premiers canons apparurent en Afrique du Nord vers 1250, et notre pièce se situe entre le V*e* siècle av. J.-C. et le II*e* et III*e* siècle après J.-C.
 
-[146] Signe, l'orthographe est conforme à la prononciation encore en vigueur au début du XVII*e* siècle.
+[146] Le pronom personnel « elle » représente « la main » du vers précédent.
 
-[147] Au sujet de.
+[147] Signe, l'orthographe est conforme à la prononciation encore en vigueur au début du XVII*e* siècle.
 
-[148] Comprendre : Ne pouvant vous dire, vous parler de sa langueur.
+[148] Au sujet de.
 
-[149] Dans une circonstance critique, une situation difficile, une occasion grave, dans le péril.
+[149] Comprendre : Ne pouvant vous dire, vous parler de sa langueur.
 
-[150] Ce cartel est un passage poétique important, il est composé de deux octosyllabes suivis de deux alexandrins, un octosyllabe et enfin un alexandrin. C'est le moment où Lucidor découvre le complot qui s'ourdit contre lui.
+[150] Dans une circonstance critique, une situation difficile, une occasion grave, dans le péril.
 
-[151] Ce vers rime avec les deux précédents, il peut correspondre également à un vers blanc, il s'agit d'un moment stratégique de la pièce puisque Lucidor connaît désormais les intentions de son rival et pourrait faire basculer la fin de la pièce dans le tragique. Le décompte des vers devient à partir de cet instant impair.
+[151] Ce cartel est un passage poétique important, il est composé de deux octosyllabes suivis de deux alexandrins, un octosyllabe et enfin un alexandrin. C'est le moment où Lucidor découvre le complot qui s'ourdit contre lui.
 
-[152] Figure macrostructurale de l'Ironie.
+[152] Ce vers rime avec les deux précédents, il peut correspondre également à un vers blanc, il s'agit d'un moment stratégique de la pièce puisque Lucidor connaît désormais les intentions de son rival et pourrait faire basculer la fin de la pièce dans le tragique. Le décompte des vers devient à partir de cet instant impair.
 
-[153] Les formes pronominales anciennes *cestui-ci, cettui-ci* et, *a fortiori, cette-ci* disparaissent dans les années 1630, notre pièce étant datée de 1634, il est normal d'en trouver encore des occurrences.
+[153] Figure macrostructurale de l'Ironie.
 
-[154] Dans l'édition originale figure à la place « ou la portée d'un frère ».
+[154] Les formes pronominales anciennes *cestui-ci, cettui-ci* et, *a fortiori, cette-ci* disparaissent dans les années 1630, notre pièce étant datée de 1634, il est normal d'en trouver encore des occurrences.
 
-[155] Comprendre : ce que j'obtiendrais de la haine, obtenons-le de l'amour.
+[155] Dans l'édition originale figure à la place « ou la portée d'un frère ».
 
-[156] C'est attenter à un soleil.
+[156] Comprendre : ce que j'obtiendrais de la haine, obtenons-le de l'amour.
 
-[157] Comprendre : Il s'agit d'un procéder irréalisable.
+[157] C'est attenter à un soleil.
 
-[158] On peut coordonner deux termes régimes d'un même verbe mais de nature différente, comme ici un pronom et un substantif, le pronom atone précédant le verbe.
+[158] Comprendre : Il s'agit d'un procéder irréalisable.
 
-[159] Dans le texte de l'édition originale figure à la place « qui méprisa ».
+[159] On peut coordonner deux termes régimes d'un même verbe mais de nature différente, comme ici un pronom et un substantif, le pronom atone précédant le verbe.
 
-[160] Vertus remarquables.
+[160] Dans le texte de l'édition originale figure à la place « qui méprisa ».
 
-[161] Croyance.
+[161] Vertus remarquables.
 
-[162] Sens amoureux.
+[162] Croyance.
 
-[163] Ange gardien.
+[163] Sens amoureux.
 
-[164] Dans l'édition originale figure « cét occasion ».
+[164] Ange gardien.
 
-[165] Prise au vol.
+[165] Dans l'édition originale figure « cét occasion ».
 
-[166] Tranquillité.
+[166] Prise au vol.
 
-[167] Dans l'édition originale figure à la place « me luire ».
+[167] Tranquillité.
 
-[168] Dans l'édition originale on trouve le vers suivant « Quoy ? veux tu *me* le ravir, avant qu'on te donne ? », mais ce vers est incorrect, car au XVII*e* siècle, la fin du premier hémistiche ne peut couper un mot (ra-vir est impossible).
+[168] Dans l'édition originale figure à la place « me luire ».
 
-[169] Consumer.
+[169] Dans l'édition originale on trouve le vers suivant « Quoy ? veux tu *me* le ravir, avant qu'on te donne ? », mais ce vers est incorrect, car au XVII*e* siècle, la fin du premier hémistiche ne peut couper un mot (ra-vir est impossible).
 
-[170] Fils de Dédale, il fut emprisonné dans le Labyrinthe pour le Minotaure avec son père qui en était l'architecte. Pour s'enfuir, Dédale construisit deux paires d'ailes, qu'il fixa avec de la cire à ses épaules et à celles d'Icare. Avant de prendre leur envol, il conseilla à son fils de ne pas s'élever trop haut sur la mer, car en approchant de trop près le soleil, la cire pourrait fondre et les ailes se détacheraient. Mais Icare, adolescent, n'en tint pas compte et ses ailes se détachèrent. Il tomba dans la mer et les eaux se refermèrent sur lui.
+[170] Consumer.
 
-[171] Le –e de « Prince » ne devrait pas être prononcé, si Mareschal suivait les règles de la prosodie.
+[171] Fils de Dédale, il fut emprisonné dans le Labyrinthe pour le Minotaure avec son père qui en était l'architecte. Pour s'enfuir, Dédale construisit deux paires d'ailes, qu'il fixa avec de la cire à ses épaules et à celles d'Icare. Avant de prendre leur envol, il conseilla à son fils de ne pas s'élever trop haut sur la mer, car en approchant de trop près le soleil, la cire pourrait fondre et les ailes se détacheraient. Mais Icare, adolescent, n'en tint pas compte et ses ailes se détachèrent. Il tomba dans la mer et les eaux se refermèrent sur lui.
 
-[172] Personne cruelle, impitoyable.
+[172] Le –e de « Prince » ne devrait pas être prononcé, si Mareschal suivait les règles de la prosodie.
 
-[173] Sourires.
+[173] Personne cruelle, impitoyable.
 
-[174] Les Furies sont les gardiennes de la vie humaine, on en citait trois : Tisiphone, Mégère et Alecto, leur mission était de pourchasser et punir les pécheurs et on les appelait « celles qui marchent dans l'ombre » ; leur aspect était affreux, leur chevelure était entortillée de vipères et leurs yeux pleuraient des larmes de sang. Tant que le péché demeurerait dans le monde elles ne pourraient en être bannies. Ici on prendra ce mot au sens figuré de fureur, violentes actions du dehors.
+[174] Sourires.
 
-[175] Comprendre : Et que votre refus (celui d'Olympe) mette Dorame, pour qui je vous prie, en furie ?
+[175] Les Furies sont les gardiennes de la vie humaine, on en citait trois : Tisiphone, Mégère et Alecto, leur mission était de pourchasser et punir les pécheurs et on les appelait « celles qui marchent dans l'ombre » ; leur aspect était affreux, leur chevelure était entortillée de vipères et leurs yeux pleuraient des larmes de sang. Tant que le péché demeurerait dans le monde elles ne pourraient en être bannies. Ici on prendra ce mot au sens figuré de fureur, violentes actions du dehors.
 
-[176] Ce vers est faux dans l'édition originale « Que je demeure seulement pour le voir », il y a probablement eu l'omission de « ici ».
+[176] Comprendre : Et que votre refus (celui d'Olympe) mette Dorame, pour qui je vous prie, en furie ?
 
-[177] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
+[177] Ce vers est faux dans l'édition originale « Que je demeure seulement pour le voir », il y a probablement eu l'omission de « ici ».
 
-[178] Officier d'un grade intermédiaire qui a pour fonction de transmettre un message.
+[178] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
 
-[179] Avant.
+[179] Officier d'un grade intermédiaire qui a pour fonction de transmettre un message.
 
-[180] Soin, exactitude.
+[180] Avant.
 
-[181] Après une multitude de ruses, de trahisons.
+[181] Soin, exactitude.
 
-[182] Le renard représente la ruse, la malice et le lion la vaillance, la force, le courage.
+[182] Après une multitude de ruses, de trahisons.
 
-[183] Héraclès fut d'abord appelé Alcide ou descendant d'Alcée, père d'Amphitryon. Mais en réalité il était le fils de Zeus, qui vint trouver Alcmène, femme d'Amphitryon, sous la forme de son mari alors que le stratège était en guerre. Elle mit deux enfants au monde, Héraclès (Hercule), fils de Zeus, et Iphiclès, fils d'Amphitryon. L'origine différente des jumeaux se manifesta clairement dans leurs réactions devant un grand danger qui les menaça alors qu'ils n'avaient pas atteint leur première année.
+[183] Le renard représente la ruse, la malice et le lion la vaillance, la force, le courage.
 
-[184] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
+[184] Héraclès fut d'abord appelé Alcide ou descendant d'Alcée, père d'Amphitryon. Mais en réalité il était le fils de Zeus, qui vint trouver Alcmène, femme d'Amphitryon, sous la forme de son mari alors que le stratège était en guerre. Elle mit deux enfants au monde, Héraclès (Hercule), fils de Zeus, et Iphiclès, fils d'Amphitryon. L'origine différente des jumeaux se manifesta clairement dans leurs réactions devant un grand danger qui les menaça alors qu'ils n'avaient pas atteint leur première année.
 
-[185] Personne cruelle, impitoyable.
+[185] L'infinitif régime fait corps au XVII*e* siècle avec le verbe régent et le pronom régime précède le plus souvent le syntagme verbal.
 
-[186] L'omission de *en* dans ce type d'expression est proscrite par les théoriciens du début du XVII*e* siècle ; elle semble pourtant fréquente tout au long du siècle, comme nous le voyons ici (« Je les vois qui en sont venus aux coups »).
+[186] Personne cruelle, impitoyable.
 
-[187] Au XVII*e* siècle, « qui » en cet emploi nominal, fonction sujet, dans une phrase où la principale a son sujet exprimé, « qui » équivaut à « si l'on ». Cette construction est vivante tout au long du siècle.
+[187] L'omission de *en* dans ce type d'expression est proscrite par les théoriciens du début du XVII*e* siècle ; elle semble pourtant fréquente tout au long du siècle, comme nous le voyons ici (« Je les vois qui en sont venus aux coups »).
 
-[188] Périphrase du Soleil sur son char.
+[188] Au XVII*e* siècle, « qui » en cet emploi nominal, fonction sujet, dans une phrase où la principale a son sujet exprimé, « qui » équivaut à « si l'on ». Cette construction est vivante tout au long du siècle.
 
-[189] Sens mental.
+[189] Périphrase du Soleil sur son char.
 
-[190] Oronte.
+[190] Sens mental.
 
-[191] Le titre de cette lettre entre dans le décompte des douze syllabes de ce vers.
+[191] Oronte.
 
-[192] Encre.
+[192] Le titre de cette lettre entre dans le décompte des douze syllabes de ce vers.
 
-[193] Pourquoi.
+[193] Encre.
 
-[194] Lien causal plus vague devant des infinitifs (que le français moderne construit directement) qui sont précédés de « de » au XVII*e* siècle, comme dans ce cas.
+[194] Pourquoi.
 
-[195] Dans l'édition originale on trouve « voyez ».
+[195] Lien causal plus vague devant des infinitifs (que le français moderne construit directement) qui sont précédés de « de » au XVII*e* siècle, comme dans ce cas.
 
-[196] de n'avoir…
+[196] Dans l'édition originale on trouve « voyez ».
 
-[197] Dorame.
+[197] Lettre   
+D'Olympe à Oronte
 
-[198] Lucidor.
+[198] de n'avoir…
 
-[199] Familiarités, libertés.
+[199] Dorame.
 
-[200] Le gérondif s'emploie de façon usuelle avec la préposition « en », mais pas toujours au XVII*e* siècle, comme on peut le constater.
+[200] Lucidor.
 
-[201] La perte de la province en faisant plaisir à Mélinde, récompense l'amour de Gélandre pour cette dernière.
+[201] Familiarités, libertés.
 
-[202] Arbre ou arbrisseau à feuilles coriaces, persistantes, à fleurs blanches, comme les lauriers.
+[202] Le gérondif s'emploie de façon usuelle avec la préposition « en », mais pas toujours au XVII*e* siècle, comme on peut le constater.
 
-[203] Nous avons ici la forme atone du pronom personnel complément, alors qu'on attendrait la forme tonique « moi ».
+[203] La perte de la province en faisant plaisir à Mélinde, récompense l'amour de Gélandre pour cette dernière.
 
-[204] Induite en erreur.
+[204] Arbre ou arbrisseau à feuilles coriaces, persistantes, à fleurs blanches, comme les lauriers.
 
-[205] Injustice.
+[205] Nous avons ici la forme atone du pronom personnel complément, alors qu'on attendrait la forme tonique « moi ».
 
-[206] Machination.
+[206] Induite en erreur.
 
-[207] Figure de rhétorique de l'adjuration (évocation d'une chose impossible) qui permet d'affirmer hyperboliquement que le second terme de l'alternative (punir Dorame) doit obligatoirement se réaliser.
+[207] Injustice.
 
-[208] Dans sa prison.
+[208] Machination.
 
-[209] Le fait que je lise la lettre prolonge ton sort (ta vie).
+[209] Figure de rhétorique de l'adjuration (évocation d'une chose impossible) qui permet d'affirmer hyperboliquement que le second terme de l'alternative (punir Dorame) doit obligatoirement se réaliser.
 
-[210] Votre destin est marqué sur vos pas, c'est-à-dire si vous avancez.
+[210] Dans sa prison.
 
-[211] Attends-moi pour descendre aux enfers afin que…
+[211] Le fait que je lise la lettre prolonge ton sort (ta vie).
 
-[212] A quoi bon.
+[212] Votre destin est marqué sur vos pas, c'est-à-dire si vous avancez.
 
-[213] Comprendre : qu'ils se sont donnés (un coup d'épée) en même temps, chacun ôtant ainsi la victoire à l'autre.
+[213] Attends-moi pour descendre aux enfers afin que…
 
-[214] Ma victoire.
+[214] A quoi bon.
 
-[215] Comprendre : Je n'ai plus ni d'esprit, ni de sang… Oronte perdant son sang tend à s'évanouir.
+[215] Comprendre : qu'ils se sont donnés (un coup d'épée) en même temps, chacun ôtant ainsi la victoire à l'autre.
 
-[216] Comprendre : quelle offense ce serait si, toi étant mort, je ne suivais celui qui…
+[216] Ma victoire.
 
-[217] Roi légendaire des Lapithes en Thessalie, rendu coupable de meurtre et de parjure, il est purifié par Zeus qui s'apitoie sur sa détresse. Il est même invité sur l'Olympe où il consomme le nectar et l'ambroisie, devenant ainsi immortel. Mais, sans aucun scrupule, il essaie de séduire Héra. Or, il s'unit à une nuée que Zeus façonne à l'image de sa femme. De cette union illusoire naissent les centaures. Condamné pour son ingratitude, Ixion est lié à une roue enflammée qui tourne éternellement dans le Tartare.
+[217] Comprendre : Je n'ai plus ni d'esprit, ni de sang… Oronte perdant son sang tend à s'évanouir.
 
-[218] Nuage.
+[218] Comprendre : quelle offense ce serait si, toi étant mort, je ne suivais celui qui…
 
-[219] Aucune autre.
+[219] Roi légendaire des Lapithes en Thessalie, rendu coupable de meurtre et de parjure, il est purifié par Zeus qui s'apitoie sur sa détresse. Il est même invité sur l'Olympe où il consomme le nectar et l'ambroisie, devenant ainsi immortel. Mais, sans aucun scrupule, il essaie de séduire Héra. Or, il s'unit à une nuée que Zeus façonne à l'image de sa femme. De cette union illusoire naissent les centaures. Condamné pour son ingratitude, Ixion est lié à une roue enflammée qui tourne éternellement dans le Tartare.
 
-[220] Défaillance.
+[220] Nuage.
 
-[221] Conservera.
+[221] Aucune autre.
 
-[222] L'expression du partitif est posée comme nécéssaire dès le début du XVII*e* siècle. Ici on s'attendrait à trouver « de la matière », mais la particule « de » seul apparaît couramment.
+[222] Défaillance.
 
-[223] Et non pas de sa defense.
+[223] Conservera.
 
-[224] Avant que les Perses n'arrivent devant nous.
+[224] L'expression du partitif est posée comme nécéssaire dès le début du XVII*e* siècle. Ici on s'attendrait à trouver « de la matière », mais la particule « de » seul apparaît couramment.
 
-[225] Synérèse, le mot compte pour deux syllabes.
+[225] Et non pas de sa defense.
 
-[226] Au prix d'une amitié fidèle.
+[226] Avant que les Perses n'arrivent devant nous.
 
-[227] Dorame.
+[227] Synérèse, le mot compte pour deux syllabes.
 
-[228] Oronte.
+[228] Au prix d'une amitié fidèle.
 
-[229] Vers faux dans l'édition originale : « On *le* treuva ce Traître avecque ses complices ».
+[229] Dorame.
 
-[230] Les lois de concordance des temps ne sont pas souvent observées au XVII*e* siècle.
+[230] Oronte.
 
-[231] Oronte.
+[231] Vers faux dans l'édition originale : « On *le* treuva ce Traître avecque ses complices ».
 
-[232] Dorame.
+[232] Les lois de concordance des temps ne sont pas souvent observées au XVII*e* siècle.
 
-[233] Manquer de respect et se moquer, après avoir mépriser Oronte et sa foi, de sa perte et ses blessures.
+[233] Oronte.
 
-[234] Ce vers est faux dans l'édition originale, l'imprimeur a omis un monosyllabe, probablement « *plus* sensible».
+[234] Dorame.
 
-[235] Déplu.
+[235] Manquer de respect et se moquer, après avoir mépriser Oronte et sa foi, de sa perte et ses blessures.
 
-[236] Omission ici d'une didascalie qui annule la précédente.
+[236] Ce vers est faux dans l'édition originale, l'imprimeur a omis un monosyllabe, probablement « *plus* sensible».
 
-[237] Folie furieuse.
+[237] Déplu.
 
-[238] Les plumes de Cupidon, Dieu de l'Amour.
+[238] Omission ici d'une didascalie qui annule la précédente.
 
-[239] Les ailes de Cupidon.
+[239] Folie furieuse.
 
-[240] Une belle victoire.
+[240] Les plumes de Cupidon, Dieu de l'Amour.
 
-[241] Point est employé seul en interrogation directe, emploi très courant au XVII*e* siècle.
+[241] Les ailes de Cupidon.
 
-[242] L'imprimeur a inséré une frise au-dessus de ce nom, on peut l'interpréter par le fait que les personnages ne se trouvent pas dans le même espace scénique, Lucidor arrive sur les lieux, mais Oronte et Dorame y sont déjà et ne l'ont pas encore vu.
+[242] Une belle victoire.
 
-[243] « Le » doit être prononcé en élidant le e muet.
+[243] Point est employé seul en interrogation directe, emploi très courant au XVII*e* siècle.
 
-[244] Vers blanc, il ne rime avec aucun autre. De plus il permet de reprendre un décompte de vers pairs. Il est très chargé de significations puisque Dorame tombe ici sous le charme d'Oronte avant de découvrir qu'elle est une femme. C'est à partir de cet instant qu'une fin heureuse s'annonce.
+[244] L'imprimeur a inséré une frise au-dessus de ce nom, on peut l'interpréter par le fait que les personnages ne se trouvent pas dans le même espace scénique, Lucidor arrive sur les lieux, mais Oronte et Dorame y sont déjà et ne l'ont pas encore vu.
 
-[245] L'imprimeur a inséré une frise au-dessus de ce nom, on peut l'interpréter par le fait que les personnages ne se trouvent pas dans le même espace scénique, Lucidor arrive maintenant sur les lieux, Oronte et Dorame l'aperçoivent enfin.
+[245] « Le » doit être prononcé en élidant le e muet.
 
-[246] Dorame ne sait que faire entre le frère et la sœur qui sont tous deux ses ennemis, doit-il les séparer ou les laisser s'entre-tuer ?
+[246] Vers blanc, il ne rime avec aucun autre. De plus il permet de reprendre un décompte de vers pairs. Il est très chargé de significations puisque Dorame tombe ici sous le charme d'Oronte avant de découvrir qu'elle est une femme. C'est à partir de cet instant qu'une fin heureuse s'annonce.
 
-[247] Méduse est une Gorgone, elles sont trois, elles ont des ailes, une chevelure hérissée de serpents et funeste au mortel. Leur vue enlève à l'homme le souffle de vie en le changeant en pierre.
+[247] L'imprimeur a inséré une frise au-dessus de ce nom, on peut l'interpréter par le fait que les personnages ne se trouvent pas dans le même espace scénique, Lucidor arrive maintenant sur les lieux, Oronte et Dorame l'aperçoivent enfin.
 
-[248] Une astérisque est présente dans l'édition originale, une didascalie, probablement du type « se tournant vers l'un, puis vers l'autre », était prévue.
+[248] Dorame ne sait que faire entre le frère et la sœur qui sont tous deux ses ennemis, doit-il les séparer ou les laisser s'entre-tuer ?
 
-[249] La forme adjective « quel » remplace souvent la forme pronominale « lequel », comme c'est le cas ici.
+[249] Méduse est une Gorgone, elles sont trois, elles ont des ailes, une chevelure hérissée de serpents et funeste au mortel. Leur vue enlève à l'homme le souffle de vie en le changeant en pierre.
 
-[250] Même chose que la note précédente.
+[250] Une astérisque est présente dans l'édition originale, une didascalie, probablement du type « se tournant vers l'un, puis vers l'autre », était prévue.
 
-[251] Il est question de sa poitrine (« son sein ») qui s'enfle et « s'abaisse » au rythme de sa respiration, le jeu précieux ici est presque équivoque.
+[251] La forme adjective « quel » remplace souvent la forme pronominale « lequel », comme c'est le cas ici.
 
-[252] Dans ledoute.
+[252] Même chose que la note précédente.
 
-[253] J'aime, je souhaite avec empressement, je recherche avec soin.
+[253] Il est question de sa poitrine (« son sein ») qui s'enfle et « s'abaisse » au rythme de sa respiration, le jeu précieux ici est presque équivoque.
 
-[254] Construction en chiasme des vers 2120 et 2121, l'amitié est mère de l'amour, son fils.
+[254] Dans ledoute.
 
-[255] Passage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ».
+[255] J'aime, je souhaite avec empressement, je recherche avec soin.
 
-[256] La répartition entre les formes « de » et « des » de l'article indéfini pluriel semble clairement effectuée dès le début du XVII*e* siècle, mais Vaugelas, dans *Remarques sur la langue française de 1647*, juge bon de rappeler cette règle « ayant considéré que la plupart des provinces y manque », et qu'« une bonne partie des écrivains n'y prend pas garde », comme le fait ici Mareschal.
+[256] Construction en chiasme des vers 2120 et 2121, l'amitié est mère de l'amour, son fils.
 
-[257] Torture.
+[257] Stances.
 
-[258] Lorsque les sujets sont unis par « et », le singulier reste fréquent tout au long du XVII*e* siècle.
+[258] Passage particulièrement lyrique, voir
+              Introduction, partie sur « les formes de discours ».
 
-[259] « Que » au sens de « alors que, maintenant que ».
+[259] La répartition entre les formes « de » et « des » de l'article indéfini pluriel semble clairement effectuée dès le début du XVII*e* siècle, mais Vaugelas, dans *Remarques sur la langue française de 1647*, juge bon de rappeler cette règle « ayant considéré que la plupart des provinces y manque », et qu'« une bonne partie des écrivains n'y prend pas garde », comme le fait ici Mareschal.
 
-[260] Absolument, en tout point.
+[260] Torture.
 
-[261] La plus grande divinité de Perse Antique était « Ahura-Mazda », le dieu de la lumière, de la vérité et de la sagesse, le prophète Zoroastre abrégea son nom en « Ohrmazd ». Mais Mareschal évoque peut-être ici le dieu du feu Atar (fils d'Ohrmazd), ou le dieu Rapithwin qui fait renaître la chaleur du soleil à chaque printemps, dans la religion védique.
+[261] Lorsque les sujets sont unis par « et », le singulier reste fréquent tout au long du XVII*e* siècle.
 
-[262] Feux d'artifices, Mareschal a d'ailleurs écrit un poème intitulé *Les Feux de Joye de la France sur l'Heureuse Alliance d'Angleterre & la Descente des Dieux en France, pour honorer la Feste de cette Alliance. Poésie*, 1625.
+[262] « Que » au sens de « alors que, maintenant que ».
 
-[263] Triton était le trompette du Dieu de la Mer (Poséidon), qu'il annonçait en soufflant dans une conque. Il était le fils de Poséidon et d'Amphitrite.
+[263] Absolument, en tout point.
 
-[264] Le sujet n'est pas exprimé, il s'agit de « sa parfaite amitié » évoqué par Dorame au vers 2299.
+[264] La plus grande divinité de Perse Antique était « Ahura-Mazda », le dieu de la lumière, de la vérité et de la sagesse, le prophète Zoroastre abrégea son nom en « Ohrmazd ». Mais Mareschal évoque peut-être ici le dieu du feu Atar (fils d'Ohrmazd), ou le dieu Rapithwin qui fait renaître la chaleur du soleil à chaque printemps, dans la religion védique.
 
-[265] Elle ressentit doublement la douleur.
+[265] Feux d'artifices, Mareschal a d'ailleurs écrit un poème intitulé *Les Feux de Joye de la France sur l'Heureuse Alliance d'Angleterre & la Descente des Dieux en France, pour honorer la Feste de cette Alliance. Poésie*, 1625.
 
-[266] « Tous » adjectif, on lui préfère aujourd'hui « tout » adverbial.
+[266] Triton était le trompette du Dieu de la Mer (Poséidon), qu'il annonçait en soufflant dans une conque. Il était le fils de Poséidon et d'Amphitrite.
 
-[267] Comprendre : qu'espérons nous d'autre que de recevoir un heureux traitement…
+[267] Le sujet n'est pas exprimé, il s'agit de « sa parfaite amitié » évoqué par Dorame au vers 2299.
 
-[268] Les Mèdes sont un peuple conquis par les Perses (victoire de Cyrus sur son propre grand-père). Le roi semble ici confier à Dorame le gouvernement d'une partie de la Perse.
+[268] Elle ressentit doublement la douleur.
 
-[269] Comprendre : D'en refuser un à quelqu'un.
+[269] « Tous » adjectif, on lui préfère aujourd'hui « tout » adverbial.
 
-[270] Comprendre : si ce n'est.
+[270] Comprendre : qu'espérons nous d'autre que de recevoir un heureux traitement…
 
-[271] Comprendre : On n'en voit qu'une infime partie.
+[271] Les Mèdes sont un peuple conquis par les Perses (victoire de Cyrus sur son propre grand-père). Le roi semble ici confier à Dorame le gouvernement d'une partie de la Perse.
 
-[272] « Illustre » était l'épithète à la mode.
+[272] Comprendre : D'en refuser un à quelqu'un.
 
-[273] Distribuées.
+[273] Comprendre : si ce n'est.
 
-[274] Hardes et costumes de théâtre.
+[274] Comprendre : On n'en voit qu'une infime partie.
+
+[275] « Illustre » était l'épithète à la mode.
+
+[276] Distribuées.
+
+[277] Hardes et costumes de théâtre.

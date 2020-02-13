@@ -1,48 +1,283 @@
 
 
-**** *book_ *id_I01 *act_I *date_1796
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
 
--*who_damis
+C'est Linval qui s'éloigne ?
+
+Eh ! Pourquoi donc ?
+
+Est-il fou ?
+
+Vous allez revenir à votre persiflage ?
+
+      En est-il criminel ?
+Moi je ne vois rien là que de très naturel.
+Linval est bien.
+
+      D'un esprit agréable.
+
+Mais il l'est beaucoup plus que vous ne le pensez.
+
+Non, Damis, sur Linval vous n'êtes pas sincère,
+Et vous voudriez bien qu'il eût l'art de déplaire.
+Je sais qu'un esprit fort, un froid observateur,
+Traite d'enfantillage un sentiment du cœur.
+Vous méprisez l'amour qui veut de la tendresse :
+Eh bien, méprisez-moi, car j'ai cette faiblesse.
+Je veux de la magie au commerce amoureux ;
+Je crois qu'il faut aimer enfin pour être heureux.
+Pour un corps plein d'attraits, lorsque notre œil s'enflamme,
+Il faut, dût-on mentir, lui supposer une âme ;
+Le bandeau de l'amour, et les ailes du temps,
+Et du sot âge d'or le bienheureux printemps,
+Sont pour nous une sage et douce allégorie,
+Et j'appelle cela de la philosophie.
+Non, jamais en amour le calcul ne vaut rien,
+Et l'erreur qui nous charme est le souverain bien.
+L'imagination, le délire, l'ivresse,
+Doublent notre bonheur en doublant la tendresse ;
+Soupirs, serments, transports et si courts et si doux,
+Vous êtes tous menteurs, mais je vous croirai tous :
+Vous faites supporter le poids de l'existence ;
+Vous ressemblez enfin à la douce espérance,
+Vous nous trompez souvent, nous vous croyons toujours,
+Et vous semez de fleurs le cercle de nos jours.
+
+Je ne m'étonne pas que l'amour vous ennuie.
+Revenons à Linval, je le trouve fort bien :
+En grâces, en esprit, il ne lui manque rien ;
+Linval est en un mot tel que je le désire.
+
+Comment donc ?
+
+Du dépit ?...
+
+Linval est mon amant, monsieur : qui vous l'a dit ?
+Vous m'impatientez...
+
+On s'abuse souvent en voulant abuser.
+
+      Non.
+
+Oui, monsieur ; je vous autant que je le dois.
+
+      Vous m'obsédez.
+
+Mais, monsieur !...
+
+Il faut m'en amuser.
+
+Eh bien, oui, c'est Linval. Son amour seul me touche :
+Mais j'aurais mieux aimé l'apprendre de sa bouche.
+
+Enfin il est sorti. Son ton froid et railleur,
+Je n'ai pu le cacher, m'a donné de l'humeur.
+Mais pour la dissiper revoyons mon ouvrage :
+Par l'étude des arts notre cœur se soulage.
+Voilà les deux portraits de Damis, de Linval,
+J'ai fait l'un assez bien ; j'ai fait l'autre assez mal,
+Et je le gâte encore en voulant le refaire.
+Ah ! Je crois dans ceci découvrir du mystère.
+Lorsque de deux amis je crayonne les traits,
+Je veux me partager entre ces deux portraits.
+Mais pour l'un d'eux, ma main plus lente et plus rebelle,
+Dans son expression constamment infidèle,
+Atteste que l'ouvrage est fait péniblement,
+Quand l'autre s'est formé tout naturellement.
+Si je réfléchis bien sur cette différence,
+J'en saurai la raison. Ah ! Je la sais d'avance ;
+Si ma main me trahit, ce n'est point par erreur,
+Et mon crayon m'apprend le secret de mon cœur.
+Le voilà ce portrait qui dit plus que moi-même...
+
+      Il faut sans différer,
+Et le mettre sous verre et le faire encadrer.
+Un cadre de bois noir et de simple stature,
+Jean-Jacques l'a prescrit ; l'autre aura la dorure.
+Oui, tout autre que moi, sans partialité,
+Aurait à ce portrait donné la primauté,
+Qu'on ne m'accuse pas s'il me plaît davantage ;
+Je puis le préférer, c'est mon meilleur ouvrage.
+
+Ah ! Vous voilà, monsieur ; mais on ne vous voit pas :
+Où donc vous cachez-vous ?
+
+On vous voit trop, Linval ; je vous rends mieux justice.
+
+Comment donc ?
+
+Eh ! Pourquoi nous quitter ?
+
+      Si j'ai bonne mémoire,
+Je ne vous ai rien dit qui le fasse penser.
+
+Je ne recherche pas ce qu'on a pu vous dire.
+Je veux que vous restiez, cela doit vous suffire.
+
+      Oui, je veux ; et si je prends ce ton,
+Vous me devinerez et le trouverez bon.
+
+D'artifice, monsieur ?
+
+Vous le pourriez souvent, sans craindre de méprise.
+
+      Ce ton ne vous appartient pas,
+Linval ; vous copiez : Damis est de l'affaire.
+
+Quoi ! C'est de ce motif que vient votre courroux ?
+Les voilà ! Sans aimer, les hommes sont jaloux.
+
+      L'orgueil seul peut maîtriser leurs âmes.
+
+Retournez à Paris.
+
+Quoi ! Vous nous accordez alors jusqu'à demain ?
+
+Qu'entends-je ? Vous avez découvert ce portrait ?
+
+      Linval, cela n'est pas discret.
+
+Eh bien, mon cher Linval, vous êtes en démence :
+Allez, je vous pardonne, et j'aime votre erreur.
+Mais je puis d'un seul mot dissiper votre humeur.
+
+      Vous savez des chimères.
+Un jaloux ne voit pas les choses les plus claires ;
+Mais il voit clairement ce qui n'existe pas.
+Vous ne partirez point, je vous le dis tout bas.
+
+L'un des deux, dites-vous ? Cela pourrait bien être,
+Et celui-là, dans peu, vous saurez le connaître.
+
+Eh bien, restez au moins par curiosité ;
+Vous verrez si ce choix mérite qu'on l'approuve.
+
+      En ce cas, retournez à Paris.
+
+En ce cas restez donc.
+
+Vous m'impatientez par votre modestie,
+Vous ne devinez rien.
+
+      Eh bien, oui, je chéris un portrait.
+Avec un tendre soin je l'ai tracé moi-même ;
+Il présente à mes yeux le seul homme que j'aime ;
+Et s'il faut m'expliquer, incrédule Linval,
+De ce portrait chéri....
+
+      Sans doute.
+
+Linval a du malheur, il faut en convenir.
+
+      Oui, je sors.
+
+Oui, consolez, Damis ; Linval en a besoin,
+Je vois avec plaisir que vous prenez ce soin ;
+Mais ne profitez pas de tout votre avantage,
+Et de votre ascendant faites un noble usage.
+À calmer ses ennuis j'aurais pu vous aider ;
+Mais vous aurez mieux l'art de le persuader.
+
+Que faites-vous donc seul ?
+
+      Mais c'est par intérêt.
+
+Ah ! Damis, un amant n'a souvent qu'un faux zèle ;
+Il est toujours trompeur, ou du moins infidèle.
+Il prodigue par-tout les mêmes sentiments...
+
+Les serments répétés sont un lien fragile ;
+J'en pourrais croire un seul, je n'en croirai pas mille.
+Quand vous jurez tout haut de nous aimer toujours,
+Le cœur jure tout bas de trahir ses amours.
+
+Un autre ? Quoi ! Damis connaît la jalousie ?
+
+Je ne l'aurais pas cru.
+
+À parler franchement, j'aime votre dépit.
+
+Non, j'aime la campagne.
+
+Un cœur tendre surtout aime à la contempler.
+
+Eh ! Qui peut se vanter de l'avoir inflexible ?
+
+Vous me pressez, Damis.
+
+      Et d'où le savez-vous,
+Monsieur ? Qui vous l'a dit ?
+
+J'aurais droit de montrer de la mauvaise humeur,
+Monsieur ; mais non, je sais excuser votre erreur.
+Vous nous connaissez mal.
+
+Quoique vous vous flattiez de lire dans leurs âmes,
+Vous les connaissez mal.
+
+De ce rire moqueur ma surprise est extrême.
+
+Vous saviez ?...
+
+J'ai cependant encor quelque chose à vous dire
+Que vous ne savez pas.
+
+      Que mon choix est fait.
+
+      Il part du cabinet.
+
+      Dans ce cabinet, Linval m'a remplacée ;
+J'avais tout entendu.
+
+      Linval, vous serez mon époux.
+
+Oui, Linval, car mon choix était facile à faire.
+Pour vous, ne rusez plus ; les plus fins y sont pris.
+
+Moi, je vous connais bien.
+
+Oui, je m'explique enfin, et vous aurez, je crois,
+Consolé votre ami pour la dernière fois.
+Dorénavant, Damis, si vous voulez m'en croire,
+Prenez un autre ton, cherchez une autre gloire ;
+Le babil indiscret et la méchanceté
+Ne donnent plus un air d'originalité,
+Car rien n'est si commun. Qu'une femme légère
+Soit la dupe une fois d'un pareil caractère,
+Cela ne prouve rien ; et cette exception
+Donne un faible triomphe à l'indiscrétion.
+Entre Linval et vous, voyez la différence :
+Tandis que vous cherchiez une vaine apparence,
+Il aime, il est heureux. L'un de vous deux dira
+Qu'il est l'homme chéri, mais l'autre le sera.
+La morale, monsieur, vous paraîtra sévère ;
+Mais vous la méritez. Vous avez de quoi plaire ;
+Ne vous déguisez point. En suivant mes avis,
+Vous pouvez être encore au rang de mes amis.
+
+
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 Puisque nous sommes seuls, nous pouvons sans nous nuire,
 Sur nos projets d'amour tour-à-tour nous instruire.
 Célimène est encor dans les bras du sommeil ;
 En nous occupant d'elle, attendons son réveil.
 
--*who_linval
-Mais quel mystère ?
-
--*who_damis
       En vain vous cachez votre flamme ;
 Un tendre sentiment s'est glissé dans votre âme.
 
--*who_linval
-Vous pourriez en douter.
-
--*who_damis
       Le doute est éclairci :
 Vous aimez Célimène, et moi je l'aime aussi.
 
--*who_linval
-Vous êtes pénétrant.
-
--*who_damis
       Ah ! De cette science,
 Vous n'avez pas, Linval, la longue expérience.
 Sur tout autre que vous j'aurais pu m'abuser ;
 Mais le sentimental ne peut se déguiser.
 
--*who_linval
-Je vois bien que Damis connaît ma maladie.
-
--*who_damis
 Si c'en est une, hélas ! Je crains pour votre vie ;
 Vous êtes au plus mal ; mais je puis vous guérir,
 Et c'est votre rival qui prétend vous servir.
 
--*who_linval
-Rival trop généreux !
-
--*who_damis
       Quand j'étais à votre âge,
 Je voulais, comme vous, un amour sans partage.
 J'étais tendre, fidèle, exigeant et jaloux,
@@ -64,15 +299,6 @@ Vous pouvez être heureux et dupe comme un autre ;
 Je vois que vous avez ce qu'il faut pour cela,
 Et je vous ouvrirai cette carrière là.
 
--*who_linval
-Damis, j'admire en vous cette étude profonde,
-Cet art que vous nommez connaissance du monde ;
-Mais à vos arguments mon cœur n'a pas cédé :
-Vous voulez me convaincre, on m'a persuadé.
-Je n'attaquerai point votre saine logique
-Par les raisonnements de la métaphysique.....
-
--*who_damis
 Ah ! Grâce !... Mon esprit ne croit que ce qu'il voit,
 Et j'aime un argument qu'on touche au bout du doigt ;
 Mais laissons la logique et suivons notre affaire.
@@ -100,15 +326,6 @@ Mon amour est connu, l'on devine le vôtre ;
 Nous devons dans ce jour la contraindre à choisir,
 Et savoir qui des deux doit rester ou partir.
 
--*who_linval
-Mais si j'ai bien jugé, l'épreuve est inutile,
-Et le choix entre nous me semble très facile.
-Vous connaissez si bien le jeu des passions,
-La cause et les effets de nos sensations,
-Qu'en vous, avec respect, je reconnais mon maître :
-C'est vous qu'on choisira.
-
--*who_damis
       Cela pourrait bien être.
 Cependant il me reste un certain embarras ;
 On me parle beaucoup, on ne vous parle pas.
@@ -117,121 +334,35 @@ On me cherche, on vous fuit ; ce sont de très bons signes,
 Et j'en déciderais que je dois vous céder,
 Si de rien sur la femme on pouvait décider.
 
--*who_linval
-Bonne conclusion.
-
--*who_damis
       Célimène s'avance ;
 Je m'en vais l'attaquer.
 
--*who_linval
-      Comment ! En ma présence ?
-
--*who_damis
 Sans doute, restez donc ; cela sera plaisant.
 
--*who_linval
-Non, le trio pour moi n'aurait rien d'amusant.
-
-**** *book_ *id_I02 *act_I *date_1796
-
--*who_damis
 Fuyez, timide amant. Sa candeur me fait peine.
 Pauvre enfant ! Mais voici l'aimable Célimène.
 
--*who_celimene
-C'est Linval qui s'éloigne ?
-
--*who_damis
       Oui, vous lui faites peur.
 
--*who_celimene
-Eh ! Pourquoi donc ?
-
--*who_damis
       C'est-là le secret de son cœur.
 
--*who_celimene
-Est-il fou ?
-
--*who_damis
       Le jeune homme, hélas ! N'est que trop sage.
 
--*who_celimene
-Vous allez revenir à votre persiflage ?
-
--*who_damis
 Point du tout ; il vous aime.
 
--*who_celimene
-      En est-il criminel ?
-Moi je ne vois rien là que de très naturel.
-Linval est bien.
-
--*who_damis
       Très bien.
 
--*who_celimene
-      D'un esprit agréable.
-
--*who_damis
 Ce n'est pas de sa faute au moins s'il est aimable.
 
--*who_celimene
-Mais il l'est beaucoup plus que vous ne le pensez.
-
--*who_damis
 Je pense comme vous, et vous vous offensez !
 
--*who_celimene
-Non, Damis, sur Linval vous n'êtes pas sincère,
-Et vous voudriez bien qu'il eût l'art de déplaire.
-Je sais qu'un esprit fort, un froid observateur,
-Traite d'enfantillage un sentiment du cœur.
-Vous méprisez l'amour qui veut de la tendresse :
-Eh bien, méprisez-moi, car j'ai cette faiblesse.
-Je veux de la magie au commerce amoureux ;
-Je crois qu'il faut aimer enfin pour être heureux.
-Pour un corps plein d'attraits, lorsque notre œil s'enflamme,
-Il faut, dût-on mentir, lui supposer une âme ;
-Le bandeau de l'amour, et les ailes du temps,
-Et du sot âge d'or le bienheureux printemps,
-Sont pour nous une sage et douce allégorie,
-Et j'appelle cela de la philosophie.
-Non, jamais en amour le calcul ne vaut rien,
-Et l'erreur qui nous charme est le souverain bien.
-L'imagination, le délire, l'ivresse,
-Doublent notre bonheur en doublant la tendresse ;
-Soupirs, serments, transports et si courts et si doux,
-Vous êtes tous menteurs, mais je vous croirai tous :
-Vous faites supporter le poids de l'existence ;
-Vous ressemblez enfin à la douce espérance,
-Vous nous trompez souvent, nous vous croyons toujours,
-Et vous semez de fleurs le cercle de nos jours.
-
--*who_damis
 Je n'en ai jamais tant entendu de ma vie.
 
--*who_celimene
-Je ne m'étonne pas que l'amour vous ennuie.
-Revenons à Linval, je le trouve fort bien :
-En grâces, en esprit, il ne lui manque rien ;
-Linval est en un mot tel que je le désire.
-
--*who_damis
 Eh bien, vous m'épargnez la peine de le dire.
 
--*who_celimene
-Comment donc ?
-
--*who_damis
       Je ne suis que son ambassadeur ;
 Je venais vous presser de hâter son bonheur.
 
--*who_celimene
-Du dépit ?...
-
--*who_damis
       Point du tout. Linval a su vous plaire,
 Et je serais charmé d'arranger cette affaire.
 Tous deux nous vous aimons. Linval cachait son feu ;
@@ -243,116 +374,50 @@ En aidant doucement votre cœur à s'ouvrir.
 Mais votre choix est fait ; je l'approuve, il est sage ;
 Linval est votre amant, Linval a mon hommage.
 
--*who_celimene
-Linval est mon amant, monsieur : qui vous l'a dit ?
-Vous m'impatientez...
-
--*who_damis
       Vous parliez de dépit ;
 Le vôtre est assez clair, si je sais m'y connaître.
 Ah ! L'on ne paraît pas toujours ce qu'on veut être.
 La femme se trahit en voulant trop ruser.
 
--*who_celimene
-On s'abuse souvent en voulant abuser.
-
--*who_damis
 Qu'on plaisante un rival, qu'on prenne sa défense ;
 Qu'on dise blanc ou noir, toujours on vous offense.
 Aimez-vous Linval ?
 
--*who_celimene
-      Non.
-
--*who_damis
       En ce cas, c'est donc moi.
 
--*who_celimene
-Oui, monsieur ; je vous autant que je le dois.
-
--*who_damis
 Le dépit dure encor ; c'est moi qu'elle préfère.
 Allons, décidez-vous ; terminons cette affaire.
 Voyons. Qui de nous deux vous plaît-il ? Répondez.
 Linval attend là-bas. Parlez.
 
--*who_celimene
-      Vous m'obsédez.
-
--*who_damis
 Pour un moment du moins dépouillez l'artifice ;
 Il faut entre nous deux que votre cœur choisisse :
 Pour mon ami Linval, je tombe à vos genoux.
 
--*who_celimene
-Mais, monsieur !...
-
--*who_damis
       Vainement vous feignez du courroux ;
 Il faut que le vainqueur connaisse sa victoire.
 
--*who_linval
-Ô ciel !
-
--*who_damis
       Laissez tomber la palme de la gloire.
 
--*who_celimene
-Il faut m'en amuser.
-
--*who_damis
       Nous attendons la loi :
 À genoux pour Linval, j'y restai pour moi...
 
--*who_celimene
-Eh bien, oui, c'est Linval. Son amour seul me touche :
-Mais j'aurais mieux aimé l'apprendre de sa bouche.
-
--*who_damis
 L'oracle cette fois a parlé clairement.
 
-**** *book_ *id_I03 *act_I *date_1796
-
--*who_damis
 Approchez donc, monsieur ; venez, heureux amant.
 C'est à votre profit qu'a tourné le message.
 
--*who_linval
-Damis, je suis lassé de votre persiflage.
-Quels que soient vos succès, quel que soit mon malheur,
-Épargnez-moi du moins ce langage moqueur.
-
--*who_damis
 Vous vous fâchez aussi ? Je devine sans peine
 Pour quoi vous convenez si sort à Célimène ;
 L'on aime ses pareils.
 
--*who_linval
-      Qu'on me haïsse ou non,
-Vous voudrez bien changer de sujet et de ton.
-
--*who_damis
 Mais vous perdez l'esprit ; c'est vous que l'on préfère.
 
--*who_linval
-Monsieur, c'en est assez.
-
--*who_damis
       D'où vient cette colère ?
 Cèlimène vous aime, et m'en a fait l'aveu.
 
--*who_linval
-De me désespérer, vous faites-vous un jeu ?
-
--*who_damis
 Mais calmez-vous, Linval. Consentez à m'entendre.
 
--*who_linval
-J'ai tout vu, je sais tout, et j'ai bien su comprendre,
-Que vous êtes d'accord tous deux pour m'offenser :
-C'est à vous....
-
--*who_damis
       Mais vraiment vous m'y faites penser.
 Quand elle m'a, pour vous, fait l'aveu de sa flamme,
 Cet aveu me semblait ne pas partir de l'âme.
@@ -365,13 +430,6 @@ Mais tout bien réfléchi, ce pourrait être moi.
 J'ai cru qu'elle t'aimait, je l'ai dit sans malice,
 Et j'ai fait de mon mieux pour te rendre service.
 
--*who_linval
-Vous ne m'en rendrez plus de pareils désormais,
-Et je me souviendrai, monsieur, de vos bienfaits.
-
-**** *book_ *id_I04 *act_I *date_1796
-
--*who_damis
 Bonjour... Ma foi l'amour est une chose étrange ;
 Il fléchirait un diable ; il damnerait un ange.
 Ce Linval est changé... C'est à faire pitié !
@@ -379,46 +437,9 @@ Je ne veux pourtant pas perdre son amitié ;
 Je vais le retrouver et calmer sa souffrance,
 Par ce qu'on peut nommer baume de l'espérance.
 
-**** *book_ *id_I05 *act_I *date_1796
-
--*who_celimene
-Enfin il est sorti. Son ton froid et railleur,
-Je n'ai pu le cacher, m'a donné de l'humeur.
-Mais pour la dissiper revoyons mon ouvrage :
-Par l'étude des arts notre cœur se soulage.
-Voilà les deux portraits de Damis, de Linval,
-J'ai fait l'un assez bien ; j'ai fait l'autre assez mal,
-Et je le gâte encore en voulant le refaire.
-Ah ! Je crois dans ceci découvrir du mystère.
-Lorsque de deux amis je crayonne les traits,
-Je veux me partager entre ces deux portraits.
-Mais pour l'un d'eux, ma main plus lente et plus rebelle,
-Dans son expression constamment infidèle,
-Atteste que l'ouvrage est fait péniblement,
-Quand l'autre s'est formé tout naturellement.
-Si je réfléchis bien sur cette différence,
-J'en saurai la raison. Ah ! Je la sais d'avance ;
-Si ma main me trahit, ce n'est point par erreur,
-Et mon crayon m'apprend le secret de mon cœur.
-Le voilà ce portrait qui dit plus que moi-même...
-
--*who_damis
 Le portrait de Linval ! Ah ! C'est lui que l'on aime :
 Courrons le consoler.
 
--*who_celimene
-      Il faut sans différer,
-Et le mettre sous verre et le faire encadrer.
-Un cadre de bois noir et de simple stature,
-Jean-Jacques l'a prescrit ; l'autre aura la dorure.
-Oui, tout autre que moi, sans partialité,
-Aurait à ce portrait donné la primauté,
-Qu'on ne m'accuse pas s'il me plaît davantage ;
-Je puis le préférer, c'est mon meilleur ouvrage.
-
-**** *book_ *id_I06 *act_I *date_1796
-
--*who_damis
 VENEZ, elle est sortie. Avancez donc, monsieur :
 Montrerez-vous encor de la mauvaise humeur ?
 J'ai vu votre portrait tracé par Célimène,
@@ -427,373 +448,70 @@ On semblait se mirer dans chacun de vos traits ;
 J'en jouissais pour vous : triomphe plein d'attraits !
 Mais au moins sentez-vous toute votre victoire ?
 
--*who_linval
-Elle est grande en effet... si je pouvais y croire.
-
--*who_damis
 Quoi ! Vous doutez encore ? Ah ! Le tour serait beau !
 Allons, timide amant, soulevez ce rideau ;
 Admirez ce portrait...
 
--*who_linval
-      Que vois-je ? C'est le vôtre !
-
--*who_damis
 C'est le mien ; c'est le mien ! En voici bien d'une autre.
 Mes yeux me trompent-ils ? Non, c'est moi ; me voilà.
 
--*who_linval
-Je vous reconnais bien, monsieur, à ce trait là.
-
--*who_damis
 Vous pouvez m'en vouloir et me donner au diable ;
 Mais je ne vous ai dit rien que de véritable :
 J'ai vu....
 
--*who_linval
-      Mais je vous crois ; je n'ai point de courroux,
-Damis, et je prendrai le même ton que vous.
-Prendre un portrait pour l'autre, ah ! C'est bien pardonnable.
-Nous nous ressemblons tant, l'erreur est excusable.
-
--*who_damis
 Mais j'étais donc aveugle ?
 
--*who_linval
-      Ah ! Vous y voyez bien,
-Monsieur, et sur ce point il ne vous manque rien.
-
--*who_damis
 Pour moi cette aventure est encore un mystère.
 
--*who_linval
-La preuve cependant me paraît assez claire.
-
--*who_damis
 Oui, cela paraît clair, j'en conviens.
 
--*who_linval
-      C'est heureux.
-
--*who_damis
 Mais au lieu d'un portrait, si nous en trouvions deux,
 Le fait s'expliquerait....
 
--*who_linval
-      Épargnez-vous la peine.
-
--*who_damis
 Ma foi, j'y suis tout seul.
 
--*who_linval
-      Le cœur de Célimène,
-Me disiez vous, Monsieur, n'est point à dédaigner.
-
--*who_damis
 Oui, c'est moi que l'on aime ; il faut m'y résigner.
 
--*who_linval
-Il ne me reste plus qu'à vous céder la place.
-Je le crois comme vous : mais tout chagrin s'efface ;
-Le vôtre passera.
-
--*who_linval
-      Comme votre bonheur.
-
--*who_damis
 Mais avouez au moins que j'ai bien du malheur ;
 J'ai voulu vous donner ce cœur que je vous ôte,
 Et si je plais enfin, ce n'est pas de ma faute.
 Mais si nous nous trompions ?... Car... Attendez-moi là ;
 Je veux que Célimène explique tout cela.
 
-**** *book_ *id_I07 *act_I *date_1796
-
--*who_linval
-Voilà donc mon vainqueur ! Serait-il bien possible
-Qu'il eût l'art de toucher un cœur aussi sensible ?
-Lui ! Les femmes, grands dieux !... Les femmes ! Ah ! Je crois
-Que Damis en effet les connaît mieux que moi ;
-J'en gémis, je l'avoue. Elle avait ma tendresse ;
-J'estimais sa raison et sa délicatesse :
-Quelle était mon erreur ! Je pense en vérité
-Qu'il ne faut estimer qu'avec sobriété.
-On vient : contraignons-nous ; tâchons que Célimène
-Ne puisse pas au moins triompher de ma peine.
-
-**** *book_ *id_I08 *act_I *date_1796
-
--*who_celimene
-Ah ! Vous voilà, monsieur ; mais on ne vous voit pas :
-Où donc vous cachez-vous ?
-
--*who_linval
-      On me voit trop, hélas !
-
--*who_celimene
-On vous voit trop, Linval ; je vous rends mieux justice.
-
--*who_linval
-Moi, madame ! Dans peu je vous rendrai service.
-
--*who_celimene
-Comment donc ?
-
--*who_linval
-      Je m'en vais retourner à Paris.
-
--*who_celimene
-Eh ! Pourquoi nous quitter ?
-
--*who_linval
-      Pourquoi ? C'est qu'entre amis,
-Un tiers est importun, et j'ai raison de croire
-Que je suis ce tiers là.
-
--*who_celimene
-      Si j'ai bonne mémoire,
-Je ne vous ai rien dit qui le fasse penser.
-
--*who_linval
-Madame, tout ici semble me l'annoncer.
-
--*who_celimene
-Je ne recherche pas ce qu'on a pu vous dire.
-Je veux que vous restiez, cela doit vous suffire.
-
--*who_linval
-Vous voulez ?...
-
--*who_celimene
-      Oui, je veux ; et si je prends ce ton,
-Vous me devinerez et le trouverez bon.
-
--*who_linval
-Comment à tant d'attraits mêler tant d'artifice !
-
--*who_celimene
-D'artifice, monsieur ?
-
--*who_linval
-      Je sens mon injustice,
-Madame ; je devrais, en comblant mon erreur,
-Savoir interpréter le tout en ma faveur.
-
--*who_celimene
-Vous le pourriez souvent, sans craindre de méprise.
-
--*who_linval
-Autrefois Célimène avait de la franchise....
-Ne vous contraignez plus, quittez cet embarras ;
-Soyez claire....
-
--*who_celimene
-      Ce ton ne vous appartient pas,
-Linval ; vous copiez : Damis est de l'affaire.
-
--*who_linval
-Si je limitais bien, je saurais mieux vous plaire.
-
--*who_celimene
-Quoi ! C'est de ce motif que vient votre courroux ?
-Les voilà ! Sans aimer, les hommes sont jaloux.
-
--*who_linval
-Sans aimer ?
-
--*who_celimene
-      L'orgueil seul peut maîtriser leurs âmes.
-
--*who_linval
-Avec plus de justice on le dirait des femmes.
-
--*who_celimene
-Retournez à Paris.
-
--*who_linval
-      Oui, demain au matin.
-
--*who_celimene
-Quoi ! Vous nous accordez alors jusqu'à demain ?
-
--*who_linval
-En quittant ces beaux lieux, je n'aurai, je vous jure,
-Pas même le bonheur d'y rester en peinture.
-
--*who_celimene
-Qu'entends-je ? Vous avez découvert ce portrait ?
-
--*who_linval
-Oui, Madame.
-
--*who_celimene
-      Linval, cela n'est pas discret.
-
--*who_linval
-Ce qu'a dit le portrait, je le savais d'avance.
-
--*who_celimene
-Eh bien, mon cher Linval, vous êtes en démence :
-Allez, je vous pardonne, et j'aime votre erreur.
-Mais je puis d'un seul mot dissiper votre humeur.
-
--*who_linval
-Madame, j'en sais trop...
-
--*who_celimene
-      Vous savez des chimères.
-Un jaloux ne voit pas les choses les plus claires ;
-Mais il voit clairement ce qui n'existe pas.
-Vous ne partirez point, je vous le dis tout bas.
-
--*who_linval
-Ah ! Que vous savez bien user de votre empire !
-Vous jouissez, cruelle ; et vous semblez me dire :
-Restez pour contempler le bonheur d'un rival ;
-Soyez l'ombre au tableau ; s'il est bien, soyez mal.
-Un amant préféré n'a qu'une faible gloire,
-Si quelque infortuné n'ajoute à sa victoire.
-L'un des deux est chez vous sous le titre d'amant,
-Et l'autre y restera pour votre amusement.
-
--*who_celimene
-L'un des deux, dites-vous ? Cela pourrait bien être,
-Et celui-là, dans peu, vous saurez le connaître.
-
--*who_linval
-Ah ! Madame, le choix sera bientôt dicté.
-
--*who_celimene
-Eh bien, restez au moins par curiosité ;
-Vous verrez si ce choix mérite qu'on l'approuve.
-
--*who_linval
-Il ne ferait qu'aigrir la douleur que j'éprouve :
-Non, non, je ne veux pas le connaître à ce prix.
-C'en est fait.
-
--*who_celimene
-      En ce cas, retournez à Paris.
-
--*who_linval
-Oui, Madame, je pars, et j'emporte dans l'âme
-Le cruel souvenir de la plus vive flamme ;
-La honte et le regret d'une trop douce erreur.
-Oui, je parts ; mais le trait restera dans mon cœur :
-Et ce qui rend surtout ma peine plus affreuse,
-C'est de savoir qu'ici vous n'êtes pas heureuse ;
-Car enfin ce rival qui sut vous enflammer,
-N'eut que l'art de vous plaire, et je savais aimer.
-
--*who_celimene
-En ce cas restez donc.
-
--*who_linval
-      Ô ciel ! Quelle ironie !
-
--*who_celimene
-Vous m'impatientez par votre modestie,
-Vous ne devinez rien.
-
--*who_linval
-      Est-ce donc un secret ?
-Le portrait...
-
--*who_celimene
-      Eh bien, oui, je chéris un portrait.
-Avec un tendre soin je l'ai tracé moi-même ;
-Il présente à mes yeux le seul homme que j'aime ;
-Et s'il faut m'expliquer, incrédule Linval,
-De ce portrait chéri....
-
-**** *book_ *id_I09 *act_I *date_1796
-
--*who_damis
       Voici l'original.
 Je ne puis pas venir plus à propos.
 
--*who_celimene
-      Sans doute.
-
--*who_damis
 On n'entend pas toujours du mal quand on écoute.
 Eh bien, mon cher Linval, on vous fait donc mourir ?
 
--*who_celimene
-Linval a du malheur, il faut en convenir.
-
--*who_damis
 Madame, le malheur est une bonne école.
 Vous sortez ?
 
--*who_celimene
-      Oui, je sors.
-
--*who_damis
       Et moi, je le console.
 
--*who_celimene
-Oui, consolez, Damis ; Linval en a besoin,
-Je vois avec plaisir que vous prenez ce soin ;
-Mais ne profitez pas de tout votre avantage,
-Et de votre ascendant faites un noble usage.
-À calmer ses ennuis j'aurais pu vous aider ;
-Mais vous aurez mieux l'art de le persuader.
-
-**** *book_ *id_I10 *act_I *date_1796
-
--*who_damis
 J'ai fait aux grands débats succéder le silence.
 Eh bien, mon cher ami, vous vous taisez ?
 
--*who_linval
-Je pense.
-
--*who_damis
       Diable ! C'est bien penser. La raison et le temps
 Sont le meilleur remède aux chagrins des amants.
 
--*who_linval
-Je le crois comme vous.
-
--*who_damis
       Oui, la philosophie
 Nous aide à supporter les dégoûts de la vie.
 
--*who_linval
-Je suis très philosophe.
-
--*who_damis
       Eh bien, dans tout ceci,
 Êtes-vous décidé ? Prenez-vous un parti ?
 
--*who_linval
-Il est pris.
-
--*who_damis
       Je le sais.
 
--*who_linval
-      Vous lisez dans les âmes.
-
--*who_damis
 C'est que je connais bien les hommes et les femmes.
 On ne vous a rien dit, et vous n'avez rien vu ;
 Il n'est rien arrivé que je n'eusse prévu.
 
--*who_linval
-Vous saviez tout ?
-
--*who_damis
       Eh oui ; j'ai su que Célimène
 Voudrait nous retenir tous les deux dans sa chaîne.
 Toute femme est coquette, et l'on aimait en vous
 L'homme qu'on tenait là, pour me rendre jaloux.
 
--*who_linval
-Ah !
-
--*who_damis
       Mais ce n'est pas moi qu'aisément on abuse ;
 J'eus l'art de repousser la ruse par la ruse.
 Il fallait par adresse arracher le secret,
@@ -807,17 +525,9 @@ Sans qu'elle s'en doutât, tout était mon ouvrage.
 Dans ce moment encor, je vous dirais déjà
 Et même j'écrirais tout ce qu'elle dira.
 
--*who_linval
-Je voudrais bien l'entendre.
-
--*who_damis
       En voulez-vous la preuve ?
 Eh bien, mon cher Linval, nous en serons l'épreuve.
 
--*who_linval
-Mais, monsieur, se peut-il ?...
-
--*who_damis
       Eh oui, cela se peut ;
 Une femme ne fait, ne dit que ce qu'on veut.
 Un homme qui n'est point à son apprentissage,
@@ -850,23 +560,11 @@ Et déployant alors le jargon féminin,
 De grands mots convenus, des lieux communs sans fin,
 Elle veut méchamment prolonger mon martyre.
 
--*who_linval
-Eh bien, que ferez-vous ?
-
--*who_damis
       De grands éclats de rire.
 
--*who_linval
-Cela sera plaisant.
-
--*who_damis
       Oui, pour vous et pour moi,
 Mais bien piquant pour elle.
 
--*who_linval
-      Oui, monsieur, je le crois.
-
--*who_damis
 Enfin je lui dirai : bannissons la contrainte,
 Célimène ; quittons et la ruse et la feinte :
 Je sais que vous m'aimez... Monsieur, qui vous l'a dit ?
@@ -878,229 +576,281 @@ Aux pieds de la beauté j'obtiendrai mon pardon.
 Les femmes en un mot suivent les même routes,
 Et quand on en connaît une, on les connaît toutes.
 
--*who_linval
-Et vous êtes bien sûr qu'on dira tout cela ?
-
--*who_damis
 Puisque vous en doutez, monsieur, cachez-vous là.
 
--*who_linval
-Je suis très curieux d'entendre cette scène ;
-J'en ferai mon profit.
-
--*who_damis
       Paix ! Voilà Célimène.
 
-**** *book_ *id_I11 *act_I *date_1796
-
--*who_celimene
-Que faites-vous donc seul ?
-
--*who_damis
       J'admirais ce portrait.
 J'y suis un peu flatté...
 
--*who_celimene
-      Mais c'est par intérêt.
-
--*who_damis
 Combien ce tendre soin me pénètre et me touche !
 Ce qu'a dit le pinceau, dites-le moi de bouche :
 Qu'attendez-vous encor ? Vous savez mon amour ;
 Il est digne de vous, et pur comme le jour.
 
--*who_celimene
-Ah ! Damis, un amant n'a souvent qu'un faux zèle ;
-Il est toujours trompeur, ou du moins infidèle.
-Il prodigue par-tout les mêmes sentiments...
-
--*who_damis
 Cela commence bien.
       Eh quoi ! Tous mes serments...
 
--*who_celimene
-Les serments répétés sont un lien fragile ;
-J'en pourrais croire un seul, je n'en croirai pas mille.
-Quand vous jurez tout haut de nous aimer toujours,
-Le cœur jure tout bas de trahir ses amours.
-
--*who_damis
 C'est cela, c'est cela.
       Je le vois, trop cruelle ;
 Vous vous faites un jeu de ma peine mortelle :
 Mais quand je suis en butte à tout votre courroux,
 Un autre a mérité des sentiments plus doux.
 
--*who_celimene
-Un autre ? Quoi ! Damis connaît la jalousie ?
-
--*who_damis
 Madame, ce n'est point une plaisanterie.
 
--*who_celimene
-Je ne l'aurais pas cru.
-
--*who_damis
       La friponne sourit.
 
--*who_celimene
-À parler franchement, j'aime votre dépit.
-
--*who_damis
 Je le crois bien.
       Certain de votre indifférence,
 Il faudra condamner mon amour au silence.
 Espérez-vous bientôt retourner à Paris ?
 
--*who_celimene
-Non, j'aime la campagne.
-
--*who_damis
       Ah ! J'en suis peu surpris.
 Un esprit bien pensant, une âme douce et pure
 Préfère à tout plaisir l'aspect de la nature.
 
--*who_celimene
-Un cœur tendre surtout aime à la contempler.
-
--*who_damis
 Elle y revient...
       Eh bien, pourquoi dissimuler ?
 Chaque mot vous trahit ; votre cœur est sensible.
 
--*who_celimene
-Eh ! Qui peut se vanter de l'avoir inflexible ?
-
--*who_damis
 Quiconque vous connaît ne s'en vantera pas.
 Mais vous, pourriez-vous l'être avec autant d'appas ?
 
--*who_celimene
-Vous me pressez, Damis.
-
--*who_damis
       Bannissons la contrainte ;
 Ouvrez-moi votre cœur, et quittons toute feinte.
 Vous m'aimez, n'est-ce pas ?
 
--*who_celimene
-      Et d'où le savez-vous,
-Monsieur ? Qui vous l'a dit ?
-
--*who_damis
       Modérez ce courroux.
 Tout parle en ma faveur ; il est temps de vous rendre.
 On perd plus qu'on ne gagne en voulant trop attendre.
 
--*who_celimene
-J'aurais droit de montrer de la mauvaise humeur,
-Monsieur ; mais non, je sais excuser votre erreur.
-Vous nous connaissez mal.
-
--*who_damis
       Je connais mal les femmes ?
 
--*who_celimene
-Quoique vous vous flattiez de lire dans leurs âmes,
-Vous les connaissez mal.
-
--*who_damis
       Ma foi, cet entretien
 Prouve assez clairement que je les connais bien.
 
--*who_celimene
-De ce rire moqueur ma surprise est extrême.
-
--*who_damis
 Ah ! Si vous saviez tout, vous en ririez vous-même.
 C'est qu'ici vous n'avez rien dit et rien pensé,
 Que d'avance à Linval je ne l'eusse annoncé.
 
--*who_celimene
-Vous saviez ?...
-
--*who_damis
       Mot pour mot. Jugez si j'ai dû rire.
 
--*who_celimene
-J'ai cependant encor quelque chose à vous dire
-Que vous ne savez pas.
-
--*who_damis
       C'est ?...
 
--*who_celimene
-      Que mon choix est fait.
-
--*who_damis
 Et ce choix, quel est-il ?
 
--*who_celimene
-      Il part du cabinet.
-
--*who_damis
 Quoi !
 
--*who_celimene
-      Dans ce cabinet, Linval m'a remplacée ;
-J'avais tout entendu.
-
--*who_damis
       Vous étiez bien placée.
 
-**** *book_ *id_I12 *act_I *date_1796
-
--*who_linval
-Quoi ! Madame ?...
-
--*who_celimene
-      Linval, vous serez mon époux.
-
--*who_damis
 Mais je l'avais bien dit, Linval, que c'était vous.
 
--*who_linval
-Ah ! Pouvais-je espérer que j'aurais su vous plaire ?
-
--*who_celimene
-Oui, Linval, car mon choix était facile à faire.
-Pour vous, ne rusez plus ; les plus fins y sont pris.
-
--*who_linval
-Eh bien, qu'en dites-vous ?
-
--*who_damis
       Ma foi, ce que j'en dis,
 C'est qu'un homme jamais ne connaît une femme.
 
--*who_celimene
-Moi, je vous connais bien.
-
--*who_damis
       Mais je le vois, madame.
 
--*who_celimene
-Oui, je m'explique enfin, et vous aurez, je crois,
-Consolé votre ami pour la dernière fois.
-Dorénavant, Damis, si vous voulez m'en croire,
-Prenez un autre ton, cherchez une autre gloire ;
-Le babil indiscret et la méchanceté
-Ne donnent plus un air d'originalité,
-Car rien n'est si commun. Qu'une femme légère
-Soit la dupe une fois d'un pareil caractère,
-Cela ne prouve rien ; et cette exception
-Donne un faible triomphe à l'indiscrétion.
-Entre Linval et vous, voyez la différence :
-Tandis que vous cherchiez une vaine apparence,
-Il aime, il est heureux. L'un de vous deux dira
-Qu'il est l'homme chéri, mais l'autre le sera.
-La morale, monsieur, vous paraîtra sévère ;
-Mais vous la méritez. Vous avez de quoi plaire ;
-Ne vous déguisez point. En suivant mes avis,
-Vous pouvez être encore au rang de mes amis.
-
--*who_damis
 Ah ! Que la vérité me pénètre et me touche !
 La vérité surtout qui sort de votre bouche :
 Me voila corrigé. Le précepte est bien doux
 Quand nous le recevons d'un maître tel que vous.
+
+
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linval
+
+Mais quel mystère ?
+
+Vous pourriez en douter.
+
+Vous êtes pénétrant.
+
+Je vois bien que Damis connaît ma maladie.
+
+Rival trop généreux !
+
+Damis, j'admire en vous cette étude profonde,
+Cet art que vous nommez connaissance du monde ;
+Mais à vos arguments mon cœur n'a pas cédé :
+Vous voulez me convaincre, on m'a persuadé.
+Je n'attaquerai point votre saine logique
+Par les raisonnements de la métaphysique.....
+
+Mais si j'ai bien jugé, l'épreuve est inutile,
+Et le choix entre nous me semble très facile.
+Vous connaissez si bien le jeu des passions,
+La cause et les effets de nos sensations,
+Qu'en vous, avec respect, je reconnais mon maître :
+C'est vous qu'on choisira.
+
+Bonne conclusion.
+
+      Comment ! En ma présence ?
+
+Non, le trio pour moi n'aurait rien d'amusant.
+
+Ô ciel !
+
+Damis, je suis lassé de votre persiflage.
+Quels que soient vos succès, quel que soit mon malheur,
+Épargnez-moi du moins ce langage moqueur.
+
+      Qu'on me haïsse ou non,
+Vous voudrez bien changer de sujet et de ton.
+
+Monsieur, c'en est assez.
+
+De me désespérer, vous faites-vous un jeu ?
+
+J'ai tout vu, je sais tout, et j'ai bien su comprendre,
+Que vous êtes d'accord tous deux pour m'offenser :
+C'est à vous....
+
+Vous ne m'en rendrez plus de pareils désormais,
+Et je me souviendrai, monsieur, de vos bienfaits.
+
+Elle est grande en effet... si je pouvais y croire.
+
+      Que vois-je ? C'est le vôtre !
+
+Je vous reconnais bien, monsieur, à ce trait là.
+
+      Mais je vous crois ; je n'ai point de courroux,
+Damis, et je prendrai le même ton que vous.
+Prendre un portrait pour l'autre, ah ! C'est bien pardonnable.
+Nous nous ressemblons tant, l'erreur est excusable.
+
+      Ah ! Vous y voyez bien,
+Monsieur, et sur ce point il ne vous manque rien.
+
+La preuve cependant me paraît assez claire.
+
+      C'est heureux.
+
+      Épargnez-vous la peine.
+
+      Le cœur de Célimène,
+Me disiez vous, Monsieur, n'est point à dédaigner.
+
+Il ne me reste plus qu'à vous céder la place.
+Je le crois comme vous : mais tout chagrin s'efface ;
+Le vôtre passera.
+
+      Comme votre bonheur.
+
+Voilà donc mon vainqueur ! Serait-il bien possible
+Qu'il eût l'art de toucher un cœur aussi sensible ?
+Lui ! Les femmes, grands dieux !... Les femmes ! Ah ! Je crois
+Que Damis en effet les connaît mieux que moi ;
+J'en gémis, je l'avoue. Elle avait ma tendresse ;
+J'estimais sa raison et sa délicatesse :
+Quelle était mon erreur ! Je pense en vérité
+Qu'il ne faut estimer qu'avec sobriété.
+On vient : contraignons-nous ; tâchons que Célimène
+Ne puisse pas au moins triompher de ma peine.
+
+      On me voit trop, hélas !
+
+Moi, madame ! Dans peu je vous rendrai service.
+
+      Je m'en vais retourner à Paris.
+
+      Pourquoi ? C'est qu'entre amis,
+Un tiers est importun, et j'ai raison de croire
+Que je suis ce tiers là.
+
+Madame, tout ici semble me l'annoncer.
+
+Vous voulez ?...
+
+Comment à tant d'attraits mêler tant d'artifice !
+
+      Je sens mon injustice,
+Madame ; je devrais, en comblant mon erreur,
+Savoir interpréter le tout en ma faveur.
+
+Autrefois Célimène avait de la franchise....
+Ne vous contraignez plus, quittez cet embarras ;
+Soyez claire....
+
+Si je limitais bien, je saurais mieux vous plaire.
+
+Sans aimer ?
+
+Avec plus de justice on le dirait des femmes.
+
+      Oui, demain au matin.
+
+En quittant ces beaux lieux, je n'aurai, je vous jure,
+Pas même le bonheur d'y rester en peinture.
+
+Oui, Madame.
+
+Ce qu'a dit le portrait, je le savais d'avance.
+
+Madame, j'en sais trop...
+
+Ah ! Que vous savez bien user de votre empire !
+Vous jouissez, cruelle ; et vous semblez me dire :
+Restez pour contempler le bonheur d'un rival ;
+Soyez l'ombre au tableau ; s'il est bien, soyez mal.
+Un amant préféré n'a qu'une faible gloire,
+Si quelque infortuné n'ajoute à sa victoire.
+L'un des deux est chez vous sous le titre d'amant,
+Et l'autre y restera pour votre amusement.
+
+Ah ! Madame, le choix sera bientôt dicté.
+
+Il ne ferait qu'aigrir la douleur que j'éprouve :
+Non, non, je ne veux pas le connaître à ce prix.
+C'en est fait.
+
+Oui, Madame, je pars, et j'emporte dans l'âme
+Le cruel souvenir de la plus vive flamme ;
+La honte et le regret d'une trop douce erreur.
+Oui, je parts ; mais le trait restera dans mon cœur :
+Et ce qui rend surtout ma peine plus affreuse,
+C'est de savoir qu'ici vous n'êtes pas heureuse ;
+Car enfin ce rival qui sut vous enflammer,
+N'eut que l'art de vous plaire, et je savais aimer.
+
+      Ô ciel ! Quelle ironie !
+
+      Est-ce donc un secret ?
+Le portrait...
+
+Je pense.
+
+Je le crois comme vous.
+
+Je suis très philosophe.
+
+Il est pris.
+
+      Vous lisez dans les âmes.
+
+Vous saviez tout ?
+
+Ah !
+
+Je voudrais bien l'entendre.
+
+Mais, monsieur, se peut-il ?...
+
+Eh bien, que ferez-vous ?
+
+Cela sera plaisant.
+
+      Oui, monsieur, je le crois.
+
+Et vous êtes bien sûr qu'on dira tout cela ?
+
+Je suis très curieux d'entendre cette scène ;
+J'en ferai mon profit.
+
+Quoi ! Madame ?...
+
+Ah ! Pouvais-je espérer que j'aurais su vous plaire ?
+
+Eh bien, qu'en dites-vous ?
+

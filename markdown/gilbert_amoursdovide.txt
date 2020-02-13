@@ -1,6 +1,6 @@
 ---
 identifier: gilbert_amoursdovide  
-creator: Gilbert, Gabriel  
+creator: Gilbert, Gabriel ; Georges Forestier.  
 date: 1663  
 title: Les Amours d'Ovide. Pastorale héroïque  
 ---

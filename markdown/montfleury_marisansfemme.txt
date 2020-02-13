@@ -1,6 +1,6 @@
 ---
 identifier: montfleury_marisansfemme  
-creator: Montfleury, Antoine Jacob  
+creator: Montfleury, Antoine Jacob ; Georges Forestier.  
 date: 1705  
 title: Le Mary sans femme. Comédie  
 ---

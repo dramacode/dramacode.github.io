@@ -1,227 +1,90 @@
 
 
-**** *book_ *id_I01 *act_I *date_1710
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomediefrancaise
 
--*who_lafoire
-Holà, Danseurs, Chanteurs de Vaudevilles.
-Peuples à mes ordres soumis,
-Histrions forains mes amis,
-Venez, tous ;
-Accourez, troupe comique,
-Vite assemblez-vous.
-De votre lyrique
-Rendez tous les théâtres jaloux.
-Quoi, personne n'accourt à ma voix !N'entendez-vous pas votre, maîtresse qui vous appelle ?
-Songez-vous ; que c'est aujourd'hui le premier jour de mes spectacles d'été ?
-Holà donc, Mezzetin, Olivette, Docteur , Polichinelle.
-Répondez donc à mon attente,
-Mes enfants, venez, il est temps,
-Déjà le Marchand se tourmente,
-Sa voix appelle les chalands ;
-Et l'obligeant Massy présente
-Du tabac aux honnêtes gens.
-
-**** *book_ *id_I02 *act_I *date_1710
-
--*who_mezzetin
-Ha, ha, ha, ha, ha !
-
--*who_lafoire
-Quel sujet avez-vous de rire ?
-
--*who_mezzetin
-Ha, ha, ha, ha, ha !
-
--*who_lafoire
-Pourquoi donc ces ris immodérés ?
-
--*who_mezzetin
-La Comédie Française et la Comédie Italienne...
-Ha, ha, ha, ha, ha !
-
--*who_lafoire
-Encore ?
-Hé bien, la Comédie Française et la Comédie Italienne ?...
-
--*who_mezzetin
-Ces cieux Dames sont dans le préau.
-Elles veulent honorer de leur présence l'ouverture de notre théâtre.
-Elles viennent voir si la Foire sera bonne.
-Elles ont vu beaucoup de monde
-Venir en foule dans nos jeux.
-Je ris de la douleur profonde
-Que fait paraître une des deux.
-
--*who_lafoire
-C'est la Française apparemment ?
-
--*who_mezzetin
-Vous l'avez dit.
-Elle se livre à sa tristesse,
-Qui déconcerte son maintien :
-L'autre de la sienne es tmaîtresse.
-
--*who_lafoire
-Oh !
-C'est l'esprit Italien !
-
--*who_mezzetin
-Mais les voici.
-
--*who_lafoire
-Qu'on ait soin de les bien placer.
-Ce sont mes supérieures, que ces Dames-là.
-Je ne suis que leur très humble servante.
-Je ne puis leur marquer trop de respect.
-
-**** *book_ *id_I03 *act_I *date_1710
-
--*who_lacomediefrancaise
 N'allons pas plus avant, demeurons ma mignonne.
 Je ne me soutiens plus, la force m'abandonne,
 Mes yeux sont étonnés du monde que je vois :
 Pourquoi faut-il, hélas ! Qu'il ne soit pas chez moi !
 
--*who_lacomedieitalienne
-Oh !
-Tâchez de vous soutenir toute seule...
-J'aI assez de peine à me soutenir moi-même.
-
--*who_lacomediefrancaise
 Aidez-moi donc, vous, Monsieur Charitides.
 
--*who_monsieurcharitides
-Je suis votre valet.
-Quand vous vous portiez bien, vous ne me regardiez pas : à présent que vous êtes malade, vous implorez mon secours : Serviteur.
-
--*who_lafoire
-Madame,je suis ravie d'avoir l'honneur de vous voir.
-Permettez-moi de vous embrasser.
-
--*who_lacomediefrancaise
 Je me trouve mal.
 
--*who_lacomedieitalienne
-Et moi, tout de même.
-
--*who_lafoire
-Des fauteuils à ces Dames.
-Hé vite des fauteuils.
-Je crois qu'elles vont tomber en faiblesse.
-
--*who_lacomediefrancaise
 Je n'en puis plus.
 
--*who_lacomedieitalienne
-Je me meurs.
-Je crois que je serai obligée d'aller prendre l'air natal, ou de faite ici corps-neuf.
-
--*who_mezzetin
-Voulez-vous de l'eau de la Reine de Hongrie.
-
--*who_lacomediefrancaise
 Retire-toi, profane.
+A
 Public, qui connaissez le prix de mes ouvrages
 Pouvez-vous accorder à ceux-ci vos suffrages.
 
--*who_lafoire
-Ah !
-Je vois la cause de votre défaillance !
-Vous êtes fâchée de voir ici bonne compagnie, n'est-ce pas ?
-Voilà l'enclouûre.
-Hé, ventrebleu !
-Madame, que ne faites-vous comme nous ?
-Mettez-vous en quatre pour plaire au public.
-
--*who_lafoire
-Il a raison.
-Il semble que vous preniez plaisir à vous laisser-mourir de faim.
-Donnez des nouveautés.
-
--*who_lacomediefrancaise
-La bonne drogue, que des nouveautés !
-Ne fais-je pas mieux ?
-Je donne tous les chef-d'oeuvres de mon Théâtre,
+La bonne drogue, que des nouveautés ! Ne fais-je pas mieux ? Je donne tous les chef-d'oeuvres de mon Théâtre,
 Mes pièces les plus excellentes,
 Tartuffe et les Femmes savantes ,
 Amphitryon, le Grondeur,
 Et presque tous les jours l'Avare.
 
--*who_mezzetin
-Bon, l'on sait ces pièces par coeur.
-
--*who_lacomediefrancaise
 Non, non , le public est bizarre.
 
--*who_lacomedieitalienne
-Effectivement, on ne sait comment ; faire pour le contenter.
-Il est saoul des vieilles pièces, les nouvelles le rassasient dès la première représentation.
-
--*who_lafoire
-Il est vrai que vos nouveautés passent comme des ombres.
-
--*who_lacomediefrancaise
 Que Paris est aujourd'hui de mauvais goût !
 
--*who_lafoire
-Vous le trouvez raisonnable,
-Lorsqu'il va s'amuser chez vous ;
-Mais vient-il s'amuser chez nous,
-Son goût vous paraît détestable,
-Mais vient-il s'amuser chez nous,
-Son goût vous paraît détestable.
+L'Opéra ? Le traître ? C'est l'auteur de nos malheurs.
 
--*who_lacomedieitalienne
-Sans doute.
-Il entend, chez nous des choses dignes de son attention : mais vos fariboles, vos fariboles...
-
--*who_lafoire
-Qu'appelez-vous des fariboles ?
-N'apprécions point les paroles ;
-Qui veut sainement en juger,
-Madame, trouve que les vôtres,
-Malgré l'idiome étranger,
-Ne valent pas mieux que les nôtres.
-
-**** *book_ *id_I04 *act_I *date_1710
-
--*who_gille
-Monsieur votre cousin , Madame.
-
--*who_lafoire
-Mon cousin !
-
--*who_gille
-Oui, votre cousin.
-C'est un grand Monsieur de bonne mine, qui chante à tort et à travers tout ce qui lui vient dans l'esprit.
-
--*who_lafoire
-Ah !
-C'est l'opéra : c'est ce fou-là.
-
--*who_lacomediefrancaise
-L'Opéra ?
-Le traître ?
-C'est l'auteur de nos malheurs.
-
--*who_lacomedieitalienne
-À ce nom, je sens redoubler ma colère.
-
--*who_lacomediefrancaise
 C'est lui, maudite Foire, qui t'a retiré du néant où je t'avais fait rentrer.
 
--*who_lacomedieitalienne
-Le voici.
-Je sois tentée de le mettre en pièces.
+Il faut que je t'étrangle, Malheureux.
 
--*who_lafoire
-Mettre en pièces l'Opéra !
-Oh !
-Laisse ce soin-là à ses poètes et à ses musiciens.
+Vous avez beau faire, Monsieur l'Opéra, je perdrai mon ennemie.
 
-**** *book_ *id_I05 *act_I *date_1710
+Oui, nous vous abîmerons.
 
--*who_lopera
+Je puis les avoir avec une petite créature comme vous.
+
+Juste Ciel !
+
+Ah ! C'est trop en souffrir !...
+Allons, c'est à nous deux à nous rendre justice.
+Que de cris de douleur la Foire retentisse.
+Courons chercher main-forte et d'un air furieux,
+Revenons saccager, tout briser dans ces lieux ;
+Nous n'épargnerons rien dans le désordre extrême
+Tout nous sera Forain, fût-ce l'Opéra même.
+
+Rasons jusqu'aux fondements
+Ce Jeu qui nous outrage.
+
+Quel bruit se fait entendre ? Nos ennemis auraient-ils repris courage ?
+
+
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedieitalienne
+
+Oh ! Tâchez de vous soutenir toute seule... J'aI assez de peine à me soutenir moi-même.
+
+Et moi, tout de même.
+
+Je me meurs. Je crois que je serai obligée d'aller prendre l'air natal, ou de faite ici corps-neuf.
+
+Effectivement, on ne sait comment ; faire pour le contenter. Il est saoul des vieilles pièces, les nouvelles le rassasient dès la première représentation.
+
+Sans doute. Il entend, chez nous des choses dignes de son attention : mais vos fariboles, vos fariboles...
+
+À ce nom, je sens redoubler ma colère.
+
+Le voici. Je sois tentée de le mettre en pièces.
+
+Que je te dévisage.
+
+Nous vous détruirons.
+
+Vous perdez le respect, ma mie.
+
+Oui, rira bien qui rira le dernier. Vederète, vederète, Razza maledetta.
+
+Ils reviennent à la charge, qans doute.
+
+
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lopera
+
 Dans ce temps,
 Filles de quinze ans.,
 Vous n'en savez pas moins que vos Mamans⁎
@@ -231,217 +94,125 @@ Tati, tati, tari , tata.
 Dans ce temps
 Filles de quinze ans,
 Vous n'en savez pas moins que vos mamans.
-Eh !
-Bonjour, Mesdames.
-Vous ici !
-Je croyais qu'il n'était permis qu'à moi de faufiler avec la Foire.
+Eh ! Bonjour, Mesdames. Vous ici ! Je croyais qu'il n'était permis qu'à moi de faufiler avec la Foire.
 
--*who_lacomediefrancaise
-Il faut que je t'étrangle, Malheureux.
+Point d'emportement, Mesdames. Croyez-moi, vivons dans la concorde.
 
--*who_lacomedieitalienne
-Que je te dévisage.
-
--*who_lopera
-Point d'emportement, Mesdames.
-Croyez-moi, vivons dans la concorde.
-
--*who_lesdeuxcomedies
-Non, ce n'est que pour la colère
-Que nos coeurs malheureux font faits ;
-La concorde ne peut nous plaire,
-Nous y renonçons pour jamais.
-Non > ce n'est que pour la colère
-Que nos coeurs malheureux font faits.
-
--*who_lacomediefrancaise
-Vous avez beau faire, Monsieur l'Opéra, je perdrai mon ennemie.
-
--*who_lopera
 J'y mettrai bon ordre.
 
--*who_lacomedieitalienne
-Nous vous détruirons.
-
--*who_lafoire
-Prrr.
-
--*who_lacomediefrancaise
-Oui, nous vous abîmerons.
-
--*who_lafoire
-Il ne faut pas pour cela me mettre le poing sous le nez.
-Vos airs ne me conviennent point du tout.
-
--*who_lacomediefrancaise
-Je puis les avoir avec une petite créature comme vous.
-
--*who_lafoire
-Petite Créature !
-Vous n'êtes qu'une insolente.
-
--*who_lacomediefrancaise
-Juste Ciel !
-
--*who_lacomedieitalienne
-Vous perdez le respect, ma mie.
-
--*who_lafoire
-Le respect !
-Je veux que cinq cents diables m'emportent, si je ne vous applique à toutes deux mon respect sur le visage.
-
--*who_lacomediefrancaise
-Ah !
-C'est trop en souffrir !...
-Allons, c'est à nous deux à nous rendre justice.
-Que de cris de douleur la Foire retentisse.
-Courons chercher main-forte et d'un air furieux,
-Revenons saccager, tout briser dans ces lieux ;
-Nous n'épargnerons rien dans le désordre extrême
-Tout nous sera Forain, fût-ce l'Opéra même.
-
--*who_lopera
 Ha, ha, ha, ha, ha!
 
--*who_lacomedieitalienne
-Oui, rira bien qui rira le dernier.
-Vederète, vederète, Razza maledetta.
-
-**** *book_ *id_I06 *act_I *date_1710
-
--*who_lafoire
-Quoi, chez nous on nous menace !
-Souffrirons nous cette audace ?
-Quoi, chez nous on nous menace !
-N'est-ce pas nous outrager ? .
-
--*who_lopera
 Au Public tâchez de plaire ;
 Et méprisez leur colère,
 Au Public tâchez de plaire ;
 Pouvez-vous mieux vous venger ?
 
--*who_lopera
 Au Public tâchez de plaire,
 
--*who_lafoireetmezettin
-Au Public tâchons de plaire,
-
--*who_lopera
 Et méprisez leur colère.
 
--*who_lafoireetmezettin
-Et méprisons leur colère.
-
--*who_lopera
 Au Public tâchez de plaire,
 
--*who_lafoireetmezettin
-Au Public tâchons de plaire,
-
--*who_lopera
 Pouvez-vous mieux vous venger.
 
--*who_lafoireetmezettin
-Pouvons-nous mieux nous venger.
+Hoçà, Cousine. J'ai une prière à vous faire : Avancez-moi, de grâce, un quartier de ma pension.
 
--*who_lopera
-Hoçà, Cousine.
-J'ai une prière à vous faire : Avancez-moi, de grâce, un quartier de ma pension.
+Pardonnez-moi. Je dépense, et je dois beaucoup.
 
--*who_lafoire
-En vérité, mou Cousin, vous êtes bien intéressé.
-Vous ne manquez pas d'argent.
-
--*who_lopera
-Pardonnez-moi.
-Je dépense, et je dois beaucoup.
-
--*who_lafoire
-Je vous l'enverrai demain.
-
--*who_lopera
-Cela suffit.
-Adieu, petite Mère.
+Cela suffit. Adieu, petite Mère.
 Dès qu'on a quitté la lisière,
 On voudrait déjà...
 Tati, tati, tati, tata.
 
-**** *book_ *id_I07 *act_I *date_1710
 
--*who_lafoire
-Allons, Mezzetin.
-Avertissez tous vos camarades : Il est temps de commencer.
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafoire
+
+Holà, Danseurs, Chanteurs de Vaudevilles.
+Peuples à mes ordres soumis,
+Histrions forains mes amis,
+Venez, tous ;
+Accourez, troupe comique,
+Vite assemblez-vous.
+De votre lyrique
+Rendez tous les théâtres jaloux.
+Quoi, personne n'accourt à ma voix !N'entendez-vous pas votre, maîtresse qui vous appelle ? Songez-vous ; que c'est aujourd'hui le premier jour de mes spectacles d'été ? Holà donc, Mezzetin, Olivette, Docteur , Polichinelle.
+Répondez donc à mon attente,
+Mes enfants, venez, il est temps,
+Déjà le Marchand se tourmente,
+Sa voix appelle les chalands ;
+Et l'obligeant Massy présente
+Du tabac aux honnêtes gens.
+
+Quel sujet avez-vous de rire ?
+
+Pourquoi donc ces ris immodérés ?
+
+Encore ? Hé bien, la Comédie Française et la Comédie Italienne ?...
+
+C'est la Française apparemment ?
+
+Oh ! C'est l'esprit Italien !
+
+Qu'on ait soin de les bien placer. Ce sont mes supérieures, que ces Dames-là. Je ne suis que leur très humble servante. Je ne puis leur marquer trop de respect.
+
+Madame,je suis ravie d'avoir l'honneur de vous voir. Permettez-moi de vous embrasser.
+
+Des fauteuils à ces Dames. Hé vite des fauteuils. Je crois qu'elles vont tomber en faiblesse.
+
+Ah ! Je vois la cause de votre défaillance ! Vous êtes fâchée de voir ici bonne compagnie, n'est-ce pas ?
+Voilà l'enclouûre. Hé, ventrebleu ! Madame, que ne faites-vous comme nous ? Mettez-vous en quatre pour plaire au public.
+
+Il a raison. Il semble que vous preniez plaisir à vous laisser-mourir de faim. Donnez des nouveautés.
+
+Il est vrai que vos nouveautés passent comme des ombres.
+
+Vous le trouvez raisonnable,
+Lorsqu'il va s'amuser chez vous ;
+Mais vient-il s'amuser chez nous,
+Son goût vous paraît détestable,
+Mais vient-il s'amuser chez nous,
+Son goût vous paraît détestable.
+
+Qu'appelez-vous des fariboles ?
+N'apprécions point les paroles ;
+Qui veut sainement en juger,
+Madame, trouve que les vôtres,
+Malgré l'idiome étranger,
+Ne valent pas mieux que les nôtres.
+
+Mon cousin !
+
+Ah ! C'est l'opéra : c'est ce fou-là.
+
+Mettre en pièces l'Opéra ! Oh ! Laisse ce soin-là à ses poètes et à ses musiciens.
+
+Prrr.
+
+Il ne faut pas pour cela me mettre le poing sous le nez. Vos airs ne me conviennent point du tout.
+
+Petite Créature ! Vous n'êtes qu'une insolente.
+
+Le respect ! Je veux que cinq cents diables m'emportent, si je ne vous applique à toutes deux mon respect sur le visage.
+
+Quoi, chez nous on nous menace !
+Souffrirons nous cette audace ?
+Quoi, chez nous on nous menace !
+N'est-ce pas nous outrager ? .
+
+En vérité, mou Cousin, vous êtes bien intéressé. Vous ne manquez pas d'argent.
+
+Je vous l'enverrai demain.
+
+Allons, Mezzetin. Avertissez tous vos camarades : Il est temps de commencer.
 Préparez-vous pour la fête nouvelle...
 
-**** *book_ *id_I08 *act_I *date_1710
-
--*who_polichinelle
-Au feu !
-Au feu !
-Aux armes, Camarades,
-L'Ennemi vient à nous ;
-Préparons-nous tous,
-Aux armes, Camarades ;
-N'allons point ici filer doux.
-
--*who_lafoire
 Qu'y a-t-il donc ?
 
--*who_polichinelle
-Nos deux fières Ennemies,
-De tous leurs Acteurs suivies,
-Viennent comme des Furies,
-Mes chers amis, fondre ici.
-Animons notre courage ;
-Ne cédons point l'avantage
-À leur envieuse rage.
-
--*who_mezzetin
-Défendons-nous.
-Les voici.
-
-**** *book_ *id_I09 *act_I *date_1710
-
--*who_lesdeuxcomedies
-Détruisons tous les Forains
-Auteurs de notre indigence ;
-De nos propres mains
-Tuons cette engeance.
-
--*who_lacomediefrancaise
-Rasons jusqu'aux fondements
-Ce Jeu qui nous outrage.
-
--*who_lesdeuxcomedies
-Oui ? dans nos ressentiments,
-Laissons-y des monuments
-De rage, de rage, de rage.
-
--*who_lesdeuxcomedies
-Ah ! Qu'il est doux pour notre rage
-De pouvoir faire ici tapage !
-Heureuse la fureur
-Qui remplit ces lieux-ci d'horreur.
-
--*who_lacomediefrancaise
-Quel bruit se fait entendre ?
-Nos ennemis auraient-ils repris courage ?
-
--*who_lacomedieitalienne
-Ils reviennent à la charge, qans doute.
-
-**** *book_ *id_I10 *act_I *date_1710
-
--*who_lafoire
 Oui, vous revoyez les Forains.
 Défendez-vous,Romains.
 Voici notre ami l'Opéra,
 Qui pour nous combattra.
 
-**** *book_ *id_I11 *act_I *date_1710
-
--*who_lafoire
 Laissons la poursuite
 De nos ennemis ;
 Il suffit qu'en fuite,
@@ -449,18 +220,36 @@ Nous les ayons mis.
 Pour célébrer notre victoire.
 Venez ici, mes favoris.
 
--*who_lechoeur
-Ô Alegria !
-
--*who_lafoire
 Amis, chantons : Vive la Foire.
 
--*who_lechoeur.
-Ô Alegria !
-
--*who_lafoire
 Vive la Foire et l'Opéra.
 
--*who_tous
-Ô Alegria !
-Vive la Foire et l'Opéra.
+
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
+Ha, ha, ha, ha, ha !
+
+Ha, ha, ha, ha, ha !
+
+La Comédie Française et la Comédie Italienne...
+Ha, ha, ha, ha, ha !
+
+Ces cieux Dames sont dans le préau. Elles veulent honorer de leur présence l'ouverture de notre théâtre. Elles viennent voir si la Foire sera bonne.
+Elles ont vu beaucoup de monde
+Venir en foule dans nos jeux.
+Je ris de la douleur profonde
+Que fait paraître une des deux.
+
+Vous l'avez dit.
+Elle se livre à sa tristesse,
+Qui déconcerte son maintien :
+L'autre de la sienne es tmaîtresse.
+
+Mais les voici.
+
+Voulez-vous de l'eau de la Reine de Hongrie.
+
+Bon, l'on sait ces pièces par coeur.
+
+Défendons-nous. Les voici.
+

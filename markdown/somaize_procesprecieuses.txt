@@ -1,6 +1,6 @@
 ---
 identifier: somaize_procesprecieuses  
-creator: Somaize, Antoine Baudeau  
+creator: Somaize, Antoine Baudeau ; Georges Forestier.  
 date: 1660  
 title: Le Procès des Prétieuses en vers burlesques. Comédie.  
 ---

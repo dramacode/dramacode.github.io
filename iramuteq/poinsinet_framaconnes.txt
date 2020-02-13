@@ -1,16 +1,9 @@
 
 
-**** *book_ *id_I01 *act_I *date_1754
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levenerable
 
--*who_levenerable
 Eh bien , tout est-il prêt pour la cérémonie
 
--*who_lesurveillant
-Oui, Maître, vous pouvez compter sur mon génie ;
-À suivre vos désirs les Francs-Maçons zélés,
-Sont déjà, par mes soins, en ces lieux rassemblés.
-
--*who_levenerable
 Je craignais, par quelque obstacle,
 Qu'ils ne soient tous arrêtés,
 Ou qu'ils ne soient au spectacle
@@ -24,136 +17,34 @@ Que tous mes projets soient suivis
 Commençons la cérémonie ;
 Dans l'instant nous serons servis.
 
--*who_lesurveillant
-Aurons-nous un bon repas ?
-
--*who_levenerable
 Oui, je t'en assure.
 
--*who_lesurveillant
-J'ai vu des ragoûts là-bas
-D'assez bon augure.
-
--*who_levenerable
 Nous recevons l'héritier
 D'un vieux marchand usurier :
 
--*who_lesurveillant
-La bonne aventure.
-Oh gué : la bonne aventure.
-Mais savez-vous, mon Vénérable,
-Qu'une cohorte redoutable
-Veut nous jouer un méchant tour :
-Je viens, en surveillant habile,
-D'apprendre en parcourant la ville,
-Que trente femmes en ce jour
-Doivent forcer notre séjour.
-
--*who_levenerable
 Des femmes savoir nos mystères !
 Et quelles sont ces téméraires ?
 
--*who_lesurveillant
-Ce font celles qui dans Paris
-Font la ressource des maris ;
-Qui savent à force d'adresse,
-Dégourdir la belle jeunesse ;
-Mais qui sur les pas du plaisir
-Guident souvent le repentir.
-
--*who_levenerable
 En ces lieux qui conduit leurs pas.
 
--*who_lesurveillant
-C'est cet objet si plein d'appas,
-Cette Hortense, que l'on admire
-Beaucoup moins que ses diamants
-Et qui, crainte de la satire,
-Se contente de six amants.
-
--*who_levenerable
 Hortense ! Oh Ciel ! Que me dis-tu ?
 Cette Hortense !
 
--*who_lesurveillant
-      Eh bien !
-
--*who_levenerable
       Qu'elle est belle !
 
--*who_lesurveillant
-Quoi, votre coeur est abattu !
-Vous aimez cette Péronelle.
-
--*who_levenerable
 Non, je la hais.
 Qu'elle a d'attraits !
 
--*who_lesurveillant
-Vous l'aimez : allons, Frère,
-Je vois que de votre argent frais
-Vous voulez vous défaire.
-Mais quoi, ce minois trompeur
-Toucherait-il votre coeur ?
-Si vous pouviez voir
-Quel est le savoir
-De toutes ces coquettes ;
-Allez, leurs appas chaque soir
-Restent sur leurs toilettes, lon la.
-Hortense ne mérite pas
-Cette cruelle injure ;
-Rien à ses yeux n'a plus d'appas
-Que la simple nature.
-Par ses petits talents
-Surtout elle m'enchante ;
-Toujours ses vêtements
-Sont riches et galants :
-Elle fait des noeuds,
-Chante au mieux,
-Sait jouer des yeux ;
-Pour persister les gens
-Elle est toute excellente.
-Son goût est exquis ;
-Nos Marquis sont par elle instruits,
-Ce qui fait qu'à Paris
-Sa conquête est de prix.
-
--*who_lesurveillant
-Eh bien, soyez-en amoureux ;
-Mais si jamais, mon Frère,
-Elle ose conduire en ces lieux
-Sa troupe téméraire,
-Nous n'entendrons point de raison,
-La faridondaine, la faridondon ;
-Nous les arrangerons ici, biribi,
-À la façon de Barbari mon ami.
-
--*who_levenerable
 Garde-toi de leur faire injure.
 
--*who_lesurveillant
-Je veux les rendre à la nature.
-Je veux que d'un fard spécieux
-Leurs figures soient dépouillées;
-
--*who_levenerable
 Combien de femmes en ces lieux
 Craindraient d être débarbouillées !
 Mais pourquoi les bannir
 De nos secrets Mystères ?
 
--*who_lesurveillant
-Pensez vous qu'au plaisir
-Elles soient nécessaires ?
-
--*who_levenerable
 Ce sexe né pour plaire
 Mérite quelque soin.
 
--*who_lesurveillant
-Moi, je n'en ai que faire.
-
--*who_levenerable
 Moi, j'en ai grand besoin.
 Dans les beaux yeux d'Hortense
 L'amour plaça ses traits ;
@@ -168,25 +59,9 @@ L'amour plaça ses traits ;
 Son aimable présence
 M'enchaîne pour jamais.
 
--*who_lesurveillant
-Ce sexe n'aspire
-Qu'à nous asservir.
-
--*who_levenerable
 Mais sous son Empire
 Règne le plaisir.
 
--*who_lesurveillant
-Que dites-vous ?
-Ce sont les fous
-Qui vantent sa tendresse.
-Par ses travers,
-Par ses grands airs
-ll sait nous émouvoir :
-C'est notre faiblesse
-Qui fait son pouvoir.
-
--*who_levenerable
 Le jeune enfant de Cythère
 N'a pas toujours un bandeau ;
 La vertu souvent l'éclaire
@@ -200,9 +75,6 @@ Pour prévenir tout incident,
 Et qu'en ces lieux, la loge entière
 Se réunisse dans l'instant.
 
-**** *book_ *id_I02 *act_I *date_1754
-
--*who_levenerable
 Qu'ai-je appris ? Se peut-il qu'Hortense
 Veuille pénétrer en ces lieux ?
 Des Frères je crains la vengeance ;
@@ -212,132 +84,27 @@ Pensons à notre dignité,
 Et pour commencer nos mystères,
 Reprenons notre gravité.
 
-**** *book_ *id_I03 *act_I *date_1754
-
--*who_lesdeuxsurveillants
-C'est ce jour
-Que vous aurez votre tour ;
-Mais avant de vous recevoir,
-Il faut savoir
-Quel sera votre devoir.
-Avançons,
-Commençons
-Loin d'ici tout profane :
-Nos secrets
-Veulent des gens discrets.
-Votre coeur
-Doit redoubler sa ferveur.
-Sachez donc comme il faut marcher,
-Parler,
-Toucher ;
-Et puis nous vous apprendrons
-Comment nous reconnaissons
-Les fidèles Maçons.
-
--*who_levenerable
 Mon frère, je vais à vos yeux
 Découvrir ce secret fameux ;
 Ce secret, ce profond mystère,
 Respecté de toute la terre :
 C'est...
 
-**** *book_ *id_I04 *act_I *date_1754
-
--*who_choeurdesfemmes
-Poussons, poussons fort,
-Jetons la porte à terre ;
-Poussons, poussons, poussons fort.
-
--*who_lesurveillant
-Ciel ! Qui peut causer de tels transports !
-
--*who_hortense
-Faisons tout céder à nos efforts.
-
--*who_lesurveillant
-Quoi, des femmes entrer ! Quel démon !
-Allons vite, sortez, sortez donc.
-
--*who_hortense
-      Non.
-
--*who_lesurveillant
-Frères, venez tous,
-Défendons-nous.
-
--*who_choeurdesfemmes
-Ah, nous entrerons.
-
--*who_choeurdefrancsmacons
-Nous le verrons.
-
--*who_choeurdesfemmes
-Nous entrerons.
-
--*who_hortense
-Arrêtez, Messieurs, y pensez-vous ?
-Ayez un peu plus d'égard pour nous.
-On ne m'a jamais reçue ainsi :
-Nous ne sortirons point d'ici.
-
--*who_levenerable
       Si.
 
--*who_hortense
-Que craignez- vous, mon vénérable,
-On ne fuit point l'amour quand on est beau garçon.
-
--*who_lesurveillant
-Sortez vite de ces lieux,
-Ne troublez plus nos mystères.
-
--*who_hortense
-Que sert d'être furieux ?
-
--*who_lesurveillant
-Elle ose nous braver, mes Frères !
-Allons : de leur témérités,
-Il faut les punir.
-
--*who_levenerable
 Arrêtez.
 
--*who_choeurdefrancsmacons
-Il faut les punir.
-
--*who_choeurdesfemmes
-Arrêtez.
-
--*who_levenerable
 De grâce sortez de ces lieux,
 Croyez-m'en, belle Hortense.
 
--*who_hortense
-Pourquoi ce ton mystérieux ?
-Craignez-vous ma présence ?
-Je vois que votre amusement
-N'est pas décent.
-Oui, c'est cela, là,là.
-
--*who_levenerable
 Oh, oh, ah, ah, ah, ah !
 
--*who_hortense
-Vous cacheriez-vous sans cela la, là.
-
--*who_levenerable
 Un tel soupçon
 N'est pas dicté par la raison ;
 Oui c'est un affront,
 Mais tout de bon
 Sortez donc.
 
--*who_hortense
-Non.
-Je veux d'abord savoir
-Quel devoir.
-
--*who_levenerable
 Je suis au désespoir;
 La seule liberté
 Fait ici notre félicité,
@@ -346,7 +113,115 @@ Nous goûtons loin de tous fâcheux
 Des moments heureux
 Que troubleraient vos beaux yeux.
 
--*who_hortense
+Nous avons des mystères,
+Il faut garder un secret :
+Votre sexe, mes chères,
+Par goût n'est pas fort discret :
+Mille soins sous votre empire
+Empoisonnent nos beaux jours.
+
+Cruels, arrêtez,
+Si jamais vous m'irrítez
+De tant de témérités...
+
+Je tremble pour vous, ma Reine.
+
+À nos lois, malgré mon courroux
+Vous me rendez parjure.
+
+Qui ? Moi Madame,
+Eh, mais en vérité,
+Vous avez bien de la bonté.
+
+Ce sont nos lois.
+
+Votre adresse séduisante
+Ressemble sexe imposteur,
+Aux feux que la terre enfante
+Pour tromper le voyageur,
+Il se perd suivant ces guides ;
+L'espoir aide à son erreur :
+Ainsi, vos faveurs perfides
+Nous éloignent du bonheur.
+Nous jouissons en ces lieux
+D'une paix tranquille et pure :
+Sans vous, nous sommes heureux.
+
+Oui, mon coeur pourrait se rendre
+Au jeune enfant de Cypris,
+Si de l'ardeur la plus tendre,
+Le bonheur était le prix,
+Mais d'abord, c'est l'artifice
+Qui fait naître nos désirs,
+Et bientôt un vain caprice
+Empoisonne nos plaisirs.
+
+Je veux en vain me défendre,
+Il faut me rendre
+À vos accents :
+Ils ont enchanté mes sens ;
+Vous voyez l'Amant le plus tendre ;
+Oui, mon coeur, dans ce beau jour
+Connaît l'Amour,
+Cède à l'Amour.
+Par un aveu flatteur,
+Répondez à ma flamme ;
+Non, jamais tant d'ardeur
+N'a régné dans mon âme,
+Je n'aime que vous.
+
+Ah ! Chère Hortense,
+Rassurez-vous sur ma puissance ;
+En vain, les frères contre vous...
+
+Ciel on vient en ces lieux !
+Je vois, furieux
+Votre projet affreux.
+
+Quoi vous oseriez téméraires ?
+
+C'est trop enfin m'insulter,
+Je vais bientôt punir, traître,
+Ton impertinent fracas,
+En qualité de grand maître,
+Je te bannis du repas.
+
+Enfin, vous l'emportez, Hortense,
+Formons une heureuse alliance,
+Que votre suite pour jamais
+Vienne s'unir avec nos frères,
+Et que les femmes désormais
+Soient admises à nos mystères.
+
+
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hortense
+
+Faisons tout céder à nos efforts.
+
+      Non.
+
+Arrêtez, Messieurs, y pensez-vous ?
+Ayez un peu plus d'égard pour nous.
+On ne m'a jamais reçue ainsi :
+Nous ne sortirons point d'ici.
+
+Que craignez- vous, mon vénérable,
+On ne fuit point l'amour quand on est beau garçon.
+
+Que sert d'être furieux ?
+
+Pourquoi ce ton mystérieux ?
+Craignez-vous ma présence ?
+Je vois que votre amusement
+N'est pas décent.
+Oui, c'est cela, là,là.
+
+Vous cacheriez-vous sans cela la, là.
+
+Non.
+Je veux d'abord savoir
+Quel devoir.
+
       Dieux !
 Eh pourquoi nous éloignez-vous,
 Pourquoi montrer tant de courroux ;
@@ -362,15 +237,6 @@ Il n'est point de plaisirs
 Pour qui vit sans désirs.
 Eh pourquoi nous éloignez-vous, etc.
 
--*who_levenerable
-Nous avons des mystères,
-Il faut garder un secret :
-Votre sexe, mes chères,
-Par goût n'est pas fort discret :
-Mille soins sous votre empire
-Empoisonnent nos beaux jours.
-
--*who_hortense
 De nous vous pouvez médire,
 Vous y reviendrez toujours.
 Les Femmes, mon cher grand maître
@@ -388,19 +254,8 @@ Mais quand on connaît la peine.
 On sent bien mieux les plaisirs.
 Les femmes, etc.
 
--*who_lesurveillant
-Cessez ces propos ennuyeux.
-
--*who_marine
-Oui, sortons, nous ferons bien mieux.
-
--*who_hortense
 Marine, voulez-vous vous taire.
 
--*who_marine
-Ne point parler, mais on rira.
-
--*who_hortense
 Mais vous savez qu'à l'Opéra
 Osiris fait seul son affaire.
 Tant en cabriolets qu'en diables,
@@ -419,47 +274,13 @@ Allons gai,
 Toujours gai,
 D'un air gai.
 
--*who_lesurveillant
-Oui, morbleu de ce silence ;
-J'ai tout lieu d'être en courroux,
-Comment frère, leur présence
-Vous a-t-elle troublez tous ?
-
--*who_hortense
 Pense-t-il par sa grimace
 Nous inspirer de l'effroi,
 Sa voix dure et sa disgrâce
 Me font rire malgré moi.
 
--*who_lesurveillant
-Braves Francs-Maçons,
-Suivez mes leçons;
-Par de cruels affronts
-Vengeons notre injure,
-Sans aucun égard
-Ôtons leur ce fard,
-Qui sait avec tant d'art
-Voiler la nature.
-
--*who_levenerable
-Cruels, arrêtez,
-Si jamais vous m'irrítez
-De tant de témérités...
-
--*who_lesurveillant
-Menace vaine,
-Suivez tous mes pas,
-Perdons ces trompeurs appas.
-
--*who_levenerable
-Je tremble pour vous, ma Reine.
-
--*who_hortense
 Je ne les crains pas.
 
-**** *book_ *id_I05 *act_I *date_1754
-
--*who_hortense
 Oui, bientôt par ma prudence
 Leur fureur s'apaisera :
 Suivons dans cette occurrence
@@ -485,31 +306,14 @@ Pour leur procurer tous leurs aises,
 Enfin, il faut de leur prison,
 Faire une petite maison.
 
-**** *book_ *id_I06 *act_I *date_1754
-
--*who_levenerable
-À nos lois, malgré mon courroux
-Vous me rendez parjure.
-
--*who_hortense
 Comment, je suis seul avec vous ?
 Quelle heureuse aventure ?
 Nous serons plus en liberté :
 Allons découvrez-moi votre âme.
 
--*who_levenerable
-Qui ? Moi Madame,
-Eh, mais en vérité,
-Vous avez bien de la bonté.
-
--*who_hortense
 Pourquoi nous faites-vous l'injure
 De nous bannir ?
 
--*who_levenerable
-Ce sont nos lois.
-
--*who_hortense
 Vos lois outragent la nature,
 N'en croyez jamais que sa voix.
 Elle a formé les doux noeuds
@@ -521,20 +325,6 @@ Quelque soin pour nous plaire ;
 Mais on n'obtient des fleurs
 Qu'en arrosant la terre.
 
--*who_levenerable
-Votre adresse séduisante
-Ressemble sexe imposteur,
-Aux feux que la terre enfante
-Pour tromper le voyageur,
-Il se perd suivant ces guides ;
-L'espoir aide à son erreur :
-Ainsi, vos faveurs perfides
-Nous éloignent du bonheur.
-Nous jouissons en ces lieux
-D'une paix tranquille et pure :
-Sans vous, nous sommes heureux.
-
--*who_hortense
 Turelurre.
 J'en doute à votre encolure,
 Robin turelurre, turelurre.
@@ -552,17 +342,6 @@ Lui dit qu'un doux esclavage,
 Est l'image
 Du bonheur.
 
--*who_levenerable
-Oui, mon coeur pourrait se rendre
-Au jeune enfant de Cypris,
-Si de l'ardeur la plus tendre,
-Le bonheur était le prix,
-Mais d'abord, c'est l'artifice
-Qui fait naître nos désirs,
-Et bientôt un vain caprice
-Empoisonne nos plaisirs.
-
--*who_hortense
 Pour deux coeurs qu'un tendre amour enflamme,
 Un caprice est un moment heureux,
 Ils se quittent, mais au fond de l'âme
@@ -574,22 +353,6 @@ L'amant prend bientôt un nouveau gage,
 C'est après l'orage
 L'éclat d'un beau jour.
 
--*who_levenerable
-Je veux en vain me défendre,
-Il faut me rendre
-À vos accents :
-Ils ont enchanté mes sens ;
-Vous voyez l'Amant le plus tendre ;
-Oui, mon coeur, dans ce beau jour
-Connaît l'Amour,
-Cède à l'Amour.
-Par un aveu flatteur,
-Répondez à ma flamme ;
-Non, jamais tant d'ardeur
-N'a régné dans mon âme,
-Je n'aime que vous.
-
--*who_hortense
 Que ce mot est doux !
 Que ma joye est extrême !
 Votre coeur vient de s'enflammer.
@@ -599,93 +362,16 @@ M'aimer.
 Toujours de même.
 J'entends du bruit.
 
--*who_levenerable
-Ah ! Chère Hortense,
-Rassurez-vous sur ma puissance ;
-En vain, les frères contre vous...
-
--*who_hortense
 Ne craignons rien, c'est mon escorte.
 Nous apaiserons leurs courroux,
 Par les présents qu'on leur apporte.
 
-**** *book_ *id_I07 *act_I *date_1754
-
--*who_hortense
 Avez-vous rempli mes demandes ?
-
--*who_marine
-Oui, belle Hortense, les voilà,
-Mais nous n'avons pas de guirlandes,
-On a tout pris à l'Opéra,
-Pour enchanter les Amazones :
-Osiris en vainqueur malin
-En emploie quinze mille aulnes,
-Dont on forme un grand baldaquin.
-
-**** *book_ *id_I08 *act_I *date_1754
-
--*who_levenerable
-Ciel on vient en ces lieux !
-Je vois, furieux
-Votre projet affreux.
-
--*who_lepremiersurveillant
-Avançons braves Compagnons,
-Suivons les leçons
-De nos anciens Maçons
-Rappellez vos serments,
-Qu'en ces instants.
-
--*who_levenerable
-Quoi vous oseriez téméraires ?
-
--*who_hortense
+0
+	
 Je vais appaiser leurs fureurs.
 Vous, que l'on porte à tous les frères,
 Nos petits présents et nos fleurs,
 Qu'un noeud de rubans les enchaîne,
 Remplissons d'ambre la maison.
 
--*who_lesecondsurveillant
-Ma foi pour calmer notre haîne,
-Vous prenez la bonne façon :
-Oh que ça sent bon.
-
--*who_choeurdesfrancsmacons
-Oh que ça sent bon.
-
--*who_lesecondsurveillant
-Oui, sous votre heureux empire,
-Malgré nous tout nous attire,
-L'Amour dicte vos accents,
-Vos yeux brillent de ses flammes,
-Et pour enchanter nos âmes,
-Vous savez charmer nos sens.
-
--*who_lepremiersurveillant
-Quoi, de pareilles misères
-Pourraient tous vous arrêter.
-Eh bien ! Je vais seul mes frères.
-
--*who_levenerable
-C'est trop enfin m'insulter,
-Je vais bientôt punir, traître,
-Ton impertinent fracas,
-En qualité de grand maître,
-Je te bannis du repas.
-
--*who_lepremiersurveillant
-Quel arrêt ! Le repentir
-À mon courroux succède ;
-Vous savez trop bien punir :
-Oui, Maître, à votre désir,
-Je cède, je cède, je cède.
-
--*who_levenerable
-Enfin, vous l'emportez, Hortense,
-Formons une heureuse alliance,
-Que votre suite pour jamais
-Vienne s'unir avec nos frères,
-Et que les femmes désormais
-Soient admises à nos mystères.

@@ -1,866 +1,176 @@
 
 
-**** *book_ *id_I01 *act_I *date_1763
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
 
--*who_baza
-Ô grand Saül !
-Le plus puissant des rois, vous qui régnez sur les
+Ô mon cher Baza ! Heureux mille fois celui qui conduit en paix les troupeaux bêlants de Benjamin, et presse le doux raisin de la vallée d'Engaddi ! Hélas ! Je cherchais les ânesses de mon père, je trouvai un royaume ; depuis ce jour je n'ai connu que la douleur. Plût à Dieu, au contraire, que j'eusse cherché un royaume, et trouvé des ânesses ! j'aurais fait un meilleur marché.
 
--*who_saul
-Ô mon cher Baza !
-Heureux mille fois celui qui conduit en paix les troupeaux bêlants de Benjamin, et presse le doux raisin de la vallée d'Engaddi !
-Hélas !
-Je cherchais les ânesses de mon père, je trouvai un royaume ; depuis ce jour je n'ai connu que la douleur.
-Plût à Dieu, au contraire, que j'eusse cherché un royaume, et trouvé des ânesses ! j'aurais fait un meilleur marché.
+L'un et l'autre. Samuel, tu le sais, m'oignit malgré lui ; il fît ce qu'il put pour empêcher le peuple de choisir un prince, et dès que je fus élu, il devint le plus cruel de tous mes ennemis.
 
--*who_baza
-Est-ce le prophète Samuel ?
-Est-ce votre gendre David qui vous cause ce mortel chagrin ?
+Eh ! Pouvait-il espérer de gouverner plus longtemps ? Il avait associé à son pouvoir ses indignes enfants également corrompus et corrupteurs, qui vendaient publiquement la justice : toute la nation s'éleva contre ce gouvernement sacerdotal. On tira un roi au sort : les dés sacrés annoncèrent la volonté du ciel ; le peuple la ratifia, et Samuel frémit : ce n'est pas assez de haïr en moi un prince choisi par le ciel, il hait encore le prophète ; car il sait que, comme lui, j'ai le nom de voyant : que j'ai prophétisé comme lui ; et ce nouveau proverbe répandu dans Israël, Saül est aussi au rang des prophètes, n'offense que trop ses oreilles superbes : on le respecte encore ; pour mon malheur il est prêtre, il est dangereux.
 
--*who_saul
-L'un et l'autre.
-Samuel, tu le sais, m'oignit malgré lui ; il fît ce qu'il put pour empêcher le peuple de choisir un prince, et dès que je fus élu, il devint le plus cruel de tous mes ennemis.
-
--*who_baza
-Vous deviez bien vous y attendre ; il était prêtre, et vous étiez guerrier ; il gouvernait avant vous ; on hait toujours son successeur.
-
--*who_saul
-Eh !
-Pouvait-il espérer de gouverner plus longtemps ?
-Il avait associé à son pouvoir ses indignes enfants également corrompus et corrupteurs, qui vendaient publiquement la justice : toute la nation s'éleva contre ce gouvernement sacerdotal.
-On tira un roi au sort : les dés sacrés annoncèrent la volonté du ciel ; le peuple la ratifia, et Samuel frémit : ce n'est pas assez de haïr en moi un prince choisi par le ciel, il hait encore le prophète ; car il sait que, comme lui, j'ai le nom de voyant : que j'ai prophétisé comme lui ; et ce nouveau proverbe répandu dans Israël, Saül est aussi au rang des prophètes, n'offense que trop ses oreilles superbes : on le respecte encore ; pour mon malheur il est prêtre, il est dangereux.
-
--*who_baza
-N'est-ce pas lui qui soulève contre vous votre gendre David ?
-
--*who_saul
 Il n'est que trop vrai, et je tremble qu'il ne cabale pour donner ma couronne à ce rebelle.
 
--*who_baza
-Votre altesse royale est trop bien affermie par ses victoires, et le roi Agag, votre illustre prisonnier, vous est ici un sûr garant de la fidélité de votre peuple, également enchanté de votre victoire et de votre clémence ; voici qu'on l'amène devant votre altesse royale.
-
-**** *book_ *id_I02 *act_I *date_1763
-
--*who_agag
-Doux et puissant vainqueur, modèle des princes, qui savez vaincre et pardonner, je me jette à vos sacrés genoux ; daignez ordonner vous-même ce que je dois donner pour ma rançon ; je serai désormais un voisin, un allié fidèle, un vassal soumis ; je ne vois plus en vous qu'un bienfaiteur et un maître : je vous dois la vie, je vous devrai encore la liberté : j'admirerai, j'aimerai en vous l'image du Dieu qui punit et pardonne.
-
--*who_saul
 Illustre prince, que le malheur rend encore plus grand, je n'ai fait que mon devoir en sauvant vos jours : les rois doivent respecter leurs semblables : qui se venge après la victoire est indigne de vaincre ; je ne mets point votre personne à rançon, elle est d'un prix inestimable : soyez libre ; les tributs que vous paierez à Israël seront moins des marques de soumission que d'amitié : c'est ainsi que les rois doivent traiter ensemble.
 
--*who_agag
-Ô vertu !
-Ô grandeur de courage !
-Que vous êtes puissante sur mon coeur !
-Je vivrai, je mourrai le sujet du grand Saül, et tous mes états sont à lui.
+Samuel, quelles nouvelles m'apportez-vous ? Venez-vous de la part de Dieu, de celle du peuple, ou de la vôtre ?
 
-**** *book_ *id_I03 *act_I *date_1763
-
--*who_saul
-Samuel, quelles nouvelles m'apportez-vous ?
-Venez-vous de la part de Dieu, de celle du peuple, ou de la vôtre ?
-
--*who_samuel
-De la part de Dieu.
-
--*who_saul
 Qu'ordonne-t-il ?
 
--*who_samuel
-Il m'ordonne de vous dire qu'il s'est repenti de vous avoir fait régner.
+Dieu se repentir ! Il n'y a que ceux qui font des fautes qui se repentent ; sa sagesse éternelle ne peut être imprudente. Dieu ne peut faire des fautes.
 
--*who_saul
-Dieu se repentir !
-Il n'y a que ceux qui font des fautes qui se repentent ; sa sagesse éternelle ne peut être imprudente.
-Dieu ne peut faire des fautes.
+Eh ! Quel homme n'en commet pas ? Parlez, de quoi suis-je coupable ?
 
--*who_samuel
-Il peut se repentir d'avoir mis sur le trône ceux qui en commettent.
-
--*who_saul
-Eh !
-Quel homme n'en commet pas ?
-Parlez, de quoi suis-je coupable ?
-
--*who_samuel
-D'avoir pardonné à un roi.
-
--*who_agag
-Comment !
-La plus belle des vertus serait regardée chez vous comme un crime ?
-
--*who_samuel
-Tais-toi, ne blasphème point.
-Saül, ci-devant roi des Juifs, Dieu ne vous avait-il pas ordonné par ma bouche d'égorger tous les Amalécites, sans épargner ni les femmes, ni les filles, ni les enfants à la mamelle ?
-
--*who_agag
-Ton dieu t'avait ordonné cela !
-Tu t'es trompé, tu voulais dire ton diable.
-
--*who_samuel
-Préparez-vous à m'obéir ; et vous, Saül, avez-vous obéi à Dieu ?
-
--*who_saul
 Je n'ai pas cru qu'un tel ordre fût positif ; j'ai pensé que la bonté était le premier attribut de l'Être suprême, qu'un coeur compatissant ne pouvait lui déplaire.
 
--*who_samuel
-Vous vous êtes trompé, homme infidèle : Dieu vous réprouve, votre sceptre passera dans d'autres mains.
-
--*who_baza
-Quelle insolence !
-Seigneur, permettez-moi de punir ce prêtre barbare.
-
--*who_saul
 Gardez-vous-en bien ; ne voyez-vous pas qu'il est suivi de tout le peuple, et que nous serions lapidés, si je résistais ; car en effet, j'avais promis...
 
--*who_baza
-Vous aviez promis une chose abominable !
-
--*who_saul
 N'importe ; les Juifs sont plus abominables encore ; ils prendront la défense de Samuel contre moi.
 
--*who_baza
-Ah !
-Malheureux prince, tu n'as de courage qu'à la tête des armées.
+Eh bien donc ! Prêtres, que faut-il que je fasse ?
 
--*who_saul
-Eh bien donc !
-Prêtres, que faut-il que je fasse ?
-
--*who_samuel
-Je vais te montrer comme on obéit au Seigneur :
-Ô prêtres sacrés !
-Enfants de Lévi, déployez ici votre zèle : qu'on apporte une table, qu'on étende sur cette table ce roi, dont le prépuce est un crime devant le Seigneur.
-
--*who_agag
-Que voulez-vous de moi, impitoyables monstres ?
-
--*who_saul
 Auguste Samuel, au nom du Seigneur...
 
--*who_samuel
-Ne l'invoquez pas, vous en êtes indigne ; demeurez ici, il vous l'ordonne ; soyez témoin du sacrifice qui, peut-être, expiera votre crime.
-
--*who_agag
-Ainsi donc vous m'allez donner la mort : ô mort, que vous êtes amère !
-
--*who_samuel
-Oui, tu es gras, et ton holocauste en sera plus agréable au Seigneur.
-
--*who_agag
-Hélas !
-Saül, que je te plains, d'être soumis à de pareils monstres !
-
--*who_samuel
-Écoute, tu vas mourir : veux-tu être juif ?
-Veux-tu te faire circoncire ?
-
--*who_agag
-Et si j'étais assez faible pour être de ta religion, me donnerais-tu la vie ?
-
--*who_samuel
-Non ; tu auras la satisfaction de mourir juif, et c'est bien assez.
-
--*who_agag
-Frappez donc, bourreaux !
-
--*who_samuel
-Donnez-moi cette hache, au nom du Seigneur ; et tandis que je couperai un bras, coupez une jambe, et ainsi de suite morceau par morceau.
-
--*who_agag
-Ô mort !
-Ô tourments !
-Ô barbares !
-
--*who_saul
 Faut-il que je sois témoin d'une abomination si horrible !
 
--*who_baza
-Dieu vous punira de l'avoir soufferte.
-
--*who_samuel
-Emportez ce corps et cette table : qu'on brûle les restes de cet infidèle, et que ses chairs servent à nourrir nos serviteurs.
-Et vous, prince, apprenez à jamais qu'obéissance vaut mieux que sacrifice.
-
--*who_saul
 Je me meurs ; je ne pourrai survivre à tant d'horreurs et à tant de honte.
 
-**** *book_ *id_I04 *act_I *date_1763
-
--*who_messager
-Seigneur, pensez à votre sûreté ; David approche en armes, il est suivi de cinq cents brigands qu'il a ramassés ; vous n'avez ici qu'une garde faible.
-
--*who_baza
-Eh bien !
-Seigneur, vous le voyez : David et Samuel étaient d'intelligence : vous êtes trahi de tous cotés, mais je vous serai fidèle jusqu'à la mort : quel parti prenez-vous ?
-
--*who_saul
 Celui de combattre et de mourir.
 
-**** *book_ *id_II01 *act_II *date_1763
+Votre frère et votre mari sont des rebelles : comment ! Manger du miel un jour de bataille ! Il est bien heureux que l'armée ait pris son parti ; mais votre mari est cent fois plus méchant que lui ; je jure que je le traiterai comme Samuel a traité Agag.
 
--*who_michol
-Impitoyable époux, prétends-tu attenter à la vie de mon père, de ton bienfaiteur, de celui qui, t'ayant d'abord pris pour son joueur de harpe, te fit bientôt après son écuyer, qui enfin t'a mis dans mes bras ?
-
--*who_david
-Il est vrai, ma chère Michol, que je lui dois le bonheur de posséder vos charmes ; il m'en a coûté assez cher : il me fallut apporter à votre père deux cents prépuces de Philistins pour présent de noces : deux cents prépuces ne se trouvent pas si aisément : je fus obligé de tuer deux cents hommes pour venir à bout de cette entreprise ; et je n'avais pas la mâchoire d'âne de Samson : mais eût-il fallu combattre toutes les forces de Babylone et d'Égypte, je l'aurais fait pour vous mériter ; je vous adorais et je vous adore.
-
--*who_michol
-Et pour preuve de ton amour, tu en veux aux jours de mon père !
-
--*who_david
-Dieu m'en préserve !
-Je ne veux que lui succéder : vous savez que j'ai respecté sa vie, et que, lorsque je le rencontrai dans une caverne, je ne lui coupai que le bout de son manteau ; la vie du père de ma chère Michol me sera toujours précieuse.
-
--*who_michol
-Pourquoi donc te joindre à ses ennemis ?
-Pourquoi te souiller du crime horrible de rébellion, et te rendre par là même si indigne du trône où tu aspires ?
-Pourquoi d'un coté te joindre à Samuel, notre ennemi domestique ; et de l'autre au roi de Geth, Akis, notre ennemi déclaré ?
-
--*who_david
-Ma noble épouse, ne me condamnez pas sans m'entendre : vous savez qu'un jour, dans le village de Bethléem, Samuel répandit de l'huile sur ma tête : ainsi je suis roi, et vous êtes la femme d'un roi : si je me suis joint aux ennemis de la nation, si j'ai fait du mal à mes concitoyens, j'en ai fait davantage à ces ennemis mêmes.
-Il est vrai que j'ai engagé ma foi au roi de Geth, le généreux Akis : j'ai rassemblé cinq cents malfaiteurs perdus de dettes et de débauches, mais tous bons soldats.
-Akis nous a reçus, nous a comblés de bienfaits ; il m'a traité comme son fils, il a eu en moi une entière confiance ; mais je n'ai jamais oublié que je suis juif ; et ayant des commissions du roi Akis pour aller ravager vos terres, j'ai très souvent ravagé les siennes : j'allais dans les villages les plus éloignés, je tuais tout sans miséricorde, je ne pardonnais ni au sexe ni à l'âge, afin d'être pur devant le Seigneur ; et, afin qu'il ne se trouvât personne qui pût me déceler auprès du roi Akis, je lui amenais les boeufs, les ânes, les moutons, les chèvres des innocents agriculteurs que j'avais égorgés, et je lui disais, par un salutaire mensonge, que c'étaient les boeufs, les ânes, les moutons, et les chèvres des Juifs ; quand je trouvais quelque résistance, je faisais scier en deux, par le milieu du corps, ces insolents rebelles, ou je les écrasais sous les dents de leur herse, ou je les faisais rôtir dans des fours à brique.
-Voyez si c'est aimer sa patrie, si c'est être bon Israélite.
-
--*who_michol
-Ainsi, cruel, tu as également répandu le sang de tes frères et celui de tes alliés, tu as donc trahi également ces deux bienfaiteurs, rien ne t'est sacré ; tu trahiras ainsi ta chère Michol, qui brûle pour toi d'un si malheureux amour.
-
--*who_david
-Non, je le jure par la verge d'Aaron, par la racine de Jessé, je vous serai toujours fidèle.
-
-**** *book_ *id_II02 *act_II *date_1763
-
--*who_abigail
-Mon cher, mon tendre époux, maître de mon coeur et de ma vie, venez, sortez avec moi de ces lieux dangereux ; Saül arme contre vous, et Akis vous attend.
-
--*who_michol
-Qu'entends-je ?
-Son époux ?
-Quoi !
-Monstre de perfidie, vous me jurez un amour éternel, et vous avez pris une autre femme !
-Quelle est donc cette insolente rivale ?
-
--*who_david
-Je suis confondu.
-
--*who_abigail
-Auguste et aimable fille d'un grand roi, ne vous mettez pas en colère contre votre servante : un héros tel que David a besoin de plusieurs femmes ; et moi, je suis une jeune veuve qui ai besoin d'un mari : vous êtes obligée d'être toujours auprès du roi votre père ; il faut que David ait une compagne dans ses voyages et dans ses travaux ; ne m'enviez pas cet honneur, je vous serai toujours soumise.
-
--*who_michol
-Elle est civile et accorte du moins ; elle n'est pas comme ces concubines impertinentes qui vont toujours bravant la maîtresse de la maison : monstre, où as-tu fait cette acquisition ?
-
--*who_david
-Puisqu'il faut vous dire la vérité, ma chère Michol, j'étais à la tête de mes brigands, et usant du droit de la guerre, j'ordonnai à Nabal, mari d'Abigail, de m'apporter tout ce qu'il avait ; Nabal était un brutal qui ne savait pas les usages du monde, il me refusa insolemment : Abigail est née douce, honnête, et tendre ; elle vola tout ce qu'elle put à son mari pour me l'apporter : au bout de huit jours le brutal mourut...
-
--*who_michol
-Je m'en doutais bien.
-
--*who_david
-Et j'épousai la veuve.
-
--*who_michol
-Ainsi Abigail est mon égale : çà, dis-moi en conscience, brigand trop cher, combien as-tu de femmes ?
-
--*who_david
-Je n'en ai que dix-huit en vous comptant : ce n'est pas trop pour un brave homme.
-
--*who_michol
-Dix-huit femmes, scélérat !
-Eh !
-Que fais-tu donc de tout cela ?
-
--*who_david
-Je leur donne ce que je peux de tout ce que j'ai pillé.
-
--*who_michol
-Les voilà bien entretenues !
-Tu es comme les oiseaux de proie, qui apportent à leurs femelles des colombes à dévorer : encore n'ont-ils qu'une compagne, et il en faut dix-huit au fils de Jessé !
-
--*who_david
-Vous ne vous apercevrez jamais, ma chère Michol, que vous ayez des compagnes.
-
--*who_michol
-Va, tu promets plus que tu ne peux tenir : écoute, quoique tu en aies dix-huit, je te pardonne ; si je n'avais qu'une rivale, je serais plus difficile : cependant tu me le paieras.
-
--*who_abigail
-Auguste reine, si toutes les autres pensent comme moi, vous aurez dix-sept esclaves de plus auprès de vous.
-
-**** *book_ *id_II03 *act_II *date_1763
-
--*who_abiar
-Mon maître, que faites-vous ici entre deux femmes ?
-Saül avance de l'occident, et Akis de l'orient ; de quel côté voulez-vous marcher ?
-
--*who_david
-Du côté d'Akis, sans balancer.
-
--*who_michol
-Quoi !
-Malheureux, contre ton roi, contre mon père !
-
--*who_david
-Il le faut bien ; il y a plus à gagner avec Akis qu'avec Saül : consolez-vous, Michol ; adieu, Abigail.
-
--*who_abigail
-Non, je ne te quitte pas.
-
--*who_david
-Restez, vous dis-je ; ceci n'est pas une affaire de femme ; chaque chose a son temps, je vais combattre : priez Dieu pour moi.
-
-**** *book_ *id_II04 *act_II *date_1763
-
--*who_abigail
-Protégez-moi, noble fille de Saül ; je crois une telle action digne de votre grand coeur.
-David a encore épousé une nouvelle femme ce matin : réunissons-nous toutes deux contre nos rivales.
-
--*who_michol
-Quoi !
-Ce matin même ?
-L'impudent !
-Et comment se nomme-telle ?
-
--*who_abigail
-Alchinoam ; c'est une des plus dévergondées coquines qui soient dans toute la race de Jacob.
-
--*who_michol
-C'est une vilaine race que cette race de Jacob ; je suis fâchée d'en être ; mais, par Dieu, puisque mon mari nous traite si indignement, je le traiterai de même, et je vais, de ce pas, en épouser un autre.
-
--*who_abigail
-Allez, allez, madame ; je vous promets bien d'en faire autant, dès que je serai mécontente de lui.
-
-**** *book_ *id_II05 *act_II *date_1763
-
--*who_ebind
-Ah, princesse !
-Votre Jonathas, savez-vous ?
-
--*who_michol
-Quoi donc !
-Mon frère Jonathas ?...
-
--*who_ebind
-Est condamné à mort, dévoué au Seigneur, à l'anathème.
-
--*who_abigail
-Jonathas qui aimait tant votre mari ?
-
--*who_michol
-Il n'est plus ?
-On lui a arraché la vie ?
-
--*who_ebind
-Non, madame, il est en parfaite santé : le roi votre père, en marchant, au point du jour, contre Akis, a rencontré un petit corps de Philistins ; et, comme nous étions dix contre un, nous avons donné dessus avec courage.
-Saül, pour augmenter les forces du soldat, qui était à jeun, a ordonné que personne ne mangeât de la journée, et a juré qu'il immolerait au Seigneur le premier qui déjeunerait : Jonathas, qui ignorait cet ordre prudent, a trouvé un rayon de miel, et en a avalé la largeur de mon pouce : Saül, comme de raison, l'a condamné à mourir ; il savait ce qu'il en coûte de manquer à sa parole ; l'aventure d'Agag l'effrayait, il craignait Samuel ; enfin, Jonathas allait être offert en victime ; toute l'armée s'est soulevée contre ce parricide ; Jonathas est sauvé, et l'armée s'est mise à manger et à boire ; et, au lieu de perdre Jonathas, nous avons été défaits de Samuel.
-Il est mort d'apoplexie.
-
--*who_michol
-Tant mieux ; c'était un vilain homme.
-
--*who_abigail
-Dieu soit béni !
-
--*who_ebind
-Le roi Saül vient suivi de tous les siens ; je crois qu'il va tenir conseil dans cette chenevière, pour savoir comment il s'y prendra pour attaquer Akis et les Philistins.
-
-**** *book_ *id_II06 *act_II *date_1763
-
--*who_michol
-Mon père, faudra-t-il trembler tous les jours pour votre vie, pour celle de mes frères, et essuyer les infidélités de mon mari ?
-
--*who_saul
-Votre frère et votre mari sont des rebelles : comment !
-Manger du miel un jour de bataille !
-Il est bien heureux que l'armée ait pris son parti ; mais votre mari est cent fois plus méchant que lui ; je jure que je le traiterai comme Samuel a traité Agag.
-
--*who_abigail
-Ah !
-Madame, comme il roule les yeux, comme il grince les dents !
-Fuyons au plus vite ; votre père est fou, ou je me trompe.
-
--*who_michol
-Il est quelquefois possédé du diable.
-
--*who_saul
 Ma fille, qui est cette drôlesse-là ?
 
--*who_michol
-C'est une des femmes de votre gendre David, que vous avez autrefois tant aimé.
-
--*who_saul
 Elle est assez jolie : je la prendrai pour moi, au sortir de la bataille.
 
--*who_abigail
-Ah !
-Le méchant homme !
-On voit bien qu'il est réprouvé.
-
--*who_michol
-Mon père, je vois que votre mal vous prend ; si David était ici, il vous jouerait de la harpe ; car vous savez que la harpe est un spécifique contre les vapeurs hypocondriaques.
-
--*who_saul
 Taisez-vous, vous êtes une sotte ; je sais mieux que vous ce que j'ai à faire.
 
--*who_abigail
-Ah !
-Madame, comme il est méchant !
-Il est plus fou que jamais ; retirons-nous au plus vite.
-
--*who_michol
-C'est cette malheureuse boucherie d'Agag qui lui a donné des vapeurs ; dérobons-nous à sa furie.
-
-**** *book_ *id_II07 *act_II *date_1763
-
--*who_saul
 Mes capitaines, allez m'attendre ; Baza, demeurez : vous me voyez dans un mortel embarras ; j'ai mes vapeurs, il faut combattre : nous avons de puissants ennemis ; ils sont derrière la montagne de Gelboé ; je voudrais bien savoir quelle sera l'issue de cette bataille.
 
--*who_baza
-Eh, seigneur !
-Il n'y a rien de plus aisé ; n'êtes-vous pas prophète tout comme un autre ?
-N'avez-vous pas même des vapeurs qui sont un véritable avant coureur des prophéties ?
-
--*who_saul
 Il est vrai, mais depuis quelque temps le Seigneur ne me répond plus ; je ne sais ce que j'ai : as-tu fait venir la pythonisse d'Endor ?
 
--*who_baza
-Oui, mon maître ; mais croyez-vous que le Seigneur lui réponde plutôt qu'à vous ?
-
--*who_saul
 Oui, sans doute, car elle a un esprit de Python.
 
--*who_baza
-Un esprit de Python, mon maître !
-Quelle espèce est cela ?
-
--*who_saul
 Ma foi, je n'en sais rien ; mais on dit que c'est une femme fort habile : j'aurais envie de consulter l'ombre de Samuel.
 
--*who_baza
-Vous feriez bien mieux de vous mettre à la tête de vos troupes : comment consulte-t-on une ombre ?
-
--*who_saul
 La pythonisse les fait sortir de la terre, et l'on voit à leur mine si l'on sera heureux ou malheureux.
 
--*who_baza
-Il a perdu l'esprit !
-Seigneur, au nom de Dieu, ne vous amusez point à toutes ces sottises, et allons mettre vos troupes en bataille.
-
--*who_saul
 Reste ici ; il faut absolument que nous voyions une ombre : voilà la pythonisse qui arrive : garde-toi de me faire reconnaître ; elle me prend pour un capitaine de mon armée.
 
-**** *book_ *id_II08 *act_II *date_1763
-
--*who_lapythonisse
-Quel mortel veut arracher les secrets du destin à l'abîme qui les couvre ?
-Qui de vous deux s'adresse à moi pour connaître l'avenir ?
-
--*who_baza
-C'est mon capitaine : ne devrais-tu pas le savoir, puisque tu es sorcière ?
-
--*who_lapythonisse
-C'est donc pour vous que je forcerai la nature à interrompre le cours de ses lois éternelles ?
-Combien me donnerez-vous ?
-
--*who_saul
 Un écu : et te voilà payée d'avance, vieille sorcière.
 
--*who_lapythonisse
-Vous en aurez pour votre argent.
-Les magiciens de Pharaon n'étaient auprès de moi que des ignorants ; ils se bornaient à changer en sang les eaux du Nil, je vais en faire davantage ; et premièrement je commande au soleil de paraître.
-
--*who_baza
-En plein midi !
-Quel miracle !
-
--*who_lapythonisse
-Je vois quelque chose sur la terre.
-
--*who_saul
 N'est-ce pas une ombre ?
 
--*who_lapythonisse
-Oui, une ombre.
-
--*who_saul
 Comment est-elle faite ?
 
--*who_lapythonisse
-Comme une ombre.
-
--*who_saul
 N'a-t-elle pas une grande barbe ?
 
--*who_lapythonisse
-Oui, un grand manteau et une grande barbe.
-
--*who_saul
 Une barbe blanche ?
 
--*who_lapythonisse
-Blanche comme de la neige.
-
--*who_saul
 Justement, c'est l'ombre de Samuel ; elle doit avoir l'air bien méchant ?
 
--*who_lapythonisse
-Oh !
-L'on ne change jamais de caractère : elle vous menace, elle vous fait des yeux horribles.
+Ah ! Je suis perdu.
 
--*who_saul
-Ah !
-Je suis perdu.
-
--*who_baza
-Eh, Seigneur !
-Pouvez-vous vous amuser à ces fadaises ?
-N'entendez-vous pas le son des trompettes ?
-Les Philistins approchent.
-
--*who_saul
 Allons donc ; mais le coeur ne me dit rien de bon.
 
--*who_lapythonisse
-Au moins j'ai son argent ; mais voilà un sot capitaine.
 
-**** *book_ *id_III01 *act_III *date_1763
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
 
--*who_david
-Saül a donc été tué, mes amis ?
-Son fils Jonathas aussi ?
-Et je suis roi d'une petite partie du pays légitimement ?
+Il est vrai, ma chère Michol, que je lui dois le bonheur de posséder vos charmes ; il m'en a coûté assez cher : il me fallut apporter à votre père deux cents prépuces de Philistins pour présent de noces : deux cents prépuces ne se trouvent pas si aisément : je fus obligé de tuer deux cents hommes pour venir à bout de cette entreprise ; et je n'avais pas la mâchoire d'âne de Samson : mais eût-il fallu combattre toutes les forces de Babylone et d'Égypte, je l'aurais fait pour vous mériter ; je vous adorais et je vous adore.
 
--*who_joab
-Oui, milord ; votre altesse royale a très bien fait de faire pendre celui qui vous a apporté la nouvelle de la mort de Saül ; car il n'est jamais permis de dire qu'un roi est mort : cet acte de justice vous conciliera tous les esprits ; il fera voir qu'au fond vous aimiez votre beau-père, et que vous êtes un bon homme.
+Dieu m'en préserve ! Je ne veux que lui succéder : vous savez que j'ai respecté sa vie, et que, lorsque je le rencontrai dans une caverne, je ne lui coupai que le bout de son manteau ; la vie du père de ma chère Michol me sera toujours précieuse.
 
--*who_david
+Ma noble épouse, ne me condamnez pas sans m'entendre : vous savez qu'un jour, dans le village de Bethléem, Samuel répandit de l'huile sur ma tête : ainsi je suis roi, et vous êtes la femme d'un roi : si je me suis joint aux ennemis de la nation, si j'ai fait du mal à mes concitoyens, j'en ai fait davantage à ces ennemis mêmes. Il est vrai que j'ai engagé ma foi au roi de Geth, le généreux Akis : j'ai rassemblé cinq cents malfaiteurs perdus de dettes et de débauches, mais tous bons soldats. Akis nous a reçus, nous a comblés de bienfaits ; il m'a traité comme son fils, il a eu en moi une entière confiance ; mais je n'ai jamais oublié que je suis juif ; et ayant des commissions du roi Akis pour aller ravager vos terres, j'ai très souvent ravagé les siennes : j'allais dans les villages les plus éloignés, je tuais tout sans miséricorde, je ne pardonnais ni au sexe ni à l'âge, afin d'être pur devant le Seigneur ; et, afin qu'il ne se trouvât personne qui pût me déceler auprès du roi Akis, je lui amenais les boeufs, les ânes, les moutons, les chèvres des innocents agriculteurs que j'avais égorgés, et je lui disais, par un salutaire mensonge, que c'étaient les boeufs, les ânes, les moutons, et les chèvres des Juifs ; quand je trouvais quelque résistance, je faisais scier en deux, par le milieu du corps, ces insolents rebelles, ou je les écrasais sous les dents de leur herse, ou je les faisais rôtir dans des fours à brique. Voyez si c'est aimer sa patrie, si c'est être bon Israélite.
+
+Non, je le jure par la verge d'Aaron, par la racine de Jessé, je vous serai toujours fidèle.
+
+Je suis confondu.
+
+Puisqu'il faut vous dire la vérité, ma chère Michol, j'étais à la tête de mes brigands, et usant du droit de la guerre, j'ordonnai à Nabal, mari d'Abigail, de m'apporter tout ce qu'il avait ; Nabal était un brutal qui ne savait pas les usages du monde, il me refusa insolemment : Abigail est née douce, honnête, et tendre ; elle vola tout ce qu'elle put à son mari pour me l'apporter : au bout de huit jours le brutal mourut...
+
+Et j'épousai la veuve.
+
+Je n'en ai que dix-huit en vous comptant : ce n'est pas trop pour un brave homme.
+
+Je leur donne ce que je peux de tout ce que j'ai pillé.
+
+Vous ne vous apercevrez jamais, ma chère Michol, que vous ayez des compagnes.
+
+Du côté d'Akis, sans balancer.
+
+Il le faut bien ; il y a plus à gagner avec Akis qu'avec Saül : consolez-vous, Michol ; adieu, Abigail.
+
+Restez, vous dis-je ; ceci n'est pas une affaire de femme ; chaque chose a son temps, je vais combattre : priez Dieu pour moi.
+
+Saül a donc été tué, mes amis ? Son fils Jonathas aussi ? Et je suis roi d'une petite partie du pays légitimement ?
+
 Oui ; mais Saül laisse des enfants : Isboseth, son fils, règne déjà sur plusieurs tribus ; comment faire ?
 
--*who_joab
-Ne vous mettez point en peine ; je connais deux coquins qui doivent assassiner Isboseth, s'ils ne l'ont déjà fait ; vous les ferez pendre tous deux, et vous régnerez sur Juda et Israël.
+Dites-moi un peu, vous autres, Saül a-t-il laissé beaucoup d'argent ? Serai-je bien riche ?
 
--*who_david
-Dites-moi un peu, vous autres, Saül a-t-il laissé beaucoup d'argent ?
-Serai-je bien riche ?
-
--*who_abiezer
-Hélas !
-Nous n'avons pas le sou ; vous savez qu'il y a deux ans, quand Saül fut élu roi, nous n'avions pas de quoi acheter des armes ; il n'y avait que deux sabres dans tout l'état, encore étaient-ils tout rouillés : les Philistins, dont nous avons presque tous été les esclaves, ne nous laissèrent pas dans nos chaumières seulement un morceau de fer pour raccommoder nos charrues ; aussi nos charrues nous sont-elles fort inutiles dans un mauvais pays pierreux, hérissé de montagnes pelées, où il n'y a que quelques oliviers avec un peu de raisin : nous n'avions pris au roi Agag que des boeufs, des chèvres et des moutons, parce que c'était là tout ce qu'il avait ; je ne crois pas que nous puissions trouver dix écus dans toute la Judée ; il y a quelques usuriers qui rognent les espèces à Tyr et à Damas ; mais ils se feraient empaler plutôt que de vous prêter un denier.
-
--*who_david
 S'est-on emparé du petit village de Salem et de son château ?
 
--*who_joab
-Oui, milord.
-
--*who_abiezer
-J'en suis fâché, cette violence peut décrier notre nouveau gouvernement.
-Salem appartient de tout temps aux Jébuséens, avec qui nous ne sommes point en guerre ; c'est un lieu saint ; car Melchisédech était autrefois roi de ce village.
-
--*who_david
 Il n'y a point de Melchisédech qui tienne : j'en ferai une bonne forteresse ; je l'appellerai Hérus-Chalaïm ; ce sera le lieu de ma résidence ; nos enfants seront multipliés comme le sable de la mer, et nous régnerons sur le monde entier.
 
--*who_joab
-Eh !
-Seigneur, vous n'y pensez pas ! cet endroit est une espèce de désert, où il n'y a que des cailloux à deux lieues à la ronde.
-On y manque d'eau ; il n'y a qu'un petit malheureux torrent de Cédron qui est à sec six mois de l'année : que n'allons-nous plutôt sur les grands chemins de Tyr, vers Damas, vers Babylone ?
-Il y aurait là de beaux coups à faire.
-
--*who_david
 Oui, mais tous les peuples de ce pays-là sont puissants, nous risquerions de nous faire pendre : enfin, le Seigneur m'a donné Hérus-Chalaïm, j'y demeurerai, et j'y louerai le Seigneur.
 
--*who_messager
-Milord, deux de vos serviteurs viennent d'assassiner Isboseth, qui avait l'insolence de vouloir succéder à son père, et de vous disputer le trône ; on l'a jeté par les fenêtres ; il nage dans son sang ; les tribus qui lui obéissaient ont fait serment de vous obéir, et l'on vous amène sa soeur Michol votre femme, qui vous avait abandonné, et qui venait de se marier à Phaltiel, fils de Saïs.
+On aurait mieux fait de la laisser avec lui ; que veut-on que je fasse de cette bégueule-là ? Allez, mon cher Joab, qu'on l'enferme ; allez, mes amis, allez saisir tout ce que possédait Isboseth, apportez-le-moi, nous le partagerons ; vous, Joab, ne manquez pas de faire pendre ceux qui m'ont délivré d'Isboseth, et qui m'ont rendu ce signalé service ; marchez tous devant le Seigneur avec confiance ; j'ai ici quelques petites affaires un peu pressées : je vous rejoindrai dans peu de temps pour rendre tous ensemble des actions de grâces au Dieu des armées qui a donné la force à mon bras, et qui a mis sous mes pieds le basilic et le dragon.
 
--*who_david
-On aurait mieux fait de la laisser avec lui ; que veut-on que je fasse de cette bégueule-là ?
-Allez, mon cher Joab, qu'on l'enferme ; allez, mes amis, allez saisir tout ce que possédait Isboseth, apportez-le-moi, nous le partagerons ; vous, Joab, ne manquez pas de faire pendre ceux qui m'ont délivré d'Isboseth, et qui m'ont rendu ce signalé service ; marchez tous devant le Seigneur avec confiance ; j'ai ici quelques petites affaires un peu pressées : je vous rejoindrai dans peu de temps pour rendre tous ensemble des actions de grâces au Dieu des armées qui a donné la force à mon bras, et qui a mis sous mes pieds le basilic et le dragon.
-
--*who_capitaines
-Huzza !
-Huzza !
-Longue vie à David, notre bon roi, l'oint du Seigneur, le père de son peuple.
-
--*who_david
 Faites entrer Bethsabée.
 
-**** *book_ *id_III02 *act_III *date_1763
-
--*who_david
 Ma chère Bethsabée, je ne veux plus aimer que vous : vos dents sont comme un mouton qui sort du lavoir ; votre gorge est comme une grappe de raisin, votre nez comme la tour du mont Liban ; le royaume que le Seigneur m'a donné ne vaut pas un de vos embrassements : Michol, Abigail, et toutes mes autres femmes, sont dignes tout au plus d'être vos servantes.
 
--*who_bethsabee
-Hélas, milord !
-Vous en disiez ce matin autant à la jeune Abigail.
+Il est vrai, elle peut me plaire un moment ; mais vous êtes ma maîtresse de toutes les heures ; je vous donnerai des robes, des vaches, des chèvres, des moutons ; car pour de l'argent, je n'en ai point encore ; mais vous en aurez quand j'en aurai volé dans mes courses sur les grands chemins, soit vers le pays des Phéniciens, soit vers Damas, soit vers Tyr. Qu'avez-vous, ma chère Bethsabée ? Vous pleurez ?
 
--*who_david
-Il est vrai, elle peut me plaire un moment ; mais vous êtes ma maîtresse de toutes les heures ; je vous donnerai des robes, des vaches, des chèvres, des moutons ; car pour de l'argent, je n'en ai point encore ; mais vous en aurez quand j'en aurai volé dans mes courses sur les grands chemins, soit vers le pays des Phéniciens, soit vers Damas, soit vers Tyr.
-Qu'avez-vous, ma chère Bethsabée ?
-Vous pleurez ?
-
--*who_bethsabee
-Hélas !
-Oui, milord.
-
--*who_david
 Quelqu'une de mes femmes ou de mes concubines a-t-elle osé vous maltraiter ?
 
--*who_bethsabee
-Non.
-
--*who_david
 Quel est donc votre chagrin ?
 
--*who_bethsabee
-Milord, je suis grosse ; mon mari Urie n'a pas couché avec moi depuis un mois ; et s'il s'aperçoit de ma grossesse, je crains d'être battue.
+Eh ! Que ne l'avez-vous fait coucher avec vous ?
 
--*who_david
-Eh !
-Que ne l'avez-vous fait coucher avec vous ?
-
--*who_bethsabee
-Hélas !
-J'ai fait ce que j'ai pu ; mais il me dit qu'il veut toujours rester auprès de vous : vous savez qu'il vous est tendrement attaché ; c'est un des meilleurs officiers de votre armée ; il veille auprès de votre personne quand les autres dorment ; il se met au-devant de vous quand les autres lâchent le pied ; s'il fait quelque bon butin, il vous l'apporte : enfin, il vous préfère à moi.
-
--*who_david
 Voilà une insupportable chenille : rien n'est si odieux que ces gens empressés, qui veulent toujours rendre service sans en être priés : allez, allez, je vous déferai bientôt de cet importun : qu'on me donne une table et des tablettes pour écrire.
 
--*who_bethsabee
-Milord, pour des tables, vous savez qu'il n'y en a point ici ; mais voici mes tablettes avec un poinçon, vous pouvez écrire sur mes genoux.
+Allons, écrivons : « Appui de ma couronne, comme moi serviteur de Dieu, notre féal Urie vous rendra cette missive : marchez avec lui, sitôt cette présente reçue, contre le corps des Philistins qui est au bout de la vallée d'Hébron ; placez le féal Urie au premier rang, abandonnez-le dès qu'on aura tiré la première flèche, de façon qu'il soit tué par les ennemis ; et s'il n'est pas frappé par-devant, ayez soin de le faire assassiner parderrière ; le tout pour le besoin de l'état : Dieu vous ait en sa sainte garde ! Votre bon roi David. »
 
--*who_david
-Allons, écrivons :
-    « Appui de ma couronne, comme moi serviteur de Dieu, notre féal Urie vous rendra cette missive : marchez avec lui, sitôt cette présente reçue, contre le corps des Philistins qui est au bout de la vallée d'Hébron ; placez le féal Urie au premier rang, abandonnez-le dès qu'on aura tiré la première flèche, de façon qu'il soit tué par les ennemis ; et s'il n'est pas frappé par-devant, ayez soin de le faire assassiner parderrière ; le tout pour le besoin de l'état : Dieu vous ait en sa sainte garde !
-Votre bon roi David. »
-
--*who_bethsabee
-Eh !
-Bon Dieu !
-Vous voulez faire tuer mon pauvre mari ?
-
--*who_david
 Ma chère enfant, ce sont de ces petites sévérités auxquelles on est quelquefois obligé de se prêter ; c'est un petit mal pour un grand bien, uniquement dans l'intention d'éviter le scandale.
 
--*who_bethsabee
-Hélas !
-Votre servante n'a rien à répliquer ; soit fait selon votre parole.
-
--*who_david
 Qu'on m'appelle le bonhomme Urie.
 
--*who_bethsabee
-Hélas !
-Que voulez-vous lui dire ?
-Pourrai-je soutenir sa présence ?
-
--*who_david
 Ne vous troublez pas.
 Tenez, mon cher Urie, portez cette lettre à mon capitaine Joab, et méritez toujours les bonnes grâces de l'oint du Seigneur.
 
--*who_urie
-J'obéis avec joie à ses commandements ; mes pieds, mon bras, ma vie, sont à son service : je voudrais mourir pour lui prouver mon zèle.
-
--*who_david
 Vous serez exaucé, mon cher Urie.
 
--*who_urie
-Adieu, ma chère Bethsabée ; soyez toujours aussi attachée que moi à notre maître.
-
--*who_bethsabee
-C'est ce que je fais, mon bon mari.
-
--*who_david
 Demeurez ici, ma bien-aimée ; je suis obligé d'aller donner des ordres à peu près semblables, pour le bien du royaume ; je reviens à vous dans un moment.
 
--*who_bethsabee
-Non, cher amant, je ne vous quitte pas.
+Ah ! Je veux bien que les femmes soient maîtresses au lit : mais partout ailleurs je veux qu'elles obéissent.
 
--*who_david
-Ah !
-Je veux bien que les femmes soient maîtresses au lit : mais partout ailleurs je veux qu'elles obéissent.
+Paix-là donc, paix-là : êtes-vous folles, vous autres ? Il est bien question de vous quereller, quand l'horreur des horreurs est sur ma maison.
 
-**** *book_ *id_IV01 *act_IV *date_1763
-
--*who_abigail
-Bethsabée, Bethsabée, c'est donc ainsi que vous m'enlevez le coeur de monseigneur ?
-
--*who_bethsabee
-Vous voyez que je ne vous enlève rien, puisqu'il me quitte, et que je ne peux l'arrêter.
-
--*who_abigail
-Vous ne l'arrêtez que trop, perfide, dans les filets de votre méchanceté : tout Israël dit que vous êtes grosse de lui.
-
--*who_bethsabee
-Eh bien !
-Quand cela serait, madame, est-ce à vous à me le reprocher ?
-N'en avez-vous pas fait autant ?
-
--*who_abigail
-Cela est bien différent, madame ; j'ai l'honneur d'être son épouse.
-
--*who_bethsabee
-Voilà un plaisant mariage ; on sait que vous avez empoisonné Nabal votre mari, pour épouser David, lorsqu'il n'était encore que capitaine.
-
--*who_abigail
-Point de reproches, madame, s'il vous plaît ; vous en feriez bien autant du bonhomme Urie, pour devenir reine ; mais sachez que je vais tout lui découvrir.
-
--*who_bethsabee
-Je vous en défie.
-
--*who_abigail
-C'est-à-dire que la chose est déjà faite.
-
--*who_bethsabee
-Quoi qu'il en soit, je serai votre reine, et je vous apprendrai à me respecter.
-
--*who_abigail
-Moi, vous respecter, madame !
-
--*who_bethsabee
-Oui, madame.
-
--*who_abigail
-Ah !
-Madame, la Judée produira du froment au lieu de seigle, et on aura des chevaux au lieu d'ânes pour monter, avant que je sois réduite à cette ignominie : il appartient bien à une femme comme vous de faire l'impertinente avec moi !
-
--*who_bethsabee
-Si je m'en croyais, une paire de soufflets...
-
--*who_abigail
-Ne vous en avisez pas, madame ; j'ai le bras bon, et je vous rosserais d'une manière...
-
-**** *book_ *id_IV02 *act_IV *date_1763
-
--*who_david
-Paix-là donc, paix-là : êtes-vous folles, vous autres ?
-Il est bien question de vous quereller, quand l'horreur des horreurs est sur ma maison.
-
--*who_bethsabee
-Quoi donc, mon cher amant !
-Qu'est-il arrivé ?
-
--*who_abigail
-Mon cher mari, y a-t-il quelque nouveau malheur ?
-
--*who_david
 Voilà-t-il pas que mon fils Ammon, que vous connaissez, s'est avisé de violer sa soeur Thamar, et l'a ensuite chassée de sa chambre à grands coups de pied dans le cul !
 
--*who_abigail
-Quoi donc !
-N'est-ce que cela ?
-Je croyais à votre air effaré qu'il vous avait volé votre argent.
-
--*who_david
 Ce n'est pas tout ; mon autre fils Absalon, quand il a vu cette tracasserie, s'est mis à tuer mon fils Ammon : je me suis fâché contre mon fils Absalon ; il s'est révolté contre moi, m'a chassé de ma ville de Hérus-Chalaïm, et me voilà sur le pavé.
 
--*who_bethsabee
-Oh !
-Ce sont des choses sérieuses cela.
+Hélas ! Oui ; et, pour preuve qu'il est oint, il a couché sur la terrasse du fort avec toutes mes femmes l'une après l'autre.
 
--*who_abigail
-La vilaine famille que la famille de David !
-Tu n'as donc plus rien, brigand ?
-Ton fils est oint à ta place.
+Voilà donc cette Abigail que j'avais crue si douce ! Ah ! Qui compte sur une femme, compte sur le vent : et vous, ma chère Bethsabée, m'abandonnerez-vous aussi ?
 
--*who_david
-Hélas !
-Oui ; et, pour preuve qu'il est oint, il a couché sur la terrasse du fort avec toutes mes femmes l'une après l'autre.
-
--*who_abigail
-Ô ciel !
-Que n'étais-je là !
-J'aurais bien mieux aime coucher avec ton fils Absalon qu'avec toi, vilain voleur, que j'abandonne à jamais : il a des cheveux qui lui vont jusqu'à la ceinture, et dont il vend des rognures pour deux cents écus par an, au moins : il est jeune, il est aimable, et tu n'es qu'un barbare débauché, qui te moques de Dieu, des hommes, et des femmes : va, je renonce désormais à toi, et je me donne à ton fils Absalon, ou au premier Philistin que je rencontrerai.
-Adieu, madame.
-
--*who_bethsabee
-Votre servante, madame.
-
-**** *book_ *id_IV03 *act_IV *date_1763
-
--*who_david
-Voilà donc cette Abigail que j'avais crue si douce !
-Ah !
-Qui compte sur une femme, compte sur le vent : et vous, ma chère Bethsabée, m'abandonnerez-vous aussi ?
-
--*who_bethsabee
-Hélas !
-C'est ainsi que finissent tous les mariages de cette espèce : que voulez-vous que je devienne si votre fils Absalon règne ?
-Et si Urie, mon mari, sait que vous avez voulu l'assassiner, vous voilà perdu et moi aussi.
-
--*who_david
 Ne craignez rien ; Urie est dépêché ; mon ami Joab est expéditif.
 
--*who_bethsabee
-Quoi !
-Mon pauvre mari est donc assassiné ? hi, hi, hi.
-Ho, hi, ha.
+Quoi ! Vous pleurez le bonhomme ?
 
--*who_david
-Quoi !
-Vous pleurez le bonhomme ?
+La sotte chose que les femmes ! Elles souhaitent la mort de leurs maris, elles la demandent ; et, quand elles l'ont obtenue, elles se mettent à pleurer.
 
--*who_bethsabee
-Je ne peux m'en empêcher.
+Eh bien ! Joab, en quel état sont les choses ? Qu'est devenu ce coquin d'Absalon ?
 
--*who_david
-La sotte chose que les femmes !
-Elles souhaitent la mort de leurs maris, elles la demandent ; et, quand elles l'ont obtenue, elles se mettent à pleurer.
+Ah ! Absalon mon fils ! Hi, hi, ho, ho, hi.
 
--*who_bethsabee
-Pardonnez cette petite cérémonie.
-
-**** *book_ *id_IV04 *act_IV *date_1763
-
--*who_david
-Eh bien !
-Joab, en quel état sont les choses ?
-Qu'est devenu ce coquin d'Absalon ?
-
--*who_joab
-Par Sabaoth, je l'ai envoyé avec Urie ; je l'ai trouvé qui pendait à un arbre par les cheveux, et je l'ai bravement percé de trois dards.
-
--*who_david
-Ah !
-Absalon mon fils !
-Hi, hi, ho, ho, hi.
-
--*who_bethsabee
-Voilà-t-il pas que vous pleurez votre fils comme j'ai pleuré mon mari !
-Chacun a sa faiblesse.
-
--*who_david
 On ne peut pas dompter tout à fait la nature, quelque juif qu'on soit ; mais cela passe, et le train des affaires emporte bien vite ailleurs.
 
-**** *book_ *id_IV05 *act_IV *date_1763
-
--*who_bethsabee
-Eh !
-Voilà Nathan le voyant, Dieu me pardonne !
-Que vient-il faire ici ?
-
--*who_nathan
-Sire, écoutez et jugez : Il y avait un riche qui possédait cent brebis, et il y avait un pauvre qui n'en avait qu'une ; le riche a pris la brebis, et a tué le pauvre : que faut-il faire du riche ?
-
--*who_david
 Certainement il faut qu'il rende quatre brebis.
 
--*who_nathan
-Sire, vous êtes le riche, Urie était le pauvre, et Bethsabée est la brebis.
+Ah ! J'ai péché, j'ai péché, j'ai péché.
 
--*who_bethsabee
-Moi, brebis !
-
--*who_david
-Ah !
-J'ai péché, j'ai péché, j'ai péché.
-
--*who_nathan
-Bon, puisque vous l'avouez, le Seigneur va transférer votre péché : c'est bien assez qu'Absalon ait couché avec toutes vos femmes : épousez la belle Bethsabée ; un des fils que vous aurez d'elle régnera sur tout Israël : je le nommerai aimable, et les enfants des femmes légitimes et honnêtes seront massacrés.
-
--*who_bethsabee
-Par Adonaï, tu es un charmant prophète ; viens çà que je t'embrasse.
-
--*who_david
-Eh !
-La, la, doucement : qu'on donne à boire au prophète ; réjouissons-nous, nous autres : allons, puisque tout va bien, je veux faire des chansons gaillardes ; qu'on me donne ma harpe.
+Eh ! La, la, doucement : qu'on donne à boire au prophète ; réjouissons-nous, nous autres : allons, puisque tout va bien, je veux faire des chansons gaillardes ; qu'on me donne ma harpe.
 Chers Hébreux, par le ciel envoyés,
 Dans le sang vous baignerez vos pieds ;
 Et vos chiens s'engraisseront
@@ -873,274 +183,451 @@ Contre le mur de l'infidèle ;
 Et vos chiens s'engraisseront
 De ce sang qu'ils lécheront.
 
--*who_bethsabee
-Sont-ce là vos chansons gaillardes ?
-
--*who_david
 Et vos chiens s'engraisseront
 De ce sang qu'ils lécheront.
 
--*who_bethsabee
-Finissez donc vos airs de corps-de-garde ; cela est abominable : il n'y a point de sauvage qui voulût chanter de telles horreurs : les bouchers des peuples de Gog et de Magog en auraient honte.
-
--*who_david
 Et les chiens s'engraisseront
 De ce sang qu'ils lécheront.
 
--*who_bethsabee
-Je m'en vais, si vous continuez à chanter ainsi, et à sauter comme un ivrogne : vous montrez tout ce que vous portez : fi !
-Quelles manières !
-
--*who_david
 Je danserai, oui, je danserai ; je serai encore plus méprisable, je danserai devant des servantes ; je montrerai tout ce que je porte, et ce me sera gloire devant les filles.
 
--*who_joab
-À présent que vous avez bien dansé, il faudrait mettre ordre à vos affaires.
-
--*who_david
 Oui, vous avez raison, il y a temps pour tout : retournons à Hérus-Chalaïm.
 
--*who_joab
-Vous aurez toujours la guerre ; il faudrait avoir quelque argent de réserve, et savoir combien vous avez de sujets qui puissent marcher en campagne, et combien il en restera pour la culture des terres.
-
--*who_david
 Le conseil est très sensé : allons, Bethsabée, allons régner, m'amour.
 Et les chiens s'engraisseront
 De ce sang qu'ils lécheront.
 
-**** *book_ *id_V01 *act_V *date_1763
-
--*who_david
 Six cent quatre-vingt-quatorze schellings et demi d'une part, et de l'autre cent treize un quart, font huit cent sept schellings trois quarts : c'est donc là tout ce qu'on a trouvé dans mon trésor ; il n'y a pas là de quoi payer une journée à mes gens.
 
--*who_unclercdelatresorerie
-Milord, le temps est dur.
-
--*who_david
 Et vous l'êtes encore bien davantage : il me faut de l'argent, entendez-vous ?
 
--*who_joab
-Milord, votre altesse royale est volée comme tous les autres rois : les gens de l'échiquier, les fournisseurs de l'armée, pillent tous ; ils font bonne chère à nos dépens, et le soldat meurt de faim.
-
--*who_david
 Je les ferai scier en deux ; en effet, aujourd'hui nous avons fait la plus mauvaise chère du monde.
 
--*who_joab
-Cela n'empêche pas que ces fripons-là ne vous comptent tous les jours pour votre table trente boeufs gras, cent moutons gras, autant de cerfs, de chevreuils, de boeufs sauvages, et de chapons ; trente tonneaux de fleur de farine, et soixante tonneaux de farine ordinaire.
-
--*who_david
 Arrêtez donc, vous voulez rire ; il y aurait là de quoi nourrir six mois toute la cour du roi d'Assyrie, et toute celle du roi des Indes.
 
--*who_joab
-Rien n'est pourtant plus vrai ; car cela est écrit dans vos livres.
+Quoi ! Tandis que je n'ai pas de quoi payer mon boucher ?
 
--*who_david
-Quoi !
-Tandis que je n'ai pas de quoi payer mon boucher ?
-
--*who_joab
-C'est qu'on vole votre altesse royale, comme j'ai déjà eu l'honneur de vous le dire.
-
--*who_david
 Combien crois-tu que je doive avoir d'argent comptant entre les mains de mon contrôleur-général ?
 
--*who_joab
-Milord, vos livres font foi que vous avez cent huit mille talents d'or, deux millions vingt-quatre mille talents d'argent, et dix mille drachmes d'or ; ce qui fait au juste, au plus bas prix du change, un milliard trois cent vingt millions cinquante mille livres sterling.
-
--*who_david
 Tu es fou, je pense : toute la terre ne pourrait fournir le quart de ces richesses : comment veux-tu que j'aie amassé ce trésor dans un aussi petit pays qui n'a jamais fait le moindre commerce ?
 
--*who_joab
-Je n'en sais rien, je ne suis pas financier.
-
--*who_david
 Vous ne me dites que des sottises tous tant que vous êtes : je saurai mon compte avant qu'il soit peu ; et vous, Yesès, a-t-on fait le dénombrement du peuple ?
 
--*who_yeses
-Oui, milord, vous avez onze cent mille hommes d'Israël, et quatre cent soixante-dix mille de Juda, d'enrôlés pour marcher contre vos ennemis.
+Comment ! J'aurais quinze cent soixante-dix mille hommes sous les armes ? Cela est difficile dans un pays qui, jusqu'à présent, n'a pu nourrir trente mille âmes : à ce compte, en prenant un soldat par dix personnes, cela ferait quinze millions sept cent mille sujets dans mon empire : celui de Babylone n'en a pas tant.
 
--*who_david
-Comment !
-J'aurais quinze cent soixante-dix mille hommes sous les armes ?
-Cela est difficile dans un pays qui, jusqu'à présent, n'a pu nourrir trente mille âmes : à ce compte, en prenant un soldat par dix personnes, cela ferait quinze millions sept cent mille sujets dans mon empire : celui de Babylone n'en a pas tant.
+Ah ! Que de balivernes ! Je veux savoir absolument combien j'ai de sujets ; on ne m'en fera pas accroire ; je ne crois pas que nous soyons trente mille.
 
--*who_joab
-C'est là le miracle.
-
--*who_david
-Ah !
-Que de balivernes !
-Je veux savoir absolument combien j'ai de sujets ; on ne m'en fera pas accroire ; je ne crois pas que nous soyons trente mille.
-
--*who_unofficier
-Voilà votre chapelain ordinaire, le révérend docteur Gag, qui vient de la part du Seigneur parler à votre altesse royale.
-
--*who_david
 On ne peut pas prendre plus mal son temps ; mais qu'il entre.
 
-**** *book_ *id_V02 *act_V *date_1763
-
--*who_david
 Que voulez-vous, docteur Gag ?
 
--*who_gag
-Je viens vous dire que vous avez commis un grand péché.
+Comment ? En quoi ? S'il vous plaît.
 
--*who_david
-Comment ?
-En quoi ?
-S'il vous plaît.
+Que veux-tu donc dire, fou que tu es ? Y a-t-il une opération plus sage et plus utile que de savoir le nombre de ses sujets ? Un berger n'est-il pas obligé de savoir le compte de ses moutons ?
 
--*who_gag
-En faisant faire le dénombrement du peuple.
-
--*who_david
-Que veux-tu donc dire, fou que tu es ?
-Y a-t-il une opération plus sage et plus utile que de savoir le nombre de ses sujets ?
-Un berger n'est-il pas obligé de savoir le compte de ses moutons ?
-
--*who_gag
-Tout cela est bel et bon ; mais Dieu vous donne à choisir de la famine, de la guerre, ou de la peste.
-
--*who_david
 Prophète de malheur, je veux au moins que tu puisses être puni de ta belle mission : j'aurais beau faire choix de la famine, vous autres prêtres, vous faites toujours bonne chère ; si je prends la guerre, vous n'y allez pas : je choisis la peste ; j'espère que tu l'auras, que tu crèveras comme tu le mérites.
 
--*who_gag
-Dieu soit béni !
-
--*who_joab
-Je ne comprends rien à tout cela : comment !
-La peste, pour avoir fait son compte ?
-
-**** *book_ *id_V03 *act_V *date_1763
-
--*who_bethsabee
-Eh !
-Milord !
-Il faut que vous ayez le diable dans le corps pour choisir la peste ; il est mort sur le champ soixante-dix mille personnes, et je crois que j'ai déjà le charbon : je tremble pour moi et pour mon fils Salomon, que je vous amène.
-
--*who_david
 J'ai pis que le charbon, je suis las de tout ceci : il faut donc que j'aie plus de pestiférés que de sujets : écoutez, je deviens vieux, vous n'êtes plus belle ; j'ai toujours froid aux pieds, il me faudrait une fille de quinze ans pour me réchauffer.
 
--*who_joab
-Parbleu, milord, j'en connais une qui sera votre fait ; elle s'appelle Abisag de Sunam.
-
--*who_david
 Qu'on me l'amène, qu'on me l'amène, qu'elle m'échauffe.
 
--*who_bethsabee
-En vérité, vous êtes un vilain débauché : fi !
-À votre âge, que voulez-vous faire d'une petite fille ?
-
--*who_joab
-Milord, la voilà qui vient, je vous la présente.
-
--*who_david
 Viens çà, petite fille, me réchaufferas-tu bien ?
 
--*who_abisag
-Oui-dà, milord, j'en ai bien réchauffé d'autres.
+Oh ! Je tiendrai ma parole ; c'est un petit garçon qui est tout-à-fait selon mon coeur, il aime déjà les femmes comme un fou : approche, petit drôle, que je t'embrasse : je te fais roi, entends-tu ?
 
--*who_bethsabee
-Voilà donc comme tu m'abandonnes ; tu ne m'aimes plus !
-Et que deviendra mon fils Salomon, à qui tu avais promis ton héritage ?
-
--*who_david
-Oh !
-Je tiendrai ma parole ; c'est un petit garçon qui est tout-à-fait selon mon coeur, il aime déjà les femmes comme un fou : approche, petit drôle, que je t'embrasse : je te fais roi, entends-tu ?
-
--*who_salomon
-Milord, j'aime bien mieux apprendre à régner sous vous.
-
--*who_david
 Voilà une jolie réponse ; je suis très content de lui : va, tu régneras bientôt, mon enfant ; car je sens que je m'affaiblis ; les femmes ont ruiné ma santé ; mais tu auras encore un plus beau sérail que moi.
 
--*who_salomon
-J'espère m'en tirer à mon honneur.
-
--*who_bethsabee
-Que mon fils a d'esprit !
-Je voudrais qu'il fût déjà sur le trône.
-
-**** *book_ *id_V04 *act_V *date_1763
-
--*who_adonias
-Mon père, je viens me jeter à vos pieds.
-
--*who_david
 Ce garçon-là ne m'a jamais plu.
 
--*who_adonias
-Mon père, j'ai deux grâces à vous demander : la première, c'est de vouloir bien me nommer votre successeur, attendu que je suis le fils d'une princesse, et que Salomon est le fruit d'une bourgeoise adultère, auquel il n'est dû, par la loi, qu'une pension alimentaire, tout au plus : ne violez pas en sa faveur les lois de toutes les nations.
+Vous avez raison. Quelle est l'autre grâce que tu veux, petit misérable ?
 
--*who_bethsabee
-Ce petit oursin-là mériterait bien qu'on le jetât par la fenêtre.
-
--*who_david
-Vous avez raison.
-Quelle est l'autre grâce que tu veux, petit misérable ?
-
--*who_adonias
-Milord, c'est la jeune Abisag de Sunam qui ne vous sert à rien ; je l'aime éperdument, et je vous prie de me la donner par testament.
-
--*who_david
 Ce coquin-là me fera mourir de chagrin ; je sens que je m'affaiblis, je n'en puis plus : réchauffez-moi un peu, Abisag.
 
--*who_abisag
-Je fais ce que je peux, mais vous êtes froid comme glace.
-
--*who_david
 Je sens que je me meurs ; qu'on me mette sur mon lit de repos.
 
--*who_salomon
-Ô roi !
-Vivez longtemps.
-
--*who_bethsabee
-Puisse-t-il mourir tout à l'heure, le vilain ladre, et nous laisser régner en paix !
-
--*who_david
 Ma dernière heure arrive, il faut faire mon testament, et pardonner en bon Juif à tous mes ennemis : Salomon, je vous fais roi juif ; souvenez-vous d'être clément et doux ; ne manquez pas, dès que j'aurai les yeux fermés, d'assassiner mon fils Adonias, quand même il embrasserait les cornes de l'autel.
 
--*who_salomon
-Quelle sagesse !
-Quelle bonté d'âme !
-Mon père, je n'y manquerai pas, sur ma parole.
+Voyez-vous ce Joab qui m'a servi dans mes guerres, et à qui je dois ma couronne ? Je vous prie, au nom du Seigneur, de le faire assassiner aussi, car il a mis du sang dans mes souliers.
 
--*who_david
-Voyez-vous ce Joab qui m'a servi dans mes guerres, et à qui je dois ma couronne ?
-Je vous prie, au nom du Seigneur, de le faire assassiner aussi, car il a mis du sang dans mes souliers.
-
--*who_joab
-Comment, monstre !
-Je t'étranglerai de mes mains ; va, va, je ferai bien casser ton testament, et ton Salomon verra quel homme je suis.
-
--*who_salomon
-Est-ce tout, mon cher père ?
-N'avez-vous plus personne à expédier ?
-
--*who_david
 J'ai la mémoire mauvaise : attendez, il y a encore un certain Semeï qui m'a dit autrefois des sottises ; nous nous raccommodâmes ; je lui jurai, 1 par le Dieu vivant, que je lui pardonnerais ; il m'a très bien servi, il est de mon conseil privé ; vous êtes sage, ne manquez pas de le faire tuer en traître.
 
--*who_salomon
-Votre volonté sera exécutée, mon cher père.
+Va, tu seras le plus sage des rois, et le Seigneur te donnera mille femmes pour récompense : je me meurs ! Que je t'embrasse encore ! Adieu.
 
--*who_david
-Va, tu seras le plus sage des rois, et le Seigneur te donnera mille femmes pour récompense : je me meurs !
-Que je t'embrasse encore !
-Adieu.
 
--*who_bethsabee
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agag
+
+Doux et puissant vainqueur, modèle des princes, qui savez vaincre et pardonner, je me jette à vos sacrés genoux ; daignez ordonner vous-même ce que je dois donner pour ma rançon ; je serai désormais un voisin, un allié fidèle, un vassal soumis ; je ne vois plus en vous qu'un bienfaiteur et un maître : je vous dois la vie, je vous devrai encore la liberté : j'admirerai, j'aimerai en vous l'image du Dieu qui punit et pardonne.
+
+Ô vertu ! Ô grandeur de courage ! Que vous êtes puissante sur mon coeur ! Je vivrai, je mourrai le sujet du grand Saül, et tous mes états sont à lui.
+
+Comment ! La plus belle des vertus serait regardée chez vous comme un crime ?
+
+Ton dieu t'avait ordonné cela ! Tu t'es trompé, tu voulais dire ton diable.
+
+Que voulez-vous de moi, impitoyables monstres ?
+
+Ainsi donc vous m'allez donner la mort : ô mort, que vous êtes amère !
+
+Hélas ! Saül, que je te plains, d'être soumis à de pareils monstres !
+
+Et si j'étais assez faible pour être de ta religion, me donnerais-tu la vie ?
+
+Frappez donc, bourreaux !
+
+Ô mort ! Ô tourments ! Ô barbares !
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samuel
+
+De la part de Dieu.
+
+Il m'ordonne de vous dire qu'il s'est repenti de vous avoir fait régner.
+
+Il peut se repentir d'avoir mis sur le trône ceux qui en commettent.
+
+D'avoir pardonné à un roi.
+
+Tais-toi, ne blasphème point.
+Saül, ci-devant roi des Juifs, Dieu ne vous avait-il pas ordonné par ma bouche d'égorger tous les Amalécites, sans épargner ni les femmes, ni les filles, ni les enfants à la mamelle ?
+
+Préparez-vous à m'obéir ; et vous, Saül, avez-vous obéi à Dieu ?
+
+Vous vous êtes trompé, homme infidèle : Dieu vous réprouve, votre sceptre passera dans d'autres mains.
+
+Je vais te montrer comme on obéit au Seigneur :
+Ô prêtres sacrés ! Enfants de Lévi, déployez ici votre zèle : qu'on apporte une table, qu'on étende sur cette table ce roi, dont le prépuce est un crime devant le Seigneur.
+
+Ne l'invoquez pas, vous en êtes indigne ; demeurez ici, il vous l'ordonne ; soyez témoin du sacrifice qui, peut-être, expiera votre crime.
+
+Oui, tu es gras, et ton holocauste en sera plus agréable au Seigneur.
+
+Écoute, tu vas mourir : veux-tu être juif ? Veux-tu te faire circoncire ?
+
+Non ; tu auras la satisfaction de mourir juif, et c'est bien assez.
+
+Donnez-moi cette hache, au nom du Seigneur ; et tandis que je couperai un bras, coupez une jambe, et ainsi de suite morceau par morceau.
+
+Emportez ce corps et cette table : qu'on brûle les restes de cet infidèle, et que ses chairs servent à nourrir nos serviteurs.
+Et vous, prince, apprenez à jamais qu'obéissance vaut mieux que sacrifice.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
+
+Impitoyable époux, prétends-tu attenter à la vie de mon père, de ton bienfaiteur, de celui qui, t'ayant d'abord pris pour son joueur de harpe, te fit bientôt après son écuyer, qui enfin t'a mis dans mes bras ?
+
+Et pour preuve de ton amour, tu en veux aux jours de mon père !
+
+Pourquoi donc te joindre à ses ennemis ? Pourquoi te souiller du crime horrible de rébellion, et te rendre par là même si indigne du trône où tu aspires ? Pourquoi d'un coté te joindre à Samuel, notre ennemi domestique ; et de l'autre au roi de Geth, Akis, notre ennemi déclaré ?
+
+Ainsi, cruel, tu as également répandu le sang de tes frères et celui de tes alliés, tu as donc trahi également ces deux bienfaiteurs, rien ne t'est sacré ; tu trahiras ainsi ta chère Michol, qui brûle pour toi d'un si malheureux amour.
+
+Qu'entends-je ? Son époux ? Quoi ! Monstre de perfidie, vous me jurez un amour éternel, et vous avez pris une autre femme ! Quelle est donc cette insolente rivale ?
+
+Elle est civile et accorte du moins ; elle n'est pas comme ces concubines impertinentes qui vont toujours bravant la maîtresse de la maison : monstre, où as-tu fait cette acquisition ?
+
+Je m'en doutais bien.
+
+Ainsi Abigail est mon égale : çà, dis-moi en conscience, brigand trop cher, combien as-tu de femmes ?
+
+Dix-huit femmes, scélérat ! Eh ! Que fais-tu donc de tout cela ?
+
+Les voilà bien entretenues ! Tu es comme les oiseaux de proie, qui apportent à leurs femelles des colombes à dévorer : encore n'ont-ils qu'une compagne, et il en faut dix-huit au fils de Jessé !
+
+Va, tu promets plus que tu ne peux tenir : écoute, quoique tu en aies dix-huit, je te pardonne ; si je n'avais qu'une rivale, je serais plus difficile : cependant tu me le paieras.
+
+Quoi ! Malheureux, contre ton roi, contre mon père !
+
+Quoi ! Ce matin même ? L'impudent ! Et comment se nomme-telle ?
+
+C'est une vilaine race que cette race de Jacob ; je suis fâchée d'en être ; mais, par Dieu, puisque mon mari nous traite si indignement, je le traiterai de même, et je vais, de ce pas, en épouser un autre.
+
+Quoi donc ! Mon frère Jonathas ?...
+
+Il n'est plus ? On lui a arraché la vie ?
+
+Tant mieux ; c'était un vilain homme.
+
+Mon père, faudra-t-il trembler tous les jours pour votre vie, pour celle de mes frères, et essuyer les infidélités de mon mari ?
+
+Il est quelquefois possédé du diable.
+
+C'est une des femmes de votre gendre David, que vous avez autrefois tant aimé.
+
+Mon père, je vois que votre mal vous prend ; si David était ici, il vous jouerait de la harpe ; car vous savez que la harpe est un spécifique contre les vapeurs hypocondriaques.
+
+C'est cette malheureuse boucherie d'Agag qui lui a donné des vapeurs ; dérobons-nous à sa furie.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_abigail
+
+Mon cher, mon tendre époux, maître de mon coeur et de ma vie, venez, sortez avec moi de ces lieux dangereux ; Saül arme contre vous, et Akis vous attend.
+
+Auguste et aimable fille d'un grand roi, ne vous mettez pas en colère contre votre servante : un héros tel que David a besoin de plusieurs femmes ; et moi, je suis une jeune veuve qui ai besoin d'un mari : vous êtes obligée d'être toujours auprès du roi votre père ; il faut que David ait une compagne dans ses voyages et dans ses travaux ; ne m'enviez pas cet honneur, je vous serai toujours soumise.
+
+Auguste reine, si toutes les autres pensent comme moi, vous aurez dix-sept esclaves de plus auprès de vous.
+
+Non, je ne te quitte pas.
+
+Protégez-moi, noble fille de Saül ; je crois une telle action digne de votre grand coeur. David a encore épousé une nouvelle femme ce matin : réunissons-nous toutes deux contre nos rivales.
+
+Alchinoam ; c'est une des plus dévergondées coquines qui soient dans toute la race de Jacob.
+
+Allez, allez, madame ; je vous promets bien d'en faire autant, dès que je serai mécontente de lui.
+
+Jonathas qui aimait tant votre mari ?
+
+Dieu soit béni !
+
+Ah ! Madame, comme il roule les yeux, comme il grince les dents ! Fuyons au plus vite ; votre père est fou, ou je me trompe.
+
+Ah ! Le méchant homme ! On voit bien qu'il est réprouvé.
+
+Ah ! Madame, comme il est méchant ! Il est plus fou que jamais ; retirons-nous au plus vite.
+
+Bethsabée, Bethsabée, c'est donc ainsi que vous m'enlevez le coeur de monseigneur ?
+
+Vous ne l'arrêtez que trop, perfide, dans les filets de votre méchanceté : tout Israël dit que vous êtes grosse de lui.
+
+Cela est bien différent, madame ; j'ai l'honneur d'être son épouse.
+
+Point de reproches, madame, s'il vous plaît ; vous en feriez bien autant du bonhomme Urie, pour devenir reine ; mais sachez que je vais tout lui découvrir.
+
+C'est-à-dire que la chose est déjà faite.
+
+Moi, vous respecter, madame !
+
+Ah ! Madame, la Judée produira du froment au lieu de seigle, et on aura des chevaux au lieu d'ânes pour monter, avant que je sois réduite à cette ignominie : il appartient bien à une femme comme vous de faire l'impertinente avec moi !
+
+Ne vous en avisez pas, madame ; j'ai le bras bon, et je vous rosserais d'une manière...
+
+Mon cher mari, y a-t-il quelque nouveau malheur ?
+
+Quoi donc ! N'est-ce que cela ? Je croyais à votre air effaré qu'il vous avait volé votre argent.
+
+La vilaine famille que la famille de David ! Tu n'as donc plus rien, brigand ? Ton fils est oint à ta place.
+
+Ô ciel ! Que n'étais-je là ! J'aurais bien mieux aime coucher avec ton fils Absalon qu'avec toi, vilain voleur, que j'abandonne à jamais : il a des cheveux qui lui vont jusqu'à la ceinture, et dont il vend des rognures pour deux cents écus par an, au moins : il est jeune, il est aimable, et tu n'es qu'un barbare débauché, qui te moques de Dieu, des hommes, et des femmes : va, je renonce désormais à toi, et je me donne à ton fils Absalon, ou au premier Philistin que je rencontrerai.
+Adieu, madame.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bethsabee
+
+Hélas, milord ! Vous en disiez ce matin autant à la jeune Abigail.
+
+Hélas ! Oui, milord.
+
+Non.
+
+Milord, je suis grosse ; mon mari Urie n'a pas couché avec moi depuis un mois ; et s'il s'aperçoit de ma grossesse, je crains d'être battue.
+
+Hélas ! J'ai fait ce que j'ai pu ; mais il me dit qu'il veut toujours rester auprès de vous : vous savez qu'il vous est tendrement attaché ; c'est un des meilleurs officiers de votre armée ; il veille auprès de votre personne quand les autres dorment ; il se met au-devant de vous quand les autres lâchent le pied ; s'il fait quelque bon butin, il vous l'apporte : enfin, il vous préfère à moi.
+
+Milord, pour des tables, vous savez qu'il n'y en a point ici ; mais voici mes tablettes avec un poinçon, vous pouvez écrire sur mes genoux.
+
+Eh ! Bon Dieu ! Vous voulez faire tuer mon pauvre mari ?
+
+Hélas ! Votre servante n'a rien à répliquer ; soit fait selon votre parole.
+
+Hélas ! Que voulez-vous lui dire ? Pourrai-je soutenir sa présence ?
+
+C'est ce que je fais, mon bon mari.
+
+Non, cher amant, je ne vous quitte pas.
+
+Vous voyez que je ne vous enlève rien, puisqu'il me quitte, et que je ne peux l'arrêter.
+
+Eh bien ! Quand cela serait, madame, est-ce à vous à me le reprocher ? N'en avez-vous pas fait autant ?
+
+Voilà un plaisant mariage ; on sait que vous avez empoisonné Nabal votre mari, pour épouser David, lorsqu'il n'était encore que capitaine.
+
+Je vous en défie.
+
+Quoi qu'il en soit, je serai votre reine, et je vous apprendrai à me respecter.
+
+Oui, madame.
+
+Si je m'en croyais, une paire de soufflets...
+
+Quoi donc, mon cher amant ! Qu'est-il arrivé ?
+
+Oh ! Ce sont des choses sérieuses cela.
+
+Votre servante, madame.
+
+Hélas ! C'est ainsi que finissent tous les mariages de cette espèce : que voulez-vous que je devienne si votre fils Absalon règne ? Et si Urie, mon mari, sait que vous avez voulu l'assassiner, vous voilà perdu et moi aussi.
+
+Quoi ! Mon pauvre mari est donc assassiné ? hi, hi, hi.
+Ho, hi, ha.
+
+Je ne peux m'en empêcher.
+
+Pardonnez cette petite cérémonie.
+
+Voilà-t-il pas que vous pleurez votre fils comme j'ai pleuré mon mari ! Chacun a sa faiblesse.
+
+Eh ! Voilà Nathan le voyant, Dieu me pardonne ! Que vient-il faire ici ?
+
+Moi, brebis !
+
+Par Adonaï, tu es un charmant prophète ; viens çà que je t'embrasse.
+
+Sont-ce là vos chansons gaillardes ?
+
+Finissez donc vos airs de corps-de-garde ; cela est abominable : il n'y a point de sauvage qui voulût chanter de telles horreurs : les bouchers des peuples de Gog et de Magog en auraient honte.
+
+Je m'en vais, si vous continuez à chanter ainsi, et à sauter comme un ivrogne : vous montrez tout ce que vous portez : fi ! Quelles manières !
+
+Eh ! Milord ! Il faut que vous ayez le diable dans le corps pour choisir la peste ; il est mort sur le champ soixante-dix mille personnes, et je crois que j'ai déjà le charbon : je tremble pour moi et pour mon fils Salomon, que je vous amène.
+
+En vérité, vous êtes un vilain débauché : fi ! À votre âge, que voulez-vous faire d'une petite fille ?
+
+Voilà donc comme tu m'abandonnes ; tu ne m'aimes plus ! Et que deviendra mon fils Salomon, à qui tu avais promis ton héritage ?
+
+Que mon fils a d'esprit ! Je voudrais qu'il fût déjà sur le trône.
+
+Ce petit oursin-là mériterait bien qu'on le jetât par la fenêtre.
+
+Puisse-t-il mourir tout à l'heure, le vilain ladre, et nous laisser régner en paix !
+
 Dieu merci, nous en voilà défaits.
 
--*who_unofficier
-Allons vite enterrer notre bon roi David.
 
--*who_tousensemble
-Notre bon roi David, le modèle des princes, l'homme selon le coeur du Seigneur !
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapythonisse
 
--*who_abisag
-Que deviendrai-je, moi ? qui réchaufferai-je ?
+Quel mortel veut arracher les secrets du destin à l'abîme qui les couvre ? Qui de vous deux s'adresse à moi pour connaître l'avenir ?
 
--*who_salomon
+C'est donc pour vous que je forcerai la nature à interrompre le cours de ses lois éternelles ? Combien me donnerez-vous ?
+
+Vous en aurez pour votre argent. Les magiciens de Pharaon n'étaient auprès de moi que des ignorants ; ils se bornaient à changer en sang les eaux du Nil, je vais en faire davantage ; et premièrement je commande au soleil de paraître.
+
+Je vois quelque chose sur la terre.
+
+Oui, une ombre.
+
+Comme une ombre.
+
+Oui, un grand manteau et une grande barbe.
+
+Blanche comme de la neige.
+
+Oh ! L'on ne change jamais de caractère : elle vous menace, elle vous fait des yeux horribles.
+
+Au moins j'ai son argent ; mais voilà un sot capitaine.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_joab
+
+Oui, milord ; votre altesse royale a très bien fait de faire pendre celui qui vous a apporté la nouvelle de la mort de Saül ; car il n'est jamais permis de dire qu'un roi est mort : cet acte de justice vous conciliera tous les esprits ; il fera voir qu'au fond vous aimiez votre beau-père, et que vous êtes un bon homme.
+
+Ne vous mettez point en peine ; je connais deux coquins qui doivent assassiner Isboseth, s'ils ne l'ont déjà fait ; vous les ferez pendre tous deux, et vous régnerez sur Juda et Israël.
+
+Oui, milord.
+
+Eh ! Seigneur, vous n'y pensez pas ! cet endroit est une espèce de désert, où il n'y a que des cailloux à deux lieues à la ronde. On y manque d'eau ; il n'y a qu'un petit malheureux torrent de Cédron qui est à sec six mois de l'année : que n'allons-nous plutôt sur les grands chemins de Tyr, vers Damas, vers Babylone ? Il y aurait là de beaux coups à faire.
+
+Par Sabaoth, je l'ai envoyé avec Urie ; je l'ai trouvé qui pendait à un arbre par les cheveux, et je l'ai bravement percé de trois dards.
+
+À présent que vous avez bien dansé, il faudrait mettre ordre à vos affaires.
+
+Vous aurez toujours la guerre ; il faudrait avoir quelque argent de réserve, et savoir combien vous avez de sujets qui puissent marcher en campagne, et combien il en restera pour la culture des terres.
+
+Milord, votre altesse royale est volée comme tous les autres rois : les gens de l'échiquier, les fournisseurs de l'armée, pillent tous ; ils font bonne chère à nos dépens, et le soldat meurt de faim.
+
+Cela n'empêche pas que ces fripons-là ne vous comptent tous les jours pour votre table trente boeufs gras, cent moutons gras, autant de cerfs, de chevreuils, de boeufs sauvages, et de chapons ; trente tonneaux de fleur de farine, et soixante tonneaux de farine ordinaire.
+
+Rien n'est pourtant plus vrai ; car cela est écrit dans vos livres.
+
+C'est qu'on vole votre altesse royale, comme j'ai déjà eu l'honneur de vous le dire.
+
+Milord, vos livres font foi que vous avez cent huit mille talents d'or, deux millions vingt-quatre mille talents d'argent, et dix mille drachmes d'or ; ce qui fait au juste, au plus bas prix du change, un milliard trois cent vingt millions cinquante mille livres sterling.
+
+Je n'en sais rien, je ne suis pas financier.
+
+C'est là le miracle.
+
+Je ne comprends rien à tout cela : comment ! La peste, pour avoir fait son compte ?
+
+Parbleu, milord, j'en connais une qui sera votre fait ; elle s'appelle Abisag de Sunam.
+
+Milord, la voilà qui vient, je vous la présente.
+
+Comment, monstre ! Je t'étranglerai de mes mains ; va, va, je ferai bien casser ton testament, et ton Salomon verra quel homme je suis.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baza
+
+Ô grand Saül ! Le plus puissant des rois, vous qui régnez sur les
+
+Est-ce le prophète Samuel ? Est-ce votre gendre David qui vous cause ce mortel chagrin ?
+
+Vous deviez bien vous y attendre ; il était prêtre, et vous étiez guerrier ; il gouvernait avant vous ; on hait toujours son successeur.
+
+N'est-ce pas lui qui soulève contre vous votre gendre David ?
+
+Votre altesse royale est trop bien affermie par ses victoires, et le roi Agag, votre illustre prisonnier, vous est ici un sûr garant de la fidélité de votre peuple, également enchanté de votre victoire et de votre clémence ; voici qu'on l'amène devant votre altesse royale.
+
+Quelle insolence ! Seigneur, permettez-moi de punir ce prêtre barbare.
+
+Vous aviez promis une chose abominable !
+
+Ah ! Malheureux prince, tu n'as de courage qu'à la tête des armées.
+
+Dieu vous punira de l'avoir soufferte.
+
+Eh bien ! Seigneur, vous le voyez : David et Samuel étaient d'intelligence : vous êtes trahi de tous cotés, mais je vous serai fidèle jusqu'à la mort : quel parti prenez-vous ?
+
+Eh, seigneur ! Il n'y a rien de plus aisé ; n'êtes-vous pas prophète tout comme un autre ? N'avez-vous pas même des vapeurs qui sont un véritable avant coureur des prophéties ?
+
+Oui, mon maître ; mais croyez-vous que le Seigneur lui réponde plutôt qu'à vous ?
+
+Un esprit de Python, mon maître ! Quelle espèce est cela ?
+
+Vous feriez bien mieux de vous mettre à la tête de vos troupes : comment consulte-t-on une ombre ?
+
+Il a perdu l'esprit ! Seigneur, au nom de Dieu, ne vous amusez point à toutes ces sottises, et allons mettre vos troupes en bataille.
+
+C'est mon capitaine : ne devrais-tu pas le savoir, puisque tu es sorcière ?
+
+En plein midi ! Quel miracle !
+
+Eh, Seigneur ! Pouvez-vous vous amuser à ces fadaises ? N'entendez-vous pas le son des trompettes ? Les Philistins approchent.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salomon
+
+Milord, j'aime bien mieux apprendre à régner sous vous.
+
+J'espère m'en tirer à mon honneur.
+
+Ô roi ! Vivez longtemps.
+
+Quelle sagesse ! Quelle bonté d'âme ! Mon père, je n'y manquerai pas, sur ma parole.
+
+Est-ce tout, mon cher père ? N'avez-vous plus personne à expédier ?
+
+Votre volonté sera exécutée, mon cher père.
+
 Viens çà, viens çà, tu seras plus contente de moi que de mon bonhomme de père.
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gag
+
+Je viens vous dire que vous avez commis un grand péché.
+
+En faisant faire le dénombrement du peuple.
+
+Tout cela est bel et bon ; mais Dieu vous donne à choisir de la famine, de la guerre, ou de la peste.
+
+Dieu soit béni !
+
+
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ebind
+
+Ah, princesse ! Votre Jonathas, savez-vous ?
+
+Est condamné à mort, dévoué au Seigneur, à l'anathème.
+
+Non, madame, il est en parfaite santé : le roi votre père, en marchant, au point du jour, contre Akis, a rencontré un petit corps de Philistins ; et, comme nous étions dix contre un, nous avons donné dessus avec courage. Saül, pour augmenter les forces du soldat, qui était à jeun, a ordonné que personne ne mangeât de la journée, et a juré qu'il immolerait au Seigneur le premier qui déjeunerait : Jonathas, qui ignorait cet ordre prudent, a trouvé un rayon de miel, et en a avalé la largeur de mon pouce : Saül, comme de raison, l'a condamné à mourir ; il savait ce qu'il en coûte de manquer à sa parole ; l'aventure d'Agag l'effrayait, il craignait Samuel ; enfin, Jonathas allait être offert en victime ; toute l'armée s'est soulevée contre ce parricide ; Jonathas est sauvé, et l'armée s'est mise à manger et à boire ; et, au lieu de perdre Jonathas, nous avons été défaits de Samuel. Il est mort d'apoplexie.
+
+Le roi Saül vient suivi de tous les siens ; je crois qu'il va tenir conseil dans cette chenevière, pour savoir comment il s'y prendra pour attaquer Akis et les Philistins.
+

@@ -1,6 +1,6 @@
 ---
 identifier: desfontaines_belisaire  
-creator: Desfontaines, Nicolas  
+creator: Desfontaines, Nicolas ; Georges Forestier.  
 date: 1641  
 title: Bélisaire. Tragi-comédie  
 ---

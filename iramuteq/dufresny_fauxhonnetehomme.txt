@@ -1,2288 +1,1369 @@
 
 
-**** *book_ *id_I01 *act_I *date_1703
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
--*who_laveuve
-Oui Frosine, oui, Monsieur Ariste est un vrai homme d'honneur.
+De mes perfections, Monsieur ! C'est de quoi je ne parle jamais.
 
--*who_frosine
-Je conviens que feu votre mari s'en était coiffé un peu avant sa mort ; mais ce n'est pas là une preuve pour moi ; je vous demande quelque autre preuve convaincante.
-
--*who_laveuve
-Frosine.
-
--*who_frosine
-Hé bien, la preuve ?
-
--*who_laveuve
-Cet homme-là est le plus homme d'honneur.
-
--*who_frosine
-Cette répétition prouve quelque chose, car elle prouve que vous en êtes entêtée ; mais je voudrais que vous me racontassiez quelque belle action de lui qui me prouvât...
-
--*who_laveuve
-Ah, c'est ce qui s'appelle un vrai homme d'honneur.
-
--*who_frosine
-Redites-le-moi encore une fois, et je n'en croirai rien.
-
--*who_laveuve
-Je suis bienheureuse que feu mon mari ait choisi Monsieur Ariste, pour lui laisser tout son bien préférablement à ce capitaine qui n'est point honnête homme comme lui.
-
--*who_frosine
-Ce Capitaine n'est point honnête homme : pourquoi dites-vous cela ?
-
--*who_laveuve
-Parce qu'il n'est point honnête homme.
-
--*who_frosine
-Savez-vous de lui quelque mauvaise action ?
-
--*who_laveuve
-Il n'est point honnête homme, dis-je.
-
--*who_frosine
-C'est ce qu'il faut prouver.
-
--*who_laveuve
-J'ai toujours eu pour lui une antipathie, une aversion.
-
--*who_frosine
-Votre aversion pour le Capitaine prouve parfaitement que vous ne l'aimez pas, et cette preuve me fait deviner l'autre : oui, je devine que vous sentez pour Monsieur Ariste... je devine enfin.
-
--*who_laveuve
-Je ne me défends point d'avoir pour lui de l'estime et de la vénération.
-
--*who_frosine
-Oui, de la vénération tendre et passionnée.
-
--*who_laveuve
-Non, Frosine, je n'aime en lui que sa vertu.
-
--*who_frosine
-Combien de femmes croient n'aimer que la vertu ; et c'est le vertueux qu'elles aiment.
-
--*who_laveuve
-J'aime sa sincérité, son désintéressement, sa probité.
-
--*who_frosine
-Oui, sa probité a le teint vermeil, les yeux vifs.
-
--*who_laveuve
-Cela ne m'a jamais frappée.
-
--*who_frosine
-Sa probité est bien bâtie, bien sur ses jambes : je ne m'étonne plus que vous n'ayez en lui une confiance aveugle, l'amour joint à votre opiniâtreté naturelle, ô que cela va faire un bel entêtement.
-
--*who_laveuve
-Personne n'est moins opiniâtre que moi j'écoute tout ce qu'on me veut dire.
-
--*who_frosine
-Cela est vrai.
-Vous n'êtes pas de ces opiniâtres qui s'emportent quand on les contredit, vous écoutez les sentiments des autres, avec une patience, une douceur : vous dites le vôtre avec une modestie... mais l'opinion va toujours son train.
-
--*who_laveuve
-Oh !
-C'est toi qui es une opiniâtre ; car comment peux-tu connaître Monsieur Ariste, toi qui n'es ici que depuis huit jours, ni ma nièce non plus ?
-
--*who_frosine
-Votre nièce et moi nous n'en parlons que pour votre bien : nous sommes au désespoir que votre mari soit mort éloigné de vous dans un voyage ; s'il était mort ici, nous aurions pu nous faire laisser cette succession-là, et nous en aurions mieux usé avec vous, que Monsieur Ariste n'en usera ; nous n'aurions gardé qu'un petit bien honnête, pour nous marier honnêtement.
-
--*who_laveuve
-Ma nièce n'a nulle envie d'être mariée ; et ce matin encore elle m'a dit les plus belles morales du monde sur son inclination pour la retraite.
-
--*who_frosine
-Elle me rebat aussi les oreilles de ces morales ; mais comme je n'envisage point sa retraite avec les yeux d'une tante qui veut se marier, je crois tout le contraire de ce qu'elle me dit.
-
--*who_laveuve
-La voilà qui descend : tu vas entendre ce qu'elle me va dire elle-même.
-
-**** *book_ *id_I02 *act_I *date_1703
-
--*who_angelique
-Je vous avais dit, ma tante, que je ne partirais pas sitôt : mais j'ai peine à rester longtemps en même logis avec un homme qui emporte toute une succession que je pouvais espérer légitimement : j'avoue que Monsieur Ariste me fait peine à voir ici, souffrez que je me retire.
-
--*who_laveuve
-Hé bien, Frosine, tu vois l'impatience qu'elle a de quitter le monde : j'admire sa vertu.
-Oui ma chère nièce, vous partirez dès aujourd'hui.
-
--*who_angelique
-J'ai bien du chagrin de vous quitter.
-
--*who_laveuve
-La joie, que vous avez de tout quitter, est très louable.
-Que vous êtes heureuse, ma nièce, de vous trouver justement d'inclination à mépriser le monde n'ayant pas de bien pour vous y établir !
-Cela est heureux.
-
--*who_angelique
-Oui, ma tante.
-
--*who_laveuve
-Quand on n'a pas le moyen de se marier, haïr naturellement le mariage, cela est heureux !
-
--*who_angelique
-Oui, ma tante.
-
--*who_laveuve
-Être née avec une antipathie pour les engagements de coeur ; toutes les femmes de notre famille sont insensibles.
-
--*who_frosine
-Vous n'êtes pas de notre famille.
-
--*who_laveuve
-Çà il faut que j'entre pour un moment dans l'appartement de la Marquise.
-Elle me demande Monsieur Ariste pour être arbitre dans une affaire : je ne suis pas la seule qui aie confiance en lui.
-L'affaire qu'elle termine aujourd'hui, c'est qu'elle marie son fils.
-
--*who_frosine
-Elle marie Valère.
-
--*who_laveuve
-Je crois que oui.
-Je vais voir un peu cela.
-
-**** *book_ *id_I03 *act_I *date_1703
-
--*who_frosine
-Comme cette nouvelle l'a étourdie : elle aime Valère, ou je suis bien trompée, faisons-lui avouer la chose.
-Enfin Mademoiselle, voilà Monsieur Ariste héritier unique de votre oncle, vous n'avez plus nulle espérance, rien ne vous retient plus à Paris, grâces au Ciel : savez-vous que ce dernier malheur est une espèce de bonheur pour vous et moi qui voulons haïr le monde ?
-Il y a si longtemps que nous nous exhortions l'une l'autre à mépriser les établissements mondains.
-Oh nous n'en pouvons plus espérer.
-Dieu merci : je vous assure que j'en suis bien aise ; c'est-à-dire, je tâche de n'être pas fâchée, parce qu'il faut bien faire comme si... j'en suis bien aise.
-Enfin... et vous Mademoiselle ?
-
--*who_angelique
-Tu sais que j'ai pris mon parti là-dessus il y a longtemps.
-
--*who_frosine
-Oh qu'oui, nous avons toujours regardé le mariage comme un malheur : je vous félicite de n'avoir pas le moyen de vous rendre malheureuse.
-
--*who_angelique
-Nos résolutions sont prises, n'en parlons plus.
-
--*who_frosine
-Il est bon d'en parler, car nos résolutions sont faibles, et quand ce n'est qu'à force de raisonnements forts qu'une femme a de la force, il faut qu'elle parle sans cesse pour se fortifier le coeur.
-
--*who_angelique
-Je te l'ai avoué cent fois, je n'ai pris le parti de la retraite que par raison ; mais après tout en faut-il tant pour quitter Paris ?
-
--*who_frosine
-Non vraiment : que feriez-vous à Paris ; vous n'avez ni vanité, ni coquetterie ; vous n'êtes ni joueuse, ni musicienne ; vous ne serez jamais solliciteuse de Juges, ni marieuse du quartier : et pour conter des nouvelles, babiller, et médire un peu, vous aurez cela en retraite tout comme en plein monde.
-
--*who_angelique
-J'y trouverai la tranquillité d'esprit.
-
--*who_frosine
-Oui, on a l'esprit tranquille, quand on ne souhaite, et qu'on ne regrette rien.
-Que pourrez-vous regretter ?
-Quoi !
-Quelque bonne amie que vous laissez ici, vous en ferez quelque autre là-bas ; perdre l'amitié d'une femme, et gagner celle d'un autre, ce n'est rien perdre, ni rien gagner.
-À l'égard des hommes peut-on regretter leur société ?
-Les vieillards sont ennuyeux, les hommes raisonnables ne réjouissent guère, pour les jeunes gens je ne vous en parle point, car vous les haïssez.
-
--*who_angelique
-Tu es bien en train de dire des niaiseries.
-
--*who_frosine
-À propos de haïr les jeunes gens ; il me vient une pensée.
-Valère est un jeune homme, comme vous savez, n'est-ce point pour éviter le chagrin de le voir, que vous précipitez votre départ ?
-
--*who_angelique
-Quel raisonnement !
-
--*who_frosine
-Il est prudent votre départ ; car un jeune homme, et une jeune fille aimable qui logent sous un même toit sont assez malheureux quelquefois pour se rencontrer.
-
--*who_angelique
-J'avoue que j'ai trouvé quelque mérite à Valère ; mais depuis que nous sommes ici je ne l'ai vu que trois ou quatre fois ; il ne peut pas avoir fait grande impression sur mon esprit.
-
--*who_frosine
-Ces petits visages-là s'impriment quelquefois en un clin d'oeil.
-Moi, qui vous parle je n'ai quasi pas vu un certain valet de chambre de Monsieur Ariste, qu'on nomme Flamand.
-Hé bien j'ai toutes les peines du monde à effacer l'impression que ce maraud-là a fait dans ma cervelle.
-
--*who_angelique
-Tu es folle avec tes idées.
-
--*who_frosine
-Faites la sage, vous avez ces mêmes idées, vous tâchez de les laisser à Paris ces idées-là ; mais je crains qu'elles n'aillent vous atteindre là-bas dans votre solitude.
-
--*who_angelique
-Frosine, qui est-ce qui aborde-là, ma tante ?
-
--*who_frosine
-Ah !
-C'est notre Capitaine de vaisseau, c'est mon meilleur ami, est-ce que vous ne l'avez jamais vu ?
-
--*who_angelique
-Non.
-
--*who_frosine
-Je l'ai vu, moi, vingt fois ici, quand vous m'y envoyez ; j'ai été sa confidente.
-
--*who_angelique
-Ariste et lui ne se connaissent-ils point ?
-
--*who_frosine
-Non vraiment, ce Capitaine de Vaisseau a toujours été sur mer depuis qu'Ariste s'est introduit dans cette maison-ci.
-Quelle différence de ces deux amis de votre oncle ?
-Ariste est doucereux, fade ; celui-ci est brusque piquant, des manières grossières, il paraît même un peu dur, mais dans le fond c'est la meilleure âme...
-Ô c'est le plus aimable brutal que j'aie jamais connu.
-
--*who_angelique
-Ma tante l'amène ici, restons : comme il a vu mourir mon oncle, il nous apprendra peut-être quelque circonstance que nous ne savons pas.
-
-**** *book_ *id_I04 *act_I *date_1703
-
--*who_laveuve
-Vous m'obligerez sensiblement, Monsieur, de me dire toutes les particularités que vous ne m'avez point écrites.
-
--*who_lecapitaine
-Avant de vous répondre, Madame, que je vous fasse une question, me haïssez-vous autant que vous me haïssiez autrefois ?
-
--*who_laveuve
-Moi vous haïr !
-Monsieur, je vous ai toujours estimé infiniment.
-
--*who_lecapitaine
-Vous ne m'aimiez guères, quand vous me fîtes un passe-droit pour épouser le défunt ; on dit que vous en allez encore épouser un second : combien me ferez-vous passer encore de maris sous la moustache.
-
--*who_laveuve
-Je ne me remarierai jamais, Monsieur, et quand je vous ai avoué que je n'avais point d'inclination pour vous, vous me dites vous-même que vous me saviez bon gré de ma sincérité.
-
--*who_lecapitaine
-Une haine sincère a son mérite ; mais j'aimerais mieux de l'amour : venons au fait.
-En débarquant à Marseille, j'appris que mon ami s'y mourait, j'y cours, je trouve le mourant investi de quelques amis de voyage, de quelques héritiers, et autres corsaires qui vont en course, sur ceux qui meurent sans enfants ; il a tout donné à un ami, me dit-on, cela me mit en colère.
-Comment morbleu tout à cet homme-là, et à moi rien, je fends la presse ; et à moi rien morbleu ; que tout le monde sorte, et à moi rien, qu'on me laisse seul avec lui, ventrebleu, je veux l'exhorter à mourir.
-
--*who_laveuve
-Hé bien, Monsieur, le fîtes-vous souvenir que j'étais sa femme...
-
--*who_frosine
-Et que Mademoiselle était sa nièce.
-
--*who_lecapitaine
-Je le fis souvenir que j'étais son ami : mais il avait disposé de tout en faveur de son autre ami ; là de cet homme d'honneur qui s'était emparé de lui en mon absence, et qui s'empara de vous à mon préjudice.
-
--*who_laveuve
-Tout ce que mon mari a fait, est bien fait, il avait du discernement, et je ne suis point fâchée qu'il ait eu de la confiance en Monsieur Ariste.
-Oserais-je vous demander entre les mains de qui on a mis le testament ?
-
--*who_lecapitaine
-Entre mes mains, Madame.
-
--*who_laveuve
-Quoi, Monsieur, c'est vous ?
-
--*who_lecapitaine
-Tout ce que votre mari a fait, n'est-il pas bien fait ?
-
--*who_laveuve
-Assurément, Monsieur, et je suis très persuadée que vous ne me ferez point de tort, vous êtes si honnête homme, vous avez le coeur si bon.
-
--*who_lecapitaine
-Pas autrement bon, je suis un peu rancunier, et l'air marin m'a rendu l'air féroce.
-
--*who_laveuve
-Les marins sont des gens d'honneur.
-
--*who_lecapitaine
-Oui à présent mais je suis de la vieille mer.
-Cependant je suis chargé d'un dépôt, pour le remettre entre les mains de Monsieur Ariste, je ferai mon devoir, je souhaite qu'il fasse le sien.
-On dit qu'il est logé ici, je vais me faire conduire à sa chambre.
-
--*who_laveuve
-Je vous y accompagnerai.
-
--*who_lecapitaine
-Non, Madame.
-
--*who_laveuve
-Monsieur.
-
--*who_lecapitaine
-Non, vous dis-je, je veux lui parler seul, pour sonder le gué, et tâter un peu sa probité.
-Car je me défie de ceux qui moralisent à tout venant, et prennent à toute main.
-
--*who_laveuve
-Je vous laisse aller.
-Vous voyez, ma nièce, qu'il n'est point question de vous dans tout cela, je vais songer à vous faire partir dès demain matin.
-
-**** *book_ *id_I05 *act_I *date_1703
-
--*who_angelique
-Frosine, comme j'ai vu la Marquise une fois ou deux chez ma tante, je crois que la bienséance veut que je la voie avant de partir.
-
--*who_frosine
-Sans doute, vous ne sauriez vous dispenser de voir la mère, car le fils est avec elle.
-
--*who_angelique
-Non, Frosine, je ne la verrai point.
-
--*who_frosine
-C'est encore mieux fait.
-La Marquise est une réjouie, une folle qui n'aime qu'à rire, une babillarde qui ne vous parlerait que du plaisir qu'elle a de marier son fils...
-Vous ne devez plus penser qu'à partir.
-Je veux pourtant tâcher de travailler pour vous, et je vais m'éclaircir avec le Capitaine d'une pensée, qui me roule dans la tête depuis hier.
-
--*who_angelique
-Frosine s'est aperçue de ma passion, Valère s'en apercevrait encore plus tôt, je ne dois point le voir.
-La Marquise sort, elle est seule ; prenons ce moment pour lui dire adieu.
-
-**** *book_ *id_I06 *act_I *date_1703
-
--*who_lamarquise
-Voyons ta liste, Jasmin, voyons ta liste.
-Où dois-je aller en sortant d'ici ?
-Combien ai-je de parties faites pour aujourd'hui.
-
--*who_jasmin
-Madame la Comtesse vous attend à cinq heures.
-
--*who_lamarquise
-J'irai.
-
--*who_jasmin
-Il y a concert au Marais à cinq heures aussi.
-
--*who_lamarquise
-J'irai, j'irai.
-
--*who_jasmin
-On joue dans l'Isle à cinq heures aussi.
-
--*who_lamarquise
-J'irai, j'irai.
-
--*who_jasmin
-Mais, Madame, vous ne pouvez pas aller partout là tout à la fois.
-
--*who_lamarquise
-Je serai aujourd'hui de toutes les parties de plaisir ; je me sens d'une joie, d'une gaîté...
-Ha !
-Mademoiselle, je ne vous voyais pas là, je suis bien affligée d'une nouvelle qui m'est revenue.
-On dit que feu votre oncle ne vous a rien laissé en mourant : la triste mort que cette mort-là !
-
--*who_angelique
-Madame.
-
--*who_lamarquise
-Pour vous en consoler aisément, imaginez-vous que vous êtes de mon humeur.
-J'ai l'art de me réjouir de ce qui afflige les autres.
-Par exemple : un mari est plus qu'un oncle, je me suis pourtant consolée d'être veuve ; il n'y a que manière d'envisager les choses.
-Le veuvage est un sujet de tristesse, quand on y voit un mari perdu ; voyez-y la liberté trouvée, sujet de joie.
-
--*who_angelique
-J'allais prendre congé de vous, Madame ; je pars aujourd'hui.
-
--*who_lamarquise
-Pourquoi donc nous quitter ?
-Je voulais faire amitié avec vous.
-Votre physionomie m'a réveillé l'idée de feue votre mère que j'estimais fort ; car elle était toute de mon humeur, n'aimant qu'à se réjouir, ne prenant part aux chagrins de personne, pas même aux siens propres ; la brave femme que c'était !
-Elle n'avait point de tête, point de conduite, car elle a mangé tout son bien et le vôtre : avec cela elle ne laisse pas d'avoir une espèce d'économie ; elle savait ménager le temps pour les plaisirs, elle les arrangeait si justes et si serrés, qu'elle ne laissait pas un moment de vide pour les occupations chagrinantes ; pas un moment pour ses affaires, ni pour son mari.
-
--*who_angelique
-Vous alliez sortir, Madame ?
-
--*who_lamarquise
-Oui, j'allais me désennuyer en ville, pendant que Monsieur Ariste terminera une affaire importante que j'ai.
-C'est que je marie mon fils.
-Où est-il donc, Valère ?
-Je croyais qu'il me suivait.
-Ah le voici.
-
-**** *book_ *id_I07 *act_I *date_1703
-
--*who_angelique
-Je vous empêche de sortir, Madame ?
-
--*who_lamarquise
-Regardez-le un peu, Mademoiselle.
-A-t-on jamais été si triste, un jour de noces, quand il serait au lendemain ?
-Qu'est-ce donc, mon fils, pourquoi ce chagrin ?
-Est-ce parce que la mariée sera laide ?
-
--*who_valere
-Dès qu'elle vous convient, elle doit me convenir.
-Mais Madame ; vous ne m'avez averti qu'hier de ce mariage, vous voulez le terminer aujourd'hui ; cela est un peu précipité.
-
--*who_lamarquise
-Je le marie, comme je me suis mariée moi-même.
-Monsieur, en trois jours j'aimai, j'épousai, et je me repentis.
-
--*who_valere
-On se repent souvent, quand on n'a pas eu la liberté du choix.
-
--*who_lamarquise
-Je te la laisse, mon fils, je te laisse la liberté du choix ; tu peux choisir ou d'épouser aujourd'hui, ou d'être déshérité.
-
--*who_valere
-Pour en venir à ces extrémités, vous m'aimez trop.
-
--*who_lamarquise
-D'accord, mais je m'aime beaucoup aussi ; et cette affaire me débarrasse d'un fils unique, sans qu'il m'en coûte rien, Mademoiselle.
-
--*who_angelique
-Apparemment, Madame, cet établissement est fort avantageux ?
-
--*who_lamarquise
-C'est une occasion admirable.
-Imaginez-vous qu'on ne me demande rien de mon vivant.
-À la vérité mon fils sera riche, si je meurs quelque jour.
-
--*who_valere
-Je ne refuse point de vous obéir, Madame ; mais...
-
--*who_lamarquise
-Retranchons ce mais-là ; tu connais mon humeur, et tout en riant, je mettrais mon bien à fonds perdu : j'ai besoin d'un gros revenu pour vivre ; les plaisirs sont si chers à Paris : je n'en sais qu'un à bon marché, c'est de médire du tiers et du quart ; ce plaisir-là ne coûte rien, aussi je m'en donne.
-
--*who_valere
-Écoutez, ma mère, vous avez de la confiance à Monsieur Ariste, je lui remettrai mes intérêts entre les mains, je ferai ce qu'il me conseillera.
-
--*who_lamarquise
-Volontiers, je m'en rapporte à lui.
-Venez me trouver tous deux chez le père et la mère de celle dont tu seras aujourd'hui le mari.
-Je ne vous dis pas adieu, Mademoiselle, je veux que vous restiez pour voir la noce de mon fils, je la ferai magnifique, cela vous réjouira.
-
-**** *book_ *id_I08 *act_I *date_1703
-
--*who_angelique
-Je crains bien que Valère ne se soit aperçu de mon trouble ; il revient, fuyons.
-Mais si je le fuis, il s'apercevra que je l'aime : il vaut mieux le voir pour lui persuader que je suis insensible.
-
--*who_valere
-On nous a dit ce matin, Mademoiselle, qu'un oncle vous a déshérité, quelle injustice !
-
--*who_angelique
-Mon oncle était maître de son bien, je tâcherai d'être maîtresse de mes ressentiments.
-
--*who_valere
-J'admire votre modération.
-
--*who_angelique
-Mes malheurs passés m'ont appris à supporter celui-ci.
-
--*who_valere
-Pour supporter celui qui me menace, j'aurais besoin de votre force d'esprit : souffrez que je me plaigne à vous du mariage cruel, où ma mère veut me contraindre.
-En cette extrémité, Mademoiselle, conseillez-moi sincèrement quel parti je dois prendre.
-
--*who_angelique
-Vous devez accepter cet établissement, puisqu'il vous est avantageux.
-
--*who_valere
-Je ne connais d'établissement avantageux que ceux qui sont fondés sur l'union des coeurs.
-
--*who_angelique
-Et moi je ne connais de mariages raisonnables, que ceux qui sont fondés sur l'égalité des biens.
-
--*who_valere
-Hé, vous parlez comme ma mère.
-
--*who_angelique
-Je me sais bon gré d'être aussi raisonnable qu'elle.
-Mais qui peut vous empêcher d'accepter le parti qu'elle vous propose ?
-
--*who_valere
-C'est que mon coeur est engagé ailleurs.
-Je n'ose l'avouer à ma mère ; car celle que j'aime ne peut plus espérer d'être riche, et ma mère ne connaît d'autre mérite que celui des richesses ; elle n'aurait nul égard au plus sincère amour, à l'ardeur la plus tendre, à la plus violente passion.
-
--*who_angelique
-Ne m'exagérez point votre passion.
-Je n'ai jamais éprouvé les passions aveugles.
-
--*who_valere
-La mienne n'est point aveugle, et je vois dans celle que j'aime un mérite brillant, et une raison solide.
-
--*who_angelique
-Pour peu qu'elle ait de raison, elle doit ménager la vôtre en cessant de vous voir.
-
--*who_valere
-Que deviendrais-je, si j'étais condamné à ne plus voir cette beauté charmante ?
-À ne plus voir ces yeux, cette bouche...
-
--*who_angelique
-Finissez de grâce : je m'aperçois qu'insensiblement vous me faites votre confidente, vous ne m'avez demandé qu'un conseil, je vous le donne.
-Obéissez à votre mère.
-
--*who_valere
-Ce n'est pas là le conseil que je vous demande.
-
--*who_angelique
-Pour vous mettre dans la nécessité d'obéir, celle que vous aimez doit vous ôter toute espérance.
-
--*who_valere
-Est-ce là ce que vous feriez, si vous étiez à sa place ?
-
--*who_angelique
-Si elle était de mon humeur, n'ayant pas de bien, elle refuserait de vous épouser, quand même votre mère y consentirait.
-
--*who_valere
-Vous supposez donc que cette aimable personne, n'a pour moi que de l'indifférence et du mépris ?
-
--*who_angelique
-Je suppose, si vous voulez, qu'elle vous estime : c'est pour cela qu'elle doit craindre les soupçons et les froideurs qui suivent d'ordinaire un mariage inégal.
-Celui qui a tout donné, soupçonne aisément d'ingratitude ; et celui qui a tout reçu, croit toujours voir la froideur et le repentir.
-
--*who_valere
-Le repentir, juste Ciel !
-De tels soupçons peuvent-ils entrer dans votre âme ?
-Ah cruelle ?
-
--*who_angelique
-Vous vous troublez ; et ce n'est pas moi qui...
-Mais je ne puis plus l'ignorer.
-Vous m'avez trop fait voir vos sentiments, connaissez aussi les miens ; mon coeur est incapable de tendresse, une simple estime que je ne puis vous refuser, ne contenterait pas un coeur aussi passionné que le vôtre.
-Oubliez-moi, Valère, pour votre bonheur, oubliez-moi, je vous en conjure...
-Ne me donnez point le chagrin mortel d'avoir causé la ruine... d'un homme dont le mérite...
-On vous déshéritera...
-Et je ne suis pas en état de réparer...
-Vous serez plus heureux avec une personne riche, et puisque ma fortune...
-Si j'avais eu...
-Vous voyez qu'un oncle injuste...
-Que je suis malheureuse !
-
-**** *book_ *id_I09 *act_I *date_1703
-
--*who_frosine
-Je me doutais bien qu'à force de se fuir l'un l'autre, ils se rencontreraient bientôt.
-
--*who_valere
-Est-ce que je me flatte ?
-Je crois m'apercevoir...
-Rompons un mariage cruel, où je ne consentirai jamais.
-
-**** *book_ *id_I10 *act_I *date_1703
-
--*who_frosine
-Hom.
-Il y a eu ici de la déclaration.
-Mais pensons au plus pressé : et pour gagner la confiance du Capitaine, faisons ce que je viens de lui promettre.
-Bon voici justement le valet d'Ariste ; il ne me cachera rien ; c'est un bon enfant ; un bon benêt.
-Je l'aime pourtant, car il ne dit jamais que ce qu'il pense, et il m'a dit qu'il m'aimait.
-
-**** *book_ *id_I11 *act_I *date_1703
-
--*who_frosine
-Bonjour, l'aimable Flamand.
-
--*who_flamand
-Je suis votre serviteur.
-
--*who_frosine
-Bonjour, mes nouvelles amours.
-
--*who_flamand
-Serviteur, hai.
-
--*who_frosine
-Que m'as-tu donc fait pour gagner mon coeur en quatre jours ?
-
--*who_flamand
-Hai : serviteur.
-
--*who_frosine
-J'ai là un serviteur bien affligé.
-
--*who_flamand
-C'est que j'ai de l'affliction.
-
--*who_frosine
-De l'affliction.
-
--*who_flamand
-Oui, de l'affliction qui m'afflige.
-
--*who_frosine
-Peut-on savoir ce qui t'afflige tant ?
-
--*who_flamand
-Hélas !
-C'est que...
-
--*who_frosine
-C'est que ?
-
--*who_flamand
-C'est que je ne suis pas honnête... homme.
-
--*who_frosine
-Tu es sincère du moins.
-
--*who_flamand
-Quand je dis que je ne suis pas honnête homme, je suis honnête homme si vous voulez : mais je ne suis pas là... ce qui s'appelle... comme mon maître enfin, qui a des amis qui lui donnent des testaments.
-
--*who_frosine
-J'entends, tu es fâché de n'être pas assez honnête homme pour attraper des successions.
-
--*who_flamand
-Des successions oui : et encore quelquefois on lui apporte des dépôts ; on ne m'apporte point de dépôts à moi.
-
--*who_frosine
-Cela viendra, l'emploi d'homme d'honneur est comme celui d'avocat, il n'est lucratif que pour les doyens.
-
--*who_flamand
-Ah !
-Je n'apprendrai jamais à être honnête homme, cela est trop difficile : je croyais d'abord que pour être honnête homme, il n'y avait qu'aller tout droit à la boulevue ; mais il faut bien plus de façons.
-Mon Maître rêve jour et nuit, pour attraper une certaine perfection, qu'il appelle de la pr... probité ; l'y voilà venu à la fin, mais il est l'unique, et il le dit lui-même ; non, dit-il, il n'y a plus de probité aux hommes, et le genre humain... le genre humain.
-
--*who_frosine
-Le genre humain est un fripon.
-Mais dis-moi un peu, ton maître, qui est si savant en perfection, te paye-t-il bien tes gages ?
-
--*who_flamand
-Bon, mes gages, il s'amuse bien à cela.
-
--*who_frosine
-Quoi il ne te paye point ?
-
--*who_flamand
-Il ne me paye point, mais c'est pour mon bien, car il veut me faire ma fortune tout à la fois : l'humeur de mon maître, c'est pour les grandes générosités.
-
--*who_frosine
-Les grandes générosités !
-Et en a-t-il déjà fait quelqu'une ?
-
--*who_flamand
-Oh tout plein ; on le vient chercher pour cela de tous les côtés, c'est lui qui va partout dans les maisons, faire les plus belles choses qui se fassent.
-
--*who_frosine
-Dans les maisons !
-Dis-moi un peu flamand, comment ton maître s'est-il introduit dans cette maison-ci, par exemple ?
-
--*who_flamand
-Je m'en vais te le dire ; c'est qu'il y avait une vieille femme qui faisait les affaires de mon maître...
-
--*who_frosine
-Sa femme d'affaires ?
-
--*who_flamand
-Oui : et elle lui parlait toujours du mari de la Veuve qui est mort, et disait qu'il était si bon homme, si bon, si bon, qu'il n'avait point d'esprit du tout.
-Or mon Maître, quoiqu'il ait plus d'esprit que tout le monde, par bonté de coeur, il aime toujours à faire amitié avec ceux qui sont bêtes.
-
--*who_frosine
-Oui, bêtes et riches ; voilà comme il les aime.
-
--*who_flamand
-Il se trouva donc que cette femme amena un jour le défunt chez nous, pour prendre du conseil de mon Maître sur une affaire.
-Oh dès que mon Maître le vit venir de loin, il courut jusques dans la rue pour l'embrasser : dame c'est là qu'il lui dit de belles choses de coeur...
-C'était des cordial... des affections... de lui donner... des sacrifices de biens...
-Et plus l'autre se tuait de lui dire qu'il n'avait que faire d'argent, plus mon maître ne l'écoutait pas, et lui en voulait prêter à toute force ; si bien qu'à la fin je voyais que le coeur franc de mon Maître faisait quasi pleurer l'autre.
-
--*who_frosine
-Cela me fend le coeur aussi à moi.
-
--*who_flamand
-Mon Maître est la bonté même.
-Voilà-t-il pas encore à cette Marquise de céans, dès qu'il a vu qu'elle allait se ruiner, il a pris toutes ses affaires pour les profiter ; depuis qu'il s'en mêle, son bien a redoublé au double.
-
--*who_frosine
-Son bien à lui, ou à elle ?
-
--*who_flamand
-À elle ; car partout où mon maître se fourre, il y met toujours du sien.
-Mais il faut que j'aille au plus vite quérir les lettres de mon maître à ma poste ; car il a des correspondances dans toutes les villes, pour les intrigues d'honneur.
-
--*who_frosine
-Reste encore avec moi.
-
--*who_flamand
-Je reviens dans un moment, et je te conterai toutes les vertus de mon maître.
-
--*who_frosine
-Allons toujours rendre compte de ceci au Capitaine.
-
-**** *book_ *id_II01 *act_II *date_1703
-
--*who_frosine
-Quoi vous me suivez encore ?
-
--*who_angelique
-Ah !
-Frosine.
-
--*who_frosine
-Rentrez, vous dis-je, et laissez-moi rêver seule à mes affaires ?
-
--*who_angelique
-Que j'ai de honte !
-
--*who_frosine
-Rentrez donc ?
-Depuis que vous m'avez avoué votre amour, depuis que vous avez résolu d'oublier Valère, vous ne sauriez cesser de m'en parler.
-
--*who_angelique
-Que je suis honteuse de t'avoir avoué ma faiblesse !
-
--*who_frosine
-Il fallait la mieux cacher à Valère ; une fille prudente doit s'épargner la honte d'une passion, dont elle n'aura pas le plaisir.
-
--*who_angelique
-Mais Frosine, serait-il impossible que les grands biens de mon oncle revinssent à ma tante, et que ma tante ne se remariant point elle me mît en état d'épouser Valère ?
-
--*who_frosine
-Je n'ai qu'une chose à vous dire là-dessus ; votre tante est entêtée d'Ariste, elle l'épousera, si on n'y met ordre : il faut la désentêter de cet homme-là, c'est le noeud de l'affaire, et ce noeud sera difficile à dénouer ; car l'entêtement de votre tante est un entêtement de coeur.
-
--*who_angelique
-Par la confidence que le Capitaine t'a faite, je vois qu'il a aussi intérêt de désabuser ma tante de cet Ariste.
-Mais Frosine !
-
--*who_frosine
-Le voici notre homme d'honneur, rentrez, laissez-moi suivre cette affaire-ci ?
-
-**** *book_ *id_II02 *act_II *date_1703
-
--*who_lecapitaine
-Est-il possible, Monsieur, que vous soyez aussi parfait que vous le dites ?
-J'admire ce que vous me contez de vos perfections.
-
--*who_ariste
-De mes perfections, Monsieur !
-C'est de quoi je ne parle jamais.
-
--*who_lecapitaine
-Vos vertus sont si incroyables, que je n'en croirais rien, si un autre que vous me les racontait.
-
--*who_ariste
 Je ne vous raconte rien qui soit à mon avantage.
 
--*who_lecapitaine
-Cela vous échappe, c'est par franchise que vous vous donnez des louanges.
+Mais qu'appelez-vous donner des louanges ? Et quelles vertus ai-je louées en moi ?
 
--*who_ariste
-Mais qu'appelez-vous donner des louanges ?
-Et quelles vertus ai-je louées en moi ?
+Non, Monsieur, non, elles cessent d'être vertus, dès qu'on les pousse jusqu'à un excès vicieux. J'avoue franchement mon vice, je suis excessif en tout : en amitié par exemple, délicat jusqu'au scrupule, serviable jusqu'à importuner ; ma sensibilité est une faiblesse, et mon zèle une fureur ; en un mot je suis trop bon ami ; c'est mon défaut.
 
--*who_lecapitaine
-Vous me vantez votre sincérité, votre libéralité, ne sont-ce pas là des vertus ?
+Eh ! Monsieur, avoir toujours la vérité dans la bouche, et le coeur sur les lèvres, n'est-ce pas un défaut, et le défaut le plus haïssable qu'on ait parmi les hommes !
 
--*who_ariste
-Non, Monsieur, non, elles cessent d'être vertus, dès qu'on les pousse jusqu'à un excès vicieux.
-J'avoue franchement mon vice, je suis excessif en tout : en amitié par exemple, délicat jusqu'au scrupule, serviable jusqu'à importuner ; ma sensibilité est une faiblesse, et mon zèle une fureur ; en un mot je suis trop bon ami ; c'est mon défaut.
-
--*who_lecapitaine
-Votre sincérité est une vertu peut-être ?
-
--*who_ariste
-Eh !
-Monsieur, avoir toujours la vérité dans la bouche, et le coeur sur les lèvres, n'est-ce pas un défaut, et le défaut le plus haïssable qu'on ait parmi les hommes !
-
--*who_lecapitaine
-Eh que direz-vous contre votre désintéressement ?
-
--*who_ariste
 Que c'est manquer de prudence, que d'être désintéressé au point où je le suis ; et c'est encore un défaut dont je ne me corrige jamais.
 
--*who_lecapitaine
-Votre modestie est encore un défaut dont vous ne vous corrigerez jamais.
+Je n'affecte point d'être modeste, j'avoue franchement que j'ai quelque chose de bon, c'est le coeur. Je me vante aussi d'être vraiment homme d'honneur ; on me reproche que je le suis trop, et que cette probité exacte me donne un ridicule dans le monde, je m'en aperçois bien ; mais quoi ? On ne peut pas se refondre.
 
--*who_frosine
-Cela est vrai.
-
--*who_ariste
-Je n'affecte point d'être modeste, j'avoue franchement que j'ai quelque chose de bon, c'est le coeur.
-Je me vante aussi d'être vraiment homme d'honneur ; on me reproche que je le suis trop, et que cette probité exacte me donne un ridicule dans le monde, je m'en aperçois bien ; mais quoi ?
-On ne peut pas se refondre.
-
--*who_lecapitaine
-Étant aussi homme d'honneur, que vous l'êtes, je ne blâme point feu mon ami de s'être entêté de vous en mon absence, et d'avoir fait ce testament-ci en votre faveur, il m'a chargé de vous le remettre : le voilà.
-
--*who_ariste
 Oui, ceci est écrit de sa propre main.
 
--*who_lecapitaine
-Il vous laisse par là tout son bien.
+Son bien, Monsieur ! Le bien qu'il me laisse, était plus à moi qu'à lui.
 
--*who_ariste
-Son bien, Monsieur !
-Le bien qu'il me laisse, était plus à moi qu'à lui.
-
--*who_lecapitaine
-Je croyais que son bien était plus à lui qu'à vous.
-
--*who_ariste
 Il en a disposé en homme équitable ; il s'est souvenu que ceci m'appartenait par certaines raisons secrètes... mais il s'en est souvenu, je dois les oublier moi ; quand on a obligé un ami, c'est une espèce d'ingratitude de s'en souvenir, on doit oublier bien des choses dans la vie, le mal que nos ennemis nous ont fait, le bien que nous avons fait à nos amis.
 
--*who_lecapitaine
-En sorte que c'est vous qui lui avez fait du bien ; on ne laisse pas de dire le contraire dans le monde.
-
--*who_ariste
 Je suis ravi qu'on le publie ; cela fera honneur à la mémoire de mon ami.
 
--*who_lecapitaine
-Puisque vous ne lui avez nulle obligation de ce qu'il vous laisse, vous n'êtes point obligé d'en faire part à sa veuve.
-
--*who_ariste
 J'en userai selon mes principes.
 
--*who_lecapitaine
-C'est votre affaire : je vous laisse, adieu.
-
-**** *book_ *id_II03 *act_II *date_1703
-
--*who_frosine
-Nous sommes bienheureux, Monsieur, que vous soyez un homme d'honneur, véritable ; là, de ces hommes d'honneur qui ont de la conscience.
-
-**** *book_ *id_II04 *act_II *date_1703
-
--*who_laveuve
-Voici le moment qui va prouver, que quand j'ai de la confiance en quelqu'un, je ne me trompe jamais.
-
--*who_frosine
-Nous allons voir.
-
--*who_laveuve
-Hé bien, Monsieur, ce Capitaine vous a-t-il mis le Testament entre les mains ?
-
--*who_ariste
 Oui, Madame, n'ayez plus d'inquiétude là-dessus.
 
--*who_laveuve
-Ah, Monsieur que je suis heureuse !
-Mon sort ne dépend plus que de vous ; je sais que feu mon mari vous avait tant d'obligations...
-
--*who_ariste
 Je l'ai tiré de certaines affaires fâcheuses.
 
--*who_laveuve
-J'en suis persuadée, vous m'avez conté tout cela.
-
--*who_ariste
 J'ai fait pour lui des pertes.
 
--*who_laveuve
-Ne sais-je pas bien ?
-Vous me l'avez tant dit.
+Que voulez-vous ? On n'est pas ami pour rien.
 
--*who_ariste
-Que voulez-vous ?
-On n'est pas ami pour rien.
-
--*who_laveuve
-Enfin il vous a laissé tout ce bien-là : je compte que tout est à vous.
-
--*who_ariste
 On n'a rien à soi, Madame, quand on a le coeur fait comme je l'ai.
 
--*who_frosine
-On n'a rien à soi, quand on n'est riche que du bien d'autrui.
-
--*who_ariste
 Çà Madame, parlons net ; quelle part vous êtes-vous proposée que je vous ferais de ce bien-là ?
 
--*who_laveuve
-Je remets tout à votre générosité.
-
--*who_ariste
 Mais encore ?
 
--*who_laveuve
-Nous nous accommoderons à loisir.
-
--*who_ariste
 Il faut que je me contente dans le moment.
 
--*who_laveuve
-Puisque vous le voulez, voyez cela vous-même ?
-Le bien de mon mari pouvait se monter à deux cent mille francs.
-
--*who_ariste
 Deux cent mille francs, Madame ?
 
--*who_laveuve
-Il y avait moins, n'est-ce pas ?
-
--*who_ariste
 Au contraire, il y a beaucoup plus.
 
--*who_laveuve
-Quelle bonne foi !
-
--*who_ariste
 J'en trouverai bien encore trois cents par delà, dont j'ai seul la connaissance ; il y avait cinq cent mille livres : si je traitais avec vous sur un autre pied, je serais un homme faux.
 
--*who_laveuve
-Hé bien Frosine, entends-tu cela ?
-Monsieur, quand vous me donnerez cent mille francs.
-
--*who_ariste
 Vous moquez-vous, Madame, de me demander si peu ?
 
--*who_laveuve
-Quelle générosité !
-Moitié, ce serait trop aussi.
-
--*who_ariste
 C'est encore trop peu.
 
--*who_laveuve
-Vous me comblez.
-
--*who_ariste
 Je ne donne point à demi.
 
--*who_frosine
-Vous m'accablez.
-
--*who_ariste
 Je veux vous rendre maîtresse de tout.
 
--*who_laveuve
-Ah !
-Je n'en puis plus.
-
--*who_frosine
-On ne saurait parler plus libéralement.
-
--*who_ariste
 Je dois plus faire encore : feu votre époux a eu dessein de vous laisser tout ce qu'il possédait ; tout ce qui lui appartenait, doit vous appartenir : je lui appartenais, j'étais à lui, je dois être à vous ; et mon devoir m'oblige à vous offrir mes biens, et ma personne.
 
--*who_laveuve
-Et sa personne, Frosine, et sa personne !
-
--*who_frosine
-C'est l'article touchant.
-
--*who_laveuve
-Monsieur, je ne pense point à me remarier à personne ; je ne me remarierai jamais ; votre personne, Monsieur !
-Je ne puis pas ici répondre là-dessus ; il me faut du temps pour y penser : laissez-moi seule un moment dans ma chambre ; n'entrez point avec moi, Monsieur, je vous prie, n'entrez point, n'entrez point.
-
--*who_frosine
-Allons avertir le Capitaine.
-
-**** *book_ *id_II05 *act_II *date_1703
-
--*who_ariste
-Que j'ai bien fait, d'achever d'entêter la veuve par ces offres généreuses, avant qu'elle sache, qu'il y a un second Testament !
-Car enfin mes correspondants m'ont donné des avis sûrs : oui : le Capitaine a un autre Testament qui détruit le mien ; il n'a pas voulu le montrer d'abord ; je pénètre ses vues, il me veut détruire auprès de la Veuve, pour avoir et la veuve et le bien ; mais au moins le pas que je viens de faire, me servira auprès de la Marquise, et je...
+Que j'ai bien fait, d'achever d'entêter la veuve par ces offres généreuses, avant qu'elle sache, qu'il y a un second Testament ! Car enfin mes correspondants m'ont donné des avis sûrs : oui : le Capitaine a un autre Testament qui détruit le mien ; il n'a pas voulu le montrer d'abord ; je pénètre ses vues, il me veut détruire auprès de la Veuve, pour avoir et la veuve et le bien ; mais au moins le pas que je viens de faire, me servira auprès de la Marquise, et je...
 Ah, que fais-tu donc là ?
 
--*who_flamand
-Je tâche d'écouter, Monsieur.
-
--*who_ariste
 Ne t'ai-je pas défendu cent fois...
 
--*who_flamand
-Cela n'empêche pas que je n'écoute, car il y a toujours à profiter avec vos secrets.
+Eh bien quel profit as-tu fait ? Dis moi ?
 
--*who_ariste
-Eh bien quel profit as-tu fait ?
-Dis moi ?
-
--*who_flamand
-J'ai profité que j'enrage, d'avoir entendu quand vous disiez à la veuve que vous lui donnez votre bien, et que vous épousez votre personne avec elle.
-Cela est bien mal à vous de vous ruiner exprès, avec une veuve qui n'a rien : faire du bien à tout le monde, enrichir les malheureux, voilà de vos tours, Monsieur, voilà de vos tours ; il faut avoir bien la rage, de la probité.
-Eh, Monsieur, ne l'épousez plus, et ne donnez rien ; gardez tout pour vous.
-Cela est bon de donner tout par probité, quand on a rien ; mais à cette heure que vous voilà riche, ne soyez plus si honnête homme.
-
--*who_ariste
 Auras-tu toujours les sentiments d'un coquin ?
 
--*who_flamand
-C'est mon naturel ; car quand vous n'aurez plus rien, qui est-ce qui fera ma fortune ?
-J'ai besoin de fortune moi.
-
--*who_ariste
 Tu n'as besoin que de vertu, tâche de m'imiter ; étudie-moi, maraud, étudie-moi.
 
--*who_flamand
-Je voudrais bien étudier les successions.
-
--*who_ariste
 Flamand.
 
--*who_flamand
-Monsieur.
-
--*who_ariste
 La Marquise est-elle chez elle ?
 
--*who_flamand
-Je n'en sais rien ; mais je me plaindrai à elle, que vous voulez épouser la veuve.
-
--*who_ariste
 Je vais lui dire moi-même, Flamand.
 
--*who_flamand
-Que je suis malheureux !
-D'avoir un maître qui donne tout aux autres, et qui n'aura plus rien pour moi.
-
-**** *book_ *id_II06 *act_II *date_1703
-
--*who_flamand
-Ma pauvre Frosine je suis ruiné ; adieu ma fortune, si mon maître épouse cette veuve qui n'a rien ; car il m'avait promis de m'enrichir.
-Ma chère Frosine, toi qui as tant d'esprit ne saurais-tu point quelque secret pour empêcher ce mariage ?
-
--*who_frosine
-C'est à quoi je pense, car ma fortune est attachée à la tienne : écoute, notre Veuve est entêtée de la vertu de ton maître ; pour la dégoûter de lui, si nous pouvions lui faire croire que ton Maître a quelques défauts.
-
--*who_flamand
-Des défauts, oui ; mais le malheur, c'est que mon Maître est parfait.
-
--*who_frosine
-C'est ce qui m'embarrasse ; mais ne lui connais-tu point quelque vertu qui ne soit point vertueuse, et qui paraisse... là quelque vertu à deux envers.
-
--*who_flamand
-J'entends ; oui da, mon maître en fait quelquefois comme cela, qui paraissent d'abord, je ne sais comment, et puis il en fait les plus belles vertus du monde.
-
--*who_frosine
-Voilà justement les vertus qu'il nous faut ; dis-m'en quelqu'une des meilleures ?
-
--*who_flamand
-Je t'en chercherai ; mais le chagrin où j'étais m'a fait oublier que j'ai une lettre pour mon Maître.
-
--*who_frosine
-Une lettre, dis-tu ?
-
--*who_flamand
-Oui, que je viens de prendre à la poste.
-
--*who_frosine
-Il y a peut-être dans cette lettre quelque chose de ce que nous cherchons ; décachetons-la.
-
--*who_flamand
-Non pas, s'il vous plaît, diantre !
-
--*who_frosine
-Il n'y a point de mal à être curieux.
-
--*who_flamand
-Oh !
-Le mal n'est pas à décacheter les lettres des autres, car je l'ai vu faire à mon maître, je le pris une fois sur le fait, mais il m'apprit qu'il avait la bonne intention ; la bonne intention est permise.
-
--*who_frosine
-Sans doute : et comme nous avons la bonne intention.
-
--*who_flamand
-Oui, mais la fidélité à un maître : car mon maître dit que tous les crimes, ce n'est rien au prix de manquer de fidélité domestique.
-
--*who_frosine
-Il a raison, il a raison ; mais la vraie fidélité d'un domestique, c'est de faire le bien de son Maître, n'est-ce pas ?
-
--*who_flamand
-Oui da, je crois que tu as raison.
-
--*who_frosine
-Or tu vois bien l'intention...
-
--*who_flamand
-L'intention, oui... décachetons la lettre.
-Tiens, voilà comme il fit, on recolle cela, et il n'y paraît pas.
-
--*who_frosine
-Dès qu'il n'y paraît pas, cela est permis.
-Hon, hon, c'est l'écriture d'une fille.
-Agnès Doucet.
-
--*who_flamand
-Je sais qui c'est : cette Agnès avait prié mon maître de lui placer de l'argent ; elle voulait aussi du mariage, et mon Maître ne voulait point écrire tout cela ; car il a une méthode, qui dit que l'écriture et les contrats sont des friponneries, parce qu'il n'y a que les fripons, qui se méfient les uns des autres.
-
--*who_frosine
-Je vois ici qu'il aime les mariages sans écritures.
-
--*who_flamand
-Il fallut bien écrire, car un soir après souper il voulut l'épouser ; elle voulut un contrat elle, et lui voulait l'épouser sur sa parole, et cela fit une dispute.
-
--*who_frosine
-Elle le menace de publier certaines affaires d'un dépôt ; sais-tu cela ?
-
--*who_flamand
-Oh pour cela c'est une coquine ; car cette affaire-là fait la louange de mon Maître, c'est encore pour la parole.
-Un certain fripon lui avait donné des diamants par dépôt, mon maître m'a dit qu'il les avait rendus, et pourtant ce fripon-là se les voulait faire rendre deux fois : il fut à la Justice, le juge demanda tout haut à mon Maître, Avez-vous rendu les diamants ?
-Mon maître : ne fit que dire oui tout court, et l'autre n'eût rien ; car mon Maître est si estimé, que quand il dit oui, on le croit sur sa parole.
-
--*who_frosine
-Ceci suffira pour empêcher que la Veuve n'épouse ton Maître : Je vais la montrer.
-
--*who_flamand
-Hé oui, mais si mon Maître sait...
-
--*who_frosine
-Je dirai que c'est moi, qui l'ai été prendre à la Poste.
-
--*who_flamand
-Je consens à tout pour le bien de mon Maître ; car ne ferait-il pas bien mieux d'épouser cette Marquise ?
-
--*who_frosine
-Cette Marquise, dis-tu, est-ce qu'il y pense ?
-
--*who_flamand
-Il ne le veut pas lui, car il sait qu'elle est riche, et c'est assez pour qu'il la refuse ; mais j'ai bien vu que la Marquise en a bien envie : premièrement, parce que tout le monde aime la perfection de mon Maître, et puis elle me donne de temps en temps de l'argent.
-
--*who_frosine
-Oui, ce que tu m'apprends me fait plaisir.
-
--*who_flamand
-Ne va pas dire cela au moins.
-
--*who_frosine
-Non, non, mais je ferai tout ce qu'il faudra pour le bien de ton Maître.
-
--*who_flamand
-Mon maître est bienheureux d'avoir un valet affectionné, c'est une belle chose que l'affection : hé, mon Maître me va demander la lettre.
-
-**** *book_ *id_II07 *act_II *date_1703
-
--*who_ariste
 La Marquise n'est point chez elle ?
 
--*who_flamand
-Non, Monsieur, je m'en vais la chercher.
-
-**** *book_ *id_II08 *act_II *date_1703
-
--*who_ariste
 Il faut pourtant que je la voie au plus vite pour la faire déclarer ; car je vois que le Capitaine m'empêchera d'épouser cette veuve ; il faut presser la Marquise, c'est le plus sûr ; elle a dessein de m'épouser, il faut la faire déclarer.
 
-**** *book_ *id_II09 *act_II *date_1703
-
--*who_lamarquise
-Ah !
-Monsieur Ariste, je n'en puis plus ; quelle fatigue !
-La tête me fend, je suis à demi morte : je viens de quitter le père et la mère de celle que mon fils épouse ; ce père et cette mère, les plus ennuyeux de tous les pères et mères, m'ont enfermée dans un cabinet pour m'assommer d'un détail de contrats, d'articles, de douaires, de préciputs : je m'échappe comme une furieuse, je sors du cabinet, je donne dans une embuscade de Notaires, d'Avocats qui me demandent la bourse ; allez vite disputer mon bien contre ces Arabes-là.
-
--*who_ariste
 Vous me prenez dans un moment fâcheux, je ne puis plus avoir nulle liaison avec vous, il faut nous séparer ; en un mot, j'épouse la veuve de mon ami.
 
--*who_lamarquise
-Vous l'épousez ?
-
--*who_ariste
 Oui, Madame, je viens de lui offrir cinq cent mille livres, qu'on m'a pour ainsi dire, restituées par un testament.
 
--*who_lamarquise
-Qu'ai-je entendu, monsieur !
-J'en suis restée muette, et c'est la première fois de ma vie que la parole m'a manquée : vous voulez épouser la Veuve !
-Quoi, tous les témoignages d'estime et de confiance que je vous ai donnés, ne vous ont pas fait comprendre que je ne puis plus me passer de vous ?
-Où trouverai-je un homme assez habile, et honnête homme, pour assurer le repos de ma vie, en se chargeant de l'embarras de mes affaires ?
-Mais est-il possible que vous n'ayez pas deviné mes intentions ?
+Ah ! Madame, je ne m'en suis que trop aperçu.
 
--*who_ariste
-Ah !
-Madame, je ne m'en suis que trop aperçu.
-
--*who_lamarquise
-Trop aperçu !
-Que veut dire ce trop-là, s'il vous plaît ?
-
--*who_ariste
 Je n'ai que trop compris les bontés que vous avez pour moi ; et ce sont ces bontés qui m'ont déterminé promptement à épouser cette veuve.
 
--*who_lamarquise
-Expliquez-vous.
-
--*who_ariste
 Oui, Madame, je me suis engagé, je me suis lié, prévoyant que si je me laissais à moi-même, je succomberais au plaisir de me donner à vous : j'ai bien senti que mon coeur... mais Madame, la sincérité m'emporte au-delà du respect ; dès que j'ai une vérité sur le coeur, il faut qu'elle paraisse ; je n'ai pu vous cacher mon amour.
 
--*who_lamarquise
-C'est-à-dire votre amitié.
-
--*who_ariste
 Quand je dis de l'amour, c'est de l'amour, je ne dis jamais un mot pour l'autre.
 
--*who_lamarquise
-Je vous crois Monsieur, je vous crois, et je me sais bon gré d'avoir enflammé tant de probité pour moi, à qui l'amour répugne, parce que c'est une passion sérieuse ; je n'ai en vue qu'un mariage de commodité, que nous terminerons quand j'aurai marié mon fils.
+Ah ! Madame, je me dois à la Veuve de mon ami par mille raisons, et de plus, puis-je penser à vous sans commettre un crime ? Car enfin commettre un second mariage, avec une femme qui a un fils, vous épouser Madame, n'est-ce pas déshériter, voler un héritier légitime ?
 
--*who_ariste
-Ah !
-Madame, je me dois à la Veuve de mon ami par mille raisons, et de plus, puis-je penser à vous sans commettre un crime ?
-Car enfin commettre un second mariage, avec une femme qui a un fils, vous épouser Madame, n'est-ce pas déshériter, voler un héritier légitime ?
-
--*who_lamarquise
-Mais vous qui êtes si scrupuleux, pouvez-vous en conscience épouser une femme, ayant pour une autre une passion dans le coeur ?
-
--*who_ariste
 C'est ce qui m'embarrasse.
 
--*who_lamarquise
-Se marier à droite, et aimer à gauche, c'est ce qui fait tant de ménages à vaudeville.
-
--*who_ariste
 Tant de mauvais ménages, c'est ce que je crains : vous parlez de bon sens, mais vous avez un fils, à qui je ferais tort.
 
--*who_lamarquise
-Au contraire, à présent que vous voilà riche, vous rétablirez les affaires de sa maison : où trouverait-il un beau-père aussi habile que vous ?
-
--*who_ariste
 Il est vrai que...
 
--*who_lamarquise
-Un aussi honnête homme.
-
--*who_ariste
 J'en conviens.
 
--*who_lamarquise
-Si vous m'abandonnez, je suis ruinée.
-
--*who_ariste
 D'accord.
 
--*who_lamarquise
-Abîmée.
-
--*who_ariste
 Tout cela est vrai : que vous êtes séduisante, Madame, de mette ainsi la raison du côté de l'amour !
 
--*who_lamarquise
-Ah, vous voilà convaincu.
-J'admire qu'une folle comme moi, soit plus forte en morale que Monsieur Ariste ; çà voilà donc notre mariage résolu, nous le terminerons dans quelques jours.
+Dans quelques jours, dites-vous ? Le Ciel soit loué, vous me donnerez le temps de faire des réflexions.
 
--*who_ariste
-Dans quelques jours, dites-vous ?
-Le Ciel soit loué, vous me donnerez le temps de faire des réflexions.
-
--*who_lamarquise
-Comment donc ?
-
--*who_ariste
 Vous me donnez le temps de terminer avec la veuve.
 
--*who_lamarquise
-Mais si je vous épousais dès aujourd'hui, cela nuirait au mariage de mon fils ; voudrait-on se charger d'un fils que vous pourriez empêcher d'être unique ?
-
--*who_ariste
 En nous mariant secrètement, nous pourrions cacher la chose, jusqu'à ce que votre fils fût pourvu.
 
--*who_lamarquise
-Oh, je ne puis pas terminer sitôt, cela ferait tort à un fils dont je n'ai point lieu de me plaindre ; c'est tout ce que je pourrais faire s'il me désobéissait.
-Çà faites-le chercher, et amenez-le-moi là-dedans, que nous pensions à son mariage.
-
-**** *book_ *id_II10 *act_II *date_1703
-
--*who_ariste
 En la pressant trop, je serais suspect ; cependant ce Capitaine va publier ce testament, qui me dépossède ; la Marquise ne voudra plus de moi, il faut tout risquer pour la presser, si je pouvais l'irriter contre son fils, elle terminerait brusquement.
 
-**** *book_ *id_II11 *act_II *date_1703
-
--*who_valere
-Je vous cherche, Monsieur, pour vous parler en particulier, j'ai besoin de vos conseils.
-Mais avant de vous déclarer mon secret, permettez-moi de vous demander, si je puis compter sur votre amitié ?
-Êtes-vous mon ami ?
-
--*who_ariste
 Mille bonnes qualités vous ont acquis mon coeur ; mais le nom d'ami ne se doit donner que longtemps après le coeur ; cependant vous avez besoin de moi, je puis vous être utile, cela me détermine à vous donner avant le temps ce nom d'ami, si commun, et si peu connu dans le monde, ce nom qu'on donne si facilement, et dont les devoirs sont si difficiles à remplir ; en un mot ce nom qui me livre à vous sans réserve : comptez donc sur moi, je suis votre ami.
 
--*who_valere
-Vous dire que je suis le vôtre, c'est, selon vous la plus forte reconnaissance que je puisse vous témoigner.
-Le secret que je vous confie, Monsieur, c'est que j'aime la plus charmante personne du monde, c'est Angélique.
-Si ma mère savait que je pense à une fille déshéritée, elle serait femme à me déshériter moi-même : cependant Angélique déshéritée, m'en a paru mille fois plus aimable, et son malheur a redoublé ma passion.
-
--*who_ariste
 Je ne croyais pas qu'il y eût encore un coeur fait comme le mien.
 
--*who_valere
-Réparer l'injustice que la fortune fait au mérite...
-
--*who_ariste
 Quelle volupté, quelle volupté !
 
--*who_valere
-Peut-on faire un usage plus charmant des richesses ?
-
--*who_ariste
 Voilà comme je parlerais.
 
--*who_valere
-C'est en ce cas qu'il est permis à un galant homme, de faire attention au plaisir d'être riche.
+C'est moi qui parle : quelle conformité entre nous ! Mêmes maximes, mêmes sentiments ; embrassez-moi, mon cher Monsieur, nous ne pouvions manquer d'être amis.
 
--*who_ariste
-C'est moi qui parle : quelle conformité entre nous !
-Mêmes maximes, mêmes sentiments ; embrassez-moi, mon cher Monsieur, nous ne pouvions manquer d'être amis.
-
--*who_valere
-La grâce que je vous demande, c'est, Monsieur, que...
-
--*who_ariste
 Je vous entends, que je détourne le mariage dont votre mère vous menace.
 
--*who_valere
-Oui, Monsieur, mais il faudrait...
-
--*who_ariste
 Que vous ne parussiez point refuser.
 
--*who_valere
-Justement.
-
--*who_ariste
 Et ensuite je disposerai votre Mère à ce que vous souhaitez.
 
--*who_valere
-Vous entrez dans mes intérêts comme moi-même.
+Le vrai ami pénètre, devine, prévient sans cesse. Mais il me vient une idée, je crois que votre Mère est déjà informée de votre amour.
 
--*who_ariste
-Le vrai ami pénètre, devine, prévient sans cesse.
-Mais il me vient une idée, je crois que votre Mère est déjà informée de votre amour.
-
--*who_valere
-Cela ne se peut.
-
--*who_ariste
 Cependant elle m'a tenu tantôt certains discours...
 
--*who_valere
-Elle ne peut s'en douter, je n'ai confié ce secret qu'à vous.
-
--*who_ariste
 Je crois même en avoir entendu dire quelque mot dans le logis.
 
--*who_valere
-Je serais perdu.
+Quoi qu'il en soit, je raccommoderai tout, fiez-vous à moi. Mais je vous conseille d'éviter votre mère le reste du jour : elle vous attend pour vous marier, il faudrait ou obéir, ou l'irriter.
 
--*who_ariste
-Quoi qu'il en soit, je raccommoderai tout, fiez-vous à moi.
-Mais je vous conseille d'éviter votre mère le reste du jour : elle vous attend pour vous marier, il faudrait ou obéir, ou l'irriter.
-
--*who_valere
-Votre conseil est très prudent, je vais où vous me laissâtes hier.
-
--*who_ariste
 Fort bien, j'irai vous avertir de ce que j'aurai fait pour vous.
 
-**** *book_ *id_II12 *act_II *date_1703
-
--*who_ariste
 Cet amour vient tout à propos pour brouiller le Fils avec la mère, pour l'en instruire sans être suspect, il faut... oui... un billet d'une écriture contrefaite.
 
--*who_laveuve
-Je vous cherche, Monsieur, pour m'éclaircir sur une lettre qu'on vient de me montrer, et que je ne crois point ; car on peut contrefaire une lettre : c'est d'une fille à qui vous avez promis mariage.
-Ah !
-Monsieur Ariste, si vous étiez capable de tromper une personne qui vous aimerait, je vous croirais capable de toutes les faussetés qu'on dit de vous.
-Vous ne répondez point, vous êtes tranquille.
-
--*who_ariste
 La calomnie étonne, irrite les gens d'une probité douteuse ; mais ceux qui par une vertu avérée...
 
--*who_laveuve
-Comme la vôtre.
-
--*who_ariste
 Se sentant au-dessus des soupçons mêmes, demeurent intrépides, froids, et tranquilles.
 
--*who_laveuve
-Et tranquilles !
-
--*who_ariste
 Ainsi laissant aux demi vertueux les justifications et les serments, je vous dirai simplement, uniment : cela n'est pas vrai.
 
--*who_laveuve
-Cela n'est pas vrai, ah !
-Que voilà bien le langage de l'innocence : cela n'est pas vrai.
-
-**** *book_ *id_II13 *act_II *date_1703
-
--*who_lecapitaine
-Madame, on vient encore de m'apprendre...
-
--*who_laveuve
-Cela n'est pas vrai.
-
--*who_lecapitaine
-Vous ne savez pas de quoi il s'agit.
-
--*who_laveuve
-Cela n'est pas vrai.
-
--*who_lecapitaine
-Puisque vous le voulez donc, Monsieur Ariste est homme d'honneur.
-
--*who_laveuve
-Cela n'est pas vrai.
-
--*who_lecapitaine
-Vous l'avez dit.
-
--*who_laveuve
-Et une preuve que tout ce qu'on dit de lui est faux, c'est que je l'épouserai dès aujourd'hui.
-Car enfin, Monsieur, on a beau dire que vous avez un testament contre lui, si vous l'avez, que ne le montrez-vous ?
-
--*who_lecapitaine
-Si je vous le montrais, épouseriez-vous Monsieur ?
-
--*who_laveuve
-Oui, Monsieur, je l'épouserais, oui ; car comme il m'a offert de bonne foi ce qu'il croit avoir, je lui donnerais tout, si je l'avais.
-
--*who_ariste
 Laissez-moi ici ménager vos intérêts avec cet homme-là.
 
--*who_laveuve
-Débarrassez-m'en donc vite ; car je suis lasse de toutes ses malhonnêtetés.
-
--*who_lecapitaine
-Vous m'outragez, la Veuve.
-
-**** *book_ *id_II14 *act_II *date_1703
-
--*who_ariste
 Les femmes sont sujettes à des soupçons mal fondés ; je ne crains rien moi, je suis certain que j'ai tout, et j'ai tout offert ; en un mot, j'ai fait mon devoir, en offrant mes biens et ma personne.
 
--*who_lecapitaine
-C'est trop d'un article.
+Qu'entendez-vous par là ? Expliquez-vous de grâce... faites-moi part de vos réflexions.
 
--*who_ariste
-Qu'entendez-vous par là ?
-Expliquez-vous de grâce... faites-moi part de vos réflexions.
+Un second testament, ah Ciel ! Quelle surprise est la mienne !
 
--*who_lecapitaine
-Je fais réflexion que je suis un sot ; votre manoeuvre est plus fine que la mienne.
-Je vous avais tendu un panneau pour vous éloigner de la veuve, et vous vous en êtes servi pour l'aborder ; vous avez pénétré un secret que je croyais impénétrable, c'est que j'avais ceci en poche, lisez.
-
--*who_ariste
-Un second testament, ah Ciel !
-Quelle surprise est la mienne !
-
--*who_lecapitaine
-Cela ne vous surprend pas, mais cela vous fâche ; car j'ai intérêt de vous couler à fond auprès de la veuve : j'ai senti renaître en moi-même, une vieille envie de l'épouser.
-
--*who_ariste
 J'avoue que je ne puis sortir de mon étonnement.
 
--*who_lecapitaine
-Je vous y laisse : je voulais capituler avec vous, et c'est pour cela que je n'ai pas voulu montrer ceci à la Veuve ; mais puisque vous faites tant l'étonné, je vais lui dire ceci en main ; que, si elle vous préfère à moi, je garderai tout son bien ; je ferai comme je le dis ; ajoutez cela à votre étonnement.
-
--*who_ariste
 Monsieur, Monsieur.
 
--*who_lecapitaine
-Vous battez la chamade, capitulons.
-
--*who_ariste
 Si vous jugez mal de mes démarches, j'appelle de vos jugements à moi-même ; car chacun porte dans son coeur ce Tribunal...
 
--*who_lecapitaine
-Mons du Tribunal, mentez-vous quelquefois ?
-
--*who_ariste
 La question est brusque : sachez que je suis un homme vrai, mais extrêmement vrai.
 
--*who_lecapitaine
-Je suis un peu faux moi, un peu casuel : hé !
-Votre parole vaut-elle quelque chose ?
-
--*who_ariste
 Ma parole, j'en suis esclave.
 
--*who_lecapitaine
-Je suis le maître de la mienne, je la fais servir à mes besoins ; et vous, vous sentez-vous capable d'une belle action, d'une action généreuse ?
-
--*who_ariste
 Les belles actions sont les enfants du coeur, et...
 
--*who_lecapitaine
-Je mourrai sans enfants, moi.
-L'action généreuse que je vous demande, c'est que vous m'aidiez à guérir la veuve de l'amour qu'elle a pour vous, et de la haine qu'elle a pour moi ; et en échange je favoriserai vos desseins sur certaine Marquise.
-Vous êtes vraiment surpris pour le coup ; je sais vos secrets, on m'a dit que vous voulez l'épouser.
-
--*who_ariste
 On vous l'a dit ?
 
--*who_lecapitaine
-Oui.
-
--*who_ariste
 Assurément ?
 
--*who_lecapitaine
-Oui parbleu.
-
--*who_ariste
 Très assurément ?
 
--*who_lecapitaine
-J'en jure, mais est-il vrai que vous y pensiez ?
-
--*who_ariste
 Moi, non.
 
--*who_lecapitaine
-Assurément ?
-
--*who_ariste
 J'ai dit non, cela suffit.
 
--*who_lecapitaine
-Vous m'avez fait jurer moi.
-
--*who_ariste
 Mes serments sont oui et non.
 
--*who_lecapitaine
-Oui et non, ce n'est pas jurer, mais c'est mentir quelquefois.
-Par exemple quand vous avez dit oui en Justice, autre lecture ;
-C'est une lettre d'Agnès Doucet, je cacherai ceci aux deux veuves ; je cacherai aussi le Testament que j'ai, jusqu'à ce que vous ayez épouser la Marquise, qui vous croit riche ; je vous servirai auprès de cette Veuve-là, et vous me servirez auprès de la mienne : en un mot partageons les Veuves : vous hésitez Monsieur, si vous me craignez, soyez généreux : hé bien vous sentez-vous net, examinez-vous bien devant ce tribunal : vous palissez : la probité a peur.
-
--*who_ariste
 J'ai peur, je vous l'avoue, j'ai peur que cette imposture ne vous fasse attribuer à ma crainte le pas que je vais faire ; cependant pour l'intérêt seul de la Veuve, je dois vous la céder, à vous qui êtes maître du bien, que je lui avais offert : je vous promets par ce motif seul d'agir auprès d'elle pour vous, contre moi-même : entrez toujours Monsieur, j'ai un mot à écrire chez moi, et je redescends.
 
--*who_lecapitaine
-Venez promptement lui parler, comme vous le promettez ; car je suis homme à faire perdre la parole, à un homme qui m'en manquerait.
-
-**** *book_ *id_III01 *act_III *date_1703
-
--*who_lecapitaine
-Ouais, mon homme ne redescend point, cela m'inquiète.
-
--*who_frosine
-Il est là dans cette galerie avec Angélique, il tâche de la persuader qu'elle se laisse épouser par Valère incognito, sans le consentement de la Marquise.
-Nous pénétrons les vues du traître ; et nous espérons tirer de lui quelque trait de fourberie, qui achèvera de faire ouvrir les yeux à la Veuve, sur le différence qu'il y a de vous à Ariste.
-
--*who_lecapitaine
-Tu redoubles mon inquiétude, Frosine.
-
--*who_frosine
-J'espère pourtant que la nouvelle tentative, que nous projetons, fera connaître à la veuve qu'Ariste est un fourbe, et que vous êtes le plus honnête homme.
-
--*who_lecapitaine
-Mon inquiétude augmente, à mesure que tu parles ; car depuis que je suis entré ici, tu ne fais que me louanger ; tu cries sans cesse que je suis honnête homme, et cela me fait tort.
-
--*who_frosine
-Vous dites autant de mal de vous, qu'Ariste dit du bien de lui ; et quand un homme dit, je ne vaux rien, et que l'autre dit, je vaux beaucoup, je crois qu'ils ont menti tous deux.
-
--*who_lecapitaine
-Oh, tu m'impatientes !
-Car j'ai intérêt de passer ici pour un méchant homme, pour un pirate ; et afin de démasquer notre faux honnête homme il faut que je paraisse...
-aussi fourbe que je lui : tiens, voilà ce que je te donne pour dire mal de moi.
-
--*who_frosine
-Si on payait toutes les médisances à ce prix-là ; que les femmes seraient riches !
-
--*who_lecapitaine
-Puisqu'il faut te faire la confidence entière, je n'ai nulle envie d'épouser la veuve ; mais je ne laisse pas de lui vouloir du bien : ce n'est pas sa faute si elle me hait, je ne suis pas fait pour donner de l'amour.
-J'ai donc voulu la détromper de son homme d'honneur, avant que de lui rendre son bien ; qu'elle lui aurait donné d'abord au préjudice de sa nièce.
-
--*who_frosine
-Hélas, si elle le tenait encore à présent, elle le lui donnerait tout, et nous n'aurions rien : que vous avez-vous agi prudemment !
-Mais pourquoi n'avez-vous pas montré le testament que vous avez ?
-
--*who_lecapitaine
-C'est pour mieux faire donner notre homme, dans le piège que je lui tends.
-
--*who_frosine
-Ah !
-Je comprends à présent toute votre conduite, qu'elle est censée !
-Et que vous avez bien raison de vouloir qu'Ariste vous croie aussi fourbe que lui !
-
--*who_lecapitaine
-Je tremble de peur qu'il ne me soupçonne d'être assez bon homme, pour vouloir rendre le bien à la Veuve ; car enfin s'il osait risquer de l'épouser à présent, que pourrais-je faire ?
-Il faudrait bien rendre ce que j'ai.
-
--*who_frosine
-Nous serions perdus : je tremble du péril que nous courons, s'il allait deviner que vous êtes ...
-(Je ne le dirai plus que cette fois-là) le plus honnête homme... mais voici Valère, nous avons besoin de lui pour notre dessein.
-
--*who_lecapitaine
-Je vais dire un mot en passant à notre homme, pour commencer à engager l'affaire.
-
-**** *book_ *id_III02 *act_III *date_1703
-
--*who_valere
-Frosine, j'ai intérêt de ne point paraître ici ; mais sur ce qu'on m'a dit de ta part, je hasarde tout.
-
--*who_frosine
-Il y a une heure que je vous fais chercher partout, j'ai mille choses à vous dire.
-La première, c'est que votre mère depuis un moment a fait une sortie sur moi, comme si j'étais coupable : comme si les suivantes étaient complices de l'amour, qu'on a pour leurs Maîtresses.
-
--*who_valere
-Quoi !
-Ma mère sait mon amour.
-
--*who_frosine
-Il ne s'agit plus de le cacher, il s'agit de le rendre légitime.
-
--*who_valere
-Ma mère va me déshériter, je suis perdu.
-
--*who_frosine
-Il s'agit à présent de... votre mère vient fondre sur vous, l'orage va tomber.
-Mettons-nous à l'abri.
-
-**** *book_ *id_III03 *act_III *date_1703
-
--*who_lamarquise
-Je viens d'apprendre une nouvelle agréable, on dit que tu épouses Angélique.
-
--*who_valere
-Ah !
-Ma mère, vous allez éclater contre elle.
-
--*who_lamarquise
-Me vois-tu fulminer, tempêter, menacer ?
-
--*who_valere
-Elle va être exposée à votre colère.
-
--*who_lamarquise
-Je suis assez tranquille, ce me semble.
-
--*who_valere
-Si vous aviez la bonté d'entendre mes raisons...
-
--*who_lamarquise
-Tu vois que je t'écoute agréablement.
-
--*who_valere
-Serait-il possible que vous approuvassiez ?...
-
--*who_lamarquise
-Pour approuver, non, mais je ne me fâche point.
-
--*who_valere
-Ah !
-Le ton dont vous me parlez, me fait connaître...
-
--*who_lamarquise
-Je ne me chagrine point, te dis-je, au contraire : tu refuses un riche parti, cette Angélique n'a rien, je te laisserai peu, et peu de chose avec rien, cela fera un établissement ridicule qui me réjouira.
-
--*who_valere
-Je vous entends.
-
--*who_lamarquise
-Ce qui me réjouit le plus, c'est que tu crois me fâcher, quand tu me fais plaisir ; mais ce qui s'appelle plaisir à la lettre ; plaisir : car en me désobéissant tu m'autorises à faire une certaine démarche ; je n'attendais qu'un prétexte, tu me le fournis, cela est heureux.
-
--*who_valere
-Vous m'allez déshériter ?
-
--*who_lamarquise
-Non, mon Fils, non, mon coeur, ce n'est point là mon intention.
-Déshériter un fils unique !
-Il faudrait être bien dénaturée, bien inhumaine : je prends un parti plus humain, je me remarie.
-
--*who_valere
-Vous, ma mère ?
-
--*who_lamarquise
-Oui, mon enfant, je me remarie, et je me remarierai tant, tant, que je te donnerai une douzaine de frères, et de soeurs ; cette manière de déshériter, est bien plus réjouissante que l'autre.
-
--*who_valere
-Vous plaisantez, ma mère, je suis persuadé que vous n'avez nulle inclination...
-
--*who_lamarquise
-Je suis persuadée que j'en ai, mais je fais mes affaires plus secrètement que toi : je lèverai pourtant bientôt le masque ; tu suis ton petit penchant sans crainte de me déplaire ; je suivrai le mien, sans me soucier de te faire tort.
-
--*who_valere
-Je ne vois pas sur qui vous pourriez avoir jeté les yeux.
-
--*who_lamarquise
-Tu as jeté les yeux sur une personne aimable, je t'en offre autant.
-
--*who_valere
-Plus j'y pense, et moins je devine.
-
--*who_lamarquise
-Ton Angélique est charmante, mais tu verras celui que j'aurai épousé ; c'est un grand garçon bien bâti.
-
--*who_valere
-Je m'y perds.
-
--*who_lamarquise
-Au moins, mon fils, je te promets de regarder ma bru de bon oeil ; mais ne t'avise pas de faire la grimace à ton beau-père.
-
-**** *book_ *id_III04 *act_III *date_1703
-
--*who_lamarquise
-Elle vient à moi, tu vas voir le bon accueil que je lui ferai.
-
--*who_valere
-Que veut Angélique à ma mère ?
-
--*who_lamarquise
-Que je vous embrasse, vous êtes charmante : qu'y a-t-il pour votre service ?
-Venez-vous me demander mon consentement ?
-
--*who_angelique
-Non Madame, je viens vous donner un avis qui vous regarde.
-
--*who_lamarquise
-De quoi s'agit-il ?
-Parlez.
-
--*who_angelique
-Madame, sans trop pénétrer les vues que Monsieur Ariste peut avoir sur vous, j'ai cru qu'il vous était important de connaître à fond son caractère.
-
--*who_lamarquise
-Je le crois très honnête homme.
-
--*who_angelique
-Cet homme-là, Madame, après une longue conversation, où j'ai cru démêler qu'il avait grand intérêt de vous brouiller avec Monsieur votre fils, m'a enfin proposé de l'épouser sans votre consentement.
-
--*who_lamarquise
-Que me dites-vous là, Mademoiselle ?
-
--*who_valere
-Ce que j'entends me fait soupçonner...
-
--*who_lamarquise
-Il me revient aussi quelque léger soupçon...
-
--*who_valere
-Pardonnez ma curiosité, ma mère : qui vous a instruite de mon amour ?
-
--*who_lamarquise
-Ta curiosité excite la mienne : Monsieur Ariste t'a-t-il conseillé tantôt de m'obéir ?
-
--*who_valere
-De grâce, ma mère, monsieur Ariste sait-il le dessein que vous avez de vous remarier ?
-
--*who_lamarquise
-Je comprends qu'il est bon d'éclaircir la chose : ne nous dissimulons rien, mon fils, et pour l'intérêt commun raccommodons-nous ensemble ; nous nous rebrouillerons toujours bien après.
-
--*who_angelique
-Sans vous exposer à un éclaircissement désagréable, vous pouvez conter qu'Ariste vous trahissait tous deux.
-
--*who_valere
-Je commence à voir que c'est le plus grand fourbe...
-
--*who_angelique
-En vous détrompant d'un homme que vous estimez, Madame, je vous fais peut-être quelque chagrin ?
-
--*who_lamarquise
-Non, Mademoiselle, non, j'ai beaucoup de force d'esprit, nulle faiblesse de coeur ; je voulais un mari honnête homme, celui-là ne l'est pas, que m'importe ?
-Je trouverai un autre beau-père à mon fils, pour le punir, s'il me désobéit : j'ai plus d'une punition en tête.
-
--*who_valere
-Plus je pense à la trahison d'Ariste, et plus je suis saisi d'indignation.
-
--*who_lamarquise
-Quand je pense qu'il ne s'en est fallu de rien que je n'aie été la femme d'un scélérat, je trouve cela plaisant.
-
--*who_valere
-Un homme peut-il imaginer une telle perfidie ?
-
--*who_lamarquise
-Cet homme-là imagine plus agréablement qu'un autre.
-
--*who_valere
-Il y a là une noirceur.
-
--*who_lamarquise
-Une noirceur à mourir de rire.
-
--*who_valere
-Mais, ma mère, vous ne faites pas assez d'attention au malheur qui vous menaçait ; c'est Angélique qui vous en garantit : quelles obligations ne lui avez-vous point ?
-
--*who_lamarquise
-Tu me fais souvenir que j'en ai toute la reconnaissance possible.
-
--*who_angelique
-L'obligation que vous m'avez, c'est d'avoir pu me contraindre assez, pour écouter tranquillement les propositions indignes qu'il m'a faites ; j'ai voulu feindre de les accepter, afin que vous pussiez vous convaincre par vous-même, en suivant cela, si vous ne m'en croyez pas sur ma parole.
-
--*who_lamarquise
-J'admire sa prudence et sa sagesse : sais-tu bien, mon fils, que je commence à trouver, qu'elle mérite assez l'estime que tu as pour elle ?
-
--*who_valere
-C'est dommage, qu'un si grand mérite soit si mal doté.
-
--*who_angelique
-Ce que j'ai, suffit pour entrer dans une retraite.
-
--*who_lamarquise
-Sa fierté même est aimable.
-
--*who_angelique
-C'est le parti que je vais prendre, Monsieur, ne vous flattez plus d'aucune espérance : dans la disposition, où je vois ma tante, je n'ai plus nulle ressource ; comptez là-dessus, et prenez le parti d'obéir à Madame ; je vous en conjure par toute la tendresse que vous avez pour moi.
-
--*who_lamarquise
-Cela me touche, et cela me pénètre, et peu s'en faut que je ne consente.
-
--*who_angelique
-Non, Madame, votre consentement serait inutile, je ne veux point devoir ma fortune à un époux.
-
--*who_valere
-Quoi, vous craindriez...
-
--*who_angelique
-Je ne crains point qu'un galant homme comme vous en vînt aux reproches ; mais vous pourriez aller jusqu'aux réflexions.
-
--*who_lamarquise
-Plus elle parle, plus elle me gagne le coeur.
-Quoi si je consentais en ce moment !
-
--*who_angelique
-Non, Madame.
-
--*who_lamarquise
-Si je souhaitais que vous fussiez ma fille !
-
--*who_angelique
-Non, vous dis-je.
-
--*who_lamarquise
-Si je vous en priais, si je vous en conjurais !
-
--*who_angelique
-Adieu Madame.
-
--*who_valere
-Ah !
-Que vous êtes cruelle !
-Pourquoi ces délicatesses outrées, puisque ma mère le souhaite ?
-Elle vous en prie, elle vous en conjure.
-
-**** *book_ *id_III05 *act_III *date_1703
-
--*who_valere
-Ah !
-Ma mère, conservez pour elle cette bonne volonté.
-
--*who_lamarquise
-Elle prend la chose à merveille ; car dans le fond, ce qui me charme en elle, c'est la générosité ; si elle acceptait, elle cesserait d'être généreuse, et je cesserais peut-être d'être charmée.
-
--*who_valere
-Quoi !
-Vous changez déjà ?
-
--*who_lamarquise
-Point du tout : je sens réellement que je la souhaite ; mais si elle commençait à vouloir, je ne voudrais peut-être plus : car il faudrait que je fusse folle, vous aimant tous deux, de vous marier, n'ayant pour tout bien que l'espérance d'hériter de moi : vous seriez morts de faim avant que je mourusse de vieillesse.
-
--*who_frosine
-Madame a raison, il faut que vous épousiez une fille opulente : mais Madame si par hasard Angélique devenait riche.
-
--*who_lamarquise
-Je préférerais en elle, une richesse médiocre, à l'opulence d'un autre.
-
--*who_frosine
-Rendez-lui donc service en cette occasion ; vous, Monsieur commencez par entrer chez la veuve, car les moments sont chers, exagérez-lui bien la trahison...
-
--*who_lamarquise
-J'entends ; je lui dépeindrai la trahison d'Ariste, avec des couleurs si vives...
-
--*who_frosine
-Entrez promptement.
-
-**** *book_ *id_III06 *act_III *date_1703
-
--*who_lamarquise
-Çà, en deux mots, que faut-il que je fasse moi ?
-
--*who_frosine
-Comme vous auriez fait, si vous vouliez encore l'épouser ; amusez-le toujours, et pour cause, je viens de lui dire rage du Capitaine : il est entré chez vous apparemment pour presser vos noces.
-
--*who_lamarquise
-Non, je le vois encore dans la galerie, je vais lui dire de m'aller attendre chez moi pour terminer ; moi j'entrerai chez la Veuve, sans qu'il le voie.
-
--*who_frosine
-Fort bien ; nous parlerons tous de concert à la Veuve, sans qu'il y soit.
-
--*who_lamarquise
-Je cours le fixer, compte sur moi.
-
-**** *book_ *id_III07 *act_III *date_1703
-
--*who_frosine
-Ah !
-Respirons un moment ; après avoir pris des mesures si justes, nous serions bien malheureux, s'il allait deviner qu'il pourrait épouser à présent la Veuve sans rien risquer : mais l'espérance de la Marquise l'amusera, pendant que...
-
-**** *book_ *id_III08 *act_III *date_1703
-
--*who_flamand
-Oui, tout ce qu'on dit de mon Maître est faux ; tous ceux qui disent du mal de sa probité sont des ignorants.
-Ah !
-Frosine, tu me vois dans une colère.
-
--*who_frosine
-Hé de quoi ?
-
--*who_flamand
-Où est mon maître, que j'aille le mettre en colère aussi.
-
--*who_frosine
-Patience : conte-moi.
-
--*who_flamand
-Comme j'entrais là-dedans pour le chercher, j'ai entendu ce Valère qui dit des faussetés de mon maître : par la morbleu !
-
--*who_frosine
-Doucement.
-
--*who_flamand
-Non, l'affection me monte à la tête, dire que mon maître fait des friponneries...
-
--*who_frosine
-Parle donc bas.
-
--*who_flamand
-Je veux me fâcher tout haut moi.
-
--*who_frosine
-Veux-tu te taire ?
-
--*who_flamand
-Non, Frosine, car l'affection...
-
--*who_frosine
-Tais-toi donc.
-
--*who_flamand
-Oui, mon affection va dire à mon Maître...
-
--*who_frosine
-Garde-t'en bien
-
--*who_flamand
-Je veux lui dire qu'il est honnête homme, et que...
-
--*who_frosine
-Veux-tu m'écouter ?
-Tu vas perdre ta fortune, si tu ne veux parler bas.
-
--*who_flamand
-Ma fortune, dis-tu ?
-
--*who_frosine
-Oui, vraiment, car tout ce qu'on dit là-dedans à la Veuve, c'est parce que la Veuve veut épouser ton Maître.
-
--*who_flamand
-L'épouser !
-Et elle en dit la rage.
-
--*who_frosine
-Hé !
-Le gros animal !
-N'est-ce pas à la Veuve qu'ils disent tout ce mal-là de ton maître ?
-
--*who_flamand
-Hé bien, oui.
-
--*who_frosine
-Hé bien oui, pour dégoûter la veuve de ton maître, afin qu'elle le cède à la Marquise ; ne sommes-nous pas convenus toi et moi tantôt ?...
-
--*who_flamand
-Ha !
-Je m'en souviens, c'est la finesse que tu as trouvée tantôt.
-
--*who_frosine
-La finesse, oui.
-
--*who_flamand
-Oh !
-Si c'est pour épouser la Marquise, je donne mon consentement.
-
--*who_frosine
-Ton maître vient, retire-toi, que je lui parle seule.
-
--*who_flamand
-Je m'en vais encore écouter là-dedans : je rirai bien à cette heure, que je sais la finesse.
-
-**** *book_ *id_III09 *act_III *date_1703
-
--*who_frosine
-Ah !
-Monsieur, nous n'avons plus d'espérance qu'en vous, qu'en votre bon coeur, qu'en votre probité ; car enfin nous voyons bien que le Capitaine nous trompe, je vous l'ai déjà dit, il n'a point de Testament : il voulait nous faire peur pour attraper la Veuve, le scélérat qu'il est ; mais la veuve est enragée contre lui, pour les calomnies qu'il a faites contre vous.
-
--*who_ariste
 Hon, je hais les fourbes.
 
--*who_frosine
-C'est le plus grand fourbe, que ce Capitaine...
-
--*who_ariste
 Ces gens-là n'ont point de principes.
 
--*who_frosine
-C'est un homme sans foi, sans honneur que ce Capitaine...
-
--*who_ariste
 Taisez-vous, je n'aime point à entendre parler mal de personne.
 
--*who_frosine
-Je sais de lui les actions les plus noires, les plus abominables : il médite quelque trahison pour nous ruiner.
-
--*who_ariste
 Il m'en a touché quelque chose.
 
--*who_frosine
-Ah !
-Monsieur, s'il vous propose quelque friponnerie contre nous, empêchez-la, je vous prie.
-Si nous faisions semblant de nous défier de lui, il nous abîmerait tous ; hé Monsieur, prenez bien contre lui nos intérêts, c'est de vous seul que nous attendons notre bonheur, protégez-nous, servez-nous de père.
-
--*who_ariste
 Vous serez tout content de moi.
 Tout ceci commence à bien aller, ce Capitaine veut s'accommoder de bonne foi, et c'est son intérêt.
 
-**** *book_ *id_III10 *act_III *date_1703
-
--*who_flamand
-Réjouissez-vous, Monsieur, réjouissez-vous.
-
--*who_ariste
 Hé de quoi, Flamand ?
 
--*who_flamand
-La joie fait que je ne saurais me taire, car tout le monde travaille là-dedans pour votre fortune.
-
--*who_ariste
 Que veux-tu dire ?
 
--*who_flamand
-Je veux dire votre profit et votre bien, car on travaille à dégoûter la Veuve de vous, et elle croit déjà quasi que vous n'êtes pas honnête homme ; la manigance va bien enfin.
-
--*who_ariste
 Explique-toi.
 
--*who_flamand
-J'ai entendu...
-
--*who_ariste
 Tu as entendu ?
 
--*who_flamand
-Ah !
-Ils sont tous les plus drôles de personnages, cela m'a bien réjoui.
+Quels personnages ? Parle.
 
--*who_ariste
-Quels personnages ?
-Parle.
+Quoi ! La Marquise est là-dedans ?
 
--*who_flamand
-Le Capitaine dit que c'est vous, qui avez filouté tout le Testament de la succession, et qu'il n'a rien lui.
-Il me tient parole, cela va bien.
-
--*who_flamand
-Ne vous dis-je pas que cela va bien : car ils disent tous que vous en avez bien volé d'autres : et moi finement qui faisais semblant de faire comme si tout cela était vrai.
-Vous m'avez bien de l'obligation au moins ; car c'est moi qui ai inventé la finesse de dire du mal de vous à la Veuve, et je viens de voir que cela fait rire la Marquise.
-
--*who_ariste
-Quoi !
-La Marquise est là-dedans ?
-
--*who_flamand
-Vraiment, c'est elle, qui fait le mieux pour vous ; elle dit que vous êtes un fourbe, un malheureux.
-
--*who_ariste
 Elle dit ?
 
--*who_flamand
-Que vous avez eu des trahisons avec elle ?
+Ah ! Ciel !
 
--*who_ariste
-Ah !
-Ciel !
-
--*who_flamand
-Que vous êtes un homme sans honneur, un maraud ; moi, qui savais la finesse, je riais.
-
--*who_ariste
 Je suis perdu.
 
--*who_flamand
-Celui qui a le mieux fait, c'est Valère ; car il fait semblant d'être enragé contre vous, avec des noms de traître, de coquin ; et plus il disait rage de vous, et plus je riais.
-
--*who_ariste
 Hon...
 
--*who_flamand
-Oui, disait-il à la Veuve, Ariste est le plus infâme scélérat ; il mériterait cent coups de bâtons : et moi de rire.
-
--*who_ariste
 Hon.
 
--*who_flamand
-Je m'en retourne vite écouter à quoi ils en sont, et si la Veuve est bientôt dégoûtée de vous, afin qu'elle vous laisse épouser la Marquise : ha, ha, ha, je vais bien rire.
-
--*who_ariste
 Me voilà perdu de réputation, ruiné, abîmé : sortons d'ici... mais voyons l'accommodement que ce Capitaine veut faire.
 
-**** *book_ *id_III11 *act_III *date_1703
+Ce n'est pas ma faute, Monsieur, si elle manque de vénération pour vous.
 
--*who_lecapitaine
+Il n'y a rien que je ne sacrifie.
+
+Si j'osais prétendre à l'honneur de votre amitié...
+
+J'ai toujours souhaité de...
+
+Monsieur.
+
+Monsieur.
+
+Je me justifierai.
+
+Oui, monsieur, votre idée est bonne, et vous y gagnerez encore en partageant ; car je sais le secret de cette affaire-ci.
+
+Le tour est naturel, car dans le fond c'est une justice.
+
+Monsieur de grâce...
+
+Servez-vous d'autres termes.
+
+Monsieur !
+
+Je vous admire ! Il y a dans vos brusqueries un fonds de franchise aimable, j'aime la sincérité jusques dans les calomnies.
+
+J'y consens volontiers ; je vous assurerai secrètement votre part, sans qu'on puisse vous soupçonner.
+
+J'imaginerai des raisons vraisemblables que vous appuierez.
+
+Ne perdons point de temps, allons écrire.
+
+Aidez-moi à sortir d'ici avec honneur.
+
+Les choses ont changé, Madame, je ne suis plus dépositaire du bien ; et Monsieur qui est vraiment homme d'honneur, vient de me déclarer que le défunt m'engage à certaines restitutions secrètes...
+
+Il faut être équitable, avant que d'être libéral.
+
+La volonté des mourants, est une loi inviolable.
+
+Me voilà justifié : sortons d'ici.
+
+Qu'attendez-vous ? Allons.
+
+Allons, Monsieur, allons donc.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+
+Oui Frosine, oui, Monsieur Ariste est un vrai homme d'honneur.
+
+Frosine.
+
+Cet homme-là est le plus homme d'honneur.
+
+Ah, c'est ce qui s'appelle un vrai homme d'honneur.
+
+Je suis bienheureuse que feu mon mari ait choisi Monsieur Ariste, pour lui laisser tout son bien préférablement à ce capitaine qui n'est point honnête homme comme lui.
+
+Parce qu'il n'est point honnête homme.
+
+Il n'est point honnête homme, dis-je.
+
+J'ai toujours eu pour lui une antipathie, une aversion.
+
+Je ne me défends point d'avoir pour lui de l'estime et de la vénération.
+
+Non, Frosine, je n'aime en lui que sa vertu.
+
+J'aime sa sincérité, son désintéressement, sa probité.
+
+Cela ne m'a jamais frappée.
+
+Personne n'est moins opiniâtre que moi j'écoute tout ce qu'on me veut dire.
+
+Oh ! C'est toi qui es une opiniâtre ; car comment peux-tu connaître Monsieur Ariste, toi qui n'es ici que depuis huit jours, ni ma nièce non plus ?
+
+Ma nièce n'a nulle envie d'être mariée ; et ce matin encore elle m'a dit les plus belles morales du monde sur son inclination pour la retraite.
+
+La voilà qui descend : tu vas entendre ce qu'elle me va dire elle-même.
+
+Hé bien, Frosine, tu vois l'impatience qu'elle a de quitter le monde : j'admire sa vertu. Oui ma chère nièce, vous partirez dès aujourd'hui.
+
+La joie, que vous avez de tout quitter, est très louable. Que vous êtes heureuse, ma nièce, de vous trouver justement d'inclination à mépriser le monde n'ayant pas de bien pour vous y établir ! Cela est heureux.
+
+Quand on n'a pas le moyen de se marier, haïr naturellement le mariage, cela est heureux !
+
+Être née avec une antipathie pour les engagements de coeur ; toutes les femmes de notre famille sont insensibles.
+
+Çà il faut que j'entre pour un moment dans l'appartement de la Marquise. Elle me demande Monsieur Ariste pour être arbitre dans une affaire : je ne suis pas la seule qui aie confiance en lui. L'affaire qu'elle termine aujourd'hui, c'est qu'elle marie son fils.
+
+Je crois que oui. Je vais voir un peu cela.
+
+Vous m'obligerez sensiblement, Monsieur, de me dire toutes les particularités que vous ne m'avez point écrites.
+
+Moi vous haïr ! Monsieur, je vous ai toujours estimé infiniment.
+
+Je ne me remarierai jamais, Monsieur, et quand je vous ai avoué que je n'avais point d'inclination pour vous, vous me dites vous-même que vous me saviez bon gré de ma sincérité.
+
+Hé bien, Monsieur, le fîtes-vous souvenir que j'étais sa femme...
+
+Tout ce que mon mari a fait, est bien fait, il avait du discernement, et je ne suis point fâchée qu'il ait eu de la confiance en Monsieur Ariste. Oserais-je vous demander entre les mains de qui on a mis le testament ?
+
+Quoi, Monsieur, c'est vous ?
+
+Assurément, Monsieur, et je suis très persuadée que vous ne me ferez point de tort, vous êtes si honnête homme, vous avez le coeur si bon.
+
+Les marins sont des gens d'honneur.
+
+Je vous y accompagnerai.
+
+Monsieur.
+
+Je vous laisse aller. Vous voyez, ma nièce, qu'il n'est point question de vous dans tout cela, je vais songer à vous faire partir dès demain matin.
+
+Voici le moment qui va prouver, que quand j'ai de la confiance en quelqu'un, je ne me trompe jamais.
+
+Hé bien, Monsieur, ce Capitaine vous a-t-il mis le Testament entre les mains ?
+
+Ah, Monsieur que je suis heureuse ! Mon sort ne dépend plus que de vous ; je sais que feu mon mari vous avait tant d'obligations...
+
+J'en suis persuadée, vous m'avez conté tout cela.
+
+Ne sais-je pas bien ? Vous me l'avez tant dit.
+
+Enfin il vous a laissé tout ce bien-là : je compte que tout est à vous.
+
+Je remets tout à votre générosité.
+
+Nous nous accommoderons à loisir.
+
+Puisque vous le voulez, voyez cela vous-même ? Le bien de mon mari pouvait se monter à deux cent mille francs.
+
+Il y avait moins, n'est-ce pas ?
+
+Quelle bonne foi !
+
+Hé bien Frosine, entends-tu cela ? Monsieur, quand vous me donnerez cent mille francs.
+
+Quelle générosité ! Moitié, ce serait trop aussi.
+
+Vous me comblez.
+
+Ah ! Je n'en puis plus.
+
+Et sa personne, Frosine, et sa personne !
+
+Monsieur, je ne pense point à me remarier à personne ; je ne me remarierai jamais ; votre personne, Monsieur ! Je ne puis pas ici répondre là-dessus ; il me faut du temps pour y penser : laissez-moi seule un moment dans ma chambre ; n'entrez point avec moi, Monsieur, je vous prie, n'entrez point, n'entrez point.
+
+Je vous cherche, Monsieur, pour m'éclaircir sur une lettre qu'on vient de me montrer, et que je ne crois point ; car on peut contrefaire une lettre : c'est d'une fille à qui vous avez promis mariage. Ah ! Monsieur Ariste, si vous étiez capable de tromper une personne qui vous aimerait, je vous croirais capable de toutes les faussetés qu'on dit de vous. Vous ne répondez point, vous êtes tranquille.
+
+Comme la vôtre.
+
+Et tranquilles !
+
+Cela n'est pas vrai, ah ! Que voilà bien le langage de l'innocence : cela n'est pas vrai.
+
+Cela n'est pas vrai.
+
+Cela n'est pas vrai.
+
+Cela n'est pas vrai.
+
+Et une preuve que tout ce qu'on dit de lui est faux, c'est que je l'épouserai dès aujourd'hui. Car enfin, Monsieur, on a beau dire que vous avez un testament contre lui, si vous l'avez, que ne le montrez-vous ?
+
+Oui, Monsieur, je l'épouserais, oui ; car comme il m'a offert de bonne foi ce qu'il croit avoir, je lui donnerais tout, si je l'avais.
+
+Débarrassez-m'en donc vite ; car je suis lasse de toutes ses malhonnêtetés.
+
+Monsieur, je ne viens plus vous proposer le mariage, vous êtes engagé de coeur, avec Madame la Marquise, je ne veux point vous contraindre ; comme elle est riche, et que je ne le suis pas, elle consent que vous me rendiez mon bien ; il y un Notaire là-dedans, cédez-moi toutes les prétentions que vous avez ; il n'y a rien à dire là-dessus, que oui ou non.
+
+Non, mais j'avoue qu'il ne m'en fallait pas moins, pour me faire croire toutes les indignités que vous m'avez dites de lui : vous êtes le plus détestable homme...
+
+Que je vous ai d'obligation, Monsieur, de m'avoir délivrée d'un tel scélérat.
+
+Oh ! Il est tout content, grâces à Monsieur.
+
+Très volontiers.
+
+Voilà ce qui s'appelle un vrai homme d'honneur.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+
+Je conviens que feu votre mari s'en était coiffé un peu avant sa mort ; mais ce n'est pas là une preuve pour moi ; je vous demande quelque autre preuve convaincante.
+
+Hé bien, la preuve ?
+
+Cette répétition prouve quelque chose, car elle prouve que vous en êtes entêtée ; mais je voudrais que vous me racontassiez quelque belle action de lui qui me prouvât...
+
+Redites-le-moi encore une fois, et je n'en croirai rien.
+
+Ce Capitaine n'est point honnête homme : pourquoi dites-vous cela ?
+
+Savez-vous de lui quelque mauvaise action ?
+
+C'est ce qu'il faut prouver.
+
+Votre aversion pour le Capitaine prouve parfaitement que vous ne l'aimez pas, et cette preuve me fait deviner l'autre : oui, je devine que vous sentez pour Monsieur Ariste... je devine enfin.
+
+Oui, de la vénération tendre et passionnée.
+
+Combien de femmes croient n'aimer que la vertu ; et c'est le vertueux qu'elles aiment.
+
+Oui, sa probité a le teint vermeil, les yeux vifs.
+
+Sa probité est bien bâtie, bien sur ses jambes : je ne m'étonne plus que vous n'ayez en lui une confiance aveugle, l'amour joint à votre opiniâtreté naturelle, ô que cela va faire un bel entêtement.
+
+Cela est vrai. Vous n'êtes pas de ces opiniâtres qui s'emportent quand on les contredit, vous écoutez les sentiments des autres, avec une patience, une douceur : vous dites le vôtre avec une modestie... mais l'opinion va toujours son train.
+
+Votre nièce et moi nous n'en parlons que pour votre bien : nous sommes au désespoir que votre mari soit mort éloigné de vous dans un voyage ; s'il était mort ici, nous aurions pu nous faire laisser cette succession-là, et nous en aurions mieux usé avec vous, que Monsieur Ariste n'en usera ; nous n'aurions gardé qu'un petit bien honnête, pour nous marier honnêtement.
+
+Elle me rebat aussi les oreilles de ces morales ; mais comme je n'envisage point sa retraite avec les yeux d'une tante qui veut se marier, je crois tout le contraire de ce qu'elle me dit.
+
+Vous n'êtes pas de notre famille.
+
+Elle marie Valère.
+
+Comme cette nouvelle l'a étourdie : elle aime Valère, ou je suis bien trompée, faisons-lui avouer la chose.
+Enfin Mademoiselle, voilà Monsieur Ariste héritier unique de votre oncle, vous n'avez plus nulle espérance, rien ne vous retient plus à Paris, grâces au Ciel : savez-vous que ce dernier malheur est une espèce de bonheur pour vous et moi qui voulons haïr le monde ? Il y a si longtemps que nous nous exhortions l'une l'autre à mépriser les établissements mondains. Oh nous n'en pouvons plus espérer. Dieu merci : je vous assure que j'en suis bien aise ; c'est-à-dire, je tâche de n'être pas fâchée, parce qu'il faut bien faire comme si... j'en suis bien aise. Enfin... et vous Mademoiselle ?
+
+Oh qu'oui, nous avons toujours regardé le mariage comme un malheur : je vous félicite de n'avoir pas le moyen de vous rendre malheureuse.
+
+Il est bon d'en parler, car nos résolutions sont faibles, et quand ce n'est qu'à force de raisonnements forts qu'une femme a de la force, il faut qu'elle parle sans cesse pour se fortifier le coeur.
+
+Non vraiment : que feriez-vous à Paris ; vous n'avez ni vanité, ni coquetterie ; vous n'êtes ni joueuse, ni musicienne ; vous ne serez jamais solliciteuse de Juges, ni marieuse du quartier : et pour conter des nouvelles, babiller, et médire un peu, vous aurez cela en retraite tout comme en plein monde.
+
+Oui, on a l'esprit tranquille, quand on ne souhaite, et qu'on ne regrette rien. Que pourrez-vous regretter ? Quoi ! Quelque bonne amie que vous laissez ici, vous en ferez quelque autre là-bas ; perdre l'amitié d'une femme, et gagner celle d'un autre, ce n'est rien perdre, ni rien gagner. À l'égard des hommes peut-on regretter leur société ? Les vieillards sont ennuyeux, les hommes raisonnables ne réjouissent guère, pour les jeunes gens je ne vous en parle point, car vous les haïssez.
+
+À propos de haïr les jeunes gens ; il me vient une pensée. Valère est un jeune homme, comme vous savez, n'est-ce point pour éviter le chagrin de le voir, que vous précipitez votre départ ?
+
+Il est prudent votre départ ; car un jeune homme, et une jeune fille aimable qui logent sous un même toit sont assez malheureux quelquefois pour se rencontrer.
+
+Ces petits visages-là s'impriment quelquefois en un clin d'oeil. Moi, qui vous parle je n'ai quasi pas vu un certain valet de chambre de Monsieur Ariste, qu'on nomme Flamand. Hé bien j'ai toutes les peines du monde à effacer l'impression que ce maraud-là a fait dans ma cervelle.
+
+Faites la sage, vous avez ces mêmes idées, vous tâchez de les laisser à Paris ces idées-là ; mais je crains qu'elles n'aillent vous atteindre là-bas dans votre solitude.
+
+Ah ! C'est notre Capitaine de vaisseau, c'est mon meilleur ami, est-ce que vous ne l'avez jamais vu ?
+
+Je l'ai vu, moi, vingt fois ici, quand vous m'y envoyez ; j'ai été sa confidente.
+
+Non vraiment, ce Capitaine de Vaisseau a toujours été sur mer depuis qu'Ariste s'est introduit dans cette maison-ci. Quelle différence de ces deux amis de votre oncle ? Ariste est doucereux, fade ; celui-ci est brusque piquant, des manières grossières, il paraît même un peu dur, mais dans le fond c'est la meilleure âme... Ô c'est le plus aimable brutal que j'aie jamais connu.
+
+Et que Mademoiselle était sa nièce.
+
+Sans doute, vous ne sauriez vous dispenser de voir la mère, car le fils est avec elle.
+
+C'est encore mieux fait. La Marquise est une réjouie, une folle qui n'aime qu'à rire, une babillarde qui ne vous parlerait que du plaisir qu'elle a de marier son fils... Vous ne devez plus penser qu'à partir. Je veux pourtant tâcher de travailler pour vous, et je vais m'éclaircir avec le Capitaine d'une pensée, qui me roule dans la tête depuis hier.
+
+Je me doutais bien qu'à force de se fuir l'un l'autre, ils se rencontreraient bientôt.
+
+Hom. Il y a eu ici de la déclaration. Mais pensons au plus pressé : et pour gagner la confiance du Capitaine, faisons ce que je viens de lui promettre. Bon voici justement le valet d'Ariste ; il ne me cachera rien ; c'est un bon enfant ; un bon benêt. Je l'aime pourtant, car il ne dit jamais que ce qu'il pense, et il m'a dit qu'il m'aimait.
+
+Bonjour, l'aimable Flamand.
+
+Bonjour, mes nouvelles amours.
+
+Que m'as-tu donc fait pour gagner mon coeur en quatre jours ?
+
+J'ai là un serviteur bien affligé.
+
+De l'affliction.
+
+Peut-on savoir ce qui t'afflige tant ?
+
+C'est que ?
+
+Tu es sincère du moins.
+
+J'entends, tu es fâché de n'être pas assez honnête homme pour attraper des successions.
+
+Cela viendra, l'emploi d'homme d'honneur est comme celui d'avocat, il n'est lucratif que pour les doyens.
+
+Le genre humain est un fripon. Mais dis-moi un peu, ton maître, qui est si savant en perfection, te paye-t-il bien tes gages ?
+
+Quoi il ne te paye point ?
+
+Les grandes générosités ! Et en a-t-il déjà fait quelqu'une ?
+
+Dans les maisons ! Dis-moi un peu flamand, comment ton maître s'est-il introduit dans cette maison-ci, par exemple ?
+
+Sa femme d'affaires ?
+
+Oui, bêtes et riches ; voilà comme il les aime.
+
+Cela me fend le coeur aussi à moi.
+
+Son bien à lui, ou à elle ?
+
+Reste encore avec moi.
+
+Allons toujours rendre compte de ceci au Capitaine.
+
+Quoi vous me suivez encore ?
+
+Rentrez, vous dis-je, et laissez-moi rêver seule à mes affaires ?
+
+Rentrez donc ? Depuis que vous m'avez avoué votre amour, depuis que vous avez résolu d'oublier Valère, vous ne sauriez cesser de m'en parler.
+
+Il fallait la mieux cacher à Valère ; une fille prudente doit s'épargner la honte d'une passion, dont elle n'aura pas le plaisir.
+
+Je n'ai qu'une chose à vous dire là-dessus ; votre tante est entêtée d'Ariste, elle l'épousera, si on n'y met ordre : il faut la désentêter de cet homme-là, c'est le noeud de l'affaire, et ce noeud sera difficile à dénouer ; car l'entêtement de votre tante est un entêtement de coeur.
+
+Le voici notre homme d'honneur, rentrez, laissez-moi suivre cette affaire-ci ?
+
+Cela est vrai.
+
+Nous sommes bienheureux, Monsieur, que vous soyez un homme d'honneur, véritable ; là, de ces hommes d'honneur qui ont de la conscience.
+
+Nous allons voir.
+
+On n'a rien à soi, quand on n'est riche que du bien d'autrui.
+
+Vous m'accablez.
+
+On ne saurait parler plus libéralement.
+
+C'est l'article touchant.
+
+Allons avertir le Capitaine.
+
+C'est à quoi je pense, car ma fortune est attachée à la tienne : écoute, notre Veuve est entêtée de la vertu de ton maître ; pour la dégoûter de lui, si nous pouvions lui faire croire que ton Maître a quelques défauts.
+
+C'est ce qui m'embarrasse ; mais ne lui connais-tu point quelque vertu qui ne soit point vertueuse, et qui paraisse... là quelque vertu à deux envers.
+
+Voilà justement les vertus qu'il nous faut ; dis-m'en quelqu'une des meilleures ?
+
+Une lettre, dis-tu ?
+
+Il y a peut-être dans cette lettre quelque chose de ce que nous cherchons ; décachetons-la.
+
+Il n'y a point de mal à être curieux.
+
+Sans doute : et comme nous avons la bonne intention.
+
+Il a raison, il a raison ; mais la vraie fidélité d'un domestique, c'est de faire le bien de son Maître, n'est-ce pas ?
+
+Or tu vois bien l'intention...
+
+Dès qu'il n'y paraît pas, cela est permis. Hon, hon, c'est l'écriture d'une fille. Agnès Doucet.
+
+Je vois ici qu'il aime les mariages sans écritures.
+
+Elle le menace de publier certaines affaires d'un dépôt ; sais-tu cela ?
+
+Ceci suffira pour empêcher que la Veuve n'épouse ton Maître : Je vais la montrer.
+
+Je dirai que c'est moi, qui l'ai été prendre à la Poste.
+
+Cette Marquise, dis-tu, est-ce qu'il y pense ?
+
+Oui, ce que tu m'apprends me fait plaisir.
+
+Non, non, mais je ferai tout ce qu'il faudra pour le bien de ton Maître.
+
+Il est là dans cette galerie avec Angélique, il tâche de la persuader qu'elle se laisse épouser par Valère incognito, sans le consentement de la Marquise. Nous pénétrons les vues du traître ; et nous espérons tirer de lui quelque trait de fourberie, qui achèvera de faire ouvrir les yeux à la Veuve, sur le différence qu'il y a de vous à Ariste.
+
+J'espère pourtant que la nouvelle tentative, que nous projetons, fera connaître à la veuve qu'Ariste est un fourbe, et que vous êtes le plus honnête homme.
+
+Vous dites autant de mal de vous, qu'Ariste dit du bien de lui ; et quand un homme dit, je ne vaux rien, et que l'autre dit, je vaux beaucoup, je crois qu'ils ont menti tous deux.
+
+Si on payait toutes les médisances à ce prix-là ; que les femmes seraient riches !
+
+Hélas, si elle le tenait encore à présent, elle le lui donnerait tout, et nous n'aurions rien : que vous avez-vous agi prudemment ! Mais pourquoi n'avez-vous pas montré le testament que vous avez ?
+
+Ah ! Je comprends à présent toute votre conduite, qu'elle est censée ! Et que vous avez bien raison de vouloir qu'Ariste vous croie aussi fourbe que lui !
+
+Nous serions perdus : je tremble du péril que nous courons, s'il allait deviner que vous êtes ...
+(Je ne le dirai plus que cette fois-là) le plus honnête homme... mais voici Valère, nous avons besoin de lui pour notre dessein.
+
+Il y a une heure que je vous fais chercher partout, j'ai mille choses à vous dire. La première, c'est que votre mère depuis un moment a fait une sortie sur moi, comme si j'étais coupable : comme si les suivantes étaient complices de l'amour, qu'on a pour leurs Maîtresses.
+
+Il ne s'agit plus de le cacher, il s'agit de le rendre légitime.
+
+Il s'agit à présent de... votre mère vient fondre sur vous, l'orage va tomber.
+Mettons-nous à l'abri.
+
+Madame a raison, il faut que vous épousiez une fille opulente : mais Madame si par hasard Angélique devenait riche.
+
+Rendez-lui donc service en cette occasion ; vous, Monsieur commencez par entrer chez la veuve, car les moments sont chers, exagérez-lui bien la trahison...
+
+Entrez promptement.
+
+Comme vous auriez fait, si vous vouliez encore l'épouser ; amusez-le toujours, et pour cause, je viens de lui dire rage du Capitaine : il est entré chez vous apparemment pour presser vos noces.
+
+Fort bien ; nous parlerons tous de concert à la Veuve, sans qu'il y soit.
+
+Ah ! Respirons un moment ; après avoir pris des mesures si justes, nous serions bien malheureux, s'il allait deviner qu'il pourrait épouser à présent la Veuve sans rien risquer : mais l'espérance de la Marquise l'amusera, pendant que...
+
+Hé de quoi ?
+
+Patience : conte-moi.
+
+Doucement.
+
+Parle donc bas.
+
+Veux-tu te taire ?
+
+Tais-toi donc.
+
+Garde-t'en bien
+
+Veux-tu m'écouter ? Tu vas perdre ta fortune, si tu ne veux parler bas.
+
+Oui, vraiment, car tout ce qu'on dit là-dedans à la Veuve, c'est parce que la Veuve veut épouser ton Maître.
+
+Hé ! Le gros animal ! N'est-ce pas à la Veuve qu'ils disent tout ce mal-là de ton maître ?
+
+Hé bien oui, pour dégoûter la veuve de ton maître, afin qu'elle le cède à la Marquise ; ne sommes-nous pas convenus toi et moi tantôt ?...
+
+La finesse, oui.
+
+Ton maître vient, retire-toi, que je lui parle seule.
+
+Ah ! Monsieur, nous n'avons plus d'espérance qu'en vous, qu'en votre bon coeur, qu'en votre probité ; car enfin nous voyons bien que le Capitaine nous trompe, je vous l'ai déjà dit, il n'a point de Testament : il voulait nous faire peur pour attraper la Veuve, le scélérat qu'il est ; mais la veuve est enragée contre lui, pour les calomnies qu'il a faites contre vous.
+
+C'est le plus grand fourbe, que ce Capitaine...
+
+C'est un homme sans foi, sans honneur que ce Capitaine...
+
+Je sais de lui les actions les plus noires, les plus abominables : il médite quelque trahison pour nous ruiner.
+
+Ah ! Monsieur, s'il vous propose quelque friponnerie contre nous, empêchez-la, je vous prie. Si nous faisions semblant de nous défier de lui, il nous abîmerait tous ; hé Monsieur, prenez bien contre lui nos intérêts, c'est de vous seul que nous attendons notre bonheur, protégez-nous, servez-nous de père.
+
+Vous en faut-il davantage ?
+
+Puisque mon bon ami Flamand nous a servi à démasquer notre fourbe, il faut le récompenser en me donnant tout à lui.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
+Je vous avais dit, ma tante, que je ne partirais pas sitôt : mais j'ai peine à rester longtemps en même logis avec un homme qui emporte toute une succession que je pouvais espérer légitimement : j'avoue que Monsieur Ariste me fait peine à voir ici, souffrez que je me retire.
+
+J'ai bien du chagrin de vous quitter.
+
+Oui, ma tante.
+
+Oui, ma tante.
+
+Tu sais que j'ai pris mon parti là-dessus il y a longtemps.
+
+Nos résolutions sont prises, n'en parlons plus.
+
+Je te l'ai avoué cent fois, je n'ai pris le parti de la retraite que par raison ; mais après tout en faut-il tant pour quitter Paris ?
+
+J'y trouverai la tranquillité d'esprit.
+
+Tu es bien en train de dire des niaiseries.
+
+Quel raisonnement !
+
+J'avoue que j'ai trouvé quelque mérite à Valère ; mais depuis que nous sommes ici je ne l'ai vu que trois ou quatre fois ; il ne peut pas avoir fait grande impression sur mon esprit.
+
+Tu es folle avec tes idées.
+
+Frosine, qui est-ce qui aborde-là, ma tante ?
+
+Non.
+
+Ariste et lui ne se connaissent-ils point ?
+
+Ma tante l'amène ici, restons : comme il a vu mourir mon oncle, il nous apprendra peut-être quelque circonstance que nous ne savons pas.
+
+Frosine, comme j'ai vu la Marquise une fois ou deux chez ma tante, je crois que la bienséance veut que je la voie avant de partir.
+
+Non, Frosine, je ne la verrai point.
+
+Frosine s'est aperçue de ma passion, Valère s'en apercevrait encore plus tôt, je ne dois point le voir. La Marquise sort, elle est seule ; prenons ce moment pour lui dire adieu.
+
+Madame.
+
+J'allais prendre congé de vous, Madame ; je pars aujourd'hui.
+
+Vous alliez sortir, Madame ?
+
+Je vous empêche de sortir, Madame ?
+
+Apparemment, Madame, cet établissement est fort avantageux ?
+
+Je crains bien que Valère ne se soit aperçu de mon trouble ; il revient, fuyons. Mais si je le fuis, il s'apercevra que je l'aime : il vaut mieux le voir pour lui persuader que je suis insensible.
+
+Mon oncle était maître de son bien, je tâcherai d'être maîtresse de mes ressentiments.
+
+Mes malheurs passés m'ont appris à supporter celui-ci.
+
+Vous devez accepter cet établissement, puisqu'il vous est avantageux.
+
+Et moi je ne connais de mariages raisonnables, que ceux qui sont fondés sur l'égalité des biens.
+
+Je me sais bon gré d'être aussi raisonnable qu'elle. Mais qui peut vous empêcher d'accepter le parti qu'elle vous propose ?
+
+Ne m'exagérez point votre passion. Je n'ai jamais éprouvé les passions aveugles.
+
+Pour peu qu'elle ait de raison, elle doit ménager la vôtre en cessant de vous voir.
+
+Finissez de grâce : je m'aperçois qu'insensiblement vous me faites votre confidente, vous ne m'avez demandé qu'un conseil, je vous le donne. Obéissez à votre mère.
+
+Pour vous mettre dans la nécessité d'obéir, celle que vous aimez doit vous ôter toute espérance.
+
+Si elle était de mon humeur, n'ayant pas de bien, elle refuserait de vous épouser, quand même votre mère y consentirait.
+
+Je suppose, si vous voulez, qu'elle vous estime : c'est pour cela qu'elle doit craindre les soupçons et les froideurs qui suivent d'ordinaire un mariage inégal. Celui qui a tout donné, soupçonne aisément d'ingratitude ; et celui qui a tout reçu, croit toujours voir la froideur et le repentir.
+
+Vous vous troublez ; et ce n'est pas moi qui... Mais je ne puis plus l'ignorer. Vous m'avez trop fait voir vos sentiments, connaissez aussi les miens ; mon coeur est incapable de tendresse, une simple estime que je ne puis vous refuser, ne contenterait pas un coeur aussi passionné que le vôtre. Oubliez-moi, Valère, pour votre bonheur, oubliez-moi, je vous en conjure... Ne me donnez point le chagrin mortel d'avoir causé la ruine... d'un homme dont le mérite... On vous déshéritera... Et je ne suis pas en état de réparer... Vous serez plus heureux avec une personne riche, et puisque ma fortune... Si j'avais eu... Vous voyez qu'un oncle injuste... Que je suis malheureuse !
+
+Ah ! Frosine.
+
+Que j'ai de honte !
+
+Que je suis honteuse de t'avoir avoué ma faiblesse !
+
+Mais Frosine, serait-il impossible que les grands biens de mon oncle revinssent à ma tante, et que ma tante ne se remariant point elle me mît en état d'épouser Valère ?
+
+Par la confidence que le Capitaine t'a faite, je vois qu'il a aussi intérêt de désabuser ma tante de cet Ariste. Mais Frosine !
+
+Non Madame, je viens vous donner un avis qui vous regarde.
+
+Madame, sans trop pénétrer les vues que Monsieur Ariste peut avoir sur vous, j'ai cru qu'il vous était important de connaître à fond son caractère.
+
+Cet homme-là, Madame, après une longue conversation, où j'ai cru démêler qu'il avait grand intérêt de vous brouiller avec Monsieur votre fils, m'a enfin proposé de l'épouser sans votre consentement.
+
+Sans vous exposer à un éclaircissement désagréable, vous pouvez conter qu'Ariste vous trahissait tous deux.
+
+En vous détrompant d'un homme que vous estimez, Madame, je vous fais peut-être quelque chagrin ?
+
+L'obligation que vous m'avez, c'est d'avoir pu me contraindre assez, pour écouter tranquillement les propositions indignes qu'il m'a faites ; j'ai voulu feindre de les accepter, afin que vous pussiez vous convaincre par vous-même, en suivant cela, si vous ne m'en croyez pas sur ma parole.
+
+Ce que j'ai, suffit pour entrer dans une retraite.
+
+C'est le parti que je vais prendre, Monsieur, ne vous flattez plus d'aucune espérance : dans la disposition, où je vois ma tante, je n'ai plus nulle ressource ; comptez là-dessus, et prenez le parti d'obéir à Madame ; je vous en conjure par toute la tendresse que vous avez pour moi.
+
+Non, Madame, votre consentement serait inutile, je ne veux point devoir ma fortune à un époux.
+
+Je ne crains point qu'un galant homme comme vous en vînt aux reproches ; mais vous pourriez aller jusqu'aux réflexions.
+
+Non, Madame.
+
+Non, vous dis-je.
+
+Adieu Madame.
+
+Hé bien, ma tante, êtes-vous convaincue ?
+
+Délivrez-nous d'un objet odieux, laissez-le aller.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
+
+Avant de vous répondre, Madame, que je vous fasse une question, me haïssez-vous autant que vous me haïssiez autrefois ?
+
+Vous ne m'aimiez guères, quand vous me fîtes un passe-droit pour épouser le défunt ; on dit que vous en allez encore épouser un second : combien me ferez-vous passer encore de maris sous la moustache.
+
+Une haine sincère a son mérite ; mais j'aimerais mieux de l'amour : venons au fait. En débarquant à Marseille, j'appris que mon ami s'y mourait, j'y cours, je trouve le mourant investi de quelques amis de voyage, de quelques héritiers, et autres corsaires qui vont en course, sur ceux qui meurent sans enfants ; il a tout donné à un ami, me dit-on, cela me mit en colère. Comment morbleu tout à cet homme-là, et à moi rien, je fends la presse ; et à moi rien morbleu ; que tout le monde sorte, et à moi rien, qu'on me laisse seul avec lui, ventrebleu, je veux l'exhorter à mourir.
+
+Je le fis souvenir que j'étais son ami : mais il avait disposé de tout en faveur de son autre ami ; là de cet homme d'honneur qui s'était emparé de lui en mon absence, et qui s'empara de vous à mon préjudice.
+
+Entre mes mains, Madame.
+
+Tout ce que votre mari a fait, n'est-il pas bien fait ?
+
+Pas autrement bon, je suis un peu rancunier, et l'air marin m'a rendu l'air féroce.
+
+Oui à présent mais je suis de la vieille mer. Cependant je suis chargé d'un dépôt, pour le remettre entre les mains de Monsieur Ariste, je ferai mon devoir, je souhaite qu'il fasse le sien. On dit qu'il est logé ici, je vais me faire conduire à sa chambre.
+
+Non, Madame.
+
+Non, vous dis-je, je veux lui parler seul, pour sonder le gué, et tâter un peu sa probité. Car je me défie de ceux qui moralisent à tout venant, et prennent à toute main.
+
+Est-il possible, Monsieur, que vous soyez aussi parfait que vous le dites ? J'admire ce que vous me contez de vos perfections.
+
+Vos vertus sont si incroyables, que je n'en croirais rien, si un autre que vous me les racontait.
+
+Cela vous échappe, c'est par franchise que vous vous donnez des louanges.
+
+Vous me vantez votre sincérité, votre libéralité, ne sont-ce pas là des vertus ?
+
+Votre sincérité est une vertu peut-être ?
+
+Eh que direz-vous contre votre désintéressement ?
+
+Votre modestie est encore un défaut dont vous ne vous corrigerez jamais.
+
+Étant aussi homme d'honneur, que vous l'êtes, je ne blâme point feu mon ami de s'être entêté de vous en mon absence, et d'avoir fait ce testament-ci en votre faveur, il m'a chargé de vous le remettre : le voilà.
+
+Il vous laisse par là tout son bien.
+
+Je croyais que son bien était plus à lui qu'à vous.
+
+En sorte que c'est vous qui lui avez fait du bien ; on ne laisse pas de dire le contraire dans le monde.
+
+Puisque vous ne lui avez nulle obligation de ce qu'il vous laisse, vous n'êtes point obligé d'en faire part à sa veuve.
+
+C'est votre affaire : je vous laisse, adieu.
+
+Madame, on vient encore de m'apprendre...
+
+Vous ne savez pas de quoi il s'agit.
+
+Puisque vous le voulez donc, Monsieur Ariste est homme d'honneur.
+
+Vous l'avez dit.
+
+Si je vous le montrais, épouseriez-vous Monsieur ?
+
+Vous m'outragez, la Veuve.
+
+C'est trop d'un article.
+
+Je fais réflexion que je suis un sot ; votre manoeuvre est plus fine que la mienne. Je vous avais tendu un panneau pour vous éloigner de la veuve, et vous vous en êtes servi pour l'aborder ; vous avez pénétré un secret que je croyais impénétrable, c'est que j'avais ceci en poche, lisez.
+
+Cela ne vous surprend pas, mais cela vous fâche ; car j'ai intérêt de vous couler à fond auprès de la veuve : j'ai senti renaître en moi-même, une vieille envie de l'épouser.
+
+Je vous y laisse : je voulais capituler avec vous, et c'est pour cela que je n'ai pas voulu montrer ceci à la Veuve ; mais puisque vous faites tant l'étonné, je vais lui dire ceci en main ; que, si elle vous préfère à moi, je garderai tout son bien ; je ferai comme je le dis ; ajoutez cela à votre étonnement.
+
+Vous battez la chamade, capitulons.
+
+Mons du Tribunal, mentez-vous quelquefois ?
+
+Je suis un peu faux moi, un peu casuel : hé ! Votre parole vaut-elle quelque chose ?
+
+Je suis le maître de la mienne, je la fais servir à mes besoins ; et vous, vous sentez-vous capable d'une belle action, d'une action généreuse ?
+
+Je mourrai sans enfants, moi. L'action généreuse que je vous demande, c'est que vous m'aidiez à guérir la veuve de l'amour qu'elle a pour vous, et de la haine qu'elle a pour moi ; et en échange je favoriserai vos desseins sur certaine Marquise. Vous êtes vraiment surpris pour le coup ; je sais vos secrets, on m'a dit que vous voulez l'épouser.
+
+Oui.
+
+Oui parbleu.
+
+J'en jure, mais est-il vrai que vous y pensiez ?
+
+Assurément ?
+
+Vous m'avez fait jurer moi.
+
+Oui et non, ce n'est pas jurer, mais c'est mentir quelquefois. Par exemple quand vous avez dit oui en Justice, autre lecture ;
+C'est une lettre d'Agnès Doucet, je cacherai ceci aux deux veuves ; je cacherai aussi le Testament que j'ai, jusqu'à ce que vous ayez épouser la Marquise, qui vous croit riche ; je vous servirai auprès de cette Veuve-là, et vous me servirez auprès de la mienne : en un mot partageons les Veuves : vous hésitez Monsieur, si vous me craignez, soyez généreux : hé bien vous sentez-vous net, examinez-vous bien devant ce tribunal : vous palissez : la probité a peur.
+
+Venez promptement lui parler, comme vous le promettez ; car je suis homme à faire perdre la parole, à un homme qui m'en manquerait.
+
+Ouais, mon homme ne redescend point, cela m'inquiète.
+
+Tu redoubles mon inquiétude, Frosine.
+
+Mon inquiétude augmente, à mesure que tu parles ; car depuis que je suis entré ici, tu ne fais que me louanger ; tu cries sans cesse que je suis honnête homme, et cela me fait tort.
+
+Oh, tu m'impatientes ! Car j'ai intérêt de passer ici pour un méchant homme, pour un pirate ; et afin de démasquer notre faux honnête homme il faut que je paraisse...
+aussi fourbe que je lui : tiens, voilà ce que je te donne pour dire mal de moi.
+
+Puisqu'il faut te faire la confidence entière, je n'ai nulle envie d'épouser la veuve ; mais je ne laisse pas de lui vouloir du bien : ce n'est pas sa faute si elle me hait, je ne suis pas fait pour donner de l'amour. J'ai donc voulu la détromper de son homme d'honneur, avant que de lui rendre son bien ; qu'elle lui aurait donné d'abord au préjudice de sa nièce.
+
+C'est pour mieux faire donner notre homme, dans le piège que je lui tends.
+
+Je tremble de peur qu'il ne me soupçonne d'être assez bon homme, pour vouloir rendre le bien à la Veuve ; car enfin s'il osait risquer de l'épouser à présent, que pourrais-je faire ? Il faudrait bien rendre ce que j'ai.
+
+Je vais dire un mot en passant à notre homme, pour commencer à engager l'affaire.
+
 Non morbleu, Madame, non ventrebleu, je ne vous ménagerai plus.
 Je ne puis plus tenir contre ses mépris, je suis outré de colère contre elle, aidez-moi à me venger.
 
--*who_ariste
-Ce n'est pas ma faute, Monsieur, si elle manque de vénération pour vous.
-
--*who_lecapitaine
 Par la morbleu !
 
--*who_ariste
-Il n'y a rien que je ne sacrifie.
-
--*who_lecapitaine
 Je suis content de vous, touchez là.
 
--*who_ariste
-Si j'osais prétendre à l'honneur de votre amitié...
-
--*who_lecapitaine
 Touchez-là, vous dis-je.
 
--*who_ariste
-J'ai toujours souhaité de...
-
--*who_lecapitaine
 Touchez-là : vous êtes un fripon.
 
--*who_ariste
-Monsieur.
-
--*who_lecapitaine
 Vous êtes un homme sans foi, et c'est ce qui vous attire ma confiance.
 
--*who_ariste
-Monsieur.
-
--*who_lecapitaine
 Je vais vous ouvrir mon coeur, parce que je sais vous êtes un traître.
 
--*who_ariste
-Je me justifierai.
+Gardez-vous en bien, je suis ravi que vous ne valiez rien, car je ne vaux pas grand-chose, et nous nous en accommoderons mieux tous deux ensemble. L'accommodement dont il s'agit, c'est qu'ayant renoncé à la Veuve, je ne veux pas pour cela renoncé au bien dont je suis nanti ; mais j'ai une réputation à garder, je suis homme de guerre : si vous me contraignez de montrer le Testament que j'ai, on verra qu'un ami me laisse tout son bien, le monde s'imaginera qu'il a eu intention que je les donne à sa Veuve ; j'aurai beau dire qu'on n'est pas obligé à deviner les intentions, on me chasserait du service sans m'écouter ; cela m'a fait résoudre à partager avec vous le profit, sans partager l'avanie ; pour cela je jette tout le soupçon sur vous, et j'ai publié que je n'avais rien pour vous charger du paquet ; vous comprenez bien ?
 
--*who_lecapitaine
-Gardez-vous en bien, je suis ravi que vous ne valiez rien, car je ne vaux pas grand-chose, et nous nous en accommoderons mieux tous deux ensemble.
-L'accommodement dont il s'agit, c'est qu'ayant renoncé à la Veuve, je ne veux pas pour cela renoncé au bien dont je suis nanti ; mais j'ai une réputation à garder, je suis homme de guerre : si vous me contraignez de montrer le Testament que j'ai, on verra qu'un ami me laisse tout son bien, le monde s'imaginera qu'il a eu intention que je les donne à sa Veuve ; j'aurai beau dire qu'on n'est pas obligé à deviner les intentions, on me chasserait du service sans m'écouter ; cela m'a fait résoudre à partager avec vous le profit, sans partager l'avanie ; pour cela je jette tout le soupçon sur vous, et j'ai publié que je n'avais rien pour vous charger du paquet ; vous comprenez bien ?
-
--*who_ariste
-Oui, monsieur, votre idée est bonne, et vous y gagnerez encore en partageant ; car je sais le secret de cette affaire-ci.
-
--*who_lecapitaine
 Hé oui, je profiterai de votre savoir faire, et vous donnerez à cela un tour...
 
--*who_ariste
-Le tour est naturel, car dans le fond c'est une justice.
-
--*who_lecapitaine
 Justice, injustice, laissons-là le jeu de mots : je vous disais donc que tout le monde connaissant vos trahisons...
 
--*who_ariste
-Monsieur de grâce...
-
--*who_lecapitaine
 Ne m'interrompez pas ; je vous dis qu'il vous siéra mieux qu'à moi, à vous qui avez déjà sur le corps d'autres friponneries.
 
--*who_ariste
-Servez-vous d'autres termes.
-
--*who_lecapitaine
 Ne perdons point de temps à choisir des termes ; je ne suis pas poli, je suis homme de mer : vous donc, qui n'avez plus de réputation à ménager, vous pourrez effrontément...
 
--*who_ariste
-Monsieur !
+Encore ! Hé morbleu ! Il s'agit bien de cela entre nous ; passez-moi, que vous êtes un maraud, et ne m'interrompez plus.
 
--*who_lecapitaine
-Encore !
-Hé morbleu !
-Il s'agit bien de cela entre nous ; passez-moi, que vous êtes un maraud, et ne m'interrompez plus.
-
--*who_ariste
-Je vous admire !
-Il y a dans vos brusqueries un fonds de franchise aimable, j'aime la sincérité jusques dans les calomnies.
-
--*who_lecapitaine
 Voici le fait : nous partagerons la succession à l'abri du Testament que vous avez ; et du mien j'en bourrerai mon fusil : je n'entends pas les affaires, mais cela est net.
 
--*who_ariste
-J'y consens volontiers ; je vous assurerai secrètement votre part, sans qu'on puisse vous soupçonner.
-
--*who_lecapitaine
 Voilà un brave homme !
 
--*who_ariste
-J'imaginerai des raisons vraisemblables que vous appuierez.
-
--*who_lecapitaine
 Volontiers, car vous me paraissez bonne personne à présent.
 
--*who_ariste
-Ne perdons point de temps, allons écrire.
-
--*who_lecapitaine
 Voilà ce qui s'appelle parler franchement ; vous valez cent fois mieux comme cela dans votre naturel, que quand vous étiez hérissé de grandes maximes.
 
--*who_ariste
-Aidez-moi à sortir d'ici avec honneur.
-
--*who_lecapitaine
 Imaginez ; j'appuierai.
 
-**** *book_ *id_III12 *act_III *date_1703
-
--*who_laveuve
-Monsieur, je ne viens plus vous proposer le mariage, vous êtes engagé de coeur, avec Madame la Marquise, je ne veux point vous contraindre ; comme elle est riche, et que je ne le suis pas, elle consent que vous me rendiez mon bien ; il y un Notaire là-dedans, cédez-moi toutes les prétentions que vous avez ; il n'y a rien à dire là-dessus, que oui ou non.
-
--*who_lamarquise
-Gardez-moi votre coeur, et donnez-lui le bien ; voilà le devoir, et l'amour contents.
-
--*who_ariste
-Les choses ont changé, Madame, je ne suis plus dépositaire du bien ; et Monsieur qui est vraiment homme d'honneur, vient de me déclarer que le défunt m'engage à certaines restitutions secrètes...
-
--*who_lecapitaine
 Secrètes, oui.
 
--*who_ariste
-Il faut être équitable, avant que d'être libéral.
-
--*who_lecapitaine
 Cela est vrai.
 
--*who_ariste
-La volonté des mourants, est une loi inviolable.
-
--*who_angelique
-Hé bien, ma tante, êtes-vous convaincue ?
-
--*who_frosine
-Vous en faut-il davantage ?
-
--*who_laveuve
-Non, mais j'avoue qu'il ne m'en fallait pas moins, pour me faire croire toutes les indignités que vous m'avez dites de lui : vous êtes le plus détestable homme...
-
--*who_ariste
-Me voilà justifié : sortons d'ici.
-
--*who_lecapitaine
 Tout à l'heure.
 
--*who_ariste
-Qu'attendez-vous ?
-Allons.
-
--*who_lecapitaine
 Un peu de patience.
 
--*who_ariste
-Allons, Monsieur, allons donc.
-
--*who_lecapitaine
 Il me prend un remords de conscience, mon cher ami, il me prend un remords d'avoir fait si longtemps le fripon pour gagner votre amitié.
 Je suis trahi !
 Ne m'abandonnez pas dans mon repentir.
 
--*who_laveuve
-Que je vous ai d'obligation, Monsieur, de m'avoir délivrée d'un tel scélérat.
-
--*who_valere
-N'insultez pas mon vrai ami.
-
--*who_angelique
-Délivrez-nous d'un objet odieux, laissez-le aller.
-
-**** *book_ *id_III13 *act_III *date_1703
-
--*who_flamand
-C'est donc tout de bon, que mon Maître n'est pas honnête homme ?
-
--*who_frosine
-Puisque mon bon ami Flamand nous a servi à démasquer notre fourbe, il faut le récompenser en me donnant tout à lui.
-
--*who_lecapitaine
 Oui : il est juste que ce mariage se fasse aux dépens de la succession.
 
--*who_laveuve
-Oh !
-Il est tout content, grâces à Monsieur.
-
--*who_lecapitaine
 Je vous ai promis, Madame, de vous rendre tout ; mais ce sera pour marier Angélique à Monsieur, qui est galant homme.
 
--*who_laveuve
-Très volontiers.
 
--*who_lamarquise
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
+Voyons ta liste, Jasmin, voyons ta liste. Où dois-je aller en sortant d'ici ? Combien ai-je de parties faites pour aujourd'hui.
+
+J'irai.
+
+J'irai, j'irai.
+
+J'irai, j'irai.
+
+Je serai aujourd'hui de toutes les parties de plaisir ; je me sens d'une joie, d'une gaîté...
+Ha ! Mademoiselle, je ne vous voyais pas là, je suis bien affligée d'une nouvelle qui m'est revenue. On dit que feu votre oncle ne vous a rien laissé en mourant : la triste mort que cette mort-là !
+
+Pour vous en consoler aisément, imaginez-vous que vous êtes de mon humeur. J'ai l'art de me réjouir de ce qui afflige les autres. Par exemple : un mari est plus qu'un oncle, je me suis pourtant consolée d'être veuve ; il n'y a que manière d'envisager les choses. Le veuvage est un sujet de tristesse, quand on y voit un mari perdu ; voyez-y la liberté trouvée, sujet de joie.
+
+Pourquoi donc nous quitter ? Je voulais faire amitié avec vous. Votre physionomie m'a réveillé l'idée de feue votre mère que j'estimais fort ; car elle était toute de mon humeur, n'aimant qu'à se réjouir, ne prenant part aux chagrins de personne, pas même aux siens propres ; la brave femme que c'était ! Elle n'avait point de tête, point de conduite, car elle a mangé tout son bien et le vôtre : avec cela elle ne laisse pas d'avoir une espèce d'économie ; elle savait ménager le temps pour les plaisirs, elle les arrangeait si justes et si serrés, qu'elle ne laissait pas un moment de vide pour les occupations chagrinantes ; pas un moment pour ses affaires, ni pour son mari.
+
+Oui, j'allais me désennuyer en ville, pendant que Monsieur Ariste terminera une affaire importante que j'ai. C'est que je marie mon fils. Où est-il donc, Valère ? Je croyais qu'il me suivait. Ah le voici.
+
+Regardez-le un peu, Mademoiselle. A-t-on jamais été si triste, un jour de noces, quand il serait au lendemain ? Qu'est-ce donc, mon fils, pourquoi ce chagrin ? Est-ce parce que la mariée sera laide ?
+
+Je le marie, comme je me suis mariée moi-même. Monsieur, en trois jours j'aimai, j'épousai, et je me repentis.
+
+Je te la laisse, mon fils, je te laisse la liberté du choix ; tu peux choisir ou d'épouser aujourd'hui, ou d'être déshérité.
+
+D'accord, mais je m'aime beaucoup aussi ; et cette affaire me débarrasse d'un fils unique, sans qu'il m'en coûte rien, Mademoiselle.
+
+C'est une occasion admirable. Imaginez-vous qu'on ne me demande rien de mon vivant. À la vérité mon fils sera riche, si je meurs quelque jour.
+
+Retranchons ce mais-là ; tu connais mon humeur, et tout en riant, je mettrais mon bien à fonds perdu : j'ai besoin d'un gros revenu pour vivre ; les plaisirs sont si chers à Paris : je n'en sais qu'un à bon marché, c'est de médire du tiers et du quart ; ce plaisir-là ne coûte rien, aussi je m'en donne.
+
+Volontiers, je m'en rapporte à lui. Venez me trouver tous deux chez le père et la mère de celle dont tu seras aujourd'hui le mari. Je ne vous dis pas adieu, Mademoiselle, je veux que vous restiez pour voir la noce de mon fils, je la ferai magnifique, cela vous réjouira.
+
+Ah ! Monsieur Ariste, je n'en puis plus ; quelle fatigue ! La tête me fend, je suis à demi morte : je viens de quitter le père et la mère de celle que mon fils épouse ; ce père et cette mère, les plus ennuyeux de tous les pères et mères, m'ont enfermée dans un cabinet pour m'assommer d'un détail de contrats, d'articles, de douaires, de préciputs : je m'échappe comme une furieuse, je sors du cabinet, je donne dans une embuscade de Notaires, d'Avocats qui me demandent la bourse ; allez vite disputer mon bien contre ces Arabes-là.
+
+Vous l'épousez ?
+
+Qu'ai-je entendu, monsieur ! J'en suis restée muette, et c'est la première fois de ma vie que la parole m'a manquée : vous voulez épouser la Veuve ! Quoi, tous les témoignages d'estime et de confiance que je vous ai donnés, ne vous ont pas fait comprendre que je ne puis plus me passer de vous ? Où trouverai-je un homme assez habile, et honnête homme, pour assurer le repos de ma vie, en se chargeant de l'embarras de mes affaires ? Mais est-il possible que vous n'ayez pas deviné mes intentions ?
+
+Trop aperçu ! Que veut dire ce trop-là, s'il vous plaît ?
+
+Expliquez-vous.
+
+C'est-à-dire votre amitié.
+
+Je vous crois Monsieur, je vous crois, et je me sais bon gré d'avoir enflammé tant de probité pour moi, à qui l'amour répugne, parce que c'est une passion sérieuse ; je n'ai en vue qu'un mariage de commodité, que nous terminerons quand j'aurai marié mon fils.
+
+Mais vous qui êtes si scrupuleux, pouvez-vous en conscience épouser une femme, ayant pour une autre une passion dans le coeur ?
+
+Se marier à droite, et aimer à gauche, c'est ce qui fait tant de ménages à vaudeville.
+
+Au contraire, à présent que vous voilà riche, vous rétablirez les affaires de sa maison : où trouverait-il un beau-père aussi habile que vous ?
+
+Un aussi honnête homme.
+
+Si vous m'abandonnez, je suis ruinée.
+
+Abîmée.
+
+Ah, vous voilà convaincu. J'admire qu'une folle comme moi, soit plus forte en morale que Monsieur Ariste ; çà voilà donc notre mariage résolu, nous le terminerons dans quelques jours.
+
+Comment donc ?
+
+Mais si je vous épousais dès aujourd'hui, cela nuirait au mariage de mon fils ; voudrait-on se charger d'un fils que vous pourriez empêcher d'être unique ?
+
+Oh, je ne puis pas terminer sitôt, cela ferait tort à un fils dont je n'ai point lieu de me plaindre ; c'est tout ce que je pourrais faire s'il me désobéissait. Çà faites-le chercher, et amenez-le-moi là-dedans, que nous pensions à son mariage.
+
+Je viens d'apprendre une nouvelle agréable, on dit que tu épouses Angélique.
+
+Me vois-tu fulminer, tempêter, menacer ?
+
+Je suis assez tranquille, ce me semble.
+
+Tu vois que je t'écoute agréablement.
+
+Pour approuver, non, mais je ne me fâche point.
+
+Je ne me chagrine point, te dis-je, au contraire : tu refuses un riche parti, cette Angélique n'a rien, je te laisserai peu, et peu de chose avec rien, cela fera un établissement ridicule qui me réjouira.
+
+Ce qui me réjouit le plus, c'est que tu crois me fâcher, quand tu me fais plaisir ; mais ce qui s'appelle plaisir à la lettre ; plaisir : car en me désobéissant tu m'autorises à faire une certaine démarche ; je n'attendais qu'un prétexte, tu me le fournis, cela est heureux.
+
+Non, mon Fils, non, mon coeur, ce n'est point là mon intention. Déshériter un fils unique ! Il faudrait être bien dénaturée, bien inhumaine : je prends un parti plus humain, je me remarie.
+
+Oui, mon enfant, je me remarie, et je me remarierai tant, tant, que je te donnerai une douzaine de frères, et de soeurs ; cette manière de déshériter, est bien plus réjouissante que l'autre.
+
+Je suis persuadée que j'en ai, mais je fais mes affaires plus secrètement que toi : je lèverai pourtant bientôt le masque ; tu suis ton petit penchant sans crainte de me déplaire ; je suivrai le mien, sans me soucier de te faire tort.
+
+Tu as jeté les yeux sur une personne aimable, je t'en offre autant.
+
+Ton Angélique est charmante, mais tu verras celui que j'aurai épousé ; c'est un grand garçon bien bâti.
+
+Au moins, mon fils, je te promets de regarder ma bru de bon oeil ; mais ne t'avise pas de faire la grimace à ton beau-père.
+
+Elle vient à moi, tu vas voir le bon accueil que je lui ferai.
+
+Que je vous embrasse, vous êtes charmante : qu'y a-t-il pour votre service ? Venez-vous me demander mon consentement ?
+
+De quoi s'agit-il ? Parlez.
+
+Je le crois très honnête homme.
+
+Que me dites-vous là, Mademoiselle ?
+
+Il me revient aussi quelque léger soupçon...
+
+Ta curiosité excite la mienne : Monsieur Ariste t'a-t-il conseillé tantôt de m'obéir ?
+
+Je comprends qu'il est bon d'éclaircir la chose : ne nous dissimulons rien, mon fils, et pour l'intérêt commun raccommodons-nous ensemble ; nous nous rebrouillerons toujours bien après.
+
+Non, Mademoiselle, non, j'ai beaucoup de force d'esprit, nulle faiblesse de coeur ; je voulais un mari honnête homme, celui-là ne l'est pas, que m'importe ? Je trouverai un autre beau-père à mon fils, pour le punir, s'il me désobéit : j'ai plus d'une punition en tête.
+
+Quand je pense qu'il ne s'en est fallu de rien que je n'aie été la femme d'un scélérat, je trouve cela plaisant.
+
+Cet homme-là imagine plus agréablement qu'un autre.
+
+Une noirceur à mourir de rire.
+
+Tu me fais souvenir que j'en ai toute la reconnaissance possible.
+
+J'admire sa prudence et sa sagesse : sais-tu bien, mon fils, que je commence à trouver, qu'elle mérite assez l'estime que tu as pour elle ?
+
+Sa fierté même est aimable.
+
+Cela me touche, et cela me pénètre, et peu s'en faut que je ne consente.
+
+Plus elle parle, plus elle me gagne le coeur. Quoi si je consentais en ce moment !
+
+Si je souhaitais que vous fussiez ma fille !
+
+Si je vous en priais, si je vous en conjurais !
+
+Elle prend la chose à merveille ; car dans le fond, ce qui me charme en elle, c'est la générosité ; si elle acceptait, elle cesserait d'être généreuse, et je cesserais peut-être d'être charmée.
+
+Point du tout : je sens réellement que je la souhaite ; mais si elle commençait à vouloir, je ne voudrais peut-être plus : car il faudrait que je fusse folle, vous aimant tous deux, de vous marier, n'ayant pour tout bien que l'espérance d'hériter de moi : vous seriez morts de faim avant que je mourusse de vieillesse.
+
+Je préférerais en elle, une richesse médiocre, à l'opulence d'un autre.
+
+J'entends ; je lui dépeindrai la trahison d'Ariste, avec des couleurs si vives...
+
+Çà, en deux mots, que faut-il que je fasse moi ?
+
+Non, je le vois encore dans la galerie, je vais lui dire de m'aller attendre chez moi pour terminer ; moi j'entrerai chez la Veuve, sans qu'il le voie.
+
+Je cours le fixer, compte sur moi.
+
+Gardez-moi votre coeur, et donnez-lui le bien ; voilà le devoir, et l'amour contents.
+
 Embrassez-moi, ma bru.
 
--*who_laveuve
-Voilà ce qui s'appelle un vrai homme d'honneur.
-
--*who_lamarquise
 Et le contraire d'un faux homme d'honneur.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
+Madame la Comtesse vous attend à cinq heures.
+
+Il y a concert au Marais à cinq heures aussi.
+
+On joue dans l'Isle à cinq heures aussi.
+
+Mais, Madame, vous ne pouvez pas aller partout là tout à la fois.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
+Dès qu'elle vous convient, elle doit me convenir. Mais Madame ; vous ne m'avez averti qu'hier de ce mariage, vous voulez le terminer aujourd'hui ; cela est un peu précipité.
+
+On se repent souvent, quand on n'a pas eu la liberté du choix.
+
+Pour en venir à ces extrémités, vous m'aimez trop.
+
+Je ne refuse point de vous obéir, Madame ; mais...
+
+Écoutez, ma mère, vous avez de la confiance à Monsieur Ariste, je lui remettrai mes intérêts entre les mains, je ferai ce qu'il me conseillera.
+
+On nous a dit ce matin, Mademoiselle, qu'un oncle vous a déshérité, quelle injustice !
+
+J'admire votre modération.
+
+Pour supporter celui qui me menace, j'aurais besoin de votre force d'esprit : souffrez que je me plaigne à vous du mariage cruel, où ma mère veut me contraindre. En cette extrémité, Mademoiselle, conseillez-moi sincèrement quel parti je dois prendre.
+
+Je ne connais d'établissement avantageux que ceux qui sont fondés sur l'union des coeurs.
+
+Hé, vous parlez comme ma mère.
+
+C'est que mon coeur est engagé ailleurs. Je n'ose l'avouer à ma mère ; car celle que j'aime ne peut plus espérer d'être riche, et ma mère ne connaît d'autre mérite que celui des richesses ; elle n'aurait nul égard au plus sincère amour, à l'ardeur la plus tendre, à la plus violente passion.
+
+La mienne n'est point aveugle, et je vois dans celle que j'aime un mérite brillant, et une raison solide.
+
+Que deviendrais-je, si j'étais condamné à ne plus voir cette beauté charmante ? À ne plus voir ces yeux, cette bouche...
+
+Ce n'est pas là le conseil que je vous demande.
+
+Est-ce là ce que vous feriez, si vous étiez à sa place ?
+
+Vous supposez donc que cette aimable personne, n'a pour moi que de l'indifférence et du mépris ?
+
+Le repentir, juste Ciel ! De tels soupçons peuvent-ils entrer dans votre âme ? Ah cruelle ?
+
+Est-ce que je me flatte ? Je crois m'apercevoir... Rompons un mariage cruel, où je ne consentirai jamais.
+
+Je vous cherche, Monsieur, pour vous parler en particulier, j'ai besoin de vos conseils. Mais avant de vous déclarer mon secret, permettez-moi de vous demander, si je puis compter sur votre amitié ? Êtes-vous mon ami ?
+
+Vous dire que je suis le vôtre, c'est, selon vous la plus forte reconnaissance que je puisse vous témoigner. Le secret que je vous confie, Monsieur, c'est que j'aime la plus charmante personne du monde, c'est Angélique. Si ma mère savait que je pense à une fille déshéritée, elle serait femme à me déshériter moi-même : cependant Angélique déshéritée, m'en a paru mille fois plus aimable, et son malheur a redoublé ma passion.
+
+Réparer l'injustice que la fortune fait au mérite...
+
+Peut-on faire un usage plus charmant des richesses ?
+
+C'est en ce cas qu'il est permis à un galant homme, de faire attention au plaisir d'être riche.
+
+La grâce que je vous demande, c'est, Monsieur, que...
+
+Oui, Monsieur, mais il faudrait...
+
+Justement.
+
+Vous entrez dans mes intérêts comme moi-même.
+
+Cela ne se peut.
+
+Elle ne peut s'en douter, je n'ai confié ce secret qu'à vous.
+
+Je serais perdu.
+
+Votre conseil est très prudent, je vais où vous me laissâtes hier.
+
+Frosine, j'ai intérêt de ne point paraître ici ; mais sur ce qu'on m'a dit de ta part, je hasarde tout.
+
+Quoi ! Ma mère sait mon amour.
+
+Ma mère va me déshériter, je suis perdu.
+
+Ah ! Ma mère, vous allez éclater contre elle.
+
+Elle va être exposée à votre colère.
+
+Si vous aviez la bonté d'entendre mes raisons...
+
+Serait-il possible que vous approuvassiez ?...
+
+Ah ! Le ton dont vous me parlez, me fait connaître...
+
+Je vous entends.
+
+Vous m'allez déshériter ?
+
+Vous, ma mère ?
+
+Vous plaisantez, ma mère, je suis persuadé que vous n'avez nulle inclination...
+
+Je ne vois pas sur qui vous pourriez avoir jeté les yeux.
+
+Plus j'y pense, et moins je devine.
+
+Je m'y perds.
+
+Que veut Angélique à ma mère ?
+
+Ce que j'entends me fait soupçonner...
+
+Pardonnez ma curiosité, ma mère : qui vous a instruite de mon amour ?
+
+De grâce, ma mère, monsieur Ariste sait-il le dessein que vous avez de vous remarier ?
+
+Je commence à voir que c'est le plus grand fourbe...
+
+Plus je pense à la trahison d'Ariste, et plus je suis saisi d'indignation.
+
+Un homme peut-il imaginer une telle perfidie ?
+
+Il y a là une noirceur.
+
+Mais, ma mère, vous ne faites pas assez d'attention au malheur qui vous menaçait ; c'est Angélique qui vous en garantit : quelles obligations ne lui avez-vous point ?
+
+C'est dommage, qu'un si grand mérite soit si mal doté.
+
+Quoi, vous craindriez...
+
+Ah ! Que vous êtes cruelle ! Pourquoi ces délicatesses outrées, puisque ma mère le souhaite ? Elle vous en prie, elle vous en conjure.
+
+Ah ! Ma mère, conservez pour elle cette bonne volonté.
+
+Quoi ! Vous changez déjà ?
+
+N'insultez pas mon vrai ami.
+
+
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flamand
+
+Je suis votre serviteur.
+
+Serviteur, hai.
+
+Hai : serviteur.
+
+C'est que j'ai de l'affliction.
+
+Oui, de l'affliction qui m'afflige.
+
+Hélas ! C'est que...
+
+C'est que je ne suis pas honnête... homme.
+
+Quand je dis que je ne suis pas honnête homme, je suis honnête homme si vous voulez : mais je ne suis pas là... ce qui s'appelle... comme mon maître enfin, qui a des amis qui lui donnent des testaments.
+
+Des successions oui : et encore quelquefois on lui apporte des dépôts ; on ne m'apporte point de dépôts à moi.
+
+Ah ! Je n'apprendrai jamais à être honnête homme, cela est trop difficile : je croyais d'abord que pour être honnête homme, il n'y avait qu'aller tout droit à la boulevue ; mais il faut bien plus de façons. Mon Maître rêve jour et nuit, pour attraper une certaine perfection, qu'il appelle de la pr... probité ; l'y voilà venu à la fin, mais il est l'unique, et il le dit lui-même ; non, dit-il, il n'y a plus de probité aux hommes, et le genre humain... le genre humain.
+
+Bon, mes gages, il s'amuse bien à cela.
+
+Il ne me paye point, mais c'est pour mon bien, car il veut me faire ma fortune tout à la fois : l'humeur de mon maître, c'est pour les grandes générosités.
+
+Oh tout plein ; on le vient chercher pour cela de tous les côtés, c'est lui qui va partout dans les maisons, faire les plus belles choses qui se fassent.
+
+Je m'en vais te le dire ; c'est qu'il y avait une vieille femme qui faisait les affaires de mon maître...
+
+Oui : et elle lui parlait toujours du mari de la Veuve qui est mort, et disait qu'il était si bon homme, si bon, si bon, qu'il n'avait point d'esprit du tout. Or mon Maître, quoiqu'il ait plus d'esprit que tout le monde, par bonté de coeur, il aime toujours à faire amitié avec ceux qui sont bêtes.
+
+Il se trouva donc que cette femme amena un jour le défunt chez nous, pour prendre du conseil de mon Maître sur une affaire. Oh dès que mon Maître le vit venir de loin, il courut jusques dans la rue pour l'embrasser : dame c'est là qu'il lui dit de belles choses de coeur... C'était des cordial... des affections... de lui donner... des sacrifices de biens... Et plus l'autre se tuait de lui dire qu'il n'avait que faire d'argent, plus mon maître ne l'écoutait pas, et lui en voulait prêter à toute force ; si bien qu'à la fin je voyais que le coeur franc de mon Maître faisait quasi pleurer l'autre.
+
+Mon Maître est la bonté même. Voilà-t-il pas encore à cette Marquise de céans, dès qu'il a vu qu'elle allait se ruiner, il a pris toutes ses affaires pour les profiter ; depuis qu'il s'en mêle, son bien a redoublé au double.
+
+À elle ; car partout où mon maître se fourre, il y met toujours du sien. Mais il faut que j'aille au plus vite quérir les lettres de mon maître à ma poste ; car il a des correspondances dans toutes les villes, pour les intrigues d'honneur.
+
+Je reviens dans un moment, et je te conterai toutes les vertus de mon maître.
+
+Je tâche d'écouter, Monsieur.
+
+Cela n'empêche pas que je n'écoute, car il y a toujours à profiter avec vos secrets.
+
+J'ai profité que j'enrage, d'avoir entendu quand vous disiez à la veuve que vous lui donnez votre bien, et que vous épousez votre personne avec elle. Cela est bien mal à vous de vous ruiner exprès, avec une veuve qui n'a rien : faire du bien à tout le monde, enrichir les malheureux, voilà de vos tours, Monsieur, voilà de vos tours ; il faut avoir bien la rage, de la probité. Eh, Monsieur, ne l'épousez plus, et ne donnez rien ; gardez tout pour vous. Cela est bon de donner tout par probité, quand on a rien ; mais à cette heure que vous voilà riche, ne soyez plus si honnête homme.
+
+C'est mon naturel ; car quand vous n'aurez plus rien, qui est-ce qui fera ma fortune ? J'ai besoin de fortune moi.
+
+Je voudrais bien étudier les successions.
+
+Monsieur.
+
+Je n'en sais rien ; mais je me plaindrai à elle, que vous voulez épouser la veuve.
+
+Que je suis malheureux ! D'avoir un maître qui donne tout aux autres, et qui n'aura plus rien pour moi.
+
+Ma pauvre Frosine je suis ruiné ; adieu ma fortune, si mon maître épouse cette veuve qui n'a rien ; car il m'avait promis de m'enrichir. Ma chère Frosine, toi qui as tant d'esprit ne saurais-tu point quelque secret pour empêcher ce mariage ?
+
+Des défauts, oui ; mais le malheur, c'est que mon Maître est parfait.
+
+J'entends ; oui da, mon maître en fait quelquefois comme cela, qui paraissent d'abord, je ne sais comment, et puis il en fait les plus belles vertus du monde.
+
+Je t'en chercherai ; mais le chagrin où j'étais m'a fait oublier que j'ai une lettre pour mon Maître.
+
+Oui, que je viens de prendre à la poste.
+
+Non pas, s'il vous plaît, diantre !
+
+Oh ! Le mal n'est pas à décacheter les lettres des autres, car je l'ai vu faire à mon maître, je le pris une fois sur le fait, mais il m'apprit qu'il avait la bonne intention ; la bonne intention est permise.
+
+Oui, mais la fidélité à un maître : car mon maître dit que tous les crimes, ce n'est rien au prix de manquer de fidélité domestique.
+
+Oui da, je crois que tu as raison.
+
+L'intention, oui... décachetons la lettre.
+Tiens, voilà comme il fit, on recolle cela, et il n'y paraît pas.
+
+Je sais qui c'est : cette Agnès avait prié mon maître de lui placer de l'argent ; elle voulait aussi du mariage, et mon Maître ne voulait point écrire tout cela ; car il a une méthode, qui dit que l'écriture et les contrats sont des friponneries, parce qu'il n'y a que les fripons, qui se méfient les uns des autres.
+
+Il fallut bien écrire, car un soir après souper il voulut l'épouser ; elle voulut un contrat elle, et lui voulait l'épouser sur sa parole, et cela fit une dispute.
+
+Oh pour cela c'est une coquine ; car cette affaire-là fait la louange de mon Maître, c'est encore pour la parole. Un certain fripon lui avait donné des diamants par dépôt, mon maître m'a dit qu'il les avait rendus, et pourtant ce fripon-là se les voulait faire rendre deux fois : il fut à la Justice, le juge demanda tout haut à mon Maître, Avez-vous rendu les diamants ? Mon maître : ne fit que dire oui tout court, et l'autre n'eût rien ; car mon Maître est si estimé, que quand il dit oui, on le croit sur sa parole.
+
+Hé oui, mais si mon Maître sait...
+
+Je consens à tout pour le bien de mon Maître ; car ne ferait-il pas bien mieux d'épouser cette Marquise ?
+
+Il ne le veut pas lui, car il sait qu'elle est riche, et c'est assez pour qu'il la refuse ; mais j'ai bien vu que la Marquise en a bien envie : premièrement, parce que tout le monde aime la perfection de mon Maître, et puis elle me donne de temps en temps de l'argent.
+
+Ne va pas dire cela au moins.
+
+Mon maître est bienheureux d'avoir un valet affectionné, c'est une belle chose que l'affection : hé, mon Maître me va demander la lettre.
+
+Non, Monsieur, je m'en vais la chercher.
+
+Oui, tout ce qu'on dit de mon Maître est faux ; tous ceux qui disent du mal de sa probité sont des ignorants. Ah ! Frosine, tu me vois dans une colère.
+
+Où est mon maître, que j'aille le mettre en colère aussi.
+
+Comme j'entrais là-dedans pour le chercher, j'ai entendu ce Valère qui dit des faussetés de mon maître : par la morbleu !
+
+Non, l'affection me monte à la tête, dire que mon maître fait des friponneries...
+
+Je veux me fâcher tout haut moi.
+
+Non, Frosine, car l'affection...
+
+Oui, mon affection va dire à mon Maître...
+
+Je veux lui dire qu'il est honnête homme, et que...
+
+Ma fortune, dis-tu ?
+
+L'épouser ! Et elle en dit la rage.
+
+Hé bien, oui.
+
+Ha ! Je m'en souviens, c'est la finesse que tu as trouvée tantôt.
+
+Oh ! Si c'est pour épouser la Marquise, je donne mon consentement.
+
+Je m'en vais encore écouter là-dedans : je rirai bien à cette heure, que je sais la finesse.
+
+Réjouissez-vous, Monsieur, réjouissez-vous.
+
+La joie fait que je ne saurais me taire, car tout le monde travaille là-dedans pour votre fortune.
+
+Je veux dire votre profit et votre bien, car on travaille à dégoûter la Veuve de vous, et elle croit déjà quasi que vous n'êtes pas honnête homme ; la manigance va bien enfin.
+
+J'ai entendu...
+
+Ah ! Ils sont tous les plus drôles de personnages, cela m'a bien réjoui.
+
+Le Capitaine dit que c'est vous, qui avez filouté tout le Testament de la succession, et qu'il n'a rien lui.
+Il me tient parole, cela va bien.
+
+Ne vous dis-je pas que cela va bien : car ils disent tous que vous en avez bien volé d'autres : et moi finement qui faisais semblant de faire comme si tout cela était vrai. Vous m'avez bien de l'obligation au moins ; car c'est moi qui ai inventé la finesse de dire du mal de vous à la Veuve, et je viens de voir que cela fait rire la Marquise.
+
+Vraiment, c'est elle, qui fait le mieux pour vous ; elle dit que vous êtes un fourbe, un malheureux.
+
+Que vous avez eu des trahisons avec elle ?
+
+Que vous êtes un homme sans honneur, un maraud ; moi, qui savais la finesse, je riais.
+
+Celui qui a le mieux fait, c'est Valère ; car il fait semblant d'être enragé contre vous, avec des noms de traître, de coquin ; et plus il disait rage de vous, et plus je riais.
+
+Oui, disait-il à la Veuve, Ariste est le plus infâme scélérat ; il mériterait cent coups de bâtons : et moi de rire.
+
+Je m'en retourne vite écouter à quoi ils en sont, et si la Veuve est bientôt dégoûtée de vous, afin qu'elle vous laisse épouser la Marquise : ha, ha, ha, je vais bien rire.
+
+C'est donc tout de bon, que mon Maître n'est pas honnête homme ?
+

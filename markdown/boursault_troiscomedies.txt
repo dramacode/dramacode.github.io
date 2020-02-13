@@ -1,6 +1,6 @@
 ---
 identifier: boursault_troiscomedies  
-creator: Boursault, Edme  
+creator: Boursault, Edme ; Georges Forestier.  
 date: 1662  
 title: Trois petites comédies  
 ---

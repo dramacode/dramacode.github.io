@@ -1,6 +1,6 @@
 ---
 identifier: desmares_roxelane  
-creator: Desmares  
+creator: Desmares ; Georges Forestier.  
 date: 1643  
 title: Roxelane. Tragi-comédie  
 ---

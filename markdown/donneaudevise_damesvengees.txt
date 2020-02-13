@@ -1,6 +1,6 @@
 ---
 identifier: donneaudevise_damesvengees  
-creator: Donneau de Vizé, Jean  
+creator: Donneau de Vizé, Jean ; Georges Forestier.  
 date: 1695  
 title: Les Dames vangées ou La Dupe de soy mesme. Comédie  
 ---

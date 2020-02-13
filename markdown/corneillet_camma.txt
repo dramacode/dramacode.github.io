@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_camma  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1661  
 title: Camma, reine de Galatie. Tragédie  
 ---

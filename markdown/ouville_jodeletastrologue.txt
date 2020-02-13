@@ -1,6 +1,6 @@
 ---
 identifier: ouville_jodeletastrologue  
-creator: Ouville, Antoine d'  
+creator: Ouville, Antoine d' ; Georges Forestier.  
 date: 1646  
 title: Jodelet astrologue. Comédie  
 ---

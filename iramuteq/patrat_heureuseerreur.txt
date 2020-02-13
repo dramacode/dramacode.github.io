@@ -1,2066 +1,238 @@
 
 
-**** *book_ *id_I01 *act_I *date_1783
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
--*who_lisette
-Oh !
-Pour le coup, ma réussite est certaine ; me voilà reçue chez la jeune Comtesse, et déjà dans ses bonnes grâces : elle a donné, tête baissée, dans les pièges que je lui ai tendus ; et au vif intérêt que ma maîtresse paraît prendre à ce badinage, je ne doute point que ma récompense ne soit proportionnée au plaisir que je vais lui faire.
+Oh ! Pour le coup, ma réussite est certaine ; me voilà reçue chez la jeune Comtesse, et déjà dans ses bonnes grâces : elle a donné, tête baissée, dans les pièges que je lui ai tendus ; et au vif intérêt que ma maîtresse paraît prendre à ce badinage, je ne doute point que ma récompense ne soit proportionnée au plaisir que je vais lui faire.
 
-**** *book_ *id_I02 *act_I *date_1783
-
--*who_dubois
-Mademoiselle Lisette, il y a là une jeune paysanne qui vous demande.
-
--*who_lisette
 Moi ?
 
--*who_dubois
-Vous-même.
-
--*who_lisette
 Je ne connais personne dans ce village.
 
--*who_dubois
-Elle n'est pas d'ici ; mais elle est bien jolie !
-
--*who_lisette
 Elle se trompe peut-être.
 
--*who_dubois
-Non, elle a bien demandé mademoiselle Lisette, depuis deux jours au service de madame la Comtesse Delfort et qui servait avant mademoiselle Sophie, fille de feu Monsieur le Marquis Delval.
-
--*who_lisette
 C'est bien moi ; mais il faut qu'elle attende, Madame écrit, sa toilette n'est pas achevée, elle peut me sonner d'un moment à l'autre, il ne faut pas que je m'éloigne : et je n'ose faire entrer ici.
 
--*who_dubois
-Pourquoi ?
-
--*who_lisette
 Madame pourrait y trouver à redire.
 
--*who_dubois
-Elle ?
-Ah !
-Vous ne la connaissez pas.
-Elle est bonne... bonne par excellence ; et sans son aversion pour tous les hommes, ce serait une femme absolument parfaite.
-
--*who_lisette
 Mais, d'où lui vient donc cette haine ?
 
--*who_dubois
-Ah !
-Elle n'a pas tout-à-fait tort.
-
--*who_lisette
 Comment ?
 
--*who_dubois
-J'étais domestique de feu son pauvre père, et j'ai vu tout cela ; à quatorze ans elle est devenue éperdument amoureuse d'un étourdi dont la fortune, ni le rang, n'étaient pas dignes d'elle ; le bon papa, qui l'aimait comme ses yeux, n'eut pas la force de résister à ses prières : le mariage se fit, et son époux la rendit si malheureuse que ce digne père en mourut de chagrin.
+Ah ! Bon Dieu !
 
--*who_lisette
-Ah !
-Bon Dieu !
-
--*who_dubois
-Ce monstre d'ingratitude, ne lui survécut pas longtemps, et notre jeune maîtresse se trouvant libre, s'est retirée dans ce château, en promettant de n'y jamais recevoir aucun homme.
-
--*who_lisette
 Y a-t-il longtemps que cela dure ?
 
--*who_dubois
-Elle n'a vécu que deux ans avec son mari, et il y a plus de dix-huit mois qu'elle est veuve.
+Dix-huit mois ! Et cette haine contre les hommes ne s'affaiblit point ?
 
--*who_lisette
-Dix-huit mois !
-Et cette haine contre les hommes ne s'affaiblit point ?
+Voici donc notre dernière conversation. Faites entrer cette fille.
 
--*who_dubois
-Au contraire ; elle ne voit absolument que son frère ; nous n'osons pas même la servir à table, et si une de ses femmes nous parle deux fois.
-À la porte.
+Personne ne sait que je suis ici. Que peut me vouloir cette paysanne ? Quelle sottise de me tourmenter ! Est-ce que je ne vais pas le savoir ?
 
--*who_lisette
-Voici donc notre dernière conversation.
-Faites entrer cette fille.
-
--*who_dubois
-Je vais vous l'amener, mademoiselle Lisette.
-
-**** *book_ *id_I03 *act_I *date_1783
-
--*who_lisette
-Personne ne sait que je suis ici.
-Que peut me vouloir cette paysanne ?
-Quelle sottise de me tourmenter !
-Est-ce que je ne vais pas le savoir ?
-
-**** *book_ *id_I04 *act_I *date_1783
-
--*who_dubois
-La voilà, mademoiselle Lisette.
-
--*who_lisette
 C'est vous, Mad.....
 
--*who_sophie
-Oui, ma chère cousine !
-C'est moi.
-
--*who_dubois
-Ah !
-C'est votre cousine ?
-
--*who_sophie
-Prends-bien garde !
-
--*who_lisette
 Tout est dit.
 
--*who_dubois
-Elle est bien jolie, oui !
-
--*who_lisette
 Laissez-nous, s'il vous plaît.
 
--*who_dubois
-Je m'en vas.
-Mais il n'y en a pas une ici qui la vaille.
+Hé, bon Dieu ! Mademoiselle, que venez vous faire ici dans cet équipage ?
 
-**** *book_ *id_I05 *act_I *date_1783
-
--*who_lisette
-Hé, bon Dieu !
-Mademoiselle, que venez vous faire ici dans cet équipage ?
-
--*who_sophie
-Sommes-nous en sûreté ?
-
--*who_lisette
 Le cabinet de la Comtesse est éloigné, et personne ne peut nous entendre.
 
--*who_sophie
-Je n'ai pu résister à mon impatience.
-Comment vont nos affaires ?
-
--*who_lisette
 À merveille !
 
--*who_sophie
-Tant mieux !
-
--*who_lisette
 Je me suis présentée chez la Comtesse, qui cherchait en effet une femme de chambre, adroite, intelligente ; car le projet de la retraite n'ôte jamais, à une jolie femme, le goût de la parure.
 
--*who_sophie
-Hé bien !
+Hé bien ! Je n'ai pas eu de peine à réussir ; et dès le premier jour, un coup de peigne, donné avec élégance, une fleur placée avec grâce, il n'en a pas fallu davantage pour me mettre en faveur.
 
--*who_lisette
-Hé bien !
-Je n'ai pas eu de peine à réussir ; et dès le premier jour, un coup de peigne, donné avec élégance, une fleur placée avec grâce, il n'en a pas fallu davantage pour me mettre en faveur.
+Cela vous étonne ? Allez, Madame, le plaisir d'enflammer le coeur des hommes est moins vif, pour bien des belles, que celui d'humilier l'amour propre des femmes.
 
--*who_sophie
-Comment, elle aime encore la parure ?
-Et elle ne reçoit que des femmes !
+Elle m'a demandé d'où je sortais. Je vous ai nommée.
 
--*who_lisette
-Cela vous étonne ?
-Allez, Madame, le plaisir d'enflammer le coeur des hommes est moins vif, pour bien des belles, que celui d'humilier l'amour propre des femmes.
-
--*who_sophie
-À merveille !
-
--*who_lisette
-Elle m'a demandé d'où je sortais.
-Je vous ai nommée.
-
--*who_sophie
-Hé bien ?
-
--*who_lisette
 Alors, elle m'a fait plusieurs questions sur votre compte, auxquelles j'ai répondu comme nous en étions convenues.
 
--*who_sophie
-Ho !
-Je veux savoir tous les détails.
+Elle a commencé par me dire : « Il est bien étonnant que nous ne nous soyons jamais vues, ayant des terres aussi voisines. Par quelle raison a-t-elle toujours refusé les invitations que je lui ai fait faire. »
 
--*who_lisette
-Elle a commencé par me dire :
-    « Il est bien étonnant que nous ne nous soyons jamais vues, ayant des terres aussi voisines.
-Par quelle raison a-t-elle toujours refusé les invitations que je lui ai fait faire. »
-
--*who_sophie
-Qu'as-tu répondu ?
-
--*who_lisette
-« Ma foi, Madame, vous ne recevez point d'hommes, et votre entêtement sur cet article, paraît, à mademoiselle Sophie, une extravagance insupportable. - Ah !
-Ma pauvre enfant !
-Sophie ne connaît pas les hommes comme moi ; ce sont tous "des monstres !  Hé bien !
-Mademoiselle est persuadée que cette aversion que vous avez pour l'espèce en général, n'est qu'un sentiment passager, et que lorsque vous aurez renoncé à cette chimère, il ne vous restera plus que le regret cruel d'en avoir trop prolongé la durée.  Elle se trompe, ma haine sera éternelle.  Éternelle ?
-Bon, s'il n'y avait point de Mademoiselle Sophie au monde.  Que veux-tu dire ?  Rien.  Parle.  Je n'ose.  D'où vient ?  C'est un secret qu'elle m'a confié.  Tu n'es plus à elle.  Il est vrai ; mais...  Quoi ?  Le secret vous regarde uniquement...  Moi ?  Vous-même.  Raison de plus pour m'en instruire.  En effet, je suis à vous, et mon zèle doit étouffer mes scrupules.  Dis donc, dis donc. »
+« Ma foi, Madame, vous ne recevez point d'hommes, et votre entêtement sur cet article, paraît, à mademoiselle Sophie, une extravagance insupportable. - Ah ! Ma pauvre enfant ! Sophie ne connaît pas les hommes comme moi ; ce sont tous "des monstres !  Hé bien ! Mademoiselle est persuadée que cette aversion que vous avez pour l'espèce en général, n'est qu'un sentiment passager, et que lorsque vous aurez renoncé à cette chimère, il ne vous restera plus que le regret cruel d'en avoir trop prolongé la durée.  Elle se trompe, ma haine sera éternelle.  Éternelle ? Bon, s'il n'y avait point de Mademoiselle Sophie au monde.  Que veux-tu dire ?  Rien.  Parle.  Je n'ose.  D'où vient ?  C'est un secret qu'elle m'a confié.  Tu n'es plus à elle.  Il est vrai ; mais...  Quoi ?  Le secret vous regarde uniquement...  Moi ?  Vous-même.  Raison de plus pour m'en instruire.  En effet, je suis à vous, et mon zèle doit étouffer mes scrupules.  Dis donc, dis donc. »
 Vous voyez que peu à peu je la conduisais à désirer vivement de savoir ce que je mourais d'envie de lui apprendre.
 
--*who_sophie
-À merveille !
-Après ?
-
--*who_lisette
 « Mademoiselle Sophie, ai-je ajouté avec un air de confidence, a le plus grand mépris pour son sexe ; elle regrette de ne pas être homme, elle soutient que toutes les femmes sont folles, extravagantes, présomptueuses, sans tenues dans leurs projets, sans solidité dans leurs résolutions ; et, pour vous prouver que vous êtes vous-même au nombre de ces femmelettes, qui se proposent tout et n'exécutent rien, elle a résolu de venir ici sous le nom de son frère.  Est-il possible ?  Et elle a même gagé, que si elle parvient à vous voir, elle se fera aimer de vous, et jouira ensuite du plaisir de vous faire rougir d'avoir eu l'orgueil téméraire de vous croire capable de tenir un serment. »
 
--*who_sophie
-Hé bien ?
+«  Ah ! Lisette, m'a-t-elle dit, en m'embrassant, je reconnaîtrai le service que tu viens de me rendre ; je la recevrai et je la badinerai si bien, que les rieurs ne seront pas de son côté. »
 
--*who_lisette
-«  Ah !
-Lisette, m'a-t-elle dit, en m'embrassant, je reconnaîtrai le service que tu viens de me rendre ; je la recevrai et je la badinerai si bien, que les rieurs ne seront pas de son côté. »
-
--*who_sophie
-Elle est donc bien déterminée à me recevoir sous le nom de mon frère ?
-
--*who_lisette
 Oui, Madame.
 
--*who_sophie
-Voilà tout ce que je voulais.
+Oh ! Ça, je me suis bien acquittée de ma commission.
 
--*who_lisette
-Oh !
-Ça, je me suis bien acquittée de ma commission.
-
--*who_sophie
-On ne peut pas mieux !
-
--*who_lisette
 Maintenant, si vous voulez que je continue à vous servir, mettez-moi donc au fait de vos projets ; car je n'y comprends encore rien.
 
--*who_sophie
-Écoutes.
-Tu sais combien j'aime mon frère, et tu connais la tendre amitié qu'il a pour moi ?
+Ah ! Ça ! Il vous aime comme une maîtresse et vous respecte comme une mère, quoiqu'il ne soit votre cadet que d'une année.
 
--*who_lisette
-Ah !
-Ça !
-Il vous aime comme une maîtresse et vous respecte comme une mère, quoiqu'il ne soit votre cadet que d'une année.
-
--*who_sophie
-Depuis la perte de notre père, il s'est reposé sur moi du soin de gouverner nos biens, et je ne m'occupe que du plaisir de le rendre heureux ; la Comtesse est jeune, charmante et puissamment riche ; il est dans l'âge où le besoin d'aimer force toujours à faire un choix, et c'est de ce premier choix que dépend le bonheur de la vie ; s'il tombe sur un vil objet, les moeurs se corrompent, le coeur se déprave, et les plaisirs honnêtes sont perdus sans ressource ; mais s'il se fixe sur une femme estimable, l'amour n'est connu que sous les traits de l'innocence et de la sagesse, l'âme se rempli d'une volupté pure, et l'on reste vertueux toute la vie.
-
--*who_lisette
 Mais, votre frère aimera-t-il à commandement ?
 
--*who_sophie
-Mon frère est charmant, la Comtesse est pleine de mérite, elle lui plaira, j'en suis sûre, et je ne doute pas qu'il ne fasse aussi la plus vive impression sur son coeur ; le plus difficile était de leur procurer les moyens de se voir, ton adresse a su lever cet obstacle, c'est à l'amour à faire le reste.
-
--*who_lisette
 Comment, à l'amour ?
 
--*who_sophie
-Sans doute.
-
--*who_lisette
 Mais, quand sous des habits d'hommes vous gagneriez le coeur de la Comtesse, votre frère n'en serait pas plus avancé, quoiqu'il vous ressemble infiniment, il n'est pas possible de s'y méprendre.
 
--*who_sophie
-Aussi n'est-ce pas moi qui vais me présenter ici.
-
--*who_lisette
 Comment ?
 
--*who_sophie
-J'ai écrit à Delval d'obtenir une lettre de recommandation, du Commandeur Delbon, pour Monsieur Luville, son neveu et frère de la Comtesse.
-Il doit arriver aujourd'hui ; la Comtesse, qui va le prendre pour une femme, ne s'en défiera pas, et les agaceries qu'elle lui fera, serviront à développer avec plus de facilité, tous les sentiments qu'ils pourront mutuellement s'inspirer.
-
--*who_lisette
 Et votre frère est instruit de la ruse ?
 
--*who_sophie
-Je m'en serais bien gardée !
-
--*who_lisette
 Pourquoi ?
 
--*who_sophie
-Tu ne le connais pas ; ennemi de la plus légère supercherie, il ne se serait jamais prêté à mon projet.
-
--*who_lisette
 Cela peut devenir très plaisant.
 
--*who_sophie
-Il faut surtout qu'il ignore que je suis ici ; je resterai dans le village, et tu viendras m'informer de tout ce qui se passera.
-
--*who_lisette
 Hé, si votre frère vient à me rencontrer ?
 
--*who_sophie
-Qu'importe, pourvu qu'il n'y ait point d'explications devant la Comtesse.
-Et c'est à toi de les éviter.
-
--*who_lisette
 Laissez-moi faire, me voilà bien instruite... et...
 
-**** *book_ *id_I06 *act_I *date_1783
-
--*who_luville
-Lisette, est-il jour chez ma soeur ?
-
--*who_lisette
 Il y a longtemps, Monsieur.
 
--*who_luville
-Qu'est-ce que c'est que cette charmante paysanne ?
-
--*who_lisette
 Monsieur,... c'est...
 
--*who_luville
-C'est !...
-
--*who_lisette
 Je vous demande pardon, Monsieur, c'est ma cousine.
 
--*who_luville
-Pourquoi me demandes-tu pardon ?
-
--*who_lisette
 Monsieur... c'est que... dans les maisons.... on n'est pas content, quelquefois, que les domestiques soient si près de leur pays ; les visites des parents ennuient les maîtres... et...
 
--*who_luville
-Mais, point du tout ; elle est charmante la petite cousine !
-Qu'elle a de grâce !
-D'où êtes-vous, ma belle enfant ?
-
--*who_sophie
-Monsieur, je suis d'un village qui est à six lieux d'ici.
-
--*who_luville
-Et, où allez-vous ?
-Que faites-vous ?
-
--*who_sophie
-J'allais au château voisin, retrouver ma cousine.
-
--*who_luville
-Pourquoi faire ?
-
--*who_sophie
-Comme mademoiselle Sophie Delval a eu bien des bontés pour moi...
-
--*who_luville
-Vous connaissez mademoiselle Delval ?
-
--*who_sophie
-J'ai eu le bonheur d'être élevée avec elle, je ne l'ai quittée que pour secourir mes parents, je viens de les perdre, et j'allais réclamer ses bontés, quand j'ai appris que ma cousine n'était plus à son service ; n'osant me présenter au château, je suis venue la trouver ici ; et, quand Monsieur est entré, elle me disait qu'il n'y avait rien à espérer pour moi.
-
--*who_luville
-Hé, pourquoi donc, Lisette ?
-Hé, mais, vous avez tort ; il ne faut point abandonner cette jeune personne, cela serait affreux !
-Il faut qu'elle reste ici.
-
--*who_sophie
-Ah !
-Monsieur !
-Quelle bonté !
-
--*who_lisette
 Monsieur, étant moi-même nouvellement reçue dans la maison, je n'aurais jamais eu la hardiesse de vous en faire la prière.
 
--*who_luville
-Mais, pourquoi donc ?
-J'aime à rendre service, moi !
-Cette jeune personne n'a plus de parents ; elle n'a point assez d'expérience pour être abandonnée à elle-même.
-Il faut, Lisette, que vous en ayez soin, comme si elle était votre fille.
-
--*who_lisette
 Oui, Monsieur.
 
--*who_luville
-Qu'elle demeure avec vous.
-
--*who_lisette
 Oui, Monsieur.
 
--*who_luville
-Et moi, je vous promets de reconnaître les soins que vous prendrez d'elle.
-
--*who_sophie
-Croyez, Monsieur, que je suis vivement touchée de vos bontés.
-
--*who_luville
-Hé, mais cela n'en vaut pas la peine ; ce que je fais est tout simple ; il n'y a pas de spectacle plus attendrissant pour une âme sensible, que la beauté dans l'indigence.
-Allez, Lisette, allez vite donner ordre, de ma part, qu'on lui prépare une chambre voisine de la vôtre ; il faudra qu'elle s'occupe, sans quelle soit obligé de sortir, et vous aurez grand soin, surtout, de ne la charger jamais que d'ouvrages qui la dissippe, sans la fatiguer.
-
--*who_lisette
-Reposez-vous sur moi.
-Allons, ma cousine, remerciez Monsieur, et suivez-moi.
+Reposez-vous sur moi. Allons, ma cousine, remerciez Monsieur, et suivez-moi.
 Il est pris.
 
--*who_sophie
-Il est bien aimable !
-
--*who_luville
-Que dites-vous, tout bas, à votre cousine ?
-
--*who_sophie
-Que je n'oublierai jamais le service que vous me rendez.
-
--*who_luville
-Je ne me bornerai pas à cela ; mais, c'est que vous m'intéressez infiniment !
-
--*who_lisette
 Allons, encore une révérence, et partons.
 
--*who_luville
-Un moment.
-Comment vous nomme-t-on ?
+Hé bien ! Qu'en dites-vous ?
 
--*who_sophie
-Je me...
+Que veut Monsieur ?
 
--*who_luville
-Vous n'osez dire votre nom ?
+Est-ce pour cela que vous m'appelez ?
 
--*who_sophie
-Pardonnez-moi, Monsieur, je m'appelle Mariane.
+Que n'allez-vous à son cabinet ?
 
--*who_luville
-Eh bien, belle Mariane, croyez que je ferai mon possible pour que vous puissiez vous rappeler avec plaisir l'instant où le hasard vous a conduit dans ce château.
+À la bonne heure.
 
--*who_sophie
-Ah !
-Monsieur !
-Je crois que je ne l'oublierai jamais !
+Quoi ?
 
--*who_luville
-Que voulez-vous dire ?
+Il en tient.
 
--*who_sophie
-Adieu, Monsieur.
+Ah ! Madame ! Elle est ici, je viens de la voir !
 
--*who_luville
-Encore un moment.
-Lisette, allez toujours faire préparer sa chambre, et vous la viendrez reprendre ici.
+Ne craignez rien ; elle est charmante en homme !
 
--*who_sophie
-Permettez que je me retire avec elle.
+Je me sauve !
 
--*who_luville
-Belle Mariane, vous pouvez rester ; on doit être sur d'imprimer le respect, quand on porte sur le front l'empreinte de l'honnêteté.
+Voici Mademoiselle Sophie qui revient avec le notaire.
 
--*who_sophie
-Je me plais à ne pas douter de la vôtre mais Mademoiselle Sophie, qui m'a inspiré l'amour de la sagesse, m'a toujours dit, que la retenue dans les discours, et la décence dans les actions, étaient les deux premières qualités d'une fille honnête.
-Permettez-moi de mettre ses leçons en pratique, en ne restant pas seule avec vous.
+Moi, je cours chercher ma maîtresse. Il est temps qu'elle se découvre.
 
--*who_luville
-Allez-donc, charmante Mariane.
-Tout me paraît en vous au-dessus de votre état, et je vois avec la plus vive satisfaction, que vous inspirez autant d'admiration que d'estime.
+Monsieur.
+Ah ! Ciel !
 
--*who_sophie
-Le temps vous apprendra quel cas je fais de la vôtre, par les soins que je prendrai pour la mériter.
-Adieu, Monsieur.
+Soyez tranquille, je n'ai rien dit.
 
--*who_lisette
-Hé bien !
-Qu'en dites-vous ?
+Non, demandez plutôt à Madame.
 
--*who_sophie
-Qu'un homme aimable, dont l'âme est honnête est bien dangereux pour une femme sensible.
+Elle-même.
 
-**** *book_ *id_I07 *act_I *date_1783
 
--*who_luville
-Quelle figure intéressante !
-Quel feu dans le regard !
-Et quelle modestie répandue dans toute sa personne !
-En vérité, j'avais entendu dire beaucoup de bien de Sophie Delval, mais sa petite élève m'en donne la plus haute opinion !
-Non, jamais femme n'a fait une telle impression sur mon coeur !
-Ce qu'elle m'a dit en s'éloignant, m'a fait tressaillir.
-Qu'il serait doux de s'en faire aimer !
-Mais si son âme répond à son extérieur, qu'il serait affreux d'en abuser !
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dubois
 
-**** *book_ *id_I08 *act_I *date_1783
+Mademoiselle Lisette, il y a là une jeune paysanne qui vous demande.
 
--*who_andre
-Dam !
-Je ne trouve personne, moi !
+Vous-même.
 
--*who_luville
-Que voulez-vous, mon ami ?
+Elle n'est pas d'ici ; mais elle est bien jolie !
 
--*who_andre
+Non, elle a bien demandé mademoiselle Lisette, depuis deux jours au service de madame la Comtesse Delfort et qui servait avant mademoiselle Sophie, fille de feu Monsieur le Marquis Delval.
+
+Pourquoi ?
+
+Elle ? Ah ! Vous ne la connaissez pas. Elle est bonne... bonne par excellence ; et sans son aversion pour tous les hommes, ce serait une femme absolument parfaite.
+
+Ah ! Elle n'a pas tout-à-fait tort.
+
+J'étais domestique de feu son pauvre père, et j'ai vu tout cela ; à quatorze ans elle est devenue éperdument amoureuse d'un étourdi dont la fortune, ni le rang, n'étaient pas dignes d'elle ; le bon papa, qui l'aimait comme ses yeux, n'eut pas la force de résister à ses prières : le mariage se fit, et son époux la rendit si malheureuse que ce digne père en mourut de chagrin.
+
+Ce monstre d'ingratitude, ne lui survécut pas longtemps, et notre jeune maîtresse se trouvant libre, s'est retirée dans ce château, en promettant de n'y jamais recevoir aucun homme.
+
+Elle n'a vécu que deux ans avec son mari, et il y a plus de dix-huit mois qu'elle est veuve.
+
+Au contraire ; elle ne voit absolument que son frère ; nous n'osons pas même la servir à table, et si une de ses femmes nous parle deux fois. À la porte.
+
+Je vais vous l'amener, mademoiselle Lisette.
+
+La voilà, mademoiselle Lisette.
+
+Ah ! C'est votre cousine ?
+
+Elle est bien jolie, oui !
+
+Je m'en vas. Mais il n'y en a pas une ici qui la vaille.
+
+
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andre
+
+Dam ! Je ne trouve personne, moi !
+
 Êtes-vous de la maison, vous ?
 
--*who_luville
-Il y a quelque apparence.
-
--*who_andre
 Hé bien, allez annoncer que ma maîtresse est là.
 
--*who_luville
-Ah !
-Ah !
-Et qui est votre maîtresse ?
-
--*who_andre
 Non, non, c'est mon maître que je veux dire ; que je suis donc bête, moi !
 
--*who_luville
-Hé bien, qui est votre maître ?
+Dam ! C'est Monsieur Delval !
 
--*who_andre
-Dam !
-C'est Monsieur Delval !
-
--*who_luville
-Monsieur Delval est ici ?
-
--*who_andre
 Dam, oui.
 
--*who_luville
-Et il n'y a aucun de mes gens dans l'antichambre ?
+Vos gens ? Est-ce que vous êtes le maître, vous ?
 
--*who_andre
-Vos gens ?
-Est-ce que vous êtes le maître, vous ?
+Dam ! Je ne savais pas cela, moi.
 
--*who_luville
-À peu-près.
-
--*who_andre
-Dam !
-Je ne savais pas cela, moi.
-
--*who_luville
-Je vais au-devant de lui.
-
--*who_andre
 C'est inutile.
 
--*who_luville
-Comment ?
-
--*who_andre
 Il est là.
 
--*who_luville
-Qu'il entre donc.
-
--*who_andre
 Entrez, Monsieur, Monsieur.
 
-**** *book_ *id_I09 *act_I *date_1783
+Ah ! C'est plaisant çà !
 
--*who_luville
-Je dois, sans doute, rendre grâce au hasard, Monsieur, car lui seul peut vous avoir conduit dans notre solitude.
-
--*who_delval
-Vous êtes dans l'erreur, Monsieur, mon voyage est prémédité, et j'aurais été désespéré de ne pas vous trouver ici.
-
--*who_luville
-Serais-je assez heureux pour pouvoir vous être utile ?
-
--*who_delval
-Je suis chargé de vous remettre une lettre.
-
--*who_luville
-De quelque part qu'elle vienne, je dois avoir beaucoup d'obligations à celui qui me l'écrit, puisqu'elle me procure le plaisir de faire votre connaissance.
-
--*who_delval
-C'est le Commandeur d'Elbon qui a bien voulu me la confier, et j'ai reçu cette faveur avec toute la reconnaissance qu'elle mérite.
-
--*who_luville
-C'est de notre cher oncle !
-Hé !
-Comment se porte-t-il ?
-
--*who_delval
-À merveille !...
-Et vous aimant toujours avec tendresse !
-
--*who_luville
-Ma foi, nous lui rendons bien !
-« Je vous recommande vivement la personne qui vous remettra ma lettre, mon cher neveu. »
-Comment, c'est une recommandation ?
-Un homme tel que vous n'en a pas besoin.
-« C'est le jeune Marquis Delval dont le nom vous est connu, et dont les brillantes dispositions annoncent le mérite le plus distingué : engagez ma nièce à le recevoir, dites-lui que je l'en prie ; sa solitude me désespère ; vous savez combien je vous aime tous les deux ; je ne m'occupe que de votre bonheur et je serais au comble de mes voeux si je pouvais l'assurer à jamais. »Ce cher homme !
-Je lui ai, sans doute, beaucoup d'obligations de vous avoir engagé à venir ici, mais je crains bien que vous ne lui en ayez pas autant que moi.
-
--*who_delval
-D'où vient ?
-
--*who_luville
-Vous allez vous ennuyer à périr !
-Ce château : appartient à ma soeur ; elle n'y reçois jamais d'homme, elle les a tous en horreur.
-
--*who_andre
-Ah !
-C'est plaisant çà !
-
--*who_delval
-Hein !
-
--*who_luville
-Qu'est-ce que tu trouves donc de si plaisant à cela ?
-
--*who_andre
 C'est que la Dame que je servais les aimait tant, tant, tant....
 
--*who_delval
-Paix.
-Mais cette aversion est elle aussi forte qu'on le dit ?
+Ah ! C'est ben drôle toujours !
 
--*who_luville
-C'est au-delà de toute expression !
-Au point que je doute fort que malgré la prière de mon oncle, vous puissiez obtenir la permission de la voir un seul instant.
+Dam ! Il faut donc être là comme une statue. Si du moins, Moniteur voulait me conduire dans votre appartement je préparerais votre toilette, çà m'amuserais.
 
--*who_andre
-Ah !
-C'est ben drôle toujours !
-
--*who_delval
-Te tairas-tu ?
-
--*who_andre
-Dam !
-Il faut donc être là comme une statue.
-Si du moins, Moniteur voulait me conduire dans votre appartement je préparerais votre toilette, çà m'amuserais.
-
--*who_luville
-Sonnez, mon ami.
-
--*who_andre
 Ben volontiers, Monsieur.
 Déjà ça fera plaisir à Monsieur, car il aime la toilette comme une femme.
 
--*who_delval
-Finiras-tu ?
-
--*who_andre
 Hé ben, c'est fini.
 
-**** *book_ *id_I10 *act_I *date_1783
-
--*who_luville
-Conduisez ce garçon à l'appartement du Commandeur, que Monsieur Delval va occuper.
-
--*who_andre
 Monsieur ben obligé ; vous êtes ben honnête !
 
--*who_delval
-Permettez-moi de les suivre ; si votre aimable soeur daigne me recevoir, il ne serait pas décent de me présenter devant elle en habit de voyage.
+Ah ! Bon ; c'est vous que je cherche.
 
--*who_luville
-Vous êtes le maître.
-Mais je crains bien que ce ne soit une toilette perdue.
-
--*who_delval
-J'ose encore espérer que non.
-
--*who_luville
-Je le souhaite, et je vais faire mon possible pour y engager ma soeur.
-
--*who_delval
-Je vous en aurai le plus grande obligeance.
-
-**** *book_ *id_I11 *act_I *date_1783
-
--*who_luville
-Il est très aimable, ce jeune homme.
-Mais comme il va s'ennuyer !
-Ma soeur ne le recevra pas, et mes nouveaux sentiments ne me permettront pas de lui faire exactement compagnie.
-Lisette.
-
-**** *book_ *id_I12 *act_I *date_1783
-
--*who_lisette
-Que veut Monsieur ?
-
--*who_luville
-Où est votre cousine ?
-
--*who_lisette
-Est-ce pour cela que vous m'appelez ?
-
--*who_luville
-Non.
-Dites à ma soeur que je la prie de passer dans ce salon.
-
--*who_lisette
-Que n'allez-vous à son cabinet ?
-
--*who_luville
-Non ; je veux lui parler ici.
-
--*who_lisette
-À la bonne heure.
-
--*who_luville
-Écoute donc.
-
--*who_lisette
-Quoi ?
-
--*who_luville
-Rien, rien.
-
--*who_lisette
-Il en tient.
-
-**** *book_ *id_I13 *act_I *date_1783
-
--*who_luville
-J'aime mieux lui parler ici : si elle refuse absolument de voir Delval, je pourrai le faire venir sans qu'elle s'en doute.
-C'est mon oncle qui désire cette double alliance ; il m'a souvent parlé de Sophie Delval.
-Mais cela ne réussira pas.
-La misanthropie de la comtesse ; l'arrivée de Marianne...
-Je ne crois pas que ma soeur, ni moi, soyons mariés de longtemps.
-
-**** *book_ *id_I14 *act_I *date_1783
-
--*who_lacomtesse
-Qu'avez vous donc à me dire ?
-Et pourquoi ne pas entrer ?
-
--*who_luville
-Lisez cette lettre, et dictez-moi la réponse.
-Hé bien ma soeur ?
-
--*who_lacomtesse
-Hé bien, mon frère, la recommandation de mon oncle est toute puissante sur moi, et je suis prête à recevoir son protégé.
-
--*who_luville
-J'en suis charmé...
-Mais je ne m'y attendais pas.
-
--*who_lacomtesse
-Pourquoi ?
-
--*who_luville
-Et cette promesse solennelle de ne jamais recevoir un homme ?
-Ce voeu qui devait être observé si scrupuleusement...
-
--*who_lacomtesse
-Cette visite-ci ne me rendra pas parjure.
-
--*who_luville
-Vous le croyez ?
-
--*who_lacomtesse
-J'en suis sûre.
-
--*who_luville
-Expliquez-vous?
-
--*who_lacomtesse
-Ce jeune Marquis qui vous est si fortement recommandé par mon oncle...
-
--*who_luville
-Hé bien ?
-
--*who_lacomtesse
-N'est autre chose que Sophie Delval notre charmante voisine.
-
--*who_luville
-Cela ne se peut pas !
-
--*who_lacomtesse
-Cela est.
-
--*who_luville
-Est-il possible ?
-
--*who_lacomtesse
-J'en ai la preuve.
-
--*who_luville
-Comment ?
-
--*who_lacomtesse
-Lisette, qui sort de chez elle, m'a fait confidence de son projet.
-
--*who_luville
-Quel projet ?
-
--*who_lacomtesse
-De me tourner en ridicule en se faisant aimer de moi.
-
--*who_luville
-Et vous pouvez soupçonner le Commandeur de s'être prêté à cette supercherie ?
-
--*who_lacomtesse
-Point du tout ; Sophie aura prié son frère, qui est à Paris, où il achève ses exercices, de demander une lettre de recommandation au Commandeur, et elle s'en sert aujourd'hui pour exécuter son dessein.
-
--*who_luville
-Ah !
-Cela pourrait bien être, car son valet, qui est une espèce d'imbécile, a commencé par l'appeler Madame.
-
--*who_lacomtesse
-Rien n'est plus sûr, vous dis-je ; il faut, mon frère, nous entendre si bien et la badiner si joliment, qu'elle soit obligée de convenir, malgré tout l'esprit qu'on lui accorde, que nous sommes encore plus fins qu'elle.
-
--*who_luville
-Ah !
-Laissez-moi faire : à trompeur, trompeur et demi.
-Je vais chercher notre fripon d'hôte, et vous le présenter.
-Ah !
-Parbleu cette aventure m'amuserait infiniment si...
-
--*who_lacomtesse
-Quoi ?
-
--*who_luville
-C'est que.... rien, rien.
-
--*who_lacomtesse
-Ah !
-Mon frère !
-Vous avez des secrets pour moi ?
-
--*who_luville
-Pardon ma petite soeur...
-Je n'en aurai plus.
-
--*who_lacomtesse
-Dites-moi donc ce qui vous occupe ?
-
--*who_luville
-Hé bien !...
-Vous le saurez.
-
-**** *book_ *id_I15 *act_I *date_1783
-
--*who_lacomtesse
-Qu'est-ce que cela signifie ?
-
-**** *book_ *id_I16 *act_I *date_1783
-
--*who_lisette
-Ah !
-Madame !
-Elle est ici, je viens de la voir !
-
--*who_lacomtesse
-Caches-toi dans mon cabinet, si elle t'aperçoit tout est découvert.
-
--*who_lisette
-Ne craignez rien ; elle est charmante en homme !
-
--*who_lacomtesse
-On vient.
-
--*who_lisette
-Je me sauve !
-
-**** *book_ *id_I17 *act_I *date_1783
-
--*who_luville
-Ma soeur, voilà Monsieur Delval, que je vous présente.
-
--*who_delval
-Qu'elle est belle !
-
--*who_luville
-Il n'avait pas besoin de recommandation, au moins : avec une figure comme celle-là, on est bien reçu partout.
-
--*who_delval
-Rien ne pourra jamais m'acquitter envers votre oncle, Madame ; c'est à lui que je dois le bonheur de vous présenter mes hommages.
-
--*who_lacomtesse
-Qu'elle a bonne grâce !
-Ce bonheur n'en doit pas être un bien grand pour vous.
-
--*who_delval
-Il ne faut que des yeux pour admirer vos charmes ; mais avec un coeur, on court le risque d'en sentir trop vivement le prix.
-
--*who_lacomtesse
-Ah !
-Monsieur, la flatterie est un poison qui n'a point encore corrompu notre retraite ; et je serais vraiment fâchée qu'il y pénétrât.
-Louer ce qu'on admire, exprimer ce qu'on pense, appelez-vous cela de la flatterie ?
-
--*who_lacomtesse
-Style de Paris, Monsieur, style de Paris !
-Et vous oubliez que nous sommes au village.
-
--*who_luville
-Elle a raison : nous n'aimons ici que la liberté et la franchise ; je vais vous instruire de notre façon de vivre, et vous aurez la bonté de vous y conformer si vous voulez rester avec nous.
-Point de façon avec moi.
-Point d'amour avec ma soeur ; tant que vous observerez scrupuleusement ces deux conditions, vous serez reçus à bras ouverts ; dès que vous y manquerez, adieu.
-Cette déclaration-là s'appelle je crois de la franchise.
-À l'égard de la liberté, je vous laisse seul avec ma soeur ; vous voyez qu'on n'est pas gêné ici !
-Adieu.
-Bonjour ma soeur !
-
--*who_lacomtesse
-Qu'elle est bien en homme !
-
--*who_luville
-C'est à s'y méprendre.
-Bonjour notre cher hôte.
-
--*who_delval
-Monsieur, je...
-
--*who_luville
-À propos !
-Eh vous ne l'avez pas embrassée en entrant !
-
--*who_delval
-Monsieur, je sais trop...
-
--*who_luville
-Ah !
-Que vous êtes timide !
-Allons, allons.
-
--*who_delval
-Cet honneur....
-
--*who_luville
-Embrasses-le donc toi-même, car cela ne finirait pas.
-
--*who_lacomtesse
-Ah !
-Bien volontiers !
-
--*who_delval
-Qu'est-ce que cela signifie ?
-
--*who_luville
-Cela vous étonne ?
-Ah !
-Vous en verrez bien d'autres !
-
-**** *book_ *id_I18 *act_I *date_1783
-
--*who_lacomtesse
-Qu'avez-vous donc, Monsieur?
-Vous avez l'air tout interdit.
-
--*who_delval
-J'avoue, Madame, que ma situation est embarrassante.
-
--*who_lacomtesse
-En vérité ?
-
--*who_delval
-Elle est neuve pour moi.
-
--*who_lacomtesse
-Je le croirais assez.
-Cependant on ne le dirait pas à votre contenance.
-
--*who_delval
-Les volontés de Monsieur votre frère semblent être en contradiction avec sa conduite.
-
--*who_lacomtesse
-En quoi ?
-
--*who_delval
-Il me permet de vous voir, il me laisse seul avec vous ; et il me défend de vous parler d'amour.
-
--*who_lacomtesse
-C'est qu'il est ennemi déclaré du mensonge.
-
--*who_delval
-En vous avouant qu'on vous aime, peut-on s'écarter de la vérité ?
-
--*who_lacomtesse
-C'est selon la personne.
-
--*who_delval
-Selon la personne ?
-
--*who_lacomtesse
-Oui.
-
--*who_delval
-Comment ?
-
--*who_lacomtesse
-Vous, par exemple...
-
--*who_delval
-Hé bien.
-Moi.
-
--*who_lacomtesse
-Si vous me disiez que vous m'aimez...
-
--*who_delval
-Si je vous le disais ?
-
--*who_lacomtesse
-Vous ne le penseriez sûrement pas.
-
--*who_delval
-Me croyez-vous un cour insensible ?
-
--*who_lacomtesse
-Vous n'en avez pas l'air.
-
--*who_delval
-Hé pourquoi donc douteriez-vous de mon amour ?
-
--*who_lacomtesse
-C'est que je ne crois jamais à l'impossible.
-
--*who_delval
-À l'impossible ?
-
--*who_lacomtesse
-Oh !
-Oui, à l'impossible.
-
--*who_delval
-Ah !
-Que vous lisez mal dans mon coeur !
-
--*who_lacomtesse
-Peut-être mieux que vous ne croyez.
-
--*who_delval
-Détrompez-vous, Madame : et pardonnez-moi un aveu que votre incrédulité m'arrache.
-Je n'avais point encore connu le sentiment que vous m'inspirez.
-
--*who_lacomtesse
-Cela est possible.
-
--*who_delval
-Votre premier regard a pénétré mon coeur....
-
--*who_lacomtesse
-Ah !
-Ciel!
-
--*who_delval
-Et maintenant je ne puis plus vivre que pour vous adorer !
-
--*who_lacomtesse
-Savez-vous que cela imite le naturel ?
-
--*who_delval
-Pourriez-vous être en doute sur ma sincérité ?
-
--*who_lacomtesse
-En doute ?
-Oh !
-Non, je vous assure.
-
--*who_delval
-Vous rendez donc justice à mon coeur ?
-
--*who_lacomtesse
-Assurément !
-
--*who_delval
-Et vous croyez que je vous aime ?
-
--*who_lacomtesse
-Non.
-Mais je suis fermement convaincue du contraire.
-
--*who_delval
-Ah !
-Les serments les plus forts !...
-
--*who_lacomtesse
-Ne me persuaderont pas.
-
--*who_delval
-C'est-à dire, que vous me placez dans la classe de ces hommes fourbes, qui...
-
--*who_lacomtesse
-Non, Monsieur, vous vous trompez.
-Moi, vous mettre au nombre de ces hommes-là ?
-Ah !
-Ne me supposez pas si peu de discernement, je vous distingue sans doute, et je vois clairement la différence qu'il y a entre vous et tous les hommes.
-
--*who_delval
-Cette flatteuse préférence.
-
--*who_lacomtesse
-Reste à savoir si c'en est une.
-
--*who_delval
-Quoi !
-Vous pourriez me mettre au-dessous de ceux que vous détestés ?
-
--*who_lacomtesse
-Ah ça !
-Parlons raison : il faut un peu mieux connaître les gens pour leur assigner avec équité la place qu'ils méritent.
-
--*who_delval
-Rien de plus juste, et le temps....
-
--*who_lacomtesse
-Oh !
-Je sais bien, qu'avec le temps, tout ce découvrira.
-Mais il est un moyen sûr de l'abréger.
-
--*who_delval
-Daignez me l'indiquer.
-
--*who_lacomtesse
-Eh bien !
-Mettez-moi vous-même dans le cas de pouvoir vous apprécier.
-
--*who_delval
-Que faire pour cela ?
-
--*who_lacomtesse
-Une chose très simple.
-
--*who_delval
-Et c'est ?
-
--*who_lacomtesse
-De me dire la vérité.
-
--*who_delval
-Sur quoi ?
-
--*who_lacomtesse
-Le voici.
-Ce n'est pas sans dessein que vous êtes ici : quels sont les motifs qui vous ont inspirés l'envie de me connaître ?
-Répondez sans détour, et n'espérez pas me tromper.
-
--*who_delval
-J'ai souvent entendu vanter vos charmes ; on m'a fait un éloge si brillant de tout votre mérite, que je n'ai pu résister au désir de voir une personne si accomplie ; et j'éprouve, au dépend de ma liberté, que le portrait n'était pas flatté.
-
--*who_lacomtesse
-Je vous demande bien pardon, Monsieur ; mais vous mentez !
-
--*who_delval
-Cessez de m'accuser de fausseté ; j'en suis incapable.
-Mais j'avouerai qu'avant de vous connaître, j'avais formé le projet de vous rendre des soins, et de tout mettre en usage pour me faire aimer de vous...
-
--*who_lacomtesse
-Ah !
-Vous parlez vrai à présent ; j'en suis sûre.
-
--*who_delval
-Et dès que je vous ai vu, mon coeur a ratifié des projets que la raison seule avait formés.
-
--*who_lacomtesse
-La raison ?
-Je crois que vous vous trompez de mot.
-
--*who_delval
-Il est vrai, c'était un pressentiment secret qui m'entraînait invinciblement vers l'objet adorable que je devais aimer toute ma vie !
-
--*who_lacomtesse
-Toute votre vie !
-
--*who_delval
-Oui, Madame, et je jure à vos pieds que mon amour sera aussi constant qu'il est tendre et sincère.
-
--*who_lacomtesse
-Oh !
-Pour cela, je le crois.
-
--*who_delval
-Hé bien, décidez de mon sort.
-
--*who_lacomtesse
-Volontiers.
-
--*who_delval
-J'attends mon arrêt.
-
--*who_lacomtesse
-Je suis franche.
-
--*who_delval
-Parlez.
-
--*who_lacomtesse
-Vous êtes charmant !
-
--*who_delval
-Madame...
-
--*who_lacomtesse
-Mais pour de l'amour, vous ne m'en inspirerez de votre vie.
-
--*who_delval
-Juste Ciel !
-
--*who_lacomtesse
-Ah !
-C'est cruel!
-
--*who_delval
-Et vous allez, sans doute, m'ordonner de vous fuir ?
-
--*who_lacomtesse
-Non vraiment.
-Vous pouvez rester.
-
--*who_delval
-C'est du moins une marque de préférence.
-
--*who_lacomtesse
-Pas du tout.
-Je vous permets de rester, parce que vous n'êtes pas dangereux.
-
--*who_delval
-Le compliment n'est pas flatteur !
-
--*who_lacomtesse
-Je pourrais en dire davantage sans mentir.
-
--*who_delval
-En effet, vous pouvez me dire que vous me haïssez.
-
--*who_lacomtesse
-Non, je ne vous haïs point; et si vous voulez lever ce voile épais qui me cache le fond de votre coeur, et m'aimer de bonne foi, je pourrais à mon tour vous aimer à la folie.
-
--*who_delval
-Ah !
-Vous me rendez la vie ; si vous mesurez vos sentiments sur les miens, bientôt un amour mutuel...
-
--*who_lacomtesse
-Fi-donc !
-Cela ne se peut pas.
-
--*who_delval
-D'où vient ?
-
--*who_lacomtesse
-Allons !
-Allons !
-
--*who_delval
-Expliquez-vous ?
-
--*who_lacomtesse
-Dites-moi une chose.
-
--*who_delval
-Quoi !
-
--*who_lacomtesse
-Croyez-vous que les hommes sachent encore aimer ?
-
--*who_delval
-Je n'en saurais douter depuis que je vous ai vue.
-
--*who_lacomtesse
-Oh !
-La preuve est convaincante !
-
--*who_delval
-Je l'ai prise dans mon coeur.
-
--*who_lacomtesse
-Je parle des hommes.
-
--*who_delval
-J'entends bien ; vous faites une question générale.
-
--*who_lacomtesse
-Justement.
-Croyez-vous, dis-je, qu'ils sachent encore aimer ?
-
--*who_delval
-Sans doute.
-
--*who_lacomtesse
-Et moi, je crois tout le contraire.
-Ils prennent quelquefois le désir pour l'amour, mais le bonheur détruit bientôt l'illusion.
-
--*who_delval
-Ne les jugez pas tous ainsi ; je suis encore bien jeune, et cependant j'en ai connu beaucoup dont l'amour augmentait par la possession.
-
--*who_lacomtesse
-Beaucoup ?
-
--*who_delval
-Oui, Madame, beaucoup.
-
--*who_lacomtesse
-Je vous en fais mon compliment.
-
--*who_delval
-Dans une affaire qui me regarde personnellement, je n'ai pas besoin de plaider la cause des hommes en général...
-
--*who_lacomtesse
-En effet, cela ne serait pas fort décent...
-
--*who_delval
-Et puisque je suis sûr de mon coeur...
-
--*who_lacomtesse
-Hé bien, c'est à lui que j'en appelle.
-
--*who_delval
-Ce n'est pas le moyen de gagner votre cause.
-
--*who_lacomtesse
-Je ne veux pourtant pas d'autre Juge.
-
--*who_delval
-Il vous dira que je vous adore !
-
--*who_lacomtesse
-Vous !
-
--*who_delval
-Et que jusqu'au dernier soupir....
-
--*who_lacomtesse
-Monsieur, agir en liberté et ne point parler d'amour : voilà les deux conditions que mon frère avait exigées en vous laissant seul avec moi.
-Vous avez oubliez l'une, et je vais profiter de l'autre pour terminer un entretien qui nous gêne également tous les deux.
-C'est bien dommage !
-
-**** *book_ *id_I19 *act_I *date_1783
-
--*who_delval
-Quel mélange inouï d'esprit et d'incrédulité, de beauté et de froideur !
-Je crains bien que ma soeur, en cherchant à me rendre heureux, n'ait fait tout le malheur de ma vie !
-
-**** *book_ *id_I20 *act_I *date_1783
-
--*who_andre
-Ah !
-Bon ; c'est vous que je cherche.
-
--*who_delval
-Que me veux-tu ?
-
--*who_andre
 Vous demander quand nous partons.
 
--*who_delval
-Pourquoi ?
+Dam ! C'est que je m'ennuie ici.
 
--*who_andre
-Dam !
-C'est que je m'ennuie ici.
+Pardi, je le crois bien ! Il n'y a personne avec qui causer dans ce château ; si on veut parler à une femme de chambre, elle se sauve, sans répondre ; tenez, Madame, je ne peux pas me faire à ça, moi ; j'aime à jaser.
 
--*who_delval
-C'est malheureux !
+Ah ! Mon Dieu, ce n'est pas ma faute, c'est sans y penser.
 
--*who_andre
-Pardi, je le crois bien !
-Il n'y a personne avec qui causer dans ce château ; si on veut parler à une femme de chambre, elle se sauve, sans répondre ; tenez, Madame, je ne peux pas me faire à ça, moi ; j'aime à jaser.
-
--*who_delval
-Mais, pourquoi t'avises-tu de m'appeler Madame à chaque instant ?
-
--*who_andre
-Ah !
-Mon Dieu, ce n'est pas ma faute, c'est sans y penser.
-
--*who_delval
-Mais, à propos de quoi ?
-
--*who_andre
 Il est bon que vous sachiez que j'ai été six ans jockey d'une ben jolie dame ; il n'y a que huit jours que je l'ai quittée pour entrer au service de Monsieur, ça fait que je me blouse encore quelquefois.
 
--*who_delval
-Fais en sorte que cela n'arrive pas davantage.
-
--*who_andre
 Aussi fais-je ; mais...
 
-**** *book_ *id_I21 *act_I *date_1783
-
--*who_luville
-Ah !
-Vous voilà, Monsieur, je vous cherchais.
-
--*who_delval
-Je n'ai pas quitté ce salon.
-
--*who_luville
-Renvoyez votre laquais.
-
--*who_delval
-Sors.
-
--*who_andre
 Irai-je chercher des chevaux ?
 
--*who_delval
-Non.
-
--*who_andre
 Tant-pis.
 
-**** *book_ *id_I22 *act_I *date_1783
-
--*who_delval
-Que signifie cet air glacé ?
-
--*who_luville
-Ah !
-Mademoiselle Delval, je vous pousserai à bout.
-
--*who_delval
-Qu'avez-vous donc ?
-Vous avez l'air bien sérieux !
-
--*who_luville
-Vous êtes gentilhomme ?
-
--*who_delval
-Je ne pense pas qu'on en doute.
-
--*who_luville
-En connaissez-vous tous les devoirs ?
-
--*who_delval
-À quel propos me faites-vous cette question ?
-
--*who_luville
-C'est que vous êtes jeune encore.
-
--*who_delval
-Je le sais.
-
--*who_luville
-Et qu'on pourrait vous les apprendre.
-
--*who_delval
-Je ne vous entends pas.
-
--*who_luville
-Je vais m'expliquer mieux.
-
--*who_delval
-Parlez.
-
--*who_luville
-Vous avez vu ma soeur ?
-
--*who_delval
-Avec le plus grand plaisir.
-
--*who_luville
-Vous l'avez trouvée ?...
-
--*who_delval
-Charmante !
-
--*who_luville
-Vous lui avez dit ?...
-
--*who_delval
-Que l'amour...
-
--*who_luville
-L'amour !
-
--*who_delval
-Qu'a donc ce mot de si révoltant ?
-
--*who_luville
-Écoutez-moi.
-
--*who_delval
-J'écoute.
-
--*who_luville
-Vous connaissez les lois de l'honneur ?
-
--*who_delval
-J'en fais gloire !
-
--*who_luville
-Il faut me faire raison.
-
--*who_delval
-Raison !
-
--*who_luville
-Vous m'avez manqué.
-
--*who_delval
-Moi ?
-
--*who_luville
-Vous.
-
--*who_delval
-En quoi ?
-
--*who_luville
-Vous avez passé les bornes que je vous avais prescrites.
-Vous avez violé les droits de l'hospitalité.
-
--*who_delval
-Je n'ai pas cru pouvoir vous offenser, en déclarant à votre soeur, les sentiments qu'elle m'inspire.
-
--*who_luville
-Vous l'avez fait : et j'en demande raison.
-
--*who_delval
-Non, je ne me battrai point contre le frère de celle que j'adore !
-
--*who_luville
-La voilà bien embarrassée.
-Mauvais prétexte.
-Allons, allons.
-
--*who_delval
-Écoutez-moi...
-
--*who_luville
-Rien, rien.
-
--*who_delval
-Un mot.
-
--*who_luville
-Allons, allons, défendez-vous.
-
--*who_delval
-Vous le voulez, Monsieur ?
-Il faut vous satisfaire.
-
--*who_luville
-Comment, diable !
-
--*who_delval
-C'est vous qui m'y forcez.
-
-**** *book_ *id_I23 *act_I *date_1783
-
--*who_lacomtesse
-Quel bruit !
-Que vois-je ?
-
--*who_delval
-Venez, Madame, venez apaiser l'injuste colère de votre frère ; il voulait percer le cour de son ami.
-
--*who_lacomtesse
-Quoi !
-Mon frère !...
-
--*who_luville
-C'est un diable !
-
--*who_lacomtesse
-Et, d'où naît le sujet de votre querelle ?
-
--*who_luville
-Il ose vous dire qu'il vous aime, et ne songe point à vous épouser.
-
--*who_delval
-Et vous l'avez pu croire !
-La passion...
-
--*who_lacomtesse
-La passion !...
-
--*who_delval
-Toujours de l'ironie !
-
--*who_lacomtesse
-Hé bien, Monsieur, je vais vous parler sérieusement : m'aimez-vous ?
-
--*who_delval
-Avec la plus vive tendresse !
-
--*who_lacomtesse
-À quoi cela nous mènera-t-il ?
-
--*who_delval
-Envisagez-vous comme une bagatelle, une alliance assortie, dont l'amour aurait formé les noeuds ?
-
--*who_luville
-Une alliance assortie !
-
--*who_delval
-J'ose le croire.
-
--*who_lacomtesse
-En bonne foi, est-ce que vous y pensez ?
-
--*who_delval
-Si j'y pense !
-
--*who_luville
-Parlons net.
-
--*who_delval
-Soit.
-
--*who_luville
-Votre intention est-elle de vous marier ?
-
--*who_delval
-Sans doute !
-
--*who_luville
-Avec qui ?
-
--*who_delval
-Avec votre soeur.
-
--*who_luville
-Bah !
-
--*who_delval
-Comment, bah ?
-
--*who_lacomtesse
-Le moyen de vous croire ?
-
--*who_delval
-Est tout simple; que le notaire vienne, que votre frère dicte le contrat, et je signe aveuglément.
-
--*who_lacomtesse
-Vous badinez !
-
--*who_delval
-Mais quelle horrible opinion avez-vous donc conçue de moi ?
-Ah !
-Bannissez cette méfiance injurieuse.
-Croyez que mon bonheur est de vous aimer, de passer mes jours auprès de vous, et de réparer, par les plus tendres soins, tous les chagrins cruels que l'hymen vous a fait éprouver.
-
--*who_lacomtesse
-Ah !
-Mon frère !
-
--*who_luville
-Il faut la mettre au pied du mur.
-Hé bien, Monsieur, je me rends et je vous accorde ma soeur.
-
--*who_delval
-Ah !
-Quel comble de joie !
-
--*who_luville
-Mais il faut que tout se termine à l'instant même.
-
--*who_delval
-Vouloir hâter l'instant de mon bonheur, c'est redoubler ma félicité.
-
--*who_lacomtesse
-Delval, cher Delval ne me forcez pas à vous haïr.
-Je vous aime plus que vous ne croyez, et je désire avec une extrême ardeur que vous m'autorisiez a vous aimer toujours de même.
-
--*who_delval
-Ah !
-Mon bonheur passe mon espérance, et je cours chez le notaire.
-
--*who_lacomtesse
-Delval... vous le voulez ?
-
--*who_delval
-Il va mettre le comble à ma gloire.
-
--*who_lacomtesse
-À votre gloire !
-
--*who_delval
-Et quel plus beau triomphe que le don de votre coeur et le titre de votre époux ?
-
--*who_lacomtesse
-Hé bien, Monsieur, allez donc chez le notaire, faites dresser le contrat, si vous l'osez, mais songez bien que ma haine sera le prix de votre perfidie.
-
--*who_delval
-Mon coeur est trop pur, pour redouter cette menace.
-André ?
-
-**** *book_ *id_I24 *act_I *date_1783
-
--*who_andre
 Me vlà Madame.
 
--*who_delval
-Hé bien, encore ?
+Dam ! C'est l'habitude.
 
--*who_andre
-Dam !
-C'est l'habitude.
+Hé pardi ! Il loge là, tout vis-à-vis la porte du châtiau.
 
--*who_delval
-Qu'avez-vous donc ?
-
--*who_lacomtesse,luville
-Rien, rien.
-
--*who_delval
-Vas t'informer où loge le notaire du lieu, et viens me prendre pour m'y conduire.
-
--*who_andre
-Hé pardi !
-Il loge là, tout vis-à-vis la porte du châtiau.
-
--*who_delval
-J'y vole; et ce jour fortuné va m'assurer à jamais une épouse adorée !
-Et un ami respectable.
-
-**** *book_ *id_I25 *act_I *date_1783
-
--*who_lacomtesse
-Ah !
-C'est pousser trop loin l'impudence !
-
--*who_luville
-Oh !
-Quelle femme !
-
--*who_lacomtesse
-Hé !
-Vous n'avez pu l'effrayer ?
-
--*who_luville
-L'effrayer ?
-Bien au contraire.
-
--*who_lacomtesse
-Comment donc, au contraire ?
-
--*who_luville
-Oui parbleu; quand je me suis présenté pour l'intimider, elle a foncé sur moi comme un lion : j'avais une peur horrible de la blesser, je me tenais sur la défensive.
-Quand elle n'aurait jamais fait autre chose, elle n'en saurait pas davantage.
-
--*who_lacomtesse
-Ah !
-Mon frère !
-
--*who_luville
-Quoi ?
-
--*who_lacomtesse
-Je ne puis vous exprimer ce qui se passe dans mon âme !
-
--*who_luville
-La mienne est plus agitée que la vôtre !
-
--*who_lacomtesse
-Mon frère, si vous aimez Sophie, il faut tout lui pardonner, qu'elle devienne ma soeur, qu'elle partage, avec vous, toute ma tendresse, que nous ne nous quittions de la vie.
-
--*who_luville
-Il n'est plus temps.
-
--*who_lacomtesse
-D'où vient ?
-
-**** *book_ *id_I26 *act_I *date_1783
-
--*who_lisette
-Voici Mademoiselle Sophie qui revient avec le notaire.
-
--*who_lacomtesse
-Je vous laisse avec eux.
-J'écoute, et je paraîtrai quand il en sera temps.
-
--*who_lisette
-Moi, je cours chercher ma maîtresse.
-Il est temps qu'elle se découvre.
-
-**** *book_ *id_I27 *act_I *date_1783
-
--*who_luville
-Cette plaisanterie m'éloigne de ma chère Mariane.
-Heureusement elle va bientôt finir.
-
-**** *book_ *id_I28 *act_I *date_1783
-
--*who_luville
-Comment donc, le contrat est déjà dressé ?
-
--*who_lenotaire
-Monsieur ne m'en a pas donné le temps.
-Il a fait mettre les noms des futurs époux, la note de ses biens: les articles sont restés en blanc, et vous êtes chargé, Monsieur, de les remplir comme vous le jugerez à propos.
-
--*who_luville
-Rien de plus honnête !
-
--*who_lenotaire
-Et si Madame la Comtesse jouit d'une haute fortune, Monsieur, assurément, ne lui cède en rien.
-
--*who_luville
-Delval ?
-
--*who_delval
-Monsieur ?
-
--*who_luville
-C'est donc tout de bon ?
-
--*who_delval
-Quoi !
-Vous en doutez encore ?
-
--*who_luville
-Vous sentez-vous capable de rendre ma soeur heureuse ?
-
--*who_delval
-Monsieur, en partageant mon sort, on n'aura jamais à se plaindre ni de mon coeur, ni de mon caractère, ni de ma conduite.
-
--*who_luville
-Cette réponse-là est tout-à-fait équivoque.
-
--*who_delval
-Équivoque ?
-
--*who_luville
-Oui, oui ; ne biaisons pas, êtes-vous bien décidé à vous marier ?
-
--*who_delval
-Sans doute.
-
--*who_luville
-Avec une femme ?
-
--*who_delval
-Comment avec une femme ?
-
--*who_luville
-Oui, oui.
-Je m'entends.
-
--*who_delval
-Mais, moi, je ne vous entends pas du tout.
-
--*who_luville
-Qu'est-ce que cela ?
-
--*who_delval
-Hé !
-Vous le savez bien, c'est mon contrat de mariage.
-
--*who_luville
-Avec qui ?
-
--*who_delval
-Mais, avec votre soeur.
-
--*who_luville
-Et vous le signerez ?
-
--*who_delval
-Si je le signerai !
-
--*who_luville
-Sans faute d'orthographe ?
-
--*who_delval
-Belle question !
-
--*who_luville
-Là, ce qu'on appelle signer !
-
--*who_delval
-Hé oui, oui, homme cruel que vous êtes, je le signerai, et de mon sang s'il le faut.
-
--*who_luville
-Dois-je faire appeler ma soeur ?
-
--*who_delval
-Sans doute.
-
--*who_luville
-Prenez garde, n'allez pas me faire faire une fausse démarche !
-
--*who_delval
-Hé, ne craignez rien !
-
--*who_luville
-Allons-donc !
-
-**** *book_ *id_I29 *act_I *date_1783
-
--*who_lisette
-Monsieur.
-Ah !
-Ciel !
-
--*who_delval
-Hé, que fais-tu ici ?
-
--*who_lisette
-Soyez tranquille, je n'ai rien dit.
-
--*who_delval
-Comment rien dit ?
-
--*who_lisette
-Non, demandez plutôt à Madame.
-
-**** *book_ *id_I30 *act_I *date_1783
-
--*who_lacomtesse
-Sa présence vous interdit ?
-
--*who_delval
-Moi, pourquoi donc ?
-
--*who_lacomtesse
-Quelle audace !
-
--*who_luville
-Voyons jusqu'où cela ira.
-Allons Monsieur, approchez, et signons.
-
--*who_lenotaire
-À vous, Monsieur.
-
--*who_delval
-Monsieur, je sais qu'il est dans l'ordre que je signe le premier.
-Mais....
-
--*who_lacomtesse
-La main vous tremble, n'est-ce pas ?
-
--*who_luville
-Je le savais bien !
-
--*who_delval
-Un moment, s'il vous plaît, point de fausses interprétations.
-Vos soupçons doivent justifier les miens.
-On connaît l'aversion que Madame a témoigné pour un second engagement ; et après que j'aurai signé, elle pourrait tourner tout ceci en plaisanterie.
-
--*who_lacomtesse
-Ah !
-Fort bien, c'est vous qui me supposez le dessein de vous persifler.
-
--*who_delval
-Pardon, mais je le crains.
-
--*who_lacomtesse
-Comme on juge d'après soi-même !
-
--*who_delval
-Ah !
-Madame...
-
--*who_lacomtesse
-Votre embarras est naturel, mais si vous craignez la plaisanterie, pourquoi l'avez vous poussée si loin ?
-
--*who_delval
-Hé bien, faites-moi voir que ce n'en n'est pas une ; rassurez mon coeur alarmé, signé la première.
-
--*who_lacomtesse
-Est-ce là ce que vous désirez ?
-
--*who_delval
-Oui.
-
--*who_lacomtesse
-Soyez content.
-
--*who_delval
-Ah !
-Je suis au comble de mes voeux !
-Allons, à vous mon cher frère.
-
--*who_luville
-Je le veux bien, ma chère soeur !
-
--*who_delval
-Ma soeur ?
-
--*who_luville
-Oh !
-Ma foi, il n'y a plus de milieu, il faut quitter le bal ou lever le masque.
-Voilà la plume.
-
--*who_delval
-Ah !
-Je n'ai jamais rien signé de si bon coeur.
-Vous êtes à moi ma belle Comtesse, mon triomphe est parfait.
-
--*who_lacomtesse
-Pas tout-à-fait Madame.
-
--*who_delval
-Que dites-vous donc ?
-
--*who_lacomtesse
-Que lorsqu'on veut badiner les gens, on doit bien prendre garde de ne pas donner soi-même dans les pièges qu'on leur a tendus.
-
--*who_delval
-Je reste confondu.
-
--*who_lacomtesse
-Je le crois ; j'étais instruite de tout, et j'ai voulu voir jusqu'où vous pousseriez la fausseté.
-
--*who_delval
-Moi, daignez m'expliquer.
-
--*who_lacomtesse
-Éloignez-vous de mes yeux.
-Vous n'avez pas voulu être mon amie, Sophie ?
-Et je vais faire mon possible pour vous haïr !
-
-**** *book_ *id_I31 *act_I *date_1783
-
--*who_sophie
-Pour me haïr ?
-Eh !
-Qu'ai-je donc fait pour mériter un sentiment si cruel ?
-
--*who_lacomtesse
-Qui êtes-vous ?
-Que voulez-vous ?
-
--*who_delval
-Hé !
-C'est ma soeur !
-
--*who_lacomtesse,luville
-Sa soeur !
-
--*who_lisette
-Elle-même.
-
--*who_sophie
-Pardonnez-moi, Madame, l'heureux artifice dont je me suis servi pour rendre votre coeur à l'amour.
-Moi seule je vous ai trompée, et je m'en félicite.
-Je suis la véritable Sophie, et voilà le Marquis Delval mon frère.
-Vous n'auriez jamais consenti à le voir, si son sexe avait été connu de vous ; mais j'ai dû lui cacher ma ruse et je l'ai fait ; il ne serait pas digne de son bonheur, s'il avait aidé à tromper ce qu'il aime.
-
--*who_delval
-Ma chère épouse !
-
--*who_lacomtesse
-Quoi réellement vous n'êtes pas Sophie ?
-
--*who_delval
-Votre coeur a-t-il pu s'y méprendre ?
-
--*who_lacomtesse
-Ah !
-Sophie, que je vous aime !
-
--*who_luville
-Ah !
-Mariane !
-Mariane !
-
--*who_sophie
-Êtes-vous fâché de la méprise ?
-
--*who_luville
-Non ; mais je voudrais que mon erreur eût été plus longue !
-
--*who_sophie
-Pourquoi ?
-
--*who_luville
-Pour jouir du plaisir de vous donner la marque la plus éclatante de mon amour.
-
--*who_sophie
-Et m'accabler du poids de la reconnaissance !
-Non pas, s'il vous plaît, il faut que tout soit égal.
-Vous m'avez protégé sans me connaître ; je vous offre ma main, sommes-nous quitte ?
-
--*who_luville
-Ah !
-C'est moi qui vous doit tout.
-
--*who_lacomtesse
-Et ma promesse ?
-
--*who_luville
-Vas ma soeur, l'amour t'en dégage ; aime bien Delval, il le mérite, c'est un brave garçon ; qu'il m'accorde sa soeur, et que cette double union nous réunisse à jamais.
-
--*who_delval
-Je lui dois tout mon bonheur; il est bien juste que j'assure le sien.
-
--*who_sophie
-Allons, et que nos cours soient à jamais partagés entre l'amour et l'amitié.

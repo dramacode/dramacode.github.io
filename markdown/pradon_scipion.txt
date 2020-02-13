@@ -1,6 +1,6 @@
 ---
 identifier: pradon_scipion  
-creator: Pradon, Nicolas  
+creator: Pradon, Nicolas ; Georges Forestier.  
 date: 1697  
 title: Scipion l'Africain. Tragédie  
 ---

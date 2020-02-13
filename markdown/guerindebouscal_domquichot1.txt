@@ -1,6 +1,6 @@
 ---
 identifier: guerindebouscal_domquichot1  
-creator: Guérin de Bouscal, Guyon  
+creator: Guérin de Bouscal, Guyon ; Georges Forestier.  
 date: 1639  
 title: Dom Quixote de la Manche. Comédie  
 ---

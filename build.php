@@ -13,37 +13,19 @@ class Dramacode
 {
   static $sets = array(
     "bibdramatique" => array(
-      "glob" => '../bibdramatique/xml/*_*.xml',
+      "glob" => '../bibdramatique/*_*.xml',
       "publisher" => "CELLF, Bibliothèque dramatique",
       "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
       "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
     "moliere" => array(
-      "glob" => '../moliere-dramacode/*_*.xml',
+      "glob" => '../moliere/*_*.xml',
       "publisher" => 'OBVIL, projet Molière',
       "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://dramacode.github.io/moliere/%s.xml",
     ),
     // en dernier, ne doit pas écraser les collections ci-dessus
     "tc" => array(
-      /*
-        ../tcp5/boisrobert_*.xml
-        ../tcp5/boursault_*.xml
-        ../tcp5/corneillep_*.xml
-        ../tcp5/corneillet_*.xml
-        ../tcp5/cyrano_*.xml
-        ../tcp5/donneaudevise_*.xml
-        ../tcp5/dorimond_*.xml
-        ../tcp5/dumas_*.xml
-        ../tcp5/gillet_*.xml
-        ../tcp5/letellier_*.xml
-        ../tcp5/moliere_tartuffe64.xml
-        ../tcp5/racine_*.xml
-        ../tcp5/rosimond_*.xml
-        ../tcp5/rotrou_*.xml
-        ../tcp5/scarron_*.xml
-        ../tcp5/villiers_*.xml
-      */
       "glob" => '../tcp5/*_*.xml',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
@@ -151,6 +133,7 @@ CREATE INDEX play_setcode ON play(setcode);
     foreach (self::$formats as $format => $row) {
       $dir = $set['predir'].$format;
       $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$row["ext"];
+
 
       if ( !file_exists($destfile) ); // work to be done
       else if ( $priority < 0 ) continue; // low priority, do not replace

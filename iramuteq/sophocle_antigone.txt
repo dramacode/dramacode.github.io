@@ -1,1254 +1,590 @@
 
 
-**** *book_ *id_I01 *act_I *date_1877
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_antigone
 
--*who_antigone
-Ô chère tête fraternelle d'Ismènè, sais-tu quels sont les maux venus d'Oedipe que Zeus ne nous inflige pas, à nous qui vivons encore ?
-En effet, il n'est rien de cruel, d'amer, de honteux et d'ignominieux que je n'aie vu parmi tes maux et les miens.
-Et, maintenant, quel est cet édit récent que le maître de la ville a imposé à tous les citoyens ?
-Le connais-tu ?
-L'as-tu entendu ?
-Ou les maux te sont-ils cachés qu'on médite contre nos amis et qu'on a coutume de souffrir de la part d'un ennemi ?
+Ô chère tête fraternelle d'Ismènè, sais-tu quels sont les maux venus d'Oedipe que Zeus ne nous inflige pas, à nous qui vivons encore ? En effet, il n'est rien de cruel, d'amer, de honteux et d'ignominieux que je n'aie vu parmi tes maux et les miens. Et, maintenant, quel est cet édit récent que le maître de la ville a imposé à tous les citoyens ? Le connais-tu ? L'as-tu entendu ? Ou les maux te sont-ils cachés qu'on médite contre nos amis et qu'on a coutume de souffrir de la part d'un ennemi ?
 
--*who_ismene
-Aucune nouvelle de nos amis, Antigone, n'est venue à moi, joyeuse ou triste, depuis que nous avons été privées de nos deux frères, morts en un seul jour, l'un par l'autre.
-L'armée des Argiens s'en étant allée cette nuit, je ne sais rien de plus qui puisse me rendre plus heureuse ou plus malheureuse.
-
--*who_antigone
 Je le sais bien ; mais je t'ai demandé de sortir de la demeure, afin que tu m'entendisses seule.
 
--*who_ismene
-Qu'est-ce ?
-Il est manifeste que tu roules quelque chose dans ton esprit.
+Créon n'a-t-il pas décrété les honneurs de la sépulture pour l'un de nos frères, en les refusant indignement à l'autre ? On dit qu'il a enfermé Étéocle dans la terre, pour qu'il fût honoré des morts ; mais il a défendu aux citoyens de mettre au tombeau le misérable cadavre de Polynice mort et de le pleurer. Et on doit le livrer, non enseveli, non pleuré, en proie aux oiseaux carnassiers à qui cette pâture est agréable. On dit que le bon Créon a décrété cela pour toi et pour moi, certes, pour moi, et qu'il va venir ici afin de l'annoncer hautement à ceux qui l'ignorent. Et il ne pense point que ce soit une chose vaine. Celui qui agira contre ce décret devra être écrasé de pierres par le peuple, dans la ville. Voilà ce qui te menace, et tu montreras avant peu si tu es bien née ou si tu es la fille lâche de pères irréprochables.
 
--*who_antigone
-Créon n'a-t-il pas décrété les honneurs de la sépulture pour l'un de nos frères, en les refusant indignement à l'autre ?
-On dit qu'il a enfermé Étéocle dans la terre, pour qu'il fût honoré des morts ; mais il a défendu aux citoyens de mettre au tombeau le misérable cadavre de Polynice mort et de le pleurer.
-Et on doit le livrer, non enseveli, non pleuré, en proie aux oiseaux carnassiers à qui cette pâture est agréable.
-On dit que le bon Créon a décrété cela pour toi et pour moi, certes, pour moi, et qu'il va venir ici afin de l'annoncer hautement à ceux qui l'ignorent.
-Et il ne pense point que ce soit une chose vaine.
-Celui qui agira contre ce décret devra être écrasé de pierres par le peuple, dans la ville.
-Voilà ce qui te menace, et tu montreras avant peu si tu es bien née ou si tu es la fille lâche de pères irréprochables.
-
--*who_ismene
-Ô malheureuse !
-Si la chose est telle, à quoi me résoudre ?
-
--*who_antigone
 Vois si tu veux agir avec moi et m'aider !
 
--*who_ismene
-Que médites-tu ?
-Quelle est ta pensée ?
-
--*who_antigone
 Veux-tu enlever le cadavre avec moi ?
 
--*who_ismene
-Penses-tu à l'ensevelir, quand cela est défendu aux citoyens ?
+Certes, j'ensevelirai mon frère qui est le tien, si tu ne le veux pas. Jamais on ne m'accusera de trahison.
 
--*who_antigone
-Certes, j'ensevelirai mon frère qui est le tien, si tu ne le veux pas.
-Jamais on ne m'accusera de trahison.
-
--*who_ismene
-Ô malheureuse !
-Puisque Créon l'a défendu ?
-
--*who_antigone
 Il n'a nul droit de me repousser loin des miens.
 
--*who_ismene
-Hélas !
-Songe, ô soeur, que notre père est mort détesté et méprisé, et qu'ayant connu ses actions impies, il s'est arraché les deux yeux de sa propre main ; que celle qui portait le double nom de sa mère et de son épouse, s'affranchit de la vie à l'aide d'un lacet terrible ; et que nos deux frères enfin, en un même jour, se tuant eux-mêmes, les malheureux ! se sont donné la mort l'un l'autre.
-Maintenant que nous voici toutes deux seules, songe que nous devrons mourir plus lamentablement encore, si, contre la loi, nous méprisons la force et la puissance des maîtres.
-Il faut penser que nous sommes femmes, impuissantes à lutter contre des hommes, et que, soumises à ceux qui sont les plus forts, nous devons leur obéir, même en des choses plus dures.
-Pour moi, ayant prié les ombres souterraines de me pardonner, parce que je suis contrainte par la violence, je céderai à ceux qui possèdent la puissance, car il est insensé de tenter au delà de ses forces.
+Je ne demanderai plus rien. Même si tu voulais agir avec moi, je ne me servirai pas volontiers de toi. Fais ce que tu veux, mais moi, je l'ensevelirai, et il me sera beau de mourir pour cela. Ayant commis un crime pieux, chère je me coucherai auprès de qui m'est cher ; car j'aurai plus longtemps à plaire à ceux qui sont sous la terre qu'à ceux qui sont ici. C'est là que je serai couchée pour toujours. Mais toi, méprise à ton gré ce qu'il y a de plus sacré pour les dieux.
 
--*who_antigone
-Je ne demanderai plus rien.
-Même si tu voulais agir avec moi, je ne me servirai pas volontiers de toi.
-Fais ce que tu veux, mais moi, je l'ensevelirai, et il me sera beau de mourir pour cela.
-Ayant commis un crime pieux, chère je me coucherai auprès de qui m'est cher ; car j'aurai plus longtemps à plaire à ceux qui sont sous la terre qu'à ceux qui sont ici.
-C'est là que je serai couchée pour toujours.
-Mais toi, méprise à ton gré ce qu'il y a de plus sacré pour les dieux.
+Prends ce prétexte. Moi j'irai élever un tombeau à mon très cher frère.
 
--*who_ismene
-Je ne le méprise pas, mais je n'ai pas la force de rien faire malgré les citoyens.
-
--*who_antigone
-Prends ce prétexte.
-Moi j'irai élever un tombeau à mon très cher frère.
-
--*who_ismene
-Hélas !
-Combien je crains pour toi, malheureuse !
-
--*who_antigone
 Ne crains rien pour moi ; ne t'inquiète que de ce qui te regarde.
 
--*who_ismene
-Ne confie au moins ton dessein à personne.
-Agis secrètement.
-Je me tairai aussi.
+Hélas ! Parle hautement. Tu me seras plus odieuse si tu te tais que si tu révèles ceci à tous.
 
--*who_antigone
-Hélas !
-Parle hautement.
-Tu me seras plus odieuse si tu te tais que si tu révèles ceci à tous.
-
--*who_ismene
-Tu as un coeur chaud pour ce qui exige le sang-froid.
-
--*who_antigone
 Je plais ainsi, je le sais, à ceux auxquels il convient que je plaise.
 
--*who_ismene
-Si tu le peux, pourtant ; mais tu tentes au-delà de tes forces.
-
--*who_antigone
 Je m'arrêterai donc quand je ne pourrai faire plus.
 
--*who_ismene
-Quand les choses sont au-dessus de nos forces, il convient de ne pas les tenter.
+Si tu parles ainsi, je te prendrai en haine et tu seras justement odieuse à celui qui est mort. Mais laisse-moi braver ce que j'ose, car, certes, quelque destinée cruelle que je subisse, je mourrai glorieusement.
 
--*who_antigone
-Si tu parles ainsi, je te prendrai en haine et tu seras justement odieuse à celui qui est mort.
-Mais laisse-moi braver ce que j'ose, car, certes, quelque destinée cruelle que je subisse, je mourrai glorieusement.
-
--*who_ismene
-Si cela te semble ainsi, va !
-Sache que tu es insensée, mais que tu aimes sincèrement tes amis.
-
-**** *book_ *id_I02 *act_I *date_1877
-
--*who_lechoeur
-Clarté splendide !
-La plus belle des lumières qui aient lui sur Thèbes aux sept portes, tu as enfin paru au-dessus des sources Dirkaiennes.
-OEil du jour d'or !
-Tu as repoussé et contraint de fuir, lâchant les rênes, l'homme au bouclier blanc, sorti tout armé d'Argos, et qui, levé contre notre terre pour la cause douteuse de Polynice, et poussant des cris aigus, s'est abattu ici comme un aigle à l'aile de neige, avec d'innombrables armes et des casques chevelus.
-Plus haut que nos demeures, il était là, dévorant, de toute part, avec ses lances avides de meurtre, autour des sept portes ; et il s'en est allé avant de s'être rassasié de notre sang, et avant que Héphaïstos résineux ait saisi nos tours crénelées ; tant a éclaté derrière lui le ressentiment d'Arès, invincible pour le Drakôn ennemi.
-Car Zeus hait l'impudence d'une langue orgueilleuse, et, les ayant vus se ruer impétueusement, très fiers de leur or strident, il a renversé, de la foudre dardée, celui qui se préparait à pousser le cri de la victoire au faîte de nos murailles.
-Renversé, il tomba, retentissant contre terre et portant le feu, lui qui, naguère, ivre d'une fureur insensée, avait le souffle des vents les plus terribles.
-Et Arès, grand et impétueux, détourna ces maux et leur en infligea d'autres en les bouleversant tous.
-Et les sept chefs, dressés aux sept portes contre sept autres, laissèrent leurs armes d'airain à Zeus qui met en fuite, excepté ces deux malheureux qui, nés du même père et de la même mère, se sont frappés l'un l'autre de leurs lances et ont reçu une commune mort.
-Mais Nika, au nom illustre, est venue sourire à Thèbes aux chars innombrables.
-Oublions donc ces combats, et menons des choeurs nocturnes dans tous les temples des dieux, et que Bacchus les conduise, lui qui ébranle la terre Thèbaienne !
-Voici le roi du pays, Créon Ménoikéide.
-Il vient à cause des faits récents qu'ont voulus les Dieux, roulant quelque dessein, puisqu'il a convoqué cette assemblée de vieillards réunis par un appel commun.
-
--*who_creon
-Hommes !
-Les dieux ont enfin sauvé cette ville qu'ils avaient battue de tant de flots.
-Je vous ai ordonné par des envoyés de vous réunir ici, choisis entre tous, parce que vous avez, je le sais, toujours honoré la puissance de Laios, et gardé la même foi constante à Oedipe quand il commandait dans la ville, et, lui mort, à ses enfants.
-Puisqu'ils ont péri tous deux en un même jour, tués l'un par l'autre en un meurtre mutuel et impie, je possède maintenant la puissance et le trône, étant le plus proche parent des morts.
-L'esprit, l'âme et les desseins d'un homme ne peuvent être connus avant qu'il ait mené la chose publique et appliqué les lois.
-Quiconque régit la ville et ne se conforme point aux meilleurs principes, mais réprime sa langue par frayeur, celui-là est le pire des hommes, je l'ai toujours pensé et je le pense encore ; et je n'estime en aucune façon celui qui préfère un ami à sa patrie.
-J'en atteste Zeus qui voit toutes choses !
-Je ne me tais point quand je vois qu'une calamité menace le salut des citoyens, et jamais je n'ai en amitié un ennemi de la patrie ; car je sais que c'est le salut de la patrie qui sauve les citoyens, et que nous ne manquons point d'amis tant qu'elle est en sûreté.
-C'est par de telles pensées que j'accroîtrai cette ville.
-Et j'ai ordonné par un édit qu'on enfermât dans un tombeau Étéocle qui, en combattant pour cette ville, est mort bravement, et qu'on lui rendît les honneurs funèbres dus aux ombres des vaillants hommes.
-Mais, pour son frère Polynice qui, revenu de l'exil, a voulu détruire par la flamme sa patrie et les dieux de sa patrie, qui a voulu boire le sang de ses proches et réduire les citoyens en servitude, je veux que nul ne lui donne un tombeau, ni ne le pleure, mais qu'on le laisse non enseveli, et qu'il soit honteusement déchiré par les oiseaux carnassiers et par les chiens.
-Telle est ma volonté.
-Les impies ne recevront jamais de moi les honneurs dus aux justes ; mais quiconque sera l'ami de cette ville, vivant, ou mort, sera également honoré par moi.
-
--*who_lechoeur
-Il te plaît d'agir ainsi, Créon, fils de Ménoikeus, envers l'ennemi de cette ville et envers son ami.
-Tous, tant que nous sommes, vivants ou morts, nous sommes soumis à ta loi, quelle qu'elle soit.
-
--*who_creon
-Veillez donc à ce que l'édit soit respecté.
-
--*who_lechoeur
-Confie ce soin à de plus jeunes.
-
--*who_creon
-Il y a déjà des gardiens du cadavre.
-
--*who_lechoeur
-Que nous ordonnes-tu donc de plus ?
-
--*who_creon
-De ne point permettre qu'on désobéisse.
-
--*who_lechoeur
-Nul n'est assez insensé pour désirer mourir.
-
--*who_creon
-Certes, telle est la récompense promise ; mais l'espoir d'un gain a souvent perdu les hommes.
-
-**** *book_ *id_I03 *act_I *date_1877
-
--*who_legardien
-Roi, je ne dirai pas sans doute que je suis venu, haletant, d'un pas rapide et pressé.
-Je me suis attardé en proie à beaucoup de soucis, et retournant souvent en arrière sur mon chemin.
-En effet,je me suis dit bien des fois : – Malheureux ! pourquoi courir à ton propre châtiment ?
-Mais t'arrêteras-tu, malheureux ?
-Si Créon apprend ceci de quelque autre, comment échapperas-tu à ta perte ? – Roulant ces choses dans mon esprit, j'ai marché lentement de sorte que la route est devenue longue, bien qu'elle soit courte.
-Enfin j'ai résolu de venir à toi, et quoique je ne rapporte rien de certain, je parlerai cependant.
-En effet, je viens dans l'espoir de ne souffrir que ce que la destinée a décidé.
-
--*who_creon
-Qu'est-ce ?
-Pourquoi es-tu inquiet dans ton esprit ?
-
--*who_legardien
-Je veux avant tout te révéler ce qui me concerne.
-Je n'ai point fait ceci et je n'ai point vu qui l'a fait.
-Je ne mérite donc pas d'en souffrir.
-
--*who_creon
-Certes, tu parles avec précaution et tu te garantis de toute façon.
-Je vois que tu as à m'annoncer quelque chose de grave.
-
--*who_legardien
-Le danger inspire beaucoup de crainte.
-
--*who_creon
-Ne parleras-tu point afin de sortir, la chose dite ?
-
--*who_legardien
-Je te dirai tout.
-Quelqu'un a enseveli le mort, et s'en est allé après avoir jeté de la poussière sèche sur le cadavre et accompli les rites funèbres selon la coutume.
-
--*who_creon
-Que dis-tu ?
-Qui a osé faire cela ?
-
--*who_legardien
-Je ne sais, car rien n'avait été tranché par la bêche ni creusé par la houe.
-La terre était dure, âpre, intacte, non sillonnée par les roues d'un char ; et celui qui a fait la chose n'a point laissé de trace.
-Dès que le premier veilleur du matin nous eut appris le fait, ceci nous sembla un triste prodige.
-Le mort n'était plus visible, non qu'il fût enfermé sous terre cependant, mais entièrement couvert d'une poussière légère afin d'échapper à toute souillure.
-Et il n'y avait aucune trace de bête fauve ou de chien qui fût venu et qui eût traîné le cadavre.
-Alors, nous commençâmes à nous injurier, chaque gardien en accusant un autre.
-Et la chose en serait venue aux coups, car nul n'était là pour s'y opposer, et tous semblaient coupables ; mais rien n'était prouvé contre personne et chacun se défendait du crime.
-Nous étions prêts à saisir de nos mains un fer rouge, à traverser les flammes, à jurer par les dieux que nous n'avions rien fait, que nous ne savions ni qui avait médité le crime, ni qui l'avait commis.
-Enfin, comme en cherchant nous ne trouvions rien, un d'entre nous dit une parole qui fit que nous baissâmes tous la tête de terreur ; car nous ne pouvions ni la contredire, ni savoir si cela tournerait heureusement pour nous.
-Et cette parole était qu'il fallait t'annoncer la chose et ne rien te cacher.
-Cette résolution l'emporta, et le sort m'a condamné, moi, malheureux, à porter cette belle nouvelle !
-Je suis ici contre mon gré et contre votre gré à tous.
-Personne n'aime à être un messager de malheur.
-
--*who_lechoeur
-Certes, ô roi, j'y pense depuis longtemps : ceci n'a-t-il point été fait par les Dieux ?
-
--*who_creon
-Tais-toi, avant que tes paroles aient excité ma colère et de peur d'être pris pour vieux et insensé.
-Tu dis une chose intolérable en disant que les démons s'inquiètent de ce mort.
-Lui ont-ils donc accordé comme à un bienfaiteur l'honneur de la sépulture, à lui qui est venu brûler leurs temples soutenus de colonnes et les dons sacrés, dévaster leur terre et détruire leurs lois ?
-Vois-tu les dieux honorer les pervers ?
-Cela n'est pas.
-Mais depuis longtemps quelques citoyens, supportant ceci avec peine, murmuraient contre moi, secouant silencieusement leurs têtes ; et ils ne courbaient point le cou sous le joug, comme il convient, et ils n'obéissaient point à mon commandement.
-Je sais qu'ils ont excité par une récompense ces gardiens à faire cela ; car l'argent est la plus funeste des inventions des hommes.
-Il dévaste les villes, il chasse les hommes de leurs demeures, et il pervertit les esprits sages, afin de les pousser aux actions honteuses ; il enseigne les ruses aux hommes et les accoutume à toutes les impiétés.
-Mais ceux qui ont fait ceci pour une récompense ne se sont attiré que des châtiments certains.
-Si le respect de Zeus est encore puissant sur moi, sachez-le sûrement : je dis et jure que, si vous n'amenez point devant moi l'auteur de cet ensevelissement, vous ne serez point seulement punis de mort, mais pendus vivants, tant que vous n'aurez point révélé qui a commis ce crime ; vous apprendrez désormais où il faut chercher le gain désiré, et qu'on ne doit point l'obtenir par tous les moyens ; car beaucoup sont plutôt perdus que sauvés par les gains honteux.
-
--*who_legardien
-Permets-tu que je parle encore, ou m'en retournerai-je ?
-
--*who_creon
-Ne sais-tu pas que tu me blesses par tes paroles ?
-
--*who_legardien
-Ton oreille est-elle blessée, ou ton âme ?
-
--*who_creon
-Pourquoi cherches-tu où est mon mal ?
-
--*who_legardien
-Celui qui a commis le crime blesse ton âme, et moi, je blesse ton oreille.
-
--*who_creon
-Ah !
-Tu es né pour mon malheur.
-
--*who_legardien
-Certes, je n'ai point commis le crime.
-
--*who_creon
-Tu as donné ta vie pour le désir de l'argent.
-
--*who_legardien
-Ah !
-C'est un malheur, quand on soupçonne, de soupçonner faussement.
-
--*who_creon
-Argumente autant que tu le voudras contre le soupçon ; mais si vous ne révélez ceux qui ont fait cela, vous apprendrez, l'ayant éprouvé, que les maux sont engendrés par les gains iniques.
-
--*who_legardien
-Certes, je désire ardemment qu'on trouve le coupable ; mais qu'il soit découvert ou non, et c'est à la destinée d'en décider, tu ne me verras plus revenir ici.
-En effet, sauvé maintenant contre mon espérance et ma pensée, je dois rendre mille grâces aux Dieux.
-
-**** *book_ *id_I04 *act_I *date_1877
-
--*who_lechoeur
-Beaucoup de choses sont admirables, mais rien n'est plus admirable que l'homme.
-Il est porté par le Notos orageux à travers la sombre mer, au milieu de flots qui grondent autour de lui ; il dompte, d'année en année, sous les socs tranchants, la plus puissante des déesses, Gaia, immortelle et infatigable, et il la retourne à l'aide du cheval.
-L'homme, plein d'adresse, enveloppe, dans ses filets faits de cordes, la race des légers oiseaux et les bêtes sauvages et la génération marine de la mer ; et il asservit par ses ruses la bête farouche des montagnes ; et il met sous le joug le cheval chevelu et l'infatigable taureau montagnard, et il les contraint de courber le cou.
-Il s'est donné la parole et la pensée rapide et les lois des cités, et il a mis ses demeures à l'abri des gelées et des pluies fâcheuses.
-Ingénieux en tout, il ne manque jamais de prévoyance en ce qui concerne l'avenir.
-Il n'y a que le Hadès auquel il ne puisse échapper, mais il a trouvé des remèdes aux maladies dangereuses.
-Plus intelligent en inventions diverses qu'on ne peut l'espérer,il fait tantôt le bien, tantôt le mal, violant les lois de la patrie et le droit sacré des dieux.
-Celui qui excelle dans la ville mérite d'en être rejeté, quand, par audace, il agit honteusement.
-Que je n'aie ni le même toit, ni les mêmes pensées que celui qui agit ainsi !
-Par un prodige incroyable, ce ne peut être Antigone, bien que ce soit elle que je vois.
-Ô malheureuse fille du malheureux Oedipe, qu'y a-t-il ?
-Ceux-ci t'amènent-ils pour avoir méprisé la loi royale etavoir osé une action insensée ?
-
--*who_legardien
-Celle-ci a commis le crime.
-Nous l'avons saisie ensevelissant le cadavre.
-Mais où est Créon ?
-
--*who_lechoeur
-Le voici qui sort de la demeure, et à propos.
-
-**** *book_ *id_I05 *act_I *date_1877
-
--*who_creon
-Qu'est-ce ?
-Qu'est-il arrivé qui rende ma venue opportune ?
-
--*who_legardien
-Roi, les mortels ne doivent rien nier par serment, car une seconde pensée dément la première.
-Je n'aurais certes point cru que je dusse jamais revenir ici, troublé que j'étais par tes menaces ; mais la joie qui arrive inespérée et inattendue ne peut être surpassée par aucun autre bonheur.
-Je reviens donc, ayant abjuré mon serment et menant ici cette jeune fille qui a été surprise préparant la sépulture.
-En ceci le sort n'a point été interrogé, mais c'est moi seul qui ai le mérite de l'action, et non un autre.
-Et maintenant, Roi, puisque je l'ai prise, questionne-la et convaincs-la, comme il te plaira.
-Moi je suis absous et justement affranchi du châtiment.
-
--*who_creon
-Comment et où as-tu pris celle que tu amènes ?
-
--*who_legardien
-Elle ensevelissait l'homme.
-Tu sais tout.
-
--*who_creon
-Comprends-tu ce que tu dis, et dis-tu vrai ?
-
--*who_legardien
-Je l'ai vue ensevelissant le cadavre que tu avais défendu d'ensevelir.
-Ai-je parlé assez ouvertement et clairement ?
-
--*who_creon
-Et comment a-t-elle été aperçue et surprise commettant le crime ?
-
--*who_legardien
-La chose s'est passée ainsi.
-Dès que nous fûmes retournés, pleins de terreur à cause de tes menaces terribles, ayant enlevé toute la poussière qui couvrait le corps et l'ayant mis à nu tout putréfié, nous nous assîmes au sommet des collines, contre le vent, pour fuir l'odeur et afin qu'elle ne nous atteignît pas, et nous nous excitions l'un l'autre par des injures, dès qu'un d'entre nous négligeait de veiller.
-La chose fut ainsi jusqu'à l'heure où l'orbe de Hélios s'arrêta au milieu de l'aithèr et que son ardeur brûla.
-Alors un brusque tourbillon, soulevant une tempête sur la terre et obscurcissant l'air, emplit la plaine et dépouilla tous les arbres de leur feuillage, et le grand aithèr fut enveloppé d'une épaisse poussière.
-Et, les yeux fermés, nous subissions cette tempête envoyée par les Dieux.
-Enfin, après un long temps, quand l'orage eut été apaisé, nous aperçûmes cette jeune fille qui se lamentait d'une voix aiguë, telle que l'oiseau désolé qui trouve le nid vide de ses petits.
-De même celle-ci, dès qu'elle vit le cadavre nu, hurla des lamentations et des imprécations terribles contre ceux qui avaient fait cela.
-Aussitôt elle apporte de la poussière sèche, et, à l'aide d'un vase d'airain forgé au marteau, elle honore le mort d'une triple libation.
-L'ayant vue, nous nous sommes élancés et nous l'avons saisie brusquement sans qu'elle en fût effrayée.
-Et nous l'avons interrogée sur l'action déjà commise et sur la plus récente, et elle n'a rien nié.
-Et ceci m'a plu et m'a attristé en même temps.
-Car, s'il est très doux d'échapper au malheur, il est triste d'y mener ses amis.
-Mais tout est d'un moindre prix que mon propre salut.
-
--*who_creon
-Et toi qui courbes la tête contre terre, je te parle : Avoues-tu ou nies-tu avoir fait cela ?
-
--*who_antigone
 Je l'avoue, je ne nie pas l'avoir fait.
 
--*who_creon
-Pour toi, va où tu voudras ; tu es absous de ce crime.
-Mais toi, réponds-moi en peu de mots et brièvement : connaissais-tu l'édit qui défendait ceci ?
+Je le connaissais. Comment l'aurais-je ignoré ? Il est connu de tous.
 
--*who_antigone
-Je le connaissais.
-Comment l'aurais-je ignoré ?
-Il est connu de tous.
+C'est que Zeus ne les a point faites, ni la justice qui siège auprès des dieux souterrains. Et je n'ai pas cru que tes édits pussent l'emporter sur les lois non écrites et immuables des Dieux, puisque tu n'es qu'un mortel. Ce n'est point d'aujourd'hui, ni d'hier, qu'elles sont immuables ; mais elles sont éternellement puissantes, et nul ne sait depuis combien de temps elles sont nées. Je n'ai pas dû, par crainte des ordres d'un seul homme, mériter d'être châtiée par les Dieux. Je savais que je dois mourir un jour, comment ne pas le savoir ? Même sans ta volonté, et si je meurs avant le temps, ce me sera un bien, je pense. Quiconque vit comme moi au milieu d'innombrables misères, celui-là n'a-t-il pas profit à mourir ? Certes, la destinée qui m'attend ne m'afflige en rien. Si j'avais laissé non enseveli le cadavre de l'enfant de ma mère, cela m'eût affligée ; mais ce que j'ai fait ne m'afflige pas. Et si je te semble avoir agi follement, peut-être suis-je accusée de folie par un insensé.
 
--*who_creon
-Et ainsi, tu as osé violer ces lois ?
-
--*who_antigone
-C'est que Zeus ne les a point faites, ni la justice qui siège auprès des dieux souterrains.
-Et je n'ai pas cru que tes édits pussent l'emporter sur les lois non écrites et immuables des Dieux, puisque tu n'es qu'un mortel.
-Ce n'est point d'aujourd'hui, ni d'hier, qu'elles sont immuables ; mais elles sont éternellement puissantes, et nul ne sait depuis combien de temps elles sont nées.
-Je n'ai pas dû, par crainte des ordres d'un seul homme, mériter d'être châtiée par les Dieux.
-Je savais que je dois mourir un jour, comment ne pas le savoir ?
-Même sans ta volonté, et si je meurs avant le temps, ce me sera un bien, je pense.
-Quiconque vit comme moi au milieu d'innombrables misères, celui-là n'a-t-il pas profit à mourir ?
-Certes, la destinée qui m'attend ne m'afflige en rien.
-Si j'avais laissé non enseveli le cadavre de l'enfant de ma mère, cela m'eût affligée ; mais ce que j'ai fait ne m'afflige pas.
-Et si je te semble avoir agi follement, peut-être suis-je accusée de folie par un insensé.
-
--*who_lechoeur
-L'esprit inflexible de cette enfant vient d'un père semblable à elle.
-Elle ne sait point céder au malheur.
-
--*who_creon
-Sache cependant que ces esprits inflexibles sont domptés plus souvent que d'autres.
-C'est le fer le plus solidement forgé au feu et le plus dur que tu vois se rompre le plus aisément.
-Je sais que les chevaux fougueux sont réprimés par le moindre frein, car il ne convient point d'avoir un esprit orgueilleux à qui est au pouvoir d'autrui.
-Celle-ci savait qu'elle agissait injurieusement en osant violer des lois ordonnées ; et, maintenant, ayant accompli le crime, elle commet un autre outrage en riant et en se glorifiant de ce qu'elle a fait.
-Que je ne sois plus un homme, qu'elle en soit un elle-même, si elle triomphe impunément, ayant osé une telle chose !
-Mais, bien qu'elle soit née de ma soeur, bien qu'elle soit ma plus proche parente, ni elle, ni sa soeur n'échapperont à la plus honteuse destinée, car je soupçonne cette dernière non moins que celle-ci d'avoir accompli cet ensevelissement.
-Appelez la.
-Je l'ai vue dans la demeure, hors d'elle-même et comme insensée.
-Le coeur de ceux qui ourdissent le mal dans les ténèbres a coutume de les dénoncer avant tout.
-Certes, je hais celui qui, saisi dans le crime, se garantit par des belles paroles.
-
--*who_antigone
 Veux-tu faire plus que me tuer, m'ayant prise ?
 
--*who_creon
-Rien de plus.
-Ayant ta vie, j'ai tout ce que je veux.
+Que tardes-tu donc ? De toutes tes paroles aucune ne me plaît, ni ne saurait me plaire jamais, et, de même, aucune des miennes ne te plaît non plus. Pouvais-je souhaiter une gloire plus illustre que celle que je me suis acquise en mettant mon frère sous la terre ? Tous ceux-ci diraient que j'ai bien fait, si la terreur ne fermait leur bouche ; mais, entre toutes les félicités sans nombre de la tyrannie, elle possède le droit de dire et de faire ce qui lui plaît.
 
--*who_antigone
-Que tardes-tu donc ?
-De toutes tes paroles aucune ne me plaît, ni ne saurait me plaire jamais, et, de même, aucune des miennes ne te plaît non plus.
-Pouvais-je souhaiter une gloire plus illustre que celle que je me suis acquise en mettant mon frère sous la terre ?
-Tous ceux-ci diraient que j'ai bien fait, si la terreur ne fermait leur bouche ; mais, entre toutes les félicités sans nombre de la tyrannie, elle possède le droit de dire et de faire ce qui lui plaît.
-
--*who_creon
-Tu penses ainsi, seule de tous les Kadméiens.
-
--*who_antigone
 Ils pensent de même, mais ils compriment leur bouche pour te complaire.
 
--*who_creon
-N'as-tu donc point honte de ne point faire comme eux ?
+Certes, non ! Car il n'y a aucune honte à honorer ses proches.
 
--*who_antigone
-Certes, non !
-Car il n'y a aucune honte à honorer ses proches.
-
--*who_creon
-N'était-il pas ton frère aussi celui qui est tombé en portant les armes pour une cause opposée ?
-
--*who_antigone
 De la même mère et du même père.
 
--*who_creon
-Pourquoi donc, en honorant celui-là, es-tu impie envers celui-ci ?
-
--*who_antigone
 Celui qui est mort ne rendrait pas ce témoignage.
 
--*who_creon
-Il le ferait sans doute, puisque tu honores l'impie autant que lui.
-
--*who_antigone
 Polynice est mort son frère et non son esclave.
 
--*who_creon
-Il est mort en dévastant cette terre, tandis que l'autre combattait vaillamment pour elle.
-
--*who_antigone
 Hadès applique à tous les mêmes lois.
 
--*who_creon
-Mais le bon et le mauvais n'ont pas le même traitement.
-
--*who_antigone
 Qui peut savoir si cela est ainsi dans le Hadès ?
 
--*who_creon
-Jamais un ennemi, même mort, ne devient un ami.
-
--*who_antigone
 Je suis née non pour une haine mutuelle, mais pour un mutuel amour.
 
--*who_creon
-Si ta nature est d'aimer, va chez les morts et aime-les.
-Tant que je vivrai, une femme ne commandera pas.
-
--*who_lechoeur
-Voici, devant les portes, Ismène qui verse des larmes à cause de sa soeur.
-Le nuage qui tombe de ses sourcils altère son visage qui rougit, et sillonne de larmes ses belles joues.
-
-**** *book_ *id_I06 *act_I *date_1877
-
--*who_creon
-Holà !
-Toi, qui es entrée secrètement dans ma demeure, comme une vipère, pour boire tout mon sang, car je ne savais pas que je nourrissais deux calamités, deux pestes de mon trône, viens !
-Parle enfin : avoueras-tu que tu as aidé à cet ensevelissement, ou jureras-tu que tu l'ignorais ?
-
--*who_ismene
-J'ai commis ce crime, si celle-ci l'avoue pour sa part.
-J'ai participé au fait et au crime.
-
--*who_antigone
 La justice ne consent point à cela, car tu n'as point voulu agir et je n'ai rien fait en commun avec toi.
 
--*who_ismene
-Mais je n'ai point honte, dans ton malheur, de partager ta destinée.
+Hadès et les ombres savent qui a fait cela. Je n'aime pas qui ne m'aime qu'en paroles.
 
--*who_antigone
-Hadès et les ombres savent qui a fait cela.
-Je n'aime pas qui ne m'aime qu'en paroles.
+Tu ne mourras pas avec moi et tu n'auras point l'honneur queNtu n'as pas mérité. C'est assez que je meure.
 
--*who_ismene
-Je te supplie, soeur, de ne point dédaigner que je meure avec toi pour avoir rendu de légitimes devoirs au mort.
-
--*who_antigone
-Tu ne mourras pas avec moi et tu n'auras point l'honneur queNtu n'as pas mérité.
-C'est assez que je meure.
-
--*who_ismene
-Comment la vie peut-elle m'être douce sans toi ?
-
--*who_antigone
 Demande-le à Créon, puisque tu t'es inquiétée de lui.
 
--*who_ismene
-Pourquoi m'affliges-tu ainsi sans profit pour toi ?
-
--*who_antigone
 Certes, je gémis de te railler ainsi.
 
--*who_ismene
-De quelle façon puis-je te venir en aide maintenant ?
+Sauve ta propre vie. Je ne t'envie point d'échapper à la mort.
 
--*who_antigone
-Sauve ta propre vie.
-Je ne t'envie point d'échapper à la mort.
-
--*who_ismene
-Oh !
-Malheureuse que je suis !
-Je ne partagerai point ta destinée.
-
--*who_antigone
 Tu as souhaité de vivre, et j'ai souhaité de mourir.
 
--*who_ismene
-Mes conseils du moins ne t'ont pas manqué.
-
--*who_antigone
 Tu parlais sagement pour ceux-ci, et moi je semblais sage aux morts.
 
--*who_ismene
-Mais cette faute est la nôtre à toutes deux.
+Prends courage, vis ! Pour moi, mon âme est déjà partie et ne sert plus qu'aux morts.
 
--*who_antigone
-Prends courage, vis !
-Pour moi, mon âme est déjà partie et ne sert plus qu'aux morts.
-
--*who_creon
-Je pense que l'une de ces jeunes filles a perdu l'esprit et que l'autre est née insensée.
-
--*who_ismene
-L'esprit des malheureux, ô roi, ne reste pas ce qu'il a été et change de nature.
-
--*who_creon
-Certes, le tien est changé, puisque tu veux avoir mal agi de moitié avec les impies.
-
--*who_ismene
-Comment pourrai-je vivre seule et sans elle ?
-
--*who_creon
-Ne parle plus d'elle, car elle n'est plus désormais.
-
--*who_ismene
-Tueras-tu donc la fiancée de ton propre fils ?
-
--*who_creon
-On peut ensemencer d'autres seins.
-
--*who_ismene
-Rien ne convenait mieux à l'un et à l'autre.
-
--*who_creon
-Je hais de mauvaises épouses pour mes fils.
-
--*who_antigone
 Ô très cher Hémon, combien ton père t'outrage !
 
--*who_creon
+Voyez-moi, ô citoyens de la terre de ma patrie, faisant mon dernier chemin et regardant le dernier éclat du jour pour ne plus jamais le regarder ! Hadès, qui ensevelit tout, m'emmène vivante vers l'Achéron, sans que j'aie connu les noces, sans que l'hymne nuptial m'ait chantée, car j'épouserai l'Achéron.
+
+Certes, j'ai entendu dire que la Phrygienne étrangère, fille de Tantale, est morte très malheureuse au sommet du Sipyle où l'accroissement de la pierre l'enveloppa, l'ayant étreinte rigidement comme un lierre. Ni les pluies, ni jamais les neiges ne l'abandonnent tandis qu'elle se fond, et toujours elle trempe son cou des larmes de ses yeux. Un démon va m'endormir comme elle.
+
+Hélas ! On se rit de moi. Par les dieux de la patrie ! Pourquoi m'accabler d'outrages, n'étant point morte encore et sous vos yeux ? Ô ville, ô très riches citoyens de la ville, ô sources Dirkaiennes, ô bois sacrés de Thèbes aux beaux chars, je vous atteste tous à la fois. Telle, non pleurée par mes amis, frappée par une loi inique, je vais vers cette prison sépulcrale qui sera mon tombeau. Hélas ! Malheureuse ! Je n'habiterai ni parmi les vivants, ni parmi les morts !
+
+Tu as touché à mes plus amères douleurs, à la destinée bien connue de mon père, aux désastres de toute la race des illustres Labdakides. Ô calamité des noces maternelles ! Ô embrassement de ma mère malheureuse et de mon père, elle qui m'a conçue, et lui, malheureux, qui m'a engendrée ! Je vais à eux, chargée d'imprécations et non mariée. Ô frère, tu as joui d'un hymen funeste, et, mort, tu m'as tuée !
+
+Non pleurée, sans amis et vierge, je fais mon dernier chemin. Je ne regarderai plus l'oeil sacré de Hélios, ô malheureuse ! Aucun ami ne gémira, ne pleurera sur ma destinée.
+
+Ô sépulcre ! Ô lit nuptial ! Ô demeure creusée que je ne quitterai plus, où je rejoins les miens, que Perséphassa a reçus, innombrables, parmi les morts ! La dernière d'entre eux, et,certes, par une fin bien plus misérable, je m'en vais avant d'avoir vécu ma part légitime de la vie. Mais, en partant, je garde la très grande espérance d'être la bien venue pour mon père, et pour toi, mère, et pour toi, tête fraternelle ! Car, morts, je vous ai lavés de mes mains, et ornés, et je vous ai porté les libations funéraires. Et maintenant, Polynice, parce que j'ai enseveli ton cadavre, je reçois cette récompense. Mais je t'ai honoré, approuvée par les sages. Jamais, si j'eusse enfanté des fils, jamais, si mon époux eût pourri mort, je n'eusse fait ceci contre la loi de la cité. Et pourquoi parlé-je ainsi ? C'est que, mon époux étant mort, j'en aurais eu un autre ; ayant perdu un enfant, j'en aurais conçu d'un autre homme ; mais de mon père et de ma mère enfermés chez Hadès jamais aucun autre frère ne peut me naître. Et, cependant, c'est pour cela, c'est parce que je t'ai honorée au-dessus de tout, ô tête fraternelle, que j'ai mal fait selon Créon, et que je lui semble très coupable. Et il me fait saisir et emmener violemment, vierge, sans hyménée, n'ayant eu ma part ni du mariage, ni de l'enfantement. Sans amis et misérable, je suis descendue, vivante, dans l'ensevelissement des morts. Quelle justice des dieux ai-je violée ? Mais à quoi me sert, malheureuse, de regarder encore vers les Dieux ? Lequel appeler à l'aide, si je suis nommée impie pour avoir agi avec piété ? Si les dieux approuvent ceci, j'avouerai l'équité de mon châtiment ; mais, si ces hommes sont iniques, je souhaite qu'ils ne souffrent pas plus de maux que ceux qu'ils m'infligent injustement.
+
+Hélas ! Ma mort est très proche de cette parole.
+
+Ô ville paternelle de la terre Thébéienne ! Ô dieux de mes aïeux ! Je suis emmenée sans plus de retard. Voyez, ô chefs de Thèbes, de quels maux m'accablent les hommes, parce que j'ai honoré la piété !
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ismene
+
+Aucune nouvelle de nos amis, Antigone, n'est venue à moi, joyeuse ou triste, depuis que nous avons été privées de nos deux frères, morts en un seul jour, l'un par l'autre. L'armée des Argiens s'en étant allée cette nuit, je ne sais rien de plus qui puisse me rendre plus heureuse ou plus malheureuse.
+
+Qu'est-ce ? Il est manifeste que tu roules quelque chose dans ton esprit.
+
+Ô malheureuse ! Si la chose est telle, à quoi me résoudre ?
+
+Que médites-tu ? Quelle est ta pensée ?
+
+Penses-tu à l'ensevelir, quand cela est défendu aux citoyens ?
+
+Ô malheureuse ! Puisque Créon l'a défendu ?
+
+Hélas ! Songe, ô soeur, que notre père est mort détesté et méprisé, et qu'ayant connu ses actions impies, il s'est arraché les deux yeux de sa propre main ; que celle qui portait le double nom de sa mère et de son épouse, s'affranchit de la vie à l'aide d'un lacet terrible ; et que nos deux frères enfin, en un même jour, se tuant eux-mêmes, les malheureux ! se sont donné la mort l'un l'autre. Maintenant que nous voici toutes deux seules, songe que nous devrons mourir plus lamentablement encore, si, contre la loi, nous méprisons la force et la puissance des maîtres. Il faut penser que nous sommes femmes, impuissantes à lutter contre des hommes, et que, soumises à ceux qui sont les plus forts, nous devons leur obéir, même en des choses plus dures. Pour moi, ayant prié les ombres souterraines de me pardonner, parce que je suis contrainte par la violence, je céderai à ceux qui possèdent la puissance, car il est insensé de tenter au delà de ses forces.
+
+Je ne le méprise pas, mais je n'ai pas la force de rien faire malgré les citoyens.
+
+Hélas ! Combien je crains pour toi, malheureuse !
+
+Ne confie au moins ton dessein à personne. Agis secrètement. Je me tairai aussi.
+
+Tu as un coeur chaud pour ce qui exige le sang-froid.
+
+Si tu le peux, pourtant ; mais tu tentes au-delà de tes forces.
+
+Quand les choses sont au-dessus de nos forces, il convient de ne pas les tenter.
+
+Si cela te semble ainsi, va ! Sache que tu es insensée, mais que tu aimes sincèrement tes amis.
+
+J'ai commis ce crime, si celle-ci l'avoue pour sa part. J'ai participé au fait et au crime.
+
+Mais je n'ai point honte, dans ton malheur, de partager ta destinée.
+
+Je te supplie, soeur, de ne point dédaigner que je meure avec toi pour avoir rendu de légitimes devoirs au mort.
+
+Comment la vie peut-elle m'être douce sans toi ?
+
+Pourquoi m'affliges-tu ainsi sans profit pour toi ?
+
+De quelle façon puis-je te venir en aide maintenant ?
+
+Oh ! Malheureuse que je suis ! Je ne partagerai point ta destinée.
+
+Mes conseils du moins ne t'ont pas manqué.
+
+Mais cette faute est la nôtre à toutes deux.
+
+L'esprit des malheureux, ô roi, ne reste pas ce qu'il a été et change de nature.
+
+Comment pourrai-je vivre seule et sans elle ?
+
+Tueras-tu donc la fiancée de ton propre fils ?
+
+Rien ne convenait mieux à l'un et à l'autre.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_creon
+
+Hommes ! Les dieux ont enfin sauvé cette ville qu'ils avaient battue de tant de flots. Je vous ai ordonné par des envoyés de vous réunir ici, choisis entre tous, parce que vous avez, je le sais, toujours honoré la puissance de Laios, et gardé la même foi constante à Oedipe quand il commandait dans la ville, et, lui mort, à ses enfants. Puisqu'ils ont péri tous deux en un même jour, tués l'un par l'autre en un meurtre mutuel et impie, je possède maintenant la puissance et le trône, étant le plus proche parent des morts. L'esprit, l'âme et les desseins d'un homme ne peuvent être connus avant qu'il ait mené la chose publique et appliqué les lois. Quiconque régit la ville et ne se conforme point aux meilleurs principes, mais réprime sa langue par frayeur, celui-là est le pire des hommes, je l'ai toujours pensé et je le pense encore ; et je n'estime en aucune façon celui qui préfère un ami à sa patrie. J'en atteste Zeus qui voit toutes choses ! Je ne me tais point quand je vois qu'une calamité menace le salut des citoyens, et jamais je n'ai en amitié un ennemi de la patrie ; car je sais que c'est le salut de la patrie qui sauve les citoyens, et que nous ne manquons point d'amis tant qu'elle est en sûreté. C'est par de telles pensées que j'accroîtrai cette ville. Et j'ai ordonné par un édit qu'on enfermât dans un tombeau Étéocle qui, en combattant pour cette ville, est mort bravement, et qu'on lui rendît les honneurs funèbres dus aux ombres des vaillants hommes. Mais, pour son frère Polynice qui, revenu de l'exil, a voulu détruire par la flamme sa patrie et les dieux de sa patrie, qui a voulu boire le sang de ses proches et réduire les citoyens en servitude, je veux que nul ne lui donne un tombeau, ni ne le pleure, mais qu'on le laisse non enseveli, et qu'il soit honteusement déchiré par les oiseaux carnassiers et par les chiens. Telle est ma volonté. Les impies ne recevront jamais de moi les honneurs dus aux justes ; mais quiconque sera l'ami de cette ville, vivant, ou mort, sera également honoré par moi.
+
+Veillez donc à ce que l'édit soit respecté.
+
+Il y a déjà des gardiens du cadavre.
+
+De ne point permettre qu'on désobéisse.
+
+Certes, telle est la récompense promise ; mais l'espoir d'un gain a souvent perdu les hommes.
+
+Qu'est-ce ? Pourquoi es-tu inquiet dans ton esprit ?
+
+Certes, tu parles avec précaution et tu te garantis de toute façon. Je vois que tu as à m'annoncer quelque chose de grave.
+
+Ne parleras-tu point afin de sortir, la chose dite ?
+
+Que dis-tu ? Qui a osé faire cela ?
+
+Tais-toi, avant que tes paroles aient excité ma colère et de peur d'être pris pour vieux et insensé. Tu dis une chose intolérable en disant que les démons s'inquiètent de ce mort. Lui ont-ils donc accordé comme à un bienfaiteur l'honneur de la sépulture, à lui qui est venu brûler leurs temples soutenus de colonnes et les dons sacrés, dévaster leur terre et détruire leurs lois ? Vois-tu les dieux honorer les pervers ? Cela n'est pas. Mais depuis longtemps quelques citoyens, supportant ceci avec peine, murmuraient contre moi, secouant silencieusement leurs têtes ; et ils ne courbaient point le cou sous le joug, comme il convient, et ils n'obéissaient point à mon commandement. Je sais qu'ils ont excité par une récompense ces gardiens à faire cela ; car l'argent est la plus funeste des inventions des hommes. Il dévaste les villes, il chasse les hommes de leurs demeures, et il pervertit les esprits sages, afin de les pousser aux actions honteuses ; il enseigne les ruses aux hommes et les accoutume à toutes les impiétés. Mais ceux qui ont fait ceci pour une récompense ne se sont attiré que des châtiments certains. Si le respect de Zeus est encore puissant sur moi, sachez-le sûrement : je dis et jure que, si vous n'amenez point devant moi l'auteur de cet ensevelissement, vous ne serez point seulement punis de mort, mais pendus vivants, tant que vous n'aurez point révélé qui a commis ce crime ; vous apprendrez désormais où il faut chercher le gain désiré, et qu'on ne doit point l'obtenir par tous les moyens ; car beaucoup sont plutôt perdus que sauvés par les gains honteux.
+
+Ne sais-tu pas que tu me blesses par tes paroles ?
+
+Pourquoi cherches-tu où est mon mal ?
+
+Ah ! Tu es né pour mon malheur.
+
+Tu as donné ta vie pour le désir de l'argent.
+
+Argumente autant que tu le voudras contre le soupçon ; mais si vous ne révélez ceux qui ont fait cela, vous apprendrez, l'ayant éprouvé, que les maux sont engendrés par les gains iniques.
+
+Qu'est-ce ? Qu'est-il arrivé qui rende ma venue opportune ?
+
+Comment et où as-tu pris celle que tu amènes ?
+
+Comprends-tu ce que tu dis, et dis-tu vrai ?
+
+Et comment a-t-elle été aperçue et surprise commettant le crime ?
+
+Et toi qui courbes la tête contre terre, je te parle : Avoues-tu ou nies-tu avoir fait cela ?
+
+Pour toi, va où tu voudras ; tu es absous de ce crime. Mais toi, réponds-moi en peu de mots et brièvement : connaissais-tu l'édit qui défendait ceci ?
+
+Et ainsi, tu as osé violer ces lois ?
+
+Sache cependant que ces esprits inflexibles sont domptés plus souvent que d'autres. C'est le fer le plus solidement forgé au feu et le plus dur que tu vois se rompre le plus aisément. Je sais que les chevaux fougueux sont réprimés par le moindre frein, car il ne convient point d'avoir un esprit orgueilleux à qui est au pouvoir d'autrui. Celle-ci savait qu'elle agissait injurieusement en osant violer des lois ordonnées ; et, maintenant, ayant accompli le crime, elle commet un autre outrage en riant et en se glorifiant de ce qu'elle a fait. Que je ne sois plus un homme, qu'elle en soit un elle-même, si elle triomphe impunément, ayant osé une telle chose ! Mais, bien qu'elle soit née de ma soeur, bien qu'elle soit ma plus proche parente, ni elle, ni sa soeur n'échapperont à la plus honteuse destinée, car je soupçonne cette dernière non moins que celle-ci d'avoir accompli cet ensevelissement. Appelez la. Je l'ai vue dans la demeure, hors d'elle-même et comme insensée. Le coeur de ceux qui ourdissent le mal dans les ténèbres a coutume de les dénoncer avant tout. Certes, je hais celui qui, saisi dans le crime, se garantit par des belles paroles.
+
+Rien de plus. Ayant ta vie, j'ai tout ce que je veux.
+
+Tu penses ainsi, seule de tous les Kadméiens.
+
+N'as-tu donc point honte de ne point faire comme eux ?
+
+N'était-il pas ton frère aussi celui qui est tombé en portant les armes pour une cause opposée ?
+
+Pourquoi donc, en honorant celui-là, es-tu impie envers celui-ci ?
+
+Il le ferait sans doute, puisque tu honores l'impie autant que lui.
+
+Il est mort en dévastant cette terre, tandis que l'autre combattait vaillamment pour elle.
+
+Mais le bon et le mauvais n'ont pas le même traitement.
+
+Jamais un ennemi, même mort, ne devient un ami.
+
+Si ta nature est d'aimer, va chez les morts et aime-les. Tant que je vivrai, une femme ne commandera pas.
+
+Holà ! Toi, qui es entrée secrètement dans ma demeure, comme une vipère, pour boire tout mon sang, car je ne savais pas que je nourrissais deux calamités, deux pestes de mon trône, viens ! Parle enfin : avoueras-tu que tu as aidé à cet ensevelissement, ou jureras-tu que tu l'ignorais ?
+
+Je pense que l'une de ces jeunes filles a perdu l'esprit et que l'autre est née insensée.
+
+Certes, le tien est changé, puisque tu veux avoir mal agi de moitié avec les impies.
+
+Ne parle plus d'elle, car elle n'est plus désormais.
+
+On peut ensemencer d'autres seins.
+
+Je hais de mauvaises épouses pour mes fils.
+
 Vous m'êtes importunes, toi et tes noces.
 
--*who_lechoeur
-Priveras-tu ton fils de celle-ci ?
-
--*who_creon
 Hadès mettra fin à ces noces.
 
--*who_lechoeur
-Il est résolu, semble-t-il, qu'elle recevra la mort.
+Il te semble comme à moi. Que tout retard cesse, et menez-les dans la demeure, esclaves ! Il convient de garder ces femmes avec vigilance et de ne pas les laisser aller librement, car les audacieux s'échappent, quand ils voient que le Hadès est proche.
 
--*who_creon
-Il te semble comme à moi.
-Que tout retard cesse, et menez-les dans la demeure, esclaves !
-Il convient de garder ces femmes avec vigilance et de ne pas les laisser aller librement, car les audacieux s'échappent, quand ils voient que le Hadès est proche.
+Nous le saurons bientôt et plus sûrement que des divinateurs. Ô enfant, ayant appris la sentence irrévocable qui est rendue contre ta fiancée, viens-tu en ennemi de ton père ? Ou, quoi que nous fassions, te sommes-nous chers ?
 
-**** *book_ *id_I07 *act_I *date_1877
+Certes, ô enfant, il convient que tu aies ceci dans le coeur de mettre la volonté de ton père avant toutes choses. Si les hommes désirent avoir des enfants dans leur demeure, c'est afin qu'ils vengent leur père de ses ennemis et qu'ils honorent ses amis autant que lui-même. Mais celui qui a des enfants inutiles, que dire de lui, sinon qu'il a engendré sa propre injure et ce qui le livre en risée à ses ennemis ? Maintenant, ô enfant, vaincu par la volupté, ne sacrifie pas ta sagesse à une femme. Sache bien qu'il est glacé l'embrassement de la femme perverse qu'on a dans sa demeure pour compagne de son lit. Quelle plus grande misère, en effet, qu'un mauvais ami ? Dédaigne donc cette jeune fille, comme une ennemie, et laisse-la se marier chez Hadès. Après l'avoir saisie, seule entre tous les citoyens, désobéissant à mes ordres, je ne passerai point pour menteur devant la ville, je la tuerai. Qu'elle implore Zeus, protecteur de la famille ! Si je laisse faire à ceux qui sont de mon sang, que sera-ce pour les étrangers ? Celui qui est équitable dans les choses domestiques se montrera équitable aussi dans la ville ; mais celui qui viole insolemment les lois et qui pense commander à ses chefs, ne sera point loué par moi. Il faut obéir à celui que la ville a pris pour maître, dans les choses petites ou grandes, justes ou iniques. Je ne douterai jamais d'un tel homme : il commandera bien et se laissera commander. En quelque lieu qu'il soit placé, dans la tempête du combat, il y restera avec loyauté et soutiendra vaillamment ses compagnons. Il n'est point de mal pire que l'anarchie : elle ruine les villes, elle rend les demeures désertes, elle pousse, dans le combat, les troupes à la fuite ; tandis que l'obéissance fait le salut de tous ceux qui sont disciplinés. Ainsi les règles stables doivent être défendues, et il ne faut en aucune façon céder à une femme. Il vaut mieux, si cela est nécessaire, reculer devant un homme, afin qu'on ne dise pas que nous sommes au-dessous des femmes.
 
--*who_lechoeur
-Heureux ceux qui ont vécu à l'abri des maux !
-Quand une demeure, en effet, a été frappée divinement, il ne manque, jusqu'à leur dernière postérité, aucune calamité à ceux-ci.
-De même, lorsque le flot de la mer, poussé par les vents Thrèkiens, parcourt l'obscurité sous-marine, il fait monter du fond la vase noire et bouillonnante, et les rivages qu'il frappe sont pleins de clameurs.
-Je vois, dès un temps ancien, dans la maison des Labdakides, les calamités s'ajouter aux calamités de ceux qui sont morts.
-Une génération n'en sauve pas une autre génération, mais toujours quelque dieu l'accable et ne lui laisse aucun repos.
-Une lumière brillait encore, dans la maison d'Oedipe, sur la fin de sa race ; mais voici qu'elle est moissonnée, insensée et furieuse, par la faux sanglante des dieux souterrains.
-Ô Zeus, quel homme orgueilleux peut réprimer ta puissance qui n'est domptée ni par le sommeil maître de toutes choses, ni par les années infatigables des Dieux ?
-Sans jamais vieillir, tu règnes éternellement dans la splendeur du flamboyant Olympos !
-Une loi, en effet, prévaudra toujours, comme elle a toujours prévalu parmi les hommes.
-L'espérance mensongère est utile aux mortels, mais elle déjoue les désirs de beaucoup.
-Elle les excite au mal, à leur insu, avant qu'ils aient mis le pied sur le feu ardent.
-Je ne sais qui a dit cette parole célèbre : – Celui qu'un dieu pousse à sa perte prend souvent le mal pour le bien, et il n'est garanti de la ruine que pour très peu de temps. – Mais voici Hémon, le dernier de tes enfants.
-Vient-il, gémissant sur la destinée d'Antigone, affligé à cause du lit nuptial qui lui est refusé ?
-
--*who_creon
-Nous le saurons bientôt et plus sûrement que des divinateurs.
-Ô enfant, ayant appris la sentence irrévocable qui est rendue contre ta fiancée, viens-tu en ennemi de ton père ?
-Ou, quoi que nous fassions, te sommes-nous chers ?
-
--*who_hemon
-Père, je t'appartiens ; tu me diriges par tes sages conseils, et je les suis.
-Le désir d'aucun mariage ne sera plus puissant sur moi que ta sagesse.
-
--*who_creon
-Certes, ô enfant, il convient que tu aies ceci dans le coeur de mettre la volonté de ton père avant toutes choses.
-Si les hommes désirent avoir des enfants dans leur demeure, c'est afin qu'ils vengent leur père de ses ennemis et qu'ils honorent ses amis autant que lui-même.
-Mais celui qui a des enfants inutiles, que dire de lui, sinon qu'il a engendré sa propre injure et ce qui le livre en risée à ses ennemis ?
-Maintenant, ô enfant, vaincu par la volupté, ne sacrifie pas ta sagesse à une femme.
-Sache bien qu'il est glacé l'embrassement de la femme perverse qu'on a dans sa demeure pour compagne de son lit.
-Quelle plus grande misère, en effet, qu'un mauvais ami ?
-Dédaigne donc cette jeune fille, comme une ennemie, et laisse-la se marier chez Hadès.
-Après l'avoir saisie, seule entre tous les citoyens, désobéissant à mes ordres, je ne passerai point pour menteur devant la ville, je la tuerai.
-Qu'elle implore Zeus, protecteur de la famille !
-Si je laisse faire à ceux qui sont de mon sang, que sera-ce pour les étrangers ?
-Celui qui est équitable dans les choses domestiques se montrera équitable aussi dans la ville ; mais celui qui viole insolemment les lois et qui pense commander à ses chefs, ne sera point loué par moi.
-Il faut obéir à celui que la ville a pris pour maître, dans les choses petites ou grandes, justes ou iniques.
-Je ne douterai jamais d'un tel homme : il commandera bien et se laissera commander.
-En quelque lieu qu'il soit placé, dans la tempête du combat, il y restera avec loyauté et soutiendra vaillamment ses compagnons.
-Il n'est point de mal pire que l'anarchie : elle ruine les villes, elle rend les demeures désertes, elle pousse, dans le combat, les troupes à la fuite ; tandis que l'obéissance fait le salut de tous ceux qui sont disciplinés.
-Ainsi les règles stables doivent être défendues, et il ne faut en aucune façon céder à une femme.
-Il vaut mieux, si cela est nécessaire, reculer devant un homme, afin qu'on ne dise pas que nous sommes au-dessous des femmes.
-
--*who_lechoeur
-À moins que nous nous abusions à cause de notre vieillesse, il nous semble que tu parles sagement.
-
--*who_hemon
-Père, les dieux ont donné aux hommes la raison qui est, pour tous, tant que nous sommes, la richesse la plus précieuse.
-Pour moi, je ne puis ni penser, ni dire que tu n'as point bien parlé.
-Cependant, d'autres paroles seraient sages aussi.
-En effet, je sais naturellement, avant que tu le saches, ce que chacun dit, fait, ou blâme, car ton aspect frappe le peuple de terreur, et il tait ce que tu n'entendrais pas volontiers.
-Mais il m'est donné d'entendre ce qu'on dit en secret et de savoir combien la ville plaint la destinée de cette jeune fille, digne des plus grandes louanges pour ce qu'elle a fait, et qui, de toutes les femmes, a le moins mérité de mourir misérablement.
-Celle qui n'a point voulu que son frère tué dans le combat, et non enseveli, servît de pâture aux chiens mangeurs de chair crue et aux oiseaux carnassiers, n'est-elle pas digne d'un prix d'or ?
-Telle est la rumeur qui court dans l'ombre.
-Père, rien ne m'est plus à coeur que ton heureuse destinée.
-Quelle plus grande gloire y a-t-il pour des enfants que la prospérité d'un père, ou pour un père que celle de ses enfants ?
-Ne te mets donc pas dans l'esprit qu'il n'y a que tes seules paroles qui soient sages.
-En effet, quiconque s'imagine que lui seul est sage, et que nul ne le vaut par l'âme et par la langue, est le plus souvent vide quand on l'examine.
-Il n'est point honteux à un homme, quelque sage qu'il soit, de beaucoup apprendre et de ne point résister outre mesure.
-Vois comme les arbres, le long des cours d'eau gonflés par les pluies hivernales, se courbent afin de conserver leurs rameaux, tandis que tous ceux qui résistent meurent déracinés.
-De même le navigateur qui tient résolument tête au vent et ne cède pas, voit sa nef renversée et flotte sur les bancs de rameurs.
-Apaise-toi donc et change de résolution.
-Si je puis en juger, bien que je sois jeune, je dis que le mieux pour un homme est de posséder une abondante sagesse, sinon – car la coutume n'est pas qu'il en soit ainsi – il est beau d'en croire de sages conseillers.
-
--*who_lechoeur
-Roi, s'il a bien parlé, il est juste que tu te laisses instruire, et toi par ton père, car vos paroles sont bonnes à tous deux.
-
--*who_creon
 Apprendrons-nous la sagesse, à notre âge, d'un homme si jeune ?
 
--*who_hemon
-N'écoute rien qui ne soit juste.
-Si je suis jeune, il convient que tu considères mes actions, non mon âge.
-
--*who_creon
 Faut-il donc honorer ceux qui n'obéissent point aux lois ?
 
--*who_hemon
-Certes, je ne serai jamais cause que tu honores les mauvais.
-
--*who_creon
 Celle-ci n'a-t-elle pas été atteinte par ce mal ?
 
--*who_hemon
-Tout le peuple de Thèbes le nie.
-
--*who_creon
 Ainsi la ville me prescrirait ce que je dois vouloir ?
 
--*who_hemon
-Ne vois-tu pas que tes paroles sont celles d'un homme encore trop jeune ?
-
--*who_creon
 Cette terre est-elle soumise à la puissance d'un autre, et non à la mienne ?
 
--*who_hemon
-Il n'est point de ville qui soit à un seul homme.
-
--*who_creon
 La ville n'est-elle pas censée appartenir à qui la commande ?
 
--*who_hemon
-Certes, tu régnerais fort bien seul dans une terre déserte.
-
--*who_creon
 Il combat, semble-t-il, pour cette femme.
 
--*who_hemon
-Si tu es femme, car je prends souci de toi.
-
--*who_creon
 Ô le pire de tous les hommes, est-ce en plaidant contre ton père ?
 
--*who_hemon
-Je te vois en effet faillir contre la justice.
-
--*who_creon
 Je faillis donc, en respectant ma propre puissance ?
 
--*who_hemon
-Tu ne la respectes pas en foulant aux pieds les droits des Dieux.
-
--*who_creon
 Ô coeur impie et dompté par une femme !
 
--*who_hemon
-Tu ne m'accuseras jamais d'être dompté par de honteuses pensées.
-
--*who_creon
 Cependant toutes tes paroles sont pour elle.
 
--*who_hemon
-Pour toi, pour moi, et pour les dieux souterrains.
-
--*who_creon
 Jamais tu ne l'épouseras vivante.
 
--*who_hemon
-Elle mourra donc, et sa mort tuera quelqu'un.
-
--*who_creon
 Es-tu audacieux au point de me menacer ?
 
--*who_hemon
-Blâmer des choses insensées, est-ce menacer ?
-
--*who_creon
 Tu ne m'instruiras pas sans peine, étant toi-même insensé.
 
--*who_hemon
-Si tu n'étais mon père, je dirais que tu délires.
-
--*who_creon
 Esclave d'une femme, épargne-moi ton bavardage.
 
--*who_hemon
-Veux-tu toujours parler et ne rien écouter ?
+Est-ce ainsi ? J'atteste l'Olympos que voilà, sache-le bien : tu ne te réjouiras pas de m'avoir insulté. Amenez ici celle que je hais, afin qu'elle meure aussitôt devant son fiancé, à ses côtés, sous ses yeux !
 
--*who_creon
-Est-ce ainsi ?
-J'atteste l'Olympos que voilà, sache-le bien : tu ne te réjouiras pas de m'avoir insulté.
-Amenez ici celle que je hais, afin qu'elle meure aussitôt devant son fiancé, à ses côtés, sous ses yeux !
-
--*who_hemon
-Non, certes, pas devant moi !
-Non, ne crois point ceci.
-Elle ne mourra jamais devant moi, et jamais aussi tu ne me reverras de tes yeux, afin que tu puisses délirer au milieu de tes amis qui y consentent.
-
--*who_lechoeur
-Cet homme s'en va plein de colère, ô roi !
-Dans un tel esprit,une ardente et cruelle douleur est chose redoutable.
-
--*who_creon
 Qu'il s'en aille, et qu'il fasse ou médite de faire au-delà de ce que peut un homme : il n'affranchira point ces jeunes filles de leur destinée.
 
--*who_lechoeur
-Tu les destines donc toutes deux à la mort ?
+Non celle qui n'a point touché le cadavre. Tu m'as bien averti.
 
--*who_creon
-Non celle qui n'a point touché le cadavre.
-Tu m'as bien averti.
+Je l'emmènerai en un lieu non foulé par les hommes. Je l'enfermerai vivante dans un antre de pierres, avec aussi peu de nourriture qu'il en faut à l'expiation afin que la ville ne soit point souillée de sa mort. Là, par ses prières, elle obtiendra peut-être d'Hadès le seul des dieux qu'elle honore, de ne point mourir ; et alors elle apprendra enfin combien la tâche est vaine d'honorer le Hadès.
 
--*who_lechoeur
-Par quel supplice as-tu décidé que l'autre périrait ?
+Ne savez-vous pas que, si les chants et les plaintes pouvaient servir à ceux qui vont mourir, personne n'en finirait ? Ne l'emmènerez-vous point promptement ? Enfermez-la, comme je l'ai ordonné, et laissez-la seule, abandonnée, dans le sépulcre couvert, afin qu'elle y meure, si elle veut, ou qu'elle y vive ensevelie. Nous serons ainsi purs de toute souillure venant d'elle, et elle ne pourra plus habiter sur la terre.
 
--*who_creon
-Je l'emmènerai en un lieu non foulé par les hommes.
-Je l'enfermerai vivante dans un antre de pierres, avec aussi peu de nourriture qu'il en faut à l'expiation afin que la ville ne soit point souillée de sa mort.
-Là, par ses prières, elle obtiendra peut-être d'Hadès le seul des dieux qu'elle honore, de ne point mourir ; et alors elle apprendra enfin combien la tâche est vaine d'honorer le Hadès.
-
-**** *book_ *id_I08 *act_I *date_1877
-
--*who_lechoeur
-Érôs !
-Invincible Érôs, qui t'abats sur les puissants, qui te reposes sur les joues délicates de la jeune fille, qui te transportes par delà les mers et dans les étables agrestes, aucun des immortels ne peut te fuir, ni aucun des hommes qui vivent peu de jours ; mais qui te possède est plein de fureur !
-Tu entraînes à l'iniquité les pensées des justes, et tu pousses à la dissension les hommes du même sang.
-Le charme désirable qui resplendit dans les yeux d'une jeune femme est victorieux et l'emporte sur les grandes lois.
-La déesse Aphrodita est invincible et se rit de tout.
-Et moi-même, devant ceci, j'enfreins ce qui est permis et je ne puis retenir les sources de mes larmes, lorsque je vois Antigone s'avancer vers le lit où tous vont dormir.
-
--*who_antigone
-Voyez-moi, ô citoyens de la terre de ma patrie, faisant mon dernier chemin et regardant le dernier éclat du jour pour ne plus jamais le regarder !
-Hadès, qui ensevelit tout, m'emmène vivante vers l'Achéron, sans que j'aie connu les noces, sans que l'hymne nuptial m'ait chantée, car j'épouserai l'Achéron.
-
--*who_lechoeur
-Ainsi, illustre et louée, tu vas dans les retraites des morts, non consumée par les flétrissures des maladies, non livrée comme un butin de guerre ; mais, seule entre les mortels, libre et vivante, tu descends chez Hadès.
-
--*who_antigone
-Certes, j'ai entendu dire que la Phrygienne étrangère, fille de Tantale, est morte très malheureuse au sommet du Sipyle où l'accroissement de la pierre l'enveloppa, l'ayant étreinte rigidement comme un lierre.
-Ni les pluies, ni jamais les neiges ne l'abandonnent tandis qu'elle se fond, et toujours elle trempe son cou des larmes de ses yeux.
-Un démon va m'endormir comme elle.
-
--*who_lechoeur
-Mais celle-ci était déesse et issue d'une race divine, et nous sommes mortels et issus d'une race mortelle ; mais il est glorieux, pour qui va mourir, de subir une destinée semblable à celle des Dieux.
-
--*who_antigone
-Hélas !
-On se rit de moi.
-Par les dieux de la patrie !
-Pourquoi m'accabler d'outrages, n'étant point morte encore et sous vos yeux ?
-Ô ville, ô très riches citoyens de la ville, ô sources Dirkaiennes, ô bois sacrés de Thèbes aux beaux chars, je vous atteste tous à la fois.
-Telle, non pleurée par mes amis, frappée par une loi inique, je vais vers cette prison sépulcrale qui sera mon tombeau.
-Hélas !
-Malheureuse !
-Je n'habiterai ni parmi les vivants, ni parmi les morts !
-
--*who_lechoeur
-En ton extrême audace, tu as heurté le siège élevé de Dika, ô ma fille !
-Tu expies quelque crime paternel.
-
--*who_antigone
-Tu as touché à mes plus amères douleurs, à la destinée bien connue de mon père, aux désastres de toute la race des illustres Labdakides.
-Ô calamité des noces maternelles !
-Ô embrassement de ma mère malheureuse et de mon père, elle qui m'a conçue, et lui, malheureux, qui m'a engendrée !
-Je vais à eux, chargée d'imprécations et non mariée.
-Ô frère, tu as joui d'un hymen funeste, et, mort, tu m'as tuée !
-
--*who_lechoeur
-C'est une piété que d'honorer les morts ; mais il n'est jamais permis de ne point obéir à qui tient la puissance.
-C'est ton esprit inflexible qui t'a perdue.
-
--*who_antigone
-Non pleurée, sans amis et vierge, je fais mon dernier chemin.
-Je ne regarderai plus l'oeil sacré de Hélios, ô malheureuse !
-Aucun ami ne gémira, ne pleurera sur ma destinée.
-
--*who_creon
-Ne savez-vous pas que, si les chants et les plaintes pouvaient servir à ceux qui vont mourir, personne n'en finirait ?
-Ne l'emmènerez-vous point promptement ?
-Enfermez-la, comme je l'ai ordonné, et laissez-la seule, abandonnée, dans le sépulcre couvert, afin qu'elle y meure, si elle veut, ou qu'elle y vive ensevelie.
-Nous serons ainsi purs de toute souillure venant d'elle, et elle ne pourra plus habiter sur la terre.
-
--*who_antigone
-Ô sépulcre !
-Ô lit nuptial !
-Ô demeure creusée que je ne quitterai plus, où je rejoins les miens, que Perséphassa a reçus, innombrables, parmi les morts !
-La dernière d'entre eux, et,certes, par une fin bien plus misérable, je m'en vais avant d'avoir vécu ma part légitime de la vie.
-Mais, en partant, je garde la très grande espérance d'être la bien venue pour mon père, et pour toi, mère, et pour toi, tête fraternelle !
-Car, morts, je vous ai lavés de mes mains, et ornés, et je vous ai porté les libations funéraires.
-Et maintenant, Polynice, parce que j'ai enseveli ton cadavre, je reçois cette récompense.
-Mais je t'ai honoré, approuvée par les sages.
-Jamais, si j'eusse enfanté des fils, jamais, si mon époux eût pourri mort, je n'eusse fait ceci contre la loi de la cité.
-Et pourquoi parlé-je ainsi ?
-C'est que, mon époux étant mort, j'en aurais eu un autre ; ayant perdu un enfant, j'en aurais conçu d'un autre homme ; mais de mon père et de ma mère enfermés chez Hadès jamais aucun autre frère ne peut me naître.
-Et, cependant, c'est pour cela, c'est parce que je t'ai honorée au-dessus de tout, ô tête fraternelle, que j'ai mal fait selon Créon, et que je lui semble très coupable.
-Et il me fait saisir et emmener violemment, vierge, sans hyménée, n'ayant eu ma part ni du mariage, ni de l'enfantement.
-Sans amis et misérable, je suis descendue, vivante, dans l'ensevelissement des morts.
-Quelle justice des dieux ai-je violée ?
-Mais à quoi me sert, malheureuse, de regarder encore vers les Dieux ?
-Lequel appeler à l'aide, si je suis nommée impie pour avoir agi avec piété ?
-Si les dieux approuvent ceci, j'avouerai l'équité de mon châtiment ; mais, si ces hommes sont iniques, je souhaite qu'ils ne souffrent pas plus de maux que ceux qu'ils m'infligent injustement.
-
--*who_lechoeur
-Les agitations de son âme sont toujours les mêmes.
-
--*who_creon
 C'est pourquoi ceux qui l'emmènent si lentement s'en repentiront.
 
--*who_antigone
-Hélas !
-Ma mort est très proche de cette parole.
-
--*who_lechoeur
-Je ne te recommanderai pas de te rassurer, comme si cette parole devait être vaine.
-
--*who_antigone
-Ô ville paternelle de la terre Thébéienne !
-Ô dieux de mes aïeux !
-Je suis emmenée sans plus de retard.
-Voyez, ô chefs de Thèbes, de quels maux m'accablent les hommes, parce que j'ai honoré la piété !
-
-**** *book_ *id_I09 *act_I *date_1877
-
--*who_lechoeur
-Danaé fut aussi condamnée, dans une prison d'airain, à perdre la lumière Ouranienne, et elle subit le joug, enfermée dans ce sépulcre, sa chambre nuptiale.
-Et cependant, ô mon enfant,elle était de bonne race et elle portait dans son sein les semences d'or de Zeus.
-Mais la force de la Moire est inéluctable, et ni les richesses, ni Arès, ni les tours, ni les noires nefs battues des flots n'y échappent.
-Il fut aussi, chargé de liens le fils furieux de Dryas, le prince des Édônes, lui que Dionysos, à cause de son esprit insolent, enferma dans une prison de pierre.
-Ainsi s'écoule et s'apaise la force terrible de la colère.
-Et il connut le dieu que, dans sa démence, il avait blessé de paroles injurieuses ; car il avait voulu réfréner les femmes furieuses, éteindre les torches d'Évios et outrager les Muses qui aiment les flûtes.
-Auprès des mers Kyanéennes sont les rivages Bosporiens et l'inhospitalière Salmydèsos des Thrèkiens, où Arès, qui habitait les contrées voisines, vit la blessure exécrable des deux Phinéiades, qu'avait faite leur marâtre féroce qui leur avait arraché les yeux, non avec le fer, mais de ses mains ensanglantées et à l'aide d'une navette pointue.
-Et ils pleuraient la destinée de leur mère et les noces dont ils étaient nés ; car elle descendait de l'antique race des Érekhtides, et elle avait été nourrie dans les antres reculés, au milieu des tempêtes paternelles, étant la fille de Borée et l'enfant des dieux ; et elle gravissait d'un pied sûr, telle qu'un cheval qui court, l'escarpement des collines.
-Cependant les Moires éternelles l'atteignirent aussi, ô mon enfant !
-
--*who_tiresias
-Princes de Thèbes, nous sommes venus ensemble, voyant par les yeux d'un seul, car il faut que les aveugles soient conduits pour marcher.
-
--*who_creon
 Qu'y a-t-il de nouveau, ô vieillard Tirésias ?
 
--*who_tiresias
-Certes, je te l'apprendrai ; mais obéis au divinateur.
-
--*who_creon
 Je n'ai point encore repoussé tes conseils.
 
--*who_tiresias
-C'est pourquoi tu as heureusement gouverné cette ville.
-
--*who_creon
 Je puis attester que tu m'es venu en aide.
 
--*who_tiresias
-Sache que tu es de nouveau exposé à d'autres malheurs.
+Qu'est-ce ? Tes paroles me frappent de crainte.
 
--*who_creon
-Qu'est-ce ?
-Tes paroles me frappent de crainte.
+Ô vieillards, tous comme des archers dans le but, vous envoyez vos flèches contre moi. Je n'ai point été épargné par les divinateurs ; j'ai été trahi et vendu depuis longtemps par mes proches. Faites des gains, acquérez l'ambre jaune des Sardes et l'or Indien, à votre gré ; mais vous ne mettrez pas celui-ci dans le tombeau. Quand même les aigles de Zeus porteraient jusqu'à son trône les lambeaux de cette pâture, je ne permettrai pas de l'ensevelir, car je ne crains pas cette souillure, sachant que les forces d'aucun mortel ne suffisent pour qu'il puisse souiller les Dieux. Ô vieillard Tirésias, les plus habiles des hommes tombent d'une chute honteuse, quand, par le désir du gain, ils prononcent avec emphase des paroles honteuses.
 
--*who_tiresias
-Tu le sauras, ayant appris les indices révélés par ma science.
-Tandis que j'étais assis dans l'antique lieu augural où se réunissent toutes les divinations, j'ai entendu un bruit strident d'oiseaux qui criaient d'une façon sinistre et sauvage.
-Et ils se déchiraient l'un l'autre de leurs ongles meurtriers.
-Le battement de leurs ailes me le révéla.
-C'est pourquoi, épouvanté, je consultai les victimes sur les autels allumés.
-Mais Héphaïstos ne s'unissait point à elles, et la graisse fondue des cuisses, absorbée par la cendre, fumait et pétillait, et le foie éclatait et se dissipait, et les os des cuisses gisaient nus et humides de leur gaine de graisse.
-Telle est la divination malheureuse de ce sacrifice vain, et que j'ai sue de cet enfant, car il est mon conducteur, comme je suis celui des autres.
-C'est à cause de ta résolution que la ville subit ces maux.
-En effet, tous les autels et tous les foyers sont pleins des morceaux arrachés par les chiens et les oiseaux carnassiers du cadavre du misérable fils d'Oedipe.
-De sorte que les dieux se refusent aux prières sacrées et à la flamme des cuisses brûlées, et que les oiseaux, rassasiés du sang gras d'un cadavre humain, ne font plus entendre aucun cri augural.
-Donc, fils, songe à ceci.
-Il arrive à tous de faillir ; mais celui qui a failli, n'est ni privé de sens, ni malheureux, si, étant tombé dans l'erreur, il s'en guérit au lieu d'y persister.
-L'opiniâtreté est une preuve d'ineptie.
-Pardonne à un mort, ne frappe pas un cadavre.
-Quelle vaillance y a-t-il à tuer un mort ?
-Je te conseille par bienveillance pour toi.
-Il est très doux d'écouter un bon conseiller, quand il enseigne ce qui est utile.
+Qu'est-ce ? Que dis-tu par ces paroles banales ?
 
--*who_creon
-Ô vieillards, tous comme des archers dans le but, vous envoyez vos flèches contre moi.
-Je n'ai point été épargné par les divinateurs ; j'ai été trahi et vendu depuis longtemps par mes proches.
-Faites des gains, acquérez l'ambre jaune des Sardes et l'or Indien, à votre gré ; mais vous ne mettrez pas celui-ci dans le tombeau.
-Quand même les aigles de Zeus porteraient jusqu'à son trône les lambeaux de cette pâture, je ne permettrai pas de l'ensevelir, car je ne crains pas cette souillure, sachant que les forces d'aucun mortel ne suffisent pour qu'il puisse souiller les Dieux.
-Ô vieillard Tirésias, les plus habiles des hommes tombent d'une chute honteuse, quand, par le désir du gain, ils prononcent avec emphase des paroles honteuses.
-
--*who_tiresias
-Hélas !
-Qui sait, quel homme songe…
-
--*who_creon
-Qu'est-ce ?
-Que dis-tu par ces paroles banales ?
-
--*who_tiresias
-Combien la prudence est au-dessus de toutes les richesses !
-
--*who_creon
 Autant, je pense, que la démence est le plus grand des malheurs.
 
--*who_tiresias
-Ce malheur est pourtant le tien.
-
--*who_creon
 Je ne veux pas rendre ses injures à un divinateur.
 
--*who_tiresias
-C'est ce que tu fais en disant que mes divinations sont fausses.
-
--*who_creon
 Toute la race des divinateurs, en effet, est l'amie de l'argent.
 
--*who_tiresias
-Et la race des tyrans aime les gains honteux.
-
--*who_creon
 Sais-tu bien que tu parles à ton maître ?
 
--*who_tiresias
-Certes, je le sais, car c'est par mon aide que tu as sauvé cette ville.
-
--*who_creon
 Tu es un divinateur habile, mais aimant les mauvaises ruses.
 
--*who_tiresias
-Tu me contrains de révéler les secrets cachés dans mon esprit.
-
--*who_creon
 Parle, mais ne dis rien par le désir du gain.
 
--*who_tiresias
-Je ne pense pas avoir parlé ainsi en ce qui te concernait.
-
--*who_creon
 Sache que tu ne me feras point changer de pensée.
 
--*who_tiresias
-Sache bien à ton tour qu'il n'y aura pas beaucoup de révolutions des rapides roues de Hélios, avant que tu n'aies payé les morts par la mort de quelqu'un de ton propre sang, pour avoir renvoyé sous terre une âme encore vivante, pour l'avoir ignominieusement enfermée vivante dans le tombeau, et parce que tu retiens ici, loin des dieux souterrains, un cadavre non enseveli et non honoré.
-Et ceci n'appartient ni à toi, ni aux dieux Ouraniens, et tu agis ainsi par violence.
-C'est pourquoi les Érinnyes vengeresses du Hadès et des dieux te dressent des embûches, afin que tu subisses les mêmes maux.
-Vois si je parle ainsi corrompu par l'argent.
-Avant peu de temps les lamentations des hommes et des femmes éclateront dans tes demeures.
-Tel qu'un archer, je t'envoie sûrement ces flèches de colère au coeur, car tu m'irrites, et tu n'éviteras pas leur blessure cuisante.
-Toi, enfant, ramène-moi dans ma demeure, afin qu'il répande la fureur de son âme contre de plus jeunes, et qu'il apprenne à parler plus modérément, et qu'il nourrisse une pensée meilleure que celle qu'il a maintenant.
-
-**** *book_ *id_I10 *act_I *date_1877
-
--*who_lechoeur
-Ô roi, cet homme s'en va, ayant prédit de terribles choses ; et nous savons, depuis que nos cheveux noirs sont devenus blancs, qu'il n'a jamais rien prophétisé de faux à cette ville.
-
--*who_creon
 Je le sais moi-même, et je suis troublé dans mon esprit, car il est dur de céder ; mais il y a péril à résister.
 
--*who_lechoeur
-Il s'agit d'être prudent, Créon, fils de Ménoikeus.
+Que faut-il faire ? Parle ; j'obéirai.
 
--*who_creon
-Que faut-il faire ?
-Parle ; j'obéirai.
-
--*who_lechoeur
-Va retirer la jeune fille de l'antre souterrain, et construis un tombeau à celui qui gît délaissé.
-
--*who_creon
 Tu me conseilles ceci et tu penses que je dois le faire ?
 
--*who_lechoeur
-Certes, Ô roi, et très promptement.
-Les châtiments des dieux ont des pieds rapides et atteignent en peu de temps ceux qui font le mal.
+Hélas ! Je renonce avec peine à ma première pensée, mais j'y renonce. Il est vain de lutter contre la nécessité.
 
--*who_creon
-Hélas !
-Je renonce avec peine à ma première pensée, mais j'y renonce.
-Il est vain de lutter contre la nécessité.
+J'irai aussitôt. Allez, allez, serviteurs, tous, tant que vous êtes, présents et absents, avec des haches en mains, vers ce lieu élevé. Pour moi, puisque je m'y suis résolu, de même que je l'ai liée, je la délivrerai moi-même. Je crains, en effet, que le mieux ne soit de vivre en respectant les lois établies.
 
--*who_lechoeur
-Va donc !
-Agis toi-même, et ne remets ce soin à aucun autre.
+Ô fautes amères et mortelles d'un esprit insensé ! Oh ! voyez ces meurtriers et ces victimes, tous d'une même famille ! Ô fatale résolution ! Hélas ! Enfant, tu es mort jeune d'une mort hâtive, hélas ! Hélas ! Non par ta démence, mais par la mienne !
 
--*who_creon
-J'irai aussitôt.
-Allez, allez, serviteurs, tous, tant que vous êtes, présents et absents, avec des haches en mains, vers ce lieu élevé.
-Pour moi, puisque je m'y suis résolu, de même que je l'ai liée, je la délivrerai moi-même.
-Je crains, en effet, que le mieux ne soit de vivre en respectant les lois établies.
+Hélas ! Je l'ai connue, malheureux ! Alors un dieu furieux contre moi m'a frappé sur la tête et m'a inspiré de funestes desseins, renversant du pied mes joies. Hélas ! Hélas ! Ô travaux misérables des hommes !
 
-**** *book_ *id_I11 *act_I *date_1877
-
--*who_lechoeur
-Illustre sous mille noms, délices de la vierge Kadméienne, race de Zeus qui tonne dans les hauteurs, qui protèges la glorieuse Italia, qui commandes à la vallée commune à tous les hommes de Déméter Éleusinienne, Bacchus, ô Bacchus, qui habites Thèbes, la ville mère des Bacchantes, auprès du courant limpide de l'Isménos, là où est la moisson du dragon farouche !
-Une vapeur splendide t'éclaire sur le double sommet où courent les Bakkhides, les nymphes Kôrykiennes, et où flue l'eau de Castalie.
-Les cimes couvertes de lierres des monts Nysaiens et leurs vignes verdoyantes t'envoient, au milieu des clameurs sacrées, visiter les carrefours de Thèbes.
-Elle que tu honores merveilleusement plus que toutes les autres villes, ainsi que ta mère frappée de la foudre.
-Maintenant que toute notre ville est en proie à un mal terrible, viens d'un pied sauveur, franchissant l'escarpement du Parnasse ou le détroit retentissant de la mer.
-Ô conducteur des astres qui respirent le feu, qui présides aux clameurs nocturnes, race de Zeus, apparais avec les Thyiades de Naxos, tes compagnes, qui, furieuses durant toute la nuit, glorifient par des choeurs dansants leur maître Iakkhos !
-
--*who_lemessager
-Habitants des demeures de Kadmos et d'Amphiôn, la vie est toujours telle que je ne puis ni la louer, ni l'accuser.
-En effet, la fortune élève et renverse toujours l'homme heureux et l'homme malheureux, et aucun divinateur ne peut révéler jamais avec certitude la destinée future des mortels.
-Créon, selon moi, était digne d'envie parce qu'il avait sauvé de ses ennemis cette terreKadméienne.
-Ayant ici la puissance suprême, il régnait heureusement et florissait par une noble race ; mais voici que tout s'est évanoui.
-En effet, quand un homme a perdu le bonheur, je pense qu'il est moins un vivant qu'un cadavre animé.
-Autant que tu le voudras, jouis de tes richesses dans ta demeure et de l'orgueil de la tyrannie ; cependant, si tu ne possèdes pas la joie, je n'achèterais pas tout cela, comparé au bonheur, pour l'ombre d'une fumée.
-
--*who_lechoeur
-Quelle nouvelle calamité des rois viens-tu nous annoncer ?
-
--*who_lemessager
-Ils sont morts, et les vivants ont été cause de leur mort.
-
--*who_lechoeur
-Qui a tué ?
-Qui est tué ?
-Parle.
-
--*who_lemessager
-Hémon est mort : il a été tué de sa main.
-
--*who_lechoeur
-De la main de son père ou de sa propre main ?
-
--*who_lemessager
-De sa propre main, étant irrité contre son père à cause du meurtre d'Antigone.
-
--*who_lechoeur
-Ô divinateur, combien ta prédiction était certaine !
-
--*who_lemessager
-La chose étant ainsi, il faut songer au reste.
-
--*who_lechoeur
-Mais je vois la malheureuse Eurydice, l'épouse de Créon.
-Est-elle sortie de la demeure par hasard ou ayant appris le malheur de son fils ?
-
--*who_eurydice
-Ô vous tous, citoyens, j'ai entendu ce que vous disiez au moment où je sortais afin d'aller supplier la déesse Pallas.
-Le verrou retiré, j'enlevais la barre de la porte, quand le bruit d'un malheur domestique a frappé mes oreilles.
-Épouvantée, je suis tombée à la renverse entre les bras des servantes, et le coeur m'a manqué.
-Redites-moi ces paroles, quelles qu'elles soient.
-Je les entendrai, ayant déjà subi assez de maux pour cela.
-
--*who_lemessager
-Certes, chère maîtresse, je dirai ce dont j'ai été témoin et je ne cacherai rien de la vérité.
-Pourquoi, en effet, te flatterais-je par mes paroles, si je dois être convaincu d'avoir menti ?
-La meilleure chose est la vérité.
-J'ai suivi ton époux jusqu'à la hauteur où gisait encore le misérable cadavre de Polynice déchiré par les chiens.
-Là, ayant prié la déesse des carrefours et Pluton de ne point s'irriter, nous l'avons lavé d'ablutions pieuses, et nous avons brûlé ses restes à l'aide d'un amas de rameaux récemment coupés ; et nous lui avons élevé un tertre funèbre avec la terre natale.
-Puis, de là nous sommes allés vers l'antre creux de la jeune vierge, cette chambre nuptiale d'Hadès.
-Un de nous entend de loin un cri perçant sortir de cette tombe privée d'honneurs funèbres, et, accourant, il l'annonce au maître Créon.
-Tandis que celui-ci approche, le bruit du gémissement se répand confusément autour de lui, et, en soupirant, il dit d'une voix lamentable : – Ô malheureux que je suis !
-L'ai-je donc pressenti ?
-Ce chemin ne me mène-t-il pas au plus grand malheur que j'aie encore subi ?
-La voix de mon fils a effleuré mon oreille.
-Allez promptement, serviteurs, et, parvenus au tombeau, ayant arraché la pierre qui le ferme, pénétrez dans l'antre, afin que je sache si j'ai entendu la voix de Hémon, ou si je suis trompé par les dieux. – Nous faisons ce que le maître effrayé a ordonné et nous voyons la jeune fille pendue, ayant noué à son cou une corde faite de son linceul.
-Et lui tenait la vierge embrassée par le milieu du corps, pleurant la mort de sa fiancée envoyée dans le Hadès, et l'action de son père, et ses noces lamentables.
-Dès que Créon l'aperçoit, avec un profond soupir, il va jusqu'à lui, et, plein de sanglots, il l'appelle : – Ô malheureux !
-Qu'as-tu fait ?
-Quelle a été ta pensée ?
-Comment t'es-tu perdu ?
-Je t'en supplie, sors, mon fils ! – Mais l'enfant, le regardant avec des yeux sombres, et comme ayant horreur de le voir, ne répond rien et tire l'épée à deux tranchants ; mais la fuite dérobe le père au coup.
-Alors le malheureux, furieux contre lui-même, se jette sur l'épée et se perce de la pointe au milieu des côtes.
-Et de ses bras languissants, encore maître de sa pensée, il embrasse la vierge, et, haletant, il expire en faisant jaillir un sang pourpré sur les pâles joues de la jeune fille.
-Ainsi il est couché mort auprès de sa fiancée morte, ayant accompli, le malheureux, ses noces fatales dans la demeure d'Hadès, enseignant aux hommes par son exemple que l'imprudence est le plus grand des maux.
-
--*who_lechoeur
-Que pressens-tu de ceci ?
-La femme a disparu avant d'avoir prononcé une parole, soit bonne, soit mauvaise.
-
--*who_lemessager
-J'en suis étonné comme toi-même.
-Cependant je me flatte de l'espoir qu'ayant appris la mort de son fils, elle n'a pas voulu se lamenter par la ville, mais que, retirée dans sa demeure, elle va en avertir ses servantes, afin qu'elles pleurent ce malheur domestique.
-Car elle ne manque pas de sagesse au point de faillir en quelque chose.
-
--*who_lechoeur
-Je ne sais ; mais il me semble qu'un trop grand silence annonce d'aussi cruels malheurs que des cris répétés et sans frein.
-
--*who_lemessager
-Nous saurons bientôt, entrés dans la demeure, ce qu'elle cache dans son coeur irrité ; car, tu dis bien : un trop grand silence est effrayant en effet.
-
--*who_lechoeur
-Voici venir le roi lui-même, portant dans ses bras, s'il m'est permis de le dire, un gage éclatant du malheur qui lui est infligé, non par un autre, mais par sa propre faute.
-
-**** *book_ *id_I12 *act_I *date_1877
-
--*who_creon
-Ô fautes amères et mortelles d'un esprit insensé !
-Oh ! voyez ces meurtriers et ces victimes, tous d'une même famille !
-Ô fatale résolution !
-Hélas !
-Enfant, tu es mort jeune d'une mort hâtive, hélas !
-Hélas !
-Non par ta démence, mais par la mienne !
-
--*who_lechoeur
-Hélas !
-Que tu as connu tard la justice !
-
--*who_creon
-Hélas !
-Je l'ai connue, malheureux !
-Alors un dieu furieux contre moi m'a frappé sur la tête et m'a inspiré de funestes desseins, renversant du pied mes joies.
-Hélas !
-Hélas !
-Ô travaux misérables des hommes !
-
--*who_lenvoye
-Ô maître, tu as rencontré et tu possèdes tous les maux, portant les uns dans tes bras et devant bientôt contempler les autres dans ta demeure.
-
--*who_creon
 Qu'y a-t-il encore ?
 
--*who_lenvoye
-Ta malheureuse femme vient de se frapper mortellement, prouvant ainsi qu'elle était bien la mère de ce mort.
+Ô seuil de l'inexorable Hadès, pourquoi me perds-tu ? Ô messager d'un lamentable malheur, quelle parole as-tu dite ?Hélas ! Hélas ! Tu as achevé un homme déjà mort. Que dis-tu ?Hélas ! Quelle calamité nouvelle m'annonces-tu ? La mort sanglante de ma femme après celle-ci !
 
--*who_creon
-Ô seuil de l'inexorable Hadès, pourquoi me perds-tu ?
-Ô messager d'un lamentable malheur, quelle parole as-tu dite ?Hélas !
-Hélas !
-Tu as achevé un homme déjà mort.
-Que dis-tu ?Hélas !
-Quelle calamité nouvelle m'annonces-tu ?
-La mort sanglante de ma femme après celle-ci !
+Hélas ! Malheureux ! Je vois cette nouvelle misère. Laquelle me reste-t-il à subir désormais ? Ô malheureux que je suis, j'ai dans mes bras mon fils mort, et je vois d'un autre côté celle-ci morte ! Hélas ! Hélas ! Malheureuse mère ! Hélas ! Mon fils !
 
--*who_lenvoye
-Tu peux regarder.
-Elle n'est plus dans ta demeure.
+Hélas ! Hélas ! Je suis frappé de terreur. Pourquoi quelqu'un ne m'a-t-il pas percé par devant d'une épée à deux tranchants ? Malheureux que je suis ! Hélas ! Hélas ! Je suis accablé de misères !
 
--*who_creon
-Hélas !
-Malheureux !
-Je vois cette nouvelle misère.
-Laquelle me reste-t-il à subir désormais ?
-Ô malheureux que je suis, j'ai dans mes bras mon fils mort, et je vois d'un autre côté celle-ci morte !
-Hélas !
-Hélas !
-Malheureuse mère !
-Hélas !
-Mon fils !
-
--*who_lenvoye
-Ayant embrassé l'autel, elle s'est frappée et elle a fermé ses paupières chargées d'ombre, après avoir pleuré l'illustre destinée de Mégareus et celle de Hémon ; et, enfin, elle a jeté des imprécations contre toi qui as tué son enfant.
-
--*who_creon
-Hélas !
-Hélas !
-Je suis frappé de terreur.
-Pourquoi quelqu'un ne m'a-t-il pas percé par devant d'une épée à deux tranchants ?
-Malheureux que je suis !
-Hélas !
-Hélas !
-Je suis accablé de misères !
-
--*who_lenvoye
-Cette morte t'a accusé de ces deux morts.
-
--*who_creon
 De quelle façon a-t-elle cessé de vivre ?
 
--*who_lenvoye
-De sa propre main elle s'est frappée de l'épée sous le foie, dès qu'elle a su la destinée lamentable de son fils.
+Hélas sur moi ! Jamais je n'accuserai aucun autre homme des maux que j'ai seul causés ; car c'est moi qui t'ai tuée, misérable que je suis ! Moi-même ! Et c'est la vérité. Ô serviteurs, emmenez moi très vite, emmenez-moi au loin, moi qui ne suis plus rien !
 
--*who_creon
-Hélas sur moi !
-Jamais je n'accuserai aucun autre homme des maux que j'ai seul causés ; car c'est moi qui t'ai tuée, misérable que je suis !
-Moi-même !
-Et c'est la vérité.
-Ô serviteurs, emmenez moi très vite, emmenez-moi au loin, moi qui ne suis plus rien !
+Allons, allons ! Vienne une dernière mort qui amène mon suprême jour tant désiré ! Allons ! Qu'elle vienne, afin que je ne voie pas de lendemain !
 
--*who_lechoeur
-Tu as raison, s'il est rien de bon dans le malheur.
-Le mal présent est le meilleur qui cesse le premier.
-
--*who_creon
-Allons, allons !
-Vienne une dernière mort qui amène mon suprême jour tant désiré !
-Allons !
-Qu'elle vienne, afin que je ne voie pas de lendemain !
-
--*who_lechoeur
-Les choses sont futures.
-Il convient de s'occuper des choses présentes.
-C'est à ceux que l'avenir concerne de s'en inquiéter.
-
--*who_creon
 Mais aussi n'ai-je demandé par mes prières que ce que je désire.
 
--*who_lechoeur
-Ne désire rien maintenant.
-Les mortels ne peuvent échapper à un malheur fatidique.
+Emmenez au loin un insensé, moi qui t'ai tué, ô enfant, et toi que voilà, aussi ! Ô malheureux ! Je ne sais, n'ayant plus rien, de quel côté me tourner. Tout ce que j'avais en mains est tombé ; une insupportable destinée s'est ruée sur ma tête.
 
--*who_creon
-Emmenez au loin un insensé, moi qui t'ai tué, ô enfant, et toi que voilà, aussi !
-Ô malheureux !
-Je ne sais, n'ayant plus rien, de quel côté me tourner.
-Tout ce que j'avais en mains est tombé ; une insupportable destinée s'est ruée sur ma tête.
 
--*who_lechoeur
-La meilleure part du bonheur est la sagesse.
-Il faut toujours révérer les droits des démons.
-Les paroles superbes attirent aux orgueilleux de terribles maux qui leur enseignent tardivement la sagesse.
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_hemon
+
+Père, je t'appartiens ; tu me diriges par tes sages conseils, et je les suis. Le désir d'aucun mariage ne sera plus puissant sur moi que ta sagesse.
+
+Père, les dieux ont donné aux hommes la raison qui est, pour tous, tant que nous sommes, la richesse la plus précieuse. Pour moi, je ne puis ni penser, ni dire que tu n'as point bien parlé. Cependant, d'autres paroles seraient sages aussi. En effet, je sais naturellement, avant que tu le saches, ce que chacun dit, fait, ou blâme, car ton aspect frappe le peuple de terreur, et il tait ce que tu n'entendrais pas volontiers. Mais il m'est donné d'entendre ce qu'on dit en secret et de savoir combien la ville plaint la destinée de cette jeune fille, digne des plus grandes louanges pour ce qu'elle a fait, et qui, de toutes les femmes, a le moins mérité de mourir misérablement. Celle qui n'a point voulu que son frère tué dans le combat, et non enseveli, servît de pâture aux chiens mangeurs de chair crue et aux oiseaux carnassiers, n'est-elle pas digne d'un prix d'or ? Telle est la rumeur qui court dans l'ombre. Père, rien ne m'est plus à coeur que ton heureuse destinée. Quelle plus grande gloire y a-t-il pour des enfants que la prospérité d'un père, ou pour un père que celle de ses enfants ? Ne te mets donc pas dans l'esprit qu'il n'y a que tes seules paroles qui soient sages. En effet, quiconque s'imagine que lui seul est sage, et que nul ne le vaut par l'âme et par la langue, est le plus souvent vide quand on l'examine. Il n'est point honteux à un homme, quelque sage qu'il soit, de beaucoup apprendre et de ne point résister outre mesure. Vois comme les arbres, le long des cours d'eau gonflés par les pluies hivernales, se courbent afin de conserver leurs rameaux, tandis que tous ceux qui résistent meurent déracinés. De même le navigateur qui tient résolument tête au vent et ne cède pas, voit sa nef renversée et flotte sur les bancs de rameurs. Apaise-toi donc et change de résolution. Si je puis en juger, bien que je sois jeune, je dis que le mieux pour un homme est de posséder une abondante sagesse, sinon – car la coutume n'est pas qu'il en soit ainsi – il est beau d'en croire de sages conseillers.
+
+N'écoute rien qui ne soit juste. Si je suis jeune, il convient que tu considères mes actions, non mon âge.
+
+Certes, je ne serai jamais cause que tu honores les mauvais.
+
+Tout le peuple de Thèbes le nie.
+
+Ne vois-tu pas que tes paroles sont celles d'un homme encore trop jeune ?
+
+Il n'est point de ville qui soit à un seul homme.
+
+Certes, tu régnerais fort bien seul dans une terre déserte.
+
+Si tu es femme, car je prends souci de toi.
+
+Je te vois en effet faillir contre la justice.
+
+Tu ne la respectes pas en foulant aux pieds les droits des Dieux.
+
+Tu ne m'accuseras jamais d'être dompté par de honteuses pensées.
+
+Pour toi, pour moi, et pour les dieux souterrains.
+
+Elle mourra donc, et sa mort tuera quelqu'un.
+
+Blâmer des choses insensées, est-ce menacer ?
+
+Si tu n'étais mon père, je dirais que tu délires.
+
+Veux-tu toujours parler et ne rien écouter ?
+
+Non, certes, pas devant moi ! Non, ne crois point ceci. Elle ne mourra jamais devant moi, et jamais aussi tu ne me reverras de tes yeux, afin que tu puisses délirer au milieu de tes amis qui y consentent.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_legardien
+
+Roi, je ne dirai pas sans doute que je suis venu, haletant, d'un pas rapide et pressé. Je me suis attardé en proie à beaucoup de soucis, et retournant souvent en arrière sur mon chemin. En effet,je me suis dit bien des fois : – Malheureux ! pourquoi courir à ton propre châtiment ? Mais t'arrêteras-tu, malheureux ? Si Créon apprend ceci de quelque autre, comment échapperas-tu à ta perte ? – Roulant ces choses dans mon esprit, j'ai marché lentement de sorte que la route est devenue longue, bien qu'elle soit courte. Enfin j'ai résolu de venir à toi, et quoique je ne rapporte rien de certain, je parlerai cependant. En effet, je viens dans l'espoir de ne souffrir que ce que la destinée a décidé.
+
+Je veux avant tout te révéler ce qui me concerne. Je n'ai point fait ceci et je n'ai point vu qui l'a fait. Je ne mérite donc pas d'en souffrir.
+
+Le danger inspire beaucoup de crainte.
+
+Je te dirai tout. Quelqu'un a enseveli le mort, et s'en est allé après avoir jeté de la poussière sèche sur le cadavre et accompli les rites funèbres selon la coutume.
+
+Je ne sais, car rien n'avait été tranché par la bêche ni creusé par la houe. La terre était dure, âpre, intacte, non sillonnée par les roues d'un char ; et celui qui a fait la chose n'a point laissé de trace. Dès que le premier veilleur du matin nous eut appris le fait, ceci nous sembla un triste prodige. Le mort n'était plus visible, non qu'il fût enfermé sous terre cependant, mais entièrement couvert d'une poussière légère afin d'échapper à toute souillure. Et il n'y avait aucune trace de bête fauve ou de chien qui fût venu et qui eût traîné le cadavre. Alors, nous commençâmes à nous injurier, chaque gardien en accusant un autre. Et la chose en serait venue aux coups, car nul n'était là pour s'y opposer, et tous semblaient coupables ; mais rien n'était prouvé contre personne et chacun se défendait du crime. Nous étions prêts à saisir de nos mains un fer rouge, à traverser les flammes, à jurer par les dieux que nous n'avions rien fait, que nous ne savions ni qui avait médité le crime, ni qui l'avait commis. Enfin, comme en cherchant nous ne trouvions rien, un d'entre nous dit une parole qui fit que nous baissâmes tous la tête de terreur ; car nous ne pouvions ni la contredire, ni savoir si cela tournerait heureusement pour nous. Et cette parole était qu'il fallait t'annoncer la chose et ne rien te cacher. Cette résolution l'emporta, et le sort m'a condamné, moi, malheureux, à porter cette belle nouvelle ! Je suis ici contre mon gré et contre votre gré à tous. Personne n'aime à être un messager de malheur.
+
+Permets-tu que je parle encore, ou m'en retournerai-je ?
+
+Ton oreille est-elle blessée, ou ton âme ?
+
+Celui qui a commis le crime blesse ton âme, et moi, je blesse ton oreille.
+
+Certes, je n'ai point commis le crime.
+
+Ah ! C'est un malheur, quand on soupçonne, de soupçonner faussement.
+
+Certes, je désire ardemment qu'on trouve le coupable ; mais qu'il soit découvert ou non, et c'est à la destinée d'en décider, tu ne me verras plus revenir ici. En effet, sauvé maintenant contre mon espérance et ma pensée, je dois rendre mille grâces aux Dieux.
+
+Celle-ci a commis le crime. Nous l'avons saisie ensevelissant le cadavre. Mais où est Créon ?
+
+Roi, les mortels ne doivent rien nier par serment, car une seconde pensée dément la première. Je n'aurais certes point cru que je dusse jamais revenir ici, troublé que j'étais par tes menaces ; mais la joie qui arrive inespérée et inattendue ne peut être surpassée par aucun autre bonheur. Je reviens donc, ayant abjuré mon serment et menant ici cette jeune fille qui a été surprise préparant la sépulture. En ceci le sort n'a point été interrogé, mais c'est moi seul qui ai le mérite de l'action, et non un autre. Et maintenant, Roi, puisque je l'ai prise, questionne-la et convaincs-la, comme il te plaira. Moi je suis absous et justement affranchi du châtiment.
+
+Elle ensevelissait l'homme. Tu sais tout.
+
+Je l'ai vue ensevelissant le cadavre que tu avais défendu d'ensevelir. Ai-je parlé assez ouvertement et clairement ?
+
+La chose s'est passée ainsi. Dès que nous fûmes retournés, pleins de terreur à cause de tes menaces terribles, ayant enlevé toute la poussière qui couvrait le corps et l'ayant mis à nu tout putréfié, nous nous assîmes au sommet des collines, contre le vent, pour fuir l'odeur et afin qu'elle ne nous atteignît pas, et nous nous excitions l'un l'autre par des injures, dès qu'un d'entre nous négligeait de veiller. La chose fut ainsi jusqu'à l'heure où l'orbe de Hélios s'arrêta au milieu de l'aithèr et que son ardeur brûla. Alors un brusque tourbillon, soulevant une tempête sur la terre et obscurcissant l'air, emplit la plaine et dépouilla tous les arbres de leur feuillage, et le grand aithèr fut enveloppé d'une épaisse poussière. Et, les yeux fermés, nous subissions cette tempête envoyée par les Dieux. Enfin, après un long temps, quand l'orage eut été apaisé, nous aperçûmes cette jeune fille qui se lamentait d'une voix aiguë, telle que l'oiseau désolé qui trouve le nid vide de ses petits. De même celle-ci, dès qu'elle vit le cadavre nu, hurla des lamentations et des imprécations terribles contre ceux qui avaient fait cela. Aussitôt elle apporte de la poussière sèche, et, à l'aide d'un vase d'airain forgé au marteau, elle honore le mort d'une triple libation. L'ayant vue, nous nous sommes élancés et nous l'avons saisie brusquement sans qu'elle en fût effrayée. Et nous l'avons interrogée sur l'action déjà commise et sur la plus récente, et elle n'a rien nié. Et ceci m'a plu et m'a attristé en même temps. Car, s'il est très doux d'échapper au malheur, il est triste d'y mener ses amis. Mais tout est d'un moindre prix que mon propre salut.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
+
+Habitants des demeures de Kadmos et d'Amphiôn, la vie est toujours telle que je ne puis ni la louer, ni l'accuser. En effet, la fortune élève et renverse toujours l'homme heureux et l'homme malheureux, et aucun divinateur ne peut révéler jamais avec certitude la destinée future des mortels. Créon, selon moi, était digne d'envie parce qu'il avait sauvé de ses ennemis cette terreKadméienne. Ayant ici la puissance suprême, il régnait heureusement et florissait par une noble race ; mais voici que tout s'est évanoui. En effet, quand un homme a perdu le bonheur, je pense qu'il est moins un vivant qu'un cadavre animé. Autant que tu le voudras, jouis de tes richesses dans ta demeure et de l'orgueil de la tyrannie ; cependant, si tu ne possèdes pas la joie, je n'achèterais pas tout cela, comparé au bonheur, pour l'ombre d'une fumée.
+
+Ils sont morts, et les vivants ont été cause de leur mort.
+
+Hémon est mort : il a été tué de sa main.
+
+De sa propre main, étant irrité contre son père à cause du meurtre d'Antigone.
+
+La chose étant ainsi, il faut songer au reste.
+
+Certes, chère maîtresse, je dirai ce dont j'ai été témoin et je ne cacherai rien de la vérité. Pourquoi, en effet, te flatterais-je par mes paroles, si je dois être convaincu d'avoir menti ? La meilleure chose est la vérité. J'ai suivi ton époux jusqu'à la hauteur où gisait encore le misérable cadavre de Polynice déchiré par les chiens. Là, ayant prié la déesse des carrefours et Pluton de ne point s'irriter, nous l'avons lavé d'ablutions pieuses, et nous avons brûlé ses restes à l'aide d'un amas de rameaux récemment coupés ; et nous lui avons élevé un tertre funèbre avec la terre natale. Puis, de là nous sommes allés vers l'antre creux de la jeune vierge, cette chambre nuptiale d'Hadès. Un de nous entend de loin un cri perçant sortir de cette tombe privée d'honneurs funèbres, et, accourant, il l'annonce au maître Créon. Tandis que celui-ci approche, le bruit du gémissement se répand confusément autour de lui, et, en soupirant, il dit d'une voix lamentable : – Ô malheureux que je suis ! L'ai-je donc pressenti ? Ce chemin ne me mène-t-il pas au plus grand malheur que j'aie encore subi ? La voix de mon fils a effleuré mon oreille. Allez promptement, serviteurs, et, parvenus au tombeau, ayant arraché la pierre qui le ferme, pénétrez dans l'antre, afin que je sache si j'ai entendu la voix de Hémon, ou si je suis trompé par les dieux. – Nous faisons ce que le maître effrayé a ordonné et nous voyons la jeune fille pendue, ayant noué à son cou une corde faite de son linceul. Et lui tenait la vierge embrassée par le milieu du corps, pleurant la mort de sa fiancée envoyée dans le Hadès, et l'action de son père, et ses noces lamentables. Dès que Créon l'aperçoit, avec un profond soupir, il va jusqu'à lui, et, plein de sanglots, il l'appelle : – Ô malheureux ! Qu'as-tu fait ? Quelle a été ta pensée ? Comment t'es-tu perdu ? Je t'en supplie, sors, mon fils ! – Mais l'enfant, le regardant avec des yeux sombres, et comme ayant horreur de le voir, ne répond rien et tire l'épée à deux tranchants ; mais la fuite dérobe le père au coup. Alors le malheureux, furieux contre lui-même, se jette sur l'épée et se perce de la pointe au milieu des côtes. Et de ses bras languissants, encore maître de sa pensée, il embrasse la vierge, et, haletant, il expire en faisant jaillir un sang pourpré sur les pâles joues de la jeune fille. Ainsi il est couché mort auprès de sa fiancée morte, ayant accompli, le malheureux, ses noces fatales dans la demeure d'Hadès, enseignant aux hommes par son exemple que l'imprudence est le plus grand des maux.
+
+J'en suis étonné comme toi-même. Cependant je me flatte de l'espoir qu'ayant appris la mort de son fils, elle n'a pas voulu se lamenter par la ville, mais que, retirée dans sa demeure, elle va en avertir ses servantes, afin qu'elles pleurent ce malheur domestique. Car elle ne manque pas de sagesse au point de faillir en quelque chose.
+
+Nous saurons bientôt, entrés dans la demeure, ce qu'elle cache dans son coeur irrité ; car, tu dis bien : un trop grand silence est effrayant en effet.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_tiresias
+
+Princes de Thèbes, nous sommes venus ensemble, voyant par les yeux d'un seul, car il faut que les aveugles soient conduits pour marcher.
+
+Certes, je te l'apprendrai ; mais obéis au divinateur.
+
+C'est pourquoi tu as heureusement gouverné cette ville.
+
+Sache que tu es de nouveau exposé à d'autres malheurs.
+
+Tu le sauras, ayant appris les indices révélés par ma science. Tandis que j'étais assis dans l'antique lieu augural où se réunissent toutes les divinations, j'ai entendu un bruit strident d'oiseaux qui criaient d'une façon sinistre et sauvage. Et ils se déchiraient l'un l'autre de leurs ongles meurtriers. Le battement de leurs ailes me le révéla. C'est pourquoi, épouvanté, je consultai les victimes sur les autels allumés. Mais Héphaïstos ne s'unissait point à elles, et la graisse fondue des cuisses, absorbée par la cendre, fumait et pétillait, et le foie éclatait et se dissipait, et les os des cuisses gisaient nus et humides de leur gaine de graisse. Telle est la divination malheureuse de ce sacrifice vain, et que j'ai sue de cet enfant, car il est mon conducteur, comme je suis celui des autres. C'est à cause de ta résolution que la ville subit ces maux. En effet, tous les autels et tous les foyers sont pleins des morceaux arrachés par les chiens et les oiseaux carnassiers du cadavre du misérable fils d'Oedipe. De sorte que les dieux se refusent aux prières sacrées et à la flamme des cuisses brûlées, et que les oiseaux, rassasiés du sang gras d'un cadavre humain, ne font plus entendre aucun cri augural. Donc, fils, songe à ceci. Il arrive à tous de faillir ; mais celui qui a failli, n'est ni privé de sens, ni malheureux, si, étant tombé dans l'erreur, il s'en guérit au lieu d'y persister. L'opiniâtreté est une preuve d'ineptie. Pardonne à un mort, ne frappe pas un cadavre. Quelle vaillance y a-t-il à tuer un mort ? Je te conseille par bienveillance pour toi. Il est très doux d'écouter un bon conseiller, quand il enseigne ce qui est utile.
+
+Hélas ! Qui sait, quel homme songe…
+
+Combien la prudence est au-dessus de toutes les richesses !
+
+Ce malheur est pourtant le tien.
+
+C'est ce que tu fais en disant que mes divinations sont fausses.
+
+Et la race des tyrans aime les gains honteux.
+
+Certes, je le sais, car c'est par mon aide que tu as sauvé cette ville.
+
+Tu me contrains de révéler les secrets cachés dans mon esprit.
+
+Je ne pense pas avoir parlé ainsi en ce qui te concernait.
+
+Sache bien à ton tour qu'il n'y aura pas beaucoup de révolutions des rapides roues de Hélios, avant que tu n'aies payé les morts par la mort de quelqu'un de ton propre sang, pour avoir renvoyé sous terre une âme encore vivante, pour l'avoir ignominieusement enfermée vivante dans le tombeau, et parce que tu retiens ici, loin des dieux souterrains, un cadavre non enseveli et non honoré. Et ceci n'appartient ni à toi, ni aux dieux Ouraniens, et tu agis ainsi par violence. C'est pourquoi les Érinnyes vengeresses du Hadès et des dieux te dressent des embûches, afin que tu subisses les mêmes maux. Vois si je parle ainsi corrompu par l'argent. Avant peu de temps les lamentations des hommes et des femmes éclateront dans tes demeures. Tel qu'un archer, je t'envoie sûrement ces flèches de colère au coeur, car tu m'irrites, et tu n'éviteras pas leur blessure cuisante. Toi, enfant, ramène-moi dans ma demeure, afin qu'il répande la fureur de son âme contre de plus jeunes, et qu'il apprenne à parler plus modérément, et qu'il nourrisse une pensée meilleure que celle qu'il a maintenant.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lenvoye
+
+Ô maître, tu as rencontré et tu possèdes tous les maux, portant les uns dans tes bras et devant bientôt contempler les autres dans ta demeure.
+
+Ta malheureuse femme vient de se frapper mortellement, prouvant ainsi qu'elle était bien la mère de ce mort.
+
+Tu peux regarder. Elle n'est plus dans ta demeure.
+
+Ayant embrassé l'autel, elle s'est frappée et elle a fermé ses paupières chargées d'ombre, après avoir pleuré l'illustre destinée de Mégareus et celle de Hémon ; et, enfin, elle a jeté des imprécations contre toi qui as tué son enfant.
+
+Cette morte t'a accusé de ces deux morts.
+
+De sa propre main elle s'est frappée de l'épée sous le foie, dès qu'elle a su la destinée lamentable de son fils.
+
+
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+
+Clarté splendide ! La plus belle des lumières qui aient lui sur Thèbes aux sept portes, tu as enfin paru au-dessus des sources Dirkaiennes. OEil du jour d'or ! Tu as repoussé et contraint de fuir, lâchant les rênes, l'homme au bouclier blanc, sorti tout armé d'Argos, et qui, levé contre notre terre pour la cause douteuse de Polynice, et poussant des cris aigus, s'est abattu ici comme un aigle à l'aile de neige, avec d'innombrables armes et des casques chevelus.
+Plus haut que nos demeures, il était là, dévorant, de toute part, avec ses lances avides de meurtre, autour des sept portes ; et il s'en est allé avant de s'être rassasié de notre sang, et avant que Héphaïstos résineux ait saisi nos tours crénelées ; tant a éclaté derrière lui le ressentiment d'Arès, invincible pour le Drakôn ennemi. Car Zeus hait l'impudence d'une langue orgueilleuse, et, les ayant vus se ruer impétueusement, très fiers de leur or strident, il a renversé, de la foudre dardée, celui qui se préparait à pousser le cri de la victoire au faîte de nos murailles.
+Renversé, il tomba, retentissant contre terre et portant le feu, lui qui, naguère, ivre d'une fureur insensée, avait le souffle des vents les plus terribles. Et Arès, grand et impétueux, détourna ces maux et leur en infligea d'autres en les bouleversant tous. Et les sept chefs, dressés aux sept portes contre sept autres, laissèrent leurs armes d'airain à Zeus qui met en fuite, excepté ces deux malheureux qui, nés du même père et de la même mère, se sont frappés l'un l'autre de leurs lances et ont reçu une commune mort.
+Mais Nika, au nom illustre, est venue sourire à Thèbes aux chars innombrables. Oublions donc ces combats, et menons des choeurs nocturnes dans tous les temples des dieux, et que Bacchus les conduise, lui qui ébranle la terre Thèbaienne ! Voici le roi du pays, Créon Ménoikéide. Il vient à cause des faits récents qu'ont voulus les Dieux, roulant quelque dessein, puisqu'il a convoqué cette assemblée de vieillards réunis par un appel commun.
+
+Il te plaît d'agir ainsi, Créon, fils de Ménoikeus, envers l'ennemi de cette ville et envers son ami. Tous, tant que nous sommes, vivants ou morts, nous sommes soumis à ta loi, quelle qu'elle soit.
+
+Confie ce soin à de plus jeunes.
+
+Que nous ordonnes-tu donc de plus ?
+
+Nul n'est assez insensé pour désirer mourir.
+
+Certes, ô roi, j'y pense depuis longtemps : ceci n'a-t-il point été fait par les Dieux ?
+
+Beaucoup de choses sont admirables, mais rien n'est plus admirable que l'homme. Il est porté par le Notos orageux à travers la sombre mer, au milieu de flots qui grondent autour de lui ; il dompte, d'année en année, sous les socs tranchants, la plus puissante des déesses, Gaia, immortelle et infatigable, et il la retourne à l'aide du cheval.
+L'homme, plein d'adresse, enveloppe, dans ses filets faits de cordes, la race des légers oiseaux et les bêtes sauvages et la génération marine de la mer ; et il asservit par ses ruses la bête farouche des montagnes ; et il met sous le joug le cheval chevelu et l'infatigable taureau montagnard, et il les contraint de courber le cou.
+Il s'est donné la parole et la pensée rapide et les lois des cités, et il a mis ses demeures à l'abri des gelées et des pluies fâcheuses. Ingénieux en tout, il ne manque jamais de prévoyance en ce qui concerne l'avenir. Il n'y a que le Hadès auquel il ne puisse échapper, mais il a trouvé des remèdes aux maladies dangereuses.
+Plus intelligent en inventions diverses qu'on ne peut l'espérer,il fait tantôt le bien, tantôt le mal, violant les lois de la patrie et le droit sacré des dieux. Celui qui excelle dans la ville mérite d'en être rejeté, quand, par audace, il agit honteusement. Que je n'aie ni le même toit, ni les mêmes pensées que celui qui agit ainsi ! Par un prodige incroyable, ce ne peut être Antigone, bien que ce soit elle que je vois. Ô malheureuse fille du malheureux Oedipe, qu'y a-t-il ? Ceux-ci t'amènent-ils pour avoir méprisé la loi royale etavoir osé une action insensée ?
+
+Le voici qui sort de la demeure, et à propos.
+
+L'esprit inflexible de cette enfant vient d'un père semblable à elle. Elle ne sait point céder au malheur.
+
+Voici, devant les portes, Ismène qui verse des larmes à cause de sa soeur. Le nuage qui tombe de ses sourcils altère son visage qui rougit, et sillonne de larmes ses belles joues.
+
+Priveras-tu ton fils de celle-ci ?
+
+Il est résolu, semble-t-il, qu'elle recevra la mort.
+
+Heureux ceux qui ont vécu à l'abri des maux ! Quand une demeure, en effet, a été frappée divinement, il ne manque, jusqu'à leur dernière postérité, aucune calamité à ceux-ci. De même, lorsque le flot de la mer, poussé par les vents Thrèkiens, parcourt l'obscurité sous-marine, il fait monter du fond la vase noire et bouillonnante, et les rivages qu'il frappe sont pleins de clameurs.
+Je vois, dès un temps ancien, dans la maison des Labdakides, les calamités s'ajouter aux calamités de ceux qui sont morts. Une génération n'en sauve pas une autre génération, mais toujours quelque dieu l'accable et ne lui laisse aucun repos. Une lumière brillait encore, dans la maison d'Oedipe, sur la fin de sa race ; mais voici qu'elle est moissonnée, insensée et furieuse, par la faux sanglante des dieux souterrains.
+Ô Zeus, quel homme orgueilleux peut réprimer ta puissance qui n'est domptée ni par le sommeil maître de toutes choses, ni par les années infatigables des Dieux ? Sans jamais vieillir, tu règnes éternellement dans la splendeur du flamboyant Olympos ! Une loi, en effet, prévaudra toujours, comme elle a toujours prévalu parmi les hommes.
+L'espérance mensongère est utile aux mortels, mais elle déjoue les désirs de beaucoup. Elle les excite au mal, à leur insu, avant qu'ils aient mis le pied sur le feu ardent. Je ne sais qui a dit cette parole célèbre : – Celui qu'un dieu pousse à sa perte prend souvent le mal pour le bien, et il n'est garanti de la ruine que pour très peu de temps. – Mais voici Hémon, le dernier de tes enfants. Vient-il, gémissant sur la destinée d'Antigone, affligé à cause du lit nuptial qui lui est refusé ?
+
+À moins que nous nous abusions à cause de notre vieillesse, il nous semble que tu parles sagement.
+
+Roi, s'il a bien parlé, il est juste que tu te laisses instruire, et toi par ton père, car vos paroles sont bonnes à tous deux.
+
+Cet homme s'en va plein de colère, ô roi ! Dans un tel esprit,une ardente et cruelle douleur est chose redoutable.
+
+Tu les destines donc toutes deux à la mort ?
+
+Par quel supplice as-tu décidé que l'autre périrait ?
+
+Érôs ! Invincible Érôs, qui t'abats sur les puissants, qui te reposes sur les joues délicates de la jeune fille, qui te transportes par delà les mers et dans les étables agrestes, aucun des immortels ne peut te fuir, ni aucun des hommes qui vivent peu de jours ; mais qui te possède est plein de fureur !
+Tu entraînes à l'iniquité les pensées des justes, et tu pousses à la dissension les hommes du même sang. Le charme désirable qui resplendit dans les yeux d'une jeune femme est victorieux et l'emporte sur les grandes lois. La déesse Aphrodita est invincible et se rit de tout. Et moi-même, devant ceci, j'enfreins ce qui est permis et je ne puis retenir les sources de mes larmes, lorsque je vois Antigone s'avancer vers le lit où tous vont dormir.
+
+Ainsi, illustre et louée, tu vas dans les retraites des morts, non consumée par les flétrissures des maladies, non livrée comme un butin de guerre ; mais, seule entre les mortels, libre et vivante, tu descends chez Hadès.
+
+Mais celle-ci était déesse et issue d'une race divine, et nous sommes mortels et issus d'une race mortelle ; mais il est glorieux, pour qui va mourir, de subir une destinée semblable à celle des Dieux.
+
+En ton extrême audace, tu as heurté le siège élevé de Dika, ô ma fille ! Tu expies quelque crime paternel.
+
+C'est une piété que d'honorer les morts ; mais il n'est jamais permis de ne point obéir à qui tient la puissance. C'est ton esprit inflexible qui t'a perdue.
+
+Les agitations de son âme sont toujours les mêmes.
+
+Je ne te recommanderai pas de te rassurer, comme si cette parole devait être vaine.
+
+Danaé fut aussi condamnée, dans une prison d'airain, à perdre la lumière Ouranienne, et elle subit le joug, enfermée dans ce sépulcre, sa chambre nuptiale. Et cependant, ô mon enfant,elle était de bonne race et elle portait dans son sein les semences d'or de Zeus. Mais la force de la Moire est inéluctable, et ni les richesses, ni Arès, ni les tours, ni les noires nefs battues des flots n'y échappent.
+Il fut aussi, chargé de liens le fils furieux de Dryas, le prince des Édônes, lui que Dionysos, à cause de son esprit insolent, enferma dans une prison de pierre. Ainsi s'écoule et s'apaise la force terrible de la colère. Et il connut le dieu que, dans sa démence, il avait blessé de paroles injurieuses ; car il avait voulu réfréner les femmes furieuses, éteindre les torches d'Évios et outrager les Muses qui aiment les flûtes.
+Auprès des mers Kyanéennes sont les rivages Bosporiens et l'inhospitalière Salmydèsos des Thrèkiens, où Arès, qui habitait les contrées voisines, vit la blessure exécrable des deux Phinéiades, qu'avait faite leur marâtre féroce qui leur avait arraché les yeux, non avec le fer, mais de ses mains ensanglantées et à l'aide d'une navette pointue.
+Et ils pleuraient la destinée de leur mère et les noces dont ils étaient nés ; car elle descendait de l'antique race des Érekhtides, et elle avait été nourrie dans les antres reculés, au milieu des tempêtes paternelles, étant la fille de Borée et l'enfant des dieux ; et elle gravissait d'un pied sûr, telle qu'un cheval qui court, l'escarpement des collines. Cependant les Moires éternelles l'atteignirent aussi, ô mon enfant !
+
+Ô roi, cet homme s'en va, ayant prédit de terribles choses ; et nous savons, depuis que nos cheveux noirs sont devenus blancs, qu'il n'a jamais rien prophétisé de faux à cette ville.
+
+Il s'agit d'être prudent, Créon, fils de Ménoikeus.
+
+Va retirer la jeune fille de l'antre souterrain, et construis un tombeau à celui qui gît délaissé.
+
+Certes, Ô roi, et très promptement. Les châtiments des dieux ont des pieds rapides et atteignent en peu de temps ceux qui font le mal.
+
+Va donc ! Agis toi-même, et ne remets ce soin à aucun autre.
+
+Illustre sous mille noms, délices de la vierge Kadméienne, race de Zeus qui tonne dans les hauteurs, qui protèges la glorieuse Italia, qui commandes à la vallée commune à tous les hommes de Déméter Éleusinienne, Bacchus, ô Bacchus, qui habites Thèbes, la ville mère des Bacchantes, auprès du courant limpide de l'Isménos, là où est la moisson du dragon farouche !
+Une vapeur splendide t'éclaire sur le double sommet où courent les Bakkhides, les nymphes Kôrykiennes, et où flue l'eau de Castalie. Les cimes couvertes de lierres des monts Nysaiens et leurs vignes verdoyantes t'envoient, au milieu des clameurs sacrées, visiter les carrefours de Thèbes.
+Elle que tu honores merveilleusement plus que toutes les autres villes, ainsi que ta mère frappée de la foudre. Maintenant que toute notre ville est en proie à un mal terrible, viens d'un pied sauveur, franchissant l'escarpement du Parnasse ou le détroit retentissant de la mer.
+Ô conducteur des astres qui respirent le feu, qui présides aux clameurs nocturnes, race de Zeus, apparais avec les Thyiades de Naxos, tes compagnes, qui, furieuses durant toute la nuit, glorifient par des choeurs dansants leur maître Iakkhos !
+
+Quelle nouvelle calamité des rois viens-tu nous annoncer ?
+
+Qui a tué ? Qui est tué ? Parle.
+
+De la main de son père ou de sa propre main ?
+
+Ô divinateur, combien ta prédiction était certaine !
+
+Mais je vois la malheureuse Eurydice, l'épouse de Créon. Est-elle sortie de la demeure par hasard ou ayant appris le malheur de son fils ?
+
+Que pressens-tu de ceci ? La femme a disparu avant d'avoir prononcé une parole, soit bonne, soit mauvaise.
+
+Je ne sais ; mais il me semble qu'un trop grand silence annonce d'aussi cruels malheurs que des cris répétés et sans frein.
+
+Voici venir le roi lui-même, portant dans ses bras, s'il m'est permis de le dire, un gage éclatant du malheur qui lui est infligé, non par un autre, mais par sa propre faute.
+
+Hélas ! Que tu as connu tard la justice !
+
+Tu as raison, s'il est rien de bon dans le malheur. Le mal présent est le meilleur qui cesse le premier.
+
+Les choses sont futures. Il convient de s'occuper des choses présentes. C'est à ceux que l'avenir concerne de s'en inquiéter.
+
+Ne désire rien maintenant. Les mortels ne peuvent échapper à un malheur fatidique.
+
+La meilleure part du bonheur est la sagesse. Il faut toujours révérer les droits des démons. Les paroles superbes attirent aux orgueilleux de terribles maux qui leur enseignent tardivement la sagesse.
+

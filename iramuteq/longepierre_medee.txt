@@ -1,332 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1694
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
--*who_jason
-Je sais ce que je dois à l'amour de Médée.
-Cesse, Iphite, à mes yeux d'en retracer l'idée.
-Ce qu'elle a fait pour moi, dans la Grèce, à Colchos,
-Ne traverse que trop ma joie et mon repos ;
-Mais du sort, de l'amour, la fatale puissance
-Fait taire mes remords et ma reconnaissance ;
-Et de ces deux tyrans les violentes lois
-Ne laissent ni l'amour, ni la haine à mon choix.
-Oui, de leur joug pressant l'invincible contrainte
-Fixe enfin mes destins et mes voeux à Corinthe.
-En vain Médée, en proie à ses transports jaloux,
-Se livre à la douleur, s'abandonne au courroux :
-Je la plains ; mais, ami, j'adore la Princesse.
-Du destin de Jason souveraine maîtresse,
-Elle asservit mon âme à son pouvoir vainqueur :
-L'éclat de ses beaux yeux triomphe de mon coeur ;
-Et ce coeur embrasé d'une ardeur violente,
-Ne saurait s'affranchir du charme qui l'enchante.
-
--*who_iphite
-De ce nouvel amour, la trompeuse douceur
-Séduit votre raison par son appât flatteur.
-Votre âme toute entière avidement s'y livre,
-Mais si, fuyant, Seigneur, le plaisir qui l'enivre,
-Vous vouliez repousser un dangereux poison ;
-Si vous daigniez encor consulter la raison,
-Vous banniriez bientôt Créuse de votre âme,
-Et vous étoufferiez une funeste flamme.
-
--*who_jason
-Non, la raison ici, d'accord avec mon coeur,
-Autorise ma flamme et soutient mon ardeur.
-Exilés, fugitifs, le trépas de Pélie
-Soulève contre nous toute la Thessalie.
-Ce tyran, de mon trône injuste usurpateur,
-De ses crimes enfin a lavé la noirceur.
-Tu sais comme Médée, ardente à la vengeance,
-Sur le flatteur appas d'une vaine espérance,
-De ses propres enfants en a fait ses bourreaux.
-Ses filles, à l'envi, le mirent par morceaux ;
-Et leur crédule amour armant leur bras timide,
-Commit par pitié cet affreux parricide.
-Son fils Acaste, armant, pour venger son trépas,
-J'obéis au destin, je quittai ses États ;
-Et Créon seul osant plaindre notre disgrâce,
-Lorsque d'un fier Tyran la haine nous menace,
-M'a reçu dans son sein, moi, Médée et mes fils,
-D'une triste maison infortunés débris.
-Seul, il pouvait me tendre une main salutaire ;
-Et le Ciel de mon sort le rend dépositaire.
-En vain je chercherais en de nouveaux climats,
-L'asile et le repos qu'il m'offre en ses États.
-Pour moi son amour brille et son estime éclate.
-Il me regarde en père ; il m'applaudit, me flatte.
-Cependant, trop instruit par mes malheurs divers,
-Toujours du sort jaloux je crains quelques revers.
-Mon ennemi demande et Médée, et ma tête :
-Irrité d'un refus, à la guerre il s'apprête.
-Créon m'aime, il est vrai : Créon est généreux ;
-Mais on porte à regret le poids des malheureux :
-Quelque noble penchant qui pousse à les défendre,
-Iphite, on craint de voir ses États mis en cendre,
-Ses peuples asservis, et son trône ébranlé.
-Souvent même Créon flotte et paraît troublé.
-D'ailleurs, trop prévenu d'une haine secrète,
-À Médée, à regret, il donne une retraite ;
-Et contr'elle avec peine il retient un courroux
-Qui pourrait retomber jusques sur son époux.
-Je dois donc, profitant d'un rayon favorable,
-M'assurer en Créon un appui ferme et stable ;
-Et, l'attachant à moi par le noeud le plus fort,
-Prévenir et fixer l'inconstance du sort.
-Pour sa fille, avec joie il voit briller ma flamme ;
-Elle règle ses voeux, et peut tout sur son âme :
-Créüse seule, enfin, peut m'assurer Créon...
-Eh bien ! L'amour, Iphite, aveugle-t-il Jason ?
-
--*who_iphite
-C'est ainsi que l'amour, trop fertile en excuses,
-Aveugle par son charme, et séduit par ses ruses.
-Même en nous égarant, il feint de nous guider.
-De ses pièges flatteurs songez à vous garder.
-Eh quoi ! D'un autre amour votre âme possédée,
-Trahira, les bienfaits et l'espoir de Médée ?
-Ni les droits de l'hymen, ni sa fidèle ardeur.
-
--*who_jason
-Qu'un tel secours est faible, et défend mal mon coeur,
-Iphite. Ah ! Quand l'amour règne avec violence,
-Que peut la faible voix de la reconnaissance ?
-Il est vrai que Médée a tout osé pour moi.
-Je m'accuse et rougis de ce que je lui dois.
-Mais, transporté d'amour en voyant ce que j'aime,
-J'oublie et mon devoir, et Médée, et moi-même ;
-Je m'enivre à longs traits d'un aimable poison :
-L'amour devient alors ma suprême raison ;
-Et d'un feu violent l'impérieuse flamme
-Étouffe tout le reste, et triomphe en mon âme.
-Je sens, je sens alors que mon trépas certain,
-Les bontés de Créon, le courroux du Destin,
-M'arrêtent moins ici que ne fait la Princesse ;
-Qu'animé du beau feu qui m'échauffe et me presse,
-Je mourrais, s'il fallait m'éloigner de ses yeux ;
-Et qu'enfin leur éclat m'enchante dans ces lieux.
-Ces beaux yeux plus puissants que Médée et ses charmes,
-Sitôt que je les vis, m'arrachèrent les armes.
-Et quel coeur soutiendrait leurs feux éblouissants,
-Leur éclat dangereux, leurs regards languissants ?
-Cette jeune pudeur sur son visage peinte,
-Et sur son front serein cette noblesse empreinte ;
-Cette douce fierté, cette aimable langueur ;
-Un je ne sais quel charme innocent et flatteur,
-Ce souris dont l'appât réveille la tendresse,
-Et ce maintien auguste, et cet air de Déesse ?
-Enfin, en la voyant, ébloui, transporté,
-Je crus voir, et je vis, une Divinité.
-
--*who_iphite
-Mais quels sont vos projets ? Que pouvez-vous prétendre ?
-
--*who_jason
-D'écouter ma tendresse, et de tout entreprendre.
-L'amour se flatte, Iphite, et se croit tout permis.
-Que n'ose point un coeur à son pouvoir soumis ?
-Le Roi me veut pour gendre ; et ma belle Princesse
-Semble favoriser mes soins et ma tendresse :
-Il offre sa couronne et Créüse à mes voeux ;
-M'opposerais-je au sort qui veut me rendre heureux ?
-Je ne puis résister à ces douces amorces,
-Et n'ai point oublié comme on fait les divorces.
-N'abandonnai-je pas Hypsipile à Lemnos,
-Pour chercher la toison et voler à Colchos ?
-Et cependant, ami, cette grande conquête,
-Valait-elle le prix qu'ici l'amour m'apprête ?
-
--*who_iphite
-Dieux ! Que fera Médée, et quel affreux courroux
-Ne l'enflammera point contre un parjure époux ?
-Si vous l'abandonnez, redoutez sa vengeance.
-Vous savez de son art jusqu'où va la puissance.
-La nature est soumise à ses commandements :
-Elle trouble le Ciel, l'Enfer, les Éléments ;
-Elle arrête, à son gré, les Astres dans leur course.
-Les torrents les plus fiers remontent vers leur source.
-La Lune sort du Ciel, les Mânes des tombeaux :
-Elle lance la foudre, et change en sang les eaux.
-Vous savez. ...
-
--*who_jason
-      Je le sais ; cesse de me le dire.
-Mais de l'amour aussi je sais quel est l'empire.
-Plus puissant est son art, plus fort que son courroux,
-De Médée en fureur il suspendra les coups.
-Elle m'aime, il suffit ; et sa tendresse extrême
-Parlera puissamment pour un ingrat qu'elle aime.
-Je saurai la fléchir ; je saurai l'apaiser
-Mais à tout son courroux dussai-je m'exposer,
-Je n'écoute et ne suis que l'ardeur qui me presse.
-
--*who_iphite
-De grâce, examinez....
-
--*who_jason
-      Ah ! Je vois ma Princesse.
-Considère, à loisir, contemple tant d'appas.
-Peut-on la voir, Iphite, et ne l'adorer pas ?
-Rien n'est à redouter, à fuir que sa colère.
-
-**** *book_ *id_I02 *act_I *date_1694
-
--*who_creuse
-Je croyais, en ces lieux, trouver le Roi mon père.
-On vient de m'assurer qu'il vous cherche, Seigneur.
-
--*who_jason
-Je n'ai point vu le Roi, Madame ; mais mon coeur,
-Par de profonds respects, par l'amour le plus tendre,
-Ne pourra-t-il jamais mériter et prétendre
-Que vous daigniez aussi me chercher quelque jour ?
-Cet espoir n'est-il pas permis à mon amour ?
-Jamais, vous le savez, ardeur si violente
-Ne régna dans un coeur et n'en fut triomphante.
-Tout le jure à vos yeux : soins, voeux, empressements ;
-Mes remords immolés, mes transports, mes serments ;
-Et mes tendres respects, et mes ardents hommages,
-Vous sont, de cet amour, d'inviolables gages.
-Je sens un feu si vif s'accroître à chaque pas :
-Madame, à tant d'amour vous ne répondez pas ?
-
--*who_creuse
-Eh ! Le puis-je, Seigneur ? Une jeune Princesse
-Ne doit qu'à son époux déclarer sa tendresse.
-Il est vrai que le Roi, qui doit régler mes voeux,
-Estime vos vertus, applaudit à vos feux.
-Il m'a même ordonné d'écouter votre flamme.
-Si j'ose, après cela, vous découvrir mon âme,
-J'estime, ainsi que lui, cet illustre Jason,
-Qui surmonta Neptune et conquit la Toison ;
-De la gloire amoureux, prodigue de sa vie ;
-L'ornement de la Grèce, et l'effroi de l'Asie ;
-Le Chef de nos Guerriers, la fleur de nos Héros,
-Dont le nom est vanté de Corinthe à Colchos.
-Peut-être un doux penchant m'entraînerait sans peine,
-Mais un fatal obstacle et m'arrête et me gêne.
-Médée est votre épouse, et des noeuds si puissants
-Mettent un frein trop juste à mes voeux innocents.
-Pourrais-je, à ce penchant, abandonner mon âme,
-Tandis qu'un autre hymen vous attache ?...
-
--*who_jason
-      Ah ! Madame,
-Cessez, cessez de craindre un hymen odieux,
-Condamné par les Grecs, réprouvé par les Dieux ;
-Dès demain, dès ce jour, faut-il briser ses chaînes ?
-
--*who_creuse
-Mais qui m'assurera qu'insensible à ses peines,
-Vous puissiez soutenir sa vue et sa douleur,
-Sans lui rendre bientôt vos voeux et votre coeur ?
-Je crains un long penchant, sa tendresse, ses larmes ;
-Je redoute ses yeux, je redoute ses charmes :
-Son art est au-dessus de tout l'effort humain,
-Seigneur, et de votre âme elle sait le chemin.
-Tant que vous la verrez, que vous pourrez l'entendre,
-Je crains tout d'un amour et si long et si tendre.
-Je crains ...
-
--*who_jason
-      Ah ! Dissipez une indigne frayeur.
-Quel outrage ! Ainsi donc jugez-vous de mon coeur ?
-Connaissez mieux ce coeur, Madame, et ma tendresse.
-Rien ne peut m'enlever à ma belle Princesse.
-Je défie, à la fois, les Mortels et les Dieux,
-Et tout l'art de Médée, et l'Enfer, et les Cieux.
-Si sa présence ici vous alarme et vous blesse,
-Il faut vous délivrer du soupçon qui vous presse.
-Un véritable amour éclate avec plaisir.
-Commandez seulement, je suis près d'obéir.
-Je donnerais mon sang, j'immolerais ma vie.
-Trop heureux que pour vous le sort me l'eût ravie !
-
--*who_creuse
-J'entends le Roi, Seigneur : il paraît à vos yeux.
-
-**** *book_ *id_I03 *act_I *date_1694
-
--*who_creon
-Je vous cherchais, Seigneur. Savez-vous qu'en ces lieux
-Un nouvel envoyé du Roi de Thessalie
-Vient demander raison du meurtre de Pélie ?
-De mes refus, Acaste offensé justement,
-Veut bien suspendre encor son fier ressentiment,
-Et jurer avec nous une étroite alliance,
-Si je livre en ce jour Médée à sa vengeance ;
-Ou qu'au moins, la chassant du sein de mes États,
-Je refuse un asile à ses assassinats.
-Il me presse ...
-
--*who_jason
-      Ah ! Seigneur, votre coeur magnanime
-Pourrait-il lui livrer une triste victime ?
-Pourrait-il ...
-
--*who_creon
-      En faveur de vos fils et de vous,
-Je ne veux point livrer Médée à son courroux.
-Mais est-il juste, aussi, Jason, que de ses crimes,
-Mes sujets innocents deviennent les victimes ;
-Et que d'une étrangère appuyant les forfaits,
-De mes heureux États je trouble ainsi la paix ?
-Non ; il faut qu'elle parte, et qu'une prompte fuite
-Nous délivre des maux qu'elle traîne à sa suite :
-Je le veux. Cet exil est nécessaire à tous ;
-Pour Acaste, pour moi, pour ma fille, pour vous,
-Pour Médée elle même. Il faut purger Corinthe
-De ce funeste objet qui la glace de crainte.
-Il faut nous épargner ses cris et sa fureur.
-Je hais jusqu'à sa vue ; elle me fait horreur.
-Des songes effrayants, des présages sinistres,
-Des redoutables Dieux les augustes ministres,
-M'annoncent de leur part le plus affreux malheur,
-Si je ne l'abandonne à leur courroux vengeur.
-Rompez avec éclat le charme qui vous lie :
-Expiez un hymen qui tache votre vie.
-Assez et trop longtemps ces liens mal tissus
-Ternissent votre gloire et souillent vos vertus.
-Assez et trop longtemps, avec douleur, la Grèce
-Voit gémir, sous le joug de cette enchanteresse,
-Le plus grand des Héros qu'elle conçut jamais.
-Séparez vos vertus d'elle et de ses forfaits.
-Justifiez ainsi l'appui que je vous donne.
-Possédez à ce prix ma fille et ma couronne.
-Je veux que dès demain l'astre brillant du jour,
-Ait vu partir Médée en commençant son tour ;
-Et que Corinthe ainsi n'étant plus profanée,
-Il se prête avec joie à ce doux hyménée.
-
--*who_jason
-Je cède à vos raisons ; j'obéis. Mais, Seigneur,
-Daignez par vos bontés adoucir ses malheurs ,
-Par tout ce qui pourra rendre son sort moins rude,
-Consolez ses ennuis, flattez sa solitude.
-
--*who_creon
-Quoiqu'elle ait mérité des maux plus rigoureux,
-Je consens à remplir vos désirs généreux :
-Et pour mieux adoucir son déplaisir extrême,
-Je veux à cet exil la préparer moi-même.
-Mais allons publier cet hymen, ce départ ;
-Qu'au bonheur de leurs Rois nos sujets prennent part.
-Allons avec éclat annoncer à Corinthe
-La source de sa joie et la fin de sa crainte.
-Que des chants d'hyménée et d'aimables concerts
-Commencent cette fête et remplissent les airs.
-Que du Dieu de l'hymen les feux sacrés s'allument ;
-Qu'on pare les autels, et que les temples fument.
-Jason trouve une épouse enfin digne de lui.
-Daignent les justes Dieux, m'exauçant aujourd'hui,
-Marquer de leur faveur cette grande journée,
-Et la rendre à jamais célèbre et fortunée !
-
-**** *book_ *id_II01 *act_II *date_1694
-
--*who_medee
 Où suis-je malheureuse ? Où portai-je mes pas ?
 Qu'ai-je vu ? Qu'ai-je ouï ? Je ne me connais pas.
 Furieuse, je cours, et doute si je veille.
@@ -372,26 +47,14 @@ M'embrasent à présent d'une juste fureur.
 Que n'enfantera point cette fureur barbare ?
 Le crime nous unit ; il faut qu'il nous sépare.
 
-**** *book_ *id_II02 *act_II *date_1694
-
--*who_medee
 Eh bien ! Tu vois le prix que me gardait Jason ?
 L'ingrat couronne enfin sa noire trahison.
 Il épouse Créüse, et la pompe s'apprête ;
 Tout m'annonce ma mort. Mais à quand cette fête ?
 
--*who_rhodope
-Madame, cet hymen se célèbre demain.
-
--*who_medee
 Demain ! Le temps est court, et le terme prochain ;
 Il faut en profiter.
 
--*who_rhodope
-      Quel funeste hyménée !
-Hélas ! À quels malheurs êtes-vous condamnée ?
-
--*who_medee
 Ah ! Rien n'est comparable aux horreurs de mon sort.
 Rhodope, qui l'eût cru ? Jason jure ma mort.
 Au plus honteux destin son mépris me ravale :
@@ -407,12 +70,6 @@ Proscrite, fugitive, odieuse, exilée ;
 Et seule à la merci d'un monde d'ennemis,
 Que m'ont fait les forfaits que pour lui j'ai commis.
 
--*who_rhodope
-Trop indigne de vous après sa lâche injure,
-Oubliez un ingrat, dédaignez un parjure.
-D'un généreux orgueil vous armant en ce jour ...
-
--*who_medee
 Eh ! Puis-je triompher de mon fatal amour ?
 Malheureuse ! Tout cède à mon art redoutable.
 La nature se trouble à ma voix formidable.
@@ -427,19 +84,10 @@ Pour lui j'immolerais mon repos et ma vie.
 D'un tyrannique amour, trop barbare rigueur,
 Cesse pour un ingrat de déchirer mon coeur !
 
--*who_rhodope
-En ce funeste état, que vous êtes à plaindre !
-
--*who_medee
 Il est vrai, je le suis ; mais plus encore à craindre.
 On n'offensa jamais Médée impunément.
 Mais, que dit ma rivale ? Et que fait son amant ?
 
--*who_rhodope
-Ah ! Madame, il soupire aux pieds de la Princesse,
-Et n'est plus occupé que du feu qui le presse.
-
--*who_medee
 Ton sang va me venger, lâche et perfide époux !
 Tu mourras ... Quelle horreur vient glacer mon courroux ?
 Et depuis quand Médée est-elle si timide ?
@@ -463,46 +111,11 @@ Et ne connaît de droit que l'injure et la force.
 Qu'il périsse et sa sa race. Accablons son orgueil ;
 Mettons son insolence et sa gloire au cercueil.
 
--*who_rhodope
-Ah ! Modérez, de grâce une douleur si forte.
-Étouffez, ou cachez l'ardeur qui vous emporte.
-J'entends du bruit. On vient. Domptez ce fier courroux,
-Madame ; c'est Créon qui s'avance vers Vous.
-
-**** *book_ *id_II03 *act_II *date_1694
-
--*who_creon
-Jason avec ma fille unit sa destinée.
-Vous entendez déjà chanter leur hyménée.
-Madame, à ce divorce, il faut vous préparer.
-De Jason et de nous il faut vous séparer.
-Leur bonheur ne ferait qu'aigrir votre infortune ;
-Fuyez ces lieux ; fuyez une pompe importune ;
-Obéissez au sort, et, quittant mes États,
-Cherchez un sûr asile en de nouveaux climats.
-Acaste le demande, et Corinthe m'en presse ;
-À ce prix, entre nous, la guerre affreuse cesse ;
-Votre exil est le sceau d'une éternelle paix.
-En vain m'opposerais-je aux voeux de mes sujets.
-Leur haine contre vous chaque jour s'envenime.
-Malgré tout mon pouvoir vous seriez leur victime.
-Quel joug ne brise point un peuple audacieux ?
-Quel frein arrêterait ce monstre furieux ?
-À ses cruels transports dérobez votre tête,
-Et par un prompt exil prévenez la tempête.
-Le sort, la paix, vos jours, tout semble y conspirer.
-J'ai voulu vous l'apprendre et vous y préparer.
-
--*who_medee
 Qu'à ces rares bontés j'ai de grâces à rendre !
 Vous m'ôtez mon époux, vous le prenez pour gendre,
 Vous me chassez enfin. Dites-moi seulement
 Quel attentat m'attire un si doux traitement ?
 
--*who_creon
-Quoi ! Médée est surprise et demande ses crimes !
-
--*who_medee
 A-t-on, pour m'opprimer, quelques droits légitimes ?
 Un Tyran, par la force, agit dans ses États ;
 Un Roi juste, au coupable apprend ses attentats.
@@ -543,12 +156,6 @@ Vous jouissez du reste, et par mon assistance.
 Pour les avoir sauvés, je ne demande rien.
 Je vous les laisse tous ; mais laissez-moi mon bien.
 
--*who_creon
-Ainsi donc, à louer, Médée est innocente.
-On devrait consacrer sa vertu bienfaisante.
-La Grèce ...
-
--*who_medee
       Me doit tout, et ne saurait jamais
 D'un assez digne prix couronner mes bienfaits.
 Toutefois que sert-il d'affecter un faux zèle ?
@@ -558,46 +165,16 @@ Si l'on veut m'exiler et me manquer de foi,
 De quel droit osez-vous séparer nos fortunes ?
 Même sort nous est dû ; nos causes sont communes.
 
--*who_creon
-Ah ! De grâce, avec vous ne le confondez pas ;
-Jason est innocent de tous vos attentats.
-
--*who_medee
 Non ; il est criminel, ce Héros magnanime.
 En tirer tout le fruit, c'est commettre le crime.
 Tyrannique pouvoir qui cherche à m'offenser ...
 
--*who_creon
-Ma patience enfin commence à se lasser,
-Et pourrait ...
-
--*who_medee
       Ah ! Tyran ! La mienne est déjà lasse.
 Va, je ne veux de toi ni clémence ni grâce.
 Ordonne mon exil, ravis-moi mon époux :
 Tu le peux ; mais, Tyran ! Redoute mon courroux.
 Crains ...
 
--*who_creon
-      Ah ! C'est trop longtemps contraindre ma colère.
-Va, sors de mes États ; sors, barbare étrangère.
-Abandonne Corinthe, et cours en d'autres lieux
-Porter tes attentats et le courroux des Dieux".
-D'un monstre tel que toi délivre mon empire,
-Cesse d'infecter l'air qu'en ces lieux on respire ;
-De ton horrible aspect ne souille plus mes yeux,
-Et n'empoisonne plus la lumière des Cieux.
-Va semer à Colchos l'horreur et l'épouvante :
-Vas y hâter des Dieux la justice trop lente.
-Demain, dès que l'aurore allumera le jour,
-Précipite tes pas ; fuis loin, fuis sans retour" ;
-Ou, contentant les Dieux las de tes injustices,
-Tu périras, barbare ! Au milieu des supplices.
-Tu peux choisir. Adieu.
-
-**** *book_ *id_II04 *act_II *date_1694
-
--*who_medee
       Tyran, n'en doute pas ;
 Mon choix est fait. Demain je sors de tes États.
 Mais, malgré ton orgueil, je veux fuir avec gloire !
@@ -607,10 +184,6 @@ Et voir Corinthe en cendre, avant que d'en sortir.
 Mais, Rhodope, l'ingrat que j'aime et qui m'offense,
 A-t-il pu consentir ?...
 
--*who_rhodope
-      Je le vois qui s'avance.
-
--*who_medee
 Ô toi ! Qui vois mon trouble et causes ma douleur,
 Amour ! Daigne amollir l'ingrat en ma faveur ;
 Remets-le dans mes fers , efface son injure ;
@@ -618,9 +191,6 @@ Rends-moi, Dieu tout-puissant ! Le coeur de ce parjure :
 Tout mon art n'y peut rien : seul tu peux le fléchir.
 Prête un charme à mes pleurs, qui puisse l'attendrir.
 
-**** *book_ *id_II05 *act_II *date_1694
-
--*who_medee
 Enfin, c'en est donc fait, mon époux m'abandonne.
 Il consent qu'on m'exile, ou plutôt il l'ordonne.
 L'exil, vous le savez, n'est pas nouveau pour moi.
@@ -646,17 +216,6 @@ Pour suivre d'un banni la fortune incertaine.
 Vous le savez, Jason ; pour vous j'ai tout quitté.
 Est-ce donc là le prix que j'avais mérité ?
 
--*who_jason
-Ne me reprochez point un malheur nécessaire,
-Où des Dieux, contre nous, me réduit la colère.
-Je partage vos maux, je ressens vos douleurs,
-Sans pouvoir qu'à ce prix détourner nos malheurs.
-Votre perte, autrement, devient inévitable
-Vos périls, nos enfants, le destin qui m'accable,
-Les bontés de Créüse et les bienfaits du Roi,
-Me font ...
-
--*who_medee
       Oses-tu bien en parler devant moi,
 Ingrat ? Quel vain détour ! Quelle odieuse excuse !
 Les bienfaits de Créon, les bontés de Créüse !
@@ -685,15 +244,6 @@ J'immolai ton Tyran, je rajeunis Æson :
 Ta vie est un tissu des bienfaits de Médée.
 Créüse, ingrat ! Peut-elle en effacer l'idée ?
 
--*who_jason
-Jusques dans le tombeau, rempli de vos bienfaits,
-Jason en gardera la mémoire à jamais.
-Dans le fond de mon coeur, si vos yeux pouvaient lire,
-Hélas vous plaindriez l'horreur qui le déchire.
-Mais, quand le sort conspire à vous faire périr,
-Que pouvais-je pour vous en ce péril ?
-
--*who_medee
       Mourir.
 Pour toi n'était-ce pas une gloire assez ample ?
 Je t'en aurais donné le courage et l'exemple ;
@@ -719,14 +269,6 @@ Sauve-moi, sauve-les, et plains leur destinée.
 Suivant dans leur exil leur mère infortunée,
 Quels maux ...
 
--*who_jason
-      Cesse pour eux de craindre un tel malheur.
-Moi, bannir mes enfants ! J'en mourrais de douleur.
-Ah ! D'un trésor si cher mon coeur est trop avare,
-Pour craindre que jamais le destin m'en sépare.
-Rien ne peut les ravir à mes embrassements.
-
--*who_medee
 Quoi ! Tu prétends aussi m'arracher mes enfants ?
 Tu prétends Me ravir le seul bien qui me reste ?
 Je ne jouirai pas de la douceur funeste
@@ -735,41 +277,17 @@ Et de si chères mains n'essuieront point mes pleurs ?
 Tu m'ôtes des objets que mon coeur idolâtre.
 Veux-tu les immoler, cruel ! À leur marâtre ?
 
--*who_jason
-Je veux leur faire un sort, leur assurer un rang,
-Qui les comble de gloire, et réponde à leur sang.
-Près du trône élevés à l'ombre de leur père,
-Ils trouveront ici plus d'un Dieu tutélaire.
-Créon fera pour eux plus qu'il ne m'a promis,
-Et les confondra même avec ses petits-fils.
-
--*who_medee
 Périr plutôt cent fois qu'essuyer cet outrage !
 Lâche ! Souiller mon sang par un vil assemblage !
 Voir les fils du Soleil sous le joug abattus,
 Avec ceux de Sisyphe unis et confondus !
 
--*who_jason
-Enfin, tel est pour eux ma tendresse infinie,
-Que vouloir m'en priver, c'est m'arracher la vie.
-Je ne puis les quitter, et l'amour paternel ...
-
--*who_medee
 Eh bien, n'en parlons plus ! Ôte-les moi, cruel !
 Mais crains mon désespoir, crains mon courroux funeste.
 Tu perds, me les ôtant, tout l'appui qui te reste.
 Leur vue et leurs soupirs suspendaient ma fureur ;
 Rien ne me parle plus, perfide ! En ta faveur.
 
--*who_jason
-Je croyais modérer la douleur qui vous presse.
-Cependant je l'aigris ; ma présence vous blesse.
-Le temps et la raison ouvrant enfin vos yeux,
-Vous me rendrez justice, en me connaissant mieux.
-
-**** *book_ *id_II06 *act_II *date_1694
-
--*who_medee
 Oui, je te la rendrai, cruel ! Je m'y prépare.
 Tu m'ôtes mes enfants, tu me ravis, Barbare,
 Le seul bien qui pouvait adoucir mon malheur.
@@ -777,158 +295,6 @@ Ah ! Je t'en punirai ; j'en jure ma douleur.
 Tremble, ingrat ! C'en est fait. Ma haine inexorable
 Te va rendre jaloux de mon sort déplorable.
 
-**** *book_ *id_III01 *act_III *date_1694
-
--*who_jason
-Madame, c'en est fait. Médée, après ce jour,
-Abandonne Corinthe, et quitte cette Cour.
-En menaces en vain elle ose se répandre.
-Dans un terme si court, que peut-elle entreprendre ?
-Et d'ailleurs pour ses fils tremblante dans son coeur,
-Des otages si chers retiennent sa fureur.
-Je fais même observer ses pas et sa colère ;
-Ainsi rien ne s'oppose à l'hymen que j'espère.
-Tout m'annonce un bonheur infaillible et prochain,
-Et les Dieux, de mon sort, seront jaloux demain.
-Que ce cruel délai me fait de violence ;
-Et que ce jour est long à mon impatience !
-J'accuse sa lenteur de moment en moment ;
-Elle irrite ma flamme et mon empressement.
-L'heureux Jason languit. Mais, ma belle Princesse,
-Partagez-vous du moins ma joie et ma tendresse ?
-Aimez-vous des transports dont vous causez l'ardeur ?
-Sentez-vous du plaisir à faire mon bonheur ?
-Vous ne me dites rien. Quelle raison secrète,
-Dans ces heureux moments vous peut rendre muette ?
-Une sombre langueur, que vous cachez en vain,
-De votre front troublé ternit l'éclat serein.
-Que vois-je ! À vos yeux même il échappe des larmes !
-D'où viennent vos frayeurs ? D'où naissent vos alarmes ?
-Ai-je pu, ma Princesse, offenser vos beaux yeux ?
-Qu'ai-je fait ? Qu'ai-je dit ? Et vous suis-je odieux ?
-
--*who_creuse
-Moi, vous haïr, Seigneur ! Quelle injustice extrême !
-Et ma bouche et mes yeux ont avoué que j'aime.
-Mon coeur suit mon devoir. Tous mes soins, tous mes voeux,
-N'aspirent qu'à vous plaire et qu'à vous rendre heureux.
-Mais de notre bonheur, je ne sais quelle crainte
-M'alarme malgré moi, tient ma joie en contrainte".
-N'a-t-on pas vu cent fois les Dieux mêmes jaloux,
-Traverser un bonheur pour des mortels trop doux ?
-Je plains même, je plains le destin de Médée,
-Et ce funeste amour dont elle est possédée.
-Daignent les justes Dieux, soulageant sa douleur,
-Ne pas faire sur nous retomber son malheur !
-Hélas ! Si quelque jour leur fatale colère
-Empoisonnait le cours d'un destin si prospère !
-
--*who_jason
-Ah ! Calmez ces frayeurs. Les Dieux, justes toujours,
-De vos prospérités feront durer le cours.
-
--*who_creuse
-Mais quand des Dieux, Seigneur, je n'aurais rien à craindre,
-De vous n'aurai-je pas quelque jour à me plaindre ?
-Vous me répondez d'eux ; répondez-moi de vous.
-Hélas ! Si vous brisiez un jour des noeuds si doux,
-Et si vous m'immoliez à quelque ardeur nouvelle,
-Que deviendrais-je, ô Ciel ! Dans ma douleur mortelle ?
-
--*who_jason
-Vous pleurez, ma Princesse, et vous pouvez penser
-Que jamais votre Amant puisse vous offenser ?
-Quel outrage cruel vous faites à ma flamme !
-Lisez-vous donc si mal dans mes yeux, dans mon âme ?
-Ah ! Rien ne peut jamais éteindre un feu si beau.
-On verra son ardeur durer jusqu'au tombeau.
-Que n'en puis-je exprimer toute la violence !
-Vos yeux ne sont-ils pas garants de ma constance ?
-
--*who_creuse
-Hypsipyle et Médée, objets de vos amours,
-Se sont laissés surprendre à de pareils discours ;
-Et de nouveaux objets votre âme possédée,
-A laissé cependant Hypsipyle et Médée.
-
--*who_jason
-Leur exemple inégal vous trouble sans raison,
-Madame ; bannissez un injuste soupçon.
-Hypsipyle et Médée, en prévenant mon âme,
-Avaient su m'engager à répondre à leur flamme.
-Touché de leurs bienfaits, sensible à leur amour,
-Mon coeur crut leur devoir quelques soins à son tour ;
-Et d'y répondre, au moins, ne pouvant me défendre,
-La crainte d'être ingrat me força de me rendre.
-Mais dès que je vous vis, un trouble impérieux
-Asservit tout mon coeur au pouvoir de vos yeux.
-D'une pressante ardeur l'extrême violence
-Surmonta ma raison, força ma résistance ;
-Et je sentis enfin que jusques à ce jour,
-Je n'avais pas connu le pouvoir de l'amour.
-Un si parfait amour bravera la mort même.
-J'en atteste des Dieux la puissance suprême.
-Puissent ces Dieux vengeurs, si je trahis ma foi,
-Épuiser leur courroux et leurs foudres sur moi !
-Si votre coeur m'aimait, il prendrait ma défense.
-Un véritable amour bannit la défiance.
-
--*who_creuse
-Un véritable amour est-il jamais sans soins ?
-Je ne craindrais pas tant, hélas, si j'aimais moins.
-
--*who_jason
-Si vous sentez mes feux, ah ! Sentez donc ma joie ;
-Et que dans vos transports votre amour se déploie.
-Si près de rendre heureux votre fidèle amant,
-Prenez part, s'il se peut, à son ravissement.
-
--*who_creuse
-Vous le voulez ; je cède, et ma tristesse change.
-Je ressens votre joie et pure et sans mélange.
-Oui, Jason, je me rends, et l'amour est vainqueur.
-Il comble tous mes voeux, m'assurant votre coeur.
-Adieu, je vais aux pieds des autels de ma mère,
-Implorer ardemment son secours tutélaire ;
-La presser d'augmenter nos fidèles ardeurs,
-Et de verser sur nous ses plus tendres faveurs.
-
-**** *book_ *id_III02 *act_III *date_1694
-
--*who_iphite
-Avec quel air charmant cette aimable princesse
-Répond à vos transports, et sent votre tendresse !
-Tout flatte votre espoir ; tout conspire à vos voeux,
-Et vous semblez toucher au sort le plus heureux.
-
--*who_jason
-Que je serais heureux, je le confesse, Iphite,
-Si je pouvais calmer un trouble qui m'irrite ;
-Et si, goûtant en paix un si parfait bonheur,
-J'étouffais à mon gré tout remords en mon coeur !
-Mais je ne puis bannir une importune idée.
-À mes yeux, malgré moi, partout s'offre Médée.
-Ce souvenir cruel m'afflige et me poursuit.
-Jusqu'aux pieds de Créüse il me trouble et me suit.
-Grands Dieux ! Quel sort fatal, quelle loi trop sévère
-Des plaisirs les plus grands rend la douceur amère ?
-Quel noir poison se mêle au sort le plus charmant ?
-Et ne saurait-on être heureux impunément ?
-Votre bonté jalouse avec caprice enchaîne
-Les biens et les tourments, les plaisirs et la peine.
-Au faîte du bonheur on pousse des soupirs,
-Et l'amertume naît dans le sein des plaisirs.
-Ah ! C'est trop. De mon sort soyons enfin le maître.
-Déjà je sens le calme en mon âme renaître.
-Déjà ... Je vois Médée. Ô Dieux ! Trop justes Dieux !
-Ne peut-on un moment se soustraire à vos yeux ?
-Quand je crois être heureux, soudain votre justice
-Confond tous mes projets et m'offre mon supplice.
-Que lui dire ? Fuyons.
-
-**** *book_ *id_III03 *act_III *date_1694
-
--*who_medee
       Seigneur, où fuyez-vous ?
 Je ne viens point, brûlant d'un injuste courroux,
 Vous accabler, sans fruit, de cris et de reproches.
@@ -952,17 +318,6 @@ Pardonnez à l'amour un crime involontaire ;
 Et, ne vous souvenant que d'un si tendre amour,
 Recevez mes adieux en ce funeste jour.
 
--*who_jason
-C'en est trop. Ah ! De grâce, épargnez-moi, Madame.
-Aimez moins un ingrat qui trahit votre flamme.
-N'offrez point à ses yeux cette tendre douleur.
-C'est augmenter mon trouble et déchirer mon coeur.
-C'est redoubler l'horreur du destin qui m'accable.
-Pour moi, votre fureur était moins redoutable.
-Reprenez votre haine et vos transports jaloux.
-Ah ! Je crains votre amour plus que votre courroux.
-
--*who_medee
 Ah ! Laissez-moi l'amour dont je suis possédée.
 C'est lui seul qui m'anime ; et la triste Médée
 Ne peut, tel est son sort, cesser de vous chérir.
@@ -982,14 +337,6 @@ Bientôt, au lieu de vous, m'ayant fermé les yeux,
 Ils reviendront, Seigneur, jouir de votre gloire
 Et vous conter la fin de ma funeste histoire.
 
--*who_jason
-Hélas ! Qu'exigez-vous ? Pourquoi me demander
-Le seul bien qu'à vos voeux je ne puis accorder ?
-Demandez-moi plutôt et mon sang et ma vie,
-Que la Parque sans eux m'aurait bientôt ravie ;
-Mais ne m'enlevez pas ces fruits de nos amours.
-
--*who_medee
 Eh bien ! Jouissez-en ; possédez-les toujours.
 Oui ; l'amour maternel, se faisant violence,
 Cède enfin à vos voeux, et s'impose silence.
@@ -1004,13 +351,6 @@ Vous fasse quelquefois souvenir de leur mère ;
 Et que, pour adoucir les maux que je prévoi,
 Le bruit, dans mon exil, en vienne jusqu'à moi.
 
--*who_jason
-Qu'avec joie à vos voeux j'accorde cette grâce
-Est-il rien que pour eux ma tendresse ne fasse ?
-Les grandeurs, les plaisirs vont les environner ;
-Et je ne me fais Roi que pour les couronner.
-
--*who_medee
 Seigneur, je pars contente après cette assurance.
 Mais de Créon tantôt j'ai bravé la clémence.
 Je tremble avec raison que ses ressentiments
@@ -1024,31 +364,10 @@ L'amour a fait mon crime, il fera mon excuse :
 C'est lui, c'est la douleur qui m'a fait égarer ;
 Et par un prompt exil je vais tout réparer.
 
--*who_jason
-Que vous connaissez mal Créon et sa clémence !
-Un si prompt repentir, désarmant sa vengeance,
-Sensible à vos malheurs, ses soins et ses bienfaits
-Adouciront vos maux, combleront mes souhaits.
-Je vais remplir vos voeux et calmer sa colère.
-
--*who_medee
 Peignez-lui bien, Seigneur, mon repentir sincère.
 Je veux dès ce soir même abandonner ces lieux.
 Pour la dernière fois recevez mes adieux.
 
--*who_jason
-Puisse le juste Ciel à mes voeux favorables,
-Vous accorder, Madame, un repos désirable !
-Jason à son destin, cédant avec regret,
-Nourrissant loin de vous un déplaisir secret,
-Gardera chèrement dans le fond de son âme,
-Le tendre souvenir d'une si belle flamme.
-L'absence ni le temps n'effaceront jamais
-De son coeur affligé, le prix de vos bienfaits.
-
-**** *book_ *id_III04 *act_III *date_1694
-
--*who_medee
 Va, quand tu le voudrais, il y va de ma gloire ;
 Je t'empêcherai bien d'en perdre la mémoire.
 Je sais, quand il me plaît, dans l'âme des ingrats,
@@ -1090,9 +409,6 @@ J'entends déjà leur voix qui m'anime et m'appelle.
 Terribles Dieux du Styx, je marche sur vos pas :
 Dans ce pressant besoin, ne m'abandonnez pas.
 
-**** *book_ *id_IV01 *act_IV *date_1694
-
--*who_medee
 Il est temps d'achever le charme et ma vengeance.
 Hécate, viens pour moi signaler ta puissance.
 Hécate, triple Hécate, exauce enfin mes voeux.
@@ -1116,9 +432,6 @@ Mes yeux percent la nuit du séjour ténébreux.
 Je vais me faire ouïr dans l'Empire des Mânes.
 Je vais les évoquer ... Loin d'ici, loin, profanes.
 
-**** *book_ *id_IV02 *act_IV *date_1694
-
--*who_medee
 Ministres rigoureux de mon courroux fatal,
 Redoutables Tyrans de l'Empire infernal,
 Dieux ! Ô terribles Dieux du trépas et des ombres ;
@@ -1175,9 +488,6 @@ Nuit, Styx, Hécate, Enfers, terribles Déités
 J'ordonne. Obéissez, sourdes Divinités !...
 Le charme a réussi, poursuivons ma vengeance.
 
-**** *book_ *id_IV03 *act_IV *date_1694
-
--*who_medee
 Viens, Rhodope ; mon art ne craint plus ta présence.
 Le charme est consommé. C'en est fait, et jamais
 Un espoir plus certain ne flatta mes souhaits.
@@ -1190,9 +500,6 @@ Et, feignant d'obéir au Tyran qui m'offense,
 Leur cacher mes desseins, afin qu'ils trompent mieux
 De leurs maux et des miens les auteurs odieux.
 
-**** *book_ *id_IV04 *act_IV *date_1694
-
--*who_medee
 Enfin, de mes Tyrans je vais punir les crimes.
 Il ne me reste plus qu'à parer mes victimes.
 Le sacrifice est prêt. L'heure approche ; et mon coeur
@@ -1204,9 +511,6 @@ Mes plus chers intérêts à toi seul sont remis.
 Que j'aime en ce moment l'éclat qui t'environne !
 Ah ! Seul tu me tiens lieu d'Empire et de couronne.
 
-**** *book_ *id_IV05 *act_IV *date_1694
-
--*who_medee
 Approchez, approchez, jeunes infortunés.
 Qu'aux maux presqu'en naissant le Ciel a condamnés.
 On va nous séparer, par une loi sévère.
@@ -1250,9 +554,6 @@ Rhodope ; conduis-les : fais ce que je souhaite ;
 Et reviens avec eux m'informer promptement,
 Comme on aura reçu ce fatal vêtement.
 
-**** *book_ *id_IV06 *act_IV *date_1694
-
--*who_medee
 Tout succède à mes voeux , et mon dessein s'avance.
 Ne m'abandonnez pas, remplissez ma vengeance,
 Dieux, redoutables Dieux ! Qu'avec ardeur je sers,
@@ -1274,32 +575,8 @@ Quel horrible attentat offrez-vous à ma rage ?
 Moi-même je frémis à cet objet affreux.
 Ce crime m'épouvante et surpasse mes voeux.
 
-**** *book_ *id_IV07 *act_IV *date_1694
-
--*who_rhodope
-Votre présent, Madame, a charmé la Princesse.
-Ne pouvant se lasser d'en vanter la richesse,
-Dès ce soir, sans soupçon, elle s'en veut parer.
-Créon même, Créon s'empresse à l'admirer.
-Jason et vos présents les assurent, Madame,
-Que la raison éteint la colère en votre âme ;
-Que pour vous, pour vos fils, vous faisant un effort,
-Vous cédez, par devoir, à la rigueur du sort.
-Enfin, tous deux comblant vos enfants de caresses,
-Ont témoigné pour eux les dernières tendresses ...
-Que vois-je ! Vous pleurez. Si près de vous venger,
-Quel trouble vous saisit et vient vous affliger ?
-
--*who_medee
 Hélas !
 
--*who_rhodope
-      Vous gémissez ; d'où naissent ces alarmes ?
-Attachant sur vos fils vos yeux baignés de larmes,
-Vous frémissez, Madame ; et changeant de couleur
-Vous détournez soudain la vue avec horreur.
-
--*who_medee
 Quelque vive douceur qu'ait pour moi la vengeance,
 Un trouble violent en secret la balance.
 Je pleure avec raison ces enfants malheureux.
@@ -1337,13 +614,6 @@ En vain je me flattais d'élever votre enfance ;
 Il nous est interdit de nous voir désormais ;
 Ô mes fils ! Il nous faut séparer pour jamais.
 
--*who_rhodope
-Épuisez vos transports, Madame. La Princesse,
-Pour un temps assez court, s'en prive et vous les laisse.
-Elle leur a prescrit de venir en ces lieux
-Recevoir promptement vos pleurs et vos adieux.
-
--*who_medee
 L'orgueilleuse déjà leur commande et m'outrage !
 Ô ma lente douleur ! Ô mon faible courage !
 À quels affronts cruels, à quel sort odieux,
@@ -1356,14 +626,6 @@ Non, pour finir leurs maux, il n'est plus d'autre voie.
 Un moment de douleur va me combler de joie.
 Frappons ... Frappons ...
 
--*who_premierenfant
-      Ah ! Dieux ! Ma mère, qu'avez-vous ?
-
--*who_secondenfant
-Pourquoi nous menacer, et d'où vient ce courroux ?
-Je tremble...
-
--*who_medee
       Je frémis. Leurs regards et leurs larmes
 Me troublent, et de mes mains me font tomber les armes.
 Ô mon sang ! Ô mes fils, si chers à mes désirs !
@@ -1377,9 +639,6 @@ Leur vue accroît mon trouble, et redouble ma peine.
 Qu'ils me coûtent de pleurs ! Qu'ils me sont chers ! Hélas !
 Mon lâche amours mes pleurs, ne les soulagent pas.
 
-**** *book_ *id_IV08 *act_IV *date_1694
-
--*who_medee
 Tu les aimes, cruelle ! Et tu les laisses vivre !
 Aux malheurs les plus grands ta faiblesse les livre ;
 Et ta pitié barbare, en respectant leurs jours,
@@ -1407,9 +666,724 @@ Cessez par vos combats de déchirer mon coeur !
 Pour le percer, ce coeur, trop de rigueur s'assemble.
 Le temps fuit ; le mal presse. Accordez-vous ensemble.
 
-**** *book_ *id_V01 *act_V *date_1694
+Que je fuie ! Ah ! Rhodope, au comble de la gloire,
+Quand sur mes ennemis j'emporte la victoire,
+Que je fuie ! Ah ! Le sort m'eût-il réduite à fuir,
+D'un spectacle si beau je reviendrais jouir ;
+Je viendrais assister à ce grand hyménée.
+Laisse-moi contempler sa pompe fortunée ;
+Et d'un objet si doux, d'un coup si glorieux,
+Repaître avidement mes regards curieux.
+Mes odieux Tyrans deviennent mes victimes !
+Ah ! Je cueille en ce jour le fruit de tous mes crimes.
+Mon courroux triomphant ne peut trop s'applaudir ;
+Et mon nom, désormais, ne saurait plus périr...
+Ce n'est pas tout. Rentrons ; et, perdant l'innocence
+Couronnons ce grand jour, et comblons ma vengeance.
 
--*who_rhodope
+Tu n'iras pas si loin pour me trouver, perfide !
+C'est Médée. Oui ; c'est elle.
+
+      Arrête, ingrat ! Et connais mon pouvoir.
+
+Juge, si c'est à moi de craindre ta vengeance.
+Un sort comme le mien n'est pas en ta puissance ;
+Magnanime Héros, ne songe plus à moi ;
+Trop indigne aussi bien d'un époux tel que toi.
+Laisse une infortunée, oublie une étrangère,
+Sans appui, sans couronne, errante et solitaire.
+Un hymen plein d'appas, un trône glorieux
+T'attendent en ce jour dans ces superbes lieux.
+Est-il temps de rester auprès d'une jalouse !
+Va soupirer aux pieds de ta nouvelle épouse.
+Vante-lui ton ardeur, assure-lui ta foi :
+Tu lui voles le temps que tu perds avec moi.
+Dois-tu pas à son sort unir ta destinée ?
+Hâte-toi de conclure un si doux hyménée,
+Le sacrifice est prêt, et le Temple est orné ;
+On n'attend plus que toi. Cours, époux fortuné.
+
+Oui, Jason, à Créüse il faut quelque victime ;
+Et mon sang répandu doit effacer mon crime.
+Sois content. J'ai versé le plus pur de ce sang.
+
+      À tes deux fils j'ai su percer le flanc.
+Regarde ce poignard et cette main sanglante ;
+C'est de mon sang, du tien qu'elle est teinte et fumante.
+Mon bras, pour dernier coup, vient de les égorger.
+Crois-moi, sans t'occuper du soin de te venger,
+Si déjà ton ardeur languit pour la Princesse ;
+Si tu fuis, inconstant, ta nouvelle maîtresse ;
+Cours, du moins, père heureux, à tes fils expirants :
+Rends-leur les derniers soins, embrasse-les mourants.
+
+      En est-ce assez, et connais-tu Médée ?
+De son affreux pouvoir garderas-tu l'idée ?
+Oublieras-tu sa haine, ainsi que son amour ?
+
+Ils étaient nés de toi, demandes-tu leurs crimes ?
+Ma trop juste fureur a dû les en punir.
+J'ai dû finir leurs maux, j'ai dû les prévenir ;
+Te délivrer du joug que ton esprit abhorre ;
+Rompre ces derniers noeuds qui nous serraient encore,
+Et, pour mieux t'oublier, effacer, sans retour,
+Jusqu'aux traces, ingrat, de notre affreux amour
+Ce n'est pas sans remords que je m'y suis forcée.
+Tu m'en as inspiré l'audace et la pensée ;
+Tu m'as seul enhardie à ce cruel dessein,
+Infidèle ! Et c'est toi qui leur perce le sein.
+
+Vengeurs des trahisons, ennemis des ingrats,
+Les Dieux, pour t'accabler, ont employé mon bras ;
+La foudre était trop peu pour punir ton offense.
+J'ai servi leur justice, et rempli leur vengeance.
+C'en est fait. Pour repaître et mes yeux et mon coeur,
+Moi-même j'ai voulu jouir de ta douleur.
+Un spectacle si doux met le comble à ma gloire :
+Je savoure à longs traits ta peine et ma victoire
+Et je recouvre enfin, ma gloire, mon repos,
+Mon Sceptre, mes parents, la Toison et Colchos.
+Je pars ; puisque ma fuite a pour toi tant de charme,
+Lève encor jusqu'à moi tes yeux chargés de larmes.
+Ingrat. Vois ces Dragons qui soumis à ma loi,
+Et plus reconnaissants, plus fidèles que toi,
+Par des chemins nouveaux vont guider leur maîtresse.
+Tes voeux sont satisfaits, pour jamais je te laisse.
+Adieu ; je t'abandonne aux horreurs de ton sort.
+Ingrat ! Je te hais trop, pour te donner la mort.
+
+
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+
+Je sais ce que je dois à l'amour de Médée.
+Cesse, Iphite, à mes yeux d'en retracer l'idée.
+Ce qu'elle a fait pour moi, dans la Grèce, à Colchos,
+Ne traverse que trop ma joie et mon repos ;
+Mais du sort, de l'amour, la fatale puissance
+Fait taire mes remords et ma reconnaissance ;
+Et de ces deux tyrans les violentes lois
+Ne laissent ni l'amour, ni la haine à mon choix.
+Oui, de leur joug pressant l'invincible contrainte
+Fixe enfin mes destins et mes voeux à Corinthe.
+En vain Médée, en proie à ses transports jaloux,
+Se livre à la douleur, s'abandonne au courroux :
+Je la plains ; mais, ami, j'adore la Princesse.
+Du destin de Jason souveraine maîtresse,
+Elle asservit mon âme à son pouvoir vainqueur :
+L'éclat de ses beaux yeux triomphe de mon coeur ;
+Et ce coeur embrasé d'une ardeur violente,
+Ne saurait s'affranchir du charme qui l'enchante.
+
+Non, la raison ici, d'accord avec mon coeur,
+Autorise ma flamme et soutient mon ardeur.
+Exilés, fugitifs, le trépas de Pélie
+Soulève contre nous toute la Thessalie.
+Ce tyran, de mon trône injuste usurpateur,
+De ses crimes enfin a lavé la noirceur.
+Tu sais comme Médée, ardente à la vengeance,
+Sur le flatteur appas d'une vaine espérance,
+De ses propres enfants en a fait ses bourreaux.
+Ses filles, à l'envi, le mirent par morceaux ;
+Et leur crédule amour armant leur bras timide,
+Commit par pitié cet affreux parricide.
+Son fils Acaste, armant, pour venger son trépas,
+J'obéis au destin, je quittai ses États ;
+Et Créon seul osant plaindre notre disgrâce,
+Lorsque d'un fier Tyran la haine nous menace,
+M'a reçu dans son sein, moi, Médée et mes fils,
+D'une triste maison infortunés débris.
+Seul, il pouvait me tendre une main salutaire ;
+Et le Ciel de mon sort le rend dépositaire.
+En vain je chercherais en de nouveaux climats,
+L'asile et le repos qu'il m'offre en ses États.
+Pour moi son amour brille et son estime éclate.
+Il me regarde en père ; il m'applaudit, me flatte.
+Cependant, trop instruit par mes malheurs divers,
+Toujours du sort jaloux je crains quelques revers.
+Mon ennemi demande et Médée, et ma tête :
+Irrité d'un refus, à la guerre il s'apprête.
+Créon m'aime, il est vrai : Créon est généreux ;
+Mais on porte à regret le poids des malheureux :
+Quelque noble penchant qui pousse à les défendre,
+Iphite, on craint de voir ses États mis en cendre,
+Ses peuples asservis, et son trône ébranlé.
+Souvent même Créon flotte et paraît troublé.
+D'ailleurs, trop prévenu d'une haine secrète,
+À Médée, à regret, il donne une retraite ;
+Et contr'elle avec peine il retient un courroux
+Qui pourrait retomber jusques sur son époux.
+Je dois donc, profitant d'un rayon favorable,
+M'assurer en Créon un appui ferme et stable ;
+Et, l'attachant à moi par le noeud le plus fort,
+Prévenir et fixer l'inconstance du sort.
+Pour sa fille, avec joie il voit briller ma flamme ;
+Elle règle ses voeux, et peut tout sur son âme :
+Créüse seule, enfin, peut m'assurer Créon...
+Eh bien ! L'amour, Iphite, aveugle-t-il Jason ?
+
+Qu'un tel secours est faible, et défend mal mon coeur,
+Iphite. Ah ! Quand l'amour règne avec violence,
+Que peut la faible voix de la reconnaissance ?
+Il est vrai que Médée a tout osé pour moi.
+Je m'accuse et rougis de ce que je lui dois.
+Mais, transporté d'amour en voyant ce que j'aime,
+J'oublie et mon devoir, et Médée, et moi-même ;
+Je m'enivre à longs traits d'un aimable poison :
+L'amour devient alors ma suprême raison ;
+Et d'un feu violent l'impérieuse flamme
+Étouffe tout le reste, et triomphe en mon âme.
+Je sens, je sens alors que mon trépas certain,
+Les bontés de Créon, le courroux du Destin,
+M'arrêtent moins ici que ne fait la Princesse ;
+Qu'animé du beau feu qui m'échauffe et me presse,
+Je mourrais, s'il fallait m'éloigner de ses yeux ;
+Et qu'enfin leur éclat m'enchante dans ces lieux.
+Ces beaux yeux plus puissants que Médée et ses charmes,
+Sitôt que je les vis, m'arrachèrent les armes.
+Et quel coeur soutiendrait leurs feux éblouissants,
+Leur éclat dangereux, leurs regards languissants ?
+Cette jeune pudeur sur son visage peinte,
+Et sur son front serein cette noblesse empreinte ;
+Cette douce fierté, cette aimable langueur ;
+Un je ne sais quel charme innocent et flatteur,
+Ce souris dont l'appât réveille la tendresse,
+Et ce maintien auguste, et cet air de Déesse ?
+Enfin, en la voyant, ébloui, transporté,
+Je crus voir, et je vis, une Divinité.
+
+D'écouter ma tendresse, et de tout entreprendre.
+L'amour se flatte, Iphite, et se croit tout permis.
+Que n'ose point un coeur à son pouvoir soumis ?
+Le Roi me veut pour gendre ; et ma belle Princesse
+Semble favoriser mes soins et ma tendresse :
+Il offre sa couronne et Créüse à mes voeux ;
+M'opposerais-je au sort qui veut me rendre heureux ?
+Je ne puis résister à ces douces amorces,
+Et n'ai point oublié comme on fait les divorces.
+N'abandonnai-je pas Hypsipile à Lemnos,
+Pour chercher la toison et voler à Colchos ?
+Et cependant, ami, cette grande conquête,
+Valait-elle le prix qu'ici l'amour m'apprête ?
+
+      Je le sais ; cesse de me le dire.
+Mais de l'amour aussi je sais quel est l'empire.
+Plus puissant est son art, plus fort que son courroux,
+De Médée en fureur il suspendra les coups.
+Elle m'aime, il suffit ; et sa tendresse extrême
+Parlera puissamment pour un ingrat qu'elle aime.
+Je saurai la fléchir ; je saurai l'apaiser
+Mais à tout son courroux dussai-je m'exposer,
+Je n'écoute et ne suis que l'ardeur qui me presse.
+
+      Ah ! Je vois ma Princesse.
+Considère, à loisir, contemple tant d'appas.
+Peut-on la voir, Iphite, et ne l'adorer pas ?
+Rien n'est à redouter, à fuir que sa colère.
+
+Je n'ai point vu le Roi, Madame ; mais mon coeur,
+Par de profonds respects, par l'amour le plus tendre,
+Ne pourra-t-il jamais mériter et prétendre
+Que vous daigniez aussi me chercher quelque jour ?
+Cet espoir n'est-il pas permis à mon amour ?
+Jamais, vous le savez, ardeur si violente
+Ne régna dans un coeur et n'en fut triomphante.
+Tout le jure à vos yeux : soins, voeux, empressements ;
+Mes remords immolés, mes transports, mes serments ;
+Et mes tendres respects, et mes ardents hommages,
+Vous sont, de cet amour, d'inviolables gages.
+Je sens un feu si vif s'accroître à chaque pas :
+Madame, à tant d'amour vous ne répondez pas ?
+
+      Ah ! Madame,
+Cessez, cessez de craindre un hymen odieux,
+Condamné par les Grecs, réprouvé par les Dieux ;
+Dès demain, dès ce jour, faut-il briser ses chaînes ?
+
+      Ah ! Dissipez une indigne frayeur.
+Quel outrage ! Ainsi donc jugez-vous de mon coeur ?
+Connaissez mieux ce coeur, Madame, et ma tendresse.
+Rien ne peut m'enlever à ma belle Princesse.
+Je défie, à la fois, les Mortels et les Dieux,
+Et tout l'art de Médée, et l'Enfer, et les Cieux.
+Si sa présence ici vous alarme et vous blesse,
+Il faut vous délivrer du soupçon qui vous presse.
+Un véritable amour éclate avec plaisir.
+Commandez seulement, je suis près d'obéir.
+Je donnerais mon sang, j'immolerais ma vie.
+Trop heureux que pour vous le sort me l'eût ravie !
+
+      Ah ! Seigneur, votre coeur magnanime
+Pourrait-il lui livrer une triste victime ?
+Pourrait-il ...
+
+Je cède à vos raisons ; j'obéis. Mais, Seigneur,
+Daignez par vos bontés adoucir ses malheurs ,
+Par tout ce qui pourra rendre son sort moins rude,
+Consolez ses ennuis, flattez sa solitude.
+
+Ne me reprochez point un malheur nécessaire,
+Où des Dieux, contre nous, me réduit la colère.
+Je partage vos maux, je ressens vos douleurs,
+Sans pouvoir qu'à ce prix détourner nos malheurs.
+Votre perte, autrement, devient inévitable
+Vos périls, nos enfants, le destin qui m'accable,
+Les bontés de Créüse et les bienfaits du Roi,
+Me font ...
+
+Jusques dans le tombeau, rempli de vos bienfaits,
+Jason en gardera la mémoire à jamais.
+Dans le fond de mon coeur, si vos yeux pouvaient lire,
+Hélas vous plaindriez l'horreur qui le déchire.
+Mais, quand le sort conspire à vous faire périr,
+Que pouvais-je pour vous en ce péril ?
+
+      Cesse pour eux de craindre un tel malheur.
+Moi, bannir mes enfants ! J'en mourrais de douleur.
+Ah ! D'un trésor si cher mon coeur est trop avare,
+Pour craindre que jamais le destin m'en sépare.
+Rien ne peut les ravir à mes embrassements.
+
+Je veux leur faire un sort, leur assurer un rang,
+Qui les comble de gloire, et réponde à leur sang.
+Près du trône élevés à l'ombre de leur père,
+Ils trouveront ici plus d'un Dieu tutélaire.
+Créon fera pour eux plus qu'il ne m'a promis,
+Et les confondra même avec ses petits-fils.
+
+Enfin, tel est pour eux ma tendresse infinie,
+Que vouloir m'en priver, c'est m'arracher la vie.
+Je ne puis les quitter, et l'amour paternel ...
+
+Je croyais modérer la douleur qui vous presse.
+Cependant je l'aigris ; ma présence vous blesse.
+Le temps et la raison ouvrant enfin vos yeux,
+Vous me rendrez justice, en me connaissant mieux.
+
+Madame, c'en est fait. Médée, après ce jour,
+Abandonne Corinthe, et quitte cette Cour.
+En menaces en vain elle ose se répandre.
+Dans un terme si court, que peut-elle entreprendre ?
+Et d'ailleurs pour ses fils tremblante dans son coeur,
+Des otages si chers retiennent sa fureur.
+Je fais même observer ses pas et sa colère ;
+Ainsi rien ne s'oppose à l'hymen que j'espère.
+Tout m'annonce un bonheur infaillible et prochain,
+Et les Dieux, de mon sort, seront jaloux demain.
+Que ce cruel délai me fait de violence ;
+Et que ce jour est long à mon impatience !
+J'accuse sa lenteur de moment en moment ;
+Elle irrite ma flamme et mon empressement.
+L'heureux Jason languit. Mais, ma belle Princesse,
+Partagez-vous du moins ma joie et ma tendresse ?
+Aimez-vous des transports dont vous causez l'ardeur ?
+Sentez-vous du plaisir à faire mon bonheur ?
+Vous ne me dites rien. Quelle raison secrète,
+Dans ces heureux moments vous peut rendre muette ?
+Une sombre langueur, que vous cachez en vain,
+De votre front troublé ternit l'éclat serein.
+Que vois-je ! À vos yeux même il échappe des larmes !
+D'où viennent vos frayeurs ? D'où naissent vos alarmes ?
+Ai-je pu, ma Princesse, offenser vos beaux yeux ?
+Qu'ai-je fait ? Qu'ai-je dit ? Et vous suis-je odieux ?
+
+Ah ! Calmez ces frayeurs. Les Dieux, justes toujours,
+De vos prospérités feront durer le cours.
+
+Vous pleurez, ma Princesse, et vous pouvez penser
+Que jamais votre Amant puisse vous offenser ?
+Quel outrage cruel vous faites à ma flamme !
+Lisez-vous donc si mal dans mes yeux, dans mon âme ?
+Ah ! Rien ne peut jamais éteindre un feu si beau.
+On verra son ardeur durer jusqu'au tombeau.
+Que n'en puis-je exprimer toute la violence !
+Vos yeux ne sont-ils pas garants de ma constance ?
+
+Leur exemple inégal vous trouble sans raison,
+Madame ; bannissez un injuste soupçon.
+Hypsipyle et Médée, en prévenant mon âme,
+Avaient su m'engager à répondre à leur flamme.
+Touché de leurs bienfaits, sensible à leur amour,
+Mon coeur crut leur devoir quelques soins à son tour ;
+Et d'y répondre, au moins, ne pouvant me défendre,
+La crainte d'être ingrat me força de me rendre.
+Mais dès que je vous vis, un trouble impérieux
+Asservit tout mon coeur au pouvoir de vos yeux.
+D'une pressante ardeur l'extrême violence
+Surmonta ma raison, força ma résistance ;
+Et je sentis enfin que jusques à ce jour,
+Je n'avais pas connu le pouvoir de l'amour.
+Un si parfait amour bravera la mort même.
+J'en atteste des Dieux la puissance suprême.
+Puissent ces Dieux vengeurs, si je trahis ma foi,
+Épuiser leur courroux et leurs foudres sur moi !
+Si votre coeur m'aimait, il prendrait ma défense.
+Un véritable amour bannit la défiance.
+
+Si vous sentez mes feux, ah ! Sentez donc ma joie ;
+Et que dans vos transports votre amour se déploie.
+Si près de rendre heureux votre fidèle amant,
+Prenez part, s'il se peut, à son ravissement.
+
+Que je serais heureux, je le confesse, Iphite,
+Si je pouvais calmer un trouble qui m'irrite ;
+Et si, goûtant en paix un si parfait bonheur,
+J'étouffais à mon gré tout remords en mon coeur !
+Mais je ne puis bannir une importune idée.
+À mes yeux, malgré moi, partout s'offre Médée.
+Ce souvenir cruel m'afflige et me poursuit.
+Jusqu'aux pieds de Créüse il me trouble et me suit.
+Grands Dieux ! Quel sort fatal, quelle loi trop sévère
+Des plaisirs les plus grands rend la douceur amère ?
+Quel noir poison se mêle au sort le plus charmant ?
+Et ne saurait-on être heureux impunément ?
+Votre bonté jalouse avec caprice enchaîne
+Les biens et les tourments, les plaisirs et la peine.
+Au faîte du bonheur on pousse des soupirs,
+Et l'amertume naît dans le sein des plaisirs.
+Ah ! C'est trop. De mon sort soyons enfin le maître.
+Déjà je sens le calme en mon âme renaître.
+Déjà ... Je vois Médée. Ô Dieux ! Trop justes Dieux !
+Ne peut-on un moment se soustraire à vos yeux ?
+Quand je crois être heureux, soudain votre justice
+Confond tous mes projets et m'offre mon supplice.
+Que lui dire ? Fuyons.
+
+C'en est trop. Ah ! De grâce, épargnez-moi, Madame.
+Aimez moins un ingrat qui trahit votre flamme.
+N'offrez point à ses yeux cette tendre douleur.
+C'est augmenter mon trouble et déchirer mon coeur.
+C'est redoubler l'horreur du destin qui m'accable.
+Pour moi, votre fureur était moins redoutable.
+Reprenez votre haine et vos transports jaloux.
+Ah ! Je crains votre amour plus que votre courroux.
+
+Hélas ! Qu'exigez-vous ? Pourquoi me demander
+Le seul bien qu'à vos voeux je ne puis accorder ?
+Demandez-moi plutôt et mon sang et ma vie,
+Que la Parque sans eux m'aurait bientôt ravie ;
+Mais ne m'enlevez pas ces fruits de nos amours.
+
+Qu'avec joie à vos voeux j'accorde cette grâce
+Est-il rien que pour eux ma tendresse ne fasse ?
+Les grandeurs, les plaisirs vont les environner ;
+Et je ne me fais Roi que pour les couronner.
+
+Que vous connaissez mal Créon et sa clémence !
+Un si prompt repentir, désarmant sa vengeance,
+Sensible à vos malheurs, ses soins et ses bienfaits
+Adouciront vos maux, combleront mes souhaits.
+Je vais remplir vos voeux et calmer sa colère.
+
+Puisse le juste Ciel à mes voeux favorables,
+Vous accorder, Madame, un repos désirable !
+Jason à son destin, cédant avec regret,
+Nourrissant loin de vous un déplaisir secret,
+Gardera chèrement dans le fond de son âme,
+Le tendre souvenir d'une si belle flamme.
+L'absence ni le temps n'effaceront jamais
+De son coeur affligé, le prix de vos bienfaits.
+
+En vain, pour la trouver, je cours de toutes parts.
+Ah ! Sans doute son art la cache à mes regards.
+Elle croit éviter le courroux qui m'enflamme.
+Mais qui l'en peut sauver ?
+
+      Ah ! Madame.
+Quel est mon désespoir ! Où portez-vous vos pas ?
+
+      Dieux ! Qu'entends-je ? Ah ! Madame,
+On peut éteindre encore une cruelle flamme.
+Les Dieux, les justes Dieux, pour vous s'intéressant,
+Prendront soin, par pitié, de vos jours innocents ;
+Et vous verrez Médée à vos pieds expirante,
+Y servir de victime à ma fureur sanglante.
+J'en atteste ces Dieux. J'en jure mon amour.
+
+Nous séparer ! Ô Dieux ! Ah ! Rigueur qui me tue.
+Nous séparer ! Quel coup pour mon âme éperdue !
+Ah ! Je souffre à la fois mille horribles tourments.
+Quoi ! Tous les Dieux sont sourds à mes gémissements !
+Je vous perds pour jamais ; en vain je les implore ;
+Et j'ai seul allumé ce feu qui vous dévore !
+Non, je ne verrai point un si cruel malheur ;
+Et, par un prompt trépas, j'en préviendrai l'horreur.
+
+      Destin impitoyable !
+Elle est morte ; et je vis ! Ô tourment effroyable !
+Ah ! Mon bras, au défaut de ma lente douleur,
+De ce supplice affreux doit m'épargner l'horreur
+Meurs, lâche ! Meurs enfin ... Mais ma douleur m'abuse.
+Je dois un sacrifice aux Mânes de Créüse
+Pour apaiser son ombre et ses ressentiments,
+Je veux livrer Médée aux plus cruels tourments ;
+Et mon âme aussitôt, sur le rivage sombre,
+De ce sang assouvie, ira trouver son ombre...
+La soif de te venger seule arrête mon bras.
+Belle ombre, attends ; j'y cours et vais suivre tes pas.
+Médée en vain me fuit ; en vain son art la cache.
+À ma juste fureur, il n'est rien qui l'arrache.
+Je suivrai la barbare au bout de l'univers,
+Et je la trouverai même au fond des enfers.
+Mon amour furieux me servira de guide.
+
+      Ah ! Crains mon désespoir,
+Barbare ...
+
+Quel prodige étonnant ! Dieux ! Ma fureur est vaine !
+Je me sens retenu par une étroite chaîne.
+Je demeure immobile, et malgré mes efforts,
+Le pouvoir de son art s'oppose à mes transports.
+
+Quoi ! La barbare encore et m'insulte et m'outrage !
+Faut-il que par son art elle brave ma rage ?
+Je ne puis l'immoler à ma juste fureur !
+Son sang apaiserait Créüse et ma douleur !
+
+Comment ?
+
+Ah ! Barbare !
+
+Monstre, à tes propres fils avoir ravi le jour !
+Pourquoi sacrifier d'innocentes victimes !
+
+Quoi ! Les Dieux irrités, pour te réduire en poudre,
+Sur ta tête, à mes yeux, ne lancent point la foudre ?
+
+Elle fuit ; et ce char, l'élevant dans les nues,
+Ouvre à sa cruauté des routes inconnues.
+La barbare à mes yeux disparaît pour jamais ;
+Elle brave ma haine après tant de forfaits ;
+Et m'enlève, enfuyant, malgré ma rage extrême,
+Beau-père, enfants, maîtresse, et ma vengeance même.
+Je ne la puis punir de tant de cruauté.
+Le Ciel offre un asile à son impiété.
+C'en est trop. Terminons ma vie et mon supplice.
+Je ne puis me venger ; il faut que je périsse.
+Trop malheureux objets de l'amour de Jason,
+Déplorable Créüse ! Infortuné Créon !
+Ô mes fils ! Jouissez de la seule vengeance
+Que les Dieux inhumains laissent en ma puissance.
+
+
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_creuse
+
+Je croyais, en ces lieux, trouver le Roi mon père.
+On vient de m'assurer qu'il vous cherche, Seigneur.
+
+Eh ! Le puis-je, Seigneur ? Une jeune Princesse
+Ne doit qu'à son époux déclarer sa tendresse.
+Il est vrai que le Roi, qui doit régler mes voeux,
+Estime vos vertus, applaudit à vos feux.
+Il m'a même ordonné d'écouter votre flamme.
+Si j'ose, après cela, vous découvrir mon âme,
+J'estime, ainsi que lui, cet illustre Jason,
+Qui surmonta Neptune et conquit la Toison ;
+De la gloire amoureux, prodigue de sa vie ;
+L'ornement de la Grèce, et l'effroi de l'Asie ;
+Le Chef de nos Guerriers, la fleur de nos Héros,
+Dont le nom est vanté de Corinthe à Colchos.
+Peut-être un doux penchant m'entraînerait sans peine,
+Mais un fatal obstacle et m'arrête et me gêne.
+Médée est votre épouse, et des noeuds si puissants
+Mettent un frein trop juste à mes voeux innocents.
+Pourrais-je, à ce penchant, abandonner mon âme,
+Tandis qu'un autre hymen vous attache ?...
+
+Mais qui m'assurera qu'insensible à ses peines,
+Vous puissiez soutenir sa vue et sa douleur,
+Sans lui rendre bientôt vos voeux et votre coeur ?
+Je crains un long penchant, sa tendresse, ses larmes ;
+Je redoute ses yeux, je redoute ses charmes :
+Son art est au-dessus de tout l'effort humain,
+Seigneur, et de votre âme elle sait le chemin.
+Tant que vous la verrez, que vous pourrez l'entendre,
+Je crains tout d'un amour et si long et si tendre.
+Je crains ...
+
+J'entends le Roi, Seigneur : il paraît à vos yeux.
+
+Moi, vous haïr, Seigneur ! Quelle injustice extrême !
+Et ma bouche et mes yeux ont avoué que j'aime.
+Mon coeur suit mon devoir. Tous mes soins, tous mes voeux,
+N'aspirent qu'à vous plaire et qu'à vous rendre heureux.
+Mais de notre bonheur, je ne sais quelle crainte
+M'alarme malgré moi, tient ma joie en contrainte".
+N'a-t-on pas vu cent fois les Dieux mêmes jaloux,
+Traverser un bonheur pour des mortels trop doux ?
+Je plains même, je plains le destin de Médée,
+Et ce funeste amour dont elle est possédée.
+Daignent les justes Dieux, soulageant sa douleur,
+Ne pas faire sur nous retomber son malheur !
+Hélas ! Si quelque jour leur fatale colère
+Empoisonnait le cours d'un destin si prospère !
+
+Mais quand des Dieux, Seigneur, je n'aurais rien à craindre,
+De vous n'aurai-je pas quelque jour à me plaindre ?
+Vous me répondez d'eux ; répondez-moi de vous.
+Hélas ! Si vous brisiez un jour des noeuds si doux,
+Et si vous m'immoliez à quelque ardeur nouvelle,
+Que deviendrais-je, ô Ciel ! Dans ma douleur mortelle ?
+
+Hypsipyle et Médée, objets de vos amours,
+Se sont laissés surprendre à de pareils discours ;
+Et de nouveaux objets votre âme possédée,
+A laissé cependant Hypsipyle et Médée.
+
+Un véritable amour est-il jamais sans soins ?
+Je ne craindrais pas tant, hélas, si j'aimais moins.
+
+Vous le voulez ; je cède, et ma tristesse change.
+Je ressens votre joie et pure et sans mélange.
+Oui, Jason, je me rends, et l'amour est vainqueur.
+Il comble tous mes voeux, m'assurant votre coeur.
+Adieu, je vais aux pieds des autels de ma mère,
+Implorer ardemment son secours tutélaire ;
+La presser d'augmenter nos fidèles ardeurs,
+Et de verser sur nous ses plus tendres faveurs.
+
+      Ah ! Seigneur !
+
+Ah ! Seigneur, le Roi vient de mourir dans mes bras.
+Ce dernier coup manquait au tourment qui m'accable.
+Jouet infortuné, du sort impitoyable,
+Prête enfin d'assouvir son rigoureux courroux,
+Je viens du moins, je viens mourir auprès de vous.
+Vous fermerez mes yeux.
+
+En vain vous prétendez me rappeler au jour.
+Médée à se venger est trop ingénieuse.
+Mon sang doit assouvir sa rage furieuse ;
+Et vos soins, votre amour, loin de me secourir,
+Irritent le poison dont je me sens mourir.
+Envieux du plaisir que m'offre votre vue,
+Son art hâte l'effet du charme qui me tue,
+Et l'amour seul, plus fort que ses enchantements,
+M'anime et me soutient encor quelques moments.
+Écoutez-moi, Seigneur. Mes maux, ni ma faiblesse
+Ne sauraient ralentir l'ardeur de ma tendresse.
+La mort même ne peut éteindre un feu si beau.
+Je l'emporte avec moi dans l'horreur du tombeau ;
+Mon amour y vivra. La Fortune jalouse
+N'a pu souffrir, Jason, de me voir votre épouse ;
+Mais la cruelle, au moins, me laisse la douceur,
+De mourir près de vous, possédant votre coeur.
+Je goûte en mes tourments cette douceur secrète.
+La vie et les grandeurs n'ont rien que je regrette.
+Unique et tendre objet de mes voeux les plus doux,
+Je ne plains, en mourant, ne regrette que vous.
+Trop heureuse, en effet, si, comblant mon attente,
+Les Dieux... Ah ! Quel tourment ! Quelle ardeur dévorante !
+Mon supplice s'accroît ; je me sens déchirer :
+Je brûle ... Adieu, Jason, il faut nous séparer.
+
+À trop de désespoir votre âme s'abandonne.
+Vivez, Jason, vivez. C'est moi qui vous l'ordonne.
+Ne me refusez pas, dans mon sort rigoureux,
+L'unique et dernier bien qui flatte encor mes voeux.
+Gardez le souvenir d'une triste Princesse.
+Conservez-lui, Jason, toute votre tendresse.
+Elle meurt votre épouse. À la face des Dieux,
+Recevez donc ma main et mes derniers adieux.
+Que ne puis-je employer ces vains restes de vie,
+À vous prouver l'amour dont mon âme est remplie ?
+Hélas ! On n'a jamais aimé si tendrement,
+Et jamais je n'aimai plus que dans ce moment.
+J'en atteste les Dieux. Mes forces s'affaiblissent :
+Ma voix, mon sang se glace, et mes yeux s'obscurcissent.
+Malgré le sort cruel qui va nous désunir,
+Mon coeur vous aime encore à son dernier soupir.
+
+
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphite
+
+De ce nouvel amour, la trompeuse douceur
+Séduit votre raison par son appât flatteur.
+Votre âme toute entière avidement s'y livre,
+Mais si, fuyant, Seigneur, le plaisir qui l'enivre,
+Vous vouliez repousser un dangereux poison ;
+Si vous daigniez encor consulter la raison,
+Vous banniriez bientôt Créuse de votre âme,
+Et vous étoufferiez une funeste flamme.
+
+C'est ainsi que l'amour, trop fertile en excuses,
+Aveugle par son charme, et séduit par ses ruses.
+Même en nous égarant, il feint de nous guider.
+De ses pièges flatteurs songez à vous garder.
+Eh quoi ! D'un autre amour votre âme possédée,
+Trahira, les bienfaits et l'espoir de Médée ?
+Ni les droits de l'hymen, ni sa fidèle ardeur.
+
+Mais quels sont vos projets ? Que pouvez-vous prétendre ?
+
+Dieux ! Que fera Médée, et quel affreux courroux
+Ne l'enflammera point contre un parjure époux ?
+Si vous l'abandonnez, redoutez sa vengeance.
+Vous savez de son art jusqu'où va la puissance.
+La nature est soumise à ses commandements :
+Elle trouble le Ciel, l'Enfer, les Éléments ;
+Elle arrête, à son gré, les Astres dans leur course.
+Les torrents les plus fiers remontent vers leur source.
+La Lune sort du Ciel, les Mânes des tombeaux :
+Elle lance la foudre, et change en sang les eaux.
+Vous savez. ...
+
+De grâce, examinez....
+
+Avec quel air charmant cette aimable princesse
+Répond à vos transports, et sent votre tendresse !
+Tout flatte votre espoir ; tout conspire à vos voeux,
+Et vous semblez toucher au sort le plus heureux.
+
+Ah ! Seigneur... Il n'est plus. Quels horribles malheurs,
+Ô trop funeste amour, produisent tes fureurs.
+
+
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
+
+Madame, cet hymen se célèbre demain.
+
+      Quel funeste hyménée !
+Hélas ! À quels malheurs êtes-vous condamnée ?
+
+Trop indigne de vous après sa lâche injure,
+Oubliez un ingrat, dédaignez un parjure.
+D'un généreux orgueil vous armant en ce jour ...
+
+En ce funeste état, que vous êtes à plaindre !
+
+Ah ! Madame, il soupire aux pieds de la Princesse,
+Et n'est plus occupé que du feu qui le presse.
+
+Ah ! Modérez, de grâce une douleur si forte.
+Étouffez, ou cachez l'ardeur qui vous emporte.
+J'entends du bruit. On vient. Domptez ce fier courroux,
+Madame ; c'est Créon qui s'avance vers Vous.
+
+      Je le vois qui s'avance.
+
+Votre présent, Madame, a charmé la Princesse.
+Ne pouvant se lasser d'en vanter la richesse,
+Dès ce soir, sans soupçon, elle s'en veut parer.
+Créon même, Créon s'empresse à l'admirer.
+Jason et vos présents les assurent, Madame,
+Que la raison éteint la colère en votre âme ;
+Que pour vous, pour vos fils, vous faisant un effort,
+Vous cédez, par devoir, à la rigueur du sort.
+Enfin, tous deux comblant vos enfants de caresses,
+Ont témoigné pour eux les dernières tendresses ...
+Que vois-je ! Vous pleurez. Si près de vous venger,
+Quel trouble vous saisit et vient vous affliger ?
+
+      Vous gémissez ; d'où naissent ces alarmes ?
+Attachant sur vos fils vos yeux baignés de larmes,
+Vous frémissez, Madame ; et changeant de couleur
+Vous détournez soudain la vue avec horreur.
+
+Épuisez vos transports, Madame. La Princesse,
+Pour un temps assez court, s'en prive et vous les laisse.
+Elle leur a prescrit de venir en ces lieux
+Recevoir promptement vos pleurs et vos adieux.
+
 Ah ! Madame, fuyez un peuple furieux.
 Fuyez, sans différer, de ces funestes lieux,
 Tandis qu'avec le trouble y règne l'épouvante.
@@ -1441,262 +1415,116 @@ Servez-vous des moments que ce trouble vous laisse.
 Profitez de l'horreur qui règne dans ces lieux,
 Et fuyez pour jamais leur aspect odieux.
 
--*who_medee
-Que je fuie ! Ah ! Rhodope, au comble de la gloire,
-Quand sur mes ennemis j'emporte la victoire,
-Que je fuie ! Ah ! Le sort m'eût-il réduite à fuir,
-D'un spectacle si beau je reviendrais jouir ;
-Je viendrais assister à ce grand hyménée.
-Laisse-moi contempler sa pompe fortunée ;
-Et d'un objet si doux, d'un coup si glorieux,
-Repaître avidement mes regards curieux.
-Mes odieux Tyrans deviennent mes victimes !
-Ah ! Je cueille en ce jour le fruit de tous mes crimes.
-Mon courroux triomphant ne peut trop s'applaudir ;
-Et mon nom, désormais, ne saurait plus périr...
-Ce n'est pas tout. Rentrons ; et, perdant l'innocence
-Couronnons ce grand jour, et comblons ma vengeance.
 
-**** *book_ *id_V02 *act_V *date_1694
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
 
--*who_jason
-En vain, pour la trouver, je cours de toutes parts.
-Ah ! Sans doute son art la cache à mes regards.
-Elle croit éviter le courroux qui m'enflamme.
-Mais qui l'en peut sauver ?
+Je vous cherchais, Seigneur. Savez-vous qu'en ces lieux
+Un nouvel envoyé du Roi de Thessalie
+Vient demander raison du meurtre de Pélie ?
+De mes refus, Acaste offensé justement,
+Veut bien suspendre encor son fier ressentiment,
+Et jurer avec nous une étroite alliance,
+Si je livre en ce jour Médée à sa vengeance ;
+Ou qu'au moins, la chassant du sein de mes États,
+Je refuse un asile à ses assassinats.
+Il me presse ...
 
-**** *book_ *id_V03 *act_V *date_1694
+      En faveur de vos fils et de vous,
+Je ne veux point livrer Médée à son courroux.
+Mais est-il juste, aussi, Jason, que de ses crimes,
+Mes sujets innocents deviennent les victimes ;
+Et que d'une étrangère appuyant les forfaits,
+De mes heureux États je trouble ainsi la paix ?
+Non ; il faut qu'elle parte, et qu'une prompte fuite
+Nous délivre des maux qu'elle traîne à sa suite :
+Je le veux. Cet exil est nécessaire à tous ;
+Pour Acaste, pour moi, pour ma fille, pour vous,
+Pour Médée elle même. Il faut purger Corinthe
+De ce funeste objet qui la glace de crainte.
+Il faut nous épargner ses cris et sa fureur.
+Je hais jusqu'à sa vue ; elle me fait horreur.
+Des songes effrayants, des présages sinistres,
+Des redoutables Dieux les augustes ministres,
+M'annoncent de leur part le plus affreux malheur,
+Si je ne l'abandonne à leur courroux vengeur.
+Rompez avec éclat le charme qui vous lie :
+Expiez un hymen qui tache votre vie.
+Assez et trop longtemps ces liens mal tissus
+Ternissent votre gloire et souillent vos vertus.
+Assez et trop longtemps, avec douleur, la Grèce
+Voit gémir, sous le joug de cette enchanteresse,
+Le plus grand des Héros qu'elle conçut jamais.
+Séparez vos vertus d'elle et de ses forfaits.
+Justifiez ainsi l'appui que je vous donne.
+Possédez à ce prix ma fille et ma couronne.
+Je veux que dès demain l'astre brillant du jour,
+Ait vu partir Médée en commençant son tour ;
+Et que Corinthe ainsi n'étant plus profanée,
+Il se prête avec joie à ce doux hyménée.
 
--*who_creuse
-      Ah ! Seigneur !
+Quoiqu'elle ait mérité des maux plus rigoureux,
+Je consens à remplir vos désirs généreux :
+Et pour mieux adoucir son déplaisir extrême,
+Je veux à cet exil la préparer moi-même.
+Mais allons publier cet hymen, ce départ ;
+Qu'au bonheur de leurs Rois nos sujets prennent part.
+Allons avec éclat annoncer à Corinthe
+La source de sa joie et la fin de sa crainte.
+Que des chants d'hyménée et d'aimables concerts
+Commencent cette fête et remplissent les airs.
+Que du Dieu de l'hymen les feux sacrés s'allument ;
+Qu'on pare les autels, et que les temples fument.
+Jason trouve une épouse enfin digne de lui.
+Daignent les justes Dieux, m'exauçant aujourd'hui,
+Marquer de leur faveur cette grande journée,
+Et la rendre à jamais célèbre et fortunée !
 
--*who_jason
-      Ah ! Madame.
-Quel est mon désespoir ! Où portez-vous vos pas ?
+Jason avec ma fille unit sa destinée.
+Vous entendez déjà chanter leur hyménée.
+Madame, à ce divorce, il faut vous préparer.
+De Jason et de nous il faut vous séparer.
+Leur bonheur ne ferait qu'aigrir votre infortune ;
+Fuyez ces lieux ; fuyez une pompe importune ;
+Obéissez au sort, et, quittant mes États,
+Cherchez un sûr asile en de nouveaux climats.
+Acaste le demande, et Corinthe m'en presse ;
+À ce prix, entre nous, la guerre affreuse cesse ;
+Votre exil est le sceau d'une éternelle paix.
+En vain m'opposerais-je aux voeux de mes sujets.
+Leur haine contre vous chaque jour s'envenime.
+Malgré tout mon pouvoir vous seriez leur victime.
+Quel joug ne brise point un peuple audacieux ?
+Quel frein arrêterait ce monstre furieux ?
+À ses cruels transports dérobez votre tête,
+Et par un prompt exil prévenez la tempête.
+Le sort, la paix, vos jours, tout semble y conspirer.
+J'ai voulu vous l'apprendre et vous y préparer.
 
--*who_creuse
-Ah ! Seigneur, le Roi vient de mourir dans mes bras.
-Ce dernier coup manquait au tourment qui m'accable.
-Jouet infortuné, du sort impitoyable,
-Prête enfin d'assouvir son rigoureux courroux,
-Je viens du moins, je viens mourir auprès de vous.
-Vous fermerez mes yeux.
+Quoi ! Médée est surprise et demande ses crimes !
 
--*who_jason
-      Dieux ! Qu'entends-je ? Ah ! Madame,
-On peut éteindre encore une cruelle flamme.
-Les Dieux, les justes Dieux, pour vous s'intéressant,
-Prendront soin, par pitié, de vos jours innocents ;
-Et vous verrez Médée à vos pieds expirante,
-Y servir de victime à ma fureur sanglante.
-J'en atteste ces Dieux. J'en jure mon amour.
+Ainsi donc, à louer, Médée est innocente.
+On devrait consacrer sa vertu bienfaisante.
+La Grèce ...
 
--*who_creuse
-En vain vous prétendez me rappeler au jour.
-Médée à se venger est trop ingénieuse.
-Mon sang doit assouvir sa rage furieuse ;
-Et vos soins, votre amour, loin de me secourir,
-Irritent le poison dont je me sens mourir.
-Envieux du plaisir que m'offre votre vue,
-Son art hâte l'effet du charme qui me tue,
-Et l'amour seul, plus fort que ses enchantements,
-M'anime et me soutient encor quelques moments.
-Écoutez-moi, Seigneur. Mes maux, ni ma faiblesse
-Ne sauraient ralentir l'ardeur de ma tendresse.
-La mort même ne peut éteindre un feu si beau.
-Je l'emporte avec moi dans l'horreur du tombeau ;
-Mon amour y vivra. La Fortune jalouse
-N'a pu souffrir, Jason, de me voir votre épouse ;
-Mais la cruelle, au moins, me laisse la douceur,
-De mourir près de vous, possédant votre coeur.
-Je goûte en mes tourments cette douceur secrète.
-La vie et les grandeurs n'ont rien que je regrette.
-Unique et tendre objet de mes voeux les plus doux,
-Je ne plains, en mourant, ne regrette que vous.
-Trop heureuse, en effet, si, comblant mon attente,
-Les Dieux... Ah ! Quel tourment ! Quelle ardeur dévorante !
-Mon supplice s'accroît ; je me sens déchirer :
-Je brûle ... Adieu, Jason, il faut nous séparer.
+Ah ! De grâce, avec vous ne le confondez pas ;
+Jason est innocent de tous vos attentats.
 
--*who_jason
-Nous séparer ! Ô Dieux ! Ah ! Rigueur qui me tue.
-Nous séparer ! Quel coup pour mon âme éperdue !
-Ah ! Je souffre à la fois mille horribles tourments.
-Quoi ! Tous les Dieux sont sourds à mes gémissements !
-Je vous perds pour jamais ; en vain je les implore ;
-Et j'ai seul allumé ce feu qui vous dévore !
-Non, je ne verrai point un si cruel malheur ;
-Et, par un prompt trépas, j'en préviendrai l'horreur.
+Ma patience enfin commence à se lasser,
+Et pourrait ...
 
--*who_creuse
-À trop de désespoir votre âme s'abandonne.
-Vivez, Jason, vivez. C'est moi qui vous l'ordonne.
-Ne me refusez pas, dans mon sort rigoureux,
-L'unique et dernier bien qui flatte encor mes voeux.
-Gardez le souvenir d'une triste Princesse.
-Conservez-lui, Jason, toute votre tendresse.
-Elle meurt votre épouse. À la face des Dieux,
-Recevez donc ma main et mes derniers adieux.
-Que ne puis-je employer ces vains restes de vie,
-À vous prouver l'amour dont mon âme est remplie ?
-Hélas ! On n'a jamais aimé si tendrement,
-Et jamais je n'aimai plus que dans ce moment.
-J'en atteste les Dieux. Mes forces s'affaiblissent :
-Ma voix, mon sang se glace, et mes yeux s'obscurcissent.
-Malgré le sort cruel qui va nous désunir,
-Mon coeur vous aime encore à son dernier soupir.
+      Ah ! C'est trop longtemps contraindre ma colère.
+Va, sors de mes États ; sors, barbare étrangère.
+Abandonne Corinthe, et cours en d'autres lieux
+Porter tes attentats et le courroux des Dieux".
+D'un monstre tel que toi délivre mon empire,
+Cesse d'infecter l'air qu'en ces lieux on respire ;
+De ton horrible aspect ne souille plus mes yeux,
+Et n'empoisonne plus la lumière des Cieux.
+Va semer à Colchos l'horreur et l'épouvante :
+Vas y hâter des Dieux la justice trop lente.
+Demain, dès que l'aurore allumera le jour,
+Précipite tes pas ; fuis loin, fuis sans retour" ;
+Ou, contentant les Dieux las de tes injustices,
+Tu périras, barbare ! Au milieu des supplices.
+Tu peux choisir. Adieu.
 
--*who_cydippe
-Elle expire, Seigneur.
-
--*who_jason
-      Destin impitoyable !
-Elle est morte ; et je vis ! Ô tourment effroyable !
-Ah ! Mon bras, au défaut de ma lente douleur,
-De ce supplice affreux doit m'épargner l'horreur
-Meurs, lâche ! Meurs enfin ... Mais ma douleur m'abuse.
-Je dois un sacrifice aux Mânes de Créüse
-Pour apaiser son ombre et ses ressentiments,
-Je veux livrer Médée aux plus cruels tourments ;
-Et mon âme aussitôt, sur le rivage sombre,
-De ce sang assouvie, ira trouver son ombre...
-La soif de te venger seule arrête mon bras.
-Belle ombre, attends ; j'y cours et vais suivre tes pas.
-Médée en vain me fuit ; en vain son art la cache.
-À ma juste fureur, il n'est rien qui l'arrache.
-Je suivrai la barbare au bout de l'univers,
-Et je la trouverai même au fond des enfers.
-Mon amour furieux me servira de guide.
-
-**** *book_ *id_V04 *act_V *date_1694
-
--*who_medee
-Tu n'iras pas si loin pour me trouver, perfide !
-C'est Médée. Oui ; c'est elle.
-
--*who_jason
-      Ah ! Crains mon désespoir,
-Barbare ...
-
--*who_medee
-      Arrête, ingrat ! Et connais mon pouvoir.
-
--*who_jason
-Quel prodige étonnant ! Dieux ! Ma fureur est vaine !
-Je me sens retenu par une étroite chaîne.
-Je demeure immobile, et malgré mes efforts,
-Le pouvoir de son art s'oppose à mes transports.
-
--*who_medee
-Juge, si c'est à moi de craindre ta vengeance.
-Un sort comme le mien n'est pas en ta puissance ;
-Magnanime Héros, ne songe plus à moi ;
-Trop indigne aussi bien d'un époux tel que toi.
-Laisse une infortunée, oublie une étrangère,
-Sans appui, sans couronne, errante et solitaire.
-Un hymen plein d'appas, un trône glorieux
-T'attendent en ce jour dans ces superbes lieux.
-Est-il temps de rester auprès d'une jalouse !
-Va soupirer aux pieds de ta nouvelle épouse.
-Vante-lui ton ardeur, assure-lui ta foi :
-Tu lui voles le temps que tu perds avec moi.
-Dois-tu pas à son sort unir ta destinée ?
-Hâte-toi de conclure un si doux hyménée,
-Le sacrifice est prêt, et le Temple est orné ;
-On n'attend plus que toi. Cours, époux fortuné.
-
--*who_jason
-Quoi ! La barbare encore et m'insulte et m'outrage !
-Faut-il que par son art elle brave ma rage ?
-Je ne puis l'immoler à ma juste fureur !
-Son sang apaiserait Créüse et ma douleur !
-
--*who_medee
-Oui, Jason, à Créüse il faut quelque victime ;
-Et mon sang répandu doit effacer mon crime.
-Sois content. J'ai versé le plus pur de ce sang.
-
--*who_jason
-Comment ?
-
--*who_medee
-      À tes deux fils j'ai su percer le flanc.
-Regarde ce poignard et cette main sanglante ;
-C'est de mon sang, du tien qu'elle est teinte et fumante.
-Mon bras, pour dernier coup, vient de les égorger.
-Crois-moi, sans t'occuper du soin de te venger,
-Si déjà ton ardeur languit pour la Princesse ;
-Si tu fuis, inconstant, ta nouvelle maîtresse ;
-Cours, du moins, père heureux, à tes fils expirants :
-Rends-leur les derniers soins, embrasse-les mourants.
-
--*who_jason
-Ah ! Barbare !
-
--*who_medee
-      En est-ce assez, et connais-tu Médée ?
-De son affreux pouvoir garderas-tu l'idée ?
-Oublieras-tu sa haine, ainsi que son amour ?
-
--*who_jason
-Monstre, à tes propres fils avoir ravi le jour !
-Pourquoi sacrifier d'innocentes victimes !
-
--*who_medee
-Ils étaient nés de toi, demandes-tu leurs crimes ?
-Ma trop juste fureur a dû les en punir.
-J'ai dû finir leurs maux, j'ai dû les prévenir ;
-Te délivrer du joug que ton esprit abhorre ;
-Rompre ces derniers noeuds qui nous serraient encore,
-Et, pour mieux t'oublier, effacer, sans retour,
-Jusqu'aux traces, ingrat, de notre affreux amour
-Ce n'est pas sans remords que je m'y suis forcée.
-Tu m'en as inspiré l'audace et la pensée ;
-Tu m'as seul enhardie à ce cruel dessein,
-Infidèle ! Et c'est toi qui leur perce le sein.
-
--*who_jason
-Quoi ! Les Dieux irrités, pour te réduire en poudre,
-Sur ta tête, à mes yeux, ne lancent point la foudre ?
-
--*who_medee
-Vengeurs des trahisons, ennemis des ingrats,
-Les Dieux, pour t'accabler, ont employé mon bras ;
-La foudre était trop peu pour punir ton offense.
-J'ai servi leur justice, et rempli leur vengeance.
-C'en est fait. Pour repaître et mes yeux et mon coeur,
-Moi-même j'ai voulu jouir de ta douleur.
-Un spectacle si doux met le comble à ma gloire :
-Je savoure à longs traits ta peine et ma victoire
-Et je recouvre enfin, ma gloire, mon repos,
-Mon Sceptre, mes parents, la Toison et Colchos.
-Je pars ; puisque ma fuite a pour toi tant de charme,
-Lève encor jusqu'à moi tes yeux chargés de larmes.
-Ingrat. Vois ces Dragons qui soumis à ma loi,
-Et plus reconnaissants, plus fidèles que toi,
-Par des chemins nouveaux vont guider leur maîtresse.
-Tes voeux sont satisfaits, pour jamais je te laisse.
-Adieu ; je t'abandonne aux horreurs de ton sort.
-Ingrat ! Je te hais trop, pour te donner la mort.
-
-**** *book_ *id_V05 *act_V *date_1694
-
--*who_jason
-Elle fuit ; et ce char, l'élevant dans les nues,
-Ouvre à sa cruauté des routes inconnues.
-La barbare à mes yeux disparaît pour jamais ;
-Elle brave ma haine après tant de forfaits ;
-Et m'enlève, enfuyant, malgré ma rage extrême,
-Beau-père, enfants, maîtresse, et ma vengeance même.
-Je ne la puis punir de tant de cruauté.
-Le Ciel offre un asile à son impiété.
-C'en est trop. Terminons ma vie et mon supplice.
-Je ne puis me venger ; il faut que je périsse.
-Trop malheureux objets de l'amour de Jason,
-Déplorable Créüse ! Infortuné Créon !
-Ô mes fils ! Jouissez de la seule vengeance
-Que les Dieux inhumains laissent en ma puissance.
-
--*who_iphite
-Ah ! Seigneur... Il n'est plus. Quels horribles malheurs,
-Ô trop funeste amour, produisent tes fureurs.

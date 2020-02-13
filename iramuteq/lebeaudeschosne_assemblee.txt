@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1773
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesemainier
 
--*who_lesemainier
 Que, parmi nous, l'emploi de Semainier
 Est bien un triste et fatiguant métier !
 Si l'on me croit fort flatté de ce titre,
@@ -20,57 +19,20 @@ Moi, je n'en veux, ni de près, ni de loin.
 Mais il ne vient personne. Qu'est-ce à dire ?
 Robert.
 
-**** *book_ *id_I02 *act_I *date_1773
-
--*who_robert
-      Monsieur ?
-
--*who_lesemainier
       A-t-on pris soin d'instruire
 Tous nos acteurs ?...
 
--*who_robert
-      Le jour et le moment
-Sont mis ainsi dans l'Avertissement :
-« On traitera d'affaires importantes,
-Sur le théâtre, à sept heures sonnantes,
-Le Mercredi, dix-septième du mois. »
-
--*who_lesemainier
 Il est le quart.
 
--*who_robert
-      Vous vous trompez, je crois.
-Ou votre montre...
-
--*who_lesemainier
       Oh ! Ma montre est parfaite.
 Mais n'est-il point venu certain poète,
 Vêtu de noir, un homme assez mal mis ?
 
--*who_robert
-Il va venir : je l'ai connu jadis.
-Il me demande un appui favorable
-Auprès de vous. C'est un assez bon diable :
-Je le protège : ah, protégez-le aussi.
-
--*who_lesemainier
 Nous recevrons sa pièce.
 
--*who_robert
-      Grand merci ;
-Car, entre nous, il me doit quelque chose.
-J'ai son billet écrit, non pas en prose,
-Mais en beaux vers, en vers Alexandrins.
-
--*who_lesemainier
 Fais-le moi voir quelqu'un de ces matins,
 Cela doit faire une pièce comique.
 
--*who_robert
-Lisez. Le style en est pourtant tragique.
-
--*who_lesemainier
 « Pour avoir su transcrire élégamment les vers
 Qui porteront ma gloire au bout de l'univers ;
 Et pour s'être montré domestique fidèle,
@@ -79,45 +41,137 @@ Je promets à Robert, qui m'a servi six ans,
 De lui payer un jour la somme de cent francs. »
 Tu n'es pas cher.
 
--*who_robert
+Tu comptais donc un jour être poète ?
+
+Eh bien ?
+
+Dis-moi, Robert, les traits de ta figure
+Ne me sont pas nouveaux, je t'en assure ;
+Dans quel pays puis-je t'avoir connu ?
+
+Pourquoi ?
+
+      Mais, oui.
+
+      Cet art est surprenant.
+
+Diable !
+
+Cet assemblage est burlesque.
+
+Grand Prince, hélas ! la chute est un peu grande.
+
+Va, sois content. Mais quelqu'un vient.
+
+Comment donc ?
+
+Ils devaient bien choisir d'autres moments.
+
+On était donc bien plus parfait jadis !
+
+Cette remarque est fine autant que sage :
+Je l'entends faire aux gens du plus grand âge.
+
+Ce dernier point...
+
+Oui, cela donne une mine sauvage ;
+
+Vous en parlez fort énergiquement.
+
+C'est des paniers dont vous parlez, je gage.
+
+Je le crois fort. Avec un tel secours
+Vous enchaîniez autrefois les Amours.
+
+On le voit bien : vos yeux, Madame Armand,
+Faisaient l'effet de la pierre d'aimant :
+Vous attiriez les coeurs d'étrange sorte ;
+Même à présent, où, le diable m'emporte,
+Vous me plairiez dans de certains moments.
+
+      Enfin pourtant
+Nous voici tous ; et l'Auteur est absent.
+Va le chercher.
+
+      Prenons place.
+
+Sur tous ces points l'Auteur doit vous instruire.
+
+L'objet l'exige indispensablement.
+
+Fort bien.
+
+En bonne foi, dis-moi...
+
+Et le public, que croit-on qu'il dira ?
+
+Mademoiselle, il faudrait que d'abord,
+Sur chaque rôle, on fût un peu d'accord.
+
+Eh bien ; tâchez de vous raccommoder,
+Vous les rendrez bien sots, sur ma parole.
+
+Vous nous jetez dans un autre embarras.
+
+      Quelle folie extrême !
+Que ferons-nous ?
+
+Eh, bon jour donc, Monsieur de Songe-Creux.
+Passez.
+
+      Ne soyez point honteux.
+Nos grands Auteurs tragiques et comiques
+N'ont remporté les palmes dramatiques
+Qu'après avoir siégé dans ce fauteuil.
+
+Excepté moi ; car j'étais du secret.
+
+
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
+
+      Monsieur ?
+
+      Le jour et le moment
+Sont mis ainsi dans l'Avertissement :
+« On traitera d'affaires importantes,
+Sur le théâtre, à sept heures sonnantes,
+Le Mercredi, dix-septième du mois. »
+
+      Vous vous trompez, je crois.
+Ou votre montre...
+
+Il va venir : je l'ai connu jadis.
+Il me demande un appui favorable
+Auprès de vous. C'est un assez bon diable :
+Je le protège : ah, protégez-le aussi.
+
+      Grand merci ;
+Car, entre nous, il me doit quelque chose.
+J'ai son billet écrit, non pas en prose,
+Mais en beaux vers, en vers Alexandrins.
+
+Lisez. Le style en est pourtant tragique.
+
       Non ; mais il faut tout dire :
 Dans son métier il tâchait de m'instruire.
 Je le servais gratis, de mon côté :
 J'étais laquais par générosité.
 
--*who_lesemainier
-Tu comptais donc un jour être poète ?
-
--*who_robert
 Monsieur, la rime est un grand casse-tête.
 On la poursuit, on cherche à la saisir ;
 Elle s'enfuit quand on croit la tenir.
 On n'y parvient qu'en se donnant au Diable.
 
--*who_lesemainier
-Eh bien ?
-
--*who_robert
       Je pris un parti moins damnable,
 Foulant aux pieds les lauriers d'Apollon,
 J'ai fui la rime, et suivi la raison.
 
--*who_lesemainier
-Dis-moi, Robert, les traits de ta figure
-Ne me sont pas nouveaux, je t'en assure ;
-Dans quel pays puis-je t'avoir connu ?
-
--*who_robert
 En cent endroits vous pouvez m'avoir vu ;
 Car l'éléphant, l'ours et le crocodile,
 Que l'on fait voir partout de ville en ville,
 N'ont pas des traits connus du spectateur
 Autant que ceux de votre serviteur.
 
--*who_lesemainier
-Pourquoi ?
-
--*who_robert
       Je fus un de ces interprètes
 Dont on se sert pour les marionnettes.
 Polichinel, si plaisant pour les sots,
@@ -128,10 +182,6 @@ Chez des acteurs, qui n'étaient pas de bois,
 Je fus moucheur de chandelles... Je crois
 Que vous riez.
 
--*who_lesemainier
-      Mais, oui.
-
--*who_robert
       Certains ouvrages
 N'ont dû pourtant leurs plus grands avantages
 Qu'aux doigts brillants d'un moucheur ignoré.
@@ -140,25 +190,13 @@ Cela vous jette un jour sur une pièce
 On en saisit tout l'esprit, la finesse,
 Enfin cet art...
 
--*who_lesemainier
-      Cet art est surprenant.
-
--*who_robert
 Je n'ai point là borné tout mon talent ;
 Ce que j'ai fait est presque un phénomène.
 
--*who_lesemainier
-Diable !
-
--*who_robert
       Monsieur, une même semaine
 M'a vu moucheur, contrôleur, receveur,
 Décorateur, afficheur et souffleur.
 
--*who_lesemainier
-Cet assemblage est burlesque.
-
--*who_robert
       Il est drôle.
 J'ai fait encor de méchants bouts de rôle ;
 Et qui plus est j'ai, pendant près d'un mois,
@@ -176,46 +214,28 @@ Que des sifflets. Je vins en cette ville,
 Où renonçant à la grandeur des Rois,
 J'entrai gagiste au théâtre François.
 
--*who_lesemainier
-Grand Prince, hélas ! la chute est un peu grande.
-
--*who_robert
 Adieu. Songez que je vous recommande
 Mon ancien maître et mon vieux débiteur.
 
--*who_lesemainier
-Va, sois content. Mais quelqu'un vient.
-
--*who_robert
       Monsieur
 C'est la Concierge, et je m'en vais d'avance.
 
-**** *book_ *id_I03 *act_I *date_1773
+      J'y vole.
 
--*who_madamearmand
+
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamearmand
+
 Tachez, Monsieur, de prendre patience,
 Nous n'aurons pas nos Acteurs de sitôt.
 
--*who_lesemainier
-Comment donc ?
-
--*who_madamearmand
       Tous se sont donné le mot
 Pour aller voir l'admirable sculpture
 Qui de Voltaire exprime la figure.
 
--*who_lesemainier
-Ils devaient bien choisir d'autres moments.
-
--*who_madamearmand
 Ce n'était pas ainsi que, de mon tems,
 Se conduisaient les Acteurs ; mais tout change,
 Et tout le monde aujourd'hui se dérange.
 
--*who_lesemainier
-On était donc bien plus parfait jadis !
-
--*who_madamearmand
 Mon cher Monsieur, c'est moi qui vous le dis,
 La nature est tellement renversée,
 Qu'on n'en saurait concevoir la pensée :
@@ -226,11 +246,6 @@ Les bois n'ont plus leur charme et leur mystère.
 Tout dépérit, et même j'aperçois
 Qu'on ne dort plus aussi bien qu'autrefois.
 
--*who_lesemainier
-Cette remarque est fine autant que sage :
-Je l'entends faire aux gens du plus grand âge.
-
--*who_madamearmand
 Quant au génie, à l'esprit, aux talents,
 On n'en a plus, encor moins de bon sens ;
 La conduite est bizarre, inconséquente.
@@ -242,10 +257,6 @@ De tous ces bancs qui garnissaient la scène,
 Faisaient briller tous nos jeunes Seigneurs,
 Et rapportaient tant d'argent aux Acteurs.
 
--*who_lesemainier
-Ce dernier point...
-
--*who_madamearmand
       Est surtout d'importance.
 On a proscrit, avec même imprudence,
 Cette perruque et ces vastes chapeaux,
@@ -255,938 +266,20 @@ On croit devoir coiffer avec un casque
 Sertorius, César, Brutus, Othon :
 Monsieur, ce casque est d'un bien mauvais ton.
 
--*who_lesemainier
-Oui, cela donne une mine sauvage ;
-
--*who_madamearmand
 L'air de quelqu'un qui veut faire tapage.
 
--*who_lesemainier
-Vous en parlez fort énergiquement.
-
--*who_madamearmand
 Mais on a fait un autre changement
 Qui me révolte encore davantage.
 
--*who_lesemainier
-C'est des paniers dont vous parlez, je gage.
-
--*who_madamearmand
 Monsieur, comptez que leur suppression
 A porté coup à notre nation.
 Oui, des paniers, l'ample circonférence,
 Tient beaucoup plus aux moeurs que l'on ne pense.
 
--*who_lesemainier
-Je le crois fort. Avec un tel secours
-Vous enchaîniez autrefois les Amours.
-
--*who_madamearmand
 Vous voulez rire en tenant ce langage ;
 Mais j'ai valu mon prix dans mon jeune âge.
 
--*who_lesemainier
-On le voit bien : vos yeux, Madame Armand,
-Faisaient l'effet de la pierre d'aimant :
-Vous attiriez les coeurs d'étrange sorte ;
-Même à présent, où, le diable m'emporte,
-Vous me plairiez dans de certains moments.
-
--*who_madamearmand
 Hélas ! Hélas, que ne suis-je à vingt ans !
 Qu'entends-je ! Ici, j'apprête donc à rire.
 On est venu : Monsieur, je me retire.
 
-**** *book_ *id_I04 *act_I *date_1773
-
--*who_monsieurmole
-La bonne femme est folle...
-
--*who_lesemainier
-      Enfin pourtant
-Nous voici tous ; et l'Auteur est absent.
-Va le chercher.
-
--*who_robert
-      J'y vole.
-
-**** *book_ *id_I05 *act_I *date_1773
-
--*who_lesemainier
-      Prenons place.
-
--*who_monsieurmole
-Entre vous deux, recevez-moi, de grâce.
-
--*who_monsieurmontvel
-Moi, je veux être avec vous dans ce coin.
-
--*who_madamepreville
-Monsieur Brizard, n'allez donc pas si loin.
-Venez ici.
-
--*who_mademoisellehus
-      Finissez. Soyez sage.
-
--*who_mademoisellefanier
-Vous vous trompez, j'ai fort mauvais visage.
-
--*who_monsieurmole
-Croit-elle donc que je l'irai prier ?
-Je ne suis pas non plus un écolier.
-Je ne veux pas faire la moindre avance.
-
--*who_mademoiselledugazon
-Je vous dirai, pour moi, ce que j'en pense.
-
--*who_mademoiselledoligny
-Elle se met assez bien.
-
--*who_madamemole
-      Cependant
-Elle se coiffe un peu trop en devant.
-
--*who_mademoiselledumesnil
-Quand on voudra pourtant faire silence,
-Nous apprendrons l'objet de la séance,
-Et la raison qui fait que c'est ici,
-Pour s'assembler, le lieu qu'on a choisi ?
-
--*who_lesemainier
-Sur tous ces points l'Auteur doit vous instruire.
-
--*who_mademoiselledumesnil
-Comment, Messieurs, c'est pour entendre lire
-Qu'on a choisi ces lieux et ce moment ?
-
--*who_lesemainier
-L'objet l'exige indispensablement.
-
--*who_madamepreville
-J'aurais bien fait d'apporter de l'ouvrage.
-
--*who_madamemole
-Lorsqu'on me lit des vers c'est mon usage.
-
--*who_mademoisellefanier
-Oh, quant à moi, pour les trouver plus courts,
-J'apprends mon rôle, et l'Auteur lit toujours.
-
--*who_monsieurbourette
-Mais à propos, Messieurs, je vous déclare,
-Qu'à mon absence il faut qu'on se prépare ;
-J'ai mon congé pour le reste du mois.
-
--*who_monsieurbelmont
-Je prends huit jours.
-
--*who_mademoiselledoligny
-      Moi dix.
-
--*who_mademoisellehus
-      Moi cinq.
-
--*who_mademoiselledugazon
-      Moi trois.
-
--*who_lesemainier
-Fort bien.
-
--*who_madamepreville
-      Je compte aussi sur ma huitaine.
-
--*who_monsieurbelcourt
-Je ne fais point grâce de ma quinzaine.
-Oui, mon ami, tu peux, si tu le veux,
-Me regarder et faire de gros yeux.
-
--*who_lesemainier
-En bonne foi, dis-moi...
-
--*who_monsieurbelcourt
-      Que veux-tu faire ?
-Peut-on jouer quand on est en affaire ?
-Premièrement : tiens, vois mon agenda ;
-J'ai dix soupers sur ces deux pages-là.
-Ce n'est pas tout ; il faut que je m'apprête
-À figurer dans la superbe fête
-Qu'on va donner... Je ne suis pas de fer...
-On y jouera, dit-on, un jeu d'enfer...
-Et... tu m'entends ; je dormirai... peut-être.
-
--*who_madamepreville
-Quelle raison vous force à disparaître ?
-
--*who_monsieurbourette
-Je vais me mettre à la diète.
-
--*who_monsieurbelmont
-      Pour moi,
-Je vais chasser à la suite du Roi.
-
--*who_mademoiselledoligny
-Moi, j'étudie, et c'est-là mon excuse.
-
--*who_mademoisellehus
-Oh moi, voici la mienne, je m'amuse.
-
--*who_lesemainier
-Et le public, que croit-on qu'il dira ?
-
--*who_mademoisellehus
-Rien. Le public jamais n'exigera
-Que, pour lui plaire, on s'excède, on s'accable.
-
--*who_monsieurbelcourt
-Sans contredit : il est trop équitable,
-J'en suis comblé. S'il était devant nous,
-Je lui dirais, Messieurs, convenez tous
-Que du plaisir vous êtes idolâtres ;
-Vous le cherchez à la ville, aux théâtres,
-Enfin partout ; souffrez quelques instants
-Que votre idole ait part à notre encens.
-Disant ces mots d'un ton bien pathétique,
-Je convaincrais, et, pour toute réplique,
-Le battement des mains du spectateur
-Couronnerait les désirs de l'acteur.
-
--*who_mademoisellesaintval
-Eh bien, Messieurs, notre pièce nouvelle
-En reste-là ; quand donc se jouera-t-elle ?
-
--*who_lesemainier
-Mademoiselle, il faudrait que d'abord,
-Sur chaque rôle, on fût un peu d'accord.
-
--*who_mademoisellesaintval
-On l'est assez, si ce n'est qu'on s'obstine
-À m'enlever celui de l'héroïne ;
-L'Auteur pourtant me l'avait adjugé.
-
--*who_madamevestris
-C'est une erreur dont il s'est corrigé.
-Il a laissé cette importante cause
-À vos avis, Messieurs ; jugez la chose.
-
--*who_mademoisellesaintval
-Pourquoi juger quand j'ai les plus grands droits ?
-
--*who_madamevestris
-Pourquoi vouloir ici faire des lois ?
-
--*who_mademoisellesaintval
-Je n'en fais point ; mais convenez vous-même
-Que la fierté, l'orgueil du rang suprême,
-Sont dans ce rôle : il est donc fait pour moi :
-Les Reines font l'objet de mon emploi.
-
--*who_madamevestris
-Ce rôle a moins d'orgueil que de tendresse :
-Il tombe donc dans l'emploi de Princesse,
-Et la tendresse, en effet, est mon lot.
-Jugez-en tous.
-
--*who_mademoisellesaintval
-      Si l'on dit un seul mot,
-Je vais, Messieurs, quitter la Comédie.
-
--*who_madamevestris
-À vous permis si telle est votre envie.
-
--*who_mademoisellesaintval
-Vous avez bien de la vivacité.
-
--*who_madamevestris
-On voit chez vous la plus vaine fierté.
-
--*who_mademoisellesaintval
-Vous m'insultez, je crois, Mademoiselle.
-
--*who_madamevestris
-C'est plutôt vous.
-
--*who_mademoisellesaintval
-      Cessez une querelle
-Dont vous pourriez ne vous réjouir pas.
-
--*who_madamevestris
-De vos grands airs je fais très peu de cas :
-Trêve d'orgueil, auguste Souveraine ;
-Vous vous croyez sans doute sur la scène.
-
--*who_mademoisellesaintval
-Je sais d'où part ce langage piquant ;
-On rabattra votre ton révoltant. 
-
--*who_madamevestris
-Quoi ! vous allez jusques à la menace ?
-Vous m'effrayez, Reine, faites-moi grâce.
-
--*who_mademoisellesaintval
-Vous plaisantez ?
-
--*who_monsieurmole
-      Calmez votre courroux...
-De la douceur.
-
--*who_mademoisellesaintval
-      De quoi vous mêlez-vous ?
-
--*who_monsieurmole
-Ma qualité d'arbitre entre les belles
-Me donne droit d'entrer dans leurs querelles.
-
--*who_madamevestris
-On ne veut point d'un tel médiateur.
-
--*who_mademoisellesaintval
-Sans employer de conciliateur,
-J'exposerai ma raison, et, sans peine
-On s'y rendra.
-
--*who_madamevestris
-      Je vous dirai la mienne.
-
--*who_monsieurmontvel
-C'est temps perdu ; c'est un méchant esprit.
-
--*who_monsieurpontheuil
-Sur sa raison vous n'aurez nul crédit.
-
--*who_mademoisellesaintval
-Savez-vous bien ce qu'on vient de me dire ?
-
--*who_madamevestris
-Savez-vous bien ce qu'on cherche à produire ?
-
--*who_mademoisellesaintval
-Mais je croirais qu'on veut nous irriter.
-
--*who_lesemainier
-Eh bien ; tâchez de vous raccommoder,
-Vous les rendrez bien sots, sur ma parole.
-
--*who_mademoisellesaintval
-C'est bien pensé, j'abandonne le rôle.
-
--*who_madamevestris
-Je fais de même, et ne le jouerai pas.
-
--*who_lesemainier
-Vous nous jetez dans un autre embarras.
-
--*who_mademoisellesaintval
-Vous le jouerez.
-
--*who_madamevestris
-      Vous le jouerez vous-même.
-
--*who_mademoisellesaintval
-Non, par ma foi.
-
--*who_lesemainier
-      Quelle folie extrême !
-Que ferons-nous ?
-
--*who_madamevestris
-      Tout ce qu'il vous plaira.
-J'ai dit mon mot : le jouera qui voudra.
-
-**** *book_ *id_I06 *act_I *date_1773
-
--*who_ungagiste
-Voici l'auteur.
-
--*who_madamebelcourt
-      Son maintien est grotesque,
-Moitié gendarme et moitié pédantesque.
-
--*who_lesemainier
-Eh, bon jour donc, Monsieur de Songe-Creux.
-Passez.
-
--*who_lauteur
-      Monsieur...
-
--*who_lesemainier
-      Ne soyez point honteux.
-Nos grands Auteurs tragiques et comiques
-N'ont remporté les palmes dramatiques
-Qu'après avoir siégé dans ce fauteuil.
-
--*who_lauteur
-À moi, Messieurs, n'appartient tant d'orgueil.
-Il siérait mal aux colombes timides
-D'entrer au nid des aigles intrépides ;
-La moindre place en ces augustes lieux
-M'honore trop, et surpasse mes voeux.
-
--*who_madamebelcourt
-S'il est ainsi, prenez donc cette chaise.
-
--*who_mademoisellehus
-Venez ici, vous serez plus à l'aise.
-
--*who_mademoiselledoligny
-Oui ; mais par-là nous n'entendrions rien :
-Approchez-vous, chacun entendra bien.
-
--*who_madamepreville
-Mettez-vous là, nous nous verrons en face.
-
--*who_mademoisellledoligny
-Vous me quittez, c'est de mauvaise grâce ;
-À cet affront je ne m'attendais pas.
-
--*who_mademoiselledumesnil
-Tenez, Monsieur, pour finir ces débats,
-Placez-vous-là sans plus vous faire attendre.
-
--*who_lauteur
-Je ne sais plus vraiment auquel entendre.
-Je reste ici... Mesdames et Messieurs ;
-Ou, disons mieux : Reines, Rois, Empereurs,
-Qui ne tenez la grandeur souveraine
-Que de votre art et que de Melpomène,
-Comtes, Marquis, Comtesses et Barons,
-Qui ne devez vos titres et vos noms
-Qu'à la faveur de Thalie elle-même,
-D'un faible Auteur calmez la crainte extrême.
-Pour un Poète en effet ce moment
-Est périlleux et très embarrassant.
-Un Allemand qu'on empêche de boire,
-Un Charlatan que l'on ne veut pas croire,
-Un écolier qui sait mal sa leçon,
-Un Philosophe à l'aspect du canon,
-Ont moins d'effroi, de trouble et de détresse
-Qu'un bel esprit qui présente une pièce.
-
--*who_madamepreville
-Et cependant ce bel-esprit a tort ;
-Qu'avons-nous donc pour l'effrayer si fort ?
-
--*who_lauteur
-Si l'on voulait croire la médisance...
-
--*who_madamebelcourt
-Parlez, il faut dire ce que l'on pense.
-
--*who_lauteur
-Vous n'avez pas, dit-on, pour les Auteurs,
-Des sentiments bien doux et bien flatteurs.
-Mais là-dessus n'entrons point en matière,
-L'homme prudent sait parler et se taire.
-
--*who_madamepreville
-Quoi ! se peut-il, Monsieur de Songe-Creux,
-Que vous donniez dans tous ces contes bleus ?
-
--*who_lauteur
-Non, je reçois les faits qu'on m'articule,
-Mais sans en croire une seule virgule.
-
--*who_madamebelcourt
-Sachez, Monsieur, que tous ces méchants bruits
-Viennent d'Auteurs justement éconduits ;
-Qui, furieux de voir que leurs ouvrages
-N'ont jamais pu réunir les suffrages,
-Vont se venger, par mille faussetés,
-De nos refus qu'ils ont bien mérités.
-
--*who_lauteur
-Voudriez-vous qu'en ce moment critique,
-Un auteur fit votre panégyrique ?
-Non, je ne sais moi-même, en pareil cas,
-Où la fureur ne me porterait pas.
-
--*who_madamebelcourt
-Vous êtes doux ; nous n'aurions rien à craindre.
-
--*who_lauteur
-Je crois n'avoir jamais lieu de me plaindre
-À votre égard, puisqu'infailliblement
-Vous recevrez mon ouvrage... Oui vraiment.
-Armez-vous tous exprès pour le combattre ;
-Unissez-vous, faites le diable à quatre,
-Il faudra bien qu'à la fin vous cédiez,
-Et de grand coeur que vous le receviez.
-
--*who_monsieurmontvel
-Quoi ! Vous aurez le pouvoir despotique
-De nous contraindre ?
-
--*who_lauteur
-      Oui, et non. Je m'explique.
-Absolument par force, j'aurais tort ;
-Mais par attrait, par pur zèle, très fort ;
-Vous le devez enfin pour votre gloire.
-Vous révérez tendrement la mémoire
-Du bon Molière, heureux restaurateur,
-Ou, pour parler plus juste, créateur
-De l'art charmant par qui vous savez plaire.
-
--*who_mademoiselledoligny
-Chacun de nous en lui regrette un père.
-
--*who_lauteur
-Si j'élevais à cet homme éminent
-Par une Pièce un petit monument,
-Que diriez-vous ?
-
--*who_mademoiselledoligny
-      Vous auriez mon suffrage.
-
--*who_madamepreville
-Mon avis est qu'on reçoive l'ouvrage,
-Pour son objet, avant de l'avoir lu.
-
--*who_mademoisellesaintval
-Monsieur l'Auteur, votre ouvrage est reçu.
-
--*who_monsieurmontvel
-C'est bientôt dit : il faut voir si le style
-En est correct, élégant et facile.
-
--*who_lauteur
-Fort bien ; le style : on ne veut que cela.
-Il faut du style : on aime ce mot-là.
-
--*who_monsieurmontvel
-Mais, pour quelqu'un qui se mêle d'écrire,
-N'en faut-il pas ?
-
--*who_lauteur
-      Oui, et non ; c'est-à-dire,
-Qu'on doit avoir du style en général ;
-Mais n'en pas faire un objet principal.
-Il faut du fond. Un Auteur dramatique,
-Par le fond seul, gagne la voix publique.
-Ma Pièce aussi, de l'un à l'autre bout,
-A bien du fond ; du style, point du tout.
-
--*who_monsieurmontvel
-Tant pis, vraiment.
-
--*who_lauteur
-      Vous ne pouvez m'entendre,
-Si plus au net je ne me fais comprendre.
-Oui, dans ma pièce on ne trouvera pas
-De diction : ce n'est qu'un canevas,
-Rien qu'un croquis ; mais par votre génie
-Vous y mettrez la grâce et l'harmonie.
-
--*who_monsieurmontvel
-Comment cela ?
-
--*who_lauteur
-      Chacun de vous dira
-À l'impromptu tout ce qui lui viendra.
-
--*who_madamepreville
-J'étais d'avis que l'on jouât la pièce.
-Si quelque chose à présent m'intéresse,
-C'est qu'on renonce à vouloir s'en mêler.
-
--*who_lauteur
-Pourquoi cela ?
-
--*who_madamepreville
-      Nous nous ferions siffler.
-On ne doit rien jouer qu'on ne l'apprenne.
-
--*who_lauteur
-Et comment fait la troupe Italienne ?
-
--*who_madamepreville
-Ils ont cet art.
-
--*who_lauteur
-      Vous l'entendrez comme eux,
-Ce secret-là n'est pas si merveilleux.
-
--*who_madamepreville
-Mais rien ne peut vous empêcher d'écrire,
-Comme tous font.
-
--*who_lauteur
-      Oui, et non ; je veux dire
-Que j'y perdrais ma peine et mon latin ;
-Mon plan doit être exécuté demain.
-
--*who_monsieurmole
-Demain !
-
--*who_madamebelcourt
-      Demain ! la chose est infaisable.
-
--*who_lauteur
-Il eut été même plus convenable
-Que l'on jouât ma pièce dans ce jour ;
-Puisque je veux célébrer le retour
-Et de l'année et du jour séculaire
-Qui vit Molière éclipsé de la terre.
-Or, d'aujourd'hui, cent ans sont révolus
-Depuis l'instant que Molière n'est plus.
-
--*who_monsieurbelcourt
-La circonstance est vraiment singulière ;
-Il faudra faire un effort pour Molière.
-
--*who_madamepreville
-Très volontiers.
-
--*who_monsieurmole
-      D'accord.
-
--*who_monsieurfeuilli
-      Je m'y soumets.
-
--*who_monsieurmole
-Que l'Auteur donc nous dise ses projets.
-
--*who_lauteur
-J'ai supposé que l'Art comique, en France,
-Depuis longtemps était en décadence.
-Je crois, Messieurs, que, sans prévention,
-On peut passer la supposition.
-Pour réparer un si cruel dommage,
-Les Comédiens ayant mis en usage
-Tous les moyens qu'ils ont crus les meilleurs,
-Ayant prié, caressé les Auteurs,
-Encouragé leur superbe arrogance,
-Les ayant même enfin payés d'avance,
-Et tout cela sans avoir réussi,
-Veulent pourtant prendre un dernier parti ;
-Et c'est celui du recours au diable,
-Comme l'on fait toujours en cas semblable.
-
--*who_mademoisellefanier
-C'est un moyen terrible que cela.
-
--*who_madamedrouin
-Il n'est pourtant pas rare à l'Opéra.
-
--*who_lauteur
-Ils font venir une vieille sorcière,
-Femme savante en plus d'une matière,
-Qui s'est acquis un crédit sans pareil
-Près du beau sexe, étant de bon conseil.
-
--*who_mademoisellefanier
-Qui prendrez-vous pour jouer la sorcière ?
-
--*who_lauteur
-Vous-même.
-
--*who_mademoisellefanier
-      Moi ?
-
--*who_lauteur
-      Vous toute la première ;
-Vous avez tant de grâce et de fraîcheur,
-Que votre jeu n'en sera que meilleur ;
-Tout s'embellit par votre heureuse adresse,
-Vous nous ferez adorer la vieillesse.
-
--*who_mademoisellefanier
-Vous me donnez de si bonnes raisons,
-Que je serai la vieille.
-
--*who_lauteur
-      Poursuivons.
-La Magicienne, avec une baguette,
-Trace un grand cercle, et prend d'une cassette
-Des os de mort, de l'encens, un crapaud
-Qu'elle abandonne aux flammes d'un réchaud.
-Au même instant une fumée épaisse
-Couvre le corps de la vieille Prêtresse,
-Qui prononçant des mots mystérieux
-Fuit, et Molière alors s'offre à vos yeux
-
--*who_mademoiselledoligny
-Oh, j'aurai peur... non, vous ne sauriez croire
-Tout mon effroi, quand j'entends quelque histoire
-De revenant ; j'y pense dans mon lit,
-Je ne saurais fermer l'oeil de la nuit.
-
--*who_monsieurmole
-Je vous plains fort. Vous seriez plus hardie,
-Si vous aviez avec vous compagnie.
-
--*who_mademoiselledoligny
-Nous n'avons pas besoin de vos avis.
-Monsieur l'Auteur, achevez vos récits.
-
--*who_lauteur
-Je continue. À l'aspect de Molière
-On fera voir, chacun à sa manière,
-Les sentiments dont on est agité.
-L'un en montrant un air épouvanté :
-L'autre en marquant toute sa gratitude,
-Un autre encor prenant cette attitude ;
-Celui-ci fait un geste admiratif,
-Et cet autre ouvre un oeil contemplatif.
-Tous ces tableaux dont on est idolâtre
-Réussiront à merveille au théâtre.
-
--*who_madamebellecourt
-Fort bien.
-
--*who_lauteur
-      Molière avance avec douceur,
-Tend poliment la main à chaque Acteur,
-Et tendrement embrasse chaque Actrice.
-
--*who_mademoisellefanier
-Oh doucement, n'usons point d'artifice,
-Vous n'êtes point Molière.
-
--*who_lauteur
-      Non vraiment,
-Mais à ma place il en ferait autant.
-
--*who_mademoisellefanier
-Eh bien ensuite ?
-
--*who_lauteur
-      A ce Dieu du Comique
-Un des Acteurs présente sa supplique.
-Molière écoute, assis dans ce fauteuil ;
-L'Acteur s'avance et dit la larme à l'oeil :
-Divin Molière, on ne rit plus en France ;
-Plus de plaisirs, plus de réjouissance.
-En acquérant un air de dignité,
-Notre théâtre a perdu sa gaieté.
-Si vous savez d'où ce malheur procède,
-Dites-nous-en la cause et le remède.
-Molière alors vous interrogera
-Sur le théâtre ; il vous demandera
-De grands détails sur l'art et la manière
-Dont les Auteurs fouillent cette carrière.
-
--*who_monsieurmole
-Que dirons-nous pour lors ?
-
--*who_lauteur
-      La vérité ;
-Mais pour répondre avec plus de clarté,
-Vous lui jouerez les scènes les plus belles,
-Dont chaque genre offrira des modèles ;
-Et vous plairez beaucoup aux spectateurs,
-Qui dans un acte en trouveront plusieurs :
-Qu'en dites-vous ?
-
--*who_monsieurmole
-      L'idée est singulière.
-
--*who_lauteur
-L'acteur chargé du rôle de Molière...
-
--*who_monsieurmole
-Et qui sera celui qui parmi nous
-Fera ce rôle ?
-
--*who_lauteur
-      Eh, mais, qu'en pensez-vous ?
-Ne puis-je pas le donner à Préville ?
-
--*who_monsieurmole
-Fort bien, est-il instruit ?
-
--*who_lauteur
-      Soyez tranquille ;
-Il est au fait ; et je compte, ma foi,
-Qu'il le rendra tout aussi bien que moi.
-Préville prenant donc l'esprit du rôle,
-À l'assemblée adresse la parole,
-Avec cet air, cet auguste maintien,
-Qu'en sa personne on remarque si bien.
-Messieurs, dit-il, les scènes différentes
-Que votre jeu vient de rendre brillantes,
-Ont de l'éclat, de la légèreté ;
-Mais je n'y trouve aucune vérité.
-Je n'y vois point une fidèle image
-Des passions de chaque personnage.
-Je n'y vois point cette naïveté,
-Source du rire, âme de la gaieté,
-Et sans laquelle un Auteur dramatique
-Ne peut jamais être vraiment comique.
-Pour réussir il n'est qu'un seul secret,
-C'est de bien peindre ; on dit que je l'ai fait :
-On a daigné se plaire à ma peinture.
-J'avais longtemps contemplé la nature
-Avec des yeux que l'on a cru meilleurs
-Que ne le sont ceux des autres Auteurs.
-Mais en cela, comme en bien d'autres choses ;
-On voit l'effet sans connaître les causes.
-Il a fallu qu'un diable s'en mêlât,
-Sans quoi souvent je tombais tout à plat.
-
--*who_monsieurfeuilli
-Sans ce fauteuil vous en faisiez de même.
-
--*who_lauteur
-C'est que je suis d'une faiblesse extrême ;
-Je vous parois hardi, mais cependant
-J'ai de la crainte intérieurement.
-
--*who_mademoiselledumesnil
-Reposez-vous.
-
--*who_lauteur
-      Je reprends la parole.
-Écoutez bien ce grand maître d'école,
-Molière l'est. Qu'on se garde surtout
-De me parler que je ne sois au bout.
-Un vieux démon qui préside au Comique
-M'offrit, Messieurs, la lorgnette magique
-Dont se servait Térence l'Africain,
-Quand il voulait sonder le coeur humain.
-J'en profitai ; je sus avec finesse,
-Ainsi que lui, dévoiler la faiblesse,
-Le ridicule, et les nombreux travers
-Qu'on voit régner dans ce sot univers.
-Je la gardai pendant toute ma vie.
-Quelques Auteurs, inspirés par Thalie,
-L'eurent depuis, mais pour peu de moments.
-Je vais partir. J'espère, mes enfants,
-Vous envoyant ce gage héréditaire
-Fixer sur vous les faveurs du parterre.
-Chacun alors embrasse ses genoux.
-Chacun le veut retenir parmi nous.
-La foudre gronde ; il échappe à la vue,
-La scène change et l'on voit la statue.
-
--*who_mademoisellehus
-Quel dénouement !
-
--*who_mademoiselledoligny
-      Quel spectacle enchanteur !
-
--*who_lauteur
-Remerciez votre décorateur,
-Car nous étions d'accord pour vous surprendre.
-
--*who_madamebelcourt
-Aucun de nous ne s'y pouvait attendre.
-
--*who_lesemainier
-Excepté moi ; car j'étais du secret.
-
--*who_lauteur
-Allons Monsieur le maître du Ballet,
-De vos talents faites voir quelque chose,
-Et que Molière ait une Apothéose.
-
-**** *book_ *id_I07 *act_I *date_1773
-
--*who_legrandpretre
-D'Apollon, en ces lieux, j'exerce la Prêtrise ;
-L'image de Molière est commise à ma foi :
-Quand la vertu le divinise,
-Le soin de ses honneurs ne regarde que moi.
-
--*who_unepretresse
-L'antiquité mettait jadis au rang des Dieux
-Ceux qui par leur valeur ont délivré la terre
-Des monstres, des brigands, des tyrans furieux.
-Pourquoi ceux qui, comme Molière,
-Ont terrassé le vice encor plus dangereux,
-N'auraient-ils pas le droit d'être immortels comme eux ?
-
--*who_lagrandepretresse
-Qu'un éternel éclat environne Molière,
-Que son nom glorieux ne périsse jamais.
-Il corrigea la France entière
-De ses ridicules excès ;
-Sur mille différents objets
-Sa critique savante a porté la lumière.
-Qu'un éternel éclat environne Molière ;
-Que son nom glorieux ne périsse jamais :
-Qu'il vive, que toujours il soit cher aux Français.
-
--*who_unepretresse
-Que ce laurier sacré dont l'ombre t'environne,
-Serve, divin Molière, à former ta couronne ;
-C'est l'arbre qu'Apollon avait daigné choisir :
-Semblable à tes écrits, rien ne peut le flétrir.
-
--*who_legrandpretre
-Abattez ces rameaux ; vous devez obéir ;
-Apollon par ma voix l'ordonne ;
-Pour former à Molière une noble couronne,
-Ce Dieu permet de les cueillir.
-Sexe enchanteur, c'est pour vous plaire
-Que ses travaux l'ont mis au-dessus des humains ;
-Sa récompense la plus chère
-Sera d'être en ce jour couronné par vos mains.
-
--*who_lagrandepretresse
-Les autels des Héros que nous vante l'Histoire,
-Des plus rares parfums répandaient les vapeurs ;
-Cet encens a péri, mais celui de nos coeurs
-Est immortel comme ta gloire.
-
--*who_pretressedapollon
-
-
-Toi, qui sais étendre l'espace
-Et limiter l'immensité ;
-Toi, dont le vaste sein embrasse
-Le moment et l'éternité.
-Ô Temps ! Ton aile fugitive
-Tantôt couvre la sombre rive
-Du triste séjour de la Mort ;
-Tantôt elle plane avec gloire
-Sur les lieux sacrés où l'Histoire
-Fixe la demeure du Sort.
-
-Devant ton tribunal auguste
-Passent les générations ;
-Ton arrêt terrible, mais juste,
-Fait le destin des Nations ;
-Les Héros les plus magnanimes,
-Les Écrivains les plus sublimes
-A tes décrets sont asservis ;
-La place que tu leur désignes,
-Les honneurs que tu leur assignes,
-Pour jamais décident leur prix.
-
-Si pendant le cours trop rapide
-Des jours qui leur sont destinés,
-La voix du préjugé stupide
-A l'oubli les a condamnés,
-Ton zèle équitable s'enflamme ;
-Tu leur élèves dans notre âme
-De véritables monuments :
-Leur gloire en devient plus brillante ;
-Et notre estime renaissante
-S'accroît encore après cent ans.
-
-Molière en offre un grand exemple ;
-L'auguste image de ses traits
-Inspire à l'oeil qui la contemple
-De la tendresse et des regrets.
-On voit avec reconnaissance
-Ce grand homme qui, de la France,
-Cherchant à corriger les moeurs,
-Osa préférer, sans scrupule,
-L'arme adroite du ridicule
-A tout l'art brillant des Rhéteurs.
-
-Cette arme souvent dangereuse
-Devint utile entre ses mains ;
-Il la rendit victorieuse
-Contre les travers des humains.
-Vous qui le prendrez pour modèle,
-Par vos travaux, par votre zèle,
-Les vices seront abattus ;
-Et votre gloire inaltérable
-Fondera l'empire durable
-Des vrais talents et des vertus.
-
--*who_legrandpretre
-Qu'on se livre aux transports d'une vive gaité ;
-C'est par un aimable délire
-Que doit être fêté
-Celui qui sut si bien nous exciter à rire.

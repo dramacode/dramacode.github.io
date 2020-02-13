@@ -1,6 +1,6 @@
 ---
 identifier: perrin_pomone  
-creator: Perrin, Pierre ; Cambert, Robert.  
+creator: Perrin, Pierre ; Cambert, Robert ; Georges Forestier.  
 date: 1671  
 title: Pomone, pastorale en musique  
 ---

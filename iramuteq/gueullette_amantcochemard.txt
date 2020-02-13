@@ -1,45 +1,57 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
--*who_isabelle
+Mamesel, entrerai-je ?
+
+Mais...
+
+Charmante Zizabelle, il est vrai que j'men cache,
+Afin qu'ignorant tout, Gilles n'apprenne rien,
+J'ai pris l'habit d'un Turc pour être Zarménien.
+
+      Est-il armé?
+
+      Monsieur je vous salue y
+Je fuis z'un étranger qui n'est pas du pays.
+
+      Si c'était zune épée,
+Je me revancherais ; mais ce n'est qu'un bâton.
+
+      Monsieur dedans la ville,
+En cas d'çá je prétends être la plus habile,
+J'entreprends z'une fille, et cocharde si bien,
+Que de se marier, ne lui est plus de rien.
+
+      Monsieur, j'ny prends pas garde,
+J'travaille à mon plaisir.
+
+Je suis votre servante.
+
+      Pourquoi chercher querelle ?
+Je me viens, il est vrai, fiancer à Mameselle.
+Je m'appelle Liandre, he bien zon s'épousra.
+
+      Diable !
+
+      Je vous le certifie»
+
+Monsieur j'en suis bien aise, et vous fais compliment.
+Je vous le faits encor plus agriablement.
+
+
+**** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 Arlequin z'il est vrai, gna pas t'à tortiller,
 Je prétends voir Liandre, à gogo lui parier.
 
--*who_arlequin
-Ly parler da ! L'autr' jour vous ly parliez, la peste !
-J' n'entendais pas les mots, je voyais ben le geste.
-
--*who_isabelle
 Badin va m'el chercher.
 
--*who_arlequin
-      Vous l'aurez pal bon bout
-Monsieu Gilles est mon maîte, et si j'vous sers en tout.
-Lorsqu'aux enfants trouvés t'il fit de vous emplette,
-Vous étiez mèt-avis encore à la bavette.
-
--*who_isabelle
 Je n'avais pas t'onze ans,
 
--*who_arlequin
-      Queu drol' d'Amant c'est-là !
-Il aime, il est jaloux, puis l'en demeure-là ;
-Pour vous magner la main il prendrait des pincettes ;
-Dame à le voir si sage à l'endroit des fillettes.
-Si l'on dit qu'il est fou, on ment.
-
--*who_isabelle
       Lui fou ! Jamais
 Mais Liandre, il est vrai...
 
--*who_arlequin
-      Bientôt vous le verres,
-Y devrait être ici, t'il sait que Monsieu Gilles
-N'est pas tà la maison, d'autant qu'il est en ville ;
-Serait-il pas poltron ?
-
--*who_isabelle
       Arlequin, quelle erreur.'
 Lìandre ose m'aimer, va croi qu'il a du coeur.
 Sais-tu queul fort heureux m'en fit fair la conquête?
@@ -48,183 +60,90 @@ Je ne sais quoi me dit, ah queu ravissement !
 Que Liandre était fait pour moi précisément...
 Il est vrai qu'il est fait tout comme un' arbalète.
 
--*who_arlequin
-Quand on parle du loup...
-
--*who_isabelle
       J'en vois déjà la tête.
 
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_leandre
-Mamesel, entrerai-je ?
-
--*who_isabelle
       He, oui, dépêchons-nous.
 
--*who_leandre
-Mais...
-
--*who_isabelle
       Entrez tout-à-fait, ou bien retirez-vous.
 Mais vla qu'est fort plaisant, Liandre une moustache !
 
--*who_leandre
-Charmante Zizabelle, il est vrai que j'men cache,
-Afin qu'ignorant tout, Gilles n'apprenne rien,
-J'ai pris l'habit d'un Turc pour être Zarménien.
-
--*who_isabelle
 La moustache sied bien.
 
--*who_arlequin
-      Diantre ! On heurte à la porte !
-
--*who_isabelle
 C'est Gilles.
 
--*who_leandre
-      Est-il armé?
-
--*who_isabelle
       Que cent diable l'emporte.
 
--*who_arlequin
-Comme il a la venette ! Hé n'appréhendez rien.
-Ouvrons, êtes-vous pas z'un Marchand Zarmenien?
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_gilles
-Qu'eu magnere est ce donc ça ? On me laisse en la rue.
-Mais à qui en veut stici.
-
--*who_leandre
-      Monsieur je vous salue y
-Je fuis z'un étranger qui n'est pas du pays.
-
--*who_gilles
-Un homme cy end'dans ! Pardienn' j'en suis d'avis.
-
--*who_arlequin
-Monsieur est un marchand... y faut que je vous dise
-Qui vient a Mameselle offrir sa marchandise.
-
--*who_isabelle
 Arlequin dit bien vrai, zil me l'offre à crédit,
 Ce qu'il montre est fort beau, zil en trouve le débit.
 
--*who_gilles
-Sa marchandise, oui ; pan, la voilà payée.
-Hérite mon garçon.
-
--*who_leandre
-      Si c'était zune épée,
-Je me revancherais ; mais ce n'est qu'un bâton.
-
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_isabelle
 Monsieur Gilles est poli deu même qu'un cochon,
 Y traite bien les gens.
 
--*who_gilles
-      Vous n'avez rien qu'à dire,
-Si vous voulez plus loin, j'ìrons le reconduire.
-
--*who_isabelle
 Un Marchand vient céan-t'avec civilité,
 Et ne reçoit de vous que malhonnêteté,
 Trente coups de bâton.
 
--*who_gilles
-      Je n'ai pas la main gourde.
-
--*who_isabelle
 Malappris.
 
--*who_arlequin
-      Paix. Morguoi z'il me vient une bourde,
-Allez vous mettre au lit.
-
--*who_isabelle
       Volontiers.
 
--*who_gilles
+      Expliquez-vous.
+
+Vous me fichez malheur, pourquoi tant de mystère ?
+De qui vient cet écrit ?
+
+      Ciel !
+
+Monsieur en est croyable.
+
+      Monsieur Gilles est mon père.
+
+      Queul évenment étrange !
+
+
+**** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
+Qu'eu magnere est ce donc ça ? On me laisse en la rue.
+Mais à qui en veut stici.
+
+Un homme cy end'dans ! Pardienn' j'en suis d'avis.
+
+Sa marchandise, oui ; pan, la voilà payée.
+Hérite mon garçon.
+
+      Vous n'avez rien qu'à dire,
+Si vous voulez plus loin, j'ìrons le reconduire.
+
+      Je n'ai pas la main gourde.
+
       Oh ma foi,
 Gérome est un Docteur qui range tout cheux moi.
 
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_gilles
 Parle-moi, Zarlequin, ne m'es-tu pas fidèle ?
 
--*who_arlequin
-Ah ah!
-
--*who_gilles
       Il en convient, je m'assie à ton zèle,
 Dis moi, sais-tu d'où vient, ou par queule raison
 Isabelle a toujours queuqu'drille en la maison ?
 Al-songe, n'est-ce pas au tracas du ménage ?
 
--*who_arlequin
-Oui, Monsieur, elle en est friande.
-
--*who_gilles
 J'en enrage.
 
--*who_arlequin
-      Il vous faut une femme, à demeure cheux nous,
-Vous l'aimez ? Que ne la...
-
--*who_gilles
       Quoi !
 
--*who_arlequin
-      Quen'la prenez-vous ?
-
--*who_gilles
 Jaroonbille, il est vrai que j'aime ste fillette ;
 Mais queuq'sorcier....
 
--*who_arlequin
-      Plait-il ?
-
--*who_gilles
       M'a noué l'éguillette.
 
--*who_arlequin
-Monsieur, n'eum' touchez pas.
-
--*who_gilles
       Quand je l'épouserais;
 Tu vois bien, en un mot, queu posture je ferais
 Plutôt de mariage, y faut que j'la dégoûte,
 Saurais-tu queuque secret?
 
--*who_arlequin
-      Un secret ? Je m'en doute,
-Je connais une femme, et c'est Madam' Jacmard,
-Aux fill'alle vous sait donner un cochemard.
-
--*who_gilles
 Un cochemard !
 
--*who_arlequin
-      Al sait fi bien son personnage,
-Qu'une fille bientôt croit com' ça quel mariage
-N'est que le cochemard, et n'en veut plus tâter;
-
--*who_gilles
 Va tôt me la chercher.
 
--*who_arlequin
-      Je cours vous contenter.
-
-**** *book_ *id_I06 *act_I *date_(inc
-
--*who_gilles
 Queux tracas! Quas-tu Gil ? Véritablement qu'ai-je ?
 Mais comment un sorcier fait-il un sortilège ?
 Pour feu ma défunt' femm' j'étais pis qu'un matou,
@@ -233,73 +152,23 @@ Mon rossignol fait comme eul chien d'Jean de Nivelle.
 Vla sitôt que je veux rebouiser Isabelle ;
 On l'appelle, il s'enfuit... Ah vla Madam' Jacmard !
 
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_gilles
 C'est donc vous qui donnez aux fill'un fier cochemard,
 
--*who_arlequin
-Oh dame elle y va dru.
-
--*who_leandre
-      Monsieur dedans la ville,
-En cas d'çá je prétends être la plus habile,
-J'entreprends z'une fille, et cocharde si bien,
-Que de se marier, ne lui est plus de rien.
-
--*who_gilles
 J'ai céans une fille qu'il faut qu'on cochemarde,
 Tenez, j'ai des écus.
 
--*who_leandre
-      Monsieur, j'ny prends pas garde,
-J'travaille à mon plaisir.
-
--*who_gilles
       Vous voyez bien ici
 La chambre d'Isabelle, al dort sul pied du lit,
 Mais je vous conduirai.
 
--*who_arlequin
-      Non pas, car Zisabelle>
-Si vous la reluquez, croira qu'on se gauss' d'elle.
-Et via qu'el cochmard cahin-caha.
-
--*who_gilles
 Pardienne il a raison, je vous attendrai-là.
 
--*who_leandre
-Je suis votre servante.
-
--*who_arlequin
-      Allez qu'on me la cogne.
-
-**** *book_ *id_I08 *act_I *date_(inc
-
--*who_gilles
 Il m'est avis qu'elle a le coeur à la besogne.
 
--*who_arlequin
-Laissez-leur tout le temps, vous verrez un bon tour,
-L'un portant l'autre, là quatre heures chaque jour,
-Le goût lui passera de se mettre en ménage,
-Et vous pourrez après la prendre en mariage.
-
--*who_gilles
 Si Madame Jacmard y met bien la façon.
 
--*who_arlequin
-Laissez faire Liandre, oh queux maître garçon !
-
--*who_gilles
 Liandre ! Mon gourdin, mon gourdin.
 
--*who_arlequin
-      Je déniche.
-
-**** *book_ *id_I09 *act_I *date_(inc
-
--*who_gilles
 Ah coquin d'Arlequin, c'est ainsi qu'on me triche !
 Ils ont fermé la porte. Ah les maudites gens !
 Hélas ! Je suis dehors, et Léandre est dedans,
@@ -309,98 +178,100 @@ Un homm', comment un homm' ! Je suis fou, car je crois,
 Qu'elle le doit savoir à présent mieux que moi.
 J'enrage, ouvrirez-vous ?
 
-**** *book_ *id_I10 *act_I *date_(inc
-
--*who_leandre
-      Pourquoi chercher querelle ?
-Je me viens, il est vrai, fiancer à Mameselle.
-Je m'appelle Liandre, he bien zon s'épousra.
-
--*who_gilles
 Qu'eu Diabeu de coch'mard !
 
-**** *book_ *id_I11 *act_I *date_(inc
-
--*who_lasoeur
-      Monsieur Gilles est-il là ?
-
--*who_arlequin
-Oui.
-
--*who_lasoeur
-      Des enfants trouvés je suis la soeur portière ;
-Et je viens lui donner un avis salutaire.
-Mon doux Jésus, qu'elle est grandie !
-
--*who_isabelle
-      Expliquez-vous.
-
--*who_lasoeur
-Cette fille, Monsieur, vous la prîtes ct'e^ nous,
-Il y a bien dix ans.
-
--*who_gilles
       Je fis un bon voyage.
 
--*who_lasoeur
-Nous ignorions alors quel est son parentage,
-Cet écrit retrouvé peut découvrir son sort,
-Et pourra bien causer quelque joyeux transport.
-
--*who_isabelle
-Vous me fichez malheur, pourquoi tant de mystère ?
-De qui vient cet écrit ?
-
--*who_lasoeur
-      Il vient de votre mère,
-Et contient en un mot un merveilleux secret.
-
--*who_gilles
 La peste !
 
--*who_leandre
-      Diable !
-
--*who_isabelle
-      Ciel !
-
--*who_lasoeur
-      Écoutez ce billet.
-» J'exposons not' enfant par faute de richesse,;
-C'est une fille, un jour nous la réclamerons,
-Elle naquit aveuq' un mulet sur la fesse,
-À cette marque-là jeu la reconnaîtrons. »
-
--*who_gilles
 Un mulet ! De sa mère, hélas ! C'est une envie,
 Aurais-tu ce mulet !
 
--*who_leandre
-      Je vous le certifie»
-
--*who_isabelle
-Monsieur en est croyable.
-
--*who_gilles
       Oui, je m'en ressouviens,
 Sa pauvr' mère écrivit ste lettre de la main,
 Lorsque je l'exposam' à la Salpétrière.
 Tu serais mon enfant !
 
--*who_isabelle
-      Monsieur Gilles est mon père.
-
--*who_leandre
-Monsieur j'en suis bien aise, et vous fais compliment.
-Je vous le faits encor plus agriablement.
-
--*who_gilles
 J'eusse fait un insecq, queu bonheur ! Mon bon Ange,
 Me nouit l'aiguillet'.
 
--*who_isabelle
-      Queul évenment étrange !
-
--*who_gilles
 Liandre, elle est à vous. Allons aux Porcherons,
 Je serons tous contents, je nous y soûlerons.
+
+
+**** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+Ly parler da ! L'autr' jour vous ly parliez, la peste !
+J' n'entendais pas les mots, je voyais ben le geste.
+
+      Vous l'aurez pal bon bout
+Monsieu Gilles est mon maîte, et si j'vous sers en tout.
+Lorsqu'aux enfants trouvés t'il fit de vous emplette,
+Vous étiez mèt-avis encore à la bavette.
+
+      Queu drol' d'Amant c'est-là !
+Il aime, il est jaloux, puis l'en demeure-là ;
+Pour vous magner la main il prendrait des pincettes ;
+Dame à le voir si sage à l'endroit des fillettes.
+Si l'on dit qu'il est fou, on ment.
+
+      Bientôt vous le verres,
+Y devrait être ici, t'il sait que Monsieu Gilles
+N'est pas tà la maison, d'autant qu'il est en ville ;
+Serait-il pas poltron ?
+
+Quand on parle du loup...
+
+      Diantre ! On heurte à la porte !
+
+Comme il a la venette ! Hé n'appréhendez rien.
+Ouvrons, êtes-vous pas z'un Marchand Zarmenien?
+
+Monsieur est un marchand... y faut que je vous dise
+Qui vient a Mameselle offrir sa marchandise.
+
+      Paix. Morguoi z'il me vient une bourde,
+Allez vous mettre au lit.
+
+Ah ah!
+
+Oui, Monsieur, elle en est friande.
+
+      Il vous faut une femme, à demeure cheux nous,
+Vous l'aimez ? Que ne la...
+
+      Quen'la prenez-vous ?
+
+      Plait-il ?
+
+Monsieur, n'eum' touchez pas.
+
+      Un secret ? Je m'en doute,
+Je connais une femme, et c'est Madam' Jacmard,
+Aux fill'alle vous sait donner un cochemard.
+
+      Al sait fi bien son personnage,
+Qu'une fille bientôt croit com' ça quel mariage
+N'est que le cochemard, et n'en veut plus tâter;
+
+      Je cours vous contenter.
+
+Oh dame elle y va dru.
+
+      Non pas, car Zisabelle>
+Si vous la reluquez, croira qu'on se gauss' d'elle.
+Et via qu'el cochmard cahin-caha.
+
+      Allez qu'on me la cogne.
+
+Laissez-leur tout le temps, vous verrez un bon tour,
+L'un portant l'autre, là quatre heures chaque jour,
+Le goût lui passera de se mettre en ménage,
+Et vous pourrez après la prendre en mariage.
+
+Laissez faire Liandre, oh queux maître garçon !
+
+      Je déniche.
+
+Oui.
+

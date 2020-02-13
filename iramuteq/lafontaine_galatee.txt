@@ -1,155 +1,25 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galatee
 
--*who_timandre
-Brillantes fleurs, naissez,
-Herbe tendre, croissez
-Le long de ces rivages ;
-Venez, petits oiseaux,
-Accorder vos ramages
-Au doux bruit de leurs eaux.
-Clymène sur ces bords
-Vient chercher les trésors
-De la saison nouvelle ;
-Messagers du matin,
-Si vous voyez la belle,
-Chantez sur son chemin.
-Et vous, charmantes fleurs,
-Douces filles des pleurs
-De la naissante Aurore,
-Méritez que la main
-De celle que j'adore
-Vous moissonne en chemin.
-Mais j'aperçois Acis : il aime Galatée.
-Son ardeur pourrait bien être enfin écoutée.
-Il est beau, c'est assez ; et les filles des dieux
-Ne consultent que leurs yeux.
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_acis
-Soleil, hâte tes pas ; amène ma déesse.
-Ô qu'heureux sont les amants
-Qui te reprochent sans cesse
-La vitesse des moments !
-
--*who_timandre
-Acis !
-
--*who_acis
-      J'entends la voix de l'amant de Clymène.
-Cher Timandre, à qui seul j'ai découvert ma peine,
-N'as-tu point rencontré celle dont les beautés
-Ont même sur Vénus la victoire emportée ?
-
--*who_timandre
-Je viens de la quitter ; elle aide Galatée
-À se parer des trésors de ces prés.
-
--*who_acis
-C'est Galatée elle-même
-Que je viens chercher en ces lieux.
-Tu t'es trompé, Timandre, et crois trop à tes yeux
-Quand on dit la beauté suprême,
-On dit la Nymphe...
-
--*who_timandre
-      On dit la bergère que j'aime.
-Nous en croirons les yeux de tout autre que vous.
-
--*who_lechoeur
-Vous ne vous trompez point, bergers : ce que l'on aime
-Est toujours l'objet le plus doux.
-
--*who_acis
-La voici, cette Nymphe ; elle vient, laissez-nous,
-Bergers : ce n'est qu'au seul Timandre
-Que mes secrets se font entendre.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_acis
-Déesse des appas, si quelqu'un des mortels
-Mettait son coeur au pied de vos autels,
-Que feriez-vous ?
-
--*who_galatee
       Ce don ne se refuse guère.
 
--*who_acis
-S'il était fait par un amant ?
-
--*who_galatee
 Je ne l'en croirais pas moins capable de plaire.
 
--*who_acis
-Si c'était un berger qui vous dît son tourment ?
-
--*who_galatee
 Il pourrait être si charmant,
 Qu'on l'écouterait sans colère.
 
--*who_acis
-Déesse des appas, écoutez les soucis d'Acis
-Je vous aime ; et non pas comme les immortelles,
-Par crainte, par devoir, sans transports, sans désir,
-Sans plaisir ;
-Mais comme il faut aimer les belles ;
-Il faut auprès de la beauté
-Oublier la divinité.
-
--*who_galatee
 Berger, je vous trouve sincère ;
 Vous pouviez autrement témoigner votre amour
 Je devais m'en douter ; vous deviez me le taire.
 
--*who_acis
-Et ne l'ayant pas fait, je dois perdre le jour.
-J'y cours, et je vous vais venger de cette offense,
-Indigne que je suis de mourir à vos yeux.
-
--*who_galatee
 Ne bougez, mortel ; c'est aux dieux
 Que l'on doit réserver le soin de la vengeance.
 
--*who_acis
-Je suis mortel, il est vrai ; mais aussi
-Je puis par mon trépas faire honneur à vos charmes.
-Les dieux n'en usent pas ainsi :
-Leur ardeur est légère ; ils aiment sans alarmes ;
-Et vous méritez un amant
-Qui s'abandonne à son tourment.
-
--*who_timandreacisclimene
-Il n'est que d'avoir un amant
-Qui s'abandonne à son tourment.
-
--*who_timandre
-Le mien n'a point d'égal ; et cependant, Clymène,
-Qu'avez-vous fait encor pour soulager mes maux ?
-Que sert de dire à tous propos :
-" Je suis contente de sa peine " ?
-Payez-la donc, ingrate, insensible, inhumaine !
-
--*who_clymene
-Toujours les bergers
-Nous nomment cruelles,
-Et toujours leurs belles
-Les nomment légers.
-On leur est sévère ;
-On fait prudemment
-Cruelle bergère
-Craint volage amant.
-
--*who_galatee
 Retirez-vous tous deux ; toi, Clymène, demeure.
 Acis, on vous pardonne ; allez, et dans ces lieux
 Ne revenez de plus d'une heure.
 
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_galatee
 Ils sont partis ; je ne crains plus leurs yeux.
 M'ont-ils point vu rougir ? Clymène, cette offense
 Méritait un courroux plus prompt et plus puissant
@@ -166,46 +36,6 @@ Injuste et cruelle loi !
 Hélas ! il n'est plus temps, et déjà malgré toi
 J'ai flatté ce berger dans l'ardeur qui le presse.
 
--*who_clymene
-Vous craignez de parler, et vous êtes déesse !
-Quand on est de ce rang, l'on doit encourager
-Son berger.
-Pour moi, je dis au mien sans cesse
-Qu'il m'a touché le coeur aussi bien que les yeux.
-Je n'en dirais pas tant au plus puissant des dieux.
-Le silence en amour est une erreur extrême
-Souffrez, mais déclarez vos maux ;
-Car qui les sait mieux que vous-même ?
-Que sert d'en parler aux Échos ?
-Il faut les dire à ce qu'on aime.
-
--*who_galateeclymene
-Hélas ! Pourquoi soumit-on notre coeur
-À ce tyran que l'on appelle honneur ?
-Tous nos amants nous content leur martyre,
-Et nos désirs n'oseraient s'exprimer !
-Il faut nous empêcher d'aimer,
-Ou nous permettre de le dire.
-
--*who_lechoeur
-Aimez, déclarez vos désirs,
-Car qui les sait mieux que vous-même ?
-Que sert d'en parler aux Zéphyrs ?
-Il faut les dire à ce qu'on aime.
-
-**** *book_ *id_II01 *act_II *date_(non
-
--*who_polypheme
-Que vous êtes heureux, troupeaux ! vous ne songez
-Qu'à satisfaire vos envies.
-Si l'amour vous contraint d'oublier les prairies,
-Vos feux sont bientôt soulagés ;
-Et j'ai pour tout plaisir mes tristes rêveries
-Vain et cruel recours des amants affligés.
-Que vous êtes heureux, troupeaux ! vous ne songez
-Qu'à satisfaire vos envies.
-
--*who_galatee
 J'aime la déité de ces rives fleuries :
 Hélas ! À quoi mes soins se sont-ils engagés ?
 J'ai beau lui tout offrir, et prés et bergeries ;
@@ -223,111 +53,27 @@ Je dois seul en être idolâtre ;
 Il n'est pas fait pour un volage amant.
 Hélas ! que me sert-il de l'aimer constamment ?
 
-**** *book_ *id_II02 *act_II *date_(non
-
--*who_polypheme
-Venez-vous augmenter mes peines ?
-Cruelle, ai-je à souffrir quelque nouveau mépris ?
-
--*who_galatee
 Tâchez de vous guérir ; vos poursuites sont vaines,
 Je vous donne un sincère avis.
 
--*who_polypheme
-Quoi ! C'est le fruit de ma souffrance !
-C'est le fruit de mes soins si longs et si constants !
-
--*who_galatee
 Notre amour ne sert pas toujours de récompense
 Et ce n'est pas toujours un ouvrage du temps.
 
--*who_polypheme
-Vous écoutez les voeux d'un insolent, sans doute ;
-Un berger vous parlait tout à l'heure en ce lieu.
-
--*who_galatee
 Ne pouvant vous aimer, qu'importe qui j'écoute ?
 Un berger qui me plaît peut passer pour un dieu.
 
--*who_polypheme
-Acis un dieu ! Je tiens ce dieu bien téméraire.
-Qu'il évite ma colère !
-Polyphème est son prince ; et j'ai dans ces hameaux
-Cent bergers comme lui qui gardent mes troupeaux.
-Ils font de votre nom résonner ces coteaux.
-Si rien de moi vous pouvait plaire,
-Ma voix se mêlerait avec leurs chalumeaux.
-L'autre jour je surpris au nid une fauvette,
-Un rossignol, et deux autres oiseaux :
-Je les instruis pour vous ; ils suivent ma musette,
-Et chantent sans faillir déjà deux airs nouveaux.
-Peut-être aimez-vous mieux de cruels animaux
-Si ce don vous plaît davantage,
-J'apprivoise deux jeunes ours :
-Je n'en puis faire autant de votre humeur sauvage ;
-Mes dons vous irritent toujours.
-J'ai des forêts, j'ai des campagnes,
-Des parcs où vous et vos compagnes
-Pourrez chasser : tous ces biens sont à vous.
-Recevez-les, beauté céleste,
-Avec un autre don que je préfère à tous
-C'est mon coeur percé de vos coups.
-
--*who_galatee
 Je ne veux ce coeur, ni le reste.
 
--*who_polypheme
-Ah ! cruelle ! c'est trop : gardez que le courroux
-Ne me porte à la fin à quelque violence.
-
--*who_galatee
 Une déesse ne craint rien.
 
--*who_polypheme
-Qu'Acis craigne du moins, lui de qui l'insolence
-Ose me disputer ce qui fait tout mon bien.
-
--*who_galatee
 Moi, le bien d'un Cyclope ?
 
--*who_polypheme
-      Un Cyclope possède
-Ce que l'Olympe a de plus beau.
-Il est vrai que Vénus vous cède ;
-Mais je vaux bien Vulcain ; je me suis vu dans l'eau.
-Je vaux peut-être mieux que votre Acis lui-même :
-Du moins par mes transports j'ai ses feux surpassés.
-
--*who_galatee
 Eh bien, je crois Acis moins beau que Polyphème :
 Cependant il me plaît, je l'aime, c'est assez.
 L'amour a ses raisons ; mais j'ai beau vous les dire.
 
--*who_polypheme
-L'amour est sans raison ; mais j'ai beau me le dire.
-J'aimerai malgré moi.
-
--*who_galatee
       J'aimerai malgré vous.
 
--*who_polypheme
-Heureux ceux que ce dieu blesse des mêmes coups !
-Heureux les coeurs unis sous un commun martyre !
-Tous leurs tourments leur semblent doux.
-
--*who_polypheme
-Ma présence vous irrite ;
-Je le vois bien, cruelle. Adieu. Qu'Acis évite
-Mon courroux :
-S'il approche jamais de vous,
-S'il vous parle, s'il vous regarde,
-S'il ose seulement prononcer votre nom
-Voyez cet abîme profond,
-C'est ce que ma fureur lui garde.
-
-**** *book_ *id_II03 *act_II *date_(non
-
--*who_galatee
 Ses menaces me font trembler.
 Acis n'osera plus me voir ni me parler.
 Ô dieux ! Il l'ose encor : le voici ; c'est lui-même.
@@ -336,7 +82,6 @@ Fuis vite ; il n'est pas loin ; s'il te voit... Mais, hélas !
 Je parle aux vents ; Acis ne m'entend pas.
 Clymène, cours à lui.
 
--*who_galatee
       Que l'amour a d'alarmes !
 Que de soucis rendent amers ses charmes !
 Quel dieu jaloux, corrompant ce plaisir,
@@ -344,36 +89,14 @@ Voulut qu'il fût mêlé de peines,
 Et de ses plus aimables chaînes
 Fit un sujet de crainte, ainsi que de désir ?
 
-**** *book_ *id_II04 *act_II *date_(non
-
--*who_galatee
 Fuyez, Acis, fuyez ; je frémis quand je pense
 Au sort dont un tyran menace nos amours.
 
--*who_acis
-Est-il d'autre danger pour moi que votre absence ?
-Laissez là le soin de mes jours.
-
--*who_galatee
 Qui le prendra que celle qui vous aime ?
 Encor si je pouvais vous suivre chez les morts !
 Mais vous irez sans moi trouver la Parque blême
 Elle rira de mes efforts.
 
--*who_acis
-Zéphyrs, portez aux dieux ces paroles charmantes.
-Citoyens de l'Olympe, avez-vous des amantes,
-En avez-vous qui d'un mot seulement
-Puissent de Jupiter faire ainsi la fortune ?
-Allez, votre ambroisie est chose trop commune ;
-Je ne la daignerais souhaiter un moment.
-Après cette gloire suprême,
-Si je ne meurs de plaisir et d'amour,
-Je mérite que Polyphème
-À son rival ôte le jour
-Aux yeux de sa maîtresse même.
-
--*who_galatee
 Berger, vous prodiguez mon bien
 Votre vie est à moi. Cherchez quelque retraite
 Qui de nos feux ne dise rien,
@@ -399,22 +122,6 @@ Si vous m'aimez, s'il m'aime, arrêtez son courage.
 Je vous confie Acis, conservez-moi ce gage ;
 Je n'ai rien de plus précieux.
 
-**** *book_ *id_II05 *act_II *date_(non
-
--*who_neree
-Ma fille, votre amant doit perdre la lumière.
-Le Sort m'a répondu : " Vous me pressez en vain ;
-Si j'écoutais quelque prière,
-Je cesserais d'être Destin.
-Je viens d'abandonner la trame d'un monarque
-Aux ciseaux de la Parque.
-Afin de la fléchir, il offrait des trésors
-Mais l'or n'a point de cours au royaume des morts ;
-Caron passe à présent ce prince dans sa barque.
-Et vous me voulez obliger
-À rendre immortel un berger ! "
-
--*who_galatee
 Quoi ! Mon berger mourra ! Destin, pour toute grâce,
 Je te demande qu'il ne passe
 Qu'après mille soleils le fleuve sans retour.
@@ -423,17 +130,6 @@ Tu me permettes de le suivre.
 Ne me condamne point au supplice de vivre
 Après avoir perdu l'objet de mon amour.
 
--*who_galateeneree
-Aveugle enfant, que sert qu'on te révère ?
-Affranchis-tu tes sujets de la mort ?
-Elle les prend ; et si tu t'en sais faire
-D'autres nouveaux, elle les prend encor.
-Vos déités sont un mal nécessaire.
-
--*who_neree
-Allons trouver Acis.
-
--*who_galatee
       Allons. Puisqu'il n'espère
 Contre Pluton nulle faveur,
 Faisons qu'il cache son ardeur ;
@@ -441,39 +137,181 @@ Empêchons-le au moins de paraître,
 Si l'Amour laisse entrer la peur
 Dans les coeurs dont il est le maître.
 
--*who_bergerbergere
-Pluton a son heure
-Ainsi que l'Amour ;
-Il faut que tout meure,
-Que tout aime un jour.
-L'un et l'autre Cour
-En sujets abonde ;
-Deux rois sont au monde,
-Pluton et l'Amour.
 
--*who_lechoeur
-Deux rois sont au monde,
-Pluton et l'Amour.
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
 
--*who_bergerbergere
-Humains, qui devez tous un voyage à Cythère,
-Ne laissez point passer la saison des beaux jours
-Le temps d'aimer ne dure guère,
-Et celui de mourir, hélas ! Dure toujours.
+Soleil, hâte tes pas ; amène ma déesse.
+Ô qu'heureux sont les amants
+Qui te reprochent sans cesse
+La vitesse des moments !
 
--*who_deuxbergers
-Le plus beau de l'âge
-Le premier s'enfuit
-C'est être peu sage
-D'en perdre le fruit ;
-Car tout ce qui suit
-N'est que soins et peine,
-Douleur et chagrin ;
-Et puis à la fin
-La mort nous entraîne.
+      J'entends la voix de l'amant de Clymène.
+Cher Timandre, à qui seul j'ai découvert ma peine,
+N'as-tu point rencontré celle dont les beautés
+Ont même sur Vénus la victoire emportée ?
 
--*who_lechoeur
-Goûtons la saison des fleurs ;
-Usons des lis et des roses :
-Bientôt la saison des pleurs
-Viendra finir toutes choses.
+C'est Galatée elle-même
+Que je viens chercher en ces lieux.
+Tu t'es trompé, Timandre, et crois trop à tes yeux
+Quand on dit la beauté suprême,
+On dit la Nymphe...
+
+La voici, cette Nymphe ; elle vient, laissez-nous,
+Bergers : ce n'est qu'au seul Timandre
+Que mes secrets se font entendre.
+
+Déesse des appas, si quelqu'un des mortels
+Mettait son coeur au pied de vos autels,
+Que feriez-vous ?
+
+S'il était fait par un amant ?
+
+Si c'était un berger qui vous dît son tourment ?
+
+Déesse des appas, écoutez les soucis d'Acis
+Je vous aime ; et non pas comme les immortelles,
+Par crainte, par devoir, sans transports, sans désir,
+Sans plaisir ;
+Mais comme il faut aimer les belles ;
+Il faut auprès de la beauté
+Oublier la divinité.
+
+Et ne l'ayant pas fait, je dois perdre le jour.
+J'y cours, et je vous vais venger de cette offense,
+Indigne que je suis de mourir à vos yeux.
+
+Je suis mortel, il est vrai ; mais aussi
+Je puis par mon trépas faire honneur à vos charmes.
+Les dieux n'en usent pas ainsi :
+Leur ardeur est légère ; ils aiment sans alarmes ;
+Et vous méritez un amant
+Qui s'abandonne à son tourment.
+
+Est-il d'autre danger pour moi que votre absence ?
+Laissez là le soin de mes jours.
+
+Zéphyrs, portez aux dieux ces paroles charmantes.
+Citoyens de l'Olympe, avez-vous des amantes,
+En avez-vous qui d'un mot seulement
+Puissent de Jupiter faire ainsi la fortune ?
+Allez, votre ambroisie est chose trop commune ;
+Je ne la daignerais souhaiter un moment.
+Après cette gloire suprême,
+Si je ne meurs de plaisir et d'amour,
+Je mérite que Polyphème
+À son rival ôte le jour
+Aux yeux de sa maîtresse même.
+
+
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_polypheme
+
+Que vous êtes heureux, troupeaux ! vous ne songez
+Qu'à satisfaire vos envies.
+Si l'amour vous contraint d'oublier les prairies,
+Vos feux sont bientôt soulagés ;
+Et j'ai pour tout plaisir mes tristes rêveries
+Vain et cruel recours des amants affligés.
+Que vous êtes heureux, troupeaux ! vous ne songez
+Qu'à satisfaire vos envies.
+
+Venez-vous augmenter mes peines ?
+Cruelle, ai-je à souffrir quelque nouveau mépris ?
+
+Quoi ! C'est le fruit de ma souffrance !
+C'est le fruit de mes soins si longs et si constants !
+
+Vous écoutez les voeux d'un insolent, sans doute ;
+Un berger vous parlait tout à l'heure en ce lieu.
+
+Acis un dieu ! Je tiens ce dieu bien téméraire.
+Qu'il évite ma colère !
+Polyphème est son prince ; et j'ai dans ces hameaux
+Cent bergers comme lui qui gardent mes troupeaux.
+Ils font de votre nom résonner ces coteaux.
+Si rien de moi vous pouvait plaire,
+Ma voix se mêlerait avec leurs chalumeaux.
+L'autre jour je surpris au nid une fauvette,
+Un rossignol, et deux autres oiseaux :
+Je les instruis pour vous ; ils suivent ma musette,
+Et chantent sans faillir déjà deux airs nouveaux.
+Peut-être aimez-vous mieux de cruels animaux
+Si ce don vous plaît davantage,
+J'apprivoise deux jeunes ours :
+Je n'en puis faire autant de votre humeur sauvage ;
+Mes dons vous irritent toujours.
+J'ai des forêts, j'ai des campagnes,
+Des parcs où vous et vos compagnes
+Pourrez chasser : tous ces biens sont à vous.
+Recevez-les, beauté céleste,
+Avec un autre don que je préfère à tous
+C'est mon coeur percé de vos coups.
+
+Ah ! cruelle ! c'est trop : gardez que le courroux
+Ne me porte à la fin à quelque violence.
+
+Qu'Acis craigne du moins, lui de qui l'insolence
+Ose me disputer ce qui fait tout mon bien.
+
+      Un Cyclope possède
+Ce que l'Olympe a de plus beau.
+Il est vrai que Vénus vous cède ;
+Mais je vaux bien Vulcain ; je me suis vu dans l'eau.
+Je vaux peut-être mieux que votre Acis lui-même :
+Du moins par mes transports j'ai ses feux surpassés.
+
+L'amour est sans raison ; mais j'ai beau me le dire.
+J'aimerai malgré moi.
+
+Heureux ceux que ce dieu blesse des mêmes coups !
+Heureux les coeurs unis sous un commun martyre !
+Tous leurs tourments leur semblent doux.
+
+Ma présence vous irrite ;
+Je le vois bien, cruelle. Adieu. Qu'Acis évite
+Mon courroux :
+S'il approche jamais de vous,
+S'il vous parle, s'il vous regarde,
+S'il ose seulement prononcer votre nom
+Voyez cet abîme profond,
+C'est ce que ma fureur lui garde.
+
+
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timandre
+
+Brillantes fleurs, naissez,
+Herbe tendre, croissez
+Le long de ces rivages ;
+Venez, petits oiseaux,
+Accorder vos ramages
+Au doux bruit de leurs eaux.
+Clymène sur ces bords
+Vient chercher les trésors
+De la saison nouvelle ;
+Messagers du matin,
+Si vous voyez la belle,
+Chantez sur son chemin.
+Et vous, charmantes fleurs,
+Douces filles des pleurs
+De la naissante Aurore,
+Méritez que la main
+De celle que j'adore
+Vous moissonne en chemin.
+Mais j'aperçois Acis : il aime Galatée.
+Son ardeur pourrait bien être enfin écoutée.
+Il est beau, c'est assez ; et les filles des dieux
+Ne consultent que leurs yeux.
+
+Acis !
+
+Je viens de la quitter ; elle aide Galatée
+À se parer des trésors de ces prés.
+
+      On dit la bergère que j'aime.
+Nous en croirons les yeux de tout autre que vous.
+
+Le mien n'a point d'égal ; et cependant, Clymène,
+Qu'avez-vous fait encor pour soulager mes maux ?
+Que sert de dire à tous propos :
+" Je suis contente de sa peine " ?
+Payez-la donc, ingrate, insensible, inhumaine !
+

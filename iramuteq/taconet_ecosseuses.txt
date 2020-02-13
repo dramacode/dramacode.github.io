@@ -1,47 +1,130 @@
 
 
-**** *book_ *id_I01 *act_I *date_1767
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mariejeanne
 
--*who_fanchon
+Dis donc, Babet ? Quoi donc qu'tu penses
+De t'étaler là par avance ?
+T'as la porte du Viterier,
+Vas-t'en z'y faire ton métier.
+
+Allons, hu, aussi non des coups.
+Crois-moi, n'jase pas, bonne bête,
+La cervelle m'monte à la tête :
+Et je pourrions ben te r'liché ,
+Comm'j'ons déjà fait z'au marché.
+
+Allons, tais ton bec, et dévoye,
+J'te dis qu'tu n'esteras pas là.
+
+Décampe toujours, harangère ;
+La place est à moi, d'mande à eux.
+Ais, Fanchon, parle, si tu veux.
+Pas vrai que j'ai l'accoutumance
+De m'mettre ilà par préférence ?
+
+Allons, va-t'en dans ta bataque.
+
+Eh ! vas, vas, pas tant qu'toi, vilaine !
+Ton père qu'est un portefaix,
+Ne porte pas comme tu fais.
+
+Passez, Madame Guenillon,
+Qu'on n'vous déchire votre robe.
+
+Ah, comme j'men vas t'étrier !
+T'attaque un honneur en personne ?
+Il faut tout du long que j't'en donne.
+Qu'en v'là d'abord, qui t'apprendra ?
+
+Attends, c'n'est encor que pour rire :
+J'vas t'en donner tout ton. Chien d'sou.
+
+Voyez comme la v'là blasphème !
+On n'lui fait pourtant rien.
+
+      Oui, va t'coucher.
+
+Prenez d'nos pois écossés,
+C'est les meilleurs fricassés ;
+Je voyons ben des tendrons
+Qui deviennent ronds, (bis)
+Lorsque je les nourrissons
+Des pois que nous écossons. (bis)
+
+
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babet
+
+De quel droit, Madame J'ordonne,
+Vlez-vous chasser une personne ?
+J'venons là plus souvent que vous.
+
+Ah ! Oui, voyons donc voir ? Que j'voye ?
+
+Et moi j'vous dis que l'on verra :
+Si tu m'fais peur, tu n'm'en fais guère.
+
+Voyez , c'est ben ça qu'on l'y d'mande !
+Dites donc, marnsell' Boute-feu,
+N'faut-y pas q'vous parliez fur l'jeu ?
+
+N'pousse pas tant que je n'te claque,
+J'm'en vas. Mais, tu t'souviendras d'moi :
+En attendant, v'là qu'est pour toi.
+Adieu, Marchande d'amourette,
+C'est chez vous qu'on va faire emplette :
+J'vous envoyrons nos Amoureux,
+Drès que j'n'aurons plus besoin d'eux;
+Comptez-y, bouche à toute graine.
+
+Ah, qu'ça te va ben d'faire la grosse !
+Souvent est gaussé qui nous gausse.
+C'est un proverbe qu'est ben bon.
+
+Si j'm'en vas, c'est peur qu'on m'dérobe ;
+On t'connaît pour ç'a dans l'quarquier.
+
+Ah, double chienne, on t'en donn'ra
+Des bonnets pour qu'tu les déchires ?
+
+À moi, ma mère, on me rompt l'cou.
+
+      Vraiment,
+On me bat pas à tout moment ?
+Vous m'avez frappée, on sait comme !
+Madame, d'mandez à Jérôme,
+Fanchon, Margot ?
+
+Du moins, vous lavez entendu :
+Un soufflet s'fait toujours entendre.
+
+Les plus forts n'doivent pas s'fâcher.
+Tout l'monde m'en veut, z'on m'échigne ;
+Va bonnet d'dentelles de Maligne,
+Qu'on vient de me mettre en hachi ;
+Pour de tout le reste j'men chi :
+Mais j'vas toujours faire ma plainte,
+Et dire que j'suis grosse enceinte.
+
+J'vendons des pois écossés
+À des gens fort ben troussés ;
+Mais les meilleures façons,
+C'est ceux qui payons ; (bis)
+Car j'navons pas de bien d'fonds,
+Si ce n'est dans nos litrons. (bis)
+
+
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fanchon
+
 Dis donc ? Quelle heure est-il, Margot ?
 
--*who_margot
-Je n'en sais rien : buvons l'coco,
-Puis j'écosserons, l'on sait comme !
-Mais, quien, v'la que je vois Jérôme.
-
-**** *book_ *id_I02 *act_I *date_1767
-
--*who_jerome
-Bonjour, Margot. Bonsoir, Fanchon,
-Que j'vous embrasse sans façon.
-
--*who_fanchon
 Volontiers. Ces grosses bourgeoises
 Font des compliments longs d'cent toises.
 Pour nous, j'vallons ben autant qu'eux,
 Quoique j'ayons les doigts terreux,
 Et que j'vendions du fruit d'z'oranges.
 
--*who_margot
-Finis- tu, Mamselle Fontanges ?
-Avec ton discours si choisi ,
-Vas-tu nous t'nir jusqu'à midi ?
-
--*who_jerome
-Eh ben, quoi ! Voyons donc ste prise.
-
--*who_margot
-Fanchon, veux-tu de la cerise ?
-
--*who_fanchon
 Moi, j'prendrai ce que tu voudras.
 
--*who_margot
-Mais vraiment, j'n'en aurais donc pas?
-Tu n'es pas à moiquié maline.
-
--*who_fanchon
 Moi, j'veux du bon ; allons, chopine.
 J'aimons mieux l'rogome tout pur,
 Dans l'gosier ça nous paraît dur ;
@@ -51,72 +134,320 @@ Et j'aimons quand queuqu'un commode
 Veut ben servir notre désir.
 Marchand, apportez nous du vôtre.
 
--*who_lemarchand
-Du mêlé ?
-
--*who_fanchon
       Eh ! Non , point d'ça,
 De l'eau-de-vie en ratafia.
 Du bon.
 
--*who_margot
-      Tu vas ben :
-
--*who_fanchon
       Comme un autre.
 Si j'buvons ben l'p'tit coup ici,
 Tu ne liches pas mal aussi.
 Eh ben ! Marchand ?
 
--*who_lemarchand
-      Me v'là, ma Reine.
-
--*who_fanchon
 T'nez, v'ià du poussier, rien n'est dû.
 
--*who_lemarchand
-C'est bon.
-
--*who_jerome
-      Fanchon, y penses-tu ?
-Crois-tu qu'je n'pairons pas la mienne ?
-
--*who_fanchon
 Qu'est-c'qui t'dis ça ? Hustuberlu,
 J'avons du temPs. Crois-tu qu'on t'fraude ?
 D'mande putôt au Marchand d'eau chaude ?
 N'est-il pas vrai, Monsieur l'comptoir,
 Qui n'est pas si tard ? Tu vas voir.
 
--*who_lemarchand
-Non, il s'en manque un quart ici.
-
--*who_fanchon
 L'quart de quoi, Monsieur l'ahuri ?
 
--*who_lemarchand
-Quoi ! Monsieur Jérôme s'ennuie ?
-Est-il meilleure compagnie
-Qu'avec Fanchon et puis Margot ?
+Y va chanter, laisse ça là.
 
--*who_margot
+Jérôme a z'une voix d'n'oblesse.
+
+Qu'ien v'là Geneviève ! Ais, ma commère,
+Veux-tu boire un coup de s't'affaire ?
+
+Oh ! C'est assez; car moi j'm'en vas.
+
+Moi, la grimace ! À qu'eux surget ?
+
+Allons, verse, je l'voulons bien.
+
+Je n'voulons pas vous être à charge,
+Et j'comptons payer not' écot.
+
+Allons, n'te goberge pas tant.
+
+Jérôme, toi qu'en sais des belles,
+Chante z'en donc pour ces pucelles.
+
+Quand ni en a plus, tu t'en dégoûtes :
+Allons, fouinons, l'tems veut changer.
+
+N'vas-tu pas tomber en fayance ?
+S'il pleut, j'avons le parasol.
+
+Sans doute, faut-il tant crier?
+
+Madame la Fermière a raison
+D'quereller ceux qui font carillon.
+
+Bonjour donc, la belle Manon.
+
+Avancez donc, Monsieur Gaillard ?
+
+L'pauvre petit ! Faut de la rybarbe :
+C'est fatiguant d'faire une barbe.
+
+      V'nez ça, mignon.
+
+Vous tri'avez Pair sur le bon ton.
+Assisez-vous.
+
+Rougissez-vous d'être à not' place?,
+
+Ah ! Sans gêne, il peut ben agir.
+
+Je l'voulons bén, Monsieur J'ordonne.
+Y'Amour, comme tu nous empaume ;
+Pourquoi faur-il z'aimer, Jérôme,
+Comme j'faisons ?
+Mon coeur sait ben qu'c'est un volage,
+Mais j'ai beau vouloir qu'il soit sage ,
+Chansons, chansons.
+Au cabaret, quand faut qu'j'attende,
+À tout bout d'champ je le demande
+À ces garçons :
+Ils disont qu'il ne vient personne,
+Et ça me rend l'humeur ben bonne,
+Chansons, chansons.
+C'qui fait encor plus que j'endêve,
+C'est qu'il faut seule que j'achéve
+Tout s'té boisson :
+Moi que jamais le vin ne presse,
+Et qui ne suis point z'ivrognesse,
+Chansons, chansons.
+J'ai souvent refusé du monde,
+Qui prétendions que je réponde
+À leux façons :
+Mais je ne suis point de c'te pâte,
+Et je leux réponds, si t'en tâte,
+Chansons, chansons.
+
+Jérôme, attends. Monsieu, la vôtre.
+Vous v'là pensif comme un rêveur !
+Est-c' que j'vous fesons déshonneur ?
+
+Si j'voulons du galant, en v'là.
+Eh ben ! Chantez donc queuque air tendre.
+
+Allez-vous loin, mon benjamin ?
+Ces souyers-là n'f'ront pas l'chemin,
+Changez-les de piés pour ben faire.
+Il a l'encolure légère ;
+Voyez donc qu'il est revenant
+Avec son nez en catogant !
+On dirait d'un enfant z'en chartre
+Avec ses oreilles d'Montmartre.
+Monsieu, voulez-vous un godant ?
+
+Mon laid est moins laid qu'ton grouin.
+Viens donc que j'te r'magne un p'tit brin ,
+Avec ton menton de galoche,
+Et tà jambe en façon d'bancroche :
+Veux-tu te r'tirer, vilain plé ?
+
+Eh ! Oui, beau mâle en racourci.
+Va donc visage à verre à bière,
+Jardinier de not' cémetiere;
+Quand tu s'ras grand, t'iras tout seul,
+Avec ta face d'épagneul :
+Dites donc, Monsieu la Flamberge,
+N'allez pas tirer vot' esperge.
+
+Y s'en va pas moins : c'est vilain.
+
+Père Chantrelle, j'allons ben,
+Continuez, d'nous mettre en train.
+
+      A toi, Manon.
+
+Au temps des pois écossés,
+Ben des Galants sont r'lancés ;
+Quand y vient des fanfarons,
+Je les rembarrons, (bis)
+C'est Jérôme qu'est des bons
+Pour toucher à mes litrons. (bis)
+
+
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_margot
+
+Je n'en sais rien : buvons l'coco,
+Puis j'écosserons, l'on sait comme !
+Mais, quien, v'la que je vois Jérôme.
+
+Finis- tu, Mamselle Fontanges ?
+Avec ton discours si choisi ,
+Vas-tu nous t'nir jusqu'à midi ?
+
+Fanchon, veux-tu de la cerise ?
+
+Mais vraiment, j'n'en aurais donc pas?
+Tu n'es pas à moiquié maline.
+
+      Tu vas ben :
+
 Mais vraiment ! Monsieur Fouille-au-pot,
 Comme il veut nous eN faire accroire ?
 
--*who_lemarchand
-Mais, en me contant votre histoire,
-Vous m'amusez.
-
--*who_margot
       Qu'est-c'q'vous fait' là ?
 Allons, Jérôme, à propos d'ça ,
 Chante, ou ben tu n'as pas à boire :
 J'tiens la mesure ; et l'on verra...
 
--*who_fanchon
-Y va chanter, laisse ça là.
+      À propos d'ça ,
+Vous autres, savez-vous s'tellà ?
+Jusques dans la moindre vue
+J'vois mon Amant z'en tableau,
+Drés que j'mets l'pié dans la rue,
+Je l'vois m'ôter son chapeau ;
+Je le rencontre à toute heure,
+Au couchant comme au lever,
+Et, sans savoir ous qui d'meure,
+Mon cœur va toujours l'trouver.
+Si je fuis à not' fenête,
+Dans l'dessein d'voir le passant,
+J'distingue toujours sa tête ,
+Quand ail' serait parmi cent ;
+Si je lis quel jour nous sommes,
+Dans l'Armonac d'cabinet,
+Au lieu d'Saint, je n'vois qu'des hommes,
+Rapport à s'tila qui m'plaît.
+Que j'blanchisse à la rivière,
+Mes amours sont savonnés,
+Que j'ouvre ma tabaquière,
+Mon amant me monte au nez ;
+Lorsque j'endosse ma hotte ,
+Y m'sembe que j'porte l'Amour,
+Enfin, la tendre Javotte
+Pense à Cadet nuit z'et jour.
 
--*who_jerome
+J'en avons. Quoi donc ! Qu'tu veux faire.
+
+Allons, buvons, qu'in toi, Geneviève :
+Dis donc, Fanchon , veux-tu qu'j'acheve ?
+Mettai-je tout, y viendra-t-il l'tien ?
+
+Un moment, s't'homme a ses chalands.
+Crois-tu quignia qu'nous qui contente ?
+
+Mesdames ! J'sommes ben des femmes.
+Parlez-nous avec vérité,
+J'n'aimons pas l'honneur frelatté :
+Y vous vient queuques fois des dames,
+Qu'avons bien plus de corps que d'âmes.
+
+L'dis-tu pour nous faire enrager ?
+N'nous porte pas guignon d'avance.
+
+Quoi! Tu n'sçaurois la renvoyer?
+Est ce qu'tu n'es pas assezgrande ?
+
+Voyez-nous, si j'avons de la peine !
+
+Eh moi, donc ? J ai suivi l'signal,
+J'ai flatté Madam' la Fermière.
+Mais, si vous saviez, par derrière,
+Ce que j'pensions ?
+
+Belle-Rose a l'air d'être en ribotte.
+
+Allons, v'nez écosser des pois,
+Ç'a vous reposera là tête.
+Vlà z'un man'quin pour vot'conquête ;
+Vous, prenez c'sac, mettez-vous d'ssus.
+
+C'est vous ! Comment va l'éventaire ?
+
+Ma commère, t'es médisante.
+Pourquoi donc dire des gros mots
+À c'Monsieur qu'est homme en repos ?
+
+Et ben, est-ç' qu'vous n'aidez pas
+Pour écosser ?
+
+Fanchon, vois donc c'grand élancé ?
+
+Laisses l'ai : c'est qui veut grandir.
+
+      Quoi ! Monsieur nous quitte !
+
+Dis donc, Fanchon, s'tilà va ben.
+
+Parmi les pois écossés,
+Tous les Marchands sont pressés ;
+Le monde, quand j'étalons,
+Est sur nos talons ; (bis).
+On s'mettrait, si je voulions,
+Jusques dedans nos litrons, (bis)
+Si pour nos pois écossés,
+Messieurs, vous applaudissez ;
+Toujours, avec vos leçons,
+Nous réussissons ; (bis)
+De vos écus que j'aimons,
+Venez emplir nos litrons. (bis)
+
+
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genevieve
+
+Plutôt deux. J'venions tout exprès :
+Marchand, donnez d'misquié du frais.
+
+Chopine à moiquié ? Qu'eux misère !
+
+Par ainsi je n'vous craignons pas ,
+Mamselle Fanchon : est-c'que j'vous chasse ?
+Comm'vous nous faites la grimace !
+
+Oh ! dam' de c'a, n'y a qu'vous qui l'sait.
+
+All' voulait s'en aller. S'tè charge !
+
+Marchand, chopine de coco,
+Puisque Mam'selle Fanchon se pique :
+Allez, vous aurez sa pratique ,
+Elle est bonne, et vous s'rez content.
+
+Mais, vraiment, tu m'empêch'ras d'rire ?
+Eh ben ! S't'eau-de-vie ?
+
+Dépêchez donc. J'ai mal aux dents.
+
+Ah ! Vous avez raison, la Plante.
+
+Allons, n'restons pas en défaut.
+
+Voyez, Mam'selle Croquignol !
+Fait-y beau, quand il pleut z'à verse ?
+
+Que j'y voye, Monsieur Gourmand.
+
+      Moi, je m'cachais ;
+Mais c'était pour rire à ses frais.
+
+Monsieur met-il dans la tir'-lire ?
+
+Pour crier, pois écossés,
+J'ai déjà d'la voix assez ;
+Étant petite, j'suivions
+Les petits garçons ; (bis)
+Mais d'puis que je grandissons,
+Avec les grands j'écossons. (bis)
+
+
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jerome
+
+Bonjour, Margot. Bonsoir, Fanchon,
+Que j'vous embrasse sans façon.
+
+Eh ben, quoi ! Voyons donc ste prise.
+
+      Fanchon, y penses-tu ?
+Crois-tu qu'je n'pairons pas la mienne ?
+
 Fillettes, z'acourez pour entendre
 L'histoir' d'un Amant courageux ;
 Ses parents n'voulions pas l'y rendre
@@ -150,113 +481,9 @@ C'est un mariage absolument,
 R'li, r'lan , r'lan tan plan, de conscience ,
 R'ian, etc.
 
--*who_fanchon
-Jérôme a z'une voix d'n'oblesse.
-
--*who_jerome
 Oh ! quand il s'agit de tendresse,
 J'nous en tirons.
 
--*who_margot
-      À propos d'ça ,
-Vous autres, savez-vous s'tellà ?
-Jusques dans la moindre vue
-J'vois mon Amant z'en tableau,
-Drés que j'mets l'pié dans la rue,
-Je l'vois m'ôter son chapeau ;
-Je le rencontre à toute heure,
-Au couchant comme au lever,
-Et, sans savoir ous qui d'meure,
-Mon cœur va toujours l'trouver.
-Si je fuis à not' fenête,
-Dans l'dessein d'voir le passant,
-J'distingue toujours sa tête ,
-Quand ail' serait parmi cent ;
-Si je lis quel jour nous sommes,
-Dans l'Armonac d'cabinet,
-Au lieu d'Saint, je n'vois qu'des hommes,
-Rapport à s'tila qui m'plaît.
-Que j'blanchisse à la rivière,
-Mes amours sont savonnés,
-Que j'ouvre ma tabaquière,
-Mon amant me monte au nez ;
-Lorsque j'endosse ma hotte ,
-Y m'sembe que j'porte l'Amour,
-Enfin, la tendre Javotte
-Pense à Cadet nuit z'et jour.
-
-**** *book_ *id_I03 *act_I *date_1767
-
--*who_fanchon
-Qu'ien v'là Geneviève ! Ais, ma commère,
-Veux-tu boire un coup de s't'affaire ?
-
--*who_genevieve
-Plutôt deux. J'venions tout exprès :
-Marchand, donnez d'misquié du frais.
-
--*who_margot
-J'en avons. Quoi donc ! Qu'tu veux faire.
-
--*who_genevieve
-Chopine à moiquié ? Qu'eux misère !
-
--*who_fanchon
-Oh ! C'est assez; car moi j'm'en vas.
-
--*who_genevieve
-Par ainsi je n'vous craignons pas ,
-Mamselle Fanchon : est-c'que j'vous chasse ?
-Comm'vous nous faites la grimace !
-
--*who_fanchon
-Moi, la grimace ! À qu'eux surget ?
-
--*who_genevieve
-Oh ! dam' de c'a, n'y a qu'vous qui l'sait.
-
--*who_margot
-Allons, buvons, qu'in toi, Geneviève :
-Dis donc, Fanchon , veux-tu qu'j'acheve ?
-Mettai-je tout, y viendra-t-il l'tien ?
-
--*who_fanchon
-Allons, verse, je l'voulons bien.
-
--*who_genevieve
-All' voulait s'en aller. S'tè charge !
-
--*who_fanchon
-Je n'voulons pas vous être à charge,
-Et j'comptons payer not' écot.
-
--*who_genevieve
-Marchand, chopine de coco,
-Puisque Mam'selle Fanchon se pique :
-Allez, vous aurez sa pratique ,
-Elle est bonne, et vous s'rez content.
-
--*who_fanchon
-Allons, n'te goberge pas tant.
-
--*who_genevieve
-Mais, vraiment, tu m'empêch'ras d'rire ?
-Eh ben ! S't'eau-de-vie ?
-
--*who_lemarchand
-      On en tire.
-
--*who_genevieve
-Dépêchez donc. J'ai mal aux dents.
-
--*who_margot
-Un moment, s't'homme a ses chalands.
-Crois-tu quignia qu'nous qui contente ?
-
--*who_genevieve
-Ah ! Vous avez raison, la Plante.
-
--*who_jerome
 Oui, c'est du bon. Sur ce ton-là,
 Fanchon, sais-tu ce couplet-là ?
 L'autre jour, avec sa hotte ,
@@ -268,11 +495,6 @@ De cela ;
 Après je lui dis, Charlotte,
 C'est assez sur ce ton-là.
 
--*who_fanchon
-Jérôme, toi qu'en sais des belles,
-Chante z'en donc pour ces pucelles.
-
--*who_jerome
 Pour ces pucelles, mais oui dà, (bis)
 Enseignez-nous ous qui y'en a ; (bis)
 Je voudrions en faire emplette,
@@ -282,47 +504,12 @@ Mais je n'ont trouvé qu'du fouillis ; (bis)
 C'est une terre ben trompeuse,
 En vain le plus savant z'y'creuse.
 
--*who_lemarchand
-Voilà votre affaire, Mesdames.
-
--*who_margot
-Mesdames ! J'sommes ben des femmes.
-Parlez-nous avec vérité,
-J'n'aimons pas l'honneur frelatté :
-Y vous vient queuques fois des dames,
-Qu'avons bien plus de corps que d'âmes.
-
--*who_genevieve
-Allons, n'restons pas en défaut.
-
--*who_jerome
 En v'là tout autant qui m'en faut,
 J'n'en boirais pu seul'ment deux gouttes.
 
--*who_fanchon
-Quand ni en a plus, tu t'en dégoûtes :
-Allons, fouinons, l'tems veut changer.
-
--*who_margot
-L'dis-tu pour nous faire enrager ?
-N'nous porte pas guignon d'avance.
-
--*who_fanchon
-N'vas-tu pas tomber en fayance ?
-S'il pleut, j'avons le parasol.
-
--*who_genevieve
-Voyez, Mam'selle Croquignol !
-Fait-y beau, quand il pleut z'à verse ?
-
--*who_jerome
 Allons, faut toujours qu'ça converse ;
 J'navons pu rien, allons-nous-en.
 
--*who_genevieve
-Que j'y voye, Monsieur Gourmand.
-
--*who_jerome
 Quand j'te l'dis, tu dois être sûre ;
 Allons-nous-en payer s'te mesure. ,
 R'venez-vous de Chantilly ?
@@ -331,501 +518,14 @@ Y'avez-vous bu de s'taffaire ?
 Vraiment, mon compère, voire,
 Vraiment, mon compère, oui.
 
-**** *book_ *id_I04 *act_I *date_1767
-
--*who_mariejeanne
-Dis donc, Babet ? Quoi donc qu'tu penses
-De t'étaler là par avance ?
-T'as la porte du Viterier,
-Vas-t'en z'y faire ton métier.
-
--*who_babet
-De quel droit, Madame J'ordonne,
-Vlez-vous chasser une personne ?
-J'venons là plus souvent que vous.
-
--*who_mariejeanne
-Allons, hu, aussi non des coups.
-Crois-moi, n'jase pas, bonne bête,
-La cervelle m'monte à la tête :
-Et je pourrions ben te r'liché ,
-Comm'j'ons déjà fait z'au marché.
-
--*who_babet
-Ah ! Oui, voyons donc voir ? Que j'voye ?
-
--*who_mariejeanne
-Allons, tais ton bec, et dévoye,
-J'te dis qu'tu n'esteras pas là.
-
--*who_babet
-Et moi j'vous dis que l'on verra :
-Si tu m'fais peur, tu n'm'en fais guère.
-
--*who_mariejeanne
-Décampe toujours, harangère ;
-La place est à moi, d'mande à eux.
-Ais, Fanchon, parle, si tu veux.
-Pas vrai que j'ai l'accoutumance
-De m'mettre ilà par préférence ?
-
--*who_fanchon
-Sans doute, faut-il tant crier?
-
--*who_margot
-Quoi! Tu n'sçaurois la renvoyer?
-Est ce qu'tu n'es pas assezgrande ?
-
--*who_babet
-Voyez , c'est ben ça qu'on l'y d'mande !
-Dites donc, marnsell' Boute-feu,
-N'faut-y pas q'vous parliez fur l'jeu ?
-
--*who_mariejeanne
-Allons, va-t'en dans ta bataque.
-
--*who_babet
-N'pousse pas tant que je n'te claque,
-J'm'en vas. Mais, tu t'souviendras d'moi :
-En attendant, v'là qu'est pour toi.
-Adieu, Marchande d'amourette,
-C'est chez vous qu'on va faire emplette :
-J'vous envoyrons nos Amoureux,
-Drès que j'n'aurons plus besoin d'eux;
-Comptez-y, bouche à toute graine.
-
--*who_mariejeanne
-Eh ! vas, vas, pas tant qu'toi, vilaine !
-Ton père qu'est un portefaix,
-Ne porte pas comme tu fais.
-
--*who_babet
-Ah, qu'ça te va ben d'faire la grosse !
-Souvent est gaussé qui nous gausse.
-C'est un proverbe qu'est ben bon.
-
--*who_mariejeanne
-Passez, Madame Guenillon,
-Qu'on n'vous déchire votre robe.
-
--*who_babet
-Si j'm'en vas, c'est peur qu'on m'dérobe ;
-On t'connaît pour ç'a dans l'quarquier.
-
--*who_mariejeanne
-Ah, comme j'men vas t'étrier !
-T'attaque un honneur en personne ?
-Il faut tout du long que j't'en donne.
-Qu'en v'là d'abord, qui t'apprendra ?
-
--*who_babet
-Ah, double chienne, on t'en donn'ra
-Des bonnets pour qu'tu les déchires ?
-
--*who_mariejeanne
-Attends, c'n'est encor que pour rire :
-J'vas t'en donner tout ton. Chien d'sou.
-
--*who_babet
-À moi, ma mère, on me rompt l'cou.
-
-**** *book_ *id_I05 *act_I *date_1767
-
--*who_lafermiere
-Eh bien ! c'est tous les jours de même !
-
--*who_mariejeanne
-Voyez comme la v'là blasphème !
-On n'lui fait pourtant rien.
-
--*who_babet
-      Vraiment,
-On me bat pas à tout moment ?
-Vous m'avez frappée, on sait comme !
-Madame, d'mandez à Jérôme,
-Fanchon, Margot ?
-
--*who_toustrois
-      J'navons rien vu !
-
--*who_babet
-Du moins, vous lavez entendu :
-Un soufflet s'fait toujours entendre.
-
--*who_lafermiere
-Allons, commencez par me prendre
-De ce côté.
-
--*who_mariejeanne
-      Oui, va t'coucher.
-
--*who_babet
-Les plus forts n'doivent pas s'fâcher.
-Tout l'monde m'en veut, z'on m'échigne ;
-Va bonnet d'dentelles de Maligne,
-Qu'on vient de me mettre en hachi ;
-Pour de tout le reste j'men chi :
-Mais j'vas toujours faire ma plainte,
-Et dire que j'suis grosse enceinte.
-
-**** *book_ *id_I06 *act_I *date_1767
-
--*who_lafermiere
-Ah, bon Dieu ! Qu'on voit de scandale
-Parmi ces femmes de la Halle !
-Faut-il qu'on n'en puisse entrevoir
-Une seule bonne à la ronde ?
-Tandis qu'ailleurs on peut avoir
-Les meilleures femmes du monde.
-
--*who_fanchon
-Madame la Fermière a raison
-D'quereller ceux qui font carillon.
-
--*who_margot
-Voyez-nous, si j'avons de la peine !
-
--*who_lafermiere
-Oui, vous êtes de bonne graine.
-
-**** *book_ *id_I07 *act_I *date_1767
-
--*who_jerome
 Fanchon, tu ne gouailles pas mal.
 
--*who_margot
-Eh moi, donc ? J ai suivi l'signal,
-J'ai flatté Madam' la Fermière.
-Mais, si vous saviez, par derrière,
-Ce que j'pensions ?
-
--*who_genevieve
-      Moi, je m'cachais ;
-Mais c'était pour rire à ses frais.
-
-**** *book_ *id_I08 *act_I *date_1767
-
--*who_bellerose
-Allons, ma belle enfant,
-Je suis content
-De toi pendant toute l'année;
-Mais il faut, dans ce jour,
-De mon amour
-Fixer la destinée :
-Si tu veux que tes bouquets
-Fixent mes voeux coquets,
-Joins, ma poulette,
-La rose et le bouton
-D'amourette,
-La rose et le bouton.
-
--*who_fanchon
-Bonjour donc, la belle Manon.
-
--*who_jerome
 Te v'là, vivant !
 
--*who_bellerose
-      Bonjour, luron.
-Eh ben ! Comment vont l's'écosseuses ?
-
--*who_jerome
 Elles vont ben, toujours joyeuses.
 
--*who_bellerose
-Tant mieux, j'allons y prendre part.
-
--*who_fanchon
-Avancez donc, Monsieur Gaillard ?
-
--*who_margot
-Belle-Rose a l'air d'être en ribotte.
-
--*who_bellerose
-Mais, vraiment, Mam'selle Margotte !
-Ç'a vous arrive quelquefois.
-
--*who_margot
-Allons, v'nez écosser des pois,
-Ç'a vous reposera là tête.
-Vlà z'un man'quin pour vot'conquête ;
-Vous, prenez c'sac, mettez-vous d'ssus.
-
--*who_bellerose
-M'y vlà.
-
-**** *book_ *id_I09 *act_I *date_1767
-
--*who_lamarchande
-Mes bons citrons à jus.
-
--*who_margot
-C'est vous ! Comment va l'éventaire ?
-
--*who_lamarchande
-C'a va ben douc'ment, ma commère.
-
--*who_bellerose
-Comben la couple, la Maman ?
-
--*who_lamarchande
-Dix sous.
-
--*who_bellerose
-      Dix sous ?
-
--*who_lamarchande
-      Oui, tout autant :
-Si vous criez, m'en faudra douze.
-
--*who_bellerose
-Ah ben oui, comme je m'y blouze !
-
--*who_manon
-Allons, qu'as-tu besoin de citron ?
-
--*who_bellerose
-V'la le Barbier de l'Arche Marion !
-Dites-lui qu'il en fasse emplette,
-Ç'a lui servira d'savonnette.
-
-**** *book_ *id_I10 *act_I *date_1767
-
--*who_lamarchande
-Vous en faut, le beau blondin ?
-
--*who_leperruquier
-De quoi ?
-
--*who_lamarchande
-      D'citron ?
-
--*who_leperruquier
-      Oui. Pour lé tein.
-
--*who_labouquetiere
-C'est ça qu'il l'a si beau.
-
--*who_leperruquier
-      Les quatres,
-Combien ?
-
--*who_lamarchande
-Vingt sous, sans rien rabattre.
-
--*who_leperruquier
-Eh ! Combien, ne rabattant rien ,
-Cela fait-il ?
-
--*who_lamarchande
-      Vous l'savez bien.
-Est-c'pour se moquer qu'on s'arrête ?
-Avec votre étrille à la tête,
-Si vous n'en v'lé pas, laissez-nous.
-
--*who_leperruquier
-Vingt sous les quatre, c'est cinq sous :
-Vous êtes dans le tort, la femme !
-
--*who_lamarchande
-Eh ! Tais-toi donc, vilain infâme ?
-C'est ben putôt toi qu'il la tort.
-N'jette pas not'citron si fort ?
-Il n'avait qu'à choir dans la boue,
-Quéque t'auroit payé ? La moue.
-
--*who_leperruquier
-Capédébious, l'erreur est grande !
-C'est faire uné sotté démande.
-Qui, moi, cé qué jé payérois ?
-Mé croyez-bous donc fans réssource ?
-Un Gascon manqué-t-il jamais,
-Surtout du côté dé la bourse ?
-
--*who_lamarchande
-Voyez donc comme il sent son bien ?
-
--*who_leperruquier
-La bonne ? Vous né perdrez rien,
-Si je vous fais quelque dommage.
-
--*who_lamarchande
-Oui, c'est marqué sur vot' visage.
-J'voyons ben, à tous vos boutons,
-À peu près c'que je gagnerions.
-
--*who_leperruquier
-Cadédis, qu'elle est insolente !
-
--*who_margot
-Ma commère, t'es médisante.
-Pourquoi donc dire des gros mots
-À c'Monsieur qu'est homme en repos ?
-
--*who_lamarchande
-Mais aussi, c'est vrai, Dieu m'pardonne !
-Quand j'voyons comm' ça queuque personne,
-Qui méprise c'que vous vendez...
-
--*who_leperruquier
-C'est donc mal que vous entendez.
-Jé né méprise en nulle sorte.
-Mais jé dis que la somme est forte :
-Eh donc ! Parlez au juste, là.
-
--*who_lamarchande
-Ah ben ! J'vous entendons comm' ça.
-Faut donc vous dire en conscience ?
-Quatre sous, et vot' connaissance.
-Voilà notre dernier mot dit.
-
--*who_leperruquier
-Donnez-m'en six, et plus dé bruit.
-
--*who_lamarchande
-Tenez, mon Roi, v'là qu'est tout sucre.
-
--*who_leperruquier
-Jé vous souhaite bien du lucre.
-
--*who_margot
-Et ben, est-ç' qu'vous n'aidez pas
-Pour écosser ?
-
--*who_leperruquier
-      J'ai mal aux bras.
-
--*who_fanchon
-L'pauvre petit ! Faut de la rybarbe :
-C'est fatiguant d'faire une barbe.
-
--*who_leperruquier
-Sandis ! Plus qué vous né pensez.
-
--*who_margot
-Fanchon, vois donc c'grand élancé ?
-
-**** *book_ *id_I11 *act_I *date_1767
-
--*who_labouquetiere
-Monsieur, achetez donc du nôtre,
-Un petit bouquet pour la vôtre.
-
--*who_lepetitmaitre
-Pour qui, la mienne ? Expliquez-vous.
-
--*who_labouquetiere
-Pardi, nous le demandez-vous ?
-Votre Maîtresse.
-
--*who_lepetitmaitre
-      Ah ! je m'en passe.
-
--*who_labouquetiere
-C'est donc quand elle est en disgrâce ;
-J'savons que vous en êtes fou.
-Allons, prenez ça, mon bijou :
-Elle aura l'air de la mariée,
-Et je s'rai par vous étrennée.
-
--*who_lepetitmaitre
-Combien faut-il pour cette fleur ?
-
--*who_labouquetiere
-Six sous pour vous; mon petit coeur.
-
--*who_lepetitmaitre
-En voilà quatre, et je la garde.
-
--*who_labouquetiere
-Allez, c'nest pas à vous qu'on r'gardes
-
--*who_lepetitmaitre
-De plus, je veux une chanson.
-
--*who_labouquetiere
-Oh ! Pour moi, j'ai la voix bâtarde.
-D'mandez à eux ?
-
--*who_fanchon
-      V'nez ça, mignon.
-
--*who_lepetitmaitre
-Volontiers : soyez ma mignarde.
-
--*who_fanchon
-Vous tri'avez Pair sur le bon ton.
-Assisez-vous.
-
--*who_lepetitmaitre
-      Je vous rends grâce.
-
--*who_fanchon
-Rougissez-vous d'être à not' place?,
-
--*who_margot
-Laisses l'ai : c'est qui veut grandir.
-
--*who_fanchon
-Ah ! Sans gêne, il peut ben agir.
-
--*who_lepetitmaitre
-Allons, chantez donc, ma mignonne.
-
--*who_fanchon
-Je l'voulons bén, Monsieur J'ordonne.
-Y'Amour, comme tu nous empaume ;
-Pourquoi faur-il z'aimer, Jérôme,
-Comme j'faisons ?
-Mon coeur sait ben qu'c'est un volage,
-Mais j'ai beau vouloir qu'il soit sage ,
-Chansons, chansons.
-Au cabaret, quand faut qu'j'attende,
-À tout bout d'champ je le demande
-À ces garçons :
-Ils disont qu'il ne vient personne,
-Et ça me rend l'humeur ben bonne,
-Chansons, chansons.
-C'qui fait encor plus que j'endêve,
-C'est qu'il faut seule que j'achéve
-Tout s'té boisson :
-Moi que jamais le vin ne presse,
-Et qui ne suis point z'ivrognesse,
-Chansons, chansons.
-J'ai souvent refusé du monde,
-Qui prétendions que je réponde
-À leux façons :
-Mais je ne suis point de c'te pâte,
-Et je leux réponds, si t'en tâte,
-Chansons, chansons.
-
--*who_jerome
 Chacun son tour, comme dit l'autre.
 
--*who_fanchon
-Jérôme, attends. Monsieu, la vôtre.
-Vous v'là pensif comme un rêveur !
-Est-c' que j'vous fesons déshonneur ?
-
--*who_lepetitmaitre
-Déshonneur, vous ! Non pas, ma belle :
-Si je vous regardais pour telle ,
-Je ne me serais pas mis là.
-
--*who_fanchon
-Si j'voulons du galant, en v'là.
-Eh ben ! Chantez donc queuque air tendre.
-
--*who_lepetitmaitre
-Non, j'aime beaucoup mieux entendre ;
-Et Monsieur Jérôme a raison
-De prendre son tour.
-
--*who_bellerose
-      Chantez donc ?
-J'allons faire chorus en rond.
-
--*who_jerome
 Un jour j'étions à Vaugirard,
 Dont j'somm' déboulés un peu tard ,'
 Y'aisément cela se peut croire ;
@@ -847,8 +547,7 @@ Crier gâteaux à la Royal,
 Y'aisément cela se peut croire ;
 Moi qu'avait là z'un bon fricot,
 Je vous pris mon homme au gavio,
-Et lui dis : allons, patronet, va-t-en vendre ton gâteau plus loin, sinon j'te vas donner la fève sur l'oeil.
-Il voulait me faire sortir dans la rue du dehors ; mais moi tout de quite, pif, paf, z'on,
+Et lui dis : allons, patronet, va-t-en vendre ton gâteau plus loin, sinon j'te vas donner la fève sur l'oeil. Il voulait me faire sortir dans la rue du dehors ; mais moi tout de quite, pif, paf, z'on,
 Je veux t'être, etc.
 Le Marchand d'tisane en bonnet,
 Vient nous montrer son robinet,
@@ -862,8 +561,7 @@ Vlà z'un Joueur de timpanon,
 Y'aisément cela se peut croire ;
 Moi qu'ai la Musique en dégoût,
 J'vous l'y riva bentôt son clou :
-En lui disant, papa, allez jouer à s'tautre table, vous nous faites grincer les oreilles.
-Au lieur de s'en aller, ne v'là t'y pas le vieux chnapan qui m'accipe l'épingue de mon col, pour faire, sus son timpanon, zigue, zin, zigue, zin ; moi, pi, pan,
+En lui disant, papa, allez jouer à s'tautre table, vous nous faites grincer les oreilles. Au lieur de s'en aller, ne v'là t'y pas le vieux chnapan qui m'accipe l'épingue de mon col, pour faire, sus son timpanon, zigue, zin, zigue, zin ; moi, pi, pan,
 Je voux suis un, etc.
 La Marchande aux coeurs, à son tour,
 S'en vint pour nous faire sa cour,
@@ -883,190 +581,18 @@ Eh ben, Monsieu ! Qu'dites-vous d'ça ?
 C'est il d'vot' goût sur ce ton-là ?
 Savons je y donner la tournure ?
 
--*who_lepetitmaitre
-On ne peut pas mieux, je vous jure :
-Je vous en fais mon compliment.
-
--*who_jerome
 Vous êt' courtois comme un galant,
 J'vois ben que ça vous plaît z'à dire.
 
--*who_genevieve
-Monsieur met-il dans la tir'-lire ?
-
--*who_lepetitmaitre
-Ma bonne amie, en vérité ,
-Je suis fâché d'être arrêté
-Pour aller faire une visite.
-Sans cela...
-
--*who_margot
-      Quoi ! Monsieur nous quitte !
-
--*who_fanchon
-Allez-vous loin, mon benjamin ?
-Ces souyers-là n'f'ront pas l'chemin,
-Changez-les de piés pour ben faire.
-Il a l'encolure légère ;
-Voyez donc qu'il est revenant
-Avec son nez en catogant !
-On dirait d'un enfant z'en chartre
-Avec ses oreilles d'Montmartre.
-Monsieu, voulez-vous un godant ?
-
--*who_lepetitmaitre
-Bonne chienne, on t'en livre autant.
-Si nous n'avons pas l'air d'un Prince,
-Le tien est encor bien plus mince.
-À la blancheur de son minois,
-C'est un signe du Gâtinais ;
-Voyez sa petite menotte ,
-Aussi large qu'un dos de hotte :
-Rien qu'à voir, c'est un plaisir,
-Elle est d'un laid à éblouir.
-
--*who_fanchon
-Mon laid est moins laid qu'ton grouin.
-Viens donc que j'te r'magne un p'tit brin ,
-Avec ton menton de galoche,
-Et tà jambe en façon d'bancroche :
-Veux-tu te r'tirer, vilain plé ?
-
--*who_lepetitmaitre
-Adieu, femme à mari sanglé.
-Ah, que je plains le pauvre diable
-D'avoir une femme semblable !
-Il fait son purgatoire ici.
-
--*who_fanchon
-Eh ! Oui, beau mâle en racourci.
-Va donc visage à verre à bière,
-Jardinier de not' cémetiere;
-Quand tu s'ras grand, t'iras tout seul,
-Avec ta face d'épagneul :
-Dites donc, Monsieu la Flamberge,
-N'allez pas tirer vot' esperge.
-
--*who_lepetitmaitre
-Adieu, couturière en chaussons,
-Maraine à tenir grands garçons,
-Tourrière de Couvent sans ordre,
-C'est pour toi que Samson fait tordre.
-Ton père eut six chiens, comptant toi,
-Il en noya cinq : et pourquoi ?
-C'est qu'il voulait que tu fus feule,
-Il n'a gardé que mille gueule.
-
-**** *book_ *id_I12 *act_I *date_1767
-
--*who_margot
-Dis donc, Fanchon, s'tilà va ben.
-
--*who_fanchon
-Y s'en va pas moins : c'est vilain.
-
--*who_jerome
 Enfants, j'entends l'pere Chantrelle.
 
--*who_bellerose
-Allons ? Dansons, et point d'querelle.
-
-**** *book_ *id_I13 *act_I *date_1767
-
--*who_fanchon
-Père Chantrelle, j'allons ben,
-Continuez, d'nous mettre en train.
-
--*who_jerome
 Oui, un menuet pour, l'ouverture,
 Allons, à nous deux, ma future.
 
--*who_leviolon
-Quel menuet voulez-vous danser ?
-
--*who_jerome
 C'lui qui finit par s'embrasser.
 
--*who_jerome
 Allons, Bell'-Rose.
 
--*who_fanchon
-      A toi, Manon.
-
--*who_labouquetiere
-Moi, j'aime mieux le rigodon.
-
--*who_bellerose
-Eh ben ! Dansons une contre-danse ;
-Allons, à huit violons d'chérence.
-Le violon va ben en dansant,
-Voyons si c'est d'même en chantant.
-
--*who_mariejeanne
-Prenez d'nos pois écossés,
-C'est les meilleurs fricassés ;
-Je voyons ben des tendrons
-Qui deviennent ronds, (bis)
-Lorsque je les nourrissons
-Des pois que nous écossons. (bis)
-
--*who_babet
-J'vendons des pois écossés
-À des gens fort ben troussés ;
-Mais les meilleures façons,
-C'est ceux qui payons ; (bis)
-Car j'navons pas de bien d'fonds,
-Si ce n'est dans nos litrons. (bis)
-
--*who_leperruquier
-Tous vos pois font écossés,
-Allons, chantez et dansez ;
-Filles, prenez ces garçons ,
-Et cabriolons ; (bis)
-Si vous gâtez vos chignons,
-Jé vous les rétapérons. (bis)
-
--*who_labouquetiere
-Si vos pois sont écossés,
-Tous mes bouquets sont passés ;
-J'avons toujours des lurons
-Pour qui j'en faisons, (bis)
-Et ma rose et mes boutons
-Valent bien tous vos litrons. (bis)
-
--*who_genevieve
-Pour crier, pois écossés,
-J'ai déjà d'la voix assez ;
-Étant petite, j'suivions
-Les petits garçons ; (bis)
-Mais d'puis que je grandissons,
-Avec les grands j'écossons. (bis)
-
--*who_lamarchandedecitrons
-Souvent les pois écossés
-Vous rendent les doigts poissés ;
-Approchez, je vous vendrons
-Du jus de citrons ; (bis)
-Avec ça j'rafraîchissons,
-Quand on s'échauffe aux litrons, (bis)
-
--*who_bellerose
-Dans l'tems des pois écossés,
-Les ennemis sont rossés ;
-Lorsque je les rencontrons ,
-Je les écossons ; (bis)
-Quand ils voyent nos Dragons,
-ils s'cachraient dans des litrons. (bis)
-
--*who_lemarchandderatafia
-Vous vendez pois écossés,
-Et vous vous divertissez ;
-Je vois bien des Chambrillons
-Qui vous en prenons, (bis)
-Afin que les Marmitons
-Fassent la fausse aux litrons. (bis)
-
--*who_jerome
 Fanchon, tes pois écossés
 À mes yeux sont ben de fés ;
 Tu sais comme je portons,
@@ -1074,32 +600,56 @@ J'avons les reins bons, (bis)
 Et puis de bonnes chansons,
 Lorsque j'emplis tes litrons. (bis)
 
--*who_fanchon
-Au temps des pois écossés,
-Ben des Galants sont r'lancés ;
-Quand y vient des fanfarons,
-Je les rembarrons, (bis)
-C'est Jérôme qu'est des bons
-Pour toucher à mes litrons. (bis)
 
--*who_laveugle
-Mes enfants, je ne vois rien,.
-Mais je connais le chemin ;
-Pour le peu que je touchions,
-Je nous en tirons ; (bis)
-Et je parie à tâtons,
-Que je vous prends vos litrons. (bis)
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerose
 
--*who_margot
-Parmi les pois écossés,
-Tous les Marchands sont pressés ;
-Le monde, quand j'étalons,
-Est sur nos talons ; (bis).
-On s'mettrait, si je voulions,
-Jusques dedans nos litrons, (bis)
-Si pour nos pois écossés,
-Messieurs, vous applaudissez ;
-Toujours, avec vos leçons,
-Nous réussissons ; (bis)
-De vos écus que j'aimons,
-Venez emplir nos litrons. (bis)
+Allons, ma belle enfant,
+Je suis content
+De toi pendant toute l'année;
+Mais il faut, dans ce jour,
+De mon amour
+Fixer la destinée :
+Si tu veux que tes bouquets
+Fixent mes voeux coquets,
+Joins, ma poulette,
+La rose et le bouton
+D'amourette,
+La rose et le bouton.
+
+      Bonjour, luron.
+Eh ben ! Comment vont l's'écosseuses ?
+
+Tant mieux, j'allons y prendre part.
+
+Mais, vraiment, Mam'selle Margotte !
+Ç'a vous arrive quelquefois.
+
+M'y vlà.
+
+Comben la couple, la Maman ?
+
+      Dix sous ?
+
+Ah ben oui, comme je m'y blouze !
+
+V'la le Barbier de l'Arche Marion !
+Dites-lui qu'il en fasse emplette,
+Ç'a lui servira d'savonnette.
+
+      Chantez donc ?
+J'allons faire chorus en rond.
+
+Allons ? Dansons, et point d'querelle.
+
+Eh ben ! Dansons une contre-danse ;
+Allons, à huit violons d'chérence.
+Le violon va ben en dansant,
+Voyons si c'est d'même en chantant.
+
+Dans l'tems des pois écossés,
+Les ennemis sont rossés ;
+Lorsque je les rencontrons ,
+Je les écossons ; (bis)
+Quand ils voyent nos Dragons,
+ils s'cachraient dans des litrons. (bis)
+

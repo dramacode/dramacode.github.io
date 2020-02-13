@@ -1,1885 +1,907 @@
 
 
-**** *book_ *id_I01 *act_I *date_1699
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astur
 
--*who_lafee
-Par quel étrange destinée,
-Moi, Souveraine des plaisirs,
-Moi, de tous les mortels, l'amour et les désirs,
-Me trouvai-je seule et presque abandonnée ?
-Quoi, la Scène est sans ornements ?
-Suis-je donc cette même Fée,
-Qui tant de fois aux yeux de la Cour étonnée,
-Y fis briller mille agréments ?
-Hélas !
-Dans ces heureux moments,
-Du plus grand des héros j'étais favorisée ;
-Et quand pour travailler à ses amusements,
-Ma puissance est presque épuisée,
-Ose-t-on publier que j'en suis méprisée ?
-Par les soins importants qu'il doit à l'Univers,
-Il est vrai, près de lui, ma place est usurpée,
-À dompter cent monstres divers,
-À tenir la Discorde aux fers,
-Sa grande âme est toute occupée :
-Mais parmi la tranquillité,
-Dont on jouit sous sa puissance,
-Le Héros glorieux qui lui doit la naissance,
-Commet à mon expérience,
-Le soin de quelque nouveauté,
-Dont l'agrément ou la magnificence,
-Contente avec éclat sa curiosité,
-Et soit digne de la présence,
-De sa jeune postérité.
-Quel temps à leur plaisir puis-je mieux consacrer,
-Que celui d'une paix profonde,
-Qu'un Roi toujours vainqueur vient de nous assurer ?
-Comme lui quelque jour chargés du soin du monde,
-Et jaloux comme lui de s'en faire adorer,
-Tantôt parmi le bruit des armes,
-Avides de lauriers qu'ils voudront moissonner,
-Tantôt soigneux au retour des alarmes,
-D'éterniser la paix qu'ils viendront de donner,
-Sans cesser d'estimer mes charmes,
-Ils se verront forcés de les abandonner.
-Profitons des moments que la gloire leur laisse,
-Pour goûter d'innocents plaisirs.
-À leur en faire naître occupons-nous sans cesse,
-Et jouissons longtemps de leurs heureux loisirs.
-Vous, mes sœurs, filles fortunées,
-Qui comblez les mortels des plus rares faveurs,
-Esprits divins, savantes fées,
-D'un nouveau zèle animez les Auteurs,
-Choisissez d'excellents Acteurs,
-Rassemblez tout ce qui peut faire
-Les délices des Spectateurs ;
-Sur tous également versez les dons de plaire,
-Aux applaudissements disposez tous les cœurs,
-Qu'à vous seconder tout s'empresse,
-Que les Jeux, les Plaisirs amènent les Amours,
-Qu'ils viennent amuser cette auguste Jeunesse,
-Et, s'il se peut, qu'ils la suivent toujours.
+Que chacun se retire, et qu'aucun n'entre ici : mes Filles, demeurez, et vous Finette, aussi. Comme j'ai à vous parler d'affaires réjouissantes, mes enfants, je suis bien aise de ne voir auprès de vous que des visages qui me réjouissent, et devant qui je ne sois pas obligé de garder une incommode gravité, qui m'a terriblement gêné depuis que la Fée votre mère s'avisa de me faire Souverain.
 
-**** *book_ *id_I02 *act_I *date_1699
+Finette parle de fort bon sens. Oh çà, mes filles, je vous ai voulu parler à toutes deux ensemble, parce que j'ai le même compliment à vous faire à toutes deux, et que toutes deux apparemment vous le recevrez de la même manière. On vous demande en mariage, mes filles.
 
--*who_lafeedesplaisirs
-La voix de notre Souveraine
-Nous appelle en des lieux charmants,
-Et nous obéissons sans peine
-À de si doux commandements.
-
--*who_lechŒur
-La voix de notre souveraine
-Nous appelle en des lieux charmants,
-Et nous obéissons sans peine
-À de si doux commandements.
-
--*who_lafee
-Dans ces lieux la raison rassemble,
-Les plus augustes demi-Dieux.
-Tendres Plaisirs, aimables Jeux,
-Accourez tous, unissez-vous ensemble
-Venez habiter avec eux
-Un séjour si délicieux.
-
--*who_lesuivantdelafee
-Ne songeons qu'à nous réjouir.
-Aux Plaisirs tout nous convie.
-Les plus doux charmes de la vie,
-Sont si prompts à s'évanouir.
-Ah, quelle folie,
-De n'en pas jouir !
-Laissons à d'innocents désirs,
-Emporter sur nous la victoire,
-Nous donnerons un jour tous nos soins à la gloire,
-Donnons quelques temps aux plaisirs.
-
-**** *book_ *id_I03 *act_I *date_1699
-
--*who_lasagesse
-Arrêtez, troupe téméraire,
-En vain par des charmes flatteurs,
-Vous croyez ici pouvoir plaire :
-Offrez à de plus faibles cœurs,
-Vos attraits enchanteurs ;
-Un cœur à qui la gloire est chère,
-N'est point sensible à vos douceurs.
-
--*who_lafeedesplaisirs
-Pourquoi murmurez-vous, trop savante Sagesse ?
-Nous n'offrons en ces lieux que des jeux innocents :
-S'ils savent enchanter les sens,
-Ils n'inspirent jamais une indigne faiblesse.
-
--*who_lesuivantdelafee
-Nous ne pouvons assujettir,
-Les cœurs soumis à votre empire.
-Quand les charmes ne peuvent nuire,
-Pourquoi s'en vouloir garantir ?
-Nous ne cherchons point à séduire,
-Nous ne voulons que divertir.
-
--*who_lasagesse
-Les plus simples amusements,
-Sont les plus propres à surprendre :
-En vain je cherche à me défendre
-De vous donner quelques moments ;
-Je sens un plaisir extrême,
-À demeurer avec vous.
-Que le penchant doit être doux,
-Qui force la Sagesse à céder elle-même ?
-
--*who_lafeedesplaisirs
-Chantez peuples, chantez le Héros glorieux,
-Dont votre bonheur est l'ouvrage,
-L'exemple qu'il offre à vos yeux,
-Instruit à faire un innocent usage
-De nos dons les plus précieux.
-
--*who_lafee
-Par ses soins vigilants, sa sagesse profonde,
-On voit le vice en tous lieux abattu.
-Il a donné la paix au monde,
-Pour faire en ses États triompher la vertu.
-
--*who_lesuivantdelafee
-Nous passons
-Sous ses lois une heureuse vie,
-Que tout l'Univers porte envie
-Au bonheur dont nous jouissons.
-Des plus agréables sons,
-Faisons entendre l'harmonie.
-Unissons
-Aux charmes de la Comédie,
-Nos danses et nos chansons.
-
-**** *book_ *id_II01 *act_II *date_1699
-
--*who_melisende
-Non, ma sœur, vous n'avez point de bonnes raisons pour justifier l'irrégularité de votre procédé ; et parmi les Fées comme nous, les règles de la politesse et de la bienséance devraient un peu mieux s'observer.
-
--*who_blandonie
-Que vous êtes fatigante, ma sœur, avec vos formalités perpétuelles !
-Vous prêchez sans cesse une régularité que vous n'avez point ; et si vous vouliez m'obliger à quelques égards pour vous, il fallait commencer à n'en pas manquer pour moi.
-
--*who_melisende
-Je suis la Fée de la Sagesse, et il y a de la subordination entre nous.
-
--*who_blandonie
-J'en conviens, ma sœur : mais la supériorité m'appartient.
-Je suis la Fée des Plaisirs, et…
-
--*who_melisende
-C'est un glorieux titre que le vôtre, et qui doit vous donner de grandes prérogatives !
-
--*who_blandonie
-Il n'est pas faux, du moins : mais quoique vous affectiez celui de Fée de la Sagesse, la plupart des bons connaisseurs ne vous admettent que pour le Fée de la Pruderie, et cela ne vous met pas fort au-dessus de moi.
-
--*who_melisende
-Moi, la Fée de la Pruderie ?
-
--*who_blandonie
-Si c'est le mot qui vous offense, je consens à le supprimer : mais vous poussez trop loin la sévérité de votre morale, pour n'en pas craindre un ridicule ; et les sages de votre caractère ne sont pas ordinairement les moins importants personnages qu'on voit dans le monde.
-
--*who_melisende
-Vous me poussez furieusement ; et s'il était de la dignité d'une Fée de laisser éclater tout son ressentiment…
-
-**** *book_ *id_II02 *act_II *date_1699
-
--*who_darinel
-Hé !
-Là, là, Madame, à quoi pensez-vous ?
-
--*who_blandonie
-Si vous sortiez du décorum de votre rang, je ne répondrais pas de garder le mien.
-
--*who_darinel
-Hé !
-Fi donc, Madame, vous vous moquez, je pense, cela serait beau, vraiment, que deux Fées se décoiffassent.
-
--*who_melisende
-Je veux, Darinel, que tu sois le Juge de cette affaire.
-
--*who_darinel
-C'est trop de grâce que vous me faites, Madame, et je vous prie de me dispenser de l'accepter.
-
--*who_melisende
-Non, je veux absolument te faire voir que j'ai raison.
-
--*who_darinel
-Hé, Madame, que vous servira-t-il que j'en sois persuadé ?
-Que vous peut importer l'opinion d'un homme comme moi ?
-
--*who_blandonie
-Darinel s'en défend en vain, et je prétends, comme ma sœur, qu'il décide notre différend.
-
--*who_darinel
-La peste m'étouffe si j'en sais rien ; il est trop scabreux de se mêler de vos affaires, à vous autres Grands, et je ne veux point me brouiller avec les Puissances.
-
--*who_blandonie
-Tu ne te brouilleras pas avec nous.
-
--*who_darinel
-Pardonnez-moi, je me connais, cela n'est pas possible ; il faut que l'une de vous deux ait tort, assurément, et vous l'avez toutes deux, peut-être ?
-Je vous le dirais avec franchise, je vous chagrinerais ; et il y a de certaines Fées qui ne sont pas bonnes à chagriner, à ce que j'ai ouï dire ; je vous baise les mains, Mesdames, je ne saurais faire votre affaire.
-
--*who_melisende
-Je te donne ma parole de Fée, de n'avoir aucun ressentiment contre toi.
-
--*who_blandonie
-Je te promets la même chose.
-
--*who_darinel
-Assurément ?
-
--*who_melisende
-Assurément.
-
--*who_darinel
-Sur ce pied-là, plaidez, je vous écoute.
-
--*who_melisende
-Lorsque par l'indiscrète curiosité d'Astur, que l'hymen de la Fée de la Raison, notre sœur fit Souverain de ces contrées, de simple Pâtre qu'il était auparavant ; lors, dis-je, que le destin eut forcé cette malheureuse Fée de disparaître aux yeux des hommes, et d'abandonner sa famille…
-
--*who_darinel
-J'en suis bien fâchée, par parenthèse : c'était une bonne pâte de Fée que celle-là, elle n'était point tracassière comme les autres, et son mari y a plus perdu que personne.
-
--*who_melisende
-Nous nous chargeâmes, comme tu sais, ma sœur et moi, d'élever les deux filles qui avaient été le seul fruit de son mariage.
-
--*who_darinel
-Oh pour cela, vous êtes de fort bonnes gouvernantes ; leur éducation vous fait honneur, et je suis fort content de ces deux personnes-là, moi qui vous parle.
-
--*who_melisende
-Ce sont elles qui sont aujourd'hui le sujet de notre dispute.
-
--*who_blandonie
-Oui ?
-Et comment donc cela, s'il vous plaît ?
-
--*who_melisende
-La Princesse Inégilde est sous ma conduite.
-
--*who_blandonie
-Comme la Princesse Cléonide est sous la mienne.
-
--*who_melisende
-Vous vous étiez engagée, ma sœur, à me laisser maîtresse absolue de former les mœurs d'Inégilde.
-
--*who_blandonie
-Ne m'aviez-vous pas promis, vous, de ne vous point mêler du tout de l'éducation de Cléonide ?
-
--*who_melisende
-Et cependant vous avez trouver le secret d'introduire à son service une personne dont la jeunesse, les conseils, l'esprit et la vivacité, ne s'accordent point du tout avec les vues que j'ai pour elle.
-
--*who_darinel
-C'est cette petite pendarde de Finette, je gage ?
-
--*who_blandonie
-J'aurais tort, ma sœur, assurément, et je passerais condamnation pour Finette, si vous n'aviez pas la première trouvé l'art de mettre auprès de Cléonide la plus grande ennemie que je puisse avoir.
-
--*who_darinel
-Je reconnais Zerbine, c'est elle-même : mais si c'est là tout ce qui vous brouille, il n'y a qu'à les chasser l'une et l'autre, et vous voilà d'accord.
-
--*who_melisende
-Si le destin permettait à l'une de nous de détruire ce que fait l'autre, Finette ne demeurerait pas un moment avec Inégilde.
-
--*who_blandonie
-Zerbine n'eût pas été longtemps auprès de Cléonide, si la chose eût dépendu de moi.
-
--*who_darinel
-Hé bien, faut-il faire tant de façon ?
-Sacrifiez-vous mutuellement ces deux malheureuses, c'est assez la manière des Grands.
-Allons, ferme, ne vous démentez point.
-
--*who_melisende
-Non, je n'en aurai point le démenti, et Zerbine demeurera où elle est, absolument.
-
--*who_blandonie
-Finette ne sortira pas, sur ma parole.
-
--*who_darinel
-Vous avez toutes deux raison.
-
--*who_melisende
-Puisque vous avez si peu de complaisance pour moi, ma sœur, attendez-vous pour votre élève à toutes les traverses que je pourrai vous faire.
-
--*who_darinel
-Je suis ravi, Mesdames, d'avoir eu le talent de vous remettre en si bonne intelligence.
-Hé !
-De grâce, accordez-vous tout au moins, pour me faire quelque petit don en faveur de la bonne intention que j'avais.
-
--*who_melisende
-Je te fais don d'être fort sage.
-
--*who_darinel
-Dispensez-moi donc du ridicule de le trop paraître, je ne veux point renoncer à mon emploi.
-
--*who_melisende
-Cela sera comme tu le souhaites.
-
--*who_blandonie
-Et moi je te rendrai le plus voluptueux de tous les hommes.
-
--*who_darinel
-À la nonne heure : mais donnez-moi l'art de le bien cacher ; cela est de conséquence.
-
--*who_blandonie
-Voilà qui est fait, je te l'accorde.
-
-**** *book_ *id_II03 *act_II *date_1699
-
--*who_darinel
-Je m'en vais être un joli garçon, sage, et voluptueux tout ensemble : hé bien, tenez, il y a des imbéciles qui s'imaginent que cela est incompatible ; bagatelle, il n'y a que manière de bien tourner les choses.
-
-**** *book_ *id_II04 *act_II *date_1699
-
--*who_finette
-Hé, bonjour, Seigneur Darinel, vous me paraissez de bonne humeur, vous serait-il arrivé quelque fortune dont on dût vous féliciter ?
-Vous savez que naturellement je suis portée d'inclination à m'intéresser à tout ce qui peut faire plaisir.
-
--*who_darinel
-Je suis fort redevable à votre heureux naturel, charmante Finette : mais je serais bien plus content si quelque sentiment particulier vous faisait prendre part à ce qui me regarde.
-
--*who_finette
-Quelque sentiment particulier !
-Vous en avez pour moi, apparemment, puisque vous m'en souhaitez pour vous ?
-
--*who_darinel
-Le respect jusqu'ici m'a fermé la bouche, mais…
-
--*who_finette
-Ah !
-L'incommode chose que le respect !
-Ne me respectez point, Seigneur Darinel, cela est trop gênant de part et d'autre.
-Seriez-vous amoureux de moi, de moi, par aventure ?
-
--*who_darinel
-Oui, de tout mon cœur, belle Finette.
-
--*who_finette
-Quoi !
-Sérieusement ?
-
--*who_darinel
-Si sérieusement, que je sens bien que je me désespérerai si vous n'aviez quelque pitié de mon amour.
-
--*who_finette
-Le pauvre garçon !
-Va, va, ne te presse point de te désespérer, cela viendra quelque jour : dans huit ou dix ans je te rendrai réponse.
-
--*who_darinel
-Dans huit ou dix ans, inhumaine !
-
--*who_finette
-Inhumaine, moi ?
-Tu n'y songes pas.
-On te permet l'espoir, et on te dispense du respect ; si tu n'es pas content, il faut que tu sois bien difficile.
-
--*who_darinel
-Un désespoir de huit ou dix ans, cela est bien long, adorable Finette.
-
--*who_finette
-Il arrivera quelque incident qui précipitera les événements, peut-être, et je veux bien te donner moi-même les moyens de faire du progrès dans mes bonnes grâces.
-
--*who_darinel
-Ah !
-Il n'y a rien que je ne sois capable d'entreprendre et d'exécuter même pour y réussir ; tu n'as qu'à parler, explique-toi, que faut-il faire ?
-
--*who_finette
-Être, comme moi, dans les intérêts de la Princesse Inégilde.
-
--*who_darinel
-J'y suis déjà, tu ne m'auras point d‘obligation de cet article.
-
--*who_finette
-Engager le Prince son père, que tu persuades quelquefois mieux qu'un autre en le divertissant, à la marier au plutôt, afin qu'elle ne dépende plus de cette Fée qui la gouverne, qui sous prétexte d'amitié, la rend la plus malheureuse personne du monde.
-
--*who_darinel
-Inégilde a donc fort envie d'être mariée ?
-
--*who_finette
-Qui ne l'aurait pas ?
-Cette Fée nous désole ; l'autorité d'un mari détruira la sienne : c'est une espèce de liberté que le changement d'esclavage ; et il me semble qu'il vaut mieux dépendre d'un joli mari que d'une Fée maussade.
-
--*who_darinel
-Oui, assurément, cela est de fort bon sens ; laisse-moi faire, je préviendrai l'esprit du père ; en ce pays-ci la grande affaire est de prévenir, comme tu sais.
-Voici, je pense, Inégilde : ne te mets pas en peine, tout ira bien, pourvu que tu ne sois pas huit ou dix ans à me rendre réponse.
-
--*who_finette
-Si tu réussis, nous abrégerons le roman, je te le promets.
-
-**** *book_ *id_II05 *act_II *date_1699
-
--*who_inegilde
-Avec qui vous entreteniez-vous là, Finette ?
-
--*who_finette
-Avec le Seigneur Darinel, Madame, qui est vraiment un fort galant homme, et dont les services pourraient bien dans la suite ne vous être pas tout à fait inutiles, si vous les aviez agréables.
-
--*who_inegilde
-Hé, quel service peut-on me rendre, Finette, dans le triste état où je me vois ?
-
--*who_finette
-Il faut vous en tirer, Madame, et si le Seigneur Darinel et moi nous nous mêlons une fois de vos affaires, toute la Féerie du monde ne nous empêchera pas de vous rendre heureuse ; j'ai, de bons pressentiments, et le cœur me dit que nous ne tarderons pas à voir quelque révolution dans votre destinée.
-
--*who_inegilde
-Je l'espère comme toi, Finette, et si tu savais…
-
--*who_finette
-Quoi ?
-
--*who_inegilde
-Les moments que je donne au sommeil ne sont pas les plus tristes de ma vie, chère Finette.
-
--*who_finette
-Vous êtes sujette à faire d'agréables songes, je gage ?
-
--*who_inegilde
-Paix, Finette, il ne faut pas parler de cela ; si la Fée le savait, on m'empêcherait de dormir, peut-être.
-
--*who_finette
-Ne craignez rien, je suis discrète.
-Quel songe avez-vous fait depuis peu ?
-Çà, voyons si l'on en peut tirer un bon présage : je suis admirable, moi, pour l'explication des songes, et je ne m'y suis jamais trompée.
-
--*who_inegilde
-Je vais t'ouvrir mon cœur, Finette, n'abuse pas de ma confiance, et regarde comme une faiblesse pardonnable l'attention que je donne à des chimères, pour qui je n'en aurais peut-être pas, si j'avais plus d'usage du monde et de liberté.
-
--*who_finette
-Vous moquez-vous ?
-C'est une des sérieuses affaires des femmes du monde que ces chimères-là ; et après le jeu, l'amour, la bonne chère et l'ajustement, elles n'ont rien qui les occupe davantage que les Devineresses et les songes.
-Dites-moi donc…
-
--*who_inegilde
-Mais que veux-tu que je te dise ?
-Un sommeil léger et tranquille assoupissait ce matin tous mes sens : mais il n'en avait suspendu l'usage que pour les flatter de l'illusion la plus agréable que tu te puisses imaginer.
-Mes oreilles ont été frappées de l'harmonie la plus douce ; le Palais de mon père m'a paru brillant d'une lumière aussi vive que celle du Soleil ; mille nations différentes disputaient entre elles l'avantage d'y arriver les premières : un jeune Prince, suivi d'une superbe Cour que formait la jeunesse la plus magnifique et la plus enjouée, s'avançait avec empressement du côté de la Princesse ma sœur : elle l'attendait pour le recevoir, mais d'un air sérieux et rebutant, tel que notre fâcheuse Fée voudrait m'obliger à l'avoir.
-Le Prince, en la voyant, m'a paru demeurer immobile, moins d'étonnement que de chagrins : il hésitait à l'aborder, ou à me venir rendre ses hommages, lorsqu'un enfant, d'une beauté surprenante et d'un éclat merveilleux, est venu le déterminer ; de petites ailes mollement agitées le soutenaient en l'air ; il tenait un arc d'une main, et de l'autre une flèche d'or ; son épaule gauche était ornée d'un carquois : Suivez moi, Prince, lui a-t-il dit, en volant auprès de moi, voilà la Princesse que je vous destine ; ne résistez point à la volonté d'un Dieu qui fait son plaisir de vous rendre heureux.
-Il finissait à peine, j'ai vu ce Prince à mes genoux ; la cruelle Fée s'efforçait de m'éloigner, et je demeurais malgré elle, parce que l'enfant me retenait avec une force surnaturelle, et que je l'aidais moi-même à me retenir.
-
--*who_finette
-Qu'il vous persuadait aisément, Madame !
-
--*who_inegilde
-Enfin, Finette, il m'a semblé que ce jeune Prince me demandait en mariage à mon père.
-
--*who_finette
-En mariage, Madame ?
-
--*who_inegilde
-Oui, Finette, et la Fée notre mère nous avait été rendue pour en ordonner la cérémonie.
-
--*who_finette
-Vous étiez donc bien aise, Madame ?
-
--*who_inegilde
-Hélas oui, ma chère Finette : mais la Fée était contre nous dans une colère épouvantable ; sa fureur, ses menaces, le bruit qu'elle faisait m'ont éveillée, et mon bonheur s'est évanoui.
-
--*who_finette
-Oh, pour cela, Madame, voilà un joli songe, c'est dommage que vous ne l'ayez pas achevé.
-
--*who_inegilde
-L'heure de mon lever est arrivée, mes femmes sont entrées dans ma chambre ; et quoique j'aie feint d'être malade ; je n'ai jamais pu obtenir de leur complaisance de me rendormir.
-
--*who_finette
-Quelle cruauté !
-
-**** *book_ *id_II06 *act_II *date_1699
-
--*who_lambethie
-Madame, vous nous exposez tous les jours aux ressentiments de la Fée, et vous savez bien l'ordre que nous avons de ne vous point souffrir de conversation particulière avec Finette.
-
--*who_inegilde
-Le plaisir de quereller vous rend aujourd'hui négligente, et vous êtes bien facile à tromper.
-
--*who_lambethie
-Vous plaît-il, Madame, de rentrer dans votre appartement ?
-Voici l'heure de prendre vos leçons de prudence et de politique.
-
--*who_inegilde
-Les ennuyeuses occupations !
-
--*who_finette
-Allez, allez, Madame, cela vous endormira, vous achèverez votre songe.
-
-**** *book_ *id_II07 *act_II *date_1699
-
--*who_zizime
-Madame, voilà le Prince votre père qui vient vous voir.
-Il paraît avoir à vous parler de quelques affaires importantes.
-
--*who_finette
-Bon, Madame : il prend bien son temps, cela vous sauvera les leçons de politique.
-Mais que vois-je ?
-C'est la Princesse votre sœur, Madame.
-
-**** *book_ *id_II08 *act_II *date_1699
-
--*who_inegilde
-Ah, ma sœur !
-Quel heureux destin vous conduit ici ?
-Que je sens de joie à vous embrasser !
-Et que cette liberté de nous voir, que l'on commence à nous souffrir, me paraît d'un heureux présage !
-
--*who_cleonide
-J'ai bien jugé, ma sœur, que ma présence vous surprendrait agréablement ; et le peu de fréquentation que les Fées nous ont permis depuis que nous vivons sous leur puissance, n'a pas dû vous préparer à la visite que je vous fais.
-
--*who_inegilde
-On pouvait vous laisser m'en rendre, sans craindre que ma destinée vous fît envie, et j'aurais pu quelquefois partager les douceurs de la vôtre, sans diminuer votre bonheur.
-
--*who_cleonide
-Si ce partage eût dépendu de vous et de moi, nous aurions changé d'occupation quelquefois, et je vous ai souvent souhaité à ma place, pour avoir l'agrément d'être à la vôtre.
-
--*who_inegilde
-Que dites-vous, ma sœur ?
-Pouvez-vous souhaiter quelque chose au milieu des plaisirs où vous vivez ?
-
--*who_cleonide
-Ah, ma sœur, que d'éternels plaisirs sont ennuyeux !
-On a beau, pour les varier en cent manières, les faire succéder les uns aux autres, cette apparence de diversité ne suffit pas pour remplir l'inclination naturelle que nous avons au changement : il faut un contraste plus sensible pour former le vrai bonheur de la vie ; et les chagrins, les périls, les malheurs même sont nécessaires, pour mieux faire goûter l'avantage de les avoir évités.
-
--*who_finette
-Miracle, Madame, l'usage des plaisirs rend Philosophe : la jolie manière de le devenir !
-
--*who_inegilde
-Vos sentiments et vos discours m'étonnent plus que votre visite, et je vais croire que c'est un esprit de retraite qui vous conduit aujourd'hui chez moi.
-
--*who_cleonide
-C'est un ordre de mon père qui m'y amène, il m'a fait dire de m'y rendre, et il a dessein apparemment de nous entretenir toutes deux ensemble.
-Mais le voici.
-
-**** *book_ *id_II09 *act_II *date_1699
-
--*who_astur
-Que chacun se retire, et qu'aucun n'entre ici : mes Filles, demeurez, et vous Finette, aussi.
-Comme j'ai à vous parler d'affaires réjouissantes, mes enfants, je suis bien aise de ne voir auprès de vous que des visages qui me réjouissent, et devant qui je ne sois pas obligé de garder une incommode gravité, qui m'a terriblement gêné depuis que la Fée votre mère s'avisa de me faire Souverain.
-
--*who_finette
-Oh, pour cela, Seigneur, vous avez bien raison, et je vous sais bon gré de vous dépouiller ainsi quelquefois de l'éclat qui vous environne : un Prince, toujours esclave de sa grandeur, vit moins pour lui que pour les autres ; et c'est un adoucissement à la fatigue d'être Souverain, que la liberté de pouvoir un peu devenir homme dans sa famille.
-
--*who_astur
-Finette parle de fort bon sens.
-Oh çà, mes filles, je vous ai voulu parler à toutes deux ensemble, parce que j'ai le même compliment à vous faire à toutes deux, et que toutes deux apparemment vous le recevrez de la même manière.
-On vous demande en mariage, mes filles.
-
--*who_inegildeetcleonide
-Ah, Seigneur !
-
--*who_astur
 Bon, fort bien, j'avais bien prévu ce cri : mais dites-moi, je vous prie, si c'est un mouvement de joie ou de répugnance qui vous le fait faire ?
 
--*who_cleonide
-Seigneur…
+Parlez naturellement, oubliez que je suis votre père, regardez-moi comme votre ami. J'étais Berger avant que d'être Prince : ne vous souvenez de ma dignité, que pour soutenir par votre conduite et par vos manières, l'avantage du rang où le hasard m'a mis, et où le Ciel vous a fait naître. Çà de bonne foi, seriez-vous fâchées d'être mariées ?
 
--*who_astur
-Parlez naturellement, oubliez que je suis votre père, regardez-moi comme votre ami.
-J'étais Berger avant que d'être Prince : ne vous souvenez de ma dignité, que pour soutenir par votre conduite et par vos manières, l'avantage du rang où le hasard m'a mis, et où le Ciel vous a fait naître.
-Çà de bonne foi, seriez-vous fâchées d'être mariées ?
+Hem, plaît-il ? Quoi ! Vous rougissez ? Vous vous troublez ? Vous soupirez ? Vous riez ? La proposition ne vous déplaît pas. J'ai donc agréé la chose pour vous, et vous ne m'en dédirez pas, à ce que je vois. Vos amants doivent se rendre incessamment ici ; je ne les connais pas mais vos tantes les Fées qui m'en ont parlé, en disent beaucoup de bien, elles les ont choisis comme pour elles.
 
--*who_inegilde
-Seigneur…
+Oui, vraiment, ce sont des connaisseuses, et vous ne serez pas trompées. Celui qu'on te destine, à toi, par exemple, est un garçon mûr, de soixante dix ou quatre-vingts ans tout au plus ; mais pourtant fort jeune, avec cela ; car il est d'un pays où on ne meurt presque point.
 
--*who_finette
-Ne perdez point le jugement, dites oui, Madame.
-
--*who_astur
-Hem, plaît-il ?
-Quoi !
-Vous rougissez ?
-Vous vous troublez ?
-Vous soupirez ?
-Vous riez ?
-La proposition ne vous déplaît pas.
-J'ai donc agréé la chose pour vous, et vous ne m'en dédirez pas, à ce que je vois.
-Vos amants doivent se rendre incessamment ici ; je ne les connais pas mais vos tantes les Fées qui m'en ont parlé, en disent beaucoup de bien, elles les ont choisis comme pour elles.
-
--*who_inegilde
-Les Fées, Seigneur !
-
--*who_astur
-Oui, vraiment, ce sont des connaisseuses, et vous ne serez pas trompées.
-Celui qu'on te destine, à toi, par exemple, est un garçon mûr, de soixante dix ou quatre-vingts ans tout au plus ; mais pourtant fort jeune, avec cela ; car il est d'un pays où on ne meurt presque point.
-
--*who_finette
-D'un pays où on ne meut point ?
-La belle ressource pour une femme !
-
--*who_astur
 C'est un homme réglé, de bonnes mœurs, sans malice, et qui n'a précisément que l'esprit qu'il faut pour être sage.
 
--*who_finette
-Ce n'est pas là votre songe, ni votre compte, Madame…
+C'est un fort bon parti. Pour toi, on t'en a choisi un d'une humeur toute contraire ; il faut un peu de variété dans les familles. C'est un jeune égrillard, beau, bien fait, de bonne mine, un peu étourdi, beaucoup libertin : mais de fort bonne humeur en revanche, et qu'on dit qui nous réjouira. Pour moi, j'aime les gens qui me réjouissent.
 
--*who_astur
-C'est un fort bon parti.
-Pour toi, on t'en a choisi un d'une humeur toute contraire ; il faut un peu de variété dans les familles.
-C'est un jeune égrillard, beau, bien fait, de bonne mine, un peu étourdi, beaucoup libertin : mais de fort bonne humeur en revanche, et qu'on dit qui nous réjouira.
-Pour moi, j'aime les gens qui me réjouissent.
-
--*who_finette
-Et nous aussi.
-Ce libertin-là vaudra mieux que l'autre, Madame.
-
--*who_astur
 Tu ne t'ennuieras pas avec lui, c'est un Prince qui vit presque aussi heureusement qu'un homme d'affaires ; l'Amour est son premier Ministre, et c'est la Fortune qui a la Surintendance de ses Finances.
 
--*who_finette
-Que c'est bien là ce qu'il vous faudrait !
+Enfin, mes filles, nous les verrons, et vous en jugerez par vous-mêmes. Tout ce que je vous recommande, c'est de les recevoir favorablement, et de leur faire un fort bon accueil.
 
--*who_astur
-Enfin, mes filles, nous les verrons, et vous en jugerez par vous-mêmes.
-Tout ce que je vous recommande, c'est de les recevoir favorablement, et de leur faire un fort bon accueil.
-
--*who_cleonide
-Mes sentiments, Seigneur, seront toujours soumis aux vôtres.
-Si le choix de la Fée se trouve contraire à mes désirs, votre volonté suffira pour me déterminer à les vaincre, et je sacrifierai le bonheur de ma vie, à celui de vous marquer une parfaite soumission.
-
--*who_astur
 Hem, comment ?
 
--*who_inegilde
-Pour moi, Seigneur, je mets toute ma gloire à vous obéir : je me sens incapable de manquer au respect que je vous dois ; et si vos ordres m'imposent la nécessité d'accepter un époux, pour qui mon cœur ait de la répugnance, la mort ne tardera pas à me délivrer de la violence que mon devoir aura su me faire.
+Cela me paraît fort bien dit : mais je n'y comprends pas grand-chose. Tant que j'ai vécu Berger, je me suis fort accoutumé à des manières simples et à des discours naturels, que le langage de ma Cour ne m'est presque point intelligible : l'entends-tu mieux que moi, dis Finette ? Que m'ont-elles voulu répondre ?
 
--*who_astur
-Cela me paraît fort bien dit : mais je n'y comprends pas grand-chose.
-Tant que j'ai vécu Berger, je me suis fort accoutumé à des manières simples et à des discours naturels, que le langage de ma Cour ne m'est presque point intelligible : l'entends-tu mieux que moi, dis Finette ?
-Que m'ont-elles voulu répondre ?
-
--*who_finette
-Que le mariage ne leur déplaît pas : mais que les maris pourraient ne leur pas plaire.
-
--*who_astur
 Hé bien, cela est clair, j'entends cela.
 
-**** *book_ *id_II10 *act_II *date_1699
+Qu'est-ce ? Qu'y a-t-il, Darinel ? Te voilà bien essoufflé ?
 
--*who_darinel
-Seigneur, je vous demande pardon… de la liberté que je prends… de vous interrompre : mais…
+Hé bien ? Comment ? Qu'est-ce ? De quoi s'agit-il ?
 
--*who_astur
-Qu'est-ce ?
-Qu'y a-t-il, Darinel ?
-Te voilà bien essoufflé ?
-
--*who_darinel
-On ne le peut trop paraître, Seigneur… quand on a le bonheur… d'être le premier à apporter une bonne nouvelle.
-
--*who_astur
-Hé bien ?
-Comment ?
-Qu'est-ce ?
-De quoi s'agit-il ?
-
--*who_darinel
-Seigneur, la Fée des plaisirs se dispose à vous présenter la Prince de l'Isle Fortunée, Qu'elle a choisi pour époux de la Princesse Cléonide : comme elle me fait l'honneur d'avoir quelques bontés pour moi, elle m'a chargé de venir vous dire que la suite de ce Prince allait arriver incessamment avec quelques espèces d'Ambassadeurs, et qu'il se mêlera peut-être lui-même parmi la foule, pour avoir le plaisir de considérer la Princesse dans le temps qu'elle recevra les hommages de ses Sujets.
-
--*who_astur
-Tu fais fort bien de m'avertir de cela.
-Il faut reprendre ma gravité ; cette affaire-ci est des plus sérieuses.
+Tu fais fort bien de m'avertir de cela. Il faut reprendre ma gravité ; cette affaire-ci est des plus sérieuses.
 Quelle harmonie est-ce là ?
 
--*who_darinel
-C'est apparemment la Fée qui nous amène les Envoyés du Prince.
-
--*who_astur
 Voilà une fort jolie manière de les annoncer.
 Où allez-vous, ma fille ?
 
--*who_inegilde
-Je me retire, Seigneur, et vous voudrez bien me le permettre : cette cérémonie n'est pas pour moi.
-
--*who_astur
 Non, demeurez, vous aurez votre tour.
 
-**** *book_ *id_II11 *act_II *date_1699
+Ils viennent de bonne part, qu'on les fasse entrer. Et toi, Darinel, demeure auprès de moi, tu m'aideras à répondre, en cas qu'ils me haranguent.
 
--*who_zizime
-Seigneur, une troupe d'Étrangers, qui sont sous la protection de la Fée des plaisirs, demandent qu'on les introduise auprès de vous.
+Prétendez-y, Prince, je vous en trouve digne, et très digne. Le rang où vous me voyez ne me fais pas oublier où je me suis vu ; et comme je suis un Prince de fortune de la façon de feue ma femme, vous me faites beaucoup d'honneur de vouloir devenir mon gendre. Tenez, voilà la Princesse qu'on m'a demandée pour vous.
 
--*who_astur
-Ils viennent de bonne part, qu'on les fasse entrer.
-Et toi, Darinel, demeure auprès de moi, tu m'aideras à répondre, en cas qu'ils me haranguent.
+Que tardez-vous, Prince ? Hé, qui vous retient ? Je parle avec sincérité ; je vous accorde Cléonide, et vous pouvez compter sur ma parole.
 
-**** *book_ *id_II12 *act_II *date_1699
+Elle a l'esprit joli : on l'a fort bien élevée ; à la vérité je ne m'en suis pas mêlé. Vous aurez le loisir de juger de ses bonnes qualités, et avant les noces mêmes. Nous attendons un Prince comme vous, pour épouser la Princesse sa sœur que vous voyez.
 
--*who_unehabitantedelile
-C'est l'Amour qui nous amène,
-Et la Fortune qui nous suit ;
-Notre victoire est certaine,
-Partout où l'on nous conduit,
-C'est l'Amour qui nous amène,
-Et la Fortune qui nous suit.
-
--*who_lepetitchŒur
-C'est l'Amour qui nous amène,
-Et la Fortune qui nous suit.
-
--*who_unehabitantedelile
-Par nos soins d'une inhumaine,
-L'orgueil est bientôt détruit.
-C'est l'Amour qui nous amène,
-Et la Fortune qui nous suit.
-
--*who_lepetitchŒur
-C'est l'Amour qui nous amène,
-Et la Fortune qui nous suit.
-
--*who_unehabitantedelile
-Du Prince heureux qui nous tient sous sa loi,
-Nous venons vous rendre l'hommage :
-La Fortune et l'Amour seront ici le gage
-De sa tendresse et de sa foi :
-C'est à ces deux Divinités,
-Qu'il doit sa gloire et sa puissance ;
-Elles ont mis sous son obéissance,
-Des climats enchantés,
-Où l'on jouit en abondance,
-Des plus rares félicités.
-
--*who_unehabitantedelile
-L'Amour favorise
-Nos vœux les plus doux,
-La Fortune épuise
-Ses faveurs sur nous.
-Du bonheur extrême
-Que nous sentons tous,
-Dans leur gloire même,
-Les Dieux sont jaloux.
-
--*who_unhabitantdelile
-Venez, Princesse charmante,
-Venez régner en des lieux fortunés.
-
--*who_lechŒur
-Venez, Princesse charmante,
-Venez régner en des lieux fortunés.
-
--*who_unhabitantdelile
-Répondez à notre attente,
-Venez jouir des biens qui vous sont destinés.
-Venez, Princesse charmante,
-Venez régner en des lieux fortunés.
-
--*who_lechŒur
-Venez, Princesse charmante,
-Venez régner en des lieux fortunés.
-
--*who_unhabitantdelile
-Un tendre amant quelquefois importune,
-Quand l'Amour seul offre les vœux,
-Il deviendrait bientôt heureux,
-S'il faisait parler la Fortune.
-
--*who_unhabitantdelile
-Jeunes beautés, cédez sans violence,
-Aimez, aimez à votre tour,
-Un cœur fait peu de résistance,
-Dès que la Fortune et l'Amour
-Sont, pour l'assujettir, tous deux d'intelligence.
-
-**** *book_ *id_III01 *act_III *date_1699
-
--*who_finette
-Par ma foi, voilà une jolie manière de demander les filles en mariage, et je voudrais que quelqu'un s'avisât d'en faire autant pour moi.
-
--*who_blandonie
-Approchez, Prince, et venez faire les délices d'une Cour où le comble du bonheur vous est préparé.
-
--*who_inegilde
-Ah !
-Finette, c'est lui que j'ai vu cette nuit en songe.
-
--*who_finette
-Ne vous troublez point, on vous observe.
-
--*who_zirphilin
-Seigneur, l'honneur de votre alliance est un avantage où je n'oserais aspirer sans la protection de cette illustre Fée, et je ne commencerai de m'en croire digne que lorsque vous m'aurez permis d'y prétendre.
-
--*who_astur
-Prétendez-y, Prince, je vous en trouve digne, et très digne.
-Le rang où vous me voyez ne me fais pas oublier où je me suis vu ; et comme je suis un Prince de fortune de la façon de feue ma femme, vous me faites beaucoup d'honneur de vouloir devenir mon gendre.
-Tenez, voilà la Princesse qu'on m'a demandée pour vous.
-
--*who_zirphilin
-Seigneur…
-
--*who_finette
-Le Prince vous regarde, il soupire, il est embarrassé, Madame.
-
--*who_astur
-Que tardez-vous, Prince ?
-Hé, qui vous retient ?
-Je parle avec sincérité ; je vous accorde Cléonide, et vous pouvez compter sur ma parole.
-
--*who_zirphilin
-Madame, je n'abuserai point de l'aveu d'un père, c'est à vous seule que je veux devoir le bonheur de vous posséder.
-J'y renoncerais plutôt, que de ne vous pas obtenir de vous-même ; et j'espère que le temps, mes respects et mes soumissions vous engageront un jour à me rendre heureux.
-
--*who_cleonide
-Tant de respects, Seigneur, ne marquent pas une ardeur bien vive : la délicatesse d'une amante aurait de quoi s'en offenser.
-Pour moi, je vous l'avoue, je ne suis pas si susceptible de ressentiment, et je rends grâce à votre politesse qui me donnera le temps de vous connaître, et la liberté de régler à mon choix votre destinée et la mienne.
-
--*who_astur
-Elle a l'esprit joli : on l'a fort bien élevée ; à la vérité je ne m'en suis pas mêlé.
-Vous aurez le loisir de juger de ses bonnes qualités, et avant les noces mêmes.
-Nous attendons un Prince comme vous, pour épouser la Princesse sa sœur que vous voyez.
-
--*who_zirphilin
-Hélas !
-
--*who_astur
 Et je serai bien aise de faire en un même jour la cérémonie de ces deux mariages, pour épargner un peu la dépense.
 
--*who_zirphilin
-Madame… vos intérêts et vos sentiments règleront mon impatience, et le bonheur de cette journée deviendra plus sensible pour moi, par l'espoir de le partager avec vous.
+Elle se plaint toujours ; je ne sais pas ce qu'on lui a fait. Ma belle-sœur la Fée, que n'égayez-vous un peu son tempérament ? Vous qui aimez tant la joie, donnez-lui du goût pour les plaisirs. Allons.
 
--*who_inegilde
-Cette journée ne nous rendra pas tous également heureux, Seigneur, et vous seriez peu content de votre sort, s'il était conforme à ma destinée.
-
--*who_astur
-Elle se plaint toujours ; je ne sais pas ce qu'on lui a fait.
-Ma belle-sœur la Fée, que n'égayez-vous un peu son tempérament ?
-Vous qui aimez tant la joie, donnez-lui du goût pour les plaisirs.
-Allons.
-
--*who_finette
-Ce n'est pas le goût qui nous manque, Seigneur, c'est la liberté de nous en servir.
-
--*who_blandonie
-Je m'intéresse à la rendre heureuse autant qu'il m'est permis de le faire : et voilà Finette…
-
--*who_finette
-J'y travaille, Madame : mais la Fée votre sœur, est terrible, avec sa mauvaise humeur, qu'elle veut qu'on appelle Sagesse.
-
--*who_astur
 Qu'on prenne bien garde de ne la point fâchée ; c'est la plus sage et la plus vertueuse Fée… mais en revanche, c'est bien la plus emportée et la plus violente… Elle me fait quelquefois trembler ; et je la trouve encore plus méchante et plus acariâtre que feue ma femme ; aussi, feue ma femme n'était pas si sage et si vertueuse que celle-ci.
 
--*who_blandonie
-Nos talents sont bornés, Seigneur, et notre art ne peut nous soustraire à la tyrannie des passions qui nous dominent : mais vous ne songez pas que le Prince a fait un long voyage, et qu'il a besoin de repos ; conduisons-le à l'appartement que je lui ai fait préparer, et nous tâcheront d'occuper tous ses moments des plaisirs les plus agréables que pourra fournir l'union de la Cour avec la vôtre.
+Qu'est-ce que c'est donc, ma belle-sœur ? Quelle espèce de mari avez-vous fait venir pour Inégilde ?
 
-**** *book_ *id_III02 *act_III *date_1699
+Le Souverain du pays où tout le monde est sage, est un vieux fou de songer à se marier ; il paraît avoir plus de cent cinquante ans. Je ne sais pas si ma fille s'en accommodera : mais pour moi je ne veux point d'un gendre comme celui-là, je vous en avertis.
 
--*who_finette
-Vous ne les suivez pas, Madame ?
-Vos surveillantes sont en défaut, la Cour est en joie : profitons de l'occasion, venez.
+La faiblesse, Madame ? Je n'étais qu'un berger, d'accord ; mais jeune, beau, bien fait, je le suis encore : et votre sœur, qui était la Fée de la Raison, n'a pas fait ma fortune sans savoir pourquoi.
 
--*who_inegilde
-Non, demeurons, Finette.
+Elle s'égarait ! Ma foi, je ne sais ; mais depuis que nous l'avons perdue, on s'en aperçoit furieusement dans la famille. Quelle bizarrerie ! Faire venir un vieux mari de par delà les Indes !
 
--*who_finette
-Les yeux du Prince ont peine à vous quitter, Madame, il vous en veut, je suis bonne physionomiste.
+Hé bien, un sage ; pourquoi l'aller chercher si loin ? N'en pouvait-on trouver plus près ? Et faut-il pour être sage, avoir vécu près de deux siècles ?
 
--*who_inegilde
-Que tu es extravagante, Finette, avec tes idées !
-
--*who_finette
-Je ne suis point extravagante, et je sais bien les moyens d'éclaircir la chose.
-Holà, Darinel.
-
-**** *book_ *id_III03 *act_III *date_1699
-
--*who_inegilde
-Quel est ton dessein ?
-Que veux-tu faire ?
-
--*who_finette
-Ne vous mettez pas en peine.
-
--*who_darinel
-Je différais à m'éloigner, parce que j'ai bien jugé que vous auriez peut-être quelque chose à me dire.
-
--*who_finette
-Le Seigneur Darinel a bon esprit, Madame, et sa pénétration ne nous sera pas inutile.
-Oh çà, que te semble de ce jeune Prince que nous venons de voir ?
-
--*who_darinel
-C'est un petit Seigneur aussi bien tourné qu'il s'en trouve, et qui a mille bonnes qualités : nous nous connaissons un peu.
-Je vous assure que la princesse qui l'aura, ne sera pas malheureuse.
-
--*who_inegilde
-Ma sœur lui est destinée, Darinel.
-
--*who_darinel
-Oui : mais je ne regarde pas encore cette union-là comme une chose bien assurée.
-
--*who_inegilde
-Et qui peut t'en faire douter ?
-
--*who_darinel
-De certaines petites circonstances, des bagatelles que j'ai remarquées.
-
--*who_inegilde
-Et quelles ?
-
--*who_finette
-Qu'as-tu remarqué ?
-Dis vite.
-
--*who_darinel
-Que le Prince n'a pas de goût pour elle.
-
--*who_inegilde
-À quoi le juges-tu ?
-
--*who_darinel
-À tout ce que j'ai vu, Madame ; au compliment qu'il lui a fait, à la manière dont il lui a donné la main, au peu d'attention qu'il avait pour elle, et à celle qu'il avait ailleurs : il regardait avec plaisir d'un certain côté…
-
--*who_inegilde
-Hé, de quel côté, encore ?
-Dis.
-
--*who_darinel
-Du mien, Madame.
-
--*who_inegilde
-Du tien, Darinel ?
-
--*who_darinel
-Oui, Madame : à la vérité j'étais auprès de vous, et j'ai bien observé tout cela.
-
--*who_finette
-Je l'ai remarqué comme lui, Madame ; et vous, ne vous êtes-vous aperçue de rien ?
-
--*who_darinel
-Je n'y faisais pas attention.
-
--*who_inegilde
-C'est aussi ce que j'ai remarqué, et vous avez fort bien fait, Madame, il ne faut pas qu'une personne comme vous prenne garde à ces choses-là.
-
--*who_finette
-Non, sans doute : mais on n'est pourtant pas fâchée de les savoir, et il est bon d'avoir un espion qui ait l'esprit d'en rendre compte.
-Tu voudras bien continuer à nous en servir, peut-être ?
-
--*who_darinel
-De tout mon cœur.
-
--*who_inegilde
-Mais, à quoi bon, Finette…
-
--*who_finette
-Par curiosité, Madame : laissez-nous faire, et qu'il tâche seulement à pénétrer les sentiments du Prince, et à découvrir la situation de son cœur et de son esprit.
-
--*who_inegilde
-Mais, tout cela, Darinel, d'une manière qui ne lui donne aucune pensée…
-
--*who_darinel
-Laissez-moi faire, Madame : je suis, grâce au Ciel, assez bon Courtisan ; Je l'aborderai par manière de devoir, j'entrerai par manière d'acquit dans sa confidence : et comme ce n'est que par curiosité que vous vous y intéressez, je vous en informerai seulement par manière de conversation.
-Adieu, Finette : au moins…
-
--*who_finette
-Adieu, adieu, Darinel : je te rendrai bientôt réponse, si tu continues.
-
-**** *book_ *id_III04 *act_III *date_1699
-
--*who_finette
-Je n'ai pas mauvaise opinion de cette affaire, et nous en aurons bonne issue.
-
--*who_inegilde
-La Fée serait bien en colère, Finette.
-La voici, je pense ?
-
--*who_finette
-C'est elle-même, vous avez raison : elle m'aura peut-être entendue.
-Je me sauve, Madame.
-
-**** *book_ *id_III05 *act_III *date_1699
-
--*who_melisende
-Arrêtez, Finette, arrêtez.
-
--*who_finette
-Madame !
-
--*who_melisende
-Je vous avais fait dire, à ce qu'il me semble, de ne vous point trouver seule avec Inégilde ?
-
--*who_finette
-Je m'éloignais aussi, Madame, c'est vous qui me dites de demeurer.
-
--*who_melisende
-Vous ne vous éloigniez, que pour éviter ma présence.
-
--*who_finette
-Je vous respecte, Madame, et je vous crains, comme vous voyez.
-
--*who_melisende
-Vous faites bien, et vous ferez mieux encore, de ne vous pas exposer davantage à gâter l'esprit d'Inégilde par vos conversations ridicules.
-
--*who_finette
-Nous ne parlons jamais que de vous, Madame.
-
--*who_melisende
-Ôtez-vous de mes yeux, insolente, et ne vous présentez jamais devant moi.
-
--*who_finette
-Oh !
-De tout mon cœur, Madame.
-Qu'il y a de plaisir à vous obéir !
-
-**** *book_ *id_III06 *act_III *date_1699
-
--*who_melisende
-Vous avez-là ma nièce, auprès de vous, une aussi dangereuse petite personne…
-
--*who_inegilde
-Ne vous mettez point en colère, Madame.
-
-**** *book_ *id_III07 *act_III *date_1699
-
--*who_lambethie
-Zerbine demande à vous entretenir, Madame.
-
--*who_melisende
-Qu'elle entre dans mon cabinet, je vais la joindre.
-Et vous, ma nièce, venez vous disposer à recevoir un Prince que j'ai choisi pour votre époux, et que j'aurai soin de vous présenter tantôt moi-même.
-
--*who_inegilde
-Ah !
-Finette, Finette, tous nos projets sont renversés, et mes malheurs ne finiront qu'avec ma vie.
-
-**** *book_ *id_III08 *act_III *date_1699
-
--*who_darinel
-Ce n'est pas un endroit commode, que la Cour, pour traiter secrètement une affaire, et je voudrais bien trouver moyen de parler en particulier au Pince de l'Isle Fortunée.
-Bon, le voici, je pense ; il est seul comme je le souhaite, et j'ai prudemment fait de je venir attendre ici.
-
-**** *book_ *id_III09 *act_III *date_1699
-
--*who_zirphilin
-Engagement funeste !
-Voyage malheureux !
-
--*who_darinel
-Il parle tout seul.
-
--*who_zirphilin
-Ô Amour !
-Où m'as-tu conduit ?
-
--*who_darinel
-Il apostrophe l'Amour, il n'est pas content de lui.
-
--*who_zirphilin
-Pourquoi révoltes-tu mon cœur contre le choix qu'a fait la Fée ?
-Et vous, aveugle Fée, que ne consultiez-vous l'Amour, sur le choix que vous aviez à faire ?
-
--*who_darinel
-Il s'embarrasse dans des réflexions, je lui ferai plaisir de le tirer de là.
-Vous voulez bien permettre, Seigneur…
-
--*who_zirphilin
-Ah : C'est toi, Darinel.
-
--*who_darinel
-J'attendais à vous rendre mes respects, que vous fussiez débarrassé de la foule, pour n'être pas confondu parmi les Courtisans du commun.
-Le secret de me distinguer est de me présenter seul ; et vous remarquerez, s'il vous plaît, Seigneur, que je suis le dernier à vous faire compliment sur votre mariage.
-
--*who_zirphilin
-Hélas, Darinel !
-
--*who_darinel
-Vous soupirez, Seigneur ?
-Vous avez dans la tête quelque chose qui vous embarrasse.
-
--*who_zirphilin
-Moi ?
-
--*who_darinel
-Oui, il y a quelque secret qui vous pèse, et vous mourez d'envie d'en faire part à quelqu'un.
-
--*who_zirphilin
-Non, je t'assure.
-
--*who_darinel
-Oh, si fait, si fait.
-Tenez-vous un peu, s'il vous plaît.
-Ah !
-Que voilà bien une physionomie qui marque que je m'en vais devenir votre confident.
-Parlez, Seigneur ; ce n'est pas d'aujourd'hui que nous nous connaissons ; j'ai toujours été bon à mille choses, et je me suis encore bien appris, depuis que vous ne m'avez vu, j'ai presque toujours vécu parmi des femmes.
-
--*who_zirphilin
-Tu es donc devenu bien habile ?
-
--*who_darinel
-Cela passe l'imagination ; et je m'en vais gager que je devine la raison qui vous fait venir rêver ici plutôt qu'ailleurs.
-
--*who_zirphilin
-C'est le hasard qui m'y conduit.
-
--*who_darinel
-Cela est admirable !
-C'est le hasard aussi qui m'a fait deviner que vous y viendriez, et que je ferais bien de vous y venir attendre.
-
--*who_zirphilin
-Tu as deviné cela ?
-
--*who_darinel
-Oui vraiment ; et vous n'êtes pas fâché que je sois si pénétrant.
-
--*who_zirphilin
-Hé, ne pénètres-tu que cela, Darinel ?
-
--*who_darinel
-Oh que pardonnez-moi.
-C'est en ce lieu que vous avez vu les deux Princesses : vous n'avez suivi qu'avec peine celle que l'on vous destine, vous quittiez l'autre avec regret ; j'ai jugé que vous reviendriez ici ; vous y revenez, vous êtes rêveur, vous soupirez, je ne me suis pas trompé, vous êtes amoureux d'Inégilde.
-
--*who_zirphilin
-Je ne veux point avoir de secret pour toi, mon cher Darinel : que tu devines juste !
-
--*who_darinel
-Je vous le disais bien : j'ai étudié dans de bonnes écoles, et je vous avertis qu'Inégilde est presque aussi pénétrante que moi.
-
--*who_zirphilin
-Qu'elle est charmante !
-Qu'elle est adorable !
-Si je pouvais seulement avoir quelques moments d'entretien avec elle…
-
--*who_darinel
-Pourquoi non ?
-Cela ne sera pas impossible ; et voici justement Finette, qui est sa favorite, et qui n'aura pas de répugnance à vous rendre ce bon office.
-
-**** *book_ *id_III10 *act_III *date_1699
-
--*who_finette
-Les voici tous deux ensemble, nous allons savoir des nouvelles.
-Ah, ah !
-Déjà Darinel en conversation avec le Prince ?
-Je ne m'étonne pas s'il a des amis, il est ardent à faire sa cour.
-
--*who_darinel
-C'est la tienne que je faisais : j'assurais le Prince que s'il avait besoin de tes soins, de tes lumières et de ton crédit en ce pays-ci…
-
--*who_finette
-Je suis fort peu de chose, mais je suis toute à son service.
-En quoi lui pourrais-je être utile ?
-
--*who_zirphilin
-Aimable Finette, si par ton moyen je pouvais m'entretenir un seul moment avec Inégilde…
-
--*who_finette
-Comment faire ?
-Je ne puis quasi pas lui parler moi-même.
-La Fée vient de me défendre encore tout à l'heure de me trouver jamais seule avec elle ; je n'oserais hasarder ce que vous me proposez.
-
--*who_darinel
-Qui le peut mieux que toi ?
-
--*who_zirphilin
-Charmante Finette, rien ne saurait jamais payer le service que tu me peux rendre, je le sais : mais porte ce bracelet, je te prie, pour gage seulement de ma reconnaissance.
-
--*who_finette
-Ce bracelet, Seigneur ?
-Ah, que vous avez des manières dangereuses !
-
--*who_zirphilin
-Ce brillant sera mieux encore à ta main qu'à la mienne ; accepte-le, je t'en conjure.
-
--*who_finette
-Que vos discours sont séduisants !
-Je fais tout ce que vous voulez.
-
--*who_zirphilin
-Que je voie Inégilde, que je lui parle…
-
--*who_finette
-Cela ne sera pas bien difficile ; la Fée n'y est pas, Inégilde m'a fait signe de venir ici, elle ne tardera pas à s'y rendre.
-
--*who_zirphilin
-Ah, que je te suis redevable !
-
--*who_finette
-Éloignez-vous de quelques pas, et faites semblant de vous promener en rêvant dans quelqu'une de ces galeries, vous nous aborderez quand je vous ferez signe.
-La voici, je pense ; éloignez-vous, et me laissez faire.
-
-**** *book_ *id_III11 *act_III *date_1699
-
--*who_inegilde
-Ma chère Finette, je suis perdue ; cet époux dont on me menace vient d'arriver, la Fée l'est allée recevoir : que deviendrai-je ?
-
--*who_finette
-Je m'en vais vous le dire.
-Il y avait une fois un Roi et une Reine…
-
--*who_inegilde
-Ah, Finette, à quoi songes-tu ?
-Dans la pressante extrémité où je me trouve, est-il temps de t'amuser à me faire un conte ?
-
--*who_finette
-Ce n'est point un conte, c'est un petit trait d'histoire assez joli, Madame, écoutez seulement.
-Cette Reine mourut, et laissa deux filles pour qui le Roi choisit des maris qu'elles n'aimaient pas.
-
--*who_inegilde
-Qu'elles étaient à plaindre, Finette !
-
--*who_finette
-Oui, cela est intéressant, n'est-ce pas ?
-Elles avaient chacune un amant, qui faute d'occasion ne s'étaient pas encore déclarés, et qu'elles aimaient en secret pourtant.
-L'occasion s'offrit, les amants parlèrent : l'aînée reçut le sien avec fierté, lui défendit de lui parler jamais de son amour il se le tint pour dit, il se rebuta, et la pauvre Princesse fut obligée de prendre, en enrageant, ce mari qu'elle n'aimait point.
-
--*who_inegilde
-On n'aimait guères dans ce temps-là, Finette, de se rebuter si facilement.
-
--*who_finette
-On aimait dans ce temps-là comme on n'aime à cette heure ; une beauté fière est souvent la dupe de l'aventure.
-La cadette fut plus raisonnable et plus heureuse : l'amant lui plaisait, il fut bien reçu ; la Cour en parla, le Roi le sut et l'approuva, et le prétendu mari qu'il avait fait venir fut honnêtement congédié.
-
--*who_inegilde
-Ah que cette histoire est jolie, Finette, et que je suis ravie de la savoir !
-
--*who_finette
-Elle est fort instructive, faites-en votre profit.
-Voici le Prince que Darinel vous amène.
-
--*who_inegilde
-Ah ma chère Finette, je tremble !
-
-**** *book_ *id_III12 *act_III *date_1699
-
--*who_darinel
-Allons, ferme, point de vaine timidité, Seigneur.
-
--*who_finette
-Vous êtes la cadette, Madame, ne vous avisez pas de faire comme fit cette aînée.
-
--*who_zirphilin
-Le respect que je vous dois, Madame, cède à l'amour qui me domine, et ce Dieu porte avec lui l'excuse de tout ce qu'il fait entreprendre.
-Je vous adore, et je crains moins de vous le dire, que de vous le laisser ignorer.
-Ma mort est certaine, si je perds l'espoir de vous posséder ; et qu'ai-je à faire de la vie, si vous ne me permettez pas vous-même de vous en consacrer tous les moments ?
-
--*who_inegilde
-Seigneur, je ne sais de quelle manière je dois recevoir la déclaration que vous me faites de vos sentiments ; peut-être faudrait-il m'en effaroucher, vous témoigner de la colère : mais je n'en ai point, je vous l'avoue ; et la seule chose qui me fait peine, est de ne pouvoir bien répondre à un langage qui m'est si nouveau.
-
--*who_darinel
-Le langage est nouveau : mais on ne laisse pas l'entendre.
-
--*who_zirphilin
-Mon sort dépend de vous, Madame.
-Autorisez d'un tendre aveu l'ardent amour que vous avez fait naître, et les obstacles les plus puissants s'opposeront vainement à mon bonheur.
-Je romprai toutes les mesures qu'on a prises ; je vous obtiendrai du Prince votre père, j'engagerai la Fée qui me protège à nous devenir favorable, je réduirai la vôtre à la nécessité de ne nous être pas contraire, et l'assurance de vous plaire me fera trouver tout possible.
-
--*who_finette
-Voilà de beaux projets.
-Allons, Madame, la situation où vous êtes veut une prompte résolution ; il n'y a point à hésiter, il faut finir le songe.
-
--*who_inegilde
-Suivez, Prince, les conseils que l'amour vous donne : obtenez l'aveu de mon père, faites-y souscrire les Fées, et n'appréhendez point d'avoir à surmonter d'autres obstacles.
-
--*who_zirphilin
-Ah, Madame, souffrez…
-
--*who_inegilde
-Que faites-vous ?
-Voilà la Fée.
-
-**** *book_ *id_III13 *act_III *date_1699
-
--*who_melisende
-Que veut dire ceci, ma nièce ?
-Et vous, Finette, je vous vois encore avec elle dans le moment que je viens de vous défendre…
-
--*who_finette
-Vous m'avez défendu de m'y trouver seule, Madame, je lui ai amené compagnie.
-
--*who_melisende
-Prince, il est assez surprenant que vous visitiez Inégilde, sans m'en avoir fait avertir : si vous croyez que l'union prochaine de vous et de sa sœur vous autorise à lui rendre quelques devoirs, il faudrait vous en acquitter avec moins de transport, et vos civilités me paraissent un peu trop outrées.
-
--*who_darinel
-C'est un Prince fort poli, Madame.
-
-**** *book_ *id_III14 *act_III *date_1699
-
--*who_astur
-Qu'est-ce que c'est donc, ma belle-sœur ?
-Quelle espèce de mari avez-vous fait venir pour Inégilde ?
-
--*who_melisende
-Quelle espèce de mari !
-C'est le Souverain de ce pays où tout le monde est sage, le Prince de l'Isle Inconnue dont je vous ai parlé.
-
--*who_astur
-Le Souverain du pays où tout le monde est sage, est un vieux fou de songer à se marier ; il paraît avoir plus de cent cinquante ans.
-Je ne sais pas si ma fille s'en accommodera : mais pour moi je ne veux point d'un gendre comme celui-là, je vous en avertis.
-
--*who_finette
-Bon, Madame, il prend bien la chose.
-
--*who_melisende
-Vraiment, Seigneur, il vous sied bien de vous rendre si difficile, vous qui n'étiez qu'un simple berger lorsque ma sœur eut la faiblesse…
-
--*who_astur
-La faiblesse, Madame ?
-Je n'étais qu'un berger, d'accord ; mais jeune, beau, bien fait, je le suis encore : et votre sœur, qui était la Fée de la Raison, n'a pas fait ma fortune sans savoir pourquoi.
-
--*who_melisende
-La Fée de la Raison s'égarait quelquefois.
-
--*who_astur
-Elle s'égarait !
-Ma foi, je ne sais ; mais depuis que nous l'avons perdue, on s'en aperçoit furieusement dans la famille.
-Quelle bizarrerie !
-Faire venir un vieux mari de par delà les Indes !
-
--*who_melisende
-Ne vous ai-je pas dit que c'était un sage ?
-
--*who_astur
-Hé bien, un sage ; pourquoi l'aller chercher si loin ?
-N'en pouvait-on trouver plus près ?
-Et faut-il pour être sage, avoir vécu près de deux siècles ?
-
--*who_melisende
-C'est un choix que vous avez approuvé vous-même, lorsque je vous l'ai proposé.
-
--*who_astur
 Je l'ai approuvé sur ce que vous m'avez dit : mais depuis que je l'ai vu de loin seulement…
 
--*who_melisende
-C'est par vos yeux que vous en jugez ?
-Donnez-vous le temps de le connaître autrement, n'autorisez point Inégilde à ne pas rendre justice au mérite et à la vertu d'un Prince que j'ai choisi pour son époux, et qui ne peut manquer de l'être, puisque c'est moi qui l'ai résolu.
+Ouais, vous le prenez là sur un ton bien impérieux. Hé bien là, voyons, voyons, je me suis trompé peut-être.
 
--*who_astur
-Ouais, vous le prenez là sur un ton bien impérieux.
-Hé bien là, voyons, voyons, je me suis trompé peut-être.
-
--*who_melisende
-Holà quelqu'un.
-
--*who_inegilde
-Ah, Seigneur, ne vous laissez point surprendre, vos premiers sentiments ne peuvent être que justes, ils sont sacrés pour moi, et je suis incapable d'en avoir d'autres.
-
--*who_astur
 Oui, tu as raison, nous le renverrons, laissez-moi faire.
 
-**** *book_ *id_III15 *act_III *date_1699
-
--*who_lambethie
-Je vais leur dire d'approcher, Madame, ils attendaient avec impatience le moment d'être présentés.
-
--*who_astur
 Ne vous éloignez pas, Prince, je suis bien aise que vous voyiez ce que c'est qu'un sage ; vous nous en direz votre pensée.
 
-**** *book_ *id_III16 *act_III *date_1699
-
--*who_lechŒur
-Que le sort d'un sage est charmant !
-Que la sagesse plaît à qui sait la connaître !
-Pour devenir sage aisément,
-Il faut chez nous apprendre à l'être.
-
--*who_unhabitantdelile
-Nous habitons d'inconnus climats,
-Où la sagesse la plu pure
-Instruit à suivre pas à pas
-Les douces lois de la nature.
-
--*who_unehabitantedelile
-Une aimable tranquillité,
-Règne toujours sur notre heureux rivage,
-L'intérêt et la vanité,
-N'en ont point encore écarté,
-L'innocence du premier âge.
-
--*who_lepetitchŒur
-Savoir jouir des vrais plaisirs,
-N'avoir ni besoin, ni richesse,
-C'est le seul but de nos désirs,
-Et l'objet de notre sagesse.
-Heureux, heureux un cœur,
-Qui sait goûter un tel bonheur.
-
--*who_unehabitantedelile
-Sans épines dans nos plaines,
-La rose naît en tout temps,
-Et l'Amour donne aux Amants,
-Ses plus doux plaisirs sans peines.
-
--*who_unhabitantdelile
-Toujours contents de nos Destins,
-Parmi les jeux et les fêtes,
-Nous voyons, loin des tempêtes,
-Meurir nos bleds et nos raisins.
-
--*who_lepetitchŒur
-Heureux, heureux un cœur,
-Qui sait goûter un tel bonheur.
-
--*who_unhabitantdelile
-Jeunes cœurs, que le plaisir touche,
-Et qui ne le trouvez que dans l'emportement
-D'un dangereux dérèglement,
-La sagesse vous effarouche.
-Vous en jugeriez autrement,
-Si sous ses propres traits vous la voyiez paraître.
-Pour devenir sage aisément,
-Il faut chez nous apprendre à l'être.
-
-**** *book_ *id_IV01 *act_IV *date_1699
-
--*who_astur
 Vraiment, voilà des Sages qui dansent bien, je les trouve d'assez belle humeur ; ils ne sont pas beaux, mais leurs maximes sont de fort bon sens.
 
--*who_astibel
-Les Sages de chez nous ne sont pas sans mérite ; et c'est ce qui me fait espérer, Seigneur, que vous voudrez bien approuver l'alliance où cette sage Fée m'a fait l'honneur de m'appeler.
-
--*who_astur
 Écoutez, si la Fée le veut absolument ; mais ma fille, qui a plus de résolutions que moi, s'y opposera peut-être davantage : convenez de vos faits, voyez.
 
--*who_melisende
-Elle mettrait obstacle à mes desseins !
-Et les soins que j'ai pris de son éducation, les bienfaits dont je l'ai comblée, recevraient d'elle cette récompense !
-
--*who_inegilde
-Je sais, Madame, ce que je dois à vos bontés : mais puisque celles de mon père m'autorisent à parler avec sincérité, je ne chercherai point de vains discours, et je vous dirai naturellement que je ne me résoudrai jamais à prendre l'engagement que vous avez projeté.
-
--*who_melisende
-Ah, quelle audace !
-
--*who_astur
 Ce discours est plus clair que celui de tantôt, Finette.
 
--*who_finette
-C'est qu'il est plus naturel et plus vrai, Seigneur.
-
--*who_melisende
-Inégilde !
-Est-ce là le fruit de mes instructions ?
-Vous sortez avec bien de la confiance, du respect et de l'obéissance que vous me devez.
-
--*who_inegilde
-C'est un des droits de la sagesse, que la liberté : trouvez bon que j'en jouisse, Madame.
-J'aime à suivre, comme ce Prince, les douces lois de la nature : elle ne m'inspire que de l'estime pour son mérite, et point d'amour pour sa personne ; et il est trop sage et trop raisonnable, pour exiger une chose qui ne peut dépendre de moi.
-
--*who_astur
 Moi, Madame, je ne prétends point faire de violence à votre cœur : on m'a mandé, je suis venu, je ne vous plais pas, je m'en retourne ; et une de nos meilleures maximes, à nous autres Sages, est de nous engager à aimer, qu'autant que nous sommes sûrs de ne pas déplaire.
 
--*who_astur
 Parbleu, ces Sages-là sont de fort bon esprit : allons, tâche de t'en accommoder, il paraît bon homme, et il vient de loin, cela mérite attention.
 
--*who_inegilde
-Hé, mon père !
+Tu n'en veux point ? Fais comme tu voudras, ce sont tes affaires.
 
--*who_astur
-Tu n'en veux point ?
-Fais comme tu voudras, ce sont tes affaires.
+Hé bien ma belle-sœur ? Voilà une fille égarée ; et quelque Fée qui en fait qui en fait plus que vous, se mêle apparemment de nos affaires ?
 
--*who_astibel
-Les ordres de la Fée m'ont fait venir ici ; les vôtres m'en écartent, Madame : je serai prompt à m'éloigner.
+Vous ferez fort bien. Par ma foi, toutes ces Fées-là sont des extravagantes qui ne servent qu'à faire enrager des gens raisonnables.
 
--*who_melisende
-Non, vous demeurerez, et je n'aurai pas en vain entrepris de vous unir avec ma nièce : donnez-moi votre main, Prince.
-Inégilde, je vous commande par tout le pouvoir que j'ai sur vous, par celui que mon art me donne…
-
--*who_inegilde
-Il est borné, Madame, une puissance au-dessus de la vôtre, me dérobe à cette contrainte.
-
-**** *book_ *id_IV02 *act_IV *date_1699
-
--*who_zirphilin
-Ah, Ciel !
-
--*who_cleonide
-Quelle aventure !
-
--*who_finette
-Emmenez-moi donc avec vous, Madame.
-
-**** *book_ *id_IV03 *act_IV *date_1699
-
--*who_astur
-Hé bien ma belle-sœur ?
-Voilà une fille égarée ; et quelque Fée qui en fait qui en fait plus que vous, se mêle apparemment de nos affaires ?
-
--*who_melisende
-Je demeure immobile et muette d'étonnement et de douleur.
-Mon pouvoir céderait à celui de quelque autre !
-Non, non, cela n'est pas possible.
-Allons, Prince, courrons chercher Inégilde, et mettons tout en usage pour la ravir à qui nous l'enlève.
-
--*who_astibel
-Je vous demande pardon, Madame, il ne serait pas du caractère d'un Sage de courir après une femme.
-Faites de votre côté vos diligences, je vais du mien rêver tranquillement à ce que j'aurai à faire, en cas qu'elle se retrouve.
-
--*who_melisende
-Allez, et soyez sûr que je ne tarderai pas à vous la rendre.
-
-**** *book_ *id_IV04 *act_IV *date_1699
-
--*who_astur
-Vous ferez fort bien.
-Par ma foi, toutes ces Fées-là sont des extravagantes qui ne servent qu'à faire enrager des gens raisonnables.
-
--*who_darinel
-L'amour n'est pas favorable à votre rival, il ne possédera point Inégilde.
-
--*who_zirphilin
-Il ne la possédera point : mais je la perds comme lui, que deviendrai-je ?
-
--*who_finette
-Ne vous chagrinez point, Seigneur, je ne vous quitterai point que nous ne l'ayons trouvée.
-Allons, venez.
-
-**** *book_ *id_IV05 *act_IV *date_1699
-
--*who_cleonide
-Arrêtez, Prince, et recevez un aveu de mes sentiments qui puisse autoriser ceux que vous ne pouvez vous empêcher de laisser paraître pour Inégilde.
-
--*who_astur
 Comment, pour Inégilde ?
 
--*who_zirphilin
-Pour Inégilde, Madame ?
-Qui vous a dit…
-
--*who_darinel
-Ils sont fort pénétrants dans cette famille-là.
-
--*who_astur
 Justifiez-vous, Prince, et hâtez-vous de la rassurer contre ses soupçons.
 
--*who_zirphilin
-Seigneur…
+Quoi, moi ? Mais écoutez donc, Prince, il y a des circonstances… où il serait à propos de réfléchir sur la manière… par exemple… dans la primeur de ma Souveraineté… ce n'est pas par rapport pour certain que jadis… c'est pour vous dire ; et voilà Darinel qui vous dira par merveilles… Oh parbleu, mettez-vous à ma place, vous trouverez que des Filles et des Fées sont des animaux fort embarrassants.
 
--*who_cleonide
-Ne vous troublez pas, Prince, et ne prenez pas pour un reproche ce que je vous dis de ma sœur.
-Comme je ne suis pas faite pour être méprisée, on ne m'a pas instruite à être jalouse.
+Il est piqué de ce que tu lui as dit, au moins, et ce n'est pas le moyen de retenir un amant, que de lui donner son congé aussi cavalièrement que tu viens de faire. J'ai pourtant fait ce que j'ai pu pour lui faire entendre raison : mais dans des affaires sérieuses, ordinairement je ne sais ce que je dis : tu devrais m'aider un peu quelquefois, toi, Darinel.
 
--*who_zirphilin
-Madame…
-
--*who_cleonide
-Prince, parlons avec sincérité ; la dissimulation n'est pas faite pour des personnes de notre rang et de notre humeur.
-Je ne vous aime point, vous aimez ma sœur, je lui cède sans murmure et sans répugnance tous les droits que j'avais sur vous.
-C'est apparemment quelque Fée de vos amies qui vient de l'enlever à votre rival : courez la trouver, et ne craignez point d'être rebutée ; elle ne doit pas se faire une affaire de s'enrichir de mes refus.
-
--*who_zirphilin
-Je n'osais me flatter, Madame, que la Princesse Inégilde pût recevoir favorablement les offres de ma foi : mais des vœux formés par votre ordre, ne peuvent manquer d'être écoutés ; et dans l'espoir que vous me donnez d'apprendre les lieux où elle est, vous voulez bien, Seigneur, me permettre de chercher à lui rendre au plutôt un hommage qu'on se fait un plaisir de lui renvoyer.
-
--*who_astur
-Quoi, moi ?
-Mais écoutez donc, Prince, il y a des circonstances… où il serait à propos de réfléchir sur la manière… par exemple… dans la primeur de ma Souveraineté… ce n'est pas par rapport pour certain que jadis… c'est pour vous dire ; et voilà Darinel qui vous dira par merveilles… Oh parbleu, mettez-vous à ma place, vous trouverez que des Filles et des Fées sont des animaux fort embarrassants.
-
--*who_zirphilin
-Je finirai votre embarras, Seigneur, et je vais tâcher de vous rendre une tranquillité parfaite, si elle peut dépendre de moi.
-
-**** *book_ *id_IV06 *act_IV *date_1699
-
--*who_astur
-Il est piqué de ce que tu lui as dit, au moins, et ce n'est pas le moyen de retenir un amant, que de lui donner son congé aussi cavalièrement que tu viens de faire.
-J'ai pourtant fait ce que j'ai pu pour lui faire entendre raison : mais dans des affaires sérieuses, ordinairement je ne sais ce que je dis : tu devrais m'aider un peu quelquefois, toi, Darinel.
-
--*who_darinel
-Vous venez de vous exprimer fort élégamment, Seigneur.
-
--*who_astur
 Tout de bon ?
 
--*who_darinel
-On ne peut rien de mieux, vous avez beaucoup d'esprit.
+Je ne m'en étais pas encore aperçu. Oh çà ; çà, Inégilde se trouvera, point de chagrin ; c'est quelque Fée qui en va prendre soin. Ah, que pour la réputation c'est un pays commode que le pays des Fées ! Un enlèvement de plus ou de moins ne fait jamais tort à une fille.
 
--*who_astur
-Je ne m'en étais pas encore aperçu.
-Oh çà ; çà, Inégilde se trouvera, point de chagrin ; c'est quelque Fée qui en va prendre soin.
-Ah, que pour la réputation c'est un pays commode que le pays des Fées !
-Un enlèvement de plus ou de moins ne fait jamais tort à une fille.
+Ne serait-ce point un coup de votre façon ? Vous êtes assez capable d'une pareille malice, et ce Prince que vous avez fait venir est un peu mêlé là-dedans, à ce qu'on m'a dit.
 
-**** *book_ *id_IV07 *act_IV *date_1699
-
--*who_blandonie
-Hé bien, Seigneur, Inégilde n'est donc plus au pouvoir de la Fée qui prenait des soins si judicieux pour former son cœur et son esprit ?
-
--*who_astur
-Ne serait-ce point un coup de votre façon ?
-Vous êtes assez capable d'une pareille malice, et ce Prince que vous avez fait venir est un peu mêlé là-dedans, à ce qu'on m'a dit.
-
--*who_blandonie
-Le Prince de l'Isle Fortunée ?
-
--*who_cleonide
-Oui, Madame, il aime Inégilde ; et malgré les préceptes de la Fée, ma sœur, je crois, n'est pas insensible.
-
--*who_blandonie
-Plût au Ciel qu'il fût vrai, je les servirais de tout mon pouvoir ?
-Et j'ai des vues pour vous, ma nièce, qui vous empêcheraient de regretter l'époux que vous déroberait Inégilde.
-
--*who_cleonide
-Moi, regretter un époux, Madame ?
-
--*who_astur
 Fi donc, nous n'avons point de ces faiblesses-là dans notre famille ; je n'ai presque pas regretté ma femme, moi.
 
--*who_blandonie
-Vous n'êtes pas sensible, Seigneur ; et vous ne paraissez pas aussi fort chagrin de la perte de votre fille.
+C'est que j'ai l'esprit fort ; le chagrin fait mal, Un Prince de bon sens n'en doit jamais prendre. Ma fille est perdue, elle n'est pas seule, on nous la ramènera quelqu'un de ces jours ; tout ce que je puis, c'est de la faire chercher moi-même dans toute l'étendue de mes États. Viens, Darinel, comme ils ne sont pas grands, la visite en sera bientôt faite.
 
--*who_astur
-C'est que j'ai l'esprit fort ; le chagrin fait mal, Un Prince de bon sens n'en doit jamais prendre.
-Ma fille est perdue, elle n'est pas seule, on nous la ramènera quelqu'un de ces jours ; tout ce que je puis, c'est de la faire chercher moi-même dans toute l'étendue de mes États.
-Viens, Darinel, comme ils ne sont pas grands, la visite en sera bientôt faite.
-
-**** *book_ *id_IV08 *act_IV *date_1699
-
--*who_blandonie
-Cléonide ?
-
--*who_cleonide
-Madame.
-
--*who_blandonie
-Nous triomphons, ma nièce ; et cette superbe fée qui vantait tant ses instructions et ses manières, qui condamnait si hautement les nôtres…
-
--*who_cleonide
-Ne cherchons point à nous flatter, Madame, tout l'avantage est de son côté, ma sœur m'enlève mon amant.
-Quand il s'agit d'un attachement sérieux, les plaisirs ont moins de charme que la sagesse.
-
--*who_blandonie
-Vous prenez la chose fort à cœur.
-
--*who_cleonide
-Je vous l'avoue, Madame : toujours nourrie dans les plaisirs, c'est ici le premier chagrin que je souffre ; et l'essai que j'en fais aujourd'hui, contre mon attente, me paraît dur à supporter.
-
--*who_blandonie
-Si vous avez la faiblesse d'en prendre, évitez du moins la confusion de le laisser paraître, et je prendrai soin de l'adoucir ; attendez avec tranquillité je dénouement de l'aventure, je vais travailler à le rendre heureux, et vous pouvez compter par avance qu'il vous fournira de nouveaux plaisirs.
-
-**** *book_ *id_IV09 *act_IV *date_1699
-
--*who_cleonide
-Il n'en est qu'un où je suis sensible, et c'est celui d'avoir la force de renoncer à tous les autres, pour goûter les douceurs d'une vie tranquille.
-Mais voici le Prince de l'Isle Inconnue.
-
-**** *book_ *id_IV10 *act_IV *date_1699
-
--*who_astibel
-Ah que j'ai fait un impertinent voyage !
-Et que la sagesse de ce pays-ci est différente celle du nôtre !
-
--*who_cleonide
-Ma sœur m'enlève mon Amant, serait-ce une perfidie de me saisir du sien ?
-
--*who_astibem
-Je ne vois rien ici qui me convienne, tout m'y paraît faux et affecté.
-
--*who_cleonide
-Dans la résolution où je suis, il me conviendrait mieux qu'aucun autre.
-
--*who_astibel
-Le trouble règne dans tous les cœurs, une fausse tranquillité masque les visages ; et peu soigneux de corriger les vices, on se contente de les savoir cacher.
-
--*who_cleonide
-Quelle pénétration !
-Et qu'il connaît bien le faible de la sagesse !
-
--*who_astibel
-Quel séjour étranger pour moi !
-Et que je serais surpris et charmé d'y trouver seulement un cœur sincère, digne de l'attachement d'un Sage !
-
--*who_cleonide
-Vous êtes mal prévenu pour nous, Seigneur, nous avons intérêt de vous détromper.
-
--*who_astibel
-Je vous demande pardon, Madame, je croyais être seul, et je n'aurais pas parlé comme j'ai fait, si j'avais présumé qu'on eût pu m'entendre.
-
--*who_cleonide
-Vos discours et vos réflexions n'ont rien du tout qui m'intéresse ; je connais, comme vous, le ridicule de cette morale, si sévère en apparence, et si relâchée quelquefois en secret ; et plus j'ai d'horreur pour ceux qui la suivent, plus j'ai de goût pour la vraie sagesse.
-
--*who_astibel
-Vous, Madame ?
-
--*who_cleonide
-Oui, Seigneur : élevée par la Fée des Plaisirs, ennuyée d'en avoir fait un trop long usage, outrée d'un moment de chagrin que je viens d'avoir, je forme le projet d'une vie heureuse, où l'on tienne un milieu si juste entre les plaisirs et les peines, qu'en ne s'attachant jamais trop aux uns, on soit toujours exempt des autres.
-
--*who_astibel
-Est-ce une simple mortelle qui me parle ?
-Ah Ciel que d'attraits !
-Que de charmes !
-Quelle puissance invisible me force de les adorer !
-Quelle agitation !
-Qu'est-ce que je sens ?
-Le cœur d'un Sage est-il si faible ?
-Et que va devenir ma liberté ?
-
-**** *book_ *id_IV11 *act_IV *date_1699
-
--*who_melisende
-Prince, on sait où est Inégilde, le destin que j'ai consulté vient de me promettre qu'elle nous sera bientôt rendue.
-
--*who_astibel
-Je m'en réjouis, Madame, et n'y prends point de part pour moi.
-Le Ciel ne nous a pas formés l'un pour l'autre, et l'amour soumet pour toujours mon cœur aux lois de cette charmante Princesse.
-
--*who_melisende
-Ah, quelle indignité !
-Quelle faiblesse !
-Une Princesse élevée par la Fée des Plaisirs ?
-
--*who_astibel
-Notre morale est moins farouche que la vôtre, et les plaisirs et la vertu ne sont pas si fort incompatibles.
-
--*who_melisende
-Je souffrirais un tel affront avec tranquillité !
-Non, cette union ne se fera point, et je cesserai plutôt moi-même d'être la Fée de la Sagesse.
-
-**** *book_ *id_IV12 *act_IV *date_1699
-
--*who_cleonide
-Ah, Ciel !
-Je tremble.
-Quel événement nous annonce ce bruit terrible et mélodieux tout ensemble !
-
--*who_astur
 Au secours, à moi, miséricorde.
 
--*who_cleonide
-Seigneur, qui peut vous effrayer ainsi ?
-
--*who_astur
 Tout est perdu, sauvons-nous, ma fille : voilà la Fée votre mère qui revient.
 
--*who_melisende
-Que dites-vous, Seigneur ?
+Ah ! Je suis bien né pour être persécuté des Fées. N'est-ce pas assez de deux qui restent ici pour me faire enrager ? Faut-il que la troisième s'avise de revenir.
 
--*who_astur
-Ah !
-Je suis bien né pour être persécuté des Fées.
-N'est-ce pas assez de deux qui restent ici pour me faire enrager ?
-Faut-il que la troisième s'avise de revenir.
-
-**** *book_ *id_IV13 *act_IV *date_1699
-
--*who_blandonie
-Quelle vaine erreur occupe vos esprits, Seigneur, et vous fait appréhender de revoir une Fée que vous avez si tendrement chérie ?
-
--*who_astur
 Sa mémoire m'est toujours fort chère : mais j'aime mieux son souvenir que sa présence.
 
--*who_blandonie
-Ne craignez rien, le retour de la Fée de la Raison ne peut présager que des événements heureux ?
-La voici.
-
-**** *book_ *id_IV14 *act_IV *date_1699
-
--*who_melisende
-C'est elle-même, et qui nous ramène Inégilde : ah !
-Quelle divinité favorable nous permet encore de vous posséder ?
-
--*who_logistille
-Astur, rassurez-vous, et rendez grâces avec mes sœurs au destin qui me permet de venir ici pour terminer leurs différents, et pour réunir par ma présence et par mes conseils, les cœurs que mon éloignement avait séparés.
-
--*who_astur
 Le destin est fort obligeant, et vous avez pris bien de la peins : mais vous auriez pu nous écrire, et…
 
--*who_logistille
-Quoi !
-Ma vue vous fait de la peine ?
-
--*who_astur
 Non, non, non, je suis fort aise de vous revoir ici ; y êtes-vous pour longtemps ?
 
--*who_logistille
-Il ne m'est permis d'y demeurer que pour donner moi-même à mes filles les époux que le Ciel a choisis pour elles.
-
--*who_astur
 Bon, fort bien, dépêchons-nous donc, le temps est précieux, il n'en faut point perdre.
 
--*who_inegilde
-Vous m'avez fait espérer, Madame, que je ne serais plus malheureuse ; et si le Ciel se déclarait pour un autre que pour le Prince de l'Isle Fortunée…
+Hé bien, cela est fort bien, vous voilà tous d'accord. Mais qu'est-ce que je dis à tout cela, moi ? On ne demande point mon avis, je suis le maître pourtant.
 
--*who_logistille
-Non, ma fille, c'est pour vous conserver à lui que je vous ai tantôt fait disparaître.
-Recevez Inégilde de ma main, Prince, et soyez sûr de toute la félicité possible.
-
--*who_zirphilin
-Ah !
-Madame…
-
--*who_melisende
-Quoi !
-Vous autorisez une union que je déteste ?
-Un Prince nourri dans les délices ?
-
--*who_logistille
-Arrêtez, ma sœur, tant d'emportement ne sied pas bien à la Fée de la Sagesse.
-L'austérité de votre humeur et de vos préceptes a lassé le cœur d'Inégilde, il faut que le mélange des plaisirs le remette dans l'état auquel il doit être pour goûter un parfait bonheur.
-Pour Cléonide…
-
--*who_blandonie
-Je vous entends, ma sœur : trop de plaisirs l'ont jusqu'à présent occupée, vous voulez qu'un Prince sage lui donne ce juste tempérament qui fait le bonheur et la tranquillité de la vie : je ne m'oppose point à vos désirs, et je ne serai jamais assez aveugle pour résister aux conseils de la Fée de la Raison.
-
--*who_astibel
-Oserais-je me flatter, Madame…
-
--*who_blandonie
-Oui, Prince, je sais les sentiments que vous avez pour Cléonide ; c'est moi qui vous les ai si soudainement inspirés : puissiez-vous être à jamais heureux.
-
--*who_darinel
-Et de Finette et de moi, qu'en faites-vous, Madame ?
-Elle est un peu folle, je suis fort sage ; ne croyez-vous pas que l'assortiment de nos deux humeurs pourrait faire une union parfaite ?
-
--*who_logistille
-Nous nous intéresserons toutes trois à la rendre heureuse.
-
--*who_finette
-Sur ce pied-là, j'y consens de bon cœur.
-Que nous allons faire un bon petit ménage !
-
--*who_astur
-Hé bien, cela est fort bien, vous voilà tous d'accord.
-Mais qu'est-ce que je dis à tout cela, moi ?
-On ne demande point mon avis, je suis le maître pourtant.
-
--*who_logistille
-Vous êtes trop juste, trop sage et trop raisonnable pour ne pas souscrire à ce que nous faisons.
-
--*who_astur
 Oh oui, puisque j'ai tant de belles qualités, je souscris à tout, voilà qui est fini : mais à condition que je ne verrai plus de tracasserie, et que les Fées seront mieux d'accord.
 
--*who_logistille
-Ne vous inquiétez point, j'en fais mon affaire, et je prendrai soin désormais de les entretenir l'une et l'autre dans une parfaite intelligence.
+À la bonne heure ? Allons, que nos sujets et nos amis viennent en foule honorer les noces, et hâtons-en la cérémonie, afin que feue ma femme s'en retourne : car elle a des affaires en l'autre monde.
 
--*who_astur
-À la bonne heure ?
-Allons, que nos sujets et nos amis viennent en foule honorer les noces, et hâtons-en la cérémonie, afin que feue ma femme s'en retourne : car elle a des affaires en l'autre monde.
 
-**** *book_ *id_IV15 *act_IV *date_1699
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisende
 
--*who_darinel
+Non, ma sœur, vous n'avez point de bonnes raisons pour justifier l'irrégularité de votre procédé ; et parmi les Fées comme nous, les règles de la politesse et de la bienséance devraient un peu mieux s'observer.
+
+Je suis la Fée de la Sagesse, et il y a de la subordination entre nous.
+
+C'est un glorieux titre que le vôtre, et qui doit vous donner de grandes prérogatives !
+
+Moi, la Fée de la Pruderie ?
+
+Vous me poussez furieusement ; et s'il était de la dignité d'une Fée de laisser éclater tout son ressentiment…
+
+Je veux, Darinel, que tu sois le Juge de cette affaire.
+
+Non, je veux absolument te faire voir que j'ai raison.
+
+Je te donne ma parole de Fée, de n'avoir aucun ressentiment contre toi.
+
+Assurément.
+
+Lorsque par l'indiscrète curiosité d'Astur, que l'hymen de la Fée de la Raison, notre sœur fit Souverain de ces contrées, de simple Pâtre qu'il était auparavant ; lors, dis-je, que le destin eut forcé cette malheureuse Fée de disparaître aux yeux des hommes, et d'abandonner sa famille…
+
+Nous nous chargeâmes, comme tu sais, ma sœur et moi, d'élever les deux filles qui avaient été le seul fruit de son mariage.
+
+Ce sont elles qui sont aujourd'hui le sujet de notre dispute.
+
+La Princesse Inégilde est sous ma conduite.
+
+Vous vous étiez engagée, ma sœur, à me laisser maîtresse absolue de former les mœurs d'Inégilde.
+
+Et cependant vous avez trouver le secret d'introduire à son service une personne dont la jeunesse, les conseils, l'esprit et la vivacité, ne s'accordent point du tout avec les vues que j'ai pour elle.
+
+Si le destin permettait à l'une de nous de détruire ce que fait l'autre, Finette ne demeurerait pas un moment avec Inégilde.
+
+Non, je n'en aurai point le démenti, et Zerbine demeurera où elle est, absolument.
+
+Puisque vous avez si peu de complaisance pour moi, ma sœur, attendez-vous pour votre élève à toutes les traverses que je pourrai vous faire.
+
+Je te fais don d'être fort sage.
+
+Cela sera comme tu le souhaites.
+
+Arrêtez, Finette, arrêtez.
+
+Je vous avais fait dire, à ce qu'il me semble, de ne vous point trouver seule avec Inégilde ?
+
+Vous ne vous éloigniez, que pour éviter ma présence.
+
+Vous faites bien, et vous ferez mieux encore, de ne vous pas exposer davantage à gâter l'esprit d'Inégilde par vos conversations ridicules.
+
+Ôtez-vous de mes yeux, insolente, et ne vous présentez jamais devant moi.
+
+Vous avez-là ma nièce, auprès de vous, une aussi dangereuse petite personne…
+
+Qu'elle entre dans mon cabinet, je vais la joindre. Et vous, ma nièce, venez vous disposer à recevoir un Prince que j'ai choisi pour votre époux, et que j'aurai soin de vous présenter tantôt moi-même.
+
+Que veut dire ceci, ma nièce ? Et vous, Finette, je vous vois encore avec elle dans le moment que je viens de vous défendre…
+
+Prince, il est assez surprenant que vous visitiez Inégilde, sans m'en avoir fait avertir : si vous croyez que l'union prochaine de vous et de sa sœur vous autorise à lui rendre quelques devoirs, il faudrait vous en acquitter avec moins de transport, et vos civilités me paraissent un peu trop outrées.
+
+Quelle espèce de mari ! C'est le Souverain de ce pays où tout le monde est sage, le Prince de l'Isle Inconnue dont je vous ai parlé.
+
+Vraiment, Seigneur, il vous sied bien de vous rendre si difficile, vous qui n'étiez qu'un simple berger lorsque ma sœur eut la faiblesse…
+
+La Fée de la Raison s'égarait quelquefois.
+
+Ne vous ai-je pas dit que c'était un sage ?
+
+C'est un choix que vous avez approuvé vous-même, lorsque je vous l'ai proposé.
+
+C'est par vos yeux que vous en jugez ? Donnez-vous le temps de le connaître autrement, n'autorisez point Inégilde à ne pas rendre justice au mérite et à la vertu d'un Prince que j'ai choisi pour son époux, et qui ne peut manquer de l'être, puisque c'est moi qui l'ai résolu.
+
+Holà quelqu'un.
+
+Elle mettrait obstacle à mes desseins ! Et les soins que j'ai pris de son éducation, les bienfaits dont je l'ai comblée, recevraient d'elle cette récompense !
+
+Ah, quelle audace !
+
+Inégilde ! Est-ce là le fruit de mes instructions ? Vous sortez avec bien de la confiance, du respect et de l'obéissance que vous me devez.
+
+Non, vous demeurerez, et je n'aurai pas en vain entrepris de vous unir avec ma nièce : donnez-moi votre main, Prince. Inégilde, je vous commande par tout le pouvoir que j'ai sur vous, par celui que mon art me donne…
+
+Je demeure immobile et muette d'étonnement et de douleur. Mon pouvoir céderait à celui de quelque autre ! Non, non, cela n'est pas possible. Allons, Prince, courrons chercher Inégilde, et mettons tout en usage pour la ravir à qui nous l'enlève.
+
+Allez, et soyez sûr que je ne tarderai pas à vous la rendre.
+
+Prince, on sait où est Inégilde, le destin que j'ai consulté vient de me promettre qu'elle nous sera bientôt rendue.
+
+Ah, quelle indignité ! Quelle faiblesse ! Une Princesse élevée par la Fée des Plaisirs ?
+
+Je souffrirais un tel affront avec tranquillité ! Non, cette union ne se fera point, et je cesserai plutôt moi-même d'être la Fée de la Sagesse.
+
+Que dites-vous, Seigneur ?
+
+C'est elle-même, et qui nous ramène Inégilde : ah ! Quelle divinité favorable nous permet encore de vous posséder ?
+
+Quoi ! Vous autorisez une union que je déteste ? Un Prince nourri dans les délices ?
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blandonie
+
+Que vous êtes fatigante, ma sœur, avec vos formalités perpétuelles ! Vous prêchez sans cesse une régularité que vous n'avez point ; et si vous vouliez m'obliger à quelques égards pour vous, il fallait commencer à n'en pas manquer pour moi.
+
+J'en conviens, ma sœur : mais la supériorité m'appartient. Je suis la Fée des Plaisirs, et…
+
+Il n'est pas faux, du moins : mais quoique vous affectiez celui de Fée de la Sagesse, la plupart des bons connaisseurs ne vous admettent que pour le Fée de la Pruderie, et cela ne vous met pas fort au-dessus de moi.
+
+Si c'est le mot qui vous offense, je consens à le supprimer : mais vous poussez trop loin la sévérité de votre morale, pour n'en pas craindre un ridicule ; et les sages de votre caractère ne sont pas ordinairement les moins importants personnages qu'on voit dans le monde.
+
+Si vous sortiez du décorum de votre rang, je ne répondrais pas de garder le mien.
+
+Darinel s'en défend en vain, et je prétends, comme ma sœur, qu'il décide notre différend.
+
+Tu ne te brouilleras pas avec nous.
+
+Je te promets la même chose.
+
+Oui ? Et comment donc cela, s'il vous plaît ?
+
+Comme la Princesse Cléonide est sous la mienne.
+
+Ne m'aviez-vous pas promis, vous, de ne vous point mêler du tout de l'éducation de Cléonide ?
+
+J'aurais tort, ma sœur, assurément, et je passerais condamnation pour Finette, si vous n'aviez pas la première trouvé l'art de mettre auprès de Cléonide la plus grande ennemie que je puisse avoir.
+
+Zerbine n'eût pas été longtemps auprès de Cléonide, si la chose eût dépendu de moi.
+
+Finette ne sortira pas, sur ma parole.
+
+Et moi je te rendrai le plus voluptueux de tous les hommes.
+
+Voilà qui est fait, je te l'accorde.
+
+Approchez, Prince, et venez faire les délices d'une Cour où le comble du bonheur vous est préparé.
+
+Je m'intéresse à la rendre heureuse autant qu'il m'est permis de le faire : et voilà Finette…
+
+Nos talents sont bornés, Seigneur, et notre art ne peut nous soustraire à la tyrannie des passions qui nous dominent : mais vous ne songez pas que le Prince a fait un long voyage, et qu'il a besoin de repos ; conduisons-le à l'appartement que je lui ai fait préparer, et nous tâcheront d'occuper tous ses moments des plaisirs les plus agréables que pourra fournir l'union de la Cour avec la vôtre.
+
+Hé bien, Seigneur, Inégilde n'est donc plus au pouvoir de la Fée qui prenait des soins si judicieux pour former son cœur et son esprit ?
+
+Le Prince de l'Isle Fortunée ?
+
+Plût au Ciel qu'il fût vrai, je les servirais de tout mon pouvoir ? Et j'ai des vues pour vous, ma nièce, qui vous empêcheraient de regretter l'époux que vous déroberait Inégilde.
+
+Vous n'êtes pas sensible, Seigneur ; et vous ne paraissez pas aussi fort chagrin de la perte de votre fille.
+
+Cléonide ?
+
+Nous triomphons, ma nièce ; et cette superbe fée qui vantait tant ses instructions et ses manières, qui condamnait si hautement les nôtres…
+
+Vous prenez la chose fort à cœur.
+
+Si vous avez la faiblesse d'en prendre, évitez du moins la confusion de le laisser paraître, et je prendrai soin de l'adoucir ; attendez avec tranquillité je dénouement de l'aventure, je vais travailler à le rendre heureux, et vous pouvez compter par avance qu'il vous fournira de nouveaux plaisirs.
+
+Quelle vaine erreur occupe vos esprits, Seigneur, et vous fait appréhender de revoir une Fée que vous avez si tendrement chérie ?
+
+Ne craignez rien, le retour de la Fée de la Raison ne peut présager que des événements heureux ? La voici.
+
+Je vous entends, ma sœur : trop de plaisirs l'ont jusqu'à présent occupée, vous voulez qu'un Prince sage lui donne ce juste tempérament qui fait le bonheur et la tranquillité de la vie : je ne m'oppose point à vos désirs, et je ne serai jamais assez aveugle pour résister aux conseils de la Fée de la Raison.
+
+Oui, Prince, je sais les sentiments que vous avez pour Cléonide ; c'est moi qui vous les ai si soudainement inspirés : puissiez-vous être à jamais heureux.
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zirphilin
+
+Seigneur, l'honneur de votre alliance est un avantage où je n'oserais aspirer sans la protection de cette illustre Fée, et je ne commencerai de m'en croire digne que lorsque vous m'aurez permis d'y prétendre.
+
+Seigneur…
+
+Madame, je n'abuserai point de l'aveu d'un père, c'est à vous seule que je veux devoir le bonheur de vous posséder. J'y renoncerais plutôt, que de ne vous pas obtenir de vous-même ; et j'espère que le temps, mes respects et mes soumissions vous engageront un jour à me rendre heureux.
+
+Hélas !
+
+Madame… vos intérêts et vos sentiments règleront mon impatience, et le bonheur de cette journée deviendra plus sensible pour moi, par l'espoir de le partager avec vous.
+
+Engagement funeste ! Voyage malheureux !
+
+Ô Amour ! Où m'as-tu conduit ?
+
+Pourquoi révoltes-tu mon cœur contre le choix qu'a fait la Fée ? Et vous, aveugle Fée, que ne consultiez-vous l'Amour, sur le choix que vous aviez à faire ?
+
+Ah : C'est toi, Darinel.
+
+Hélas, Darinel !
+
+Moi ?
+
+Non, je t'assure.
+
+Tu es donc devenu bien habile ?
+
+C'est le hasard qui m'y conduit.
+
+Tu as deviné cela ?
+
+Hé, ne pénètres-tu que cela, Darinel ?
+
+Je ne veux point avoir de secret pour toi, mon cher Darinel : que tu devines juste !
+
+Qu'elle est charmante ! Qu'elle est adorable ! Si je pouvais seulement avoir quelques moments d'entretien avec elle…
+
+Aimable Finette, si par ton moyen je pouvais m'entretenir un seul moment avec Inégilde…
+
+Charmante Finette, rien ne saurait jamais payer le service que tu me peux rendre, je le sais : mais porte ce bracelet, je te prie, pour gage seulement de ma reconnaissance.
+
+Ce brillant sera mieux encore à ta main qu'à la mienne ; accepte-le, je t'en conjure.
+
+Que je voie Inégilde, que je lui parle…
+
+Ah, que je te suis redevable !
+
+Le respect que je vous dois, Madame, cède à l'amour qui me domine, et ce Dieu porte avec lui l'excuse de tout ce qu'il fait entreprendre. Je vous adore, et je crains moins de vous le dire, que de vous le laisser ignorer. Ma mort est certaine, si je perds l'espoir de vous posséder ; et qu'ai-je à faire de la vie, si vous ne me permettez pas vous-même de vous en consacrer tous les moments ?
+
+Mon sort dépend de vous, Madame. Autorisez d'un tendre aveu l'ardent amour que vous avez fait naître, et les obstacles les plus puissants s'opposeront vainement à mon bonheur. Je romprai toutes les mesures qu'on a prises ; je vous obtiendrai du Prince votre père, j'engagerai la Fée qui me protège à nous devenir favorable, je réduirai la vôtre à la nécessité de ne nous être pas contraire, et l'assurance de vous plaire me fera trouver tout possible.
+
+Ah, Madame, souffrez…
+
+Ah, Ciel !
+
+Il ne la possédera point : mais je la perds comme lui, que deviendrai-je ?
+
+Pour Inégilde, Madame ? Qui vous a dit…
+
+Seigneur…
+
+Madame…
+
+Je n'osais me flatter, Madame, que la Princesse Inégilde pût recevoir favorablement les offres de ma foi : mais des vœux formés par votre ordre, ne peuvent manquer d'être écoutés ; et dans l'espoir que vous me donnez d'apprendre les lieux où elle est, vous voulez bien, Seigneur, me permettre de chercher à lui rendre au plutôt un hommage qu'on se fait un plaisir de lui renvoyer.
+
+Je finirai votre embarras, Seigneur, et je vais tâcher de vous rendre une tranquillité parfaite, si elle peut dépendre de moi.
+
+Ah ! Madame…
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
+
+Les Sages de chez nous ne sont pas sans mérite ; et c'est ce qui me fait espérer, Seigneur, que vous voudrez bien approuver l'alliance où cette sage Fée m'a fait l'honneur de m'appeler.
+
+Les ordres de la Fée m'ont fait venir ici ; les vôtres m'en écartent, Madame : je serai prompt à m'éloigner.
+
+Je vous demande pardon, Madame, il ne serait pas du caractère d'un Sage de courir après une femme. Faites de votre côté vos diligences, je vais du mien rêver tranquillement à ce que j'aurai à faire, en cas qu'elle se retrouve.
+
+Ah que j'ai fait un impertinent voyage ! Et que la sagesse de ce pays-ci est différente celle du nôtre !
+
+Le trouble règne dans tous les cœurs, une fausse tranquillité masque les visages ; et peu soigneux de corriger les vices, on se contente de les savoir cacher.
+
+Quel séjour étranger pour moi ! Et que je serais surpris et charmé d'y trouver seulement un cœur sincère, digne de l'attachement d'un Sage !
+
+Je vous demande pardon, Madame, je croyais être seul, et je n'aurais pas parlé comme j'ai fait, si j'avais présumé qu'on eût pu m'entendre.
+
+Vous, Madame ?
+
+Est-ce une simple mortelle qui me parle ? Ah Ciel que d'attraits ! Que de charmes ! Quelle puissance invisible me force de les adorer ! Quelle agitation ! Qu'est-ce que je sens ? Le cœur d'un Sage est-il si faible ? Et que va devenir ma liberté ?
+
+Je m'en réjouis, Madame, et n'y prends point de part pour moi. Le Ciel ne nous a pas formés l'un pour l'autre, et l'amour soumet pour toujours mon cœur aux lois de cette charmante Princesse.
+
+Notre morale est moins farouche que la vôtre, et les plaisirs et la vertu ne sont pas si fort incompatibles.
+
+Oserais-je me flatter, Madame…
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_inegilde
+
+Avec qui vous entreteniez-vous là, Finette ?
+
+Hé, quel service peut-on me rendre, Finette, dans le triste état où je me vois ?
+
+Je l'espère comme toi, Finette, et si tu savais…
+
+Les moments que je donne au sommeil ne sont pas les plus tristes de ma vie, chère Finette.
+
+Paix, Finette, il ne faut pas parler de cela ; si la Fée le savait, on m'empêcherait de dormir, peut-être.
+
+Je vais t'ouvrir mon cœur, Finette, n'abuse pas de ma confiance, et regarde comme une faiblesse pardonnable l'attention que je donne à des chimères, pour qui je n'en aurais peut-être pas, si j'avais plus d'usage du monde et de liberté.
+
+Mais que veux-tu que je te dise ? Un sommeil léger et tranquille assoupissait ce matin tous mes sens : mais il n'en avait suspendu l'usage que pour les flatter de l'illusion la plus agréable que tu te puisses imaginer. Mes oreilles ont été frappées de l'harmonie la plus douce ; le Palais de mon père m'a paru brillant d'une lumière aussi vive que celle du Soleil ; mille nations différentes disputaient entre elles l'avantage d'y arriver les premières : un jeune Prince, suivi d'une superbe Cour que formait la jeunesse la plus magnifique et la plus enjouée, s'avançait avec empressement du côté de la Princesse ma sœur : elle l'attendait pour le recevoir, mais d'un air sérieux et rebutant, tel que notre fâcheuse Fée voudrait m'obliger à l'avoir. Le Prince, en la voyant, m'a paru demeurer immobile, moins d'étonnement que de chagrins : il hésitait à l'aborder, ou à me venir rendre ses hommages, lorsqu'un enfant, d'une beauté surprenante et d'un éclat merveilleux, est venu le déterminer ; de petites ailes mollement agitées le soutenaient en l'air ; il tenait un arc d'une main, et de l'autre une flèche d'or ; son épaule gauche était ornée d'un carquois : Suivez moi, Prince, lui a-t-il dit, en volant auprès de moi, voilà la Princesse que je vous destine ; ne résistez point à la volonté d'un Dieu qui fait son plaisir de vous rendre heureux. Il finissait à peine, j'ai vu ce Prince à mes genoux ; la cruelle Fée s'efforçait de m'éloigner, et je demeurais malgré elle, parce que l'enfant me retenait avec une force surnaturelle, et que je l'aidais moi-même à me retenir.
+
+Enfin, Finette, il m'a semblé que ce jeune Prince me demandait en mariage à mon père.
+
+Oui, Finette, et la Fée notre mère nous avait été rendue pour en ordonner la cérémonie.
+
+Hélas oui, ma chère Finette : mais la Fée était contre nous dans une colère épouvantable ; sa fureur, ses menaces, le bruit qu'elle faisait m'ont éveillée, et mon bonheur s'est évanoui.
+
+L'heure de mon lever est arrivée, mes femmes sont entrées dans ma chambre ; et quoique j'aie feint d'être malade ; je n'ai jamais pu obtenir de leur complaisance de me rendormir.
+
+Le plaisir de quereller vous rend aujourd'hui négligente, et vous êtes bien facile à tromper.
+
+Les ennuyeuses occupations !
+
+Ah, ma sœur ! Quel heureux destin vous conduit ici ? Que je sens de joie à vous embrasser ! Et que cette liberté de nous voir, que l'on commence à nous souffrir, me paraît d'un heureux présage !
+
+On pouvait vous laisser m'en rendre, sans craindre que ma destinée vous fît envie, et j'aurais pu quelquefois partager les douceurs de la vôtre, sans diminuer votre bonheur.
+
+Que dites-vous, ma sœur ? Pouvez-vous souhaiter quelque chose au milieu des plaisirs où vous vivez ?
+
+Vos sentiments et vos discours m'étonnent plus que votre visite, et je vais croire que c'est un esprit de retraite qui vous conduit aujourd'hui chez moi.
+
+Seigneur…
+
+Les Fées, Seigneur !
+
+Pour moi, Seigneur, je mets toute ma gloire à vous obéir : je me sens incapable de manquer au respect que je vous dois ; et si vos ordres m'imposent la nécessité d'accepter un époux, pour qui mon cœur ait de la répugnance, la mort ne tardera pas à me délivrer de la violence que mon devoir aura su me faire.
+
+Je me retire, Seigneur, et vous voudrez bien me le permettre : cette cérémonie n'est pas pour moi.
+
+Ah ! Finette, c'est lui que j'ai vu cette nuit en songe.
+
+Cette journée ne nous rendra pas tous également heureux, Seigneur, et vous seriez peu content de votre sort, s'il était conforme à ma destinée.
+
+Non, demeurons, Finette.
+
+Que tu es extravagante, Finette, avec tes idées !
+
+Quel est ton dessein ? Que veux-tu faire ?
+
+Ma sœur lui est destinée, Darinel.
+
+Et qui peut t'en faire douter ?
+
+Et quelles ?
+
+À quoi le juges-tu ?
+
+Hé, de quel côté, encore ? Dis.
+
+Du tien, Darinel ?
+
+C'est aussi ce que j'ai remarqué, et vous avez fort bien fait, Madame, il ne faut pas qu'une personne comme vous prenne garde à ces choses-là.
+
+Mais, à quoi bon, Finette…
+
+Mais, tout cela, Darinel, d'une manière qui ne lui donne aucune pensée…
+
+La Fée serait bien en colère, Finette. La voici, je pense ?
+
+Ne vous mettez point en colère, Madame.
+
+Ah ! Finette, Finette, tous nos projets sont renversés, et mes malheurs ne finiront qu'avec ma vie.
+
+Ma chère Finette, je suis perdue ; cet époux dont on me menace vient d'arriver, la Fée l'est allée recevoir : que deviendrai-je ?
+
+Ah, Finette, à quoi songes-tu ? Dans la pressante extrémité où je me trouve, est-il temps de t'amuser à me faire un conte ?
+
+Qu'elles étaient à plaindre, Finette !
+
+On n'aimait guères dans ce temps-là, Finette, de se rebuter si facilement.
+
+Ah que cette histoire est jolie, Finette, et que je suis ravie de la savoir !
+
+Ah ma chère Finette, je tremble !
+
+Seigneur, je ne sais de quelle manière je dois recevoir la déclaration que vous me faites de vos sentiments ; peut-être faudrait-il m'en effaroucher, vous témoigner de la colère : mais je n'en ai point, je vous l'avoue ; et la seule chose qui me fait peine, est de ne pouvoir bien répondre à un langage qui m'est si nouveau.
+
+Suivez, Prince, les conseils que l'amour vous donne : obtenez l'aveu de mon père, faites-y souscrire les Fées, et n'appréhendez point d'avoir à surmonter d'autres obstacles.
+
+Que faites-vous ? Voilà la Fée.
+
+Ah, Seigneur, ne vous laissez point surprendre, vos premiers sentiments ne peuvent être que justes, ils sont sacrés pour moi, et je suis incapable d'en avoir d'autres.
+
+Je sais, Madame, ce que je dois à vos bontés : mais puisque celles de mon père m'autorisent à parler avec sincérité, je ne chercherai point de vains discours, et je vous dirai naturellement que je ne me résoudrai jamais à prendre l'engagement que vous avez projeté.
+
+C'est un des droits de la sagesse, que la liberté : trouvez bon que j'en jouisse, Madame. J'aime à suivre, comme ce Prince, les douces lois de la nature : elle ne m'inspire que de l'estime pour son mérite, et point d'amour pour sa personne ; et il est trop sage et trop raisonnable, pour exiger une chose qui ne peut dépendre de moi.
+
+Hé, mon père !
+
+Il est borné, Madame, une puissance au-dessus de la vôtre, me dérobe à cette contrainte.
+
+Vous m'avez fait espérer, Madame, que je ne serais plus malheureuse ; et si le Ciel se déclarait pour un autre que pour le Prince de l'Isle Fortunée…
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonide
+
+J'ai bien jugé, ma sœur, que ma présence vous surprendrait agréablement ; et le peu de fréquentation que les Fées nous ont permis depuis que nous vivons sous leur puissance, n'a pas dû vous préparer à la visite que je vous fais.
+
+Si ce partage eût dépendu de vous et de moi, nous aurions changé d'occupation quelquefois, et je vous ai souvent souhaité à ma place, pour avoir l'agrément d'être à la vôtre.
+
+Ah, ma sœur, que d'éternels plaisirs sont ennuyeux ! On a beau, pour les varier en cent manières, les faire succéder les uns aux autres, cette apparence de diversité ne suffit pas pour remplir l'inclination naturelle que nous avons au changement : il faut un contraste plus sensible pour former le vrai bonheur de la vie ; et les chagrins, les périls, les malheurs même sont nécessaires, pour mieux faire goûter l'avantage de les avoir évités.
+
+C'est un ordre de mon père qui m'y amène, il m'a fait dire de m'y rendre, et il a dessein apparemment de nous entretenir toutes deux ensemble. Mais le voici.
+
+Seigneur…
+
+Mes sentiments, Seigneur, seront toujours soumis aux vôtres. Si le choix de la Fée se trouve contraire à mes désirs, votre volonté suffira pour me déterminer à les vaincre, et je sacrifierai le bonheur de ma vie, à celui de vous marquer une parfaite soumission.
+
+Tant de respects, Seigneur, ne marquent pas une ardeur bien vive : la délicatesse d'une amante aurait de quoi s'en offenser. Pour moi, je vous l'avoue, je ne suis pas si susceptible de ressentiment, et je rends grâce à votre politesse qui me donnera le temps de vous connaître, et la liberté de régler à mon choix votre destinée et la mienne.
+
+Quelle aventure !
+
+Arrêtez, Prince, et recevez un aveu de mes sentiments qui puisse autoriser ceux que vous ne pouvez vous empêcher de laisser paraître pour Inégilde.
+
+Ne vous troublez pas, Prince, et ne prenez pas pour un reproche ce que je vous dis de ma sœur. Comme je ne suis pas faite pour être méprisée, on ne m'a pas instruite à être jalouse.
+
+Prince, parlons avec sincérité ; la dissimulation n'est pas faite pour des personnes de notre rang et de notre humeur. Je ne vous aime point, vous aimez ma sœur, je lui cède sans murmure et sans répugnance tous les droits que j'avais sur vous. C'est apparemment quelque Fée de vos amies qui vient de l'enlever à votre rival : courez la trouver, et ne craignez point d'être rebutée ; elle ne doit pas se faire une affaire de s'enrichir de mes refus.
+
+Oui, Madame, il aime Inégilde ; et malgré les préceptes de la Fée, ma sœur, je crois, n'est pas insensible.
+
+Moi, regretter un époux, Madame ?
+
+Madame.
+
+Ne cherchons point à nous flatter, Madame, tout l'avantage est de son côté, ma sœur m'enlève mon amant. Quand il s'agit d'un attachement sérieux, les plaisirs ont moins de charme que la sagesse.
+
+Je vous l'avoue, Madame : toujours nourrie dans les plaisirs, c'est ici le premier chagrin que je souffre ; et l'essai que j'en fais aujourd'hui, contre mon attente, me paraît dur à supporter.
+
+Il n'en est qu'un où je suis sensible, et c'est celui d'avoir la force de renoncer à tous les autres, pour goûter les douceurs d'une vie tranquille. Mais voici le Prince de l'Isle Inconnue.
+
+Ma sœur m'enlève mon Amant, serait-ce une perfidie de me saisir du sien ?
+
+Dans la résolution où je suis, il me conviendrait mieux qu'aucun autre.
+
+Quelle pénétration ! Et qu'il connaît bien le faible de la sagesse !
+
+Vous êtes mal prévenu pour nous, Seigneur, nous avons intérêt de vous détromper.
+
+Vos discours et vos réflexions n'ont rien du tout qui m'intéresse ; je connais, comme vous, le ridicule de cette morale, si sévère en apparence, et si relâchée quelquefois en secret ; et plus j'ai d'horreur pour ceux qui la suivent, plus j'ai de goût pour la vraie sagesse.
+
+Oui, Seigneur : élevée par la Fée des Plaisirs, ennuyée d'en avoir fait un trop long usage, outrée d'un moment de chagrin que je viens d'avoir, je forme le projet d'une vie heureuse, où l'on tienne un milieu si juste entre les plaisirs et les peines, qu'en ne s'attachant jamais trop aux uns, on soit toujours exempt des autres.
+
+Ah, Ciel ! Je tremble. Quel événement nous annonce ce bruit terrible et mélodieux tout ensemble !
+
+Seigneur, qui peut vous effrayer ainsi ?
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darinel
+
+Hé ! Là, là, Madame, à quoi pensez-vous ?
+
+Hé ! Fi donc, Madame, vous vous moquez, je pense, cela serait beau, vraiment, que deux Fées se décoiffassent.
+
+C'est trop de grâce que vous me faites, Madame, et je vous prie de me dispenser de l'accepter.
+
+Hé, Madame, que vous servira-t-il que j'en sois persuadé ? Que vous peut importer l'opinion d'un homme comme moi ?
+
+La peste m'étouffe si j'en sais rien ; il est trop scabreux de se mêler de vos affaires, à vous autres Grands, et je ne veux point me brouiller avec les Puissances.
+
+Pardonnez-moi, je me connais, cela n'est pas possible ; il faut que l'une de vous deux ait tort, assurément, et vous l'avez toutes deux, peut-être ? Je vous le dirais avec franchise, je vous chagrinerais ; et il y a de certaines Fées qui ne sont pas bonnes à chagriner, à ce que j'ai ouï dire ; je vous baise les mains, Mesdames, je ne saurais faire votre affaire.
+
+Assurément ?
+
+Sur ce pied-là, plaidez, je vous écoute.
+
+J'en suis bien fâchée, par parenthèse : c'était une bonne pâte de Fée que celle-là, elle n'était point tracassière comme les autres, et son mari y a plus perdu que personne.
+
+Oh pour cela, vous êtes de fort bonnes gouvernantes ; leur éducation vous fait honneur, et je suis fort content de ces deux personnes-là, moi qui vous parle.
+
+C'est cette petite pendarde de Finette, je gage ?
+
+Je reconnais Zerbine, c'est elle-même : mais si c'est là tout ce qui vous brouille, il n'y a qu'à les chasser l'une et l'autre, et vous voilà d'accord.
+
+Hé bien, faut-il faire tant de façon ? Sacrifiez-vous mutuellement ces deux malheureuses, c'est assez la manière des Grands. Allons, ferme, ne vous démentez point.
+
+Vous avez toutes deux raison.
+
+Je suis ravi, Mesdames, d'avoir eu le talent de vous remettre en si bonne intelligence. Hé ! De grâce, accordez-vous tout au moins, pour me faire quelque petit don en faveur de la bonne intention que j'avais.
+
+Dispensez-moi donc du ridicule de le trop paraître, je ne veux point renoncer à mon emploi.
+
+À la nonne heure : mais donnez-moi l'art de le bien cacher ; cela est de conséquence.
+
+Je m'en vais être un joli garçon, sage, et voluptueux tout ensemble : hé bien, tenez, il y a des imbéciles qui s'imaginent que cela est incompatible ; bagatelle, il n'y a que manière de bien tourner les choses.
+
+Je suis fort redevable à votre heureux naturel, charmante Finette : mais je serais bien plus content si quelque sentiment particulier vous faisait prendre part à ce qui me regarde.
+
+Le respect jusqu'ici m'a fermé la bouche, mais…
+
+Oui, de tout mon cœur, belle Finette.
+
+Si sérieusement, que je sens bien que je me désespérerai si vous n'aviez quelque pitié de mon amour.
+
+Dans huit ou dix ans, inhumaine !
+
+Un désespoir de huit ou dix ans, cela est bien long, adorable Finette.
+
+Ah ! Il n'y a rien que je ne sois capable d'entreprendre et d'exécuter même pour y réussir ; tu n'as qu'à parler, explique-toi, que faut-il faire ?
+
+J'y suis déjà, tu ne m'auras point d‘obligation de cet article.
+
+Inégilde a donc fort envie d'être mariée ?
+
+Oui, assurément, cela est de fort bon sens ; laisse-moi faire, je préviendrai l'esprit du père ; en ce pays-ci la grande affaire est de prévenir, comme tu sais. Voici, je pense, Inégilde : ne te mets pas en peine, tout ira bien, pourvu que tu ne sois pas huit ou dix ans à me rendre réponse.
+
+Seigneur, je vous demande pardon… de la liberté que je prends… de vous interrompre : mais…
+
+On ne le peut trop paraître, Seigneur… quand on a le bonheur… d'être le premier à apporter une bonne nouvelle.
+
+Seigneur, la Fée des plaisirs se dispose à vous présenter la Prince de l'Isle Fortunée, Qu'elle a choisi pour époux de la Princesse Cléonide : comme elle me fait l'honneur d'avoir quelques bontés pour moi, elle m'a chargé de venir vous dire que la suite de ce Prince allait arriver incessamment avec quelques espèces d'Ambassadeurs, et qu'il se mêlera peut-être lui-même parmi la foule, pour avoir le plaisir de considérer la Princesse dans le temps qu'elle recevra les hommages de ses Sujets.
+
+C'est apparemment la Fée qui nous amène les Envoyés du Prince.
+
+Je différais à m'éloigner, parce que j'ai bien jugé que vous auriez peut-être quelque chose à me dire.
+
+C'est un petit Seigneur aussi bien tourné qu'il s'en trouve, et qui a mille bonnes qualités : nous nous connaissons un peu. Je vous assure que la princesse qui l'aura, ne sera pas malheureuse.
+
+Oui : mais je ne regarde pas encore cette union-là comme une chose bien assurée.
+
+De certaines petites circonstances, des bagatelles que j'ai remarquées.
+
+Que le Prince n'a pas de goût pour elle.
+
+À tout ce que j'ai vu, Madame ; au compliment qu'il lui a fait, à la manière dont il lui a donné la main, au peu d'attention qu'il avait pour elle, et à celle qu'il avait ailleurs : il regardait avec plaisir d'un certain côté…
+
+Du mien, Madame.
+
+Oui, Madame : à la vérité j'étais auprès de vous, et j'ai bien observé tout cela.
+
+Je n'y faisais pas attention.
+
+De tout mon cœur.
+
+Laissez-moi faire, Madame : je suis, grâce au Ciel, assez bon Courtisan ; Je l'aborderai par manière de devoir, j'entrerai par manière d'acquit dans sa confidence : et comme ce n'est que par curiosité que vous vous y intéressez, je vous en informerai seulement par manière de conversation. Adieu, Finette : au moins…
+
+Ce n'est pas un endroit commode, que la Cour, pour traiter secrètement une affaire, et je voudrais bien trouver moyen de parler en particulier au Pince de l'Isle Fortunée. Bon, le voici, je pense ; il est seul comme je le souhaite, et j'ai prudemment fait de je venir attendre ici.
+
+Il parle tout seul.
+
+Il apostrophe l'Amour, il n'est pas content de lui.
+
+Il s'embarrasse dans des réflexions, je lui ferai plaisir de le tirer de là. Vous voulez bien permettre, Seigneur…
+
+J'attendais à vous rendre mes respects, que vous fussiez débarrassé de la foule, pour n'être pas confondu parmi les Courtisans du commun. Le secret de me distinguer est de me présenter seul ; et vous remarquerez, s'il vous plaît, Seigneur, que je suis le dernier à vous faire compliment sur votre mariage.
+
+Vous soupirez, Seigneur ? Vous avez dans la tête quelque chose qui vous embarrasse.
+
+Oui, il y a quelque secret qui vous pèse, et vous mourez d'envie d'en faire part à quelqu'un.
+
+Oh, si fait, si fait. Tenez-vous un peu, s'il vous plaît. Ah ! Que voilà bien une physionomie qui marque que je m'en vais devenir votre confident. Parlez, Seigneur ; ce n'est pas d'aujourd'hui que nous nous connaissons ; j'ai toujours été bon à mille choses, et je me suis encore bien appris, depuis que vous ne m'avez vu, j'ai presque toujours vécu parmi des femmes.
+
+Cela passe l'imagination ; et je m'en vais gager que je devine la raison qui vous fait venir rêver ici plutôt qu'ailleurs.
+
+Cela est admirable ! C'est le hasard aussi qui m'a fait deviner que vous y viendriez, et que je ferais bien de vous y venir attendre.
+
+Oui vraiment ; et vous n'êtes pas fâché que je sois si pénétrant.
+
+Oh que pardonnez-moi. C'est en ce lieu que vous avez vu les deux Princesses : vous n'avez suivi qu'avec peine celle que l'on vous destine, vous quittiez l'autre avec regret ; j'ai jugé que vous reviendriez ici ; vous y revenez, vous êtes rêveur, vous soupirez, je ne me suis pas trompé, vous êtes amoureux d'Inégilde.
+
+Je vous le disais bien : j'ai étudié dans de bonnes écoles, et je vous avertis qu'Inégilde est presque aussi pénétrante que moi.
+
+Pourquoi non ? Cela ne sera pas impossible ; et voici justement Finette, qui est sa favorite, et qui n'aura pas de répugnance à vous rendre ce bon office.
+
+C'est la tienne que je faisais : j'assurais le Prince que s'il avait besoin de tes soins, de tes lumières et de ton crédit en ce pays-ci…
+
+Qui le peut mieux que toi ?
+
+Allons, ferme, point de vaine timidité, Seigneur.
+
+Le langage est nouveau : mais on ne laisse pas l'entendre.
+
+C'est un Prince fort poli, Madame.
+
+L'amour n'est pas favorable à votre rival, il ne possédera point Inégilde.
+
+Ils sont fort pénétrants dans cette famille-là.
+
+Vous venez de vous exprimer fort élégamment, Seigneur.
+
+On ne peut rien de mieux, vous avez beaucoup d'esprit.
+
+Et de Finette et de moi, qu'en faites-vous, Madame ? Elle est un peu folle, je suis fort sage ; ne croyez-vous pas que l'assortiment de nos deux humeurs pourrait faire une union parfaite ?
+
 Que de toutes parts on s'assemble
 Pour célébrer ce jour heureux.
 La Raison met d'accord ensemble,
 La Sagesse, et les plus doux Jeux.
 
--*who_unefeedesplasirs
-Quittez, Bergers, vos retraites,
-Venez dans ce charmant séjour ;
-Au milieu des douceurs parfaites,
-Il règne un air dans cette Cour,
-Aussi pur qu'aux lieux où vous êtes.
-
--*who_unehabitantedelile
-Cœurs enivrés des délices
-De la Fortune et de l'Amour,
-Craignez leurs trompeurs artifices,
-Venez jouir dans cette Cour,
-D'un sort exempt de leurs caprices.
-
--*who_darinel
 Tout ici-bas aux mortels est soumis,
 Tout au monde est fait pour leurs plaire,
 Et tout plaisir devient permis,
 Par l'usage qu'on en sait faire.
 
--*who_trio
-La Sagesse est trop sévère,
-Le Plaisir trop dangereux ;
-Quand la Raison les modère,
-Qu'ils ont de charmes tous deux !
 
--*who_unsuivantdelile
-Può saggio cuore
-Su'l mar d'amore
-Cercar ventura :
-Ma se da vento infido
-Si turban l'Onde, e ‘l ciel s'oscura,
-Deh fuggi, ô mio cuor, torna al lido.
-Può saggio cuore
-Su'l mar d'amore
-Cercar ventura.
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+
+Hé, bonjour, Seigneur Darinel, vous me paraissez de bonne humeur, vous serait-il arrivé quelque fortune dont on dût vous féliciter ? Vous savez que naturellement je suis portée d'inclination à m'intéresser à tout ce qui peut faire plaisir.
+
+Quelque sentiment particulier ! Vous en avez pour moi, apparemment, puisque vous m'en souhaitez pour vous ?
+
+Ah ! L'incommode chose que le respect ! Ne me respectez point, Seigneur Darinel, cela est trop gênant de part et d'autre. Seriez-vous amoureux de moi, de moi, par aventure ?
+
+Quoi ! Sérieusement ?
+
+Le pauvre garçon ! Va, va, ne te presse point de te désespérer, cela viendra quelque jour : dans huit ou dix ans je te rendrai réponse.
+
+Inhumaine, moi ? Tu n'y songes pas. On te permet l'espoir, et on te dispense du respect ; si tu n'es pas content, il faut que tu sois bien difficile.
+
+Il arrivera quelque incident qui précipitera les événements, peut-être, et je veux bien te donner moi-même les moyens de faire du progrès dans mes bonnes grâces.
+
+Être, comme moi, dans les intérêts de la Princesse Inégilde.
+
+Engager le Prince son père, que tu persuades quelquefois mieux qu'un autre en le divertissant, à la marier au plutôt, afin qu'elle ne dépende plus de cette Fée qui la gouverne, qui sous prétexte d'amitié, la rend la plus malheureuse personne du monde.
+
+Qui ne l'aurait pas ? Cette Fée nous désole ; l'autorité d'un mari détruira la sienne : c'est une espèce de liberté que le changement d'esclavage ; et il me semble qu'il vaut mieux dépendre d'un joli mari que d'une Fée maussade.
+
+Si tu réussis, nous abrégerons le roman, je te le promets.
+
+Avec le Seigneur Darinel, Madame, qui est vraiment un fort galant homme, et dont les services pourraient bien dans la suite ne vous être pas tout à fait inutiles, si vous les aviez agréables.
+
+Il faut vous en tirer, Madame, et si le Seigneur Darinel et moi nous nous mêlons une fois de vos affaires, toute la Féerie du monde ne nous empêchera pas de vous rendre heureuse ; j'ai, de bons pressentiments, et le cœur me dit que nous ne tarderons pas à voir quelque révolution dans votre destinée.
+
+Quoi ?
+
+Vous êtes sujette à faire d'agréables songes, je gage ?
+
+Ne craignez rien, je suis discrète. Quel songe avez-vous fait depuis peu ? Çà, voyons si l'on en peut tirer un bon présage : je suis admirable, moi, pour l'explication des songes, et je ne m'y suis jamais trompée.
+
+Vous moquez-vous ? C'est une des sérieuses affaires des femmes du monde que ces chimères-là ; et après le jeu, l'amour, la bonne chère et l'ajustement, elles n'ont rien qui les occupe davantage que les Devineresses et les songes. Dites-moi donc…
+
+Qu'il vous persuadait aisément, Madame !
+
+En mariage, Madame ?
+
+Vous étiez donc bien aise, Madame ?
+
+Oh, pour cela, Madame, voilà un joli songe, c'est dommage que vous ne l'ayez pas achevé.
+
+Quelle cruauté !
+
+Allez, allez, Madame, cela vous endormira, vous achèverez votre songe.
+
+Bon, Madame : il prend bien son temps, cela vous sauvera les leçons de politique. Mais que vois-je ? C'est la Princesse votre sœur, Madame.
+
+Miracle, Madame, l'usage des plaisirs rend Philosophe : la jolie manière de le devenir !
+
+Oh, pour cela, Seigneur, vous avez bien raison, et je vous sais bon gré de vous dépouiller ainsi quelquefois de l'éclat qui vous environne : un Prince, toujours esclave de sa grandeur, vit moins pour lui que pour les autres ; et c'est un adoucissement à la fatigue d'être Souverain, que la liberté de pouvoir un peu devenir homme dans sa famille.
+
+Ne perdez point le jugement, dites oui, Madame.
+
+D'un pays où on ne meut point ? La belle ressource pour une femme !
+
+Ce n'est pas là votre songe, ni votre compte, Madame…
+
+Et nous aussi. Ce libertin-là vaudra mieux que l'autre, Madame.
+
+Que c'est bien là ce qu'il vous faudrait !
+
+Que le mariage ne leur déplaît pas : mais que les maris pourraient ne leur pas plaire.
+
+Par ma foi, voilà une jolie manière de demander les filles en mariage, et je voudrais que quelqu'un s'avisât d'en faire autant pour moi.
+
+Ne vous troublez point, on vous observe.
+
+Le Prince vous regarde, il soupire, il est embarrassé, Madame.
+
+Ce n'est pas le goût qui nous manque, Seigneur, c'est la liberté de nous en servir.
+
+J'y travaille, Madame : mais la Fée votre sœur, est terrible, avec sa mauvaise humeur, qu'elle veut qu'on appelle Sagesse.
+
+Vous ne les suivez pas, Madame ? Vos surveillantes sont en défaut, la Cour est en joie : profitons de l'occasion, venez.
+
+Les yeux du Prince ont peine à vous quitter, Madame, il vous en veut, je suis bonne physionomiste.
+
+Je ne suis point extravagante, et je sais bien les moyens d'éclaircir la chose. Holà, Darinel.
+
+Ne vous mettez pas en peine.
+
+Le Seigneur Darinel a bon esprit, Madame, et sa pénétration ne nous sera pas inutile. Oh çà, que te semble de ce jeune Prince que nous venons de voir ?
+
+Qu'as-tu remarqué ? Dis vite.
+
+Je l'ai remarqué comme lui, Madame ; et vous, ne vous êtes-vous aperçue de rien ?
+
+Non, sans doute : mais on n'est pourtant pas fâchée de les savoir, et il est bon d'avoir un espion qui ait l'esprit d'en rendre compte. Tu voudras bien continuer à nous en servir, peut-être ?
+
+Par curiosité, Madame : laissez-nous faire, et qu'il tâche seulement à pénétrer les sentiments du Prince, et à découvrir la situation de son cœur et de son esprit.
+
+Adieu, adieu, Darinel : je te rendrai bientôt réponse, si tu continues.
+
+Je n'ai pas mauvaise opinion de cette affaire, et nous en aurons bonne issue.
+
+C'est elle-même, vous avez raison : elle m'aura peut-être entendue. Je me sauve, Madame.
+
+Madame !
+
+Je m'éloignais aussi, Madame, c'est vous qui me dites de demeurer.
+
+Je vous respecte, Madame, et je vous crains, comme vous voyez.
+
+Nous ne parlons jamais que de vous, Madame.
+
+Oh ! De tout mon cœur, Madame. Qu'il y a de plaisir à vous obéir !
+
+Les voici tous deux ensemble, nous allons savoir des nouvelles. Ah, ah ! Déjà Darinel en conversation avec le Prince ? Je ne m'étonne pas s'il a des amis, il est ardent à faire sa cour.
+
+Je suis fort peu de chose, mais je suis toute à son service. En quoi lui pourrais-je être utile ?
+
+Comment faire ? Je ne puis quasi pas lui parler moi-même. La Fée vient de me défendre encore tout à l'heure de me trouver jamais seule avec elle ; je n'oserais hasarder ce que vous me proposez.
+
+Ce bracelet, Seigneur ? Ah, que vous avez des manières dangereuses !
+
+Que vos discours sont séduisants ! Je fais tout ce que vous voulez.
+
+Cela ne sera pas bien difficile ; la Fée n'y est pas, Inégilde m'a fait signe de venir ici, elle ne tardera pas à s'y rendre.
+
+Éloignez-vous de quelques pas, et faites semblant de vous promener en rêvant dans quelqu'une de ces galeries, vous nous aborderez quand je vous ferez signe. La voici, je pense ; éloignez-vous, et me laissez faire.
+
+Je m'en vais vous le dire. Il y avait une fois un Roi et une Reine…
+
+Ce n'est point un conte, c'est un petit trait d'histoire assez joli, Madame, écoutez seulement. Cette Reine mourut, et laissa deux filles pour qui le Roi choisit des maris qu'elles n'aimaient pas.
+
+Oui, cela est intéressant, n'est-ce pas ? Elles avaient chacune un amant, qui faute d'occasion ne s'étaient pas encore déclarés, et qu'elles aimaient en secret pourtant. L'occasion s'offrit, les amants parlèrent : l'aînée reçut le sien avec fierté, lui défendit de lui parler jamais de son amour il se le tint pour dit, il se rebuta, et la pauvre Princesse fut obligée de prendre, en enrageant, ce mari qu'elle n'aimait point.
+
+On aimait dans ce temps-là comme on n'aime à cette heure ; une beauté fière est souvent la dupe de l'aventure. La cadette fut plus raisonnable et plus heureuse : l'amant lui plaisait, il fut bien reçu ; la Cour en parla, le Roi le sut et l'approuva, et le prétendu mari qu'il avait fait venir fut honnêtement congédié.
+
+Elle est fort instructive, faites-en votre profit. Voici le Prince que Darinel vous amène.
+
+Vous êtes la cadette, Madame, ne vous avisez pas de faire comme fit cette aînée.
+
+Voilà de beaux projets. Allons, Madame, la situation où vous êtes veut une prompte résolution ; il n'y a point à hésiter, il faut finir le songe.
+
+Vous m'avez défendu de m'y trouver seule, Madame, je lui ai amené compagnie.
+
+Bon, Madame, il prend bien la chose.
+
+C'est qu'il est plus naturel et plus vrai, Seigneur.
+
+Emmenez-moi donc avec vous, Madame.
+
+Ne vous chagrinez point, Seigneur, je ne vous quitterai point que nous ne l'ayons trouvée. Allons, venez.
+
+Sur ce pied-là, j'y consens de bon cœur. Que nous allons faire un bon petit ménage !
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
+
+Les Sages de chez nous ne sont pas sans mérite ; et c'est ce qui me fait espérer, Seigneur, que vous voudrez bien approuver l'alliance où cette sage Fée m'a fait l'honneur de m'appeler.
+
+Les ordres de la Fée m'ont fait venir ici ; les vôtres m'en écartent, Madame : je serai prompt à m'éloigner.
+
+Je vous demande pardon, Madame, il ne serait pas du caractère d'un Sage de courir après une femme. Faites de votre côté vos diligences, je vais du mien rêver tranquillement à ce que j'aurai à faire, en cas qu'elle se retrouve.
+
+Ah que j'ai fait un impertinent voyage ! Et que la sagesse de ce pays-ci est différente celle du nôtre !
+
+Le trouble règne dans tous les cœurs, une fausse tranquillité masque les visages ; et peu soigneux de corriger les vices, on se contente de les savoir cacher.
+
+Quel séjour étranger pour moi ! Et que je serais surpris et charmé d'y trouver seulement un cœur sincère, digne de l'attachement d'un Sage !
+
+Je vous demande pardon, Madame, je croyais être seul, et je n'aurais pas parlé comme j'ai fait, si j'avais présumé qu'on eût pu m'entendre.
+
+Vous, Madame ?
+
+Est-ce une simple mortelle qui me parle ? Ah Ciel que d'attraits ! Que de charmes ! Quelle puissance invisible me force de les adorer ! Quelle agitation ! Qu'est-ce que je sens ? Le cœur d'un Sage est-il si faible ? Et que va devenir ma liberté ?
+
+Je m'en réjouis, Madame, et n'y prends point de part pour moi. Le Ciel ne nous a pas formés l'un pour l'autre, et l'amour soumet pour toujours mon cœur aux lois de cette charmante Princesse.
+
+Notre morale est moins farouche que la vôtre, et les plaisirs et la vertu ne sont pas si fort incompatibles.
+
+Oserais-je me flatter, Madame…
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lambethie
+
+Madame, vous nous exposez tous les jours aux ressentiments de la Fée, et vous savez bien l'ordre que nous avons de ne vous point souffrir de conversation particulière avec Finette.
+
+Vous plaît-il, Madame, de rentrer dans votre appartement ? Voici l'heure de prendre vos leçons de prudence et de politique.
+
+Zerbine demande à vous entretenir, Madame.
+
+Je vais leur dire d'approcher, Madame, ils attendaient avec impatience le moment d'être présentés.
+
+
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
+
+Astur, rassurez-vous, et rendez grâces avec mes sœurs au destin qui me permet de venir ici pour terminer leurs différents, et pour réunir par ma présence et par mes conseils, les cœurs que mon éloignement avait séparés.
+
+Quoi ! Ma vue vous fait de la peine ?
+
+Il ne m'est permis d'y demeurer que pour donner moi-même à mes filles les époux que le Ciel a choisis pour elles.
+
+Non, ma fille, c'est pour vous conserver à lui que je vous ai tantôt fait disparaître. Recevez Inégilde de ma main, Prince, et soyez sûr de toute la félicité possible.
+
+Arrêtez, ma sœur, tant d'emportement ne sied pas bien à la Fée de la Sagesse. L'austérité de votre humeur et de vos préceptes a lassé le cœur d'Inégilde, il faut que le mélange des plaisirs le remette dans l'état auquel il doit être pour goûter un parfait bonheur. Pour Cléonide…
+
+Nous nous intéresserons toutes trois à la rendre heureuse.
+
+Vous êtes trop juste, trop sage et trop raisonnable pour ne pas souscrire à ce que nous faisons.
+
+Ne vous inquiétez point, j'en fais mon affaire, et je prendrai soin désormais de les entretenir l'une et l'autre dans une parfaite intelligence.
+

@@ -1,76 +1,222 @@
 
 
-**** *book_ *id_dedicace *date_1656 *creator_chappuzeau 
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
-A MONSIEUR SNOECKAERT de SCHAUNBURGH, etc.
+Enfin, je suis vainqueur de tous mes ennemis,
+Tous les Roys de l'Asie à mes piés sont soûmis,
+Du Danube et du Nil j'ay calmé les tempête,
+Et je ne puis plus loin étendre mes conquêtes.
+La Chine qui devoit couronner mes exploits
+Va desormais aprendre à vivre soûs mes loix,
+Elle void sa defaitte enrichir mon trophée,
+Et dans son Roy captif son audace etoufée.
+En vain elle opposoit un mur prodigieux
+A des bras qui pourroient atteindre jusqu'aux Cieux.
+Cet ouvrage inutile autant que Magnifique
+(Dont il faut, je l'avoüe, admirer la fabrique)
+A sçu mal la defendre, et la mettre à couvert,
+Et par tout Tamerlan treuve un passage ouvert.
+Phocate, je te dois une part de ma gloire⁎,
+Sans toy j'aurois plus tard remporté la victoire ;
+Ce que pour moy ton zele execute en ce jour
+T'a sçû mieux qu'autrefois aquerir mon amour.
+Tu fis dans Samarcand mille actions charmantes,
+Tu viens de faire icy mille actions vaillantes ;
+Ton adresse en ma Cour te gagna tous les cœurs,
+Ces chefs sur tes grans coups ont mesuré les leurs ;
+Et de quelque costé que je le considere,
+En guerre comme en paix Phocate me sçait plaire.
+A de si grands exploits son courage étant né,
+Il a pour l'exercer un pays trop borné ;
+L'Inde qui l'a nourry n'a pas assez d'espace
+Pour fournir de matiere à son Illustre audace.
+Puisqu'il la quitte encore, et que tout à la fois
+Il a sçû venir, voir, et vaincre les Chinois ;
+Il luy faut avec moy chercher une autre terre,
+Chercher d'autres tyrans pour leur porter la guerre,
+Et qui de ma fortune accompagne le pas
+A peu d'un monde entier pour employer son bras.
+Ouy, Phocate, d'un fils que le destin me cache
+Tien aujourd'huy le rang où mon amour t'attache,
+Et dedans mon empire, ainsy que dans mon cœur
+Vien occuper sa place, et reçoy cet honneur⁎.
+Que ces braves guerriers, témoins de ta vaillance,
+L'honnorent desormais de leur obeïssance ;
+Et s'il nous reste encor quelque peuple à donter,
+Que leurs bras soûs le tien se facent redouter.
 
-Monsieur,
+Ton courage est suivi de trop de modestie,
+Avec tant de vertus, elle est mal assortie,
+Et sçache que chez moy d'un œil judicieux
+La recompense suit les actes glorieux⁎.
+Le Chinois abbatu sera donques la tienne,
+Ton bras se l'est aquis, je veux qu'il t'appartienne,
+Je te permetz icy d'ordonner et d'agir,
+Et qui l'a sçû donter sçaura bien le regir.
 
-Il est tres rare de voir l'amitié et la haine compatir ensemble, et deux personnes se déclarer la guerre au moment qu'ils se declarent de l'affection⁎.
-C'est une avanture si peu commune, que l'amour seul peut la rendre vraysemblable, et elle passera sans doute pour le plus merveilleux de ses prodiges, et la plus haute marque de son pouvoir.
-Aussy, Mon- -sieur, n'aurois-je pas osé vous offrir que quelque chose de merveilleux, et je vous considere trop pour avoir pris la liberté de mettre vôtre nom à la teste de cet ouvrage, si les plus critiques mémes n'en avoient treuvé l'intrigue hors du commun.
-D'ailleurs, Monsieur, vous estes d'une condition et d'un âge à vous rendre compagnon de la fortune de mes deux Princes, et à faire comme eux des actions héroïques ; et soit pour le beau sexe, ou pour la Patrie, vous tascherez encore de l'encherir sur leur passion.
-Je prevoy, Monsieur, que vous en aurez une tres forte pour le service⁎ de cette Patrie, et qu'imitant vos ancêtres qui luy en ont rendu de si utiles, vous luy donnerez bien-tost dedans et dehors toutes vos pensées et tous vos soins.
-Sans vous porter plus loin, il vous doit souvenir d'un Albert Jaochimi vôtre aïeul, qui s'aquitta avec tant de gloire⁎ de ses ambassades chez les Anglois, les Suedois et les Moscovites, et penser que vous estes né aux mémes honneurs et aux mémes charges, puisque vous vous treuvez heritier de ses vertus comme de ses biens.
-Vous avez eu un des meilleurs peres, qui s'est vû long temps cheri d'un des meilleurs Roys, et l'un des plus proches de Sa personne ; et il se découvre enfin en vous méme dequoy egaler le Pere et l'Ayeul.
-C'est, Monsieur, cette puissante inclination que vous avez à les suivre, et à les passer méme, tant que vous vous treuverez un beau chemin à la gloire⁎.
-La France où vous avez dêja paru avec tant d'estime, s'attend de vous revoir un jour chez elle avec plus d'eclat⁎ ; l'Angleterre qui a joui de douze de vos années, ne s'en promet pas moins dans la suitte ; La Hollande qui vous a vû naître, et qui sur toutes les Provinces du Monde sçait faire le choix des personnes de vertu, aura bien-tost lieu d'honorer la vôtre ; et si vous vous montrez à l'Allemagne, où tout un pays soûpire apres vous pour vous rendre les hommages qu'il vous doit, vous n'en sortirez point sans emporter avec vous les cœurs de ses peuples.
-Je le juge aisement, Monsieur, apres l'honneur que j'ay eu plusieurs fois de vôtre entretien, où j'ay decouvert toutes les marques d'une ame veritablement genereuse⁎, et qui aspire à quelque chose de grand.
-J'ose pourtant avoüer que j'aspire aussy haut que vous, puisque je porte tous mes souhaits à la gloire⁎ de vous appartenir, et de me dire avec beaucoup de respect,
+Ouy de ce fier Zinton l'audace est abbatue,
+Je tiens en mon pouvoir ce superbe⁎ ennemy,
+Qui par nôtre combat n'est vaincu qu'à demy.
+Puisqu'enfin il est pris, je veux qu'on me l'ameine,
+Sa vûe augmentera mon plaisir et sa peine,
+Il faut que j'en triomphe une seconde fois.
+Et que j'aye à mes piés le plus altier des Roys.
 
-MONSIEUR,
+      Que dis Phocate ?
 
-Votre tres-humble et tres-obeïssant serviteur
+D'une indigne pitié sa valeur⁎ est suivie ;
+Quoy, n'est-ce pas assez de luy donner la vie,
+Et peus tu dedaigner de repaître tes yeux
+D'un spectacle si doux et qui t'es glorieux⁎ ?
 
-CHAPPUZEAU.
+Tu ne sçais pas jouir du fruit de ta conquête ;
+Il faut voir à nos piez cette superbe⁎ tête,
+Je n'ay point epargné l'orgueilleux Bajazet,
+De mieux traitter Zinton ay-je plus de sujet ?
+Luy qui parut toujours mon plus grand adversaire,
+Et qui m'auroit détruit s'il avoit pû le faire ?
 
-**** *book_ *id_argument *date_1656 *creator_chappuzeau 
+      Non, non, Phocate, en vain tu m'entretiens ;
+Qu'on le face venir avecques tous les siens.
 
-ARGUMENT
+Que Zinton est heureux de t'avoir pour appuy,
+Phocate ! le voilà : mais qui vois-je avec lui ?
+Ma vûe, à cet objet⁎ sans doute tu t'egares ;
+Mon fils chez les Chinois !
 
-Armetzar Prince des Tartares, et Vanlie Prince des Chinois, épris d'amour pour la sœur l'un de l'autre, les armées de Tamerlan et de Zinton prêtes à combattre, plûtost que de s'armer contre leurs maîtresses, aiment mieux se tourner contre leurs peres et contre eux mémes, et passent en effet, Armetzar dans le camp Chinoy, et Vanlie dans le camp Tartare, chacun soûs un faux nom et une qualité empruntée.
-Cependant Armetzar rend des services⁎ tres signalez à Zinton, Tamerlan reçoit de méme des assistances tres considerables de Vanlie, sans que leurs Illustres actions puissent toucher leurs Maîtresses, dont la noble ambition méprise quiconque n'a pas le titre de Roy.
-Ladice portée par Zinton son pere, à recevoir Phocate pour époux (c'est le nom que prend Armetzar chez les Chinois, de méme que Vanlie chez les Tartares) et croyant que ce soit à sa sollicitation, l'aborde en colere, et luy defend pour jamais sa vûe.
-Armetzar obeït, et conçoit dans son desespoir une haute entreprise qui lui réüssit, et qui engage encore plus puissamment Zinton à l'aimer.
-Artaban poussé par Zarimene sa mere, seconde femme de Zinton, qui tâche de faire entrer son fils dans la famille Royale, devient rival d'Armetzar : mais Ladice ayant découvert la naissance de celuy-cy, bien loin d'en tirer de nouveaux motifs de haine pour le fils de l'ennemy des Chinois, elle en conçoit une plus haute estime et beaucoup d'amour, que malgré la defense tacite de son pere elle se sent obligé de luy témoigner, après le severe commandement qu'elle luy avoit fait de se bannir de sa vue.
-Mais s'il la recouvre, il n'en jouït pas long-temps, et les armées étant sur le point de s'approcher, il la quitte pour aller joindre Zinton, qui apres un combat opiniâtre se treuve enveloppé d'un gros⁎ de Tartares, et emmené prisonnier.
-Armetzar voyant tout desesperé quitte le desordre pour venir au secours de Ladice, et tacher de se sauver avec elle : mais il s'en treuve tres mal receu sur un faux rapport qu'on luy a fait (et avec beaucoup d'apparence) qu'Armetzar avoit repris le party de Tamerlan.
-Tandis qu'il fait ses efforts pour la tirer d'erreur, et qu'il en essuye quelques reproches, le Grand Cham⁎ arrive, accompagné de Vanlie et de tous ses Généraux ; ce qui les oblige tous deux à prendre la fuite.
-Mais ayant été bien-tost saisis par quelques soldats, Armetzar est enfin mené captif avec Zinton devant Tamerlan.
-L'etonnement⁎ des deux peres fut étrange⁎ ; de Tamerlan voyant son fils parmy les Chinois, et de Zinton voyant le sien parmy les Tartares, lequel avoit usé de tous artifices envers le Vainqueur pour eviter cet abord, et cet evenement engendre des transports merveilleux de part et d'autre.
-Mais enfin la surprise et la colere cedant à l'amour et à la raison, Artaban tué au combat, et Zarimene morte en suitte de douleur, Armetzar et Vanlie obtiennent de leurs peres ce qu'ils souhaitent, et Tamerlan remet le Roy de la Chine dans ses Etats.
+Armetzar, me trompé-je, est-ce vous que je voy ?
 
-Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques années soûs le nom de Ladice, ou des Victoires du Grand Tamerlan ; soit qu'il t'ayt plû, ou qu'il t'ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme.
+Quel fantôme⁎ oze icy venir troubler⁎ ma joye !
 
-**** *book_ *id_I01 *act_I *date_1656 *creator_chappuzeau
+Mes yeux, vous dois-je croire, et seroit ce mon fils
+Que je rencontre icy parmy mes ennemis !
 
--*who_organte
-Seigneur, il ne faut pas consulter davantage,
-Evitez les perils où l'amour vous engage ;
-Voyez la foudre prête à tomber dessus vous,
-Et d'un pere irrité redoutez le courroux.
-Tamerlan à grans pas vers ce camp s'achemine,
-Et comme un gros torrent vient inonder la Chine ;
-Tout cede à sa valeur⁎, et ce grand Conquerant
-N'y peut donner de borne où l'Univers en prend.
-Jusques chez le Germain il a porté la guerre,
-Ses voisins allarmez au bruit de ce tonnerre,
-Le Dace, le Russite, et le fier⁎ Polonois
-Ont cherché leur azile au centre de leurs bois.
-L'Egypte qui portoit tant d'orgueilleuses têtes,
-N'a pû fournir qu'un mois au cours de ses conquétes ;
-Et Bajazet soûmis à ce bras redouté
-S'est vû traîner par tout avec indignité.
-Enfin mieux qu'un Cesar et mieux qu'un Alexandre,
-Il fait voir aujourd'hui sans les laisser reprendre,
-Sarmates, Otthomans, Mores humiliez,
-Et l'Europe, et l'Asie, et l'Afrique à ses piez.
-Quittez donc un party qui s'ouvre à sa victoire,
-Fatal à vos desirs ainsy qu'à vôtre gloire⁎,
-Et que de ses exploits cent peuples convaincus
-Vous degagent icy du nombre des vaincus.
+Borne là les transports⁎ que la colere étale,
+Et croy que ma surprise à la tienne est egale ;
+Tu luy dois tout le temps que ta juste douleur
+A pû me derobber pour plaindre ton malheur.
+Je suis assez vangé par le coup qui t'accable :
+Mais enfin si ton fils est un vainqueur coupable ;
+D'un crime tout pareil à mes yeux convaincu,
+Le mien est au contraire un coupable vaincu.
+Ouy, le crime est pareil : mais l'effet dissemblable
+Rend l'un victorieux, et l'autre punissable,
+Et si la grace est dûe à qui la peut offrir,
+Ton fils a droit de vivre, et le mien doit mourir.
+Traître, n'atten de moy qu'un traittement severe ;
+Je ne m'informe point où tend tout ce mystere,
+Suffit que je te treuve avec mes ennemis
+Tu pers entre eux le rang et le nom de mon fils,
+Et je ne te connois dedans cette avanture
+Que pour un ennemy qu'abhorre la nature.
+Du Chinois contre moy te rendre partizan !
+Tremble, tremble, perfide⁎, au nom de Tamerlan,
+Dans mon juste couroux redoute mes supplices,
+Tu ne sçaurois les fuir, il faut que tu perisses,
+Il faut que par ta mort je purge ma maison
+De l'affront que luy fait ta lasche trahison.
+Tu taschois ainsy de détruire ma gloire⁎ !
+Ton bras injurieux retardoit ma victoire !
+Et mes coups au combat par les tiens repoussez
+Ont dechû de l'eclat⁎ de mes travaux⁎ passez !
+Apres une action si coupable et si noire,
+Tous les tiens aujourd'huy sortent de ma memoire,
+Et j'oublie aisement ce que tu fis pour moy,
+Pour suivre le depit qui m'arme contre toy.
+Tout ton sang doit laver cette honteuse tache
+Qui dans ce jour fatal à ma gloire⁎ s'attache ;
+Et te faisant soûfrir des tourmens infinis,
+Je veus voir en toy seul tous les Chinois punis.
+Toy qui craignois si peu cette juste disgrace,
+Qu'esperes tu de moy ? qu'attens tu que je face ?
 
--*who_armetzar
+Quoy, ton orgueil encore oze icy me braver !
+Apren que ce malheur ne pouvoit m'arriver,
+Que Tamerlan détruit quiconque le traverse,
+Qu'il n'eprouva jamais la fortune diverse.
+Que son demon⁎ jaloux puissamment le defend,
+Et qu'il sçait en tous lieux le rendre triomphant.
+
+Ce demon⁎ sans le mien eut hasté ma victoire.
+
+Sans cette lasche main tu n'aurois plus vécu.
+ 
+Ce perfide⁎ tout seul rend ma gloire⁎ imparfaitte.
+
+C'en est trop, à la fin ma patience est lasse,
+Au malheur qui te suit c'est joindre trop d'audace ;
+C'est par trop se piquer de magnanimité⁎,
+Et ta grace depend de ton humilité.
+Je pardonne, Zinton, si tost qu'on s'humilie :
+Mais aussy je punis si tost que l'on s'oublie,
+Et c'est mal en user pour toy, pour ton pays,
+Que de me reprocher le secours de ton fils.
+Ouy, si l'ingratitude⁎ est indigne des Princes,
+Par le bras de ce fils j'entre dans tes Provinces,
+Et ne me repens point des eloges trop dûs
+Qu'à sa haute valeur⁎ moy méme j'ay rendus.
+Mais, ô destin fascheux ! faut-il que l'on m'impute
+Que ce que j'ay pû faire, un autre l'execute !
+Faut-il qu'on me dispute un prix que je gagnois,
+Et que par un Chinois je donte les Chinois !
+Ne pouvois-je sans luy m'acquerir cette gloire⁎ ?
+Dois-je luy faire part du fruit de ma victoire !
+Non, non, si j'ay promis, je puis me degager,
+Avec Phocate seul j'ay crû le partager,
+Sur luy mes faveurs avoient lieu de s'épandre,        
+Et le fils de Zinton n'y dût jamais pretendre.
+
+Non, d'aucun repentir ma grace n'est suivie,
+Et de tous les Chinois je t'accorde la vie :
+Mais en revanche aussy tu dois tomber d'accord
+Que ce lâche Tartare a merité la mort.
+
+Crain qu'elle ne se rompe en voulant trop l'étendre,
+On perd tout bien souvent pour l'oser trop pretendre,
+Et qui demande plus qu'on ne peut accorder,
+Merite un pront refus, et sçait mal demander.
+A qui te fait du bien ne fais pas une injure,
+Menage ma faveur afin qu'elle te dure ;
+Pour cet infame objet⁎ tes soins sont superflus,
+Il perira, te dis-je, et ne m'en parle plus.
+
+Quoy persister encor ! y pensez vous, Phocate ?
+Et craignez vous si peu que ma fureur⁎ n'eclate ?
+C'est pour un criminel avoir trop d'amitié.
+
+Hé bien ! je la reprens, puisqu'elle vous deplaist.
+
+Vous pourriez moderer ce zele qui m'offence,
+Et le laisser parler luy méme à sa defence.
+Ouy, parle ; t'armois tu pour me percer le sein ?
+Di, perfide⁎, di nous, quel estoit ton dessein ?
+
+Reçoy le donc de moy s'il en est plus solide,
+Regne encore en ces lieux, et devenons amis ;
+C'est assez qu'un moment Zinton me fut soûmis,
+Et je veux aujourd'huy pour comble de ma gloire⁎,
+Que ma clemence eclate autant que ma victoire.
+
+Mais il nous faut aussy vaincre cette colere
+Qui contre nos enfans a paru si severe.
+Chacun d'eux nous trahit pour plaire à son amour,
+Mais chacun d'eux aussy nous assiste en ce jour ;
+Leur noble repentir doit effacer leur crime,
+Et la nature enfin en leur faveur s'exprime.
+Armetzar, sois mon fils, je te pardonne tout,
+Tu veux une Chinoise, et mon cœur s'y resout.
+Ouy, Ladice me plaist, puisqu'elle a sçû te plaire ;
+Mais il te faut de plus l'obtenir de son pere.
+
+Vanlie, enfin le Ciel exauce tes souhaits,
+Et je te donne ensemble et ma fille et la paix.
+ 
+Ouy, par de tels bienfaits je veux vous enchaîner,
+Et Tamerlan enfin sçait vaincre et pardonner.
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_armetzar
+
 Organte, as-tu tout dit ? et puis-je enfin respondre ?
 Tu crois par ces raisons aisement me confondre ;
 Non, tu n'as pas tout dit, et j'oppose à mon tour
@@ -88,36 +234,6 @@ Qu'il ose mepriser le sujet de ma flame⁎,
 Je sçay qu'on doit aux Dieux beaucoup plus qu'aux mortels,
 Et sçay qu'ainsy qu'aux Dieux on luy doit des autels.
 
--*who_organte
-C'est se flatter, Seigneur, d'une vaine esperance,
-Il a vû cent beautez avec indifference,
-Et dans ses hauts desseins son cœur⁎ ambitieux
-Ne sçait point reverer cette sorte de Dieux.
-Il ne veut point d'obstacle au progrez de ses armes,
-Et ce sexe pour luy n'a que de febles charmes :
-Ladice est adorable, un grand peuple la sert,
-Mais Ladice est Chinoise, et c'est ce qui vous perd.
-Son pere qu'au combat le desespoir entraîne
-Nourrit pour vôtre Empire une eternelle haine,
-Et le fils du Grand Cham⁎ sans un nom emprunté
-De l'orgueilleux Zinton seroit peu respecté.
-A voir depuis deux mois l'air dont il vous caresse,
-Les discours qu'il vous tient avec tant de tendresse,
-Je veux croire avec vous qu'il sçait aimer sans fard :
-Mais il aime Phocate, et non pas Armetzar,
-Ce n'est que du premier qu'il vante le merite,
-L'autre n'a point de part à ce qu'il en medite,
-Et si quelque demon⁎ le vient desabuser,
-Vôtre amour envers luy sçaura mal s'excuser.
-Je voy qu'à vôtre perte enfin tout se prepare,
-Que tout est contre vous, le Chinois, le Tartare,
-Et que Ladice méme avec cette vertu
-Dont son divin esprit vous parest revêtu,
-Vous sçachant de naissance ennemy de son pere,
-Ou ne vous regardant qu'en sujet temeraire
-Ne peut avoir pour vous que haine ou que mepris.
-
--*who_armetzar
 Organte, cesse enfin, tu m'en as trop appris ;
 Je voy trop les malheurs que ton zele m'expose,
 Je les voy, le les crains : mais j'en cheris la cause,
@@ -162,15 +278,6 @@ Ce qu'un cœur en aimant s'est aquis de pouvoir,
 J'iray vaincre pour luy le reste de la Terre :
 Mais s'il veut vaincre icy, je deteste la guerre.
 
--*who_organte
-Avant que de l'amour vous sentissiez les traits⁎,
-Vous parliez autrement, vous detestiez la paix,
-Lors qu'avec Tamerlan vous gagniez des batailles,
-Lors que l'epée en main vous forciez des murailles,
-Quand par vôtre valeur⁎ l'Otthoman fut soûmis,
-Tout vous paroissoit juste, et vous êtoit permis.
-
--*who_armetzar
 Ouy, devant que l'amour eust eclairé mon ame
 J'avois des sentimens qu'inspire une autre flame⁎,
 Cette ardeur⁎ de combattre echaufoit mes esprits,
@@ -180,13 +287,6 @@ Si j'avois eu toûjours pour objet⁎ ce que j'aime :
 Mais devant qu'à l'amour mon cœur se soit rendu,
 Je n'ay rien fait, Organte, ou je crois tout perdu.
 
--*who_organte
-De vos fameux exploits c'est faire peu de conte,
-Les Scythes, les Persans les ont vûs à leur honte,
-Et sans vous vôtre pere en tous lieux redouté
-Auroit moins entrepris et moins executé.
-
--*who_armetzar
 Hé bien, si tu le veux j'auray plus fait encore ;
 Ouy, j'ay porté la guerre au de là du Bosphore,
 J'ay suivi Tamerlan par tout où sa valeur⁎
@@ -205,12 +305,6 @@ Qu'il jouïsse du fruit de mes travaux divers,
 Mais qu'il me laisse au moins ce bout de l'Univers.
 C'est peu luy demander apres un long service⁎.
 
--*who_organte
-C'est trop luy demander, s'il s'agit de Ladice.
-Seigneur, où vos desseins peuvent ils aboutir ?
-Regagnez vôtre armée, et songez à partir.
-
--*who_armetzar
 Partir ! As tu dessein de m'offenser, Organte ?
 Crois tu que de tels maux mon ame s'epouvante ?
 Puis qu'enfin Tamerlan me traverse aujourd'huy,
@@ -228,40 +322,10 @@ Par d'injustes conseils dont ma flame⁎ s'irrite
 Et sans plus m'accabler d'inutiles propos,
 Pars, si tu veux, Organte, et me laisse en repos.
 
--*who_organte
-Ha Seigneur ! à mon tour je reçois un outrage⁎,
-Je ne vous quitte point au milieu de l'orage,
-Doutez vous de mon zele à mes justes avis,
-Et dois-je être blamé s'ils ne sont pas suivis ?
-Puisqu'il faut demeurer, faittes que la prudence
-Ayt de vos actions l'entiere surveillance ;
-Puisque Zinton vous aime et prise vos travaux,
-Soyez toûjours Phocate, et l'un de ses vassaux.
-Souvenez vous, Seigneur, que cet autre Phocate
-Dont le merite encore en vôtre Cour eclate,
-Sçût si bien autrefois soûs ce nom emprunté
-Aux yeux de Tamerlan cacher sa qualité,
-Que jamais on n'a sçû ce que j'en imagine.
-
--*who_armetzar
 Quoy donc ?
 
--*who_organte
-      Qu'il est grand Prince, et du sang⁎ de la Chine.
-
--*who_armetzar
 Quoy, ce cher Indien ? D'où le peus tu sçavoir ?
 
--*who_organte
-Je le tiens de mes yeux, Seigneur, et viens de voir
-Celuy qu'à Samarcand il avoit à sa Suitte.
-Dans le trouble⁎ où mon ame alors étoit reduitte,
-Je l'ay suivi de loin vers la tente du Roy,
-Où chacun l'embrassoit et le tiroit à foy,
-Et d'une bouche à l'autre enfin j'ay pu comprendre
-Qu'aujourd'huy dans ces lieux son maître se doit rendre.
-
--*who_armetzar
 Hé bien ! c'est un amy que nous aurons icy,
 Indien, ou Chinois je le veux croire ainsy ;
 La parfaitte amitié que nous aurons jurée
@@ -272,65 +336,6 @@ Mais tes yeux si malins ont bien pû se méprendre,
 Et la peur fait souvent tout voir, et tout entendre.
 Quoy qu'il en soit, Organte, espere en mon destin.
 
--*who_organte
-Seigneur, le Roy qui vient vous en rendra certain.
-
-**** *book_ *id_I02 *act_I *date_1656 *creator_chappuzeau 
-
--*who_zinton
-En vain à m'attaquer Tamerlan se prepare,
-Je ne redoute point les efforts du Tartare ;
-J'esperois tout déjà de mon bras et du tien,
-Quand mon fils derechef vient y joindre le sien ;
-Je l'attens aujourd'huy, Phocate, et je dois croire
-Qu'avec luy tu veux bien courir à la victoire,
-Qu'avec luy tu veux bien en partager l'honneur⁎,
-Comme avec luy déjà tu partages mon cœur.
-Car enfin tu m'es cher à l'egal de Vanlie,
-Et puisqu'à mon Service⁎ un beau zele te lie,
-Il doit t'aimer de méme, et je veux aujourd'huy
-A mon trône ebranlé donner ce double appuy.
-Devant tout à la fois répondre à deux querelles,
-Voyant des ennemis se joindre à des rebelles
-Attaqué d'une part, de l'autre repoussé,
-Dans ces extrémitez les Dieux m'ont exaucé.
-Ce prince enfin arrive apres un long voyage
-Que j'avois bien voulu permettre à son jeune âge,
-Et revient en ces lieux et plus grand et plus fort
-Contre ces fiers remparts faire un dernier effort.
-Quinsay de mes Etats la plus ingrate⁎ ville,
-Toûjours des factieux fut le honteux azile ;
-Le perfide⁎ Sanga que j'en fis gouverneur,
-Loin de m'en mieux servir s'enfla de cet honneur⁎,
-Si voisin du Tartare et de la mer Scythique
-Il sçût bien-tost former un projet tyrannique,
-Et son ambition se croyant tout permis
-Et dedans et dehors me fit des ennemis.
-Aux maux qu'il prevoyoit preparant un remede,
-Il court à Tamerlan, il implore son aide,
-Et ce Prince orgueilleux qui vient mal à propos
-Reculer ma vengeance et troubler⁎ mon repos,
-Luy qui se nomme grand, et qui le veut parêtre,
-Doit treuver peu de gloire⁎ à soûtenir un traître.
-Mais pour luy tout est juste et tout est glorieux⁎
-Quand il peut assouvir son cœur⁎ ambitieux ;
-Lorsque de ce rebelle il embrasse la cause,
-Déjà de mes Etats en son ame il dispose,
-Il veut les ajoûter à ceux qu'il a volez,
-Et voir tous les Chinois à sa rage immolez.
-Voilà les grans projets dont Tamerlan se flatte :
-Mais j'ay pour les détruire assez d'un seul Phocate.
-Ouy, je veux aujourd'huy me vanger par ton bras…
-
-**** *book_ *id_I03 *act_I *date_1656 *creator_chappuzeau
-
--*who_garde
-Sire, le Prince arrive.
-
--*who_zinton
-      Enfin tu le verras.
-
--*who_armetzar
 Ouy, de ce fils Illustre et rempli de vaillance
 Sire, j'attens la vûe avec impatience,
 Il ne vous manquoit plus que ce fidelle appuy,
@@ -339,169 +344,14 @@ Le Ciel visiblement à ce coup vous assiste,
 Et ce fils paroissant, en vain Quinsay resiste.
 Mais, Organte, qui voy-je, et quel est mon destin ?
 
--*who_organte
-C'est le méme, Seigneur, que j'ay vû ce matin,
-Et son maître sans doute est le Prince Vanlie.
-
--*who_armetzar
 Dieux ! mon esprit s'egare, et ma raison s'oublie.
 Quoy, ce cher inconnu seroit fils de Zinton !
 
--*who_organte
-Sa surprise, Seigneur, à la vôtre repond :
-Mais il faut l'imiter, et cacher ce grand trouble⁎.
-
-**** *book_ *id_I04 *act_I *date_1656 *creator_chappuzeau
-
--*who_zinton
-Je te revoy, mon fils, et mon plaisir redouble
-Lors que je te revoy pour offrir à ton bras
-Un Illustre exercice, et pour toy plein d'appas.
-Si tes yeux en treuvoient à courir mes provinces,
-Si tu sors d'une école utile à tous les Princes,
-Qui peuvent mieux d'un peuple appaiser les clameurs
-Connoissans de chacun le langage et les mœurs :
-Vien voir si les combats te plairont davantage,
-Vien me vanger icy d'un trop sensible outrage⁎
-Vien soûtenir ma gloire⁎, et dans ce noble employ
-Te montrer digne fils d'un pere tel que moy.
-Mais ce discours t'etonne⁎, et semble te confondre,
-Tu parois interdit⁎, et n'oses me repondre.
-
--*who_vanlie
-Destiné dans ce jour à de si grans exploits,
-Sire, un exces de joye a retenu ma voix.
-Ravi de voir un pere estimer mon courage,
-Je le sens qui s'eleve au dessus de mon âge,
-Et qui s'oze promettre en s'employant pour vous,
-D'obliger le Tartare à fuir mes premiers coups.
-Ouy, Sire, et j'ose encor promettre davantage,
-Dans ce retour heureux, des fruits de mon voyage.
-Sur le bruit que Sanga contre vous revolté,
-Pour comble de son crime et de sa lâcheté
-Ouvroit à l'ennemy cette puissante ville,
-J'ay crû qu'un pront secours pourroit vous être utile,
-Il marche sur mes pas, et j'ameine avec moy
-Trente mille Chinois pleins de zele et de foy.
-
--*who_zinton
-Approche derechef, mon fils, que je t'embrasse,
-Et daigne apres soûfrir ce guerrier en ma place ;
-Tu dois à mon exemple honnorer sa vertu⁎
-Qui releve aujourd'huy mon Estat abbatu ;
-Ses soins en ton absence ont assuré ma tête,
-Contre le coup fatal d'une noire tempête,
-Et j'allois succomber sous le dernier malheur,
-S'il n'avoit à ses traits⁎ opposé sa valeur⁎.
-Il s'est jetté pour moy dans des perils extremes ;
-Enfin, tu dois, mon fils, le cherir si tu m'aimes.
-
--*who_vanlie 
-Estant aimé de vous, Sire, je l'aime aussi :
-Mais j'entre en méme temps dans un juste soucy⁎.
-Sanga par tous moyens tasche de vous détruire,
-Et de pires que luy s'osent icy produire ;
-Leur audace s'accroist plus vous les elevez,
-Et vous connoissez mal ceux dont vous vous servez.
-
--*who_armetzar
 Ha Dieux ! je suis perdu, ce discours me regarde.
 
--*who_vanlie
-Sire, la defiance est une seure garde,
-Et les Roys dont le thrône est envié de tous,
-Autant que de sujets ont souvent des jaloux.
-Non, que ce grand eclat⁎ des têtes couronnées
-N'imprime du respect à des ames bien nées,
-Et qu'un peuple qui sert avec fidelité
-Ne porte tous ses vœux à leur felicité.
-Mais quand lassez d'un joug que les Dieux leur imposent
-Des sujets à leur Prince indolemment s'opposent,
-Il doit les prévenir, et dans ce mal commun
-Se defier de tous, ou n'en craindre pas un.
-Sire, ne soufrez pas que chacun vous approche,
-La haine sçait cacher les traits⁎ qu'elle decoche,
-Ce n'est pas de ces murs qu'ils vous sont tous lancez,
-Et tous vos ennemis n'y sont pas ramassez.
-Enfin c'est vôtre fils qui craint pour vôtre vie,
-Qu'il void de toutes parts ardemment poursuivie,
-Et qui ne s'est hasté de se rendre vers vous,
-Que pour en detourner de si funestes coups.
-
--*who_zinton
-J'approuve tes conseils, et je veux bien les suivre,
-Des maux qui m'attaquoient ton retour me delivre,
-Et voyant ta prudence egale à ta valeur⁎,
-En vain mes ennemis se flattent de la leur.
-Ouy, Sanga doit perir avec tous ses complices,
-Je medite pour eux les plus affreux supplices,
-Et veux que cette ville avant la fin du jour
-Par sa punition apprenne ton retour.
-Mais soufre que Phocate ayt part à cette gloire⁎.
-
--*who_vanlie
-Je luy cede déjà l'honneur⁎ de la victoire,
-Et j'attens de son bras beaucoup plus que du mien.
-
--*who_zinton
-Et moy j'espere tout d'un si ferme lien.
-Je veux dés ce matin que le conseil s'assemble ;
-Il faut que j'y donne ordre, et je vous laisse ensemble.
-Vous, Prince, suivez moy.
-
--*who_armetzar
       Rasseure toy, mon cœur,
 Et de tes faux soupçons condamne la rigueur.
 
-**** *book_ *id_I05 *act_I *date_1656 *creator_chappuzeau 
-
--*who_vanlie
-C'est trop, il faut enfin pour étaler ma joye,
-De méme que mes bras, que mon cœur se deploye.
-Prince, qui l'auroit crû, que je pûsse en ces lieux
-Posseder un amy qui m'est si precieux !
-Car de quelque côté que ce bon-heur me vienne
-Je n'examine point quel sujet vous ameine,
-Et je sçay qu'Armetzar est né d'un trop bon sang⁎
-Pour former des projets indignes de son rang.
-Si le grand Tamerlan est sur nôtre frontiere,
-Je connois de son fils la vertu⁎ tout entiere,
-Et ne puis soupçonner d'aucune trahison
-Celuy qui s'est rendu l'appuy de ma maison.
-Si j'ay de méme osé passer dans vôtre Empire,
-Si pour ce beau sejour mon cœur encor soûpire,
-Le seul desir de voir bornoit tout mon dessein.
-Mais comment pus-je alors m'arracher de son sein !
-Prince, j'y vids d'abord ma liberté ravie,
-Ma curiosité de cent maux fut suivie ;
-J'y brûlay d'un beau feu⁎, sans oser l'adoucir
-Par la moindre parole ou le moindre soupir.
-Ouy, j'aimay sans me plaindre, et dans cette soufrance
-Je n'osay me flatter de la moindre esperance.
-Pour le divin objet⁎ qui causoit mon trepas,
-Vanlie estoit suspect, Phocate étoit trop bas,
-Je devois attirer son mepris ou sa haine,
-Et mon ame par tout se treuvoit à la gesne⁎.
-Enfin je le quittay : mais des yeux seulement,
-Je ne pouvois plus vivre et cacher mon tourment,
-Et comme un pront eclair qui vient percer la nue,
-Ma flame⁎ alloit bien-tost forcer ma retenue.
-Voyant qu'à ses transports⁎ mon cœur s'étoit rendu,
-Il fallut eviter ce qui m'auroit perdu ;
-Le temps me rappellant, le Ciel m'étant contraire,
-L'un et l'autre rendoient mon depart necessaire :
-Mais, Prince, en vous disant un si cruel adieu,
-Mon cœur ne sortit point de cet aymable lieu ;
-Si j'ay depuis erré de Province en Province,
-On n'a vu que le corps d'un miserable Prince
-Feblement animé d'un reste de chaleur
-Pour être seulement sensible à la douleur.
-Enfin je vous revoy, cher Prince, et j'ose croire
-Que deux ans n'auront pû m'oster vôtre memoire,
-Et que j'ay part encore à vôtre affection⁎
-Qui fait toute ma gloire⁎ et mon ambition.
-
--*who_armetzar
 Avec trop de justice elle vous est aquise,
 Mais c'estoit en user avec peu de franchise
 De me cacher les maux où vous etiez plongé,
@@ -511,19 +361,6 @@ Vôtre flame⁎ à présent n'a rien qui la contraigne,
 Et elle peut devant moy sortir en liberté,
 Et donner à vos feux⁎ une entiere clarté.
 
--*who_vanlie
-Dois-je m'imaginer que vôtre ame l'ignore,
-Et faut-il que j'irrite un feu⁎ qui me devore ?
-Il n'a que trop d'ardeur⁎, et c'est mieux l'allumer,
-Que me vouloir encor contraindre à la nommer.
-Ouy, l'objet⁎ qui m'enflame est un tresor celeste
-Qui de mille vertus le brillant manifeste ;
-C'est un digne chef-d'œuvre, où l'on peut assez voir
-Que les Dieux ont alors epuisé leur sçavoir ;
-C'est l'œil de vôtre Empire et l'honneur⁎ de l'Asie :
-N'est-ce pas dire assez que j'adore Hermasie ?
-
--*who_armetzar
 Ma sœur eut dû répondre à des vœux si zelez,
 Si vos feux⁎ trop discrets ne les eussent celez.
 Je vous aurois alors rendu de bons offices,
@@ -531,17 +368,6 @@ Et vôtre seul silence a fait tous vos suplices.
 Mais pour n'avoir daigné me donner ce soucy⁎,
 Vous dispenserez vous de me servir icy ?
 
--*who_vanlie
-Le craignez vous, cher Prince, et n'ay-je pas d'un Pere
-Le doux commandement de vous tenir pour frere ?
-Il est vray qu'Armetzar n'en sçauroit être aimé,
-Que de Phocate seul son esprit est charmé ;
-C'est luy qu'il veut que j'aime, et j'aurois l'ame ingrate⁎,    
-Si je n'aimois autant Armetzar que Phocate.
-Ouy, Prince, assurez vous de recevoir de moy
-Tout ce que peut produire une immuable foy.
-
--*who_armetzar
 J'oseray tout vous dire apres cette assurance,
 Et deja vôtre aveu m'en donne la licence.
 J'aime donc comme vous un objet⁎ glorieux⁎
@@ -581,15 +407,6 @@ J'ay suivi tous les pas d'un amy vertueux⁎ ;
 Desormais à Zinton j'ay voüé mon service⁎,
 N'est-ce pas dire assez que j'adore Ladice ?
 
--*who_vanlie
-Ma sœur à plus d'honneur⁎ ne pourroit aspirer,
-Et si ceux que pour elle on a vû soûpirer
-Toûjours de ses regards se sont treuvez indignes,
-Si malgré leur constance et leurs travaux insignes
-Des mille adorateurs aucun n'en fut souffert⁎,
-C'est qu'Armetzar encor ne s'étoit pas offert.
-
--*who_armetzar
 Prince, cet Armetzar que vôtre amitié flatte
 N'a guere plus d'espoir que l'indigne Phocate,
 Et si de sa naissance il tire quelque appuy,
@@ -597,285 +414,6 @@ Cette méme naissance augmente son ennuy⁎.
 Tamerlan est mon pere, et l'ennemy du vôtre,
 Et je voy tout à craindre et pour l'un et pour l'autre.
 
--*who_vanlie
-Dans ces extremitez qui troublent⁎ nos amours,
-Allons de la prudence, appeler le secours.
-Peres, que vôtre haine à vos enfants cruelle
-Va produire en ce jour une étrange⁎ querelle,
-Et que l'ambition commune à vôtre rang
-Nous va faire verser et de pleurs et de sang !
-
-**** *book_ *id_II01 *act_II *date_1656 *creator_chappuzeau
-
--*who_iliane
-Quoy, parêtre si triste⁎ en un jour plein de joye !
-C'est peu goûter les biens que le Ciel vous envoye.
-Un pere si cheri, le plus juste des Roys
-Que Phocate a sauvé pour la seconde fois,
-Qui comme un bon demon⁎ qui veille pour sa vie
-Vient de la garentir du coup qui l'eût ravie,
-Et s'est mis au devant des parricides mains
-Qui vouloient nous ôter le plus grand des humains :
-Un frere qui retourne, et de qui la presence
-D'un peuple mutiné va brider l'insolence,
-Pour lequel chaque jour vous faisiez des souhaits ;
-Tout cela ne rend point vos esprits satisfaits !
-
--*who_ladice
-Tu ne me parles point des fureurs⁎ d'une guerre
-Qui vient insolemment menacer nôtre terre,
-Tu ne me parles point de l'eternel effroy⁎
-Où ce coup evité me jette pour le Roy.
-Car cette trahison que d'autres peuvent suivre
-A de justes terreurs incessamment me livre,
-Et me répondras tu que nous ayons toûjours
-Qui d'une egale ardeur⁎ prenne soin de ses jours ?
-Mais mon cœur soufre encore une plus rude gesne⁎,
-J'ay bien d'autres soucis dont le courant m'entraisne,
-Le reste de mes maux ne t'est pas evident.
-
--*who_iliane
-Serois-je criminelle en vous les demandant ?
-
--*who_ladice
-Iliane, à la fin puis qu'il te faut tout dire,
-Phocate a des vertus⁎ qui font que je l'admire ;
-Je l'estime, et voudrois pouvoir moins l'estimer,
-Je crains qu'en l'estimant je ne vienne à l'aimer,
-Que mon ame ebranlée à ce point se ravale,
-Que j'ecoute une amour à ma gloire⁎ fatale,
-Et pour mieux m'abuser dans cet indigne choix
-Que je rappelle alors tout ce que je luy dois !
-A nous persüader l'amour a tant d'adresse,
-Qu'il semble nous guerir dès que son trait⁎ nous blesse,
-Et tout ce qu'il propose à nos sens egarez
-Nous deguise les maux qu'il nous a preparez.
-Non, non, ne soufrons pas qu'une aveugle puissance
-Prenne sur ma raison cette injuste licence,
-Prevenons de bonne heure un si lasche desir,
-Si nous voulons aimer, pensons à mieux choisir ;
-La gloire⁎ de mon sang⁎ qui hautement éclate⁎
-Seule peut me donner du mepris pour Phocate,
-Et de ce qu'il a fait separant ce qu'il est
-Ne regardons en luy que ce qui nous deplaist.
-Moy ! cherir un sujet ! je m'abusois sans doute ;
-L'amour en sa faveur n'a rien que je redoute,
-Et du rang où je suis je ne puis decouvrir
-Que le fils du grand Cham⁎ digne de me servir.
-Je veux te l'avoüer, mon frere à sa venue
-De ce Prince en secret m'a fort entretenue,
-Il me l'a tout depeint, et suivant son rapport
-Il ressemble à Phocate et de taille et de port.
-Il m'a plus dit encore, il ajoûte qu'il m'aime,
-Que ma vûe a rendu sa passion extrême.
-
--*who_iliane
-Madame, où pourroit il avoir eu cet honneur⁎ ?
-
--*who_ladice
-Mon portrait en ses mains arriva par bon-heur ;
-Sur un peu de beauté que le pinceau me donne
-Son cœur croyant ses feux⁎ à l'amour s'abandonne,
-Et mon frere passant inconnu dans sa cour,
-Fut témoin, m'a-t-il dit, de ce naissant amour.
-Enfin, chere Iliane, il veut qu'il dure encore,
-Que l'Illustre Armetzar plus que jamais m'adore,
-Qu'il me void, qu'il me parle et me suit en tous lieux,
-Et qu'à ma seule image il daigne ouvrir les yeux ;
-Qu'il deteste en son cœur les desseins de son pere,
-Qu'il abhorre sa haine, et qu'il s'en desespere,
-Et que pour m'acquerir il voudroit que la paix
-Par de fermes liens nous unist pour jamais.
-Helas ! puis-je esperer ces douces destinées !
-Pourray-je voir par là nos guerres terminées,
-Et respirer enfin deux peuples ennemis
-Apres les feux⁎ cruels que leur rage a vomis !
-
--*who_iliane
-Mais sur ce feble espoir l'aimeriez vous, Madame ?
-Auroit il pû déjà treuver place en vôtre ame,
-Et qui de vos Estats se rend l'Usurpateur
-Seroit il estimé plus qu'un Liberateur ?
-
--*who_ladice
-C'est par là que je voy que mon frere s'abuse,
-Et sa credulité de la mienne est l'excuse.
-Quoy que cette alliance eust pour moi de l'eclat⁎,
-Je portois mes desirs au seul bien de l'Etat.
-Si j'avois de l'amour, c'étoit pour la Patrie,
-Des maux qu'elle a soufferts mon ame est attendrie,
-Et lors que j'ay prêté l'oreille à ce discours,
-Mon cœur en l'approuvant luy cherchoit du secours.
-
--*who_iliane
-De si beaux sentimens sont dignes de vôtre ame ;
-Pour un plus digne amant⁎ on veut qu'elle s'enflame.
-Comme sa passion n'a jamais fait de bruit,
-Ses seules actions en poursuivent le fruit,
-Et le profond respect que pour vous il conserve,
-Fait que depuis un mois de plus pres je l'observe.
-Loin de vous il soûpire, et de vray je le plains.
-
--*who_ladice
-Ce n'est point Artaban, comme tu le depeins,
-Ce fils de Zarimene à ma perte obstinée,
-Qu'en un second hymen mon Pere a couronnée,
-Cet objet⁎ importun qui toûjours s'offre à moy.
-
--*who_iliane
-Non, Madame.
-
--*who_ladice
-      Qui donc ?
-
--*who_iliane
-      Phocate, à qui le Roy…
-
--*who_ladice
-Garde toy de poursuivre, et cache dans ton ame
-Un aveu qui le perd et te couvre de blame.
-Es tu sa confidente à me parler ainsy ?
-De son indigne amour as tu pris le soucy⁎ ?
-Apren mieux, Iliane, à connoître Ladice,
-Un seul de mes regards suffit pour son supplice,
-Et cet audacieux, quoy qu'il ayt fait pour nous
-En s'elevant trop haut doit craindre mon couroux.
-Mais helas ! ce couroux s'aigrit contre moy méme :
-Dieux, que ne puis-je voir, si vous voulez que j'aime,
-Armetzar de Phocate emprunter la vertu⁎,
-Ou de l'eclat⁎ de l'un voir l'autre revêtu !
-Non, non, c'est trop en vain que mon esprit se flatte,
-Et je ne puis aimer Armetzar ny Phocate,
-L'un merite ma haine, et l'autre mon mepris,
-Et de plus dignes feux⁎ mon cœur doit être epris.
-Mais changeons de discours, j'aperçoy Zarimene,
-Cette injuste marâtre et trop superbe⁎ Reine.
-
-**** *book_ *id_II02 *act_II *date_1656 *creator_chappuzeau
-
--*who_zarimene
-Je viens mesler ma joye à vos ravissemens,
-Et nous devons au Ciel mille remercimens ;
-Il me rend un mary lors qu'il vous rend un pere,
-Sa bonté nous conserve une teste si chere,
-Et de la trahison qui conspiroit sa mort
-Le fidelle Artaban a sçû rompre l'effort.
-
--*who_ladice
-D'un service⁎ si rare et digne de memoire
-J'apprens qu'un seul Phocate a remporté la gloire⁎,
-Et je n'ay point oüy nommer d'autres que luy.
-
--*who_zarimene
-Si vous le soûtenez, ce n'est pas d'aujourd'huy.
-
--*who_ladice
-Je soûtiens sa vertu⁎, qui veut que je l'honnore.
-
--*who_zarimene
-Mon fils n'en a pas moins, si vôtre cœur l'ignore.
-
--*who_ladice
-C'est qu'il a le malheur de ne la pas montrer.
-
--*who_zarimene
-C'est plustot qu'en vôtre ame elle ne peut entrer.
-
--*who_ladice
-C'est assez d'obseder l'esprit du Roy mon pere.
-
--*who_zarimene
-C'est trop en avancer sans craindre ma colere.
-
--*who_ladice
-Je la meprise fort, et je suis dans un rang
-Où je redoute peu celles de vôtre sang⁎.
-
--*who_zarimene
-C'est traitter une Reine avec trop d'insolence.
-
--*who_ladice
-C'est user envers moy de trop de violence.
-Je suis fille de Roy, vous fille d'un sujet,
-Et ce discernement detruit vôtre projet.
-Si par un coup du sort, et de bon-heur extreme
-On vous void partager l'eclat⁎ du Diademe⁎,
-Moy qui dans ma maison puis conter deux cens Roys,
-A cherir Artaban je me ravalerois !
-Car, Madame, à la fin je sçay vôtre pensée,
-Vous souffrez⁎ qu'il nourrisse une ardeur⁎ insensée,
-Et poursuive un dessein trop haut, trop dangereux,
-Qui le rend criminel sans qu'il le rende heureux.
-Je sçay bien le respect que je dois à la Reine :
-Mais je connois aussy le fils de Zarimene,
-Et si j'avois pour luy de si lasches bontez,
-Il me faudroit descendre alors que vous montez.
-
--*who_zarimene
-Fille, qu'un fier⁎ orgueil trop puissamment domine,
-Ignorez vous l'eclat⁎ qui suit la Cocinchine,
-Cette grande Province où je donnois mes loix
-Avant que de Zinton j'eusse accepté le choix.
-Je ne decouvre point malgré vôtre arrogance
-Tant d'inegalité dedans cette alliance ;
-Et si vous vous vantez d'une suitte d'ayeulx
-Qui depuis deux mille ans ont regné dans ces lieux,
-Les miens plus d'une fois ont partagé leur gloire⁎,
-Et jusques dans ces murs étendu leur victoire.
-Artaban descendu de ces grands conquerans
-N'est pas tant eloigné du rang de vos parens,
-Et lors que de Zinton il recherche la fille,
-Il ne peut apporter de honte à sa famille.
-
--*who_ladice
-Avec tout cet esclat il releve de nous,
-Et je voy ses pareils pendans à nos genoux.
-Si quelques febles traits⁎ d'une beauté commune
-Ont pû vous aquerir cette haute fortune,
-Elle ne s'étend point jusques à vôtre fils
-Qui doit borner sa gloire⁎ à nous être soûmis.
-
--*who_zarimene
-C'est par trop endurer d'un insolent caprice,
-Le Roy vient à propos pour m'en faire justice :
-Mais il faut à present luy cacher mon depit,
-Et pour mieux me vanger, feindre qu'il s'assoupit.
-
-**** *book_ *id_II03 *act_II *date_1656 *creator_chappuzeau 
-
--*who_zinton
-Madame, et vous, ma fille, apres le noir orage
-Que vient de dissiper ce genereux⁎ courage,
-Phocate, à qui je dois derechef la clarté,
-Rendez à sa vertu⁎ ce qu'elle a merité.
-Par luy je vis encore, et j'evite la honte
-Qui suivoit une mort trop indigne et trop pronte.
-Sanga la veut enfin, le traître qui me hait
-Croit que m'ayant perdu son bon-heur est parfait,
-Et déjà par deux fois il attente à ma vie,
-Qu'autant de fois Phocate arrache à son envie.
-Ouy, si le Ciel permet qu'en ses lâches desseins
-Ce perfide⁎ à son gré treuve des assassins ;
-Le méme Ciel permet avec plus de justice
-Qu'une main me retienne au bord du precipice,
-Et que dans des perils qui menacent beaucoup
-Un œil toûjours veillant m'avertisse du coup.
-Phocate, il est donc temps que ma reconnoissance
-Honnore icy ton zele et ta rare vaillance ;
-Qu'apres m'avoir vangé d'un temeraire effort,
-Je te vange à mon tour de l'injure du sort,
-Et que n'estant pas né maître d'une Province,
-Je t'eleve au dessus du plus superbe⁎ Prince.
-Ouy, n'attens point de moy que de dignes presens,
-A peine mes Estats seroient ils suffisans,
-Et pour te bien payer d'un service⁎ si rare,
-Il faut y joindre encor tout l'Empire tartare,
-Si Tamerlan m'attaque, allons le devancer,
-Tu dois m'aider toy méme à te recompenser ;
-Et s'il faut trop attendre apres un tel salaire,
-Phocate, cependant j'ay des biens à te faire.
-
--*who_armetzar
 Sire, pour tant de gloire⁎ et de felicitez
 Il faudroit que Phocate eust d'autres qualitez,
 Qu'il eust plus fait pour vous, et par d'autres services⁎
@@ -887,57 +425,14 @@ Qu'elle exige encor plus de mon obeïssance,
 Et me donne moyen de pouvoir assouvir
 La forte passion que j'ay de la servir.
 
--*who_zarimene
-Ouy, cette passion nous est assez connue,
-Vous la cachez en vain soûs trop de retenue,
-Et j'en ay toûjours fait un digne jugement.
-
--*who_artaban
-Recevez d'Artaban le méme compliment.
-
--*who_vanlie
-Et moy, brave Phocate, avec plus de franchise
-De cette passion j'admire l'entreprise ;
-Je voy qu'elle vous porte à des périls si grans,
-Que tous autres objets⁎ vous sont indifferens,
-Que tout entierement vers mon pere elle panche,
-Que son salut vous touche, et croyez en revanche
-Si je vous prise moins que vous ne meritez,
-Que je vous aime autant que vous le souhaittez.
-
--*who_ladice
-Ayant la méme part dans le Salut d'un pere
-Qu'en peuvent icy prendre et la Reine et mon frere ;
-Si je suis la derniere à vous remercier,
-Mon cœur loüant vos soins ne peut les oublier.
-
--*who_armetzar
 Confus de tant d'honneur⁎, à peine mes oreilles
 Osent donner creance à des faveurs pareilles,
 Et je ne puis répondre aux biens qu'elles me font
 Que par mon seul silence et mon respect profond.
 
--*who_zinton
-C'est trop de modestie, et toute ma famille
-Void avec quel eclat⁎ chez nous ta vertu brille ;
-Elle veut l'honnorer, et tu dois le soufrir,
-Et ton Roy qui te parle a bien plus à t'offrir.
-S'il te semble donc trop d'accepter ma couronne,
-Accepte pour jamais le soin de ma personne,
-Ne l'abandonne point, et proche d'un combat
-Où je dois craindre encor la main d'un scelerat,
-Que pour mieux satisfaire à sa cruelle envie
-Tamerlan peut induire à m'arracher la vie,
-Sois prest à repousser cet acte injurieux.
-
--*who_armetzar
 O d'un timide Roy soupçon trop odieux !
 Amour veux tu forcer la nature à se taire !
 
--*who_zinton
-Dans ce nouveau peril sois mon Dieu Tutelaire.
-
--*who_armetzar
 Vous n'avez pas besoin pour vaincre ce malheur        
 D'autres soins, d'autres Dieux, que de vôtre valeur⁎,
 Sire, et tout ennemy qu'il est de vôtre gloire⁎,
@@ -957,224 +452,15 @@ Par ce que vous feriez jugez ce qu'il peut faire,
 Et ne pouvant avoir de lasches mouvemens,
 Gardez pour vos egaux les mémes sentimens.
 
--*who_zinton
-Ton discours genereux⁎ a rassuré mon ame ;
-De ce honteux soupçon moy méme je me blame,
-Je n'apprehende plus un sort si rigoureux,
-Et je croy comme Toy Tamerlan genereux⁎,
-Mais enfin il m'attaque, et je dois me defendre,
-Et ces murs orgueilleux attendent à se rendre
-Que la fin du combat puisse les eclaircir
-Auquel des deux partis ils doivent obeïr.
-Mais je veux un moment sur chose d'importance
-Entretenir la Reine et loin de ta presence :
-Artaban, comme luy retirez vous d'icy ;
-Vous, mon fils, demeurez ; et vous, ma fille, aussy.
-
-**** *book_ *id_II04 *act_II *date_1656 *creator_chappuzeau 
-
--*who_zinton
-La chose est d'importance, et je veux qu'on l'avoüe.
-Madame, la vertu merite qu'on la loüe :
-Mais si jamais son prix n'êtoit plus fructueux,
-On verroit soûs le Ciel bien moins de vertueux.
-Un service⁎ payé par de belles paroles
-Repaist qui l'a rendu d'esperances frivoles ;
-Et l'oblige souvent, n'en voyant point l'effet,
-S'il faut qu'il serve encor, de servir à regret.
-Non, non, ne croyons pas que ceux qui nous adorent
-Soient exents pres de nous d'ennuys⁎ qui les devorent,
-Et que lors que leurs soins sont mal recompensez,
-Ils ne plaignent leur temps et leurs travaux⁎ passez.
-Quand ou par negligence, ou par ingratitude⁎
-Ils reçoivent de nous un traittement si rude,
-Si leur front n'ose pas étaler leur douleur,
-Leur cœur bien-tost pour nous perd toute sa chaleur.
-Pour le vaillant Phocate ayons plus de justice ;
-C'est peu de le loüer apres un tel service⁎,
-Il luy faut un plus digne et plus seur payement,
-Et je vais luy donner un doux engagement.
-Ouy, je veux qu'en ce jour il entre en ma famille,
-Et que mon defenseur soit l'Epoux de ma fille.
-
--*who_zarimene
-Quoy, Sire, le plus juste et le plus grand des Roys
-Voudroit-il s'abaisser à cet indigne choix ?
-Et pour une vertu que mal on examine
-Mesler un sang⁎ impur au beau sang⁎ de la Chine ?
-Ce que Phocate a fait pour vôtre Majesté
-Doit déjà luy donner assez de vanité ;
-Un sujet ne peut trop acheter cette gloire⁎,
-Et si de son service⁎ il veut qu'on ayt memoire
-De quelque haut espoir qu'il se puisse flatter,
-Un Roy le paye assez en daignant l'accepter.
-Mais enfin sa valeur⁎ n'a rien que d'ordinaire,
-Et qu'est ce qu'il a fait qu'un autre n'ayt pû faire.
-Ne precipitez rien, Sire, et craignez plûtost
-De vous donner un maître en l'elevant si haut.
-
--*who_zinton
-Vous, ma fille ; parlez.
-
--*who_ladice
-      Si je le puis sans crainte,
-Je diray que ce choix est plûtost une feinte,
-Et que vous voulez, Sire, en cette ocasion
-Eprouver mon respect et ma soûmission.
-Mais s'il m'y faut aussy donner quelque creance,
-Je diray que ce choix me feroit violence,    
-Et que trop de bontez vous ont fait oublier
-Que Ladice à ce point ne peut s'humilier,
-Qu'il me faut souvenir que Zinton est pere,
-Et pour son interest, que je dois luy deplaire.
-Phocate a des vertus, et nous les estimons,
-Et comme un bon sujet, Sire, aussy nous l'aimons :
-Mais s'il pretendoit plus, cet amour, cette estime
-Se tourneroient en haine et puniroient son crime,
-Et comme un vil mortel qui s'accompare aux Dieux
-Il courroit à sa chûte en échelant⁎ les Cieux.        
-Ainsy mes sentimens suivent ceux de la Reine,
-Et blament d'un sujet l'esperance trop vaine.
-
--*who_zarimene
-Prince, c'est vôtre tour.
-
--*who_vanlie
-      Et moy, Madame, et moy
-Contre vous et ma sœur je suis avec le Roy.
-
--*who_ladice
-Mon frere !
-
--*who_vanlie
-      Ouy, ma sœur.
-
--*who_zarimene
-      Quoy, Prince ?
-
--*who_vanlie
-      Ouy, Madame ;    
-Le Roy fait un choix juste, eloigné de tout blame,
-Et son repos demande en un si beau dessein
-Que vous le secondiez par un conseil plus sain.
-Plus que vous ne pensez il y va de sa gloire⁎,
-Et le gain de Phocate egale une victoire ;
-Dès que ce haut espoir luy deviendra permis,
-Il va vaincre le Cham⁎, ou va nous rendre amis.
-
--*who_zarimene
-Prince, à ce que je voy, la partie est trop forte.
-
--*who_ladice
-Je ne puis concevoir où vôtre esprit s'emporte,
-Vous oubliez…
-
--*who_vanlie
-      Ma sœur, il me souvient de tout,
-Vous devez obeïr quand le Roy s'y resout,
-Et peut être qu'un jour par un avis contraire
-Vous pourrez approuver ceux que vous donne un frere.
-
--*who_zinton
-Cessez, il me suffit que je les treuve bons,
-Je laisse vos conseils, et goûte ses raisons ;
-Et quoy qu'ouvertement vôtre cœur les combatte,
-Je veux qu'il les respecte, et ne voy dans Phocate
-Rien qu'on ne doive aimer, rien qu'on puisse haïr :
-Ma fille, apres cela, pensez à m'obeïr.
-
--*who_vanlie
-Si pour un Armetzar ce choix vous semble étrange⁎
-Ma sœur, avec Phocate on ne perd rien au change.
-
-**** *book_ *id_II05 *act_II *date_1656 *creator_chappuzeau
-
--*who_ladice
-Dans quels nouveaux soucis vient on de m'engager !
-J'entens parler de change⁎, et n'ay point à changer.
-Je hay cet Armetzar ennemy de mon pere,
-Et je hay plus encor ce sujet temeraire,
-Ce Phocate insolent, qui pour se voir flatté
-Croit que par un service⁎ il a tout merité,
-Croit s'attachant au pere en obtenir la fille,
-Et s'ouvrir aisement la porte en sa famille.
-Ha ! frere trop injuste, et trop peu vertueux,
-Dont le suffrage appuye un dessein si honteux ;
-Qui bien loin de combattre un choix que je deteste,
-Viens encore étonner⁎ tout l'espoir qui me reste,
-Et du fils du grand Cham⁎ m'ayant entretenu
-Ozes mettre en son rang un chetif inconnu ?
-Si pour un Armetzar ce choix me semble étrange⁎
-En acceptant Phocate on ne perd rien au change !
-      Elle reprend ces deux vers de son frere d'un ton different.
-Chasse, chasse, Vanlie, un penser criminel
-Qui veut aupres d'un Dieu faire asseoir un mortel.
-Mais helas qu'à mes vœux ce Dieu parest contraire,
-Tandis que ce mortel s'efforce de me plaire !
-Ou plûstôt qu'à mes yeux ce mortel est abjet,
-Et que ce Dieu leur est un agreable objet⁎ !
-Ouy, s'il me faut aimer, j'aime où la gloire⁎ eclate,
-Et s'il me faut haïr je ne hay que Phocate ;
-Je veux contre luy seul porter tout mon couroux,
-Il doit, il doit luy seul en ressentir les coups,
-Puisque sa seule audace a sçû porter mon pere
-A me faire aujourd'huy ce traittement severe.
-
--*who_iliane
-La Reine cependant,
-
--*who_ladice
-      M'estoit un feble appuy,
-Et parloit pour son fils en parlant contre luy.
-Phocate luy deplaist craignant que je ne l'aime,
-Et c'est de son esprit un digne stratagème.
-
--*who_iliane
-Mais, Madame, il s'approche, et ne redoute rien.
-
--*who_ladice
-Il vient pour son supplice autant que pour le mien :
-Mais voyons à quel point peut monter son audace.
-
-**** *book_ *id_II06 *act_II *date_1656 *creator_chappuzeau
-
--*who_armetzar
 Je viens icy, Madame, avec mauvaise grace,
 Et vous aurez sujet de vous plaindre de moy :
 Mais je croyois encore y rencontrer le Roy.
 
--*who_ladice
-Je tiens icy sa place, et pourray vous entendre ;
-Qu'avez vous à luy dire ?
-
--*who_armetzar
       A quoy me dois-je attendre ?
 Rien qu'on ne pust, Madame, un moment differer :
 
--*who_ladice
-D'une peine où je suis daignez donc me tirer.
-C'est un point important qui d'assez près me touche,
-Pour en vouloir encor l'avis de vôtre bouche.
-Le Roy qui sort d'icy me propose une amour,
-Dont il attend de moy réponce dans ce jour.
-Il faut vous l'avoüer, mon ame en sent du trouble⁎,
-Et méme en vous parlant ma peine se redouble.
-Et la Reine et mon frere étoient de son conseil,
-Mais sans avoir pourtant un sentiment pareil,
-Et je veux voir enfin où panchera le vôtre.
-
--*who_armetzar
 Je tiens celuy du Prince, et n'en suivray point d'autre.
 
--*who_ladice
-Icy la complaisance est tout ce que je hais.
-Cet amant⁎ donc qu'on m'offre a pour moy peu d'attraits⁎,
-Et manquant de l'eclat⁎ qu'apporte une couronne,
-Je ne decouvre rien d'aimable en sa personne.
-C'est un sujet enfin qu'on m'ordonne d'aimer,
-Et mon cœur doute fort qu'il s'en puisse enflamer.
-
--*who_armetzar
 Puisque vous l'ordonnez ; Madame, en ce rencontre
 Il faut que hautement vôtre vertu se montre,
 Et que considerant l'eclat⁎ de votre rang
@@ -1186,23 +472,10 @@ Et tacher de se rendre amy de Tamerlam.
 Ouy, du seul Armetzar soufrez l'obeïssance,
 Si sa vertu vous plaist autant que sa naissance.
 
--*who_ladice
-Il ne me plaist que trop s'il peut te ressembler ;
-Cruel, je te veux perdre, et tu veux m'accabler !
-Mais reprenons icy ma colere assoupie.
-Donc en autre que luy ce dessein est impie,
-Et vous blamez déjà ce sujet insolent ?
-
--*who_armetzar
 Ce procedé, Madame, êtant si violent,
 Me fait voir que la Reine en est l'injuste cause,
 Et que c'est Artaban que le Roy vous propose.
 
--*who_ladice
-Non, non, et c'est vous méme, il vous prefere à tous.
-Ne dissimulez point, répondez, m'aimez vous ?
-
--*who_armetzar
 S'il faut vous obeïr, et changer de martyre,
 Vous êtes la premiere à qui je l'ose dire.
 Ouy, Madame, et toûjours ce cœur⁎ ambitieux
@@ -1228,15 +501,6 @@ Qui loin de tout espoir peut encor vous deplaire,
 Resistez à Zinton qui veut vous y porter,
 Et n'aimez que celuy qui peut vous meriter.
 
--*who_ladice
-Cette confession m'instruit de vôtre audace ;
-Mortel, si près des Dieux ne cherchez point de place,
-Et pour fuir ma colere, abandonnant ces lieux
-Que Phocate jamais ne se montre à mes yeux.
-
-**** *book_ *id_II07 *act_II *date_1656 *creator_chappuzeau
-
--*who_armetzar
 Vous serez obeïe, ô Princesse adorable !
 Vous ne reverrez plus cet objet⁎ meprisable,
 Ce Phocate odieux que vous aviez charmé,
@@ -1250,9 +514,6 @@ Ouy, mon cœur, flattons nous d'un reste d'esperance,
 Et pour nous rendre encor dignes de son regard,
 Cessons d'être Phocate, et montrons Armetzar.
 
-**** *book_ *id_III01 *act_III *date_1656 *creator_chappuzeau
-
--*who_armetzar
 Pour flatter la douleur du tourment que j'endure,
 Je sens dedans mon cœur l'espoir se reveiller :
 Amour, qui fais ma peine, et soufres qu'elle dure,
@@ -1284,45 +545,13 @@ Obeïs au destin severe,
 Et s'il te faut combattre un pere,
 Combats, et meurs pour le vanger.
 
-**** *book_ *id_III02 *act_III *date_1656 *creator_chappuzeau
-
--*who_organte
-Seigneur.
-
--*who_armetzar
       Que me veux-tu ?
 
--*who_organte
-      Le Prince plein de joye…
-Mais le voicy déjà.
-
--*who_armetzar
       Que faut il que je croye !
 
-**** *book_ *id_III03 *act_III *date_1656 *creator_chappuzeau
-
--*who_vanlie
-Hé bien, mon cher Phocate !
-
--*who_armetzar
       Ha ! Prince, dittes mieux ;
 Armetzar est mon nom, l'autre m'est odieux.
 
--*who_vanlie
-Il n'est pas temps encor que ce beau nom éclate⁎,
-Et le Roy t'aime assez soûs celuy de Phocate,
-Puis qu'enfin à ta flame⁎ il accorde ma sœur,
-Et qu'il veut aujourd'huy t'en rendre possesseur.
-Tu peus t'imaginer si le desir du pere
-A treuvé dans le fils un sentiment contraire,
-Et si pour toy Vanlie en cette occasion
-A fait agir son zele et son affection⁎,
-Mais d'où vient que Phocate à son bon-heur rebelle
-Avec si peu de joye apprend cette nouvelle,
-Et qu'ayant fait parêtre une si belle ardeur⁎
-Il montre tout d'un coup un excez de froideur.
-
--*who_armetzar
 Amy, pourquoy veux tu que je m'en rejouisse,
 Si ta sœur s'en afflige, et soufre une injustice ?
 Tu connois mal ton sang⁎ de te persüader
@@ -1338,10 +567,6 @@ Par qui vos sentimens se treuvent combattus,
 Et qui seroient suivis en faveur de Phocate,
 Si la gloire⁎ chez elle estoit moins delicate.
 
--*who_vanlie
-Je t'entens, et ma sœur t'a fait un rude accueil ?
-
--*who_armetzar
 Tel que je meritois, digne d'un noble orgueil,
 Sa bouche en peu de mots m'en a sçû trop instruire,
 Et croyant m'assister tu viens de me détruire.
@@ -1356,29 +581,6 @@ Qu'à regner dans son cœur seulement il aspire,
 Qu'aux desseins de son pere il se veut opposer,
 Et que pour elle enfin il pourra tout ozer.
 
--*who_vanlie
-Amy, par ce discours tu previens mon envie,
-A de pareils desseins mon amour me convie,
-Elle sçait m'y porter d'un pouvoir absolu,
-Et mon cœur à les suivre est déjà resolu.
-C'est assez qu'Hermasie est au camp du Tartare,
-C'est assez qu'à demain le combat se prepare ;
-C'est assez pour m'instruire en ce pressant malheur
-A qui je dois donner des marques de valeur⁎.
-Car la victoire enfin se plaist à nous surprendre,
-Bien souvent au plus feble elle daigne se rendre ;
-Et si ton pere attaque, et le mien se defend,
-On a vû plusieurs fois l'attaqué triomphant.
-Ouy, dans ce jour fatal et ta sœur et la mienne
-Ont chacune besoin d'un bras qui les soûtienne ;
-Demeure avec Zinton, et luy prête le tien,
-Tandis qu'à Tamerlan je vais offrir le mien.
-Devien brave Chinois, comme moy bon Tartare,
-Que l'espace d'un jour la haine nous separe,
-Et qu'ayans renoüé nôtre belle amitié,
-De la victoire aprés chacun ayt sa moitié.
-
--*who_armetzar
 Dures extremitez ! fatale conjoncture !
 Où nous reduisez vous, amour, devoir, nature !
 Vous combattez encore, et je sens que mon cœur
@@ -1392,73 +594,21 @@ Mais puisqu'il faut trahir l'amour ou la Patrie,
 Puisqu'à l'une des deux il faut nuire en ce jour,
 Trahissons la patrie, et respectons l'amour.
 
--*who_vanlie
-Il faut plus faire encore, et nous trahir nous mémes,
-Et suivans de l'amour les volontez suprêmes,
-Pour demeurer amans devenir ennemis.
-
--*who_armetzar
 Aux mémes volontez tu vois mon cœur soûmis.
 
--*who_vanlie
-Ouy, plûtost qu'à l'amour le mien ozast deplaire,
-Je combattrois les Dieux, Armetzar et mon pere.
-
--*who_armetzar
 Ouy, plûtost qu'à l'amour je fusse injurieux,
 Je combattrois Vanlie, et mon pere et les Dieux.
 
--*who_vanlie
-Pardonne, cher amy, pardonne une saillie,
-Qui te fait voir assez que ma raison s'oublie.
-Quel penser odieux ! moy combattre Armetzar !
-Non, non, à ce transport⁎ tu n'as aucune part ;
-Et l'amour l'a produit, l'amitié le deteste,
-Fuyons, fuyons plûtost un sejour si funeste,
-Abandonnons ces lieux à l'injuste fureur⁎
-Dont ce cruel dessein veut decroître l'horreur.
-Mais helas ! dans ces lieux nous laissons nos maîtresses,
-Et c'est montrer encor de plus grandes feblesses.
-Allons, allons sauver et du fer⁎ et des feux⁎
-Ces aymables objets⁎ de nos plus tendres vœux ;    
-Et soûs de mémes noms, sous de semblables armes
-Allons verser du sang pour en payer leurs larmes.
-Ces armes et ces noms par leur egalité
-Nous feront reconnoître avec facilité,
-Et nous pourrons alors d'une noble colere
-Nous dire l'un à l'autre : amy, sers bien mon pere.
-
--*who_armetzar
 O rencontre facheux !
 
--*who_vanlie
-      O durs evenemens !
-
--*who_armetzar
 Quoy, cesser d'etre amis !
 
--*who_vanlie
-      Quoy, cesser d'etre amans !
-Mais c'est trop écouter une amitié si tendre,
-Tamerlan et Zinton ne veulent plus attendre ;    
-Afin que l'un et l'autre ayt en nous un soûtien,
-Suy mon pere au combat, j'y vais suivre le tien.
-
-**** *book_ *id_III04 *act_III *date_1656 *creator_chappuzeau
-
--*who_armetzar
 Effet prodigieux d'une flame⁎ amoureuse !
 Illustre emportement d'une ame genereuse⁎ !
 Couroux trop magnanime⁎ où l'on void eclater
 Tout ce qu'un grand amour peut faire executer !
 Organte, que dis tu de ce noble courage ?
 
--*who_organte
-Et pour vous, et pour luy j'apprehende l'orage,
-Et des desseins, Seigneur, si grands, si nouveaux
-Pourront laisser sans fruit de si dignes travaux⁎.
-
--*who_armetzar
 Il faut pourtant, Organte, il faut en entreprendre
 Qui m'élevent plus haut, et qui vont te surprendre.
 Avant ce dur combat, dont le succez douteux
@@ -1470,20 +620,11 @@ Elle a toûjours à craindre entre des bataillons ;
 Faisans perir un traître, ouvrons luy cette ville,
 Et qu'aujourd'huy Quinsay se rende son azile.
 
--*who_organte
-Seigneur…
-
--*who_armetzar
       Je l'ay bien dit, ce dessein te surprend :
 Mais je le treuve aîsé plus il me semble grand.
 Organte, à mon amour il n'est rien d'impossible,
 Et cette place enfin n'est pas inaccessible.
 
--*who_organte
-Le Roy pourtant suivy de cent mille Chinois
-N'a pû jusques icy la ranger soûs ses loix.
-
--*who_armetzar
 Ce que le Roy n'a pû suivi de cent mille hommes,
 Esperons-le de nous dans l'état où nous sommes.
 Un juste desespoir doit entreprendre tout,
@@ -1492,276 +633,9 @@ Mais peut être qu'Organte est d'un avis contraire ;
 Ouy, quitte ce respect, fuy loin d'un temeraire,
 Laisse perir tout seul un miserable amant⁎.
 
--*who_organte
-Seigneur, fuyez vous méme, et fuyez prontement.
-La Princesse survient.
-
--*who_armetzar
       Evitons sa presence.
 Suy, si tu veux, Organte.
 
--*who_organte
-      Ouy, faisons diligence ;
-Allons, Seigneur, allons, je vous suis en tous lieux.
-
-**** *book_ *id_III05 *act_III *date_1656 *creator_chappuzeau 
-
--*who_ladice
-Iliane, c'est luy qui se cache à mes yeux.
-L'insolent m'obeït, et le cruel me tue,
-Je hais egalement et je cheris sa vûe,
-Et sans les fieres⁎ lois que l'honneur⁎ me prescrit,
-Phocate tout entier vivroit en mon esprit.
-Mais helas ! je n'en puis aimer qu'une partie
-Trop au dessus de l'autre et trop mal assortie ;
-Je ne puis en aimer que la seule vertu,
-Mon cœur par sa naissance est toûjours combattu,
-Et durant ce combat où je me suis cruelle,
-Mon orgueil le bannit, mon amour le rappelle.
-Ouy, Phocate, revien : mais non, ne revien pas.
-Iliane, pourtant j'ay besoin de son bras :    
-Mais, Iliane, aussy j'en suis trop offencée ;
-Repren, repren mon cœur ta premiere pensée,
-Laisse agir ton couroux, et loin de le calmer,
-Souvien toy qu'un sujet s'est vanté de t'aimer.
-
--*who_iliane
-Mais un sujet, Madame, à qui le Roy presente
-Des biens et des honneurs⁎ par de là vôtre attente,
-Un sujet que son bras par de fameux exploits
-Malgré son mauvais sort peut mettre au rang des Roys,
-Et qui de Tamerlan abbatant l'arrogance
-Ira chez le Tartare établir sa puissance.
-Mais comment esperer qu'il s'en rende vainqueur
-Lors que vous le chassez avec tant de rigueur ?
-Et ne craignez vous point si proche d'un orage
-Où nous avons besoin de ce noble courage,
-Que le Roy contre vous hautement irrité
-De l'air imperieux dont vous l'avez traitté,
-Ne punisse un dedain qui tasche à lui soustraire
-Un serviteur si rare, un bras si necessaire,
-Et qu'il ne vous reproche avec juste raison
-Que pour la trop cherir vous perdez sa maison ?    
-Mais craignez plus encor les desseins de la Reine ;
-Autant que pour Phocate elle nourrit de haine,
-Autant de son absence elle va triomfer,
-Et l'amour de son fils pourra se rechaufer.
-Quoy que vôtre mepris l'ayt un peu refroidie,
-Ce pront éloignement la rendra plus hardie,
-Et bien-tost Zarimene aura porté le Roy
-A vous contraindre enfin d'en accepter la foy.
-
--*who_ladice
-Avant qu'à cet hymen je soûmette mon ame,
-Avant que d'Artaban…
-
--*who_iliane
-      Mais je le voy, Madame,
-Voicy déja l'effet de ce que j'ay predit.
-
--*who_ladice
-Le discours qu'il m'apprête aura peu de credit.
-
-**** *book_ *id_III06 *act_III *date_1656 *creator_chappuzeau
-
--*who_artaban
-Madame, ayant apris qu'on veut vous faire outrage⁎,
-Que contre vos desirs un pere vous engage ;
-Quelque dur traittement qu'il ayt receu de vous,
-Artaban vient encor s'offrir à vos genoux.
-Approuvez que ce bras s'employe à la ruine
-Du trop indigne epoux que le Roy vous destine,
-Commandez qu'il immole à vos ressentimens
-Cet objet⁎ de mepris qui cause vos tourmens ;
-Ouy, Madame, ordonnez, et je l'oze entreprendre.
-
--*who_ladice
-Et de quelle façon croyez vous vous y prendre ?
-Est ce en homme de cœur que vous m'allez vanger ?
-Est ce en lasche assassin en allant l'egorger ?
-Si vous voulez courir à la plus noble voye,
-J'apprehende qu'en vain votre bras ne s'employe ;
-Et si vous prenez l'autre, Artaban, pensez vous
-Des Dieux vangeurs du crime echaper le couroux ?
-
--*who_artaban
-Les Dieux dont un mortel deshonnore l'image,
-Comme il l'oze outrager⁎ veulent bien qu'on l'outrage⁎,    
-Et qu'il n'ayt pas le temps de courir aux moyens
-De reculer sa perte et rompre ses liens.
-Il faut que sur le champ le coupable perisse,
-Que d'une promte mort rien ne le garantisse,
-Et de quelque façon qu'on le veuille punir
-C'est toûjours justement que l'on y peut venir.
-Mais si l'audacieux qui vous oze pretendre
-Treuve encore en vous méme un azile où se rendre,
-Si celle qu'il offence est encor son appuy,
-Artaban, je l'avoüe, est trop feble pour luy ;
-Et quand je le vaincrois, je puis craindre, Madame,
-De rencontrer toûjours un Phoc    ate en vôtre ame,
-Et quelques grands dedains que vous ayez fait voir
-Toûjours sur vôtre esprit il aura du pouvoir.
-Si pourtant…
-
--*who_ladice
-      Achevez, je veux bien tout entendre.
-
--*who_artaban
-Madame, sans m'ouïr vous le pouvez comprendre :
-Voulez vous m'obliger à vous le repeter ?
-Dois-je encor vous le dire et vous le protester ?
-Mon cœur…
-
--*who_ladice
-      Finissez donc, j'attendois autre chose.
-Phocate de mes maux n'est pas la seule cause,
-Et sans me soucier de vos soupçons jaloux,
-Sçachez que je le hais : mais beaucoup moins que vous.
-Allez, si vous voulez, vous en plaindre à la Reine.
-
-**** *book_ *id_III07 *act_III *date_1656 *creator_chappuzeau
-
--*who_artaban
-M'en aller plaindre, ingrate⁎ ; ame fiere⁎ et hautaine !
-Non, non, suivons mon cœur un plus noble dessein,
-Et laissons reposer ce Phocate en son sein ;
-Puis qu'il en est encore aimé, quoy qu'elle dise
-Ne daignons pas troubler⁎ cette basse entreprise,
-Et pour mieux me vanger de tant d'indignité
-Laissons la consentir à cette lascheté.
-
-**** *book_ *id_III08 *act_III *date_1656 *creator_chappuzeau
-
--*who_zarimene
-Hé bien, as tu gagné quelque chose sur elle ?
-Mon fils, il faut enfin vaincre cette rebelle,
-Et ton bon-heur depend de l'hymen glorieux⁎
-Où nous devons porter ce cœur⁎ ambitieux.
-Que t'a donc reparti cette fiere⁎ Princesse ?
-
--*who_artaban 
-Qu'elle ne m'aime point, Madame, et je confesse
-Que si j'en suis haï, je l'aime aussy fort peu,
-Et que ses longs dedains ont amorti mon feu⁎.
-
--*who_zarimene
-Si pour elle, mon fils, ton amour est moins forte,
-Tu dois, tu dois cherir l'eclat⁎ qu'elle t'apporte,
-Ton pays aujourd'huy tributaire aux Chinois
-Peut par ce seul moyen s'affranchir de leurs loix,
-Et le Roy me promit qu'en devenant sa femme,
-Sa fille en méme temps approuveroit ta flame⁎.
-Menageant cet hymen, sçache que tout mon but
-Ne va qu'à t'exenter de ce honteux tribut,
-Et Ladice pour dot t'apporte davantage
-De ne plus t'abbaisser à rendre de l'hommage.
-Zinton te la donnant doit aussy t'accorder
-Que desormais en Roy tu puisses commander,
-Et que la Cocinchine en faveur de sa fille
-Participe à l'eclat⁎ dont reluit sa famille.
-Voila ce que j'ay crû te devoir enseigner ;
-Il est dur d'obeïr, il est doux de regner,
-Et quoy qu'on te rebute, et quoy que l'on t'outrage⁎,
-Mon fils, il faut poursuivre, et montrer du courage.
-Si Ladice te fuit, il faut à ses mepris
-Opposer constamment l'espoir d'un si haut prix.
-
--*who_artaban
-Madame, tous nos soins sont enfin inutiles,
-Elle a pour nous tromper des ruses trop subtiles ;
-Quoy qu'en vôtre presence elle ayt pû dire au Roy,
-Elle cherit Phocate, et luy garde sa foy.
-Tous ses emportemens ne sont rien qu'une feinte.
-
--*who_zarimene
-Banni, banni, mon fils, une si feble crainte,
-Ce Phocate est parti, ses rigueurs l'ont chassé,
-Tu ne t'en verras plus desormais traversé,
-Il quitte enfin la Cour, et j'ay sçû d'Iliane…
-
--*who_artaban
-De cet esprit rusé le trop fidelle organe !
-Qui pour ses volontez garde un profond respect
-Et de qui le rapport vous doit être suspect !
-Non, non, elle vous trompe ainsy que sa Maîtresse,
-Et Phocate est trop fier que le Roy le caresse.
-
--*who_zarimene
-Hé bien ! s'il oze encor se montrer en ces lieux,
-Va le perdre, mon fils, ou te cache à mes yeux.
-Va noyer dans son sang toutes ses esperances,
-Par cette juste mort va finir tes soufrances ;
-Ta mere apres ce coup sçaura faire ta paix,
-Va le perdre, te dis-je, ou ne me voy jamais ;
-Va sans deliberer, cherche, et revien me dire
-Qu'il est ou hors du monde, ou hors de cet Empire.
-
--*who_artaban
-Quelque besoin qu'on ayt de mon bras et du sien,
-Vous aprendrez bien-tost son trepas ou le mien.
-
--*who_ulanie
-Madame, c'est demain que le combat se donne,
-Et vous ôtez au Roy l'appuy de sa couronne.
-Je crains que son couroux, s'il en est eclaircy…
-
--*who_zarimene
-Tay toy, fille ignorante, et crain le mien aussy.
-
-**** *book_ *id_IV01 *act_IV *date_1656 *creator_chappuzeau
-
--*who_zinton
-Quoy tous deux à la fois, et mon fils et Phocate
-Abandonner mon camp ?
-
--*who_artaban
-      Sire, d'une ame ingrate⁎
-Vous ne pouviez attendre un autre traittement,
-Et Phocate tout seul merite châtiment.
-Sans doute que du Prince encor plein de jeunesse
-Il a sçû menager l'esprit avec adresse,
-Et porter son courage à quelque haut dessein
-Qu'enfante son audace et son espoir trop vain.
-Ne faisant que de naître une amitié si forte
-Me presageoit les maux où son ardeur⁎ l'emporte,
-Et cet audacieux qui vous derobbe un fils
-Va le laisser peut-être entre vos ennemis.
-Ou plustôt, si j'ozois decouvrir ma pensée,
-C'est que de trop d'honneurs⁎ cette ame embarassée,
-Voyant ce qu'on luy fait, sçachant ce qu'elle vaut,
-A redouté sa chûte en se treuvant si haut ;
-Et croyant que ces biens ne seroient pas durables
-Phocate a mieux aimé rejoindre ses semblables.
-Mais le Prince en ce cas ne peut l'avoir suivi,
-Et quelque autre malheur, Sire, vous l'a ravi.
-Voilà ce que je puis juger de leur absence.
-
--*who_zinton 
-Qu'on les cherche par tout, qu'on aille en diligence⁎.
-Ma fille assurement m'a causé ce malheur.
-Prince, vous jugez mal d'une insigne valeur⁎ ;    
-Je vous ay laissé dire, et n'ay pû qu'avec peine
-Ecouter un discours qu'a formé vôtre haine ;
-Et surpris comme vous de cet eloignement,
-Je scay pourtant en faire un autre jugement.
-
-**** *book_ *id_IV02 *act_IV *date_1656 *creator_chappuzeau
-
--*who_garde
-Le Prince est de retour, Sire, et par sa vaillance
-Quinsay vient de se rendre en vôtre obeïssance.
-
--*who_zinton
-Hé bien, Prince, voyez quel est ce haut dessein
-Qu'enfantoit leur audace et leur espoir trop vain.
-Vôtre envie a paru, cet exploit la châtie,
-Et Phocate sans doute étoit de la partie.
-Mais déjà mon transport⁎ me les fait decouvrir ;
-O mon fils ! ô Phocate ! auquel dois-je courir !
-
-**** *book_ *id_IV03 *act_IV *date_1656 *creator_chappuzeau 
-
--*who_armetzar
 Sire, voicy le bras qui vange vôtre offence,
 Mais de qui vous devez châtier l'insolence,
 Puisque sans prendre avis de votre Majesté
@@ -1833,35 +707,14 @@ Montré des cœurs soûmis et des esprits contens.
 Voilà ce que j'ay fait : mais, Sire, je m'oublie,
 C'est plustôt ce qu'a fait le seul nom de Vanlie
 
--*who_zinton
-Phocate, cependant qu'est devenu mon fils ?
-
--*who_artaban
-Sire, voilà le fruit de ces exploits hardis.
-Le Prince est mort sans doute.
-
--*who_armetzar
       Il vit, il vit encore.
 
--*who_zinton
-Où peut-il être donc ?
-
--*who_armetzar
       C'est un point que j'ignore :
 Mais je puis assurer qu'il n'a jamais rien sçû
 De ce hardi dessein que seul j'avois conçû.
 Sire, il est dans le camp, n'en soyez point en peine,
 Et si vous l'ordonnez, bien-tost je vous l'ameine.
 
--*who_zinton
-Mon esprit se void donc rassuré sur ce point.
-Ha Phocate ! ha mon fils ! que ne te dois-je point !
-Ouy, car il ne faut pas non plus que je m'oublie,
-Sois mon fils desormais de méme que Vanlie,
-Et si pour toy Ladice est un prix assez grand,
-Son pere te la donne, et se rend ton garend.
-
--*who_armetzar
 Sire, à ce haut honneur⁎ je ne dois pas m'attendre,
 Je ne suis pas d'un rang à le pouvoir pretendre,
 Et croy que la Princesse auroit peine à soufrir,
@@ -1871,7 +724,437 @@ Si par quelques moyens que mon ame m'inspire,
 La fille enfin venant à changer de rigueur,
 Le pere alors aussy ne changeoit point de cœur.
 
--*who_zinton
+      Ha ! Princesse, achevez,
+Et deployez les biens que vous me reservez,
+Puisqu'enfin d'Armetzar la fatale avanture
+Emeut vôtre pitié pour les maux qu'il endure,
+Puisqu'enfin par des soins qui me sont inconnus
+Je voy que vous sçavez d'où ces maux sont venus.
+Donc, divine Princesse, il n'est plus temps de feindre,
+Je dois tout esperer, ou bien je dois tout craindre.
+Mon sort est decouvert, vous sçavez qui je suis,
+Et pouvez d'un seul mot calmer tous mes ennuys⁎.
+Si tantost de Phocate un aveu temeraire
+A dû si justement aigrir vôtre colere,
+Armetzar desormais par un soin assidu
+Pourra-t-il regagner ce que l'autre a perdu ?
+Quand j'osay vous donner un conseil magnanime⁎,
+Vous parut-il alors injuste, ou legitime ?
+Si vous aviez sujet d'en mepriser l'autheur,
+Sera-t-il mieux receu d'un fidele imposteur ?
+Pourrez vous l'ecouter s'il le deduit encore ?
+Pourra-t-il s'introduire en ce cœur qu'il adore ?
+Princesse ; mais helas ! son crime s'aggrandit,
+Armetzar à son tour craint d'en avoir trop dit.
+
+Ha ! Princesse, quittez cette importune erreur ;
+L'amour seul nous anime, et non pas la fureur⁎.
+De nos peres cruels n'imitans point la haine,
+Un plus juste motif au combat nous entraîne ;
+Ou, si vous l'aimez mieux, tous deux vont recevoir
+Ce qu'inspire à leurs fils un mutuel devoir ;
+Armetzar doit ainsy cesser de vous deplaire,
+Et ne reconnoist plus que Zinton pour son pere.
+
+Apres ces mots charmans que ne pourray-je pas ?
+Et que ne doit on point esperer de mon bras ?
+Soûfrez donc, ma Princesse, apres cette assurance,
+Que j'aille retrouver Zinton en diligence⁎,
+Et recevoir de luy les ordres pour demain.
+
+      Ouy, fuyons, ma Princesse,
+Tamerlan suit mes pas, et le danger nous presse ;
+Le Roy parmy les siens ne s'êtant pû treuver,
+J'ay quitté le desordre, et viens pour vous sauver.
+
+C'est me traitter, Madame, avec trop d'injustice ;
+Où tend tout ce discours ? dequoy m'accuse-t'on ?
+N'ay je pas jusqu'au bout combattu pour Zinton ?
+Ouy, pour luy dans ce jour mon bras se deshonnore,
+Et c'est du sang⁎ des miens que ce fer⁎ fume encore.
+
+Vous laissez vous aller à de fausses allarmes ?
+
+Et par là justement, Madame, il s'est deceu⁎.
+Soûs le semblable nom, sous des armes pareilles
+Vôtre frere a trompé ses yeux et ses oreilles ;
+J'imitois son courage, et faisois pour les siens
+Tout ce qu'il pouvait faire à la gloire⁎ des miens.
+Devenus malgré nous ennemis l'un de l'autre,
+Il assistoit mon pere, et j'assistois le vôtre ;
+L'ardeur⁎ êtoit egale, et dans un nombre egal
+On n'eut jamais mis fin à ce combat fatal.
+Mais soûs trop d'ennemis vos troupes accablées,
+A leurs premiers efforts d'abord se sont troublées,
+Et les Chinois enfin d'un long siege affeblis…
+Mais Tamerlan s'avance, à ce coup je paslis.
+
+      Dieux ! appaisez mon pere…
+
+O mon pere !
+
+Par l'aveu de ce Prince il s'est trop fait entendre,
+J'aimois comme il aimoit, je n'ay pû m'en defendre,
+Nos crimes sont pareils, et j'ay pris le party
+De l'objet⁎ qui retient mon cœur assujetty.
+Mais quoy que dans des lieux chacun me fist caresse,
+Je n'aimois des Chinois que leur seule Princesse,
+Et n'osant de son pere abandonner le soin,
+De mes justes regrets le Ciel fut le témoin.
+Je combattois pour luy sans souhaitter sa gloire⁎,
+Je cherchois tout ensemble et fuyois la victoire,
+Et pour tout dire enfin, dans ce combat facheux
+Zinton avoit mon bras, et Tamerlan mes vœux.
+Ladice demandoit qu'en prenant sa querelle
+Armetzar combatist, et fust vaincu pour elle,
+Et si vous eussiez pû, Seigneur, ne vaincre pas,
+Eust elle aimé le fils d'un Prince mis à bas ?
+La victoire est enfin à qui l'a meritée,
+En vous la disputant je vous l'ay souhaittée,
+De pere et de maîtresse attaqué tour à tour
+J'ay tasché d'appaiser la nature et l'amour,
+Et j'aime mieux perir dedans cette avanture
+Que d'avoir etouffé l'amour ou la nature.
+Mais je ne puis perir, ô Prince genereux⁎ !
+Vous pardonnerez tout à ce fils amoureux⁎,
+Son crime fut forcé plûtost que volontaire,
+Et j'ay lieu d'esperer, mon juge êtant mon pere.
+
+Quel bonheur impreveu ! Dieux, que viens-je d'entendre ?
+Ha mon pere ! ha grand Roy ! que pourray-je vous rendre !
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_organte
+
+Seigneur, il ne faut pas consulter davantage,
+Evitez les perils où l'amour vous engage ;
+Voyez la foudre prête à tomber dessus vous,
+Et d'un pere irrité redoutez le courroux.
+Tamerlan à grans pas vers ce camp s'achemine,
+Et comme un gros torrent vient inonder la Chine ;
+Tout cede à sa valeur⁎, et ce grand Conquerant
+N'y peut donner de borne où l'Univers en prend.
+Jusques chez le Germain il a porté la guerre,
+Ses voisins allarmez au bruit de ce tonnerre,
+Le Dace, le Russite, et le fier⁎ Polonois
+Ont cherché leur azile au centre de leurs bois.
+L'Egypte qui portoit tant d'orgueilleuses têtes,
+N'a pû fournir qu'un mois au cours de ses conquétes ;
+Et Bajazet soûmis à ce bras redouté
+S'est vû traîner par tout avec indignité.
+Enfin mieux qu'un Cesar et mieux qu'un Alexandre,
+Il fait voir aujourd'hui sans les laisser reprendre,
+Sarmates, Otthomans, Mores humiliez,
+Et l'Europe, et l'Asie, et l'Afrique à ses piez.
+Quittez donc un party qui s'ouvre à sa victoire,
+Fatal à vos desirs ainsy qu'à vôtre gloire⁎,
+Et que de ses exploits cent peuples convaincus
+Vous degagent icy du nombre des vaincus.
+
+C'est se flatter, Seigneur, d'une vaine esperance,
+Il a vû cent beautez avec indifference,
+Et dans ses hauts desseins son cœur⁎ ambitieux
+Ne sçait point reverer cette sorte de Dieux.
+Il ne veut point d'obstacle au progrez de ses armes,
+Et ce sexe pour luy n'a que de febles charmes :
+Ladice est adorable, un grand peuple la sert,
+Mais Ladice est Chinoise, et c'est ce qui vous perd.
+Son pere qu'au combat le desespoir entraîne
+Nourrit pour vôtre Empire une eternelle haine,
+Et le fils du Grand Cham⁎ sans un nom emprunté
+De l'orgueilleux Zinton seroit peu respecté.
+A voir depuis deux mois l'air dont il vous caresse,
+Les discours qu'il vous tient avec tant de tendresse,
+Je veux croire avec vous qu'il sçait aimer sans fard :
+Mais il aime Phocate, et non pas Armetzar,
+Ce n'est que du premier qu'il vante le merite,
+L'autre n'a point de part à ce qu'il en medite,
+Et si quelque demon⁎ le vient desabuser,
+Vôtre amour envers luy sçaura mal s'excuser.
+Je voy qu'à vôtre perte enfin tout se prepare,
+Que tout est contre vous, le Chinois, le Tartare,
+Et que Ladice méme avec cette vertu
+Dont son divin esprit vous parest revêtu,
+Vous sçachant de naissance ennemy de son pere,
+Ou ne vous regardant qu'en sujet temeraire
+Ne peut avoir pour vous que haine ou que mepris.
+
+Avant que de l'amour vous sentissiez les traits⁎,
+Vous parliez autrement, vous detestiez la paix,
+Lors qu'avec Tamerlan vous gagniez des batailles,
+Lors que l'epée en main vous forciez des murailles,
+Quand par vôtre valeur⁎ l'Otthoman fut soûmis,
+Tout vous paroissoit juste, et vous êtoit permis.
+
+De vos fameux exploits c'est faire peu de conte,
+Les Scythes, les Persans les ont vûs à leur honte,
+Et sans vous vôtre pere en tous lieux redouté
+Auroit moins entrepris et moins executé.
+
+C'est trop luy demander, s'il s'agit de Ladice.
+Seigneur, où vos desseins peuvent ils aboutir ?
+Regagnez vôtre armée, et songez à partir.
+
+Ha Seigneur ! à mon tour je reçois un outrage⁎,
+Je ne vous quitte point au milieu de l'orage,
+Doutez vous de mon zele à mes justes avis,
+Et dois-je être blamé s'ils ne sont pas suivis ?
+Puisqu'il faut demeurer, faittes que la prudence
+Ayt de vos actions l'entiere surveillance ;
+Puisque Zinton vous aime et prise vos travaux,
+Soyez toûjours Phocate, et l'un de ses vassaux.
+Souvenez vous, Seigneur, que cet autre Phocate
+Dont le merite encore en vôtre Cour eclate,
+Sçût si bien autrefois soûs ce nom emprunté
+Aux yeux de Tamerlan cacher sa qualité,
+Que jamais on n'a sçû ce que j'en imagine.
+
+      Qu'il est grand Prince, et du sang⁎ de la Chine.
+
+Je le tiens de mes yeux, Seigneur, et viens de voir
+Celuy qu'à Samarcand il avoit à sa Suitte.
+Dans le trouble⁎ où mon ame alors étoit reduitte,
+Je l'ay suivi de loin vers la tente du Roy,
+Où chacun l'embrassoit et le tiroit à foy,
+Et d'une bouche à l'autre enfin j'ay pu comprendre
+Qu'aujourd'huy dans ces lieux son maître se doit rendre.
+
+Seigneur, le Roy qui vient vous en rendra certain.
+
+C'est le méme, Seigneur, que j'ay vû ce matin,
+Et son maître sans doute est le Prince Vanlie.
+
+Sa surprise, Seigneur, à la vôtre repond :
+Mais il faut l'imiter, et cacher ce grand trouble⁎.
+
+Seigneur.
+
+      Le Prince plein de joye…
+Mais le voicy déjà.
+
+Et pour vous, et pour luy j'apprehende l'orage,
+Et des desseins, Seigneur, si grands, si nouveaux
+Pourront laisser sans fruit de si dignes travaux⁎.
+
+Seigneur…
+
+Le Roy pourtant suivy de cent mille Chinois
+N'a pû jusques icy la ranger soûs ses loix.
+
+Seigneur, fuyez vous méme, et fuyez prontement.
+La Princesse survient.
+
+      Ouy, faisons diligence ;
+Allons, Seigneur, allons, je vous suis en tous lieux.
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_zinton
+
+En vain à m'attaquer Tamerlan se prepare,
+Je ne redoute point les efforts du Tartare ;
+J'esperois tout déjà de mon bras et du tien,
+Quand mon fils derechef vient y joindre le sien ;
+Je l'attens aujourd'huy, Phocate, et je dois croire
+Qu'avec luy tu veux bien courir à la victoire,
+Qu'avec luy tu veux bien en partager l'honneur⁎,
+Comme avec luy déjà tu partages mon cœur.
+Car enfin tu m'es cher à l'egal de Vanlie,
+Et puisqu'à mon Service⁎ un beau zele te lie,
+Il doit t'aimer de méme, et je veux aujourd'huy
+A mon trône ebranlé donner ce double appuy.
+Devant tout à la fois répondre à deux querelles,
+Voyant des ennemis se joindre à des rebelles
+Attaqué d'une part, de l'autre repoussé,
+Dans ces extrémitez les Dieux m'ont exaucé.
+Ce prince enfin arrive apres un long voyage
+Que j'avois bien voulu permettre à son jeune âge,
+Et revient en ces lieux et plus grand et plus fort
+Contre ces fiers remparts faire un dernier effort.
+Quinsay de mes Etats la plus ingrate⁎ ville,
+Toûjours des factieux fut le honteux azile ;
+Le perfide⁎ Sanga que j'en fis gouverneur,
+Loin de m'en mieux servir s'enfla de cet honneur⁎,
+Si voisin du Tartare et de la mer Scythique
+Il sçût bien-tost former un projet tyrannique,
+Et son ambition se croyant tout permis
+Et dedans et dehors me fit des ennemis.
+Aux maux qu'il prevoyoit preparant un remede,
+Il court à Tamerlan, il implore son aide,
+Et ce Prince orgueilleux qui vient mal à propos
+Reculer ma vengeance et troubler⁎ mon repos,
+Luy qui se nomme grand, et qui le veut parêtre,
+Doit treuver peu de gloire⁎ à soûtenir un traître.
+Mais pour luy tout est juste et tout est glorieux⁎
+Quand il peut assouvir son cœur⁎ ambitieux ;
+Lorsque de ce rebelle il embrasse la cause,
+Déjà de mes Etats en son ame il dispose,
+Il veut les ajoûter à ceux qu'il a volez,
+Et voir tous les Chinois à sa rage immolez.
+Voilà les grans projets dont Tamerlan se flatte :
+Mais j'ay pour les détruire assez d'un seul Phocate.
+Ouy, je veux aujourd'huy me vanger par ton bras…
+
+      Enfin tu le verras.
+
+Je te revoy, mon fils, et mon plaisir redouble
+Lors que je te revoy pour offrir à ton bras
+Un Illustre exercice, et pour toy plein d'appas.
+Si tes yeux en treuvoient à courir mes provinces,
+Si tu sors d'une école utile à tous les Princes,
+Qui peuvent mieux d'un peuple appaiser les clameurs
+Connoissans de chacun le langage et les mœurs :
+Vien voir si les combats te plairont davantage,
+Vien me vanger icy d'un trop sensible outrage⁎
+Vien soûtenir ma gloire⁎, et dans ce noble employ
+Te montrer digne fils d'un pere tel que moy.
+Mais ce discours t'etonne⁎, et semble te confondre,
+Tu parois interdit⁎, et n'oses me repondre.
+
+Approche derechef, mon fils, que je t'embrasse,
+Et daigne apres soûfrir ce guerrier en ma place ;
+Tu dois à mon exemple honnorer sa vertu⁎
+Qui releve aujourd'huy mon Estat abbatu ;
+Ses soins en ton absence ont assuré ma tête,
+Contre le coup fatal d'une noire tempête,
+Et j'allois succomber sous le dernier malheur,
+S'il n'avoit à ses traits⁎ opposé sa valeur⁎.
+Il s'est jetté pour moy dans des perils extremes ;
+Enfin, tu dois, mon fils, le cherir si tu m'aimes.
+
+J'approuve tes conseils, et je veux bien les suivre,
+Des maux qui m'attaquoient ton retour me delivre,
+Et voyant ta prudence egale à ta valeur⁎,
+En vain mes ennemis se flattent de la leur.
+Ouy, Sanga doit perir avec tous ses complices,
+Je medite pour eux les plus affreux supplices,
+Et veux que cette ville avant la fin du jour
+Par sa punition apprenne ton retour.
+Mais soufre que Phocate ayt part à cette gloire⁎.
+
+Et moy j'espere tout d'un si ferme lien.
+Je veux dés ce matin que le conseil s'assemble ;
+Il faut que j'y donne ordre, et je vous laisse ensemble.
+Vous, Prince, suivez moy.
+
+Madame, et vous, ma fille, apres le noir orage
+Que vient de dissiper ce genereux⁎ courage,
+Phocate, à qui je dois derechef la clarté,
+Rendez à sa vertu⁎ ce qu'elle a merité.
+Par luy je vis encore, et j'evite la honte
+Qui suivoit une mort trop indigne et trop pronte.
+Sanga la veut enfin, le traître qui me hait
+Croit que m'ayant perdu son bon-heur est parfait,
+Et déjà par deux fois il attente à ma vie,
+Qu'autant de fois Phocate arrache à son envie.
+Ouy, si le Ciel permet qu'en ses lâches desseins
+Ce perfide⁎ à son gré treuve des assassins ;
+Le méme Ciel permet avec plus de justice
+Qu'une main me retienne au bord du precipice,
+Et que dans des perils qui menacent beaucoup
+Un œil toûjours veillant m'avertisse du coup.
+Phocate, il est donc temps que ma reconnoissance
+Honnore icy ton zele et ta rare vaillance ;
+Qu'apres m'avoir vangé d'un temeraire effort,
+Je te vange à mon tour de l'injure du sort,
+Et que n'estant pas né maître d'une Province,
+Je t'eleve au dessus du plus superbe⁎ Prince.
+Ouy, n'attens point de moy que de dignes presens,
+A peine mes Estats seroient ils suffisans,
+Et pour te bien payer d'un service⁎ si rare,
+Il faut y joindre encor tout l'Empire tartare,
+Si Tamerlan m'attaque, allons le devancer,
+Tu dois m'aider toy méme à te recompenser ;
+Et s'il faut trop attendre apres un tel salaire,
+Phocate, cependant j'ay des biens à te faire.
+
+C'est trop de modestie, et toute ma famille
+Void avec quel eclat⁎ chez nous ta vertu brille ;
+Elle veut l'honnorer, et tu dois le soufrir,
+Et ton Roy qui te parle a bien plus à t'offrir.
+S'il te semble donc trop d'accepter ma couronne,
+Accepte pour jamais le soin de ma personne,
+Ne l'abandonne point, et proche d'un combat
+Où je dois craindre encor la main d'un scelerat,
+Que pour mieux satisfaire à sa cruelle envie
+Tamerlan peut induire à m'arracher la vie,
+Sois prest à repousser cet acte injurieux.
+
+Dans ce nouveau peril sois mon Dieu Tutelaire.
+
+Ton discours genereux⁎ a rassuré mon ame ;
+De ce honteux soupçon moy méme je me blame,
+Je n'apprehende plus un sort si rigoureux,
+Et je croy comme Toy Tamerlan genereux⁎,
+Mais enfin il m'attaque, et je dois me defendre,
+Et ces murs orgueilleux attendent à se rendre
+Que la fin du combat puisse les eclaircir
+Auquel des deux partis ils doivent obeïr.
+Mais je veux un moment sur chose d'importance
+Entretenir la Reine et loin de ta presence :
+Artaban, comme luy retirez vous d'icy ;
+Vous, mon fils, demeurez ; et vous, ma fille, aussy.
+
+La chose est d'importance, et je veux qu'on l'avoüe.
+Madame, la vertu merite qu'on la loüe :
+Mais si jamais son prix n'êtoit plus fructueux,
+On verroit soûs le Ciel bien moins de vertueux.
+Un service⁎ payé par de belles paroles
+Repaist qui l'a rendu d'esperances frivoles ;
+Et l'oblige souvent, n'en voyant point l'effet,
+S'il faut qu'il serve encor, de servir à regret.
+Non, non, ne croyons pas que ceux qui nous adorent
+Soient exents pres de nous d'ennuys⁎ qui les devorent,
+Et que lors que leurs soins sont mal recompensez,
+Ils ne plaignent leur temps et leurs travaux⁎ passez.
+Quand ou par negligence, ou par ingratitude⁎
+Ils reçoivent de nous un traittement si rude,
+Si leur front n'ose pas étaler leur douleur,
+Leur cœur bien-tost pour nous perd toute sa chaleur.
+Pour le vaillant Phocate ayons plus de justice ;
+C'est peu de le loüer apres un tel service⁎,
+Il luy faut un plus digne et plus seur payement,
+Et je vais luy donner un doux engagement.
+Ouy, je veux qu'en ce jour il entre en ma famille,
+Et que mon defenseur soit l'Epoux de ma fille.
+
+Vous, ma fille ; parlez.
+
+Cessez, il me suffit que je les treuve bons,
+Je laisse vos conseils, et goûte ses raisons ;
+Et quoy qu'ouvertement vôtre cœur les combatte,
+Je veux qu'il les respecte, et ne voy dans Phocate
+Rien qu'on ne doive aimer, rien qu'on puisse haïr :
+Ma fille, apres cela, pensez à m'obeïr.
+
+Quoy tous deux à la fois, et mon fils et Phocate
+Abandonner mon camp ?
+ 
+Qu'on les cherche par tout, qu'on aille en diligence⁎.
+Ma fille assurement m'a causé ce malheur.
+Prince, vous jugez mal d'une insigne valeur⁎ ;    
+Je vous ay laissé dire, et n'ay pû qu'avec peine
+Ecouter un discours qu'a formé vôtre haine ;
+Et surpris comme vous de cet eloignement,
+Je scay pourtant en faire un autre jugement.
+
+Hé bien, Prince, voyez quel est ce haut dessein
+Qu'enfantoit leur audace et leur espoir trop vain.
+Vôtre envie a paru, cet exploit la châtie,
+Et Phocate sans doute étoit de la partie.
+Mais déjà mon transport⁎ me les fait decouvrir ;
+O mon fils ! ô Phocate ! auquel dois-je courir !
+
+Phocate, cependant qu'est devenu mon fils ?
+
+Où peut-il être donc ?
+
+Mon esprit se void donc rassuré sur ce point.
+Ha Phocate ! ha mon fils ! que ne te dois-je point !
+Ouy, car il ne faut pas non plus que je m'oublie,
+Sois mon fils desormais de méme que Vanlie,
+Et si pour toy Ladice est un prix assez grand,
+Son pere te la donne, et se rend ton garend.
+
 Non, non, si chez les Roys on void souvent des chûtes,
 Si la gloire⁎ et l'envie ont souvent des disputes,
 Si parfois la premiere a peine à repousser
@@ -1891,9 +1174,554 @@ Le fameux different de deux peuples fameux.
 Assisté de ton bras le Cham⁎ ne peut m'abattre,
 Mon fils, vien prendre haleine afin de mieux combattre.
 
-**** *book_ *id_IV04 *act_IV *date_1656 *creator_chappuzeau 
+      Mon fils chez les Tartares !
 
--*who_artaban
+Vanlie, est-ce vous méme ? ha desabusez moy ? :
+
+Quels nouveaux deplaisirs la fortune m'envoye !
+
+      Ha ! fils abominable,
+Ta bouche enfin t'accuse, et te montre coupable.
+Donc tu viens à mes yeux vanter ta trahison,
+Dans un camp ennemy tu traçois ma prison,
+Tu poursuivois la mort de qui tu tiens la vie ;
+Approche, fils ingrat⁎, contente ton envie ;
+Tu n'as pas fait assez pour cet heureux vainqueur,
+Si ton bras inhumain ne me perce le cœur ;
+Acheve, et par un coup digne d'un parricide
+Assure sa victoire, et la ren plus solide.
+Ma perte est importante au repos de ses jours,
+Offre luy derechef ton indigne secours.
+Si cet acte sanglant veut une main barbare,
+Ta main l'est devenue en servant le Tartare,
+Et plus cruelle encore elle oze en sa fureur⁎
+Venir peindre à mes yeux son crime et mon malheur.
+Possible esperes tu que j'implore ta grace ?
+Infame, di moy donc ce qu'il faut que je face ?
+Si ton pere à tes piés doit flatter ton pouvoir ?
+Si ton pays en sang pourra bien t'emouvoir ?
+Non, non, fils inhumain, ton pays et ton pere
+A ce honteux affront sçauront bien se soustraire ;
+Perfide⁎, peus tu voir ton pere et ton pays
+Par toy seul aujourd'huy si laschement trahis ?
+Mais tu voulois regner ? et ton impatience
+Ne soufroit qu'à regret l'Empire en ma puissance ?
+Encore un peu de temps, ma mort t'eut satisfait,
+Le Ciel de tes desirs auroit pressé l'effet ;
+Mon thrône t'attendoit, tu devois bien attendre ;
+Tu pouvois y monter sans m'en faire descendre ;
+Et si t'y faisant place on t'auroit contenté,
+Pour t'y placer tout seul je te l'aurois quitté.
+Mais voulant l'aquerir par une perfidie,
+Voulant voir tout d'un coup ta fortune aggrandie,
+Tout d'un coup de ce faîte où tu te crois monté
+Je te verray tomber avec indignité ;
+Les Dieux ne sont plus Dieux s'ils epargnent ta tête,
+Tes propres partisans formeront la tempête,
+Et ceux qui t'ont aidé dans tes lasches desseins
+Pour me vanger de toy seront tes assassins.
+C'est-là, c'est-là, cruel, le sort de tes semblables ;
+On se sert au besoin de ces esprits coupables :
+Mais comme un traître enfin est un honteux appuy,
+Quand il n'est plus utile on se defait de luy.
+
+Ce que ce méme jour te devroit enseigner ;
+Que j'aurois pû te vaincre où je te vois regner,
+Que celuy qui m'abbat pleureroit sa defaitte,
+Qu'il se verroit reduit où le destin me jette,
+Et que tu me serois enfin assujetty
+Si l'heur eut fecondé le plus juste party.
+Tamerlan, si tu veux, mesure ta justice,
+A ce que tu voudrois alors que je te fisse.
+
+Ce demon⁎ sans mon fils t'eut aquis peu de gloire⁎.
+
+Sans ce bras criminel tu n'aurois pas vaincu.
+
+Ce perfide⁎ tout seul a causé ma defaitte
+
+Ce traître en te servant montre assez cette fois
+Que pour donter la Chine il falloit un Chinois.
+
+Tu te trompes, Vanlie, en prenant ma tristesse⁎
+Pour le honteux effet d'une lasche tendresse.
+Moy, je pardonnerois à qui m'a sçû trahir !
+Moy, je pourrois, cruel, cesser de te haïr !
+Et m'arrachant le sceptre as tu cette pensée ?
+Va, tu penetres mal dans mon ame offencée,
+Et ta perte en ce jour où les miens sont defaits
+Pourroit me consoler de celle que je fais.    
+
+Je ne veux point un thrône offert par un perfide⁎.
+ 
+En pouvant me donner ces genereuses⁎ loix,
+Tamerlan, c'est me vaincre une seconde fois.
+
+Je ne dois pas reprendre un don que j'avois fait,
+Il en a ma parole, et peut en voir l'effet.
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_vanlie
+
+Destiné dans ce jour à de si grans exploits,
+Sire, un exces de joye a retenu ma voix.
+Ravi de voir un pere estimer mon courage,
+Je le sens qui s'eleve au dessus de mon âge,
+Et qui s'oze promettre en s'employant pour vous,
+D'obliger le Tartare à fuir mes premiers coups.
+Ouy, Sire, et j'ose encor promettre davantage,
+Dans ce retour heureux, des fruits de mon voyage.
+Sur le bruit que Sanga contre vous revolté,
+Pour comble de son crime et de sa lâcheté
+Ouvroit à l'ennemy cette puissante ville,
+J'ay crû qu'un pront secours pourroit vous être utile,
+Il marche sur mes pas, et j'ameine avec moy
+Trente mille Chinois pleins de zele et de foy.
+ 
+Estant aimé de vous, Sire, je l'aime aussi :
+Mais j'entre en méme temps dans un juste soucy⁎.
+Sanga par tous moyens tasche de vous détruire,
+Et de pires que luy s'osent icy produire ;
+Leur audace s'accroist plus vous les elevez,
+Et vous connoissez mal ceux dont vous vous servez.
+
+Sire, la defiance est une seure garde,
+Et les Roys dont le thrône est envié de tous,
+Autant que de sujets ont souvent des jaloux.
+Non, que ce grand eclat⁎ des têtes couronnées
+N'imprime du respect à des ames bien nées,
+Et qu'un peuple qui sert avec fidelité
+Ne porte tous ses vœux à leur felicité.
+Mais quand lassez d'un joug que les Dieux leur imposent
+Des sujets à leur Prince indolemment s'opposent,
+Il doit les prévenir, et dans ce mal commun
+Se defier de tous, ou n'en craindre pas un.
+Sire, ne soufrez pas que chacun vous approche,
+La haine sçait cacher les traits⁎ qu'elle decoche,
+Ce n'est pas de ces murs qu'ils vous sont tous lancez,
+Et tous vos ennemis n'y sont pas ramassez.
+Enfin c'est vôtre fils qui craint pour vôtre vie,
+Qu'il void de toutes parts ardemment poursuivie,
+Et qui ne s'est hasté de se rendre vers vous,
+Que pour en detourner de si funestes coups.
+
+Je luy cede déjà l'honneur⁎ de la victoire,
+Et j'attens de son bras beaucoup plus que du mien.
+
+C'est trop, il faut enfin pour étaler ma joye,
+De méme que mes bras, que mon cœur se deploye.
+Prince, qui l'auroit crû, que je pûsse en ces lieux
+Posseder un amy qui m'est si precieux !
+Car de quelque côté que ce bon-heur me vienne
+Je n'examine point quel sujet vous ameine,
+Et je sçay qu'Armetzar est né d'un trop bon sang⁎
+Pour former des projets indignes de son rang.
+Si le grand Tamerlan est sur nôtre frontiere,
+Je connois de son fils la vertu⁎ tout entiere,
+Et ne puis soupçonner d'aucune trahison
+Celuy qui s'est rendu l'appuy de ma maison.
+Si j'ay de méme osé passer dans vôtre Empire,
+Si pour ce beau sejour mon cœur encor soûpire,
+Le seul desir de voir bornoit tout mon dessein.
+Mais comment pus-je alors m'arracher de son sein !
+Prince, j'y vids d'abord ma liberté ravie,
+Ma curiosité de cent maux fut suivie ;
+J'y brûlay d'un beau feu⁎, sans oser l'adoucir
+Par la moindre parole ou le moindre soupir.
+Ouy, j'aimay sans me plaindre, et dans cette soufrance
+Je n'osay me flatter de la moindre esperance.
+Pour le divin objet⁎ qui causoit mon trepas,
+Vanlie estoit suspect, Phocate étoit trop bas,
+Je devois attirer son mepris ou sa haine,
+Et mon ame par tout se treuvoit à la gesne⁎.
+Enfin je le quittay : mais des yeux seulement,
+Je ne pouvois plus vivre et cacher mon tourment,
+Et comme un pront eclair qui vient percer la nue,
+Ma flame⁎ alloit bien-tost forcer ma retenue.
+Voyant qu'à ses transports⁎ mon cœur s'étoit rendu,
+Il fallut eviter ce qui m'auroit perdu ;
+Le temps me rappellant, le Ciel m'étant contraire,
+L'un et l'autre rendoient mon depart necessaire :
+Mais, Prince, en vous disant un si cruel adieu,
+Mon cœur ne sortit point de cet aymable lieu ;
+Si j'ay depuis erré de Province en Province,
+On n'a vu que le corps d'un miserable Prince
+Feblement animé d'un reste de chaleur
+Pour être seulement sensible à la douleur.
+Enfin je vous revoy, cher Prince, et j'ose croire
+Que deux ans n'auront pû m'oster vôtre memoire,
+Et que j'ay part encore à vôtre affection⁎
+Qui fait toute ma gloire⁎ et mon ambition.
+
+Dois-je m'imaginer que vôtre ame l'ignore,
+Et faut-il que j'irrite un feu⁎ qui me devore ?
+Il n'a que trop d'ardeur⁎, et c'est mieux l'allumer,
+Que me vouloir encor contraindre à la nommer.
+Ouy, l'objet⁎ qui m'enflame est un tresor celeste
+Qui de mille vertus le brillant manifeste ;
+C'est un digne chef-d'œuvre, où l'on peut assez voir
+Que les Dieux ont alors epuisé leur sçavoir ;
+C'est l'œil de vôtre Empire et l'honneur⁎ de l'Asie :
+N'est-ce pas dire assez que j'adore Hermasie ?
+
+Le craignez vous, cher Prince, et n'ay-je pas d'un Pere
+Le doux commandement de vous tenir pour frere ?
+Il est vray qu'Armetzar n'en sçauroit être aimé,
+Que de Phocate seul son esprit est charmé ;
+C'est luy qu'il veut que j'aime, et j'aurois l'ame ingrate⁎,    
+Si je n'aimois autant Armetzar que Phocate.
+Ouy, Prince, assurez vous de recevoir de moy
+Tout ce que peut produire une immuable foy.
+
+Ma sœur à plus d'honneur⁎ ne pourroit aspirer,
+Et si ceux que pour elle on a vû soûpirer
+Toûjours de ses regards se sont treuvez indignes,
+Si malgré leur constance et leurs travaux insignes
+Des mille adorateurs aucun n'en fut souffert⁎,
+C'est qu'Armetzar encor ne s'étoit pas offert.
+
+Dans ces extremitez qui troublent⁎ nos amours,
+Allons de la prudence, appeler le secours.
+Peres, que vôtre haine à vos enfants cruelle
+Va produire en ce jour une étrange⁎ querelle,
+Et que l'ambition commune à vôtre rang
+Nous va faire verser et de pleurs et de sang !
+
+Et moy, brave Phocate, avec plus de franchise
+De cette passion j'admire l'entreprise ;
+Je voy qu'elle vous porte à des périls si grans,
+Que tous autres objets⁎ vous sont indifferens,
+Que tout entierement vers mon pere elle panche,
+Que son salut vous touche, et croyez en revanche
+Si je vous prise moins que vous ne meritez,
+Que je vous aime autant que vous le souhaittez.
+
+      Et moy, Madame, et moy
+Contre vous et ma sœur je suis avec le Roy.
+
+      Ouy, ma sœur.
+
+      Ouy, Madame ;    
+Le Roy fait un choix juste, eloigné de tout blame,
+Et son repos demande en un si beau dessein
+Que vous le secondiez par un conseil plus sain.
+Plus que vous ne pensez il y va de sa gloire⁎,
+Et le gain de Phocate egale une victoire ;
+Dès que ce haut espoir luy deviendra permis,
+Il va vaincre le Cham⁎, ou va nous rendre amis.
+
+      Ma sœur, il me souvient de tout,
+Vous devez obeïr quand le Roy s'y resout,
+Et peut être qu'un jour par un avis contraire
+Vous pourrez approuver ceux que vous donne un frere.
+
+Si pour un Armetzar ce choix vous semble étrange⁎
+Ma sœur, avec Phocate on ne perd rien au change.
+
+Hé bien, mon cher Phocate !
+
+Il n'est pas temps encor que ce beau nom éclate⁎,
+Et le Roy t'aime assez soûs celuy de Phocate,
+Puis qu'enfin à ta flame⁎ il accorde ma sœur,
+Et qu'il veut aujourd'huy t'en rendre possesseur.
+Tu peus t'imaginer si le desir du pere
+A treuvé dans le fils un sentiment contraire,
+Et si pour toy Vanlie en cette occasion
+A fait agir son zele et son affection⁎,
+Mais d'où vient que Phocate à son bon-heur rebelle
+Avec si peu de joye apprend cette nouvelle,
+Et qu'ayant fait parêtre une si belle ardeur⁎
+Il montre tout d'un coup un excez de froideur.
+
+Je t'entens, et ma sœur t'a fait un rude accueil ?
+
+Amy, par ce discours tu previens mon envie,
+A de pareils desseins mon amour me convie,
+Elle sçait m'y porter d'un pouvoir absolu,
+Et mon cœur à les suivre est déjà resolu.
+C'est assez qu'Hermasie est au camp du Tartare,
+C'est assez qu'à demain le combat se prepare ;
+C'est assez pour m'instruire en ce pressant malheur
+A qui je dois donner des marques de valeur⁎.
+Car la victoire enfin se plaist à nous surprendre,
+Bien souvent au plus feble elle daigne se rendre ;
+Et si ton pere attaque, et le mien se defend,
+On a vû plusieurs fois l'attaqué triomphant.
+Ouy, dans ce jour fatal et ta sœur et la mienne
+Ont chacune besoin d'un bras qui les soûtienne ;
+Demeure avec Zinton, et luy prête le tien,
+Tandis qu'à Tamerlan je vais offrir le mien.
+Devien brave Chinois, comme moy bon Tartare,
+Que l'espace d'un jour la haine nous separe,
+Et qu'ayans renoüé nôtre belle amitié,
+De la victoire aprés chacun ayt sa moitié.
+
+Il faut plus faire encore, et nous trahir nous mémes,
+Et suivans de l'amour les volontez suprêmes,
+Pour demeurer amans devenir ennemis.
+
+Ouy, plûtost qu'à l'amour le mien ozast deplaire,
+Je combattrois les Dieux, Armetzar et mon pere.
+
+Pardonne, cher amy, pardonne une saillie,
+Qui te fait voir assez que ma raison s'oublie.
+Quel penser odieux ! moy combattre Armetzar !
+Non, non, à ce transport⁎ tu n'as aucune part ;
+Et l'amour l'a produit, l'amitié le deteste,
+Fuyons, fuyons plûtost un sejour si funeste,
+Abandonnons ces lieux à l'injuste fureur⁎
+Dont ce cruel dessein veut decroître l'horreur.
+Mais helas ! dans ces lieux nous laissons nos maîtresses,
+Et c'est montrer encor de plus grandes feblesses.
+Allons, allons sauver et du fer⁎ et des feux⁎
+Ces aymables objets⁎ de nos plus tendres vœux ;    
+Et soûs de mémes noms, sous de semblables armes
+Allons verser du sang pour en payer leurs larmes.
+Ces armes et ces noms par leur egalité
+Nous feront reconnoître avec facilité,
+Et nous pourrons alors d'une noble colere
+Nous dire l'un à l'autre : amy, sers bien mon pere.
+
+      O durs evenemens !
+
+      Quoy, cesser d'etre amans !
+Mais c'est trop écouter une amitié si tendre,
+Tamerlan et Zinton ne veulent plus attendre ;    
+Afin que l'un et l'autre ayt en nous un soûtien,
+Suy mon pere au combat, j'y vais suivre le tien.
+
+Ha ! Seigneurs, c'en est trop ; c'en est trop, ô Monarque :
+Qui du maître des Dieux portez l'Illustre marque,
+Puisqu'enfin comme à luy tous les Dieux d'icy bas
+Vous rendent de l'hommage, et tremblent à vos pas.
+Quelques coups fortunez qu'ayt portés cette épée,
+Elle étoit par mon bras feblement occupée.
+Vos chefs m'ont assisté de leurs instructions,
+Leur exemple a produit toutes mes actions ;
+Ouy, c'est d'eux : mais plûtost de leur Empereur méme
+Que j'ay pris ce qu'aux siens il estime et qu'il aime,
+Ce peu de hardiesse et ce peu de valeur⁎
+Qui ne pourra jamais approcher de la leur.
+Cette valeur⁎ pourtant se rendroit immortelle,
+Pourvû qu'elle egalast la grandeur de mon zele :
+Mais quoy ? je n'ay rien fait qui ne soit au dessous
+De ce que ce grand zele a dû faire pour vous.    
+
+Seigneur, de trop d'eclat⁎ ma fortune est suivie,
+A des honneurs⁎ trop grands vous destinez ma vie ;
+Mais plus j'en suis indigne, et plus j'en suis confus,
+D'autant moins à ce don j'oze joindre un refus.
+Souvent par ce refus un bien faiteur s'irrite,
+Il ne mesure pas le present au merite,
+Ses bontez sont sa regle, et pour qui le reçoit
+C'est être digne assez quand on veut qu'il le soit.
+Ouy, dans cette esperance, ô Prince magnanime⁎ !
+Vous me verrez bien tost répondre à vôtre estime,
+Et si je n'ay rien fait qui vous y dust porter,
+Par de nouveaux efforts je veux la meriter.
+J'oze donc accepter cette illustre couronne
+Qu'un empereur qui m'aime aujourd'huy m'abandonne :
+Mais je l'accepte enfin pour aprendre aux Chinois
+Qu'il faut que desormais ils adorent ses loix,
+Que Tamerlan est juste, et que cette victoire
+Les comble de bonheur autant que luy de gloire⁎ ;
+Que ne le pas aimer ce seroit se haïr,
+Et que c'est à luy seul qu'ils doivent obeir.
+Qu'apres le pront succez de cette rude guerre
+Ce sort leur est commun avec toute la terre,
+Et que pour devenir maître de l'Univers
+Les Estats de Zinton luy devoient être ouverts.
+Justes Dieux, qu'à ce nom mon ame est combatue !
+
+De quel œil le verray-je ? ha Dieux !
+ 
+Qu'il sied bien aux Vainqueurs que leur clemence eclate,
+Et que vous pourriez bien par un trait⁎ genereux⁎
+Epargner cette honte à ce Roy malheureux.
+
+Apres le beau succez d'une telle victoire,
+Je ne puis me flatter d'une plus haute gloire⁎,
+Et je craindrois plûtost par un si triste⁎ objet⁎
+D'alterer le plaisir dont je suis satisfait.
+Sa disgrace m'instruit de ce que la fortune
+Aujourd'huy favorable, et demain importune
+A toute heure, en tous lieux diversement produit,
+Et qu'on peut arriver où je le voy reduit.
+
+Seigneur…
+ 
+      O mandement severe !
+Pourray-je supporter la presence d'un pere !
+
+      O mon pere !
+
+Non, je n'y pretens rien, Seigneur, et puisqu'enfin
+Il faut qu'aux yeux de tous j'explique mon dessein,
+Dans ce cruel combat qui me couvre de blame,
+Je n'ay rien fait pour vous, j'ay tout fait pour ma flame⁎,
+Et sans la rude loy qu'elle a sçu m'imposer
+La Chine sur mon bras eût dû se reposer.
+Je n'aurois point quitté les interests d'un pere,
+Je n'aurois point aidé son mortel adversaire,
+Et jamais Tamerlan n'eut receu d'un Chinois
+Ce qui le rend vainqueur du plus juste des Roys.
+Non, Seigneur, et voyez par cet aveu sincere
+Qu'amour seul a rendu mon crime necessaire,
+Et si j'ay pû trahir mon pere et mon pays,
+Que ce n'est point pour vous que je les ay trahis.
+Cette invincible ardeur⁎ dont j'eus l'ame saisie,
+Et donc le pur effet des beautez d'Hermasie ;
+Jugez quand je la vids quels desirs je formay :
+Mais dire, je la vids, c'est dire, je l'aimay.
+Plûtost que d'opposer une injuste defence
+Au party trop heureux qu'appuyoit sa presence,
+Plûtost que d'attaquer dans ce combat fâcheux
+Celle pour qui mon cœur devoit faire des vœux,
+Plûtost que de montrer à cette audace extrême,
+Je me serois cent fois armé contre moy méme.
+Mais enfin si Vanlie est hors de tout espoir,
+Phocate dans ces lieux n'a-t'il plus de pouvoir ?
+Est-il si tost dechû de la faveur d'un Prince
+Qui rangeoit sous ses loix cette grande Province ?
+Non, j'ay tort d'en douter ; fust-ce à ses ennemis
+Un Prince doit tenir tout ce qu'il a promis ;
+Autant qu'à les donter il y va de sa gloire⁎,
+En donnant sa parole il oblige à la croire ;
+Et n'est point, ou vinst-il enfin à consentir,
+Comme un autre mortel sujet au repentir.
+
+Seigneur, vouloir sa mort c'est demander la mienne,
+Comme l'un des vaincus soufrez qu'il m'appartienne ;
+Puisqu'il a soûtenu le party des Chinois,
+Suivant vôtre promesse il depend de mes loix.
+
+Grand Prince, en qui le Ciel tant de vertus assemble,
+Faittes plûtost perir tous les Chinois ensemble :
+Mais conservez ce fils malgré ce grand couroux,
+Et regardez en luy ce que j'ay fait pour vous.
+Pour luy je m'en depouille, et soufrez qu'il jouisse
+Des faveurs dont l'on daigne honnorer mon service⁎ ;
+Car enfin j'ay beau dire, on m'a vû dans ce jour
+Servir à vôtre gloire⁎ en servant mon amour.
+Qu'Armetzar vienne donc reprendre icy sa place,
+Il la luy restitue, et demande sa grace,
+Et vous devez, Seigneur, être enfin satisfait,
+Puisque j'ay fait pour vous tout ce qu'il auroit fait.
+
+C'est pour un fils aimable avoir peu de pitié.
+Pour la derniere fois accordez ma priere,
+Reprenez vôtre grace, ou qu'elle soit entiere.
+
+Seigneur, si j'ose trop, c'est pour votre interest.
+
+Ouy, Prince, esperons tout de ton pere et du mien,
+La nature aupres d'eux se rend nôtre soûtien.
+Voy par ces doux transports⁎ qu'enfin ils s'attendrissent,
+Voy par ces doux regards que leurs cœurs s'amolissent,
+Voy qu'insensiblement leur couroux s'attiedit,
+Et que contre ses traits⁎ la pitié se roidit.
+Aidons les à donter ces haines mutuelles
+D'où naissoient entre nous des guerres eternelles ;
+Vien, montrons leur exemple, et qu'ils en soient jaloux ;
+Embrassons nous, amy ; Peres, imitez nous.
+
+Ha ! Seigneur, à la fin ce couroux est injuste,
+La couronne est toûjours sur vôtre front Auguste⁎,
+Je vous l'ay conservée aidant à vous l'ôter,
+Et le thrône est à vous, daignez y remonter.
+
+De vos rares bontez c'est une illustre marque ;
+Que ne vous dois-je point, invincible Monarque !
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_artaban
+
+Recevez d'Artaban le méme compliment.
+
+Madame, ayant apris qu'on veut vous faire outrage⁎,
+Que contre vos desirs un pere vous engage ;
+Quelque dur traittement qu'il ayt receu de vous,
+Artaban vient encor s'offrir à vos genoux.
+Approuvez que ce bras s'employe à la ruine
+Du trop indigne epoux que le Roy vous destine,
+Commandez qu'il immole à vos ressentimens
+Cet objet⁎ de mepris qui cause vos tourmens ;
+Ouy, Madame, ordonnez, et je l'oze entreprendre.
+
+Les Dieux dont un mortel deshonnore l'image,
+Comme il l'oze outrager⁎ veulent bien qu'on l'outrage⁎,    
+Et qu'il n'ayt pas le temps de courir aux moyens
+De reculer sa perte et rompre ses liens.
+Il faut que sur le champ le coupable perisse,
+Que d'une promte mort rien ne le garantisse,
+Et de quelque façon qu'on le veuille punir
+C'est toûjours justement que l'on y peut venir.
+Mais si l'audacieux qui vous oze pretendre
+Treuve encore en vous méme un azile où se rendre,
+Si celle qu'il offence est encor son appuy,
+Artaban, je l'avoüe, est trop feble pour luy ;
+Et quand je le vaincrois, je puis craindre, Madame,
+De rencontrer toûjours un Phoc    ate en vôtre ame,
+Et quelques grands dedains que vous ayez fait voir
+Toûjours sur vôtre esprit il aura du pouvoir.
+Si pourtant…
+
+Madame, sans m'ouïr vous le pouvez comprendre :
+Voulez vous m'obliger à vous le repeter ?
+Dois-je encor vous le dire et vous le protester ?
+Mon cœur…
+
+M'en aller plaindre, ingrate⁎ ; ame fiere⁎ et hautaine !
+Non, non, suivons mon cœur un plus noble dessein,
+Et laissons reposer ce Phocate en son sein ;
+Puis qu'il en est encore aimé, quoy qu'elle dise
+Ne daignons pas troubler⁎ cette basse entreprise,
+Et pour mieux me vanger de tant d'indignité
+Laissons la consentir à cette lascheté.
+ 
+Qu'elle ne m'aime point, Madame, et je confesse
+Que si j'en suis haï, je l'aime aussy fort peu,
+Et que ses longs dedains ont amorti mon feu⁎.
+
+Madame, tous nos soins sont enfin inutiles,
+Elle a pour nous tromper des ruses trop subtiles ;
+Quoy qu'en vôtre presence elle ayt pû dire au Roy,
+Elle cherit Phocate, et luy garde sa foy.
+Tous ses emportemens ne sont rien qu'une feinte.
+
+De cet esprit rusé le trop fidelle organe !
+Qui pour ses volontez garde un profond respect
+Et de qui le rapport vous doit être suspect !
+Non, non, elle vous trompe ainsy que sa Maîtresse,
+Et Phocate est trop fier que le Roy le caresse.
+
+Quelque besoin qu'on ayt de mon bras et du sien,
+Vous aprendrez bien-tost son trepas ou le mien.
+
+      Sire, d'une ame ingrate⁎
+Vous ne pouviez attendre un autre traittement,
+Et Phocate tout seul merite châtiment.
+Sans doute que du Prince encor plein de jeunesse
+Il a sçû menager l'esprit avec adresse,
+Et porter son courage à quelque haut dessein
+Qu'enfante son audace et son espoir trop vain.
+Ne faisant que de naître une amitié si forte
+Me presageoit les maux où son ardeur⁎ l'emporte,
+Et cet audacieux qui vous derobbe un fils
+Va le laisser peut-être entre vos ennemis.
+Ou plustôt, si j'ozois decouvrir ma pensée,
+C'est que de trop d'honneurs⁎ cette ame embarassée,
+Voyant ce qu'on luy fait, sçachant ce qu'elle vaut,
+A redouté sa chûte en se treuvant si haut ;
+Et croyant que ces biens ne seroient pas durables
+Phocate a mieux aimé rejoindre ses semblables.
+Mais le Prince en ce cas ne peut l'avoir suivi,
+Et quelque autre malheur, Sire, vous l'a ravi.
+Voilà ce que je puis juger de leur absence.
+
+Sire, voilà le fruit de ces exploits hardis.
+Le Prince est mort sans doute.
+
 O depit ! ô fureur⁎ ! quoy cet audacieux    
 Doit-il encore vivre et parêtre à mes yeux !
 Ne puis-je satisfaire à ma juste vengeance,
@@ -1905,9 +1733,429 @@ La Reine en peu de temps se verroit satifaitte.
 Mais voicy la beauté pour qui souffroit mon cœur,
 Ne nous exposons plus aux traits⁎ de sa rigueur.
 
-**** *book_ *id_IV05 *act_IV *date_1656 *creator_chappuzeau
 
--*who_ladice
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_zarimene
+
+Je viens mesler ma joye à vos ravissemens,
+Et nous devons au Ciel mille remercimens ;
+Il me rend un mary lors qu'il vous rend un pere,
+Sa bonté nous conserve une teste si chere,
+Et de la trahison qui conspiroit sa mort
+Le fidelle Artaban a sçû rompre l'effort.
+
+Si vous le soûtenez, ce n'est pas d'aujourd'huy.
+
+Mon fils n'en a pas moins, si vôtre cœur l'ignore.
+
+C'est plustot qu'en vôtre ame elle ne peut entrer.
+
+C'est trop en avancer sans craindre ma colere.
+
+C'est traitter une Reine avec trop d'insolence.
+
+Fille, qu'un fier⁎ orgueil trop puissamment domine,
+Ignorez vous l'eclat⁎ qui suit la Cocinchine,
+Cette grande Province où je donnois mes loix
+Avant que de Zinton j'eusse accepté le choix.
+Je ne decouvre point malgré vôtre arrogance
+Tant d'inegalité dedans cette alliance ;
+Et si vous vous vantez d'une suitte d'ayeulx
+Qui depuis deux mille ans ont regné dans ces lieux,
+Les miens plus d'une fois ont partagé leur gloire⁎,
+Et jusques dans ces murs étendu leur victoire.
+Artaban descendu de ces grands conquerans
+N'est pas tant eloigné du rang de vos parens,
+Et lors que de Zinton il recherche la fille,
+Il ne peut apporter de honte à sa famille.
+
+C'est par trop endurer d'un insolent caprice,
+Le Roy vient à propos pour m'en faire justice :
+Mais il faut à present luy cacher mon depit,
+Et pour mieux me vanger, feindre qu'il s'assoupit.
+
+Ouy, cette passion nous est assez connue,
+Vous la cachez en vain soûs trop de retenue,
+Et j'en ay toûjours fait un digne jugement.
+
+Quoy, Sire, le plus juste et le plus grand des Roys
+Voudroit-il s'abaisser à cet indigne choix ?
+Et pour une vertu que mal on examine
+Mesler un sang⁎ impur au beau sang⁎ de la Chine ?
+Ce que Phocate a fait pour vôtre Majesté
+Doit déjà luy donner assez de vanité ;
+Un sujet ne peut trop acheter cette gloire⁎,
+Et si de son service⁎ il veut qu'on ayt memoire
+De quelque haut espoir qu'il se puisse flatter,
+Un Roy le paye assez en daignant l'accepter.
+Mais enfin sa valeur⁎ n'a rien que d'ordinaire,
+Et qu'est ce qu'il a fait qu'un autre n'ayt pû faire.
+Ne precipitez rien, Sire, et craignez plûtost
+De vous donner un maître en l'elevant si haut.
+
+Prince, c'est vôtre tour.
+
+      Quoy, Prince ?
+
+Prince, à ce que je voy, la partie est trop forte.
+
+Hé bien, as tu gagné quelque chose sur elle ?
+Mon fils, il faut enfin vaincre cette rebelle,
+Et ton bon-heur depend de l'hymen glorieux⁎
+Où nous devons porter ce cœur⁎ ambitieux.
+Que t'a donc reparti cette fiere⁎ Princesse ?
+
+Si pour elle, mon fils, ton amour est moins forte,
+Tu dois, tu dois cherir l'eclat⁎ qu'elle t'apporte,
+Ton pays aujourd'huy tributaire aux Chinois
+Peut par ce seul moyen s'affranchir de leurs loix,
+Et le Roy me promit qu'en devenant sa femme,
+Sa fille en méme temps approuveroit ta flame⁎.
+Menageant cet hymen, sçache que tout mon but
+Ne va qu'à t'exenter de ce honteux tribut,
+Et Ladice pour dot t'apporte davantage
+De ne plus t'abbaisser à rendre de l'hommage.
+Zinton te la donnant doit aussy t'accorder
+Que desormais en Roy tu puisses commander,
+Et que la Cocinchine en faveur de sa fille
+Participe à l'eclat⁎ dont reluit sa famille.
+Voila ce que j'ay crû te devoir enseigner ;
+Il est dur d'obeïr, il est doux de regner,
+Et quoy qu'on te rebute, et quoy que l'on t'outrage⁎,
+Mon fils, il faut poursuivre, et montrer du courage.
+Si Ladice te fuit, il faut à ses mepris
+Opposer constamment l'espoir d'un si haut prix.
+
+Banni, banni, mon fils, une si feble crainte,
+Ce Phocate est parti, ses rigueurs l'ont chassé,
+Tu ne t'en verras plus desormais traversé,
+Il quitte enfin la Cour, et j'ay sçû d'Iliane…
+
+Hé bien ! s'il oze encor se montrer en ces lieux,
+Va le perdre, mon fils, ou te cache à mes yeux.
+Va noyer dans son sang toutes ses esperances,
+Par cette juste mort va finir tes soufrances ;
+Ta mere apres ce coup sçaura faire ta paix,
+Va le perdre, te dis-je, ou ne me voy jamais ;
+Va sans deliberer, cherche, et revien me dire
+Qu'il est ou hors du monde, ou hors de cet Empire.
+
+Tay toy, fille ignorante, et crain le mien aussy.
+
+Princesse, avec raison vôtre noble arrogance
+Meprise la vertu qu'obscurcit la naissance :
+Mais enfin la vertu peut atteindre si haut,
+Que de cette naissance elle eteint le defaut.
+Lorsque vous resistiez aux volontez d'un Pere,
+J'approuvois d'un grand cœur la secrette colere ;
+Phocate, je l'avoüe, avoit peu fait encor,
+Et sa valeur⁎ devoit prendre un plus bel effor.
+Mais l'ayant tout d'un vol si hautement portée,
+Par luy seul à l'instant une ville emportée,
+Par son bras aujourd'huy le Tartare abbatu,
+C'est assez pour l'aimer autant que sa vertu.
+
+Ce que nous souhaitons n'arrive pas toûjours,
+Et le destin se plaist à troubler⁎ les amours.
+Le succez du combat doit bien tost vous l'apprendre.
+
+      Dieux ! Qu'en faut il attendre ?
+
+O coup trop surprenant qui me perce le cœur !
+
+      O Zinton ! quelle est ton infortune !
+Quoy, tout est donc perdu sans esperance aucune !
+
+C'est là ce digne amant⁎, ou plûtost ce perfide⁎.
+
+Ha Dieux ! il est donc mort !
+
+Et mon fils, l'ay-je encor ? Dieux, l'aurez vous permis,
+Et puis-je me flatter que ce support me reste !
+
+      Ne me dis donc plus rien,
+En perdant Artaban je perds tout mon soûtien.
+Ha malheureuse femme ! ha deplorable mere !
+Les Dieux sont irritez, cedons à leur colere.
+ 
+      C'en est fait, qu'on m'emporte d'icy,
+Puisque mon fils est mort, il faut mourir aussy.
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ladice
+
+Tu ne me parles point des fureurs⁎ d'une guerre
+Qui vient insolemment menacer nôtre terre,
+Tu ne me parles point de l'eternel effroy⁎
+Où ce coup evité me jette pour le Roy.
+Car cette trahison que d'autres peuvent suivre
+A de justes terreurs incessamment me livre,
+Et me répondras tu que nous ayons toûjours
+Qui d'une egale ardeur⁎ prenne soin de ses jours ?
+Mais mon cœur soufre encore une plus rude gesne⁎,
+J'ay bien d'autres soucis dont le courant m'entraisne,
+Le reste de mes maux ne t'est pas evident.
+
+Iliane, à la fin puis qu'il te faut tout dire,
+Phocate a des vertus⁎ qui font que je l'admire ;
+Je l'estime, et voudrois pouvoir moins l'estimer,
+Je crains qu'en l'estimant je ne vienne à l'aimer,
+Que mon ame ebranlée à ce point se ravale,
+Que j'ecoute une amour à ma gloire⁎ fatale,
+Et pour mieux m'abuser dans cet indigne choix
+Que je rappelle alors tout ce que je luy dois !
+A nous persüader l'amour a tant d'adresse,
+Qu'il semble nous guerir dès que son trait⁎ nous blesse,
+Et tout ce qu'il propose à nos sens egarez
+Nous deguise les maux qu'il nous a preparez.
+Non, non, ne soufrons pas qu'une aveugle puissance
+Prenne sur ma raison cette injuste licence,
+Prevenons de bonne heure un si lasche desir,
+Si nous voulons aimer, pensons à mieux choisir ;
+La gloire⁎ de mon sang⁎ qui hautement éclate⁎
+Seule peut me donner du mepris pour Phocate,
+Et de ce qu'il a fait separant ce qu'il est
+Ne regardons en luy que ce qui nous deplaist.
+Moy ! cherir un sujet ! je m'abusois sans doute ;
+L'amour en sa faveur n'a rien que je redoute,
+Et du rang où je suis je ne puis decouvrir
+Que le fils du grand Cham⁎ digne de me servir.
+Je veux te l'avoüer, mon frere à sa venue
+De ce Prince en secret m'a fort entretenue,
+Il me l'a tout depeint, et suivant son rapport
+Il ressemble à Phocate et de taille et de port.
+Il m'a plus dit encore, il ajoûte qu'il m'aime,
+Que ma vûe a rendu sa passion extrême.
+
+Mon portrait en ses mains arriva par bon-heur ;
+Sur un peu de beauté que le pinceau me donne
+Son cœur croyant ses feux⁎ à l'amour s'abandonne,
+Et mon frere passant inconnu dans sa cour,
+Fut témoin, m'a-t-il dit, de ce naissant amour.
+Enfin, chere Iliane, il veut qu'il dure encore,
+Que l'Illustre Armetzar plus que jamais m'adore,
+Qu'il me void, qu'il me parle et me suit en tous lieux,
+Et qu'à ma seule image il daigne ouvrir les yeux ;
+Qu'il deteste en son cœur les desseins de son pere,
+Qu'il abhorre sa haine, et qu'il s'en desespere,
+Et que pour m'acquerir il voudroit que la paix
+Par de fermes liens nous unist pour jamais.
+Helas ! puis-je esperer ces douces destinées !
+Pourray-je voir par là nos guerres terminées,
+Et respirer enfin deux peuples ennemis
+Apres les feux⁎ cruels que leur rage a vomis !
+
+C'est par là que je voy que mon frere s'abuse,
+Et sa credulité de la mienne est l'excuse.
+Quoy que cette alliance eust pour moi de l'eclat⁎,
+Je portois mes desirs au seul bien de l'Etat.
+Si j'avois de l'amour, c'étoit pour la Patrie,
+Des maux qu'elle a soufferts mon ame est attendrie,
+Et lors que j'ay prêté l'oreille à ce discours,
+Mon cœur en l'approuvant luy cherchoit du secours.
+
+Ce n'est point Artaban, comme tu le depeins,
+Ce fils de Zarimene à ma perte obstinée,
+Qu'en un second hymen mon Pere a couronnée,
+Cet objet⁎ importun qui toûjours s'offre à moy.
+
+      Qui donc ?
+
+Garde toy de poursuivre, et cache dans ton ame
+Un aveu qui le perd et te couvre de blame.
+Es tu sa confidente à me parler ainsy ?
+De son indigne amour as tu pris le soucy⁎ ?
+Apren mieux, Iliane, à connoître Ladice,
+Un seul de mes regards suffit pour son supplice,
+Et cet audacieux, quoy qu'il ayt fait pour nous
+En s'elevant trop haut doit craindre mon couroux.
+Mais helas ! ce couroux s'aigrit contre moy méme :
+Dieux, que ne puis-je voir, si vous voulez que j'aime,
+Armetzar de Phocate emprunter la vertu⁎,
+Ou de l'eclat⁎ de l'un voir l'autre revêtu !
+Non, non, c'est trop en vain que mon esprit se flatte,
+Et je ne puis aimer Armetzar ny Phocate,
+L'un merite ma haine, et l'autre mon mepris,
+Et de plus dignes feux⁎ mon cœur doit être epris.
+Mais changeons de discours, j'aperçoy Zarimene,
+Cette injuste marâtre et trop superbe⁎ Reine.
+
+D'un service⁎ si rare et digne de memoire
+J'apprens qu'un seul Phocate a remporté la gloire⁎,
+Et je n'ay point oüy nommer d'autres que luy.
+
+Je soûtiens sa vertu⁎, qui veut que je l'honnore.
+
+C'est qu'il a le malheur de ne la pas montrer.
+
+C'est assez d'obseder l'esprit du Roy mon pere.
+
+Je la meprise fort, et je suis dans un rang
+Où je redoute peu celles de vôtre sang⁎.
+
+C'est user envers moy de trop de violence.
+Je suis fille de Roy, vous fille d'un sujet,
+Et ce discernement detruit vôtre projet.
+Si par un coup du sort, et de bon-heur extreme
+On vous void partager l'eclat⁎ du Diademe⁎,
+Moy qui dans ma maison puis conter deux cens Roys,
+A cherir Artaban je me ravalerois !
+Car, Madame, à la fin je sçay vôtre pensée,
+Vous souffrez⁎ qu'il nourrisse une ardeur⁎ insensée,
+Et poursuive un dessein trop haut, trop dangereux,
+Qui le rend criminel sans qu'il le rende heureux.
+Je sçay bien le respect que je dois à la Reine :
+Mais je connois aussy le fils de Zarimene,
+Et si j'avois pour luy de si lasches bontez,
+Il me faudroit descendre alors que vous montez.
+
+Avec tout cet esclat il releve de nous,
+Et je voy ses pareils pendans à nos genoux.
+Si quelques febles traits⁎ d'une beauté commune
+Ont pû vous aquerir cette haute fortune,
+Elle ne s'étend point jusques à vôtre fils
+Qui doit borner sa gloire⁎ à nous être soûmis.
+
+Ayant la méme part dans le Salut d'un pere
+Qu'en peuvent icy prendre et la Reine et mon frere ;
+Si je suis la derniere à vous remercier,
+Mon cœur loüant vos soins ne peut les oublier.
+
+      Si je le puis sans crainte,
+Je diray que ce choix est plûtost une feinte,
+Et que vous voulez, Sire, en cette ocasion
+Eprouver mon respect et ma soûmission.
+Mais s'il m'y faut aussy donner quelque creance,
+Je diray que ce choix me feroit violence,    
+Et que trop de bontez vous ont fait oublier
+Que Ladice à ce point ne peut s'humilier,
+Qu'il me faut souvenir que Zinton est pere,
+Et pour son interest, que je dois luy deplaire.
+Phocate a des vertus, et nous les estimons,
+Et comme un bon sujet, Sire, aussy nous l'aimons :
+Mais s'il pretendoit plus, cet amour, cette estime
+Se tourneroient en haine et puniroient son crime,
+Et comme un vil mortel qui s'accompare aux Dieux
+Il courroit à sa chûte en échelant⁎ les Cieux.        
+Ainsy mes sentimens suivent ceux de la Reine,
+Et blament d'un sujet l'esperance trop vaine.
+
+Mon frere !
+
+Je ne puis concevoir où vôtre esprit s'emporte,
+Vous oubliez…
+
+Dans quels nouveaux soucis vient on de m'engager !
+J'entens parler de change⁎, et n'ay point à changer.
+Je hay cet Armetzar ennemy de mon pere,
+Et je hay plus encor ce sujet temeraire,
+Ce Phocate insolent, qui pour se voir flatté
+Croit que par un service⁎ il a tout merité,
+Croit s'attachant au pere en obtenir la fille,
+Et s'ouvrir aisement la porte en sa famille.
+Ha ! frere trop injuste, et trop peu vertueux,
+Dont le suffrage appuye un dessein si honteux ;
+Qui bien loin de combattre un choix que je deteste,
+Viens encore étonner⁎ tout l'espoir qui me reste,
+Et du fils du grand Cham⁎ m'ayant entretenu
+Ozes mettre en son rang un chetif inconnu ?
+Si pour un Armetzar ce choix me semble étrange⁎
+En acceptant Phocate on ne perd rien au change !
+      Elle reprend ces deux vers de son frere d'un ton different.
+Chasse, chasse, Vanlie, un penser criminel
+Qui veut aupres d'un Dieu faire asseoir un mortel.
+Mais helas qu'à mes vœux ce Dieu parest contraire,
+Tandis que ce mortel s'efforce de me plaire !
+Ou plûstôt qu'à mes yeux ce mortel est abjet,
+Et que ce Dieu leur est un agreable objet⁎ !
+Ouy, s'il me faut aimer, j'aime où la gloire⁎ eclate,
+Et s'il me faut haïr je ne hay que Phocate ;
+Je veux contre luy seul porter tout mon couroux,
+Il doit, il doit luy seul en ressentir les coups,
+Puisque sa seule audace a sçû porter mon pere
+A me faire aujourd'huy ce traittement severe.
+
+      M'estoit un feble appuy,
+Et parloit pour son fils en parlant contre luy.
+Phocate luy deplaist craignant que je ne l'aime,
+Et c'est de son esprit un digne stratagème.
+
+Il vient pour son supplice autant que pour le mien :
+Mais voyons à quel point peut monter son audace.
+
+Je tiens icy sa place, et pourray vous entendre ;
+Qu'avez vous à luy dire ?
+
+D'une peine où je suis daignez donc me tirer.
+C'est un point important qui d'assez près me touche,
+Pour en vouloir encor l'avis de vôtre bouche.
+Le Roy qui sort d'icy me propose une amour,
+Dont il attend de moy réponce dans ce jour.
+Il faut vous l'avoüer, mon ame en sent du trouble⁎,
+Et méme en vous parlant ma peine se redouble.
+Et la Reine et mon frere étoient de son conseil,
+Mais sans avoir pourtant un sentiment pareil,
+Et je veux voir enfin où panchera le vôtre.
+
+Icy la complaisance est tout ce que je hais.
+Cet amant⁎ donc qu'on m'offre a pour moy peu d'attraits⁎,
+Et manquant de l'eclat⁎ qu'apporte une couronne,
+Je ne decouvre rien d'aimable en sa personne.
+C'est un sujet enfin qu'on m'ordonne d'aimer,
+Et mon cœur doute fort qu'il s'en puisse enflamer.
+
+Il ne me plaist que trop s'il peut te ressembler ;
+Cruel, je te veux perdre, et tu veux m'accabler !
+Mais reprenons icy ma colere assoupie.
+Donc en autre que luy ce dessein est impie,
+Et vous blamez déjà ce sujet insolent ?
+
+Non, non, et c'est vous méme, il vous prefere à tous.
+Ne dissimulez point, répondez, m'aimez vous ?
+
+Cette confession m'instruit de vôtre audace ;
+Mortel, si près des Dieux ne cherchez point de place,
+Et pour fuir ma colere, abandonnant ces lieux
+Que Phocate jamais ne se montre à mes yeux.
+
+Iliane, c'est luy qui se cache à mes yeux.
+L'insolent m'obeït, et le cruel me tue,
+Je hais egalement et je cheris sa vûe,
+Et sans les fieres⁎ lois que l'honneur⁎ me prescrit,
+Phocate tout entier vivroit en mon esprit.
+Mais helas ! je n'en puis aimer qu'une partie
+Trop au dessus de l'autre et trop mal assortie ;
+Je ne puis en aimer que la seule vertu,
+Mon cœur par sa naissance est toûjours combattu,
+Et durant ce combat où je me suis cruelle,
+Mon orgueil le bannit, mon amour le rappelle.
+Ouy, Phocate, revien : mais non, ne revien pas.
+Iliane, pourtant j'ay besoin de son bras :    
+Mais, Iliane, aussy j'en suis trop offencée ;
+Repren, repren mon cœur ta premiere pensée,
+Laisse agir ton couroux, et loin de le calmer,
+Souvien toy qu'un sujet s'est vanté de t'aimer.
+
+Avant qu'à cet hymen je soûmette mon ame,
+Avant que d'Artaban…
+
+Le discours qu'il m'apprête aura peu de credit.
+
+Et de quelle façon croyez vous vous y prendre ?
+Est ce en homme de cœur que vous m'allez vanger ?
+Est ce en lasche assassin en allant l'egorger ?
+Si vous voulez courir à la plus noble voye,
+J'apprehende qu'en vain votre bras ne s'employe ;
+Et si vous prenez l'autre, Artaban, pensez vous
+Des Dieux vangeurs du crime echaper le couroux ?
+
+      Achevez, je veux bien tout entendre.
+
+      Finissez donc, j'attendois autre chose.
+Phocate de mes maux n'est pas la seule cause,
+Et sans me soucier de vos soupçons jaloux,
+Sçachez que je le hais : mais beaucoup moins que vous.
+Allez, si vous voulez, vous en plaindre à la Reine.
+
 Que de biens à la fois ! que de maux tout ensemble !
 Dieux que j'ay de plaisir ! mais bons dieux que je tremble !
 Quoy presque en un moment voir tant de revoltez
@@ -1967,25 +2215,13 @@ Cependant qu'à sa sœur je vais offrir le mien ;
 Et le combat fini, que ton cœur l'applaudisse,
 Ou vainqueur pour mon pere, ou vaincu par le sien.    
 
--*who_ladice
 Helas ! que cet avis sensiblement me touche !
 Mennon en te quittant ne t'a rien dit de bouche ?
 
--*who_iliane
-Non, Madame, et le Prince attendoit son retour
-Pour joindre Tamerlan avant la fin du jour.
-
--*who_ladice
 O dessein dangereux ! ô funeste entreprise !
 Et se peut-il qu'amour tous deux les favorise !
 Non, non, il les abuse, et fût toûjours trompeur.
 
--*who_iliane
-Mais, Madame, Armetzar vient chasser vôtre peur.
-
-**** *book_ *id_IV06 *act_IV *date_1656 *creator_chappuzeau 
-
--*who_ladice
 Armetzar, approchez, je vous permets ma vûe ;
 C'est à Phocate seul que je l'ay defendue,
 Et je le dois punir d'un reproche eternel
@@ -2006,31 +2242,6 @@ Et qui dust l'assurer quelque nom qu'il pust prendre,
 Que de Ladice apres il pourroit tout pretendre.
 Prince, j'en ay trop dit.
 
--*who_armetzar
-      Ha ! Princesse, achevez,
-Et deployez les biens que vous me reservez,
-Puisqu'enfin d'Armetzar la fatale avanture
-Emeut vôtre pitié pour les maux qu'il endure,
-Puisqu'enfin par des soins qui me sont inconnus
-Je voy que vous sçavez d'où ces maux sont venus.
-Donc, divine Princesse, il n'est plus temps de feindre,
-Je dois tout esperer, ou bien je dois tout craindre.
-Mon sort est decouvert, vous sçavez qui je suis,
-Et pouvez d'un seul mot calmer tous mes ennuys⁎.
-Si tantost de Phocate un aveu temeraire
-A dû si justement aigrir vôtre colere,
-Armetzar desormais par un soin assidu
-Pourra-t-il regagner ce que l'autre a perdu ?
-Quand j'osay vous donner un conseil magnanime⁎,
-Vous parut-il alors injuste, ou legitime ?
-Si vous aviez sujet d'en mepriser l'autheur,
-Sera-t-il mieux receu d'un fidele imposteur ?
-Pourrez vous l'ecouter s'il le deduit encore ?
-Pourra-t-il s'introduire en ce cœur qu'il adore ?
-Princesse ; mais helas ! son crime s'aggrandit,
-Armetzar à son tour craint d'en avoir trop dit.
-
--*who_ladice
 Ouy, Prince, c'est assez pour me faire parêtre
 Ce beau feu⁎ qu'en secret mon cœur avoit vû naître ;
 J'en approuve l'ardeur⁎, et suis au desespoir
@@ -2050,17 +2261,6 @@ Qui vous porte à chacun un poignard dans le sein !
 Et que le juste Ciel qui punit les perfides⁎
 Me conte avecques vous au rang des parricides !
 
--*who_armetzar
-Ha ! Princesse, quittez cette importune erreur ;
-L'amour seul nous anime, et non pas la fureur⁎.
-De nos peres cruels n'imitans point la haine,
-Un plus juste motif au combat nous entraîne ;
-Ou, si vous l'aimez mieux, tous deux vont recevoir
-Ce qu'inspire à leurs fils un mutuel devoir ;
-Armetzar doit ainsy cesser de vous deplaire,
-Et ne reconnoist plus que Zinton pour son pere.
-
--*who_ladice
 Ha ! Prince, c'en est trop, cessez de me presser,
 Et pour lequel enfin dois-je m'interesser ?
 Si mon pere est vainqueur, si le vôtre surmonte,
@@ -2082,37 +2282,12 @@ Des marques d'un vray fils de sa gloire⁎ jaloux,
 Et pour vous animer dans ce peril extréme ;
 Prince, sera-ce assez de dire, je vous aime ?
 
--*who_armetzar
-Apres ces mots charmans que ne pourray-je pas ?
-Et que ne doit on point esperer de mon bras ?
-Soûfrez donc, ma Princesse, apres cette assurance,
-Que j'aille retrouver Zinton en diligence⁎,
-Et recevoir de luy les ordres pour demain.
-
--*who_ladice
 Allez, et que le Ciel daigne y donner la main.
 Cependant qu'à nos maux on cherche du remede,
 Et que de tous nos chefs la prudence intercede ;
 Allons, chere Iliane, allons passer la nuit,
 A toucher par nos pleurs le destin qui nous suit.
 
-**** *book_ *id_V01 *act_V *date_1656 *creator_chappuzeau
-
--*who_zarimene
-Princesse, avec raison vôtre noble arrogance
-Meprise la vertu qu'obscurcit la naissance :
-Mais enfin la vertu peut atteindre si haut,
-Que de cette naissance elle eteint le defaut.
-Lorsque vous resistiez aux volontez d'un Pere,
-J'approuvois d'un grand cœur la secrette colere ;
-Phocate, je l'avoüe, avoit peu fait encor,
-Et sa valeur⁎ devoit prendre un plus bel effor.
-Mais l'ayant tout d'un vol si hautement portée,
-Par luy seul à l'instant une ville emportée,
-Par son bras aujourd'huy le Tartare abbatu,
-C'est assez pour l'aimer autant que sa vertu.
-
--*who_ladice
 Ouy, je pourray l'aimer, si le Roy me l'ordonne,
 Et si de Tamerlan il m'offre la couronne.
 A ces conditions il me peut meriter,
@@ -2120,33 +2295,122 @@ A ces conditions je le dois accepter,
 Et je ne doute point que sans beaucoup de peine
 Tout chargé de lauriers le Ciel ne le rameine.
 
--*who_zarimene
-Ce que nous souhaitons n'arrive pas toûjours,
-Et le destin se plaist à troubler⁎ les amours.
-Le succez du combat doit bien tost vous l'apprendre.
-
--*who_ulanie
-Un garde vient à nous.
-
--*who_zarimene
-      Dieux ! Qu'en faut il attendre ?
-
-**** *book_ *id_V02 *act_V *date_1656 *creator_chappuzeau
-
--*who_garde
-Princesses, c'en est fait, le Tartare est vainqueur.
-
--*who_zarimene
-O coup trop surprenant qui me perce le cœur !
-
--*who_ladice
 O mon Pere !
 
--*who_zarimene
-      O Zinton ! quelle est ton infortune !
-Quoy, tout est donc perdu sans esperance aucune !
+Iliane !
 
--*who_garde
+      Ha ! que viens-je d'entendre !
+
+Est-ce un songe, Iliane ? et puis-je avec justice
+Croire sur ce rapport qu'Armetzar nous trahisse ?
+Apres ce qu'il a fait pour mon pere et pour moy
+A-t-il pû se resoudre à nous manquer de foy ?
+Approche, as tu bien vû tout ce qu'a fait Phocate ?
+
+Dieux ! avez vous souffert qu'on vous fist cette injure ?
+Et deviez vous alors espargner ce parjure ?
+
+Fuyons, chere Iliane.
+
+Traître, tu viens plûtost me rendre ta captive ;
+Mon pere est chez les tiens, tu veux que je le suive :
+Mais ne presume pas pour nous avoir trahis
+De triompher de moy comme de mon pays.
+Si les Chinois vaincus par ton lasche artifice…
+
+Di plûtost des Chinois, ou demen ce soldat,
+Qui t'a vû laschement les quitter au combat.
+
+S'il est ainsi, cher Prince, evitez sa colere.
+Sauvez moy, sauvez vous.
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_iliane
+
+Quoy, parêtre si triste⁎ en un jour plein de joye !
+C'est peu goûter les biens que le Ciel vous envoye.
+Un pere si cheri, le plus juste des Roys
+Que Phocate a sauvé pour la seconde fois,
+Qui comme un bon demon⁎ qui veille pour sa vie
+Vient de la garentir du coup qui l'eût ravie,
+Et s'est mis au devant des parricides mains
+Qui vouloient nous ôter le plus grand des humains :
+Un frere qui retourne, et de qui la presence
+D'un peuple mutiné va brider l'insolence,
+Pour lequel chaque jour vous faisiez des souhaits ;
+Tout cela ne rend point vos esprits satisfaits !
+
+Serois-je criminelle en vous les demandant ?
+
+Madame, où pourroit il avoir eu cet honneur⁎ ?
+
+Mais sur ce feble espoir l'aimeriez vous, Madame ?
+Auroit il pû déjà treuver place en vôtre ame,
+Et qui de vos Estats se rend l'Usurpateur
+Seroit il estimé plus qu'un Liberateur ?
+
+De si beaux sentimens sont dignes de vôtre ame ;
+Pour un plus digne amant⁎ on veut qu'elle s'enflame.
+Comme sa passion n'a jamais fait de bruit,
+Ses seules actions en poursuivent le fruit,
+Et le profond respect que pour vous il conserve,
+Fait que depuis un mois de plus pres je l'observe.
+Loin de vous il soûpire, et de vray je le plains.
+
+Non, Madame.
+
+      Phocate, à qui le Roy…
+
+La Reine cependant,
+
+Mais, Madame, il s'approche, et ne redoute rien.
+
+Mais un sujet, Madame, à qui le Roy presente
+Des biens et des honneurs⁎ par de là vôtre attente,
+Un sujet que son bras par de fameux exploits
+Malgré son mauvais sort peut mettre au rang des Roys,
+Et qui de Tamerlan abbatant l'arrogance
+Ira chez le Tartare établir sa puissance.
+Mais comment esperer qu'il s'en rende vainqueur
+Lors que vous le chassez avec tant de rigueur ?
+Et ne craignez vous point si proche d'un orage
+Où nous avons besoin de ce noble courage,
+Que le Roy contre vous hautement irrité
+De l'air imperieux dont vous l'avez traitté,
+Ne punisse un dedain qui tasche à lui soustraire
+Un serviteur si rare, un bras si necessaire,
+Et qu'il ne vous reproche avec juste raison
+Que pour la trop cherir vous perdez sa maison ?    
+Mais craignez plus encor les desseins de la Reine ;
+Autant que pour Phocate elle nourrit de haine,
+Autant de son absence elle va triomfer,
+Et l'amour de son fils pourra se rechaufer.
+Quoy que vôtre mepris l'ayt un peu refroidie,
+Ce pront éloignement la rendra plus hardie,
+Et bien-tost Zarimene aura porté le Roy
+A vous contraindre enfin d'en accepter la foy.
+
+      Mais je le voy, Madame,
+Voicy déja l'effet de ce que j'ay predit.
+
+Non, Madame, et le Prince attendoit son retour
+Pour joindre Tamerlan avant la fin du jour.
+
+Mais, Madame, Armetzar vient chasser vôtre peur.
+
+Mais le voicy, Madame ; ô ciel tout est perdu,
+Et déja le Tartare en ces lieux s'est rendu !
+
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
+
+Sire, le Prince arrive.
+
+Le Prince est de retour, Sire, et par sa vaillance
+Quinsay vient de se rendre en vôtre obeïssance.
+
+Princesses, c'en est fait, le Tartare est vainqueur.
+
 Soufrez qu'en peu de mots je vous aprenne tout.
 Chacun de part et d'autre au combat se resout ;
 D'une pareille ardeur⁎ et l'une et l'autre armée
@@ -2158,13 +2422,6 @@ Phocate en leur faveur s'employe à notre perte,
 Il nous quitte, et les joint, et les rassure tous,
 Et contre les Chinois il tourne son couroux.
 
--*who_zarimene
-C'est là ce digne amant⁎, ou plûtost ce perfide⁎.
-
--*who_ladice
-Iliane !
-
--*who_garde
       Bientost le combat se decide,
 Et comme si nos Dieux demeuroient endormis,
 Tout se rend favorable aux vœux des ennemis.
@@ -2173,659 +2430,18 @@ Jette de toutes parts le desordre dans l'ame,
 On ne se connoist plus, tout est rempli d'effroy⁎,
 Le Tartare surmonte, et nous perdons le Roy.    
 
--*who_zarimene
-Ha Dieux ! il est donc mort !
-
--*who_ladice
-      Ha ! que viens-je d'entendre !
-
--*who_garde
 Non, non, il vit encore, et daignez tout apprendre,
 Il vit : mais, ô malheur ! c'est chez ses ennemis.
 
--*who_zarimene
-Et mon fils, l'ay-je encor ? Dieux, l'aurez vous permis,
-Et puis-je me flatter que ce support me reste !
-
--*who_garde
 Je voulois vous cacher cet accident funeste.
 Non, ce Prince n'est plus.
 
--*who_zarimene
-      Ne me dis donc plus rien,
-En perdant Artaban je perds tout mon soûtien.
-Ha malheureuse femme ! ha deplorable mere !
-Les Dieux sont irritez, cedons à leur colere.
-
--*who_ulanie
-Madame…
-
--*who_zarimene 
-      C'en est fait, qu'on m'emporte d'icy,
-Puisque mon fils est mort, il faut mourir aussy.
-
-**** *book_ *id_V03 *act_V *date_1656 *creator_chappuzeau
-
--*who_ladice
-Est-ce un songe, Iliane ? et puis-je avec justice
-Croire sur ce rapport qu'Armetzar nous trahisse ?
-Apres ce qu'il a fait pour mon pere et pour moy
-A-t-il pû se resoudre à nous manquer de foy ?
-Approche, as tu bien vû tout ce qu'a fait Phocate ?
-
--*who_garde
 Je l'ay trop vû, Madame, et de cette ame ingrate⁎
 L'horrible trahison a fait assez d'eclat⁎
 Puisqu'il nous a quittez au milieu du combat.
 
--*who_ladice
-Dieux ! avez vous souffert qu'on vous fist cette injure ?
-Et deviez vous alors espargner ce parjure ?
-
--*who_iliane
-Mais le voicy, Madame ; ô ciel tout est perdu,
-Et déja le Tartare en ces lieux s'est rendu !
-
--*who_ladice
-Fuyons, chere Iliane.
-
-**** *book_ *id_V04 *act_V *date_1656 *creator_chappuzeau 
-
--*who_armetzar
-      Ouy, fuyons, ma Princesse,
-Tamerlan suit mes pas, et le danger nous presse ;
-Le Roy parmy les siens ne s'êtant pû treuver,
-J'ay quitté le desordre, et viens pour vous sauver.
-
--*who_ladice
-Traître, tu viens plûtost me rendre ta captive ;
-Mon pere est chez les tiens, tu veux que je le suive :
-Mais ne presume pas pour nous avoir trahis
-De triompher de moy comme de mon pays.
-Si les Chinois vaincus par ton lasche artifice…
-
--*who_armetzar
-C'est me traitter, Madame, avec trop d'injustice ;
-Où tend tout ce discours ? dequoy m'accuse-t'on ?
-N'ay je pas jusqu'au bout combattu pour Zinton ?
-Ouy, pour luy dans ce jour mon bras se deshonnore,
-Et c'est du sang⁎ des miens que ce fer⁎ fume encore.
-
--*who_ladice
-Di plûtost des Chinois, ou demen ce soldat,
-Qui t'a vû laschement les quitter au combat.
-
--*who_armetzar
-Vous laissez vous aller à de fausses allarmes ?
-
--*who_garde
 Soûs le nom de Phocate, et soûs ces mémes armes
 Vous serviez l'ennemy, je l'ay trop apperceu.
 
--*who_armetzar
-Et par là justement, Madame, il s'est deceu⁎.
-Soûs le semblable nom, sous des armes pareilles
-Vôtre frere a trompé ses yeux et ses oreilles ;
-J'imitois son courage, et faisois pour les siens
-Tout ce qu'il pouvait faire à la gloire⁎ des miens.
-Devenus malgré nous ennemis l'un de l'autre,
-Il assistoit mon pere, et j'assistois le vôtre ;
-L'ardeur⁎ êtoit egale, et dans un nombre egal
-On n'eut jamais mis fin à ce combat fatal.
-Mais soûs trop d'ennemis vos troupes accablées,
-A leurs premiers efforts d'abord se sont troublées,
-Et les Chinois enfin d'un long siege affeblis…
-Mais Tamerlan s'avance, à ce coup je paslis.
-
--*who_ladice
-S'il est ainsi, cher Prince, evitez sa colere.
-Sauvez moy, sauvez vous.
-
--*who_armetzar
-      Dieux ! appaisez mon pere…
-
-**** *book_ *id_V05 *act_V *date_1656 *creator_chappuzeau 
-
--*who_tamerlan
-Enfin, je suis vainqueur de tous mes ennemis,
-Tous les Roys de l'Asie à mes piés sont soûmis,
-Du Danube et du Nil j'ay calmé les tempête,
-Et je ne puis plus loin étendre mes conquêtes.
-La Chine qui devoit couronner mes exploits
-Va desormais aprendre à vivre soûs mes loix,
-Elle void sa defaitte enrichir mon trophée,
-Et dans son Roy captif son audace etoufée.
-En vain elle opposoit un mur prodigieux
-A des bras qui pourroient atteindre jusqu'aux Cieux.
-Cet ouvrage inutile autant que Magnifique
-(Dont il faut, je l'avoüe, admirer la fabrique)
-A sçu mal la defendre, et la mettre à couvert,
-Et par tout Tamerlan treuve un passage ouvert.
-Phocate, je te dois une part de ma gloire⁎,
-Sans toy j'aurois plus tard remporté la victoire ;
-Ce que pour moy ton zele execute en ce jour
-T'a sçû mieux qu'autrefois aquerir mon amour.
-Tu fis dans Samarcand mille actions charmantes,
-Tu viens de faire icy mille actions vaillantes ;
-Ton adresse en ma Cour te gagna tous les cœurs,
-Ces chefs sur tes grans coups ont mesuré les leurs ;
-Et de quelque costé que je le considere,
-En guerre comme en paix Phocate me sçait plaire.
-A de si grands exploits son courage étant né,
-Il a pour l'exercer un pays trop borné ;
-L'Inde qui l'a nourry n'a pas assez d'espace
-Pour fournir de matiere à son Illustre audace.
-Puisqu'il la quitte encore, et que tout à la fois
-Il a sçû venir, voir, et vaincre les Chinois ;
-Il luy faut avec moy chercher une autre terre,
-Chercher d'autres tyrans pour leur porter la guerre,
-Et qui de ma fortune accompagne le pas
-A peu d'un monde entier pour employer son bras.
-Ouy, Phocate, d'un fils que le destin me cache
-Tien aujourd'huy le rang où mon amour t'attache,
-Et dedans mon empire, ainsy que dans mon cœur
-Vien occuper sa place, et reçoy cet honneur⁎.
-Que ces braves guerriers, témoins de ta vaillance,
-L'honnorent desormais de leur obeïssance ;
-Et s'il nous reste encor quelque peuple à donter,
-Que leurs bras soûs le tien se facent redouter.
-
--*who_odmar
-Apres ce que Phocate a fait à nôtre vûe,
-Cette soûmission luy doit être rendue.
-
--*who_axalla
-Avec beaucoup de joye Axalla s'y resout,
-Je seray trop heureux de le suivre par tout.
-
--*who_vanlie
-Ha ! Seigneurs, c'en est trop ; c'en est trop, ô Monarque :
-Qui du maître des Dieux portez l'Illustre marque,
-Puisqu'enfin comme à luy tous les Dieux d'icy bas
-Vous rendent de l'hommage, et tremblent à vos pas.
-Quelques coups fortunez qu'ayt portés cette épée,
-Elle étoit par mon bras feblement occupée.
-Vos chefs m'ont assisté de leurs instructions,
-Leur exemple a produit toutes mes actions ;
-Ouy, c'est d'eux : mais plûtost de leur Empereur méme
-Que j'ay pris ce qu'aux siens il estime et qu'il aime,
-Ce peu de hardiesse et ce peu de valeur⁎
-Qui ne pourra jamais approcher de la leur.
-Cette valeur⁎ pourtant se rendroit immortelle,
-Pourvû qu'elle egalast la grandeur de mon zele :
-Mais quoy ? je n'ay rien fait qui ne soit au dessous
-De ce que ce grand zele a dû faire pour vous.    
-
--*who_tamerlan
-Ton courage est suivi de trop de modestie,
-Avec tant de vertus, elle est mal assortie,
-Et sçache que chez moy d'un œil judicieux
-La recompense suit les actes glorieux⁎.
-Le Chinois abbatu sera donques la tienne,
-Ton bras se l'est aquis, je veux qu'il t'appartienne,
-Je te permetz icy d'ordonner et d'agir,
-Et qui l'a sçû donter sçaura bien le regir.
-
--*who_vanlie
-Seigneur, de trop d'eclat⁎ ma fortune est suivie,
-A des honneurs⁎ trop grands vous destinez ma vie ;
-Mais plus j'en suis indigne, et plus j'en suis confus,
-D'autant moins à ce don j'oze joindre un refus.
-Souvent par ce refus un bien faiteur s'irrite,
-Il ne mesure pas le present au merite,
-Ses bontez sont sa regle, et pour qui le reçoit
-C'est être digne assez quand on veut qu'il le soit.
-Ouy, dans cette esperance, ô Prince magnanime⁎ !
-Vous me verrez bien tost répondre à vôtre estime,
-Et si je n'ay rien fait qui vous y dust porter,
-Par de nouveaux efforts je veux la meriter.
-J'oze donc accepter cette illustre couronne
-Qu'un empereur qui m'aime aujourd'huy m'abandonne :
-Mais je l'accepte enfin pour aprendre aux Chinois
-Qu'il faut que desormais ils adorent ses loix,
-Que Tamerlan est juste, et que cette victoire
-Les comble de bonheur autant que luy de gloire⁎ ;
-Que ne le pas aimer ce seroit se haïr,
-Et que c'est à luy seul qu'ils doivent obeir.
-Qu'apres le pront succez de cette rude guerre
-Ce sort leur est commun avec toute la terre,
-Et que pour devenir maître de l'Univers
-Les Estats de Zinton luy devoient être ouverts.
-Justes Dieux, qu'à ce nom mon ame est combatue !
-
--*who_tamerlan
-Ouy de ce fier Zinton l'audace est abbatue,
-Je tiens en mon pouvoir ce superbe⁎ ennemy,
-Qui par nôtre combat n'est vaincu qu'à demy.
-Puisqu'enfin il est pris, je veux qu'on me l'ameine,
-Sa vûe augmentera mon plaisir et sa peine,
-Il faut que j'en triomphe une seconde fois.
-Et que j'aye à mes piés le plus altier des Roys.
-
--*who_vanlie
-De quel œil le verray-je ? ha Dieux !
-
--*who_tamerlan
-      Que dis Phocate ?
-
--*who_vanlie 
-Qu'il sied bien aux Vainqueurs que leur clemence eclate,
-Et que vous pourriez bien par un trait⁎ genereux⁎
-Epargner cette honte à ce Roy malheureux.
-
--*who_tamerlan
-D'une indigne pitié sa valeur⁎ est suivie ;
-Quoy, n'est-ce pas assez de luy donner la vie,
-Et peus tu dedaigner de repaître tes yeux
-D'un spectacle si doux et qui t'es glorieux⁎ ?
-
--*who_vanlie
-Apres le beau succez d'une telle victoire,
-Je ne puis me flatter d'une plus haute gloire⁎,
-Et je craindrois plûtost par un si triste⁎ objet⁎
-D'alterer le plaisir dont je suis satisfait.
-Sa disgrace m'instruit de ce que la fortune
-Aujourd'huy favorable, et demain importune
-A toute heure, en tous lieux diversement produit,
-Et qu'on peut arriver où je le voy reduit.
-
--*who_tamerlan
-Tu ne sçais pas jouir du fruit de ta conquête ;
-Il faut voir à nos piez cette superbe⁎ tête,
-Je n'ay point epargné l'orgueilleux Bajazet,
-De mieux traitter Zinton ay-je plus de sujet ?
-Luy qui parut toujours mon plus grand adversaire,
-Et qui m'auroit détruit s'il avoit pû le faire ?
-
--*who_vanlie
-Seigneur…
-
--*who_tamerlan
-      Non, non, Phocate, en vain tu m'entretiens ;
-Qu'on le face venir avecques tous les siens.
-
--*who_garde
 Seigneur, on vous l'ameine.
 
--*who_vanlie 
-      O mandement severe !
-Pourray-je supporter la presence d'un pere !
-
-**** *book_ *id_V06 *act_V *date_1656 *creator_chappuzeau
-
--*who_tamerlan
-Que Zinton est heureux de t'avoir pour appuy,
-Phocate ! le voilà : mais qui vois-je avec lui ?
-Ma vûe, à cet objet⁎ sans doute tu t'egares ;
-Mon fils chez les Chinois !
-
--*who_zinton
-      Mon fils chez les Tartares !
-
--*who_tamerlan
-Armetzar, me trompé-je, est-ce vous que je voy ?
-
--*who_zinton
-Vanlie, est-ce vous méme ? ha desabusez moy ? :
-
--*who_tamerlan
-Quel fantôme⁎ oze icy venir troubler⁎ ma joye !
-
--*who_zinton
-Quels nouveaux deplaisirs la fortune m'envoye !
-
--*who_tamerlan
-Mes yeux, vous dois-je croire, et seroit ce mon fils
-Que je rencontre icy parmy mes ennemis !
-
--*who_armetzar
-O mon pere !
-
--*who_vanlie
-      O mon pere !
-
--*who_zinton
-      Ha ! fils abominable,
-Ta bouche enfin t'accuse, et te montre coupable.
-Donc tu viens à mes yeux vanter ta trahison,
-Dans un camp ennemy tu traçois ma prison,
-Tu poursuivois la mort de qui tu tiens la vie ;
-Approche, fils ingrat⁎, contente ton envie ;
-Tu n'as pas fait assez pour cet heureux vainqueur,
-Si ton bras inhumain ne me perce le cœur ;
-Acheve, et par un coup digne d'un parricide
-Assure sa victoire, et la ren plus solide.
-Ma perte est importante au repos de ses jours,
-Offre luy derechef ton indigne secours.
-Si cet acte sanglant veut une main barbare,
-Ta main l'est devenue en servant le Tartare,
-Et plus cruelle encore elle oze en sa fureur⁎
-Venir peindre à mes yeux son crime et mon malheur.
-Possible esperes tu que j'implore ta grace ?
-Infame, di moy donc ce qu'il faut que je face ?
-Si ton pere à tes piés doit flatter ton pouvoir ?
-Si ton pays en sang pourra bien t'emouvoir ?
-Non, non, fils inhumain, ton pays et ton pere
-A ce honteux affront sçauront bien se soustraire ;
-Perfide⁎, peus tu voir ton pere et ton pays
-Par toy seul aujourd'huy si laschement trahis ?
-Mais tu voulois regner ? et ton impatience
-Ne soufroit qu'à regret l'Empire en ma puissance ?
-Encore un peu de temps, ma mort t'eut satisfait,
-Le Ciel de tes desirs auroit pressé l'effet ;
-Mon thrône t'attendoit, tu devois bien attendre ;
-Tu pouvois y monter sans m'en faire descendre ;
-Et si t'y faisant place on t'auroit contenté,
-Pour t'y placer tout seul je te l'aurois quitté.
-Mais voulant l'aquerir par une perfidie,
-Voulant voir tout d'un coup ta fortune aggrandie,
-Tout d'un coup de ce faîte où tu te crois monté
-Je te verray tomber avec indignité ;
-Les Dieux ne sont plus Dieux s'ils epargnent ta tête,
-Tes propres partisans formeront la tempête,
-Et ceux qui t'ont aidé dans tes lasches desseins
-Pour me vanger de toy seront tes assassins.
-C'est-là, c'est-là, cruel, le sort de tes semblables ;
-On se sert au besoin de ces esprits coupables :
-Mais comme un traître enfin est un honteux appuy,
-Quand il n'est plus utile on se defait de luy.
-
--*who_tamerlan
-Borne là les transports⁎ que la colere étale,
-Et croy que ma surprise à la tienne est egale ;
-Tu luy dois tout le temps que ta juste douleur
-A pû me derobber pour plaindre ton malheur.
-Je suis assez vangé par le coup qui t'accable :
-Mais enfin si ton fils est un vainqueur coupable ;
-D'un crime tout pareil à mes yeux convaincu,
-Le mien est au contraire un coupable vaincu.
-Ouy, le crime est pareil : mais l'effet dissemblable
-Rend l'un victorieux, et l'autre punissable,
-Et si la grace est dûe à qui la peut offrir,
-Ton fils a droit de vivre, et le mien doit mourir.
-Traître, n'atten de moy qu'un traittement severe ;
-Je ne m'informe point où tend tout ce mystere,
-Suffit que je te treuve avec mes ennemis
-Tu pers entre eux le rang et le nom de mon fils,
-Et je ne te connois dedans cette avanture
-Que pour un ennemy qu'abhorre la nature.
-Du Chinois contre moy te rendre partizan !
-Tremble, tremble, perfide⁎, au nom de Tamerlan,
-Dans mon juste couroux redoute mes supplices,
-Tu ne sçaurois les fuir, il faut que tu perisses,
-Il faut que par ta mort je purge ma maison
-De l'affront que luy fait ta lasche trahison.
-Tu taschois ainsy de détruire ma gloire⁎ !
-Ton bras injurieux retardoit ma victoire !
-Et mes coups au combat par les tiens repoussez
-Ont dechû de l'eclat⁎ de mes travaux⁎ passez !
-Apres une action si coupable et si noire,
-Tous les tiens aujourd'huy sortent de ma memoire,
-Et j'oublie aisement ce que tu fis pour moy,
-Pour suivre le depit qui m'arme contre toy.
-Tout ton sang doit laver cette honteuse tache
-Qui dans ce jour fatal à ma gloire⁎ s'attache ;
-Et te faisant soûfrir des tourmens infinis,
-Je veus voir en toy seul tous les Chinois punis.
-Toy qui craignois si peu cette juste disgrace,
-Qu'esperes tu de moy ? qu'attens tu que je face ?
-
--*who_zinton
-Ce que ce méme jour te devroit enseigner ;
-Que j'aurois pû te vaincre où je te vois regner,
-Que celuy qui m'abbat pleureroit sa defaitte,
-Qu'il se verroit reduit où le destin me jette,
-Et que tu me serois enfin assujetty
-Si l'heur eut fecondé le plus juste party.
-Tamerlan, si tu veux, mesure ta justice,
-A ce que tu voudrois alors que je te fisse.
-
--*who_tamerlan
-Quoy, ton orgueil encore oze icy me braver !
-Apren que ce malheur ne pouvoit m'arriver,
-Que Tamerlan détruit quiconque le traverse,
-Qu'il n'eprouva jamais la fortune diverse.
-Que son demon⁎ jaloux puissamment le defend,
-Et qu'il sçait en tous lieux le rendre triomphant.
-
--*who_zinton
-Ce demon⁎ sans mon fils t'eut aquis peu de gloire⁎.
-
--*who_tamerlan
-Ce demon⁎ sans le mien eut hasté ma victoire.
-
--*who_zinton
-Sans ce bras criminel tu n'aurois pas vaincu.
-
--*who_tamerlan
-Sans cette lasche main tu n'aurois plus vécu.
-
--*who_zinton
-Ce perfide⁎ tout seul a causé ma defaitte
-
--*who_tamerlan 
-Ce perfide⁎ tout seul rend ma gloire⁎ imparfaitte.
-
--*who_zinton
-Ce traître en te servant montre assez cette fois
-Que pour donter la Chine il falloit un Chinois.
-
--*who_tamerlan
-C'en est trop, à la fin ma patience est lasse,
-Au malheur qui te suit c'est joindre trop d'audace ;
-C'est par trop se piquer de magnanimité⁎,
-Et ta grace depend de ton humilité.
-Je pardonne, Zinton, si tost qu'on s'humilie :
-Mais aussy je punis si tost que l'on s'oublie,
-Et c'est mal en user pour toy, pour ton pays,
-Que de me reprocher le secours de ton fils.
-Ouy, si l'ingratitude⁎ est indigne des Princes,
-Par le bras de ce fils j'entre dans tes Provinces,
-Et ne me repens point des eloges trop dûs
-Qu'à sa haute valeur⁎ moy méme j'ay rendus.
-Mais, ô destin fascheux ! faut-il que l'on m'impute
-Que ce que j'ay pû faire, un autre l'execute !
-Faut-il qu'on me dispute un prix que je gagnois,
-Et que par un Chinois je donte les Chinois !
-Ne pouvois-je sans luy m'acquerir cette gloire⁎ ?
-Dois-je luy faire part du fruit de ma victoire !
-Non, non, si j'ay promis, je puis me degager,
-Avec Phocate seul j'ay crû le partager,
-Sur luy mes faveurs avoient lieu de s'épandre,        
-Et le fils de Zinton n'y dût jamais pretendre.
-
--*who_vanlie
-Non, je n'y pretens rien, Seigneur, et puisqu'enfin
-Il faut qu'aux yeux de tous j'explique mon dessein,
-Dans ce cruel combat qui me couvre de blame,
-Je n'ay rien fait pour vous, j'ay tout fait pour ma flame⁎,
-Et sans la rude loy qu'elle a sçu m'imposer
-La Chine sur mon bras eût dû se reposer.
-Je n'aurois point quitté les interests d'un pere,
-Je n'aurois point aidé son mortel adversaire,
-Et jamais Tamerlan n'eut receu d'un Chinois
-Ce qui le rend vainqueur du plus juste des Roys.
-Non, Seigneur, et voyez par cet aveu sincere
-Qu'amour seul a rendu mon crime necessaire,
-Et si j'ay pû trahir mon pere et mon pays,
-Que ce n'est point pour vous que je les ay trahis.
-Cette invincible ardeur⁎ dont j'eus l'ame saisie,
-Et donc le pur effet des beautez d'Hermasie ;
-Jugez quand je la vids quels desirs je formay :
-Mais dire, je la vids, c'est dire, je l'aimay.
-Plûtost que d'opposer une injuste defence
-Au party trop heureux qu'appuyoit sa presence,
-Plûtost que d'attaquer dans ce combat fâcheux
-Celle pour qui mon cœur devoit faire des vœux,
-Plûtost que de montrer à cette audace extrême,
-Je me serois cent fois armé contre moy méme.
-Mais enfin si Vanlie est hors de tout espoir,
-Phocate dans ces lieux n'a-t'il plus de pouvoir ?
-Est-il si tost dechû de la faveur d'un Prince
-Qui rangeoit sous ses loix cette grande Province ?
-Non, j'ay tort d'en douter ; fust-ce à ses ennemis
-Un Prince doit tenir tout ce qu'il a promis ;
-Autant qu'à les donter il y va de sa gloire⁎,
-En donnant sa parole il oblige à la croire ;
-Et n'est point, ou vinst-il enfin à consentir,
-Comme un autre mortel sujet au repentir.
-
--*who_tamerlan
-Non, d'aucun repentir ma grace n'est suivie,
-Et de tous les Chinois je t'accorde la vie :
-Mais en revanche aussy tu dois tomber d'accord
-Que ce lâche Tartare a merité la mort.
-
--*who_vanlie
-Seigneur, vouloir sa mort c'est demander la mienne,
-Comme l'un des vaincus soufrez qu'il m'appartienne ;
-Puisqu'il a soûtenu le party des Chinois,
-Suivant vôtre promesse il depend de mes loix.
-
--*who_tamerlan
-Crain qu'elle ne se rompe en voulant trop l'étendre,
-On perd tout bien souvent pour l'oser trop pretendre,
-Et qui demande plus qu'on ne peut accorder,
-Merite un pront refus, et sçait mal demander.
-A qui te fait du bien ne fais pas une injure,
-Menage ma faveur afin qu'elle te dure ;
-Pour cet infame objet⁎ tes soins sont superflus,
-Il perira, te dis-je, et ne m'en parle plus.
-
--*who_vanlie
-Grand Prince, en qui le Ciel tant de vertus assemble,
-Faittes plûtost perir tous les Chinois ensemble :
-Mais conservez ce fils malgré ce grand couroux,
-Et regardez en luy ce que j'ay fait pour vous.
-Pour luy je m'en depouille, et soufrez qu'il jouisse
-Des faveurs dont l'on daigne honnorer mon service⁎ ;
-Car enfin j'ay beau dire, on m'a vû dans ce jour
-Servir à vôtre gloire⁎ en servant mon amour.
-Qu'Armetzar vienne donc reprendre icy sa place,
-Il la luy restitue, et demande sa grace,
-Et vous devez, Seigneur, être enfin satisfait,
-Puisque j'ay fait pour vous tout ce qu'il auroit fait.
-
--*who_tamerlan
-Quoy persister encor ! y pensez vous, Phocate ?
-Et craignez vous si peu que ma fureur⁎ n'eclate ?
-C'est pour un criminel avoir trop d'amitié.
-
--*who_vanlie
-C'est pour un fils aimable avoir peu de pitié.
-Pour la derniere fois accordez ma priere,
-Reprenez vôtre grace, ou qu'elle soit entiere.
-
--*who_tamerlan
-Hé bien ! je la reprens, puisqu'elle vous deplaist.
-
--*who_vanlie
-Seigneur, si j'ose trop, c'est pour votre interest.
-
--*who_tamerlan
-Vous pourriez moderer ce zele qui m'offence,
-Et le laisser parler luy méme à sa defence.
-Ouy, parle ; t'armois tu pour me percer le sein ?
-Di, perfide⁎, di nous, quel estoit ton dessein ?
-
--*who_armetzar
-Par l'aveu de ce Prince il s'est trop fait entendre,
-J'aimois comme il aimoit, je n'ay pû m'en defendre,
-Nos crimes sont pareils, et j'ay pris le party
-De l'objet⁎ qui retient mon cœur assujetty.
-Mais quoy que dans des lieux chacun me fist caresse,
-Je n'aimois des Chinois que leur seule Princesse,
-Et n'osant de son pere abandonner le soin,
-De mes justes regrets le Ciel fut le témoin.
-Je combattois pour luy sans souhaitter sa gloire⁎,
-Je cherchois tout ensemble et fuyois la victoire,
-Et pour tout dire enfin, dans ce combat facheux
-Zinton avoit mon bras, et Tamerlan mes vœux.
-Ladice demandoit qu'en prenant sa querelle
-Armetzar combatist, et fust vaincu pour elle,
-Et si vous eussiez pû, Seigneur, ne vaincre pas,
-Eust elle aimé le fils d'un Prince mis à bas ?
-La victoire est enfin à qui l'a meritée,
-En vous la disputant je vous l'ay souhaittée,
-De pere et de maîtresse attaqué tour à tour
-J'ay tasché d'appaiser la nature et l'amour,
-Et j'aime mieux perir dedans cette avanture
-Que d'avoir etouffé l'amour ou la nature.
-Mais je ne puis perir, ô Prince genereux⁎ !
-Vous pardonnerez tout à ce fils amoureux⁎,
-Son crime fut forcé plûtost que volontaire,
-Et j'ay lieu d'esperer, mon juge êtant mon pere.
-
--*who_vanlie
-Ouy, Prince, esperons tout de ton pere et du mien,
-La nature aupres d'eux se rend nôtre soûtien.
-Voy par ces doux transports⁎ qu'enfin ils s'attendrissent,
-Voy par ces doux regards que leurs cœurs s'amolissent,
-Voy qu'insensiblement leur couroux s'attiedit,
-Et que contre ses traits⁎ la pitié se roidit.
-Aidons les à donter ces haines mutuelles
-D'où naissoient entre nous des guerres eternelles ;
-Vien, montrons leur exemple, et qu'ils en soient jaloux ;
-Embrassons nous, amy ; Peres, imitez nous.
-
--*who_zinton
-Tu te trompes, Vanlie, en prenant ma tristesse⁎
-Pour le honteux effet d'une lasche tendresse.
-Moy, je pardonnerois à qui m'a sçû trahir !
-Moy, je pourrois, cruel, cesser de te haïr !
-Et m'arrachant le sceptre as tu cette pensée ?
-Va, tu penetres mal dans mon ame offencée,
-Et ta perte en ce jour où les miens sont defaits
-Pourroit me consoler de celle que je fais.    
-
--*who_vanlie
-Ha ! Seigneur, à la fin ce couroux est injuste,
-La couronne est toûjours sur vôtre front Auguste⁎,
-Je vous l'ay conservée aidant à vous l'ôter,
-Et le thrône est à vous, daignez y remonter.
-
--*who_zinton
-Je ne veux point un thrône offert par un perfide⁎.
-
--*who_tamerlan
-Reçoy le donc de moy s'il en est plus solide,
-Regne encore en ces lieux, et devenons amis ;
-C'est assez qu'un moment Zinton me fut soûmis,
-Et je veux aujourd'huy pour comble de ma gloire⁎,
-Que ma clemence eclate autant que ma victoire.
-
--*who_zinton 
-En pouvant me donner ces genereuses⁎ loix,
-Tamerlan, c'est me vaincre une seconde fois.
-
--*who_tamerlan
-Mais il nous faut aussy vaincre cette colere
-Qui contre nos enfans a paru si severe.
-Chacun d'eux nous trahit pour plaire à son amour,
-Mais chacun d'eux aussy nous assiste en ce jour ;
-Leur noble repentir doit effacer leur crime,
-Et la nature enfin en leur faveur s'exprime.
-Armetzar, sois mon fils, je te pardonne tout,
-Tu veux une Chinoise, et mon cœur s'y resout.
-Ouy, Ladice me plaist, puisqu'elle a sçû te plaire ;
-Mais il te faut de plus l'obtenir de son pere.
-
--*who_zinton
-Je ne dois pas reprendre un don que j'avois fait,
-Il en a ma parole, et peut en voir l'effet.
-
--*who_armetzar
-Quel bonheur impreveu ! Dieux, que viens-je d'entendre ?
-Ha mon pere ! ha grand Roy ! que pourray-je vous rendre !
-
--*who_tamerlan
-Vanlie, enfin le Ciel exauce tes souhaits,
-Et je te donne ensemble et ma fille et la paix.
-
--*who_vanlie
-De vos rares bontez c'est une illustre marque ;
-Que ne vous dois-je point, invincible Monarque !
-
--*who_tamerlan 
-Ouy, par de tels bienfaits je veux vous enchaîner,
-Et Tamerlan enfin sçait vaincre et pardonner.

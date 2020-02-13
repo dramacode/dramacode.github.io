@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_laodice  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1668  
 title: Laodice, reine de Cappadoce. Tragédie  
 ---
@@ -4235,7 +4235,27 @@ Allons luy faire voir et sa Reyne et son Roy.
 Fin du cinquiéme et dernier Acte.
 
 
-# Glossaire.AmorcePlus petit signe de manifestation d'amour.V. 101, 1609.CharmerSens fort. Du latin :* carmen* , chant. Séduire comme par un charme magique, ensorceler. *Charme* : attirance qui tient du sortilège.V. 47, 677, 787, 989, 1607.DéputerDéputer quelqu'un, envoyer un représentant. *Députer* est aujourd'hui transitif.V. 1, 905.DisgraceMalheur.V. 141, 714, 1081, 1150, 1718.D'ailleursPar ailleurs.V. 341, 1081, 1689.DouceurJouissance, plaisir extrême.V. 145, 184, 341, 424, 530, 839.ÉmeuSoulevé, qui s'agite.V. 1045, 1174, 1209, 1445, 1690, 1706.EntendreComprendre.V. 956, 982.FlatterTromper. Donner l'espoir. Charmer, séduire. Entretenir dans l'espérance trompeuse de.V. 1607.FierCruel.V. 81, 454, 946, 1481.FoyFidélité, dévouement. Engagement.V. 548, 594, 1021.GloireSe dit par emprunt et par participation, de l'honneur mondain, de la louange, ou de l'approbation qu'on donne au mérite, au sçavoir, et à la vertu des hommes. (Furetière)V. 66, 86, 150, 169, 183, 289, 1141, 1243, 1670.NatureMouvement, sentiment interne d'une lumière d'une connaissance qui est comme née avec nous, pour discerner ce qui est bon, ou mauvais, ce qui nous  sert, ou ce qui nous nuit, laquelle  à quelques égards nous est  commune avec les animaux (Furetiere). On entend donc par *nature* au XVII*e* ce que l'homme est  porté à ressentir par une impulsion naturelle. Cette notion apparait de manière résurgente dans les tragédies classiques, cornéliennes notamment, où le héros s'y retrouve fréquemment confronté. On se rappelera entre autre des fameux vers prononcés par Cléopâtre dans Rodogune : « Sors de mon corps Nature… ». Nous dirions aujourd'hui *garder pour*. V. 462, 729.OùAuquel. L'ancien français  usait largement d'adverbes relatifs, à la place d'un relatif précédé d'une préposition : *dont* pour *de qui, duquel, avec qui, avec quel* etc. *où* pour *à qui, chez qui*  etc…Notons que * auquel* est une contraction  du pronom relatif précédé de la préposition *à.*V. 102, 150, 925, 954, 1224.ParricideNe signifiait pas seulement meurtre du père ou de la mère mais encore meurtre d'un parent ou d'un souverain. Au v. 1002  il s'agit du meurtre du fils.V. 1002, 1166, 1586, 1692, 1709.PresserPousser impérieusement. Sens fort.V. 8, 52.PrévenirDevancer, se prémunir contre.V. 670, 1103, 1227, 1399, 1467, 1592.Reserver auMe destiner au. *Reserver* ne réfère plus aujourd'hui qu'à l'inanimé.V. 34, 150.SouffrirAccepter, tolérer, consentir.V. 805, 1199, 1233, 1285, 1375, 1512.SoinsAssiduités.V. 171, 341, 482, 1687.VœuxSouhaits.Langage de la galanterie en usage au XVII*e*. Hommages, soins amoureux.V. 41, 171, 181, 231, 247, 343, 798.ZèleDévouement.V. 445, 482, 531, 534, 604.
+# Glossaire.AmorcePlus petit signe de manifestation d'amour.V. 101, 1609.CharmerSens fort. Du latin :* carmen* , chant. Séduire comme par un charme
+            magique, ensorceler. *Charme* : attirance qui tient du sortilège.V. 47, 677, 787, 989, 1607.DéputerDéputer quelqu'un, envoyer un représentant. *Députer* est aujourd'hui
+            transitif.V. 1, 905.DisgraceMalheur.V. 141, 714, 1081, 1150, 1718.D'ailleursPar ailleurs.V. 341, 1081, 1689.DouceurJouissance, plaisir extrême.V. 145, 184, 341, 424, 530, 839.ÉmeuSoulevé, qui s'agite.V. 1045, 1174, 1209, 1445, 1690, 1706.EntendreComprendre.V. 956, 982.FlatterTromper. Donner l'espoir. Charmer, séduire. Entretenir dans l'espérance trompeuse
+            de.V. 1607.FierCruel.V. 81, 454, 946, 1481.FoyFidélité, dévouement. Engagement.V. 548, 594, 1021.GloireSe dit par emprunt et par participation, de l'honneur mondain, de la louange, ou de
+            l'approbation qu'on donne au mérite, au sçavoir, et à la vertu des hommes.
+            (Furetière)V. 66, 86, 150, 169, 183, 289, 1141, 1243, 1670.NatureMouvement, sentiment interne d'une lumière d'une connaissance qui est comme née avec
+            nous, pour discerner ce qui est bon, ou mauvais, ce qui nous sert, ou ce qui nous nuit,
+            laquelle à quelques égards nous est commune avec les animaux (Furetiere). On entend donc
+            par *nature* au XVII*e* ce que l'homme est porté à
+            ressentir par une impulsion naturelle. Cette notion apparait de manière résurgente dans
+            les tragédies classiques, cornéliennes notamment, où le héros s'y retrouve fréquemment
+            confronté. On se rappelera entre autre des fameux vers prononcés par Cléopâtre dans
+            Rodogune : « Sors de mon corps Nature… ». Nous dirions aujourd'hui *garder
+              pour*. V. 462, 729.OùAuquel. L'ancien français usait largement d'adverbes relatifs, à la place d'un
+            relatif précédé d'une préposition : *dont* pour *de qui,
+              duquel, avec qui, avec quel* etc. *où* pour *à qui,
+              chez qui* etc…Notons que * auquel* est une contraction du pronom
+            relatif précédé de la préposition *à.*V. 102, 150, 925, 954, 1224.ParricideNe signifiait pas seulement meurtre du père ou de la mère mais encore meurtre d'un
+            parent ou d'un souverain. Au v. 1002 il s'agit du meurtre du fils.V. 1002, 1166, 1586, 1692, 1709.PresserPousser impérieusement. Sens fort.V. 8, 52.PrévenirDevancer, se prémunir contre.V. 670, 1103, 1227, 1399, 1467, 1592.Reserver auMe destiner au. *Reserver* ne réfère plus aujourd'hui qu'à
+            l'inanimé.V. 34, 150.SouffrirAccepter, tolérer, consentir.V. 805, 1199, 1233, 1285, 1375, 1512.SoinsAssiduités.V. 171, 341, 482, 1687.VœuxSouhaits.Langage de la galanterie en usage au XVII*e*. Hommages, soins
+            amoureux.V. 41, 171, 181, 231, 247, 343, 798.ZèleDévouement.V. 445, 482, 531, 534, 604.
 
 
 # Bibliographie.
@@ -4255,11 +4275,13 @@ Stilicon
 
 
 
-### Les sources historiques.Abrégé de l'Histoire Universelle de Trogue Pompée, extraite de Trogue Pompée, traduite…
+### Les sources historiques.Abrégé de l'Histoire Universelle de Trogue Pompée, extraite de
+                Trogue Pompée, traduite…
 
 
 
-## Autour de Thomas Corneille.Le Festival Corneille : 20 ans de théâtre à Barentin, 1956-1975
+## Autour de Thomas Corneille.Le Festival Corneille : 20 ans de théâtre à
+              Barentin, 1956-1975
 Pierre et Thomas Corneille librettistes
 Pierre Corneille et ses frères…
 Thomas Corneille : sa vie et son théâtre
@@ -4267,8 +4289,10 @@ Thomas Corneille : sa vie et son théâtre
 
 
 ## Ouvrages généraux sur le XVII*e* siècle.Littérature française
-A History of French Dramatic Literature in the Seventeenth Century
-Histoire du théâtre français depuis son origine jusqu'à présent
+A History of French Dramatic
+              Literature in the Seventeenth Century
+Histoire du théâtre français depuis son origine
+              jusqu'à présent
 
 
 
@@ -4277,7 +4301,8 @@ Corneille et la dialectique du héros
 Comédie et tragédie
 Introduction à l'analyse des textes classiques
 Essai de génétique théâtrale
-Esthétique del'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+Esthétique del'identité dans le théâtre français
+              (1550-1680). Le déguisement et ses avatars
 La Dramaturgie classique en France
 Études de style
 La Tragédie classique en France
@@ -4288,7 +4313,8 @@ La Tragédie classique en France
 Pierre Corneille
 Littérature
  XVII*e* siècle
-, Papers on French Seventeenth Century Literature
+, Papers on French Seventeenth Century
+              Literature
 
 
 
@@ -4299,37 +4325,58 @@ Dictionnaire François
 -------
 
 
-[1] *Laodice*, Rouen ; Paris, Barbin ; Quinet, 1668. 12°. *Priv*. fev. 21, *achevé* mars 8.
+[1] *Laodice*, Rouen ; Paris,
+            Barbin ; Quinet, 1668. 12°. *Priv*. fev. 21, *achevé*
+            mars 8.
 
-[2] Pierre Corneille, *Discours de l'utilité et des parties du poème dramatique*, dans *Trois discours sur le poème dramatique (texte de 1660)*, éd. Louis Forestier, 1963, p. 46.
+[2] Pierre Corneille,
+              *Discours de l'utilité et des parties du poème dramatique*, dans *Trois discours sur le poème dramatique (texte de 1660)*, éd. Louis
+            Forestier, 1963, p. 46.
 
-[3] Louis Lapert, *Pierre Corneille, ses frères Antoine et Thomas, leur famille maternelle et leurs amis au Pays de Caux*, Association pour l'animation et la coordination culturelle à Yvetot et dans le pays de Caux, 1984.
+[3] Louis Lapert,
+              *Pierre Corneille, ses frères Antoine et Thomas, leur famille maternelle
+              et leurs amis au Pays de Caux*, Association pour l'animation et la coordination
+            culturelle à Yvetot et dans le pays de Caux, 1984.
 
-[4] V. 1725 et 1726 : «  Joignant insolemment l'injure à la menace / Du plus sanglant reproche ils armoient leur audace »
+[4] V. 1725 et 1726 : «  Joignant insolemment l'injure à la
+            menace / Du plus sanglant reproche ils armoient leur audace »
 
-[5] Sous Auguste ou Pompée.
+[5] Sous Auguste ou
+              Pompée.
 
 [6] Cf l'avis au lecteur de *Laodice*.
 
 [7] Pierre Corneille, *Trois discours sur le poème dramatique*.
 
-[8] À la différence du sujet simple ou l'on passe du droit fil du bonheur au malheur.
+[8] À la différence du sujet
+              simple ou l'on passe du droit fil du bonheur au malheur.
 
-[9] Pierre Corneille, examen de *Rodogune*, 1660-1682.
+[9] Pierre
+                Corneille, examen de *Rodogune*, 1660-1682.
 
 [10] Représentée en 1644 ou 1645.
 
-[11] Pierre Corneille, *Discours de l'utilité et des parties du poème dramatique*, dans *Trois discours sur le poème dramatique (1660)*, éd. cit., p. 55.
+[11] Pierre Corneille, *Discours de
+                  l'utilité et des parties du poème dramatique*, dans *Trois
+                  discours sur le poème dramatique (1660)*, éd. cit., p. 55.
 
-[12] Jacques Scherer, *La Dramaturgie classique en France*, Paris, Nizet, 1986.
+[12] Jacques Scherer,
+                  *La Dramaturgie classique en France*, Paris, Nizet, 1986.
 
 [13] Serge Doubrovsky, *Corneille et la dialectique du héros*, Paris, Gallimard, 1982.
 
-[14] Doreena- Ann Statamo, *Le renversement symétrique des rôles masculins et féminins dans les pièces Rodogune et Horace*, dans *Papers on French Seventeenth Century Literature*, 1989.
+[14] Doreena- Ann
+                Statamo, *Le renversement symétrique des rôles masculins et féminins
+                  dans les pièces Rodogune et Horace*, dans *Papers on French
+                  Seventeenth Century Literature*, 1989.
 
-[15] v. 1053 : « Et bien, prenez ma vie, elle est à vous, Madame. »
+[15] v. 1053 : « Et bien, prenez ma vie, elle est à vous,
+                Madame. »
 
-[16] v.1565 : « Haïssez un ingrat, perdez un temeraire, » et v.1571 : « N'épargnez point mon sang, ce sang trop odieux / Qui peut-estre en coulant vous l'expliquera mieux. » ainsi que v. 1577 : « Il me sera plus doux… »
+[16] v.1565 : « Haïssez un ingrat, perdez un
+                temeraire, » et v.1571 : « N'épargnez point mon sang, ce sang trop odieux / Qui
+                peut-estre en coulant vous l'expliquera mieux. » ainsi que v. 1577 : « Il me sera
+                plus doux… »
 
 [17] II, 1, v.404.
 
@@ -4337,39 +4384,51 @@ Dictionnaire François
 
 [19] III, 3, v.1040 et 1042.
 
-[20] v.2 et v.1590 et 1592.
+[20] v.2 et v.1590 et
+              1592.
 
-[21] v.13 et 47
+[21] v.13 et
+                47
 
-[22] Pierre Ronzeaud, *La femme au pouvoir ou le monde à l'envers, XVII*e* siècle*, 1975, n° 108.
+[22] Pierre Ronzeaud, *La femme au pouvoir ou le monde à
+                  l'envers, XVII*e* siècle*, 1975, n° 108.
 
-[23] Pierre Corneille, *œuvres complètes*, Paris, Gallimard, bibliothèque de la Pléiade, 1984.
+[23] Pierre
+                Corneille, *œuvres complètes*, Paris, Gallimard, bibliothèque de la
+                Pléiade, 1984.
 
-[24] Jacques Truchet, *La tragédie classique en France*, Paris, Presses universitaires de France, 1997.
+[24] Jacques Truchet, *La tragédie classique en France*, Paris, Presses
+                universitaires de France, 1997.
 
 [25] II, 1, v.461.
 
 [26] I, 1, v. 110.
 
-[27] I, 3, v. 289-292.
+[27] I, 3, v.
+                289-292.
 
 [28] V. 761-762.
 
-[29] Corneille Pierre, *Héraclius, empereur d'Orient*, préf. de Georges Forestier, Paris, Cicéro, 1995.
+[29] Corneille Pierre, *Héraclius, empereur d'Orient*, préf. de Georges Forestier, Paris,
+              Cicéro, 1995.
 
 [30] Aristote, *La Poétique*.
 
-[31] v. 1446.
+[31] v.
+                1446.
 
 [32] V. 1707.
 
 [33] V. 1719.
 
-[34] Jacques Truchet, *La tragédie classique en France*, Paris, PUF, 1997.
+[34] Jacques Truchet, *La tragédie
+                  classique en France*, Paris, PUF, 1997.
 
 [35] V. 317.
 
-[36] Corneille, *œuvres complètes, II*, éd. Georges Couton, Paris, Gallimard, Bibliothèque de la Pléiade, 1984, p. 1361.
+[36] Corneille, *œuvres complètes,
+                    II*, éd. Georges Couton, Paris, Gallimard, Bibliothèque de la Pléiade, 1984,
+                  p. 1361.
 
 [37] V. 1488.
 
@@ -4383,19 +4442,25 @@ Dictionnaire François
 
 [42] V. 1622.
 
-[43] V. 1633.
+[43] V.
+                1633.
 
-[44] V. 1631-1632.
+[44] V.
+                  1631-1632.
 
 [45] V. 1613.
 
 [46] V. 1617- 1618
 
-[47] Cet emploi métonymique propre à la tragédie classique, où l'on gomme le particulier, prouve que la primauté est accordée à l'humain. Cf. Jean Emelina, « La géographie tragique », dans* Comédie et tragédie*, Nice, Publication de la faculté des Lettres, arts et sciences humaines de Nice, 1998.
+[47] Cet emploi métonymique propre à la
+                      tragédie classique, où l'on gomme le particulier, prouve que la primauté est
+                      accordée à l'humain. Cf. Jean Emelina, « La géographie tragique », dans* Comédie et tragédie*, Nice, Publication de la faculté des
+                      Lettres, arts et sciences humaines de Nice, 1998.
 
 [48] V. 1.
 
-[49] V. 5.
+[49] V.
+                      5.
 
 [50] V. 17.
 
@@ -4413,15 +4478,19 @@ Dictionnaire François
 
 [57] Acte II, scène 1.
 
-[58] Acte II, scène 6. v. 721 à 724 : « Rome qui de mon sort eut toûjours connoissance / A feint de s'abuser sur sa fausse naissance, / Et ne l'envoie icy qu'afin de l'y punir / Du mensonge insolent qu'il ose soûtenir. »
+[58] Acte II, scène 6. v. 721 à 724 : « Rome qui de mon sort eut toûjours
+                      connoissance / A feint de s'abuser sur sa fausse naissance, / Et ne l'envoie
+                      icy qu'afin de l'y punir / Du mensonge insolent qu'il ose soûtenir. »
 
-[59] Acte II, scène 5, v. 685 : « Et le Peuple montrant sa joie et sa surprise… »
+[59] Acte II, scène 5, v. 685 : « Et le
+                      Peuple montrant sa joie et sa surprise… »
 
 [60] V. 516.
 
 [61] V. 518.
 
-[62] V. 687.
+[62] V.
+                      687.
 
 [63] V. 720.
 
@@ -4429,15 +4498,18 @@ Dictionnaire François
 
 [65] V. 910 à 932.
 
-[66] V. 896.
+[66] V.
+                      896.
 
-[67] V. 921.
+[67] V.
+                      921.
 
 [68] V. 926.
 
 [69] V. 1190 et 1191.
 
-[70] V. 1221 et 1222.
+[70] V. 1221 et
+                        1222.
 
 [71] V. 1309.
 
@@ -4447,21 +4519,27 @@ Dictionnaire François
 
 [74] V. 1338.
 
-[75] I, 1, v. 7 et 8.
+[75] I, 1, v. 7
+                      et 8.
 
 [76] V. 52.
 
 [77] V. 37 et 38.
 
-[78] V. 46.
+[78] V.
+                    46.
 
-[79] II, 1, v. 406.
+[79] II, 1,
+                    v. 406.
 
-[80] *Par eux* : par les Princes.
+[80] *Par eux* : par les
+                      Princes.
 
-[81] II, 2, v. 574 et 575.
+[81] II, 2, v. 574
+                      et 575.
 
-[82] II, 3, v. 624 et 625.
+[82] II,
+                      3, v. 624 et 625.
 
 [83] V. 685.
 
@@ -4475,7 +4553,8 @@ Dictionnaire François
 
 [88] V. 853.
 
-[89] V. 437.
+[89] V.
+                    437.
 
 [90] V. 1707. 1719.
 
@@ -4483,7 +4562,8 @@ Dictionnaire François
 
 [92] V. 1710
 
-[93] V. 1723 à 1726.
+[93] V. 1723 à
+                      1726.
 
 [94] I,1,v. 7 et 8.
 
@@ -4491,15 +4571,18 @@ Dictionnaire François
 
 [96] II,2, v. 574.
 
-[97] II,3, v. 625  et 626.
+[97] II,3, v. 625 et
+                  626.
 
 [98] II,6, v. 709.
 
 [99] III,3, v. 986.
 
-[100] IV, 2, v.1151.
+[100] IV, 2,
+                    v.1151.
 
-[101] IV,2, v. 1156 à 1158.
+[101] IV,2, v. 1156 à
+                    1158.
 
 [102] IV,3,v.1175.
 
@@ -4515,71 +4598,156 @@ Dictionnaire François
 
 [108] V,5,v.1709.
 
-[109] V. 755 à 758.
+[109] V. 755 à
+                    758.
 
-[110] Quelle que soit votre motivation, quel que soit ce qui vous pousse à agir ainsi.
+[110] Quelle que soit
+                    votre motivation, quel que soit ce qui vous pousse à agir ainsi.
 
-[111] *En faveur de* : en profitant de.
+[111] *En faveur
+                      de* : en profitant de.
 
-[112] *A la face du Ciel* : devant les yeux du Ciel.
+[112] *A la face du Ciel* :
+                    devant les yeux du Ciel.
 
-[113] V. 1016 à 1023.
+[113] V. 1016 à
+                    1023.
 
 [114] V. 586
 
 [115] Le vers 524 fonctionne similairement.
 
-[116] V. 873 et 874.
+[116] V.
+                    873 et 874.
 
 [117] V. 47-48
 
-[118] Acte I, scène II, v. 145 et 146.
+[118] Acte I, scène II, v.
+                    145 et 146.
 
-[119] Que l'on n'apprend qu'à la scène suivante.
+[119] Que l'on
+                  n'apprend qu'à la scène suivante.
 
-[120] « Oronte »est donné dés le début et même dans la liste des personnages pour Ariarate.
+[120] « Oronte »est donné dés le début
+                  et même dans la liste des personnages pour Ariarate.
 
-[121] Voir aussi v. 151.
+[121] Voir aussi v.
+                  151.
 
-[122] Acte I, scène IV, v. 361 et 362.
+[122] Acte I, scène
+                    IV, v. 361 et 362.
 
-[123] V. 371 et 372
+[123] V. 371 et
+                    372
 
-[124] Acte I, scène IV, v. 376 et 377.
+[124] Acte I, scène IV, v.
+                    376 et 377.
 
-[125] On retrouve le même processus v. 187 à 189, v. 751, 781, 823, 755 à 758, 781 à 782, 815 à 816, 818 à 828, 845 à 847.
+[125] On retrouve le même
+                  processus v. 187 à 189, v. 751, 781, 823, 755 à 758, 781 à 782, 815 à 816, 818 à
+                  828, 845 à 847.
 
 [126] V. 161
 
-[127] Acte II, scène II, v. 535 et 536.
+[127] Acte II, scène
+                    II, v. 535 et 536.
 
-[128] III, 2, v. 1011 et 1012.
+[128] III, 2, v. 1011 et
+                    1012.
 
 [129] V. 1053
 
-[130] Acte V, scène II, v. 1600 à 1602.
+[130] Acte V, scène
+                    II, v. 1600 à 1602.
 
-[131] * Les annonces* : les scènes qui ne sont ni fondées sur l'équivoque ni sur les élucidations sont les annonces de mariages, et les récits de morts, respectivement au nombre de trois. On retrouve encore cette notion de contraires qui s'équilibrent. Stabilité classique ou insertion du trouble ? Respect, ménagement du spectateur ou déstabilisation par le rapprochement de notions contraires ? Les annonces officielles d'hyménées se répètent, la bonne n'étant que la dernière. À l'acte II, scène 2, Laodice annonce à Anaxandre qu'elle épousera Oronte, mais l'héritier, cru mort, réapparaît, et c'est pourquoi à l'acte III, scène 2, Laodice, encore, annonce à Axiane son mariage avec Ariarate l'imposteur, mais ce dernier succombe brutalement, entraînant l'enquête, l'élucidation, le repentir, la déclaration de son amour, la révélation de l'identité d'Ariarate, et donc l'ultime annonce de mariage, prononcée par Laodice, toujours. Cette fois sont évincés les parasites condamnant l'union à une fatale stérilité. Il n'est plus question ni d'union entre une mère et son fils, ni d'union d'imposture. L'immobilisme, le piétinement, la stérilité imposés par le tyran ne sont plus de mise. La crise tragique a permis à la situation de se débloquer. Peut désormais avoir lieu un mariage fécond, celui d'Ariarate et d'Axiane. Les annonces de mort, également au nombre de trois, marquent l'accélération finale de l'intrigue. Elles viennent se concentrer dans les deux derniers actes, régulières, comme pour mimer les battements de cœur engendrés par la tension tragique. Elles n'apparaissent en effet que tardivement dans la pièce, à partir du quatrième acte, scène II, où Phradate vient faire le récit à Laodice de la mort du dit Ariarate. Nous apprenons quatre scènes plus tard seulement la mort d'Anaxandre, au cinquième acte, scène I, puis, quatre scènes encore plus loin, la mort de Laodice. Il s'agissait de l'ultime battement de cœur, marquant la mort de la matrice dramatique, la mort définitive. Ces trois scènes se rapprochent sensiblement dans leur structure. À chaque décès, la colère du Peuple gronde en toile de fond, ou même au premier plan. Les trois morts sont provoquées par l'agitation de la foule. Elles ont donc toutes trois lieu au milieu du Peuple. Ce dernier n'est plus une somme d'individus définis et différents, il n'est plus que masse compacte, indivisible, organisme autonome, individu à lui tout seul, agi par une pulsion commune et unique, par un seul et même dessein à chaque reprise. Si nos trois personnages succombent, c'est parce qu'ils sont littéralement engloutis par cette monstrueuse masse organique. Le dit Ariarate périt à cause d'une dispute initiale entre deux chefs, mais la querelle a tôt fait de gagner les troupes. Il est alors question dans le texte d'« emportement » (v.1173), de « troupe émeuë » (v.1209), de « fatal désordre » (v.1212). Le différent se diffuse et comme en témoigne Phradate : « Malgré nous on se mesle, on se bat, on se tuë (…) / Un funeste coup  jusqu'au Prince échappé » (v.1210- 1211) met alors fin à ses jours. La foule, hystérique et ne se maîtrisant plus a submergé l'imposteur. De même Phradate rapporte-t-il fidèlement la mise à mort d'Anaxandre en racontant comment : « le Peuple animé de rage et de douleur, / dans son emportement ne cherchant qu'où se prendre, / Quoy qu'ait fait Théodot s'est saisy d'Anaxandre » (v.1434, 1435, 1436) Et comment : « Sans rien examiner il l'a pris pour victime. » (v.1442) À noter le réalisme palpitant de sa peinture. Le présent a pour effet de rendre la scène, passée, aussi vivante que si elle se produisait sous les yeux des destinataires, et résout ainsi les problèmes posés par les entraves classiques. L'antéposition du discours rapporté : « *Du Prince Ariarate il faut vanger la mort* » (v.1440) Engendre également un effet de réalisme par le mime de l'immédiateté de sa perception. Nous croirions y être. Si pour sa part, c'est Laodice seule qui se donne la mort, elle agit à la demande du Peuple, « amassé » sous son balcon, et lui adressant « les plus sanglants reproches » (v. 1726). La mort dans la pièce est donc retour à un organisme originel, primitif et est toujours annoncée par Phradate, messager de l'extérieur, personnage lié, nous l'avons vu, au monde de la lumière et de la vérité, tandis que les mariages sont toujours annoncés par Laodice, maîtresse de l'intérieur, de son monde réduit, dissimulé, faux, un monde de l'ombre, où sont fomentés ces mariages factices et stériles.
+[131] * Les annonces* : les scènes qui ne sont ni fondées sur l'équivoque
+                  ni sur les élucidations sont les annonces de mariages, et les récits de morts,
+                  respectivement au nombre de trois. On retrouve encore cette notion de contraires
+                  qui s'équilibrent. Stabilité classique ou insertion du trouble ? Respect,
+                  ménagement du spectateur ou déstabilisation par le rapprochement de notions
+                  contraires ? Les annonces officielles d'hyménées se répètent, la bonne n'étant que
+                  la dernière. À l'acte II, scène 2, Laodice annonce à Anaxandre qu'elle épousera
+                  Oronte, mais l'héritier, cru mort, réapparaît, et c'est pourquoi à l'acte III,
+                  scène 2, Laodice, encore, annonce à Axiane son mariage avec Ariarate l'imposteur,
+                  mais ce dernier succombe brutalement, entraînant l'enquête, l'élucidation, le
+                  repentir, la déclaration de son amour, la révélation de l'identité d'Ariarate, et
+                  donc l'ultime annonce de mariage, prononcée par Laodice, toujours. Cette fois sont
+                  évincés les parasites condamnant l'union à une fatale stérilité. Il n'est plus
+                  question ni d'union entre une mère et son fils, ni d'union d'imposture.
+                  L'immobilisme, le piétinement, la stérilité imposés par le tyran ne sont plus de
+                  mise. La crise tragique a permis à la situation de se débloquer. Peut désormais
+                  avoir lieu un mariage fécond, celui d'Ariarate et d'Axiane. Les annonces de mort,
+                  également au nombre de trois, marquent l'accélération finale de l'intrigue. Elles
+                  viennent se concentrer dans les deux derniers actes, régulières, comme pour mimer
+                  les battements de cœur engendrés par la tension tragique. Elles n'apparaissent en
+                  effet que tardivement dans la pièce, à partir du quatrième acte, scène II, où
+                  Phradate vient faire le récit à Laodice de la mort du dit Ariarate. Nous apprenons
+                  quatre scènes plus tard seulement la mort d'Anaxandre, au cinquième acte, scène I,
+                  puis, quatre scènes encore plus loin, la mort de Laodice. Il s'agissait de
+                  l'ultime battement de cœur, marquant la mort de la matrice dramatique, la mort
+                  définitive. Ces trois scènes se rapprochent sensiblement dans leur structure. À
+                  chaque décès, la colère du Peuple gronde en toile de fond, ou même au premier
+                  plan. Les trois morts sont provoquées par l'agitation de la foule. Elles ont donc
+                  toutes trois lieu au milieu du Peuple. Ce dernier n'est plus une somme d'individus
+                  définis et différents, il n'est plus que masse compacte, indivisible, organisme
+                  autonome, individu à lui tout seul, agi par une pulsion commune et unique, par un
+                  seul et même dessein à chaque reprise. Si nos trois personnages succombent, c'est
+                  parce qu'ils sont littéralement engloutis par cette monstrueuse masse organique.
+                  Le dit Ariarate périt à cause d'une dispute initiale entre deux chefs, mais la
+                  querelle a tôt fait de gagner les troupes. Il est alors question dans le texte
+                  d'« emportement » (v.1173), de « troupe émeuë » (v.1209), de « fatal désordre »
+                  (v.1212). Le différent se diffuse et comme en témoigne Phradate : « Malgré nous on
+                  se mesle, on se bat, on se tuë (…) / Un funeste coup jusqu'au Prince échappé »
+                  (v.1210- 1211) met alors fin à ses jours. La foule, hystérique et ne se maîtrisant
+                  plus a submergé l'imposteur. De même Phradate rapporte-t-il fidèlement la mise à
+                  mort d'Anaxandre en racontant comment : « le Peuple animé de rage et de douleur, /
+                  dans son emportement ne cherchant qu'où se prendre, / Quoy qu'ait fait Théodot
+                  s'est saisy d'Anaxandre » (v.1434, 1435, 1436) Et comment : « Sans rien examiner
+                  il l'a pris pour victime. » (v.1442) À noter le réalisme palpitant de sa peinture.
+                  Le présent a pour effet de rendre la scène, passée, aussi vivante que si elle se
+                  produisait sous les yeux des destinataires, et résout ainsi les problèmes posés
+                  par les entraves classiques. L'antéposition du discours rapporté : « *Du Prince Ariarate il faut vanger la mort* » (v.1440) Engendre également un
+                  effet de réalisme par le mime de l'immédiateté de sa perception. Nous croirions y
+                  être. Si pour sa part, c'est Laodice seule qui se donne la mort, elle agit à la
+                  demande du Peuple, « amassé » sous son balcon, et lui adressant « les plus
+                  sanglants reproches » (v. 1726). La mort dans la pièce est donc retour à un
+                  organisme originel, primitif et est toujours annoncée par Phradate, messager de
+                  l'extérieur, personnage lié, nous l'avons vu, au monde de la lumière et de la
+                  vérité, tandis que les mariages sont toujours annoncés par Laodice, maîtresse de
+                  l'intérieur, de son monde réduit, dissimulé, faux, un monde de l'ombre, où sont
+                  fomentés ces mariages factices et stériles.
 
-[132] Cette version conserve toutes les modifications de celle de G. de Luyne, sauf Diadême -> Diadéme ,  suprême -> supréme, moy ->moi, Vôtre -> vostre, Dont -> Donc, Tyrans -> Tirans, mystere -> mistere, étois -> etois, gênée -> genée
+[132] Cette
+                version conserve toutes les modifications de celle de G. de Luyne, sauf Diadême
+                -> Diadéme , suprême -> supréme, moy ->moi, Vôtre -> vostre,
+                Dont -> Donc, Tyrans -> Tirans, mystere -> mistere, étois ->
+                etois, gênée -> genée
 
 [133] Sauf « être »
 
-[134] *Quand* : juste au moment où. *Quand*  a ici une nuance ironique. Il sous-entend *comme par hazard*.
+[134] *Quand* : juste au moment où. *Quand*  a ici une nuance
+                ironique. Il sous-entend *comme par hazard*.
 
-[135] *S'interesse à* : prend parti politiquement pour, se passionne. En latin, *interesse* signifie *intervenir, se mettre de la partie*. On remarque que la plupart des mots voient s'affaiblir leur sens à mesure qu'ils vieillissent.
+[135] *S'interesse à* : prend parti
+                politiquement pour, se passionne. En latin, *interesse* signifie *intervenir, se mettre de la partie*. On remarque que la plupart des
+                mots voient s'affaiblir leur sens à mesure qu'ils vieillissent.
 
-[136] *prévenir* : devancer.
+[136] *prévenir* :
+                devancer.
 
 [137] *resout* : désigne.
 
 [138] *armé pour sa querelle* : dans un combat pour Rome.
 
-[139] Anciennes provinces d'Asie Mineure. « La Cappadoce était bornée au nord par le Pont-Euxin, au levant par l'Arménie Mineure, et à l'Occident par la Galatie, au midi le Mont Taurus la séparait de la Cilicie. » selon le dictionnaire de Trevoux.
+[139] Anciennes
+                provinces d'Asie Mineure. « La Cappadoce était bornée au nord par le Pont-Euxin, au
+                levant par l'Arménie Mineure, et à l'Occident par la Galatie, au midi le Mont Taurus
+                la séparait de la Cilicie. » selon le dictionnaire de Trevoux.
 
 [140] *Se flate* : se donne l'espoir.
 
-[141] Aujourd'hui, on dirait plûtot *ait sauvé*, la donnée étant virtuelle.
+[141] Aujourd'hui, on dirait
+                plûtot *ait sauvé*, la donnée étant virtuelle.
 
 [142] C'est à dire : la certitude peu fondée de sa vie.
 
@@ -4593,9 +4761,12 @@ Dictionnaire François
 
 [147] C'est à dire : la flamme,l'ardeur qu'on pense diminuer.
 
-[148] C'est à dire : leur ambition oriente leurs soins amoureux, leurs hommages.
+[148] C'est à dire : leur ambition oriente leurs soins amoureux, leurs
+                hommages.
 
-[149] *afin de l'arrêter*  : pour le retenir (pour ne pas qu'il aille se battre ailleurs).
+[149] *afin de
+                  l'arrêter*  : pour le retenir (pour ne pas qu'il aille se battre
+                ailleurs).
 
 [150] *Insolence* : violence, sauvagerie.
 
@@ -4605,115 +4776,168 @@ Dictionnaire François
 
 [153] *Tribut* : Hommage.
 
-[154] C'est à dire : lui seul a permis à La Reine d'asseoir  son pouvoir .
+[154] C'est à dire : lui seul a permis à La Reine d'asseoir son pouvoir
+                .
 
-[155] Le verbe se construit aujourd' hui avec la préposition *de .*
+[155] Le verbe se construit aujourd' hui avec la
+                préposition *de .*
 
-[156] *je m'observe* : je me condamne.
+[156] *je
+                m'observe* : je me condamne.
 
-[157] *Solliciter l'adveu des devoirs qu'il me rend* :solliciter l'autorisation de ses hommages, le fait qu'elle accepte officiellement de recevoir ses devoirs d'amoureux.
+[157] *Solliciter l'adveu des devoirs qu'il me
+                rend* :solliciter l'autorisation de ses hommages, le fait qu'elle accepte
+                officiellement de recevoir ses devoirs d'amoureux.
 
-[158] *Et j'ay connu souvent qu'il s'estoit répondu / Que s'il m'avoit parlé je l'avois entendu* : Le sens de ces deux vers est obscur. De deux choses l'une : il semble possible qu'une virgule ait été omise en fin de vers, après *répondu ;* dans ce cas, comprenons :  « Je me suis souvent aperçue qu'il assumait pour moi la charge de cet amour, mais que s'il  s'était déclaré, mon oreille n'aurait pas refusé de l'écouter. » La virgule permet de considérer le deuxième vers comme une complétive juxtaposée à la première et rétablit la cohérence de l'ensemble. À moins que le texte originel ne contienne une erreur de frappe, et que le plus que parfait *avois entendu* n'ait été substitué au conditionnel passé *aurois entendu.* Dans ce cas, nous pouvons comprendre : « J'ai cru remarquer souvent qu'il s'était dit en lui même que s'il m'avait parlé, je lui aurais prêté oreille. »
+[158] *Et j'ay connu souvent qu'il s'estoit répondu / Que s'il m'avoit
+                  parlé je l'avois entendu* : Le sens de ces deux vers est obscur. De deux
+                choses l'une : il semble possible qu'une virgule ait été omise en fin de vers, après
+                  *répondu ;* dans ce cas, comprenons :  « Je me suis souvent
+                aperçue qu'il assumait pour moi la charge de cet amour, mais que s'il s'était
+                déclaré, mon oreille n'aurait pas refusé de l'écouter. » La virgule permet de
+                considérer le deuxième vers comme une complétive juxtaposée à la première et
+                rétablit la cohérence de l'ensemble. À moins que le texte originel ne contienne une
+                erreur de frappe, et que le plus que parfait *avois entendu* n'ait
+                été substitué au conditionnel passé *aurois entendu.* Dans ce cas,
+                nous pouvons comprendre : « J'ai cru remarquer souvent qu'il s'était dit en lui même
+                que s'il m'avait parlé, je lui aurais prêté oreille. »
 
 [159] * loy* :impératif
 
 [160] *A resolu* : a décidé.
 
-[161] *Prends interêt* : se passionne, prend part au sens fort.
+[161] *Prends interêt* : se passionne, prend part au sens
+                fort.
 
 [162] *Gloire* : honneur.
 
-[163] *Foy* est à prendre au sens  de « donner  sa foi » pour le mariage : puisqu'elle ne se marie pas, elle ne doit rien à personne.
+[163] *Foy* est à prendre au sens de « donner  sa foi » pour le
+                mariage : puisqu'elle ne se marie pas, elle ne doit rien à personne.
 
 [164] *Sort* : destin.
 
-[165] *Me flate* : me charme, me séduit.
+[165] *Me flate* : me
+                charme, me séduit.
 
 [166] *L'a touché* : l'a atteint, l'a ému.
 
 [167] *Sujet* : raison.
 
-[168] *Aucuns* : Quelques. Il pouvait s'employer au pluriel.
+[168] *Aucuns* : Quelques. Il pouvait s'employer au
+                pluriel.
 
 [169] *Ennuy* : violent désagrément.
 
-[170] C'est à dire : si vous me révélez l'identité de celui que vous aimez, je pourrai faire en sorte qu'il ne soit pas nommé roi.
+[170] C'est à dire : si vous me révélez l'identité de celui que vous aimez,
+                je pourrai faire en sorte qu'il ne soit pas nommé roi.
 
-[171] *fers* : langage galant. Etat de l'amoureux soumis à sa maîtresse.
+[171] *fers* : langage galant. Etat de l'amoureux soumis à sa
+                maîtresse.
 
-[172] comprendre : ai-je droit de convoiter ce à quoi j'ose aspirer (votre amour) ?
+[172] comprendre : ai-je droit de convoiter ce à quoi j'ose aspirer (votre
+                amour) ?
 
-[173] *Me gesne* : me tourmente. Le sens est aujourd'hui affaibli. Au XVII*e*, on entendait par *gêne*, instrument de torture ou le supplice lui même.
+[173] *Me gesne* : me tourmente. Le sens est aujourd'hui
+                affaibli. Au XVII*e*, on entendait par *gêne*,
+                instrument de torture ou le supplice lui même.
 
 [174] *Ferme* : résolue.
 
-[175] *Jalouse envie* : Il s'agit d'un pléonasme puisque *envie* vient de *invidere, jalouser* en latin.
+[175] *Jalouse envie* : Il s'agit d'un pléonasme puisque
+                  *envie* vient de *invidere, jalouser* en
+                latin.
 
 [176] Comprendre : ayant cent fois pris parti pour moi.
 
-[177] *Vous fait peine* : vous donne du chagrin.
+[177] *Vous
+                  fait peine* : vous donne du chagrin.
 
-[178] C'est à dire : songez aux rumeurs facheuses qui courront sur la Reyne.
+[178] C'est à dire : songez aux rumeurs facheuses qui courront sur la
+                Reyne.
 
-[179] * Chacun le publia* : On le rendit publique.
+[179] * Chacun le
+                  publia* : On le rendit publique.
 
-[180] C'est à dire : Elle s'est armée contre son propre sang, celui du Diadême, du Roi, donc de ses Fils.
+[180] C'est à dire : Elle s'est armée contre son propre sang, celui du Diadême, du Roi,
+                donc de ses Fils.
 
-[181] *Attentat* : Outrage ou violence qu'on tâche de faire à quelqu'un. (Furetière)
+[181] *Attentat* : Outrage ou violence qu'on tâche de faire à
+                quelqu'un. (Furetière)
 
 [182] *pressante* : imperieuse.
 
-[183] *Le conserve* : le sauve.
+[183] *Le
+                  conserve* : le sauve.
 
 [184] *De l'envie* : des jalousies.
 
 [185] *Advis* : nouvelle.
 
-[186] Cette réplique révèle que Phradate s'est mis à genoux au v.325
+[186] Cette réplique révèle que Phradate s'est
+                mis à genoux au v.325
 
 [187] *Ce zele* : cette ardeur, cet empressement.
 
-[188] *J'ai éprouvé* : j'ai appris par expèrience.
+[188] *J'ai
+                  éprouvé* : j'ai appris par expèrience.
 
-[189] *Apas* est ici à prendre au sens actuel d'appater.
+[189] *Apas* est ici à prendre au sens actuel
+                d'appater.
 
-[190] Il tait la vérité jusqu'au moment où il aura la preuve qu'Oronte seul éveille des sentiments en elle.
+[190] Il
+                tait la vérité jusqu'au moment où il aura la preuve qu'Oronte seul éveille des
+                sentiments en elle.
 
 [191] *Prend grand soin de* : met beaucoup d'efforts à.
 
-[192] *Vous faire sa Cour* : vous flatter par ses assiduités, témoigner son respect.
+[192] *Vous faire sa Cour* : vous flatter par ses
+                assiduités, témoigner son respect.
 
 [193] *Asseurance* : Sureté.
 
 [194] *me flate* : me séduit.
 
-[195] *foudre* : désigne au masculin le faisceau de dards de feu, en zigzags, qui était l'attribut de Jupiter.
+[195] *foudre* :
+                désigne au masculin le faisceau de dards de feu, en zigzags, qui était l'attribut de
+                Jupiter.
 
 [196] *Il est beau* : il est vain.
 
 [197] *Foy* : parole.
 
-[198] C'est par Rome (le pouvoir de Rome) qu'ils ont cru pouvoir me contraindre à faire un choix.
+[198] C'est par Rome (le pouvoir de Rome) qu'ils ont cru pouvoir me
+                contraindre à faire un choix.
 
-[199] comprendre : mais je n'attendrai pas de voir arriver ce que je devrais craindre si…
+[199] comprendre : mais je n'attendrai pas de voir arriver ce que je
+                devrais craindre si…
 
-[200] *Si je fais part* : si je partage.
+[200] *Si je fais
+                  part* : si je partage.
 
-[201] *Ma Creature* :ma chose, ma propre création, mon produit.
+[201] *Ma Creature* :ma chose, ma propre création, mon
+              produit.
 
-[202] Si aujourd'hui cela n'est plus le cas, *aimer* pouvait se construire avec *de* ou *à* et l'infinitif au XVII*e*.
+[202] Si aujourd'hui cela n'est plus le cas, *aimer*
+                pouvait se construire avec *de* ou *à* et
+                l'infinitif au XVII*e*.
 
-[203] *Quand* : tandis que. Valeur temporelle à nuance concessive.
+[203] *Quand* : tandis
+                que. Valeur temporelle à nuance concessive.
 
-[204] *Cette Reyne des Rois* : Rome qui commande aux rois.
+[204] *Cette
+                  Reyne des Rois* : Rome qui commande aux rois.
 
-[205] *Sur* : en se fondant sur.
+[205] *Sur* : en se
+                fondant sur.
 
 [206] *Decevant* : trompeur, illusoire.
 
-[207] *Je feindray*  : je dirai faussement .
+[207] *Je feindray*
+                 : je dirai faussement .
 
-[208] Il s'agit d'un ne expletif. Le seuil de la négation est à peine franchi. Le sens de la phrase ne change pas si on le supprime.
+[208] Il s'agit d'un ne
+                expletif. Le seuil de la négation est à peine franchi. Le sens de la phrase ne
+                change pas si on le supprime.
 
 [209] Le sens de ces vers est incompréhensible.
 
@@ -4721,31 +4945,41 @@ Dictionnaire François
 
 [211] *Tout* : entièrement ; tout à fait. 
 
-[212] *Perdre* : faire périr.
+[212] *Perdre* : faire
+                périr.
 
 [213] *Ordonner de* : décider de.
 
-[214] Comprendre : la manifestation de cet orgueil.
+[214] Comprendre : la
+                manifestation de cet orgueil.
 
 [215] *T'explique* : te révèle, te fait connaître.
 
-[216] * De* : sens latin. au sujet de.
+[216] * De* : sens latin. au
+                sujet de.
 
 [217] *Fiere* : terrible, cruelle.
 
 [218] *Politique* :méthode, calcul intéressé.
 
-[219] Nous dirions : « oserais-je t'avouer ».
+[219] Nous
+                dirions : « oserais-je t'avouer ».
 
-[220] *dispose* : règle.
+[220] *dispose* :
+                règle.
 
-[221] * charme* : enchantement qui tient du sortilège.
+[221] * charme* :
+                enchantement qui tient du sortilège.
 
-[222] *inquiete* : agitée, remuante, fiévreuse. Contrairement à aujourd'hui, l'adjectif se rapproche davantage du sens originel latin de ce qui va à l'encontre du repos, de la quiétude.
+[222] *inquiete* : agitée, remuante, fiévreuse.
+                Contrairement à aujourd'hui, l'adjectif se rapproche davantage du sens originel
+                latin de ce qui va à l'encontre du repos, de la quiétude.
 
-[223] *Aux flatteuses douceurs* : aux plaisirs illusoires.
+[223] *Aux
+                  flatteuses douceurs* : aux plaisirs illusoires.
 
-[224] *Toucher* : lui inspirer de l'amour.
+[224] *Toucher* : lui inspirer de
+                l'amour.
 
 [225] *Soins* : attentions.
 
@@ -4753,15 +4987,18 @@ Dictionnaire François
 
 [227] *Superbes* : orgueilleux.
 
-[228] C'est à dire : caresse  leur entreprise d'un espoir de succès
+[228] C'est à dire : caresse leur entreprise d'un espoir de succès
 
 [229] *Resoudre* : décider.
 
-[230] Construction latine. Le verbe *être* est sous entendu dans la srtucture profonde de la complétive comme souvent  pour les infinitives latines.
+[230] Construction
+                latine. Le verbe *être* est sous entendu dans la srtucture profonde
+                de la complétive comme souvent pour les infinitives latines.
 
 [231] *Un interest* : une question qui me touche intimement.
 
-[232] *Tout ce que je regarde* : tout ce dont je me préoccupe.
+[232] *Tout ce
+                  que je regarde* : tout ce dont je me préoccupe.
 
 [233] *Tendresse* : inclination, tendance.
 
@@ -4769,21 +5006,28 @@ Dictionnaire François
 
 [235] *Prévenu* : habité.
 
-[236] *Ce que* : ainsi que , comme. Cette construction est aujourd'hui inusitée. La proposition n'aurait plus même nature : il ne s'agirait plus d'une relative mais d'une circonstancielle comparative.
+[236] *Ce que* : ainsi que , comme. Cette construction est aujourd'hui inusitée. La
+                proposition n'aurait plus même nature : il ne s'agirait plus d'une relative mais
+                d'une circonstancielle comparative.
 
 [237] *Remplis* : satisfaits.
 
 [238] Tel que jusqu'ici vous avez appris à me connaître.
 
-[239] que vous *obligiez* : que vous excitiez, que vous attiriez.
+[239] que
+                vous *obligiez* : que vous excitiez, que vous attiriez.
 
-[240] Comprendre : ne me fier qu'à vous, ne me reposer que sur vous.
+[240] Comprendre : ne me fier qu'à vous, ne me reposer que sur
+              vous.
 
-[241] *Je la presse* : je tente de la contraindre.
+[241] *Je la presse* : je tente de la
+              contraindre.
 
-[242] *Par l'interest* : à cause de ce qui concerne.
+[242] *Par
+                  l'interest* : à cause de ce qui concerne.
 
-[243] *Vous fait peine* : vous chagrine.
+[243] *Vous fait peine* : vous
+                chagrine.
 
 [244] *Eclat* : bruit.
 
@@ -4791,11 +5035,13 @@ Dictionnaire François
 
 [246] *Gloire* : mérite.
 
-[247] *Zele* : ardeur. 
+[247] *Zele* :
+                ardeur. 
 
 [248] *vous explique* : vous découvre.
 
-[249] C'est à dire : puisque le parti de votre fils est le seul qui vous passionne.
+[249] C'est à dire : puisque le parti de votre fils est le seul qui vous
+                passionne.
 
 [250] *Fort* : important, considérable.
 
@@ -4809,11 +5055,14 @@ Dictionnaire François
 
 [255] *Votre témerité* : votre insolence.
 
-[256] *Ce que je dois* : quelles obligations j'ai envers.
+[256] *Ce
+                  que je dois* : quelles obligations j'ai envers.
 
-[257] *A ma gloire* : à mon amour propre.
+[257] *A ma gloire* : à mon amour
+                propre.
 
-[258] *Vous en croire* : suivre votre impulsion.
+[258] *Vous en croire* : suivre votre
+              impulsion.
 
 [259] *Un heureux* : un chanceux.
 
@@ -4827,35 +5076,45 @@ Dictionnaire François
 
 [264] *Foy* : loyauté.
 
-[265] *me flate* : m'entretient dans l'espérance trompeuse de.
+[265] *me flate* : m'entretient dans l'espérance trompeuse
+                de.
 
-[266] *je n'entreprendray pas sur* : je n'empiéterai pas sur.
+[266] *je
+                  n'entreprendray pas sur* : je n'empiéterai pas sur.
 
 [267] *Eclaircira* : nous informera.
 
 [268] *Sa foy* : sa main.
 
-[269] J*'en prends peu d'alarmes* : je m'alarme peu.
+[269] J*'en prends peu d'alarmes* : je m'alarme
+              peu.
 
-[270] C'est à dire : je vous plains si le choix du Trône est ce qui importe avant tout à vos yeux.
+[270] C'est à dire : je vous plains si le choix du Trône est ce qui importe
+                avant tout à vos yeux.
 
 [271] *Décevant* : trompeur, illusoire.
 
-[272] *C'est par lui seul* : c'est grâce à lui seul.
+[272] *C'est par
+                  lui seul* : c'est grâce à lui seul.
 
-[273] *Remplir* : occuper.
+[273] *Remplir* :
+                occuper.
 
-[274] *Qui de nous s'en met le plus en peine* : qui de nous en est le plus chagriné
+[274] *Qui de nous s'en met le plus en peine* : qui de nous
+                en est le plus chagriné
 
-[275] *vous connoistre* : vous savoir.
+[275] *vous
+                  connoistre* : vous savoir.
 
 [276] *J'eusse receu* : j'eusse accepté.
 
-[277] *Flatez-vous* : imaginez jouir.
+[277] *Flatez-vous* :
+                imaginez jouir.
 
 [278] *Qu'anime* : que pousse.
 
-[279] *N'oyant* : n'entendant.
+[279] *N'oyant* :
+                n'entendant.
 
 [280] *Hautement* : orgueilleusement.
 
@@ -4863,7 +5122,9 @@ Dictionnaire François
 
 [282] *Insolent* : téméraire.
 
-[283] C'est à dire : au risque de perdre ce Fourbe. Nous dirions aujourd'hui *au peril*.
+[283] C'est à dire : au
+                risque de perdre ce Fourbe. Nous dirions aujourd'hui *au
+                peril*.
 
 [284] *Nature* : Cf.v. 462.
 
@@ -4873,7 +5134,8 @@ Dictionnaire François
 
 [287] *genereux* : noble.
 
-[288] *me frape* : me touche.
+[288] *me
+                  frape* : me touche.
 
 [289] *ce doux appas* : ce charme extrême.
 
@@ -4881,51 +5143,65 @@ Dictionnaire François
 
 [291] *Sa foy* : ses engagements.
 
-[292] *Murmurer* : contester, désapprouver.
+[292] *Murmurer* :
+                contester, désapprouver.
 
-[293] *Me resoudre* : me décider.
+[293] *Me
+                  resoudre* : me décider.
 
 [294] *Pressoit* : poussait impèrieusement.
 
-[295] *Pour les tourner* : parcequ'il les tournait. Suivi de l'infinitif présent, *pour* avait une valeur causale.
+[295] *Pour les tourner* :
+                parcequ'il les tournait. Suivi de l'infinitif présent, *pour* avait
+                une valeur causale.
 
 [296] *Charmes* : sorte d'enchantement, influence mysterieuse.
 
 [297] *Sous* : par.
 
-[298] *par là* : à cause de cela.
+[298] *par
+                  là* : à cause de cela.
 
-[299] C'est à dire : crois -tu devoir rougir de regretter de perdre mon coeur ?
+[299] C'est à dire : crois -tu devoir rougir de regretter de perdre mon
+                coeur ?
 
-[300] C'est à dire : ce que je me plait à penser.
+[300] C'est à dire : ce que je me
+                plait à penser.
 
-[301] *Que* : Du fait que.
+[301] *Que* : Du fait
+                que.
 
-[302] *Ce dégoust* : celui d'Axiane envers Ariarate.
+[302] *Ce
+                  dégoust* : celui d'Axiane envers Ariarate.
 
-[303] *Sans murmure* : sans protestation.
+[303] *Sans
+                  murmure* : sans protestation.
 
 [304] *Me flate* : me séduise.
 
-[305] *Douceur* :  cf.v.145.
+[305] *Douceur* : cf.v.145.
 
 [306] *Eclatantes* : indéniables, remarquables.
 
 [307] *Il prend soin* : il veille sur .
 
-[308] C'est à dire : A tout ce que ce doux espoir vous a fait mettre en œuvre jusqu'ici.
+[308] C'est à dire : A tout ce que ce doux espoir vous a fait mettre en
+                œuvre jusqu'ici.
 
-[309] *vous me souffrez* : vous me permettez.
+[309] *vous me
+                  souffrez* : vous me permettez.
 
 [310] *J'aurai soin que* : je veillerai à ce que.
 
 [311] *Sa foy* : son devouement.
 
-[312] *Parlera de* : dira ce que.
+[312] *Parlera de* : dira
+                ce que.
 
 [313] C'est à dire : j'attendais pour vous révéler.
 
-[314] Sobriété après les transports lyriques de la précédente tirade. Résignation.
+[314] Sobriété
+                après les transports lyriques de la précédente tirade. Résignation.
 
 [315] *Soins* : efforts.
 
@@ -4933,7 +5209,8 @@ Dictionnaire François
 
 [317] *Soufrir* : tolérer.
 
-[318] *Nous faire part des fers* : nous tenir dans les fers.
+[318] *Nous
+                  faire part des fers* : nous tenir dans les fers.
 
 [319] *aveu* : approbation.
 
@@ -4941,7 +5218,8 @@ Dictionnaire François
 
 [321] *Douteux* : incertain.
 
-[322] *Sa foy* : sa parole.
+[322] *Sa
+                  foy* : sa parole.
 
 [323] *Son sort* : son existence .
 
@@ -4949,15 +5227,19 @@ Dictionnaire François
 
 [325] *connoistre* : savoir.
 
-[326] *Par quel rare motif* : pour quelle étrange raison.
+[326] *Par quel
+                  rare motif* : pour quelle étrange raison.
 
-[327] *C'est à dire* : Aquilius va plus vite que prévu. Cf le v. 318.
+[327] *C'est à dire* : Aquilius va plus vite que prévu. Cf
+                le v. 318.
 
 [328] *S'animer* : s'irriter.
 
-[329] Leur Politique.
+[329] Leur
+                Politique.
 
-[330] *Qui s'explique* : qui se découvre, qui se met à jour.
+[330] *Qui
+                  s'explique* : qui se découvre, qui se met à jour.
 
 [331] *Si* : aussi.
 
@@ -4965,53 +5247,69 @@ Dictionnaire François
 
 [333] *S'arme* : prenne les armes.
 
-[334] C'est à dire : pour vous faire périr, ou selon ce qu'il (ce fils) décidera de faire, me faire la loi…
+[334] C'est à dire : pour vous faire périr, ou selon ce qu'il (ce fils)
+                décidera de faire, me faire la loi…
 
 [335] *irriter* : faire outrage, provoquer.
 
 [336] *qu'il endure* : qu'il accepte.
 
-[337] *Il armera* : il préparera les armes.
+[337] *Il armera* : il
+                préparera les armes.
 
-[338] *Vous faisant* : vous nommant.
+[338] *Vous
+                faisant* : vous nommant.
 
-[339] *Vous trouveray-je* : vous estimerai-je.
+[339] *Vous
+                  trouveray-je* : vous estimerai-je.
 
 [340] *Vostre soin* : vos scrupules.
 
 [341] C'est à dire : parce qu'il vient de plus loin.
 
-[342] *Me fait peine* : me chagrine.
+[342] *Me
+                  fait peine* : me chagrine.
 
-[343] *Ma seureté* : ma sécurité.
+[343] *Ma
+                  seureté* : ma sécurité.
 
-[344] *Je souffre* : je supporte.
+[344] *Je
+                  souffre* : je supporte.
 
-[345] C'est à dire : vers lequel toutes mes pensées intimes sont portées.
+[345] C'est à dire : vers lequel toutes mes pensées intimes sont
+                portées.
 
-[346] *Et quand* : et si. Valeur hypothétique.
+[346] *Et quand* : et
+                si. Valeur hypothétique.
 
 [347] *de resoudre* : de décider. Au XVII*e* siècle, le verbe s'emploie absolument.
 
-[348] C'est à dire : Vous vous laissée allée à vos égarements, vous sous laissée posséder par la violence de vos émotions.
+[348] C'est à dire :
+                Vous vous laissée allée à vos égarements, vous sous laissée posséder par la violence
+                de vos émotions.
 
-[349] *Aussy bien* : il est vrai que.
+[349] *Aussy bien* :
+                il est vrai que.
 
 [350] *L'ame* : le cœur.
 
 [351] *tendre* : délicate.
 
-[352] C'est à dire : vous me jugerez une fois que vous connaîtrez mes motivations profondes.
+[352] C'est à dire : vous me jugerez une fois que vous connaîtrez mes motivations
+                profondes.
 
 [353] *Concluë* : décidée.
 
 [354] *Aspect* : vue.
 
-[355] vous ne pouvez avoir d'autres ennemis.
+[355] vous ne
+                pouvez avoir d'autres ennemis.
 
-[356] *Soufrez* : acceptez.
+[356] *Soufrez* :
+                acceptez.
 
-[357] Quelle que soit votre motivation, quel que soit ce qui vous pousse à agir ainsi.
+[357] Quelle que soit votre motivation, quel que soit ce
+                qui vous pousse à agir ainsi.
 
 [358] *En faveur de* : en profitant de.
 
@@ -5019,7 +5317,8 @@ Dictionnaire François
 
 [360] *Quand* : même si.
 
-[361] Vu ce qu'il sait de moi, je ne pourrai pas lui faire confiance.
+[361] Vu ce qu'il sait de moi, je ne pourrai pas lui faire
+                confiance.
 
 [362] C'est à dire : même si j'étais totalement certaine.
 
@@ -5029,51 +5328,67 @@ Dictionnaire François
 
 [365] *à poursuivre* : à chercher à provoquer.
 
-[366] Pour ne plus le vouloir.
+[366] Pour ne plus le
+                vouloir.
 
 [367] Quel camps vous choisissez.
 
-[368] *Vous fait peine* : vous chagrine.
+[368] *Vous fait peine* : vous
+                chagrine.
 
-[369] *En presse un autre* : amène fatalement à un autre.
+[369] *En presse un autre* : amène fatalement à un
+                autre.
 
 [370] *A quoi je me resous* : ce que j'ai décidé.
 
-[371] Sobriété après les transports lyriques de la précédente tirade. Résignation.
+[371] Sobriété après les transports lyriques de la précédente tirade.
+                Résignation.
 
-[372] Au nom de ce dévouement pour vous tant de fois mis en œuvre.
+[372] Au nom de ce dévouement pour vous tant de fois mis en
+              œuvre.
 
-[373] *Par moy* : grâce à moi.
+[373] *Par moy* : grâce
+                à moi.
 
 [374] *Arbitre* : maître.
 
-[375] *Dans le besoin* : dans une occasion critique, quand la chose est le plus nécessaire.
+[375] *Dans
+                  le besoin* : dans une occasion critique, quand la chose est le plus
+                nécessaire.
 
 [376] Au moment où Oronte est sorti avec vous.
 
 [377] *Contraindre* : réprimer.
 
-[378] *Vostre ennuy* : votre souffrance, agitation.
+[378] *Vostre ennuy* : votre souffrance,
+              agitation.
 
-[379] qui s'est pû renforcer au Trône par le crime.
+[379] qui
+                s'est pû renforcer au Trône par le crime.
 
 [380] *Qu'on l'opprime* : qu'on le renverse.
 
-[381] *Et quand* : et même si.
+[381] *Et quand* : et
+                même si.
 
-[382] Ils : les Romains. Autant qu'ils auront de soupçons justifiés.
+[382] Ils : les Romains. Autant qu'ils auront de soupçons
+              justifiés.
 
 [383] Seul le sacrifice de vos jours lui assurera sa sécurité.
 
-[384] Le refus d'Oronte.
+[384] Le refus
+                d'Oronte.
 
-[385] *faire éclat* : faire scandale.
+[385] *faire
+                  éclat* : faire scandale.
 
 [386] Dont il sait le prix qu'il a pour moi.
 
-[387] Comprendre : A l'encontre de ce pour quoi je me bats.
+[387] Comprendre : A
+                l'encontre de ce pour quoi je me bats.
 
-[388] *Dur* : douloureux.
+[388] *Dur* :
+                douloureux.
 
 [389] Au XVII*e* siècle, forcer se construisait avec *à*.
 
@@ -5093,11 +5408,13 @@ Dictionnaire François
 
 [397] *Confus* : multiples, désordonnés.
 
-[398] * On a fait son pouvoir* : on a fait son possible.
+[398] * On a fait son pouvoir* : on a fait son
+                possible.
 
 [399] *Se mettre en estat de* : se disposer à.
 
-[400] *Sous* : faisant suite, accompagnant.
+[400] *Sous* :
+                faisant suite, accompagnant.
 
 [401] Vêtus de leurs plus beaux atours. Fastueusement vêtus.
 
@@ -5105,25 +5422,31 @@ Dictionnaire François
 
 [403] *Gros* : troupe nombreuse.
 
-[404] *Foy* : dévouement.
+[404] *Foy* :
+                dévouement.
 
-[405] *C'est lors* : c'est alors.
+[405] *C'est lors* :
+                c'est alors.
 
 [406] *Un interêt de gloire* : une question de préséance.
 
-[407] *On se mesle* : on engage le combat.
+[407] *On
+                  se mesle* : on engage le combat.
 
-[408] Comprendre : Elle a les mêmes droits que moi par le sang.
+[408] Comprendre : Elle a les mêmes droits que moi par
+                le sang.
 
 [409] *Où* : contre quoi. Cf.v.102.
 
 [410] *Résolu* : prévu, décidé.
 
-[411] *Le traitent de coupable* : le traitent comme s'il était le coupable.
+[411] *Le traitent de coupable* : le traitent comme s'il
+                était le coupable.
 
 [412] *Ferme* : sûr, droit, loyal.
 
-[413] *Ce que l'on en publie* : ce qui en est dit publiquement.
+[413] *Ce que l'on en publie* : ce qui en est dit
+              publiquement.
 
 [414] *Le peignent* : le font paraître coupable.
 
@@ -5131,27 +5454,33 @@ Dictionnaire François
 
 [416] *Pressant* : impèrieux.
 
-[417] C'est a dire : quelque chose qui vous tient manifestement à cœur.
+[417] C'est a dire :
+                quelque chose qui vous tient manifestement à cœur.
 
 [418] *Un sort* : une situation.
 
-[419] *De mauvais yeux* : un jugement malveillant, mal fondé.
+[419] *De
+                  mauvais yeux* : un jugement malveillant, mal fondé.
 
 [420] *Qu'on t'excuse* : qu'on prend ta défense.
 
-[421] *Qui s'épand* : qui se répand.
+[421] *Qui
+                  s'épand* : qui se répand.
 
 [422] *Superbe* : digne d'orgueil.
 
 [423] Nous dirions *de croire*.
 
-[424] *Ce qu'on publie* : ce qu'on rend public.
+[424] *Ce
+                  qu'on publie* : ce qu'on rend public.
 
 [425] *S'explique* : se manifeste, se montre.
 
-[426] *Votre fermeté* : votre force.
+[426] *Votre
+                  fermeté* : votre force.
 
-[427] *Pour sçavoir* : pour connaître.
+[427] *Pour
+                  sçavoir* : pour connaître.
 
 [428] *Ennuis* : sens fort. Tourments.
 
@@ -5163,7 +5492,8 @@ Dictionnaire François
 
 [432] *Pressants* : alarmants.
 
-[433] *Qu'* : avant que.
+[433] *Qu'* : avant
+                que.
 
 [434] *Sous* : sous votre autorité.
 
@@ -5185,11 +5515,13 @@ Dictionnaire François
 
 [443] *D'appuy* : de soutien.
 
-[444] *A la fourbe* : par le recours à la fourberie, à la malhonnêteté.
+[444] *A la
+                fourbe* : par le recours à la fourberie, à la malhonnêteté.
 
 [445] *Interessée* : décidée, tenant fermement à.
 
-[446] Cette didascalie semble comporter une erreur : c'est Phradate qui , selon le v. 1406 devrait sortir ici.
+[446] Cette didascalie semble comporter une erreur :
+                c'est Phradate qui , selon le v. 1406 devrait sortir ici.
 
 [447] *L'aveu* : l'autorisation.
 
@@ -5197,7 +5529,8 @@ Dictionnaire François
 
 [449] Décide de cela.
 
-[450] *Ordonnez de* : disposez de, donnez des ordres à votre guise.
+[450] *Ordonnez
+                de* : disposez de, donnez des ordres à votre guise.
 
 [451] Le peuple.
 
@@ -5209,7 +5542,8 @@ Dictionnaire François
 
 [455] *Qu'il connoît* : qu'il se rend compte, qu'il comprend.
 
-[456] Sous vous : sous votre autorité.
+[456] Sous vous :
+                sous votre autorité.
 
 [457] *L'artifice* : l'adresse, l'art.
 
@@ -5219,27 +5553,35 @@ Dictionnaire François
 
 [460] *Soufrir* : supporter.
 
-[461] *Estonnons* : sens fort. Ebranlons, bouleversons, prenons violemment de cours.
+[461] *Estonnons* :
+                sens fort. Ebranlons, bouleversons, prenons violemment de cours.
 
 [462] *Fiers* : cruels, noirs.
 
-[463] Nous dirions *l'ardeur pour le diadême*.
+[463] Nous
+                dirions *l'ardeur pour le diadême*.
 
-[464] Que je suis forcé d'écouter.
+[464] Que je suis forcé
+                d'écouter.
 
 [465] *Dédie* : désavoue.
 
-[466] *Me découvririez-vous* : me feriez vous part de.
+[466] *Me
+                  découvririez-vous* : me feriez vous part de.
 
-[467] *Par où* : comment, par quel moyen.
+[467] *Par où* :
+                comment, par quel moyen.
 
 [468] *Défiance* : soupçon.
 
-[469] *S'asseurant sur moi* : me faisant confiance.
+[469] *S'asseurant sur moi* : me faisant
+              confiance.
 
-[470] *Mon cœur* : mes pensées intimes.
+[470] *Mon cœur* :
+                mes pensées intimes.
 
-[471] *Vous ayant flaté* : vous ayant donné l'espoir de.
+[471] *Vous
+                  ayant flaté* : vous ayant donné l'espoir de.
 
 [472] *Rares* : étranges ou extraordinaires ou grandes, louables.
 
@@ -5249,7 +5591,8 @@ Dictionnaire François
 
 [475] *Dégagée* : libérée.
 
-[476] *M'oste* : me retire, m'arrache, me délivre.
+[476] *M'oste* : me
+                retire, m'arrache, me délivre.
 
 [477] C'est à dire : dont l'ardeur triomphe de moi.
 
@@ -5257,35 +5600,46 @@ Dictionnaire François
 
 [479] Comprendre : N'ose donner un sens à mon destin.
 
-[480] C'est à dire : Sont impuissants à la séduire, à la fléchir.
+[480] C'est à dire : Sont impuissants à la séduire, à la
+              fléchir.
 
-[481] *Vous l'etonnez* : vous la bouleversez.
+[481] *Vous
+                  l'etonnez* : vous la bouleversez.
 
 [482] *Devoirs* : hommages.
 
-[483] Comprendre : Le défi de celui qui éliminera l'autre le plus rapidement.
+[483] Comprendre : Le défi de celui qui éliminera
+                l'autre le plus rapidement.
 
 [484] *Transport* : égarement.
 
-[485] *Vœux* : désirs.
+[485] *Vœux* :
+                désirs.
 
 [486] C'est à dire : ont été complices de mon couroux.
 
-[487] *De tout ce qu'il resout* : de tout ce qu'il décide.
+[487] *De
+                  tout ce qu'il resout* : de tout ce qu'il décide.
 
-[488] *Le prétendre* : revendiquer cela.
+[488] *Le
+                  prétendre* : revendiquer cela.
 
 [489] De l'ardeur.
 
-[490] L'orgueil qui fit trompher son ambition de son ardeur, de son amour.
+[490] L'orgueil qui fit trompher son ambition de son ardeur, de son
+                amour.
 
-[491] * fer* : arme blanche. Epée ou poignard.
+[491] *
+                  fer* : arme blanche. Epée ou poignard.
 
-[492] *ce tendre caractère* : la trace de cette inclination.
+[492] *ce tendre caractère* : la trace de cette
+              inclination.
 
-[493] *M'animer* : me pousser. Terme qui revient assez souvent. Les personnages sont habités par leurs passions, aliénés par elles , agis par elles.
+[493] *M'animer* : me pousser. Terme qui revient assez souvent. Les
+                personnages sont habités par leurs passions, aliénés par elles , agis par
+                elles.
 
-[494] veut décider de  votre vie.
+[494] veut décider de votre vie.
 
 [495] *faites* : épousez.
 
@@ -5293,7 +5647,8 @@ Dictionnaire François
 
 [497] Autrement que.
 
-[498] Si elle le voit dans les bras d'une autre femme, sa haine pourrait revenir.
+[498] Si elle le voit
+                dans les bras d'une autre femme, sa haine pourrait revenir.
 
 [499] *Asseurons* : mettons en sécurité, préservons.
 
@@ -5305,13 +5660,16 @@ Dictionnaire François
 
 [503] Je séduisais.
 
-[504] *Dans un pareil sort* : dans une telle situation.
+[504] *Dans un pareil sort* : dans une telle
+                situation.
 
 [505] * pressé* : insisté.
 
-[506] *Ton* : timbre.
+[506] *Ton* :
+                timbre.
 
-[507] *Ce qui m'est dëu* : ce qui me reste à faire.
+[507] *Ce qui m'est dëu* : ce
+                qui me reste à faire.
 
 [508] *Maximes* : principes.
 
@@ -5319,4 +5677,5 @@ Dictionnaire François
 
 [510] Nous dirions : elle est tombée.
 
-[511] *A terminé son sort* : a mis fin à ses jours.
+[511] *A terminé son sort* : a mis fin à ses
+              jours.

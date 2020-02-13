@@ -1,19 +1,357 @@
 
 
-**** *book_ *id_I01 *act_I *date_1710
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legouverneur
 
--*who_marine
-Vous avez beau compter, depuis notre naufrage,
-Depuis que nous restons chez ce peuple sauvage,
-Vous ne trouverez pas plus de huit jours.
+Comment donc ! À nos lois faire une telle injure !
+Je vous rendrai justice, et je vous en assure.
 
--*who_eliante
+      Vous êtes son époux :
+Elle doit se soumettre et n'obéir qu'à vous.
+Qu'est-ce qui lui flait donc haïr votre personne ?
+D'où viennent ses dégoûts ?
+
+Vous n'êtes point affreux et laid à faire peur :
+Au contraire.
+
+      Parlez. Est-ce qu'en France
+Toutes les femmes font pareille résistance ?
+
+      Eh ! Le maître,
+En France, n'est-ce pas l'époux ? Cela doit être.
+
+Votre femme voudrait faire de même ici ?
+
+Non, vraiment.
+
+Je suis ravi pour vous de ce petit malheur.
+
+Ah ! Seigneur, vous allez acquérir ; une gloire
+Qui doit éterniser votre illustre mémoire.
+
+      On parlera de vous chez nos neveux.
+Encore un coup, Seigneur, vous êtes trop heureux.
+
+Qu'on nous apporte ici le livre de la loi.
+
+Par le livre à l'instant vous allez être instruit.
+On l'apporte.
+
+      Lisez. C'est l'article dix-huit
+
+Bénissez, bénissez le ciel qui vous l'envoie.
+
+Holà ! Gardes... Quelqu'un ; qu'on l'arrête. Main forte !
+
+      Ceci n'est point un jeu ...
+Voulez-vous qu'on vous jette à force dans le feu ?
+
+Quoi ! Vous pleurez ?
+
+      Remportez la victoire ;
+Songez à votre honneur.
+
+Que diront nos neveux ?
+
+Jetez-vous, en héros, vous-même, dans la flamme.
+
+Tout cela n'y fait rien, il faut mourir.
+
+Marchez.
+
+      Eh ! Cela fait honneur.
+
+Peut-on être attaché de la sorte à la vie ?
+
+      Fi donc! Quelle badinerie !
+
+Nous croyons qu'on renaît aussitôt de sa cendre ;
+
+Coeur bas!... Ah ! C'est trop faire injure à notre loi...
+Vous, Piracmon...
+
+      Ayez soin de la fête.
+Que la cérémonie en un instant soit prête...
+Puis-je compter sur vous ?
+
+Gardes... conduisez-le...
+      Surtout, n'oubliez rien
+Pour rendre la musique et la danse célèbre.
+
+L'insensé ne voit pas la gloire de son sort :
+Il a le coeur si bas que de craindre la mort !
+Puisse le ciel sur lui répandre ses lumières,
+Et lui donner aussi les forces nécessaires
+Pour pouvoir surmonter cette vaine frayeur !...
+Mais, quelqu'un vient à moi.
+
+      Que me veut-on ?
+
+Qu'il approche.
+
+Donnez. Je vous promets que, quoi qu'il me demande,
+Je ferai tout pour lui. Voyons ce qu'il me mande.
+« Le gentilhomme que je vous envoie a été jeté par la tempête dans mon île. Son nom est Licandre ; et il a fait naufrage depuis peu avec une personne, nommée Éliante, dont il était éperdument amoureux. Si, par hasard, vous aviez des nouvelles de cette aimable personne, vous rachèteriez la vie à son amant en la lui faisant retrouver. Informez-vous-en, je vous prie.Il n'est point impossible que l'orage l'ait jetée dans votre port. Donnez-y vos soins; j'en aurai une éternelle reconnaissance. BRISAPH, gouverneur de l'île de Santoriada. »
+
+Oui, je puis contenter vos désirs curieux ;
+Je puis vous informer d'Éliante.
+
+Si je vous là fais voir, vous mourrez de douleur.
+Elle vient d'expirer tout à l'heure.
+
+Je connais la grandeur du coup que je vous porte ;
+Mais, enfin, puisqu'il faut sans feinte vous parler,
+Elle, avec son mari, nous allons la brûler.
+
+      Mais, cependant, il faut vous dire tout.
+L'hymen n'a pas été terminé jusqu'au bout.
+L'époux, du moins, le dit : même je le présume,
+Et, suivant du pays la louable coutume,
+Nous brûlons les époux sur des bûchers ardents.
+
+Le mari ne prend pas la chose comme vous ?
+Un sort si glorieux l'alarme et l'épouvante.
+
+Je vous plains.
+
+Il tombe évanoui... Qu'on l'ôte de ces lieux;
+Il ne faut point offrir ce spectacle à ses yeux ;
+Sa trop vive douleur l'interromprait peut-être...
+Le deuil s'approche... Allons au-devant du grand-prêtre.
+
+Nous n'en connaissons point ici d'autre que vous.
+
+Que de discours !... Allons, sans tarder davantage,
+Montez sur le bûcher.
+
+Non, non, point de délai.
+
+      Que veut dire ceci ?
+Votre épouse est vivante encore ?
+
+Oui, sans doute;
+
+Taisez-vous, lâche !...
+      Et vous, trop généreux époux !
+Dans mon île goûtez les plaisirs les pins doux.
+Ce mépris de la mort mérite trop la vie ;
+Qu'à tous deux de longtemps elle ne soit ravie :
+J'en fais tous mes souhaits.
+
+Je n'en puis tant avoir que vous en méritez...
+Pour le seigneur Crispin...
+
+      Quoi ! Traître !
+Me tromper, me jouer, en trahissant ton maître ?...
+Il faut qu'il soit puni.
+
+Avec plus de loisir j'apprendrai votre histoire ;
+Marine et Piracmon sauront m'en informer.
+Heureux amants, toujours puissiez-vous vous aimer !...
+Vous autres, par vos chants, prenez part à leur joie,
+Qu'à les bien réjouir chacun de vous s'emploie ;
+Et, selon notre loi, nous ferons, dès demain.
+Pour surcroît de plaisir, les noces de Crispin.
+
+
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_piracmon
+
+Oui, je sais le mystère.
+
+Voyez-vous le pendard !
+
+La peste ! Il faut songer à parer ce malheur.
+
+Attendez... justement... J'entrevois un moyen
+Qui pourrait réussir. Faisons-lui peur.
+
+      J'espère
+L'intimider, madame ; et de telle manière.
+Qu'il se mordra tantôt les doigts d'avoir voulu
+Entreprendre avec vous ce qui vous a déplu.
+Mais secondez-moi bien.
+
+      Oh ! Doucement ;
+Nous n'en viendrons pas là. Suivez-moi seulement...
+Oui, madame, je veux que, dans cette journée,
+Le gouverneur, cassant ce honteux hyménée,
+Trouve un homme en Crispin trop indigne de vous,
+Et trop lâche, en un mot, pour être votre époux.
+Je vous aurai bientôt appris tout votre rôle...
+Voici le gouverneur, suivi de notre drôle...
+Eh vite ! Éloignons-nous ; qu'il ne nous voie ici.
+
+Ah ! Seigneur, apprenez une étrange nouvelle.
+La femme de Crispin...
+
+La pauvre femme, hélas ! a termine son sort :
+Elle vient, à nos yeux, de se donner la mort ;
+Et, pour se dégager de ce triste hyménée,
+Elle a pris un breuvage et s'est empoisonnée,
+S'affranchissant ainsi d'une odieuse loi.
+
+Une perte si grande et m'alarme et me touche.
+
+      Avant tout ; dites, savez-vous lire ?
+
+      Ainsi donc ne songez plus qu'à rire.
+
+      N'espérez pas échapper de la sorte.
+
+Croyez-m'en, avalez doucement la pilule.
+Périssez sans montrer de crainte ridicule :
+Car, enfin, il le faut, ou de force, ou de gré.
+
+      Songez a votre gloire,
+
+Voici l'ordre, à peu près, de la cérémonie.
+Je vais vous en instruire.
+
+Premièrement il faut ne point verser de pleurs.
+On vous entourera de guirlandes de fleurs.
+Au son des instruments on viendra vous conduire
+Jusqu'au pied du bûcher.
+
+Quand vous serez monté tout au hant du bûcher,
+À côté d'Éliante on doit vous attacher.
+Vous n'aurez jamais vu tant de réjouissances.
+Le peuple autour de vous viendra former des danses.
+Nos chants élèveront votre nom jusqu'aux cieux.
+Vous-même, j'en suis sûr, vous serez tout joyeux.
+Vous serez enchanté de notre symphonie.
+Enfin, pour terminer cette cérémonie
+Par les quatre côtés, quatre flambeaux ardents
+Mettront le feu sous vous ; puis, quand il sera temps ;
+On ira recueillir vos cendres dans une urne ;
+Et votre nom...
+      Mais, quoi ! Vous voilà taciturne ?
+
+Non, seigneur. Tout à l'heure on prétend vous brûler.;
+Nous n'avons pas besoin qu'un bûcher se prépare:
+Il en est de tout prêts.
+
+Oui, dans tous les marchés, de toutes les façons,
+On en trouve, qu'on roule au-devant des maisons.
+À quatre pas d'ici j'en sais un magnifique.
+
+      Fort gaiement ?
+Et surtout quand on meurt dans ce noble élément.
+
+      Seigneur.
+
+      Seigneur, tout ira bien.
+
+Venez vous préparer : il est temps ; suivez-moi.
+
+Oui, c'est dans cet endroit
+
+Au-devant du grand-prêtre. Il lui doit cet honneur.
+
+      Que veux-tu dire ?
+
+      Sans doute.
+
+Quand il en sera temps, j'irai l'en détacher.
+
+Il est plus scrupuleux encor que le grand-prêtre :
+Il ne badine point sur cet article-là.
+
+      Laisse-moi conduire tout cela.
+De ce qu'elle doit faire Éliante est instruite.
+
+      Tu verras, dans la suite...
+Si le drôle en revient, je veux que, de longtemps,
+Il n'ait dessein... Mais, chut... j'entends les instruments...
+La victime paraît, couverte de guirlandes...
+Viens-t'en, et joignons-nous à ces joyeuses bandes.
+
+
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
+
       Eh bien !
 Après huit jours entiers je n'espère plus rien...
 Oui. Licandre a péri, malheureuse Éliante !
 Et tu peux vivre encore!
 
--*who_marine
+Ah ! Marine, huit jours sans paraître.
+
+Je n'en puis plus douter, mon cher Licandre est mort.
+De mon père en courroux évitant la poursuite,
+Lorsque dans un lieu sûr il croit m'avoir conduite,
+Il faut que près du port il se trouve un écueil,
+Que de ce tendre amant la mer soit le cercueil ;
+Et, moi, que je me sauve en cette terre affreuse,
+Où, suivant du pays la loi trop rigoureuse.,
+On me force aussitôt à choisir un époux !
+
+Que je trouve cruels les peuples de ces lieux !
+Quoi ! Tous les étrangers qui se sauvent chez eux,
+Ou de force ou de gré, d'abord on les marie !
+Que les lois de cette île ont de bizarrerie !
+Hélas!
+
+J'ai peine la-dessus à rassurer mon âme.
+S'ils savent tôt ou tard, que pour les abuser,
+Un malheureux valet a feint de m'épouser,
+Voulant me réserver pour épouse à son maître...
+
+      Que veux-tu qu'il dépense ?
+Il n'a rien.
+
+Eh ! Je ne songe a rien dans mon mortel chagrin.
+
+      Est-ce que l'on remarque ?...
+
+      Ah ! Mourons...
+
+Comment ?...
+
+      Eh ! L'amour de ton maître ?...
+
+      Quoi ! Traître !..
+
+Mais, scélérat ! Tu sais que c'était une feinte.
+
+Oses-tu devant moi tenir un tel langage ?
+
+Ôte-toi de mes yeux.
+
+      Jusqu'au bout tu pousses l'insolence,
+Misérable valet ! Effronté!
+
+Ô ciel ! Qui l'aurait cru, Marine ?
+
+      Malheureuse ! Hélas! Que vais-je faire ?...
+Que ferais-tu, Marine, en cette occasion?
+
+      Il faudrait donc l'instruire ?
+
+Quoi ! Marine, déjà ?...
+
+Mais en lui faisant peur, qu'espérez-vous?
+
+Pour sauver mon honneur si votre adresse est vaine,
+Je saurai me donner la mort.
+
+      Ah ! Licandre, Licandre !
+
+      Pardonnez à l'amour,
+Qui nous a fait tenter cet innocent détour,
+Qui, pour me réserver toute entière à Licandre,
+M'a fait, blessant vos lois, un peu trop entreprendre.
+Il était mon époux.
+
+      Seigneur,
+En me rendant Licandre on me rend à la vie.
+
+      Seigneur, que de bontés !
+
+
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+
+Vous avez beau compter, depuis notre naufrage,
+Depuis que nous restons chez ce peuple sauvage,
+Vous ne trouverez pas plus de huit jours.
+
       Oui, la chose est touchante...
 Mais vous vivez, enfin... Dieu bénisse les jours
 De celui qui sitôt nous a prêté secours !...
@@ -24,46 +362,16 @@ Il n'est pas temps encor de vous désespérer ;
 La mort de votre amant n'est pas encor certaine :
 Il peut s'être sauvé dans quelque île prochaine.
 
--*who_eliante
-Ah ! Marine, huit jours sans paraître.
-
--*who_marine
       D'accord.
 
--*who_eliante
-Je n'en puis plus douter, mon cher Licandre est mort.
-De mon père en courroux évitant la poursuite,
-Lorsque dans un lieu sûr il croit m'avoir conduite,
-Il faut que près du port il se trouve un écueil,
-Que de ce tendre amant la mer soit le cercueil ;
-Et, moi, que je me sauve en cette terre affreuse,
-Où, suivant du pays la loi trop rigoureuse.,
-On me force aussitôt à choisir un époux !
-
--*who_marine
 J'ai trouvé cette loi moins terrible que vous.
 L'époux qu'on m'a donné n'est point trop haïssable ;
 Quoique né dans cette île, il est assez bon diable.
 
--*who_eliante
-Que je trouve cruels les peuples de ces lieux !
-Quoi ! Tous les étrangers qui se sauvent chez eux,
-Ou de force ou de gré, d'abord on les marie !
-Que les lois de cette île ont de bizarrerie !
-Hélas!
-
--*who_marine
       Comment ! De quoi vous plaignez-vous ? Crispin
 A feint, pour les tromper, de vous donner la main ;
 Ces barbares ont cru qu'il vous prenait pour femme.
 
--*who_eliante
-J'ai peine la-dessus à rassurer mon âme.
-S'ils savent tôt ou tard, que pour les abuser,
-Un malheureux valet a feint de m'épouser,
-Voulant me réserver pour épouse à son maître...
-
--*who_marine
 Comment diantre jamais pourront-ils le connaître ?
 Ils croient très fermement que Crispin a sur vous
 Les droits d'un véritable et légitime époux,
@@ -73,18 +381,9 @@ Madame, là-dessus n'ayez aucune peur.
 Crispin passe auprès d'eux pour un fort gros seigneur.
 La dépense qu'il fait...
 
--*who_eliante
-      Que veux-tu qu'il dépense ?
-Il n'a rien.
-
--*who_marine
       Vous perdez la, mémoire, je pense :
 Avez-vous oublié tout ce qu'a fait Crispin ?
 
--*who_eliante
-Eh ! Je ne songe a rien dans mon mortel chagrin.
-
--*who_marine
 Voyant notre vaisseau près de faire naufrage,
 Parmi les pleurs, les cris, il ne perd point courage :
 Il va du capitaine enlever le trésor.
@@ -100,25 +399,141 @@ Que Crispin vous a fait dix fois, à ce qu'il dit ;
 Et lorsque Piracmon nous sauvait dans sa barque,
 Vous-même avez pu voir...
 
--*who_eliante
-      Est-ce que l'on remarque ?...
-
--*who_marine
 C'est bien dit... Mais voilà Crispin.
 
-**** *book_ *id_I02 *act_I *date_1710
-
--*who_marine
       Bonjour, Crispin.
 
--*who_crispin
+      Qu'as-tu ? Tu me parais chagrin ?
+
+Quoi ! Son honneur, Crispin...
+
+      Mais tu sais, entre nous...
+
+      Tu sais qu'un pareil mariage...
+
+Madame, quel discours ! Avez-vous entendu
+L'exécrable dessein que le traître a conçu ?...
+Impudent !
+
+      Le fripon !
+Je vois bien que lui-même a fait la trahison ;
+Que si le gouverneur est instruit du mystère,
+C'est par lui.
+
+Je ne sais... Mais voici mon mari, Piracmon...
+S'il pouvait nous servir !
+
+Il sait votre secret, et j'ai dû le lui dire.
+
+      Bon ! Dès les premiers jours.
+
+Mon mari, nous avons besoin de ton secours.
+Crispin fait l'insolent. Il prétend que madame,
+Qui, comme je t'ai dit, a feint d'être sa femme...
+
+      Eh bien ! Ce faux mari
+Prétend, en se flattant que Licandre a péri,
+D'un véritable époux avoir le privilège.
+
+      Enfin, que te dirai-je ?
+Il va, dit-il, s'en plaindre à votre gouverneur.
+
+Oui, car madame et moi nous ne savons qu'y faire..
+Donne-nous là-dessus un conseil salutaire.
+
+      Eh bien ?
+
+      Ne t'en mets point en peine.
+
+      Où va le gouverneur ?
+
+Mais tu n'y songes pas, au moins.
+
+Ce bûcher, cet apprêt, cela n'est que pour rire,
+N'est-il pas vrai ?
+
+      Et cependant ici
+Monsieur le gouverneur ne l'entend pas ainsi.
+Le grand-prêtre, d'abord, mettra le feu lui-même;
+Et que deviendrons nous avec ton stratagème ?
+Par ton ordre Éliante est au haut du bûcher.
+
+Il faudrait prévenir le gouverneur. Peut-être...
+
+Si le feu...
+
+Je ne te comprends point.
+
+Crispin, en mourant dans la flamme,
+Doit se louer de son bonheur.
+Il va jouir de l'honneur
+D'être brûlé pour sa femme.
+Est-il une plus belle mort?
+Chantons, dansons, et célébrons son sort.
+
+Maris, de lui venez apprendre
+À suivre une femme au tombeau ;
+Et de ce phénix nouveau
+Venez chercher de la cendre.
+Est-il une plus belle mort ?
+Chantons, dansons, et célébrons son sort.
+
+
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licandre
+
+      Seigneur, je suis un étranger ;
+Sans secours, sans espoir, dons un pressant danger,
+Triste jouet des vents, échappé du naufrage,
+Et dans l'île voisine entraîné par l'orage;
+Je viens du gouverneur, qui me renvoie ici,
+Vous apporter, seigneur, le billet que voici.
+
+      Ah ! grands dieux !
+Quoi ! Je pourrais ici revoir celle que j'aime ?
+Que mon coeur est content ! Que ma joie est extrême !
+Montrez-la moi, de grâce ! Achevez mon bonheur.
+
+      Elle est morte ?
+
+Ah ! Que m'apprenez-vous ? Elle était mariée ?...
+Cruelle ! Ma tendresse est-elle ainsi payée ?...
+Hélas !
+
+Permettez qu'avec eux je me jette dedans.
+Vous voyez bien qu'après cette perte funeste,
+La mort est désormais le seul bien qui me reste :
+Et ce sera pour moi le bonheur le plus doux.
+
+Que j'éprouve, grands dieux ! La fortune inconstante !
+En trouvant ce que j'aime on m'apprend en ces lieux
+Que la mort m'a ravi ce trésor précieux.
+
+Je succombe... À ces mots je me sens accabler.
+Une vapeur secrète, en mes sens répandue,
+Me ravit tout à coup l'usage de la vue.
+
+Ne me retenez plus Dans ma douleur mortelle,
+Je veux voir Éliante, et brûler avec elle.
+L'époux n'aura pas seul ce funeste plaisir.
+
+Que vois-je ? Juste ciel ! Ma surprise est extrême...
+Je ne me trompe point... Oui, vraiment, c'est lui-même.
+C'est Crispin!... Toi, maraud ! Cet époux fortuné,
+Qui m'as ravi l'objet qui m'était destiné !
+
+Ô ciel ! Que de beautés vont se réduire en cendre !...
+Je ne la quitte point.
+
+      Juste ciel !
+
+      C'est mon valet.
+
+
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 Bonjour...
       Bonjour.
 
--*who_marine
-      Qu'as-tu ? Tu me parais chagrin ?
-
--*who_crispin
 Je suis chagrin... joyeux... j'appréhende... et j'espère...
 L'amour et le respect... par un effet contraire...
 Ainsi que la douleur... le plaisir... dans mon coeur...
@@ -130,35 +545,15 @@ Ainsi ces étrangers méprisent notre loi !
 Qu'on leur dise, à tous deux, qu'il y va de la vie,
 Si ce soir... »
 
--*who_eliante
-      Ah ! Mourons...
-
--*who_crispin
       Je n'en ai point d'envie.
 
--*who_eliante
-Comment ?...
-
--*who_crispin
       Suivons plutôt l'ordre du gouverneur.
 
--*who_marine
-Quoi ! Son honneur, Crispin...
-
--*who_crispin
       Laissons là son honneur :
 Il y va de la vie.
 
--*who_eliante
-      Eh ! L'amour de ton maître ?...
-
--*who_crispin
 Les flots l'ont englouti... N'y pensons plus.
 
--*who_eliante
-      Quoi ! Traître !..
-
--*who_crispin
 Est-ce ma faute, à moi, si mon maître a péri,
 Si vous m'avez prié d'être votre mari
 Pour ne pas épouser un de ces insulaires,
@@ -166,24 +561,12 @@ Qui, ma foi ! N'aurait pas cherché tant de mystères,
 Et si le gouverneur veut qu'étant votre époux ...
 Est-ce ma faute, à moi?
 
--*who_marine
-      Mais tu sais, entre nous...
-
--*who_crispin
 Je ne suis rien.
 
--*who_marine
-      Tu sais qu'un pareil mariage...
-
--*who_crispin
 On dit qu'il est fort bon : que faut-il davantage ?
 Le grand-prêtre a formé cette belle union...
 Il ne nous reste plus que la conclusion.
 
--*who_eliante
-Mais, scélérat ! Tu sais que c'était une feinte.
-
--*who_crispin
 Oui, mais le gouverneur me donne de la crainte.
 Il est sévère en diable !... Et, d'ailleurs, certain feu...
 Pour vos appas me presse... un peu plus fort que jeu...
@@ -192,212 +575,43 @@ Si cette passion ne fait toute ma joie !...
 Et votre amant, mon maître, a bien fait de périr...
 Je meurs d'amour pour vous et vous m'allez guérir.
 
--*who_eliante
-Oses-tu devant moi tenir un tel langage ?
-
--*who_crispin
 Pourquoi non, s'il vous plaît ?... Les noeuds du mariage...
 
--*who_eliante
-Ôte-toi de mes yeux.
-
--*who_crispin
       Je vais au gouverneur
 Qui saura soutenir ses lois avec vigueur.
 Il m'entendra lui dire, en parlant de son île,
 Qu'il ne tient pas à moi qu'elle ne soit fertile.
 
--*who_marine
-Madame, quel discours ! Avez-vous entendu
-L'exécrable dessein que le traître a conçu ?...
-Impudent !
-
--*who_eliante
-      Jusqu'au bout tu pousses l'insolence,
-Misérable valet ! Effronté!
-
--*who_crispin
       Patience !
 Monsieur le gouverneur va savoir tout ceci...
 Mais, par avance, moi, je vous déclare ici
 Que je suis votre époux que vous êtes ma femme...
 Que je veux... qu'il me plaît... Obéissez, madame.
 
-**** *book_ *id_I03 *act_I *date_1710
-
--*who_eliante
-Ô ciel ! Qui l'aurait cru, Marine ?
-
--*who_marine
-      Le fripon !
-Je vois bien que lui-même a fait la trahison ;
-Que si le gouverneur est instruit du mystère,
-C'est par lui.
-
--*who_eliante
-      Malheureuse ! Hélas! Que vais-je faire ?...
-Que ferais-tu, Marine, en cette occasion?
-
--*who_marine
-Je ne sais... Mais voici mon mari, Piracmon...
-S'il pouvait nous servir !
-
--*who_eliante
-      Il faudrait donc l'instruire ?
-
--*who_marine
-Il sait votre secret, et j'ai dû le lui dire.
-
--*who_eliante
-Quoi ! Marine, déjà ?...
-
--*who_marine
-      Bon ! Dès les premiers jours.
-
-**** *book_ *id_I04 *act_I *date_1710
-
--*who_marine
-Mon mari, nous avons besoin de ton secours.
-Crispin fait l'insolent. Il prétend que madame,
-Qui, comme je t'ai dit, a feint d'être sa femme...
-
--*who_piracmon
-Oui, je sais le mystère.
-
--*who_marine
-      Eh bien ! Ce faux mari
-Prétend, en se flattant que Licandre a péri,
-D'un véritable époux avoir le privilège.
-
--*who_piracmon
-Voyez-vous le pendard !
-
--*who_marine
-      Enfin, que te dirai-je ?
-Il va, dit-il, s'en plaindre à votre gouverneur.
-
--*who_piracmon
-La peste ! Il faut songer à parer ce malheur.
-
--*who_marine
-Oui, car madame et moi nous ne savons qu'y faire..
-Donne-nous là-dessus un conseil salutaire.
-
--*who_piracmon
-Attendez... justement... J'entrevois un moyen
-Qui pourrait réussir. Faisons-lui peur.
-
--*who_marine
-      Eh bien ?
-
--*who_eliante
-Mais en lui faisant peur, qu'espérez-vous?
-
--*who_piracmon
-      J'espère
-L'intimider, madame ; et de telle manière.
-Qu'il se mordra tantôt les doigts d'avoir voulu
-Entreprendre avec vous ce qui vous a déplu.
-Mais secondez-moi bien.
-
--*who_marine
-      Ne t'en mets point en peine.
-
--*who_eliante
-Pour sauver mon honneur si votre adresse est vaine,
-Je saurai me donner la mort.
-
--*who_piracmon
-      Oh ! Doucement ;
-Nous n'en viendrons pas là. Suivez-moi seulement...
-Oui, madame, je veux que, dans cette journée,
-Le gouverneur, cassant ce honteux hyménée,
-Trouve un homme en Crispin trop indigne de vous,
-Et trop lâche, en un mot, pour être votre époux.
-Je vous aurai bientôt appris tout votre rôle...
-Voici le gouverneur, suivi de notre drôle...
-Eh vite ! Éloignons-nous ; qu'il ne nous voie ici.
-
-**** *book_ *id_I05 *act_I *date_1710
-
--*who_crispin
 Seigneur, je ne mens point, et la chose est ainsi.
 
--*who_legouverneur
-Comment donc ! À nos lois faire une telle injure !
-Je vous rendrai justice, et je vous en assure.
-
--*who_crispin
 Vous me ferez plaisir.
 
--*who_legouverneur
-      Vous êtes son époux :
-Elle doit se soumettre et n'obéir qu'à vous.
-Qu'est-ce qui lui flait donc haïr votre personne ?
-D'où viennent ses dégoûts ?
-
--*who_crispin
       Moi, c'est ce qui m'étonne.
 
--*who_legouverneur
-Vous n'êtes point affreux et laid à faire peur :
-Au contraire.
-
--*who_crispin
       Fi donc ! Monsieur le gouverneur,
 Vous me rendez confus.
 
--*who_legouverneur
-      Parlez. Est-ce qu'en France
-Toutes les femmes font pareille résistance ?
-
--*who_crispin
 Non, par ma foi ! Bien loin de se faire prier
 Une fille qu'on est longtemps à marier,
 Fort souvent se marie elle-même.
 
--*who_legouverneur
-      Eh ! Le maître,
-En France, n'est-ce pas l'époux ? Cela doit être.
-
--*who_crispin
 Oui, vraiment ; mais la femme est la maîtresse aussi.
 
--*who_legouverneur
-Votre femme voudrait faire de même ici ?
-
-**** *book_ *id_I06 *act_I *date_1710
-
--*who_piracmon
-Ah ! Seigneur, apprenez une étrange nouvelle.
-La femme de Crispin...
-
--*who_crispin
       Eh bien ! Qu'est-ce ? Qu'a-t-elle ?
 
--*who_piracmon
-La pauvre femme, hélas ! a termine son sort :
-Elle vient, à nos yeux, de se donner la mort ;
-Et, pour se dégager de ce triste hyménée,
-Elle a pris un breuvage et s'est empoisonnée,
-S'affranchissant ainsi d'une odieuse loi.
-
--*who_crispin
 Ma foi ! Tant .pispour elle. Est-ce ma faute, à moi ?
 
--*who_legouverneur
-Non, vraiment.
-
--*who_crispin
       Mais voyez quel vilain caractère !
 Je fais tout ce qu'on peut au monde pour lui plaire ;
 Je recule huit jours son plaisir et le mien,
 Et puis madame meurt !... Fi ! Cela n'est pas bien.
 
--*who_piracmon
-Une perte si grande et m'alarme et me touche.
-
--*who_crispin
 Préférer le trépas à l'honneur de ma couche !
 Jeune, comme je suis, le teint frais, l'oeil charmant...
 Monsieur le gouverneur m'en faisait compliment...
@@ -408,57 +622,19 @@ Filles, femmes, chacune avait même désir.
 D'un seul geste, .d'un mot, à la cour, à la ville,
 J'en ai, foi de Crispin ! Enchanté plus de mille.
 
--*who_legouverneur
-Je suis ravi pour vous de ce petit malheur.
-
--*who_crispin
 Pourquoi donc, s'il vous plaît, monsieur le gouverneur ?
 
--*who_legouverneur
-Ah ! Seigneur, vous allez acquérir ; une gloire
-Qui doit éterniser votre illustre mémoire.
-
--*who_crispin
 Comment ?
 
--*who_legouverneur
-      On parlera de vous chez nos neveux.
-Encore un coup, Seigneur, vous êtes trop heureux.
-
--*who_crispin
 Comment donc ?
 
--*who_piracmon
-      Avant tout ; dites, savez-vous lire ?
-
--*who_crispin
 Oui, vraiment.
 
--*who_piracmon
-      Ainsi donc ne songez plus qu'à rire.
-
--*who_crispin
 Rions donc... Mais au moins, que je sache pourquoi ?
 
--*who_legouverneur
-Qu'on nous apporte ici le livre de la loi.
-
-**** *book_ *id_I07 *act_I *date_1710
-
--*who_crispin
 Sans ce livre, en deux mots, dites, qu'ordonne-t-elle ?
 Faut-il que je reprenne une femme nouvelle ?
 
--*who_legouverneur
-Par le livre à l'instant vous allez être instruit.
-On l'apporte.
-
-**** *book_ *id_I08 *act_I *date_1710
-
--*who_legouverneur
-      Lisez. C'est l'article dix-huit
-
--*who_crispin
 « Quand le mari meurt, ou la femme,
 On allume de grands bûchers,
 Et le survivant doit se jeter dans la flamme,
@@ -466,13 +642,8 @@ En montrant une grandeur d'âme
 Qui ne s étonne pas de semblables dangers,
 Et c'est un grand honneur pour tous les étrangers. »
 
--*who_crispin
 C'est donc la le sujet qui doit faire ma joie ?
 
--*who_legouverneur
-Bénissez, bénissez le ciel qui vous l'envoie.
-
--*who_crispin
 Moi, je le bénirais d'un pareil traitement ?
 Je dois plutôt songer à m'enfuir promptement...
 Moi, me laisser brûler ?... Ah ! Maudits insulaires!
@@ -481,356 +652,52 @@ De vous brûler ainsi vous êtes de vrais fous,
 Et je ne reste pas un quart d'heure chez vous...
 Adieu.
 
--*who_piracmon
-      N'espérez pas échapper de la sorte.
-
--*who_legouverneur
-Holà ! Gardes... Quelqu'un ; qu'on l'arrête. Main forte !
-
--*who_crispin
 Quoi ! C'est donc tout de bon ?
 
--*who_legouverneur
-      Ceci n'est point un jeu ...
-Voulez-vous qu'on vous jette à force dans le feu ?
-
--*who_piracmon
-Croyez-m'en, avalez doucement la pilule.
-Périssez sans montrer de crainte ridicule :
-Car, enfin, il le faut, ou de force, ou de gré.
-
--*who_crispin
 Malheureux que je suis ! Où me suis-je fourré ?
 
--*who_legouverneur
-Quoi ! Vous pleurez ?
-
--*who_crispin
       Hélas!
 
--*who_legouverneur
-      Remportez la victoire ;
-Songez à votre honneur.
-
--*who_piracmon
-      Songez a votre gloire,
-
--*who_crispin
 De l'honneur, de la gloire, ai-je de tout cela?
 
--*who_legouverneur
-Que diront nos neveux ?
-
--*who_crispin
       Tout ce qu'il leur plaira.
 
--*who_legouverneur
-Jetez-vous, en héros, vous-même, dans la flamme.
-
--*who_crispin
 Mais, messieurs, Éliante était-elle ma femme ?
 Notre hymen n'était pas seulement ébauché :
 Est-ce à moi, s'il vous plaît, d'en porter le péché ?
 
--*who_legouverneur
-Tout cela n'y fait rien, il faut mourir.
-
--*who_crispin
       J'enrage !
 Ah ! Que n'ai-je conclu mon chien de mariage !
 Si j'avais cru sitôt terminer mon destin,
 Avant que de mourir j'aurais fait un Crispin,
 
--*who_piracmon
-Voici l'ordre, à peu près, de la cérémonie.
-Je vais vous en instruire.
-
--*who_crispin
       Ah ! Quelle tyrannie !
 
--*who_piracmon
-Premièrement il faut ne point verser de pleurs.
-On vous entourera de guirlandes de fleurs.
-Au son des instruments on viendra vous conduire
-Jusqu'au pied du bûcher.
-
--*who_crispin
       Juste ciel ! Quel martyre !
 
--*who_piracmon
-Quand vous serez monté tout au hant du bûcher,
-À côté d'Éliante on doit vous attacher.
-Vous n'aurez jamais vu tant de réjouissances.
-Le peuple autour de vous viendra former des danses.
-Nos chants élèveront votre nom jusqu'aux cieux.
-Vous-même, j'en suis sûr, vous serez tout joyeux.
-Vous serez enchanté de notre symphonie.
-Enfin, pour terminer cette cérémonie
-Par les quatre côtés, quatre flambeaux ardents
-Mettront le feu sous vous ; puis, quand il sera temps ;
-On ira recueillir vos cendres dans une urne ;
-Et votre nom...
-      Mais, quoi ! Vous voilà taciturne ?
-
--*who_legouverneur
-Marchez.
-
--*who_crispin
       Mais d'un instant ne peut-on reculer ?
 
--*who_piracmon
-Non, seigneur. Tout à l'heure on prétend vous brûler.;
-Nous n'avons pas besoin qu'un bûcher se prépare:
-Il en est de tout prêts.
-
--*who_crispin
       Précaution barbare !
 
--*who_piracmon
-Oui, dans tous les marchés, de toutes les façons,
-On en trouve, qu'on roule au-devant des maisons.
-À quatre pas d'ici j'en sais un magnifique.
-
--*who_crispin
 Ah ! Morbleu ! Ce n'est pas cela dont je me pique :
 De la magnificence !
 
--*who_legouverneur
-      Eh ! Cela fait honneur.
-
--*who_crispin
 Ayez pitié de moi, monsieur le gouverneur.
 
--*who_legouverneur
-Peut-on être attaché de la sorte à la vie ?
-
--*who_crispin
 C'est mon faible.
 
--*who_legouverneur
-      Fi donc! Quelle badinerie !
-
--*who_crispin
 Vous mourez donc gaiement, vous autres ?
 
--*who_piracmon
-      Fort gaiement ?
-Et surtout quand on meurt dans ce noble élément.
-
--*who_crispin
 Mais en mourant ainsi que pouvez-vous attendre ?
 
--*who_legouverneur
-Nous croyons qu'on renaît aussitôt de sa cendre ;
-
--*who_crispin
 Pour moi, qui n'en crois rien, seigneur, dispensez-moi...
 
--*who_legouverneur
-Coeur bas!... Ah ! C'est trop faire injure à notre loi...
-Vous, Piracmon...
-
--*who_piracmon
-      Seigneur.
-
--*who_legouverneur
-      Ayez soin de la fête.
-Que la cérémonie en un instant soit prête...
-Puis-je compter sur vous ?
-
--*who_piracmon
-      Seigneur, tout ira bien.
-
--*who_legouverneur
-Gardes... conduisez-le...
-      Surtout, n'oubliez rien
-Pour rendre la musique et la danse célèbre.
-
--*who_crispin
 Ciel ! On va me donner un opéra funèbre !...
 Ah ! Le maudit pays !... Ah ! La maudite loi !
 
--*who_piracmon
-Venez vous préparer : il est temps ; suivez-moi.
-
--*who_crispin
 Je vais me préparer à périr dans la flamme...
 Allons, c'est fait de moi... Dieu veuille avoir mon âme !
 
-**** *book_ *id_I09 *act_I *date_1710
-
--*who_legouverneur
-L'insensé ne voit pas la gloire de son sort :
-Il a le coeur si bas que de craindre la mort !
-Puisse le ciel sur lui répandre ses lumières,
-Et lui donner aussi les forces nécessaires
-Pour pouvoir surmonter cette vaine frayeur !...
-Mais, quelqu'un vient à moi.
-
-**** *book_ *id_I10 *act_I *date_1710
-
--*who_legouverneur
-      Que me veut-on ?
-
--*who_linsulaire
-      Seigneur,
-Un cavalier français vient vous rendre une lettre.
-Il voudrait vous parler. Voulez-vous le permettre ?
-
--*who_legouverneur
-Qu'il approche.
-
-**** *book_ *id_I11 *act_I *date_1710
-
--*who_licandre
-      Seigneur, je suis un étranger ;
-Sans secours, sans espoir, dons un pressant danger,
-Triste jouet des vents, échappé du naufrage,
-Et dans l'île voisine entraîné par l'orage;
-Je viens du gouverneur, qui me renvoie ici,
-Vous apporter, seigneur, le billet que voici.
-
--*who_legouverneur
-Donnez. Je vous promets que, quoi qu'il me demande,
-Je ferai tout pour lui. Voyons ce qu'il me mande.
-« Le gentilhomme que je vous envoie a été jeté par la tempête dans mon île.
-Son nom est Licandre ; et il a fait naufrage depuis peu avec une personne, nommée Éliante, dont il était éperdument amoureux.
-Si, par hasard, vous aviez des nouvelles de cette aimable personne, vous rachèteriez la vie à son amant en la lui faisant retrouver.
-Informez-vous-en, je vous prie.Il n'est point impossible que l'orage l'ait jetée dans votre port.
-Donnez-y vos soins; j'en aurai une éternelle reconnaissance.
-BRISAPH, gouverneur de l'île de Santoriada. »
-
--*who_legouverneur
-Oui, je puis contenter vos désirs curieux ;
-Je puis vous informer d'Éliante.
-
--*who_licandre
-      Ah ! grands dieux !
-Quoi ! Je pourrais ici revoir celle que j'aime ?
-Que mon coeur est content ! Que ma joie est extrême !
-Montrez-la moi, de grâce ! Achevez mon bonheur.
-
--*who_legouverneur
-Si je vous là fais voir, vous mourrez de douleur.
-Elle vient d'expirer tout à l'heure.
-
--*who_licandre
-      Elle est morte ?
-
--*who_legouverneur
-Je connais la grandeur du coup que je vous porte ;
-Mais, enfin, puisqu'il faut sans feinte vous parler,
-Elle, avec son mari, nous allons la brûler.
-
--*who_licandre
-Ah ! Que m'apprenez-vous ? Elle était mariée ?...
-Cruelle ! Ma tendresse est-elle ainsi payée ?...
-Hélas !
-
--*who_legouverneur
-      Mais, cependant, il faut vous dire tout.
-L'hymen n'a pas été terminé jusqu'au bout.
-L'époux, du moins, le dit : même je le présume,
-Et, suivant du pays la louable coutume,
-Nous brûlons les époux sur des bûchers ardents.
-
--*who_licandre
-Permettez qu'avec eux je me jette dedans.
-Vous voyez bien qu'après cette perte funeste,
-La mort est désormais le seul bien qui me reste :
-Et ce sera pour moi le bonheur le plus doux.
-
--*who_legouverneur
-Le mari ne prend pas la chose comme vous ?
-Un sort si glorieux l'alarme et l'épouvante.
-
--*who_licandre
-Que j'éprouve, grands dieux ! La fortune inconstante !
-En trouvant ce que j'aime on m'apprend en ces lieux
-Que la mort m'a ravi ce trésor précieux.
-
--*who_legouverneur
-Je vous plains.
-
-**** *book_ *id_I12 *act_I *date_1710
-
--*who_linsulaire
-      Tout est prêt pour la cérémonie ;
-Le bûcher, les flambeaux, le deuil, la symphonie.
-Le mari, cependant, ne se peut consoler.
-
--*who_licandre
-Je succombe... À ces mots je me sens accabler.
-Une vapeur secrète, en mes sens répandue,
-Me ravit tout à coup l'usage de la vue.
-
--*who_legouverneur
-Il tombe évanoui... Qu'on l'ôte de ces lieux;
-Il ne faut point offrir ce spectacle à ses yeux ;
-Sa trop vive douleur l'interromprait peut-être...
-Le deuil s'approche... Allons au-devant du grand-prêtre.
-
-**** *book_ *id_I13 *act_I *date_1710
-
--*who_piracmon
-Oui, c'est dans cet endroit
-
--*who_marine
-      Où va le gouverneur ?
-
--*who_piracmon
-Au-devant du grand-prêtre. Il lui doit cet honneur.
-
--*who_marine
-Mais tu n'y songes pas, au moins.
-
--*who_piracmon
-      Que veux-tu dire ?
-
--*who_marine
-Ce bûcher, cet apprêt, cela n'est que pour rire,
-N'est-il pas vrai ?
-
--*who_piracmon
-      Sans doute.
-
--*who_marine
-      Et cependant ici
-Monsieur le gouverneur ne l'entend pas ainsi.
-Le grand-prêtre, d'abord, mettra le feu lui-même;
-Et que deviendrons nous avec ton stratagème ?
-Par ton ordre Éliante est au haut du bûcher.
-
--*who_piracmon
-Quand il en sera temps, j'irai l'en détacher.
-
--*who_marine
-Il faudrait prévenir le gouverneur. Peut-être...
-
--*who_piracmon
-Il est plus scrupuleux encor que le grand-prêtre :
-Il ne badine point sur cet article-là.
-
--*who_marine
-Si le feu...
-
--*who_piracmon
-      Laisse-moi conduire tout cela.
-De ce qu'elle doit faire Éliante est instruite.
-
--*who_marine
-Je ne te comprends point.
-
--*who_piracmon
-      Tu verras, dans la suite...
-Si le drôle en revient, je veux que, de longtemps,
-Il n'ait dessein... Mais, chut... j'entends les instruments...
-La victime paraît, couverte de guirlandes...
-Viens-t'en, et joignons-nous à ces joyeuses bandes.
-
-**** *book_ *id_I14 *act_I *date_1710
-
--*who_crispin
 « Pleurez, pleurez, mes yeux, et fondez-vous en eau ;
 La moitié de Crispin mettra l'autre au tombeau :
 Mais je plains beaucoup moins, dans ce malheur funeste,
@@ -838,220 +705,42 @@ La moitié que je perds que celle qui me reste...»
 Je dois être brûlé tout vif... Ô sort affreux !...
 Mon maître, quoique mort, est, ma foi, plus heureux.
 
--*who_grandpretre_grandepretresse
-Crispin, il faut braver le sort.
-Par lui ta femme t'est ravie :
-Rejoins-la par un noble effort.
-Pour elle tu brûlais, brûlais, pendant sa vie,
-Brûle, brûle, avec elle, après sa mort,
-
--*who_lagrandepretresse
-D'un long veuvage on n'a point l'amertume
-En suivant sa femme au tombeau.
-De ce pays bénissez la coutume :
-Brûlez, brûlez d'un feu nouveau.
-Ici quand l'Hymen éteint son flambeau,
-L'Amour aussitôt le rallume.
-
--*who_marine
-Crispin, en mourant dans la flamme,
-Doit se louer de son bonheur.
-Il va jouir de l'honneur
-D'être brûlé pour sa femme.
-Est-il une plus belle mort?
-Chantons, dansons, et célébrons son sort.
-
--*who_choeurdinsulaires
-Chantons, dansons, et célébrons son sort.
-
--*who_lagrandepretresse
-Dans ses yeux sa joie est bien peinte.
-Qu'il est content ! Qu'il est heureux !
-Nous l'allons voir dans les feux,
-Sans qu'il pousse aucune plainte.
-Est-il une plus belle mort ?
-Chantons, dansons, et célébrons son sort,
-
--*who_marine
-Maris, de lui venez apprendre
-À suivre une femme au tombeau ;
-Et de ce phénix nouveau
-Venez chercher de la cendre.
-Est-il une plus belle mort ?
-Chantons, dansons, et célébrons son sort.
-
--*who_choeurdinsulaires
-Chantons, dansons, et célébrons son sort.
-
--*who_crispin
 Ô ciel ! Vit-on jamais une rigueur pareille ?
 Ils viennent me corner leur musique à l'oreille,
 Célébrer mon bonheur, rire, danser, sauter !...
 Je vous conseille encor de me faire chanter.
 
-**** *book_ *id_I15 *act_I *date_1710
-
--*who_licandre
-Ne me retenez plus Dans ma douleur mortelle,
-Je veux voir Éliante, et brûler avec elle.
-L'époux n'aura pas seul ce funeste plaisir.
-
--*who_crispin
 Vous pouvez là-dessus suivre votre désir.
 
--*who_licandre
-Que vois-je ? Juste ciel ! Ma surprise est extrême...
-Je ne me trompe point... Oui, vraiment, c'est lui-même.
-C'est Crispin!... Toi, maraud ! Cet époux fortuné,
-Qui m'as ravi l'objet qui m'était destiné !
-
--*who_crispin
 Eh quoi ! Monsieur, c'est vous ?...
       Ô ciel, je te rends grâce...
 Vous venez à propos pour prendre ici ma place...
 Messieurs, au moins, voilà le véritable époux.
 
--*who_legouverneur
-Nous n'en connaissons point ici d'autre que vous.
-
--*who_crispin
 Pour lui faire plaisir, j'ai feint ce mariage.
 
--*who_legouverneur
-Que de discours !... Allons, sans tarder davantage,
-Montez sur le bûcher.
-
--*who_crispin
       Que l'on attende un peu.
 
--*who_legouverneur
-Non, non, point de délai.
-
--*who_crispin
       Je vais crier au feu.
 
--*who_licandre
-Ô ciel ! Que de beautés vont se réduire en cendre !...
-Je ne la quitte point.
-
--*who_eliante
-      Ah ! Licandre, Licandre !
-
--*who_crispin
 Miracle !
 
--*who_licandre
-      Juste ciel !
-
--*who_legouverneur
-      Que veut dire ceci ?
-Votre épouse est vivante encore ?
-
--*who_crispin
       Oui, Dieu merci !
 Le poison a raté.
 
--*who_legrandpretre
-      Que vois-je ici paraître ?
-Avez-vous prétendu vous moquer du grand-prêtre,
-Monsieur le gouverneur ?
-
--*who_eliante
-      Pardonnez à l'amour,
-Qui nous a fait tenter cet innocent détour,
-Qui, pour me réserver toute entière à Licandre,
-M'a fait, blessant vos lois, un peu trop entreprendre.
-Il était mon époux.
-
--*who_legrandpretre
-      Votre époux ? Eh ! Pourquoi
-Ne me pas confier un tel secret, à moi ?
-Je n'aurais pas permis ce second hyménée,
-Ou j'en aurais, du moins, retardé la journée
-Mais, puisqu'il est ainsi, je vous rends cet époux ;
-Aussi bien le second est indigne de vous.
-De mon autorité je romps ce mariage,
-Et vous rends à présent au noeud qui vous engage...
-N'est-ce pas votre avis, monsieur le gouverneur ?
-
--*who_legouverneur
-Oui, sans doute;
-
--*who_legrandpretre
-      Ainsi donc, vivez heureux.
-
--*who_eliante
-      Seigneur,
-En me rendant Licandre on me rend à la vie.
-
--*who_crispin
 Voyez-vous la malice et la friponnerie !
 
--*who_legouverneur
-Taisez-vous, lâche !...
-      Et vous, trop généreux époux !
-Dans mon île goûtez les plaisirs les pins doux.
-Ce mépris de la mort mérite trop la vie ;
-Qu'à tous deux de longtemps elle ne soit ravie :
-J'en fais tous mes souhaits.
-
--*who_eliante
-      Seigneur, que de bontés !
-
--*who_legouverneur
-Je n'en puis tant avoir que vous en méritez...
-Pour le seigneur Crispin...
-
--*who_licandre
-      C'est mon valet.
-
--*who_legouverneur
-      Quoi ! Traître !
-Me tromper, me jouer, en trahissant ton maître ?...
-Il faut qu'il soit puni.
-
--*who_crispin
       Pardonnez-moi, seigneur :
 Je ne le suis que trop d'avoir eu tant de peur ;
 J'ai souffert diablement, et vous pouvez m'en croire.
 
--*who_legouverneur
-Avec plus de loisir j'apprendrai votre histoire ;
-Marine et Piracmon sauront m'en informer.
-Heureux amants, toujours puissiez-vous vous aimer !...
-Vous autres, par vos chants, prenez part à leur joie,
-Qu'à les bien réjouir chacun de vous s'emploie ;
-Et, selon notre loi, nous ferons, dès demain.
-Pour surcroît de plaisir, les noces de Crispin.
-
--*who_crispin
 Soit ; mais je ne veux point terminer cette affaire
 Que par un bon contrat et par devant notaire
 La dame ne s'oblige, en mourant devant moi,
 Que je ne serai point sujet à votre loi.
 
--*who_legrandpretre
-Étrangers, qui trouvez ridicule
-Qu'ici l'on brûle
-Le survivant avec le mort,
-Vous avez tort.
-Ce tourment, qui paraît terrible,
-Fut inventé parmi nous
-Pour rendre une femme sensible
-À la mort de son époux.
-
--*who_lagrandepretresse
-Si vous voulez, malgré l'orage,
-Voguer encore en ce beau jour,
-Que ce soit sur la mer d'Amour :
-Il est beau d'y faire naufrage.
-L'Amour en quittant le rivage
-Promet toujours un heureux sort
-Avec lui, jusque dans le port,
-Il est beau de faire naufrage.
-
--*who_crispin
 Messieurs, notre nouvel ouvrage
 Peut couler à fond aujourd'hui ;
 Mais, en lui prêtant votre appui,
 Vous le sauverez du naufrage.
+

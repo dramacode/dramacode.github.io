@@ -1,1585 +1,884 @@
 
 
-**** *book_ *id_I01 *act_I *date_1734
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
--*who_frontin
-Je vous dis, Monsieur, que je l'attends ici, je vous dis qu'elle s'y rendra, que j'en suis sûr, et que j'y compte comme si elle y était déjà.
+N'est-ce pas là ce cavalier que je vis hier ramasser le gant de ma soeur ? Je n'en ai guère vu de si bien fait. Il me regarde ; j'étais hier démasquée avec cet habit-ci, et il me reconnaît, sans doute.
 
--*who_ergaste
-Et moi, je n'en crois rien.
-
--*who_frontin
-C'est que vous ne savez pas ce que je vaux, mais une fille ne s'y trompera pas : j'ai vu la friponne jeter sur moi de certains regards, qui n'en demeureront pas là, qui auront des suites, vous le verrez.
-
--*who_ergaste
-Nous n'avons vu la maîtresse et la suivante qu'une fois ; encore, ce fut par un coup du hasard que nous les rencontrâmes hier dans cette promenade-ci ; elles ne furent avec nous qu'un instant ; nous ne les connaissons point ; de ton propre aveu, la suivante ne te répondit rien quand tu lui parlas : quelle apparence y a-t-il qu'elle ait fait la moindre attention à ce que tu lui dis ?
-
--*who_frontin
-Mais, Monsieur, faut-il encore vous répéter que ses yeux me répondirent ?
-N'est-ce rien que des yeux qui parlent ?
-Ce qu'ils disent est encore plus sûr que des paroles.
-Mon maître en tient pour votre maîtresse, lui dis-je tout bas en me rapprochant d'elle ; son coeur est pris, c'est autant de perdu ; celui de votre maîtresse me paraît bien aventuré, j'en crois la moitié de partie, et l'autre en l'air.
-Du mien, vous n'en avez pas fait à deux fois, vous me l'avez expédié d'un coup d'oeil ; en un mot, ma charmante, je t'adore : nous reviendrons demain ici, mon maître et moi, à pareille heure, ne manque point d'y mener ta maîtresse, afin qu'on donne la dernière main à cet amour-ci, qui n'a peut-être pas toutes ses façons ; moi, je m'y rendrai une heure avant mon maître, et tu entends bien que c'est t'inviter d'en faire autant ; car il sera bon de nous parler sur tout ceci, n'est-ce pas ?
-Nos coeurs ne seront pas fâchés de se connaître un peu plus à fond, qu'en penses-tu, ma poule ?
-Y viendras-tu ?
-
--*who_ergaste
-À cela nulle réponse ?
-
--*who_frontin
-Ah !
-Vous m'excuserez.
-
--*who_ergaste
-Quoi !
-Elle parla donc ?
-
--*who_frontin
-Non.
-
--*who_ergaste
-Que veux-tu donc dire ?
-
--*who_frontin
-Comme il faut du temps pour dire des paroles et que nous étions très pressés, elle mit, ainsi que je vous l'ai dit, des regards à la place des mots, pour aller plus vite ; et se tournant de mon côté avec une douceur infinie : Oui, mon fils, me dit-elle, sans ouvrir la bouche, je m'y rendrai, je te le promets, tu peux compter là-dessus ; viens-y en pleine confiance, et tu m'y trouveras.
-Voilà ce qu'elle me dit ; et que je vous rends mot pour mot, comme je l'ai traduit d'après ses yeux.
-
--*who_ergaste
-Va, tu rêves.
-
--*who_frontin
-Enfin je l'attends ; mais vous, Monsieur, pensez-vous que la maîtresse veuille revenir ?
-
--*who_ergaste
-Je n'ose m'en flatter, et cependant je l'espère un peu.
-Tu sais bien que notre conversation fut courte ; je lui rendis le gant qu'elle avait laissé tomber ; elle me remercia d'une manière très obligeante de la vitesse avec laquelle j'avais couru pour le ramasser, et se démasqua en me remerciant.
-Que je la trouvai charmante !
-Je croyais, lui dis-je, partir demain, et voici la première fois que je me promène ici ; mais le plaisir d'y rencontrer ce qu'il y a de plus beau dans le monde m'y ramènera plus d'une fois.
-
--*who_frontin
-Le plaisir d'y rencontrer !
-Pourquoi ne pas dire l'espérance ?
-Ç'aurait été indiquer adroitement un rendez-vous pour le lendemain.
-
--*who_ergaste
-Oui, mais ce rendez-vous indiqué l'aurait peut-être empêché d'y revenir par raison de fierté ; au lieu qu'en ne parlant que du plaisir de la revoir, c'était simplement supposer qu'elle vient ici tous les jours, et lui dire que j'en profiterais, sans rien m'attribuer de la démarche qu'elle ferait en y venant.
-
--*who_frontin
-Tenez, tenez, Monsieur, suis-je un bon traducteur du langage des oeillades ?
-Eh !
-Direz-vous que je rêve ?
-Voyez-vous cette figure tendre et solitaire, qui se promène là-bas en attendant la mienne ?
-
--*who_ergaste
-Je crois que tu as raison, et que c'est la suivante.
-
--*who_frontin
-Je l'aurais défié d'y manquer ; je me connais.
-Retirez-vous, Monsieur ; ne gênez point les intentions de ma belle.
-Promenez-vous d'un autre côté, je vais m'instruire de tout, et j'irai vous rejoindre.
-
-**** *book_ *id_I02 *act_I *date_1734
-
--*who_frontin
-Eh !
-Eh !
-Bonjour, chère enfant ; reconnaissez-moi, me voilà, c'est le véritable.
-
--*who_lisette
-Que voulez-vous, Monsieur le Véritable ?
-Je ne cherche personne ici, moi.
-
--*who_frontin
-Oh !
-Que si ; vous me cherchiez, je vous cherchais ; vous me trouvez, je vous trouve ; et je défie que nous trouvions mieux.
-Comment vous portez-vous ?.
-
--*who_lisette
-Fort bien.
-Et vous, Monsieur ?
-
--*who_frontin
-À merveilles, voilà des appas dans la compagnie de qui il serait difficile de se porter mal.
-
--*who_lisette
-Vous êtes aussi galant que familier.
-
--*who_frontin
-Et vous, aussi ravissante qu'hypocrite ; mettons bas les façons, vivons à notre aise.
-Tiens, je t'aime je te l'ai déjà dit, et je le répète ; tu m'aimes, tu ne me l'as pas dit, mais je n'en doute pas ; donne-toi donc le plaisir de me le dire, tu me le répéteras après, et nous serons tous deux aussi avancés l'un que l'autre.
-
--*who_lisette
-Tu ne doutes pas que je ne t'aime, dis-tu ?
-
--*who_frontin
-Entre nous, ai-je tort d'en être sûr ?
-Une fille comme toi manquerait-elle de goût ?
-Là, voyons, regarde-moi pour vérifier la chose ; tourne encore sur moi cette prunelle friande que tu avais hier, et qui m'a laissé pour toi le plus tendre appétit du monde.
-Tu n'oses, tu rougis.
-Allons, m'amour, point de quartier ; finissons cet article-là.
-
--*who_lisette
-Laisse-moi.
-
--*who_frontin
-Non, ta fierté se meurt, je ne la quitte pas que je ne l'aie achevée.
-
--*who_lisette
-Dès que tu as deviné que tu me plais, n'est-ce pas assez ?
-Je ne t'en apprendrai pas davantage.
-
--*who_frontin
-Il est vrai, tu ne feras rien pour mon instruction, mais il manque à ma gloire le ragoût de te l'entendre dire.
-
--*who_lisette
-Tu veux donc que je la régale aux dépens de la mienne ?
-
--*who_frontin
-La tienne !
-Eh !
-Palsambleu, je t'aime, que lui faut-il de plus ?
-
--*who_lisette
-Mais je ne te hais pas.
-
--*who_frontin
-Allons, allons, tu me voles, il n'y a pas là ce qui m'est dû, fais-moi mon compte.
-
--*who_lisette
-Tu me plais.
-
--*who_frontin
-Tu me retiens encore quelque chose, il n'y a pas là ma somme.
-
--*who_lisette
-Eh bien !
-Donc...
-Je t'aime.
-
--*who_frontin
-Me voilà payé avec un bis.
-
--*who_lisette
-Le bis viendra dans le cours de la conversation, fais-m'en crédit pour à présent ; ce serait trop de dépense à la fois.
-
--*who_frontin
-Oh !
-Ne crains pas la dépense, je mettrai ton coeur en fonds, va, ne t'embarrasse pas.
-
--*who_lisette
-Parlons de nos maîtres.
-Premièrement, qui êtes-vous, vous autres ?
-
--*who_frontin
-Nous sommes des gens de condition qui retournons à Paris, et de là à la cour, qui nous trouve à redire ; nous revenons d'une terre que nous avons dans le Dauphiné ; et en passant, un de nos amis nous a arrêté à Lyon, d'où il nous a mené à cette campagne-ci, où deux paires de beaux yeux nous raccrochèrent hier, pour autant de temps qu'il leur plaira.
-
--*who_lisette
-Où sont-ils, ces beaux yeux ?
-
--*who_frontin
-En voilà deux ici, ta maîtresse a les deux autres.
-
--*who_lisette
-Que fait ton maître ?
-
--*who_frontin
-La guerre, quand les ennemis du Roi nous raisonnent.
-
--*who_lisette
-C'est-à-dire qu'il est officier.
-Et son nom ?
-
--*who_frontin
-Le marquis Ergaste, et moi, le chevalier Frontin, comme cadet de deux frères que nous sommes.
-
--*who_lisette
-Ergaste ?
-Ce nom-là est connu, et tout ce que tu me dis là nous convient assez.
-
--*who_frontin
-Quand les minois se conviennent, le reste s'ajuste.
-Mais voyons, mes enfants, qui êtes-vous à votre tour ?
-
--*who_lisette
-En premier lieu, nous sommes belles.
-
--*who_frontin
-On le sent encore mieux qu'on ne le voit.
-
--*who_lisette
-Ah !
-Le compliment vaut une révérence.
-
--*who_frontin
-Passons, passons, ne te pique point de payer mes compliments ce qu'ils valent, je te ruinerais en révérences, et je te cajole gratis.
-Continuons : vous êtes belles, après ?
-
--*who_lisette
-Nous sommes orphelines.
-
--*who_frontin
-Orphelines ?
-Expliquons-nous ; l'amour en fait quelquefois, des orphelins ; êtes-vous de sa façon ?
-Vous êtes assez aimables pour cela.
-
--*who_lisette
-Non, impertinent !
-Il n'y a que deux ans que nos parents sont morts, gens de condition aussi, qui nous ont laissées très riches.
-
--*who_frontin
-Voilà de fort bons procédés.
-
--*who_lisette
-Ils ont eu pour héritières deux filles qui vivent ensemble dans un accord qui va jusqu'à s'habiller l'une comme l'autre, ayant toutes deux presque le même son de voix, toutes deux blondes et charmantes, et qui se trouvent si bien de leur état, qu'elles ont fait serment de ne point se marier et de rester filles.
-
--*who_frontin
-Ne point se marier fait un article, rester filles en fait un autre.
-
--*who_lisette
-C'est la même chose.
-
--*who_frontin
-Oh que non !
-Quoi qu'il en soit, nous protestons contre l'un ou l'autre de ces deux serments-là ; celle que nous aimons n'a qu'à choisir, et voir celui qu'elle veut rompre ; comment s'appelle-t-elle ?
-
--*who_lisette
-Clarice, c'est l'aînée, et celle à qui je suis.
-
--*who_frontin
-Que dit-elle de mon maître ?
-Depuis qu'elle l'a vu, comment va son voeu de rester fille ?
-
--*who_lisette
-Si ton maître s'y prend bien, je ne crois pas qu'il se soutienne, le goût du mariage l'emportera.
-
--*who_frontin
-Voyez le grand malheur !
-Combien y a-t-il de ces voeux-là qui se rompent à meilleur marché !
-Eh !
-Dis-moi, mon maître l'attend ici, va-t-elle venir ?
-
--*who_lisette
-Je n'en doute pas.
-
--*who_frontin
-Sera-t-elle encore masquée ?
-
--*who_lisette
-Oui, en ce pays-ci c'est l'usage en été, quand on est à la campagne, à cause du hâle et de la chaleur.
-Mais n'est-ce pas là Ergaste que je vois là-bas ?
-
--*who_frontin
-C'est lui-même.
-
--*who_lisette
-Je te quitte donc ; informe-le de tout, encourage son amour.
-Si ma maîtresse devient sa femme, je me charge de t'en fournir une.
-
--*who_frontin
-Eh !
-Me la fourniras-tu en conscience ?
-
--*who_lisette
-Impertinent !
-Je te conseille d'en douter !
-
--*who_frontin
-Oh !
-Le doute est de bon sens ; tu es si jolie !
-
-**** *book_ *id_I03 *act_I *date_1734
-
--*who_ergaste
-Eh bien !
-Que dit la suivante ?
-
--*who_frontin
-Ce qu'elle dit ?
-Ce que j'ai toujours prévu : que nous triomphons, qu'on est rendu, et que, quand il nous plaira, le notaire nous dira le reste.
-
--*who_ergaste
-Comment ?
-Est-ce que sa maîtresse lui a parlé de moi ?
-
--*who_frontin
-Si elle en a parlé !
-On ne tarit point, tous les échos du pays nous connaissent, on languit, on soupire, on demande quand nous finirons, peut-être qu'à la fin du jour on nous sommera d'épouser : c'est ce que j'en puis juger sur les discours de Lisette, et la chose vaut la peine qu'on y pense.
-Clarice, fille de qualité, d'un côté, Lisette, fille de condition, de l'autre, cela est bon : la race des Frontins et des Ergastes ne rougira point de leur devoir son entrée dans le monde, et de leur donner la préférence.
-
--*who_ergaste
-Il faut que l'amour t'ait tourné la tête, explique-toi donc mieux !
-Aurais-je le bonheur de ne pas déplaire à Clarice ?
-
--*who_frontin
-Eh !
-Monsieur, comment vous expliquez-vous vous-même ?
-Vous parlez du ton d'un suppliant, et c'est à nous à qui on présente requête.
-Je vous félicite, au reste, vous avez dans votre victoire un accident glorieux que je n'ai pas dans la mienne : on avait juré de garder le célibat, vous triomphez du serment.
-Je n'ai point cet honneur-là, moi, je ne triomphe que d'une fille qui n'avait juré de rien.
-
--*who_ergaste
-Eh ! dis-moi naturellement si l'on a du penchant pour moi.
-
--*who_frontin
-Oui, Monsieur, la vérité toute pure est que je suis adoré, parce qu'avec moi cela va un peu vite, et que vous êtes à la veille de l'être ; et je vous le prouve, car voilà votre future idolâtre qui vous cherche.
-
--*who_ergaste
-Écarte-toi.
-
-**** *book_ *id_I04 *act_I *date_1734
-
--*who_hortense
-N'est-ce pas là ce cavalier que je vis hier ramasser le gant de ma soeur ?
-Je n'en ai guère vu de si bien fait.
-Il me regarde ; j'étais hier démasquée avec cet habit-ci, et il me reconnaît, sans doute.
-
--*who_ergaste
-Puisque le hasard vous offre encore à mes yeux, Madame, permettez que je ne perde pas le bonheur qu'il me procure.
-Que mon action ne vous irrite point, ne la regardez pas comme un manque de respect pour vous, le mien est infini, j'en suis pénétré : jamais on ne craignit tant de déplaire, mais jamais coeur, en même temps, ne fut forcé de céder à une passion ni si soumise, ni si tendre.
-
--*who_hortense
 Monsieur, je ne m'attendais pas à cet abord-là, et quoique vous m'ayez vue hier ici, comme en effet j'y étais, et démasquée, cette façon de se voir n'établit entre nous aucune connaissance, surtout avec les personnes de mon sexe ; ainsi, vous voulez bien que l'entretien finisse.
 
--*who_ergaste
-Ah !
-Madame, arrêtez, de grâce, et ne me laissez point en proie à la douleur de croire que je vous ai offensée, la joie de vous retrouver ici m'a égaré, j'en conviens, je dois vous paraître coupable d'une hardiesse que je n'ai pourtant point ; car je n'ai su ce que je faisais, et je tremble devant vous à présent que je vous parle.
-
--*who_hortense
 Je ne puis vous écouter.
 
--*who_ergaste
-Voulez-vous ma vie en réparation de l'audace dont vous m'accusez ?
-Je vous l'apporte, elle est à vous ; mon sort est entre vos mains, je ne saurais plus vivre si vous me rebutez.
-
--*who_hortense
 Vous, Monsieur ?
 
--*who_ergaste
-J'explique ce que je sens, Madame ; je me donnai hier à vous ; je vous consacrai mon coeur, je conçus le dessein d'obtenir grâce du vôtre, et je mourrai s'il me la refuse.
-Jugez si un manque de respect est compatible avec de pareils sentiments.
+Vos expressions sont vives et pressantes, assurément, il est difficile de rien dire de plus fort. Mais enfin, plus j'y pense, et plus je vois qu'il faut que je me retire, Monsieur ; il n'y a pas moyen de se prêter plus longtemps à une conversation comme celle-ci, et je commence à avoir plus de tort que vous.
 
--*who_hortense
-Vos expressions sont vives et pressantes, assurément, il est difficile de rien dire de plus fort.
-Mais enfin, plus j'y pense, et plus je vois qu'il faut que je me retire, Monsieur ; il n'y a pas moyen de se prêter plus longtemps à une conversation comme celle-ci, et je commence à avoir plus de tort que vous.
+Je ne dis pas cela, je ne pousse point les choses jusque-là, elles ne le méritent pas. Sur quoi voudriez-vous que fût fondée ma haine ? Vous m'êtes inconnu, Monsieur, attendez donc que je vous connaisse.
 
--*who_ergaste
-Eh !
-De grâce, Madame, encore un mot qui décide de ma destinée, et je finis : me haïssez-vous ?
+Vous n'aviez qu'un mot à me dire tout à l'heure, vous me l'avez dit, et vous continuez, Monsieur. Achevez donc, ou je m'en vais : car il n'est pas dans l'ordre que je reste.
 
--*who_hortense
-Je ne dis pas cela, je ne pousse point les choses jusque-là, elles ne le méritent pas.
-Sur quoi voudriez-vous que fût fondée ma haine ?
-Vous m'êtes inconnu, Monsieur, attendez donc que je vous connaisse.
+Mais en vérité, Monsieur, après m'avoir appris que vous m'aimez, me conseillerez-vous de vous dire que je veux bien que vous me voyiez ? Je ne pense pas que cela m'arrive. Vous m'avez demandé si je vous haïssais ; je vous ai répondu que non ; en voilà bien assez, ce me semble ; n'imaginez pas que j'aille plus loin. Quant aux mesures que vous pouvez prendre pour vous mettre en état de me voir avec un peu plus de décence qu'ici, ce sont vos affaires. Je ne m'opposerai point à vos desseins ; car vous trouverez bon que je les ignore, et il faut que cela soit ainsi : un homme comme vous a des amis, sans doute, et n'aura pas besoin d'être aidé pour se produire.
 
--*who_ergaste
-Me sera-t-il permis de chercher à vous être présenté, Madame ?
+Le comte de Belfort, dites-vous ? Je ne savais pas qu'il fût ici. Nos maisons sont voisines, apparemment qu'il nous viendra voir ; et c'est donc chez lui que vous êtes actuellement, Monsieur ?
 
--*who_hortense
-Vous n'aviez qu'un mot à me dire tout à l'heure, vous me l'avez dit, et vous continuez, Monsieur.
-Achevez donc, ou je m'en vais : car il n'est pas dans l'ordre que je reste.
-
--*who_ergaste
-Ah !
-Je suis au désespoir !
-Je vous entends : vous ne voulez pas que je vous voie davantage !
-
--*who_hortense
-Mais en vérité, Monsieur, après m'avoir appris que vous m'aimez, me conseillerez-vous de vous dire que je veux bien que vous me voyiez ?
-Je ne pense pas que cela m'arrive.
-Vous m'avez demandé si je vous haïssais ; je vous ai répondu que non ; en voilà bien assez, ce me semble ; n'imaginez pas que j'aille plus loin.
-Quant aux mesures que vous pouvez prendre pour vous mettre en état de me voir avec un peu plus de décence qu'ici, ce sont vos affaires.
-Je ne m'opposerai point à vos desseins ; car vous trouverez bon que je les ignore, et il faut que cela soit ainsi : un homme comme vous a des amis, sans doute, et n'aura pas besoin d'être aidé pour se produire.
-
--*who_ergaste
-Hélas !
-Madame, je m'appelle Ergaste ; je n'ai d'ami ici que le comte de Belfort, qui m'arrêta hier comme j'arrivais du Dauphiné, et qui me mena sur-le-champ dans cette campagne-ci.
-
--*who_hortense
-Le comte de Belfort, dites-vous ?
-Je ne savais pas qu'il fût ici.
-Nos maisons sont voisines, apparemment qu'il nous viendra voir ; et c'est donc chez lui que vous êtes actuellement, Monsieur ?
-
--*who_ergaste
-Oui, Madame.
-Je le laissai hier donner quelques ordres après dîner, et je vins me promener dans les allées de ce petit bois, où j'aperçus du monde, je vous y vis, vous vous y démasquâtes un instant, et dans cet instant vous devîntes l'arbitre de mon sort.
-J'oubliai que je retournais à Paris ; j'oubliai jusqu'à un mariage avantageux qu'on m'y ménageait, auquel je renonce, et que j'allais conclure avec une personne à qui rien ne me liait qu'un simple rapport de condition et de fortune.
-
--*who_hortense
 Dès que ce mariage vous est avantageux, la partie se renouera ; la dame est aimable, sans doute, et vous ferez vos réflexions.
 
--*who_ergaste
-Non, Madame, mes réflexions sont faites, et je le répète encore, je ne vivrai que pour vous, ou je ne vivrai pour personne ; trouver grâce à vos yeux, voilà à quoi j'ai mis toute ma fortune, et je ne veux plus rien dans le monde, si vous me défendez d'y aspirer.
-
--*who_hortense
 Moi, Monsieur, je ne vous défends rien, je n'ai pas ce droit-là, on est le maître de ses sentiments ; et si le comte de Belfort, dont vous parlez, allait vous mener chez moi, je le suppose parce que cela peut arriver, je serais même obligée de vous y bien recevoir.
 
--*who_ergaste
-Obligée, Madame !
-Vous ne m'y souffrirez donc que par politesse ?
-
--*who_hortense
 À vous dire vrai, Monsieur, j'espère bien n'agir que par ce motif-là, du moins d'abord, car de l'avenir, qui est-ce qui en peut répondre ?
 
--*who_ergaste
-Vous, Madame, si vous le voulez.
+Non, je ne sais encore rien là-dessus, puisqu'ici même j'ignore ce que c'est que l'amour ; et je voudrais bien l'ignorer toute ma vie. Vous aspirez, dites-vous, à me rendre sensible ? A la bonne heure ; personne n'y a réussi ; vous le tentez, nous verrons ce qu'il en sera ; mais je vous saurai bien mauvais gré, si vous y réussissez mieux qu'un autre.
 
--*who_hortense
-Non, je ne sais encore rien là-dessus, puisqu'ici même j'ignore ce que c'est que l'amour ; et je voudrais bien l'ignorer toute ma vie.
-Vous aspirez, dites-vous, à me rendre sensible ?
-A la bonne heure ; personne n'y a réussi ; vous le tentez, nous verrons ce qu'il en sera ; mais je vous saurai bien mauvais gré, si vous y réussissez mieux qu'un autre.
+Je souhaite que vous ne vous trompiez pas ; cependant je crois qu'il sera bon, avec vous, de prendre garde à soi de plus près qu'avec un autre. Mais voici du monde, je serais fâchée qu'on nous vît ensemble : éloignez-vous, je vous prie.
 
--*who_ergaste
-Non, Madame, je n'y vois pas d'apparence.
-
--*who_hortense
-Je souhaite que vous ne vous trompiez pas ; cependant je crois qu'il sera bon, avec vous, de prendre garde à soi de plus près qu'avec un autre.
-Mais voici du monde, je serais fâchée qu'on nous vît ensemble : éloignez-vous, je vous prie.
-
--*who_ergaste
-Il n'est point tard ; continuez-vous votre promenade, Madame ?
-Et pourrais-je espérer, si l'occasion s'en présente, de vous revoir encore ici quelques moments ?
-
--*who_hortense
 Si vous me trouvez seule et éloignée des autres, dès que nous nous sommes parlé et que, grâce à votre précipitation, la faute en est faite, je crois que vous pourrez m'aborder sans conséquence.
 
--*who_ergaste
-Et cependant je pars, sans avoir eu la douceur de voir encore ces yeux et ces traits...
-
--*who_hortense
 Il est trop tard pour vous en plaindre : mais vous m'avez vue, séparons-nous ; car on approche.
-Je suis donc folle !
-Je lui donne une espèce de rendez-vous, et j'ai peur de le tenir, qui pis est.
+Je suis donc folle ! Je lui donne une espèce de rendez-vous, et j'ai peur de le tenir, qui pis est.
 
-**** *book_ *id_I05 *act_I *date_1734
-
--*who_arlequin
-Madame, je viens vous demander votre avis sur une commission qu'on m'a donnée.
-
--*who_hortense
 Qu'est-ce que c'est ?
 
--*who_arlequin
-Voulez-vous avoir compagnie ?
-
--*who_hortense
 Non, quelle est-elle, cette compagnie ?
 
--*who_arlequin
-C'est ce Monsieur Damis, qui est si amoureux de vous.
+Je n'ai que faire de lui ni de son amour. Est-ce qu'il me cherche ? De quel côté vient-il ?
 
--*who_hortense
-Je n'ai que faire de lui ni de son amour.
-Est-ce qu'il me cherche ?
-De quel côté vient-il ?
-
--*who_arlequin
-Il ne vient par aucun côté, car il ne bouge, et c'est moi qui viens pour lui, afin de savoir où vous êtes.
-Lui dirai-je que vous êtes ici, ou bien ailleurs ?
-
--*who_hortense
 Non, nulle part.
 
--*who_arlequin
-Cela ne se peut pas, il faut bien que vous soyez en quelque endroit, il n'y a qu'à dire où vous voulez être.
+Quel imbécile ! Rapporte-lui que tu ne me trouves pas.
 
--*who_hortense
-Quel imbécile !
-Rapporte-lui que tu ne me trouves pas.
-
--*who_arlequin
-Je vous ai pourtant trouvée : comment ferons-nous ?
-
--*who_hortense
 Je t'ordonne de lui dire que je n'y suis pas, car je m'en vais.
 
--*who_arlequin
-Eh bien !
-Vous avez raison ; quand on s'en va, on n'y est pas : cela est clair.
-
-**** *book_ *id_I06 *act_I *date_1734
-
--*who_hortense
 Ne voilà-t-il pas encore ma soeur !
 
--*who_clarice
-J'ai tourné mal à propos de ce côté-ci.
-M'a-t-elle vue ?
-
--*who_hortense
 Je la trouve embarrassée : qu'est-ce que cela signifie, Ergaste y aurait-il part ?
 
--*who_clarice
-Il faut lui parler, je sais le moyen de la congédier.
-Ah !
-Vous voilà, ma soeur ?
-
--*who_hortense
 Oui, je me promenais ; et vous, ma soeur ?
 
--*who_clarice
-Moi, de même : le plaisir de rêver m'a insensiblement amené ici.
-
--*who_hortense
 Et poursuivez-vous votre promenade ?
 
--*who_clarice
-Encore une heure ou deux.
-
--*who_hortense
 Une heure ou deux !
 
--*who_clarice
-Oui, parce qu'il est de bonne heure.
-
--*who_hortense
 Je suis d'avis d'en faire autant.
 
--*who_clarice
+Vous me paraissez rêveuse.
+
+Damis ! Oh ! Sur ce pied-là je vous quitte. Adieu. Vous savez combien il m'ennuie. Ne lui dites pas que vous m'avez vue.
+Rappelons Arlequin, afin qu'il observe.
+
+Vous venez de m'envoyer un billet, Monsieur, qui me fait craindre que vous ne tentiez de me parler, ou qu'il ne m'arrive encore quelque nouveau message de votre part, et je viens vous prier moi-même qu'il ne soit plus question de rien ; que vous ne vous ressouveniez pas de m'avoir vue, et surtout que vous le cachiez à ma soeur, comme je vous promets de le lui cacher à mon tour ; c'est tout ce que j'avais à vous dire, et je passe.
+
+Êtes-vous confondu ?
+
+Ne jurez pas, ce n'est pas la peine, je ne me soucie ni de vous ni de vos serments.
+
+Il ne s'agit plus de cela, c'est un détail inutile.
+
+Point de compliments, Monsieur le Marquis : reconduisez-nous au logis, sans attendre que le comte de Belfort s'en mêle.
+
+
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
+J'ai tourné mal à propos de ce côté-ci. M'a-t-elle vue ?
+
+Il faut lui parler, je sais le moyen de la congédier. Ah ! Vous voilà, ma soeur ?
+
+Moi, de même : le plaisir de rêver m'a insensiblement amené ici.
+
+Encore une heure ou deux.
+
+Oui, parce qu'il est de bonne heure.
+
 De quoi s'avise-t-elle ?
 Comme il vous plaira.
 
--*who_hortense
-Vous me paraissez rêveuse.
+Mais... Oui, je rêvais, ces lieux-ci y invitent ; mais nous aurons bientôt compagnie ; Damis vous cherche, et vient par là.
 
--*who_clarice
-Mais...
-Oui, je rêvais, ces lieux-ci y invitent ; mais nous aurons bientôt compagnie ; Damis vous cherche, et vient par là.
-
--*who_hortense
-Damis !
-Oh !
-Sur ce pied-là je vous quitte.
-Adieu.
-Vous savez combien il m'ennuie.
-Ne lui dites pas que vous m'avez vue.
-Rappelons Arlequin, afin qu'il observe.
-
--*who_clarice
 Je savais bien que je la ferais partir.
 
-**** *book_ *id_I07 *act_I *date_1734
-
--*who_lisette
-Quoi !
-Toute seule, Madame ?
-
--*who_clarice
 Oui, Lisette.
 
--*who_lisette
-Il est ici.
-
--*who_clarice
 Qui ?
 
--*who_lisette
-Vous ne m'entendez pas ?
-
--*who_clarice
 Non.
 
--*who_lisette
-Eh !
-Cet aimable jeune homme qui vous rendit hier un petit service de si bonne grâce.
-
--*who_clarice
 Ce jeune officier ?
 
--*who_lisette
-Eh oui.
+Eh bien ! Qu'il y soit, que veux-tu que j'y fasse ?
 
--*who_clarice
-Eh bien !
-Qu'il y soit, que veux-tu que j'y fasse ?
+L'éviter ! Est-ce que tu crois qu'il me parlera ?
 
--*who_lisette
-C'est qu'il vous cherche, et si vous voulez l'éviter, il ne faut pas rester ici.
-
--*who_clarice
-L'éviter !
-Est-ce que tu crois qu'il me parlera ?
-
--*who_lisette
-Il n'y manquera pas, la petite aventure d'hier le lui permet de reste.
-
--*who_clarice
 Va, va, il ne me reconnaîtra seulement pas.
 
--*who_lisette
-Hum ! vous êtes pourtant bien reconnaissable ; et de l'air dont il vous lorgna hier, je vais gager qu'il vous voit encore ; ainsi prenons par là.
-
--*who_clarice
 Non, je suis trop lasse, il y a longtemps que je me promène.
 
--*who_lisette
-Oui-da, un bon quart d'heure à peu près.
-
--*who_clarice
 Mais pourquoi me fatiguerais-je à fuir un homme qui, j'en suis sûre, ne songe pas plus à moi que ne je songe à lui ?
 
--*who_lisette
-Eh mais ! c'est bien assez qu'il y songe autant.
-
--*who_clarice
 Que veux-tu dire ?
 
--*who_lisette
-Vous ne m'avez encore parlé de lui que trois ou quatre fois.
-
--*who_clarice
 Ne te figurerais-tu pas que je ne suis venue seule ici que pour lui donner occasion de m'aborder ?
 
--*who_lisette
-Oh !
-Il n'y a pas de plaisir avec vous, vous devinez mot à mot ce qu'on pense.
-
--*who_clarice
 Que tu es folle !
 
--*who_lisette
-Si vous n'y étiez pas venue de vous-même, je devais vous y mener, moi.
+M'y mener ! Mais vous êtes bien hardie de me le dire !
 
--*who_clarice
-M'y mener !
-Mais vous êtes bien hardie de me le dire !
-
--*who_lisette
-Bon !
-Je suis encore bien plus hardie que cela, c'est que je crois que vous y seriez venue.
-
--*who_clarice
 Moi ?
 
--*who_lisette
-Sans doute, et vous auriez raison, car il est fort aimable, n'est-il pas vrai ?
-
--*who_clarice
 J'en conviens.
 
--*who_lisette
-Et ce n'est pas là tout, c'est qu'il vous aime.
-
--*who_clarice
 Autre idée !
 
--*who_lisette
-Oui-da, peut-être que je me trompe.
-
--*who_clarice
 Sans doute, à moins qu'on ne te l'ait dit, et je suis persuadée que non, qui est-ce qui t'en a parlé ?
 
--*who_lisette
-Son valet m'en a touché quelque chose.
-
--*who_clarice
 Son valet ?
 
--*who_lisette
-Oui.
-
--*who_clarice
 Et ce valet t'a demandé le secret, apparemment ?
 
--*who_lisette
-Non.
-
--*who_clarice
 Cela revient pourtant au même, car je renonce à savoir ce qu'il vous a dit, s'il faut vous interroger pour l'apprendre.
 
--*who_lisette
-J'avoue qu'il y a un peu de malice dans mon fait, mais ne vous fâchez pas, Ergaste vous adore, Madame.
-
--*who_clarice
 Tu vois bien qu'il ne sera pas nécessaire que je l'évite, car il ne paraît pas.
 
--*who_lisette
-Non, mais voici son valet qui me fait signe d'aller lui parler.
-Irai-je savoir ce qu'il me veut ?
+Oh ! Tu le peux : je ne t'en empêche pas.
 
-**** *book_ *id_I08 *act_I *date_1734
-
--*who_clarice
-Oh !
-Tu le peux : je ne t'en empêche pas.
-
--*who_lisette
-Si vous ne vous en souciez guère, ni moi non plus.
-
--*who_clarice
 Ne vous embarrassez pas que je m'en soucie, et allez toujours voir ce qu'on vous veut.
 
--*who_lisette
-Eh !
-Parlez donc.
-Ton maître est-il là ?
-
--*who_frontin
-Oui ; il demande s'il peut reparaître, puisqu'elle est seule.
-
--*who_lisette
-Madame, c'est Monsieur le marquis Ergaste qui aurait grande envie de vous faire encore révérence, et qui, comme vous voyez, vous en sollicite par le plus révérencieux de tous les valets.
-
--*who_clarice
 Si je l'avais prévu, je me serais retirée.
 
--*who_lisette
-Lui dirai-je que vous n'êtes pas de cet avis-là ?
-
--*who_clarice
 Mais je ne suis d'avis de rien, réponds ce que tu voudras, qu'il vienne.
 
--*who_lisette
-On n'est d'avis de rien, mais qu'il vienne.
+Vous avez fort bien fait d'avoir cette attention-là, car nous ne nous connaissons guère. Quoi qu'il en soit, vous avez souhaité me parler, Monsieur ; j'ai cru pouvoir y consentir. Auriez-vous quelque chose à me dire ?
 
--*who_frontin
-Le voilà tout venu.
-
--*who_lisette
-Toi, avertis-nous si quelqu'un approche.
-
-**** *book_ *id_I09 *act_I *date_1734
-
--*who_ergaste
-Que ce jour-ci est heureux pour moi, Madame !
-Avec quelle impatience n'attendais-je pas le moment de vous revoir encore !
-J'ai observé celui où vous étiez seule.
-
--*who_clarice
-Vous avez fort bien fait d'avoir cette attention-là, car nous ne nous connaissons guère.
-Quoi qu'il en soit, vous avez souhaité me parler, Monsieur ; j'ai cru pouvoir y consentir.
-Auriez-vous quelque chose à me dire ?
-
--*who_ergaste
-Ce que mes yeux vous ont dit avant mes discours, ce que mon coeur sent mille fois mieux qu'ils ne le disent, ce que je voudrais vous répéter toujours : que je vous aime, que je vous adore, que je ne vous verrai jamais qu'avec transport.
-
--*who_lisette
-Mon rapport est-il fidèle ?
-
--*who_clarice
 Vous m'avouerez, Monsieur, que vous ne mettez guère d'intervalle entre me connaître, m'aimer et me le dire ; et qu'un pareil entretien aurait pu être précédé de certaines formalités de bienséance qui sont ordinairement nécessaires.
 
--*who_ergaste
-Je crois vous l'avoir déjà dit, Madame, je n'ai su ce que je faisais, oubliez une faute échappée à la violence d'une passion qui m'a troublé, et qui me trouble encore toutes les fois que je vous parle.
-
--*who_lisette
-Qu'il a le débit tendre !
-
--*who_clarice
 Avec tout cela, Monsieur, convenez pourtant qu'il en faudra revenir à quelqu'une de ces formalités dont il s'agit, si vous avez dessein de me revoir.
 
--*who_ergaste
-Si j'en ai dessein !
-Je ne respire que pour cela, Madame.
-Le comte de Belfort doit vous rendre visite ce soir.
-
--*who_clarice
 Est-ce qu'il est de vos amis ?
 
--*who_ergaste
-C'est lui, Madame, chez qui il me semble vous avoir dit que j'étais.
-
--*who_clarice
 Je ne me le rappelais pas.
 
--*who_ergaste
-Je l'accompagnerai chez vous, Madame, il me l'a promis : s'engage-t-il à quelque chose qui vous me déplaise ?
-Consentez-vous que je lui aie cette obligation ?
-
--*who_clarice
 Votre question m'embarrasse ; dispensez-moi d'y répondre.
 
--*who_ergaste
-Est-ce que votre réponse me serait contraire ?
-
--*who_clarice
 Point du tout.
 
--*who_lisette
-Et c'est ce qui fait qu'on n'y répond pas.
+Adieu, Monsieur ; j'attendrai le comte de Belfort. Quelqu'un approche : laissez-moi seule continuer ma promenade, nous pourrons nous y rencontrer encore.
 
--*who_clarice
-Adieu, Monsieur ; j'attendrai le comte de Belfort.
-Quelqu'un approche : laissez-moi seule continuer ma promenade, nous pourrons nous y rencontrer encore.
+Je prends l'instant où ma soeur, qui se promène là-bas, est un peu éloignée, pour vous dire un mot, Monsieur. Vous devez, dites-vous, accompagner ce soir, au logis, le comte de Belfort : silence, s'il vous plaît, sur nos entretiens dans ce lieu-ci ; vous sentez bien qu'il faut que ma soeur et lui les ignorent. Adieu.
 
-**** *book_ *id_I10 *act_I *date_1734
+Qu'est-ce que cela signifie, Monsieur ? Vous m'étonnez !
 
--*who_frontin
-Je viens vous dire que je vois de loin une espèce de petit nègre qui accourt.
+Un soufflet ! Que veut-il dire ?
 
--*who_lisette
-Retirons-nous vite, Madame ; c'est Arlequin qui vient.
+Expliquez donc cette énigme, Monsieur ; quelle injure vous a-t-on faite ? De quoi se plaint-il ?
 
-**** *book_ *id_I11 *act_I *date_1734
+Ergaste, je ne vous crois pas un insensé ; mais tout ce que vous me dites là ne peut être que l'effet d'un rêve ou de quelque erreur dont je ne sais pas la cause. Voyons.
 
--*who_ergaste
-Je suis enchanté, Frontin ; je suis transporté !
-Voilà deux fois que je lui parle aujourd'hui.
-Qu'elle est aimable !
-Que de grâces !
-Et qu'il est doux d'espérer de lui plaire !
+Je ne m'écarte que pour un moment, Ergaste, car je veux éclaircir cette aventure-là.
 
--*who_frontin
-Bon !
-Espérer !
-Si la belle vous donne cela pour de l'espérance, elle ne vous trompe pas.
+Quoi ! Ensemble ! Vous vous connaissez donc ?
 
--*who_ergaste
-Belfort m'y mènera ce soir.
+Vous ne me connaissez point ?
 
--*who_frontin
-Cela fera une petite journée de tendresse assez complète.
-Au reste, j'avais oublié de vous dire le meilleur.
-Votre maîtresse a bien des grâces ; mais le plus beau de ses traits, vous ne le voyez point, il n'est point sur son visage, il est dans sa cassette.
-Savez-vous bien que le coeur de Clarice est une emplette de cent mille écus, Monsieur ?
+Retournons-nous-en, ma soeur, et soyons discrètes.
 
--*who_ergaste
-C'est bien là à quoi je pense !
-Mais, que nous veut ce garçon-ci ?
+Sur ce pied-là, tout est éclairci.
 
--*who_frontin
-C'est le beau brun que j'ai vu venir.
 
-**** *book_ *id_I12 *act_I *date_1734
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
--*who_arlequin
-Vous êtes mon homme ; c'est vous que je cherche.
+Que voulez-vous, Monsieur le Véritable ? Je ne cherche personne ici, moi.
 
--*who_ergaste
-Parle : que me veux-tu ?
+Fort bien. Et vous, Monsieur ?
 
--*who_frontin
-Où est ton chapeau ?
+Vous êtes aussi galant que familier.
 
--*who_arlequin
-Sur ma tête.
+Tu ne doutes pas que je ne t'aime, dis-tu ?
 
--*who_frontin
-Il n'y est plus.
+Laisse-moi.
 
--*who_arlequin
-Il y était quand je l'ai dit
-Et il y retourne.
+Dès que tu as deviné que tu me plais, n'est-ce pas assez ? Je ne t'en apprendrai pas davantage.
 
--*who_ergaste
-De quoi est-il question ?
+Tu veux donc que je la régale aux dépens de la mienne ?
 
--*who_arlequin
-D'un discours malhonnête que j'ai ordre de vous tenir, et qui ne demande pas la cérémonie du chapeau.
+Mais je ne te hais pas.
 
--*who_ergaste
-Un discours malhonnête !
-À moi !
-Et de quelle part ?
+Tu me plais.
 
--*who_arlequin
-De la part d'une personne qui s'est moquée de vous.
+Eh bien ! Donc... Je t'aime.
 
--*who_ergaste
-Insolent !
-T'expliqueras-tu ?
+Le bis viendra dans le cours de la conversation, fais-m'en crédit pour à présent ; ce serait trop de dépense à la fois.
 
--*who_arlequin
-Dites vos injures à ma commission, c'est elle qui est insolente, et non pas moi.
+Parlons de nos maîtres. Premièrement, qui êtes-vous, vous autres ?
 
--*who_frontin
-Voulez-vous que j'estropie le commissionnaire, Monsieur ?
+Où sont-ils, ces beaux yeux ?
 
--*who_arlequin
-Cela n'est pas de l'ambassade : je n'ai point ordre de revenir estropié.
+Que fait ton maître ?
 
--*who_ergaste
-Qui est-ce qui t'envoie ?
+C'est-à-dire qu'il est officier. Et son nom ?
 
--*who_arlequin
-Une dame qui ne fait point cas de vous.
+Ergaste ? Ce nom-là est connu, et tout ce que tu me dis là nous convient assez.
 
--*who_ergaste
-Quelle est-elle ?
+En premier lieu, nous sommes belles.
 
--*who_arlequin
-Ma maîtresse.
+Ah ! Le compliment vaut une révérence.
 
--*who_ergaste
-Est-ce que je la connais ?
+Nous sommes orphelines.
 
--*who_arlequin
-Vous lui avez parlé ici.
+Non, impertinent ! Il n'y a que deux ans que nos parents sont morts, gens de condition aussi, qui nous ont laissées très riches.
 
--*who_ergaste
-Quoi !
-C'est cette dame-là qui t'envoie dire qu'elle s'est moquée de moi ?
+Ils ont eu pour héritières deux filles qui vivent ensemble dans un accord qui va jusqu'à s'habiller l'une comme l'autre, ayant toutes deux presque le même son de voix, toutes deux blondes et charmantes, et qui se trouvent si bien de leur état, qu'elles ont fait serment de ne point se marier et de rester filles.
 
--*who_arlequin
-Elle-même en original ; je lui ai aussi entendu marmotter entre ses dents que vous étiez un grand fourbe ; mais, comme elle ne m'a point commandé de vous le rapporter, je n'en parle qu'en passant.
+C'est la même chose.
 
--*who_ergaste
-Moi fourbe ?
+Clarice, c'est l'aînée, et celle à qui je suis.
 
--*who_arlequin
-Oui ; mais rien qu'entre les dents ; un fourbe tout bas.
+Si ton maître s'y prend bien, je ne crois pas qu'il se soutienne, le goût du mariage l'emportera.
 
--*who_ergaste
-Frontin, après la manière dont nous nous sommes quittés tous deux, je t'ai dit que j'espérais : y comprends-tu quelque chose ?
+Je n'en doute pas.
 
--*who_frontin
-Oui-da, Monsieur ; esprit de femme et caprice : voilà tout ce que c'est ; qui dit l'un, suppose l'autre ; les avez-vous jamais vus séparés ?
+Oui, en ce pays-ci c'est l'usage en été, quand on est à la campagne, à cause du hâle et de la chaleur. Mais n'est-ce pas là Ergaste que je vois là-bas ?
 
--*who_arlequin
-Ils sont unis comme les cinq doigts de la main.
+Je te quitte donc ; informe-le de tout, encourage son amour. Si ma maîtresse devient sa femme, je me charge de t'en fournir une.
 
--*who_ergaste
-Mais ne te tromperais-tu pas ?
-Ne me prends-tu point pour un autre ?
+Impertinent ! Je te conseille d'en douter !
 
--*who_arlequin
-Oh !
-Que non.
-N'êtes-vous pas un homme d'hier ?
+Quoi ! Toute seule, Madame ?
 
--*who_ergaste
-Qu'appelles-tu un homme d'hier ?
-Je ne t'entends point.
+Il est ici.
 
--*who_frontin
-Il parle de vous comme d'un enfant au maillot.
-Est-ce que les gens d'hier sont de cette taille-là ?
+Vous ne m'entendez pas ?
 
--*who_arlequin
-J'entends que vous êtes ici d'hier.
+Eh ! Cet aimable jeune homme qui vous rendit hier un petit service de si bonne grâce.
 
--*who_ergaste
+Eh oui.
+
+C'est qu'il vous cherche, et si vous voulez l'éviter, il ne faut pas rester ici.
+
+Il n'y manquera pas, la petite aventure d'hier le lui permet de reste.
+
+Hum ! vous êtes pourtant bien reconnaissable ; et de l'air dont il vous lorgna hier, je vais gager qu'il vous voit encore ; ainsi prenons par là.
+
+Oui-da, un bon quart d'heure à peu près.
+
+Eh mais ! c'est bien assez qu'il y songe autant.
+
+Vous ne m'avez encore parlé de lui que trois ou quatre fois.
+
+Oh ! Il n'y a pas de plaisir avec vous, vous devinez mot à mot ce qu'on pense.
+
+Si vous n'y étiez pas venue de vous-même, je devais vous y mener, moi.
+
+Bon ! Je suis encore bien plus hardie que cela, c'est que je crois que vous y seriez venue.
+
+Sans doute, et vous auriez raison, car il est fort aimable, n'est-il pas vrai ?
+
+Et ce n'est pas là tout, c'est qu'il vous aime.
+
+Oui-da, peut-être que je me trompe.
+
+Son valet m'en a touché quelque chose.
+
 Oui.
 
--*who_arlequin
-Un officier de la Majesté du Roi.
+Non.
 
--*who_ergaste
-Sais-tu mon nom ?
-Je l'ai dit à cette dame.
+J'avoue qu'il y a un peu de malice dans mon fait, mais ne vous fâchez pas, Ergaste vous adore, Madame.
 
--*who_arlequin
-Elle me l'a dit aussi : un appelé Ergaste.
+Non, mais voici son valet qui me fait signe d'aller lui parler. Irai-je savoir ce qu'il me veut ?
 
--*who_ergaste
-C'est cela même !
+Si vous ne vous en souciez guère, ni moi non plus.
 
--*who_arlequin
-Eh bien !
-C'est vous qu'on n'estime pas ; vous voyez bien que le paquet est à votre adresse.
+Eh ! Parlez donc.
+Ton maître est-il là ?
 
--*who_frontin
-Ma foi !
-Il n'y a plus qu'à lui en payer le port, Monsieur.
+Madame, c'est Monsieur le marquis Ergaste qui aurait grande envie de vous faire encore révérence, et qui, comme vous voyez, vous en sollicite par le plus révérencieux de tous les valets.
 
--*who_arlequin
-Non, c'est port payé.
+Lui dirai-je que vous n'êtes pas de cet avis-là ?
 
--*who_ergaste
-Je suis au désespoir !
+On n'est d'avis de rien, mais qu'il vienne.
 
--*who_arlequin
-On s'est un peu diverti de vous en passant, on vous a regardé comme une farce qui n'amuse plus.
-Adieu.
+Toi, avertis-nous si quelqu'un approche.
 
--*who_ergaste
-Je m'y perds !
+Mon rapport est-il fidèle ?
 
--*who_arlequin
-Attendez...
-Il y a encore un petit reliquat, je ne vous ai donné que la moitié de votre affaire : j'ai ordre de vous dire...
-J'ai oublié mon ordre...
-La moquerie, un ; la farce, deux ; il y a un troisième article.
+Qu'il a le débit tendre !
 
--*who_frontin
-S'il ressemble au reste, nous ne perdons rien de curieux.
+Et c'est ce qui fait qu'on n'y répond pas.
 
--*who_arlequin
-Pardi !
-Il est tout de son long dans ces tablettes-ci.
+Retirons-nous vite, Madame ; c'est Arlequin qui vient.
 
--*who_ergaste
-Eh !
-Montre donc !
-
--*who_arlequin
-Non pas, s'il vous plaît ; je ne dois pas vous les montrer : cela m'est défendu, parce qu'on s'est repenti d'y avoir écrit, à cause de la bienséance et de votre peu de mérite ; et on m'a crié de loin de les supprimer, et de vous expliquer le tout dans la conversation ; mais laissez-moi voir ce que j'oublie...
-A propos, je ne sais pas lire ; lisez donc vous-même.
-
--*who_frontin
-Eh !
-Morbleu, Monsieur, laissez là ces tablettes, et n'y répondez que sur le dos du porteur.
-
--*who_arlequin
-Je n'ai jamais été le pupitre de personne.
-
--*who_ergaste
-Je viens de vous apercevoir aux genoux de ma soeur.
-Moi !
-Vous jouez fort bien la comédie : vous me l'avez donnée tantôt, mais je n'en veux plus.
-Je vous avais permis de m'aborder encore, et je vous le défends, j'oublie même que je vous ai vu.
-
--*who_arlequin
-Tout juste ; voilà l'article qui nous manquait : plus de fréquentation, c'est l'intention de la tablette.
-Bonsoir.
-
--*who_frontin
-J'avoue que voilà le vertigo le mieux conditionné qui soit jamais sorti d'aucun cerveau femelle.
-
--*who_ergaste
-Arrête, où est-elle ?
-
--*who_arlequin
-Je suis sourd.
-
--*who_ergaste
-Attends que j'aie fait, du moins, un mot de réponse ; il est aisé de me justifier : elle m'accuse d'avoir vu sa soeur, et je ne la connais pas.
-
--*who_arlequin
-Chanson !
-
--*who_ergaste
-Tiens, prends, et arrête.
-
--*who_arlequin
-Grand merci ; quand je parle de chanson, c'est que j'en vais chanter une ; faites à votre aise, mon cavalier ; je n'ai jamais vu de fourbe si honnête homme que vous.
-Ra la ra ra...
-
--*who_ergaste
-Amuse-le, Frontin ; je n'ai qu'un pas à faire pour aller au logis, et je vais y écrire un mot.
-
-**** *book_ *id_I13 *act_I *date_1734
-
--*who_arlequin
-Puisqu'il me paie des injures, voyez combien je gagnerais avec lui, si je lui apportais des compliments...
-Ta la la ta ra ra la.
-
--*who_frontin
-Voilà de jolies paroles que tu chantes là.
-
--*who_arlequin
-Je n'en sais point d'autres.
-Allons, divertis-moi : ton maître t'a chargé de cela, fais-moi rire.
-
--*who_frontin
-Veux-tu que je chante aussi ?
-
--*who_arlequin
-Je ne suis pas curieux de symphonie.
-
--*who_frontin
-De symphonie !
-Est-ce que tu prends ma voix pour un orchestre ?
-
--*who_arlequin
-C'est qu'en fait de musique, il n'y a que le tambour qui me fasse plaisir.
-
--*who_frontin
-C'est-à-dire que tu es au concert, quand on bat la caisse.
-
--*who_arlequin
-Oh !
-Je suis à l'Opéra.
-
--*who_frontin
-Tu as l'oreille martiale.
-Avec quoi te divertirai-je donc ?
-Aimes-tu les contes des fées ?
-
--*who_arlequin
-Non, je ne me soucie ni de comtes ni de marquis.
-
--*who_frontin
-Parlons donc de boire.
-
--*who_arlequin
-Montre-moi le sujet du discours.
-
--*who_frontin
-Le vin, n'est-ce pas ?
-On l'a mis au frais.
-
--*who_arlequin
-Qu'on l'en retire, j'aime à boire chaud.
-
--*who_frontin
-Cela est malsain ; parlons de ta maîtresse.
-
--*who_arlequin
-Expédions la bouteille.
-
--*who_frontin
-Doucement !
-Je n'ai pas le sol, mon garçon.
-
--*who_arlequin
-Ce misérable !
-Et du crédit ?
-
--*who_frontin
-Avec cette mine-là, où veux-tu que j'en trouve ?
-Mets-toi à la place du marchand de vin.
-
--*who_arlequin
-Tu as raison, je te rends justice : on ne saurait rien emprunter sur cette grimace-là.
-
--*who_frontin
-Il n'y a pas moyen, elle est trop sincère ; mais il y a remède à tout : paie, et je te le rendrai.
-
--*who_arlequin
-Tu me le rendras ?
-Mets-toi à ma place aussi, le croirais-tu ?
-
--*who_frontin
-Non, tu réponds juste ; mais paie en pur don, par galanterie, sois généreux...
-
--*who_arlequin
-Je ne saurais, car je suis vilain : je n'ai jamais bu à mes dépens.
-
--*who_frontin
-Morbleu !
-Que ne sommes-nous à Paris, j'aurais crédit.
-
--*who_arlequin
-Eh !
-Que fait-on à Paris ?
-Parlons de cela, faute de mieux : est-ce une grande ville ?
-
--*who_frontin
-Qu'appelles-tu une ville ?
-Paris, c'est le monde ; le reste de la terre n'en est que les faubourgs.
-
--*who_arlequin
-Si je n'aimais pas Lisette, j'irais voir le monde.
-
--*who_frontin
-Lisette, dis-tu ?
-
--*who_arlequin
-Oui, c'est ma maîtresse.
-
--*who_frontin
-Dis donc que ce l'était, car je te l'ai soufflée hier.
-
--*who_arlequin
-Ah !
-Maudit souffleur !
-Ah !
-Scélérat !
-Ah !
-Chenapan !
-
-**** *book_ *id_I14 *act_I *date_1734
-
--*who_ergaste
-Tiens, mon ami, cours porter cette lettre à la dame qui t'envoie.
-
--*who_arlequin
-J'aimerais mieux être le postillon du diable, qui vous emporte tous deux, vous et ce coquin, qui est la copie d'un fripon !
-Ce maraud, qui n'a ni argent, ni crédit, ni le mot pour rire !
-Un sorcier qui souffle les filles !
-Un escroc qui veut m'emprunter du vin !
-Un gredin qui dit que je ne suis pas dans le monde, et que mon pays n'est qu'un faubourg !
-Cet insolent !
-Un faubourg !
-Va, va, je t'apprendrai à connaître les villes.
-
--*who_ergaste
-Qu'est-ce que cela signifie ?
-
--*who_frontin
-C'est une bagatelle, une affaire de jalousie : c'est que nous nous trouvons rivaux, et il en sent la conséquence.
-
--*who_ergaste
-De quoi aussi t'avises-tu de parler de Lisette ?
-
--*who_frontin
-Mais, Monsieur, vous avez vu des amants : devineriez-vous que cet homme-là en est un ?
-Dites en conscience.
-
--*who_ergaste
-Va donc toi-même chercher cette dame-là, et lui remets mon billet le plus tôt que tu pourras.
-
--*who_frontin
-Soyez tranquille, je vous rendrai bon compte de tout ceci par le moyen de Lisette.
-
--*who_ergaste
-Hâte-toi, car je souffre.
-
-**** *book_ *id_I15 *act_I *date_1734
-
--*who_ergaste
-Vit-on jamais rien de plus étonnant que ce qui m'arrive ?
-Il faut absolument qu'elle se soit méprise.
-
-**** *book_ *id_I16 *act_I *date_1734
-
--*who_lisette
 N'avez-vous pas vu la soeur de Madame, Monsieur ?
 
--*who_ergaste
-Eh non, Lisette, de qui me parles-tu ?
-Je n'ai vu que ta maîtresse, je ne me suis entretenu qu'avec elle ; sa soeur m'est totalement inconnue, et je n'entends rien à ce qu'on me dit là.
+Pourquoi vous fâcher ? Je ne vous dis pas que vous lui ayez parlé, je vous demande si vous ne l'avez pas aperçue ?
 
--*who_lisette
-Pourquoi vous fâcher ?
-Je ne vous dis pas que vous lui ayez parlé, je vous demande si vous ne l'avez pas aperçue ?
+Ma foi, Monsieur, si vous n'entendez rien à ce que je vous dis, je ne vois pas plus clair dans ce que vous me dites. Vous voilà dans un mouvement épouvantable à cause de la question du monde la plus simple que je vous fais. À qui en avez-vous ? Est-ce distraction, méchante humeur, ou fantaisie ?
 
--*who_ergaste
-Eh !
-Non, te dis-je, non, encore une fois, non : je n'ai vu de femme que ta maîtresse, et quiconque lui a rapporté autre chose a fait une imposture, et si elle croit avoir vu le contraire, elle s'est trompée.
+Eh ! Qui est-ce qui vous en accuse ? Où avez-vous pris qu'il s'agisse de cela ? En ai-je ouvert la bouche ?
 
--*who_lisette
-Ma foi, Monsieur, si vous n'entendez rien à ce que je vous dis, je ne vois pas plus clair dans ce que vous me dites.
-Vous voilà dans un mouvement épouvantable à cause de la question du monde la plus simple que je vous fais.
-À qui en avez-vous ?
-Est-ce distraction, méchante humeur, ou fantaisie ?
-
--*who_ergaste
-D'où vient qu'on me parle de cette soeur ?
-D'où vient qu'on m'accuse de m'être entretenu avec elle ?
-
--*who_lisette
-Eh !
-Qui est-ce qui vous en accuse ?
-Où avez-vous pris qu'il s'agisse de cela ?
-En ai-je ouvert la bouche ?
-
--*who_ergaste
-Frontin est allé porter un billet à ta maîtresse, où je lui jure que je ne sais ce que c'est.
-
--*who_lisette
 Le billet était fort inutile ; et je ne vous parle ici de cette soeur que parce que nous l'avons vue se promener ici près.
 
--*who_ergaste
-Qu'elle s'y promène ou non, ce n'est pas ma faute, Lisette, et si quelqu'un s'est jeté à ses genoux, je te garantis que ce n'est pas moi.
+Oh ! Monsieur, vous me fâchez aussi, et vous ne me ferez pas accroire qu'il me soit rien échappé sur cet article-là ; il faut écouter ce qu'on vous dit, et répondre raisonnablement aux gens, et non pas aux visions que vous avez dans la tête. Dites-moi seulement si vous n'avez pas vu la soeur de Madame, et puis c'est tout.
 
--*who_lisette
-Oh !
-Monsieur, vous me fâchez aussi, et vous ne me ferez pas accroire qu'il me soit rien échappé sur cet article-là ; il faut écouter ce qu'on vous dit, et répondre raisonnablement aux gens, et non pas aux visions que vous avez dans la tête.
-Dites-moi seulement si vous n'avez pas vu la soeur de Madame, et puis c'est tout.
+Oh ! Ma foi, vous êtes sujet à des vapeurs, ou bien auriez-vous, par hasard, de l'antipathie pour le mot de soeur ?
 
--*who_ergaste
-Non, Lisette, non, tu me désespères !
+Fort mal. Écoutez-moi, si vous le pouvez. Ma maîtresse a un mot à vous dire sur le comte de Belfort ; elle n'osait revenir à cause de cette soeur dont je vous parle, et qu'elle a aperçue se promener dans ces cantons-ci ; or, vous m'assurez ne l'avoir point vue.
 
--*who_lisette
-Oh !
-Ma foi, vous êtes sujet à des vapeurs, ou bien auriez-vous, par hasard, de l'antipathie pour le mot de soeur ?
+Oh ! Je vous crois.
+Le plaisant écart ! Quoi qu'il en soit, ma maîtresse va revenir, attendez-la.
 
--*who_ergaste
-Fort bien.
-
--*who_lisette
-Fort mal.
-Écoutez-moi, si vous le pouvez.
-Ma maîtresse a un mot à vous dire sur le comte de Belfort ; elle n'osait revenir à cause de cette soeur dont je vous parle, et qu'elle a aperçue se promener dans ces cantons-ci ; or, vous m'assurez ne l'avoir point vue.
-
--*who_ergaste
-J'en ferai tous les serments imaginables.
-
--*who_lisette
-Oh !
-Je vous crois.
-Le plaisant écart !
-Quoi qu'il en soit, ma maîtresse va revenir, attendez-la.
-
--*who_ergaste
-Elle va revenir, dis-tu ?
-
--*who_lisette
 Oui, Clarice elle-même, et j'arrive exprès pour vous en avertir.
 C'est là qu'il en tient, quel dommage !
 
-**** *book_ *id_I17 *act_I *date_1734
+Ne vous l'ai-je pas dit ? C'est que vous lui parlez de votre soeur : il ne saurait entendre prononcer ce mot-là sans en être furieux ; je n'en ai pas tiré plus de raison tantôt.
 
--*who_ergaste
-Puisque Clarice revient, apparemment qu'elle s'est désabusée, et qu'elle a reconnu son erreur.
-
-**** *book_ *id_I18 *act_I *date_1734
-
--*who_ergaste
-Eh bien !
-Frontin, on n'est plus fâchée ; et le billet a été bien reçu, n'est-ce pas ?
-
--*who_frontin
-Qui est-ce qui vous fournit vos nouvelles, Monsieur ?
-
--*who_ergaste
-Pourquoi ?
-
--*who_frontin
-C'est que moi, qui sors de la mêlée, je vous en apporte d'un peu différentes.
-
--*who_ergaste
-Qu'est-il donc arrivé ?
-
--*who_frontin
-Tirez sur ma figure l'horoscope de notre fortune.
-
--*who_ergaste
-Et mon billet ?
-
--*who_frontin
-Hélas !
-C'est le plus maltraité.
-Ne voyez-vous pas bien que j'en porte le deuil d'avance ?
-
--*who_ergaste
-Qu'est-ce que c'est que d'avance ?
-Où est-il ?
-
--*who_frontin
-Dans ma poche, en fort mauvais état.
-Tenez, jugez vous-même s'il peut en revenir.
-
--*who_ergaste
-Il est déchiré !
-
--*who_frontin
-Oh !
-Cruellement !
-Et bien m'en a pris d'être d'une étoffe d'un peu plus de résistance que lui, car je ne reviendrais pas en meilleur ordre.
-Je ne dis rien des ignominies qui ont accompagné notre disgrâce, et dont j'ai risqué de vous rapporter un certificat sur ma joue.
-
--*who_ergaste
-Lisette, qui sort d'ici, m'a donc joué ?
-
--*who_frontin
-Eh !
-Que vous a-t-elle dit, cette double soubrette ?
-
--*who_ergaste
-Que j'attendisse sa maîtresse ici, qu'elle allait y venir pour me parler, et qu'elle ne songeait à rien.
-
--*who_frontin
-Ce que vous me dites là ne vaut pas le diable, ne vous fiez point à ce calme-là, vous en serez la dupe, Monsieur ; nous revenons houspillés, votre billet et moi : allez-vous-en, sauvez le corps de réserve.
-
--*who_ergaste
-Dis-moi donc ce qui s'est passé !
-
--*who_frontin
-En voici la courte et lamentable histoire.
-J'ai trouvé l'inhumaine à trente ou quarante pas d'ici ; je vole à elle, et je l'aborde en courrier suppliant : C'est de la part du marquis Ergaste, lui dis-je d'un ton de voix qui demandait la paix.
-Qu'est-ce, mon ami ?
-Qui êtes-vous ?
-Eh !
-Que voulez-vous ?
-Qu'est-ce que c'est que cet Ergaste ?
-Allez, vous vous méprenez, retirez-vous, je ne connais point cela.
-Madame, que votre beauté ait pour agréable de m'entendre ; je parle pour un homme à demi mort, et peut-être actuellement défunt, qu'un petit nègre est venu de votre part assassiner dans des tablettes : et voici les mourantes lignes que vous adresse dans ce papier son douloureux amour.
-Je pleurais moi-même en lui tenant ces propos lugubres, on eût dit que vous étiez enterré, et que c'était votre testament que j'apportais.
-
--*who_ergaste
-Achève.
-Que t'a-t-elle répondu ?
-
--*who_frontin
-Sa réponse ?
-La voilà mot pour mot ; il ne faut pas grande mémoire pour en retenir les paroles.
-
--*who_ergaste
-L'ingrate !
-
--*who_frontin
-Quand j'ai vu cette action barbare, et le papier couché sur la poussière, je l'ai ramassé ; ensuite, redoublant de zèle, j'ai pensé que mon esprit devait suppléer au vôtre, et vous n'avez rien perdu au change.
-On n'écrit pas mieux que j'ai parlé, et j'espérais déjà beaucoup de ma pièce d'éloquence, quand le vent d'un revers de main, qui m'a frisé la moustache, a forcé le harangueur d'arrêter aux deux tiers de sa harangue.
-
--*who_ergaste
-Non, je ne reviens point de l'étonnement où tout cela me jette, et je ne conçois rien aux motifs d'une aussi sanglante raillerie.
-
--*who_frontin
-Monsieur, je la vois ; la voilà qui arrive, et je me sauve ; c'est peut-être le soufflet qui a manqué tantôt, qu'elle vient essayer de faire réussir.
-
-**** *book_ *id_I19 *act_I *date_1734
-
--*who_clarice
-Je prends l'instant où ma soeur, qui se promène là-bas, est un peu éloignée, pour vous dire un mot, Monsieur.
-Vous devez, dites-vous, accompagner ce soir, au logis, le comte de Belfort : silence, s'il vous plaît, sur nos entretiens dans ce lieu-ci ; vous sentez bien qu'il faut que ma soeur et lui les ignorent.
-Adieu.
-
--*who_ergaste
-Quel étrange procédé que le vôtre, Madame !
-Vous reste-t-il encore quelque nouvelle injure à faire à ma tendresse ?
-
--*who_clarice
-Qu'est-ce que cela signifie, Monsieur ?
-Vous m'étonnez !
-
--*who_lisette
-Ne vous l'ai-je pas dit ?
-C'est que vous lui parlez de votre soeur : il ne saurait entendre prononcer ce mot-là sans en être furieux ; je n'en ai pas tiré plus de raison tantôt.
-
--*who_frontin
-La bonne âme !
-Vous verrez que nous aurons encore tort.
-N'approchez pas, Monsieur, plaidez de loin ; Madame a la main légère, elle me doit un soufflet, vous dis-je, et elle vous le paierait peut-être.
-En tout cas, je vous le donne.
-
--*who_clarice
-Un soufflet !
-Que veut-il dire ?
-
--*who_lisette
 Ma foi, Madame, je n'en sais rien ; il y a des fous qu'on appelle visionnaires, n'en serait-ce pas là ?
 
--*who_clarice
-Expliquez donc cette énigme, Monsieur ; quelle injure vous a-t-on faite ?
-De quoi se plaint-il ?
+Toujours cette soeur ! Ce mot-là lui tourne la tête.
 
--*who_ergaste
-Eh !
-Madame, qu'appelez-vous énigme ?
-À quoi puis-je attribuer cette contradiction dans vos manières, qu'au dessein formel de vous moquer de moi ?
-Où ai-je vu cette soeur, à qui vous voulez que j'aie parlé ici ?
-
--*who_lisette
-Toujours cette soeur !
-Ce mot-là lui tourne la tête.
-
--*who_frontin
-Et ces agréables tablettes où nos soupirs sont traités de farce, et qui sont chargées d'un congé à notre adresse.
-
--*who_lisette
 Lisette, sais-tu ce que c'est ?
 
--*who_lisette
-Bon !
-Ne voyez-vous pas bien que le mal est au timbre ?
+Bon ! Ne voyez-vous pas bien que le mal est au timbre ?
 
--*who_ergaste
-Comment avez-vous reçu mon billet, Madame ?
+Madame, sommes-nous en sûreté avec eux ? Ils ont les yeux bien égarés.
 
--*who_frontin
-Dans l'état où vous l'avez mis, je vous demande à présent ce qu'on en peut faire.
-
--*who_ergaste
-Porter le mépris jusqu'à refuser de le lire !
-
--*who_frontin
-Violer le droit des gens en ma personne, attaquer la joue d'un orateur, la forcer d'esquiver une impolitesse !
-Où en serait-elle, si elle avait été maladroite ?
-
--*who_ergaste
-Méritais-je que ce papier fût déchiré ?
-
--*who_frontin
-Ce soufflet était-il à sa place ?
-
--*who_lisette
-Madame, sommes-nous en sûreté avec eux ?
-Ils ont les yeux bien égarés.
-
--*who_clarice
-Ergaste, je ne vous crois pas un insensé ; mais tout ce que vous me dites là ne peut être que l'effet d'un rêve ou de quelque erreur dont je ne sais pas la cause.
-Voyons.
-
--*who_lisette
 Je vous avertis qu'Hortense approche, Madame.
 
--*who_clarice
-Je ne m'écarte que pour un moment, Ergaste, car je veux éclaircir cette aventure-là.
+Ah ! Le petit traître !
 
-**** *book_ *id_I20 *act_I *date_1734
-
--*who_ergaste
-Mais en effet, Frontin, te serais-tu trompé ?
-N'aurais-tu pas porté mon billet à une autre ?
-
--*who_frontin
-Bon !
-Oubliez-vous les tablettes ?
-Sont-elles tombées des nues ?
-
--*who_ergaste
-Cela est vrai.
-
-**** *book_ *id_I21 *act_I *date_1734
-
--*who_hortense
-Vous venez de m'envoyer un billet, Monsieur, qui me fait craindre que vous ne tentiez de me parler, ou qu'il ne m'arrive encore quelque nouveau message de votre part, et je viens vous prier moi-même qu'il ne soit plus question de rien ; que vous ne vous ressouveniez pas de m'avoir vue, et surtout que vous le cachiez à ma soeur, comme je vous promets de le lui cacher à mon tour ; c'est tout ce que j'avais à vous dire, et je passe.
-
--*who_ergaste
-Entends-tu, Frontin ?
-
--*who_frontin
-Mais où diable est donc cette soeur ?
-
-**** *book_ *id_I22 *act_I *date_1734
-
--*who_clarice
-Quoi !
-Ensemble !
-Vous vous connaissez donc ?
-
--*who_frontin
-Monsieur, voilà une friponne, sur ma parole.
-
--*who_hortense
-Êtes-vous confondu ?
-
--*who_ergaste
-Si je la connais, Madame, je veux que la foudre m'écrase !
-
--*who_lisette
-Ah !
-Le petit traître !
-
--*who_clarice
-Vous ne me connaissez point ?
-
--*who_ergaste
-Non, Madame, je ne vous vis jamais, j'en suis sûr, et je vous crois même une personne apostée pour vous divertir à mes dépens, ou pour me nuire.
-Et je vous jure, Madame, par tout ce que j'ai d'honneur...
-
--*who_hortense
-Ne jurez pas, ce n'est pas la peine, je ne me soucie ni de vous ni de vos serments.
-
--*who_ergaste
-Que vois-je ?
-Je ne vous connais point non plus.
-
--*who_frontin
-C'est pourtant le même habit à qui j'ai parlé, mais ce n'est pas la même tête.
-
--*who_clarice
-Retournons-nous-en, ma soeur, et soyons discrètes.
-
--*who_ergaste
-Ah !
-Madame, je vous reconnais, c'est vous que j'adore.
-
--*who_clarice
-Sur ce pied-là, tout est éclairci.
-
--*who_lisette
 Oui, je suis au fait.
 Monsieur vous a sans doute abordée, Madame ; vos habits se ressemblent, et il vous aura pris pour Madame, à qui il parla hier.
 
--*who_ergaste
-C'est cela même, c'est l'habit qui m'a jeté dans l'erreur.
-
--*who_frontin
-Ah !
-Nous en tirerons pourtant quelque chose.
-Le soufflet et les tablettes sont sans doute sur votre compte, Madame.
-
--*who_hortense
-Il ne s'agit plus de cela, c'est un détail inutile.
-
--*who_ergaste
-Je vous demande mille pardons de ma méprise, Madame ; je ne suis pas capable de changer, mais personne ne rendrait l'infidélité plus pardonnable que vous.
-
--*who_hortense
-Point de compliments, Monsieur le Marquis : reconduisez-nous au logis, sans attendre que le comte de Belfort s'en mêle.
-
--*who_lisette
 L'aventure a bien fait de finir, j'allais vous croire échappés des Petites-Maisons.
 
--*who_frontin
+Demande-lui-en des nouvelles, c'est lui qui me le garde.
+
+
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ergaste
+
+Et moi, je n'en crois rien.
+
+Nous n'avons vu la maîtresse et la suivante qu'une fois ; encore, ce fut par un coup du hasard que nous les rencontrâmes hier dans cette promenade-ci ; elles ne furent avec nous qu'un instant ; nous ne les connaissons point ; de ton propre aveu, la suivante ne te répondit rien quand tu lui parlas : quelle apparence y a-t-il qu'elle ait fait la moindre attention à ce que tu lui dis ?
+
+À cela nulle réponse ?
+
+Quoi ! Elle parla donc ?
+
+Que veux-tu donc dire ?
+
+Va, tu rêves.
+
+Je n'ose m'en flatter, et cependant je l'espère un peu. Tu sais bien que notre conversation fut courte ; je lui rendis le gant qu'elle avait laissé tomber ; elle me remercia d'une manière très obligeante de la vitesse avec laquelle j'avais couru pour le ramasser, et se démasqua en me remerciant. Que je la trouvai charmante ! Je croyais, lui dis-je, partir demain, et voici la première fois que je me promène ici ; mais le plaisir d'y rencontrer ce qu'il y a de plus beau dans le monde m'y ramènera plus d'une fois.
+
+Oui, mais ce rendez-vous indiqué l'aurait peut-être empêché d'y revenir par raison de fierté ; au lieu qu'en ne parlant que du plaisir de la revoir, c'était simplement supposer qu'elle vient ici tous les jours, et lui dire que j'en profiterais, sans rien m'attribuer de la démarche qu'elle ferait en y venant.
+
+Je crois que tu as raison, et que c'est la suivante.
+
+Eh bien ! Que dit la suivante ?
+
+Comment ? Est-ce que sa maîtresse lui a parlé de moi ?
+
+Il faut que l'amour t'ait tourné la tête, explique-toi donc mieux ! Aurais-je le bonheur de ne pas déplaire à Clarice ?
+
+Eh ! dis-moi naturellement si l'on a du penchant pour moi.
+
+Écarte-toi.
+
+Puisque le hasard vous offre encore à mes yeux, Madame, permettez que je ne perde pas le bonheur qu'il me procure. Que mon action ne vous irrite point, ne la regardez pas comme un manque de respect pour vous, le mien est infini, j'en suis pénétré : jamais on ne craignit tant de déplaire, mais jamais coeur, en même temps, ne fut forcé de céder à une passion ni si soumise, ni si tendre.
+
+Ah ! Madame, arrêtez, de grâce, et ne me laissez point en proie à la douleur de croire que je vous ai offensée, la joie de vous retrouver ici m'a égaré, j'en conviens, je dois vous paraître coupable d'une hardiesse que je n'ai pourtant point ; car je n'ai su ce que je faisais, et je tremble devant vous à présent que je vous parle.
+
+Voulez-vous ma vie en réparation de l'audace dont vous m'accusez ? Je vous l'apporte, elle est à vous ; mon sort est entre vos mains, je ne saurais plus vivre si vous me rebutez.
+
+J'explique ce que je sens, Madame ; je me donnai hier à vous ; je vous consacrai mon coeur, je conçus le dessein d'obtenir grâce du vôtre, et je mourrai s'il me la refuse. Jugez si un manque de respect est compatible avec de pareils sentiments.
+
+Eh ! De grâce, Madame, encore un mot qui décide de ma destinée, et je finis : me haïssez-vous ?
+
+Me sera-t-il permis de chercher à vous être présenté, Madame ?
+
+Ah ! Je suis au désespoir ! Je vous entends : vous ne voulez pas que je vous voie davantage !
+
+Hélas ! Madame, je m'appelle Ergaste ; je n'ai d'ami ici que le comte de Belfort, qui m'arrêta hier comme j'arrivais du Dauphiné, et qui me mena sur-le-champ dans cette campagne-ci.
+
+Oui, Madame. Je le laissai hier donner quelques ordres après dîner, et je vins me promener dans les allées de ce petit bois, où j'aperçus du monde, je vous y vis, vous vous y démasquâtes un instant, et dans cet instant vous devîntes l'arbitre de mon sort. J'oubliai que je retournais à Paris ; j'oubliai jusqu'à un mariage avantageux qu'on m'y ménageait, auquel je renonce, et que j'allais conclure avec une personne à qui rien ne me liait qu'un simple rapport de condition et de fortune.
+
+Non, Madame, mes réflexions sont faites, et je le répète encore, je ne vivrai que pour vous, ou je ne vivrai pour personne ; trouver grâce à vos yeux, voilà à quoi j'ai mis toute ma fortune, et je ne veux plus rien dans le monde, si vous me défendez d'y aspirer.
+
+Obligée, Madame ! Vous ne m'y souffrirez donc que par politesse ?
+
+Vous, Madame, si vous le voulez.
+
+Non, Madame, je n'y vois pas d'apparence.
+
+Il n'est point tard ; continuez-vous votre promenade, Madame ? Et pourrais-je espérer, si l'occasion s'en présente, de vous revoir encore ici quelques moments ?
+
+Et cependant je pars, sans avoir eu la douceur de voir encore ces yeux et ces traits...
+
+Que ce jour-ci est heureux pour moi, Madame ! Avec quelle impatience n'attendais-je pas le moment de vous revoir encore ! J'ai observé celui où vous étiez seule.
+
+Ce que mes yeux vous ont dit avant mes discours, ce que mon coeur sent mille fois mieux qu'ils ne le disent, ce que je voudrais vous répéter toujours : que je vous aime, que je vous adore, que je ne vous verrai jamais qu'avec transport.
+
+Je crois vous l'avoir déjà dit, Madame, je n'ai su ce que je faisais, oubliez une faute échappée à la violence d'une passion qui m'a troublé, et qui me trouble encore toutes les fois que je vous parle.
+
+Si j'en ai dessein ! Je ne respire que pour cela, Madame. Le comte de Belfort doit vous rendre visite ce soir.
+
+C'est lui, Madame, chez qui il me semble vous avoir dit que j'étais.
+
+Je l'accompagnerai chez vous, Madame, il me l'a promis : s'engage-t-il à quelque chose qui vous me déplaise ? Consentez-vous que je lui aie cette obligation ?
+
+Est-ce que votre réponse me serait contraire ?
+
+Je suis enchanté, Frontin ; je suis transporté ! Voilà deux fois que je lui parle aujourd'hui. Qu'elle est aimable ! Que de grâces ! Et qu'il est doux d'espérer de lui plaire !
+
+Belfort m'y mènera ce soir.
+
+C'est bien là à quoi je pense ! Mais, que nous veut ce garçon-ci ?
+
+Parle : que me veux-tu ?
+
+De quoi est-il question ?
+
+Un discours malhonnête ! À moi ! Et de quelle part ?
+
+Insolent ! T'expliqueras-tu ?
+
+Qui est-ce qui t'envoie ?
+
+Quelle est-elle ?
+
+Est-ce que je la connais ?
+
+Quoi ! C'est cette dame-là qui t'envoie dire qu'elle s'est moquée de moi ?
+
+Moi fourbe ?
+
+Frontin, après la manière dont nous nous sommes quittés tous deux, je t'ai dit que j'espérais : y comprends-tu quelque chose ?
+
+Mais ne te tromperais-tu pas ? Ne me prends-tu point pour un autre ?
+
+Qu'appelles-tu un homme d'hier ? Je ne t'entends point.
+
+Oui.
+
+Sais-tu mon nom ? Je l'ai dit à cette dame.
+
+C'est cela même !
+
+Je suis au désespoir !
+
+Je m'y perds !
+
+Eh ! Montre donc !
+
+Je viens de vous apercevoir aux genoux de ma soeur.
+Moi !
+Vous jouez fort bien la comédie : vous me l'avez donnée tantôt, mais je n'en veux plus. Je vous avais permis de m'aborder encore, et je vous le défends, j'oublie même que je vous ai vu.
+
+Arrête, où est-elle ?
+
+Attends que j'aie fait, du moins, un mot de réponse ; il est aisé de me justifier : elle m'accuse d'avoir vu sa soeur, et je ne la connais pas.
+
+Tiens, prends, et arrête.
+
+Amuse-le, Frontin ; je n'ai qu'un pas à faire pour aller au logis, et je vais y écrire un mot.
+
+Tiens, mon ami, cours porter cette lettre à la dame qui t'envoie.
+
+Qu'est-ce que cela signifie ?
+
+De quoi aussi t'avises-tu de parler de Lisette ?
+
+Va donc toi-même chercher cette dame-là, et lui remets mon billet le plus tôt que tu pourras.
+
+Hâte-toi, car je souffre.
+
+Vit-on jamais rien de plus étonnant que ce qui m'arrive ? Il faut absolument qu'elle se soit méprise.
+
+Eh non, Lisette, de qui me parles-tu ? Je n'ai vu que ta maîtresse, je ne me suis entretenu qu'avec elle ; sa soeur m'est totalement inconnue, et je n'entends rien à ce qu'on me dit là.
+
+Eh ! Non, te dis-je, non, encore une fois, non : je n'ai vu de femme que ta maîtresse, et quiconque lui a rapporté autre chose a fait une imposture, et si elle croit avoir vu le contraire, elle s'est trompée.
+
+D'où vient qu'on me parle de cette soeur ? D'où vient qu'on m'accuse de m'être entretenu avec elle ?
+
+Frontin est allé porter un billet à ta maîtresse, où je lui jure que je ne sais ce que c'est.
+
+Qu'elle s'y promène ou non, ce n'est pas ma faute, Lisette, et si quelqu'un s'est jeté à ses genoux, je te garantis que ce n'est pas moi.
+
+Non, Lisette, non, tu me désespères !
+
+Fort bien.
+
+J'en ferai tous les serments imaginables.
+
+Elle va revenir, dis-tu ?
+
+Puisque Clarice revient, apparemment qu'elle s'est désabusée, et qu'elle a reconnu son erreur.
+
+Eh bien ! Frontin, on n'est plus fâchée ; et le billet a été bien reçu, n'est-ce pas ?
+
+Pourquoi ?
+
+Qu'est-il donc arrivé ?
+
+Et mon billet ?
+
+Qu'est-ce que c'est que d'avance ? Où est-il ?
+
+Il est déchiré !
+
+Lisette, qui sort d'ici, m'a donc joué ?
+
+Que j'attendisse sa maîtresse ici, qu'elle allait y venir pour me parler, et qu'elle ne songeait à rien.
+
+Dis-moi donc ce qui s'est passé !
+
+Achève. Que t'a-t-elle répondu ?
+
+L'ingrate !
+
+Non, je ne reviens point de l'étonnement où tout cela me jette, et je ne conçois rien aux motifs d'une aussi sanglante raillerie.
+
+Quel étrange procédé que le vôtre, Madame ! Vous reste-t-il encore quelque nouvelle injure à faire à ma tendresse ?
+
+Eh ! Madame, qu'appelez-vous énigme ? À quoi puis-je attribuer cette contradiction dans vos manières, qu'au dessein formel de vous moquer de moi ? Où ai-je vu cette soeur, à qui vous voulez que j'aie parlé ici ?
+
+Comment avez-vous reçu mon billet, Madame ?
+
+Porter le mépris jusqu'à refuser de le lire !
+
+Méritais-je que ce papier fût déchiré ?
+
+Mais en effet, Frontin, te serais-tu trompé ? N'aurais-tu pas porté mon billet à une autre ?
+
+Cela est vrai.
+
+Entends-tu, Frontin ?
+
+Si je la connais, Madame, je veux que la foudre m'écrase !
+
+Non, Madame, je ne vous vis jamais, j'en suis sûr, et je vous crois même une personne apostée pour vous divertir à mes dépens, ou pour me nuire.
+Et je vous jure, Madame, par tout ce que j'ai d'honneur...
+
+Que vois-je ? Je ne vous connais point non plus.
+
+Ah ! Madame, je vous reconnais, c'est vous que j'adore.
+
+C'est cela même, c'est l'habit qui m'a jeté dans l'erreur.
+
+Je vous demande mille pardons de ma méprise, Madame ; je ne suis pas capable de changer, mais personne ne rendrait l'infidélité plus pardonnable que vous.
+
+
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+Je vous dis, Monsieur, que je l'attends ici, je vous dis qu'elle s'y rendra, que j'en suis sûr, et que j'y compte comme si elle y était déjà.
+
+C'est que vous ne savez pas ce que je vaux, mais une fille ne s'y trompera pas : j'ai vu la friponne jeter sur moi de certains regards, qui n'en demeureront pas là, qui auront des suites, vous le verrez.
+
+Mais, Monsieur, faut-il encore vous répéter que ses yeux me répondirent ? N'est-ce rien que des yeux qui parlent ? Ce qu'ils disent est encore plus sûr que des paroles. Mon maître en tient pour votre maîtresse, lui dis-je tout bas en me rapprochant d'elle ; son coeur est pris, c'est autant de perdu ; celui de votre maîtresse me paraît bien aventuré, j'en crois la moitié de partie, et l'autre en l'air. Du mien, vous n'en avez pas fait à deux fois, vous me l'avez expédié d'un coup d'oeil ; en un mot, ma charmante, je t'adore : nous reviendrons demain ici, mon maître et moi, à pareille heure, ne manque point d'y mener ta maîtresse, afin qu'on donne la dernière main à cet amour-ci, qui n'a peut-être pas toutes ses façons ; moi, je m'y rendrai une heure avant mon maître, et tu entends bien que c'est t'inviter d'en faire autant ; car il sera bon de nous parler sur tout ceci, n'est-ce pas ? Nos coeurs ne seront pas fâchés de se connaître un peu plus à fond, qu'en penses-tu, ma poule ? Y viendras-tu ?
+
+Ah ! Vous m'excuserez.
+
+Non.
+
+Comme il faut du temps pour dire des paroles et que nous étions très pressés, elle mit, ainsi que je vous l'ai dit, des regards à la place des mots, pour aller plus vite ; et se tournant de mon côté avec une douceur infinie : Oui, mon fils, me dit-elle, sans ouvrir la bouche, je m'y rendrai, je te le promets, tu peux compter là-dessus ; viens-y en pleine confiance, et tu m'y trouveras. Voilà ce qu'elle me dit ; et que je vous rends mot pour mot, comme je l'ai traduit d'après ses yeux.
+
+Enfin je l'attends ; mais vous, Monsieur, pensez-vous que la maîtresse veuille revenir ?
+
+Le plaisir d'y rencontrer ! Pourquoi ne pas dire l'espérance ? Ç'aurait été indiquer adroitement un rendez-vous pour le lendemain.
+
+Tenez, tenez, Monsieur, suis-je un bon traducteur du langage des oeillades ? Eh ! Direz-vous que je rêve ? Voyez-vous cette figure tendre et solitaire, qui se promène là-bas en attendant la mienne ?
+
+Je l'aurais défié d'y manquer ; je me connais. Retirez-vous, Monsieur ; ne gênez point les intentions de ma belle. Promenez-vous d'un autre côté, je vais m'instruire de tout, et j'irai vous rejoindre.
+
+Eh ! Eh ! Bonjour, chère enfant ; reconnaissez-moi, me voilà, c'est le véritable.
+
+Oh ! Que si ; vous me cherchiez, je vous cherchais ; vous me trouvez, je vous trouve ; et je défie que nous trouvions mieux. Comment vous portez-vous ?.
+
+À merveilles, voilà des appas dans la compagnie de qui il serait difficile de se porter mal.
+
+Et vous, aussi ravissante qu'hypocrite ; mettons bas les façons, vivons à notre aise. Tiens, je t'aime je te l'ai déjà dit, et je le répète ; tu m'aimes, tu ne me l'as pas dit, mais je n'en doute pas ; donne-toi donc le plaisir de me le dire, tu me le répéteras après, et nous serons tous deux aussi avancés l'un que l'autre.
+
+Entre nous, ai-je tort d'en être sûr ? Une fille comme toi manquerait-elle de goût ? Là, voyons, regarde-moi pour vérifier la chose ; tourne encore sur moi cette prunelle friande que tu avais hier, et qui m'a laissé pour toi le plus tendre appétit du monde. Tu n'oses, tu rougis. Allons, m'amour, point de quartier ; finissons cet article-là.
+
+Non, ta fierté se meurt, je ne la quitte pas que je ne l'aie achevée.
+
+Il est vrai, tu ne feras rien pour mon instruction, mais il manque à ma gloire le ragoût de te l'entendre dire.
+
+La tienne ! Eh ! Palsambleu, je t'aime, que lui faut-il de plus ?
+
+Allons, allons, tu me voles, il n'y a pas là ce qui m'est dû, fais-moi mon compte.
+
+Tu me retiens encore quelque chose, il n'y a pas là ma somme.
+
+Me voilà payé avec un bis.
+
+Oh ! Ne crains pas la dépense, je mettrai ton coeur en fonds, va, ne t'embarrasse pas.
+
+Nous sommes des gens de condition qui retournons à Paris, et de là à la cour, qui nous trouve à redire ; nous revenons d'une terre que nous avons dans le Dauphiné ; et en passant, un de nos amis nous a arrêté à Lyon, d'où il nous a mené à cette campagne-ci, où deux paires de beaux yeux nous raccrochèrent hier, pour autant de temps qu'il leur plaira.
+
+En voilà deux ici, ta maîtresse a les deux autres.
+
+La guerre, quand les ennemis du Roi nous raisonnent.
+
+Le marquis Ergaste, et moi, le chevalier Frontin, comme cadet de deux frères que nous sommes.
+
+Quand les minois se conviennent, le reste s'ajuste. Mais voyons, mes enfants, qui êtes-vous à votre tour ?
+
+On le sent encore mieux qu'on ne le voit.
+
+Passons, passons, ne te pique point de payer mes compliments ce qu'ils valent, je te ruinerais en révérences, et je te cajole gratis. Continuons : vous êtes belles, après ?
+
+Orphelines ? Expliquons-nous ; l'amour en fait quelquefois, des orphelins ; êtes-vous de sa façon ? Vous êtes assez aimables pour cela.
+
+Voilà de fort bons procédés.
+
+Ne point se marier fait un article, rester filles en fait un autre.
+
+Oh que non ! Quoi qu'il en soit, nous protestons contre l'un ou l'autre de ces deux serments-là ; celle que nous aimons n'a qu'à choisir, et voir celui qu'elle veut rompre ; comment s'appelle-t-elle ?
+
+Que dit-elle de mon maître ? Depuis qu'elle l'a vu, comment va son voeu de rester fille ?
+
+Voyez le grand malheur ! Combien y a-t-il de ces voeux-là qui se rompent à meilleur marché ! Eh ! Dis-moi, mon maître l'attend ici, va-t-elle venir ?
+
+Sera-t-elle encore masquée ?
+
+C'est lui-même.
+
+Eh ! Me la fourniras-tu en conscience ?
+
+Oh ! Le doute est de bon sens ; tu es si jolie !
+
+Ce qu'elle dit ? Ce que j'ai toujours prévu : que nous triomphons, qu'on est rendu, et que, quand il nous plaira, le notaire nous dira le reste.
+
+Si elle en a parlé ! On ne tarit point, tous les échos du pays nous connaissent, on languit, on soupire, on demande quand nous finirons, peut-être qu'à la fin du jour on nous sommera d'épouser : c'est ce que j'en puis juger sur les discours de Lisette, et la chose vaut la peine qu'on y pense. Clarice, fille de qualité, d'un côté, Lisette, fille de condition, de l'autre, cela est bon : la race des Frontins et des Ergastes ne rougira point de leur devoir son entrée dans le monde, et de leur donner la préférence.
+
+Eh ! Monsieur, comment vous expliquez-vous vous-même ? Vous parlez du ton d'un suppliant, et c'est à nous à qui on présente requête. Je vous félicite, au reste, vous avez dans votre victoire un accident glorieux que je n'ai pas dans la mienne : on avait juré de garder le célibat, vous triomphez du serment. Je n'ai point cet honneur-là, moi, je ne triomphe que d'une fille qui n'avait juré de rien.
+
+Oui, Monsieur, la vérité toute pure est que je suis adoré, parce qu'avec moi cela va un peu vite, et que vous êtes à la veille de l'être ; et je vous le prouve, car voilà votre future idolâtre qui vous cherche.
+
+Oui ; il demande s'il peut reparaître, puisqu'elle est seule.
+
+Le voilà tout venu.
+
+Je viens vous dire que je vois de loin une espèce de petit nègre qui accourt.
+
+Bon ! Espérer ! Si la belle vous donne cela pour de l'espérance, elle ne vous trompe pas.
+
+Cela fera une petite journée de tendresse assez complète. Au reste, j'avais oublié de vous dire le meilleur. Votre maîtresse a bien des grâces ; mais le plus beau de ses traits, vous ne le voyez point, il n'est point sur son visage, il est dans sa cassette. Savez-vous bien que le coeur de Clarice est une emplette de cent mille écus, Monsieur ?
+
+C'est le beau brun que j'ai vu venir.
+
+Où est ton chapeau ?
+
+Il n'y est plus.
+
+Voulez-vous que j'estropie le commissionnaire, Monsieur ?
+
+Oui-da, Monsieur ; esprit de femme et caprice : voilà tout ce que c'est ; qui dit l'un, suppose l'autre ; les avez-vous jamais vus séparés ?
+
+Il parle de vous comme d'un enfant au maillot. Est-ce que les gens d'hier sont de cette taille-là ?
+
+Ma foi ! Il n'y a plus qu'à lui en payer le port, Monsieur.
+
+S'il ressemble au reste, nous ne perdons rien de curieux.
+
+Eh ! Morbleu, Monsieur, laissez là ces tablettes, et n'y répondez que sur le dos du porteur.
+
+J'avoue que voilà le vertigo le mieux conditionné qui soit jamais sorti d'aucun cerveau femelle.
+
+Voilà de jolies paroles que tu chantes là.
+
+Veux-tu que je chante aussi ?
+
+De symphonie ! Est-ce que tu prends ma voix pour un orchestre ?
+
+C'est-à-dire que tu es au concert, quand on bat la caisse.
+
+Tu as l'oreille martiale. Avec quoi te divertirai-je donc ? Aimes-tu les contes des fées ?
+
+Parlons donc de boire.
+
+Le vin, n'est-ce pas ? On l'a mis au frais.
+
+Cela est malsain ; parlons de ta maîtresse.
+
+Doucement ! Je n'ai pas le sol, mon garçon.
+
+Avec cette mine-là, où veux-tu que j'en trouve ? Mets-toi à la place du marchand de vin.
+
+Il n'y a pas moyen, elle est trop sincère ; mais il y a remède à tout : paie, et je te le rendrai.
+
+Non, tu réponds juste ; mais paie en pur don, par galanterie, sois généreux...
+
+Morbleu ! Que ne sommes-nous à Paris, j'aurais crédit.
+
+Qu'appelles-tu une ville ? Paris, c'est le monde ; le reste de la terre n'en est que les faubourgs.
+
+Lisette, dis-tu ?
+
+Dis donc que ce l'était, car je te l'ai soufflée hier.
+
+C'est une bagatelle, une affaire de jalousie : c'est que nous nous trouvons rivaux, et il en sent la conséquence.
+
+Mais, Monsieur, vous avez vu des amants : devineriez-vous que cet homme-là en est un ? Dites en conscience.
+
+Soyez tranquille, je vous rendrai bon compte de tout ceci par le moyen de Lisette.
+
+Qui est-ce qui vous fournit vos nouvelles, Monsieur ?
+
+C'est que moi, qui sors de la mêlée, je vous en apporte d'un peu différentes.
+
+Tirez sur ma figure l'horoscope de notre fortune.
+
+Hélas ! C'est le plus maltraité. Ne voyez-vous pas bien que j'en porte le deuil d'avance ?
+
+Dans ma poche, en fort mauvais état.
+Tenez, jugez vous-même s'il peut en revenir.
+
+Oh ! Cruellement ! Et bien m'en a pris d'être d'une étoffe d'un peu plus de résistance que lui, car je ne reviendrais pas en meilleur ordre. Je ne dis rien des ignominies qui ont accompagné notre disgrâce, et dont j'ai risqué de vous rapporter un certificat sur ma joue.
+
+Eh ! Que vous a-t-elle dit, cette double soubrette ?
+
+Ce que vous me dites là ne vaut pas le diable, ne vous fiez point à ce calme-là, vous en serez la dupe, Monsieur ; nous revenons houspillés, votre billet et moi : allez-vous-en, sauvez le corps de réserve.
+
+En voici la courte et lamentable histoire. J'ai trouvé l'inhumaine à trente ou quarante pas d'ici ; je vole à elle, et je l'aborde en courrier suppliant : C'est de la part du marquis Ergaste, lui dis-je d'un ton de voix qui demandait la paix. Qu'est-ce, mon ami ? Qui êtes-vous ? Eh ! Que voulez-vous ? Qu'est-ce que c'est que cet Ergaste ? Allez, vous vous méprenez, retirez-vous, je ne connais point cela. Madame, que votre beauté ait pour agréable de m'entendre ; je parle pour un homme à demi mort, et peut-être actuellement défunt, qu'un petit nègre est venu de votre part assassiner dans des tablettes : et voici les mourantes lignes que vous adresse dans ce papier son douloureux amour. Je pleurais moi-même en lui tenant ces propos lugubres, on eût dit que vous étiez enterré, et que c'était votre testament que j'apportais.
+
+Sa réponse ? La voilà mot pour mot ; il ne faut pas grande mémoire pour en retenir les paroles.
+
+Quand j'ai vu cette action barbare, et le papier couché sur la poussière, je l'ai ramassé ; ensuite, redoublant de zèle, j'ai pensé que mon esprit devait suppléer au vôtre, et vous n'avez rien perdu au change. On n'écrit pas mieux que j'ai parlé, et j'espérais déjà beaucoup de ma pièce d'éloquence, quand le vent d'un revers de main, qui m'a frisé la moustache, a forcé le harangueur d'arrêter aux deux tiers de sa harangue.
+
+Monsieur, je la vois ; la voilà qui arrive, et je me sauve ; c'est peut-être le soufflet qui a manqué tantôt, qu'elle vient essayer de faire réussir.
+
+La bonne âme ! Vous verrez que nous aurons encore tort. N'approchez pas, Monsieur, plaidez de loin ; Madame a la main légère, elle me doit un soufflet, vous dis-je, et elle vous le paierait peut-être. En tout cas, je vous le donne.
+
+Et ces agréables tablettes où nos soupirs sont traités de farce, et qui sont chargées d'un congé à notre adresse.
+
+Dans l'état où vous l'avez mis, je vous demande à présent ce qu'on en peut faire.
+
+Violer le droit des gens en ma personne, attaquer la joue d'un orateur, la forcer d'esquiver une impolitesse ! Où en serait-elle, si elle avait été maladroite ?
+
+Ce soufflet était-il à sa place ?
+
+Bon ! Oubliez-vous les tablettes ? Sont-elles tombées des nues ?
+
+Mais où diable est donc cette soeur ?
+
+Monsieur, voilà une friponne, sur ma parole.
+
+C'est pourtant le même habit à qui j'ai parlé, mais ce n'est pas la même tête.
+
+Ah ! Nous en tirerons pourtant quelque chose.
+Le soufflet et les tablettes sont sans doute sur votre compte, Madame.
+
 Va, va, puisque je t'aime, je ne me vante pas d'être trop sage.
 
--*who_arlequin
-Et toi, l'aimes-tu ?
-Comment va le coeur ?
 
--*who_lisette
-Demande-lui-en des nouvelles, c'est lui qui me le garde.
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+Madame, je viens vous demander votre avis sur une commission qu'on m'a donnée.
+
+Voulez-vous avoir compagnie ?
+
+C'est ce Monsieur Damis, qui est si amoureux de vous.
+
+Il ne vient par aucun côté, car il ne bouge, et c'est moi qui viens pour lui, afin de savoir où vous êtes. Lui dirai-je que vous êtes ici, ou bien ailleurs ?
+
+Cela ne se peut pas, il faut bien que vous soyez en quelque endroit, il n'y a qu'à dire où vous voulez être.
+
+Je vous ai pourtant trouvée : comment ferons-nous ?
+
+Eh bien ! Vous avez raison ; quand on s'en va, on n'y est pas : cela est clair.
+
+Vous êtes mon homme ; c'est vous que je cherche.
+
+Sur ma tête.
+
+Il y était quand je l'ai dit
+Et il y retourne.
+
+D'un discours malhonnête que j'ai ordre de vous tenir, et qui ne demande pas la cérémonie du chapeau.
+
+De la part d'une personne qui s'est moquée de vous.
+
+Dites vos injures à ma commission, c'est elle qui est insolente, et non pas moi.
+
+Cela n'est pas de l'ambassade : je n'ai point ordre de revenir estropié.
+
+Une dame qui ne fait point cas de vous.
+
+Ma maîtresse.
+
+Vous lui avez parlé ici.
+
+Elle-même en original ; je lui ai aussi entendu marmotter entre ses dents que vous étiez un grand fourbe ; mais, comme elle ne m'a point commandé de vous le rapporter, je n'en parle qu'en passant.
+
+Oui ; mais rien qu'entre les dents ; un fourbe tout bas.
+
+Ils sont unis comme les cinq doigts de la main.
+
+Oh ! Que non. N'êtes-vous pas un homme d'hier ?
+
+J'entends que vous êtes ici d'hier.
+
+Un officier de la Majesté du Roi.
+
+Elle me l'a dit aussi : un appelé Ergaste.
+
+Eh bien ! C'est vous qu'on n'estime pas ; vous voyez bien que le paquet est à votre adresse.
+
+Non, c'est port payé.
+
+On s'est un peu diverti de vous en passant, on vous a regardé comme une farce qui n'amuse plus. Adieu.
+
+Attendez... Il y a encore un petit reliquat, je ne vous ai donné que la moitié de votre affaire : j'ai ordre de vous dire... J'ai oublié mon ordre... La moquerie, un ; la farce, deux ; il y a un troisième article.
+
+Pardi ! Il est tout de son long dans ces tablettes-ci.
+
+Non pas, s'il vous plaît ; je ne dois pas vous les montrer : cela m'est défendu, parce qu'on s'est repenti d'y avoir écrit, à cause de la bienséance et de votre peu de mérite ; et on m'a crié de loin de les supprimer, et de vous expliquer le tout dans la conversation ; mais laissez-moi voir ce que j'oublie... A propos, je ne sais pas lire ; lisez donc vous-même.
+
+Je n'ai jamais été le pupitre de personne.
+
+Tout juste ; voilà l'article qui nous manquait : plus de fréquentation, c'est l'intention de la tablette. Bonsoir.
+
+Je suis sourd.
+
+Chanson !
+
+Grand merci ; quand je parle de chanson, c'est que j'en vais chanter une ; faites à votre aise, mon cavalier ; je n'ai jamais vu de fourbe si honnête homme que vous.
+Ra la ra ra...
+
+Puisqu'il me paie des injures, voyez combien je gagnerais avec lui, si je lui apportais des compliments...
+Ta la la ta ra ra la.
+
+Je n'en sais point d'autres. Allons, divertis-moi : ton maître t'a chargé de cela, fais-moi rire.
+
+Je ne suis pas curieux de symphonie.
+
+C'est qu'en fait de musique, il n'y a que le tambour qui me fasse plaisir.
+
+Oh ! Je suis à l'Opéra.
+
+Non, je ne me soucie ni de comtes ni de marquis.
+
+Montre-moi le sujet du discours.
+
+Qu'on l'en retire, j'aime à boire chaud.
+
+Expédions la bouteille.
+
+Ce misérable ! Et du crédit ?
+
+Tu as raison, je te rends justice : on ne saurait rien emprunter sur cette grimace-là.
+
+Tu me le rendras ? Mets-toi à ma place aussi, le croirais-tu ?
+
+Je ne saurais, car je suis vilain : je n'ai jamais bu à mes dépens.
+
+Eh ! Que fait-on à Paris ? Parlons de cela, faute de mieux : est-ce une grande ville ?
+
+Si je n'aimais pas Lisette, j'irais voir le monde.
+
+Oui, c'est ma maîtresse.
+
+Ah ! Maudit souffleur ! Ah ! Scélérat ! Ah ! Chenapan !
+
+J'aimerais mieux être le postillon du diable, qui vous emporte tous deux, vous et ce coquin, qui est la copie d'un fripon ! Ce maraud, qui n'a ni argent, ni crédit, ni le mot pour rire ! Un sorcier qui souffle les filles ! Un escroc qui veut m'emprunter du vin ! Un gredin qui dit que je ne suis pas dans le monde, et que mon pays n'est qu'un faubourg ! Cet insolent ! Un faubourg ! Va, va, je t'apprendrai à connaître les villes.
+
+Et toi, l'aimes-tu ? Comment va le coeur ?
+

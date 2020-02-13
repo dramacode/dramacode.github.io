@@ -1,100 +1,11 @@
 
 
-**** *book_ *id_I01 *act_I *date_1712
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
 
--*who_achitophel
-À quel excès, Ô ciel, osez-vous vous porter ?
-Vous vous perdez, Seigneur, est-il temps d'éclater ?
-À ces ardents transports défendez de paraître.
-
--*who_absalon
-Non, non, Achitophel, je n'en suis plus le maître ;
-Le perfide Joab, fier de plaire à son roi,
-Sans respect pour mon rang, s'ose attaquer à moi ;
-Il cherche, en irritant le courroux qui m'enflamme,
-À me faire trahir le secret de mon âme,
-Et répand dans ce camp, que les séditieux
-N'ont appris que par moi notre abord en ces lieux.
-Ah ! j'atteste du ciel l'immortelle puissance,
-Qu'Absalon punissant un sujet qui l'offense,
-N'en aura pas été vainement outragé.
-
--*who_achitophel
-Avant la fin du jour vous en serez vengé :
-Modérez cependant cette haine éclatante.
-
--*who_absalon
-Je l'ai trop ménagé, son insolence augmente :
-Adonias mon frère appuyant ses projets,
-Ils ont cru m'abaisser au rang de leurs sujets :
-Toi-même ouvrant mes yeux sur leur intelligence,
-J'ai vu que près du roi ménageant leur vengeance,
-Et chassant de David tout amour paternel,
-Je perdais pour jamais le sceptre d'Israël.
-Le roi pour successeur allait nommer mon frère ;
-Et comment retenir une juste colère?
-Moi, je pourrais souffrir qu'un frère audacieux
-Ravît ou partageât la Couronne à mes yeux ?
-Ah ! Si vengeant ma sour des fureurs d'un perfide,
-J'ai pu rougir mon bras d'un fameux homicide :
-Si ce même Joab, pour avoir retardé
-De se rendre à l'endroit ou je l'avais mandé,
-Vit le fer et le feu, conduits par ma vengeance,
-De ses fertiles champs moissonner l'espérance,
-Crois- tu que les projets par ma haine enfantée
-Gardent un prix plus doux à ses témérités ?
-
--*who_achitophel
-Suspendez donc, Seigneur, l'ardeur qui vous anime ;
-Jusqu'au pied de l'autel conduisons la victime.
-Dans mes justes desseins aussi hardi qu'heureux
-J'ai fait à la révolte animer les Hébreux ;
-Accablés, gémissants sous des tyrans avides,
-Leur timide fureur n'attendait que des guides :
-Amasa de ma part a servi leur courroux,
-Ou plutôt Amasa les a séduits pour vous.
-Tout nous a réussi ; leur armée intrépide
-N'a point trouvé d'obstacle à sa course rapide.
-Retracez-vous encor cette nuit dont l'horreur
-Jusqu'au sein de David a porté la terreur,
-Lorsque Jérusalem, ouvrant toutes ses portes,
-Et des séditieux appuyant les cohortes,
-L'a forcé, sans secours d'armes ni de soldats,
-De porter jusqu'ici sa frayeur et ses pas.
-Que n'éclatais-je alors ? Nous n'avions rien a craindre,
-Dans le sang de Joab ma rage allait s'éteindre ;
-Car enfin sa valeur, il le faut avouer,
-A contraint de tout temps l'envie à le louer.
-Il peut faire entre nous balancer la fortune,
-Et j'aurais prévenu cette crainte importune.
-À suivre ici David devais-tu me forcer ?
-
--*who_achitophel
-La tribu d'Éphraïm nous pouvait traverser ;
-J'ignore même encor, si sous nos lois rangée,
-Dans la sédition elle s'est engagée.
-Zamri dans un moment va nous en informer,
-Rien après ce succès ne doit nous alarmer.
-Paraissez, j'y consens : loin que l'on noua soupçonne,
-Voire père en ces lieux à ma foi s'abandonne.
-Ainsi sans hasarder... Mais le roi vient à nous,
-Joab le suit, cachez un dangereux courroux.
-
--*who_absalon
-Ah ! Sortons, ma fureur ne pourrait se contraindre.
-
-**** *book_ *id_I02 *act_I *date_1712
-
--*who_david
 Demeurez, Absalon, j'ai sujet de me plaindre.
 Vous savez que Joab est chéri de son roi,
 Cependant...
 
--*who_absalon
-      Quoi ! Seigneur, en s'attaquant a moi.
-Un sujet...
-
--*who_david
       Retenez un courroux qui me blesse.
 Qu'Achitophel demeure. Et vous, que l'on nous laisse.
 Le ciel semble sur nous épuiser ses rigueurs :
@@ -140,97 +51,11 @@ Du sage Achitophel consultons la prudence,
 Et qu'une noble ardeur sache nous réunir,
 Pour attendre un rebelle, ou pour le prévenir.
 
--*who_absalon
-Je l'avouerai, Seigneur, mon aveugle colère
-A trop flatté l'orgueil d'un sujet téméraire.
-J'ai dû le mépriser ou le faire punir :
-Mais quel autre après tout eût pu se contenir ?
-L'insolent,... car en vain je me force au silence,
-M'accuse d'abuser de votre confiance :
-Par moi, s'il en est cru, vos rebelles sujets
-Ont dû de notre fuite apprendre les projets.
-Mon indiscrétion, source de nos disgrâces,
-Les a jusqu'au Jourdain amenés sur nos traces :
-Il veut de nos malheurs m'imputer la moitié,
-Lui qu'avec Amasa joint le sang, l'amitié,
-Et qui, s'il faut chercher ici des infidèles,
-Boit être plus suspect qu'aucun de nos rebelles.
-
--*who_joab
-Moi suspect, juste ciel ! Qu'ose-t-on avancer ?
-Non, le prince, Seigneur, ne saurait le penser.
-Je ne me lave point d'une injure cruelle :
-C'est à ceux de qui l'âme et lâche et criminelle
-À ces honteux excès se pourrait oublier,
-D'emprunter des raisons pour se justifier.
-Informé qu'Amasa par un avis sincère
-Avait de nos desseins dévoilé le mystère,
-J'ai dit qu'un confident, ou traître ou peu discret,
-Peut-être avait du Prince appris notre secret :
-Voilà quel est mon crime, et le seul trait d'audace
-Qui puisse d'Absalon m'attirer la disgrâce.
-Un plus juste sujet demande son courroux.
-N'en doutez point, Seigneur, un traître est parmi nous.
-C'est peu qu'on ait appris nos démarches passées,
-Le perfide Amasa lit même en nos pensées :
-Du pontife Sadoc le sage et digne fils
-M'éclaire chaque jour par de secrets avis ;
-Un billet qu'en mes mains il a su faire rendre
-M'apprend que l'ennemi veut ici nous surprendre ;
-Qu'il sait qu'aux Gétéens nous avons eu recours ;
-Que demain sous ces murs l'on attend leur secours ;
-Que voulant m'opposer a des troupes rebelles,
-J'ai proposé sans fruit d'aller fondre sur elles ;
-Qu'Achitophel alors, contraire à mes avis,
-À lui seul empêché qu'ils n'aient été suivis.
-
--*who_david
 Ainsi le sort cruel trompe ma prévoyance :
 Mais sur qui doit tomber ma juste défiance ?
 Quel barbare en ces lieux pour me pendre est caché,
 Et peut voir mes malheurs sans en être touché ?
 
--*who_joab
-Ne perdons point de temps, songeons, quel qu'il puisse être,
-À prévenir ses coups plutôt qu'à le connaître.
-Vous savez quel courage anime vos soldats,
-Ils braveront la mort en marchant sur vos pas.
-Venez, et du Jourdain franchissant les rivages,
-Au rebelle Amasa fermons-en les passages.
-Je joindrai le perfide, et lui perçant le flanc,
-Je laverai la honte imprimée à mon sang.
-En vain tout Israël s'arme pour un rebelle,
-Le nombre ne doit point ralentir notre zèle.
-Des méchants dans le crime engagés lâchement
-Combattent avec crainte et vainquent rarement.
-La solide valeur n'admet point l'injustice.
-Ce sont des criminels qui craindront le supplice.
-Vous les verrez tremblants tomber à vos genoux,
-Et déjà les remords ont combattu pour nous.
-Au reste pour un fils ne prenez point d'alarmes,
-Je sais qu'Adonias est déjà sous les armes.
-De nos malheurs pressants, instruit par mon secours,
-Tout Juda s'est armé pour conserver ses jours :
-Mais de ce côté seul la tempête menace,
-Il faut à ses éclats opposer notre audace,
-Et j'ose présumer que ce dessein hardi
-Sera d'Achitophel justement applaudi.
-
--*who_achitophel
-Oui, Seigneur, de Joab j'admire le vrai zèle :
-Jamais dans vos États un sujet plus fidèle
-Ne vous a mieux prouvé son courage et sa foi,
-Et n'a mieux mérité l'estime de son Roi.
-Le projet qu'à présent sa valeur lui suggère
-Peut devenir heureux pourvu qu'on le diffère :
-Demain les Gétéens, unis à vos soldats,
-Contre les révoltés marcheront sur nos pas.
-Nous pourrons, plus nombreux, tenter le sort des armes.
-Cependant pour la Reine apaisez vos alarmes :
-Zamri nous doit bientôt instruire de son sort.
-Et je ne puis penser que livrée à la mort....
-
--*who_david
 Eh ! Que n'entreprend point la rage d'un perfide,
 Qui porte sur son Roi sa fureur homicide ?
 Toutefois dissipons d'inutiles erreurs.
@@ -254,513 +79,6 @@ Daignez donc l'honorer de vos embrassements.
 Et vous, dès qu'en ce camp Zamri pourra se rendre,
 Conduisez-le, je veux lui parler et l'entendre.
 
-**** *book_ *id_I03 *act_I *date_1712
-
--*who_achitophel
-Je le vois bien, Seigneur, il faut nous découvrir.
-
--*who_absalon
-Quel supplice cruel mon cour vient de souffrir !
-Que cet embrassement a redoublé ma haine !
-
--*who_achitophel
-Rendez votre vengeance égale à votre peine,
-Voici l'heureux instant que tout doit éclater,
-Il faut partir.... Eh quoi ! Qui vous peut arrêter ?
-Tantôt avec Joab ne pouvant vous contraindre,
-Votre juste fureur ne voyait rien à craindre.
-
--*who_absalon
-Ah ! Ce n'est point Joab qui suspend mon courroux :
-Cependant....
-
--*who_achitophel
-      Achevez, ciel ! je frémis pour vous.
-La victoire a suivi le parti de vos armes :
-Mais quel sujet affreux de douleur et d'alarmes,
-Si la foudre en vos mains, prête à vous obéir,
-Allait en vains éclats se perdre et vous trahir ?
-Que dis-je ? Nous avons trop grossi le nuage,
-Pour pouvoir en éclairs voir dissiper l'orage :
-Adonias est roi, vous êtes immolé,
-Si l'un de nos secrets est enfin révélé.
-J'avouerai que frappé d'une importune idée,
-Ma vertu quelquefois se trouve intimidée :
-Mais mon zèle pour vous étouffe mes remords,
-Et dans les grands périls il faut de grands efforts.
-Rassurez donc, seigneur, votre âme trop craintive.
-
--*who_absalon
-J'ai conduit tes projets, il faut que je les suive :
-Mais prêt à voir mon bras s'armer contre mon roi,
-Dois-je avoir moins de crainte et de vertu que toi ?
-Écoute, et juge donc des troubles de mon âme.
-Tu sais contre Joab quelle rage m'enflamme :
-Mon cour incessamment dans sa haine affermi
-N'admet point de pardon pour un tel ennemi.
-Mais en vain ma fureur soutient mon entreprise,
-La raison même en vain l'anime et l'autorise,
-Prêt à me nommer chef de la rébellion,
-Je sens fléchir ma haine et mon ambition.
-Mes justes déplaisirs, mes craintes légitimes
-À l'aspect de mon roi me paraissent des crimes.
-J'ai beau me rappeler que devant son trépas
-Mes desseins ne sont point d'envahir ses États ;
-Que jusqu'à ce moment, content de mon partage,
-Je ne veux que punir un sujet qui m'outrage,
-Et me faire nommer l'unique successeur
-Du trône dont mon père est juste possesseur :
-Vains détours ! Je ne puis me cacher à moi-même
-À quoi doit m'obliger le sang, le diadème :
-En proie à des remords sans cesse renaissants,
-Je fuis, pour les chasser, des efforts impuissants,
-Et pour comble des maux où mon malheur me livre,
-Je ne puis sans horreur reculer ni poursuivre.
-
--*who_achitophel
-À des Scrupules vains faut-il vous arrêter?
-Seigneur, fuyez un lieu propre à les irriter.
-Au milieu des soldats que vous allez conduire,
-Libre des préjugés qui viennent vous séduire,
-Vous verrez qu'appuyé sur d'équitables lois,
-Vous pouvez vous armer pour soutenir vos droits.
-Partez donc, et chassez une crainte frivole.
-Le moment le plus cher comme un autre s'envole.
-Dès qu'auprès de ce camp paraîtront vos soldats,
-J'irai vous consacrer mes conseils et mon bras.
-Ma fuite jusque-là découvrirait la vôtre,
-Et peut-être sans fruit nous perdrait l'un et l'autre.
-Cependant attendons pour sortir de ces lieux
-Que Zamri de retour.... Mais il s'offre à nos yeux.
-
-**** *book_ *id_I04 *act_I *date_1712
-
--*who_absalon
-Hé bien ! en quel état as-tu laissé l'armée ?
-
--*who_zamri
-Seigneur, d'un zèle ardent on la voit animée :
-La tribu d'Éphraim vient de se joindre à nous ;
-Pour passer le Jourdain on n'attend plus que vous.
-Cependant un spectacle ici va vous surprendre ;
-Cisaï dans ce camp vient enfin de se rendre.
-Il conduit à David un renfort de soldats,
-La Reine votre mère accompagne ses pas ;
-Et la jeune Thamar, fruit de votre hyménée,
-Est avec votre épouse en ces lieux amenée.
-
--*who_absalon
-Quel fatal contre-temps vient troubler nos desseins !
-
--*who_achitophel
-Non, Seigneur, votre sort est toujours dans vos mains ;
-Cachez-leur nos secrets avec un soin fidèle,
-Et laissez gouverner tout le reste à mon zèle.
-Commencez par remplir un trop juste devoir ;
-La Reine vient, partez, allez la recevoir.
-Quelque obstacle nouveau que le ciel fasse naître,
-De votre prompt départ je vous rendrai le maître :
-Je réponds du succès, reposez-vous sur moi.
-
--*who_absalon
-Hé bien ! Prépare tout, je m'abandonne à toi.
-
-**** *book_ *id_I05 *act_I *date_1712
-
--*who_achitophel
-Nous sommes seuls, prends part à ma secrète joie ;
-Enfin mes ennemis vont devenir ma proie.
-Joab, Abiatar, Aduram, Cisaï,
-Le superbe Sadoc, le fier Abisaï,
-Tous ceux qui réunis par leur haine commune,
-Prétendent sur ma chute élever leur fortune,
-Avant la fin du jour, surpris, enveloppés,
-Me rendront par leur mort tous mes droits usurpés.
-
--*who_zamri
-Quoi! Vous croyez, Seigneur, qu'étonné de l'orage,
-David voudra livrer...
-
--*who_achitophel
-      Je connais ton courage :
-Je sais quel est ton zèle et ta fidélité,
-J'en ai besoin ; apprends ce que j'ai projeté :
-Dès qu'en ces lieux la nuit sera prête à descendre,
-Les troupes d'Amasa doivent ici se rendre ;
-Et le signal donné des murs de Manhaîm,
-Séba doit soulever les soldats d'Ephraïm.
-La garde de David, victime de leur rage,
-Laissera par sa perte un champ libre au carnage.
-Là mes yeux de plaisir et de haine enivrés,
-Du sang de mes rivaux seront désaltérés.
-Toute vaine pitié doit nous être interdite.
-Pour le roi, nous devons faciliter sa fuite :
-Mais à son désespoir s'il se livre aujourd'hui,
-Ses malheurs et sa mort retomberont sur lui.
-Que te dirai-je ! Enfin nos troupes fortunées
-D'un succès glorieux vont être couronnées ;
-Et servant Absalon au-delà de ses voux.
-Je vais mettre en ses mains le sceptre des Hébreux.
-
--*who_zamri
-Mais ne craignez-vous point que plein de sa surprise
-Absalon ne condamne une telle entreprise ?
-Verra-t-il sans horreur son père détrôné ?
-
--*who_achitophel
-Absalon se verra triomphant, couronné,
-Vengé d'un ennemi soigneux de lui déplaire :
-Et dussent tous mes soins attirer sa colère,
-Un trône acquis ainsi le doit épouvanter,
-Et qui le lui donna, le lui pourrait ôter.
-D'ailleurs, quoi qu'en ce jour ma fureur exécute,
-Il aura beau s'en plaindre, il faut qu'il se l'impute.
-Attentif à nourrir ses inclinations,
-J'ai fait à mes desseins servir ses passions.
-Par-là mes attentats deviennent son ouvrage :
-Mais ta frayeur ici me forme un vain orage.
-Allons et ménageons des instants précieux.
-La reine, je l'avoue, ici blesse mes yeux.
-Faisons partir le prince, et tâchons par adresse
-À faire de ces lieux éloigner la princesse.
-Pressons donc leur départ. Cependant viens au roi
-Par un récit trompeur imposer à sa foi ;
-Et le moment d'après, va, cours en diligence
-Hâter le doux instant marqué pour ma vengeance.
-
--*who_zamri
-Mais, Seigneur, que dirai- je ? Et que lui rapporter?
-
--*who_achitophel
-Viens, ton récit est prêt, je vais te le dicter.
-
-**** *book_ *id_II01 *act_II *date_1712
-
--*who_thares
-Non, vous vous obstinez vainement à vous taire ;
-Ce silence renfermé un funeste mystère.
-Quoi ! Loin de vous offrir à nos embrassements,
-Vous semblez à regret voir nos empressements ?
-Quel trouble dans vos yeux, quelle tristesse empreinte
-Frappe et glace mon cour de douleur et de crainte ?
-Hélas ! Depuis le jour qu'un peuple audacieux,
-Vous contraignit à fuir ses complots furieux,
-Stupides de frayeur, de honte consternées,
-Interdites, sans voix, aux pleurs abandonnées,
-Le ciel seul sait combien j'ai tremblé pour vos jours,
-Enfin de nos ennuis interrompant le cours,
-Cisaï, secondé dé guerriers intrépides,
-S'offre à venir ici guider nos pas timides :
-Nous partons, et livrée a l'espoir le plus doux,
-Mes désirs emportaient mon âme jusqu'à vous.
-Je respirais partout le moment plein de charmes
-Où votre vue allait me payer de mes larmes.
-Vain espoir ! Quand la Reine arrivant dans ces lieux,
-Voit la joie et l'amour briller dans tous les yeux,
-Quand le roi semble même oublier sa disgrâce,
-Vous seul en m'abordant, interdit, tout de glace,
-Semblez me présager de plus affreux malheurs,
-Que ceux à qui mes yeux ont donné tant de pleurs.
-
--*who_absalon
-N'imputez point, Tharès, à mon peu de tendresse
-Ce que dans mes regards vous voyez de tristesse :
-Mille soins différents, mille importants projets
-Suspendent de mon cour les mouvements secrets ;
-Ma gloire me défend de m'en laisser surprendre.
-
--*who_thamar
-Eh ! Mon père, daignez un moment les entendre.
-Pouvez-vous me laisser dans le trouble où je suis?
-Nous venons près de vous partager vos ennuis.
-Quels que soient les périls qu'en ces lieux j'envisage.
-Seigneur, votre froideur me touche davantage :
-Laissez tomber sur nous un regard plus serein.
-
--*who_absalon
-Ma fille, vous cherchez à vous troubler en vain ;
-Pour Tharès et pour vous mon cour toujours le même,
-Ressent vos déplaisirs, les partage et vous aime :
-Mais cet amour a beau me flatter en secret,
-Je ne puis sous ces murs vous voir qu'avec regret.
-Entourés d'ennemis, leur fureur menaçante
-A jusque dans ce camp répandu l'épouvante :
-L'effroi, l'horreur, la mort, bientôt sous ces remparts,
-Vont au gré du destin errer de toutes parts.
-Est-il temps que mon cour se livre à sa tendresse ?
-
--*who_thares
-Eh bien ! viens-je exiger de vous quelque faiblesse ?
-Viens-je rendre, seigneur, par des soupirs honteux,
-Entre la gloire et moi le triomphe douteux ?
-Je formerais en vain cette indigne espérance,
-Mes pleurs sur votre cour ont perdu leur puissance;
-Mais non, mes sentiments, toujours dignes de vous,
-Ne feront point rougir le front de mon époux.
-Courez où le devoir et l'honneur vous appelle :
-Mais daignez soulager ma tristesse mortelle ;
-Ne me déguisez plus quels secrets déplaisirs
-À votre cour pressé dérobent des soupirs :
-Car enfin, quel que soit le danger qui vous presse,
-Quoi que puisse pour nous craindre votre tendresse,
-Vous avez dû, Seigneur, content de ce grand jour,
-Nous voir avec transport venir dans un séjour
-Où de moindres périls menacent notre tête,
-Qu'aux lieux où nos vainqueurs n'ont rien qui les arrête.
-D'autres motifs cachés causent votre embarras.
-
--*who_absalon
-Oui, j'ai d'autres motifs, je ne m'en défends pas :
-Vous ne pouvez savoir les maux dont je soupire.
-
--*who_thares
-Je ne puis les savoir ! Si vous me l'osez dire !
-Ainsi nos cours n'ont plus les mêmes intérêts ?
-Eh bien ! Seigneur, il faut respecter vos secrets.
-Pour la première fois, insensible à mes plaintes,
-Votre cour m'a celé ses désirs et ses craintes.
-Je n'en murmure point : mais que jusqu'à ce jour
-Il n'ait montré pour moi ni froideur ni détour ;
-Que par mille douceurs il m'ait accoutumée
-Au plaisir innocent d'aimer et d'être aimée,
-Que ce cour jusqu'ici n'ait rien pu me cacher,
-C'est ce que ma douleur ose vous reprocher.
-
--*who_absalon
-Le temps seul peut vous faire approuver ma conduite ;
-Sans me blâmer, Tharès, attendez-en la suite ;
-Mais faites plus encore, et croyez paon amour :
-Partez, abandonnez un funeste séjour.
-Absalon à regret toutes deux vous renvoie :
-Mais fuyez, que Sion dans ses murs vous revoie :
-Zamri dans un moment y doit guider vos pas,
-Le sage Achitophel lui fournit des soldats.
-Recevez un adieu qui m'arrache à moi-même ;
-Allez.
-
--*who_thares
-      Que je m'éloigne ainsi de ce que j'aime !
-Que ma fuite honteuse aille justifier
-Ce que vos ennemis ont osé publier !
-
--*who_absalon
-Quoi ? Que voulez-vous dire ? Et qu'ont-ils fait entendre ?
-
--*who_thares
-Ignorez-vous les bruits qu'ils viennent de répandre ?
-C'est vous, si l'on en croit leurs traits calomnieux,
-Qui soufflez la révolte à nos séditieux.
-
--*who_absalon
-Moi ?
-
--*who_thares
-      Ces honteux discours sont venus a la reine ;
-Objet infortuné de son injuste haine,
-Elle m'a reproché que d'un sang étranger,
-Parente de Saül, je voulais le venger ;
-Et que, s'il se pouvait que vous fussiez coupable,
-J'avais de vous séduire été seule capable :
-Mais je puis dissiper ces doutes insultants.
-Votre gloire, Seigneur, a gémi trop longtemps.
-Qu'on prépare à Zamri les plus cruels supplices,
-De la rébellion il connaît les complices ;
-Il en est ; que le Roi le force à déclarer...
-
--*who_absalon
-Et sur quel fonderont pouvez-vous l'assurer ?
-
--*who_thares
-Le jour qui précéda celui de notre fuite,
-J'errais dans le palais sans dessein et sans suite :
-Un inconnu m'aborde, et les larmes aux yeux,
-Zamri, vient, me dit-il, d'arriver en ces lieux ;
-Si le ciel vous permet de rejoindre mon maître,
-Dites-lui qu'il s'assure au plus tôt de ce traître :
-Il saura des Hébreux le complot criminel ;
-Enfin qu'il craigne tout, et même Achitophel.
-
--*who_absalon
-Juste ciel !
-
--*who_thares
-      À ces mots voyant quelqu'un paraître,
-Il me quitte, et je cherche en vain à le connaître.
-Voilà ce qu'à David je prétends révéler,
-Les tourments forceront un perfide à parler.
-Allons, et que le traître au milieu...
-
--*who_absalon
-      Non, Madame,
-Renfermez pour jamais ce secret dans votre âme.
-J'ai mes raisons.
-
--*who_thares
-      Qui, moi ? Qu'osez-vous m'ordonner ?
-Vos desseins, vos discours, tout me Eut frissonner.
-Malheureux, est-il vrai ?... mais, Seigneur, je me trouble :
-Calmez, au nom du ciel, ma crainte qui redouble.
-Si vous m'aimez, Seigneur, dissipez mon effroi,
-Je partirai, daignez vous confier à moi.
-
--*who_absalon
-Je le vois bien, il faut tous ouvrir ma pensée.
-Peut-être en l'apprenant en serez-vous blessée.
-Quoi qu'il en soit, le sort en est enfin jeté
-Et rien ne changera ce que j'ai projeté.
-Sans crainte dans ces lieux je puis me faire entendre.
-Ma fille, laissez-nous.
-
--*who_thares
-      Ciel ! Que va-t-il m'apprendre ?
-
-**** *book_ *id_II02 *act_II *date_1712
-
--*who_absalon
-Madame, vous savez par quels motifs secrets
-Joab d'Adonias soutient les intérêts,
-Que sa haine pour moi ne peut plus se contraindre ;
-La mienne trop longtemps s'est bornée à se plaindre ;
-Trop longtemps, du devoir esclave malheureux,
-J'ai connu, j'ai souffert ses complots dangereux.
-De vils flatteurs régnant sur l'esprit de mon père,
-Faisaient pencher son cour du côté de mon frère :
-Il allait, oubliant tout amour paternel,
-Me chasser pour jamais du trône d'Israël ;
-Le perfide Joab emportait la balance.
-Achitophel enfin a rompu le silence :
-J'ai connu mon malheur, mes amis offensés
-Ont pris...
-
--*who_thares
-      Ah ! Je vois tout, Seigneur, c'en est assez ;
-Épargnez-vous l'horreur de me dire le reste.
-Ô de mes noirs soupçons source affreuse et funeste !
-Et vous avez conçu cet horrible dessein !
-Rien ne peut, dites-vous, l'ôter de votre sein ?
-Ah ! Dussiez-vous, pour prix de mon amour fidèle.
-Vouer à votre épouse une haine immortelle,
-J'opposerai du moins mes larmes, mes soupirs
-Au coupable succès où tendent vos désirs.
-
--*who_absalon
-Vous vous formez, Madame, une trop noire idée
-Des soins dont vous voyez mon âme possédée.
-Je ne veux point ravir le sceptre de mon roi,
-Biais m'assurer un bien qui doit n'être qu'à moi.
-
--*who_thares
-Et croyez-vous, Seigneur, pouvoir vous rendre maître
-Des troubles criminels que vous avez fait naître ?
-Achitophel en vous n'a cherché qu'un appui :
-Vous êtes son prétexte, il n'agit que pour lui.
-De cet embrasement que ne dois-je point craindre ?
-Vous l'avez allumé, vous ne pourrez l'éteindre.
-Mais non, repentez-vous, il en est encor temps ;
-Hâtez-vous, saisissez de précieux instants.
-
--*who_absalon
-Que j'abandonne ainsi l'espoir d'une couronne
-Que le sang, que mes droits, qu'un peuple entier me donne ?
-Que Joab voie, au gré de son dépit jaloux,
-Sa haine triompher de mon juste courroux ?
-
--*who_thares
-Non, il ne vous hait point ; l'envie et l'imposture
-Vous ont fait de son cour une finisse peinture :
-Mais dût-il, contre vous conjuré pour jamais,
-Braver votre pouvoir, traverser vos souhaits,
-Dussiez-vous, moins chéri d'un père qui vous aime,
-Renoncer sans retour à sceptre, à diadème,
-Quels maux, quelles horreurs pouvez-vous comparer
-Aux malheurs où ce jour est prêt à vous livrer ?
-Je veux que tout succède au gré de votre envie :
-Quelle honte à jamais va noircir votre vie !
-Que u osera-t-on point contre vous publier ?
-Le trône a-t-il des droits pour vous justifier ?
-Vous chercherez vous-même en vain à vous séduire,
-Vous verrez quels chemins ont su vous y conduire.
-La vertu, le devoir devenus vos bourreaux
-Au fond de votre cour porteront leurs flambeaux ;
-La crainte et les remords vous suivront sur le trône.
-Hé quoi ! Pour être heureux faut-il une couronne ?
-Est-ce un affront pour vous de ne la point porter ?
-Vos vertus seulement doivent la mériter.
-N'allez point, pour jouir d'une indigne vengeance,
-Flétrir tant d'heureux jours coulés dans l'innocence.
-Applaudi, révéré, chacun vous fait la cour,
-Vous êtes d'Israël et la gloire et l'amour ;
-Pour remplir vos désirs tout s'unit, tout conspire :
-Conservez sur les cours ce doux et noble empire.
-Enfin, si votre épouse a sur vous du pouvoir,
-Si mes humbles soupirs vous peuvent émouvoir,
-Souffrez que la raison puisse au moins vous conduire ;
-Et croyez qu'au moment que je cherche à détruire
-Le funeste complot que vous avez formé,
-Jamais mon tendre cour ne vous a plus aimé.
-
--*who_absalon
-Oui, Tharès, je connais quelle est votre tendresse,
-Je vois qu'en me parlant elle seule vous presse ;
-La mienne a pris pour vous trop de soirs d'éclater,
-Vous la connaissez trop, pour eu pouvoir douter.
-Si dans ce grand sujet comprise, intéressée,
-Du moindre des périls vous étiez menacée,
-Sans me faire parler vos pleurs ni vos soupirs,
-Je vous immolerais ma haine et mes désirs :
-Mais souffrez que j'achève une entreprise heureuse.
-La crainte maintenant est seule dangereuse.
-Dussé-je voir enfin mon dessein avorté,
-Je vous l'ai déjà dit, le sort en est jeté.
-Au reste, qu'un secret d'une telle importance
-Demeure anéanti dans un profond silence.
-
--*who_thares
-Ne craignez rien, Seigneur, le plus rude trépas
-À mes regards offert ne m'ébranlerait pas :
-Mais quand vous poursuivez cette affreuse entreprise,
-À suivre ma fureur le devoir m'autorise,
-Et ma mort....
-
--*who_absalon
-      Quel discours ! Et qu'osez-vous penser ?
-
--*who_thares
-Non, Seigneur, mon destin ne se peut balancer :
-Je ne vous verrai point engagé dans le crime,
-Le ciel ici m'inspire un projet magnanime.
-Vous quitterez, Seigneur, un dessein odieux,
-Ou vous verrez Tharès immolée vos yeux.
-
--*who_absalon
-Ah ! Si vous vous portez à cette violence...
-
--*who_thares
-Contraignez-vous, Seigneur, la reine ici s'avance.
-
-**** *book_ *id_II03 *act_II *date_1712
-
--*who_lareine
-Qu'ai-je entendu, mon fils ? Quels bruits injurieux
-La calomnie enfante et répand dans ces lieux ?
-On veut que des mutins vous flattiez l'insolence.
-Près d'un père alarmé j'ai pris votre défense.
-Quoiqu'au sang de Saül votre étroite union
-Vous fasse soupçonner d'un peu d'ambition,
-Je connais vos vertus, mon cour vous croit fidèle,
-Et dans un fils si cher ne peut voir un rebelle.
-
--*who_thares
-Madame, si Saül m'a donné la clarté,
-De sa haine pour vous je n'ai point hérité ;
-Ce sang dont j'ai toujours soutenu la noblesse,
-Ignore ce que c'est que crime et que bassesse :
-Mais avant qu'il soit peu vous me connaîtrez mieux.
-Madame ; je me tais, le roi s'offre à mes yeux.
-
-**** *book_ *id_II04 *act_II *date_1712
-
--*who_david
 Je vous cherche, Absalon. Notre péril augmente.
 Nos insolents vainqueurs préviennent notre attente.
 Zamri m'avait flatté, que lents à s'avancer,
@@ -778,44 +96,9 @@ Ce que l'on a semé pour ternir votre gloire.
 Amasa veut ravir le sceptre de son roi :
 Mais que mon propre fils soit armé contre moi !
 
--*who_absalon
-Que ne puis- je, Seigneur, aux dépens de ma vie,
-De mes persécuteurs confondre ici l'envie ?
-
--*who_david
 Que peuvent-ils, mon fils, quand mon cour vous défend ?
 Je méprise un vain bruit que le peuple répand.
 
--*who_thares
-Et moi je crois, Seigneur, ne devoir point vous taire
-Que ces bruits sont peut-être un avis salutaire.
-Je sais, je vois quel est le cour de mon époux :
-Mais sait-on s'il n'est point de traître parmi nous ?
-Sait-on si dans ce camp quelque secret coupable
-N'a point, pour se cacher, divulgué cette fable ?
-M'en croirez-vous, Seigneur ? Qu'un serment solennel
-Fasse trembler ici quiconque est criminel :
-Le ciel, votre péril, ma gloire intéressée,
-De ce juste projet m'inspirent la pensée.
-Attestez l'éternel qu'avant la fin du jour,
-Si des traîtres cachés par un juste retour
-N'obtiennent le pardon accordé pour leurs crimes,
-Leurs femmes, leurs enfants en seront les victimes.
-Que dans le même instant qu'ils seront découverts,
-Leurs parents dévoués à cent tourments divers,
-Déchirés par le fer, au feu livrés en proie,
-Payeront tous les maux que le ciel vous envoie.
-
--*who_absalon
-Juste dieu, que fait-elle !
-
--*who_cisai
-      Oui, l'on n'en peut douter,
-Seigneur, quelque perfide est tout prêt d'éclater :
-On vous trahit, je sais par des avis fidèles
-Que vos desseins secrets sont connus des rebelles.
-
--*who_david
 Suivons ce qu'à Tharès le ciel daigne inspirer :
 Par ses sages conseils je me sens éclairer.
 Peut-être par un vou terrible, irrévocable,
@@ -827,32 +110,11 @@ Verser tous les malheurs que répand sa colère,
 Si pour les criminels, démentant vos discours,
 Mon injuste pitié leur offre aucun secours !
 
--*who_thares
-Achevez donc, Seigneur, Joab vous est fidèle.
-Ennemi d'Absalon, et pour vous plein de zèle,
-Lui seul me paraît propre à remplir mes desseins :
-Souffrez que je me mette en otage en ses mains.
-
--*who_absalon
-Ciel !
-
--*who_david
       Vous.
 
--*who_thares
-      Il faut, Seigneur, que mon exemple étonne,
-Et montre qu'il n'est point de pardon pour personne.
-
--*who_david
 Votre vertu suffit pour répondre de vous :
 Accompagnez la reine, et suivez votre époux.
 
--*who_thares
-Non, Seigneur, souscrivez à ce que je désire,
-Ma gloire le demande, et le ciel me l'inspire :
-Accordez cette grâce à mes désirs pressants.
-
--*who_david
 Puisque vous le voulez, Madame, j'y consens.
 Toi qui du haut des cieux à nos conseils présides,
 Qui confonds d'un regard les complots des perfides,
@@ -866,326 +128,18 @@ Venez, mon fils : le ciel, que notre malheur touche,
 Accomplira les voux qu'il a mis dans ma bouche.
 Joab marche guidé par le dieu des combats.
 
--*who_thares
-Seigneur, ma fille et moi nous marchons sur vos pas ;
-Et Joab arrivé, nous allons l'une et l'autre
-Remplir auprès de lui mon dessein et le vôtre.
-
-**** *book_ *id_II05 *act_II *date_1712
-
--*who_absalon
-Quel coup de foudre, ô ciel ! Mes sens sont interdits :
-Qu'ai-je ouï ! Quel désordre agite mes esprits !
-Troublé, je vois déjà sur ma tête amassées
-Les malédictions par mon roi prononcées.
-Quelle horreur me saisit ! Quel serment a-t-il fait !
-Ô de mon fol orgueil funeste et juste effet !
-De combien de remords je sens mon âme atteinte !
-Cherchons Achitophel, qu'il dissipe ma crainte.
-Ah ! Que j'éprouve bien en ce fatal moment
-Que le crime avec soi porte son châtiment !
-
-**** *book_ *id_III01 *act_III *date_1712
-
--*who_achitophel
-Je sais tout ; Absalon dans ce lieu va se rendre :
-Mais du camp ennemi n'as-tu rien à m'apprendre ?
-
--*who_zamri
-Seigneur, tantôt à peine ai-je quitté le roi,
-Que j'ai couru remplir votre ordre et mon emploi.
-Les troupes d'Amasa, sans obstacle avancées,
-Sont autour de ce camp par ordre dispersées.
-Le dessein d'Absalon, son nom seul répandu,
-Produit l'heureux effet qu'on avait attendu ;
-Pour régner et pour vaincre il n'a plus qu'à paraître,
-L'armée à haute voix l'a proclamé pour maître :
-Tous nos soldats charmés d'apprendre qu'aujourd'hui
-Leurs bras, déjà vainqueurs, vont combattre pour lui,
-Brûlent de signaler leur zèle et leur courage.
-
--*who_achitophel
-C'est assez, il ne peut reculer davantage ;
-Ses projets divulgués le forcent d'éclater.
-Que n'ai-je su plus tôt le résoudre à quitter?
-Son âme avec Tharès ne se fut point trahie ;
-Tharès pour l'arrêter n'eût point risqué sa vie.
-J'ai prévu ce malheur, je n'ai pu le parer;
-Que sert-il de s'en plaindre ? Il faut le réparer.
-
--*who_absalon
-Séba doit d'Absalon renouveler l'audace,
-Et dérober Tharès au coup qui la menace ;
-Mais la nuit survenant, tout dût-il expirer,
-La conjuration ne se peut différer.
-Point de lâche pitié, point de délai funeste :
-La mort, ou le succès ; voilà ce qui nous reste.
-Mais ne me dis-tu rien de la part d'Amasa ?
-
--*who_zamri
-Il voulait me parler au sujet de Séba :
-Je crois même pour vaut que traçant une lettre,
-Dans mes fidèles mains il allait la remettre,
-Lorsqu'un bruit tout à coup dans l'armée a couru,
-Que hors de notre camp Joab avait paru :
-Amasa m'a quitté, mais je crois qu'il envoie....
-
--*who_achitophel
-Ah ! Qu'il se garde bien de prendre une autre voie.
-On te connaît, pour toi les chemins sont ouverts.
-Retourne ; nous serions peut-être découverts.
-Dis-lui que c'est assez que son bras nous seconde,
-Que dès que le soleil sera caché dans l'onde
-Le sang doit en ces lieux commencer à couler ;
-Que Séba doit pour nous alors se signaler ;
-Qu'à nos cris éclatants tous ses soldats répondent,
-Et bientôt furieux parmi nous se confondent;
-Que de tout par toi seul je veux être éclairci.
-Va, dis-je, Absalon vient, laisse-nous seuls ici.
-
-**** *book_ *id_III02 *act_III *date_1712
-
--*who_achitophel
-Je vous attends, Seigneur ; Séba vous a pu dire
-Quel remède à vos maux notre ardeur nous inspire :
-D'un embarras fatal par nos soins dégagé...
-
--*who_absalon
-Non, Acbitophel, non, mes desseins ont changé :
-Le devoir sur mon cour a repris son empire.
-Faites dire à vos chefs que chacun se retire,
-J'obtiendrai leur pardon ; mais surtout qu'aux soldats
-On cache quel motif avait armé leurs bras,
-D'un si grand changement qu'ils ignorent la cause.
-
--*who_achitophel
-Je le vois bien, l'amour de votre cour dispose.
-Séba n'a pu vous voir : mais n'appréhendez rien,
-J'ai pour sauver Tharès un prompt et sûr moyen.
-
--*who_absalon
-Non, vous dis-je, mon cour ici ne considère
-Que ce qu'il doit au ciel, à l'État, à mon père :
-De mille affreux malheurs je veux rompre le cours.
-
--*who_achitophel
-Ô ciel ! Pouvez-vous bien ne tenir ce discours ?
-À de lâches frayeurs votre cour s'abandonne ?
-
--*who_absalon
-Obéissez ; songez qu'Absalon vous l'ordonne,
-Ou voyez les périls qu'ici vous hasardez.
-
--*who_achitophel
-Eh bien ! Il faut vouloir ce que vous commandez.
-Notre sang est à vous, vous voulez le répandre,
-Car enfin c'est à quoi nous devons nous attendre.
-David sait trop bien l'art de régir ses États,
-Pour oser pardonner de pareils attentats.
-L'exil, les fers, la mort vont être le partage
-De ceux qu'à vous servir un même zèle engage.
-Pour prix de tant de soins, percés de mille coups,
-Leur sang au dieu vengeur va crier contre vous.
-Je sais comme l'on peut, arbitre de sa vie,
-D'une honteuse mort prévenir l'infamie :
-Je ne vous parle point de mon sort malheureux
-Daigne le ciel, touché du dernier de mes voux,
-Empêcher que Joab, par un lâche artifice,
-De vos soumissions bientôt ne vous punisse ;
-Que privé de l'appui que vous trouvez, en nous,
-Il n'échauffe du roi les sentiments jaloux ;
-Que vous-même captif, proscrit par sa colère,
-Vous ne voyiez vos droits passer à votre frère,
-Et vos jours consacrés par un arrêt cruel
-À servir de leçon aux peuples d'Israël !
-
--*who_absalon
-Mais pour sauver Tharès quel moyen peux-tu prendre ?
-D'un trépas odieux la pourras-tu défendre ?
-Que peux-tu ?...
-
--*who_achitophel
-      Je puis tout, secondez-moi, Seigneur ;
-Pourquoi détruisez-vous votre propre bonheur ?
-Séba, tout Ephraïm, gagné par mon adresse,
-Vont au premier signal enlever la princesse,
-La remettre en vos mains, et se joindre avec nous.
-Venez, faites revivre un trop juste courroux.
-Montrez-vous soutenu d'une nombreuse armée ;
-Là n'appréhendant plus pour une épouse aimée,
-Vous perdrez qui vous hait, vous soutiendrez vos droits,
-Et loin de supplier, vous donnerez des lois.
-Vous flattez-vous, ô ciel ! Qu'on puisse à votre père
-Faire de vos complots un éternel mystère ;
-Qu'aucun des conjurés mourant pour Absalon,
-Dans l'horreur des tourments n'avouera votre nom ?
-D'ailleurs comment chasser nos troupes rassemblées,
-Sous un autre prétexte en ces lieux appelées ?
-Ah, Seigneur ! Songez mieux quels sont vos intérêts :
-Ma vie est le garant de celle de Tharès.
-Elle vient
-
--*who_absalon
-      Que mon âme est troublée et flottante !
-Nous résoudrons de tout : va te rendre en ma tente.
-
-**** *book_ *id_III03 *act_III *date_1712
-
--*who_thares
-Je viens ici, Seigneur, le cour saisi d'effroi :
-Tout le camp ennemi vous proclame pour roi.
-David vient à mes yeux d'apprendre cette audace,
-À ses justes soupçons sa tendresse a fait place :
-Par son ordre secret on va vous arrêter,
-L'implacable Joab le doit exécuter.
-Un garde en ma faveur a rompu le silence.
-De ce premier transport fuyez ta violence ;
-Épargnez-moi l'horreur de n'être dans ces lieux
-Que pour vous voir peut-être immoler à mes yeux.
-
--*who_absalon
-Mon père sais mon crime ! Ô Fatale journée !
-Qu'avez-vous fait ? Hélas ! Princesse infortunée,
-Victime d'un courroux que j'ai seul mérité,
-Le roi va vous punir de ma témérité :
-Un horrible serment vous proscris et le lie.
-
--*who_thares
-Fuyez, ne songez plus à prolonger ma vie.
-Puisque sur votre cour mes soupirs n'ont rien pu,
-Qu'ai-je affaire du jour ? J'ai déjà trop vécu.
-Mais que dis-je ? Chassez cette fatale idée ;
-Partez, Seigneur, calmez mon âme intimidée.
-Le ciel à l'innocence enverra du secours,
-Et votre repentir pourra sauver vos jours.
-
--*who_absalon
-Non, non, qu'un même sort aujourd'hui nous rassemble ;
-Ne nous séparons point : venez, fuyons ensemble.
-
--*who_thares
-Eh ! Le puis-je, Seigneur ? Prisonnière en ces lieux,
-Ce camp pour m'observer, ces murs même ont des yeux :
-Je vous perdrais. Allez, et si mon sort vous touche,
-Suivez ce que le ciel vous dicte par ma bouche.
-Livrez Achitophel : désarmez vos soldats ;
-Contre eux, s'il le fallait, employez votre bras :
-À force de vertus méritez votre grâce,
-Par-là dans tous les cours réparez votre audace.
-À quelque excès, Seigneur, que l'on soit arrivé,
-Qui se repent d'un crime en est presque lavé :
-D'ailleurs...
-
--*who_absalon
-      Non, ma fureur me montre une autre voie.
-De nos fiers ennemis nous serions tous la proie.
-Le perfide Joab, implacable pour moi,
-Avide de ma mort, l'obtiendrait de mon roi ;
-Il faut qu'en expirant sa rage soit trompée.
-Mon indigne frayeur est enfin dissipée.
-En vain en vous perdant il croira me braver,
-J'ai des amis ici prêts à vous enlever :
-Si lents à vous servir et remplir ma vengeance,
-Leur zèle répond mal à mon impatience,
-Je viens, sans m'effrayer des plus noirs attentats,
-Demander mon épouse avec cent mille bras.
-
--*who_thares
-Ah ! La vie à ce prix pour moi n'a point de charmes :
-Mais chaque instant pour vous redouble mes alarmes.
-Qu'entends-je ? On vient, fuyez.
-
--*who_absalon
-      Je cours vous secourir.
-
--*who_thares
-Ah ! Quittez ce dessein, et me laissez mourir.
-
-**** *book_ *id_III04 *act_III *date_1712
-
--*who_lisraelite
-Mon abord indiscret a droit de vous surprendre,
-Madame ; mais le prince ici devait se rendre ;
-Je le cherche.
-
--*who_thares
-      Et sur quoi venez-vous le chercher ?
-Son péril vous engage à ne me rien cacher :
-Sans doute c'est à lui que portant cette lettre...
-
--*who_lisraelite
-Oui, madame, Séba vient de me la remettre.
-
--*who_thares
-Donnez.
-
--*who_lisraelite
-      J'aurais voulu...
-
--*who_thares
-      Donnez, ne craignez rien,
-Même intérêt unit et son sort et le mien.
-Juste ciel !
-      C'est assez : rejoignez votre maître ;
-Allez, éloignez-vous, je vois le roi paraître.
-
-**** *book_ *id_III05 *act_III *date_1712
-
--*who_david
 Vous aimez trop un fils digne de mon courroux.
 
--*who_lareine
-Non, seigneur, il n'a point conspiré contre vous ;
-Le mensonge insolent, la lâche calomnie
-D'un souffle empoisonné veulent ternir sa vie.
-
--*who_david
 Je veux douter encor qu'il m'ait manqué de foi.
 Achitophel ici va l'entendre avec moi :
 Ce sage confident, dans mon état funeste,
 De tant d'amis zélés est le seul qui me reste :
 Lui seul...
 
-**** *book_ *id_III06 *act_III *date_1712
-
--*who_joab
-      Il faut, Seigneur, vous armer de vertu.
-Tout autre sous ses maux gémirait abattu :
-Mais, de ses plaisirs, un grand cour est le maître.
-Nous connaissons enfin le perfide, le traître,
-Celui qui, contre vous, arme tant d'ennemis.
-
--*who_david
 Et quel est-il, Joab ?
 
--*who_lareine
-      Je tremble.
-
--*who_joab
-      Votre fils.
-
--*who_david
 Il est donc vrai ?
 
--*who_thares
-      Grand Dieu ! Quelle honte m'accable !
-
--*who_lareine
-Non, Joab, votre cour s'alarme d'une fable,
-D'un bruit par l'imposture et la haine enfanté.
-
--*who_joab
-Ce que j'ose avancer a plus d'autorité.
-Madame, Absalon vient de joindre les rebelles :
-Ceux qui l'ont vu partir sont des sujets fidèles,
-Vaillants, et qui cent fois ont bravé le trépas,
-Tels que les imposteurs en un mot ne sont pas.
-Mais vous pourrez ; seigneur, en savoir davantage ;
-Un soldat ennemi, surpris dans un passage,
-Et dont Cisaï cherche à tirer le secret,
-Du camp des révoltés apportait ce billet.
-
--*who_david
 Voyons.
       « Ne craignez point un changement funeste,
 Que tous vos conjurés se reposent sur moi.
@@ -1197,60 +151,8 @@ C'est sur mon sang que doit éclater ma vengeance.
 Mais quel traître avec lui serait d'intelligence ?
 Quel perfide ?...
 
--*who_joab
-      Seigneur, voulez-vous m'écouter ?
-Entendons ce soldat que l'on vient d'arrêter.
-Cependant de Séba vous connaissez le zèle,
-Confiez votre sort à ce sujet fidèle.
-Tantôt lui faisant part de mon secret effroi,
-Il a brigué l'honneur de veiller sur son roi ;
-Qu'Ephraïm avec lui compose votre garde.
-Juste ciel ! À quels maux votre choix vous hasarde !
-Ceux qui suivent vos pas sont Connus presque tous
-Pour avoir autrefois combattu contre vous,
-Quand, pour vous écarter de la grandeur suprême,
-Saül osait vouloir l'emporter sur Dieu même.
-
--*who_lareine
-Oui, Seigneur, ses amis, le reste de son sang
-Ne peut qu'avec regret vous voir dans ce haut rang :
-Ce sang audacieux nous trompant l'un et l'autre,
-Par l'hymen d'Absalon a corrompu le vôtre ;
-Par-là, n'en doutez point, nous sommes tous trahis.
-C'est ce sang, c'est Saül qui mon fils.
-Vous vous taisez, perfide, et loin de vous défendre.
-Vous osez feindre encor de ne me pas entendre,
-Vous qui de votre époux conduisez le dessein,
-Vous qui seule avez mis la révolte en son sein.
-D'une fausse grandeur à nos yeux revêtue,
-Vous avez su tantôt nous éblouir la vue :
-Vous ne prévoyiez pas qu'une affreuse clarté
-Dût de vos noirs complots percer l'obscurité ;
-Ou peut-être qu'encore un espoir téméraire
-Vous flatte qu'au trépas on viendra vous soustraire :
-Mais je prétends moi-même en hâter les moments.
-Oui, Seigneur, remplissez ma haine et vos serments ;
-Qu'aux yeux de tout le camp on la livre au supplice.
-
--*who_thares
-Madame, je sais trop qu'il faut que je périsse :
-Mais si pour moi la vie avait quelques attraits,
-Si le soin de ma gloire et de vos intérêts,
-Que dis-je ? Si vos jours, mon devoir, la patrie
-Ne m'étaient pas d'un prix préférable à la vie,
-Je vivrais malgré vous, et mille bras offerts
-Viendraient-même à vos yeux m arracher de vos fers.
-
--*who_david
 Quoi ! Madame...
 
--*who_thares
-      Seigneur, ce péril vous regarde ;
-Le soin que prend Joab de changer votre garde,
-Va de vos ennemis assurer les forfaits :
-Lisez, et de Séba reconnaissez les traits.
-
--*who_david
 « Le temps me force à vous écrire,
 À vous entretenir je n'ose m'exposer.
 Pour vous assurer cet empire
@@ -1260,81 +162,20 @@ Rien ne traversera vos voux et nos desseins,
 Et dans une heure au plus je remets en vos mains
 Et votre épouse et votre fille. »
 
--*who_joab
-Le perfide ! Ah ! Je cours moi-même l'arrêter.
-
--*who_david
 Non, ce projet sans bruit se doit exécuter.
 Dites à Cisaï qu'il vienne en diligence.
 
--*who_thares
-Vous savez tout, Seigneur, prenez votre vengeance ;
-Épuisez sur moi seule un trop juste courroux ;
-Cependant j'ose ici parler pour mon époux.
-Il est moins criminel qu'il ne vous paraît l'être,
-Et si contre vos jours la rage anime un traître,
-Autant que je puis lire en d'odieux secrets,
-C'est plus Achitophel, qu'Absalon ni Tharès.
-
--*who_david
 Quel nouveau trouble ! Ô ciel ! Elle jette en mon âme !
 C'est plus Achitophel...
       Ah ! Suivez-la, Madame,
 Parlez, priez, pressez ; et par moins de rigueur
 Tâchez à pénétrer le secret de son cour.
 
--*who_lareine
-Moi, Seigneur !
-
--*who_david
       Il le faut, faites-vous violence.
 Je vais vous joindre, allez ; quelqu'un ici s'avance.
 
-**** *book_ *id_III07 *act_III *date_1712
-
--*who_cisai
-Seigneur, les conjures sont enfin découverts.
-Le soldat qu'on a pris était à peine aux fers,
-Que sa fierté cédant à la peur des supplices,
-Il a d'un noir projet révélé les complices.
-La nuit favorisant leurs complots furieux,
-Ils devaient recevoir l'ennemi dans ces lieux.
-Le traître Achitophel conduisait l'artifice.
-
--*who_david
 Ah ! Qu'entends-je ? Courez, Joab, qu'on le saisisse.
 
--*who_cisai
-Sa fuite au châtiment a dérobé ses jours,
-Il a joint Absalon par de secrets détours :
-Séba même s'armant de fureur et de rage,
-Vient le fer à la main de s'ouvrir un passage.
-Les soldats d'Ephraïm, lui prêtant son appui,
-Assurent sa retraite et marchent après lui.
-Ils désertent en foule, et le camp des rebelles
-De moment en moment prend des forces nouvelles ;
-Déjà même Amasa semble marcher vers nous.
-Rien ne peut sous ces murs nous sauver de leurs coups.
-
--*who_joab
-Rien ne peut nous sauver ? Ô ciel ! Qu'osez- vous dire ?
-Tant que David commande, et que Joab respire,
-Un honteux désespoir ne vous est point permis,
-Et doit n'être connu que de nos ennemis.
-Seigneur, il faut dompter en cette conjoncture
-Ces vulgaires instincts de pitié, de nature :
-Par d'affreux châtiments étonnons des ingrats.
-Marchons, mais que Tharès accompagne mes pas :
-Que tous ceux que le sang unit à des perfides,
-Soient remis en mes mains sous de fidèles guides.
-Allons, et présentons à nos séditieux
-L'épouse d' Absalon immolée à leurs yeux.
-Faisons faire du reste un horrible carnage :
-Ouoi qu'après des mutins puisse tenter la rage,
-Ils en auront déjà reçu le digne fruit,
-Et vous serez vengé du sort qui vous poursuit.
-
--*who_david
 Non, Joab, suspendons un arrêt sanguinaire ;
 La vertu de Tharès vaut bien qu'on le diffère.
 Un roi, quoi qu'un sujet ait fait pour l'outrager,
@@ -1355,10 +196,6 @@ Vous, Cisaï, suivez ce que le ciel m'inspire :
 Et rendons, s'il se peut, le calme à cet empire.
 Allez joindre Absalon.
 
--*who_cisai
-      Moi, seigneur!
-
--*who_david
       Je le veux.
 Le perfide n'est pas au comble de ses voux :
 Il craint pour son épouse une mort légitime,
@@ -1382,10 +219,6 @@ Et contraignez l'ingrat à remplir mon attente.
 Le ciel a vos discours donnera du pouvoir,
 Ne craignez rien.
 
--*who_cisai
-      Seigneur, je ferai mon devoir.
-
--*who_david
 Il suffit. Dieu puissant, notre faible prudence
 En vain sur nos projets fonde son espérance :
 Toi seul du monde entier réglant les mouvements,
@@ -1395,150 +228,19 @@ Roi des rois, c'est de toi que je tiens la couronne ;
 Sers de guide à mes pas chancelants, incertains,
 Je remets mon espoir et ma vie en tes mains.
 
-**** *book_ *id_IV01 *act_IV *date_1712
-
--*who_cisai
-Oui, Seigneur, c'est ici que David doit se rendre :
-Quel succès de vos soins ne doit-on point attendre ?
-Ils rappellent Tharès de l'horreur du tombeau,
-Et vont de la discorde éteindre le flambeau.
-
--*who_absalon
-De quels troubles, grand Dieu, sens-je mon âme atteinte !
-J'y sens naître à la fois et l'espoir et la crainte :
-Ou suis-je ? De mon roi soutiendrai-je l'aspect,
-De ce roi dont le front imprime le respect,
-Que ma révolte accable, en qui la vertu brille ?
-Ô funeste serment ! Ô Tharès ! Ô ma fille !
-Quelle preuve d'amour je vous donne aujourd'hui !
-
--*who_achitophel
-Eh ! Pourquoi vous livrer à ce mortel ennui,
-Seigneur ? Pourquoi ternir l'éclat de votre gloire,
-Et laisser de vos mains arracher la victoire ?
-Du superbe Joab humilions l'orgueil :
-Que de vos ennemis ces champs soient le cercueil ;
-Là, d'un bras que l'amour et la vengeance guide,
-Dérobez votre épouse aux fureurs d'un perfide.
-Voilà le seul conseil qu'on devrait vous donner.
-
--*who_cisai
-Le seul conseil, seigneur ! Daignez me pardonner :
-Mais il faut me montrer votre âme toute entière.
-Formez-vous le dessein d'immoler votre père ?
-
--*who_absalon
-Moi, que d'un crime affreux j'ose souiller mon bras ?
-Non : je veux de Joab punir les attentats,
-Arracher à la mort mon épouse et ma fille,
-Assurer pour jamais le sceptre à ma famille,
-Jouir après David de son auguste rang.
-
--*who_cisai
-Eh bien ! Seigneur, pourquoi répandre tant de sang ?
-Le roi des deux partis retenant la furie,
-Vient ici pour régler le sort de la patrie :
-Vous êtes convenus et des lieux et du temps.
-
--*who_absalon
-Oui, je verrai David, Cisaï, je l'attends :
-J'ai reçu sa parole, et j'ai donné la mienne,
-Il suffit.
-
--*who_achitophel
-      Croyez-vous que ce noud le retienne ?
-Je sais mieux de son cour pénétrer les secrets.
-Que dis-je ? En cet instant peut-être que Tharès,
-D'un injuste serment victime infortunée,
-Voit par le fer cruel trancher sa destinée.
-
--*who_cisai
-Non, Seigneur, elle vit, je réponds de ses jours :
-Mais si d'Achitophel vous croyez les discours,
-Elle est morte ; le Roi, dans sa juste colère,
-Va livrer au trépas et la fille et la mère :
-Pour les en affranchir vos efforts seraient vains.
-
--*who_absalon
-Non, non, elles vivront, leurs jours sont en mes mains.
-Déjà mon cour se livre à la douce espérance...
-
-**** *book_ *id_IV02 *act_IV *date_1712
-
--*who_absalon
-Mais que vois-je ! Le ciel m'exauce par avance.
-Est-ce vous, ô ma fille ? En croirai-je mes yeux ?
-Votre mère avec vous est-elle dans ces lieux ?
-
--*who_thamar
-Non, seigneur : mais la Reine a pris soin de ma vie,
-Et jusque dans ce camp ses femmes m'ont suivie ;
-Elle croit que mon père, attendri par mes pleurs,
-Daignera terminer nos maux et ses douleurs.
-Ma mère condamnant une pitié cruelle,
-Refusait de souffrir qu'on me séparât d'elle ;
-Mes sanglots et mes cris appuyaient ses discours :
-Mais elle a consenti d'accepter mon secours,
-Et je viens à vos pieds vous demander sa vie.
-
--*who_absalon
-Non, n'appréhendez point qu'elle lui soit ravie.
-Mais qu'est-ce que David ordonne de son sort ?
-
--*who_thamar
-Le roi voudrait en vain l'arracher à la mort.
-Tout le peuple à grands cris demande son supplice ;
-Et consentirez-vous, Seigneur, qu'elle périsse ?
-Si je la perds, hélas ! Quel sera mon appui ?
-Dévorée à vos yeux d'un éternel ennui,
-Sans cesse vous verrez sur mon triste visage
-De son trépas fatal la déplorable image,
-Et mes pleurs malgré moi vous rediront toujours,
-Qu'il n'a tenu qu'à vous de conserver ses jours.
-
--*who_absalon
-Je vais bientôt tarir la source de vos larmes,
-Ma fille, bannissez d'inutiles alarmes ;
-Votre père à vos pleurs ne peut rien refuser...
-On vient dans cette tente, allez vous reposer :
-La paix va dès ce jour remplir votre espérance.
-Allez. Mais dans ces lieux quelle troupe s'avance ?
-Quel trouble, quelle horreur me saisit malgré moi !
-Où suis-je ? Juste ciel ! C'est David que je vois.
-
-**** *book_ *id_IV03 *act_IV *date_1712
-
--*who_david
 Oui c'est moi, c'est celui que ta fureur menace.
 Tu frémis ? Soutiens mieux ton orgueilleuse audace :
 Le trouble où je te vois fait honte à ton grand cour,
 Et la crainte sied mal sur le front d'un vainqueur.
 
--*who_absalon
-Seigneur....
-
--*who_david
       Quitte un respect qui n'est que dans ta bouche,
 Et t'apprête à répondre à tout ce qui me touche.
 Mais quand ton bras impie est levé contre moi,
 M'est-il permis d'attendre un service de toi ?
 
--*who_absalon
-Votre puissance ici, Seigneur, est absolue.
-
--*who_david
 Chasse donc ce perfide odieux à ma vue,
 Ce monstre dont l'aspect empoisonne ces lieux.
 
--*who_achitophel
-Je puis....
-
--*who_absalon
-      Obéissez, ôtez-vous de ses yeux.
-
-**** *book_ *id_IV04 *act_IV *date_1712
-
--*who_david
 Enfin nous voilà seuls : je puis jouir sans peine
 Du funeste plaisir de confondre ta haine,
 T'inspirer de toi-même une équitable horreur,
@@ -1588,17 +290,6 @@ Je ne puisse et ne veuille en prendre la vengeance.
 Mais parle. Qui te porte a cette extrémité ?
 Que t'ai-je fait, ingrat, pour être ainsi traité ?
 
--*who_absalon
-Seigneur, si du devoir j'ai franchi les limites,
-Si je suis criminel autant que vous le dites,
-Imputez mes forfaits à mes seuls ennemis,
-Accusez-en Joab, lui seul a tout commis :
-C'est lui dont la fureur, dont la haine couverte
-Trame depuis longtemps le dessein de ma perte.
-Je sais tout ce qu'il peut sur vous, dans votre cour.
-J'ai craint, je l'avouerai...
-
--*who_david
       Faible et honteux détour !
 Cesse de m'accuser de la lâche injustice
 De suivre d'un sujet la haine ou le caprice :
@@ -1609,10 +300,6 @@ Ne mît le sceptre aux mains d'Adonias ton frère.
 À quoi ton lâche orgueil n'a-t-il pas eu recours ?
 Tu veux me détrôner, tu veux trancher mes jours.
 
--*who_absalon
-Trancher vos jours, moi ? Ciel !
-
--*who_david
       Oui, tu le veux, perfide.
 Oses-tu me nier ton dessein parricide ?
 Ces gardes, ces soldats, qui comblant tes souhaits,
@@ -1621,10 +308,6 @@ Qui déposaient mon sceptre en ta main sanguinaire,
 Traître ! Le pouvaient-ils sans la mort de ton père ?
 Tiens, prends, lis.
 
--*who_absalon
-      Je demeure interdit et sans voix.
-
--*who_david
 Je sais tes attentats, fils ingrat, tu le vois.
 Si le ciel n'eût pris soin de veiller sur ma vie,
 Ta rage de mon sang allait être assouvie.
@@ -1650,41 +333,14 @@ Ministre criminel de ses justes vengeances,
 Remplis-les, par ma mort couronne tes offenses ;
 Viens, frappe.
 
--*who_absalon
-      Juste ciel !
-
--*who_david
       Tu trembles, que craint-tu ?
 Tu foules à tes pieds les lois et la vertu,
 Tu forces dans ton cour la nature à se taire :
 Qui peut te retenir ? Frappe, dis-je.
 
--*who_absalon
-      Ah ! Mon père.
-
--*who_david
 Ton père ! Oublie un nom qui ne t'est plus permis.
 Je ne te connais plus : va, tu n'es plus mon fils.
 
--*who_absalon
-Un moment sans courroux, Seigneur, daignez m'entendre :
-Je ne puis ni ne veux chercher à me défendre.
-Il est vrai, mon orgueil a fait mes attentats,
-J'ai craint de voir régner mon frère Adonias,
-Contre le fier Joab j'ai suivi ma colère :
-Mais si je puis encore être cru de mon père,
-S'il peut m'être permis d'attester l'Éternel,
-Voilà ce qui peut seul me rendre criminel.
-Jouet d'un séducteur, qu'à présent je déteste,
-Le traître Acbitophel a commis tout le reste.
-Je sais qu'après les maux que je viens de causer,
-Une fatale erreur ne saurait m'excuser ;
-J'ai tout fait, vengez-vous, punissez un coupable,
-Ou plutôt sauvez-moi du remords qui m'accable :
-Quelque affreux que seront vos justes châtiments,
-Ils n'égaleront point l'horreur de mes tourments.
-
--*who_david
 Ainsi le ciel commence à te rendre justice :
 Ton crime fit ta joie, il fera ton supplice.
 Heureux, si ton remords sincère, fructueux,
@@ -1692,31 +348,10 @@ Produisait en ton âme un retour vertueux !
 Mais ne cherches-tu point à tromper ma clémence,
 Et ta bouche et ton cour sont-ils d'intelligence ?
 
--*who_absalon
-Dans le funeste état, seigneur, où je me vois,
-Mes serments peuvent-ils vous répondre de moi ?
-En moi la vérité doit vous sembler douteuse.
-Quel affront, juste Dieu ! Pour une âme orgueilleuse !
-De quel opprobre affreux viens-je de me couvrir ?
-Je l'ai trop mérité pour ne le pas souffrir.
-Oui, Seigneur, n'en croyez ni ma fierté rendue,
-Ni ma honte à vos yeux sur mon front répandue,
-Ni les pleurs que je verse à vos sacrés genoux :
-Punissez un ingrat, suivez votre courroux.
-
--*who_david
 Lève-toi.
 
--*who_absalon
-      Qu'allez-vous ordonner de ma vie ?
-
--*who_david
 Es-tu prêt à mourir ?
 
--*who_absalon
-      Contentez votre envie.
-
--*who_david
 Mon envie ! Ah cruel ! Dis plutôt mon devoir :
 Je devrais te punir, je ne puis le vouloir.
 Que dis-je ! À quelqu'excès qu'ait monté ton audace,
@@ -1735,52 +370,15 @@ Mais il faut me livrer un traître qui te joue,
 Et me montrer qu'enfin ton cour le désavoue ;
 Il faut que tous tes chefs en mes mains soient remis.
 
--*who_absalon
-C'est peu de vous livrer nos communs ennemis,
-Je veux avec éclat réparer mon offense.
-Comblé de vos bontés, et plein de ma vengeance,
-Le traître Achitophel va périr sous mes coups.
-
--*who_david
 Non, suspends pour un temps ce dangereux courroux.
 Du pouvoir souverain tu n'as que l'apparence,
 Et le lâche en ses mains tient la toute-puissance :
 Tu t'en verrais toi-même, et sans fruit, accablé :
 Il faut... Mais que nous veut Cisaï tout troublé ?
 
-**** *book_ *id_IV05 *act_IV *date_1712
-
--*who_cisai
-Un péril évident en ce lieu vous menace,
-Seigneur : d'Achitophel l'artifice et l'audace
-Jette dans tous les cours le dangereux soupçon
-Que l'on veut de ce camp enlever Absalon.
-
--*who_absalon
-Le traître!
-
--*who_cisai
-      Le soldat le croit, et court aux armes :
-Montrez-vous et calmez ces nouvelles alarmes.
-
--*who_david
 Vous voyez qu'un perfide est le maître en ces lieux :
 Mais il faut prévenir ses desseins odieux.
 
--*who_cisai
-Une terreur secrète a saisi votre armée ;
-D'une trop longue absence inquiète, alarmée,
-Elle vient en fureur redemander son roi ;
-De votre serment même exécutant la loi,
-Joab aux révoltés présente avec furie
-Tous ceux qu'à leurs forfaits l'amour ou le sang lie ;
-Prêt dans ce même instant à les faire périr,
-Si votre heureux retour ne vient les secourir.
-
--*who_absalon
-Ah ! Seigneur, pour Tharès je vous demande grâce.
-
--*who_david
 Ne craignez point, mon fils, le coup qui la menace :
 Mais surtout conservez vos nobles sentiments,
 Et connaissez les miens par mes embrassements.
@@ -1790,68 +388,445 @@ Mais le temps presse, adieu, ne faites rien sans moi,
 Et soyez sûr, mon fils, du cour de votre roi.
 Ne suivez point mes pas.
 
--*who_absalon
-      Seigneur...
-
--*who_david
       Je vous l'ordonne.
 
--*who_absalon
+Nos malheurs sont trop grands pour pouvoir vous les taire.
+À nos cruels vainqueurs rien n'a pu résister,
+Mais il leur reste encor David à surmonter.
+En vain devant leurs pas a marché la victoire,
+Mes yeux ne seront point les témoins de leur gloire ;
+Et je cours...
+
+      Les combattre et mourir.
+
+Trop de honte suivrait une fuite inutile.
+Madame, c'est pour vous que je viens en ces lieux :
+Nos pleurs n'ont point trouvé grâce devant les cieux,
+Vous savez quel serment vous lie à ma colère.
+
+Écoutez-moi, Madame, et suspendez vos larmes.
+C'est peu que mon serment ait réglé votre sort,
+Un peuple audacieux demande votre mort :
+Mes soldats, dont la honte irritera la rage,
+Voudront venger sur vous leur perte et leur outrage :
+En vain à leur fureur je voudrais m'opposer,
+Dans l'état où je suis ils peuvent tout oser :
+Sauvez-vous. Par mon ordre en ces lieux amenée,
+J'ai prévu de nos maux la suite infortunée.
+Par des chemins secrets mille de mes soldats
+Jusqu'au camp du vainqueur vont conduire vos pas :
+Partez. Souvenez-vous que de haine incapable
+David à la vertu fut toujours secourable.
+
+Absalon ne l'est plus ; son repentir sincère
+A ranimé pour lui tout l'amour de son père.
+Le perfide Amasa, le traître Achitophel
+Le forcent d'accomplir leur projet criminel :
+Il n'ose ni ne peut arrêter leur furie.
+Libre de mon serment, je vous rends à la vie.
+Si le ciel à ce jour a fixé mon trépas,
+Qu'Absalon me succède, et ne me venge pas.
+Adieu. Puisse le ciel, pour prix de ma clémence,
+Ne lancer que sur moi les traits de sa vengeance !
+
+Dieu juste ! Tu punis leurs fureurs criminelles :
+Un moment te suffit pour changer notre sort,
+Et tu tiens en tes mains et la vie et la mort.
+
+Juste ciel ! Quel projet a-t-il voulu tenter ?
+
+Achevez : qu'a-t-il fait ?
+
+      Quoi ! Mon fils va paraître !
+De quel succès, grand Dieu, n'êtes-vous pas le maître ?
+Quelle faveur !... Il vient, il s'avance en ces lieux,
+Mais ciel ! En quel état s'offre-t-il à mes yeux ?
+
+Ah ! Que vois-je ? Mon fils, quelle image cruelle !
+Quel est ce sang ? D'où vient cette pâleur mortelle ?
+Le ciel a-t-il toujours été sourd à ma voix ?
+
+Que dites-vous ?
+
+Quelle vengeance, ô ciel ! Ô trop malheureux père !
+Rien n'a donc pu fléchir la céleste colère ?
+Tous nos chefs m'a-t-on dit, allaient vous secourir.
+
+Ciel ! Joab...
+
+Ô mon fils!
+
+
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_absalon
+
+Non, non, Achitophel, je n'en suis plus le maître ;
+Le perfide Joab, fier de plaire à son roi,
+Sans respect pour mon rang, s'ose attaquer à moi ;
+Il cherche, en irritant le courroux qui m'enflamme,
+À me faire trahir le secret de mon âme,
+Et répand dans ce camp, que les séditieux
+N'ont appris que par moi notre abord en ces lieux.
+Ah ! j'atteste du ciel l'immortelle puissance,
+Qu'Absalon punissant un sujet qui l'offense,
+N'en aura pas été vainement outragé.
+
+Je l'ai trop ménagé, son insolence augmente :
+Adonias mon frère appuyant ses projets,
+Ils ont cru m'abaisser au rang de leurs sujets :
+Toi-même ouvrant mes yeux sur leur intelligence,
+J'ai vu que près du roi ménageant leur vengeance,
+Et chassant de David tout amour paternel,
+Je perdais pour jamais le sceptre d'Israël.
+Le roi pour successeur allait nommer mon frère ;
+Et comment retenir une juste colère?
+Moi, je pourrais souffrir qu'un frère audacieux
+Ravît ou partageât la Couronne à mes yeux ?
+Ah ! Si vengeant ma sour des fureurs d'un perfide,
+J'ai pu rougir mon bras d'un fameux homicide :
+Si ce même Joab, pour avoir retardé
+De se rendre à l'endroit ou je l'avais mandé,
+Vit le fer et le feu, conduits par ma vengeance,
+De ses fertiles champs moissonner l'espérance,
+Crois- tu que les projets par ma haine enfantée
+Gardent un prix plus doux à ses témérités ?
+
+Ah ! Sortons, ma fureur ne pourrait se contraindre.
+
+      Quoi ! Seigneur, en s'attaquant a moi.
+Un sujet...
+
+Je l'avouerai, Seigneur, mon aveugle colère
+A trop flatté l'orgueil d'un sujet téméraire.
+J'ai dû le mépriser ou le faire punir :
+Mais quel autre après tout eût pu se contenir ?
+L'insolent,... car en vain je me force au silence,
+M'accuse d'abuser de votre confiance :
+Par moi, s'il en est cru, vos rebelles sujets
+Ont dû de notre fuite apprendre les projets.
+Mon indiscrétion, source de nos disgrâces,
+Les a jusqu'au Jourdain amenés sur nos traces :
+Il veut de nos malheurs m'imputer la moitié,
+Lui qu'avec Amasa joint le sang, l'amitié,
+Et qui, s'il faut chercher ici des infidèles,
+Boit être plus suspect qu'aucun de nos rebelles.
+
+Quel supplice cruel mon cour vient de souffrir !
+Que cet embrassement a redoublé ma haine !
+
+Ah ! Ce n'est point Joab qui suspend mon courroux :
+Cependant....
+
+J'ai conduit tes projets, il faut que je les suive :
+Mais prêt à voir mon bras s'armer contre mon roi,
+Dois-je avoir moins de crainte et de vertu que toi ?
+Écoute, et juge donc des troubles de mon âme.
+Tu sais contre Joab quelle rage m'enflamme :
+Mon cour incessamment dans sa haine affermi
+N'admet point de pardon pour un tel ennemi.
+Mais en vain ma fureur soutient mon entreprise,
+La raison même en vain l'anime et l'autorise,
+Prêt à me nommer chef de la rébellion,
+Je sens fléchir ma haine et mon ambition.
+Mes justes déplaisirs, mes craintes légitimes
+À l'aspect de mon roi me paraissent des crimes.
+J'ai beau me rappeler que devant son trépas
+Mes desseins ne sont point d'envahir ses États ;
+Que jusqu'à ce moment, content de mon partage,
+Je ne veux que punir un sujet qui m'outrage,
+Et me faire nommer l'unique successeur
+Du trône dont mon père est juste possesseur :
+Vains détours ! Je ne puis me cacher à moi-même
+À quoi doit m'obliger le sang, le diadème :
+En proie à des remords sans cesse renaissants,
+Je fuis, pour les chasser, des efforts impuissants,
+Et pour comble des maux où mon malheur me livre,
+Je ne puis sans horreur reculer ni poursuivre.
+
+Hé bien ! en quel état as-tu laissé l'armée ?
+
+Quel fatal contre-temps vient troubler nos desseins !
+
+Hé bien ! Prépare tout, je m'abandonne à toi.
+
+N'imputez point, Tharès, à mon peu de tendresse
+Ce que dans mes regards vous voyez de tristesse :
+Mille soins différents, mille importants projets
+Suspendent de mon cour les mouvements secrets ;
+Ma gloire me défend de m'en laisser surprendre.
+
+Ma fille, vous cherchez à vous troubler en vain ;
+Pour Tharès et pour vous mon cour toujours le même,
+Ressent vos déplaisirs, les partage et vous aime :
+Mais cet amour a beau me flatter en secret,
+Je ne puis sous ces murs vous voir qu'avec regret.
+Entourés d'ennemis, leur fureur menaçante
+A jusque dans ce camp répandu l'épouvante :
+L'effroi, l'horreur, la mort, bientôt sous ces remparts,
+Vont au gré du destin errer de toutes parts.
+Est-il temps que mon cour se livre à sa tendresse ?
+
+Oui, j'ai d'autres motifs, je ne m'en défends pas :
+Vous ne pouvez savoir les maux dont je soupire.
+
+Le temps seul peut vous faire approuver ma conduite ;
+Sans me blâmer, Tharès, attendez-en la suite ;
+Mais faites plus encore, et croyez paon amour :
+Partez, abandonnez un funeste séjour.
+Absalon à regret toutes deux vous renvoie :
+Mais fuyez, que Sion dans ses murs vous revoie :
+Zamri dans un moment y doit guider vos pas,
+Le sage Achitophel lui fournit des soldats.
+Recevez un adieu qui m'arrache à moi-même ;
+Allez.
+
+Quoi ? Que voulez-vous dire ? Et qu'ont-ils fait entendre ?
+
+Moi ?
+
+Et sur quel fonderont pouvez-vous l'assurer ?
+
+Juste ciel !
+
+      Non, Madame,
+Renfermez pour jamais ce secret dans votre âme.
+J'ai mes raisons.
+
+Je le vois bien, il faut tous ouvrir ma pensée.
+Peut-être en l'apprenant en serez-vous blessée.
+Quoi qu'il en soit, le sort en est enfin jeté
+Et rien ne changera ce que j'ai projeté.
+Sans crainte dans ces lieux je puis me faire entendre.
+Ma fille, laissez-nous.
+
+Madame, vous savez par quels motifs secrets
+Joab d'Adonias soutient les intérêts,
+Que sa haine pour moi ne peut plus se contraindre ;
+La mienne trop longtemps s'est bornée à se plaindre ;
+Trop longtemps, du devoir esclave malheureux,
+J'ai connu, j'ai souffert ses complots dangereux.
+De vils flatteurs régnant sur l'esprit de mon père,
+Faisaient pencher son cour du côté de mon frère :
+Il allait, oubliant tout amour paternel,
+Me chasser pour jamais du trône d'Israël ;
+Le perfide Joab emportait la balance.
+Achitophel enfin a rompu le silence :
+J'ai connu mon malheur, mes amis offensés
+Ont pris...
+
+Vous vous formez, Madame, une trop noire idée
+Des soins dont vous voyez mon âme possédée.
+Je ne veux point ravir le sceptre de mon roi,
+Biais m'assurer un bien qui doit n'être qu'à moi.
+
+Que j'abandonne ainsi l'espoir d'une couronne
+Que le sang, que mes droits, qu'un peuple entier me donne ?
+Que Joab voie, au gré de son dépit jaloux,
+Sa haine triompher de mon juste courroux ?
+
+Oui, Tharès, je connais quelle est votre tendresse,
+Je vois qu'en me parlant elle seule vous presse ;
+La mienne a pris pour vous trop de soirs d'éclater,
+Vous la connaissez trop, pour eu pouvoir douter.
+Si dans ce grand sujet comprise, intéressée,
+Du moindre des périls vous étiez menacée,
+Sans me faire parler vos pleurs ni vos soupirs,
+Je vous immolerais ma haine et mes désirs :
+Mais souffrez que j'achève une entreprise heureuse.
+La crainte maintenant est seule dangereuse.
+Dussé-je voir enfin mon dessein avorté,
+Je vous l'ai déjà dit, le sort en est jeté.
+Au reste, qu'un secret d'une telle importance
+Demeure anéanti dans un profond silence.
+
+      Quel discours ! Et qu'osez-vous penser ?
+
+Ah ! Si vous vous portez à cette violence...
+
+Que ne puis- je, Seigneur, aux dépens de ma vie,
+De mes persécuteurs confondre ici l'envie ?
+
+Juste dieu, que fait-elle !
+
+Ciel !
+
+Quel coup de foudre, ô ciel ! Mes sens sont interdits :
+Qu'ai-je ouï ! Quel désordre agite mes esprits !
+Troublé, je vois déjà sur ma tête amassées
+Les malédictions par mon roi prononcées.
+Quelle horreur me saisit ! Quel serment a-t-il fait !
+Ô de mon fol orgueil funeste et juste effet !
+De combien de remords je sens mon âme atteinte !
+Cherchons Achitophel, qu'il dissipe ma crainte.
+Ah ! Que j'éprouve bien en ce fatal moment
+Que le crime avec soi porte son châtiment !
+
+Séba doit d'Absalon renouveler l'audace,
+Et dérober Tharès au coup qui la menace ;
+Mais la nuit survenant, tout dût-il expirer,
+La conjuration ne se peut différer.
+Point de lâche pitié, point de délai funeste :
+La mort, ou le succès ; voilà ce qui nous reste.
+Mais ne me dis-tu rien de la part d'Amasa ?
+
+Non, Acbitophel, non, mes desseins ont changé :
+Le devoir sur mon cour a repris son empire.
+Faites dire à vos chefs que chacun se retire,
+J'obtiendrai leur pardon ; mais surtout qu'aux soldats
+On cache quel motif avait armé leurs bras,
+D'un si grand changement qu'ils ignorent la cause.
+
+Non, vous dis-je, mon cour ici ne considère
+Que ce qu'il doit au ciel, à l'État, à mon père :
+De mille affreux malheurs je veux rompre le cours.
+
+Obéissez ; songez qu'Absalon vous l'ordonne,
+Ou voyez les périls qu'ici vous hasardez.
+
+Mais pour sauver Tharès quel moyen peux-tu prendre ?
+D'un trépas odieux la pourras-tu défendre ?
+Que peux-tu ?...
+
+      Que mon âme est troublée et flottante !
+Nous résoudrons de tout : va te rendre en ma tente.
+
+Mon père sais mon crime ! Ô Fatale journée !
+Qu'avez-vous fait ? Hélas ! Princesse infortunée,
+Victime d'un courroux que j'ai seul mérité,
+Le roi va vous punir de ma témérité :
+Un horrible serment vous proscris et le lie.
+
+Non, non, qu'un même sort aujourd'hui nous rassemble ;
+Ne nous séparons point : venez, fuyons ensemble.
+
+      Non, ma fureur me montre une autre voie.
+De nos fiers ennemis nous serions tous la proie.
+Le perfide Joab, implacable pour moi,
+Avide de ma mort, l'obtiendrait de mon roi ;
+Il faut qu'en expirant sa rage soit trompée.
+Mon indigne frayeur est enfin dissipée.
+En vain en vous perdant il croira me braver,
+J'ai des amis ici prêts à vous enlever :
+Si lents à vous servir et remplir ma vengeance,
+Leur zèle répond mal à mon impatience,
+Je viens, sans m'effrayer des plus noirs attentats,
+Demander mon épouse avec cent mille bras.
+
+      Je cours vous secourir.
+
+De quels troubles, grand Dieu, sens-je mon âme atteinte !
+J'y sens naître à la fois et l'espoir et la crainte :
+Ou suis-je ? De mon roi soutiendrai-je l'aspect,
+De ce roi dont le front imprime le respect,
+Que ma révolte accable, en qui la vertu brille ?
+Ô funeste serment ! Ô Tharès ! Ô ma fille !
+Quelle preuve d'amour je vous donne aujourd'hui !
+
+Moi, que d'un crime affreux j'ose souiller mon bras ?
+Non : je veux de Joab punir les attentats,
+Arracher à la mort mon épouse et ma fille,
+Assurer pour jamais le sceptre à ma famille,
+Jouir après David de son auguste rang.
+
+Oui, je verrai David, Cisaï, je l'attends :
+J'ai reçu sa parole, et j'ai donné la mienne,
+Il suffit.
+
+Non, non, elles vivront, leurs jours sont en mes mains.
+Déjà mon cour se livre à la douce espérance...
+
+Mais que vois-je ! Le ciel m'exauce par avance.
+Est-ce vous, ô ma fille ? En croirai-je mes yeux ?
+Votre mère avec vous est-elle dans ces lieux ?
+
+Non, n'appréhendez point qu'elle lui soit ravie.
+Mais qu'est-ce que David ordonne de son sort ?
+
+Je vais bientôt tarir la source de vos larmes,
+Ma fille, bannissez d'inutiles alarmes ;
+Votre père à vos pleurs ne peut rien refuser...
+On vient dans cette tente, allez vous reposer :
+La paix va dès ce jour remplir votre espérance.
+Allez. Mais dans ces lieux quelle troupe s'avance ?
+Quel trouble, quelle horreur me saisit malgré moi !
+Où suis-je ? Juste ciel ! C'est David que je vois.
+
+Seigneur....
+
+Votre puissance ici, Seigneur, est absolue.
+
+      Obéissez, ôtez-vous de ses yeux.
+
+Seigneur, si du devoir j'ai franchi les limites,
+Si je suis criminel autant que vous le dites,
+Imputez mes forfaits à mes seuls ennemis,
+Accusez-en Joab, lui seul a tout commis :
+C'est lui dont la fureur, dont la haine couverte
+Trame depuis longtemps le dessein de ma perte.
+Je sais tout ce qu'il peut sur vous, dans votre cour.
+J'ai craint, je l'avouerai...
+
+Trancher vos jours, moi ? Ciel !
+
+      Je demeure interdit et sans voix.
+
+      Juste ciel !
+
+      Ah ! Mon père.
+
+Un moment sans courroux, Seigneur, daignez m'entendre :
+Je ne puis ni ne veux chercher à me défendre.
+Il est vrai, mon orgueil a fait mes attentats,
+J'ai craint de voir régner mon frère Adonias,
+Contre le fier Joab j'ai suivi ma colère :
+Mais si je puis encore être cru de mon père,
+S'il peut m'être permis d'attester l'Éternel,
+Voilà ce qui peut seul me rendre criminel.
+Jouet d'un séducteur, qu'à présent je déteste,
+Le traître Acbitophel a commis tout le reste.
+Je sais qu'après les maux que je viens de causer,
+Une fatale erreur ne saurait m'excuser ;
+J'ai tout fait, vengez-vous, punissez un coupable,
+Ou plutôt sauvez-moi du remords qui m'accable :
+Quelque affreux que seront vos justes châtiments,
+Ils n'égaleront point l'horreur de mes tourments.
+
+Dans le funeste état, seigneur, où je me vois,
+Mes serments peuvent-ils vous répondre de moi ?
+En moi la vérité doit vous sembler douteuse.
+Quel affront, juste Dieu ! Pour une âme orgueilleuse !
+De quel opprobre affreux viens-je de me couvrir ?
+Je l'ai trop mérité pour ne le pas souffrir.
+Oui, Seigneur, n'en croyez ni ma fierté rendue,
+Ni ma honte à vos yeux sur mon front répandue,
+Ni les pleurs que je verse à vos sacrés genoux :
+Punissez un ingrat, suivez votre courroux.
+
+      Qu'allez-vous ordonner de ma vie ?
+
+      Contentez votre envie.
+
+C'est peu de vous livrer nos communs ennemis,
+Je veux avec éclat réparer mon offense.
+Comblé de vos bontés, et plein de ma vengeance,
+Le traître Achitophel va périr sous mes coups.
+
+Le traître!
+
+Ah ! Seigneur, pour Tharès je vous demande grâce.
+
+      Seigneur...
+
 Retournons... Mais d'horreur je sens que je frissonne ;
 L'impie Achitophel s'ose offrir à mes yeux.
 
-**** *book_ *id_IV06 *act_IV *date_1712
-
--*who_achitophel
-Hé bien ! Seigneur, David règne-t-il en ces lieux ?
-Lui sacrifiez-vous, au gré de son envie,
-Votre gloire, vos droits, notre sang, votre vie ?
-À ses discours flatteurs vous êtes-vous rendu ?
-Qu'ai-je ouï ? Quelle audace ! Ai-je bien entendu ?
-Perfide, oses-tu donc me tenir ce langage,
-Toi dont j'ai découvert l'artifice et la rage,
-Qui jusques à ton roi portais tes attentats ?
-
--*who_achitophel
-Je l'ai fait, je l'ai dû, je ne m'en repens pas.
-Appelez mon dessein sacrilège, exécrable :
-Mais songez qu'après tout vous en êtes coupable.
-
--*who_absalon
 Moi, perfide ?
 
--*who_achitophel
-      Vous seul. Pour qui, troublant l'État,
-Ai-je bravé les noms de perfide et d'ingrat ?
-David vous a fléchi par de vaines caresses,
-Allez voir quels effets ont suivi ses promesses ;
-Le superbe Joab s'approche avec fureur :
-Il a dans tout ce camp fait voler la terreur.
-Nos femmes, nos enfants dans ses mains redoutables,
-Du serment de David victimes déplorables,
-Vont terminer leurs jours par des tourments affreux
-Pensez-vous que Tharès ait un sort plus heureux ?
-Allez : et si leur sang, si leur mort peut vous plaire,
-Achetez à ce prix une paix sanguinaire.
-
--*who_absalon
 Joab à cet excès ne s'est point emporté,
 Le roi d'un vain espoir ne m'aurait point flatté...
 Non, non.
 
-**** *book_ *id_IV07 *act_IV *date_1712
-
--*who_absalon
       Mais, Cisaï, que venez-vous m'apprendre ?
 
--*who_cisai
-Le roi dans son armée enfin vient de se rendre ;
-Amasa hors du camp sans votre ordre avancé,
-Par la main de Joab vient d'être repoussé ;
-Rien n'a pu retenir leur fureur allumée :
-Mais cette émotion sera bientôt calmée.
-
--*who_absalon
 Non : Joab ne prenant que sa haine pour loi,
 Ose ici m'attaquer sans l'aveu de son roi !
 Allons, et rassemblons les chefs de mon armée.
@@ -1868,9 +843,790 @@ Malgré tout ton pouvoir, ne te livre au supplice :
 Et si tu crains la mort due à tant de forfaits,
 Sauve-toi, disparais de ces lieux pour jamais.
 
-**** *book_ *id_IV08 *act_IV *date_1712
+Je me jette à vos pieds pour la dernière fois.
 
--*who_achitophel
+      Calmez la douleur qui vous presse.
+Indigne de vos pleurs et de votre tendresse,
+Mes odieux complots vous ont trop outragé ;
+Je meurs, le ciel est juste, et vous êtes vengé.
+
+Ils y volaient, Seigneur, mais je devais périr.
+Les mutins ranimés ont voulu, pleins d'audace,
+Rompre les nouds cruels, auteurs de ma disgrâce,
+Et d'un trait qu'en fureur Joab avait lancé,
+Votre malheureux fils en leurs mains est percé.
+
+      N'imputez mon trépas légitime
+Qu'au traître Achitophel, ou plutôt qu'à mon crime.
+L'Éternel de Joab a guidé le courroux,
+Je viens vous demander sa grâce à vos genoux :
+Trop heureux, quand je meurs, de jouir de la gloire
+D'avoir pu sur ma haine emporter la victoire !
+Vous le voyez, Tharès, votre époux malheureux
+Veut suivre, mais trop tard, vos conseils généreux :
+Cachez-moi vos douleurs, épargnez ma faiblesse.
+Vous, Seigneur, regardez cette jeune princesse.
+Déjà mille vertus, dignes de votre sang,
+L'élèvent au-dessus de son auguste rang ;
+Je remets en vos mains et la fille et la mère :
+Daignez les adopter, et leur servir de père.
+Veuille le juste ciel, comblant mes derniers voux,
+Aux dépens de mon sang vous rendre tous heureux !...
+Mais ma raison s'éteint... ma force diminue...
+Et la clarté des cieux se dérobe à ma vue...
+Je frissonne... mon sang se glace... je frémis..
+Ah ! mon père... Seigneur... Ciel ! Je meurs.
+
+
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thares
+
+Non, vous vous obstinez vainement à vous taire ;
+Ce silence renfermé un funeste mystère.
+Quoi ! Loin de vous offrir à nos embrassements,
+Vous semblez à regret voir nos empressements ?
+Quel trouble dans vos yeux, quelle tristesse empreinte
+Frappe et glace mon cour de douleur et de crainte ?
+Hélas ! Depuis le jour qu'un peuple audacieux,
+Vous contraignit à fuir ses complots furieux,
+Stupides de frayeur, de honte consternées,
+Interdites, sans voix, aux pleurs abandonnées,
+Le ciel seul sait combien j'ai tremblé pour vos jours,
+Enfin de nos ennuis interrompant le cours,
+Cisaï, secondé dé guerriers intrépides,
+S'offre à venir ici guider nos pas timides :
+Nous partons, et livrée a l'espoir le plus doux,
+Mes désirs emportaient mon âme jusqu'à vous.
+Je respirais partout le moment plein de charmes
+Où votre vue allait me payer de mes larmes.
+Vain espoir ! Quand la Reine arrivant dans ces lieux,
+Voit la joie et l'amour briller dans tous les yeux,
+Quand le roi semble même oublier sa disgrâce,
+Vous seul en m'abordant, interdit, tout de glace,
+Semblez me présager de plus affreux malheurs,
+Que ceux à qui mes yeux ont donné tant de pleurs.
+
+Eh bien ! viens-je exiger de vous quelque faiblesse ?
+Viens-je rendre, seigneur, par des soupirs honteux,
+Entre la gloire et moi le triomphe douteux ?
+Je formerais en vain cette indigne espérance,
+Mes pleurs sur votre cour ont perdu leur puissance;
+Mais non, mes sentiments, toujours dignes de vous,
+Ne feront point rougir le front de mon époux.
+Courez où le devoir et l'honneur vous appelle :
+Mais daignez soulager ma tristesse mortelle ;
+Ne me déguisez plus quels secrets déplaisirs
+À votre cour pressé dérobent des soupirs :
+Car enfin, quel que soit le danger qui vous presse,
+Quoi que puisse pour nous craindre votre tendresse,
+Vous avez dû, Seigneur, content de ce grand jour,
+Nous voir avec transport venir dans un séjour
+Où de moindres périls menacent notre tête,
+Qu'aux lieux où nos vainqueurs n'ont rien qui les arrête.
+D'autres motifs cachés causent votre embarras.
+
+Je ne puis les savoir ! Si vous me l'osez dire !
+Ainsi nos cours n'ont plus les mêmes intérêts ?
+Eh bien ! Seigneur, il faut respecter vos secrets.
+Pour la première fois, insensible à mes plaintes,
+Votre cour m'a celé ses désirs et ses craintes.
+Je n'en murmure point : mais que jusqu'à ce jour
+Il n'ait montré pour moi ni froideur ni détour ;
+Que par mille douceurs il m'ait accoutumée
+Au plaisir innocent d'aimer et d'être aimée,
+Que ce cour jusqu'ici n'ait rien pu me cacher,
+C'est ce que ma douleur ose vous reprocher.
+
+      Que je m'éloigne ainsi de ce que j'aime !
+Que ma fuite honteuse aille justifier
+Ce que vos ennemis ont osé publier !
+
+Ignorez-vous les bruits qu'ils viennent de répandre ?
+C'est vous, si l'on en croit leurs traits calomnieux,
+Qui soufflez la révolte à nos séditieux.
+
+      Ces honteux discours sont venus a la reine ;
+Objet infortuné de son injuste haine,
+Elle m'a reproché que d'un sang étranger,
+Parente de Saül, je voulais le venger ;
+Et que, s'il se pouvait que vous fussiez coupable,
+J'avais de vous séduire été seule capable :
+Mais je puis dissiper ces doutes insultants.
+Votre gloire, Seigneur, a gémi trop longtemps.
+Qu'on prépare à Zamri les plus cruels supplices,
+De la rébellion il connaît les complices ;
+Il en est ; que le Roi le force à déclarer...
+
+Le jour qui précéda celui de notre fuite,
+J'errais dans le palais sans dessein et sans suite :
+Un inconnu m'aborde, et les larmes aux yeux,
+Zamri, vient, me dit-il, d'arriver en ces lieux ;
+Si le ciel vous permet de rejoindre mon maître,
+Dites-lui qu'il s'assure au plus tôt de ce traître :
+Il saura des Hébreux le complot criminel ;
+Enfin qu'il craigne tout, et même Achitophel.
+
+      À ces mots voyant quelqu'un paraître,
+Il me quitte, et je cherche en vain à le connaître.
+Voilà ce qu'à David je prétends révéler,
+Les tourments forceront un perfide à parler.
+Allons, et que le traître au milieu...
+
+      Qui, moi ? Qu'osez-vous m'ordonner ?
+Vos desseins, vos discours, tout me Eut frissonner.
+Malheureux, est-il vrai ?... mais, Seigneur, je me trouble :
+Calmez, au nom du ciel, ma crainte qui redouble.
+Si vous m'aimez, Seigneur, dissipez mon effroi,
+Je partirai, daignez vous confier à moi.
+
+      Ciel ! Que va-t-il m'apprendre ?
+
+      Ah ! Je vois tout, Seigneur, c'en est assez ;
+Épargnez-vous l'horreur de me dire le reste.
+Ô de mes noirs soupçons source affreuse et funeste !
+Et vous avez conçu cet horrible dessein !
+Rien ne peut, dites-vous, l'ôter de votre sein ?
+Ah ! Dussiez-vous, pour prix de mon amour fidèle.
+Vouer à votre épouse une haine immortelle,
+J'opposerai du moins mes larmes, mes soupirs
+Au coupable succès où tendent vos désirs.
+
+Et croyez-vous, Seigneur, pouvoir vous rendre maître
+Des troubles criminels que vous avez fait naître ?
+Achitophel en vous n'a cherché qu'un appui :
+Vous êtes son prétexte, il n'agit que pour lui.
+De cet embrasement que ne dois-je point craindre ?
+Vous l'avez allumé, vous ne pourrez l'éteindre.
+Mais non, repentez-vous, il en est encor temps ;
+Hâtez-vous, saisissez de précieux instants.
+
+Non, il ne vous hait point ; l'envie et l'imposture
+Vous ont fait de son cour une finisse peinture :
+Mais dût-il, contre vous conjuré pour jamais,
+Braver votre pouvoir, traverser vos souhaits,
+Dussiez-vous, moins chéri d'un père qui vous aime,
+Renoncer sans retour à sceptre, à diadème,
+Quels maux, quelles horreurs pouvez-vous comparer
+Aux malheurs où ce jour est prêt à vous livrer ?
+Je veux que tout succède au gré de votre envie :
+Quelle honte à jamais va noircir votre vie !
+Que u osera-t-on point contre vous publier ?
+Le trône a-t-il des droits pour vous justifier ?
+Vous chercherez vous-même en vain à vous séduire,
+Vous verrez quels chemins ont su vous y conduire.
+La vertu, le devoir devenus vos bourreaux
+Au fond de votre cour porteront leurs flambeaux ;
+La crainte et les remords vous suivront sur le trône.
+Hé quoi ! Pour être heureux faut-il une couronne ?
+Est-ce un affront pour vous de ne la point porter ?
+Vos vertus seulement doivent la mériter.
+N'allez point, pour jouir d'une indigne vengeance,
+Flétrir tant d'heureux jours coulés dans l'innocence.
+Applaudi, révéré, chacun vous fait la cour,
+Vous êtes d'Israël et la gloire et l'amour ;
+Pour remplir vos désirs tout s'unit, tout conspire :
+Conservez sur les cours ce doux et noble empire.
+Enfin, si votre épouse a sur vous du pouvoir,
+Si mes humbles soupirs vous peuvent émouvoir,
+Souffrez que la raison puisse au moins vous conduire ;
+Et croyez qu'au moment que je cherche à détruire
+Le funeste complot que vous avez formé,
+Jamais mon tendre cour ne vous a plus aimé.
+
+Ne craignez rien, Seigneur, le plus rude trépas
+À mes regards offert ne m'ébranlerait pas :
+Mais quand vous poursuivez cette affreuse entreprise,
+À suivre ma fureur le devoir m'autorise,
+Et ma mort....
+
+Non, Seigneur, mon destin ne se peut balancer :
+Je ne vous verrai point engagé dans le crime,
+Le ciel ici m'inspire un projet magnanime.
+Vous quitterez, Seigneur, un dessein odieux,
+Ou vous verrez Tharès immolée vos yeux.
+
+Contraignez-vous, Seigneur, la reine ici s'avance.
+
+Madame, si Saül m'a donné la clarté,
+De sa haine pour vous je n'ai point hérité ;
+Ce sang dont j'ai toujours soutenu la noblesse,
+Ignore ce que c'est que crime et que bassesse :
+Mais avant qu'il soit peu vous me connaîtrez mieux.
+Madame ; je me tais, le roi s'offre à mes yeux.
+
+Et moi je crois, Seigneur, ne devoir point vous taire
+Que ces bruits sont peut-être un avis salutaire.
+Je sais, je vois quel est le cour de mon époux :
+Mais sait-on s'il n'est point de traître parmi nous ?
+Sait-on si dans ce camp quelque secret coupable
+N'a point, pour se cacher, divulgué cette fable ?
+M'en croirez-vous, Seigneur ? Qu'un serment solennel
+Fasse trembler ici quiconque est criminel :
+Le ciel, votre péril, ma gloire intéressée,
+De ce juste projet m'inspirent la pensée.
+Attestez l'éternel qu'avant la fin du jour,
+Si des traîtres cachés par un juste retour
+N'obtiennent le pardon accordé pour leurs crimes,
+Leurs femmes, leurs enfants en seront les victimes.
+Que dans le même instant qu'ils seront découverts,
+Leurs parents dévoués à cent tourments divers,
+Déchirés par le fer, au feu livrés en proie,
+Payeront tous les maux que le ciel vous envoie.
+
+Achevez donc, Seigneur, Joab vous est fidèle.
+Ennemi d'Absalon, et pour vous plein de zèle,
+Lui seul me paraît propre à remplir mes desseins :
+Souffrez que je me mette en otage en ses mains.
+
+      Il faut, Seigneur, que mon exemple étonne,
+Et montre qu'il n'est point de pardon pour personne.
+
+Non, Seigneur, souscrivez à ce que je désire,
+Ma gloire le demande, et le ciel me l'inspire :
+Accordez cette grâce à mes désirs pressants.
+
+Seigneur, ma fille et moi nous marchons sur vos pas ;
+Et Joab arrivé, nous allons l'une et l'autre
+Remplir auprès de lui mon dessein et le vôtre.
+
+Je viens ici, Seigneur, le cour saisi d'effroi :
+Tout le camp ennemi vous proclame pour roi.
+David vient à mes yeux d'apprendre cette audace,
+À ses justes soupçons sa tendresse a fait place :
+Par son ordre secret on va vous arrêter,
+L'implacable Joab le doit exécuter.
+Un garde en ma faveur a rompu le silence.
+De ce premier transport fuyez ta violence ;
+Épargnez-moi l'horreur de n'être dans ces lieux
+Que pour vous voir peut-être immoler à mes yeux.
+
+Fuyez, ne songez plus à prolonger ma vie.
+Puisque sur votre cour mes soupirs n'ont rien pu,
+Qu'ai-je affaire du jour ? J'ai déjà trop vécu.
+Mais que dis-je ? Chassez cette fatale idée ;
+Partez, Seigneur, calmez mon âme intimidée.
+Le ciel à l'innocence enverra du secours,
+Et votre repentir pourra sauver vos jours.
+
+Eh ! Le puis-je, Seigneur ? Prisonnière en ces lieux,
+Ce camp pour m'observer, ces murs même ont des yeux :
+Je vous perdrais. Allez, et si mon sort vous touche,
+Suivez ce que le ciel vous dicte par ma bouche.
+Livrez Achitophel : désarmez vos soldats ;
+Contre eux, s'il le fallait, employez votre bras :
+À force de vertus méritez votre grâce,
+Par-là dans tous les cours réparez votre audace.
+À quelque excès, Seigneur, que l'on soit arrivé,
+Qui se repent d'un crime en est presque lavé :
+D'ailleurs...
+
+Ah ! La vie à ce prix pour moi n'a point de charmes :
+Mais chaque instant pour vous redouble mes alarmes.
+Qu'entends-je ? On vient, fuyez.
+
+Ah ! Quittez ce dessein, et me laissez mourir.
+
+      Et sur quoi venez-vous le chercher ?
+Son péril vous engage à ne me rien cacher :
+Sans doute c'est à lui que portant cette lettre...
+
+Donnez.
+
+      Donnez, ne craignez rien,
+Même intérêt unit et son sort et le mien.
+Juste ciel !
+      C'est assez : rejoignez votre maître ;
+Allez, éloignez-vous, je vois le roi paraître.
+
+      Grand Dieu ! Quelle honte m'accable !
+
+Madame, je sais trop qu'il faut que je périsse :
+Mais si pour moi la vie avait quelques attraits,
+Si le soin de ma gloire et de vos intérêts,
+Que dis-je ? Si vos jours, mon devoir, la patrie
+Ne m'étaient pas d'un prix préférable à la vie,
+Je vivrais malgré vous, et mille bras offerts
+Viendraient-même à vos yeux m arracher de vos fers.
+
+      Seigneur, ce péril vous regarde ;
+Le soin que prend Joab de changer votre garde,
+Va de vos ennemis assurer les forfaits :
+Lisez, et de Séba reconnaissez les traits.
+
+Vous savez tout, Seigneur, prenez votre vengeance ;
+Épuisez sur moi seule un trop juste courroux ;
+Cependant j'ose ici parler pour mon époux.
+Il est moins criminel qu'il ne vous paraît l'être,
+Et si contre vos jours la rage anime un traître,
+Autant que je puis lire en d'odieux secrets,
+C'est plus Achitophel, qu'Absalon ni Tharès.
+
+Ah ! Ma fille, qui sait quel sera son courroux ?
+On ne jette sur moi que des regards farouches,
+L'arrêt de mon trépas sort de toutes les bouches.
+Je sais que plus sensible, et prompt à pardonner,
+Le roi voit à regret qu'il doit nous condamner :
+Mais que peut-il pour nous, lorsqu'un peuple en furie
+Veut que l'on nous immole à sa gloire flétrie ?
+Je vous tiens en tremblant un funeste discours :
+Cependant si le ciel disposait de nos jours,
+Ma fille, croyez-vous pouvoir avec constance
+Ne point trahir l'orgueil d'une illustre naissance.
+Vous vous troublez ! je vois vos pleurs prêts à couler.
+
+C'est donc à mon trépas à venger vos malheurs.
+
+Je n'en murmure point, il faut la satisfaire.
+Mais souffrez qu'en mourant pour son injuste époux
+Une mère éplorée embrasse vos genoux :
+Ma fille... ce seul nom vous montre mes alarmes.
+
+Que le courroux du ciel tombe plutôt sur moi !
+Non, je ne suivrai point l'ennemi de mon roi...
+
+Ah ! Mon époux est mort, je n'en saurais douter.
+
+      Ô mon cher Absalon ! Pourrai-je vous survivre ?
+Non, non, dans le tombeau vous me verrez vous suivre.
+
+
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thamar
+
+Eh ! Mon père, daignez un moment les entendre.
+Pouvez-vous me laisser dans le trouble où je suis?
+Nous venons près de vous partager vos ennuis.
+Quels que soient les périls qu'en ces lieux j'envisage.
+Seigneur, votre froideur me touche davantage :
+Laissez tomber sur nous un regard plus serein.
+
+Non, seigneur : mais la Reine a pris soin de ma vie,
+Et jusque dans ce camp ses femmes m'ont suivie ;
+Elle croit que mon père, attendri par mes pleurs,
+Daignera terminer nos maux et ses douleurs.
+Ma mère condamnant une pitié cruelle,
+Refusait de souffrir qu'on me séparât d'elle ;
+Mes sanglots et mes cris appuyaient ses discours :
+Mais elle a consenti d'accepter mon secours,
+Et je viens à vos pieds vous demander sa vie.
+
+Le roi voudrait en vain l'arracher à la mort.
+Tout le peuple à grands cris demande son supplice ;
+Et consentirez-vous, Seigneur, qu'elle périsse ?
+Si je la perds, hélas ! Quel sera mon appui ?
+Dévorée à vos yeux d'un éternel ennui,
+Sans cesse vous verrez sur mon triste visage
+De son trépas fatal la déplorable image,
+Et mes pleurs malgré moi vous rediront toujours,
+Qu'il n'a tenu qu'à vous de conserver ses jours.
+
+Ah ! Ne me laissez point en proie à mes alarmes,
+Cher Cisaï, parlez : à qui dois-je mes larmes ?
+Quel tumulte, quel bruit, quels cris pleins de fureur !
+Tout me glace d'effroi, tout me saisit d'horreur.
+Le roi victorieux a-t-il puni mon père ?
+Un rigoureux serment a-t-il proscrit ma mère ?
+Et moi-même réduite à marcher sur leurs pas,
+Vais-je apprendre de vous l'arrêt de mon trépas ?
+
+La paix ! Ah ! Voulez-vous me cacher mes malheurs ?
+
+      Le ciel permet que je vous voie,
+Madame, pardonnez ce transport à ma joie.
+Que cette chère vue adoucit mes ennuis,
+Et que j'en ai besoin dans le trouble où je suis !
+Mais plus tranquille enfin daignerez-vous m'apprendre
+Quel bonheur à mes voux vient ici de vous rendre ?
+Le sort nous montre-t-il un visage plus doux ?
+
+Eh ! Pourquoi devant vous vouloir dissimuler ?
+J'avouerai que peu faite à cette affreuse image,
+Malgré moi je frémis lorsque je l'envisage.
+Je ne vous promets point de braver le trépas,
+Mais, Madame, du moins je ne me plaindrai pas :
+Cependant Cisaï, pour calmer mes alarmes,
+Me flattait que la paix allait sécher nos larmes.
+Vaine espérance, hélas !
+
+      Jour heureux !
+
+
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_joab
+
+Moi suspect, juste ciel ! Qu'ose-t-on avancer ?
+Non, le prince, Seigneur, ne saurait le penser.
+Je ne me lave point d'une injure cruelle :
+C'est à ceux de qui l'âme et lâche et criminelle
+À ces honteux excès se pourrait oublier,
+D'emprunter des raisons pour se justifier.
+Informé qu'Amasa par un avis sincère
+Avait de nos desseins dévoilé le mystère,
+J'ai dit qu'un confident, ou traître ou peu discret,
+Peut-être avait du Prince appris notre secret :
+Voilà quel est mon crime, et le seul trait d'audace
+Qui puisse d'Absalon m'attirer la disgrâce.
+Un plus juste sujet demande son courroux.
+N'en doutez point, Seigneur, un traître est parmi nous.
+C'est peu qu'on ait appris nos démarches passées,
+Le perfide Amasa lit même en nos pensées :
+Du pontife Sadoc le sage et digne fils
+M'éclaire chaque jour par de secrets avis ;
+Un billet qu'en mes mains il a su faire rendre
+M'apprend que l'ennemi veut ici nous surprendre ;
+Qu'il sait qu'aux Gétéens nous avons eu recours ;
+Que demain sous ces murs l'on attend leur secours ;
+Que voulant m'opposer a des troupes rebelles,
+J'ai proposé sans fruit d'aller fondre sur elles ;
+Qu'Achitophel alors, contraire à mes avis,
+À lui seul empêché qu'ils n'aient été suivis.
+
+Ne perdons point de temps, songeons, quel qu'il puisse être,
+À prévenir ses coups plutôt qu'à le connaître.
+Vous savez quel courage anime vos soldats,
+Ils braveront la mort en marchant sur vos pas.
+Venez, et du Jourdain franchissant les rivages,
+Au rebelle Amasa fermons-en les passages.
+Je joindrai le perfide, et lui perçant le flanc,
+Je laverai la honte imprimée à mon sang.
+En vain tout Israël s'arme pour un rebelle,
+Le nombre ne doit point ralentir notre zèle.
+Des méchants dans le crime engagés lâchement
+Combattent avec crainte et vainquent rarement.
+La solide valeur n'admet point l'injustice.
+Ce sont des criminels qui craindront le supplice.
+Vous les verrez tremblants tomber à vos genoux,
+Et déjà les remords ont combattu pour nous.
+Au reste pour un fils ne prenez point d'alarmes,
+Je sais qu'Adonias est déjà sous les armes.
+De nos malheurs pressants, instruit par mon secours,
+Tout Juda s'est armé pour conserver ses jours :
+Mais de ce côté seul la tempête menace,
+Il faut à ses éclats opposer notre audace,
+Et j'ose présumer que ce dessein hardi
+Sera d'Achitophel justement applaudi.
+
+      Il faut, Seigneur, vous armer de vertu.
+Tout autre sous ses maux gémirait abattu :
+Mais, de ses plaisirs, un grand cour est le maître.
+Nous connaissons enfin le perfide, le traître,
+Celui qui, contre vous, arme tant d'ennemis.
+
+      Votre fils.
+
+Ce que j'ose avancer a plus d'autorité.
+Madame, Absalon vient de joindre les rebelles :
+Ceux qui l'ont vu partir sont des sujets fidèles,
+Vaillants, et qui cent fois ont bravé le trépas,
+Tels que les imposteurs en un mot ne sont pas.
+Mais vous pourrez ; seigneur, en savoir davantage ;
+Un soldat ennemi, surpris dans un passage,
+Et dont Cisaï cherche à tirer le secret,
+Du camp des révoltés apportait ce billet.
+
+      Seigneur, voulez-vous m'écouter ?
+Entendons ce soldat que l'on vient d'arrêter.
+Cependant de Séba vous connaissez le zèle,
+Confiez votre sort à ce sujet fidèle.
+Tantôt lui faisant part de mon secret effroi,
+Il a brigué l'honneur de veiller sur son roi ;
+Qu'Ephraïm avec lui compose votre garde.
+Juste ciel ! À quels maux votre choix vous hasarde !
+Ceux qui suivent vos pas sont Connus presque tous
+Pour avoir autrefois combattu contre vous,
+Quand, pour vous écarter de la grandeur suprême,
+Saül osait vouloir l'emporter sur Dieu même.
+
+Le perfide ! Ah ! Je cours moi-même l'arrêter.
+
+Rien ne peut nous sauver ? Ô ciel ! Qu'osez- vous dire ?
+Tant que David commande, et que Joab respire,
+Un honteux désespoir ne vous est point permis,
+Et doit n'être connu que de nos ennemis.
+Seigneur, il faut dompter en cette conjoncture
+Ces vulgaires instincts de pitié, de nature :
+Par d'affreux châtiments étonnons des ingrats.
+Marchons, mais que Tharès accompagne mes pas :
+Que tous ceux que le sang unit à des perfides,
+Soient remis en mes mains sous de fidèles guides.
+Allons, et présentons à nos séditieux
+L'épouse d' Absalon immolée à leurs yeux.
+Faisons faire du reste un horrible carnage :
+Ouoi qu'après des mutins puisse tenter la rage,
+Ils en auront déjà reçu le digne fruit,
+Et vous serez vengé du sort qui vous poursuit.
+
+
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achitophel
+
+À quel excès, Ô ciel, osez-vous vous porter ?
+Vous vous perdez, Seigneur, est-il temps d'éclater ?
+À ces ardents transports défendez de paraître.
+
+Avant la fin du jour vous en serez vengé :
+Modérez cependant cette haine éclatante.
+
+Suspendez donc, Seigneur, l'ardeur qui vous anime ;
+Jusqu'au pied de l'autel conduisons la victime.
+Dans mes justes desseins aussi hardi qu'heureux
+J'ai fait à la révolte animer les Hébreux ;
+Accablés, gémissants sous des tyrans avides,
+Leur timide fureur n'attendait que des guides :
+Amasa de ma part a servi leur courroux,
+Ou plutôt Amasa les a séduits pour vous.
+Tout nous a réussi ; leur armée intrépide
+N'a point trouvé d'obstacle à sa course rapide.
+Retracez-vous encor cette nuit dont l'horreur
+Jusqu'au sein de David a porté la terreur,
+Lorsque Jérusalem, ouvrant toutes ses portes,
+Et des séditieux appuyant les cohortes,
+L'a forcé, sans secours d'armes ni de soldats,
+De porter jusqu'ici sa frayeur et ses pas.
+Que n'éclatais-je alors ? Nous n'avions rien a craindre,
+Dans le sang de Joab ma rage allait s'éteindre ;
+Car enfin sa valeur, il le faut avouer,
+A contraint de tout temps l'envie à le louer.
+Il peut faire entre nous balancer la fortune,
+Et j'aurais prévenu cette crainte importune.
+À suivre ici David devais-tu me forcer ?
+
+La tribu d'Éphraïm nous pouvait traverser ;
+J'ignore même encor, si sous nos lois rangée,
+Dans la sédition elle s'est engagée.
+Zamri dans un moment va nous en informer,
+Rien après ce succès ne doit nous alarmer.
+Paraissez, j'y consens : loin que l'on noua soupçonne,
+Voire père en ces lieux à ma foi s'abandonne.
+Ainsi sans hasarder... Mais le roi vient à nous,
+Joab le suit, cachez un dangereux courroux.
+
+Oui, Seigneur, de Joab j'admire le vrai zèle :
+Jamais dans vos États un sujet plus fidèle
+Ne vous a mieux prouvé son courage et sa foi,
+Et n'a mieux mérité l'estime de son Roi.
+Le projet qu'à présent sa valeur lui suggère
+Peut devenir heureux pourvu qu'on le diffère :
+Demain les Gétéens, unis à vos soldats,
+Contre les révoltés marcheront sur nos pas.
+Nous pourrons, plus nombreux, tenter le sort des armes.
+Cependant pour la Reine apaisez vos alarmes :
+Zamri nous doit bientôt instruire de son sort.
+Et je ne puis penser que livrée à la mort....
+
+Je le vois bien, Seigneur, il faut nous découvrir.
+
+Rendez votre vengeance égale à votre peine,
+Voici l'heureux instant que tout doit éclater,
+Il faut partir.... Eh quoi ! Qui vous peut arrêter ?
+Tantôt avec Joab ne pouvant vous contraindre,
+Votre juste fureur ne voyait rien à craindre.
+
+      Achevez, ciel ! je frémis pour vous.
+La victoire a suivi le parti de vos armes :
+Mais quel sujet affreux de douleur et d'alarmes,
+Si la foudre en vos mains, prête à vous obéir,
+Allait en vains éclats se perdre et vous trahir ?
+Que dis-je ? Nous avons trop grossi le nuage,
+Pour pouvoir en éclairs voir dissiper l'orage :
+Adonias est roi, vous êtes immolé,
+Si l'un de nos secrets est enfin révélé.
+J'avouerai que frappé d'une importune idée,
+Ma vertu quelquefois se trouve intimidée :
+Mais mon zèle pour vous étouffe mes remords,
+Et dans les grands périls il faut de grands efforts.
+Rassurez donc, seigneur, votre âme trop craintive.
+
+À des Scrupules vains faut-il vous arrêter?
+Seigneur, fuyez un lieu propre à les irriter.
+Au milieu des soldats que vous allez conduire,
+Libre des préjugés qui viennent vous séduire,
+Vous verrez qu'appuyé sur d'équitables lois,
+Vous pouvez vous armer pour soutenir vos droits.
+Partez donc, et chassez une crainte frivole.
+Le moment le plus cher comme un autre s'envole.
+Dès qu'auprès de ce camp paraîtront vos soldats,
+J'irai vous consacrer mes conseils et mon bras.
+Ma fuite jusque-là découvrirait la vôtre,
+Et peut-être sans fruit nous perdrait l'un et l'autre.
+Cependant attendons pour sortir de ces lieux
+Que Zamri de retour.... Mais il s'offre à nos yeux.
+
+Non, Seigneur, votre sort est toujours dans vos mains ;
+Cachez-leur nos secrets avec un soin fidèle,
+Et laissez gouverner tout le reste à mon zèle.
+Commencez par remplir un trop juste devoir ;
+La Reine vient, partez, allez la recevoir.
+Quelque obstacle nouveau que le ciel fasse naître,
+De votre prompt départ je vous rendrai le maître :
+Je réponds du succès, reposez-vous sur moi.
+
+Nous sommes seuls, prends part à ma secrète joie ;
+Enfin mes ennemis vont devenir ma proie.
+Joab, Abiatar, Aduram, Cisaï,
+Le superbe Sadoc, le fier Abisaï,
+Tous ceux qui réunis par leur haine commune,
+Prétendent sur ma chute élever leur fortune,
+Avant la fin du jour, surpris, enveloppés,
+Me rendront par leur mort tous mes droits usurpés.
+
+      Je connais ton courage :
+Je sais quel est ton zèle et ta fidélité,
+J'en ai besoin ; apprends ce que j'ai projeté :
+Dès qu'en ces lieux la nuit sera prête à descendre,
+Les troupes d'Amasa doivent ici se rendre ;
+Et le signal donné des murs de Manhaîm,
+Séba doit soulever les soldats d'Ephraïm.
+La garde de David, victime de leur rage,
+Laissera par sa perte un champ libre au carnage.
+Là mes yeux de plaisir et de haine enivrés,
+Du sang de mes rivaux seront désaltérés.
+Toute vaine pitié doit nous être interdite.
+Pour le roi, nous devons faciliter sa fuite :
+Mais à son désespoir s'il se livre aujourd'hui,
+Ses malheurs et sa mort retomberont sur lui.
+Que te dirai-je ! Enfin nos troupes fortunées
+D'un succès glorieux vont être couronnées ;
+Et servant Absalon au-delà de ses voux.
+Je vais mettre en ses mains le sceptre des Hébreux.
+
+Absalon se verra triomphant, couronné,
+Vengé d'un ennemi soigneux de lui déplaire :
+Et dussent tous mes soins attirer sa colère,
+Un trône acquis ainsi le doit épouvanter,
+Et qui le lui donna, le lui pourrait ôter.
+D'ailleurs, quoi qu'en ce jour ma fureur exécute,
+Il aura beau s'en plaindre, il faut qu'il se l'impute.
+Attentif à nourrir ses inclinations,
+J'ai fait à mes desseins servir ses passions.
+Par-là mes attentats deviennent son ouvrage :
+Mais ta frayeur ici me forme un vain orage.
+Allons et ménageons des instants précieux.
+La reine, je l'avoue, ici blesse mes yeux.
+Faisons partir le prince, et tâchons par adresse
+À faire de ces lieux éloigner la princesse.
+Pressons donc leur départ. Cependant viens au roi
+Par un récit trompeur imposer à sa foi ;
+Et le moment d'après, va, cours en diligence
+Hâter le doux instant marqué pour ma vengeance.
+
+Viens, ton récit est prêt, je vais te le dicter.
+
+Je sais tout ; Absalon dans ce lieu va se rendre :
+Mais du camp ennemi n'as-tu rien à m'apprendre ?
+
+C'est assez, il ne peut reculer davantage ;
+Ses projets divulgués le forcent d'éclater.
+Que n'ai-je su plus tôt le résoudre à quitter?
+Son âme avec Tharès ne se fut point trahie ;
+Tharès pour l'arrêter n'eût point risqué sa vie.
+J'ai prévu ce malheur, je n'ai pu le parer;
+Que sert-il de s'en plaindre ? Il faut le réparer.
+
+Ah ! Qu'il se garde bien de prendre une autre voie.
+On te connaît, pour toi les chemins sont ouverts.
+Retourne ; nous serions peut-être découverts.
+Dis-lui que c'est assez que son bras nous seconde,
+Que dès que le soleil sera caché dans l'onde
+Le sang doit en ces lieux commencer à couler ;
+Que Séba doit pour nous alors se signaler ;
+Qu'à nos cris éclatants tous ses soldats répondent,
+Et bientôt furieux parmi nous se confondent;
+Que de tout par toi seul je veux être éclairci.
+Va, dis-je, Absalon vient, laisse-nous seuls ici.
+
+Je vous attends, Seigneur ; Séba vous a pu dire
+Quel remède à vos maux notre ardeur nous inspire :
+D'un embarras fatal par nos soins dégagé...
+
+Je le vois bien, l'amour de votre cour dispose.
+Séba n'a pu vous voir : mais n'appréhendez rien,
+J'ai pour sauver Tharès un prompt et sûr moyen.
+
+Ô ciel ! Pouvez-vous bien ne tenir ce discours ?
+À de lâches frayeurs votre cour s'abandonne ?
+
+Eh bien ! Il faut vouloir ce que vous commandez.
+Notre sang est à vous, vous voulez le répandre,
+Car enfin c'est à quoi nous devons nous attendre.
+David sait trop bien l'art de régir ses États,
+Pour oser pardonner de pareils attentats.
+L'exil, les fers, la mort vont être le partage
+De ceux qu'à vous servir un même zèle engage.
+Pour prix de tant de soins, percés de mille coups,
+Leur sang au dieu vengeur va crier contre vous.
+Je sais comme l'on peut, arbitre de sa vie,
+D'une honteuse mort prévenir l'infamie :
+Je ne vous parle point de mon sort malheureux
+Daigne le ciel, touché du dernier de mes voux,
+Empêcher que Joab, par un lâche artifice,
+De vos soumissions bientôt ne vous punisse ;
+Que privé de l'appui que vous trouvez, en nous,
+Il n'échauffe du roi les sentiments jaloux ;
+Que vous-même captif, proscrit par sa colère,
+Vous ne voyiez vos droits passer à votre frère,
+Et vos jours consacrés par un arrêt cruel
+À servir de leçon aux peuples d'Israël !
+
+      Je puis tout, secondez-moi, Seigneur ;
+Pourquoi détruisez-vous votre propre bonheur ?
+Séba, tout Ephraïm, gagné par mon adresse,
+Vont au premier signal enlever la princesse,
+La remettre en vos mains, et se joindre avec nous.
+Venez, faites revivre un trop juste courroux.
+Montrez-vous soutenu d'une nombreuse armée ;
+Là n'appréhendant plus pour une épouse aimée,
+Vous perdrez qui vous hait, vous soutiendrez vos droits,
+Et loin de supplier, vous donnerez des lois.
+Vous flattez-vous, ô ciel ! Qu'on puisse à votre père
+Faire de vos complots un éternel mystère ;
+Qu'aucun des conjurés mourant pour Absalon,
+Dans l'horreur des tourments n'avouera votre nom ?
+D'ailleurs comment chasser nos troupes rassemblées,
+Sous un autre prétexte en ces lieux appelées ?
+Ah, Seigneur ! Songez mieux quels sont vos intérêts :
+Ma vie est le garant de celle de Tharès.
+Elle vient
+
+Eh ! Pourquoi vous livrer à ce mortel ennui,
+Seigneur ? Pourquoi ternir l'éclat de votre gloire,
+Et laisser de vos mains arracher la victoire ?
+Du superbe Joab humilions l'orgueil :
+Que de vos ennemis ces champs soient le cercueil ;
+Là, d'un bras que l'amour et la vengeance guide,
+Dérobez votre épouse aux fureurs d'un perfide.
+Voilà le seul conseil qu'on devrait vous donner.
+
+      Croyez-vous que ce noud le retienne ?
+Je sais mieux de son cour pénétrer les secrets.
+Que dis-je ? En cet instant peut-être que Tharès,
+D'un injuste serment victime infortunée,
+Voit par le fer cruel trancher sa destinée.
+
+Je puis....
+
+Hé bien ! Seigneur, David règne-t-il en ces lieux ?
+Lui sacrifiez-vous, au gré de son envie,
+Votre gloire, vos droits, notre sang, votre vie ?
+À ses discours flatteurs vous êtes-vous rendu ?
+Qu'ai-je ouï ? Quelle audace ! Ai-je bien entendu ?
+Perfide, oses-tu donc me tenir ce langage,
+Toi dont j'ai découvert l'artifice et la rage,
+Qui jusques à ton roi portais tes attentats ?
+
+Je l'ai fait, je l'ai dû, je ne m'en repens pas.
+Appelez mon dessein sacrilège, exécrable :
+Mais songez qu'après tout vous en êtes coupable.
+
+      Vous seul. Pour qui, troublant l'État,
+Ai-je bravé les noms de perfide et d'ingrat ?
+David vous a fléchi par de vaines caresses,
+Allez voir quels effets ont suivi ses promesses ;
+Le superbe Joab s'approche avec fureur :
+Il a dans tout ce camp fait voler la terreur.
+Nos femmes, nos enfants dans ses mains redoutables,
+Du serment de David victimes déplorables,
+Vont terminer leurs jours par des tourments affreux
+Pensez-vous que Tharès ait un sort plus heureux ?
+Allez : et si leur sang, si leur mort peut vous plaire,
+Achetez à ce prix une paix sanguinaire.
+
 Je préviendrai bientôt le coup qui me menace.
 Ciel ! puis-je soutenir ma honte et ma disgrâce ?
 Digne fruit de mes soins ! Mais pourquoi me troubler ?
@@ -1888,169 +1644,94 @@ Il est un sûr moyen d'ensevelir ma honte :
 Et tout homme à son gré peut défier le sort,
 Quand il voit d'un même oil et la vie et la mort.
 
-**** *book_ *id_V01 *act_V *date_1712
 
--*who_thamar
-Ah ! Ne me laissez point en proie à mes alarmes,
-Cher Cisaï, parlez : à qui dois-je mes larmes ?
-Quel tumulte, quel bruit, quels cris pleins de fureur !
-Tout me glace d'effroi, tout me saisit d'horreur.
-Le roi victorieux a-t-il puni mon père ?
-Un rigoureux serment a-t-il proscrit ma mère ?
-Et moi-même réduite à marcher sur leurs pas,
-Vais-je apprendre de vous l'arrêt de mon trépas ?
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cisai
 
--*who_cisai
+      Oui, l'on n'en peut douter,
+Seigneur, quelque perfide est tout prêt d'éclater :
+On vous trahit, je sais par des avis fidèles
+Que vos desseins secrets sont connus des rebelles.
+
+Seigneur, les conjures sont enfin découverts.
+Le soldat qu'on a pris était à peine aux fers,
+Que sa fierté cédant à la peur des supplices,
+Il a d'un noir projet révélé les complices.
+La nuit favorisant leurs complots furieux,
+Ils devaient recevoir l'ennemi dans ces lieux.
+Le traître Achitophel conduisait l'artifice.
+
+Sa fuite au châtiment a dérobé ses jours,
+Il a joint Absalon par de secrets détours :
+Séba même s'armant de fureur et de rage,
+Vient le fer à la main de s'ouvrir un passage.
+Les soldats d'Ephraïm, lui prêtant son appui,
+Assurent sa retraite et marchent après lui.
+Ils désertent en foule, et le camp des rebelles
+De moment en moment prend des forces nouvelles ;
+Déjà même Amasa semble marcher vers nous.
+Rien ne peut sous ces murs nous sauver de leurs coups.
+
+      Moi, seigneur!
+
+      Seigneur, je ferai mon devoir.
+
+Oui, Seigneur, c'est ici que David doit se rendre :
+Quel succès de vos soins ne doit-on point attendre ?
+Ils rappellent Tharès de l'horreur du tombeau,
+Et vont de la discorde éteindre le flambeau.
+
+Le seul conseil, seigneur ! Daignez me pardonner :
+Mais il faut me montrer votre âme toute entière.
+Formez-vous le dessein d'immoler votre père ?
+
+Eh bien ! Seigneur, pourquoi répandre tant de sang ?
+Le roi des deux partis retenant la furie,
+Vient ici pour régler le sort de la patrie :
+Vous êtes convenus et des lieux et du temps.
+
+Non, Seigneur, elle vit, je réponds de ses jours :
+Mais si d'Achitophel vous croyez les discours,
+Elle est morte ; le Roi, dans sa juste colère,
+Va livrer au trépas et la fille et la mère :
+Pour les en affranchir vos efforts seraient vains.
+
+Un péril évident en ce lieu vous menace,
+Seigneur : d'Achitophel l'artifice et l'audace
+Jette dans tous les cours le dangereux soupçon
+Que l'on veut de ce camp enlever Absalon.
+
+      Le soldat le croit, et court aux armes :
+Montrez-vous et calmez ces nouvelles alarmes.
+
+Une terreur secrète a saisi votre armée ;
+D'une trop longue absence inquiète, alarmée,
+Elle vient en fureur redemander son roi ;
+De votre serment même exécutant la loi,
+Joab aux révoltés présente avec furie
+Tous ceux qu'à leurs forfaits l'amour ou le sang lie ;
+Prêt dans ce même instant à les faire périr,
+Si votre heureux retour ne vient les secourir.
+
+Le roi dans son armée enfin vient de se rendre ;
+Amasa hors du camp sans votre ordre avancé,
+Par la main de Joab vient d'être repoussé ;
+Rien n'a pu retenir leur fureur allumée :
+Mais cette émotion sera bientôt calmée.
+
 Non, Madame, cessez en vain d'être alarmée :
 Le désordre s'est mis dans l'une et l'autre armée,
 Mais la paix va bientôt terminer vos douleurs.
 
--*who_thamar
-La paix ! Ah ! Voulez-vous me cacher mes malheurs ?
-
--*who_cisai
 Daignez croire, Madame, un serviteur fidèle.
 Loin de vous dans ce camp l'ordre du roi m'appelle.
 Rassurez vos esprits ; votre sort va changer,
 Par ce que vous voyez commencez d'en juger.
 Je vous laisse.
 
-**** *book_ *id_V02 *act_V *date_1712
-
--*who_thamar
-      Le ciel permet que je vous voie,
-Madame, pardonnez ce transport à ma joie.
-Que cette chère vue adoucit mes ennuis,
-Et que j'en ai besoin dans le trouble où je suis !
-Mais plus tranquille enfin daignerez-vous m'apprendre
-Quel bonheur à mes voux vient ici de vous rendre ?
-Le sort nous montre-t-il un visage plus doux ?
-
--*who_thares
-Ah ! Ma fille, qui sait quel sera son courroux ?
-On ne jette sur moi que des regards farouches,
-L'arrêt de mon trépas sort de toutes les bouches.
-Je sais que plus sensible, et prompt à pardonner,
-Le roi voit à regret qu'il doit nous condamner :
-Mais que peut-il pour nous, lorsqu'un peuple en furie
-Veut que l'on nous immole à sa gloire flétrie ?
-Je vous tiens en tremblant un funeste discours :
-Cependant si le ciel disposait de nos jours,
-Ma fille, croyez-vous pouvoir avec constance
-Ne point trahir l'orgueil d'une illustre naissance.
-Vous vous troublez ! je vois vos pleurs prêts à couler.
-
--*who_thamar
-Eh ! Pourquoi devant vous vouloir dissimuler ?
-J'avouerai que peu faite à cette affreuse image,
-Malgré moi je frémis lorsque je l'envisage.
-Je ne vous promets point de braver le trépas,
-Mais, Madame, du moins je ne me plaindrai pas :
-Cependant Cisaï, pour calmer mes alarmes,
-Me flattait que la paix allait sécher nos larmes.
-Vaine espérance, hélas !
-
-**** *book_ *id_V03 *act_V *date_1712
-
--*who_lareine
-      Ah ! Madame, apprenez
-À quels affreux malheurs nous sommes condamnés,
-L'impie Achitophel, auteur de nos alarmes,
-Voit la victoire injuste attachée à ses armes :
-Ainsi trouvant partout des complots odieux,
-Il n'est de sûreté pour nous que dans ces lieux :
-Et quel asile ? Hélas ! Dans un moment peut-être
-L'ennemi triomphant va s'en rendre le maître.
-
--*who_thares
-C'est donc à mon trépas à venger vos malheurs.
-
--*who_lareine
-N'aigrissez point encor de trop justes douleurs.
-Dans un temps plus heureux vous connaîtrez ; madame,
-Ce que le repentir peut produire en une âme,
-Mes yeux sur vos vertus enfin se sont ouverts.
-Mais le roi vient à nous, tous les moments tout chers.
-
-**** *book_ *id_V04 *act_V *date_1712
-
--*who_lareine
-Le ciel s'obstine-t-il à nous être contraire ?
-
--*who_david
-Nos malheurs sont trop grands pour pouvoir vous les taire.
-À nos cruels vainqueurs rien n'a pu résister,
-Mais il leur reste encor David à surmonter.
-En vain devant leurs pas a marché la victoire,
-Mes yeux ne seront point les témoins de leur gloire ;
-Et je cours...
-
--*who_lareine
-      Ah ! Seigneur, où voulez-vous courir ?
-Que pouvez-vous encor ?
-
--*who_david
-      Les combattre et mourir.
-
--*who_lareine
-Vivez plutôt, fuyons, cherchons un autre asile.
-
--*who_david
-Trop de honte suivrait une fuite inutile.
-Madame, c'est pour vous que je viens en ces lieux :
-Nos pleurs n'ont point trouvé grâce devant les cieux,
-Vous savez quel serment vous lie à ma colère.
-
--*who_thares
-Je n'en murmure point, il faut la satisfaire.
-Mais souffrez qu'en mourant pour son injuste époux
-Une mère éplorée embrasse vos genoux :
-Ma fille... ce seul nom vous montre mes alarmes.
-
--*who_david
-Écoutez-moi, Madame, et suspendez vos larmes.
-C'est peu que mon serment ait réglé votre sort,
-Un peuple audacieux demande votre mort :
-Mes soldats, dont la honte irritera la rage,
-Voudront venger sur vous leur perte et leur outrage :
-En vain à leur fureur je voudrais m'opposer,
-Dans l'état où je suis ils peuvent tout oser :
-Sauvez-vous. Par mon ordre en ces lieux amenée,
-J'ai prévu de nos maux la suite infortunée.
-Par des chemins secrets mille de mes soldats
-Jusqu'au camp du vainqueur vont conduire vos pas :
-Partez. Souvenez-vous que de haine incapable
-David à la vertu fut toujours secourable.
-
--*who_thares
-Que le courroux du ciel tombe plutôt sur moi !
-Non, je ne suivrai point l'ennemi de mon roi...
-
--*who_david
-Absalon ne l'est plus ; son repentir sincère
-A ranimé pour lui tout l'amour de son père.
-Le perfide Amasa, le traître Achitophel
-Le forcent d'accomplir leur projet criminel :
-Il n'ose ni ne peut arrêter leur furie.
-Libre de mon serment, je vous rends à la vie.
-Si le ciel à ce jour a fixé mon trépas,
-Qu'Absalon me succède, et ne me venge pas.
-Adieu. Puisse le ciel, pour prix de ma clémence,
-Ne lancer que sur moi les traits de sa vengeance !
-
-**** *book_ *id_V05 *act_V *date_1712
-
--*who_cisai
 Tout a changé, Seigneur, la victoire est à nous :
 Tout fuit du fier Joab l'implacable courroux,
 Partout on voit nos champs teints du sang des rebelles.
 
--*who_david
-Dieu juste ! Tu punis leurs fureurs criminelles :
-Un moment te suffit pour changer notre sort,
-Et tu tiens en tes mains et la vie et la mort.
-
--*who_cisai
 Avant que l'ennemi, chassé par votre armée ;
 Eût repris sa fureur par sa honte allumée,
 Des ordres de Joab dix mille hommes instruits,
@@ -2090,20 +1771,9 @@ Avoir pris le parti qu'exigeait sa vertu,
 À l'aspect de Joab, vainqueur comblé de gloire,
 A voulu de ses mains enlever la victoire.
 
--*who_david
-Juste ciel ! Quel projet a-t-il voulu tenter ?
-
--*who_thares
-Ah ! Mon époux est mort, je n'en saurais douter.
-
--*who_cisai
 Non, Madame, il respire, et bientôt sa présence
 Va de votre douleur calmer la violence.
 
--*who_david
-Achevez : qu'a-t-il fait ?
-
--*who_cisai
       Ralliant ses soldats,
 Il marche plein d'audace au-devant de nos pas :
 Contre le seul Joab sa colère l'entraîne ;
@@ -2123,77 +1793,44 @@ Allez, portez au roi cette heureuse nouvelle,
 Me dit-il ; l'Éternel a rempli ses desseins,
 Et son fils va bientôt être mis en ses mains.
 
--*who_lareine
-Dieu puissant !
 
--*who_thamar
-      Jour heureux !
+**** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamri
 
--*who_david
-      Quoi ! Mon fils va paraître !
-De quel succès, grand Dieu, n'êtes-vous pas le maître ?
-Quelle faveur !... Il vient, il s'avance en ces lieux,
-Mais ciel ! En quel état s'offre-t-il à mes yeux ?
+Seigneur, d'un zèle ardent on la voit animée :
+La tribu d'Éphraim vient de se joindre à nous ;
+Pour passer le Jourdain on n'attend plus que vous.
+Cependant un spectacle ici va vous surprendre ;
+Cisaï dans ce camp vient enfin de se rendre.
+Il conduit à David un renfort de soldats,
+La Reine votre mère accompagne ses pas ;
+Et la jeune Thamar, fruit de votre hyménée,
+Est avec votre épouse en ces lieux amenée.
 
-**** *book_ *id_V06 *act_V *date_1712
+Quoi! Vous croyez, Seigneur, qu'étonné de l'orage,
+David voudra livrer...
 
--*who_david
-Ah ! Que vois-je ? Mon fils, quelle image cruelle !
-Quel est ce sang ? D'où vient cette pâleur mortelle ?
-Le ciel a-t-il toujours été sourd à ma voix ?
+Mais ne craignez-vous point que plein de sa surprise
+Absalon ne condamne une telle entreprise ?
+Verra-t-il sans horreur son père détrôné ?
 
--*who_absalon
-Je me jette à vos pieds pour la dernière fois.
+Mais, Seigneur, que dirai- je ? Et que lui rapporter?
 
--*who_david
-Que dites-vous ?
+Seigneur, tantôt à peine ai-je quitté le roi,
+Que j'ai couru remplir votre ordre et mon emploi.
+Les troupes d'Amasa, sans obstacle avancées,
+Sont autour de ce camp par ordre dispersées.
+Le dessein d'Absalon, son nom seul répandu,
+Produit l'heureux effet qu'on avait attendu ;
+Pour régner et pour vaincre il n'a plus qu'à paraître,
+L'armée à haute voix l'a proclamé pour maître :
+Tous nos soldats charmés d'apprendre qu'aujourd'hui
+Leurs bras, déjà vainqueurs, vont combattre pour lui,
+Brûlent de signaler leur zèle et leur courage.
 
--*who_absalon
-      Calmez la douleur qui vous presse.
-Indigne de vos pleurs et de votre tendresse,
-Mes odieux complots vous ont trop outragé ;
-Je meurs, le ciel est juste, et vous êtes vengé.
+Il voulait me parler au sujet de Séba :
+Je crois même pour vaut que traçant une lettre,
+Dans mes fidèles mains il allait la remettre,
+Lorsqu'un bruit tout à coup dans l'armée a couru,
+Que hors de notre camp Joab avait paru :
+Amasa m'a quitté, mais je crois qu'il envoie....
 
--*who_david
-Quelle vengeance, ô ciel ! Ô trop malheureux père !
-Rien n'a donc pu fléchir la céleste colère ?
-Tous nos chefs m'a-t-on dit, allaient vous secourir.
-
--*who_absalon
-Ils y volaient, Seigneur, mais je devais périr.
-Les mutins ranimés ont voulu, pleins d'audace,
-Rompre les nouds cruels, auteurs de ma disgrâce,
-Et d'un trait qu'en fureur Joab avait lancé,
-Votre malheureux fils en leurs mains est percé.
-
--*who_david
-Ciel ! Joab...
-
--*who_absalon
-      N'imputez mon trépas légitime
-Qu'au traître Achitophel, ou plutôt qu'à mon crime.
-L'Éternel de Joab a guidé le courroux,
-Je viens vous demander sa grâce à vos genoux :
-Trop heureux, quand je meurs, de jouir de la gloire
-D'avoir pu sur ma haine emporter la victoire !
-Vous le voyez, Tharès, votre époux malheureux
-Veut suivre, mais trop tard, vos conseils généreux :
-Cachez-moi vos douleurs, épargnez ma faiblesse.
-Vous, Seigneur, regardez cette jeune princesse.
-Déjà mille vertus, dignes de votre sang,
-L'élèvent au-dessus de son auguste rang ;
-Je remets en vos mains et la fille et la mère :
-Daignez les adopter, et leur servir de père.
-Veuille le juste ciel, comblant mes derniers voux,
-Aux dépens de mon sang vous rendre tous heureux !...
-Mais ma raison s'éteint... ma force diminue...
-Et la clarté des cieux se dérobe à ma vue...
-Je frissonne... mon sang se glace... je frémis..
-Ah ! mon père... Seigneur... Ciel ! Je meurs.
-
--*who_david
-Ô mon fils!
-
--*who_thares
-      Ô mon cher Absalon ! Pourrai-je vous survivre ?
-Non, non, dans le tombeau vous me verrez vous suivre.

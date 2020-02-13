@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1748
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catilina
 
--*who_catilina
 Cesse de t'effrayer du sort qui me menace :
 Plus j'y vois de périls, plus je me sens d'audace ;
 Et l'approche du coup qui vous fait tous trembler,
@@ -24,25 +23,6 @@ Quand tu ne crois ici craindre que pour ma tête.
 Va, de trop de remords je te vois combattu,
 Pour te ravir l'honneur d'un retour de vertu.
 
--*who_lentulus
-Catilina, laissons un discours qui m'offense ;
-Tes soupçons sont toujours trop près de ta prudence.
-À force de vouloir approfondir un cour,
-Un faux jour a souvent produit plus d'une erreur ;
-Et les plus éclairés ont peine à s'en défendre :
-Mais un chef de parti ne doit point s'y méprendre.
-D'entre les conjurés distingue tes amis,
-Et qu'un discours sans fard leur soit du moins permis.
-De toutes les grandeurs qui feront ton partage
-Je ne t'ai demandé que ce seul avantage ;
-Laisse-m'en donc jouir : mon amitié pour toi
-N'a que trop signalé sa constance et sa foi.
-Dis-moi, si ta fierté jusque-là peut descendre,
-De tant d'excès affreux ce que tu peux prétendre.
-Pourquoi faire égorger Nonius cette nuit ?
-Et de ce meurtre enfin quel peut être le fruit ?
-
--*who_catilina
 Celui d'épouvanter le premier téméraire
 Qui, de mes volontés secret dépositaire,
 Osera comme lui balancer un moment,
@@ -78,30 +58,6 @@ Il trouve un compagnon dans le moindre soldat ;
 Et l'art de le soumettre exige un art suprême,
 Plus difficile encor que la victoire même.
 
--*who_lentulus
-Songe à les subjuguer sans te rendre odieux.
-Mais avant que le jour nous surprenne en ces lieux,
-Au temple de Tellus dis-moi ce qui t'appelle ;
-Son grand-prêtre Probus te sera-t-il fidèle ?
-Quoique rien en ces lieux ne borne son pouvoir,
-Je ne sais si Probus remplira notre espoir.
-Il est vrai qu'à ses soins nous devons cet asile,
-Dont il nous rend l'accès aussi sûr que facile ;
-Mais au nouveau consul le grand-prêtre est lié
-Par l'intérêt, le sang, l'orgueil, ou l'amitié.
-Lorsqu'à des conjurés ses pareils s'associent,
-C'est par des trahisons que tous se justifient.
-Aujourd'hui le sénat doit s'assembler ici ;
-Ce n'est pas cependant mon plus cruel souci :
-Je crains, je l'avouerai, les fureurs de Fulvie,
-Et je crains encor plus ton amour pour Tullie,
-Fille d'un ennemi dangereux et jaloux,
-De Cicéron enfin, l'objet de ton courroux.
-Eh ! Comment, dans un cour qu'un si grand soin entraîne,
-Peux-tu concilier tant d'amour et de haine ?
-L'amour, pour tes pareils, aurait-il des appas ?
-
--*who_catilina
 Ah ! Si je le ressens, je n'y succombe pas.
 Qu'un grand cour soit épris d'une amoureuse flamme,
 C'est l'ouvrage des sens, non le faible de l'âme ;
@@ -151,30 +107,6 @@ Même ici par ses soins je dois revoir Tullie.
 Ne crains point cependant le courroux de Fulvie ;
 Son cour fut trop à moi pour en redouter rien.
 
--*who_lentulus
-Elle a trop pénétré l'artifice du tien
-Pour ne se point venger de tant de perfidie :
-Elle est femme, jalouse, imprudente, hardie ;
-Elle sait tout ; bientôt nous serons découverts,
-Et je n'entrevois plus que de tristes revers.
-Que faisons-nous dans Rome ? Et sur quelle espérance
-Parmi tant d'ennemis avoir tant d'assurance ?
-Contre César et toi les clameurs de Caton
-Ne cessent d'irriter Antoine et Cicéron :
-Ces deux consuls, tous deux amis de la patrie,
-Brûlant de cet amour que tu nommes manie,
-Peut-être trop instruits de nos desseins secrets
-Préviendront d'un seul coup ta haine et tes projets.
-Déjà de toutes parts je vois grossir l'orage :
-Crassus devient suspect ; t'en faut-il davantage ?
-Et tu n'ignores pas que depuis plus d'un jour
-Les lettres de Pompée annoncent son retour ;
-Que Pétréius, suivi de nombreuses cohortes,
-Bientôt de Rome même occupera les portes.
-César, dont le génie égale le grand cour,
-T'accuse d'imprudence et de trop de lenteur.
-
--*who_catilina
 Oui, je sais que César désire ma retraite,
 Pour briguer au sénat l'honneur de ma défaite,
 Pour voir nos légions marcher sous ses drapeaux,
@@ -208,26 +140,10 @@ Mais je te punirai de mon obéissance.
 Pardonne ce courroux à la noble fierté
 D'un cour né pour l'empire, ou pour la liberté.
 
--*who_lentulus
-Ah ! Je te reconnais à ce noble langage :
-Rome même est trop peu pour un si grand courage ;
-Remplis ton sort, fais voir à l'univers jaloux
-Qu'il ne devait avoir d'autres maîtres que nous.
-Adieu, Catilina. Probus vient : je te laisse.
-
--*who_catilina
 Va ; dis à Céthégus qu'il tienne sa promesse :
 L'un et l'autre en secret daignez voir Manlius,
 Et faites observer Fulvie et Curius.
 
-**** *book_ *id_I02 *act_I *date_1748
-
--*who_probus
-Eh quoi ! Seigneur, c'est vous que votre vigilance
-A conduit le premier aux autels que j'encense !
-Saviez-vous que Tullie y dût porter ses pas ?
-
--*who_catilina
 Je le sais, cependant je ne l'y cherche pas ;
 Votre intérêt, Probus, est tout ce qui m'amène,
 Et mon cour à vous seul veut confier sa peine.
@@ -247,32 +163,6 @@ Qui puisait ses décrets dans le conseil des dieux,
 Vend ce qu'à la vertu réservaient nos aïeux.
 Je vois avec douleur que cet affront vous blesse.
 
--*who_probus
-Eh ! Ce n'est pas moi seul, Seigneur, qu'il intéresse ;
-Il rejaillit sur vous encor plus que sur moi,
-Vous qu'un vil orateur fait plier sous sa loi ;
-Vous qui jusqu'à ce jour, armé d'un front terrible,
-Des cours audacieux fûtes le moins flexible ;
-Qui d'un sénat tremblant à votre fier aspect
-Forciez d'un seul regard l'insolence au respect :
-À sa voix aujourd'hui plus soumis qu'un esclave,
-Enfin à votre tour vous souffrez qu'on vous brave ;
-Et vous abandonnez le soin de l'univers
-À des hommes sans nom qui mettent Rome aux fers.
-Eh ! Que m'importe à moi que le sénat m'outrage,
-Que la corruption mette à prix son suffrage ?
-L'univers ne perd rien à mon abaissement,
-Mon nom ni mes vertus n'en font pas l'ornement ;
-Les dieux ne m'ont point fait pour le régir en maître :
-Vous seul... mais désormais méritez-vous de l'être
-Avec une valeur qui n'oserait agir,
-Et ce front outragé qui ne sait que rougir ?
-Quoi ! Pour vous engager à sauver la patrie
-Faudra-t-il qu'avec moi tout un peuple s'écrie :
-« La mort nous a ravi Marius et Sylla ;
-Qu'ils revivent en toi, règne, Catilina ? »
-
--*who_catilina
 Probus, ne tentez point une indigne victoire.
 Les crimes du sénat ne souillent point ma gloire ;
 Je frémis comme vous de tout ce que j'y vois,
@@ -282,10 +172,6 @@ Que l'approche des dieux rend si compatissante :
 Mais parmi tant d'objets cités pour m'émouvoir
 Vous en oubliez un.
 
--*who_probus
-      Quel est-il ?
-
--*who_catilina
       Mon devoir.
 À combien de désirs il faut que l'on s'arrache,
 Si l'on veut conserver une vertu sans tache !
@@ -301,113 +187,26 @@ Et, tout muets qu'ils sont, ces marbres généreux
 Ne m'en disent pas moins qu'il faut l'être autant qu'eux.
 Rome ne me doit rien, et je lui dois la vie.
 
--*who_probus
-Ainsi vous souffrirez qu'elle soit asservie ;
-Qu'un peuple qui vous a nommé son protecteur
-Soit réduit à chercher un autre défenseur.
-En vain, fondant sur vous sa plus chère espérance,
-Rome vous élevait à la toute-puissance :
-J'entrevois dans le cour d'un fier patricien
-Les faiblesses de cour d'un obscur plébéien ;
-Et c'est Catilina qui seul ici protège
-Un reste de sénat impur et sacrilège,
-Un tas d'hommes nouveaux proscrits par cent décrets,
-Que l'orgueilleux Sylla dédaigna pour sujets !
-Disparu dans l'abîme où son orgueil le plonge,
-Les grandeurs du sénat ont passé comme un songe :
-Non, ce n'est plus ce corps digne de nos autels,
-Où les dieux opinaient à côté des mortels ;
-De ce corps avili Minerve s'est bannie
-À l'aspect de leur luxe et de leur tyrannie ;
-On ne voit que l'or seul présider au sénat,
-Et de profanes voix fixer le consulat.
-Enfin Rome n'est plus, sans le secours d'un maître ;
-Et qui d'eux plus que vous serait digne de l'être ?
-César semble promettre un heureux avenir,
-Que peut-être moins jeune il osera ternir :
-Lucullus n'est plus rien, et son rival Pompée
-N'a pour lui qu'un bonheur où Rome s'est trompée.
-Crassus, plein de désirs indignes d'un grand cour,
-Borne à de vils trésors les soins de sa grandeur :
-Cicéron, ébloui du feu de son génie...
-Mais je veux respecter le père de Tullie.
-Pour Caton, je n'y vois qu'un courage insensé,
-Un faste de vertu qu'on a trop encensé.
-Le reste n'est point fait pour prétendre à l'empire ;
-C'est à vous seul, Seigneur, que j'ose le prédire.
-Quelle gloire pour vous, en domptant les romains,
-De pouvoir vous vanter au reste des humains
-Que, sans avoir des dieux emprunté le tonnerre,
-Un seul homme a changé la face de la terre !
-
--*who_catilina
 Ministre des autels, que me proposez-vous ?
 
--*who_probus
-La gloire de bien faire, et le salut de tous ;
-Ce qu'un grand cour, flatté de cet honneur suprême,
-Aurait dû dès longtemps se proposer lui-même.
-
--*who_catilina
 Ah, Probus ! Je l'avoue, une si noble ardeur
 Porte des traits de feu jusqu'au fond de mon cour ;
 Je sens que malgré moi mes scrupules vous cèdent.
 
--*who_probus
-Hé bien ! Qu'à ce remords de prompts effets succèdent :
-D'armes et de soldats remplissons tous ces lieux
-Où le sénat impie ose troubler mes dieux ;
-Dans un sang ennemi...
-
-**** *book_ *id_I03 *act_I *date_1748
-
--*who_probus
-      Mais j'aperçois Tullie.
-
--*who_catilina
 Ne vous éloignez point, cher Probus, je vous prie :
 J'ai besoin de conseil dans le trouble où je suis ;
 Et je vous rejoindrai bientôt, si je le puis.
 
-**** *book_ *id_I04 *act_I *date_1748
-
--*who_catilina
 Quoi ! Madame, aux autels vous devancez l'aurore !
 Eh ! Quel soin si pressant vous y conduit encore ?
 Qu'il m'est doux cependant de revoir vos beaux yeux,
 Et de pouvoir ici rassembler tous mes dieux !
 
--*who_tullie
-Si ce sont là les dieux à qui tu sacrifies,
-Apprends qu'ils ont toujours abhorré les impies,
-Et que si leur pouvoir égalait leur courroux
-La foudre deviendrait le moindre de leurs coups.
-
--*who_catilina
 Tullie, expliquez-moi ce que je viens d'entendre ;
 Ma gloire et mon amour craignent de s'y méprendre ;
 Et si nous n'étions seuls, malgré ce que je vois,
 Je ne croirais jamais que l'on s'adresse à moi.
 
--*who_tullie
-Ah ! Ce n'est qu'à vous seuls, grands dieux ! Que je m'adresse,
-Et non à des cruels qu'aucun remords ne presse ;
-Monstres, dont la fureur brave les immortels,
-Et que le crime suit jusqu'au pied des autels ;
-Qui, tout baignés d'un sang qui demande vengeance,
-Osent des dieux vengeurs insulter la présence.
-Le sang de Nonius versé près de ces lieux
-Fume encore ; et voilà l'encens qu'on offre aux dieux !
-La sacrilège main qui vient de le répandre
-N'attend plus qu'un flambeau pour mettre Rome en cendre.
-Ce n'est point Mithridate, ennemi des romains,
-Ni le gaulois altier, qui forme ces desseins ;
-Grands dieux ! C'est une main plus fatale et plus chère,
-Qui menace à la fois la patrie et mon père :
-Ces excès de fureur, inconnus à Sylla,
-N'étaient faits que pour toi, traître Catilina.
-
--*who_catilina
 D'un reproche odieux réprimez la licence,
 Madame, ou contraignez vos soupçons au silence ;
 Songez pour violer le respect qui m'est dû
@@ -419,120 +218,36 @@ Dès qu'il veut de l'honneur blesser la dignité :
 Souvenez-vous enfin qu'un généreux courage
 Pardonne à qui le hait, mais point à qui l'outrage.
 
--*who_tullie
-Et qu'ai-je à redouter de ton inimitié ?
-Tu ne me verras point implorer ta pitié,
-Cruel ! Tu peux porter à la triste Tullie
-Tous les coups que ta main réserve à la patrie ;
-Borne tes cruautés à déchirer un cour
-Qui s'est déshonoré par une lâche ardeur ;
-Ce cour, que trop longtemps a souillé ton image,
-N'est plus digne aujourd'hui que d'opprobre et d'outrage ;
-Rien ne peut expier la honte de mes feux :
-Mais ne présume pas que ce cour malheureux,
-Que tes fausses vertus t'ont rendu favorable,
-T'épargne un seul moment dès qu'il te sait coupable ;
-Tu le verras plus prompt à s'armer contre toi
-Qu'il ne le fut jamais à t'engager sa foi.
-Grands dieux ! N'ai-je brûlé d'une flamme si pure
-Que pour un assassin, un rebelle, un parjure !
-Et le barbare encore insulte à ma douleur !
-Il veut que mon devoir respecte sa fureur !
-Mais, cruel ! Mon amour n'en sera point complice ;
-Dût-on charger ma main du soin de ton supplice,
-Je n'hésiterai point à te sacrifier.
-Tu n'as plus qu'un moment à te justifier.
-
--*who_catilina
 Et de quoi voulez-vous que je me justifie ?
 
--*who_tullie
-D'un complot qui bientôt te coûtera la vie.
-Mais puisque ton orgueil s'obstine à le nier,
-Et que tu me réduis, traître, à t'humilier,
-Esclave, paraissez.
-
-**** *book_ *id_I05 *act_I *date_1748
-
--*who_catilina
       Que vois-je ? C'est Fulvie !
 
--*who_tullie
-Parlez ; je vous l'ordonne au nom de la patrie.
-
--*who_fulvie
-Qui ? Moi parler, Madame ! à quel péril affreux
-Exposez-vous ici les jours d'un malheureux !
-D'un romain, quel qu'en soit le rang et la naissance,
-Je sais combien je dois respecter la présence ;
-De celui-ci surtout je redoute l'aspect.
-
--*who_tullie
-Parlez, et dépouillez ce frivole respect :
-Un esclave enhardi par le salut de Rome
-Doit-il tant s'effrayer à l'aspect d'un seul homme ?
-Connaissez-vous celui qui paraît à vos yeux ?
-Répondez ; quel est-il ?
-
--*who_fulvie
-      C'est un séditieux ;
-Je ne connais que trop ce mortel redoutable,
-Et le plus grand de tous, s'il était moins coupable.
-Oui, Madame, c'est lui ; voilà le furieux
-Qui veut souiller de sang sa patrie et ses dieux,
-Égorger le sénat, immoler votre père,
-Et la flamme à la main désoler Rome entière.
-
--*who_catilina
 Quoi ! Vous osez commettre un homme tel que moi
 Avec des malheureux si peu dignes de foi !
 Et vous me réduisez à souffrir qu'un esclave,
 Au mépris de mon rang, me flétrisse et me brave !
 Ah ! C'est pousser l'injure et l'audace trop loin.
 
--*who_tullie
-Ingrat, rougis du crime, et non pas du témoin :
-Mais en vain ton orgueil s'attache à le confondre ;
-Vanter ta dignité, ce n'est pas me répondre.
-Adieu.
-      Vous, suivez-moi.
-
--*who_catilina
       Non, non, il n'est plus temps,
 Cet esclave est chargé d'avis trop importants :
 D'ailleurs dès qu'avec lui vous osez me commettre
 Souffrez qu'en d'autres mains je puisse le remettre.
 Probus, venez à nous.
 
-**** *book_ *id_I06 *act_I *date_1748
-
--*who_tullie
-      Quel est donc ton dessein ?
-
--*who_catilina
 C'est au nom du sénat et du peuple romain,
 Qui de ces lieux sacrés vous fit dépositaire,
 Probus, qu'entre vos mains je mets ce téméraire.
 
--*who_tullie
-En vain par ce dépôt tu crois m'en imposer,
-Je vois à quel dessein tu veux en disposer.
-
--*who_catilina
 Non ; loin que ma fierté désormais le récuse,
 C'est devant le sénat que je veux qu'il m'accuse :
 Puisqu'il doit en ces lieux s'assembler aujourd'hui,
 C'est à Probus, Madame, à répondre de lui.
 Songe, Catilina, qu'il y va de ta vie.
 
--*who_catilina
 Allez ; songez, Madame, à sauver la patrie :
 C'est des jours d'un ingrat prendre trop de souci ;
 Et l'amour n'a plus rien à démêler ici.
 
-**** *book_ *id_I07 *act_I *date_1748
-
--*who_catilina
 Qu'aurais-je à redouter d'une femme infidèle ?
 Où seront ses garants ? Et d'ailleurs que sait-elle ?
 Quelques vagues projets dont l'imprudent Caton
@@ -572,127 +287,6 @@ Maître de l'univers, si tu l'es des romains,
 C'est aujourd'hui qu'il faut que ton sort s'accomplisse,
 Que Rome à tes genoux tombe, ou qu'elle périsse.
 
-**** *book_ *id_II01 *act_II *date_1748
-
--*who_fulvie
-N'abusez point, Probus, de l'état où je suis ;
-Je vous perdrai : du moins songez que je le puis.
-Vous croyez, à l'abri de votre caractère,
-Pouvoir impunément défier ma colère,
-Et que mon cour, tremblant à l'aspect de ce lieu,
-Va mettre au même rang le ministre et le dieu :
-Et quel ministre encore ! Un sacrilège, un traître,
-Qui, de Catilina devenu le grand-prêtre,
-Des Tarquins sur son front veut ceindre le bandeau,
-Et du sang des romains nourrir ce dieu nouveau ;
-Lâche, qui se dévoue aux amours de Tullie,
-Qui, de ses propres dieux profanateur impie,
-Prête leur sanctuaire à des feux criminels,
-Déshonore le prêtre, et souille les autels.
-
--*who_probus
-Cédez moins au torrent de votre jalousie ;
-Et, loin de m'offenser, écoutez-moi, Fulvie :
-Considérez l'abîme où va vous engager
-Une folle habitude à ne rien ménager.
-Vous croyez vous venger, vous vous perdez vous-même,
-Et de plus un amant qui peut-être vous aime.
-Le dépit n'a jamais satisfait ses transports
-Qu'il n'ait livré notre âme à d'éternels remords :
-L'amour le mieux vengé, quelle que soit l'offense,
-Est souvent le premier à pleurer sa vengeance ;
-On punit l'inconstant, mais on perd en un jour
-L'objet de sa tendresse et l'espoir d'un retour.
-Enfin que savez-vous si l'on aime Tullie ?
-À travers les fureurs dont votre âme est saisie
-Croyez-vous que l'amour éclaire assez vos yeux
-Pour percer les replis d'un cour ambitieux ?
-Vous savez les projets que votre amant médite :
-En pénétrez-vous bien le détail et la suite ?
-Un homme tel que lui doit-il à découvert
-Se montrer sans prudence au grand jour qui le perd ?
-Peut-il porter trop loin l'artifice et la feinte ?
-Non, il faut que son cour ne soit qu'un labyrinthe,
-Que l'amour même en vain y cherche des secrets
-Que pour lui la raison et l'honneur n'ont point faits.
-L'usage qu'aujourd'hui vous avez osé faire
-Des secrets dont l'amour vous fit dépositaire
-Ne vous prouve que trop, malgré votre dépit,
-Pour peu qu'il ait parlé, qu'il n'en a que trop dit.
-L'impétueux Caton murmure, tonne, éclate,
-Trouble tout pour servir un consul qui le flatte :
-Devenu du sénat et l'idole et l'espoir,
-Cicéron est armé du souverain pouvoir :
-Le sénat, qui sur lui redoute une entreprise,
-Pour mettre son héros à couvert de surprise,
-De l'ordre équestre entier le fait accompagner ;
-Puisqu'on ne peut le perdre, il faut donc le gagner :
-Pour le faire périr il faut la force ouverte ;
-Mais ce serait sans fruit travailler à sa perte.
-Un hymen prétendu peut calmer ses frayeurs,
-Et cet hymen devient l'objet de vos fureurs !
-Plus de raison alors ; et la fière Fulvie
-Expose un nom célèbre au mépris de Tullie,
-Se couvre sans rougir d'un vil déguisement !
-Pourquoi ce déshonneur ? Pour perdre son amant.
-Ah, Madame ! Ce cour, dont j'ai plaint la tendresse,
-De l'habit qui vous cache a-t-il pris la bassesse ?
-Dans quel sein déposer des secrets dangereux,
-Si le cour d'une amante est un écueil pour eux ?
-Vit-on jamais l'amour dans sa plus noire ivresse
-Emprunter du dépit une langue traîtresse ?
-
--*who_fulvie
-Qui donc ai-je trahi, ministre ambitieux ?
-Et quelle foi doit-on à des séditieux ?
-La garder aux méchants, c'est partager leurs crimes.
-Mais je vois que Probus connaît peu ces maximes ;
-Et je sais, quand la haine enflamme vos pareils,
-Jusqu'où va la noirceur de leurs lâches conseils,
-Surtout dès qu'il s'agit de venger leurs injures.
-César est désigné souverain des augures ;
-Cicéron a brigué pour ce rival heureux,
-Et le place en un rang dont on flattait vos voux ;
-Catilina d'ailleurs vous était favorable.
-Le moyen qu'à vos yeux je ne sois point coupable,
-Moi qui viens de sauver un consul odieux,
-Qui s'est osé jouer d'un ministre des dieux ;
-Qui, de sa dignité dépositaire habile,
-Plein de faste aux autels, et près des grands servile,
-Sur l'espoir de leurs dons mesure sa ferveur,
-Et n'adore en effet que la seule faveur !
-Mon devoir m'ordonnait de sauver la patrie :
-Imitez-le, ou gardez vos conseils pour Tullie.
-Croyez-moi, terminez d'imprudentes leçons
-Qui ne font qu'irriter ma haine et mes soupçons :
-Cessez de me flatter qu'on peut m'aimer encore ;
-J'ai trop vu la beauté que l'infidèle adore :
-Mes yeux avant ce jour ne la connaissaient pas ;
-Mais vous me payerez ses funestes appas :
-C'est vous qui leur gagnez sur moi la préférence ;
-Moi que déshonorait la seule concurrence.
-Pourquoi de cet hymen m'a-t-on fait un secret ?
-Et pourquoi, s'il est feint, m'en cacher le projet ?
-Traître, ce n'est pas vous qui deviez me l'apprendre ;
-Mais on croit n'avoir rien à craindre d'un cour tendre :
-Sachez que d'un secret à demi confié,
-Dès qu'on peut une fois percer l'autre moitié,
-On est toujours en droit d'en trahir le mystère,
-Et qu'on ne doit plus rien à qui nous l'ose faire.
-
--*who_probus
-Eh bien ! Perdez, Madame, un homme généreux
-Qui veut briser les fers de tant de malheureux ;
-Vengez votre beauté d'un amant infidèle,
-Et votre orgueil blessé des projets qu'il vous cèle ;
-D'un long embrasement devenez le flambeau,
-Et nous ouvrez à tous les portes du tombeau.
-Mais Catilina vient ; évitez sa présence,
-Ou du moins gardez-vous d'irriter sa vengeance.
-
-**** *book_ *id_II02 *act_II *date_1748
-
--*who_catilina
 Probus, où sommes-nous ? Et qu'est-ce que je vois ?
 Quel opprobre pour Rome ! Et quel affront pour moi !
 C'est aux yeux du sénat, aux miens, qu'une romaine,
@@ -710,50 +304,6 @@ Lui que je voudrais voir expirer sous mes coups ?
 Non ; c'est pour une ingrate à qui je sacrifie
 Ma gloire, mon devoir, et le soin de ma vie.
 
--*who_fulvie
-Poursuis, Catilina : le reproche sied bien
-À des cours innocents et purs comme le tien ;
-Mais dans l'art de tromper, ta science suprême,
-Tu m'en as trop appris pour me tromper moi-même.
-Va, cesse d'éclater sur mon déguisement ;
-Tout, jusqu'à ton courroux, est faux en ce moment.
-Égorge Cicéron aux yeux de sa famille,
-Je ne t'en croirai pas moins épris de sa fille.
-Ce n'est pas d'aujourd'hui que tu sais allier
-La vertu, les forfaits, l'amant, le meurtrier ;
-Et Tullie à tes yeux fût-elle encor plus chère,
-Rien ne garantirait la tête de son père.
-Mais de quoi te plains-tu ? Quel est mon attentat ?
-Est-ce moi qui prétends t'accuser au sénat ?
-De l'espoir d'être à toi ma tendresse enivrée
-À tes lâches complots ne m'a que trop livrée.
-Songe que tu me dois et César et Crassus,
-Les enfants de Sylla, Cépion, Lentulus.
-Cruel ! J'aurais voulu que tout ce qui respire
-Eût été comme moi soumis à ton empire ;
-Mais tandis que pour toi je séduisais les cours,
-Tu préparais au mien le comble des horreurs ;
-Et le tien, trop épris des charmes de Tullie,
-A bientôt oublié ce qu'il doit à Fulvie.
-Cependant qui de nous s'arme ici contre toi ?
-C'est elle qui te perd, ingrat ; ce n'est pas moi.
-Il est vrai qu'en son cour j'ai voulu te détruire ;
-Mais c'est là seulement qu'attachée à te nuire,
-Contente de pouvoir vous désunir tous deux,
-Je n'ai rien oublié pour te rendre odieux.
-Eh ! Pouvais-je prévoir que l'honneur chimérique
-De sauver les débris d'un nom de république
-Porterait une amante à perdre son amant ?
-Mais pour t'en garantir je ne veux qu'un moment ;
-Abandonne à mon cour le soin de ta défense :
-Je ne sais s'il te doit ou tendresse ou vengeance ;
-Je ne veux sur ce point nul éclaircissement
-Qui puisse triompher d'un plus doux mouvement :
-Mais par un désaveu souffre que j'humilie
-À l'aspect du sénat l'orgueilleuse Tullie ;
-Son cour est désormais indigne de ta foi.
-
--*who_catilina
 Tullie en me perdant se rend digne de moi ;
 Et vous, qui prétendez me sauver par un crime,
 Vous ne méritez plus mes voux ni mon estime.
@@ -765,71 +315,12 @@ Ainsi déclarez tout ; c'est l'unique moyen
 De regagner un cour qui ne vous doit plus rien.
 Vos fureurs n'ont que trop épuisé ma constance.
 
-**** *book_ *id_II03 *act_II *date_1748
-
--*who_catilina
 Mais je vois les licteurs, et le consul s'avance ;
 Éloignez-vous d'ici.
 
--*who_fulvie
-      Tu me braves, ingrat.
-Adieu : tu me verras ce jour même au sénat.
-
-**** *book_ *id_II04 *act_II *date_1748
-
--*who_catilina
 Probus, suivez ses pas ; allez tous deux m'attendre,
 Et cachez Manlius, qui doit ici se rendre.
 
-**** *book_ *id_II05 *act_II *date_1748
-
--*who_ciceron
-C'est vous, Catilina, que je cherche en ces lieux,
-Non comme un sénateur jaloux et furieux,
-Mais comme un ennemi qui sait régler sa haine
-Sur ce qu'en peut permettre une vertu romaine.
-Enfin, depuis le jour que le sort des romains
-Par le choix des tribuns fut remis en mes mains,
-Vous ne m'avez point vu, soigneux de vous déplaire,
-Braver l'inimitié d'un si noble adversaire.
-Je remportai sur vous l'honneur du consulat
-Sans acheter les voix du peuple et du sénat,
-Et vous savez assez que cette préférence,
-Qui flattait vos désirs, passait mon espérance ;
-Mais le sénat, toujours en butte à vos mépris,
-Réunit en moi seul les voux et les esprits :
-Encor si quelquefois vous daigniez vous contraindre ;
-Que, fait pour être aimé, vous vous fissiez moins craindre ;
-Que, mettant à profit tant de dons précieux,
-Vous affectassiez moins un orgueil odieux !
-Mais, bravant le sénat et les consuls ensemble,
-À vos moindres chagrins vous voulez que tout tremble.
-Regardez ces autels, voyez parmi nos dieux
-Ces marbres consacrés aux noms de vos aïeux ;
-Leurs grands cours ont toujours haï la tyrannie,
-Et Rome n'a jamais tremblé que pour leur vie.
-Si, moins ambitieux, votre haute valeur
-Ne nous eût inspiré que la même terreur,
-Qui d'entre nous pouvait refuser son suffrage
-Aux vertus dont le ciel a fait votre partage ?
-Politique, orateur, capitaine, soldat ;
-Vos défauts des vertus ont même encor l'éclat :
-Quel citoyen pour nous, et le plus grand peut-être,
-S'il nous menaçait moins de nous donner un maître !
-On dit... mais je crois peu des bruits mal assurés
-Qui vous osent nommer parmi des conjurés :
-Tout défiant qu'il est, Caton ne l'ose croire.
-Cependant le sénat, jaloux de votre gloire,
-Pour étouffer des bruits qui dans un sénateur
-Pourraient en vous blessant blesser son propre honneur,
-Dès hier vous nomma gouverneur de l'Asie ;
-Pompée et Pétréius descendus vers Ostie,
-L'un et l'autre chargés de vous y recevoir,
-Remettront dans vos mains leur souverain pouvoir.
-Partez donc ; et songez que votre obéissance
-Peut seule être le prix de notre confiance.
-
--*who_catilina
 Ainsi donc le Sénat veut sans me consulter
 Me charger d'un emploi que je puis rejeter :
 Je ne sais s'il a cru me forcer à le prendre ;
@@ -851,18 +342,6 @@ D'un sénat trop jaloux de son autorité :
 Car enfin tous ces bruits, enfants de sa faiblesse,
 N'ont d'autres fondements qu'un soupçon qui vous blesse.
 
--*who_ciceron
-N'est-ce rien selon vous que d'être soupçonné ?
-À votre ambition sans cesse abandonné,
-Vous causez tant de trouble et tant d'inquiétude,
-Que le moindre soupçon tient lieu de certitude :
-Dès qu'on ose alarmer le pouvoir souverain
-On est toujours suspect d'un coupable dessein ;
-Peut-on trop sur ce point rassurer la patrie ?
-Acceptez-vous l'emploi que Rome vous confie ?
-C'est pour m'en éclaircir que je viens vous trouver.
-
--*who_catilina
 J'entends ; c'est sur ce point que l'on veut m'éprouver :
 Si j'accepte l'emploi, c'est à tort qu'on m'accuse ;
 Et je suis criminel dès que je le refuse.
@@ -928,98 +407,6 @@ Car c'est là qu'en consul vous devez me répondre,
 Et c'est là qu'en héros je saurai vous confondre.
 Adieu.
 
-**** *book_ *id_II06 *act_II *date_1748
-
--*who_ciceron
-      Dans quel désordre il laisse mes esprits !
-Quelle honte pour moi si je m'étais mépris !
-Catilina pourrait ne pas être coupable ;
-Mais qu'il est dangereux, et qu'il est redoutable !
-Quel ennemi le sort nous a-t-il suscité !
-Que de courage ensemble et de subtilité !
-Son génie éclairé voit, pénètre, ou devine.
-Rome n'est plus, les dieux ont juré sa ruine.
-Essayons cependant de calmer la fureur
-Du perfide ennemi qui fait tout mon malheur :
-S'il paraît au sénat et qu'il s'y justifie,
-Son triomphe bientôt me coûterait la vie.
-Malgré tous ses détours j'entrevois ce qu'il veut ;
-Mais nous serions perdus s'il osait ce qu'il peut.
-Employons sur son cour le pouvoir de Tullie,
-Puisqu'il faut que le mien jusque-là s'humilie.
-Quel abîme pour toi, malheureux Cicéron !
-Allons revoir ma fille, et consulter Caton ;
-C'est là que je pourrai dans le cour d'un seul homme
-Retrouver à la fois nos dieux, nos lois, et Rome.
-
-**** *book_ *id_III01 *act_III *date_1748
-
--*who_sunnon
-Arrêtons, cher Gontran ; c'est dans ces lieux sacrés,
-Décorés avec faste, au fond peu révérés,
-Qu'à la face des dieux nous allons voir éclore
-Un projet qui m'alarme, et qui les déshonore ;
-C'est ici que bientôt Crassus, Catilina,
-Antoine, Céthégus, les enfants de Sylla,
-Mille autres dont les noms éclatent dans l'histoire,
-Et qui de leurs aïeux flétrissent la mémoire,
-Vont de leur sang impur sceller leur union,
-Et livrer Rome entière à la proscription :
-Heureux si je pouvais en ce désordre extrême
-D'un parti que je hais me dégager moi-même !
-Entraîné dès longtemps, peut-être corrompu
-Par un ambitieux qui séduit ma vertu,
-Je me trouve forcé d'embrasser sa querelle,
-D'être ennemi de Rome, ou ministre infidèle.
-
--*who_gontran
-Quoi ! Des gaules ici Sunnon ambassadeur,
-De ce rang si sacré voudrait flétrir l'honneur ?
-
--*who_sunnon
-Laissons l'honneur d'un rang qui n'est plus qu'un vain titre
-Lorsqu'un autre intérêt devient mon seul arbitre :
-Les gaules ont daigné m'envoyer en ces lieux ;
-Mais où sont les romains, leurs lois, même leurs dieux ?
-Et quel devoir encor veux-tu que je trahisse
-Parmi des furieux sans frein et sans justice ?
-C'est aux événements à disposer de moi :
-D'ailleurs dans ce chaos à qui garder ma foi ?
-À de vils sénateurs noyés dans la mollesse,
-À deux consuls jaloux et désunis sans cesse ?
-L'un des deux, sans honneur et sans fidélité,
-Abuse chaque jour de son autorité ;
-L'autre a mille vertus, mais n'ose en faire usage :
-Caton, loin de calmer, irritera l'orage ;
-Formidable au-dehors, méprisable au-dedans,
-Le sénat n'est enfin qu'un amas de brigands,
-Unis pour le butin, divisés au partage,
-Dont toute la vertu périt avec Carthage.
-À peine il fut formé qu'il détruisit ses rois,
-Il détruit aujourd'hui l'autorité des lois :
-Après avoir détruit et lois et diadème,
-Nous le verrons bientôt se détruire lui-même.
-Allumons le flambeau de la sédition ;
-Rien ne peut nous sauver que leur division.
-Tu ne sais pas encor quel péril nous menace.
-Un romain (tu connais sa valeur, son audace),
-Et quel romain encor ! César depuis un an
-Brigue en secret l'honneur d'être notre tyran ;
-C'est à nous gouverner que ce héros aspire.
-Si la Seine un moment coule sous son empire,
-Nous sommes tous perdus ; et gaulois et germains
-Vont tomber sous le fer ou le joug des romains :
-Ce que la Grèce, Rome, et l'univers ensemble
-Eurent de plus parfait, dans César se rassemble :
-Prudent, ambitieux, l'homme de tous les temps,
-De toutes les vertus, et de tous les talents ;
-Intrépide, éclairé ; d'autant plus redoutable
-Que de tous les mortels il est le plus aimable.
-Mais Catilina vient ; cher Gontran, laisse-nous.
-
-**** *book_ *id_III02 *act_III *date_1748
-
--*who_catilina
 Je vous cherche, Sunnon, et j'ai besoin de vous.
 De nos desseins secrets la trame est découverte,
 Et je ne m'en crois pas plus voisin de ma perte.
@@ -1034,45 +421,6 @@ Le feu des factions est facile à s'éteindre ;
 Ainsi l'on ne peut trop hâter l'événement.
 Sunnon, puis-je compter sur notre engagement ?
 
--*who_sunnon
-La foi de mes pareils ne fut jamais frivole.
-Je suis gaulois, ainsi fidèle à ma parole ;
-L'honneur est parmi nous le premier de nos dieux :
-Mais vous savez quel joug on m'impose en ces lieux,
-Et d'un ambassadeur quel est le ministère ;
-Que je suis retenu par une loi sévère,
-Qui me défend d'armer de criminelles mains,
-Et d'oser les tremper dans le sang des romains.
-D'ailleurs de vos projets j'ignore le mystère ;
-Je crains tout, sans savoir ce qu'il faut que j'espère.
-Si vos desseins ne sont aussi justes que grands,
-Et si ce n'est pour nous que changer de tyrans,
-Si nos traités ne sont fondés sur la justice,
-Vous prétendez en vain qu'aucun noud nous unisse.
-Notre unique vertu n'est pas notre valeur ;
-Nous aimons la justice autant que la candeur :
-Quoique enfant de la guerre, allaité sous les tentes,
-Le gaulois n'eut jamais que des mours innocentes.
-Si vous nous surpassez par votre urbanité,
-Nous l'emportons sur vous par notre intégrité ;
-C'est à tous nos desseins l'honneur seul qui préside,
-Et de nos intérêts l'équité qui décide.
-Nos dieux, nos souverains, l'autorité des lois,
-La gloire, le devoir, notre épée, et nos droits ;
-Aussi prompts que vaillants, francs, et pleins de noblesse,
-Obéissants par choix, et soumis sans bassesse.
-Mais Rome cherche moins, dans ses vastes projets,
-À faire des amis, qu'à faire des sujets.
-Comme nous ne voulons que le simple héritage
-Dont les temps et le sort firent notre partage,
-Voyez si, du sénat réprimant la fureur,
-Vous pouvez des gaulois être le protecteur.
-Peut-être en ce discours, ou trop fier, ou trop libre,
-Ai-je peu ménagé la majesté du Tibre ;
-Mais, dès que de mes soins notre sort dépendra,
-Je parlerais aux dieux comme à Catilina.
-
--*who_catilina
 Je ne condamne point un discours magnanime,
 Qu'un intérêt sacré doit rendre légitime ;
 Mais je le blâmerais, Sunnon, si ma vertu
@@ -1130,70 +478,16 @@ Trouver dans les gaulois des amis secourables,
 Quelque retraite enfin dans un jour malheureux :
 De vous, de vos amis, c'est tout ce que je veux.
 
--*who_sunnon
-Ah ! Dès que votre bras s'arme pour la justice,
-Il n'est point de gaulois qui ne vous obéisse,
-Je vous réponds de tous.
-
--*who_catilina
       Quels seront vos garants ?
 
--*who_sunnon
-Touchez dans cette main, ce sont là nos serments.
-Adieu, Catilina. Quelqu'un vient : c'est Tullie.
-
-**** *book_ *id_III03 *act_III *date_1748
-
--*who_catilina
 Que sa triste vertu me pèse et m'humilie !
 Fuyons ; n'exposons point tant de fois en un jour
 Des cours nés pour la gloire aux attraits de l'amour.
 
-**** *book_ *id_III04 *act_III *date_1748
-
--*who_tullie
-Arrêtez un moment, j'ai deux mots à vous dire :
-Cependant, à l'effroi que votre accueil m'inspire,
-Je ne sais si je dois m'expliquer avec vous.
-Victimes tous les deux d'une amante en courroux,
-Si mes cruels soupçons vous ont fait une offense,
-N'en accusez que vous, et votre fier silence ;
-Car vous pouviez d'un mot désabuser mon cour.
-Pourquoi, loin d'éclaircir une funeste erreur,
-Me cacher, aux dépens de toute mon estime,
-Un témoin dont le nom vous eût absous du crime,
-Et que rendait suspect son amour irrité ?
-Vous savez de mes mours quelle est l'austérité,
-Qu'enchaînée aux devoirs d'une innocente vie,
-Je n'ai jamais connu que le nom de Fulvie ;
-Que ne m'épargniez-vous la honte et le remords
-D'avoir trop écouté ses coupables transports ?
-Fallait-il exposer une âme vertueuse
-À servir les fureurs d'une âme impétueuse ?
-
--*who_catilina
 Ah ! Je n'étais déjà que trop humilié
 De voir à vos mépris mon rang sacrifié,
 Sans vous faire rougir d'une indigne rivale.
 
--*who_tullie
-Dût sa haine aujourd'hui m'être encor plus fatale,
-Malgré votre courroux, je veux vous engager
-À respecter ses feux, même à la ménager :
-D'un pareil ennemi vous n'avez rien à craindre,
-Et son sexe et son nom, tout m'oblige à la plaindre :
-Ainsi, loin d'insulter à son déguisement,
-Faisons-la de ces lieux sortir secrètement.
-Vous n'avez contre vous de témoin que Fulvie,
-Et l'on n'en croira point sa folle jalousie.
-Loin de vous présenter l'un et l'autre au sénat,
-Évitez pour moi-même un dangereux éclat.
-Que vous reviendrait-il d'une faible victoire,
-Qui, loin de l'embellir, flétrirait votre gloire ?
-Croyez-moi, méprisez une amante en fureur,
-Qui d'ailleurs ne voulait que vous perdre en mon cour.
-
--*who_catilina
 Lorsqu'on ose attaquer mon honneur et ma vie
 Vous voulez qu'en tremblant je me cache ou je fuie ;
 Que laissant le champ libre à l'insensé Caton,
@@ -1212,58 +506,15 @@ Ah ! Ne présumez pas que leur mauvaise foi
 Puisse m'en imposer et triompher de moi.
 Dès ce jour même il faut que je me justifie.
 
--*who_tullie
-Pourriez-vous de ma part craindre une perfidie ?
-
--*who_catilina
 Non ; mais on a trompé votre crédule amour,
 Afin que vous pussiez me tromper à mon tour.
 La plus légère peur corrompt les cours timides,
 Et des plus vertueux fait souvent des perfides.
 
--*who_tullie
-Du moins en ma présence épargnez Cicéron.
-
--*who_catilina
 Ah ! S'il écoutait moins le dangereux Caton,
 Et les fantômes vains d'une peur chimérique,
 Vous et moi nous eussions sauvé la république.
 
--*who_tullie
-Il en est temps encor, cruel, écoutez-moi :
-N'allez point au sénat, fiez-vous à ma foi.
-Sur de vaines rumeurs votre fierté s'abuse ;
-Songez que c'est moi seule ici qui vous accuse ;
-Que je puis d'un seul mot rassurer les esprits,
-Et dissiper l'erreur qui les avait surpris.
-Si de nos premiers feux vous perdez la mémoire,
-Songez du moins, Seigneur, qu'il y va de ma gloire.
-Quoi ! Vous pouvez m'aimer, et me sacrifier
-À l'orgueilleux honneur de vous justifier !
-L'amour vous justifie et reprend son empire :
-Quand mon cour vous absout, mon cour doit vous suffire.
-Le sénat contre vous n'a rien fait publier :
-Ah ! Laissez-moi l'honneur de vous concilier ;
-Laissez-moi réunir mon amant et mon père.
-Hélas ! Était-ce à moi d'en parler la première ?
-L'amour n'offre donc plus à vos tendres souhaits
-Aucun bien qui vous puisse engager à la paix !
-Vous êtes des romains la plus noble espérance,
-Daignez contre vous-même embrasser leur défense.
-De quoi vous plaignez-vous, quand c'est vous seul, ingrat,
-Qui voulez aujourd'hui convoquer le sénat ?
-Si vous vous obstinez encore à vous défendre,
-Le consul à son tour voudra s'y faire entendre ;
-Et bientôt vos amis, ardents et furieux,
-De carnage et d'horreur vont remplir tous ces lieux.
-Voulez-vous mettre en feu la ville infortunée
-Que votre amante habite, où votre amante est née ?
-Laissez-moi désarmer vos redoutables mains ;
-Accordez à mes pleurs la grâce des romains ;
-Et qu'il soit dit du moins de l'heureuse Tullie
-Que le dieu de son cour fut dieu de sa patrie.
-
--*who_catilina
 Ah, Madame ! Cessez de vouloir m'abuser.
 J'aimerais mieux vous voir, constante à m'accuser,
 Armer contre ma vie un sénat qui m'abhorre.
@@ -1286,45 +537,18 @@ Cet exemple est si grand qu'il faut que je l'imite.
 Plus vous m'attendrissez, plus mon honneur m'invite
 À m'immoler moi-même à ce que je me dois.
 
--*who_tullie
-Hé bien ! Cruel ! Adieu, pour la dernière fois.
-
-**** *book_ *id_III05 *act_III *date_1748
-
--*who_catilina
 Que je me sens touché ! Que mon âme est émue !
 Ah ! Que n'ai-je évité cette fatale vue !
 Mais j'aperçois Probus.
 
-**** *book_ *id_III06 *act_III *date_1748
-
--*who_probus
-      Je viens vous avertir
-Que dès ce même instant, Seigneur, il faut partir.
-Tout s'arme contre vous, et le sénat s'assemble.
-
--*who_catilina
 Qu'aurais-je à redouter d'un ennemi qui tremble ?
 Je veux, à commencer par le plus fier de tous,
 Les voir dans un moment tomber à mes genoux ;
 Et je vais les trouver.
 
--*who_probus
-      Quoi ! Seul et sans défense ?
-
--*who_catilina
 Aucun d'eux n'osera soutenir ma présence :
 Ainsi ne craignez rien.
 
--*who_probus
-      Seigneur, y pensez-vous ?
-Songez que Romulus expira sous leurs coups.
-Je ne condamne point une noble assurance ;
-Mais on n'en doit pas moins consulter la prudence.
-Plus le sénat vous craint, plus il faut du sénat
-Craindre contre vos jours un secret attentat.
-
--*who_catilina
 Non, Probus ; et je brave un péril qui vous glace.
 Le succès fut toujours un enfant de l'audace.
 L'homme prudent voit trop, l'illusion le suit ;
@@ -1340,177 +564,16 @@ Qu'il faut souvent moins d'art que de mépris pour eux.
 Adieu : dans un moment ils me verront paraître
 En criminel qui vient leur annoncer un maître.
 
-**** *book_ *id_IV01 *act_IV *date_1748
-
--*who_ciceron
-Arbitres souverains de Rome et de ses lois,
-Qui parmi vos sujets comptez les plus grands rois,
-Je ne viens point ici, jaloux de votre gloire,
-Briguer avec éclat le prix d'une victoire ;
-Le sort, à mes pareils prodiguant ses faveurs,
-Me réservait le soin d'annoncer des malheurs :
-De mon amour pour vous tel est le premier gage,
-Et de mon consulat le funeste partage.
-Tandis qu'enorgueillis par tant d'heureux travaux
-Vous pouviez méditer des triomphes nouveaux,
-De la terre et des mers vous promettre l'empire,
-Un seul homme à vos yeux travaille à vous proscrire :
-Pourrai-je sans frémir nommer Catilina,
-L'héritier des fureurs du barbare Sylla ;
-Lui que la cruauté, l'orgueil, et l'insolence,
-N'ont que trop parmi nous signalé dès l'enfance ;
-Lui qui, toujours coupable et toujours impuni,
-Veut, ce que n'eût osé l'univers réuni,
-Subjuguer les romains ? ô vous, que Rome adore,
-Et qui par vos vertus la soutenez encore,
-Vous, l'appui du sénat et l'exemple à la fois,
-Incorruptible ami de l'état et des lois,
-Parlez, divin Caton.
-
--*who_caton
-      Et que pourrais-je dire
-En des lieux où l'honneur ne tient plus son empire,
-Où l'intérêt, l'orgueil, commandent tour à tour,
-Où la vertu n'a plus qu'un timide séjour,
-Où de tant de héros je vois flétrir la gloire ?
-Et comment l'univers pourra-t-il jamais croire
-Que Rome eut un sénat et des législateurs,
-Quand les romains n'ont plus ni lois ni sénateurs ?
-Où retrouver enfin les traces de nos pères
-Dans des cours corrompus par des mours étrangères ?
-Moi-même, qui l'ai vu briller de tant d'éclat,
-Puis-je me croire encore au milieu du sénat ?
-Ah ! De vos premiers temps rappelez la mémoire ;
-Mais ce n'est plus pour vous qu'une frivole histoire :
-Vous imitez si mal vos illustres aïeux,
-Que leurs noms sont pour vous des noms injurieux.
-Mais de quoi se plaint-on ? Catilina conspire ;
-Est-il si criminel d'aspirer à l'empire
-Dès que vous renoncez vous-mêmes à régner ?
-Un trône, quel qu'il soit, n'est point à dédaigner.
-Non, non, Catilina n'est pas le plus coupable :
-Voyez de votre état la chute épouvantable,
-Ce que fut le sénat, ce qu'il est aujourd'hui,
-Et le profond mépris qu'il inspire pour lui.
-Scipion, qui des dieux fut le plus digne ouvrage,
-Scipion, ce vainqueur du héros de Carthage,
-Scipion, des mortels qui fut le plus chéri,
-Par un vil délateur se vit presque flétri :
-Alors la liberté ne savait pas dans Rome
-Du simple citoyen distinguer le grand homme ;
-Malgré tous ses exploits, le vainqueur d'Annibal
-Se soumit en tremblant à votre tribunal.
-Sylla vient, qui remplit Rome de funérailles,
-Du sang des sénateurs inonde nos murailles :
-Il fait plus ; ce tyran, las de régner enfin,
-Abdique insolemment le pouvoir souverain,
-Comme un bon citoyen, meurt heureux et tranquille,
-En bravant le courroux d'un sénat imbécile,
-Qui, charmé d'hériter de son autorité,
-Éleva jusqu'au ciel sa générosité,
-Et nomma sans rougir père de la patrie
-Celui qui l'égorgeait chaque jour de sa vie.
-Si vous eussiez puni le barbare Sylla,
-Vous ne trembleriez point devant Catilina ;
-Par là vous étouffiez ce monstre en sa naissance,
-Ce monstre qui n'est né que de votre indolence.
-
--*who_crassus
-N'est-ce qu'en affectant de blâmer le sénat
-Que Caton de son nom croit rehausser l'éclat ?
-Mais il devrait savoir que l'homme vraiment sage
-Ne se pare jamais de vertus hors d'usage.
-Qu'aurions-nous à rougir des temps de nos aïeux ?
-Si ces temps sont changés, il faut changer comme eux,
-Et conformer nos mours à l'esprit de notre âge.
-Et qu'a donc perdu Rome à n'être plus sauvage ?
-Rome est ce qu'elle fut ; ses changements divers
-Ont-ils de notre empire affranchi l'univers ?
-Non ; car ce fier Sylla, d'odieuse mémoire,
-Même en l'asservissant, combla Rome de gloire.
-Mais c'est trop s'occuper de reproches honteux,
-Importunes leçons d'un censeur orgueilleux,
-Qui se trompe toujours au zèle qui l'enflamme.
-Que Caton à son gré nous méprise et nous blâme ;
-N'aurions-nous désormais d'oracle que Caton,
-Et les saintes frayeurs qui troublent Cicéron ?
-Où sont vos ennemis ? Quel péril vous menace ?
-Un simple citoyen vous alarme et vous glace !
-À percer ses complots j'applique en vain mes soins,
-Je vois plus de soupçons ici que de témoins.
-On dirait, à vous voir assemblés en tumulte,
-Que Rome des gaulois craigne encore une insulte,
-Et qu'un autre Annibal va marcher sur leurs pas.
-Où sont des conjurés les chefs et les soldats ?
-Les fureurs de Caton et son impatience
-Dans le sein du sénat semant la défiance,
-On accuse à la fois Cépion, Lentulus,
-Dolabella, César, et moi-même Crassus :
-Voyez de vos conseils jusqu'où va l'imprudence ;
-On craint Catilina, cependant on l'offense ;
-Mais plus vous le craignez, plus il faut ménager
-Un homme et des amis qui pourraient le venger.
-Et quel est, dites-moi, le témoin qui l'accuse ?
-Une femme jalouse et que l'amour abuse,
-Qui, sur les vains soupçons d'une infidélité,
-Veut surprendre à son tour votre crédulité ;
-Qui, sans pudeur livrée à l'ardeur qui l'entraîne,
-Invente des complots pour flatter votre haine.
-Si je plains l'accusé, c'est parce qu'on le hait :
-Voilà le seul témoin qui prouve son forfait ;
-Car la haine a souvent fait plus de faux coupables
-Qu'un penchant malheureux n'en fait de véritables :
-Je dis plus ; et quand même il serait criminel,
-Faut-il comme Caton être toujours cruel ?
-Dans son sang le plus pur voulez-vous noyer Rome ?
-Songez qu'un seul remords peut vous rendre un grand homme :
-La rigueur n'a jamais produit le repentir ;
-Ce n'est qu'en pardonnant qu'on nous le fait sentir.
-Rome n'est plus au temps qu'elle pouvait sans craindre
-Immoler à la loi quiconque osait l'enfreindre :
-D'ailleurs il est toujours imprudent de sévir,
-À moins qu'en sûreté l'on ne puisse punir.
-De quatre légions qui campaient vers Préneste,
-Celle de Manlius est la seule qui reste :
-Quand le sénat devrait punir Catilina,
-Êtes-vous assurés que quelqu'un l'osera ?
-S'il échappe à vos coups, redoutez sa vengeance,
-Et des amis tout prêts d'embrasser sa défense :
-À des projets nouveaux n'allez pas l'inviter
-Par d'impuissants décrets qu'il saurait éviter.
-Pour l'intérêt public il faut qu'on lui pardonne,
-Et qu'à son repentir le sénat l'abandonne.
-
--*who_caton
-Si l'intérêt public décide de son sort,
-Consul, qu'à l'instant même on lui donne la mort.
-
-**** *book_ *id_IV02 *act_IV *date_1748
-
--*who_catilina
 La mort ! à ce décret je crois me reconnaître.
 
--*who_caton
-Tu le devrais du moins, puisqu'il regarde un traître.
-
--*who_catilina
 Je ne sais qui des deux, dans ce commun effroi,
 Rome doit le plus craindre, ou de vous ou de moi :
 Je la sauve, et Caton la perd par un faux zèle.
 
--*who_ciceron
-Téméraire ! Au sénat quel ordre vous appelle ?
-
--*who_catilina
 Et qui m'empêcherait, Seigneur, de m'y montrer ?
 Sont-ce les ennemis que j'y puis rencontrer ?
 Je n'en redoute aucun, ni Caton, ni vous-même.
 
--*who_ciceron
-Quoi ! Vous joignez encore à cette audace extrême
-Celle d'oser paraître en armes dans ces lieux !
-
--*who_catilina
 Que mes armes, consul, ne blessent point vos yeux ;
 Mais sur ce nouveau crime avant que de répondre,
 Souffrez sur d'autres points que j'ose vous confondre :
@@ -1545,13 +608,6 @@ Inhumains, acharnés sur tout ce qui respire ;
 Qui depuis si longtemps tourmentez l'univers !
 Je hais trop les tyrans pour vous donner des fers.
 
--*who_caton
-À quoi te servirait cette troupe cruelle
-Que ton palais impur et vomit et recèle,
-Qui le jour et la nuit semant partout l'effroi,
-Ministres odieux de tes fureurs...
-
--*who_catilina
       Tais-toi.
 Il est vrai qu'autrefois, plus jeune et plus sensible
 (Vous l'avez ignoré ce projet si terrible,
@@ -1606,14 +662,6 @@ Tout est mort sous le joug d'un pouvoir tyrannique :
 Caton est devenu notre législateur,
 L'idole des romains...
 
--*who_ciceron
-      Et vous le destructeur,
-Traître. Si le sénat vous eût rendu justice,
-Vos jours n'auraient été qu'un éternel supplice ;
-Mais si je puis encor faire entendre ma voix,
-Vous ne braverez plus la faiblesse des lois.
-
--*who_catilina
 Eh bien ! Pour achever de confondre un coupable,
 Qu'on offre à mes regards ce témoin redoutable,
 De vos soins pénétrants monument précieux,
@@ -1622,15 +670,6 @@ D'où vient qu'en ce moment vous me cachez Fulvie ?
 Manlius aurait-il disposé de sa vie ?
 Car elle fut toujours l'âme de ses secrets.
 
--*who_ciceron
-Laissons là Manlius ; parlons de vos projets :
-On ne connaît que trop vos lâches artifices.
-Tremblez, séditieux, pour vous, pour vos complices ;
-Vous êtes convaincu, le crime est avéré :
-Déjà sur votre sort on a délibéré ;
-Vos forfaits n'ont que trop lassé notre indulgence.
-
--*who_catilina
 Je vais de ce discours réprimer l'insolence.
 Vous pensez, je le vois, que, tremblant pour mes jours,
 À des subtilités je veuille avoir recours :
@@ -1667,13 +706,6 @@ Reprendre dans mon cour une nouvelle vie ;
 Et votre aveuglement me fait trop de pitié
 Pour vous sacrifier à mon inimitié.
 
--*who_ciceron
-Eh bien ! Rompez, Seigneur, un si cruel silence ;
-Punissez en romain l'ingrat qui vous offense :
-En faveur de vous-même osez tout oublier,
-Et sauvez le sénat pour nous humilier.
-
--*who_catilina
 Je n'ai point attendu l'instant du sacrifice
 Pour servir ce sénat qui m'envoie au supplice ;
 Depuis huit jours entiers j'assemble mes amis.
@@ -1685,10 +717,6 @@ Si vous voulez sauver la ville et le sénat.
 Celui qui hors des murs commande vos cohortes,
 Manlius, dès ce soir, doit attaquer vos portes.
 
--*who_ciceron
-Manlius !
-
--*who_catilina
       Oui, consul ; craignez qu'avant la nuit
 Aux dépens de vos jours on n'en soit trop instruit.
 Je vous ai déclaré le chef de l'entreprise ;
@@ -1736,59 +764,15 @@ Qu'il me traite en héros, ou me punisse en traître :
 Souffrez que sans tarder je remette en ses mains
 Un homme la terreur ou l'espoir des romains.
 
--*who_caton
-Catilina, je crois que tu n'es point coupable ;
-Mais, si tu l'es, tu n'es qu'un homme détestable ;
-Car je ne vois en toi que l'esprit et l'éclat
-Du plus grand des mortels, ou du plus scélérat.
-
--*who_ciceron
-Catilina, daignez reprendre votre place ;
-De vos soins par ma voix le sénat vous rend grâce :
-Vous êtes généreux ; devenez aujourd'hui,
-Ainsi que notre espoir, notre plus ferme appui.
-Nos injustes soupçons n'ont plus besoin d'otage ;
-D'un homme tel que vous la gloire est le seul gage.
-Vous, sénateurs, veillez à notre sûreté :
-Il s'agit du sénat et de la liberté ;
-Courons sans différer où l'honneur nous appelle.
-Adieu, Catilina : j'attends de votre zèle
-Tous les secours qu'on doit attendre d'un grand cour.
-Rome a besoin de vous et de votre valeur ;
-Combattez seulement, ma crainte est dissipée.
-
--*who_catilina
 Va ; ma valeur bientôt sera mieux occupée ;
 Elle n'aspire plus qu'à te percer le sein.
 
-**** *book_ *id_IV03 *act_IV *date_1748
-
--*who_cethegus
-Catilina, dis-moi, quel est donc ton dessein ?
-D'où naît ce désespoir ? Éclaircis ma surprise.
-Après avoir formé la plus haute entreprise,
-Toi-même tu détruis de si nobles projets !
-Tu trahis Manlius, tes amis, tes secrets !
-
--*who_catilina
 Arrête, Céthégus ; tu me prends pour Tullie :
 Tes doutes ont blessé l'amitié qui nous lie ;
 Qu'entre nous désormais ils soient plus mesurés.
 Mais avant tout dis-moi l'état des conjurés,
 Et s'il en est quelqu'un qui tremble ou qui balance.
 
--*who_cethegus
-Aucun d'eux : nous pouvons agir en assurance.
-Autour du vase affreux par moi-même rempli
-Du sang de Nonius avec soin recueilli,
-Au fond de ton palais j'ai rassemblé leur troupe :
-Tous se sont abreuvés de cette horrible coupe ;
-Et, se liant à toi par des serments divers,
-Semblaient dans leurs transports défier les enfers.
-De joie et de frayeur mon âme s'est émue.
-César, le seul César s'est soustrait à leur vue.
-
--*who_catilina
 César n'a pas besoin de serments avec moi,
 Et son ambition me répond de sa foi.
 Pour toi, que de ma part rien ne devrait surprendre,
@@ -1845,10 +829,6 @@ Que ce moment me tarde, et qu'il me serait doux
 De pouvoir d'un seul coup les sacrifier tous !
 Adieu, cher Céthégus : je vais revoir Tullie.
 
--*who_cethegus
-C'est elle qui nous perd.
-
--*who_catilina
       Crois-tu que je l'oublie ?
 Je veux, pour l'en punir, employer à mon tour
 Aux plus noirs attentats ses soins et son amour :
@@ -1873,9 +853,840 @@ De ses forfaits nouveaux et de sa perfidie.
 Plus de ménagements, de pitié, ni d'égards :
 Le feu, le fer, le sang, voilà mes étendards.
 
-**** *book_ *id_V01 *act_V *date_1748
+      Un malheureux qui vient d'être vaincu,
+Honteux de vivre encore, ou d'avoir tant vécu.
+Dieux, qui m'abandonnez à mon sort déplorable,
+Ramenez-moi du moins l'ennemi qui m'accable.
+En vain, pour le chercher, j'échappe à mille bras,
+Le lâche à ma fureur ne s'exposera pas.
+Tandis qu'au désespoir tout mon cour est en proie,
+Mes cruels ennemis se livrent à la joie.
+Ce fer, que je gardais pour leur percer le flanc,
+Ne sera plus souillé que de mon propre sang.
 
--*who_ciceron
+Eh ! Sait-il seulement qu'on meurt pour la patrie ?
+Ce n'est pas vous, c'est lui que je cherche en ces lieux ;
+Fuyez, éloignez-vous d'un amant furieux.
+Dieux ! Après tant d'exploits dignes de mon courage,
+Il ne me restera qu'une inutile rage !
+Ah ! Si j'eusse manqué de prudence ou de cour,
+Je pourrais au destin pardonner mon malheur ;
+Mais que n'ai-je point fait dans ce moment terrible !
+Et que fallait-il donc pour me rendre invincible ?
+Intrépides amis, dignes d'un sort plus doux,
+Vous êtes morts pour moi, j'ose vivre après vous !
+Quoi ! Sylla presque seul, plus heureux que grand homme,
+N'eut besoin que d'un jour pour triompher de Rome ;
+Et moi, triste jouet du perfide Céson,
+Je suis vaincu deux fois, et par toi, Cicéron !
+Quoi ! Dans le même instant qu'il faut que Rome tombe,
+C'est toi qui la soutiens, et c'est moi qui succombe !
+Mon génie, accablé par ce vil plébéien,
+Sera donc à jamais la victime du sien ?
+Après m'avoir ravi la dignité suprême,
+Ce timide mortel triomphe de moi-même !
+Fortune des héros, ce n'est pas sur les cours
+Que l'on te vit toujours mesurer tes faveurs.
+Que l'on doit mépriser les lauriers que tu donnes,
+Puisque c'est Cicéron qu'aujourd'hui tu couronnes !
+Ô de mon désespoir vil et faible instrument,
+Tu me restes donc seul dans ce fatal moment !
+Mes généreux amis sont morts pour ma défense ;
+Et, pour comble d'horreurs, je mourrai sans vengeance !
+Dieux cruels, inventez quelque supplice affreux,
+Qui puisse être pour moi plus triste et plus honteux !
+
+Qu'entends-je ? On m'ose ici reprocher des forfaits !
+Cour faible, qui, rampant sous de lâches maximes,
+Croyez l'ambition une source de crimes,
+Vaine erreur qu'un grand cour sut toujours dédaigner,
+Apprenez que le mien était fait pour régner.
+Rome esclave, sans frein, avait besoin d'un maître :
+J'ai voulu lui donner le seul digne de l'être ;
+C'est moi. Si vous osez condamner ce projet,
+Vous ne méritez pas d'en devenir l'objet.
+N'auriez-vous pas voulu, pour gouverner l'empire,
+Que j'eusse de Caton consulté le délire ;
+Ou que, faisant un choix plus conforme à vos voux,
+J'eusse, pour avilir tant d'hommes généreux,
+Donné ma voix au dieu que le sénat révère,
+Lui dont la seule gloire est d'être votre père ?
+
+Voilà celui qui doit décider de leur cours.
+Tout vaincu que je suis, craignez de voir paraître
+Cet arbitre nouveau qu'on me donne pour maître.
+
+Ma grâce est dans mes mains, cour indigne du mien.
+Cicéron vous a-t-il déjà transmis le sien ?
+Moi, fléchir ! Moi, prier ! Moi, demander la vie !
+L'accepter, ce serait me couvrir d'infamie.
+
+M'y pourriez-vous cacher ma honte et ma défaite ?
+C'est là le trait cruel qui déchire mon cour.
+Ah ! S'il vous touche encor, respectez mon malheur.
+Si de vous obéir ce cour était capable,
+J'aurais trop mérité le destin qui m'accable.
+Dans l'état où je suis, loin de vous attendrir,
+C'est vous qui devriez m'exciter à mourir,
+Et même me prêter une main généreuse.
+Cachez à mes regards cette douleur honteuse.
+Que craignez-vous ? Ma mort ? La mort n'est qu'un instant
+Que le grand cour défie, et que le lâche attend.
+Vous m'indignez : je sens que ma raison s'égare.
+
+      Le voilà.
+
+Tout est fini pour moi : mais, si je perds la vie,
+Du moins mes ennemis ne me l'ont point ravie.
+Séchez vos pleurs, Tullie ; et que prétendez-vous
+D'un cour dont la mort seule éteindra le courroux ?
+Étouffez des regrets que ma fierté dédaigne ;
+C'est de mourir vaincu qu'il faut que l'on me plaigne.
+
+Voici le dernier coup que me gardait le sort.
+
+Amis infortunés, ma main vient de répandre
+Ce sang que j'aurais dû verser pour vous défendre.
+
+Il ne me restait plus, pour comble de douleur,
+Que d'expirer aux yeux de mon lâche vainqueur.
+Approche, plébéien ; viens voir mourir un homme
+Qui t'a laissé vivant pour la honte de Rome.
+Et toi, dont la vertu ressemble à la fureur,
+Au gré de mes désirs tu feras son malheur.
+Cruels, qui redoublez l'horreur qui m'environne,
+Qu'heureusement pour vous la force m'abandonne !
+Mais croyez qu'en mourant mon cour n'est point changé.
+Ô César ! Si tu vis, je suis assez vengé.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lentulus
+
+Catilina, laissons un discours qui m'offense ;
+Tes soupçons sont toujours trop près de ta prudence.
+À force de vouloir approfondir un cour,
+Un faux jour a souvent produit plus d'une erreur ;
+Et les plus éclairés ont peine à s'en défendre :
+Mais un chef de parti ne doit point s'y méprendre.
+D'entre les conjurés distingue tes amis,
+Et qu'un discours sans fard leur soit du moins permis.
+De toutes les grandeurs qui feront ton partage
+Je ne t'ai demandé que ce seul avantage ;
+Laisse-m'en donc jouir : mon amitié pour toi
+N'a que trop signalé sa constance et sa foi.
+Dis-moi, si ta fierté jusque-là peut descendre,
+De tant d'excès affreux ce que tu peux prétendre.
+Pourquoi faire égorger Nonius cette nuit ?
+Et de ce meurtre enfin quel peut être le fruit ?
+
+Songe à les subjuguer sans te rendre odieux.
+Mais avant que le jour nous surprenne en ces lieux,
+Au temple de Tellus dis-moi ce qui t'appelle ;
+Son grand-prêtre Probus te sera-t-il fidèle ?
+Quoique rien en ces lieux ne borne son pouvoir,
+Je ne sais si Probus remplira notre espoir.
+Il est vrai qu'à ses soins nous devons cet asile,
+Dont il nous rend l'accès aussi sûr que facile ;
+Mais au nouveau consul le grand-prêtre est lié
+Par l'intérêt, le sang, l'orgueil, ou l'amitié.
+Lorsqu'à des conjurés ses pareils s'associent,
+C'est par des trahisons que tous se justifient.
+Aujourd'hui le sénat doit s'assembler ici ;
+Ce n'est pas cependant mon plus cruel souci :
+Je crains, je l'avouerai, les fureurs de Fulvie,
+Et je crains encor plus ton amour pour Tullie,
+Fille d'un ennemi dangereux et jaloux,
+De Cicéron enfin, l'objet de ton courroux.
+Eh ! Comment, dans un cour qu'un si grand soin entraîne,
+Peux-tu concilier tant d'amour et de haine ?
+L'amour, pour tes pareils, aurait-il des appas ?
+
+Elle a trop pénétré l'artifice du tien
+Pour ne se point venger de tant de perfidie :
+Elle est femme, jalouse, imprudente, hardie ;
+Elle sait tout ; bientôt nous serons découverts,
+Et je n'entrevois plus que de tristes revers.
+Que faisons-nous dans Rome ? Et sur quelle espérance
+Parmi tant d'ennemis avoir tant d'assurance ?
+Contre César et toi les clameurs de Caton
+Ne cessent d'irriter Antoine et Cicéron :
+Ces deux consuls, tous deux amis de la patrie,
+Brûlant de cet amour que tu nommes manie,
+Peut-être trop instruits de nos desseins secrets
+Préviendront d'un seul coup ta haine et tes projets.
+Déjà de toutes parts je vois grossir l'orage :
+Crassus devient suspect ; t'en faut-il davantage ?
+Et tu n'ignores pas que depuis plus d'un jour
+Les lettres de Pompée annoncent son retour ;
+Que Pétréius, suivi de nombreuses cohortes,
+Bientôt de Rome même occupera les portes.
+César, dont le génie égale le grand cour,
+T'accuse d'imprudence et de trop de lenteur.
+
+Ah ! Je te reconnais à ce noble langage :
+Rome même est trop peu pour un si grand courage ;
+Remplis ton sort, fais voir à l'univers jaloux
+Qu'il ne devait avoir d'autres maîtres que nous.
+Adieu, Catilina. Probus vient : je te laisse.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_probus
+
+Eh quoi ! Seigneur, c'est vous que votre vigilance
+A conduit le premier aux autels que j'encense !
+Saviez-vous que Tullie y dût porter ses pas ?
+
+Eh ! Ce n'est pas moi seul, Seigneur, qu'il intéresse ;
+Il rejaillit sur vous encor plus que sur moi,
+Vous qu'un vil orateur fait plier sous sa loi ;
+Vous qui jusqu'à ce jour, armé d'un front terrible,
+Des cours audacieux fûtes le moins flexible ;
+Qui d'un sénat tremblant à votre fier aspect
+Forciez d'un seul regard l'insolence au respect :
+À sa voix aujourd'hui plus soumis qu'un esclave,
+Enfin à votre tour vous souffrez qu'on vous brave ;
+Et vous abandonnez le soin de l'univers
+À des hommes sans nom qui mettent Rome aux fers.
+Eh ! Que m'importe à moi que le sénat m'outrage,
+Que la corruption mette à prix son suffrage ?
+L'univers ne perd rien à mon abaissement,
+Mon nom ni mes vertus n'en font pas l'ornement ;
+Les dieux ne m'ont point fait pour le régir en maître :
+Vous seul... mais désormais méritez-vous de l'être
+Avec une valeur qui n'oserait agir,
+Et ce front outragé qui ne sait que rougir ?
+Quoi ! Pour vous engager à sauver la patrie
+Faudra-t-il qu'avec moi tout un peuple s'écrie :
+« La mort nous a ravi Marius et Sylla ;
+Qu'ils revivent en toi, règne, Catilina ? »
+
+      Quel est-il ?
+
+Ainsi vous souffrirez qu'elle soit asservie ;
+Qu'un peuple qui vous a nommé son protecteur
+Soit réduit à chercher un autre défenseur.
+En vain, fondant sur vous sa plus chère espérance,
+Rome vous élevait à la toute-puissance :
+J'entrevois dans le cour d'un fier patricien
+Les faiblesses de cour d'un obscur plébéien ;
+Et c'est Catilina qui seul ici protège
+Un reste de sénat impur et sacrilège,
+Un tas d'hommes nouveaux proscrits par cent décrets,
+Que l'orgueilleux Sylla dédaigna pour sujets !
+Disparu dans l'abîme où son orgueil le plonge,
+Les grandeurs du sénat ont passé comme un songe :
+Non, ce n'est plus ce corps digne de nos autels,
+Où les dieux opinaient à côté des mortels ;
+De ce corps avili Minerve s'est bannie
+À l'aspect de leur luxe et de leur tyrannie ;
+On ne voit que l'or seul présider au sénat,
+Et de profanes voix fixer le consulat.
+Enfin Rome n'est plus, sans le secours d'un maître ;
+Et qui d'eux plus que vous serait digne de l'être ?
+César semble promettre un heureux avenir,
+Que peut-être moins jeune il osera ternir :
+Lucullus n'est plus rien, et son rival Pompée
+N'a pour lui qu'un bonheur où Rome s'est trompée.
+Crassus, plein de désirs indignes d'un grand cour,
+Borne à de vils trésors les soins de sa grandeur :
+Cicéron, ébloui du feu de son génie...
+Mais je veux respecter le père de Tullie.
+Pour Caton, je n'y vois qu'un courage insensé,
+Un faste de vertu qu'on a trop encensé.
+Le reste n'est point fait pour prétendre à l'empire ;
+C'est à vous seul, Seigneur, que j'ose le prédire.
+Quelle gloire pour vous, en domptant les romains,
+De pouvoir vous vanter au reste des humains
+Que, sans avoir des dieux emprunté le tonnerre,
+Un seul homme a changé la face de la terre !
+
+La gloire de bien faire, et le salut de tous ;
+Ce qu'un grand cour, flatté de cet honneur suprême,
+Aurait dû dès longtemps se proposer lui-même.
+
+Hé bien ! Qu'à ce remords de prompts effets succèdent :
+D'armes et de soldats remplissons tous ces lieux
+Où le sénat impie ose troubler mes dieux ;
+Dans un sang ennemi...
+
+      Mais j'aperçois Tullie.
+
+Cédez moins au torrent de votre jalousie ;
+Et, loin de m'offenser, écoutez-moi, Fulvie :
+Considérez l'abîme où va vous engager
+Une folle habitude à ne rien ménager.
+Vous croyez vous venger, vous vous perdez vous-même,
+Et de plus un amant qui peut-être vous aime.
+Le dépit n'a jamais satisfait ses transports
+Qu'il n'ait livré notre âme à d'éternels remords :
+L'amour le mieux vengé, quelle que soit l'offense,
+Est souvent le premier à pleurer sa vengeance ;
+On punit l'inconstant, mais on perd en un jour
+L'objet de sa tendresse et l'espoir d'un retour.
+Enfin que savez-vous si l'on aime Tullie ?
+À travers les fureurs dont votre âme est saisie
+Croyez-vous que l'amour éclaire assez vos yeux
+Pour percer les replis d'un cour ambitieux ?
+Vous savez les projets que votre amant médite :
+En pénétrez-vous bien le détail et la suite ?
+Un homme tel que lui doit-il à découvert
+Se montrer sans prudence au grand jour qui le perd ?
+Peut-il porter trop loin l'artifice et la feinte ?
+Non, il faut que son cour ne soit qu'un labyrinthe,
+Que l'amour même en vain y cherche des secrets
+Que pour lui la raison et l'honneur n'ont point faits.
+L'usage qu'aujourd'hui vous avez osé faire
+Des secrets dont l'amour vous fit dépositaire
+Ne vous prouve que trop, malgré votre dépit,
+Pour peu qu'il ait parlé, qu'il n'en a que trop dit.
+L'impétueux Caton murmure, tonne, éclate,
+Trouble tout pour servir un consul qui le flatte :
+Devenu du sénat et l'idole et l'espoir,
+Cicéron est armé du souverain pouvoir :
+Le sénat, qui sur lui redoute une entreprise,
+Pour mettre son héros à couvert de surprise,
+De l'ordre équestre entier le fait accompagner ;
+Puisqu'on ne peut le perdre, il faut donc le gagner :
+Pour le faire périr il faut la force ouverte ;
+Mais ce serait sans fruit travailler à sa perte.
+Un hymen prétendu peut calmer ses frayeurs,
+Et cet hymen devient l'objet de vos fureurs !
+Plus de raison alors ; et la fière Fulvie
+Expose un nom célèbre au mépris de Tullie,
+Se couvre sans rougir d'un vil déguisement !
+Pourquoi ce déshonneur ? Pour perdre son amant.
+Ah, Madame ! Ce cour, dont j'ai plaint la tendresse,
+De l'habit qui vous cache a-t-il pris la bassesse ?
+Dans quel sein déposer des secrets dangereux,
+Si le cour d'une amante est un écueil pour eux ?
+Vit-on jamais l'amour dans sa plus noire ivresse
+Emprunter du dépit une langue traîtresse ?
+
+Eh bien ! Perdez, Madame, un homme généreux
+Qui veut briser les fers de tant de malheureux ;
+Vengez votre beauté d'un amant infidèle,
+Et votre orgueil blessé des projets qu'il vous cèle ;
+D'un long embrasement devenez le flambeau,
+Et nous ouvrez à tous les portes du tombeau.
+Mais Catilina vient ; évitez sa présence,
+Ou du moins gardez-vous d'irriter sa vengeance.
+
+      Je viens vous avertir
+Que dès ce même instant, Seigneur, il faut partir.
+Tout s'arme contre vous, et le sénat s'assemble.
+
+      Quoi ! Seul et sans défense ?
+
+      Seigneur, y pensez-vous ?
+Songez que Romulus expira sous leurs coups.
+Je ne condamne point une noble assurance ;
+Mais on n'en doit pas moins consulter la prudence.
+Plus le sénat vous craint, plus il faut du sénat
+Craindre contre vos jours un secret attentat.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+
+Si ce sont là les dieux à qui tu sacrifies,
+Apprends qu'ils ont toujours abhorré les impies,
+Et que si leur pouvoir égalait leur courroux
+La foudre deviendrait le moindre de leurs coups.
+
+Ah ! Ce n'est qu'à vous seuls, grands dieux ! Que je m'adresse,
+Et non à des cruels qu'aucun remords ne presse ;
+Monstres, dont la fureur brave les immortels,
+Et que le crime suit jusqu'au pied des autels ;
+Qui, tout baignés d'un sang qui demande vengeance,
+Osent des dieux vengeurs insulter la présence.
+Le sang de Nonius versé près de ces lieux
+Fume encore ; et voilà l'encens qu'on offre aux dieux !
+La sacrilège main qui vient de le répandre
+N'attend plus qu'un flambeau pour mettre Rome en cendre.
+Ce n'est point Mithridate, ennemi des romains,
+Ni le gaulois altier, qui forme ces desseins ;
+Grands dieux ! C'est une main plus fatale et plus chère,
+Qui menace à la fois la patrie et mon père :
+Ces excès de fureur, inconnus à Sylla,
+N'étaient faits que pour toi, traître Catilina.
+
+Et qu'ai-je à redouter de ton inimitié ?
+Tu ne me verras point implorer ta pitié,
+Cruel ! Tu peux porter à la triste Tullie
+Tous les coups que ta main réserve à la patrie ;
+Borne tes cruautés à déchirer un cour
+Qui s'est déshonoré par une lâche ardeur ;
+Ce cour, que trop longtemps a souillé ton image,
+N'est plus digne aujourd'hui que d'opprobre et d'outrage ;
+Rien ne peut expier la honte de mes feux :
+Mais ne présume pas que ce cour malheureux,
+Que tes fausses vertus t'ont rendu favorable,
+T'épargne un seul moment dès qu'il te sait coupable ;
+Tu le verras plus prompt à s'armer contre toi
+Qu'il ne le fut jamais à t'engager sa foi.
+Grands dieux ! N'ai-je brûlé d'une flamme si pure
+Que pour un assassin, un rebelle, un parjure !
+Et le barbare encore insulte à ma douleur !
+Il veut que mon devoir respecte sa fureur !
+Mais, cruel ! Mon amour n'en sera point complice ;
+Dût-on charger ma main du soin de ton supplice,
+Je n'hésiterai point à te sacrifier.
+Tu n'as plus qu'un moment à te justifier.
+
+D'un complot qui bientôt te coûtera la vie.
+Mais puisque ton orgueil s'obstine à le nier,
+Et que tu me réduis, traître, à t'humilier,
+Esclave, paraissez.
+
+Parlez ; je vous l'ordonne au nom de la patrie.
+
+Parlez, et dépouillez ce frivole respect :
+Un esclave enhardi par le salut de Rome
+Doit-il tant s'effrayer à l'aspect d'un seul homme ?
+Connaissez-vous celui qui paraît à vos yeux ?
+Répondez ; quel est-il ?
+
+Ingrat, rougis du crime, et non pas du témoin :
+Mais en vain ton orgueil s'attache à le confondre ;
+Vanter ta dignité, ce n'est pas me répondre.
+Adieu.
+      Vous, suivez-moi.
+
+      Quel est donc ton dessein ?
+
+En vain par ce dépôt tu crois m'en imposer,
+Je vois à quel dessein tu veux en disposer.
+
+Arrêtez un moment, j'ai deux mots à vous dire :
+Cependant, à l'effroi que votre accueil m'inspire,
+Je ne sais si je dois m'expliquer avec vous.
+Victimes tous les deux d'une amante en courroux,
+Si mes cruels soupçons vous ont fait une offense,
+N'en accusez que vous, et votre fier silence ;
+Car vous pouviez d'un mot désabuser mon cour.
+Pourquoi, loin d'éclaircir une funeste erreur,
+Me cacher, aux dépens de toute mon estime,
+Un témoin dont le nom vous eût absous du crime,
+Et que rendait suspect son amour irrité ?
+Vous savez de mes mours quelle est l'austérité,
+Qu'enchaînée aux devoirs d'une innocente vie,
+Je n'ai jamais connu que le nom de Fulvie ;
+Que ne m'épargniez-vous la honte et le remords
+D'avoir trop écouté ses coupables transports ?
+Fallait-il exposer une âme vertueuse
+À servir les fureurs d'une âme impétueuse ?
+
+Dût sa haine aujourd'hui m'être encor plus fatale,
+Malgré votre courroux, je veux vous engager
+À respecter ses feux, même à la ménager :
+D'un pareil ennemi vous n'avez rien à craindre,
+Et son sexe et son nom, tout m'oblige à la plaindre :
+Ainsi, loin d'insulter à son déguisement,
+Faisons-la de ces lieux sortir secrètement.
+Vous n'avez contre vous de témoin que Fulvie,
+Et l'on n'en croira point sa folle jalousie.
+Loin de vous présenter l'un et l'autre au sénat,
+Évitez pour moi-même un dangereux éclat.
+Que vous reviendrait-il d'une faible victoire,
+Qui, loin de l'embellir, flétrirait votre gloire ?
+Croyez-moi, méprisez une amante en fureur,
+Qui d'ailleurs ne voulait que vous perdre en mon cour.
+
+Pourriez-vous de ma part craindre une perfidie ?
+
+Du moins en ma présence épargnez Cicéron.
+
+Il en est temps encor, cruel, écoutez-moi :
+N'allez point au sénat, fiez-vous à ma foi.
+Sur de vaines rumeurs votre fierté s'abuse ;
+Songez que c'est moi seule ici qui vous accuse ;
+Que je puis d'un seul mot rassurer les esprits,
+Et dissiper l'erreur qui les avait surpris.
+Si de nos premiers feux vous perdez la mémoire,
+Songez du moins, Seigneur, qu'il y va de ma gloire.
+Quoi ! Vous pouvez m'aimer, et me sacrifier
+À l'orgueilleux honneur de vous justifier !
+L'amour vous justifie et reprend son empire :
+Quand mon cour vous absout, mon cour doit vous suffire.
+Le sénat contre vous n'a rien fait publier :
+Ah ! Laissez-moi l'honneur de vous concilier ;
+Laissez-moi réunir mon amant et mon père.
+Hélas ! Était-ce à moi d'en parler la première ?
+L'amour n'offre donc plus à vos tendres souhaits
+Aucun bien qui vous puisse engager à la paix !
+Vous êtes des romains la plus noble espérance,
+Daignez contre vous-même embrasser leur défense.
+De quoi vous plaignez-vous, quand c'est vous seul, ingrat,
+Qui voulez aujourd'hui convoquer le sénat ?
+Si vous vous obstinez encore à vous défendre,
+Le consul à son tour voudra s'y faire entendre ;
+Et bientôt vos amis, ardents et furieux,
+De carnage et d'horreur vont remplir tous ces lieux.
+Voulez-vous mettre en feu la ville infortunée
+Que votre amante habite, où votre amante est née ?
+Laissez-moi désarmer vos redoutables mains ;
+Accordez à mes pleurs la grâce des romains ;
+Et qu'il soit dit du moins de l'heureuse Tullie
+Que le dieu de son cour fut dieu de sa patrie.
+
+Hé bien ! Cruel ! Adieu, pour la dernière fois.
+
+Seigneur, où courez-vous, tandis que le carnage
+Au soldat furieux laisse à peine un passage ?
+
+Espoir des malheureux, dieux, soyez mon recours !
+Hélas ! C'est de vous seuls que j'attends du secours.
+À quel excès de maux me voilà parvenue !
+On me fuit, on se tait : ô soupçon qui me tue !
+Que je plains les malheurs de ce fatal décret,
+Que mon père a paru m'accorder à regret !
+Loin d'oser sur ce choix lui faire violence,
+Ne devais-je pas mieux pénétrer son silence ?
+J'entends avec fureur nommer Catilina ;
+On dit qu'il se retranche au palais de Sylla,
+Tandis qu'en d'autres lieux il aurait dû paraître.
+Est-ce là, s'il m'aimait, que l'ingrat devrait être ?
+Peut-il m'abandonner en cette extrémité ?
+Quel usage fait-il de sa fidélité ?
+Aucun de ses amis n'accourt pour ma défense ;
+Et tous, jusqu'à Probus, évitent ma présence.
+D'un funeste décret n'aurais-je armé sa main
+Que pour voir immoler jusqu'au dernier romain ?
+Cruel Catilina, soit perfide ou fidèle,
+Que tu coûtes de pleurs à ma douleur mortelle !
+Que dis-je ? Et Manlius qu'il a sacrifié
+Ne l'a-t-il pas déjà plus que justifié ?
+Ne l'aimerai-je donc que pour lui faire outrage ?
+Dieux, éloignez de moi cet horrible nuage.
+On vient : c'est lui. Je sens redoubler mon effroi.
+
+Seigneur, en quel état vous offrez-vous à moi ?
+Quoi ! Tout couvert de sang ! Quel désordre effroyable !
+À qui réservez-vous ce fer impitoyable ?
+Que vois-je ?
+
+Fatale vérité, que j'ai trop combattue,
+De quel affreux éclat viens-tu frapper ma vue !
+Écoutez-moi, Seigneur, et reprenez vos sens.
+Qui peut vous arracher ces terribles accents ?
+Si vous êtes vaincu, mon père est donc sans vie ?
+
+Malheureux ! Que dis-tu ? Quand la mort t'environne,
+Ton cour respire encor le fiel qui l'empoisonne,
+Et gémit de laisser des crimes imparfaits !
+
+Songez qu'il est du moins l'arbitre de vos jours.
+
+Écoutez-moi, cruel, avant que la fureur
+Achève d'aveugler votre indomptable cour :
+Les moments nous sont chers ; et celui-ci, peut-être,
+Va flétrir sur l'airain le jour qui vous vit naître.
+Encor si, dans les champs où préside l'honneur,
+Où le vaincu souvent peut braver le vainqueur,
+Je vous voyais chercher une sorte de gloire,
+Je pourrais, sans rougir, chérir votre mémoire :
+Mais se donner la mort pour de honteux complots,
+Est-ce donc là mourir de la mort des héros ?
+Je devrais vous haïr ; mais votre mort prochaine
+Éteint tout sentiment de vengeance et de haine.
+Mon cour, de ses devoirs autrefois si jaloux,
+Qui, malgré tout l'amour dont il brûlait pour vous,
+Se fit de votre perte un devoir légitime,
+Ne sait plus aujourd'hui que pleurer sa victime.
+Barbare, si jamais vous fûtes mon amant,
+Si la mort vous paraît un frivole tourment,
+Craignez-en un pour vous plus cruel : c'est moi-même ;
+C'est une amante en pleurs, qui vous perd et vous aime ;
+C'est ma douleur, qui va me conduire au tombeau.
+Voulez-vous, en mourant, devenir mon bourreau ?
+Reconnaissez ma voix ; c'est la fière Tullie,
+Que l'amour vous ramène et vous réconcilie,
+Qui veut vous arracher à votre désespoir,
+Et qui ne rougit plus de trahir son devoir.
+Songez, Catilina, que Rome est votre mère ;
+Qu'à vous, plus qu'à tout autre, elle doit être chère.
+Renoncez à l'orgueil de vouloir mettre aux fers
+Un peuple à qui les dieux ont soumis l'univers.
+Pour sauver votre honneur, n'employez d'autres armes
+Qu'un retour vertueux, vos remords, et mes larmes :
+Jurez-moi que jamais vous ne teindrez vos mains
+De votre propre sang, ni du sang des romains.
+Je vais vous dérober au coup qui vous menace ;
+Ce que j'ai fait pour Rome obtiendra votre grâce.
+
+Eh bien ! Cruel, méprise un pardon généreux,
+J'y consens ; mais du moins, dans ton sort malheureux,
+De la part d'une amante accepte une retraite.
+
+Frappe ; mais, malgré toi, tu me suivras, barbare.
+Ne crois pas m'effrayer par tes emportements ;
+Je ne me connais plus dans ces affreux moments.
+Quoi ! C'est Catilina qui manque de constance !
+Malheureux ! Qu'attends-tu, sans armes, sans défense ?
+Le sénat va bientôt revenir en ces lieux ;
+Veux-tu que je te voie égorger à mes yeux ?
+Ingrat, suis-moi ; du moins, une fois en ta vie,
+Reconnais, par pitié, l'empire de Tullie.
+Tu n'as que trop bravé sa tendresse et ses pleurs ;
+Prête-moi ce poignard.
+
+      Je me meurs !
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
+
+Qui ? Moi parler, Madame ! à quel péril affreux
+Exposez-vous ici les jours d'un malheureux !
+D'un romain, quel qu'en soit le rang et la naissance,
+Je sais combien je dois respecter la présence ;
+De celui-ci surtout je redoute l'aspect.
+
+      C'est un séditieux ;
+Je ne connais que trop ce mortel redoutable,
+Et le plus grand de tous, s'il était moins coupable.
+Oui, Madame, c'est lui ; voilà le furieux
+Qui veut souiller de sang sa patrie et ses dieux,
+Égorger le sénat, immoler votre père,
+Et la flamme à la main désoler Rome entière.
+
+N'abusez point, Probus, de l'état où je suis ;
+Je vous perdrai : du moins songez que je le puis.
+Vous croyez, à l'abri de votre caractère,
+Pouvoir impunément défier ma colère,
+Et que mon cour, tremblant à l'aspect de ce lieu,
+Va mettre au même rang le ministre et le dieu :
+Et quel ministre encore ! Un sacrilège, un traître,
+Qui, de Catilina devenu le grand-prêtre,
+Des Tarquins sur son front veut ceindre le bandeau,
+Et du sang des romains nourrir ce dieu nouveau ;
+Lâche, qui se dévoue aux amours de Tullie,
+Qui, de ses propres dieux profanateur impie,
+Prête leur sanctuaire à des feux criminels,
+Déshonore le prêtre, et souille les autels.
+
+Qui donc ai-je trahi, ministre ambitieux ?
+Et quelle foi doit-on à des séditieux ?
+La garder aux méchants, c'est partager leurs crimes.
+Mais je vois que Probus connaît peu ces maximes ;
+Et je sais, quand la haine enflamme vos pareils,
+Jusqu'où va la noirceur de leurs lâches conseils,
+Surtout dès qu'il s'agit de venger leurs injures.
+César est désigné souverain des augures ;
+Cicéron a brigué pour ce rival heureux,
+Et le place en un rang dont on flattait vos voux ;
+Catilina d'ailleurs vous était favorable.
+Le moyen qu'à vos yeux je ne sois point coupable,
+Moi qui viens de sauver un consul odieux,
+Qui s'est osé jouer d'un ministre des dieux ;
+Qui, de sa dignité dépositaire habile,
+Plein de faste aux autels, et près des grands servile,
+Sur l'espoir de leurs dons mesure sa ferveur,
+Et n'adore en effet que la seule faveur !
+Mon devoir m'ordonnait de sauver la patrie :
+Imitez-le, ou gardez vos conseils pour Tullie.
+Croyez-moi, terminez d'imprudentes leçons
+Qui ne font qu'irriter ma haine et mes soupçons :
+Cessez de me flatter qu'on peut m'aimer encore ;
+J'ai trop vu la beauté que l'infidèle adore :
+Mes yeux avant ce jour ne la connaissaient pas ;
+Mais vous me payerez ses funestes appas :
+C'est vous qui leur gagnez sur moi la préférence ;
+Moi que déshonorait la seule concurrence.
+Pourquoi de cet hymen m'a-t-on fait un secret ?
+Et pourquoi, s'il est feint, m'en cacher le projet ?
+Traître, ce n'est pas vous qui deviez me l'apprendre ;
+Mais on croit n'avoir rien à craindre d'un cour tendre :
+Sachez que d'un secret à demi confié,
+Dès qu'on peut une fois percer l'autre moitié,
+On est toujours en droit d'en trahir le mystère,
+Et qu'on ne doit plus rien à qui nous l'ose faire.
+
+Poursuis, Catilina : le reproche sied bien
+À des cours innocents et purs comme le tien ;
+Mais dans l'art de tromper, ta science suprême,
+Tu m'en as trop appris pour me tromper moi-même.
+Va, cesse d'éclater sur mon déguisement ;
+Tout, jusqu'à ton courroux, est faux en ce moment.
+Égorge Cicéron aux yeux de sa famille,
+Je ne t'en croirai pas moins épris de sa fille.
+Ce n'est pas d'aujourd'hui que tu sais allier
+La vertu, les forfaits, l'amant, le meurtrier ;
+Et Tullie à tes yeux fût-elle encor plus chère,
+Rien ne garantirait la tête de son père.
+Mais de quoi te plains-tu ? Quel est mon attentat ?
+Est-ce moi qui prétends t'accuser au sénat ?
+De l'espoir d'être à toi ma tendresse enivrée
+À tes lâches complots ne m'a que trop livrée.
+Songe que tu me dois et César et Crassus,
+Les enfants de Sylla, Cépion, Lentulus.
+Cruel ! J'aurais voulu que tout ce qui respire
+Eût été comme moi soumis à ton empire ;
+Mais tandis que pour toi je séduisais les cours,
+Tu préparais au mien le comble des horreurs ;
+Et le tien, trop épris des charmes de Tullie,
+A bientôt oublié ce qu'il doit à Fulvie.
+Cependant qui de nous s'arme ici contre toi ?
+C'est elle qui te perd, ingrat ; ce n'est pas moi.
+Il est vrai qu'en son cour j'ai voulu te détruire ;
+Mais c'est là seulement qu'attachée à te nuire,
+Contente de pouvoir vous désunir tous deux,
+Je n'ai rien oublié pour te rendre odieux.
+Eh ! Pouvais-je prévoir que l'honneur chimérique
+De sauver les débris d'un nom de république
+Porterait une amante à perdre son amant ?
+Mais pour t'en garantir je ne veux qu'un moment ;
+Abandonne à mon cour le soin de ta défense :
+Je ne sais s'il te doit ou tendresse ou vengeance ;
+Je ne veux sur ce point nul éclaircissement
+Qui puisse triompher d'un plus doux mouvement :
+Mais par un désaveu souffre que j'humilie
+À l'aspect du sénat l'orgueilleuse Tullie ;
+Son cour est désormais indigne de ta foi.
+
+      Tu me braves, ingrat.
+Adieu : tu me verras ce jour même au sénat.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ciceron
+
+C'est vous, Catilina, que je cherche en ces lieux,
+Non comme un sénateur jaloux et furieux,
+Mais comme un ennemi qui sait régler sa haine
+Sur ce qu'en peut permettre une vertu romaine.
+Enfin, depuis le jour que le sort des romains
+Par le choix des tribuns fut remis en mes mains,
+Vous ne m'avez point vu, soigneux de vous déplaire,
+Braver l'inimitié d'un si noble adversaire.
+Je remportai sur vous l'honneur du consulat
+Sans acheter les voix du peuple et du sénat,
+Et vous savez assez que cette préférence,
+Qui flattait vos désirs, passait mon espérance ;
+Mais le sénat, toujours en butte à vos mépris,
+Réunit en moi seul les voux et les esprits :
+Encor si quelquefois vous daigniez vous contraindre ;
+Que, fait pour être aimé, vous vous fissiez moins craindre ;
+Que, mettant à profit tant de dons précieux,
+Vous affectassiez moins un orgueil odieux !
+Mais, bravant le sénat et les consuls ensemble,
+À vos moindres chagrins vous voulez que tout tremble.
+Regardez ces autels, voyez parmi nos dieux
+Ces marbres consacrés aux noms de vos aïeux ;
+Leurs grands cours ont toujours haï la tyrannie,
+Et Rome n'a jamais tremblé que pour leur vie.
+Si, moins ambitieux, votre haute valeur
+Ne nous eût inspiré que la même terreur,
+Qui d'entre nous pouvait refuser son suffrage
+Aux vertus dont le ciel a fait votre partage ?
+Politique, orateur, capitaine, soldat ;
+Vos défauts des vertus ont même encor l'éclat :
+Quel citoyen pour nous, et le plus grand peut-être,
+S'il nous menaçait moins de nous donner un maître !
+On dit... mais je crois peu des bruits mal assurés
+Qui vous osent nommer parmi des conjurés :
+Tout défiant qu'il est, Caton ne l'ose croire.
+Cependant le sénat, jaloux de votre gloire,
+Pour étouffer des bruits qui dans un sénateur
+Pourraient en vous blessant blesser son propre honneur,
+Dès hier vous nomma gouverneur de l'Asie ;
+Pompée et Pétréius descendus vers Ostie,
+L'un et l'autre chargés de vous y recevoir,
+Remettront dans vos mains leur souverain pouvoir.
+Partez donc ; et songez que votre obéissance
+Peut seule être le prix de notre confiance.
+
+N'est-ce rien selon vous que d'être soupçonné ?
+À votre ambition sans cesse abandonné,
+Vous causez tant de trouble et tant d'inquiétude,
+Que le moindre soupçon tient lieu de certitude :
+Dès qu'on ose alarmer le pouvoir souverain
+On est toujours suspect d'un coupable dessein ;
+Peut-on trop sur ce point rassurer la patrie ?
+Acceptez-vous l'emploi que Rome vous confie ?
+C'est pour m'en éclaircir que je viens vous trouver.
+
+      Dans quel désordre il laisse mes esprits !
+Quelle honte pour moi si je m'étais mépris !
+Catilina pourrait ne pas être coupable ;
+Mais qu'il est dangereux, et qu'il est redoutable !
+Quel ennemi le sort nous a-t-il suscité !
+Que de courage ensemble et de subtilité !
+Son génie éclairé voit, pénètre, ou devine.
+Rome n'est plus, les dieux ont juré sa ruine.
+Essayons cependant de calmer la fureur
+Du perfide ennemi qui fait tout mon malheur :
+S'il paraît au sénat et qu'il s'y justifie,
+Son triomphe bientôt me coûterait la vie.
+Malgré tous ses détours j'entrevois ce qu'il veut ;
+Mais nous serions perdus s'il osait ce qu'il peut.
+Employons sur son cour le pouvoir de Tullie,
+Puisqu'il faut que le mien jusque-là s'humilie.
+Quel abîme pour toi, malheureux Cicéron !
+Allons revoir ma fille, et consulter Caton ;
+C'est là que je pourrai dans le cour d'un seul homme
+Retrouver à la fois nos dieux, nos lois, et Rome.
+
+Arbitres souverains de Rome et de ses lois,
+Qui parmi vos sujets comptez les plus grands rois,
+Je ne viens point ici, jaloux de votre gloire,
+Briguer avec éclat le prix d'une victoire ;
+Le sort, à mes pareils prodiguant ses faveurs,
+Me réservait le soin d'annoncer des malheurs :
+De mon amour pour vous tel est le premier gage,
+Et de mon consulat le funeste partage.
+Tandis qu'enorgueillis par tant d'heureux travaux
+Vous pouviez méditer des triomphes nouveaux,
+De la terre et des mers vous promettre l'empire,
+Un seul homme à vos yeux travaille à vous proscrire :
+Pourrai-je sans frémir nommer Catilina,
+L'héritier des fureurs du barbare Sylla ;
+Lui que la cruauté, l'orgueil, et l'insolence,
+N'ont que trop parmi nous signalé dès l'enfance ;
+Lui qui, toujours coupable et toujours impuni,
+Veut, ce que n'eût osé l'univers réuni,
+Subjuguer les romains ? ô vous, que Rome adore,
+Et qui par vos vertus la soutenez encore,
+Vous, l'appui du sénat et l'exemple à la fois,
+Incorruptible ami de l'état et des lois,
+Parlez, divin Caton.
+
+Téméraire ! Au sénat quel ordre vous appelle ?
+
+Quoi ! Vous joignez encore à cette audace extrême
+Celle d'oser paraître en armes dans ces lieux !
+
+      Et vous le destructeur,
+Traître. Si le sénat vous eût rendu justice,
+Vos jours n'auraient été qu'un éternel supplice ;
+Mais si je puis encor faire entendre ma voix,
+Vous ne braverez plus la faiblesse des lois.
+
+Laissons là Manlius ; parlons de vos projets :
+On ne connaît que trop vos lâches artifices.
+Tremblez, séditieux, pour vous, pour vos complices ;
+Vous êtes convaincu, le crime est avéré :
+Déjà sur votre sort on a délibéré ;
+Vos forfaits n'ont que trop lassé notre indulgence.
+
+Eh bien ! Rompez, Seigneur, un si cruel silence ;
+Punissez en romain l'ingrat qui vous offense :
+En faveur de vous-même osez tout oublier,
+Et sauvez le sénat pour nous humilier.
+
+Manlius !
+
+Catilina, daignez reprendre votre place ;
+De vos soins par ma voix le sénat vous rend grâce :
+Vous êtes généreux ; devenez aujourd'hui,
+Ainsi que notre espoir, notre plus ferme appui.
+Nos injustes soupçons n'ont plus besoin d'otage ;
+D'un homme tel que vous la gloire est le seul gage.
+Vous, sénateurs, veillez à notre sûreté :
+Il s'agit du sénat et de la liberté ;
+Courons sans différer où l'honneur nous appelle.
+Adieu, Catilina : j'attends de votre zèle
+Tous les secours qu'on doit attendre d'un grand cour.
+Rome a besoin de vous et de votre valeur ;
+Combattez seulement, ma crainte est dissipée.
+
 Caton ne paraît point, et la nuit qui s'avance
 Accroît à chaque instant l'horreur qui la devance.
 Pétréius, invité de hâter son retour,
@@ -1905,13 +1716,204 @@ La sauver de l'opprobre et de la tyrannie.
 Caton ne revient point ; je crains que son ardeur
 Plus loin que je ne veux n'entraîne son grand cour.
 
-**** *book_ *id_V02 *act_V *date_1748
-
--*who_ciceron
 Mais je le vois, c'est lui. Quoi ! Vous êtes en armes ?
 Venez-vous redoubler, ou calmer nos alarmes ?
 
--*who_caton
+Manlius ne vit plus.
+
+      Catilina lui-même.
+
+Caton, écoutez moins cette rare candeur.
+Eh ! Qui de tant de maux pourrait être l'auteur ?
+Qui, hors Catilina, peut vouloir nous détruire ?
+À de fausses lueurs vous laissez-vous séduire ?
+Que Manlius soit mort, qu'il l'ait sacrifié,
+C'est prouver seulement qu'il s'en est défié :
+Je ne vois dans ce coup que le meurtre d'un traître,
+Qu'un autre a prévenu dans la crainte de l'être.
+Plût aux dieux que, moins lent à punir ses forfaits,
+Du chef des conjurés Céson nous eût défaits !
+Si de quelque succès son audace est suivie,
+Ses cruautés n'auront de bornes que sa vie.
+Des infâmes complots formés par Céthégus
+Ne voudriez-vous pas excepter Lentulus ?
+Bientôt jusque sur vous leur fureur va s'étendre.
+Mais c'est trop s'arrêter.
+
+Rassurez-vous, ma fille, et restez en ces lieux ;
+Bientôt nous reviendrons y rendre grâce aux dieux :
+Ce temple en attendant vous servira d'asile ;
+Que sur Rome et sur moi votre cour soit tranquille.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
+
+Arrêtons, cher Gontran ; c'est dans ces lieux sacrés,
+Décorés avec faste, au fond peu révérés,
+Qu'à la face des dieux nous allons voir éclore
+Un projet qui m'alarme, et qui les déshonore ;
+C'est ici que bientôt Crassus, Catilina,
+Antoine, Céthégus, les enfants de Sylla,
+Mille autres dont les noms éclatent dans l'histoire,
+Et qui de leurs aïeux flétrissent la mémoire,
+Vont de leur sang impur sceller leur union,
+Et livrer Rome entière à la proscription :
+Heureux si je pouvais en ce désordre extrême
+D'un parti que je hais me dégager moi-même !
+Entraîné dès longtemps, peut-être corrompu
+Par un ambitieux qui séduit ma vertu,
+Je me trouve forcé d'embrasser sa querelle,
+D'être ennemi de Rome, ou ministre infidèle.
+
+Laissons l'honneur d'un rang qui n'est plus qu'un vain titre
+Lorsqu'un autre intérêt devient mon seul arbitre :
+Les gaules ont daigné m'envoyer en ces lieux ;
+Mais où sont les romains, leurs lois, même leurs dieux ?
+Et quel devoir encor veux-tu que je trahisse
+Parmi des furieux sans frein et sans justice ?
+C'est aux événements à disposer de moi :
+D'ailleurs dans ce chaos à qui garder ma foi ?
+À de vils sénateurs noyés dans la mollesse,
+À deux consuls jaloux et désunis sans cesse ?
+L'un des deux, sans honneur et sans fidélité,
+Abuse chaque jour de son autorité ;
+L'autre a mille vertus, mais n'ose en faire usage :
+Caton, loin de calmer, irritera l'orage ;
+Formidable au-dehors, méprisable au-dedans,
+Le sénat n'est enfin qu'un amas de brigands,
+Unis pour le butin, divisés au partage,
+Dont toute la vertu périt avec Carthage.
+À peine il fut formé qu'il détruisit ses rois,
+Il détruit aujourd'hui l'autorité des lois :
+Après avoir détruit et lois et diadème,
+Nous le verrons bientôt se détruire lui-même.
+Allumons le flambeau de la sédition ;
+Rien ne peut nous sauver que leur division.
+Tu ne sais pas encor quel péril nous menace.
+Un romain (tu connais sa valeur, son audace),
+Et quel romain encor ! César depuis un an
+Brigue en secret l'honneur d'être notre tyran ;
+C'est à nous gouverner que ce héros aspire.
+Si la Seine un moment coule sous son empire,
+Nous sommes tous perdus ; et gaulois et germains
+Vont tomber sous le fer ou le joug des romains :
+Ce que la Grèce, Rome, et l'univers ensemble
+Eurent de plus parfait, dans César se rassemble :
+Prudent, ambitieux, l'homme de tous les temps,
+De toutes les vertus, et de tous les talents ;
+Intrépide, éclairé ; d'autant plus redoutable
+Que de tous les mortels il est le plus aimable.
+Mais Catilina vient ; cher Gontran, laisse-nous.
+
+La foi de mes pareils ne fut jamais frivole.
+Je suis gaulois, ainsi fidèle à ma parole ;
+L'honneur est parmi nous le premier de nos dieux :
+Mais vous savez quel joug on m'impose en ces lieux,
+Et d'un ambassadeur quel est le ministère ;
+Que je suis retenu par une loi sévère,
+Qui me défend d'armer de criminelles mains,
+Et d'oser les tremper dans le sang des romains.
+D'ailleurs de vos projets j'ignore le mystère ;
+Je crains tout, sans savoir ce qu'il faut que j'espère.
+Si vos desseins ne sont aussi justes que grands,
+Et si ce n'est pour nous que changer de tyrans,
+Si nos traités ne sont fondés sur la justice,
+Vous prétendez en vain qu'aucun noud nous unisse.
+Notre unique vertu n'est pas notre valeur ;
+Nous aimons la justice autant que la candeur :
+Quoique enfant de la guerre, allaité sous les tentes,
+Le gaulois n'eut jamais que des mours innocentes.
+Si vous nous surpassez par votre urbanité,
+Nous l'emportons sur vous par notre intégrité ;
+C'est à tous nos desseins l'honneur seul qui préside,
+Et de nos intérêts l'équité qui décide.
+Nos dieux, nos souverains, l'autorité des lois,
+La gloire, le devoir, notre épée, et nos droits ;
+Aussi prompts que vaillants, francs, et pleins de noblesse,
+Obéissants par choix, et soumis sans bassesse.
+Mais Rome cherche moins, dans ses vastes projets,
+À faire des amis, qu'à faire des sujets.
+Comme nous ne voulons que le simple héritage
+Dont les temps et le sort firent notre partage,
+Voyez si, du sénat réprimant la fureur,
+Vous pouvez des gaulois être le protecteur.
+Peut-être en ce discours, ou trop fier, ou trop libre,
+Ai-je peu ménagé la majesté du Tibre ;
+Mais, dès que de mes soins notre sort dépendra,
+Je parlerais aux dieux comme à Catilina.
+
+Ah ! Dès que votre bras s'arme pour la justice,
+Il n'est point de gaulois qui ne vous obéisse,
+Je vous réponds de tous.
+
+Touchez dans cette main, ce sont là nos serments.
+Adieu, Catilina. Quelqu'un vient : c'est Tullie.
+
+
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
+
+      Et que pourrais-je dire
+En des lieux où l'honneur ne tient plus son empire,
+Où l'intérêt, l'orgueil, commandent tour à tour,
+Où la vertu n'a plus qu'un timide séjour,
+Où de tant de héros je vois flétrir la gloire ?
+Et comment l'univers pourra-t-il jamais croire
+Que Rome eut un sénat et des législateurs,
+Quand les romains n'ont plus ni lois ni sénateurs ?
+Où retrouver enfin les traces de nos pères
+Dans des cours corrompus par des mours étrangères ?
+Moi-même, qui l'ai vu briller de tant d'éclat,
+Puis-je me croire encore au milieu du sénat ?
+Ah ! De vos premiers temps rappelez la mémoire ;
+Mais ce n'est plus pour vous qu'une frivole histoire :
+Vous imitez si mal vos illustres aïeux,
+Que leurs noms sont pour vous des noms injurieux.
+Mais de quoi se plaint-on ? Catilina conspire ;
+Est-il si criminel d'aspirer à l'empire
+Dès que vous renoncez vous-mêmes à régner ?
+Un trône, quel qu'il soit, n'est point à dédaigner.
+Non, non, Catilina n'est pas le plus coupable :
+Voyez de votre état la chute épouvantable,
+Ce que fut le sénat, ce qu'il est aujourd'hui,
+Et le profond mépris qu'il inspire pour lui.
+Scipion, qui des dieux fut le plus digne ouvrage,
+Scipion, ce vainqueur du héros de Carthage,
+Scipion, des mortels qui fut le plus chéri,
+Par un vil délateur se vit presque flétri :
+Alors la liberté ne savait pas dans Rome
+Du simple citoyen distinguer le grand homme ;
+Malgré tous ses exploits, le vainqueur d'Annibal
+Se soumit en tremblant à votre tribunal.
+Sylla vient, qui remplit Rome de funérailles,
+Du sang des sénateurs inonde nos murailles :
+Il fait plus ; ce tyran, las de régner enfin,
+Abdique insolemment le pouvoir souverain,
+Comme un bon citoyen, meurt heureux et tranquille,
+En bravant le courroux d'un sénat imbécile,
+Qui, charmé d'hériter de son autorité,
+Éleva jusqu'au ciel sa générosité,
+Et nomma sans rougir père de la patrie
+Celui qui l'égorgeait chaque jour de sa vie.
+Si vous eussiez puni le barbare Sylla,
+Vous ne trembleriez point devant Catilina ;
+Par là vous étouffiez ce monstre en sa naissance,
+Ce monstre qui n'est né que de votre indolence.
+
+Si l'intérêt public décide de son sort,
+Consul, qu'à l'instant même on lui donne la mort.
+
+Tu le devrais du moins, puisqu'il regarde un traître.
+
+À quoi te servirait cette troupe cruelle
+Que ton palais impur et vomit et recèle,
+Qui le jour et la nuit semant partout l'effroi,
+Ministres odieux de tes fureurs...
+
+Catilina, je crois que tu n'es point coupable ;
+Mais, si tu l'es, tu n'es qu'un homme détestable ;
+Car je ne vois en toi que l'esprit et l'éclat
+Du plus grand des mortels, ou du plus scélérat.
+
 Je voudrais vainement, dans ce désordre affreux,
 Vous promettre, consul, quelque succès heureux :
 Le destin du sénat est d'autant plus terrible
@@ -1959,41 +1961,14 @@ D'un champ couvert de morts, et souillé de carnage.
 Mais ce qui me surprend, c'est que Pomponius
 M'a dit qu'en aucun lieu l'on n'a vu Manlius.
 
--*who_ciceron
-Manlius ne vit plus.
-
--*who_caton
       Dieux ! Quel bonheur extrême !
 Qui l'a donc immolé ?
 
--*who_ciceron
-      Catilina lui-même.
-
--*who_caton
 Consul, vous m'alarmez ; et je crains que Céson
 N'abuse comme vous d'un injuste soupçon.
 Gardons-nous d'attaquer un homme impénétrable,
 Qu'il faut craindre encor plus innocent que coupable.
 
--*who_ciceron
-Caton, écoutez moins cette rare candeur.
-Eh ! Qui de tant de maux pourrait être l'auteur ?
-Qui, hors Catilina, peut vouloir nous détruire ?
-À de fausses lueurs vous laissez-vous séduire ?
-Que Manlius soit mort, qu'il l'ait sacrifié,
-C'est prouver seulement qu'il s'en est défié :
-Je ne vois dans ce coup que le meurtre d'un traître,
-Qu'un autre a prévenu dans la crainte de l'être.
-Plût aux dieux que, moins lent à punir ses forfaits,
-Du chef des conjurés Céson nous eût défaits !
-Si de quelque succès son audace est suivie,
-Ses cruautés n'auront de bornes que sa vie.
-Des infâmes complots formés par Céthégus
-Ne voudriez-vous pas excepter Lentulus ?
-Bientôt jusque sur vous leur fureur va s'étendre.
-Mais c'est trop s'arrêter.
-
--*who_caton
       Consul, daignez attendre :
 Je ne souffrirai point qu'abandonnant ces lieux
 Vous osiez exposer des jours si précieux ;
@@ -2002,273 +1977,7 @@ De chevaliers romains une troupe d'élite
 Par mon ordre bientôt va se rejoindre à nous ;
 Permettez qu'avec eux je combatte pour vous.
 
-**** *book_ *id_V03 *act_V *date_1748
-
--*who_caton
 Mais je vois Lucius ; que vient-il nous apprendre ?
 
--*who_lucius
-Qu'à l'instant près de vous Pétréius va se rendre ;
-J'entends déjà son nom voler de toutes parts,
-Et déjà ses soldats ont bordé les remparts :
-Sans le secours heureux que le ciel nous envoie
-Aux plus cruelles mains Rome allait être en proie.
-Nous avons vu trois fois le fier Catilina
-S'élancer en fureur du palais de Sylla,
-Renverser, foudroyer nos plus fermes cohortes ;
-Trois fois, mais vainement, il a tenté les portes :
-Je l'ai vu presque seul se mêler parmi nous ;
-J'ai vu Céson lui-même expirer sous ses coups ;
-De qui l'ose attaquer la ruine est certaine,
-Et Rufus contre lui ne se soutient qu'à peine.
-Seigneur, il m'a chargé de vous en avertir.
-
--*who_caton
 Je vois nos chevaliers ; il est temps de partir.
 
-**** *book_ *id_V04 *act_V *date_1748
-
--*who_tullie
-Seigneur, où courez-vous, tandis que le carnage
-Au soldat furieux laisse à peine un passage ?
-
--*who_ciceron
-Rassurez-vous, ma fille, et restez en ces lieux ;
-Bientôt nous reviendrons y rendre grâce aux dieux :
-Ce temple en attendant vous servira d'asile ;
-Que sur Rome et sur moi votre cour soit tranquille.
-
-**** *book_ *id_V05 *act_V *date_1748
-
--*who_tullie
-Espoir des malheureux, dieux, soyez mon recours !
-Hélas ! C'est de vous seuls que j'attends du secours.
-À quel excès de maux me voilà parvenue !
-On me fuit, on se tait : ô soupçon qui me tue !
-Que je plains les malheurs de ce fatal décret,
-Que mon père a paru m'accorder à regret !
-Loin d'oser sur ce choix lui faire violence,
-Ne devais-je pas mieux pénétrer son silence ?
-J'entends avec fureur nommer Catilina ;
-On dit qu'il se retranche au palais de Sylla,
-Tandis qu'en d'autres lieux il aurait dû paraître.
-Est-ce là, s'il m'aimait, que l'ingrat devrait être ?
-Peut-il m'abandonner en cette extrémité ?
-Quel usage fait-il de sa fidélité ?
-Aucun de ses amis n'accourt pour ma défense ;
-Et tous, jusqu'à Probus, évitent ma présence.
-D'un funeste décret n'aurais-je armé sa main
-Que pour voir immoler jusqu'au dernier romain ?
-Cruel Catilina, soit perfide ou fidèle,
-Que tu coûtes de pleurs à ma douleur mortelle !
-Que dis-je ? Et Manlius qu'il a sacrifié
-Ne l'a-t-il pas déjà plus que justifié ?
-Ne l'aimerai-je donc que pour lui faire outrage ?
-Dieux, éloignez de moi cet horrible nuage.
-On vient : c'est lui. Je sens redoubler mon effroi.
-
-**** *book_ *id_V06 *act_V *date_1748
-
--*who_tullie
-Seigneur, en quel état vous offrez-vous à moi ?
-Quoi ! Tout couvert de sang ! Quel désordre effroyable !
-À qui réservez-vous ce fer impitoyable ?
-Que vois-je ?
-
--*who_catilina
-      Un malheureux qui vient d'être vaincu,
-Honteux de vivre encore, ou d'avoir tant vécu.
-Dieux, qui m'abandonnez à mon sort déplorable,
-Ramenez-moi du moins l'ennemi qui m'accable.
-En vain, pour le chercher, j'échappe à mille bras,
-Le lâche à ma fureur ne s'exposera pas.
-Tandis qu'au désespoir tout mon cour est en proie,
-Mes cruels ennemis se livrent à la joie.
-Ce fer, que je gardais pour leur percer le flanc,
-Ne sera plus souillé que de mon propre sang.
-
--*who_tullie
-Fatale vérité, que j'ai trop combattue,
-De quel affreux éclat viens-tu frapper ma vue !
-Écoutez-moi, Seigneur, et reprenez vos sens.
-Qui peut vous arracher ces terribles accents ?
-Si vous êtes vaincu, mon père est donc sans vie ?
-
--*who_catilina
-Eh ! Sait-il seulement qu'on meurt pour la patrie ?
-Ce n'est pas vous, c'est lui que je cherche en ces lieux ;
-Fuyez, éloignez-vous d'un amant furieux.
-Dieux ! Après tant d'exploits dignes de mon courage,
-Il ne me restera qu'une inutile rage !
-Ah ! Si j'eusse manqué de prudence ou de cour,
-Je pourrais au destin pardonner mon malheur ;
-Mais que n'ai-je point fait dans ce moment terrible !
-Et que fallait-il donc pour me rendre invincible ?
-Intrépides amis, dignes d'un sort plus doux,
-Vous êtes morts pour moi, j'ose vivre après vous !
-Quoi ! Sylla presque seul, plus heureux que grand homme,
-N'eut besoin que d'un jour pour triompher de Rome ;
-Et moi, triste jouet du perfide Céson,
-Je suis vaincu deux fois, et par toi, Cicéron !
-Quoi ! Dans le même instant qu'il faut que Rome tombe,
-C'est toi qui la soutiens, et c'est moi qui succombe !
-Mon génie, accablé par ce vil plébéien,
-Sera donc à jamais la victime du sien ?
-Après m'avoir ravi la dignité suprême,
-Ce timide mortel triomphe de moi-même !
-Fortune des héros, ce n'est pas sur les cours
-Que l'on te vit toujours mesurer tes faveurs.
-Que l'on doit mépriser les lauriers que tu donnes,
-Puisque c'est Cicéron qu'aujourd'hui tu couronnes !
-Ô de mon désespoir vil et faible instrument,
-Tu me restes donc seul dans ce fatal moment !
-Mes généreux amis sont morts pour ma défense ;
-Et, pour comble d'horreurs, je mourrai sans vengeance !
-Dieux cruels, inventez quelque supplice affreux,
-Qui puisse être pour moi plus triste et plus honteux !
-
--*who_tullie
-Malheureux ! Que dis-tu ? Quand la mort t'environne,
-Ton cour respire encor le fiel qui l'empoisonne,
-Et gémit de laisser des crimes imparfaits !
-
--*who_catilina
-Qu'entends-je ? On m'ose ici reprocher des forfaits !
-Cour faible, qui, rampant sous de lâches maximes,
-Croyez l'ambition une source de crimes,
-Vaine erreur qu'un grand cour sut toujours dédaigner,
-Apprenez que le mien était fait pour régner.
-Rome esclave, sans frein, avait besoin d'un maître :
-J'ai voulu lui donner le seul digne de l'être ;
-C'est moi. Si vous osez condamner ce projet,
-Vous ne méritez pas d'en devenir l'objet.
-N'auriez-vous pas voulu, pour gouverner l'empire,
-Que j'eusse de Caton consulté le délire ;
-Ou que, faisant un choix plus conforme à vos voux,
-J'eusse, pour avilir tant d'hommes généreux,
-Donné ma voix au dieu que le sénat révère,
-Lui dont la seule gloire est d'être votre père ?
-
--*who_tullie
-Songez qu'il est du moins l'arbitre de vos jours.
-
--*who_catilina
-Voilà celui qui doit décider de leur cours.
-Tout vaincu que je suis, craignez de voir paraître
-Cet arbitre nouveau qu'on me donne pour maître.
-
--*who_tullie
-Écoutez-moi, cruel, avant que la fureur
-Achève d'aveugler votre indomptable cour :
-Les moments nous sont chers ; et celui-ci, peut-être,
-Va flétrir sur l'airain le jour qui vous vit naître.
-Encor si, dans les champs où préside l'honneur,
-Où le vaincu souvent peut braver le vainqueur,
-Je vous voyais chercher une sorte de gloire,
-Je pourrais, sans rougir, chérir votre mémoire :
-Mais se donner la mort pour de honteux complots,
-Est-ce donc là mourir de la mort des héros ?
-Je devrais vous haïr ; mais votre mort prochaine
-Éteint tout sentiment de vengeance et de haine.
-Mon cour, de ses devoirs autrefois si jaloux,
-Qui, malgré tout l'amour dont il brûlait pour vous,
-Se fit de votre perte un devoir légitime,
-Ne sait plus aujourd'hui que pleurer sa victime.
-Barbare, si jamais vous fûtes mon amant,
-Si la mort vous paraît un frivole tourment,
-Craignez-en un pour vous plus cruel : c'est moi-même ;
-C'est une amante en pleurs, qui vous perd et vous aime ;
-C'est ma douleur, qui va me conduire au tombeau.
-Voulez-vous, en mourant, devenir mon bourreau ?
-Reconnaissez ma voix ; c'est la fière Tullie,
-Que l'amour vous ramène et vous réconcilie,
-Qui veut vous arracher à votre désespoir,
-Et qui ne rougit plus de trahir son devoir.
-Songez, Catilina, que Rome est votre mère ;
-Qu'à vous, plus qu'à tout autre, elle doit être chère.
-Renoncez à l'orgueil de vouloir mettre aux fers
-Un peuple à qui les dieux ont soumis l'univers.
-Pour sauver votre honneur, n'employez d'autres armes
-Qu'un retour vertueux, vos remords, et mes larmes :
-Jurez-moi que jamais vous ne teindrez vos mains
-De votre propre sang, ni du sang des romains.
-Je vais vous dérober au coup qui vous menace ;
-Ce que j'ai fait pour Rome obtiendra votre grâce.
-
--*who_catilina
-Ma grâce est dans mes mains, cour indigne du mien.
-Cicéron vous a-t-il déjà transmis le sien ?
-Moi, fléchir ! Moi, prier ! Moi, demander la vie !
-L'accepter, ce serait me couvrir d'infamie.
-
--*who_tullie
-Eh bien ! Cruel, méprise un pardon généreux,
-J'y consens ; mais du moins, dans ton sort malheureux,
-De la part d'une amante accepte une retraite.
-
--*who_catilina
-M'y pourriez-vous cacher ma honte et ma défaite ?
-C'est là le trait cruel qui déchire mon cour.
-Ah ! S'il vous touche encor, respectez mon malheur.
-Si de vous obéir ce cour était capable,
-J'aurais trop mérité le destin qui m'accable.
-Dans l'état où je suis, loin de vous attendrir,
-C'est vous qui devriez m'exciter à mourir,
-Et même me prêter une main généreuse.
-Cachez à mes regards cette douleur honteuse.
-Que craignez-vous ? Ma mort ? La mort n'est qu'un instant
-Que le grand cour défie, et que le lâche attend.
-Vous m'indignez : je sens que ma raison s'égare.
-
--*who_tullie
-Frappe ; mais, malgré toi, tu me suivras, barbare.
-Ne crois pas m'effrayer par tes emportements ;
-Je ne me connais plus dans ces affreux moments.
-Quoi ! C'est Catilina qui manque de constance !
-Malheureux ! Qu'attends-tu, sans armes, sans défense ?
-Le sénat va bientôt revenir en ces lieux ;
-Veux-tu que je te voie égorger à mes yeux ?
-Ingrat, suis-moi ; du moins, une fois en ta vie,
-Reconnais, par pitié, l'empire de Tullie.
-Tu n'as que trop bravé sa tendresse et ses pleurs ;
-Prête-moi ce poignard.
-
--*who_catilina
-      Le voilà.
-
--*who_tullie
-      Je me meurs !
-
--*who_catilina
-Tout est fini pour moi : mais, si je perds la vie,
-Du moins mes ennemis ne me l'ont point ravie.
-Séchez vos pleurs, Tullie ; et que prétendez-vous
-D'un cour dont la mort seule éteindra le courroux ?
-Étouffez des regrets que ma fierté dédaigne ;
-C'est de mourir vaincu qu'il faut que l'on me plaigne.
-
-**** *book_ *id_V07 *act_V *date_1748
-
--*who_catilina
-Voici le dernier coup que me gardait le sort.
-
--*who_cethegus
-Adieu, Catilina ; nous allons à la mort.
-
--*who_catilina
-Amis infortunés, ma main vient de répandre
-Ce sang que j'aurais dû verser pour vous défendre.
-
-**** *book_ *id_V08 *act_V *date_1748
-
--*who_catilina
-Il ne me restait plus, pour comble de douleur,
-Que d'expirer aux yeux de mon lâche vainqueur.
-Approche, plébéien ; viens voir mourir un homme
-Qui t'a laissé vivant pour la honte de Rome.
-Et toi, dont la vertu ressemble à la fureur,
-Au gré de mes désirs tu feras son malheur.
-Cruels, qui redoublez l'horreur qui m'environne,
-Qu'heureusement pour vous la force m'abandonne !
-Mais croyez qu'en mourant mon cour n'est point changé.
-Ô César ! Si tu vis, je suis assez vengé.

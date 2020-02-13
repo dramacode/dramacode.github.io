@@ -1,89 +1,34 @@
 
 
-**** *book_ *id_I01 *act_I *date_1683 *creator_boursault
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
--*who_oronte
 Cécile est arrivée ?
 
--*who_merlin
-      Oui, la chose est certaine.
-
--*who_oronte
 Et tu dis qu'elle loge ?...
 
--*who_merlin
-      À l'Hôtel de Touraine :
-Je vous l'ai déjà dit cinq ou six fois.
-
--*who_oronte
       Hélas !
 Redis-le moi sans cesse, et ne t'en lasse pas.
 Quoique tu puisses faire il serait impossible,
 De me rien annoncer qui me soit plus sensible :
 T'a-t-elle vu ?
 
--*who_merlin
-      Vraiment, tout comme je vous vois.
-
--*who_oronte
 T'a-t-elle parlé ?
 
--*who_merlin
-      Non.
-
--*who_oronte
       Tout de bon ?
 
--*who_merlin
-      Non, ma foi ?
-Car depuis le Pont-neuf où je l'ai rencontrée,
-Jusqu'à ce que chez elle elle ait été rentrée,
-Son père encor galant la tenant par la main,
-Un mot qu'elle m'eut dit trahissait son dessein.
-Sa langue s'est contrainte, et je n'ai rien su d'elle ;
-Lais ses yeux plus hardis jouaient de la prunelle ;
-Et si de leur jargon je suis bon truchement,
-Ils s'expliquaient pour vous intelligiblement.
-
--*who_oronte
 Quand de ce que l'on aime on a l'âme occupée,
 Merlin, une parole est bientôt échappée.
 Elle ne t'a rien dit pour me redire ?
 
--*who_merlin
-      Non.
-
--*who_oronte
 Que son indifférence a de cruauté !
 
--*who_merlin
-      Bon !
-Si vous n'étiez aimé comme vous devez l'être,
-M'aurait-elle jette ceci de sa fenêtre ?
-
--*who_oronte
 Qu'est-ce ?
 
--*who_merlin
-      Un quadruple.
-
--*who_oronte
       À toi ?
 
--*who_merlin
-      C'est la première fois :
-Encor suis-je trompé, car il n'est pas de poids.
-Je serai bienheureux si j'en ai trois pistoles.
-
--*who_oronte
 Tiens, ne perds point de temps en de vaines paroles.
 Prends ces quatre louis, et me fais ce présent.
 
--*who_merlin
-Pour vous les refuser je suis trop complaisant ;
-Je vous l'offre.
-
--*who_oronte
       Il suffit qu'il soit de ce que j'aime,
 Il m'est cher. Juste ciel ! Ma surprise est extrême !
 Un louis pèse plus que ce quadruple-là.
@@ -95,34 +40,18 @@ Ah Merlin ! Je me trompe, ou ce quadruple est creux.
 Je ne me trompe point, il est creux ; oui, sans doute :
 Et je crois qu'il enferme un Billet. Tiens, écoute.
 
--*who_merlin
-Oui, j'entends remuer quelque chose.
-
--*who_oronte
       Ah ! Merlin,
 Qu'elle a d'esprit ?
 
--*who_merlin
-      D'accord ; mais il est bien malin.
-C'est en savoir beaucoup à son âge.
-
--*who_oronte
       Elle charme.
 Son esprit me ravie, sa beauté me désarme.
 Le ciel en la formant épuisa ses trésors :
 Elle a l'âme, Merlin, belle comme le corps.
 Plus on la considère, et plus on y découvre...
 
--*who_merlin
-Voyez, sans perdre temps, comment sa pièce s'ouvre.
-La chose est curieuse à savoir.
-
--*who_oronte
       C'est par-là.
 Justement. J'aperçois son billet ; le voilà.
-J'arrivai hier au soir à Paris avec mon père, qui est plus entêté que jamais de l'auteur du Mercure Galant.
-Il ne trouve point de mérite égal au sien.
-Si vous avez fait ce que je vous ai mandé par ma dernière Lettre, nos affaires font dans le meilleur état du monde.
+J'arrivai hier au soir à Paris avec mon père, qui est plus entêté que jamais de l'auteur du Mercure Galant. Il ne trouve point de mérite égal au sien. Si vous avez fait ce que je vous ai mandé par ma dernière Lettre, nos affaires font dans le meilleur état du monde.
 Jusqu'ici pour mes feux tout est de bon augure :
 Je suis cousin germain de l'auteur du Mercure :
 Et pour contribuer au succès de mes feux,
@@ -135,26 +64,8 @@ Et selon l'apparence il me sera facile,
 De plaire sous ce nom au père de Cécile.
 Jamais rien à mon sens ne fut mieux inventé.
 
--*who_merlin
-Oui, pour vous : mais pour moi j'en suis fort dégoûté.
-
--*who_oronte
 La raison ?
 
--*who_merlin
-      Croyez-vous ma cervelle assez bonne.
-Pour résister longtemps à l'emploi qu'on me donne ?
-Tant que dure le jour j'ai la plume à la main :
-Je sers de Secrétaire à tout le genre humain :
-Fable, Histoire, Aventure, Énigme, Idylle, Églogue,
-Épigramme, Sonnet, Madrigal, Dialogue, Noces,
-Noces, Concerts, Cadeaux, Fêtes, Bals, Enjouements,
-Soupirs, Larmes, Clameurs, Trépas, Enterrements ;
-Enfin, quoique ce soit que l'on nomme nouvelle,
-Vous m'en faites garder un mémoire fidèle.
-Je me tue, en un mot, puisque vous le voulez.
-
--*who_oronte
 Crois-moi, cinq ou six jours sont bientôt écoulés.
 Tu sais que Licidas, pour me rendre service,
 Me fait de sa fortune un entier sacrifice :
@@ -178,105 +89,29 @@ Enfin, pour être fou, j'entends fou confirmé,
 À l'envi l'un de l'autre on veut être imprimé.
 As-tu chez le libraire appris quelques nouvelles ?
 
--*who_merlin
-Oui, Monsieur.
-
--*who_oronte
       Et de qui ?
 
--*who_merlin
-      D'un Commis des Gabelles,
-Qui n'ayant pas trouvé ses profits assez grands,
-A fait un petit vol de deux cens mille francs.
-Qui pourrait de sa route avoir un sur mémoire,
-Aurait pour droit d'avis, mille louis pour boire.
-Voyez.
-
--*who_oronte
       Mille louis ? C'est un homme perdu.
 
--*who_merlin
-Plût à Dieu les avoir, et qu'il fût bien pendu !
-
--*who_oronte
 Cela, qu'est-ce ?
 
--*who_merlin
-      Un Portrait d'une jeune Duchesse,
-Qui se fait distinguer par sa délicatesse.
-Un pli qui par hasard est reste dans ses draps,
-Lui semble un guet-apens pour lui meurtrir les bras :
-Il n'est point de repas qui pour elle ait des charmes.
-Si l'on met de travers l'écusson de ses armes :
-Qui lui porte un bouillon trop doux ou trop salé,
-D'auprès de sa personne est sur d'être exilé ;
-Et même elle refuse, étant fort enrhumée,
-De prendre un lavement lorsqu'il sent la fumée.
-Mais, chut. Un Gentilhomme entre ici.
-
-**** *book_ *id_I02 *act_I *date_1683 *creator_boursault
-
--*who_monsieurmichaut
-      Serviteur !
-N'êtes-vous pas l'auteur du Mercure ?
-
--*who_oronte
       Oui, Monsieur.
 Laisse-nous.
 
--*who_monsieurmichaut
-      Le Mercure est une bonne chose !
-On y trouve de tout, Fable, Histoire, Vers, Prose,
-Sièges, Combats, Procès, Mort, Mariage, Amour,
-Nouvelles de Province y et Nouvelles de cour.
-Jamais Livre à mon gré ne fut plus nécessaire.
-
--*who_oronte
 Je suis ravi, Monsieur, qu'il ait l'heur de vous plaire.
 Je ne le cèle point, j'ai toujours souhaité
 Les applaudissements des gens de qualité.
 Je ne puis exprimer le plaisir que je goûte...
 
--*who_monsieurmichaut
-Vous trouvez donc, Monsieur, que j'ai l'air grand ?
-
--*who_oronte
       Sans doute.
 Vous êtes fort bien fait ; on ne peut l'être mieux.
 
--*who_monsieurmichaut
-Pourriez-vous, en payant, me faire des aïeux ?
-
--*who_oronte
 Des aïeux ?
 
--*who_monsieurmichaut
-      Écoutez, je parle avec franchise.
-J'aime depuis six mois une jeune Marquise,
-Belle, bien faite, noble : et grâces à mes soins,
-Si j'ai beaucoup d'amour elle n'en a pas moins.
-Ses parents, dont le moindre est Baron ou Vicomte,
-Délicats sur l'honneur, sensibles à la honte,
-Consultés tous ensemble ont approuvé mes feux,
-Pourvu que mes parents soient aussi Nobles qu'eux :
-Et je viens vous trouver pour anoblir ma race.
-
--*who_oronte
 Moi, Monsieur ? Et comment voulez-vous que je fasse ?
 À moins d'avoir un titre et solide et confiant,
 Puis-je...
 
--*who_monsieurmichaut
-      Bon ! tous les jours vous en faites autant.
-Tout vous devient possible étant ce que vous êtes.
-Vos Mercures font pleins de Nobles que vous faites :
-De noms si biscornus, s'il faut dire cela,
-Qu'on ne peut être Noble et porter ces noms-là.
-Ne me refusez pas ce que je vous demande :
-De toutes les rigueurs ce serait la plus grande ;
-Et mon hymen rompu me ferait enrager.
-
--*who_oronte
 Je voudrais fort, Monsieur, vous pouvoir obliger.
 Je puis à la noblesse ajouter quelque lustre ;
 Et rappeler de loin une famille illustre :
@@ -286,44 +121,12 @@ N'entre-voyez-vous point dans toute votre race,
 De gloire ou de valeur quelque légère trace ?
 Aucun de vos aïeux ne s'est-il signalé ?
 
--*who_monsieurmichaut
-Ma foi, mon Père est mort sans m'en avoir parlé :
-Et de tous mes aïeux, puisqu'il ne faut rien taire,
-Je n'en ai point connu par delà mon grand Père.
-
--*who_oronte
 Qu'était-il ? Avait-il quelque grade ?
 
--*who_monsieurmichaut
-      Entre nous,
-Feu mon grand Père était Mousquetaire à genoux.
-
--*who_oronte
 Quelle charge est-ce là ?
 
--*who_monsieurmichaut
-      C'est ce que le vulgaire
-En langage commun appelle Apothicaire.
-
--*who_oronte
 Fi !
 
--*who_monsieurmichaut
-      Dépend-il de nous d'être de qualité ?
-Quand on m'a voulu faire ai-je été consulté ?
-Sans savoir ce qu'il fait le hasard nous fait naître,
-Et ne demande point ce que nous voulons être.
-Mon Père fut d'un cran plus noble que le sien :
-Il se fit Médecin ; gagna beaucoup de bien ;
-N'eut que moi seul d'enfants ; et passant mon attente,
-Me laissa par sa mort cinq mille écus de rente.
-Comme Paris est grand j'ai changé de quartier ;
-Je me fais par mes gens appeler Chevalier :
-La maison que j'occupe a beaucoup d'apparence,
-Et personne à présent ne sait plus ma naissance.
-Faites-moi Gentilhomme, il n'est rien plus aisé.
-
--*who_oronte
 Je voudrais le pouvoir, j'y serais disposé :
 Mais le Roi qui peut tout aurait peine à le faire.
 Le Père Médecin, l'Aïeul Apothicaire,
@@ -332,122 +135,33 @@ Qui, diable, serait Noble à descendre de là ?
 Pour remplir vos désirs il faut faire un prodige ;
 Je ne puis.
 
--*who_monsieurmichaut
-      Greffez-moi sur quelque vieille tige.
-Cherchez quelque Maison dont le nom soit péri ;
-Ajoutez une branche à quelque arbre pourri,
-Enfin, pour m'obliger inventez quelque fable ;
-Et ce qui n'est pas vrai rendez-le vraisemblable.
-Un homme comme vous doit-il être en défaut ?
-
--*who_oronte
 Et comment, s'il vous plaît, vous nommez-vous ?
 
--*who_monsieurmichaut
-Michaut.
-
--*who_oronte
       Ce nom-là n'est : point noble, assurément.
 
--*who_monsieurmichaut
-Qu'importe ?
-
--*who_oronte
       Michaut ? Un Gentilhomme avoir nom de la sorte,
 Cela ne se peut pas, vous dis-je.
 
--*who_monsieurmichaut
-      Pourquoi non ?
-Croyez-vous qu'à la Cour chacun ait son vrai nom ?
-De tant de grands Seigneurs dont le mérite brille,
-Combien ont abjuré le nom de leur famille ?
-Si les morts revenaient ou d'en haut ou d'en bas,
-Les pères et les fils ne se connaîtraient pas.
-Le Seigneur d'une terre un peu considérable,
-En préfère le nom à son nom véritable ;
-Ce nom de père en fils se perpétue à tort ;
-Et cinquante ans après on ne sait d'où l'on sort.
-Je n'escroquerai point vos soins ni vos paroles :
-J'ai certain Diamant de quatre-vingt pistoles...
-
--*who_oronte
 Je vous l'ai déjà dit, Monsieur, aucun appas
 Ne me fera jamais dire ce qui n'est pas.
 
--*who_monsieurmichaut
-Parbleu ! tant pis pour vous d'être si formaliste.
-Adieu. Je vais trouver un Généalogiste,
-Qui pour quelques louis que je lui donnerai,
-Me fera sur le champ venir d'où je voudrai.
-
--*who_oronte
 Qui jamais de noblesse a vu source moins pure ?
 Médecin !
 
-**** *book_ *id_I03 *act_I *date_1683 *creator_boursault
-
--*who_madameguillemot
-      Est-ce vous qui faites le Mercure,
-Monsieur ?
-
--*who_oronte
       Oui, Madame.
 
--*who_madameguillemot
-      Oui ? L'aveu m'en semble bon !
-
--*who_oronte
 En avez-vous besoin, Madame !
 
--*who_madameguillemot
-      Qui ? moi ? non.
-À moins d'être d'un goût insipide et malade,
-Peut-on s'accommoder d'une chose si fade ?
-
--*who_oronte
 Ah ! Ah ! Voici d'un style un peu rude.
 
--*who_madameguillemot
-      Pour vous
-Quelque rude qu'il soit il est encor trop doux.
-
--*who_oronte
 Je crois qu'avec raison vous êtes en colère :
 Mais je ne sais par où je vous ai pu déplaire.
 Je m'examine en vain, et vous m'embarrassez.
 
--*who_madameguillemot
-Regardez mon habit, il vous en dit assez.
-Ne l'entendez-vous pas ?
-
--*who_oronte
       Non, je vous le confesse.
 
--*who_madameguillemot
-Ô ciel ! que vous avez l'intelligence épaisse !
-Puisqu'il faut avec vous ne rien dissimuler,
-On dit que c'est de moi dont vous vouliez, parler,
-Quand certaine bourgeoise à qui la mode est douce,
-Peur être en cramoisi fit défaire une housse.
-
--*who_oronte
 De vous ?
 
--*who_madameguillemot
-      J'en défis une, et ne m'en cache pas ;
-J'avais un lit fort ample, et d'un beau taffetas :
-À force d'être large, il était incommode ;
-Et le tapissier Bon le remit à la mode.
-Par les soins que je pris, j'eus de reste un rideau :
-Le cramoisi régnant j'en fis faire un manteau :
-Voilà la vérité comme elle est dans sa source,
-Et non que mon mari m'ait refusé sa bourse.
-Pour le mot de Bourgeoise un peu trop répété,
-Les Bourgeois de ma sorte ont de la qualité.
-Quand vous voudrez écrire ajuster mieux vos contes ;
-Et sachez que je suis auditrice des Comptes.
-
--*who_oronte
 Quand je fis cet article, il le faut avouer.
 Mon unique dessein était de me jouer :
 Je ne présumais pas en contant cette fable,
@@ -460,50 +174,18 @@ Jamais dans ses desseins on n'a mieux réussi :
 Vous êtes à la mode, et votre lit aussi.
 C'est un avantage...
 
--*who_madameguillemot
-      Oui : mais ce qui me courrouce,
-On sait que mon habit est dame vieille housse.
-Que ce soit par hasard ou par malignité,
-Votre indiscret Mercure a dit la vérité.
-J'entends à chaque pas la baste Bourgeoisie,
-Qui me nomme en raillant la housse cramoisie ;
-Et par tout mon quartier la canaille le plaint,
-Que je prends des couleurs qui font sortir le teint.
-Il est vrai, le gros rouge est une couleur, sombre,
-Qui détache le clair par le secours de l'ombre ;
-Qu'on en ait un manteau, sans ornements dessus,
-Pour peu que l'on soit blanche ou le paraît bien plus :
-C'est un fard innocent, sans pommade ni drogue ;
-Et voilà la raison qui l'a tant mis en vogue.
-
--*who_oronte
 Redites-moi, de grâce, un certain mot choisi
 Qui vous est échappé, pour dire cramoisi.
 
--*who_madameguillemot
-Du gros rouge ?
-
--*who_oronte
       À mon sens il a beaucoup de grâce :
 Jamais le mot de gros ne fut mieux en sa place ;
 Il charme.
 
--*who_madameguillemot
-      Il m'est venu sans affectation.
-
--*who_oronte
 Votre esprit est fertile en belle invention.
 J'ai de votre mérite une idée assez haute,
 Pour me faire un plaisir de réparer ma faute,
 Le nom de Madame est...
 
--*who_madameguillemot
-      Parlez donc, petit sot.
-
--*who_jasmin
-Monsieur, Madame a nom Madame Guillemot.
-
--*who_oronte
 C'est assez. Vous verrez dans le premier Mercure,
 Que j'aurai de la housse adouci l'aventure.
 Si le mot de Bourgeoise aigrit votre courroux,
@@ -511,118 +193,882 @@ Je mettrai tout au long, par estime pour vous,
 En bon Historien, qui ne fait point de contes,
 Madame Guillemot, Auditrice des Comptes.
 
--*who_madameguillemot
-Y ferez-vous entrer mon éloge ?
-
--*who_oronte
       Oui, vraiment.
 
--*who_madameguillemot
-Louez-moi, je vous prie, imperceptiblement,
-J'ai pour la flatterie une haine invincible.
-Si louer sans flatter vous paraît impossible,
-J'aime mieux vous donner, si vous le souhaitez ?
-Un mémoire où seront mes bonnes qualités.
-J'ai de la modestie, et me rendrai justice.
-Adieu. Ne bougez.
-
--*who_oronte
       Moi, Madame l'Auditrice ?
 
--*who_madameguillemot
-De grâce...
-
--*who_oronte
       Je prétends, pour finir tous débats,
 Jusqu'à votre carrosse accompagner vos pas.
 
--*who_madameguillemot
-Voyez si mon carrosse est venu me reprendre,
-J'avais quelques parents qu'il est allé descendre.
-Voyez donc promptement si la Fleur est là bas,
-Mon cocher.
-
--*who_jasmin
-      Je suis sur de ne le trouver pas,
-Madame.
-
--*who_madameguillemot
-      Le fripon craint d'aller dans la rue.
-Si je vous...
-
--*who_jasmin
-      C'est à pied que vous êtes venue.
-
--*who_madameguillemot
-Ah, Coquin ! Ne bougez, pour raison.
-
--*who_oronte
       J'obéis.
 
--*who_madameguillemot
-Vous aurez le fouet en entrant au logis,
-Petit gueux.
-
--*who_jasmin
-      Qu'ai-je fait ?
-
--*who_madameguillemot
-      Comment ! Petite rosse,
-Sans vous on aurait cru que j'avais un carrosse.
-Je vous ferai sentir ce que pèsent mes coups.
-
--*who_jasmin
-Dame ! je ne sais pas si bien mentir que vous.
-
--*who_oronte
 Madame l'Auditrice est enfin apaisée.
 La louange à propos rend toute chose aisée.
 Allons fermer la porte, et jusqu'après dîné,
 Passons quelques moments sans être importuné.
 
-**** *book_ *id_II01 *act_II *date_1683 *creator_boursault
-
--*who_merlin
-Qui diable est l'animal qui heurte de la sorte ?
-
--*who_oronte
 Ouvre sans hésiter, et l'une et l'autre porte.
 
--*who_merlin
-Je voudrais qu'en heurtant il se rompît les bras.
-
-**** *book_ *id_II02 *act_II *date_1683 *creator_boursault
-
--*who_lisette
-Est-ce ici le logis de Monsieur Licidas ?
-
--*who_merlin
-Ah, Monsieur ! C'est Lisette, ou bien j'ai la berlue.
-
--*who_oronte
 Lisette ! quel bonheur ! Vien que je te salue.
 Comment te portes-tu, ma pauvre enfant ?
 
--*who_lisette
-      Fort bien,
-Monsieur.
-
--*who_merlin
-      Je suis ravi... Comment, je n'aurai rien ?
-Tu reviendras des champs sans me baiser ?
-
--*who_lisette
-      Ta bouche
-Doit avoir du respect : pour ce que Monsieur touche.
-
--*who_merlin
-Patience ; à ton tour tu verras ma fierté.
-
--*who_oronte
 Cécile est revenue en parfaite santé ?
 Pour elle mon ardeur va jusques à l'extrême.
 
--*who_lisette
+Tout va comme Cécile à peu près l'a voulu.
+De ce logis entier je suis Maître absolu.
+La plus tendre amitié qu'inspire la nature,
+M'unit étroitement à l'Auteur du Mercure.
+Nous portons même nom, avons mêmes aïeux ;
+Et son père et le mien étaient frères.
+
+      Je représente un Auteur distingué ;
+À qui, de compte fait, le débit de ses Livres
+Rapporte tous les ans plus de dix mille livres.
+
+      Non sans doute :
+Mais je l'ai mal payé, quelque prix qu'il m'en coûte.
+De la paît de Cécile un Billet m'est si doux...
+
+      Tu vois comme elle agit de tête ;
+Ne la trouves-tu pas jolie, aimable, honnête ?
+
+      Veux-tu l'épouser ?
+
+      Es-tu fou ?
+
+      Je n'ose avouer qu'il soit beau,
+Mais tel qu'il soit, Monsieur, oui c'est moi.
+
+Passons. Que vous plaît-il ?
+
+      Va-t'en.
+
+Si vous m'estimez tel, quoique vous me disiez,
+Vous ne trouverez point que vous vous abusiez.
+Croyez-en ma parole, et n'ayez aucun doute.
+
+Parlez uns vous contraindre, et n'appréhendez rien.
+
+Et quel diable de tour voulez-vous que j'y donne ?
+Après un vol si grand...
+
+Vous vous piquez d'honneur un peu mal à propos.
+Si ce mot vous fait honte, et vous semble un outrage,
+L'action qui le cause en fait bien davantage.
+Un homme tel que vous en est assez instruit.
+
+Quel grand mal ? Trouvez-vous qu'il soit petit ?
+
+Et comptez-vous pour rien l'affront du Pilori ?
+
+Les gens que vous citez, dont vous suivez le train,
+Sont l'exécration de tout le genre humain.
+Les affronts qu'on leur fait ont de si justes causes...
+
+      De grâce,
+Ne me proposez point cette odieuse place.
+Quel secours de ce crime osez-vous espérer ?
+Vous vous êtes fait riche, et n'osez vous montrer :
+De vos meilleurs amis vous craignez la présence.
+Vous étiez plus heureux avec plus d'indigence.
+Vous marchiez librement, sans peur d'être arrêté ;
+Et vous avez perdu jusqu'à la liberté.
+
+Quel moyen ?
+
+      Monsieur, en m'offrant cette somme,
+Vous oubliez, je crois, que je suis honnête homme ?
+Et si je l'étais moins que je ne le prétends,
+Vous passeriez peut-être assez mal votre temps.
+Vous offrez cent louis pour vous faire un asile,
+Et qui vous fera prendre est sur d'en gagner mille ;
+On les donne ; on vous cherche, il n'est rien plus certain :
+Et vous vous appelez Monsieur de Longuemain.
+C'est un sensible appas qu'une femme si forte :
+Je n'ai pour la gagner qu'à fermer cette porte :
+Mais allez, sauvez-vous ; et ne m'apprenez pas
+En quel lieu le destin va conduire vos pas.
+Que sais-je si demain j'aurais encor la force
+De pouvoir résister à cette douce amorce :
+Rien ne peut vous sauver, si l'on vous pousse à bout.
+Pour vous mettre en repos restituez le tout.
+Mais il faut vous hâter. Si vous vous laissiez prendre,
+Il ne serait plus temps de s'offrir à tout rendre :
+On vous y forcerait, et vous feriez pendu.
+
+Ce Monsieur le Commis a l'air patibulaire.
+Si je ne suis trompé sa mort fera du bruit.
+
+Suis-je bien ? Ma perruque...
+
+Monsieur, avec respect je reçois cette grâce.
+De cet excès d'honneur tout mon coeur pénétré...
+
+      Est-ce là Madame votre fille,
+En qui tant de beauté, tant de sagesse brille ?
+
+      Accordez à mon empressement
+L'honneur de saluer un objet si charmant.
+Madame, pardonnez si j'ai l'âme interdite.
+C'est un charme pour moi qu'une telle visite :
+Et du langage humain les termes impuissants,
+Ne peuvent exprimer les transports que je sens.
+Que je suis redevable à Monsieur votre Père !
+
+Qui diable amène ici cette sotte figure ?
+Que voulez-vous ?
+
+Non, Monsieur.
+
+Voulez-vous quelque chose ?
+
+      Parlez-vite,
+De grâce.
+
+Monsieur, vous voulez bien me donner la licence...
+
+      Qu'est-ce ?
+
+      Hé bien ?
+Dites-moi ce que c'est.
+
+Ne perdons point de temps, Monsieur. Que faut-il faire ?
+Parlez.
+
+      Il ne m'en a rien dit.
+
+Pour vous dédommager d'un Livre qui va mal,
+Que puis-je ?
+
+Et ce qu'on n'a point fait prétendez-vous le faire ?
+
+      Mais, surtout, fort utile ?
+
+Je vous l'ai déjà dit, cet avis est utile.
+Pour le faire valoir je n'épargnerai rien.
+Dites-moi votre nom.
+
+      Assurément.
+
+Comment ?
+
+Des sottises d'un fat vous me voyez confus.
+Victime du Public, le Mercure m'expose
+À la nécessité d'écouter toute chose.
+Mais pour nous dérober aux surprises des sots,
+Dans mon appartement nous serons en repos.
+Entrons. D'être debout à la fin on se lasse.
+
+      Non ; c'est me faire grâce.
+Ne la différez point. Entrez, Madame.
+
+Merlin, voilà ma bourse, et je connais ton zèle ;
+Donne-m'en je te prie une preuve nouvelle.
+Deux ou trois confiseurs sont mes proches voisins :
+De ce qu'ils ont de bon fais emplir deux bassins.
+
+Et de grâce, Monsieur, un peu plus d'indulgence ;
+J'ai sans doute abusé de votre complaisance.
+Je vous en fais excuse, et vous conjure...
+
+Tout ce qu'on peut sentir mon coeur le sent pour elle.
+Charmé de vos bontés comme de ses attraits,
+À vous plaire, à l'aimer je borne mes souhaits ;
+Et quoique mon amour ne fasse que de naître,
+Il est dans un état à ne pouvoir plus croître.
+Puisqu'à me rendre heureux vous vous intéressez.
+Je vous donne ma foi que jamais...
+
+      Oui.
+
+      Ah, Madame !
+Je puis donc à la fin vous parler de ma flamme.
+Je puis dans le transport dont je suis animé,
+M'expliquer sans contrainte aux yeux qui m'ont charmé.
+Mon aimable Cécile !
+
+M'aimez-vous toujours ?
+
+Je pensais être aimé plus que je ne le suis,
+Madame.
+
+Hé bien ; si vous m'aimez n'appréhendez plus rien.
+Le reste me regarde, et j'en sortirai bien.
+Qui n'eût pas accepté comme je viens de faire,
+L'inestimable bien que m'offre votre Père ?
+Fallait-il renoncer à vos divins appas,
+Parce qu'il me croyait ce que je ne suis pas ?
+Et lorsqu'il fera temps que je le désabuse,
+N'êtes-vous pas, Madame, une assez belle excuse ?
+Reposez-vous sur moi de tout l'événement.
+
+      C'est vous, ma charmante cousine
+À quand la Noce ?
+
+      Comment ?
+
+Parlez-moi sans énigme ; êtes-vous mariée ?
+Répondez.
+
+Vous aurez le chagrin de ne le trouver pas.
+Il est à Saint Germain, pour quelques jours peut-être.
+Et de tout son logis il m'a laisse le maître.
+Voyez, en son absence, à quoi je vous suis bon.
+J'aurai le même zèle ayant le même nom :
+Et cette Dame enfin que j'estime et respecte,
+Ne doit ni vous gêner, ni vous être suspecte.
+Elle entre comme moi dans tous vos intérêts.
+J'en suis sur.
+
+Puisqu'il rompt sans sujet je n'en suis pas d'avis.
+Et de combien est-il ?
+
+II vous les a donnés ?
+
+Le bien le mieux acquis est celui que l'on donne :
+Ils sont à vous.
+
+      Croyez-vous qu'il en aime quelqu'autre ?
+
+      Serviteur, Monsieur.
+
+Le bonheur de vous voir m'est un plaisir bien doux.
+
+      Mademoiselle est ma cousine.
+
+      Oui, Monsieur.
+
+Et moi je suis ravi, Monsieur, qu'elle vous plaise.
+Quel jour avez-vous pris pour un hymen si beau ?
+
+Vous, Monsieur, savez-vous quelle faute vous faites ?
+
+Et quelle est la raison qui vous fait hésiter,
+Monsieur ?
+
+Croyez-vous que son sang soit indigne de vous ?
+
+Vous a-t-elle engagé par d'indignes moyens ?
+
+Elle a raison ; parlez. Que voulez-vous qu'on pense ?
+
+      Sans doute.
+Je saurai de Monsieur quel affront il redoute :
+Il ne sortira point qu'il ne m'ait convaincu...
+
+      Supprimez ces discours téméraires.
+
+Ses manières, son air, sa pudeur naturelle.
+Ce sont des cautions qui vous répondent d'elle.
+
+Eh ! Monsieur, donnez-nous des raisons plus honnêtes.
+Ma Cousine est croyable un peu plus que vos bêtes :
+Et c'est de sa vertu faire trop peu de cas,
+Que des les vouloir croire, et ne la croire pas.
+Je suis las de souffrir un si cruel outrage.
+
+Puisque par ses raisons Monsieur est convaincu,
+Qu'on lui rendra justice en le faisant cocu,
+La rupture qu'il cherche est une preuve insigne,
+Que de remplir son sort il ne vous croit pas digne.
+Vous n'auriez pas l'esprit de lui manquer de foi.
+Finissez. Quel argent lui devez-vous ?
+
+      Écoutez,
+(Aussi bien suis-je sûr que vous en doutez)
+C'est par mon ordre exprès qu'on n'a rien à vous rendre ;
+Et si vous l'ignorez je veux bien vous l'apprendre.
+Épousez ma Cousine, ou ne prétendez pas...
+
+      Non ; il est à Saint Germain.
+
+      On ne sait.
+
+Consolez-vous, Cousine ; il en viendra quelqu'autre.
+Apprenez mon destin, puisque je sais le vôtre.
+Je vous prie à mon tour de ma noce.
+
+Nous sommes mieux unis que vous et votre amant.
+Ma Maîtresse ni moi nous ne voulons pas rompre.
+Mais j'aperçois quelqu'un qui nous vient interrompre.
+Passez dans l'autre chambre, où bientôt je vous sui.
+
+Qu'est-ce, Monsieur ? Parlez, Quel sujet vous oblige...
+
+Vous est-il arrivé quelque accident fâcheux ?
+
+Avez-vous sur les bras quelque méchante affaire ?
+Êtes-vous assassin, empoisonneur, faussaire ?
+Êtes-vous poursuivi des archers ?
+
+Vous a-t-on dérobé quelque somme un peu forte ?
+
+      N'est-ce point que votre femme est morte ?
+
+Dites donc quel obstacle est contraire à vos voeux.
+J'écoute : mais surtout, point de longue harangue.
+
+Quoi ! Pas un écolier !
+
+      Je m'en étonne.
+Un succès plus, heureux devoir suivre vos soins.
+Le second mois, sans doute, alla bien ?
+
+      Moi ? non ; cela n'est pas croyable.
+
+Et que puis-je pour vous en semblable occurrence :
+Monsieur ?
+
+Il est vrai ; je vois bien que vous avez raison.
+Mais comme à ce dessein la fortune s'oppose,
+Je vous conseillerais de tenter autre chose.
+Quand on veut se tirer d'un fâcheux embarras,
+Il est bon qu'avec elle on ne s'obstine pas.
+Croyez-moi, faites choix de quelqu'autre exercice.
+
+Pour rare, il est certain : on ne peut l'être plus.
+
+Juste ciel ! que ces fous qui fatiguent mes yeux,
+Volent à mon amour de moments précieux !
+
+Et moi, qui suis ravi d'accompagner vos pas,
+De votre sentiment je ne vous quitte pas.
+Vous avez à loisir parcouru ma Maîtresse,
+Et vous jugez de tout avec délicatesse :
+Comment la trouvez-vous ? Ai-je fait un bon choix ?
+
+À ce que vous voulez il faut que je consente.
+
+      À moi,
+Madame ?
+
+      Et de quoi ?
+En quelle occasion la fortune propice,
+M'a-t-elle offert l'honneur de vous rendre service ?
+
+Pour un Mari défunt c'est montrer bien du zèle.
+Je ne m'étonne pas après cette action,
+Qu'on brigue avec chaleur votre possession.
+À votre âge, Madame, être quatre fois veuve,
+C'est de votre mérite une assez grande preuve.
+Sur un si bel exemple on se doit écrier.
+
+Quoi ! Vous vous résoudrez à pâtir si longtemps,
+Madame ? Je vous plains : cet effort est pénible.
+
+Qui croirait qu'une Dame aussi jeune que vous,
+Eût eu le déplaisir de perdre quatre époux ?
+Comment ont fait vos yeux pour conserver leurs charmes,
+Après s'être occupés à verser tant de larmes ?
+Voir mourir ce qu'on aime est un sort si fatal...
+
+Pour avoir le plaisir d'être pleuré de vous,
+On va briguer l'honneur de mourir votre époux.
+Comment le nommait-on ?
+
+Je vais marquer sa mort du plus sublime style.
+Vous serez au Mercure avec distinction.
+
+Que l'Auteur du Mercure a de fous sur les bras !
+Mais pendant qu'en ce lieu je me trouve tranquille,
+Mon coeur impatient de rejoindre Cécile...
+Ciel ! On vient mettre obstacle à mon expressément.
+
+      Moi, Madame ? En tout ce que vous faites,
+Vous n'avez point de peine à montrer qui vous êtes :
+On découvre d'abord un mérite si grand...
+
+D'agréables objets sont aisés à louer.
+Vos manières, votre air...
+
+Moi, Mesdames ?
+
+Je me fais un bonheur du désir de vous plaire :
+Mais comment en parlant montrer qu'on sait se taire ?
+
+Madame...
+
+Madame...
+
+Si vous...
+
+Croyez...
+
+Montrez-vous son aînée, et considérez bien...
+
+Montrez-vous sa cadette, et cherchez une voie...
+
+En vain de vous juger vous m'imposez la loi.
+Que sais-je qui des deux parle le moins ?
+
+Vous taisez-vous souvent de cette force-là ?
+Tout franc, je ne vois goutte en toutes vos manières.
+
+      Ma foi, voilà deux soeurs bien folles !
+Quel rapide torrent d'inutiles paroles,
+Pour me persuader qu'elles ne parlent point !
+Jamais extravagance alla-t-elle à ce point ?
+Et peut-on faire voir par un trait plus sensible,
+Qu'être fille et se taire est chose incompatible ?
+À force de babil elles m'ont enivré.
+Mais enfin par bonheur m'en voilà délivré.
+Holà, Merlin !
+
+      Non cher Merlin, de grâce,
+Pendant quelques moments occupe ici ma place,
+Ma Cécile m'appelle auprès de ses appas.
+Si l'on me vient chercher, dis que je n'y suis pas.
+
+Je viens te relayer ; Cécile me l'ordonne.
+N'as-tu rien à m'apprendre ? Est-il venu personne ?
+
+Je ne puis en juger que suivant vos bontés
+Ce sont vos seuls désirs qui font ses volontés.
+
+Ah ! Monsieur, quels devoirs m'acquitteront jamais...
+
+      Quoi ! Madame,
+Vous ne répondez rien ! Que dois-je croire, hélas !
+
+      Et moi cent.
+
+      Non, Monsieur ; mais il n'importe pas :
+Je tiens ici sa place, et sais la tablature.
+
+Je crois vos Airs fort beaux, mais il faut autre chose :
+Qui ne veut que des Airs achète un Opéra.
+
+Fort nouveau.
+
+Il est beau, je vous jure.
+
+      Il est vrai. L'avez-vous tout noté,
+Monsieur ?
+
+Va chercher un Notaire, et reviens promptement.
+
+En Robe ?
+
+Nous vous croyons Notaire, il en faut un ici.
+
+      Non,
+Je ne le connais pas seulement.
+
+Je n'impose jamais de la moindre syllabe.
+
+Non, Monsieur, par malheur.
+
+      Monsieur,
+Je vous rends sur ce point grâce de tout mon coeur.
+
+Non, Monsieur.
+
+      Tout doux.
+Si vous voulez parler, point d'aigreur, je vous prie.
+
+Eh, Messieurs ! Il sied mal, lorsque vous disputez,
+De dire l'un de l'autre ainsi les vérités.
+Pour rompre un entretien qui me fait de la peine,
+Adieu. Je sais, Messieurs, quel dessein vous amène.
+Votre voyage ici n'aura pas été vain.
+Vous aurez tous deux place au Mercure prochain.
+
+Je ferai mon devoir, je vous le promets.
+
+Je prétends vous traiter selon votre mérite :
+Laissez-moi faire. Hé bien ! vous avez tout ouï ?
+
+Puis-je vous être utile, et vous rendre service,
+Monsieur ?
+
+Qu'est-ce, Monsieur ? Voyons.
+
+Ces vers là me semblent bien tournés.
+
+      Ma foi, je ne la puis comprendre.
+
+Il n'est rien plus galant que votre énigme.
+
+      Non ; je vous en supplie,
+Nous avons de vos Vers la mémoire remplie ;
+Votre nom à l'Énigme ajouterait du poids.
+
+C'est assez ; vos désirs seront tous satisfaits.
+
+Puisqu'il nous laisse en paix, nous ne pouvons mieux faire,
+Que d'envoyer Merlin nous chercher un Notaire.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeboisluisant
+
+Mon abord sans doute vous surprend.
+De vos admirateurs vous voyez le plus grand.
+Le bonheur de vous voir, dont j'ai l'âme ravie,
+Est pour moi le plus doux que j'aie eu de ma vie :
+Avant que de mourir je bornais mon espoir,
+Au sensible plaisir que je trouve à vous voir.
+Souffrez que je vous aime, et que je vous embrasse.
+
+Quel mérite plus grand s'est jamais rencontré ?
+Avant que vous fussiez, quelles rapides plumes
+Enfantaient tous les ans jusqu'à seize volumes ?
+Au moindre événement qui fait un peu de bruit,
+Votre fécondité va jusques à dix-huit.
+Ah, ma Fille !
+
+Oui, Monsieur.
+
+      Adieu. Tantôt nous reviendrons.
+
+Vous m'obligerez.
+
+Le secret serait beau !
+
+C'est vous incommoder.
+
+      Entrons.
+D'un dessein que j'ai fait nous nous entretiendrons.
+
+Oui, Monsieur ; c'est sans fard qu'avec vous je m'explique.
+Il n'est rien de plus propre et de plus magnifique.
+Je connais quatre Ducs, et plus de vingt Marquis,
+Qui n'ont pas à mon gré des meubles plus exquis.
+Je n'ai vu que miroirs, que pendules, que lustres,
+Que Tableaux mis au jour par des peintres illustres ;
+Et ce qui m'a surpris, une collation
+Où la délicatesse et la profusion...
+
+      Hé bien ?
+Puisque vous le voulez je n'en dirai plus rien.
+Disons un mot ou deux sur une autre matière.
+Je vous ai là dedans ouvert mon âme entière.
+Vous savez le penchant qui m'entraîne vers vous ;
+Et ma fille, en un met, n'est plus si près de nous.
+Peut-être que contraint par l'aspect de Cécile,
+Un refus à ses yeux vous semblait difficile.
+Pendant que votre aveu peut être rétracté,
+Ne vous contraignez point ; parlez en liberté.
+Dites-moi franchement si votre coeur chancelé.
+
+      C'est assez.
+Vous pouvez librement entretenir Cécile,
+Pendant une heure ou deux que je vais par la Ville.
+J'aime mieux la laisser à vos soins obligeants,
+Qu'en un Hôtel garni, rempli de mille gens.
+Pénétrez si pour vous elle aura le coeur tendre.
+Quand j'aurai fait mon tour, je viendra la reprendre.
+Adieu. Si vous m'aimez traitez-moi sans façon.
+
+      Pardon, si j'ai mis si longtemps,
+Mon cher Monsieur. Hé bien ! vous sera-t-il facile
+De faire des progrès sur le coeur de Cécile ?
+
+Si c'est moi qu'elle en croit, qu'on appelle ma fille.
+J'ai l'esprit éclairci touchant votre famille :
+Mon devoir le voulait, je m'en suis acquitté :
+Vous avez du mérite et de la qualité :
+On m'a dit de quel sang vous avez, reçu l'être :
+Enfin je suis content tout ce qu'on le peut être.
+Si douze mille francs d'un revenu certain,
+Qui doivent de ma fille accompagner la main,
+Peuvent contribuer à vous la rendre chère,
+Je serai trop heureux d'être votre beau-père.
+
+Ma fille, vos désirs seront-ils satisfaits,
+Si demain de Monsieur vous devenez la femme ?
+Avez-vous du penchant à l'aimer ?
+
+C'est dire en peu de mots tout ce que je souhaite.
+
+Pour leur tendre la main dans un pas si glissant,
+Je donne cent louis.
+
+      Monsieur, ménageons ces instants.
+Nous chanterions ici sur de meilleures notes
+Avec des Conseillers surnommés Gardenotes.
+
+On se plaint de leurs tours, mais ils m'ont réjoui.
+J'avais à les entendre une joie infinie.
+
+      Sur ce point je demande quartier,
+J'y rêverais gratis au moins un siècle entier.
+
+      Allons l'attendre en votre appartement :
+Et conduisons si bien cette heureuse aventure,
+Qu'elle fasse du bruit dans le premier Mercure.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cecile
+
+Votre joie à nous voir me paraît si sincère,
+Que je répondrais mal à cet accueil si doux,
+Si je vous témoignais en avoir moins que vous.
+Quelque estime pour vous que mon père ait conçue,
+Je vois avec plaisir qu'elle vous est bien due :
+Et comme son exemple a sur moi tout pouvoir,
+Plus j'en montre à mon tour, mieux je fais mon devoir.
+
+Cet avis est fort beau !
+
+      Hé bien, mon cher Oronte !
+
+      Oui ; j'en fais l'aveu sans honte.
+Si j'ai quelque chagrin dans cet heureux instant,
+C'est d'abuser mon père, et de lui devoir tant.
+Prévenu, comme il est, pour l'Auteur du Mercure,
+Nous pardonnera-t-il cette douce imposture ?
+Je crains...
+
+Oronte, là-dessus, ne dit point ce qu'il pense ?
+
+      Je vous aime autant que je le puis.
+Vous n'en pouvez douter sans me faire un outrage ;
+Et comment serait-on pour aimer davantage ?
+
+Une Dame paraît dont j'admire la mine.
+Elle a grand air.
+
+Perdre un pareil amant, c'est perdre peu de chose.
+
+      Mademoiselle est-elle à rebuter ?
+
+A-t-elle quelque amant dont vous soyez jaloux ?
+
+Vous a-t-on déguisé sa naissance et ses biens ?
+
+      C'est à tort ;
+Mademoiselle est sage, a de l'honneur.
+
+Ce refus obligeant que fait Mademoiselle,
+Marque pour un volage une bonté nouvelle :
+Retenir vos présents c'est vous aimer encor.
+
+      Quel amant pour une belle amante !
+
+Si je vous haïssais je ne me tairais pas.
+
+Eh, quoi ! te lasses-tu d'accompagner mes pas ?
+
+      Et moi cent.
+
+Pour tous les Airs nouveaux j'ai de la passion ;
+Et je vais écouter avec attention.
+
+      Le plaisir en serait plus complet.
+
+Écoutons, je vous prie. Une Énigme me charme.
+
+Je brûle de savoir ce que c'est.
+
+      Soit manque de lumière, ou de bonne fortune,
+Je n'ai pu de ma vie en deviner aucune.
+
+Non. Qu'est-ce ?
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
+      Oui, la chose est certaine.
+
+      À l'Hôtel de Touraine :
+Je vous l'ai déjà dit cinq ou six fois.
+
+      Vraiment, tout comme je vous vois.
+
+      Non.
+
+      Non, ma foi ?
+Car depuis le Pont-neuf où je l'ai rencontrée,
+Jusqu'à ce que chez elle elle ait été rentrée,
+Son père encor galant la tenant par la main,
+Un mot qu'elle m'eut dit trahissait son dessein.
+Sa langue s'est contrainte, et je n'ai rien su d'elle ;
+Lais ses yeux plus hardis jouaient de la prunelle ;
+Et si de leur jargon je suis bon truchement,
+Ils s'expliquaient pour vous intelligiblement.
+
+      Non.
+
+      Bon !
+Si vous n'étiez aimé comme vous devez l'être,
+M'aurait-elle jette ceci de sa fenêtre ?
+
+      Un quadruple.
+
+      C'est la première fois :
+Encor suis-je trompé, car il n'est pas de poids.
+Je serai bienheureux si j'en ai trois pistoles.
+
+Pour vous les refuser je suis trop complaisant ;
+Je vous l'offre.
+
+Oui, j'entends remuer quelque chose.
+
+      D'accord ; mais il est bien malin.
+C'est en savoir beaucoup à son âge.
+
+Voyez, sans perdre temps, comment sa pièce s'ouvre.
+La chose est curieuse à savoir.
+
+Oui, pour vous : mais pour moi j'en suis fort dégoûté.
+
+      Croyez-vous ma cervelle assez bonne.
+Pour résister longtemps à l'emploi qu'on me donne ?
+Tant que dure le jour j'ai la plume à la main :
+Je sers de Secrétaire à tout le genre humain :
+Fable, Histoire, Aventure, Énigme, Idylle, Églogue,
+Épigramme, Sonnet, Madrigal, Dialogue, Noces,
+Noces, Concerts, Cadeaux, Fêtes, Bals, Enjouements,
+Soupirs, Larmes, Clameurs, Trépas, Enterrements ;
+Enfin, quoique ce soit que l'on nomme nouvelle,
+Vous m'en faites garder un mémoire fidèle.
+Je me tue, en un mot, puisque vous le voulez.
+
+Oui, Monsieur.
+
+      D'un Commis des Gabelles,
+Qui n'ayant pas trouvé ses profits assez grands,
+A fait un petit vol de deux cens mille francs.
+Qui pourrait de sa route avoir un sur mémoire,
+Aurait pour droit d'avis, mille louis pour boire.
+Voyez.
+
+Plût à Dieu les avoir, et qu'il fût bien pendu !
+
+      Un Portrait d'une jeune Duchesse,
+Qui se fait distinguer par sa délicatesse.
+Un pli qui par hasard est reste dans ses draps,
+Lui semble un guet-apens pour lui meurtrir les bras :
+Il n'est point de repas qui pour elle ait des charmes.
+Si l'on met de travers l'écusson de ses armes :
+Qui lui porte un bouillon trop doux ou trop salé,
+D'auprès de sa personne est sur d'être exilé ;
+Et même elle refuse, étant fort enrhumée,
+De prendre un lavement lorsqu'il sent la fumée.
+Mais, chut. Un Gentilhomme entre ici.
+
+Qui diable est l'animal qui heurte de la sorte ?
+
+Je voudrais qu'en heurtant il se rompît les bras.
+
+Ah, Monsieur ! C'est Lisette, ou bien j'ai la berlue.
+
+      Je suis ravi... Comment, je n'aurai rien ?
+Tu reviendras des champs sans me baiser ?
+
+Patience ; à ton tour tu verras ma fierté.
+
+Monsieur, qui l'a reçu m'en a payé le port.
+Tu peux lui demander si je mens.
+
+      Friponne,
+Tu m'as fait un affront dont il te souviendra.
+
+Assurément.
+
+      Non, Monsieur,
+Vous prétendriez sur elle avoir droit de Seigneur ;
+Droit de dixme.
+
+      Cela n'est point folie :
+Un valet marié dont la femme est jolie,
+Et de qui le Patron est bâti comme Vous,
+À de justes raisons de paraître jaloux.
+Je connais plus d'un sot que je ne veux point suivre.
+
+Monsieur, voici Cécile, et tout ce qui s'ensuit,
+Père, fille, soubrette et laquais vont paraître.
+
+      On ne saurait mieux être.
+
+À montrer mes talents l'occasion est belle,
+Savoir ferrer la mule est un art où j'excelle,
+Secrétaire banal je m'en vais essayer,
+Puisqu'il me met en œuvre à m'en faire payer.
+
+      Monsieur.
+
+Je me passerais bien d'une pareille aubade ;
+Mais que veut ce soldat ?
+
+      Quel homme est-ce ?
+
+Dites-moi, s'il vous plaît, voulez-vous quelque chose ?
+L'homme que vous cherchez est mon maître.
+
+Non.
+
+      Me voilà,
+L'un vaut l'autre. Je tiens un registre fidèle,
+Où chaque heure du jour j'écris quelque nouvelle :
+Fable, Histoire, Aventure, enfin quoi que ce soit,
+Par ordre alphabétique est mis en son endroit.
+Parlez.
+
+      Il fait bien ; donnez-vous patience...
+
+Il est vrai, le pauvre homme ! il fait compassion.
+
+Il faut dire des maux, Vice-Amiraux. C'est l'ordre.
+
+Il faut dire fatals, et navals. C'est la règle.
+
+Il faut dire inégaux, principaux. C'est le terme.
+
+Il faut dire régals et Carnavals.
+
+      Parlez bien. On ne dit point navaux,
+Ni fataux, ni régaux, non plus que Carnavaux.
+Vouloir parler ainsi, c'est faire une sottise.
+
+J'ai la raison pour moi qui me fait vous reprendre,
+Et je vais clairement vous le faire comprendre.
+Al est un singulier dont le pluriel fait Aux.
+On dit, c'est mon égal, et ce sont mes égaux.
+C'est l'usage.
+
+Fatal, naval, régal, sont des mots qu'on excepte.
+Pour peu qu'on ait de sens, ou d'érudition,
+On sait que chaque règle a son exception.
+Par conséquent on voit par cette raison seule...
+
+Vous ?
+
+Et tu crois au Mercure occuper une place,
+Toi ? Tu n'y seras point, je t'en donne ma foi.
+
+Adieu, Guerrier fameux par tes Combats navaux.
+
+Un soldat, dont j'ai su les exploits éclatants ;
+Un brave homme.
+
+Tu me parais jolie, à parler tout de bon,
+Mais...
+
+      Je te trouve un certain air fripon...
+
+Trois cens louis ! Messieurs, je l'épouse au plus vite.
+Tu m'aimes ?
+
+      Demain nous nous verrons au gîte.
+
+J'en crois voir un, qui vient de quelque enterrement.
+
+      C'est ainsi qu'ils sont mis d'ordinaire,
+Quand ils vont d'un défunt mendier l'Inventaire.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Est-ce ici le logis de Monsieur Licidas ?
+
+      Fort bien,
+Monsieur.
+
+      Ta bouche
+Doit avoir du respect : pour ce que Monsieur touche.
+
 Et la sienne pour vous est presque tout de même.
 Monsieur de Boisluisant qui brûle de vous voir,
 L'a déjà disposée à faire son devoir.
@@ -649,15 +1095,6 @@ Je me suis hasardée à venir jusqu'ici.
 Avant qu'à vous y voir elle-même s'exposé,
 Apprenez-moi, Monsieur, comment va toute chose.
 
--*who_oronte
-Tout va comme Cécile à peu près l'a voulu.
-De ce logis entier je suis Maître absolu.
-La plus tendre amitié qu'inspire la nature,
-M'unit étroitement à l'Auteur du Mercure.
-Nous portons même nom, avons mêmes aïeux ;
-Et son père et le mien étaient frères.
-
--*who_lisette
       Tant mieux.
 Pour faire le contrat qui vous est nécessaire,
 À point nommé, Monsieur, il falloir un faussaire,
@@ -676,12 +1113,6 @@ Et sous cet équipage on vous croirait un Prince,
 Par là votre dessein peut être divulgué.
 Songez...
 
--*who_oronte
-      Je représente un Auteur distingué ;
-À qui, de compte fait, le débit de ses Livres
-Rapporte tous les ans plus de dix mille livres.
-
--*who_lisette
 Vous ne me dites pas que je m'arrête trop,
 Pour regagner le temps je m'en vais au galop.
 Encore une parole et puis adieu. Cécile,
@@ -696,16 +1127,6 @@ Celui qu'il croit avoir, et dont l'appas le touche,
 Quoique marqué de même, est une boîte à mouche.
 Elle enferme un Billet, à l'aide d'un ressort.
 
--*who_merlin
-Monsieur, qui l'a reçu m'en a payé le port.
-Tu peux lui demander si je mens.
-
--*who_oronte
-      Non sans doute :
-Mais je l'ai mal payé, quelque prix qu'il m'en coûte.
-De la paît de Cécile un Billet m'est si doux...
-
--*who_lisette
 Il suffit que le sien soit venu jusqu'à vous.
 Dans le coeur inquiet de ma jeune maîtresse ;
 Je vais diligemment reporter l'allégresse ;
@@ -718,83 +1139,261 @@ A toujours l'oeil au guet, et n'a pas l'esprit dur.
 Profitez de l'avis que mon zélé vous donne.
 Adieu, Monsieur. Adieu, Monsieur Merlin.
 
--*who_merlin
-      Friponne,
-Tu m'as fait un affront dont il te souviendra.
-
--*who_lisette
 À la première vue on le réparera ;
 Prends courage.
 
-**** *book_ *id_II03 *act_II *date_1683 *creator_boursault
+Monsieur de Boisluisant est-il dehors ?
 
--*who_oronte
-      Tu vois comme elle agit de tête ;
-Ne la trouves-tu pas jolie, aimable, honnête ?
+      Bon.
+Il est sorti, Madame. Avancez.
 
--*who_merlin
-Assurément.
+      À cela près hâtez le conjungo.
+Tous deux jeunes, bien faits, vous vivrez à gogo.
+Qu'est-ce que votre Père après tout pourra dire ?
+N'êtes-vous pas soumise à tout ce qu'il désire ?
+C'est lui qui dans ce lieu vient de vous amener ;
+À Monsieur qu'il y trouve il prétend vous donner ;
+Loin de blâmer son choix vous en êtes contente ;
+Et vous taupez à tout en fille obéissante.
+Êtes-vous obligée à savoir si Monsieur
+Est Auteur véritable, ou bien façon d'Auteur ?
+Vous soupçonnera-t-il d'être d'intelligence ?
 
--*who_oronte
-      Veux-tu l'épouser ?
+J'entends monter quelqu'un ; parlez plus doucement.
 
--*who_merlin
-      Non, Monsieur,
-Vous prétendriez sur elle avoir droit de Seigneur ;
-Droit de dixme.
+Belle, bien faite, jeune, et sans aucun défaut,
+Un homme à cinquante ans n'est pas ce qu'il vous faut.
+Qu'en feriez-vous ? À vingt la ressource est plus grande.
 
--*who_oronte
-      Es-tu fou ?
+      Pour moi, je ne les rendrais pas.
 
--*who_merlin
-      Cela n'est point folie :
-Un valet marié dont la femme est jolie,
-Et de qui le Patron est bâti comme Vous,
-À de justes raisons de paraître jaloux.
-Je connais plus d'un sot que je ne veux point suivre.
+Je n'en voudrons point, moi, qui ne suis que servante ;
+Ou si j'étais réduite à cette extrémité,
+Je crois que son Coucou dirait la vérité.
 
-**** *book_ *id_II04 *act_II *date_1683 *creator_boursault
+Dites-moi, s'il vous plaît : que deviendra Lisette,
+Madame ? Il me souvient qu'autrefois vous disiez
+Quand on vous marierait que vous me marieriez ;
+Vous allez devenir Madame la Mercure,
+Pendant que je serai Lisette toute pure.
+Tâter un peu de tout ne me déplairait pas.
 
--*who_longuemain
+Non, je suis toute à vous, et mon sort tient au vôtre :
+Mais je voudrais, Madame, être encore à quelqu'autre.
+Tant qu'on demeure fille on n'est point en repos ;
+Et quoiqu'on soit suivante on est de chair et d'os.
+Un tronc semble maudit s'il n'en sort quelque branche.
+Et si Merlin penchait du côté que je penche...
+
+      Quoi ! Mais ?
+
+Je ne sais si mon air est fripon ou modeste ;
+Mais jusqu'à ce moment je te réponds du reste.
+
+      Oui.
+
+      Je ne l'entends, ni je ne veux l'entendre,
+C'est du grimoire.
+
+Il faut avoir bon nez pour deviner cela.
+
+Montre-moi ton amour par ton empressement :
+Cours, vole.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmichaut
+
+      Serviteur !
+N'êtes-vous pas l'auteur du Mercure ?
+
+      Le Mercure est une bonne chose !
+On y trouve de tout, Fable, Histoire, Vers, Prose,
+Sièges, Combats, Procès, Mort, Mariage, Amour,
+Nouvelles de Province y et Nouvelles de cour.
+Jamais Livre à mon gré ne fut plus nécessaire.
+
+Vous trouvez donc, Monsieur, que j'ai l'air grand ?
+
+Pourriez-vous, en payant, me faire des aïeux ?
+
+      Écoutez, je parle avec franchise.
+J'aime depuis six mois une jeune Marquise,
+Belle, bien faite, noble : et grâces à mes soins,
+Si j'ai beaucoup d'amour elle n'en a pas moins.
+Ses parents, dont le moindre est Baron ou Vicomte,
+Délicats sur l'honneur, sensibles à la honte,
+Consultés tous ensemble ont approuvé mes feux,
+Pourvu que mes parents soient aussi Nobles qu'eux :
+Et je viens vous trouver pour anoblir ma race.
+
+      Bon ! tous les jours vous en faites autant.
+Tout vous devient possible étant ce que vous êtes.
+Vos Mercures font pleins de Nobles que vous faites :
+De noms si biscornus, s'il faut dire cela,
+Qu'on ne peut être Noble et porter ces noms-là.
+Ne me refusez pas ce que je vous demande :
+De toutes les rigueurs ce serait la plus grande ;
+Et mon hymen rompu me ferait enrager.
+
+Ma foi, mon Père est mort sans m'en avoir parlé :
+Et de tous mes aïeux, puisqu'il ne faut rien taire,
+Je n'en ai point connu par delà mon grand Père.
+
+      Entre nous,
+Feu mon grand Père était Mousquetaire à genoux.
+
+      C'est ce que le vulgaire
+En langage commun appelle Apothicaire.
+
+      Dépend-il de nous d'être de qualité ?
+Quand on m'a voulu faire ai-je été consulté ?
+Sans savoir ce qu'il fait le hasard nous fait naître,
+Et ne demande point ce que nous voulons être.
+Mon Père fut d'un cran plus noble que le sien :
+Il se fit Médecin ; gagna beaucoup de bien ;
+N'eut que moi seul d'enfants ; et passant mon attente,
+Me laissa par sa mort cinq mille écus de rente.
+Comme Paris est grand j'ai changé de quartier ;
+Je me fais par mes gens appeler Chevalier :
+La maison que j'occupe a beaucoup d'apparence,
+Et personne à présent ne sait plus ma naissance.
+Faites-moi Gentilhomme, il n'est rien plus aisé.
+
+      Greffez-moi sur quelque vieille tige.
+Cherchez quelque Maison dont le nom soit péri ;
+Ajoutez une branche à quelque arbre pourri,
+Enfin, pour m'obliger inventez quelque fable ;
+Et ce qui n'est pas vrai rendez-le vraisemblable.
+Un homme comme vous doit-il être en défaut ?
+
+Michaut.
+
+Qu'importe ?
+
+      Pourquoi non ?
+Croyez-vous qu'à la Cour chacun ait son vrai nom ?
+De tant de grands Seigneurs dont le mérite brille,
+Combien ont abjuré le nom de leur famille ?
+Si les morts revenaient ou d'en haut ou d'en bas,
+Les pères et les fils ne se connaîtraient pas.
+Le Seigneur d'une terre un peu considérable,
+En préfère le nom à son nom véritable ;
+Ce nom de père en fils se perpétue à tort ;
+Et cinquante ans après on ne sait d'où l'on sort.
+Je n'escroquerai point vos soins ni vos paroles :
+J'ai certain Diamant de quatre-vingt pistoles...
+
+Parbleu ! tant pis pour vous d'être si formaliste.
+Adieu. Je vais trouver un Généalogiste,
+Qui pour quelques louis que je lui donnerai,
+Me fera sur le champ venir d'où je voudrai.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameguillemot
+
+      Est-ce vous qui faites le Mercure,
+Monsieur ?
+
+      Oui ? L'aveu m'en semble bon !
+
+      Qui ? moi ? non.
+À moins d'être d'un goût insipide et malade,
+Peut-on s'accommoder d'une chose si fade ?
+
+      Pour vous
+Quelque rude qu'il soit il est encor trop doux.
+
+Regardez mon habit, il vous en dit assez.
+Ne l'entendez-vous pas ?
+
+Ô ciel ! que vous avez l'intelligence épaisse !
+Puisqu'il faut avec vous ne rien dissimuler,
+On dit que c'est de moi dont vous vouliez, parler,
+Quand certaine bourgeoise à qui la mode est douce,
+Peur être en cramoisi fit défaire une housse.
+
+      J'en défis une, et ne m'en cache pas ;
+J'avais un lit fort ample, et d'un beau taffetas :
+À force d'être large, il était incommode ;
+Et le tapissier Bon le remit à la mode.
+Par les soins que je pris, j'eus de reste un rideau :
+Le cramoisi régnant j'en fis faire un manteau :
+Voilà la vérité comme elle est dans sa source,
+Et non que mon mari m'ait refusé sa bourse.
+Pour le mot de Bourgeoise un peu trop répété,
+Les Bourgeois de ma sorte ont de la qualité.
+Quand vous voudrez écrire ajuster mieux vos contes ;
+Et sachez que je suis auditrice des Comptes.
+
+      Oui : mais ce qui me courrouce,
+On sait que mon habit est dame vieille housse.
+Que ce soit par hasard ou par malignité,
+Votre indiscret Mercure a dit la vérité.
+J'entends à chaque pas la baste Bourgeoisie,
+Qui me nomme en raillant la housse cramoisie ;
+Et par tout mon quartier la canaille le plaint,
+Que je prends des couleurs qui font sortir le teint.
+Il est vrai, le gros rouge est une couleur, sombre,
+Qui détache le clair par le secours de l'ombre ;
+Qu'on en ait un manteau, sans ornements dessus,
+Pour peu que l'on soit blanche ou le paraît bien plus :
+C'est un fard innocent, sans pommade ni drogue ;
+Et voilà la raison qui l'a tant mis en vogue.
+
+Du gros rouge ?
+
+      Il m'est venu sans affectation.
+
+      Parlez donc, petit sot.
+
+Y ferez-vous entrer mon éloge ?
+
+Louez-moi, je vous prie, imperceptiblement,
+J'ai pour la flatterie une haine invincible.
+Si louer sans flatter vous paraît impossible,
+J'aime mieux vous donner, si vous le souhaitez ?
+Un mémoire où seront mes bonnes qualités.
+J'ai de la modestie, et me rendrai justice.
+Adieu. Ne bougez.
+
+De grâce...
+
+Voyez si mon carrosse est venu me reprendre,
+J'avais quelques parents qu'il est allé descendre.
+Voyez donc promptement si la Fleur est là bas,
+Mon cocher.
+
+      Le fripon craint d'aller dans la rue.
+Si je vous...
+
+Ah, Coquin ! Ne bougez, pour raison.
+
+Vous aurez le fouet en entrant au logis,
+Petit gueux.
+
+      Comment ! Petite rosse,
+Sans vous on aurait cru que j'avais un carrosse.
+Je vous ferai sentir ce que pèsent mes coups.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_longuemain
+
 N'est-ce pas vous, Monsieur, qui faites ce beau Livre,
 Qui n'est pas plutôt vieux qu'il redevient nouveau ?
 Le Mercure ?
 
--*who_oronte
-      Je n'ose avouer qu'il soit beau,
-Mais tel qu'il soit, Monsieur, oui c'est moi.
-
--*who_longuemain
       Je vous jure
 Que par toute la France on chérit le Mercure.
 À Tours, il faut savoir quelle estime on en fait.
 
--*who_oronte
-Passons. Que vous plaît-il ?
-
--*who_longuemain
       Vous parler en secret.
 J'ai mes raisons.
 
--*who_oronte
-      Va-t'en.
-
--*who_longuemain
       Avant que je me nomme,
 Je crois en vous, Monsieur, trouver un honnête homme.
 
--*who_oronte
-Si vous m'estimez tel, quoique vous me disiez,
-Vous ne trouverez point que vous vous abusiez.
-Croyez-en ma parole, et n'ayez aucun doute.
-
--*who_longuemain
 Êtes-vous assuré que personne n'écoute ?
 
--*who_oronte
-Parlez uns vous contraindre, et n'appréhendez rien.
-
--*who_longuemain
 Pour vivre en honnête homme il faut avoir du bien.
 La Vertu toute nue autrefois était belle,
 Mais le Vice à son aise est aujourd'hui plus qu'elle ;
@@ -814,38 +1413,18 @@ Et vous m'obligeriez, après ce beau coup-là,
 De donner dans le monde un bon tour à cela.
 Quand, on a comme vous, une plume si bonne...
 
--*who_oronte
-Et quel diable de tour voulez-vous que j'y donne ?
-Après un vol si grand...
-
--*who_longuemain
       Comment, vol ! parlez mieux,
 Et ne vous servez point de ce terme odieux.
 Tant pour vous que pour moi mettez-vous dans la tête.
 Que frauder la Gabelle est un mot plus honnête.
 C'est me déshonorer qu'employer de tels mots.
 
--*who_oronte
-Vous vous piquez d'honneur un peu mal à propos.
-Si ce mot vous fait honte, et vous semble un outrage,
-L'action qui le cause en fait bien davantage.
-Un homme tel que vous en est assez instruit.
-
--*who_longuemain
 Quel grand mal ai-je fait pour tant faire de bruit ?
 
--*who_oronte
-Quel grand mal ? Trouvez-vous qu'il soit petit ?
-
--*who_longuemain
       Sans doute.
 Ce n'est au pis aller faire que Banqueroute.
 Combien d'autres l'ont faite, et qui n'ont pas péri ?
 
--*who_oronte
-Et comptez-vous pour rien l'affront du Pilori ?
-
--*who_longuemain
 L'affront du Pilori me paraît quelque chose ;
 Je plains ceux qu'en spectacle en ce lieu l'on expose :
 Mais combien en voit-on, banqueroutiers parfaits,
@@ -861,12 +1440,6 @@ L'emprunteur infidèle abandonnant le sien,
 À la face des Lois fait un vol manifeste ;
 Et pour cent mille écus un million lui reste.
 
--*who_oronte
-Les gens que vous citez, dont vous suivez le train,
-Sont l'exécration de tout le genre humain.
-Les affronts qu'on leur fait ont de si justes causes...
-
--*who_longuemain
 Trois carrosses roulants rajustent bien des choses.
 Et pour un million immoler son devoir,
 C'est vendre son honneur tout ce qu'il peut valoir.
@@ -880,23 +1453,8 @@ Et de vider ma Caisse ayant fait un serment,
 Pouvais-je en conscience un user autrement ?
 Mettez-vous en ma place, et pensez bien...
 
--*who_oronte
-      De grâce,
-Ne me proposez point cette odieuse place.
-Quel secours de ce crime osez-vous espérer ?
-Vous vous êtes fait riche, et n'osez vous montrer :
-De vos meilleurs amis vous craignez la présence.
-Vous étiez plus heureux avec plus d'indigence.
-Vous marchiez librement, sans peur d'être arrêté ;
-Et vous avez perdu jusqu'à la liberté.
-
--*who_longuemain
 Je sais un sur moyen de me la faire rendre.
 
--*who_oronte
-Quel moyen ?
-
--*who_longuemain
       Écoutez, et vous l'allez apprendre :
 C'est l'unique sujet qui m'amène en ce lieu.
 De deux extrémités j'ai choisi le milieu :
@@ -914,28 +1472,6 @@ Si je suis par vos soins à l'abri de la hart,
 Du butin que j'ai fait vous aurez votre part :
 Et cent louis...
 
--*who_oronte
-      Monsieur, en m'offrant cette somme,
-Vous oubliez, je crois, que je suis honnête homme ?
-Et si je l'étais moins que je ne le prétends,
-Vous passeriez peut-être assez mal votre temps.
-Vous offrez cent louis pour vous faire un asile,
-Et qui vous fera prendre est sur d'en gagner mille ;
-On les donne ; on vous cherche, il n'est rien plus certain :
-Et vous vous appelez Monsieur de Longuemain.
-C'est un sensible appas qu'une femme si forte :
-Je n'ai pour la gagner qu'à fermer cette porte :
-Mais allez, sauvez-vous ; et ne m'apprenez pas
-En quel lieu le destin va conduire vos pas.
-Que sais-je si demain j'aurais encor la force
-De pouvoir résister à cette douce amorce :
-Rien ne peut vous sauver, si l'on vous pousse à bout.
-Pour vous mettre en repos restituez le tout.
-Mais il faut vous hâter. Si vous vous laissiez prendre,
-Il ne serait plus temps de s'offrir à tout rendre :
-On vous y forcerait, et vous feriez pendu.
-
--*who_longuemain
 Ne me pendrais-je pas si j'avais tout rendu ?
 Un bien de ses aïeux qu'un héritage amène,
 Comme il vient sans travail peut se perdre sans peine :
@@ -951,140 +1487,32 @@ Je renonce au secours d'un tel médiateur.
 Et suis de vos conseils très humble serviteur.
 S'il faut être pendu, ce n'est pas une affaire.
 
--*who_oronte
-Ce Monsieur le Commis a l'air patibulaire.
-Si je ne suis trompé sa mort fera du bruit.
 
-**** *book_ *id_II05 *act_II *date_1683 *creator_boursault
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
 
--*who_merlin
-Monsieur, voici Cécile, et tout ce qui s'ensuit,
-Père, fille, soubrette et laquais vont paraître.
-
--*who_oronte
-Suis-je bien ? Ma perruque...
-
--*who_merlin
-      On ne saurait mieux être.
-
-**** *book_ *id_II06 *act_II *date_1683 *creator_boursault
-
--*who_monsieurdeboisluisant
-Mon abord sans doute vous surprend.
-De vos admirateurs vous voyez le plus grand.
-Le bonheur de vous voir, dont j'ai l'âme ravie,
-Est pour moi le plus doux que j'aie eu de ma vie :
-Avant que de mourir je bornais mon espoir,
-Au sensible plaisir que je trouve à vous voir.
-Souffrez que je vous aime, et que je vous embrasse.
-
--*who_oronte
-Monsieur, avec respect je reçois cette grâce.
-De cet excès d'honneur tout mon coeur pénétré...
-
--*who_monsieurdeboisluisant
-Quel mérite plus grand s'est jamais rencontré ?
-Avant que vous fussiez, quelles rapides plumes
-Enfantaient tous les ans jusqu'à seize volumes ?
-Au moindre événement qui fait un peu de bruit,
-Votre fécondité va jusques à dix-huit.
-Ah, ma Fille !
-
--*who_oronte
-      Est-ce là Madame votre fille,
-En qui tant de beauté, tant de sagesse brille ?
-
--*who_monsieurdeboisluisant
-Oui, Monsieur.
-
--*who_oronte
-      Accordez à mon empressement
-L'honneur de saluer un objet si charmant.
-Madame, pardonnez si j'ai l'âme interdite.
-C'est un charme pour moi qu'une telle visite :
-Et du langage humain les termes impuissants,
-Ne peuvent exprimer les transports que je sens.
-Que je suis redevable à Monsieur votre Père !
-
--*who_cecile
-Votre joie à nous voir me paraît si sincère,
-Que je répondrais mal à cet accueil si doux,
-Si je vous témoignais en avoir moins que vous.
-Quelque estime pour vous que mon père ait conçue,
-Je vois avec plaisir qu'elle vous est bien due :
-Et comme son exemple a sur moi tout pouvoir,
-Plus j'en montre à mon tour, mieux je fais mon devoir.
-
-**** *book_ *id_II07 *act_II *date_1683 *creator_boursault
-
--*who_boniface
 Qui de vous, s'il vous plaît, est l'Auteur du Mercure ?
 
--*who_oronte
-Qui diable amène ici cette sotte figure ?
-Que voulez-vous ?
-
--*who_monsieurdeboisluisant
-      Adieu. Tantôt nous reviendrons.
-
--*who_oronte
-Non, Monsieur.
-
--*who_boniface
       Pardonnez, si je vous interromps.
 
--*who_oronte
-Voulez-vous quelque chose ?
-
--*who_boniface
       Oui, Monsieur.
 
--*who_oronte
-      Parlez-vite,
-De grâce.
-
--*who_boniface
       J'aime mieux différer ma visite,
 Que d'avoir le malheur de vous être importun,
 Et de ne prendre pas un moment opportun.
 
--*who_oronte
-Monsieur, vous voulez bien me donner la licence...
-
--*who_monsieurdeboisluisant
-Vous m'obligerez.
-
--*who_oronte
-      Qu'est-ce ?
-
--*who_boniface
       Un avis d'importance,
 Qui doit enjoliver votre Mercure.
 
--*who_oronte
-      Hé bien ?
-Dites-moi ce que c'est.
-
--*who_boniface
       Ce que c'est ? C'est un bien.
 Mais d'une utilité si grande, si féconde,
 Qu'on vous en saura gré jusques dans l'autre monde.
 C'est un bien, grâce au ciel, et grâce à mes efforts.
 Honorable aux vivants, et plus encore aux morts.
 
--*who_oronte
-Ne perdons point de temps, Monsieur. Que faut-il faire ?
-Parlez.
-
--*who_boniface
       Monsieur Blageard, dont je suis le Confrère,
 M'avait promis, Monsieur, de vous faire un récit
 Du dessein qui m'amène.
 
--*who_oronte
-      Il ne m'en a rien dit.
-
--*who_boniface
 Qu'il doit être content d'avoir votre pratique !
 On ne déserte point son heureuse boutique :
 Du matin jusqu'au soir il ne voit qu'acheteurs.
@@ -1093,23 +1521,11 @@ Qui feraient beaucoup mieux de jamais ne rien faire,
 Que de mettre à l'aumône un malheureux Libraire.
 Un Livre in-folio m'a mis à l'Hôpital.
 
--*who_oronte
-Pour vous dédommager d'un Livre qui va mal,
-Que puis-je ?
-
--*who_boniface
       Vous savez qu'il faut que chacun meure ;
 On le voit tous les jours, on l'éprouve à toute heure ;
 Et jusques à ce jour on n'a pu découvrir,
 D'infaillible moyen pour jamais ne mourir.
 
--*who_oronte
-Et ce qu'on n'a point fait prétendez-vous le faire ?
-
--*who_monsieurdeboisluisant
-Le secret serait beau !
-
--*who_boniface
       Non, Monsieur. Au contraire ;
 Je serais bien fâché que l'on ne mourût pas :
 Je ne puis être heureux qu'à force de trépas.
@@ -1130,13 +1546,6 @@ Qu'en escortant la mort ils demandent du faste,
 Tout le long d'une rue ils seront trop heureux,
 De traîner à leur suite un cortège nombreux.
 
--*who_cecile
-Cet avis est fort beau !
-
--*who_oronte
-      Mais, surtout, fort utile ?
-
--*who_boniface
 Je vendrai ces billets trois louis d'or le mille ;
 Et si l'année est bonne et fertile en trépas,
 Je crois gagner assez pour ne me plaindre pas,
@@ -1158,21 +1567,11 @@ Le prouver par raisons ; et leur faire espérer
 Qu'ils auront du plaisir à se faire enterrer.
 Vous voyez bien, Monsieur, que rien n'est plus facile.
 
--*who_oronte
-Je vous l'ai déjà dit, cet avis est utile.
-Pour le faire valoir je n'épargnerai rien.
-Dites-moi votre nom.
-
--*who_boniface
       Boniface Chrestien,
 Depuis plus de vingt ans Imprimeur et Libraire,
 Et je tiens ma boutique auprès de saint Hilaire.
 Vous en souviendrez-vous, Monsieur ?
 
--*who_oronte
-      Assurément.
-
--*who_boniface
 Votre temps vous est cher jusqu'au moindre moment.
 Le Public est lésé quand on vous importune.
 Adieu, ménagez-moi ma petite fortune.
@@ -1181,10 +1580,6 @@ Je ferai mon devoir, n'en doutez nullement.
 Si Monsieur vous est joint de sang ou d'alliance,
 Il peut hâter l'effet de ma reconnaissance.
 
--*who_oronte
-Comment ?
-
--*who_boniface
       Vous voyez bien qu'il ne peut aller loin :
 Il va de mes Billets avoir bientôt besoin :
 Et j'aurais un plaisir, que je puis dire extrême,
@@ -1195,306 +1590,21 @@ Je m'oblige de plus, lorsque vous rendrez l'âme,
 De les fournir gratis pour Vous et pour Madame.
 Mourez quand vous voudrez, et comptez là-dessus.
 
-**** *book_ *id_II08 *act_II *date_1683 *creator_boursault
 
--*who_oronte
-Des sottises d'un fat vous me voyez confus.
-Victime du Public, le Mercure m'expose
-À la nécessité d'écouter toute chose.
-Mais pour nous dérober aux surprises des sots,
-Dans mon appartement nous serons en repos.
-Entrons. D'être debout à la fin on se lasse.
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelamotte
 
--*who_monsieurdeboisluisant
-C'est vous incommoder.
-
--*who_oronte
-      Non ; c'est me faire grâce.
-Ne la différez point. Entrez, Madame.
-
--*who_monsieurdeboisluisant
-      Entrons.
-D'un dessein que j'ai fait nous nous entretiendrons.
-
--*who_oronte
-Merlin, voilà ma bourse, et je connais ton zèle ;
-Donne-m'en je te prie une preuve nouvelle.
-Deux ou trois confiseurs sont mes proches voisins :
-De ce qu'ils ont de bon fais emplir deux bassins.
-
--*who_merlin
-À montrer mes talents l'occasion est belle,
-Savoir ferrer la mule est un art où j'excelle,
-Secrétaire banal je m'en vais essayer,
-Puisqu'il me met en œuvre à m'en faire payer.
-
-**** *book_ *id_III01 *act_III *date_1683 *creator_boursault
-
--*who_monsieurdeboisluisant
-Oui, Monsieur ; c'est sans fard qu'avec vous je m'explique.
-Il n'est rien de plus propre et de plus magnifique.
-Je connais quatre Ducs, et plus de vingt Marquis,
-Qui n'ont pas à mon gré des meubles plus exquis.
-Je n'ai vu que miroirs, que pendules, que lustres,
-Que Tableaux mis au jour par des peintres illustres ;
-Et ce qui m'a surpris, une collation
-Où la délicatesse et la profusion...
-
--*who_oronte
-Et de grâce, Monsieur, un peu plus d'indulgence ;
-J'ai sans doute abusé de votre complaisance.
-Je vous en fais excuse, et vous conjure...
-
--*who_monsieurdeboisluisant
-      Hé bien ?
-Puisque vous le voulez je n'en dirai plus rien.
-Disons un mot ou deux sur une autre matière.
-Je vous ai là dedans ouvert mon âme entière.
-Vous savez le penchant qui m'entraîne vers vous ;
-Et ma fille, en un met, n'est plus si près de nous.
-Peut-être que contraint par l'aspect de Cécile,
-Un refus à ses yeux vous semblait difficile.
-Pendant que votre aveu peut être rétracté,
-Ne vous contraignez point ; parlez en liberté.
-Dites-moi franchement si votre coeur chancelé.
-
--*who_oronte
-Tout ce qu'on peut sentir mon coeur le sent pour elle.
-Charmé de vos bontés comme de ses attraits,
-À vous plaire, à l'aimer je borne mes souhaits ;
-Et quoique mon amour ne fasse que de naître,
-Il est dans un état à ne pouvoir plus croître.
-Puisqu'à me rendre heureux vous vous intéressez.
-Je vous donne ma foi que jamais...
-
--*who_monsieurdeboisluisant
-      C'est assez.
-Vous pouvez librement entretenir Cécile,
-Pendant une heure ou deux que je vais par la Ville.
-J'aime mieux la laisser à vos soins obligeants,
-Qu'en un Hôtel garni, rempli de mille gens.
-Pénétrez si pour vous elle aura le coeur tendre.
-Quand j'aurai fait mon tour, je viendra la reprendre.
-Adieu. Si vous m'aimez traitez-moi sans façon.
-
-**** *book_ *id_III02 *act_III *date_1683 *creator_boursault
-
--*who_lisette
-Monsieur de Boisluisant est-il dehors ?
-
--*who_oronte
-      Oui.
-
--*who_lisette
-      Bon.
-Il est sorti, Madame. Avancez.
-
--*who_oronte
-      Ah, Madame !
-Je puis donc à la fin vous parler de ma flamme.
-Je puis dans le transport dont je suis animé,
-M'expliquer sans contrainte aux yeux qui m'ont charmé.
-Mon aimable Cécile !
-
--*who_cecile
-      Hé bien, mon cher Oronte !
-
--*who_oronte
-M'aimez-vous toujours ?
-
--*who_cecile
-      Oui ; j'en fais l'aveu sans honte.
-Si j'ai quelque chagrin dans cet heureux instant,
-C'est d'abuser mon père, et de lui devoir tant.
-Prévenu, comme il est, pour l'Auteur du Mercure,
-Nous pardonnera-t-il cette douce imposture ?
-Je crains...
-
--*who_lisette
-      À cela près hâtez le conjungo.
-Tous deux jeunes, bien faits, vous vivrez à gogo.
-Qu'est-ce que votre Père après tout pourra dire ?
-N'êtes-vous pas soumise à tout ce qu'il désire ?
-C'est lui qui dans ce lieu vient de vous amener ;
-À Monsieur qu'il y trouve il prétend vous donner ;
-Loin de blâmer son choix vous en êtes contente ;
-Et vous taupez à tout en fille obéissante.
-Êtes-vous obligée à savoir si Monsieur
-Est Auteur véritable, ou bien façon d'Auteur ?
-Vous soupçonnera-t-il d'être d'intelligence ?
-
--*who_cecile
-Oronte, là-dessus, ne dit point ce qu'il pense ?
-
--*who_oronte
-Je pensais être aimé plus que je ne le suis,
-Madame.
-
--*who_cecile
-      Je vous aime autant que je le puis.
-Vous n'en pouvez douter sans me faire un outrage ;
-Et comment serait-on pour aimer davantage ?
-
--*who_oronte
-Hé bien ; si vous m'aimez n'appréhendez plus rien.
-Le reste me regarde, et j'en sortirai bien.
-Qui n'eût pas accepté comme je viens de faire,
-L'inestimable bien que m'offre votre Père ?
-Fallait-il renoncer à vos divins appas,
-Parce qu'il me croyait ce que je ne suis pas ?
-Et lorsqu'il fera temps que je le désabuse,
-N'êtes-vous pas, Madame, une assez belle excuse ?
-Reposez-vous sur moi de tout l'événement.
-
--*who_lisette
-J'entends monter quelqu'un ; parlez plus doucement.
-
--*who_cecile
-Une Dame paraît dont j'admire la mine.
-Elle a grand air.
-
-**** *book_ *id_III03 *act_III *date_1683 *creator_boursault
-
--*who_oronte
-      C'est vous, ma charmante cousine
-À quand la Noce ?
-
--*who_claire
-      À quand ? Tout est rompu.
-
--*who_oronte
-      Comment ?
-
--*who_claire
-Peut-on se marier quand on n'a plus d'amant ?
-
--*who_oronte
-Parlez-moi sans énigme ; êtes-vous mariée ?
-Répondez.
-
--*who_claire
-      Non, vous dis-je ; on m'a répudié
-Je viens en avertir mon Cousin Licidas.
-
--*who_oronte
-Vous aurez le chagrin de ne le trouver pas.
-Il est à Saint Germain, pour quelques jours peut-être.
-Et de tout son logis il m'a laisse le maître.
-Voyez, en son absence, à quoi je vous suis bon.
-J'aurai le même zèle ayant le même nom :
-Et cette Dame enfin que j'estime et respecte,
-Ne doit ni vous gêner, ni vous être suspecte.
-Elle entre comme moi dans tous vos intérêts.
-J'en suis sur.
-
--*who_claire
-      Mon Cousin, je n'ai point de secrets.
-On m'avait accordée à Monsieur de la Motte :
-Il en est de moins fous que je crois qu'on garrotte.
-Dénué de cervelle, il fait l'esprit profond ;
-Ne s'habille jamais comme les autres font ;
-Et pour tout dire enfin, il semble qu'il se pique
-D'être dans son espèce un animal unique.
-Mais comme il est fort riche, et que j'ai peu de bien.
-On lui promit ma foi sans, que j'en susse rien.
-La semaine passée, avec une Compagne,
-Je fus voir au Plessis sa maison de Campagne :
-Je fis pour l'obliger certes débauche-là ;
-Et ce sur de son mieux qu'il nous y régala.
-Comme jeudi dernier j'étais un peu malade,
-Seul mon bourru d'amant fut à la promenade :
-Je ne sais si c'est-là qu'on m'a volé son coeur ;
-Mais quand il en revint je le trouvai rêveur.
-Le soir, en confidence, il me dit que son âge
-N'était plus guère propre au joug du mariage ;
-Qu'il avoir cinquante ans ; et qu'avec un vieillard,
-L'hymen de ses plaisirs me serait peu de part.
-Le lendemain matin, sans garder de mesure,
-Il revint brusquement me parler de rupture ;
-Et pour le mépriser comme il me méprisait,
-J'acceptai sur le champ ce qu'il me proposait.
-Voilà ce que je sais, sans en savoir la cause.
-
--*who_cecile
-Perdre un pareil amant, c'est perdre peu de chose.
-
--*who_lisette
-Belle, bien faite, jeune, et sans aucun défaut,
-Un homme à cinquante ans n'est pas ce qu'il vous faut.
-Qu'en feriez-vous ? À vingt la ressource est plus grande.
-
--*who_claire
-Il m'a fait un présent qu'il faut que je lui rende.
-
--*who_oronte
-Puisqu'il rompt sans sujet je n'en suis pas d'avis.
-Et de combien est-il ?
-
--*who_claire
-      De deux mille louis.
-
--*who_oronte
-II vous les a donnés ?
-
--*who_claire
-      À moi-même en personne.
-
--*who_oronte
-Le bien le mieux acquis est celui que l'on donne :
-Ils sont à vous.
-
--*who_lisette
-      Pour moi, je ne les rendrais pas.
-
--*who_claire
-Il va, je crois, monter ; je l'ai laisse là-bas.
-Je l'entends.
-
--*who_oronte
-      Croyez-vous qu'il en aime quelqu'autre ?
-
--*who_claire
-Je ne sais.
-
-**** *book_ *id_III04 *act_III *date_1683 *creator_boursault
-
--*who_oronte
-      Serviteur, Monsieur.
-
--*who_monsieurdelamotte
       Et moi le vôtre.
 
--*who_oronte
-Le bonheur de vous voir m'est un plaisir bien doux.
-
--*who_monsieurdelamotte
 D'où vient ?
 
--*who_oronte
-      Mademoiselle est ma cousine.
-
--*who_monsieurdelamotte
       À vous ?
 Tout de bon ?
 
--*who_oronte
-      Oui, Monsieur.
-
--*who_monsieurdelamotte
       J'en suis vraiment bien aise.
 
--*who_oronte
-Et moi je suis ravi, Monsieur, qu'elle vous plaise.
-Quel jour avez-vous pris pour un hymen si beau ?
-
--*who_monsieurdelamotte
 Bon ! la paille est rompue, et tout est à vau-l'eau.
 Vous le savez, fort bien, fin matois que vous êtes.
 
--*who_oronte
-Vous, Monsieur, savez-vous quelle faute vous faites ?
-
--*who_monsieurdelamotte
 Eh oui ! Par cet hymen je m'étais figuré,
 Que j'aurais des enfants qui m'en sauraient bon gré :
 J'entends, par des raisons que moi-même je forge,
@@ -1504,97 +1614,28 @@ Je pense massacrer de petits innocents.
 Mais tout dût-il crever, que tout crève n'importe,
 La raison opposée est toujours la plus forte.
 
--*who_oronte
-Et quelle est la raison qui vous fait hésiter,
-Monsieur ?
-
--*who_cecile
-      Mademoiselle est-elle à rebuter ?
-
--*who_claire
-Ai-je par ma conduite attiré votre haine ?
-
--*who_monsieurdelamotte
 Je n'ai rien à répondre, et c'est ce qui me gène.
 
--*who_oronte
-Croyez-vous que son sang soit indigne de vous ?
-
--*who_cecile
-A-t-elle quelque amant dont vous soyez jaloux ?
-
--*who_claire
-À vos yeux détrompés ne parais-je plus belle ?
-
--*who_monsieurdelamotte
 Ce n'est point tout cela, ma chère Demoiselle.
 
--*who_oronte
-Vous a-t-elle engagé par d'indignes moyens ?
-
--*who_cecile
-Vous a-t-on déguisé sa naissance et ses biens ?
-
--*who_claire
-Ai-je trahi la foi que je vous ai donnée ?
-
--*who_monsieurdelamotte
 Non ; vous êtes en tout bien conditionnée ;
 Belle ; sage, fidèle ; et malgré tout cela,
 Il plaît à mon destin que je vous plante-là.
 Laissez-moi, pour raison, m'excuser fut mon âge ;
 Et ne me forcez pas d'en dire davantage.
 
--*who_claire
-Non, Monsieur ; dites tout, ne soyez point contraint ;
-Vous laissez des soupçons dont ma vertu se plaint.
-
--*who_oronte
-Elle a raison ; parlez. Que voulez-vous qu'on pense ?
-
--*who_monsieurdelamotte
 Mais je vais l'offenser, si je romps le silence.
 Pour n'en pas venir-là je fais ce que je puis.
 Rendez-moi seulement mes deux mille louis,
 Et bonjour.
 
--*who_claire
-      Pour cela, c'est un autre chapitre.
-Je les prétends à moi par un assez bon titre :
-En m'en faisant un don vous en fîtes mon bien.
-Mais vidons l'autre affaire, et ne confondons rien.
-Dussiez-vous m'offenser, expliquez-vous.
-
--*who_oronte
-      Sans doute.
-Je saurai de Monsieur quel affront il redoute :
-Il ne sortira point qu'il ne m'ait convaincu...
-
--*who_monsieurdelamotte
 Puisqu'il faut m'expliquer, je crains d'être cocu.
 
--*who_claire
-Impudent !
-
--*who_oronte
-      Supprimez ces discours téméraires.
-
--*who_monsieurdelamotte
 Mon prétendu Cousin, chacun sait ses affaires.
 Pouvez-vous m'empêcher d'avoir peur ?
 
--*who_cecile
-      C'est à tort ;
-Mademoiselle est sage, a de l'honneur.
-
--*who_monsieurdelamotte
       D'accord.
 
--*who_oronte
-Ses manières, son air, sa pudeur naturelle.
-Ce sont des cautions qui vous répondent d'elle.
-
--*who_monsieurdelamotte
 Elle a plus de vertus encore que d'appas,
 C'est je crois dire assez qu'elle n'en manque pas.
 De quelqu'autre que moi qu'elle soit la conquête,
@@ -1646,14 +1687,6 @@ Sans vouloir regarder ni devant ni derrière,
 Ainsi vous avez beau menacer ou prier,
 Qui diable après cela voudrait se marier ?
 
--*who_oronte
-Eh ! Monsieur, donnez-nous des raisons plus honnêtes.
-Ma Cousine est croyable un peu plus que vos bêtes :
-Et c'est de sa vertu faire trop peu de cas,
-Que des les vouloir croire, et ne la croire pas.
-Je suis las de souffrir un si cruel outrage.
-
--*who_monsieurdelamotte
 Je vous ai déjà dit que je la crois fort sage.
 Mais si l'astre s'en mêle, et veut me voir cocu,
 Pensez-vous que par elle il puisse être vaincu ?
@@ -1668,67 +1701,21 @@ Que je veux ressembler à tous ceux que je vois.
 Pour l'honneur de mon front et de votre mérite,
 Rendez-moi mon argent, et sortons quitte à quitte.
 
--*who_oronte
-Puisque par ses raisons Monsieur est convaincu,
-Qu'on lui rendra justice en le faisant cocu,
-La rupture qu'il cherche est une preuve insigne,
-Que de remplir son sort il ne vous croit pas digne.
-Vous n'auriez pas l'esprit de lui manquer de foi.
-Finissez. Quel argent lui devez-vous ?
-
--*who_claire
-      Qui ? moi ?
-Rien du tout.
-
--*who_monsieurdelamotte
       En trois mots, c'est me payer ma somme.
 
--*who_claire
-Que me demandez-vous ? Parlez en honnête homme.
-Que vous dois-je ?
-
--*who_monsieurdelamotte
       L'argent que vous me retenez.
 Les deux mille louis que je vous ai donnés.
 
--*who_claire
-À moi, Monsieur ?
-
--*who_monsieurdelamotte
       À vous. Pourquoi tant de grimaces ?
 
--*who_claire
-Lorsque je les reçus je vous en rendis grâces.
-Me les ayant donnés, ils ne sont plus à vous.
-
--*who_monsieurdelamotte
 Je me flattais alors de me voir votre époux.
 Jamais félicité ne me parut plus haute.
 
--*who_claire
-Si vous ne l'êtes pas, Monsieur, est-ce ma faute ?
-Tous les dons qu'en m'aimant vous pouvez m'avoir faits,
-Me sont trop précieux pour les rendre jamais.
-
--*who_cecile
-Ce refus obligeant que fait Mademoiselle,
-Marque pour un volage une bonté nouvelle :
-Retenir vos présents c'est vous aimer encor.
-
--*who_monsieurdelamotte
 Je renonce à l'amour qu'on vend au poids de l'or.
 Quand je fis ce présent elle m'était acquise.
 Je n'ai fait avec elle aucune autre sottise.
 Demandez-lui plutôt si jamais...
 
--*who_oronte
-      Écoutez,
-(Aussi bien suis-je sûr que vous en doutez)
-C'est par mon ordre exprès qu'on n'a rien à vous rendre ;
-Et si vous l'ignorez je veux bien vous l'apprendre.
-Épousez ma Cousine, ou ne prétendez pas...
-
--*who_monsieurdelamotte
 Quand je serai cocu, qu'il sera bien plus gras !
 Sachez, petit Cousin, qui par votre menace
 Prétendez m'ajouter aux cocus de ma race,
@@ -1739,16 +1726,8 @@ Licidas à l'instant va décider du reste :
 Nos communs intérêts sont remis en sa main ;
 N'est-il pas ici ?
 
--*who_oronte
-      Non ; il est à Saint Germain.
-
--*who_monsieurdelamotte
 Pour longtemps ?
 
--*who_oronte
-      On ne sait.
-
--*who_monsieurdelamotte
       Attendons qu'il revienne :
 Il entendra plaider votre cause et la mienne.
 De mes prétentions quel que soit le succès,
@@ -1759,73 +1738,119 @@ Tant ils sont assurés de trouver au logis,
 Ou leur femme qui gronde, ou quelquefois bien pis.
 Serviteur.
 
-**** *book_ *id_III05 *act_III *date_1683 *creator_boursault
 
--*who_cecile
-      Quel amant pour une belle amante !
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claire
 
--*who_lisette
-Je n'en voudrons point, moi, qui ne suis que servante ;
-Ou si j'étais réduite à cette extrémité,
-Je crois que son Coucou dirait la vérité.
+      À quand ? Tout est rompu.
 
--*who_oronte
-Consolez-vous, Cousine ; il en viendra quelqu'autre.
-Apprenez mon destin, puisque je sais le vôtre.
-Je vous prie à mon tour de ma noce.
+Peut-on se marier quand on n'a plus d'amant ?
 
--*who_claire
+      Non, vous dis-je ; on m'a répudié
+Je viens en avertir mon Cousin Licidas.
+
+      Mon Cousin, je n'ai point de secrets.
+On m'avait accordée à Monsieur de la Motte :
+Il en est de moins fous que je crois qu'on garrotte.
+Dénué de cervelle, il fait l'esprit profond ;
+Ne s'habille jamais comme les autres font ;
+Et pour tout dire enfin, il semble qu'il se pique
+D'être dans son espèce un animal unique.
+Mais comme il est fort riche, et que j'ai peu de bien.
+On lui promit ma foi sans, que j'en susse rien.
+La semaine passée, avec une Compagne,
+Je fus voir au Plessis sa maison de Campagne :
+Je fis pour l'obliger certes débauche-là ;
+Et ce sur de son mieux qu'il nous y régala.
+Comme jeudi dernier j'étais un peu malade,
+Seul mon bourru d'amant fut à la promenade :
+Je ne sais si c'est-là qu'on m'a volé son coeur ;
+Mais quand il en revint je le trouvai rêveur.
+Le soir, en confidence, il me dit que son âge
+N'était plus guère propre au joug du mariage ;
+Qu'il avoir cinquante ans ; et qu'avec un vieillard,
+L'hymen de ses plaisirs me serait peu de part.
+Le lendemain matin, sans garder de mesure,
+Il revint brusquement me parler de rupture ;
+Et pour le mépriser comme il me méprisait,
+J'acceptai sur le champ ce qu'il me proposait.
+Voilà ce que je sais, sans en savoir la cause.
+
+Il m'a fait un présent qu'il faut que je lui rende.
+
+      De deux mille louis.
+
+      À moi-même en personne.
+
+Il va, je crois, monter ; je l'ai laisse là-bas.
+Je l'entends.
+
+Je ne sais.
+
+Ai-je par ma conduite attiré votre haine ?
+
+À vos yeux détrompés ne parais-je plus belle ?
+
+Ai-je trahi la foi que je vous ai donnée ?
+
+Non, Monsieur ; dites tout, ne soyez point contraint ;
+Vous laissez des soupçons dont ma vertu se plaint.
+
+      Pour cela, c'est un autre chapitre.
+Je les prétends à moi par un assez bon titre :
+En m'en faisant un don vous en fîtes mon bien.
+Mais vidons l'autre affaire, et ne confondons rien.
+Dussiez-vous m'offenser, expliquez-vous.
+
+Impudent !
+
+      Qui ? moi ?
+Rien du tout.
+
+Que me demandez-vous ? Parlez en honnête homme.
+Que vous dois-je ?
+
+À moi, Monsieur ?
+
+Lorsque je les reçus je vous en rendis grâces.
+Me les ayant donnés, ils ne sont plus à vous.
+
+Si vous ne l'êtes pas, Monsieur, est-ce ma faute ?
+Tous les dons qu'en m'aimant vous pouvez m'avoir faits,
+Me sont trop précieux pour les rendre jamais.
+
       Comment !
 
--*who_oronte
-Nous sommes mieux unis que vous et votre amant.
-Ma Maîtresse ni moi nous ne voulons pas rompre.
-Mais j'aperçois quelqu'un qui nous vient interrompre.
-Passez dans l'autre chambre, où bientôt je vous sui.
+Demeurez, mon Cousin, vous avez compagnie.
+Je vous quitte aujourd'hui de la cérémonie.
 
-**** *book_ *id_III06 *act_III *date_1683 *creator_boursault
+Elle est belle, à mes yeux, jusques au bout des doigts.
+Son teint, son air, sa taille, en un mot tout m'enchante ;
+Et de la tête aux pieds, elle est toute charmante.
+Jamais d'un pareil choix on ne peut vous blâmer.
+Eh ! Comment feriez-vous pour ne la pas aimer ?
+Une Dame qui vient m'empêche de poursuivre.
+Adieu. Je vous défends de songer à me suivre.
+Un pas que vous feriez me mettrait en courroux :
+Et ce serait bannir tout commerce entre nous.
 
--*who_dumesnil
+Vous m'obligez.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumesnil
+
 Monsieur, je suis perdu si je n'ai votre appui.
 
--*who_oronte
-Qu'est-ce, Monsieur ? Parlez, Quel sujet vous oblige...
-
--*who_dumesnil
 Si je n'ai votre appui je suis perdu, vous dis-je.
 
--*who_oronte
-Vous est-il arrivé quelque accident fâcheux ?
-
--*who_dumesnil
 Il n'est point sous le ciel d'homme plus malheureux.
 
--*who_oronte
-Avez-vous sur les bras quelque méchante affaire ?
-Êtes-vous assassin, empoisonneur, faussaire ?
-Êtes-vous poursuivi des archers ?
-
--*who_dumesnil
       Moi, Monsieur ?
 Ai-je l'air d'un faussaire, ou d'un empoisonneur ?
 
--*who_oronte
-Vous a-t-on dérobé quelque somme un peu forte ?
-
--*who_dumesnil
 Non, Monsieur.
 
--*who_oronte
-      N'est-ce point que votre femme est morte ?
-
--*who_dumesnil
 Eh ! si c'était cela, serais-je malheureux ?
 
--*who_oronte
-Dites donc quel obstacle est contraire à vos voeux.
-J'écoute : mais surtout, point de longue harangue.
-
--*who_dumesnil
 Force gens à Paris enseignent quelque langue.
 Celui-là l'Espagnol, celui-ci le Latin ;
 Et sans autre secours ils subsistent enfin.
@@ -1839,18 +1864,8 @@ M'offrant de l'enseigner avec affection
 Avec les tons, l'accent, dans sa perfection.
 Pendant le premier mois il ne me vint personne.
 
--*who_oronte
-Quoi ! Pas un écolier !
-
--*who_dumesnil
       Pas un.
 
--*who_oronte
-      Je m'en étonne.
-Un succès plus, heureux devoir suivre vos soins.
-Le second mois, sans doute, alla bien ?
-
--*who_dumesnil
       Encor moins.
 Pour me manifester, tant aux pauvres qu'aux riches,
 Ces deux mois écoulés j'eus recours aux affiches ;
@@ -1878,19 +1893,10 @@ Et quoique cette Langue ait de particulier,
 Je n'ai pas eu l'honneur d'avoir un Écolier.
 Le croiriez-vous ?
 
--*who_oronte
-      Moi ? non ; cela n'est pas croyable.
-
--*who_dumesnil
 Rien n'est plus vrai pourtant, ou je me donne au Diable.
 Pas un seul n'a paru pendant quatorze mois :
 Tant il est vrai qu'en France on fait peu de bons choix !
 
--*who_oronte
-Et que puis-je pour vous en semblable occurrence :
-Monsieur ?
-
--*who_dumesnil
       Réprimander la Noblesse de France,
 Qui parle Italien, Espagnol, Allemand,
 Et qui ne peut parler le langage Normand :
@@ -1902,15 +1908,6 @@ Et qui par une erreur que le bon sens condamne,
 Aime mieux Signorsi, que voire, ou Dieu me damne.
 Vous voyez cependant quelle comparaison ?
 
--*who_oronte
-Il est vrai ; je vois bien que vous avez raison.
-Mais comme à ce dessein la fortune s'oppose,
-Je vous conseillerais de tenter autre chose.
-Quand on veut se tirer d'un fâcheux embarras,
-Il est bon qu'avec elle on ne s'obstine pas.
-Croyez-moi, faites choix de quelqu'autre exercice.
-
--*who_dumesnil
 Non, Monsieur, tôt ou tard on me rendra justice.
 De quoi que l'on se mêle en un même quartier,
 Quarante quelquefois sont d'un pareil métier ;
@@ -1925,10 +1922,6 @@ Doutez-vous que bientôt je n'eusse pension ?
 Comme de mes pareils la nature est avare,
 On a quelques égards pour un homme si rare.
 
--*who_oronte
-Pour rare, il est certain : on ne peut l'être plus.
-
--*who_dumesnil
 Me louer devant moi, c'est me rendre confus :
 Je suis déconcerté d'une louange en face ;
 Et votre honnêteté me fait quitter la place.
@@ -1937,59 +1930,149 @@ Que de voir mon visage il prenne envie au Roi.
 C'est la grâce qu'espère et que vous recommande
 Du Mesnil, Professeur de la langue Normande.
 
--*who_oronte
-Juste ciel ! que ces fous qui fatiguent mes yeux,
-Volent à mon amour de moments précieux !
 
-**** *book_ *id_IV01 *act_IV *date_1683 *creator_boursault
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbrigandeau
 
--*who_claire
-Demeurez, mon Cousin, vous avez compagnie.
-Je vous quitte aujourd'hui de la cérémonie.
+Dieu m'en garde. Je suis Procureur, Dieu merci :
+Et ma Communauté près de vous me députe.
+La vertu d'ordinaire est ce qu'on persécute :
+Et elle est aujourd'hui la licence des moeurs,
+Que des hommes de bien, comme des Procureurs,
+Qui de tant d'opprimés embrassent la défense,
+Ne sont pas à couvert contre la médisance,
+Depuis que dans le monde Arlequin Procureur,
+Pour un Corps si célèbre a donné tant d'horreur.
+Mais ce n'est point, Monsieur, comme on se le figure,
+De ceux du Châtelet dont on fait la peinture :
+Nous savons de l'Auteur qui mit la pièce au jour,
+Qu'il ne prétend parler que de ceux de la Cour ;
+Et ma Communauté par ma voix vous conjure,
+D'en instruire Paris dans le première Mercure.
+Mais, Monsieur, est-ce ici votre Procureur ?
 
--*who_oronte
-Et moi, qui suis ravi d'accompagner vos pas,
-De votre sentiment je ne vous quitte pas.
-Vous avez à loisir parcouru ma Maîtresse,
-Et vous jugez de tout avec délicatesse :
-Comment la trouvez-vous ? Ai-je fait un bon choix ?
+      Tout de bon ?
 
--*who_claire
-Elle est belle, à mes yeux, jusques au bout des doigts.
-Son teint, son air, sa taille, en un mot tout m'enchante ;
-Et de la tête aux pieds, elle est toute charmante.
-Jamais d'un pareil choix on ne peut vous blâmer.
-Eh ! Comment feriez-vous pour ne la pas aimer ?
-Une Dame qui vient m'empêche de poursuivre.
-Adieu. Je vous défends de songer à me suivre.
-Un pas que vous feriez me mettrait en courroux :
-Et ce serait bannir tout commerce entre nous.
+De tout le Parlement c'est le plus grand Arabe.
+Pour piller le plaideur lui seul en vaut un cent.
 
--*who_oronte
-À ce que vous voulez il faut que je consente.
+      Tout beau,
+Maître Sangsue, ou bien...
 
--*who_claire
-Vous m'obligez.
+      Sans doute.
 
-**** *book_ *id_IV02 *act_IV *date_1683 *creator_boursault
+      Vous ?
 
--*who_madamedecalville
+      Sauf correction, vous imposez.
+
+Combien au Parlement, et des plus renommés,
+Sont pour les appelants et pour les Intimés,
+Et savent les forcer par divers stratagèmes,
+À se manger les os pour les ronger eux-mêmes ?
+
+Et quand un Scélérat, qui l'est avec excès,
+Moyennant pension éternise un procès,
+De qui veut-on parler ? Dis-le-moi, si tu l'oses.
+Ce n'est qu'au Parlement où sont ces grandes causes.
+
+C'est à toi le premier à me faire un aveu,
+Que ceux du Parlement ne prennent point si peu ;
+Et que leur main crochue, à voler toujours prête,
+Aime mieux écorcher que de tondre la bête.
+Je vais devant Monsieur dire ce que j'en croi :
+On grappille chez nous, et l'on pille chez toi.
+
+Et tes quatre maisons du quartier Quinquempoix ;
+A-ce été tes aïeux qui les ont là plantées ?
+Du sang de tes Clients elles sont cimentées.
+Il n'entre aucune pierre en leur construction,
+Qui ne te coûte au moins une vexation :
+Et quand tu seras mort ces honteux édifices,
+Publieront après toi toutes tes injustices.
+
+Et l'hiver précèdent, toi qui fais l'entendu,
+Saris un peu de saveur n'étais-tu pas pendu ?
+Tu pris quinze cens francs, dont on a tes quittances,
+Pour avoir obtenu deux arrêts de défenses.
+
+Ne me confondez pas avec un tel fripon.
+Tout Paris sait, Monsieur, de quel air je m'acquitte...
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursangsue
+
+Monsieur, votre très humble et très obéissant.
+Ma personne, je crois, ne vous est pas connue ?
+
+      Je me nomme Sangsue,
+Procureur de la Cour, peur vous servir.
+
+Savez-vous quel dessein en ce lieu me fait rendre ?
+
+      En trois mots je m'en vais vous l'apprendre :
+Voici le fait. En l'an six cens quatre-vingt deux,
+Pour divertissement d'un Théâtre fameux,
+Contre les Procureurs on fit une Satyre,
+Ou presque tout Paris pensa pâmer de rire :
+Mais l'Auteur qui l'a faite a dit publiquement,
+Qu'il n'entend point toucher à ceux du Parlement ;
+Et je viens tour exprès pour braver l'imposture,
+Vous en demander Acte en un coin du Mercure,
+En s'attaquant à nous, quel opprobre eût-ce été ?
+C'était jouer la foi, l'honneur, la probité :
+Mais ceux qu'on a choisis méritent qu'on les berne.
+Ce font des procureurs d'un ordre subalterne,
+Comme ceux des consuls, du Châtelet...
+
+      Quoi ! Maître Brigandeau,
+Prétendez-vous nier ce que je dis ?
+
+Et moi y-devant Monsieur, qui tous deux nous écoute,
+Je m'offre à le prouver en cas de déni.
+
+Oui.
+
+Entrons dans le détail de la friponnerie.
+Souvent au Châtelet un même Procureur,
+Est pour le Demandeur et pour le Défendeur :
+Si quelqu'autre Partie a part à la querelle,
+À la sourdine encor il occupe pour elle.
+
+Et quand dans cette Pièce on voit un Procureur,
+Qui trouve le secret de voler un Voleur,
+Dis-moi qui de nous deux on prétend contrefaire ?
+C'était au Châtelet que pendait cette affaire.
+
+Lorsque d'un Chapelier on attrape un Chapeau,
+Et que d'un Pâtissier on escroque un gâteau ;
+Ne m'avoueras tu pas, comme chacun l'avoue,
+Que c'est un Procureur du Châtelet qu'on joue ?
+
+Ce que tu fais bâtir au Faubourg saint Antoine,
+Est-ce de grappiller, ou de ton patrimoine ?
+Ton père était aveugle, et jouait du Hautbois.
+
+Au mois de Juin dernier un mémoire de frais,
+Pensa dans un cachot te faire mettre au frais.
+Tu l'avais fait monter à sept cens trente livres ;
+Et ton papier volant tel que tu le délivres,
+Étant vu de Messieurs, trois des plus apparents,
+Réduisirent le tout à trente-quatre francs :
+Encore dirent-ils que dans cette occurrence,
+Ils te passaient cent fois contre leur conscience.
+
+Procureur de la Cour, j'entends qu'on me discerne,
+D'un méchant Procureur du Chatelet moderne.
+
+      Bon.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedecalville
+
       Monsieur, je suis votre servante.
 Je vous suis inconnue et redevable.
 
--*who_oronte
-      À moi,
-Madame ?
-
--*who_madamedecalville
       Oui, Monsieur, à vous-même.
 
--*who_oronte
-      Et de quoi ?
-En quelle occasion la fortune propice,
-M'a-t-elle offert l'honneur de vous rendre service ?
-
--*who_madamedecalville
 En trois occasions, où vous avez appris,
 Mais galamment, la mort de trois de mes Maris,
 En lisant ces endroits j'eus un plaisir extrême.
@@ -1998,35 +2081,13 @@ J'offre cette matière à votre heureux talent,
 Pour en faire un article au Mercure Galant.
 Je lui dois de mes feux cette marque fidèle.
 
--*who_oronte
-Pour un Mari défunt c'est montrer bien du zèle.
-Je ne m'étonne pas après cette action,
-Qu'on brigue avec chaleur votre possession.
-À votre âge, Madame, être quatre fois veuve,
-C'est de votre mérite une assez grande preuve.
-Sur un si bel exemple on se doit écrier.
-
--*who_madamedecalville
 On me parle déjà de me remarier :
 Mais je tiens au défunt par de si fortes chaînes,
 Que je n'y veux penser de plus de trois semaines,
 Il verra si pour lui mes feux étaient constants.
 
--*who_oronte
-Quoi ! Vous vous résoudrez à pâtir si longtemps,
-Madame ? Je vous plains : cet effort est pénible.
-
--*who_madamedecalville
 J'aimais feu mon Mari ; l'amour rend tout possible.
 
--*who_oronte
-Qui croirait qu'une Dame aussi jeune que vous,
-Eût eu le déplaisir de perdre quatre époux ?
-Comment ont fait vos yeux pour conserver leurs charmes,
-Après s'être occupés à verser tant de larmes ?
-Voir mourir ce qu'on aime est un sort si fatal...
-
--*who_madamedecalville
 De tous les maux du monde il n'en est point d'égal.
 Il faut pour en parler en avoir fait l'épreuve,
 J'avouerai cependant, moi qui suis souvent veuve,
@@ -2047,52 +2108,90 @@ Voila comme l'on pleure en gens de qualité ;
 Mais si quelque bourgeoise, ou simple demoiselle
 Osait pleurer de même, on se moquerait d'elle.
 
--*who_oronte
-Pour avoir le plaisir d'être pleuré de vous,
-On va briguer l'honneur de mourir votre époux.
-Comment le nommait-on ?
-
--*who_madamedecalville
       Le Comte de Calville.
 
--*who_oronte
-Je vais marquer sa mort du plus sublime style.
-Vous serez au Mercure avec distinction.
-
--*who_madamedecalville
 Marquez-y bien l'excès de mon affliction.
 Comme une tourterelle à tous moments je pleure...
 Si je me remarie, et que mon mari meure,
 Je viendrai vous l'apprendre, et n'y manquerai pas.
 
--*who_oronte
-Que l'Auteur du Mercure a de fous sur les bras !
-Mais pendant qu'en ce lieu je me trouve tranquille,
-Mon coeur impatient de rejoindre Cécile...
-Ciel ! On vient mettre obstacle à mon expressément.
 
-**** *book_ *id_IV03 *act_IV *date_1683 *creator_boursault
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
--*who_oriane
+Serviteur. Vous voyez un Marquis distingué,
+Que les plus grands emplois n'ont jamais fatigué.
+Du Mercure Galant adorateur fidèle,
+J'ai fait un air nouveau sur la saison nouvelle.
+Ah ! Je croyais parler à Monsieur Licidas.
+Est-il là ?
+
+Tous les mois de mes Airs j'embellis le Mercure.
+S'il a ce grand débit dont chacun s'aperçoit,
+À parler entre nous c'est à moi qu'il le doit.
+L'éclat que je lui donne en est la seule cause.
+
+Parbleu ! je vais gager tout ce que l'on voudra,
+Que dans tout Phaéton, quelque bruit qu'on en fasse,
+On ne verra point d'Air que celui-ci n'efface.
+Vous vous y connaissez ; et cela me suffit.
+D'ailleurs ce que je dis ne s'est point encor dit :
+La route que je tiens est fraîchement tracée :
+Tout y sera nouveau jusques à la pensée ;
+Et comme c'est un Air à demi goguenard.
+Je l'ai pris sur un ton entre doux et hagard.
+Je voudrais qu'en cet art Madame fût congrue ;
+Il serait mal aisé qu'elle n'eût l'âme émue.
+
+Je vous demande à tous une équitable oreille.
+Les paroles et l'Air n'ont coûté qu'une veille.
+Tant que l'hiver a duré
+Margot m'a fait la grimace :
+Mon coeur n'a point murmuré
+De voir le sien tout de glace.
+Mais le Printemps de retour
+Elle doit changer de note ;
+Ou bientôt avec la sotte
+J'enverrai paître l'Amour.
+Comment le trouvez-vous ?
+..........................
+
+      Je me pique
+D'avoir dans l'univers peu d'égaux en Musique.
+Outre qu'avec plaisir les tons sont variés,
+Les paroles et l'air sont si bien mariés,
+Qu'il semble qu'on ait fait, sans préceptes frivoles,
+Les paroles pour l'air, et l'air pour les paroles.
+Vous faites tous des voeux pour un second couplet.
+J'en suis sûr.
+
+Pour vous refuser rien je vous trouve trop belle.
+Prêtez-moi, je vous prie, attention nouvelle.
+Avant le temps des frimas
+Dans une grotte champêtre,
+De ses plus charmants appas
+Elle me faisait le maître :
+Et je prétends dès ce jour
+La ramener dans la grotte ;
+Ou bientôt avec la sotte
+J'enverrai paître l'Amour.
+Hé bien ! que vous en semble ?
+..........................
+
+Il faut le faire entrer dans le premier Mercure,
+Le temps presse.
+
+      Assurément. Et de plus cacheté.
+À Monsieur Licidas, à son accoutumée
+Substitut de la Renommée.
+Mon Air aura pour lui des appas éclatants.
+Adieu, mon cher.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
+
 Monsieur, vous allez faire un mauvais jugement.
 Sans doute.
 
--*who_oronte
-      Moi, Madame ? En tout ce que vous faites,
-Vous n'avez point de peine à montrer qui vous êtes :
-On découvre d'abord un mérite si grand...
-
--*who_elise
-Nous savons bien, Monsieur, que vous êtes galant.
-On ne voit point d'écrits comparables aux vôtres :
-Que d'éloges charmants cousus les uns aux autres !
-Vous louez avec grâce, il le faut avouer.
-
--*who_oronte
-D'agréables objets sont aisés à louer.
-Vos manières, votre air...
-
--*who_oriane
       Brisons-là, je vous prie ;
 La louange affectée est une raillerie.
 Tirez-nous seulement d'une grossière erreur,
@@ -2117,7 +2216,78 @@ S'il n'était des rubans, des jupes, des dentelles,
 Tant que dure le jour de quoi parleraient-elles ?
 Je sèche de chagrin lorsque j'entends cela.
 
--*who_elise
+      Monsieur, soyez juge rigide.
+Ma soeur, me voilà prête à vous faire un aveu,
+Que vous ne parlez point, ou que vous parler peu ;
+Que vous avez sur vous un merveilleux empire ;
+Que vous ne dites rien que vous ne deviez dire ;
+Que le don de vous taire est l'effet de vos soins ;
+Mais avouez aussi que je parle encor moins :
+Si ce n'est par devoir, que ce soit par tendresse.
+
+Non, ma soeur ; je ne puis souffrir d'égalité.
+Je parle moins que vous, j'en suis sûre.
+
+Je vous appris cet art. Sans moi vous l'ignoriez.
+
+Monsieur est sur ce point plus éclairé que d'autres :
+Prions-le d'écouter mes raisons et les vôtres.
+Nous verrons sur le champ notre doute éclairci.
+
+      Je l'en conjure aussi.
+
+Écoutez mes raisons ; et j'espère...
+
+L'une de nous, ma soeur, doit parler la première.
+Et par mon droit d'aînesse il me semble devoir...
+
+Quittez l'opinion où cette erreur vous jette ;
+Une aînée en tous lieux parle avant sa cadette.
+
+Apprenez que sur vous j'ai ce double avantage :
+Que l'âge et la raison sont pour moi contre vous ;
+Et que votre sottise excite mon courroux.
+Vous croyez que partout votre mérite brille.
+
+L'aînée entre nous deux est aisée à connaître.
+Vous avez quelque esprit, quelque rayon de feu ;
+Mais pour du jugement vous en avez si peu,
+Qu'en voulant faire voir que vous savez vous taire,
+Vous parlez aujourd'hui plus qu'à votre ordinaire.
+
+J'ai la bonté pour vous de ne l'en pas presser.
+
+Vous ? Me faire l'affront de parler avant moi !
+Vous ne le ferez point, et j'en jure ma foi.
+
+      Non, Monsieur ; je veux le premier pas.
+
+      Je céderais à cette audacieuse !
+
+Pour la faire enrager je n'épargnerai rien.
+
+Et par bonnes raisons je m'en vais vous l'apprendre.
+
+C'est moi qui la première ai formé le dessein.
+
+De captiver ma langue et d'être distinguée.
+
+Pour peu qu'on me fréquente on admire cela.
+
+Je ne vous croyais pas de si courtes lumières.
+
+Pour juger qui de nous était digne du prix.
+
+Je ne sais que vous seul qui put s'être mépris.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
+Nous savons bien, Monsieur, que vous êtes galant.
+On ne voit point d'écrits comparables aux vôtres :
+Que d'éloges charmants cousus les uns aux autres !
+Vous louez avec grâce, il le faut avouer.
+
 Et qui pourrait tenir à ces sottises-là ?
 Est-ce un si grand effort qu'être femme et se taire,
 Qu'aucune autre que nous n'ait encor pu le faire ?
@@ -2133,20 +2303,6 @@ Et dans ce grand dessein je vous suis d'assez près,
 Pour devoir me flatter d'un semblable progrès.
 Je consens comme vous, que Monsieur en décide.
 
--*who_oronte
-Moi, Mesdames ?
-
--*who_oriane
-      Monsieur, soyez juge rigide.
-Ma soeur, me voilà prête à vous faire un aveu,
-Que vous ne parlez point, ou que vous parler peu ;
-Que vous avez sur vous un merveilleux empire ;
-Que vous ne dites rien que vous ne deviez dire ;
-Que le don de vous taire est l'effet de vos soins ;
-Mais avouez aussi que je parle encor moins :
-Si ce n'est par devoir, que ce soit par tendresse.
-
--*who_elise
 Sur tout autre sujet vous feriez la maîtresse,
 Ma soeur ; mais sur cela ne me demandez rien.
 Je donnerais pour vous tout mon sang, tout mon bien.
@@ -2154,66 +2310,23 @@ Mais je ne puis celer que la gloire m'est chère :
 Eh ! Quelle gloire encor ? Être fille et se taire !
 Souffrez-moi votre égale, et par cette équité...
 
--*who_oriane
-Non, ma soeur ; je ne puis souffrir d'égalité.
-Je parle moins que vous, j'en suis sûre.
-
--*who_elise
       Au contraire.
 Si vous en jugez bien, vous savez moins vous taire.
 
--*who_oriane
-Je vous appris cet art. Sans moi vous l'ignoriez.
-
--*who_elise
 Vous m'en avez appris plus que vous n'en saviez.
 
--*who_oriane
-Monsieur est sur ce point plus éclairé que d'autres :
-Prions-le d'écouter mes raisons et les vôtres.
-Nous verrons sur le champ notre doute éclairci.
-
--*who_elise
 J'en conjure Monsieur.
 
--*who_oriane
-      Je l'en conjure aussi.
-
--*who_oronte
-Je me fais un bonheur du désir de vous plaire :
-Mais comment en parlant montrer qu'on sait se taire ?
-
--*who_oriane
-Écoutez mes raisons ; et j'espère...
-
--*who_elise
       Ma soeur,
 Qui parle la première a le plus de faveur.
 Que dirai-je après vous sur la même matière ?
 
--*who_oriane
-L'une de nous, ma soeur, doit parler la première.
-Et par mon droit d'aînesse il me semble devoir...
-
--*who_elise
 La qualité d'aînée est ici sans pouvoir.
 
--*who_oriane
-Quittez l'opinion où cette erreur vous jette ;
-Une aînée en tous lieux parle avant sa cadette.
-
--*who_elise
 Je sais bien qu'en tous lieux et qu'en toute saison,
 C'est un droit de l'aînée alors qu'elle a raison :
 Mais si j'ai raison, moi, qu'ai-je affaire de l'âge ?
 
--*who_oriane
-Apprenez que sur vous j'ai ce double avantage :
-Que l'âge et la raison sont pour moi contre vous ;
-Et que votre sottise excite mon courroux.
-Vous croyez que partout votre mérite brille.
-
--*who_elise
 Ah ! Que par le babil vous êtes encor fille,
 Ma soeur ! Et que cet art que vous citez toujours
 À votre pétulance offre un faible secours
@@ -2223,772 +2336,50 @@ Et cependant, ma soeur, quoique vous la soyez,
 Je ne vous en dis rien comme vous le voyez.
 Je sais dans quel respect la cadette doit être.
 
--*who_oriane
-L'aînée entre nous deux est aisée à connaître.
-Vous avez quelque esprit, quelque rayon de feu ;
-Mais pour du jugement vous en avez si peu,
-Qu'en voulant faire voir que vous savez vous taire,
-Vous parlez aujourd'hui plus qu'à votre ordinaire.
-
--*who_elise
 Monsieur en est le juge, il n'a qu'à prononcer.
 
--*who_oriane
-J'ai la bonté pour vous de ne l'en pas presser.
-
--*who_elise
 Pour comble de bonté faites-moi grâce entière ;
 Permettez qu'à Monsieur je parle la première.
 
--*who_oriane
-Vous ? Me faire l'affront de parler avant moi !
-Vous ne le ferez point, et j'en jure ma foi.
-
--*who_elise
 Ni vous aussi, ma soeur, et j'en jure la mienne.
 Je vous interromprai, sans que rien me retienne.
 
--*who_oronte
-Madame...
-
--*who_oriane
-      Non, Monsieur ; je veux le premier pas.
-
--*who_oronte
-Madame...
-
--*who_elise
       Non, Monsieur ; je n'en démordrai pas.
 
--*who_oronte
-Si vous...
-
--*who_oriane
-      Je céderais à cette audacieuse !
-
--*who_oronte
-Croyez...
-
--*who_elise
       J'obéirais à cette impérieuse !
 
--*who_oronte
-Montrez-vous son aînée, et considérez bien...
-
--*who_oriane
-Pour la faire enrager je n'épargnerai rien.
-
--*who_oronte
-Montrez-vous sa cadette, et cherchez une voie...
-
--*who_elise
 À la contrecarrer je mets toute ma joie.
 
--*who_oronte
-En vain de vous juger vous m'imposez la loi.
-Que sais-je qui des deux parle le moins ?
-
--*who_oriane_elise
-      C'est moi.
-
--*who_oriane
-Et par bonnes raisons je m'en vais vous l'apprendre.
-
--*who_elise
 Et pour en être instruit vous n'avez qu'à m'entendre.
 
--*who_oriane
-C'est moi qui la première ai formé le dessein.
-
--*who_elise
 J'ai pour les grands parleurs conçu tant de dédain.
 
--*who_oriane
-De captiver ma langue et d'être distinguée.
-
--*who_elise
 Que du moindre discours j'ai l'âme fatiguée.
 
--*who_oriane
-Pour peu qu'on me fréquente on admire cela.
-
--*who_elise
       Pour peu qu'on me regarde on devine cela.
 
--*who_oronte
-Vous taisez-vous souvent de cette force-là ?
-Tout franc, je ne vois goutte en toutes vos manières.
-
--*who_oriane
-Je ne vous croyais pas de si courtes lumières.
-
--*who_elise
       C'est pour un grand génie avoir peu de lumières.
 
--*who_oriane
-Pour juger qui de nous était digne du prix.
-
--*who_elise
 Vous ne deviez pas craindre en me donnant le prix.
 
--*who_oriane
-Je ne sais que vous seul qui put s'être mépris.
-
--*who_elise
 Que l'on vous soupçonnât de vous être mépris.
 
--*who_oriane_elise
-Adieu, Monsieur.
 
-**** *book_ *id_IV04 *act_IV *date_1683 *creator_boursault
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beaugenie
 
--*who_oronte
-      Ma foi, voilà deux soeurs bien folles !
-Quel rapide torrent d'inutiles paroles,
-Pour me persuader qu'elles ne parlent point !
-Jamais extravagance alla-t-elle à ce point ?
-Et peut-on faire voir par un trait plus sensible,
-Qu'être fille et se taire est chose incompatible ?
-À force de babil elles m'ont enivré.
-Mais enfin par bonheur m'en voilà délivré.
-Holà, Merlin !
-
-**** *book_ *id_IV05 *act_IV *date_1683 *creator_boursault
-
--*who_merlin
-      Monsieur.
-
--*who_oronte
-      Non cher Merlin, de grâce,
-Pendant quelques moments occupe ici ma place,
-Ma Cécile m'appelle auprès de ses appas.
-Si l'on me vient chercher, dis que je n'y suis pas.
-
--*who_merlin
-Je me passerais bien d'une pareille aubade ;
-Mais que veut ce soldat ?
-
-**** *book_ *id_IV06 *act_IV *date_1683 *creator_boursault
-
--*who_larissole
-      Bonjour, mon Camarade.
-J'entre sans dire gare, et cherche à m'informer
-Où demeure un Monsieur que je ne puis nommer.
-Est-ce ici ?
-
--*who_merlin
-      Quel homme est-ce ?
-
--*who_larissole
-      Un bon vivant ; allègre :
-Qui n'est grand ni petit, noir ni blanc, gras ni maigre.
-J'ai su de son libraire, où souvent je le vois,
-Qu'il fait jeter en moule un Livre tous les mois.
-C'est un vrai Juif errant, qui jamais ne repose.
-
--*who_merlin
-Dites-moi, s'il vous plaît, voulez-vous quelque chose ?
-L'homme que vous cherchez est mon maître.
-
--*who_larissole
-      Est-il là ?
-
--*who_merlin
-Non.
-
--*who_larissole
-      Tant pis. Je voulais lui parler.
-
--*who_merlin
-      Me voilà,
-L'un vaut l'autre. Je tiens un registre fidèle,
-Où chaque heure du jour j'écris quelque nouvelle :
-Fable, Histoire, Aventure, enfin quoi que ce soit,
-Par ordre alphabétique est mis en son endroit.
-Parlez.
-
--*who_larissole
-      Je voudrais bien être dans le Mercure :
-J'y ferais, que je crois, une bonne figure.
-Tout à l'heure, en buvant, j'ai fait réflexion
-Que je fis autrefois une belle action,
-Si le Roi la savait j'en aurais de quoi vivre.
-La guerre est un métier que je suis las de suivre.
-Mon Capitaine, instruit du courage que j'ai,
-Ne saurait se résoudre à me donner congé.
-J'en enrage.
-
--*who_merlin
-      Il fait bien ; donnez-vous patience...
-
--*who_larissole
-Mordié je ne saurais avoir ma subsistance.
-
--*who_merlin
-Il est vrai, le pauvre homme ! il fait compassion.
-
--*who_larissole
-Or donc, pour en venir à ma belle action,
-Vous saurez que toujours je fus homme de guerre,
-Et brave sur la mer autant que sur la terre.
-J'étais sur un vaisseau quand Ruyter fut tué ;
-Et j'ai même à sa mort le plus contribué :
-Je fus chercher le feu que l'on mit à l'amorce
-Du canon qui lui fit rendre l'âme par force.
-Lui mort, les Hollandais souffrirent bien des mals !
-On fit couler à fond les deux Vice-Amirals.
-
--*who_merlin
-Il faut dire des maux, Vice-Amiraux. C'est l'ordre.
-
--*who_larissole
-Les Vice-Amiraux donc ne pouvant plus nous mordre,
-Nos coups aux ennemis furent des coups fataux.
-Nous gagnâmes sur eux quatre combats navaux.
-
--*who_merlin
-Il faut dire fatals, et navals. C'est la règle.
-
--*who_larissole
-Les Hollandais réduits à du biscuit de seigle,
-Ayant connu qu'en nombre ils étaient inégals,
-Firent prendre la fuite aux Vaisseaux principals.
-
--*who_merlin
-Il faut dire inégaux, principaux. C'est le terme.
-
--*who_larissole
-Enfin, après cela nous fûmes à Palerme.
-Les bourgeois à l'envi nous firent des régaux :
-Les huit jours qu'on y fut furent huit Carnavaux.
-
--*who_merlin
-Il faut dire régals et Carnavals.
-
--*who_larissole
-      Oh ! Dame,
-M'interrompre à tous coups, c'est me chiffonner l'âme,
-Franchement.
-
--*who_merlin
-      Parlez bien. On ne dit point navaux,
-Ni fataux, ni régaux, non plus que Carnavaux.
-Vouloir parler ainsi, c'est faire une sottise.
-
--*who_larissole
-Eh ! Mordié ; comment donc voulez-vous que je dise ?
-Si vous me reprenez lorsque je dis des mals,
-Inégals, principals, et des Vice-Amirals ;
-Lorsqu'un moment après pour mieux me faire entendre,
-Je dis fataux, navaux, devez-vous me reprendre ?
-J'enrage de bon coeur quand je trouve un trigaud,
-Qui souffle tout ensemble et le froid et le chaud.
-
--*who_merlin
-J'ai la raison pour moi qui me fait vous reprendre,
-Et je vais clairement vous le faire comprendre.
-Al est un singulier dont le pluriel fait Aux.
-On dit, c'est mon égal, et ce sont mes égaux.
-C'est l'usage.
-
--*who_larissole
-      L'usage ? Hé bien soit. Je l'accepte.
-
--*who_merlin
-Fatal, naval, régal, sont des mots qu'on excepte.
-Pour peu qu'on ait de sens, ou d'érudition,
-On sait que chaque règle a son exception.
-Par conséquent on voit par cette raison seule...
-
--*who_larissole
-J'ai des démangeaisons de te casser la gueule.
-
--*who_merlin
-Vous ?
-
--*who_larissole
-      Oui, palsandié moi : je n'aime point du tout
-Qu'on me berce d'un conte à dormir tout debout ;
-Lorsqu'on veut me railler je donne sur la face.
-
--*who_merlin
-Et tu crois au Mercure occuper une place,
-Toi ? Tu n'y seras point, je t'en donne ma foi.
-
--*who_larissole
-Mordié ! je me bas l'oeil du Mercure et de toi.
-Pour vous faire dépit tant à toi qu'à ton Maître,
-Je déclare à tous deux que je n'y veux pas être :
-Plus de mille Soldats en auraient acheté,
-Pour voir en quel endroit la Rissole eût été :
-C'était argent comptant ; j'en avais leur parole.
-Adieu, Pays. C'est moi qu'on nomme la Rissole.
-Ces bras te deviendront ou fatals, ou fataux.
-
--*who_merlin
-Adieu, Guerrier fameux par tes Combats navaux.
-
-**** *book_ *id_V01 *act_V *date_1683 *creator_boursault
-
--*who_oronte
-Je viens te relayer ; Cécile me l'ordonne.
-N'as-tu rien à m'apprendre ? Est-il venu personne ?
-
--*who_merlin
-Un soldat, dont j'ai su les exploits éclatants ;
-Un brave homme.
-
-**** *book_ *id_V02 *act_V *date_1683 *creator_boursault
-
--*who_monsieurdeboisluisant
-      Pardon, si j'ai mis si longtemps,
-Mon cher Monsieur. Hé bien ! vous sera-t-il facile
-De faire des progrès sur le coeur de Cécile ?
-
--*who_oronte
-Je ne puis en juger que suivant vos bontés
-Ce sont vos seuls désirs qui font ses volontés.
-
--*who_monsieurdeboisluisant
-Si c'est moi qu'elle en croit, qu'on appelle ma fille.
-J'ai l'esprit éclairci touchant votre famille :
-Mon devoir le voulait, je m'en suis acquitté :
-Vous avez du mérite et de la qualité :
-On m'a dit de quel sang vous avez, reçu l'être :
-Enfin je suis content tout ce qu'on le peut être.
-Si douze mille francs d'un revenu certain,
-Qui doivent de ma fille accompagner la main,
-Peuvent contribuer à vous la rendre chère,
-Je serai trop heureux d'être votre beau-père.
-
--*who_oronte
-Ah ! Monsieur, quels devoirs m'acquitteront jamais...
-
-**** *book_ *id_V03 *act_V *date_1683 *creator_boursault
-
--*who_monsieurdeboisluisant
-Ma fille, vos désirs seront-ils satisfaits,
-Si demain de Monsieur vous devenez la femme ?
-Avez-vous du penchant à l'aimer ?
-
--*who_oronte
-      Quoi ! Madame,
-Vous ne répondez rien ! Que dois-je croire, hélas !
-
--*who_cecile
-Si je vous haïssais je ne me tairais pas.
-
--*who_monsieurdeboisluisant
-C'est dire en peu de mots tout ce que je souhaite.
-
--*who_lisette
-Dites-moi, s'il vous plaît : que deviendra Lisette,
-Madame ? Il me souvient qu'autrefois vous disiez
-Quand on vous marierait que vous me marieriez ;
-Vous allez devenir Madame la Mercure,
-Pendant que je serai Lisette toute pure.
-Tâter un peu de tout ne me déplairait pas.
-
--*who_cecile
-Eh, quoi ! te lasses-tu d'accompagner mes pas ?
-
--*who_lisette
-Non, je suis toute à vous, et mon sort tient au vôtre :
-Mais je voudrais, Madame, être encore à quelqu'autre.
-Tant qu'on demeure fille on n'est point en repos ;
-Et quoiqu'on soit suivante on est de chair et d'os.
-Un tronc semble maudit s'il n'en sort quelque branche.
-Et si Merlin penchait du côté que je penche...
-
--*who_merlin
-Tu me parais jolie, à parler tout de bon,
-Mais...
-
--*who_lisette
-      Quoi ! Mais ?
-
--*who_merlin
-      Je te trouve un certain air fripon...
-
--*who_lisette
-Je ne sais si mon air est fripon ou modeste ;
-Mais jusqu'à ce moment je te réponds du reste.
-
--*who_monsieurdeboisluisant
-Pour leur tendre la main dans un pas si glissant,
-Je donne cent louis.
-
--*who_cecile
-      Et moi cent.
-
--*who_oronte
-      Et moi cent.
-
--*who_merlin
-Trois cens louis ! Messieurs, je l'épouse au plus vite.
-Tu m'aimes ?
-
--*who_lisette
-      Oui.
-
--*who_merlin
-      Demain nous nous verrons au gîte.
-
-**** *book_ *id_V04 *act_V *date_1683 *creator_boursault
-
--*who_lemarquis
-Serviteur. Vous voyez un Marquis distingué,
-Que les plus grands emplois n'ont jamais fatigué.
-Du Mercure Galant adorateur fidèle,
-J'ai fait un air nouveau sur la saison nouvelle.
-Ah ! Je croyais parler à Monsieur Licidas.
-Est-il là ?
-
--*who_oronte
-      Non, Monsieur ; mais il n'importe pas :
-Je tiens ici sa place, et sais la tablature.
-
--*who_lemarquis
-Tous les mois de mes Airs j'embellis le Mercure.
-S'il a ce grand débit dont chacun s'aperçoit,
-À parler entre nous c'est à moi qu'il le doit.
-L'éclat que je lui donne en est la seule cause.
-
--*who_oronte
-Je crois vos Airs fort beaux, mais il faut autre chose :
-Qui ne veut que des Airs achète un Opéra.
-
--*who_lemarquis
-Parbleu ! je vais gager tout ce que l'on voudra,
-Que dans tout Phaéton, quelque bruit qu'on en fasse,
-On ne verra point d'Air que celui-ci n'efface.
-Vous vous y connaissez ; et cela me suffit.
-D'ailleurs ce que je dis ne s'est point encor dit :
-La route que je tiens est fraîchement tracée :
-Tout y sera nouveau jusques à la pensée ;
-Et comme c'est un Air à demi goguenard.
-Je l'ai pris sur un ton entre doux et hagard.
-Je voudrais qu'en cet art Madame fût congrue ;
-Il serait mal aisé qu'elle n'eût l'âme émue.
-
--*who_cecile
-Pour tous les Airs nouveaux j'ai de la passion ;
-Et je vais écouter avec attention.
-
--*who_lemarquis
-Je vous demande à tous une équitable oreille.
-Les paroles et l'Air n'ont coûté qu'une veille.
-Tant que l'hiver a duré
-Margot m'a fait la grimace :
-Mon coeur n'a point murmuré
-De voir le sien tout de glace.
-Mais le Printemps de retour
-Elle doit changer de note ;
-Ou bientôt avec la sotte
-J'enverrai paître l'Amour.
-Comment le trouvez-vous ?
-..........................
-
--*who_oronte
-Fort nouveau.
-
--*who_lemarquis
-      Je me pique
-D'avoir dans l'univers peu d'égaux en Musique.
-Outre qu'avec plaisir les tons sont variés,
-Les paroles et l'air sont si bien mariés,
-Qu'il semble qu'on ait fait, sans préceptes frivoles,
-Les paroles pour l'air, et l'air pour les paroles.
-Vous faites tous des voeux pour un second couplet.
-J'en suis sûr.
-
--*who_cecile
-      Le plaisir en serait plus complet.
-
--*who_lemarquis
-Pour vous refuser rien je vous trouve trop belle.
-Prêtez-moi, je vous prie, attention nouvelle.
-Avant le temps des frimas
-Dans une grotte champêtre,
-De ses plus charmants appas
-Elle me faisait le maître :
-Et je prétends dès ce jour
-La ramener dans la grotte ;
-Ou bientôt avec la sotte
-J'enverrai paître l'Amour.
-Hé bien ! que vous en semble ?
-..........................
-
--*who_oronte
-Il est beau, je vous jure.
-
--*who_lemarquis
-Il faut le faire entrer dans le premier Mercure,
-Le temps presse.
-
--*who_oronte
-      Il est vrai. L'avez-vous tout noté,
-Monsieur ?
-
--*who_lemarquis
-      Assurément. Et de plus cacheté.
-À Monsieur Licidas, à son accoutumée
-Substitut de la Renommée.
-Mon Air aura pour lui des appas éclatants.
-Adieu, mon cher.
-
-**** *book_ *id_V05 *act_V *date_1683 *creator_boursault
-
--*who_monsieurdeboisluisant
-      Monsieur, ménageons ces instants.
-Nous chanterions ici sur de meilleures notes
-Avec des Conseillers surnommés Gardenotes.
-
--*who_oronte
-Va chercher un Notaire, et reviens promptement.
-
--*who_merlin
-J'en crois voir un, qui vient de quelque enterrement.
-
--*who_oronte
-En Robe ?
-
--*who_merlin
-      C'est ainsi qu'ils sont mis d'ordinaire,
-Quand ils vont d'un défunt mendier l'Inventaire.
-
-**** *book_ *id_V06 *act_V *date_1683 *creator_boursault
-
--*who_oronte
-Nous vous croyons Notaire, il en faut un ici.
-
--*who_monsieurbrigandeau
-Dieu m'en garde. Je suis Procureur, Dieu merci :
-Et ma Communauté près de vous me députe.
-La vertu d'ordinaire est ce qu'on persécute :
-Et elle est aujourd'hui la licence des moeurs,
-Que des hommes de bien, comme des Procureurs,
-Qui de tant d'opprimés embrassent la défense,
-Ne sont pas à couvert contre la médisance,
-Depuis que dans le monde Arlequin Procureur,
-Pour un Corps si célèbre a donné tant d'horreur.
-Mais ce n'est point, Monsieur, comme on se le figure,
-De ceux du Châtelet dont on fait la peinture :
-Nous savons de l'Auteur qui mit la pièce au jour,
-Qu'il ne prétend parler que de ceux de la Cour ;
-Et ma Communauté par ma voix vous conjure,
-D'en instruire Paris dans le première Mercure.
-Mais, Monsieur, est-ce ici votre Procureur ?
-
--*who_oronte
-      Non,
-Je ne le connais pas seulement.
-
--*who_monsieurbrigandeau
-      Tout de bon ?
-
--*who_oronte
-Je n'impose jamais de la moindre syllabe.
-
--*who_monsieurbrigandeau
-De tout le Parlement c'est le plus grand Arabe.
-Pour piller le plaideur lui seul en vaut un cent.
-
-**** *book_ *id_V07 *act_V *date_1683 *creator_boursault
-
--*who_monsieursangsue
-Monsieur, votre très humble et très obéissant.
-Ma personne, je crois, ne vous est pas connue ?
-
--*who_oronte
-Non, Monsieur, par malheur.
-
--*who_monsieursangsue
-      Je me nomme Sangsue,
-Procureur de la Cour, peur vous servir.
-
--*who_oronte
-      Monsieur,
-Je vous rends sur ce point grâce de tout mon coeur.
-
--*who_monsieursangsue
-Savez-vous quel dessein en ce lieu me fait rendre ?
-
--*who_oronte
-Non, Monsieur.
-
--*who_monsieursangsue
-      En trois mots je m'en vais vous l'apprendre :
-Voici le fait. En l'an six cens quatre-vingt deux,
-Pour divertissement d'un Théâtre fameux,
-Contre les Procureurs on fit une Satyre,
-Ou presque tout Paris pensa pâmer de rire :
-Mais l'Auteur qui l'a faite a dit publiquement,
-Qu'il n'entend point toucher à ceux du Parlement ;
-Et je viens tour exprès pour braver l'imposture,
-Vous en demander Acte en un coin du Mercure,
-En s'attaquant à nous, quel opprobre eût-ce été ?
-C'était jouer la foi, l'honneur, la probité :
-Mais ceux qu'on a choisis méritent qu'on les berne.
-Ce font des procureurs d'un ordre subalterne,
-Comme ceux des consuls, du Châtelet...
-
--*who_monsieurbrigandeau
-      Tout beau,
-Maître Sangsue, ou bien...
-
--*who_monsieursangsue
-      Quoi ! Maître Brigandeau,
-Prétendez-vous nier ce que je dis ?
-
--*who_monsieurbrigandeau
-      Sans doute.
-
--*who_monsieursangsue
-Et moi y-devant Monsieur, qui tous deux nous écoute,
-Je m'offre à le prouver en cas de déni.
-
--*who_monsieurbrigandeau
-      Vous ?
-
--*who_monsieursangsue
-Oui.
-
--*who_monsieurbrigandeau
-      Sauf correction, vous imposez.
-
--*who_oronte
-      Tout doux.
-Si vous voulez parler, point d'aigreur, je vous prie.
-
--*who_monsieursangsue
-Entrons dans le détail de la friponnerie.
-Souvent au Châtelet un même Procureur,
-Est pour le Demandeur et pour le Défendeur :
-Si quelqu'autre Partie a part à la querelle,
-À la sourdine encor il occupe pour elle.
-
--*who_monsieurbrigandeau
-Combien au Parlement, et des plus renommés,
-Sont pour les appelants et pour les Intimés,
-Et savent les forcer par divers stratagèmes,
-À se manger les os pour les ronger eux-mêmes ?
-
--*who_monsieursangsue
-Et quand dans cette Pièce on voit un Procureur,
-Qui trouve le secret de voler un Voleur,
-Dis-moi qui de nous deux on prétend contrefaire ?
-C'était au Châtelet que pendait cette affaire.
-
--*who_monsieurbrigandeau
-Et quand un Scélérat, qui l'est avec excès,
-Moyennant pension éternise un procès,
-De qui veut-on parler ? Dis-le-moi, si tu l'oses.
-Ce n'est qu'au Parlement où sont ces grandes causes.
-
--*who_monsieursangsue
-Lorsque d'un Chapelier on attrape un Chapeau,
-Et que d'un Pâtissier on escroque un gâteau ;
-Ne m'avoueras tu pas, comme chacun l'avoue,
-Que c'est un Procureur du Châtelet qu'on joue ?
-
--*who_monsieurbrigandeau
-C'est à toi le premier à me faire un aveu,
-Que ceux du Parlement ne prennent point si peu ;
-Et que leur main crochue, à voler toujours prête,
-Aime mieux écorcher que de tondre la bête.
-Je vais devant Monsieur dire ce que j'en croi :
-On grappille chez nous, et l'on pille chez toi.
-
--*who_monsieursangsue
-Ce que tu fais bâtir au Faubourg saint Antoine,
-Est-ce de grappiller, ou de ton patrimoine ?
-Ton père était aveugle, et jouait du Hautbois.
-
--*who_monsieurbrigandeau
-Et tes quatre maisons du quartier Quinquempoix ;
-A-ce été tes aïeux qui les ont là plantées ?
-Du sang de tes Clients elles sont cimentées.
-Il n'entre aucune pierre en leur construction,
-Qui ne te coûte au moins une vexation :
-Et quand tu seras mort ces honteux édifices,
-Publieront après toi toutes tes injustices.
-
--*who_monsieursangsue
-Au mois de Juin dernier un mémoire de frais,
-Pensa dans un cachot te faire mettre au frais.
-Tu l'avais fait monter à sept cens trente livres ;
-Et ton papier volant tel que tu le délivres,
-Étant vu de Messieurs, trois des plus apparents,
-Réduisirent le tout à trente-quatre francs :
-Encore dirent-ils que dans cette occurrence,
-Ils te passaient cent fois contre leur conscience.
-
--*who_monsieurbrigandeau
-Et l'hiver précèdent, toi qui fais l'entendu,
-Saris un peu de saveur n'étais-tu pas pendu ?
-Tu pris quinze cens francs, dont on a tes quittances,
-Pour avoir obtenu deux arrêts de défenses.
-
--*who_oronte
-Eh, Messieurs ! Il sied mal, lorsque vous disputez,
-De dire l'un de l'autre ainsi les vérités.
-Pour rompre un entretien qui me fait de la peine,
-Adieu. Je sais, Messieurs, quel dessein vous amène.
-Votre voyage ici n'aura pas été vain.
-Vous aurez tous deux place au Mercure prochain.
-
--*who_monsieursangsue
-Procureur de la Cour, j'entends qu'on me discerne,
-D'un méchant Procureur du Chatelet moderne.
-
--*who_oronte
-Je ferai mon devoir, je vous le promets.
-
--*who_monsieursangsue
-      Bon.
-
--*who_monsieurbrigandeau
-Ne me confondez pas avec un tel fripon.
-Tout Paris sait, Monsieur, de quel air je m'acquitte...
-
--*who_oronte
-Je prétends vous traiter selon votre mérite :
-Laissez-moi faire. Hé bien ! vous avez tout ouï ?
-
--*who_monsieurdeboisluisant
-On se plaint de leurs tours, mais ils m'ont réjoui.
-J'avais à les entendre une joie infinie.
-
-**** *book_ *id_V08 *act_V *date_1683 *creator_boursault
-
--*who_beaugenie
 Serviteur à l'illustre et belle Compagnie.
 Je vois au sombre accueil que je reçois de tous,
 Que je n'ai pas l'honneur d'être connu de vous.
 
--*who_oronte
-Puis-je vous être utile, et vous rendre service,
-Monsieur ?
-
--*who_beaugenie
       Non. Je viens, moi, vous rendre un bon office.
 Je viens vous faire voir que j'ai quelque talent.
 Je viens-vous réciter un ouvrage excellent.
 
--*who_oronte
-Qu'est-ce, Monsieur ? Voyons.
-
--*who_beaugenie
       Une Énigme si belle
 Qu'elle fera du bruit dans plus d'une ruelle.
 C'est un effort d'esprit, mais si rempli d'attraits,
 Qu'il n'a point eu d'égal, et n'en aura jamais.
 
--*who_cecile
-Écoutons, je vous prie. Une Énigme me charme.
-
--*who_beaugenie
 L'Énigme qui jadis causa tant de vacarme ;
 Fit verser tant de sang ; ouvrit tant de tombeaux ;
 Des Monarques Thébains mit le trône en lambeaux ;
@@ -3008,46 +2399,16 @@ Pour m'échapper j'use d'adresse ;
 Et deviens femelle traîtresse,
 De mule que j'aurais été.
 
--*who_oronte
-Ces vers là me semblent bien tournés.
-
--*who_cecile
-Je brûle de savoir ce que c'est.
-
--*who_beaugenie
 Devinez.
 
--*who_cecile
-      Soit manque de lumière, ou de bonne fortune,
-Je n'ai pu de ma vie en deviner aucune.
-
--*who_beaugenie
 Et Monsieur ?
 
--*who_monsieurdeboisluisant
-      Sur ce point je demande quartier,
-J'y rêverais gratis au moins un siècle entier.
-
--*who_beaugenie
 Et vous, Monsieur ?
 
--*who_oronte
-      Ma foi, je ne la puis comprendre.
-
--*who_beaugenie
 Et vous ?
 
--*who_lisette
-      Je ne l'entends, ni je ne veux l'entendre,
-C'est du grimoire.
-
--*who_beaugenie
       Enfin, vous ne l'entendez pas ?
 
--*who_cecile
-Non. Qu'est-ce ?
-
--*who_beaugenie
       C'est un vent échappé par en bas.
 Vous vous regardez tous, et j'en sais bien la cause.
 Tous ceux qui l'ont ouïe ont fait la même chose.
@@ -3065,13 +2426,6 @@ Il semble que ce Vent ait de la connaissance,
 Et qu'il n'ose avouer son nom ni sa naissance.
 Rien n'est plus singulier que cette énigme-là.
 
--*who_lisette
-Il faut avoir bon nez pour deviner cela.
-
--*who_oronte
-Il n'est rien plus galant que votre énigme.
-
--*who_beaugenie
       Peste !
 Je le sais bien. Passons à l'examen du reste.
 Quand on m'ôte la liberté,
@@ -3090,12 +2444,6 @@ Et je suis étonné, quand je songe à cela,
 Comment l'esprit humain peut aller jusques-là.
 Je vais recommencer...
 
--*who_oronte
-      Non ; je vous en supplie,
-Nous avons de vos Vers la mémoire remplie ;
-Votre nom à l'Énigme ajouterait du poids.
-
--*who_beaugenie
 La Nature prudente eut soin d'en faire choix ;
 Et de mes Vers nombreux prévoyant l'harmonie.
 Me doua tout exprès du nom de Beaugénie.
@@ -3104,23 +2452,100 @@ Ornez-la d'un prélude, et vantez, ses appas.
 Les Vers en sont si beaux, la matière si belle,
 Que vous n'en direz rien qui soit au dessus d'elle.
 
--*who_oronte
-C'est assez ; vos désirs seront tous satisfaits.
-
--*who_beaugenie
 Adieu ; je me retire, et je vous laisse en paix.
 
-**** *book_ *id_V09 *act_V *date_1683 *creator_boursault
 
--*who_oronte
-Puisqu'il nous laisse en paix, nous ne pouvons mieux faire,
-Que d'envoyer Merlin nous chercher un Notaire.
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larissole
 
--*who_lisette
-Montre-moi ton amour par ton empressement :
-Cours, vole.
+      Bonjour, mon Camarade.
+J'entre sans dire gare, et cherche à m'informer
+Où demeure un Monsieur que je ne puis nommer.
+Est-ce ici ?
 
--*who_monsieurdeboisluisant
-      Allons l'attendre en votre appartement :
-Et conduisons si bien cette heureuse aventure,
-Qu'elle fasse du bruit dans le premier Mercure.
+      Un bon vivant ; allègre :
+Qui n'est grand ni petit, noir ni blanc, gras ni maigre.
+J'ai su de son libraire, où souvent je le vois,
+Qu'il fait jeter en moule un Livre tous les mois.
+C'est un vrai Juif errant, qui jamais ne repose.
+
+      Est-il là ?
+
+      Tant pis. Je voulais lui parler.
+
+      Je voudrais bien être dans le Mercure :
+J'y ferais, que je crois, une bonne figure.
+Tout à l'heure, en buvant, j'ai fait réflexion
+Que je fis autrefois une belle action,
+Si le Roi la savait j'en aurais de quoi vivre.
+La guerre est un métier que je suis las de suivre.
+Mon Capitaine, instruit du courage que j'ai,
+Ne saurait se résoudre à me donner congé.
+J'en enrage.
+
+Mordié je ne saurais avoir ma subsistance.
+
+Or donc, pour en venir à ma belle action,
+Vous saurez que toujours je fus homme de guerre,
+Et brave sur la mer autant que sur la terre.
+J'étais sur un vaisseau quand Ruyter fut tué ;
+Et j'ai même à sa mort le plus contribué :
+Je fus chercher le feu que l'on mit à l'amorce
+Du canon qui lui fit rendre l'âme par force.
+Lui mort, les Hollandais souffrirent bien des mals !
+On fit couler à fond les deux Vice-Amirals.
+
+Les Vice-Amiraux donc ne pouvant plus nous mordre,
+Nos coups aux ennemis furent des coups fataux.
+Nous gagnâmes sur eux quatre combats navaux.
+
+Les Hollandais réduits à du biscuit de seigle,
+Ayant connu qu'en nombre ils étaient inégals,
+Firent prendre la fuite aux Vaisseaux principals.
+
+Enfin, après cela nous fûmes à Palerme.
+Les bourgeois à l'envi nous firent des régaux :
+Les huit jours qu'on y fut furent huit Carnavaux.
+
+      Oh ! Dame,
+M'interrompre à tous coups, c'est me chiffonner l'âme,
+Franchement.
+
+Eh ! Mordié ; comment donc voulez-vous que je dise ?
+Si vous me reprenez lorsque je dis des mals,
+Inégals, principals, et des Vice-Amirals ;
+Lorsqu'un moment après pour mieux me faire entendre,
+Je dis fataux, navaux, devez-vous me reprendre ?
+J'enrage de bon coeur quand je trouve un trigaud,
+Qui souffle tout ensemble et le froid et le chaud.
+
+      L'usage ? Hé bien soit. Je l'accepte.
+
+J'ai des démangeaisons de te casser la gueule.
+
+      Oui, palsandié moi : je n'aime point du tout
+Qu'on me berce d'un conte à dormir tout debout ;
+Lorsqu'on veut me railler je donne sur la face.
+
+Mordié ! je me bas l'oeil du Mercure et de toi.
+Pour vous faire dépit tant à toi qu'à ton Maître,
+Je déclare à tous deux que je n'y veux pas être :
+Plus de mille Soldats en auraient acheté,
+Pour voir en quel endroit la Rissole eût été :
+C'était argent comptant ; j'en avais leur parole.
+Adieu, Pays. C'est moi qu'on nomme la Rissole.
+Ces bras te deviendront ou fatals, ou fataux.
+
+
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *date_1683 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jasmin
+
+Monsieur, Madame a nom Madame Guillemot.
+
+      Je suis sur de ne le trouver pas,
+Madame.
+
+      C'est à pied que vous êtes venue.
+
+      Qu'ai-je fait ?
+
+Dame ! je ne sais pas si bien mentir que vous.
+

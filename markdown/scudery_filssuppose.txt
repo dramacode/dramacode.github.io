@@ -1,6 +1,6 @@
 ---
 identifier: scudery_filssuppose  
-creator: Scudéry, Georges de  
+creator: Scudéry, Georges de ; Georges Forestier.  
 date: 1636  
 title: Le Fils supposé. Comédie  
 ---

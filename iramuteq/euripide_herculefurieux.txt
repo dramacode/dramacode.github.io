@@ -1,1304 +1,516 @@
 
 
-**** *book_ *id_I01 *act_I *date_1880
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_amphitryon
 
--*who_amphitryon
-Est-il un mortel qui ne connaisse celui dont Jupiter partagea la couche nuptiale, l'argien Amphitryon, qu'engendra jadis Alcée, fils de Persée, et qui fut père d'Hercule ?
-Le héros habita cette ville de Thèbes, où sortit du sein de la terre une moisson de guerriers dont Mars ne sauva qu'un petit nombre.
-C'est eux dont la postérité peupla la ville de Cadmus ; c'est d'eux que naquit Créon, fils de Ménecée et roi de ce pays.
-Or, Créon est le père de Mégare que Thèbes entière accueillit jadis par un joyeux hyménée, soutenu des sons de la flûte, le jour où l'illustre Hercule l'épousa et la conduisit dans ma demeure.
-Mais quittant Thèbes, où je m'étais transporté, et Mégare, et sa nouvelle famille, mon fils a désiré habiter Argos, la ville bâtie par les Cyclopes, d'où je suis exilé pour avoir tué Electryon.
-Voulant adoucir mes infortunes et me voir rentrer dans ma patrie, il entreprit de pacifier l'Univers (c'était payer chèrement à Eurysthée mon retour), soit que Junon l'eût percé de son aiguillon, soit que tel fût l'arrêt du destin.
-Il a heureusement accompli ses autres travaux ; mais descendu, comme dernière épreuve, par l'ouverture du Ténare jusque dans le royaume de Pluton, pour amener à la lumière le chien à triple corps, il n'en est point revenu.
-Or les Thébains publient, et c'est une antique tradition, qu'un certain Lycus, époux de Dircé, gouverna autrefois la ville aux sept tours, avant le règne des deux fils de Jupiter aux blancs coursiers, Amphion et Zéthus.
-Un descendant de ce Lycus, qui s'appelle comme son père et n'est point Thébain, mais originaire de l'Eubée, a tué Créon et règne sur ce pays, dont il a surpris la capitale en proie à la sédition.
-La parenté qui nous unit à Créon est pour nous, à ce qu'il paraît, la source des plus grands malheurs.
-Car, tandis que mon fils est dans les entrailles de la terre, ce Lycus, l'illustre roi de cette contrée, veut anéantir la postérité d'Hercule en tuant à la fois, pour effacer le meurtre par le meurtre, et son épouse et moi-même, inutile vieillard qui ne compte plus parmi les hommes : il craint qu'un jour ces enfants, devenus hommes, ne lui demandent compte du meurtre de leur oncle maternel.
-Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens.
-Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens.
-Nous restons dans cet asile, dénués de tout, d'aliments, de boisson, de vêtements, couchés sur la terre nue : car, chassés de nos foyers, c'est le désespoir qui nous a conduits en ce lieu.
-Parmi nos amis, je vois que les uns ne sont pas sûrs, et que les autres, restés fidèles, ne peuvent nous venir en aide.
-Tel est l'effet de l'adversité ; et puisse celui-là même qui ne me veut que peu de bien n'en faire jamais l'expérience !
-Elle est l'épreuve la plus sûre de l'amitié.
+Est-il un mortel qui ne connaisse celui dont Jupiter partagea la couche nuptiale, l'argien Amphitryon, qu'engendra jadis Alcée, fils de Persée, et qui fut père d'Hercule ? Le héros habita cette ville de Thèbes, où sortit du sein de la terre une moisson de guerriers dont Mars ne sauva qu'un petit nombre. C'est eux dont la postérité peupla la ville de Cadmus ; c'est d'eux que naquit Créon, fils de Ménecée et roi de ce pays. Or, Créon est le père de Mégare que Thèbes entière accueillit jadis par un joyeux hyménée, soutenu des sons de la flûte, le jour où l'illustre Hercule l'épousa et la conduisit dans ma demeure. Mais quittant Thèbes, où je m'étais transporté, et Mégare, et sa nouvelle famille, mon fils a désiré habiter Argos, la ville bâtie par les Cyclopes, d'où je suis exilé pour avoir tué Electryon. Voulant adoucir mes infortunes et me voir rentrer dans ma patrie, il entreprit de pacifier l'Univers (c'était payer chèrement à Eurysthée mon retour), soit que Junon l'eût percé de son aiguillon, soit que tel fût l'arrêt du destin. Il a heureusement accompli ses autres travaux ; mais descendu, comme dernière épreuve, par l'ouverture du Ténare jusque dans le royaume de Pluton, pour amener à la lumière le chien à triple corps, il n'en est point revenu. Or les Thébains publient, et c'est une antique tradition, qu'un certain Lycus, époux de Dircé, gouverna autrefois la ville aux sept tours, avant le règne des deux fils de Jupiter aux blancs coursiers, Amphion et Zéthus. Un descendant de ce Lycus, qui s'appelle comme son père et n'est point Thébain, mais originaire de l'Eubée, a tué Créon et règne sur ce pays, dont il a surpris la capitale en proie à la sédition. La parenté qui nous unit à Créon est pour nous, à ce qu'il paraît, la source des plus grands malheurs. Car, tandis que mon fils est dans les entrailles de la terre, ce Lycus, l'illustre roi de cette contrée, veut anéantir la postérité d'Hercule en tuant à la fois, pour effacer le meurtre par le meurtre, et son épouse et moi-même, inutile vieillard qui ne compte plus parmi les hommes : il craint qu'un jour ces enfants, devenus hommes, ne lui demandent compte du meurtre de leur oncle maternel. Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens. Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens. Nous restons dans cet asile, dénués de tout, d'aliments, de boisson, de vêtements, couchés sur la terre nue : car, chassés de nos foyers, c'est le désespoir qui nous a conduits en ce lieu. Parmi nos amis, je vois que les uns ne sont pas sûrs, et que les autres, restés fidèles, ne peuvent nous venir en aide. Tel est l'effet de l'adversité ; et puisse celui-là même qui ne me veut que peu de bien n'en faire jamais l'expérience ! Elle est l'épreuve la plus sûre de l'amitié.
 
--*who_megare
-Ô vieillard, qui renversas jadis la ville des Taphiens et commandais glorieusement l'armée Thébaine : rien de ce qui vient des dieux n'est sûr pour les mortels.
-C'est ainsi que, du côté paternel, la fortune m'avait bien traitée : Créon était fier autrefois de son opulence et exerçait cette royauté que l'on jalouse et que l'assaut des lances ennemies dispute à leurs heureux possesseurs ; il avait des enfants et me donna en mariage à ton fils Hercule, qui trouvait en moi une illustre épouse.
-Aujourd'hui tous ces biens ne sont plus, ils se sont envolés.
-Je vais périr avec toi, vieillard, avec les enfants d'Hercule que j'abrite sous mes ailes, comme un oiseau fait sa tendre couvée.
-Ils se pressent à l'envi autour de moi pour m'interroger :
-    « Mère, disent-ils, en quel lieu de la terre notre père est-il parti ?
-Que fait-il ?
-Quand viendra-t-il ? »
-Trompés par l'innocence de leur âge, ils demandent leur père.
-Et moi, je leur réponds par des paroles évasives, et, quand la porte résonne, je demeure saisie ; tous s'élancent, dans la pensée qu'ils vont embrasser les genoux de leur père.
-Maintenant donc, vieillard, quelle espérance, quelle voie de salut s'offre à tes yeux : car c'est vers toi que je tourne mes regards.
-Nous ne saurions franchir, sans être aperçus, les limites de cet État ; des gardes, plus forts que nous, ferment tous les passages : nous ne devons pas non plus compter pour nous sauver sur le secours de nos amis.
-Dis-moi donc, vieillard, quelle est ta pensée : gardons6nous, tandis que la mort s'apprête pour nous, et faibles comme nous sommes, de traîner le temps en longueur.
-
--*who_amphitryon
 Ma fille, il est difficile et malaisé d'atteindre le but que tu poursuis en montrant un zèle inconsidéré.
 
--*who_megare
-Que manque-t-il à ton infortune ?
-Ou bien aimes-tu à ce point la lumière ?
-
--*who_amphitryon
 Elle m'est chère et je tiens à mes espérances ?
 
--*who_megare
-J'y tiens aussi ; mais il ne faut pas, vieillard, se flatter de l'impossible.
-
--*who_amphitryon
 Les remèdes à nos maux viennent des délais.
 
--*who_megare
-L'attente est cruelle et me déchire le coeur.
+Peut-être, ma fille, un vent favorable soufflera-t-il, après les maux qui nous accablent l'un et l'autre ; peut-être verrons-nous venir mon fils, ton époux. Allons ! Calme-toi ; arrête ces flots de larmes que versent tes enfants, console leur douleur par de douces paroles, trompe-les par d'adroits mensonges, cruel artifice ! Je le sais bien. L'infortune elle-même finit par se lasser ; les vents ne soufflent pas toujours avec la même violence, et les heureux ne sont pas toujours heureux ; toutes choses changent et prennent un autre cours. L'homme de coeur est celui qui se confie jusqu'au bout à l'espérance ; désespérer est d'un lâche.
 
--*who_amphitryon
-Peut-être, ma fille, un vent favorable soufflera-t-il, après les maux qui nous accablent l'un et l'autre ; peut-être verrons-nous venir mon fils, ton époux.
-Allons !
-Calme-toi ; arrête ces flots de larmes que versent tes enfants, console leur douleur par de douces paroles, trompe-les par d'adroits mensonges, cruel artifice !
-Je le sais bien.
-L'infortune elle-même finit par se lasser ; les vents ne soufflent pas toujours avec la même violence, et les heureux ne sont pas toujours heureux ; toutes choses changent et prennent un autre cours.
-L'homme de coeur est celui qui se confie jusqu'au bout à l'espérance ; désespérer est d'un lâche.
+Que Jupiter se montre Jupiter en défendant son fils ; pour ce qui est de moi, il m'appartient, Hercule, de confondre en ta faveur la sottise de cet homme : car je ne dois pas souffrir que ta réputation soit attaquée. Je veux d'abord te laver d'un reproche tout nouveau (car c'est pour moi chose nouvelle, Hercule, que ta lâcheté), et j'en appelle au témoignage des dieux, et j'interroge la foudre de Jupiter et ce char attelé de quatre coursiers, du haut duquel tu enfonças tes traits ailés dans les flancs des géants, fils de la Terre : glorieux triomphe que tu célébras avec les dieux. Et ces insolents quadrupèdes, cette race des Centaures, va-t'en sur le mont Pholoë, ô le plus détestable des rois, et demande-leur s'ils donnent la palme du courage à un autre qu'à mon fils dont tu nies la vaillance. Si tu interrogeais Dirphys, en Eubée, où tu fus élevé, elle ne te louerait point : car pour aucun exploit glorieux tu ne saurais invoquer le témoignage de ta patrie. Quant aux armes de l'archer, cette merveilleuse invention à laquelle tu fais le procès, écoute-moi et profite de la leçon. Le soldat pesamment armé est esclave de son armure ; et, s'il se trouve en compagnie de gens sans bravoure, il périt lui-même, victime de la lâcheté de ses voisins. Qu'il vienne à briser sa lance, laquelle est son unique défense, il n'a plus de quoi repousser la mort qui le menace. Mais celui dont le bras est habile à décocher la flèche jouit d'un avantage sans égal : c'est qu'après avoir lancé mille traits, il lui en reste d'autres pour se garantir contre la mort. À distance, il exerce sa vengeance en blessant par d'aveugles traits des ennemis clairvoyants ; il ne livre point son corps à ses adversaires, et se tient à couvert de leurs coups. Or, pour qui combat, la sagesse consiste surtout à faire du mal à l'ennemi sans exposer sa personne et se mettre dans la dépendance de la fortune. Telles sont les raisons par lesquelles je combats ton opinion sur le sujet qui nous occupe. Mais ces enfants, pourquoi veux-tu les tuer ? Que t'ont-ils fait ? Je te trouve sage en un point seulement, c'est que, lâche comme tu es, tu crains la postérité d'un héros. Toutefois, il est cruel pour nous de mourir victimes de ta lâcheté, tandis que c'est nous, qui valons mieux que toi, qui devrions te donner la mort, si Jupiter était animé à notre égard de justes sentiments. Si donc tu veux rester le maître de ce royaume, laisse-nous, pauvres exilés, sortir du pays ; Il exerce contre nous aucune violence, on tu en subiras à ton tour, lorsque le vent de la fortune aura tourné contre toi. Hélas ! Ô terre de Cadmus (car je me tournerai vers toi, en t'adressant des paroles de reproche), est-ce ainsi que tu défends Hercule et ses enfants ? C'est lui, pourtant, qui marchant au combat, seul contre tous les Myniens, permit à Thèbes de lever au ciel un regard libre. Je ne puis louer la Grèce, ni me résigner à taire jamais la vérité, quand je la trouve si ingrate envers mon fils : elle devait accourir, apportant à ces jeunes enfants du feu, des lances, des armes, et s'acquitter envers celui dont les travaux ont purifié la mer et le continent. Voilà ce que ni la ville de Thèbes ni la Grèce ne font pour vous, et vos regards se tournent vers moi, faible auxiliaire, qui n'ai d'autre arme qu'une langue sonore. La force que j'avais autrefois m'a abandonné, mes genoux tremblent par l'effet des ans et ma vigueur est éteinte. Si j'étais jeune encore et en possession de moi-même, je saisirais une lance et j'ensanglanterais les blonds cheveux de ce misérable, si bien qu'il s'enfuirait de peur au delà des bornes atlantiques.
 
--*who_lechoeur
-J'ai pris mon chemin, appuyé sur un bâton, vers le toit qui abrite Amphitryon et le lit où repose sa vieillesse, et j'entonne un chant plaintif, comme le cygne au blanc plumage ; je n'apporte,que des paroles, une ombre fugitive, semblable aux visions des songes, et une voix tremblante mais que le zèle anime.
-Ô enfants, qui n'avez plus de père !
-Ô vieillard !
-Ô malheureuse mère qui pleure un époux disparu dans le royaume de Pluton !
-Ne vous fatiguez pas à mouvoir vos pieds et vos membres appesantis par l'âge, comme ce coursier qui gravit sous le joug la pente d'un rocher et qui succombe à l'effort.
-Prends ma main, attache-toi à mes vêtements, si le pied trop faible t'a manqué ; vieillard, conduis un vieillard, comme autrefois, jeunes gens, nous avons uni nos lances dans les travaux de la guerre, pour l'honneur de notre glorieuse patrie.
-Voyez les éclairs qui jaillissent de leurs yeux : comme ils ressemblent à leur père Sa beauté revit en eux, et son infortune ne les a point quittés depuis l'enfance.
-Ô Grèce, de quels défenseurs tu seras privée en les perdant ! — Mais je vois le souverain de ce pays, Lycus, qui s'approche de ce temple.
+Ce n'est assurément ni la frayeur, ni l'amour de la vie, qui m'empêchent de chercher la mort ; mais je désire conserver à mon fils ses enfants ; d'ailleurs, j'ai bien l'air de courir après l'impossible. Tiens, je te livre ma tête : perce-moi du glaive, égorge-moi, jette-moi du haut d'un rocher ; accorde-nous seulement une faveur, prince, nous t'en supplions : tue-moi, tue cette infortunée avant ces enfants : que nous ne les voyions pas, spectacle impie ! Rendre l'âme, appeler leur mère et le père de leur père ; pour tout le reste, agis à ton gré : car nous sommes sans défense contre le trépas.
 
-**** *book_ *id_I02 *act_I *date_1880
+Ô Jupiter, c'est donc en vain que tu as partagé ma couche nuptiale, en vain que je t'appelais le père de mon fils ! Tu étais donc moins notre ami que tu paraissais l'être ! Tout mortel que je suis, je l'emporte en vertu sur un grand dieu : car je n'ai point trahi les enfants d'Hercule. Toi, tu as su te glisser furtivement dans ma couche et usurper des droits qu'on ne t'avait point cédés ; et tu ne sais point sauver ceux qui te sont chers ! Tu n'es qu'une divinité aveugle ou tu ne connus jamais la justice.
 
--*who_lycus
-Je veux interroger, si j'en ai le droit, le père et l'épouse d'Hercule ; or, j'ai ce droit, puisque je suis votre maître, de vous questionner à mon gré.
-Jusqu'à quel terme prétendez-vous prolonger votre vie ?
-Quel espoir, quel secours s'offre à vos yeux, qui vous défende contre la mort ?
-Croyez-vous que le père de ces enfants reviendra des Enfers où il est enseveli ?
-Parce qu'il faut que vous mouriez, vous vous livrez à un désespoir peu digne de vous, toi qui te vantes sottement par toute la Grèce que Jupiter t'a rendue mère d'un nouveau dieu, toi, qui fus appelée l'épouse du plus vaillant héros.
-Et qu'a donc fait de si glorieux cet époux, en tuant l'Hydre de Lerne ou le lion de Némée ?
-Il l'a pris dans ses filets et a prétendu l'avoir étouffé dans ses bras.
-Voilà avec quelles armes vous luttez contre moi ?
-Voilà pourquoi les enfants d'Hercule doivent échapper au trépas ?
-Hercule a passé pour un héros, et c'était un homme de rien : bon pour combattre les animaux, incapable d'autres exploits, on ne le vit point armer son bras gauche du bouclier, affronter de près la lance ; mais tenant en main son arc, la plus lâche des armes, il était toujours prêt à fuir.
-Or, le courage du guerrier se montre, non pas à lancer des flèches, mais à mesurer de l'oeil, sans broncher à son rang, le sillon rapide que trace la lance.
-Ma conduite, vieillard, n'est pas inspirée par la cruauté, mais par la prudence : je le sais pour avoir tué Créon, le père de cette femme, et m'être emparé de son trône.
-Je ne veux point épargner ces enfants, pour que, devenus grands, ils s'érigent en vengeurs et me punissent de ce que j'ai fait.
+Toi, ma fille, fais les apprêts de notre descente aux enfers ; pour moi, les mains tendues vers le ciel, je t'invoque, ô Jupiter, pour que tu secoures ces enfants, si tu dois leur prêter quelque assistance : car bientôt tu ne leur serviras de rien. Aussi bien t'avons nous invoqué plus d'une fois ; peine inutile ! Il faut absolument mourir, à ce qu'il semble. À vous, vieillards, je dirai : la vie est courte, faites en sorte de la passer aussi agréablement que possible, sans connaître le chagrin ni le jour ni la nuit. Le temps ne sait point sauver les espérances : il fait son oeuvre et s'envole. Voyez ! J'attirais naguère les regards des mortels par l'éclat de ma fortune ; le destin m'a ravi ces biens en un jour : ils ont fui comme l'oiseau qui prend son vol dans les airs. Il n'est personne qui jouisse d'une fortune ou d'une gloire assurées. Adieu ! vous voyez aujourd'hui pour la dernière fois, vieillards, un vieillard qui fut votre ami.
 
--*who_amphitryon
-Que Jupiter se montre Jupiter en défendant son fils ; pour ce qui est de moi, il m'appartient, Hercule, de confondre en ta faveur la sottise de cet homme : car je ne dois pas souffrir que ta réputation soit attaquée.
-Je veux d'abord te laver d'un reproche tout nouveau (car c'est pour moi chose nouvelle, Hercule, que ta lâcheté), et j'en appelle au témoignage des dieux, et j'interroge la foudre de Jupiter et ce char attelé de quatre coursiers, du haut duquel tu enfonças tes traits ailés dans les flancs des géants, fils de la Terre : glorieux triomphe que tu célébras avec les dieux.
-Et ces insolents quadrupèdes, cette race des Centaures, va-t'en sur le mont Pholoë, ô le plus détestable des rois, et demande-leur s'ils donnent la palme du courage à un autre qu'à mon fils dont tu nies la vaillance.
-Si tu interrogeais Dirphys, en Eubée, où tu fus élevé, elle ne te louerait point : car pour aucun exploit glorieux tu ne saurais invoquer le témoignage de ta patrie.
-Quant aux armes de l'archer, cette merveilleuse invention à laquelle tu fais le procès, écoute-moi et profite de la leçon.
-Le soldat pesamment armé est esclave de son armure ; et, s'il se trouve en compagnie de gens sans bravoure, il périt lui-même, victime de la lâcheté de ses voisins.
-Qu'il vienne à briser sa lance, laquelle est son unique défense, il n'a plus de quoi repousser la mort qui le menace.
-Mais celui dont le bras est habile à décocher la flèche jouit d'un avantage sans égal : c'est qu'après avoir lancé mille traits, il lui en reste d'autres pour se garantir contre la mort.
-À distance, il exerce sa vengeance en blessant par d'aveugles traits des ennemis clairvoyants ; il ne livre point son corps à ses adversaires, et se tient à couvert de leurs coups.
-Or, pour qui combat, la sagesse consiste surtout à faire du mal à l'ennemi sans exposer sa personne et se mettre dans la dépendance de la fortune.
-Telles sont les raisons par lesquelles je combats ton opinion sur le sujet qui nous occupe.
-Mais ces enfants, pourquoi veux-tu les tuer ?
-Que t'ont-ils fait ?
-Je te trouve sage en un point seulement, c'est que, lâche comme tu es, tu crains la postérité d'un héros.
-Toutefois, il est cruel pour nous de mourir victimes de ta lâcheté, tandis que c'est nous, qui valons mieux que toi, qui devrions te donner la mort, si Jupiter était animé à notre égard de justes sentiments.
-Si donc tu veux rester le maître de ce royaume, laisse-nous, pauvres exilés, sortir du pays ; Il exerce contre nous aucune violence, on tu en subiras à ton tour, lorsque le vent de la fortune aura tourné contre toi.
-Hélas !
-Ô terre de Cadmus (car je me tournerai vers toi, en t'adressant des paroles de reproche), est-ce ainsi que tu défends Hercule et ses enfants ?
-C'est lui, pourtant, qui marchant au combat, seul contre tous les Myniens, permit à Thèbes de lever au ciel un regard libre.
-Je ne puis louer la Grèce, ni me résigner à taire jamais la vérité, quand je la trouve si ingrate envers mon fils : elle devait accourir, apportant à ces jeunes enfants du feu, des lances, des armes, et s'acquitter envers celui dont les travaux ont purifié la mer et le continent.
-Voilà ce que ni la ville de Thèbes ni la Grèce ne font pour vous, et vos regards se tournent vers moi, faible auxiliaire, qui n'ai d'autre arme qu'une langue sonore.
-La force que j'avais autrefois m'a abandonné, mes genoux tremblent par l'effet des ans et ma vigueur est éteinte.
-Si j'étais jeune encore et en possession de moi-même, je saisirais une lance et j'ensanglanterais les blonds cheveux de ce misérable, si bien qu'il s'enfuirait de peur au delà des bornes atlantiques.
-
--*who_lechoeur
-Les hommes vertueux ne trouvent-ils pas matière à d'éloquents discours, lors même qu'ils sont lents à parler ?
-
--*who_lycus
-Débite contre nous d'orgueilleux discours : j'y répondrai par un acte rigoureux.
-Allez, vous sur l'Hélicon, vous dans les vallons du Parnasse, et ordonnez aux bûcherons de couper les troncs des chênes ; dès qu'ils les auront transportés dans la ville, entassez ce bois à droite et à gauche autour de l'autel, mettez-y le feu et brûlez les corps de tous ces criminels, afin qu'ils sachent que ce n'est point Créon défunt qui règne sur ce pays, mais que moi seul commande ici maintenant.
-Pour vous, vieillards, qui vous montrez contraires à mes desseins, vous n'aurez pas seulement à gémir sur le sort des enfants d'Hercule, mais encore sur les malheurs de votre maison, quand elle sentira l'effet de ma colère, et vous vous rappellerez que vous êtes les esclaves de mon sceptre;
-
--*who_lechoeur
-Ô fils de la terre, que Mars fit naître jadis en semant les dents arrachées des mâchoires du vorace dragon !
-Ne lèverez-vous pas ces bâtons, appuis de votre main, pour ensanglanter la tête impie de ce détestable tyran, de cet étranger, qui n'est pas de la race de Cadmus et commande à la jeunesse thébaine ?
-Mais, à moi du moins, tu ne feras pas la loi impunément ; tu ne t'empareras pas de ces biens que j'ai conquis par de pénibles travaux ; retourne aux lieux d'où tu viens exercer ton insolence : car, moi vivant, tu ne tueras jamais les enfants d'Hercule : ce héros, en quittant ses enfants, n'est pas si profondément enseveli dans les entrailles de la terre.
-Toi, tu as perdu cette terre que tu gouvernes ; et lui, qui en fut le défenseur, n'a pas le sort qu'il mérite ; et après cela je fais l'empressé, parce que je sers un ami dans le tombeau, où plus qu'ailleurs on a besoin d'amis !
-Ô mon bras, comme tu brûles de saisir la lance !
-Mais la faiblesse ne te permet pas de satisfaire ce désir ; sans quoi, je t'aurais empêché de m'appeler esclave, et nous habiterions glorieusement cette ville de Thèbes, où tu jouis de ton bonheur : c'est que la cité, en proie à la sédition et aux mauvais conseils, a perdu le sens ; autrement, elle ne t'aurait jamais pris pour maître.
-
--*who_megare
-Vieillards, je loue votre vertu ; c'est ainsi que des amis doivent ressentir en faveur de leurs amis un juste courroux ; mais je ne veux pas qu'en vous irritant à cause de nous contre votre maître, vous attiriez sur vous le malheur.
-Écoute-moi, Amphitryon, et vois si mon avis mérite qu'on s'y arrête.
-Je chéris mes enfants ; et comment n'aimerais-je pas des êtres que j'ai enfantés dans la douleur ?
-Je n'envisage pas le trépas sans effroi, mais j'estime que lutter contre la nécessité, c'est folie pour les mortels.
-Puisqu'il faut que nous mourions, ce n'est point consumés par le feu que nous devons mourir et en prêtant à rire à nos ennemis, ce qui est un mal pire pour moi que la mort, car la noblesse de notre origine nous impose de grands devoirs.
-Le renom glorieux que tu t'es acquis à la guerre ne te permet pas de mourir lâchement ; et mon illustre époux n'a-t-il pas témoigné qu'il ne voudrait pas sauver ces enfants au prix de leur honneur ?
-Car les mortels généreux souffrent de la honte que s'attirent leurs enfants ; et je ne dois pas rejeter l'exemple d'un époux.
-Considère aussi ce que je pense de l'espérance que tu conçois.
-Crois-tu que ton fils sortira du sein de la terre ?
-Les morts sont-ils jamais revenus des enfers ?
-Mais peut-être pourrons-nous fléchir Lycus par nos discours ?
-Non, non : un ennemi insensé, il faut le fuir ; s'il est sage et généreux, s'abandonner à lui : car on obtient plus facilement des égards par la douceur et la soumission.
-Déjà m'est venue la pensée de solliciter l'exil pour ces enfants ; mais il est cruel encore d'assurer leur salut en les condamnant à la pauvreté : un hôte, dit-on, n'a pour son ami exilé de regards bienveillants que pour un jour seulement.
-Ose donc mourir avec nous, puisque aussi bien tu ne peux échapper à la mort.
-Nous faisons appel à ton coeur généreux, ô vieillard.
-Quiconque lutte contre les arrêts des dieux se livre à un travail insensé : ce qui doit arriver nécessairement, nul ne l'empêchera jamais d'arriver.
-
--*who_lechoeur
-Si quelqu'un t'avait fait injure, au temps, où mes bras, étaient vigoureux, je l'eusse facilement réprimé ; aujourd'hui je ne suis plus rien ; à toi désormais, Amphitryon, d'aviser aux moyens de repousser les coups du sort.
-
--*who_amphitryon
-Ce n'est assurément ni la frayeur, ni l'amour de la vie, qui m'empêchent de chercher la mort ; mais je désire conserver à mon fils ses enfants ; d'ailleurs, j'ai bien l'air de courir après l'impossible.
-Tiens, je te livre ma tête : perce-moi du glaive, égorge-moi, jette-moi du haut d'un rocher ; accorde-nous seulement une faveur, prince, nous t'en supplions : tue-moi, tue cette infortunée avant ces enfants : que nous ne les voyions pas, spectacle impie !
-Rendre l'âme, appeler leur mère et le père de leur père ; pour tout le reste, agis à ton gré : car nous sommes sans défense contre le trépas.
-
--*who_megare
-Et moi je te supplie d'ajouter à cette faveur une faveur nouvelle ; à toi seul tu obligeras doublement deux infortunés.
-Permets que je pare ces enfants de voiles funèbres, et pour cela ouvre-moi ce palais d'où nous sommes exclus aujourd'hui ; que les enfants d'HercuLe obtiennent du moins cette part de l'héritage paternel.
-
--*who_lycus
-Soit. — Esclaves, ouvrez les portes.
-Entrez et parez-vous : je ne vous refuse pas les voiles que vous demandez.
-Aussitôt que vous aurez revêtu ces ornements, je reviendrai pour vous précipiter dans la nuit infernale.
-
--*who_megare
-Enfants, suivez les pas de votre malheureuse mère jusque dans le palais paternel ; si notre avoir est aux mains d'un autre, notre nom y subsiste encore.
-
--*who_amphitryon
-Ô Jupiter, c'est donc en vain que tu as partagé ma couche nuptiale, en vain que je t'appelais le père de mon fils !
-Tu étais donc moins notre ami que tu paraissais l'être !
-Tout mortel que je suis, je l'emporte en vertu sur un grand dieu : car je n'ai point trahi les enfants d'Hercule.
-Toi, tu as su te glisser furtivement dans ma couche et usurper des droits qu'on ne t'avait point cédés ; et tu ne sais point sauver ceux qui te sont chers !
-Tu n'es qu'une divinité aveugle ou tu ne connus jamais la justice.
-
--*who_lechoeur
-Apollon entonne un hymne avec des accents joyeux, en frappant de son archet d'or sa lyre harmonieuse ; et moi, je veux célébrer celui qui est descendu sous la terre, dans la nuit infernale, qu'il faille l'appeler fils de Jupiter ou rejeton d'Amphitryon : mes louanges seront la couronne de ses travaux.
-Les éloges décernés à de généreux exploits sont la parure des morts.
-D'abord il purgea le bois de Jupiter du lion qui l'habitait et s'enveloppa de sa fauve dépouille en cachant sa blonde tête derrière la terrible gueule du monstre.
-Il perça de ses traits sanglants la race sauvage des Centaures, habitante des montagnes, qui tombèrent sous ses flèches ailées.
-J'en atteste le Pénée au cours limpide, et les plaines vastes et stériles qu'il arrose, et les vallées du Pélion, et les cavernes voisines de l'Homolas d'où ils arrachaient des pins pour armer leurs bras et dompter dans leurs courses équestres le pays des Thessaliens.
-Il tua la biche aux cornes dorées, au dos tacheté, fléau des campagnes, et en fit hommage à la déesse d'OEnoé, habile à tuer les bêtes sauvages.
-Il monta sur le char et soumit au frein les coursiers indomptés de Diomède, qui, dans leurs crèches homicides, broyaient sous leurs dents des chairs sanglantes : horrible festin, où ils dévoraient avec joie des membres humains.
-Il pénétra au delà des ondes argentées de l'Èbre, afin d'accomplir le travail prescrit par le tyran de Mycènes, et sur la plage qui s'étend au pied du Pélion, près des bouches de l'Anaurus.
-Il perça de ses flèches Cycnus, le meurtrier des étrangers, l'hôte insociable d'Amphanée.
-Il entra dans le jardin reculé que les vierges d'Hespérie font retentir de leurs chants, pour cueillir la pomme d'or sur les rameaux chargés de fruits, en tuant le dragon au dos couleur de feu qui s'enroulait autour de l'arbre et en défendait l'approche.
-Il descendit dans les profondeurs de la mer écumante, et les mortels purent dès lors sillonner tranquillement les flots.
-Arrivé à la demeure d'Atlas, il porta les mains au milieu de la voûte du ciel, et sa force invincible soutint le palais étoilé, séjour des dieux.
-Il traversa les flots de l'Euxin, et, non loin du Palus-Méotis, ce réservoir de cent fleuves divers, il attaqua l'escadron guerrier des Amazones.
-Combien de héros grecs l'amitié ne réunit-elle pas autour de lui, lorsqu'il allait conquérir l'insigne doré qui brillait sur la robe de la fille de Mars, ce baudrier fatal à ses ennemis !
-La Grèce reçut les dépouilles fameuses de la vierge barbare, et Mycènes en garda le dépôt.
-Il brûla l'hydre de Lerne, monstre à mille têtes qui faisait de nombreuses victimes, et trempa dans son venin les flèches dont il perça le berger d'Érythie au triple corps.
-Après avoir conquis dans d'autres courses des palmes glorieuses, et pour terminer ses travaux, il vogua vers Pluton qui fait couler tant de larmes : c'est là que le malheureux a fini sa vie ; il n'en est pas revenu ; sa maison est vide d'amis, et la barque de Caron attend ses enfants condamnés par une sentence impie, injuste, à faire ce voyage, le dernier que font les vivants.
-Ta famille tourne vers toi les yeux, et tu n'es pas là !
-Ah !
-Si j'avais la force de la jeunesse, si je pouvais brandir la lance dans les combats, avec les Thébains de mon âge je porterais secours à tes enfants ; mais l'heureuse jeunesse a fui loin de moi. — Mais j'aperçois les fils de celui qui fut jadis le grand Hercule parés de voiles funèbres ; je vois son épouse chérie traînant sur ses pas ses enfants et le vieux père d'Hercule.
-Malheureux que je suis !
-Je ne puis retenir les flots de larmes qui coulent de mes yeux ridés par les ans.
-
-**** *book_ *id_I03 *act_I *date_1880
-
--*who_megare
-Eh bien !
-Où est le prêtre, le sacrificateur, qui doit égorger ces infortunés et trancher le cours de ma déplorable vie ?
-Voilà les victimes ; elles sont prêtes ; qu'on les conduise chez Pluton !
-Ô mes enfants, voyez attachés sous le même joug et traînés ensemble à la mort, un vieillard, des enfants, une mère !
-Cruelle destinée que la mienne et celle de ces enfants, sur qui mes yeux s'arrêtent pour la dernière fois.
-Je vous ai enfantés, je vous ai élevés pour être à mes ennemis un objet d'outrage, de risée, de meurtre.
-Ah !
-Combien ont été déçues les espérances que m'avait fait concevoir jadis le langage de votre père !
-À toi, ce père qui n'est plus destinait Argos ; tu devais habiter le palais d'Eurysthée et régner sur la terre fertile des Pelasges ; il voulait couvrir ton front de la dépouille du lion féroce dont lui-même était armé.
-Et toi, tu devais être le roi de Thèbes, la ville amie des chars, et posséder à titre d'héritier le territoire qui m'a vue naître ; ainsi Hercule l'avait stipulé avec l'auteur de mes jours ; dans ta main passait la massue secourable, présent trompeur de Dédale.
-À toi enfin il avait promis de donner OEchalie qu'il renversa jadis de ses traits inévitables.
-C'est ainsi qu'un père, fier de son mâle courage, vous élevait tous trois sur autant de trônes.
-Et moi, je choisissais les plus nobles épouses pour les unir à votre sort ; je les demandais à Athènes, à Sparte, à Thèbes, afin qu'assurée contre l'orage, votre vie eût un cours prospère.
-Tous ces projets se sont évanouis ; la Fortune a changé : pour épouses elle vous donne les Parques, et à moi, malheureuse, des larmes en place du bain nuptial.
-C'est chez Pluton, dont vous serez les gendres, que votre aïeul célébrera la triste fête de votre hymen.
-Ah !
-Lequel de vous dois-je presser le premier ou le dernier contre mon sein ?
-Auquel donnerai- je un baiser ?
-Lequel serrerai-je dans mes bras ?
-Que ne puis-je, comme l'abeille aux ailes diaprées, recueillir vos pleurs à tous et en former comme une source pour alimenter mes larmes !
-Cher Hercule !
-Si la voix des mortels peut se faire entendre jusque chez Pluton, je m'adresse à toi : ton père meurt ainsi que tes fils ; je péris moi-même, moi que les mortels proclamaient heureuse à cause de toi.
-Secours-nous, viens, parais, ne fusses-tu qu'une ombre.
-Rien que ta présence pourrait nous sauver.
-Ceux qui veulent tuer tes fils sont sans force contre toi.
-
--*who_amphitryon
-Toi, ma fille, fais les apprêts de notre descente aux enfers ; pour moi, les mains tendues vers le ciel, je t'invoque, ô Jupiter, pour que tu secoures ces enfants, si tu dois leur prêter quelque assistance : car bientôt tu ne leur serviras de rien.
-Aussi bien t'avons nous invoqué plus d'une fois ; peine inutile !
-Il faut absolument mourir, à ce qu'il semble.
-À vous, vieillards, je dirai : la vie est courte, faites en sorte de la passer aussi agréablement que possible, sans connaître le chagrin ni le jour ni la nuit.
-Le temps ne sait point sauver les espérances : il fait son oeuvre et s'envole.
-Voyez !
-J'attirais naguère les regards des mortels par l'éclat de ma fortune ; le destin m'a ravi ces biens en un jour : ils ont fui comme l'oiseau qui prend son vol dans les airs.
-Il n'est personne qui jouisse d'une fortune ou d'une gloire assurées.
-Adieu ! vous voyez aujourd'hui pour la dernière fois, vieillards, un vieillard qui fut votre ami.
-
--*who_megare
-Ah !
-Ne vois-je pas l'être qui m'est le plus cher, ô vieillard ?
-Ou me trompé-je ?
-
--*who_amphitryon
 Je ne jais, ma fille : moi-même, je suis tout interdit.
 
--*who_megare
-C'est lui, c'est le héros qu'on nous disait descendu sous la terre, à moins que nous ne soyons en plein jour le jouet d'un songe.
-Que dis-je ?
-Quel songe abuse mon esprit troublé ?
-Non, ce n'est pas un autre que ton fils, vieillard.
-Venez, mes enfants : attachez-vous aux vêtements de votre père ; allez, hâtez-vous, ne le quittez pas : car il ne vaut pas moins pour vous que Jupiter libérateur.
-
-**** *book_ *id_I04 *act_I *date_1880
-
--*who_hercule
-Je te salue, palais, et toi, seuil de mes foyers !
-Que je suis heureux de vous revoir en revenant à la lumière !...
-Hein !
-Qu'est-ce à dire ?
-Je vois mes enfants, à l'entrée de ma demeure, la tête couronnée de voiles funèbres, et mon épouse entourée d'une foule de vieillards, et mon père déplorant quelque malheur.
-Allons, approchons-nous, pour savoir quel événement nouveau est survenu dans cette maison.
-
--*who_amphitryon
 Ô le plus chéri des hommes, apparu comme un astre tutélaire aux yeux de ton père : te voilà, tu es sain et sauf, et tes amis te retrouvent à propos.
 
--*who_hercule
-Que dis-tu, et dans quel trouble sommes-nous tombés, mon père ?
-
--*who_megare
-Nous allions périr (pardonne-moi, vieillard, si je t'ai devancé et ai fait à Hercule la réponse qu'il t'appartenait de lui adresser ; mais les femmes sont en quelque sorte plus dignes de pitié que les hommes) ; mes enfants étaient condamnés à mourir, et leur mère avec eux.
-
--*who_hercule
-Par Apollon !
-Tu débutes par de sinistres paroles.
-
--*who_megare
-Mes frères sont morts ainsi que mon vieux père.
-
--*who_hercule
-Que dis-tu ?
-Qu'ont-ils fait, ou quel ennemi les a percés de sa lance ?
-
--*who_megare
-C'est l'illustre Lycus, le roi de ce pays, qui les a tués.
-
--*who_hercule
-A-t-il marché contre eux les armes à la main, ou la ville était-elle en proie à la sédition ?
-
--*who_megare
-C'est à la faveur d'une sédition qu'il exerce le souverain pouvoir dans Thèbes aux sept portes.
-
--*who_hercule
-Et pourquoi la frayeur s'est-elle emparée de toi et de ce vieillard ?
-
--*who_megare
-Lycus allait faire périr ton père, tes enfants et moi.
-
--*who_hercule
-Comment cela ?
-Qu'avait-il à redouter de mes enfants orphelins ?
-
--*who_megare
-Il craignait qu'ils ne vengeassent la mort de Créon.
-
--*who_hercule
-Mais que signifient ces voiles, cet appareil de mort ?
-
--*who_megare
-Nous sommes déjà couverts de la parure du tombeau.
-
--*who_hercule
-Et vous alliez mourir victimes de la violence ?
-Infortuné que je suis !
-
--*who_megare
-Nous n'avions plus d'amis : on nous disait que tu n'étais plus.
-
--*who_hercule
-Comment aviez-vous perdu toute espérance ?
-
--*who_megare
-Ainsi l'annonçaient les messagers d'Eurysthée.
-
--*who_hercule
-Pourquoi avez-vous abandonné ma demeure et mon foyer ?
-
--*who_megare
-Ton père a été arraché par force du lit où il couchait.
-
--*who_hercule
-Et l'on a pu sans pudeur outrager sa vieillesse ?
-
--*who_megare
-La pudeur habite loin de la violence.
-
--*who_hercule
-L'absence nous a-t-elle ravi tous nos amis ?
-
--*who_megare
-En est-il donc pour l'homme malheureux ?
-
--*who_hercule
-Et les combats que j'ai soutenus contre les Minyens, ils en ont fait fi ?
-
--*who_megare
-Le malheur, je te le répète, n'a pas d'amis.
-
--*who_hercule
-Jetez ces bandelettes funèbres qui ceignent vos cheveux ; que vos yeux regardent avec joie cette clarté du jour que vous échangez contre les ténèbres infernales.
-Pour moi (car c'est à mon bras d'agir maintenant), je vais tout d'abord renverser le palais du nouveau tyran, couper sa tête impie et la jeter en pâture aux chiens.
-Ceux des Thébains que j'ai trouvés perfides envers leur bienfaiteur, je les abattrai sous les coups de cette arme victorieuse ; je disperserai les autres avec mes flèches ailées ; et l'Isménus regorgera de morts et de carnage, et les eaux limpides de Dircé seront teintes de sang.
-Et qui donc dois-je défendre plutôt que mon épouse, mes enfants et ce vieillard ?
-Périsssent mes travaux ! c'est en vain que je les ai accomplis, si je n'achève celui-ci.
-Je dois même mourir pour la défense de ces enfants, puisqu'ils allaient mourir pour leur père.
-D'ailleurs, comment me justifier, si, après avoir combattu l'hydre et le lion pour obéir aux ordres d'Eurysthée, je ne travaille point à sauver mes enfants de la mort ?
-On ne m'appellera plus, comme auparavant, Hercule le victorieux.
-
--*who_lechoeur
-Il est juste qu'un père défende ses enfants, un fils son vieux père, un époux la compagne de sa vie.
-
--*who_amphitryon
 Il te sied, mon fils, de montrer cet attachement à tes amis, cette haine pour tes ennemis ; mais ne te hâte pas trop.
 
--*who_hercule
-En quoi montré-je, mon père, plus d'empressement qu'il ne convient ?
+Le roi a pour appui une foule d'hommes, pauvres en effet, riches en apparence, qui ont excité la sédition et perdu l'État dans le but de dépouiller leurs concitoyens et de remplacer le patrimoine qu'ils ont dissipé par leurs dépenses et par leur oisiveté. On t'a vu t'avancer vers la ville et, comme on t'a vu, prends garde de rallier tes ennemis et de succomber contre ton attente.
 
--*who_amphitryon
-Le roi a pour appui une foule d'hommes, pauvres en effet, riches en apparence, qui ont excité la sédition et perdu l'État dans le but de dépouiller leurs concitoyens et de remplacer le patrimoine qu'ils ont dissipé par leurs dépenses et par leur oisiveté.
-On t'a vu t'avancer vers la ville et, comme on t'a vu, prends garde de rallier tes ennemis et de succomber contre ton attente.
+Fort bien. Avance maintenant et salue ton foyer et laisse le palais de tes pères jouir de ta vue : car il viendra en personne pour traîner au supplice ton épouse et tes enfants et pour m'immoler moi-même, prince. Si tu attends là, tout ira bien, et tu y gagneras de mettre tes jours en sûreté. Ne jette point le trouble dans la ville, mon fils, avant d'avoir bien pris tes mesures.
 
--*who_hercule
-La ville tout entière m'eût-elle vu, peu m'importe ; mais j'ai vu un oiseau de mauvais présage, j'ai compris qu'un malheur avait fondu sur ma maison, et je suis à dessein entré secrètement sur cette terre.
-
--*who_amphitryon
-Fort bien.
-Avance maintenant et salue ton foyer et laisse le palais de tes pères jouir de ta vue : car il viendra en personne pour traîner au supplice ton épouse et tes enfants et pour m'immoler moi-même, prince.
-Si tu attends là, tout ira bien, et tu y gagneras de mettre tes jours en sûreté.
-Ne jette point le trouble dans la ville, mon fils, avant d'avoir bien pris tes mesures.
-
--*who_hercule
-Je suivrai tes sages avis.
-Je vais entrer dans ce palais.
-Revenu après un long temps du séjour ténébreux qu'habitent sous la terre Pluton et Proserpine, je ne dédaignerai pas de saluer les dieux tutélaires de cette demeure.
-
--*who_amphitryon
 Es-tu réellement descendu dans le royaume de Pluton, mon fils.
 
--*who_hercule
-Oui, et j'ai traîné à la lumière le monstre à trois têtes.
-
--*who_amphitryon
 Est-ce la force qui t'en a rendu maître, ou la faveur de la déesse ?
 
--*who_hercule
-La force ; et j'ai eu le bonheur devoir les mystères des initiés.
-
--*who_amphitryon
 Le monstre est-il dans le palais d'Eurysthée ?
 
--*who_hercule
-Le bois de Gérés et la cité d'Hermione le possèdent.
-
--*who_amphitryon
 Eurysthée ignore-t-il que tu es revenu sur la terre ?
 
--*who_hercule
-Il l'ignore : j'ai voulu savoir d'abord ce qui se passait en ces lieux.
-
--*who_amphitryon
 Et comment es-tu resté si longtemps sous la Terre ?
 
--*who_hercule
-Je m'y suis attardé pour ramener Thésée des Enfers.
+Où donc est ce héros ? Est-il retourné dans sa terre natale ?
 
--*who_amphitryon
-Où donc est ce héros ?
-Est-il retourné dans sa terre natale ?
+Prince, tu poursuis un vieillard que l'infortune accable, et tu te montres insolent parce que mon fils est mort. Tu devrais, quel que soit ton pouvoir, montrer moins d'empressement à hâter notre supplice. Mais, puisque tu exiges absolument que nous mourions, il faut céder à la nécessité et nous soumettre à ta volonté.
 
--*who_hercule
-Il s'en est allé à Athènes, heureux de s'être échappé des Enfers.
-Mais, suivez-moi, mes enfants, suivez votre père à la maison.
-Vous y rentrez plus heureusement que vous en êtes sortis.
-Ayez bon courage et cessez de répandue des flots de larmes.
-Et toi, chère épouse, reprends tes esprits et ne tremble plus.
-Lâchez mes vêtements : je n'ai point d'ailes et ne songe point à fuir ceux qui m'aiment.
-Mais voyez !
-Ils ne me lâchent, pas, et ne s'en attachent que davantage à mes vêtements.
-Étiez-vous donc à ce point sur le bord du précipice ?
-Eh bien !
-Je vais les prendre et les conduire par la main, comme un vaisseau remorque de légères barques ; car je ne me refuse pas au doux service de mes enfants.
-En cela tous les hommes sont égaux : les plus illustres, comme les gens de rien, aiment leurs enfants ; inégalement favorisés de la fortune, les uns sont riches, les autres ne le sont pas ; à tous, leurs enfants sont chers.
-
--*who_lechoeur
-La jeunesse a des charmes pour moi ; la vieillesse, plus lourde que les rochers de l'Etna, pèse sur ma tête et a étendu sur mes paupières un voile ténébreux.
-L'opulence des monarques de l'Asie, des palais remplis d'or, je ne les échangerais pas contre la jeunesse, belle dans l'opulence, belle dans la pauvreté.
-Mais je hais la triste, la cruelle vieillesse.
-Qu'elle disparaisse dans les flots !
-Elle n'aurait jamais dû entrer dans les demeures et les cités des mortels ; qu'elle s'envole plutôt à jamais dans les airs !
-Si les dieux étaient doués de prudence et de sagesse à la façon des hommes, une double jeunesse échoirait en partage, comme un sceau manifeste de vertu, à tous ceux qui ont fait le bien : après leur mort ils reparaîtraient à la lumière du soleil pour fournir une seconde fois la carrière de la vie ; les méchants, au contraire, n'auraient qu'une seule vie.
-À ce signe, on connaîtrait les bons et les méchants,comme les nautonniers comptent les astres au sein des nuages.
-Aujourd'hui les dieux ne permettent de distinguer par aucune marque certaine les bons d'avec les méchants ; et une existence agitée n'a pour effet que d'accroître les richesses.
-Je ne cesserai point d'unir les Grâces aux Muses : union charmante !
-Puissé-je ne jamais rester étranger aux Muses, mais vivre toujours au milieu des couronnes !
-Oui, le poète vieillissant célèbre encore Mnémosyne.
-Moi, je chanterai encore l'hymne triomphal d'Hercule, en compagnie de Bacchus, dispensateur du vin, aux accents de la lyre aux sept cordes et de la flûte libyenne.
-Je ne tairai pas non plus les bienfaits des Muses qui m'ont appris à former des choeurs.
-Les vierges de Délos chantent le Paean, et célèbrent aux portes de son temple le glorieux fils de Latone, qui préside aux choeurs sacrés.
-Et moi, poète à la tête chauve, tel qu'un cygne chargé d'ans, j'entonnerai des hymnes devant ton palais.
-Car le fils de Jupiter fournit une ample matière à mes chants : surpassant la noblesse de sa naissance par l'éclat de ses vertus, il a, par ses travaux et en détruisant des monstres terribles, assuré aux mortels une vie exempte d'orages.
-
-**** *book_ *id_I05 *act_I *date_1880
-
--*who_lycus
-Tu sors à propos du palais, Amphitryon : car il y a longtemps déjà que vous êtes occupés à vous parer de voiles et d'ornements funèbres.
-Allons, invite les enfants et l'épouse d'Hercule à paraître hors de cette demeure ; tenez l'engagement que vous avez pris de vous offrir de vous-mêmes à la mort.
-
--*who_amphitryon
-Prince, tu poursuis un vieillard que l'infortune accable, et tu te montres insolent parce que mon fils est mort.
-Tu devrais, quel que soit ton pouvoir, montrer moins d'empressement à hâter notre supplice.
-Mais, puisque tu exiges absolument que nous mourions, il faut céder à la nécessité et nous soumettre à ta volonté.
-
--*who_lycus
-Où donc est Mégare ?
-Où sont les enfants du fils d'Alcmène ?
-
--*who_amphitryon
 Autant que j'en puis juger du dehors, je crois la voir...
 
--*who_lycus
-Sur quoi se fonde ton opinion ?
-
--*who_amphitryon
 Assise en suppliante près de l'autel domestique.
 
--*who_lycus
-Demandant en vain qu'on lui laisse la vie.
-
--*who_amphitryon
 Elle invoque aussi en vain son époux qui n'est plus.
 
--*who_lycus
-Cet époux est absent et ne reviendra jamais.
-
--*who_amphitryon
 Jamais, à moins qu'un dieu ne le ressuscite.
 
--*who_lycus
-Va la trouver, et fais-la sortir du palais.
-
--*who_amphitryon
 Ce serait m'associer au meurtre crue d'agir ainsi.
 
--*who_lycus
-C'est nous, puisque ce scrupule t'arrête, nous qui n'avons rien à craindre, qui amènerons les enfants avec la mère.
-Esclaves, suivez-moi afin que la joie et le repos succèdent à nos angoisses.
+Va donc, et cours où le destin t'appelle : un autre sans doute pourvoira au reste ; mais attends-toi, puisque tu fais le mal, à être maltraité à ton tour. Ô vieillards ! Il entre à propos pour se prendre au piège meurtrier, le scélérat qui espérait faire périr les autres. J'irai le voir tomber sous le coup mortel : elle n'est pas sans charmes la mort d'un ennemi qui porte la peine de ses crimes.
 
-**** *book_ *id_I06 *act_I *date_1880
+Vieillards thébains, silence ! Silence ! Laissez Hercule oublier ses maux dans les bras du sommeil.
 
--*who_amphitryon
-Va donc, et cours où le destin t'appelle : un autre sans doute pourvoira au reste ; mais attends-toi, puisque tu fais le mal, à être maltraité à ton tour.
-Ô vieillards !
-Il entre à propos pour se prendre au piège meurtrier, le scélérat qui espérait faire périr les autres.
-J'irai le voir tomber sous le coup mortel : elle n'est pas sans charmes la mort d'un ennemi qui porte la peine de ses crimes.
-
--*who_demichoeur
-Le vent du malheur a tourné ; celui qui naguère était un roi puissant va prendre à son tour le chemin des Enfers.
-Ô justice !
-Ô retour de la volonté divine !
-
--*who_demichoeur
-Te voilà enfin à l'heure fatale où tu expieras par ta mort les outrages dont tu accablais ceux qui valaient mieux que toi.
-
--*who_demichoeur
-La joie fait couler des larmes de mes yeux.
-Ce à quoi le roi ne crut jamais qu'il pût être est posé est arrivé contre son attente.
-
--*who_demichoeur
-Mais, ô vieillard, voyons aussi dans l'intérieur du palais si l'on a le sort que je souhaite.
-
-**** *book_ *id_I07 *act_I *date_1880
-
--*who_lycus
-Ah !
-Ah !
-
--*who_demichoeur
-Il commence, ce chant si doux à mon oreille et fait retentir le palais : la mort n'est pas loin.
-Le roi, gémissant, crie le prélude du trépas.
-
--*who_lycus
-Ô terre de Cadmus !
-Je péris victime de la trahison.
-
--*who_demichoeur
-C'est que d'autres ont péri par tes mains ; résigne-toi à subir un châtiment mérité, et acquitte le prix de tes forfaits.
-
--*who_demichoeur
-Quel mortel, souillant les dieux par un injuste blasphème, a lancé d'imprudentes paroles contre les fortunés habitants du ciel et accusé les dieux d'impuissance ?
-
--*who_demichoeur
-Vieillards, il n'est plus cet homme impie.
-Le palais est silencieux.
-Songeons à former des choeurs ; car nos amis jouissent du bonheur que je leur souhaitais.
-
--*who_lechoeur
-Les choeurs, les choeurs et les festins, voilà ce qui occupe la ville sacrée de Thèbes.
-Un heureux changement a tari nos larmes et provoqué des chants de joie.
-Le nouveau roi a péri, et le sceptre est aux mains de notre ancien maître, qui a quitté le port de l'Achéron.
-L'espérance a lui contre notre attente.
-Les dieux, les dieux attentifs ont l'oeil ouvert sur les impies et sur les justes.
-L'or et la prospérité égarent l'esprit, des mortels en fondant un injuste pouvoir.
-Nul n'ose songer aux vicissitudes du temps quand il a violé la loi ; et, s'abandonnant à l'iniquité, il brise le char éclatant du bonheur.
-Isménus, charge-toi de couronnes) habitants de la ville aux sept portes, formez dans les rues des choeurs joyeux !
-Dircé, qui roules de belles eaux, et vous, nymphes de l'Asopus, quittez l'onde paternelle, et unissez vos voix pour chanter le combat victorieux d'Hercule.
-Ô rocher boisé de Delphes, séjour des Muses de l'Hélicon, célébrez ma patrie par de joyeux accents ; célébrez les murs où surgit du sol cette race d'hommes, ce bataillon de guerriers armés de boucliers d'airain, qui transmirent cet État aux enfants de leurs enfants, lumière sacrée des Thébains.
-Ô couche nuptiale que se partagèrent deux époux, un mortel et Jupiter que la petite fille de Persée reçut dans son lit : je croyais déjà et depuis longtemps à ton alliance, ô Jupiter ; mais aujourd'hui elle s'est manifestée au delà de mes espérances, et le temps a révélé la valeur éclatante d'Hercule sorti des entrailles de la terre et du royaume souterrain de Pluton.
-Oui, tu es à mes yeux un roi supérieur à ce tyran dégénéré ; et l'on peut juger, à voir le résultat de cette lutte meurtrière, si la justice est toujours agréable aux dieux.
-
-**** *book_ *id_I08 *act_I *date_1880
-
--*who_lechoeur
-Ah !
-Ah !
-Partagez-vous mon effroi, vieillards, à la vue de ce spectre que j'aperçois sur le palais ?
-Fuyez, fuyez, pressez vos pas tardifs, éloignez-vous.
-Ô puissant Apollon, détourne les maux qui nous menacent !
-
--*who_iris
-Rassurez-vous, vieillards, en voyant Lyssa, fille de la Nuit, et Iris, la messagère des dieux : car nous ne venons pas perdre cette cité ; nous ne poursuivons qu'une famille, celle du héros qu'on dit fils de Jupiter et d'Alcmène.
-Avant qu'il eût achevé ses pénibles travaux, le destin le protégeait, et Jupiter, son père, ne nous permettait, ni à Junon, ni à moi, de le persécuter.
-Maintenant qu'il est quitte des rudes épreuves que lui imposait Eurysthée, Junon veut qu'il verse le sang de victimes nouvelles et soit le meurtrier de ses enfants ; et ce qu'elle veut, je le veux aussi.
-Va donc, fille de la sombre Nuit, vierge étrangère à l'hymen ; et, armée d'un coeur inexorable, souffle, inspire à ce héros la démence, l'égarement homicide, les bonds furieux ; enveloppe-le dans des lacs de sang ; qu'il égorge de sa propre main et fasse passer l'Achéron à cette jeune et belle famille qui l'entoure, afin qu'il connaisse quel est le courroux de Junon et quel est le mien.
-Les dieux ne seront comptés pour rien, et les mortels seront grands, si Hercule n'est point puni.
-
--*who_lyssa
-Je suis née d'un noble père et d'une noble mère ; fille du Ciel et de la Nuit, la charge que je remplis ici, mes amis n'en seront point jaloux, et c'est à regret que je persécute ceux que j'aime.
-Je veux donc vous exhorter, Junon et toi, avant de vous voir faire fausse route, à prêter l'oreille à mes discours.
-L'homme, dans la maison duquel vous m'envoyez, n'est obscur ni sur la terre ni chez les dieux.
-Après avoir ramené la paix dans des contrées inaccessibles et sur le sauvage Océan, seul il a rétabli dans leurs honneurs les dieux outragés par des impies : aussi je ne te conseille pas de t'attirer de grands malheurs.
-
--*who_iris
-Abstiens-toi de combattre les résolutions de Junon et les miennes.
-
--*who_lyssa
-Je veux te ramener de la mauvaise voie dans la bonne.
-
--*who_iris
-L'épouse de Jupiter ne t'a point envoyée ici pour faire étalage de modération.
-
--*who_lyssa
-Que le soleil me soit témoin que j'agis contre ma volonté.
-Mais, s'il faut absolument obéir à Junon et à toi, s'il faut courir et s'élancer à votre suite, comme le chien suit le chasseur, j'irai : ni la mer, aux flots mugissants, ni les secousses de la terre ébranlée, ni la chute rapide de la foudre, féconde en douleurs, n'égaleront l'impétuosité de Lyssa envahissant le coeur d'Hercule : je briserai les murs de son palais, et je renverserai l'édifice, après avoir tout d'abord fait périr ses enfants ; l'assassin ne saura pas qu'il tue ceux auxquels il a donné l'être, avant que je l'aie délivré de mes transports.
-Regarde : il secoue déjà la tête pour commencer, et roule en silence des yeux égarés, farouches ; il ne peut retenir son souffle, comme un taureau qui s'apprête à bondir, et il pousse des mugissements terribles en invoquant les Furies du Tartare.
-Bientôt j'exciterai en lui de plus violents transports, et je le frapperai de crainte.
-Va, noble Iris, et reporte tes pas vers l'Olympe ; moi, je pénétrerai, invisible, dans le palais d'Hercule.
-
--*who_lechoeur
-Hélas !
-Hélas !
-Gémis, cité malheureuse !
-On moissonne la fleur de tes guerriers, le fils de Jupiter.
-Ô Grèce infortunée !
-Tu vas perdre ton bienfaiteur en proie aux sombres fureurs de Lyssa.
-Elle est montée sur son char, la Furie qui fait couler tant de larmes ; elle presse ses coursiers de l'aiguillon et s'apprête à faire le mal, la fille de la nuit, la Gorgone, avec ses vipères aux cent têtes, aux horribles sifflements, Lyssa, dont le regard pétrifie.
-Un dieu renverse en un instant l'homme heureux ; en un instant les enfants expireront sous les coups de leur père.
-Malheureux que je suis !
-Ô Jupiter, ton fils sans rejeton va succomber aux atteintes vengeresses d'une furie cruelle.
-Ô palais !
-Elle commence cette danse que n'animent point les tambours et que désavouent les prêtres de Bacchus armés du thyrse : c'est pour verser le sang, et non pour répandre des libations avec la liqueur de Bacchus.
-Fuyez, enfants, fuyez : c'est un chant de mort, un chant de mort qui retentit ; le chasseur s'élance et poursuit sa proie.
-Les transports furieux de Lyssa ne resteront pas sans effet.
-Ô malheur !
-Hélas !
-Hélas !
-Je pleure sur un père chargé d'ans, sur une tendre mère qui a en vain donné le jour à des enfants.
-Voici la tempête qui ébranle le palais, le toit qui s'écroule.
-Ah !
-Ah !
-Que fais-tu, fils de Jupiter ?
-Comme Pallas précipitant Encélade, tu portes en ce palais le désordre et l'horreur du Tartare.
-
-**** *book_ *id_I09 *act_I *date_1880
-
--*who_lemessager
-Ô vieillards blanchis par les ans !
-
--*who_lechoeur
-Pourquoi ces cris, et que me veux-tu ?
-
--*who_lemessager
-L'horreur règne dans le palais.
-
--*who_lechoeur
-Je n'ai pas besoin d'appeler un devin.
-
--*who_lemessager
-Les enfants sont morts.
-
--*who_lechoeur
-Hélas !
-Hélas !
-
--*who_lemessager
-Pleurez, car c'est un déplorable malheur.
-Meurtre cruel !
-
--*who_lechoeur
-Cruelles aussi les mains paternelles !
-
--*who_lemessager
-Quoi qu'on dise, on dira moins que nous n'avons souffert.
-
--*who_lechoeur
-Raconte-nous cette déplorable catastrophe où les enfants sont les victimes et le père le bourreau.
-Dis-nous comment ces malheurs sont venus fondre du ciel sur ce palais ; dis-nous le sort cruel de ces enfants.
-
--*who_lemessager
-Les victimes étaient devant l'autel de Jupiter, pour purifier la maison hors de laquelle Hercule avait jeté le corps du tyran égorgé ; en cercle se tenaient rangés le choeur gracieux de ses fils, et son père, et Mégare ; la corbeille sacrée circulait autour de l'autel ; nous gardions un silence religieux.
-Au moment où le fils d'Alcmène allait de sa main droite prendre un tison sur l'autel pour le plonger dans l'eau lustrale, il s'arrêta en silence ; et, comme il tardait, ses fils le regardèrent.
-Il n'était déjà plus le même ; il tournait ses yeux hagards ; ses prunelles sanglantes s'élançaient hors de leurs orbites, et l'écume dégouttait sur sa barbe touffue.
-En même temps il s'écria avec un rire d'insensé :
-    « Pourquoi, mon père, allumer le feu lustral, avant d'avoir tué Eurysthée ?
-Pourquoi m'imposer double peine, quand je peux tout faire en une fois ?
-Lorsque j'aurai apporté ici la tête d'Eurysthée, je purifierai mes mains de deux meurtres.
-Répandez cette eau, jetez loin de vous cette corbeille.
-Qu'on me donne mon arc, et la massue qui arme mon bras : je vais partir pour Mycènes.
-Il faut emporter des leviers, des hoyaux, pour renverser les murs construits avec la règle et le ciseau par les Cyclopes. »
-Alors se mettant en marche et s'imaginant avoir un char quand il n'en avait pas, il s'élance en idée sur le siège, et fouette comme s'il avait un aiguillon dans la main.
-Ses serviteurs riaient et tremblaient tout ensemble ; ils se regardaient l'un l'autre et disaient :
-    « Notre maître se joue de nous, ou il a perdu la raison. »
-Et lui, parcourait en tous sens sa demeure ; arrivé à l'appartement des hommes, il croit voir la ville de Nisus il croit y entrer, s'y étendre sur le sol et y prendre de la nourriture ; puis, repartant après un moment de relâche, approcher du bois épais de l'isthme.
-Là, se dépouillant de ses vêtements, il lutte contre un ennemi imaginaire, et se proclame lui-même vainqueur, en ordonnant à la foule absente de prêter l'oreille.
-Puis, se croyant à Mycènes, il fait entendre de terribles menaces contre Eurysthée.
-Son père alors, touchant sa main puissante, lui adresse ces mots :
-    « Mon fils, que t'arrive-t-il ?
-Que signifie cet égarement ?
-Le trépas de ceux que tu viens d'immoler a-t-il troublé ta raison. »
-Hercule croit que c'est le père d'Eurysthée, qui, tremblant pour un fils, touche sa main en suppliant ; il le repousse et prépare son carquois et son arc, pour s'en servir contre ses propres enfants qu'il croit ceux d'Eurysthée.
-Ceux-ci, saisis de frayeur, s'enfuient et cherchent un refuge, l'un sous le voile de sa mère, l'autre derrière une colonne, un autre, comme l'oiseau timide, près de l'autel.
-La mère s'écrie :
-    « Malheureux père, que fais-tu ?
-Tu vas tuer tes enfants. »
-Le même cri est poussé par le vieillard et par la foule des serviteurs.
-Pour lui, il poursuit un enfant autour de la colonne, gagne sur lui de vitesse, et s'arrêtant en face de lui, d'un trait il lui perce le foie.
-L'enfant tombe à la renverse, et, en expirant, arrose le marbre de son sang.
-Hercule pousse un cri de joie, et d'une voix triomphante :
-    « Voilà, dit-il, un des fils d'Eurysthée étendu mort à mes pieds : son trépas me venge de la haine de son père. »
-Alors il tend son arc contre celui des enfants qui, tapi contre l'autel, se croyait à l'abri.
-L'infortuné s'élance d'abord aux genoux de son père, lève une main suppliante vers son menton et son cou :
-    « Mon père chéri, s'écrie-t-il, ne me tue pas ; je suis à toi, je suis ton fils : ce n'est pas le fils d'Eurysthée que tu vas frapper. »
-Hercule roulait les yeux farouches d'une gorgone ; et, comme l'enfant se tenait en deçà de l'arc, il lève sa massue au-dessus de sa tête, comme un forgeron qui bat le fer, la laisse retomber sur la tête blonde de l'enfant, et lui brise le crâne.
-Deux de ces fils tués, il s'apprête à faire une troisième victime ; mais la malheureuse mère le prévient, et emporte son enfant dans l'intérieur de la maison où elle s'enferme.
-Lui, se croyant alors sous les murs des Cyclopes, sape, ébranle les portes, en fait sauter les battants, et d'un même coup abat sa femme avec son fils.
-Alors il s'élançait pour immoler son vieux père lorsque, visible à tous les yeux, apparut Pallas, brandissant dans sa main une lance armée d'un fer pointu.
-D'une pierre lancée contre la poitrine d'Hercule, elle arrêta le héros prêt à commettre cet horrible forfait, et elle le plongea dans un sommeil profond.
-Il tomba sur le sol, heurtant de l'épaule une colonne qui s'était brisée dans l'écroulement de la maison et gisait renversée sur sa base.
-Renonçant dès lors à fuir, nous avons aidé le vieillard à l'attacher à la colonne, afin qu'il ne puisse, à son réveil, commettre de nouveaux forfaits.
-Il dort, l'infortuné !
-D'un bien triste sommeil, teint du sang de ses enfants et de sa femme.
-Je ne sache pas, pour moi, qu'il y ait un mortel plus malheureux.
-
--*who_lechoeur
-Le meurtre, que la terre d'Argos vit commettre par les filles de Danaüs, a été naguère le plus fameux, le plus étonnant dont la Grèce ait été témoin ; mais les coups frappés par Hercule surpassent et font oublier cet attentat.
-Je pourrais citer Procné, égorgeant son malheureux fils, son fils unique : cruel sacrifice, offert aux Muses !
-Mais toi, infortuné, en proie à un destin furieux, tu as immolé les trois enfants dont tu étais le père.
-À qui offrir de préférence le tribut de mes gémissements et de mes larmes ?
-Pour qui entonner le chant des morts, l'hymne funèbre de Pluton ?
-Ah !
-Ah !
-Voyez, les portes du palais élevé s'ouvrent à deux battants.
-Hélas !
-Voyez les malheureux enfants couchés devant leur malheureux père ; il dort d'un sommeil effrayant, à distance des cadavres.
-Des liens assujettis par mille noeuds entrelacés entourent le corps d'Hercule et l'attachent aux colonnes du palais.
-Tel qu'un oiseau qui gémit sur la perte de sa tendre couvée, voyez ce vieillard qui poursuit d'un pas lent sa marche douloureuse : le voilà près de nous.
-
--*who_amphitryon
-Vieillards thébains, silence !
-Silence !
-Laissez Hercule oublier ses maux dans les bras du sommeil.
-
--*who_lechoeur
-Je pleure sur toi, vieillard, et sur ces enfants, et sur cette tête que tant de victoires ont couronnée.
-
--*who_amphitryon
 Éloignez-vous ; ne faites pas de bruit, craignez par vos cris de réveiller le malheureux qui sommeille et repose.
 
--*who_lechoeur
-Dieux !
-Quel horrible carnage !
+Ah ! Ah ! Vous allez me perdre.
 
--*who_amphitryon
-Ah !
-Ah !
-Vous allez me perdre.
-
--*who_lechoeur
-Il soulève son corps de terre.
-
--*who_amphitryon
 Ne pouvez-vous gémir en silence, vieillards ; gardez, s'il s'éveille, qu'il ne brise ses liens, ne ruine cette ville, n'égorge son père et ne renverse ce palais.
 
--*who_lechoeur
-Impossible, impossible de me contraindre.
-
--*who_amphitryon
 Tais-toi, que j'écoute sa respiration ; allons, je vais prêter l'oreille.
 
--*who_lechoeur
-Dort-il ?
-
--*who_amphitryon
 Oui, il dort d'un funeste sommeil, meurtrier de son épouse, meurtrier de ses enfants que les traits partis en sifflant de son arc ont percés.
 
--*who_lechoeur
-Pleure donc...
-
--*who_amphitryon
 Je pleure.
 
--*who_lechoeur
-Le trépas de ces enfants.
-
--*who_amphitryon
 Ô douleur !
 
--*who_lechoeur
-Pleure aussi sur ton fils.
+Ah ! Ah !
 
--*who_amphitryon
-Ah !
-Ah !
+Tais-toi, tais-toi ! il s'éveille et se retourne de l'autre côté. Allons, je vais mettre ma personne à l'abri dans le palais.
 
--*who_lechoeur
-Ô vieillard !
+Regardez, regardez. Accablé par le malheur, je ne songe point, hélas ! À me dérober à la mort ; mais s'il tue son père, il ajoutera encore à ses maux, et les Furies lui demanderont compte du parricide.
 
--*who_amphitryon
-Tais-toi, tais-toi ! il s'éveille et se retourne de l'autre côté.
-Allons, je vais mettre ma personne à l'abri dans le palais.
+Fuyez, fuyez, vieillards, bien loin de ce palais, fuyez le héros furieux qui s'éveille. Bientôt assurément, entassant meurtre sur meurtre, il bouleversera la ville de Cadmus.
 
--*who_lechoeur
-Rassure-toi, la nuit couvre les paupières de ton fils.
-
--*who_amphitryon
-Regardez, regardez.
-Accablé par le malheur, je ne songe point, hélas !
-À me dérober à la mort ; mais s'il tue son père, il ajoutera encore à ses maux, et les Furies lui demanderont compte du parricide.
-
--*who_lechoeur
-Tu aurais dû mourir le jour où tu vengeas le meurtre des frères de ton épouse, en renversant la citadelle des Taphiens baignée par les flots.
-
--*who_amphitryon
-Fuyez, fuyez, vieillards, bien loin de ce palais, fuyez le héros furieux qui s'éveille.
-Bientôt assurément, entassant meurtre sur meurtre, il bouleversera la ville de Cadmus.
-
--*who_lechoeur
-Ô Jupiter, pourquoi ta haine a-t-elle poursuivi ton fils avec tant de fureur ?
-Pourquoi l'as-tu plongé dans cet abîme de maux ?
-
-**** *book_ *id_I10 *act_I *date_1880
-
--*who_hercule
-Oh !
-Je respire, je vois encore ce que je dois voir, le ciel, la terre, ces traits brillants du soleil ; mais un orage terrible a fondu sur moi et troublé mon âme, et mon souffle brûlant s'échappe de mes poumons haletant, inégal.
-Pourquoi ces liens qui attachent, comme le navire au rivage, ma poitrine et mes bras vigoureux à cette colonne brisée ?
-Pourquoi ces cadavres près de la place que j'occupe ?
-Sur le sol gisent épars mon arc et ces flèches ailées qui, toujours dans mes mains, me défendaient et que je savais défendre.
-Ne suis-je point par hasard redescendu, par ordre d'Eurysthée, dans le royaume infernal d'où j'étais revenu ?
-Mais je n'aperçois ni le rocher de Sisyphe, ni Pluton, ni le sceptre de la fille de Cérès.
-Je reste stupéfait, je cherche en vain où je suis...
-Holà !
-N'y a-t-il pas, près ou loin d'ici, quelqu'un de mes amis qui veuille éclairer mon ignorance ?
-Car je ne reconnais aucun des objets auxquels mes sens sont accoutumés.
-
--*who_amphitryon
 Vieillards, approcherai-je de l'auteur de mes maux ?
 
--*who_lechoeur
-Je t'accompagnerai, je ne trahirai point l'infortune.
-
--*who_hercule
-Mon père, pourquoi pleurer et voiler tes yeux, en te tenant éloigné d'un fils qui t'est si cher ?
-
--*who_amphitryon
 Ô mon fils : car tu es mon fils, bien que tu sois malheureux.
 
--*who_hercule
-Quel malheur est le mien, pour que tu verses des larmes ?
-
--*who_amphitryon
 Un dieu même gémirait, s'il en éprouvait un pareil.
 
--*who_hercule
-Voilà de grands mots ; mais tu ne m'expliques pas encore ce qui m'est arrivé.
-
--*who_amphitryon
 C'est que tu le vois de tes propres yeux, si tu jouis de ta raison.
 
--*who_hercule
-Dis si tu as quelque reproche à m'adresser.
-
--*who_amphitryon
 Je le dirai, si tu n'es plus un ministre de Pluton.
 
--*who_hercule
-Ciel !
-Quel soupçon insinues-tu encore à mots couverts ?
-
--*who_amphitryon
 J'observe si tu as bien repris possession de ta raison.
 
--*who_hercule
-Mais je n'ai pas souvenir d'avoir eu l'esprit égaré.
+Vieillards, briserai-je les liens qui enchaînent mon fils ? Que dois-je faire ?
 
--*who_amphitryon
-Vieillards, briserai-je les liens qui enchaînent mon fils ?
-Que dois-je faire ?
-
--*who_hercule
-Dis-moi aussi qui m'a attaché : car j'en ai honte.
-
--*who_amphitryon
 Borne-toi à connaître cette partie de tes maux ; ne t'inquiète pas des autres.
 
--*who_hercule
-Le silence suffit-il pour m'apprendre ce que je veux savoir ?
-
--*who_amphitryon
 Ô Jupiter, vois-tu ces fléaux partis du trône de Junon ?
 
--*who_hercule
-Ai-je donc eu à souffrir de sa haine ?
-
--*who_amphitryon
 Laisse là cette déesse, et occupe-toi de tes propres maux.
 
--*who_hercule
-Je suis perdu.
-Quel malheur vas-tu m'annoncer ?
+Eh bien ! Contemple les cadavres de tes enfants.
 
--*who_amphitryon
-Eh bien !
-Contemple les cadavres de tes enfants.
-
--*who_hercule
-Ciel !
-Quel spectacle s'offre à ma vue !
-
--*who_amphitryon
 Tu as fait, ô mon fils, une guerre impie à tes enfants.
 
--*who_hercule
-Que parles-tu de guerre ?
-Quel est l'auteur de leur mort ?
-
--*who_amphitryon
 Toi, tes flèches, et la divinité qui a conduit ton bras.
 
--*who_hercule
-Quoi ?
-Comment ?
-Quels malheurs tu m'annonces, mon père !
-
--*who_amphitryon
 Dans un accès de fureur : c'est un cruel récit que tu me demandes.
 
--*who_hercule
-Suis-je donc aussi le meurtrier de mon épouse ?
-
--*who_amphitryon
 Ta main seule a été l'instrument de tous ces forfaits.
 
--*who_hercule
-Hélas !
-Hélas !
-Un nuage de deuil m'environne.
-
--*who_amphitryon
 Voilà pourquoi je déplore tes malheurs.
 
--*who_hercule
-J'ai sans doute mis en pièces mon palais dans le transport qui m'agitait ?
-
--*who_amphitryon
 Je ne sais qu'une chose, c'est que ton infortune est complète.
 
--*who_hercule
-Où cette fureur s'est-elle emparée de moi ?
-Où m'a-t-elle conduit à ma perte ?
-
--*who_amphitryon
 Lorsqu'auprès de l'autel tu purifiais tes mains avec le feu.
 
--*who_hercule
-Ciel !
-Pourquoi donc épargner ma vie, après avoir été le meurtrier de mes enfants chéris ?
-Pourquoi tardé-je à m'élancer du haut d'un roc glissant, ou à me percer le foie de mon glaive, pour expier le meurtre de mes enfants ?
-Pourquoi ne pas consumer mes chairs dans le feu, afin d'échapper à l'infamie qui m'attend.
-Mais, pour mettre obstacle à mes projets de mort, je vois s'avancer Thésée, mon parent et mon ami.
-Il va me voir ; l'abominable infanticide paraîtra aux yeux du plus cher de mes hôtes !
-Hélas !
-Que faire ?
-Où isoler mes malheurs, en m'envolant dans les airs ou en descendant sous la terre ?
-Allons, voilons ma tête, car je rougis des forfaits que j'ai commis, et, pour m'être souillé d'un meurtre qui crie vengeance, je ne veux point faire tort à des innocents.
-
-**** *book_ *id_I11 *act_I *date_1880
-
--*who_thesee
-Je viens, suivi d'une troupe de guerriers Athéniens qui m'attendent sur les bords de l'Asopus, prêter à ton fils, ô vieillard, le secours de ma lance.
-Car le bruit s'est répandu, dans la terre d'Erechthée, que Lycus s'est emparé du sceptre de ce pays et s'apprête à vous faire la guerre.
-Voulant témoigner ma reconnaissance à Hercule, qui m'a ramené sain et sauf des Enfers, je viens mettre à votre service, vieillard, mon bras et mes amis...
-Hein !
-Pourquoi le sol est-il jonché de ces cadavres ?
-Suis-je en retard, et des malheurs récents ont-ils précédé mon arrivée ?
-Qui a tué ces enfants ?
-Quel est l'époux de cette femme que je vois ?
-Sans doute ces enfants ne prennent point part aux combats, et je suis sur la trace de quelque autre malheur extraordinaire.
-
--*who_amphitryon
 Ô prince, qui règnes sur la colline féconde en oliviers.
 
--*who_thesee
-Que signifie ce lugubre début ?
-
--*who_amphitryon
 Les dieux nous ont fait éprouver de cruelles infortunes.
 
--*who_thesee
-Qui sont ces enfants sur qui tu verses des larmes ?
-
--*who_amphitryon
 C'est mon malheureux fils qui les a engendrés ; c'est lui, l'auteur de leurs jours, qui les a tués et s'est souillé de leur sang.
 
--*who_thesee
-Prononce des paroles de bon augure.
-
--*who_amphitryon
 Je ne demanderais pas mieux.
 
--*who_thesee
-Ce que tu dis là est atroce.
-
--*who_amphitryon
 Nous sommes perdus, anéantis, disparus.
 
--*who_thesee
-Que dis-tu ?
-Comment a-t-il commis cet attentat ?
-
--*who_amphitryon
 Dans un transport de fureur, avec ses flèches teintes du venin de l'hydre à cent têtes.
 
--*who_thesee
-Le coup part de Junon.
-Mais dis-moi, vieillard, quel est cet homme étendu au milieu des morts ?
-
--*who_amphitryon
 C'est mon fils, mon fils célèbre par tant de travaux, qui suivit les Dieux dans les plaines de Phlégra, et, couvert du bouclier, soutint avec eux cette lutte fatale aux Géants.
 
--*who_thesee
-Hélas !
-Hélas !
-Fut-il jamais un mortel aussi malheureux ?
-
--*who_amphitryon
 Non, tu ne saurais voir chez un autre plus d'infortune et plus d'égarement.
 
--*who_thesee
-Pourquoi voile-t-il sa tête infortunée ?
-
--*who_amphitryon
 Parce que ta vue, l'amitié fraternelle, le meurtre de ses fils le remplissent de confusion.
 
--*who_thesee
-Mais je suis venu pour m'associer à sa douleur : découvre-le.
+Mon fils, écarte, rejette le voile qui couvre tes yeux ; montre ta face au soleil. L'amitié doit peser dans la balance autant que tes larmes. Je t'en supplie, par ce menton, par ces genoux, par cette main que j'embrasse, par ces larmes que verse ton vieux père. Ô mon enfant, modère ce coeur de lion sauvage ; crains de céder à un transport homicide, sacrilège, et d'ajouter de nouveaux malheurs, mon fils, aux malheurs qui t'accablent.
 
--*who_amphitryon
-Mon fils, écarte, rejette le voile qui couvre tes yeux ; montre ta face au soleil.
-L'amitié doit peser dans la balance autant que tes larmes.
-Je t'en supplie, par ce menton, par ces genoux, par cette main que j'embrasse, par ces larmes que verse ton vieux père.
-Ô mon enfant, modère ce coeur de lion sauvage ; crains de céder à un transport homicide, sacrilège, et d'ajouter de nouveaux malheurs, mon fils, aux malheurs qui t'accablent.
-
--*who_thesee
-Écoute-moi, infortuné, qui t'obstines à garder cette triste attitude, et laisse voir ton visage à tes amis.
-Il n'est point, en effet, de ténèbres assez noires pour cacher ton malheur.
-Pourquoi étendre la main et me montrer cette scène de carnage ?
-Crains-tu pour moi le contact pernicieux de tes paroles ?
-Ah !
-Il ne m'en coûte pas de m'associer à ta peine, car j'ai été heureux naguère, et je dois me reporter au temps où tu m'as tiré des enfers et ramené à la lumière.
-Je hais ces faux amis chez qui vieillit la reconnaissance, qui veulent bien avoir leur part de bonheur, mais refusent, le malheur venu, de continuer le voyage avec leurs amis.
-Allons, lève-toi, découvre cette tête malheureuse, jette les yeux sur nous.
-Un mortel généreux doit supporter, doit accepter les maux que les dieux lui envoient.
-
--*who_hercule
-Thésée, tu as vu le massacre que j'ai fait de mes enfants ?
-
--*who_thesee
-On me l'a dit, et le malheur dont tu me parles est sous mes yeux.
-
--*who_hercule
-Pourquoi donc m'as-tu forcé de montrer ma face au soleil ?
-
--*who_thesee
-Pourquoi ne la montrerais-tu pas ?
-Mortel, profanes-tu la divinité ?
-
--*who_hercule
-Fuis, malheureux, le contact impur d'un criminel.
-
--*who_thesee
-Un ami n'a rien à craindre de la part d'un ami.
-
--*who_hercule
-Je t'approuve, et ne me repens point de t'avoir rendu service.
-
--*who_thesee
-Et moi, que tu as obligé naguère, je te plains aujourd'hui.
-
--*who_hercule
-Oui, je suis bien à plaindre d'avoir tué mes enfants.
-
--*who_thesee
-Je pleure sur le changement de fortune qui t'accable.
-
--*who_hercule
-En connais-tu qui soient en proie à de plus grands malheurs ?
-
--*who_thesee
-Ton infortune s'étend de la terre jusqu'au ciel.
-
--*who_hercule
-Aussi suis-je prêt à mourir.
-
--*who_thesee
-Crois-tu que les dieux s'inquiètent de tes menaces ?
-
--*who_hercule
-Ils me bravent, je veux les braver.
-
--*who_thesee
-Arrête. crains que ce langage arrogant n'aggrave tes maux.
-
--*who_hercule
-Mes maux, j'en regorge : il n'y a plus place pour d'autres.
-
--*who_thesee
-Que veux-tu faire ?
-Où se laisse emporter ton âme ?
-
--*who_hercule
-Je veux mourir et retourner sous la terre d'où je viens.
-
--*who_thesee
-Tu tiens le langage d'un homme vulgaire.
-
--*who_hercule
-Il t'est facile de me reprendre, hors de l'infortune, comme tu es.
-
--*who_thesee
-Est-ce Hercule qui parle ainsi, lui qui supporta tant d'épreuves !
-
--*who_hercule
-Je n'en subis jamais d'aussi grandes, si la souffrance doit se mesurer.
-
--*who_thesee
-Le bienfaiteur des mortels, leur ami dévouée !
-
--*who_hercule
-Ils ne peuvent rien pour moi, et Junon l'emporte.
-
--*who_thesee
-La Grèce ne souffrira pas que tu meures pour expier ton aveuglement.
-
--*who_hercule
-Écoute les raisons que j'oppose à tes conseils ; je t'expliquerai comment la vie n'est pas plus supportable pour moi aujourd'hui que par le passé.
-D'abord, je suis né d'un père qui, meurtrier de son aïeul maternel et souillé de son sang, épousa cette même Alcmène de qui j'ai reçu le jour.
-Quand les fondements d'une race sont mal assurés, les descendants sont voués nécessairement au malheur.
-Jupiter, quel que soit le dieu qu'on appelle de ce nom, m'a condamné en me donnant l'être à la haine de Junon...
-Ne t'offense pas de mes paroles, vieillard : car c'est toi, et non Jupiter, que je regarde comme mon père.
-J'étais encore à la mamelle que l'épouse de Jupiter envoya dans mon berceau d'horribles serpents pour me faire périr.
-Lorsque l'âge eut développé mon corps et mes forces ; est-il besoin de rappeler les travaux que j'ai supportés ?
-Les luttes victorieuses que j'ai soutenues contre les lions, les Typhons au triple corps, les géants et les Centaures, cette armée de guerriers quadrupèdes ?
-Après avoir tué l'hydre, ce monstre aux mille têtes toujours renaissantes, j'ai accompli une multitude d'autres travaux, et je suis descendu chez les morts pour amener à la lumière, par ordre d'Eurysthée, le gardien du royaume de Pluton, le chien à trois têtes.
-Enfin, pour couronner ces épreuves cruelles, j'ai égorgé mes enfants et mis le comble aux maux qui affligent ma maison.
-Voici à quelle nécessité je suis réduit : il ne m'est plus permis d'habiter Thèbes, cette ville si chère à mon coeur ; ou, si j'y reste, dans quel temple irai-je, dans quelle réunion d'amis ?
-Mes malheurs ne permettent pas qu'on m'adresse la parole.
-Irai-je à Argos ?
-Le puis-je, quand je suis exilé de ma patrie ?
-Eh bien !
-Transportons-nous dans quelque autre ville, pour que, à peine reconnu, on nous lance des regards obliques et l'on nous poursuive d'injurieux brocards :
-    « N'est-ce pas là ce fils de Jupiter qui a tué ses enfants et son épouse ?
-Qu'il aille subir ailleurs le châtiment qu'il mérite. »
-Pour l'homme, appelé heureux jadis, les revers sont cruels ; celui qui fut toujours malheureux ne souffre pas, voué qu'il est dès sa naissance à l'infortune.
-Ah !
-Je sais où aboutira l'excès de mes maux : la terre élèvera la voix, m'interdisant de la fouler ; la mer, les fleuves me défendront de les sillonner, et je serai pareil à Ixion qui tourne enchaîné sur sa roue.
-Ce qu'il y a de plus avantageux pour moi, c'est que je ne paraisse point aux yeux de ces Grecs qui furent témoins de mes succès et de mon bonheur.
-Pourquoi faut-il que je vive ?
-Quel avantage trouverai- je à conserver une vie inutile et chargée d'impiété ?
-Que l'illustre épouse de Jupiter danse, que son pied joyeux frappe en cadence le sol de l'Olympe ; elle a atteint, en effet, le but qu'elle poursuivait : elle a abattu, renversé de fond en comble, l'homme qui tenait le premier rang dans la Grèce !
-Qui pourrait adresser ses voeux à cette déesse, qui, en haine d'une femme, et pour se venger de l'amante de Jupiter, a perdu le bienfaiteur de la Grèce, auquel elle n'avait rien à reprocher ?
-
--*who_thesee
-Non, le coup ne part point d'une autre divinité : c'est l'épouse de Jupiter qui te frappe ; tu l'as bien compris. (Je sais qu'il est plus aisé de donner des avis que de souffrir.) Point d'hommes à qui ne se fassent sentir les atteintes de la fortune ; point de dieux même, si les récits des poètes ne sont pas menteurs.
-N'ont-ils pas formé entre eux des unions que nulle loi n'autorise ?
-N'ont-ils pas, pour régner, chargé leurs pères de liens honteux ?
-Et cependant ils continuent d'habiter l'Olympe, et les fautes qu'ils ont commises ne leur pèsent point.
-Eh bien !
-Que diras-tu, toi qui es mortel, si tu supporter impatiemment les coups du sort, tandis que les dieux s'y résignent ?
-Quitte donc Thèbes, puisque la loi t'y oblige, et suis-moi dans la cité de Pailas.
-Là, quand tu auras purifié tes mains du sang qui les souille, je te donnerai une place à mon foyer, une part de ma fortune ; et les présents que je tiens de mes concitoyens pour avoir tué le taureau de Crète et sauvé la vie à quatorze adolescents, je te les offrirai.
-Sur tous les points du pays, des lots de terre m'ont été attribués : ils porteront désormais ton nom tant que tu vivras ; lorsque tu seras descendu chez Pluton, la cité d'Athènes tout entière t'offrira des sacrifices dans des temples élevés en ton honneur.
-C'est une belle récompense pour des citoyens que d'obtenir de la gloire auprès des Grecs en servant un grand homme.
-Et moi, je m'acquitterai ainsi avec mon sauveur : car c'est maintenant que tu as besoin d'amis.
-Tant que les dieux honorent un mortel, à quoi bon les amis ?
-L'appui des dieux lui suffit, quand ils veulent le servir.
-
--*who_hercule
-Hélas ! ces exemples sont étrangers à mes malheurs.
-Pour moi, je n'ai jamais cru et ne croirai jamais que les dieux se plaisent à des unions que la loi réprouve, qu'ils se chargent de chaînes, et que l'un commande en maître à l'autre.
-Un Dieu, s'il est toutefois réellement Dieu, n'a besoin de personne : ce sont les poètes qui tiennent ces détestables discours.
-J'ai considéré que, tout malheureux que je suis, j'encourrais le reproche de lâcheté, si je fuyais la clarté du jour.
-Quiconque, né mortel, ne sait pas comment il faut supporter les revers, ne pourra pas non plus résister au trait d'un ennemi.
-J'attendrai la mort de pied ferme ; j'irai dans ta cité, et je te suis infiniment reconnaissant de tes dons...
-Ah !
-J'ai passé par des épreuves sans nombre ; jamais je n'ai reculé, ni trempé mes yeux de larmes ; et je ne pensais pas que je dusse être réduit à verser des pleurs.
-Maintenant, à ce qu'il semble, il faut que je sois l'esclave de la fortune.
-Soit.
-Vieillard, tu vois que je pars en exil ; tu vois aussi que je suis le meurtrier de, mes propres enfants.
-Que leurs corps soient par toi ensevelis et portés au tombeau ; honore-les de tes larmes : car la loi ne me permet pas de remplir ces devoirs.
-Replace-les sur le sein, dans les bras de leur mère ; rétablis ces liens que j'ai brisés, hélas ! sans le vouloir.
-Quand tu auras déposé leurs corps dans le sein de la terre, fixe-toi dans cette ville : le séjour en sera douloureux sans doute, mais enfin résigne-toi à supporter mes malheurs.
-Ô mes enfants !
-Celui qui vous a fait naître, l'auteur de vos jours, votre père vous a tués ; vous n'avez pas recueilli le fruit de ses travaux, ni joui de cette gloire qu'il vous préparait au prix de tant de peines.
-Et toi, épouse infortunée, je t'ai fait périr, payant d'un cruel retour ta fidélité à ma couche, le long et pénible exercice des vertus domestiques.
-Ah !
-Malheureuse épouse !
-Malheureux enfants !
-Malheureux moi-même !
-Sort cruel !
-Je vais donc m'arracher à vous.
-Douceur amère de ces derniers embrassements !
-Amère nécessité de vivre en compagnie de ces armes !
-Je ne sais si je dois les emporter ou les laisser ; en retombant sur mon flanc, elles me diront sans cesse :
-    « Par nous tu as fait périr tes enfants et ta femme ; tu portes en nous leurs meurtriers. »
-Et ma main les reprendrait ?
-Et pourquoi ?
-Pourtant, me dépouiller de ces armes, avec lesquelles j'ai accompli tant de hauts faits dans la Grèce, c'est me livrer à mes ennemis, m'exposer à une mort honteuse.
-Non, il ne faut pas les quitter ; je les garderai, bien qu'à regret.
-Il est un service que le malheureux Hercule réclame de toi, Thésée : viens à Argos réclamer avec moi le prix qui m'est dû pour avoir amené Cerbère ; je crains que, seul et livré à la douleur, il ne m'arrive malheur.
-Ô terre de Cadmus !
-Ô peuple de Thèbes !
-Rasez vos têtes, mêlez vos larmes, allez au tombeau de ces enfants, pleurez-les et moi avec eux ; nous sommes tous morts à la fois, frappés du même coup par l'impitoyable Junon.
-
--*who_thesee
-Lève-toi, malheureux : c'est assez de larmes.
-
--*who_hercule
-Je ne puis : mes membres refusent de se mouvoir.
-
--*who_thesee
-C'est que le malheur abat même les plus forts.
-
--*who_hercule
-Ah !
-Que ne puis-je devenir pierre et perdre ainsi le souvenir de mes maux !
-
--*who_thesee
-Calme-toi, et donne la main à un ami qui est tout à ton service.
-
--*who_hercule
-Crains seulement que je ne tache de sang tes vêtements.
-
--*who_thesee
-Essuie ce sang, tu le peux ; je ne m'en mets point en peine.
-
--*who_hercule
-Je n'ai plus d'enfants, et tu me tiens lieu de fils.
-
--*who_thesee
-Passe ton bras autour de mon cou, je guiderai tes pas.
-
--*who_hercule
-Vrai couple d'âmes !
-Mais l'un d'eux est bien malheureux.
-Ô vieillard, c'est ainsi qu'il faut avoir un ami.
-
--*who_amphitryon
 Heureuse est la patrie qui lui a donné le jour.
 
--*who_hercule
-Thésée, retournons sur nos pas, pour que je voie mes enfants.
-
--*who_thesee
-Si tu goûtes cette consolation, en seras-tu plus léger ?
-
--*who_hercule
-Je veux les voir et les presser contre mon sein paternel.
-
--*who_amphitryon
 Les voilà : car ton désir s'accorde avec le mien.
 
--*who_thesee
-Ainsi tu perds le souvenir de tes travaux.
-
--*who_hercule
-Tous mes maux passés n'égalaient pas ceux que je souffre aujourd'hui.
-
--*who_thesee
-Si l'on te voit montrer cette faiblesse, on te blâmera.
-
--*who_hercule
-En vivant, je m'abaisse à tes yeux ; mais autrefois tu me jugeais autrement.
-
--*who_thesee
-Qu'est devenu le grand Hercule ?
-
--*who_hercule
-Qu'étais-tu toi-même, au temps de ton malheur, dans les Enfers ?
-
--*who_thesee
-Si tu veux connaître l'état de mon coeur, j'étais le plus faible des hommes.
-
--*who_hercule
-Pourquoi dire alors que je succombe à mes malheurs ?
-
--*who_thesee
-Avance.
-
--*who_hercule
-Adieu, vieillard !
-
--*who_amphitryon
 Adieu, mon fils !
 
--*who_hercule
-Ensevelis, comme je te l'ai dit, mes enfants.
-
--*who_amphitryon
 Et moi, mon fils, qui m'ensevelira ?
 
--*who_hercule
-Moi.
-
--*who_amphitryon
 Quand seras-tu de retour ?
 
--*who_hercule
-Quand tu auras enseveli mes enfants.
-
--*who_amphitryon
 Comment ?
 
--*who_hercule
-Je te ferai venir de Thèbes à Athènes.
-Mais donne la sépulture à ces corps : douloureux office !
-Et moi, qui par d'infâmes attentats ai ruiné ma maison, je suivrai Thésée comme un navire désemparé.
-Quiconque désire posséder la richesse ou la puissance plutôt qu'un ami fidèle est mal inspiré.
 
--*who_lechoeur
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
+
+Ô vieillard, qui renversas jadis la ville des Taphiens et commandais glorieusement l'armée Thébaine : rien de ce qui vient des dieux n'est sûr pour les mortels. C'est ainsi que, du côté paternel, la fortune m'avait bien traitée : Créon était fier autrefois de son opulence et exerçait cette royauté que l'on jalouse et que l'assaut des lances ennemies dispute à leurs heureux possesseurs ; il avait des enfants et me donna en mariage à ton fils Hercule, qui trouvait en moi une illustre épouse. Aujourd'hui tous ces biens ne sont plus, ils se sont envolés. Je vais périr avec toi, vieillard, avec les enfants d'Hercule que j'abrite sous mes ailes, comme un oiseau fait sa tendre couvée. Ils se pressent à l'envi autour de moi pour m'interroger : « Mère, disent-ils, en quel lieu de la terre notre père est-il parti ? Que fait-il ? Quand viendra-t-il ? » Trompés par l'innocence de leur âge, ils demandent leur père. Et moi, je leur réponds par des paroles évasives, et, quand la porte résonne, je demeure saisie ; tous s'élancent, dans la pensée qu'ils vont embrasser les genoux de leur père. Maintenant donc, vieillard, quelle espérance, quelle voie de salut s'offre à tes yeux : car c'est vers toi que je tourne mes regards. Nous ne saurions franchir, sans être aperçus, les limites de cet État ; des gardes, plus forts que nous, ferment tous les passages : nous ne devons pas non plus compter pour nous sauver sur le secours de nos amis. Dis-moi donc, vieillard, quelle est ta pensée : gardons6nous, tandis que la mort s'apprête pour nous, et faibles comme nous sommes, de traîner le temps en longueur.
+
+Que manque-t-il à ton infortune ? Ou bien aimes-tu à ce point la lumière ?
+
+J'y tiens aussi ; mais il ne faut pas, vieillard, se flatter de l'impossible.
+
+L'attente est cruelle et me déchire le coeur.
+
+Vieillards, je loue votre vertu ; c'est ainsi que des amis doivent ressentir en faveur de leurs amis un juste courroux ; mais je ne veux pas qu'en vous irritant à cause de nous contre votre maître, vous attiriez sur vous le malheur. Écoute-moi, Amphitryon, et vois si mon avis mérite qu'on s'y arrête. Je chéris mes enfants ; et comment n'aimerais-je pas des êtres que j'ai enfantés dans la douleur ? Je n'envisage pas le trépas sans effroi, mais j'estime que lutter contre la nécessité, c'est folie pour les mortels. Puisqu'il faut que nous mourions, ce n'est point consumés par le feu que nous devons mourir et en prêtant à rire à nos ennemis, ce qui est un mal pire pour moi que la mort, car la noblesse de notre origine nous impose de grands devoirs. Le renom glorieux que tu t'es acquis à la guerre ne te permet pas de mourir lâchement ; et mon illustre époux n'a-t-il pas témoigné qu'il ne voudrait pas sauver ces enfants au prix de leur honneur ? Car les mortels généreux souffrent de la honte que s'attirent leurs enfants ; et je ne dois pas rejeter l'exemple d'un époux. Considère aussi ce que je pense de l'espérance que tu conçois. Crois-tu que ton fils sortira du sein de la terre ? Les morts sont-ils jamais revenus des enfers ? Mais peut-être pourrons-nous fléchir Lycus par nos discours ? Non, non : un ennemi insensé, il faut le fuir ; s'il est sage et généreux, s'abandonner à lui : car on obtient plus facilement des égards par la douceur et la soumission. Déjà m'est venue la pensée de solliciter l'exil pour ces enfants ; mais il est cruel encore d'assurer leur salut en les condamnant à la pauvreté : un hôte, dit-on, n'a pour son ami exilé de regards bienveillants que pour un jour seulement. Ose donc mourir avec nous, puisque aussi bien tu ne peux échapper à la mort. Nous faisons appel à ton coeur généreux, ô vieillard. Quiconque lutte contre les arrêts des dieux se livre à un travail insensé : ce qui doit arriver nécessairement, nul ne l'empêchera jamais d'arriver.
+
+Et moi je te supplie d'ajouter à cette faveur une faveur nouvelle ; à toi seul tu obligeras doublement deux infortunés. Permets que je pare ces enfants de voiles funèbres, et pour cela ouvre-moi ce palais d'où nous sommes exclus aujourd'hui ; que les enfants d'HercuLe obtiennent du moins cette part de l'héritage paternel.
+
+Enfants, suivez les pas de votre malheureuse mère jusque dans le palais paternel ; si notre avoir est aux mains d'un autre, notre nom y subsiste encore.
+
+Eh bien ! Où est le prêtre, le sacrificateur, qui doit égorger ces infortunés et trancher le cours de ma déplorable vie ? Voilà les victimes ; elles sont prêtes ; qu'on les conduise chez Pluton ! Ô mes enfants, voyez attachés sous le même joug et traînés ensemble à la mort, un vieillard, des enfants, une mère ! Cruelle destinée que la mienne et celle de ces enfants, sur qui mes yeux s'arrêtent pour la dernière fois. Je vous ai enfantés, je vous ai élevés pour être à mes ennemis un objet d'outrage, de risée, de meurtre. Ah ! Combien ont été déçues les espérances que m'avait fait concevoir jadis le langage de votre père ! À toi, ce père qui n'est plus destinait Argos ; tu devais habiter le palais d'Eurysthée et régner sur la terre fertile des Pelasges ; il voulait couvrir ton front de la dépouille du lion féroce dont lui-même était armé. Et toi, tu devais être le roi de Thèbes, la ville amie des chars, et posséder à titre d'héritier le territoire qui m'a vue naître ; ainsi Hercule l'avait stipulé avec l'auteur de mes jours ; dans ta main passait la massue secourable, présent trompeur de Dédale. À toi enfin il avait promis de donner OEchalie qu'il renversa jadis de ses traits inévitables. C'est ainsi qu'un père, fier de son mâle courage, vous élevait tous trois sur autant de trônes. Et moi, je choisissais les plus nobles épouses pour les unir à votre sort ; je les demandais à Athènes, à Sparte, à Thèbes, afin qu'assurée contre l'orage, votre vie eût un cours prospère. Tous ces projets se sont évanouis ; la Fortune a changé : pour épouses elle vous donne les Parques, et à moi, malheureuse, des larmes en place du bain nuptial. C'est chez Pluton, dont vous serez les gendres, que votre aïeul célébrera la triste fête de votre hymen. Ah ! Lequel de vous dois-je presser le premier ou le dernier contre mon sein ? Auquel donnerai- je un baiser ? Lequel serrerai-je dans mes bras ? Que ne puis-je, comme l'abeille aux ailes diaprées, recueillir vos pleurs à tous et en former comme une source pour alimenter mes larmes ! Cher Hercule ! Si la voix des mortels peut se faire entendre jusque chez Pluton, je m'adresse à toi : ton père meurt ainsi que tes fils ; je péris moi-même, moi que les mortels proclamaient heureuse à cause de toi. Secours-nous, viens, parais, ne fusses-tu qu'une ombre. Rien que ta présence pourrait nous sauver. Ceux qui veulent tuer tes fils sont sans force contre toi.
+
+Ah ! Ne vois-je pas l'être qui m'est le plus cher, ô vieillard ? Ou me trompé-je ?
+
+C'est lui, c'est le héros qu'on nous disait descendu sous la terre, à moins que nous ne soyons en plein jour le jouet d'un songe. Que dis-je ? Quel songe abuse mon esprit troublé ? Non, ce n'est pas un autre que ton fils, vieillard. Venez, mes enfants : attachez-vous aux vêtements de votre père ; allez, hâtez-vous, ne le quittez pas : car il ne vaut pas moins pour vous que Jupiter libérateur.
+
+Nous allions périr (pardonne-moi, vieillard, si je t'ai devancé et ai fait à Hercule la réponse qu'il t'appartenait de lui adresser ; mais les femmes sont en quelque sorte plus dignes de pitié que les hommes) ; mes enfants étaient condamnés à mourir, et leur mère avec eux.
+
+Mes frères sont morts ainsi que mon vieux père.
+
+C'est l'illustre Lycus, le roi de ce pays, qui les a tués.
+
+C'est à la faveur d'une sédition qu'il exerce le souverain pouvoir dans Thèbes aux sept portes.
+
+Lycus allait faire périr ton père, tes enfants et moi.
+
+Il craignait qu'ils ne vengeassent la mort de Créon.
+
+Nous sommes déjà couverts de la parure du tombeau.
+
+Nous n'avions plus d'amis : on nous disait que tu n'étais plus.
+
+Ainsi l'annonçaient les messagers d'Eurysthée.
+
+Ton père a été arraché par force du lit où il couchait.
+
+La pudeur habite loin de la violence.
+
+En est-il donc pour l'homme malheureux ?
+
+Le malheur, je te le répète, n'a pas d'amis.
+
+
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
+
+J'ai pris mon chemin, appuyé sur un bâton, vers le toit qui abrite Amphitryon et le lit où repose sa vieillesse, et j'entonne un chant plaintif, comme le cygne au blanc plumage ; je n'apporte,que des paroles, une ombre fugitive, semblable aux visions des songes, et une voix tremblante mais que le zèle anime. Ô enfants, qui n'avez plus de père ! Ô vieillard ! Ô malheureuse mère qui pleure un époux disparu dans le royaume de Pluton ! Ne vous fatiguez pas à mouvoir vos pieds et vos membres appesantis par l'âge, comme ce coursier qui gravit sous le joug la pente d'un rocher et qui succombe à l'effort. Prends ma main, attache-toi à mes vêtements, si le pied trop faible t'a manqué ; vieillard, conduis un vieillard, comme autrefois, jeunes gens, nous avons uni nos lances dans les travaux de la guerre, pour l'honneur de notre glorieuse patrie. Voyez les éclairs qui jaillissent de leurs yeux : comme ils ressemblent à leur père Sa beauté revit en eux, et son infortune ne les a point quittés depuis l'enfance. Ô Grèce, de quels défenseurs tu seras privée en les perdant ! — Mais je vois le souverain de ce pays, Lycus, qui s'approche de ce temple.
+
+Les hommes vertueux ne trouvent-ils pas matière à d'éloquents discours, lors même qu'ils sont lents à parler ?
+
+Ô fils de la terre, que Mars fit naître jadis en semant les dents arrachées des mâchoires du vorace dragon ! Ne lèverez-vous pas ces bâtons, appuis de votre main, pour ensanglanter la tête impie de ce détestable tyran, de cet étranger, qui n'est pas de la race de Cadmus et commande à la jeunesse thébaine ? Mais, à moi du moins, tu ne feras pas la loi impunément ; tu ne t'empareras pas de ces biens que j'ai conquis par de pénibles travaux ; retourne aux lieux d'où tu viens exercer ton insolence : car, moi vivant, tu ne tueras jamais les enfants d'Hercule : ce héros, en quittant ses enfants, n'est pas si profondément enseveli dans les entrailles de la terre. Toi, tu as perdu cette terre que tu gouvernes ; et lui, qui en fut le défenseur, n'a pas le sort qu'il mérite ; et après cela je fais l'empressé, parce que je sers un ami dans le tombeau, où plus qu'ailleurs on a besoin d'amis ! Ô mon bras, comme tu brûles de saisir la lance ! Mais la faiblesse ne te permet pas de satisfaire ce désir ; sans quoi, je t'aurais empêché de m'appeler esclave, et nous habiterions glorieusement cette ville de Thèbes, où tu jouis de ton bonheur : c'est que la cité, en proie à la sédition et aux mauvais conseils, a perdu le sens ; autrement, elle ne t'aurait jamais pris pour maître.
+
+Si quelqu'un t'avait fait injure, au temps, où mes bras, étaient vigoureux, je l'eusse facilement réprimé ; aujourd'hui je ne suis plus rien ; à toi désormais, Amphitryon, d'aviser aux moyens de repousser les coups du sort.
+
+Apollon entonne un hymne avec des accents joyeux, en frappant de son archet d'or sa lyre harmonieuse ; et moi, je veux célébrer celui qui est descendu sous la terre, dans la nuit infernale, qu'il faille l'appeler fils de Jupiter ou rejeton d'Amphitryon : mes louanges seront la couronne de ses travaux. Les éloges décernés à de généreux exploits sont la parure des morts. D'abord il purgea le bois de Jupiter du lion qui l'habitait et s'enveloppa de sa fauve dépouille en cachant sa blonde tête derrière la terrible gueule du monstre. Il perça de ses traits sanglants la race sauvage des Centaures, habitante des montagnes, qui tombèrent sous ses flèches ailées. J'en atteste le Pénée au cours limpide, et les plaines vastes et stériles qu'il arrose, et les vallées du Pélion, et les cavernes voisines de l'Homolas d'où ils arrachaient des pins pour armer leurs bras et dompter dans leurs courses équestres le pays des Thessaliens. Il tua la biche aux cornes dorées, au dos tacheté, fléau des campagnes, et en fit hommage à la déesse d'OEnoé, habile à tuer les bêtes sauvages. Il monta sur le char et soumit au frein les coursiers indomptés de Diomède, qui, dans leurs crèches homicides, broyaient sous leurs dents des chairs sanglantes : horrible festin, où ils dévoraient avec joie des membres humains. Il pénétra au delà des ondes argentées de l'Èbre, afin d'accomplir le travail prescrit par le tyran de Mycènes, et sur la plage qui s'étend au pied du Pélion, près des bouches de l'Anaurus. Il perça de ses flèches Cycnus, le meurtrier des étrangers, l'hôte insociable d'Amphanée. Il entra dans le jardin reculé que les vierges d'Hespérie font retentir de leurs chants, pour cueillir la pomme d'or sur les rameaux chargés de fruits, en tuant le dragon au dos couleur de feu qui s'enroulait autour de l'arbre et en défendait l'approche. Il descendit dans les profondeurs de la mer écumante, et les mortels purent dès lors sillonner tranquillement les flots. Arrivé à la demeure d'Atlas, il porta les mains au milieu de la voûte du ciel, et sa force invincible soutint le palais étoilé, séjour des dieux. Il traversa les flots de l'Euxin, et, non loin du Palus-Méotis, ce réservoir de cent fleuves divers, il attaqua l'escadron guerrier des Amazones. Combien de héros grecs l'amitié ne réunit-elle pas autour de lui, lorsqu'il allait conquérir l'insigne doré qui brillait sur la robe de la fille de Mars, ce baudrier fatal à ses ennemis ! La Grèce reçut les dépouilles fameuses de la vierge barbare, et Mycènes en garda le dépôt. Il brûla l'hydre de Lerne, monstre à mille têtes qui faisait de nombreuses victimes, et trempa dans son venin les flèches dont il perça le berger d'Érythie au triple corps. Après avoir conquis dans d'autres courses des palmes glorieuses, et pour terminer ses travaux, il vogua vers Pluton qui fait couler tant de larmes : c'est là que le malheureux a fini sa vie ; il n'en est pas revenu ; sa maison est vide d'amis, et la barque de Caron attend ses enfants condamnés par une sentence impie, injuste, à faire ce voyage, le dernier que font les vivants. Ta famille tourne vers toi les yeux, et tu n'es pas là ! Ah ! Si j'avais la force de la jeunesse, si je pouvais brandir la lance dans les combats, avec les Thébains de mon âge je porterais secours à tes enfants ; mais l'heureuse jeunesse a fui loin de moi. — Mais j'aperçois les fils de celui qui fut jadis le grand Hercule parés de voiles funèbres ; je vois son épouse chérie traînant sur ses pas ses enfants et le vieux père d'Hercule. Malheureux que je suis ! Je ne puis retenir les flots de larmes qui coulent de mes yeux ridés par les ans.
+
+Il est juste qu'un père défende ses enfants, un fils son vieux père, un époux la compagne de sa vie.
+
+La jeunesse a des charmes pour moi ; la vieillesse, plus lourde que les rochers de l'Etna, pèse sur ma tête et a étendu sur mes paupières un voile ténébreux. L'opulence des monarques de l'Asie, des palais remplis d'or, je ne les échangerais pas contre la jeunesse, belle dans l'opulence, belle dans la pauvreté. Mais je hais la triste, la cruelle vieillesse. Qu'elle disparaisse dans les flots ! Elle n'aurait jamais dû entrer dans les demeures et les cités des mortels ; qu'elle s'envole plutôt à jamais dans les airs ! Si les dieux étaient doués de prudence et de sagesse à la façon des hommes, une double jeunesse échoirait en partage, comme un sceau manifeste de vertu, à tous ceux qui ont fait le bien : après leur mort ils reparaîtraient à la lumière du soleil pour fournir une seconde fois la carrière de la vie ; les méchants, au contraire, n'auraient qu'une seule vie. À ce signe, on connaîtrait les bons et les méchants,comme les nautonniers comptent les astres au sein des nuages. Aujourd'hui les dieux ne permettent de distinguer par aucune marque certaine les bons d'avec les méchants ; et une existence agitée n'a pour effet que d'accroître les richesses. Je ne cesserai point d'unir les Grâces aux Muses : union charmante ! Puissé-je ne jamais rester étranger aux Muses, mais vivre toujours au milieu des couronnes ! Oui, le poète vieillissant célèbre encore Mnémosyne. Moi, je chanterai encore l'hymne triomphal d'Hercule, en compagnie de Bacchus, dispensateur du vin, aux accents de la lyre aux sept cordes et de la flûte libyenne. Je ne tairai pas non plus les bienfaits des Muses qui m'ont appris à former des choeurs. Les vierges de Délos chantent le Paean, et célèbrent aux portes de son temple le glorieux fils de Latone, qui préside aux choeurs sacrés. Et moi, poète à la tête chauve, tel qu'un cygne chargé d'ans, j'entonnerai des hymnes devant ton palais. Car le fils de Jupiter fournit une ample matière à mes chants : surpassant la noblesse de sa naissance par l'éclat de ses vertus, il a, par ses travaux et en détruisant des monstres terribles, assuré aux mortels une vie exempte d'orages.
+
+Les choeurs, les choeurs et les festins, voilà ce qui occupe la ville sacrée de Thèbes. Un heureux changement a tari nos larmes et provoqué des chants de joie. Le nouveau roi a péri, et le sceptre est aux mains de notre ancien maître, qui a quitté le port de l'Achéron. L'espérance a lui contre notre attente. Les dieux, les dieux attentifs ont l'oeil ouvert sur les impies et sur les justes. L'or et la prospérité égarent l'esprit, des mortels en fondant un injuste pouvoir. Nul n'ose songer aux vicissitudes du temps quand il a violé la loi ; et, s'abandonnant à l'iniquité, il brise le char éclatant du bonheur. Isménus, charge-toi de couronnes) habitants de la ville aux sept portes, formez dans les rues des choeurs joyeux ! Dircé, qui roules de belles eaux, et vous, nymphes de l'Asopus, quittez l'onde paternelle, et unissez vos voix pour chanter le combat victorieux d'Hercule. Ô rocher boisé de Delphes, séjour des Muses de l'Hélicon, célébrez ma patrie par de joyeux accents ; célébrez les murs où surgit du sol cette race d'hommes, ce bataillon de guerriers armés de boucliers d'airain, qui transmirent cet État aux enfants de leurs enfants, lumière sacrée des Thébains. Ô couche nuptiale que se partagèrent deux époux, un mortel et Jupiter que la petite fille de Persée reçut dans son lit : je croyais déjà et depuis longtemps à ton alliance, ô Jupiter ; mais aujourd'hui elle s'est manifestée au delà de mes espérances, et le temps a révélé la valeur éclatante d'Hercule sorti des entrailles de la terre et du royaume souterrain de Pluton. Oui, tu es à mes yeux un roi supérieur à ce tyran dégénéré ; et l'on peut juger, à voir le résultat de cette lutte meurtrière, si la justice est toujours agréable aux dieux.
+
+Ah ! Ah ! Partagez-vous mon effroi, vieillards, à la vue de ce spectre que j'aperçois sur le palais ? Fuyez, fuyez, pressez vos pas tardifs, éloignez-vous. Ô puissant Apollon, détourne les maux qui nous menacent !
+
+Hélas ! Hélas ! Gémis, cité malheureuse ! On moissonne la fleur de tes guerriers, le fils de Jupiter. Ô Grèce infortunée ! Tu vas perdre ton bienfaiteur en proie aux sombres fureurs de Lyssa. Elle est montée sur son char, la Furie qui fait couler tant de larmes ; elle presse ses coursiers de l'aiguillon et s'apprête à faire le mal, la fille de la nuit, la Gorgone, avec ses vipères aux cent têtes, aux horribles sifflements, Lyssa, dont le regard pétrifie. Un dieu renverse en un instant l'homme heureux ; en un instant les enfants expireront sous les coups de leur père. Malheureux que je suis ! Ô Jupiter, ton fils sans rejeton va succomber aux atteintes vengeresses d'une furie cruelle. Ô palais ! Elle commence cette danse que n'animent point les tambours et que désavouent les prêtres de Bacchus armés du thyrse : c'est pour verser le sang, et non pour répandre des libations avec la liqueur de Bacchus. Fuyez, enfants, fuyez : c'est un chant de mort, un chant de mort qui retentit ; le chasseur s'élance et poursuit sa proie. Les transports furieux de Lyssa ne resteront pas sans effet. Ô malheur ! Hélas ! Hélas ! Je pleure sur un père chargé d'ans, sur une tendre mère qui a en vain donné le jour à des enfants. Voici la tempête qui ébranle le palais, le toit qui s'écroule. Ah ! Ah ! Que fais-tu, fils de Jupiter ? Comme Pallas précipitant Encélade, tu portes en ce palais le désordre et l'horreur du Tartare.
+
+Pourquoi ces cris, et que me veux-tu ?
+
+Je n'ai pas besoin d'appeler un devin.
+
+Hélas ! Hélas !
+
+Cruelles aussi les mains paternelles !
+
+Raconte-nous cette déplorable catastrophe où les enfants sont les victimes et le père le bourreau. Dis-nous comment ces malheurs sont venus fondre du ciel sur ce palais ; dis-nous le sort cruel de ces enfants.
+
+Le meurtre, que la terre d'Argos vit commettre par les filles de Danaüs, a été naguère le plus fameux, le plus étonnant dont la Grèce ait été témoin ; mais les coups frappés par Hercule surpassent et font oublier cet attentat. Je pourrais citer Procné, égorgeant son malheureux fils, son fils unique : cruel sacrifice, offert aux Muses ! Mais toi, infortuné, en proie à un destin furieux, tu as immolé les trois enfants dont tu étais le père. À qui offrir de préférence le tribut de mes gémissements et de mes larmes ? Pour qui entonner le chant des morts, l'hymne funèbre de Pluton ? Ah ! Ah ! Voyez, les portes du palais élevé s'ouvrent à deux battants. Hélas ! Voyez les malheureux enfants couchés devant leur malheureux père ; il dort d'un sommeil effrayant, à distance des cadavres. Des liens assujettis par mille noeuds entrelacés entourent le corps d'Hercule et l'attachent aux colonnes du palais. Tel qu'un oiseau qui gémit sur la perte de sa tendre couvée, voyez ce vieillard qui poursuit d'un pas lent sa marche douloureuse : le voilà près de nous.
+
+Je pleure sur toi, vieillard, et sur ces enfants, et sur cette tête que tant de victoires ont couronnée.
+
+Dieux ! Quel horrible carnage !
+
+Il soulève son corps de terre.
+
+Impossible, impossible de me contraindre.
+
+Dort-il ?
+
+Pleure donc...
+
+Le trépas de ces enfants.
+
+Pleure aussi sur ton fils.
+
+Ô vieillard !
+
+Rassure-toi, la nuit couvre les paupières de ton fils.
+
+Tu aurais dû mourir le jour où tu vengeas le meurtre des frères de ton épouse, en renversant la citadelle des Taphiens baignée par les flots.
+
+Ô Jupiter, pourquoi ta haine a-t-elle poursuivi ton fils avec tant de fureur ? Pourquoi l'as-tu plongé dans cet abîme de maux ?
+
+Je t'accompagnerai, je ne trahirai point l'infortune.
+
 Nous partons, vieillards misérables et gémissants, après avoir perdu les meilleurs des amis.
+
+
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycus
+
+Je veux interroger, si j'en ai le droit, le père et l'épouse d'Hercule ; or, j'ai ce droit, puisque je suis votre maître, de vous questionner à mon gré. Jusqu'à quel terme prétendez-vous prolonger votre vie ? Quel espoir, quel secours s'offre à vos yeux, qui vous défende contre la mort ? Croyez-vous que le père de ces enfants reviendra des Enfers où il est enseveli ? Parce qu'il faut que vous mouriez, vous vous livrez à un désespoir peu digne de vous, toi qui te vantes sottement par toute la Grèce que Jupiter t'a rendue mère d'un nouveau dieu, toi, qui fus appelée l'épouse du plus vaillant héros. Et qu'a donc fait de si glorieux cet époux, en tuant l'Hydre de Lerne ou le lion de Némée ? Il l'a pris dans ses filets et a prétendu l'avoir étouffé dans ses bras. Voilà avec quelles armes vous luttez contre moi ? Voilà pourquoi les enfants d'Hercule doivent échapper au trépas ? Hercule a passé pour un héros, et c'était un homme de rien : bon pour combattre les animaux, incapable d'autres exploits, on ne le vit point armer son bras gauche du bouclier, affronter de près la lance ; mais tenant en main son arc, la plus lâche des armes, il était toujours prêt à fuir. Or, le courage du guerrier se montre, non pas à lancer des flèches, mais à mesurer de l'oeil, sans broncher à son rang, le sillon rapide que trace la lance. Ma conduite, vieillard, n'est pas inspirée par la cruauté, mais par la prudence : je le sais pour avoir tué Créon, le père de cette femme, et m'être emparé de son trône. Je ne veux point épargner ces enfants, pour que, devenus grands, ils s'érigent en vengeurs et me punissent de ce que j'ai fait.
+
+Débite contre nous d'orgueilleux discours : j'y répondrai par un acte rigoureux.
+Allez, vous sur l'Hélicon, vous dans les vallons du Parnasse, et ordonnez aux bûcherons de couper les troncs des chênes ; dès qu'ils les auront transportés dans la ville, entassez ce bois à droite et à gauche autour de l'autel, mettez-y le feu et brûlez les corps de tous ces criminels, afin qu'ils sachent que ce n'est point Créon défunt qui règne sur ce pays, mais que moi seul commande ici maintenant. Pour vous, vieillards, qui vous montrez contraires à mes desseins, vous n'aurez pas seulement à gémir sur le sort des enfants d'Hercule, mais encore sur les malheurs de votre maison, quand elle sentira l'effet de ma colère, et vous vous rappellerez que vous êtes les esclaves de mon sceptre;
+
+Soit. — Esclaves, ouvrez les portes. Entrez et parez-vous : je ne vous refuse pas les voiles que vous demandez. Aussitôt que vous aurez revêtu ces ornements, je reviendrai pour vous précipiter dans la nuit infernale.
+
+Tu sors à propos du palais, Amphitryon : car il y a longtemps déjà que vous êtes occupés à vous parer de voiles et d'ornements funèbres. Allons, invite les enfants et l'épouse d'Hercule à paraître hors de cette demeure ; tenez l'engagement que vous avez pris de vous offrir de vous-mêmes à la mort.
+
+Où donc est Mégare ? Où sont les enfants du fils d'Alcmène ?
+
+Sur quoi se fonde ton opinion ?
+
+Demandant en vain qu'on lui laisse la vie.
+
+Cet époux est absent et ne reviendra jamais.
+
+Va la trouver, et fais-la sortir du palais.
+
+C'est nous, puisque ce scrupule t'arrête, nous qui n'avons rien à craindre, qui amènerons les enfants avec la mère. Esclaves, suivez-moi afin que la joie et le repos succèdent à nos angoisses.
+
+Ah ! Ah !
+
+Ô terre de Cadmus ! Je péris victime de la trahison.
+
+
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
+
+Je te salue, palais, et toi, seuil de mes foyers ! Que je suis heureux de vous revoir en revenant à la lumière !... Hein ! Qu'est-ce à dire ? Je vois mes enfants, à l'entrée de ma demeure, la tête couronnée de voiles funèbres, et mon épouse entourée d'une foule de vieillards, et mon père déplorant quelque malheur. Allons, approchons-nous, pour savoir quel événement nouveau est survenu dans cette maison.
+
+Que dis-tu, et dans quel trouble sommes-nous tombés, mon père ?
+
+Par Apollon ! Tu débutes par de sinistres paroles.
+
+Que dis-tu ? Qu'ont-ils fait, ou quel ennemi les a percés de sa lance ?
+
+A-t-il marché contre eux les armes à la main, ou la ville était-elle en proie à la sédition ?
+
+Et pourquoi la frayeur s'est-elle emparée de toi et de ce vieillard ?
+
+Comment cela ? Qu'avait-il à redouter de mes enfants orphelins ?
+
+Mais que signifient ces voiles, cet appareil de mort ?
+
+Et vous alliez mourir victimes de la violence ? Infortuné que je suis !
+
+Comment aviez-vous perdu toute espérance ?
+
+Pourquoi avez-vous abandonné ma demeure et mon foyer ?
+
+Et l'on a pu sans pudeur outrager sa vieillesse ?
+
+L'absence nous a-t-elle ravi tous nos amis ?
+
+Et les combats que j'ai soutenus contre les Minyens, ils en ont fait fi ?
+
+Jetez ces bandelettes funèbres qui ceignent vos cheveux ; que vos yeux regardent avec joie cette clarté du jour que vous échangez contre les ténèbres infernales. Pour moi (car c'est à mon bras d'agir maintenant), je vais tout d'abord renverser le palais du nouveau tyran, couper sa tête impie et la jeter en pâture aux chiens. Ceux des Thébains que j'ai trouvés perfides envers leur bienfaiteur, je les abattrai sous les coups de cette arme victorieuse ; je disperserai les autres avec mes flèches ailées ; et l'Isménus regorgera de morts et de carnage, et les eaux limpides de Dircé seront teintes de sang. Et qui donc dois-je défendre plutôt que mon épouse, mes enfants et ce vieillard ? Périsssent mes travaux ! c'est en vain que je les ai accomplis, si je n'achève celui-ci. Je dois même mourir pour la défense de ces enfants, puisqu'ils allaient mourir pour leur père. D'ailleurs, comment me justifier, si, après avoir combattu l'hydre et le lion pour obéir aux ordres d'Eurysthée, je ne travaille point à sauver mes enfants de la mort ? On ne m'appellera plus, comme auparavant, Hercule le victorieux.
+
+En quoi montré-je, mon père, plus d'empressement qu'il ne convient ?
+
+La ville tout entière m'eût-elle vu, peu m'importe ; mais j'ai vu un oiseau de mauvais présage, j'ai compris qu'un malheur avait fondu sur ma maison, et je suis à dessein entré secrètement sur cette terre.
+
+Je suivrai tes sages avis. Je vais entrer dans ce palais. Revenu après un long temps du séjour ténébreux qu'habitent sous la terre Pluton et Proserpine, je ne dédaignerai pas de saluer les dieux tutélaires de cette demeure.
+
+Oui, et j'ai traîné à la lumière le monstre à trois têtes.
+
+La force ; et j'ai eu le bonheur devoir les mystères des initiés.
+
+Le bois de Gérés et la cité d'Hermione le possèdent.
+
+Il l'ignore : j'ai voulu savoir d'abord ce qui se passait en ces lieux.
+
+Je m'y suis attardé pour ramener Thésée des Enfers.
+
+Il s'en est allé à Athènes, heureux de s'être échappé des Enfers. Mais, suivez-moi, mes enfants, suivez votre père à la maison. Vous y rentrez plus heureusement que vous en êtes sortis. Ayez bon courage et cessez de répandue des flots de larmes. Et toi, chère épouse, reprends tes esprits et ne tremble plus. Lâchez mes vêtements : je n'ai point d'ailes et ne songe point à fuir ceux qui m'aiment. Mais voyez ! Ils ne me lâchent, pas, et ne s'en attachent que davantage à mes vêtements. Étiez-vous donc à ce point sur le bord du précipice ? Eh bien ! Je vais les prendre et les conduire par la main, comme un vaisseau remorque de légères barques ; car je ne me refuse pas au doux service de mes enfants. En cela tous les hommes sont égaux : les plus illustres, comme les gens de rien, aiment leurs enfants ; inégalement favorisés de la fortune, les uns sont riches, les autres ne le sont pas ; à tous, leurs enfants sont chers.
+
+Oh ! Je respire, je vois encore ce que je dois voir, le ciel, la terre, ces traits brillants du soleil ; mais un orage terrible a fondu sur moi et troublé mon âme, et mon souffle brûlant s'échappe de mes poumons haletant, inégal. Pourquoi ces liens qui attachent, comme le navire au rivage, ma poitrine et mes bras vigoureux à cette colonne brisée ? Pourquoi ces cadavres près de la place que j'occupe ? Sur le sol gisent épars mon arc et ces flèches ailées qui, toujours dans mes mains, me défendaient et que je savais défendre. Ne suis-je point par hasard redescendu, par ordre d'Eurysthée, dans le royaume infernal d'où j'étais revenu ? Mais je n'aperçois ni le rocher de Sisyphe, ni Pluton, ni le sceptre de la fille de Cérès. Je reste stupéfait, je cherche en vain où je suis... Holà ! N'y a-t-il pas, près ou loin d'ici, quelqu'un de mes amis qui veuille éclairer mon ignorance ? Car je ne reconnais aucun des objets auxquels mes sens sont accoutumés.
+
+Mon père, pourquoi pleurer et voiler tes yeux, en te tenant éloigné d'un fils qui t'est si cher ?
+
+Quel malheur est le mien, pour que tu verses des larmes ?
+
+Voilà de grands mots ; mais tu ne m'expliques pas encore ce qui m'est arrivé.
+
+Dis si tu as quelque reproche à m'adresser.
+
+Ciel ! Quel soupçon insinues-tu encore à mots couverts ?
+
+Mais je n'ai pas souvenir d'avoir eu l'esprit égaré.
+
+Dis-moi aussi qui m'a attaché : car j'en ai honte.
+
+Le silence suffit-il pour m'apprendre ce que je veux savoir ?
+
+Ai-je donc eu à souffrir de sa haine ?
+
+Je suis perdu. Quel malheur vas-tu m'annoncer ?
+
+Ciel ! Quel spectacle s'offre à ma vue !
+
+Que parles-tu de guerre ? Quel est l'auteur de leur mort ?
+
+Quoi ? Comment ? Quels malheurs tu m'annonces, mon père !
+
+Suis-je donc aussi le meurtrier de mon épouse ?
+
+Hélas ! Hélas ! Un nuage de deuil m'environne.
+
+J'ai sans doute mis en pièces mon palais dans le transport qui m'agitait ?
+
+Où cette fureur s'est-elle emparée de moi ? Où m'a-t-elle conduit à ma perte ?
+
+Ciel ! Pourquoi donc épargner ma vie, après avoir été le meurtrier de mes enfants chéris ? Pourquoi tardé-je à m'élancer du haut d'un roc glissant, ou à me percer le foie de mon glaive, pour expier le meurtre de mes enfants ? Pourquoi ne pas consumer mes chairs dans le feu, afin d'échapper à l'infamie qui m'attend. Mais, pour mettre obstacle à mes projets de mort, je vois s'avancer Thésée, mon parent et mon ami. Il va me voir ; l'abominable infanticide paraîtra aux yeux du plus cher de mes hôtes ! Hélas ! Que faire ? Où isoler mes malheurs, en m'envolant dans les airs ou en descendant sous la terre ? Allons, voilons ma tête, car je rougis des forfaits que j'ai commis, et, pour m'être souillé d'un meurtre qui crie vengeance, je ne veux point faire tort à des innocents.
+
+Thésée, tu as vu le massacre que j'ai fait de mes enfants ?
+
+Pourquoi donc m'as-tu forcé de montrer ma face au soleil ?
+
+Fuis, malheureux, le contact impur d'un criminel.
+
+Je t'approuve, et ne me repens point de t'avoir rendu service.
+
+Oui, je suis bien à plaindre d'avoir tué mes enfants.
+
+En connais-tu qui soient en proie à de plus grands malheurs ?
+
+Aussi suis-je prêt à mourir.
+
+Ils me bravent, je veux les braver.
+
+Mes maux, j'en regorge : il n'y a plus place pour d'autres.
+
+Je veux mourir et retourner sous la terre d'où je viens.
+
+Il t'est facile de me reprendre, hors de l'infortune, comme tu es.
+
+Je n'en subis jamais d'aussi grandes, si la souffrance doit se mesurer.
+
+Ils ne peuvent rien pour moi, et Junon l'emporte.
+
+Écoute les raisons que j'oppose à tes conseils ; je t'expliquerai comment la vie n'est pas plus supportable pour moi aujourd'hui que par le passé. D'abord, je suis né d'un père qui, meurtrier de son aïeul maternel et souillé de son sang, épousa cette même Alcmène de qui j'ai reçu le jour. Quand les fondements d'une race sont mal assurés, les descendants sont voués nécessairement au malheur. Jupiter, quel que soit le dieu qu'on appelle de ce nom, m'a condamné en me donnant l'être à la haine de Junon... Ne t'offense pas de mes paroles, vieillard : car c'est toi, et non Jupiter, que je regarde comme mon père. J'étais encore à la mamelle que l'épouse de Jupiter envoya dans mon berceau d'horribles serpents pour me faire périr. Lorsque l'âge eut développé mon corps et mes forces ; est-il besoin de rappeler les travaux que j'ai supportés ? Les luttes victorieuses que j'ai soutenues contre les lions, les Typhons au triple corps, les géants et les Centaures, cette armée de guerriers quadrupèdes ? Après avoir tué l'hydre, ce monstre aux mille têtes toujours renaissantes, j'ai accompli une multitude d'autres travaux, et je suis descendu chez les morts pour amener à la lumière, par ordre d'Eurysthée, le gardien du royaume de Pluton, le chien à trois têtes. Enfin, pour couronner ces épreuves cruelles, j'ai égorgé mes enfants et mis le comble aux maux qui affligent ma maison. Voici à quelle nécessité je suis réduit : il ne m'est plus permis d'habiter Thèbes, cette ville si chère à mon coeur ; ou, si j'y reste, dans quel temple irai-je, dans quelle réunion d'amis ? Mes malheurs ne permettent pas qu'on m'adresse la parole. Irai-je à Argos ? Le puis-je, quand je suis exilé de ma patrie ? Eh bien ! Transportons-nous dans quelque autre ville, pour que, à peine reconnu, on nous lance des regards obliques et l'on nous poursuive d'injurieux brocards : « N'est-ce pas là ce fils de Jupiter qui a tué ses enfants et son épouse ? Qu'il aille subir ailleurs le châtiment qu'il mérite. » Pour l'homme, appelé heureux jadis, les revers sont cruels ; celui qui fut toujours malheureux ne souffre pas, voué qu'il est dès sa naissance à l'infortune. Ah ! Je sais où aboutira l'excès de mes maux : la terre élèvera la voix, m'interdisant de la fouler ; la mer, les fleuves me défendront de les sillonner, et je serai pareil à Ixion qui tourne enchaîné sur sa roue. Ce qu'il y a de plus avantageux pour moi, c'est que je ne paraisse point aux yeux de ces Grecs qui furent témoins de mes succès et de mon bonheur. Pourquoi faut-il que je vive ? Quel avantage trouverai- je à conserver une vie inutile et chargée d'impiété ? Que l'illustre épouse de Jupiter danse, que son pied joyeux frappe en cadence le sol de l'Olympe ; elle a atteint, en effet, le but qu'elle poursuivait : elle a abattu, renversé de fond en comble, l'homme qui tenait le premier rang dans la Grèce ! Qui pourrait adresser ses voeux à cette déesse, qui, en haine d'une femme, et pour se venger de l'amante de Jupiter, a perdu le bienfaiteur de la Grèce, auquel elle n'avait rien à reprocher ?
+
+Hélas ! ces exemples sont étrangers à mes malheurs. Pour moi, je n'ai jamais cru et ne croirai jamais que les dieux se plaisent à des unions que la loi réprouve, qu'ils se chargent de chaînes, et que l'un commande en maître à l'autre. Un Dieu, s'il est toutefois réellement Dieu, n'a besoin de personne : ce sont les poètes qui tiennent ces détestables discours. J'ai considéré que, tout malheureux que je suis, j'encourrais le reproche de lâcheté, si je fuyais la clarté du jour. Quiconque, né mortel, ne sait pas comment il faut supporter les revers, ne pourra pas non plus résister au trait d'un ennemi. J'attendrai la mort de pied ferme ; j'irai dans ta cité, et je te suis infiniment reconnaissant de tes dons... Ah ! J'ai passé par des épreuves sans nombre ; jamais je n'ai reculé, ni trempé mes yeux de larmes ; et je ne pensais pas que je dusse être réduit à verser des pleurs. Maintenant, à ce qu'il semble, il faut que je sois l'esclave de la fortune. Soit. Vieillard, tu vois que je pars en exil ; tu vois aussi que je suis le meurtrier de, mes propres enfants. Que leurs corps soient par toi ensevelis et portés au tombeau ; honore-les de tes larmes : car la loi ne me permet pas de remplir ces devoirs. Replace-les sur le sein, dans les bras de leur mère ; rétablis ces liens que j'ai brisés, hélas ! sans le vouloir. Quand tu auras déposé leurs corps dans le sein de la terre, fixe-toi dans cette ville : le séjour en sera douloureux sans doute, mais enfin résigne-toi à supporter mes malheurs. Ô mes enfants ! Celui qui vous a fait naître, l'auteur de vos jours, votre père vous a tués ; vous n'avez pas recueilli le fruit de ses travaux, ni joui de cette gloire qu'il vous préparait au prix de tant de peines. Et toi, épouse infortunée, je t'ai fait périr, payant d'un cruel retour ta fidélité à ma couche, le long et pénible exercice des vertus domestiques. Ah ! Malheureuse épouse ! Malheureux enfants ! Malheureux moi-même ! Sort cruel ! Je vais donc m'arracher à vous. Douceur amère de ces derniers embrassements ! Amère nécessité de vivre en compagnie de ces armes ! Je ne sais si je dois les emporter ou les laisser ; en retombant sur mon flanc, elles me diront sans cesse : « Par nous tu as fait périr tes enfants et ta femme ; tu portes en nous leurs meurtriers. » Et ma main les reprendrait ? Et pourquoi ? Pourtant, me dépouiller de ces armes, avec lesquelles j'ai accompli tant de hauts faits dans la Grèce, c'est me livrer à mes ennemis, m'exposer à une mort honteuse. Non, il ne faut pas les quitter ; je les garderai, bien qu'à regret. Il est un service que le malheureux Hercule réclame de toi, Thésée : viens à Argos réclamer avec moi le prix qui m'est dû pour avoir amené Cerbère ; je crains que, seul et livré à la douleur, il ne m'arrive malheur. Ô terre de Cadmus ! Ô peuple de Thèbes ! Rasez vos têtes, mêlez vos larmes, allez au tombeau de ces enfants, pleurez-les et moi avec eux ; nous sommes tous morts à la fois, frappés du même coup par l'impitoyable Junon.
+
+Je ne puis : mes membres refusent de se mouvoir.
+
+Ah ! Que ne puis-je devenir pierre et perdre ainsi le souvenir de mes maux !
+
+Crains seulement que je ne tache de sang tes vêtements.
+
+Je n'ai plus d'enfants, et tu me tiens lieu de fils.
+
+Vrai couple d'âmes ! Mais l'un d'eux est bien malheureux. Ô vieillard, c'est ainsi qu'il faut avoir un ami.
+
+Thésée, retournons sur nos pas, pour que je voie mes enfants.
+
+Je veux les voir et les presser contre mon sein paternel.
+
+Tous mes maux passés n'égalaient pas ceux que je souffre aujourd'hui.
+
+En vivant, je m'abaisse à tes yeux ; mais autrefois tu me jugeais autrement.
+
+Qu'étais-tu toi-même, au temps de ton malheur, dans les Enfers ?
+
+Pourquoi dire alors que je succombe à mes malheurs ?
+
+Adieu, vieillard !
+
+Ensevelis, comme je te l'ai dit, mes enfants.
+
+Moi.
+
+Quand tu auras enseveli mes enfants.
+
+Je te ferai venir de Thèbes à Athènes. Mais donne la sépulture à ces corps : douloureux office ! Et moi, qui par d'infâmes attentats ai ruiné ma maison, je suivrai Thésée comme un navire désemparé. Quiconque désire posséder la richesse ou la puissance plutôt qu'un ami fidèle est mal inspiré.
+
+
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
+Je viens, suivi d'une troupe de guerriers Athéniens qui m'attendent sur les bords de l'Asopus, prêter à ton fils, ô vieillard, le secours de ma lance. Car le bruit s'est répandu, dans la terre d'Erechthée, que Lycus s'est emparé du sceptre de ce pays et s'apprête à vous faire la guerre. Voulant témoigner ma reconnaissance à Hercule, qui m'a ramené sain et sauf des Enfers, je viens mettre à votre service, vieillard, mon bras et mes amis... Hein ! Pourquoi le sol est-il jonché de ces cadavres ? Suis-je en retard, et des malheurs récents ont-ils précédé mon arrivée ? Qui a tué ces enfants ? Quel est l'époux de cette femme que je vois ? Sans doute ces enfants ne prennent point part aux combats, et je suis sur la trace de quelque autre malheur extraordinaire.
+
+Que signifie ce lugubre début ?
+
+Qui sont ces enfants sur qui tu verses des larmes ?
+
+Prononce des paroles de bon augure.
+
+Ce que tu dis là est atroce.
+
+Que dis-tu ? Comment a-t-il commis cet attentat ?
+
+Le coup part de Junon. Mais dis-moi, vieillard, quel est cet homme étendu au milieu des morts ?
+
+Hélas ! Hélas ! Fut-il jamais un mortel aussi malheureux ?
+
+Pourquoi voile-t-il sa tête infortunée ?
+
+Mais je suis venu pour m'associer à sa douleur : découvre-le.
+
+Écoute-moi, infortuné, qui t'obstines à garder cette triste attitude, et laisse voir ton visage à tes amis. Il n'est point, en effet, de ténèbres assez noires pour cacher ton malheur. Pourquoi étendre la main et me montrer cette scène de carnage ? Crains-tu pour moi le contact pernicieux de tes paroles ? Ah ! Il ne m'en coûte pas de m'associer à ta peine, car j'ai été heureux naguère, et je dois me reporter au temps où tu m'as tiré des enfers et ramené à la lumière. Je hais ces faux amis chez qui vieillit la reconnaissance, qui veulent bien avoir leur part de bonheur, mais refusent, le malheur venu, de continuer le voyage avec leurs amis. Allons, lève-toi, découvre cette tête malheureuse, jette les yeux sur nous. Un mortel généreux doit supporter, doit accepter les maux que les dieux lui envoient.
+
+On me l'a dit, et le malheur dont tu me parles est sous mes yeux.
+
+Pourquoi ne la montrerais-tu pas ? Mortel, profanes-tu la divinité ?
+
+Un ami n'a rien à craindre de la part d'un ami.
+
+Et moi, que tu as obligé naguère, je te plains aujourd'hui.
+
+Je pleure sur le changement de fortune qui t'accable.
+
+Ton infortune s'étend de la terre jusqu'au ciel.
+
+Crois-tu que les dieux s'inquiètent de tes menaces ?
+
+Arrête. crains que ce langage arrogant n'aggrave tes maux.
+
+Que veux-tu faire ? Où se laisse emporter ton âme ?
+
+Tu tiens le langage d'un homme vulgaire.
+
+Est-ce Hercule qui parle ainsi, lui qui supporta tant d'épreuves !
+
+Le bienfaiteur des mortels, leur ami dévouée !
+
+La Grèce ne souffrira pas que tu meures pour expier ton aveuglement.
+
+Non, le coup ne part point d'une autre divinité : c'est l'épouse de Jupiter qui te frappe ; tu l'as bien compris. (Je sais qu'il est plus aisé de donner des avis que de souffrir.) Point d'hommes à qui ne se fassent sentir les atteintes de la fortune ; point de dieux même, si les récits des poètes ne sont pas menteurs. N'ont-ils pas formé entre eux des unions que nulle loi n'autorise ? N'ont-ils pas, pour régner, chargé leurs pères de liens honteux ? Et cependant ils continuent d'habiter l'Olympe, et les fautes qu'ils ont commises ne leur pèsent point. Eh bien ! Que diras-tu, toi qui es mortel, si tu supporter impatiemment les coups du sort, tandis que les dieux s'y résignent ? Quitte donc Thèbes, puisque la loi t'y oblige, et suis-moi dans la cité de Pailas. Là, quand tu auras purifié tes mains du sang qui les souille, je te donnerai une place à mon foyer, une part de ma fortune ; et les présents que je tiens de mes concitoyens pour avoir tué le taureau de Crète et sauvé la vie à quatorze adolescents, je te les offrirai. Sur tous les points du pays, des lots de terre m'ont été attribués : ils porteront désormais ton nom tant que tu vivras ; lorsque tu seras descendu chez Pluton, la cité d'Athènes tout entière t'offrira des sacrifices dans des temples élevés en ton honneur. C'est une belle récompense pour des citoyens que d'obtenir de la gloire auprès des Grecs en servant un grand homme. Et moi, je m'acquitterai ainsi avec mon sauveur : car c'est maintenant que tu as besoin d'amis. Tant que les dieux honorent un mortel, à quoi bon les amis ? L'appui des dieux lui suffit, quand ils veulent le servir.
+
+Lève-toi, malheureux : c'est assez de larmes.
+
+C'est que le malheur abat même les plus forts.
+
+Calme-toi, et donne la main à un ami qui est tout à ton service.
+
+Essuie ce sang, tu le peux ; je ne m'en mets point en peine.
+
+Passe ton bras autour de mon cou, je guiderai tes pas.
+
+Si tu goûtes cette consolation, en seras-tu plus léger ?
+
+Ainsi tu perds le souvenir de tes travaux.
+
+Si l'on te voit montrer cette faiblesse, on te blâmera.
+
+Qu'est devenu le grand Hercule ?
+
+Si tu veux connaître l'état de mon coeur, j'étais le plus faible des hommes.
+
+Avance.
+

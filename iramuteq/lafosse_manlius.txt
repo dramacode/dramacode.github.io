@@ -1,273 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1698
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_servilius
 
--*who_manlius
-D'un tel secret, Albin, tu connais l'importance,
-Et ton zèle éprouvé me répond du silence.
-Mon courroux à tes yeux peut, sans crainte, éclater.
-Justes dieux ! Quand viendra le temps d'exécuter ?
-Quand pourrai-je à la fois punir tant d'injustices,
-Dont ces tyrans de Rome ont payé mes services ?
-Oui, je rends grâce, Albin, à leur inimitié,
-Qui, me débarrassant d'une vaine pitié,
-Fait que de ma grandeur sur leur perte fondée,
-Sans scrupule, aujourd'hui j'envisage l'idée.
-Car enfin dans mes voux tant de fois démenti,
-Quand du peuple contre eux j'embrassai le parti,
-Je voulais seulement, leur montrant ma puissance,
-À me mieux ménager contraindre leur prudence.
-Mais après les affronts, dont ils m'ont fait rougir,
-Ma fureur ne saurait trop tôt, ni trop agir.
-Je veux leur faire voir, par un éclat terrible,
-À quel point Manlius au mépris est sensible ;
-Combien il importait de ne rien épargner,
-Ou pour me perdre, Albin, ou bien pour me gagner.
-
--*who_albin
-Oui, Seigneur ; mais enfin, quelque ardeur qui vous guide,
-Un peuple variable, incertain, et timide,
-Dont le zèle d'abord ardent, impétueux,
-Prête à ses protecteurs un appui fastueux,
-et qui dans le péril tremble, et les abandonne,
-Est-il un sûr garant de l'espoir qu'il vous donne ?
-Vous-même, qui deviez, par cent et cent bienfaits,
-Le croire à votre sort attaché pour jamais,
-Lorsque d'un dictateur l'injuste tyrannie
-Vous fit d'une prison subir l'ignominie
-Tout ce peuple, Seigneur, pour vous-même assemblé,
-De frayeur à sa voix ne fut-il pas troublé ?
-Qui d'eux tous entreprit alors de vous défendre ?
-
--*who_manlius
-Ils ont forcé du moins le sénat à me rendre,
-Leur repentir accroît leur zèle, et mon espoir.
-Mes fers par eux brisés leur montrent leur pouvoir,
-Et que, pour abolir une injuste puissance,
-Tout le succès dépend de leur persévérance.
-Car enfin des efforts qu'ils ont faits jusqu'ici,
-Souvent même sans chefs, combien ont réussi ?
-Ils ont fait des tribuns, dont l'appui salutaire
-À l'orgueil des consuls est un frein nécessaire,
-Aux plus nobles emplois on les voit appelés,
-Les plus fiers des romains par eux sont exilés,
-Ils ont forcé les grands, en leur donnant leurs filles,
-À souffrir avec eux l'union des familles,
-Ils se font partager les terres des vaincus.
-Et que faut-il, Albin, pour les faire oser plus ?
-Que leur montrer un chef dont les soins, le courage
-Soutiennent les efforts où l'ardeur les engage ?
-
--*who_albin
-C'est donc sur cet espoir, Seigneur, qu'à haute voix,
-Partout des sénateurs vous décriez les lois ?
-Quoi ! Ne craignez-vous point qu'une audace si fière
-Ne puisse à leurs soupçons donner trop de lumière ?
-
--*who_manlius
-Non, Albin, leur orgueil qui me brave toujours,
-Croit que tout mon dépit s'exhale en vains discours.
-Ils connaissent trop bien Manlius inflexible.
-Ils me soupçonneraient, à me voir plus paisible.
-En me déguisant moins, je les trompe bien mieux.
-Sous mon audace, Albin, je me cache à leurs yeux,
-Et préparant contre eux tout ce qu'ils doivent craindre,
-J'ai même le plaisir de ne me pas contraindre.
-
--*who_albin
-Je ne vous dis plus rien. Vous avez tout prévu.
-Je crois qu'à tout aussi vos soins auront pourvu.
-Quels présages heureux pour un dessein si juste !
-Cet écueil des gaulois, ce Capitole auguste,
-L'asile de nos dieux, le salut des romains,
-Vous-même y commandez, son sort est en vos mains.
-Et que n'espérer pas du courage et du zèle
-De tant d'amis, armés pour la même querelle ?
-De Rutile, surtout, ce guerrier généreux,
-Qui pressé des arrêts d'un sénat rigoureux,
-Eut, sans vos prompts secours, sans vos soins salutaires
-Fini dans les prisons sa vie et ses misères.
-Et quel bonheur encor, que, sans être attendu,
-Servilius hier se soit ici rendu ?
-Des devoirs d'un ami qu'avec zèle il s'acquitte ?
-À peine, loin de Rome, il apprend dans sa fuite
-Du sénat contre vous l'arrêt injurieux,
-Que, pour vous secourir, il revient en ces lieux.
-En vain l'amour, l'effroi, les pleurs de Valérie
-À son père par lui si hautement ravie,
-En vain tous ses amis ont voulu l'arrêter.
-Et quels transports de joie a-t-il fait éclater
-Lorsqu'en vous embrassant, il s'est vu hors d'alarmes !
-Que pour lui vos desseins doivent avoir de charmes !
-
--*who_manlius
-Il n'en sait rien encor, et je voulais, Albin,
-Sans témoin, avec lui m'en ouvrir ce matin :
-mais l'aurais-tu pensé ? La triste Valérie
-Tremblante pour ses jours, et sur ses pas partie,
-Est dans Rome en secret entrée heureusement,
-Et chez moi, pour le joindre, arrive en ce moment.
-Mais je vais au plutôt, pour cette confidence...
-
--*who_albin
-Quelqu'un vient.
-
-**** *book_ *id_I02 *act_I *date_1698
-
--*who_proculus
-      Pour vous voir Valerius s'avance,
-Seigneur.
-
--*who_manlius
-      Valerius ! Quel important souci
-Oblige ce consul à me chercher ici ?
-Aurait-il su déjà que sa fille enlevée,
-Après Servilius, chez moi fût arrivée ?
-Va, cours les avertir, et qu'ils ne craignent rien.
-Tu chercheras Rutile, après cet entretien.
-
-**** *book_ *id_I03 *act_I *date_1698
-
--*who_valerius
-Je viens savoir de vous, Seigneur, ce qu'il faut croire
-D'un bruit, qui se répand, et blesse votre gloire.
-Servilius, dit-on, dans ces lieux retiré,
-Croit y jouir, par vous, d'un asile assuré.
-Il ose se flatter que, contre ma vengeance,
-Vous voudrez bien vous-même embrasser la défense.
-
--*who_manlius
-Oui, Seigneur, il est vrai qu'il ose s'en flatter.
-Je prendrais pour affront que l'on en pût douter.
-Je sais me garantir de cette erreur commune
-De trahir mes amis trahis par la fortune,
-Régler sur son caprice et ma haine et mes voux.
-Ce qu'il a fait, Seigneur, vous semble un crime affreux.
-C'est ce qu'on ne voit pas, avec tant d'évidence,
-Lorsqu'on met un moment ses raisons en balance ;
-Mais quoi qu'il en puisse être enfin, par quelle loi,
-Criminel envers vous, doit-il l'être envers moi ?
-
--*who_valerius
-Par cette loi, Seigneur, des plus grands cours chérie,
-De n'avoir point d'amis plus chers que la patrie.
-De sacrifier tout au maintien de ses droits.
-Votre ami par son crime en a blessé les lois.
-À vos yeux comme aux miens il est par là coupable.
-Jusqu'à quand voulez-vous, si prompt, si secourable,
-Sans vous inquiéter de nos soupçons secrets,
-De tous les mécontents prendre les intérêts ?
-Les combler de faveurs ? Ordinaire industrie
-De qui veut à ses lois asservir sa patrie.
-
--*who_manlius
-Et quel moyen, Seigneur, de guérir vos soupçons ?
-Où sont de vos frayeurs les secrètes raisons ?
-Dois-je pour ennemis prendre tous ceux, qu'offense
-D'un sénat inhumain l'injustice violence ?
-Et suis-je criminel quand, par un doux accueil,
-J'apaise leur courroux qu'irrite son orgueil ?
-C'est moi, c'est mon appui qui les conserve à Rome.
-Vous demandez d'où vient qu'un romain, un seul homme,
-Des misères d'autrui soigneux de se charger,
-Offre à tous une main prompte à les soulager.
-D'une pitié si juste est-ce à vous de vous plaindre ?
-Si c'est une vertu qu'en moi l'on doive craindre,
-Si du peuple, par elle, on se fait un appui,
-Pourquoi suis-je le seul qui l'exerce aujourd'hui ?
-Que ne m'enviez-vous un si noble avantage ?
-Pourquoi chacun de vous, pour être exempt d'ombrage,
-Ne s'efforce-t-il pas, par les mêmes bienfaits,
-De gagner, d'attirer les amis qu'ils m'ont faits ?
-Ne peut-on du sénat apaiser les alarmes,
-Qu'en affligeant le peuple, en méprisant ses larmes ?
-L'avarice, l'orgueil, les plus durs traitements,
-Du salut d'un état sont-ils les fondements ?
-Mes bienfaits vous font peur ? Et, d'un esprit tranquille,
-Vous regardez l'excès du pouvoir de Camille.
-À l'armée, à la ville, au Sénat, en tous lieux,
-De charges, et d'honneurs on l'accable, à mes yeux.
-De la paix, de la guerre il est lui seul l'arbitre.
-Ses collègues soumis, et contents d'un vain titre,
-Entre ses seules mains laissant tout le pouvoir,
-Semblent à l'y fixer exciter son espoir.
-D'où vient tant de respect, d'amour pour sa conduite ?
-Des Gaulois à son bras vous imputez la fuite.
-Vos éloges flatteurs ne parlent que de lui.
-Mais que deveniez-vous, avec ce grand appui,
-Si dans le temps que Rome aux barbares livrée,
-Ruisselante de sang, par le feu dévorée,
-Attendait ses secours loin d'elle préparés,
-Du capitole encore ils s'étaient emparés ?
-C'est moi qui, prévenant votre attente frivole,
-Renversai les Gaulois du haut du capitole.
-Ce Camille si fier ne vainquit, qu'après moi,
-Des ennemis déjà battus, saisis d'effroi.
-C'est moi qui, par ce coup préparai sa victoire,
-et de nombreux secours eurent part à sa gloire.
-La mienne est à moi seul, qui seul ai combattu,
-Et quand Rome empressée honore sa vertu,
-Ce sénat, ces consuls sauvés par mon courage,
-Ou d'une mort cruelle, ou d'un vil esclavage,
-M'immolent sans rougir, à leurs premiers soupçons,
-Me font de mes bienfaits gémir dans les prisons,
-De mille affronts enfin flétrissent, pour salaire,
-La splendeur de ma race et du nom consulaire.
-
--*who_valerius
-Seigneur, de nos motifs, injustes à vos yeux,
-Avec moins de chaleur, vous pourriez juger mieux.
-Si Camille aujourd'hui ne nous fait point d'ombrage,
-Nous voyons tous quel zèle anime son courage,
-Que suivre ses conseils du succès assurés,
-C'est obéir aux dieux, qui les ont inspirés.
-Avons-nous à rougir de cette obéissance,
-Par qui croît notre gloire, et notre indépendance ?
-N'est-ce pas là le but d'un cour vraiment romain ?
-Lorsqu'on nous y conduit, qu'importe quelle main ?
-Vous avez même ardeur pour l'état, pour sa gloire.
-Vos desseins sont pareils, et je veux bien le croire.
-Mais à parler sans fard, est-ce sans fondement
-Que Rome inquiétée en jugeait autrement ?
-Et quels soupçons sur tout ne dût pas faire naître
-Ce jour, où devant nous forcé de comparaître,
-Votre parti nombreux, et celui du Sénat
-Semblaient deux camps armés résolus au combat :
-Quels flots de sang romain s'allaient alors répandre,
-Si jusqu'au bout le peuple eut osé vous défendre ?
-On croyait que vos soins, réglés sur ce succès,
-À tout parti suspect fermeraient tout accès.
-Mais de Servilius appuyant l'insolence...
-
--*who_manlius
-Pour vous parler, Seigneur, je le vois qui s'avance.
-Peut-être, en l'écoutant, un sentiment plus doux
-Prendra dans votre cour la place du courroux.
-Je vous laisse tous deux.
-
-**** *book_ *id_I04 *act_I *date_1698
-
--*who_valerius
-      Que me veut ce perfide ?
-
--*who_servilius
 Seigneur, si votre aspect m'étonne et m'intimide,
 Je sais trop à quel point je vous suis odieux.
 J'en fait tout mon malheur, j'en atteste les dieux.
 Pour en finir le cours je viens ici me rendre.
 Sans colère un moment, voulez-vous bien m'entendre ?
 
--*who_valerius
-Et quel est ton espoir ? Qu'oses-tu souhaiter ?
-Moi, que tranquillement je puisse t'écouter ?
-Moi, j'oublierais ce jour, où, préparant ta fuite,
-Trop sûr d'être avoué de ma fille séduite,
-Jusqu'aux pieds des autels, ton amour furieux
-Vint, des bras d'un époux l'enlever à mes yeux ?
-Par quel ressentiment, par quel cruel supplice
-Devrais-je...
-
--*who_servilius
       Hé ! Pouviez-vous, avec quelque justice,
 De mon rival, Seigneur, récompenser la foi
 D'un prix, que vous saviez qui n'était dû qu'à moi ?
@@ -286,23 +26,6 @@ Et par votre refus au désespoir réduit,
 Mon bras, contre un rival superbe et téméraire,
 Fit ce que les gaulois contre eux m'avaient vu faire.
 
--*who_valerius
-Ainsi donc tu croyais, la sauvant des gaulois,
-Te faire une raison de m'imposer des lois.
-Tu prétendais, en eux, triompher de moi-même,
-Et sur mes droits détruits fonder ton droit suprême.
-Car enfin de quel fruit tes soins sont-ils pour moi ?
-Je la perdais par eux, et je la pers par toi.
-Aux voux d'un autre en vain ma foi l'avait promise.
-Sur eux comme sur moi tu crois l'avoir conquise.
-Tu me traites enfin en ennemi vaincu.
-Pour me donner ce nom, que me reproches-tu ?
-Si ma promesse ailleurs engageant Valérie,
-Donne un sujet de plainte à ta flamme trahie,
-Sa soeur que je t'offrais, mon appui, mes bienfaits,
-De mes mépris pour toi sont-ils donc les effets ?
-
--*who_servilius
 Ah ! Sur moi vos bienfaits avaient beau se répandre.
 Vous m'ôtiez plus, Seigneur, qu'ils ne pouvaient me rendre.
 Valérie avait seule, et mon cour, et mes voux.
@@ -318,40 +41,12 @@ Plus l'oubli de mon crime est pour vous glorieux.
 Vos aïeux et les miens, que cet hymen assemble
 Peuvent sans honte...
 
--*who_valerius
-      Hé bien ? Parlons d'accord ensemble.
-Veux-tu faire un effort digne de m'apaiser ?
-
--*who_servilius
 Pour un bonheur si grand, que puis-je refuser ?
 Parlez, Seigneur, parlez.
 
--*who_valerius
-      Ta valeur, ta naissance,
-Peuvent faire, il est vrai, chérir ton alliance.
-Mais je la tiens coupable, et ne te connais plus,
-Depuis que l'amitié t'unit à Manlius,
-À ce superbe esprit, suspect à sa patrie,
-Sois si tu veux fidèle à flatter sa furie :
-Mais dégage mon sang du sort, et des forfaits,
-Où pourraient quelque jour t'entraîner ses projets.
-Romps aujourd'hui de gré, ce que tu fis de force.
-Entre ma fille et toi, souffre enfin un divorce :
-Ou pour mieux m'expliquer, choisi dès aujourd'hui
-Manlius sans ma fille, ou ma fille sans lui.
-Vois de ces deux partis celui qui te peut plaire.
-Tu ne peux qu'à ce prix désarmer ma colère.
-
--*who_servilius
 Si votre offre un moment avait pu m'ébranler,
 De ce fer, à vos yeux, je voudrais m'immoler.
 
--*who_valerius
-C'en est assez. Adieu.
-
-**** *book_ *id_I05 *act_I *date_1698
-
--*who_servilius
       Moi, pour fuir ta furie,
 Moi, trahir Manlius, ou perdre Valérie ?
 Barbare ! Ce dessein passe tous tes efforts.
@@ -363,17 +58,6 @@ Qu'ils puissent... mais je vois Valérie avancer.
 Ô justes dieux ! Témoins de ma flamme immortelle,
 Jugez-en à sa vue, ai-je trop fait pour elle ?
 
-**** *book_ *id_I06 *act_I *date_1698
-
--*who_valerie
-Hé bien ? Vous avez vu mon père en ce moment.
-De tout votre entretien quel est l'événement ?
-Sa grâce, et son aveu, sur l'hymen qui nous lie,
-Comblent-ils à la fin les voux de Valérie ?
-Mais quel est le chagrin qui paraît dans vos yeux ?
-Quel malheur...
-
--*who_servilius
       Voyez-vous ces murs si glorieux,
 Où tant de grands héros ont reçu la naissance,
 Où la faveur des dieux fait sentir leur présence,
@@ -384,29 +68,6 @@ Nous n'avons plus de part à son sort l'un ni l'autre ;
 Son aspect désormais ne nous est plus permis,
 Et notre espoir n'est plus que chez ses ennemis.
 
--*who_valerie
-Je vous entends, Seigneur, rien ne fléchit mon père.
-Il faut, en quittant Rome, éviter sa colère.
-Mais j'en suis peu surprise. Ô destins rigoureux !
-Le sort d'une mortelle eut été trop heureux.
-Cependant hâtons-nous, prévenons la tempête,
-Dont ses ressentiments menacent votre tête.
-Par un plus long séjour cessons de l'irriter.
-Rien ne doit plus, Seigneur, ici nous arrêter.
-Quelques malheurs sur nous que le destin assemble,
-Nous souffrons, mais unis, nous fuyons, mais ensemble,
-Tous lieux sont pleins d'attraits aux cours qui s'aiment bien,
-Et peut-on être heureux, sans qu'il en coûte rien ?
-Manlius, délivré d'une prison cruelle,
-N'a plus ici, Seigneur, besoin de votre zèle.
-Quitte envers un ami chéri si tendrement,
-L'un à l'autre aujourd'hui rendons-nous pleinement.
-D'un séjour si suspect, allons, fuyons la vue.
-Venez. Que de ma foi la vôtre convaincue
-Apprenne qu'avec vous mon cour trouve en tous lieux
-Sa gloire, son bonheur, sa patrie, et ses dieux.
-
--*who_servilius
 Ô cour vraiment fidèle ! Ô vertu que j'adore !
 Quel exil avec vous peut m'affliger encore ?
 Quel bien me peut manquer ? Je conserve, pour vous,
@@ -420,13 +81,6 @@ Mais voyons, avant tout, un ami qui me reste,
 Et dans notre embarras, dont ses yeux sont témoins,
 Demandons-lui tous deux ses avis et ses soins.
 
-**** *book_ *id_II01 *act_II *date_1698
-
--*who_manlius
-Non, je n'approuve point cette seconde fuite,
-Ami. Ton sort changé doit changer ta conduite.
-
--*who_servilius
 Et quel motif secret te fait me condamner ?
 Crois-tu qu'avec plaisir je vais t'abandonner ?
 Que, bornant tous mes voux à plaire à Valérie,
@@ -442,34 +96,8 @@ Peut, contre leur pouvoir, m'assurer un asile,
 Dois-je dans les périls d'un amour malheureux
 Engager, sans besoin, un ami généreux ?
 
--*who_manlius
-Mais en fuyant ces lieux, fuiras-tu ta fortune ?
-Où prétends-tu traîner une vie importune ?
-Quelle ressource encore y pourras-tu trouver ?
-Sais-tu dans le sénat ce qui vient d'arriver ?
-Jusqu'où Valerius a porté sa colère ?
-
--*who_servilius
 Non. Et qu'a-t-il donc fait ?
 
--*who_manlius
-      Tout ce qu'il pouvait faire.
-C'est peu, pour t'accabler, que le sénat cruel
-Te condamne aux rigueurs d'un exil éternel ?
-Pour te faire un tourment du jour que l'on te laisse,
-Tes biens te sont ravis, tes titres, ta noblesse,
-Ta maison, dont bientôt les trésors précieux
-Vont être le butin du soldat furieux,
-Et qui par mille mains aussitôt démolie
-Va dans ses fondements tomber ensevelie.
-Pour remplir cet arrêt, déjà l'ordre est donné.
-Le fier Valerius lui-même l'a signé.
-En un mot tu pers tout, et dans ce sort funeste
-Juge, s'il te suffit de partager le reste
-Des biens, qu'avec mon sang versé dans les combats,
-J'ai prodigue en vain, en servant ces ingrats.
-
--*who_servilius
 Ainsi, père cruel, ainsi ta barbarie,
 En éclatant sur moi, tombe sur Valérie.
 Son sort au mien uni devait... Ah Manlius !
@@ -485,58 +113,12 @@ Et pardonne de grâce à cette lâcheté,
 Qui, me faisant prévoir tant d'affreuses alarmes,
 Dans ton sein généreux me fait verser de larmes.
 
--*who_manlius
-Des larmes ! Ah plutôt, par tes vaillantes mains,
-Soient noyés dans leur sang ces perfides romains.
-Des larmes ! Jusques là ta douleur te possède !
-Il est, pour la guérir, un plus noble remède,
-Un privilège illustre, un des droits glorieux,
-Qu'un homme, tel que toi, partage avec les dieux,
-La vengeance. Ma main secondera la tienne.
-Notre sort est commun. Ton injure est la mienne.
-C'est à moi qu'on s'adresse, et dans Servilius
-On croit humilier l'orgueil de Manlius.
-Unissons, unissons dans la même vengeance
-Ceux, qui nous ont unis dans une même offense.
-De tant d'affronts cruels vengeons notre vertu.
-Perdons, et sénateurs, et consuls.
-
--*who_servilius
       Que dis-tu ?
 Dans ce discours obscur, ta voix, et ton visage
 Relèvent mon espoir, raniment mon courage.
 Tu sembles méditer quelque important projet :
 Achève, achève, ami, de m'ouvrir ton secret.
 
--*who_manlius
-Au même état que moi, ton cour, par sa colère,
-Devrait avoir compris ce que le mien peut faire.
-Apprends donc que bientôt nos tyrans, par leur mort,
-De Rome entre mes mains vont remettre le sort.
-J'ai de braves amis, pour chefs de l'entreprise ;
-Et gagné par mes soins, ou par leur entremise,
-Le peuple a su choisir, pour traiter avec moi,
-Rutile, dont tu sais la prudence et la foi.
-Pour en hâter le temps, trop lent à ma vengeance,
-Je l'ai fait avertir qu'il vînt en diligence.
-Tout me flatte. J'ai su, par l'effet de mes voux,
-Trouver divers moyens, indépendants entre eux,
-Qui peuvent s'entraider, sans pouvoir s'entrenuire,
-Et dont à mon dessein un seul peut me conduire ;
-Et s'il peut s'accomplir, je te laisse à juger
-Ce que mon amitié t'y fera partager.
-Voilà, Servilius, le dessein qui m'anime,
-Sur qui tu dois fonder ton espoir légitime :
-Non qu'il m'aveugle assez, pour me faire penser,
-Qu'un caprice du sort n'ose le renverser.
-Je sais trop quels revers tout à coup il déploie :
-Mais, ne vaut-il pas mieux, ami, que Rome voie
-Manlius périssant, en voulant se venger,
-Que Manlius vivant, qui se laisse outrager ?
-Toi-même, de ton sort vengeant l'ignominie,
-Verrais-tu d'un autre oil la perte de ta vie ?
-
--*who_servilius
 Non non, Manlius, non. Je fais les mêmes voux,
 J'écoute, avec transport, ton dessein généreux,
 Et je tire ce fruit des malheurs de ma vie,
@@ -548,105 +130,14 @@ Du sénat, en plein jour, j'aille briser les portes ?
 Ou renverser sur eux leurs palais embrasés ?
 Tu vois à t'obéir tous mes voux disposés.
 
--*who_manlius
-Je te veux, avant tout, présenter à Rutile.
-Comme il est d'un esprit exact, et difficile,
-Il faudra qu'un serment, où tous se sont soumis,
-De ta foi, dans ses mains, assure nos amis,
-Et tu comprends assez, sans qu'on t'en avertisse,
-Que soigneux de cacher jusqu'au plus faible indice,
-À tous autres après, et tes yeux, et ton front,
-En doivent dérober le mystère profond.
-
--*who_servilius
 Tu me connais trop bien pour craindre qu'un reproche...
 
--*who_manlius
-Laisse-moi lui parler. Je le vois qui s'approche :
-Mais ne t'éloigne pas. Je vais te rappeler.
-
-**** *book_ *id_II02 *act_II *date_1698
-
--*who_manlius
-Enfin il n'est plus temps, Seigneur, de reculer.
-Nous avons par nos soins, et par nos artifices,
-Du sort, autant qu'on peut, enchaîné les caprices.
-Il faut des actions, et non plus des conseils.
-La longueur est funeste à des desseins pareils.
-Peut-être avec le temps mes soins, aidés des vôtres,
-Aux moyens déjà pris en ajouteraient d'autres :
-Mais d'abord qu'une fois on peut, comme à présent,
-En avoir joint ensemble un nombre suffisant,
-De peur qu'un coup du sort les rompe, ou les divise,
-Il faut s'en prévaloir, et tenter l'entreprise.
-Quel temps d'ailleurs, quel lieu s'accorde à nos moyens ?
-Le sénat, déclarant la guerre aux Circeïens,
-Doit, pour la commencer sous un heureux auspice,
-Venir au capitole offrir un sacrifice.
-Quel temps, dis-je, quel lieu propice à nos desseins ?
-Un temps, où tout entier il se livre en nos mains ;
-Un lieu, dont je suis maître, où les portes fermées
-À nos libres fureurs l'exposent sans armées.
-Le jour n'en est pas pris : mais pour s'y préparer,
-Des sentiments du peuple il se faut assurer,
-Il faut contre un sénat, dont il hait la puissance,
-Par nos soins redoublés irriter sa vengeance.
-La peur d'être suspect lui défend de me voir :
-Mais en vos soins, Seigneur, je mets un plein espoir.
-Je sais qu'en nos projets l'ardeur, qui vous inspire,
-Vous saura suggérer tout ce qu'il faudra dire.
-Ce n'est pas tout encor, vous avez su, je crois,
-Qu'hier Servilius est arrivé chez moi,
-Qu'il n'est point de secret que mon cour lui déguise ?
-
--*who_rutile
-Comment ? Par vous, Seigneur, sait-il notre entreprise ?
-
--*who_manlius
-Oui. Quel étonnement...
-
--*who_rutile
-      Je m'explique à regret ;
-Et voudrais étouffer un scrupule secret,
-Si vos desseins trahis n'exposaient que ma vie :
-Mais sur moi de son sort un grand peuple se fie.
-Je dois craindre, Seigneur, en vous marquant ma foi,
-D'immoler son salut à ce que je vous dois.
-Ce n'est point par son sang qu'il faut que je m'acquitte.
-Je connais votre ami. Je sais ce qui l'irrite,
-Qu'il peut, en nous aidant, relever son destin :
-Mais au sang du consul l'hymen l'unit enfin,
-D'un superbe consul, proscrit par notre haine :
-Et quoi qu'à le fléchir il ait perdu de peine,
-Qu'il semble hors d'espoir de le rendre plus doux,
-Est-il un cour si fier, si plein de son courroux,
-Qui refusât, Seigneur, l'oubli de sa vengeance
-À l'aveu d'un secret d'une telle importance ?
-Sur quelques droits puissants que se fonde aujourd'hui
-Cette ferme amitié, qui vous répond de lui,
-L'amour y peut-il moins ? En est-il moins le maître ?
-Que dis-je ? S'il fallait que le hasard fît naître
-Quelque intérêt, qu'entre eux son cour dût décider,
-Pensez-vous que ce fût à l'amour à céder ?
-
--*who_manlius
-Pour faire évanouir ce soupçon qui l'offense,
-Il suffit à vos yeux de sa seule présence.
-Venez Servilius.
-
-**** *book_ *id_II03 *act_II *date_1698
-
--*who_servilius
       Quel destin glorieux,
 Quel bonheur imprévu m'attendait dans ces lieux,
 Seigneur ! Que le dessein, que l'on m'a fait connaître,
 Doit... Mais quelle froideur me faites-vous paraître ?
 Vous serais-je suspect ? Ai-je en vain prétendu...
 
--*who_rutile
-Pourquoi le demander ? Vous m'avez entendu.
-
--*who_servilius
 Oui Seigneur, et bien loin que mon cour s'en offense,
 Moi-même, j'applaudis à votre défiance.
 Moi-même, comme vous, je récuse la foi
@@ -678,27 +169,6 @@ Vous, Seigneur, de ma part, allez-la préparer
 Et daignez maintenant, pour m'épargner ses larmes,
 Lui porter mes adieux, et calmer ses alarmes.
 
-**** *book_ *id_II04 *act_II *date_1698
-
--*who_rutile
-Seigneur, de mes soupçons je reconnais l'erreur,
-Je vois, d'un oeil charmé, votre noble fureur.
-De votre foi, pour nous, c'est le plus sûr otage ;
-Et je n'en voudrais point exiger d'autre gage,
-S'il n'était à propos de prouver cette foi
-À d'autres, qui seraient plus défiants que moi.
-Car enfin, le projet, où s'unit notre zèle,
-Est tel, qu'en vain chacun répond d'un bras fidèle :
-Il ne porte au péril qu'un courage flottant,
-quand lui-même de tous il n'en croit pas autant.
-Cependant pénétré de votre ardeur extrême,
-Je vous laisse, Seigneur, et vous rends à vous-même.
-Consultez Manlius : qu'il choisisse avec vous
-Le poste, où votre bras doit seconder nos coups,
-Tandis que, pour hâter le jour de notre joie,
-Je cours en diligence où son ordre m'envoie.
-
--*who_servilius
 Et moi, pour éviter des chagrins superflus,
 Je fuirai Valérie, et ne la verrai plus.
 Manlius prendra soin d'apaiser sa tristesse ;
@@ -706,21 +176,385 @@ Je bannis loin de moi toute vaine tendresse ;
 Et je veux désormais ne laisser dans mon cour,
 Que l'espoir du succès, qui flatte ma fureur.
 
-**** *book_ *id_II05 *act_II *date_1698
+Oui Sénat, ton orgueil va tomber sous mes coups,
+Et je viens de choisir le poste, où ma furie...
+Mais que vois-je ?
 
--*who_rutile
-Son front et ses discours font voir un grand courage,
-Et pour me rassurer il n'a pu davantage,
-Cependant c'est peut-être un premier mouvement,
-Que fait naître en son cour un vif ressentiment.
-Il n'examine rien, rempli de sa vengeance.
-Allons exécuter notre ordre en diligence ;
-Et revenons d'abord éprouver, si son cour
-Du dessein, qu'il embrasse, a compris la grandeur.
+Eh ? Que prétendez-vous ? Venez-vous dans ces lieux
+Redoubler ma douleur par de tristes adieux ?
+Croyez-vous, par vos pleurs, ébranler ma constance ?
 
-**** *book_ *id_III01 *act_III *date_1698
+Qu'entends-je, Valérie ? Est-ce à moi que s'adresse
+Ce reproche odieux, que fait votre tendresse ?
+Est-ce moi dont l'hymen a glacé les ardeurs ?
+Suis-je enfin ce rebelle insensible à vos pleurs ?
 
--*who_valerie
+      C'est assez, quittons cet entretien,
+Valérie, et sur quel que soit votre empire,
+Respectez un secret, que je ne puis vous dire.
+
+Ah ! Vos bontés pour moi n'ont que trop su paraître,
+Et mon sang est trop peu, pour les bien reconnaître.
+Mais avec tant d'ardeur, pourquoi me demander
+Ce que ma gloire ici ne vous peut accorder ?
+Souffrez que mon devoir borne votre puissance.
+Les secrets, que je cache à votre connaissance,
+Sont tels... mais où se vont égarer mes esprits ?
+Adieu.
+
+      Qui ? Moi ?
+
+      Grands dieux !
+Qu'osez-vous pénétrer ? Savez-vous, Valérie,
+Quel péril désormais menace votre vie ?
+Que votre sûreté dépend à l'avenir,
+D'effacer ce discours de votre souvenir ?
+Par le moindre soupçon pour peu qu'on en apprenne,
+C'est fait de votre vie, ensemble et de la mienne.
+Vous êtes en ces lieux l'otage de ma foi.
+Je le suis de la vôtre.
+
+Ah ! Retenez vos cris. Est-ce là ce grand cour ?
+
+Vous jugez mal de moi. Je cherche, Valérie,
+Moins à venger mes maux, qu'à sauver ma patrie.
+Ce n'est point, pour la perdre, un sanglant attentat,
+Je verse un mauvais sang, pour en purger l'état.
+
+      Par quel destin contraire,
+A-t-elle pénétré ce dangereux mystère ?
+Quel embarras fatal ! Je n'ai pu rien nier.
+C'était un artifice inutile et grossier.
+J'ai dû, pour la contraindre à garder le silence,
+En faire à son amour comprendre l'importance.
+Et que craindre après tout d'un cour tel que le sien ?
+Mais n'ai-je rien moi-même à soupçonner du mien ?
+Quel trouble, en l'écoutant, quelle pitié soudaine,
+Pour nos tyrans proscrits, vient d'ébranler ma haine !
+Qui ? Moi ? Je douterais d'un si juste courroux ?
+Je pourrais... Non, ingrats, non, vous périrez tous.
+L'arrêt en est donné par ma haine immortelle.
+
+Oui. Si près d'accomplir notre grande entreprise,
+Je frémis à vos yeux de joie et de surprise,
+Et mon cour moins ému, ne croirait pas, Seigneur,
+Sentir, autant qu'il doit, un si rare bonheur.
+
+Je vous laisse, Seigneur.
+
+Où m'égaré-je ? Où suis-je ? Et quel désordre extrême
+Guide au hasard mes pas, et m'arrache à moi-même ?
+Quel changement subit ! Ô vengeance ! Ô courroux !
+À mes lâches remords m'abandonnerez-vous ?
+N'est-ce donc qu'à souffrir qu'éclate ma constance ?
+Et faut-il que je tremble à punir qui m'offense ?
+Mais mon courage en vain tâche à se raffermir.
+Ah ! Si le seul récit m'a pu faire frémir,
+Quel serais-je, grands dieux ! Au spectacle terrible
+De tout ce qui peut rendre une vengeance horrible !
+Ah ! Fuyons, dérobons nos mains à ces forfaits.
+Mais où fuir ? En quels lieux te cacher désormais,
+Où dans des flots de sang Rome entière noyée
+Ne s'offre pas sans cesse à ton âme effrayée ?
+En la laissant périr, ne la trahis-tu pas ?
+Et même tes amis, qui contaient sur ton bras ?
+Envers les deux partis ta fuite est criminelle.
+Non, non, pour l'un des deux, il faut fixer ton zèle.
+Pour tenir tes serments, il faut tout immoler ;
+Ou bien, pour sauver Rome, il faut tout révéler.
+Tout immoler. Ton cour marque trop de faiblesse.
+Tout révéler. Ton cour y voit trop de bassesse.
+Tu perdrais tes amis. Hé ! Quel choix feras-tu ?
+Deux écueils opposés menacent ta vertu.
+En se sauvant de l'un, elle périt sur l'autre.
+Ô ! Vous, dont l'équité sert d'exemple à la nôtre,
+Vous, qui de la vertu nous prescrivez les lois,
+Dieux justes, dieux puissants, souffrez-vous cette foi
+Que ce cour, si fidèle à l'honneur qui l'anime,
+Tombe enfin, malgré lui, dans les pièges du crime ?
+
+Comment ?
+
+Qu'entends-je, Valérie ? Et qui me croyez-vous ?
+Tel qu'il faut être ici, pour le salut de tous.
+Je sais à vos amis quel serment vous engage,
+Et vois tout l'embarras, que votre âme envisage,
+Quels noms dans leur colère ils pourront vous donner :
+Mais un si vain égard doit-il vous étonner ?
+Est-ce un crime de rompre un serment téméraire,
+Qu'a dicté la fureur, que le crime a fait faire ?
+Un juste repentir n'est-il donc plus permis ?
+Quoi ? Pour ne pas rougir, devant quelques amis,
+Que séduit et qu'entraîne une aveugle furie,
+Vous aimez mieux rougir devant votre patrie ?
+Devant tout l'univers ? Pouvez-vous justement
+Entre ces deux partis balancer un moment ?
+De l'un et l'autre ici comprenez mieux la suite.
+Si nous ne parlons pas, Rome est par eux détruite.
+Si nous osons parler, quel malheur craignons-nous ?
+Rome entière est sauvée, et leur pardonne à tous ;
+Et quand de ce bienfait consacrant la mémoire,
+Elle retentira du bruit de votre gloire,
+Parmi tous les honneurs qui vous seront rendus,
+Leurs reproches alors seront-ils entendus ?
+Enfin retracez-vous l'épouvantable image
+De tant de cruautés, où votre bras s'engage.
+Figurez-vous, Seigneur, qu'en ces affreux débris
+Des enfants sous le fer vous entendez les cris ;
+Que les cheveux épars, et de larmes trempée,
+Une mère sanglante, aux bourreaux échappée
+Vient, vous montrant son fils qu'elle emporte en ses bras,
+Se jeter à genoux, au devant de vos pas.
+Votre fureur alors est-elle suspendue ?
+Un soldat inhumain l'immole à votre vue :
+Et du fils aussitôt, dont il perce le flanc,
+Fait rejaillir sur vous le lait avec le sang.
+Soutiendrez-vous l'horreur, que ce spectacle inspire ?
+
+Par les dieux immortels, appuis de cet empire,
+Ces mots sont des éclairs, qui passant dans mon cour,
+Y font un jour affreux, qui me remplit d'horreur.
+Vaincu par ma pitié... mais quoi ? Rome inhumaine,
+Tu devrais ton salut aux objets de ta haine !
+Je pourrais d'un ami trahir tous les bienfaits !
+Le forcer... non, mon cour ne l'osera jamais.
+
+Non. Votre amour suffit au bonheur de ma vie.
+Vous seule remplissez tous les voux de mon cour.
+Ah ! Pourquoi, justes dieux un si charmant bonheur
+Ne m'est-il pas donné plus pur et plus paisible ?
+Quels orages y mêle un destin inflexible ?
+
+Ô dieux ! Sans mon aveu, qu'avez-vous entrepris ?
+
+Qu'avez-vous fait, ô ciel ! Par quel reproche horrible
+S'en va me foudroyer leur colère terrible !
+Et que me servira de vous désavouer ?
+Après qu'ils sont trahis, ce serait les jouer.
+Verront-ils pas d'abord que j'ai dû vous apprendre,
+Le secret, que par vous le sénat vient d'entendre,
+Et pourront-ils douter d'un concert entre nous ?
+C'en est fait, Valérie. Évitez leur courroux ?
+Fuyez ce lieu fatal, où va choir la tempête.
+Je ne veux à ses coups exposer que ma tête.
+
+Dans le trouble où je suis, qui vois-je encor paraître ?
+Serait-il averti de ce qui s'est passé ?
+De quel front soutenir son visage offensé ?
+N'importe, demeurons, et dans un tel orage,
+Après notre pitié, montrons notre courage.
+Mais dans quelle pensée est-il enseveli ?
+
+      Oui.
+
+Vous avez méprisé ma juste défiance.
+Tout est su par l'endroit, que j'avais soupçonné.
+C'est par un sénateur de notre intelligence,
+Qu'en ce moment l'avis m'en est donné.
+Fuyez chez les Veïens, où notre sort nous guide :
+Mais pour flatter les maux, où ce coup nous réduit,
+Trop heureux en partant, si la mort du perfide
+De son crime, par vous, lui dérobait le fruit !
+
+      Frappe.
+
+      Tu dois assez m'entendre.
+Frappe, dis-je. Ton bras ne saurait se méprendre.
+
+Oui, je sais que tu peux, par un coup légitime,
+Percer ce traître cour, que je t'offre en victime ;
+Que ma foi démentie a trahi ton dessein.
+
+Il est vrai, Manlius. Peut-être je l'ai dû.
+Peut-être, plus tranquille aurais-tu lieu de croire,
+Que sans moi tes desseins auraient flétri ta gloire ;
+Mais enfin les raisons, qui frappent mon esprit,
+Ne sont pas des raisons à calmer ton dépit,
+Et je conte pour rien, que Rome favorable
+Me déclare innocent, quand tu me crois coupable.
+Je viens donc, par ta main, expier mon forfait.
+Frappe. De mon destin je meurs trop satisfait ;
+Puisque ma trahison, qui sauve ma patrie,
+Te sauve en même temps, et l'honneur, et la vie.
+
+      Et même à tes amis.
+À signer leur pardon le sénat s'est soumis.
+Leurs jours sont assurés...
+
+Quelle confusion, à ce reproche affreux,
+Quelle stupidité suspend ici mes voux !
+Que résoudre ? Il me fuit, comme un monstre funeste.
+Irai-je lui montrer encor ce qu'il déteste ?
+Ô colère trop juste ! ô redoutable voix !
+Noms affreux, entendus pour la première fois !
+Moi lâche ! Moi perfide ! Et je vivrais encore ?
+Moi-même autant que lui je me hais, je m'abhorre.
+Il m'a, contre moi-même, inspiré sa fureur.
+Allons, ne souffrons pas des noms si pleins d'horreur.
+De la nuit du tombeau couvrons-en l'infamie ;
+Et le cherchant, malgré sa colère affermie,
+Forçons-le de douter, en voyant mes efforts,
+Qui l'emporte en mon cour du crime, ou du remords.
+
+Juste ciel !
+
+      Allons nous-même apprendre...
+Mais Valerius vient.
+
+      Que me fait-on entendre ?
+D'où vient que Manlius est par vous arrêté,
+Seigneur, ai-je payé trop peu sa liberté ?
+Cette grâce pour tous n'est-elle pas signée ?
+Le sénat reprend-il sa parole donnée ?
+
+Et moi, c'est ce qu'ici mon âme désavoue.
+Je déteste à jamais ce sénat qui me loue.
+Je lui rends ses faveurs, qu'il m'accorde à moitié.
+Je vous rends à vous-même une vaine amitié.
+J'en fais, et mon malheur, et mon ignominie,
+À Manlius trahi, s'il en coûte la vie.
+Mon dessein n'était pas, en trahissant le sien,
+Ni de vendre son sang, ni d'épargner le mien.
+Pour son propre intérêt, j'ai pris ce soin du vôtre,
+Et ma pitié voulait vous sauver l'un de l'autre.
+Quoi ? De ma trahison, dont le remords me suit,
+N'aurais-je que la honte ? Auriez-vous tout le fruit ?
+Perdrais-je tout moi seul, en sauvant tout l'empire ?
+
+      Dans quelle inquiétude
+De ce discours obscur me met l'incertitude !
+Le sénat voudrait-il... mais en peux-tu douter ?
+Sur ce qu'on voit de toi, te doit-on respecter ?
+Tu trompes tes amis, tes ennemis te trompent,
+Et toi-même as rompu les mêmes nouds, qu'ils rompent.
+Ainsi donc Manlius m'imputant son trépas,
+Je verrais... mais du moins ne l'abandonnons pas.
+Pour défendre ses jours, souffrons encor la vie ;
+Et soit que le succès seconde mon envie,
+Soit qu'il trompe me soins, après son sort réglé,
+Expirons aussitôt à ma gloire immolé
+Sur tout dans le tombeau n'emportons pas sa haine,
+Et tâchons... mais voici d'où naît toute ma peine.
+
+      Oses-tu bien encor te montrer à ma vue ?
+Ne vois-tu pas ici le péril que tu cours ?
+
+      Où m'ont réduit tes funestes discours ?
+Où Manlius est-il ? Qu'en as-tu fait, perfide ?
+Tu trembles vainement du courroux qui me guide.
+Avant ta trahison, il y fallait songer.
+Dans les derniers malheurs tu viens de le plonger.
+Arrêté, menacé, comblé d'ignominie,
+Son espoir le plus doux est de perdre la vie.
+De sa haine à jamais tu m'as rendu l'objet :
+Mais enfin, quand je suis entré dans son projet,
+De la foi de tous deux je t'ai faite l'otage,
+Et de sa sûreté ta vie était le gage.
+Tu l'as trahi, tes soins pour Rome ont réussi.
+Que tarde ma fureur de le venger aussi ?
+
+Moi, te percer le cour ? Ah ! Rends-moi donc le mien
+Tel que je te l'offris, pour mériter le tien,
+Fidèle à ses serments, généreux, intrépide.
+Tu n'en as fait hélas ! Qu'un lâche, qu'un perfide,
+Et quoique lui conseille un si juste courroux,
+Lui-même il est l'asile, où tu brave mes coups.
+Que dis-je ? En ce moment, les dieux, sur ton visage,
+Ont imprimé leurs traits, que respecte ma rage,
+Ou des romains, par toi conservés en ce jour,
+Le démon tutélaire est le tien à son tour.
+Hé bien c'est donc à toi qu'il faut que je m'adresse.
+Par tout ce que pour toi mon cour sent de tendresse,
+Par tes yeux, par tes pleurs, dont le pouvoir charmant
+Sait si bien dérober le crime au châtiment,
+En faveur d'un ami, montre encor ta puissance ;
+Et tandis que je vais parler en sa défense,
+Avant que le sénat ait pu rien arrêter,
+À ton père cruel va, cours te présenter.
+Tombe, pleure à ses pieds. Fais à ce cour rebelle
+Sentir pour nos malheurs une pitié nouvelle.
+Que par lui du sénat s'apaise le courroux.
+Qu'enfin Manlius vive, ou nous périrons tous.
+
+Je t'entends. Mais on vient.
+
+Va, je te servirai, par-delà tes souhaits.
+
+Oui, c'en est fait, il faut effacer pour jamais
+Le reproche odieux, dont ma gloire est flétrie ;
+Il faut que l'avenir... mais je vois Valérie,
+Armons-nous à ses yeux d'un cour ferme, et constant,
+Voici pour mon amour le plus affreux instant.
+
+      Je le savais ; mais enfin, Valérie,
+De mes ressentiments ne craint plus la furie.
+J'ai fléchi Manlius, mon crime était le tien,
+Et tu dois partager le pardon que j'obtiens.
+Je rends grâce aux efforts que, sur le cour d'un père,
+Pour sauver cet ami, ton zèle vient de faire,
+Daigne excuser aussi l'éclat de mes fureurs.
+Tu le vois, le destin a pouvoir sur les cours.
+Il sait, des plus unis troublant l'intelligence,
+Leur faire, quand il veut, sentir leur dépendance.
+Mais de tes pleurs enfin, retiens ici le cours,
+D'une âme raffermie, écoute mon discours.
+Montre un courage ici digne de ta naissance.
+
+      Ressouviens-toi de ce malheureux jour,
+Où la haine des dieux alluma notre amour.
+
+      Quoi ? Déjà ton courage... ?
+
+Cet amour insensé ne regardait que soi
+Il ne prévoyait pas les malheurs que sur toi,
+Déploieraient les destins, depuis ce jour sinistre,
+Et qu'il devait lui-même en être le ministre,
+Qu'il te ferait quitter un sort tranquille, heureux,
+Pour attacher tes jours à mon sort rigoureux ;
+Que par lui, que pour lui, tu te verrais réduite
+Aux affronts de l'exil, aux travaux de la fuite,
+Et qu'enfin aujourd'hui des transports inhumains,
+Contre ton propre sang, exciteraient mes mains.
+
+D'un malheureux ami tu comprends le danger,
+Le conseil des tribuns est prêt à le juger
+Je vais, aux yeux de tous, y prendre sa défense.
+Mais si l'événement trompe mon espérance,
+C'est à toi, Valérie, après tant de travaux,
+À perdre, sans regret, l'auteur de tous tes maux.
+Adieu.
+
+
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valerie
+
+Hé bien ? Vous avez vu mon père en ce moment.
+De tout votre entretien quel est l'événement ?
+Sa grâce, et son aveu, sur l'hymen qui nous lie,
+Comblent-ils à la fin les voux de Valérie ?
+Mais quel est le chagrin qui paraît dans vos yeux ?
+Quel malheur...
+
+Je vous entends, Seigneur, rien ne fléchit mon père.
+Il faut, en quittant Rome, éviter sa colère.
+Mais j'en suis peu surprise. Ô destins rigoureux !
+Le sort d'une mortelle eut été trop heureux.
+Cependant hâtons-nous, prévenons la tempête,
+Dont ses ressentiments menacent votre tête.
+Par un plus long séjour cessons de l'irriter.
+Rien ne doit plus, Seigneur, ici nous arrêter.
+Quelques malheurs sur nous que le destin assemble,
+Nous souffrons, mais unis, nous fuyons, mais ensemble,
+Tous lieux sont pleins d'attraits aux cours qui s'aiment bien,
+Et peut-on être heureux, sans qu'il en coûte rien ?
+Manlius, délivré d'une prison cruelle,
+N'a plus ici, Seigneur, besoin de votre zèle.
+Quitte envers un ami chéri si tendrement,
+L'un à l'autre aujourd'hui rendons-nous pleinement.
+D'un séjour si suspect, allons, fuyons la vue.
+Venez. Que de ma foi la vôtre convaincue
+Apprenne qu'avec vous mon cour trouve en tous lieux
+Sa gloire, son bonheur, sa patrie, et ses dieux.
+
 Non, rien ne peut calmer le trouble qui m'agite.
 D'où vient que, sans me voir, Servilius me quitte ?
 Qu'un autre vient, pour lui, me porter ses adieux ?
@@ -733,18 +567,6 @@ Mais quelque espoir me reste, et fait que je respire.
 Il est chez Manlius. On vient de te le dire.
 Je veux le voir sortir, je veux l'attendre ici.
 
--*who_tullie
-Madame, quel sujet vous peut troubler ainsi !
-Craignez-vous qu'un héros si grand, si magnanime
-Vous veuille abandonner au sort, qui vous opprime ?
-Connaissez-vous si mal un cour si généreux ?
-Ah ! Perdez des frayeurs indignes de ses feux.
-De sa fidélité vos malheurs sont un gage.
-Et comment pouvez-vous en prendre tant d'ombrage,
-Vous, qui si hautement, faites voir en ce jour,
-Que le sort ne peut rien contre un parfait amour ?
-
--*who_valerie
 Déjà, sur ces raisons j'ai condamné ma crainte :
 Mais à peine mon cour en repousse l'atteinte,
 Que troublant le repos qu'il commence à goûter,
@@ -752,28 +574,10 @@ D'autres soupçons affreux le viennent agiter.
 Je ne saurais plus vivre en ce cruel supplice,
 Tullie. Avant qu'il parte, il faut qu'il m'éclaircisse.
 
--*who_tullie
-J'entends ouvrir. C'est lui, Madame.
-
--*who_valerie
       Laisse nous.
 
-**** *book_ *id_III02 *act_III *date_1698
-
--*who_servilius
-Oui Sénat, ton orgueil va tomber sous mes coups,
-Et je viens de choisir le poste, où ma furie...
-Mais que vois-je ?
-
--*who_valerie
       Ah, Seigneur, vous fuyez Valérie ?
 
--*who_servilius
-Eh ? Que prétendez-vous ? Venez-vous dans ces lieux
-Redoubler ma douleur par de tristes adieux ?
-Croyez-vous, par vos pleurs, ébranler ma constance ?
-
--*who_valerie
 Non, Seigneur, je n'ai plus de si haute espérance.
 Il est vrai, jusqu'ici, charmé de ses liens,
 Votre cour à mes voux soumettaient tous les siens,
@@ -786,13 +590,6 @@ Percer le ciel de cris, me noyer dans mes larmes,
 Et montre en m'affligeant un courage affermi,
 Plus que s'il se vengeait d'un cruel ennemi.
 
--*who_servilius
-Qu'entends-je, Valérie ? Est-ce à moi que s'adresse
-Ce reproche odieux, que fait votre tendresse ?
-Est-ce moi dont l'hymen a glacé les ardeurs ?
-Suis-je enfin ce rebelle insensible à vos pleurs ?
-
--*who_valerie
 Non, vous ne l'êtes plus, lorsque je vous écoute.
 Je ne puis plus sur vous conserver aucun doute.
 Votre aspect rend le calme à mon cour agité :
@@ -802,12 +599,6 @@ Quand je ne pourrai plus vous voir ny vous entendre.
 Tout prêt à me quitter, ne me déguisez rien.
 Dites-moi...
 
--*who_servilius
-      C'est assez, quittons cet entretien,
-Valérie, et sur quel que soit votre empire,
-Respectez un secret, que je ne puis vous dire.
-
--*who_valerie
 Eh ? Que pouvez-vous craindre ? Ah ! Connaissez-moi mieux,
 Et que mon sexe ici ne trompe point vos yeux.
 Ne me regardez point comme une âme commune,
@@ -823,27 +614,12 @@ Et de quoi que le ciel menace l'un et l'autre,
 Pour vous je puis sans peine en braver tous les coups,
 Ou bien les partager, s'il le faut, avec vous.
 
--*who_servilius
-Ah ! Vos bontés pour moi n'ont que trop su paraître,
-Et mon sang est trop peu, pour les bien reconnaître.
-Mais avec tant d'ardeur, pourquoi me demander
-Ce que ma gloire ici ne vous peut accorder ?
-Souffrez que mon devoir borne votre puissance.
-Les secrets, que je cache à votre connaissance,
-Sont tels... mais où se vont égarer mes esprits ?
-Adieu.
-
--*who_valerie
       Vous me fuyez en vain. J'ai tout compris.
 Nôtre départ remis, votre fureur secrète,
 Dont cet air sombre et fier m'est un sûr interprète,
 Votre ardeur à me fuir, contre vous tout fait foi.
 Vous voulez vous venger de mon père.
 
--*who_servilius
-      Qui ? Moi ?
-
--*who_valerie
 Vous même. Vainement vous me le voulez taire.
 Mon amour inquiet de trop près vous éclaire.
 Rutile et Manlius, pour qui vous me fuyez,
@@ -857,26 +633,10 @@ Marquent d'autres desseins, que la perte d'un homme,
 De ses affronts récents, encor tout furieux,
 Sur le Sénat sans doute il va faire...
 
--*who_servilius
-      Grands dieux !
-Qu'osez-vous pénétrer ? Savez-vous, Valérie,
-Quel péril désormais menace votre vie ?
-Que votre sûreté dépend à l'avenir,
-D'effacer ce discours de votre souvenir ?
-Par le moindre soupçon pour peu qu'on en apprenne,
-C'est fait de votre vie, ensemble et de la mienne.
-Vous êtes en ces lieux l'otage de ma foi.
-Je le suis de la vôtre.
-
--*who_valerie
       Ah ! Je frémis d'effroi.
 Moi l'otage odieux d'une aveugle furie,
 Par qui doivent périr mon père et ma patrie ?
 
--*who_servilius
-Ah ! Retenez vos cris. Est-ce là ce grand cour ?
-
--*who_valerie
 Oui, c'est lui, qui pour vous peut braver le malheur,
 Mais qui frémit pour vous d'une action si noire.
 Vous, à votre vengeance immoler votre gloire ?
@@ -895,13 +655,6 @@ Songez qu'à ses auteurs elle est toujours fatale,
 Et qu'en proie au remords qui suit ses noirs effets,
 Souvent les mieux vengés sont les moins satisfaits.
 
--*who_servilius
-Vous jugez mal de moi. Je cherche, Valérie,
-Moins à venger mes maux, qu'à sauver ma patrie.
-Ce n'est point, pour la perdre, un sanglant attentat,
-Je verse un mauvais sang, pour en purger l'état.
-
--*who_valerie
 Et de quel sang plus pur pouvez-vous bien prétendre
 De remplacer celui que vous voulez répandre ?
 De qui prétendez-vous sauver votre pays ?
@@ -920,49 +673,313 @@ Mon père dans mes pleurs ne trouve point d'appui,
 J'en atteste les dieux, je péris avec lui.
 Je vous laisse y penser.
 
-**** *book_ *id_III03 *act_III *date_1698
+Ciel, qui m'as inspirée en ce juste dessein,
+Prête-moi, jusqu'au bout, ton appui souverain.
+Seigneur, je juge assez quelle est l'inquiétude,
+Qui vous fait en ce lieu chercher la solitude,
+Quels soucis différents vous doivent partager.
+Mais votre cour enfin, veut-il s'en dégager ?
+Voulez-vous aujourd'hui qu'une heureuse industrie,
+Sauve tous vos amis, en sauvant la patrie ?
+Nous le pouvons, Seigneur, sans danger, sans effort.
+Votre amitié pourra s'en alarmer d'abord :
+Mais l'honneur, le devoir, la pitié l'autorise.
 
--*who_servilius
-      Par quel destin contraire,
-A-t-elle pénétré ce dangereux mystère ?
-Quel embarras fatal ! Je n'ai pu rien nier.
-C'était un artifice inutile et grossier.
-J'ai dû, pour la contraindre à garder le silence,
-En faire à son amour comprendre l'importance.
-Et que craindre après tout d'un cour tel que le sien ?
-Mais n'ai-je rien moi-même à soupçonner du mien ?
-Quel trouble, en l'écoutant, quelle pitié soudaine,
-Pour nos tyrans proscrits, vient d'ébranler ma haine !
-Qui ? Moi ? Je douterais d'un si juste courroux ?
-Je pourrais... Non, ingrats, non, vous périrez tous.
-L'arrêt en est donné par ma haine immortelle.
+      Il faut oser révéler l'entreprise :
+Mais ne la révéler, qu'après être assurés
+Que le sénat pardonne à tous les conjurés
+Garanti par nos soins d'un affreux précipice,
+Peut-il d'un moindre prix payer un tel service ?
 
-**** *book_ *id_III04 *act_III *date_1698
+Avez-vous quelque ami plus cher que Valérie ?
 
--*who_manlius
-Ami, je viens t'apprendre une heureuse nouvelle,
-Le sénat pour demain, selon nos voux secrets,
-D'un pompeux sacrifice ordonne les apprêts,
-C'est demain, pour l'offrir, qu'il doit ici se rendre :
-De la part de Rutile on vient de me l'apprendre.
-Cependant Valérie est libre dans ces lieux,
-Et sa vue à toute heure est permise à tes yeux.
-Excuse si ma main l'a reçue en otage.
-De Rutile par là j'ai dû guérir l'ombrage.
-Devant lui seulement prends garde qu'aujourd'hui...
-Mais il entre.
+Et pourquoi donc, Seigneur, ne les pas détourner ?
+Il faut, il faut enfin vous y déterminer.
+Vous n'avez rien à craindre, et puisqu'il faut tout dire,
+De la foi du sénat j'ai ce que je désire.
+Il m'a tout accordé de peur d'être surpris.
 
-**** *book_ *id_III05 *act_III *date_1698
+Je vous avais promis de garder le silence.
+Sur vous des conjurés je craignais la vengeance.
+Mais enfin ce parti met tout en sûreté.
+Sans votre aveu, Seigneur, j'ai tout exécuté.
+À vous persuader je voyais trop de peine.
+C'est moi seule par là qui m'expose à leur haine,
+Et quoi qu'en vous nommant j'aie agi pour tous deux,
+Vous me pouvez de tout accuser, devant eux.
 
--*who_rutile
+Allez, ne craignez rien. Mais on vient vers ces lieux.
+D'un témoin défiant il faut craindre les yeux.
+Quittons-nous, et gardons de rien faire connaître.
+
+Seigneur, j'ai vu mon père, et ne puis expliquer
+Les bontés, qu'en deux mots il m'a fait remarquer.
+Mais, pressé par le temps, il m'a soudain laissée,
+Pour vous chercher, dit-il, dans la même pensée,
+Et sans doute... Ah ! Seigneur, ne jetez point sur moi
+Ces sévères regards, qui me glacent d'effroi.
+Quel trouble est dans vos yeux ? Quelle horreur
+Imprévue...
+
+Quoi donc ?
+
+Hé bien ? Pourquoi, Seigneur, ces transports, ces injures ?
+S'il ne faut que mon sang, pour calmer ces murmures,
+Vous l'ai-je refusé ? N'est-il pas tout à vous ?
+Je puis souffrir la mort, mais non votre courroux.
+Immolez, sans fureur, une tendre victime.
+Que ce soit seulement un effort magnanime.
+En me perçant le cour, ne me haïssez pas.
+Plaignez-le au moins, ce cour, qui jusques au trépas
+Vous aima, ne périt par votre main sévère,
+Que pour avoir sauvé ma patrie, et mon père.
+
+Je vais voir éclater, sur moi, votre colère :
+Mais la plus prompte mort me sera la plus chère,
+Et je viens me livrer à vos justes transports,
+Près d'un père endurci, j'ai fait de vains efforts.
+Mes pleurs...
+
+Je vous obéirai, s'il est en ma puissance.
+Parlez.
+
+Malheureux ! Juste ciel !
+
+Et puis-je avec constance écouter ce langage ?
+Ainsi ce jour, témoin de ma félicité,
+Est un jour malheureux, et par vous détesté ?
+Que votre amour, Seigneur, dans ses transports sincères,
+S'en souvenait hélas ! Sous des noms bien contraires !
+
+Ciel ! Où tend ce discours ? Pourquoi dans ma pensée
+Rappeler vainement cette image effacée ?
+
+      Que me dit-il ? Quel nouveau coup de foudre
+À quel parti cruel prétend-il me résoudre ?
+Moi ? Que je me prépare à le perdre en ce jour,
+Quand tout semble assurer son cour à mon amour ?
+Et que veut-il enfin ? Rompre mon hyménée ?
+Me fuir ? Ou par ses mains trancher sa destinée ?
+Que deviendrai-je ? Ô dieux ! Quel que soit son dessein,
+En vain je le voudrais arracher de son sein,
+À mes yeux étonnés, quel calme redoutable
+Marquait sur son visage une âme inébranlable,
+Sous un prétexte vain à sortir de ce lieu,
+Ne m'aurait-il point dit un éternel adieu ?
+Ah ciel ! S'il était vrai ! S'il fallait que mon âme...
+Courons m'en éclaircir.
+
+      Ah ! Viens, suis-moi.
+
+Ô ciel ! Que m'apprends-tu ? Que j'ai lieu de trembler !
+Sait-on si son arrêt...
+
+En partant de ces lieux, lui-même il me l'a dit :
+Mais que deviendra-t-il, si Manlius périt ?
+Je frémis d'y penser, et cependant captive
+J'attendrais... Non Tullie, il faut que je le suive,
+Il faut en ce palais, les flammes à la main,
+M'allumer un bûcher, ou m'ouvrir un chemin.
+Mais j'aperçois Albin, quel est son trouble extrême ?
+
+Albin, où courez-vous ?
+
+Vient-on de condamner Manlius à la mort ?
+Servilius... Parlez, expliquez-vous, sans feinte.
+Vous ne me direz rien que ne m'ait dit ma crainte.
+
+Hé bien ? C'en est donc fait, ô fortune inhumaine ?
+Et je serais encor le jouet de ta haine ?
+Mais contre les rigueurs, que tu m'as fait prévoir,
+J'ai su secrètement armer mon désespoir,
+Et je vais, malgré toi, par ce coup favorable
+Finir tous tes projets contre une misérable.
+
+      Ne me plains point, je vais
+À ce que j'ai perdu me rejoindre à jamais.
+
+
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valerius
+
+Je viens savoir de vous, Seigneur, ce qu'il faut croire
+D'un bruit, qui se répand, et blesse votre gloire.
+Servilius, dit-on, dans ces lieux retiré,
+Croit y jouir, par vous, d'un asile assuré.
+Il ose se flatter que, contre ma vengeance,
+Vous voudrez bien vous-même embrasser la défense.
+
+Par cette loi, Seigneur, des plus grands cours chérie,
+De n'avoir point d'amis plus chers que la patrie.
+De sacrifier tout au maintien de ses droits.
+Votre ami par son crime en a blessé les lois.
+À vos yeux comme aux miens il est par là coupable.
+Jusqu'à quand voulez-vous, si prompt, si secourable,
+Sans vous inquiéter de nos soupçons secrets,
+De tous les mécontents prendre les intérêts ?
+Les combler de faveurs ? Ordinaire industrie
+De qui veut à ses lois asservir sa patrie.
+
+Seigneur, de nos motifs, injustes à vos yeux,
+Avec moins de chaleur, vous pourriez juger mieux.
+Si Camille aujourd'hui ne nous fait point d'ombrage,
+Nous voyons tous quel zèle anime son courage,
+Que suivre ses conseils du succès assurés,
+C'est obéir aux dieux, qui les ont inspirés.
+Avons-nous à rougir de cette obéissance,
+Par qui croît notre gloire, et notre indépendance ?
+N'est-ce pas là le but d'un cour vraiment romain ?
+Lorsqu'on nous y conduit, qu'importe quelle main ?
+Vous avez même ardeur pour l'état, pour sa gloire.
+Vos desseins sont pareils, et je veux bien le croire.
+Mais à parler sans fard, est-ce sans fondement
+Que Rome inquiétée en jugeait autrement ?
+Et quels soupçons sur tout ne dût pas faire naître
+Ce jour, où devant nous forcé de comparaître,
+Votre parti nombreux, et celui du Sénat
+Semblaient deux camps armés résolus au combat :
+Quels flots de sang romain s'allaient alors répandre,
+Si jusqu'au bout le peuple eut osé vous défendre ?
+On croyait que vos soins, réglés sur ce succès,
+À tout parti suspect fermeraient tout accès.
+Mais de Servilius appuyant l'insolence...
+
+      Que me veut ce perfide ?
+
+Et quel est ton espoir ? Qu'oses-tu souhaiter ?
+Moi, que tranquillement je puisse t'écouter ?
+Moi, j'oublierais ce jour, où, préparant ta fuite,
+Trop sûr d'être avoué de ma fille séduite,
+Jusqu'aux pieds des autels, ton amour furieux
+Vint, des bras d'un époux l'enlever à mes yeux ?
+Par quel ressentiment, par quel cruel supplice
+Devrais-je...
+
+Ainsi donc tu croyais, la sauvant des gaulois,
+Te faire une raison de m'imposer des lois.
+Tu prétendais, en eux, triompher de moi-même,
+Et sur mes droits détruits fonder ton droit suprême.
+Car enfin de quel fruit tes soins sont-ils pour moi ?
+Je la perdais par eux, et je la pers par toi.
+Aux voux d'un autre en vain ma foi l'avait promise.
+Sur eux comme sur moi tu crois l'avoir conquise.
+Tu me traites enfin en ennemi vaincu.
+Pour me donner ce nom, que me reproches-tu ?
+Si ma promesse ailleurs engageant Valérie,
+Donne un sujet de plainte à ta flamme trahie,
+Sa soeur que je t'offrais, mon appui, mes bienfaits,
+De mes mépris pour toi sont-ils donc les effets ?
+
+      Hé bien ? Parlons d'accord ensemble.
+Veux-tu faire un effort digne de m'apaiser ?
+
+      Ta valeur, ta naissance,
+Peuvent faire, il est vrai, chérir ton alliance.
+Mais je la tiens coupable, et ne te connais plus,
+Depuis que l'amitié t'unit à Manlius,
+À ce superbe esprit, suspect à sa patrie,
+Sois si tu veux fidèle à flatter sa furie :
+Mais dégage mon sang du sort, et des forfaits,
+Où pourraient quelque jour t'entraîner ses projets.
+Romps aujourd'hui de gré, ce que tu fis de force.
+Entre ma fille et toi, souffre enfin un divorce :
+Ou pour mieux m'expliquer, choisi dès aujourd'hui
+Manlius sans ma fille, ou ma fille sans lui.
+Vois de ces deux partis celui qui te peut plaire.
+Tu ne peux qu'à ce prix désarmer ma colère.
+
+C'en est assez. Adieu.
+
+De ses ordres secrets je ne rends pas raison.
+Il vous importe peu de les connaître, ou non,
+Puisque pour vous, Seigneur, ils ne sont point à craindre.
+Sa bonté ne vous laisse aucun droit de vous plaindre.
+Il vous fait grâce entière, et veut que dans l'oubli
+Son arrêt contre vous demeure enseveli.
+Il vous rend tout, il veut de votre illustre zèle,
+Dans nos fastes, garder la mémoire immortelle.
+C'est ce que, de sa part, je viens vous déclarer :
+Et pour moi-même aussi, je viens vous assurer,
+Qu'avec vous renouant une amitié sincère,
+Je rends grâces aux dieux, dont le soin salutaire
+A fait de votre hymen, contraire à mes desseins,
+Le principe secret du salut des romains.
+
+Je vous ai déjà dit ce que je pouvais dire :
+Mais retenez, Seigneur, cet injuste transport.
+Nous allons au sénat décider de son sort,
+Et soit qu'on le condamne, ou bien qu'on lui pardonne,
+Croyez-moi, désormais la gloire vous ordonne
+De quitter sa querelle, ainsi que ses projets,
+Et du bonheur public faire tous vos souhaits.
+Le temps me presse. Adieu.
+
+De ce doute, à tes yeux, j'ai mérité l'outrage.
+Mais sans vouloir en vain m'expliquer là-dessus,
+Ni faire des serments, que tu ne croirais plus,
+Si j'ai peu fait encor, pour laver cette injure,
+Songe bien seulement, après un tel parjure
+Qu'en un cour généreux, de remords combattu,
+La honte de sa chute affermit sa vertu.
+
+
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
+
+Comment ? Par vous, Seigneur, sait-il notre entreprise ?
+
+      Je m'explique à regret ;
+Et voudrais étouffer un scrupule secret,
+Si vos desseins trahis n'exposaient que ma vie :
+Mais sur moi de son sort un grand peuple se fie.
+Je dois craindre, Seigneur, en vous marquant ma foi,
+D'immoler son salut à ce que je vous dois.
+Ce n'est point par son sang qu'il faut que je m'acquitte.
+Je connais votre ami. Je sais ce qui l'irrite,
+Qu'il peut, en nous aidant, relever son destin :
+Mais au sang du consul l'hymen l'unit enfin,
+D'un superbe consul, proscrit par notre haine :
+Et quoi qu'à le fléchir il ait perdu de peine,
+Qu'il semble hors d'espoir de le rendre plus doux,
+Est-il un cour si fier, si plein de son courroux,
+Qui refusât, Seigneur, l'oubli de sa vengeance
+À l'aveu d'un secret d'une telle importance ?
+Sur quelques droits puissants que se fonde aujourd'hui
+Cette ferme amitié, qui vous répond de lui,
+L'amour y peut-il moins ? En est-il moins le maître ?
+Que dis-je ? S'il fallait que le hasard fît naître
+Quelque intérêt, qu'entre eux son cour dût décider,
+Pensez-vous que ce fût à l'amour à céder ?
+
+Pourquoi le demander ? Vous m'avez entendu.
+
+Seigneur, de mes soupçons je reconnais l'erreur,
+Je vois, d'un oeil charmé, votre noble fureur.
+De votre foi, pour nous, c'est le plus sûr otage ;
+Et je n'en voudrais point exiger d'autre gage,
+S'il n'était à propos de prouver cette foi
+À d'autres, qui seraient plus défiants que moi.
+Car enfin, le projet, où s'unit notre zèle,
+Est tel, qu'en vain chacun répond d'un bras fidèle :
+Il ne porte au péril qu'un courage flottant,
+quand lui-même de tous il n'en croit pas autant.
+Cependant pénétré de votre ardeur extrême,
+Je vous laisse, Seigneur, et vous rends à vous-même.
+Consultez Manlius : qu'il choisisse avec vous
+Le poste, où votre bras doit seconder nos coups,
+Tandis que, pour hâter le jour de notre joie,
+Je cours en diligence où son ordre m'envoie.
+
+Son front et ses discours font voir un grand courage,
+Et pour me rassurer il n'a pu davantage,
+Cependant c'est peut-être un premier mouvement,
+Que fait naître en son cour un vif ressentiment.
+Il n'examine rien, rempli de sa vengeance.
+Allons exécuter notre ordre en diligence ;
+Et revenons d'abord éprouver, si son cour
+Du dessein, qu'il embrasse, a compris la grandeur.
+
       Je vois Manlius avec lui,
 C'est ce que je souhaite. Éprouvons son courage.
 
--*who_manlius
-Quelle joie à nos yeux marque votre visage,
-Seigneur ? De nos amis que faut-il espérer ?
-
--*who_rutile
 Tout, Seigneur. Avec nous tout semble conspirer ;
 À l'effet de nos voux il n'est plus de remise.
 En arrivant chez moi, quelle heureuse surprise !
@@ -1001,13 +1018,6 @@ Tous sont de nos fureurs les objets légitimes.
 Tous doivent... mais, Seigneur, d'où vient qu'à ce récit
 Votre visage change, et votre cour frémit ?
 
--*who_servilius
-Oui. Si près d'accomplir notre grande entreprise,
-Je frémis à vos yeux de joie et de surprise,
-Et mon cour moins ému, ne croirait pas, Seigneur,
-Sentir, autant qu'il doit, un si rare bonheur.
-
--*who_rutile
 Excusez mon erreur, et m'écoutez. J'ajoute.
 Ils n'ont de nos desseins ni lumière, ni doute.
 Il faut qu'en ce repos, où s'endort leur orgueil,
@@ -1033,29 +1043,11 @@ Sur son espoir prochain, s'applaudit et s'embrasse.
 Chacun, par mille voux, en hâte les moments,
 Et pour vous à l'envi fait de nouveaux serments.
 
--*who_manlius
-Ainsi donc à nos voux la fortune propice,
-A conduit nos tyrans au bord du précipice :
-Et je n'ai plus qu'un jour à souffrir leurs mépris.
-Mais quel effort, Seigneur, quel assez digne prix
-M'acquittant à vos soins...
-
--*who_rutile
       Je ne puis vous le taire,
 Il est une faveur, que vous pourriez me faire :
 Mais cet ami veut bien que, sur mes intérêts,
 Je n'explique qu'à vous mes sentiments secrets.
 
--*who_servilius
-Je vous laisse, Seigneur.
-
-**** *book_ *id_III06 *act_III *date_1698
-
--*who_manlius
-      Par quel bonheur extrême
-Vous puis-je...
-
--*who_rutile
       En me servant, vous vous servez vous-même.
 Seigneur, il vous souvient des serments que j'ai faits,
 Lors qu'avec nos amis, j'embrassai vos projets.
@@ -1072,17 +1064,9 @@ Préviendrait notre perte, et son ignominie.
 Vous louâtes, Seigneur, ce noble sentiment,
 Et chacun, après vous, fit le même serment.
 
--*who_manlius
-Hé bien ?
-
--*who_rutile
       Voici le temps qu'un effort nécessaire
 Doit de votre serment prouver la foi sincère.
 
--*who_manlius
-Sur qui ?
-
--*who_rutile
       Sur votre ami. Je vous l'avait prédit :
 Tandis qu'il m'écoutait, rêveur, triste, interdit,
 Les yeux mal assurés, il m'a trop fait connaître
@@ -1102,303 +1086,58 @@ Force notre fureur d'épargner une femme,
 Qu'elle soit en lieu sûr gardée étroitement,
 Et qu'il soit immolé, lui, qui rompt le serment.
 
--*who_manlius
-Et qui l'immolera ? Vous ? Que m'osez-vous dire ?
-Quelle est cette fureur, qu'un soupçon vous inspire ?
-Sachez que, devant moi, par tout autre outragé,
-Son honneur, par ce bras, serait déjà vengé.
-Mais je vous rends justice, et crois que cette offense
-Est un effet en vous de trop de prévoyance.
-Faites-moi même grâce, et calmant votre effroi,
-Du choix de mes amis reposez-vous sur moi.
-Songez que ce soupçon est une peur subtile,
-Et par là qu'il sied mal au grand cour du Rutile.
-
--*who_rutile
 En vain vous me quittez. Il faut qu'en cet instant
 J'éclaircisse, avec vous, ce soupçon important.
 
-**** *book_ *id_IV01 *act_IV *date_1698
 
--*who_servilius
-Où m'égaré-je ? Où suis-je ? Et quel désordre extrême
-Guide au hasard mes pas, et m'arrache à moi-même ?
-Quel changement subit ! Ô vengeance ! Ô courroux !
-À mes lâches remords m'abandonnerez-vous ?
-N'est-ce donc qu'à souffrir qu'éclate ma constance ?
-Et faut-il que je tremble à punir qui m'offense ?
-Mais mon courage en vain tâche à se raffermir.
-Ah ! Si le seul récit m'a pu faire frémir,
-Quel serais-je, grands dieux ! Au spectacle terrible
-De tout ce qui peut rendre une vengeance horrible !
-Ah ! Fuyons, dérobons nos mains à ces forfaits.
-Mais où fuir ? En quels lieux te cacher désormais,
-Où dans des flots de sang Rome entière noyée
-Ne s'offre pas sans cesse à ton âme effrayée ?
-En la laissant périr, ne la trahis-tu pas ?
-Et même tes amis, qui contaient sur ton bras ?
-Envers les deux partis ta fuite est criminelle.
-Non, non, pour l'un des deux, il faut fixer ton zèle.
-Pour tenir tes serments, il faut tout immoler ;
-Ou bien, pour sauver Rome, il faut tout révéler.
-Tout immoler. Ton cour marque trop de faiblesse.
-Tout révéler. Ton cour y voit trop de bassesse.
-Tu perdrais tes amis. Hé ! Quel choix feras-tu ?
-Deux écueils opposés menacent ta vertu.
-En se sauvant de l'un, elle périt sur l'autre.
-Ô ! Vous, dont l'équité sert d'exemple à la nôtre,
-Vous, qui de la vertu nous prescrivez les lois,
-Dieux justes, dieux puissants, souffrez-vous cette foi
-Que ce cour, si fidèle à l'honneur qui l'anime,
-Tombe enfin, malgré lui, dans les pièges du crime ?
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
 
-**** *book_ *id_IV02 *act_IV *date_1698
+Oui, Seigneur ; mais enfin, quelque ardeur qui vous guide,
+Un peuple variable, incertain, et timide,
+Dont le zèle d'abord ardent, impétueux,
+Prête à ses protecteurs un appui fastueux,
+et qui dans le péril tremble, et les abandonne,
+Est-il un sûr garant de l'espoir qu'il vous donne ?
+Vous-même, qui deviez, par cent et cent bienfaits,
+Le croire à votre sort attaché pour jamais,
+Lorsque d'un dictateur l'injuste tyrannie
+Vous fit d'une prison subir l'ignominie
+Tout ce peuple, Seigneur, pour vous-même assemblé,
+De frayeur à sa voix ne fut-il pas troublé ?
+Qui d'eux tous entreprit alors de vous défendre ?
 
--*who_valerie
-Ciel, qui m'as inspirée en ce juste dessein,
-Prête-moi, jusqu'au bout, ton appui souverain.
-Seigneur, je juge assez quelle est l'inquiétude,
-Qui vous fait en ce lieu chercher la solitude,
-Quels soucis différents vous doivent partager.
-Mais votre cour enfin, veut-il s'en dégager ?
-Voulez-vous aujourd'hui qu'une heureuse industrie,
-Sauve tous vos amis, en sauvant la patrie ?
-Nous le pouvons, Seigneur, sans danger, sans effort.
-Votre amitié pourra s'en alarmer d'abord :
-Mais l'honneur, le devoir, la pitié l'autorise.
+C'est donc sur cet espoir, Seigneur, qu'à haute voix,
+Partout des sénateurs vous décriez les lois ?
+Quoi ! Ne craignez-vous point qu'une audace si fière
+Ne puisse à leurs soupçons donner trop de lumière ?
 
--*who_servilius
-Comment ?
+Je ne vous dis plus rien. Vous avez tout prévu.
+Je crois qu'à tout aussi vos soins auront pourvu.
+Quels présages heureux pour un dessein si juste !
+Cet écueil des gaulois, ce Capitole auguste,
+L'asile de nos dieux, le salut des romains,
+Vous-même y commandez, son sort est en vos mains.
+Et que n'espérer pas du courage et du zèle
+De tant d'amis, armés pour la même querelle ?
+De Rutile, surtout, ce guerrier généreux,
+Qui pressé des arrêts d'un sénat rigoureux,
+Eut, sans vos prompts secours, sans vos soins salutaires
+Fini dans les prisons sa vie et ses misères.
+Et quel bonheur encor, que, sans être attendu,
+Servilius hier se soit ici rendu ?
+Des devoirs d'un ami qu'avec zèle il s'acquitte ?
+À peine, loin de Rome, il apprend dans sa fuite
+Du sénat contre vous l'arrêt injurieux,
+Que, pour vous secourir, il revient en ces lieux.
+En vain l'amour, l'effroi, les pleurs de Valérie
+À son père par lui si hautement ravie,
+En vain tous ses amis ont voulu l'arrêter.
+Et quels transports de joie a-t-il fait éclater
+Lorsqu'en vous embrassant, il s'est vu hors d'alarmes !
+Que pour lui vos desseins doivent avoir de charmes !
 
--*who_valerie
-      Il faut oser révéler l'entreprise :
-Mais ne la révéler, qu'après être assurés
-Que le sénat pardonne à tous les conjurés
-Garanti par nos soins d'un affreux précipice,
-Peut-il d'un moindre prix payer un tel service ?
+Quelqu'un vient.
 
--*who_servilius
-Qu'entends-je, Valérie ? Et qui me croyez-vous ?
-Tel qu'il faut être ici, pour le salut de tous.
-Je sais à vos amis quel serment vous engage,
-Et vois tout l'embarras, que votre âme envisage,
-Quels noms dans leur colère ils pourront vous donner :
-Mais un si vain égard doit-il vous étonner ?
-Est-ce un crime de rompre un serment téméraire,
-Qu'a dicté la fureur, que le crime a fait faire ?
-Un juste repentir n'est-il donc plus permis ?
-Quoi ? Pour ne pas rougir, devant quelques amis,
-Que séduit et qu'entraîne une aveugle furie,
-Vous aimez mieux rougir devant votre patrie ?
-Devant tout l'univers ? Pouvez-vous justement
-Entre ces deux partis balancer un moment ?
-De l'un et l'autre ici comprenez mieux la suite.
-Si nous ne parlons pas, Rome est par eux détruite.
-Si nous osons parler, quel malheur craignons-nous ?
-Rome entière est sauvée, et leur pardonne à tous ;
-Et quand de ce bienfait consacrant la mémoire,
-Elle retentira du bruit de votre gloire,
-Parmi tous les honneurs qui vous seront rendus,
-Leurs reproches alors seront-ils entendus ?
-Enfin retracez-vous l'épouvantable image
-De tant de cruautés, où votre bras s'engage.
-Figurez-vous, Seigneur, qu'en ces affreux débris
-Des enfants sous le fer vous entendez les cris ;
-Que les cheveux épars, et de larmes trempée,
-Une mère sanglante, aux bourreaux échappée
-Vient, vous montrant son fils qu'elle emporte en ses bras,
-Se jeter à genoux, au devant de vos pas.
-Votre fureur alors est-elle suspendue ?
-Un soldat inhumain l'immole à votre vue :
-Et du fils aussitôt, dont il perce le flanc,
-Fait rejaillir sur vous le lait avec le sang.
-Soutiendrez-vous l'horreur, que ce spectacle inspire ?
-
--*who_servilius
-Par les dieux immortels, appuis de cet empire,
-Ces mots sont des éclairs, qui passant dans mon cour,
-Y font un jour affreux, qui me remplit d'horreur.
-Vaincu par ma pitié... mais quoi ? Rome inhumaine,
-Tu devrais ton salut aux objets de ta haine !
-Je pourrais d'un ami trahir tous les bienfaits !
-Le forcer... non, mon cour ne l'osera jamais.
-
--*who_valerie
-Avez-vous quelque ami plus cher que Valérie ?
-
--*who_servilius
-Non. Votre amour suffit au bonheur de ma vie.
-Vous seule remplissez tous les voux de mon cour.
-Ah ! Pourquoi, justes dieux un si charmant bonheur
-Ne m'est-il pas donné plus pur et plus paisible ?
-Quels orages y mêle un destin inflexible ?
-
--*who_valerie
-Et pourquoi donc, Seigneur, ne les pas détourner ?
-Il faut, il faut enfin vous y déterminer.
-Vous n'avez rien à craindre, et puisqu'il faut tout dire,
-De la foi du sénat j'ai ce que je désire.
-Il m'a tout accordé de peur d'être surpris.
-
--*who_servilius
-Ô dieux ! Sans mon aveu, qu'avez-vous entrepris ?
-
--*who_valerie
-Je vous avais promis de garder le silence.
-Sur vous des conjurés je craignais la vengeance.
-Mais enfin ce parti met tout en sûreté.
-Sans votre aveu, Seigneur, j'ai tout exécuté.
-À vous persuader je voyais trop de peine.
-C'est moi seule par là qui m'expose à leur haine,
-Et quoi qu'en vous nommant j'aie agi pour tous deux,
-Vous me pouvez de tout accuser, devant eux.
-
--*who_servilius
-Qu'avez-vous fait, ô ciel ! Par quel reproche horrible
-S'en va me foudroyer leur colère terrible !
-Et que me servira de vous désavouer ?
-Après qu'ils sont trahis, ce serait les jouer.
-Verront-ils pas d'abord que j'ai dû vous apprendre,
-Le secret, que par vous le sénat vient d'entendre,
-Et pourront-ils douter d'un concert entre nous ?
-C'en est fait, Valérie. Évitez leur courroux ?
-Fuyez ce lieu fatal, où va choir la tempête.
-Je ne veux à ses coups exposer que ma tête.
-
--*who_valerie
-Allez, ne craignez rien. Mais on vient vers ces lieux.
-D'un témoin défiant il faut craindre les yeux.
-Quittons-nous, et gardons de rien faire connaître.
-
-**** *book_ *id_IV03 *act_IV *date_1698
-
--*who_servilius
-Dans le trouble où je suis, qui vois-je encor paraître ?
-Serait-il averti de ce qui s'est passé ?
-De quel front soutenir son visage offensé ?
-N'importe, demeurons, et dans un tel orage,
-Après notre pitié, montrons notre courage.
-Mais dans quelle pensée est-il enseveli ?
-
-**** *book_ *id_IV04 *act_IV *date_1698
-
--*who_manlius
-Connais-tu bien la main de Rutile ?
-
--*who_servilius
-      Oui.
-
--*who_manlius
-      Tiens, lis.
-
--*who_servilius
-Vous avez méprisé ma juste défiance.
-Tout est su par l'endroit, que j'avais soupçonné.
-C'est par un sénateur de notre intelligence,
-Qu'en ce moment l'avis m'en est donné.
-Fuyez chez les Veïens, où notre sort nous guide :
-Mais pour flatter les maux, où ce coup nous réduit,
-Trop heureux en partant, si la mort du perfide
-De son crime, par vous, lui dérobait le fruit !
-
--*who_manlius
-Qu'en dis-tu ?
-
--*who_servilius
-      Frappe.
-
--*who_manlius
-      Quoi !
-
--*who_servilius
-      Tu dois assez m'entendre.
-Frappe, dis-je. Ton bras ne saurait se méprendre.
-
--*who_manlius
-Que dis-tu malheureux ? Où vas-tu t'égarer ?
-Sais-tu bien ce qu'ici tu m'oses déclarer ?
-
--*who_servilius
-Oui, je sais que tu peux, par un coup légitime,
-Percer ce traître cour, que je t'offre en victime ;
-Que ma foi démentie a trahi ton dessein.
-
--*who_manlius
-Et je n'enfonce pas un poignard dans ton sein ?
-Pourquoi faut-il encor que ma main trop timide
-Reconnaisse un ami dans les traits d'un perfide ?
-Qui ? Toi ? Tu me trahis ? L'ai-je bien entendu ?
-
--*who_servilius
-Il est vrai, Manlius. Peut-être je l'ai dû.
-Peut-être, plus tranquille aurais-tu lieu de croire,
-Que sans moi tes desseins auraient flétri ta gloire ;
-Mais enfin les raisons, qui frappent mon esprit,
-Ne sont pas des raisons à calmer ton dépit,
-Et je conte pour rien, que Rome favorable
-Me déclare innocent, quand tu me crois coupable.
-Je viens donc, par ta main, expier mon forfait.
-Frappe. De mon destin je meurs trop satisfait ;
-Puisque ma trahison, qui sauve ma patrie,
-Te sauve en même temps, et l'honneur, et la vie.
-
--*who_manlius
-Toi, me sauver la vie ?
-
--*who_servilius
-      Et même à tes amis.
-À signer leur pardon le sénat s'est soumis.
-Leurs jours sont assurés...
-
--*who_manlius
-      Et quel aveu, quel titre
-De leur sort et du mien te rend ici l'arbitre ?
-Qui t'a dit que pour moi la vie eût tant d'attraits ?
-Que veux-tu que je puisse en faire désormais ?
-Pour m'y voir des romains le mépris et la fable ?
-Pour la perdre peut-être, en un sort misérable,
-Ou dans une querelle, en signalant ma foi,
-Pour quelque ami nouveau perfide, comme toi ?
-Dieux ! Quand de toutes parts ma vive défiance
-Jusqu'aux moindres périls portait ma prévoyance,
-Par toi notre dessein devait être détruit,
-Et par l'indigne objet dont l'amour t'a séduit.
-Car je n'en doute point, ton crime est son ouvrage,
-Lâche, indigne romain, qui né pour l'esclavage,
-Sauves de fiers tyrans soigneux de t'outrager,
-Et trahis des amis, qui voulaient te venger !
-Quel sera contre moi l'éclat de leur colère ?
-Je leur ai garanti ta foi ferme, et sincère,
-J'ai ri de leurs soupçons, j'ai retenu leurs bras,
-Qui t'allaient prévenir, par ton juste trépas.
-À leur sage conseil que n'ai-je pu me rendre ?
-Ton sang valait alors qu'on daignât le répandre.
-Il aurait assuré l'effet de mon dessein :
-Mais sans fruit maintenant il souillerait ma main,
-Et trop vil à mes yeux pour laver ton offense,
-Je laisse à tes remords le soin de ma vengeance.
-
-**** *book_ *id_IV05 *act_IV *date_1698
-
--*who_servilius
-Quelle confusion, à ce reproche affreux,
-Quelle stupidité suspend ici mes voux !
-Que résoudre ? Il me fuit, comme un monstre funeste.
-Irai-je lui montrer encor ce qu'il déteste ?
-Ô colère trop juste ! ô redoutable voix !
-Noms affreux, entendus pour la première fois !
-Moi lâche ! Moi perfide ! Et je vivrais encore ?
-Moi-même autant que lui je me hais, je m'abhorre.
-Il m'a, contre moi-même, inspiré sa fureur.
-Allons, ne souffrons pas des noms si pleins d'horreur.
-De la nuit du tombeau couvrons-en l'infamie ;
-Et le cherchant, malgré sa colère affermie,
-Forçons-le de douter, en voyant mes efforts,
-Qui l'emporte en mon cour du crime, ou du remords.
-
-**** *book_ *id_IV06 *act_IV *date_1698
-
--*who_albin
 Tout est perdu, Seigneur, et dans Rome alarmée,
 De nos projets trahis la nouvelle est semée.
 J'en venais à la hâte avertir Manlius,
@@ -1414,159 +1153,10 @@ Sortant du capitole, on doit craindre, dit-on,
 Que ses amis secrets, armant la populace,
 N'accablent son escorte, et n'assurent sa grâce.
 
--*who_servilius
-Juste ciel !
-
--*who_albin
       De son sort je vais suivre le cours.
 Vous, sauvez-vous, courez lui chercher du secours,
 Je vais l'en avertir.
 
--*who_servilius
-      Allons nous-même apprendre...
-Mais Valerius vient.
-
-**** *book_ *id_IV07 *act_IV *date_1698
-
--*who_servilius
-      Que me fait-on entendre ?
-D'où vient que Manlius est par vous arrêté,
-Seigneur, ai-je payé trop peu sa liberté ?
-Cette grâce pour tous n'est-elle pas signée ?
-Le sénat reprend-il sa parole donnée ?
-
--*who_valerius
-De ses ordres secrets je ne rends pas raison.
-Il vous importe peu de les connaître, ou non,
-Puisque pour vous, Seigneur, ils ne sont point à craindre.
-Sa bonté ne vous laisse aucun droit de vous plaindre.
-Il vous fait grâce entière, et veut que dans l'oubli
-Son arrêt contre vous demeure enseveli.
-Il vous rend tout, il veut de votre illustre zèle,
-Dans nos fastes, garder la mémoire immortelle.
-C'est ce que, de sa part, je viens vous déclarer :
-Et pour moi-même aussi, je viens vous assurer,
-Qu'avec vous renouant une amitié sincère,
-Je rends grâces aux dieux, dont le soin salutaire
-A fait de votre hymen, contraire à mes desseins,
-Le principe secret du salut des romains.
-
--*who_servilius
-Et moi, c'est ce qu'ici mon âme désavoue.
-Je déteste à jamais ce sénat qui me loue.
-Je lui rends ses faveurs, qu'il m'accorde à moitié.
-Je vous rends à vous-même une vaine amitié.
-J'en fais, et mon malheur, et mon ignominie,
-À Manlius trahi, s'il en coûte la vie.
-Mon dessein n'était pas, en trahissant le sien,
-Ni de vendre son sang, ni d'épargner le mien.
-Pour son propre intérêt, j'ai pris ce soin du vôtre,
-Et ma pitié voulait vous sauver l'un de l'autre.
-Quoi ? De ma trahison, dont le remords me suit,
-N'aurais-je que la honte ? Auriez-vous tout le fruit ?
-Perdrais-je tout moi seul, en sauvant tout l'empire ?
-
--*who_valerius
-Je vous ai déjà dit ce que je pouvais dire :
-Mais retenez, Seigneur, cet injuste transport.
-Nous allons au sénat décider de son sort,
-Et soit qu'on le condamne, ou bien qu'on lui pardonne,
-Croyez-moi, désormais la gloire vous ordonne
-De quitter sa querelle, ainsi que ses projets,
-Et du bonheur public faire tous vos souhaits.
-Le temps me presse. Adieu.
-
-**** *book_ *id_IV08 *act_IV *date_1698
-
--*who_servilius
-      Dans quelle inquiétude
-De ce discours obscur me met l'incertitude !
-Le sénat voudrait-il... mais en peux-tu douter ?
-Sur ce qu'on voit de toi, te doit-on respecter ?
-Tu trompes tes amis, tes ennemis te trompent,
-Et toi-même as rompu les mêmes nouds, qu'ils rompent.
-Ainsi donc Manlius m'imputant son trépas,
-Je verrais... mais du moins ne l'abandonnons pas.
-Pour défendre ses jours, souffrons encor la vie ;
-Et soit que le succès seconde mon envie,
-Soit qu'il trompe me soins, après son sort réglé,
-Expirons aussitôt à ma gloire immolé
-Sur tout dans le tombeau n'emportons pas sa haine,
-Et tâchons... mais voici d'où naît toute ma peine.
-
-**** *book_ *id_IV09 *act_IV *date_1698
-
--*who_valerie
-Seigneur, j'ai vu mon père, et ne puis expliquer
-Les bontés, qu'en deux mots il m'a fait remarquer.
-Mais, pressé par le temps, il m'a soudain laissée,
-Pour vous chercher, dit-il, dans la même pensée,
-Et sans doute... Ah ! Seigneur, ne jetez point sur moi
-Ces sévères regards, qui me glacent d'effroi.
-Quel trouble est dans vos yeux ? Quelle horreur
-Imprévue...
-
--*who_servilius
-      Oses-tu bien encor te montrer à ma vue ?
-Ne vois-tu pas ici le péril que tu cours ?
-
--*who_valerie
-Quoi donc ?
-
--*who_servilius
-      Où m'ont réduit tes funestes discours ?
-Où Manlius est-il ? Qu'en as-tu fait, perfide ?
-Tu trembles vainement du courroux qui me guide.
-Avant ta trahison, il y fallait songer.
-Dans les derniers malheurs tu viens de le plonger.
-Arrêté, menacé, comblé d'ignominie,
-Son espoir le plus doux est de perdre la vie.
-De sa haine à jamais tu m'as rendu l'objet :
-Mais enfin, quand je suis entré dans son projet,
-De la foi de tous deux je t'ai faite l'otage,
-Et de sa sûreté ta vie était le gage.
-Tu l'as trahi, tes soins pour Rome ont réussi.
-Que tarde ma fureur de le venger aussi ?
-
--*who_valerie
-Hé bien ? Pourquoi, Seigneur, ces transports, ces injures ?
-S'il ne faut que mon sang, pour calmer ces murmures,
-Vous l'ai-je refusé ? N'est-il pas tout à vous ?
-Je puis souffrir la mort, mais non votre courroux.
-Immolez, sans fureur, une tendre victime.
-Que ce soit seulement un effort magnanime.
-En me perçant le cour, ne me haïssez pas.
-Plaignez-le au moins, ce cour, qui jusques au trépas
-Vous aima, ne périt par votre main sévère,
-Que pour avoir sauvé ma patrie, et mon père.
-
--*who_servilius
-Moi, te percer le cour ? Ah ! Rends-moi donc le mien
-Tel que je te l'offris, pour mériter le tien,
-Fidèle à ses serments, généreux, intrépide.
-Tu n'en as fait hélas ! Qu'un lâche, qu'un perfide,
-Et quoique lui conseille un si juste courroux,
-Lui-même il est l'asile, où tu brave mes coups.
-Que dis-je ? En ce moment, les dieux, sur ton visage,
-Ont imprimé leurs traits, que respecte ma rage,
-Ou des romains, par toi conservés en ce jour,
-Le démon tutélaire est le tien à son tour.
-Hé bien c'est donc à toi qu'il faut que je m'adresse.
-Par tout ce que pour toi mon cour sent de tendresse,
-Par tes yeux, par tes pleurs, dont le pouvoir charmant
-Sait si bien dérober le crime au châtiment,
-En faveur d'un ami, montre encor ta puissance ;
-Et tandis que je vais parler en sa défense,
-Avant que le sénat ait pu rien arrêter,
-À ton père cruel va, cours te présenter.
-Tombe, pleure à ses pieds. Fais à ce cour rebelle
-Sentir pour nos malheurs une pitié nouvelle.
-Que par lui du sénat s'apaise le courroux.
-Qu'enfin Manlius vive, ou nous périrons tous.
-
-**** *book_ *id_V01 *act_V *date_1698
-
--*who_albin
 Oui, j'ai tout craint pour vous, Seigneur, je le confesse,
 Quand j'ai vu le sénat, tenant mal sa promesse,
 Se réserver le droit, en pardonnant à tous,
@@ -1583,10 +1173,6 @@ C'est à Servilius que cette grâce est due :
 Car enfin, puisqu'ici vous souhaitez sa vue,
 J'ose vous en parler, et loin d'être offensé...
 
--*who_manlius
-Ô dieux ! À le haïr faut-il qu'il m'ait forcé ?
-
--*who_albin
 Quoi ? Parlez-vous encor de haine, et de colère,
 Après tout ce qu'a fait son repentir sincère ?
 Vous le voyez. Quel autre, osant parler pour vous,
@@ -1610,254 +1196,13 @@ Ce mont, d'où votre bras foudroya les gaulois,
 De nos dieux, dont alors vous fûtes la défense,
 Sa voix, sur ces ingrats, attestait la vengeance !
 
--*who_manlius
-Vain remède à mes maux ! Inutile secours !
-Quand son zèle, et ses soins auraient sauvé mes jours,
-Peut-il de mes desseins rétablir l'espérance ?
-Et puis-je aimer la vie, en perdant ma vengeance ?
-Toutefois que me sert de cacher à ta foi
-Un penchant, qui vers lui m'entraîne malgré moi ?
-Oui, je te fais l'aveu de ma honte secrète,
-Pour un perfide ami ma haine m'inquiète,
-M'embarrasse, et tandis que ferme, indifférent,
-Je vois, pour me sauver, tout ce qu'il entreprend,
-En dédaignant ses soins, mon cour y trouve un charme,
-Qui malgré son dépit, le touche, et le désarme.
-Non qu'enfin de ma gloire aujourd'hui peu jaloux,
-Sans rien vouloir de plus, j'apaise mon courroux,
-Je prétends... mais il vient. Sors, Albin, et me laisse
-À ses regards du moins dérober ma faiblesse.
-
-**** *book_ *id_V02 *act_V *date_1698
-
--*who_manlius
-Enfin, tu prétends donc, dans mon cour confondu
-Triompher, malgré moi, d'un courroux qui t'est dû.
-Je vois ton repentir, animant ton audace,
-Opposer mille efforts au sort qui me menace :
-Mais, sans que du succès tu puisses t'assurer,
-Après m'avoir trahi, c'est me déshonorer.
-Il semble à mes tyrans, que tremblant pour ma vie,
-Dans tes soins mendiés c'est moi qui m'humilie.
-Ton zèle mal conçu m'expose à leurs mépris,
-Et de mon amitié tu connais mal le prix.
-Si sa perte à ce point t'inquiète et t'afflige,
-Tous tes efforts sont vains, sans un prix que j'exige,
-Mais tel, qu'il peut lui seul me mieux prouver ta foi,
-Que tout ce que ton zèle osa jamais pour moi.
-Pourrai-je cette fois conter sur ton courage ?
-
--*who_valerius
-De ce doute, à tes yeux, j'ai mérité l'outrage.
-Mais sans vouloir en vain m'expliquer là-dessus,
-Ni faire des serments, que tu ne croirais plus,
-Si j'ai peu fait encor, pour laver cette injure,
-Songe bien seulement, après un tel parjure
-Qu'en un cour généreux, de remords combattu,
-La honte de sa chute affermit sa vertu.
-
--*who_manlius
-Hé bien écoute donc. Tu sais contre ma vie
-Combien est animé le sénat en furie,
-Lié par le pardon qu'il t'a signé pour moi,
-Il sait, et me poursuivre, et te garder la foi ;
-Il me livre aux tribuns et de ma mort certaine
-Sur eux, par cette adresse, il rejette la haine.
-Dévoués à ses lois, de ma gloire jaloux,
-C'est sa main contre moi qui conduira leurs coups.
-Ils ne prononceront que ce qu'il leur inspire,
-Et le peuple soumis n'osera les dédire.
-Enfin qu'espères-tu de tes soins pour mes jours ?
-Crois-tu que le sénat séduit par tes discours,
-Après ce que deux fois a tenté ma furie,
-Soit assez imprudent, pour me laisser la vie ?
-Non, non, Servilius, mon trépas est certain.
-Et quelle honte à moi ! Quelle rage en mon sein,
-De voir mes ennemis, au gré de leur caprice,
-Disposer de mon sort, et choisir mon supplice !
-Verras-tu ton ami terminer à tes yeux,
-Par une main infâme, un sort si glorieux ?
-Enfin d'un tel trépas l'infamie assurée,
-C'est toi, Servilius, qui me l'as procurée.
-Je dois de cet affront être sauvé par toi.
-Observé, désarmé je ne puis rien pour moi.
-Mes gardes en entrant t'ont désarmé toi-même :
-Mais il faut pour tromper leur vigilance extrême...
-
--*who_servilius
-Je t'entends. Mais on vient.
-
-**** *book_ *id_V03 *act_V *date_1698
-
--*who_albin
       Un tribun empressé
 Vient vous entretenir sur ce qui s'est passé.
 Vous l'allez voir, Seigneur. Il monte au capitole.
 
--*who_manlius
-Lorsque tout est connu, que sert ce soin frivole ?
-Tu vois bien qu'il est temps de prendre ton parti,
-Profitons des moments, quand il sera parti.
-Crois que, sans cet effort, tout l'éclat de ton zèle,
-N'est plus, pour Manlius, qu'une injure nouvelle.
-
--*who_servilius
-Va, je te servirai, par-delà tes souhaits.
-
-**** *book_ *id_V04 *act_V *date_1698
-
--*who_servilius
-Oui, c'en est fait, il faut effacer pour jamais
-Le reproche odieux, dont ma gloire est flétrie ;
-Il faut que l'avenir... mais je vois Valérie,
-Armons-nous à ses yeux d'un cour ferme, et constant,
-Voici pour mon amour le plus affreux instant.
-
-**** *book_ *id_V05 *act_V *date_1698
-
--*who_valerie
-Je vais voir éclater, sur moi, votre colère :
-Mais la plus prompte mort me sera la plus chère,
-Et je viens me livrer à vos justes transports,
-Près d'un père endurci, j'ai fait de vains efforts.
-Mes pleurs...
-
--*who_servilius
-      Je le savais ; mais enfin, Valérie,
-De mes ressentiments ne craint plus la furie.
-J'ai fléchi Manlius, mon crime était le tien,
-Et tu dois partager le pardon que j'obtiens.
-Je rends grâce aux efforts que, sur le cour d'un père,
-Pour sauver cet ami, ton zèle vient de faire,
-Daigne excuser aussi l'éclat de mes fureurs.
-Tu le vois, le destin a pouvoir sur les cours.
-Il sait, des plus unis troublant l'intelligence,
-Leur faire, quand il veut, sentir leur dépendance.
-Mais de tes pleurs enfin, retiens ici le cours,
-D'une âme raffermie, écoute mon discours.
-Montre un courage ici digne de ta naissance.
-
--*who_valerie
-Je vous obéirai, s'il est en ma puissance.
-Parlez.
-
--*who_servilius
-      Ressouviens-toi de ce malheureux jour,
-Où la haine des dieux alluma notre amour.
-
--*who_valerie
-Malheureux ! Juste ciel !
-
--*who_servilius
-      Quoi ? Déjà ton courage... ?
-
--*who_valerie
-Et puis-je avec constance écouter ce langage ?
-Ainsi ce jour, témoin de ma félicité,
-Est un jour malheureux, et par vous détesté ?
-Que votre amour, Seigneur, dans ses transports sincères,
-S'en souvenait hélas ! Sous des noms bien contraires !
-
--*who_servilius
-Cet amour insensé ne regardait que soi
-Il ne prévoyait pas les malheurs que sur toi,
-Déploieraient les destins, depuis ce jour sinistre,
-Et qu'il devait lui-même en être le ministre,
-Qu'il te ferait quitter un sort tranquille, heureux,
-Pour attacher tes jours à mon sort rigoureux ;
-Que par lui, que pour lui, tu te verrais réduite
-Aux affronts de l'exil, aux travaux de la fuite,
-Et qu'enfin aujourd'hui des transports inhumains,
-Contre ton propre sang, exciteraient mes mains.
-
--*who_valerie
-Ciel ! Où tend ce discours ? Pourquoi dans ma pensée
-Rappeler vainement cette image effacée ?
-
--*who_servilius
-D'un malheureux ami tu comprends le danger,
-Le conseil des tribuns est prêt à le juger
-Je vais, aux yeux de tous, y prendre sa défense.
-Mais si l'événement trompe mon espérance,
-C'est à toi, Valérie, après tant de travaux,
-À perdre, sans regret, l'auteur de tous tes maux.
-Adieu.
-
-**** *book_ *id_V06 *act_V *date_1698
-
--*who_valerie
-      Que me dit-il ? Quel nouveau coup de foudre
-À quel parti cruel prétend-il me résoudre ?
-Moi ? Que je me prépare à le perdre en ce jour,
-Quand tout semble assurer son cour à mon amour ?
-Et que veut-il enfin ? Rompre mon hyménée ?
-Me fuir ? Ou par ses mains trancher sa destinée ?
-Que deviendrai-je ? Ô dieux ! Quel que soit son dessein,
-En vain je le voudrais arracher de son sein,
-À mes yeux étonnés, quel calme redoutable
-Marquait sur son visage une âme inébranlable,
-Sous un prétexte vain à sortir de ce lieu,
-Ne m'aurait-il point dit un éternel adieu ?
-Ah ciel ! S'il était vrai ! S'il fallait que mon âme...
-Courons m'en éclaircir.
-
-**** *book_ *id_V07 *act_V *date_1698
-
--*who_valerie
-      Ah ! Viens, suis-moi.
-
--*who_tullie
-      Madame,
-Des gardes sont ici chargés, par votre époux,
-De retenir vos pas, et de veiller sur vous,
-C'est l'ordre qu'il donnait lui-même, en ma présence,
-Quand Albin est venu lui dire en diligence,
-Que son maître, en partant, souhaitait lui parler.
-
--*who_valerie
-Ô ciel ! Que m'apprends-tu ? Que j'ai lieu de trembler !
-Sait-on si son arrêt...
-
--*who_tullie
-      On n'a pu m'en instruire.
-Déjà l'un des tribuns chargé de le conduire,
-Montant au capitole, aurait laissé juger
-Qu'il ne venait ici que pour l'interroger,
-Il craignait que du peuple une troupe avertie,
-Pour sauver Manlius, n'attendît sa sortie.
-Cependant sur la route on plaçait des soldats,
-Et d'autres sont bientôt arrivés sur ses pas,
-Qui, sur l'heure formant une nombreuse escorte,
-Conduisent aux tribuns Manlius à main forte.
-Servilius d'abord éperdu, furieux,
-Par un départ soudain, se dérobe à mes yeux,
-Et sans doute, Madame, il court en leur présence
-D'un ami hautement embrasser la défense.
-
--*who_valerie
-En partant de ces lieux, lui-même il me l'a dit :
-Mais que deviendra-t-il, si Manlius périt ?
-Je frémis d'y penser, et cependant captive
-J'attendrais... Non Tullie, il faut que je le suive,
-Il faut en ce palais, les flammes à la main,
-M'allumer un bûcher, ou m'ouvrir un chemin.
-Mais j'aperçois Albin, quel est son trouble extrême ?
-
-**** *book_ *id_V08 *act_V *date_1698
-
--*who_valerie
-Albin, où courez-vous ?
-
--*who_albin
       Je l'ignore moi-même.
 Et dans l'égarement d'un aveugle transport...
 
--*who_valerie
-Vient-on de condamner Manlius à la mort ?
-Servilius... Parlez, expliquez-vous, sans feinte.
-Vous ne me direz rien que ne m'ait dit ma crainte.
-
--*who_albin
 Hélas ! Je prétendais, par d'inutiles soins,
 Vous cacher un malheur, dont tant d'yeux sont témoins
 Apprenez, apprenez, par ce récit fidèle,
@@ -1897,17 +1242,42 @@ Tous deux précipités au pied du capitole,
 Ils meurent embrassés, tristes objets d'horreur,
 Où l'on voit l'amitié consacrer la fureur.
 
--*who_valerie
-Hé bien ? C'en est donc fait, ô fortune inhumaine ?
-Et je serais encor le jouet de ta haine ?
-Mais contre les rigueurs, que tu m'as fait prévoir,
-J'ai su secrètement armer mon désespoir,
-Et je vais, malgré toi, par ce coup favorable
-Finir tous tes projets contre une misérable.
 
--*who_tullie
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+
+Madame, quel sujet vous peut troubler ainsi !
+Craignez-vous qu'un héros si grand, si magnanime
+Vous veuille abandonner au sort, qui vous opprime ?
+Connaissez-vous si mal un cour si généreux ?
+Ah ! Perdez des frayeurs indignes de ses feux.
+De sa fidélité vos malheurs sont un gage.
+Et comment pouvez-vous en prendre tant d'ombrage,
+Vous, qui si hautement, faites voir en ce jour,
+Que le sort ne peut rien contre un parfait amour ?
+
+J'entends ouvrir. C'est lui, Madame.
+
+      Madame,
+Des gardes sont ici chargés, par votre époux,
+De retenir vos pas, et de veiller sur vous,
+C'est l'ordre qu'il donnait lui-même, en ma présence,
+Quand Albin est venu lui dire en diligence,
+Que son maître, en partant, souhaitait lui parler.
+
+      On n'a pu m'en instruire.
+Déjà l'un des tribuns chargé de le conduire,
+Montant au capitole, aurait laissé juger
+Qu'il ne venait ici que pour l'interroger,
+Il craignait que du peuple une troupe avertie,
+Pour sauver Manlius, n'attendît sa sortie.
+Cependant sur la route on plaçait des soldats,
+Et d'autres sont bientôt arrivés sur ses pas,
+Qui, sur l'heure formant une nombreuse escorte,
+Conduisent aux tribuns Manlius à main forte.
+Servilius d'abord éperdu, furieux,
+Par un départ soudain, se dérobe à mes yeux,
+Et sans doute, Madame, il court en leur présence
+D'un ami hautement embrasser la défense.
+
 Grands dieux ! Quelle fureur...
 
--*who_valerie
-      Ne me plains point, je vais
-À ce que j'ai perdu me rejoindre à jamais.

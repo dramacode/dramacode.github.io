@@ -1,205 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
 
--*who_agesistrate
-Ah ! le coeur me bat ;
-Car mon fils combat
-Contre un fier tyran,
-Qui pis est son parent.
-Sparte, je rougis
-D'aimer mon cher Agis :
-Hélas ! c'en est fait,
-Peut-être il est défait :
-S'il vit, je le pleure,
-Ou dans ma demeure
-Je mourrai sur l'heure,
-À moins qu'il ne meure :
-Ah ! ce n'est qu'ici,
-Qu'on se console ainsi.
-J'aperçois Lysander, l'ancien précepteur de mon fils : cet homme-là n'est point sans mérite ; d'ailleurs, il fait fort bien les nouvelles.
-
-**** *book_ *id_I02 *act_I
-
--*who_agesistrate
-Sparte enfin, prudent Lysander,
-Ressuscitera -t-elle ?
-
--*who_lysander
-Ah ! ce bien à nos coeurs si cher,
-La liberté chancelle.
-J'entre au Sénat : dans mon ardeur ;
-Je parle, je pérore ;
-Mais ils m'ont pris pour un plaideur ;
-Car ils dorment encore.
-
--*who_agesistrate
-Ah ! combien nous comptions pourtant
-Sur leurs décrets suprêmes !
-
--*who_lysander
-Mais qu'aperçois-je en cet instant ?
-Parbleu ! ce sont eux-mêmes.
-
--*who_agesistrate
-Pourquoi dans mon appartement,
-Leurs faces parasites ?
-
--*who_lysander
-Ah ! c'est qu'ils sont apparemment
-Dans leur cours de visites.
-N'allez pas les faire asseoir ; ils s'endormiraient encore.
-
--*who_agesistrate
-Eh !
-Comment les en empêcher, s'ils en ont envie ?
-
--*who_lysander
-Parlez-leur de la Patrie, de la vertu, de la gloire.
-
--*who_agesistrate
-Ils dormiraient debout : quoi qu'il en soit, essayons une petite mercuriale, à la manière, accoutumée.
-
-**** *book_ *id_I03 *act_I
-
--*who_agesistrate
-Je suis de vous
-Très mécontente,
-Entendez-vous ?
-Vous craignez un tyran infâme ;
-Vous moliriez, s'il était là :
-Faut-il que ce soit une femme
-Qui vous reproche ces torts-là ?
-Chacun pour soi dans cette affaire ;
-Aucun n'est Grec ni Citoyen :
-Les uns agissent pour mal faire,
-Et tous les autres ne sont rien.
-À la buvette,
-Vous oubliez votre pays,
-Et la besogne n'est pas faite,
-Que l'on vous voit mener Thémis
-À la buvette.
-Ces Messieurs ne disent rien.
-
--*who_lysander
-Ils n'en pensent pas moins.
-Mais attendons Emphases
-Pour concerter nos projets.
-Je l'ai vu tantôt vraiment,
-Méfions-nous-en,
-Méfions-nous-en :
-Pour moi je le crois tout bas,
-Ami de Léonidas :
-Il semblait sous le fer endormir la victime.
-
--*who_lysander
-Je l'aperçois.
-
--*who_agesistrate
-Voilà ce que c'est que d'en parler !
-
-**** *book_ *id_I04 *act_I
-
--*who_emphases
-On récit va les surprendre ;
-Mais hélas ! Quel détour prendre ?
-Comment puis-je leur apprendre
-Un si déplorable sort ?
-Que la mère m'intéresse !
-Mettons-y beaucoup d'adresse,
-Et ménageons sa tendresse...
-Ah ! Madame, Agis est mort.
-
--*who_agesistrate
-Il est mort !
-Quel plaisir !
-Ah ! mon désir
-S'accomplit : je suis heureuse,
-Mon fils meurt :
-C'est un malheur
-Pour Sparte, et non pour mon coeur.
-
--*who_emphases
-La tête lui tourne : rassurons-la.
-Mais, écoutez, Madame, il n'est peut-être que battu, blessé légèrement, et d'ailleurs en très bonne santé.
-
--*who_agesistrate
-Qu'entends-je ! Ne me cache rien
-Du malheur qui m'accable :
-Ah ! Si mon fils se porte bien,
-Je suis inconsolable.
-Au reste, dans l'art des combats
-Je ne suis pas novice.
-S'il n'est plus, je cours sur ses pas
-Demander du service.
-
-**** *book_ *id_I05 *act_I
-
--*who_emphases
-Pour vous, Messieurs, je vous conseille de prendre votre parti : je sais de très bonne part que Léonidas se prépare à vous remercier.
-
--*who_lessenateurs
-Quel désespoir,
-D'être sans état à notre âge !
-Quel désespoir,
-Que faire du matin au soir !
-
-**** *book_ *id_I06 *act_I
-
--*who_emphases
-À Nous deux maintenant.
-Profitons du malheur de tous,
-De moitié nous serons ensemble...
-
--*who_lysander
-Que dis-tu ?
-Quoi, tu trahis l'État ?
-
--*who_emphases
-Un peu ; mais qu'importe ?
-
--*who_lysander
-Quand c'est sur toi que se fonde
-Notre commun intérêt !
-
--*who_emphases
-La fortune me seconde,
-Mon sort n'est pas encor fait :
-Chacun pour soi dans ce monde,
-Le sceptre est beau tel qu'il est.
-
--*who_lysander
-Je ne t' écoute pas ; laisse-moi, traître, ne compte plus sur mon amitié.
-Nous mourrons courageusement,
-Sans que tu sois de la partie.
-
--*who_emphases
-J'en suis indigne assurément ;
-Admire au moins ma modestie.
-
--*who_lysander
-Te parlant encor, je croirais
-Partager ton ignominie.
-Reste tout seul.
-
--*who_emphases
-      Ah ! je pourrais
-Être en meilleure compagnie.
-
-**** *book_ *id_I07 *act_I
-
--*who_emphases
-Il m'émeut avec sa vertu : je sens....
-Allons, allons, point de faiblesse ; les petits scrupules dérangent les grands projets.
-J'entends Agis et les boucliers des soldats.
-Défait, proscrit, chassé, comment, peut-il rentrer dans Lacédémone ?
-Le tyran est trop prudent pour le lui permettre.
-Ah !
-J'ai bien peur que ce ne soit point la faute de Léonidas.
-
-**** *book_ *id_I08 *act_I
-
--*who_agis
 Tenez, parlez-moi des grands-hommes
 Pour n'être jamais abattus.
 Messieurs, je pense que nous sommes
@@ -210,33 +12,14 @@ Nous jouions au Roi dépouillé ;
 Mon beau-père est celui qui gagne.
 Allez, mes chers amis ; je suis très reconnaissant de vos services, et je vous réforme.
 
-**** *book_ *id_I09 *act_I
-
--*who_agis
 C'est ma femme : enfin plaignons-nous
 De son humeur légère ;
 Vous aviez quitté votre époux.
 
--*who_chelonis
-Non, j'ai suivi mon père.
-Tu souffres ; je dois partager
-Ton malheur et ta chaîne.
-Peut-on voir, sans le soulager,
-Un homme dans la peine ?
+Ces sentiments là sont très-beaux, et vous êtes justifiée. J'aperçois ma mère.
 
--*who_agis
-Ces sentiments là sont très-beaux, et vous êtes justifiée.
-J'aperçois ma mère.
-
-**** *book_ *id_I10 *act_I
-
--*who_agis
 Eh bien, ma mère ?
 
--*who_agesistrate
-Eh bien, mon fils ?
-
--*who_agis
 Cet échec est déplaisant,
 Que faut-il faire à présent ?
 Pendant qu'un tyran prépare
@@ -244,85 +27,17 @@ Un supplice affreux, barbare,
 Je crois qu'il serait malin
 De me tuer de ma main.
 
--*who_agesistrate
-Faut d'la vertu, pas trop n'en faut,
-L'excès partout est un défaut, bis.
-
--*who_agis
 Quand on est mort, c'est pour longtemps,
 L'on est affranchi des méchants,
 De l'esclavage et des tyrans.
 
--*who_agesistrate
-Tu ne m'entends donc pas, mon cher Agis ?
-Faut d'la vertu, etc.
+Soyez donc d'accord avec vous, ma mère. Vous désiriez impatiemment ma mort, si j'étais battu : je le suis, vous m'engagez à vivre,
 
--*who_agis
-Soyez donc d'accord avec vous, ma mère.
-Vous désiriez impatiemment ma mort, si j'étais battu : je le suis, vous m'engagez à vivre,
-
--*who_agesistrate
-Ah !
-J'ai tort, j'ai tort ; c'est une petite inconséquence maternelle, dont je rougis.
-Fais tout ce que tu jugeras à propos, je ne t'en empêcherai pas.
-
--*who_agis
 Maintenant je suis refroidi ; d'ailleurs, j'aperçois Léonidas qu'il faut que j'insulte un peu pour humilier sa victoire.
 
-**** *book_ *id_I11 *act_I
-
--*who_leonidas
-J'ai puni ton audace
-Et la mort où tu cours...
-
--*who_agis
 Je ris de ta menace,
 Et crains peu pour mes jours.
 
--*who_leonidas
-Çà n'durera pas toujours.
-
--*who_chelonis
-Mon cher Agis, mon père !
-Ah ! Puissai-je en ce jour, me montrant fille et femme...
-
--*who_leonidas
-Mais, mon cher enfant, c'en est aussi trop à la fois.
-Et toi !
-Crois-tu que mon courroux dissimule l'affront,
-Que mon sceptre brisé fit jaillir sur mon front.
-
--*who_chelonis
-Encore un coup, mon père, ne dites pas de ces folies-là.
-Hélas ! pouvez-vous voir, sans en être attendri,
-Ces vêtements de deuil, ce visage flétri ?
-Regardez ces traits
-Pâles et défaits.
-Hélas ! Mon oeil est éteint :
-Pleurer, a gâté mon teint.
-Voyez ma douleur,
-Je tombe en langueur.
-Ah ! papa, si j'avais su,
-J'aurais eu
-Moins de vertu.
-
--*who_leonidas
-Pourquoi donc, ma chère fille,
-M'étourdir de tels regrets ?
-Ta mine est toujours gentille,
-Tes appas sont toujours frais :
-Plus d'un que ta bouche frappe,
-Épris de cet oeil mutin,
-Mordrait encor à la grappe
-Dans la vigne du voisin.
-
--*who_chelonis
-Mon père, laissons la bagatelle, et daignez accorder à mon mari...
-
--*who_leonidas
-Que demande- t-il ?
-
--*who_agis
 Selon les anciens usages des tyrans,
 Prendre nos biens sans nuls ménagements.
 Goûter les plaisirs toujours à nos dépends,
@@ -332,36 +47,150 @@ Que chacun ici trouve la liberté,
 Et mettons nos femmes en communauté,
 Par-là nous serons à la mode.
 
--*who_leonidas
-L'égalité !
-Chimère : et sur qui régnerais-je ?
-
--*who_agis
 Sur toi-même.
 
--*who_leonidas
-Le bel empire !
+Décide-toi, Léonidas.... Où suis-je ?
 
--*who_agis
-Décide-toi, Léonidas....
-Où suis-je ?
-
--*who_leonidas
-Ici, je crois.
-
--*who_agis
 Licurgue ressuscite, Sparte renaît triomphante.
 
--*who_leonidas
-Qu'a-t-il donc ?
-
--*who_agesistrate
-C'est une vision ; il est sujet à cela depuis son enfance, ce ne sera pas la dernière.
-
--*who_agis
 Eh bien, Léonidas, sommes-nous égaux ?
 
--*who_leonidas
+Ah ! Je ne demande plus rien ;
+Tout était mal, et tout est bien.
+
+Ô Ciel ! Quel retour prospère !
+Un Roi nous, rend tous égaux ;
+Amis, chantons mon beau-père ;
+Rimons lui... cent madrigaux :
+Embrassons tous mon beau-père,
+Certes il l'a bien mérité ;
+Faisons danser mon beau-père ;
+Pour fêter la liberté.
+
+C'est un Peintre qui m'a drapé ;
+Je suis d'après l'antique.
+Mais à propos.
+On ose m'arrêter,
+J'aurais dû m'en douter ;
+Ma prudence est légère ;
+Tyran, tyran, tyran sanguinaire,
+Ah ! du moins ma colère
+Te dira bien ton fait.
+
+Oui dà ! Je suis donc au Sénat! La belle jeunesse ! D'honneur, mon cher tyran, la mascarade est gaie.
+Ces Messieurs n'ont pas l'air auguste.
+
+Je leur en fais mon compliment.
+
+Tu les fais trop durs. Moi je gage
+Qu'on ne meurt pas de lour rigueur.
+
+De leur courroux impuissant,
+Lorsque tu me menaces,
+Tu te crois bien imposant,
+Tu n'as l'air que d'un pédant
+En classes, en classes, en classes.
+Ô toi qu'ici je retrouve !
+Et pour nous deux j'en rougis,
+Feu Licurgue, accepte, approuve,
+L'hommage et les voeux d'Agis.
+Tes vertus font effacées
+Le crime a seul de l'éclat.
+Dans quelles mains sont placées
+Les affaires de l'État !
+Tout tourne autour de moi ; je m' élance, où suis-je ?
+
+Dans ce nuage qui s' entr' ouvre,
+Postérité je te découvre :
+C'est toi, là' bas, là-bas, là-bas,
+La terre s'enfuit sous mes pas.
+
+Messieurs, voyez la gloire,
+Consacrant mon histoire....
+
+Ciel ! La race future Redit mon aventure
+Au coin du feu. (bis.)
+
+Je penche tout d'un côté.
+Mes amis, je crains la chute,
+Et je dois, en vérité,
+Vivre encor une minute.
+Mon bouclier est là-bas ;
+C est-là ce qui m'importe.
+
+Cherche le, car je ne mourrai pas
+Qu'on ne me le rapporte.
+
+Plaisants regrets ! Et franchement crois-tu
+Que ma santé soit meilleure ?
+Mon trépas n'a rien qui t' étonne,
+C'est le cas de prendre un parti ;
+Chélonis à Lacédémone,
+Peut encor faire un bon parti ;
+Mille amants assiégeant ta trace,
+Auprès de toi cherchaient accès ;
+Qu'un d'eux par l'hymen me remplace.
+
+Ma bonne amie, vous êtes une femme de précaution je l'ai toujours dit.
+
+Ma mère, modérez cette joie, je n'en mourrai peut-être pas.
+
+Mesdames, vous parlez toujours ;
+Défaut que je déteste!
+
+Dans mon état funeste,
+Ma mère, je n'ai pas tout dit,
+Et je sens bien que mon esprit,
+
+Il est donc temps que je quitte ces lieux ;
+Ah! recevez mes plus tendres adieux ;
+Ce n'est pas tout de montrer du courage,
+De bonne grâce Agis doit s'en aller.
+Or, d'un mourant ai-je bien l'équipage ?
+La voix touchante, et l'air et le langage !
+
+Si bas qu'il faudra, même pas du tout.
+
+Grands Dieux, je renais, où suis-je ?
+Quand mes jours étaient finis ;
+Qui fait donc un tel prodige ?
+
+Mon amour t'en félicite ;
+Ce trait-là fera cité....
+Voilà comme on ressuscite
+Dans les bras de la beauté.
+
+
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonidas
+
+J'ai puni ton audace
+Et la mort où tu cours...
+
+Çà n'durera pas toujours.
+
+Mais, mon cher enfant, c'en est aussi trop à la fois. Et toi !
+Crois-tu que mon courroux dissimule l'affront,
+Que mon sceptre brisé fit jaillir sur mon front.
+
+Pourquoi donc, ma chère fille,
+M'étourdir de tels regrets ?
+Ta mine est toujours gentille,
+Tes appas sont toujours frais :
+Plus d'un que ta bouche frappe,
+Épris de cet oeil mutin,
+Mordrait encor à la grappe
+Dans la vigne du voisin.
+
+Que demande- t-il ?
+
+L'égalité ! Chimère : et sur qui régnerais-je ?
+
+Le bel empire !
+
+Ici, je crois.
+
+Qu'a-t-il donc ?
+
 Je ne dis pas non, seulement qu'Emphasés approche et que je lui dise deux mots à l'oreille.
 Il faut user de ruse pour me défaire de tous ces gens-là ; les Sénateurs me contrarieraient, anéantissons-les.
 D'un héroïsme plaisant.
@@ -370,16 +199,8 @@ Cherche un Sénat complaisant,
 Et pas trop honnête :
 Je te fais dès-à-présent Le Roi de la fête.
 
--*who_emphases
-Bien obligé, Monseigneur.
-
--*who_leonidas
 Emphasés, encore un mot.
 
--*who_emphases
-Monseigneur !
-
--*who_leonidas
 Agis peut nuire aux projets
 Que j'ai dans la tête :
 Il a pour lui nos sujets,
@@ -388,13 +209,6 @@ Toi, dans l'instant,
 En sortant,
 Prends soin qu'on l'arrête.
 
--*who_emphases
-Monseigneur, comptez sur mon exactitude.
-
--*who_chelonis
-C'est-il fait ?
-
--*who_leonidas
 J'y suis.
 Or écoutez petits et grands ;
 Nous finirons en bons parents ;
@@ -407,71 +221,14 @@ Je quitte un rang que je dédaigne ;
 Je me détrône : oui, qu'à jamais
 Seule ici la liberté règne.
 
--*who_agis
-Ah ! Je ne demande plus rien ;
-Tout était mal, et tout est bien.
-
--*who_lechoeur
-Ah ! nous, ne demandons plus rien ;
-Tout était mal, et tout est bien.
-
--*who_agis
-Ô Ciel ! Quel retour prospère !
-Un Roi nous, rend tous égaux ;
-Amis, chantons mon beau-père ;
-Rimons lui... cent madrigaux :
-Embrassons tous mon beau-père,
-Certes il l'a bien mérité ;
-Faisons danser mon beau-père ;
-Pour fêter la liberté.
-
--*who_unjeunespartiate
-Depuis que j'ai brisé les chaînes,
-Et des pédants et des tuteurs,
-J'ai mangé mon bien dans Athènes,
-Entre l'amour et les prêteurs :
-J'ai tes mains nettes ;
-Mais en tout cas
-L'égalité paiera mes dettes :
-Ce système a beaucoup d'appas.
-
--*who_leonidas
 Danse toujours, mais n't'y fie pas,
 Danse toujours, etc.
 
--*who_unejeunefille
-Cléandre par l'hymen me tente,
-Comment prétendre à ce lien ?
-Ma mère est esclave indigente,
-Son père est riche et citoyen :
-Chose importune !
-J'étais sans bien,
-L'égalité fait ma fortune ;
-Que notre hymen aura d'appas !
-
--*who_leonidas
 Danse toujours, etc.
 
--*who_unlaquais
-J'abjure l'humble ministère
-Qui m' attachait à Monseigneur ;
-Sa Grandeur ne sommeille guère,
-Et je souffrais de son humeur.
-Mais s'il l'agrée, De très grand coeur,
-Ce soir, je lui rends sa livrée ;
-Vivre sans, maître a tant d'appas !
-
--*who_leonidas
 Danse toujours, etc.
-Fort bien, mes amis !
-Allez maintenant vous asseoir au banquet qu'Emphasés a fait préparer par mon ordre ; c'est le verre à la main que nous ratifierons nos traités.
+Fort bien, mes amis ! Allez maintenant vous asseoir au banquet qu'Emphasés a fait préparer par mon ordre ; c'est le verre à la main que nous ratifierons nos traités.
 
--*who_tous
-Allons, allons, allons nous réjouir, allons.
-
-**** *book_ *id_I12 *act_I
-
--*who_leonidas
 J'ai la balle en main,
 Je suis en bon train ;
 Mais il faut enfin
@@ -480,104 +237,34 @@ Heureusement qu'Agis n'est pas malin,
 Il n'en serait pas dupe.
 Emphasés arrive avec l'air empressé ; je gagerais bien que mon Sénat est fait.
 
-**** *book_ *id_I13 *act_I
-
--*who_leonidas
 Eh bien, faut-il que je te nomme ?
 Tout est-il prêt, peut-on siéger?
 
--*who_emphases
-Je n'ai pu résoudre un seul homme
-À s'asseoir ici pour juger.
-
--*who_leonidas
 Comment ! Répugnance absolue !
 Quel est leur motif ou leur but !
 
--*who_emphases
-Ils ont peur que Sparte ne hue :
-Tout acteur tremble à son début.
-
--*who_leonidas
 Point d'hommes !
 
--*who_emphases
-Cela ne m'a pas empêché de faire un Sénat.
-
--*who_leonidas
 De femmes, peut-être ?
 
--*who_emphases
-Précisément.
-
--*who_leonidas
 Tu te moques.
 
--*who_emphases
-Non, Monseigneur, un très joli sénat, oh s'y trompera, soyez-en bien sûr.
-
--*who_leonidas
 Comment pourront-elles juger, trancher, décider, condamner sans appel ?
 
--*who_emphases
-Eh !
-Monseigneur, elles ne font que cela toute la journée.
-Comptez d'ailleurs sur un profond mystère
-Elles auront l'air décent et posé.
-
--*who_leonidas
 Leur rôle ici ne sera pas aisé.
 
--*who_emphases
-Pourquoi, Seigneur ?
-
--*who_leonidas
       C'est qu'il faudra se taire.
 Mais quelles femmes as-tu choisi ?
 
--*who_emphases
-J'ai des coquettes pour briller,
-Du bel-esprit pour babiller,
-Des médisantes à prouesses,
-Pour instruire et pour démêler ;
-Pour condamner j'ai des Lucrèces,
-Et des minois pour consoler.
-
--*who_leonidas
 Je doute fort qu'à ce cadeau
 Sparte entière applaudisse.
 
--*who_emphases
-Pourquoi pas !
-L'amour n' a-t-il pas un bandeau,
-Ainsi que la justice ?
-Sera-ce la première fois,
-Au bon temps comme au nôtre,
-Que l'un aura dicté les lois
-Et les arrêts de l'autre.
-
--*who_leonidas
 Des femmes !
 
--*who_emphases
-N'ayez aucune inquiétude,
-Allez, tout ira pour le mieux ;
-Ne fût-ce que par habitude,
-Mon Sénat fera des heureux.
-
--*who_leonidas
 À la bonne heure, où sont-elles ?
 
--*who_emphases
-Dites donc, où sont-ils ?
-Feignez de ne pas les reconnaître.
-
--*who_leonidas
 Fort bien, allons, fais-les entrer, que je les installe chez-moi, cela me fera beaucoup plus commode.
 
-**** *book_ *id_I14 *act_I
-
--*who_leonidas
 Bonjour, la compagnie,
 Bonjour,
 Bonjour, la compagnie.
@@ -602,135 +289,35 @@ Proscrit cet art ingénieux :
 Pour paraître belle à nos yeux,
 Regarde donc, il faudra l'être.
 
--*who_lesenat
-Il est coupable, il a grand tort ;
-La mort, la mort, c'n'est pas trop fort.
-
--*who_leonidas
 Plus de toilette, plus d'opulence.
 La brillante et riche Aspisie
 Doit renoncer à la douceur
 De voir sa compagne ou sa soeur,
 Mourir cent fois de jalousie.
 
--*who_lesenat
-Il est coupable, il a grand tort ;
-La mort, la mort, c'n'est pas trop fort.
-
--*who_leonidas
 Elles me paraissent bien préparées.
 Agis doit être en ce moment
 Dans la chambre prochaine ;
 Allez, qu'il paroisse humblement,
 Sans oublier sa chaîne.
 
-**** *book_ *id_I15 *act_I
-
--*who_lesenat
-Ô Ciel, comme il est équipé !
-Quel attirail gothique !
-
--*who_agis
-C'est un Peintre qui m'a drapé ;
-Je suis d'après l'antique.
-Mais à propos.
-On ose m'arrêter,
-J'aurais dû m'en douter ;
-Ma prudence est légère ;
-Tyran, tyran, tyran sanguinaire,
-Ah ! du moins ma colère
-Te dira bien ton fait.
-
--*who_lessenateurs
-Qu'est-ce que c'est, etc.
-
--*who_leonidas
 Le Sénat t'interroge.
 
--*who_agis
-Oui dà !
-Je suis donc au Sénat!
-La belle jeunesse !
-D'honneur, mon cher tyran, la mascarade est gaie.
-Ces Messieurs n'ont pas l'air auguste.
-
--*who_leonidas
 Au Sénat parle décemment ;
 Il se pique au moins d'être juste.
 
--*who_agis
-Je leur en fais mon compliment.
-
--*who_leonidas
 Ma foi, lui-même il nous engage
 À punir cet amer langage.
 Prononcez son arrêt sans peur.
 
--*who_agis
-Tu les fais trop durs. Moi je gage
-Qu'on ne meurt pas de lour rigueur.
+Insolent ! Tu sentiras tout-à-l'heure....
 
--*who_leonidas
-Insolent !
-Tu sentiras tout-à-l'heure....
-
--*who_agis
-De leur courroux impuissant,
-Lorsque tu me menaces,
-Tu te crois bien imposant,
-Tu n'as l'air que d'un pédant
-En classes, en classes, en classes.
-Ô toi qu'ici je retrouve !
-Et pour nous deux j'en rougis,
-Feu Licurgue, accepte, approuve,
-L'hommage et les voeux d'Agis.
-Tes vertus font effacées
-Le crime a seul de l'éclat.
-Dans quelles mains sont placées
-Les affaires de l'État !
-Tout tourne autour de moi ; je m' élance, où suis-je ?
-
--*who_leonidas
 Encore une vision ; ce tic-là ne laisse pas que d'être désagréable.
 
--*who_agis
-Dans ce nuage qui s' entr' ouvre,
-Postérité je te découvre :
-C'est toi, là' bas, là-bas, là-bas,
-La terre s'enfuit sous mes pas.
-
--*who_leonidas
 Il est timbré.
 
--*who_agis
-Messieurs, voyez la gloire,
-Consacrant mon histoire....
-
--*who_leonidas
 Qu'on lira peu.
 
--*who_agis
-Ciel ! La race future Redit mon aventure
-Au coin du feu. (bis.)
-
-**** *book_ *id_I16 *act_I
-
--*who_legarde
-Ah ! Monseigneur, arrivez promptement !
-Le peuple a battu votre Suisse ;
-Il est déjà dans votre appartement,
-Et prétend se faire justice :
-Il est puissant,
-Pressant ;
-Dans son dépit
-Il dit,
-Que Monseigneur est celui qu'on abhorre :
-On nous demande Agis,
-Le fils : Et partout réclamé,
-Nommé,
-Chacun le bénit et l'adore.
-
--*who_leonidas
 Je n'aurai pas un moment de repos !
 Mais à la fin c'est un martyre :
 Cet accident vient d'ailleurs à propos ;
@@ -746,35 +333,231 @@ Qu'il soit dûment coffré,
 Serré.
 Gardes, allez ; qu'on m'obéisse.
 
-**** *book_ *id_I17 *act_I
 
--*who_premiersenateur
-Eh bien, qu' dis-tu d' çà ?
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agesistrate
 
--*who_secondsenateur
-Moi, mon coeur, j'en ai la migraine.
+Ah ! le coeur me bat ;
+Car mon fils combat
+Contre un fier tyran,
+Qui pis est son parent.
+Sparte, je rougis
+D'aimer mon cher Agis :
+Hélas ! c'en est fait,
+Peut-être il est défait :
+S'il vit, je le pleure,
+Ou dans ma demeure
+Je mourrai sur l'heure,
+À moins qu'il ne meure :
+Ah ! ce n'est qu'ici,
+Qu'on se console ainsi.
+J'aperçois Lysander, l'ancien précepteur de mon fils : cet homme-là n'est point sans mérite ; d'ailleurs, il fait fort bien les nouvelles.
 
--*who_troisiemesenateur
-Écouter tout çà,
-Sans répondre un seul mot à çà !
+Sparte enfin, prudent Lysander,
+Ressuscitera -t-elle ?
 
--*who_quatriemesenateur
-Mais comme Agis nous mène !
-Comme nous souffrons çà !
+Ah ! combien nous comptions pourtant
+Sur leurs décrets suprêmes !
 
--*who_premiersenateur
-Dam' ! C'n'était pas la peine
-De nous, créer pour çà.
+Pourquoi dans mon appartement,
+Leurs faces parasites ?
 
--*who_tous
-Puisque c'est comm' çà,
-Quittons la morgue qui nous gêne !
-On peut s'passer d'çà,
-N'est-on pas à nos pieds sans çà ?
+Eh ! Comment les en empêcher, s'ils en ont envie ?
 
-**** *book_ *id_I18 *act_I
+Ils dormiraient debout : quoi qu'il en soit, essayons une petite mercuriale, à la manière, accoutumée.
 
--*who_lysander
+Je suis de vous
+Très mécontente,
+Entendez-vous ?
+Vous craignez un tyran infâme ;
+Vous moliriez, s'il était là :
+Faut-il que ce soit une femme
+Qui vous reproche ces torts-là ?
+Chacun pour soi dans cette affaire ;
+Aucun n'est Grec ni Citoyen :
+Les uns agissent pour mal faire,
+Et tous les autres ne sont rien.
+À la buvette,
+Vous oubliez votre pays,
+Et la besogne n'est pas faite,
+Que l'on vous voit mener Thémis
+À la buvette.
+Ces Messieurs ne disent rien.
+
+Voilà ce que c'est que d'en parler !
+
+Il est mort !
+Quel plaisir !
+Ah ! mon désir
+S'accomplit : je suis heureuse,
+Mon fils meurt :
+C'est un malheur
+Pour Sparte, et non pour mon coeur.
+
+Qu'entends-je ! Ne me cache rien
+Du malheur qui m'accable :
+Ah ! Si mon fils se porte bien,
+Je suis inconsolable.
+Au reste, dans l'art des combats
+Je ne suis pas novice.
+S'il n'est plus, je cours sur ses pas
+Demander du service.
+
+Eh bien, mon fils ?
+
+Faut d'la vertu, pas trop n'en faut,
+L'excès partout est un défaut, bis.
+
+Tu ne m'entends donc pas, mon cher Agis ?
+Faut d'la vertu, etc.
+
+Ah ! J'ai tort, j'ai tort ; c'est une petite inconséquence maternelle, dont je rougis. Fais tout ce que tu jugeras à propos, je ne t'en empêcherai pas.
+
+C'est une vision ; il est sujet à cela depuis son enfance, ce ne sera pas la dernière.
+
+Ah ! que mon coeur, est content
+Cher Agis combien on t'aime !
+Sparte est libre en nu moment,
+Mon fils doit mourir gaiement;
+Un fait tout particulier,
+C'est que j'ai sans bouclier,
+Triomphé d'Emphases même,
+Dans un combat singulier.
+Allons, mes amis.
+
+Oh que si, mon bon ami, défie-toi moins de la bonté des Dieux.
+
+Imitez-moi ; dans mon âme,
+C'est l'honneur qui fait la loi.
+
+Mon fils meurt, mais dans l'histoire
+Il n'aura jamais d'égal.
+
+Mon cher fils...
+
+Mon fils, mettez vite à profit
+Le peu qui vous en reste.
+
+J'ai tout-à-l'heure, en guerrière,
+Supporté la mort d'Agis ;
+Je reprends un coeur de mère,
+Et crains peu pour les jours d'un fils,
+Mourant pour Sparte agitée,
+S'il remplissait mes désirs,
+Je serais aussi flattée
+Qu'il vécut pour vos plaisirs.
+
+
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chelonis
+
+Non, j'ai suivi mon père.
+Tu souffres ; je dois partager
+Ton malheur et ta chaîne.
+Peut-on voir, sans le soulager,
+Un homme dans la peine ?
+
+Mon cher Agis, mon père !
+Ah ! Puissai-je en ce jour, me montrant fille et femme...
+
+Encore un coup, mon père, ne dites pas de ces folies-là.
+Hélas ! pouvez-vous voir, sans en être attendri,
+Ces vêtements de deuil, ce visage flétri ?
+Regardez ces traits
+Pâles et défaits.
+Hélas ! Mon oeil est éteint :
+Pleurer, a gâté mon teint.
+Voyez ma douleur,
+Je tombe en langueur.
+Ah ! papa, si j'avais su,
+J'aurais eu
+Moins de vertu.
+
+Mon père, laissons la bagatelle, et daignez accorder à mon mari...
+
+C'est-il fait ?
+
+Ah ! Meurs tranquille ; à son bras
+Un des nôtres, le porte.
+
+Grands Dieux ! Sous tes coups abattu,
+Faut-il que mon père meure !
+
+Cher Agis, hélas ! J'y pensais.
+
+Vous êtes cruellement Lacédémonicienne.
+
+C'est qu'entre nous deux, Madame,
+Vous perdez bien moins que moi.
+
+Ah ! Plusieurs, malgré sa gloire,
+Diront qu'Agis finit mal.
+
+      Mes tendres amours...
+
+Un peu plus bas, je crois qu'il faut parler.
+
+Ah! je le perds, quel affreux sort !
+Puisqu'il se tait, il est bien mort ;
+Blâmez ces pleurs, si vous l'osez ;
+Des maris là fleur m'est ravie.
+Tenez, ma mère.
+Étouffons-le de nos baisers
+Pour le rendre à la vie.
+
+Un baiser de Chélonis.
+
+Honneur à la Tragédie
+Qui mérita des succès.
+Grâce pour la Parodie,
+Toutes deux font des essais.
+Et bon parent, sans malice,
+Agis, tout récemment me,
+Demande qu'on l'applaudisse,
+En faveur de son aîné.
+
+
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
+
+Ah ! ce bien à nos coeurs si cher,
+La liberté chancelle.
+J'entre au Sénat : dans mon ardeur ;
+Je parle, je pérore ;
+Mais ils m'ont pris pour un plaideur ;
+Car ils dorment encore.
+
+Mais qu'aperçois-je en cet instant ?
+Parbleu ! ce sont eux-mêmes.
+
+Ah ! c'est qu'ils sont apparemment
+Dans leur cours de visites.
+N'allez pas les faire asseoir ; ils s'endormiraient encore.
+
+Parlez-leur de la Patrie, de la vertu, de la gloire.
+
+Ils n'en pensent pas moins.
+Mais attendons Emphases
+Pour concerter nos projets.
+Je l'ai vu tantôt vraiment,
+Méfions-nous-en,
+Méfions-nous-en :
+Pour moi je le crois tout bas,
+Ami de Léonidas :
+Il semblait sous le fer endormir la victime.
+
+Je l'aperçois.
+
+Que dis-tu ? Quoi, tu trahis l'État ?
+
+Quand c'est sur toi que se fonde
+Notre commun intérêt !
+
+Je ne t' écoute pas ; laisse-moi, traître, ne compte plus sur mon amitié.
+Nous mourrons courageusement,
+Sans que tu sois de la partie.
+
+Te parlant encor, je croirais
+Partager ton ignominie.
+Reste tout seul.
+
 À mon dernier récit.
 Ne perdons point la carte ;
 Je suis long,
@@ -787,18 +570,14 @@ L'Auditoire
 Pressé de défiler....
 Quand j'apporte une histoire,
 Personne à qui parler !
-Personne, pas seulement un Sénat !
-Narrons toujours Imaginez donc, Monsieur ou Madame.
+Personne, pas seulement un Sénat ! Narrons toujours Imaginez donc, Monsieur ou Madame.
 Nous sommes pris par trahison,
 Le tyran nous jette en prison.
 Partout nombreuse
 Si bonne escorte :
 Le peuple, impatient, troublé,
 Lui demande assez haut la clef:
-Le tyran dit qu'il l'a perdue ; prétexte gauche et ridicule !
-Ces tyrans n'ont jamais de bonnes raisons.
-Oh !
-Qu'a-t-on fait ?
+Le tyran dit qu'il l'a perdue ; prétexte gauche et ridicule ! Ces tyrans n'ont jamais de bonnes raisons. Oh ! Qu'a-t-on fait ?
 Patapan, patapan,
 Nos amis ont brisé la porte.
 Sparte, entre ses Rois, balance,
@@ -838,162 +617,85 @@ Agis en deux pour fond le traître
 Un bras par-ci, l'autre par-là.....
 Mais c'est lui-même, qu'on apporte, je reprendrai ce récit-là.
 
-**** *book_ *id_I19 *act_I
 
--*who_agis
-Je penche tout d'un côté.
-Mes amis, je crains la chute,
-Et je dois, en vérité,
-Vivre encor une minute.
-Mon bouclier est là-bas ;
-C est-là ce qui m'importe.
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emphases
 
--*who_chelonis
-Ah ! Meurs tranquille ; à son bras
-Un des nôtres, le porte.
+On récit va les surprendre ;
+Mais hélas ! Quel détour prendre ?
+Comment puis-je leur apprendre
+Un si déplorable sort ?
+Que la mère m'intéresse !
+Mettons-y beaucoup d'adresse,
+Et ménageons sa tendresse...
+Ah ! Madame, Agis est mort.
 
--*who_agis
-Cherche le, car je ne mourrai pas
-Qu'on ne me le rapporte.
+La tête lui tourne : rassurons-la.
+Mais, écoutez, Madame, il n'est peut-être que battu, blessé légèrement, et d'ailleurs en très bonne santé.
 
--*who_chelonis
-Grands Dieux ! Sous tes coups abattu,
-Faut-il que mon père meure !
+Pour vous, Messieurs, je vous conseille de prendre votre parti : je sais de très bonne part que Léonidas se prépare à vous remercier.
 
--*who_agis
-Plaisants regrets ! Et franchement crois-tu
-Que ma santé soit meilleure ?
-Mon trépas n'a rien qui t' étonne,
-C'est le cas de prendre un parti ;
-Chélonis à Lacédémone,
-Peut encor faire un bon parti ;
-Mille amants assiégeant ta trace,
-Auprès de toi cherchaient accès ;
-Qu'un d'eux par l'hymen me remplace.
+À Nous deux maintenant.
+Profitons du malheur de tous,
+De moitié nous serons ensemble...
 
--*who_chelonis
-Cher Agis, hélas !
-J'y pensais.
+Un peu ; mais qu'importe ?
 
--*who_agis
-Ma bonne amie, vous êtes une femme de précaution je l'ai toujours dit.
+La fortune me seconde,
+Mon sort n'est pas encor fait :
+Chacun pour soi dans ce monde,
+Le sceptre est beau tel qu'il est.
 
-**** *book_ *id_I20 *act_I
+J'en suis indigne assurément ;
+Admire au moins ma modestie.
 
--*who_agesistrate
-Ah ! que mon coeur, est content
-Cher Agis combien on t'aime !
-Sparte est libre en nu moment,
-Mon fils doit mourir gaiement;
-Un fait tout particulier,
-C'est que j'ai sans bouclier,
-Triomphé d'Emphases même,
-Dans un combat singulier.
-Allons, mes amis.
+      Ah ! je pourrais
+Être en meilleure compagnie.
 
--*who_lechoeur
-Que notre coeur est content!
-Cher Agis, combien on t'aime!
-Sparte est libre en un moment,
-Agis doit mourir gaiement.
+Il m'émeut avec sa vertu : je sens.... Allons, allons, point de faiblesse ; les petits scrupules dérangent les grands projets. J'entends Agis et les boucliers des soldats. Défait, proscrit, chassé, comment, peut-il rentrer dans Lacédémone ? Le tyran est trop prudent pour le lui permettre. Ah ! J'ai bien peur que ce ne soit point la faute de Léonidas.
 
--*who_agis
-Ma mère, modérez cette joie, je n'en mourrai peut-être pas.
+Bien obligé, Monseigneur.
 
--*who_agesistrate
-Oh que si, mon bon ami, défie-toi moins de la bonté des Dieux.
+Monseigneur !
 
--*who_chelonis
-Vous êtes cruellement Lacédémonicienne.
+Monseigneur, comptez sur mon exactitude.
 
--*who_agesistrate
-Imitez-moi ; dans mon âme,
-C'est l'honneur qui fait la loi.
+Je n'ai pu résoudre un seul homme
+À s'asseoir ici pour juger.
 
--*who_chelonis
-C'est qu'entre nous deux, Madame,
-Vous perdez bien moins que moi.
+Ils ont peur que Sparte ne hue :
+Tout acteur tremble à son début.
 
--*who_agesistrate
-Mon fils meurt, mais dans l'histoire
-Il n'aura jamais d'égal.
+Cela ne m'a pas empêché de faire un Sénat.
 
--*who_chelonis
-Ah ! Plusieurs, malgré sa gloire,
-Diront qu'Agis finit mal.
+Précisément.
 
--*who_agis
-Mesdames, vous parlez toujours ;
-Défaut que je déteste!
+Non, Monseigneur, un très joli sénat, oh s'y trompera, soyez-en bien sûr.
 
--*who_agesistrate
-Mon cher fils...
+Eh ! Monseigneur, elles ne font que cela toute la journée.
+Comptez d'ailleurs sur un profond mystère
+Elles auront l'air décent et posé.
 
--*who_chelonis
-      Mes tendres amours...
+Pourquoi, Seigneur ?
 
--*who_agis
-Dans mon état funeste,
-Ma mère, je n'ai pas tout dit,
-Et je sens bien que mon esprit,
+J'ai des coquettes pour briller,
+Du bel-esprit pour babiller,
+Des médisantes à prouesses,
+Pour instruire et pour démêler ;
+Pour condamner j'ai des Lucrèces,
+Et des minois pour consoler.
 
--*who_agesistrate
-Mon fils, mettez vite à profit
-Le peu qui vous en reste.
+Pourquoi pas !
+L'amour n' a-t-il pas un bandeau,
+Ainsi que la justice ?
+Sera-ce la première fois,
+Au bon temps comme au nôtre,
+Que l'un aura dicté les lois
+Et les arrêts de l'autre.
 
--*who_agis
-Il est donc temps que je quitte ces lieux ;
-Ah! recevez mes plus tendres adieux ;
-Ce n'est pas tout de montrer du courage,
-De bonne grâce Agis doit s'en aller.
-Or, d'un mourant ai-je bien l'équipage ?
-La voix touchante, et l'air et le langage !
+N'ayez aucune inquiétude,
+Allez, tout ira pour le mieux ;
+Ne fût-ce que par habitude,
+Mon Sénat fera des heureux.
 
--*who_chelonis
-Un peu plus bas, je crois qu'il faut parler.
+Dites donc, où sont-ils ? Feignez de ne pas les reconnaître.
 
--*who_agis
-Si bas qu'il faudra, même pas du tout.
-
--*who_chelonis
-Ah! je le perds, quel affreux sort !
-Puisqu'il se tait, il est bien mort ;
-Blâmez ces pleurs, si vous l'osez ;
-Des maris là fleur m'est ravie.
-Tenez, ma mère.
-Étouffons-le de nos baisers
-Pour le rendre à la vie.
-
--*who_agis
-Grands Dieux, je renais, où suis-je ?
-Quand mes jours étaient finis ;
-Qui fait donc un tel prodige ?
-
--*who_chelonis
-Un baiser de Chélonis.
-
--*who_agis
-Mon amour t'en félicite ;
-Ce trait-là fera cité....
-Voilà comme on ressuscite
-Dans les bras de la beauté.
-
--*who_agesistrate
-J'ai tout-à-l'heure, en guerrière,
-Supporté la mort d'Agis ;
-Je reprends un coeur de mère,
-Et crains peu pour les jours d'un fils,
-Mourant pour Sparte agitée,
-S'il remplissait mes désirs,
-Je serais aussi flattée
-Qu'il vécut pour vos plaisirs.
-
--*who_chelonis
-Honneur à la Tragédie
-Qui mérita des succès.
-Grâce pour la Parodie,
-Toutes deux font des essais.
-Et bon parent, sans malice,
-Agis, tout récemment me,
-Demande qu'on l'applaudisse,
-En faveur de son aîné.

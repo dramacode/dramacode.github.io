@@ -1,1339 +1,458 @@
 
 
-**** *book_ *id_I01 *act_I *date_1740
+**** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
--*who_lemaitre
-Il faut avouer que je suis le gentilhomme de France le plus fortuné.
-Il y a bientôt trois ans que j'ai épousé Mademoiselle Isabelle ; après avoir essuyé plusieurs mauvaises plaisanteries sur sa stérilité, je commençais à désespérer d'avoir de sa lignée en ligne directe, lorsque cette lettre m'annonce que je serai bientôt père.
-Je suis parti pour la guerre de Corse, où j'avais un poste considérable.
-Après avoir servi dans la milice du guet à pied, où j'étais chef d'escadre, j'avais obtenu le commandement des brouettes qui servent à enlever les boues du camp ; mais, quelque gloire qu'il y eût pour moi dans ce périlleux emploi, je n'ai pas eu plutôt reçu cette missive de ma femme que, volant vers notre général, je lui ai demandé un congé de six semaines ; il me l'a accordé, et j'arrive en poste pour embrasser tendrement ma chère moitié, que je vais surprendre bien agréablement.
-Entrons dans ma maison sans me faire annoncer.
+Il faut avouer que je suis le gentilhomme de France le plus fortuné. Il y a bientôt trois ans que j'ai épousé Mademoiselle Isabelle ; après avoir essuyé plusieurs mauvaises plaisanteries sur sa stérilité, je commençais à désespérer d'avoir de sa lignée en ligne directe, lorsque cette lettre m'annonce que je serai bientôt père. Je suis parti pour la guerre de Corse, où j'avais un poste considérable. Après avoir servi dans la milice du guet à pied, où j'étais chef d'escadre, j'avais obtenu le commandement des brouettes qui servent à enlever les boues du camp ; mais, quelque gloire qu'il y eût pour moi dans ce périlleux emploi, je n'ai pas eu plutôt reçu cette missive de ma femme que, volant vers notre général, je lui ai demandé un congé de six semaines ; il me l'a accordé, et j'arrive en poste pour embrasser tendrement ma chère moitié, que je vais surprendre bien agréablement. Entrons dans ma maison sans me faire annoncer.
 
-**** *book_ *id_I02 *act_I *date_1740
-
--*who_lemaitre
 Peste soit du brutal !
 
--*who_gilles
-Que le diable emporte le triple cocu qui m'a enfoncé !
-
--*who_lemaitre
 Je parie que c'est ce butor de Gilles qui m'a jeté les quatre fers en l'air.
 
--*who_gilles
-Ma foi, Monsieur, parlez, je suis de moitié.
+Que la galle te ronge, coquin ! Voilà une belle réception que tu me fais !
 
--*who_lemaitre
-Que la galle te ronge, coquin !
-Voilà une belle réception que tu me fais !
+Quoique je croie être blessé, je suis moins en colère de ma chute que des propos insolents que tu as lâchés. Certain mot de triple cocu a cruellement blessé mon oreille, et je trouve qu'il est de très mauvais augure pour moi.
 
--*who_gilles
-Monsieur, j'en suis bien fâché !
+Non pas autrement. Mais...
 
--*who_lemaitre
-Quoique je croie être blessé, je suis moins en colère de ma chute que des propos insolents que tu as lâchés.
-Certain mot de triple cocu a cruellement blessé mon oreille, et je trouve qu'il est de très mauvais augure pour moi.
-
--*who_gilles
-Fi donc, Monsieur !
-Est-ce que vous auriez quelque méfiance sur la conduite de Mademoiselle Isabelle ?
-
--*who_lemaitre
-Non pas autrement.
-Mais...
-
--*who_gilles
-Tenez, Monsieur, je vais vous apprendre un secret pour savoir certainement si vous êtes cocu ou non ; mais c'est un secret des plus sûrs.
-
--*who_lemaitre
 Quoique je ne soupçonne pas la vertu de Madame ma femme, je serais curieux d'apprendre un si beau secret.
 
--*who_gilles
-Il est immanquable.
-Mais motus au moins !
+Oh ! Tu peux compter sur ma discrétion.
 
--*who_lemaitre
-Oh !
-Tu peux compter sur ma discrétion.
-
--*who_gilles
-Vous n'en sonnerez mot à personne ?
-
--*who_lemaitre
 Très sûrement.
 
--*who_gilles
-Eh bien !
-Vous n'avez qu'à... me mettre coucher une demi-heure seulement avec Mademoiselle Isabelle, et vous pouvez être alors très certain que vous serez cocu.
+Peste soit du faquin ! Je devais bien m'attendre à quelque impertinence pareille de la part de ce maraud. Tu mériterais, mon ami, cent coups de bâton pour ton insolence. C'est bien à un gredin comme toi à porter tes voeux aussi haut ! Torches-en tes barbes, misérable paysan.
 
--*who_lemaitre
-Peste soit du faquin !
-Je devais bien m'attendre à quelque impertinence pareille de la part de ce maraud.
-Tu mériterais, mon ami, cent coups de bâton pour ton insolence.
-C'est bien à un gredin comme toi à porter tes voeux aussi haut !
-Torches-en tes barbes, misérable paysan.
-
--*who_gilles
-Eh !
-Parguenne, Monsieur, ce serait à Mademoiselle Isabelle à torcher les siennes si j'avais eu la liberté d'avoir l'honneur de sa réjouissance.
-
--*who_lemaitre
 Si tu ne cesses tes propos, je t'assure que je vais te rouer de coups.
 
--*who_gilles
-Diantre !
-Vous êtes donc devenu bien furieux depuis que vous avez été voir la guerre ?
+Il faut bien hurler avec les loups. Je suis un terrible homme sur le chapitre de la bravoure. Sais-tu bien, mon ami, qu'il ne s'en est pas fallu l'épaisseur d'un fétu qu'on ne m'ait pris pour le roi de Corse.
 
--*who_lemaitre
-Il faut bien hurler avec les loups.
-Je suis un terrible homme sur le chapitre de la bravoure.
-Sais-tu bien, mon ami, qu'il ne s'en est pas fallu l'épaisseur d'un fétu qu'on ne m'ait pris pour le roi de Corse.
+Non, coquin, non. Mais les Corses disaient que je ressemblais fort à ce Monsieur le roi Théodore.
 
--*who_gilles
-Ma foi, tant pis pour vous.
-J'ai entendu dire à notre magister que si ce beau roi d'Écorce était attrapé, il serait pendu.
-Vous avez donc frisé la corde ?
-
--*who_lemaitre
-Non, coquin, non.
-Mais les Corses disaient que je ressemblais fort à ce Monsieur le roi Théodore.
-
--*who_gilles
-Oh !
-Ma foi, si vous aviez été roi, je n'aurais pas été des derniers à vous appeler vit de cire.
-Mais vous nous en contez.
-Au surplus, qu'est-ce donc qui vous a fait revenir sitôt de ce pays-là ?
-
--*who_lemaitre
 Cette lettre que j'ai reçue de ma femme.
 
--*who_gilles
-Elle est donc bien pressée de ses nécessités ?
-Parguenne, n'y a-t-il pas d'autres hommes que vous dans Paris ?
-Est-ce que je ne suis pas le coq de la maison ?
+Tu ne diras jamais que des impertinences. Tiens animal, lis cette lettre, et tu verras si j'ai eu tort de prendre la poste pour revenir ici.
 
--*who_lemaitre
-Tu ne diras jamais que des impertinences.
-Tiens animal, lis cette lettre, et tu verras si j'ai eu tort de prendre la poste pour revenir ici.
-
--*who_gilles
-« Madame Tiremonde, sage-femme du Châtelet et gouvernante des pays-bas, dit absolument que je suis grosse, parce que je suis enflée, et que j'ai les cotylédons de la matrice relâchés.
-Outre cela, je ressens bien de la douleur dans le ventre.
-Mais je ne vous en veux point de mal, parce que vous n'en êtes point la cause : mon cher Léandre, notre voisin, vient quelquefois me voir ; nous nous sommes associés à la loterie, nous avons mil écus ensemble.
-Adieu, mon petit bonhomme.»
-Et c'est à cause de cette lettre que vous êtes parti en poste pour venir voir votre femme ?
-
--*who_lemaitre
 Sans doute, n'en trouves-tu pas assez de sujet ?
 
--*who_gilles
-Oui-dà, pour vous en retourner plus vite que vous n'êtes venu.
-
--*who_lemaitre
 Comment ?
 
--*who_gilles
-Et parguenne, Monsieur notre maître, vous n'avez pas le sens commun !
-Mademoiselle Isabelle se moque de vous, à votre nez, et vous ne le voyez pas.
-
--*who_lemaitre
 Tu extravagues.
 
--*who_gilles
-Primo.
-C'est-ce que cela veut dire les cotillons de la marquise relâchés ?
+Eh ! Mon ami, il y a cotylédons ; ce sont apparemment des termes de l'art, des mots consacrés.
 
--*who_lemaitre
-Eh !
-Mon ami, il y a cotylédons ; ce sont apparemment des termes de l'art, des mots consacrés.
+Eh non ! À la chirurgie.
 
--*who_gilles
-Aux charcuteries ?
+Cela serait-il possible ! Et qui donc l'aurait fait à ma femme ?
 
--*who_lemaitre
-Eh non !
-À la chirurgie.
+Ah Ciel ! Les cornes me viennent à la tête !
 
--*who_gilles
-Passe donc pour les cotillons, mais écoutez bien ceci.
-« Je ressens bien de la douleur dans le ventre, mais je ne vous en veux pas de mal, parce que vous n'en êtes pas la cause.»
-Morguenne !
-Cela est clair comme le jour.
-Ça ne veut-il pas dire que ce n'est pas vous qui avez fait cet enfant-là ?
+Quoi ! Je serais effectivement cocu ?
 
--*who_lemaitre
-Cela serait-il possible !
-Et qui donc l'aurait fait à ma femme ?
-
--*who_gilles
-Il n'y a qu'à lire tout de suite.
-« Mon cher Léandre vient souvent me voir.
-Nous avons mis les culs ensemble.»
-Avez-vous quelque chose à dire à cela ?
-
--*who_lemaitre
-Ah Ciel !
-Les cornes me viennent à la tête !
-
--*who_gilles
-Vous n'avez jamais mieux parlé, la lettre le dit bien positivement ; et d'ailleurs, qu'est-ce qu'un bonhomme ?
-N'est-ce pas un habitant de Cornouailles ?
-
--*who_lemaitre
-Quoi !
-Je serais effectivement cocu ?
-
--*who_gilles
-Voyez le grand malheur !
-Il y en a qui valent bien mieux que vous et qui le sont.
-
--*who_lemaitre
 Faut-il dorénavant que l'on me montre à deux doigts ?
 
--*who_gilles
-Eh !
-N'aurait-on pas raison ?
-Ça est très significatif.
-
--*who_lemaitre
 Significatif ?
 
--*who_gilles
-Dame, oui, ma mère me l'a dit du moins, et qu'on voulait signifier par là qu'il entrait deux chevilles dans le même trou.
+Ah ! Dans la fureur qui me rend furieux, je jure de ne jamais mettre le pied dans ma maison que je n'aie fait la plus terrible vengeance de ma femme et du perfide Léandre, qui m'a ravi l'honneur.
 
--*who_lemaitre
-Ah !
-Dans la fureur qui me rend furieux, je jure de ne jamais mettre le pied dans ma maison que je n'aie fait la plus terrible vengeance de ma femme et du perfide Léandre, qui m'a ravi l'honneur.
+Ah ! Quel lâche conseil ! Non, si je trouve ce traître, je veux lui donner un si terrible coup de pied dans le ventre, et qui l'enverra si haut, qu'il aura plus peur de la faim que de la chute.
 
--*who_gilles
-Par ma foi, Monsieur, le plus sûr et le plus court serait d'imiter ces bons bourgeois de Paris, qui sont si pacifiques.
+Mais non. Il est indigne de mon indignation. D'ailleurs, je ne doute point que ce ne soit ma femme qui ait fait les avances. C'est sur elle que doit tomber toute ma rage.
 
--*who_lemaitre
-Ah !
-Quel lâche conseil !
-Non, si je trouve ce traître, je veux lui donner un si terrible coup de pied dans le ventre, et qui l'enverra si haut, qu'il aura plus peur de la faim que de la chute.
+Il n'y a pas d'obstacle que je ne surmonte pour parvenir à ma vengeance. Si tous les potentats de l'Europe voulaient s'y opposer, je les hacherais menus comme des atomes, je réduirais leur trône en poudre si fine que j'en ferais du tabac d'Espagne. Mais il est temps que ma colère éclate. Heurte à ma porte... Appelle Isabelle... Tu verras de quelle manière je vais la traiter.
 
--*who_gilles
-Houlas !
-Queu coup de pied !
-
--*who_lemaitre
-Mais non.
-Il est indigne de mon indignation.
-D'ailleurs, je ne doute point que ce ne soit ma femme qui ait fait les avances.
-C'est sur elle que doit tomber toute ma rage.
-
--*who_gilles
-Ce sera bien fait.
-Je veux me venger de deux soufflets qu'elle m'a baillés il y a huit jours.
-
--*who_lemaitre
-Il n'y a pas d'obstacle que je ne surmonte pour parvenir à ma vengeance.
-Si tous les potentats de l'Europe voulaient s'y opposer, je les hacherais menus comme des atomes, je réduirais leur trône en poudre si fine que j'en ferais du tabac d'Espagne.
-Mais il est temps que ma colère éclate.
-Heurte à ma porte...
-Appelle Isabelle...
-Tu verras de quelle manière je vais la traiter.
-
--*who_gilles
-Oui, oui, nous en verrons de belles !
-Si elle s'avise de monter sur ses grands chevaux, elle vous fera, par la morguenne ! entrer dans un trou de souris.
-
--*who_lemaitre
 Obéis sans répliquer, maraud !
 
--*who_gilles
-Holà !
-Hau !
-Notre maîtresse, et vite, et vite, on vous demande et on vous ordonne...
+Ah ! Perfide, est-ce ainsi que vous traitez un homme qui vous aimait ?
 
-**** *book_ *id_I03 *act_I *date_1740
-
--*who_isabelle
-Quel est l'insolent qui m'appelle ainsi ?
-
--*who_gilles
-C'est pargué moi.
-Oh !
-Vous allez voir beau jeu.
-On vous apprendra à nous bailler des soufflets.
-
--*who_isabelle
-Tiens, faquin, voilà pour t'apprendre à vivre.
-Sache qu'on ne parle pas ainsi à une femme comme moi...
-Ah !
-Voilà mon cher petit mari !
-Eh !
-Qui vous croyait de retour ?
-Bonjour, mon fils.
-
--*who_lemaitre
-Ah !
-Perfide, est-ce ainsi que vous traitez un homme qui vous aimait ?
-
--*who_gilles
-Cent fois plus que vous ne le méritez, entendez-vous ?
-
--*who_isabelle
-C'est-ce à dire ?
-
--*who_lemaitre
 Je n'ignore pas, ingrate, vos intrigues avec le beau cavalier...
 
--*who_gilles
-Qui vous...
-Tant y a que je m'entends bien.
-
--*who_lemaitre
 Oui, oui, je ne suis que trop convaincu !
 
--*who_isabelle
-Qu'est-ce donc que tout cela signifie ?
+Ça ne serait pas honnête, mon ami... Ce que je veux dire, infâme ? Et vous avez encore l'effronterie d'avoir la hardiesse de m'insulter par cette lettre !
 
--*who_gilles
-Assommez-la toujours, vous vous expliquerez après.
-
--*who_lemaitre
-Ça ne serait pas honnête, mon ami...
-Ce que je veux dire, infâme ?
-Et vous avez encore l'effronterie d'avoir la hardiesse de m'insulter par cette lettre !
-
--*who_isabelle
-Ô Ciel ! je l'avais bien dit à Léandre, que cela causerait du grabuge.
-
--*who_lemaitre
 Je ne sais à quoi il tient que je ne vous embroche toute vive !
 
--*who_gilles
-Queu fureur !
-
--*who_isabelle
-Je voudrais bien savoir, Monsieur, quel est l'insolent qui vous a ainsi démonté la cervelle.
-
--*who_gilles
-C'est moi, entendez-vous ?...
-Soutenez-moi, notre maître !
-
--*who_isabelle
-C'est vous, Monsieur Gilles ?
-
--*who_gilles
-Oui, c'est moi qui lui ai fait entendre que vous le faisiez cocu.
-
--*who_isabelle
-Ah !
-Je suis incapable de cela !
-
--*who_gilles
-Elle tremble...
-Courage...
-Oh !
-Parguenne, nous étriperons votre galant, et vous aussi !
-
--*who_isabelle
-Oh !
-Mon cher petit mari, ne le croyez pas.
-Ce coquin de Gilles, c'est un monstre, c'est un imposteur.
-Que je suis malheureuse !
-
--*who_lemaitre
 Ne croyez pas m'attendrir par vos larmes.
 
--*who_isabelle
-Eh bien, Monsieur, puisque cela est ainsi, je vais le prendre sur un autre ton.
-Sachez que je prétends faire expirer ce coquin sous le bâton, ou il se dédira de cette calomnie.
-
--*who_gilles
-Oh !
-Nous sommes deux, et vous n'en ferez rien.
-
--*who_isabelle
-Et si vous êtes assez hardi, mon petit coeur, pour vous y opposer, je vous donnerai, avec tout le respect que je vous dois, vingt coups de pied dans le ventre, je vous mettrai la tête en marmelade, et je vous arracherai les deux yeux.
-Entendez-vous, mon cher ami...
-Mais j'espère que vous ne m'obligerez pas d'en venir à cette extrémité.
-
--*who_lemaitre
 Mais... si cela vous fait plaisir.
 
--*who_gilles
-Comment donc !
-
--*who_isabelle
-Et quand je l'aurai étrillé comme il le mérite, je me justifierai auprès de vous, si je le juge à propos.
-
--*who_lemaitre
 Vous pouvez vous contenter.
 
--*who_gilles
-Vous mollissez.
-
--*who_isabelle
-Mon cher mari n'est jamais autrement devant moi.
-Il a beau, dans la violence de sa passion, vouloir se raidir, cela ne dure pas une minute...
-Et voilà comme il faut traiter les mauvais rapporteurs.
-
--*who_gilles
-Ah !
-Monsieur notre maître, Monsieur notre maître !
-Elle m'estropie !
-Elle m'assomme !
-
--*who_lemaitre
 Que veux-tu que j'y fasse ?
 
--*who_isabelle
-Eh bien, misérable faquin, parlerez-vous encore une autrefois contre votre maîtresse ?
-
--*who_gilles
-Eh non !
-Morguenne non !
-Je vous demande pardon ; c'est vous-même qui écrivez des impertinences.
-
--*who_isabelle
-Moi, infâme !
-
--*who_lemaitre
 Et mais, votre lettre vous condamnerait, si j'avais l'esprit mal fait ; elle parle assez clairement.
 
--*who_isabelle
-Je veux bien suspendre encore ma colère pour quelques moments, afin de m'éclaircir de tout cela, sauf à la reprendre ensuite.
-
--*who_lemaitre
 Tenez, lisez !
 
--*who_isabelle
+Voilà de quoi il s'agit. Je n'en suis pas cause ! Qu'avez-vous à dire à cela ?
+
+Non vraiment, je pensais bien alors à toute autre chose.
+
+Hélas ! Oui... J'en pleure presque au seul récit.
+
+Comment, elle avoue tout ?
+
+La peste soit du butor !
+
+À la bonne heure ; mais lisez jusqu'au bout.
+
+Mais vous passez un mot essentiel. Il y a : Mon cher Léandre.
+
+Non, on voisine, sans y entendre de mal.
+
+Sans doute. Je n'y trouve pas à redire.
+
+Ah ! Voilà le hic.
+
+Mais cela est écrit d'une manière qui n'est point équivoque.
+
+Mais ce n'est pas tout, achevez la lettre.
+
+Le terme de bonhomme est insultant. On sait ce qu'il signifie.
+
+La chose est un peu douteuse.
+
+Ah ! Je ne puis tenir contre ces larmes. Va, mon petit coeur, je suis très persuadé que tu n'as point fait faux bon à ton honneur.
+
+Oh ! Vous n'avez qu'à demander.
+
+S'il ne tient qu'à cela pour sceller la paix entre nous, je vous obéirai volontiers ; je vous prie même de vouloir bien m'aider dans cette petite correction.
+
+À la fin je suis parvenu avec bien de la peine à faire oublier à ma femme la petite altercation que nous avons eue ensemble. Effectivement j'avais tort. Ce coquin de Gilles m'avait alarmé fort mal à propos ; je ne devais pas faire attention aux discours d'un sot tel que lui. Isabelle voulait que je le chassasse de la maison ; mais c'est un bon valet. Il lui a demandé pardon, il est rentré en grâce, et une bouteille de vin lui a fait oublier les coups de bâton qu'il a reçus. Je suis bien heureux de l'avoir dans la conjoncture présente. Gilles, Gilles, Gilles ! Ce butor me fait égosiller. Gilles !...
+
+Gilles !
+
+Vite, dépêche-toi.
+
+Qu'est-ce que tu cherches ?
+
+Il n'en est pas besoin. Viens donc.
+
+Qu'est-ce que tu tiens ?
+
+Cela est inutile. Parais donc.
+
+Il faut que tu saches que Mademoiselle Isabelle...
+
+Je crois que le maroufle dort tout debout. Il lui donne du pied au cul.
+
+Tu es tout levé. Écoute bien. Mademoiselle Isabelle se trouve mal.
+
+Où vas-tu ?
+
+Eh non, misérable ! Ce n'est point pour accoucher que ma femme ressent du mal.
+
+Quel rêve faisais-tu donc si intéressant ?
+
+Ah ! Ah ! Voilà un plaisant rêve, ah ! Ah !
+
+Fi, le vilain !
+
+Va-t'en au diable, avec ton impertinent rêve.
+
+Fort bien, mais auras-tu mis les adresses comme il faut ?
+
+Au beau fils des perles. Dis donc Sophy de Perse. Au camp des Tarentatarares... des Tartares, animal ! Au blanc de mon cul. Oh ! L'imbécile !
+
+Je t'ai dit, butor, au grand Mongul ou Mogol, c'est la même chose. Voyons comment cet avis est tourné.
+
+Voyons.
+« On fait à savoir à qui il appartiendra, que Damoiselle Ouinifride, Eustorge, Magloire, Euberte, Barbe, Isabelle de Poilcourt, dame de grande entrée, épouse illégitime d'Eustache Flavien, Hermogène, Silvestre, Midrac, Sidrac, Abdenage de Parlaventrebleu, seigneur de Frigidis, Malefruatis et del Castrato, est grosse d'un garçon, de la nuit du trente-deux au trente-trois août dernier, dont elle accouchera sans faute le premier avril prochain. Les viedazes s'y trouveront s'il leur plaît.»
+
+Quelle impertinente façon d'annoncer la grossesse de ma femme à tous les potentats !
+
+Nullement ! Par exemple, que veux-tu dire : épouse illégitime ?
+
+Insolent !
+
+Je voudrais bien savoir encore comment tu sais affirmativement que ma femme est grosse d'un garçon.
+
+Tu en es sûr?
+
+Manant ! Isabelle n'est pas femme à se laisser lacer par un homme.
+
+Finis, je te prie, tes discours extravagants !... Autre impertinence ! Que veux-tu dire: Les viedazes s'y trouveront s'il leur plaît ?
+
+Oh le butor ! Oh le cheval ! Dis donc les vidames, bête que tu es ; les vidames !
+
+Donne-moi le papier, sot que tu es. Il faudra recommencer le tout.
+
+Attends, attends. Il s'agit bien d'autre chose. Ma femme s'est à peine réveillée de son premier sommeil qu'elle s'est mise à crier qu'elle voulait absolument avoir une andouille de Transilvanie.
+
+Une pomme de Calville rouge et un bigarreau, sinon que son fruit en serait marqué.
+
+Et voilà ce qui m'afflige ; je l'ai priée très justement de ne se point gratter jusqu'à mon retour, et lui ai dit que j'allais faire mes efforts pour contenter ses trois envies.
+
+Je ne le crois pas.
+
+Oh ! Le misérable faquin !
+
+Je te pardonne tes insolences en faveur de ton zèle pour ma femme. Va, cours me chercher l'objet de ses envies. Voilà ma bourse, n'épargne pas ce qui est dedans.
+
+Je viens, mignonne, de donner des ordres et de l'argent à Gilles pour aller chercher l'objet de vos envies.
+
+À peine suis-je sorti que vous voulez que je rentre. Cela est un peu fort.
+
+Eh bien ! Mon coeur, pour te satisfaire, je vais rentrer dans ma chambre et songer à m'habiller. Aussi bien, dans une heure ou deux il fera jour.
+
+À quoi s'amuse ce coquin de Gilles ? Pendant que je cours toute la ville pour ma femme, ce butor est planté comme un piquet devant ma porte.
+
+Non, j'ai été chez une douzaine de charcutiers, ils m'ont ri au nez. Ces animaux-là ne connaissent pas les andouilles de Transilvanie.
+
+Est-il possible ?
+
+J'ai été, ma mignonne, chez tous les fruitiers de la halle ; aucun d'eux n'a pu m'en fournir. La saison en est absolument passée.
+
+Je cours encore vous en chercher ; mais je crains bien de n'y pas réussir.
+
+Je ne croirai jamais ce que tu viens de m'apprendre. Ma femme aurait trouvé du calville rouge ?
+
+On m'a dit que j'en trouverais peut-être au Jardin du Roi ; comme nous n'en sommes pas bien éloignés, j'y cours.
+
+Je joue de malheur, le grand froid de cette année a gelé le bigarrotier du jardin du roi, malgré toutes les précautions prises pour le conserver. Mais je vois encore Gilles à la porte, il a l'air bien content.
+
+Que veux-tu dire ?
+
+Que je t'ai d'obligation !
+
+J'en conviens, mon ami.
+
+Comment, sans la chanson ?
+
+Que veut dire cela ?
+
+Et l'as-tu vu, le beau bigarreau ?
+
+Ah ! Misérable faquin ! J'appréhende bien plutôt d'être trahi par ta balourdise.
+
+Ne vois-tu pas, butor, que c'est quelque fourbe qui s'est introduit ainsi chez moi ?
+
+Ah ! Si cela est ainsi, je suis un homme mort. Sans doute que ce scélérat aura abusé de la simplicité de ma femme.
+
+C'est bien dit, éloignons-nous un peu.
+
+Fort, fort ! Sur ce maroufle et sur Gilles !... Mais, ma mignonne, prends donc garde où tu frappes ! Je suis tout brisé de coups.
+
+Je ne t'en veux pas de mal, au contraire, ma petite femme. Je te loue fort de t'être ainsi vengée ; et je te sais bon gré du traitement que tu as fait à ce séducteur.
+
+Mais, ma petite femme, et tes envies ?
+
+Ah ! Que je suis aise de te voir ainsi guérie ! Rentrons et allons nous réjouir d'un si grand bonheur.
+
+
+**** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
+Quel est l'insolent qui m'appelle ainsi ?
+
+Tiens, faquin, voilà pour t'apprendre à vivre. Sache qu'on ne parle pas ainsi à une femme comme moi... Ah ! Voilà mon cher petit mari ! Eh ! Qui vous croyait de retour ? Bonjour, mon fils.
+
+C'est-ce à dire ?
+
+Qu'est-ce donc que tout cela signifie ?
+
+Ô Ciel ! je l'avais bien dit à Léandre, que cela causerait du grabuge.
+
+Je voudrais bien savoir, Monsieur, quel est l'insolent qui vous a ainsi démonté la cervelle.
+
+C'est vous, Monsieur Gilles ?
+
+Ah ! Je suis incapable de cela !
+
+Oh ! Mon cher petit mari, ne le croyez pas. Ce coquin de Gilles, c'est un monstre, c'est un imposteur. Que je suis malheureuse !
+
+Eh bien, Monsieur, puisque cela est ainsi, je vais le prendre sur un autre ton. Sachez que je prétends faire expirer ce coquin sous le bâton, ou il se dédira de cette calomnie.
+
+Et si vous êtes assez hardi, mon petit coeur, pour vous y opposer, je vous donnerai, avec tout le respect que je vous dois, vingt coups de pied dans le ventre, je vous mettrai la tête en marmelade, et je vous arracherai les deux yeux. Entendez-vous, mon cher ami... Mais j'espère que vous ne m'obligerez pas d'en venir à cette extrémité.
+
+Et quand je l'aurai étrillé comme il le mérite, je me justifierai auprès de vous, si je le juge à propos.
+
+Mon cher mari n'est jamais autrement devant moi. Il a beau, dans la violence de sa passion, vouloir se raidir, cela ne dure pas une minute... Et voilà comme il faut traiter les mauvais rapporteurs.
+
+Eh bien, misérable faquin, parlerez-vous encore une autrefois contre votre maîtresse ?
+
+Moi, infâme !
+
+Je veux bien suspendre encore ma colère pour quelques moments, afin de m'éclaircir de tout cela, sauf à la reprendre ensuite.
+
 Voyons donc cette lettre et ce qu'elle chante.
 « Madame Tiremonde, sage-femme du Châtelet et gouvernante des pays bas, dit absolument que je suis grosse, parce que je suis enflée et que j'ai les cotilledons de la matrice relâchés. (Hélas ! cela n'est que trop vrai !) Outre cela, je ressens des douleurs dans le ventre ; mais je ne vous en veux pas de mal, parce que vous n'en êtes pas cause, mon cher.»
 
--*who_lemaitre
-Voilà de quoi il s'agit.
-Je n'en suis pas cause !
-Qu'avez-vous à dire à cela ?
+C'est cela qui vous indispose ainsi contre moi ! Il faut donc bien éplucher ses paroles avec vous. Vous n'en êtes pas cause. C'est à dire la cause présente. Ce n'a pas été votre intention que je souffrisse des coliques aussi violentes, lorsque...
 
--*who_gilles
-Voyons comment elle sortira de là !
+Ah ! Je vous crois, et je pense que vous auriez bien versé des larmes à chaque cri que je faisais.
 
--*who_isabelle
-C'est cela qui vous indispose ainsi contre moi !
-Il faut donc bien éplucher ses paroles avec vous.
-Vous n'en êtes pas cause.
-C'est à dire la cause présente.
-Ce n'a pas été votre intention que je souffrisse des coliques aussi violentes, lorsque...
-
--*who_lemaitre
-Non vraiment, je pensais bien alors à toute autre chose.
-
--*who_isabelle
-Ah !
-Je vous crois, et je pense que vous auriez bien versé des larmes à chaque cri que je faisais.
-
--*who_lemaitre
-Hélas !
-Oui...
-J'en pleure presque au seul récit.
-
--*who_isabelle
 Les tranchées que j'avais dans le ventre...
 
--*who_gilles
-Eh bien, Monsieur, avais-je tort ?
-Elle avoue tout, comme vous l'entendez.
+Ah ! Monstre, qui empoisonnes ainsi mes paroles, je t'étranglerai... Me voilà donc hors de soupçons sur cet article.
 
--*who_lemaitre
-Comment, elle avoue tout ?
-
--*who_gilles
-Oui !
-Ne dit-elle pas qu'elle avait des tranchées dans le ventre ?
-
--*who_lemaitre
-La peste soit du butor !
-
--*who_isabelle
-Ah !
-Monstre, qui empoisonnes ainsi mes paroles, je t'étranglerai...
-Me voilà donc hors de soupçons sur cet article.
-
--*who_lemaitre
-À la bonne heure ; mais lisez jusqu'au bout.
-
--*who_isabelle
 «Léandre, mon voisin...
 
--*who_lemaitre
-Mais vous passez un mot essentiel.
-Il y a : Mon cher Léandre.
+Nullement, Monsieur ; voici comme il faut lire ma lettre : Vous n'en êtes pas la cause, mon cher. C'est à vous que je donne ce nom de tendresse. Ensuite, après un gros point, il y a : Léandre vient quelquefois me voir. Cela est-il défendu ?
 
--*who_isabelle
-Nullement, Monsieur ; voici comme il faut lire ma lettre : Vous n'en êtes pas la cause, mon cher.
-C'est à vous que je donne ce nom de tendresse.
-Ensuite, après un gros point, il y a : Léandre vient quelquefois me voir.
-Cela est-il défendu ?
+Nous nous sommes associés à la loterie. Je crois que cela peut se permettre.
 
--*who_lemaitre
-Non, on voisine, sans y entendre de mal.
+Vous auriez très grand tort, surtout lorsque l'on est né heureux comme Monsieur Léandre. Il y gagne presque toujours. Il a même eu le gros lot avec Mademoiselle de Cuissemolle, et une preuve parlante de son bonheur, c'est ce qui est dans la suite de ma lettre : Nous avons mil écus ensemble.
 
--*who_isabelle
-Nous nous sommes associés à la loterie.
-Je crois que cela peut se permettre.
-
--*who_lemaitre
-Sans doute.
-Je n'y trouve pas à redire.
-
--*who_isabelle
-Vous auriez très grand tort, surtout lorsque l'on est né heureux comme Monsieur Léandre.
-Il y gagne presque toujours.
-Il a même eu le gros lot avec Mademoiselle de Cuissemolle, et une preuve parlante de son bonheur, c'est ce qui est dans la suite de ma lettre : Nous avons mil écus ensemble.
-
--*who_lemaitre
-Ah !
-Voilà le hic.
-
--*who_isabelle
 C'est-ce à dire ?
 
--*who_gilles
-Dame !
-Lisez donc.
-Vous avez mis les culs ensemble.
+Comment donc ? Nous avons gagné mille écus ensemble ; cela est clair, voilà ce que cela veut dire.
 
--*who_isabelle
-Comment donc ?
-Nous avons gagné mille écus ensemble ; cela est clair, voilà ce que cela veut dire.
+Oh ! Monsieur, il faut donc me faire mon procès parce que je ne sais pas l'ostografe.
 
--*who_lemaitre
-Mais cela est écrit d'une manière qui n'est point équivoque.
+Il n'y a plus que deux mots : Adieu, mon petit bonhomme. Hélas ! Y a-t-il rien de plus tendre, de plus caressant ?
 
--*who_isabelle
-Oh !
-Monsieur, il faut donc me faire mon procès parce que je ne sais pas l'ostografe.
+Pour moi, Monsieur, qui ai été élevée avec toute la modestie imaginable, je ne lui connais pas d'autre signification que celle que je viens de vous dire. D'ailleurs, on ne condamne pas les intentions et je n'ai jamais eu celle de vous faire cocu.
 
--*who_gilles
-Morguenne !
-Je ne suis qu'un sot.
-Voilà futée commère !
+Vous n'êtes pas persuadé de ma sagesse ? Que je suis malheureuse ! Je parais donc criminelle à vos yeux ? J'en mourrai de douleur avec le fruit que je porte dans mes entrailles. Hi, hi, hi !
 
--*who_lemaitre
-Mais ce n'est pas tout, achevez la lettre.
-
--*who_isabelle
-Il n'y a plus que deux mots : Adieu, mon petit bonhomme.
-Hélas !
-Y a-t-il rien de plus tendre, de plus caressant ?
-
--*who_lemaitre
-Le terme de bonhomme est insultant.
-On sait ce qu'il signifie.
-
--*who_isabelle
-Pour moi, Monsieur, qui ai été élevée avec toute la modestie imaginable, je ne lui connais pas d'autre signification que celle que je viens de vous dire.
-D'ailleurs, on ne condamne pas les intentions et je n'ai jamais eu celle de vous faire cocu.
-
--*who_lemaitre
-La chose est un peu douteuse.
-
--*who_isabelle
-Vous n'êtes pas persuadé de ma sagesse ?
-Que je suis malheureuse !
-Je parais donc criminelle à vos yeux ?
-J'en mourrai de douleur avec le fruit que je porte dans mes entrailles.
-Hi, hi, hi !
-
--*who_lemaitre
-Ah !
-Je ne puis tenir contre ces larmes.
-Va, mon petit coeur, je suis très persuadé que tu n'as point fait faux bon à ton honneur.
-
--*who_isabelle
 Si cela est, il faut que vous m'accordiez une grâce.
 
--*who_lemaitre
-Oh !
-Vous n'avez qu'à demander.
-
--*who_isabelle
 C'est, Monsieur, de donner tout à l'heure cent coups de bâton à Gilles pour avoir voulu vous gâter l'esprit sur mon chapitre.
 
--*who_lemaitre
-S'il ne tient qu'à cela pour sceller la paix entre nous, je vous obéirai volontiers ; je vous prie même de vouloir bien m'aider dans cette petite correction.
+Ah ! Mon cher mari, de très grand coeur !
 
--*who_isabelle
-Ah !
-Mon cher mari, de très grand coeur !
+Eh ! Que faites-vous donc là, mon cher ami ?
 
-**** *book_ *id_II01 *act_II *date_1740
+Oh ! Vous êtes trop bon, mon petit mari. Mais rentrez, je vous prie.
 
--*who_lemaitre
-À la fin je suis parvenu avec bien de la peine à faire oublier à ma femme la petite altercation que nous avons eue ensemble.
-Effectivement j'avais tort.
-Ce coquin de Gilles m'avait alarmé fort mal à propos ; je ne devais pas faire attention aux discours d'un sot tel que lui.
-Isabelle voulait que je le chassasse de la maison ; mais c'est un bon valet.
-Il lui a demandé pardon, il est rentré en grâce, et une bouteille de vin lui a fait oublier les coups de bâton qu'il a reçus.
-Je suis bien heureux de l'avoir dans la conjoncture présente.
-Gilles, Gilles, Gilles !
-Ce butor me fait égosiller.
-Gilles !...
+Que vous êtes fou ! Vous autres hommes, vous pensez toujours à la bagatelle. Ce n'est pas de cela que je veux parler ; mais vous allez vous enrhumer.
 
-**** *book_ *id_II02 *act_II *date_1740
+Ah ! Je suis au désespoir de son retour : voilà le fruit de la complaisance que j'ai eue pour Monsieur Léandre ! En badinant, il m'a dicté cette extravagante lettre que j'ai été assez folle pour, écrire. Mon mari l'a reçue ; il est parti sur-le-champ et est arrivé malheureusement dans le moment que mon cher amant était avec moi. Je l'ai promptement enfermé dans les commodités, où il est depuis ce moment. Heureusement que Monsieur de Parlaventrebleu n'a pas eu besoin de faire son grand tour ; quel esclandre ça n'aurait-il pas fait ! Enfin me voilà en état de le mettre en liberté. Monsieur Léandre ! St ! St ! Monsieur Léandre !
 
--*who_lemaitre
-Gilles !
+C'est votre faute, mon cher Léandre. Ne vous en prenez qu'à vous-même. C'est cette maudite lettre qui est cause de son retour.
 
--*who_gilles
-Qu'y a-t-il ?
+Quelle vivacité ! Ah ! Léandre, on connaît par ces expressions la force de vôtre amour. Mais vous allez apprendre ce que j'ai fait pour vous. À peine mon mari a-t-il été au lit avec moi que...
 
--*who_lemaitre
-Vite, dépêche-toi.
-
--*who_gilles
-Je la cherche.
-
--*who_lemaitre
-Qu'est-ce que tu cherches ?
-
--*who_gilles
-La chandelle.
-
--*who_lemaitre
-Il n'en est pas besoin.
-Viens donc.
-
--*who_gilles
-Je la tiens.
-
--*who_lemaitre
-Qu'est-ce que tu tiens ?
-
--*who_gilles
-La lumière, vous dis-je.
-
--*who_lemaitre
-Cela est inutile.
-Parais donc.
-
--*who_gilles
-Me voilà, Monsieur.
-
--*who_lemaitre
-Il faut que tu saches que Mademoiselle Isabelle...
-
--*who_gilles
-La lune est belle, dites-vous ?
-
--*who_lemaitre
-Je crois que le maroufle dort tout debout.
-Il lui donne du pied au cul.
-
--*who_gilles
-Je vais me lever, Monsieur.
-
--*who_lemaitre
-Tu es tout levé.
-Écoute bien.
-Mademoiselle Isabelle se trouve mal.
-
--*who_gilles
-J'entends.
-J'y cours.
-
--*who_lemaitre
-Où vas-tu ?
-
--*who_gilles
-Chercher la sage-femme.
-Parguenne !
-Voilà du fruit bien mûr.
-À peine avez vous secoué l'arbre qu'il est tombé à bas.
-
--*who_lemaitre
-Eh non, misérable !
-Ce n'est point pour accoucher que ma femme ressent du mal.
-
--*who_gilles
-Cela étant, je m'en vais donc achever mon rêve.
-
--*who_lemaitre
-Quel rêve faisais-tu donc si intéressant ?
-
--*who_gilles
-Je rêvais que vous et moi, en voyageant ensemble, nous étions tombés, vous dans une fosse remplie de miel, et moi dans un grand trou rempli de merde.
-
--*who_lemaitre
-Ah !
-Ah !
-Voilà un plaisant rêve, ah !
-Ah !
-
--*who_gilles
-Vrai, cela est fort risible.
-Mais ce n'est pas le tout.
-Au sortir de là nous avons trouvé six grands coquins de hussards qui, après s'être bien moqués de nous, nous ont forcés, à grands coups de bâton, de nous lécher l'un l'autre.
-
--*who_lemaitre
-Fi, le vilain !
-
--*who_gilles
-Oh !
-Pardienne, en ce moment vous faisiez bien laide grimace.
-
--*who_lemaitre
-Va-t'en au diable, avec ton impertinent rêve.
-
--*who_gilles
-À propos, Monsieur, j'ai passé une bonne partie de la nuit à écrire, comme vous me l'avez ordonné, à tous les potentats du monde la nouvelle de la grossesse de Mademoiselle Isabelle.
-
--*who_lemaitre
-Fort bien, mais auras-tu mis les adresses comme il faut ?
-
--*who_gilles
-Parguenne, je ne suis pas un sot.
-Lisez vous-même.
-
--*who_lemaitre
-Au beau fils des perles.
-Dis donc Sophy de Perse.
-Au camp des Tarentatarares... des Tartares, animal !
-Au blanc de mon cul.
-Oh !
-L'imbécile !
-
--*who_gilles
-Pour celui-là, vous l'avez ainsi nommé, j'en suis sûr.
-
--*who_lemaitre
-Je t'ai dit, butor, au grand Mongul ou Mogol, c'est la même chose.
-Voyons comment cet avis est tourné.
-
--*who_gilles
-Oh !
-C'est une pièce d'éloquence !
-
--*who_lemaitre
-Voyons.
-« On fait à savoir à qui il appartiendra, que Damoiselle Ouinifride, Eustorge, Magloire, Euberte, Barbe, Isabelle de Poilcourt, dame de grande entrée, épouse illégitime d'Eustache Flavien, Hermogène, Silvestre, Midrac, Sidrac, Abdenage de Parlaventrebleu, seigneur de Frigidis, Malefruatis et del Castrato, est grosse d'un garçon, de la nuit du trente-deux au trente-trois août dernier, dont elle accouchera sans faute le premier avril prochain.
-Les viedazes s'y trouveront s'il leur plaît.»
-
--*who_lemaitre
-Quelle impertinente façon d'annoncer la grossesse de ma femme à tous les potentats !
-
--*who_gilles
-Vous ne trouvez pas cela bien ?
-
--*who_lemaitre
-Nullement !
-Par exemple, que veux-tu dire : épouse illégitime ?
-
--*who_gilles
-J'ai mes raisons pour cela.
-Avant que l'on parlât de la grossesse de Mademoiselle Isabelle, on disait qu'il vous manquait quelque chose qui...
-
--*who_lemaitre
-Insolent !
-
--*who_gilles
-Dame !
-Ce n'est pas ma faute.
-
--*who_lemaitre
-Je voudrais bien savoir encore comment tu sais affirmativement que ma femme est grosse d'un garçon.
-
--*who_gilles
-Oh !
-Pour cela j'en suis sûr.
-
--*who_lemaitre
-Tu en es sûr?
-
--*who_gilles
-Oui, Monsieur.
-Les médecins disent que quand une femme est grosse d'un garçon, elle a le téton droit plus dur que le gauche, et, en laçant Mademoiselle Isabelle, je me suis bien aperçu que...
-
--*who_lemaitre
-Manant !
-Isabelle n'est pas femme à se laisser lacer par un homme.
-
--*who_gilles
-Il est vrai qu'elle en lasserait plutôt deux qu'elle n'en serait lassée...
-Cependant...
-
--*who_lemaitre
-Finis, je te prie, tes discours extravagants !...
-Autre impertinence !
-Que veux-tu dire: Les viedazes s'y trouveront s'il leur plaît ?
-
--*who_gilles
-Oui, Monsieur, ce sont ceux qui doivent tenir les quenouilles du lit quand les grandes dames accouchent.
-
--*who_lemaitre
-Oh le butor !
-Oh le cheval !
-Dis donc les vidames, bête que tu es ; les vidames !
-
--*who_gilles
-Vidames, viedazes.
-Je n'y regarde pas de si près.
-
--*who_lemaitre
-Donne-moi le papier, sot que tu es.
-Il faudra recommencer le tout.
-
--*who_gilles
-Cela étant, bonsoir.
-Je vais me recoucher.
-
--*who_lemaitre
-Attends, attends.
-Il s'agit bien d'autre chose.
-Ma femme s'est à peine réveillée de son premier sommeil qu'elle s'est mise à crier qu'elle voulait absolument avoir une andouille de Transilvanie.
-
--*who_gilles
-Quelle diable de bête est cela, une andouille de Tranche Vilanie ?
-
--*who_lemaitre
-Une pomme de Calville rouge et un bigarreau, sinon que son fruit en serait marqué.
-
--*who_gilles
-Heureusement qu'elle n'a pas souhaité une citrouille, je vous plaindrais dans ce cas ; mais, Monsieur, ces fruits-là ne sont pas de saison.
-
--*who_lemaitre
-Et voilà ce qui m'afflige ; je l'ai priée très justement de ne se point gratter jusqu'à mon retour, et lui ai dit que j'allais faire mes efforts pour contenter ses trois envies.
-
--*who_gilles
-Monsieur, Madame votre mère n'a-t-elle pas eu d'envie pendant qu'elle était grosse de vous ?
-
--*who_lemaitre
-Je ne le crois pas.
-
--*who_gilles
-Et moi, je croirais volontiers le contraire, et qu'elle aurait eu envie d'un chapon ou d'un mulet.
-
--*who_lemaitre
-Oh !
-Le misérable faquin !
-
--*who_gilles
-Çà, voyons, ne vous fâchez pas, Monsieur ; voyons ce que nous pouvons faire pour contenter Mademoiselle Isabelle.
-
--*who_lemaitre
-Je te pardonne tes insolences en faveur de ton zèle pour ma femme.
-Va, cours me chercher l'objet de ses envies.
-Voilà ma bourse, n'épargne pas ce qui est dedans.
-
--*who_gilles
-Il faudra que le diable s'en mêle si je n'en viens pas à bout.
-
-**** *book_ *id_II03 *act_II *date_1740
-
--*who_isabelle
-Eh !
-Que faites-vous donc là, mon cher ami ?
-
--*who_lemaitre
-Je viens, mignonne, de donner des ordres et de l'argent à Gilles pour aller chercher l'objet de vos envies.
-
--*who_isabelle
-Oh !
-Vous êtes trop bon, mon petit mari.
-Mais rentrez, je vous prie.
-
--*who_lemaitre
-À peine suis-je sorti que vous voulez que je rentre.
-Cela est un peu fort.
-
--*who_isabelle
-Que vous êtes fou !
-Vous autres hommes, vous pensez toujours à la bagatelle.
-Ce n'est pas de cela que je veux parler ; mais vous allez vous enrhumer.
-
--*who_lemaitre
-Eh bien !
-Mon coeur, pour te satisfaire, je vais rentrer dans ma chambre et songer à m'habiller.
-Aussi bien, dans une heure ou deux il fera jour.
-
-**** *book_ *id_II04 *act_II *date_1740
-
--*who_isabelle
-Ah !
-Je suis au désespoir de son retour : voilà le fruit de la complaisance que j'ai eue pour Monsieur Léandre !
-En badinant, il m'a dicté cette extravagante lettre que j'ai été assez folle pour, écrire.
-Mon mari l'a reçue ; il est parti sur-le-champ et est arrivé malheureusement dans le moment que mon cher amant était avec moi.
-Je l'ai promptement enfermé dans les commodités, où il est depuis ce moment.
-Heureusement que Monsieur de Parlaventrebleu n'a pas eu besoin de faire son grand tour ; quel esclandre ça n'aurait-il pas fait !
-Enfin me voilà en état de le mettre en liberté.
-Monsieur Léandre !
-St !
-St !
-Monsieur Léandre !
-
-**** *book_ *id_II05 *act_II *date_1740
-
--*who_leandre
-Ah !
-Charmante Isabelle, queu contretemps !
-Quoi !
-Au moment que je vas rassasier mon âme des plaisirs les plus délicieux, il faut qu'un brutal de mari vienne mal à propos m'en sevrer !
-
--*who_isabelle
-C'est votre faute, mon cher Léandre.
-Ne vous en prenez qu'à vous-même.
-C'est cette maudite lettre qui est cause de son retour.
-
--*who_leandre
-Ah !
-Fatalité du destin !
-Sort funeste !
-Barbare événement !
-Faut-il que je me trouve en ce moment condamné à la peine de Tantale ?
-Non, je ne puis soutenir un accident si imprévu ; je mourrai de douleur si vous ne trouvez un prompt remède à mes maux.
-
--*who_isabelle
-Quelle vivacité !
-Ah !
-Léandre, on connaît par ces expressions la force de vôtre amour.
-Mais vous allez apprendre ce que j'ai fait pour vous.
-À peine mon mari a-t-il été au lit avec moi que...
-
--*who_leandre
-Juste ciel !
-Quel cruel récit m'allez-vous faire !
-Il vous a accablée des caresses les plus tendres.
-Ah !
-Je n'ai pas la force de vous entendre...
-
--*who_isabelle
 Écoutez jusqu'au bout.
 
--*who_leandre
-Non, le coeur me soulève !...
+Mais quelle pétulance !... Il m'a mis...
 
--*who_isabelle
-Mais quelle pétulance !...
-Il m'a mis...
+Mais attendez donc ! Il m'a mis à la main...
 
--*who_leandre
-Ah !
-Je m'en doutais bien, cruelle ; il vous l'a mis...
-Vous l'avez souffert.
-Vous ne m'aimez pas, adorable Isabelle.
-Il fallait le refuser, il fallait le jeter en bas du lit.
-
--*who_isabelle
-Mais attendez donc !
-Il m'a mis à la main...
-
--*who_leandre
-Ah !
-Voilà le sujet de ma douleur !
-
--*who_isabelle
 Le martinet.
 
--*who_leandre
-Le martinet !
-Un fouet de corde !
-Il est donc devenu ladre ?
-Et vous vous êtes prêtée sans doute à cette misérable opération ?
+Vous êtes fou, je crois. Il m'a mis en main le martinet, dans lequel était une chandelle allumée.
 
--*who_isabelle
-Vous êtes fou, je crois.
-Il m'a mis en main le martinet, dans lequel était une chandelle allumée.
+Il m'a priée de l'éclairer pour chercher une puce qui le piquait vivement. Je l'ai fait. La puce tuée, j'ai feint d'avoir une extrême envie de dormir, et l'ai prié de remettre ses caresses à une autre fois. Comme il était fatigué de la poste : « Eh bien ! m'a-t-il dit, partie à remettre.» Et il m'a laissée dans un parfait repos.
 
--*who_leandre
-Ah !
-Je respire...
-Eh bien !...
-Après.
+Oui, mon cher Léandre. Mais à peine a-t-il donné quelque signe qu'il ne dormait plus que, sautant en bas du lit, je lui ai témoigné avec une extrême vivacité avoir trois envies dont mon fruit serait marqué si elles n'étaient pas satisfaites, et, sur ce que je l'ai assuré que je ne lui accorderais rien de ce que ma mère m'a dit qu'on ne devait pas refuser à son mari, à moins qu'il ne trouvât moyen de me contenter, il a envoyé sur-le-champ Gilles pour chercher l'objet prétendu de mes désirs.
 
--*who_isabelle
-Il m'a priée de l'éclairer pour chercher une puce qui le piquait vivement.
-Je l'ai fait.
-La puce tuée, j'ai feint d'avoir une extrême envie de dormir, et l'ai prié de remettre ses caresses à une autre fois.
-Comme il était fatigué de la poste :
-    « Eh bien ! m'a-t-il dit, partie à remettre.»
-Et il m'a laissée dans un parfait repos.
+Ce n'est pas le tout. Servez-vous promptement de ces envies pour vous introduire ici et tromper sa vigilance et celle de mon mari... Mais j'entends Gilles. Rentrez dans le cabinet, et, pour sortir, usez de la fourberie que je viens d'imaginer.
 
--*who_leandre
-Quoi !
-Sans vous réveiller ?
-
--*who_isabelle
-Oui, mon cher Léandre.
-Mais à peine a-t-il donné quelque signe qu'il ne dormait plus que, sautant en bas du lit, je lui ai témoigné avec une extrême vivacité avoir trois envies dont mon fruit serait marqué si elles n'étaient pas satisfaites, et, sur ce que je l'ai assuré que je ne lui accorderais rien de ce que ma mère m'a dit qu'on ne devait pas refuser à son mari, à moins qu'il ne trouvât moyen de me contenter, il a envoyé sur-le-champ Gilles pour chercher l'objet prétendu de mes désirs.
-
--*who_leandre
-Il est vrai que du cabinet où j'étais enfermé j'ai entendu votre importun mari donner des ordres à Gilles.
-
--*who_isabelle
-Ce n'est pas le tout.
-Servez-vous promptement de ces envies pour vous introduire ici et tromper sa vigilance et celle de mon mari...
-Mais j'entends Gilles.
-Rentrez dans le cabinet, et, pour sortir, usez de la fourberie que je viens d'imaginer.
-
--*who_leandre
-Mais quelle est-elle ?
-
--*who_isabelle
 Ayez seulement l'oreille attentive, cela vous suffira.
 
-**** *book_ *id_II06 *act_II *date_1740
+Ah ! Je suis morte ! Ah ! Ah ! J'ai cru que c'était encore un esprit...
 
--*who_gilles
-Parguenne !
-Il n'y a encore personne de levé ; toutes les boutiques sont fermées.
-Monsieur notre maître me baille là une drôle de commission !
+Ah ! Gilles, mon ami, je n'en puis plus. Un grand fantôme tout blanc vient de paraître ici.
 
--*who_isabelle
-Ah !
-Je suis morte !
-Ah !
-Ah !
-J'ai cru que c'était encore un esprit...
+Ah ! Gilles, c'est la vérité pure... Voilà ! Miséricorde !...
 
--*who_gilles
-Un esprit ?
-Morguenne !
-Je mourrais de peur si j'en voyais un.
-Mais, notre maîtresse, revenez à vous ; je suis un corps, moi : tâtez plutôt.
-
--*who_isabelle
-Ah !
-Gilles, mon ami, je n'en puis plus.
-Un grand fantôme tout blanc vient de paraître ici.
-
--*who_gilles
-Bon !
-Queu conte !
-Léandre paraît enveloppé d'un drap blanc.
-
--*who_isabelle
-Ah !
-Gilles, c'est la vérité pure...
-Voilà !
-Miséricorde !...
-
--*who_gilles
-À moi !
-Au secours !
-Au guet !
-
--*who_isabelle
 Ah ! je n'en puis plus... je me meurs.
 
--*who_gilles
-Je n'en vaux guère mieux...
-Notre maîtresse...
-Notre maîtresse...
+Ah ! Le voilà encore... Sauve qui peut.
 
--*who_isabelle
-Ah !
-Le voilà encore...
-Sauve qui peut.
+Ah ! La belle andouille ! La belle andouille ! Ah ! Mon cher Gilles, que je t'ai d'obligation ! Elle était si appétissante qu'elle faisait envie de l'avaler toute crue. Ah ! J'oublie toutes tes impertinences de tantôt en faveur du plaisir que tu m'as procuré. La vue seule de cet objet a ravi tous mes sens.
+Ah ! Monsieur, vous voilà, faut-il que j'aie plus d'obligation à Gilles qu'à vous ? Ne devriez-vous pas m'avoir apporté, du moins, du fruit de Calville rouge ?
 
--*who_gilles
-Sauvons-nous aussi.
+Mon fruit en sera donc marqué ! Quelle affliction pour moi !
 
-**** *book_ *id_III01 *act_III *date_1740
+Que je suis malheureuse ! Quoi, je ne pourrai avoir ce que j'aime !
 
--*who_leandre
-Non.
-Il n'est point de gentilhomme plus infortuné que moi !
-J'ai rendez-vous avec Mademoiselle Isabelle, ma maîtresse, je suis sur le point d'avoir le bonheur d'être heureux, lorsqu'une maudite lettre que j'ai eu la sottise de lui dicter rappelle son mari de retour.
-Je ne puis cependant absolument me plaindre.
-Elle est venue me tirer des commodités où elle m'avait enfermé !
-Elle m'a raconté que ses envies n'étaient que pour tromper son mari et me donner entrée chez elle.
-Mais j'aperçois Gilles, il ne me reconnaîtra pas sous ce déguisement.
-Commençons notre rôle.
-Non, morbleu !
-Perfide Angélique, vous ne me tiendrez plus dans vos filets.
-Je veux bien que l'on me coupe... les deux oreilles si je remets jamais les pieds chez vous...
-
-**** *book_ *id_III02 *act_III *date_1740
-
--*who_gilles
-Voilà un vivant qui me paraît bien en colère contre sa maîtresse !
-
--*who_leandre
-Il faudrait que je fusse le plus lâche de tous les hommes si je vous aimais encore.
-
--*who_gilles
-Monsieur, vous me paraissez bien échauffé.
-
--*who_leandre
-Si je le suis, j'en ai grande raison.
-Tiens, mon ami, sans te connaître, je t'en fais le juge.
-Écoute la plus noire infidélité.
-
--*who_gilles
-Volontiers.
-
--*who_leandre
-J'aime une fille à la folie, elle m'assure qu'elle a toute la tendresse possible pour moi, je suis assez simple pour la croire ; en badinant avec elle, elle me témoigne avoir une extrême envie de manger d'une andouille de Transilvanie.
-
--*who_gilles
-Une andouille de Tranche Vilanie, et dites-moi, je vous prie, où est-ce que l'on trouve de cela ?
-
--*who_leandre
-On n'en trouve pas dans ce pays-ci, mon ami, et je suis sûrement dans Paris le seul qui en possède une ; pour l'avoir j'ai fait plus de vingt lieues en poste, puisqu'il m'a fallu aller jusqu'en Allemagne et par delà.
-
--*who_gilles
-Houlas !
-
--*who_leandre
-Oui !
-Mon ami, après avoir traversé toute la France, la Hollande, j'arrive enfin en Transilvanie, j'y achète une andouille grande comme cela...
-Elle me coûte six écus sans les frais du voyage ; je reviens aussi en poste pour présenter mon andouille à ma maîtresse.
-
--*who_gilles
-Elle la gobe tout d'un coup, sans vous remercier peut-être ?
-
--*who_leandre
-Ah !
-J'aurais été trop heureux si cela s'était passé ainsi.
-Mais...
-Devine.
-
--*who_gilles
-Oh !
-Je ne puis deviner.
-
--*who_leandre
-Je trouve la scélérate couchée entre deux draps bien blancs...
-
--*who_gilles
-Il n'y a pas de mal à cela !
-
--*who_leandre
-Je la trouve couchée avec mon valet de chambre.
-
--*who_gilles
-Entre deux draps bien blancs...
-Oh !
-Je crois que vous avez fait un beau tapage...
-
--*who_leandre
-Je t'en réponds : j'ai jeté la chambre par la fenêtre, j'ai donné cent coups de plat d'épée au travers du corps de mon bélître de valet, une douzaine de soufflets à mon indigne maîtresse, et je suis sorti de chez elle comme un furieux.
-
--*who_gilles
-Oh !
-Que c'est bien fait.
-Mais je gage qu'elle a pleuré, que vous avez fait la paix avec elle et que vous lui aurez présenté votre andouille.
-
--*who_leandre
-Je ne suis pardi pas si sot.
-
--*who_gilles
-Eh !
-L'avez-vous encore, Monsieur, cette andouille de Tranche Vilanie ?
-
--*who_leandre
-Oui, sans doute.
-Mais dis donc Transilvanie !
-
--*who_gilles
-Ah !
-Quel bonheur !
-Si ça n'était pas si cher je vous proposerais de me la vendre.
-
--*who_leandre
-Faquin que tu es !
-Je ne sais à quoi il tient que je ne t'assomme ; ai-je l'air d'un marchand d'andouilles ?
-
--*who_gilles
-Je vous demande pardon, Monsieur, ce n'est pas pour moi que je vous parle, c'est pour la femme de mon maître qui est grosse et qui veut absolument avoir une andouille de Tranche Vilanie.
-Elle jure qu'elle en mourra si elle ne l'a dans ce jour.
-
--*who_leandre
-Et dis-moi, mon ami, ta maîtresse est-elle un peu gentille ?
-
--*who_gilles
-Elle est assez drôlette.
-
--*who_leandre
-Et bien, mon garçon, garde ton argent et mène-moi vers cette aimable personne, je me ferai un vrai plaisir de lui présenter mon andouille.
-
--*who_gilles
-Oh !
-Parguenne !
-Elle l'avalera comme une prune ; vous n'aurez qu'à entrer ; avec un morceau aussi friand pour elle on n'a pas besoin d'être annoncé.
-Ça s'introduit de soi même, et vous n'avez tant seulement qu'à le lui montrer, je parie que l'eau lui en viendra bientôt à la bouche.
-
--*who_leandre
-J'en suis persuadé, mon ami, et j'entre sur la parole.
-
-**** *book_ *id_III03 *act_III *date_1740
-
--*who_lemaitre
-À quoi s'amuse ce coquin de Gilles ?
-Pendant que je cours toute la ville pour ma femme, ce butor est planté comme un piquet devant ma porte.
-
--*who_gilles
-Ah !
-Vous voilà, notre maître.
-Eh bien, avez-vous fait quelque bonne trouvaille ?
-
--*who_lemaitre
-Non, j'ai été chez une douzaine de charcutiers, ils m'ont ri au nez.
-Ces animaux-là ne connaissent pas les andouilles de Transilvanie.
-
--*who_gilles
-Oh !
-Parguenne !
-Je le crois bien.
-C'est un morceau des plus rares.
-Cependant, à l'heure que je vous parle, Mademoiselle Isabelle doit être rassasiée d'andouille.
-
--*who_lemaitre
-Est-il possible ?
-
--*who_gilles
-Oui !
-Tenez !
-J'ai trouvé un homme qui revenait du pays de ces andouilles.
-Dame !
-J'en ai envoyé une belle à Madame votre femme.
-
-**** *book_ *id_III04 *act_III *date_1740
-
--*who_leandre
-Que je suis malheureux d'être obligé de sortir sitôt par rapport au retour du mari de ma maîtresse !
-
--*who_isabelle
-Ah !
-La belle andouille !
-La belle andouille !
-Ah !
-Mon cher Gilles, que je t'ai d'obligation !
-Elle était si appétissante qu'elle faisait envie de l'avaler toute crue.
-Ah !
-J'oublie toutes tes impertinences de tantôt en faveur du plaisir que tu m'as procuré.
-La vue seule de cet objet a ravi tous mes sens.
-Ah !
-Monsieur, vous voilà, faut-il que j'aie plus d'obligation à Gilles qu'à vous ?
-Ne devriez-vous pas m'avoir apporté, du moins, du fruit de Calville rouge ?
-
--*who_lemaitre
-J'ai été, ma mignonne, chez tous les fruitiers de la halle ; aucun d'eux n'a pu m'en fournir.
-La saison en est absolument passée.
-
--*who_isabelle
-Mon fruit en sera donc marqué !
-Quelle affliction pour moi !
-
--*who_lemaitre
-Je cours encore vous en chercher ; mais je crains bien de n'y pas réussir.
-
-**** *book_ *id_III05 *act_III *date_1740
-
--*who_isabelle
-Que je suis malheureuse !
-Quoi, je ne pourrai avoir ce que j'aime !
-
--*who_gilles
-Morguenne !
-Aussi vous avez de drôles de fantaisies !
-Calville rouge !...
-
--*who_leandre
-Plaît-il, mon ami ?
-
--*who_gilles
-Je ne parle pas de vous, Monsieur.
-
--*who_leandre
-Pourquoi donc m'appelez-vous ?
-
--*who_gilles
-Moi ?
-Je n'y pense pas.
-
--*who_leandre
-N'avez-vous pas dit : Calville rouge ?
-
--*who_gilles
-Oui.
-
--*who_leandre
-Eh bien !
-C'est moi ; me voilà.
-
--*who_gilles
-Comment, c'est vous ?
-
--*who_leandre
-Oui, mon ami, je m'appelle ainsi.
-
--*who_gilles
-Parlez donc, notre maîtresse !
-J'ai encore votre affaire : en voilà un calville rouge.
-
--*who_isabelle
 Où est-il ?
 
--*who_leandre
-C'est moi, Mam'selle, qui ai cet honneur.
-
--*who_isabelle
 Je ne vous comprends pas.
 
--*who_gilles
-Je vous dis que ce Monsieur a votre affaire.
-
--*who_isabelle
 Monsieur a du calville rouge ?
 
--*who_leandre
+Ah ! Si cela est, Monsieur, entrez dans ma maison et venez contenter mon envie.
+
+Faites bonne contenance seulement et laissez-moi faire... Vous êtes bien hardi, mon petit ami, de m'avouer que vous m'aimez et que c'est par le ministère de Gilles que vous vous êtes introduit chez moi. C'est ainsi que je traite un insolent tel que vous.
+
+Ah ! Vous voilà, mon mignon. Dame ! Excusez, c'est la colère qui me transporte, je ne vous voyais pas.
+
+Oh ! Dame ! Je n'ai pas fait réflexion à tout cela ; j'en suis fâchée, mon ami ; pour t'en consoler, la bourse sera pour toi.
+
+Oh ! Mon cher petit bouchon, elles sont passées ; ce sont fantaisies ordinaires à notre sexe.
+
+
+**** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+Ah ! Charmante Isabelle, queu contretemps ! Quoi ! Au moment que je vas rassasier mon âme des plaisirs les plus délicieux, il faut qu'un brutal de mari vienne mal à propos m'en sevrer !
+
+Ah ! Fatalité du destin ! Sort funeste ! Barbare événement ! Faut-il que je me trouve en ce moment condamné à la peine de Tantale ? Non, je ne puis soutenir un accident si imprévu ; je mourrai de douleur si vous ne trouvez un prompt remède à mes maux.
+
+Juste ciel ! Quel cruel récit m'allez-vous faire ! Il vous a accablée des caresses les plus tendres. Ah ! Je n'ai pas la force de vous entendre...
+
+Non, le coeur me soulève !...
+
+Ah ! Je m'en doutais bien, cruelle ; il vous l'a mis... Vous l'avez souffert. Vous ne m'aimez pas, adorable Isabelle. Il fallait le refuser, il fallait le jeter en bas du lit.
+
+Ah ! Voilà le sujet de ma douleur !
+
+Le martinet ! Un fouet de corde ! Il est donc devenu ladre ? Et vous vous êtes prêtée sans doute à cette misérable opération ?
+
+Ah ! Je respire... Eh bien !... Après.
+
+Quoi ! Sans vous réveiller ?
+
+Il est vrai que du cabinet où j'étais enfermé j'ai entendu votre importun mari donner des ordres à Gilles.
+
+Mais quelle est-elle ?
+
+Non. Il n'est point de gentilhomme plus infortuné que moi ! J'ai rendez-vous avec Mademoiselle Isabelle, ma maîtresse, je suis sur le point d'avoir le bonheur d'être heureux, lorsqu'une maudite lettre que j'ai eu la sottise de lui dicter rappelle son mari de retour. Je ne puis cependant absolument me plaindre. Elle est venue me tirer des commodités où elle m'avait enfermé ! Elle m'a raconté que ses envies n'étaient que pour tromper son mari et me donner entrée chez elle. Mais j'aperçois Gilles, il ne me reconnaîtra pas sous ce déguisement. Commençons notre rôle.
+Non, morbleu ! Perfide Angélique, vous ne me tiendrez plus dans vos filets. Je veux bien que l'on me coupe... les deux oreilles si je remets jamais les pieds chez vous...
+
+Il faudrait que je fusse le plus lâche de tous les hommes si je vous aimais encore.
+
+Si je le suis, j'en ai grande raison. Tiens, mon ami, sans te connaître, je t'en fais le juge. Écoute la plus noire infidélité.
+
+J'aime une fille à la folie, elle m'assure qu'elle a toute la tendresse possible pour moi, je suis assez simple pour la croire ; en badinant avec elle, elle me témoigne avoir une extrême envie de manger d'une andouille de Transilvanie.
+
+On n'en trouve pas dans ce pays-ci, mon ami, et je suis sûrement dans Paris le seul qui en possède une ; pour l'avoir j'ai fait plus de vingt lieues en poste, puisqu'il m'a fallu aller jusqu'en Allemagne et par delà.
+
+Oui ! Mon ami, après avoir traversé toute la France, la Hollande, j'arrive enfin en Transilvanie, j'y achète une andouille grande comme cela... Elle me coûte six écus sans les frais du voyage ; je reviens aussi en poste pour présenter mon andouille à ma maîtresse.
+
+Ah ! J'aurais été trop heureux si cela s'était passé ainsi. Mais... Devine.
+
+Je trouve la scélérate couchée entre deux draps bien blancs...
+
+Je la trouve couchée avec mon valet de chambre.
+
+Je t'en réponds : j'ai jeté la chambre par la fenêtre, j'ai donné cent coups de plat d'épée au travers du corps de mon bélître de valet, une douzaine de soufflets à mon indigne maîtresse, et je suis sorti de chez elle comme un furieux.
+
+Je ne suis pardi pas si sot.
+
+Oui, sans doute. Mais dis donc Transilvanie !
+
+Faquin que tu es ! Je ne sais à quoi il tient que je ne t'assomme ; ai-je l'air d'un marchand d'andouilles ?
+
+Et dis-moi, mon ami, ta maîtresse est-elle un peu gentille ?
+
+Et bien, mon garçon, garde ton argent et mène-moi vers cette aimable personne, je me ferai un vrai plaisir de lui présenter mon andouille.
+
+J'en suis persuadé, mon ami, et j'entre sur la parole.
+
+Que je suis malheureux d'être obligé de sortir sitôt par rapport au retour du mari de ma maîtresse !
+
+Plaît-il, mon ami ?
+
+Pourquoi donc m'appelez-vous ?
+
+N'avez-vous pas dit : Calville rouge ?
+
+Eh bien ! C'est moi ; me voilà.
+
+Oui, mon ami, je m'appelle ainsi.
+
+C'est moi, Mam'selle, qui ai cet honneur.
+
 Oui, Mam'selle, fort à votre service.
 
--*who_gilles
-Ne serait-il pas l'arbre et le fruit ?
-
--*who_isabelle
-Ah !
-Si cela est, Monsieur, entrez dans ma maison et venez contenter mon envie.
-
--*who_leandre
 Je n'ai jamais été rétif, Mam'selle, à l'envers du beau sexe, quand il s'est agi de lui rendre service, et j'obéirai volontiers à vos ordres.
 
--*who_gilles
-Voilà un garçon bien civil et bien obligeant.
+Faut-il que je sois toujours traversé dans la félicité de mon bonheur ! Au moment que j'allais goûter les plus amoureux plaisirs avec Mademoiselle Isabelle, son animal de mari s'est fait entendre, et j'ai été obligé, pour la seconde fois, de sortir brusquement de sa maison.
 
-**** *book_ *id_III06 *act_III *date_1740
-
--*who_gilles
-Faut avouer que je suis plus heureux que notre maître : il court toute la ville comme un fou, et moi, sans sortir de ma place, voilà déjà deux des envies de la maîtresse que j'ai eu les moyens de satisfaire.
-Il n'y a plus que le bigarreau qui m'embarrasse.
-Si je le pouvais trouver !
-Mais je vais aussi chercher à mon tour.
-
-**** *book_ *id_III07 *act_III *date_1740
-
--*who_leandre
-Faut-il que je sois toujours traversé dans la félicité de mon bonheur !
-Au moment que j'allais goûter les plus amoureux plaisirs avec Mademoiselle Isabelle, son animal de mari s'est fait entendre, et j'ai été obligé, pour la seconde fois, de sortir brusquement de sa maison.
-
-**** *book_ *id_III08 *act_III *date_1740
-
--*who_lemaitre
-Je ne croirai jamais ce que tu viens de m'apprendre.
-Ma femme aurait trouvé du calville rouge ?
-
--*who_gilles
-Oui !
-Monsieur, cela est sûr.
-Il ne reste plus que le bigarreau.
-
--*who_lemaitre
-On m'a dit que j'en trouverais peut-être au Jardin du Roi ; comme nous n'en sommes pas bien éloignés, j'y cours.
-
--*who_gilles
-Allez et ne perdez pas de temps.
-
-**** *book_ *id_III09 *act_III *date_1740
-
--*who_leandre
-Le voilà parti, le bonhomme.
-Il me vient une idée pour tromper encore ce balourd ; exécutons-la.
+Le voilà parti, le bonhomme. Il me vient une idée pour tromper encore ce balourd ; exécutons-la.
 J'ai dans ma pochette
 Un petit moineau
 Qui la tête a faite
@@ -1342,185 +461,296 @@ Comme un bi lanladilirette,
 Ce monsieur de Lafleur
 Comme un bigarreau.
 
--*who_gilles
-Je crois, ma foi !
-Que voilà notre affaire.
-Vous parlez de bigarreau, Monsieur, est-ce que vous en auriez un ?
-
--*who_leandre
 Oui, mon ami, et des plus beaux, je m'en vante.
 
--*who_gilles
-Ô ciel !
-Et pourrait-on le voir ?
+Non, vraiment ! La moindre impression de l'air est capable de le flétrir par le froid qu'il fait.
 
--*who_leandre
-Non, vraiment !
-La moindre impression de l'air est capable de le flétrir par le froid qu'il fait.
+Non, mon ami. Mais elle voudrait peut-être le gober.
 
--*who_gilles
-Mais, Monsieur, dans une chambre bien chaude, feriez-vous difficulté de le montrer à une demoiselle qui en a grande envie ?
-
--*who_leandre
-Non, mon ami.
-Mais elle voudrait peut-être le gober.
-
--*who_gilles
-Morguenne !
-C'est qu'elle est grosse.
-C'est une envie.
-
--*who_leandre
 J'en suis fâché ; mais la femme d'un gros fermier général, qui est dans le même cas, le marchande.
 
--*who_gilles
-Et combien en offre-t-elle ?
-
--*who_leandre
 Dix écus, et j'en veux trente-trois livres.
 
--*who_gilles
-Ma maîtresse, Monsieur, vous les donnera.
-Mais elle n'achètera pas chat en poche ; montrez-le-moi !
+La proposition n'est pas honnête. Je ne puis le faire voir qu'à huis clos.
 
--*who_leandre
-La proposition n'est pas honnête.
-Je ne puis le faire voir qu'à huis clos.
-
--*who_gilles
-Trente-trois livres ne font, je crois, qu'onze écus ?
-
--*who_leandre
 Justement, tu comptes à merveille.
 
--*who_gilles
+
+**** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
+Que le diable emporte le triple cocu qui m'a enfoncé !
+
+Ma foi, Monsieur, parlez, je suis de moitié.
+
+Monsieur, j'en suis bien fâché !
+
+Fi donc, Monsieur ! Est-ce que vous auriez quelque méfiance sur la conduite de Mademoiselle Isabelle ?
+
+Tenez, Monsieur, je vais vous apprendre un secret pour savoir certainement si vous êtes cocu ou non ; mais c'est un secret des plus sûrs.
+
+Il est immanquable. Mais motus au moins !
+
+Vous n'en sonnerez mot à personne ?
+
+Eh bien ! Vous n'avez qu'à... me mettre coucher une demi-heure seulement avec Mademoiselle Isabelle, et vous pouvez être alors très certain que vous serez cocu.
+
+Eh ! Parguenne, Monsieur, ce serait à Mademoiselle Isabelle à torcher les siennes si j'avais eu la liberté d'avoir l'honneur de sa réjouissance.
+
+Diantre ! Vous êtes donc devenu bien furieux depuis que vous avez été voir la guerre ?
+
+Ma foi, tant pis pour vous. J'ai entendu dire à notre magister que si ce beau roi d'Écorce était attrapé, il serait pendu. Vous avez donc frisé la corde ?
+
+Oh ! Ma foi, si vous aviez été roi, je n'aurais pas été des derniers à vous appeler vit de cire. Mais vous nous en contez. Au surplus, qu'est-ce donc qui vous a fait revenir sitôt de ce pays-là ?
+
+Elle est donc bien pressée de ses nécessités ? Parguenne, n'y a-t-il pas d'autres hommes que vous dans Paris ? Est-ce que je ne suis pas le coq de la maison ?
+
+« Madame Tiremonde, sage-femme du Châtelet et gouvernante des pays-bas, dit absolument que je suis grosse, parce que je suis enflée, et que j'ai les cotylédons de la matrice relâchés. Outre cela, je ressens bien de la douleur dans le ventre. Mais je ne vous en veux point de mal, parce que vous n'en êtes point la cause : mon cher Léandre, notre voisin, vient quelquefois me voir ; nous nous sommes associés à la loterie, nous avons mil écus ensemble. Adieu, mon petit bonhomme.» Et c'est à cause de cette lettre que vous êtes parti en poste pour venir voir votre femme ?
+
+Oui-dà, pour vous en retourner plus vite que vous n'êtes venu.
+
+Et parguenne, Monsieur notre maître, vous n'avez pas le sens commun ! Mademoiselle Isabelle se moque de vous, à votre nez, et vous ne le voyez pas.
+
+Primo. C'est-ce que cela veut dire les cotillons de la marquise relâchés ?
+
+Aux charcuteries ?
+
+Passe donc pour les cotillons, mais écoutez bien ceci.
+« Je ressens bien de la douleur dans le ventre, mais je ne vous en veux pas de mal, parce que vous n'en êtes pas la cause.» Morguenne ! Cela est clair comme le jour. Ça ne veut-il pas dire que ce n'est pas vous qui avez fait cet enfant-là ?
+
+Il n'y a qu'à lire tout de suite.
+« Mon cher Léandre vient souvent me voir. Nous avons mis les culs ensemble.» Avez-vous quelque chose à dire à cela ?
+
+Vous n'avez jamais mieux parlé, la lettre le dit bien positivement ; et d'ailleurs, qu'est-ce qu'un bonhomme ? N'est-ce pas un habitant de Cornouailles ?
+
+Voyez le grand malheur ! Il y en a qui valent bien mieux que vous et qui le sont.
+
+Eh ! N'aurait-on pas raison ? Ça est très significatif.
+
+Dame, oui, ma mère me l'a dit du moins, et qu'on voulait signifier par là qu'il entrait deux chevilles dans le même trou.
+
+Par ma foi, Monsieur, le plus sûr et le plus court serait d'imiter ces bons bourgeois de Paris, qui sont si pacifiques.
+
+Houlas ! Queu coup de pied !
+
+Ce sera bien fait.
+Je veux me venger de deux soufflets qu'elle m'a baillés il y a huit jours.
+
+Oui, oui, nous en verrons de belles ! Si elle s'avise de monter sur ses grands chevaux, elle vous fera, par la morguenne ! entrer dans un trou de souris.
+
+Holà ! Hau ! Notre maîtresse, et vite, et vite, on vous demande et on vous ordonne...
+
+C'est pargué moi. Oh ! Vous allez voir beau jeu. On vous apprendra à nous bailler des soufflets.
+
+Cent fois plus que vous ne le méritez, entendez-vous ?
+
+Qui vous... Tant y a que je m'entends bien.
+
+Assommez-la toujours, vous vous expliquerez après.
+
+Queu fureur !
+
+C'est moi, entendez-vous ?... Soutenez-moi, notre maître !
+
+Oui, c'est moi qui lui ai fait entendre que vous le faisiez cocu.
+
+Elle tremble... Courage... Oh ! Parguenne, nous étriperons votre galant, et vous aussi !
+
+Oh ! Nous sommes deux, et vous n'en ferez rien.
+
+Comment donc !
+
+Vous mollissez.
+
+Ah ! Monsieur notre maître, Monsieur notre maître ! Elle m'estropie ! Elle m'assomme !
+
+Eh non ! Morguenne non ! Je vous demande pardon ; c'est vous-même qui écrivez des impertinences.
+
+Voyons comment elle sortira de là !
+
+Eh bien, Monsieur, avais-je tort ? Elle avoue tout, comme vous l'entendez.
+
+Oui ! Ne dit-elle pas qu'elle avait des tranchées dans le ventre ?
+
+Dame ! Lisez donc. Vous avez mis les culs ensemble.
+
+Morguenne ! Je ne suis qu'un sot. Voilà futée commère !
+
+Qu'y a-t-il ?
+
+Je la cherche.
+
+La chandelle.
+
+Je la tiens.
+
+La lumière, vous dis-je.
+
+Me voilà, Monsieur.
+
+La lune est belle, dites-vous ?
+
+Je vais me lever, Monsieur.
+
+J'entends. J'y cours.
+
+Chercher la sage-femme. Parguenne ! Voilà du fruit bien mûr. À peine avez vous secoué l'arbre qu'il est tombé à bas.
+
+Cela étant, je m'en vais donc achever mon rêve.
+
+Je rêvais que vous et moi, en voyageant ensemble, nous étions tombés, vous dans une fosse remplie de miel, et moi dans un grand trou rempli de merde.
+
+Vrai, cela est fort risible. Mais ce n'est pas le tout. Au sortir de là nous avons trouvé six grands coquins de hussards qui, après s'être bien moqués de nous, nous ont forcés, à grands coups de bâton, de nous lécher l'un l'autre.
+
+Oh ! Pardienne, en ce moment vous faisiez bien laide grimace.
+
+À propos, Monsieur, j'ai passé une bonne partie de la nuit à écrire, comme vous me l'avez ordonné, à tous les potentats du monde la nouvelle de la grossesse de Mademoiselle Isabelle.
+
+Parguenne, je ne suis pas un sot. Lisez vous-même.
+
+Pour celui-là, vous l'avez ainsi nommé, j'en suis sûr.
+
+Oh ! C'est une pièce d'éloquence !
+
+Vous ne trouvez pas cela bien ?
+
+J'ai mes raisons pour cela. Avant que l'on parlât de la grossesse de Mademoiselle Isabelle, on disait qu'il vous manquait quelque chose qui...
+
+Dame ! Ce n'est pas ma faute.
+
+Oh ! Pour cela j'en suis sûr.
+
+Oui, Monsieur. Les médecins disent que quand une femme est grosse d'un garçon, elle a le téton droit plus dur que le gauche, et, en laçant Mademoiselle Isabelle, je me suis bien aperçu que...
+
+Il est vrai qu'elle en lasserait plutôt deux qu'elle n'en serait lassée... Cependant...
+
+Oui, Monsieur, ce sont ceux qui doivent tenir les quenouilles du lit quand les grandes dames accouchent.
+
+Vidames, viedazes. Je n'y regarde pas de si près.
+
+Cela étant, bonsoir. Je vais me recoucher.
+
+Quelle diable de bête est cela, une andouille de Tranche Vilanie ?
+
+Heureusement qu'elle n'a pas souhaité une citrouille, je vous plaindrais dans ce cas ; mais, Monsieur, ces fruits-là ne sont pas de saison.
+
+Monsieur, Madame votre mère n'a-t-elle pas eu d'envie pendant qu'elle était grosse de vous ?
+
+Et moi, je croirais volontiers le contraire, et qu'elle aurait eu envie d'un chapon ou d'un mulet.
+
+Çà, voyons, ne vous fâchez pas, Monsieur ; voyons ce que nous pouvons faire pour contenter Mademoiselle Isabelle.
+
+Il faudra que le diable s'en mêle si je n'en viens pas à bout.
+
+Parguenne ! Il n'y a encore personne de levé ; toutes les boutiques sont fermées. Monsieur notre maître me baille là une drôle de commission !
+
+Un esprit ? Morguenne ! Je mourrais de peur si j'en voyais un. Mais, notre maîtresse, revenez à vous ; je suis un corps, moi : tâtez plutôt.
+
+Bon ! Queu conte ! Léandre paraît enveloppé d'un drap blanc.
+
+À moi ! Au secours ! Au guet !
+
+Je n'en vaux guère mieux... Notre maîtresse... Notre maîtresse...
+
+Sauvons-nous aussi.
+
+Voilà un vivant qui me paraît bien en colère contre sa maîtresse !
+
+Monsieur, vous me paraissez bien échauffé.
+
+Volontiers.
+
+Une andouille de Tranche Vilanie, et dites-moi, je vous prie, où est-ce que l'on trouve de cela ?
+
+Houlas !
+
+Elle la gobe tout d'un coup, sans vous remercier peut-être ?
+
+Oh ! Je ne puis deviner.
+
+Il n'y a pas de mal à cela !
+
+Entre deux draps bien blancs... Oh ! Je crois que vous avez fait un beau tapage...
+
+Oh ! Que c'est bien fait. Mais je gage qu'elle a pleuré, que vous avez fait la paix avec elle et que vous lui aurez présenté votre andouille.
+
+Eh ! L'avez-vous encore, Monsieur, cette andouille de Tranche Vilanie ?
+
+Ah ! Quel bonheur ! Si ça n'était pas si cher je vous proposerais de me la vendre.
+
+Je vous demande pardon, Monsieur, ce n'est pas pour moi que je vous parle, c'est pour la femme de mon maître qui est grosse et qui veut absolument avoir une andouille de Tranche Vilanie. Elle jure qu'elle en mourra si elle ne l'a dans ce jour.
+
+Elle est assez drôlette.
+
+Oh ! Parguenne ! Elle l'avalera comme une prune ; vous n'aurez qu'à entrer ; avec un morceau aussi friand pour elle on n'a pas besoin d'être annoncé. Ça s'introduit de soi même, et vous n'avez tant seulement qu'à le lui montrer, je parie que l'eau lui en viendra bientôt à la bouche.
+
+Ah ! Vous voilà, notre maître. Eh bien, avez-vous fait quelque bonne trouvaille ?
+
+Oh ! Parguenne ! Je le crois bien. C'est un morceau des plus rares. Cependant, à l'heure que je vous parle, Mademoiselle Isabelle doit être rassasiée d'andouille.
+
+Oui ! Tenez ! J'ai trouvé un homme qui revenait du pays de ces andouilles. Dame ! J'en ai envoyé une belle à Madame votre femme.
+
+Morguenne ! Aussi vous avez de drôles de fantaisies ! Calville rouge !...
+
+Je ne parle pas de vous, Monsieur.
+
+Moi ? Je n'y pense pas.
+
+Oui.
+
+Comment, c'est vous ?
+
+Parlez donc, notre maîtresse ! J'ai encore votre affaire : en voilà un calville rouge.
+
+Je vous dis que ce Monsieur a votre affaire.
+
+Ne serait-il pas l'arbre et le fruit ?
+
+Voilà un garçon bien civil et bien obligeant.
+
+Faut avouer que je suis plus heureux que notre maître : il court toute la ville comme un fou, et moi, sans sortir de ma place, voilà déjà deux des envies de la maîtresse que j'ai eu les moyens de satisfaire. Il n'y a plus que le bigarreau qui m'embarrasse. Si je le pouvais trouver ! Mais je vais aussi chercher à mon tour.
+
+Oui ! Monsieur, cela est sûr. Il ne reste plus que le bigarreau.
+
+Allez et ne perdez pas de temps.
+
+Je crois, ma foi ! Que voilà notre affaire. Vous parlez de bigarreau, Monsieur, est-ce que vous en auriez un ?
+
+Ô ciel ! Et pourrait-on le voir ?
+
+Mais, Monsieur, dans une chambre bien chaude, feriez-vous difficulté de le montrer à une demoiselle qui en a grande envie ?
+
+Morguenne ! C'est qu'elle est grosse. C'est une envie.
+
+Et combien en offre-t-elle ?
+
+Ma maîtresse, Monsieur, vous les donnera. Mais elle n'achètera pas chat en poche ; montrez-le-moi !
+
+Trente-trois livres ne font, je crois, qu'onze écus ?
+
 Entrez là dedans, Monsieur, vous allez bien contenter notre maîtresse.
 
-**** *book_ *id_III10 *act_III *date_1740
-
--*who_lemaitre
-Je joue de malheur, le grand froid de cette année a gelé le bigarrotier du jardin du roi, malgré toutes les précautions prises pour le conserver.
-Mais je vois encore Gilles à la porte, il a l'air bien content.
-
--*who_gilles
 Ma foi, Monsieur, sans moi votre enfant aurait eu une drôle de figure.
 
--*who_lemaitre
-Que veux-tu dire ?
+Eh ! Parguenne ! Si je n'avais eu le bonheur de satisfaire les trois envies de votre femme, il lui en pendrait autant que cela ; mais l'andouille de Tranche Vilanie y a mis bon ordre.
 
--*who_gilles
-Eh !
-Parguenne !
-Si je n'avais eu le bonheur de satisfaire les trois envies de votre femme, il lui en pendrait autant que cela ; mais l'andouille de Tranche Vilanie y a mis bon ordre.
-
--*who_lemaitre
-Que je t'ai d'obligation !
-
--*who_gilles
 Le calville rouge, qui est-ce encore qui l'a présenté à Mademoiselle Isabelle, si ce n'est Monsieur Gilles ?
 
--*who_lemaitre
-J'en conviens, mon ami.
+Mais pour le bigarreau, gnia rien de plus drôle. Sans la chanson de stila qui l'avait, jamais on n'en aurait trouvé, et votre femme...
 
--*who_gilles
-Mais pour le bigarreau, gnia rien de plus drôle.
-Sans la chanson de stila qui l'avait, jamais on n'en aurait trouvé, et votre femme...
-
--*who_lemaitre
-Comment, sans la chanson ?
-
--*who_gilles
 Oui, morguenne !
 J'ai dans ma pochette, etc.
 
--*who_lemaitre
-Que veut dire cela ?
-
--*who_gilles
 Cela signifie que l'homme qui chantait ainsi avait le bigarreau dans sa poche et que je l'ai envoyé à votre femme.
 
--*who_lemaitre
-Et l'as-tu vu, le beau bigarreau ?
+Oh ! Que non. Il n'a jamais voulu me le montrer ; il dit qu'il le conserve dans du coton et qu'il le mettra à Mademoiselle Isabelle en main propre. Je suis persuadé qu'il le lui a mis, car j'ai entendu qu'elle lui disait : « Non, je n'ai jamais eu autant de plaisir en ma vie. » Vous voyez bien qu'il fallait qu'elle fût très contente.
 
--*who_gilles
-Oh !
-Que non.
-Il n'a jamais voulu me le montrer ; il dit qu'il le conserve dans du coton et qu'il le mettra à Mademoiselle Isabelle en main propre.
-Je suis persuadé qu'il le lui a mis, car j'ai entendu qu'elle lui disait :
-    « Non, je n'ai jamais eu autant de plaisir en ma vie. »
-Vous voyez bien qu'il fallait qu'elle fût très contente.
-
--*who_lemaitre
-Ah !
-Misérable faquin !
-J'appréhende bien plutôt d'être trahi par ta balourdise.
-
--*who_gilles
 Comment donc ?
 
--*who_lemaitre
-Ne vois-tu pas, butor, que c'est quelque fourbe qui s'est introduit ainsi chez moi ?
+Ma foi, Monsieur, je commence à croire que cela pourrait bien être et que vous avez raison. Je me rappelle que l'andouille de Tranche Vilanie, stila calville rouge et le monsieur au bigarreau, avaient presque la même voix et se ressemblaient assez.
 
--*who_gilles
-Ma foi, Monsieur, je commence à croire que cela pourrait bien être et que vous avez raison.
-Je me rappelle que l'andouille de Tranche Vilanie, stila calville rouge et le monsieur au bigarreau, avaient presque la même voix et se ressemblaient assez.
+Je le croirais bien. Écoutez, Monsieur, il est encore dans la maison. Il faut l'attendre à la porte et l'assommer quand il sortira.
 
--*who_lemaitre
-Ah !
-Si cela est ainsi, je suis un homme mort.
-Sans doute que ce scélérat aura abusé de la simplicité de ma femme.
+Oui, mais pourquoi me battre, moi ? Si je l'ai fait entrer dans la maison, je n'y ai pas entendu de finesse ; c'était par l'ordre de notre maître.
 
--*who_gilles
-Je le croirais bien.
-Écoutez, Monsieur, il est encore dans la maison.
-Il faut l'attendre à la porte et l'assommer quand il sortira.
-
--*who_lemaitre
-C'est bien dit, éloignons-nous un peu.
-
-**** *book_ *id_III11 *act_III *date_1740
-
--*who_isabelle
-Faites bonne contenance seulement et laissez-moi faire...
-Vous êtes bien hardi, mon petit ami, de m'avouer que vous m'aimez et que c'est par le ministère de Gilles que vous vous êtes introduit chez moi.
-C'est ainsi que je traite un insolent tel que vous.
-
--*who_lemaitre
-Fort, fort !
-Sur ce maroufle et sur Gilles !...
-Mais, ma mignonne, prends donc garde où tu frappes !
-Je suis tout brisé de coups.
-
--*who_isabelle
-Ah !
-Vous voilà, mon mignon.
-Dame !
-Excusez, c'est la colère qui me transporte, je ne vous voyais pas.
-
--*who_lemaitre
-Je ne t'en veux pas de mal, au contraire, ma petite femme.
-Je te loue fort de t'être ainsi vengée ; et je te sais bon gré du traitement que tu as fait à ce séducteur.
-
--*who_gilles
-Oui, mais pourquoi me battre, moi ?
-Si je l'ai fait entrer dans la maison, je n'y ai pas entendu de finesse ; c'était par l'ordre de notre maître.
-
--*who_isabelle
-Oh !
-Dame !
-Je n'ai pas fait réflexion à tout cela ; j'en suis fâchée, mon ami ; pour t'en consoler, la bourse sera pour toi.
-
--*who_gilles
 Grand merci, notre maîtresse ; je ne pense plus aux coups que j'ai reçus.
 
--*who_lemaitre
-Mais, ma petite femme, et tes envies ?
-
--*who_isabelle
-Oh !
-Mon cher petit bouchon, elles sont passées ; ce sont fantaisies ordinaires à notre sexe.
-
--*who_lemaitre
-Ah !
-Que je suis aise de te voir ainsi guérie !
-Rentrons et allons nous réjouir d'un si grand bonheur.

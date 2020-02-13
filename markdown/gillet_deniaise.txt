@@ -1,6 +1,6 @@
 ---
 identifier: gillet_deniaise  
-creator: Gillet de La Tessonerie  
+creator: Gillet de La Tessonerie ; Georges Forestier.  
 date: 1647  
 title: Le Desniaisé. Comédie  
 ---

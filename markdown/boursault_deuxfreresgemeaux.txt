@@ -1,6 +1,6 @@
 ---
 identifier: boursault_deuxfreresgemeaux  
-creator: Boursault, Edme  
+creator: Boursault, Edme ; Georges Forestier.  
 date: 1665  
 title: Les Deux Frères gémeaux ou les menteurs qui ne mentent point. Comédie  
 ---

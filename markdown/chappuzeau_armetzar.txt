@@ -1,6 +1,6 @@
 ---
 identifier: chappuzeau_armetzar  
-creator: Chappuzeau, Samuel  
+creator: Chappuzeau, Samuel ; Georges Forestier.  
 date: 1656  
 title: Armetzar ou les amis ennemis. Tragi-comédie  
 ---

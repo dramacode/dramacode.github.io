@@ -1,432 +1,233 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_carmontelle *book_carmontelle_cafeborgne *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_cafeborgne *dist2_carmontelle_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelavade
 
--*who_monsieurtrepanillac
+Un verre d'eau et la gazette, n'est-ce pas ?
+
+Oh ! Pour des chansons, on n'en manque pas avec vous.
+
+Après la grand...
+
+Oh ! Je vois que c'est immanquable.
+
+Peste ! Vous jouez gros jeu.
+
+Taisez-vous, mauvais plaisant.
+
+C'est la vérité. Oh ! Pour celui-là, c'est un habile homme, mais c'est à savoir s'il voudra : il est si occupé !
+
+Ah ! Monsieur Tressant, quand vous voulez bien en prendre la peine, cela allait mieux.
+
+Voilà ce que c'est que la réputation ! Je voudrais bien que ma boutique fût achalandée comme la vôtre.
+
+Prenez la corbeille, allez-en chercher, et vous diminuerez ceux qu'on a reportés ce matin.
+
+
+**** *creator_carmontelle *book_carmontelle_cafeborgne *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_cafeborgne *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtrepanillac
+
 Jé bous bouffle, Monsieur Frac.
 
--*who_monsieurfrac
-Oh !
-Je vous souffle, je vous souffle : un moment, ma dame n'est pas jouée.
+Eh bien ! Réposez en paix votre dame, et prenez, c'est votre métier... Non pas celle-la... Justement, nécessité pour ce côté.
 
--*who_monsieurtrepanillac
-Eh bien !
-Réposez en paix votre dame, et prenez, c'est votre métier...
-Non pas celle-la...
-Justement, nécessité pour ce côté.
+Moins qué cela, Monsieur Frac... Jé n'en prends qué cinq d'une main... Prenez encore cellé-ci... Bon, et moi jé mé contente dé ces deux seulettes... Un moment, Monsieur Frac, un moment de réflétion, uné fontange à cetté dame pour qu'ellé sé promène.
 
--*who_monsieurfrac
-Eh bien !
-J'en prends deux...
-Ah !
-Misérable !
-J'en donne trois.
-
--*who_monsieurtrepanillac
-Moins qué cela, Monsieur Frac...
-Jé n'en prends qué cinq d'une main...
-Prenez encore cellé-ci...
-Bon, et moi jé mé contente dé ces deux seulettes...
-Un moment, Monsieur Frac, un moment de réflétion, uné fontange à cetté dame pour qu'ellé sé promène.
-
--*who_monsieurfrac
-J'ai perdu !
-J'ai perdu !
-
--*who_monsieurtrepanillac
 Vous avéz dé grandes résources, Monsieur Frac : rétournéz-vous du côté de la lisière.
 
--*who_monsieurfrac
-Oh !
-Vous avez beau plaisanter : si j'avais pris garde à mon jeu...
-
--*who_monsieurtrepanillac
 Cé qué je dis est la vérité même.
 
--*who_monsieurfrac
-Oh !
-Vous avez beau gasconner, si j'étais à mon jeu, vous dis-je...
-
--*who_monsieurtrepanillac
 Lé fait est constant, vous êtes plus fort, mais bous avéz la distration contre vous, car, pour lé fond du jeu, qué je quitte la vie tout à l'heure si mortel lé posséde comme vous.
 Allons, le tout d'aujourd'hui.
 
--*who_monsieurfrac
-Non, je ne suis pas en train, j'ai la tête trop occupée : il faut que je coupe deux habits écarlates, et je n'ai que treize aunes d'étoffe.
+Miséricorde ! C'est donc pour le colosse de Rhodes ; ah ! Monsieur Frac, jé suppose que bous pouvéz, sur cette coupe, mé léver largement une ligature.
 
--*who_monsieurtrepanillac
-Miséricorde !
-C'est donc pour le colosse de Rhodes ; ah !
-Monsieur Frac, jé suppose que bous pouvéz, sur cette coupe, mé léver largement une ligature.
+Malepeste ! Je consens qué vous possédéz lé vôtre : lé ciseau se joue dans votre main... Allons, encore uné partie.
 
--*who_monsieurfrac
-Ah !
-Ah !
-Chacun sait son métier, M. Trépanillac.
-
--*who_monsieurtrepanillac
-Malepeste !
-Je consens qué vous possédéz lé vôtre : lé ciseau se joue dans votre main...
-Allons, encore uné partie.
-
--*who_monsieurfrac
-Non, pas davantage.
-
--*who_monsieurtrepanillac
 Mme Lavade, écrivéz donc, si c'est votre bonté, trente-quatre tasses de café et vingt-neuf vabaroises pour le compté de Monsieur Frac, et au profit de botre serbiteur.
 
--*who_trotin
-Vous voilà nourri pour quinze jours.
-
--*who_monsieurtrepanillac
 Un moment, garçon, ne perdons pas la tête, une bûche au poêle.
 
--*who_madamelavade
-Un verre d'eau et la gazette, n'est-ce pas ?
-
--*who_monsieurtrepanillac
 Je vous apporterai demain, sans faute, cetté chanson qué je vous ai promise.
 
--*who_madamelavade
-Oh !
-Pour des chansons, on n'en manque pas avec vous.
-
--*who_monsieurtrepanillac
 Et le billet dé comédie, cé sera pour dimanche, sans faute.
 
--*who_madamelavade
-Après la grand...
-
--*who_monsieurtrepanillac
 Que jé fondé près dé ce poêle comme la glace, si jé manque d'une seconde : quand jé vous dis qué jé lé dois recevoir de Mlle Sautreda, la première figurante de la comédie, qué j'ai guérie récemment, et qui doit lé demander à M. Pirouette, premier figurant, qui s'est chargé de l'obtenir à M. Piano, troisième violon dé l'orchestre, qui n'attend qué lé moment favorable pour lé réquérir dé la femme de chambre dé Mlle Camille.
 
--*who_madamelavade
-Oh !
-Je vois que c'est immanquable.
+Eh bien ! Qué dit lé coeur ?
 
--*who_monsieurtrepanillac
-Eh bien !
-Qué dit lé coeur ?
-
--*who_monsieurfrac
-Non, je suis trop distrait : je sens que je perdrais aujourd'hui jusqu'à ma perruque.
-
--*who_madamelavade
-Peste !
-Vous jouez gros jeu.
-
--*who_monsieurfrac
-Il est vrai que je ne saurais trouver un perruquier qui me coiffe à l'air de mon visage.
-
--*who_monsieurtrepanillac
 Madame Frac ne s'en mêle donc pas ?
 
--*who_madamelavade
-Taisez-vous, mauvais plaisant.
+Sérieusement, jé suis caution pour cette affaire ; si vous voulez, jé parlerai au meilleur coiffeur de Paris ; jé fus garçon major dans sa boutique tandis que j'étudiais à Saint-Côme. Madame le connaît, c'est Monsieur Tressant, lé voisin.
 
--*who_monsieurtrepanillac
-Sérieusement, jé suis caution pour cette affaire ; si vous voulez, jé parlerai au meilleur coiffeur de Paris ; jé fus garçon major dans sa boutique tandis que j'étudiais à Saint-Côme.
-Madame le connaît, c'est Monsieur Tressant, lé voisin.
+Jé mé charge de la négociation. Il vient ici cé soir. S'il vous prend en amitié, votre affaire est bonne ; il faut lé flatter, entendez-vous ? Né l'a pas qui veut ; tenéz, lé voilà : il vient peut-être ici... Justement.
 
--*who_madamelavade
-C'est la vérité.
-Oh !
-Pour celui-là, c'est un habile homme, mais c'est à savoir s'il voudra : il est si occupé !
-
--*who_monsieurtrepanillac
-Jé mé charge de la négociation.
-Il vient ici cé soir.
-S'il vous prend en amitié, votre affaire est bonne ; il faut lé flatter, entendez-vous ?
-Né l'a pas qui veut ; tenéz, lé voilà : il vient peut-être ici...
-Justement.
-
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_monsieurtressant
-Bonjour à la dame de céans : toujours charmante, quoiqu'un peu mal coiffée.
-
--*who_madamelavade
-Ah !
-Monsieur Tressant, quand vous voulez bien en prendre la peine, cela allait mieux.
-
--*who_monsieurtressant
-Il y a longtemps, Mme Lavade, il y a longtemps de cela, mais je dis envoyez-moi votre coiffeur, je lui donnerai des conseils, si je puis en trouver le moment...
-Pas la minute à moi, ma chère, pas la minute : je sors un instant de mon atelier pour me dissiper, je ne sais auquel entendre : sept garçons, quatre apprentis, dix tresseuses ; trente perruqes à rendre toutes les semaines pour tous les ordres de l'État, sans compter les étrangers qui me persécutent, je dis ; c'est Vienne en Autriche, c'est Londres en Angleterre, c'est Madrid en Espagne : de tous les coins et recoins des quatre parties du monde ! si j'avais voulu la pratique du Grand Seigneur de Constantinople... mais je n'ai pas voulu de ces huguenots-là : pour la province, il y a longtemps que je l'ai remerciée, je n'y aurais pas suffi ; et puis, je dis, on voit tomber son ouvrage dans les mains d'un misérable barbier qui vous l'arrange en deux coups de peigne, cela ne fait aucun honneur.
-
--*who_madamelavade
-Voilà ce que c'est que la réputation !
-Je voudrais bien que ma boutique fût achalandée comme la vôtre.
-
--*who_monsieurtrepanillac
 Voilà Monsieur Frac qui né manque pas dé talent, et qui, sur la renommée dé votre réputation, Monsieur de Tressant, désire cultiver votré connaissance.
 
--*who_monsieurtressant
-Monsieur est artiste aussi, apparemment ?
+Oui, Monsieur Tressant l'aime beaucoup ; holà ! Garçon ! N'entendéz-vous pas ? Monsieur démande dé la bière.
 
--*who_monsieurfrac
-Je me pique d'habiller ce qu'il y a de mieux à la Cour.
-
--*who_monsieurtressant
-Monsieur est tailleur ; mais c'est z'un métier z'assez honnête, quoiqu'on en dise ; surtout, je dis, quand on z'y a de la réputation.
-
--*who_monsieurfrac
-Monsieur, souhaiterait-il me faire l'honneur d'accepter un doigt de bière ?
-
--*who_monsieurtrepanillac
-Oui, Monsieur Tressant l'aime beaucoup ; holà !
-Garçon !
-N'entendéz-vous pas ?
-Monsieur démande dé la bière.
-
--*who_monsieurfrac
-Vous monterez tout de suite deux bouteilles, des échaudés.
-
--*who_madamelavade
-Prenez la corbeille, allez-en chercher, et vous diminuerez ceux qu'on a reportés ce matin.
-
--*who_monsieurtressant
-Ce n'est pas la peine, je boirai z'un verre de bière seulement.
-
--*who_monsieurtrepanillac
 Vous avez raison, et moi j'aime mieux uné croûte de votre pain dé ménage.
 
--*who_trotin
-Cela est plus solide.
+Holà ! Ne faités pas tant mousser.
 
--*who_monsieurtrepanillac
-Holà !
-Ne faités pas tant mousser.
-
--*who_monsieurfrac
-Si Monsieur de Tressant voulait bien me permettre d'avoir l'honneur...
-
--*who_monsieurtrepanillac
 Sur ma foi, d'honneur, jé né me lasse point d'admirer la grâce dé cetté coiffure dé Monsieur dé Tressant : c'est une simplicité, une élégance, un jé né sais quoi...
 
--*who_monsieurtressant
-C'est ce que me disait ce matin le prince de... qui se plaignait que les siennes n'allaient jamais bien ; mais, Monseigneur, je dis, c'est que vous autres grands, vous ne savez pas porter une perruque : il faut connaître la marche de cela, je dis : il y a un art à faire une coiffure, il n'y en a pas moins à la porter : c'est une tournure, un effet pittoresque, là, je dis...
+Eh ! Monsieur Tressant, comme vous avez un goût délicat, c'est ce que me disait tout à l'heure Monsieur Frac, Monsieur voudrait pour tout au monde que vous lui fissiez...
 
--*who_monsieurtrepanillac
-Eh !
-Monsieur Tressant, comme vous avez un goût délicat, c'est ce que me disait tout à l'heure Monsieur Frac, Monsieur voudrait pour tout au monde que vous lui fissiez...
-
--*who_monsieurtressant
-Et le duc de... avec qui je déjeunais avant-hier, il me jurait qu'il n'avait jamais vu personne raisonner son art aussi...
-Là...
-
--*who_monsieurfrac
-Si c'était la bonté de Monsieur...
-
--*who_monsieurtressant
-Il est vrai que cela ne paye pas : il me doit dix-huit cents livres.
-
--*who_monsieurtrepanillac
 Uné petite requête de la part de Monsieur Frac, quatre cheveux seulement arrangés dé votre main...
 
--*who_monsieurtressant
-Et le président de...
-Oh !
-Il a du goût celui-là pour sa coiffure : il a profité des principes que je lui ai donnés, mais on n'en peut tirer un sou : il me doit près de mille écus.
+Laissez-moi faire.
+Ah ! Monsieur ; si Monsieur l'ambassadeur, pour qui vous faites cet habit ponceau brodé d'or, entendait raisonner Monsieur Tressant, qu'il serait content ! C'est un amateur de coiffure, c'est un curieux, celui-là ; né vous disait-il pas hier qu'il né trouvait qué des cruches pour lui faire des perruques ? En lui portant son habit, il faut lui dire qué vous avez trouvé son affaire : s'il sé coiffait une fois de Monsieur Tressant, Monsieur Tressant coifferait bientôt tous les étrangers.
+Oh ! Je connais Monsieur Frac, vous n'avez pas besoin dé lé regarder : il est l'homme à lé faire, jé né connais personne au monde dé plus serviable.
 
--*who_monsieurfrac
+Oh ! Vous né dités pas tous vos autrés coups.
+
+Et cetté rélique, où l'enchâsserons-nous ?
+
+Tiens, garçon, tu né diras pas qué jé né té donne jamais rien.
+
+Mon avis est qu'on en fasse un sacrifice en l'honneur dé la gloire de Monsieur Tressant : allons, un holocauste.
+
+Vous allez faire un rhume, Monsieur Tressant, et puis il faudra qué jé vous guérisse : mettez dessus sans façon, point dé cérémonie.
+
+
+**** *creator_carmontelle *book_carmontelle_cafeborgne *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_cafeborgne *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfrac
+
+Oh ! Je vous souffle, je vous souffle : un moment, ma dame n'est pas jouée.
+
+Eh bien ! J'en prends deux... Ah ! Misérable ! J'en donne trois.
+
+J'ai perdu ! J'ai perdu !
+
+Oh ! Vous avez beau plaisanter : si j'avais pris garde à mon jeu...
+
+Oh ! Vous avez beau gasconner, si j'étais à mon jeu, vous dis-je...
+
+Non, je ne suis pas en train, j'ai la tête trop occupée : il faut que je coupe deux habits écarlates, et je n'ai que treize aunes d'étoffe.
+
+Ah ! Ah ! Chacun sait son métier, M. Trépanillac.
+
+Non, pas davantage.
+
+Non, je suis trop distrait : je sens que je perdrais aujourd'hui jusqu'à ma perruque.
+
+Il est vrai que je ne saurais trouver un perruquier qui me coiffe à l'air de mon visage.
+
+Je me pique d'habiller ce qu'il y a de mieux à la Cour.
+
+Monsieur, souhaiterait-il me faire l'honneur d'accepter un doigt de bière ?
+
+Vous monterez tout de suite deux bouteilles, des échaudés.
+
+Si Monsieur de Tressant voulait bien me permettre d'avoir l'honneur...
+
+Si c'était la bonté de Monsieur...
+
 Moi, je suis dans le même cas ; mais cela n'empêche pas que je paye comptant, et sans marchander, quand une chose me plaît : si, par votre moyen, je pouvais espérer...
 
--*who_monsieurtressant
-Je vous vois venir, Monsieur Frac, je vous vois venir ; mais je vous préviens que cela serait long : je n'ai plus guère, pour cette année, que six cents coiffures à fournir, et vous voyez que je n'ai pas trop de marge.
+Eh bien ! Pour le nouvel an.
 
--*who_monsieurfrac
-Eh bien !
-Pour le nouvel an.
-
--*who_monsieurtressant
-Nous verrons, dans le temps comme dans le temps.
-
--*who_monsieurfrac
 Si vous vouliez toujours avoir la complaisance de me prendre une mesure, cela vous engagerait peut-être plus tôt.
 
--*who_monsieurtressant
-Une mesure !
-Ah !
-Ah !
-Ah !
-Une mesure !
-Est-ce que le génie a besoin de mesure ?
-Oh !
-Cela ne se traite pas comme une culotte, Monsieur Frac.
-
--*who_monsieurfrac
 Le génie n'a pas besoin de mesure, mais la tête est, je crois, comme le corps : il faut bien, pour connaître la proportion...
 
--*who_monsieurtressant
-Point du tout, je dis ; j'envisage une figure, je fixe les traits d'une physionomie, et je vois d'un coup d'oeil ce qui convient au caractère du visage.
-
--*who_monsieurfrac
 Tous nos compliments sont inutiles ; ceux qu'il se fait lui-même ne lui laissent seulement pas le temps de nous écouter.
 
--*who_monsieurtrepanillac
-Laissez-moi faire.
-Ah !
-Monsieur ; si Monsieur l'ambassadeur, pour qui vous faites cet habit ponceau brodé d'or, entendait raisonner Monsieur Tressant, qu'il serait content !
-C'est un amateur de coiffure, c'est un curieux, celui-là ; né vous disait-il pas hier qu'il né trouvait qué des cruches pour lui faire des perruques ?
-En lui portant son habit, il faut lui dire qué vous avez trouvé son affaire : s'il sé coiffait une fois de Monsieur Tressant, Monsieur Tressant coifferait bientôt tous les étrangers.
-Oh !
-Je connais Monsieur Frac, vous n'avez pas besoin dé lé regarder : il est l'homme à lé faire, jé né connais personne au monde dé plus serviable.
-
--*who_monsieurtressant
-Ce n'est pas cela que j'examine : je regarde que Monsieur Frac porte une figure qui invite à le coiffer.
-
--*who_monsieurfrac
 C'est ce que me dit tous les jours Madame Frac.
 
--*who_monsieurtressant
-Regardez-moi z'en face..
-Là..
-Pas tout à fait bien...
-Tournez à présent la tête de trois-quarts.
+Comment dites-vous ? Vous trouvez que ma figure a trois-quarts de long ?
 
--*who_monsieurfrac
-Comment dites-vous ?
-Vous trouvez que ma figure a trois-quarts de long ?
-
--*who_monsieurtressant
-Eh !
-Non, mon cher ami !
-Que l'on voie les trois quarts de votre figure...
-Bon !...
-De profil à présent ; vous savez ce que c'est qu'un profil, peut-être...
-Fort bien !
-À merveille !
-Je dis, votre tête est là.
-Je vous ferais mille coiffures sans en manquer une.
-
--*who_monsieurfrac
 Cela serait bien long.
 
--*who_monsieurtressant
+Ah ! Monsieur, vous me faites le plus grand plaisir ; dites-moi, s'il vous plaît...
+
+Eh ! Monsieur, si vous voulez m'en faire une, il n'y a rien que...
+
+Mais votre garçon attend pour la remporter.
+
+Ah ! Monsieur Tressant, il faut que je vous embrasse : tenez, mon ami,
+Voilà pour avoir des aiguilles ; Trotin, garçon, Mme Lavade, vite une topette d'eau des Barbades, de Scubac, d'huile de Vénus, ce qui fera le plus de plaisir à Monsieur Tressant.
+Allons donc, garçon, des biscuits, des massepains, des macarons, ce que Monsieur Tressant aime le mieux... Ma femme va être bien contente, car nous avions toujours querelle sur ma coiffure : oh ! Elle ne me connaîtra pas.
+
+Ma foi, où il vous plaira.
+
+Voilà qui est fort bien, mais parlons d'affaires.
+
+Mais, Monsieur, encore faut-il...
+
+Pardonnez-moi, c'est que...
+
+Non, monsieur, c'est que...
+
+Ce n'est pas tout à fait cela, c'est que...
+
+Oh ! Monsieur, bien de l'honneur à moi, je n'y regarde pas de si près ; c'est seulement...
+
+Excusez-moi, Monsieur, si je prends la liberté de vous dire..., mais c'est que je vous dirai que je ne travaille que pour des seigneurs.
+
+Un instant, permettez : je suppose en cette occurrence que c'est vous qui avez tort, car vous ne pouvez ignorer le proverbe.
+
+
+**** *creator_carmontelle *book_carmontelle_cafeborgne *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_cafeborgne *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtressant
+
+Bonjour à la dame de céans : toujours charmante, quoiqu'un peu mal coiffée.
+
+Il y a longtemps, Mme Lavade, il y a longtemps de cela, mais je dis envoyez-moi votre coiffeur, je lui donnerai des conseils, si je puis en trouver le moment... Pas la minute à moi, ma chère, pas la minute : je sors un instant de mon atelier pour me dissiper, je ne sais auquel entendre : sept garçons, quatre apprentis, dix tresseuses ; trente perruqes à rendre toutes les semaines pour tous les ordres de l'État, sans compter les étrangers qui me persécutent, je dis ; c'est Vienne en Autriche, c'est Londres en Angleterre, c'est Madrid en Espagne : de tous les coins et recoins des quatre parties du monde ! si j'avais voulu la pratique du Grand Seigneur de Constantinople... mais je n'ai pas voulu de ces huguenots-là : pour la province, il y a longtemps que je l'ai remerciée, je n'y aurais pas suffi ; et puis, je dis, on voit tomber son ouvrage dans les mains d'un misérable barbier qui vous l'arrange en deux coups de peigne, cela ne fait aucun honneur.
+
+Monsieur est artiste aussi, apparemment ?
+
+Monsieur est tailleur ; mais c'est z'un métier z'assez honnête, quoiqu'on en dise ; surtout, je dis, quand on z'y a de la réputation.
+
+Ce n'est pas la peine, je boirai z'un verre de bière seulement.
+
+C'est ce que me disait ce matin le prince de... qui se plaignait que les siennes n'allaient jamais bien ; mais, Monseigneur, je dis, c'est que vous autres grands, vous ne savez pas porter une perruque : il faut connaître la marche de cela, je dis : il y a un art à faire une coiffure, il n'y en a pas moins à la porter : c'est une tournure, un effet pittoresque, là, je dis...
+
+Et le duc de... avec qui je déjeunais avant-hier, il me jurait qu'il n'avait jamais vu personne raisonner son art aussi... Là...
+
+Il est vrai que cela ne paye pas : il me doit dix-huit cents livres.
+
+Et le président de... Oh ! Il a du goût celui-là pour sa coiffure : il a profité des principes que je lui ai donnés, mais on n'en peut tirer un sou : il me doit près de mille écus.
+
+Je vous vois venir, Monsieur Frac, je vous vois venir ; mais je vous préviens que cela serait long : je n'ai plus guère, pour cette année, que six cents coiffures à fournir, et vous voyez que je n'ai pas trop de marge.
+
+Nous verrons, dans le temps comme dans le temps.
+
+Une mesure ! Ah ! Ah ! Ah ! Une mesure ! Est-ce que le génie a besoin de mesure ? Oh ! Cela ne se traite pas comme une culotte, Monsieur Frac.
+
+Point du tout, je dis ; j'envisage une figure, je fixe les traits d'une physionomie, et je vois d'un coup d'oeil ce qui convient au caractère du visage.
+
+Ce n'est pas cela que j'examine : je regarde que Monsieur Frac porte une figure qui invite à le coiffer.
+
+Regardez-moi z'en face.. Là.. Pas tout à fait bien... Tournez à présent la tête de trois-quarts.
+
+Eh ! Non, mon cher ami ! Que l'on voie les trois quarts de votre figure... Bon !... De profil à présent ; vous savez ce que c'est qu'un profil, peut-être... Fort bien ! À merveille ! Je dis, votre tête est là.
+Je vous ferais mille coiffures sans en manquer une.
+
 Pas tant que vous croyez, un instant, je dis, un instant.
-Tout juste.
-Holà !
-Trotin, allez-vous-en à la maison, dites à mon premier commis qu'il m'apporte, là...
-Ce petit bonnet indécis, commandé pour Monsieur l'Abbé C... lorsqu'il sort à pied le soir...
-Il sait bien ce que c'est...
-Au surplus...
-Oui, justement, c'est le numéro 784.
-Il faut avoir tout cela dans la tête, je dis ; si l'on n'avait pas un certain ordre, on n'y tiendrait pas.
+Tout juste. Holà ! Trotin, allez-vous-en à la maison, dites à mon premier commis qu'il m'apporte, là... Ce petit bonnet indécis, commandé pour Monsieur l'Abbé C... lorsqu'il sort à pied le soir... Il sait bien ce que c'est... Au surplus... Oui, justement, c'est le numéro 784. Il faut avoir tout cela dans la tête, je dis ; si l'on n'avait pas un certain ordre, on n'y tiendrait pas.
 
--*who_monsieurfrac
-Ah !
-Monsieur, vous me faites le plus grand plaisir ; dites-moi, s'il vous plaît...
+Eh ! Non, ce n'est pas la question ; c'est qu'il fallait m'apprivoiser avec votre figure : il fallait saisir, vous comprenez bien ; z'à présent, c'est la plus petite chose du monde et je me flatte que vous allez convenir que j'ai mon coup d'oeil juste. Oh ! Pour cela, c'est mon fort que le coup d'oeil, et le coup de peigne : voila tout mon secret.
 
--*who_monsieurtressant
-Eh !
-Non, ce n'est pas la question ; c'est qu'il fallait m'apprivoiser avec votre figure : il fallait saisir, vous comprenez bien ; z'à présent, c'est la plus petite chose du monde et je me flatte que vous allez convenir que j'ai mon coup d'oeil juste.
-Oh !
-Pour cela, c'est mon fort que le coup d'oeil, et le coup de peigne : voila tout mon secret.
-
--*who_monsieurtrepanillac
-Oh !
-Vous né dités pas tous vos autrés coups.
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_monsieurtressant
 Dépouillez cette infamie.
 Point de façon, je dis, c'est mon usage, je ne coiffe pas autrement tous nos seigneurs.
 Levez-vous et regardez dans cette glace.
 
--*who_monsieurfrac
-Eh !
-Monsieur, si vous voulez m'en faire une, il n'y a rien que...
-
--*who_monsieurtressant
 Fi donc ! je ne travaille point par intérêt ; j'aime mon art, et je suis charmé qu'il soit utile à un galant homme.
-Eh bien !
-Le malheureux, qu'est-ce qu'il veut faire ?
+Eh bien ! Le malheureux, qu'est-ce qu'il veut faire ?
 
--*who_monsieurfrac
-Mais votre garçon attend pour la remporter.
+Eh ! Non, vous dis-je, elle est sur votre tête, elle y va passablement, il faut qu'elle y reste : on en fera une autre.
 
--*who_monsieurtressant
-Eh !
-Non, vous dis-je, elle est sur votre tête, elle y va passablement, il faut qu'elle y reste : on en fera une autre.
+Fi donc ! Vous dis-je, fi donc ! C'est une misère.
 
--*who_monsieurfrac
-Ah !
-Monsieur Tressant, il faut que je vous embrasse : tenez, mon ami,
-Voilà pour avoir des aiguilles ; Trotin, garçon, Mme Lavade, vite une topette d'eau des Barbades, de Scubac, d'huile de Vénus, ce qui fera le plus de plaisir à Monsieur Tressant.
-Allons donc, garçon, des biscuits, des massepains, des macarons, ce que Monsieur Tressant aime le mieux...
-Ma femme va être bien contente, car nous avions toujours querelle sur ma coiffure : oh !
-Elle ne me connaîtra pas.
+Eh bien ! Nous arrangerons cela ; la plus petite chose du monde, un rien : vous me ferez une culotte de velours noir.
 
--*who_monsieurtrepanillac
-Et cetté rélique, où l'enchâsserons-nous ?
+Oh ! J'entends : c'est qu'il faut que vous me preniez la mesure, vous, n'est-ce pas ?
 
--*who_monsieurfrac
-Ma foi, où il vous plaira.
-
--*who_monsieurtrepanillac
-Tiens, garçon, tu né diras pas qué jé né té donne jamais rien.
-
--*who_trotin
-Bien obligé, gardez-la pour vous.
-
--*who_monsieurtrepanillac
-Mon avis est qu'on en fasse un sacrifice en l'honneur dé la gloire de Monsieur Tressant : allons, un holocauste.
-
--*who_monsieurfrac
-Voilà qui est fort bien, mais parlons d'affaires.
-
--*who_monsieurtressant
-Fi donc !
-Vous dis-je, fi donc !
-C'est une misère.
-
--*who_monsieurfrac
-Mais, Monsieur, encore faut-il...
-
--*who_monsieurtressant
-Eh bien !
-Nous arrangerons cela ; la plus petite chose du monde, un rien : vous me ferez une culotte de velours noir.
-
--*who_monsieurfrac
-Pardonnez-moi, c'est que...
-
--*who_monsieurtressant
-Oh !
-J'entends : c'est qu'il faut que vous me preniez la mesure, vous, n'est-ce pas ?
-
--*who_monsieurfrac
-Non, monsieur, c'est que...
-
--*who_monsieurtressant
 Vous êtes pressé d'ouvrage, tant mieux ; je ne le suis pas moins ; à votre aise, Monsieur Frac, à votre aise.
 
--*who_monsieurfrac
-Ce n'est pas tout à fait cela, c'est que...
-
--*who_monsieurtressant
 C'est que vous trouvez que ce serait trop cher peut-être ; mais je vous avertis qu'il ne sort point de coiffure de chez moi à moins de quatre louis, et je vous traite, comme vous voyez, en ami, en artiste.
 
--*who_monsieurfrac
-Oh !
-Monsieur, bien de l'honneur à moi, je n'y regarde pas de si près ; c'est seulement...
-
--*who_monsieurtressant
 C'est que, c'est que ; expliquez-vous donc.
 
--*who_monsieurfrac
-Excusez-moi, Monsieur, si je prends la liberté de vous dire..., mais c'est que je vous dirai que je ne travaille que pour des seigneurs.
+Comment, Monsieur Frac ! Que pour des seigneurs ! Et moi, jamais pour un manant de tailleur.
 
--*who_monsieurtressant
-Comment, Monsieur Frac !
-Que pour des seigneurs !
-Et moi, jamais pour un manant de tailleur.
-
--*who_monsieurtrepanillac
-Vous allez faire un rhume, Monsieur Tressant, et puis il faudra qué jé vous guérisse : mettez dessus sans façon, point dé cérémonie.
-
--*who_monsieurtressant
 L'insolent me le payera quelque jour, tôt z'ou tard.
 
--*who_monsieurfrac
-Un instant, permettez : je suppose en cette occurrence que c'est vous qui avez tort, car vous ne pouvez ignorer le proverbe.

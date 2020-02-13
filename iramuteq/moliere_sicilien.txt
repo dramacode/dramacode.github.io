@@ -1,376 +1,401 @@
 
 
-**** *book_ *id_I *act_ *date_1667 *creator_moliere
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
 
--*who_hali
-Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle.
-Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez.
-Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre !
-Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos.
-Mais voici des Flambeaux, et, sans doute, c'est lui.
-
-**** *book_ *id_I02 *act_ *date_1667 *creator_moliere
-
--*who_adraste
 Est-ce toi, Hali ?
 
--*who_hali
-Et qui pourrait-ce être que moi ?
-À ces heures de nuit, hors vous, et moi, Monsieur, je ne crois pas que Personne s'avise de courir, maintenant, les Rues.
+Aussi ne crois-je pas qu'on puisse voir Personne qui sente, dans son cœur, la peine que je sens : car, enfin, ce n'est rien d'avoir à combattre l'indifférence, ou les rigueurs d'une Beauté qu'on aime ; on a, toujours, au moins, le plaisir de la Plainte, et la liberté des Soupirs. Mais ne pouvoir trouver aucune occasion de parler à ce qu'on adore ; ne pouvoir savoir d'une Belle, si l'amour qu'inspirent ses yeux, est pour lui plaire, ou lui déplaire ; c'est la plus fâcheuse, à mon gré, de toutes les inquiétudes ; et c'est où me réduit l'incommode Jaloux, qui veille, avec tant de souci, sur ma charmante Grecque, et ne fait pas un pas sans la traîner à ses côtés.
 
--*who_adraste
-Aussi ne crois-je pas qu'on puisse voir Personne qui sente, dans son cœur, la peine que je sens : car, enfin, ce n'est rien d'avoir à combattre l'indifférence, ou les rigueurs d'une Beauté qu'on aime ; on a, toujours, au moins, le plaisir de la Plainte, et la liberté des Soupirs.
-Mais ne pouvoir trouver aucune occasion de parler à ce qu'on adore ; ne pouvoir savoir d'une Belle, si l'amour qu'inspirent ses yeux, est pour lui plaire, ou lui déplaire ; c'est la plus fâcheuse, à mon gré, de toutes les inquiétudes ; et c'est où me réduit l'incommode Jaloux, qui veille, avec tant de souci, sur ma charmante Grecque, et ne fait pas un pas sans la traîner à ses côtés.
+Il est vrai qu'elle, et moi, souvent, nous nous sommes parlé des yeux : Mais comment reconnaître que chacun, de notre côté, nous ayons, comme il faut, expliqué ce langage ? Et que sais-je, après tout, si elle entend bien tout ce que mes regards lui disent ? Et si les siens me disent ce que je crois, parfois, entendre ?
 
--*who_hali
-Mais il est, en Amour, plusieurs façons de se parler ; et il me semble, à moi, que vos yeux, et les siens, depuis près de deux mois, se sont dit bien des choses.
-
--*who_adraste
-Il est vrai qu'elle, et moi, souvent, nous nous sommes parlé des yeux : Mais comment reconnaître que chacun, de notre côté, nous ayons, comme il faut, expliqué ce langage ?
-Et que sais-je, après tout, si elle entend bien tout ce que mes regards lui disent ?
-Et si les siens me disent ce que je crois, parfois, entendre ?
-
--*who_hali
-Il faut chercher quelque moyen de se parler d'autre manière.
-
--*who_adraste
 As-tu là tes Musiciens ?
 
--*who_hali
-Oui.
+Fais-les approcher. Je veux, jusques au jour, les faire, ici, chanter ; et voir si leur Musique n'obligera point cette Belle à paraître à quelque Fenêtre.
 
--*who_adraste
-Fais-les approcher.
-Je veux, jusques au jour, les faire, ici, chanter ; et voir si leur Musique n'obligera point cette Belle à paraître à quelque Fenêtre.
-
--*who_hali
-Les voici.
-Que chanteront-ils ?
-
--*who_adraste
 Ce qu'ils jugeront de meilleur.
 
--*who_hali
-Il faut qu'ils chantent un Trio qu'ils me chantèrent l'autre jour.
-
--*who_adraste
 Non, ce n'est pas ce qu'il me faut.
 
--*who_hali
-Ah !
-Monsieur, c'est du beau Bécarre.
-
--*who_adraste
 Que diantre veux-tu dire avec ton beau Bécarre ?
 
--*who_hali
-Monsieur, je tiens pour le Bécarre : Vous savez que je m'y connais.
-Le Bécarre me charme : Hors du Bécarre, point de salut en Harmonie.
-Écoutez un peu ce Trio.
-
--*who_adraste
 Non, je veux quelque chose de tendre et de passionné ; quelque chose qui m'entretienne dans une douce rêverie.
 
--*who_hali
-Je vois bien que vous êtes pour le Bémol : mais il y a moyen de nous contenter l'un l'autre.
-Il faut qu'ils vous chantent une certaine Scène d'une petite Comédie que je leur ai vu essayer.
-Ce sont deux Bergers amoureux, tous remplis de langueur, qui sur Bémol, viennent, séparément, faire leurs Plaintes dans un Bois ; puis se découvrent l'un à l'autre, la cruauté de leurs Maîtresses ; et, là-dessus, vient un Berger joyeux, avec un Bécarre admirable, qui se moque de leur faiblesse.
+J'y consens. Voyons ce que c'est.
 
--*who_adraste
-J'y consens.
-Voyons ce que c'est.
-
--*who_hali
-Voici, tout juste, un Lieu propre à servir de Scène ; et voilà deux Flambeaux pour éclairer la Comédie.
-
--*who_adraste
 Place-toi contre ce Logis, afin qu'au moindre bruit que l'on fera dedans, je fasse cacher les lumières.
 
-**** *book_ *id_I03 *act_ *date_1667 *creator_moliere
-
--*who_musiciens
-
-Si du triste récit de mon inquiétude,
-Je trouble le repos de votre Solitude,
-Rochers, ne soyez point fâchés ;
-Quand vous saurez l'excès de mes peines secrètes,
-Tout rochers que vous êtes,
-Vous en serez touchés.
-
--*who_musiciens
-
-Les Oiseaux réjouis, dès que le jour s'avance,
-Recommencent leurs chants dans ces vastes Forêts ;
-Et moi j'y recommence
-Mes soupirs languissants, et mes tristes regrets.
-Ah ! mon cher Philène.
-
--*who_musiciens
-Ah ! mon cher Tirsis.
-
--*who_musiciens
-Que je sens de peine !
-
--*who_musiciens
-Que j'ai de soucis !
-
--*who_musiciens
-Toujours sourde à mes vœux est l'ingrate Climène.
-
--*who_musiciens
-Cloris n'a point, pour moi, de regards adoucis.
-
--*who_musiciens
-
-Ô Loi trop inhumaine !
-Amour, si tu ne peux les contraindre d'aimer,
-Pourquoi leur laisses-tu le pouvoir de charmer ?
-
--*who_musiciens
-
-Pauvres amants, quelle erreur
-D'adorer des inhumaines ?
-Jamais les Âmes bien saines
-Ne se payent de rigueur ;
-Et les Faveurs sont les chaînes
-Qui doivent lier un Cœur.
-
-On voit cent Belles ici,
-Auprès de qui je m'empresse ;
-À leur vouer ma tendresse,
-Je mets mon plus doux souci ;
-Mais, lorsque l'on est Tigresse,
-Ma foi, je suis Tigre aussi.
-
--*who_musiciens
-Heureux, hélas ! qui peut aimer ainsi.
-
--*who_hali
-Monsieur, je viens d'ouïr quelque bruit au-dedans.
-
--*who_adraste
 Qu'on se retire vite, et qu'on éteigne les Flambeaux.
 
-**** *book_ *id_I04 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien.
-Il faut que, dans l'obscurité, je tâche à découvrir quelles Gens ce peuvent être.
-
--*who_adraste
 Hali ?
 
--*who_hali
-Quoi ?
-
--*who_adraste
 N'entends-tu plus rien ?
 
--*who_hali
-Non.
+Quoi ! tous nos efforts ne pourront obtenir que je parle un moment à cette aimable Grecque ? Et ce jaloux maudit, ce traître de Sicilien, me fermera, toujours, tout accès auprès d'elle ?
 
--*who_adraste
-Quoi ! tous nos efforts ne pourront obtenir que je parle un moment à cette aimable Grecque ?
-Et ce jaloux maudit, ce traître de Sicilien, me fermera, toujours, tout accès auprès d'elle ?
-
--*who_hali
-Je voudrais, de bon cœur, que le diable l'eût emporté, pour la fatigue qu'il nous donne ; le Fâcheux, le Bourreau qu'il est.
-Ah ! si nous le tenions ici, que je prendrais de joie à venger sur son dos, tous les pas inutiles que sa jalousie nous fait faire !
-
--*who_adraste
 Si faut-il bien, pourtant, trouver quelque moyen, quelque invention, quelque ruse, pour attraper notre Brutal ; j'y suis trop engagé, pour en avoir le démenti ; et quand j'y devrais employer...
 
--*who_hali
-Monsieur, je ne sais pas ce que cela veut dire.
-Mais la Porte est ouverte ; et, si vous le voulez, j'entrerai doucement, pour découvrir d'où cela vient.
+Oui, fais, mais sans faire de bruit ; je ne m'éloigne pas de toi. Plût au Ciel, que ce fût la charmante Isidore !
 
--*who_adraste
-Oui, fais, mais sans faire de bruit ; je ne m'éloigne pas de toi.
-Plût au Ciel, que ce fût la charmante Isidore !
+Je n'entends remuer Personne. Hali ? Hali ?
 
--*who_dom_pedre
-Qui va là ?
-
--*who_hali
-Ami.
-
--*who_dom_pedre
-Holà, Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélemy ; allons, promptement, mon Épée, ma Rondache, ma Hallebarde, mes Pistolets, mes Mousquetons, mes Fusils ; vite, dépêchez ; allons, tue, point de quartier.
-
-**** *book_ *id_I05 *act_ *date_1667 *creator_moliere
-
--*who_adraste
-Je n'entends remuer Personne.
-Hali ?
-Hali ?
-
--*who_hali
-Monsieur.
-
--*who_adraste
 Où, donc, te caches-tu ?
 
--*who_hali
-Ces Gens sont-ils sortis ?
-
--*who_adraste
 Non, Personne ne bouge.
 
--*who_hali
-S'ils viennent, ils seront frottés.
-
--*who_adraste
 Quoi ! tous nos soins seront, donc, inutiles ? et, toujours, ce fâcheux Jaloux se moquera de nos desseins ?
 
--*who_hali
-Non, le courroux du Point d'Honneur me prend ; Il ne sera pas dit qu'on triomphe de mon adresse ; ma qualité de Fourbe s'indigne de tous ces obstacles ; et je prétends faire éclater les talents que j'ai eus du Ciel.
+Je voudrais, seulement, que par quelque moyen, par un Billet, par quelque Bouche, elle fût avertie des sentiments qu'on a pour elle, et savoir les siens là-dessus. Après on peut trouver facilement, les moyens...
 
--*who_adraste
-Je voudrais, seulement, que par quelque moyen, par un Billet, par quelque Bouche, elle fût avertie des sentiments qu'on a pour elle, et savoir les siens là-dessus.
-Après on peut trouver facilement, les moyens...
+Ne te mets point en peine, j'ai trouvé, par hasard, tout ce que je voulais : et je vais jouir du bonheur de voir, chez elle, cette Belle. Je me suis rencontré chez le Peintre Damon, qui m'a dit, qu'aujourd'hui, il venait faire le Portrait de cette adorable Personne : et comme il est, depuis longtemps, de mes plus intimes Amis, il a voulu servir mes feux, et m'envoie à sa place, avec un petit mot de Lettre, pour me faire accepter. Tu sais que, de tout temps, je me suis plu à la Peinture, et que, parfois, je manie le Pinceau, contre la coutume de France, qui ne veut pas qu'un Gentilhomme sache rien faire : ainsi, j'aurai la liberté de voir cette Belle à mon aise. Mais je ne doute pas que mon Jaloux fâcheux ne soit, toujours, présent, et n'empêche tous les propos que nous pourrions avoir ensemble : et, pour te dire vrai, j'ai, par le moyen d'une jeune Esclave, un Stratagème, pour tirer cette belle Grecque des mains de son Jaloux, si je puis obtenir d'elle, qu'elle y consente.
 
--*who_hali
-Laissez-moi faire seulement ; j'en essayerai tant de toutes les manières, que quelque chose, enfin, nous pourra réussir.
-Allons, le jour paraît ; je vais chercher mes Gens, et venir attendre, en ce Lieu, que notre Jaloux sorte.
+Tout de ce pas, et j'ai, déjà, préparé toutes choses.
 
-**** *book_ *id_I06 *act_ *date_1667 *creator_moliere
+Je ne veux point perdre de temps. Holà. Il me tarde que je ne goûte le plaisir de la voir.
 
--*who_isidore
-Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
+J'y cherche le seigneur Don Pèdre.
 
--*who_dom_pedre
+Il prendra, s'il lui plaît, la peine de lire cette Lettre.
+
+Toute mon ambition est de rendre service aux Gens de nom, et de mérite.
+
+C'est la manière de France.
+
+Il n'y a Personne, sans doute, qui ne tînt à beaucoup de gloire, de toucher à un tel Ouvrage. Je n'ai pas grande habileté ; mais le Sujet, ici, ne fournit que trop de lui-même, et il y a moyen de faire quelque chose de beau sur un Original fait comme celui-là.
+
+Le Peintre n'y en voit aucun ; et tout ce qu'il souhaite, est d'en pouvoir représenter les grâces aux yeux de tout le Monde, aussi grandes qu'il les peut voir.
+
+Le Ciel, qui fit l'Original, nous ôte le moyen d'en faire un Portrait qui puisse flatter.
+
+Allons, apportez tout.
+
+Ici. Voici le Lieu le plus avantageux, et qui reçoit le mieux les vues favorables de la Lumière que nous cherchons.
+
+Oui. Levez-vous un peu, s'il vous plaît ; un peu plus de ce côté-là ; le Corps tourné ainsi ; la tête un peu levée, afin que la beauté du cou paraisse. Ceci un peu plus découvert.
+Bon. Là, un peu davantage ; encore tant soit peu.
+
+Voilà qui va le mieux du Monde, et vous vous tenez à merveilles.
+Comme cela, s'il vous plaît. Le tout dépend des attitudes qu'on donne aux Personnes qu'on peint.
+
+Un peu plus de ce côté ; vos yeux, toujours, tournés vers moi, je vous en prie ; vos regards attachés aux miens.
+
+Il serait malaisé qu'on demandât cela du vôtre ; et vous avez des traits à qui fort peu d'autres ressemblent. Qu'ils ont de douceurs, et de charmes ! et qu'on court de risque à les peindre !
+
+J'ai lu, je ne sais où, qu'Apelle peignit, autrefois, une Maîtresse d'Alexandre ; et qu'il en devint, la peignant, si éperdument amoureux, qu'il fut près d'en perdre la vie : de sorte qu'Alexandre, par générosité, lui céda l'Objet de ses vœux.
+Je pourrais faire, ici, ce qu'Apelle fit autrefois ; mais vous ne feriez pas, peut-être, ce que fit Alexandre.
+
+On ne se trompe guère à ces sortes de choses ; et vous avez l'Esprit trop éclairé, pour ne pas voir de quelle source partent les choses qu'on vous dit. Oui, quand Alexandre serait ici, et que ce serait votre Amant, je ne pourrais m'empêcher de vous dire, que je n'ai rien vu de si beau que ce que je vois maintenant, et que...
+
+Ah ! point du tout, j'ai, toujours, de coutume de parler quand je peins ; et il est besoin, dans ces choses, d'un peu de conversation, pour réveiller l'Esprit, et tenir les Visages dans la gaieté nécessaire aux Personnes que l'on veut peindre.
+
+Elle a les yeux bleus.
+
+Oui, charmante Isidore, mes regards vous le disent depuis plus de deux mois, et vous les avez entendus : Je vous aime plus que tout ce que l'on peut aimer, et je n'ai point d'autre pensée, d'autre but, d'autre passion, que d'être à vous toute ma vie.
+
+Mais vous persuadé-je, jusqu'à vous inspirer quelque peu de bonté pour moi ?
+
+En aurez-vous assez pour consentir, belle Isidore, au dessein que je vous ai dit ?
+
+Qu'attendez-vous pour cela ?
+
+Ah ! quand on aime bien, on se résout bientôt.
+
+Mais, consentez-vous, dites-moi, que ce soit dès ce moment même ?
+
+Non, il n'est rien qui puisse effacer de mon cœur les tendres témoignages...
+Je regardais ce petit trou qu'elle a au côté du menton : et je croyais, d'abord, que ce fût une tache. Mais c'est assez pour aujourd'hui, nous finirons une autre fois.
+Non, ne regardez rien encore ; faites serrer cela, je vous prie.
+Et vous, je vous conjure de ne vous relâcher point : et de garder un Esprit gai, pour le dessein que j'ai d'achever notre Ouvrage.
+
+Les Français excellent toujours, dans toutes les choses qu'ils font ; et quand nous nous mêlons d'être jaloux, nous le sommes vingt fois plus qu'un Sicilien. L'Infâme, croit avoir trouvé, chez vous, un assuré refuge : mais vous êtes trop raisonnable, pour blâmer mon ressentiment. Laissez-moi, je vous prie, la traiter comme elle mérite.
+
+La grandeur d'une telle offense, n'est pas dans l'importance des choses que l'on fait. Elle est à transgresser les ordres qu'on nous donne ; et sur de pareilles matières, ce qui n'est qu'une bagatelle, devient fort criminel, lorsqu'il est défendu.
+
+Hé quoi ! vous prenez son parti, vous qui êtes si délicat sur ces sortes de choses !
+
+Il ne m'est pas permis, à ces conditions, de vous rien refuser ; je ferai ce que vous voudrez.
+
+Oui, je vous le promets, que, pour l'amour de vous, je m'en vais, avec elle, vivre le mieux du monde.
+
+Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en vais la traiter du mieux qu'il me sera possible.
+
+
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dompedre
+
+Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien. Il faut que, dans l'obscurité, je tâche à découvrir quelles Gens ce peuvent être.
+
+Qui va là ?
+
+Holà, Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélemy ; allons, promptement, mon Épée, ma Rondache, ma Hallebarde, mes Pistolets, mes Mousquetons, mes Fusils ; vite, dépêchez ; allons, tue, point de quartier.
+
 J'ai une Affaire qui m'oblige à sortir à l'heure qu'il est.
 
--*who_isidore
-Mais l'Affaire que vous avez, eût bien pu se passer, je crois, de ma présence ; et vous pouviez, sans vous incommoder, me laisser goûter les douceurs du Sommeil du matin.
+Oui ; mais je suis bien aise de vous voir, toujours, avec moi. Il n'est pas mal de s'assurer, un peu, contre les soins des Surveillants ; et cette nuit, encore, on est venu chanter sous nos fenêtres.
 
--*who_dom_pedre
-Oui ; mais je suis bien aise de vous voir, toujours, avec moi.
-Il n'est pas mal de s'assurer, un peu, contre les soins des Surveillants ; et cette nuit, encore, on est venu chanter sous nos fenêtres.
-
--*who_isidore
-Il est vrai, la Musique en était admirable.
-
--*who_dom_pedre
 C'était pour vous que cela se faisait ?
 
--*who_isidore
-Je le veux croire ainsi, puisque vous me le dites.
-
--*who_dom_pedre
 Vous savez qui était celui qui donnait cette Sérénade ?
 
--*who_isidore
-Non pas ; mais, qui que ce puisse être, je lui suis obligée.
-
--*who_dom_pedre
 Obligée !
 
--*who_isidore
-Sans doute, puisqu'il cherche à me divertir.
-
--*who_dom_pedre
 Vous trouvez, donc, bon qu'on vous aime ?
 
--*who_isidore
-Fort bon ; cela n'est jamais qu'obligeant.
-
--*who_dom_pedre
 Et vous voulez du bien à tous ceux qui prennent ce soin ?
 
--*who_isidore
-Assurément.
-
--*who_dom_pedre
 C'est dire fort net ses pensées.
 
--*who_isidore
-À quoi bon de dissimuler ?
-Quelque mine qu'on fasse, on est, toujours, bien aise d'être aimée : ces hommages à nos appas, ne sont, jamais, pour nous déplaire.
-Quoi qu'on en puisse dire, la grande ambition des Femmes est, croyez-moi, d'inspirer de l'amour.
-Tous les soins qu'elles prennent, ne sont que pour cela ; et l'on n'en voit point de si fière, qui ne s'applaudisse, en son cœur des Conquêtes que font ses yeux.
-
--*who_dom_pedre
 Mais si vous prenez, vous, du plaisir, à vous voir aimée ; savez-vous bien, moi qui vous aime, que je n'y en prends nullement ?
 
--*who_isidore
-Je ne sais pas pourquoi cela ; et si j'aimais quelqu'un, je n'aurais point de plus grand plaisir, que de le voir aimé de tout le Monde.
-Y a-t-il rien qui marque, davantage, la beauté du choix que l'on fait ? et n'est-ce pas pour s'applaudir, que ce que nous aimons, soit trouvé fort aimable ?
+Chacun aime à sa guise, et ce n'est pas là ma méthode. Je serai fort ravi qu'on ne vous trouve point si belle ; et vous m'obligerez, de n'affecter point tant de la paraître à d'autres yeux.
 
--*who_dom_pedre
-Chacun aime à sa guise, et ce n'est pas là ma méthode.
-Je serai fort ravi qu'on ne vous trouve point si belle ; et vous m'obligerez, de n'affecter point tant de la paraître à d'autres yeux.
+Oui, jaloux de ces choses-là ; mais jaloux comme un Tigre, et, si vous voulez, comme un Diable. Mon amour vous veut toute à moi ; sa délicatesse s'offense d'un sourire, d'un regard qu'on vous peut arracher ; et tous les soins qu'on me voit prendre, ne sont que pour fermer tout accès aux Galants, et m'assurer la possession d'un cœur dont je ne puis souffrir qu'on me vole la moindre chose.
 
--*who_isidore
-Quoi ! jaloux de ces choses-là ?
-
--*who_dom_pedre
-Oui, jaloux de ces choses-là ; mais jaloux comme un Tigre, et, si vous voulez, comme un Diable.
-Mon amour vous veut toute à moi ; sa délicatesse s'offense d'un sourire, d'un regard qu'on vous peut arracher ; et tous les soins qu'on me voit prendre, ne sont que pour fermer tout accès aux Galants, et m'assurer la possession d'un cœur dont je ne puis souffrir qu'on me vole la moindre chose.
-
--*who_isidore
-Certes, voulez-vous que je dise ?
-Vous prenez un mauvais parti ; et la possession d'un cœur est fort mal assurée, lorsqu'on prétend le retenir par force.
-Pour moi, je vous l'avoue, si j'étais Galant d'une femme qui fût au pouvoir de quelqu'un, je mettrais toute mon étude à rendre ce quelqu'un jaloux, et l'obliger à veiller, nuit, et jour, celle que je voudrais gagner.
-C'est un admirable moyen d'avancer ses affaires : et l'on ne tarde guères, à profiter du chagrin, et de la colère que donne à l'esprit d'une Femme, la contrainte, et la servitude.
-
--*who_dom_pedre
 Si bien, donc, que si quelqu'un vous en contait, il vous trouverait disposée à recevoir ses vœux ?
 
--*who_isidore
-Je ne vous dis rien là-dessus.
-Mais les Femmes, enfin, n'aiment pas qu'on les gêne ; et c'est beaucoup risquer, que de leur montrer des soupçons, et de les tenir renfermées.
-
--*who_dom_pedre
 Vous reconnaissez peu ce que vous me devez : et il me semble qu'une Esclave que l'on a affranchie, et dont on veut faire sa Femme...
 
--*who_isidore
-Quelle obligation vous ai-je, si vous changez mon Esclavage en un autre beaucoup plus rude ?
-Si vous ne me laissez jouir d'aucune liberté, et me fatiguez, comme on voit, d'une garde continuelle ?
-
--*who_dom_pedre
 Mais tout cela ne part que d'un excès d'amour.
 
--*who_isidore
-Si c'est votre façon d'aimer, je vous prie de me haïr.
-
--*who_dom_pedre
 Vous êtes, aujourd'hui, dans une humeur désobligeante ; et je pardonne ces paroles au chagrin où vous pouvez être, de vous être levée matin.
 
-**** *book_ *id_I07 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
 Trêve aux cérémonies, que voulez-vous ?
 
--*who_hali
-Signor (avec la permission de la Signore), je vous dirai (avec la permission de la Signore) que je viens vous trouver (avec la permission de la Signore) pour vous prier (avec la permission de la Signore) de vouloir bien (avec la permission de la Signore)...
-
--*who_dom_pedre
 Avec la permission de la Signore, passez un peu de ce côté.
 
--*who_hali
-Signor, je suis un Virtuose.
-
--*who_dom_pedre
 Je n'ai rien à donner.
 
--*who_hali
-Ce n'est pas ce que je demande.
-Mais comme je me mêle un peu de Musique, et de Danse, j'ai instruit quelques Esclaves qui voudraient bien trouver un Maître qui se plût à ces choses ; et comme je sais que vous êtes une Personne considérable, je voudrais vous prier de les voir, et de les entendre, pour les acheter, s'ils vous plaisent, ou pour leur enseigner quelqu'un de vos Amis qui voulût s'en accommoder.
 
--*who_isidore
-C'est une chose à voir, et cela nous divertira.
-Faites-les-nous venir.
+Savez-vous, mes Drôles,
+Que cette Chanson
+Sent, pour vos épaules,
+Les coups de bâton ?
+Chiribirida ouch alla,
+Mi ti non comprara,
+Ma ti bastonara,
+Si, si, non andara,
+Andara, andara,
+O ti bastonara.
+Oh ! oh ! quels Égrillards ! Allons, rentrons ici, j'ai changé de pensée, et puis le temps se couvre un peu.
+Ah ! Fourbe, que je vous y trouve.
 
--*who_hali
-Chala bala...
-Voici une Chanson nouvelle, qui est du temps.
-Écoutez bien.
-Chala bala.
+Oui, oui, je la lui garde.
 
-**** *book_ *id_I08 *act_ *date_1667 *creator_moliere
+Comment, Coquin...
 
--*who_hali
+Si je prends...
+
+Laisse-moi faire, je t'attraperai sans courir.
+
+Que cherchez-vous, Cavalier, dans cette maison ?
+
+Vous l'avez devant vous.
+
+Je vous envoie, au lieu de moi, pour le Portrait que vous savez, ce Gentilhomme Français, qui, comme curieux d'obliger les honnêtes Gens, a bien voulu prendre ce soin, sur la proposition que je lui en ai faite. Il est, sans contredit, le premier Homme du Monde pour ces sortes d'Ouvrages ; et j'ai cru que je ne pouvais rendre un service plus agréable, que de vous l'envoyer, dans le dessein que vous avez d'avoir un Portrait achevé, de la Personne que vous aimez. Gardez-vous bien, surtout, de lui parler d'aucune récompense : car c'est un Homme qui s'en offenserait, et qui ne fait les choses que pour la gloire, et pour la réputation.
+
+Seigneur Français, c'est une grande grâce que vous me voulez faire ; et je vous suis fort obligé.
+
+Je vais faire venir la Personne dont il s'agit.
+
+Voici un Gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre.
+Holà, Seigneur Français, cette façon de saluer n'est point d'usage en ce Pays.
+
+La manière de France est bonne pour vos Femmes ; mais pour les nôtres, elle est, un peu, trop familière.
+
+Finissons cela, de grâce, laissons les compliments, et songeons au Portrait.
+
+Il y a bien de la peine à vous mettre ; ne sauriez-vous vous tenir comme il faut ?
+
+Fort bien.
+
+Le nez me semble, un peu trop gros.
+
+Seigneur Français, vous ne devriez pas, ce me semble, parler ; cela vous détourne de votre Ouvrage.
+
+Que veut cet Homme-là ? Et qui laisse monter les Gens, sans nous en venir avertir ?
+
+Non, Seigneur.
+
+Souhaitez-vous quelque chose de moi ?
+
+Nous voilà assez loin.
+
+Assassiner, c'est le plus court chemin. Quel est votre ennemi ?
+
+Voilà mon sentiment, et je vous baise les mains.
+
+Je vous laisse aller, sans vous reconduire : mais entre Cavaliers, cette liberté est permise.
+
+Oui ; mais ils ont cela de mauvais, qu'ils s'émancipent un peu trop, et s'attachent, en étourdis, à conter des fleurettes à tout ce qu'ils rencontrent.
+
+Oui, mais, s'ils plaisent aux Dames, ils déplaisent fort aux Messieurs ; et l'on n'est point bien aise de voir sur sa moustache, cajoler, hardiment, sa Femme, ou sa Maîtresse.
+
+Entrez là-dedans, avec elle, et n'appréhendez rien.
+
+Hé quoi ! Seigneur, c'est vous ? Tant de jalousie pour un Français ! Je pensais qu'il n'y eût que nous qui en fussions capables.
+
+Ah ! de grâce, arrêtez ; l'offense est trop petite, pour un courroux si grand.
+
+De la façon qu'elle a parlé, tout ce qu'elle en a fait a été sans dessein ; et je vous prie, enfin, de vous remettre bien ensemble.
+
+Oui, je prends son parti ; et si vous voulez m'obliger, vous oublierez votre colère, et vous vous réconcilierez tous deux. C'est une grâce que je vous demande : et je la recevrai comme un essai de l'amitié que je veux qui soit entre nous.
+
+Holà, venez ; Vous n'avez qu'à me suivre, et j'ai fait votre paix. Vous ne pouviez, jamais, mieux tomber que chez moi.
+
+La voici qui s'en va venir ; et son âme, je vous assure, a paru toute réjouie, lorsque je lui ai dit que j'avais raccommodé tout.
+
+Puisque vous m'avez bien voulu donner votre ressentiment, trouvez bon qu'en ce lieu je vous fasse toucher dans la main l'un de l'autre, et que tous deux je vous conjure de vivre, pour l'amour de moi, dans une parfaite union.
+
+Vous m'obligez sensiblement, et j'en garderai la mémoire.
+
+C'est trop de grâce que vous me faites : Il est bon de pacifier et d'adoucir, toujours, les choses. Holà, Isidore, venez.
+
+Comment ! que veut dire cela ?
+
+Don Pèdre souffrira cette injure mortelle ! Non, non, j'ai trop de cœur, et je vais demander l'appui de la justice, pour pousser le Perfide à bout. C'est ici le Logis d'un Sénateur. Holà ?
+
+Je viens me plaindre à vous d'un affront qu'on m'a fait.
+
+Un traître de Français m'a joué une Pièce.
+
+Il m'a enlevé une Fille que j'avais affranchie.
+
+Vous voyez si c'est une injure qui se doive souffrir.
+
+Je vous demande l'appui de la Justice contre cette action.
+
+Comment ! de quoi parlez-vous là ?
+
+Je vous parle de mon Affaire.
+
+La peste soit du Fou, avec sa Mascarade.
+
+
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isidore
+
+Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
+
+Mais l'Affaire que vous avez, eût bien pu se passer, je crois, de ma présence ; et vous pouviez, sans vous incommoder, me laisser goûter les douceurs du Sommeil du matin.
+
+Il est vrai, la Musique en était admirable.
+
+Je le veux croire ainsi, puisque vous me le dites.
+
+Non pas ; mais, qui que ce puisse être, je lui suis obligée.
+
+Sans doute, puisqu'il cherche à me divertir.
+
+Fort bon ; cela n'est jamais qu'obligeant.
+
+Assurément.
+
+À quoi bon de dissimuler ? Quelque mine qu'on fasse, on est, toujours, bien aise d'être aimée : ces hommages à nos appas, ne sont, jamais, pour nous déplaire. Quoi qu'on en puisse dire, la grande ambition des Femmes est, croyez-moi, d'inspirer de l'amour. Tous les soins qu'elles prennent, ne sont que pour cela ; et l'on n'en voit point de si fière, qui ne s'applaudisse, en son cœur des Conquêtes que font ses yeux.
+
+Je ne sais pas pourquoi cela ; et si j'aimais quelqu'un, je n'aurais point de plus grand plaisir, que de le voir aimé de tout le Monde. Y a-t-il rien qui marque, davantage, la beauté du choix que l'on fait ? et n'est-ce pas pour s'applaudir, que ce que nous aimons, soit trouvé fort aimable ?
+
+Quoi ! jaloux de ces choses-là ?
+
+Certes, voulez-vous que je dise ? Vous prenez un mauvais parti ; et la possession d'un cœur est fort mal assurée, lorsqu'on prétend le retenir par force. Pour moi, je vous l'avoue, si j'étais Galant d'une femme qui fût au pouvoir de quelqu'un, je mettrais toute mon étude à rendre ce quelqu'un jaloux, et l'obliger à veiller, nuit, et jour, celle que je voudrais gagner. C'est un admirable moyen d'avancer ses affaires : et l'on ne tarde guères, à profiter du chagrin, et de la colère que donne à l'esprit d'une Femme, la contrainte, et la servitude.
+
+Je ne vous dis rien là-dessus. Mais les Femmes, enfin, n'aiment pas qu'on les gêne ; et c'est beaucoup risquer, que de leur montrer des soupçons, et de les tenir renfermées.
+
+Quelle obligation vous ai-je, si vous changez mon Esclavage en un autre beaucoup plus rude ? Si vous ne me laissez jouir d'aucune liberté, et me fatiguez, comme on voit, d'une garde continuelle ?
+
+Si c'est votre façon d'aimer, je vous prie de me haïr.
+
+C'est une chose à voir, et cela nous divertira. Faites-les-nous venir.
+
+Je reçois cet honneur avec beaucoup de joie ; l'aventure me surprend fort ; et, pour dire le vrai, je ne m'attendais pas d'avoir un Peintre si illustre.
+
+L'Original est peu de chose, mais l'adresse du Peintre en saura couvrir les défauts.
+
+Si votre Pinceau flatte autant que votre Langue, vous allez me faire un Portrait qui ne me ressemblera pas.
+
+Le Ciel, quoi que vous en disiez, ne...
+
+Où voulez-vous que je me place ?
+
+Suis-je bien ainsi ?
+
+Ce sont, ici, des choses toutes neuves pour moi ; et c'est à Monsieur à me mettre de la façon qu'il veut.
+
+Je ne suis pas comme ces Femmes qui veulent, en se faisant peindre, des Portraits qui ne sont point elles, et ne sont point satisfaites du peintre, s'il ne les fait, toujours, plus belles que le jour. Il faudrait, pour les contenter, ne faire qu'un Portrait pour toutes ; car, toutes, demandent les mêmes choses ; un teint tout de Lis et de Roses, un nez bien fait, une petite bouche, et de grands yeux vifs, bien fendus ; et, surtout, le visage pas plus gros que le poing, l'eussent-elles d'un pied de large. Pour moi, je vous demande un Portrait qui soit moi, et qui n'oblige point à demander qui c'est.
+
+Tout cela sent la Nation ; et, toujours, Messieurs les Français ont un fonds de Galanterie qui se répand partout.
+
+Je ne sais si vous dites vrai, mais vous persuadez.
+
+Je ne crains que d'en trop avoir.
+
+Je ne puis, encore, vous le dire.
+
+À me résoudre.
+
+Hé bien, allez, oui, j'y consens.
+
+Lorsqu'on est, une fois, résolu sur la chose, s'arrête-t-on sur le temps ?
+
+Je conserverai, pour cela, toute la gaieté qu'il faut.
+
+Qu'en dites-vous ? Ce Gentilhomme me paraît le plus civil du Monde ; et l'on doit demeurer d'accord, que les Français ont quelque chose, en eux, de poli, de galant, que n'ont point les autres Nations.
+
+C'est qu'ils savent qu'on plaît aux Dames par ces choses.
+
+Ce qu'ils en font, n'est que par jeu.
+
+
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hali
+
+Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos. Mais voici des Flambeaux, et, sans doute, c'est lui.
+
+Et qui pourrait-ce être que moi ? À ces heures de nuit, hors vous, et moi, Monsieur, je ne crois pas que Personne s'avise de courir, maintenant, les Rues.
+
+Mais il est, en Amour, plusieurs façons de se parler ; et il me semble, à moi, que vos yeux, et les siens, depuis près de deux mois, se sont dit bien des choses.
+
+Il faut chercher quelque moyen de se parler d'autre manière.
+
+Oui.
+
+Les voici. Que chanteront-ils ?
+
+Il faut qu'ils chantent un Trio qu'ils me chantèrent l'autre jour.
+
+Ah ! Monsieur, c'est du beau Bécarre.
+
+Monsieur, je tiens pour le Bécarre : Vous savez que je m'y connais. Le Bécarre me charme : Hors du Bécarre, point de salut en Harmonie. Écoutez un peu ce Trio.
+
+Je vois bien que vous êtes pour le Bémol : mais il y a moyen de nous contenter l'un l'autre. Il faut qu'ils vous chantent une certaine Scène d'une petite Comédie que je leur ai vu essayer. Ce sont deux Bergers amoureux, tous remplis de langueur, qui sur Bémol, viennent, séparément, faire leurs Plaintes dans un Bois ; puis se découvrent l'un à l'autre, la cruauté de leurs Maîtresses ; et, là-dessus, vient un Berger joyeux, avec un Bécarre admirable, qui se moque de leur faiblesse.
+
+Voici, tout juste, un Lieu propre à servir de Scène ; et voilà deux Flambeaux pour éclairer la Comédie.
+
+Monsieur, je viens d'ouïr quelque bruit au-dedans.
+
+Quoi ?
+
+Non.
+
+Je voudrais, de bon cœur, que le diable l'eût emporté, pour la fatigue qu'il nous donne ; le Fâcheux, le Bourreau qu'il est. Ah ! si nous le tenions ici, que je prendrais de joie à venger sur son dos, tous les pas inutiles que sa jalousie nous fait faire !
+
+Monsieur, je ne sais pas ce que cela veut dire. Mais la Porte est ouverte ; et, si vous le voulez, j'entrerai doucement, pour découvrir d'où cela vient.
+
+Ami.
+
+Monsieur.
+
+Ces Gens sont-ils sortis ?
+
+S'ils viennent, ils seront frottés.
+
+Non, le courroux du Point d'Honneur me prend ; Il ne sera pas dit qu'on triomphe de mon adresse ; ma qualité de Fourbe s'indigne de tous ces obstacles ; et je prétends faire éclater les talents que j'ai eus du Ciel.
+
+Laissez-moi faire seulement ; j'en essayerai tant de toutes les manières, que quelque chose, enfin, nous pourra réussir. Allons, le jour paraît ; je vais chercher mes Gens, et venir attendre, en ce Lieu, que notre Jaloux sorte.
+
+Signor (avec la permission de la Signore), je vous dirai (avec la permission de la Signore) que je viens vous trouver (avec la permission de la Signore) pour vous prier (avec la permission de la Signore) de vouloir bien (avec la permission de la Signore)...
+
+Signor, je suis un Virtuose.
+
+Ce n'est pas ce que je demande. Mais comme je me mêle un peu de Musique, et de Danse, j'ai instruit quelques Esclaves qui voudraient bien trouver un Maître qui se plût à ces choses ; et comme je sais que vous êtes une Personne considérable, je voudrais vous prier de les voir, et de les entendre, pour les acheter, s'ils vous plaisent, ou pour leur enseigner quelqu'un de vos Amis qui voulût s'en accommoder.
+
+Chala bala... Voici une Chanson nouvelle, qui est du temps. Écoutez bien. Chala bala.
+
 
 D'un Cœur ardent en tous lieux,
 Un Amant suit une Belle ;
@@ -412,462 +437,102 @@ Far boler caldara,
 Parlara, parlara,
 Ti voler comprara.
 
--*who_dom_pedre
-
-Savez-vous, mes Drôles,
-Que cette Chanson
-Sent, pour vos épaules,
-Les coups de bâton ?
-Chiribirida ouch alla,
-Mi ti non comprara,
-Ma ti bastonara,
-Si, si, non andara,
-Andara, andara,
-O ti bastonara.
-Oh ! oh ! quels Égrillards !
-Allons, rentrons ici, j'ai changé de pensée, et puis le temps se couvre un peu.
-Ah !
-Fourbe, que je vous y trouve.
-
--*who_hali
 Hé bien oui, mon Maître l'adore ; il n'a point de plus grand désir que de lui montrer son amour ; et si elle y consent, il la prendra pour Femme.
 
--*who_dom_pedre
-Oui, oui, je la lui garde.
-
--*who_hali
 Nous l'aurons, malgré vous.
 
--*who_dom_pedre
-Comment, Coquin...
-
--*who_hali
 Nous l'aurons, dis-je, en dépit de vos dents.
 
--*who_dom_pedre
-Si je prends...
-
--*who_hali
 Vous avez beau faire la garde, j'en ai juré, elle sera à nous.
 
--*who_dom_pedre
-Laisse-moi faire, je t'attraperai sans courir.
-
--*who_hali
 C'est nous qui vous attraperons ; elle sera notre Femme, la chose est résolue ; il faut que j'y périsse, ou que j'en vienne à bout.
 
-**** *book_ *id_I09 *act_ *date_1667 *creator_moliere
-
--*who_hali
 Monsieur, j'ai, déjà, fait quelque petite tentative, mais je...
 
--*who_adraste
-Ne te mets point en peine, j'ai trouvé, par hasard, tout ce que je voulais : et je vais jouir du bonheur de voir, chez elle, cette Belle.
-Je me suis rencontré chez le Peintre Damon, qui m'a dit, qu'aujourd'hui, il venait faire le Portrait de cette adorable Personne : et comme il est, depuis longtemps, de mes plus intimes Amis, il a voulu servir mes feux, et m'envoie à sa place, avec un petit mot de Lettre, pour me faire accepter.
-Tu sais que, de tout temps, je me suis plu à la Peinture, et que, parfois, je manie le Pinceau, contre la coutume de France, qui ne veut pas qu'un Gentilhomme sache rien faire : ainsi, j'aurai la liberté de voir cette Belle à mon aise.
-Mais je ne doute pas que mon Jaloux fâcheux ne soit, toujours, présent, et n'empêche tous les propos que nous pourrions avoir ensemble : et, pour te dire vrai, j'ai, par le moyen d'une jeune Esclave, un Stratagème, pour tirer cette belle Grecque des mains de son Jaloux, si je puis obtenir d'elle, qu'elle y consente.
+Laissez-moi faire, je veux vous faire un peu de jour à la pouvoir entretenir. Il ne sera pas dit que je ne serve de rien dans cette Affaire-là. Quand allez-vous ?
 
--*who_hali
-Laissez-moi faire, je veux vous faire un peu de jour à la pouvoir entretenir.
-Il ne sera pas dit que je ne serve de rien dans cette Affaire-là.
-Quand allez-vous ?
-
--*who_adraste
-Tout de ce pas, et j'ai, déjà, préparé toutes choses.
-
--*who_hali
 Je vais, de mon côté, me préparer aussi.
 
--*who_adraste
-Je ne veux point perdre de temps.
-Holà.
-Il me tarde que je ne goûte le plaisir de la voir.
+J'entre, ici, librement ; mais, entre Cavaliers, telle liberté est permise. Seigneur, suis-je connu de vous ?
 
-**** *book_ *id_I10 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Que cherchez-vous, Cavalier, dans cette maison ?
-
--*who_adraste
-J'y cherche le seigneur Don Pèdre.
-
--*who_dom_pedre
-Vous l'avez devant vous.
-
--*who_adraste
-Il prendra, s'il lui plaît, la peine de lire cette Lettre.
-
--*who_dom_pedre
-Je vous envoie, au lieu de moi, pour le Portrait que vous savez, ce Gentilhomme Français, qui, comme curieux d'obliger les honnêtes Gens, a bien voulu prendre ce soin, sur la proposition que je lui en ai faite.
-Il est, sans contredit, le premier Homme du Monde pour ces sortes d'Ouvrages ; et j'ai cru que je ne pouvais rendre un service plus agréable, que de vous l'envoyer, dans le dessein que vous avez d'avoir un Portrait achevé, de la Personne que vous aimez.
-Gardez-vous bien, surtout, de lui parler d'aucune récompense : car c'est un Homme qui s'en offenserait, et qui ne fait les choses que pour la gloire, et pour la réputation.
-
--*who_dom_pedre
-Seigneur Français, c'est une grande grâce que vous me voulez faire ; et je vous suis fort obligé.
-
--*who_adraste
-Toute mon ambition est de rendre service aux Gens de nom, et de mérite.
-
--*who_dom_pedre
-Je vais faire venir la Personne dont il s'agit.
-
-**** *book_ *id_I11 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Voici un Gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre.
-Holà, Seigneur Français, cette façon de saluer n'est point d'usage en ce Pays.
-
--*who_adraste
-C'est la manière de France.
-
--*who_dom_pedre
-La manière de France est bonne pour vos Femmes ; mais pour les nôtres, elle est, un peu, trop familière.
-
--*who_isidore
-Je reçois cet honneur avec beaucoup de joie ; l'aventure me surprend fort ; et, pour dire le vrai, je ne m'attendais pas d'avoir un Peintre si illustre.
-
--*who_adraste
-Il n'y a Personne, sans doute, qui ne tînt à beaucoup de gloire, de toucher à un tel Ouvrage.
-Je n'ai pas grande habileté ; mais le Sujet, ici, ne fournit que trop de lui-même, et il y a moyen de faire quelque chose de beau sur un Original fait comme celui-là.
-
--*who_isidore
-L'Original est peu de chose, mais l'adresse du Peintre en saura couvrir les défauts.
-
--*who_adraste
-Le Peintre n'y en voit aucun ; et tout ce qu'il souhaite, est d'en pouvoir représenter les grâces aux yeux de tout le Monde, aussi grandes qu'il les peut voir.
-
--*who_isidore
-Si votre Pinceau flatte autant que votre Langue, vous allez me faire un Portrait qui ne me ressemblera pas.
-
--*who_adraste
-Le Ciel, qui fit l'Original, nous ôte le moyen d'en faire un Portrait qui puisse flatter.
-
--*who_isidore
-Le Ciel, quoi que vous en disiez, ne...
-
--*who_dom_pedre
-Finissons cela, de grâce, laissons les compliments, et songeons au Portrait.
-
--*who_adraste
-Allons, apportez tout.
-
--*who_isidore
-Où voulez-vous que je me place ?
-
--*who_adraste
-Ici.
-Voici le Lieu le plus avantageux, et qui reçoit le mieux les vues favorables de la Lumière que nous cherchons.
-
--*who_isidore
-Suis-je bien ainsi ?
-
--*who_adraste
-Oui.
-Levez-vous un peu, s'il vous plaît ; un peu plus de ce côté-là ; le Corps tourné ainsi ; la tête un peu levée, afin que la beauté du cou paraisse.
-Ceci un peu plus découvert.
-Bon.
-Là, un peu davantage ; encore tant soit peu.
-
--*who_dom_pedre
-Il y a bien de la peine à vous mettre ; ne sauriez-vous vous tenir comme il faut ?
-
--*who_isidore
-Ce sont, ici, des choses toutes neuves pour moi ; et c'est à Monsieur à me mettre de la façon qu'il veut.
-
--*who_adraste
-Voilà qui va le mieux du Monde, et vous vous tenez à merveilles.
-Comme cela, s'il vous plaît.
-Le tout dépend des attitudes qu'on donne aux Personnes qu'on peint.
-
--*who_dom_pedre
-Fort bien.
-
--*who_adraste
-Un peu plus de ce côté ; vos yeux, toujours, tournés vers moi, je vous en prie ; vos regards attachés aux miens.
-
--*who_isidore
-Je ne suis pas comme ces Femmes qui veulent, en se faisant peindre, des Portraits qui ne sont point elles, et ne sont point satisfaites du peintre, s'il ne les fait, toujours, plus belles que le jour.
-Il faudrait, pour les contenter, ne faire qu'un Portrait pour toutes ; car, toutes, demandent les mêmes choses ; un teint tout de Lis et de Roses, un nez bien fait, une petite bouche, et de grands yeux vifs, bien fendus ; et, surtout, le visage pas plus gros que le poing, l'eussent-elles d'un pied de large.
-Pour moi, je vous demande un Portrait qui soit moi, et qui n'oblige point à demander qui c'est.
-
--*who_adraste
-Il serait malaisé qu'on demandât cela du vôtre ; et vous avez des traits à qui fort peu d'autres ressemblent.
-Qu'ils ont de douceurs, et de charmes ! et qu'on court de risque à les peindre !
-
--*who_dom_pedre
-Le nez me semble, un peu trop gros.
-
--*who_adraste
-J'ai lu, je ne sais où, qu'Apelle peignit, autrefois, une Maîtresse d'Alexandre ; et qu'il en devint, la peignant, si éperdument amoureux, qu'il fut près d'en perdre la vie : de sorte qu'Alexandre, par générosité, lui céda l'Objet de ses vœux.
-Je pourrais faire, ici, ce qu'Apelle fit autrefois ; mais vous ne feriez pas, peut-être, ce que fit Alexandre.
-
--*who_isidore
-Tout cela sent la Nation ; et, toujours, Messieurs les Français ont un fonds de Galanterie qui se répand partout.
-
--*who_adraste
-On ne se trompe guère à ces sortes de choses ; et vous avez l'Esprit trop éclairé, pour ne pas voir de quelle source partent les choses qu'on vous dit.
-Oui, quand Alexandre serait ici, et que ce serait votre Amant, je ne pourrais m'empêcher de vous dire, que je n'ai rien vu de si beau que ce que je vois maintenant, et que...
-
--*who_dom_pedre
-Seigneur Français, vous ne devriez pas, ce me semble, parler ; cela vous détourne de votre Ouvrage.
-
--*who_adraste
-Ah ! point du tout, j'ai, toujours, de coutume de parler quand je peins ; et il est besoin, dans ces choses, d'un peu de conversation, pour réveiller l'Esprit, et tenir les Visages dans la gaieté nécessaire aux Personnes que l'on veut peindre.
-
-**** *book_ *id_I12 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Que veut cet Homme-là ?
-Et qui laisse monter les Gens, sans nous en venir avertir ?
-
--*who_hali
-J'entre, ici, librement ; mais, entre Cavaliers, telle liberté est permise.
-Seigneur, suis-je connu de vous ?
-
--*who_dom_pedre
-Non, Seigneur.
-
--*who_hali
 Je suis Don Gilles d'Avalos ; et l'histoire d'Espagne vous doit avoir instruit de mon mérite.
 
--*who_dom_pedre
-Souhaitez-vous quelque chose de moi ?
-
--*who_hali
 Oui, un conseil sur un Fait d'honneur : Je sais qu'en ces matières il est malaisé de trouver un Cavalier plus consommé que vous ; mais je vous demande pour grâce, que nous nous tirions à l'écart.
 
--*who_dom_pedre
-Nous voilà assez loin.
+Seigneur, j'ai reçu un Soufflet : Vous savez ce qu'est un soufflet, lorsqu'il se donne, à main ouverte, sur le beau milieu de la joue. J'ai ce Soufflet fort sur le cœur ; et je suis dans l'incertitude, si pour me venger de l'affront, je dois me battre avec mon Homme ; ou bien, le faire assassiner.
 
--*who_adraste
-Elle a les yeux bleus.
-
--*who_hali
-Seigneur, j'ai reçu un Soufflet : Vous savez ce qu'est un soufflet, lorsqu'il se donne, à main ouverte, sur le beau milieu de la joue.
-J'ai ce Soufflet fort sur le cœur ; et je suis dans l'incertitude, si pour me venger de l'affront, je dois me battre avec mon Homme ; ou bien, le faire assassiner.
-
--*who_dom_pedre
-Assassiner, c'est le plus court chemin.
-Quel est votre ennemi ?
-
--*who_hali
 Parlons bas, s'il vous plaît.
 
--*who_adraste
-Oui, charmante Isidore, mes regards vous le disent depuis plus de deux mois, et vous les avez entendus : Je vous aime plus que tout ce que l'on peut aimer, et je n'ai point d'autre pensée, d'autre but, d'autre passion, que d'être à vous toute ma vie.
-
--*who_isidore
-Je ne sais si vous dites vrai, mais vous persuadez.
-
--*who_adraste
-Mais vous persuadé-je, jusqu'à vous inspirer quelque peu de bonté pour moi ?
-
--*who_isidore
-Je ne crains que d'en trop avoir.
-
--*who_adraste
-En aurez-vous assez pour consentir, belle Isidore, au dessein que je vous ai dit ?
-
--*who_isidore
-Je ne puis, encore, vous le dire.
-
--*who_adraste
-Qu'attendez-vous pour cela ?
-
--*who_isidore
-À me résoudre.
-
--*who_adraste
-Ah ! quand on aime bien, on se résout bientôt.
-
--*who_isidore
-Hé bien, allez, oui, j'y consens.
-
--*who_adraste
-Mais, consentez-vous, dites-moi, que ce soit dès ce moment même ?
-
--*who_isidore
-Lorsqu'on est, une fois, résolu sur la chose, s'arrête-t-on sur le temps ?
-
--*who_dom_pedre
-Voilà mon sentiment, et je vous baise les mains.
-
--*who_hali
 Seigneur, quand vous aurez reçu quelque Soufflet, je suis Homme aussi de conseil, et je pourrai vous rendre la pareille.
 
--*who_dom_pedre
-Je vous laisse aller, sans vous reconduire : mais entre Cavaliers, cette liberté est permise.
 
--*who_adraste
-Non, il n'est rien qui puisse effacer de mon cœur les tendres témoignages...
-Je regardais ce petit trou qu'elle a au côté du menton : et je croyais, d'abord, que ce fût une tache.
-Mais c'est assez pour aujourd'hui, nous finirons une autre fois.
-Non, ne regardez rien encore ; faites serrer cela, je vous prie.
-Et vous, je vous conjure de ne vous relâcher point : et de garder un Esprit gai, pour le dessein que j'ai d'achever notre Ouvrage.
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenateur
 
--*who_isidore
-Je conserverai, pour cela, toute la gaieté qu'il faut.
+Serviteur, Seigneur Don Pèdre. Que vous venez à propos !
 
-**** *book_ *id_I13 *act_ *date_1667 *creator_moliere
-
--*who_isidore
-Qu'en dites-vous ?
-Ce Gentilhomme me paraît le plus civil du Monde ; et l'on doit demeurer d'accord, que les Français ont quelque chose, en eux, de poli, de galant, que n'ont point les autres Nations.
-
--*who_dom_pedre
-Oui ; mais ils ont cela de mauvais, qu'ils s'émancipent un peu trop, et s'attachent, en étourdis, à conter des fleurettes à tout ce qu'ils rencontrent.
-
--*who_isidore
-C'est qu'ils savent qu'on plaît aux Dames par ces choses.
-
--*who_dom_pedre
-Oui, mais, s'ils plaisent aux Dames, ils déplaisent fort aux Messieurs ; et l'on n'est point bien aise de voir sur sa moustache, cajoler, hardiment, sa Femme, ou sa Maîtresse.
-
--*who_isidore
-Ce qu'ils en font, n'est que par jeu.
-
-**** *book_ *id_I14 *act_ *date_1667 *creator_moliere
-
--*who_climene
-Ah !
-Seigneur Cavalier, sauvez-moi, s'il vous plaît, des mains d'un Mari furieux dont je suis poursuivie.
-Sa jalousie est incroyable, et passe dans ses mouvements tout ce qu'on peut imaginer.
-Il va jusques à vouloir que je sois, toujours, voilée ; et pour m'avoir trouvée le visage un peu découvert, il a mis l'épée à la main, et m'a réduite à me jeter chez vous, pour vous demander votre appui contre son injustice.
-Mais je le vois paraître.
-De grâce, Seigneur Cavalier, sauvez-moi de sa fureur.
-
--*who_dom_pedre
-Entrez là-dedans, avec elle, et n'appréhendez rien.
-
-**** *book_ *id_I15 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Hé quoi !
-Seigneur, c'est vous ?
-Tant de jalousie pour un Français !
-Je pensais qu'il n'y eût que nous qui en fussions capables.
-
--*who_adraste
-Les Français excellent toujours, dans toutes les choses qu'ils font ; et quand nous nous mêlons d'être jaloux, nous le sommes vingt fois plus qu'un Sicilien.
-L'Infâme, croit avoir trouvé, chez vous, un assuré refuge : mais vous êtes trop raisonnable, pour blâmer mon ressentiment.
-Laissez-moi, je vous prie, la traiter comme elle mérite.
-
--*who_dom_pedre
-Ah ! de grâce, arrêtez ; l'offense est trop petite, pour un courroux si grand.
-
--*who_adraste
-La grandeur d'une telle offense, n'est pas dans l'importance des choses que l'on fait.
-Elle est à transgresser les ordres qu'on nous donne ; et sur de pareilles matières, ce qui n'est qu'une bagatelle, devient fort criminel, lorsqu'il est défendu.
-
--*who_dom_pedre
-De la façon qu'elle a parlé, tout ce qu'elle en a fait a été sans dessein ; et je vous prie, enfin, de vous remettre bien ensemble.
-
--*who_adraste
-Hé quoi ! vous prenez son parti, vous qui êtes si délicat sur ces sortes de choses !
-
--*who_dom_pedre
-Oui, je prends son parti ; et si vous voulez m'obliger, vous oublierez votre colère, et vous vous réconcilierez tous deux.
-C'est une grâce que je vous demande : et je la recevrai comme un essai de l'amitié que je veux qui soit entre nous.
-
--*who_adraste
-Il ne m'est pas permis, à ces conditions, de vous rien refuser ; je ferai ce que vous voudrez.
-
-**** *book_ *id_I16 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Holà, venez ; Vous n'avez qu'à me suivre, et j'ai fait votre paix.
-Vous ne pouviez, jamais, mieux tomber que chez moi.
-
--*who_climene
-Je vous suis obligée plus qu'on ne saurait croire : mais je m'en vais prendre mon Voile ; je n'ai garde, sans lui, de paraître à ses yeux.
-
--*who_dom_pedre
-La voici qui s'en va venir ; et son âme, je vous assure, a paru toute réjouie, lorsque je lui ai dit que j'avais raccommodé tout.
-
-**** *book_ *id_I17 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Puisque vous m'avez bien voulu donner votre ressentiment, trouvez bon qu'en ce lieu je vous fasse toucher dans la main l'un de l'autre, et que tous deux je vous conjure de vivre, pour l'amour de moi, dans une parfaite union.
-
--*who_adraste
-Oui, je vous le promets, que, pour l'amour de vous, je m'en vais, avec elle, vivre le mieux du monde.
-
--*who_dom_pedre
-Vous m'obligez sensiblement, et j'en garderai la mémoire.
-
--*who_adraste
-Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en vais la traiter du mieux qu'il me sera possible.
-
--*who_dom_pedre
-C'est trop de grâce que vous me faites : Il est bon de pacifier et d'adoucir, toujours, les choses.
-Holà, Isidore, venez.
-
-**** *book_ *id_I18 *act_ *date_1667 *creator_moliere
-
--*who_dom_pedre
-Comment ! que veut dire cela ?
-
--*who_climene
-Ce que cela veut dire ?
-Qu'un Jaloux est un Monstre haï de tout le Monde ; et qu'il n'y a Personne qui ne soit ravi de lui nuire, n'y eût-il point d'autre intérêt : Que toutes les Serrures et les Verrous du Monde, ne retiennent point les Personnes ; et que c'est le cœur qu'il faut arrêter par la douceur et par la complaisance : Qu'Isidore est entre les mains du Cavalier qu'elle aime, et que vous êtes pris pour Dupe.
-
--*who_dom_pedre
-Don Pèdre souffrira cette injure mortelle !
-Non, non, j'ai trop de cœur, et je vais demander l'appui de la justice, pour pousser le Perfide à bout.
-C'est ici le Logis d'un Sénateur.
-Holà ?
-
-**** *book_ *id_I19 *act_ *date_1667 *creator_moliere
-
--*who_le_senateur
-Serviteur, Seigneur Don Pèdre.
-Que vous venez à propos !
-
--*who_dom_pedre
-Je viens me plaindre à vous d'un affront qu'on m'a fait.
-
--*who_le_senateur
 J'ai fait une Mascarade la plus belle du Monde.
 
--*who_dom_pedre
-Un traître de Français m'a joué une Pièce.
-
--*who_le_senateur
 Vous n'avez, dans votre vie, jamais rien vu de si beau.
 
--*who_dom_pedre
-Il m'a enlevé une Fille que j'avais affranchie.
-
--*who_le_senateur
 Ce sont Gens vêtus en Maures, qui dansent admirablement.
 
--*who_dom_pedre
-Vous voyez si c'est une injure qui se doive souffrir.
-
--*who_le_senateur
 Des Habits merveilleux, et qui sont faits exprès.
 
--*who_dom_pedre
-Je vous demande l'appui de la Justice contre cette action.
-
--*who_le_senateur
 Je veux que vous voyiez cela ; on la va répéter pour en donner le divertissement au Peuple.
 
--*who_dom_pedre
-Comment ! de quoi parlez-vous là ?
-
--*who_le_senateur
 Je parle de ma Mascarade.
 
--*who_dom_pedre
-Je vous parle de mon Affaire.
+Je ne veux point, aujourd'hui, d'autres affaires que de plaisir. Allons, Messieurs, venez ; voyons si cela ira bien.
 
--*who_le_senateur
-Je ne veux point, aujourd'hui, d'autres affaires que de plaisir.
-Allons, Messieurs, venez ; voyons si cela ira bien.
-
--*who_dom_pedre
-La peste soit du Fou, avec sa Mascarade.
-
--*who_le_senateur
 Diantre soit le Fâcheux, avec son Affaire.
+
+
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
+
+
+Si du triste récit de mon inquiétude,
+Je trouble le repos de votre Solitude,
+Rochers, ne soyez point fâchés ;
+Quand vous saurez l'excès de mes peines secrètes,
+Tout rochers que vous êtes,
+Vous en serez touchés.
+
+
+Les Oiseaux réjouis, dès que le jour s'avance,
+Recommencent leurs chants dans ces vastes Forêts ;
+Et moi j'y recommence
+Mes soupirs languissants, et mes tristes regrets.
+Ah ! mon cher Philène.
+
+Ah ! mon cher Tirsis.
+
+Que je sens de peine !
+
+Que j'ai de soucis !
+
+Toujours sourde à mes vœux est l'ingrate Climène.
+
+Cloris n'a point, pour moi, de regards adoucis.
+
+
+Ô Loi trop inhumaine !
+Amour, si tu ne peux les contraindre d'aimer,
+Pourquoi leur laisses-tu le pouvoir de charmer ?
+
+
+Pauvres amants, quelle erreur
+D'adorer des inhumaines ?
+Jamais les Âmes bien saines
+Ne se payent de rigueur ;
+Et les Faveurs sont les chaînes
+Qui doivent lier un Cœur.
+
+On voit cent Belles ici,
+Auprès de qui je m'empresse ;
+À leur vouer ma tendresse,
+Je mets mon plus doux souci ;
+Mais, lorsque l'on est Tigresse,
+Ma foi, je suis Tigre aussi.
+
+Heureux, hélas ! qui peut aimer ainsi.
+

@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
 
--*who_lecapitan
 Ce siècle est si fertile en animaux connus,
 On voit tant de coquettes, on voit tant de cocus,
 Qu'il faut qu'autant hymen je me précautionne,
@@ -22,42 +21,18 @@ Que quelqu'autre aura fait au beau clair de lune.
 Je veux pour n'être point en danger de cela,
 Ma précautionner ; mais voyons qui va là.
 
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_lecapitan
 Docteur vous me voyez dans une grave peine,
 Je veux me marier, et mon âme incertaine,
 Craint fort la cocuage.
 
--*who_ledocteur
-      Et bien cerveau léger,
-Ne vas pas sur la mer si tu crains le danger.
-
--*who_lecapitan
 Ainsi vous voyez bien...
 
--*who_ledocteur
-      Oui, tu ferais naufrage,
-Si tu cinglais dessus la mer du mariage.
-
--*who_lecapitan
 C'est pourquoi je m'en vais faire en homme prudent,
 Afin de prévenir ce fâcheux accident.
 
--*who_ledocteur
-Accident est ce qui peut être ou n'être pas en son sujet, sans aucunement le détruire ni corrompre, ni par sa présence, ni par son absence, il se pourrait bien dire en français, advenant ; car c'est ce qui advient aux substances sans être de leur essence, et est de deux sortes, l'un séparable de son sujet, comme la crainte, le froid et le chaud d'un corps, la blancheur d'une muraille ; l'autre séparable, comme la blancheur du cygne et de la neige, la noirceur d'un corbeau ou d'un éthiopien, la cicatrice d'une plaie fermée.
-Il y a d'une autre sorte d'accidents, comme qui vous donnerait du bout du gros orteil dans l'orifice du ponant et vous fracasserait l'or sacron, une décharge sur les omoplates, une autre sur les clavicules, une apostrophe sur la moitié de la face, ce sont sortes d'accidents.
-
--*who_lecapitan
 Enfin je suis ravi, Docteur, de l'abondance
 De votre bel esprit et de votre science.
 
--*who_ledocteur
-La science est, ou universelle, ou singulière ; l'une est appelée actuelle, l'autre habituelle, l'actuelle est celle qui est acquise par une seule démonstration habituelle ; est celle qui est composée d'une grand nombre de sciences actuelles, tendantes à même sujet ; ainsi qu'une habituelle résulte de plusieurs et fréquentes actions ?
-La science étant une certaine et infaillible connaissance, elle ne peut être singulières ; lesquelles coulant et roulant toujours par une vicissitude incertaine et immuable, et en leur être et en leurs accidents, ne peuvent fonder aucune science assurée, pour l'entière et parfaite intelligence, il faut savoir que la science est la connaissance de quelque chose par sa cause, non par les causes, d'autant qu'il y peut échoir plusieurs causes d'un même effet, comme l'efficiente, la matière, la forme, et la fin.
-Il y a la science naturelle, par laquelle il est aisé de voir et de connaître, que je suis un homme, et que vous êtes un âne, il y a la négromancie, par laquelle je devine que vous serez du naturelle des chevreaux, que les cornes vous croîtrons de bonne heure.
-
--*who_lecapitan
 Quand je serai mari, pour amortir sa flamme,
 Qui se hasardera de cajoler ma femme ;
 Depuis Hector, Achille, et le grand Annibal,
@@ -69,19 +44,210 @@ Pour moi, je n'entends rien à tous vos documents,
 Aux coquets trop fringants je donne des entraves,
 Je suis un duelliste, un avaleur de braves.
 
--*who_ledocteur
-Or d'autant que pour bien distinguer les choses, t les bine rapporter chacune à sa catégorie et prédicamMent, il importe de connaître si leurs noms sont anonymes, synonymes ou paronymes, suivant la méthode d'Aristote, même avant d'entrer aux catégories, nous interpréterons ces trois mots là, et jetterons quelque règle fondamentale, concernant l'intelligence des catégories de synonymes, les uns sont homonymants, les autre ssont homonymés, l'homonyme, homonymant, les autres homoniés, l'homonyme, homoninant est le mot ou le mot commun, égalemet à plusieurs choses, comme chien, ca il convient, non seulement à un animal terrestre et domestique, mais aussi à un poisson et à un astre, les synonymes synonymants, sont les mêmes choses signifiées par cette) homonymie, homoninant, par exemple, souhaiter, convoiter, désirer, vouloir, sont synonymes synonymés, enfin homonymes homonymés, homoninants, synonymes, synonymés, synonymants, paronymes, paronymés, paronymants, veulent dire faire entendre, faire connaître, interpréter, concevoir, exprimer plusieurs choses.
-
--*who_lecapitan
 Mais après tout cela, dis, que définis-tu ?
 
--*who_ledocteur
-Enfin je définis que tu seras cocu.
-
--*who_lecapitan
 Les dames de ce temps sont donc d'étranges dames.
 
--*who_ledocteur
+Ce discours ambigu ne me contente guère.
+
+Toutefois en usant de ma précaution...
+
+C'en est trop, Docteur d'Arcadie,
+Ton discours me met en furie,
+Et dans la Mésopotamie,
+Ou bien dans l'Éthiopie,
+Dans le Japon ou dans l'Indie,
+De peur que ta langue hardie,
+Par moi ne soit anéantie,
+Va-t-en dans l'Anadalousie,
+Ou bien du côté d'Arabie,
+Et, pour mieux dire, en ta partie,
+Que l'on appelle la Betinie,
+Et bien, sot Docteur, je te prie,
+Va-t'en au Diable en diablerie.
+
+Docteur, soyons amis.
+
+Ma maîtresse paraît, regarde que d'éclat
+Depuis fort peu de temps j'ai quitté ma maîtresse
+À cet objet tout seul j'adresse mes caresses,
+Parce que j'ai connu sa pudeur et sa foi,
+Et qu'elle m'aime enfin, et n'aimera que vous.
+
+      Beauté, l'honneur des dames
+Quand prendrez vous le temps de soulager mes flammes.
+
+Elle est toute modeste, est est fort solitaire.
+
+Elle est allée enfin prier avec chaleur
+Les Dieux de lui vouloir conserver son honneur :
+Ah ! Que je serai bine avecque cette belle !
+Heureux, heureux mari.
+
+      Que veut-elle ?
+Je n'oserais entrer, n'importe il faut mourir.
+
+      Docteur, allons la secourir
+Hélas ! Je la croyais aussi chaste que belle.
+
+Que je suis malheureux !
+
+Cependant prenons soin de ce petit poupon,
+Il nous le faut dedans cette maison,
+Sans ma précaution n'étais-je pas frelore,
+Ah ! que je me veux bien précautionner encore ;
+Docteur, cet autre objet qui vient au petit pas,
+Ma voudrait engager avecque ses appas,
+Elle use pour cela de haute Rhétorique ;
+Mais elle est encore trop fine pour a boutique.
+
+J'y suis et j'y serai tant que j'aurai des yeux,
+Et tant que je verrai des fourbes sous les cieux ;
+Docteur si celle-ci pouvait être capable,
+De ne me point fourber, que je la trouve aimable !
+Tâcher de la connaître.
+
+Vous êtes si savant avec votre doctrine,
+Vous pouvez bien savoir à quoi la belle incline.
+
+Je vous aimerais bien, mais votre esprit coquet,
+Me fait craindre de vous quelque fatal effet ;
+Car vous en savez trop, oui, vous êtes trop fine,
+Et ce n'est plus pour vous à présent que j'incline ;
+Je veux me marier, mais je veux épouser
+Une innocente, afin de la mieux maîtriser.
+
+      De qui donc ?
+
+Dites, si j'épousais de ces beautés bigottes,
+Qui ruminent toujours qui sans cesse marmottent,
+Elle serait honnête, elle n'aurait pour but,
+Que le soin de songer à faire son salut.
+
+Ainsi je ne sais plus de quel ôté me rendre.
+
+      Et quoi donc ?
+
+      Ô ! discours superflus,
+J'aimerais encor mieux être au rang des cocus,
+J'en ai grand peur pourtant, et si je me marie,
+Je n'en échapperai nullement sur ma vie.
+
+La voici la beauté qui me doit rendre heureux ;
+Docteur elle n'a point ni d'esprit ni de ruse,
+Elle est comme il me faut, c'est une bonne buse ;
+Je vous laisse Philis. Voulez-vous m'épouser.
+
+      Cette pauvre novice,
+Sans esprit ne peut pas inventer de malice :
+Allons nous marier.
+
+Enfin, je suis mari, et mari d'importance,
+Avec ma femme enfin, je suis en assurance,
+Car elle ne sait pas ce que c'est de pécher ;
+Mais afin que pas un ne la puisse approcher,
+Tandis que je m'en vais à ma grange hors la ville,
+J'ai mis dessus son dos la cuirasse d'Achille,
+Et le divin armet de mon cousin Hector,
+Et puis dedans sa main la pertuisane encor ;
+Je lui donne un bon pli les dernières journées,
+Afin d'en profiter la reste des années ;
+Mais la voici qui vient, ainsi l'homme de coeur
+Prend soin de conserver sa gloire et son honneur.
+
+Je n'ai su demeurer longtemps à la campagne ;
+Et je reviens trouver ma gentille compagne,
+De sa simplicité je dois tout espérer.
+
+Si je savais quelqu'un qui se put figurer
+De cajoler ma femme et me déshonorer,
+Il serait hors d'état de faire des caresses ;
+Car je déchirerais son corps en mille pièces.
+
+Par la mort, je ferais...
+
+La prudence sied bine avec le courage.
+
+Je fais ce que je puis pour être furieux.
+
+      Rage, fureur, feu, haine.
+Tu mourras.
+
+      Non, monsieur, non, ce n'est pas à vous.
+
+Je le suis quand je veux, donnez moi patience,
+Je ne l'ai pas tué le traître en ce moment.
+Je retarde sa mort d'une heure seulement ;
+Mais venez la traîtresse, où sont vos armes.
+
+Ah ! Vous me disiez bien, qu'une sotte ferait
+Son pauvre homme cocu e l'en avertirait :
+Je vous enfermerai désormais, ignorante,
+Rentrez, rentrez ici, sotte, bête, innocente.
+
+
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_trapolin
+
+Et pour moi je sais bien de meilleures nouvelles.
+
+      Qu'on y voit de fort bons Cabarets,
+Où nous pourrions aller nous rendre le teint frais.
+
+Et moi je viens de voir...
+
+      L'hôtellerie.
+
+Que j'aimerais à voir une longue de veau.
+
+      Que j'aime une mignonne,
+Quand son ventre est rempli d'excellent vin de Beaune.
+
+Que je suis amoureux du repas et du vin !
+
+Et pour moi, quand je vois cette beauté divine,
+Qui charme et rit toujours, qu'on appelle cuisine ;
+Quand j'y vois un potage avec un gros chapon,
+Des poulets, des pigeons, avec un gros dindon,
+Un ragoût bien friand ; une table charmante,
+C'est où mon coeur s'engage à chercher une amante,
+C'est dans ce grand amas de charmes innocents,
+Que je me laisse aller au pouvoir de mes sens.
+
+Enfin, vive l'amour, Monsieur, pourvu qu'on dîne.
+
+Le mien est tout trouvé, ah que j'ai de dépit.
+
+Ah, je crois bien plutôt que c'est une diablesse :
+Ma foi j'en ai grand peur.
+
+      Allez-y vous.
+
+      Je ne veux pas.
+
+Mais il faut pourtant voir de près sa contenance.
+
+La Donne est susceptible, elle le fuit ma foi ;
+Voilà Pallas par terre, amour lui fait le loi.
+
+Adieu belle Pallas.
+
+
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+
+      Et bien cerveau léger,
+Ne vas pas sur la mer si tu crains le danger.
+
+      Oui, tu ferais naufrage,
+Si tu cinglais dessus la mer du mariage.
+
+Accident est ce qui peut être ou n'être pas en son sujet, sans aucunement le détruire ni corrompre, ni par sa présence, ni par son absence, il se pourrait bien dire en français, advenant ; car c'est ce qui advient aux substances sans être de leur essence, et est de deux sortes, l'un séparable de son sujet, comme la crainte, le froid et le chaud d'un corps, la blancheur d'une muraille ; l'autre séparable, comme la blancheur du cygne et de la neige, la noirceur d'un corbeau ou d'un éthiopien, la cicatrice d'une plaie fermée. Il y a d'une autre sorte d'accidents, comme qui vous donnerait du bout du gros orteil dans l'orifice du ponant et vous fracasserait l'or sacron, une décharge sur les omoplates, une autre sur les clavicules, une apostrophe sur la moitié de la face, ce sont sortes d'accidents.
+
+La science est, ou universelle, ou singulière ; l'une est appelée actuelle, l'autre habituelle, l'actuelle est celle qui est acquise par une seule démonstration habituelle ; est celle qui est composée d'une grand nombre de sciences actuelles, tendantes à même sujet ; ainsi qu'une habituelle résulte de plusieurs et fréquentes actions ? La science étant une certaine et infaillible connaissance, elle ne peut être singulières ; lesquelles coulant et roulant toujours par une vicissitude incertaine et immuable, et en leur être et en leurs accidents, ne peuvent fonder aucune science assurée, pour l'entière et parfaite intelligence, il faut savoir que la science est la connaissance de quelque chose par sa cause, non par les causes, d'autant qu'il y peut échoir plusieurs causes d'un même effet, comme l'efficiente, la matière, la forme, et la fin. Il y a la science naturelle, par laquelle il est aisé de voir et de connaître, que je suis un homme, et que vous êtes un âne, il y a la négromancie, par laquelle je devine que vous serez du naturelle des chevreaux, que les cornes vous croîtrons de bonne heure.
+
+Or d'autant que pour bien distinguer les choses, t les bine rapporter chacune à sa catégorie et prédicamMent, il importe de connaître si leurs noms sont anonymes, synonymes ou paronymes, suivant la méthode d'Aristote, même avant d'entrer aux catégories, nous interpréterons ces trois mots là, et jetterons quelque règle fondamentale, concernant l'intelligence des catégories de synonymes, les uns sont homonymants, les autre ssont homonymés, l'homonyme, homonymant, les autres homoniés, l'homonyme, homoninant est le mot ou le mot commun, égalemet à plusieurs choses, comme chien, ca il convient, non seulement à un animal terrestre et domestique, mais aussi à un poisson et à un astre, les synonymes synonymants, sont les mêmes choses signifiées par cette) homonymie, homoninant, par exemple, souhaiter, convoiter, désirer, vouloir, sont synonymes synonymés, enfin homonymes homonymés, homoninants, synonymes, synonymés, synonymants, paronymes, paronymés, paronymants, veulent dire faire entendre, faire connaître, interpréter, concevoir, exprimer plusieurs choses.
+
+Enfin je définis que tu seras cocu.
+
 Cela n'adviendra pas par le défaut des femmes ;
 Cela t'arrivera par un noir ascendant,
 D'un astre dont ton sort fut toujours dépendant
@@ -98,34 +264,10 @@ Un sot est toujours sot, c'est ainsi qu'on vous nomme.
 Sa femme ne fait rien, qu'elle soit sage ou non,
 L'un ni l'autre jamais ne peut perdre son nom.
 
--*who_lecapitan
-Ce discours ambigu ne me contente guère.
-
--*who_ledocteur
 Oui l'on peut être sot du ventre de la mère.
 
--*who_lecapitan
-Toutefois en usant de ma précaution...
-
--*who_ledocteur
 Toutefois, tu suivras le destin d'Actéon.
 
--*who_lecapitan
-C'en est trop, Docteur d'Arcadie,
-Ton discours me met en furie,
-Et dans la Mésopotamie,
-Ou bien dans l'Éthiopie,
-Dans le Japon ou dans l'Indie,
-De peur que ta langue hardie,
-Par moi ne soit anéantie,
-Va-t-en dans l'Anadalousie,
-Ou bien du côté d'Arabie,
-Et, pour mieux dire, en ta partie,
-Que l'on appelle la Betinie,
-Et bien, sot Docteur, je te prie,
-Va-t'en au Diable en diablerie.
-
--*who_ledocteur
 Si je me mets sur ta carcasse,
 Satyre, cornu, fils de bagasse,
 D'un coup de pied dans la culasse,
@@ -138,141 +280,77 @@ Tant de coups rendront ta voix lasse,
 Et t'enfonceront la cuirasse,
 Que tu ne quitteras la place.
 
--*who_lecapitan
-Docteur, soyons amis.
-
--*who_ledocteur
       Ô ! Le vaillant soldat.
 
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_lecapitan
-Ma maîtresse paraît, regarde que d'éclat
-Depuis fort peu de temps j'ai quitté ma maîtresse
-À cet objet tout seul j'adresse mes caresses,
-Parce que j'ai connu sa pudeur et sa foi,
-Et qu'elle m'aime enfin, et n'aimera que vous.
-
--*who_ledocteur
 Ce cas est fort douteux.
 
--*who_lecapitan
-      Beauté, l'honneur des dames
-Quand prendrez vous le temps de soulager mes flammes.
-
--*who_lucinde
-Je vous ai mille fois assuré que mon coeur
-N'aime que vous, et n'a que vous pour son vainqueur ;
-Mais te prends tant de soin pour me conserver pure,
-Qu'un simple mot d'amour me tient lieu d'une injure,
-Je suis fort sage enfin, je le dis, croyez-moi,
-Mon honneur m'entretient, il me donne la loi,
-En vérité l'honneur est une belle chose,
-On a beau soupirer pour mes lys, pour ma rose,
-Quand mes yeux auraient mis le feu dans l'univers,
-Ma pudeur ne verrait jamais mes sens pervers ;
-Mais quelle douleur me prend, à l'aide, à l'ide, à l'aide,
-Ne puis-je ici trouver ni secours ni remède,
-Laissez-moi, s'il vous plaît, un cruel mal au coeur
-Me tourmente beaucoup, ah ! Dieu quelle douleur.
-
--*who_lecapitan
-Elle est toute modeste, est est fort solitaire.
-
--*who_ledocteur
 Mais dans ce petit coin, qu'est ce qu'elle peut faire.
 
--*who_lecapitan
-Elle est allée enfin prier avec chaleur
-Les Dieux de lui vouloir conserver son honneur :
-Ah ! Que je serai bine avecque cette belle !
-Heureux, heureux mari.
-
--*who_lucinde
-      À l'aide ?
-
--*who_lecapitan
-      Que veut-elle ?
-Je n'oserais entrer, n'importe il faut mourir.
-
--*who_ledocteur
 Qu'il est vaillant.
 
--*who_lecapitan
-      Docteur, allons la secourir
-Hélas ! Je la croyais aussi chaste que belle.
-
--*who_ledocteur
 Elle a fait un poupon cette beauté fidèle,
 Heureux, heureux mari ! Et bine pauvre cerveau,
 Tu t'allais empêtrer de la vache et du veau.
 
--*who_lecapitan
-Que je suis malheureux !
-
--*who_ledocteur
       La chose est apparente,
 Que tu dois recueillir les fruit d'une autre plante.
 
--*who_lecapitan
-Cependant prenons soin de ce petit poupon,
-Il nous le faut dedans cette maison,
-Sans ma précaution n'étais-je pas frelore,
-Ah ! que je me veux bien précautionner encore ;
-Docteur, cet autre objet qui vient au petit pas,
-Ma voudrait engager avecque ses appas,
-Elle use pour cela de haute Rhétorique ;
-Mais elle est encore trop fine pour a boutique.
-
--*who_ledocteur
 Enfin, mon pauvre ami, le panache t'attend,
 Comme le grand Seigneur, tu porteras croissant.
 
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_philis
-Et bien cher Capitan, votre âme est-elle encore,
-Dans ce doute que le jaloux dévore ?
-
--*who_lecapitan
-J'y suis et j'y serai tant que j'aurai des yeux,
-Et tant que je verrai des fourbes sous les cieux ;
-Docteur si celle-ci pouvait être capable,
-De ne me point fourber, que je la trouve aimable !
-Tâcher de la connaître.
-
--*who_ledocteur
       Il faut donc la sonder,
 Sans cela je ne puis rien du tout décider.
 
--*who_lecapitan
-Vous êtes si savant avec votre doctrine,
-Vous pouvez bien savoir à quoi la belle incline.
-
--*who_ledocteur
 Il faut donc que je jette un oeil de Galien,
 Pour cela, dans son dispotaire féminin.
 
--*who_philis
+Ho ho ! Vous en savez de la bonne manière,
+Je vous estime fort, ô femme singulière.
+
+Je le vois bien, ne que case ne que cocles,
+Cet homme est generis communis.
+
+Voilà bien conseiller.
+
+Ma foi, vous me charmez, votre beauté me pique,
+Si je pouvais entrer dans votre République,
+Et payant bine le droit que payent les bourgeois,
+Comme étranger je m'y naturaliserais.
+
+Pour votre dépositaire je quitte ma grand-mère,
+Quoi qu'il arrive enfin je vivrai sous vos lois,
+Vos yeux seront mes Dieux, mes Soleils et mes Rois ;
+Capitan, si ma flamme avec elle est trompée,
+Pour le moins je mourrai d'une fort belle épée.
+
+      Et c'est s'humaniser.
+
+Il vous demandera de faire bonne mine,
+Et puis d'attendre au lit l'influence bénigne,
+Qui donne de la joie et chatouille les sens,
+Et qui fait pulluler les animaux parlants.
+
+      Tour à fait bien, ma belle.
+Nous sommes mariés, soyez-moi bine fidèle.
+
+Je l'avais bien prévu. La pauvre Capitan !
+
+Capitan, nous verrons qui s'en pourra parer.
+
+Allez vous en chanter avecque les coucous.
+
+
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
+
+Et bien cher Capitan, votre âme est-elle encore,
+Dans ce doute que le jaloux dévore ?
+
 Hé bien cher Capitan, ou plutôt mon Pirame,
 Quand pour votre Thisbé, serez vous tout de flamme.
 
--*who_lecapitan
-Je vous aimerais bien, mais votre esprit coquet,
-Me fait craindre de vous quelque fatal effet ;
-Car vous en savez trop, oui, vous êtes trop fine,
-Et ce n'est plus pour vous à présent que j'incline ;
-Je veux me marier, mais je veux épouser
-Une innocente, afin de la mieux maîtriser.
-
--*who_philis
 C'est pour me divertir que je vous dis que j'aime,
 Je me ris.
 
--*who_lecapitan
-      De qui donc ?
-
--*who_philis
       Capitan, de vous-même ;
 Mais je vous veux donner nue bonne leçon,
 Vous voulez épouser une sotte, un oison,
@@ -289,161 +367,105 @@ Sortir bien à propos d'une méchante affaire,
 Et souvent Capitan une sotte fera,
 Son pauvre homme cocu, et l'en avertira.
 
--*who_ledocteur
-Ho ho ! Vous en savez de la bonne manière,
-Je vous estime fort, ô femme singulière.
-
--*who_philis
 Enfin j'en sais un peu, j'ai l'esprit clairvoyant,
 Fort subtil et profond et beaucoup pénétrant.
 
--*who_ledocteur
-Je le vois bien, ne que case ne que cocles,
-Cet homme est generis communis.
-
--*who_lecapitan
-Dites, si j'épousais de ces beautés bigottes,
-Qui ruminent toujours qui sans cesse marmottent,
-Elle serait honnête, elle n'aurait pour but,
-Que le soin de songer à faire son salut.
-
--*who_philis
 Non, non, une bigotte en ce siècle o% nous sommes,
 Tromperait Dieu, les Saints, avecque tous les hommes,
 Ce n'est point mon fait, ne vous y fiez pas,
 Car vous vous jetteriez dans quelqu'autre embarras.
 
--*who_lecapitan
-Ainsi je ne sais plus de quel ôté me rendre.
-
--*who_philis
 Je vous conseille.
 
--*who_lecapitan
-      Et quoi donc ?
-
--*who_philis
       De vous aller prendre.
 
--*who_ledocteur
-Voilà bien conseiller.
-
--*who_lecapitan
-      Ô ! discours superflus,
-J'aimerais encor mieux être au rang des cocus,
-J'en ai grand peur pourtant, et si je me marie,
-Je n'en échapperai nullement sur ma vie.
-
--*who_philis
 Ne vous mariez point, on dit que tu ne dois,
 Lorsque tu crains le feuille d'aller dans les bois.
 
--*who_ledocteur
-Ma foi, vous me charmez, votre beauté me pique,
-Si je pouvais entrer dans votre République,
-Et payant bine le droit que payent les bourgeois,
-Comme étranger je m'y naturaliserais.
-
--*who_philis
 Bien, bien ; dans un moment nous parlerons d'affaire.
 
--*who_ledocteur
-Pour votre dépositaire je quitte ma grand-mère,
-Quoi qu'il arrive enfin je vivrai sous vos lois,
-Vos yeux seront mes Dieux, mes Soleils et mes Rois ;
-Capitan, si ma flamme avec elle est trompée,
-Pour le moins je mourrai d'une fort belle épée.
-
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_cloris
-Jadis le Capitan m'adressait tout ses voeux.
-
--*who_lecapitan
-La voici la beauté qui me doit rendre heureux ;
-Docteur elle n'a point ni d'esprit ni de ruse,
-Elle est comme il me faut, c'est une bonne buse ;
-Je vous laisse Philis. Voulez-vous m'épouser.
-
--*who_cloris
-Et qu'est-ce qu'épouser.
-
--*who_ledocteur
-      Et c'est s'humaniser.
-
--*who_philis
 Quelle niaise ! Ô Dieux !
 
--*who_lecapitan
-      Cette pauvre novice,
-Sans esprit ne peut pas inventer de malice :
-Allons nous marier.
-
--*who_cloris
-      Mais étant mon époux ;
-Dites-moi, s'il vous plaît, que demanderez-vous.
-
--*who_ledocteur
-Il vous demandera de faire bonne mine,
-Et puis d'attendre au lit l'influence bénigne,
-Qui donne de la joie et chatouille les sens,
-Et qui fait pulluler les animaux parlants.
-
--*who_cloris
-Allons donc je le veux ; allons je suis en âge,
-Et je puis aisément franchir de doux passage.
-
--*who_philis
 Allons, mon cher Docteur, et sans perdre de temps
 Vous m'apprendrez le Code et le Droit des gens.
 
-**** *book_ *id_I06 *act_I *date_(inc
+Docteur, nous voilà bien.
 
--*who_leandre
+Voyez cette innocence, elle fuit un galant.
+
+Mon mari n'aura point pour moi martel en tête ;
+Car je sais ménager la petite conquête.
+
+Ceux qui parlent beaucoup n'ont jamais grand effet.
+
+      Capitan, faites rage.
+
+Quoi ! Vous souffrez ainsi cet ouvrage à vos yeux.
+
+Vraiment vous êtes brave, et brave à tout outil.
+
+Adieu cher Capitan, adieu, consolez-vous.
+
+Allez dire aux maris des champs et de la ville,
+Que la précaution leur est choses inutile.
+
+
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
+
+Jadis le Capitan m'adressait tout ses voeux.
+
+Et qu'est-ce qu'épouser.
+
+      Mais étant mon époux ;
+Dites-moi, s'il vous plaît, que demanderez-vous.
+
+Allons donc je le veux ; allons je suis en âge,
+Et je puis aisément franchir de doux passage.
+
+Demeurez en ce lieu le temps de mon voyage,
+Voilà de mon pays la loi du mariage,
+Elle porte qu'ainsi l'on assure l'honneur,
+Pour nous faire éviter un amant suborneur.
+
+À ce que je puis voir c'est un sot avantage
+Que d'être en ce pays dedans le mariage.
+
+Au diable la figure, avec son influence.
+
+Monsieur, vous étonnant de l'état où je suis,
+Ignorez-vous les lois de ce fâcheux pays ?
+Les femmes de ces lieux sont en cet équipage,
+Pour garder leur honneur dedans le mariage.
+
+      Je brûle de l'entendre.
+
+Cet étranger courtois, civil, et plein de charmes,
+Me les a fait quitter et m'a dit ébahi,
+Que l'on exerçait point ces lois en son pays ;
+Que les femmes avaient après le mariage,
+Des armes à la main qui faisaient moins d'ouvrages ;
+Qu'elles avaient des lois plus douces qu'en ces lieux,
+Aussitôt mon esprit s'est montré curieux :
+J'ai brûlé du désir de les pouvoir apprendre,
+Et lui-même a voulu me les faire comprendre.
+
+
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_leandre
+
 Ce climat est fort doux, les dames en sont belles.
 
--*who_trapolin
-Et pour moi je sais bien de meilleures nouvelles.
-
--*who_leandre
 Que sais-tu !
 
--*who_trapolin
-      Qu'on y voit de fort bons Cabarets,
-Où nous pourrions aller nous rendre le teint frais.
-
--*who_leandre
 Ah ! Que j'ai vu passer une dame jolie.
 
--*who_trapolin
-Et moi je viens de voir...
-
--*who_leandre
       Quoi donc ?
 
--*who_trapolin
-      L'hôtellerie.
-
--*who_leandre
 Que j'aimerais à voir un oeil friand à beau.
 
--*who_trapolin
-Que j'aimerais à voir une longue de veau.
-
--*who_leandre
 Que j'aime un sein de lys !
 
--*who_trapolin
-      Que j'aime une mignonne,
-Quand son ventre est rempli d'excellent vin de Beaune.
-
--*who_leandre
 Que je suis amoureux du sexe féminin.
 
--*who_trapolin
-Que je suis amoureux du repas et du vin !
-
--*who_leandre
 Lorsque je vois des dents blanches comme des perles,
 Quand je vois des cheveux aussi noirs que des merles,
 Quand j'en vois de cendrés, de châtains, et de blonds,
@@ -457,223 +479,36 @@ Alors mon coeur s'engage à chercher une amante ;
 C'est dans ce grand amas de charmes innocents,
 Que je me laisse aller au pouvoir de mes sens.
 
--*who_trapolin
-Et pour moi, quand je vois cette beauté divine,
-Qui charme et rit toujours, qu'on appelle cuisine ;
-Quand j'y vois un potage avec un gros chapon,
-Des poulets, des pigeons, avec un gros dindon,
-Un ragoût bien friand ; une table charmante,
-C'est où mon coeur s'engage à chercher une amante,
-C'est dans ce grand amas de charmes innocents,
-Que je me laisse aller au pouvoir de mes sens.
-
--*who_leandre
 Tu m'interromps toujours avecque ta cuisine.
 
--*who_trapolin
-Enfin, vive l'amour, Monsieur, pourvu qu'on dîne.
-
--*who_leandre
 Allons viens faire un tour pour chercher l'appétit.
 
--*who_trapolin
-Le mien est tout trouvé, ah que j'ai de dépit.
-
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_lecapitan
-Enfin, je suis mari, et mari d'importance,
-Avec ma femme enfin, je suis en assurance,
-Car elle ne sait pas ce que c'est de pécher ;
-Mais afin que pas un ne la puisse approcher,
-Tandis que je m'en vais à ma grange hors la ville,
-J'ai mis dessus son dos la cuirasse d'Achille,
-Et le divin armet de mon cousin Hector,
-Et puis dedans sa main la pertuisane encor ;
-Je lui donne un bon pli les dernières journées,
-Afin d'en profiter la reste des années ;
-Mais la voici qui vient, ainsi l'homme de coeur
-Prend soin de conserver sa gloire et son honneur.
-
-**** *book_ *id_I08 *act_I *date_(inc
-
--*who_cloris
-Demeurez en ce lieu le temps de mon voyage,
-Voilà de mon pays la loi du mariage,
-Elle porte qu'ainsi l'on assure l'honneur,
-Pour nous faire éviter un amant suborneur.
-
-**** *book_ *id_I09 *act_I *date_(inc
-
--*who_cloris
-À ce que je puis voir c'est un sot avantage
-Que d'être en ce pays dedans le mariage.
-
--*who_leandre
 Ah Dieux ! Que de beauté, que d'attraits, que d'appas,
 Trapolin approchons, je crois que c'est Pallas ;
 Allons la saluer, ah ! C'est un déesse.
 
--*who_trapolin
-Ah, je crois bien plutôt que c'est une diablesse :
-Ma foi j'en ai grand peur.
-
--*who_leandre
       Vas donc.
 
--*who_trapolin
-      Allez-y vous.
-
--*who_leandre
 Je veux...
 
--*who_trapolin
-      Je ne veux pas.
-
--*who_leandre
       Redoute mon courroux.
 
--*who_trapolin
-Mais il faut pourtant voir de près sa contenance.
-
--*who_cloris
-Au diable la figure, avec son influence.
-
--*who_leandre
 Beauté l'étonnement des hommes et des Dieux,
 N'était-ce pas assez des armes de vos yeux ?
 Pourquoi vous mettez-vous en ce fier équipage,
 Votre visage doux aime-t-il le carnage.
 
--*who_cloris
-Monsieur, vous étonnant de l'état où je suis,
-Ignorez-vous les lois de ce fâcheux pays ?
-Les femmes de ces lieux sont en cet équipage,
-Pour garder leur honneur dedans le mariage.
-
--*who_leandre
 Vraiment dans ce pays on fait de rudes lois
 Dans le nôtre on agit d'un air bine plus courtois.
 Ah si vous le saviez !...
 
--*who_cloris
-      Je brûle de l'entendre.
-
--*who_leandre
 Venez avecque moi, je pourrai vous l'apprendre.
 
--*who_trapolin
-La Donne est susceptible, elle le fuit ma foi ;
-Voilà Pallas par terre, amour lui fait le loi.
-
-**** *book_ *id_I10 *act_I *date_(inc
-
--*who_philis
-Docteur, nous voilà bien.
-
--*who_ledocteur
-      Tour à fait bien, ma belle.
-Nous sommes mariés, soyez-moi bine fidèle.
-
--*who_philis
-Voyez cette innocence, elle fuit un galant.
-
--*who_ledocteur
-Je l'avais bien prévu. La pauvre Capitan !
-
-**** *book_ *id_I11 *act_I *date_(inc
-
--*who_lecapitan
-Je n'ai su demeurer longtemps à la campagne ;
-Et je reviens trouver ma gentille compagne,
-De sa simplicité je dois tout espérer.
-
--*who_ledocteur
-Capitan, nous verrons qui s'en pourra parer.
-
--*who_philis
-Mon mari n'aura point pour moi martel en tête ;
-Car je sais ménager la petite conquête.
-
--*who_lecapitan
-Si je savais quelqu'un qui se put figurer
-De cajoler ma femme et me déshonorer,
-Il serait hors d'état de faire des caresses ;
-Car je déchirerais son corps en mille pièces.
-
--*who_philis
-Ceux qui parlent beaucoup n'ont jamais grand effet.
-
--*who_lecapitan
-Par la mort, je ferais...
-
-**** *book_ *id_I12 *act_I *date_(inc
-
--*who_leandre
       Adieu divin objet,
 Que je baise vos mains.
 
--*who_philis
-      Capitan, faites rage.
-
--*who_lecapitan
-La prudence sied bine avec le courage.
-
--*who_philis
-Quoi ! Vous souffrez ainsi cet ouvrage à vos yeux.
-
--*who_lecapitan
-Je fais ce que je puis pour être furieux.
-
--*who_leandre
 Adieu divin objet, ma reine.
 
--*who_trapolin
-Adieu belle Pallas.
-
--*who_lecapitan
-      Rage, fureur, feu, haine.
-Tu mourras.
-
--*who_leandre
       À qui donc parlez-vous ?
 Est-ce à moi ?
 
--*who_lecapitan
-      Non, monsieur, non, ce n'est pas à vous.
-
--*who_philis
-Vraiment vous êtes brave, et brave à tout outil.
-
--*who_lecapitan
-Je le suis quand je veux, donnez moi patience,
-Je ne l'ai pas tué le traître en ce moment.
-Je retarde sa mort d'une heure seulement ;
-Mais venez la traîtresse, où sont vos armes.
-
--*who_cloris
-Cet étranger courtois, civil, et plein de charmes,
-Me les a fait quitter et m'a dit ébahi,
-Que l'on exerçait point ces lois en son pays ;
-Que les femmes avaient après le mariage,
-Des armes à la main qui faisaient moins d'ouvrages ;
-Qu'elles avaient des lois plus douces qu'en ces lieux,
-Aussitôt mon esprit s'est montré curieux :
-J'ai brûlé du désir de les pouvoir apprendre,
-Et lui-même a voulu me les faire comprendre.
-
--*who_lecapitan
-Ah ! Vous me disiez bien, qu'une sotte ferait
-Son pauvre homme cocu e l'en avertirait :
-Je vous enfermerai désormais, ignorante,
-Rentrez, rentrez ici, sotte, bête, innocente.
-
--*who_philis
-Adieu cher Capitan, adieu, consolez-vous.
-
--*who_ledocteur
-Allez vous en chanter avecque les coucous.
-
--*who_philis
-Allez dire aux maris des champs et de la ville,
-Que la précaution leur est choses inutile.

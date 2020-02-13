@@ -1,4 +1,4 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -51,7 +51,8 @@
     <body>
       <head>L’AMOUR SENTINELLE <lb/>OU LE CADENAS FORCÉ. <lb/>COMEDIE.</head>
       <div xml:id="dedicace">
-        <head>A SON<pb n="A2"/>ALTESSE MONSEIGNEUR LE PRINCE D’ORANGE</head>
+        <pb n="A2"/>
+        <head>A SON ALTESSE MONSEIGNEUR LE PRINCE D’ORANGE</head>
         <p rend="i">MONSEIGNEUR.</p>
         <p><hi rend="i">Si cette petite Comedie</hi>
         , <hi rend="i">que je prends la liberté de vous offrir, me fait passer pour un fascheux.</hi></p>

@@ -1,0 +1,2593 @@
+
+
+La présente édition reproduit le texte original de L’Amante Ennemie de Monsieur Sallebray, dont le Privilège du Roi est daté du 8 avril 1642 et l’achevé d’imprimer du 2 mai 1642. L’exemplaire qui a servi de référence se trouve à la BNF sous la cote RES-YF-581.
+
+Le texte n’a pas eu de réédition. La seule édition existante que nous possédons a été publiée chez Antoine de Sommaville et Augustin Courbé, sous un format in-4° de 128 pages. On compte à ce jour 15 exemplaires de la pièce en France. Ils sont consultables dans les bibliothèques suivantes :
+
+– BNF Bibliothèque François Mitterand : 3 exemplaires cotés RES-YF-581, RES-YF-1728 et RES-YF-570.
+
+– BNF Bibliothèque de l’Arsenal : 5 exemplaires cotés 4-BL-3498 (4), 4-BL-3499 (4), GD-40246, THN-9670 et THN-144.
+
+– BNF Bibliothèque Richelieu : 1 exemplaire coté 8-RF-7114.
+
+– Bibliothèque Mazarine : 1 exemplaire coté 4° 10918-25/4.
+
+– Bibliothèque intra-universitaire de la Sorbonne : 1 exemplaire coté RRA 483 in-8.
+
+– Bibliothèque Sainte-Geneviève : 1 exemplaire coté DELTA 15225 FA (P.4).
+
+– Bibliothèque municipale d’Angers : 2 exemplaires cotés BL 2225 I (5) et BL 2225 VI (3).
+
+– Bibliothèque Condé du Château de Chantilly : 1 exemplaire coté VII-A-023-(4).
+
+A ce jour, seuls les exemplaires des bibliothèques Richelieu, Mazarine, Sainte-Geneviève et Condé (Chantilly) n’ont pas été consultés. Les 5 exemplaires suivants figurent dans des recueils factices :
+
+– Bibliothèque de l’Arsenal : 4-BL-3498 (4), 4-BL-3499 (4) et THN-9670.
+
+– Bibliothèque d’Angers : BL 2225 I (5) et BL 2225 VI (3).
+
+Dans l’exemplaire coté THN-9670 de la bibliothèque de l’Arsenal, le premier feuillet de la pièce est mal relié. On trouve les pages ainsi reliées : pages 3 à 6 / Privilège du Roy et liste des personnages / pages 1 et 2 / pages 7 et 8. Ce détail mis à part, tous les exemplaires consultés, en dehors du nôtre, ont apporté une correction à la page 82. On peut donc penser que notre exemplaire est l’un des premiers exemplaires imprimés de la pièce. Cependant, toutes les autres erreurs relevées n’ont pas été corrigées dans les exemplaires consultés.
+
+Le texte qui a été adopté comme référence se présente sous la forme d’un in-4° de IV-128. En voici la description :
+
+I - Page de titre : L’AMANTE / ENNEMIE. / TRAGI-COMEDIE. / DE / MONSIEUR SALLEBRAY. / Fleuron du libraire / A PARIS, / Chez { ANTOINE DE SOMMAVILLE, en la Ga-/lerie des Merciers, à l’Escu de France, / & / AUGUSTIN COURBE, en la mesme Ga-/lerie, à la Palme. } Au Palais. / Filet / M.DC.XXXII. /AVEC PRIVILEGE DU ROY
+
+II - Page blanche.
+
+III - Extrait du privilège du Roi.
+
+IV – Liste des personnages
+
+1 – 128 - Texte de la pièce.
+
+En règle générale, nous avons conservé l’orthographe de l’édition originale, exception faite de quelques modernisations et corrections :
+
+– nous avons modernisé les « ∫ » en « s »,
+
+– nous avons modernisé les « ß » en « ss »,
+
+– nous avons distingués les « u » des « v » et les « i » des « j », conformément à l’usage moderne.
+
+– nous avons remplacé la ligature « & » par la conjonction « et ».
+
+– nous avons décomposé les voyelles nasales surmontées d’un tilde en un groupe voyelle-consonne. En voici la seule occurrence :
+
+v. 842 : prétendāt → prétendant
+
+– nous avons rajouté l’accent diacritique permettant de distinguer le relatif « où » de la conjonction au v. 1244.
+
+– nous avons corrigé quelques erreurs manifestes, consultables ci-dessous.
+
+v. 22 : crime, → crime ?
+
+v. 25 : transporte ? → transporte,
+
+v. 32 : differer, → differer ?
+
+v. 154 : envie. → envie ?
+
+v. 158 : durables. → durables,
+
+v. 177 : nuisible. → nuisible ?
+
+v. 216 : soûpirs. → soûpirs,
+
+v. 230 : histoires. → histoires ?
+
+v. 275 : pourvûs. → pourvûs ?
+
+v. 363 : mal-heureuse ? → mal-heureuse,
+
+v. 364 : d’Enfer. → d’Enfer ?
+
+v. 454 : Passez vous → Passez-vous
+
+v. 515 : Tersandre, → Tersandre.
+
+v. 516 : pretendre. → pretendre,
+
+v. 567 : N’aurions nous → N’aurions-nous
+
+v. 578 : Claironde : → Claironde,
+
+v. 649 : appas. → appas ?
+
+v. 669 : treuvé. → treuvé ?
+
+v. 725 : repas. → repas ?
+
+v. 739 : aimé, → aimée
+
+v. 776 : Approuvez vous → Approuvez-vous
+
+v. 813 : déguisement. → déguisement ?
+
+v. 833 ; faites vous → faites-vous
+
+v. 910 : serions nous → serions-nous
+
+v. 931 : aurons nous → aurons-nous
+
+v. 959 : sorte, → sorte ?
+
+v. 975 : Taisons nous → Taisons-nous
+
+v. 979 : extraordinaire. → extraordinaire ?
+
+v. 1023 : nommez vous → nommez-vous
+
+v. 1073 : Appel. → Appel ?
+
+v. 1089 : L’avez-vous → L’avez-vous
+
+v. 1090 : autheur. → autheur ?
+
+p. 79 de l’original, personnages présents sur scène : Flaviane, → Flaviane.
+
+v. 1098, 1449 : Craignez vous → Craignez-vous
+
+v. 1112 : Aviez vous → Aviez-vous
+
+v. 1113 : Craigniez vous → Craigniez-vous
+
+p. 86 de l’original, personnages présents sur scène : Alcinor, → Alcinor.
+
+v. 1216 : Croyez vous → Croyez-vous
+
+v. 1224 : touche ? → touche.
+
+v. 1230 : cher. → cher ?
+
+v. 1294 : trouver : → trouver,
+
+v. 1297 : m’assurez vous → m’assurez-vous
+
+v. 1353 : remede. → remede ?
+
+v. 1354 : confus ? → confus.
+
+v. 1362 : ne sçavez vous → ne sçavez-vous
+
+v. 1456 : avons nous → avons-nous
+
+v. 1509 ; plaisir. → plaisir
+
+v. 1511 : Tersandre. → Tersandre ?
+
+v. 1654 : consolez ? → consolez !
+
+v. 95, 574, 1650 : Floridant → Floridan
+
+v. 129 : Eortune → Fortune
+
+v. 227 : tiltre → titre
+
+v. 332, 594 : traitement → traittement
+
+v. 354 : alegement → allegement
+
+v. 395 : lance → lame
+
+v. 415 : felonie → felonnie
+
+v. 425 : tarde-tu → tardes-tu
+
+v. 448 : effect → effet
+
+v. 781, 1525 : hazart → hazard
+
+v. 840 : qu’appercevez-vous → qu’apercevez-vous
+
+v. 890 : ataquer → attaquer
+
+v. 903 : à croire → accroire
+
+v. 936 : sortit → serait
+
+v. 955 : indiference → indifference
+
+v. 971 : carresses → caresses
+
+v. 1083 : j’en connessance → j’en ai connessance
+
+v. 1105 : eschaper → eschapper
+
+v. 1289 : c’est-elle → c’est elle
+
+v. 1298 : la doute → le doute
+
+v. 1319 : Reserve-tu → Reserves-tu
+
+v. 1393 : és tu → es tu
+
+v. 1469 : n’és-tu → n’es-tu
+
+v. 1627 : Dequoy → De quoy
+
+v. 1628 : m’anonce → m’annonce
+
+v. 1632 : qu’aprenant → qu’apprenant
+
+Sous-titre, p. 1 de l’original : COMEDIE → TRAGI-COMEDIE
+
+Didascalie du v. 481, p. 34 de l’original : Le VOLEUR. / Fuyons, → LE VOLEUR, fuyant
+
+Numéro de page, p. 38 de l’original : 83 → 38
+
+p. 63 de l’original, didascalie : FLORIDAN, à Doriman. → FLORIDAN, à Dorimon.
+
+p. 82 de l’original, numéro de page : 88 → 82
+
+p. 111 de l’original, personnages scène VIII : DIOMEDE endormy. DORIMON, FLORIDAN. → DIOMEDE endormy, DORIMON, FLORIDAN.
+
+Dans notre texte, les astérisques renvoient le lecteur au lexique ; les lettres et chiffres inscrits entre … indiquent les cahiers et pages de l’original. Dans les notes de bas de page, les lettres entre (…) indiquent le dictionnaire d’où est tiré la définition du mot qui est traité à cet endroit car il n’a que peu d’occurrences dans le texte. La correspondance entre les lettres et le dictionnaire est notée dans le lexique.
+
+PAR Grace et Privilege du Roy, donné à Paris le 8. jour d’Avril 1642, Signé par le Roy en son Conseil, le BRUN, il est permis à Augustin Courbé Marchand Libraire à Paris, d’imprimer ou faire imprimer une piece de Theatre, intitulée l’Amante Ennemie, durant cinq ans : Et deffences sont faites à tous autres d’en vendre d’autre impression que de celle qu’aura fait faire ledit Courbé, ou ses ayans cause, à peine de trois mil livres d’amende, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par ledit Privilege.
+
+Et ledit Courbé a associé audit Privilege Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l’accord fait entr’eux.
+
+Achevé d’imprimer le deuxiesme jour de May 1642 .
+
+L’AMANTE
+
+ENNEMIE.
+
+TRAGI-COMÉDIE.
+
+Lucine, c’est icy qu’une juste vangeance  
+Doit terminer le cours de ma longue souffrance ;  
+C’est icy que mon bras, d’un genereux effort,  
+Doit attaquer un Tygre, et lui donner la mort.  
+Ouy, Tersandre ; ouy cruel, le Ciel seiche mes larmes,  
+Puis qu’il a reservé ta défaite à mes armes;  
+J’apporte au bout d’un fer le trépas qui t’est dû,  
+Et ton sang à son tour doit estre répandu,  
+Conte ce jour fatal le dernier de ta vie:  
+Car si l’occasion succède à mon envie,  
+Je te sacrifiray, pour finir mes tourmens,  
+Aux Mânes de mon Pere, et de tous mes Amans:  
+Toi qui sçais mon dessein, seconde mon courage,  
+Arme toy contre luy de fureur et de rage;  
+Et si preste à ce coup, tu vois trembler ma main,  
+Enfonce luy toi mesme un poignard dans le sein.  
+
+Madame, par ce coup, que l’Enfer mesme abhorre,  
+(Je vous l’ay dit cent fois, et vous le dis encore)  
+Vous mettez vostre honneur en extréme danger,  
+Et peut-estre la vie.  
+
+        Est-ce là me vanger  
+D’un vainqueur insolent qui me brave et m’opprime ?  
+Voy tu pas que le Ciel authorise ce crime ?  
+Ha ! Ne m’en parle plus, il le faut achever,  
+Mille moyens apres s’offrent pour nous sauver.  
+
+Une aveugle fureur, vous gagne et vous transporte,  
+Qui vous fait maintenant discourir de la sorte :  
+Mais si vous resistiez à cette passion,  
+Qui forme le dessein d’une telle action,  
+Vous préteriez l’oreille aux avis qu’on vous donne.  
+
+Que veux-tu dire encore, Ame lasche et poltronne ?  
+
+Ce qu’il faut, ce me semble, un peu considerer,  
+Avant…  
+
+        Quoy, tu voudrois son trépas differer ?  
+Parle, parle, timide, et conseille une femme,  
+Qu’une juste fureur excite, anime, enflame.  
+
+Puisque vous me pressez, par un commandement,  
+De declarer icy quel est mon sentiment,  
+(Quoy qu’il soit inutile, et que vôtre colere  
+M’ait desja fait prévoir qu’il ne sçauroit vous plaire.)  
+Je vous diray, Madame, et c’est la vérité,  
+Qu’on lui prepare un mal qu’il n’a point merité.  
+
+Perfide, que dis-tu ? Le meurtrier de mon frere,  
+De tant de braves Gens, et mesme de mon Pere,  
+N’aura pas merité que je l’aille égorger:  
+Justes Dieux, souffrez vous ce tort sans me vanger ?  
+Veux-tu point, apres tout, que j’appelle vaillance,  
+De son assassinat l’injuste violence ?  
+Que pour le prix encor de ses exploits guerriers,  
+J’aille luy presenter moy mesme des Lauriers ?  
+Conseille mieux l’esprit d’une fille outragée,  
+Dont le plus grand bon-heur dépend d’estre vangée.  
+
+Madame, il parest bien que Tersandre a failly:  
+Mais qui ne se deffend quand il est assailly ?  
+Et si de vos parens la trame fut coupée,  
+Par le funeste coup de sa fatale espée,  
+Son Pere auparavant par un semblable effort  
+Reçût-il pas du vostre une pareille mort ?  
+Vous le sçavez, Madame, et l’estat déplorable  
+Où se treuva depuis cét objet miserable,  
+Qui se sent trop puny de vostre inimitié,  
+Et qui de vos mal-heurs a beaucoup de pitié.  
+
+Le sort en est jetté, la raison veut qu’il meure,  
+Je cache à ce dessein mon sexe et ma demeure ;  
+Et si tu ne veux pas me prester ton secours,  
+Moy seule au pis aller…  
+
+        Brisez-là ce discours,  
+Madame, je suis preste à ce tragique office,  
+Pourvû que par sa mort vostre peine finisse:  
+Mais la difficulté que je rencontre icy,  
+C’est qu’il est fort vaillant.  
+
+        Je suis vaillante aussi.  
+Lucine, ne crains point.  
+
+        Une telle entreprise  
+S’acheve par valeur bien moins que par surprise.  
+
+Soit, pourvû qu’il en meure, il n’importe comment :  
+Mais pour entrer chez luy, garde cét instrument ;  
+Quoi qu’il tienne beaucoup des Tygres d’Hircanie,  
+Contre leur naturel il aime l’harmonie.  
+
+Quoy ! bon Dieu, sont-ce là les armes dont vos mains  
+Pretendent vous vanger du plus fier des humains ?  
+Vous frapperez au coeur, mais son ame ravie  
+Preferera toujours ce trépas à la vie.  
+
+Ma main douce et tremblante en donnant du plaisir,  
+Deviendra rude et ferme en ce mortel desir,  
+Si sa premiere atteinte enchante son oreille,  
+Croy que celle du cœur ne sera pas pareille.  
+Il nous le faut tout seul attirer dans ce bois,  
+Feignant ce lieu plus propre à faire ouïr ma voix.  
+Là je m’assure bien, favorable complice,  
+Que ce nouvel Ajax ne fera pas l’Ulysse,  
+Syrene des forests, je le sçauray charmer  
+Plus agreablement que celles de la Mer.  
+
+Dieux ! destournez de luy cette horrible tempeste.  
+
+Que dis-tu ?  
+
+        Qu’à ce coup me voila toute preste.  
+
+Ta resolution divertit mon soucy,  
+Et tu me fais plaisir de me parler ainsi:  
+Mais il faut aviser, dans l’estat où nous sommes,  
+Comme des vestements, à prendre des noms d’hommes,  
+Le mien, c’est Floridan.  
+
+    Et le mien ?  
+
+        Dorimon,  
+Et frere d’Amitié.  
+
+        J’aime encor mieux ce nom.  
+
+Songe qu’à se méprendre il va de nostre vie,  
+Et que sa rage apres se verroit assouvie.  
+
+Je m’en garderay bien : mais quand nous le verrons,  
+Encor faut-il sçavoir ce que nous luy dirons.  
+
+Feignons d’estre égarez, et de chercher un giste,  
+Aussi bien le Soleil desçend desja plus viste,  
+Et semble nous forcer à prendre celuy-cy :  
+Mais, Lucine, attendant que quelqu’un vienne icy,  
+Allons nous reposer au bord de la Prairie,  
+Qui parest à nos yeux si belle et si fleurie ;  
+Ces arbres écartez nous donnent le moyen  
+De voir si quelqu’un sort.  
+
+        Allons, je le veux bien.  
+
+Va pendre auparavant ta guiterre au plus proche,  
+Nous aurons du plaisir si quelqu’un en approche.  
+
+En effet, cét aspect le rendra curieux  
+De sçavoir aussitost qui l’a mise en ces lieux.  
+
+Ainsi je surprendray l’objet de ma vangeance.  
+
+(Bas.) Ainsi la trahison surprendra l’innocence.  
+Hé bien, qu’en dites-vous, est-elle bien ainsi ?  
+
+Elle est le mieux du monde.  
+
+        Il me le semble aussi.   
+
+Enfin, c’est trop long temps me cacher ce mystere,  
+Qui vous rend d’une humeur si triste et solitaire ;  
+C’est trop celer le mal qui vous semble affliger,  
+A qui sçait le moyen de vous en soulager.  
+
+Et quel est ce moyen ?  
+
+        Le dire à Meliarque,  
+C’est d’un parfait amy la veritable marque ;  
+Et je seray certain de vostre affection,  
+Si vous me faites part de vostre affliction.  
+
+Les coups dont la Fortune a mon ame blessée,  
+La rendent mal-heureuse, et non pas insensée,  
+Au point que d’attrister le meilleur des Amis,  
+Par le recit des maux où mon sort m’a soumis.  
+
+S’ils ont part au plaisir qui vient de la Fortune,  
+La peine également leur doit estre commune.  
+
+Ouy, mais je souffre assez, en l’estat où je suis,  
+Sans que par mon discours j’augmente mes ennuis.  
+
+Si vous cachez tousjours le mal qui vous possede,  
+Vous ostez les moyens de treuver son remede.  
+
+Quel remede, bon Dieu, qui ne soit impuissant,  
+Contre le rude effort d’un Hydre renaissant ?  
+
+Quoy, vous songez encore…  
+
+        Ouy, mon cher Meliarque,  
+Je songe à cette Mer où Claironde m’embarque,  
+Mer d’horreur et de sang, où des Monstres rivaux  
+Viennent incessamment renouveller mes maux.  
+
+Apres que le trépas a suivy leur défaite,  
+Est-il d’autre bon-heur que Tersandre souhaitte ?  
+
+Croy tu donc que tousjours mon bras en soit vainqueur ?  
+Et que le sort en fin…  
+
+        R’assurez vostre cœur,  
+Et croyez que le Ciel, amy de l’Innocence,  
+Ne quittera jamais vostre juste deffence.  
+
+J’attens cette faveur de vous seuls, Immortels,  
+Ainsi jamais l’Encens ne manque à vos Autels.  
+
+Mais ne sçauray-je point plus au long cette histoire,  
+Dont le succés m’estonne, et vous comble de gloire.  
+
+Soit, puisque tu le veux, et que nostre loisir,  
+S’accorde maintenant avecque ton desir.  
+Ha ! ce triste discours me va couster la vie.  
+
+C’est luy mesme.  
+
+    Escoutons.  
+
+        Qui retient mon envie ?  
+
+Apres t’avoir conté que certains differens  
+Diviserent jadis l’esprit de nos parens,  
+Et que ce Medecin des douleurs incurables,  
+Le Temps avoit rendu celles-cy plus durables,  
+Apprend, (et c’est icy la source de mes pleurs,)  
+Que nos Peres lassez de souffrir les mal-heurs  
+Qui venoient traverser nostre commune joye,  
+Prirent pour les finir une tragique voye ;  
+Resolus d’arrester par un sanglant duel,  
+Le trop funeste cours d’un mal continuel.  
+Ormin (c’estoit le nom du Père de Claironde)  
+Prend son fils pour second.  
+
+        O rage sans seconde !  
+
+Mon Père en fait de mesme, et d’un cœur assuré,  
+Contre nos Ennemis se porte sur le pré.  
+Chacun s’y treuve armé de fer et de courage,  
+Et chacun prend le sien selon le droit de l’âge.  
+D’abord nous combattons avec tant de fureur,  
+Que le penser encor m’en fait fremir d’horreur :  
+Mais si tost que du mien j’eus connu la foiblesse,  
+Je fis à tant d’ardeur succeder quelque adresse.  
+
+Ils perdirent la vie.  
+
+        Ouy, mais trop soulagez,  
+Puisque dans leur desastre ils moururent vangez.  
+
+En quoy donc le Destin vous fut-il si nuisible ?  
+
+Pleurez, pleurez mes yeux un malheur si sensible.  
+
+Vostre Père…  
+
+        Ha ! je meurs à ce ressouvenir,  
+De son funeste sort, puy-je t’entretenir.  
+L’avantage que j’ai dessus mon adversaire,  
+Me fait jetter souvent les yeux dessus mon Père,  
+Pour voir si son courage a besoin de mon bras :  
+Mais en fin j’apperçoy qu’un coup le porte à bas.  
+Mon desespoir redouble à ce triste spectacle,  
+J’abandonne Philandre, et sans aucun obstacle  
+Je cours tout furieux sur ce vil meurtrier,  
+Qui d’un coup de hazard estoit desja tout fier ;  
+En achevant son crime il sentit ma vangeance,  
+Et dedans un grand mal j’eus un peu d’allegeance.  
+Son fils y vint trop tard, qui m’appellant cruel,  
+S’efforce de m’abattre, et finir ce duel :  
+Mais sa temerité ranimant ma colere,  
+Je fais par son trépas ce qu’il desiroit faire ;  
+Mes vainqueurs sont vaincus, et moy percé de coups,  
+Tout foible que j’estois je retournay chez nous.  
+Et si parmy mon sang mon ame n’est sortie,  
+Ce n’est pas que mon corps en chacune partie  
+Ne luy fournit assez de passage au besoin :  
+Mais c’est que de mon sort quelque Dieu prit le soin.  
+Estant presque eschappé de ce fatal orage,  
+Où ma vie en mon sang pensa faire naufrage ;  
+La peur d’une prison me fit sauver icy,  
+Où ma sœur avec moy voulut venir aussi,  
+Nostre Ayeul commandoit dedans cette Contrée,  
+Et c’est ce qui rendit nostre fuitte asseurée.  
+Depuis j’ai sçû qu’Elise estoit morte de dueil,  
+Ayant vû son espoux, et son fils au Cercueil :  
+Mais, ce qui plus m’estonne, elle a perdu la vie  
+Sans perdre toutefois sa haine et son envie.  
+On dit qu’estant malade, ou cedant à l’effort  
+De plusieurs maux divers qui causerent sa mort ;  
+Les yeux desja fermez, la chaleur presque esteinte,  
+Le corps blessé par tout d’une mortelle atteinte :  
+Bref, preste à rendre l’ame, et dont les déplaisirs  
+Se connessoient encor par quelques longs soûpirs,  
+Elle appela sa fille, et presque dans la Terre,  
+L’obligea de la sorte à me livrer la guerre.  
+Si vous m’aimez encore en l’estat où je suis,  
+D’une mourante Mere allegez les ennuis;  
+Jurez qu’à vostre Hymen nul ne pourra pretendre  
+Qu’en vous venant offrir la teste de Tersandre.  
+Claironde le promit, et sa Mere expira.  
+Elle a gardé depuis ce qu’elle luy jura.  
+Mais, grace aux Immortels, sa rigueur obstinée  
+N’a pû jusqu’à present forcer ma destinée ;  
+Ses Amans ont perdu ce titre glorieux,  
+Par l’effort de mon bras tousjours victorieux.  
+Me doy-je toutefois vanter de ces victoires,  
+Qui me font retracer nos tragiques histoires ?  
+
+Je t’empescheray bien d’en parler desormais,  
+Cruel.  
+
+        Puis qu’à present elle vous laisse en paix,  
+Je n’y songerois plus.  
+
+        En paix un homicide :  
+Justes Dieux.  
+
+        Le Destin du genereux Alcide  
+Me resout à la mort.  
+
+        Je te la porte aussi.  
+Barbare.  
+
+        Qui pourroit vous causer ce soucy ?  
+
+Meliarque, une femme à la mort me destine,  
+Qui pourroit l’empescher ?  
+
+        La Puissance divine.  
+
+J’en doute ; et puis mon sort n’est pas si cher aux Dieux.  
+
+Non lasche, apres les coups de ton bras furieux.  
+
+Bannissez loin de vous cette melancolie,  
+Dans laquelle vostre ame est presque ensevelie.  
+
+Le moyen, tout conspire à croistre mon tourment.  
+
+Cherchez dans la lecture un divertissement.  
+
+Helas ! il aideroit à nourrir ma tristesse.  
+
+Chassez donc par le jeu cette fascheuse hostesse.  
+
+Joüer, et contre qui ? tant de meurtres commis,  
+Ne me font visiter que par mes ennemis.  
+
+Quelque estrange mal-heur qui de prés vous pourchasse,  
+Vous ne pouvez haïr le plaisir de la Chasse,  
+Sçachant que le plus juste, et le plus grand des Rois,  
+Apres le Champ de Mars se plaist mieux dans les bois :  
+Joint qu’à ce passe-temps la saison vous convie.  
+
+Lucine, ce conseil seconde mon envie.  
+
+La Chasse, je l’avoue, a de charmans appas,  
+Et je hay mon humeur de ne l’y porter pas.  
+
+Démon, qui que tu sois, qui viens de l’en distraire,  
+Faut-il qu’à mon dessein je t’épreuve contraire.  
+
+Certes, si la Musique avec ses doux accens  
+Choque encor vostre esprit, et déplaist à vos sens,  
+Je vous croy mal-heureux.  
+
+        C’est un charme où j’incline  
+Presque dés le berçeau.  
+
+        C’est à ce coup, Lucine.  
+
+Mais il est mal-aisé de rencontrer icy  
+Ces divertissemens…  
+
+        Tersandre, qu’est-ce cy ?  
+Veillay-je, ou si je dors, d’où vient cette guiterre  
+Penduë à ce rameau, qui touche presque à terre ?  
+Approchons nous, de grace, et voyons de plus prés.  
+
+Feignons de reposer, ils tombent dans nos rets.  
+
+Dieux ! n’est-ce point icy le Palais d’une Fée,  
+Qui par enchantement nous represente Orphée ;  
+Voy-tu cét autre objet couché dans ce valon ?  
+Sous tant de Majesté, je croy voir Apollon.  
+
+Dans le ravissement d’une telle merveille,  
+Certes, encore un coup je doute si je veille.  
+Dieux ! de combien d’appas tous deux sont-ils pourvûs ?  
+
+Tirons nous à l’escart de crainte d’estre vûs ;  
+Peut-estre qu’au réveil, une douce harmonie  
+Interrompra le cours de ma peine infinie.  
+
+Confessez qu’à present le sort vous seroit doux,  
+S’ils vouloient accepter un logement chez vous.  
+
+Il m’offre en ce rencontre un bon-heur si visible,  
+Que pour les arrester je feray mon possible.  
+
+Il y faut proceder d’une bonne façon,  
+Pour ne leur point donner ny crainte ny soubçon.  
+
+Laisse m’en le soucy, mais préte un peu l’oreille,  
+Il me semble desja que l’un d’eux se réveille.  
+
+Allons, frere, il est temps de chercher le couvert.  
+
+Acceptez…  
+
+        Taisez-vous, vous serez découvert,  
+Et s’il doit exposer l’effet de sa science,  
+Vous l’en divertirez par vostre impatience.  
+
+Fait-il jour ?  
+
+        Reviens-tu du Royaume des Morts ?  
+Vrayment, c’est trop dormy, nous coucherons dehors.  
+
+Je songeois au matin, et croyois estre au gîte,  
+Mais…  
+
+        Attens toutefois, ou ne va pas trop vîte,  
+Je desire accorder, avant que de partir,  
+Cet aimable instrument qui nous peut divertir,  
+Lors qu’il nous ennuira dans nostre hostellerie,  
+Ta mort sera le prix de ma galanterie.  
+Prens congé de la vie,  
+Et ne te promets pas  
+D’éviter le trépas,  
+Puis qu’à ce juste coup la fureur me convie.  
+
+O Dieux ! je suis ravy de sa charmante voix.  
+
+Hâtons nous, je vous prie, et passons par ce bois.  
+
+Le voicy, faisons voir une mine hardie,  
+Qui ne tesmoigne rien de nostre perfidie.  
+
+Adorables Portraits de deux Divinites,  
+Qui vous conduit si tard en ces lieux écartez ?  
+Et quel noble dessein vous meut et vous engage  
+A vous y rendre seuls avec cet equipage ?  
+
+Nous estant égarez sur le déclin du jour,  
+Nous cherchons un logis attendant son retour.  
+
+Mon Chasteau n’est pas loin de ce lieu favorable,  
+Serais-je assez heureux qu’il vous fust agreable ?  
+
+Deux pauvres Estrangers errans au gré du Sort,  
+N’osent pas esperer…  
+
+        Ha, vous craignez à tort.  
+Sous quelques vestements qu’on cache sa naissance,  
+Tousjours l’air du visage en donne connoissance ;  
+Et cette Majesté qu’on voit sur vostre front,  
+Ne vous exposera jamais à cet affront.  
+
+Ce discours est fort beau, s’il estoit veritable :  
+Mais il ne parle point du lit ny de la table,  
+Nous en avons besoin ; adieu, permettez nous  
+De faire la retraitte autre part que chez vous.  
+
+Le bien que me promet vostre seule presence  
+Me défend de ceder à vostre resistance :  
+De grace, bannissez, la crainte et le soucy,  
+Et me faites l’honneur de sejourner icy.  
+
+Helas ! si tu sçavais quel dessein nous ameine,  
+Tu n’aurois pas pour nous ces soins ny cette peine.  
+
+Mais n’ayant pas l’honneur d’estre connus de vous,  
+Nous ne meritons pas un traittement si doux.  
+
+Par vostre noble aspect je puis assez connestre  
+Que dans un rang d’honneur le Sort vous a fait naistre,  
+Et pour le traittement il n’est que des Communs.  
+
+C’est vous importuner de vous estre importuns.  
+
+Enfin deust mon desir passer pour tyrannie,  
+N’esperez point ce soir une autre compagnie.  
+
+Bien donc, il faut ceder à la necessité  
+Qui nous force de faire une incivilité.   
+
+Insolens ennemis de ma nouvelle flame,  
+Fureurs, rages, transports,  
+Abandonnez mon Ame :  
+Et contre mon vainqueur cessez tous vos efforts ;  
+Ouy, ne m’inspirez plus le sang et le carnage ;  
+J’ai des sentimens plus humains,  
+Et je sens tomber de mes mains  
+Le fer que contre luy preparoit mon courage.  
+On ne peut l’offencer puis qu’un Dieu le défent,  
+Et l’Amour est plus fort, bien qu’il ne soit qu’Enfant.  
+En vain pour m’irriter vous le chargez de crimes,  
+Mon Amour les croit faux,  
+Ou les croit legitimes,  
+Et c’est l’allegement que je trouve à mes maux.  
+Je cesse d’accuser le bon-heur de ses Armes,  
+Mon destin me porte à l’aimer,  
+Et si ma voix l’a sçû charmer,  
+Mon cœur cede à son tour au pouvoir de ses charmes ;  
+Ne l’attaquez donc plus puis qu’un Dieu le défent,  
+Je sens l’Amour plus fort bien qu’il ne soit qu’Enfant.  
+Mais suivant le dessein d’une ame genereuse,  
+Doy-je pas estouffer  
+Qui me rend mal-heureuse,  
+Et donner le trépas à ce Monstre d’Enfer ?  
+Ha ! revenez, Fureurs, pour perdre ce vipere.  
+Revenez, rage, desespoir,  
+Et faites par vostre pouvoir  
+Que je vange sur luy le meurtre de mon Père.  
+Toutefois demeurez, un Dieu me le défent,  
+Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.  
+Quoy donc, je fausseray pour moins qu’une chimere  
+Le solemnel serment  
+Que je fis à ma Mere,  
+De le persecuter jusques au monument ?  
+Ha ! revenez, Fureurs, pour perdre ce Barbare ;  
+Revenez à moy mes transports,  
+Et renouvellez vos efforts,  
+Pour me resoudre au coup que mon bras luy prepare :  
+Toutefois demeurez, un Dieu me le défent,  
+Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.  
+Dieux ! quand tout s’offre à moy je manque de courage  
+Et ne me souviens plus  
+Que ce meurtrier nage  
+Dans des fleuves de sang par son bras répandus :  
+Ha ! revenez à moy pour perdre cet Infame ;  
+Haine, transports, rage, fureurs,  
+Et par un trépas plein d’horreurs  
+De son perfide corps allons arracher l’ame :  
+Toutefois demeurez, un Dieu me le défent,  
+Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.  
+Pourrois-je assassiner un homme que j’adore :  
+Mais puis-je conserver celuy qui seigne encore.  
+Arreste ma fureur, ouy, Tersandre me plaist,  
+Tout fier, tout criminel, et tout sanglant qu’il est :  
+Ouy, Tersandre me plaist, et la perfide lame  
+Qui perceroit son corps, iroit jusqu’à mon ame ;  
+Ouy, Tersandre me plaist, et par le mesme effort  
+Qui le feroit mourir je recevrois la mort.  
+
+Madame, desormais cessez d’estre affligée,  
+Tersandre ne vit plus, ma main vous a vangée.  
+
+O Dieux ! Que me dis-tu ?  
+
+        C’en est fait, il est mort,  
+Avisons maintenant à nous sauver au port.  
+
+Tersandre ne vit plus, et mon ame ravie  
+Croit commencer ma joye en finissant sa vie.  
+Tersandre ne vit plus, et tant de bon accueil  
+Ne t’a donc obligé qu’à le mettre au cerceuil.  
+Tersandre ne vit plus, et ta main meurtriere  
+Profanant ses appas l’a privé de lumiere.  
+O rage ! ô desespoir !  
+
+        Il falloit obéir.  
+
+Cruelle, dy plutost qu’il falloit me trahir,  
+Puisque dans les transports de mon ame agitée,  
+La Raison deffendoit que je fusse escoutée.  
+Tersandre par ta main vient d’estre assassiné ;  
+Est-ce là ce plaisir que tu m’as destiné ?  
+Encor pour ajouster à cette felonnie,  
+Je lis dessus ton front une joye infinie.  
+O crime détestable ! ô sensible douleur !  
+O de tous mes mal-heurs le plus cruel mal-heur !  
+Belle ombre qui des bords de l’Acheron t’approches,  
+Je te suis infidelle, et j’entens tes reproches :  
+Il est vray, j’ai promis que par le mesme effort  
+Qui te feroit mourir, je recevrois la mort,  
+Mais attens un moment, cette main criminelle  
+Qui seigne encor du coup me va rendre fidelle.  
+Sus donc, que tardes-tu, de m’entamer le sein ?  
+Obeïs derechef, puisque c’est mon dessein.  
+
+La Raison, dites vous, estant si transportée,  
+Deffend qu’en cét estat sous soyez escoutée.  
+
+O rigueur de mon sort ! ô contraires avis !  
+Et trop tost, et trop tard pour mon mal-heur suivis.  
+
+C’est encore assez tost, puisque ce cher Tersandre,  
+Si vous ne parlez bas vous pourroit bien entendre.  
+
+Cruelle, tu veux rire, et mon cœur ne vit plus.  
+
+Madame, terminez ces regrets superflus ;  
+Tersandre vit encore, j’ai respecté ses charmes,  
+Et je n’ay répandu pour son sang que des larmes.  
+
+O doux ravissement ! ô favorable erreur !  
+O bien-heureux effet d’une extréme fureur !  
+Mais dans les mouvemens de mon ame confuse,  
+Je crains, avec raison, que ce soit une ruse.  
+
+Non, non, rendez l’usage à vos sens interdis,  
+Et pour ne point douter de ce que je vous dis  
+Apprenez en trois mots le dessein de ma feinte ;  
+Repassant sur l’ennuy dont vostre ame est atteinte,  
+Et voyant que Tersandre en estoit le sujet,  
+J’allois executer ce damnable projet,  
+Pour finir vos douleurs par mon obéïssance ;  
+Lors que par un effet de la haute puissance,  
+Doutant que vous eussiez le mesme sentiment,  
+J’ay voulu m’éclaircir de vostre changement.  
+Que par mon faux rapport j’ay connu veritable,  
+Pardon de cette peur.  
+
+        Il est trop equitable.  
+
+Mais, Madame, apres tout, par quel enchantement  
+Passez-vous d’un extréme à l’autre en un moment ?  
+Et qu’est donc devenu ce furieux courage,  
+Qui ne s’entretenoit que d’espoir de carnage ?  
+Auriez vous bien laissé hors de cette maison,  
+La vangeance, la rage, avec la trahison ?  
+Sont-ce là les effets dont cette compagnie  
+Promettoit d’alleger vostre peine infinie ?  
+
+Lucine, tu le vois, le charmeur est charmé,  
+Et le plus resolu se trouve desarmé :  
+Mais, dis la verité, pouvois-je me deffendre  
+De ces traits glorieux que décoche Tersandre ?  
+Ses yeux dont les regards peuvent tout enflamer,  
+N’auroient-ils pas contraint Diane à les aimer ?  
+
+Ainsi que sa beauté, son merite est extréme.  
+
+C’est donc avec raison, Lucine, que je l’aime.  
+
+Il est vray : mais sortons de ces lieux enchantez,  
+Où nostre œil ébloüy ne voit que raretez ;  
+Et quoy que ces Amans ayent le don de se taire,  
+Cherchons dedans ce Parc quelque lieu solitaire ;  
+C’est là que sans témoins nous pourrons librement  
+Discourir des appas d’un objet si charmant.   
+
+Rens la bourse et l’argent, ou tu perdras la vie.  
+
+Traistres, si mon sort veut qu’elle me soit ravie,  
+Ce fer auparavant, que vous allez sentir,  
+Ira dans vostre cœur porter le repentir.  
+
+O Dieux ! ne voy-je pas quelqu’un qu’on assassine ?  
+
+Ils sont trois contre luy.  
+
+        Courons sur eux, Lucine.  
+
+C’est trop pour nous.  
+
+        Rentrons, il luy vient du secours.  
+
+Assassins, c’est icy le dernier vos jours.  
+Mais desja ces marauts ont gagné leur retraite.  
+
+Et vostre seul >aspect a causé leur défaite.  
+Jeune Mars, dont le cœur égale la beauté,  
+Apres ce noble effet de generosité ;  
+Je serois plus qu’ingrat si je n’avois envie  
+D’apprendre pour le moins de qui je tiens la vie.  
+
+Je croy, mon Cavalier, qu’en ce pressant mal-heur,  
+Vous la tenez du Ciel, et de vostre valeur.  
+
+Dites sans me flater d’une fausse vaillance,  
+Que je la tiens du Ciel, et de vostre assistance.  
+
+Pour me gratifier d’un titre avantageux,  
+Ne vous dérobez pas celuy de courageux.  
+
+Mais plustost…  
+
+        Laissons là ce discours de loüange,  
+Quel dessein vous ameine en ce païs estrange ?  
+Est-ce un desir de voir ? Ma curiosité  
+Peut-estre passera pour incivilité.  
+
+Ostez de vostre esprit ce soubçon qui m’offence,  
+Et puisque je doy tout à qui prend ma deffence,  
+Je vous diray, Monsieur, que deux Monstres sans yeux,  
+La Vangeance et l’Amour m’ont conduit en ces lieux.  
+Claironde est la Beauté par qui la Renommée,  
+M’apprenant son merite a mon ame charmée ;  
+D’où vient qu’à ce discours vous changez de couleur ?  
+
+Ce n’est pas ce discours qui cause ma douleur.  
+(Bas.) Soustiens moy Dorimon. Il en veut à Tersandre.  
+Et ce cruel m’attaque en venant me deffendre.  
+
+Si le mesme dessein les amenoit icy :  
+Mais ces jeunes Cadets n’ont pas un tel soucy.  
+
+Puisque dans ma douleur je sens quelque allegeance,  
+Nous ayant dit l’Amour, dites nous la Vangeance.  
+
+J’appris en mesme temps que la Belle s’offroit  
+Pour prix de la victoire, à celuy qui vaincroit  
+Son mortel ennemy qu’elle nomme Tersandre.  
+Voyant que par sa mort j’oserois y pretendre,  
+Je viens en ce païs, où j’ay sçû qu’il estoit,  
+Insolent du secours qu’un Demon luy prestoit :  
+Mais si dessus le pré je puis voir ce superbe,  
+Nous sçaurons rabaisser son orgueil dessous l’herbe.  
+
+Je m’offre pour second.  
+
+        Je n’en puis accepter.  
+
+Pourquoy ?  
+
+        Je veux tout seul mourir ou surmonter.  
+
+Si je suis inutile à vuider la querelle,  
+Au moins de vostre part souffrez que je l’appelle.  
+
+Puisque j’ay le mal-heur d’avoir perdu mes gens,  
+Souffrons mettre en effet ces discours obligeans.  
+Dans un doute incertain dont mon ame est saisie,  
+J’aurois peur d’abuser de vostre courtoisie.  
+
+Entre nous Cavaliers, tréve de Compliment,  
+Montrez moy le cartel et le lieu seulement.  
+
+Puisque de vos faveurs je ne puis me deffendre,  
+Sçachez qu’en ce Chasteau demeure ce Tersandre,  
+Et lisant ce papier, il connoistra soudain  
+Que j’ay l’amour au cœur, et l’espée à la main.  
+Pardon si je me sers de la franchise offerte.  
+
+Nous allons de ce pas travailler à sa perte.  
+Heureux d’estre chargez d’une Comission,  
+Qui prepare le prix à vostre affection :  
+Cependant donnez ordre à l’apprest necessaire.  
+
+Je vais prendre à la ville une armure ordinaire.  
+
+Dans une heure au plus tard serez vous par icy ?  
+
+Je n’y manqueray pas.   
+
+        Tu m’y verras aussi.  
+Mais cachons en ce lieu le dessein qui m’excite,  
+A perdre un Inconnu dont le zele m’irrite.  
+Lucine, que dis-tu de ce nouveau mal-heur ?545  
+
+Madame, esperez mieux de sa rare valeur.  
+
+C’est par là que le Sort pretend m’oster la vie :  
+Mais de peur qu’à Tersandre elle ne soit ravie,  
+Sans nous entretenir de ses charmants appas,  
+Empeschons bien plustost qu’il ne se batte pas.   
+
+Quel bon-heur, Meliarque, est au mien comparable ?  
+Pouvois-je désirer un Sort plus favorable ?  
+Que ce jeune Inconnu des accens de sa voix  
+Charme agreablement les soucis que j’avois,  
+La gloire d’Amphion, et du fameux Orfée,  
+Est par ses doux accords justement estouffée.  
+
+Je confesse avec vous qu’il a des qualitez  
+Qu’on ne peut trop loüer.  
+
+        Douces fatalitez  
+Qui venez mettre fin à mes peines diverses.  
+Que ce bien m’est aimable apres tant de traverses !  
+Je benis, juste Ciel, les maux que j’ay souffers,  
+Si cette Compagnie est le prix de mes fers.  
+
+La Nature épuisa ses plus rares merveilles,  
+Logeant par tout son corps des graces sans pareilles.  
+
+Et le Ciel prodigua ses plus riches tresors,  
+Pour luy faire un esprit digne d’un si beau corps.  
+
+N’aurions-nous pas raison de blâmer l’un et l’autre,  
+D’avoir mis en tous deux un sexe égal au nostre :  
+Car en fin cette douce et charmante façon,  
+Est le droit d’une fille, et non pas d’un garçon.  
+
+Que je serois content, si celle qu’Hymenée  
+Doit ranger avec moy sous mesme Destinée,  
+Estoit toute semblable, ou bien par accident  
+Avoit à tout le moins quelque air de Floridan.  
+
+Pour moy, de la plus belle on me verroit distraire  
+Pour une où je verrois un seul trait de son frere.  
+
+Helas ! il me souvient quand je le voy de prés,  
+Du frere de Claironde, il en a tous les traits ;  
+Et si par cette main il ne cessoit de vivre,  
+Je pourrois croire encor qu’il viendroit me poursuivre.  
+Mais desja le Soleil d’un visage riant  
+Commence à s’éloigner des portes d’Oriant ;  
+Allons voir si Morfée, exauçant ma priere,  
+A de ses trois Pavots délivré sa paupiere.  
+Dieux ! un Demon m’arreste, et je me sens surpris ;  
+Quel sujet de frayeur vient troubler mes esprits ?  
+D’où vient qu’à chaque pas je demeure et je tremble ?  
+Quoi ! je ne voy personne.  
+
+        Ils sont ailleurs ensemble,  
+Et ce matin si beau les aura fait sortir  
+Pour faire un tour de Parc.  
+
+        Ou plustost pour partir.  
+Ha ! c’est là de leur fuitte une preuve assurée :  
+Que mes felicitez sont de peu de durée !  
+Aimables Estrangers, pourquoy me fuyez-vous ?  
+Qui vous fait mépriser un traittement si doux ?  
+Est-ce un Arrest du Sort qui de moy vous separe ?  
+Est-ce un nouveau tourment que le Ciel me prepare ?  
+Helas ! ouy c’en est un de tous le plus cruel,  
+Et qui jusqu’à ma mort sera continuel :  
+O Destins rigoureux ! ennemis de ma joye,  
+Qui me privez d’un bien si tost qu’on me l’envoye ;  
+N’est-ce point à dessein que me l’ayant osté,  
+Je souffre plus de mal apres l’avoir gousté ?  
+Ha ! je n’en doute plus, la chose est trop certaine,  
+Je connois vos rigueurs, et vostre vieille haine ;  
+Aussi quelque bon-heur qui me vienne à present,  
+Je ne l’estimeray qu’un funeste present.  
+Mais que servent ces cris, et ces plaintes frivoles,  
+Les puis-je retreuver avecque des paroles ?  
+Non, non, il est besoin de marcher, de courir,  
+C’est là le seul moyen qui me peut secourir ;  
+Leur aimable entretien flatte trop mes supplices,  
+Pour ne pas rechercher ces innocens delices.  
+Amy, dans ce besoin ne m’abandonne pas,  
+Tasche à finir ma peine, et seconde mes pas :  
+Je vay voir dans le Parc, va battre la Campagne.  
+
+Ainsi fasse le Ciel que l’heur nous accompagne.   
+
+Clymene, que dis-tu de mon nouvel Amant ?  
+Est-il sous le Soleil un objet plus charmant ?  
+Et dans le sentiment de mon ame amoureuse,  
+S’il répond à mes vœux…  
+
+        Que vous serez heureuse :  
+Tous deux riches d’appas, et vos cœurs bien unis,  
+On vous croira Venus, qui charmez Adonis.  
+
+Croy-tu, sans me flatter, que ce bon-heur m’arrive ?  
+
+Est-il quelque mortel que vostre œil ne captive ?  
+Et voyant tant de cœurs que vous avez conquis,  
+Quelqu’un vous plairoit-il qui ne vous fust acquis ?  
+Non, Madame, croyez que Floridan est vôtre.  
+
+J’aimerois ce discours de luy mieux que d’un autre.  
+
+Si vous luy témoignez que sa discretion  
+L’honore d’une place en vostre affection,  
+Esperant de sa part une telle assurance,  
+Croyez que les effets suivront vostre esperance.  
+
+Mais de quelle façon luy feray-je sçavoir  
+Le triomphe qu’Amour sur moy luy fait avoir.  
+
+Eloquente des yeux, ainsi que de la bouche,  
+Laissez leur découvrir la douleur qui vous touche ;  
+Et si vostre Vainqueur n’entend point ce discours,  
+La voix, au pis aller, sera vostre recours.  
+
+Qu’à tes jeunes Conseils je me sens obligée ;  
+Desja de mon tourment, je suis toute allegée,  
+Et j’espere bien tostde tes inventions.  
+
+Madame, esperez tout de vos perfections ;  
+A vos charmans appas il n’est rien d’impossible,  
+Et ce cœur est à vous pour peu qu’il soit sensible :  
+Mais la crainte me reste en vous donnant l’espoir.  
+
+Tu n’en as point sujet, à ce que je puis voir.  
+
+Helas ! l’osay-je dire ?  
+
+        Ouy, parle sans contrainte.  
+
+D’un mesme mal que vous je sens mon ame atteinte.  
+
+Quoy, tu te laisses prendre à de mesmes appas ?  
+
+Ce m’est beaucoup d’honneur de marcher sur vos pas.  
+
+M’est-elle Confidente, ou si c’est ma Rivale ?  
+
+Qu’un poison amoureux est doux quand on l’avale !  
+
+Ces mots à double sens réveillent mon soucy,  
+Il faut m’en éclaircir tandis qu’elle est icy.  
+De sorte que ton coeur en un âge si tendre,  
+Desja du feu d’Amour se voit reduire en cendre :  
+Mais de ce beau charmeur ne sçay-je point le nom ?  
+
+Le diray-je, Madame : hé bien, c’est Dorimon,  
+C’est luy…  
+
+    Ne craignons plus.  
+
+        Mais je voy ce me semble  
+Monsieur et Floridan qui discourent ensemble.  
+
+Ouy, j’apperçoy l’objet de mon plus doux soucy.  
+
+Amour en soit loüé, le mien paroist aussi.   
+
+Nous ne meritons pas un soin si favorable.  
+
+Ouy, si je n’eusse fait ce rencontre agreable :  
+J’allois porter mes pas, par des chemins divers,  
+Aux lieux plus écartez de ce grand Univers ;  
+Et sans me reposer sur la Terre ou sur l’Onde,  
+Je vous aurois cherchez aux quatre coins du Monde.  
+
+Et si dans tous ces lieux vous n’eussiez rien treuvé ?  
+
+C’est lors que j’eusse pris un vol plus eslevé,  
+Et que vous estimant les vrais fils de Cythere  
+J’eusse esté vous chercher au Ciel de vostre Mere.  
+
+Quoy que ce beau séjour soit assez éloigné,  
+Sa sœur pour ce sujet l’auroit accompagné.  
+
+Madame, je rougis de tant de complaisance,  
+Me voyant sans merite, et mesme sans naissance ;  
+Quel service assez grand pourra bien m’acquiter,  
+Avant que le Destin me force à vous quiter.  
+
+Nous quiter. Ha ! ce mot sensiblement me touche ;  
+Qu’il ne parte jamais de vostre belle bouche :  
+Mais afin d’obliger un coeur qui vous cherit,  
+Que ce dessein plustost sorte de vostre esprit.  
+
+Ouy, de grace, éloignez un dessein si funeste,  
+Et ne nous privez pas du seul bien qui nous reste.  
+
+Endurer si long temps nos importunitez,  
+Ce sont les doux effets de vos civilitez :  
+Mais pour nous revancher d’un si loüable office,  
+Au moins employez nous à vous rendre service.  
+Nous sommes tout à vous.  
+
+        Dieux ! que d’humilité,  
+Et que de complaisance avec tant de beauté ;  
+De moment en moment je me sens enflamée,  
+Par le feu de ses yeux dont mon ame est charmée.  
+
+Que vous nous obligez par ce consentement !  
+Ma Sœur, je vous procure un divertissement.  
+
+Et quel ?  
+
+        Celuy d’oüir l’harmonie excellente  
+D’une douce guiterre, et d’une voix charmante.  
+
+Vrayment vous m’obligez.  
+
+        Ha ! n’en croyez pas tant.  
+
+Elle est auprés du lit.  
+
+        Je l’apporte à l’instant.  
+
+Je n’espere pas moins que de rares merveilles.  
+
+Il sçait l’Art de ravir le cœur par les oreilles.  
+
+Ses yeux mieux que sa voix me l’ont desja ravy,  
+Et dessous leur pouvoir il se trouve asservy :  
+Mais, comme si ce cœur refusoit de se rendre,  
+Voicy d’autres moyens pour l’achever de prendre.  
+Vous pouvez maintenant contenter nos desirs,  
+Et par ce doux concert nous combler de plaisirs.  
+
+Je serois vain, Madame, autant que temeraire,  
+Si j’osois aspirer à l’honneur de vous plaire :  
+Mais je seray content, et plus que satisfait,  
+Si mon obeïssance obtient le mesme effet.  
+
+Ce que vous obtenez passe vostre esperance.  
+
+Je vay donc obeïr avec plus d’assurance.  
+Tiens toy seur de la vie,  
+Et n’apprehende pas  
+D’encourir le trépas,  
+Puis qu’à te conserver mon Amour me convie.  
+
+O Dieux ! Je suis charmée.  
+
+        Autant que vostre voix,  
+L’instrument me ravit, animé sous vos doigts.  
+
+Il me restoit encore à publier moy mesme  
+Ces défaux inconnus.  
+
+        Tels qu’ils sont je les aime.  
+
+Je suis bien redevable à l’extréme bonté  
+Que vous me tesmoignez sans l’avoir merité.  
+
+Mais je ne songe pas que levé dés l’Aurore,  
+Il vous seroit besoin de reposer encore,  
+Vous plaist-il faire un somme attendant le repas ?  
+
+Vous avez trop de soin pour qui ne le vaut pas.   
+
+Puissant Dieu du Sommeil, en vain tu veux m’abattre,  
+Je ne sçaurois dormir lors que je doy combattre ;  
+Mars me donne un employ meilleur que ton repos,  
+Et j’estime un Laurier plus que tous mes Pavots ;  
+Il faut vaincre ou mourir où ce Dieu nous appelle,  
+Nostre mort en ce lieu ne peut estre que belle ;  
+Et si mon bras terrace un Barbare amoureux,  
+On parlera par tout de ce coup genereux.  
+Ouy, les neveux diront, apprenant mon histoire,  
+Elle estoit de son sexe, et l’honneur et la gloire.  
+Mais, lasches sentimens d’un amour aveuglé,  
+Où portez vous mon coeur que vous avez troublé ;  
+Perdre un jeune Heros dont je me vois aimée  
+Seulement par le bruit que fait ma renommée,  
+Qui s’expose au combat pour mes seuls differens,  
+Et qui vient pour vanger la mort de mes parens.  
+Amour, pardonne moy si je n’y puis entendre :  
+Mais il s’est declaré l’ennemy de Tersandre.  
+Allons sans plus tarder acquerir du renom,  
+Il faut dans ce combat signaler nostre nom ;  
+Et sans considerer qu’il vient pour ma deffence,  
+Le faire repentir d’un dessein qui m’offence.  
+Comme tout à propos, dans cét appartement,  
+Je trouve ce qu’il faut pour mon déguisement,  
+Avec ce casque en teste, et sous cette cazaque,  
+Je sembleray Tersandre, à celuy qui l’attaque,  
+Et mon cruel Amant croira voir son Vainqueur,  
+Il n’en sera pas loin puisqu’il est dans mon coeur ;  
+C’est luy qui conduira cette main vangeresse ;  
+Luy qui me donnera la force avec l’adresse  
+D’achever le Destin de cét Hydre puissant,  
+Moy par qui tant de fois on l’a vû renaissant :  
+Mais, puis qu’en cét estat je suis méconessable,  
+Hastons nous d’occuper une place honorable ;  
+Execute, mon bras, mon coeur te l’a permis,  
+Ce que trois assassins auroient sans toy commis.  
+Qu’il meure, ce Barbare, ennemy de ma joye,  
+Il faut que dans son sang mon déplaisir se noye ;  
+Tu sçais depuis long temps ce mestier genereux,  
+Et que tes moindres coups sont tousjours dangereux.  
+Mais j’apperçoy desja ce superbe Aversaire,  
+En faveur de l’Enfant dont tu cheris la Mere.  
+Preste moy ton secours, puissant Dieu des combats,  
+Et fay qu’au premier coup ce Monstre tombe à bas.  
+
+Est-ce toy, criminel ? Est-ce toy, temeraire ?  
+
+Est-ce toy, meurtrier ? Est-ce toy, sanguinaire ?  
+
+Ces Complimens à part, voyons à qui le sort  
+Dans ce duel égal a preparé la mort.  
+Hé bien, mon Cavalier, en l’estat où vous estes, 775  
+Approuvez-vous encor le combat que vous faites ?  
+Soustenez vous Claironde, et son mauvais party ?  
+
+De l’erreur où j’estois je me treuve sorty ;  
+Je la soustiens, pourtant, non comme vangeresse,  
+Le Ciel me le défend, mais comme ma Maistresse ;780  
+Et quoy que le hazard, plustost que vostre effort,  
+Ait mis tout mon espoir à deux doigts de la mort ;  
+Je seray trop heureux, si vous m’ostez la vie,  
+Que pour un tel sujet elle me soit ravie.  
+
+Amant trop genereux, vôtre insigne vertu785  
+Releve hautement vôtre corps abbatu ;  
+Et je voudrois plûtost, d’une belle esperance,  
+Pouvoir favoriser cette perseverance.  
+
+Si j’ay quelque vertu, j’ay bien plus de bon-heur,  
+C’est par luy seulement que j’obtiens tant d’honneur :790  
+Mais avant mon départ de ce lieu si propice,  
+Je prétens vous offrir mon tres-humble service,  
+Dedans vostre Château, si vous le permettez.  
+
+Vous y serez reçeu comme vous meritez,  
+Et c’est une faveur dont mon coeur vous conjure.795  
+
+Ouy, j’irai reparer une si lasche injure.  
+
+De quelle fermeté ne me puy-je vanter,  
+Si l’extréme peril n’a sçû m’épouvanter ?  
+Aussi l’heureux succés. Mais, voy-je pas Lucine ?  
+Abaissons la visiere, et tenons bonne mine. 800  
+
+D’un secret sentiment mon esprit agité,  
+Me fait croire le coup dont il s’estoit douté.  
+Ce n’est pas sans dessein que Claironde est sortie,  
+De l’humeur dont elle est, sans m’avoir avertie.  
+Tout cela m’est suspect, et j’attens de ma peur805  
+Un effet que le Ciel vueille rendre trompeur.  
+Mais que fait ce guerrier dans cette solitude,  
+Seroit-ce point l’autheur de mon inquietude,  
+Et de qui le Cartel me cause tant d’ennuy ?  
+Approchons hardiment, et sçachons si c’est luy.810  
+Mon brave.  
+
+    >Que veux-tu ?  
+
+        Dieux ! Je parle à Claironde :  
+O courage incroyable ! Ô Fille sans seconde !  
+Madame, hé quel dessein par ce déguisement ?  
+
+Vaincre, comme j’ay fait, ce temeraire Amant,  
+Apres une si belle, et si noble conqueste,815  
+As-tu là des Lauriers pour couronner ma teste !  
+
+Pour bien recompenser cét acte genereux,  
+Il faut joindre aux Lauriers les Myrthes amoureux ;  
+Et que deux Deïtez secondent vôtre attente,  
+Par le prix d’un Vainqueur, et celuy d’une Amante.  
+
+Tersandre mon espoir, je ne veux que ton coeur,  
+Qu’il soit le prix d’Amante, et celuy de Vainqueur ;  
+Je croy que c’est un bien auquel je puis pretendre :  
+Est-il mieux dû qu’à moy qui viens de le deffendre ?  
+
+Mais comment, et de qui le pourra-t’il sçavoir ?825  
+
+De son propre ennemy qui doit le venir voir,  
+Croyant que ce soit lu… Dieux ! Je le voy parestre.  
+
+Ne vous éloignez pas, il ne vous peut connestre ;  
+Et pour luy faire un tour dont il sera deçû,  
+Donnez moy le Cartel que vous avez reçû,830  
+Aussi bien est-ce à luy que ce papier s’adresse.  
+
+Conduy donc cette affaire avec beaucoup d’adresse.   
+
+Je vous y prens, Monsieur, que faites-vous icy ?  
+
+J’y cherche Floridan.  
+
+Je le cherchois aussi.
+Mais il faut qu’il ait pris une route inconnuë.835  
+
+Quel sort injurieux le cache à nostre veuë ?  
+
+Solitaire qu’il est, et d’humeur à réver,  
+Je croy que dans ce Parc nous le pourrions treuver,  
+
+J’approuve cét avis, allons-y donc ensemble.  
+
+Bon (Elle dit ce premier mot bas), qu’apercevez-vous ?  
+
+        Un guerrier, ce me semble.840  
+
+O sinistre mal-heur ! ô fascheux accident !  
+
+Quel mal-heur ? N’est-ce point un nouveau prétendant ?  
+Un de ces aveuglez, que l’Amour enveloppe  
+Dans le party fatal de nostre Penelope,  
+Et qui vient pour donner ou recevoir la mort ?845  
+
+Je ne sçaurois juger qui de vous deux a tort,  
+Par ce discours obscur que je ne puis comprendre.  
+
+En vain vous me celez ce que je puis apprendre ;  
+Ou dites-moy qui c’est, ou je le vay treuver.  
+
+Vous jugez à peu prés ce qui doit arriver,850  
+Et puis qu’il faut icy vous declarer le reste ;  
+Vous le pourrez sçavoir de ce papier funeste,  
+Que je me suis chargé de vous faire tenir.  
+
+Apres avoir détruit une illustre famille,  
+Tu ne merites pas de respirer le jour ;855  
+Je viens te le ravir, pour vanger une Fille  
+Qui sera par ta mort le prix de mon Amour.  
+
+Qu’il attende un moment, je m’en vay revenir.  
+
+Cours vîte l’arrester, et fay si bien en sorte  
+Que je puisse avant luy rentrer par l’autre porte ;  
+Ce harnois, dont sans doute il se sert aux combats,  
+Me pourroit descouvrir s’il ne le trouvoit pas.   
+
+Vous qui de l’Innocent embrassez la deffence,  
+Justes Dieux, je connois maintenant mon offence ;  
+Et pour avoir permis ce qui m’est arrivé,  
+Je recouvre le sens duquel j’estois privé.  
+Tersandre est genereux, et Claironde est cruelle,  
+Devoy-je soustenir son injuste querelle ?  
+Devoy-je lui préter mes armes et ma main ?  
+Non, non, comme son coeur, cét acte est inhumain.  
+J’avois tort d’attaquer un si noble courage ;  
+J’avois tort de servir l’insatiable rage  
+D’une Fille insolente, et dont la cruauté  
+Devoit m’estre un obstacle à cherir sa beauté.  
+Donques de mon esprit effaçons son image,  
+A qui mal à propos mon coeur rendoit hommage ;  
+Et dans le repentir d’un injuste duel,  
+Choisissons pour amy son ennemy mortel ;  
+Aussi bien j’ay promis de luy rendre Visite,  
+C’est le moins que je doive à son rare merite.  
+Dieux, qu’est-ce que je voy ! Si mon œil n’est charmé,  
+C’est luy mesme ; d’où vient qu’il est encore armé ?  
+Sans doute un autre Amant l’oblige à se deffendre.  
+Offrons luy nostre bras.  
+
+        Hé quoy, brave Tersandre,  
+Aurez-vous donc tousjours les armes à la main,  
+Pour repousser l’effort de cét Hydre inhumain ?  
+
+Amy, c’est à ce coup qu’éclatera ma rage,  
+Et que ma cruauté passera mon courage,  
+Afin que desormais ces Amans refroidis,  
+A venir m’attaquer ne soient plus si hardis ;  
+J’assure mon repos par ce coup necessaire.  
+
+Pour moy de son Amant je deviens aversaire ;  
+Et pour vous tesmoigner que je dis verité,  
+Je m’offre pour second contre cette Beauté.  
+
+Quel estrange discours a frappé mes oreilles ?  
+N’est-ce point le sommeil qui produit ces merveilles ?  
+Vous, l’Amant de Claironde ; est-ce vous que l’Amour  
+Avoit conduit icy pour me ravir le jour ?  
+Qui vous estes servy pour faire ce message,  
+D’un jeune Gentil-homme assez beau de visage ?  
+
+Moy mesme contre qui vous vous estes battu,  
+Et que le juste Sort a sous vous abbatu.  
+
+Moy, je me suis battu ? C’est trop m’en faire accroire.  
+
+L’un de nous est privé de sens ou de memoire.  
+Ne vous souvient-il plus que prest à vous quitter,  
+Je promis qu’au Château j’irois vous visiter ?  
+
+J’ignore ce mystere, et je ne puis comprendre  
+Comment l’un de nous deux se peut ainsi méprendre.  
+Je ne vous vis jamais, et vous m’avez promis  
+De venir au Château. Quoy, serions-nous amis,910  
+Mesme sans nous connoistre ?  
+
+        Ha, quelqu’un nous abuse :  
+Mais je sçay le moyen de descouvrir sa ruse.  
+Voyons si le Cartel est écrit de ma main.  
+
+L’Autheur avoit l’Amour et la vangeance au sein ;  
+Voyez si je me trompe, et si ces Caracteres  
+A vos sens ébaïs passeront pour chimeres.  
+
+Certes c’est maintenant que j’ay perdu l’esprit,  
+Où je lis un discours que j’ay moy mesme écrit.  
+
+Ce qui devoit servir à dissiper l’ombrage,  
+Nous cache plus la chose, et broüille davantage ;  
+Pourtant, il n’en faut pas demeurer à ce point.  
+Nous sommes trop avant pour ne poursuivre point  
+Celuy qui dit de vous avoir pris cette Lettre,  
+Croyez vous que vos yeux le peussent reconnoistre ?  
+
+J’oserois bien jurer que sans m’estre montré,  
+Aussi tost l’avoir vû je le reconnestré.  
+
+Pour nous tirer tous deux de cette incertitude,  
+Qui nous pourroit causer beaucoup d’inquietude ;  
+Faites moy la faveur de venir avec moy,  
+Nous serons éclaircis à ce que je prévoy.  
+
+Hé bien, de nostre tour aurons-nous bonne issuë ?  
+
+J’ay remis tout mon fait sans qu’il m’ait apperçuë ;  
+Apres, d’un Cabinet à propos rencontré  
+Par quelques aix mal joints j’ay vû qu’il est entré ;  
+Et comme il s’est vestu de la mesme cazaque.935  
+
+Quand il serait plus fin que le Prince d’Itaque,  
+Je croy que de l’Autheur il ne se peut douter.  
+
+Mais quel bon artifice, afin de l’arrester  
+Dans un temps si pressant, as-tu mis en usage ?  
+
+Je commence mon jeu par un triste visage ;940  
+Apres, pour feindre mieux, d’un esprit irrité  
+J’accuse vôtre humeur d’extréme cruauté ;  
+Et voulant contre vous tesmoigner plus de rage,  
+J’offris pour le servir mon bras et mon courage.  
+
+Et s’il t’eust prise au mot ?  
+
+        Mon esprit combattu,945  
+De ce coup necessaire eust fait une vertu.  
+
+Ouy, car dans ce duel tu n’avois rien à craindre.  
+
+N’estoit-ce pas assez puisque j’avois à feindre.  
+
+Et tu le fais si bien quand tu veux tesmoigner  
+Que seule dans ton coeur Clymene peut regner.950  
+
+A propos de Maistresse, il faut que je vous blâme  
+D’estre prés de la vostre avec si peu de flame ;  
+Elle brule pour vous d’un feu continuel,  
+Et vous luy refusez un Amour mutuel.  
+Ha ! c’est trop d’injustice, et trop d’indiference955  
+Payez-la pour le moins d’une belle apparence,  
+Puisque vous ne pouvez la contenter d’effet.  
+
+Lucine, montre moy le don qu’elle t’a fait,  
+N’en as-tu pas reçeu pour parler de la sorte ?  
+Je juge à ton discours que la chose t’importe.960  
+
+Celle pour qui je feins de l’inclination,  
+Me fait executer cette Commission ;  
+En un mot, c’est Clymene, à qui vôtre Maistresse  
+Parle confidamment de l’ardeur qui la presse,  
+Et qui par son moyen espere du secours ;965  
+C’est à vous maintenant que nous avons recours,  
+Traitez plus doucement une si belle Amante.  
+
+Ha ! qu’il parest icy que rien ne te tourmente ;  
+Car si tu ressentois la moitié de mon mal,  
+On te verroit moins gaye, et l’esprit moins égal.970  
+
+Quoy donc : vous nommez , mal , des vœux et des caresses  
+Qui s’adressent à vous pour finir vos tristesses.  
+
+Ces caresses, ces vœux et tous ces complimens  
+S’adressent moins à moy qu’à mes faux vestemens.  
+
+Taisons-nous, j’apperçoy Flaviane et Clymene975  
+Qui se viennent conter leur amoureuse peine.  
+
+Cette pâle couleur dont le visage est peint,  
+Montre assez de quel mal leur coeur se trouve atteint.   
+
+Madame, d’où vous vient ce trouble extraordinaire ?  
+
+D’une Fille, ou plustost d’un Monstre sanguinaire.980  
+
+Ha ! chassez ce penser.  
+
+        Je ne puis l’oublier.  
+
+Pourquoy ?  
+
+        J’ay vû mon frere avec un Cavalier,  
+De qui le procédé m’est de mauvais augure.  
+
+C’est trop s’épouvanter sur une conjecture,  
+Peut-estre est-ce quelqu’un qui cherche avecque luy985  
+Le moyen de finir ses maux, et vostre ennuy,  
+Et l’accueil qu’ils se font m’est un meilleur presage.  
+
+Ha ! l’on voit trop souvent que sous un gay visage  
+On cache des desseins funestes et cruels,  
+Et principalement ceux qui font les duels ;990  
+Ainsi leur bon accueil ne détruit pas ma crainte.  
+
+Allez flatter le mal dont son ame est atteinte.  
+
+Allons, et paroissons moins charmeurs que charmez.  
+
+On vient à nous, hé Dieu ! Ce sont nos bien-aimez  
+Qui viennent à propos pour nous tirer de peine.995  
+
+Quel Destin favorable en ce lieu nous ameine ?  
+ 
+Le bien de ce rencontre est pour nous seulement.  
+
+Ha ! Ne nous privez pas d’un bon-heur si charmant :  
+Mais si vous ne trouvez ma demande importune,  
+D’où vient que vostre front tesmoigne une infortune ?  
+Est-ce mon frere ou moy qui vous causons ce mal ?  
+Et nostre seul aspect vous est-il si fatal ?  
+
+Bien que l’extréme peur dont mon ame est gesnée,  
+A vostre seul aspect doit estre terminée ;  
+Ou que pour vous donner plus de contentement,  
+Je deusse vous cacher l’excés de mon tourment ;  
+Si ne puy-je pourtant que je ne vous declare  
+La crainte que me donne une fille barbare,  
+Dont les lasches Amans se font, pour sa beauté,  
+Ministres de sa rage, et de sa cruauté.  
+
+Est-ce à vous qu’elle en veut ? Je prens vôtre défence,  
+Et m’offre de punir une telle insolence :  
+Commandez seulement que je l’aille étouffer.  
+
+Elle en veut bien à moy cette peste d’Enfer,  
+Puisque faisant mon frere objet de leur conqueste,  
+Au bout d’un fer sanglant elle veut voir sa teste :  
+Mais traistre, si tu viens seconder son dessein,  
+Je jure de te mettre un poignard dans le sein,  
+En deussay-je mourir, nous perirons ensemble ;  
+Et si là bas encor le Destin nous assemble,  
+Mon ombre furieuse au milieu des Enfers  
+Te tourmentera plus que les feux et les fers.  
+
+Qui donc nommez-vous traistre ?  
+
+        Un jeune Gentil-homme,  
+Je ne sçay quel il est, ny comment il se nomme :  
+Mais j’ay vû qu’à mon frere il parloit d’action,  
+Et je crains qu’un Appel soit sa Commission.  
+
+Si j’apprens qu’il ait fait une telle entreprise,  
+Je sçauray l’empescher par force ou par surprise ;  
+Tenez pour assuré ce que je vous promets,  
+Et s’il n’arrive ainsi ne m’estimez jamais.  
+
+Tygresse qui ne vis que de fiel et d’envie,  
+Donques tant de combats ne t’ont point assouvie ?  
+Donques l’ardante soif qui te brule le coeur  
+S’augmente d’autant plus que mon frere est vainqueur ;  
+Et sans craindre du Ciel l’equitable colere,  
+Tu veux l’oster des mains de son Dieu tutelaire ?  
+Lasche qui ne sçais pas que contre un innocent  
+Quelque effort que l’on fasse, est tousjours impuissant.  
+Donques pour accomplir ton serment execrable,  
+Tu veux boire son sang, Pantere abominable,  
+Et n’éteindre jamais que dans cette liqueur  
+Le funeste brasier qui t’enflame le coeur ?  
+Mais sçaches que l’effet de ce vœu sanguinaire  
+Te coustera la vie aussi tost qu’à mon frere :  
+Ouy, ne te promets pas de survivre un moment  
+Celuy que ta fureur veut mettre au monument,  
+Un mortel ennemy te reste en ma personne,  
+Et pour te déchirer je deviendray Lionne :  
+Monte pour te sauver dedans le Firmament,  
+Son signe en ma faveur agira puissamment ;  
+Cache toy si tu veux au centre de la Terre,  
+Je sçay trop le moyen de t’y porter la guerre ;  
+Va chercher un azile au plus creux de la Mer,  
+Le feu de ma colere ira t’y consommer ;  
+Descens dans les Enfers pour eviter ma rage,  
+Ton ombre sentira l’effort de mon courage ;  
+Ainsi dans quelque lieu que te souffre le Sort,  
+Tu ne peux eviter le supplice ou la mort.  
+
+Ressentimens, courroux, transports, fureurs, audace,  
+Faisons la repentir de sa fiere menace :  
+Mais le coup de sa mort me perd en la perdant ;  
+Amour console moy dans ce triste accident.  
+
+Voyez qui vient à nous.  
+
+        Madame, c’est Tersandre  
+Avec ce Cavalier: mais laissons nous surprendre.   
+
+Enfin nostre bon-heur nous le fait rencontrer.  
+
+Ce n’est pas celuy-là que je veux vous montrer.  
+
+C’est luy mesme pourtant, si mon œil ne s’abuse,  
+Qui peut rendre le jour à mon ame confuse,  
+Et nous tirer tous deux d’un extréme soucy,  
+Ayant reçeu de moy le papier que voicy.  
+
+Loin de perdre celuy dont mon ame est atteinte,  
+Je descens plus avant dedans ce labyrinthe ;  
+Vous l’avez, dites vous, chargé de cét Appel ?  
+
+Luy mesme s’est offert à porter le Cartel.  
+
+Il me vient toutefois de la main de son frere :  
+Mais apprenons de luy comment va cette affaire.  
+Icy, cher Floridan, je vous treuve à propos,  
+Et pour vôtre descharge, et pour nostre repos.  
+
+Si c’est pour vous servir la rencontre est heureuse.  
+
+Nous apprendre une chose incertaine et douteuse,  
+Qui nous couste desja tant de pas et de vœux,  
+Est en quoy vous pouvez nous obliger tous deux.  
+
+Dites moy quelle elle est, si j’en ai connessance,  
+Je vous satisferay de toute ma puissance.  
+
+Apres avoir tiré d’un effort genereux  
+D’entre trois assassins ce guerrier valeureux,  
+Vous ayant declaré qu’un dessein de vangeance  
+L’obligeoit à me voir armé pour ma deffence ;  
+L’avez-vous pas contraint à vous faire porteur  
+De ce fatal écrit dont il estoit l’autheur ?  
+
+Il est vray, je m’offris de le porter moy-mesme,  
+Me défiant d’un autre en ce peril extréme :  
+Mais c’estoit à dessein d’empescher ce combat.  
+
+D’un excés de plaisir le coeur au sein me bat.  
+
+Quel est donc cét Amy qu’une vaillante audace  
+A fait dans ce duel s’emparer de ma place ?  
+
+Quelqu’un s’est-il battu ?  
+
+        Vous changez de couleur ;  
+Craignez-vous d’avoüer vostre insigne valeur ?  
+Ha ! ne rougissez point si ce n’est de ma honte.  
+
+Quoy que ce traistre sang au visage me monte,  
+Son effet passe-t’il pour un signe assuré,  
+Que je sois l’ennemy qu’il a vû sur le pré ?  
+
+Vous sçavez comme nous qu’il est de sa nature  
+Le veritable appuy de nostre conjecture :  
+Mais sans vous eschapper par ce raisonnement,  
+D’un si digne combat parlez nous franchement.  
+
+Puis qu’il faut declarer ce que je voulois taire ;  
+Il est vray que c’est moy qui fus son aversaire,  
+Piqué des vains discours de ce mesme guerrier  
+Qui pretendoit cueillir un injuste Laurier.  
+
+Quoy, pour me mettre au Port, s’exposer à l’orage,  
+Aviez-vous peur en moy d’un manque de courage ?  
+Craigniez-vous que mon bras ne fust pas assez fort ?  
+Et que je succombasse à ce dernier effort ?  
+
+Les preuves de valeur que vous avez renduës ;  
+Ces rivieres de sang justement respanduës,  
+Et tant de beaux exploits, dont on m’a fait recit,  
+Pouvoient de cette peur delivrer mon esprit ;  
+Aussi ne croyez pas que pour vostre deffence,  
+Je me sentisse atteint de cette défiance ;  
+Plutost j’avois dépit que ce nouvel Amant  
+Osa vous attaquer si fort insolamment ;  
+Et pour mettre un obstacle à sa funeste envie,  
+J’exposerois encore, et mon sang et ma vie :  
+Heureux si je mourois les armes à la main,  
+Ayant rompu l’effet de son mauvais dessein.  
+
+Ce genereux discours ne sert qu’à me confondre.  
+
+Surpris, confus, ravy, je ne sçay que respondre.  
+
+Incomparable Amy qui nous prestez secours  
+Sans nous l’avoir promis par quelques vains discours,  
+Qui croira desormais vos promesses frivoles,  
+Voyant que les effets precedent vos paroles ?  
+
+Aimable Floridan, protecteur courageux,  
+Que vous avez rendu mon Sort avantageux,  
+Et que je doy benir le moment favorable,  
+Qui me fit rencontrer un bras si secourable.  
+
+Et moy que par deux fois vous avez obligé  
+Dans le peril de mort où j’estois engagé,  
+Quels devoirs assez grands faut-il que je vous rende,  
+Qui puissent m’acquitter d’une faveur si grande ?  
+
+Estre pour mon devoir si dignement traité,  
+Me faire tant d’honneur, sans l’avoir merité,  
+C’est payer peu de chose avec beaucoup d’usure,  
+Ou me recompenser d’une faveur future.  
+
+Certes, cher Floridan, il n’appartient qu’à vous  
+D’estre vaillant et beau, galand, modeste et doux,  
+Et comme ces vertus sont rarement ensemble,  
+Aussi n’est-ce qu’en vous que le Ciel les assemble.  
+
+On ne peut dire assez, parlant des beaux tresors  
+Dont il vous a pourvû l’esprit comme le corps ;  
+Et vos perfections vous donnent la licence  
+D’assurer que d’un Dieu vous tenez la naissance.  
+
+Ce titre glorieux qui me rend tout confus,  
+Flatte trop mon esprit pour en faire refus,  
+Et malgré mes défauts il faudra que j’avouë  
+Que je suis quelque Dieu puis qu’un Ange me louë.  
+
+Vrayment voila railler avec tant de douceur  
+Qu’on ne se peut fascher contre un si beau gausseur ;  
+Espargnez, toutefois, celle qui vous estime,  
+Et ne me flattez point d’un titre illegitime.  
+
+Si les puissans attraits d’une rare Beauté  
+Eslevent à l’honneur de cette dignité,  
+Ce n’est pas vous flatter d’une injuste loüange,  
+De publier icy que vous estes un Ange.  
+
+Si la fiere Beauté, dont le charme vainqueur  
+Vous a troublé les sens, vous a ravy le coeur,  
+Oyoit vostre discours si plein de courtoisie,  
+Elle auroit bien sujet d’entrer en jalousie.  
+
+L’adorable Beauté, dont le charme vainqueur  
+A mes sens enchantez, et m’a ravy le coeur,  
+M’écoute proferer ce discours veritable,  
+Et ne s’en fasche point le jugeant équitable.  
+
+Sortons, cét équivoque est par trop hazardeux,  
+Laissons-les quelque temps s’entretenir tous deux.  
+
+Ces mots cachent un sens difficile à comprendre.  
+
+Consultez vos beaux yeux ils pourront vous l’apprendre.  
+
+On ne consulte point des muets ny des sours :  
+Mais pour vous descouvrir celuy de mon discours  
+Je parle de Claironde.  
+
+        Et moy, de vous, Madame,  
+Qui seule absolument regnez dedans mon ame.  
+Pardonnez ces transports à ma sainte amitié,  
+Et rendez vous sensible aux traits de la pitié ;  
+Je sçay que j’ay failly dans le dessein barbare,  
+Qui m’a fait attaquer une vertu si rare :  
+Mais puisque dans mon coeur rien ne vous est secret,  
+Vous sçavez bien aussi quel en est mon regret.  
+
+Vous m’obligez beaucoup.  
+
+        Que ne vous ay-je veuë  
+Avec tous ces appas dont vous estes pourveuë ;  
+Vous m’auriez fait tomber les armes de la main,  
+Et rompre au mesme instant ce projet inhumain.  
+
+Puisque vostre combat s’est passé de la sorte,  
+Ma haine en vostre endroit ne doit pas estre forte,  
+Et vos ressentimens appaisent mon courroux.  
+
+Ce changement heureux rend mon destin plus doux :  
+Mais quelque grand bon-heur qui suive ma défaite,  
+Je ne sçaurois gouster qu’une joye imparfaite,  
+Si je n’obtiens de vous, pour comble de plaisirs  
+L’honneur de vous servir, où buttent mes desirs.  
+
+Je me connois, Monsieur, trop peu considerable  
+Pour meriter jamais un Sort si favorable :  
+Aussi ne croy-je pas que vostre intention  
+Me fasse icy l’objet de vostre affection.  
+
+Je n’en connois pas un qui charme mieux les ames,  
+Et les fasse languir en de plus douces flames.  
+
+Je ne puis que respondre à vos civilitez,  
+Mon frere sçaura mieux ce que vous meritez :  
+Mais qu’est-il devenu ? vostre cajolerie  
+A duré plus long temps par sa galanterie.  
+Vous plaist-il qu’au logis nous l’allions retreuver ?  
+
+Par tout, et devant tous, vous pouvez m’épreuver.   
+
+Plus je suis avec vous, plus mon ame est ravie,  
+Et c’est en vous quittant que j’en ay plus d’envie :  
+Mais donnons quelque tréve à nos discours charmans,  
+Pour regagner l’endroit où sont nos deux Amans.  
+
+Je crains que nostre absence étonne un peu Madame.  
+
+Croyez-vous qu’elle y songe en l’ardeur qui l’enflame ?  
+
+Nous approchons du lieu d’où nous sommes partis :  
+Mais je n’y voy personne, ils sont desja sortis.  
+
+Quand l’Amour mutuel deux jeunes coeurs assemble,  
+L’heure n’est qu’un moment alors qu’ils sont ensemble.  
+
+Il est vray, Dorimon, qu’estant avecque vous,  
+On ne peut s’ennuyer.  
+
+        Que mon destin est doux,  
+Et que je suis heureux qu’une si belle bouche  
+Allege quelquefois la douleur qui me touche.  
+Ma Reine, mon Soleil. Ha ! que je voy d’appas  
+Dans ces yeux plus brillans.  
+
+        Ha ! Ne poursuivez pas ;  
+Car enfin ce discours tient par trop de la feinte,  
+Et si vous l’achevez il commence une plainte.  
+
+J’obeïs, mon soucy : Mais pourqyoy m’empescher  
+De vanter un tresor que j’estime si cher ?  
+
+Pour employer le temps à de meilleures choses,  
+Au lieu de les semer il faut cueillir les roses.  
+
+Il est vray que j’ay tort, sans attendre à demain,  
+Ma bouche fait icy l’office de ma main ;  
+Jugez si j’ay dessein d’oüir plus ces reproches,  
+Pour obeïr plustost j’ay cueilly les plus proches.  
+
+Puisque vous prenez mal un discours serieux,  
+Croyez qu’une autrefois je m’expliqueray mieux.  
+
+Je ne m’estonne pas d’une si froide mine,  
+On ne cueillit jamais de rose sans espine :  
+Mais à peine d’autant, je veux qu’en mon banquet  
+Soient mélez à la rose et le lys et l’oeillet.  
+Vous résistez  
+
+    Fort bien.  
+
+        Il faut ceder, Clymene,  
+Où je fay quelque effort, la resistance est vaine.   
+
+En fin je vous y prens, au milieu des plaisirs.  
+
+Vous pourriez mieux que moy contenter vos desirs,  
+Et je puis sans regret vous voir de la partie.  
+
+Il faut pour le present qu’elle soit divertie,  
+Flaviane au logis est en peine de vous.  
+
+N’est-ce point quelque trait de vostre esprit jaloux ?  
+
+Pour voir de vostre coeur cette doute bannie,  
+Vostre fidelle et moy vous tiendrons Compagnie ;  
+Ce discours vous plaist-il ?  
+
+        L’effet me plaira mieux.  
+Allons, cher Dorimon, suivez nous envieux.   
+
+Apres avoir cherché sur la Terre et sur l’Onde,  
+Où verray-je finir ma course vagabonde ?  
+Et quel antre écarté cache encore à mes yeux  
+Le sujet d’un voyage aussi long qu’ennuyeux ?  
+J’ay fait en mille endroits mille tours inutiles,  
+J’ay couru vainement la campagne et les villes ;  
+J’ay demandé Claironde à tous les Habitans  
+Des lieux où j’ay perdu mes peines et mon temps :  
+En fin mal satisfait du désir qui me presse,  
+A quel Dieu desormais -il que je m’adresse ?  
+Ciel, termine aujourd’huy le mal-heur de mon sort,  
+Et me fais rencontrer, ou Claironde, ou la mort :  
+Voicy deux Cavaliers, tente encor la Fortune,  
+Ta demande, apres tout, ne peut estre importune.  
+
+Que veut cét Inconnu qui s’approche de nous ?  
+
+Je juge à son abord qu’il veut parler à vous.  
+
+Oseroy-je, Messieurs, vous faire une demande,  
+Dont le sujet me cause une peine tres-grande.  
+
+Dites ce que de nous vous desirez sçavoir,  
+Nous vous contenterons de tout nostre pouvoir.  
+
+Ne m’apprendrez vous point de certaines nouvelles,  
+De deux jeunes garçons, ou plustost Demoiselles,  
+Qu’un projet incertain  
+
+        Mes sens sont ébaïs.  
+
+Sous de faux vestemens fait courir le païs.  
+
+Dieux ! ne seroit-ce point Floridan et son frere?  
+
+L’avanture en tout cas, ne sçauroit nous déplaire.  
+
+Si vous nous dépeigniez, suivant nostre soubçon,  
+La taille, les habits, l’oeil, le poil, la façon,  
+Ou quelques qualitez dont ils sont remarquables,  
+Ce discours les rendroit plustost reconnessables.  
+
+Outre les dons du corps et les charmans appas,  
+Pour qui mille Guerriers ont souffert le trépas ;  
+La plus belle des deux, charme, ravit, enchante,  
+Accordant la guiterre aux doux airs qu’elle chante.  
+
+Il n’en faut plus douter, c’est elle assurément.  
+
+Je sens naistre un espoir de mon ravissement.  
+
+Et moy, dans les transports de mon ame estonnée,  
+Je ne sçay quel destin me parle d’Hymenée.  
+
+Aimable Dorimon, y pourray-je arriver ?  
+
+Si vous sçavez l’endroit où je les puis trouver,  
+De grace, obligez moy ...  
+
+        N’en soyez plus en peine,  
+Et songez à finir vostre course incertaine.  
+
+Quoy donc, m’assurez-vous qu’elles soient prés d’icy ?  
+
+Chassez de vostre esprit le doute et le soucy,  
+Et tardez en ce lieu seulement un quart d’heure.  
+
+Vous ne pouvez avoir de rencontre meilleure.  
+
+Le Ciel en soit loüé, j’attens vostre retour,  
+Avec autant d’espoir que vous montrez d’amour.  
+
+O vous dont l’équité reigle icy toutes choses,  
+Qui de nos soins piquans faites naistre des roses ;  
+Qui voulez qu’au travail succede le repos,  
+Et qui nous secourez quand il est à propos !  
+Quelles graces, bon Dieu, faut-il que je vous rende,  
+Pour m’avoir obligé d’une faveur si grande ?  
+Soyez à l’infini, reveré des mortels,  
+Que tousjours leur Encens fume sur vos Autels,  
+Qu’ils n’obmettent jamais ce devoir legitime,  
+Et que tousjours leur coeur y serve de victime.  
+Mais attendant le bien qu’on m’a fait esperer,  
+Joüissons du repos sans plus le differer,  
+Mon œil cede au sommeil que le travail attire,  
+Maintenant que je suis sans soin et sans martyre.  
+
+Amour, de quelle peur troubles-tu mon esprit ?  
+Doy-je seule pleurer où tout le monde rit ?  
+Reserves-tu pour moy le fiel et l’amertume,  
+Dont se fournit ta mere en sortant de l’écume ?  
+De quel nouveau tourment pretens-tu m’affliger ;  
+Toy qui me promettois dequoy me soulager ?  
+Doy-je perdre l’espoir dont tu m’avois flatée ?  
+Déja de mille soins je me sens agitée,  
+Et la voix du Destin me prédit un mal-heur,  
+Qui me fait par avance une extréme douleur.  
+Dieux ! voicy cét Amant dont la seule infortune  
+Me peut faire treuver sa rencontre importune.  
+Que ne puy-je approuver son amoureux dessein,  
+Une plus juste ardeur peut-elle estre en mon sein ?  
+Il m’aime, et je l’estime, ô fascheuse contrainte !  
+Qui fait ceder mon ame à la premiere atteinte.  
+
+Abordons hardiment ce glorieux Vainqueur,  
+Je n’ay plus rien à craindre ayant perdu le coeur.  
+Madame, je sçay bien que c’est trop entreprendre :  
+Mais si j’ose approcher, c’est pour tascher d’apprendre  
+Quel cours vous ordonnez à mes tristes ennuis,  
+Et m’enquerir de vous de l’estat où je suis.  
+
+Quoy, tousjours cajoleur ?  
+
+        Quoy, tousjours incredule ?  
+
+Ma croyance en ce point seroit trop ridicule.  
+
+Douter encor du mal qu’Amour par vous m’a fait.  
+
+Je doute de la cause, et non pas de l’effet.  
+
+Vos yeux n’approuvent pas ce discours qui les touche.  
+
+Mes yeux, comme mon coeur, s’expliquent par ma bouche.  
+
+Ne desavoüez pas les coups de ces beaux yeux,  
+Ils sont cruels pour nous ; ils vous sont glorieux.  
+
+Ne donnez point de gloire à qui porte une chaine,  
+Parlez de cruauté pour qui souffre la gesne.  
+
+Je parle aussi pour moy dont l’ame et tous les sens…  
+
+Cessez de plaindre en vous un mal que je ressens,  
+Et ne m’opposez plus l’Amour qui vous possede,  
+Puisque loin d’en offrir j’ay besoin de remede.  
+
+Vous, besoin de remede ? Ha ! discours superflus.  
+
+Et trop vrais pour mon bien.  
+
+        Que je reste confus.  
+
+Ouy, j’adore Alcinor, puis qu’il faut vous le dire.  
+
+Moy, bons Dieux ! que dit-elle ?  
+
+        Et mon coeur en soupire.  
+
+Doy-je croire à sa voix ?  
+
+        Ouy, j’adore Alcinor.  
+
+Madame, mon respect…  
+
+        Puis-je en parler encor.  
+
+Il ne merite pas…  
+
+        C’est en vain qu’on le blasme.  
+
+Que de joye en mon coeur !  
+
+        Que de peine en mon ame !  
+
+Cette rare faveur…  
+
+        Sert à me diffamer.  
+
+Hé, ne sçavez-vous pas ?  
+
+        Qu’il ne me peut aimer.  
+
+Qui, Madame ?  
+
+    Un cruel.  
+
+    O Ciel !  
+
+        Un cœur de glace.  
+
+Elle parle d’un autre.  
+
+        Ingrat à cette grace ;  
+Insensible aux discours dont j’aurois sçeu toucher  
+Le marbre le plus froid, et le plus dur rocher.  
+
+Et vous l’aimez encor.  
+
+        Puisque mon Sort l’ordonne,  
+J’endure le tourment que sa froideur me donne.  
+
+Et moy par vostre ardeur si contraire à mes feux  
+Je languis dans un mal beaucoup plus dangereux.  
+
+Adieu, je suis touchée, et de l’un et de l’autre.  
+
+Puis qu’avecque le mien je sens aussi le vôtre,  
+Trouveray-je un remede en vôtre guerison ?  
+
+Ouy, si vous n’en trouvez plustost en la raison.   
+
+Mal-heureux Alcinor, quelle est ta destinée,  
+Et quel Astre inclement la rend infortunée ?  
+Tu deviens amoureux d’une fille en fureur,  
+De qui la cruauté te devoit faire horreur :  
+Ton ame est bien icy de raison dépourveuë,  
+Tu prens ses interests sans l’avoir jamais veuë,  
+Et pour executer son barbare dessein  
+Tu viens sur l’innocent les armes à la main ;  
+On veut t’assassiner entrant sur cette Terre,  
+Et sans voir que le Ciel te livre cette guerre,  
+Pour divertir ton coeur du dessein qu’il a fait,  
+Tu suy les mouvemens de ton lasche projet ;  
+Tu choisis son Amy pour luy faire un outrage,  
+Tu prens ton défenseur pour seconder ta rage,  
+Et luy mesme opposant son bras à ton effort,  
+Pour la seconde fois te sauve de la mort :  
+Ayant senty les coups d’un Vainqueur legitime,  
+Tu détestes en fin le sujet de ton crime :  
+Mais pour tous ces remors en es tu mieux traitté,  
+As-tu lieu d’esperer te voyant rebutté ;  
+Sous le prestexte faux d’un autre objet qu’elle aime ?  
+Quel conseil doy-je prendre en ce besoin extréme,  
+Iray-je de son frere implorer le secours ?  
+La brigue des parens est un feble recours ;  
+Perdray-je son ingrat dont le mépris me vange ?  
+Et comment le connestre en ce païs estrange ;  
+Attendray-je la fin de son feu qui me nuit ?  
+Mais languir dans le mien, et le jour et la nuit ;  
+Remettray-je en mon coeur une Amour mal fondée ?  
+Dieux ! Preferer au corps une incertaine idée,  
+Dans ce mortel danger qui fera son effort  
+Pour divertir l’orage, et me pousser au Port ?  
+Au secours ma raison, Amour m’oste la vie,  
+Empesche par tes soins qu’elle me soit ravie ;  
+Je soubmets mon esprit à tes sages avis,  
+Pardon si jusqu’icy je les ay mal suivis :  
+Espere, me dit-elle, en ta perseverance,  
+Ouy, Raison, tu le veux, j’auray donc esperance :  
+Mais sçachon, s’il se peut, quel est ce Conquerant,  
+Qui pour tant de beauté se treuve indifferant.   
+Dieux ! Où puy-je treuver…  
+
+        Que cherche icy Clymene ?  
+
+Mais vous, cher Dorimon, quel sujet vous ameine ?  
+
+L’excés de mon amour te l’apprend assez bien.  
+
+Pourquoy feindre en voyant le mesme effet du mien ?  
+
+C’est que pour en juger avec plus d’assurance,  
+Je desirois t’oüir confirmer ma creance :  
+Mais, apres ce discours, loin du moindre soubçon,  
+Je douterois plustost que je fusse Garçon.  
+Aussi ne pense pas que mon coeur dissimule,  
+Lors que je t’entretiens du beau feu qui me brule,  
+Ce seroit faire tort à tes charmans appas,  
+Qu’à moins que d’estre Fille on ne peut n’aimer pas.  
+
+Ha ! trop heureuse Amante.  
+
+        O trop aveugle Fille !  
+
+Et moy j’atteste aussi ce bel Astre qui brille,  
+Que de ce mesme feu mon coeur est consumé,  
+Et que c’est par vos yeux qu’il y fut allumé.  
+
+Mais quel bon-heur me vient de cette Destinée,  
+Si je n’ose esperer celuy de l’Hymenée ?  
+
+Mais qui peut s’opposer à ce chaste dessein,  
+Si, comme je le croy, vous l’avez dans le sein ?  
+
+L’humeur de vostre sexe, inconstant et volage.  
+
+Vous aurez du contraire un parfait tesmoignage.  
+
+Vous vous en dédirez.  
+
+        Il ne tiendra qu’à vous  
+De joindre au nom d’Amant la qualité d’Epoux ;  
+Et j’espere qu’en fin vous romprez tout obstacle.  
+
+Isis encore un coup fera donc le miracle :  
+Mais voicy Floridan, dont le triste maintien  
+Semble me preparer un pareil entretien.  
+
+Adieu, de peur qu’icy ma presence vous nuise,  
+Je vay chercher l’objet dont il tient la franchise,  
+Cependant travaillez et pour elle, et pour moy.  
+
+Ouy, je vous le promets… (Bas.) de vous manquer de foy.   
+
+Quel nouveau déplaisir, quelle estrange amertume  
+Fait parestre ce front moins gay que de coutume ?  
+Craignez-vous plus d’orage en approchant du Port,  
+Et l’horreur qu’on nous fait presage-t’il la mort ?  
+Tout le monde est pour nous, Frere, Soeur, Confidente,  
+Domestiques, Amis, un regard les enchante,  
+La Soeur, de vos beaux yeux implore la pitié,  
+Le Frere vous fait vœu d’éternelle amitié,  
+Clymene et Meliarque en font pour moy de mesme,  
+Quel sujet avons-nous de craindre qui nous aime ?  
+Madame, croyez moy, le temps est preparé  
+A dissiper ces flots par un calme assuré.  
+
+Ha ! Lucine, en ce point que n’es-tu veritable.  
+
+Vous en verrez bien tost l’effet si souhaitable :  
+Au moins si je doy croire aux secrets sentimens  
+Qui me font esperer mille contentemens.  
+
+Je crains qu’en cét habit nous soyons découvertes.  
+
+C’est par là qu’au bon-heur les portes sont ouvertes,  
+Et nous leur causerons des plaisirs inoüis,  
+Quand ces noms de Garçon seront évanoüis.  
+
+Je crains leur changement apprenant qui nous sommes.  
+
+Rassurez vos esprits, et songez qu’ils sont hommes.  
+
+Presenter cét appuy pour affermir mon coeur,  
+C’est vouloir m’assurer par où j’ay plus de peur ;  
+Songe que comme nous desirant la vangeance,  
+La mort suivroit de prés cette reconnessance.  
+
+Ouy bien si leur esprit n’estoit préoccupé.  
+
+Mais quand ils connestront que nous l’aurons trompé ?  
+
+Croyez qu’ils aimeront ces erreurs favorables,  
+Pourveu que nous soyons à leurs vœux exorables.  
+
+Puisse le juste Ciel seconder ton espoir,  
+Et faire en ce miracle éclater son pouvoir.  
+
+Mon œil s’ouvre à propos, afin que je revoye  
+Ces courtois Cavaliers les autheurs de ma joye ;  
+Que je suis redevable à vos soins obligeans,  
+Il ne falloit, Messieurs, que quelqu’un de vos gens.  
+
+Que veut cét Inconnu ?  
+
+        Verray-je en fin Claironde,  
+Apres m’en estre enquis sur la Terre et sur l’Onde ?  
+
+O Dieu ! c’est Diomede.  
+
+        Ha ! Madame, est-ce vous  
+Qu’un sort injurieux fit éloigner de nous ?  
+
+Approche, Diomede, et reconnois Lucine.  
+
+O merveilleux effets de la Bonté divine !  
+Je rends grace au Destin qui termine aujourd’huy,  
+Par vostre aimable aspect, ma course et mon ennuy.  
+
+Mais venant du païs, dis nous en confidence,  
+Que pense-t’on de nous ? Quel bruit fit nostre absence ?  
+Mon Oncle, qu’en dit-il ?  
+
+        Surpris, desesperé,  
+Cherchant pour vous trouver un moyen assuré,  
+Et s’enquestant à tous de ce mal-heur estrange ;  
+Cinq ou six jours apres il rencontra Phalange,  
+Qui luy dit le sujet, et de quelle façon  
+Il avoit fait pour vous des habits de garçon,  
+Si je m’en souviens bien.  
+
+        La ruse estoit hardie.  
+
+On luy dit que c’estoit pour une Comedie.  
+
+Justement.  
+
+        Qu’on devoit chez vous representer.  
+
+Acheve ce discours qui nous peut contenter.  
+
+Si tost qu’il eut appris cette feinte subtile,  
+Il employe un moyen pour son repos utile.  
+
+Quel ?  
+
+        C’est qu’il envoya par des chemins divers  
+Un nombre de ses gens visiter l’Univers,  
+Esperant que quelqu’un pourroit faire rencontre  
+De celle qu’aujourd’huy la Fortune me montre.  
+
+Il veut donc nous revoir.  
+
+        Vous luy ferez plaisir  
+De haster le retour.  
+
+        C’est aussi mon desir.  
+Voicy Tersandre, ô Dieux !  
+
+        Que dites-vous, Tersandre ?  
+
+Ouy, Tersandre.  
+
+    Et comment ?  
+
+        Tu vas bien tost l’apprendre.   
+
+Où puy-je rencontrer cette rare Beauté  
+Dont le merite extréme a mon coeur enchanté ?  
+Quel obstacle importun me prive de sa veuë ?  
+Dans l’espoir incertain dont mon ame est pourveuë,  
+Si je ne voy bien tost vos ravissans appas ;  
+Beaux yeux il est certain que je cours au trépas :  
+Mais je les voy briller ces astres de ma vie,  
+Feignons d’ignorer tout, et sçachons son envie.  
+D’où vient, cher Floridan, la secrette douleur,  
+Qui ternit vostre teint d’une pâle couleur ?  
+Vous est-il arrivé quelque mal-heur sensible ?  
+Ne me le cachez point.  
+
+        Il n’est que trop visible,  
+Cét homme en ce païs rencontré par hazard,  
+M’apporte le sujet qui presse mon départ,  
+Et dans l’éloignement où mon devoir m’oblige,  
+Me separer de vous est le point qui m’afflige.  
+
+Ha ! Madame, espargnez ces discours superflus,  
+Et puis qu’il m’a tout dit ne vous déguisez plus.  
+Ouy, de quelque façon que Floridan s’habille,  
+Je sçay qu’un coeur de Mars anime un corps de fille ;  
+J’en connois le maintien, j’en remarque les traits,  
+Et je sens le pouvoir de ses divins attraits.  
+
+Ouy, Tersandre, il est vray, je suis cette cruelle  
+Qui vous faisoit l’objet de sa haine mortelle ;  
+Je suis cette Claironde à qui vostre valeur  
+Causa le plus sensible et le plus grand mal-heur,  
+Qui depuis ce moment pressoit les Destinées  
+A rompre injustement le fil de vos années ;  
+Et qui mesme aujourd’huy venoit mal à propos  
+Par un sanglant moyen troubler vostre repos ;  
+Mais un pouvoir plus fort que ma rage excessive,  
+Au premier de vos coups m’a fait vostre captive,  
+Et ce doux esclavage où mes jours sont réduis  
+Avec des fers dorez enchainent mes ennuis.  
+
+De moment en moment voyant quelque merveille,  
+Depuis hier au soir je croy que je sommeille ;  
+Vous Claironde, Madame, ha ! bon-heur sans pareil.  
+O le plus heureux jour qu’ait produit le Soleil !  
+Dans de si doux transports, quel assez humble hommage  
+Rendray-je à vos beaux yeux dont j’adorois l’image ?  
+Faut-il pour terminer d’injustes differens,  
+Que ma main soit trempée au sang de vos parens,  
+Et que tant de Guerriers, esclaves de vos charmes  
+Ayent perdu cét honneur par l’effort de mes armes.  
+Mais je ne songe pas que ces crimes commis  
+Me font le plus mortel de tous vos ennemis,  
+Et qu’il me sieroit mieux de vous offrir ma teste,  
+Que de parler icy d’une injuste conqueste :  
+Vangez vous donc, Madame, et ne differez plus,  
+Par un injuste amour vos desseins resolus ;  
+Perdez cét homicide indigne de vous plaire,  
+Que je sente l’effet d’une juste colere,  
+Et que vos belles mains, ou le feu de vos yeux  
+Me donne sur le champ un trépas glorieux.  
+
+Si contre l’équité la personne offencée  
+Sentoit le rude coup d’une mort avancée ;  
+Quel devroit estre apres le sort du criminel ?  
+J’aurois sujet de craindre un tourment eternel.  
+
+Ha ! ne me flates point d’une fausse innocence,  
+En cela seulement se fait voir vostre offence ;  
+C’est moy, c’est moy plustost qui suis ce criminel,  
+Qui devroit endurer un supplice éternel.  
+
+Ha ! ne vous privez pas d’un titre veritable,  
+En cela seulement vous paressez coupable,  
+Puisque cent et cent fois d’un dessein trop cruel  
+Je vous ay procuré la mort dans un duel ;  
+C’est moy, c’est moy plustost qui suis la criminelle  
+Qui devroit endurer une peine éternelle.  
+
+Puisque tant de Heros vos vaincus et les miens  
+Sont sortis de la main de vos sacrez liens,  
+Puisque vos cher parens pour de febles querelles,  
+Sentirent devant eux ses atteintes mortelles ;  
+C’est moy, c’est moy plustost qui suis ce criminel  
+Qui devroit endurer un supplice eternel.  
+
+Puisque pour quelque point de trop peu d’importance,  
+Vostre Pere éprouva du mien la violence,  
+Puisque tous succombant au serment que je fis,  
+J’avois armé mon bras pour égorger son fils ;  
+C’est moy, c’est moy plustost qui suis la criminelle  
+Qui devroit endurer une peine eternelle.  
+Mais quoy que ma fureur aist esté dans l’excés,  
+Détestant le dessein, aimes-en le succés.  
+
+Ouy, je l’aimeray donc, adorable Ennemie,  
+Puisque vostre clemence a ma teste affermie,  
+Et semble couronner, oubliant le passé,  
+Ce front qui dût rougir du sang que j’ay versé.  
+Si vous croyant garçon mon amitié fut forte,  
+Jugez, vous sçachant fille, où mon amour me porte.  
+
+Apres beaucoup de pas, apres beaucoup de vœux,  
+A la fin j’apperçoy le sujet de mes feux,  
+Et ce rencontre heureux dont mon ame est ravie,  
+Avec un peu d’espoir me conserve la vie.  
+
+Ouy, voila nostre intime à qui je vay conter  
+Que je n’ay desormais personne à surmonter.  
+Apres, cher Confident de mes peines passées,  
+Que Claironde aujourd’huy les a recompensées,  
+Adore comme moy, sous ces faux vestemens  
+Cette rare Beauté, l’espoir de mille Amans.  
+
+Dieux ! que m’apprenez vous ? Floridan est Claironde,  
+Depuis que le Soleil donne le jour au Monde,  
+Arriva-t’il jamais un semblable accident ?  
+Adorable Claironde, aimable Floridan ;  
+Que nos ravissemens et vos metamorphoses,  
+Apres tant de soucis vont produire de roses,  
+Si cette Belle ajouste à mon contentement  
+L’honneur de la servir en qualité d’Amant.  
+
+Vous l’honorez beaucoup, et je suis tres-contente  
+Qu’un favorable aveu réponde à vostre attente ;  
+Lucine, qu’en dis-tu ?  
+
+        Si c’est vostre desir,  
+J’y consens.  
+
+        Ouy, ce l’est, et tu me fais plaisir.  
+
+O bon-heur sans egal ! les Dieux pour ces delices  
+Vous vueillent preserver de soins et de supplices.  
+Et vous qu’un bon genie a conduite en ces lieux,  
+Pour asservir mon ame au pouvoir de vos yeux ;  
+De quoy puy-je payer cette aimable réponce,  
+Connessant la valeur du bien qu’elle m’annonce ?  
+
+Ne voy-je pas ma sœur ? elle vient à propos  
+Apprendre vos bontez, ma joye et son repos.  
+
+Je croy que ce dernier ne sera pas du conte,  
+Et qu’apprenant mon sexe elle aura quelque honte.   
+
+Quoy, n’esperer jamais un plus doux traittement.  
+
+Je sçay vostre merite, et prise infiniment  
+L’honneur que je reçoy de vostre amour extréme ;  
+C’est tout ce que je puis n’estant pas à moy mesme,  
+Floridan a mon coeur.  
+
+        En mourant à vos piés,  
+Il vous rend ce Tresor dont vous le gratifiez.  
+
+Vous mourez !  
+
+        Ouy, je meurs, pour devenir Claironde.  
+
+Si l’éclaircissement ce discours ne seconde,  
+Le moyen de comprendre un secret si caché.  
+
+Quand vous verrez mon sein, que vous l’aurez touché,  
+Serez vous satisfaite ? Et croirez vous le reste ?  
+
+En fin l’espoir succede à ma crainte funeste.  
+
+Doy-je croire à mes sens ?  
+
+        Ma sœur, n’en doutez plus.  
+
+Que dans ces changemens mon esprit est confus !  
+
+Approche toy, Lucine, et découvre à Clymene  
+Ce qui doit terminer son amoureuse peine.  
+
+O mal-heur de mon sort !  
+
+        Dans ce rare accident,  
+Qui sera l’héritier du bien de Floridan ?  
+
+M’abandonnant pour vous, aimable Flaviane,  
+Vous devez l’accepter, et je vous y condamne.  
+
+Il vous succedera, puisque vous le voulez.  
+
+Agreable discours, que vous me consolez !  
+Et vous dont la beauté m’avoit l’ame ravie,  
+Pour la troisiesme fois vous me sauvez la vie :  
+Mais pour tant de faveurs je n’ay que des desirs.  
+
+Mon coeur reconnessant vous devoit ces plaisirs.  
+
+Mais n’apprendray-je point, suivant mes conjectures,  
+Depuis vostre départ, vos belles avantures ?  
+Car il est mal-aisé que sous ce vestement  
+Vous n’en ayez pas fait presque à chaque moment.  
+
+Lors que l’occasion secondera l’envie,  
+Que vous donne le cours de deux mois de ma vie ;  
+Vous sçaurez des sujets dont un jour à venir  
+Les Theatres fameux pourront s’entretenir.  
+
+Attendant le recit d’une si belle histoire,  
+Dont le succés heureux fait ma joye et ma gloire ;  
+Allons de ce bon-heur loüer les Immortels,  
+Et perdre nostre haine aux pieds de leurs Autels.  
+
+Cesse, mon coeur, de regretter  
+L’apparence d’un bien offerte,  
+Puisque tu ne peux la quitter  
+Sans profiter de cette perte ;  
+A quoy te serviroit d’estre encor amoureux,  
+Ayant connu l’erreur d’un choix si mal-heureux.  
+Reprens sans déplaisir ta foy  
+Que j’avois trop mal engagée,  
+Pour suivre une plus juste loy,  
+Où je seray mieux partagée ;  
+Je ne me fieray plus à ces mentons rasez,  
+Dont mes aveugles yeux viennent d’estre abusez.  
+Tost ou tard il faut arriver  
+A ce but que tu te proposes :  
+Mais touchons-le avant que l’Hyver1685  
+Seiche nos oeillets et nos roses :  
+Une fille sur l’âge est comme un lys fané,  
+Qui, vieilly sur sa tyge, est tousjours profané.  

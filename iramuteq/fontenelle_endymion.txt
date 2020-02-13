@@ -1,108 +1,16 @@
 
 
-**** *book_ *id_I01 *act_I *date_1731
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
 
--*who_lycoris
-Cessez, cessez d'être amant d'une ingrate.
-
--*who_lesatyre
-Choisissez mieux l'objet de vos désirs.
-
--*who_lycoris
-Dans votre amour il n'est rien qui vous flatte.
-
--*who_lesatyre
-Ne perdez point de précieux soupirs.
-
--*who_lycoris
-Diane est belle et charmante,
-Mais elle est indifférente ;
-Sa froideur ne doit-elle pas
-Vous la faire voir sans appas ?
-
--*who_lesatyre,lycoris
-Cessez, cessez d'être amant d'une ingrate.
-Choisissez mieux l'objet de vos désirs.
-Dans votre amour il n'est rien qui vous flatte.
-Ne perdez point de précieux soupirs.
-
--*who_pan
-La froideur et l'indifférence
-Ne sont qu'une fausse apparence
-Qui ne doit pas décourager.
-Près d'un amant fidèle,
-Est-il une cruelle
-Qui ne soit en danger ?
-
--*who_lycoris
-Quittez une vaine espérance.
-
--*who_lesatyre
-Du moins vous courez le hasard
-De soupirer sans récompense.
-
--*who_lycoris
-Quittez une vaine espérance.
-
--*who_lesatyre
-Dussiez-vous être heureux, vous le seriez trop tard.
-
--*who_pan
-Je ne sens point mon coeur effrayé des obstacles,
-Pour les surmonter tous il est d'heureux moments ;
-Mais quand l'Amour fait des miracles,
-Ce n'est pas en faveur des timides Amants.
-
-**** *book_ *id_I02 *act_I *date_1731
-
--*who_lycoris
-Quel bonheur vous conduit dans ce bois solitaire,
-Sans y trouver un amant odieux ?
-Pan vient de sortir de ces lieux.
-Malgré votre humeur sévère,
-Le moins aimable des Dieux
-A fait dessein de vous plaire,
-Rien ne marque mieux
-Que la raison ne tient guère,
-Contre l'éclat de vos yeux.
-
--*who_diane
 Laissons à cet Amant une audace si vaine,
 Elle aura le succès qu'elle peut mériter.
 Mais que me veut Ismène ?
 Il la faut écouter.
 
-**** *book_ *id_I03 *act_I *date_1731
-
--*who_ismene
-Déesse, à vos genoux qu'avec respect j'embrasse,
-Puis-je espérer obtenir une grâce ?
-Mon coeur s'est dégagé d'un malheureux amour ;
-Souffrez que désormais je vous suive à la Chasse,
-Recevez-moi dans votre Cour.
-L'Amour n'ose sur vous étendre sa puissance,
-Je connais ses rigueurs, je crains encor ses coups.
-Je ne puis être en assurance
-Si je ne suis près de vous.
-
--*who_diane
 Quels malheurs, quels destins contraires
 De l'Amour pour jamais vous fait rompre les noeuds ?
 Endymion toujours néglige-t-il vos voeux ?
 
--*who_ismene
-Il redouble pour moi ses mépris ordinaires,
-Il renonce au projet qu'avaient formé nos Pères
-De nous unir tous deux.
-Trop funeste projet, où je crus tant de charmes,
-Combien m'as-tu coûté de larmes !
-Hélas ! tu n'as fait qu'exciter
-Un feu qu'il faut éteindre ;
-Tu me donnais, pour l'augmenter,
-De vains sujets de me flatter,
-Et le triste droit de me plaindre.
-
--*who_diane
 Quand l'Amour est en courroux,
 Son courroux n'est pas durable.
 Endymion est aimable ;
@@ -110,76 +18,14 @@ S'il revient jamais vers vous
 Serez-vous inexorable ?
 Vous ne répondez point, je vois votre embarras.
 
--*who_ismene
-Daignez me presser moins, il ne reviendra pas.
-
--*who_diane,lycoris
-Vous aimez, vous aimez encore.
-
--*who_ismene
-Non, non, mes liens sont rompus.
-
--*who_diane,lycoris
-Vous aimez, vous aimez encore.
-
--*who_ismene
-Si j'aime encor, hélas ! permettez que j'implore
-Votre secours pour n'aimer plus.
-
--*who_diane
 Vous dont je suis la souveraine,
 Nymphes, qui sur mes pas vous plaisez à chasser,
 Recevez parmi vous Ismène,
 À l'Amour comme vous elle veut renoncer.
 
-**** *book_ *id_I04 *act_I *date_1731
-
--*who_churdenymphes
-Nous goûtons une paix profonde,
-Venez, venez parmi nous :
-Que l'Amour au reste du monde
-Fasse ressentir ses coups,
-Ils n'iront point jusqu'à vous.
-Venez, venez parmi nous.
-Nous goûtons une paix profonde,
-Venez, venez parmi nous.
-
--*who_unenymphe
-Les biens qui contentent nos coeurs,
-Viennent s'offrir à nous sans nous coûter de larmes,
-L'amour le plus heureux a toujours ses alarmes
-Aux innocents plaisirs il ôte leurs douceurs,
-Les chansons des oiseaux, les ombrages, les fleurs,
-Les doux zéphyrs, ont pour nous tous les charmes.
-
--*who_diane
 Puisqu'enfin votre coeur persiste dans son choix,
 Recevez de ma main et l'arc et le carquois.
 
--*who_churdesnymphes
-Jouissez de l'heureux partage
-Qui vous est présenté.
-
--*who_unenymphe
-L'Amour de toutes parts fait un affreux ravage,
-Goûtez-en davantage
-Le prix de la tranquillité.
-
--*who_lesnymphes
-Jouissez de l'heureux partage
-Qui vous est présenté.
-
--*who_lanymphe
-Quand tout gémit dans l'esclavage,
-Qu'il est doux d'être en liberté !
-
--*who_ensemble
-Jouissons de l'heureux partage
-Qui nous est présenté.
-
-**** *book_ *id_I05 *act_I *date_1731
-
--*who_diane
 Que tu prends un soin inutile,
 Ismène ! Quelle erreur conduit ici tes pas ?
 Tu veux auprès de moi rendre ton coeur tranquille,
@@ -187,13 +33,6 @@ Et le mien ne l'est pas,
 Tu fuis Endymion, hélas !
 Que tu choisis mal ton asile !
 
--*who_lycoris
-Sans savoir de quel trait votre coeur est atteint,
-Elle se plaint à vous d'une flamme fatale :
-Avec plaisir on voit une Rivale
-Qui souffre, et qui se plaint.
-
--*who_diane
 En écoutant ses maux, ma honte était extrême,
 D'imposer à ses yeux par un calme apparent ;
 J'ai bravé de l'Amour la puissance suprême,
@@ -202,11 +41,6 @@ Mais je ne jouis plus des honneurs qu'on me rend,
 Et l'on me reproche que j'aime,
 Quand on vient me vanter mon coeur indifférent.
 
--*who_lycoris
-Dégagez-vous, songez que vous êtes Déesse,
-Et daignez voir quel choix vous avez fait.
-
--*who_diane
 Je rougis de ma tendresse,
 Et non pas de son objet ;
 L'aimable Berger que j'adore,
@@ -214,10 +48,6 @@ N'a pas besoin d'un rang qui s'attire les yeux,
 Il a mille vertus que lui-même il ignore,
 1Et qui feraient l'orgueil des Dieux.
 
--*who_lycoris
-Mais il ne sort jamais de son indifférence...
-
--*who_diane
 Je sais trop à quels maux je dois me préparer.
 Un éternel silence
 Cachera cet amour dont ma gloire s'offense :
@@ -225,125 +55,6 @@ En secret seulement j'oserai soupirer ;
 Je languirai sans espérance,
 Et craindrai même d'espérer.
 
-**** *book_ *id_II01 *act_II *date_1731
-
--*who_endymion
-Quel jour, quel heureux jour, je vais voir célébrer !
-Nos Bergers pour Diane ont secondé mon zèle ;
-Ce Temple par mes soins est élevé pour elle,
-Et nous allons le consacrer.
-Jamais par des soupirs mon amour ne s'exprime ;
-Du moins par des Autels je le marque sans crime.
-Ce détour, ce déguisement
-Convient à mon respect extrême ;
-Et mon coeur, pour cacher qu'il aime,
-Feint qu'il adore seulement.
-
--*who_eurilas
-Cachez moins un amour fidèle ;
-Vous n'êtes qu'un Berger,
-Diane est immortelle :
-Mais des appas d'une Belle,
-Tous les yeux peuvent juger,
-Et tous les coeurs ont droit de s'engager.
-
--*who_endymion
-Si j'étais immortel, et Diane Bergère,
-Je craindrais encor sa colère :
-Mes feux n'osent paraître au jour,
-Je gémis sous les lois que le respect m'impose ;
-Mais sa Divinité n'en est pas tant la cause,
-Que ses appas et mon amour.
-
--*who_eurilas
-Que peut prétendre un Amant, dont la peine
-Ne doit jamais se découvrir ?
-Que n'avez-vous pris soin de vous guérir
-Par l'hymen de l'aimable Ismène ?
-Près d'un Objet dont on est adoré,
-On oublie à la fin une beauté cruelle :
-D'une funeste flamme un coeur n'est délivré,
-Que par une flamme nouvelle ;
-Et contre les Amours,
-Les Amours seuls sont un secours.
-
--*who_endymion
-Je meurs d'un feu trop bau pour le vouloir éteindre,
-Je ne puis espérer, et je n'ose me plaindre :
-Cependant un plaisir qui ne peut s'exprimer,
-Adoucit en secret des peines si cruelles.
-Au milieu de mes maux, je m'applaudis d'aimer
-La plus fière des Immortelles.
-
--*who_eurilas
-La Fierté plaît, lorsque l'on est flatté
-Du doux espoir de la victoire ;
-Mais vous ne pouvez croire
-Que Diane jamais perde sa liberté ;
-Quel charme a pour vous sa fierté ?
-
--*who_endymion
-Elle redouble sa gloire,
-Et le prix de sa beauté.
-Je vois de nos Bergers la troupe qui s'avance.
-Eurilas, il est temps que la fête commence.
-
-**** *book_ *id_II02 *act_II *date_1731
-
--*who_endymion
-Écoutez ces Bergers, qui parlent par ma voix,
-Déesse, daignez quelquefois
-Visiter ce Temple rustique,
-On vous élève ailleurs des Temples éclatants ;
-Mais dans un lieu plus magnifique
-On n'offre pas des voeux plus purs et plus constants.
-
--*who_premierberger
-Brillant Astre des nuits, vous réparez l'absence
-Du Dieu qui nous donne le jour :
-Votre Char, lorsqu'il fait son tour,
-Impose à l'Univers un auguste silence ;
-Et tous les feux du Ciel composent votre Cour.
-
--*who_unebergere
-En descendant des Cieux, vous venez sur la terre,
-Régner dans ces vastes Forêts,
-Votre noble loisir sait imiter la guerre,
-Les Monstres dans vos Jeux succombent sous vos traits.
-
--*who_unebergere,unberger,eurilas
-Jusque dans les Enfers votre pouvoir éclate ;
-Les Mânes, en tremblant, écoutent votre voix :
-Au redoutable nom d'Hécate,
-Le sévère Pluton rompt lui-même ses lois.
-
--*who_lechur
-Que le Ciel, que la Terre, et le sombre Rivage,
-Que tout rende à Diane un éternel hommage :
-Que de voeux différents elle doit recevoir !
-Chantons sa puissance suprême,
-Le Maître des Dieux même,
-N'étend pas si loin son pouvoir.
-
--*who_endymion
-Vos éloges, Bergers, touchent peu la Déesse ;
-Songeons plutôt à vanter
-Son coeur exempt de faiblesse,
-Et nos Chants pourront la flatter.
-Faites-vous un effort pour elle,
-Malgré l'Amour dont vous suivez la Loi ;
-Célébrer la gloire immortelle
-D'un coeur toujours maître de soi.
-
--*who_lechur
-Un triomphe éclatant augmente votre gloire,
-C'est en vain que l'Amour veut s'armer contre vous,
-Votre insensible coeur a su braver ses coups ;
-Et le vainqueur des Dieux vous cède la victoire.
-
-**** *book_ *id_II03 *act_II *date_1731
-
--*who_diane
 Bergers, jusqu'en ces lieux votre hommage m'attire,
 De sincères respects savent charmer les Dieux ;
 Mais je viens arrêter des chants audacieux,
@@ -357,15 +68,6 @@ Il ne faut point leur faire outrage.
 Retirez-vous, c'en est assez :
 Vos encens et vos voeux seront récompensés.
 
-**** *book_ *id_II04 *act_II *date_1731
-
--*who_lycoris
-Ciel ! Quel étonnement de mon âme s'empare !
-Quoi ! Votre noble orgueil se dément en ce jour ?
-Diane hautement déclare
-Qu'elle est moins contraire à l'Amour !
-
--*who_diane
 Endymion ordonnait cette Fête,
 Lui ; dont mon coeur est la conquête ?
 En outrageant l'Amour il croyait me flatter.
@@ -373,158 +75,20 @@ Excuse ma faiblesse,
 Son erreur blessait ma tendresse,
 Et je n'ai pu la supporter.
 
--*who_lycoris
-Ne me déguisez rien, vous lui voulez apprendre
-Que jusqu'à vous il peut lever les yeux :
-Vous prenez pour parler un tour mystérieux ;
-Mais vous voulez qu'il ose vous entendre.
-
--*who_diane
 Pourrais-je le vouloir ? Ciel ! quelle honte, hélas !
 Du moins, si je le veux, ne le pénètre pas.
 
-**** *book_ *id_III01 *act_III *date_1731
-
--*who_pan
-Bergers, croirai-je un bruit qui vient de se répandre.
-Diane a-t-elle protégé
-L'Amour par vos chants outragé ?
-
--*who_endymion,eurilas
-Elle-même a paru pour venir le défendre.
-
--*who_pan
-Ah ! J'obtiendrai le prix que mérite ma foi.
-À l'Amour désormais Diane est moins rebelle,
-J'ose seul soupirer pour elle,
-Ce changement ne regarde que moi.
-Avec bien de l'amour on est toujours aimable ;
-La beauté que je sers était impitoyable ;
-Je sais que je dois peu compter sur mes appas ;
-Mais mon coeur m'assurait d'un succès favorable,
-Je l'ai cru sur sa foi, je ne m'en repens pas.
-Avec bien de l'amour on est toujours aimable.
-
--*who_lesatyre
-Aimez, aimez, j'approuve enfin vos feux,
-Puisqu'ils vont être heureux.
-
--*who_pan
-Je veux, je veux marquer ma joie à la Déesse :
-Que les Faunes s'assemblent tous ;
-Qu'ils viennent remplis d'allégresse
-L'applaudir dès ce jour d'un changement si doux.
-
--*who_endymion
-Quoi ! Séjà votre amour s'apprête
-À faire éclater sa conquête ?
-
--*who_eurilas
-L'Amant d'une fière Beauté
-Doit ménager sa vanité ;
-S'il fait des progrès, il doit feindre
-De ne pas s'en apercevoir ;
-Il faut qu'il ait l'art de se plaindre,
-Au milieu du plus doux espoir.
-
--*who_pan
-Eh bien, sans montrer que j'espère,
-Rendons hommage à ses attraits,
-Et par des soins qui ne peuvent déplaire,
-Contentons-nous des transports qu'il faut tenir secrets.
-
-**** *book_ *id_III02 *act_III *date_1731
-
--*who_endymion
-Quel coup affreux quel coup terrible
-Vient combler tous les maux qui déchiraient mon coeur !
-Je me flattais d'aimer une Insensible,
-Je ne puis conserver un si cruel bonheur.
-Que la fierté de Diane était belle !
-Mais, qu'Elle a fait un choix indigne d'elle !
-Si ses appas me faisaient soupirer,
-Sa gloire me charmait plus que ses appas mêmes ;
-Et je perds le plaisir extrême,
-Que je sentais à l'admirer.
-Vengeons-nous, vengeons-nous d'une injure mortelle,
-Il en me reste plus que ce funeste bien ;
-Ôtons à l'Infidèle, un coeur tel que le mien.
-
--*who_eurilas
-Quelle fidélité Diane vous doit-elle ?
-Vos coeurs n'ont pas été dans un même lien.
-
--*who_endymion
-Elle devait m'être fidèle,
-Du moins en n'aimant jamais rien.
-Toi-même, Tu m'as dit qu'en épousant Ismène,
-Et son amour et mon devoir
-Se seraient opposés au penchant qui m'entraîne ;
-Je veux essayer leur pouvoir.
-Je veux redemander Ismène à la Déesse,
-Heureux, si de ses mains je pouvais recevoir
-Ce qui doit venger ma tendresse !
-
--*who_eurilas
-C'est assez de se guérir,
-La vengeance est inutile ;
-Pourvu que vous soyez tranquille,
-Qu'importe qu'une Ingrate ait peine à le souffrir ?
-La vengeance est inutile,
-C'est assez de se guérir.
-
--*who_endymion
-Si je ne suivais pas ce conseil salutaire,
-Tous les Dieux devraient m'en punir.
-La Déesse paraît, je vais te satisfaire,
-À mon repos Ismène est nécessaire,
-Je vais tâcher de l'obtenir.
-
-**** *book_ *id_III03 *act_III *date_1731
-
--*who_endymion
-Déesse, mon audace est peut-être trop grande,
-D'avoir le droit d'implorer vos bontés.
-Si je mérite peu ce que je vous demande,
-Les bienfaits des Divinités
-Ne peuvent être mérités.
-
--*who_diane
 Parlez, vous me verrez répondre à votre attente.
 
--*who_endymion
-Ismène a le bonheur d'être de votre Cour,
-Je ne sais cependant si son âme est contente ;
-Daignez souffrir son retour,
-Si j'obtiens qu'Elle y consente,
-Daignez la rendre à mon amour.
-
--*who_diane
 Quoi ! Vous l'aimez, vous dont l'indifférence
 Rejetait ses voeux et ses soins ?
 
--*who_endymion
-Quand on y pense le moins,
-Souvent l'amour prend naissance.
-La pitié, le repentir ?
-Tout vers Ismène me rappelle ;
-Sa retraite m'a fait sentir
-Combien je perdais en elle.
-
--*who_diane
 Berger, ce que vous souhaitez
 N'est pas une légère grâce.
 
--*who_endymion
-Si jamais des Mortels les voeux vous écoutez...
-
--*who_diane
 Allez, je résoudrai ce qu'il faut que je fasse,
 Et vous saurez mes volontés.
 
-**** *book_ *id_III04 *act_III *date_1731
-
--*who_diane
 Où suis-je ? Endymion pour Ismène soupire,
 Et moi, je me livrais au charme qui m'attire.
 Déjà je trahissais le secret de mon feu.
@@ -546,136 +110,6 @@ Pour tous les coeurs esclaves des Amours.
 Je vois le Dieu des Bois, faut-il que je l'entende ?
 Ma peine, ô Ciel ! N'est-elle pas assez grande ?
 
-**** *book_ *id_III05 *act_III *date_1731
-
--*who_pan
-Déesse, souffrez qu'en ce jour
-Tous les demi-Dieux de ma Cour
-Se soumettent à votre Empire :
-Mes soins ne peuvent seuls suffire,
-A vous marquer tout mon amour.
-Que les Forêts, que les Monts applaudissent
-Au choix qu'a fait le Dieu des Monts et des Forêts ;
-Que les Antres les plus secrets,
-Sans cesse retentissent
-De Diane et de ses attraits ;
-Que tous les autres chants finissent.
-On ne doit célébrer qu'un Objet si charmant
-Dans tous les lieux où règne son Amant.
-
--*who_lechur
-Que les Forêts, que les Monts applaudissent
-Au choix qu'a fait le Dieu des Monts et des Forêts ;
-Que les Antres les plus secrets,
-Sans cesse retentissent
-De Diane et de ses attraits ;
-Que tous les autres chants finissent.
-On ne doit célébrer qu'un objet si charmant
-Dans tous les lieux où règne son amant.
-
--*who_unedryade
-Dans nos forêts tout plaît, tout enchante,
-Souvent l'Amour
-Y conduit sa Cour ;
-De ses bienfaits la douceur constante,
-Loin des Amants,
-Bannit les tourments.
-Quand sous ses lois ce Dieu nous engage,
-Sans s'alarmer,
-Il suffit d'aimer.
-De ce Vainqueur l'aimable esclavage
-Nous offre des noeuds,
-Au gré de nos voeux.
-Que ses traits ont de charmes !
-Qu'on lui rende les armes :
-Devrait-on seulement
-Perdre un moment.
-Dans nos Forêts tout plaît, tout enchante,
-Souvent l'Amour
-Y conduit sa Cour ;
-De ses bienfaits la douceur constante,
-Loin des Amants,
-Bannit les tourments.
-Quittez nos bois, Beautés inhumaines,
-Ne troublez pas d'heureux soupirs,
-Ici nos chaînes,
-Au lieu de peines,
-Ne présentent que des plaisirs.
-Douce Espérance,
-Tu prends naissance
-Presqu'aussitôt que les désirs.
-Dans nos Forêts tout plaît, tout enchante,
-Souvent l'Amour
-Y conduit sa Cour ;
-De ses bienfaits la douceur constante,
-Loin des Amants,
-Bannit les tourments.
-
--*who_pan
-Régnez, régnez sur nous, adorable Immortelle,
-Faites-vous une Cour nouvelle ;
-Sur les Faunes, sur les Sylvains,
-Étendez désormais vos ordres souverains.
-
--*who_lechur
-Régnez, régnez sur nous, adorable Immortelle,
-Faites-vous une Cour nouvelle ;
-Sur les Faunes, sur les Sylvains,
-Étendez désormais vos ordres souverains.
-
--*who_ladryade
-Chantons dans ces Retraites :
-Échos de ces bois,
-Répondez à nos voix ;
-Du Dieu qui les a faites,
-Chantons mille fois,
-Les aimables Lois.
-
--*who_lechur
-Chantons dans ces Retraites :
-Échos de ces bois,
-Répondez à nos voix ;
-Du Dieu qui les a faites,
-Chantons mille fois,
-Les aimables Lois.
-
--*who_ladryade
-Regards, soupirs, silence,
-Tout parle d'amour,
-Tout l'exprime à son tour ;
-Jamais l'indifférence,
-Jamais le mépris
-N'en devient le prix.
-
--*who_lechur
-Chantons dans ces Retraites :
-Échos de ces bois,
-Répondez à nos voix ;
-Du Dieu qui les a faites,
-Chantons mille fois,
-Les aimables Lois.
-
--*who_ladryade
-Tout plaît, tout rit, tout charme,
-Les coeurs volent tous,
-Au devant de ses coups,
-Il règne dès qu'il s'arme ;
-Les moindres faveurs
-Sont des traits vainqueurs.
-
--*who_lechur
-Chantons dans ces Retraites :
-Échos de ces bois,
-Répondez à nos voix ;
-Du Dieu qui les a faites,
-Chantons mille fois,
-Les aimables Lois.
-
--*who_pan
-Approuvez une ardeur que rien ne peut éteindre,
-Déesse, sous vos lois l'Amour m'a su ranger.
-
--*who_diane
 À recevoir vos soins j'ai voulu me contraindre,
 Peut-être en les fuyant j'aurais paru les craindre :
 Quand on est trop sévère, on se croit en danger ;
@@ -683,112 +117,24 @@ Je veux vous annoncer d'une âme plus tranquille,
 Que votre amour est inutile,
 Et qu'il faut vous en dégager.
 
-**** *book_ *id_III06 *act_III *date_1731
-
--*who_pan
-Ai-je bien entendu cet orgueilleux langage ?
-Elle me brave impunément,
-Et je demeure ici frappé d'étonnement !
-Non, ce n'est pas ainsi, Cruelle, qu'on m'outrage,
-N'attendez plus les respects d'un Amant,
-N'attendez que l'emportement
-D'un coeur qui se livre à la rage.
-
--*who_lesatyre
-Les transports les plus furieux
-Ne punissent point une Ingrate ;
-Le dépit, le courroux la flatte ;
-Jamais on ne punit mieux,
-Que lorsqu'à ses superbes yeux
-Une nouvelle ardeur éclate.
-
--*who_pan
-J'approuve tes conseils, j'éteins d'indignes feux.
-
--*who_ensemble
-Par un amour nouveau, par de plus tendres noeuds?
-Abaissez, confondez l'orgueil de l'inhumaine
-Abaissons confondons l'orgueil de l'inhumaine
-Qu'elle gémisse, qu'elle apprenne,
-Que sans elle on peut être heureux.
-
-**** *book_ *id_IV01 *act_IV *date_1731
-
--*who_ismene
-Sombres Forêts qui charmez la Déesse,
-Doux asile où coulent mes jours,
-Plaisirs nouveaux qui vous offrez sans cesse,
-Pourquoi ne pouvez-vous surmonter ma tristesse ?
-Ah ! J'attendais de vous un plus puissant secours.
-Qui peut me rendre encor incertaine, inquiète ?
-J'aimais un Insensible ; et ce que j'ai quitté
-Ne doit pas être regretté :
-Cependant, sans savoir ce que mon coeur regrette,
-Je le sens toujours agité.
-Sombres Forêts qui charmez la Déesse,
-Doux asile où coulent mes jours,
-Plaisirs nouveaux qui vous offrez sans cesse,
-Pourquoi ne pouvez-vous surmonter ma tristesse ?
-Ah ! J'attendais de vous un plus puissant secours.
-
-**** *book_ *id_IV02 *act_IV *date_1731
-
--*who_diane
 Ismène, parlez-moi sans feinte :
 Endymion vous redemande à moi ;
 D'une tendre douleur, j'ai vu son âme atteinte :
 Ismène, parlez-moi sans feinte :
 Voulez-vous renoncer à vivre sous ma loi ?
 
--*who_ismene
-Ô Ciel ! Que ma surprise est grande !
-Quoi ? Cet Ingrat... Non, non, je ne le puis penser.
-
--*who_diane
 À son amour naissant il veut que je vous rende,
 Répondez, je vous le commande :
 À vivre sous ma loi, voulez-vous renoncer ?
 
--*who_ismene
-Vous savez qu'à jamais je m'y suis asservie,
-Rien ne peut ébranler ma foi.
-A suivre d'autres lois si l'amour me convie,
-L'Amour sans votre aveu ne peut plus rien sur moi.
-
--*who_diane
 J'entends ce que vous m'osez dire :
 J'userai bien de mon empire,
 Je verrai votre Amant, allez, attendez-vous
 A recevoir les ordres les plus doux.
 
-**** *book_ *id_IV03 *act_IV *date_1731
-
--*who_lycoris
-Ainsi, vous permettez qu'Ismène soit contente,
-Votre coeur à jamais reprend sa liberté ;
-J'ai vu par son amour ce grand coeur agité,
-Mais la gloire a vaincu, Diane est triomphante.
-
--*who_diane
 Cesse de présenter ce triomphe à mes yeux,
 Il me coûte trop cher pour être glorieux.
 
--*who_diane,lycoris
-Qu'on est faible, quand on aime ;
-Qu'il est difficile, hélas !
-De vaincre un amour extrême !
-Après la victoire même
-On rend encor des combats.
-
--*who_lycoris
-C'est une peine affreuse
-De rendre une Rivale heureuse,
-C'est un effort cruel pour un coeur amoureux ;
-Mais lorsque la gloire est contente,
-Songez quelle douceur charmante
-Doit goûter un coeur généreux.
-
--*who_diane
 Endymion dans ces lieux va paraître,
 Mon dessein va s'exécuter.
 Je vais... mais, quoi ? Je sens mon coeur se révolter,
@@ -806,44 +152,16 @@ Suis-je pour toi dans cet état funeste
 Un triomphe assez éclatant ?
 Cruel amour, es-tu content ?
 
--*who_lycoris
-Je vois Endymion : paraissez plus tranquille,
-Prononcez un aveu qui vous fait soupirer :
-Plus cet effort est difficile,
-Moins vous devez le différer.
-
-**** *book_ *id_IV04 *act_IV *date_1731
-
--*who_diane
 Venez, Endymion, tout vous est favorable,
 J'accorde Ismène à vos désirs.
 
--*who_endymion
-Ah ! Que mon sort est déplorable !
-
--*who_diane
 Que dites-vous ? D'où naissent ces soupirs ?
 
--*who_endymion
-Jusque dans vos bontés, le destin m'est contraire,
-Que ne rejetiez-vous des voeux trop mal conçus.
-
--*who_diane
 Quelle plainte osez-vous me faire ?
 Quoi ? C'est ainsi que mes dons sont reçus ?
 Que devient dès ce jour cette flamme nouvelle,
 Qu'Ismène en vous fuyant a su vous inspirer ?
 
--*who_endymion
-Hélas ! Pouvez-vous ignorer
-Que je suis sans amour pour elle ?
-Mon trouble, mes voeux incertains,
-Ces soupirs échappés, mes bizarres desseins,
-Tout ne vous dit-il pas qu'un autre amour m'enflamme ;
-Que j'ai voulu l'arracher de mon âme,
-Et que tous mes efforts sont vains ?
-
--*who_diane
 Vous voulez sortir d'esclavage,
 Suivez votre projet avec plus de courage.
 On ne surmonte pas d'abord
@@ -851,125 +169,16 @@ Le doux penchant qui nous entraîne,
 Ce n'est pas un premier effort
 Qui brise une amoureuse chaîne.
 
--*who_endymion
-Non, je veux conserver un malheureux amour ;
-Que vous importe-t-il que j'en perdre le jour ?
-
--*who_diane
 Je veux dans tous les coeurs, autant qu'il m'est possible,
 Établir la tranquillité ;
 Il n'est rien de plus doux pour une âme insensible,
 Que de voir en tous lieux régner la liberté.
 
--*who_endymion
-Pourquoi, Déesse impitoyable,
-A combattre mes feux voulez-vous m'engager ?
-Je sais que je ne suis qu'un mortel, qu'un berger ;
-Mais lorsque j'ose aimer un Objet adorable,
-Du moins je ne suis pas coupable
-D'un téméraire aveu, qui devrait l'outrager.
-De mon crime secret la peine est assez grande,
-J'étouffe mes soupirs et mes gémissements ;
-Déesse, par pitié, laissez-moi mes tourments,
-C'est tout le prix que je demande.
-
--*who_diane
 Qu'entends-je ? Quoi ! Berger...
 
--*who_endymion
-Qu'ai-je dit ? Quel transport ?
-Ciel ! Ai-je rompu le silence ?
-L'Amour à mon respect a-t-il fait violence ?
-Ah ! Vos yeux irrités m'instruisent de mon sort ;
-J'y vois tout mon malheur et toute mon offense,
-Mon feu est découvert, j'ai mérité la mort.
-
-**** *book_ *id_IV05 *act_IV *date_1731
-
--*who_uneheure
-Du grand Astre des jours la mourante lumière,
-Va dans quelques moments s'éteindre au fond des Mers ;
-Commencez votre carrière,
-Et consolez l'Univers.
-
--*who_diane
 Que mon char en ces lieux descende ;
 Vents, partez, je vous le commande.
 
--*who_dansedesheures
-Tandis que le char descend.
-
--*who_churdesheures
-Répandez Répandez votre douce clarté
-Dissipez de la nuit l'obscurité profonde ;
-Vous devez la lumière au monde,
-Lorsque le Soleil l'a quitté.
-
--*who_unedesheures
-Quand la nuit dans les airs répand ses voiles sombres,
-Vous recommencez votre cours ;
-D'un seul de vos regards vous dissipez les ombres
-Qui favorisent les Amours.
-
--*who_unedesheures
-Du Dieu qui règne dans Cythère,
-Vous troublez les soins les plus doux,
-Vous en bannissez le mystère,
-Vous éclairez les yeux jaloux.
-
--*who_unedesheures
-Et le Choeur alternativement.
-Que l'ardeur de servir une aimable Immortelle,
-Fasse nos soins les plus charmants :
-Si nous avons d'heureux moments,
-Ne les employons que pour Elle ;
-Ne servons jamais les Amants.
-
-**** *book_ *id_IV06 *act_IV *date_1731
-
--*who_endymion
-Elle part ! Et me laisse en ce lieu solitaire !
-Elle ne daigne pas m'exprimer sa colère.
-Il lui suffit de me livrer
-Au désespoir mortel qui doit me déchirer.
-Fatal égarement, transport que je déteste,
-Tout est perdu pour moi, vous m'avez fait parler ;
-J'ai rendu criminel par un aveu funeste
-Le plus beau feu dont on puisse brûler.
-Cachons-nous pour jamais aux beaux yeux qui m'enchantent,
-Je faisais de les voir mon bonheur le plus doux ;
-Mais il redoubleraient les maux qui me tourmentent,
-Je verrais leur juste courroux.
-Allons finir nos jours dans d'éternelles larmes ;
-Déserts, qui pouvez seuls avoir pour moi des charmes,
-Ouvrez vos antres ténébreux,
-Pour recevoir un malheureux.
-
-**** *book_ *id_V01 *act_V *date_1731
-
--*who_troupedamours
-Prêtez votre secours à ce Berger aimable ;
-Dieu du Sommeil, rendez-lui le repos.
-Il cède au tourment qui l'accable ;
-Dieu du Sommeil, rendez-lui le repos,
-Un amant misérable
-A besoin de tous vos pavots.
-
--*who_deuxamours
-Quelle est cette clarté naissante
-Au milieu de l'obscurité !
-Peut-être une Déesse Amante
-Descend dans cet Antre écarté.
-
--*who_deuxautresamours
-C'est Diane ; Elle vient revoir ce qu'elle adore,
-Cachons-nous à ses yeux ;
-Taisons-nous ; il faut qu'Elle ignore
-Que les Amours sont en ces lieux.
-
-**** *book_ *id_V02 *act_V *date_1731
-
--*who_diane
 Puis-je encor me reconnaître ?
 L'Amour du haut des Cieux me force à disparaître ;
 Je refuse aux Mortels saisis d'un juste effroi,
@@ -994,128 +203,37 @@ Quel charme me retient ? Fuyons. Quoi ? Je ne puis ?
 Ah ! Fuyons ; je sens trop le péril où je suis ;
 Mais, hélas ! Qu'ai-je fait ?
 
-**** *book_ *id_V03 *act_V *date_1731
-
--*who_endymion
-Que vois-je ? Quoi, Déesse ?
-Vous venez pour punir un amour qui vous blesse ?
-Ah ! Mon trépas était certain ;
-Il fallait vous venger de ma coupable audace :
-Je tiendrai pour une grâce,
-Que de si justes coups partent de votre main.
-
--*who_diane
 Comment dans mes regards voyez-vous de la haine !
 
--*who_endymion
-Contentez le courroux qui vous guide en ces lieux.
-
--*who_diane
 Ne me pouvais-je pas venger du haut des Cieux ?
 
--*who_endymion
-Par ce discours obscur vous redoublez ma peine?
-Je ne veux que mourir, et mourir à vos yeux.
-
--*who_diane
 Il faut, il faut enfin cesser d'être incertaine.
 Apprenez votre sort, je ne puis plus cacher
 Que mon superbe coeur soupire.
 Vos vertus m'avaient su toucher,
 Votre respect me contraint à le dire.
 
--*who_endymion
-Qu'ai-je entendu ? Non, non, mes sens sont abusés,
-Et ce songe va disparaître.
-
--*who_diane
 Quoi ? mon amour me fait-il méconnaître
 Par vous-même qui le causez ?
 
--*who_endymion
-Déesse, est-il donc vrai ? Quelle ardeur... Quel hommage...
-Tout mon coeur... De mon trouble entendez le langage,
-Je ne suis pas digne d'un sort si doux,
-Si je ne meurs à vos genoux.
-Pardonnez aux soupirs qu'un Berger vous adresse,
-Du moins je ne sens point mon coeur se partager ;
-Ce sont vos charmes seuls qui savent m'engager ;
-Je ne vois point que vous êtes Déesse.
-
--*who_diane
 A vos seules vertus j'ai donné ma tendresse ;
 Je ne vois point que vous êtes Berger.
 Mon coeur se croyait invincible,
 Mais vous l'avez désarmé.
 
--*who_endymion
-Sans vous, j'étais insensible ;
-Sans vous, je n'eusse point aimé.
-
--*who_diane,endymion
-Mon coeur se croyait invincible,
-Mais vous l'avez désarmé.
-Sans vous, j'étais insensible ;
-Sans vous, je n'eusse point aimé.
-
--*who_diane
 Aimable Endymion, cet Antre désormais
 Sera le seul témoin de notre intelligence,
 La nuit et le silence.
 Y conduiront mes pas sous leurs voiles épais.
 
-**** *book_ *id_V04 *act_V *date_1731
-
--*who_lamour
-Non, je ne consens point à perdre ainsi ma gloire.
-
--*who_diane
 Que vois-je ! et qui l'aurait pu croire ?
 
--*who_lamour
-Antre disparaissez, fuyez, obscure nuit ;
-Que tout l'Univers soit instruit
-De ma plus brillante victoire.
-
--*who_diane
 C'est trop contre Diane exercer tes rigueurs.
 A de moindres Vainqueurs
 D'un éclat odieux laisse la gloire vaine ;
 N'effarouche point d'autres coeurs,
 Qui voudraient en secret porter ta douce chaîne.
 
--*who_lamour
-Je me rends : calme tes regrets ;
-Tes voeux seront comblés, que tes craintes finissent ;
-Les Amours quelquefois savent être discrets :
-Mais de ma gloire au moins que ces lieux retentissent.
-
-**** *book_ *id_V05 *act_V *date_1731
-
--*who_lamour
-Formez les plus aimables jeux
-Pour le Dieu de Cythère.
-
--*who_churdesamours
-Formons les plus aimables jeux
-Pour le Dieu de Cythère.
-
--*who_lamour
-De ces tendres Amants favorisez les feux.
-
--*who_churdesamours
-Formons les plus aimables jeux
-Pour le Dieu de Cythère.
-
--*who_lamour
-L'Amour veut qu'en ces lieux tout conspire à leur plaire ;
-De ces tendres Amants favorisez les feux.
-
--*who_churdesamours
-Formons les plus aimables jeux
-Pour le Dieu de Cythère.
-
--*who_diane
 Dieu favorable,
 Dieu secourable,
 Dieu des Amants,
@@ -1138,8 +256,445 @@ Ta douce flamme
 Bannit d'une âme
 Le souvenir de ses tourments.
 
--*who_lamour
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+
+La froideur et l'indifférence
+Ne sont qu'une fausse apparence
+Qui ne doit pas décourager.
+Près d'un amant fidèle,
+Est-il une cruelle
+Qui ne soit en danger ?
+
+Je ne sens point mon coeur effrayé des obstacles,
+Pour les surmonter tous il est d'heureux moments ;
+Mais quand l'Amour fait des miracles,
+Ce n'est pas en faveur des timides Amants.
+
+Bergers, croirai-je un bruit qui vient de se répandre.
+Diane a-t-elle protégé
+L'Amour par vos chants outragé ?
+
+Ah ! J'obtiendrai le prix que mérite ma foi.
+À l'Amour désormais Diane est moins rebelle,
+J'ose seul soupirer pour elle,
+Ce changement ne regarde que moi.
+Avec bien de l'amour on est toujours aimable ;
+La beauté que je sers était impitoyable ;
+Je sais que je dois peu compter sur mes appas ;
+Mais mon coeur m'assurait d'un succès favorable,
+Je l'ai cru sur sa foi, je ne m'en repens pas.
+Avec bien de l'amour on est toujours aimable.
+
+Je veux, je veux marquer ma joie à la Déesse :
+Que les Faunes s'assemblent tous ;
+Qu'ils viennent remplis d'allégresse
+L'applaudir dès ce jour d'un changement si doux.
+
+Eh bien, sans montrer que j'espère,
+Rendons hommage à ses attraits,
+Et par des soins qui ne peuvent déplaire,
+Contentons-nous des transports qu'il faut tenir secrets.
+
+Déesse, souffrez qu'en ce jour
+Tous les demi-Dieux de ma Cour
+Se soumettent à votre Empire :
+Mes soins ne peuvent seuls suffire,
+A vous marquer tout mon amour.
+Que les Forêts, que les Monts applaudissent
+Au choix qu'a fait le Dieu des Monts et des Forêts ;
+Que les Antres les plus secrets,
+Sans cesse retentissent
+De Diane et de ses attraits ;
+Que tous les autres chants finissent.
+On ne doit célébrer qu'un Objet si charmant
+Dans tous les lieux où règne son Amant.
+
+Régnez, régnez sur nous, adorable Immortelle,
+Faites-vous une Cour nouvelle ;
+Sur les Faunes, sur les Sylvains,
+Étendez désormais vos ordres souverains.
+
+Approuvez une ardeur que rien ne peut éteindre,
+Déesse, sous vos lois l'Amour m'a su ranger.
+
+Ai-je bien entendu cet orgueilleux langage ?
+Elle me brave impunément,
+Et je demeure ici frappé d'étonnement !
+Non, ce n'est pas ainsi, Cruelle, qu'on m'outrage,
+N'attendez plus les respects d'un Amant,
+N'attendez que l'emportement
+D'un coeur qui se livre à la rage.
+
+J'approuve tes conseils, j'éteins d'indignes feux.
+
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_endymion
+
+Quel jour, quel heureux jour, je vais voir célébrer !
+Nos Bergers pour Diane ont secondé mon zèle ;
+Ce Temple par mes soins est élevé pour elle,
+Et nous allons le consacrer.
+Jamais par des soupirs mon amour ne s'exprime ;
+Du moins par des Autels je le marque sans crime.
+Ce détour, ce déguisement
+Convient à mon respect extrême ;
+Et mon coeur, pour cacher qu'il aime,
+Feint qu'il adore seulement.
+
+Si j'étais immortel, et Diane Bergère,
+Je craindrais encor sa colère :
+Mes feux n'osent paraître au jour,
+Je gémis sous les lois que le respect m'impose ;
+Mais sa Divinité n'en est pas tant la cause,
+Que ses appas et mon amour.
+
+Je meurs d'un feu trop bau pour le vouloir éteindre,
+Je ne puis espérer, et je n'ose me plaindre :
+Cependant un plaisir qui ne peut s'exprimer,
+Adoucit en secret des peines si cruelles.
+Au milieu de mes maux, je m'applaudis d'aimer
+La plus fière des Immortelles.
+
+Elle redouble sa gloire,
+Et le prix de sa beauté.
+Je vois de nos Bergers la troupe qui s'avance.
+Eurilas, il est temps que la fête commence.
+
+Écoutez ces Bergers, qui parlent par ma voix,
+Déesse, daignez quelquefois
+Visiter ce Temple rustique,
+On vous élève ailleurs des Temples éclatants ;
+Mais dans un lieu plus magnifique
+On n'offre pas des voeux plus purs et plus constants.
+
+Vos éloges, Bergers, touchent peu la Déesse ;
+Songeons plutôt à vanter
+Son coeur exempt de faiblesse,
+Et nos Chants pourront la flatter.
+Faites-vous un effort pour elle,
+Malgré l'Amour dont vous suivez la Loi ;
+Célébrer la gloire immortelle
+D'un coeur toujours maître de soi.
+
+Quoi ! Séjà votre amour s'apprête
+À faire éclater sa conquête ?
+
+Quel coup affreux quel coup terrible
+Vient combler tous les maux qui déchiraient mon coeur !
+Je me flattais d'aimer une Insensible,
+Je ne puis conserver un si cruel bonheur.
+Que la fierté de Diane était belle !
+Mais, qu'Elle a fait un choix indigne d'elle !
+Si ses appas me faisaient soupirer,
+Sa gloire me charmait plus que ses appas mêmes ;
+Et je perds le plaisir extrême,
+Que je sentais à l'admirer.
+Vengeons-nous, vengeons-nous d'une injure mortelle,
+Il en me reste plus que ce funeste bien ;
+Ôtons à l'Infidèle, un coeur tel que le mien.
+
+Elle devait m'être fidèle,
+Du moins en n'aimant jamais rien.
+Toi-même, Tu m'as dit qu'en épousant Ismène,
+Et son amour et mon devoir
+Se seraient opposés au penchant qui m'entraîne ;
+Je veux essayer leur pouvoir.
+Je veux redemander Ismène à la Déesse,
+Heureux, si de ses mains je pouvais recevoir
+Ce qui doit venger ma tendresse !
+
+Si je ne suivais pas ce conseil salutaire,
+Tous les Dieux devraient m'en punir.
+La Déesse paraît, je vais te satisfaire,
+À mon repos Ismène est nécessaire,
+Je vais tâcher de l'obtenir.
+
+Déesse, mon audace est peut-être trop grande,
+D'avoir le droit d'implorer vos bontés.
+Si je mérite peu ce que je vous demande,
+Les bienfaits des Divinités
+Ne peuvent être mérités.
+
+Ismène a le bonheur d'être de votre Cour,
+Je ne sais cependant si son âme est contente ;
+Daignez souffrir son retour,
+Si j'obtiens qu'Elle y consente,
+Daignez la rendre à mon amour.
+
+Quand on y pense le moins,
+Souvent l'amour prend naissance.
+La pitié, le repentir ?
+Tout vers Ismène me rappelle ;
+Sa retraite m'a fait sentir
+Combien je perdais en elle.
+
+Si jamais des Mortels les voeux vous écoutez...
+
+Ah ! Que mon sort est déplorable !
+
+Jusque dans vos bontés, le destin m'est contraire,
+Que ne rejetiez-vous des voeux trop mal conçus.
+
+Hélas ! Pouvez-vous ignorer
+Que je suis sans amour pour elle ?
+Mon trouble, mes voeux incertains,
+Ces soupirs échappés, mes bizarres desseins,
+Tout ne vous dit-il pas qu'un autre amour m'enflamme ;
+Que j'ai voulu l'arracher de mon âme,
+Et que tous mes efforts sont vains ?
+
+Non, je veux conserver un malheureux amour ;
+Que vous importe-t-il que j'en perdre le jour ?
+
+Pourquoi, Déesse impitoyable,
+A combattre mes feux voulez-vous m'engager ?
+Je sais que je ne suis qu'un mortel, qu'un berger ;
+Mais lorsque j'ose aimer un Objet adorable,
+Du moins je ne suis pas coupable
+D'un téméraire aveu, qui devrait l'outrager.
+De mon crime secret la peine est assez grande,
+J'étouffe mes soupirs et mes gémissements ;
+Déesse, par pitié, laissez-moi mes tourments,
+C'est tout le prix que je demande.
+
+Qu'ai-je dit ? Quel transport ?
+Ciel ! Ai-je rompu le silence ?
+L'Amour à mon respect a-t-il fait violence ?
+Ah ! Vos yeux irrités m'instruisent de mon sort ;
+J'y vois tout mon malheur et toute mon offense,
+Mon feu est découvert, j'ai mérité la mort.
+
+Elle part ! Et me laisse en ce lieu solitaire !
+Elle ne daigne pas m'exprimer sa colère.
+Il lui suffit de me livrer
+Au désespoir mortel qui doit me déchirer.
+Fatal égarement, transport que je déteste,
+Tout est perdu pour moi, vous m'avez fait parler ;
+J'ai rendu criminel par un aveu funeste
+Le plus beau feu dont on puisse brûler.
+Cachons-nous pour jamais aux beaux yeux qui m'enchantent,
+Je faisais de les voir mon bonheur le plus doux ;
+Mais il redoubleraient les maux qui me tourmentent,
+Je verrais leur juste courroux.
+Allons finir nos jours dans d'éternelles larmes ;
+Déserts, qui pouvez seuls avoir pour moi des charmes,
+Ouvrez vos antres ténébreux,
+Pour recevoir un malheureux.
+
+Que vois-je ? Quoi, Déesse ?
+Vous venez pour punir un amour qui vous blesse ?
+Ah ! Mon trépas était certain ;
+Il fallait vous venger de ma coupable audace :
+Je tiendrai pour une grâce,
+Que de si justes coups partent de votre main.
+
+Contentez le courroux qui vous guide en ces lieux.
+
+Par ce discours obscur vous redoublez ma peine?
+Je ne veux que mourir, et mourir à vos yeux.
+
+Qu'ai-je entendu ? Non, non, mes sens sont abusés,
+Et ce songe va disparaître.
+
+Déesse, est-il donc vrai ? Quelle ardeur... Quel hommage...
+Tout mon coeur... De mon trouble entendez le langage,
+Je ne suis pas digne d'un sort si doux,
+Si je ne meurs à vos genoux.
+Pardonnez aux soupirs qu'un Berger vous adresse,
+Du moins je ne sens point mon coeur se partager ;
+Ce sont vos charmes seuls qui savent m'engager ;
+Je ne vois point que vous êtes Déesse.
+
+Sans vous, j'étais insensible ;
+Sans vous, je n'eusse point aimé.
+
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
+Déesse, à vos genoux qu'avec respect j'embrasse,
+Puis-je espérer obtenir une grâce ?
+Mon coeur s'est dégagé d'un malheureux amour ;
+Souffrez que désormais je vous suive à la Chasse,
+Recevez-moi dans votre Cour.
+L'Amour n'ose sur vous étendre sa puissance,
+Je connais ses rigueurs, je crains encor ses coups.
+Je ne puis être en assurance
+Si je ne suis près de vous.
+
+Il redouble pour moi ses mépris ordinaires,
+Il renonce au projet qu'avaient formé nos Pères
+De nous unir tous deux.
+Trop funeste projet, où je crus tant de charmes,
+Combien m'as-tu coûté de larmes !
+Hélas ! tu n'as fait qu'exciter
+Un feu qu'il faut éteindre ;
+Tu me donnais, pour l'augmenter,
+De vains sujets de me flatter,
+Et le triste droit de me plaindre.
+
+Daignez me presser moins, il ne reviendra pas.
+
+Non, non, mes liens sont rompus.
+
+Si j'aime encor, hélas ! permettez que j'implore
+Votre secours pour n'aimer plus.
+
+Sombres Forêts qui charmez la Déesse,
+Doux asile où coulent mes jours,
+Plaisirs nouveaux qui vous offrez sans cesse,
+Pourquoi ne pouvez-vous surmonter ma tristesse ?
+Ah ! J'attendais de vous un plus puissant secours.
+Qui peut me rendre encor incertaine, inquiète ?
+J'aimais un Insensible ; et ce que j'ai quitté
+Ne doit pas être regretté :
+Cependant, sans savoir ce que mon coeur regrette,
+Je le sens toujours agité.
+Sombres Forêts qui charmez la Déesse,
+Doux asile où coulent mes jours,
+Plaisirs nouveaux qui vous offrez sans cesse,
+Pourquoi ne pouvez-vous surmonter ma tristesse ?
+Ah ! J'attendais de vous un plus puissant secours.
+
+Ô Ciel ! Que ma surprise est grande !
+Quoi ? Cet Ingrat... Non, non, je ne le puis penser.
+
+Vous savez qu'à jamais je m'y suis asservie,
+Rien ne peut ébranler ma foi.
+A suivre d'autres lois si l'amour me convie,
+L'Amour sans votre aveu ne peut plus rien sur moi.
+
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycoris
+
+Cessez, cessez d'être amant d'une ingrate.
+
+Dans votre amour il n'est rien qui vous flatte.
+
+Diane est belle et charmante,
+Mais elle est indifférente ;
+Sa froideur ne doit-elle pas
+Vous la faire voir sans appas ?
+
+Quittez une vaine espérance.
+
+Quittez une vaine espérance.
+
+Quel bonheur vous conduit dans ce bois solitaire,
+Sans y trouver un amant odieux ?
+Pan vient de sortir de ces lieux.
+Malgré votre humeur sévère,
+Le moins aimable des Dieux
+A fait dessein de vous plaire,
+Rien ne marque mieux
+Que la raison ne tient guère,
+Contre l'éclat de vos yeux.
+
+Sans savoir de quel trait votre coeur est atteint,
+Elle se plaint à vous d'une flamme fatale :
+Avec plaisir on voit une Rivale
+Qui souffre, et qui se plaint.
+
+Dégagez-vous, songez que vous êtes Déesse,
+Et daignez voir quel choix vous avez fait.
+
+Mais il ne sort jamais de son indifférence...
+
+Ciel ! Quel étonnement de mon âme s'empare !
+Quoi ! Votre noble orgueil se dément en ce jour ?
+Diane hautement déclare
+Qu'elle est moins contraire à l'Amour !
+
+Ne me déguisez rien, vous lui voulez apprendre
+Que jusqu'à vous il peut lever les yeux :
+Vous prenez pour parler un tour mystérieux ;
+Mais vous voulez qu'il ose vous entendre.
+
+Ainsi, vous permettez qu'Ismène soit contente,
+Votre coeur à jamais reprend sa liberté ;
+J'ai vu par son amour ce grand coeur agité,
+Mais la gloire a vaincu, Diane est triomphante.
+
+C'est une peine affreuse
+De rendre une Rivale heureuse,
+C'est un effort cruel pour un coeur amoureux ;
+Mais lorsque la gloire est contente,
+Songez quelle douceur charmante
+Doit goûter un coeur généreux.
+
+Je vois Endymion : paraissez plus tranquille,
+Prononcez un aveu qui vous fait soupirer :
+Plus cet effort est difficile,
+Moins vous devez le différer.
+
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurilas
+
+Cachez moins un amour fidèle ;
+Vous n'êtes qu'un Berger,
+Diane est immortelle :
+Mais des appas d'une Belle,
+Tous les yeux peuvent juger,
+Et tous les coeurs ont droit de s'engager.
+
+Que peut prétendre un Amant, dont la peine
+Ne doit jamais se découvrir ?
+Que n'avez-vous pris soin de vous guérir
+Par l'hymen de l'aimable Ismène ?
+Près d'un Objet dont on est adoré,
+On oublie à la fin une beauté cruelle :
+D'une funeste flamme un coeur n'est délivré,
+Que par une flamme nouvelle ;
+Et contre les Amours,
+Les Amours seuls sont un secours.
+
+La Fierté plaît, lorsque l'on est flatté
+Du doux espoir de la victoire ;
+Mais vous ne pouvez croire
+Que Diane jamais perde sa liberté ;
+Quel charme a pour vous sa fierté ?
+
+L'Amant d'une fière Beauté
+Doit ménager sa vanité ;
+S'il fait des progrès, il doit feindre
+De ne pas s'en apercevoir ;
+Il faut qu'il ait l'art de se plaindre,
+Au milieu du plus doux espoir.
+
+Quelle fidélité Diane vous doit-elle ?
+Vos coeurs n'ont pas été dans un même lien.
+
+C'est assez de se guérir,
+La vengeance est inutile ;
+Pourvu que vous soyez tranquille,
+Qu'importe qu'une Ingrate ait peine à le souffrir ?
+La vengeance est inutile,
+C'est assez de se guérir.
+
+
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
+Non, je ne consens point à perdre ainsi ma gloire.
+
+Antre disparaissez, fuyez, obscure nuit ;
+Que tout l'Univers soit instruit
+De ma plus brillante victoire.
+
+Je me rends : calme tes regrets ;
+Tes voeux seront comblés, que tes craintes finissent ;
+Les Amours quelquefois savent être discrets :
+Mais de ma gloire au moins que ces lieux retentissent.
+
+Formez les plus aimables jeux
+Pour le Dieu de Cythère.
+
+De ces tendres Amants favorisez les feux.
+
+L'Amour veut qu'en ces lieux tout conspire à leur plaire ;
+De ces tendres Amants favorisez les feux.
+
 Régnez, Plaisirs, brillez dans ces Retraites ;
 Tout s'embellit dans les lieux où vous êtes,
 Volez jeunes Zéphyrs, faites naître les fleurs,
 Enchantez les yeux et les coeurs.
+

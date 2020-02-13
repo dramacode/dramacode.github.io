@@ -1,1474 +1,752 @@
 
 
-**** *book_ *id_I01 *act_I *date_1725
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedamis
 
--*who_claudine
-Eh je pense que velà Blaise !
+Feu Monsieur Damis ne m'a laissé qu'un bien assez en désordre ; j'ai besoin de beaucoup d'économie, et le séjour de Paris me ruinerait ; mais je ne le regrette pas beaucoup, car je ne le connais guère. Ah ! Vous voilà ; Claudine, votre mari est-il revenu, a-t-il fait nos commissions ?
 
--*who_blaise
-Eh oui, note femme ; c'est li-même en parsonne.
+À qui je parle ? À vous, ma mie.
 
--*who_claudine
-Voirement ! noute homme, vous prenez bian de la peine de revenir ; queu libertinage !
-Être quatre jours à Paris, demandez-moi à quoi faire !
+Comment me répondez-vous ? Que dites-vous de ce discours, Chevalier ?
 
--*who_blaise
-Eh !
-À voir mourir mon frère, et je n'y allais que pour ça.
-
--*who_claudine
-Eh bian !
-Que ne finit-il donc, sans nous coûter tant d'allées et de venues ?
-Toujours il meurt, et jamais ça n'est fait : voilà deux ou trois fois qu'il lantarne.
-
--*who_blaise
-Oh bian !
-Il ne lantarnera plus.
-Le pauvre homme a pris sa secousse.
-
--*who_claudine
-Hélas !
-Il est donc trépassé ce coup-ci ?
-
--*who_blaise
-Oh il est encore pis que ça.
-
--*who_claudine
-Comment, pis ?
-
--*who_blaise
-Il est entarré.
-
--*who_claudine
-Eh !
-Il n'y a rian de nouveau à ça ; ce sera queussi, queumi.
-Il faut considérer qu'il était bian vieux qu'il avait beaucoup travaillé, bian épargné, bian chipoté sa pauvre vie.
-
--*who_blaise
-T'as raison, femme ; il aimait trop l'usure et l'avarice ; il se plaignait trop le vivre, et j'ons opinion que cela l'a tué.
-
--*who_claudine
-Bref !
-Enfin le velà défunt.
-Parlons des vivants.
-T'es son unique hériquier ; qu'as-tu trouvé ?
-
--*who_blaise
-Eh, eh, eh !
-Baille-moi cinq sols de monnaie, je n'ons que de grosses pièces.
-
--*who_claudine
-Eh eh eh ; dis donc, Nicaise, avec tes cinq sols de monnaie !
-Qu'est-ce que t'en veux faire ?
-
--*who_blaise
-Eh eh eh ; baille-moi cinq sols de monnaie, te dis-je.
-
--*who_claudine
-Pourquoi donc, Nicodème ?
-
--*who_blaise
-Pour ce garçon qui apporte mon paquet depis la voiture jusqu'à cheux nous, pendant que je marchais tout bellement et à mon aise.
-
--*who_claudine
-T'es venu dans la voiture ?
-
--*who_blaise
-Oui, parce que cela est plus commode.
-
--*who_claudine
-T'as baillé un écu ?
-
--*who_blaise
-Oh !
-Bian noblement.
-Combien faut-il ?
-Ai-je fait.
-Un écu, ce m'a-t-on fait.
-Tenez, le velà, prenez.
-Tout comme ça.
-
--*who_claudine
-Et tu dépenses cinq sols en porteux de paquets ?
-
--*who_blaise
-Oui, par manière de récréation.
-
--*who_arlequin
-Est-ce pour moi les cinq sols, Monsieur Blaise ?
-
--*who_blaise
-Oui, mon ami.
-
--*who_arlequin
-Cinq sols !
-Un héritier, cinq sols !
-Un homme de votre étoffe !
-Et où est la grandeur d'âme ?
-
--*who_blaise
-Oh !
-Qu'à ça ne tienne, il n'y a qu'à dire.
-Allons, femme, boute un sol de plus, comme s'il en pleuvait.
-
--*who_claudine
-Ah !
-Mon homme est devenu fou.
-
--*who_blaise
-Morgué, queu plaisir !
-Alle enrage, alle ne sait pas le tu autem.
-Femme, cent mille francs !
-
--*who_claudine
-Queu coq-à-l'âne !
-Velà cent mille francs avec cinq sols à cette heure!
-
--*who_arlequin
-C'est que Monsieur Blaise m'a dit, par les chemins, qu'il avait hérité d'autant de son frère le mercier.
-
--*who_claudine
-Eh que dites-vous ?
-Le défunt a laissé cent mille francs, maître Blaise ?
-Es-tu dans ton bon sens, ça est-il vrai ?
-
--*who_blaise
-Oui, Madame, ça est çartain.
-
--*who_claudine
-Ça est çartain ?
-Mais ne rêves-tu pas ?
-N'as-tu pas le çarviau renvarsé ?
-
--*who_blaise
-Doucement, soyons civils envers nos parsonnes.
-
--*who_claudine
-Mais les as-tu vus ?
-
--*who_blaise
-Je leur ons quasiment parlé ; j'ons été chez le maltôtier qui les avait de mon frère, et qui les fait aller et venir pour notre profit, et je les ons laissés là : car, par le moyen de son tricotage, ils rapportont encore d'autres écus ; et ces autres écus, qui venont de la manigance, engendront d'autres petits magots d'argent qu'il boutra avec le grand magot, qui, par ce moyen, devianra ancore pus grand ; et j'apportons le papier comme quoi ce monciau du petit et du grand m'appartiant, et comme quoi il me fera délivrance, à ma volonté, du principal et de la rente de tout ça, dont il a été parlé dans le papier qui en rend témoignage en la présence de mon procureur, qui m'assistait pour agencer l'affaire.
-
--*who_claudine
-Ah mon homme, tu me ravis l'âme : ça m'attendrit.
-Ce pauvre biau-frère !
-Je le pleurons de bon coeur.
-
--*who_blaise
-Hélas !
-Je l'ons tant pleuré d'abord, que j'en ons prins ma suffisance.
-
--*who_claudine
-Cent mille francs, sans compter le tricotage !
-Mais où boutrons-je tout ça ?
-
--*who_arlequin
-Voilà déjà six sols que vous boutez dans ma poche, et j'attends que vous les boutiez.
-
--*who_blaise
-Boute, boute donc, femme.
-
--*who_claudine
-Oh !
-Cela est juste ; tenez, mon bel ami, faites itou manigancer cela par un maltôtier.
-
--*who_arlequin
-Aussi ferai-je ; je le manigancerai au cabaret.
-Je vous rends grâces, Madame.
-
--*who_blaise
-Madame !
-Vois-tu comme il te porte respect !
-
--*who_claudine
-Ça est bien agriable.
-
--*who_arlequin
-N'avez-vous plus rien à m'ordonner, Monsieur ?
-
--*who_blaise
-Monsieur !
-Ce garçon-là sait vivre avec les gens de notre sorte.
-J'aurons besoin de laquais, retenons d'abord ceti-là ; je bariolerons nos casaques de la couleur de son habit.
-
--*who_claudine
-Prenons, retenons, bariolons, c'est fort bian fait, mon poulet.
-
--*who_blaise
-Voulez-vous me sarvir, mon ami, et avez-vous sarvi de gros seigneurs ?
-
--*who_arlequin
-Bon, il y a huit ans que je suis à la Cour.
-
--*who_blaise
-À la cour !
-Velà bian note affaire : je li baillerons ma fille pour apprentie, il la fera courtisane.
-
--*who_arlequin
-Ils sont encore plus bêtes que moi, profitons-en.
-Oh !
-Laissez-moi faire, Monsieur ; je suis admirable pour élever une fille ; je sais lire et écrire dans le latin, dans le français, je chante gros comme un orgue, je fais des compliments ; d'ailleurs, je verse à boire comme un robinet de fontaine, j'ai des perfections charmantes.
-J'allais à mon village voir ma soeur ; mais si vous me prenez, je lui ferai mes excuses par lettre.
-
--*who_blaise
-Je vous prends, velà qui est fait.
-Je sis votre maître, et ous êtes mon sarviteur.
-
--*who_arlequin
-Serviteur très humble, très obéissant et très gaillard Arlequin ; c'est le nom du personnage.
-
--*who_claudine
-Le nom est drôle.
-Parlons des gages à présent.
-Combian voulez-vous gagner ?
-
--*who_arlequin
-Oh peu de choses, une bagatelle ; cent écus pour avoir des épingles.
-
--*who_claudine
-Diantre !
-Ous en voulez donc lever une boutique ?
-
--*who_blaise
-Eh morgué !
-Souvians-toi de la nichée des cent mille francs ; n'avons-je pas des écus qui nous font des petits ?
-C'est comme un colombier ; çà, allons, mon ami, c'est marché fait ; tenez, velà noute maison, allez-vous-en dire à nos enfants de venir.
-Si vous ne les trouvez pas, vous irez les charcher là où ils sont, stapendant que je convarserons moi et noute femme.
-
--*who_arlequin
-Conversez, Monsieur ; j'obéis, et j'y cours.
-
-**** *book_ *id_I02 *act_I *date_1725
-
--*who_blaise
-Ah çà, Claudine, j'ons passé dix ans à Paris, moi.
-Je connaissons le monde, je vais te l'apprendre.
-Nous velà riches, faut prendre garde à ça.
-
--*who_claudine
-C'est bian dit, mon homme, faut jouir.
-
--*who_blaise
-Ce n'est pas le tout que de jouir, femme : faut avoir de belles manières.
-
--*who_claudine
-Certainement, et il n'y a d'abord qu'à m'habiller de brocard, acheter des jouyaux et un collier de parles : tu feras pour toi à l'avenant.
-
--*who_blaise
-Le brocard, les parles et les jouyaux ne font rian à mon dire, t'en auras à bauge, j'aurons itou du d'or sur mon habit.
-J'avons déjà acheté un castor avec un casaquin de friperie, que je boutrons en attendant que j'ayons tout mon équipage à forfait.
-Je dis tant seulement que c'est le marchand et le tailleur qui baillont tout cela ; mais c'est l'honneur, la fiarté et l'esprit qui baillont le reste.
-
--*who_claudine
-De l'honneur !
-J'en avons à revendre d'abord.
-
--*who_blaise
-Ça se peut bian ; stapendant de cette marchandise-là, il ne s'en vend point, mais il s'en pard biaucoup.
-
--*who_claudine
-Oh bian donc, je n'en vendrai ni n'en pardrai.
-
--*who_blaise
-Ça suffit ; mais je ne parle point de cet honneur de conscience, et ceti-là, tu te contenteras de l'avoir en secret dans l'âme ; là, t'en auras biaucoup sans en montrer tant.
-
--*who_claudine
-Comment, sans en montrer tant !
-Je ne montrerai pas mon honneur!
-
--*who_blaise
-Eh morgué, tu ne m'entends point : c'est que je veux dire qu'il ne faut faire semblant de rian, qu'il faut se conduire à l'aise, avoir une vartu négligente, se parmettre un maintien commode, qui ne soit point malhonnête, qui ne soit point honnête non plus, de ça qui va comme il peut ; entendre tout, repartir à tout, badiner de tout.
-
--*who_claudine
-Savoir queu badinage on me fera.
-
--*who_blaise
-Tians, par exemple, prends que je ne sois pas ton homme, et que t'es la femme d'un autre ; je te connais, je vians à toi, et je batifole dans le discours ; je te dis que t'es agriable, que je veux être ton amoureux, que je te conseille de m'aimer, que c'est le plaisir, que c'est la mode : Madame par-ci, Madame par-là ; ou êtes trop belle ; qu'est-ce qu'ou en voulez faire ?
-Prenez avis, vos yeux me tracassent, je vous le dis ; qu'en sera-t-il ?
-Qu'en fera-t-on ?
-Et pis des petits mots charmants, des pointes d'esprit, de la malice dans l'oeil, des singeries de visage, des transportements ; et pis : Madame, il n'y a, morgué, pas moyen de durer !
-Boutez ordre à ça.
-Et pis je m'avance, et pis je plante mes yeux sur ta face, je te prends une main, queuquefois deux, je te sarre, je m'agenouille ; que repars-tu à ça ?
-
--*who_claudine
-Ce que je repars, Blaise ?
-Mais vraiment, je te repousse dans l'estomac, d'abord.
-
--*who_blaise
-Bon.
-
--*who_claudine
-Puis après, je vais à reculons.
-
--*who_blaise
-Courage.
-
--*who_claudine
-Ensuite je devians rouge, et je te dis pour qui tu me prends ; je t'appelle un impartinant, un vaurian : Ne m'attaque jamais, ce fais-je, en te montrant les poings, ne vians pas envars moi, car je ne sis pas aisiée, vois-tu bian ; n'y a rien à faire ici pour toi, va-t'en, tu n'es qu'un bélître.
-
--*who_blaise
-Nous velà tout juste ; velà comme ça se pratique dans noute village ; cet honneur-là qui est tout d'une pièce, est fait pour les champs ; mais à la ville, ça ne vaut pas le diable, tu passerais pour un je ne sais qui.
-
--*who_claudine
-Le drôle de trafic !
-Mais pourtant je sis mariée : que dirai-je en réponse ?
-
--*who_blaise
-Oh je vais te bailler le régime de tout ça.
-Quian, quand quelqu'un te dira : Je vous aime bian, Madame.
-Ha ha ha !
-Velà comme tu feras, ou bian, joliment : ça vous plaît à dire.
-Il te repartira : Je ne raille point.
-Tu repartiras : Eh bian !
-Tope, aimez-moi.
-S'il te prenait les mains, tu l'appelleras badin ; s'il te les baise : eh bian !
-Soit ; il n'y a rian de gâté ; ce n'est que des mains, au bout du compte !
-S'il t'attrape queuque baiser sur le chignon, voire sur la face, il n'y aura point de mal à ça ; attrape qui peut, c'est autant de pris, ça ne te regarde point ; ça viant jusqu'à toi, mais ça te passe ; qu'il te lorgne tant qu'il voudra, ça aide à passer le temps ; car, comme je te dis, la vartu du biau monde n'est point hargneuse ; c'est une vartu douce que la politesse a bouté à se faire à tout ; alle est folichonne, alle a le mot pour rire, sans façon, point considérante ; alle ne donne rian, mais ce qu'on li vole, alle ne court pas après.
-Velà l'arrangement de tout ça, velà ton devoir de Madame, quand tu le seras.
-
--*who_claudine
-Et drès que c'est la mode pour être honnête, je varrons ; cette vartu-là n'est pas plus difficile que la nôtre.
-Mais mon homme, que dira-t-il ?
-
--*who_blaise
-Moi ?
-Rian.
-Je te varrions un régiment de galants à l'entour de toi, que je sis obligé de passer mon chemin, c'est mon savoir-vivre que ça, li aura trop de froidure entre nous.
-
--*who_claudine
-Blaise, cette froidure me chiffonne ; ça ne vaut rian en ménage ; je sis d'avis que je nous aimions bian au contraire.
-
--*who_blaise
-Nous aimer, femme !
-Morgué !
-Il faut bian s'en garder ; vraiment, ça jetterait un biau coton dans le monde!
-
--*who_claudine
-Hélas !
-Blaise, comme tu fais !
-Et qui est-ce qui m'aimera donc moi ?
-
--*who_blaise
-Pargué !
-Ce ne sera pas moi, je ne sis pas si sot ni si ridicule.
-
--*who_claudine
-Mais quand je ne serons que tous deux, est-ce que tu me haïras ?
-
--*who_blaise
-Oh !
-Non ; je pense qu'il n'y a pas d'obligation à ça ; stapendant je nous en informerons pour être pus sûrs ; mais il y a une autre bagatelle qui est encore pour le bon air ; c'est que j'aurons une maîtresse qui sera queuque chiffon de femme, qui sera bian laide et bian sotte, qui ne m'aimera point, que je n'aimerai point non pus ; qui me fera des niches, mais qui me coûtera biaucoup, et qui ne vaura guère, et c'est là le plaisir.
-
--*who_claudine
-Et moi, combian me coûtera un galant ?
-Car c'est mon devoir d'honnête madame d'en avoir un itou, n'est-ce pas ?
-
--*who_blaise
-T'en auras trente, et non pas un.
-
--*who_claudine
-Oui, trente à l'entour de moi, à cause de ma vartu commode ; mais ne me faut-il pas un galant à demeure ?
-
--*who_blaise
-T'as raison, femme ; je pense itou que c'est de la belle manière, ça se pratique ; mais ce chapitre-là ne me reviant pas.
-
--*who_claudine
-Mon homme, si je n'ons pas un amoureux, ça nous fera tort, mon ami.
-
--*who_blaise
-Je le vois bian, mais, morgué !
-Je n'avons pas l'esprit assez farme pour te parmettre ça, je ne sommes pas encore assez naturisé gros monsieur ; tian, passe-toi de galant, je me passerai d'amoureuse.
-
--*who_claudine
-Faut espérer que le bon exemple t'enhardira.
-
--*who_blaise
-Ça se peut bian, mais tout le reste est bon, et je m'y tians ; mais nos enfants ne venont point ; c'est que noute laquais les charche, je m'en vais voir ça.
-Velà noute Dame et son cousin le Chevalier qui se promènent ; je vais quitter la farme de sa cousine ; s'ils t'accostent, tians ton rang, fais-toi rendre la révérence qui t'appartient, je vais revenir.
-Si le fiscal à qui je devais de l'argent arrive, dis-li qu'il me parle.
-
-**** *book_ *id_I03 *act_I *date_1725
-
--*who_claudine
-Promenons-nous itou, pour voir ce qu'ils me diront.
-
--*who_lechevalier
-Je suis de votre goût, Madame ; j'aime Paris, c'est le salut du galant homme ; mais il fait cher vivre à l'auberge.
-
--*who_madamedamis
-Feu Monsieur Damis ne m'a laissé qu'un bien assez en désordre ; j'ai besoin de beaucoup d'économie, et le séjour de Paris me ruinerait ; mais je ne le regrette pas beaucoup, car je ne le connais guère.
-Ah !
-Vous voilà ; Claudine, votre mari est-il revenu, a-t-il fait nos commissions ?
-
--*who_claudine
-Avec votre parmission, à qui parlez-vous donc, Madame ?
-
--*who_madamedamis
-À qui je parle ?
-À vous, ma mie.
-
--*who_claudine
-Oh bian !
-Il n'y a ici ni maître ni maîtresse.
-
--*who_madamedamis
-Comment me répondez-vous ?
-Que dites-vous de ce discours, Chevalier ?
-
--*who_lechevalier
-Qu'il est rustique, et qu'il sent le terroir.
-Eh eh eh...
-
--*who_claudine
-Eh eh eh, comme il ricane!
-
--*who_lechevalier
-Cousine, pensez-vous qu'elle me raille ?
-
--*who_madamedamis
 Vous n'en pouvez pas douter.
 
--*who_lechevalier
-Eh donc je conclus qu'elle est folle.
-
--*who_claudine
-Tenez, je vous parle à tous deux, car vous ne savez pas ce que vous dites, vous ne savez pas le tu autem.
-Boutez-vous à votre devoir, honorez ma parsonne, traitez-moi de Madame, demandez-moi comment se porte ma santé, mettez au bout queuque coup de chapiau, et pis vous varrais.
-Allons, commencez.
-
--*who_lechevalier
-Ce genre de folie est divertissant.
-Voulez-vous que je la complimente ?
-
--*who_madamedamis
 Vous n'y songez pas, Chevalier, c'est une impertinente qui perd le respect, et vous devriez la faire taire.
 
--*who_lechevalier
-Moi, la faire taire ?
-Arrêtez la langue d'une femme ?
-Un bataillon, encore passe!
-
--*who_claudine
-Ah ah ah par ma fiqué !
-Ça est trop drôle.
-
--*who_madamedamis
 Son mari me fera raison de son insolence.
 
--*who_claudine
-Bon, mon mari !
-Est-ce que je nous soucions l'un de l'autre ?
-J'avons le bel air, nous, de ne nous voir quasiment pas.
-Vous qui n'avez jamais quitté votre châtiau, cela vous passe, aussi bian que la vartu folichonne.
+Voilà son mari. Maître Blaise, expliquez-nous un peu le procédé de votre femme. A-t-elle perdu l'esprit ? Elle ne me répond que des impertinences.
 
--*who_lechevalier
-Cette vertu folichonne m'enchante, son extravagance pétille d'invention.
-Va, ma poule, va ; sandis !
-Je t'aime mieux folle que raisonnable.
+Mais, Blaise, faites donc réflexion que je vous parle.
 
--*who_claudine
-Oh !
-Ceti là vaut trop ; ils font envars moi ce que j'ons fait envers mon homme, ils me croyont le çarviau parclus ; ne leur disons rian ; velà Blaise qui viant.
+En vérité, voilà l'aventure la plus singulière que je connaisse.
 
-**** *book_ *id_I04 *act_I *date_1725
+Cent mille francs !
 
--*who_madamedamis
-Voilà son mari.
-Maître Blaise, expliquez-nous un peu le procédé de votre femme.
-A-t-elle perdu l'esprit ?
-Elle ne me répond que des impertinences.
+Ni moi non plus, Madame Claudine ; je suis ravie de votre fortune, et je vous accorde mon amitié.
 
--*who_blaise
+Chevalier, l'idée me paraît assez sensée ; mais la démarche est humiliante.
+
+En vérité, Chevalier, vous êtes un indiscret.
+
+Beaucoup.
+
+De beaux yeux sont un grand avantage.
+
+Puisque vous avez découvert ce que je pensais, je n'en ferai plus de mystère ; je souscris à tout ce que vous ferez, on sera content de mes manières. Je suis née simple et sans fierté, et votre fils m'a plu ; voilà la vérité.
+
+Il parle un assez mauvais langage, mais il est amusant.
+
+Il ne vous manque qu'un peu d'éducation, Colin.
+
+Je crois que vous m'aimerez ; mais écoutez, Colin ; il faudra vous conformer un peu à ce que je vous dirai ; j'ai de l'éducation, moi, et je vous mettrai au fait de bien des choses.
+
+Assez.
+
+Doucement, Colin, vous passez les bornes de la bienséance.
+
+Ça ne se doit pas.
+
+En vérité, l'Amour est un grand maître ! Il a déjà rendu ses simplicités agréables.
+
+Allons, Monsieur le Chevalier, donnez-moi la main ; retirons-nous, car il se fait tard.
+
+
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+Je suis de votre goût, Madame ; j'aime Paris, c'est le salut du galant homme ; mais il fait cher vivre à l'auberge.
+
+Qu'il est rustique, et qu'il sent le terroir. Eh eh eh...
+
+Cousine, pensez-vous qu'elle me raille ?
+
+Eh donc je conclus qu'elle est folle.
+
+Ce genre de folie est divertissant. Voulez-vous que je la complimente ?
+
+Moi, la faire taire ? Arrêtez la langue d'une femme ? Un bataillon, encore passe!
+
+Cette vertu folichonne m'enchante, son extravagance pétille d'invention. Va, ma poule, va ; sandis ! Je t'aime mieux folle que raisonnable.
+
+J'examine Blaise ; sa femme est folle, je le crois à l'unisson.
+
+Eh bien ! Cousine, le vertigo n'est-il pas double ? Voyons les enfants ; je les crois uniformes. Qu'en dites-vous, petite folle ?
+
+À vous la balle, mon fils ; ne dérogez-vous point ?
+
+Partout le même timbre ! Et toi, bélître ?
+
+Nouvelle vision. Eh bien ce frère ?
+
+Dans quelle voiture ?
+
+Eh bien bon voyage ; mais changez-nous de vertigo, celui-ci est triste.
+
+Sandis ! Le galant homme dit vrai, cousine ; je connais ce Rapin et sa signature ; voilà cent mille francs, c'est comme s'il en tenait le coffre ; je les honore beaucoup, et cela change la thèse.
+
+Il ne s'en faut pas d'un sou.
+Monsieur, je suis votre serviteur, je vous fais réparation ; vous êtes sage, judicieux et respectable. Quant à Messieurs vos enfants, je les aime ; le joli cavalier ! La charmante damoiselle ! Que d'éducation ! Que de grâces et de gentillesses !
+
+On ne peut de répétitions plus spirituelles, vous m'enchantez, je n'en ai point assez dit : cent mille francs, capdebious ! Vous vous moquez, vous êtes trop modestes, et si vous me fâchez, je vous compare aux astres tous tant que vous êtes.
+
+Quant à Madame, je la supplie seulement de me recevoir au nombre de ses amis, tout dangereux qu'il est d'obtenir cette grâce ; car je n'en fais point le fin, elle possède un embonpoint, une majesté, un massif d'agréments, qu'il est difficile de voir innocemment. Mais baste, il m'arrivera ce qu'il pourra, je suis accoutumé au feu ; mais je lui demande à son tour une grâce. Me l'accorderez-vous, belle personne ?
+
+Ne me refusez pas, je vous prie.
+
+Raccommodez-vous avec la cousine. Allons, Madame Damis, avancez ; j'ai mesuré le terrain : à vous le reste.
+Ne résistez point, j'ai mon dessein ; lâchez-lui le titre de Madame.
+
+Mettez une accolade brochant sur le tout, je vous prie. Bon ! Voilà qui est bien ; halte là maintenant ; je requiers la permission de dire un mot à l'oreille de la cousine.
+
+Le docteur a raison, je l'oubliais. Eh bien ! Va, je te trouve bouffon ; vante-toi de ma bienveillance, je t'en honore, et ta fortune est faite.
+
+Cousine, sentez-vous mon projet ? Cette canaille a cent mille francs ; vous êtes veuve, je suis garçon ; voici un fils, voilà une fille ; vous n'êtes pas riche, mes finances sont modestes : les légitimes de la Garonne, vous les connaissez ; proposons d'épouser. Ce sont des villageois : mais qu'est-ce que cela fait ? Regardons le tout comme une intrigue pastorale ; le mariage sera la fin d'une églogue. Il est vrai que vous êtes noble ; moi, je le suis depuis le premier homme ; mais les premiers hommes étaient pasteurs ; prenez donc le pastoureau, et moi la pastourelle. Ils ont cinquante mille francs chacun, cousine, cela fait de belles houlettes. En voulez-vous votre part ? Eh donc ! Colin est jeune, et sa jeunesse ne vous messiéra pas.
+
+Cousine, savez-vous souvent de quoi vit l'orgueil de la noblesse ? De ces petites hontes qui vous arrêtent. La belle gloire, c'est la raison, cadédis ; ainsi j'achève.
+Monsieur et Madame Blaise, si ces aimables enfants voulaient se promener un petit tour à l'écart, je vous ouvrirais une pensée qui me paraît piquante.
+
+Revenons à nos moutons ; vous savez qui je suis, vous me connaissez depuis longtemps.
+
+Oh ! Des sottises, j'en ai fait dans ma vie tant et plus ; oublions celle-là. Vous savez donc qui je suis : le cousin Damis avait épousé la cousine. J'ai l'honneur d'être gentilhomme, estimé, personne n'en doute ; je suis dans les troupes, je ferai mon chemin, sandis ! Et rapidement, cela s'ensuit. Je n'ai qu'un aîné, le baron de Lydas, un seigneur languissant, un casanier incommodé du poumon ; il faut qu'il meure, et point de lignée ; j'aurai son bien, cela est net. D'un autre côté, voilà Madame Damis, veuve de qualité, jeune et charmante ; ses facultés, vous les savez ; bonne seigneurie, grand château, ancien comme le temps, un peu délabré, mais on le maçonne. Or, elle vient de jeter sur Monsieur Colin un regard, que si le défunt en avait vu la friponnerie, je lui en donnais pour dix ans de tremblement de coeur ; ce regard, vous l'entendez, camarade ?
+
+Vous y êtes, et la cousine rougit.
+
+Je le garantis beau, je vous soutiens plus belle.
+
+Je vous disais donc que Madame a regardé Monsieur Colin, qu'elle le parcourait en le regardant, et semblait dire : Que n'êtes-vous à moi, le petit homme ; que vous seriez bien mon fait ! Là-dessus je me suis mis à regarder Mademoiselle Colette ; la demoiselle en même temps a tourné les yeux dessus moi ; tourner les yeux dessus quelqu'un, rien n'est plus simple, ce semble ; cependant du tournement d'yeux dont je parle, de la beauté dont ils étaient, de ses charmes et de sa douceur, de l'émotion que j'ai sentie, ne m'en demandez point de nouvelles, voyez-vous, l'expression me manque, je n'y comprends rien. Est-ce votre fille, est-ce l'Amour qui m'a regardé ? Je n'en sais rien ; ce sera ce que l'on voudra ; je parle d'un prodige, je l'ai vu, j'en ai fait l'épreuve, et n'en réchapperai point. Voilà toute la connaissance que j'en ai.
+
+Oui, pour qui les porte, j'en conviens ; mais qui les voit en paie la façon, et je me serais bien passé que Monsieur Blaise eût donné copie des siens à sa fille.
+
+Homme d'honneur, ce que vous dites est touchant ; mais il est un moyen.
+
+Le titre de votre gendre me sortirait d'embarras, par exemple ; et moyennant le nom de bru, la cousine guérirait. Je vous ai dit le mal, je vous montre le remède.
+
+Belle-mère, ne bronchez pas ; je me retiens pour votre fille. Ne rebutez pas les descendants que je vous offre, prenez place dans l'histoire.
+
+Cousine, répondez ; faites voir la modestie de vos sentiments.
+
+Repartez, beau-père.
+
+Mon ami, tu fais ici la pluie et le beau temps ; fais durer le dernier, je t'en prie ; je suis né reconnaissant.
+
+J'ai quitté la compagnie, je n'ai pu, Mademoiselle, résister à l'envie de vous voir. J'ai perdu mon coeur, une charmante personne me l'a pris, cela m'inquiète, et je viens lui demander ce qu'elle en veut faire. N'êtes-vous pas la receleuse ? Donnez-m'en des nouvelles, je vous prie.
+
+Vous ne la connaissez donc pas ?
+
+Vous ne la connaissez pas ? Eh ! Cadédis, je vous prends sur le fait ; vous portez les yeux de celle qui m'a fait le vol.
+
+Parlez, ne vous voyez-vous jamais dans le cristal de vos fontaines ?
+
+Patience, eh qu'y voyez-vous ?
+
+Eh donc, voilà ma friponne.
+
+Que répondez-vous à ce que je dis ?
+
+Me le rendre ! Quand vous avez tiré dessus, quand vous l'avez incendié, qu'il se portait bien, et que vous l'avez fait malade ! Non, ma toute belle, je ne veux point d'un incurable.
+
+Ne vous effrayez point ; sans crier au meurtre, je trouve un expédient ; vous m'avez maltraité le coeur, faites les frais de sa guérison ; j'attendrai, je suis accommodant, le vôtre me servira de nantissement, je m'en contente.
+
+Je vous le garderais ! Vous sentez donc cela, mignonne ? Une légion de coeurs, si je vous les donnais, ne paierait pas cette expression affectueuse ; mais achevez ; vous êtes naïve, développez-vous sans façon, dites le vrai ; vous m'aimez ?
+
+Je me mettrais à genoux devant ces paroles, je les savoure, elles fondent comme le miel ; mais donc quand sera-t-il temps de tout dire ?
+
+Faites donc vite, car il me prend.
+
+Le mien, pouponne, savez-vous ce qu'on en dit dans le monde, le nom qu'on lui donne ? On l'appelle l'indomptable.
+
+Il ne lui en reste pas une syllabe, vos beaux yeux l'ont dépouillé de tout ; je le renonce, et je plaide à présent pour en avoir un autre.
+
+Gageons, ma poule, que l'affaire est faite.
+
+Je vous entends, mon âme, ce regard-là décide ; je triomphe, je suis vainqueur ; mais faites doucement, la victoire m'étourdit, je m'égare, la tête me tourne ; ménagez-moi, je vous prie.
+
+Le papa vous donne à moi ; signez, paraphez la donation, dites que je vous plais.
+
+Vous me ravissez sans me surprendre ; mais voici Madame Damis et le beau-frère ; nos affaires sont faites ; ils viennent convenir des leurs. Retirons-nous.
+
+Jusqu'au revoir. Monsieur Colin, vous aime-t-on ?
+
+Achevez donc.
+
+Eh bien mes amis, êtes-vous tous d'accord ?
+
+Et le contrat ? Sandis ! C'est le repos de l'amour honnête ; où se tient le notaire ?
+
+J'ai cru devoir vous avertir que Monsieur Rapin fit hier banqueroute, et que l'état dans lequel il laisse ses affaires fait juger qu'il passe en pays étranger ; il doit à plusieurs personnes, et ne laisse pas un sol ; j'ai pris toutes les mesures convenables en pareil cas, j'y suis intéressé moi-même ; mais je ne vois nulle espérance. Mandez-moi cependant ce que vous voulez que je fasse ; j'attends votre réponse, et suis...
+Blaise, mon ami, il ne me reste plus qu'à vous répéter ce que le procureur a mis au bas de sa missive : et suis...
+Car les articles de notre contrat sont passés en pays étranger ; actuellement ils courent la poste. Adieu, Colette, je vous quitte avec douleur.
+
+Le régiment, le banqueroutier le réforme, il emporte la caisse.
+
+Je t'entends, faquin.
+
+
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
+Eh oui, note femme ; c'est li-même en parsonne.
+
+Eh ! À voir mourir mon frère, et je n'y allais que pour ça.
+
+Oh bian ! Il ne lantarnera plus.
+Le pauvre homme a pris sa secousse.
+
+Oh il est encore pis que ça.
+
+Il est entarré.
+
+T'as raison, femme ; il aimait trop l'usure et l'avarice ; il se plaignait trop le vivre, et j'ons opinion que cela l'a tué.
+
+Eh, eh, eh ! Baille-moi cinq sols de monnaie, je n'ons que de grosses pièces.
+
+Eh eh eh ; baille-moi cinq sols de monnaie, te dis-je.
+
+Pour ce garçon qui apporte mon paquet depis la voiture jusqu'à cheux nous, pendant que je marchais tout bellement et à mon aise.
+
+Oui, parce que cela est plus commode.
+
+Oh ! Bian noblement. Combien faut-il ? Ai-je fait. Un écu, ce m'a-t-on fait. Tenez, le velà, prenez. Tout comme ça.
+
+Oui, par manière de récréation.
+
+Oui, mon ami.
+
+Oh ! Qu'à ça ne tienne, il n'y a qu'à dire. Allons, femme, boute un sol de plus, comme s'il en pleuvait.
+
+Morgué, queu plaisir ! Alle enrage, alle ne sait pas le tu autem.
+Femme, cent mille francs !
+
+Oui, Madame, ça est çartain.
+
+Doucement, soyons civils envers nos parsonnes.
+
+Je leur ons quasiment parlé ; j'ons été chez le maltôtier qui les avait de mon frère, et qui les fait aller et venir pour notre profit, et je les ons laissés là : car, par le moyen de son tricotage, ils rapportont encore d'autres écus ; et ces autres écus, qui venont de la manigance, engendront d'autres petits magots d'argent qu'il boutra avec le grand magot, qui, par ce moyen, devianra ancore pus grand ; et j'apportons le papier comme quoi ce monciau du petit et du grand m'appartiant, et comme quoi il me fera délivrance, à ma volonté, du principal et de la rente de tout ça, dont il a été parlé dans le papier qui en rend témoignage en la présence de mon procureur, qui m'assistait pour agencer l'affaire.
+
+Hélas ! Je l'ons tant pleuré d'abord, que j'en ons prins ma suffisance.
+
+Boute, boute donc, femme.
+
+Madame ! Vois-tu comme il te porte respect !
+
+Monsieur ! Ce garçon-là sait vivre avec les gens de notre sorte. J'aurons besoin de laquais, retenons d'abord ceti-là ; je bariolerons nos casaques de la couleur de son habit.
+
+Voulez-vous me sarvir, mon ami, et avez-vous sarvi de gros seigneurs ?
+
+À la cour ! Velà bian note affaire : je li baillerons ma fille pour apprentie, il la fera courtisane.
+
+Je vous prends, velà qui est fait. Je sis votre maître, et ous êtes mon sarviteur.
+
+Eh morgué ! Souvians-toi de la nichée des cent mille francs ; n'avons-je pas des écus qui nous font des petits ? C'est comme un colombier ; çà, allons, mon ami, c'est marché fait ; tenez, velà noute maison, allez-vous-en dire à nos enfants de venir. Si vous ne les trouvez pas, vous irez les charcher là où ils sont, stapendant que je convarserons moi et noute femme.
+
+Ah çà, Claudine, j'ons passé dix ans à Paris, moi. Je connaissons le monde, je vais te l'apprendre. Nous velà riches, faut prendre garde à ça.
+
+Ce n'est pas le tout que de jouir, femme : faut avoir de belles manières.
+
+Le brocard, les parles et les jouyaux ne font rian à mon dire, t'en auras à bauge, j'aurons itou du d'or sur mon habit. J'avons déjà acheté un castor avec un casaquin de friperie, que je boutrons en attendant que j'ayons tout mon équipage à forfait. Je dis tant seulement que c'est le marchand et le tailleur qui baillont tout cela ; mais c'est l'honneur, la fiarté et l'esprit qui baillont le reste.
+
+Ça se peut bian ; stapendant de cette marchandise-là, il ne s'en vend point, mais il s'en pard biaucoup.
+
+Ça suffit ; mais je ne parle point de cet honneur de conscience, et ceti-là, tu te contenteras de l'avoir en secret dans l'âme ; là, t'en auras biaucoup sans en montrer tant.
+
+Eh morgué, tu ne m'entends point : c'est que je veux dire qu'il ne faut faire semblant de rian, qu'il faut se conduire à l'aise, avoir une vartu négligente, se parmettre un maintien commode, qui ne soit point malhonnête, qui ne soit point honnête non plus, de ça qui va comme il peut ; entendre tout, repartir à tout, badiner de tout.
+
+Tians, par exemple, prends que je ne sois pas ton homme, et que t'es la femme d'un autre ; je te connais, je vians à toi, et je batifole dans le discours ; je te dis que t'es agriable, que je veux être ton amoureux, que je te conseille de m'aimer, que c'est le plaisir, que c'est la mode : Madame par-ci, Madame par-là ; ou êtes trop belle ; qu'est-ce qu'ou en voulez faire ? Prenez avis, vos yeux me tracassent, je vous le dis ; qu'en sera-t-il ? Qu'en fera-t-on ? Et pis des petits mots charmants, des pointes d'esprit, de la malice dans l'oeil, des singeries de visage, des transportements ; et pis : Madame, il n'y a, morgué, pas moyen de durer ! Boutez ordre à ça. Et pis je m'avance, et pis je plante mes yeux sur ta face, je te prends une main, queuquefois deux, je te sarre, je m'agenouille ; que repars-tu à ça ?
+
+Bon.
+
+Courage.
+
+Nous velà tout juste ; velà comme ça se pratique dans noute village ; cet honneur-là qui est tout d'une pièce, est fait pour les champs ; mais à la ville, ça ne vaut pas le diable, tu passerais pour un je ne sais qui.
+
+Oh je vais te bailler le régime de tout ça. Quian, quand quelqu'un te dira : Je vous aime bian, Madame.
+Ha ha ha ! Velà comme tu feras, ou bian, joliment : ça vous plaît à dire. Il te repartira : Je ne raille point. Tu repartiras : Eh bian ! Tope, aimez-moi. S'il te prenait les mains, tu l'appelleras badin ; s'il te les baise : eh bian ! Soit ; il n'y a rian de gâté ; ce n'est que des mains, au bout du compte ! S'il t'attrape queuque baiser sur le chignon, voire sur la face, il n'y aura point de mal à ça ; attrape qui peut, c'est autant de pris, ça ne te regarde point ; ça viant jusqu'à toi, mais ça te passe ; qu'il te lorgne tant qu'il voudra, ça aide à passer le temps ; car, comme je te dis, la vartu du biau monde n'est point hargneuse ; c'est une vartu douce que la politesse a bouté à se faire à tout ; alle est folichonne, alle a le mot pour rire, sans façon, point considérante ; alle ne donne rian, mais ce qu'on li vole, alle ne court pas après. Velà l'arrangement de tout ça, velà ton devoir de Madame, quand tu le seras.
+
+Moi ? Rian. Je te varrions un régiment de galants à l'entour de toi, que je sis obligé de passer mon chemin, c'est mon savoir-vivre que ça, li aura trop de froidure entre nous.
+
+Nous aimer, femme ! Morgué ! Il faut bian s'en garder ; vraiment, ça jetterait un biau coton dans le monde!
+
+Pargué ! Ce ne sera pas moi, je ne sis pas si sot ni si ridicule.
+
+Oh ! Non ; je pense qu'il n'y a pas d'obligation à ça ; stapendant je nous en informerons pour être pus sûrs ; mais il y a une autre bagatelle qui est encore pour le bon air ; c'est que j'aurons une maîtresse qui sera queuque chiffon de femme, qui sera bian laide et bian sotte, qui ne m'aimera point, que je n'aimerai point non pus ; qui me fera des niches, mais qui me coûtera biaucoup, et qui ne vaura guère, et c'est là le plaisir.
+
+T'en auras trente, et non pas un.
+
+T'as raison, femme ; je pense itou que c'est de la belle manière, ça se pratique ; mais ce chapitre-là ne me reviant pas.
+
+Je le vois bian, mais, morgué ! Je n'avons pas l'esprit assez farme pour te parmettre ça, je ne sommes pas encore assez naturisé gros monsieur ; tian, passe-toi de galant, je me passerai d'amoureuse.
+
+Ça se peut bian, mais tout le reste est bon, et je m'y tians ; mais nos enfants ne venont point ; c'est que noute laquais les charche, je m'en vais voir ça. Velà noute Dame et son cousin le Chevalier qui se promènent ; je vais quitter la farme de sa cousine ; s'ils t'accostent, tians ton rang, fais-toi rendre la révérence qui t'appartient, je vais revenir. Si le fiscal à qui je devais de l'argent arrive, dis-li qu'il me parle.
+
 Parsonne ne salue.
 Leur as-tu dit l'héritage du biau-frère ?
 
--*who_claudine
-Non, mais j'ai bian tenu mon rang.
-
--*who_madamedamis
-Mais, Blaise, faites donc réflexion que je vous parle.
-
--*who_blaise
 Prenez un brin de patience, Madame, comportez-vous doucement.
 
--*who_lechevalier
-J'examine Blaise ; sa femme est folle, je le crois à l'unisson.
-
--*who_blaise
 Noute laquais, dites à ces enfants qu'ils se carrint.
 
--*who_arlequin
-Carrez-vous, enfants.
+Ah çà, vous dites comme ça, Madame, que Madame vous a dit des impartinences. Pour réponse à ça, je vous dirai d'abord que ça se peut bian ; mais je ne m'en embarrasse point ; car je n'y prends ni n'y mets ; je ne nous mêlons point du tracas de Madame. C'est peut-être que le respect vous a manqué. En fin finale, accommodez-vous, Mesdames.
 
--*who_colin
-Oh !
-Oh !
-Oh !
+Les velà bian ébaubis ; je m'en vais ranger tout ça. Madame Damis, acoutez-moi ; tout ceci vous renvarse la çarvelle, c'est pis qu'une égnime pour vous et voute cousin. Oh bian ! De cette égnime en veci la clef et la sarrure. J'avions un frère, n'est-ce pas ?
 
--*who_madamedamis
-En vérité, voilà l'aventure la plus singulière que je connaisse.
-
--*who_blaise
-Ah çà, vous dites comme ça, Madame, que Madame vous a dit des impartinences.
-Pour réponse à ça, je vous dirai d'abord que ça se peut bian ; mais je ne m'en embarrasse point ; car je n'y prends ni n'y mets ; je ne nous mêlons point du tracas de Madame.
-C'est peut-être que le respect vous a manqué.
-En fin finale, accommodez-vous, Mesdames.
-
--*who_lechevalier
-Eh bien !
-Cousine, le vertigo n'est-il pas double ?
-Voyons les enfants ; je les crois uniformes.
-Qu'en dites-vous, petite folle ?
-
--*who_arlequin
-Parlez ferme.
-
--*who_colette
-Allez-y voir ; vous n'avez rien à me commander.
-
--*who_lechevalier
-À vous la balle, mon fils ; ne dérogez-vous point ?
-
--*who_arlequin
-Courage!
-
--*who_colin
-Laissez-moi en repos, malappris.
-
--*who_lechevalier
-Partout le même timbre !
-Et toi, bélître ?
-
--*who_arlequin
-Je chante de même ; c'est moi qui suis le précepteur de la famille.
-
--*who_blaise
-Les velà bian ébaubis ; je m'en vais ranger tout ça.
-Madame Damis, acoutez-moi ; tout ceci vous renvarse la çarvelle, c'est pis qu'une égnime pour vous et voute cousin.
-Oh bian !
-De cette égnime en veci la clef et la sarrure.
-J'avions un frère, n'est-ce pas ?
-
--*who_lechevalier
-Nouvelle vision.
-Eh bien ce frère ?
-
--*who_blaise
 Il est parti.
 
--*who_lechevalier
-Dans quelle voiture ?
-
--*who_blaise
 Dans la voiture de l'autre monde.
 
--*who_lechevalier
-Eh bien bon voyage ; mais changez-nous de vertigo, celui-ci est triste.
+La fin en est plus drôle. C'est que, ne vous en déplaise, j'en avons hérité de cent mille francs, sans compter les broutilles ; et voilà la preuve de mon dire, signé : Rapin.
 
--*who_blaise
-La fin en est plus drôle.
-C'est que, ne vous en déplaise, j'en avons hérité de cent mille francs, sans compter les broutilles ; et voilà la preuve de mon dire, signé : Rapin.
+Cela vous plaît à dire, et à nous de l'entendre. Allons, enfants, tirez le pied, faites voute révérence avec un petit compliment de rencontre.
 
--*who_colin
-Oh oh oh je serons Chevalier itou, moi.
+Femme, entends-tu ? Les astres!
 
--*who_colette
-J'allons porter le taffetas.
-
--*who_claudine
-Et an nous portera la queue.
-
--*who_arlequin
-Pour moi, je ne veux que la clef de la cave.
-
--*who_lechevalier
-Sandis !
-Le galant homme dit vrai, cousine ; je connais ce Rapin et sa signature ; voilà cent mille francs, c'est comme s'il en tenait le coffre ; je les honore beaucoup, et cela change la thèse.
-
--*who_madamedamis
-Cent mille francs !
-
--*who_lechevalier
-Il ne s'en faut pas d'un sou.
-Monsieur, je suis votre serviteur, je vous fais réparation ; vous êtes sage, judicieux et respectable.
-Quant à Messieurs vos enfants, je les aime ; le joli cavalier !
-La charmante damoiselle !
-Que d'éducation !
-Que de grâces et de gentillesses !
-
--*who_claudine_blaise
-Ah !
-Vous nous flattez par trop.
-
--*who_blaise
-Cela vous plaît à dire, et à nous de l'entendre.
-Allons, enfants, tirez le pied, faites voute révérence avec un petit compliment de rencontre.
-
--*who_colette
-Monsieur, vos grâces l'emportont sur les nôtres, et j'avons encore plus de reconnaissance que de mérite.
-
--*who_arlequin
-Et vous, Colin ?
-
--*who_colin
-Monsieur, je sis de l'opinion de ma soeur ; ce qu'elle a dit, je le dis.
-
--*who_arlequin
-Colin fait bis.
-
--*who_lechevalier
-On ne peut de répétitions plus spirituelles, vous m'enchantez, je n'en ai point assez dit : cent mille francs, capdebious !
-Vous vous moquez, vous êtes trop modestes, et si vous me fâchez, je vous compare aux astres tous tant que vous êtes.
-
--*who_blaise
-Femme, entends-tu ?
-Les astres!
-
--*who_lechevalier
-Quant à Madame, je la supplie seulement de me recevoir au nombre de ses amis, tout dangereux qu'il est d'obtenir cette grâce ; car je n'en fais point le fin, elle possède un embonpoint, une majesté, un massif d'agréments, qu'il est difficile de voir innocemment.
-Mais baste, il m'arrivera ce qu'il pourra, je suis accoutumé au feu ; mais je lui demande à son tour une grâce.
-Me l'accorderez-vous, belle personne ?
-
--*who_claudine
-Allons, vous n'êtes qu'un badin.
-
--*who_lechevalier
-Ne me refusez pas, je vous prie.
-
--*who_claudine
-Eh bian !
-Baisez ; ce n'est que des mains au bout du compte.
-
--*who_lechevalier
-Raccommodez-vous avec la cousine.
-Allons, Madame Damis, avancez ; j'ai mesuré le terrain : à vous le reste.
-Ne résistez point, j'ai mon dessein ; lâchez-lui le titre de Madame.
-
--*who_claudine
-Boutez dedans, Madame, boutez ; je ne sis point fâchée.
-
--*who_madamedamis
-Ni moi non plus, Madame Claudine ; je suis ravie de votre fortune, et je vous accorde mon amitié.
-
--*who_claudine
-Je vous gratifions de la même, et je vous désirons bonne chance.
-
--*who_lechevalier
-Mettez une accolade brochant sur le tout, je vous prie.
-Bon !
-Voilà qui est bien ; halte là maintenant ; je requiers la permission de dire un mot à l'oreille de la cousine.
-
--*who_blaise
 Je vous parmettons de le dire tout haut.
 
--*who_arlequin
-Et moi itou ; mais, Monsieur le Chevalier, où est mon compliment à moi, qui suis le docteur de la maison ?
+Holà ! Précepteur, boutez de la marge entre nous ; convarsez à dix pas.
 
--*who_lechevalier
-Le docteur a raison, je l'oubliais.
-Eh bien !
-Va, je te trouve bouffon ; vante-toi de ma bienveillance, je t'en honore, et ta fortune est faite.
+Oh qu'oui ! Vous ne teniez pas trop de compte de nous dans ce temps-là.
 
--*who_arlequin
-Grand merci de la gasconnade.
+Oh dame ! Noute fils, c'est une petite face aussi bien troussée qu'il y en ait.
 
--*who_lechevalier
-Cousine, sentez-vous mon projet ?
-Cette canaille a cent mille francs ; vous êtes veuve, je suis garçon ; voici un fils, voilà une fille ; vous n'êtes pas riche, mes finances sont modestes : les légitimes de la Garonne, vous les connaissez ; proposons d'épouser.
-Ce sont des villageois : mais qu'est-ce que cela fait ?
-Regardons le tout comme une intrigue pastorale ; le mariage sera la fin d'une églogue.
-Il est vrai que vous êtes noble ; moi, je le suis depuis le premier homme ; mais les premiers hommes étaient pasteurs ; prenez donc le pastoureau, et moi la pastourelle.
-Ils ont cinquante mille francs chacun, cousine, cela fait de belles houlettes.
-En voulez-vous votre part ?
-Eh donc !
-Colin est jeune, et sa jeunesse ne vous messiéra pas.
+Oh ! Il n'y pas de mal à ça, Madame, ça est grandement naturel.
 
--*who_madamedamis
-Chevalier, l'idée me paraît assez sensée ; mais la démarche est humiliante.
-
--*who_lechevalier
-Cousine, savez-vous souvent de quoi vit l'orgueil de la noblesse ?
-De ces petites hontes qui vous arrêtent.
-La belle gloire, c'est la raison, cadédis ; ainsi j'achève.
-Monsieur et Madame Blaise, si ces aimables enfants voulaient se promener un petit tour à l'écart, je vous ouvrirais une pensée qui me paraît piquante.
-
--*who_blaise
-Holà !
-Précepteur, boutez de la marge entre nous ; convarsez à dix pas.
-
-**** *book_ *id_I05 *act_I *date_1725
-
--*who_lechevalier
-Revenons à nos moutons ; vous savez qui je suis, vous me connaissez depuis longtemps.
-
--*who_blaise
-Oh qu'oui !
-Vous ne teniez pas trop de compte de nous dans ce temps-là.
-
--*who_lechevalier
-Oh !
-Des sottises, j'en ai fait dans ma vie tant et plus ; oublions celle-là.
-Vous savez donc qui je suis : le cousin Damis avait épousé la cousine.
-J'ai l'honneur d'être gentilhomme, estimé, personne n'en doute ; je suis dans les troupes, je ferai mon chemin, sandis !
-Et rapidement, cela s'ensuit.
-Je n'ai qu'un aîné, le baron de Lydas, un seigneur languissant, un casanier incommodé du poumon ; il faut qu'il meure, et point de lignée ; j'aurai son bien, cela est net.
-D'un autre côté, voilà Madame Damis, veuve de qualité, jeune et charmante ; ses facultés, vous les savez ; bonne seigneurie, grand château, ancien comme le temps, un peu délabré, mais on le maçonne.
-Or, elle vient de jeter sur Monsieur Colin un regard, que si le défunt en avait vu la friponnerie, je lui en donnais pour dix ans de tremblement de coeur ; ce regard, vous l'entendez, camarade ?
-
--*who_blaise
-Oh dame !
-Noute fils, c'est une petite face aussi bien troussée qu'il y en ait.
-
--*who_lechevalier
-Vous y êtes, et la cousine rougit.
-
--*who_madamedamis
-En vérité, Chevalier, vous êtes un indiscret.
-
--*who_blaise
-Oh !
-Il n'y pas de mal à ça, Madame, ça est grandement naturel.
-
--*who_claudine
-Oh !
-Pour ça, faut avouer que Colin est biau ; n'en dit partout qu'il me ressemble.
-
--*who_madamedamis
-Beaucoup.
-
--*who_lechevalier
-Je le garantis beau, je vous soutiens plus belle.
-
--*who_blaise
 Oui, oui, Madame est prou gentille, mais je ne voyons rian de ça, moi, car ce n'est que ma femme ; poursuivez.
 
--*who_lechevalier
-Je vous disais donc que Madame a regardé Monsieur Colin, qu'elle le parcourait en le regardant, et semblait dire : Que n'êtes-vous à moi, le petit homme ; que vous seriez bien mon fait !
-Là-dessus je me suis mis à regarder Mademoiselle Colette ; la demoiselle en même temps a tourné les yeux dessus moi ; tourner les yeux dessus quelqu'un, rien n'est plus simple, ce semble ; cependant du tournement d'yeux dont je parle, de la beauté dont ils étaient, de ses charmes et de sa douceur, de l'émotion que j'ai sentie, ne m'en demandez point de nouvelles, voyez-vous, l'expression me manque, je n'y comprends rien.
-Est-ce votre fille, est-ce l'Amour qui m'a regardé ?
-Je n'en sais rien ; ce sera ce que l'on voudra ; je parle d'un prodige, je l'ai vu, j'en ai fait l'épreuve, et n'en réchapperai point.
-Voilà toute la connaissance que j'en ai.
+Par la jarnigué ! Ça est merveilleux ; mais voyez donc cette petite masque!
 
--*who_blaise
-Par la jarnigué !
-Ça est merveilleux ; mais voyez donc cette petite masque!
+Que faire à ça ? Ce sont les mians tout brandis.
 
--*who_claudine
-Ah !
-Monsieur Blaise, elle a deux pruniaux bian malins.
-
--*who_blaise
-Que faire à ça ?
-Ce sont les mians tout brandis.
-
--*who_madamedamis
-De beaux yeux sont un grand avantage.
-
--*who_lechevalier
-Oui, pour qui les porte, j'en conviens ; mais qui les voit en paie la façon, et je me serais bien passé que Monsieur Blaise eût donné copie des siens à sa fille.
-
--*who_blaise
 Pardi tenez, j'avons quasi regret d'avoir comme ça baillé note mine à nos enfants, pisque ça vous tracasse.
 
--*who_lechevalier
-Homme d'honneur, ce que vous dites est touchant ; mais il est un moyen.
-
--*who_claudine
-Lequeul ?
-
--*who_lechevalier
-Le titre de votre gendre me sortirait d'embarras, par exemple ; et moyennant le nom de bru, la cousine guérirait.
-Je vous ai dit le mal, je vous montre le remède.
-
--*who_blaise
 Madame, êtes-vous d'avis que nous les guarissions ?
 
--*who_lechevalier
-Belle-mère, ne bronchez pas ; je me retiens pour votre fille.
-Ne rebutez pas les descendants que je vous offre, prenez place dans l'histoire.
+Oh, morguenne ! Tout va de plain-pied ici, il n'y a ni à monter ni à descendre, voyez-vous.
 
--*who_claudine
-Queu plaisir !
-Oh bian je nous accordons à tout, pourveu que Madame n'aille pas dire que ce mariage n'est pas de niviau avec elle.
+Touchez là, mon gendre ; allons, ma bru, ça vaut fait ; j'achèterons de la noblesse, alle sera toute neuve, alle en durera pus longtemps, et soutianra la vôtre qui est un peu usée. Pour ce qui est d'en cas d'à présent, allez prendre un doigt de collation. Madame Claudine, menez-les boire cheux nous, et dites à noute laquais qu'il arrive pour me parler ; je l'attends ici. Faites itou avartir les violoneux, car je veux de la joie.
 
--*who_blaise
-Oh, morguenne !
-Tout va de plain-pied ici, il n'y a ni à monter ni à descendre, voyez-vous.
+Parlons un peu seul ; car à cette heure que je sis du biau monde, faut avoir de grandes réflexions à cause de mes grandes affaires. Allons, rêvons donc, tout en nous promenant.
+Un père de famille a bian du souci, et c'est une mauvaise graine que des enfants. Drès que ça est grand, ça veut tâter de la noce. Stapendant on a un rang qui brille, des équipages qui clochont toujours, des laquais qui grugeont tout, et sans ce tintamarre-là, on ne saurait vivre. Les petites gens sont bianheureux. Mais il y a une bonne coutume ; an emprunte aux marchands et an ne les paie point ; ça soutient un ménage. Stapendant il m'est avis que je faisons un métier de fous, nous autres honnêtes gens... Mais velà noute fiscal qui viant ; je li devons de l'argent ; mais il n'y a rian à faire, je savons mon devoir.
 
--*who_lechevalier
-Cousine, répondez ; faites voir la modestie de vos sentiments.
+Serviteur, noute fiscal. Mais appelez-moi Monsieur Blaise ; ça m'appartiant.
 
--*who_madamedamis
-Puisque vous avez découvert ce que je pensais, je n'en ferai plus de mystère ; je souscris à tout ce que vous ferez, on sera content de mes manières.
-Je suis née simple et sans fierté, et votre fils m'a plu ; voilà la vérité.
-
--*who_lechevalier
-Repartez, beau-père.
-
--*who_blaise
-Touchez là, mon gendre ; allons, ma bru, ça vaut fait ; j'achèterons de la noblesse, alle sera toute neuve, alle en durera pus longtemps, et soutianra la vôtre qui est un peu usée.
-Pour ce qui est d'en cas d'à présent, allez prendre un doigt de collation.
-Madame Claudine, menez-les boire cheux nous, et dites à noute laquais qu'il arrive pour me parler ; je l'attends ici.
-Faites itou avartir les violoneux, car je veux de la joie.
-
-**** *book_ *id_I06 *act_I *date_1725
-
--*who_blaise
-Parlons un peu seul ; car à cette heure que je sis du biau monde, faut avoir de grandes réflexions à cause de mes grandes affaires.
-Allons, rêvons donc, tout en nous promenant.
-Un père de famille a bian du souci, et c'est une mauvaise graine que des enfants.
-Drès que ça est grand, ça veut tâter de la noce.
-Stapendant on a un rang qui brille, des équipages qui clochont toujours, des laquais qui grugeont tout, et sans ce tintamarre-là, on ne saurait vivre.
-Les petites gens sont bianheureux.
-Mais il y a une bonne coutume ; an emprunte aux marchands et an ne les paie point ; ça soutient un ménage.
-Stapendant il m'est avis que je faisons un métier de fous, nous autres honnêtes gens...
-Mais velà noute fiscal qui viant ; je li devons de l'argent ; mais il n'y a rian à faire, je savons mon devoir.
-
-**** *book_ *id_I07 *act_I *date_1725
-
--*who_lefiscal
-Bonjour, maître Blaise.
-
--*who_blaise
-Serviteur, noute fiscal.
-Mais appelez-moi Monsieur Blaise ; ça m'appartiant.
-
--*who_lefiscal
-Ah !
-Ah !
-Ah !
-J'entends ; votre fortune a haussé vos qualités.
-Soit, Monsieur Blaise, je me réjouis de votre aventure ; vos enfants viennent de me l'apprendre ; je vous en fais compliment, et je vous prie en même temps de me donner les cinquante francs que vous me devez depuis un mois.
-
--*who_blaise
 Ça est vrai, je reconnais la dette ; mais je ne saurais la payer, ça me serait reproché.
 
--*who_lefiscal
-Comment !
-Vous ne sauriez me payer ?
-Pourquoi ?
-
--*who_blaise
 Parce que ça n'est pas daigne d'une parsonne de ma compétence ; ça me tournerait à confusion.
 
--*who_lefiscal
-Qu'appelez-vous confusion ?
-Ne vous ai-je pas donné mon argent ?
-
--*who_blaise
 Eh bian oui, je ne vais pas à l'encontre ; vous me l'avez baillé, je l'ons reçu, je vous le dois ; je vous ai baillé mon écrit, vous n'avez qu'à le garder ; venez de jour à autre me demander votre dû, je ne l'empêche point ; je vous remettrons, et pis vous revianrez, et pis je vous remettrons, et par ainsi de remise en remise le temps se passera honnêtement ; velà comme ça se fait.
 
--*who_lefiscal
-Mais est-ce que vous vous moquez de moi ?
+Mais, morgué ! Boutez-vous à ma place. Voulez-vous que je me parde de réputation pour cinquante chétifs francs ? Ça vaut-il la peine de passer pour un je ne sais qui en payant ? Pargué ancore faut-il acouter la raison. Si ça se pouvait sans tourner au préjudice de mon état, je le ferions de bon coeur ; j'ons de l'argent, tenez, en velà. Il m'est bian parmis d'en bailler en emprunt, ça se pratique ; mais en paiement, ça ne se peut pas.
 
--*who_blaise
-Mais, morgué !
-Boutez-vous à ma place.
-Voulez-vous que je me parde de réputation pour cinquante chétifs francs ?
-Ça vaut-il la peine de passer pour un je ne sais qui en payant ?
-Pargué ancore faut-il acouter la raison.
-Si ça se pouvait sans tourner au préjudice de mon état, je le ferions de bon coeur ; j'ons de l'argent, tenez, en velà.
-Il m'est bian parmis d'en bailler en emprunt, ça se pratique ; mais en paiement, ça ne se peut pas.
-
--*who_lefiscal
-Oh oh, voici mon affaire.
-Il vous est permis d'en prêter, dites-vous ?
-
--*who_blaise
 Oh tout à fait parmis.
 
--*who_lefiscal
-Effectivement le privilège est noble, et d'ailleurs il vous convient mieux qu'à un autre ; car j'ai toujours remarqué que vous êtes naturellement généreux.
+Eh eh, oui, pas mal, vous tornez bian ça. Faut nous cajoler, nous autres gros monsieurs ; j'avons en effet de grands mérites, et des mérites bian commodes ; car ça ne nous coûte rian ; an nous les baille, et pis je les avons sans les montrer ; velà toute la çarimonie.
 
--*who_blaise
-Eh eh, oui, pas mal, vous tornez bian ça.
-Faut nous cajoler, nous autres gros monsieurs ; j'avons en effet de grands mérites, et des mérites bian commodes ; car ça ne nous coûte rian ; an nous les baille, et pis je les avons sans les montrer ; velà toute la çarimonie.
+Ça est vrai, Monsieur le fiscal, ça est vrai. Mais, morgué ! Vous me plaisez.
 
--*who_lefiscal
-Je prévois que vous aurez beaucoup de ces vertus-là, Monsieur Blaise.
-
--*who_blaise
-Ça est vrai, Monsieur le fiscal, ça est vrai.
-Mais, morgué !
-Vous me plaisez.
-
--*who_lefiscal
-Bien de l'honneur à moi.
-
--*who_blaise
 Je ne dis pas que non.
 
--*who_lefiscal
-Je ne vous parlerai plus de ce que vous me devez.
-
--*who_blaise
 Si fait da, je voulons que vous nous en parliez ; faut-il pas que je vous amusions ?
 
--*who_lefiscal
-Comme vous voudrez ; je satisferai là-dessus à la dignité de votre nouvelle condition ; et vous me paierez quand il vous plaira.
-
--*who_blaise
 Chiquet à chiquet, dans quelques dizaines d'années.
 
--*who_lefiscal
-Bon bon, dans cent ans ; laissons cela.
-Mais vous avez l'âme belle, et j'ai une grâce à vous demander, laquelle est de vouloir bien me prêter cinquante francs.
-
--*who_blaise
 Tenez, fiscal, je sis ravi de vous sarvir ; prenez.
 
--*who_lefiscal
-Je suis honnête homme ; voici votre billet que je déchire, me voilà payé.
+Vous velà payé, fiscal ? Jarnigué ! Ça est bian malhonnête à vous. Morgué ! Ce n'est pas comme ça qu'on triche l'honneur des gens de ma sorte ; c'est un affront.
 
--*who_blaise
-Vous velà payé, fiscal ?
-Jarnigué !
-Ça est bian malhonnête à vous.
-Morgué !
-Ce n'est pas comme ça qu'on triche l'honneur des gens de ma sorte ; c'est un affront.
+Par la sanguienne ! Il m'a vilainement attrapé là ; mais je li revaudrai.
 
--*who_lefiscal
-Ah, ah, ah, l'original homme, avec ses mérites qui ne lui coûteront rien !
-
-**** *book_ *id_I08 *act_I *date_1725
-
--*who_blaise
-Par la sanguienne !
-Il m'a vilainement attrapé là ; mais je li revaudrai.
-
--*who_arlequin
-Monsieur, que vous plaît-il de moi ?
-
--*who_blaise
 Il me plaît que vous bailliez une petite leçon de bonne manière à nos enfants : dressez-les un petit brin selon leur qualité, à celle fin qu'ils puissent tantôt batifoler à la grandeur, suivant les balivarnes du biau monde ; vous ferez bian ça ?
 
--*who_arlequin
-Eh qu'oui !
-J'ai sifflé plus de vingt linottes en ma vie, et vos enfants auront bien autant de mémoire.
-
--*who_colin
-Papa, je n'irons donc pas trouver la compagnie ?
-
--*who_arlequin
-Dites : Monsieur, et non papa.
-
--*who_colin
-Monsieur !
-Est-ce que ce n'est pas mon père ?
-
--*who_blaise
 N'importe, petit garçon, faites ce qu'on vous dit.
 
--*who_colette
-Et moi, papa... dis-je, Monsieur..., irons-je ?...
-
--*who_blaise
 Écoutez tous deux ce qu'il vous dira auparavant, et pis venez, quand vous saurez la politesse ; car je vous marie tous deux, voyez-vous!
 
--*who_colin
-Oh oh velà qui est bon ; j'aime le mariage, moi ; et je serai l'homme de qui ?
-
--*who_blaise
 De Madame Damis.
 
--*who_colin
-Tatigué !
-Que j'allons rire !
-
--*who_arlequin
-Ce transport est bon, je l'approuve ; mais le geste n'en vaut rien, je le casse.
-
--*who_colette
-Et moi, mon bon Monsieur, qui est-ce qui me prend ?
-
--*who_blaise
 Monsieur le Chevalier.
 
--*who_colette
-Eh bian tant mieux, je serai Chevalière.
+Je vais toujours devant. Commencez la leçon et faites vite.
 
--*who_blaise
-Je vais toujours devant.
-Commencez la leçon et faites vite.
+Oui, c'est une petite politesse que je faisons à ma bru, comme un reste de collation.
 
--*who_arlequin
-Allons, étudions.
+Il va venir ; divartissons-nous en l'attendant ; (allons, violons, courage).
+Eh velà le clerc de noute procureux ! Qu'est-ce, Monsieur Griffet ? Qu'y a-t-il de nouviau ?
 
-**** *book_ *id_I09 *act_I *date_1725
+Tenez, mon gendre, dites-moi l'écriture.
 
--*who_arlequin
-Laissez-moi me recueillir un moment.
-Qu'est-ce que je leur dirai ?
-Je n'en sais rien, car pour du beau monde, je n'en ai vu que dans les rues, en passant ; voilà tout le monde que je sais.
-N'importe, je me souviens d'avoir vu faire l'amour, j'entendis quelques paroles, en voilà assez.
-Ah çà, approchez.
-Comme ainsi soit qu'il n'est rien de si beau que les similitudes, commençons doctement par là.
-Prenez, Monsieur Colin, que vous êtes l'amant de Mademoiselle Colette ; parlez-lui d'amour, et elle vous répondra ; voyons.
+Femme, à quoi penses-tu ?
 
--*who_colin
+Et moi, je pense qu'il y a encore du vin dans le pot et que j'allons le boire. Allons, enfants, marchez.
+Venez boire itou, vous ; bon voyage après, et pis, adieu le biau monde.
+
+
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
+Eh je pense que velà Blaise !
+
+Voirement ! noute homme, vous prenez bian de la peine de revenir ; queu libertinage ! Être quatre jours à Paris, demandez-moi à quoi faire !
+
+Eh bian ! Que ne finit-il donc, sans nous coûter tant d'allées et de venues ? Toujours il meurt, et jamais ça n'est fait : voilà deux ou trois fois qu'il lantarne.
+
+Hélas ! Il est donc trépassé ce coup-ci ?
+
+Comment, pis ?
+
+Eh ! Il n'y a rian de nouveau à ça ; ce sera queussi, queumi. Il faut considérer qu'il était bian vieux qu'il avait beaucoup travaillé, bian épargné, bian chipoté sa pauvre vie.
+
+Bref ! Enfin le velà défunt. Parlons des vivants. T'es son unique hériquier ; qu'as-tu trouvé ?
+
+Eh eh eh ; dis donc, Nicaise, avec tes cinq sols de monnaie ! Qu'est-ce que t'en veux faire ?
+
+Pourquoi donc, Nicodème ?
+
+T'es venu dans la voiture ?
+
+T'as baillé un écu ?
+
+Et tu dépenses cinq sols en porteux de paquets ?
+
+Ah ! Mon homme est devenu fou.
+
+Queu coq-à-l'âne ! Velà cent mille francs avec cinq sols à cette heure!
+
+Eh que dites-vous ? Le défunt a laissé cent mille francs, maître Blaise ? Es-tu dans ton bon sens, ça est-il vrai ?
+
+Ça est çartain ? Mais ne rêves-tu pas ? N'as-tu pas le çarviau renvarsé ?
+
+Mais les as-tu vus ?
+
+Ah mon homme, tu me ravis l'âme : ça m'attendrit. Ce pauvre biau-frère ! Je le pleurons de bon coeur.
+
+Cent mille francs, sans compter le tricotage ! Mais où boutrons-je tout ça ?
+
+Oh ! Cela est juste ; tenez, mon bel ami, faites itou manigancer cela par un maltôtier.
+
+Ça est bien agriable.
+
+Prenons, retenons, bariolons, c'est fort bian fait, mon poulet.
+
+Le nom est drôle. Parlons des gages à présent. Combian voulez-vous gagner ?
+
+Diantre ! Ous en voulez donc lever une boutique ?
+
+C'est bian dit, mon homme, faut jouir.
+
+Certainement, et il n'y a d'abord qu'à m'habiller de brocard, acheter des jouyaux et un collier de parles : tu feras pour toi à l'avenant.
+
+De l'honneur ! J'en avons à revendre d'abord.
+
+Oh bian donc, je n'en vendrai ni n'en pardrai.
+
+Comment, sans en montrer tant ! Je ne montrerai pas mon honneur!
+
+Savoir queu badinage on me fera.
+
+Ce que je repars, Blaise ? Mais vraiment, je te repousse dans l'estomac, d'abord.
+
+Puis après, je vais à reculons.
+
+Ensuite je devians rouge, et je te dis pour qui tu me prends ; je t'appelle un impartinant, un vaurian : Ne m'attaque jamais, ce fais-je, en te montrant les poings, ne vians pas envars moi, car je ne sis pas aisiée, vois-tu bian ; n'y a rien à faire ici pour toi, va-t'en, tu n'es qu'un bélître.
+
+Le drôle de trafic ! Mais pourtant je sis mariée : que dirai-je en réponse ?
+
+Et drès que c'est la mode pour être honnête, je varrons ; cette vartu-là n'est pas plus difficile que la nôtre. Mais mon homme, que dira-t-il ?
+
+Blaise, cette froidure me chiffonne ; ça ne vaut rian en ménage ; je sis d'avis que je nous aimions bian au contraire.
+
+Hélas ! Blaise, comme tu fais ! Et qui est-ce qui m'aimera donc moi ?
+
+Mais quand je ne serons que tous deux, est-ce que tu me haïras ?
+
+Et moi, combian me coûtera un galant ? Car c'est mon devoir d'honnête madame d'en avoir un itou, n'est-ce pas ?
+
+Oui, trente à l'entour de moi, à cause de ma vartu commode ; mais ne me faut-il pas un galant à demeure ?
+
+Mon homme, si je n'ons pas un amoureux, ça nous fera tort, mon ami.
+
+Faut espérer que le bon exemple t'enhardira.
+
+Promenons-nous itou, pour voir ce qu'ils me diront.
+
+Avec votre parmission, à qui parlez-vous donc, Madame ?
+
+Oh bian ! Il n'y a ici ni maître ni maîtresse.
+
+Eh eh eh, comme il ricane!
+
+Tenez, je vous parle à tous deux, car vous ne savez pas ce que vous dites, vous ne savez pas le tu autem. Boutez-vous à votre devoir, honorez ma parsonne, traitez-moi de Madame, demandez-moi comment se porte ma santé, mettez au bout queuque coup de chapiau, et pis vous varrais. Allons, commencez.
+
+Ah ah ah par ma fiqué ! Ça est trop drôle.
+
+Bon, mon mari ! Est-ce que je nous soucions l'un de l'autre ? J'avons le bel air, nous, de ne nous voir quasiment pas. Vous qui n'avez jamais quitté votre châtiau, cela vous passe, aussi bian que la vartu folichonne.
+
+Oh ! Ceti là vaut trop ; ils font envars moi ce que j'ons fait envers mon homme, ils me croyont le çarviau parclus ; ne leur disons rian ; velà Blaise qui viant.
+
+Non, mais j'ai bian tenu mon rang.
+
+Et an nous portera la queue.
+
+Allons, vous n'êtes qu'un badin.
+
+Eh bian ! Baisez ; ce n'est que des mains au bout du compte.
+
+Boutez dedans, Madame, boutez ; je ne sis point fâchée.
+
+Je vous gratifions de la même, et je vous désirons bonne chance.
+
+Oh ! Pour ça, faut avouer que Colin est biau ; n'en dit partout qu'il me ressemble.
+
+Ah ! Monsieur Blaise, elle a deux pruniaux bian malins.
+
+Lequeul ?
+
+Queu plaisir ! Oh bian je nous accordons à tout, pourveu que Madame n'aille pas dire que ce mariage n'est pas de niviau avec elle.
+
+Je pense que velà bian des équipages de chus, et des casaques de reste.
+
+
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+
+Oh ! Oh ! Oh !
+
+Laissez-moi en repos, malappris.
+
+Oh oh oh je serons Chevalier itou, moi.
+
+Monsieur, je sis de l'opinion de ma soeur ; ce qu'elle a dit, je le dis.
+
+Papa, je n'irons donc pas trouver la compagnie ?
+
+Monsieur ! Est-ce que ce n'est pas mon père ?
+
+Oh oh velà qui est bon ; j'aime le mariage, moi ; et je serai l'homme de qui ?
+
+Tatigué ! Que j'allons rire !
+
 Parlez-donc, Mademoiselle, vous velà donc ?
 
--*who_colette
-Oui, Monsieur, me voilà !
-De quoi s'agit-il ?
-
--*who_colin
 Il s'agit, Mademoiselle, qu'il y a bian des nouvelles.
 
--*who_colette
-Et queulles, Monsieur ?
+C'est que la biauté de votre parsonne... Car il ne faut pas tant de priambule ; et c'est ce qui fait d'abord que je vous veux pour femme. Qu'est-ce qu'ou dites à ça ?
 
--*who_colin
-C'est que la biauté de votre parsonne...
-Car il ne faut pas tant de priambule ; et c'est ce qui fait d'abord que je vous veux pour femme.
-Qu'est-ce qu'ou dites à ça ?
-
--*who_colette
-Je dis qu'il en arrivera ce qu'il pourra ; mais que voute discours me hausse la couleur, parce que je n'avons pas la coutume d'entendre prononcer les choses que vous mettez en avant.
-
--*who_arlequin
-Ah !
-Cela va couci-couci.
-
--*who_colin
 Ça est vrai, Mademoiselle ; mais vous serez pus accoutumée à la seconde fois qu'à la première, et de fois en fois vous vous y accoutumerez tout à fait.
 Fais-je bien ?
 
--*who_arlequin
-J'aperçois quelque chose de rustique dans les dernières lignes de votre compliment.
+C'est que je suis hâtif ; mais j'irai le pas. Je ne dirai pas que vous serez ma femme ; mais ça n'empêchera pas que je ne sois votre homme.
 
--*who_colette
+Morgué ! C'est que cette noce est friande, et mon esprit va toujours trottant envers elle.
+
+Bon, bon ! Laissons tout cela ; tenez je m'en vas, je n'aime pas à être à l'école ; je parlerai à l'aventure ; laissez venir Madame Damis ; pisqu'alle est veuve, alle me fera mieux ma leçon que vous. Adieu, mijaurée ; je vous salue, noute magister.
+
+Je sommes ici pour voir ça.
+
+Tâchons de bian dire.
+Madame, il est vrai que l'honneur de voir voute biauté est une chose si admirable, que par rapport à noute mariage, dont ce que j'en dis n'est pas que j'en parle car mon amitié dont je ne dis mot ; mais..., morgué tenez, je m'embarbouille dans mon compliment, parlons à la franquette ; il n'y a que les mots qui faisont les paroles. J'allons être mariés ensemble, ça me réjouit ; ça vous rend-il gaillarde ?
+
+Il est vrai que je ne savons pas l'ostographe ; mais morgué ! Je sommes tout à fait drôle ; quand je ris, c'est de bon coeur ; quand je chante, c'est pis qu'un marle, et de chansons j'en savons plein un boissiau ; c'est toujours moi qui mène le branle, et pis je saute comme un cabri ; et boute et t'en auras, toujours le pied en l'air ; n'y a que moi qui tiant, hors Mathuraine, da, qui est aussi une sauteuse, haute comme une parche. La connaissez-vous ? C'est une bonne criature, et moi aussi ; tenez, je prends le temps comme il viant, et l'argent pour ce qu'il vaut. Parlons de vous. Je sis riche, ous êtes belle, je vous aime bian, tout ça rime ensemble ; comment me trouvez-vous ?
+
+Morgué ! L'appétit ne me manque pas, toujours ; c'est le principal ; et pis cette éducation, à quoi ça sart-il ? Est-ce qu'on en aime mieux ? Je gage que non. Marions-nous ; vous en varrez la preuve. Velà parler, ça.
+
+Bian entendu ; mais avec la parmission de votre éducation, dites-moi, suis-je pas aimable ?
+
+Assez ! C'est comme qui dirait beaucoup ; mais c'est que la confusion vous rend le coeur chiche ; baillez-moi votre main que je la baise ; ça vous mettra pus en train.
+
+Dame ! Je vas mon train, moi, sans prendre garde aux bornes ; mais morgué ! Dites-moi de la douceur.
+
+Eh bian ! Ça se prête ; et je sis bon pour vous rendre.
+
+Bon ! Velà une belle bagatelle voirement vous en varrez bian d'autres.
+
+Alle me trouve gaillard, et alle dit qu'alle est bian contente ; mais velà des violoneux.
+
+Pardi ! C'est une accordée de pardue ; tu me quittes, je te quitte, et vive la joie ! Dansons, papa.
+
+
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+
+Allez-y voir ; vous n'avez rien à me commander.
+
+J'allons porter le taffetas.
+
+Monsieur, vos grâces l'emportont sur les nôtres, et j'avons encore plus de reconnaissance que de mérite.
+
+Et moi, papa... dis-je, Monsieur..., irons-je ?...
+
+Et moi, mon bon Monsieur, qui est-ce qui me prend ?
+
+Eh bian tant mieux, je serai Chevalière.
+
+Oui, Monsieur, me voilà ! De quoi s'agit-il ?
+
+Et queulles, Monsieur ?
+
+Je dis qu'il en arrivera ce qu'il pourra ; mais que voute discours me hausse la couleur, parce que je n'avons pas la coutume d'entendre prononcer les choses que vous mettez en avant.
+
 Mais oui ; il m'est avis qu'il a d'abord galopé de l'amour au mariage.
 
--*who_colin
-C'est que je suis hâtif ; mais j'irai le pas.
-Je ne dirai pas que vous serez ma femme ; mais ça n'empêchera pas que je ne sois votre homme.
+Eh bian ! Le vlà encore embarbouillé dans les épousailles.
 
--*who_colette
-Eh bian !
-Le vlà encore embarbouillé dans les épousailles.
+Eh pardi ! Il n'y a qu'à dire, je serai pus hardie ; car je me retians à cette heure-ci. Tenez, ce n'était que mon frère qui m'en contait, dame ! Ça n'affriole pas. Mais, Monsieur le Chevalier, c'est une autre histoire ; sa mine me plaît ; vous varrez, vous varrez comme ça me démène le coeur. Voulez-vous que je lui dise que je l'aime ? Ça me fera biaucoup de plaisir.
 
--*who_colin
-Morgué !
-C'est que cette noce est friande, et mon esprit va toujours trottant envers elle.
-
--*who_arlequin
-Vous avez le goût d'une épaisseur !...
-
--*who_colin
-Bon, bon !
-Laissons tout cela ; tenez je m'en vas, je n'aime pas à être à l'école ; je parlerai à l'aventure ; laissez venir Madame Damis ; pisqu'alle est veuve, alle me fera mieux ma leçon que vous.
-Adieu, mijaurée ; je vous salue, noute magister.
-
-**** *book_ *id_I10 *act_I *date_1725
-
--*who_arlequin
-Velà une éducation qui m'a coûté bien de la peine ; achevons la vôtre, Mademoiselle.
-Premièrement, je crois qu'il a raison, quand il vous appelle une mijaurée.
-
--*who_colette
-Eh pardi !
-Il n'y a qu'à dire, je serai pus hardie ; car je me retians à cette heure-ci.
-Tenez, ce n'était que mon frère qui m'en contait, dame !
-Ça n'affriole pas.
-Mais, Monsieur le Chevalier, c'est une autre histoire ; sa mine me plaît ; vous varrez, vous varrez comme ça me démène le coeur.
-Voulez-vous que je lui dise que je l'aime ?
-Ça me fera biaucoup de plaisir.
-
--*who_arlequin
-Prrrr...
-Comme elle y va !
-Tout le sang de la famille court la poste ; patience, mon écolière ; je vous disais donc quelque chose..., où en étions-nous ?
-
--*who_colette
 À l'endroit où j'étais une mijaurée.
 
--*who_arlequin
-Tout juste, et je concluais...
-Mais je ne conclus plus rien ; j'ajouterai seulement ce qui s'ensuit.
-Quand les révérences seront faites, vous aurez une certaine modestie, qui sera relevée d'une certaine coquetterie...
-
--*who_colette
 Je boutrai une pincée de chaque sorte, n'est-ce pas ?
 
--*who_arlequin
-Fort bien.
-Vous serez... timide.
+Hélas ! Pourquoi ?
 
--*who_colette
-Hélas !
-Pourquoi ?
+Ah ! J'entends, je boutrai de ça qui ne dit rian et qui n'en pense pas moins.
 
--*who_arlequin
-Timide et galante.
-
--*who_colette
-Ah !
-J'entends, je boutrai de ça qui ne dit rian et qui n'en pense pas moins.
-
--*who_arlequin
-L'aimable enfant !
-Elle entend ce que je lui dis ; et moi, je n'y comprends rien.
-Le Chevalier continuera ; d'abord il ne sera que poli ; petit à petit il deviendra tendre.
-
--*who_colette
 Et moi qui le varrai venir, je m'avancerai à l'avenant.
 
--*who_arlequin
-Elle veut toujours avancer.
-
--*who_colette
 Je lui baillerai bonne espérance, et je pardrai mon coeur à proportion que j'aurai le sian.
 
--*who_arlequin
-Ma foi, vous y êtes.
+Oh ! Laissez-moi faire ; je saurai bien petit à petit manquer de courage, et pis en manquer encore davantage, et pis enfin n'en avoir pus.
 
--*who_colette
-Oh !
-Laissez-moi faire ; je saurai bien petit à petit manquer de courage, et pis en manquer encore davantage, et pis enfin n'en avoir pus.
-
--*who_arlequin
-Il n'y a plus d'enfants !
-Mademoiselle, vous dira-t-il en vous abordant, vous voyez le plus humble des vôtres.
-
--*who_colette
 Et moi, je vous remarcie de votre humilité, ce li ferai-je.
 
--*who_arlequin
-Que vous êtes aimable !
-Qu'on a de plaisir à vous contempler ! ajoutera-t-il, en penchant la tête.
-Qu'il serait heureux de vous plaire, et qu'un coeur qui vous adore goûterait d'admirables félicités !
-Ah !
-Ma chère Demoiselle, quel tas de charmes !
-Que d'appas !
-Que d'agréments !
-Votre personne en fourmille, ils ne savent où se mettre...
-Souriez mignardement là-dessus.
-Ah, ma déesse !
-Puis-je espérer que vous aurez pour agréable la tendresse de votre amant ?...
-Regardez-moi honteusement, du coin de l'oeil, à présent.
-
--*who_colette
 Comme ça ?
 
--*who_arlequin
-Bon !
-Ah !
-Qu'est-ce que c'est que cela ?
-Vous me lorgnez d'une manière qui me transporte.
-Est-ce que vous m'aimeriez ?
-Répondez.
-Je ne veux qu'un pauvre petit mot.
-Soupirez à présent.
-
--*who_colette
 Bian fort ?
 
--*who_arlequin
-Non, d'un soupir étouffé.
-
--*who_colette
 Ah!
 
--*who_arlequin
-Oh !
-Après ce soupir-là il deviendra fou, il ne dira plus que des extravagances ; quand vous verrez cela, vous vous rendrez, vous lui direz : je vous aime.
+Tenez, tenez, le velà qui viant ; je parie qu'il va me faire repasser ma leçon. Dame ! Je sais où il faut me rendre, à cette heure.
 
--*who_colette
-Tenez, tenez, le velà qui viant ; je parie qu'il va me faire repasser ma leçon.
-Dame !
-Je sais où il faut me rendre, à cette heure.
-
--*who_arlequin
-Adieu donc ; je vous mets la bride sur le cou.
-Ouf !
-Je crois que mon coeur a cru que je parlais sérieusement.
-
-**** *book_ *id_I11 *act_I *date_1725
-
--*who_lechevalier
-Mon ami, tu fais ici la pluie et le beau temps ; fais durer le dernier, je t'en prie ; je suis né reconnaissant.
-
--*who_arlequin
-Mettez-vous en chemin ; je vous promets le plus beau temps du monde.
-
-**** *book_ *id_I12 *act_I *date_1725
-
--*who_lechevalier
-J'ai quitté la compagnie, je n'ai pu, Mademoiselle, résister à l'envie de vous voir.
-J'ai perdu mon coeur, une charmante personne me l'a pris, cela m'inquiète, et je viens lui demander ce qu'elle en veut faire.
-N'êtes-vous pas la receleuse ?
-Donnez-m'en des nouvelles, je vous prie.
-
--*who_colette
 Oh pisqu'il a perdu son coeur, nous ne bataillerons pas longtemps.
 Monsieur, pour ce qui est de votre coeur, je ne l'avons pas vu ; si vous me disiez la parsonne qui l'a prins, on varrait ça.
 
--*who_lechevalier
-Vous ne la connaissez donc pas ?
-
--*who_colette
 Non, Monsieur ; je n'avons pas cet honneur-là.
 
--*who_lechevalier
-Vous ne la connaissez pas ?
-Eh !
-Cadédis, je vous prends sur le fait ; vous portez les yeux de celle qui m'a fait le vol.
-
--*who_colette
 Je le vois venir le malicieux.
 Monsieur, c'est pourtant mes yeux que je porte, je n'empruntons ceux-là de parsonne.
 
--*who_lechevalier
-Parlez, ne vous voyez-vous jamais dans le cristal de vos fontaines ?
+Oh ! Si fait, queuquefois en passant.
 
--*who_colette
-Oh !
-Si fait, queuquefois en passant.
-
--*who_lechevalier
-Patience, eh qu'y voyez-vous ?
-
--*who_colette
 Eh mais, je m'y vois.
 
--*who_lechevalier
-Eh donc, voilà ma friponne.
+Hélas ! Il sera bientôt mon fripon itou.
 
--*who_colette
-Hélas !
-Il sera bientôt mon fripon itou.
+Dame ! Ce qui est fait est fait. Votre coeur est venu à moi, je ne li dirai pas de s'en aller ; et on ne rend pas cela de la main à la main.
 
--*who_lechevalier
-Que répondez-vous à ce que je dis ?
+Queu pitié que tout ça ! Comment ferai-je donc ?
 
--*who_colette
-Dame !
-Ce qui est fait est fait.
-Votre coeur est venu à moi, je ne li dirai pas de s'en aller ; et on ne rend pas cela de la main à la main.
+Oui-da ! Vous êtes bian fin ! Si vous l'aviez une fois, vous le garderiez peut-être.
 
--*who_lechevalier
-Me le rendre !
-Quand vous avez tiré dessus, quand vous l'avez incendié, qu'il se portait bien, et que vous l'avez fait malade !
-Non, ma toute belle, je ne veux point d'un incurable.
+Oh ! Ça se peut bian ; mais il n'est pas encore temps de le dire.
 
--*who_colette
-Queu pitié que tout ça !
-Comment ferai-je donc ?
-
--*who_lechevalier
-Ne vous effrayez point ; sans crier au meurtre, je trouve un expédient ; vous m'avez maltraité le coeur, faites les frais de sa guérison ; j'attendrai, je suis accommodant, le vôtre me servira de nantissement, je m'en contente.
-
--*who_colette
-Oui-da !
-Vous êtes bian fin !
-Si vous l'aviez une fois, vous le garderiez peut-être.
-
--*who_lechevalier
-Je vous le garderais !
-Vous sentez donc cela, mignonne ?
-Une légion de coeurs, si je vous les donnais, ne paierait pas cette expression affectueuse ; mais achevez ; vous êtes naïve, développez-vous sans façon, dites le vrai ; vous m'aimez ?
-
--*who_colette
-Oh !
-Ça se peut bian ; mais il n'est pas encore temps de le dire.
-
--*who_lechevalier
-Je me mettrais à genoux devant ces paroles, je les savoure, elles fondent comme le miel ; mais donc quand sera-t-il temps de tout dire ?
-
--*who_colette
 Allez, allez toujours ; je vous garde ça, quand je vous verrai dans le transport.
 
--*who_lechevalier
-Faites donc vite, car il me prend.
+Oh ! Je ne le veux pas lors, retournons où nous étions. Vous me demandez mon coeur ; mais il est tout neuf ; et le vôtre a peut-être sarvi.
 
--*who_colette
-Oh !
-Je ne le veux pas lors, retournons où nous étions.
-Vous me demandez mon coeur ; mais il est tout neuf ; et le vôtre a peut-être sarvi.
-
--*who_lechevalier
-Le mien, pouponne, savez-vous ce qu'on en dit dans le monde, le nom qu'on lui donne ?
-On l'appelle l'indomptable.
-
--*who_colette
 Il a donc pardu son nom maintenant ?
 
--*who_lechevalier
-Il ne lui en reste pas une syllabe, vos beaux yeux l'ont dépouillé de tout ; je le renonce, et je plaide à présent pour en avoir un autre.
-
--*who_colette
 Et moi, qui ne sais pas plaider, vous varrez que je pardrai cette cause-là.
 
--*who_lechevalier
-Gageons, ma poule, que l'affaire est faite.
-
--*who_colette
 Je crois que voici l'endroit de le regarder tendrement.
 
--*who_lechevalier
-Je vous entends, mon âme, ce regard-là décide ; je triomphe, je suis vainqueur ; mais faites doucement, la victoire m'étourdit, je m'égare, la tête me tourne ; ménagez-moi, je vous prie.
-
--*who_colette
 Velà qui est fait, il est fou, ça doit me gagner, faut que je parle.
 
--*who_lechevalier
-Le papa vous donne à moi ; signez, paraphez la donation, dites que je vous plais.
+Oh ! Pour ça, oui, vous me plaisez ; n'y a que faire de patarafe à ça.
 
--*who_colette
-Oh !
-Pour ça, oui, vous me plaisez ; n'y a que faire de patarafe à ça.
-
--*who_lechevalier
-Vous me ravissez sans me surprendre ; mais voici Madame Damis et le beau-frère ; nos affaires sont faites ; ils viennent convenir des leurs.
-Retirons-nous.
-
-**** *book_ *id_I13 *act_I *date_1725
-
--*who_lechevalier
-Jusqu'au revoir.
-Monsieur Colin, vous aime-t-on ?
-
--*who_colin
-Je sommes ici pour voir ça.
-
--*who_lechevalier
-Achevez donc.
-
-**** *book_ *id_I14 *act_I *date_1725
-
--*who_colin
-Tâchons de bian dire.
-Madame, il est vrai que l'honneur de voir voute biauté est une chose si admirable, que par rapport à noute mariage, dont ce que j'en dis n'est pas que j'en parle car mon amitié dont je ne dis mot ; mais..., morgué tenez, je m'embarbouille dans mon compliment, parlons à la franquette ; il n'y a que les mots qui faisont les paroles.
-J'allons être mariés ensemble, ça me réjouit ; ça vous rend-il gaillarde ?
-
--*who_madamedamis
-Il parle un assez mauvais langage, mais il est amusant.
-
--*who_colin
-Il est vrai que je ne savons pas l'ostographe ; mais morgué !
-Je sommes tout à fait drôle ; quand je ris, c'est de bon coeur ; quand je chante, c'est pis qu'un marle, et de chansons j'en savons plein un boissiau ; c'est toujours moi qui mène le branle, et pis je saute comme un cabri ; et boute et t'en auras, toujours le pied en l'air ; n'y a que moi qui tiant, hors Mathuraine, da, qui est aussi une sauteuse, haute comme une parche.
-La connaissez-vous ?
-C'est une bonne criature, et moi aussi ; tenez, je prends le temps comme il viant, et l'argent pour ce qu'il vaut.
-Parlons de vous.
-Je sis riche, ous êtes belle, je vous aime bian, tout ça rime ensemble ; comment me trouvez-vous ?
-
--*who_madamedamis
-Il ne vous manque qu'un peu d'éducation, Colin.
-
--*who_colin
-Morgué !
-L'appétit ne me manque pas, toujours ; c'est le principal ; et pis cette éducation, à quoi ça sart-il ?
-Est-ce qu'on en aime mieux ?
-Je gage que non.
-Marions-nous ; vous en varrez la preuve.
-Velà parler, ça.
-
--*who_madamedamis
-Je crois que vous m'aimerez ; mais écoutez, Colin ; il faudra vous conformer un peu à ce que je vous dirai ; j'ai de l'éducation, moi, et je vous mettrai au fait de bien des choses.
-
--*who_colin
-Bian entendu ; mais avec la parmission de votre éducation, dites-moi, suis-je pas aimable ?
-
--*who_madamedamis
-Assez.
-
--*who_colin
-Assez !
-C'est comme qui dirait beaucoup ; mais c'est que la confusion vous rend le coeur chiche ; baillez-moi votre main que je la baise ; ça vous mettra pus en train.
-
--*who_madamedamis
-Doucement, Colin, vous passez les bornes de la bienséance.
-
--*who_colin
-Dame !
-Je vas mon train, moi, sans prendre garde aux bornes ; mais morgué !
-Dites-moi de la douceur.
-
--*who_madamedamis
-Ça ne se doit pas.
-
--*who_colin
-Eh bian !
-Ça se prête ; et je sis bon pour vous rendre.
-
--*who_madamedamis
-En vérité, l'Amour est un grand maître !
-Il a déjà rendu ses simplicités agréables.
-
--*who_colin
-Bon !
-Velà une belle bagatelle voirement vous en varrez bian d'autres.
-
-**** *book_ *id_I15 *act_I *date_1725
-
--*who_lechevalier
-Eh bien mes amis, êtes-vous tous d'accord ?
-
--*who_colin
-Alle me trouve gaillard, et alle dit qu'alle est bian contente ; mais velà des violoneux.
-
--*who_blaise
-Oui, c'est une petite politesse que je faisons à ma bru, comme un reste de collation.
-
--*who_lechevalier
-Et le contrat ?
-Sandis !
-C'est le repos de l'amour honnête ; où se tient le notaire ?
-
--*who_blaise
-Il va venir ; divartissons-nous en l'attendant ; (allons, violons, courage).
-Eh velà le clerc de noute procureux !
-Qu'est-ce, Monsieur Griffet ?
-Qu'y a-t-il de nouviau ?
-
--*who_griffet
-Lisez, Monsieur.
-
--*who_blaise
-Tenez, mon gendre, dites-moi l'écriture.
-
--*who_lechevalier
-J'ai cru devoir vous avertir que Monsieur Rapin fit hier banqueroute, et que l'état dans lequel il laisse ses affaires fait juger qu'il passe en pays étranger ; il doit à plusieurs personnes, et ne laisse pas un sol ; j'ai pris toutes les mesures convenables en pareil cas, j'y suis intéressé moi-même ; mais je ne vois nulle espérance.
-Mandez-moi cependant ce que vous voulez que je fasse ; j'attends votre réponse, et suis...
-Blaise, mon ami, il ne me reste plus qu'à vous répéter ce que le procureur a mis au bas de sa missive : et suis...
-Car les articles de notre contrat sont passés en pays étranger ; actuellement ils courent la poste.
-Adieu, Colette, je vous quitte avec douleur.
-
--*who_colette
 Velà donc cet homme qui me voulait bailler tout un régiment de coeurs!
 
--*who_lechevalier
-Le régiment, le banqueroutier le réforme, il emporte la caisse.
 
--*who_arlequin
-Ma foi !
-Ce n'est pas grand dommage ; mauvaise milice que tout cela, qui ne vaut pas le pain d'amunition.
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
--*who_lechevalier
-Je t'entends, faquin.
+Est-ce pour moi les cinq sols, Monsieur Blaise ?
 
--*who_madamedamis
-Allons, Monsieur le Chevalier, donnez-moi la main ; retirons-nous, car il se fait tard.
+Cinq sols ! Un héritier, cinq sols ! Un homme de votre étoffe ! Et où est la grandeur d'âme ?
 
--*who_arlequin
+C'est que Monsieur Blaise m'a dit, par les chemins, qu'il avait hérité d'autant de son frère le mercier.
+
+Voilà déjà six sols que vous boutez dans ma poche, et j'attends que vous les boutiez.
+
+Aussi ferai-je ; je le manigancerai au cabaret. Je vous rends grâces, Madame.
+
+N'avez-vous plus rien à m'ordonner, Monsieur ?
+
+Bon, il y a huit ans que je suis à la Cour.
+
+Ils sont encore plus bêtes que moi, profitons-en.
+Oh ! Laissez-moi faire, Monsieur ; je suis admirable pour élever une fille ; je sais lire et écrire dans le latin, dans le français, je chante gros comme un orgue, je fais des compliments ; d'ailleurs, je verse à boire comme un robinet de fontaine, j'ai des perfections charmantes. J'allais à mon village voir ma soeur ; mais si vous me prenez, je lui ferai mes excuses par lettre.
+
+Serviteur très humble, très obéissant et très gaillard Arlequin ; c'est le nom du personnage.
+
+Oh peu de choses, une bagatelle ; cent écus pour avoir des épingles.
+
+Conversez, Monsieur ; j'obéis, et j'y cours.
+
+Carrez-vous, enfants.
+
+Parlez ferme.
+
+Courage!
+
+Je chante de même ; c'est moi qui suis le précepteur de la famille.
+
+Pour moi, je ne veux que la clef de la cave.
+
+Et vous, Colin ?
+
+Colin fait bis.
+
+Et moi itou ; mais, Monsieur le Chevalier, où est mon compliment à moi, qui suis le docteur de la maison ?
+
+Grand merci de la gasconnade.
+
+Monsieur, que vous plaît-il de moi ?
+
+Eh qu'oui ! J'ai sifflé plus de vingt linottes en ma vie, et vos enfants auront bien autant de mémoire.
+
+Dites : Monsieur, et non papa.
+
+Ce transport est bon, je l'approuve ; mais le geste n'en vaut rien, je le casse.
+
+Allons, étudions.
+
+Laissez-moi me recueillir un moment.
+Qu'est-ce que je leur dirai ? Je n'en sais rien, car pour du beau monde, je n'en ai vu que dans les rues, en passant ; voilà tout le monde que je sais. N'importe, je me souviens d'avoir vu faire l'amour, j'entendis quelques paroles, en voilà assez.
+Ah çà, approchez. Comme ainsi soit qu'il n'est rien de si beau que les similitudes, commençons doctement par là. Prenez, Monsieur Colin, que vous êtes l'amant de Mademoiselle Colette ; parlez-lui d'amour, et elle vous répondra ; voyons.
+
+Ah ! Cela va couci-couci.
+
+J'aperçois quelque chose de rustique dans les dernières lignes de votre compliment.
+
+Vous avez le goût d'une épaisseur !...
+
+Velà une éducation qui m'a coûté bien de la peine ; achevons la vôtre, Mademoiselle. Premièrement, je crois qu'il a raison, quand il vous appelle une mijaurée.
+
+Prrrr... Comme elle y va ! Tout le sang de la famille court la poste ; patience, mon écolière ; je vous disais donc quelque chose..., où en étions-nous ?
+
+Tout juste, et je concluais... Mais je ne conclus plus rien ; j'ajouterai seulement ce qui s'ensuit. Quand les révérences seront faites, vous aurez une certaine modestie, qui sera relevée d'une certaine coquetterie...
+
+Fort bien. Vous serez... timide.
+
+Timide et galante.
+
+L'aimable enfant ! Elle entend ce que je lui dis ; et moi, je n'y comprends rien.
+Le Chevalier continuera ; d'abord il ne sera que poli ; petit à petit il deviendra tendre.
+
+Elle veut toujours avancer.
+
+Ma foi, vous y êtes.
+
+Il n'y a plus d'enfants ! Mademoiselle, vous dira-t-il en vous abordant, vous voyez le plus humble des vôtres.
+
+Que vous êtes aimable ! Qu'on a de plaisir à vous contempler ! ajoutera-t-il, en penchant la tête. Qu'il serait heureux de vous plaire, et qu'un coeur qui vous adore goûterait d'admirables félicités ! Ah ! Ma chère Demoiselle, quel tas de charmes ! Que d'appas ! Que d'agréments ! Votre personne en fourmille, ils ne savent où se mettre... Souriez mignardement là-dessus.
+Ah, ma déesse ! Puis-je espérer que vous aurez pour agréable la tendresse de votre amant ?... Regardez-moi honteusement, du coin de l'oeil, à présent.
+
+Bon ! Ah ! Qu'est-ce que c'est que cela ? Vous me lorgnez d'une manière qui me transporte. Est-ce que vous m'aimeriez ? Répondez. Je ne veux qu'un pauvre petit mot. Soupirez à présent.
+
+Non, d'un soupir étouffé.
+
+Oh ! Après ce soupir-là il deviendra fou, il ne dira plus que des extravagances ; quand vous verrez cela, vous vous rendrez, vous lui direz : je vous aime.
+
+Adieu donc ; je vous mets la bride sur le cou.
+Ouf ! Je crois que mon coeur a cru que je parlais sérieusement.
+
+Mettez-vous en chemin ; je vous promets le plus beau temps du monde.
+
+Ma foi ! Ce n'est pas grand dommage ; mauvaise milice que tout cela, qui ne vaut pas le pain d'amunition.
+
 Bonsoir, la cousine ; adieu, le cousin ; mes compliments à vos aïeux, à cause du bon sens qu'ils vous ont laissé.
 
--*who_colin
-Pardi !
-C'est une accordée de pardue ; tu me quittes, je te quitte, et vive la joie !
-Dansons, papa.
-
--*who_arlequin
 Sieur Blaise, vous m'avez pris sur le pied de cent écus par an ; il y a un jour que je suis ici ; calculons, payez et je pars.
 
--*who_blaise
-Femme, à quoi penses-tu ?
-
--*who_claudine
-Je pense que velà bian des équipages de chus, et des casaques de reste.
-
--*who_blaise
-Et moi, je pense qu'il y a encore du vin dans le pot et que j'allons le boire.
-Allons, enfants, marchez.
-Venez boire itou, vous ; bon voyage après, et pis, adieu le biau monde.

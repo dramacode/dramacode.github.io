@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_mortannibal  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1669  
 title: La Mort d'Annibal. Tragédie.  
 ---

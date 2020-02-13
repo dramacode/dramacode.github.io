@@ -1,659 +1,387 @@
 
 
-**** *book_ *id_I01 *act_I *date_1719
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
 
--*who_proserpine
-Vous voilà galamment vêtu, seigneur Pluton, et l'on aurait de la peine à reconnaître sous ce déguisement le Dieu des Enfers.
-Peut-on vous demander quelle est l'heureuse mortelle que vous honorez aujourd'huI de vos faveurs ?
+Quoi ! Morbleu ! Madame, vous me persécuterez sans relâche, et vos jalousies continuelles ne me donneront jamais un moment de repos ?
 
--*who_pluton
-Quoi !
-Morbleu !
-Madame, vous me persécuterez sans relâche, et vos jalousies continuelles ne me donneront jamais un moment de repos ?
+Et, ventrebleu ! Aimez-moi un peu moins si vous voulez être plus aimable à mes yeux : car enfin, les vacarmes que vous faites ici à tout propos m'obligeront d'en venir avec vous à une rupture ouverte, et pour peu que vous continuiez vos extravagances...
 
--*who_proserpine
-Il vous sied bien, vraiment, de le prendre sur ce ton, et vous avez bonne grâce de trouver à redire aux tendres reproches d'une femme qui vous aime !
+Que trop, dont j'enrage ! Maudit soit le jour que je pensai à vous enlever ! Je n'ai pas joui d'une heure de tranquillité depuis que j'ai fait cette sottise ; si elle était encore à refaire, vous ne me désoleriez pas tous les jours.
 
--*who_pluton
-Et, ventrebleu !
-Aimez-moi un peu moins si vous voulez être plus aimable à mes yeux : car enfin, les vacarmes que vous faites ici à tout propos m'obligeront d'en venir avec vous à une rupture ouverte, et pour peu que vous continuiez vos extravagances...
+Fi ! La jalouse !
 
--*who_proserpine
-Qu'est-ce à dire, extravagances ?
-Sachez qu'il n'y a rien de ridicule dans ma conduite ; vous êtes mon mari, une fois...
+Apprenez, ma petite mignonne, que si l'un de nous doit être jaloux, c'est moi qui ai lieu de l'être. Vous êtes tous les ans six mois sur la terre ; chacun vous y fait la cour. Cependant je n'y trouve point à redire : la jalousie est une passion trop bourgeoise ! Et moi, pauvre diable, je passe toute l'année dans ce lieu de tristesse, où la moitié du temps je suis pour ainsi dire veuf.
 
--*who_pluton
-Que trop, dont j'enrage !
-Maudit soit le jour que je pensai à vous enlever !
-Je n'ai pas joui d'une heure de tranquillité depuis que j'ai fait cette sottise ; si elle était encore à refaire, vous ne me désoleriez pas tous les jours.
+Aussi je ne m'en plains pas autrement. Il est bien juste que je prenne aussi l'air pour me rafraîchir, et, si vous étiez raisonnable...
 
--*who_proserpine
-Fort bien !
-Ne devriez-vous pas rougir de pareils sentiments ?
-Il vous convient bien, à votre âge, de faire encore le galant et de vous habiller comme un baladin pour plaire à quelques petites créatures !...
-
--*who_pluton
-Fi !
-La jalouse !
-
--*who_proserpine
-Et n'ai-je pas raison de l'être ?
-
--*who_pluton
-Apprenez, ma petite mignonne, que si l'un de nous doit être jaloux, c'est moi qui ai lieu de l'être.
-Vous êtes tous les ans six mois sur la terre ; chacun vous y fait la cour.
-Cependant je n'y trouve point à redire : la jalousie est une passion trop bourgeoise !
-Et moi, pauvre diable, je passe toute l'année dans ce lieu de tristesse, où la moitié du temps je suis pour ainsi dire veuf.
-
--*who_proserpine
-Je crois que ce n'est pas là votre plus mauvais moment.
-
--*who_pluton
-Aussi je ne m'en plains pas autrement.
-Il est bien juste que je prenne aussi l'air pour me rafraîchir, et, si vous étiez raisonnable...
-
--*who_proserpine
-Raisonnable !
-Ne vous y trompez pas, c'est la qualité dont les femmes se piquent le moins avec leurs maris, et je n'irai pas, pour vous plaire, tourner le dos à la multitude.
-
--*who_pluton
 Faites comme il vous plaira, je ne veux plus être contrôlé.
 
--*who_proserpine
-Vous me poussez à bout.
-Je vous suivrai partout...
-Je veux connaître ma rivale.
-
--*who_pluton
 Votre rivale ?
 
--*who_proserpine
-Oui.
-Vos fréquentes liaisons avec Mercure me font soupçonner votre fidélité.
-
--*who_pluton
 N'est-il pas ainsi de tous les autres dieux ?
 
--*who_proserpine
-Tant pis pour eux.
-Il est cause de notre mauvais ménage !
-
--*who_pluton
-Elle devine assez juste...
-Mais prenons un ton ferme.
+Elle devine assez juste... Mais prenons un ton ferme.
 Savez-vous que je veux être obéi ?
 
--*who_proserpine
-Obéi !
-Ciel !
-Obéi !
-Une femme obéir à son mari !
-On voit bien que vous ignorez l'usage du beau monde.
-
--*who_pluton
 Usage ou non, rentrez dans les enfers.
 
--*who_proserpine
-Je n'en ferai rien.
-
--*who_pluton
 Je ferai venir une légion de diables.
 
--*who_proserpine
-Et moi une légion de femmes.
-Nous verrons qui l'emportera.
+Holà ! Qu'on la conduise dans les Enfers, qu'on la garde à vue jusqu'à mon retour !
 
--*who_pluton
-Holà !
-Qu'on la conduise dans les Enfers, qu'on la garde à vue jusqu'à mon retour !
+Ah ! Je respire à la fin. Presque tous les hommes qui descendent ici-bas se plaignent de leurs femmes. Puisque les dieux ne sont pas exempts de leur mauvaise humeur, je ne dois pas m'en étonner. Mercure me fait bien attendre. Je ne sais s'il aura réussi auprès de l'aimable Violette et s'il lui a laissé ignorer qui je suis. Mais le voici.
 
-**** *book_ *id_I02 *act_I *date_1719
+Satisfais, je te prie, mon impatience. As-tu parlé à Violette de la force de mon amour ? Puis-je me flatter...
 
--*who_pluton
-Ah !
-Je respire à la fin.
-Presque tous les hommes qui descendent ici-bas se plaignent de leurs femmes.
-Puisque les dieux ne sont pas exempts de leur mauvaise humeur, je ne dois pas m'en étonner.
-Mercure me fait bien attendre.
-Je ne sais s'il aura réussi auprès de l'aimable Violette et s'il lui a laissé ignorer qui je suis.
-Mais le voici.
-
-**** *book_ *id_I03 *act_I *date_1719
-
--*who_pluton
-Satisfais, je te prie, mon impatience.
-As-tu parlé à Violette de la force de mon amour ?
-Puis-je me flatter...
-
--*who_mercure
-Quelle vivacité !
-Vous n'avez pas affaire à une déesse, pour en espérer si bonne composition.
-J'ai trouvé le secret de tromper Pantalon, le père de Violette, et d'expliquer à celle-ci votre tendresse.
-
--*who_pluton
 Que dois-je espérer ?
 
--*who_mercure
-Violette n'est pas pour vous.
-
--*who_pluton
 Que m'apprends-tu ?
 
--*who_mercure
-Nos soupçons sont justes : elle aime Arlequin et n'est pas d'avis de négliger un établissement solide pour un amour de passage.
-À moins d'un mariage dans les formes...
-
--*who_pluton
 Il faudrait donc pour cela répudier Proserpine.
 
--*who_mercure
-Gardez-vous-en bien !
-Elle ferait un vacarme de tous les diables.
-Mais faites mieux...
-Silvia, cousine de Violette, ne serait pas si difficile.
-Elle a pris pour elle les douceurs que vous disiez à l'autre, et je suis chargé de vous apprendre qu'elle vous aime.
+Un bonheur précipité me dégoûte. D'ailleurs la résistance de Violette irrite mes désirs : je veux vaincre sa fierté.
 
--*who_pluton
-Un bonheur précipité me dégoûte.
-D'ailleurs la résistance de Violette irrite mes désirs : je veux vaincre sa fierté.
-
--*who_mercure
-Cela ne sera pas aisé.
-Mais, sans répudier Proserpine, prenez Violette pour femme d'été ; peut-être en amènerez-vous la mode, comme de changer de meubles aux quatre saisons.
-
--*who_pluton
 Le remède serait plus que le mal.
 
--*who_mercure
-Faites-lui du moins espérer qu'elle deviendra votre femme.
-Elle vous croit un seigneur voisin de son père : cette fortune apparente l'éblouira et la fera répondre à vos désirs.
+Tu me rends la vie. Ne m'abandonne point et compte sur ma reconnaissance.
 
--*who_pluton
-Tu me rends la vie.
-Ne m'abandonne point et compte sur ma reconnaissance.
+Je ne donne point dans le ridicule des hommes. Tu en peux juger par l'habit que j'ai pris pour voir ma maîtresse.
 
--*who_mercure
-Je vais travailler pour vous.
-Mais n'allez pas prendre auprès de cette fille des airs de petit-maître, si communs aujourd'hui parmi nos dieux.
-Ils pourraient la révolter.
+Trop de parure l'aurait peut-être effarouchée. Mes présents feront mieux. Silvia s'est ressentie de mes libéralités, et avec cette bourse et ton secours je viendrai à bout de mes desseins.
 
--*who_pluton
-Je ne donne point dans le ridicule des hommes.
-Tu en peux juger par l'habit que j'ai pris pour voir ma maîtresse.
-
--*who_mercure
-Quoique ce soit par mon conseil que vous ayez pris l'habit d'Arlequin, peut-être n'avez-vous pas mieux fait.
-Un bel habit donne dans la vue ; les femmes aiment le faste.
-
--*who_pluton
-Trop de parure l'aurait peut-être effarouchée.
-Mes présents feront mieux.
-Silvia s'est ressentie de mes libéralités, et avec cette bourse et ton secours je viendrai à bout de mes desseins.
-
--*who_mercure
-Suivez-moi donc.
-
-**** *book_ *id_I04 *act_I *date_1719
-
--*who_pasquin
-Eh bien !
-Mon cher Arlequin, il y a une heure que je vous suis comme un barbet sans tirer de vous une seule parole.
-Dites-moi donc le sujet de votre mélancolie.
-
--*who_arlequin
-Pasquin amato, Pasquin amabile e carissimo amico, Pasquin Pasquinissimo.
-
--*who_pasquin
-Me voilà bien instruit !
-Serviteur à votre discrète et taciturne personne.
-
--*who_arlequin
-Ne m'abandonne pas, je t'en conjure.
-Tu vois en moi le miroir des loyaux amants et le prototype d'un chevalier de la triste figure.
-
--*who_pasquin
-Comment diable !
-Voilà du haut style.
-
--*who_arlequin
-Ah !
-Caro amico, je suis mort !
-L'ingrate Violette reçoit si mal ma tendresse qu'il m'est impossible de survivre à son infidélité.
-
--*who_pasquin
-Que me dites-vous là ?
-Lui en avez-vous donné quelque sujet ?
-
--*who_arlequin
-Nullement ; je n'ai jamais manqué une occasion de lui plaire.
-Prenait-elle la clé de la cave, je me saisissais de la chandelle et d'un verre ; je portais la main sur le robinet de la fontaine ; j'emplissais sa cruche et je n'oubliais jamais de boire cinq ou six rasades à sa santé, auxquelles elle répondait avec affection.
-
--*who_pasquin
-Fort bien.
-
--*who_arlequin
-Faisait-elle quelque fricassée :
-    « Arlequin, me disait-elle, trempe ton doigt dans la sauce. »
-Moi, avec un courage de héros, je portais un doigt intrépide dans le milieu de la casserole.
-    « Ah !
-Belle Violette !
-La canelle, le citron, le fromage de Milan, dominent autant dans ce ragoût que vous êtes supérieure en beauté aux jeunes filles de ce canton. »
-
--*who_pasquin
-Voilà des compliments admirables.
-
--*who_arlequin
-Une autre fois, tournant la broche :
-    « Belle Violette, lui disais-je, vous allez vous brûler le visage.
-Le mien, déjà rissolé au feu de vos beaux yeux, soutiendra mieux cette fatigue. »
-Elle avait la complaisance de me mettre la broche à la main.
-Plus content alors qu'un roi de Cocagne, j'avalais avec plaisir les lardons que je tirais de la poularde, et je baisais tendrement la menotte ou le petit museau de cette scélérate.
-De la poularde à Violette, de Violette à la poularde, je prenais souvent l'une pour l'autre.
-
--*who_pasquin
-Oh !
-Cher bel imbroglio !
-Mais je ne vois rien qui doive tant vous affliger !
-
--*who_arlequin
-Cet heureux temps n'est plus !
-Je n'ai que des marques d'aversion et c'est ce qui fait mon désespoir.
-Je n'ai rien à me reprocher.
-J'ai toujours été droit en besogne avec elle.
-
--*who_pasquin
-Je lui parlerai comme il faut, et je saurai pourquoi elle vous traite avec tant de dureté.
-Je vous apporterai de bonnes nouvelles.
-
--*who_arlequin
-Tu me rends la vie.
-Puisque tu es le fidèle dépositaire de mes plus secrètes pensées, tu seras l'heureux pilote qui conduira mon vaisseau battu par la tempête de la mauvaise humeur de Violette dans le port désiré de ses affections.
-
-**** *book_ *id_I05 *act_I *date_1719
-
--*who_silvia
-Enfin, me voilà seule, et je puis m'entretenir de la nouvelle passion que je ressens pour le riche inconnu !...
-Cinthio ne me touche plus.
-Y a-t-il à balancer ?
-Il est concierge du château de ce bourg ; la plaisante fortune en comparaison de l'autre !...
-Son confident est dans mes intérêts; il ne nuira pas à la réussite de cette affaire.
-Mon oncle, à la vérité, a des obligations infinies à Cinthio...
-Qu'est-ce que cela me fait ?
-Suis-je obligée de payer ses dettes ?
-Qu'il lui fasse épouser ma cousine !
-Le voici.
-Diantre soit de l'importun!
-
-**** *book_ *id_I06 *act_I *date_1719
-
--*who_cinthio
-Qu'avez-vous, belle Silvia ?
-Vous me paraissez toute changée.
-Depuis huit jours vous ne m'avez pas dit une parole gracieuse.
-
--*who_silvia
-Que voulez-vous que je vous dise ?
-
--*who_cinthio
-Que vous m'aimez toujours avec la même ardeur.
-
--*who_silvia
-Je ne saurais vous dire cela.
-
--*who_cinthio
-Pourquoi, s'il vous plaît ?
-
--*who_silvia
-C'est que cela n'est pas vrai.
-
--*who_cinthio
-Ciel !
-Ne m'avez-vous pas dit mille fois qu'il était impossible que votre tendresse pût augmenter ?
-
--*who_silvia
-C'est pourquoi elle a beaucoup perdu de sa force.
-Tenez, Cinthio, l'amour ressemble à la lune : il diminue lorsqu'il ne peut plus croître.
-
--*who_cinthio
-Quoi !
-Silvia, vous ne m'aimeriez plus ?
-
--*who_silvia
-Non, je suis toute naturelle.
-Si vous m'en croyez, vous chercherez fortune ailleurs.
-
--*who_cinthio
-Avez-vous sujet de vous plaindre de moi ?
-
--*who_silvia
-Au contraire.
-Celui que je vous préfère n'est pas si joli que vous.
-
--*who_cinthio
-Pourquoi l'emporte-t-il donc sur moi ?
-
--*who_silvia
-Il est riche, et en l'épousant je ne resterai pas longtemps sous un habit aussi simple.
-
--*who_cinthio
-Silvia, cessons la raillerie.
-
--*who_silvia
-Ce n'en est point une.
-Regardez ce brillant.
-Ce n'est qu'un petit échantillon de sa tendresse.
-Ma cousine en a bien d'autres, et elle n'est qu'en second dans cette intrigue !
-
--*who_cinthio
-Il serait possible que vous eussiez changé ?
-
--*who_silvia
-Pourquoi non ?
-Rien n'est si commun qu'une fille inconstante.
-
--*who_cinthio
-C'est l'usage des villes ; mais au village...
-
--*who_silvia
-À la ville comme au village, la femme est toujours la femme.
-Si les filles de ma condition sont plus réservées, c'est que les occasions leur manquent.
-
--*who_cinthio
-Qui vous en a tant appris ?
-
--*who_silvia
-Un petit séjour que j'ai fait à Naples, chez une de mes parentes.
-Et puis, mon pauvre Cinlhio, la seule nature fait chez nous plus d'opération en vingt-quatre heures que toute l'éducation que l'on donne aux hommes.
-À quinze ans une fille est faite, et souvent à trente un homme n'est qu'un sot.
-
--*who_cinthio
-Quelle surprise !
-
--*who_silvia
-Vous n'avez pas voyagé, puisque vous connaissez si peu les femmes.
-
--*who_cinthio
-Oh !
-Votre infidélité ne m'apprend que trop à les connaître !
-On ne voit en vous rien de naturel que le désir de plaire.
-
--*who_silvia
-Si vous êtes si bien instruit, devenez donc libre à votre tour.
-
--*who_cinthio
-Perfide !
-Je n'ai pas la force de vous imiter.
-Votre ingratitude me tue ; mais, avant de mourir, j'arracherai la vie à mon indigne rival.
-
-**** *book_ *id_I07 *act_I *date_1719
-
--*who_silvia
-Ô Ciel !
-Que va-t-il faire ?
-Je suis au désespoir...
-Pasquin, cours, je te prie, après Cinthio, qui veut se battre contre ce riche inconnu.
-Il est jaloux à la fureur.
-
--*who_pasquin
-Quel intérêt Cinthio prend-il à ce qui regarde Violette ?
-
--*who_silvia
-Comment !
-Ce qui regarde Violette ?
-
--*who_pasquin
-Elle vient de me faire confidence qu'elle aime assez mal à propos cet inconnu.
-Elle en est aimée passionnément.
-
--*who_silvia
-Elle est folle, mon pauvre Pasquin.
-C'est moi qu'il aime.
-
--*who_pasquin
-Point de chimères !
-Allez au solide: Cinthio vous convient.
-
--*who_silvia
-Je n'ai que faire de tes leçons.
-Si tu ne veux pas aller après lui, j'y vais moi-même.
-
--*who_pasquin
-Suivons-la pour l'engager à rendre sa tendresse à son premier amant.
-
-**** *book_ *id_I08 *act_I *date_1719
-
--*who_pantalon
-À qui diantre en avez-vous donc ?
-Depuis quelques jours on ne voit que bouder dans cette maison.
-Vous êtes sur le point d'épouser Arlequin, et vous êtes triste !
-
--*who_violette
-Arlequin ?
-Quel mari me destinez-vous là ?
-
--*who_pantalon
-Avez-vous perdu l'esprit ?
-Le plus gentil, le plus amusant de nos garçons, et que vous aimez à la folie !
-
--*who_violette
-Il ne me plaît plus : tel est le sujet de ma tristesse.
-
--*who_pantalon
-Oh !
-Oh !
-Voilà du fruit nouveau !
-Parbleu !
-Je me moque de vos caprices.
-Vous m'avez demandé Arlequin, et vous l'épouserez.
-J'ai donné ma parole.
-
--*who_violette
-Je l'ai donnée à un autre.
-
--*who_pantalon
-Vous osez faire une pareille impertinence !
-
-**** *book_ *id_I09 *act_I *date_1719
-
--*who_arlequin
-Qu'avez-vous donc à quereller si fort ma maîtresse ?
-
--*who_pantalon
-Me tenir un tel discours !
-
--*who_arlequin
-La, la !
-Quoi !
-Violette, vous ne voulez pas que je vous caresse ?
-
--*who_violette
-Laissez-moi...
-C'est par rapport à vous qu'il est si fort en colère.
-
--*who_pantalon
-Que lui va-t-elle dire ?
-Il faut cacher cette fantaisie, qui lui passera.
-
--*who_violette
-Oui, mon père, mon parti est pris, je n'épouserai point Arlequin.
-
--*who_arlequin
-Ohimé !
-Je suis mort!
-
--*who_pantalon
-À moins, dit-elle, que la noce se fasse aujourd'hui.
-
--*who_arlequin
-Oh !
-Je suis prêt à la contenter !
-
--*who_violette
-N'en croyez rien, Arlequin.
-
--*who_pantalon
-La pudeur l'empêche...
-
--*who_arlequin
-O che' gusto !
-Che' consolazione !
-Che' allegrezza !
-
-**** *book_ *id_I10 *act_I *date_1719
-
--*who_pluton
 Que je t'ai d'obligations !
 
--*who_mercure
-Point de compliments...
-Profitez de leur sommeil.
+Qu'elle est belle ! Mais dissipe son assoupissement... Je n'aime point une beauté endormie.
 
--*who_pluton
-Qu'elle est belle !
-Mais dissipe son assoupissement...
-Je n'aime point une beauté endormie.
+Ils ne se réveilleront pas de sitôt. Je vous ai fait préparer une collation dans le détour du bois. Venez-y. Toi, Mercure, exécute mes ordres.
 
--*who_mercure
-Peut-être la trouverez-vous trop éveillée.
+Tant mieux ! Qu'avez-vous donc, charmante Violette ? Vous pleurez.
 
--*who_violette
-Ô Seigneur !
-C'est vous ?
-Mais j'aperçois mon père avec Arlequin.
+Fi donc! Vous faites l'enfant. Que cela est vilain !
 
--*who_pluton
-Ils ne se réveilleront pas de sitôt.
-Je vous ai fait préparer une collation dans le détour du bois.
-Venez-y.
-Toi, Mercure, exécute mes ordres.
+Allons, mon aimable, éloignez les chagrins puérils.
 
--*who_arlequin
-Violette !
-Deux monstres épouvantables !
+Dites-moi, la belle, quel est le sujet de votre inquiétude ?
 
--*who_violette
-C'est le reste d'un songe fâcheux.
-J'ai rêvé bien plus agréablement : je viens de recevoir la foi de mariage d'un jeune seigneur.
+En vérité, Violette, vous n'y pensez pas. Vos scrupules sont hors de place. Pouvez-vous faire un moment comparaison entre Arlequin et moi ?
 
--*who_arlequin
-Ce n'est qu'un rêve.
+Mais, belle Violette, tous ces regrets sont inutiles. Quand je vous reconduirais chez votre père, vous n'en seriez pas plus avancée.
 
--*who_violette
-La chose est réelle : voilà les présents de noce.
-Il m'attend, je cours le rejoindre.
-Il n'y a plus de Violette pour toi...
-Je vais devenir au moins comtesse.
+C'est qu'Arlequin est mort.
+Il faut la tromper.
 
-**** *book_ *id_I11 *act_I *date_1719
+Très certainement.
 
--*who_arlequin
-Ah !
-Mes amis, Violette suit son nouvel amant !
-Venez, courons après son ravisseur.
+Non, le diable m'emporte ! C'est par la sienne.
 
-**** *book_ *id_I12 *act_I *date_1719
+Fort bien ! C'est-à-dire qu'il faudrait se tuer pour vous plaire. Ne voudriez-vous pas que je fisse cette sottise pour l'amour de vous ?
 
--*who_pantalon
-Je veux courir aussi après elle, mais les jambes me manquent.
-Que je suis à plaindre d'avoir une fille si extravagante !
-On lui aura jeté un sort ; elle aimait trop Arlequin!
+Grand merci !
 
-**** *book_ *id_I13 *act_I *date_1719
+Que voulez-vous faire ?
 
--*who_arlequin
-Malheureux que je suis !
-Il faut que ce soit un diable, puisqu'il m'a échappé.
-Malheureux Arlequin !
-Perfide Violette !
-Pantalon infortuné !
+Mais vous n'y pensez pas !
 
--*who_pantalon
+Quel emportement ! Je la croyais d'abord d'une douceur extrême. Elle est cent fois plus acariâtre que Proserpine. Ma foi, me voilà dégoûté du sexe pour longtemps ; et, diablesse pour diablesse, j'aime presque autant retourner à ma femme.
+
+Quoi ! Tu ne reconnais pas ton maître ?
+
+Oui, Pluton.
+
+Qu'entends-je ? C'est quelque nouveau tour de ma femme. Je vais punir cet imposteur.
+
+Quoi ! Je souffrirais cet affront ?
+
+Ô dieux ! C'est Arlequin. Continuez : cela ne va pas mal.
+
+Ta femme, malheureux ? Oh ! Je t'étranglerai, et cette infâme ne portera pas loin l'injure qu'elle a faite à mon honneur.
+
+Ah ! Scélérate ! Tu me désavoues pour ton mari ?
+
+Je n'y puis plus tenir. La rage et la fureur...
+
+Avais-je tort, perfide?
+
+Écoute, j'ai à te faire une petite proposition. Ce séjour n'est pas fort agréable pour toi.
+
+Retourne sur la terre; je t'y comblerai de biens.
+
+Tu l'auras.
+
+Mais...
+
+Je jure donc de n'aimer que ma femme.
+Quelle punition !
+
+Oh ! Parbleu ! C'est trop demander.
+
+Cela est-il possible ?
+
+Dans quel embarras Mercure m'a-t-il jeté !
+
+Fort bien !
+
+Je jure par le Styx qu'elle t'a été fidèle, et qu'il y a eu plus de jeunesse et d'ambition que de malice dans ce qu'elle a fait.
+
+Rien n'est plus vrai. Retourne auprès d'elle ; Mercure te conduira où elle est. Jouissez d'un bonheur que je ne troublerai plus.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
+
+Vous voilà galamment vêtu, seigneur Pluton, et l'on aurait de la peine à reconnaître sous ce déguisement le Dieu des Enfers. Peut-on vous demander quelle est l'heureuse mortelle que vous honorez aujourd'huI de vos faveurs ?
+
+Il vous sied bien, vraiment, de le prendre sur ce ton, et vous avez bonne grâce de trouver à redire aux tendres reproches d'une femme qui vous aime !
+
+Qu'est-ce à dire, extravagances ? Sachez qu'il n'y a rien de ridicule dans ma conduite ; vous êtes mon mari, une fois...
+
+Fort bien ! Ne devriez-vous pas rougir de pareils sentiments ? Il vous convient bien, à votre âge, de faire encore le galant et de vous habiller comme un baladin pour plaire à quelques petites créatures !...
+
+Et n'ai-je pas raison de l'être ?
+
+Je crois que ce n'est pas là votre plus mauvais moment.
+
+Raisonnable ! Ne vous y trompez pas, c'est la qualité dont les femmes se piquent le moins avec leurs maris, et je n'irai pas, pour vous plaire, tourner le dos à la multitude.
+
+Vous me poussez à bout. Je vous suivrai partout... Je veux connaître ma rivale.
+
+Oui. Vos fréquentes liaisons avec Mercure me font soupçonner votre fidélité.
+
+Tant pis pour eux. Il est cause de notre mauvais ménage !
+
+Obéi ! Ciel ! Obéi ! Une femme obéir à son mari ! On voit bien que vous ignorez l'usage du beau monde.
+
+Je n'en ferai rien.
+
+Et moi une légion de femmes. Nous verrons qui l'emportera.
+
+Ah ! Te voilà donc, traître ?
+
+Il vaudrait mieux que cela fût vrai, perfide ! Pourquoi m'enlevais-tu à ma mère et âmes fidèles compagnes si tu voulais me traiter ainsi ? M'abandonner pour une petite créature !
+
+Ne crois pas me tromper davantage... J'ai découvert quelle est ma rivale ! Oui, je l'ai découvert... Elle s'appelle Violette, fille de Pantalon. Eh bien ! Qu'as-tu à dire à cela ?
+
+Suis-je bien informée de tes amours ?
+
+Oh ! Je suis bien votre servante, seigneur Pluton !
+
+Oh ! Mon cher petit mari, s'il ne faut que des caresses pour vous toucher, je vous promets de vous en faire tant, tant...
+
+Eh bien ! Mon cher Pluton, vous serez content et vous n'aurez jamais sujet de vous plaindre de moi.
+
+Que vois-je ?
+
+Mon cher petit Pluton, ne vous mettez pas en colère... Vous vous feriez malade.
+
+Va, malheureux ! Cesse de passer ici pour Pluton.
+
+Quoi ! Vous n'êtes pas Pluton ?
+
+Ah ! Seigneur, il ne s'est rien passé entre nous contre votre honneur. Je m'en suis tenue avec lui aux caresses les plus innocentes.
+
+Cela est fort bien imaginé.
+
+Par le Styx ?
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pantalon
+
+À qui diantre en avez-vous donc ? Depuis quelques jours on ne voit que bouder dans cette maison. Vous êtes sur le point d'épouser Arlequin, et vous êtes triste !
+
+Avez-vous perdu l'esprit ? Le plus gentil, le plus amusant de nos garçons, et que vous aimez à la folie !
+
+Oh ! Oh ! Voilà du fruit nouveau ! Parbleu ! Je me moque de vos caprices. Vous m'avez demandé Arlequin, et vous l'épouserez. J'ai donné ma parole.
+
+Vous osez faire une pareille impertinence !
+
+Me tenir un tel discours !
+
+Que lui va-t-elle dire ? Il faut cacher cette fantaisie, qui lui passera.
+
+À moins, dit-elle, que la noce se fasse aujourd'hui.
+
+La pudeur l'empêche...
+
+Je veux courir aussi après elle, mais les jambes me manquent. Que je suis à plaindre d'avoir une fille si extravagante ! On lui aura jeté un sort ; elle aimait trop Arlequin!
+
 Comment cela se peut-il faire ?
 
--*who_arlequin
-Je n'en sais rien.
-Nous avons parcouru la campagne de l'orient à l'occident, du midi au septentrion, sans rien découvrir.
-Et je survivrais à un tel affront !...
-Te voilà seul !
-Non, tu ne fus jamais moins seul : la douleur, la rage, la fureur, le désespoir, t'accompagnent.
-Ah !
-Je la vois !
-Courons après elle !
-Mais un nuage m'arrête.
-Quel prodige !
-Je marche, et je n'ai point de tête.
-
--*who_pantalon
 Son esprit s'égare.
 
--*who_arlequin
-Si je n'ai plus de tête, à quoi bon ce chapeau ?...
-Plaît-il ?...
-Vous avez raison.
-Mais comment voulez-vous que je monte dans l'Olympe ?
-Vous n'avez pas le sens commun.
-Ah !
-Voilà l'hippogriffe, le cheval d'Astolphe.
-Mignon !...
-Mignon !...
-Je suis dessus !
-Je fends l'air !
-Je vois l'étoile de Vénus, Mercure, Saturne...
-Ah !
-Qu'il est laid !...
-Me voici devant le maître des dieux.
-Justice, messire Jupin, d'un fripon qui m'enlève ma maîtresse !
+Il me prend pour Jupiter. Prêtons-nous à son extravagance. Arlequin, je te l'accorde. Retourne sur terre.
 
--*who_pantalon
-Il me prend pour Jupiter.
-Prêtons-nous à son extravagance.
-Arlequin, je te l'accorde.
-Retourne sur terre.
+Ayuto ! Au secours !
 
--*who_arlequin
-Bonsoir, Messieurs.
-Mon cheval prévient mon impatience.
-Me voici dans les lieux où j'ai perdu Violette.
-Mon rival est avec elle !
-Elle fuit, mais il ne m'évitera pas.
-
--*who_pantalon
-Ayuto !
-Au secours !
-
--*who_arlequin
-Enfin, je suis vainqueur.
-J'ai pourfendu le géant !
-Ah !
-Te voilà donc, scélérate !
-Tu pleures la mort de mon rival !
-N'espère pas me toucher avec tes larmes de crocodile.
-
--*who_pantalon
-Il me prend pour Violette.
-Faisons-le rentrer dans la maison.
+Il me prend pour Violette. Faisons-le rentrer dans la maison.
 Arlequin, je te demande pardon de ma légèreté.
 
--*who_arlequin
-Est-ce de bon coeur ?
-
--*who_pantalon
 Oui, cher petit bonhomme.
 
--*who_arlequin
-Eh bien !
-J'oublie ton infidélité.
-Viens que je t'embrasse...
-Violette a de la barbe !...
-Ciel !
-C'est son amant !
-Je croyais l'avoir tué.
+Ayuto ! Misericordia !
 
--*who_pantalon
-Ayuto !
-Misericordia !
+Arrête! arrête !
 
--*who_arlequin
+Quoi ! Le pauvre Arlequin est mort ! Je ne m'en consolerai jamais.
+
+Quoique le jour ne soit guère propre pour une noce, je ne veux pas m'y opposer.
+
+Comment ?
+
+Qu'on ne me parle pas de cette coquine-là !
+
+Qu'elle ne se présente jamais devant moi !
+N'as-tu pas honte de te montrer après une telle action qui a causé la mort d'Arlequin ? Les dieux enverront son ombre pour te punir de ta perfidie. Qu'entends-je ? Aiuto ! Misericordia !
+
+Nous lui en rendons de très humbles grâces, Seigneur Mercure.
+Que je suis fâché que Violette ne soit plus digne de vous !
+
+Che consolazione !
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_violette
+
+Arlequin ? Quel mari me destinez-vous là ?
+
+Il ne me plaît plus : tel est le sujet de ma tristesse.
+
+Je l'ai donnée à un autre.
+
+Laissez-moi... C'est par rapport à vous qu'il est si fort en colère.
+
+Oui, mon père, mon parti est pris, je n'épouserai point Arlequin.
+
+N'en croyez rien, Arlequin.
+
+Ô Seigneur ! C'est vous ? Mais j'aperçois mon père avec Arlequin.
+
+C'est le reste d'un songe fâcheux. J'ai rêvé bien plus agréablement : je viens de recevoir la foi de mariage d'un jeune seigneur.
+
+La chose est réelle : voilà les présents de noce. Il m'attend, je cours le rejoindre. Il n'y a plus de Violette pour toi... Je vais devenir au moins comtesse.
+
+J'ai l'âme déchirée par mille remords.
+
+Tout ce que vous m'avez donné est fort beau ; mais, malgré cela, je me rappelle sans cesse l'infidélité que je fais à ce pauvre Arlequin. Il est toujours présent à ma pensée. Tant de magnificence m'épouvante ; je sens que je ne suis pas née pour les grandeurs, et que vous êtes trop grand seigneur pour moi. De grâce, ramenez-moi chez mon père. Que je vous aie cette obligation-là.
+
+Oui. Et je la fais à son avantage. Il m'inspire toujours la joie et la bonne humeur, et depuis que je suis avec vous j'ai le coeur rempli de tristesse. Il y a là-dessous quelque chose qui me passe.
+
+Et pourquoi ?
+
+Quoi, Arlequin est mort ?
+
+Ciel ! Le pauvre garçon s'est tué sans doute de désespoir ! Ah ! Perfide ! Si j'ai perdu mon amant, c'est toi qui en es la cause. Il est mort par ta faute.
+
+Malheureux Arlequin, que je plains ton sort !
+
+Oui, traître, ce serait ma plus grande joie.
+
+Chère ombre, pardonne la trahison que je t'ai faite ; mais, avant que de te rejoindre...
+
+Laisse-moi, scélérat, en proie à mes remords. Je ne te regarde plus que comme un monstre qui m'a privée de ce que j'avais de plus cher. Mais je ne mourrai pas contente que je ne t'aie auparavant...
+
+Et toi, misérable ! Toi qui m'as presque séduite par tes discours, crois-tu éviter ma fureur ? Ah ! Je sens naître dans mon coeur toute la rage des Furies. Tu n'échapperas pas à ma vengeance. Je vais vous déchirer l'un et l'autre en mille pièces ; et, pour ne rien avoir d'un monstre que je déteste, voilà tes présents et le cas que j'en fais !
+
+Tiens, voilà comme je traite tes pareils.
+
+Ah ! Chère ombre !
+
+Ombre de mon amant, pardonne-moi la surprise que l'on m'a faite. À la nouvelle de ta mort, j'ai traité ton rival avec le dernier mépris.
+
+Ah ! Tu m'outrages... Je ferai les serments...
+
+De tout mon coeur.
+
+T'épouser ?
+
+Il y a un obstacle invincible.
+
+Cela révolterait toutes les femmes contre moi.
+
+Je n'y puis consentir. Je mourrais à tout moment de frayeur.
+
+Oui, vraiment, c'est lui-même.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+
+Qu'avez-vous donc, ma cousine, pour être si fâchée ?
+
+Vous aviez tout à l'heure la larme à l'oeil et vous nommiez Cinthio. Je gage que c'est lui qui vous a encore querellée. Il n'a qu'à revenir, je lui fermerai la porte au nez.
+
+Vous êtes bien bonne de vous affliger de si peu de chose ! Pour moi, j'en suis bien aise.
+
+Parce qu'elle me querellait sans cesse. Elle disait que je serais bientôt une petite coquette, parce que je me regardais à son miroir, qu'à votre exemple je me rengorgeais à tout moment, et que je disais que je voudrais bien avoir des amants.
+
+Oh que oui ! Je vous ai entendue plusieurs fois jaser avec le vôtre. J'ai retenu surtout une conversation que vous eûtes avec lui il y a quinze jours.
+
+Tenez, c'était le jour de votre fête. Cinthio vous apporta un bouquet que vous ne vouliez pas recevoir. « Belle Silvia, vous dit-il, qu'ai-je fait pour tant de rigueur ? » À cela vous ne répondiez rien. Il ne se rebuta point, vous prit la main, qu'il baisa plus de vingt fois. Sa soumission vous attendrit ; vous reçûtes son bouquet, et vous passâtes dans le petit cabinet pour achever de vous coiffer. Je ne pus entendre le reste ; mais je vis... Hum !...
+
+Vous pouvez rougir en sûreté : personne ne nous écoute, et je suis discrète. Je vis Cinthio attacher le bouquet à côté de votre sein, ensuite se payer de ses peines par un baiser qui vous rendit toute interdite.
+
+Oui, mais vous n'étiez pas en colère.
+
+Ne vous fâchez pas, car je dirais tout à mon oncle. Baisez-moi plutôt, pour me marquer que vous ne m'en voulez plus.
+
+Mon cher père, voilà ma soeur Violette de retour.
+
+Elle a appris la mort du pauvre Arlequin ; elle s'en désespère.
+
+Elle est si honteuse qu'elle n'ose lever les yeux.
+
+Que je vais danser à sa noce !
+
+À l'amour vous rendez hommage,
+Vous suivez sans peine un galant.
+Hélas ! que ne suis-je à votre âge,
+Ma soeur ! J'en voudrais faire autant.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+Pasquin amato, Pasquin amabile e carissimo amico, Pasquin Pasquinissimo.
+
+Ne m'abandonne pas, je t'en conjure. Tu vois en moi le miroir des loyaux amants et le prototype d'un chevalier de la triste figure.
+
+Ah ! Caro amico, je suis mort ! L'ingrate Violette reçoit si mal ma tendresse qu'il m'est impossible de survivre à son infidélité.
+
+Nullement ; je n'ai jamais manqué une occasion de lui plaire. Prenait-elle la clé de la cave, je me saisissais de la chandelle et d'un verre ; je portais la main sur le robinet de la fontaine ; j'emplissais sa cruche et je n'oubliais jamais de boire cinq ou six rasades à sa santé, auxquelles elle répondait avec affection.
+
+Faisait-elle quelque fricassée : « Arlequin, me disait-elle, trempe ton doigt dans la sauce. » Moi, avec un courage de héros, je portais un doigt intrépide dans le milieu de la casserole. « Ah ! Belle Violette ! La canelle, le citron, le fromage de Milan, dominent autant dans ce ragoût que vous êtes supérieure en beauté aux jeunes filles de ce canton. »
+
+Une autre fois, tournant la broche : « Belle Violette, lui disais-je, vous allez vous brûler le visage. Le mien, déjà rissolé au feu de vos beaux yeux, soutiendra mieux cette fatigue. » Elle avait la complaisance de me mettre la broche à la main. Plus content alors qu'un roi de Cocagne, j'avalais avec plaisir les lardons que je tirais de la poularde, et je baisais tendrement la menotte ou le petit museau de cette scélérate. De la poularde à Violette, de Violette à la poularde, je prenais souvent l'une pour l'autre.
+
+Cet heureux temps n'est plus ! Je n'ai que des marques d'aversion et c'est ce qui fait mon désespoir. Je n'ai rien à me reprocher. J'ai toujours été droit en besogne avec elle.
+
+Tu me rends la vie. Puisque tu es le fidèle dépositaire de mes plus secrètes pensées, tu seras l'heureux pilote qui conduira mon vaisseau battu par la tempête de la mauvaise humeur de Violette dans le port désiré de ses affections.
+
+Qu'avez-vous donc à quereller si fort ma maîtresse ?
+
+La, la ! Quoi ! Violette, vous ne voulez pas que je vous caresse ?
+
+Ohimé ! Je suis mort!
+
+Oh ! Je suis prêt à la contenter !
+
+O che' gusto ! Che' consolazione ! Che' allegrezza !
+
+Violette ! Deux monstres épouvantables !
+
+Ce n'est qu'un rêve.
+
+Ah ! Mes amis, Violette suit son nouvel amant ! Venez, courons après son ravisseur.
+
+Malheureux que je suis ! Il faut que ce soit un diable, puisqu'il m'a échappé. Malheureux Arlequin ! Perfide Violette ! Pantalon infortuné !
+
+Je n'en sais rien. Nous avons parcouru la campagne de l'orient à l'occident, du midi au septentrion, sans rien découvrir. Et je survivrais à un tel affront !... Te voilà seul ! Non, tu ne fus jamais moins seul : la douleur, la rage, la fureur, le désespoir, t'accompagnent. Ah ! Je la vois ! Courons après elle ! Mais un nuage m'arrête. Quel prodige ! Je marche, et je n'ai point de tête.
+
+Si je n'ai plus de tête, à quoi bon ce chapeau ?... Plaît-il ?... Vous avez raison. Mais comment voulez-vous que je monte dans l'Olympe ? Vous n'avez pas le sens commun. Ah ! Voilà l'hippogriffe, le cheval d'Astolphe. Mignon !... Mignon !... Je suis dessus ! Je fends l'air ! Je vois l'étoile de Vénus, Mercure, Saturne... Ah ! Qu'il est laid !... Me voici devant le maître des dieux. Justice, messire Jupin, d'un fripon qui m'enlève ma maîtresse !
+
+Bonsoir, Messieurs. Mon cheval prévient mon impatience. Me voici dans les lieux où j'ai perdu Violette. Mon rival est avec elle ! Elle fuit, mais il ne m'évitera pas.
+
+Enfin, je suis vainqueur. J'ai pourfendu le géant ! Ah ! Te voilà donc, scélérate ! Tu pleures la mort de mon rival ! N'espère pas me toucher avec tes larmes de crocodile.
+
+Est-ce de bon coeur ?
+
+Eh bien ! J'oublie ton infidélité. Viens que je t'embrasse... Violette a de la barbe !... Ciel ! C'est son amant ! Je croyais l'avoir tué.
+
 Mais que vois-je ? À mon nez Violette l'embrasse !
 L'insolente lui rit et me fait la grimace !
 Quels regards effrontés elle tourne vers moi !
@@ -667,512 +395,409 @@ Mais je vois au galop s'éloigner la friponne.
 Oh! sans perdre de temps à faire l'enragé,
 Périssons, ou vengeons notre amour outragé.
 
--*who_pantalon
-Arrête! arrête !
+Qui m'a conduit dans ces lieux ? Sans un guide aussi habile, je me serais cassé le nez plus de dix fois.
 
-**** *book_ *id_II01 *act_II *date_1719
+Poveretto mi ! Son assassinado ! Ladro ! Furfante ! On me l'avait bien assuré que vous étiez le dieu des filous.
 
--*who_silvia
-Ciel !
-Peut-on voir une pareille trahison ?
-Le perfide !
-Enlever Violette presque en ma présence !
-Ah !
-Cinthio, que vous êtes bien vengé de mes mépris !
+Voilà des témoins muets de la souplesse de vos mains.
 
--*who_rosette
-Qu'avez-vous donc, ma cousine, pour être si fâchée ?
+Je suis mort ?
 
--*who_silvia
+Hui ! Hui !
+
+N'est-ce pas l'usage que les amis d'un défunt pleurent sa mort ?
+
+Eh bien ! Je n'avais pas de meilleur ami que moi.
+
+Et qu'a-t-on fait de tout cela ?
+
+Tant pis ! Il fallait l'apporter ici. Votre récit a tellement excité mon appétit que je dévorerais cela en quatre bouchées.
+
+Faites-les moi donc connaître !
+
+Bonne compagnie ! Nous ne manquerons pas de vin, puisqu'on en fait avec du raisin.
+
+S'ils sont d'aussi bonne humeur que moi, nous allons faire crever de rire tous les enfers. Apprenez-moi qui est le fripon qui m'a enlevé Violette ; je serais bien aise de m'en venger. Je suis une âme vindicative.
+
+Bon voyage, seigneur Mercure.
+
+Je suis donc mort, à ce que dit Mercure ? Le diable m'emporte si je m'en souviens ! Il fallait être fou pour ne pas survivre à une infidèle. Je ne me reconnais point là dedans. Qu'importe ? Rions-en le premier, puisque la sottise est faite. Ah ! Ah ! Ah ! Caron. Je ne vois pas, Seigneur, que vous ayez tant sujet de rire.
+
+Et pourquoi, mon ami ?
+
+Et que m'importe?
+
+C'est quelque ivrogne.
+Eh bien ? Sans respect pour ma Majesté...
+
+Mais, mon ami, quel rapport Proserpine, un trône, des furies et Pluton ont-ils avec moi ?
+
+Pour qui me prend-on ici ? Je te donnerai de ton Pluton par les oreilles.
+
+À qui en veut cette folle ?
+
+La peste m'étouffe si je l'ai jamais vue !
+
+Vous extravaguez, ma mie.
+
+Qu'entends-je ?... On me prend pour le dieu des enfers, et c'est ce dieu même qui m'enlève ma maîtresse !
+
+Mon parti est pris. Profitons de son erreur et rendons à Pluton outrage pour outrage...
+Mais, en vérité, Proserpine, croyez-vous que tout le bruit que vous faites serve à quelque chose ? Si vous preniez un autre ton, je ne dis pas que peut-être je n'écoutasse la raison... Eh bien ! Je l'avoue, j'ai aimé Violette, mais je ne l'aime plus. Ce sont des petites folies de passage auxquelles une honnête femme ne doit pas regarder de si près.
+
+Une femme d'esprit, en pareil cas, ramène son mari par de tendres caresses plutôt que de l'éloigner par des emportements.
+
+Bon ! C'est tomber dans l'autre extrémité. Il en faut dans le ménage, comme du vinaigre dans une salade, ni trop, ni trop peu.
+
+Tope ! Voilà la paix faite. Che gusto ! ( ô che consolazione !
+
+L'architecture de ce pays est triste et la promenade lugubre. On ne voit que des supplices ridicules. Celui-ci porte une pierre que je voulais lui aider à rouler. J'ai vu près de là cinquante femelles qui remplissent des tonneaux crevés ; un autre est attaché à la roue d'un moulin qui tourne sans cesse, pour avoir fait les doux yeux à Madame Junon. Si Pluton est aussi vindicatif que son frère, il pourrait bien m'en arriver autant.
+
+Est-ce qu'il n'y a pas de juges pour cela ?
+
+Avant de juger, ne va-t-on pas à la buvette ?
+
+Dites-moi, la belle, de quelle profession étiez-vous là-haut ?
+
+J'ai entendu parler de vous comme d'une grande actrice.
+
+Cela est difficile. Je ne puis parler de boire et de manger sans que l'eau ne m'en vienne à la bouche.
+
+Comment cela se fait-il ?
+
+Cela est fort comique ; mais que voulez-vous de moi ?
+
+Très volontiers.
+
+Cela est triste.
+
+Dans quelle ville demeurais-tu ?
+
+Eh ! Je te connais; ta femme t'avait fait prendre cette enseigne. Ne t'appelles-tu pas messire Cornuto?
+
+Tu es un fripon... Tu m'as refusé crédit plus de dix fois.
+
+Quand j'allais chez toi, je n'avais pas cet habit. J'ai été tenté plus d'une fois de t'assommer, mais je t'ai épargné jusqu'à ce que tu fusses ici. Je veux faire un exemple terrible de ces fripons qui refusent crédit aux honnêtes gens.
+
+Sais-tu encore bien faire la cuisine ?
+
+Garde-toi bien de lui en donner.
+Je te pardonne et te retiens pour mon cuisinier.
+
+Pour vous consoler, je vous donne l'intendance de ma cave, à condition que vous ferez la paix avec ce pauvre homme.
+
+Et moi je vais manger. Caron , ôte-moi mon habit de cérémonie.
+
+Qu'elles s'aillent promener ! J'ai le ventre creux comme un tambour. Chasse-moi toute cette canaille.
+
+Quel insolent parle ainsi à ma petite femme?
+
+Ne craignez rien : c'est un extravagant que je vais faire enfermer avec les fous de l'enfer. Retire-toi. Si tu me fâches...
+
+Doucement, il est temps de finir la comédie. Je vais tout éclaircir... Apprenez, Madame, que je m'appelle Arlequin.
+
+Non, parbleu !
+
+Point d'invectives. Vous m'avez enlevé ma maîtresse : je n'ai pas trop mal pris ma revanche avec votre femme.
+
+Avalez doucement la pilule. Plus vous ferez d'éclat, plus ma vengeance sera complète.
+
+Je m'accommode de tout.
+
+Je n'ai point d'ambition. Du bon vin, une table bien servie...
+
+Tope ! Mais à une condition. De peur de nous trouver rivaux sur terre, jurez d'être fidèle à Proserpine.
+
+Point de mais... Sinon marché nul.
+
+Elle a raison ! Vous n'avez aucun lieu de vous plaindre de Proserpine... Mes caresses ont été si simples qu'elle en a été scandalisée.
+
+Songez donc que je ne suis qu'une ombre. Mercure me l'a assuré. Les morts n'ont point de corps.
+
+Nous sommes d'accord ; mais si j'avais crû avoir mon corps...
+
+Je vous aurais rendu la pareille. Vous n'avez pas fait le personnage d'une ombre avec Violette.
+
+Violette aurait résisté à un dieu ?
+
+Partons promptement. Je brûle de revoir ma maîtresse. Adieu, seigneur Pluton ; jusqu'au revoir. Belle Proserpine, en cas d'infidélité de la part de votre mari, Mercure vous dira où je demeure. Serviteur.
+
+Oh ! Oh ! Friponne ! Vous ne m'échapperez pas.
+
+La peur vous fait parler. Je ne suis pas si chère que vous le dites, puisque vous m'avez préféré un aventurier.
+
+Tu voudrais passer auprès de moi pour une vestale ?
+
+Tarare ! Si je ne savais à quoi m'en tenir. Mais m'aimes-tu encore ?
+
+Pour me le prouver, il faut m'épouser tout-à-l'heure.
+
+Sans balancer.
+
+Quel est-il ?
+
+Il est vrai qu'elles aiment moins l'esprit que le corps. Je veux être ton mari, ou je ferai le diable à quatre.
+
+Je vois bien ce qui te tient. Je ne suis pas si ombre que je le parais. Touche, pour voir...
+
+Qui vous a dit cela ? Je suis mieux informé que vous sur son chapitre. Il est vrai qu'il y a eu quelque irrégularité dans l'économie de sa conduite ; mais j'ai de bonnes cautions de sa sagesse. J'oublie son inconstance, et je l'épouse.
+
+À la bonne heure, mais vous n'écouterez pas le compliment du lendemain.
+
+En vain dans le royaume sombre
+Proserpine m'a recherché.
+Comme je croyais être une ombre,
+Elle en fut quitte à bon marché.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+
+Enfin, me voilà seule, et je puis m'entretenir de la nouvelle passion que je ressens pour le riche inconnu !... Cinthio ne me touche plus. Y a-t-il à balancer ? Il est concierge du château de ce bourg ; la plaisante fortune en comparaison de l'autre !... Son confident est dans mes intérêts; il ne nuira pas à la réussite de cette affaire. Mon oncle, à la vérité, a des obligations infinies à Cinthio... Qu'est-ce que cela me fait ? Suis-je obligée de payer ses dettes ? Qu'il lui fasse épouser ma cousine ! Le voici. Diantre soit de l'importun!
+
+Que voulez-vous que je vous dise ?
+
+Je ne saurais vous dire cela.
+
+C'est que cela n'est pas vrai.
+
+C'est pourquoi elle a beaucoup perdu de sa force. Tenez, Cinthio, l'amour ressemble à la lune : il diminue lorsqu'il ne peut plus croître.
+
+Non, je suis toute naturelle. Si vous m'en croyez, vous chercherez fortune ailleurs.
+
+Au contraire. Celui que je vous préfère n'est pas si joli que vous.
+
+Il est riche, et en l'épousant je ne resterai pas longtemps sous un habit aussi simple.
+
+Ce n'en est point une. Regardez ce brillant. Ce n'est qu'un petit échantillon de sa tendresse. Ma cousine en a bien d'autres, et elle n'est qu'en second dans cette intrigue !
+
+Pourquoi non ? Rien n'est si commun qu'une fille inconstante.
+
+À la ville comme au village, la femme est toujours la femme. Si les filles de ma condition sont plus réservées, c'est que les occasions leur manquent.
+
+Un petit séjour que j'ai fait à Naples, chez une de mes parentes. Et puis, mon pauvre Cinlhio, la seule nature fait chez nous plus d'opération en vingt-quatre heures que toute l'éducation que l'on donne aux hommes. À quinze ans une fille est faite, et souvent à trente un homme n'est qu'un sot.
+
+Vous n'avez pas voyagé, puisque vous connaissez si peu les femmes.
+
+Si vous êtes si bien instruit, devenez donc libre à votre tour.
+
+Ô Ciel ! Que va-t-il faire ? Je suis au désespoir... Pasquin, cours, je te prie, après Cinthio, qui veut se battre contre ce riche inconnu. Il est jaloux à la fureur.
+
+Comment ! Ce qui regarde Violette ?
+
+Elle est folle, mon pauvre Pasquin. C'est moi qu'il aime.
+
+Je n'ai que faire de tes leçons. Si tu ne veux pas aller après lui, j'y vais moi-même.
+
+Ciel ! Peut-on voir une pareille trahison ? Le perfide ! Enlever Violette presque en ma présence ! Ah ! Cinthio, que vous êtes bien vengé de mes mépris !
+
 Mon Dieu !
 
--*who_rosette
-Vous aviez tout à l'heure la larme à l'oeil et vous nommiez Cinthio.
-Je gage que c'est lui qui vous a encore querellée.
-Il n'a qu'à revenir, je lui fermerai la porte au nez.
-
--*who_silvia
 Ce n'est point là ce qui m'afflige : c'est l'enlèvement de votre soeur.
 
--*who_rosette
-Vous êtes bien bonne de vous affliger de si peu de chose !
-Pour moi, j'en suis bien aise.
-
--*who_silvia
 Et pourquoi ?
 
--*who_rosette
-Parce qu'elle me querellait sans cesse.
-Elle disait que je serais bientôt une petite coquette, parce que je me regardais à son miroir, qu'à votre exemple je me rengorgeais à tout moment, et que je disais que je voudrais bien avoir des amants.
-
--*who_silvia
 Et savez-vous ce que c'est ?
 
--*who_rosette
-Oh que oui !
-Je vous ai entendue plusieurs fois jaser avec le vôtre.
-J'ai retenu surtout une conversation que vous eûtes avec lui il y a quinze jours.
-
--*who_silvia
 Je n'en ai pas la moindre idée.
 
--*who_rosette
-Tenez, c'était le jour de votre fête.
-Cinthio vous apporta un bouquet que vous ne vouliez pas recevoir.
-    « Belle Silvia, vous dit-il, qu'ai-je fait pour tant de rigueur ? »
-À cela vous ne répondiez rien.
-Il ne se rebuta point, vous prit la main, qu'il baisa plus de vingt fois.
-Sa soumission vous attendrit ; vous reçûtes son bouquet, et vous passâtes dans le petit cabinet pour achever de vous coiffer.
-Je ne pus entendre le reste ; mais je vis...
-Hum !...
+Que vîtes-vous ? Vous me feriez presque rougir.
 
--*who_silvia
-Que vîtes-vous ?
-Vous me feriez presque rougir.
-
--*who_rosette
-Vous pouvez rougir en sûreté : personne ne nous écoute, et je suis discrète.
-Je vis Cinthio attacher le bouquet à côté de votre sein, ensuite se payer de ses peines par un baiser qui vous rendit toute interdite.
-
--*who_silvia
 Vous avez dû voir aussi que je le grondai.
 
--*who_rosette
-Oui, mais vous n'étiez pas en colère.
-
--*who_silvia
 Taisez-vous.
 
--*who_rosette
-Ne vous fâchez pas, car je dirais tout à mon oncle.
-Baisez-moi plutôt, pour me marquer que vous ne m'en voulez plus.
-
--*who_silvia
 Je le veux bien, mais aux conditions que vous ne direz rien, quoiqu'au fond je n'aie point fait de mal.
 
-**** *book_ *id_II02 *act_II *date_1719
+Ô Ciel ! Arlequin est mort !
 
--*who_pantalon
-Quoi !
-Le pauvre Arlequin est mort !
-Je ne m'en consolerai jamais.
+Je ne puis m'empêcher de penser à ma cousine. Je m'imagine que les suites d'un enlèvement sont si agréables que je voudrais être à sa place.
 
--*who_silvia
-Ô Ciel !
-Arlequin est mort !
-
--*who_scaramouche
-Oui.
-Il courait après Violette ; nous l'avons vu tomber dans une fondrière où il s'est brisé en mille pièces.
-
--*who_cinthio
-L'affliction est générale dans le canton.
-Nos habitants lui ont dressé un tombeau rustique.
-On va lui rendre les honneurs funèbres.
-
--*who_unpaysan
-Arlequin a fini le cours
-De ses burlesques jours.
-Versons, versons des larmes
-Sur son tombeau.
-Implacable Atropos, ton funeste ciseau
-Nous cause aujourd'hui mille alarmes.
-Il était de l'allégresse
-Le plus ferme appui ;
-La sombre tristesse
-Fuyait loin de lui.
-Ah ! Quelle disgrâce!
-Quel sort rigoureux !
-Toujours sur sa trace
-Volaient les ris et les jeux.
-Versons, versons des larmes
-Sur son tombeau.
-
-**** *book_ *id_II03 *act_II *date_1719
-
--*who_lafille
-Ah !
-Mon petit cousin, nous avons perdu pour jamais notre oncle, le charmant Arlequin !
-
--*who_legarcon
-Hélas !
-Oui.
-J'en mourrai de douleur ; il m'aimait comme son propre fils.
-
--*who_lafille
-Il est vrai qu'il disait qu'avant qu'il fût deux ans il voulait faire de vous un garçon accompli.
-Vous le remplacerez sûrement.
-
--*who_legarcon
-Pourquoi est-il mort si promptement?
-
--*who_lafille
-Il s'est tué de désespoir de l'infidélité de sa maîtresse.
-
--*who_legarcon
-Ohimè !
-Ché Balardo !
-Faire cette sottise pour une fille.
-
--*who_lafille
-Oui vraiment.
-
--*who_legarcon
-À sa place, j'aurais chanté :
-Marotte fait bien la fière
-Pour un petit bien qu'elle a.
-
-**** *book_ *id_II04 *act_II *date_1719
-
--*who_cinthio
-Avez-vous encore regret au perfide ravisseur de Violette ?
-
--*who_silvia
-Je ne puis m'empêcher de penser à ma cousine.
-Je m'imagine que les suites d'un enlèvement sont si agréables que je voudrais être à sa place.
-
--*who_cinthio
-Vous ne rougissez pas d'un pareil sentiment ?
-
--*who_silvia
 J'ai toutes les inclinations d'une fille de qualité
 
--*who_cinthio
-Songez-vous à l'horreur qu'ont vos compagnes pour la perfide Violette ?
+Ce sont des innocentes. On fait aujourd'hui grand bruit de cette aventure ; demain on n'y pensera plus.
 
--*who_silvia
-Ce sont des innocentes.
-On fait aujourd'hui grand bruit de cette aventure ; demain on n'y pensera plus.
-
--*who_cinthio
-Je ne vous regarde plus qu'avec une indifférence qui ira bientôt jusques au mépris.
-
--*who_silvia
 Vous m'avez toujours trop aimée pour changer si promptement.
 
--*who_cinthio
-Livrez-vous sans remords à vos lâches inclinations.
+Si vous croyez m'affliger, vous vous trompez, Cinthio. Quand je voudrai, je ne manquerai pas d'amants. Vous savez que la nouveauté plaît à mon sexe.
 
--*who_silvia
-Si vous croyez m'affliger, vous vous trompez, Cinthio.
-Quand je voudrai, je ne manquerai pas d'amants.
-Vous savez que la nouveauté plaît à mon sexe.
-
--*who_cinthio
-À la bonne heure !
-
--*who_silvia
 Vous ne voulez donc pas faire la paix ?
 
--*who_cinthio
-Le Ciel m'en préserve !
+Fort bien... Il faut user d'adresse.
+Ah ! Cinthio que vous connaissez mal mon coeur ! Apprenez que je vous ai toujours aimé. J'ai voulu réveiller votre tendresse par une pincée de jalousie.
 
--*who_silvia
-Fort bien...
-Il faut user d'adresse.
-Ah !
-Cinthio que vous connaissez mal mon coeur !
-Apprenez que je vous ai toujours aimé.
-J'ai voulu réveiller votre tendresse par une pincée de jalousie.
-
--*who_cinthio
-Vos démarches ont été trop naturelles pour n'être qu'une feinte.
-
--*who_silvia
 Je suis bien sotte de perdre ici le temps à vouloir vous convaincre de ma tendresse.
 
--*who_cinthio
-Si j'étais bien persuadé...
+Suivez votre penchant... Je suis la plus infidèle des femmes.
 
--*who_silvia
-Suivez votre penchant...
-Je suis la plus infidèle des femmes.
+Bon ! Il commence à s'attendrir.
+Laissez-moi, vous dis-je ! Je suis un monstre d'ingratitude.
 
--*who_cinthio
-Silvia !
-Ces larmes me font assez connaître l'innocence de votre procédé.
-
--*who_silvia
-Bon !
-Il commence à s'attendrir.
-Laissez-moi, vous dis-je !
-Je suis un monstre d'ingratitude.
-
--*who_cinthio
-Je vous demande mille pardons.
-
--*who_silvia
 Je ne vous pardonnerai jamais !
 
--*who_cinthio
-La mort vous délivrera donc d'un objet odieux.
-
--*who_silvia
 Où courez-vous ?
 
--*who_cinthio
-Je vais mourir.
+Cinthio, votre repentir est trop sincère... Je vous rends mon coeur.
 
--*who_silvia
-Cinthio, votre repentir est trop sincère...
-Je vous rends mon coeur.
-
--*who_cinthio
-Quelle joie !
-Que la foi donnée dans ce jour vous soit un sûr garant de l'injustice de mes soupçons !
-
--*who_silvia
 Je l'accepte avec plaisir.
 Les hommes ont beau faire, ils seront toujours nos dupes.
 
-**** *book_ *id_II05 *act_II *date_1719
+Eh ! Seigneur Pantalon...
 
--*who_mercure
-Je n'ai point trouvé d'autre moyen, pour débarrasser Pluton d'Arlequin, que d'ouvrir la terre sous ses pieds et de le conduire en ces lieux.
-On le croit mort chez Pantalon et je vais le lui persuader à lui-même.
+Là-bas, par sa femme surprise,
+Pluton a presque été trahi ;
+Ce n'est point ici par méprise
+Qu'une femme trompe un mari.
 
--*who_arlequin
-Qui m'a conduit dans ces lieux ?
-Sans un guide aussi habile, je me serais cassé le nez plus de dix fois.
 
--*who_mercure
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cinthio
+
+Qu'avez-vous, belle Silvia ? Vous me paraissez toute changée. Depuis huit jours vous ne m'avez pas dit une parole gracieuse.
+
+Que vous m'aimez toujours avec la même ardeur.
+
+Pourquoi, s'il vous plaît ?
+
+Ciel ! Ne m'avez-vous pas dit mille fois qu'il était impossible que votre tendresse pût augmenter ?
+
+Quoi ! Silvia, vous ne m'aimeriez plus ?
+
+Avez-vous sujet de vous plaindre de moi ?
+
+Pourquoi l'emporte-t-il donc sur moi ?
+
+Silvia, cessons la raillerie.
+
+Il serait possible que vous eussiez changé ?
+
+C'est l'usage des villes ; mais au village...
+
+Qui vous en a tant appris ?
+
+Quelle surprise !
+
+Oh ! Votre infidélité ne m'apprend que trop à les connaître ! On ne voit en vous rien de naturel que le désir de plaire.
+
+Perfide ! Je n'ai pas la force de vous imiter. Votre ingratitude me tue ; mais, avant de mourir, j'arracherai la vie à mon indigne rival.
+
+L'affliction est générale dans le canton. Nos habitants lui ont dressé un tombeau rustique. On va lui rendre les honneurs funèbres.
+
+Avez-vous encore regret au perfide ravisseur de Violette ?
+
+Vous ne rougissez pas d'un pareil sentiment ?
+
+Songez-vous à l'horreur qu'ont vos compagnes pour la perfide Violette ?
+
+Je ne vous regarde plus qu'avec une indifférence qui ira bientôt jusques au mépris.
+
+Livrez-vous sans remords à vos lâches inclinations.
+
+À la bonne heure !
+
+Le Ciel m'en préserve !
+
+Vos démarches ont été trop naturelles pour n'être qu'une feinte.
+
+Si j'étais bien persuadé...
+
+Silvia ! Ces larmes me font assez connaître l'innocence de votre procédé.
+
+Je vous demande mille pardons.
+
+La mort vous délivrera donc d'un objet odieux.
+
+Je vais mourir.
+
+Quelle joie ! Que la foi donnée dans ce jour vous soit un sûr garant de l'injustice de mes soupçons !
+
+Seigneur Pantalon, la belle Silvia, revenue de son erreur, consent à m'épouser.
+
+L'inconnu l'aura abandonnée : voilà le sujet de ses larmes.
+
+Voilà tout le village qui vient prendre part à notre joie.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
+Eh bien ! Mon cher Arlequin, il y a une heure que je vous suis comme un barbet sans tirer de vous une seule parole. Dites-moi donc le sujet de votre mélancolie.
+
+Me voilà bien instruit ! Serviteur à votre discrète et taciturne personne.
+
+Comment diable ! Voilà du haut style.
+
+Que me dites-vous là ? Lui en avez-vous donné quelque sujet ?
+
+Fort bien.
+
+Voilà des compliments admirables.
+
+Oh ! Cher bel imbroglio ! Mais je ne vois rien qui doive tant vous affliger !
+
+Je lui parlerai comme il faut, et je saurai pourquoi elle vous traite avec tant de dureté. Je vous apporterai de bonnes nouvelles.
+
+Quel intérêt Cinthio prend-il à ce qui regarde Violette ?
+
+Elle vient de me faire confidence qu'elle aime assez mal à propos cet inconnu. Elle en est aimée passionnément.
+
+Point de chimères ! Allez au solide: Cinthio vous convient.
+
+Suivons-la pour l'engager à rendre sa tendresse à son premier amant.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+Quelle vivacité ! Vous n'avez pas affaire à une déesse, pour en espérer si bonne composition. J'ai trouvé le secret de tromper Pantalon, le père de Violette, et d'expliquer à celle-ci votre tendresse.
+
+Violette n'est pas pour vous.
+
+Nos soupçons sont justes : elle aime Arlequin et n'est pas d'avis de négliger un établissement solide pour un amour de passage. À moins d'un mariage dans les formes...
+
+Gardez-vous-en bien ! Elle ferait un vacarme de tous les diables. Mais faites mieux... Silvia, cousine de Violette, ne serait pas si difficile. Elle a pris pour elle les douceurs que vous disiez à l'autre, et je suis chargé de vous apprendre qu'elle vous aime.
+
+Cela ne sera pas aisé. Mais, sans répudier Proserpine, prenez Violette pour femme d'été ; peut-être en amènerez-vous la mode, comme de changer de meubles aux quatre saisons.
+
+Faites-lui du moins espérer qu'elle deviendra votre femme. Elle vous croit un seigneur voisin de son père : cette fortune apparente l'éblouira et la fera répondre à vos désirs.
+
+Je vais travailler pour vous. Mais n'allez pas prendre auprès de cette fille des airs de petit-maître, si communs aujourd'hui parmi nos dieux. Ils pourraient la révolter.
+
+Quoique ce soit par mon conseil que vous ayez pris l'habit d'Arlequin, peut-être n'avez-vous pas mieux fait. Un bel habit donne dans la vue ; les femmes aiment le faste.
+
+Suivez-moi donc.
+
+Point de compliments... Profitez de leur sommeil.
+
+Peut-être la trouverez-vous trop éveillée.
+
+Je n'ai point trouvé d'autre moyen, pour débarrasser Pluton d'Arlequin, que d'ouvrir la terre sous ses pieds et de le conduire en ces lieux. On le croit mort chez Pantalon et je vais le lui persuader à lui-même.
+
 Vous en avez l'obligation au dieu Mercure.
 
--*who_arlequin
-Poveretto mi !
-Son assassinado !
-Ladro !
-Furfante !
-On me l'avait bien assuré que vous étiez le dieu des filous.
-
--*who_mercure
 Explique-toi.
 
--*who_arlequin
-Voilà des témoins muets de la souplesse de vos mains.
-
--*who_mercure
 Tu as oublié que tu es mort, et que les morts n'emportent rien avec eux.
 
--*who_arlequin
-Je suis mort ?
+Oui vraiment. En courant après une certaine Violette, tu t'es précipité dans un abîme où tu as perdu la vie.
 
--*who_mercure
-Oui vraiment.
-En courant après une certaine Violette, tu t'es précipité dans un abîme où tu as perdu la vie.
-
--*who_arlequin
-Hui !
-Hui !
-
--*who_mercure
 Pourquoi pleures-tu?
 
--*who_arlequin
-N'est-ce pas l'usage que les amis d'un défunt pleurent sa mort ?
-
--*who_mercure
 Cela est vrai.
 
--*who_arlequin
-Eh bien !
-Je n'avais pas de meilleur ami que moi.
-
--*who_mercure
 Les tiens ont célébré tes funérailles avec une douzaine de plats chargés de fromage de Milan, de saucissons de Bologne, mortadelles, cervelas et macarons.
 
--*who_arlequin
-Et qu'a-t-on fait de tout cela ?
-
--*who_mercure
 On l'a laissé sur ton tombeau.
 
--*who_arlequin
-Tant pis !
-Il fallait l'apporter ici.
-Votre récit a tellement excité mon appétit que je dévorerais cela en quatre bouchées.
-
--*who_mercure
 On ne mange point quand on est mort, et, puisque tu es dans les enfers, je vais te placer avec ces ombres que tu vois de si bonne humeur.
 
--*who_arlequin
-Faites-les moi donc connaître !
-
--*who_mercure
 La plus proche de nous s'appelait Raisin.
 
--*who_arlequin
-Bonne compagnie !
-Nous ne manquerons pas de vin, puisqu'on en fait avec du raisin.
+Non, Raisin est le nom d'un homme qui, ainsi que les trois autres, appelés Molière, Fiurelly et Dominique, ont excellé dans l'art de divertir agréablement et avec noblesse le reste des hommes. Tu ne peux être en compagnie qui te convienne mieux.
 
--*who_mercure
-Non, Raisin est le nom d'un homme qui, ainsi que les trois autres, appelés Molière, Fiurelly et Dominique, ont excellé dans l'art de divertir agréablement et avec noblesse le reste des hommes.
-Tu ne peux être en compagnie qui te convienne mieux.
+Une autre fois, je te le dirai. Je vais faire d'autres commissions. Jusqu'au revoir, mon ami.
 
--*who_arlequin
-S'ils sont d'aussi bonne humeur que moi, nous allons faire crever de rire tous les enfers.
-Apprenez-moi qui est le fripon qui m'a enlevé Violette ; je serais bien aise de m'en venger.
-Je suis une âme vindicative.
-
--*who_mercure
-Une autre fois, je te le dirai.
-Je vais faire d'autres commissions.
-Jusqu'au revoir, mon ami.
-
--*who_arlequin
-Bon voyage, seigneur Mercure.
-
-**** *book_ *id_II06 *act_II *date_1719
-
--*who_arlequin
-Je suis donc mort, à ce que dit Mercure ?
-Le diable m'emporte si je m'en souviens !
-Il fallait être fou pour ne pas survivre à une infidèle.
-Je ne me reconnais point là dedans.
-Qu'importe ?
-Rions-en le premier, puisque la sottise est faite.
-Ah !
-Ah !
-Ah !
-Caron.
-Je ne vois pas, Seigneur, que vous ayez tant sujet de rire.
-
--*who_arlequin
-Et pourquoi, mon ami ?
-
--*who_caron
-C'est que Proserpine a soulevé tout l'enfer.
-
--*who_arlequin
-Et que m'importe?
-
--*who_caron
-Vous le connaîtrez bientôt, quand vous verrez les furies renverser votre trône, et, sans respect pour Votre Majesté...
-
--*who_arlequin
-C'est quelque ivrogne.
-Eh bien ?
-Sans respect pour ma Majesté...
-
--*who_caron
-Chasser Pluton de son royaume.
-
--*who_arlequin
-Mais, mon ami, quel rapport Proserpine, un trône, des furies et Pluton ont-ils avec moi ?
-
--*who_caron
-Le dieu des enfers veut rire !
-Mais, seigneur Pluton...
-
--*who_arlequin
-Pour qui me prend-on ici ?
-Je te donnerai de ton Pluton par les oreilles.
-
-**** *book_ *id_II07 *act_II *date_1719
-
--*who_proserpine
-Ah !
-Te voilà donc, traître ?
-
--*who_caron
-Ce n'est là qu'un léger crayon de ses fureurs.
-
--*who_arlequin
-À qui en veut cette folle ?
-
--*who_caron
-Quoi !
-Vous méconnaissez Proserpine ?
-
--*who_arlequin
-La peste m'étouffe si je l'ai jamais vue !
-
--*who_proserpine
-Il vaudrait mieux que cela fût vrai, perfide !
-Pourquoi m'enlevais-tu à ma mère et âmes fidèles compagnes si tu voulais me traiter ainsi ?
-M'abandonner pour une petite créature !
-
--*who_arlequin
-Vous extravaguez, ma mie.
-
--*who_proserpine
-Ne crois pas me tromper davantage...
-J'ai découvert quelle est ma rivale !
-Oui, je l'ai découvert...
-Elle s'appelle Violette, fille de Pantalon.
-Eh bien !
-Qu'as-tu à dire à cela ?
-
--*who_arlequin
-Qu'entends-je ?...
-On me prend pour le dieu des enfers, et c'est ce dieu même qui m'enlève ma maîtresse !
-
--*who_proserpine
-Suis-je bien informée de tes amours ?
-
--*who_arlequin
-Mon parti est pris.
-Profitons de son erreur et rendons à Pluton outrage pour outrage...
-Mais, en vérité, Proserpine, croyez-vous que tout le bruit que vous faites serve à quelque chose ?
-Si vous preniez un autre ton, je ne dis pas que peut-être je n'écoutasse la raison...
-Eh bien !
-Je l'avoue, j'ai aimé Violette, mais je ne l'aime plus.
-Ce sont des petites folies de passage auxquelles une honnête femme ne doit pas regarder de si près.
-
--*who_proserpine
-Oh !
-Je suis bien votre servante, seigneur Pluton !
-
--*who_arlequin
-Une femme d'esprit, en pareil cas, ramène son mari par de tendres caresses plutôt que de l'éloigner par des emportements.
-
--*who_proserpine
-Oh !
-Mon cher petit mari, s'il ne faut que des caresses pour vous toucher, je vous promets de vous en faire tant, tant...
-
--*who_arlequin
-Bon !
-C'est tomber dans l'autre extrémité.
-Il en faut dans le ménage, comme du vinaigre dans une salade, ni trop, ni trop peu.
-
--*who_proserpine
-Eh bien !
-Mon cher Pluton, vous serez content et vous n'aurez jamais sujet de vous plaindre de moi.
-
--*who_arlequin
-Tope !
-Voilà la paix faite.
-Che gusto ! ( ô che consolazione !
-
-**** *book_ *id_II08 *act_II *date_1719
-
--*who_mercure
 Soyez en repos, Seigneur, Arlequin est en lieu de sûreté.
 
--*who_pluton
-Tant mieux !
-Qu'avez-vous donc, charmante Violette ?
-Vous pleurez.
+Cela ne doit pas vous étonner, Seigneur, c'est l'usage de toutes les nouvelles mariées. Elles pleurent pour la forme, et rient au fond.
 
--*who_violette
-J'ai l'âme déchirée par mille remords.
-
--*who_pluton
-Fi donc!
-Vous faites l'enfant.
-Que cela est vilain !
-
--*who_mercure
-Cela ne doit pas vous étonner, Seigneur, c'est l'usage de toutes les nouvelles mariées.
-Elles pleurent pour la forme, et rient au fond.
-
--*who_pluton
-Allons, mon aimable, éloignez les chagrins puérils.
-
--*who_mercure
-Ce divertissement vous servira mieux que toutes les caresses.
-Messieurs, faites votre devoir.
-Et vous, Mademoiselle, chantez-nous quelque air italien qui dissipe cette mélancolie.
+Ce divertissement vous servira mieux que toutes les caresses. Messieurs, faites votre devoir. Et vous, Mademoiselle, chantez-nous quelque air italien qui dissipe cette mélancolie.
 La gioja e il rizo
 Ti brillino in vizo
 Che la giovinezza
@@ -1184,183 +809,80 @@ Indonna sagace
 Riporta la pace
 E plaça il dolor.
 
--*who_pluton
-Dites-moi, la belle, quel est le sujet de votre inquiétude ?
-
--*who_violette
-Tout ce que vous m'avez donné est fort beau ; mais, malgré cela, je me rappelle sans cesse l'infidélité que je fais à ce pauvre Arlequin.
-Il est toujours présent à ma pensée.
-Tant de magnificence m'épouvante ; je sens que je ne suis pas née pour les grandeurs, et que vous êtes trop grand seigneur pour moi.
-De grâce, ramenez-moi chez mon père.
-Que je vous aie cette obligation-là.
-
--*who_pluton
-En vérité, Violette, vous n'y pensez pas.
-Vos scrupules sont hors de place.
-Pouvez-vous faire un moment comparaison entre Arlequin et moi ?
-
--*who_violette
-Oui.
-Et je la fais à son avantage.
-Il m'inspire toujours la joie et la bonne humeur, et depuis que je suis avec vous j'ai le coeur rempli de tristesse.
-Il y a là-dessous quelque chose qui me passe.
-
--*who_mercure
 Devinerait-elle que vous êtes Pluton ?
 
--*who_pluton
-Mais, belle Violette, tous ces regrets sont inutiles.
-Quand je vous reconduirais chez votre père, vous n'en seriez pas plus avancée.
+Tout beau, la belle ! Vous ne savez pas à qui vous avez affaire.
 
--*who_violette
-Et pourquoi ?
+Oh ! Oh ! Je viens d'apprendre une partie de vos mésaventures, et j'ai deviné l'autre. À quoi en êtes-vous avec Arlequin ?
 
--*who_pluton
-C'est qu'Arlequin est mort.
-Il faut la tromper.
+Oui, je vous le répète, vos cris ont percé jusqu'au royaume sombre. Pluton vous renvoie le gracieux Arlequin.
 
--*who_violette
-Quoi, Arlequin est mort ?
 
--*who_pluton
-Très certainement.
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
 
--*who_violette
-Ciel !
-Le pauvre garçon s'est tué sans doute de désespoir !
-Ah !
-Perfide !
-Si j'ai perdu mon amant, c'est toi qui en es la cause.
-Il est mort par ta faute.
+C'est que Proserpine a soulevé tout l'enfer.
 
--*who_pluton
-Non, le diable m'emporte !
-C'est par la sienne.
+Vous le connaîtrez bientôt, quand vous verrez les furies renverser votre trône, et, sans respect pour Votre Majesté...
 
--*who_violette
-Malheureux Arlequin, que je plains ton sort !
+Chasser Pluton de son royaume.
 
--*who_pluton
-Fort bien !
-C'est-à-dire qu'il faudrait se tuer pour vous plaire.
-Ne voudriez-vous pas que je fisse cette sottise pour l'amour de vous ?
+Le dieu des enfers veut rire ! Mais, seigneur Pluton...
 
--*who_violette
-Oui, traître, ce serait ma plus grande joie.
+Ce n'est là qu'un léger crayon de ses fureurs.
 
--*who_pluton
-Grand merci !
+Quoi ! Vous méconnaissez Proserpine ?
 
--*who_violette
-Chère ombre, pardonne la trahison que je t'ai faite ; mais, avant que de te rejoindre...
+Les nouveaux venus n'ont pas encore bu de l'eau du Léthé. Je veux me donner la comédie avec eux.
 
--*who_pluton
-Que voulez-vous faire ?
-
--*who_violette
-Laisse-moi, scélérat, en proie à mes remords.
-Je ne te regarde plus que comme un monstre qui m'a privée de ce que j'avais de plus cher.
-Mais je ne mourrai pas contente que je ne t'aie auparavant...
-
--*who_mercure
-Tout beau, la belle !
-Vous ne savez pas à qui vous avez affaire.
-
--*who_violette
-Et toi, misérable !
-Toi qui m'as presque séduite par tes discours, crois-tu éviter ma fureur ?
-Ah !
-Je sens naître dans mon coeur toute la rage des Furies.
-Tu n'échapperas pas à ma vengeance.
-Je vais vous déchirer l'un et l'autre en mille pièces ; et, pour ne rien avoir d'un monstre que je déteste, voilà tes présents et le cas que j'en fais !
-
--*who_pluton
-Mais vous n'y pensez pas !
-
--*who_violette
-Tiens, voilà comme je traite tes pareils.
-
--*who_pluton
-Quel emportement !
-Je la croyais d'abord d'une douceur extrême.
-Elle est cent fois plus acariâtre que Proserpine.
-Ma foi, me voilà dégoûté du sexe pour longtemps ; et, diablesse pour diablesse, j'aime presque autant retourner à ma femme.
-
-**** *book_ *id_III01 *act_III *date_1719
-
--*who_caron
-Les nouveaux venus n'ont pas encore bu de l'eau du Léthé.
-Je veux me donner la comédie avec eux.
-
--*who_mademoiselleromanville
-Peut-on être plus malheureuse !
-Arriver ici avant que d'avoir achevé l'ouvrage que j'allais donner au public !
-
--*who_caron
 C'est quelque bel esprit femelle.
 
--*who_mademoiselleromanville
-Ma seule description de l'âge d'or, si elle était finie, serait inestimable.
+Oh ! Oh !
 
--*who_caron
-Oh !
-Oh !
-
--*who_mademoiselleromanville
-Qu'avez-vous donc à rire, monsieur Caron ?
-
--*who_caron
 Je vous demande excuse, mais le moindre petit auteur pourra continuer votre âge d'or.
 
--*who_mademoiselleromanville
-Tout était nouveau dans mon livre, jusqu'à l'orthographe.
-Je vais vous en convaincre par quelques traits.
+Tenez, Mademoiselle, voilà l'ombre d'un savant, du moins je le crois à son langage. Voulez-vous que je l'appelle ?
 
--*who_caron
-Tenez, Mademoiselle, voilà l'ombre d'un savant, du moins je le crois à son langage.
-Voulez-vous que je l'appelle ?
+Holà ! Seigneur Mathanasius, voici une dame dont la connaissance vous fera plaisir.
 
--*who_mademoiselleromanville
-Très volontiers.
+Voilà qui est terriblement embarrassé.
 
--*who_caron
-Holà !
-Seigneur Mathanasius, voici une dame dont la connaissance vous fera plaisir.
+Il y a mille gens qui font encore de même.
 
--*who_mathanasius
-Je vous suis obligé.
-Mademoiselle composait sans doute ?
-Dans quel genre ?
+Passez dans cette allée prochaine, j'irai vous y trouver dans un moment.
 
--*who_mademoiselleromanville
-J'allAis donner au public les Métamorphoses d'Ovide.
-Mais d'un style !...
+Seigneur Pluton, plusieurs ombres demandent audience.
 
--*who_mathanasius
-J'ai travaillé sur le même sujet.
-C'est en vers ?
+D'accord ; mais il est de Votre Majesté de monter sur votre trône au moins une fois le mois.
 
--*who_mademoiselleromanville
-Non, en prose.
+Vous voulez plaisanter ! Voilà votre manteau royal, votre sceptre et votre couronne qu'on vous apporte.
 
--*who_mathanasius
-Fi !
-Cela est trop rampant.
+Il n'a pas encore bu de l'eau du fleuve d'Oubli.
 
--*who_mademoiselleromanville
-C'est selon.
-Écoutez :
-    « Au siècle passé que l'on appelait siècle d'or, les hommes ne se conservaient dans l'innocence ni par la crainte des lois, ni par l'étude de la sagesse. »
+Il y a encore là plus d'un millier d'ombres qui demandent audience.
 
--*who_mathanasius
-Cela n'est pas mal.
-Voici comme je commençais mes Métamorphoses :
+Mon maître ?
+
+Voilà à peu près les habits avec lesquels il est sorti ; mais il y a plus de deux heures qu'il est rentré. Les larmes de Proserpine l'ont attendri de façon qu'ils se sont réconciliés avec les plus tendres caresses.
+
+Il est trop bien reconnu dans ces lieux pour Pluton. C'est le véritable, mon ami.
+
+Si tu ne veux pas m'en croire, juges-en par tes yeux.
+
+
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathanasius
+
+Je vous suis obligé. Mademoiselle composait sans doute ? Dans quel genre ?
+
+J'ai travaillé sur le même sujet. C'est en vers ?
+
+Fi ! Cela est trop rampant.
+
+Cela n'est pas mal. Voici comme je commençais mes Métamorphoses :
 Toi qui guides le cours du ciel, porte-flambeaux,
 Qui portes dans tes mains le moite frein des eaux,
 Qui fais trembler la terre, et depuis la parole
 Serre et lâche la bride aux postillons d'Éole.
-Voilà du sublime.
-Voici le chaos :
+Voilà du sublime. Voici le chaos :
 Le monde était jadis une forme sans forme,
 Une pile confuse, un mélange difforme
 D'abîmes, un abîme ! Un corps mal compassé,
@@ -1376,23 +898,8 @@ La mer, le feu, la terre, étaient logés dans l'air ;
 L'air, la mer et le feu dans la terre, et la terre
 Chez l'air, le feu, la mer. Car alors le tonnerre...
 
--*who_caron
-Voilà qui est terriblement embarrassé.
+C'est le fin de l'art. Pour bien parler du chaos, il fallait parler d'un style inintelligible.
 
--*who_mathanasius
-C'est le fin de l'art.
-Pour bien parler du chaos, il fallait parler d'un style inintelligible.
-
--*who_mademoiselleromanville
-Vous en êtes venu à bout.
-Je continue :
-    « La pâle jalousie ne régnait point sur le coeur des mortels.
-Une jolie femme servait à trois ou quatre amis. »
-
--*who_caron
-Il y a mille gens qui font encore de même.
-
--*who_mathanasius
 Je disais à Jupiter, au sujet de la création du monde :
 L'immuable décret de ta bouche divine,
 Qui causera sa fin, cause son origine,
@@ -1400,559 +907,5 @@ Non en temps, avant temps, ni même avec le temps,
 J'entends un temps confus, car les courses des ans,
 Des siècles, des saisons, des mois et des années,
 Par le ciel mesurés, des astres sont bornées.
-Cela est du dernier beau.
-On m'a déjà traduit en latin, en italien, en espagnol et en allemand, avec des commentaires.
+Cela est du dernier beau. On m'a déjà traduit en latin, en italien, en espagnol et en allemand, avec des commentaires.
 
--*who_mademoiselleromanville
-L'on fait sagement de vous commenter, car vous êtes furieusement obscur.
-
--*who_caron
-Passez dans cette allée prochaine, j'irai vous y trouver dans un moment.
-
-**** *book_ *id_III02 *act_III *date_1719
-
--*who_arlequin
-L'architecture de ce pays est triste et la promenade lugubre.
-On ne voit que des supplices ridicules.
-Celui-ci porte une pierre que je voulais lui aider à rouler.
-J'ai vu près de là cinquante femelles qui remplissent des tonneaux crevés ; un autre est attaché à la roue d'un moulin qui tourne sans cesse, pour avoir fait les doux yeux à Madame Junon.
-Si Pluton est aussi vindicatif que son frère, il pourrait bien m'en arriver autant.
-
--*who_caron
-Seigneur Pluton, plusieurs ombres demandent audience.
-
--*who_arlequin
-Est-ce qu'il n'y a pas de juges pour cela ?
-
--*who_caron
-D'accord ; mais il est de Votre Majesté de monter sur votre trône au moins une fois le mois.
-
--*who_arlequin
-Avant de juger, ne va-t-on pas à la buvette ?
-
--*who_caron
-Vous voulez plaisanter !
-Voilà votre manteau royal, votre sceptre et votre couronne qu'on vous apporte.
-
-**** *book_ *id_III03 *act_III *date_1719
-
--*who_arlequin
-Dites-moi, la belle, de quelle profession étiez-vous là-haut ?
-
--*who_mademoiselledecoulisses
-Comédienne de campagne.
-Je me nommais Descoulisses.
-
--*who_arlequin
-J'ai entendu parler de vous comme d'une grande actrice.
-
--*who_mademoiselledecoulisses
-Il est vrai que j'ai fort brillé.
-Cependant mes meilleures scènes n'étaient pas celles que je représentais.
-Je menais l'amour à la baguette.
-Je faisais naître de la passion sans en ressentir.
-
--*who_arlequin
-Cela est difficile.
-Je ne puis parler de boire et de manger sans que l'eau ne m'en vienne à la bouche.
-
--*who_mademoiselledecoulisses
-Une bonne actrice sait se prêter à tous les caractères.
-Tout est bien venu chez elle.
-Elle n'aime personne, et fait enrager tout le monde.
-
--*who_arlequin
-Comment cela se fait-il ?
-
--*who_mademoiselledecoulisses
-Rien de plus facile ; avec un peu d'usage du théâtre, on s'en tire aisément.
-Un jeune homme qui achevait son droit venait de recueillir une grosse succession.
-J'en tirai la meilleure partie avec quatre vers de Psyché.
-Un soir qu'il me faisait des offres de service, je lui dis du ton le plus tendre :
-Plus j'ai les yeux sur vous, plus je me sens charmer.
-Tout ce que j'ai senti n'agissait pas de même,
-Et je dirais que je vous aime,
-Hélas ! Si je savais ce que c'est que d'aimer.
-Rompt-on avec un riche vieillard, vous croit-il outrée de sa perte, voici les adieux qu'on lui fait :
-Ah ! Par ma foi, Monsieur, vous me la donnez bonne
-De croire qu'en quittant votre triste personne, etc..
-Un homme avait fait enfermer son fils parce qu'il m'aimait.
-J'allai le trouver ; il devint amoureux de moi, et fit tant d'extravagances que ses parents tirèrent son fils de la prison pour l'y faire enfermer à son tour.
-
--*who_arlequin
-Cela est fort comique ; mais que voulez-vous de moi ?
-
--*who_mademoiselledecoulisses
-La grâce d'être ici avec les personnes que j'ai connues pendant ma vie, et de me laisser tourmenter les ombres à la place des diables.
-
--*who_arlequin
-Très volontiers.
-
-**** *book_ *id_III04 *act_III *date_1719
-
--*who_lhotelier
-Justice, Seigneur !
-Le traître m'a ruiné et est cause de ma mort.
-Je lui sers, pour son repas, un chapon, deux perdrix, un lapereau, une bécasse, un plat de macarons, du vin de Montefiascone ; il mange et boit tout cela.
-
--*who_lesuisse
-Ly être caparetier emboissonneur.
-Je mange et poivre toute son maison, et moi crevir au bout de la table comme un poudin sur le gril.
-Je demandir justice, monsir Plutonne.
-
--*who_arlequin
-Cela est triste.
-
--*who_lhotelier
-Cet homme est un fou, un ivrogne.
-
--*who_lesuisse
-Mentir toi filainement !
-Moi poivre toujours avec tempérament.
-
--*who_lhotelier
-Quand il creva, il avAit bu vingt-quatre bouteilles de vin.
-Il a eu la malice de crever pour ne pas me payer, et, depuis cette aventure, mon cabaret a été si fort décrié que j'en suis mort de chagrin.
-
--*who_arlequin
-Dans quelle ville demeurais-tu ?
-
--*who_lhotelier
-À Bergame.
-J'avais pour enseigne :
-    « Le Croissant. »
-
--*who_arlequin
-Eh !
-Je te connais; ta femme t'avait fait prendre cette enseigne.
-Ne t'appelles-tu pas messire Cornuto?
-
--*who_lhotelier
-Oui, Seigneur.
-
--*who_arlequin
-Tu es un fripon...
-Tu m'as refusé crédit plus de dix fois.
-
--*who_lhotelier
-Moi !
-Avoir refusé crédit au seigneur Pluton ?
-
--*who_arlequin
-Quand j'allais chez toi, je n'avais pas cet habit.
-J'ai été tenté plus d'une fois de t'assommer, mais je t'ai épargné jusqu'à ce que tu fusses ici.
-Je veux faire un exemple terrible de ces fripons qui refusent crédit aux honnêtes gens.
-
--*who_lesuisse
-Point de quartier à sti friponne !
-
--*who_lhotelier
-Pardonnez-moi, je vous en conjure par ces mets que j'apprêtais si délicatement.
-
--*who_arlequin
-Sais-tu encore bien faire la cuisine ?
-
--*who_lhotelier
-Je m'en flatte.
-
--*who_caron
-Il n'a pas encore bu de l'eau du fleuve d'Oubli.
-
--*who_arlequin
-Garde-toi bien de lui en donner.
-Je te pardonne et te retiens pour mon cuisinier.
-
--*who_lesuisse
-Monsir Plutonne li point faire à moi sti chagrinage.
-
--*who_arlequin
-Pour vous consoler, je vous donne l'intendance de ma cave, à condition que vous ferez la paix avec ce pauvre homme.
-
--*who_lesuisse
-Très volontiers.
-Moi n'avre point de fiel.
-Que moi fa poire !
-
--*who_arlequin
-Et moi je vais manger.
-Caron , ôte-moi mon habit de cérémonie.
-
--*who_caron
-Il y a encore là plus d'un millier d'ombres qui demandent audience.
-
--*who_arlequin
-Qu'elles s'aillent promener !
-J'ai le ventre creux comme un tambour.
-Chasse-moi toute cette canaille.
-
-**** *book_ *id_III05 *act_III *date_1719
-
--*who_pluton
-Quoi !
-Tu ne reconnais pas ton maître ?
-
--*who_caron
-Mon maître ?
-
--*who_pluton
-Oui, Pluton.
-
--*who_caron
-Voilà à peu près les habits avec lesquels il est sorti ; mais il y a plus de deux heures qu'il est rentré.
-Les larmes de Proserpine l'ont attendri de façon qu'ils se sont réconciliés avec les plus tendres caresses.
-
--*who_pluton
-Qu'entends-je ?
-C'est quelque nouveau tour de ma femme.
-Je vais punir cet imposteur.
-
--*who_caron
-Il est trop bien reconnu dans ces lieux pour Pluton.
-C'est le véritable, mon ami.
-
--*who_pluton
-Quoi !
-Je souffrirais cet affront ?
-
--*who_caron
-Si tu ne veux pas m'en croire, juges-en par tes yeux.
-
-**** *book_ *id_III06 *act_III *date_1719
-
--*who_pluton
-Ô dieux !
-C'est Arlequin.
-Continuez : cela ne va pas mal.
-
--*who_proserpine
-Que vois-je ?
-
--*who_arlequin
-Quel insolent parle ainsi à ma petite femme?
-
--*who_pluton
-Ta femme, malheureux ?
-Oh !
-Je t'étranglerai, et cette infâme ne portera pas loin l'injure qu'elle a faite à mon honneur.
-
--*who_arlequin
-Ne craignez rien : c'est un extravagant que je vais faire enfermer avec les fous de l'enfer.
-Retire-toi.
-Si tu me fâches...
-
--*who_proserpine
-Mon cher petit Pluton, ne vous mettez pas en colère...
-Vous vous feriez malade.
-
--*who_pluton
-Ah !
-Scélérate !
-Tu me désavoues pour ton mari ?
-
--*who_proserpine
-Va, malheureux !
-Cesse de passer ici pour Pluton.
-
--*who_pluton
-Je n'y puis plus tenir.
-La rage et la fureur...
-
--*who_arlequin
-Doucement, il est temps de finir la comédie.
-Je vais tout éclaircir...
-Apprenez, Madame, que je m'appelle Arlequin.
-
--*who_proserpine
-Quoi !
-Vous n'êtes pas Pluton ?
-
--*who_arlequin
-Non, parbleu !
-
--*who_pluton
-Avais-je tort, perfide?
-
--*who_arlequin
-Point d'invectives.
-Vous m'avez enlevé ma maîtresse : je n'ai pas trop mal pris ma revanche avec votre femme.
-
--*who_proserpine
-Ah !
-Seigneur, il ne s'est rien passé entre nous contre votre honneur.
-Je m'en suis tenue avec lui aux caresses les plus innocentes.
-
--*who_arlequin
-Avalez doucement la pilule.
-Plus vous ferez d'éclat, plus ma vengeance sera complète.
-
--*who_pluton
-Écoute, j'ai à te faire une petite proposition.
-Ce séjour n'est pas fort agréable pour toi.
-
--*who_arlequin
-Je m'accommode de tout.
-
--*who_pluton
-Retourne sur la terre; je t'y comblerai de biens.
-
--*who_arlequin
-Je n'ai point d'ambition.
-Du bon vin, une table bien servie...
-
--*who_pluton
-Tu l'auras.
-
--*who_arlequin
-Tope !
-Mais à une condition.
-De peur de nous trouver rivaux sur terre, jurez d'être fidèle à Proserpine.
-
--*who_proserpine
-Cela est fort bien imaginé.
-
--*who_pluton
-Mais...
-
--*who_arlequin
-Point de mais...
-Sinon marché nul.
-
--*who_pluton
-Je jure donc de n'aimer que ma femme.
-Quelle punition !
-
--*who_proserpine
-Par le Styx ?
-
--*who_pluton
-Oh !
-Parbleu !
-C'est trop demander.
-
--*who_arlequin
-Elle a raison !
-Vous n'avez aucun lieu de vous plaindre de Proserpine...
-Mes caresses ont été si simples qu'elle en a été scandalisée.
-
--*who_pluton
-Cela est-il possible ?
-
--*who_arlequin
-Songez donc que je ne suis qu'une ombre.
-Mercure me l'a assuré.
-Les morts n'ont point de corps.
-
--*who_pluton
-Dans quel embarras Mercure m'a-t-il jeté !
-
--*who_mercure
-Oh !
-Oh !
-Je viens d'apprendre une partie de vos mésaventures, et j'ai deviné l'autre.
-À quoi en êtes-vous avec Arlequin ?
-
--*who_arlequin
-Nous sommes d'accord ; mais si j'avais crû avoir mon corps...
-
--*who_pluton
-Fort bien !
-
--*who_arlequin
-Je vous aurais rendu la pareille.
-Vous n'avez pas fait le personnage d'une ombre avec Violette.
-
--*who_pluton
-Je jure par le Styx qu'elle t'a été fidèle, et qu'il y a eu plus de jeunesse et d'ambition que de malice dans ce qu'elle a fait.
-
--*who_arlequin
-Violette aurait résisté à un dieu ?
-
--*who_pluton
-Rien n'est plus vrai.
-Retourne auprès d'elle ; Mercure te conduira où elle est.
-Jouissez d'un bonheur que je ne troublerai plus.
-
--*who_arlequin
-Partons promptement.
-Je brûle de revoir ma maîtresse.
-Adieu, seigneur Pluton ; jusqu'au revoir.
-Belle Proserpine, en cas d'infidélité de la part de votre mari, Mercure vous dira où je demeure.
-Serviteur.
-
-**** *book_ *id_III07 *act_III *date_1719
-
--*who_cinthio
-Seigneur Pantalon, la belle Silvia, revenue de son erreur, consent à m'épouser.
-
--*who_pantalon
-Quoique le jour ne soit guère propre pour une noce, je ne veux pas m'y opposer.
-
--*who_rosette
-Mon cher père, voilà ma soeur Violette de retour.
-
--*who_pantalon
-Comment ?
-
--*who_rosette
-Elle a appris la mort du pauvre Arlequin ; elle s'en désespère.
-
--*who_cinthio
-L'inconnu l'aura abandonnée : voilà le sujet de ses larmes.
-
--*who_rosette
-Elle est si honteuse qu'elle n'ose lever les yeux.
-
--*who_pantalon
-Qu'on ne me parle pas de cette coquine-là !
-
--*who_silvia
-Eh !
-Seigneur Pantalon...
-
--*who_pantalon
-Qu'elle ne se présente jamais devant moi !
-N'as-tu pas honte de te montrer après une telle action qui a causé la mort d'Arlequin ?
-Les dieux enverront son ombre pour te punir de ta perfidie.
-Qu'entends-je ?
-Aiuto !
-Misericordia !
-
--*who_arlequin
-Oh !
-Oh !
-Friponne !
-Vous ne m'échapperez pas.
-
--*who_violette
-Ah !
-Chère ombre !
-
--*who_arlequin
-La peur vous fait parler.
-Je ne suis pas si chère que vous le dites, puisque vous m'avez préféré un aventurier.
-
--*who_violette
-Ombre de mon amant, pardonne-moi la surprise que l'on m'a faite.
-À la nouvelle de ta mort, j'ai traité ton rival avec le dernier mépris.
-
--*who_arlequin
-Tu voudrais passer auprès de moi pour une vestale ?
-
--*who_violette
-Ah !
-Tu m'outrages...
-Je ferai les serments...
-
--*who_arlequin
-Tarare !
-Si je ne savais à quoi m'en tenir.
-Mais m'aimes-tu encore ?
-
--*who_violette
-De tout mon coeur.
-
--*who_arlequin
-Pour me le prouver, il faut m'épouser tout-à-l'heure.
-
--*who_violette
-T'épouser ?
-
--*who_arlequin
-Sans balancer.
-
--*who_violette
-Il y a un obstacle invincible.
-
--*who_arlequin
-Quel est-il ?
-
--*who_violette
-Cela révolterait toutes les femmes contre moi.
-
--*who_arlequin
-Il est vrai qu'elles aiment moins l'esprit que le corps.
-Je veux être ton mari, ou je ferai le diable à quatre.
-
--*who_violette
-Je n'y puis consentir.
-Je mourrais à tout moment de frayeur.
-
--*who_arlequin
-Je vois bien ce qui te tient.
-Je ne suis pas si ombre que je le parais.
-Touche, pour voir...
-
--*who_violette
-Oui, vraiment, c'est lui-même.
-
--*who_mercure
-Oui, je vous le répète, vos cris ont percé jusqu'au royaume sombre.
-Pluton vous renvoie le gracieux Arlequin.
-
--*who_pantalon
-Nous lui en rendons de très humbles grâces, Seigneur Mercure.
-Que je suis fâché que Violette ne soit plus digne de vous !
-
--*who_arlequin
-Qui vous a dit cela ?
-Je suis mieux informé que vous sur son chapitre.
-Il est vrai qu'il y a eu quelque irrégularité dans l'économie de sa conduite ; mais j'ai de bonnes cautions de sa sagesse.
-J'oublie son inconstance, et je l'épouse.
-
--*who_pantalon
-Che consolazione !
-
--*who_rosette
-Que je vais danser à sa noce !
-
--*who_arlequin
-À la bonne heure, mais vous n'écouterez pas le compliment du lendemain.
-
--*who_cinthio
-Voilà tout le village qui vient prendre part à notre joie.
-
-**** *book_ *id_III08 *act_III *date_1719
-
--*who_unpaysan
-Célébrons d'Arlequin le fortuné retour,
-Chantons son triomphe et sa gloire.
-Quoi qu'il ait passé l'onde noire,
-Pluton l'a fait sortir du ténébreux séjour.
-Célébrons, etc.
-Ce dieu, de sa moitié jaloux avec raison,
-Craignait, suivant toute apparence,
-Qu'une trop grande ressemblance
-Ne lui fit souvent prendre Arlequin pour Pluton.
-Célébrons, etc.
-
-**** *book_ *id_III09 *act_III *date_1719
-
--*who_unpaysan
-Proserpine a fait le contraire
-De nos coquettes de Paris :
-Les amants ne peuvent leur plaire
-Quand ils ressemblent aux maris.
-
--*who_silvia
-Là-bas, par sa femme surprise,
-Pluton a presque été trahi ;
-Ce n'est point ici par méprise
-Qu'une femme trompe un mari.
-
--*who_unpaysan
-Près d'une belle être de glace,
-C'est s'exposer à son courroux.
-Arlequin, tout autre à ta place
-Aurait mieux contrefait l'époux.
-
--*who_rosette
-À l'amour vous rendez hommage,
-Vous suivez sans peine un galant.
-Hélas ! que ne suis-je à votre âge,
-Ma soeur ! J'en voudrais faire autant.
-
--*who_arlequin
-En vain dans le royaume sombre
-Proserpine m'a recherché.
-Comme je croyais être une ombre,
-Elle en fut quitte à bon marché.

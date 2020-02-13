@@ -1,6 +1,6 @@
 ---
 identifier: moliere_domgarciedenavarre  
-creator: Molière  
+creator: Molière.  
 date: 1661  
 title: Don Garcie de Navarre. Comédie  
 ---
@@ -545,7 +545,7 @@ Approuvent tous cet indigne lien ;
 J'ignore encor par où finira mon martyre :  
 Mais je mourrai plutôt que de consentir rien.  
 Puissiez-vous jouir, belle Elvire,  
-D'un destin plus doux que le mien.  < D. IGNÈS >
+D'un destin plus doux que le mien.   [1]
 Il continue.
 
 Dans la haute vertu son âme est affermie.  
@@ -2690,3 +2690,8 @@ Mais ici le temps presse, et Léon nous appelle,
 Allons dans nos plaisirs satisfaire son zèle,  
 Et par notre présence, et nos soins différents,  
 Donner le dernier coup au parti des Tyrans.  < FIN >
+
+-------
+
+
+[1] D. IGNÈS

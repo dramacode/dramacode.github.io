@@ -1,6 +1,6 @@
 ---
 identifier: quinault_roland  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1685  
 title: Roland. , tragédie en musique  
 ---

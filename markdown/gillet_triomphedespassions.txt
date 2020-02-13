@@ -1,6 +1,6 @@
 ---
 identifier: gillet_triomphedespassions  
-creator: Gillet de La Tessonerie  
+creator: Gillet de La Tessonerie ; Georges Forestier.  
 date: 1642  
 title: Le Triomphe des cinq passions. Tragi-comédie.  
 ---

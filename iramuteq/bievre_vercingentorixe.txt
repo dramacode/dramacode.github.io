@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vercingentorixe
 
--*who_vercingentorixe
 Dans ces lieux à l'anglaise, où ma voix vous amène,
 Il faut de nos malheurs rompre le cours la reine.
 Amis, vous dont l'esprit est plus mûr mitoyen,
@@ -22,7 +21,76 @@ Ose continuer le siège du cocher ?
 Parlez, Conutodun ; vous Éporédorixe,
 Vous répondrez ensuite à Vercingentorixe.
 
--*who_conutodun
+Vous, Catuat, parlez.
+
+      Eh bien ?
+
+Qu'à nos corps épuisés il serve d'aliment :
+Soldats, obéissez à mon ordre ionique;
+Qu'on apporte en ces lieux ma table alphabétique.
+
+      Cours de botanique, et fais tout décider.
+Madame, pardonnez, je souffre d'allumette,
+En m'éloignant de vous, mais l'état de mes dettes
+Dans sa chute de reins se repose sur moi ;
+Il est bien temps d'arrêt de lui montrer son roi.
+
+Princesse, il fut un temps où les grâces d'état,
+Les ris de veau jouaient autour de ma couronne.
+Les jeux de main alors embellissaient mon trône
+Il plut à verse aux dieux de m'enlever ces biens...
+Hélas ! Sans eux brouillés que peuvent les humains ?
+Vous, soldats, avancez la table des matières.
+C'est votre place aux veaux.
+      Oublions nos misères.
+
+Voici ce corps de chasse où logeaient tous les vices.
+Consolons-nous, amis, reprenons nos sens suisses.
+Vous, Madame, damée.
+
+      Catuat...
+Cotus... Conutodun...
+
+      Critognat...
+Dieux ! Je sens fermenter la brûlante amertume...
+L'amour dans ces plats pieds est-ce ton sang qui fume
+Hélas ! Sous ces couteaux tranchants du grand seigneur
+Si ces lambeaux épars... O soupçons pleins d'horreur !
+
+Eh quoi ! Je participe à vos vives alarmes,
+Et ne puis souterrain commander à mes larmes...
+Critognat ne dis rien...
+
+Romps en visière, ami, ce silence fatal.
+
+Ami, tout mon courage est à bout de chandelle.
+
+Dieux ! Convictolitan !
+
+      Ah ! mon frère.
+
+      En faisant de bruyère
+Ce qu'a fait Critognat, je m'acquitte envers toi !
+Dans tes bras séculiers reçois ton frère.
+
+
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catuat
+
+      Seigneur, ce point de vue
+Mérite un examen plus clair de procureur;
+Le secours ne vient point et César est vainqueur;
+Le meilleur parti... peut-être est de se rendre.
+
+Ah ! De votre main d'oeuvre, ami, guidez la mienne.
+
+      L'avez-vous les pieds ?
+
+Ne me refusez point; car de conversion,
+Vous me rendrez enfin un service de table.
+
+
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_conutodun
+
 C'est à mon chef Saint-Jean que ma bouche de four
 Ose dévoiler tout de point en point du jour.
 Je sais bien viager que le secours approche,
@@ -42,19 +110,18 @@ Confondons cette nuit leur adresse de lettre,
 Et ne leur faisons point de quartier de soulier,
 Périssons ou vengeons les Gaules d'écuyer.
 
--*who_eporedorixe
-C'est mon avis, seigneur, et mon coeur de laitue...
+      Ah ! Prince.
 
--*who_vercingentorixe
-Vous, Catuat, parlez.
+      Et moi
+Je ne veux sur leurs pas d'autres guides de laine.
 
--*who_catuat
-      Seigneur, ce point de vue
-Mérite un examen plus clair de procureur;
-Le secours ne vient point et César est vainqueur;
-Le meilleur parti... peut-être est de se rendre.
+Et le courage, ami.
 
--*who_critognat
+      Non.
+
+
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_critognat
+
 Vous, Catuat, ô ciel ! seigneur, daignez m'entendre;
 Non, je ne puis souffrir ni ce plan de maison,
 Ni le noble dessein à la mine de plomb,
@@ -83,233 +150,16 @@ N'aurons pas de Calais le flatteur avantage
 D'asservir sous leurs lois un peuple généreux,
 Et sur le sol dièse où régnaient vos aïeux.
 
--*who_convictolitan
-Oui, nous sommes, Seigneur, si bas de Ségovie,
-Qu'un remède d'eau chaude utile à la patrie
-Ne peut trop s'acheter.
-
--*who_vercingentorixe
-      Eh bien ?
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_sylvie
-      Ciel ! de mon lit,
-Prenez garde malade, ô prince ! On vous trahit :
-C'est Éporédorixe.
-
--*who_eporedorixe
-      Ah ! Seigneur !
-
--*who_sylvie
-      Oui, barbare,
-Tu croyais m'abuser par ton air de guitare;
-Mais plus que toi, Sylvie est adroite en entrant.
-
--*who_vercingentorixe
-Qu'à nos corps épuisés il serve d'aliment :
-Soldats, obéissez à mon ordre ionique;
-Qu'on apporte en ces lieux ma table alphabétique.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_unsoldat
-Seigneur, je voudrais bien vous celer et brider
-Que...
-
--*who_vercingentorixe
-      Cours de botanique, et fais tout décider.
-Madame, pardonnez, je souffre d'allumette,
-En m'éloignant de vous, mais l'état de mes dettes
-Dans sa chute de reins se repose sur moi ;
-Il est bien temps d'arrêt de lui montrer son roi.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_sylvie
-Cher Convictolitan !
-
--*who_convictolitan
-      Ô ma chère Sylvie !
-Je vole dans la poche au secours d'Alexie.
-
--*who_sylvie
-Qu'avez-vous au plus fort ? Assuré d'être aimé,
-Vos yeux, ces si beaux yeux, sont éteints rétamé;
-Vous n'avez plus cet air serein de Canarie.
-Quoi ! vous me préférez votre ingrate patrie ?
-Ne peut-on vivre heureux sans elle de dindon ?
-
--*who_convictolitan
-Ah ! Cessez d'arrêter mes pas de rigaudon;
-Je vois trop de cheval ce qui cause vos peines;
-Mais ce sang de marron qui circule en mes veines,
-Doit couler pour la ville où je suis né morveux.
-
--*who_sylvie
-Va, nous savons de Naples où tu portes tes voeux ;
-Pars de gâteau, cruel ! Laisse-moi.
-
--*who_convictolitan
-      Non, Sylvie ;
-Votre coeur d'opéra fait toute mon envie :
-Je méritais plutôt d'être plaint comme un oeuf :
-Pourquoi ce ton salé ? prenez un air de boeuf.
-Qui ne redouble point mes maux à double entente.
-
--*who_sylvie
-Pardonne au feu grégeois dont brûle ton amante :
-Hélas ! je sens mauvais ce que tu fais pour moi.
-
--*who_convictolitan
-Voulais-tu m'éprouver ?
-
--*who_sylvie
-      Non propre.
-
--*who_convictolitan
-      Eh bien ! Pourquoi
-Souiller nos noeuds coulants par une erreur cruelle ?
-Notre chaîne de montre est si forte et si belle !
-Tu me seras toujours chère de professeur :
-Oui, toujours.
-
--*who_sylvie
-      Je t'entends, j'admire ta valeur;
-Ne soit point de côté dans la froideur stoïque,
-Tout parti par le coche est toujours héroïque,
-En épurant l'amour et son flambeau d'argent.
-Dans la guerre le sort nous trompe d'éléphant,
-Et nous joue avec presse : ainsi que notre flamme
-Soit le coeur de ton coeur et l'âme de ton âme;
-L'État peut employer d'autres mains de papier,
-Et dans le sein des arts de ce siècle grossier,
-Nous vivrons tous les deux à l'abri champenoise.
-
--*who_convictolitan
-Je ne puis très profond vivre sans toi d'ardoise :
-Mais ne dois-pas rendre un compte de Grécourt
-De la place de fiacre on m'a nommé la cour ?
-Sans ce triste devoir je sécherais tes larmes,
-J'épargnerais mes jours, et par cent héros d'armes,
-Il serait répété que Convictolitan,
-Las d'amour de chercher un trépas éclatant,
-Eut la force de corps de préférer la vie
-Pour être de raison aussi grand que Sylvie.
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_critognat
 C'est trop livrer vos coeurs à ce combat naval;
 L'amour dans ce héros est un vice-amiral,
 Lorsqu'il doit de la main défendre sa patrie.
 Viens, Convictolitan.
 
--*who_convictolitan
-      Vous venez de l'entendre...
-Je te suis, Critognat... Dieux !
-
--*who_sylvie
-      Tu n'oublieras pas
-Ta maîtresse à chanter dans l'horreur des combats ?
-
--*who_convictolitan
-L'amour va m'y conduire, et par sa main divine,
-Ton image en mon coeur sera peinte ou chopine.
-
--*who_sylvie
-Je suis remise au mois par cet espoir charmant.
-Adieu...
-
--*who_convictolitan
-      Je pars...
-
--*who_sylvie
-      Eh bien !
-
--*who_convictolitan
-      Sylvie !...
-
--*who_sylvie
-      Ah ! Quel moment !
-
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_sylvie
-Ah ! Nous attendrissons les cieux de mon carrosse.
-Quel serait l'avenir, si le présent de noce
-Nous réduit solitaire à tant d'affreux tourments...
-Jette un coup d'oeil de boeuf sur deux tendres amants !
-Les mêmes traits de cuir, puissant maître du monde,
-Ont ouvert de ton coeur la blessure profonde,
-Lorsque tu vins d'Arbois sur ces bords de chapeau,
-Déposer en justice un précieux fardeau,
-Et que la belle Europe interdite, tremblante,
-Mit le comble du toit à la ruse innocente...
-Cher Convictolitan, tes derniers mots de rein
-Ne sortiront jamais de mon esprit de vin.
-"Ton image en mon coeur sera peinte ou chopine. "
-Ah ! Crois de Saint-André, que cette ardeur divine
-A dans mon sein patron nourri les mêmes feux...
-Mais ces gardes mangers que font-ils en ces lieux ?
-Je vois les apprêts tout de ce festin barbare.
-Quel est le coup de pied que ce moment prépare ?
-Une secrète horreur me glace au chocolat...
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_vercingentorixe
-Princesse, il fut un temps où les grâces d'état,
-Les ris de veau jouaient autour de ma couronne.
-Les jeux de main alors embellissaient mon trône
-Il plut à verse aux dieux de m'enlever ces biens...
-Hélas ! Sans eux brouillés que peuvent les humains ?
-Vous, soldats, avancez la table des matières.
-C'est votre place aux veaux.
-      Oublions nos misères.
-
--*who_sylvie
-Mais Convictolitan ne paraît point fermé.
-Je tremble.
-
--*who_critognat
       Il va venir.
       Je reste inanimé !...
 
--*who_vercingentorixe
-Voici ce corps de chasse où logeaient tous les vices.
-Consolons-nous, amis, reprenons nos sens suisses.
-Vous, Madame, damée.
-
--*who_sylvie
-      Ah ! Seigneur.
-
--*who_vercingentorixe
-      Catuat...
-Cotus... Conutodun...
-
--*who_conutodun
-      Ah ! Prince.
-
--*who_vercingentorixe
-      Critognat...
-Dieux ! Je sens fermenter la brûlante amertume...
-L'amour dans ces plats pieds est-ce ton sang qui fume
-Hélas ! Sous ces couteaux tranchants du grand seigneur
-Si ces lambeaux épars... O soupçons pleins d'horreur !
-
--*who_vercingentorixe
-Eh quoi ! Je participe à vos vives alarmes,
-Et ne puis souterrain commander à mes larmes...
-Critognat ne dis rien...
-
--*who_critognat
       Je pense mon cheval.
 
--*who_vercingentorixe
-Romps en visière, ami, ce silence fatal.
-
--*who_critognat
 Je voulais vous cacher une action des fermes,
 Qui pourrait accabler les âmes les plus fermes;
 Vous l'ordonnez, seigneur, je me livre tournois :
@@ -343,13 +193,6 @@ Au zèle du soldat qui porte de derrière
 La tête du héros près du corps de logis
 Du traître dont par vous les jours furent proscrits.
 
--*who_vercingentorixe
-Ami, tout mon courage est à bout de chandelle.
-
--*who_sylvie
-Ah ! b, c, d...
-
--*who_critognat
       Seigneur, la suite est plus cruelle.
 Le même garde meuble à côté du héros,
 Met la tête de clou de l'auteur de nos maux,
@@ -357,10 +200,6 @@ Pendant jusqu'aux talons cette scène sanglante,
 On préparait déjà cette pompe aspirante
 Que l'on croyait devoir à ses mânes d'osier.
 
--*who_sylvie
-Oh ! p, q...
-
--*who_critognat
       J'avais bien juré comme un charretier
 Mais c'était en vain points d'arrêter un échange,
 Devant causer tout haut quelque méprise étrange,
@@ -371,49 +210,139 @@ Des honneurs qu'en ces lieux on rend aux morts de cuivre.
 Et que sa cendre chaude est couverte de pleurs...
 Et dans ces plats pays... Ô comble des horreurs !
 
--*who_vercingentorixe
-Dieux ! Convictolitan !
-
--*who_critognat
       Oui, Seigneur.
 
--*who_vercingentorixe
-      Ah ! mon frère.
 
--*who_conutodun_catuat
-Cher ami !
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_convictolitan
 
--*who_sylvie
+Oui, nous sommes, Seigneur, si bas de Ségovie,
+Qu'un remède d'eau chaude utile à la patrie
+Ne peut trop s'acheter.
+
+      Ô ma chère Sylvie !
+Je vole dans la poche au secours d'Alexie.
+
+Ah ! Cessez d'arrêter mes pas de rigaudon;
+Je vois trop de cheval ce qui cause vos peines;
+Mais ce sang de marron qui circule en mes veines,
+Doit couler pour la ville où je suis né morveux.
+
+      Non, Sylvie ;
+Votre coeur d'opéra fait toute mon envie :
+Je méritais plutôt d'être plaint comme un oeuf :
+Pourquoi ce ton salé ? prenez un air de boeuf.
+Qui ne redouble point mes maux à double entente.
+
+Voulais-tu m'éprouver ?
+
+      Eh bien ! Pourquoi
+Souiller nos noeuds coulants par une erreur cruelle ?
+Notre chaîne de montre est si forte et si belle !
+Tu me seras toujours chère de professeur :
+Oui, toujours.
+
+Je ne puis très profond vivre sans toi d'ardoise :
+Mais ne dois-pas rendre un compte de Grécourt
+De la place de fiacre on m'a nommé la cour ?
+Sans ce triste devoir je sécherais tes larmes,
+J'épargnerais mes jours, et par cent héros d'armes,
+Il serait répété que Convictolitan,
+Las d'amour de chercher un trépas éclatant,
+Eut la force de corps de préférer la vie
+Pour être de raison aussi grand que Sylvie.
+
+      Vous venez de l'entendre...
+Je te suis, Critognat... Dieux !
+
+L'amour va m'y conduire, et par sa main divine,
+Ton image en mon coeur sera peinte ou chopine.
+
+      Je pars...
+
+      Sylvie !...
+
+
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sylvie
+
+      Ciel ! de mon lit,
+Prenez garde malade, ô prince ! On vous trahit :
+C'est Éporédorixe.
+
+      Oui, barbare,
+Tu croyais m'abuser par ton air de guitare;
+Mais plus que toi, Sylvie est adroite en entrant.
+
+Cher Convictolitan !
+
+Qu'avez-vous au plus fort ? Assuré d'être aimé,
+Vos yeux, ces si beaux yeux, sont éteints rétamé;
+Vous n'avez plus cet air serein de Canarie.
+Quoi ! vous me préférez votre ingrate patrie ?
+Ne peut-on vivre heureux sans elle de dindon ?
+
+Va, nous savons de Naples où tu portes tes voeux ;
+Pars de gâteau, cruel ! Laisse-moi.
+
+Pardonne au feu grégeois dont brûle ton amante :
+Hélas ! je sens mauvais ce que tu fais pour moi.
+
+      Non propre.
+
+      Je t'entends, j'admire ta valeur;
+Ne soit point de côté dans la froideur stoïque,
+Tout parti par le coche est toujours héroïque,
+En épurant l'amour et son flambeau d'argent.
+Dans la guerre le sort nous trompe d'éléphant,
+Et nous joue avec presse : ainsi que notre flamme
+Soit le coeur de ton coeur et l'âme de ton âme;
+L'État peut employer d'autres mains de papier,
+Et dans le sein des arts de ce siècle grossier,
+Nous vivrons tous les deux à l'abri champenoise.
+
+      Tu n'oublieras pas
+Ta maîtresse à chanter dans l'horreur des combats ?
+
+Je suis remise au mois par cet espoir charmant.
+Adieu...
+
+      Eh bien !
+
+      Ah ! Quel moment !
+
+Ah ! Nous attendrissons les cieux de mon carrosse.
+Quel serait l'avenir, si le présent de noce
+Nous réduit solitaire à tant d'affreux tourments...
+Jette un coup d'oeil de boeuf sur deux tendres amants !
+Les mêmes traits de cuir, puissant maître du monde,
+Ont ouvert de ton coeur la blessure profonde,
+Lorsque tu vins d'Arbois sur ces bords de chapeau,
+Déposer en justice un précieux fardeau,
+Et que la belle Europe interdite, tremblante,
+Mit le comble du toit à la ruse innocente...
+Cher Convictolitan, tes derniers mots de rein
+Ne sortiront jamais de mon esprit de vin.
+"Ton image en mon coeur sera peinte ou chopine. "
+Ah ! Crois de Saint-André, que cette ardeur divine
+A dans mon sein patron nourri les mêmes feux...
+Mais ces gardes mangers que font-ils en ces lieux ?
+Je vois les apprêts tout de ce festin barbare.
+Quel est le coup de pied que ce moment prépare ?
+Une secrète horreur me glace au chocolat...
+
+Mais Convictolitan ne paraît point fermé.
+Je tremble.
+
+      Ah ! Seigneur.
+
+Ah ! b, c, d...
+
+Oh ! p, q...
+
       Cher amant !
 
--*who_vercingentorixe
-      En faisant de bruyère
-Ce qu'a fait Critognat, je m'acquitte envers toi !
-Dans tes bras séculiers reçois ton frère.
-
--*who_conutodun
-      Et moi
-Je ne veux sur leurs pas d'autres guides de laine.
-
--*who_catuat
-Ah ! De votre main d'oeuvre, ami, guidez la mienne.
-
--*who_conutodun
-Et le courage, ami.
-
--*who_catuat
-      L'avez-vous les pieds ?
-
--*who_conutodun
-      Non.
-
--*who_catuat
-Ne me refusez point; car de conversion,
-Vous me rendrez enfin un service de table.
-
--*who_sylvie
 Pour moi, quand mes flancs d'oeufs dans ce jour déplorable,
 Ont reçu quittance le cors de mon amant,
 Le mien ne sera point souillé par le fer blanc.
 Je vais me retirer dans ma tente ou ma nièce,
 Et j'attendrai la mort de la faim de la pièce.
+

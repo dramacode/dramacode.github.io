@@ -1,905 +1,7 @@
 
 
-**** *book_ *id_body-1 *date_1694 *creator_boursault
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_germanicus
 
-GERMANICUS.
-
-TRAGEDIE.
-
-EPITRE A SON EMINENCE MONSEIGNEUR LE CARDINAL DE BONZI, ACHEVESQUE DE NARBONNE, Commandeur des Ordres du Roy, Grand Aumônier de la Reine, President Né des Estats de Languedoc, etc;
-
-Monseigneur, Le Grand Cardinal de Richelieu, dont la Memoire ne durera pas moins que le Monde ; Ce Minstre infatigable dont Vous avez le Coeur & l'Esprit, la Generosité & les Lumieres, aprés avoir donné ses soins à regler les Affaires de l'Europe, accordoit souvent le reste de ses momens à la conversation des Muses ; & quand par respect elles n'osoient s'élever jusques à luy, sa bonté le faisoit descendre jusques à Elles.
-VÔTRE EMINENCE qui marche sur les pas de ce grand Homme, & qui rempliroit les mêmes Emplois avec une égale Capacité, ne l'imiteroit pas entierement si Elle ne reparoit la perte que firent ces Filles du Ciel, en leur accordant un semblable Protecteur.
-Elles ne voyent que Vous, MONSEIGNEUR, qui puisse leur tenir lieu de ce qu'elles ont perdu : & sur quelque Merite qu'elles jettent leurs regards le Vôtre est le Seul qui ressemble parfaitement à celuy dont le souvenir est si cher.
-Zelé pour Vôtre Roy comme il l'estoit pour le sien, Vous faites Vôtre plus sensible plaisir de ce qui peut contribuer à sa Gloire ; & Vous ne trouvez vos soins utilement employez que lorsqu'il sont fructueux à son Estat.
-Vous avez esté de si bonne heure capable de si grandes choses que les Negociations les plus importantes, qui ordinairement sont le partage de la Vieillesse, Vous ont esté confiées dans l'âge le plus florissant : Et Vous Vous en estes si glorieusement acquité que dès vos premiers pas la Pourpre fut le prix de Vôtre Merite.
-Une Puissance Etrangere, pour reconnoistre les Obligations qu'elle Vous avoit, déroba, si j'ose me servir de ce terme, au Roy que Vous aviez l'honneur de representer le plaisir de Vous élever Luy-même à l'éminente Place ou Vous estes ; Et comme une si haute Dignité ne se donne qu'une fois, la Pologne prévoyant qu'elle Vous estoit infaillible, eut peur d'estre prévenuë si elle ne se hastoit d'executer ce que la France méditoit de faire.
-S'il est vray, MONSEIGNEUR, comme l'a soûtenu un Ancien, qu'un honneste homme aux prises avec la Fortune soit un Spectacle digne de l'attention des Dieux, c'en est un incomparablement plus beau que deux Rois en concurrence à qui rendra le plus de Justice à la Vertu : Et je ne conçois rien de plus grand que d'estre l'Object de la Reconnaissance de deux Monarques.
-La France & la Pologne sont également d'accord que leurs Souverains ne pouvoient honorer de leur Estime un Homme à qui elle fût mieux duë ; & que par quelque endroit qu'on regarde VÔTRE EMINENCE il n'y en a point qui ne luy soit glorieux.
-Si Elle avoit besoin d'emprunter de l'éclat de sa Naissance, la Toscane seule luy fourniroit des Titres de plus de six cents Ans de Noblesse confirmée ; & peut-estre aurait-on de la peine à trouver dans tout le reste de l'Italie une Maison qui tire son origine de si loin.
-Mais, MONSEIGNEUR, quelque Illustre qu'ait esté & que soit encore vôtre Race, Vôtre Nom n'a besoin que de vous seul pour atteindre les Siécles les plus reculez : Et quoi-que Vos Ayeux ayent fait de considerable leur plus solide Gloire est de vous avoir donné le Jour.
-Ils sont la Source d'où l'on peut dire qu'est sorty un Fleuve dont les Eaux, semblables à celles du Nil, inondent les Campagnes pour les rendre plus fertiles, & s'attirent les Benedictions de tous les Climats qu'elles ont l'indulgence d'arroser.
-Voilà, MONSEIGNEUR, ce que fait tous les jours VÔTRE EMINENCE  : Elle ne passe en aucun lieu où Elle ne laisse des marques de son passage ; & par tout où Elle se rencontre les Pauvres, qui sont representez par la Terre Aride, trouvent du soulagement à leur Misere, & Vous comblent de Benedictions.
-Je prens la Verité à témoin qu'il ne m'échape icy aucun mot qu'elle n'ait soin de me dicter elle-même : Germanicus, dont Tacite fait un Portrait si beau, sort d'un sang trop Auguste pour descendre à la flâterie ; & si j'ose Vous le Dedier c'est, MONSEIGNEUR, que j'ay crû ne devoir Offrir l'un des plus grands Heros de l'ancienne Rome qu'à l'un des plus grands Hommes de la nouvelle.
-L'Accueil qu'on luy a fait hors de son Païs luy a esté assez avantageux pour avoir lieu de croire que sa Patrie ne luy sera pas moins favorable ; & que VÔTRE EMINENCE accordera sa Protection à un Prince qui eut l'honneur de naître dans la Pourpre dans la même Ville où Vous avez esté revêtu.
-Ayez la bonté, MONSEIGNEUR, de ne pas luy refuser cette Grace ; ny à moy celle d'estre avec un profond Respect,
-
-MONSEIGNEUR,
-
-DE VÔTRE EMINENCE,
-
-Le tres humble, & tres obeïssant serviteur,
-
-BOURSAULT.
-
-AVIS
-
-Cette Tragedie mit mal ensemble les deux premiers Hommes de nôtre Temps pour la Poësie : je parle du celebre Monsieur de Corneille & de l'illustre Monsieur Racine, qui disputoient tout-deux de Merite ; & qui ne trouvent personne qui en dispute avec eux.
-Mr. de Corneille parla si avantageusement de cet Ouvrage à l'Académie qu'il luy échapa de dire qu'il ne luy manquoit que le Nom de Mr.
-Racine pour estre achevé, dont Mr.
-Racine s'étant offensé ils en vinrent à des paroles piquantes ; & depuis ce moment-là ils ont toûjours vécu, non pas sans estime l'un pour l'autre, cela estoit impossible, mais sans amitié.
-Je cite cet endroit avec plaisir, parce qu'il m'est extrémement glorieux.
-Trouver Germanicus digne d'un aussi grand Nom que celuy de Mr.
-Racine, c'est en peu de mots en dire beaucoup de bien : Et que ce témoignage ait esté rendu par un Homme aussi fameux que Mr. de Corneille, c'est le plus grand honneur que je pûsse recevoir.
-Le Lecteur jugera, s'il luy plaist, qui des deux eut le plus de raison ; l'un de dire ce qu'il dit, ou l'autre de s'en offenser.
-
-**** *book_ *id_I01 *act_I *date_1694 *creator_boursault
-
--*who_livie
-Ma soeur... Mais je m'oublie⁎, & je perds le respect⁎,
-Ce nom, qui m'estoit cher, vous doit estre suspect,
-Madame, & votre Hymen⁎, dont la pompe⁎ s'étale,
-Me deffend desormais de vous traiter d'égale.
-Demain l'heureux Drusus doit estre vostre Epoux :
-Fils du Maistre du Monde il n'estoit dû qu'à vous ;
-Et j'ay blâmé le sort qui vous estoit contraire⁎,
-Jusqu'à vous abaisser à l'Hymen⁎ de mon frere.
-Je vous dirois pourtant, si j'osois aujourd'huy
-Alterer vostre joye en vous parlant de luy,
-Qu'adoré du Sénat, comme l'estoit mon Pere,
-Et par l'ordre d'Auguste adopté par Tibere ;
-(Je laisse à part sa gloire, & ne la compte pas :)
-Je croyois que Drusus fût un degré⁎ plus bas ;
-Que cette adoption, pour peu qu'on s'en prévale⁎,
-Entre ces deux Rivaux laissoit quelque intervale ;
-Et qu'à rendre justice aux sublimes vertus,
-Le premier des Mortels estoit Germanicus.
-Une erreur si grossiere est enfin dissipée :
-J'apprens par vostre choix que je m'estois trompée,
-Madame : Et je viens rendre au merite⁎ éclatant⁎,
-Qui vous met au dessus du sort qui vous attend,
-Tout ce qu'on peut devoir à l'Epouse d'un homme,
-Trouvé digne à vingt ans d'estre Consul de Rome.
-
--*who_agripine
-Madame, (puisqu'enfin vous m'ostez la douceur
-Que j'ay toujours trouvée à vous nommer ma Soeur,)
-Dans le trouble mortel dont mon ame est saisie
-Je n'apprehendois rien de vostre jalousie :
-Vous avez du chagrin, & voulez l'exhaler⁎ :
-C'est vostre amour qui parle. Et le mien va parler.
-J'aime Germanicus, Madame. Un mot si rude
-N'est pas l'effet honteux d'une indigne habitude ;
-Quoy que Grand par luy-mesme, & Fameux par son sang⁎,
-Ce mot n'échape guère à celles de mon rang :
-Mais pour rendre justice au Heros qu'on m'arrache,
-S'il m'est doux de l'aimer, il est beau qu'on le sçache ;
-Et que tout l'Univers justifie aujourd'huy,
-Qu'il ne tient pas à moy, que je ne sois à luy.
-A Drusus qui vous plut l'Empereur me destine :
-Sa main vous eût charmée, & sa main m'assassine.
-Non qu'il ne soit grand homme, & qu'il n'ait des vertus :
-Quoy que fils de Tibere, on estime Drusus :
-On l'a veu dans l'Armée au sortir de l'enfance
-Signaler sa valeur⁎, & montrer sa prudence :
-C'est un Heros naissant, un coeur noble, élevé⁎ ;
-Mais l'Amant que je perds en est un achevé⁎ :
-Rome n'a jamais veu, quoique l'envie⁎ en dise,
-Homme plus glorieux, ny gloire mieux acquise.
-Et pour son coup d'essay le Danube enchaisné,
-Fait voir à quels exploits les Dieux l'ont destiné.
-Je le perds ce Heros, & mon ame charmée
-A l'aimer tendrement s'estoit accoûtumée.
-Plust au Ciel que Cesar vous laissât à Drusus !
-
--*who_livie
-Cesar me l'offriroit que je n'en voudrois plus,
-Madame. Je l'aimay cet ingrat qui me quitte ;
-Et pour fixer ses voeux⁎ j'eus trop peu de merite.
-Je cherche à le haïr, & me dois cet effort.
-Car pour Tibere enfin je m'en plaindrois à tort :
-De sa haine pour moy, j'attendois une preuve.
-Il sçait d'où je descends⁎, & de qui je suis veuve.
-De mon Ayeul Antoine Auguste fut jaloux :
-Tibere le parut de Caius mon Epoux :
-L'un qui pour Cleopatre osa trop entreprendre,
-A l'Empire⁎ du Monde avoit droit de prétendre :
-Et si l'autre eût vécu plus long-temps qu'il n'a fait,
-J'estois Impératrice, & Tibere Sujet.
-Voila par quels motifs il me trouve importune.
-Je l'ay veu de Caius, adorer la fortune ;
-S'attacher à sa Suite⁎, & souvent prés de luy
-Redouter ma puissance, ou briguer⁎ mon appuy⁎.
-Ce cruel souvenir le chagrine & le gesne⁎ :
-Plus je l'ay veu soumis, plus j'en attends de haine ;
-Et depuis que le Monde obeït à ses loix⁎
-Il me rend les mépris qu'il reçeut autrefois.
-Mais pour Drusus...
-
--*who_agripine
-      Madame, il va bien-tost paroistre :
-En voyant tant d'appas⁎ son amour peut renaistre :
-Pour l'oster de mes fers⁎ essayer leur pouvoir.
-Je viens de le mander⁎, & vous le pourrez voir.
-Un seul remors...
-
--*who_livie
-      Adieu. Quoique l'ingrat m'oublie,
-Ma haine est foible encor & mon coeur s'en deffie⁎ :
-Et je le veux, si je puis, le haïr assez bien
-Pour le voir, le braver, & n'en redouter rien.
-
-**** *book_ *id_I02 *act_I *date_1694 *creator_boursault
-
--*who_flavie
-Le prince vient.
-
--*who_agripine
-      Seigneur, ma main vous est promise,
-Et je puis avec vous parler avec franchise.
-M'aimez-vous?
-
--*who_drusus
-      Ah Madame ! en ce fatal instant
-Que mon sort seroit beau si vous m'aimiez autant !
-De quelqu'espoir flateur⁎ que mon coeur s'entretienne⁎,
-Vous ne vous donnez pas quoy que je vous obtienne,
-Mon hymen⁎ vous allarme⁎, & vous vous trahissez ;
-On vous force à me prendre, & vous obeïssez,
-Quoique l'heur⁎ d'estre à vous rende ma gloire extrême,
-Ce bien semble usurpé s'il ne vient de vous-même ;
-Et parmy les Amans il n'est rien si cruel
-Que d'avoir de l'amour qui n'est pas mutuel.
-
--*who_agripine 
-Ah Seigneur !
-
--*who_drusus
-      Poursuivez, sans que rien vous contraigne.
-Je lis dans vostre coeur, Germanicus y regne :
-En vain à vostre sort le mien doit estre joint ;
-Tant que vous l'aimerez vous ne m'aimerez point.
-Bien qu'à vostre vertu rien ne soit impossible,
-Mon Rival est aimable, & vous estes sensible ;
-Et de deux coeurs soûmis qui vous rendront des soins⁎,
-Ce sera vostre Epoux qui vous plaira le moins.
-
--*who_agripine
-Je dois vous l'avoüer, & le puis sans faiblesse :
-J'ay pour Germanicus eu beaucoup de tendresse.
-L'ordre exprés⁎ d'Agrippa, de qui je tiens le jour⁎,
-Contraignit mon devoir à souffrir⁎ son amour.
-Au bruit qu'en sa faveur faisoit la voix publique,
-Pleine d'un si grand nom, j'obeïs sans replique.
-Je vis Germanicus, c'est vous en dire assez ;
-Rome luy rend justice, & vous le connoissez.
-A ce premier aspect nos esprits se troublerent ;
-Aussi-bien que nos yeux nos coeurs se rencontrerent ;
-Et sur moy sa parole eut un si grand credit⁎,
-Qu'ayant dit qu'il m'aimoit je crus ce qu'il me dit.
-Je vous avoûray plus, Seigneur : sa renommée
-Avant que de le voir m'ayant déjà charmée,
-Avec tant de merite⁎ il ne fut pas hay ;
-Et mon Pere jamais ne fut mieux obey.
-Accordez-moy, Seigneur, ce que j'ose prétendre :
-J'ay pour vous une estime aussi juste que tendre :
-Je n'ay point de regret d'avoir sçû vous charmer ;
-Mais donnez-moy le temps d'apprendre à vous aimer.
-Differez un hymen⁎ où l'on veut me contraindre :
-J'ay des restes d'amour que je tâche d'éteindre ;
-Et si Germanicus aigrit⁎ vostre courroux⁎
-Laissez-le moy haïr avant que d'estre à vous.
-
--*who_drusus
-A le haïr, Madame, avez-vous quelque pente⁎?
-
--*who_agripine
-Je ne vous promet pas que mon coeur y consente.
-Quand il faut à la haine abandonner ses jours⁎,
-Le coeur à la raison n'obeït pas toûjours.
-Mais, Seigneur, si je puis, je vaincray ma foiblesse ;
-Je fuiray le Heros que j'aime avec tendresse ;
-Et je le haïray, puisqu'on le veut ainsi,
-De m'avoir voulu plaire, & d'avoir reüssi.
-Laissez-moy le loisir⁎, Seigneur, l'amour l'ordonne,
-De reprendre le coeur qu'il faut que je vous donne.
-Un mois est peu de chose, il me suffit.
-
--*who_drusus
-      Helas !
-Un mois est peu de chose à vous qui n'aimez pas !
-Mais, Madame, aux Amans dont les flâmes⁎ paroissent,
-Plus un hymen⁎ est proche, & plus les desirs croissent.
-Quelque fausse vertu qu'on oppose à leur cours,
-S'ils ne sont à leur terme ils augmentent toûjours :
-Du bonheur qu'on attend l'ame est si possedée,
-Qu'on s'en forme à soy-même une flateuse⁎ idée :
-On aspire sans cesse à ce jour glorieux ;
-Et le dernier moment est le plus ennuyeux⁎.
-Quelque peine pourtant que vostre ordre me cause,
-Je m'en vais pour un mois differer toute chose :
-A l'effort que je fais joignez-en un égal ;
-Songez plus à m'aimer qu'à haïr mon Rival.
-Ne vous souvenez pas qu'il eut l'heur⁎ de vous plaire,
-En pensant le haïr vous feriez le contraire.
-C'est moy qui vous en prie : & peut-estre entre nous,
-Devez-vous quelque chose à qui fait tout pour vous.
-
-**** *book_ *id_I03 *act_I *date_1694 *creator_boursault
-
--*who_flavie
-A vos souhaits, Madame, il a daigné se rendre.
-
--*who_agripine
-Il a fait plus pour moy que je n'osois attendre.
-
--*who_flavie
-Luy tiendrez-vous parole, & pourrez-vous haïr...
-
--*who_agripine
-L'Empereur le commande, il faut bien obeïr.
-
--*who_flavie
-Ce n'est pas là répondre, & quoy qu'on se propose⁎
-Pour haïr ce qu'on aime un mois est peu de chose :
-Vostre premier Amant vit toûjours soûs vos loix⁎.
-
--*who_agripine
-Tu sçais bien qu'à l'aimer je ne mis pas un mois.
-Le terme est assez long pour avoir de la haine.
-
--*who_flavie
-On hait mal-aisément ce qu'on aima sans peine :
-Et si j'ose, aprés tout, m'expliquer sur ce point,
-Vous ne le pouvez pas, & ne le voulez point.
-Bientost Germanicus doit triompher⁎ dans Rome :
-Vous aspirez encor à voir un si grand homme ;
-Et si j'en sçais juger, pour le voir sans peril,
-Vostre coeur est trop tendre, & l'amour trop subtil.
-Mandez-luy⁎ qu'à ses voeux⁎ l'Empereur vous arrache :
-Il est au bord de l'Elbe où son Employ⁎ l'attache.
-Là son bras redoutable aux plus vaillants Germains,
-Du mal-heur de Varrus a vangé les Romains.
-Rien de plus glorieux n'embellit nos Histoires⁎ ;
-Par les Combats qu'il donne on compte les Victoires.
-Son retour sera prompt, l'Ennemy fuit ses pas.
-Ecrivez-luy, Madame, & ne l'attendez pas.
-Ne vous exposez point à des peines mortelles.
-Germanicus...
-
--*who_agripine
-      Demain j'en auray des nouvelles.
-Pison, qui sert ma flâme⁎ en attend aujourd'huy.
-J'ay beaucoup de sujet⁎ de me loüer de luy.
-Pison est sage, ardent⁎, civil, soûmis, fidele :
-Par les soins qu'il me rend il m'instruit de son zele :
-Avec un coeur sincere il me dit ce qu'il croit :
-Ce qu'on m'écrit du Rhin, c'est luy qui le reçoit :
-Il veut ce que je veux ; craint ce que j'apprehende ;
-Et montre en ma faveur une bonté si grande,
-Un respect si profond...
-
--*who_flavie
-      Madame, le voicy.
-
--*who_agripine
-De peur de le contraindre éloigne toy d'icy.
-Quand je l'auray quitté je t'iray tout apprendre.
-
-**** *book_ *id_I04 *act_I *date_1694 *creator_boursault 
-
--*who_agripine
-Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
-Cher Pison.
-
--*who_pison
-      Cette lettre, où sont peints⁎ vos secrets,
-Dés hier me fut renduë, & je l'apporte exprés⁎.
-Je serois criminel, sçachant qui vous l'envoye,
-Si j'avois plus long-temps differé vostre joye.
-De vos rares⁎ bontez⁎ ce seroit abuser ;
-Et mon plus grand plaisir est de vous en causer,
-Madame.
-
--*who_agripine
-      Vostre zele a déja sceu paroistre.
-
--*who_pison
-Il n'a pû jusqu'icy se bien faire connoistre⁎.
-Ce zele impetueux, s'il osoit découvrir,
-Auroit peine, peut-estre, à se faire souffrir⁎.
-Mais à vous en parler les moments que j'employe⁎,
-Sont autant de moments que j'oste à vostre joye :
-Ne la differez point, contentez vostre esprit ;
-Et reglez vos desseins⁎ sur ce qu'on vous écrit.
-
--*who_agripine
-Ainsi que mon amour mon mal-heur est extrême ;
-Tandis que dans ces lieux je signale ma foy⁎
-On dispose de ce que j'aime
-En faveur d'un autre que moy.
-L'effort que je me fis quand je quittay vos charmes⁎,
-Vous coûta des soupirs ; vous arracha des larmes ;
-Le don de vostre coeur suivit l'offre du mien :
-Cependant prés de vous on cherche à me détruire ;
-Ceux que mon sort afflige ont soin de me l'écrire ;
-Et vous ne m'en écrivez rien.
-Vous me verrez dans Rome aussi-tost que ma Lettre,
-Disputer⁎ à Drusus ce qu'il vole à mes feux⁎ :
-L'Amour me joint à vous par de si puissans noeuds,
-Que de vostre secours⁎ j'ose tout me promettre⁎.
-Je sçay que l'Empereur parlera contre moy :
-Le soin de son Armée est commis⁎ à ma foy⁎ ;
-Mais je laisse en ma place un plus grand Capitaine.
-Il doit approuver mon retour ;
-Et puisque j'ay servy sa haine,
-Je puis bien servir mon Amour.
-      GERMANICUS.
-
--*who_agripine
-Il vient, Pison !
-
--*who_pison
-      Vostre ame en paroit toute émeuë ;
-Souhaitez-vous, Madame, ou craignez-vous sa veuë ?
-
--*who_agripine
-Je le veux voir.
-
--*who_pison
-      De grace, examinez-vous bien.
-
--*who_agripine
-Je le veux voir, vous dis-je, & par vostre moyen.
-
--*who_pison
-Eh, ne pourriez-vous point vous servir de quelqu'autre ?
-
--*who_agripine
-Et quel zele pour moy peut estre égal au vostre ?
-De semblables secrets souffrent⁎ peu de témoins.
-Vous les sçavez.
-
--*who_pison
-      Helas ! Que n'en sçay-je un peu moins.
-A servir vostre Amour le plaisir que je goûte,
-M'est un plaisir fatal par le prix qu'il me coûte.
-Ce n'est pas que mon zele ait jamais chancelé ;
-A l'espoir de vous plaire, il s'est tout immolé⁎ ;
-Loin de me repentir de vous avoir servie,
-J'ay toûjours même zele, & toûjours même envie ;
-Et je meurs de regret de venir en ce lieu
-Pour y prendre vostre ordre, & pour vous dire adieu.
-
--*who_agripine
-Ce discours me surprend, & j'ay peine à comprendre..
-
--*who_pison
-Je me suis bien douté que j'allois vous surprendre.
-Mais je sens dans mon coeur des transports⁎ si confus...
-Si je m'expliquois mieux je vous surprendrois plus.
-
--*who_agripine
-Et si vous m'estimiez, vous de qui je dispose,
-D'un départ si soudain vous me diriez la cause.
-Avez-vous des raisons pour quitter ce sejour⁎ ?
-
--*who_pison
-Manque-t-on de raisons quand on a de l'amour ?
-Une illustre Beauté m'a sçeu rendre sensible
-
--*who_agripine
-Pour partir de ce lieu, le prétexte est plausible.
-Mais vous estes secret, j'ignore vos amours.
-
--*who_pison
-Et s'il se peut, Madame, ignorez-les toûjours.
-Aux succés de mes feux⁎ tant d'obstacles s'opposent,
-Que j'en fais un secret aux beaux yeux qui les causent.
-Mon amour jusqu'icy s'est si bien déguisé
-Qu'aussi-bien que mon coeur je m'y suis abusé⁎.
-Quand je vis la Beauté, qui doit m'estre contraire⁎,
-Je nommay bien-veillance un desir de luy plaire :
-Je me plus à la voir, & je connus⁎ ainsi
-Qu'en luy voulant du bien je m'en voulois aussi.
-Je crus donc que ce nom n'estoit plus legitme,
-Et que ma bien-veillance estoit lors pure estime :
-Mais j'avois des transports⁎ & des troubles secrets,
-Que pour l'estime seule on n'a presque jamais.
-De l'audace d'aimer ne pouvant me deffendre,
-J'appellay cette estime une amitié fort tendre :
-Mais j'entendois mon coeur qui me disoit tout bas,
-L'amitié rend tranquille, & je ne le suis pas.
-Dans cette inquietude où me plongeoit ma flâme⁎,
-Je revis la Beauté, qui m'avoit touché l'ame :
-Mille appas⁎ differens paroissoient tour à tour ;
-Et ma tendre amitié fut changée en amour.
-Cet amour violent, quelque pur qu'il puisse estre,
-Je l'aurois étouffé si je l'avois vu naistre ;
-Mais sous tant de faux noms il déguisa le sien,
-Qu'il regnoit dans mon ame, & je n'en sçavois rien.
-
--*who_agripine
-Si vous eussiez parlé rien n'estoit difficile :
-Aux succés de vos feux⁎ je pouvois estre utile :
-Vous deviez à ma foy⁎ confier vos secrets.
-
--*who_pison
-Hé quoy ! mes yeux, Madame, ont-ils esté muets ?
-Ne vous ont-ils rien dit d'une ardeur⁎ si puissante ?
-
--*who_agripine
-Au langage des yeux je ne suis pas sçavante⁎ :
-Mais si vostre destin en peut estre plus doux,
-Dites qui vous aimez, & je parle pour vous.
-Pour hâter le succés d'une flâme⁎ si pure,
-De vos rares⁎ vertus je feray la peinture :
-Nommez donc cet Objet qui vous a pû charmer ;
-Et je m'offre moy-même à vous en faire aimer.
-J'avois peur d'estre ingrate, & je me sens ravie
-De pouvoir vous servir, vous qui m'avez servie ;
-Ne vous obstinez point à vouloir vous trahir.
-Parlez.
-
--*who_pison
-      Vous le voulez, & je vais obeïr.
-L'adorable Beauté qui captive⁎ mon ame,
-Peut estre comparée avecque vous, Madame :
-Quand je vous apperçois, j'apperçois tous ses traits ;
-Elle a vos mêmes yeux, & vos mêmes attraits⁎ ;
-Entre vous deux, enfin, la ressemblance est telle,
-Qu'estant auprés de vous je crois estre auprés d'elle :
-Vos appas⁎ et les siens lancent de mêmes coups ;
-Et pour estre aimé d'elle, il faut l'estre de vous.
-
--*who_agripine
-De moy, Pison ?
-
--*who_pison
-      De grace ; achevez de m'entendre ;
-Mais calmez ce courroux⁎, ou daignez le suspendre ;
-Et d'une ame tranquille, en ce malheureux jour,
-Punissez mon audace, ou plaignez mon amour.
-Je vous aime, Madame, & ce mot m'épouvante :
-Si c'est estre coupable, estes-vous innocente ?
-J'obeïs à mon sort, & ne m'en deffends pas ;
-Mais si j'ay de l'amour, vous avez des appas⁎ :
-Cet amour que j'étale a dû peu vous surprendre ;
-Si vous n'en donniez point, en aurois-je pû prendre ?
-Et qui des deux, enfin, fait un crime plus grand,
-Ou de l'oeil qui le donne, ou du coeur qui le prend ?
-
--*who_agripine 
-Ah ! Pison, si mes yeux ont osé vous seduire⁎,
-Puisque je l'ignorois deviez-vous m'en instruire ?
-Et ne sçaviez-vous pas qu'en trahissant leur sort,
-Avec le sang⁎ d'Auguste ils n'estoient pas d'accord ?
-En tout autre que vous il seroit punissable,
-Cet amour qui m'outrage⁎, & qui vous rend coupable :
-Vous pouviez m'estimer, & me rendre des soins⁎...
-
--*who_pison
-Eh ! que n'ay-je pas fait pour aimer un peu moins ?
-A l'aspect impréveu d'un merite⁎ sublime,
-On n'a pas le loisir⁎ d'arrester à l'estime ;
-Comme un coeur qui s'enflâme ose plus qu'il ne croit,
-On se trouve à l'amour sans sçavoir qu'on y soit ;
-La raison & les sens ont beau faire divorce ;
-Quand les sens sont gagnez la raison est sans force :
-Et si c'est vous trahir que d'avoir tant d'ardeur⁎,
-Le crime est de mon Astre⁎, & non pas de mon coeur.
-
--*who_agripine
-Si mes foibles appas⁎, qu'offencent vostre flâme⁎,
-Ont osé s'abaisser jusqu'à toucher vostre ame,
-Je veux bien consentir qu'envers moy, sur ce point,
-Vous soyez peu coupable, ou ne le soyez point :
-Mais envers vostre Prince, outragé par ce crime,
-Qui pour vostre merite⁎ a tant conçu d'estime,
-Qui cherit tendrement un Amy supposé,
-Et qui croit si fidele un Rival deguisé ;
-Quand de tant de bien-faits sa bonté vous accable,
-Croyez-vous qu'envers luy vous soyez peu coupable ?
-Et ne songez-vous point que vous seriez perdu,
-Si quelqu'autre que moy vous avoit entendu ?
-
--*who_pison
-Si ma temerité, qu'un seul mot peut confondre⁎,
-A l'ardeur⁎ que je sens vous pressoit de répondre ;
-Si mon coeur prévenu⁎, corrompant⁎ mon devoir,
-Pour flatter⁎ mon erreur concevoit quelqu'espoir ;
-Le Prince que je sers, dont la haine est à craindre,
-D'un Amy si perfide auroit lieu de se plaindre ;
-Et j'aurois du regret d'attirer ses mépris,
-Par un crime, inutile à l'amour que j'ay pris.
-Mais que n'ay-je pas fait en faveur de sa flâme⁎ ?
-Je l'ay peint à vos yeux tel qu'il est dans mon ame ;
-Et souvent à son feu sacrifiant le mien,
-Je me suis voulu mal à vous vouloir du bien.
-Pour vous le faire aimer j'ay tout mis en usage.
-Il est vray que mon coeur démentoit mon langage,
-Et de mon zele extrême estant presque jaloux,
-Quand je parlois pour luy, je soupirois pour vous :
-Quoy que ma passion n'ose rien s'en promettre⁎,
-C'est un crime envers vous bien facile à commettre ;
-Et pour tout dire, enfin, quand il seroit plus noir,
-C'est m'en punir assez que d'aimer sans espoir.
-Laissez-moy me bannir⁎. Mais de grace, Madame,
-Que ce soit de vos yeux, & non pas de vostre ame :
-Quoy qu'au sort d'un Epoux vous alliez vous unir,
-Ne me bannissez⁎ pas de vostre souvenir.
-Laissez-moy me flatter⁎ de ce bon-heur extrême,
-Que du moins, quelquefois vous direz en vous-même
-En parlant de Pison, en songeant à ses feux⁎,
-Il fut moins criminel, qu'il ne fut malheureux.
-Mon départ est douteux⁎ à vous voir davantage :
-Adieu. Que cet adieu soit mon dernier hommage⁎.
-Je vais partir sur l'heure, & je jure, en partant,
-Qu'aucun autre que moy n'aimera jamais tant.
-Adieu, Madame.
-
--*who_agripine
-      Ah ciel ! est-ce ainsi qu'on me laisse ?
-
--*who_pison 
-Pour vostre interest propre épargnez ma foiblesse,
-Madame. Jusqu'icy je n'ay rien mis au jour
-Qui soit honteux pour vous, excepté mon amour :
-Mais dans l'état funeste ou mon ame est réduite,
-Du desordre où je suis j'apprehende la suite.
-Vous voulez m'arrester, & vos voeux sont les miens ;
-Mais pour me retenir forgez-moy des liens⁎.
-Quoy qu'avoir des Rivaux soit un sort déplorable,
-Si je n'en avois qu'un je serois consolable :
-Quand de vostre main seule il seroit possesseur,
-Je dirois en moy-même il m'en reste le coeur.
-Si du coeur au contraire il estoit le seul Maistre,
-De sa main, me dirois-je, il ne peut jamais l'estre ;
-Et de chaque costé rencontrant des appas,
-Je serois satisfait de ce qu'il n'auroit pas.
-Mon tranquille destin n'auroit rien de funeste ;
-Mais à quoy que j'aspire aucun bien ne me reste ;
-Et de mes deux Rivaux l'heur⁎ me rend allarmé⁎,
-Puisque l'un vous épouse, & que l'autre est aimé.
-Au moins, pour m'arrester, dites qu'on vous immole⁎ ;
-Que le coeur où j'aspire est un bien qu'on vous vole ;
-Que le Fils de Cesar en dispose aujourd'huy ;
-Qu'il seroit tout à moy, s'il n'estoit tout à luy ;
-Et qu'enfin plus sensible à mon amour extrême...
-
--*who_agripine
-Partez, Pison, partez, je vous chasse moy-même.
-Vous m'estiez necessaire, & vous le sçaviez bien :
-J'attendois tout de vous, je n'en attends plus rien.
-Adieu ; contentez-vous d'une estime usurpée,
-Pour entrer dans mon ame elle est trop occupée.
-Les illustres Rivaux, dont vous estes jaloux,
-La déchirent sans cesse, & c'est assez, sans vous.
-En quelqu'autre climat que le Ciel vous appelle,
-Je sçay ce que pour moy vous avez eu de zele :
-Disposez du pouvoir que j'auray dans ce lieu.
-Je vous l'ordonne.
-
--*who_pison
-      Helas ! Adieu, Madame.
-
--*who_agripine
-      Adieu.
-
-**** *book_ *id_II01 *act_II *date_1694 *creator_boursault
-
--*who_agripine
-Mon amour te retient, & mon devoir te chasse.
-Obeïs au devoir, retire-toy de grace.
-
--*who_albin
-Quoy ! me chasser, Madame, avec un si grand soin.
-O Ciel !
-
--*who_agripine
-      Germanicus ne doit pas estre loin,
-Je crains sa veuë.
-
--*who_albin
-      Helas ! il suffit de le plaindre.
-D'un Amant si soumis vous n'avez rien à craindre.
-Quoique vous l'arrachiez à l'espoir d'estre à vous,
-D'une main qu'il adore il respecte les coups.
-Mais ne l'aimez-vous plus ? sa disgrace⁎ imprevuë...
-
--*who_agripine
-Et ne t'ay-je pas dit, que je craignois sa veuë ?
-Dans la dure contrainte ou mes voeux⁎ sont forcez,
-Dire que je le crains, c'est m'expliquer assez.
-Va de mon infortune⁎ instruire ce grand homme.
-Drusus, je te l'avouë, est retourné dans Rome :
-Mais ce charmant Sejour⁎, ce Palais somptueux
-Que les soins de Luculle ont rendu si fameux ;
-Cette Maison celebre aux plaisirs destinée,
-Où se doit achever mon funeste hymenée⁎ ;
-Ces Jardins, admirez de tant de Nations,
-Par l'ordre de Cesar sont remplis d'Espions.
-Et le moyen, Albin, qu'un si grand Capitaine,
-Qui dans tout l'Univers se cacheroit à peine ;
-Le moyen qu'un Heros dont les premiers exploix
-Ont rangé le Danube, & le Rhin sous nos loix⁎,
-Et laissant des Germains les Campagnes desertes,
-Vangé nos Legions, & reparé nos pertes,
-Cherche à me voir, me voye, & ne se montre pas,
-En des lieux où sa gloire a devancé ses pas ?
-Dût-il n'estre point veu, ma tendresse allarmée⁎
-Me le peindroit sans cesse avec sa Renommée :
-Fidele à sa Valeur⁎ par tout elle le suit ;
-Et pour ne la pas craindre elle fait trop de bruit⁎.
-Va rejoindre ce Prince, & dis luy qu'il m'oublie :
-Avant que de m'aimer, il aimoit Emilie,
-Elle est jeune, elle est belle, & d'un sang⁎ glorieux ;
-Paul-Emille, & Pompée ont esté ses Ayeux ;
-Je le pris dans ses fers⁎ ; mon malheur l'y renvoye :
-Un Amant tel que luy se retrouve avec joye :
-Il aura peu de peine à rentrer dans son coeur.
-Ce conseil⁎, cher Albin, m'échappe avec douleur.
-Jusqu'au jour qui m'arrache à qui j'eusse aimé d'estre,
-Quelques voeux que je pousse ils vont tous à ton Maistre :
-C'est vers luy que je panche⁎, & cent fois chaque jour,
-Ce que j'oste au devoir, je le donne à l'amour :
-Cest trahir son Rival ; mais Albin, en revanche,
-Nostre hymen⁎ achevé, c'est vers luy que je panche⁎ :
-Et je fais à mon tour, pour luy rendre l'espoir,
-Du débris⁎ de l'amour un hommage⁎ au devoir.
-Va revoir ce Heros, & dis luy qu'on m'immole⁎ ;
-Mais s'il m'aime toûjours que son coeur s'en console ;         460
-Et que de mon exemple il se fasse une loy :
-Je perds bien plus en luy qu'il ne peut perdre en moy.
-Fais-luy voir que mon ame est dans un trouble extrême...
-
--*who_albin
-Madame, il va paroistre, il le verra luy-même.
-Son amour vous l'ameine , il marche sur mes pas.
-
--*who_agripine
-Et que me dira-t-il que je ne sçache pas ?
-Pense-t-il qu'à ses yeux je captive⁎ mes larmes ?
-Il m'est trop cher, Albin, pour le voir sans allarmes⁎ :
-Je sens bien que mon feu⁎ n'est éteint qu'à moitié ;
-Si j'entends qu'il se plaigne il me fera pitié ;
-Ma raison de mes sens n'estant plus la maistresse,
-La pitié que j'auray seduira⁎ ma tendresse ;
-Et de cette tendresse où je crains le retour,
-On a qu'un pas à faire, & l'on est à l'amour.
-Qu'il me fuye.
-
--*who_albin
-      A sa flâme⁎ épargnez ce supplice :
-Exiler⁎ sa douleur, c'est en estre complice.
-Il ne s'oubliera⁎ point à vostre auguste aspect :
-Cet Amant qui perd tout ne perd pas le respect⁎.
-Il vous aime, & vous perd : Sa gloire est sans seconde
-S'il en coûte une larme aux plus beaux yeux du Monde :
-Et si lors qu'on l'arrache à de si doux liens⁎,
-Vous poussez des soûpirs qui rencontrent les siens,
-Madame, encor un coup, permettez qu'il vous voye ;
-Endormez sa douleur par une ombre de joye ;
-A le voir autrefois vos beaux yeux se sont plûs,
-Vous l'aimiez.
-
--*who_agripine
-      Et crois-tu que je ne l'aime plus ?
-
--*who_albin
-Voyez-le donc : ce bien⁎ est le seul qu'il implore,
-Au nom d'un peu d'amour, s'il vous en reste encore ;
-Et de peur de sa mort qui suivroit vos refus,
-Au nom de la pitié, si vous ne l'aimez plus.
-
--*who_agripine
-Le verray-je ?
-
--*who_flavie
-      Du moins c'est trop estre interdite⁎ :
-De l'absence du Prince, il est bon qu'on profite.
-Ou souffrez⁎ qu'il vous voye, ou donnez d'autres loix⁎.
-
--*who_agripine
-Au moins ce sera donc pour la derniere fois.
-
--*who_albin
-Ouy, Madame.
-
--*who_agripine
-      Qu'il vienne. Et si je luy fut chere,
-Que pour prix de l'effort qu'il me contraint de faire,
-Il ait soin de ma gloire, & ne l'expose pas.
-Toy, qui m'est si fidele, accompagne ses pas :
-Ameine icy ce Prince ; & de peur qu'on le voye,
-Prens la plus sombre route, & la plus seure voye.
-Un Guerrier si fameux, dans un lieu si suspect,
-Allarmeroit⁎ Tibere, à qui je dois respect.
-
-**** *book_ *id_II02 *act_II *date_1694 *creator_boursault 
-
--*who_agripine
-D'où me vient ce desordre, & pourquoy suis-je émeuë ?
-Pourquoy ? Fuis pour jamais cette fatale veuë :
-D'un Amant qu'on doit perdre écouter les soupirs,
-Loin d'éteindre ses feux⁎, c'est croistre ses desirs.
-Je ne le veux point voir ; c'est en vain qu'il m'en presse⁎ :
-Si j'ay quelque vertu, j'ay beaucoup de tendresse ;
-Et de quoy qu'on se flatte⁎ entre de vrais Amans,
-La vertu la plus forte a de foibles momens.
-Je revoque⁎ mon ordre, & ne veux point qu'il vienne.
-Hola !
-
-**** *book_ *id_II03 *act_II *date_1694 *creator_boursault
-
--*who_agripine
-      Quelle surprise est égale à la mienne ?
-C'est Pison !
-
--*who_pison
-      Oüy, Madame : & malgré mon adieu,
-J'interromps mon voyage, & reviens en ce lieu.
-Si tantost⁎ à vos yeux j'ay montré ma foiblesse,
-Jusqu'à faire l'aveu d'un amour qui vous blesse,
-Plus soumis à present, j'y reviens à mon tour,
-Etaler mon respect⁎, & non plus mon amour.
-Ce n'est pas que ma flâme⁎ obscurcit vostre lustre⁎,
-Si le Ciel m'eut fait naistre en un rang plus illustre :
-Mais des droits de l'Amour aucun coeur n'est exempt ;
-Et ce que sent un Prince un autre homme le sent ;
-Soit qu'on naisse du Peuple, ou d'un sang⁎ qu'on renomme⁎,
-Pour aimer comme j'aime il suffit qu'on soit homme.
-Ce n'est pas à son choixqu'on se laisse enflâmer :
-Nous naissons pour mourir, & vivons pour aimer :
-Et dequoy qu'envers vous ma passion m'accuse,
-La beauté de mon crime en doit faire l'excuse.
-Cet amour de mon coeur est banny pour jamais.
-
--*who_agripine
-Me le promettez-vous ?
-
--*who_pison
-      Oüy, je vous le promets.
-Je suis guery, Madame ; & vous allez connoistre⁎,
-Qu'il seroit mal-aisé de le pouvoir mieux estre.
-J'ay repris sur moy-même un empire⁎ absolu.
-C'est assez qu'une fois mon amour ait déplû.
-Je ne vous diray plus, puisque tout m'est contraire⁎,
-Que mon sort est d'aimer, si le vostre est de plaire :
-Je ne vous diray plus, qu'asservy par vos yeux,
-Je regardois mes fers⁎ comme un bien precieux :
-Je ne vous diray plus, que l'amour qui m'enchaisne⁎,
-Me fait voir un supplice à l'hymen⁎ qui vous gesne :
-Je ne vous diray plus qu'épris de vos appas⁎...
-
--*who_agripine 
-Vous ne le direz plus ! ne le dites-vous pas ?
-
--*who_pison
-Dans le trouble inquiet , dont mon ame est atteinte,
-J'avois presque oublié que ma flâme⁎ est éteinte :
-Mon esprit dégagé⁎ reprenoit ses liens⁎ ;
-Et le feu de vos yeux rallumoit tous les miens.
-Suspendez leur pouvoir qui fait naistre ma peine,
-Pour apprendre en repos⁎ quel sujet⁎ me rameine :
-Et, tandis qu'en ce lieu nous voila sans témoins,
-Pour juger de mon zele apprenez tous mes soins.
-J'estois party de Rome, & déja l'ame émeuë,
-Je voyois l'Aventin disparoistre à ma veuë,
-Lorsqu'avec ce grand air, qui fait pâlir d'effroy,
-J'ay veu Germanicus avancer prés de moy.
-Malgré le desespoir où ma flâme⁎ est réduite,
-Vostre gloire en danger m'a fait blâmer ma fuite :
-Le retour de ce Prince alloit trop éclater⁎ ;
-Vous l'allez voir paroistre.
-
--*who_agripine
-      Et je veux l'éviter.
-
--*who_pison
-Vous, Madame ?
-
--*who_agripine
-      Oüy, Pison, c'est en vain que j'hesite :
-Pour le voir sans allarme⁎ il a trop de merite⁎.
-Quand de quelque vertu mon coeur seroit armé,
-Vous sçavez qu'à le vaincre il est accoûtumé.
-Ce n'est pas que ce coeur, si je l'en voulois croire,
-Ne promette⁎ à mes voeux⁎ d'avoir soin de ma gloire :
-Quoique Germanicus ait sur luy de pouvoir,
-De l'espoir du triomphe il flatte⁎ mon devoir :
-A ce devoir credule il fait sans cesse entendre,
-Qu'à ses loix⁎, qu'il respecte, il est prest de se rendre ;
-Mais, s'il faut tout vous dire, il est si peu constant⁎
-Qu'à l'Amour aussi-tost il en promet⁎ autant :
-Et je crois, contre un coeur qui chancelle, & qui tremble,
-Que l'Amour & l'Amant sont trop fort joints ensemble.
-Par pitié pour ma gloire allez donc l'avertir
-Qu'à le voir un moment je ne puis consentir.
-Mais à moins d'estre prompt⁎ vous perdez vostre peine :
-Il m'a fait prévenir, & je croy qu'on l'ameine :
-Albin, son Confident vient de sortir d'icy.
-Je vous l'apprens.
-
--*who_pison
-      Madame, il me l'a dit aussi.
-C'est un homme discret, mais à quoy qu'il s'engage⁎,
-Vostre gloire est d'un prix qu'il est bon qu'on ménage.
-Je n'ay pû sans douleur, malgré tous vos dédains,
-Voir un si grand dépost⁎ en de si foibles mains.
-Servez-vous de moy seul ; je vous sers avec joye :
-Et je rends grace au Ciel qui m'en offre une voye⁎.
-A fuïr Germanicus vostre vertu consent ;
-Vous voulez qu'il l'apprenne, & vostre ordre est pressant :
-J'obeis sans replique ; & de peur qu'on l'ameine...
-
--*who_agripine
-N'a-t-il point demandé si je le perds sans peine ?
-
--*who_pison
-L'ame toute agitée, & le coeur plein d'ennuy⁎,
-Il s'est enquis⁎ à moy, si vous songiez à luy ?
-Si l'Epoux qu'on vous donne a pour vous tant de charmes⁎ ?
-Et si vous le perdez sans verser quelques larmes ?
-
--*who_agripine
-Qu'avez-vous dit ?
-
--*who_pison 
-      J'ay dit qu'il vous eût esté doux
-De n'aimer que luy seul, comme il n'aime que vous :
-Que son rare⁎ merite⁎ est gravé dans vostre Ame ;
-Et qu'un Prince absolu vous arrache à sa flâme⁎.
-
--*who_agripine
-Et qu'a-t-il répondu ?
-
--*who_pison
-      Ses soûpirs à l'instant...
-Mais, Madame, il viendra si vous m'arrétez tant.
-Ne vous exposez point à ce peril extréme :
-Les momens durent peu quand on voit ce qu'on aime.
-Si Drusus avec luy vous surprend sans témoins...
-
--*who_agripine
-Ah ! Pison, je m'égare⁎, & l'on s'égare⁎ à moins.
-Allez luy dire... O Ciel ! le voicy.
-
--*who_pison
-      Je vous laisse.
-
--*who_agripine
-Demeurez. Vous present j'auray moins de foiblesse.
-Si mon coeur se hazarde à rien faire de bas,
-Ayez soin de ma gloire, & ne le souffrez⁎ pas.
-Je promets, puisqu'en vain vous m'aimez l'un & l'autre,
-De traiter son Amour comme j'ay fait le vostre :
-Et m'aimant, sans espoir, il vous doit estre doux
-Qu'un Heros, comme luy, soit traité comme vous.         610
-
-**** *book_ *id_II04 *act_II *date_1694 *creator_boursault 
-
--*who_agripine
-Enfin, Prince, vostre ame a lieu d'estre contente :
-Vos illustres exploits ont rempli nostre attente :
-Si l'on doit d'un grand coeur attendre un grand effet,
-On attendoit de vous ce que vous avez fait.
-Moy, qui pour vous, Seigneur, n'ay rien craint de funeste,
-Apprenant vos Combats, je devinois le reste ;
-Et souvent de ma joye étallant tout l'excez,
-En voyant mon visage on lisoit vos succez.
-
--*who_germanicus
 Si de l'Elbe & du Rhin l'audace est confonduë⁎,
 C'est à vous, plus qu'à moy, que la gloire en est dûë.
 Je dois moins les exploits que j'ay faits en tous lieux
@@ -914,26 +16,12 @@ Et trouvois moins de gloire à les priver du jour⁎
 Immolez⁎ à l'Etat, qu'immolez⁎ à l'Amour.
 Je vous aime, & vous vois, mon bonheur est extréme...
 
--*who_agripine 
-Adieu, Prince.
-
--*who_germanicus
       Me fuir !
 
--*who_agripine
-      Vous m'aimez ?
-
--*who_germanicus
       Je vous aime.
 Aucun autre sujet⁎ ne m'ameine en ce lieu :
 Vous aimer fait ma joye : Et vous, Madame ?
 
--*who_agripine
-      Adieu.
-Je crains trop un combat dont l'issuë est douteuse,
-Seigneur.
-
--*who_germanicus
       Et vostre fuite, est-elle point honteuse ?
 Aprés trois ans d'absence il m'eût esté bien doux
 De pouvoir plus long-temps demeurer prés de vous.
@@ -943,37 +31,6 @@ Et que vostre beauté, qu'on enleve à ma foy⁎,
 Charmeroit tout le monde, & ne seroit qu'à moy.
 Cependant...
 
--*who_agripine
-      Ah ! Seigneur, laissez-moy l'innocence :
-Epargnez à ma gloire un soupçon qui l'offence :
-A mon coeur tout à vous n'imputez rien de bas ;
-Et si l'on vous trahit, ne m'en accusez pas.
-Vous m'aimez, je vous fuis, & je le dois sans doute :
-Mais vous ne sçavez pas quelle peine il m'en coûte :
-Vostre amour défiant⁎ en veut estre éclaircy⁎.
-Empeschez que Drusus ne nous surprenne icy.
-Vous me connoissez, Prince, ou devez me connoistre :
-Quoy que sente mon coeur, mon devoir est le maistre.
-Quand par l'ordre d'un Pere il falut vous aimer,
-J'obeïs avec joye, & me laissay charmer :
-Aujourd'huy qu'à mes voeux⁎ on impose silence,
-J'obeïs avec peine, & me fais violence ;
-Et loin d'estre insensible à de si rudes coups,
-Je m'arrache⁎ à moy-même en m'arrachant à vous.
-En faveur de l'amour tout mon coeur se declare :
-A remplir mon devoir tout mon sang se prepare ;
-Et ces deux opposez sont d'illustres Tirans,
-Qui demandent de moy des efforts differents⁎.
-Si j'écoute mon sang⁎, que le feu deshonore,
-Mon devoir m'est trop cher pour vous aimer encore :
-Si j'entends de l'amour les conseils absolus,
-Je vous ay trop aimé, pour ne vous aimer plus :
-Ma vertu qui chancelle, en cet état réduite,
-Pour cacher sa foiblesse a recours à la fuite ;
-Et de peur que l'amour n'ébranlât le devoir,
-N'ose s'accoûtumer au plaisir de vous voir.
-
--*who_germanicus
 Et que sera, Madame, à ma douleur mortelle
 L'inutile secours⁎ d'une pitié cruelle ?
 Ces regrets si touchans ont pour moy peu d'appas ;
@@ -1003,58 +60,12 @@ Ces plaisirs souhaitez, valent-ils ceux qu'il goûte ?
 Et de vostre pitié le secours⁎ apparent,
 Rend-il mon sort moins rude, & mon malheur moins grand ?
 
--*who_agripine
-Je vois avec douleur celle d'un si grand homme ;
-Mais que puis-je ?
-
--*who_pison
-      Drusus va revenir de Rome.
-De peur de vous trahir, je vous le dit tout haut.
-
--*who_agripine
-Croyez-vous qu'il revienne ?
-
--*who_pison
-      On l'attend.
-
--*who_agripine
-      Quoy ! si tost !
-
--*who_germanicus
 Pour calmer un transport⁎, qui me seroit funeste,
 Vostre bonté, Madame, aura du temps de reste.
 Sauvez-moy de moy-même, & sans plus m'allarmer⁎...
 
--*who_agripine
-Je vous l'ay déja dit, que puis-je, enfin ?
-
--*who_germanicus
       M'aimer.
 
--*who_agripine 
-Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?
-Songez-y : des malheurs vous souhaitez le pire.
-Vous garder ma tendresse, & l'oser mettre au jour,
-C'est blesser ma vertu, sans flatter⁎ vostre amour :
-Car, enfin, quoy qu'aimé par l'aveu de mon Pere,
-A l'Epoux que j'auray je me dois toute entiere ;
-Et ne presumez pas qu'en un sort si cruel,
-Il échape à ma gloire un desir criminel.
-Par amour l'un pour l'autre, amortissons⁎ nos flâmes⁎ ;
-Arrachons de nos coeurs ce qui trouble nos ames ;
-Ne nous souvenons plus de ces tendres discours,
-Que nos yeux éloquens se faisoient tous les jours :
-Effaçons avec soin de nostre Ame obsedée⁎,
-Tout ce qui de nos feux⁎ peut retracer l'idée ;
-Et si l'heur⁎ de m'aimer fait vos plus doux souhaits,
-Veüillez m'aimer assez pour ne m'aimer jamais.
-Plus je suis avec vous, plus j'ay l'ame attendrie :
-Ne me revoyez plus ; c'est moy qui vous en prie :
-Accordez cette grace⁎ à mes voeux⁎ empressez⁎ :
-Des maux⁎ que je vous fais, c'est me punir assez.
-Remenez-moy, Pison. Adieu, Prince.
-
--*who_germanicus
       Ah ! Madame !
 A travers vos discours je penetre en vostre ame :
 Au Fils de l'Empereur vostre coeur fait la cour ;
@@ -1080,109 +91,192 @@ Pour me donner à vous, je fus ingrat pour elle ;
 Et d'un prix assez grand c'est payer vos attraits⁎,
 Quand il en coûte un crime à qui n'en fit jamais.
 
--*who_agripine
-Je n'attendois pas, Prince, en un si sort si contraire⁎,
-Un outrage⁎ si grand d'une bouche si chere :
-Ce reproche est sensible ; & si vous m'aimiez bien,
-A ma juste douleur vous n'ajoûteriez rien.
-Vous me connoissiez mal, si vous avez pû croire
-Qu'à l'éclat⁎ d'un haut rang j'immolasse⁎ ma gloire :
-Si le sort qui m'outrage⁎ eût voulu m'estre doux,
-Ma plus sensible joye eût esté d'estre à vous.
-Le bonheur qui m'échappe, est un bonheur insigne⁎,
-Dont il faut que le Ciel ne me juge pas digne.
-La Princesse Emilie, exorable⁎ à vos soins⁎,
-Aura plus de merite, & vous coûtera moins.
-A des fers⁎ qu'il fuyoit, remenez un rebelle :
-Loin de faire des voeux contre vous, ou contre elle,
-Je souhaite ardemment, vous ayant enflâmé,
-Qu'elle vous aime antant que je vous eusse aimé.
-Et pour derniere marque & d'amour, & d'estime,
-Si mes foibles appas⁎ vous coûterent un crime,
-Pour mettre en seureté vos sublimes vertus,
-Desormais, par respect, je ne vous verray plus.
-Remenez-moy.
+Je ne sçay de quel oeil vous verrez un coupable,
+Dont l'amour violent rend le crime excusable :
+J'ay tantost⁎, je l'avouë, avec un peu d'aigreur⁎
+D'un injuste reproche accablé vostre coeur :
+Vous en avez pleuré : je l'ay veu : mais, Madame,
+La douleur de vous perdre interdit⁎ bien une ame ;
+Et dans un tel malheur un modeste courroux⁎,
+Auroit mal exprimé ce que je sens pour vous.
+Quand on aime ardemment & qu'on perd ce qu'on aime,
+On se fait un plaisir de se perdre soy-même ;
+Et si par vostre hymen⁎ on m'eût desesperé,
+A de plus grands efforts je m'estois preparé.
+Mais Cesar, que j'ay veu, loin de m'estre contraire⁎ ;
+M'a reçu comme un fils attendu de son pere :
+J'ay quitté son armée, & ce crime est de ceux
+Dont en un General l'exemple est dangereux :
+Cependant sa tendresse excusant mon audace,
+Il ne m'en a parlé que pour me faire grace⁎ ;
+Et dans le Capitole il consent que demain
+Vous me combliez de gloire en me donnant la main.
+Que vois-je ? me trompay-je ? ou, pleurez-vous encore,
+Ma Princesse ?
+ 
+Moy, Madame ?
 
-**** *book_ *id_II05 *act_II *date_1694 *creator_boursault 
+Et qui peut mettre obstacle au succez de ma flâme⁎ ?
+Excepté vos rigueurs⁎, qu'ay-je à craindre, Madame ?
+Que pourra de Drusus l'inutile courroux⁎ ?
+Les bontez⁎ de Cesar me répondent de vous.
+Vous le verrez demain, pour consacrer ma gloire,
+D'un triomphe superbe honorer ma victoire :
+Je m'y suis opposé, mais sans rien obtenir ;
+Et je viens de sa part vous en entretenir.
+Demain Cesar, & moy...
 
--*who_flavie
-      Madame...
+      Hé quoy, voulez-vous que je croye
+Que l'espoir de me perdre est ce qui fait sa joye ?
+Et que de mon retour il feint⁎ d'estre charmé,
+Pour m'ôter tout sujet⁎ de paroistre allarmé ?
+Quoy qu'on vous en ait dit, jugez mieux de Tibere :
+Adopté pour son fils, il me tient lieu de pere :
+Des volontez d'Auguste il se fait une loy ;
+Et Drusus pour sa gloire, est moins son fils que moy.
+De quelque oeil qu'il le voye, en cette conjoncture,
+Drusus n'est qu'un present que luy fit la nature :
+Un fruit qu'il attendoit du conjugal lien⁎ ;
+Et dont pour s'agrandir⁎ il ne pretendoit rien :
+Mais, suivant ce qu'Auguste eut le soin de prescrire⁎,
+Le don qu'il fit de moy fut suivy de l'Empire ;
+Et pour tout dire enfin, l'Univers est le prix⁎,
+Des bontez⁎ qu'eût Cesar de m'accepter pour fils.
+Il est vray que ce Prince, au moins en ma presence,
+Entre Drusus, & moy met de la difference :
+De mes foibles exploits il parle avec chaleur ;
+Approuve ma conduite ; éleve ma valeur⁎ ;
+En un mot, je crois estre estimé de Tibere
+Comme l'étoit d'Auguste Agrippa vostre pere :
+Il m'aime, il m'en assure avec sincerité ;
+Et je serois ingrat si j'en avois douté.
+Plût au Ciel que vous-même eussiez vû ses caresses,
+Et ce qu'un si grand Prince a montré de tendresses !
+Vous en seriez touchée, & loin de le haïr...
 
--*who_agripine
-      Ah ! que viens-tu m'apprendre ?
+      Ce que je perds ! l'ignorez-vous, Madame ?
+Si le fils de Cesar vous arrache à ma flâme⁎ ;
+S'il faut qu'à cet affront le Ciel m'ait reservé ;
+Je perds ce que le Monde a de plus achevé⁎.
+Je perds, si la fortune⁎ à ce point m'est cruelle,
+Des plus hautes vertus le plus digne modele ;
+Et pour dire encor plus, je perds, enfin, je perds
+Ce que du sang⁎ d'Auguste il reste à l'Univers.
+Non, Madame, mon coeur plein de vostre merite⁎,
+Condamne vostre amour, s'il veut que je vous quitte :
+Mon trépas⁎ est douteux⁎, & ne le sera plus
+Si je vous abandonne au pouvoir de Drusus.
+Rome, quoyqu'on m'appreste, est mon plus seur azile⁎ :
+Tout autre en vous quittant me seroit inutile :
+Mes jours⁎, que vos bontez ont soin de menager,
+Eloigné de vos yeux, sont-ils hors de danger ?
+Mais c'est trop se livrer à de vaines allarmes⁎ ;
+Rassurez vostre esprit, & retenez vos larmes ;
+Drusus, que mon bonheur a dû rendre jaloux,
+Cherche par cette ruse à m'éloigner de vous :
+Je ne sçay que luy seul qui m'ose estre contraire⁎ ;
+Et pour craindre le fils, je suis trop cher au pere.
+Mon coeur reconnoissant ne peut trop l'avoüer,
+Des bontez⁎ de Cesar j'ay lieu de me loüer :
+Il vous rend à mes feux⁎, & je ne puis sans crime,
+Soupçonner d'artifice⁎ un coeur si magnanime.
 
--*who_flavie
-Que le Fils de Cesar dans ce lieu se va rendre.
-Il arrive de Rome, & s'avance à grands pas.
+Me faire assassiner ! Luy, Madame ? On vous trompe.
+Cesar...
 
--*who_agripine
-Sortez donc vite, Prince, & ne me perdez pas.
-Si Drusus... Ah ! Pison, il y va de ma gloire,
-Vous cherchez à me plaire, & je cherche à le croire :
-Pour conduire en secret ce Prince en d'autres lieux,
-C'est sur vous seul, enfin, que je jette les yeux.
+Et que m'importe, helas ! quand tout me desespere,
+Qui m'arrache le jour⁎ de vous, ou de Tibere ?
+Si j'échape à sa haine, expirer de douleur,
+Vous perdre, enfin, Madame, est-ce un moindre malheur ?
+Ne craignez pourtant rien de mon amour extrême :
+L'ordre que je reçois m'est une loy suprême :
+J'ay peur, si je restois plus long-temps en ces lieux,
+Que mon sort envers vous ne fût contagieux.
+Pour ne pas à l'orage exposer vostre teste,
+Je vay par mon exil écarter la tempeste ;
+Et laisser au Rival que vous me preferez
+Les appas⁎ dangereux que j'ay trop adorez.
+Si vous m'aimez encor, j'en attends une preuve :
+Vous avez assez mis ma confiance à l'épreuve,
+Madame ; à ma douleur n'offrez aucun secours⁎ ;
+Il suffit de mes maux⁎ pour terminer mes jours⁎ :
+Ne pleurez point : mon coeur prest à quitter vos charmes⁎,
+Ne peut s'accoûtumer à voir couler vos larmes :
+Je ne partiray point si vous en soupirez ;
+Promettez-moy...
 
--*who_pison
-Sur moy ! Madame ?
+      Albin m'en a fait le recit,
+Madame, & le Senat par un ordre équitable,
+Pour vanger ce trépas⁎ fait chercher le coupable.
+Cesar qui de ce crime a lieu d'estre surpris...
 
--*who_agripine
-      Et vous, dans ce moment funeste,
-Seigneur, si du passé le souvenir vous reste,
-Par bonté, par justice, ou du moins par pitié,
-De son Appartement acceptez la moitié.
-Pour l'en faire sortir avec pleine asseurance,
-D'un moment favorable attendez la presence.
-Si Drusus l'apperçoit, l'apparence me perd ;
-Cependant tout mon crime est de l'avoir souffert.
-Comme au meilleur Amy que j'ay eu de ma vie,
-C'est mon honneur, Pison, qu'icy je vous confie :
-Et si j'ose avec vous m'expliquer à mon tour,
-Vous n'étes pas le seul que maltraite l'Amour.
+Je n'ay plus, ma Princesse, à combattre que vous.
+Cesar s'est declaré ; j'ay vaincu son couroux⁎ :
+Vous seule à mon bonheur pouvez estre contraire⁎ ;
+Vous seule...
 
-**** *book_ *id_III01 *act_III *date_1694 *creator_boursault
+      Madame, il est au Capitole ;
+C'est dans ce lieu si saint qu'il veut tenir parole :
+Le Senat l'accompagne ; & voicy le grand jour
+Qu'avec impatience attendoit nostre amour.
+Puisqu'à nous rendre heureux la fortune⁎ conspire⁎,
+Ne donnons pas au sort le temps de la dédire⁎ :
+Allons au Capitole où Cesar nous attend ;
+Et craignons les retours de son esprit flottant⁎.
+Vous, cependant, Albin, qui m'estes si fidele,
+Au pere de Pison allez offrir mon zele ;
+Parlez luy de son fils, & faites un effort,
+Pour marquer la douleur que me cause sa mort.
 
--*who_flavie
-Dans vostre Appartement le Prince va se rendre ;
-J'ay devancé ses pas pour venir vous l'apprendre.
-Du secret qu'on luy cache il semble estre éclaircy⁎ ;
-Quelqu'un peut avoir veu Germanicus icy.
-Agripine du moins obstinée à le croire,
-A vos soins⁎ obligeans recommande sa gloire.
-Si le bien de luy plaire a pour vous des appas⁎,
-Dans un si grand peril ne l'abandonnez pas.
-Quoy qu'au Fils de Cesar elle soit si fidelle,
-L'apparence d'un crime est un crime pour elle ;
-Et si l'on voit icy son Rival triomphant,
-Tout condamne Agripine, & rien ne la deffend.
 
--*who_pison
-Assez loin de ce lieu je viens de le conduire :
-Pour la mettre en repos⁎, retournez l'en instruire.
-Je l'aurois esté voir, pour luy donner avis
-Que le chemin de Rome est celuy qu'il a pris.
-Seur de mettre un obstacle à l'Hymen⁎ qu'il redoute,
-Je n'ay pû le contraindre à prendre une autre route.
-Dût-il rendre à jamais ses jours⁎ infortunez⁎...
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_drusus
 
--*who_flavie
-La Princesse sçaura ce que vous m'apprenez,
-Seigneur ; & de ce pas je m'en vais tout luy dire.
-Le Prince qui paroît, fait que je me retire.
-Adieu. Souvenez-vous que l'on voit aujourd'huy
-Une fille d'Auguste implorer vostre appuy.
+      Ah Madame ! en ce fatal instant
+Que mon sort seroit beau si vous m'aimiez autant !
+De quelqu'espoir flateur⁎ que mon coeur s'entretienne⁎,
+Vous ne vous donnez pas quoy que je vous obtienne,
+Mon hymen⁎ vous allarme⁎, & vous vous trahissez ;
+On vous force à me prendre, & vous obeïssez,
+Quoique l'heur⁎ d'estre à vous rende ma gloire extrême,
+Ce bien semble usurpé s'il ne vient de vous-même ;
+Et parmy les Amans il n'est rien si cruel
+Que d'avoir de l'amour qui n'est pas mutuel.
 
-**** *book_ *id_III02 *act_III *date_1694 *creator_boursault
+      Poursuivez, sans que rien vous contraigne.
+Je lis dans vostre coeur, Germanicus y regne :
+En vain à vostre sort le mien doit estre joint ;
+Tant que vous l'aimerez vous ne m'aimerez point.
+Bien qu'à vostre vertu rien ne soit impossible,
+Mon Rival est aimable, & vous estes sensible ;
+Et de deux coeurs soûmis qui vous rendront des soins⁎,
+Ce sera vostre Epoux qui vous plaira le moins.
 
--*who_drusus
+A le haïr, Madame, avez-vous quelque pente⁎?
+
+      Helas !
+Un mois est peu de chose à vous qui n'aimez pas !
+Mais, Madame, aux Amans dont les flâmes⁎ paroissent,
+Plus un hymen⁎ est proche, & plus les desirs croissent.
+Quelque fausse vertu qu'on oppose à leur cours,
+S'ils ne sont à leur terme ils augmentent toûjours :
+Du bonheur qu'on attend l'ame est si possedée,
+Qu'on s'en forme à soy-même une flateuse⁎ idée :
+On aspire sans cesse à ce jour glorieux ;
+Et le dernier moment est le plus ennuyeux⁎.
+Quelque peine pourtant que vostre ordre me cause,
+Je m'en vais pour un mois differer toute chose :
+A l'effort que je fais joignez-en un égal ;
+Songez plus à m'aimer qu'à haïr mon Rival.
+Ne vous souvenez pas qu'il eut l'heur⁎ de vous plaire,
+En pensant le haïr vous feriez le contraire.
+C'est moy qui vous en prie : & peut-estre entre nous,
+Devez-vous quelque chose à qui fait tout pour vous.
+
 Si j'en crois un grand bruit⁎ qui se vient de répandre,
 Mon Rival est dans Rome, ou du moins s'y va rendre.
 Prés du Mont Apennin Ruffus l'a rencontré :
 L'Empereur par luy-même en vient d'estre assuré.
 
--*who_pison
-Vostre Rival, Seigneur ! Germanicus ?
-
--*who_drusus
       Luy-même.
 Rome de son retour montre une joye extrême :
 Et déja le Senat qui se veut assembler,
@@ -1204,10 +298,6 @@ Le plus grand des Cesars ; l'Esperance de Rome ;
 L'inébranlable Appuy⁎ de l'Empire Romain ;
 Et pour dire encor plus, l'Honneur du genre humain.
 
--*who_pison
-Ce bruit⁎ qui vous allarme⁎ est-il sceu d'Agripine ?
-
--*who_drusus
 Ce bruit⁎ m'allarme⁎ moins qu'on ne se l'imagine.
 Plût au Ciel... Vous m'aimez, & vous estes discret :
 Un secret sceu de vous, n'en est pas moins secret :
@@ -1222,10 +312,6 @@ Vostre zele obligeant empruntoit mon ardeur⁎ :
 Vous me l'aviez promis, & je vous le confesse ;
 Mais vous m'avez trop bien tenu vostre promesse.
 
--*who_pison
-Moy, Seigneur ?
-
--*who_drusus
       Oüy, Pison, je dois trop à vos soins :
 Je vivrois plus heureux si je vous devois moins.
 Car enfin, c'est en vain que l'Empereur s'obstine
@@ -1252,78 +338,14 @@ De ces pleurs tout-puissans le charme imperceptible,
 Dans le coeur le plus dur trouve un endroit sensible ;
 Et je me voudrois mal si des yeux pleins d'appas⁎
 Répandoient une larme, & ne me touchoient pas.
-
--*who_pison
-Ce retour vers Livie a droit de me surprendre :
-Vous luy devez le coeur que vous luy voulez rendre ;
-Mais aprés tout, Seigneur, à vous parler sans fard,
-Y songer à present, est y songer trop tard.
-Autant que je l'ay pû, j'ay condamné l'envie⁎
-Qui vous fit pour une autre abandonner Livie :
-Vous passiez sous ses loix⁎ des momens assez doux :
-Elle n'aimoit, Seigneur, & n'aime encor que vous.
-Un amour si confiant pour un Amant rebelle,
-Vous préte un digne exemple à demeurer fidele :
-Tout parle en sa faveur ; mais enfin...
-
--*who_drusus 
+ 
       Ah ! Pison,
 Elle vient ; vos conseils ne sont plus de saison.
 Laissez-nous seuls.
 
-**** *book_ *id_III03 *act_III *date_1694 *creator_boursault
-
--*who_livie
-      Seigneur, vous auriez quelque peine
-A vous imaginer le sujet⁎ qui m'ameine.
-Je ne viens point icy par d'indignes soupirs
-Mandier le retour de vos ardens desirs :
-Je laisse en leur amour à d'obscures⁎ Princesses
-La honte de descendre à de telles bassesses ;
-Et le Fils de Cesar seroit trop acheté⁎,
-S'il rentroit dans mes fers⁎ par une lâcheté.
-Soeur de Germanicus , Veuve d'un Fils d'Auguste,
-La fierté que je montre est peut-estre assez juste.
-Toute juste qu'elle est, je confesse pourtant,
-Que pour vous autrefois je n'en avois pas tant :
-Pour ne pas estre ingrate à l'amour le plus tendre
-Que pour une Princesse un Heros puisse prendre,
-(Car il faut l'avouër, estimé de chacun,
-Il sembloit qu'à l'Etat vous en promettiez un ;)
-Je vous aimay, Seigneur. Si j'osois vous le taire
-Vous pourriez m'accuser de n'estre pas sincere ;
-Et pour vous faire voir à quel point je la suis,
-Je sens que je vous hais autant que je le puis.
-Le trouble où je vous vois me découvre⁎ sans peine
-Que ma veuë en ce lieu vous allarme⁎ & vous gêne.
-Vous craignez qu'Agripine adresse icy ses pas :
-R'assurez-vous, Seigneur, je n'y tarderay pas.
-Je cherchois à vous perdre, & m'estois applaudie    
-D'avoir tant de témoins de vostre perfidie :
-Ces Billets d'un Ingrat, dont le coeur m'estois cher :
-D'autant plus criminels qu'ils ont l'art⁎ de toucher ;
-Ces Ecrits dangereux, dont j'ay fait mes delices,
-Qui pour charmer mes sens ont esté vos complices :
-Ces imposteurs, enfin, qui m'ont osé trahir ;
-Si je les faisois voir, vous feroient trop haïr.
-Je vous les rends. Mon coeur est assez magnanime
-Pour se faire un plaisir de cacher vostre crime :
-Et sans faire éclater un indigne courroux⁎,
-Je vous laisse le soin de me vanger de vous.
-Le destin des Ingrats d'ordinaire est funeste.
-Et si de ma bonté la memoire⁎ vous reste,
-Et que vous l'opposiez à vostre trahison,
-Il suffira de vous pour m'en faire raison.
-Tenez, Prince.
-
--*who_drusus
       Madame, au nom de ce que j'aime...
 En croirez-vous mon coeur, s'il dit que c'est vous-même ?
 
--*who_livie
-Moy ! Seigneur ?
-
--*who_drusus
       Vous pouvez, pour hâter mon trépas⁎,
 Avoir la cruauté de ne me croire pas.
 Vous aimer, vous le dire, aprés mon inconstance⁎,
@@ -1357,32 +379,6 @@ Il est plus amoureux qu'il ne le fut jamais.
 J'en atteste des Dieux la majesté suprême ;
 J'en atteste...
 
--*who_livie
-      Autrefois vous en usiez de même.
-Vos perfides sermens, tant de fois redoublez,
-Par vostre ingratitude ont esté violez.
-Non, non, le repentir où vostre ame est forcée,
-Ne rend pas son éclat⁎ à ma gloire offencée :
-Dans le rang où je suis, & du sang⁎ dont je sors,
-Ce seroit me trahir qu'accepter un remors.
-Epargnez-moy, Seigneur, la honte qu'il imprime⁎ ;
-ll n'est point de remords qui ne precede un crime :
-Et qui m'a fait l'affront de m'arracher sa foy⁎,
-N'a plus rien à m'offrir qui soit digne de moy.
-Vous m'avez outragée⁎, & ce m'est une joye
-Que d'un juste remords vostre coeur soit la proye.
-Je voudrois que le Ciel, pour combler mes souhaits,
-Vous forçât à m'aimer autant que je vous hais.
-Au moins à vostre tour vous verriez par vous-même
-Combien touche un mépris qui part de ce qu'on aime :
-Quoy que dans cet état la raison puisse offrir,
-C'est de tous les tourmens le plus dur à souffrir⁎.
-Vous sentiriez, pour peu que vous soyez sensible,
-Ce qu'a de plus affreux le sort le plus terrible :
-Pour vous tiranniser tout prendroit mon party ;
-Et vous ne sentiriez que ce que j'ay senty.
-
--*who_drusus
 Hé bien, Madame, hé bien, si pour vous satisfaire
 Le retour de mes feux⁎ vous estoit necessaire,
 S'il faut vous adorer pour mieux sentir vos coups ;
@@ -1404,21 +400,6 @@ Mon coeur qui fit le crime aura soin du supplice ;
 Et mon dernier soûpir, offert à vos appas⁎,
 Justifiera...
 
--*who_livie
-      Seigneur, ne m'attendrissez pas.
-Si je m'estois renduë⁎ à vos fausses tendresses
-Vous me seriez garend de toutes mes foiblesses.
-Contentez-vous du trouble où vous me reduisez :
-Je vous haïray trop si vous me seduisez⁎.
-Cessez de m'étaller le remords qui vous gesne⁎ :
-Vous me faites douter du succez de ma haine ;
-Et preste à me vanger de vostre trahison
-Vous corrompez⁎, ingrat, jusques à ma raison :
-Elle, mon coeur, & vous, tout cherche à me surprendre.
-Reprenez vos Ecrits, si vous les voulez prendre,
-Seigneur ; je risque trop à demeurer icy.
-
--*who_drusus
 Hé bien, je les reprens, vous le voulez ainsi.
 Mais s'il vous reste encor quelque ombre de tendresse,
 Souffrez⁎ que de nouveau mon coeur vous les adresse ;
@@ -1466,13 +447,6 @@ Et le crime fatal, que j'osois me permettre,
 M'a coûté trop de maux⁎ pour en jamais commettre.
 Rendez-moy vostre coeur, & calmez le couroux⁎...
 
--*who_livie
-Quand je vous le rendrois, ingrat, qu'en feriez-vous ?
-Vous épousez demain la Princesse Agripine :
-On l'arrache à mon frere, & on vous la destine :
-Pour son interest⁎ seul, je sçay tout sur ce point.
-
--*who_drusus
 Non, Madame, demain je ne l'épouse point.
 J'ay tantost⁎ veu Cesar. Agripine qu'il gesne⁎,
 A l'hymen⁎ que je fuis ne consent qu'avec peine :
@@ -1496,37 +470,495 @@ Il adore Agripine, & la veut adorer ;
 L'arracher à ses feux⁎ c'est le desesperer ;
 De son sort, & du mien je vous rends la maistresse.
 
--*who_livie
-Seigneur, par trop d'endroits vous tentez ma foiblesse.
-C'est aprés vostre crime un nouvel attentat,
-Que d'appeler mon frere au secours d'un Ingrat.
-Je me deffendray mal pour peu qu'il vous appuye :
-Et de peur de me rendre il est temps que je fuye.
-Ma haine en sa faveur auroit peine à durer.
-
--*who_drusus
 Si je le rends heureux, qu'ay-je lieu d'esperer ?
 Deviendrez-vous sensible à l'ardeur⁎ qui m'anime⁎ ?
 En faveur de ce frere oublierez-vous mon crime ?
 Vous contenterez-vous des maux⁎ que j'ay soufferts ?
 Me sera-t-il permis de rentrer dans vos fers⁎ ?
 
--*who_livie
-Rendez mon frere heureux, si vous le pouvez faire ;
-Une belle action n'attend point de salaire :
-Et s'il vous en faut un...
-
--*who_drusus
       Hé bien, Madame ?
 
--*who_livie
+O Ciel !
+
+Non, c'est trop vous gesner⁎ : L'Empereur pour vous plaire,
+Consent que pour un mois nostre Hymen⁎ se differe.
+Je l'ay veu par vostre ordre, & sans estre en couroux⁎
+Il m'a promis...
+
+Madame, j'obeïs. Ce que je viens d'entendre
+Me surprend d'autant plus que je n'osois l'attendre.
+Vostre bonté m'accable, & je jure à vos yeux...
+Quand j'auray veu Cesar je m'expliqueray mieux.
+
+Epargnez-le, Madame, au moins en ma presence ;
+Et si quelque forfait⁎ vous le rend odieux,
+Souffrez⁎ que mon devoir en détourne mes yeux.
+L'assassin de Pison, puisqu'il s'est fait connoître,
+A l'aspect des tourmens se dédira⁎ peut-estre :
+Suspendez jusques-là vostre ressentiment ;
+Et des mains de Cesar recevez vostre Amant.
+Pour vous faire paroître une bonté de Pere
+Il me rend ma Princesse, & vous donne à mon frere :
+Pour vous en assurer il nous envoye icy.
+
+
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agripine
+
+Madame, (puisqu'enfin vous m'ostez la douceur
+Que j'ay toujours trouvée à vous nommer ma Soeur,)
+Dans le trouble mortel dont mon ame est saisie
+Je n'apprehendois rien de vostre jalousie :
+Vous avez du chagrin, & voulez l'exhaler⁎ :
+C'est vostre amour qui parle. Et le mien va parler.
+J'aime Germanicus, Madame. Un mot si rude
+N'est pas l'effet honteux d'une indigne habitude ;
+Quoy que Grand par luy-mesme, & Fameux par son sang⁎,
+Ce mot n'échape guère à celles de mon rang :
+Mais pour rendre justice au Heros qu'on m'arrache,
+S'il m'est doux de l'aimer, il est beau qu'on le sçache ;
+Et que tout l'Univers justifie aujourd'huy,
+Qu'il ne tient pas à moy, que je ne sois à luy.
+A Drusus qui vous plut l'Empereur me destine :
+Sa main vous eût charmée, & sa main m'assassine.
+Non qu'il ne soit grand homme, & qu'il n'ait des vertus :
+Quoy que fils de Tibere, on estime Drusus :
+On l'a veu dans l'Armée au sortir de l'enfance
+Signaler sa valeur⁎, & montrer sa prudence :
+C'est un Heros naissant, un coeur noble, élevé⁎ ;
+Mais l'Amant que je perds en est un achevé⁎ :
+Rome n'a jamais veu, quoique l'envie⁎ en dise,
+Homme plus glorieux, ny gloire mieux acquise.
+Et pour son coup d'essay le Danube enchaisné,
+Fait voir à quels exploits les Dieux l'ont destiné.
+Je le perds ce Heros, & mon ame charmée
+A l'aimer tendrement s'estoit accoûtumée.
+Plust au Ciel que Cesar vous laissât à Drusus !
+
+      Madame, il va bien-tost paroistre :
+En voyant tant d'appas⁎ son amour peut renaistre :
+Pour l'oster de mes fers⁎ essayer leur pouvoir.
+Je viens de le mander⁎, & vous le pourrez voir.
+Un seul remors...
+
+      Seigneur, ma main vous est promise,
+Et je puis avec vous parler avec franchise.
+M'aimez-vous?
+ 
+Ah Seigneur !
+
+Je dois vous l'avoüer, & le puis sans faiblesse :
+J'ay pour Germanicus eu beaucoup de tendresse.
+L'ordre exprés⁎ d'Agrippa, de qui je tiens le jour⁎,
+Contraignit mon devoir à souffrir⁎ son amour.
+Au bruit qu'en sa faveur faisoit la voix publique,
+Pleine d'un si grand nom, j'obeïs sans replique.
+Je vis Germanicus, c'est vous en dire assez ;
+Rome luy rend justice, & vous le connoissez.
+A ce premier aspect nos esprits se troublerent ;
+Aussi-bien que nos yeux nos coeurs se rencontrerent ;
+Et sur moy sa parole eut un si grand credit⁎,
+Qu'ayant dit qu'il m'aimoit je crus ce qu'il me dit.
+Je vous avoûray plus, Seigneur : sa renommée
+Avant que de le voir m'ayant déjà charmée,
+Avec tant de merite⁎ il ne fut pas hay ;
+Et mon Pere jamais ne fut mieux obey.
+Accordez-moy, Seigneur, ce que j'ose prétendre :
+J'ay pour vous une estime aussi juste que tendre :
+Je n'ay point de regret d'avoir sçû vous charmer ;
+Mais donnez-moy le temps d'apprendre à vous aimer.
+Differez un hymen⁎ où l'on veut me contraindre :
+J'ay des restes d'amour que je tâche d'éteindre ;
+Et si Germanicus aigrit⁎ vostre courroux⁎
+Laissez-le moy haïr avant que d'estre à vous.
+
+Je ne vous promet pas que mon coeur y consente.
+Quand il faut à la haine abandonner ses jours⁎,
+Le coeur à la raison n'obeït pas toûjours.
+Mais, Seigneur, si je puis, je vaincray ma foiblesse ;
+Je fuiray le Heros que j'aime avec tendresse ;
+Et je le haïray, puisqu'on le veut ainsi,
+De m'avoir voulu plaire, & d'avoir reüssi.
+Laissez-moy le loisir⁎, Seigneur, l'amour l'ordonne,
+De reprendre le coeur qu'il faut que je vous donne.
+Un mois est peu de chose, il me suffit.
+
+Il a fait plus pour moy que je n'osois attendre.
+
+L'Empereur le commande, il faut bien obeïr.
+
+Tu sçais bien qu'à l'aimer je ne mis pas un mois.
+Le terme est assez long pour avoir de la haine.
+
+      Demain j'en auray des nouvelles.
+Pison, qui sert ma flâme⁎ en attend aujourd'huy.
+J'ay beaucoup de sujet⁎ de me loüer de luy.
+Pison est sage, ardent⁎, civil, soûmis, fidele :
+Par les soins qu'il me rend il m'instruit de son zele :
+Avec un coeur sincere il me dit ce qu'il croit :
+Ce qu'on m'écrit du Rhin, c'est luy qui le reçoit :
+Il veut ce que je veux ; craint ce que j'apprehende ;
+Et montre en ma faveur une bonté si grande,
+Un respect si profond...
+
+De peur de le contraindre éloigne toy d'icy.
+Quand je l'auray quitté je t'iray tout apprendre.
+
+Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
+Cher Pison.
+
+      Vostre zele a déja sceu paroistre.
+
+Ainsi que mon amour mon mal-heur est extrême ;
+Tandis que dans ces lieux je signale ma foy⁎
+On dispose de ce que j'aime
+En faveur d'un autre que moy.
+L'effort que je me fis quand je quittay vos charmes⁎,
+Vous coûta des soupirs ; vous arracha des larmes ;
+Le don de vostre coeur suivit l'offre du mien :
+Cependant prés de vous on cherche à me détruire ;
+Ceux que mon sort afflige ont soin de me l'écrire ;
+Et vous ne m'en écrivez rien.
+Vous me verrez dans Rome aussi-tost que ma Lettre,
+Disputer⁎ à Drusus ce qu'il vole à mes feux⁎ :
+L'Amour me joint à vous par de si puissans noeuds,
+Que de vostre secours⁎ j'ose tout me promettre⁎.
+Je sçay que l'Empereur parlera contre moy :
+Le soin de son Armée est commis⁎ à ma foy⁎ ;
+Mais je laisse en ma place un plus grand Capitaine.
+Il doit approuver mon retour ;
+Et puisque j'ay servy sa haine,
+Je puis bien servir mon Amour.
+      GERMANICUS.
+
+Il vient, Pison !
+
+Je le veux voir.
+
+Je le veux voir, vous dis-je, & par vostre moyen.
+
+Et quel zele pour moy peut estre égal au vostre ?
+De semblables secrets souffrent⁎ peu de témoins.
+Vous les sçavez.
+
+Ce discours me surprend, & j'ay peine à comprendre..
+
+Et si vous m'estimiez, vous de qui je dispose,
+D'un départ si soudain vous me diriez la cause.
+Avez-vous des raisons pour quitter ce sejour⁎ ?
+
+Pour partir de ce lieu, le prétexte est plausible.
+Mais vous estes secret, j'ignore vos amours.
+
+Si vous eussiez parlé rien n'estoit difficile :
+Aux succés de vos feux⁎ je pouvois estre utile :
+Vous deviez à ma foy⁎ confier vos secrets.
+
+Au langage des yeux je ne suis pas sçavante⁎ :
+Mais si vostre destin en peut estre plus doux,
+Dites qui vous aimez, & je parle pour vous.
+Pour hâter le succés d'une flâme⁎ si pure,
+De vos rares⁎ vertus je feray la peinture :
+Nommez donc cet Objet qui vous a pû charmer ;
+Et je m'offre moy-même à vous en faire aimer.
+J'avois peur d'estre ingrate, & je me sens ravie
+De pouvoir vous servir, vous qui m'avez servie ;
+Ne vous obstinez point à vouloir vous trahir.
+Parlez.
+
+De moy, Pison ?
+ 
+Ah ! Pison, si mes yeux ont osé vous seduire⁎,
+Puisque je l'ignorois deviez-vous m'en instruire ?
+Et ne sçaviez-vous pas qu'en trahissant leur sort,
+Avec le sang⁎ d'Auguste ils n'estoient pas d'accord ?
+En tout autre que vous il seroit punissable,
+Cet amour qui m'outrage⁎, & qui vous rend coupable :
+Vous pouviez m'estimer, & me rendre des soins⁎...
+
+Si mes foibles appas⁎, qu'offencent vostre flâme⁎,
+Ont osé s'abaisser jusqu'à toucher vostre ame,
+Je veux bien consentir qu'envers moy, sur ce point,
+Vous soyez peu coupable, ou ne le soyez point :
+Mais envers vostre Prince, outragé par ce crime,
+Qui pour vostre merite⁎ a tant conçu d'estime,
+Qui cherit tendrement un Amy supposé,
+Et qui croit si fidele un Rival deguisé ;
+Quand de tant de bien-faits sa bonté vous accable,
+Croyez-vous qu'envers luy vous soyez peu coupable ?
+Et ne songez-vous point que vous seriez perdu,
+Si quelqu'autre que moy vous avoit entendu ?
+
+      Ah ciel ! est-ce ainsi qu'on me laisse ?
+
+Partez, Pison, partez, je vous chasse moy-même.
+Vous m'estiez necessaire, & vous le sçaviez bien :
+J'attendois tout de vous, je n'en attends plus rien.
+Adieu ; contentez-vous d'une estime usurpée,
+Pour entrer dans mon ame elle est trop occupée.
+Les illustres Rivaux, dont vous estes jaloux,
+La déchirent sans cesse, & c'est assez, sans vous.
+En quelqu'autre climat que le Ciel vous appelle,
+Je sçay ce que pour moy vous avez eu de zele :
+Disposez du pouvoir que j'auray dans ce lieu.
+Je vous l'ordonne.
+
       Adieu.
-La Princesse Agripine arrive dans ce lieu.
-Servez Germanicus, l'occasion est belle.
 
-**** *book_ *id_III04 *act_III *date_1694 *creator_boursault
+Mon amour te retient, & mon devoir te chasse.
+Obeïs au devoir, retire-toy de grace.
 
--*who_agripine
+      Germanicus ne doit pas estre loin,
+Je crains sa veuë.
+
+Et ne t'ay-je pas dit, que je craignois sa veuë ?
+Dans la dure contrainte ou mes voeux⁎ sont forcez,
+Dire que je le crains, c'est m'expliquer assez.
+Va de mon infortune⁎ instruire ce grand homme.
+Drusus, je te l'avouë, est retourné dans Rome :
+Mais ce charmant Sejour⁎, ce Palais somptueux
+Que les soins de Luculle ont rendu si fameux ;
+Cette Maison celebre aux plaisirs destinée,
+Où se doit achever mon funeste hymenée⁎ ;
+Ces Jardins, admirez de tant de Nations,
+Par l'ordre de Cesar sont remplis d'Espions.
+Et le moyen, Albin, qu'un si grand Capitaine,
+Qui dans tout l'Univers se cacheroit à peine ;
+Le moyen qu'un Heros dont les premiers exploix
+Ont rangé le Danube, & le Rhin sous nos loix⁎,
+Et laissant des Germains les Campagnes desertes,
+Vangé nos Legions, & reparé nos pertes,
+Cherche à me voir, me voye, & ne se montre pas,
+En des lieux où sa gloire a devancé ses pas ?
+Dût-il n'estre point veu, ma tendresse allarmée⁎
+Me le peindroit sans cesse avec sa Renommée :
+Fidele à sa Valeur⁎ par tout elle le suit ;
+Et pour ne la pas craindre elle fait trop de bruit⁎.
+Va rejoindre ce Prince, & dis luy qu'il m'oublie :
+Avant que de m'aimer, il aimoit Emilie,
+Elle est jeune, elle est belle, & d'un sang⁎ glorieux ;
+Paul-Emille, & Pompée ont esté ses Ayeux ;
+Je le pris dans ses fers⁎ ; mon malheur l'y renvoye :
+Un Amant tel que luy se retrouve avec joye :
+Il aura peu de peine à rentrer dans son coeur.
+Ce conseil⁎, cher Albin, m'échappe avec douleur.
+Jusqu'au jour qui m'arrache à qui j'eusse aimé d'estre,
+Quelques voeux que je pousse ils vont tous à ton Maistre :
+C'est vers luy que je panche⁎, & cent fois chaque jour,
+Ce que j'oste au devoir, je le donne à l'amour :
+Cest trahir son Rival ; mais Albin, en revanche,
+Nostre hymen⁎ achevé, c'est vers luy que je panche⁎ :
+Et je fais à mon tour, pour luy rendre l'espoir,
+Du débris⁎ de l'amour un hommage⁎ au devoir.
+Va revoir ce Heros, & dis luy qu'on m'immole⁎ ;
+Mais s'il m'aime toûjours que son coeur s'en console ;         460
+Et que de mon exemple il se fasse une loy :
+Je perds bien plus en luy qu'il ne peut perdre en moy.
+Fais-luy voir que mon ame est dans un trouble extrême...
+
+Et que me dira-t-il que je ne sçache pas ?
+Pense-t-il qu'à ses yeux je captive⁎ mes larmes ?
+Il m'est trop cher, Albin, pour le voir sans allarmes⁎ :
+Je sens bien que mon feu⁎ n'est éteint qu'à moitié ;
+Si j'entends qu'il se plaigne il me fera pitié ;
+Ma raison de mes sens n'estant plus la maistresse,
+La pitié que j'auray seduira⁎ ma tendresse ;
+Et de cette tendresse où je crains le retour,
+On a qu'un pas à faire, & l'on est à l'amour.
+Qu'il me fuye.
+
+      Et crois-tu que je ne l'aime plus ?
+
+Le verray-je ?
+
+Au moins ce sera donc pour la derniere fois.
+
+      Qu'il vienne. Et si je luy fut chere,
+Que pour prix de l'effort qu'il me contraint de faire,
+Il ait soin de ma gloire, & ne l'expose pas.
+Toy, qui m'est si fidele, accompagne ses pas :
+Ameine icy ce Prince ; & de peur qu'on le voye,
+Prens la plus sombre route, & la plus seure voye.
+Un Guerrier si fameux, dans un lieu si suspect,
+Allarmeroit⁎ Tibere, à qui je dois respect.
+
+D'où me vient ce desordre, & pourquoy suis-je émeuë ?
+Pourquoy ? Fuis pour jamais cette fatale veuë :
+D'un Amant qu'on doit perdre écouter les soupirs,
+Loin d'éteindre ses feux⁎, c'est croistre ses desirs.
+Je ne le veux point voir ; c'est en vain qu'il m'en presse⁎ :
+Si j'ay quelque vertu, j'ay beaucoup de tendresse ;
+Et de quoy qu'on se flatte⁎ entre de vrais Amans,
+La vertu la plus forte a de foibles momens.
+Je revoque⁎ mon ordre, & ne veux point qu'il vienne.
+Hola !
+
+      Quelle surprise est égale à la mienne ?
+C'est Pison !
+
+Me le promettez-vous ?
+ 
+Vous ne le direz plus ! ne le dites-vous pas ?
+
+      Et je veux l'éviter.
+
+      Oüy, Pison, c'est en vain que j'hesite :
+Pour le voir sans allarme⁎ il a trop de merite⁎.
+Quand de quelque vertu mon coeur seroit armé,
+Vous sçavez qu'à le vaincre il est accoûtumé.
+Ce n'est pas que ce coeur, si je l'en voulois croire,
+Ne promette⁎ à mes voeux⁎ d'avoir soin de ma gloire :
+Quoique Germanicus ait sur luy de pouvoir,
+De l'espoir du triomphe il flatte⁎ mon devoir :
+A ce devoir credule il fait sans cesse entendre,
+Qu'à ses loix⁎, qu'il respecte, il est prest de se rendre ;
+Mais, s'il faut tout vous dire, il est si peu constant⁎
+Qu'à l'Amour aussi-tost il en promet⁎ autant :
+Et je crois, contre un coeur qui chancelle, & qui tremble,
+Que l'Amour & l'Amant sont trop fort joints ensemble.
+Par pitié pour ma gloire allez donc l'avertir
+Qu'à le voir un moment je ne puis consentir.
+Mais à moins d'estre prompt⁎ vous perdez vostre peine :
+Il m'a fait prévenir, & je croy qu'on l'ameine :
+Albin, son Confident vient de sortir d'icy.
+Je vous l'apprens.
+
+N'a-t-il point demandé si je le perds sans peine ?
+
+Qu'avez-vous dit ?
+
+Et qu'a-t-il répondu ?
+
+Ah ! Pison, je m'égare⁎, & l'on s'égare⁎ à moins.
+Allez luy dire... O Ciel ! le voicy.
+
+Demeurez. Vous present j'auray moins de foiblesse.
+Si mon coeur se hazarde à rien faire de bas,
+Ayez soin de ma gloire, & ne le souffrez⁎ pas.
+Je promets, puisqu'en vain vous m'aimez l'un & l'autre,
+De traiter son Amour comme j'ay fait le vostre :
+Et m'aimant, sans espoir, il vous doit estre doux
+Qu'un Heros, comme luy, soit traité comme vous.         610
+
+Enfin, Prince, vostre ame a lieu d'estre contente :
+Vos illustres exploits ont rempli nostre attente :
+Si l'on doit d'un grand coeur attendre un grand effet,
+On attendoit de vous ce que vous avez fait.
+Moy, qui pour vous, Seigneur, n'ay rien craint de funeste,
+Apprenant vos Combats, je devinois le reste ;
+Et souvent de ma joye étallant tout l'excez,
+En voyant mon visage on lisoit vos succez.
+ 
+Adieu, Prince.
+
+      Vous m'aimez ?
+
+      Adieu.
+Je crains trop un combat dont l'issuë est douteuse,
+Seigneur.
+
+      Ah ! Seigneur, laissez-moy l'innocence :
+Epargnez à ma gloire un soupçon qui l'offence :
+A mon coeur tout à vous n'imputez rien de bas ;
+Et si l'on vous trahit, ne m'en accusez pas.
+Vous m'aimez, je vous fuis, & je le dois sans doute :
+Mais vous ne sçavez pas quelle peine il m'en coûte :
+Vostre amour défiant⁎ en veut estre éclaircy⁎.
+Empeschez que Drusus ne nous surprenne icy.
+Vous me connoissez, Prince, ou devez me connoistre :
+Quoy que sente mon coeur, mon devoir est le maistre.
+Quand par l'ordre d'un Pere il falut vous aimer,
+J'obeïs avec joye, & me laissay charmer :
+Aujourd'huy qu'à mes voeux⁎ on impose silence,
+J'obeïs avec peine, & me fais violence ;
+Et loin d'estre insensible à de si rudes coups,
+Je m'arrache⁎ à moy-même en m'arrachant à vous.
+En faveur de l'amour tout mon coeur se declare :
+A remplir mon devoir tout mon sang se prepare ;
+Et ces deux opposez sont d'illustres Tirans,
+Qui demandent de moy des efforts differents⁎.
+Si j'écoute mon sang⁎, que le feu deshonore,
+Mon devoir m'est trop cher pour vous aimer encore :
+Si j'entends de l'amour les conseils absolus,
+Je vous ay trop aimé, pour ne vous aimer plus :
+Ma vertu qui chancelle, en cet état réduite,
+Pour cacher sa foiblesse a recours à la fuite ;
+Et de peur que l'amour n'ébranlât le devoir,
+N'ose s'accoûtumer au plaisir de vous voir.
+
+Je vois avec douleur celle d'un si grand homme ;
+Mais que puis-je ?
+
+Croyez-vous qu'il revienne ?
+
+      Quoy ! si tost !
+
+Je vous l'ay déja dit, que puis-je, enfin ?
+ 
+Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?
+Songez-y : des malheurs vous souhaitez le pire.
+Vous garder ma tendresse, & l'oser mettre au jour,
+C'est blesser ma vertu, sans flatter⁎ vostre amour :
+Car, enfin, quoy qu'aimé par l'aveu de mon Pere,
+A l'Epoux que j'auray je me dois toute entiere ;
+Et ne presumez pas qu'en un sort si cruel,
+Il échape à ma gloire un desir criminel.
+Par amour l'un pour l'autre, amortissons⁎ nos flâmes⁎ ;
+Arrachons de nos coeurs ce qui trouble nos ames ;
+Ne nous souvenons plus de ces tendres discours,
+Que nos yeux éloquens se faisoient tous les jours :
+Effaçons avec soin de nostre Ame obsedée⁎,
+Tout ce qui de nos feux⁎ peut retracer l'idée ;
+Et si l'heur⁎ de m'aimer fait vos plus doux souhaits,
+Veüillez m'aimer assez pour ne m'aimer jamais.
+Plus je suis avec vous, plus j'ay l'ame attendrie :
+Ne me revoyez plus ; c'est moy qui vous en prie :
+Accordez cette grace⁎ à mes voeux⁎ empressez⁎ :
+Des maux⁎ que je vous fais, c'est me punir assez.
+Remenez-moy, Pison. Adieu, Prince.
+
+Je n'attendois pas, Prince, en un si sort si contraire⁎,
+Un outrage⁎ si grand d'une bouche si chere :
+Ce reproche est sensible ; & si vous m'aimiez bien,
+A ma juste douleur vous n'ajoûteriez rien.
+Vous me connoissiez mal, si vous avez pû croire
+Qu'à l'éclat⁎ d'un haut rang j'immolasse⁎ ma gloire :
+Si le sort qui m'outrage⁎ eût voulu m'estre doux,
+Ma plus sensible joye eût esté d'estre à vous.
+Le bonheur qui m'échappe, est un bonheur insigne⁎,
+Dont il faut que le Ciel ne me juge pas digne.
+La Princesse Emilie, exorable⁎ à vos soins⁎,
+Aura plus de merite, & vous coûtera moins.
+A des fers⁎ qu'il fuyoit, remenez un rebelle :
+Loin de faire des voeux contre vous, ou contre elle,
+Je souhaite ardemment, vous ayant enflâmé,
+Qu'elle vous aime antant que je vous eusse aimé.
+Et pour derniere marque & d'amour, & d'estime,
+Si mes foibles appas⁎ vous coûterent un crime,
+Pour mettre en seureté vos sublimes vertus,
+Desormais, par respect, je ne vous verray plus.
+Remenez-moy.
+
+      Ah ! que viens-tu m'apprendre ?
+
+Sortez donc vite, Prince, & ne me perdez pas.
+Si Drusus... Ah ! Pison, il y va de ma gloire,
+Vous cherchez à me plaire, & je cherche à le croire :
+Pour conduire en secret ce Prince en d'autres lieux,
+C'est sur vous seul, enfin, que je jette les yeux.
+
+      Et vous, dans ce moment funeste,
+Seigneur, si du passé le souvenir vous reste,
+Par bonté, par justice, ou du moins par pitié,
+De son Appartement acceptez la moitié.
+Pour l'en faire sortir avec pleine asseurance,
+D'un moment favorable attendez la presence.
+Si Drusus l'apperçoit, l'apparence me perd ;
+Cependant tout mon crime est de l'avoir souffert.
+Comme au meilleur Amy que j'ay eu de ma vie,
+C'est mon honneur, Pison, qu'icy je vous confie :
+Et si j'ose avec vous m'expliquer à mon tour,
+Vous n'étes pas le seul que maltraite l'Amour.
+
 Seigneur, je vous apporte une grande nouvelle.
 Je perds Germanicus, & le perds à regret ;
 Je vous honore trop pour en faire un secret.
@@ -1535,10 +967,6 @@ Puisqu'il faut pour jamais oublier tant de charmes⁎,
 Pour m'en faire un devoir je suis preste demain
 En presence des Dieux de vous donner la main.
 
--*who_drusus
-O Ciel !
-
--*who_agripine
       D'aucun soupçon n'ayez l'ame blessée
 Si je n'ay pas d'abord cette ardeur⁎ empressée⁎,
 Ces desirs violens, & ces transports⁎ si doux,
@@ -1552,13 +980,6 @@ Et par la complaisance où mon coeur se prepare,
 Vous aurez de la peine à vous appercevoir,
 Si j'agis par amour, ou si c'est par devoir.
 
--*who_drusus
-Non, c'est trop vous gesner⁎ : L'Empereur pour vous plaire,
-Consent que pour un mois nostre Hymen⁎ se differe.
-Je l'ay veu par vostre ordre, & sans estre en couroux⁎
-Il m'a promis...
-
--*who_agripine
       Seigneur, je l'ay veu depuis vous.
 Je viens de le quitter. Et pour ne vous rien taire,
 L'effort qu'en ma faveur vous avez daigné faire,
@@ -1581,31 +1002,11 @@ Du reste de ce jour souffrez⁎ que je joüisse ;
 Et que si prés, Seigneur, de vivre sous vos loix⁎,
 Je sois en liberté pour la derniere fois.
 
--*who_drusus
-Madame, j'obeïs. Ce que je viens d'entendre
-Me surprend d'autant plus que je n'osois l'attendre.
-Vostre bonté m'accable, & je jure à vos yeux...
-Quand j'auray veu Cesar je m'expliqueray mieux.
-
-**** *book_ *id_III05 *act_III *date_1694 *creator_boursault
-
--*who_agripine
 Hé bien, Flavie, hé bien, seras-tu satisfaite ?
 Trouves-tu maintenant ma victoire imparfaite ?
 Ay-je assez bien rempli mon severe devoir ?
 A mes sens interdits⁎ reste-t-il quelque espoir ?
 
--*who_flavie
-Madame, je comprends quel chagrin vous devore
-Si pour Germanicus vous soûpirez encore :
-Mais vouloir que Drusus vous épouse demain ;
-Avec tranquilité luy donner vostre main ;
-Vous ranger sous ses loix⁎ avant qu'on vous en presse⁎ ;
-Prevenir ses soupçons ; menager sa tendresse ;
-Dérober tout espoir au grand Germanicus ;
-Tout cela dit assez que vous ne l'aimez plus.
-
--*who_agripine
 Attends, attends, Flavie, à tenir ce langage,
 Que le sort infléxible ait épuisé sa rage ;
 Et qu'aux yeux du Senat, comme je l'ay promis,
@@ -1635,20 +1036,6 @@ Je fais ce que je puis, je m'immole⁎ moy-même :
 Je me perds. Mais, Flavie, un coeur comme le mien,
 Quand la gloire a parlé, ne consulte⁎ plus rien.
 
-**** *book_ *id_IV01 *act_IV *date_1694 *creator_boursault
-
--*who_pison
-Madame, pardonnez à mon impatience ;
-J'ay besoin en secret d'un moment d'audience⁎ :
-Ce que je dois vous dire est assez délicat
-Pour éviter la foule, & pour craindre l'éclat⁎.
-Mes jours⁎ sont en danger, & ce mot doit suffire,
-Si quelqu'autre que vous sçait ce que je vais vous dire :
-Mais dussay-je mourir, tout me semblera doux
-Quand j'auray signalé l'amour que j'ay pour vous.
-Je mourray sans regret si l'objet que j'adore...
-
--*who_agripine
 Temeraire Pison, qu'allez-vous dire encore ?
 Ma coupable indulgence entretient⁎ vostre erreur :
 Mais si vous n'étouffez cette insolente ardeur⁎ ;
@@ -1672,8 +1059,793 @@ Aprés un tel avis je suis preste d'apprendre
 Ce que .vous témoignez me vouloir faire entendre ;
 Seure qu'à vostre orgueil, que je viens d'abaisser,
 Il n'échappera rien qui me puisse offencer.
+ 
+L'assassiner, Pison !
 
--*who_pison
+Tu l'as promis ! Sçais-tu que c'est m'arracher l'ame ?
+Pourras-tu sans remords te noircir à ce point ?
+
+      Est-ce à tort, cruel, que je m'emporte ?
+Que je te perde, ou non, malheureux, que m'importe ?
+Si tu perds un Heros qu'adore l'Univers,
+Ce qui peut y rester vaut-il ce que tu perds ?
+Pour transmettre à ta race⁎ une gloire infinie,
+Le premier des Cesars épousa Calphurnie :
+La vertu des Pisons qu'on te voit dédaigner,
+Eut le bien⁎ de luy plaire, & l'honneur de regner :
+Et pour le Consulat qu'on te vient de promettre,
+Le plus noir des forfaits⁎ t'est facile à commettre !
+Et tu vas acquerir, par un crime odieux,
+Ce que par leurs vertus ont acquis tes Ayeux.
+
+Pardonnez, cher Pison, si l'horreur d'un tel crime
+Vous a pour un moment dérobé mon estime :
+Dans les premiers transports⁎ d'un si juste courroux⁎,
+J'aurois fait même injure à tout autre que vous.
+Drusus d'un si grand crime est sans doute complice,
+Pison ?
+
+      Seigneur, si je ne vous adore,
+Si vous n'estes vous seul l'objet de tout mon soin⁎,
+Me punissent les Dieux que j'en prends à témoin.
+Vous avez crû tantost⁎ ma confiance affoiblie :
+Cet outrage⁎ est cruel, mais, Seigneur, je l'oublie ;
+C'est un crime forcé dont mon coeur vous absout :
+L'amour qu'on desespere est capable de tout.
+O Ciel ! qui tant de fois a pris soin de sa gloire,
+Permets que ce Heros m'aime assez pour me croire :
+Sauve l'appuy⁎ de Rome ; & mets dans mes discours
+Un charme assez puissant pour conserver ses jours⁎.
+Je vous aime, Seigneur, nul Romain ne l'ignore ;
+Je l'ay dit en tous lieux, & veux le dire encore :
+Cesar, Drusus, Livie, & Pison sçavent tous
+Si j'ay d'ambition que celle d'estre à vous.
+Mon coeur qui de vos voeux⁎ s'est attiré l'hommage⁎,
+Voudroit même pouvoir vous aimer davantage ;
+Et si quelque douleur rend mes sens agitez,
+C'est d'avoir moins d'amour que vous n'en meritez.
+Vous allez en douter : le malheur qui m'accable,
+M'ôte jusqu'au plaisir de me rendre croyable ;
+Et d'infidelité vous m'allez soupçonner,
+Quand je vous auray dit qu'il faut m'abandonner,
+
+      Seigneur, je souffre⁎ par avance,
+Tout ce qu'a de cruel cette fatale absence :
+Je prévoy tous les maux⁎ qui me vont accabler ;
+Et je ne puis enfin les prevoir sans trembler.
+Ma fortune⁎ demain ne sera plus douteuse ;
+J'épouseray Drusus ; je seray malheureuse ;
+Mais n'importe, partez, pour ne plus me revoir :
+Laissez en me quittant l'amour au desespoir :
+Je vous l'ordonne même avec un coeur tranquile :
+Il y va de vos jours⁎, tout doit m'estre facile ;
+Et pour tromper le sort qu'il vous faut redouter,
+Je n'examine point ce qu'il doit m'en coûter.
+
+      Point de demain, de grace.
+D'un peril trop certain cette nuit vous menace.
+Seigneur, il faut sur l'heure abandonner ce lieu :
+Dût m'en coûter la vie en vous disant adieu.
+Il m'est trop important que vostre gloire éclate⁎
+Pour voir d'un oeil jaloux l'honneur dont on vous flatte⁎ ;
+Avoir mis sous le joug⁎ tant de fiers Ennemis ;
+Les Ubiens défaits⁎ ; Les Bataves soûmis ;
+Et les peuples fameux de ces Plaines fecondes,
+Que l'Elbe, & le Danube arrosent de leurs ondes⁎ ;
+Les avoir tous, Seigneur, attaquez, & vaincus,
+C'est ce qu'on attendoit du grand Germanicus.
+Aprés de tels exploits le triomphe est bien juste ;
+Mais nous ne sommes plus sous le regne d'Auguste :
+Satisfait des lauriers moissonnez par son bras,
+Ceux qu'un autre cueilloit ne le chagrinoient pas.
+Mais depuis que des Dieux il augmente le nombre,
+Rome de sa splendeur ne conserve que l'ombre ;
+Et sous un Empereur qui ternit son éclat⁎,
+S'estre acquis tant de gloire est un crime d'Etat.
+Partez, vous dis-je.
+
+Ah ! Seigneur, qu'un Heros est facile à trahir !
+Et que lorsqu'on possede une vertu sublime,
+On se livre aisément aux embûches⁎ du crime !
+En faveur de Cesar soyez moins prevenu⁎,
+Seigneur ; depuis qu'il regne il vous est inconnu.
+Je vous l'ay déja dit, Rome changea de face,
+Aussi-tost que d'Auguste il occupa la place,
+Et que son artifice⁎, aprés de vains refus,
+Herita de son rang, & non de ses vertus.
+Ne vous proposez point l'exemple de mon pere ;
+Auguste estoit son maistre, & le vostre est Tibere :
+L'un, malgré les perils dont il fut menacé,
+N'a jamais fait de crime où l'on ne l'ait forcé ;
+Et qu'on retranche un an de son illustre vie,
+J'abandonne le reste à la plus noire envie⁎.
+Tant que du monde entier il fut seul possesseur,
+Ses secrets ennemis admiroient sa douceur :
+Et quand des plus méchans il resolut la perte,
+Loin d'affecter la fraude, il leur fit guerre ouverte.
+L'autre, dont l'Univers aujourd'huy prend la loy,
+En montant sur le Trône en a banny la foy⁎ :
+A sa Cour, où l'usage a permis les adresses,
+On endort ce qu'on hait par de fausses caresses ;
+A des maux⁎ que l'on cause on feint⁎ de prendre part ;
+Et ce que l'on veut perdre, on le perd avec art⁎.
+Seigneur, si vous m'aimez, faites le moy paroistre ;
+Usez⁎ bien des momens dont vous estes le maître ;
+De vos fiers ennemis, trompez l'indigne espoir ;
+On en veut à vos jours⁎ ; la foudre est preste à choir⁎ ;
+A l'abry des lauriers laissez passer l'orage.
+Il ne m'est pas permis d'en dire davantage :
+Je vous en dis assez pour vous chasser d'icy.
+Que perdez-vous en moy pour balancer ainsi ?
+Seigneur.
+
+Seigneur, à quelle honte allez-vous m'exposer ?
+Il va m'en coûter un pour vous desabuser.
+D'un amy genereux⁎ je vais trahir le zele :
+Pour vous prouver ma foy⁎, je vais estre infidele :
+Mais quelque soit le crime où je dois recourir
+C'en seroit un plus grand de vous laisser perir.
+Dissipez vostre erreur, & connoissez⁎ Tibere :
+Ce Maître si chery qui vous tient lieu de pere,
+Qui semble à vostre gloire appliquer tous ses soins,
+Et qui, s'il vous aimoit, vous caresseroit moins ;
+Ce Tyran, car, Seigneur, quoy qu'il ait vostre estime,
+Pour ce Prince cruel ce titre est legitime :
+Et s'il ne l'avoit pas il faudroit luy donner,
+Puisqu'il veut cette nuit vous faire assassiner.
+
+      Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :
+Où la mort vous attend precipitez vos pas :
+Croyez qui vous veut perdre, & ne me croyez pas.
+Je me flattois⁎ pourtant de cette triste gloire,
+Que loin d'avoir, Seigneur, tant de peine à me croire,
+Un Heros tel que vous, assuré de ma foy⁎,
+Ne balanceroit pas entre Tibere & moy.
+Seigneur, quoyque pour moy vous soyiez tout de flâme⁎,
+Souffrez⁎ que de Drusus je devienne la femme :
+Laissez-moy le punir d'avoir troublé vos feux⁎.
+Il me rend malheureuse, & sera malheureux.
+Non que de ma vertu je ne sois assurée :
+Mais ma vie, & sa joye auront peu de durée ;
+Et quoyque je luy doive en qualité d'époux,
+Je mourray de regret de n'estre pas à vous.
+Voila de ma tendresse une preuve assez ample.
+Pour signaler la vostre imitez mon exemple :
+D'un coeur né pour la gloire effacez tous mes traits ;
+Et ne m'accablez point d'inutiles regrets.
+Aprés m'avoir aimé, devenir insensible,
+Si c'est pour un Heros un effort si penible ;
+Si vous en fremissez ; quel seroit vostre effroy,
+Si vous aviez le coeur aussi tendre que moy ?
+ 
+      Seigneur, vous me desesperez.
+Dans l'état déplorable où mon ame est réduite,
+Je crains vostre presence, & je crains vostre fuite.
+Cher Prince, que je perds, & que j'aime toûjours,
+Pour la gloire de Rome ayez soin de vos jours⁎ :
+Et quel que soit l'azile⁎, où vous alliez vous rendre,
+Contraignez vostre amour à venir me l'apprendre.
+De peur d'estre écoûté ne m'opposez plus rien.
+Je vous rends vostre coeur, & vous laisse le mien :
+Je ne puis vous l'ôter, quelque effort que je fasse.
+Venez, qu'en vous quittant, Prince, je vous embrasse ;
+Et que dans ce moment tous mes sens interdits⁎...
+Partez, je ne sçay plus, Seigneur, ce que je dis.
+
+Vient-elle ? l'as-tu vûë ? & puis-je me promettre
+Qu'au dangereux Pison elle ait rendu ma lettre ?
+Si du trouble où je suis il peut estre averty,
+S'il peut... Germanicus ne sera point party.
+Quoyque d'une imposture⁎ il ne soit point capable,
+Un peu de défiance⁎ eût esté pardonnable.
+Mon coeur en le quittant ne se possedoit pas :
+Quelque Romain fidele auroit suivy ses pas :
+Dés hier j'aurois appris s'il s'éloigna de Rome ;
+Et ne douterois plus du sort d'un si grand homme.
+Juste Ciel, à sa perte aurois-tu consenty !
+Ton soin⁎... Non, ce Heros ne sera point party.
+Quand il me le promit il me trompoit sans doute :
+Je l'ay quitté, je sçay quels efforts il m'en coûte ;
+Et s'il est vray qu'il m'aime autant qu'il est aimé,
+Un départ si cruel l'auroit plus allarmé.
+Tu ne m'as point appris si tu voyois Flavie :
+Pour hâter son retour que ne l'as-tu suivie ?
+Je sçaurois maintenant ce que je veux sçavoir :
+Je n'aurois plus de crainte, ou n'aurois plus d'espoir ;
+Et tout autre destin me semblerois moins rude,
+Que l'affreuse rigueur de mon incertitude.
+De contenter mes voeux⁎ Flavie a peu de soin⁎ :
+Elle n'ignore pas quelle nuit j'ay passée ;
+Elle a sçû quels objets occupoient ma pensée.
+J'ay cru voir sur un Char Drusus victorieux :
+Un spectre encor sanglant s'est offert à mes yeux,
+“Si j'osay vous aimer, il m'en coûte la vie,             1570
+M'a-t-il dit ; j'en ay fait confiance à Flavie ;
+Et si Germanicus voyoit encor le jour,
+Elle seroit... Flavie est enfin de retour.
+
+Helas ! Flavie, helas ! que tu m'as mise en peine !
+Des malheurs que je crains viens me rendre certaine.
+Dis-moy ce qu'on a fait, & ce que l'on resout⁎.
+Pison vient-il ? enfin éclaircy⁎ moy de tout.
+Desespere mon coeur, ou le rends plus tranquille.
+Parle.
+
+      Parle-moy de ce qui me regarde.
+Parle-moy du Heros pour qui j'eus tant d'amour,
+Flavie ; & laisse-là l'Empereur & la Cour.
+Du secours⁎ de Pison que dois-je me promettre ?
+L'as-tu vû ? viendra-t-il ? a-t-il reçû ma Lettre ?
+S'il sçavoit ma douleur il seroit arrivé.
+
+      Il suffit, souffre⁎ que je respire.
+Ce que je desirois, Flavie, est arrivé :
+Mes souhaits sont remplis : mon Amant est sauvé.
+Ciel, qui m'as écoûtée, & qui loin de l'orage
+As mis en seureté ton plus parfait ouvrage,
+Aux depens de ma vie acheve ton bonheur :
+Ainsi que de ses yeux bannis⁎ moy de son coeur.
+Helas ! si sa tendresse est égale à la mienne,
+Suivy de son amour, que crois-tu qu'il devienne ?
+Par les maux⁎ que je sens je comprens ses douleurs.
+Il en mourra. Qu'il vive, & qu'il s'engage⁎ ailleurs.
+Que d'un plus digne objet son ame possedée
+De mes foibles appas⁎ luy dérobe l'idée :
+Voila quels sont mes voeux : & pour estre exaucez
+Dieux ! à qui je les faits ils me coûtent assez.
+Tout grand qu'est mon malheur, il n'est pas sans remede,
+Flavie ; un peu de joye à ma douleur succede :
+Tu n'as point vû Pison ; mon coeur est r'assuré :
+Avec Germanicus Pison s'est retiré.
+Soit qu'il ait redouté la fureur de Tibere,
+Soit que son zele ardent⁎ n'ait songé à me plaire ;
+De ce Prince sans doute il a suivy les pas.
+
+Ne me déguise rien. L'as-tu vû ?
+
+Parle, je te l'ordonne, ou cesse de me voir.
+Je crains plus de malheur, que je n'en puis sçavoir.
+Ne me dérobe pas la douceur de me plaindre.
+C'est croître ma douleur que la vouloir contraindre.
+Finis l'incertitude où flottent mes esprits.
+Germanicus est mort ?
+
+Ah, Dieux !
+
+On l'ignore ! Dis tout. Germanicus est mort.
+C'est me nier en vain ce qu'il faut que je sçache :
+Jamais de ses pareils le trépas⁎ ne se cache :
+L'Univers, dont leur bras fut toûjours le soûtien⁎,
+Pour douter de leur sort les observe trop bien :
+Par tout où les conduit l'ardeur⁎ qui les seconde⁎,
+Ils attachent sur eux les yeux de tout le monde ;
+Et bien-tost dans ce lieu le Senat desolé
+M'apprendra par ses pleurs, si l'on s'est immolé⁎
+Un Heros qui n'aguere⁎ idolâtré dans Rome,
+Entre les Dieux & luy ne voyoit aucun homme.
+Me l'apprendra ! que dis-je ? en doutay-je ? non, non,
+Les crimes de Tibere ont fait tout son renom.
+Depuis qu'à ses desirs les destins sont propices,
+Il ne s'est signalé que par des injustices.
+Le lâche aura dans l'ombre, au gré de ses souhaits,
+Par le plus noir de tous couronné ses forfaits⁎.
+Il aura... Quel soupçon dans mon coeur vient de naître ?
+Seroit-il vray, grands Dieux ! que Pison fût un traître ?
+Luy de qui tant de fois le zele peu commun...
+Il m'aime, il l'a fait voir ; n'importe c'en est un.
+Pour vanger son amour que sa rage surmonte,
+Il a fait ce grand crime, & se cache de honte :
+Aux fureurs d'un Tiran son desespoir s'est joint.
+Je ne m'étonne plus s'il ne se montre point :
+Il me craint. Va méchant ta crainte est inutile :
+A qui veut l'imiter Cesar offre un azile⁎ ;
+Et tu peux hautement⁎ pretendre au Consulat,
+Aprés l'heureux succez d'un si noir attentat.
+Flavie, as-tu compris la grandeur de ma peine ?
+
+      Hé bien, Albin, ce que j'aimois est mort ?
+Germanicus...
+
+      Le perfide ! Et tu ne peux me dire
+En quel endroit fatal l'assassin se retire ?
+J'irois, malgré Cesar qui se fait son appuy⁎,
+Exprimer dans son sang l'horreur que j'ay pour luy.
+Aprés tous ses exploits quel opprobre⁎ pour Rome
+De voir sous de tels coups expirer un tel homme !
+Ce trépas⁎ vû des Dieux ayant dû les toucher,
+Que ne le vangent-ils, s'ils n'ont pû l'empécher ?
+Albin, pour m'accabler satisfaits mon envie :
+Comment Germanicus a-t'il perdu la vie ?
+Le Perfide Pison osa-t'il l'attaquer ?
+De peur de m'attendrir tu n'oses t'expliquer.
+Parle ; je sçay sa mort, je puis sçavoir le reste.
+
+Et Pison ne vit plus !
+
+      Qu'entens-je ?
+
+Que je le plains, Albin, & que son sort me touche !
+
+Cher Pison, qui m'aimois d'une amitié si pure,
+Pardonne à mon orgueil ce qu'il t'a fait d'injure ;
+Et pour prix⁎ de tes soins⁎ dignes d'un autre sort
+Daigne accepter les pleurs que je donne à ta mort.
+
+Ou venez-vous, Seigneur, & quelle est vostre envie ?
+L'infortuné Pison vient de perdre la vie :
+Des desseins⁎ de Cesar sa mort vous éclaircit⁎.
+Fuyez, Seigneur.
+
+Cesar, Seigneur ! Albin vous a-t-il tout appris ?
+Vous a-t'il dit ? ... Cesar est surpris de ce crime !
+Que je vous plains, Seigneur, d'estre si magnanime.
+Tout ce que dit Cesar vous doit estre suspect.
+Prince, il est vostre Pere, & je perds le respect⁎ :
+Mais de sa cruauté vous avez connoissance.
+
+Il nous veut perdre tous, puisqu'il en use⁎ ainsi.
+Je le connois, Seigneur, ses bontez⁎ sont à craindre.
+
+      Non, Seigneur, j'ay le coeur trop sincere :
+Je vous aime : ce mot vous répond de ma foy⁎ ;
+Et je me dois à vous si l'on me rend à moy.
+Mais l'Empereur...
+
+
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_livie
+
+Ma soeur... Mais je m'oublie⁎, & je perds le respect⁎,
+Ce nom, qui m'estoit cher, vous doit estre suspect,
+Madame, & votre Hymen⁎, dont la pompe⁎ s'étale,
+Me deffend desormais de vous traiter d'égale.
+Demain l'heureux Drusus doit estre vostre Epoux :
+Fils du Maistre du Monde il n'estoit dû qu'à vous ;
+Et j'ay blâmé le sort qui vous estoit contraire⁎,
+Jusqu'à vous abaisser à l'Hymen⁎ de mon frere.
+Je vous dirois pourtant, si j'osois aujourd'huy
+Alterer vostre joye en vous parlant de luy,
+Qu'adoré du Sénat, comme l'estoit mon Pere,
+Et par l'ordre d'Auguste adopté par Tibere ;
+(Je laisse à part sa gloire, & ne la compte pas :)
+Je croyois que Drusus fût un degré⁎ plus bas ;
+Que cette adoption, pour peu qu'on s'en prévale⁎,
+Entre ces deux Rivaux laissoit quelque intervale ;
+Et qu'à rendre justice aux sublimes vertus,
+Le premier des Mortels estoit Germanicus.
+Une erreur si grossiere est enfin dissipée :
+J'apprens par vostre choix que je m'estois trompée,
+Madame : Et je viens rendre au merite⁎ éclatant⁎,
+Qui vous met au dessus du sort qui vous attend,
+Tout ce qu'on peut devoir à l'Epouse d'un homme,
+Trouvé digne à vingt ans d'estre Consul de Rome.
+
+Cesar me l'offriroit que je n'en voudrois plus,
+Madame. Je l'aimay cet ingrat qui me quitte ;
+Et pour fixer ses voeux⁎ j'eus trop peu de merite.
+Je cherche à le haïr, & me dois cet effort.
+Car pour Tibere enfin je m'en plaindrois à tort :
+De sa haine pour moy, j'attendois une preuve.
+Il sçait d'où je descends⁎, & de qui je suis veuve.
+De mon Ayeul Antoine Auguste fut jaloux :
+Tibere le parut de Caius mon Epoux :
+L'un qui pour Cleopatre osa trop entreprendre,
+A l'Empire⁎ du Monde avoit droit de prétendre :
+Et si l'autre eût vécu plus long-temps qu'il n'a fait,
+J'estois Impératrice, & Tibere Sujet.
+Voila par quels motifs il me trouve importune.
+Je l'ay veu de Caius, adorer la fortune ;
+S'attacher à sa Suite⁎, & souvent prés de luy
+Redouter ma puissance, ou briguer⁎ mon appuy⁎.
+Ce cruel souvenir le chagrine & le gesne⁎ :
+Plus je l'ay veu soumis, plus j'en attends de haine ;
+Et depuis que le Monde obeït à ses loix⁎
+Il me rend les mépris qu'il reçeut autrefois.
+Mais pour Drusus...
+
+      Adieu. Quoique l'ingrat m'oublie,
+Ma haine est foible encor & mon coeur s'en deffie⁎ :
+Et je le veux, si je puis, le haïr assez bien
+Pour le voir, le braver, & n'en redouter rien.
+
+      Seigneur, vous auriez quelque peine
+A vous imaginer le sujet⁎ qui m'ameine.
+Je ne viens point icy par d'indignes soupirs
+Mandier le retour de vos ardens desirs :
+Je laisse en leur amour à d'obscures⁎ Princesses
+La honte de descendre à de telles bassesses ;
+Et le Fils de Cesar seroit trop acheté⁎,
+S'il rentroit dans mes fers⁎ par une lâcheté.
+Soeur de Germanicus , Veuve d'un Fils d'Auguste,
+La fierté que je montre est peut-estre assez juste.
+Toute juste qu'elle est, je confesse pourtant,
+Que pour vous autrefois je n'en avois pas tant :
+Pour ne pas estre ingrate à l'amour le plus tendre
+Que pour une Princesse un Heros puisse prendre,
+(Car il faut l'avouër, estimé de chacun,
+Il sembloit qu'à l'Etat vous en promettiez un ;)
+Je vous aimay, Seigneur. Si j'osois vous le taire
+Vous pourriez m'accuser de n'estre pas sincere ;
+Et pour vous faire voir à quel point je la suis,
+Je sens que je vous hais autant que je le puis.
+Le trouble où je vous vois me découvre⁎ sans peine
+Que ma veuë en ce lieu vous allarme⁎ & vous gêne.
+Vous craignez qu'Agripine adresse icy ses pas :
+R'assurez-vous, Seigneur, je n'y tarderay pas.
+Je cherchois à vous perdre, & m'estois applaudie    
+D'avoir tant de témoins de vostre perfidie :
+Ces Billets d'un Ingrat, dont le coeur m'estois cher :
+D'autant plus criminels qu'ils ont l'art⁎ de toucher ;
+Ces Ecrits dangereux, dont j'ay fait mes delices,
+Qui pour charmer mes sens ont esté vos complices :
+Ces imposteurs, enfin, qui m'ont osé trahir ;
+Si je les faisois voir, vous feroient trop haïr.
+Je vous les rends. Mon coeur est assez magnanime
+Pour se faire un plaisir de cacher vostre crime :
+Et sans faire éclater un indigne courroux⁎,
+Je vous laisse le soin de me vanger de vous.
+Le destin des Ingrats d'ordinaire est funeste.
+Et si de ma bonté la memoire⁎ vous reste,
+Et que vous l'opposiez à vostre trahison,
+Il suffira de vous pour m'en faire raison.
+Tenez, Prince.
+
+Moy ! Seigneur ?
+
+      Autrefois vous en usiez de même.
+Vos perfides sermens, tant de fois redoublez,
+Par vostre ingratitude ont esté violez.
+Non, non, le repentir où vostre ame est forcée,
+Ne rend pas son éclat⁎ à ma gloire offencée :
+Dans le rang où je suis, & du sang⁎ dont je sors,
+Ce seroit me trahir qu'accepter un remors.
+Epargnez-moy, Seigneur, la honte qu'il imprime⁎ ;
+ll n'est point de remords qui ne precede un crime :
+Et qui m'a fait l'affront de m'arracher sa foy⁎,
+N'a plus rien à m'offrir qui soit digne de moy.
+Vous m'avez outragée⁎, & ce m'est une joye
+Que d'un juste remords vostre coeur soit la proye.
+Je voudrois que le Ciel, pour combler mes souhaits,
+Vous forçât à m'aimer autant que je vous hais.
+Au moins à vostre tour vous verriez par vous-même
+Combien touche un mépris qui part de ce qu'on aime :
+Quoy que dans cet état la raison puisse offrir,
+C'est de tous les tourmens le plus dur à souffrir⁎.
+Vous sentiriez, pour peu que vous soyez sensible,
+Ce qu'a de plus affreux le sort le plus terrible :
+Pour vous tiranniser tout prendroit mon party ;
+Et vous ne sentiriez que ce que j'ay senty.
+
+      Seigneur, ne m'attendrissez pas.
+Si je m'estois renduë⁎ à vos fausses tendresses
+Vous me seriez garend de toutes mes foiblesses.
+Contentez-vous du trouble où vous me reduisez :
+Je vous haïray trop si vous me seduisez⁎.
+Cessez de m'étaller le remords qui vous gesne⁎ :
+Vous me faites douter du succez de ma haine ;
+Et preste à me vanger de vostre trahison
+Vous corrompez⁎, ingrat, jusques à ma raison :
+Elle, mon coeur, & vous, tout cherche à me surprendre.
+Reprenez vos Ecrits, si vous les voulez prendre,
+Seigneur ; je risque trop à demeurer icy.
+
+Quand je vous le rendrois, ingrat, qu'en feriez-vous ?
+Vous épousez demain la Princesse Agripine :
+On l'arrache à mon frere, & on vous la destine :
+Pour son interest⁎ seul, je sçay tout sur ce point.
+
+Seigneur, par trop d'endroits vous tentez ma foiblesse.
+C'est aprés vostre crime un nouvel attentat,
+Que d'appeler mon frere au secours d'un Ingrat.
+Je me deffendray mal pour peu qu'il vous appuye :
+Et de peur de me rendre il est temps que je fuye.
+Ma haine en sa faveur auroit peine à durer.
+
+Rendez mon frere heureux, si vous le pouvez faire ;
+Une belle action n'attend point de salaire :
+Et s'il vous en faut un...
+
+      Adieu.
+La Princesse Agripine arrive dans ce lieu.
+Servez Germanicus, l'occasion est belle.
+
+Ne craignez rien ; Cesar s'est expliqué sans feindre⁎.
+Nous sortons du Palais, où le peuple irrité
+Redemandoit mon frere, & s'estoit revolté :
+Il alloit s'échaper à quelque violence,
+S'il ne l'eût appaisé par sa seule presence.
+Cesar, qui de ce trouble a craint l'évenement⁎,
+S'est resolu sans peine à ce grand changement :
+Et ce qu'a fait Drusus en faveur de mon frere,
+A reparé sa faute, & calmé ma colere.
+
+
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
+
+      Cette lettre, où sont peints⁎ vos secrets,
+Dés hier me fut renduë, & je l'apporte exprés⁎.
+Je serois criminel, sçachant qui vous l'envoye,
+Si j'avois plus long-temps differé vostre joye.
+De vos rares⁎ bontez⁎ ce seroit abuser ;
+Et mon plus grand plaisir est de vous en causer,
+Madame.
+
+Il n'a pû jusqu'icy se bien faire connoistre⁎.
+Ce zele impetueux, s'il osoit découvrir,
+Auroit peine, peut-estre, à se faire souffrir⁎.
+Mais à vous en parler les moments que j'employe⁎,
+Sont autant de moments que j'oste à vostre joye :
+Ne la differez point, contentez vostre esprit ;
+Et reglez vos desseins⁎ sur ce qu'on vous écrit.
+
+      Vostre ame en paroit toute émeuë ;
+Souhaitez-vous, Madame, ou craignez-vous sa veuë ?
+
+      De grace, examinez-vous bien.
+
+Eh, ne pourriez-vous point vous servir de quelqu'autre ?
+
+      Helas ! Que n'en sçay-je un peu moins.
+A servir vostre Amour le plaisir que je goûte,
+M'est un plaisir fatal par le prix qu'il me coûte.
+Ce n'est pas que mon zele ait jamais chancelé ;
+A l'espoir de vous plaire, il s'est tout immolé⁎ ;
+Loin de me repentir de vous avoir servie,
+J'ay toûjours même zele, & toûjours même envie ;
+Et je meurs de regret de venir en ce lieu
+Pour y prendre vostre ordre, & pour vous dire adieu.
+
+Je me suis bien douté que j'allois vous surprendre.
+Mais je sens dans mon coeur des transports⁎ si confus...
+Si je m'expliquois mieux je vous surprendrois plus.
+
+Manque-t-on de raisons quand on a de l'amour ?
+Une illustre Beauté m'a sçeu rendre sensible
+
+Et s'il se peut, Madame, ignorez-les toûjours.
+Aux succés de mes feux⁎ tant d'obstacles s'opposent,
+Que j'en fais un secret aux beaux yeux qui les causent.
+Mon amour jusqu'icy s'est si bien déguisé
+Qu'aussi-bien que mon coeur je m'y suis abusé⁎.
+Quand je vis la Beauté, qui doit m'estre contraire⁎,
+Je nommay bien-veillance un desir de luy plaire :
+Je me plus à la voir, & je connus⁎ ainsi
+Qu'en luy voulant du bien je m'en voulois aussi.
+Je crus donc que ce nom n'estoit plus legitme,
+Et que ma bien-veillance estoit lors pure estime :
+Mais j'avois des transports⁎ & des troubles secrets,
+Que pour l'estime seule on n'a presque jamais.
+De l'audace d'aimer ne pouvant me deffendre,
+J'appellay cette estime une amitié fort tendre :
+Mais j'entendois mon coeur qui me disoit tout bas,
+L'amitié rend tranquille, & je ne le suis pas.
+Dans cette inquietude où me plongeoit ma flâme⁎,
+Je revis la Beauté, qui m'avoit touché l'ame :
+Mille appas⁎ differens paroissoient tour à tour ;
+Et ma tendre amitié fut changée en amour.
+Cet amour violent, quelque pur qu'il puisse estre,
+Je l'aurois étouffé si je l'avois vu naistre ;
+Mais sous tant de faux noms il déguisa le sien,
+Qu'il regnoit dans mon ame, & je n'en sçavois rien.
+
+Hé quoy ! mes yeux, Madame, ont-ils esté muets ?
+Ne vous ont-ils rien dit d'une ardeur⁎ si puissante ?
+
+      Vous le voulez, & je vais obeïr.
+L'adorable Beauté qui captive⁎ mon ame,
+Peut estre comparée avecque vous, Madame :
+Quand je vous apperçois, j'apperçois tous ses traits ;
+Elle a vos mêmes yeux, & vos mêmes attraits⁎ ;
+Entre vous deux, enfin, la ressemblance est telle,
+Qu'estant auprés de vous je crois estre auprés d'elle :
+Vos appas⁎ et les siens lancent de mêmes coups ;
+Et pour estre aimé d'elle, il faut l'estre de vous.
+
+      De grace ; achevez de m'entendre ;
+Mais calmez ce courroux⁎, ou daignez le suspendre ;
+Et d'une ame tranquille, en ce malheureux jour,
+Punissez mon audace, ou plaignez mon amour.
+Je vous aime, Madame, & ce mot m'épouvante :
+Si c'est estre coupable, estes-vous innocente ?
+J'obeïs à mon sort, & ne m'en deffends pas ;
+Mais si j'ay de l'amour, vous avez des appas⁎ :
+Cet amour que j'étale a dû peu vous surprendre ;
+Si vous n'en donniez point, en aurois-je pû prendre ?
+Et qui des deux, enfin, fait un crime plus grand,
+Ou de l'oeil qui le donne, ou du coeur qui le prend ?
+
+Eh ! que n'ay-je pas fait pour aimer un peu moins ?
+A l'aspect impréveu d'un merite⁎ sublime,
+On n'a pas le loisir⁎ d'arrester à l'estime ;
+Comme un coeur qui s'enflâme ose plus qu'il ne croit,
+On se trouve à l'amour sans sçavoir qu'on y soit ;
+La raison & les sens ont beau faire divorce ;
+Quand les sens sont gagnez la raison est sans force :
+Et si c'est vous trahir que d'avoir tant d'ardeur⁎,
+Le crime est de mon Astre⁎, & non pas de mon coeur.
+
+Si ma temerité, qu'un seul mot peut confondre⁎,
+A l'ardeur⁎ que je sens vous pressoit de répondre ;
+Si mon coeur prévenu⁎, corrompant⁎ mon devoir,
+Pour flatter⁎ mon erreur concevoit quelqu'espoir ;
+Le Prince que je sers, dont la haine est à craindre,
+D'un Amy si perfide auroit lieu de se plaindre ;
+Et j'aurois du regret d'attirer ses mépris,
+Par un crime, inutile à l'amour que j'ay pris.
+Mais que n'ay-je pas fait en faveur de sa flâme⁎ ?
+Je l'ay peint à vos yeux tel qu'il est dans mon ame ;
+Et souvent à son feu sacrifiant le mien,
+Je me suis voulu mal à vous vouloir du bien.
+Pour vous le faire aimer j'ay tout mis en usage.
+Il est vray que mon coeur démentoit mon langage,
+Et de mon zele extrême estant presque jaloux,
+Quand je parlois pour luy, je soupirois pour vous :
+Quoy que ma passion n'ose rien s'en promettre⁎,
+C'est un crime envers vous bien facile à commettre ;
+Et pour tout dire, enfin, quand il seroit plus noir,
+C'est m'en punir assez que d'aimer sans espoir.
+Laissez-moy me bannir⁎. Mais de grace, Madame,
+Que ce soit de vos yeux, & non pas de vostre ame :
+Quoy qu'au sort d'un Epoux vous alliez vous unir,
+Ne me bannissez⁎ pas de vostre souvenir.
+Laissez-moy me flatter⁎ de ce bon-heur extrême,
+Que du moins, quelquefois vous direz en vous-même
+En parlant de Pison, en songeant à ses feux⁎,
+Il fut moins criminel, qu'il ne fut malheureux.
+Mon départ est douteux⁎ à vous voir davantage :
+Adieu. Que cet adieu soit mon dernier hommage⁎.
+Je vais partir sur l'heure, & je jure, en partant,
+Qu'aucun autre que moy n'aimera jamais tant.
+Adieu, Madame.
+ 
+Pour vostre interest propre épargnez ma foiblesse,
+Madame. Jusqu'icy je n'ay rien mis au jour
+Qui soit honteux pour vous, excepté mon amour :
+Mais dans l'état funeste ou mon ame est réduite,
+Du desordre où je suis j'apprehende la suite.
+Vous voulez m'arrester, & vos voeux sont les miens ;
+Mais pour me retenir forgez-moy des liens⁎.
+Quoy qu'avoir des Rivaux soit un sort déplorable,
+Si je n'en avois qu'un je serois consolable :
+Quand de vostre main seule il seroit possesseur,
+Je dirois en moy-même il m'en reste le coeur.
+Si du coeur au contraire il estoit le seul Maistre,
+De sa main, me dirois-je, il ne peut jamais l'estre ;
+Et de chaque costé rencontrant des appas,
+Je serois satisfait de ce qu'il n'auroit pas.
+Mon tranquille destin n'auroit rien de funeste ;
+Mais à quoy que j'aspire aucun bien ne me reste ;
+Et de mes deux Rivaux l'heur⁎ me rend allarmé⁎,
+Puisque l'un vous épouse, & que l'autre est aimé.
+Au moins, pour m'arrester, dites qu'on vous immole⁎ ;
+Que le coeur où j'aspire est un bien qu'on vous vole ;
+Que le Fils de Cesar en dispose aujourd'huy ;
+Qu'il seroit tout à moy, s'il n'estoit tout à luy ;
+Et qu'enfin plus sensible à mon amour extrême...
+
+      Helas ! Adieu, Madame.
+
+      Oüy, Madame : & malgré mon adieu,
+J'interromps mon voyage, & reviens en ce lieu.
+Si tantost⁎ à vos yeux j'ay montré ma foiblesse,
+Jusqu'à faire l'aveu d'un amour qui vous blesse,
+Plus soumis à present, j'y reviens à mon tour,
+Etaler mon respect⁎, & non plus mon amour.
+Ce n'est pas que ma flâme⁎ obscurcit vostre lustre⁎,
+Si le Ciel m'eut fait naistre en un rang plus illustre :
+Mais des droits de l'Amour aucun coeur n'est exempt ;
+Et ce que sent un Prince un autre homme le sent ;
+Soit qu'on naisse du Peuple, ou d'un sang⁎ qu'on renomme⁎,
+Pour aimer comme j'aime il suffit qu'on soit homme.
+Ce n'est pas à son choixqu'on se laisse enflâmer :
+Nous naissons pour mourir, & vivons pour aimer :
+Et dequoy qu'envers vous ma passion m'accuse,
+La beauté de mon crime en doit faire l'excuse.
+Cet amour de mon coeur est banny pour jamais.
+
+      Oüy, je vous le promets.
+Je suis guery, Madame ; & vous allez connoistre⁎,
+Qu'il seroit mal-aisé de le pouvoir mieux estre.
+J'ay repris sur moy-même un empire⁎ absolu.
+C'est assez qu'une fois mon amour ait déplû.
+Je ne vous diray plus, puisque tout m'est contraire⁎,
+Que mon sort est d'aimer, si le vostre est de plaire :
+Je ne vous diray plus, qu'asservy par vos yeux,
+Je regardois mes fers⁎ comme un bien precieux :
+Je ne vous diray plus, que l'amour qui m'enchaisne⁎,
+Me fait voir un supplice à l'hymen⁎ qui vous gesne :
+Je ne vous diray plus qu'épris de vos appas⁎...
+
+Dans le trouble inquiet , dont mon ame est atteinte,
+J'avois presque oublié que ma flâme⁎ est éteinte :
+Mon esprit dégagé⁎ reprenoit ses liens⁎ ;
+Et le feu de vos yeux rallumoit tous les miens.
+Suspendez leur pouvoir qui fait naistre ma peine,
+Pour apprendre en repos⁎ quel sujet⁎ me rameine :
+Et, tandis qu'en ce lieu nous voila sans témoins,
+Pour juger de mon zele apprenez tous mes soins.
+J'estois party de Rome, & déja l'ame émeuë,
+Je voyois l'Aventin disparoistre à ma veuë,
+Lorsqu'avec ce grand air, qui fait pâlir d'effroy,
+J'ay veu Germanicus avancer prés de moy.
+Malgré le desespoir où ma flâme⁎ est réduite,
+Vostre gloire en danger m'a fait blâmer ma fuite :
+Le retour de ce Prince alloit trop éclater⁎ ;
+Vous l'allez voir paroistre.
+
+Vous, Madame ?
+
+      Madame, il me l'a dit aussi.
+C'est un homme discret, mais à quoy qu'il s'engage⁎,
+Vostre gloire est d'un prix qu'il est bon qu'on ménage.
+Je n'ay pû sans douleur, malgré tous vos dédains,
+Voir un si grand dépost⁎ en de si foibles mains.
+Servez-vous de moy seul ; je vous sers avec joye :
+Et je rends grace au Ciel qui m'en offre une voye⁎.
+A fuïr Germanicus vostre vertu consent ;
+Vous voulez qu'il l'apprenne, & vostre ordre est pressant :
+J'obeis sans replique ; & de peur qu'on l'ameine...
+
+L'ame toute agitée, & le coeur plein d'ennuy⁎,
+Il s'est enquis⁎ à moy, si vous songiez à luy ?
+Si l'Epoux qu'on vous donne a pour vous tant de charmes⁎ ?
+Et si vous le perdez sans verser quelques larmes ?
+ 
+      J'ay dit qu'il vous eût esté doux
+De n'aimer que luy seul, comme il n'aime que vous :
+Que son rare⁎ merite⁎ est gravé dans vostre Ame ;
+Et qu'un Prince absolu vous arrache à sa flâme⁎.
+
+      Ses soûpirs à l'instant...
+Mais, Madame, il viendra si vous m'arrétez tant.
+Ne vous exposez point à ce peril extréme :
+Les momens durent peu quand on voit ce qu'on aime.
+Si Drusus avec luy vous surprend sans témoins...
+
+      Je vous laisse.
+
+      Drusus va revenir de Rome.
+De peur de vous trahir, je vous le dit tout haut.
+
+      On l'attend.
+
+Sur moy ! Madame ?
+
+Assez loin de ce lieu je viens de le conduire :
+Pour la mettre en repos⁎, retournez l'en instruire.
+Je l'aurois esté voir, pour luy donner avis
+Que le chemin de Rome est celuy qu'il a pris.
+Seur de mettre un obstacle à l'Hymen⁎ qu'il redoute,
+Je n'ay pû le contraindre à prendre une autre route.
+Dût-il rendre à jamais ses jours⁎ infortunez⁎...
+
+Vostre Rival, Seigneur ! Germanicus ?
+
+Ce bruit⁎ qui vous allarme⁎ est-il sceu d'Agripine ?
+
+Moy, Seigneur ?
+
+Ce retour vers Livie a droit de me surprendre :
+Vous luy devez le coeur que vous luy voulez rendre ;
+Mais aprés tout, Seigneur, à vous parler sans fard,
+Y songer à present, est y songer trop tard.
+Autant que je l'ay pû, j'ay condamné l'envie⁎
+Qui vous fit pour une autre abandonner Livie :
+Vous passiez sous ses loix⁎ des momens assez doux :
+Elle n'aimoit, Seigneur, & n'aime encor que vous.
+Un amour si confiant pour un Amant rebelle,
+Vous préte un digne exemple à demeurer fidele :
+Tout parle en sa faveur ; mais enfin...
+
+Madame, pardonnez à mon impatience ;
+J'ay besoin en secret d'un moment d'audience⁎ :
+Ce que je dois vous dire est assez délicat
+Pour éviter la foule, & pour craindre l'éclat⁎.
+Mes jours⁎ sont en danger, & ce mot doit suffire,
+Si quelqu'autre que vous sçait ce que je vais vous dire :
+Mais dussay-je mourir, tout me semblera doux
+Quand j'auray signalé l'amour que j'ay pour vous.
+Je mourray sans regret si l'objet que j'adore...
+
 Malgré ce fier mépris, je ne perds pas l'envie
 De vous estre fidele au dépens de ma vie.
 Quoyque sous vostre empire⁎ un coeur puisse endurer,
@@ -1691,35 +1863,11 @@ Le bruit⁎ de ses exploits est suspect à Tibere :
 Et pour le Consulat il me fait designer,
 Si je veux cette nuit l'aller assassiner.
 
--*who_agripine 
-L'assassiner, Pison !
-
--*who_pison
       Je l'ay promis, Madame.
 
--*who_agripine
-Tu l'as promis ! Sçais-tu que c'est m'arracher l'ame ?
-Pourras-tu sans remords te noircir à ce point ?
-
--*who_pison
 Madame, au nom des Dieux ne vous emportez point.
 C'est me perdre.
 
--*who_agripine
-      Est-ce à tort, cruel, que je m'emporte ?
-Que je te perde, ou non, malheureux, que m'importe ?
-Si tu perds un Heros qu'adore l'Univers,
-Ce qui peut y rester vaut-il ce que tu perds ?
-Pour transmettre à ta race⁎ une gloire infinie,
-Le premier des Cesars épousa Calphurnie :
-La vertu des Pisons qu'on te voit dédaigner,
-Eut le bien⁎ de luy plaire, & l'honneur de regner :
-Et pour le Consulat qu'on te vient de promettre,
-Le plus noir des forfaits⁎ t'est facile à commettre !
-Et tu vas acquerir, par un crime odieux,
-Ce que par leurs vertus ont acquis tes Ayeux.
-
--*who_pison
 Ce que j'ay fait pour vous, vous permet-il de croire,
 Que je trahisse ensemble, & ma flâme⁎, & ma gloire ?
 Et qu'osant violer les droits les plus sacrez
@@ -1757,15 +1905,6 @@ Est de m'aider vous-même à vous estre fidele ;
 Et de taire un secret qui pourroit me ravir
 L'honneur que je reçois quand je puis vous servir.
 
--*who_agripine
-Pardonnez, cher Pison, si l'horreur d'un tel crime
-Vous a pour un moment dérobé mon estime :
-Dans les premiers transports⁎ d'un si juste courroux⁎,
-J'aurois fait même injure à tout autre que vous.
-Drusus d'un si grand crime est sans doute complice,
-Pison ?
-
--*who_pison
       L'en soupçonner, c'est luy faire injustice.
 Pour son propre interest le sensible Drusus
 Voudroit vous voir unie avec Germanicus.
@@ -1774,329 +1913,76 @@ Et je sçay... Mais adieu, Germanicus s'avance :
 Parlez-luy, le temps presse ; & sans faire aucun bruit⁎,
 Empêchez que dans Rome il ne passe la nuit.
 
-**** *book_ *id_IV02 *act_IV *date_1694 *creator_boursault
 
--*who_germanicus
-Je ne sçay de quel oeil vous verrez un coupable,
-Dont l'amour violent rend le crime excusable :
-J'ay tantost⁎, je l'avouë, avec un peu d'aigreur⁎
-D'un injuste reproche accablé vostre coeur :
-Vous en avez pleuré : je l'ay veu : mais, Madame,
-La douleur de vous perdre interdit⁎ bien une ame ;
-Et dans un tel malheur un modeste courroux⁎,
-Auroit mal exprimé ce que je sens pour vous.
-Quand on aime ardemment & qu'on perd ce qu'on aime,
-On se fait un plaisir de se perdre soy-même ;
-Et si par vostre hymen⁎ on m'eût desesperé,
-A de plus grands efforts je m'estois preparé.
-Mais Cesar, que j'ay veu, loin de m'estre contraire⁎ ;
-M'a reçu comme un fils attendu de son pere :
-J'ay quitté son armée, & ce crime est de ceux
-Dont en un General l'exemple est dangereux :
-Cependant sa tendresse excusant mon audace,
-Il ne m'en a parlé que pour me faire grace⁎ ;
-Et dans le Capitole il consent que demain
-Vous me combliez de gloire en me donnant la main.
-Que vois-je ? me trompay-je ? ou, pleurez-vous encore,
-Ma Princesse ?
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_flavie
 
--*who_agripine
-      Seigneur, si je ne vous adore,
-Si vous n'estes vous seul l'objet de tout mon soin⁎,
-Me punissent les Dieux que j'en prends à témoin.
-Vous avez crû tantost⁎ ma confiance affoiblie :
-Cet outrage⁎ est cruel, mais, Seigneur, je l'oublie ;
-C'est un crime forcé dont mon coeur vous absout :
-L'amour qu'on desespere est capable de tout.
-O Ciel ! qui tant de fois a pris soin de sa gloire,
-Permets que ce Heros m'aime assez pour me croire :
-Sauve l'appuy⁎ de Rome ; & mets dans mes discours
-Un charme assez puissant pour conserver ses jours⁎.
-Je vous aime, Seigneur, nul Romain ne l'ignore ;
-Je l'ay dit en tous lieux, & veux le dire encore :
-Cesar, Drusus, Livie, & Pison sçavent tous
-Si j'ay d'ambition que celle d'estre à vous.
-Mon coeur qui de vos voeux⁎ s'est attiré l'hommage⁎,
-Voudroit même pouvoir vous aimer davantage ;
-Et si quelque douleur rend mes sens agitez,
-C'est d'avoir moins d'amour que vous n'en meritez.
-Vous allez en douter : le malheur qui m'accable,
-M'ôte jusqu'au plaisir de me rendre croyable ;
-Et d'infidelité vous m'allez soupçonner,
-Quand je vous auray dit qu'il faut m'abandonner,
+Le prince vient.
 
--*who_germanicus 
-Moy, Madame ?
+A vos souhaits, Madame, il a daigné se rendre.
 
--*who_agripine
-      Seigneur, je souffre⁎ par avance,
-Tout ce qu'a de cruel cette fatale absence :
-Je prévoy tous les maux⁎ qui me vont accabler ;
-Et je ne puis enfin les prevoir sans trembler.
-Ma fortune⁎ demain ne sera plus douteuse ;
-J'épouseray Drusus ; je seray malheureuse ;
-Mais n'importe, partez, pour ne plus me revoir :
-Laissez en me quittant l'amour au desespoir :
-Je vous l'ordonne même avec un coeur tranquile :
-Il y va de vos jours⁎, tout doit m'estre facile ;
-Et pour tromper le sort qu'il vous faut redouter,
-Je n'examine point ce qu'il doit m'en coûter.
+Luy tiendrez-vous parole, & pourrez-vous haïr...
 
--*who_germanicus
-Et qui peut mettre obstacle au succez de ma flâme⁎ ?
-Excepté vos rigueurs⁎, qu'ay-je à craindre, Madame ?
-Que pourra de Drusus l'inutile courroux⁎ ?
-Les bontez⁎ de Cesar me répondent de vous.
-Vous le verrez demain, pour consacrer ma gloire,
-D'un triomphe superbe honorer ma victoire :
-Je m'y suis opposé, mais sans rien obtenir ;
-Et je viens de sa part vous en entretenir.
-Demain Cesar, & moy...
+Ce n'est pas là répondre, & quoy qu'on se propose⁎
+Pour haïr ce qu'on aime un mois est peu de chose :
+Vostre premier Amant vit toûjours soûs vos loix⁎.
 
--*who_agripine
-      Point de demain, de grace.
-D'un peril trop certain cette nuit vous menace.
-Seigneur, il faut sur l'heure abandonner ce lieu :
-Dût m'en coûter la vie en vous disant adieu.
-Il m'est trop important que vostre gloire éclate⁎
-Pour voir d'un oeil jaloux l'honneur dont on vous flatte⁎ ;
-Avoir mis sous le joug⁎ tant de fiers Ennemis ;
-Les Ubiens défaits⁎ ; Les Bataves soûmis ;
-Et les peuples fameux de ces Plaines fecondes,
-Que l'Elbe, & le Danube arrosent de leurs ondes⁎ ;
-Les avoir tous, Seigneur, attaquez, & vaincus,
-C'est ce qu'on attendoit du grand Germanicus.
-Aprés de tels exploits le triomphe est bien juste ;
-Mais nous ne sommes plus sous le regne d'Auguste :
-Satisfait des lauriers moissonnez par son bras,
-Ceux qu'un autre cueilloit ne le chagrinoient pas.
-Mais depuis que des Dieux il augmente le nombre,
-Rome de sa splendeur ne conserve que l'ombre ;
-Et sous un Empereur qui ternit son éclat⁎,
-S'estre acquis tant de gloire est un crime d'Etat.
-Partez, vous dis-je.
+On hait mal-aisément ce qu'on aima sans peine :
+Et si j'ose, aprés tout, m'expliquer sur ce point,
+Vous ne le pouvez pas, & ne le voulez point.
+Bientost Germanicus doit triompher⁎ dans Rome :
+Vous aspirez encor à voir un si grand homme ;
+Et si j'en sçais juger, pour le voir sans peril,
+Vostre coeur est trop tendre, & l'amour trop subtil.
+Mandez-luy⁎ qu'à ses voeux⁎ l'Empereur vous arrache :
+Il est au bord de l'Elbe où son Employ⁎ l'attache.
+Là son bras redoutable aux plus vaillants Germains,
+Du mal-heur de Varrus a vangé les Romains.
+Rien de plus glorieux n'embellit nos Histoires⁎ ;
+Par les Combats qu'il donne on compte les Victoires.
+Son retour sera prompt, l'Ennemy fuit ses pas.
+Ecrivez-luy, Madame, & ne l'attendez pas.
+Ne vous exposez point à des peines mortelles.
+Germanicus...
 
--*who_germanicus
-      Hé quoy, voulez-vous que je croye
-Que l'espoir de me perdre est ce qui fait sa joye ?
-Et que de mon retour il feint⁎ d'estre charmé,
-Pour m'ôter tout sujet⁎ de paroistre allarmé ?
-Quoy qu'on vous en ait dit, jugez mieux de Tibere :
-Adopté pour son fils, il me tient lieu de pere :
-Des volontez d'Auguste il se fait une loy ;
-Et Drusus pour sa gloire, est moins son fils que moy.
-De quelque oeil qu'il le voye, en cette conjoncture,
-Drusus n'est qu'un present que luy fit la nature :
-Un fruit qu'il attendoit du conjugal lien⁎ ;
-Et dont pour s'agrandir⁎ il ne pretendoit rien :
-Mais, suivant ce qu'Auguste eut le soin de prescrire⁎,
-Le don qu'il fit de moy fut suivy de l'Empire ;
-Et pour tout dire enfin, l'Univers est le prix⁎,
-Des bontez⁎ qu'eût Cesar de m'accepter pour fils.
-Il est vray que ce Prince, au moins en ma presence,
-Entre Drusus, & moy met de la difference :
-De mes foibles exploits il parle avec chaleur ;
-Approuve ma conduite ; éleve ma valeur⁎ ;
-En un mot, je crois estre estimé de Tibere
-Comme l'étoit d'Auguste Agrippa vostre pere :
-Il m'aime, il m'en assure avec sincerité ;
-Et je serois ingrat si j'en avois douté.
-Plût au Ciel que vous-même eussiez vû ses caresses,
-Et ce qu'un si grand Prince a montré de tendresses !
-Vous en seriez touchée, & loin de le haïr...
+      Madame, le voicy.
 
--*who_agripine
-Ah ! Seigneur, qu'un Heros est facile à trahir !
-Et que lorsqu'on possede une vertu sublime,
-On se livre aisément aux embûches⁎ du crime !
-En faveur de Cesar soyez moins prevenu⁎,
-Seigneur ; depuis qu'il regne il vous est inconnu.
-Je vous l'ay déja dit, Rome changea de face,
-Aussi-tost que d'Auguste il occupa la place,
-Et que son artifice⁎, aprés de vains refus,
-Herita de son rang, & non de ses vertus.
-Ne vous proposez point l'exemple de mon pere ;
-Auguste estoit son maistre, & le vostre est Tibere :
-L'un, malgré les perils dont il fut menacé,
-N'a jamais fait de crime où l'on ne l'ait forcé ;
-Et qu'on retranche un an de son illustre vie,
-J'abandonne le reste à la plus noire envie⁎.
-Tant que du monde entier il fut seul possesseur,
-Ses secrets ennemis admiroient sa douceur :
-Et quand des plus méchans il resolut la perte,
-Loin d'affecter la fraude, il leur fit guerre ouverte.
-L'autre, dont l'Univers aujourd'huy prend la loy,
-En montant sur le Trône en a banny la foy⁎ :
-A sa Cour, où l'usage a permis les adresses,
-On endort ce qu'on hait par de fausses caresses ;
-A des maux⁎ que l'on cause on feint⁎ de prendre part ;
-Et ce que l'on veut perdre, on le perd avec art⁎.
-Seigneur, si vous m'aimez, faites le moy paroistre ;
-Usez⁎ bien des momens dont vous estes le maître ;
-De vos fiers ennemis, trompez l'indigne espoir ;
-On en veut à vos jours⁎ ; la foudre est preste à choir⁎ ;
-A l'abry des lauriers laissez passer l'orage.
-Il ne m'est pas permis d'en dire davantage :
-Je vous en dis assez pour vous chasser d'icy.
-Que perdez-vous en moy pour balancer ainsi ?
-Seigneur.
+      Du moins c'est trop estre interdite⁎ :
+De l'absence du Prince, il est bon qu'on profite.
+Ou souffrez⁎ qu'il vous voye, ou donnez d'autres loix⁎.
 
--*who_germanicus
-      Ce que je perds ! l'ignorez-vous, Madame ?
-Si le fils de Cesar vous arrache à ma flâme⁎ ;
-S'il faut qu'à cet affront le Ciel m'ait reservé ;
-Je perds ce que le Monde a de plus achevé⁎.
-Je perds, si la fortune⁎ à ce point m'est cruelle,
-Des plus hautes vertus le plus digne modele ;
-Et pour dire encor plus, je perds, enfin, je perds
-Ce que du sang⁎ d'Auguste il reste à l'Univers.
-Non, Madame, mon coeur plein de vostre merite⁎,
-Condamne vostre amour, s'il veut que je vous quitte :
-Mon trépas⁎ est douteux⁎, & ne le sera plus
-Si je vous abandonne au pouvoir de Drusus.
-Rome, quoyqu'on m'appreste, est mon plus seur azile⁎ :
-Tout autre en vous quittant me seroit inutile :
-Mes jours⁎, que vos bontez ont soin de menager,
-Eloigné de vos yeux, sont-ils hors de danger ?
-Mais c'est trop se livrer à de vaines allarmes⁎ ;
-Rassurez vostre esprit, & retenez vos larmes ;
-Drusus, que mon bonheur a dû rendre jaloux,
-Cherche par cette ruse à m'éloigner de vous :
-Je ne sçay que luy seul qui m'ose estre contraire⁎ ;
-Et pour craindre le fils, je suis trop cher au pere.
-Mon coeur reconnoissant ne peut trop l'avoüer,
-Des bontez⁎ de Cesar j'ay lieu de me loüer :
-Il vous rend à mes feux⁎, & je ne puis sans crime,
-Soupçonner d'artifice⁎ un coeur si magnanime.
+      Madame...
 
--*who_agripine
-Seigneur, à quelle honte allez-vous m'exposer ?
-Il va m'en coûter un pour vous desabuser.
-D'un amy genereux⁎ je vais trahir le zele :
-Pour vous prouver ma foy⁎, je vais estre infidele :
-Mais quelque soit le crime où je dois recourir
-C'en seroit un plus grand de vous laisser perir.
-Dissipez vostre erreur, & connoissez⁎ Tibere :
-Ce Maître si chery qui vous tient lieu de pere,
-Qui semble à vostre gloire appliquer tous ses soins,
-Et qui, s'il vous aimoit, vous caresseroit moins ;
-Ce Tyran, car, Seigneur, quoy qu'il ait vostre estime,
-Pour ce Prince cruel ce titre est legitime :
-Et s'il ne l'avoit pas il faudroit luy donner,
-Puisqu'il veut cette nuit vous faire assassiner.
+Que le Fils de Cesar dans ce lieu se va rendre.
+Il arrive de Rome, & s'avance à grands pas.
 
--*who_germanicus
-Me faire assassiner ! Luy, Madame ? On vous trompe.
-Cesar...
+Dans vostre Appartement le Prince va se rendre ;
+J'ay devancé ses pas pour venir vous l'apprendre.
+Du secret qu'on luy cache il semble estre éclaircy⁎ ;
+Quelqu'un peut avoir veu Germanicus icy.
+Agripine du moins obstinée à le croire,
+A vos soins⁎ obligeans recommande sa gloire.
+Si le bien de luy plaire a pour vous des appas⁎,
+Dans un si grand peril ne l'abandonnez pas.
+Quoy qu'au Fils de Cesar elle soit si fidelle,
+L'apparence d'un crime est un crime pour elle ;
+Et si l'on voit icy son Rival triomphant,
+Tout condamne Agripine, & rien ne la deffend.
 
--*who_agripine
-      Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :
-Où la mort vous attend precipitez vos pas :
-Croyez qui vous veut perdre, & ne me croyez pas.
-Je me flattois⁎ pourtant de cette triste gloire,
-Que loin d'avoir, Seigneur, tant de peine à me croire,
-Un Heros tel que vous, assuré de ma foy⁎,
-Ne balanceroit pas entre Tibere & moy.
-Seigneur, quoyque pour moy vous soyiez tout de flâme⁎,
-Souffrez⁎ que de Drusus je devienne la femme :
-Laissez-moy le punir d'avoir troublé vos feux⁎.
-Il me rend malheureuse, & sera malheureux.
-Non que de ma vertu je ne sois assurée :
-Mais ma vie, & sa joye auront peu de durée ;
-Et quoyque je luy doive en qualité d'époux,
-Je mourray de regret de n'estre pas à vous.
-Voila de ma tendresse une preuve assez ample.
-Pour signaler la vostre imitez mon exemple :
-D'un coeur né pour la gloire effacez tous mes traits ;
-Et ne m'accablez point d'inutiles regrets.
-Aprés m'avoir aimé, devenir insensible,
-Si c'est pour un Heros un effort si penible ;
-Si vous en fremissez ; quel seroit vostre effroy,
-Si vous aviez le coeur aussi tendre que moy ?
+La Princesse sçaura ce que vous m'apprenez,
+Seigneur ; & de ce pas je m'en vais tout luy dire.
+Le Prince qui paroît, fait que je me retire.
+Adieu. Souvenez-vous que l'on voit aujourd'huy
+Une fille d'Auguste implorer vostre appuy.
 
--*who_germanicus
-Et que m'importe, helas ! quand tout me desespere,
-Qui m'arrache le jour⁎ de vous, ou de Tibere ?
-Si j'échape à sa haine, expirer de douleur,
-Vous perdre, enfin, Madame, est-ce un moindre malheur ?
-Ne craignez pourtant rien de mon amour extrême :
-L'ordre que je reçois m'est une loy suprême :
-J'ay peur, si je restois plus long-temps en ces lieux,
-Que mon sort envers vous ne fût contagieux.
-Pour ne pas à l'orage exposer vostre teste,
-Je vay par mon exil écarter la tempeste ;
-Et laisser au Rival que vous me preferez
-Les appas⁎ dangereux que j'ay trop adorez.
-Si vous m'aimez encor, j'en attends une preuve :
-Vous avez assez mis ma confiance à l'épreuve,
-Madame ; à ma douleur n'offrez aucun secours⁎ ;
-Il suffit de mes maux⁎ pour terminer mes jours⁎ :
-Ne pleurez point : mon coeur prest à quitter vos charmes⁎,
-Ne peut s'accoûtumer à voir couler vos larmes :
-Je ne partiray point si vous en soupirez ;
-Promettez-moy...
+Madame, je comprends quel chagrin vous devore
+Si pour Germanicus vous soûpirez encore :
+Mais vouloir que Drusus vous épouse demain ;
+Avec tranquilité luy donner vostre main ;
+Vous ranger sous ses loix⁎ avant qu'on vous en presse⁎ ;
+Prevenir ses soupçons ; menager sa tendresse ;
+Dérober tout espoir au grand Germanicus ;
+Tout cela dit assez que vous ne l'aimez plus.
 
--*who_agripine 
-      Seigneur, vous me desesperez.
-Dans l'état déplorable où mon ame est réduite,
-Je crains vostre presence, & je crains vostre fuite.
-Cher Prince, que je perds, & que j'aime toûjours,
-Pour la gloire de Rome ayez soin de vos jours⁎ :
-Et quel que soit l'azile⁎, où vous alliez vous rendre,
-Contraignez vostre amour à venir me l'apprendre.
-De peur d'estre écoûté ne m'opposez plus rien.
-Je vous rends vostre coeur, & vous laisse le mien :
-Je ne puis vous l'ôter, quelque effort que je fasse.
-Venez, qu'en vous quittant, Prince, je vous embrasse ;
-Et que dans ce moment tous mes sens interdits⁎...
-Partez, je ne sçay plus, Seigneur, ce que je dis.
-
-**** *book_ *id_V01 *act_V *date_1694 *creator_boursault
-
--*who_agripine
-Vient-elle ? l'as-tu vûë ? & puis-je me promettre
-Qu'au dangereux Pison elle ait rendu ma lettre ?
-Si du trouble où je suis il peut estre averty,
-S'il peut... Germanicus ne sera point party.
-Quoyque d'une imposture⁎ il ne soit point capable,
-Un peu de défiance⁎ eût esté pardonnable.
-Mon coeur en le quittant ne se possedoit pas :
-Quelque Romain fidele auroit suivy ses pas :
-Dés hier j'aurois appris s'il s'éloigna de Rome ;
-Et ne douterois plus du sort d'un si grand homme.
-Juste Ciel, à sa perte aurois-tu consenty !
-Ton soin⁎... Non, ce Heros ne sera point party.
-Quand il me le promit il me trompoit sans doute :
-Je l'ay quitté, je sçay quels efforts il m'en coûte ;
-Et s'il est vray qu'il m'aime autant qu'il est aimé,
-Un départ si cruel l'auroit plus allarmé.
-Tu ne m'as point appris si tu voyois Flavie :
-Pour hâter son retour que ne l'as-tu suivie ?
-Je sçaurois maintenant ce que je veux sçavoir :
-Je n'aurois plus de crainte, ou n'aurois plus d'espoir ;
-Et tout autre destin me semblerois moins rude,
-Que l'affreuse rigueur de mon incertitude.
-De contenter mes voeux⁎ Flavie a peu de soin⁎ :
-Elle n'ignore pas quelle nuit j'ay passée ;
-Elle a sçû quels objets occupoient ma pensée.
-J'ay cru voir sur un Char Drusus victorieux :
-Un spectre encor sanglant s'est offert à mes yeux,
-“Si j'osay vous aimer, il m'en coûte la vie,             1570
-M'a-t-il dit ; j'en ay fait confiance à Flavie ;
-Et si Germanicus voyoit encor le jour,
-Elle seroit... Flavie est enfin de retour.
-
-**** *book_ *id_V02 *act_V *date_1694 *creator_boursault
-
--*who_agripine
-Helas ! Flavie, helas ! que tu m'as mise en peine !
-Des malheurs que je crains viens me rendre certaine.
-Dis-moy ce qu'on a fait, & ce que l'on resout⁎.
-Pison vient-il ? enfin éclaircy⁎ moy de tout.
-Desespere mon coeur, ou le rends plus tranquille.
-Parle.
-
--*who_flavie
       J'ay fait à Rome un voyage inutile,
 Madame, & tous mes soins⁎ ont esté superflus.
 On ne m'a rien appris du grand Germanicus.
@@ -2115,15 +2001,6 @@ Ne pas faire leur cour s'ils valloient mieux que luy.
 Que vous diray-je ? on tremble, & loin qu'on se hazarde
 A vouloir...
 
--*who_agripine
-      Parle-moy de ce qui me regarde.
-Parle-moy du Heros pour qui j'eus tant d'amour,
-Flavie ; & laisse-là l'Empereur & la Cour.
-Du secours⁎ de Pison que dois-je me promettre ?
-L'as-tu vû ? viendra-t-il ? a-t-il reçû ma Lettre ?
-S'il sçavoit ma douleur il seroit arrivé.
-
--*who_flavie
 Je l'ay cherché, Madame, & ne l'ay point trouvé,
 Je m'en suis informée avec un soin extrême ;
 J'ay vû tous ses amis, j'ay vû son pere même,
@@ -2136,31 +2013,6 @@ On m'a dit que ce Prince avoit besoin de luy.
 En quelque lieu qu'il soit aucun n'en peut rien dire.
 On ignore...
 
--*who_agripine
-      Il suffit, souffre⁎ que je respire.
-Ce que je desirois, Flavie, est arrivé :
-Mes souhaits sont remplis : mon Amant est sauvé.
-Ciel, qui m'as écoûtée, & qui loin de l'orage
-As mis en seureté ton plus parfait ouvrage,
-Aux depens de ma vie acheve ton bonheur :
-Ainsi que de ses yeux bannis⁎ moy de son coeur.
-Helas ! si sa tendresse est égale à la mienne,
-Suivy de son amour, que crois-tu qu'il devienne ?
-Par les maux⁎ que je sens je comprens ses douleurs.
-Il en mourra. Qu'il vive, & qu'il s'engage⁎ ailleurs.
-Que d'un plus digne objet son ame possedée
-De mes foibles appas⁎ luy dérobe l'idée :
-Voila quels sont mes voeux : & pour estre exaucez
-Dieux ! à qui je les faits ils me coûtent assez.
-Tout grand qu'est mon malheur, il n'est pas sans remede,
-Flavie ; un peu de joye à ma douleur succede :
-Tu n'as point vû Pison ; mon coeur est r'assuré :
-Avec Germanicus Pison s'est retiré.
-Soit qu'il ait redouté la fureur de Tibere,
-Soit que son zele ardent⁎ n'ait songé à me plaire ;
-De ce Prince sans doute il a suivy les pas.
-
--*who_flavie
 Je voudrois qu'il fût vray, mais je ne le crois pas.
 Si j'ose m'expliquer, mon erreur est extrême,
 Ou bien Germanicus n'est point party luy-même.
@@ -2168,10 +2020,6 @@ Le soupçonner de fuir, c'estoit luy faire tort,
 Madame, il vous adore, & ne craint point la mort.
 S'il vous eût obéïe, il eût trahi sa flâme⁎.
 
--*who_agripine
-Ne me déguise rien. L'as-tu vû ?
-
--*who_flavie
       Non, Madame.
 Mais Albin est à Rome, & je l'ay rencontré.
 Aussi-tost qu'à mes yeux le hazard l'a montré,
@@ -2182,25 +2030,12 @@ J'iray voir la Princesse, est tout ce qu'il m'a dit.
 J'ay vû dans ses regards un desordre funeste ;
 Et je doute... Je crains de vous dire le reste.
 
--*who_agripine
-Parle, je te l'ordonne, ou cesse de me voir.
-Je crains plus de malheur, que je n'en puis sçavoir.
-Ne me dérobe pas la douceur de me plaindre.
-C'est croître ma douleur que la vouloir contraindre.
-Finis l'incertitude où flottent mes esprits.
-Germanicus est mort ?
-
--*who_flavie
       Je n'en ay rien appris,
 Madame. Mais enfin s'il faut parler sans feindre⁎,
 Pour un Prince si cher vous avez lieu de craindre.
 On a fait en tumulte assembler le Senat :
 On parle sourdement de quelque assassinat.
 
--*who_agripine
-Ah, Dieux !
-
--*who_flavie
       On ne dit point, tant on craint sa colere,
 A quelle illustre vie en a voulu Tibere ;
 Car à chaque forfait⁎ dont il s'ose flétrir⁎,
@@ -2213,82 +2048,53 @@ Si pour Germanicus Rome craint quelque chose,
 Ce qu'il a de merite⁎ en est la seule cause.
 Jusqu'icy cependant on ignore son sort.
 
--*who_agripine
-On l'ignore ! Dis tout. Germanicus est mort.
-C'est me nier en vain ce qu'il faut que je sçache :
-Jamais de ses pareils le trépas⁎ ne se cache :
-L'Univers, dont leur bras fut toûjours le soûtien⁎,
-Pour douter de leur sort les observe trop bien :
-Par tout où les conduit l'ardeur⁎ qui les seconde⁎,
-Ils attachent sur eux les yeux de tout le monde ;
-Et bien-tost dans ce lieu le Senat desolé
-M'apprendra par ses pleurs, si l'on s'est immolé⁎
-Un Heros qui n'aguere⁎ idolâtré dans Rome,
-Entre les Dieux & luy ne voyoit aucun homme.
-Me l'apprendra ! que dis-je ? en doutay-je ? non, non,
-Les crimes de Tibere ont fait tout son renom.
-Depuis qu'à ses desirs les destins sont propices,
-Il ne s'est signalé que par des injustices.
-Le lâche aura dans l'ombre, au gré de ses souhaits,
-Par le plus noir de tous couronné ses forfaits⁎.
-Il aura... Quel soupçon dans mon coeur vient de naître ?
-Seroit-il vray, grands Dieux ! que Pison fût un traître ?
-Luy de qui tant de fois le zele peu commun...
-Il m'aime, il l'a fait voir ; n'importe c'en est un.
-Pour vanger son amour que sa rage surmonte,
-Il a fait ce grand crime, & se cache de honte :
-Aux fureurs d'un Tiran son desespoir s'est joint.
-Je ne m'étonne plus s'il ne se montre point :
-Il me craint. Va méchant ta crainte est inutile :
-A qui veut l'imiter Cesar offre un azile⁎ ;
-Et tu peux hautement⁎ pretendre au Consulat,
-Aprés l'heureux succez d'un si noir attentat.
-Flavie, as-tu compris la grandeur de ma peine ?
-
--*who_flavie
 Albin de vostre sort va vous rendre certaine,
 Il vient.
 
-**** *book_ *id_V03 *act_V *date_1694 *creator_boursault 
 
--*who_agripine
-      Hé bien, Albin, ce que j'aimois est mort ?
-Germanicus...
+**** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *date_1694 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_albin
 
--*who_albin
+Quoy ! me chasser, Madame, avec un si grand soin.
+O Ciel !
+
+      Helas ! il suffit de le plaindre.
+D'un Amant si soumis vous n'avez rien à craindre.
+Quoique vous l'arrachiez à l'espoir d'estre à vous,
+D'une main qu'il adore il respecte les coups.
+Mais ne l'aimez-vous plus ? sa disgrace⁎ imprevuë...
+
+Madame, il va paroistre, il le verra luy-même.
+Son amour vous l'ameine , il marche sur mes pas.
+
+      A sa flâme⁎ épargnez ce supplice :
+Exiler⁎ sa douleur, c'est en estre complice.
+Il ne s'oubliera⁎ point à vostre auguste aspect :
+Cet Amant qui perd tout ne perd pas le respect⁎.
+Il vous aime, & vous perd : Sa gloire est sans seconde
+S'il en coûte une larme aux plus beaux yeux du Monde :
+Et si lors qu'on l'arrache à de si doux liens⁎,
+Vous poussez des soûpirs qui rencontrent les siens,
+Madame, encor un coup, permettez qu'il vous voye ;
+Endormez sa douleur par une ombre de joye ;
+A le voir autrefois vos beaux yeux se sont plûs,
+Vous l'aimiez.
+
+Voyez-le donc : ce bien⁎ est le seul qu'il implore,
+Au nom d'un peu d'amour, s'il vous en reste encore ;
+Et de peur de sa mort qui suivroit vos refus,
+Au nom de la pitié, si vous ne l'aimez plus.
+
+Ouy, Madame.
+
       Pison a terminé son sort,
 Madame.
 
--*who_agripine
-      Le perfide ! Et tu ne peux me dire
-En quel endroit fatal l'assassin se retire ?
-J'irois, malgré Cesar qui se fait son appuy⁎,
-Exprimer dans son sang l'horreur que j'ay pour luy.
-Aprés tous ses exploits quel opprobre⁎ pour Rome
-De voir sous de tels coups expirer un tel homme !
-Ce trépas⁎ vû des Dieux ayant dû les toucher,
-Que ne le vangent-ils, s'ils n'ont pû l'empécher ?
-Albin, pour m'accabler satisfaits mon envie :
-Comment Germanicus a-t'il perdu la vie ?
-Le Perfide Pison osa-t'il l'attaquer ?
-De peur de m'attendrir tu n'oses t'expliquer.
-Parle ; je sçay sa mort, je puis sçavoir le reste.
-
--*who_albin
 Me preservent les Dieux d'un employ⁎ si funeste !
 Donnez moins de creance⁎ à des rapports confus.
 Germanicus respire, & Pison ne vit plus.
-
--*who_agripine
-Et Pison ne vit plus !
-
--*who_albin 
+ 
       Non, Madame.
 
--*who_agripine
-      Qu'entens-je ?
-
--*who_albin
 Germanicus le pleure, & peut-estre le vange.
 Pison en le servant a fini son destin.
 Je ne puis sans fremir en nommer l'assassin.
@@ -2337,10 +2143,6 @@ Il me permet de voir quel sujet⁎ le fait naître ;
 Et Pison, dont le sang crioit vengeance aux Dieux,
 Est le premier objet qui m'a frapé les yeux.
 
--*who_agripine
-Que je le plains, Albin, & que son sort me touche !
-
--*who_albin
 Je me suis à l'instant approché de sa bouche.
 Son coeur prest d'expirer luttoit contre la mort :
 Cependant à ma voix il m'a connu⁎ d'abord.
@@ -2389,97 +2191,3 @@ Il prepare avec joye un passage à son ame ;
 Et seur qu'en vous servant il va perdre le jour⁎,
 Prend les traits de la mort pour des traits de l'amour.
 
--*who_agripine
-Cher Pison, qui m'aimois d'une amitié si pure,
-Pardonne à mon orgueil ce qu'il t'a fait d'injure ;
-Et pour prix⁎ de tes soins⁎ dignes d'un autre sort
-Daigne accepter les pleurs que je donne à ta mort.
-
-**** *book_ *id_V04 *act_V *date_1694 *creator_boursault
-
--*who_agripine
-Ou venez-vous, Seigneur, & quelle est vostre envie ?
-L'infortuné Pison vient de perdre la vie :
-Des desseins⁎ de Cesar sa mort vous éclaircit⁎.
-Fuyez, Seigneur.
-
--*who_germanicus
-      Albin m'en a fait le recit,
-Madame, & le Senat par un ordre équitable,
-Pour vanger ce trépas⁎ fait chercher le coupable.
-Cesar qui de ce crime a lieu d'estre surpris...
-
--*who_agripine
-Cesar, Seigneur ! Albin vous a-t-il tout appris ?
-Vous a-t'il dit ? ... Cesar est surpris de ce crime !
-Que je vous plains, Seigneur, d'estre si magnanime.
-Tout ce que dit Cesar vous doit estre suspect.
-Prince, il est vostre Pere, & je perds le respect⁎ :
-Mais de sa cruauté vous avez connoissance.
-
--*who_drusus
-Epargnez-le, Madame, au moins en ma presence ;
-Et si quelque forfait⁎ vous le rend odieux,
-Souffrez⁎ que mon devoir en détourne mes yeux.
-L'assassin de Pison, puisqu'il s'est fait connoître,
-A l'aspect des tourmens se dédira⁎ peut-estre :
-Suspendez jusques-là vostre ressentiment ;
-Et des mains de Cesar recevez vostre Amant.
-Pour vous faire paroître une bonté de Pere
-Il me rend ma Princesse, & vous donne à mon frere :
-Pour vous en assurer il nous envoye icy.
-
--*who_agripine
-Il nous veut perdre tous, puisqu'il en use⁎ ainsi.
-Je le connois, Seigneur, ses bontez⁎ sont à craindre.
-
--*who_livie
-Ne craignez rien ; Cesar s'est expliqué sans feindre⁎.
-Nous sortons du Palais, où le peuple irrité
-Redemandoit mon frere, & s'estoit revolté :
-Il alloit s'échaper à quelque violence,
-S'il ne l'eût appaisé par sa seule presence.
-Cesar, qui de ce trouble a craint l'évenement⁎,
-S'est resolu sans peine à ce grand changement :
-Et ce qu'a fait Drusus en faveur de mon frere,
-A reparé sa faute, & calmé ma colere.
-
--*who_germanicus
-Je n'ay plus, ma Princesse, à combattre que vous.
-Cesar s'est declaré ; j'ay vaincu son couroux⁎ :
-Vous seule à mon bonheur pouvez estre contraire⁎ ;
-Vous seule...
-
--*who_agripine
-      Non, Seigneur, j'ay le coeur trop sincere :
-Je vous aime : ce mot vous répond de ma foy⁎ ;
-Et je me dois à vous si l'on me rend à moy.
-Mais l'Empereur...
-
--*who_germanicus
-      Madame, il est au Capitole ;
-C'est dans ce lieu si saint qu'il veut tenir parole :
-Le Senat l'accompagne ; & voicy le grand jour
-Qu'avec impatience attendoit nostre amour.
-Puisqu'à nous rendre heureux la fortune⁎ conspire⁎,
-Ne donnons pas au sort le temps de la dédire⁎ :
-Allons au Capitole où Cesar nous attend ;
-Et craignons les retours de son esprit flottant⁎.
-Vous, cependant, Albin, qui m'estes si fidele,
-Au pere de Pison allez offrir mon zele ;
-Parlez luy de son fils, & faites un effort,
-Pour marquer la douleur que me cause sa mort.
-
-**** *book_ *id_body-7 *date_1694 *creator_boursault
-
-Extrait du Privilege du Roy.
-
-Par Lettres Patentes du Roy, données à Paris le deuxiéme jour de Decembre 1690, Signé BOUCHER ; Il est permis au Sieur BOURSAULT, de faire imprimer par tel Libraire ou Imprimeur qu'il voudra choisir, une Piece de sa composition intitulée Germanicus, Tragedie, pendant le temps & espace de huit années, à compter du jour qu'elle sera achevée d'imprimer :    Avec    défenses à tous Libraires, Imprimeurs & autres, d'imprimer, faire imprimer, vendre ni debiter ladite Tragedie sous quelque pretexte que ce soit, même d'impression étrangere sans le consentement dudit Exposant ou de ses ayant cause, à peine de confiscation des exemplaires contrefaits, de trois mille livres d'amende, & de tous dépens, dommages & interests, ainsi qu'il est plus au long porté par lesdites Lettres.
-
-Registré sur le Livre de la Communauté des Libraires & Imprimeurs de Paris, le 27 Mars 1691.
-
-Signé, AUBOUYN.
-
-Et ledit sieur Boursault a cedé au sieur J.Guignard le droit qu'il a au present Privilege, suivant l'accord fait entr'eux.
-
-Achevé d'imprimer le 14 Novembre 1693.

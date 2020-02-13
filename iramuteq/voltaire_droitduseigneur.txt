@@ -1,24 +1,10 @@
 
 
-**** *book_ *id_I01 *act_I *date_1749
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaillif
 
--*who_mathurin
-Écoutez-moi, monsieur le magister :
-Vous savez tout, du moins vous avez l'air
-De tout savoir ; car vous lisez sans cesse
-Dans l'almanach. D'où vient que ma maîtresse
-S'appelle Acanthe, et n'a point d'autre nom ?
-D'où vient cela ?
-
--*who_lebaillif
       Plaisante question !
 Eh ! Que t'importe ?
 
--*who_mathurin
-      Oh ! Cela me tourmente :
-J'ai mes raisons.
-
--*who_lebaillif
       Elle s'appelle Acanthe :
 C'est un beau nom ; il vient du grec Anthos,
 Que les Latins ont depuis nommé Flos.
@@ -31,23 +17,256 @@ Donne des noms aux enfants qu'on baptise.
 Acanthe a pris son nom de son parrain,
 Comme le tien te nomma Mathurin.
 
--*who_mathurin
-Acanthe vient du grec ?
-
--*who_lebaillif
       Chose certaine.
 
--*who_mathurin
-Et Mathurin, d'où vient-il ?
-
--*who_lebaillif
       Ah ! Qu'il vienne
 De Picardie ou d'Artois, un savant
 À ces noms-là s'arrête rarement.
 Tu n'as point de nom, toi ; ce n'est qu'aux belles
 D'en avoir un, car il faut parler d'elles.
 
--*who_mathurin
+Il l'est enfin, et de manière exacte :
+Chez ses parents je t'en dresserai l'acte ;
+Car si je suis le magister d'ici,
+Je suis baillif, je suis notaire aussi ;
+Et je suis prêt, dans mes trois caractères,
+À te servir dans toutes tes affaires.
+Que veux-tu ? Dis.
+
+      Ah ! Vous êtes pressant.
+
+C'est très bien dit : et quand donc ?
+
+      Oui ; mais Colette à votre sacrement,
+Monsieur Mathurin, peut mettre empêchement :
+Elle vous aime avec quelque tendresse,
+Vous et vos biens ; elle eut de vous promesse
+De l'épouser.
+
+Oui, j'entends bien : vous êtes trop hâtif ;
+Et pour signer vous devriez attendre
+Que monseigneur daignât ici se rendre
+Il vient demain ; ne faites rien sans lui.
+
+Comment ?
+
+      Mais il est fort honnête :
+Il est permis de parler tête à tête
+À sa sujette, afin de la tourner
+À son devoir, et de l'endoctriner.
+
+      Acanthe a trop d'honneur
+Pour te fâcher : c'est le droit du seigneur ;
+Et c'est à nous, en personnes discrètes,
+À nous soumettre aux lois qu'on nous a faites.
+
+      Ah ! Depuis bien longtemps
+C'est établi... ça vient du droit des gens.
+
+Oh ! Point du tout... c'est une invention
+Qu'on inventa pour les gens d'un grand nom.
+Car, vois-tu bien, autrefois les ancêtres
+De monseigneur s'étaient rendus les maîtres
+De nos aïeux, régnaient sur nos hameaux.
+
+Pas plus que toi. Les seigneurs du village
+Devaient avoir un droit de vasselage.
+
+C'est très bien dit, Mathurin : mais, je gage,
+Si tes valets te tenaient ce langage,
+Qu'un nerf-de-boeuf appliqué sur le dos
+Réfuterait puissamment leurs propos ;
+Tu les ferais rentrer vite à leur place.
+
+Si les petits à leurs femmes se tiennent,
+Compère, aux grands les nôtres appartiennent.
+Que ton esprit est bas, lourd et brutal !
+Tu n'as pas lu le code féodal.
+
+      Il tient son origine
+Du mot fides de la langue latine
+C'est comme qui dirait...
+
+Je suis baillif, ne t'en avise pas.
+Fides veut dire foi. Conviens-tu pas
+Que tu dois foi, que tu dois plein hommage
+À Monseigneur le marquis du Carrage ?
+Que tu lui dois dîmes, champart, argent ?
+Que tu lui dois...
+
+      Va, nous savons la loi ;
+Nous aurons bien ta femme ici sans toi.
+
+Ma robe, allons... du respect... vite, Philippe.
+C'est en baillif qu'il faut que je m'équipe :
+J'ai des clients qu'il faut expédier.
+Je suis baillif, je te fais mon huissier.
+Amène-moi Colette à l'audience.
+L'affaire est grave, et de grande importance.
+De matrimonio... chapitre deux.
+Empêchements... Ces cas-là sont véreux ;
+Il faut savoir de la jurisprudence.
+Approchez-vous... faites la révérence,
+Colette il faut d'abord dire son nom.
+
+      Bon.
+Colette... il faut dire ensuite son âge.
+N'avez-vous pas trente ans, et davantage ?
+
+Çà, vingt ans passés : ils sont bien révolus ?
+
+Vos oppositions seront notoires.
+Çà, vous avez des raisons péremptoires ?
+
+      Dites-les... Aurait-il... ?
+
+      Mais vous coupez le fil
+À tout moment de notre procédure.
+
+      Vous a-t-il fait injure ?
+
+Il vous a fait sans doute des promesses ?
+
+En légitime noeud... Quelle malice !
+Çà, produisez ses lettres en justice.
+
+      Mais du moins,
+Au lieu d'écrits, vous avez des témoins ?
+
+Non plus qu'eux tous je n'ai donc rien à dire.
+Votre complainte en droit ne peut suffire ;
+On ne produit ni témoins ni billets,
+On ne vous a rien fait, rien écrit.
+
+En abuser ! Mais vraiment c'est un cas
+Épouvantable, et vous n'en parliez pas !
+Instrumentons... Laquelle nous remontre
+Que Mathurin, en plus d'une rencontre,
+Se prévalant de sa simplicité,
+A méchamment contre icelle attenté ;
+Laquelle insiste, et répète dommages,
+Frais, intérêts, pour raison des outrages,
+Contre les lois, faits par le suborneur,
+Dit Mathurin, à son présent honneur.
+
+Que prétendez-vous donc ?
+
+Pour se venger il faut être outragée,
+Et par écrit coucher en mots exprès
+Quels attentats encontre vous sont faits ;
+Articuler les lieux, les circonstances,
+Quis, quid, ubi, les excès, insolences,
+Énormités sur quoi l'on jugera.
+
+Ce n'est pas tout ; il faut savoir la suite
+Que ces excès pourraient avoir produite.
+
+      Fort bien.
+Laquelle fille a dans ses procédures
+Perdu le sens, et nous dit des injures ;
+Et n'apportant nulle preuve du fait,
+L'empêchement est nul, de nul effet.
+Depuis une heure en vain je vous écoute :
+Vous n'avez rien prouvé, je vous déboute.
+
+      Vous.
+
+      Oui ; quand le plaintif
+Ne peut donner des raisons qui convainquent,
+On le déboute, et les adverses vainquent.
+Sur Mathurin n'ayant point action,
+Nous procédons à la conclusion.
+
+      Il l'aura ;
+De monseigneur le droit se maintiendra.
+Je suis baillif, et j'ai les droits du maître
+C'est devant moi qu'il faudra comparaître.
+Consolez-vous, sachez que vous aurez
+Affaire à moi quand vous vous marierez.
+
+      Oh ! je vous en défie.
+
+Nous venons tous avec conjouissance
+Nous présenter devant Votre Excellence,
+Comme les Grecs jadis devant Cyrus...
+Comme les Grecs...
+
+      Les Grecs de qui la proie...
+
+      La chose est constatée.
+Colette est folle, et je l'ai déboutée.
+
+Et votre droit, Monseigneur ; le temps presse.
+
+      Ils disent que sur l'heure
+Chacun s'en aille, et qu'Acanthe demeure.
+
+      Oui, sans doute.
+
+C'est la condition sine qua non.
+
+      Pas encore
+Il faut premier que monseigneur l'honore
+D'un entretien selon les nobles us
+En ce châtel de tous les temps reçus.
+
+      L'épousée
+Sur une chaise est sagement placée ;
+Puis Monseigneur, dans un fauteuil à bras,
+Vient vis-à-vis se camper à six pas.
+
+      C'est la règle.
+
+      Monseigneur avec grâce
+Fait un présent de bijoux, de rubans,
+Comme il lui plaît.
+
+Puis il lui parle ; il vous la considère ;
+Il examine à fond son caractère ;
+Puis il l'exhorte à la vertu.
+
+Expressément la loi veut qu'on demeure
+Pour l'exhorter l'espace d'un quart d'heure.
+
+      La loi porte
+Que s'il osait se tenir à la porte,
+Se présenter avant le temps marqué,
+Faire du bruit, se tenir pour choqué,
+S'émanciper à sottises pareilles,
+On fait couper sur-le-champ ses oreilles.
+
+Déniche ; il faut qu'un mari se retire :
+Point de raisons.
+
+Veux-tu partir ?
+
+Asseyez-vous ; attendez en ce lieu
+Un maître aimable et vertueux. Adieu.
+
+      Point de reproches,
+Mais du respect.
+
+C'est qu'il pense beaucoup.
+
+C'est pour ton bien.
+
+
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathurin
+
+Écoutez-moi, monsieur le magister :
+Vous savez tout, du moins vous avez l'air
+De tout savoir ; car vous lisez sans cesse
+Dans l'almanach. D'où vient que ma maîtresse
+S'appelle Acanthe, et n'a point d'autre nom ?
+D'où vient cela ?
+
+      Oh ! Cela me tourmente :
+J'ai mes raisons.
+
+Acanthe vient du grec ?
+
+Et Mathurin, d'où vient-il ?
+
 Je ne sais, mais ce nom grec me déplaît.
 Maître, je veux qu'on soit ce que l'on est :
 Ma maîtresse est villageoise, et je gage
@@ -67,43 +286,17 @@ Qui haut la main régente son vieux père,
 Ce mariage, en mon chef résolu,
 N'aurait été, je crois, jamais conclu.
 
--*who_lebaillif
-Il l'est enfin, et de manière exacte :
-Chez ses parents je t'en dresserai l'acte ;
-Car si je suis le magister d'ici,
-Je suis baillif, je suis notaire aussi ;
-Et je suis prêt, dans mes trois caractères,
-À te servir dans toutes tes affaires.
-Que veux-tu ? Dis.
-
--*who_mathurin
       Je veux qu'incessamment
 On me marie.
 
--*who_lebaillif
-      Ah ! Vous êtes pressant.
-
--*who_mathurin
 Et très pressé... Voyez-vous ? L'âge avance.
 J'ai dans ma ferme acquis beaucoup d'aisance ;
 J'ai travaillé vingt ans pour vivre heureux ;
 Mais l'être seul !... Il vaut mieux l'être deux.
 Il faut se marier avant qu'on meure.
 
--*who_lebaillif
-C'est très bien dit : et quand donc ?
-
--*who_mathurin
 Tout à l'heure.
 
--*who_lebaillif
-      Oui ; mais Colette à votre sacrement,
-Monsieur Mathurin, peut mettre empêchement :
-Elle vous aime avec quelque tendresse,
-Vous et vos biens ; elle eut de vous promesse
-De l'épouser.
-
--*who_mathurin
       Oh bien ! Je dépromets.
 Je veux pour moi m'arranger désormais ;
 Car je suis riche et coq de mon village.
@@ -114,19 +307,8 @@ Je n'aime plus Colette ; c'est Acanthe,
 Entendez-vous, qui seule ici me tente.
 Entendez-vous, magister trop rétif ?
 
--*who_lebaillif
-Oui, j'entends bien : vous êtes trop hâtif ;
-Et pour signer vous devriez attendre
-Que monseigneur daignât ici se rendre
-Il vient demain ; ne faites rien sans lui.
-
--*who_mathurin
 C'est pour cela que j'épouse aujourd'hui.
 
--*who_lebaillif
-Comment ?
-
--*who_mathurin
       Eh oui : ma tête est peu savante ;
 Mais on connaît la coutume impudente
 De nos seigneurs de ce canton picard.
@@ -137,49 +319,17 @@ J'aimerais mieux demeurer vieux garçon
 Que d'être époux avec cette façon.
 Le vilain droit !
 
--*who_lebaillif
-      Mais il est fort honnête :
-Il est permis de parler tête à tête
-À sa sujette, afin de la tourner
-À son devoir, et de l'endoctriner.
-
--*who_mathurin
 Je n'aime point qu'un jeune homme endoctrine
 Cette disciple à qui je me destine ;
 Cela me fâche.
 
--*who_lebaillif
-      Acanthe a trop d'honneur
-Pour te fâcher : c'est le droit du seigneur ;
-Et c'est à nous, en personnes discrètes,
-À nous soumettre aux lois qu'on nous a faites.
-
--*who_mathurin
 D'où vient ce droit ?
 
--*who_lebaillif
-      Ah ! Depuis bien longtemps
-C'est établi... ça vient du droit des gens.
-
--*who_mathurin
 Mais sur ce pied, dans toutes les familles,
 Chacun pourrait endoctriner les filles.
 
--*who_lebaillif
-Oh ! Point du tout... c'est une invention
-Qu'on inventa pour les gens d'un grand nom.
-Car, vois-tu bien, autrefois les ancêtres
-De monseigneur s'étaient rendus les maîtres
-De nos aïeux, régnaient sur nos hameaux.
-
--*who_mathurin
 Ouais ! Nos aïeux étaient donc de grands sots !
 
--*who_lebaillif
-Pas plus que toi. Les seigneurs du village
-Devaient avoir un droit de vasselage.
-
--*who_mathurin
 Pourquoi cela ? Sommes-nous pas pétris
 D'un seul limon, de lait comme eux nourris ?
 N'avons-nous pas comme eux des bras, des jambes,
@@ -199,14 +349,6 @@ Je n'en vois pas la raison : ça tourmente.
 Les Mathurins et les godelureaux,
 Et les baillifs, ma foi, sont tous égaux.
 
--*who_lebaillif
-C'est très bien dit, Mathurin : mais, je gage,
-Si tes valets te tenaient ce langage,
-Qu'un nerf-de-boeuf appliqué sur le dos
-Réfuterait puissamment leurs propos ;
-Tu les ferais rentrer vite à leur place.
-
--*who_mathurin
 Oui, vous avez raison : ça m'embarrasse ;
 Oui, ça pourrait me donner du souci.
 Mais, palsembleu, vous m'avouerez aussi
@@ -215,47 +357,18 @@ C'est pour lui seul, non pour ma seigneurie ;
 Qu'à sa moitié je ne prétends en rien ;
 Et que chacun doit jouir de son bien.
 
--*who_lebaillif
-Si les petits à leurs femmes se tiennent,
-Compère, aux grands les nôtres appartiennent.
-Que ton esprit est bas, lourd et brutal !
-Tu n'as pas lu le code féodal.
-
--*who_mathurin
 Féodal ! Qu'est-ce ?
 
--*who_lebaillif
-      Il tient son origine
-Du mot fides de la langue latine
-C'est comme qui dirait...
-
--*who_mathurin
       Sais-tu qu'avec
 Ton vieux latin et ton ennuyeux grec,
 Si tu me dis des sottises pareilles,
 Je pourrais bien frotter tes deux oreilles ?
 
--*who_lebaillif
-Je suis baillif, ne t'en avise pas.
-Fides veut dire foi. Conviens-tu pas
-Que tu dois foi, que tu dois plein hommage
-À Monseigneur le marquis du Carrage ?
-Que tu lui dois dîmes, champart, argent ?
-Que tu lui dois...
-
--*who_mathurin
       Baillif outrecuidant,
 Oui, je dois tout ; j'en enrage dans l'âme :
 Mais, palsandié, je ne dois point ma femme,
 Maudit baillif !
 
--*who_lebaillif
-      Va, nous savons la loi ;
-Nous aurons bien ta femme ici sans toi.
-
-**** *book_ *id_I02 *act_I *date_1749
-
--*who_mathurin
 Chien de baillif ! Que ton latin m'irrite !
 Ah ! Sans latin marions-nous bien vite ;
 Parlons au père, à la fille surtout ;
@@ -274,72 +387,21 @@ Moi, je le suis ; et, dès que je l'aurai,
 Tout aussitôt je vous la réduirai
 Car je le veux. Allons...
 
-**** *book_ *id_I03 *act_I *date_1749
-
--*who_colette
-      Je t'y prends, traître !
-
--*who_mathurin
 Allons.
 
--*who_colette
-      Tu feins de ne me pas connaître ?
-
--*who_mathurin
 Si fait... bonjour.
 
--*who_colette
-      Mathurin ! Mathurin !
-Tu causeras ici plus d'un chagrin.
-De tes bonjours je suis fort étonnée,
-Et tes bonjours valaient mieux l'autre année :
-C'était tantôt un bouquet de jasmin,
-Que tu venais me placer de ta main ;
-Puis des rubans pour orner ta bergère ;
-Tantôt des vers, que tu me faisais faire
-Par le baillif, qui n'y comprenait rien,
-Ni toi ni moi, mais tout allait fort bien :
-Tout est passé, lâche ! tu me délaisses.
-
--*who_mathurin
 Oui, mon enfant.
 
--*who_colette
-      Après tant de promesses,
-Tant de banquets acceptés et rendus,
-C'en est donc fait ? Je ne te plais donc plus ?
-
--*who_mathurin
 Non, mon enfant.
 
--*who_colette
-      Et pourquoi, misérable ?
-
--*who_mathurin
 Mais je t'aimais : je n'aime plus. Le diable
 À t'épouser me poussa vivement ;
 En sens contraire il me pousse à présent
 Il est le maître.
 
--*who_colette
-      Eh ! Va, va, ta Colette
-N'est plus si sotte, et sa raison s'est faite.
-Le diable est juste, et tu diras pourquoi
-Tu prends les airs de te moquer de moi.
-Pour avoir fait à Paris un voyage,
-Te voilà donc petit-maître au village ?
-Tu penses donc que le droit t'est acquis
-D'être en amour fripon comme un marquis ?
-C'est bien à toi d'avoir l'âme inconstante !
-Toi, Mathurin, me quitter pour Acanthe !
-
--*who_mathurin
 Oui, mon enfant.
 
--*who_colette
-      Et quelle est la raison ?
-
--*who_mathurin
 C'est que je suis le maître en ma maison
 Et pour quelqu'un de notre Picardie
 Tu m'as paru un peu trop dégourdie :
@@ -348,47 +410,13 @@ Je n'en veux point, car je suis né jaloux.
 Acanthe, enfin, aura la préférence :
 La chose est faite : adieu ; prends patience.
 
--*who_colette
-Adieu ! Non pas, traître ! je te suivrai,
-Et contre ton contrat je m'inscrirai.
-Mon père était procureur ; ma famille
-A du crédit, et j'en ai ; je suis fille,
-Et monseigneur donne protection,
-Quand il le faut, aux filles du canton ;
-Et devant lui nous ferons comparaître
-Un gros fermier qui fait le petit-maître,
-Fait l'inconstant, se mêle d'être un fat.
-Je te ferai rentrer dans ton état :
-Nous apprendrons à ta mine insolente
-À te moquer d'une pauvre innocente.
-
--*who_mathurin
 Cette innocente est dangereuse : il faut
 Voir le beau-père, et conclure au plus tôt.
 
-**** *book_ *id_I04 *act_I *date_1749
-
--*who_mathurin
 Allons, beau-père, allons bâcler la chose.
 
--*who_colette
-Vous ne bâclerez rien, non ; je m'oppose
-À ses contrats, à ses noces, à tout.
-
--*who_mathurin
 Quelle innocente !
 
--*who_colette
-      Oh ! Tu n'es pas au bout.
-Gardez-vous bien, s'il vous plaît, ma voisine,
-De vous laisser enjôler sur sa mine :
-Il me trompa quatorze mois entiers.
-Chassez cet homme.
-
--*who_acante
-      Hélas ! Très volontiers.
-
--*who_mathurin
 Très volontiers !... Tout ce train-là me lasse :
 Je suis têtu ; je veux que tout se passe
 À mon plaisir, suivant mes volontés,
@@ -404,30 +432,178 @@ De monseigneur un jour les descendants
 Feront leur cour aux miens ; et, quand j'y pense,
 Je me rengorge, et me carre d'avance.
 
--*who_dignant
-Carre-toi bien ; mais songe qu'à présent
-On ne peut rien sans le consentement
-De monseigneur : il est encor ton maître.
-
--*who_mathurin
 Et pourquoi ça ?
 
--*who_dignant
-      Mais c'est que ça doit être.
-À tous seigneurs, tous honneurs.
-
--*who_colette
-      Oui, vilain.
-Il t'en cuira, je t'en réponds.
-
--*who_mathurin
       Voisin,
 Notre baillif t'a donné sa folie.
 Eh ! Dis-moi donc, s'il prend en fantaisie
 À monseigneur d'avoir femme au logis,
 A-t-il besoin de prendre ton avis ?
 
--*who_dignant
+Tout le monde est contre moi ; ça m'irrite.
+
+Ma belle-mère, arrivez, venez vite.
+Vous n'êtes plus la maîtresse au logis,
+Chacun rebèque ; et je vous avertis
+Que si la chose en cet état demeure,
+Si je ne suis marié tout à l'heure,
+Je ne le serai point ; tout est fini,
+Tout est rompu.
+
+Ah ! C'est tout jeune, et ça n'a pas encore
+L'esprit formé : ça vient avec le temps.
+
+Madame Berthe, on ne distingue guère
+Ni vous ni moi : la belle a le maintien
+Un peu bien sec, mais cela n'y fait rien ;
+Et je réponds, dès qu'elle sera nôtre,
+Qu'en peu de temps je la rendrai tout autre.
+
+Ah ! Palsandié...
+
+      Ni rien pour moi non plus ?
+
+On me fiance.
+
+Foin du respect !
+
+Et moi, l'ami, je pense le contraire.
+
+      Est un sot qui diffère.
+Je ne veux point soumettre mon honneur,
+Si je le puis, à ce droit du seigneur.
+
+C'est très bien dit. Eh bien ! L'aurai-je enfin ?
+
+Oui-da, monsieur : la fiançaille est faite,
+Et nous prions que monseigneur permette
+Qu'on nous finisse.
+
+      Bon ! J'ai promis en l'air.
+
+Vous voyez bien qu'en effet elle m'aime.
+
+Quel chien de droit ! Ah ! Me voilà perdu.
+
+Que disent-ils ?
+
+Moi, que je sorte !
+
+      Mais doit-on ?...
+
+Je n'aime point cette cérémonie,
+Maître baillif ; c'est une tyrannie.
+
+Sine qua non ! Quel diable de jargon !
+Morbleu, ma femme est à moi.
+
+Ces maudits us, quels sont-ils ?
+
+Quoi ! Pas plus loin ?
+
+      Allons, passe.
+Et puis après ?
+
+      Passe pour des présents.
+
+      Fort bien ;
+Et quand finit, s'il vous plaît, l'entretien ?
+
+Un quart d'heure est beaucoup. Et le mari
+Peut-il au moins se tenir près d'ici
+Pour écouter sa femme ?
+
+La belle loi ! les beaux droits que voilà !
+Et ma moitié ne dit mot à cela ?
+
+      Ma femme heureusement
+N'a point d'esprit ; et son air innocent,
+Sa conversation ne plaira guère.
+
+      Adieu donc, ma très chère ;
+Songe surtout au pauvre Mathurin,
+Ton fiancé.
+
+Je crains, ma foi, que l'on ne me déboute :
+Entrons, entrons ; le quart d'heure est fini.
+
+Maître baillif, ces sièges sont bien proches :
+Est-ce encore un des droits ?
+
+      Mon Dieu ! nous en aurons ;
+Mais aurons-nous ma femme ?
+
+      Ouais ! Ceci me tourmente.
+
+Dis-moi, baillif, ce que cela figure.
+Notre seigneur est sorti bien sournois.
+Il me parlait poliment autrefois,
+J'aimais assez ses honnêtes manières ;
+Et même à coeur il prenait mes affaires.
+Je me marie : il s'en va tout pensif.
+
+      Maître Baillif,
+Je pense aussi. Ce « Nous verrons » m'assomme.
+Quand on est prêt, « Nous verrons » ! Ah ! Quel homme !
+Que je fis mal, ô ciel ! Quand je naquis
+Chez mes parents ; de naître en ce pays !
+J'aurais bien dû choisir quelque village
+Où j'aurais pu contracter mariage
+Tout uniment, comme cela se doit,
+À mon plaisir, sans qu'un autre eût le Droit
+De disposer de moi-même à mon âge,
+Et de fourrer son nez dans mon ménage.
+
+      Mon ami Baillival ;
+Pour notre bien on nous fait bien du mal.
+
+Ah ! Voici bien, pardienne, une autre histoire !
+
+      Pour le coup c'est le droit du seigneur :
+On m'a volé ma femme.
+
+Vous le savez comme moi.
+
+      Fort bien ; vous vous fâchez, mon maître ;
+Oh ! C'est à moi d'être fâché.
+
+      C'est un enlèvement.
+Savez-vous pas qu'à peine chez son père
+Elle arrivait pour finir notre affaire,
+Quatre coquins alertes, bien tournés,
+Effrontément me l'ont prise à mon nez,
+Tout en riant, et vite l'ont conduite
+Je ne sais où ?
+
+      Qui ? Moi ?
+
+      Tout va bien, tout va bien,
+Tout est en paix, la femme est retrouvée ;
+Votre parent nous l'avait enlevée :
+Il nous la rend ; c'est peut-être un peu tard.
+Chacun son bien ; tudieu ! Quel égrillard !
+
+Excepté moi ?
+
+      Ouais ! Tout ceci m'étonne.
+
+      Par ma foi, tous ces grands
+Sont dans le fond de bien vilaines gens.
+Droit du seigneur, femme que l'on enlève !
+Défense à moi de lui parler... Je crève.
+Mais je l'aurai, car je suis fiancé :
+Consolons-nous, tout le mal est passé.
+
+
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dignant
+
+Carre-toi bien ; mais songe qu'à présent
+On ne peut rien sans le consentement
+De monseigneur : il est encor ton maître.
+
+      Mais c'est que ça doit être.
+À tous seigneurs, tous honneurs.
+
 C'est différent ; je fus son domestique
 De père en fils dans cette terre antique.
 Je suis né pauvre, et je deviens cassé.
@@ -446,70 +622,14 @@ Sans monseigneur ; je vis de ses bontés,
 Je lui dois tout ; j'attends ses volontés :
 Sans son aveu nous ne pouvons rien faire.
 
--*who_acante
-Ah ! Croyez-vous qu'il le donne, mon père ?
-
--*who_colette
-Eh bien ! Fripon, tu crois que tu l'auras ?
-Moi, je te dis que tu ne l'auras pas.
-
--*who_mathurin
-Tout le monde est contre moi ; ça m'irrite.
-
-**** *book_ *id_I05 *act_I *date_1749
-
--*who_mathurin
-Ma belle-mère, arrivez, venez vite.
-Vous n'êtes plus la maîtresse au logis,
-Chacun rebèque ; et je vous avertis
-Que si la chose en cet état demeure,
-Si je ne suis marié tout à l'heure,
-Je ne le serai point ; tout est fini,
-Tout est rompu.
-
--*who_berthe
-      Qui m'a désobéi ?
-Qui contredit, s'il vous plaît, quand j'ordonne ?
-Serait-ce vous, mon mari ? Vous ?
-
--*who_dignant
       Personne,
 Nous n'avons garde ; et Mathurin veut bien
 Prendre ma fille à peu près avec rien :
 J'en suis content, et je dois me promettre
 Que monseigneur daignera le permettre.
 
--*who_berthe
-Allez, allez, épargnez-vous ce soin ;
-C'est de moi seule ici qu'on a besoin ;
-Et quand la chose une fois sera faite,
-Il faudra bien, ma foi, qu'il la permette.
-
--*who_dignant
 Mais...
 
--*who_berthe
-      Mais il faut suivre ce que je dis.
-Je ne veux plus souffrir dans mon logis,
-À mes dépens, une fille indolente,
-Qui ne fait rien, de rien ne se tourmente,
-Qui s'imagine avoir de la beauté
-Pour être en droit d'avoir de la fierté.
-Mademoiselle, avec sa froide mine,
-Ne daigne pas aider à la cuisine ;
-Elle se mire, ajuste son chignon,
-Fredonne un air en brodant un jupon,
-Ne parle point, et le soir, en cachette,
-Lit des romans que le baillif lui prête.
-Eh bien ! Voyez, elle ne répond rien.
-Je me repens de lui faire du bien.
-Elle est muette ainsi qu'une pécore.
-
--*who_mathurin
-Ah ! C'est tout jeune, et ça n'a pas encore
-L'esprit formé : ça vient avec le temps.
-
--*who_dignant
 Ma bonne, il faut quelques ménagements
 Pour une fille ; elles ont d'ordinaire
 De l'embarras dans cette grande affaire
@@ -517,61 +637,102 @@ C'est modestie et pudeur que cela.
 Comme elle, enfin, vous passâtes par là ;
 Je m'en souviens, vous étiez fort revêche.
 
--*who_berthe
-Eh ! Finissons. Allons, qu'on se dépêche :
-Quels sots propos ! Suivez-moi promptement
-Chez le baillif.
-
--*who_colette
-      N'en fais rien, mon enfant,
-
--*who_berthe
-Allons, Acanthe.
-
--*who_acante
-      Ô ciel ! Que dois-je faire ?
-
--*who_colette
-Refuse tout, laisse ta belle-mère,
-Viens avec moi.
-
--*who_berthe
-      Quoi donc ! Sans sourciller ?
-Mais parlez donc.
-
--*who_acante
-      À qui puis-je parler ?
-
--*who_dignant
 Chez le baillif, ma bonne, allons l'attendre,
 Sans la gêner, et laissons-lui reprendre
 Un peu d'haleine.
 
--*who_acante
+      Eh ! Qu'est-ce que j'entends ?
+C'est un courrier : c'est, je pense, un des gens
+De monseigneur ; oui, c'est le vieux Champagne.
+
+Oui... Vous serez de la cérémonie.
+Nous marions Acanthe.
+
+Quoi ! Ce seigneur, ce bon maître que j'aime,
+Je puis le voir encore avant ma mort ?
+S'il est ainsi, je bénirai mon sort.
+
+      Votre avis est sensé ;
+Et comme vous en secret j'ai pensé.
+
+Allez, d'Acanthe on n'aura rien à craindre ;
+Trop de vertu règne au fond de son coeur ;
+Et notre maître est tout rempli d'honneur.
+Quand près de vous il daignera se rendre,
+Quand sans témoin il pourra vous entendre,
+Remettez-lui ce paquet cacheté :
+C'est un devoir de votre piété ;
+N'y manquez pas... Ô fille toujours chère...
+Embrassez-moi.
+
+Ah ! Je le dois... de vous je me sépare,
+C'est pour jamais ; mais si le ciel avare,
+Qui m'a toujours refusé ses bienfaits,
+Pouvait sur vous les verser désormais,
+Si votre sort est digne de vos charmes,
+Ma chère enfant, je dois sécher mes larmes.
+
+      Tout mon coeur est pour elle,
+C'est mon devoir ; et j'ai dû pressentir
+Que par votre ordre on la faisait partir.
+
+      Oui.
+
+Puis-je en tremblant prendre ici la licence
+De vous parler ?
+
+      Au transport douloureux
+Où votre coeur devant moi s'abandonne,
+Je ne reconnais plus votre personne.
+Vous avez lu ce qu'on vous a porté,
+Ce gros paquet qu'on vous a présenté ?...
+
+Vous me faites frémir.
+
+Quoi ! Ce paquet n'est pas encore ouvert ?
+
+      Juste ciel ! Ce dernier coup me perd !
+
+      Hélas ! Vous deviez croire
+Que cet écrit était intéressant.
+
+      Ah ! mon maître !
+Qu'aura-t-on fait, et qu'allez-vous connaître ?
+
+Oui.
+
+      Cet étrange mystère
+En d'autres temps aurait de quoi vous plaire ;
+Mais à présent il devient bien affreux.
+
+J'en avais l'ordre, et j'ai dû vous prier
+En sa faveur.
+
+Ô cher objet, vous n'avez plus de père.
+
+      Non, je ne le suis pas.
+
+Il m'a parlé... Je ne sais quoi l'accable.
+Il est saisi d'un trouble inconcevable.
+
+
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acante
+
+      Hélas ! Très volontiers.
+
+Ah ! Croyez-vous qu'il le donne, mon père ?
+
+      Ô ciel ! Que dois-je faire ?
+
+      À qui puis-je parler ?
+
       Ah ! Croyez que mes sens
 Sont pénétrés de vos soins indulgents ;
 Croyez qu'en tout je distingue mon père.
 
--*who_mathurin
-Madame Berthe, on ne distingue guère
-Ni vous ni moi : la belle a le maintien
-Un peu bien sec, mais cela n'y fait rien ;
-Et je réponds, dès qu'elle sera nôtre,
-Qu'en peu de temps je la rendrai tout autre.
-
--*who_acante
 Ah ! Que je sens de trouble et de chagrin !
 Me faudra-t-il épouser Mathurin ?
 
-**** *book_ *id_I06 *act_I *date_1749
-
--*who_colette
-Ah ! N'en fais rien, crois-moi, ma chère amie.
-Du mariage aurais-tu tant d'envie ?
-Tu peux trouver beaucoup mieux... que sait-on ?
-Aimerais-tu ce méchant ?
-
--*who_acante
       Mon Dieu, non.
 Mais, vois-tu bien, je ne suis plus soufferte
 Dans le logis de la marâtre Berthe ;
@@ -583,53 +744,21 @@ Mais je ne sais comment m'y prendre, hélas !
 Que devenir ?... Dis-moi, ne sais-tu pas
 Si monseigneur doit venir dans ses terres ?
 
--*who_colette
-Nous l'attendons.
-
--*who_acante
       Bientôt ?
 
--*who_colette
-      Je ne sais guère
-Dans mon taudis les nouvelles de cour :
-Mais s'il revient, ce doit être un grand jour.
-Il met, dit-on, la paix dans les familles,
-Il rend justice, il a grand soin des filles.
-
--*who_acante
 Ah ! S'il pouvait me protéger ici !
 
--*who_colette
-Je prétends bien qu'il me protège aussi.
-
--*who_acante
 On dit qu'à Metz il a fait des merveilles,
 Qui dans l'armée ont très peu de pareilles ;
 Que Charles-Quint a loué sa valeur.
 
--*who_colette
-Qu'est-ce que Charles-Quint ?
-
--*who_acante
       Un empereur
 Qui nous a fait bien du mal.
 
--*who_colette
-      Et qu'importe ?
-Ne m'en faites pas, vous, et que je sorte
-À mon honneur du cas triste où je suis.
-
--*who_acante
 Comme le tien, mon coeur est plein d'ennuis.
 Non loin d'ici quelquefois on me mène
 Dans un château de la jeune Dormène...
 
--*who_colette
-Prés de nos bois ?... Ah le plaisant château !
-De Mathurin le logis est plus beau ;
-Et Mathurin est bien plus riche qu'elle.
-
--*who_acante
 Oui, je le sais ; mais cette demoiselle
 Est autre chose ; elle est de qualité ;
 On la respecte avec sa pauvreté.
@@ -637,24 +766,12 @@ Elle a chez elle une vieille personne
 Qu'on nomme Laure, et dont l'âme est si bonne !
 Laure est aussi d'une grande maison.
 
--*who_colette
-Qu'importe encor ?
-
--*who_acante
       Les gens d'un certain nom,
 J'ai remarqué cela, chère Colette,
 En savent plus, ont l'âme autrement faite,
 Ont de l'esprit, des sentiments plus grands,
 Meilleurs que nous.
 
--*who_colette
-      Oui, dès leurs premiers ans,
-Avec grand soin leur âme est façonnée ;
-La nôtre, hélas languit abandonnée.
-Comme on apprend à chanter, à danser,
-Les gens du monde apprennent à penser.
-
--*who_acante
 Cette Dormène et cette vieille dame
 Semblent donner quelque chose à mon âme ;
 Je crois en valoir mieux quand je les vois :
@@ -663,303 +780,42 @@ Et les bontés de Dormène et de Laure
 Me font haïr mille fois plus encore
 Madame Berthe et monsieur Mathurin.
 
--*who_colette
-Quitte-les tous.
-
--*who_acante
       Je n'ose ; mais enfin
 J'ai quelque espoir : que ton conseil m'assiste.
 Dis-moi d'abord, Colette, en quoi consiste
 Ce fameux droit du seigneur.
 
--*who_colette
-      Oh, ma foi !
-Va consulter de plus doctes que moi.
-Je ne suis point mariée ; et l'affaire,
-À ce qu'on dit, est un très grand mystère.
-Seconde-moi, fais que je vienne à bout
-D'être épousée, et je te dirai tout.
-
--*who_acante
 Ah ! J'y ferai mon possible.
 
--*who_colette
-      Ma mère
-Est très alerte, et conduit mon affaire ;
-Elle me fait, par un acte plaintif,
-Pousser mon droit par devant le baillif :
-J'aurai, dit-elle, un mari par justice.
-
--*who_acante
 Que de bon coeur j'en fais le sacrifice !
 Chère Colette, agissons bien à point,
 Toi, pour l'avoir ; moi, pour ne l'avoir point
 Tu gagneras assez à ce partage ;
 Mais en perdant je gagne davantage.
 
-**** *book_ *id_II01 *act_II *date_1749
-
--*who_lebaillif
-Ma robe, allons... du respect... vite, Philippe.
-C'est en baillif qu'il faut que je m'équipe :
-J'ai des clients qu'il faut expédier.
-Je suis baillif, je te fais mon huissier.
-Amène-moi Colette à l'audience.
-L'affaire est grave, et de grande importance.
-De matrimonio... chapitre deux.
-Empêchements... Ces cas-là sont véreux ;
-Il faut savoir de la jurisprudence.
-Approchez-vous... faites la révérence,
-Colette il faut d'abord dire son nom.
-
--*who_colette
-Vous l'avez dit, je suis Colette.
-
--*who_lebaillif
-      Bon.
-Colette... il faut dire ensuite son âge.
-N'avez-vous pas trente ans, et davantage ?
-
--*who_colette
-Fi donc, monsieur ! J'ai vingt ans, tout au plus.
-
--*who_lebaillif
-Çà, vingt ans passés : ils sont bien révolus ?
-
--*who_colette
-L'âge, monsieur, ne fait rien à la chose ;
-Et, jeune ou non, sachez que je m'oppose
-À tout contrat qu'un Mathurin sans foi
-Fera jamais avec d'autres que moi.
-
--*who_lebaillif
-Vos oppositions seront notoires.
-Çà, vous avez des raisons péremptoires ?
-
--*who_colette
-J'ai cent raisons.
-
--*who_lebaillif
-      Dites-les... Aurait-il... ?
-
--*who_colette
-Oh ! Oui, monsieur.
-
--*who_lebaillif
-      Mais vous coupez le fil
-À tout moment de notre procédure.
-
--*who_colette
-Pardon, monsieur.
-
--*who_lebaillif
-      Vous a-t-il fait injure ?
-
--*who_colette
-Oh tant ! J'aurais plus d'un mari sans lui ;
-Et me voilà pauvre fille aujourd'hui.
-
--*who_lebaillif
-Il vous a fait sans doute des promesses ?
-
--*who_colette
-Mille pour une, et pleines de tendresses.
-Il promettait, il jurait que dans peu
-Il me prendrait en légitime noeud.
-
--*who_lebaillif
-En légitime noeud... Quelle malice !
-Çà, produisez ses lettres en justice.
-
--*who_colette
-Je n'en ai point ; jamais il n'écrivait,
-Et je croyais tout ce qu'il me disait.
-Quand tous les jours on parle tête à tête
-À son amant, d'une manière honnête,
-Pourquoi s'écrire ? À quoi bon ?
-
--*who_lebaillif
-      Mais du moins,
-Au lieu d'écrits, vous avez des témoins ?
-
--*who_colette
-Moi ? Point du tout ; mon témoin c'est moi-même :
-Est-ce qu'on prend des témoins quand on s'aime ?
-Et puis, monsieur, pouvais-je deviner
-Que Mathurin osât m'abandonner ?
-Il me parlait d'amitié, de constance ;
-Je l'écoutais, et c'était en présence
-De mes moutons, dans son pré, dans le mien :
-Ils ont tout vu, mais ils ne disent rien.
-
--*who_lebaillif
-Non plus qu'eux tous je n'ai donc rien à dire.
-Votre complainte en droit ne peut suffire ;
-On ne produit ni témoins ni billets,
-On ne vous a rien fait, rien écrit.
-
--*who_colette
-      Mais
-Un Mathurin aura donc l'insolence
-Impunément d'abuser l'innocence ?
-
--*who_lebaillif
-En abuser ! Mais vraiment c'est un cas
-Épouvantable, et vous n'en parliez pas !
-Instrumentons... Laquelle nous remontre
-Que Mathurin, en plus d'une rencontre,
-Se prévalant de sa simplicité,
-A méchamment contre icelle attenté ;
-Laquelle insiste, et répète dommages,
-Frais, intérêts, pour raison des outrages,
-Contre les lois, faits par le suborneur,
-Dit Mathurin, à son présent honneur.
-
--*who_colette
-Rayez cela ; je ne veux pas qu'on dise
-Dans le pays une telle sottise.
-Mon honneur est très intact ; et, pour peu
-Qu'on l'eût blessé, l'on aurait vu beau jeu.
-
--*who_lebaillif
-Que prétendez-vous donc ?
-
--*who_colette
-      Être vengée.
-
--*who_lebaillif
-Pour se venger il faut être outragée,
-Et par écrit coucher en mots exprès
-Quels attentats encontre vous sont faits ;
-Articuler les lieux, les circonstances,
-Quis, quid, ubi, les excès, insolences,
-Énormités sur quoi l'on jugera.
-
--*who_colette
-Écrivez donc tout ce qu'il vous plaira.
-
--*who_lebaillif
-Ce n'est pas tout ; il faut savoir la suite
-Que ces excès pourraient avoir produite.
-
--*who_colette
-Comment, produite ? Eh ! Rien ne produit rien.
-Traître baillif, qu'entendez-vous ?
-
--*who_lebaillif
-      Fort bien.
-Laquelle fille a dans ses procédures
-Perdu le sens, et nous dit des injures ;
-Et n'apportant nulle preuve du fait,
-L'empêchement est nul, de nul effet.
-Depuis une heure en vain je vous écoute :
-Vous n'avez rien prouvé, je vous déboute.
-
--*who_colette
-Me débouter, moi ?
-
--*who_lebaillif
-      Vous.
-
--*who_colette
-      Maudit baillif !
-Je suis déboutée ?
-
--*who_lebaillif
-      Oui ; quand le plaintif
-Ne peut donner des raisons qui convainquent,
-On le déboute, et les adverses vainquent.
-Sur Mathurin n'ayant point action,
-Nous procédons à la conclusion.
-
--*who_colette
-Non, non, baillif ; vous aurez beau conclure,
-Instrumenter et signer, je vous jure
-Qu'il n'aura point son Acanthe.
-
--*who_lebaillif
-      Il l'aura ;
-De monseigneur le droit se maintiendra.
-Je suis baillif, et j'ai les droits du maître
-C'est devant moi qu'il faudra comparaître.
-Consolez-vous, sachez que vous aurez
-Affaire à moi quand vous vous marierez.
-
--*who_colette
-J'aimerais mieux le reste de ma vie
-Demeurer fille.
-
--*who_lebaillif
-      Oh ! je vous en défie.
-
-**** *book_ *id_II02 *act_II *date_1749
-
--*who_colette
-Ah ! Comment faire ? Où reprendre mon bien ?
-J'ai protesté ; cela ne sert de rien.
-On va signer : que je suis tourmentée !
-
-**** *book_ *id_II03 *act_II *date_1749
-
--*who_colette
-À mon secours ! Me voilà déboutée.
-
--*who_acante
 Déboutée !
 
--*who_colette
-      Oui ; l'ingrat vous est promis.
-On me déboute.
-
--*who_acante
       Hélas ! Je suis bien pis.
 De mes chagrins mon âme est oppressée ;
 Ma chaîne est prête, et je suis fiancée,
 Ou je vais l'être au moins dans un moment.
 
--*who_colette
-Ne hais-tu pas mon lâche ?
-
--*who_acante
       Honnêtement.
 Entre nous deux, juges-tu sur ma mine
 Qu'il soit bien doux d'être ici Mathurine ?
 
--*who_colette
-Non pas pour toi ; tu portes dans ton air
-Je ne sais quoi de brillant et de fier :
-À Mathurin cela ne convient guère,
-Et ce maraud était mieux mon affaire.
-
--*who_acante
 J'ai par malheur de trop hauts sentiments.
 Dis-moi, Colette, as-tu lu des romans ?
 
--*who_colette
-Moi ? non, jamais.
-
--*who_acante
       Le baillif Métaprose
 M'en a prêté... Mon Dieu, la belle chose !
 
--*who_colette
-En quoi si belle ?
-
--*who_acante
       On y voit des amants
 Si courageux, si tendres, si galants !
 
--*who_colette
-Oh ! Mathurin n'est pas comme eux.
-
--*who_acante
       Colette,
 Que les romans rendent l'âme inquiète !
 
--*who_colette
-Et d'où vient donc ?
-
--*who_acante
       Ils forment trop l'esprit :
 En les lisant le mien bientôt s'ouvrit ;
 À réfléchir que de nuits j'ai passées !
@@ -975,11 +831,6 @@ De me trouver au fond de mon village,
 Et de descendre, après ce vol divin,
 Des Amadis à maître Mathurin !
 
--*who_colette
-Votre propos me ravit ; et je jure
-Que j'ai déjà du goût pour la lecture.
-
--*who_acante
 T'en souvient-il autant qu'il m'en souvient,
 Que ce marquis, ce beau seigneur, qui tient
 Dans le pays le rang, l'état d'un prince,
@@ -994,20 +845,11 @@ C'était, Colette, une langue nouvelle,
 Supérieure et pourtant naturelle ;
 J'aurais voulu l'entendre tout le jour.
 
--*who_colette
-Tu l'entendras, sans doute, à son retour.
-
--*who_acante
 Ce jour, Colette, occupe ta mémoire,
 Où monseigneur, tout rayonnant de gloire,
 Dans nos forêts, suivi d'un peuple entier,
 Le fer en main, courait le sanglier ?
 
--*who_colette
-Oui, quelque idée et confuse et légère
-Peut m'en rester.
-
--*who_acante
       Je l'ai distincte et claire ;
 Je crois le voir avec cet air si grand,
 Sur ce cheval superbe et bondissant ;
@@ -1024,18 +866,9 @@ Tous les romans ont le don de me plaire
 Quand je les lis, je n'ai jamais d'ennui ;
 Il me paraît qu'ils me parlent de lui.
 
--*who_colette
-Ah ! Qu'un roman est beau !
-
--*who_acante
       C'est la peinture
 Du coeur humain, je crois, d'après nature.
 
--*who_colette
-D'après nature !... Entre nous deux, ton coeur
-N'aime-t-il pas en secret monseigneur ?
-
--*who_acante
 Oh ! Non, je n'ose, et je sens la distance
 Qu'entre nous deux met son rang, sa naissance.
 Crois-tu qu'on ait des sentiments si doux
@@ -1045,12 +878,6 @@ Non, je ne l'aime point... mais il est cause
 Que, l'ayant vu, je ne puis à présent
 En aimer d'autre... et c'est un grand tourment.
 
--*who_colette
-Mais de tous ceux qui le suivaient, ma bonne,
-Aucun n'a-t-il cajolé ta personne ?
-J'avouerai, moi, que l'on m'en a conté.
-
--*who_acante
 Un étourdi prit quelque liberté ;
 Il s'appelait le chevalier Germance :
 Son fier maintien, ses airs, son insolence,
@@ -1065,51 +892,20 @@ Et d'autres moeurs l'auraient pu rendre aimable :
 Ah ! La douceur est l'appât qui nous prend.
 Que monseigneur, ô ciel, est différent !
 
--*who_colette
-Ce chevalier n'était donc guère sage ?
-Çà, qui des deux te déplaît davantage,
-De Mathurin ou de cet effronté ?
-
--*who_acante
 Oh ! Mathurin : c'est sans difficulté.
 
--*who_colette
-Mais, monseigneur est bon il est le maître ;
-Pourrait-il pas te dépêtrer du traître !
-Tu me parais si belle
-
--*who_acante
       Hélas !
 
--*who_colette
-      Je crois,
-Que tu pourras mieux réussir que moi.
-
--*who_acante
 Est-il bien vrai qu'il arrive ?
 
--*who_colette
-      Sans doute,
-Car on le dit,
-
--*who_acante
       Penses-tu qu'il m'écoute ?
 
--*who_colette
-J'en suis certaine, et je retiens ma part
-De ses bontés.
-
--*who_acante
       Nous le verrons trop tard ;
 Il n'arrivera point ; on me fiance,
 Tout est conclu, je suis sans espérance.
 Berthe est terrible en sa mauvaise humeur ;
 Mathurin presse, et je meurs de douleur.
 
--*who_colette
-Eh ! Moque-toi de Berthe.
-
--*who_acante
       Hélas ! Dormène,
 Si je lui parle, entrera dans ma peine :
 Je veux prier Dormène de m'aider
@@ -1120,116 +916,15 @@ Par le malheur sensible à la pitié,
 Qui m'a souvent montré tant d'amitié,
 Me donnera ses conseils.
 
--*who_colette
-      À notre âge,
-Il faut de bons amis, rien n'est plus sage.
-Tu trembles.
-
--*who_acante
       Oui.
 
--*who_colette
-      Par ces lieux détournés
-Viens avec moi.
-
-**** *book_ *id_II04 *act_II *date_1749
-
--*who_berthe
-      Quel chemin vous prenez !
-Êtes-vous folle ? Et quand on doit se rendre
-À son devoir, faut-il se faire attendre ?
-Vous me glacez : votre mauvaise humeur
-Jusqu'à la fin vous sera reprochée.
-On vous marie, et vous êtes fâchée.
-Hom, l'idiote ! Allons, çà, Mathurin,
-Soyez le maître, et donnez-lui la main.
-
--*who_mathurin
-Ah ! Palsandié...
-
--*who_berthe
-      Voyez la malhonnête !
-Elle rechigne, et détourne la tête !
-
--*who_acante
 Pardon, mon père ; hélas ! Vous excusez
 Mon embarras, vous le favorisez,
 Et vous sentez quelle douleur amère
 Je dois souffrir en quittant un tel père.
 
--*who_berthe
-Et rien pour moi ?
-
--*who_mathurin
-      Ni rien pour moi non plus ?
-
--*who_colette
-Non, rien, méchant ; tu n'auras qu'un refus.
-
--*who_mathurin
-On me fiance.
-
--*who_colette
-      Et va, va, fiançailles
-Assez souvent ne sont pas épousailles.
-Laisse-moi faire.
-
--*who_dignant
-      Eh ! Qu'est-ce que j'entends ?
-C'est un courrier : c'est, je pense, un des gens
-De monseigneur ; oui, c'est le vieux Champagne.
-
-**** *book_ *id_II05 *act_II *date_1749
-
--*who_champagne
-Oui, nous avons terminé la campagne :
-Nous avons sauvé Metz, mon maître et moi ;
-Et nous aurons la paix. Vive le roi !
-Quelle indolence ! Et quel air de froideur !
-Vive mon maître !... Il a bien du courage ;
-Mais il est trop sérieux pour son âge ;
-J'en suis fâché. Je suis bien aise aussi,
-Mon vieux Dignant, de te trouver ici ;
-Tu me parais en grande compagnie.
-
--*who_dignant
-Oui... Vous serez de la cérémonie.
-Nous marions Acanthe.
-
--*who_champagne
-      Bon ! Tant mieux !
-Nous danserons, nous serons tous joyeux.
-Ta fille est belle... Ha ! ha ! C'est toi. Colette ;
-Ma chère enfant, ta fortune est donc faite ?
-Mathurin est ton mari ?
-
--*who_colette
-      Mon Dieu, non.
-
--*who_champagne
-Il fait fort mal.
-
--*who_colette
-      Le traître, le fripon,
-Croit dans l'instant prendre Acanthe pour femme.
-
--*who_champagne
-Il fait fort bien ; je réponds sur mon âme
-Que cet hymen à mon maître agréera,
-Et que la noce à ses frais se fera.
-
--*who_acante
 Comment ! Il vient ?
 
--*who_champagne
-      Peut-être ce soir même.
-
--*who_dignant
-Quoi ! Ce seigneur, ce bon maître que j'aime,
-Je puis le voir encore avant ma mort ?
-S'il est ainsi, je bénirai mon sort.
-
--*who_acante
 Puisqu'il revient, permettez, mon cher père,
 De vous prier, devant ma belle-mère,
 De vouloir bien ne rien précipiter
@@ -1237,720 +932,21 @@ Sans son aveu, sans l'oser consulter ;
 C'est un devoir dont il faut qu'on s'acquitte ;
 C'est un respect, sans doute, qu'il mérite.
 
--*who_mathurin
-Foin du respect !
-
--*who_dignant
-      Votre avis est sensé ;
-Et comme vous en secret j'ai pensé.
-
--*who_mathurin
-Et moi, l'ami, je pense le contraire.
-
--*who_colette
-Bon, tenez ferme.
-
--*who_mathurin
-      Est un sot qui diffère.
-Je ne veux point soumettre mon honneur,
-Si je le puis, à ce droit du seigneur.
-
--*who_berthe
-Eh ! Pourquoi tant s'effaroucher ? La chose
-Est bonne au fond, quoique le monde en cause,
-Et notre honneur ne peut s'en tourmenter.
-J'en fis l'épreuve ; et je puis protester
-Qu'à mon devoir quand je me fus rendue,
-On s'en alla dès l'instant qu'on m'eut vue.
-
--*who_colette
-Je le crois bien.
-
--*who_berthe
-      Cependant la raison
-Doit conseiller de fuir l'occasion.
-Hâtons la noce, et n'attendons personne.
-Préparez tout, mon mari, je l'ordonne.
-
--*who_mathurin
-C'est très bien dit. Eh bien ! L'aurai-je enfin ?
-
--*who_colette
-Non, tu ne l'auras pas, non, Mathurin.
-
--*who_champagne
-Oh ! Oh ! Nos gens viennent en diligence.
-Eh quoi ! Déjà le chevalier Gernance ?
-
-**** *book_ *id_II06 *act_II *date_1749
-
--*who_champagne
-Vous êtes fin, monsieur le chevalier ;
-Très à propos vous venez le premier.
-Dans tous vos faits votre beau talent brille ;
-Vous vous doutez qu'on marie une fille ;
-Acanthe est belle, au moins.
-
--*who_lechevalier
-      Eh ! Oui, vraiment,
-Je la connais ; j'apprends en arrivant
-Que Mathurin se donne l'insolence
-De s'appliquer ce bijou d'importance ;
-Mon bon destin nous a fait accourir
-Pour y mettre ordre : il ne faut pas souffrir
-Qu'un riche rustre ait les tendres prémices
-D'une beauté qui ferait les délices
-Des plus huppés et des plus délicats.
-Pour le marquis, il ne se hâte pas :
-C'est, je l'avoue, un grave personnage,
-Pressé de rien, bien compassé, bien sage,
-Et voyageant comme un ambassadeur.
-Parbleu, jouons un tour à sa lenteur :
-Tiens, il me vient une bonne pensée,
-C'est d'enlever presto la fiancée,
-De la conduire en quelque vieux château,
-Quelque masure.
-
--*who_champagne
-      Oui, le projet est beau.
-
--*who_lechevalier
-Un vieux château, vers la forêt prochaine,
-Tout délabré, que possède Dormène,
-Avec sa vieille...
-
--*who_champagne
-      Oui, c'est Laure, je crois.
-
--*who_lechevalier
-Oui.
-
--*who_champagne
-      Cette vieille était jeune autrefois ;
-Je m'en souviens, votre étourdi de père
-Eut avec elle une certaine affaire,
-Où chacun d'eux fit un mauvais marché.
-Ma foi, c'était un maître débauché
-Tout comme vous, buvant, aimant les belles,
-Les enlevant, et puis se moquant d'elles.
-Il mangea tout, et ne vous laissa rien.
-
--*who_lechevalier
-J'ai le marquis, et c'est avoir du bien ;
-Sans nul souci je vis de ses largesses.
-Je n'aime point l'embarras des richesses :
-Est riche assez qui sait toujours jouir.
-Le premier bien, crois-moi, c'est le plaisir.
-
--*who_champagne
-Eh que ne prenez-vous cette Dormène ?
-Bien plus qu'Acanthe elle en vaudrait la peine ;
-Elle est très fraîche, elle est de qualité ;
-Cela convient à votre dignité :
-Laissez pour nous les filles du village.
-
--*who_lechevalier
-Vraiment Dormène est un très doux partage,
-C'est très bien dit. Je crois que j'eus un jour,
-S'il m'en souvient, pour elle un peu d'amour ;
-Mais, entre nous, elle sent trop sa dame ;
-On ne pourrait en faire que sa femme.
-Elle est bien pauvre, et je le suis aussi ;
-Et pour l'hymen j'ai fort peu de souci.
-Mon cher Champagne, il me faut une Acanthe ;
-Cette conquête est beaucoup plus plaisante :
-Oui, cette Acanthe aujourd'hui m'a piqué.
-Je me sentis, l'an passé, provoqué
-Par ses refus, par sa petite mine.
-J'aime à dompter cette pudeur mutine.
-J'ai deux coquins, qui font trois avec toi,
-Déterminés, alertes comme moi ;
-Nous tiendrons prêt à cent pas un carrosse,
-Et nous fondrons tous quatre sur la noce.
-Cela sera plaisant ; j'en ris déjà.
-
--*who_champagne
-Mais croyez-vous que monseigneur rira ?
-
--*who_lechevalier
-Il faudra bien qu'il rie, et que Dormène
-En rie encor, quoique prude et hautaine,
-Et je prétends que Laure en rie aussi.
-Je viens de voir, à cinq cents pas d'ici,
-Dormène et Laure, en très mince équipage,
-Qui s'en allaient vers le prochain village,
-Chez quelque vieille : il faut prendre ce temps.
-
--*who_champagne
-C'est bien pensé ; mais vos déportements
-Sont dangereux, je crois, pour ma personne.
-
--*who_lechevalier
-Bon ! L'on se fâche, on s'apaise, on pardonne.
-Tous les gens gais ont le don merveilleux
-De mettre en train tous les gens sérieux.
-
--*who_champagne
-Fort bien.
-
--*who_lechevalier
-      L'esprit le plus atrabilaire
-Est subjugué quand on cherche à lui plaire.
-On s'épouvante, on crie, on fuit d'abord,
-Et puis l'on soupe, et puis l'on est d'accord.
-
--*who_champagne
-On ne peut mieux ; mais votre belle Acanthe
-Est bien revêche.
-
--*who_lechevalier
-      Et c'est ce qui m'enchante.
-La résistance est un charme de plus ;
-Et j'aime assez une heure de refus.
-Comment souffrir la stupide innocence
-D'un sot tendron faisant la révérence,
-Baissant les yeux, muette à mon aspect,
-Et recevant mes faveurs par respect ?
-Mon cher Champagne, à mon dernier voyage,
-D'Acanthe ici j'éprouvai le courage.
-Va, sous mes lois je la ferai plier.
-Rentre pour moi dans ton premier métier,
-Sois mon trompette, et sonne les alarmes ;
-Point de quartier, marchons, alerte, aux armes,
-Vite.
-
--*who_champagne
-      Je crois que nous sommes trahis ;
-C'est du secours qui vient aux ennemis :
-J'entends grand bruit, c'est monseigneur.
-
--*who_lechevalier
-      N'importe.
-Sois prêt ce soir à me servir d'escorte.
-
-**** *book_ *id_III01 *act_III *date_1749
-
--*who_lemarquis
-Cher chevalier, que mon coeur est en paix !
-Que mes regards sont ici satisfaits !
-Que ce château qu'ont habité nos pères,
-Que ces forêts, ces plaines, me sont chères !
-Que je voudrais oublier pour toujours
-L'illusion, les manèges des cours !
-Tous ces grands riens, ces pompeuses chimères,
-Ces vanités, ces ombres passagères,
-Au fond du coeur laissent un vide affreux.
-C'est avec nous que nous sommes heureux.
-Dans ce grand monde, où chacun veut paraître,
-On est esclave, et chez moi je suis maître.
-Que je voudrais que vous eussiez mon goût !
-
--*who_lechevalier
-Eh ! Oui, l'on peut se réjouir partout,
-En garnison, à la cour, à la guerre,
-Longtemps en ville, et huit jours dans sa terre.
-
--*who_lemarquis
-Que vous et moi nous sommes différents !
-
--*who_lechevalier
-Nous changerons peut-être avec le temps.
-En attendant, vous savez qu'on apprête
-Pour ce jour même une très belle fête ;
-C'est une noce.
-
--*who_lemarquis
-      Oui, Mathurin vraiment
-Fait un beau choix, et mon consentement
-Est tout acquis à ce doux mariage ;
-L'époux est riche, et sa maîtresse est sage :
-C'est un bonheur bien digne de mes voeux,
-En arrivant, de faire deux heureux.
-
--*who_lechevalier
-Acanthe encore en peut faire un troisième.
-
--*who_lemarquis
-Je vous reconnais là, toujours vous-même.
-Mon cher parent, vous m'avez fait cent fois
-Trembler pour vous, par vos galants exploits.
-Tout peut passer dans des villes de guerre ;
-Mais nous devons l'exemple dans ma terre.
-
--*who_lechevalier
-L'exemple du plaisir, apparemment ?
-
--*who_lemarquis
-Au moins, mon cher, que ce soit prudemment ;
-Daignez en croire un parent qui vous aime.
-Si vous n'avez du respect pour vous-même,
-Quelque grand nom que vous puissiez porter,
-Vous ne pourrez vous faire respecter.
-Je ne suis pas difficile et sévère ;
-Mais, entre nous, songez que votre père,
-Pour avoir pris le train que vous prenez,
-Se vit au rang des plus infortunés,
-Perdit ses biens, languit dans la misère,
-Fit de douleur expirer votre mère,
-Et près d ici mourut assassiné.
-J'étais enfant ; son sort infortuné
-Fut à mon coeur une leçon terrible,
-Qui se grava dans mon âme sensible ;
-Utilement témoin de ses malheurs,
-Je m'instruisais en répandant des pleurs.
-Si, comme moi, cette fin déplorable
-Vous eût frappé, vous seriez raisonnable.
-
--*who_lechevalier
-Oui, je veux l'être un jour, c'est mon dessein ;
-J'y pense quelquefois ; mais c'est en vain ;
-Mon feu m'emporte.
-
--*who_lemarquis
-      Eh bien ! Je vous présage
-Que vous serez las du libertinage.
-
--*who_lechevalier
-Je le voudrais ; mais on fait comme on peut :
-Ma foi, n'est pas raisonnable qui veut.
-
--*who_lemarquis
-Vous vous trompez : de son coeur on est maître
-J'en fis l'épreuve : est sage qui veut l'être ;
-Et, croyez-moi, cette Acanthe, entre nous,
-Eut des attraits pour moi comme pour vous ;
-Mais ma raison ne pouvait me permettre
-Un fol amour qui m'allait compromettre ;
-Je rejetai ce désir passager,
-Dont la poursuite aurait pu m'affliger,
-Dont le succès eût perdu cette fille,
-Eût fait sa honte aux yeux de sa famille,
-Et l'eût privée à jamais d'un époux.
-
--*who_lechevalier
-Je ne suis pas si timide que vous ;
-La même pâte, (il faut que j'en convienne)
-N'a point formé votre branche et la mienne.
-Quoi ! Vous pensez être dans tous les temps
-Maître absolu de vos yeux, de vos sens ?
-
--*who_lemarquis
-Et pourquoi non ?
-
--*who_lechevalier
-      Très fort je vous respecte ;
-Mais la sagesse est tant soit peu suspecte
-Les plus prudents se laissent captiver,
-Et le vrai sage est encore à trouver.
-Craignez surtout le titre ridicule
-De philosophe.
-
--*who_lemarquis
-      Ô l'étrange scrupule !
-Ce noble nom, ce nom tant combattu,
-Que veut-il dire ? Amour de la vertu.
-Le fat en raille avec étourderie,
-Le sot le craint, le fripon le décrie ;
-L'homme de bien dédaigne les propos
-Des étourdis, des fripons, et des sots ;
-Et ce n'est pas sur les discours du monde
-Que le bonheur et la vertu se fonde.
-Écoutez-moi. Je suis las aujourd'hui
-Du train des cours où l'on vit pour autrui :
-Et j'ai pensé, pour vivre à la campagne,
-Pour être heureux, qu'il faut une compagne,
-J'ai le projet de m'établir ici,
-Et je voudrais vous marier aussi.
-
--*who_lechevalier
-Très humble serviteur.
-
--*who_lemarquis
-      Ma fantaisie
-N'est pas de prendre une jeune étourdie.
-
--*who_lechevalier
-L'étourderie a du bon.
-
--*who_lemarquis
-      Je voudrais
-Un esprit doux plus que de doux attraits.
-
--*who_lechevalier
-J'aimerais mieux le dernier.
-
--*who_lemarquis
-      La jeunesse,
-Les agréments, n'ont rien qui m'intéresse.
-
--*who_lechevalier
-Tant pis.
-
--*who_lemarquis
-      Je veux affermir ma maison
-Par un hymen qui soit tout de raison.
-
--*who_lechevalier
-Oui, tout d'ennui.
-
--*who_lemarquis
-      J'ai pensé que Dormène
-Serait très propre à former cette chaîne.
-
--*who_lechevalier
-Notre Dormène est bien pauvre.
-
--*who_lemarquis
-      Tant mieux.
-C'est un bonheur si pur, si précieux,
-De relever l'indigente noblesse,
-De préférer l'honneur à la richesse !
-C'est l'honneur seul qui chez nous doit former
-Tout notre sang ; lui seul doit animer
-Ce sang reçu de nos braves ancêtres,
-Qui dans les camps doit couler pour ses maîtres.
-
--*who_lechevalier
-Je pense ainsi : les Français libertins
-Sont gens d'honneur. Mais, dans vos beaux desseins,
-Vous avez donc, malgré votre réserve,
-Un peu d'amour ?
-
--*who_lemarquis
-      Qui, moi ? Dieu m'en préserve !
-Il faut savoir être maître chez soi ;
-Et si j'aimais, je recevrais la loi.
-Se marier par amour, c'est folie.
-
--*who_lechevalier
-Ma foi, marquis, votre philosophie
-Me paraît toute à rebours du bon sens ;
-Pour moi, je crois au pouvoir de nos sens ;
-Je les consulte en tout, et j'imagine
-Que tous ces gens si graves par la mine,
-Pleins de morale et de réflexions,
-Sont destinés aux grandes passions.
-Les étourdis esquivent l'esclavage,
-Mais un coup d'oeil peut subjuguer un sage.
-
--*who_lemarquis
-Soit, nous verrons.
-
--*who_lechevalier
-      Voici d'autres époux ;
-Voici la noce ; allons, égayons-nous.
-C'est Mathurin, c'est la gentille Acanthe,
-C'est le vieux père, et la mère, et la tante,
-C'est le baillif, Colette, et tout le bourg.
-
-**** *book_ *id_III02 *act_III *date_1749
-
--*who_lemarquis
-J'en suis touché. Bonjour, enfants, bonjour.
-
--*who_lebaillif
-Nous venons tous avec conjouissance
-Nous présenter devant Votre Excellence,
-Comme les Grecs jadis devant Cyrus...
-Comme les Grecs...
-
--*who_lemarquis
-      Les Grecs sont superflus.
-Je suis Picard je revois avec joie
-Tous mes vassaux.
-
--*who_lebaillif
-      Les Grecs de qui la proie...
-
--*who_lechevalier
-Ah ! finissez. Notre gros Mathurin,
-La belle Acanthe est votre proie enfin ?
-
--*who_mathurin
-Oui-da, monsieur : la fiançaille est faite,
-Et nous prions que monseigneur permette
-Qu'on nous finisse.
-
--*who_colette
-      Oh ! Tu ne l'auras pas ;
-Je te le dis, tu me demeureras.
-Oui, Monseigneur, vous me rendrez justice ;
-Vous ne souffrirez pas qu'il me trahisse ;
-Il m'a promis...
-
--*who_mathurin
-      Bon ! J'ai promis en l'air.
-
--*who_lemarquis
-Il faut, bailli, tirer la chose au clair.
-A-t-il promis ?
-
--*who_lebaillif
-      La chose est constatée.
-Colette est folle, et je l'ai déboutée.
-
--*who_colette
-Ça n'y fait rien, et Monseigneur saura
-Qu'on force Acanthe à ce beau marché-là,
-Qu'on la maltraite, et qu'on la violente,
-Pour épouser.
-
--*who_lemarquis
-      Est-il vrai, belle Acanthe ?
-
--*who_acante
 Je dois d'un père, avec raison chéri,
 Suivre les lois ; il me donne un mari.
 
--*who_mathurin
-Vous voyez bien qu'en effet elle m'aime.
-
--*who_lemarquis
-Sa réponse est d'une prudence extrême :
-Eh bien ! Chez moi la noce se fera.
-
--*who_lechevalier
-Bon, bon, tant mieux.
-
--*who_lemarquis
-      Votre père verra
-Que j'aime en lui la probité, le zèle,
-Et les travaux, d'un serviteur fidèle.
-Votre sagesse à mes yeux satisfaits
-Augmente encor le prix de vos attraits.
-Comptez, amis, qu'en faveur de la fille
-Je prendrai soin de toute la famille.
-
--*who_colette
-Et de moi donc ?
-
--*who_lemarquis
-      De vous, Colette, aussi.
-Cher chevalier, retirons-nous d'ici
-Ne troublons point leur naïve allégresse.
-
--*who_lebaillif
-Et votre droit, Monseigneur ; le temps presse.
-
--*who_mathurin
-Quel chien de droit ! Ah ! Me voilà perdu.
-
--*who_colette
-Va, tu verras.
-
--*who_berthe
-      Mathurin, que crains-tu ?
-
--*who_lemarquis
-Vous aurez soin, baillif, en homme sage,
-D'arranger tout suivant l'antique usage :
-D'un si beau droit je veux m'autoriser
-Avec décence, et n'en point abuser.
-
--*who_lechevalier
-Ah ! Quel Caton ! Mais mon Caton, je pense,
-La suit des yeux, et non sans complaisance.
-Mon cher cousin...
-
--*who_lemarquis
-      Eh bien ?
-
--*who_lechevalier
-      Gageons tous deux
-Que vous allez devenir amoureux.
-
--*who_lemarquis
-Moi, mon cousin !
-
--*who_lechevalier
-      Oui, vous.
-
--*who_lemarquis
-      L'extravagance !
-
--*who_lechevalier
-Vous le serez ; j'en ris déjà d'avance.
-Gageons, vous dis-je, une discrétion.
-
--*who_lemarquis
-Soit.
-
--*who_lechevalier
-      Vous perdrez.
-
--*who_lemarquis
-      Soyez bien sûr que non.
-
-**** *book_ *id_III03 *act_III *date_1749
-
--*who_mathurin
-Que disent-ils ?
-
--*who_lebaillif
-      Ils disent que sur l'heure
-Chacun s'en aille, et qu'Acanthe demeure.
-
--*who_mathurin
-Moi, que je sorte !
-
--*who_lebaillif
-      Oui, sans doute.
-
--*who_colette
-      Oui, fripon.
-Oh ! nous aimons la loi, nous.
-
--*who_mathurin
-      Mais doit-on ?...
-
--*who_berthe
-Eh quoi, benêt, te voilà bien à plaindre !
-
--*who_dignant
-Allez, d'Acanthe on n'aura rien à craindre ;
-Trop de vertu règne au fond de son coeur ;
-Et notre maître est tout rempli d'honneur.
-Quand près de vous il daignera se rendre,
-Quand sans témoin il pourra vous entendre,
-Remettez-lui ce paquet cacheté :
-C'est un devoir de votre piété ;
-N'y manquez pas... Ô fille toujours chère...
-Embrassez-moi.
-
--*who_acante
       Tous vos ordres, mon père,
 Seront suivis ; ils sont pour moi sacrés ;
 Je vous dois tout... D'où vient que vous pleurez ?
 
--*who_dignant
-Ah ! Je le dois... de vous je me sépare,
-C'est pour jamais ; mais si le ciel avare,
-Qui m'a toujours refusé ses bienfaits,
-Pouvait sur vous les verser désormais,
-Si votre sort est digne de vos charmes,
-Ma chère enfant, je dois sécher mes larmes.
-
--*who_berthe
-Marchons, marchons ; tous ces beaux compliments
-Sont pauvretés qui font perdre du temps.
-Venez, Colette.
-
--*who_colette
-      Adieu, ma chère amie.
-Je recommande à votre prudhommerie
-Mon Mathurin ; vengez-moi des ingrats.
-
--*who_acante
 Le coeur me bat... Que deviendrai-je ? Hélas !
 
-**** *book_ *id_III04 *act_III *date_1749
-
--*who_mathurin
-Je n'aime point cette cérémonie,
-Maître baillif ; c'est une tyrannie.
-
--*who_lebaillif
-C'est la condition sine qua non.
-
--*who_mathurin
-Sine qua non ! Quel diable de jargon !
-Morbleu, ma femme est à moi.
-
--*who_lebaillif
-      Pas encore
-Il faut premier que monseigneur l'honore
-D'un entretien selon les nobles us
-En ce châtel de tous les temps reçus.
-
--*who_mathurin
-Ces maudits us, quels sont-ils ?
-
--*who_lebaillif
-      L'épousée
-Sur une chaise est sagement placée ;
-Puis Monseigneur, dans un fauteuil à bras,
-Vient vis-à-vis se camper à six pas.
-
--*who_mathurin
-Quoi ! Pas plus loin ?
-
--*who_lebaillif
-      C'est la règle.
-
--*who_mathurin
-      Allons, passe.
-Et puis après ?
-
--*who_lebaillif
-      Monseigneur avec grâce
-Fait un présent de bijoux, de rubans,
-Comme il lui plaît.
-
--*who_mathurin
-      Passe pour des présents.
-
--*who_lebaillif
-Puis il lui parle ; il vous la considère ;
-Il examine à fond son caractère ;
-Puis il l'exhorte à la vertu.
-
--*who_mathurin
-      Fort bien ;
-Et quand finit, s'il vous plaît, l'entretien ?
-
--*who_lebaillif
-Expressément la loi veut qu'on demeure
-Pour l'exhorter l'espace d'un quart d'heure.
-
--*who_mathurin
-Un quart d'heure est beaucoup. Et le mari
-Peut-il au moins se tenir près d'ici
-Pour écouter sa femme ?
-
--*who_lebaillif
-      La loi porte
-Que s'il osait se tenir à la porte,
-Se présenter avant le temps marqué,
-Faire du bruit, se tenir pour choqué,
-S'émanciper à sottises pareilles,
-On fait couper sur-le-champ ses oreilles.
-
--*who_mathurin
-La belle loi ! les beaux droits que voilà !
-Et ma moitié ne dit mot à cela ?
-
--*who_acante
 Moi, j'obéis, et je n'ai rien à dire.
 
--*who_lebaillif
-Déniche ; il faut qu'un mari se retire :
-Point de raisons.
-
--*who_mathurin
-      Ma femme heureusement
-N'a point d'esprit ; et son air innocent,
-Sa conversation ne plaira guère.
-
--*who_lebaillif
-Veux-tu partir ?
-
--*who_mathurin
-      Adieu donc, ma très chère ;
-Songe surtout au pauvre Mathurin,
-Ton fiancé.
-
--*who_acante
       J'y songe avec chagrin.
 Quelle sera cette étrange entrevue ?
 La peur me prend ; je suis tout éperdue.
 
--*who_lebaillif
-Asseyez-vous ; attendez en ce lieu
-Un maître aimable et vertueux. Adieu.
-
-**** *book_ *id_III05 *act_III *date_1749
-
--*who_acante
 Il est aimable... Ah ! Je le sais, sans doute.
 Pourrai-je, hélas ! mériter qu'il m'écoute ?
 Entrera-t-il dans mes vrais intérêts,
@@ -1970,16 +966,6 @@ J'implorerai pour le fuir à mon tour ?...
 Où suis-je ?... On ouvre !... À peine j'envisage
 Celui qui vient... Je ne vois qu'un nuage.
 
-**** *book_ *id_III06 *act_III *date_1749
-
--*who_lemarquis
-Asseyez-vous. Lorsqu'ici je vous vois,
-C'est le plus beau, le plus cher de mes droits.
-J'ai commandé qu'on porte à votre père
-Les faibles dons qu'il convient de vous faire ;
-Ils paraîtront bien indignes de vous.
-
--*who_acante
 Trop de bontés se répandent sur nous ;
 J'en suis confuse, et ma reconnaissance
 N'a pas besoin de tant de bienfaisance :
@@ -1988,27 +974,10 @@ De vous prier de daigner recevoir
 Ces vieux papiers que mon père présente
 Très humblement.
 
--*who_lemarquis
-      Donnez-les, belle Acanthe,
-Je les lirai ; c'est sans doute un détail
-De mes forêts : ses soins et son travail
-M'ont toujours plu ; j'aurai de sa vieillesse
-Les plus grands soins comptez sur ma promesse.
-Mais est-il vrai qu'il vous donne un époux
-Qui, vous causant d'invincibles dégoûts,
-De votre hymen rend la chaîne odieuse ?
-J'en suis fâché... Vous deviez être heureuse.
-
--*who_acante
 Ah ! Je le suis un moment, Monseigneur,
 En vous parlant, en vous ouvrant mon coeur ;
 Mais tant d'audace est-elle ici permise ?
 
--*who_lemarquis
-Ne craignez rien, parlez avec franchise ;
-Tous vos secrets seront en sûreté.
-
--*who_acante
 Qui douterait de votre probité ?
 Pardonnez donc à ma plainte importune.
 Ce mariage aurait fait ma fortune,
@@ -2025,10 +994,6 @@ De mon esprit c'est une injuste erreur ;
 Je la combats, mais elle a l'avantage.
 En frémissant je fais ce mariage.
 
--*who_lemarquis
-Mais vous n'avez pas tort.
-
--*who_acante
       J'ose à genoux
 Vous demander, non pas un autre époux,
 Non d'autres noeuds : tous me seraient horribles ;
@@ -2036,22 +1001,6 @@ Mais que je puisse avoir des jours paisibles.
 Le premier bien serait votre bonté,
 Et le second de tous, la liberté.
 
--*who_lemarquis
-Eh ! Relevez-vous donc... Que tout m'étonne
-Dans vos desseins, et dans votre personne,
-Dans vos discours, si nobles, si touchants,
-Qui ne sont point le langage des champs !
-Je l'avouerai, vous ne paraissez faite
-Pour Mathurin ni pour cette retraite.
-D'où tenez-vous, dans ce séjour obscur,
-Un ton si noble, un langage si pur ?
-Partout on a de l'esprit ; c'est l'ouvrage
-De la nature, et c'est votre partage :
-Mais l'esprit seul, sans éducation,
-N'a jamais eu ni ce tour ni ce ton,
-Qui me surprend... je dis plus, qui m'enchante.
-
--*who_acante
 Ah ! Que pour moi votre âme est indulgente !
 Comme mon sort, mon esprit est borné.
 Moins on attend, plus on est étonné.
@@ -2062,23 +1011,8 @@ Formez en moi l'esprit, le sentiment ;
 Qui m'élevez, qui dans moi faites naître
 L'ambition d'imiter un tel maître.
 
--*who_lemarquis
-Je n'y tiens plus : son mérite inouï
-M'a plus encor pénétré qu'ébloui.
-Quoi ! Dans ces lieux la nature bizarre
-Aura voulu mettre une fleur si rare,
-Et le Destin veut ailleurs l'enterrer !
-Non, belle Acanthe, il vous faut demeurer.
-
--*who_acante
 Pour épouser Mathurin ?
 
--*who_lemarquis
-      Sa personne
-Mérite peu la femme qu'on lui donne,
-Je l'avouerai.
-
--*who_acante
       Mon père quelquefois
 Me conduisait tout auprès de vos bois,
 Chez une dame aimable et révérée,
@@ -2096,25 +1030,8 @@ En devant tout à vos généreux soins.
 Protégez-moi ; croyez qu'en ma retraite
 Je resterai toujours votre sujette.
 
--*who_lemarquis
-Tout me surprend. Dites-moi, s'il vous plaît,
-Celle qui prend à vous tant d'intérêt,
-Qui vous chérit, ayant su vous connaître,
-Serait-ce point Dormène ?
-
--*who_acante
       Oui.
 
--*who_lemarquis
-      Mais peut-être...
-Il est aisé d'ajuster tout cela.
-Oui... votre idée est très bonne... Oui, voilà
-Un vrai moyen de rompre avec décence
-Ce sot hymen, cette indigne alliance.
-J'ai des projets. En un mot, voulez-vous
-Près de Dormène un destin noble et doux ?
-
--*who_acante
 J'aimerais mieux la servir, servir Laure,
 Laure si bonne, et qu'à jamais j'honore,
 Manquer de tout, goûter dans leur séjour
@@ -2122,975 +1039,524 @@ Le seul bonheur de vous faire ma cour,
 Que d'accepter la richesse importune
 De tout mari qui ferait ma fortune.
 
--*who_lemarquis
-Acanthe, allez... Vous pénétrez mon coeur :
-Oui, vous pourrez, Acanthe, avec honneur
-Vivre auprès d'elle... et dans mon château même.
-
--*who_acante
 Auprès de vous ? Ah ! Ciel !
 
--*who_lemarquis
-      Elle vous aime ;
-Elle a raison... J'ai, vous dis-je, un projet :
-Mais je ne sais s'il aura son effet.
-Et cependant vous voilà fiancée,
-Et votre chaîne est déjà commencée ;
-La noce prête, et le contrat signé.
-Le ciel voulut que je fusse éloigné
-Lorsqu'en ces lieux on parait la victime.
-J'arrive tard, et je m'en fais un crime.
-
--*who_acante
 Quoi ! Vous daignez me plaindre ? Ah ! Qu'à mes yeux
 Mon mariage en est plus odieux !
 Qu'il le devient chaque instant davantage !
 
--*who_lemarquis
-Mais, après tout, puisque de l'esclavage...
-Avec décence on pourra vous tirer...
-
--*who_acante
 Ah ! Le voudriez-vous ?
 
--*who_lemarquis
-      J'ose espérer...
-Que vos parents, la raison, la loi même,
-Et plus encor votre mérite extrême...
-Oui, cet hymen est trop mal assorti.
-Mais le temps presse : il faut prendre un parti.
-Écoutez-moi...
-
--*who_acante
       Juste ciel ! si j'écoute !
 
-**** *book_ *id_III07 *act_III *date_1749
-
--*who_mathurin
-Je crains, ma foi, que l'on ne me déboute :
-Entrons, entrons ; le quart d'heure est fini.
-
--*who_acante
 Eh quoi ! Sitôt ?
 
--*who_lemarquis
-      Il est vrai, mon ami.
-
--*who_mathurin
-Maître baillif, ces sièges sont bien proches :
-Est-ce encore un des droits ?
-
--*who_lebaillif
-      Point de reproches,
-Mais du respect.
-
--*who_mathurin
-      Mon Dieu ! nous en aurons ;
-Mais aurons-nous ma femme ?
-
--*who_lemarquis
-      Nous verrons.
-Eh ?
-
--*who_ledomestique
-      Monseigneur ?
-
--*who_lemarquis
-      Que l'on ramène Acanthe
-Chez ses parents.
-
--*who_mathurin
-      Ouais ! Ceci me tourmente.
-
--*who_acante
 Ciel, prends pitié de mes secrets ennuis.
 
--*who_lemarquis
-Sortons, cachons le désordre où je suis.
-Ah ! Que j'ai peur de perdre la gageure !
+      À qui ?
 
-**** *book_ *id_III08 *act_III *date_1749
+      Le ciel en soit béni.
+Et depuis quand ?
 
--*who_mathurin
-Dis-moi, baillif, ce que cela figure.
-Notre seigneur est sorti bien sournois.
-Il me parlait poliment autrefois,
-J'aimais assez ses honnêtes manières ;
-Et même à coeur il prenait mes affaires.
-Je me marie : il s'en va tout pensif.
+Comment cela ?
 
--*who_lebaillif
-C'est qu'il pense beaucoup.
+Il l'est sans doute.
 
--*who_mathurin
-      Maître Baillif,
-Je pense aussi. Ce « Nous verrons » m'assomme.
-Quand on est prêt, « Nous verrons » ! Ah ! Quel homme !
-Que je fis mal, ô ciel ! Quand je naquis
-Chez mes parents ; de naître en ce pays !
-J'aurais bien dû choisir quelque village
-Où j'aurais pu contracter mariage
-Tout uniment, comme cela se doit,
-À mon plaisir, sans qu'un autre eût le Droit
-De disposer de moi-même à mon âge,
-Et de fourrer son nez dans mon ménage.
+Ma chère enfant, je suis fort satisfaite
+Que ta fortune ait été sitôt faite :
+Mon coeur ressent tout ton bonheur... Hélas !
+Elle est heureuse, et je ne le suis pas.
 
--*who_lebaillif
-C'est pour ton bien.
+Va, ces Seigneurs qui peuvent tout oser,
+N'enlèvent point, crois-moi, pour épouser.
+Pour nous, Colette, ils ont des fantaisies,
+Non de l'amour : leurs demandes hardies,
+Leurs procédés montrent avec éclat
+Tout le mépris qu'ils font de notre état.
+C'est le dédain qui me met en colère.
 
--*who_mathurin
-      Mon ami Baillival ;
-Pour notre bien on nous fait bien du mal.
+Mais Monseigneur le Marquis qu'a-t-il dit ?
 
-**** *book_ *id_IV01 *act_IV *date_1749
+      Hélas !
 
--*who_lemarquis
-Non, je ne perdrai point cette gageure...
-Amoureux ! moi ! quel conte ! ah ! je m'assure
-Que sur soi-même on garde un plein pouvoir :
-Pour être sage, on n'a qu'à le vouloir.
-Il est bien vrai qu'Acanthe est assez belle...
-Et de la grâce ! ah ! nul n'en a plus qu'elle...
-Et de l'esprit !... Quoi ! Dans le fond des bois !
-Pour avoir vu Dormène quelquefois,
-Que de progrès ! Qu'il faut peu de culture
-Pour seconder les dons de la nature !
-J'estime Acanthe : oui, je dois l'estimer ;
-Mais, grâce au ciel, je suis très loin d'aimer ;
-Ah ! Respirons. Voyons, sur toute chose,
-Quel plan de vie enfin je me propose...
-De ne dépendre en ces lieux que de moi,
-De n'en sortir que pour servir mon roi,
-De m'attacher par un sage hyménée
-Une compagne agréable et bien née,
-Pauvre de bien, mais riche de vertu,
-Dont la noblesse et le sort abattu
-À mes bienfaits doivent des jours prospères :
-Dormène seule a tous ces caractères ;
-Le ciel pour moi la réserve aujourd'hui.
-Allons la voir... d'abord écrivons-lui
-Un compliment... mais que puis-je lui dire ?
-Acanthe est là qui m'empêche d'écrire ;
-Oui, je la vois : comment la fuir ! Par où ?
-Qui se croit sage, ô ciel ! Est un grand fou.
-Achevons donc... Je me vaincrai sans doute.
-Holà ! Quelqu'un... Je sais bien qu'il en coûte.
+Du Chevalier je déteste l'amour.
 
-**** *book_ *id_IV02 *act_IV *date_1749
+Allons, fuyons.
 
--*who_lemarquis
-Tenez, portez cette lettre à l'instant.
+Osez-vous bien paraître en ma présence ?
 
--*who_ledomestique
-Où ?
+J'aimerais mieux qu'il daignât me parler.
+Ah ! Reste ici : ce ravisseur m'accable.
 
--*who_lemarquis
-      Chez Acanthe.
+Vous devez être en horreur à vous-même.
 
--*who_ledomestique
-      Acanthe ? Mais vraiment...
+Madame, à moi ! Quel nom vous me donnez !
+Je sais l'état ou mes parents sont nés.
 
--*who_lemarquis
-Je n'ai point dit Acanthe ; c'est Dormène
-À qui j'écris... On a bien de la peine
-Avec ses gens... Tout le monde en ces lieux
-Parle d'Acanthe ; et l'oreille et les yeux
-Sont remplis d'elle, et brouillent ma mémoire.
+Cessez, Monsieur : ce titre est un outrage :
+C'est s'avilir que d'oser recevoir
+Un faux honneur qu'on ne doit point avoir ;
+Je suis Acante, et mon nom doit suffire ;
+Il est sans tache.
 
-**** *book_ *id_IV03 *act_IV *date_1749
+Qui ? Moi Monsieur !
 
--*who_mathurin
-Ah ! Voici bien, pardienne, une autre histoire !
+Je ne sais pas quel destin vous anime ;
+Mais commencez par avoir mon estime.
 
--*who_lemarquis
-Quoi ?
+Je le désire, et me plais à vous croire;
+Vous êtes né pour connaître la gloire :
+Mais ménagez la mienne et me laissez.
 
--*who_mathurin
-      Pour le coup c'est le droit du seigneur :
-On m'a volé ma femme.
+Hélas ! Madame, une fille perdue,
+En rougissant, parait à votre vue ;
+Pourquoi faut-il, pour combler ma douleur,
+Que l'on me laisse avec mon ravisseur ?
+Et vous aussi, vous m'accablez, mon père,
+À ce méchant au lieu de me soustraire,
+Vous m'amenez vous-même dans ces lieux.
+Je l'y revois : mon maître fuit mes yeux.
+Mon père, au moins, c'est en vous que j'espère.
 
--*who_berthe
+Que dites-vous ?
+
+      Moi, Madame !
+
+Elle ?... Est-il vrai ?
+
+Ah ! Je succombe ; hélas : est-ce un bonheur ?
+
+      De Laure je suis fille !
+Et pourquoi donc faut-il que ma famille
+M'ait tant caché mon état et mon nom ?
+D'où peut venir ce fatal abandon ?
+D'où vient qu'enfin daignant me reconnaître
+Ma mère ici n'a point osé paraître ?
+Ah ! S'il est vrai que le sang nous unit,
+Sur ce mystère éclairez mon esprit.
+Parlez, Monsieur, et dissipez ma crainte.
+
+Laure, est ma mère, et je ne la vois pas !
+
+J'admire en tout ma fortune nouvelle.
+Quoi ! J'ai l'honneur d'être de la Maison
+De Monseigneur ?
+
+Abusez-vous de mon esprit crédule,
+Et voulez-vous me rendre ridicule ?
+Moi de son sang ! Ah ! S'il était ainsi,
+Il me l'eût dit : je le verrais ici.
+
+Ah ! Je le vois.
+
+Quel qu'il puisse être, il passe mes souhaits.
+Je dépendrai de vous plus que jamais.
+
+      Hé bien ! Mon Protecteur ?...
+
+Quoi ? Monsieur...
+
+      Je suis reconnaissante,
+Je suis confuse... Ah ! C'en est trop pour moi,
+Mais j'ai perdu plus que je ne reçois ;
+Et ce n'est pas la fortune que j'aime.
+Mon état change, et mon âme est la même ;
+Elle doit être à vous... Ah ! Permettez
+Que, le coeur plein de vos rares bontés,
+J'aille oublier ma première misère,
+J'aille pleurer dans le sein de ma mère.
+
+Vous partez.
+
+      La vérité, Madame.
+La vérité plaît à votre belle âme.
+
+      Hélas !...
+
+Ah ! Je tombe à vos pieds...
+
+
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berthe
+
+      Qui m'a désobéi ?
+Qui contredit, s'il vous plaît, quand j'ordonne ?
+Serait-ce vous, mon mari ? Vous ?
+
+Allez, allez, épargnez-vous ce soin ;
+C'est de moi seule ici qu'on a besoin ;
+Et quand la chose une fois sera faite,
+Il faudra bien, ma foi, qu'il la permette.
+
+      Mais il faut suivre ce que je dis.
+Je ne veux plus souffrir dans mon logis,
+À mes dépens, une fille indolente,
+Qui ne fait rien, de rien ne se tourmente,
+Qui s'imagine avoir de la beauté
+Pour être en droit d'avoir de la fierté.
+Mademoiselle, avec sa froide mine,
+Ne daigne pas aider à la cuisine ;
+Elle se mire, ajuste son chignon,
+Fredonne un air en brodant un jupon,
+Ne parle point, et le soir, en cachette,
+Lit des romans que le baillif lui prête.
+Eh bien ! Voyez, elle ne répond rien.
+Je me repens de lui faire du bien.
+Elle est muette ainsi qu'une pécore.
+
+Eh ! Finissons. Allons, qu'on se dépêche :
+Quels sots propos ! Suivez-moi promptement
+Chez le baillif.
+
+Allons, Acanthe.
+
+      Quoi donc ! Sans sourciller ?
+Mais parlez donc.
+
+      Quel chemin vous prenez !
+Êtes-vous folle ? Et quand on doit se rendre
+À son devoir, faut-il se faire attendre ?
+Vous me glacez : votre mauvaise humeur
+Jusqu'à la fin vous sera reprochée.
+On vous marie, et vous êtes fâchée.
+Hom, l'idiote ! Allons, çà, Mathurin,
+Soyez le maître, et donnez-lui la main.
+
+      Voyez la malhonnête !
+Elle rechigne, et détourne la tête !
+
+Et rien pour moi ?
+
+Eh ! Pourquoi tant s'effaroucher ? La chose
+Est bonne au fond, quoique le monde en cause,
+Et notre honneur ne peut s'en tourmenter.
+J'en fis l'épreuve ; et je puis protester
+Qu'à mon devoir quand je me fus rendue,
+On s'en alla dès l'instant qu'on m'eut vue.
+
+      Cependant la raison
+Doit conseiller de fuir l'occasion.
+Hâtons la noce, et n'attendons personne.
+Préparez tout, mon mari, je l'ordonne.
+
+      Mathurin, que crains-tu ?
+
+Eh quoi, benêt, te voilà bien à plaindre !
+
+Marchons, marchons ; tous ces beaux compliments
+Sont pauvretés qui font perdre du temps.
+Venez, Colette.
+
       Oui, votre honneur
 Sera honteux de cette vilenie ;
 Et je n'aurais pas cru cette infamie
 D'un grand seigneur si bon, si libéral.
 
--*who_lemarquis
-Comment ? Qu'est-il arrivé ?
-
--*who_berthe
       Bien du mal.
 
--*who_mathurin
-Vous le savez comme moi.
-
--*who_lemarquis
-      Parle, traître,
-Parle.
-
--*who_mathurin
-      Fort bien ; vous vous fâchez, mon maître ;
-Oh ! C'est à moi d'être fâché.
-
--*who_lemarquis
-      Comment ?
-Explique-toi.
-
--*who_mathurin
-      C'est un enlèvement.
-Savez-vous pas qu'à peine chez son père
-Elle arrivait pour finir notre affaire,
-Quatre coquins alertes, bien tournés,
-Effrontément me l'ont prise à mon nez,
-Tout en riant, et vite l'ont conduite
-Je ne sais où ?
-
--*who_lemarquis
-      Qu'on aille à leur poursuite...
-Holà ! Quelqu'un... ne perdez point de temps ;
-Allez, courez ; que mes gardes, mes gens,
-De tous côtés marchent en diligence.
-Volez, vous dis-je ; et s'il faut ma présence,
-J'irai moi-même.
-
--*who_berthe
       Il parle tout de bon ;
 Et l'on croirait, mon cher, à la façon
 Dont monseigneur regarde cette injure,
 Que c'est à lui qu'on a pris la future.
 
--*who_lemarquis
-Et vous son père, et vous qui l'aimiez tant,
-Vous qui perdez une si chère enfant,
-Un tel trésor, un coeur noble, un coeur tendre,
-Avez-vous pu souffrir, sans la défendre,
-Que de vos bras on osât l'arracher ?
-Un tel malheur semble peu vous toucher.
-Que devient donc l'amitié paternelle ?
-Vous m'étonnez.
-
--*who_dignant
-      Tout mon coeur est pour elle,
-C'est mon devoir ; et j'ai dû pressentir
-Que par votre ordre on la faisait partir.
-
--*who_lemarquis
-Par mon ordre ?
-
--*who_dignant
-      Oui.
-
--*who_lemarquis
-      Quelle injure nouvelle !
-Tous ces gens-ci perdent-ils la cervelle ?
-Allez-vous-en, laissez-moi, sortez tous.
-Ah ! S'il se peut, modérons mon courroux...
-Non ; vous, restez.
-
--*who_mathurin
-      Qui ? Moi ?
-
--*who_lemarquis
-      Non ; vous, vous dis-je.
-
-**** *book_ *id_IV04 *act_IV *date_1749
-
--*who_lemarquis
-Je vois d'où part l'attentat qui m'afflige.
-Le chevalier m'avait presque promis
-De se porter à des coups si hardis.
-Il croit au fond que cette gentillesse
-Est pardonnable au feu de sa jeunesse :
-Il ne sait pas combien je suis choqué.
-À quel excès ce fou-là m'a manqué !
-Jusqu'à quel point son procédé m'offense !
-Il déshonore, il trahit l'innocence ;
-Il perd Acanthe ; et pour percer mon coeur,
-Je n'ai passé que pour son ravisseur !
-Un étourdi, que la débauche anime,
-Me fait porter la peine de son crime :
-Voilà le prix de mon affection
-Pour un parent indigne de mon nom !
-Il est pétri des vices de son père ;
-Il a ses traits, ses moeurs, son caractère ;
-Il périra malheureux comme lui.
-Je le renonce, et je veux qu'aujourd'hui
-Il soit puni de tant d'extravagance.
-
--*who_dignant
-Puis-je en tremblant prendre ici la licence
-De vous parler ?
-
--*who_lemarquis
-      Sans doute, tu le peux :
-Parle-moi d'elle.
-
--*who_dignant
-      Au transport douloureux
-Où votre coeur devant moi s'abandonne,
-Je ne reconnais plus votre personne.
-Vous avez lu ce qu'on vous a porté,
-Ce gros paquet qu'on vous a présenté ?...
-
--*who_lemarquis
-Eh ! Mon ami, suis-je en état de lire ?
-
--*who_dignant
-Vous me faites frémir.
-
--*who_lemarquis
-      Que veux-tu dire ?
-
--*who_dignant
-Quoi ! Ce paquet n'est pas encore ouvert ?
-
--*who_lemarquis
-Non.
-
--*who_dignant
-      Juste ciel ! Ce dernier coup me perd !
-
--*who_lemarquis
-Comment ?... J'ai cru que c'était un mémoire
-De mes forêts.
-
--*who_dignant
-      Hélas ! Vous deviez croire
-Que cet écrit était intéressant.
-
--*who_lemarquis
-Eh ! Lisons vite... Une table à l'instant ;
-Approchez donc cette table.
-
--*who_dignant
-      Ah ! mon maître !
-Qu'aura-t-on fait, et qu'allez-vous connaître ?
-
--*who_lemarquis
-Mais ce paquet, qui n'est pas à mon nom,
-Est cacheté des sceaux de ma maison ?
-
--*who_dignant
-Oui.
-
--*who_lemarquis
-      Lisons donc.
-
--*who_dignant
-      Cet étrange mystère
-En d'autres temps aurait de quoi vous plaire ;
-Mais à présent il devient bien affreux.
-
--*who_lemarquis
-Je ne vois rien jusqu'ici que d'heureux.
-Je vois d'abord que le ciel la fit naître
-D'un sang illustre ; et cela devait être.
-Oui, plus je lis, plus je bénis les cieux.
-Quoi ! Laure a mis ce dépôt précieux
-Entre vos mains ! Quoi ! Laure est donc sa mère ?
-Mais pourquoi donc lui serviez-vous de père ?
-Indignement pourquoi la marier ?
-
--*who_dignant
-J'en avais l'ordre, et j'ai dû vous prier
-En sa faveur.
-
--*who_ledomestique
-      En ce moment Dormène
-Arrive ici, tremblante, hors d'haleine,
-Fondant en pleurs : elle veut vous parler.
-
--*who_lemarquis
-Ah ! C'est à moi de l'aller consoler.
-
-**** *book_ *id_IV05 *act_IV *date_1749
-
--*who_lemarquis
-Pardonnez-moi, j'allais chez vous, madame,
-Mettre à vos pieds le courroux qui m'enflamme.
-Acanthe... À peine encore entré chez moi,
-J'attendais peu l'honneur que je reçois...
-Une aventure assez désagréable...
-Me trouble un peu... Que Gernance est coupable !
-
--*who_dormene
-De tous mes biens il me reste l'honneur ;
-Et je ne doutais pas qu'un si grand coeur
-Ne respectât le malheur qui m'opprime,
-Et d'un parent ne détestât le crime.
-Je ne viens point vous demander raison
-De l'attentat commis dans ma maison...
-
--*who_lemarquis
-Comment ? Chez vous ?
-
--*who_dormene
-      C'est dans ma maison même
-Qu'il a conduit le triste objet qu'il aime.
-
--*who_lemarquis
-Le traître !
-
--*who_dormene
-      Il est plus criminel cent fois
-Qu'il ne croit l'être... Hélas ! Ma faible voix
-En vous parlant expire dans ma bouche.
-
--*who_lemarquis
-Votre douleur sensiblement me touche ;
-Daignez parler, et ne redoutez rien.
-
--*who_dormene
-Apprenez donc...
-
-**** *book_ *id_IV06 *act_IV *date_1749
-
--*who_mathurin
-      Tout va bien, tout va bien,
-Tout est en paix, la femme est retrouvée ;
-Votre parent nous l'avait enlevée :
-Il nous la rend ; c'est peut-être un peu tard.
-Chacun son bien ; tudieu ! Quel égrillard !
-
--*who_lemarquis
-Courez soudain recevoir votre fille ;
-Qu'elle demeure au sein de sa famille.
-Veillez sur elle ; ayez soin d'empêcher
-Qu'aucun mortel ose s'en approcher.
-
--*who_mathurin
-Excepté moi ?
-
--*who_lemarquis
-      Non ; l'ordre que je donne
-Est pour vous-même.
-
--*who_mathurin
-      Ouais ! Tout ceci m'étonne.
-
--*who_lemarquis
-Obéissez...
-
--*who_mathurin
-      Par ma foi, tous ces grands
-Sont dans le fond de bien vilaines gens.
-Droit du seigneur, femme que l'on enlève !
-Défense à moi de lui parler... Je crève.
-Mais je l'aurai, car je suis fiancé :
-Consolons-nous, tout le mal est passé.
-
--*who_lemarquis
-Elle revient ; mais l'injure cruelle
-Du chevalier retombera sur elle ;
-Voilà le monde ; et de tels attentats
-Faits à l'honneur ne se réparent pas.
-Eh bien ! Parlez, parlez ; daignez m'apprendre
-Ce que je brûle et que je crains d'entendre :
-Nous sommes seuls.
-
--*who_dormene
-      Il le faut donc, monsieur ?
-Apprenez donc le comble du malheur :
-C'est peu qu'Acanthe, en secret étant née
-De cette Laure, illustre infortunée,
-Soit sous vos yeux prête à se marier
-Indignement à ce riche fermier ;
-C'est peu qu'au poids de sa triste misère
-On ajoutât ce fardeau nécessaire ;
-Votre parent qui voulait l'enlever,
-Votre parent qui vient de nous prouver
-Combien il tient de son coupable père,
-Gernance enfin...
-
--*who_lemarquis
-      Gernance ?
-
--*who_dormene
-      Il est son frère.
-
--*who_lemarquis
-Quel coup horrible : ô ciel ! Qu'avez-vous dit ?
-
--*who_dormene
-Entre vos mains vous avez cet écrit,
-Qui montre assez ce que nous devons craindre :
-Lisez, voyez combien Laure est à plaindre.
-
--*who_lemarquis
-C'est ma parente ; et mon coeur est lié
-À tous ses maux que sent mon amitié.
-Elle mourra de l'affreuse aventure
-Qui sous ses yeux outrage la nature.
-
--*who_lemarquis
-Ah ! Qu'ai-je lu ! Que souvent nous voyons
-D'affreux secrets dans d'illustres maisons !
-De tant de coups mon âme est oppressée ;
-Je ne vois rien, je n'ai point de pensée.
-Ah ! Pour jamais il faut quitter ces lieux :
-Ils m'étaient chers, ils me sont odieux.
-Quel jour pour nous ! Quel parti dois-je prendre ?
-Le malheureux ose chez moi se rendre !
-Le voyez-vous ?
-
--*who_dormene
-      Ah ! Monsieur, je le vois,
-Et je frémis.
-
--*who_lemarquis
-      Il passe, il vient à moi.
-Daignez rentrer, madame, et que sa vue
-N'accroisse pas le chagrin qui vous tue ;
-C'est à moi seul de l'entendre ; et je crois
-Que ce sera pour la dernière fois.
-Sachons dompter le courroux qui m'anime.
-Il semble, ô ciel ! Qu'il connaisse son crime.
-Que dans ses yeux je lis d'égarement !
-Ah ! L'on n'est pas coupable impunément.
-Comme il rougit ! Comme il pâlit !... Le traître !
-À mes regards il tremble de paraître :
-C'est quelque chose.
-
-**** *book_ *id_IV07 *act_IV *date_1749
-
--*who_lechevalier
-      Ah ! monsieur.
-
--*who_lemarquis
-      Est-ce vous,
-Vous, malheureux ?
-
--*who_lechevalier
-      Je tombe à vos genoux.
-
--*who_lemarquis
-Qu'avez-vous fait ?
-
--*who_lechevalier
-      Une faute, une offense,
-Dont je ressens l'indigne extravagance,
-Qui pour jamais m'a servi de leçon,
-Et dont je viens vous demander pardon.
-
--*who_lemarquis
-Vous, des remords ! Vous ! Est-il bien possible ?
-
--*who_lechevalier
-Rien n'est plus vrai.
-
--*who_lemarquis
-      Votre faute est horrible
-Plus que vous ne pensez ; mais votre coeur
-Est-il sensible à mes soins, à l'honneur,
-À l'amitié ? Vous sentez-vous capable
-D'oser me faire un aveu véritable,
-Sans rien cacher ?
-
--*who_lechevalier
-      Comptez sur ma candeur :
-Je suis un libertin, mais point menteur ;
-Et mon esprit, que le trouble environne,
-Est trop ému pour abuser personne.
-
--*who_lemarquis
-Je prétends tout savoir.
-
--*who_lechevalier
-      Je vous dirai
-Que, de débauche et d'ardeur enivré,
-Plus que d'amour, j'avais fait la folie
-De dérober une fille jolie
-Au possesseur de ses jeunes appas,
-Qu'à mon avis il ne mérite pas.
-Je l'ai conduite à la forêt prochaine,
-Dans ce château de Laure et de Dormène
-C'est une faute, il est vrai, j'en conviens ;
-Mais j'étais fou, je ne pensais à rien.
-Cette Dormène, et Laure sa compagne,
-Étaient encor bien loin dans la campagne
-En étourdi je n'ai point perdu temps ;
-J'ai commencé par des propos galants.
-Je m'attendais aux communes alarmes,
-Aux cris perçants, à la colère, aux larmes ;
-Mais qu'ai-je vu ! la fermeté, l'honneur,
-L'air indigné, mais calme avec grandeur :
-Tout ce qui fait respecter l'innocence
-S'armait pour elle, et prenait sa défense.
-J'ai recouru, dans ces premiers moments,
-A l'art de plaire, aux égards séduisants,
-Aux doux propos, à cette déférence
-Qui fait souvent pardonner la licence ;
-Mais, pour réponse, Acanthe à deux genoux
-M'a conjuré de la rendre chez vous ;
-Et c'est alors que ses yeux moins sévères
-Ont répandu des pleurs involontaires.
-
--*who_lemarquis
-Que dites-vous ?
-
--*who_lechevalier
-      Elle voulait en vain
-Me les cacher de sa charmante main :
-Dans cet état, sa grâce attendrissante
-Enhardissait mon ardeur imprudente ;
-Et, tout honteux de ma stupidité,
-J'ai voulu prendre un peu de liberté.
-Ciel ! comme elle a tancé ma hardiesse !
-Oui, j'ai cru voir une chaste déesse
-Qui rejetait de son auguste autel
-L'impur encens qu'offrait un criminel.
-
--*who_lemarquis
-Ah ! Poursuivez.
-
--*who_lechevalier
-      Comment se peut-il faire
-Qu'ayant vécu presque dans la misère,
-Dans la bassesse, et dans l'obscurité,
-Elle ait cet air et cette dignité,
-Ces sentiments, cet esprit, ce langage,
-Je ne dis pas au-dessus du village,
-De son état, de son nom, de son sang,
-Mais convenable au plus illustre rang ?
-Non, il n'est point de mère respectable
-Qui, condamnant l'erreur d'un fils coupable,
-Le rappelât avec plus de bonté
-A la vertu dont il s'est écarté ;
-N'employant point l'aigreur et la colère,
-Fière et décente, et plus sage qu'austère.
-De vous surtout elle a parlé longtemps.
-
--*who_lemarquis
-De moi ?...
-
--*who_lechevalier
-      Montrant à mes égarements
-Votre vertu, qui devait, disait-elle,
-Être à jamais ma honte ou mon modèle.
-Tout interdit, plein d'un secret respect,
-Que je n'avais senti qu'à son aspect,
-Je suis honteux ; mes fureurs se captivent.
-Dans ce moment les deux dames arrivent ;
-Et, me voyant maître de leur logis,
-Avec Acanthe et deux ou trois bandits,
-D'un juste effroi leur âme s'est remplie
-La plus âgée en tombe évanouie.
-Acanthe en pleurs la presse dans ses bras
-Elle revient des portes du trépas ;
-Alors sur moi fixant sa triste vue,
-Elle retombe, et s'écrie éperdue :
-« Ah ! Je crois voir Gernance... c'est son fils,
-C'est lui... je meurs... » À ces mots je frémis ;
-Et la douleur, l'effroi de cette dame,
-Au même instant ont passé dans mon âme.
-Je tombe aux pieds de Dormène, et je sors,
-Confus, soumis, pénétré de remords.
-
--*who_lemarquis
-Ce repentir dont votre âme est saisie
-Charme mon coeur, et nous réconcilie.
-Tenez, prenez ce paquet important,
-Lisez-le seul, pesez-le mûrement
-Et si pour moi vous conservez, Gernance,
-Quelque amitié, quelque condescendance,
-Promettez-moi, lorsque Acanthe en ces lieux
-Pourra paraître à vos coupables yeux,
-D'avoir sur vous un assez grand empire
-Pour lui cacher ce que vous allez lire.
-
--*who_lechevalier
-Oui, je vous le promets, oui.
-
--*who_lemarquis
-      Vous verrez
-L'abîme affreux d'où vos pas sont tirés.
-
--*who_lechevalier
-Comment ?
-
--*who_lemarquis
-      Allez, vous tremblerez, vous dis-je.
-
-**** *book_ *id_IV08 *act_IV *date_1749
-
--*who_lemarquis
-Quel jour pour moi ? Tout m'étonne et m'afflige.
-La belle Acanthe est donc de ma maison !
-Mais sa naissance avait flétri son nom ;
-Son noble sang fut souillé par son père ;
-Rien n'est plus beau que le nom de la mère ;
-Mais ce beau nom a perdu tous ses droits
-Par un hymen que réprouvent nos lois.
-La triste Laure, ô pensée accablante !
-Fut criminelle en faisant naître Acanthe ;
-Je le sais trop, l'hymen fut condamné ;
-L'amant de Laure est mort assassiné.
-De maux cruels quel tissu lamentable !
-Acanthe, hélas ! N'en est pas moins aimable,
-Moins vertueuse ; et je sais que son coeur
-Est respectable au sein du déshonneur ;
-Il ennoblit la honte de ses pères ;
-Et cependant, ô préjugés sévères !
-Ô loi du monde ! Injuste et dure loi !
-Vous l'emportez...
-
-**** *book_ *id_IV09 *act_IV *date_1749
-
--*who_lemarquis
-      Madame, instruisez-moi ;
-Parlez, madame ; avez-vous vu son frère
-
--*who_dormene
-Oui, je l'ai vu ; sa douleur est sincère.
-Il est bien étourdi ; mais, entre nous,
-Son coeur est bon ; il est conduit par vous.
-
--*who_lemarquis
-Eh ! Mais Acanthe !
-
--*who_dormene
-      Elle ne peut connaître
-Jusqu'à présent le sang qui la fit naître.
-
--*who_lemarquis
-Quoi ! Sa naissance illégitime !...
-
--*who_dormene
-      Hélas !
-Il est trop vrai.
-
--*who_lemarquis
-      Non, elle ne l'est pas.
-
--*who_dormene
-Que dites-vous ?
-
--*who_lemarquis
-      Sa mère était sans crime ;
-Sa mère au moins crut l'hymen légitime ;
-On la trompa ; son destin fut affreux.
-Ah ! Quelquefois le ciel moins rigoureux
-Daigne approuver ce qu'un monde profane
-Sans connaissance avec fureur condamne.
-
--*who_dormene
-Laure n'est point coupable, et ses parents
-Se sont conduits avec elle en tyrans.
-
--*who_lemarquis
-Mais marier sa fille en un village !
-À ce beau sang faire un pareil outrage !
-
--*who_dormene
-Elle est sans biens ; l'âge, la pauvreté,
-Un long malheur abaisse la fierté.
-
--*who_lemarquis
-Elle est sans biens ! Votre noble courage
-La recueillit.
-
--*who_dormene
-      Sa misère partage
-Le peu que j'ai.
-
--*who_lemarquis
-      Vous trouvez le moyen,
-Ayant si peu, de faire encor du bien.
-Riches et grands, que le monde contemple,
-Imitez donc un si touchant exemple.
-Nous contentons à grands frais nos désirs ;
-Sachons goûter de plus nobles plaisirs.
-Quoi ! Pour aider l'amitié, la misère,
-Dormène a pu s'ôter le nécessaire ;
-Et vous n'osez donner le superflu !
-Ô juste ciel ! Qu'avez-vous résolu ?
-Que faire enfin ?
-
--*who_dormene
-      Vous êtes juste et sage.
-Votre famille a fait plus d'un outrage
-Au sang de Laure ; et ce sang généreux
-Fut par vous seuls jusqu'ici malheureux.
-
--*who_lemarquis
-Comment ? Comment ?
-
--*who_dormene
-      Le comte votre père,
-Homme inflexible en son humeur sévère,
-Opprima Laure, et fit par son crédit
-Casser l'hymen ; et c'est lui qui ravit
-À cette Acanthe, à cette infortunée,
-Les nobles droits du sang dont elle est née.
-
--*who_lemarquis
-Ah ! C'en est trop... Mon coeur est ulcéré.
-Oui, c'est un crime... Il sera réparé,
-Je vous le jure.
-
--*who_dormene
-      Et que voulez-vous faire ?
-
--*who_lemarquis
-Je veux...
-
--*who_dormene
-      Quoi donc ?
-
--*who_lemarquis
-      Mais... lui servir de père.
-
--*who_dormene
-Elle en est digne.
-
--*who_lemarquis
-      Oui... mais je ne dois pas
-Aller trop loin.
-
--*who_dormene
-      Comment, trop loin ?
-
--*who_lemarquis
-      Hélas !...
-Madame, un mot ; conseillez-moi de grâce ;
-Que feriez-vous, s'il vous plaît, à ma place ?
-
--*who_dormene
-En tous les temps je me ferais honneur
-De consulter votre esprit, votre coeur.
-
--*who_lemarquis
-Ah !...
-
--*who_dormene
-      Qu'avez-vous ?
-
--*who_lemarquis
-      Je n'ai rien... Mais, madame,
-En quel état est Acanthe ?
-
--*who_dormene
-      Son âme
-Est dans le trouble, et ses yeux dans les pleurs.
-
--*who_lemarquis
-Daignez m'aider à calmer ses douleurs.
-Allons, j'ai pris mon parti : je vous laisse ;
-Soyez ici souveraine maîtresse,
-Et pardonnez à mon esprit confus,
-Un peu chagrin, mais plein de vos vertus.
-
-**** *book_ *id_IV10 *act_IV *date_1749
-
--*who_dormene
-Dans cet état quel chagrin peut le mettre ?
-Qu'il est troublé ! J'en juge par sa lettre ;
-Un style assez confus, des mots rayés,
-De l'embarras, d'autres mots oubliés.
-J'ai lu pourtant le mot de mariage.
-Dans le pays il passe pour très sage.
-Il veut me voir, me parler, et ne dit
-Pas un seul mot sur tout ce qu'il m'écrit !
-Et pour Acanthe il paraît bien sensible !
-Quoi ! Voudrait-il ?... Cela n'est pas possible.
-Aurait-il eu d'abord quelque dessein
-Sur son parent ?... demandait-il ma main ?
-Le chevalier jadis m'a courtisée ;
-Mais qu'espérer de sa tête insensée ?
-L'amour encor n'est point connu de moi ;
-Je dus toujours en avoir de l'effroi ;
-Et le malheur de Laure est un exemple
-Qu'en frémissant tous les jours je contemple :
-Il m'avertit d'éviter tout lien ;
-Mais qu'il est triste, ô ciel ! De n'aimer rien ?
-
-**** *book_ *id_V01 *act_V *date_1749
-
--*who_lemarquis
-Faisons la paix, Chevalier, je confesse
-Que tout mortel est pétri de faiblesse,
-Que le sage est peu de chose ; entre nous,
-J'étais tout prêt de l'être moins que vous.
-
--*who_lechevalier
-Vous avez donc perdu votre gageure ?
-Vous aimez donc ?
-
--*who_lemarquis
-      Oh ! non , je vous le jure :
-Mais par l'hymen tout prêt de me lier,
-Je ne veux plus jamais me marier.
-
--*who_lechevalier
-Votre inconstance est étrange et soudaine.
-Passe pour moi : mais que dira Dormene ?
-N'a-t-elle pas certains mots par écrit,
-Où par hasard le mot d'hymen se lit .
-
--*who_lemarquis
-Il est trop vrai ; c'est-là ce qui me gêne.
-Je prétendais m'imposer cette chaîne ;
-Mais à la fin, m'étant bien consulté,
-Je n'ai de goût que pour la liberté.
-
--*who_lechevalier
-La liberté d'aimer ?
-
--*who_lemarquis
-      Eh ! bien, si j'aime,
-Je suis encor le maître de moi-même,
-Et je pourrai réparer tout le mal ;
-Je n'ai parlé d'hymen qu'en général,
-Sans m'engager, et sans me compromettre ;
-Car en effet si j'avais pu promettre,
-Je ne pourrais balancer un moment.
-À gens d'honneur promesses sont serment :
-Cher Chevalier, j'ai conçu dans ma tête
-Un beau dessein qui parait fort honnête,
-Pour me tirer d'un pas embarrassant ;
-Et tout le monde ici sera content.
-
--*who_lechevalier
-Vous moquez-vous ? Contenter tout le monde,
-Quelle folie !
-
--*who_lemarquis
-      En un mot si l'on fronde
-Mon changement, j'ose espérer au moins
-Faire approuver ma conduite et mes soins.
-Colette vient par mon ordre, on l'appelle ;
-Je vais l'entendre, et commencer par elle.
-
-**** *book_ *id_V02 *act_V *date_1749
-
--*who_lemarquis
-Venez, Colette.
-
--*who_colette
+
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+
+      Je t'y prends, traître !
+
+      Tu feins de ne me pas connaître ?
+
+      Mathurin ! Mathurin !
+Tu causeras ici plus d'un chagrin.
+De tes bonjours je suis fort étonnée,
+Et tes bonjours valaient mieux l'autre année :
+C'était tantôt un bouquet de jasmin,
+Que tu venais me placer de ta main ;
+Puis des rubans pour orner ta bergère ;
+Tantôt des vers, que tu me faisais faire
+Par le baillif, qui n'y comprenait rien,
+Ni toi ni moi, mais tout allait fort bien :
+Tout est passé, lâche ! tu me délaisses.
+
+      Après tant de promesses,
+Tant de banquets acceptés et rendus,
+C'en est donc fait ? Je ne te plais donc plus ?
+
+      Et pourquoi, misérable ?
+
+      Eh ! Va, va, ta Colette
+N'est plus si sotte, et sa raison s'est faite.
+Le diable est juste, et tu diras pourquoi
+Tu prends les airs de te moquer de moi.
+Pour avoir fait à Paris un voyage,
+Te voilà donc petit-maître au village ?
+Tu penses donc que le droit t'est acquis
+D'être en amour fripon comme un marquis ?
+C'est bien à toi d'avoir l'âme inconstante !
+Toi, Mathurin, me quitter pour Acanthe !
+
+      Et quelle est la raison ?
+
+Adieu ! Non pas, traître ! je te suivrai,
+Et contre ton contrat je m'inscrirai.
+Mon père était procureur ; ma famille
+A du crédit, et j'en ai ; je suis fille,
+Et monseigneur donne protection,
+Quand il le faut, aux filles du canton ;
+Et devant lui nous ferons comparaître
+Un gros fermier qui fait le petit-maître,
+Fait l'inconstant, se mêle d'être un fat.
+Je te ferai rentrer dans ton état :
+Nous apprendrons à ta mine insolente
+À te moquer d'une pauvre innocente.
+
+Vous ne bâclerez rien, non ; je m'oppose
+À ses contrats, à ses noces, à tout.
+
+      Oh ! Tu n'es pas au bout.
+Gardez-vous bien, s'il vous plaît, ma voisine,
+De vous laisser enjôler sur sa mine :
+Il me trompa quatorze mois entiers.
+Chassez cet homme.
+
+      Oui, vilain.
+Il t'en cuira, je t'en réponds.
+
+Eh bien ! Fripon, tu crois que tu l'auras ?
+Moi, je te dis que tu ne l'auras pas.
+
+      N'en fais rien, mon enfant,
+
+Refuse tout, laisse ta belle-mère,
+Viens avec moi.
+
+Ah ! N'en fais rien, crois-moi, ma chère amie.
+Du mariage aurais-tu tant d'envie ?
+Tu peux trouver beaucoup mieux... que sait-on ?
+Aimerais-tu ce méchant ?
+
+Nous l'attendons.
+
+      Je ne sais guère
+Dans mon taudis les nouvelles de cour :
+Mais s'il revient, ce doit être un grand jour.
+Il met, dit-on, la paix dans les familles,
+Il rend justice, il a grand soin des filles.
+
+Je prétends bien qu'il me protège aussi.
+
+Qu'est-ce que Charles-Quint ?
+
+      Et qu'importe ?
+Ne m'en faites pas, vous, et que je sorte
+À mon honneur du cas triste où je suis.
+
+Prés de nos bois ?... Ah le plaisant château !
+De Mathurin le logis est plus beau ;
+Et Mathurin est bien plus riche qu'elle.
+
+Qu'importe encor ?
+
+      Oui, dès leurs premiers ans,
+Avec grand soin leur âme est façonnée ;
+La nôtre, hélas languit abandonnée.
+Comme on apprend à chanter, à danser,
+Les gens du monde apprennent à penser.
+
+Quitte-les tous.
+
+      Oh, ma foi !
+Va consulter de plus doctes que moi.
+Je ne suis point mariée ; et l'affaire,
+À ce qu'on dit, est un très grand mystère.
+Seconde-moi, fais que je vienne à bout
+D'être épousée, et je te dirai tout.
+
+      Ma mère
+Est très alerte, et conduit mon affaire ;
+Elle me fait, par un acte plaintif,
+Pousser mon droit par devant le baillif :
+J'aurai, dit-elle, un mari par justice.
+
+Vous l'avez dit, je suis Colette.
+
+Fi donc, monsieur ! J'ai vingt ans, tout au plus.
+
+L'âge, monsieur, ne fait rien à la chose ;
+Et, jeune ou non, sachez que je m'oppose
+À tout contrat qu'un Mathurin sans foi
+Fera jamais avec d'autres que moi.
+
+J'ai cent raisons.
+
+Oh ! Oui, monsieur.
+
+Pardon, monsieur.
+
+Oh tant ! J'aurais plus d'un mari sans lui ;
+Et me voilà pauvre fille aujourd'hui.
+
+Mille pour une, et pleines de tendresses.
+Il promettait, il jurait que dans peu
+Il me prendrait en légitime noeud.
+
+Je n'en ai point ; jamais il n'écrivait,
+Et je croyais tout ce qu'il me disait.
+Quand tous les jours on parle tête à tête
+À son amant, d'une manière honnête,
+Pourquoi s'écrire ? À quoi bon ?
+
+Moi ? Point du tout ; mon témoin c'est moi-même :
+Est-ce qu'on prend des témoins quand on s'aime ?
+Et puis, monsieur, pouvais-je deviner
+Que Mathurin osât m'abandonner ?
+Il me parlait d'amitié, de constance ;
+Je l'écoutais, et c'était en présence
+De mes moutons, dans son pré, dans le mien :
+Ils ont tout vu, mais ils ne disent rien.
+
+      Mais
+Un Mathurin aura donc l'insolence
+Impunément d'abuser l'innocence ?
+
+Rayez cela ; je ne veux pas qu'on dise
+Dans le pays une telle sottise.
+Mon honneur est très intact ; et, pour peu
+Qu'on l'eût blessé, l'on aurait vu beau jeu.
+
+      Être vengée.
+
+Écrivez donc tout ce qu'il vous plaira.
+
+Comment, produite ? Eh ! Rien ne produit rien.
+Traître baillif, qu'entendez-vous ?
+
+Me débouter, moi ?
+
+      Maudit baillif !
+Je suis déboutée ?
+
+Non, non, baillif ; vous aurez beau conclure,
+Instrumenter et signer, je vous jure
+Qu'il n'aura point son Acanthe.
+
+J'aimerais mieux le reste de ma vie
+Demeurer fille.
+
+Ah ! Comment faire ? Où reprendre mon bien ?
+J'ai protesté ; cela ne sert de rien.
+On va signer : que je suis tourmentée !
+
+À mon secours ! Me voilà déboutée.
+
+      Oui ; l'ingrat vous est promis.
+On me déboute.
+
+Ne hais-tu pas mon lâche ?
+
+Non pas pour toi ; tu portes dans ton air
+Je ne sais quoi de brillant et de fier :
+À Mathurin cela ne convient guère,
+Et ce maraud était mieux mon affaire.
+
+Moi ? non, jamais.
+
+En quoi si belle ?
+
+Oh ! Mathurin n'est pas comme eux.
+
+Et d'où vient donc ?
+
+Votre propos me ravit ; et je jure
+Que j'ai déjà du goût pour la lecture.
+
+Tu l'entendras, sans doute, à son retour.
+
+Oui, quelque idée et confuse et légère
+Peut m'en rester.
+
+Ah ! Qu'un roman est beau !
+
+D'après nature !... Entre nous deux, ton coeur
+N'aime-t-il pas en secret monseigneur ?
+
+Mais de tous ceux qui le suivaient, ma bonne,
+Aucun n'a-t-il cajolé ta personne ?
+J'avouerai, moi, que l'on m'en a conté.
+
+Ce chevalier n'était donc guère sage ?
+Çà, qui des deux te déplaît davantage,
+De Mathurin ou de cet effronté ?
+
+Mais, monseigneur est bon il est le maître ;
+Pourrait-il pas te dépêtrer du traître !
+Tu me parais si belle
+
+      Je crois,
+Que tu pourras mieux réussir que moi.
+
+      Sans doute,
+Car on le dit,
+
+J'en suis certaine, et je retiens ma part
+De ses bontés.
+
+Eh ! Moque-toi de Berthe.
+
+      À notre âge,
+Il faut de bons amis, rien n'est plus sage.
+Tu trembles.
+
+      Par ces lieux détournés
+Viens avec moi.
+
+Non, rien, méchant ; tu n'auras qu'un refus.
+
+      Et va, va, fiançailles
+Assez souvent ne sont pas épousailles.
+Laisse-moi faire.
+
+      Mon Dieu, non.
+
+      Le traître, le fripon,
+Croit dans l'instant prendre Acanthe pour femme.
+
+Bon, tenez ferme.
+
+Je le crois bien.
+
+Non, tu ne l'auras pas, non, Mathurin.
+
+      Oh ! Tu ne l'auras pas ;
+Je te le dis, tu me demeureras.
+Oui, Monseigneur, vous me rendrez justice ;
+Vous ne souffrirez pas qu'il me trahisse ;
+Il m'a promis...
+
+Ça n'y fait rien, et Monseigneur saura
+Qu'on force Acanthe à ce beau marché-là,
+Qu'on la maltraite, et qu'on la violente,
+Pour épouser.
+
+Et de moi donc ?
+
+Va, tu verras.
+
+      Oui, fripon.
+Oh ! nous aimons la loi, nous.
+
+      Adieu, ma chère amie.
+Je recommande à votre prudhommerie
+Mon Mathurin ; vengez-moi des ingrats.
+
       Oh ! J'accours , Monseigneur,
 Preste en tout temps et toujours de grand coeur.
 
--*who_lemarquis
-Voulez-vous être heureuse ?
-
--*who_colette
       Oui, sur ma vie :
 N'en doutez pas, c'est ma plus forte envie.
 Que faut-il faire ?
 
--*who_lemarquis
-      En voici le moyen.
-Vous voudriez un époux et du bien ?
-
--*who_colette
 Oui, l'un et l'autre.
 
--*who_lemarquis
-      Eh ! Bien donc, je vous donne
-Trois mille francs pour la dot, et j'ordonne
-Que Mathurin vous épouse aujourd'hui.
-
--*who_colette
 Ou Mathurin, ou tout antre que lui,
 Qui vous voudrez, j'obéis sans réplique.
 Trois mille francs ! Ah ! L'homme magnifique !
@@ -3100,59 +1566,23 @@ Qu'il va m'aimer ! Que je vais être fière!
 De ce pays je serai la première,
 Je meurs de joie.
 
--*who_lemarquis
-      Et j'en ressens aussi
-D'avoir déjà pleinement réussi :
-L'une des trois est déjà fort contente ;
-Tout ira bien.
-
--*who_colette
       Et mon amie Acante
 Que devient elle ? On va la marier,
 À ce qu'on dit, à ce beau chevalier.
 Tout le monde est heureux : j'en suis charmée,
 Ma chere Acante.
 
--*who_lechevalier
-      Elle doit être aimée,
-Et le sera.
-
--*who_lemarquis
-      La voici, je ne puis
-La consoler en l'état où je suis.
-Venez, je vais vous dire ma pensée.
-
-**** *book_ *id_V03 *act_V *date_1749
-
--*who_colette
 Ma chère Acante, on t'avait fiancée ;
 Moi déboutée, on me marie.
 
--*who_acante
-      À qui ?
-
--*who_colette
 À Mathurin.
 
--*who_acante
-      Le ciel en soit béni.
-Et depuis quand ?
-
--*who_colette
       Eh ! Depuis tout à l'heure.
 
--*who_acante
-Comment cela ?
-
--*who_colette
       Du fond de ma demeure,
 J'ai comparu devant mon bon Seigneur.
 Ah ! La belle âme ! Ah ! Qu'il est plein d'honneur !
 
--*who_acante
-Il l'est sans doute.
-
--*who_colette
       Oui, mon aimable Acante.
 Il m'a promis une dot opulente,
 Fait ma fortune , et tout le monde dit
@@ -3162,50 +1592,21 @@ Cela te sied, car ton allure est fière.
 On te fera Dame de qualité,
 Et tu me recevras avec bonté.
 
--*who_acante
-Ma chère enfant, je suis fort satisfaite
-Que ta fortune ait été sitôt faite :
-Mon coeur ressent tout ton bonheur... Hélas !
-Elle est heureuse, et je ne le suis pas.
-
--*who_colette
 Que dis tu, là ? Qu'as-tu donc dans ton âme ?
 Peut-on souffrir quand on est grande Dame ?
 
--*who_acante
-Va, ces Seigneurs qui peuvent tout oser,
-N'enlèvent point, crois-moi, pour épouser.
-Pour nous, Colette, ils ont des fantaisies,
-Non de l'amour : leurs demandes hardies,
-Leurs procédés montrent avec éclat
-Tout le mépris qu'ils font de notre état.
-C'est le dédain qui me met en colère.
-
--*who_colette
 Bon ! Des dédains ! C'est bien tout le contraire.
 Rien n'est plus beau que ton enlèvement.
 On t'aime, Acante, on t'aime assurément.
 Le Chevalier va t'épouser, te dis je,
 Tout grand Seigneur qu'il est. Cela t'afHige?
 
--*who_acante
-Mais Monseigneur le Marquis qu'a-t-il dit ?
-
--*who_colette
 Lui ? Rien du tout.
 
--*who_acante
-      Hélas !
-
--*who_colette
       C'est un esprit
 Tout en dedans, secret, plein de mystère ;
 Mais il parait fort approuver l'affaire.
 
--*who_acante
-Du Chevalier je déteste l'amour.
-
--*who_colette
 Oui ! Oui ! Plains-toi de te voir, en un jour,
 De Mathurin pour jamais délivrée,
 D'un beau Seigneur poursuivie, adorée :
@@ -3217,98 +1618,14 @@ Tiens, le vois-tu, celui qui t'enleva ?
 Il vient à toi ; n'est-ce rien que cela ?
 T'ai-je trompée ? Es-tu donc tant à plaindre ?
 
--*who_acante
-Allons, fuyons.
-
-**** *book_ *id_V04 *act_V *date_1749
-
--*who_lechevalier
-      Demeurez, sans rien craindre,
-Le Marquis veut que je sois à vos pieds.
-
--*who_colette
 Qu'avais-je dit ?
 
--*who_lechevalier
-      Eh ! Quoi, vous me fuyez !
-
--*who_acante
-Osez-vous bien paraître en ma présence ?
-
--*who_lechevalier
-Oui, vous devez oublier mon offense ;
-Par moi, vous dis-je, il veut vous consoler.
-
--*who_acante
-J'aimerais mieux qu'il daignât me parler.
-Ah ! Reste ici : ce ravisseur m'accable.
-
--*who_colette
 Ce ravisseur est pourtant fort aimable.
 
--*who_lechevalier
-Conservez-vous au fond de votre coeur
-Pour ma personne une invincible horreur ?
-
--*who_acante
-Vous devez être en horreur à vous-même.
-
--*who_lechevalier
-Oui, je le fuis : mais mon remords extrême
-Répare tout et doit vous apaiser.
-Ma folle erreur avait pu m'abuser ;
-Je fus surpris par une indigne flamme,
-Et mon devoir m'amène ici, Madame.
-
--*who_acante
-Madame, à moi ! Quel nom vous me donnez !
-Je sais l'état ou mes parents sont nés.
-
--*who_colette
 Madame !... Oh ! Oh ! Quel est donc ce langage ?
 
--*who_acante
-Cessez, Monsieur : ce titre est un outrage :
-C'est s'avilir que d'oser recevoir
-Un faux honneur qu'on ne doit point avoir ;
-Je suis Acante, et mon nom doit suffire ;
-Il est sans tache.
-
--*who_lechevalier
-      Ah ! Que puis-je vous dire ?
-Ce nom m'est cher : allez, vous oublierez
-Mon attentat quand vous me connaîtrez ;
-Vous trouverez très bon que je vous aime.
-
--*who_acante
-Qui ? Moi Monsieur !
-
--*who_colette
       C'est son remords extrême.
 
--*who_lechevalier
-N'en riez point, Colette : je prétends
-Qu'elle ait pour moi les plus purs sentiments.
-
--*who_acante
-Je ne sais pas quel destin vous anime ;
-Mais commencez par avoir mon estime.
-
--*who_lechevalier
-C'est le seul but que ! aurai désormais;
-J'en serai digne, et je vous le promets.
-
--*who_acante
-Je le désire, et me plais à vous croire;
-Vous êtes né pour connaître la gloire :
-Mais ménagez la mienne et me laissez.
-
--*who_lechevalier
-Non, c'est en vain que vous vous offensez ;
-Je ne suis point amoureux, je vous jure :
-Mais je prétends rester.
-
--*who_colette
       Bon ! Double injure.
 Cet homme est fou ; je l'ai pensé toujours.
 Dormene vient, ma chère, à ton secours.
@@ -3321,269 +1638,72 @@ On ne m'enlève point, et j'en enrage.
 On vient, adieu : suis ton brillant destin ;
 Et je retourne à mon gros Mathurin.
 
-**** *book_ *id_V05 *act_V *date_1749
 
--*who_acante
-Hélas ! Madame, une fille perdue,
-En rougissant, parait à votre vue ;
-Pourquoi faut-il, pour combler ma douleur,
-Que l'on me laisse avec mon ravisseur ?
-Et vous aussi, vous m'accablez, mon père,
-À ce méchant au lieu de me soustraire,
-Vous m'amenez vous-même dans ces lieux.
-Je l'y revois : mon maître fuit mes yeux.
-Mon père, au moins, c'est en vous que j'espère.
+**** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
 
--*who_dignant
-Ô cher objet, vous n'avez plus de père.
+Oui, nous avons terminé la campagne :
+Nous avons sauvé Metz, mon maître et moi ;
+Et nous aurons la paix. Vive le roi !
+Quelle indolence ! Et quel air de froideur !
+Vive mon maître !... Il a bien du courage ;
+Mais il est trop sérieux pour son âge ;
+J'en suis fâché. Je suis bien aise aussi,
+Mon vieux Dignant, de te trouver ici ;
+Tu me parais en grande compagnie.
 
--*who_acante
-Que dites-vous ?
+      Bon ! Tant mieux !
+Nous danserons, nous serons tous joyeux.
+Ta fille est belle... Ha ! ha ! C'est toi. Colette ;
+Ma chère enfant, ta fortune est donc faite ?
+Mathurin est ton mari ?
 
--*who_dignant
-      Non, je ne le suis pas.
+Il fait fort mal.
 
--*who_dormene
-Non, mon enfant, de si charmants appas
-Sont nés d'un sang dont vous êtes plus digne ;
-Préparez-vous au changement insigne
-De votre sort, et surtout pardonnez
-Au Chevalier.
+Il fait fort bien ; je réponds sur mon âme
+Que cet hymen à mon maître agréera,
+Et que la noce à ses frais se fera.
 
--*who_acante
-      Moi, Madame !
+      Peut-être ce soir même.
 
--*who_dormene
-      Apprenez,
-Ma chère enfant, que Laure est votre mère.
+Oh ! Oh ! Nos gens viennent en diligence.
+Eh quoi ! Déjà le chevalier Gernance ?
 
--*who_acante
-Elle ?... Est-il vrai ?
+Vous êtes fin, monsieur le chevalier ;
+Très à propos vous venez le premier.
+Dans tous vos faits votre beau talent brille ;
+Vous vous doutez qu'on marie une fille ;
+Acanthe est belle, au moins.
 
--*who_dormene
-      Gernance est votre frère.
+      Oui, le projet est beau.
 
--*who_lechevalier
-Oui, je le suis, oui ; vous êtes ma soeur.
+      Oui, c'est Laure, je crois.
 
--*who_acante
-Ah ! Je succombe ; hélas : est-ce un bonheur ?
+      Cette vieille était jeune autrefois ;
+Je m'en souviens, votre étourdi de père
+Eut avec elle une certaine affaire,
+Où chacun d'eux fit un mauvais marché.
+Ma foi, c'était un maître débauché
+Tout comme vous, buvant, aimant les belles,
+Les enlevant, et puis se moquant d'elles.
+Il mangea tout, et ne vous laissa rien.
 
--*who_lechevalier
-Il l'est pour moi.
+Eh que ne prenez-vous cette Dormène ?
+Bien plus qu'Acanthe elle en vaudrait la peine ;
+Elle est très fraîche, elle est de qualité ;
+Cela convient à votre dignité :
+Laissez pour nous les filles du village.
 
--*who_acante
-      De Laure je suis fille !
-Et pourquoi donc faut-il que ma famille
-M'ait tant caché mon état et mon nom ?
-D'où peut venir ce fatal abandon ?
-D'où vient qu'enfin daignant me reconnaître
-Ma mère ici n'a point osé paraître ?
-Ah ! S'il est vrai que le sang nous unit,
-Sur ce mystère éclairez mon esprit.
-Parlez, Monsieur, et dissipez ma crainte.
+Mais croyez-vous que monseigneur rira ?
 
--*who_lechevalier
-Ces mouvements dont vous êtes atteinte
-Sont naturels, et tout vous sera dit.
+C'est bien pensé ; mais vos déportements
+Sont dangereux, je crois, pour ma personne.
 
--*who_dormene
-Dans ce moment, Acante, il vous suffit
-D'avoir connu quelle est votre naissance.
-Vous me devez un peu de confiance.
+Fort bien.
 
--*who_acante
-Laure, est ma mère, et je ne la vois pas !
+On ne peut mieux ; mais votre belle Acanthe
+Est bien revêche.
 
--*who_lechevalier
-Vous la verrez : vous serez dans ses bras.
+      Je crois que nous sommes trahis ;
+C'est du secours qui vient aux ennemis :
+J'entends grand bruit, c'est monseigneur.
 
--*who_dormene
-Qui, cette nuit je vous mène auprès d'elle.
-
--*who_acante
-J'admire en tout ma fortune nouvelle.
-Quoi ! J'ai l'honneur d'être de la Maison
-De Monseigneur ?
-
--*who_lechevalier
-      Vous honorez son nom.
-
--*who_acante
-Abusez-vous de mon esprit crédule,
-Et voulez-vous me rendre ridicule ?
-Moi de son sang ! Ah ! S'il était ainsi,
-Il me l'eût dit : je le verrais ici.
-
--*who_dignant
-Il m'a parlé... Je ne sais quoi l'accable.
-Il est saisi d'un trouble inconcevable.
-
--*who_acante
-Ah ! Je le vois.
-
-**** *book_ *id_V06 *act_V *date_1749
-
--*who_lemarquis
-      Il ne sera pas dit
-Que cet enfant ait troublé mon esprit.
-Bientôt l'absence affermira mon âme.
-Ah ! Pardonnez : vous étiez là, Madame ?
-
--*who_lechevalier
-Vous paraissez étrangement ému !
-
--*who_lemarquis
-Moi ? Point du tout. Vous serez convaincu
-Qu'avec sang froid je règle ma conduite.
-De son destin Acante est-elle instruite ?
-
--*who_acante
-Quel qu'il puisse être, il passe mes souhaits.
-Je dépendrai de vous plus que jamais.
-
--*who_lemarquis
-Permets , ô Ciel ! Qu'ici je puisse faire
-Plus d'un heureux.
-
--*who_lechevalier
-      C'est une grande affaire.
-Je ferai, moi, tout ce que vous voudrez ;
-Je l'ai promis.
-
--*who_lemarquis
-      Que vous m'obligerez.
-Belle Dormene, oubliez- vous l'offense
-L'égarement du coupable Gernance ?
-
--*who_dormene
-Oui, tout est réparé.
-
--*who_lemarquis
-      Tout ne l'est pas.
-Votre grand nom, vos vertueux appas
-Sont maltraités par l'aveugle fortune.
-Je le sais trop ; votre âme non commune
-N'a pas de quoi suffire à vos bienfaits ;
-Votre destin doit changer désormais.
-Si j'avais pû d'un heureux mariage
-Choisir pour moi l'agréable esclavage,
-C'eût été vous (et je vous l'ai mandé)
-Pour qui mon coeur se serait décidé.
-Voudriez-vous, Madame, qu'à ma place
-Le Chevalier, pour mieux obtenir grâce
-Pour devenir à jamais vertueux,
-Prît avec vous d'indissolubles noeuds ?
-Le meilleur frein pour ses moeurs, pour son âge ,
-Est une épouse aimable, noble et sage.
-Daignerez vous accepter un château
-Environné d'un domaine assez beau ?
-Pardonnez-vous cette offre ?
-
--*who_dormene
-      Ma surprise
-Est si puissante, à tel point me maîtrise,
-Que ne pouvant, encor me déclarer,
-Je n'ai de voix que pour vous admirer.
-
--*who_lechevalier
-J'admire aussi : mais je fais plus, Madame ;
-Je vous soumets l'empire de mon âme.
-À tous les deux je devrai mon bonheur,
-Mais seconderez-vous mon bienfaiteur !
-
--*who_dormene
-Consultez-vous, méritez mon estime,
-Et les bienfaits de ce coeur magnanime.
-
--*who_lemarquis
-Et... Vous, Acante...
-
--*who_acante
-      Hé bien ! Mon Protecteur ?...
-
--*who_lemarquis
-Pourquoi tremblé-je en parlant ?
-
--*who_acante
-Quoi ? Monsieur...
-
--*who_lemarquis
-      Acante, vous qui venez de renaître,
-Vous qu'une mère ici va reconnaître,
-Vivez prés d'elle ; et de ses tristes jours
-Adoucissez et prolongez le cours.
-Vous commencez, une nouvelle vie,
-Avec un père, une mère, une amie ;
-Je veux... Souffrez qu'à votre mère, à vous,
-Je fasse un sort indépendant et doux.
-Votre fortune, Acante, est assurée ;
-L'acte est passé : vous vivrez honorées ;
-Riche, contente, autant que je le peux.
-J'aurais voulu. Mais goûtez toutes deux,
-Dormene et vous, les douceurs fortunées
-Que l'amitié donne aux âmes bien nées.
-Un autre bien que le coeur peut sentir
-Est dangereux. Adieu, je vais partir.
-
--*who_lechevalier
-Eh quoi ! Ma soeur, vous n'êtes, point contente !
-Quoi ! vous pleurez !
-
--*who_acante
-      Je suis reconnaissante,
-Je suis confuse... Ah ! C'en est trop pour moi,
-Mais j'ai perdu plus que je ne reçois ;
-Et ce n'est pas la fortune que j'aime.
-Mon état change, et mon âme est la même ;
-Elle doit être à vous... Ah ! Permettez
-Que, le coeur plein de vos rares bontés,
-J'aille oublier ma première misère,
-J'aille pleurer dans le sein de ma mère.
-
--*who_lemarquis
-De quel chagrin vos sens sont agités ?
-Qu'avez-vous donc ? Qu'ai-je fait ?
-
--*who_acante
-Vous partez.
-
--*who_dormene
-      Ah ! Qu'as-tu dit ?
-
--*who_acante
-      La vérité, Madame.
-La vérité plaît à votre belle âme.
-
--*who_lemarquis
-Non, c'en est trop pour mes sens éperdus,
-Acante !
-
--*who_acante
-      Hélas !...
-
--*who_lemarquis
-      Ne partirai-je plus ?
-
--*who_lechevalier
-Mon cher parent, de Laure elle est la fille ;
-Elle retrouve un frère, une famille ;
-Et moi je trouve un mariage heureux.
-Mais je vois bien que vous en ferez deux.
-Vous payerez ; la gageure est perdue.
-
--*who_lemarquis
-Je vous l'avoue... Oui, mon âme est vaincue,
-Dormene et Laure, Acante, et vous et moi,
-Soyons heureux... Oui, recevez ma foi,
-Aimable Acante ; allons, que je vous mène
-Chez votre mère : elle sera la mienne ;
-Elle oubliera pour jamais son malheur.
-
--*who_acante
-Ah ! Je tombe à vos pieds...
-
--*who_lechevalier
-      Allons, ma soeur,
-Je sus bien fou : son coeur fut insensible ;
-Mais on n'est pas toujours incorrigible.

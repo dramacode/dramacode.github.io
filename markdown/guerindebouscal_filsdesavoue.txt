@@ -1,6 +1,6 @@
 ---
 identifier: guerindebouscal_filsdesavoue  
-creator: Guérin de Bouscal, Guyon  
+creator: Guérin de Bouscal, Guyon ; Georges Forestier.  
 date: 1641  
 title: Le Fils désavoué. Tragi-comédie  
 ---

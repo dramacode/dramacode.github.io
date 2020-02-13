@@ -1,6 +1,6 @@
 ---
 identifier: montfleury_fillecapitaine  
-creator: Montfleury, Antoine Jacob  
+creator: Montfleury, Antoine Jacob ; Georges Forestier.  
 date: 1672  
 title: La Fille capitaine. Comédie  
 ---

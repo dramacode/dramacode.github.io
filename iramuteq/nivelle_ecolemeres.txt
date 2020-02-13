@@ -1,181 +1,355 @@
 
 
-**** *book_ *id_I01 *act_I *date_1744
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marianne
 
--*who_dolignifils
-Mon père, en vérité, j'ai peine à vous comprendre.
+J'ai fait ce que j'ai pu.
 
--*who_dolignipere
-Pourquoi ?
+Présumez un peu moins de mon faible talent.
+Il est vrai qu'en cherchant à remplir votre attente,
+Qu'en tâchant de gagner l'amitié de ma tante,
+Je ne me faisais point un effort violent.
+Que dis-je ? Un sentiment que je ne puis comprendre,
+À mon obéissance a servi de soutien ;
+Et mon coeur, étonné de se trouver si tendre,
+N'a, je crois, rien omis pour mériter le sien ;
+Mais...
 
--*who_dolignifils
-      Madame Argant tient sa fille en couvent ;
-Et son dessein n'est pas de se donner un gendre.
+      Quelle erreur est la vôtre !
 
--*who_dolignipere
-Projets de femme. Autant en emporte le vent.
-Son mari m'a promis de t'accorder sa fille ;
-Il va la ramener au sein de sa famille :
-Tiens ton coeur et ta main tout prêts à se donner.
+Il faut donc renoncer à ses moindres bienfaits.
 
--*who_dolignifils
-Cet ordre rigoureux a de quoi m'étonner.
-Permettez que je vous remontre...
+      Étouffez une douce espérance,
+Qui n'a servi qu'à vous tromper.
+De tout ce que j'ai fait, rien n'a pu dissiper,
+Ni vaincre son indifférence.
+C'est un projet flatteur qui ne peut s'accomplir.
+Je connais trop son coeur ; il m'est inaccessible :
+Ce n'est que pour son fils qu'il peut être sensible :
+Il l'occupe, et n'y laisse aucun vide à remplir.
+Loin d'entrer avec lui dans le moindre partage,
+Je ne sais si mes soins ne m'ont pas fait haïr.
+Ne me forcez donc pas d'insister davantage.
 
--*who_dolignipere
-Doligni, laissons-là des débats importuns.
-Tu vas me débiter les mêmes lieux communs
-Qu'autrefois nous avons, en pareille rencontre,
-Chacun, de père en fils, employés comme toi.
-Va, j'ai passé par-là ; tu feras comme moi.
+      Que vous me laissiez fuir,
+Et rentrer au couvent d'où vous m'avez tirée.
 
--*who_dolignifils
-Et si j'aimais ailleurs ?
+      Accordez cette grâce à mes pleurs.
+En vous la demandant mon âme est déchirée.
+Vous m'aimez : je prévois avec quelles douleurs
+Vous supporterez ma retraite.
 
--*who_dolignipere
-      Ma foi, tant pis pour elle.
-Il faudrait, en ce cas, devenir infidèle.
+Ah ! N'appréhendez pas qu'un jour le repentir
+Vienne dans mon désert empoisonner ma vie.
+Je trouverai de quoi fixer tous mes désirs
+Dans sa tranquillité profonde.
+C'est lorsqu'on a du moins un peu connu le monde
+Qu'on peut, dans la retraite, avoir de vrais plaisirs.
+Que je m'en vais l'aimer ! Qu'elle me sera chère !
+Je n'y sentirai plus le poids de ma misère.
+Hélas ! Je l'ignorais dans mon obscurité :
+J'y vivais sans me voir sans cesse humiliée
+Par le défaut de bien, de rang, de qualité :
+Permettez qu'à jamais j'y puisse être oubliée.
 
--*who_dolignifils
-Ce n'est donc pas pour moi que vous me mariez ?
+      Que vous plaît-il ?
 
--*who_dolignipere
-Pour qui donc ?
+      Oui.
 
--*who_dolignifils
-      Je le croirais presque.
-J'ai compté faire un choix que vous approuveriez.
+C'est le maître d'hôtel.
 
--*who_dolignipere
-L'amour dans un jeune homme est toujours romanesque.
-J'aurais été moi-même assez extravagant
-Pour épouser aussi ma première amourette,
-Si l'on n'eût retenu ma jeunesse indiscrète.
+      Madame Argant m'envoie...
 
--*who_dolignifils
-Mais je ne connais point Mademoiselle Argant.
+Ah ! Mon oncle, le diriez-vous ?
+Pour la première fois, elle m'a caressée,
+M'a donné les noms les plus doux.
 
--*who_dolignipere
-Ni moi : mais elle aura vingt mille écus de rente.
+      Elle en espère tout.
+Vous me portez, dit-elle, une amitié si tendre
+Qu'il n'est rien, près de vous, dont je ne vienne à bout ;
+Et si je réussis, elle m'a fait entendre
+Qu'elle aurait soin de mon destin.
+C'est au sujet de mon cousin...
 
--*who_dolignifils
-Eh ! Quand elle en aurait quarante !
+      Et pour sa fortune,
+Que je viens, au hasard de vous être importune...
 
--*who_dolignipere
-Ce serait encor mieux.
+C'est l'hymen de son fils, tel qu'il est projeté.
 
--*who_dolignifils
-      N'avez-vous pas du bien ?
+À qui donc ? Pour tous deux, j'implore vos bontés.
+C'est l'établissement le plus considérable...
+Vous la désespérez, si vous n'y consentez ;
+C'est faire à votre fils un tort irréparable.
 
--*who_dolignipere
-Il le faut augmenter ; sinon, il vient à rien.
+      Est-il vrai que vous en ayez une ?
 
--*who_dolignifils
-J'ignore comme elle est d'esprit et de figure.
-Elle est riche. à l'égard de l'esprit, je t'assure
-Qu'une femme à la longue en a toujours assez.
-Elle est jeune, au surplus ; et tout ce que j'en sçais,
-C'est qu'à quinze ou seize ans on est du moins jolie.
+Moi, je ne lui veux point de mal ; et si mon zele...
 
--*who_dolignifils
-Qui sait si le rapport d'humeurs...
+Je me serais déjà prononcé mon arrêt.
 
--*who_dolignipere
-      Autre folie !
-En tout cas, tu feras comme les autres font.
-Qui s'embarque, est-il sûr de faire un bon voyage ?
-À quoi sert l'examen avant le mariage ?
-À rien. Ce n'est qu'après qu'on se connaît à fond.
-Las de se composer avec un soin extrême,
-Le naturel caché prend alors le dessus ;
-Le masque tombe de lui-même,
-Et malheureusement on ne le reprend plus.
-Mais enfin le bien reste ; et cet ami fidèle,
-Sans compter quelquefois la raison qui s'en mêle,
-Entre époux qui pourraient se brouiller sans retour,
-Sert de médiateur, au défaut de l'amour.
+Pourrais-je assurer mieux le repos de ses jours,
+Qu'en cédant au malheur de déplaire à ma mère ?
+À quoi me servirait de m'obstiner toujours
+À braver mon destin ? Quelle en serait l'issue ?
+D'aliéner vos coeurs, d'en écarter l'amour,
+De déchirer toujours le sein qui m'a conçue,
+De me faire encor plus haïr de jour en jour.
+Pourquoi me consulter dans cette conjoncture ?
+Toute autre, et votre fille aussi,
+Vous en dirait autant ; et je ne sers ici
+Que d'interprète à la nature.
 
--*who_dolignifils
-Il cessera d'être inflexible.
+Mais ma tante a raison ; elle se justifie.
+C'est votre faute à vous.
 
-**** *book_ *id_I02 *act_I *date_1744
+Sans doute.
 
--*who_dolignipere
-C'est Rosette !
+Ah ! Ciel !
 
--*who_rosette
+      Dieux ! Que viens-je d'entendre !
+Ah ! Quelle trahison !
+
+      Madame, il est sorti.
+
+Il doit avoir pris son parti.
+
+Bon ; le voici qui vient.
+
+Qui n'eût cru qu'il m'aimait ?
+
+Hélas ! C'en est donc fait.
+
+Ah ! Monsieur, vous devez préférer ma cousine.
+
+D'où viennent tout-à-coup de si cruels dédains ?
+D'abord, en me voyant, comme elle s'est aigrie !
+Il faut absolument quitter cette maison.
+
+      Il est vrai.
+
+Pourriez-vous m'éclaircir ? ...
+
+Quoi ! Tout le monde ici se trouve réuni
+Pour me désespérer ! Mais qu'a-t-il voulu dire ?
+Quelqu'un adresse ici ses pas.
+
+Rosette, si tu peux, tire-moi d'embarras.
+Ma tante est contre moi d'une colère extrême.
+Qu'ai-je dit ? Qu'ai-je fait ? Que m'est-il arrivé ?
+J'ai beau m'examiner moi-même ;
+Dans le fond de mon coeur, hélas ! Je n'ai trouvé
+Que zèle, que respect, que tendresse pour elle.
+
+Qu'on me ramène où l'on m'a prise.
+
+Hélas ! Mon oncle, au nom de la tendre amitié
+Dont par vous seul ici je me trouve honorée,
+De grâce, dites-moi, par bonté, par pitié,
+Qu'est-ce donc qui se passe à mon désavantage ?
+Il doit m'être, en ce jour, arrivé des malheurs ;
+Tout inconnus qu'ils sont, ils m'arrachent des pleurs.
+Ne me les laissez pas ignorer davantage ;
+Innocente, ou coupable, instruisez-moi de tout.
+
+      Cette infortune est réelle et publique.
+
+Ah ! Vous dissimulez.
+
+Pourquoi donc, à présent, attiré-je les yeux
+De tout ce qui nous environne ?
+D'où viennent ces regards furtifs et curieux
+Qu'on attache en secret sur toute ma personne ?
+
+Quoi donc ! Ai-je changé ? Ne suis-je plus la même ?
+Ils ont d'autres motifs que je ne puis savoir.
+Et par quelle aventure, à nulle autre pareille,
+N'est-ce que d'aujourd'hui qu'on m'examine ainsi ;
+Et qu'en me regardant tout le monde d'ici
+Sourit avec malice, et se parle à l'oreille ?
+Et ma tante elle-même, avec la dureté
+La plus grande et la plus cruelle,
+Vient de me chasser de chez elle.
+Elle a poussé la cruauté
+Jusques à me défendre à jamais sa présence.
+
+Et moi, toute éperdue, examinant en vain
+Ma triste et timide innocence,
+Je suis venue ici ; j'ai trouvé votre fils,
+Qui m'a dit quelques mots, où je n'ai rien compris.
+À peine il m'a laissée incertaine et flottante,
+Au milieu de mon trouble et du plus grand effroi,
+Qu'alors on est venu m'avertir que ma tante,
+Toujours de plus en plus en courroux contre moi,
+Veut se débarrasser de ma vue importune,
+Et me faire enlever.
+
+      Quoi donc ?
+
+      Quel est donc ce regret ?
+
+Daignez m'en éclaircir... Vous parlez de secret !
+
+Qu'entends-je ? Que m'apprenez-vous ?
+Ce n'est pas sur la foi du lien le plus doux
+Que je suis chez vous et chez elle ?
+Eh ! Pourquoi donc ici m'avez-vous fait venir ? ...
+Ciel ! Je frémis de tout ce que je me rappelle.
+Ah ! Cessez de me retenir.
+De toutes les horreurs j'éprouve la plus noire.
+Ah ! Dieu ! Peut-on former un si cruel projet ?
+Du plus affreux roman je me vois le sujet.
+
+Je veux savoir de qui j'ai reçu la naissance.
+Remettez-moi sous leur puissance ;
+Quels que soient mes parents...
+
+Parlez ; je ne veux plus languir dans cette attente.
+Je vais m'aller jeter aux genoux de ma tante...
+Quel nom m'échappe encor !
+
+      De cette horreur faites-moi donc sortir ;
+La fin n'en peut être trop prompte.
+
+      Je ne crains que la honte
+De nourrir plus longtemps l'opprobre où je me vois.
+
+Non ; c'est au désespoir à rétablir ma gloire ;
+Je ne puis faire trop d'éclat.
+
+      Qui ! Vous... Mon père ?
+Eh ! Pourquoi si longtemps me cacher mon bonheur ?
+
+J'entrevois à présent le fond de ce mystère.
+Puisque j'ai le bonheur de vous appartenir,
+Le sort peut, à son gré, régler mon avenir.
+Il m'a plus fait de bien qu'il n'en saurait détruire.
+
+Quel malheur est le mien !
+
+Eh ! Pourquoi voulez-vous que je sois à jamais
+Le fléau de ceux que j'adore ?
+Joignez à vos bontés la grâce que j'implore ;
+Et souffrez qu'en partant je vous rende la paix.
+
+Que s'est-il donc passé ? Je vois, sur son visage,
+Tous les traits du courroux qui va tomber sur moi.
+
+Sans doute que j'ai fait rompre ce mariage.
+
+      Hélas ! Je tombe à vos genoux.
+
+Disposez de mon sort. Que voulez-vous de plus ?
+N'est-il pas en votre puissance ?
+Ordonnez ; et comptez sur une obéissance
+Qui servira du moins à me justifier.
+Délivrez-vous de ma présence.
+Je ne demande, hélas ! Qu'à me sacrifier.
+
+Je n'ai que du malheur ; vous pouvez m'en punir.
+
+Accusez mon erreur et non pas mon audace.
+Madame, on m'a trompée en m'amenant ici :
+C'est une vérité qui peut être attestée.
+Si j'avais été libre, y serais-je restée ?
+D'aujourd'hui seulement mon sort est éclairci.
+Et dès que je l'ai su, j'ai tout mis en usage
+Pour qu'on me laissât fuir. Je n'ai pu l'obtenir.
+Ai-je rien de plus cher que de vous réunir ?
+
+      On a dû vous l'apprendre.
+Vous savez qui je suis.
+
+On ne vous a point dit qui j'étais ?
+
+Je frémis d'une erreur où je vous vois encore.
+
+Hélas ! Je ne vois point mon père.
+
+Cet abandon me désespère.
+
+Quand vous me connaîtrez...
+
+Qui ? Moi ! Je n'en possède et n'en prétends aucune.
+
+Je menais hors du monde une vie inconnue.
+
+      Dans un couvent,
+Depuis que je suis née, on m'a toujours tenue.
+Fixez-y mon destin. Je suis prête à partir.
+J'offre d'y retourner, pour n'en jamais sortir.
+
+Vous pouvez le connaître.
+
+Mais c'était auprès de Poitiers.
+
+Je le sais.
+
+      Oui.
+
+Ne me pressez pas davantage
+De vous entretenir de ses faibles attraits.
+
+Connaissez-la par d'autres traits
+Plus précieux, plus chers et pour vous et pour elle :
+C'est sa soumission et son profond respect.
+Cet éloge n'est point suspect.
+Quels que soient vos desseins, elle y sera fidèle.
+Votre fille, à jamais, saura s'y conformer.
+Vos projets lui sont tous aussi chers qu'à vous-même.
+Il me reste à vous informer...
+
+      De sa tendresse extrême.
+
+      Le demandez-vous !
+Pour une mère qu'elle adore.
+
+Hélas ! Pardonnez-moi.
+
+Qu'il m'est doux de me voir entre des bras si chers !
+
+      Oserais-je, en faveur de mon frère,
+Unir ma faible voix à celle de mon père ?
+Pour qui réservez-vous un généreux pardon ?
+Me refuserez-vous une première grâce ?
+
+Eh ! Madame, croyez le serment que j'en fais,
+S'il en coûte si cher à mon malheureux frère,
+J'aime mieux, avec lui, pleurer votre colère,
+Que d'en accepter les bienfaits.
+
+      Sa grâce. Elle sera la mienne.
+Si vous l'abandonnez, que faut-il qu'il devienne ?
+
+Il m'aimera... craignez l'effet de sa douleur,
+Et de son désespoir extrême.
+
+Sa faute et ses remords.
+
+
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+
       Monsieur, ma maîtresse est visible.
 
--*who_dolignipere
-Bon. Et Monsieur Argant n'arrive donc jamais ?
-L'oeil du maître est pourtant chez lui fort nécessaire.
-
--*who_rosette
 On l'attend tous les jours.
 
--*who_dolignipere
-      Voilà bien des délais.
-
--*who_rosette
 C'est qu'un mari, pour l'ordinaire,
 N'est jamais si pressé de retourner chez lui.
 Quoi qu'il en soit, on dit qu'il revient aujourd'hui.
 
--*who_dolignipere
-Tant mieux, j'en ai l'âme ravie.
-C'est le meilleur ami que j'aie eu de ma vie.
-Mais allons voir sa femme, et lui faire ma cour.
-Doligni, tout est dit. Adieu, jusqu'au retour.
-
-**** *book_ *id_I03 *act_I *date_1744
-
--*who_dolignifils
-Il m'aime, je le sais ; c'est sur quoi je me fonde.
-
--*who_rosette
 Qu'est-ce ? Vous n'êtes pas le plus content du monde ?
 
--*who_dolignifils
-C'est que je viens d'avoir un entretien fâcheux.
-
--*who_rosette
 Ceux d'un père et d'un fils sont toujours orageux.
 
--*who_dolignifils
-J'aime ; et mon père veut que j'en épouse une autre.
-
--*who_rosette
 Il a tort ; et son goût devrait suivre le vôtre.
 
--*who_dolignifils
-Ce n'est pas ce qui doit m'embarrasser le plus.
-Il s'agit de mes feux. Comment sont-ils reçus ?
-Marianne ayant mis en toi sa confiance...
-
--*who_rosette
 Que concluez-vous de cela ?
 
--*who_dolignifils
-Si j'ai plu, tu le sais.
-
--*who_rosette
       Mauvaise conséquence.
 Nous ne nous faisons point ces confidences-là.
 Voyez donc !
 
--*who_dolignifils
-      Eh ! Que diantre avez-vous à vous dire,
-Si l'amour et les coeurs soumis à votre empire
-De tous vos entretiens ne font pas le sujet ?
-
--*who_rosette
 Oh ! Ce n'est pas comme vous autres.
 Vous avez vos propos, et nous avons les nôtres.
 
--*who_dolignifils
-Sur quoi roulent-ils donc, et quel en est l'objet ?
-
--*who_rosette
 Une mode, une étoffe, une robe nouvelle,
 Des gazes, des pompons, des fleurs, une dentelle,
 Sont d'abord des sujets qui ne tarissent point.
@@ -185,50 +359,14 @@ Des contes de couvent. Enfin, que sais-je, moi ?
 On parle, on cause, on jase, on caquette, on babille,
 Et l'on rit bien souvent, sans trop savoir pourquoi.
 
--*who_dolignifils
-Non, jamais on n'a vu de fille si discrète.
-
--*who_rosette
 Je sers d'exception.
 
--*who_dolignifils
-      Sois un peu moins secrète.
-Le Marquis, par hasard, n'est-il point mon rival ?
-
--*who_rosette
 Qui ? Lui !
 
--*who_dolignifils
-      Sa cousine est si belle ! ...
-Il fait profession d'être un galant banal.
-Il peut s'être avisé d'employer auprès d'elle
-Ses talents séducteurs.
-
--*who_rosette
       Ils ne produiraient rien.
 
--*who_dolignifils
-Ses succès ont cent fois couronné son adresse.
-Il ne possède que trop bien
-L'art de rendre sensible à sa fausse tendresse ;
-Et tant de coeurs conquis, bien ou mal-à-propos,
-Troublent le peu d'espoir qui pouvait me séduire.
-
--*who_rosette
 Comment ! Vous érigez ce marquis en héros !
 
--*who_dolignifils
-Comment puis-je en effet balancer ou détruire
-Tant d'avantages vrais ou faux ?
-Mon malheureux amour m'éclaire.
-Il ne faut que chercher à plaire,
-Pour connaître tous ses défauts.
-Peut-être à tort je la soupçonne ;
-Mais pour une jeune personne
-L'hommage du marquis est bien éblouissant.
-Plaise à l'amour que je m'abuse.
-
--*who_rosette
 Il est vrai que l'on nous accuse
 D'apporter toutes en naissant
 Ce malheureux levain de la coquetterie,
@@ -239,10 +377,6 @@ Il est encor des coeurs dignes d'un honnête homme.
 D'ailleurs, en vains soupçons votre esprit se consomme ;
 Le Marquis choisit mieux.
 
--*who_dolignifils
-      Eh ! Peut-il mieux choisir ?
-
--*who_rosette
 Marianne est sans doute extrêmement aimable :
 La bonté de son coeur la rend inestimable.
 C'est un trésor. Heureux qui pourra s'en saisir !
@@ -265,65 +399,16 @@ C'est l'opprobre éclatant dont il couvre sa proie,
 Et la rage qu'il porte au sein de ses rivaux.
 Voilà le seul exploit digne de ses travaux.
 
--*who_dolignifils
-Quels travers ! Car il a de l'esprit, ce me semble.
-
--*who_rosette
 L'esprit et le bon-sens vont rarement ensemble.
 
--*who_dolignifils
-Tout ce que tu me dis, ne me rassure pas.
-
--*who_rosette
 Parlez-lui donc vous-même ; il tourne ici ses pas.
 
-**** *book_ *id_I04 *act_I *date_1744
-
--*who_lemarquis
-Eh ! Bonjour, Doligni... Parbleu, que je t'embrasse.
-
--*who_rosette
 Ces embrassades-là sont aussi du bel air.
 
--*who_lemarquis
-Qu'est-ce donc ? Mon abord te trouble ! Il t'embarrasse !
-J'en vois la cause. Allons, rassure-toi, mon cher ;
-Je fais profession d'être un rival commode :
-Avant qu'il soit peu, dans Paris,
-Je veux en amener la mode,
-Et mettre les amants sur le pied des maris.
-Elle n'est pas si mal, au moins !
-
--*who_dolignifils
-      Cesse de rire.
-Je parlais à Rosette.
-
--*who_lemarquis
-      Un honnête homme aura
-Toujours quelque chose à lui dire.
-
--*who_dolignifils
-Il faut te l'avouer.
-
--*who_lemarquis
-      Tout comme il te plaira.
-
--*who_rosette
 Tiens, Rosette rougit ; elle te fait un signe.
 
--*who_rosette
 Notre entretien roulait sur un sujet plus digne.
 
--*who_dolignifils
-C'était sur Marianne.
-
--*who_lemarquis
-      Ah ! Tu fais le discret !
-Quand on est tête-à-tête avec elle en secret,
-Il est bien mal-aisé de lui parler d'une autre ;
-Il n'est personne alors qu'on ne doive oublier.
-
--*who_rosette
 Point de panégyrique, où je ferai le vôtre.
 Ne cherchons point tous deux à nous humilier.
 Trêve entre nous de gentillesse.
@@ -334,31 +419,10 @@ Mais comme je n'ai pas la même ivresse qu'elle,
 Je pourrais m'égayer aux dépens des railleurs :
 Ainsi, monsieur, cherchez vos passe-temps ailleurs.
 
--*who_lemarquis
-Quand Rosette se fâche, elle est encor plus belle.
-
--*who_rosette
 Finissez mon éloge, et me laissez en paix.
 
--*who_lemarquis
-Puisque tu fais semblant de le trouver mauvais,
-Je ne pousserai pas à bout ta modestie.
-La petite cousine était donc, entre vous,
-Le sujet prétendu d'un entretien si doux ?
-
--*who_dolignifils
-Et vous aussi.
-
--*who_lemarquis
-      Qui ? Moi ! J'étais de la partie ?
-
--*who_rosette
 Eh ! Vraiment oui ; monsieur en est fort amoureux.
 
--*who_lemarquis
-Ah ! Ah !
-
--*who_rosette
       Comme il vous croit un rival dangereux,
 (Car, pour peu que l'on aime, on a peur de son ombre,)
 Il me communiquait sa crainte et son erreur.
@@ -366,18 +430,6 @@ Il ne pouvait voir sans terreur
 Que vous fussiez aussi du nombre
 De ceux que Marianne a soumis à ses lois.
 
--*who_lemarquis
-Est-il vrai, Doligni ?
-
--*who_dolignifils
-      Mais, si j'avais le choix,
-J'aimerais mieux ailleurs te voir rendre les armes.
-
--*who_lemarquis
-C'est être en ma faveur un peu trop prévenu.
-Eh ! Que lui disais-tu pour calmer ses alarmes ?
-
--*who_rosette
 Mais nous en étions là, quand vous êtes venu ;
 Et j'allais à peu près lui dire, ce me semble,
 Qu'il ne peut se fonder aucune liaison
@@ -391,18 +443,8 @@ C'est qu'au moins par le coeur et par le caractère
 Il faut un peu se ressembler.
 Venons à Marianne.
 
--*who_lemarquis
-      Elle est d'une figure
-À faire dans le monde un jour bien du fracas.
-
--*who_rosette
 Sans doute ; et cependant elle n'en fera pas.
 
--*who_lemarquis
-Pourquoi ce malheureux augure ?
-Et d'où diable le tires-tu ?
-
--*who_rosette
 Le bon-sens fut toujours ami de la vertu.
 Malgré le train qui règne en ce siècle commode,
 Marianne suivra celui du bon vieux temps,
@@ -413,625 +455,33 @@ Pardonnez, au surplus, si dans cette occurrence
 Je n'ai pas eu pour vous le plus profond respect ?
 J'y rentre, et je vous fais mon humble révérence.
 
-**** *book_ *id_I05 *act_I *date_1744
-
--*who_lemarquis
-Elle a le caquet amusant ;
-Mais elle a l'esprit faux.
-
--*who_dolignifils
-      Pas tant. Mais à présent,
-Parlons de Marianne.
-
--*who_lemarquis
-      Elle est plus que jolie.
-
--*who_dolignifils
-Elle a, comme tu sais, tout ce qui peut charmer.
-Marquis, l'aimerais-tu ?
-
--*who_lemarquis
-      Qu'entends-tu par aimer ?
-
--*who_dolignifils
-Plaît-il ?
-
--*who_lemarquis
-      Expliquons-nous.
-
--*who_dolignifils
-      Quelle est cette folie ?
-Ce mot est plus clair que le jour.
-Parbleu ! C'est ce qu'on sent pour l'objet qu'on adore.
-Aimer... C'est avoir de l'amour.
-C'est...
-
--*who_lemarquis
-      Est-ce que l'on aime encore ?
-
--*who_dolignifils
-Est-ce qu'on n'aime plus ?
-
--*who_lemarquis
-      De quel pays viens-tu ?
-
--*who_dolignifils
-Du pays où l'on aime.
-
--*who_lemarquis
-      Où diantre as-tu vécu ?
-
--*who_dolignifils
-Quelle extravagance est la vôtre ?
-Vous croiriez qu'il n'est point de véritable amour ?
-
--*who_lemarquis
-De véritable amour ? À l'autre !
-Non, je n'en vis jamais à la ville, à la cour ;
-Et si j'ai beaucoup vu, mais beaucoup.
-
--*who_dolignifils
-      Quelle tête !
-Quant à moi, je soutiens, sans me faire de fête,
-Qu'on aime, et que sans doute on aimera toujours.
-Le monde est plein d'amants ; il s'en fait tous les jours...
-
--*who_lemarquis
-Que le goût des plaisirs, la fortune, la gloire,
-L'intérêt, l'amour-propre, et semblables raisons
-Engagent à former entre eux des liaisons
-Qui n'ont rien de l'amour que le nom.
-
--*who_dolignifils
-      J'ose croire
-Qu'il en est dont le coeur est vraiment enflammé.
-
--*who_lemarquis
-Dis que l'on feint d'aimer, et de se croire aimé.
-
--*who_dolignifils
-Mais Marianne a-t-elle attiré votre hommage ?
-
--*who_lemarquis
-Mais, tout comme d'une autre, on peut s'en amuser.
-
--*who_dolignifils
-Ah ! Feindre de l'aimer, c'est lui faire un outrage.
-Et si son coeur allait se laisser abuser ?
-
--*who_lemarquis
-Eh ! Bien, le pis aller, est-ce un si grand dommage ?
-
--*who_dolignifils
-Comment, vous ne feriez semblant de l'adorer
-Que pour le seul plaisir de la déshonorer,
-Et d'en rire après son naufrage ?
-Ah ! Marquis, quel projet ! Quelle malignité !
-Si vous réussissez dans cette indignité,
-À vos remords, un jour, craignez de rendre compte.
-Croyez que, tôt ou tard, ils ne pardonnent rien.
-Renoncez à la gloire, ou plutôt à la honte
-D'établir votre honneur sur les débris du sien.
-
--*who_lemarquis
-Le monde a cependant des maximes contraires.
-
--*who_dolignifils
-Oui, l'on s'y fait un jeu d'un crime accrédité.
-Eh ! Que devient la probité ?
-
--*who_lemarquis
-Elle n'est point requise en ces sortes d'affaires.
-L'usage et la nature, en faveur des plaisirs,
-En ont toujours banni jusqu'au moindre scrupule.
-Il s'agit d'arriver au but de ses désirs :
-La morale y jouerait un rôle ridicule.
-
--*who_dolignifils
-Par ma foi, ce système est plein d'absurdités.
-C'est un assassinat que vous préméditez.
-
--*who_lemarquis
-Tu seras, en amour, une excellente dupe.
-Mais, pour me réjouir, je t'alarmais exprès.
-Marianne, aujourd'hui, n'est point ce qui m'occupe.
-Laissons-la marier ; et nous verrons après.
-
--*who_dolignifils
-La confidence est fort honnête.
-
--*who_lemarquis
-Quant à présent, j'aspire à certaine conquête,
-Dont je fais un peu plus d'état.
-Mon choix va t'étonner ; mais prête-moi l'oreille.
-Doligni, tu connais cette jeune merveille
-Qui remplit tout Paris de son nouvel éclat.
-
--*who_dolignifils
-La célèbre Arthénice ?
-
--*who_lemarquis
-      Oui ; ce n'est qu'elle-même.
-
--*who_dolignifils
-Eh ! Bien ? ...
-
--*who_lemarquis
-      Eh ! Bien ?
-
--*who_dolignifils
-      J'entends. Ma surprise est extrême,
-D'autant plus qu'elle est fine, et que jusques ici,
-De mille et mille amants, pas un n'a réussi.
-
--*who_lemarquis
-Parbleu, je le crois bien... dispense-moi du reste.
-
--*who_dolignifils
-Fort bien.
-
--*who_lemarquis
-      Il faut être modeste.
-
--*who_dolignifils
-Comment fais-tu pour plaire ? Est-ce un don ? Est-ce un art ?
-Mais enseigne-moi donc.
-
--*who_lemarquis
-      On peut t'en faire part.
-Si tu veux recevoir quelque avis salutaire,
-Tu t'en trouveras mieux de toutes les façons.
-
--*who_dolignifils
-Je sens tout le besoin que j'ai de tes leçons.
-
--*who_lemarquis
-Il ne faut que refondre un peu ton caractère.
-
--*who_dolignifils
-Mais vraiment j'y consens.
-
--*who_lemarquis
-      Ton défaut capital
-Est l'embarras subit, le trouble machinal,
-Qui, sans nulle raison, te saisit et te glace,
-Sitôt qu'on te regarde ou qu'on te parle en face.
-Crois-moi, tombe plutôt dans l'autre extrémité
-Rien ne fait plus de tort que la timidité.
-Avec elle, par-tout, on est hors de sa place ;
-Elle suspend, arrête, et fixe les ressorts
-De la langue, des yeux, de l'esprit et du corps :
-Elle en ôte l'usage ; elle en ôte la grâce ;
-Sur tout ce que l'on dit, sur tout ce que l'on fait,
-Elle répand un air gauche, épais, et stupide.
-Tel qu'on prend pour un sot, parce qu'il est timide,
-Aurait de quoi passer pour un homme parfait.
-Mais ce n'est pas là tout ; et si tu te proposes
-D'avoir des succès éclatants,
-Il te faut bien encor d'autres métamorphoses.
-Il te manque le ton, l'air et les moeurs du temps :
-Le monde où tu vas vivre exige, entre autres choses,
-Qu'on soit plus amusant que solide et sensé.
-Tu ne saurais parler qu'après avoir pensé.
-Tu raisonnes toujours, et jamais tu ne causes.
-Déraisonne, morbleu, plutôt que d'ennuyer :
-Un peu moins de bon-sens, et plus de badinage.
-Un homme qui disserte est un homme à noyer.
-La raison, que tu crois un si bel apanage,
-Fut toujours le fléau de la société :
-Elle en chasse les ris, les jeux et la gaieté ;
-Elle y met, à leur place, une langueur mortelle.
-On la vante mal-à-propos ;
-Quand on a de l'esprit, on peut se passer d'elle ;
-La raison, tout au plus, ne convient qu'à des sots.
-
--*who_dolignifils
-Tu traites la raison d'une manière étrange.
-
--*who_lemarquis
-J'en suis bien revenu ; je ne prends plus le change.
-
--*who_dolignifils
-Il y paraît.
-
--*who_lemarquis
-      Pour toi, tâche de profiter.
-Je ne me cite pas ; mais on peut m'imiter.
-
--*who_dolignifils
-Quelqu'un vient.
-
--*who_lemarquis
-      C'est La Fleur.
-
--*who_dolignifils
-      Adieu, je me retire.
-
--*who_lemarquis
-Sur ce que je t'ai dit, fais tes réflexions.
-
-**** *book_ *id_I06 *act_I *date_1744
-
--*who_lafleur
-Ouf !
-
--*who_lemarquis
-      Eh ! Bien, mes commissions ?
-
--*who_lafleur
-Oh ! Palsembleu, Monsieur, souffrez que je respire.
-Si vous continuez ainsi, vous me tuerez.
-
--*who_lemarquis
-Il est vrai qu'avec moi la fatigue est extrême.
-
--*who_lafleur
-Vous autres, que Dieu fit pour être voiturés,
-Vous allez à votre aise, et vous parlez de même.
-Il n'en est pas ainsi des malheureux piétons.
-
--*who_lemarquis
-Reste en place ; respire ; et point de ces dictons.
-
--*who_lafleur
-Morbleu, je suis bien las de ces courses maudites.
-
--*who_lemarquis
-Quels papiers tiens-tu là ?
-
--*who_lafleur
-      La liste des visites.
-
--*who_lemarquis
-J'ai vu celle d'hier.
-
--*who_lafleur
-      Elle est de ce matin.
-
--*who_lemarquis
-Bon !
-
--*who_lafleur
-      Demandez au suisse ; oui, rien n'est plus certain.
-
--*who_lemarquis
-Eh ! Mais, la matinée est un temps solitaire.
-
--*who_lafleur
-Il est certaines gens, pour certaine raison,
-Qui vont dès le matin.
-
--*who_lemarquis
-      Lis.
-
--*who_lafleur
-      Le propriétaire
-De votre petite maison.
-
--*who_lemarquis
-Fort bien.
-
--*who_lafleur
-      Le tapissier.
-
--*who_lemarquis
-      Oui-da !
-
--*who_lafleur
-      Le traiteur.
-
--*who_lemarquis
-      Peste !
-
--*who_lafleur
-Le loueur de carrosse.
-
--*who_lemarquis
-      Après.
-
--*who_lafleur
-      Ainsi du reste.
-
--*who_lemarquis
-Ces messieurs sont venus ?
-
--*who_lafleur
-      Non pas eux, mais leurs gens.
-
--*who_lemarquis
-Ces gens ont-ils des gens !...
-
--*who_lafleur
-      Leurs gens sont des sergents ;
-Et voici, monsieur, de leur prose,
-Et de leurs billets doux.
-
--*who_lemarquis
-      Tant mieux.
-Je n'en ai jamais vu. Contentez-vous, mes yeux...
-
--*who_lafleur
-Chantez ; c'est bien prendre la chose.
-
--*who_lemarquis
-Tiens, fais-en ton profit.
-
--*who_lafleur
-      Beau diable de profit !
-
--*who_lemarquis
-D'ailleurs, chez Arthénice as-tu su t'introduire ?
-
--*who_lafleur
-Plus invisiblement que n'eût fait un esprit.
-
--*who_lemarquis
-Comment se porte-t-on ?
-
--*who_lafleur
-      Bien.
-
--*who_lemarquis
-      Daigne un peu m'instruire.
-Comment a-t-on reçu les bijoux ?
-
--*who_lafleur
-      Mal.
-
--*who_lemarquis
-      Pourquoi ?
-
--*who_lafleur
-C'est qu'il n'était pas jour chez elle ;
-Et qu'ainsi je n'ai pu voir que sa demoiselle.
-Ce n'est pas là mon compte, à moi.
-
--*who_lemarquis
-J'entends, et je t'enjoins de ne jamais rien prendre.
-
--*who_lafleur
-Quoi ! Pas même, monsieur, ce qu'on me donnera ?
-
--*who_lemarquis
-Non ; ou bien tu verras ce qui t'arrivera.
-
--*who_lafleur
-Ah ! Ce ne sera pas de rendre.
-On va la marier.
-
--*who_lemarquis
-      Tout de bon ?
-
--*who_lafleur
-      Tout-à-fait ;
-À ce baron qui la pourchasse :
-Il prétend, dès demain, que la noce se fasse.
-
--*who_lemarquis
-Bon !
-
--*who_lafleur
-      Un petit billet vous mettra mieux au fait.
-
--*who_lemarquis
-Il faut que tout cela finisse.
-De quoi ris-tu ? Dis donc.
-
--*who_lafleur
-      D'un tour assez falot,
-Dont la suivante d'Arthénice
-Vient, à votre sujet, de régaler un sot.
-J'étais dans l'antichambre à causer avec elle,
-En tout bien, tout honneur.
-
--*who_lemarquis
-      Eh ! Tâche d'abréger.
-
--*who_lafleur
-Nous parlions d'amitié, quand la fausse femelle
-A pensé me dévisager.
-"Va-t-en, m'a-t-elle dit, au diable, avec ton maître.
-Depuis assez longtemps, il a dû reconnaître
-Qu'il prend un inutile soin.
-Ma maîtresse n'en veut, ni de près, ni de loin."
-Alors, tout ébaubi, j'ai détourné la tête :
-C'est que le vieux baron lui-même, à pas de loup,
-Venait d'arriver tout-à-coup,
-Qui mordant à la grappe, et d'un air tout honnête,
-Accompagné pourtant d'un geste cavalier,
-M'a flatté, si jamais le hasard me ramène,
-Qu'il aurait la bonté de m'épargner la peine
-De descendre par l'escalier.
-
--*who_lemarquis
-Je voudrais qu'il osât te faire cette grâce.
-
--*who_lafleur
-Eh ! Non pas, s'il vous plaît ; souffrez que je m'en passe.
-J'ai volé chez Michel, et de-là chez Passeau.
-J'ai vu vos deux habits ; ma foi, rien n'est si beau ;
-Je ne crois pas qu'on puisse en avoir de plus lestes.
-Après, j'ai, sans aucun délai,
-Été chez la Duchapt ; et puis, chez la Bourrai ;
-Leurs filles sont après à garnir vos deux vestes ;
-L'une est en petit jaune, et l'autre en petit bleu.
-
--*who_lemarquis
-Les aurai-je bientôt ?
-
--*who_lafleur
-      Vous les aurez dans peu ;
-Mais l'argent à la main.
-
--*who_lemarquis
-      Ou Monsieur La Fleur est ivre,
-Ou ces gens sont devenus fous.
-Parbleu, je ferais bien, pour leur apprendre à vivre,
-De ne m'en plus servir.
-
--*who_lafleur
-      C'est ce qu'ils disent tous.
-Par l'homme en question j'ai fini mes messages ;
-Seriez-vous assez fou pour en tâter encore ?
-
--*who_lemarquis
-Aurai-je de l'argent ?
-
--*who_lafleur
-      Oui, mais au poids de l'or.
-Il demande un billet du triple, et de bons gages.
-
--*who_lemarquis
-Mais il en a déjà pour plus que je ne dois.
-
--*who_lafleur
-Faute de les avoir retirés dans le mois,
-Ils lui sont dévolus. Ignorez-vous l'usage ?
-
--*who_lemarquis
-N'importe. J'ai besoin, en un mot comme en cent,
-De deux mille louis.
-
--*who_lafleur
-      Quel besoin si pressant
-En pouvez-vous avoir ?
-
--*who_lemarquis
-      Est-ce donc qu'à mon âge
-Il n'est pas naturel de chercher à jouir ?
-
--*who_lafleur
-Sans être libertin, on peut se réjouir.
-
--*who_lemarquis
-Comment donc libertin ? Le suis-je ?
-
--*who_lafleur
-      Ah ! Mon cher maître,
-Vous l'êtes beaucoup plus, en croyant ne pas l'être.
-
--*who_lemarquis
-Mais encore en quoi donc ? Dis-le-moi ; j'y consens.
-
--*who_lafleur
-Eh ! Parbleu, tout vous duit à la fois ; somme toute,
-Rien n'y manque, le vin, le jeu, l'amour.
-
--*who_lemarquis
-      Sans doute.
-Eh ! Ne sont-ce pas là des plaisirs innocens ?
-
--*who_lafleur
-Vous les menez un train de chasse ;
-Et vous indisposez le public contre vous.
-
--*who_lemarquis
-Ah ! S'il a de l'humeur, que veux-tu que j'y fasse ?
-Peut-on empêcher les jaloux ?
-Crois-moi, va, je connais le monde ;
-On n'y blâme que ceux qu'on voudrait imiter.
-
--*who_lafleur
-En faux raisonnements votre morale abonde.
-Mais, encore une fois, sachez vous limiter.
-Si vous ne changez pas tout-à-fait de conduite,
-Empêchez que du moins on n'en parle en tous lieux.
-Madame votre mère en pourrait être instruite.
-Elle a beau vous aimer, elle ouvrira les yeux.
-Vous avez une soeur, qu'elle vous sacrifie :
-Songez-y ; je vous signifie
-Qu'elle pourrait fort bien la tirer du couvent,
-Pour lui faire, avec vous, partager l'héritage,
-Et peut-être encor davantage.
-Vous savez que monsieur l'en presse assez souvent.
-
--*who_lemarquis
-Eh ! Ventrebleu ! Va-t-en faire un tour à l'office,
-Et rêver, en buvant, aux moyens les plus prompts
-De refaire ma bourse et de me mettre en fonds.
-Le vin te fournira quelque heureux artifice.
-
--*who_lafleur
-Pour boire, je boirai.
-
--*who_lemarquis
-      Va donc, sois diligent.
-
--*who_lafleur
-Je l'entends un peu mieux que tout autre négoce.
-
--*who_lemarquis
-À tel prix que ce soit, il me faut de l'argent.
-
--*who_lafleur
-S'il venait en buvant, je roulerais carrosse.
-
-**** *book_ *id_II01 *act_II *date_1744
-
--*who_mmeargant
-Le Marquis viendra-t-il ?
-
--*who_rosette
       Un peu de patience.
 Je l'ai fait avertir ; il ne tardera pas.
 À quelques importuns qui retardent ses pas,
 Il achève à présent de donner audience.
 
--*who_mmeargant
-Ah ! Rosette !
-
--*who_rosette
       Comment ! Qui vous fait soupirer ?
 
--*who_mmeargant
-Mon fils.
-
--*who_rosette
       En quoi, madame, y peut-il conspirer ?
 N'êtes-vous pas toujours la plus heureuse mère ?
 
--*who_mmeargant
-Je crains que ce bonheur ne soit qu'une chimère.
-
--*who_rosette
 De la part du marquis, que s'est-il donc passé ?
 Vous serait-il moins cher ?
 
--*who_mmeargant
-      Je rougis de le dire ;
-Mon amour va pour lui toujours jusqu'au délire.
-
--*who_rosette
 L'excès en est permis, quand il est bien placé.
 
--*who_mmeargant
-Eh ! Qui me répondra que mon fils le mérite ?
-
--*who_rosette
 Ma foi, ce n'est pas moi. N'allons pas à l'appui
 D'un accès de raison qui passera bien vite.
 Qu'avez-vous découvert qui vous déplaise en lui ?
 Il me semble pourtant qu'il est toujours de même.
 
--*who_mmeargant
-C'est de quoi je me plains.
-
--*who_rosette
       Ma surprise est extrême.
 Eh ! Peut-il être mieux, sans y perdre ? Il est bien.
 S'il cessait d'être un fat, il ne serait plus rien.
 Madame, dépouillons les préjugés vulgaires.
 
--*who_mmeargant
-Il a bien des défauts, ou je me trompe fort.
-
--*who_rosette
 S'il a quelques défauts, ils lui sont nécessaires.
 
--*who_mmeargant
-Comment ?
-
--*who_rosette
       Je le soutiens, et nous serons d'accord.
 Quoi ! Trouvez-vous mauvais qu'il soit l'homme de France
 Qui sçait le mieux choisir une étoffe de goût ;
@@ -1043,36 +493,15 @@ Qu'il cherche à ressembler aux gens de qualité ?
 Qu'il aime le plaisir, et contracte des dettes ?
 Eh ! N'en voulez-vous pas faire un homme de cour ?
 
--*who_mmeargant
-C'est le projet flatteur qu'a formé mon amour.
-
--*who_rosette
 Ne vous plaignez donc point.
 
--*who_mmeargant
-      Mais es-tu bien certaine...
-
--*who_rosette
 Il ira loin. Pour moi, je n'en suis point en peine.
 
--*who_mmeargant
-J'en accepte l'augure... à propos de cela,
-Conçois-tu mon mari ?
-
--*who_rosette
       La demande est nouvelle !
 Est-ce qu'on peut jamais concevoir ces gens-là ?
 
--*who_mmeargant
-Son obstination me paraît bien cruelle.
-
--*who_rosette
 Oui, sa prévention contre un fils si bien né...
 
--*who_mmeargant
-Est le premier chagrin qu'il m'ait jamais donné.
-
--*who_rosette
 Ce n'est que depuis peu que son humeur varie,
 Qu'il a des volontés, et qu'il vous contrarie.
 Il lui sied bien, en vérité !
@@ -1082,29 +511,12 @@ Mais vous auriez la paix, si, pour le satisfaire,
 Vous vouliez retirer, ainsi qu'il le prétend,
 Votre fille du cloître.
 
--*who_mmeargant
-      Il est vrai.
-
--*who_rosette
       Pourquoi faire ?
 Pour priver Le Marquis de la moitié du bien ?
 
--*who_mmeargant
-Et m'empêcher par-là de faire un mariage
-Où je vois, pour mon fils, le plus grand avantage.
-
--*who_rosette
 Affaire de ménage, où l'homme n'entend rien.
 Votre dessein n'est pas de l'en laisser le maître ?
 
--*who_mmeargant
-Non vraiment ; si cela peut être,
-Je prétends que mon fils ait un brillant état.
-Je veux, par les grands biens qui sont en ma puissance,
-Suppléer au défaut d'une illustre naissance,
-Et que dans le grand monde il vive avec éclat.
-
--*who_rosette
 Rien n'est plus naturel qu'un si grand sacrifice.
 Ce projet vous est cher ; vous l'avez résolu.
 Il faut bien, à son tour, que monsieur obéisse.
@@ -1117,2297 +529,18 @@ Qu'elle porte son nom.
 Notez, par apostille,
 Qu'elle reçoit sa nièce et refuse sa fille.
 
--*who_mmeargant
-Que dis-tu ?
-
--*who_rosette
       Que c'est vous montrer
 La tante la meilleure et la plus généreuse
 Qu'on puisse jamais rencontrer.
 
--*who_mmeargant
-Voilà mon fils.
-
--*who_rosette
       Déjà ! L'aventure est heureuse !
 
--*who_mmeargant
-Qu'il est mis agréablement !
-
-**** *book_ *id_II02 *act_II *date_1744
-
--*who_lemarquis
-Je me jette à vos pieds. Je suis réellement
-Outré, désespéré de m'être fait attendre.
-Je devais tout quitter, et ne point m'amuser.
-Me pardonnerez-vous ?
-
--*who_rosette
       Ah ! Comme il sait la prendre !
 
--*who_mmeargant
-Rosette a sçu vous excuser.
-
--*who_lemarquis
-Rosette !
-
--*who_rosette
       Moi ! Madame !
 
--*who_mmeargant
-      Oui : soyez content d'elle.
-Cette fille vous aime.
-
--*who_lemarquis
-      Elle me connaît bien.
-
--*who_mmeargant
-Va, compte qu'il saura récompenser ton zèle.
-
--*who_rosette
 Oui-da !
 
--*who_mmeargant
-      Mais laisse-nous un moment d'entretien.
-
-**** *book_ *id_II03 *act_II *date_1744
-
--*who_mmeargant
-J'aurais à vous parler.
-
--*who_lemarquis
-      Vous serez mieux assise.
-
--*who_mmeargant
-Il n'en est pas besoin ; restez.
-J'exigerais de vous une entière franchise.
-
--*who_lemarquis
-Mon coeur vous est ouvert.
-
--*who_mmeargant
-      Vous me la promettez ?
-
--*who_lemarquis
-Dans la sincérité mon âme est affermie ;
-J'en fais profession, et surtout avec vous.
-
--*who_mmeargant
-Votre mère ne veut être que votre amie.
-
--*who_lemarquis
-C'est unir à la fois les titres les plus doux.
-
--*who_mmeargant
-À votre âge, mon fils, et fait comme vous êtes,
-Recevant dans le monde un accueil enchanteur,
-On a dû vous dresser mille embûches secrètes,
-Pour obtenir de vous un hommage flatteur.
-Quand vous auriez cédé, par goût ou par faiblesse,
-J'excuserais votre jeunesse ;
-Je fermerais les yeux. Parlez-moi franchement.
-Vous passez pour avoir un tendre attachement :
-C'est une beauté rare, et qu'on m'a fort vantée,
-Mais à quoi votre sort ne peut pas être joint...
-Vous rougissez, mon fils, et ne répondez point.
-Si votre âme, à présent, un peu trop enchantée,
-Ne peut abandonner ce dangereux vainqueur,
-J'attendrai que le temps vous rende votre coeur,
-Et vous mette en état d'entrer sans répugnance
-Dans des projets, pour vous, formés dès votre enfance,
-Et que, jusqu'à ce jour, je n'ai point négligés.
-
--*who_lemarquis
-Ah ! Vous méritez tout ce que vous exigez.
-Oui, l'on vous a dit vrai : mais soyez plus tranquille.
-C'est un amusement frivole et passager,
-Que mon coeur, sans vouloir autrement s'engager,
-S'est fait depuis peu par la ville,
-Seulement pour remplir un loisir inutile.
-Pareil attachement, (si pourtant c'en est un,)
-Ne tient qu'autant qu'on veut ; la rupture est facile :
-Rien n'est plus simple et plus commun.
-De semblables romans n'ont pas pour héroïnes
-Des personnes assez divines
-Pour fixer, sans retour, ceux qui leur font l'honneur
-D'offrir quelque encens à leurs charmes.
-C'est l'espoir assuré d'un facile bonheur
-Qui fait que l'on s'abaisse à leur rendre les armes.
-Elles n'allument point de véritables feux ;
-Et l'on est leur amant, sans en être amoureux.
-
--*who_mmeargant
-Que le mépris que vous en faites
-Augmente mon estime, et mon amour pour vous !
-Ah ! Mon fils, pardonnez mes frayeurs indiscrètes.
-Votre établissement est l'objet le plus doux
-Que ma tendresse se propose ;
-Et j'y travaille utilement.
-
--*who_lemarquis
-Et c'est sur vous aussi que mon coeur s'en repose.
-
--*who_mmeargant
-J'ai de l'ambition ; mais pour vous seulement.
-
--*who_lemarquis
-Que ne vous dois-je pas !
-
--*who_mmeargant
-      Écoutez, je vous prie.
-Vous aurez tout mon bien, je vous l'ai destiné.
-Mais ce n'est pas assez ; et vous n'êtes pas né
-Pour vivre et pour passer simplement votre vie
-Dans l'indolente oisiveté
-D'une opulente obscurité.
-
--*who_lemarquis
-Ce n'est pas là mon plan.
-
--*who_mmeargant
-      Je ne fais aucun doute
-Que vous n'ayez dessein de paraître au grand jour ;
-Que votre but ne soit de percer à la cour :
-Un bien considérable en aplanit la route.
-Mais, pour vous abréger un chemin toujours long,
-Il serait un moyen plus facile et plus prompt.
-
--*who_lemarquis
-Et ce moyen qui s'offre à votre prévoyance, seroit ?
-
--*who_mmeargant
-Un mariage ; une fille, en un mot,
-Qui vous apporterait en dot
-Le crédit et l'appui d'une grande alliance.
-
--*who_lemarquis
-On ne peut mieux penser. Vous ne m'étonnez point :
-Mais l'hymen, à mon âge, est un état bien grave.
-Quoi ! Voulez-vous sitôt que je devienne esclave ?
-
--*who_mmeargant
-Un mari ne l'est pas. Auriez-vous sur ce point
-Un peu d'aversion ?
-
--*who_lemarquis
-      Moi ! Madame ? Eh ! Qu'importe ?
-Quand mon aversion serait cent fois plus forte,
-Croyez que de ma part, en cela, comme en tout,
-Le sacrifice est prêt : ce n'est pas une affaire.
-Le désir de vous satisfaire
-Me tiendra toujours lieu de penchant et de goût.
-Mais mon père ? ...
-
--*who_mmeargant
-      Ah ! Je sais comment il faut s'y prendre.
-Je prévois ses refus ; mais ils ne tiendront pas.
-Nous disputons beaucoup. Après bien des débats,
-Votre père s'apaise, et finit par se rendre.
-Par exemple, il avait fortement décidé
-Que vous seriez de robe.
-
--*who_lemarquis
-      Ah ! Ciel !
-
--*who_mmeargant
-      Il a cédé.
-N'en a-t-il pas été de même
-Pour le déterminer à vous faire un état.
-Au sujet de ce marquisat
-Sa répugnance était extrême ;
-Il ne voulait pas s'y prêter :
-Mais vous le désiriez ; c'est sur quoi je me fonde :
-Aussi l'ai-je forcé de l'aller acheter.
-
--*who_lemarquis
-Ne faut-il pas avoir un titre dans le monde ?
-Mais celui de marquis me flatte infiniment ;
-Je vous l'avoue ingénument.
-Si vous n'aviez pas eu la bonté de contraindre
-Mon père à cet achat, j'eusse été très à plaindre.
-
--*who_mmeargant
-Cette acquisition l'a longtemps retenu.
-
--*who_lemarquis
-Il est vrai ; c'est ce qui m'étonne.
-
--*who_mmeargant
-Il arrive aujourd'hui ; l'avis m'en est venu.
-
--*who_lemarquis
-Je crois qu'à son retour la scène sera bonne.
-Il ne sera pas mal surpris
-De l'état que nous avons pris
-Pendant le cours de son absence.
-Il ne pourra pas voir, sans jeter les hauts cris,
-Ces embellissements et ces meubles de prix.
-Il n'a jamais donné dans la magnificence.
-Ce nombre de valets, et ce suisse sur-tout,
-Ne seront pas trop de son goût.
-
-**** *book_ *id_II04 *act_II *date_1744
-
--*who_m.argant
-Voyez cet animal qui m'arrête à la porte !
-
--*who_lesuisse
-Que voulez-vous ?
-
--*who_m.argant
-      Eh ! Que t'importe ?
-Mais est-ce ici chez moi ?
-
--*who_lesuisse
-      çà, Monsieur, votre nom ?
-
--*who_m.argant
-Mon nom ?...
-
--*who_lesuisse
-      Afin qu'on vous annonce.
-
--*who_m.argant
-Je n'en connais pas un.
-
--*who_lesuisse
-      J'attends votre réponse.
-
--*who_1erlaquais
-Connais-tu ça ?
-
--*who_2emelaquais
-      Moi ! Ma foi, non.
-
--*who_lemarquis
-Ah ! Monsieur, pardonnez... madame, c'est mon père.
-Excusez des valets...
-
--*who_m.argant
-      Quel est donc ce mystère ?
-
--*who_mmeargant
-C'est vous, Monsieur Argant ?
-
--*who_m.argant
-      Moi-même, Dieu merci,
-Qu'une espèce de singe, avec sa barbe torse,
-Ne voulait point du tout laisser entrer ici :
-Il a presque fallu que j'usasse de force.
-
--*who_lemarquis
-Un suisse, comme un sot, fait toujours son métier.
-
--*who_m.argant
-Vous avez pris un suisse ?
-
--*who_lemarquis
-      Oui, Monsieur.
-
--*who_m.argant
-      Pour quoi faire ?
-
--*who_lemarquis
-Un suisse est à la porte un meuble nécessaire.
-
--*who_m.argant
-Il ne nous faut qu'un vieux portier.
-Et ce tas de valets dont l'antichambre est pleine,
-Est-il d'ici ?
-
--*who_lemarquis
-      Sans doute. Il faut être servi.
-
--*who_m.argant
-Mais en faut-il une douzaine ?
-
--*who_lemarquis
-Chacun a son emploi.
-
--*who_m.argant
-      Fort bien, j'en suis ravi.
-Parbleu, pendant deux mois qu'a duré mon voyage,
-L'extravagance a fait ici bien du ravage !
-
--*who_lemarquis
-Mais en quoi donc, Monsieur ?
-
--*who_m.argant
-      Déjà deux ou trois fois
-Ce titre de monsieur a choqué mon oreille.
-Vous ne vous serviez pas d'épithète pareille.
-Le nom de père est-il devenu trop bourgeois,
-Pour pouvoir à présent sortir de votre bouche ?
-Il faut que cela soit.
-
--*who_lemarquis
-      Ce reproche me touche.
-Je croyais vous traiter avec plus de respect ;
-Et j'ignore pourquoi monsieur s'en formalise.
-
--*who_m.argant
-Ma foi, s'il faut que je le dise,
-Ce cérémonial me paraît fort suspect ;
-Et c'est la vanité qui l'a mis en usage.
-Je sais que chez les grands il est autorisé ;
-Que chez les gens d'un moindre étage
-Ce ridicule abus s'est impatronisé ;
-Il s'est même glissé jusques dans la roture :
-Mais il n'est pas moins vrai qu'il blesse la nature.
-Pour chez moi, s'il vous plaît, il n'aura point de cours.
-Sachez, en m'appelant par mon nom véritable,
-Que le titre de père est le plus respectable
-Qu'un fils puisse donner à l'auteur de ses jours.
-
--*who_mmeargant
-Il est vrai ; mais enfin je sais qu'au fond de l'âme
-Il ne m'aime pas moins pour m'appeler madame.
-
--*who_m.argant
-Ma femme, quant à vous, je ne m'en mêle pas ;
-C'est une affaire à part ; je n'en veux point connaître.
-
-**** *book_ *id_II05 *act_II *date_1744
-
--*who_m.argant
-Quelle est cette autre espèce ? Où s'adressent tes pas ?
-
--*who_lecoureur
-Ici.
-
--*who_m.argant
-      Qu'es-tu ?
-
--*who_lecoureur
-      Coureur.
-
--*who_m.argant
-      Qui cherches-tu ?
-
--*who_lecoureur
-      Mon maître ?
-
--*who_m.argant
-Quel est-il ?
-
--*who_lecoureur
-      Eh ! Parbleu, c'est monsieur Le Marquis.
-
--*who_m.argant
-Quel marquis ?
-
--*who_lecoureur
-      Le voilà.
-
--*who_m.argant
-      Qui donc ?
-
--*who_mmeargant
-      Eh ! C'est mon fils.
-
--*who_m.argant
-Lui ?
-
--*who_mmeargant
-      Sans doute.
-
--*who_lemarquis
-      Va-t-en.
-
-**** *book_ *id_II06 *act_II *date_1744
-
--*who_m.argant
-      C'est ainsi qu'on vous nomme ?
-
--*who_lemarquis
-Oui, Monsieur.
-
--*who_m.argant
-      De quel droit ? Mais vous m'étonnez fort.
-
--*who_lemarquis
-Je crois en avoir deux.
-
--*who_m.argant
-      Qui sont-ils donc ?
-
--*who_lemarquis
-      D'abord,
-N'avez-vous pas l'honneur d'être né gentilhomme ?
-
--*who_m.argant
-Un peu. Mais est-ce assez pour s'appeler Marquis ?
-Argant, vous êtes fou.
-
--*who_mmeargant
-      N'avez-vous pas acquis ? ...
-
--*who_m.argant
-Et quoi ?
-
--*who_mmeargant
-      Ce marquisat que nous avions en vue ?
-Est-ce que ce n'est pas une affaire conclue ?
-
--*who_m.argant
-Un marquisat ?
-
--*who_mmeargant
-      Est-il acheté ?
-
--*who_m.argant
-      Ma foi, non.
-
--*who_lemarquis
-Ah ! Madame...
-
--*who_mmeargant
-      Ah ! Monsieur...
-
--*who_m.argant
-      Il est trop cher.
-
--*who_lemarquis
-      Qu'entends-je ?
-
--*who_m.argant
-Mais vous ne perdrez rien au change.
-
--*who_mmeargant
-Mais mon fils en a pris le nom.
-
--*who_m.argant
-Palsembleu, qu'il le quitte.
-
--*who_lemarquis
-      Ah ! Ciel ! Est-il possible !
-
--*who_mmeargant
-Autant qu'à vous, mon fils, cet affront m'est sensible.
-
--*who_m.argant
-Entre nous, pourquoi l'a-t-il pris ?
-Faut-il, pour satisfaire à ses étourderies,
-Être aussi fou que lui ? J'ai, mais à fort bon prix,
-Acquis trois bonnes métairies,
-Pays gras, terre à bled.
-
--*who_lemarquis
-      Mais quelles gueuseries !
-Mon père est bien désespérant !
-
--*who_m.argant
-Ces acquisitions, je vous en suis garant,
-Valent mieux que dix seigneuries.
-
--*who_lemarquis
-J'enrage de bon coeur.
-
--*who_mmeargant
-      Sachez vous contenir ;
-Ou plutôt, laissez-nous ; je vais l'entretenir.
-
-**** *book_ *id_II07 *act_II *date_1744
-
--*who_mmeargant
-Vous êtes bien cruel !
-
--*who_m.argant
-      Moi ! La plainte est nouvelle !
-
--*who_mmeargant
-J'ai cru que vous m'aimiez ; mais vous ne m'aimez point.
-
--*who_m.argant
-Fort bien. Mécontentez une femme en un point,
-Tout le passé s'oublie, et n'est plus rien pour elle.
-
--*who_mmeargant
-Oui, je suis une ingrate ; allons, accablez-moi ;
-Ne ménagez plus rien. Ah ! Que je suis outrée !
-
--*who_m.argant
-Ma femme, sans courroux, parlons de bonne foi.
-Nous convient-il d'avoir une terre titrée ?
-Que diable ! Un marquisat n'a pas le sens commun.
-
--*who_mmeargant
-Eh ! Pourquoi donc mon fils n'en aurait-il pas un ?
-Il n'est pas assez noble, et la terre est trop chère :
-Sont-ce là des raisons d'un homme de bon sens ?
-Non, monsieur ; vous voulez, je le vois, je le sens,
-Mortifier le fils, désespérer la mère.
-Vous vous lassez de moi.
-
--*who_m.argant
-      Parlez-vous tout de bon ?
-
--*who_mmeargant
-Que je suis malheureuse !
-
--*who_m.argant
-      Ah ! C'est une autre affaire.
-Ayons ce marquisat. Il faut vous satisfaire.
-
--*who_mmeargant
-Quand mon fils en a pris le titre avec le nom,
-Est-il temps d'écouter un frivole scrupule ?
-
--*who_m.argant
-Argant sera marquis.
-
--*who_mmeargant
-      Eh ! Sans doute. Autrement
-Ce serait le couvrir du plus grand ridicule.
-
--*who_m.argant
-Je vais écrire.
-
--*who_mmeargant
-      Promptement...
-
--*who_m.argant
-Oui.
-
--*who_mmeargant
-      Je vous attendais avec impatience,
-D'autant plus qu'il s'agit d'une grande alliance
-Pour mon fils.
-
--*who_m.argant
-      Je m'en doutais bien.
-
--*who_mmeargant
-On propose une fille aimable et de naissance,
-Et qui même appartient à plus d'une puissance.
-
--*who_m.argant
-C'est-à-dire qu'elle n'a rien.
-
--*who_mmeargant
-Mon fils est assez riche. Un si grand mariage
-Lui procure, entre autre avantage,
-Une entrée à la cour, avec un régiment.
-Il ne trouverait plus d'occasion si belle.
-
--*who_m.argant
-Qu'exige-t-on de vous ?
-
--*who_mmeargant
-      Eh ! Mais apparemment
-Que j'assure mon bien.
-
--*who_m.argant
-      C'est une bagatelle...
-Et ma fille ? ...
-
--*who_mmeargant
-      Allez-vous encore, à ce sujet,
-Réveiller le procès que nous avions ensemble,
-Au lieu d'embrasser mon projet ?
-
--*who_m.argant
-Mais, ma femme...
-
--*who_mmeargant
-      Mais quoi ! Tout est dit, ce me semble.
-Dans cet asile heureux, et par elle chéri,
-Où le ciel doit avoir accoutumé sa vie,
-J'aurai soin de lui faire un sort digne d'envie.
-Où peut-elle être mieux ?
-
--*who_m.argant
-      Avec un bon mari.
-
--*who_mmeargant
-Rien n'est plus incertain. Mais qui vient nous surprendre ?
-C'est Monsieur Doligni. Je vous laisse avec lui.
-Songez que l'on attend ma réponse aujourd'hui.
-
-**** *book_ *id_II08 *act_II *date_1744
-
--*who_dolignipere
-Vous voilà de retour. On vient de me l'apprendre :
-Aussi-tôt l'amitié vers vous m'a fait voler.
-Vous avez du chagrin, je pense ?
-
--*who_m.argant
-Ma femme...
-
--*who_dolignipere
-      Eh ! Bien, quoi donc ?
-
--*who_m.argant
-      Vient de me désoler.
-
--*who_dolignipere
-Si tôt ?
-
--*who_m.argant
-      J'arrive à peine, après deux mois d'absence...
-C'est pour se remettre au courant.
-Puis-je vous consoler ?
-
--*who_m.argant
-      Non.
-
--*who_dolignipere
-      Pourquoi, je vous prie ?
-Vous me revoyez donc d'un oeil bien différent ?
-
--*who_m.argant
-Mon amitié pour vous ne s'est point affaiblie.
-Puis-je me consoler, quand moi-même je crains
-De vous plonger bientôt dans les plus grands chagrins.
-
--*who_dolignipere
-Je n'en prends jamais pour mon compte ;
-Je n'ai que ceux de mes amis.
-
--*who_m.argant
-Ma femme, et j'en rougis de honte,
-Me veut faire manquer à ce que j'ai promis.
-Éprise, pour son fils, d'une amitié trop tendre,
-Elle pense à lui seul, et ne veut point de gendre.
-
--*who_dolignipere
-Je le savais déjà. Je vous dirai de plus,
-Que je vous rends votre promesse.
-
--*who_m.argant
-Vous croyez que ma femme en sera la maîtresse ?
-
--*who_dolignipere
-N'ayez point, là-dessus, de débats superflus.
-Par une autre raison qui n'est pas moins contraire,
-Ce mariage-là n'aurait pas pu se faire.
-Mon fils, à ce sujet, implore ma pitié.
-Il aime éperdument une jeune personne
-Digne de sa tendresse et de mon amitié.
-
--*who_m.argant
-Il a donc votre aveu ?
-
--*who_dolignipere
-      Mais oui, je le lui donne.
-
--*who_m.argant
-Hélas !
-
--*who_dolignipere
-      Son choix fera mon bonheur et le sien.
-J'espérais pour ma fille une chaîne si belle,
-Et qu'un jour votre fils serait aussi le mien.
-D'ailleurs, cette beauté qu'il aime, quelle est-elle ?
-
--*who_dolignipere
-Marianne.
-
--*who_m.argant
-      Ma nièce ?
-
--*who_dolignipere
-      Oui, depuis quatre mois,
-Il n'a pas pu la voir sans y fixer son choix.
-
--*who_m.argant
-Marianne est l'objet dont son âme est charmée ?
-
--*who_dolignipere
-La présence décide ; on se prend par les yeux :
-S'il eût vu votre fille, il l'eût sans doute aimée.
-
--*who_m.argant
-Son choix revient au même : il n'en sera pas mieux.
-Voyez en même temps ma douleur et ma joie.
-Ouvrez-moi votre sein ; que mon coeur s'y déploie :
-Comme un dépôt sacré, recevez un secret
-Que ma tendre amitié vous taisait à regret.
-Cette jeune orpheline, où tant de beauté brille,
-Que votre fils adore, et que vous chérissez...
-
--*who_dolignipere
-Eh ! Bien... vous vous attendrissez.
-
--*who_m.argant
-Cette nièce...
-
--*who_dolignipere
-      Achevez.
-
--*who_m.argant
-      Marianne est ma fille.
-Que m'apprenez-vous là ?
-
--*who_m.argant
-      Mon amour paternel
-A trouvé le moyen, à l'insu de sa mère,
-De retirer ici cette fille si chère,
-Qu'elle voulait laisser dans un cloître éternel.
-Marianne se croit la fille de mon frère,
-Et n'imagine pas qu'elle soit chez son père.
-
--*who_dolignipere
-Bon !
-
--*who_m.argant
-      Elle est dans la bonne foi.
-
--*who_dolignipere
-Comment a-t-elle pu vous croire ?
-
--*who_m.argant
-Je n'ai pas eu de peine à forger une histoire.
-Feu mon frère eut toujours le même nom que moi.
-C'est ce qui m'a servi ; d'autant plus que ma fille,
-Qui fut mise au couvent dès l'âge de deux ans,
-N'a pas trop entendu parler de sa famille,
-Et n'a vû de sa vie aucun de ses parents.
-Ne pouvant engager mon épouse obstinée
-D'aller, jusqu'à Poitiers, voir cette infortunée,
-Et n'étant que trop sûr qu'elle veut, malgré moi,
-Immoler à son fils cette triste victime,
-Le détour que j'ai pris m'a paru légitime.
-C'est la nécessité qui m'en a fait la loi ;
-Et c'est, pour m'excuser, sur quoi je me retranche.
-
--*who_dolignipere
-Le scrupule est plaisant ! Vous me faites pitié.
-Eh ! Trompez sans regret votre chère moitié.
-Attraper une femme, est prendre sa revanche.
-
--*who_m.argant
-En un mot, j'ai pris ce détour.
-
--*who_dolignipere
-Il est assez bon, ce me semble.
-
--*who_m.argant
-Et je n'ai si longtemps retardé mon retour,
-Que pour les mieux laisser s'accoutumer ensemble.
-Marianne a de quoi charmer ;
-Et je m'en vais savoir si, pendant mon absence,
-Ses charmes et son innocence,
-De son aveugle mère ont pu la faire aimer...
-La voici qui paraît. Laissez-nous, je vous prie.
-Sur-tout ne dites point ce que je vous confie ;
-Pas même à votre fils.
-
-**** *book_ *id_II09 *act_II *date_1744
-
--*who_m.argant
-      Comment vont nos projets ?
-Apprends-moi quel succès a couronné ton zèle.
-Sur le coeur de ta tante as-tu fait des progrès ?
-Dis-moi, ma chère nièce, es-tu bien avec elle ?
-Tu sais ce qu'en partant d'ici,
-Je t'ai recommandé comme un point nécessaire.
-
--*who_marianne
-J'ai fait ce que j'ai pu.
-
--*who_m.argant
-      Tout a donc réussi,
-Car tu plairas toujours à qui tu voudras plaire.
-
--*who_marianne
-Présumez un peu moins de mon faible talent.
-Il est vrai qu'en cherchant à remplir votre attente,
-Qu'en tâchant de gagner l'amitié de ma tante,
-Je ne me faisais point un effort violent.
-Que dis-je ? Un sentiment que je ne puis comprendre,
-À mon obéissance a servi de soutien ;
-Et mon coeur, étonné de se trouver si tendre,
-N'a, je crois, rien omis pour mériter le sien ;
-Mais...
-
--*who_m.argant
-      L'heureuse nouvelle ! Achève ton ouvrage.
-Je ne te dis qu'un mot ; qu'il serve à t'animer.
-Mariage, fortune, espérance, héritage,
-Tout dépend de ma femme, et de s'en faire aimer.
-Je ne puis rien pour toi.
-
--*who_marianne
-      Quelle erreur est la vôtre !
-
--*who_m.argant
-Par des arrangements que la fortune a faits,
-Ma femme est ta ressource ; et tu n'en as point d'autre.
-
--*who_marianne
-Il faut donc renoncer à ses moindres bienfaits.
-
--*who_m.argant
-Comment donc ?
-
--*who_marianne
-      Étouffez une douce espérance,
-Qui n'a servi qu'à vous tromper.
-De tout ce que j'ai fait, rien n'a pu dissiper,
-Ni vaincre son indifférence.
-C'est un projet flatteur qui ne peut s'accomplir.
-Je connais trop son coeur ; il m'est inaccessible :
-Ce n'est que pour son fils qu'il peut être sensible :
-Il l'occupe, et n'y laisse aucun vide à remplir.
-Loin d'entrer avec lui dans le moindre partage,
-Je ne sais si mes soins ne m'ont pas fait haïr.
-Ne me forcez donc pas d'insister davantage.
-
--*who_m.argant
-Eh ! Que veux-tu de moi ?
-
--*who_marianne
-      Que vous me laissiez fuir,
-Et rentrer au couvent d'où vous m'avez tirée.
-
--*who_m.argant
-Je ne puis.
-
--*who_marianne
-      Accordez cette grâce à mes pleurs.
-En vous la demandant mon âme est déchirée.
-Vous m'aimez : je prévois avec quelles douleurs
-Vous supporterez ma retraite.
-
--*who_m.argant
-Ne t'imagine pas non plus que je m'y prête.
-J'ai de fortes raisons pour ne pas consentir
-À te laisser aller suivre une folle envie.
-
--*who_marianne
-Ah ! N'appréhendez pas qu'un jour le repentir
-Vienne dans mon désert empoisonner ma vie.
-Je trouverai de quoi fixer tous mes désirs
-Dans sa tranquillité profonde.
-C'est lorsqu'on a du moins un peu connu le monde
-Qu'on peut, dans la retraite, avoir de vrais plaisirs.
-Que je m'en vais l'aimer ! Qu'elle me sera chère !
-Je n'y sentirai plus le poids de ma misère.
-Hélas ! Je l'ignorais dans mon obscurité :
-J'y vivais sans me voir sans cesse humiliée
-Par le défaut de bien, de rang, de qualité :
-Permettez qu'à jamais j'y puisse être oubliée.
-
--*who_m.argant
-Non ; c'est un dessein pris, où je suis affermi :
-Je te veux marier ; et je t'ai destinée
-Au fils de mon meilleur ami.
-Nous avons tous les deux conclu cet hyménée.
-S'il est à ton gré, comme au mien,
-Si Doligni te plaît... tu rougis ! Ah ! Fort bien.
-La pudeur fut toujours la première des grâces.
-J'en tire un bon augure. Il sera ton époux...
-Quel est cet inconnu qui marche sur nos traces ?
-
-**** *book_ *id_II10 *act_II *date_1744
-
--*who_maitredhotel
-Mademoiselle, un mot.
-
--*who_marianne
-      Que vous plaît-il ?
-
--*who_maitredhotel
-      Tout doux.
-Ce vieux monsieur-là, sauf son respect et le vôtre,
-Eh ! Bien... Est-ce monsieur ?
-
--*who_marianne
-      Oui.
-
--*who_maitredhotel
-      Lui ? J'en suis ravi.
-
--*who_m.argant
-Quel est cet importun ?
-
--*who_maitredhotel
-      Autant vaut-il qu'un autre.
-
--*who_marianne
-C'est le maître d'hôtel.
-
--*who_maitredhotel
-      Monsieur, on a servi.
-
--*who_m.argant
-Présente-moi... Je crains de faire des bévues.
-Que diable ! À chaque pas je tombe ici des nues.
-
-**** *book_ *id_III01 *act_III *date_1744
-
--*who_dolignipere
-Vous rêvez ?
-
--*who_m.argant
-      J'ai de quoi. Depuis trente ans au plus,
-Que dépourvu de biens, (car jamais je n'en eus,)
-Je m'en fus à la Martinique,
-Où j'épousai Madame Argant,
-Il faut que mon esprit soit devenu gothique,
-Ou Paris bien extravagant.
-
--*who_dolignipere
-Ami, c'est l'un et l'autre. Après trente ans d'absence,
-À peine revenu depuis six mois en France,
-Dont vous avez passé le tiers hors de Paris,
-Tout vous y paraît neuf. Ne soyez pas surpris,
-Si vous n'en savez plus les êtres.
-Mais rendons-nous justice, et n'ayons plus d'humeurs.
-Nous sommes vieux, les temps amènent d'autres moeurs.
-Avions-nous conservé celles de nos ancêtres ?
-Nos enfants, à leur tour, occupent le tapis.
-Tout roule, et roulera toujours de mal en pis.
-Par une extravagance, une autre est abolie.
-D'âge en âge on ne fait que changer de folie.
-
--*who_m.argant
-Je le vois bien. Il faut qu'au sujet du dîner,
-Je vous fasse un aveu naïf et véritable.
-Excepté le rôti, je n'ai pu deviner
-Le nom d'aucun des plats qu'on a servis à table.
-
--*who_dolignipere
-Je n'en ai pas, non plus, reconnu la moitié.
-Tout change de nature, à force de mélange.
-
--*who_m.argant
-Il faut être sorcier pour savoir ce qu'on mange.
-C'est encore au dessert où j'ai ri de pitié,
-De nous voir assommés d'un fatras de verrailles,
-Garni de marmousets et d'arbustes confus,
-Qui font un bois-taillis, où l'on ne se voit plus
-Qu'au travers de mille broussailles.
-Et tout cet attirail, pièce à pièce apporté
-Par un maître valet, par d'autres escorté,
-Est une heure à ranger sur le lieu de la scène ;
-Et tient, en attendant, tout le monde à la gêne.
-Quels convives d'ailleurs ! Je veux être pendu,
-Oui, si j'ai rien compris, si j'ai rien entendu
-À l'étrange jargon qu'ils parlaient tous ensemble.
-Tous les fous de Paris étaient de ce repas.
-
--*who_dolignipere
-Doucement. Vous n'y pensez pas.
-Ce sont de beaux esprits que Le Marquis rassemble,
-Et qui dans votre hôtel ont ouvert leur bureau.
-
--*who_m.argant
-Miséricorde ! Quel fléau !
-Quel déluge maudit d'insectes incommodes !
-Rien n'y manque. J'en dois remercier mon fils.
-Je ne m'attendais pas de trouver mon logis
-Plein de chevaux, de chiens, d'auteurs et de pagodes.
-Mais enfin laissons-là ces propos superflus ;
-Revenons au sujet qui me touche le plus.
-C'est Marianne. Eh ! Bien, m'avez-vous fait la grâce
-De parler à ma femme ?
-
--*who_dolignipere
-      Oui ; mais je ne tiens rien.
-Elle veut au marquis assurer tout son bien ;
-Et je ne compte pas que ce dessein lui passe,
-À moins que votre fille...
-
--*who_m.argant
-      Il n'est donc plus d'espoir.
-J'espérais que ses soins, sa tendresse et ses charmes,
-Sur le coeur de ma femme auraient plus de pouvoir :
-Elle n'a recueilli que des sujets de larmes.
-
--*who_dolignipere
-Mais peut-on s'empêcher de s'en laisser charmer ?
-
--*who_m.argant
-Elle aurait dû s'en faire aimer.
-Hélas ! Je rapportais cette douce espérance.
-Quel retour ! Je ne puis y penser sans effroi.
-Loin de répondre à l'apparence,
-Le projet et le piège ont tourné contre moi.
-Votre position est fâcheuse.
-
--*who_m.argant
-      Ah ! Sans doute.
-
--*who_dolignipere
-Votre embarras est des plus grands ;
-Et pour vous en tirer, il faut qu'il vous en coûte.
-Aimez-vous votre femme ?
-
--*who_m.argant
-      Autant que mes enfants.
-Je ne puis ni ne veux me brouiller avec elle.
-Eh ! Depuis notre hymen, l'union la plus belle
-A resserré des noeuds que l'amour a formés.
-D'ailleurs, je lui dois tout. Je n'avais rien au monde.
-Malgré ma misère profonde,
-Et nombre de rivaux plus dignes d'être aimés,
-Je lui plus. Il fallut vaincre la résistance
-De parents qui pouvaient s'opposer à son choix.
-Elle n'avait pas l'âge indiqué par les lois.
-Cependant mon bonheur, ou plutôt sa constance,
-Après bien des refus et de mortels ennuis,
-Me rendit possesseur d'une épouse adorable,
-Qui jouissait déjà d'un bien considérable,
-Que des successions ont augmenté depuis.
-Je m'en souviens sans cesse avec reconnaissance.
-
--*who_dolignipere
-Je prévois qu'à la fin il faudra, malgré vous,
-Renvoyer votre fille au couvent.
-
--*who_m.argant
-      Entre nous,
-Ce sacrifice-là n'est pas en ma puissance.
-Ma fille... non, monsieur, je ne puis m'en priver.
-Pour la sacrifier, la victime est trop chère.
-
--*who_dolignipere
-Eh ! Bien, quoi qu'il puisse arriver,
-Votre fille est chez vous, déclarez-vous son père.
-Si vous prétendez la garder,
-Il faut bien, tôt ou tard, découvrir ce mystère.
-Si vous n'osez le hasarder,
-Je vous offre mon ministère.
-Une femme en courroux m'embarrasse fort peu.
-Entre la mienne et moi la paix était si rare,
-Que je ne suis pas neuf en pareille bagarre.
-Moi, j'oppose à leur premier feu
-Un flegme des plus salutaires.
-Il en est, sans comparaison,
-Tout comme des enfants mutins et volontaires :
-Quand la force leur manque, ils entendent raison.
-Au surplus, vous touchez au moment de la crise.
-Songez que votre femme, au gré de son espoir,
-Va remplir le projet dont elle est trop éprise ;
-Que, sans doute, on fera les accords dès ce soir ;
-Qu'il est temps de parler en père de famille,
-En maître, s'il le faut, et si vous le pouvez.
-
--*who_m.argant
-Que j'appréhende !...
-
--*who_dolignipere
-      Quoi ! Qu'est-ce que vous avez ?
-
--*who_m.argant
-Et si ma femme allait faire enlever sa fille,
-Et se rendre en secret maîtresse de son sort !
-Voilà ce que je crains, si je romps le silence.
-Supposé que l'accès d'un aveugle transport
-Ne la contraigne point à cette violence,
-Les persécutions feront le même effet ;
-Et sa mauvaise humeur ne cessant de s'accroître,
-Obligera ma fille à préférer le cloître.
-
--*who_dolignipere
-Il faudra tenir bon : peut-être...
-
--*who_m.argant
-      C'est un fait.
-Je voudrais conserver la paix dans ma famille...
-Il me vient un moyen. S'il est de votre goût,
-Il pourrait concilier tout,
-Et faire marier ma fille.
-Sa légitime peut monter
-À douze mille écus de rente ;
-Eh ! Bien, seriez-vous homme à vous en contenter ?
-
--*who_dolignipere
-Ceci change la thèse ; elle est bien différente.
-
--*who_m.argant
-Je le sais, je n'osais presque vous en parler.
-
--*who_dolignipere
-Allons, je le veux bien, pour vous tirer de peine.
-
--*who_m.argant
-Ah ! Mon cher...
-
--*who_dolignipere
-      Ce n'est pas l'intérêt qui me mène.
-Je n'accepte pourtant que comme un pis-aller.
-
--*who_m.argant
-Mais Marianne vient...
-
-**** *book_ *id_III02 *act_III *date_1744
-
--*who_marianne
-      Madame Argant m'envoie...
-
--*who_m.argant
-Tant mieux ; j'en ai bien de la joie.
-
--*who_marianne
-Ah ! Mon oncle, le diriez-vous ?
-Pour la première fois, elle m'a caressée,
-M'a donné les noms les plus doux.
-
--*who_dolignipere
-Elle est donc bien intéressée
-Au succès du message.
-
--*who_marianne
-      Elle en espère tout.
-Vous me portez, dit-elle, une amitié si tendre
-Qu'il n'est rien, près de vous, dont je ne vienne à bout ;
-Et si je réussis, elle m'a fait entendre
-Qu'elle aurait soin de mon destin.
-C'est au sujet de mon cousin...
-
--*who_m.argant
-Justement.
-
--*who_marianne
-      Et pour sa fortune,
-Que je viens, au hasard de vous être importune...
-
--*who_m.argant
-Ah ! Si c'est pour Argant, le sort en est jeté.
-Que veut-elle ? Quelle est cette grâce si grande ?
-
--*who_marianne
-C'est l'hymen de son fils, tel qu'il est projeté.
-
--*who_m.argant
-Marianne, est-ce à toi d'appuyer sa demande ?
-
--*who_marianne
-À qui donc ? Pour tous deux, j'implore vos bontés.
-C'est l'établissement le plus considérable...
-Vous la désespérez, si vous n'y consentez ;
-C'est faire à votre fils un tort irréparable.
-
--*who_m.argant
-Prétendre que son fils soit le seul possesseur
-Et l'unique héritier de toute sa fortune !
-Et ma fille ?
-
--*who_marianne
-      Est-il vrai que vous en ayez une ?
-
--*who_m.argant
-Oui. Si le frère a tout, que deviendra la soeur ?
-Loin de prendre parti pour elle,
-Je te vois la première à la persécuter.
-
--*who_marianne
-Moi, je ne lui veux point de mal ; et si mon zele...
-
--*who_m.argant
-Mais, tiens : pour me résoudre, et pour m'exécuter,
-Je m'en rapporte à toi. Tu sais ce qu'on propose ;
-Supposé que tu sois cet enfant malheureux
-À qui sa mère apprête un sort si rigoureux,
-Prends sa place un moment, fais-en ta propre cause,
-Et ne consulte ici que ton propre intérêt.
-
--*who_marianne
-Je me serais déjà prononcé mon arrêt.
-
--*who_m.argant
-Quoi ! Malgré les soupirs et les larmes d'un père...
-
--*who_marianne
-Pourrais-je assurer mieux le repos de ses jours,
-Qu'en cédant au malheur de déplaire à ma mère ?
-À quoi me servirait de m'obstiner toujours
-À braver mon destin ? Quelle en serait l'issue ?
-D'aliéner vos coeurs, d'en écarter l'amour,
-De déchirer toujours le sein qui m'a conçue,
-De me faire encor plus haïr de jour en jour.
-Pourquoi me consulter dans cette conjoncture ?
-Toute autre, et votre fille aussi,
-Vous en dirait autant ; et je ne sers ici
-Que d'interprète à la nature.
-
--*who_m.argant
-Tu me perces le coeur.
-      Jugez donc si j'ai lieu
-De déclarer son sort.
-
--*who_dolignipere
-      C'est votre femme ; adieu.
-
--*who_m.argant
-Ne vous éloignez pas.
-
-**** *book_ *id_III03 *act_III *date_1744
-
--*who_mmeargant
-      Eh ! Bien, votre entremise
-A-t-elle eu la faveur que je m'en suis promise ?
-Ce que j'en attendais était des plus aisés.
-
--*who_m.argant
-Ah ! Vous pouvez compter sur elle en toute chose.
-On ne peut mieux plaider une méchante cause.
-
--*who_mmeargant
-Eh ! L'a-t-elle gagnée ?... Eh ! Quoi ! Vous vous taisez ?
-
--*who_m.argant
-Qu'exigez-vous de moi ?
-
--*who_mmeargant
-      Quel est donc ce langage ?
-
--*who_m.argant
-Ne vous souvient-il plus qu'un fils trop fortuné
-N'a pas été l'unique gage
-Dont notre heureux hymen ait été couronné ?
-Permettez que je vous rappelle
-Qu'il en fut encor un conçu dans votre sein.
-Voyez quel est votre dessein,
-Si vous en conservez un souvenir fidèle ?
-
--*who_mmeargant
-Je pourrais avoir quelque tort :
-Mais cette fille enfin dont vous plaignez le sort,
-Quand nous l'envoyâmes en France,
-Pour être élevée en couvent,
-Était dans sa plus tendre enfance.
-
--*who_m.argant
-Hélas ! Je me le suis reproché bien souvent.
-Depuis, je ne l'ai point revue.
-Dans mon coeur, il est vrai, l'absence a triomphé.
-L'éloignement, l'oubli, le temps, ont étouffé
-La tendresse que j'aurais eue,
-Si vous aviez laissé cet enfant sous mes yeux ;
-Vous n'auriez jamais eu de reproche à me faire.
-Eh ! Je ne demandais pas mieux.
-Vous ne voulûtes pas ; il a fallu vous plaire ;
-Et mon fils en a profité.
-
--*who_marianne
-Mais ma tante a raison ; elle se justifie.
-C'est votre faute à vous.
-
--*who_m.argant
-      Laisse-moi, je te prie.
-Vous verrez que c'est moi qui manque d'équité !
-Tout se peut réparer. Daignez voir votre fille ;
-Que je vous la présente ; accordez-moi ce bien.
-
--*who_mmeargant
-Que faire d'un enfant qui n'est au fait de rien,
-Qui n'a jamais vécu qu'à l'ombre d'une grille,
-Qui, sans doute, en a pris l'air, l'esprit et le goût ?
-Monsieur, il n'est plus temps. Et j'ose vous répondre
-Que, de la tête aux pieds, il faudrait la refondre,
-Et qu'on n'en viendrait pas à bout.
-Qui vient tard dans le monde, y joue un triste rôle.
-Pour apprendre à s'y comporter,
-Un parloir de province est une pauvre école.
-
--*who_marianne
-Sans doute.
-
--*who_m.argant
-      À Marianne on peut s'en rapporter.
-Elle sort du couvent. Voyez un peu ma nièce ;
-Oui, voyez comme elle est : vous connaissez aussi
-Son esprit et sa gentillesse ;
-Elle a tout-à-fait réussi.
-
--*who_mmeargant
-On ne compare point une personne unique.
-
--*who_m.argant
-Vous pouviez épargner cet éloge ironique.
-
--*who_mmeargant
-Il vous plaît au surplus de me faire un procès
-Bien gratuit, au sujet de cette préférence
-Que j'accorde à mon fils.
-
--*who_m.argant
-      Mais oui, c'est un excès.
-
--*who_mmeargant
-Est-ce une nouveauté ? Suis-je la seule en France ?
-Nous avons deux enfants : mais l'usage m'absout,
-Si j'en laisse un des deux au fond d'une clôture.
-
--*who_m.argant
-L'égalité, Madame, est la loi de nature.
-Il n'en faut avoir qu'un, quand on veut qu'il ait tout.
-
--*who_mmeargant
-Pouvez-vous mieux placer mon espoir et le vôtre ?
-Il est bien naturel, quand on a le bonheur
-D'avoir reçu du ciel un fils comme le nôtre,
-De chercher à s'en faire honneur.
-
--*who_m.argant
-La nature sans doute en a fait un prodige !
-
--*who_mmeargant
-Elle a versé sur lui ses plus précieux dons.
-Il peut aller à tout, si nous le secondons.
-
--*who_m.argant
-Peut-on donner dans ce prestige ?
-
--*who_mmeargant
-Il est homme d'esprit.
-
--*who_m.argant
-      Qui diable ne l'est pas ?
-
--*who_mmeargant
-Homme d'esprit !
-
--*who_m.argant
-      Mais oui ; rien n'est plus ordinaire.
-C'est un titre banal. On ne peut faire un pas
-Qu'on ne voit accorder ce nom imaginaire
-À tout venant, à gens qui ne sont bien souvent
-Que des cerveaux brûlés, des têtes à l'évent,
-Que les plus fats de tous les hommes.
-Ce qu'on prend pour esprit, dans le siècle où nous sommes,
-N'est, ou je me trompe fort,
-Qu'une frivole effervescence,
-Qu'un accès, une fièvre, un délire, un transport,
-Que l'on nomme autrement, faute de connaissance.
-Proverbes, quolibets, folles allusions,
-Pointes, frivolités plaisamment habillées,
-Quelque superficie, et des expressions
-Artistement entortillées ;
-Joignez-y le ton suffisant :
-Voilà les qualités de l'esprit d'à-présent.
-Pour moi, mon avis est, dût-il paraître étrange,
-Que ces petits messieurs, qui sont si florissants,
-Feraient un marché d'or, s'ils donnaient, en échange,
-Tout ce qu'ils ont d'esprit pour un peu de bon-sens.
-
-**** *book_ *id_III04 *act_III *date_1744
-
--*who_lemarquis
-Mais, Madame, à propos, suivant toute apparence,
-Mon mariage projeté
-Pourrait ce soir être arrêté.
-
--*who_mmeargant
-J'en ai du moins quelque espérance.
-
--*who_lemarquis
-J'en ai reçu vingt compliments ;
-Et nous ne songeons pas aux présents qu'il faut faire.
-Ne trouveriez-vous pas qu'il serait nécessaire
-D'aller, chez l'empereur, choisir des diamants ?
-Il convient d'envoyer demain les pierreries :
-C'est l'ordre ; et l'on ne peut, quand on est régulier,
-Manquer à ces galanteries.
-
--*who_mmeargant
-Il est vrai ; j'allais l'oublier.
-Vous avez bien raison ; c'est penser à merveille.
-
--*who_m.argant
-Il mérite toujours des éloges nouveaux.
-
--*who_lemarquis
-Je vais donc commander qu'on mette vos chevaux.
-
--*who_m.argant
-Doucement ; j'ai deux mots à vous dire à l'oreille.
-Argant, vous avez une soeur.
-
--*who_mmeargant
-Est-ce là son affaire ?
-      Allez, je vais vous suivre.
-
--*who_m.argant
-Avec elle, avec vous, je me flattais de vivre ;
-Je comptais de passer des jours pleins de douceur,
-Et mourir satisfait de son sort et du vôtre.
-Elle a part, comme vous, à ma tendre amitié.
-Je ne sais point aimer l'un aux dépens de l'autre.
-Vous partagez tous deux mon coeur par la moitié.
-L'égalité devrait régner dans tout le reste.
-Souffrirez-vous qu'elle ait un destin si funeste ?
-Parlez. Mes sentiments vous sont assez connus.
-Parlez donc ; qu'entre nous votre bouche prononce.
-Au fond de votre coeur cherchez votre réponse,
-Et non pas dans des yeux un peu trop prévenus.
-
--*who_lemarquis
-C'est à vous l'un et l'autre à régler sa fortune.
-Je ne sais point blâmer la générosité.
-
--*who_m.argant
-La générosité ! Mais ce n'en est point une ;
-Ce que j'exige ici n'est que de l'équité.
-
--*who_lemarquis
-De ces distinctions je vous laisse le maître.
-Quant à moi, j'ai, monsieur, un trop profond respect
-Pour donner des avis à ceux qui m'ont fait naître.
-
--*who_m.argant
-Tant de ménagement vous rend un peu suspect.
-
--*who_lemarquis
-Ce n'est pas qu'une soeur, que je n'ai jamais vûe,
-Ne m'intéresse aussi. Vous n'avez pas besoin
-De me piquer d'honneur. Le sang parle de loin :
-Mais...
-
--*who_m.argant
-      Eh ! Bien, quelle est donc cette crainte imprévue ?
-Daigneriez-vous m'en éclaircir ?
-
--*who_lemarquis
-Quand vous me demandez à moi mon entremise...
-Et... si j'ai le malheur de ne pas réussir,
-D'échouer dans cette entreprise,
-Eh ! Bien, vous m'en accuserez.
-Qu'en arrivera-t-il ? Que vous me haïrez.
-Cette affaire est trop délicate.
-Et madame, d'ailleurs, paraît tacitement
-M'ordonner assez nettement
-De ne m'en pas mêler.
-
--*who_m.argant
-      Votre prudence éclate !
-
--*who_lemarquis
-Mon silence pourtant n'empêche pas mes voeux.
-Je serai de l'avis que vous prendrez tous deux.
-
-**** *book_ *id_III05 *act_III *date_1744
-
--*who_mmeargant
-Ainsi, vous n'avez point de reproche à lui faire.
-
--*who_m.argant
-Il faut d'un autre sens retourner cette affaire.
-Nous avons, ou plutôt vous avez en bon bien,
-Cinquante mille écus de rente
-Francs et quittes de tout ; du moins je ne dois rien.
-Je crois que, pour Argant, la chose est différente.
-N'importe. De sa soeur diminuez la part.
-Faites à votre fils le plus gros avantage.
-Je me restreins pour elle au tiers, et même au quart.
-Avec sa légitime on voudra bien la prendre ;
-Et même l'on aura des grâces à vous rendre.
-
--*who_mmeargant
-Que me dites-vous là ?
-
--*who_m.argant
-      N'en doutez nullement.
-
--*who_mmeargant
-Qui voudrait s'en charger ?
-
--*who_m.argant
-      Acceptez seulement.
-
--*who_mmeargant
-C'est encore un prétexte, une ruse nouvelle,
-Pour m'engager toujours, sur ce trompeur espoir,
-À retirer ma fille.
-
--*who_m.argant
-      Eh ! Bien ?
-
--*who_mmeargant
-      Il faudra voir.
-Auriez-vous par hasard quelque parti pour elle ?
-
--*who_m.argant
-Oui.
-
--*who_mmeargant
-      J'ai bien de la peine à me l'imaginer.
-Est-ce une affaire sûre et prompte à terminer ?
-
--*who_m.argant
-Dès aujourd'hui. Va dire à Doligni qu'il vienne.
-
-**** *book_ *id_III06 *act_III *date_1744
-
--*who_mmeargant
-Mais est-ce un sujet qui convienne ?
-
--*who_m.argant
-À merveille.
-
--*who_mmeargant
-      Tant pis.
-
--*who_m.argant
-      Je suis sa caution.
-
--*who_mmeargant
-Ah ! Je crains bien de m'être un peu trop avancée.
-
--*who_m.argant
-Il faut frapper le coup.
-
--*who_mmeargant
-      Quelle est donc sa pensée ?
-Cette fille, en un mot, que la prévention
-La plus injuste et la plus dure
-A peinte à votre idée avec tous les défauts
-Qu'on peut puiser au fond d'une clôture...
-
--*who_mmeargant
-Eh ! Bien ?
-
-**** *book_ *id_III07 *act_III *date_1744
-
--*who_m.argant
-      Quels qu'ils soient, vrais ou faux,
-Telle qu'elle est enfin, on offre de la prendre ;
-Et le fils de monsieur, si vous le permettez...
-
--*who_marianne
-Ah ! Ciel !
-
--*who_m.argant
-      Avec plaisir deviendra votre gendre.
-
--*who_mmeargant
-Quoi ! Le fils de monsieur... vous me compromettez.
-
--*who_m.argant
-Oui, lui-même, à ce prix.
-
--*who_marianne
-      Dieux ! Que viens-je d'entendre !
-Ah ! Quelle trahison !
-
--*who_mmeargant
-      Monsieur nous fait honneur.
-
--*who_dolignipere
-Ce sera pour mon fils le comble du bonheur.
-
--*who_mmeargant
-Je sais qu'il aime ailleurs ;
-      Feignons. Il faut se rendre.
-
--*who_dolignipere
-Mon fils ne peut jamais être mieux assorti.
-
--*who_mmeargant
-Qu'on le fasse venir.
-
--*who_marianne
-      Madame, il est sorti.
-
--*who_mmeargant
-Tout-à-l'heure il était là-dedans ; qu'on y voit.
-
--*who_marianne
-Il doit avoir pris son parti.
-
--*who_mmeargant
-Allez, vous dis-je, allez ; faites qu'on me l'envoie.
-
--*who_marianne
-Bon ; le voici qui vient.
-
--*who_m.argant
-      Il n'est pas averti.
-
-**** *book_ *id_III08 *act_III *date_1744
-
--*who_mmeargant
-Messieurs, il vous plaira de garder le silence :
-Faites-vous cette violence.
-Qu'ici l'autorité se taise absolument ;
-Qu'il soit libre. Je veux qu'il parle en assurance ;
-Autrement, marché nul : je vous le dis d'avance,
-Je reprends ma parole et mon consentement.
-
--*who_dolignifils
-Le Marquis vous attend avec impatience.
-
--*who_mmeargant
-Monsieur, j'aurais besoin d'un éclaircissement.
-On daigne rechercher pour vous notre alliance.
-
--*who_dolignifils
-Vous voyez mon saisissement.
-
--*who_mmeargant
-La désireriez-vous ?
-
--*who_dolignifils
-      Ah ! Si je la désire !
-Si je soupire après ce précieux instant !
-C'est avec plus d'ardeur que je ne puis le dire.
-
--*who_marianne
-Qui n'eût cru qu'il m'aimait ?
-
--*who_mmeargant
-      Eh ! Bien, soyez content.
-L'amitié qui nous lie avec votre famille,
-M'engage à remplir votre espoir.
-
--*who_marianne
-Hélas ! C'en est donc fait.
-
--*who_mmeargant
-      Il m'est bien doux de voir
-Qu'à tout autre parti vous préfériez ma fille.
-
--*who_dolignifils
-Votre fille !
-
--*who_mmeargant
-      Eh ! Qui donc ?
-
--*who_dolignifils
-      La foudre m'a frappé.
-Ah ! Ciel ! Quelle erreur m'a trompé !
-
--*who_mmeargant
-Dans quel trouble vous vois-je ?
-
--*who_dolignifils
-      Il est inexprimable.
-On ne peut être plus confus.
-Vous m'accordez sans doute un bien inestimable.
-Mon père, épargnez-vous ces signes superflus :
-Je ne puis, mon désordre a trop su me confondre.
-
--*who_mmeargant
-De grâce, laissez donc...
-      Ne pourrai-je savoir ?...
-
--*who_dolignifils
-L'excès de vos bontés ne pouvait se prévoir :
-Je suis désespéré de n'y pouvoir répondre.
-
--*who_dolignipere
-Tu ne sais pas le bien que tu vas refuser.
-
--*who_dolignifils
-Je n'en veux point.
-      L'amour dans mon coeur trop sensible
-A mis à votre choix un obstacle invincible.
-Ce n'est qu'en me perdant que je puis m'excuser.
-J'ai cru qu'il s'agissait de l'objet que j'adore.
-Ah ! Je fais à ses yeux un éclat indiscret :
-Mais la nécessité m'arrache mon secret.
-
--*who_mmeargant
-En est-ce un pour l'objet de vos feux ?
-
--*who_dolignifils
-      Il l'ignore.
-
--*who_mmeargant
-Eh ! Monsieur, quel est-il ?
-
--*who_dolignifils
-      Il est devant vos yeux.
-
--*who_marianne
-Ah ! Monsieur, vous devez préférer ma cousine.
-
--*who_mmeargant
-Tâchez une autre fois de vous arranger mieux.
-
--*who_m.argant
-La méprise n'est pas telle qu'on l'imagine.
-Sachez, à votre tour...
-
--*who_mmeargant
-      Ah ! Ne m'arrêtez plus.
-Allez, vous auriez dû m'épargner ce refus.
-
-**** *book_ *id_III09 *act_III *date_1744
-
--*who_dolignifils
-Ah ! Monsieur, pardonnez...
-
--*who_m.argant
-      Il faut que je l'embrasse.
-
--*who_dolignifils
-Comment donc ?
-
--*who_m.argant
-      Ses refus ont montré son amour.
-Il vient d'en donner sans détour
-La preuve la plus sûre et la plus efficace.
-S'il avait accepté, j'en serais moins content.
-
--*who_dolignifils
-Vous me permettez donc de demeurer constant ?
-
--*who_m.argant
-Sans doute. Allons rêver au parti qu'il faut prendre.
-Ton bonheur n'est que suspendu.
-Ne t'embarrasse pas, va, tu seras mon gendre.
-
--*who_dolignipere
-Oui, tranquillise-toi.
-
--*who_dolignifils
-      J'aurai mal entendu.
-
-**** *book_ *id_IV01 *act_IV *date_1744
-
--*who_lemarquis
-Il s'en mêle encor à son âge !
-Eh ! Que ferons-nous donc, nous autres jeunes gens,
-Si la vieillesse n'est pas sage ?
-
--*who_lafleur
-Jugeons un peu moins vite, ou soyons indulgents.
-Supposé que l'amour ait part à ce mystère,
-Il me semble qu'un fils devrait, avec raison,
-Ignorer ou cacher les faiblesses d'un père.
-
--*who_lemarquis
-Est-ce ma faute, à moi, si toute la maison
-En parle ? Mais cela ne m'embarrasse guère.
-N'est-il venu personne apporter un billet ?
-Il doit en venir un ; j'en suis fort inquiet.
-
--*who_lafleur
-Je n'ai rien vu.
-
--*who_lemarquis
-      Tant pis.
-
--*who_lafleur
-      Mais à propos, j'espère...
-
--*who_lemarquis
-Eh ! Bien, voyons, qu'espères-tu ?
-
--*who_lafleur
-Qu'enfin nous allons prendre un autre train de vie.
-
--*who_lemarquis
-Et par quelle raison ?
-
--*who_lafleur
-      Parce qu'on vous marie.
-
--*who_lemarquis
-Qu'y fait le mariage ?
-
--*who_lafleur
-      Il a cette vertu
-D'amender les gens de votre âge.
-La raison les attend au fond de leur ménage.
-L'hymen est ordinairement
-Le tombeau du libertinage,
-À moins qu'on n'ait le diable au corps.
-
--*who_lemarquis
-      Assurément ;
-Oui, l'exemple me rendra sage.
-
--*who_lafleur
-Vous vivrez comme auparavant ?
-
--*who_lemarquis
-Au contraire. Je vais m'enterrer tout vivant,
-Renoncer au plaisir qui convient à mon âge,
-Consacrer à l'ennui le cours de mes beaux ans,
-Commencer mon hiver au fort de mon printemps,
-M'enfoncer, m'abîmer au fond de mon ménage,
-Pour y végéter comme un sot.
-
--*who_lafleur
-Ah ! Pauvre malheureuse !
-
--*who_lemarquis
-      Hem !
-
--*who_lafleur
-      Moi, je ne dis mot.
-
--*who_lemarquis
-Va donc voir ce qu'on veut. L'attente est un supplice.
-Ah ! Si ce pouvait être un billet d'Arthénice !
-
--*who_lafleur
-Tenez, c'est un billet joliment tortillé.
-
--*who_lemarquis
-"Mes résolutions sont prises.
-Venez où vous savez à huit heures précises.
-
--*who_lafleur
-Comme il a l'air émoustillé !
-
--*who_lemarquis
-"Malgré tous mes parents... la maudite cohorte ! ...
-Pour vous suivre ce soir, je les tromperai tous.
-Je sens que mon devoir en murmure... qu'importe ?
-Mais l'on n'est plus à soi, lorsque l'on est à vous. "
-Ah ! Pour moi quel bonheur, ou plutôt quelle gloire !
-Ne perdons point de temps.
-
--*who_lafleur
-      Quelle est donc cette histoire ?
-
--*who_lemarquis
-Avec ces diamants va faire de l'argent ;
-Cours emprunter dessus à l'un de nos corsaires
-Les deux mille louis qui me sont nécessaires.
-Viens me les apporter : sur-tout, sois diligent.
-J'ai des ordres encore à te donner ensuite.
-Voici Madame Argant, sauve-toi, prends la fuite.
-
-**** *book_ *id_IV02 *act_IV *date_1744
-
--*who_mmeargant
-Où va-t-il porter ces écrins ?
-
--*who_lemarquis
-Chez un metteur en oeuvre.
-
--*who_mmeargant
-      Eh ! Pourquoi donc ?
-
--*who_lemarquis
-      Je crains
-Pour quelques diamants, qui, du moins à ma vue,
-Paraissent en danger. Pour ne rien hasarder,
-J'envoie en faire la revue.
-Il s'en perd bien souvent, faute d'y regarder.
-
--*who_mmeargant
-C'est bien fait. Ce présent n'est il pas fort honnête ?
-
--*who_lemarquis
-Honnête ! Ah ! Pour le moins ; et j'en suis très content.
-
--*who_mmeargant
-Je brûle de le voir orner votre conquête.
-Votre père obstiné m'embarrasse pourtant ;
-Il paraît opposer la même résistance.
-En vain j'ai de sa nièce employé l'assistance.
-Ce refus me paraît d'autant plus surprenant
-Qu'elle a sur mon époux un empire étonnant ;
-Et que, pour ainsi dire, elle en est adorée.
-Vous souriez ?
-
--*who_lemarquis
-      Qui ? Moi !
-
--*who_mmeargant
-      Peut-on savoir pourquoi ?
-
--*who_lemarquis
-Ce n'est rien.
-
--*who_mmeargant
-      Une mère aussi tendre que moi,
-De votre confiance a droit d'être honorée.
-De grâce, dites-moi...
-
--*who_lemarquis
-      Daignez me dispenser...
-
--*who_mmeargant
-Non ; vous m'inquiétez. Plus vous voulez vous taire,
-Plus vous me donnez à penser ;
-Je veux absolument entrer dans ce mystère.
-
--*who_lemarquis
-Il ne fallait pas moins que cet ordre absolu
-Pour vous sacrifier toute ma répugnance.
-Si je me détermine à rompre le silence,
-Daignez vous souvenir que vous l'avez voulu.
-Mais cependant, Madame, il faudrait me promettre...
-
--*who_mmeargant
-Eh ! Quoi ?
-
--*who_lemarquis
-      De ne me point commettre.
-
--*who_mmeargant
-Je m'en garderai bien.
-
--*who_lemarquis
-      J'ose vous en prier.
-D'ailleurs, quoi qu'il en soit de cette confidence,
-Croyez que je n'en tire aucune conséquence.
-Le fait en question est assez singulier.
-Marianne, entre nous, vous est-elle connue ?
-Oui, lorsqu'avec mon père elle est ici venue,
-Saviez-vous, comme un fait bien sûr et bien constant,
-Qu'il existait encore en France
-Une autre Demoiselle Argant ?
-
--*who_mmeargant
-Sans doute.
-
--*who_lemarquis
-      En aviez-vous une entière assurance ?
-
--*who_mmeargant
-Mon mari le disait.
-
--*who_lemarquis
-      J'entends.
-
--*who_mmeargant
-Oui, je crois, dans mon jeune temps,
-Avoir ouï parler du père et de la fille.
-D'ailleurs, nous habitions des lieux trop différents
-Pour être bien au fait du sort de vos parents.
-Je n'ai pas autrement connu votre famille.
-
--*who_lemarquis
-Il y paraît.
-
--*who_mmeargant
-      En quoi ?
-
--*who_lemarquis
-      Surtout point de courroux.
-
--*who_mmeargant
-Je n'entends rien à ce mystère.
-
--*who_lemarquis
-Ni moi non plus. Mais, entre nous,
-Marianne n'est point la nièce de mon père.
-
--*who_mmeargant
-Elle ne serait point sa nièce ?
-
--*who_lemarquis
-      Eh ! Vraiment non ;
-Et j'ignore à quel titre elle en a pris le nom.
-
--*who_mmeargant
-Ah ! Quelle découverte !
-
--*who_lemarquis
-      Il l'entend à merveille !
-
--*who_mmeargant
-Mais avant que d'aller plus loin,
-Qui peut vous avoir fait une histoire pareille ?
-D'où la sait-on ? Comment ? Quel en est le témoin ?
-
--*who_lemarquis
-Un ancien valet de feu votre beau-frère,
-En buvant chez le suisse, a fort innocemment
-Révélé tout ce beau mystère.
-Il convient qu'effectivement
-Son maître eut une fille unique,
-Qu'on nommait Marianne.
-
--*who_mmeargant
-      Après ?
-
--*who_lemarquis
-      Mais il prétend
-Qu'elle est morte avant lui, que rien n'est plus constant ;
-Que c'est une histoire publique ;
-Et qu'enfin cette nièce aurait plus de vingt ans.
-Mais vraiment je me le rappelle.
-
--*who_lemarquis
-Tous deux sont morts depuis longtemps.
-Il est sûr de son fait. Ce ne peut pas être elle.
-Mais je vous jure encor que je pense trop bien
-Pour oser en conclure rien.
-
--*who_mmeargant
-Quoi ! Chez moi ! Sous mes yeux ! Feignons de n'en rien croire,
-Et ne dégradons point le père aux yeux du fils.
-Non ; plus je pense à cette histoire,
-Plus je vois que ce sont autant de faux avis.
-Je connais mon mari. Vingt ans d'expérience
-Doivent, sur cet article, assurer mon repos.
-Pouvez-vous honorer de la moindre croyance
-Des rapports de valets, toujours ivres ou sots ?
-Qu'ils n'aillent pas plus loin. Imposez-leur silence ;
-Et du premier d'entre eux qui ne se taira pas,
-En le chassant d'ici, punissez l'insolence.
-
--*who_lemarquis
-Madame...
-
--*who_mmeargant
-      N'ayons point là-dessus de débats :
-Il le faut ; je le veux : la chose est expliquée.
-
--*who_lemarquis
-Vous serez obéie.
-
--*who_mmeargant
-      Ah ! Que je suis piquée !
-Mon mari comblera mes voeux.
-L'honneur de s'allier à des gens d'importance,
-Quand il se verra devant eux,
-Indubitablement vaincra sa résistance.
-Je saurai l'y forcer.
-      Je viens de recevoir
-Un billet d'assez bon augure.
-Chez le comte d'Ausbourg on nous attend ce soir.
-Il est oncle de la future.
-C'est chez lui qu'on s'assemble ; et l'on y soupera.
-
--*who_lemarquis
-Fort bien.
-
--*who_mmeargant
-      Vous savez sa demeure.
-
--*who_lemarquis
-Mes gens la chercheront.
-
--*who_mmeargant
-      Arrivez de bonne heure.
-
--*who_lemarquis
-Mais... au sortir de l'opéra.
-
--*who_mmeargant
-Si vous veniez plutôt ?
-
--*who_lemarquis
-      Ah ! Ce n'est pas l'usage ;
-Et partout où l'on soupe, il faut arriver tard.
-
--*who_mmeargant
-Oui ; mais l'occasion mérite quelque égard,
-Quand il s'agit d'un mariage.
-
--*who_lemarquis
-Je m'acheminerai, quand il en sera temps.
-
--*who_mmeargant
-Faites donc pour le mieux.
-
--*who_lemarquis
-      Vous serez tous contents.
-
-**** *book_ *id_IV03 *act_IV *date_1744
-
--*who_lemarquis
-Rien n'est plus ravissant que cette conjoncture.
-Deux rendez-vous ensemble ! Un d'hymen, un d'amour.
-Ceci veut de l'ordre... Oui... Chacun aura son tour ;
-Et j'aurai mis à fin ma première aventure,
-Quand... C'est La Fleur.
-
-**** *book_ *id_IV04 *act_IV *date_1744
-
--*who_lemarquis
-      Où sont mes deux mille louis ?
-
--*who_lafleur
-Dans votre cabinet.
-
--*who_lemarquis
-      Bon ! Je m'en réjouis.
-Allons, preste, à cheval.
-
--*who_lafleur
-      Quelle affaire nous presse ?
-
--*who_lemarquis
-Va-t-en faire arranger la petite maison ;
-Commande un souper propre, et suivant la saison ;
-Fais-y porter d'ici du vin de chaque espèce ;
-Que tout soit à la glace, et qu'on fasse grand feu
-Qu'on éclaire partout.
-
--*who_lafleur
-      La fête sera belle !
-Et la future y sera-t-elle ?
-
--*who_lemarquis
-Point de sotte demande.
-
--*who_lafleur
-      Allons.
-
--*who_lemarquis
-      Attends un peu.
-Que voulais-je dire ?... Ah !...
-
--*who_lafleur
-      Ma surprise est extrême.
-
--*who_lemarquis
-Que ma chaise de poste y soit, et des relais.
-Fais-y porter aussi...
-
--*who_lafleur
-      Voilà bien des apprêts !
-
--*who_lemarquis
-Combien ? Deux habits d'homme et du linge de même.
-
--*who_lafleur
-Des habits et du linge ?
-
--*who_lemarquis
-      Oui. Fais ce qu'on te dit.
-
--*who_lafleur
-Est-ce que vous voulez y faire une retraite ?
-
--*who_lemarquis
-Tout comme il me plaira. Que rien ne t'inquiète.
-La curiosité te travaille l'esprit.
-
--*who_lafleur
-Mais, monsieur, tout ceci... franchement, à vrai dire,
-Un jour comme aujourd'hui, me donne du tintoin.
-
--*who_lemarquis
-C'est bien à toi d'en prendre ! Ah ! Parbleu, je t'admire !
-Fait-il tout-à-fait nuit ?
-
--*who_lafleur
-      Bon ! Le jour est bien loin.
-
--*who_lemarquis
-Qu'on mette les chevaux à la voiture grise.
-Eh ! Bien, va donc.
-
--*who_lafleur
-      Allons. Il a de l'argent frais ;
-Je n'en serai jamais payé que par surprise.
-
--*who_lemarquis
-Tu ne pars pas ?
-
--*who_lafleur
-      Je m'en y vais.
-Oui, risquons le paquet.
-
--*who_lemarquis
-      Qui diable te retarde ?
-
--*who_lafleur
-Vous allez me gronder.
-
--*who_lemarquis
-      Tu peux le mériter.
-
--*who_lafleur
-C'est qu'avec votre argent...
-
--*who_lemarquis
-      Quoi ?
-
--*who_lafleur
-      Je viens d'acquitter
-Pour vous, en votre nom, une dette criarde.
-
--*who_lemarquis
-Eh ! Qui t'en a prié ?
-
--*who_lafleur
-      La pitié, le besoin.
-
--*who_lemarquis
-Je te trouve plaisant de prendre tant de soin !
-
--*who_lafleur
-Vous avez de l'argent.
-
--*who_lemarquis
-      Qu'importe ?
-Emprunter pour payer, parbleu, rien n'est plus fou.
-
--*who_lafleur
-C'était un pauvre erre ; il n'avait pas le sou :
-Et puis six cens écus, la somme n'est pas forte.
-Me le pardonnez-vous ?
-
--*who_lemarquis
-      Il faut bien.
-
--*who_lafleur
-      Mais d'honneur ?
-
--*who_lemarquis
-Oui. Quel est ce coquin de créancier ?
-
--*who_lafleur
-      La Fleur.
-
--*who_lemarquis
-Toi ?
-
--*who_lafleur
-      Moi.
-
--*who_lemarquis
-      Mons de La Fleur, vous n'aurez plus la bourse.
-Va.
-
--*who_lafleur
-      Droit au cabinet dirigeons notre course.
-Et vite et vite, allons nous payer par nos mains.
-
-**** *book_ *id_IV05 *act_IV *date_1744
-
--*who_marianne
-D'où viennent tout-à-coup de si cruels dédains ?
-D'abord, en me voyant, comme elle s'est aigrie !
-Il faut absolument quitter cette maison.
-
--*who_lemarquis
-Vous rêvez ?
-
--*who_marianne
-      Il est vrai.
-
--*who_lemarquis
-      Ce n'est pas sans raison.
-Mais il faut vous laisser dans votre rêverie.
-Vous avez besoin d'y penser.
-
--*who_marianne
-Pourriez-vous m'éclaircir ? ...
-
--*who_lemarquis
-      Daignez m'en dispenser.
-Ma chère petite cousine,
-Tout ne réussit pas toujours selon nos voeux.
-Il arrive par fois des contre-temps fâcheux ;
-Pour y remédier, il faut être bien fine ;
-Mais comme vous avez un esprit infini,
-Vous vous en tirerez. C'est ce que je désire.
-
-**** *book_ *id_IV06 *act_IV *date_1744
-
--*who_marianne
-Quoi ! Tout le monde ici se trouve réuni
-Pour me désespérer ! Mais qu'a-t-il voulu dire ?
-Quelqu'un adresse ici ses pas.
-
-**** *book_ *id_IV07 *act_IV *date_1744
-
--*who_marianne
-Rosette, si tu peux, tire-moi d'embarras.
-Ma tante est contre moi d'une colère extrême.
-Qu'ai-je dit ? Qu'ai-je fait ? Que m'est-il arrivé ?
-J'ai beau m'examiner moi-même ;
-Dans le fond de mon coeur, hélas ! Je n'ai trouvé
-Que zèle, que respect, que tendresse pour elle.
-
--*who_rosette
 J'ignore à quel sujet cet accès de rigueur
 La prend d'une façon si brusque et si cruelle ;
 D'autant plus qu'une fois, d'abondance de coeur,
@@ -3424,289 +557,262 @@ Pour vous dire à quel point madame est en courroux ;
 En un mot, elle est dans l'idée
 De vous faire enlever, de s'assurer de vous.
 
--*who_marianne
-Qu'on me ramène où l'on m'a prise.
-
--*who_rosette
 Monsieur adresse ici ses pas.
 Voyez si vous pourrez parer cette entreprise ;
 Et surtout ne me nommez pas.
 
-**** *book_ *id_IV08 *act_IV *date_1744
+La Fleur, que fais-tu là ?
 
--*who_m.argant
-Marianne ! Et pourquoi te trouvé-je éplorée ?
+Ton étoile ! Comment ? Est ce qu'en bonne foi
+Tu crois en avoir une à toi ?
+Qu'as-tu ? Qu'arrive-t-il dans tes affaires ?
 
--*who_marianne
-Hélas ! Mon oncle, au nom de la tendre amitié
-Dont par vous seul ici je me trouve honorée,
-De grâce, dites-moi, par bonté, par pitié,
-Qu'est-ce donc qui se passe à mon désavantage ?
-Il doit m'être, en ce jour, arrivé des malheurs ;
-Tout inconnus qu'ils sont, ils m'arrachent des pleurs.
-Ne me les laissez pas ignorer davantage ;
-Innocente, ou coupable, instruisez-moi de tout.
+Ton congé, mon enfant ?
 
--*who_m.argant
-De quoi ?
+Qu'as-tu fait ?
 
--*who_marianne
-      Cette infortune est réelle et publique.
+      Tu mens.
 
--*who_m.argant
-C'est une énigme obscure, ou plutôt chimérique,
-Dont je ne puis venir à bout.
-Je ne te connais point de nouvelle infortune.
+Eh ! Bien, tu mens encor.
 
--*who_marianne
-Ah ! Vous dissimulez.
+Regrette moins ton maître ; il t'aurait perverti.
+D'ailleurs, peut-on savoir d'où vient tout ce grabuge ?
 
--*who_m.argant
-      Non, je n'en sache aucune.
+M'est-il permis d'entrer dans vos douleurs secrètes ?
+D'où viennent donc ces pleurs qui coulent malgré vous ?
+Je ne vous vis jamais dans l'état où vous êtes.
 
--*who_marianne
-Pourquoi donc, à présent, attiré-je les yeux
-De tout ce qui nous environne ?
-D'où viennent ces regards furtifs et curieux
-Qu'on attache en secret sur toute ma personne ?
+Aurait-il refusé cette grande alliance ?
 
--*who_m.argant
-Eh ! Mais, tout cela vient du plaisir de te voir ;
-C'est qu'ici tout le monde t'aime.
+On pourra le sauver.
 
--*who_marianne
-Quoi donc ! Ai-je changé ? Ne suis-je plus la même ?
-Ils ont d'autres motifs que je ne puis savoir.
-Et par quelle aventure, à nulle autre pareille,
-N'est-ce que d'aujourd'hui qu'on m'examine ainsi ;
-Et qu'en me regardant tout le monde d'ici
-Sourit avec malice, et se parle à l'oreille ?
-Et ma tante elle-même, avec la dureté
-La plus grande et la plus cruelle,
-Vient de me chasser de chez elle.
-Elle a poussé la cruauté
-Jusques à me défendre à jamais sa présence.
+      Mais il pourrait un jour...
 
--*who_m.argant
-D'où pourrait lui venir un courroux si soudain ?
 
--*who_marianne
-Et moi, toute éperdue, examinant en vain
-Ma triste et timide innocence,
-Je suis venue ici ; j'ai trouvé votre fils,
-Qui m'a dit quelques mots, où je n'ai rien compris.
-À peine il m'a laissée incertaine et flottante,
-Au milieu de mon trouble et du plus grand effroi,
-Qu'alors on est venu m'avertir que ma tante,
-Toujours de plus en plus en courroux contre moi,
-Veut se débarrasser de ma vue importune,
-Et me faire enlever.
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
 
--*who_m.argant
-      Ah ! Tout est découvert ;
-Un indiscret ami nous perd :
-Elle sait tout.
+Ouf !
 
--*who_marianne
-      Quoi donc ?
+Oh ! Palsembleu, Monsieur, souffrez que je respire.
+Si vous continuez ainsi, vous me tuerez.
 
--*who_m.argant
-      Grand dieu ! Quelle infortune !
-Mon secret est trahi.
+Vous autres, que Dieu fit pour être voiturés,
+Vous allez à votre aise, et vous parlez de même.
+Il n'en est pas ainsi des malheureux piétons.
 
--*who_marianne
-      Quel est donc ce regret ?
+Morbleu, je suis bien las de ces courses maudites.
 
--*who_m.argant
-Je vois que j'ai commis une imprudence extrême.
+      La liste des visites.
 
--*who_marianne
-Daignez m'en éclaircir... Vous parlez de secret !
+      Elle est de ce matin.
 
--*who_m.argant
-Il faut que je le cherche... Ah ! Le voici lui-même.
+      Demandez au suisse ; oui, rien n'est plus certain.
 
-**** *book_ *id_IV09 *act_IV *date_1744
+Il est certaines gens, pour certaine raison,
+Qui vont dès le matin.
 
--*who_m.argant
-Cruel ! Qu'avez-vous fait ?
+      Le propriétaire
+De votre petite maison.
 
--*who_dolignipere
-      Qui ? Moi ! Qu'est-ce que c'est ?
+      Le tapissier.
 
--*who_m.argant
-Eh ! Morbleu, l'on sait tout.
+      Le traiteur.
 
--*who_dolignipere
-      Doucement, s'il vous plaît.
+Le loueur de carrosse.
 
--*who_m.argant
-Je suis désespéré.
+      Ainsi du reste.
 
--*who_dolignipere
-      Quel courroux est le vôtre !
+      Non pas eux, mais leurs gens.
 
--*who_m.argant
-Votre indiscrétion...
+      Leurs gens sont des sergents ;
+Et voici, monsieur, de leur prose,
+Et de leurs billets doux.
 
--*who_dolignipere
-      Quoi ?
+Chantez ; c'est bien prendre la chose.
 
--*who_m.argant
-      Nous perd l'un et l'autre.
-Vous aviez mon secret !
+      Beau diable de profit !
 
--*who_dolignipere
-      Il est encor entier.
+Plus invisiblement que n'eût fait un esprit.
 
--*who_m.argant
-Ma femme est furieuse.
+      Bien.
 
--*who_dolignipere
-      Elle fait son métier.
+      Mal.
 
--*who_m.argant
-Que la plaisanterie est ici mal placée !
-Je vous dis que ma femme est si fort courroucée
-Contre elle et contre moi, qu'elle est dans le dessein,
-Comme je l'ai prévu, d'user de violence,
-De me l'arracher de mon sein,
-De la mettre en lieu sûr.
+C'est qu'il n'était pas jour chez elle ;
+Et qu'ainsi je n'ai pu voir que sa demoiselle.
+Ce n'est pas là mon compte, à moi.
 
--*who_dolignipere
-      Ah ! Quelle turbulence !
-Parbleu, c'est qu'elle sait, à n'en pouvoir douter,
-Que ce n'est point là votre nièce.
-Votre femme croit vous ôter
-Une jeune et tendre maîtresse.
+Quoi ! Pas même, monsieur, ce qu'on me donnera ?
 
--*who_marianne
-Qu'entends-je ? Que m'apprenez-vous ?
-Ce n'est pas sur la foi du lien le plus doux
-Que je suis chez vous et chez elle ?
-Eh ! Pourquoi donc ici m'avez-vous fait venir ? ...
-Ciel ! Je frémis de tout ce que je me rappelle.
-Ah ! Cessez de me retenir.
-De toutes les horreurs j'éprouve la plus noire.
-Ah ! Dieu ! Peut-on former un si cruel projet ?
-Du plus affreux roman je me vois le sujet.
+Ah ! Ce ne sera pas de rendre.
+On va la marier.
 
--*who_dolignipere
-Elle ne sait donc pas sa véritable histoire ?
+      Tout-à-fait ;
+À ce baron qui la pourchasse :
+Il prétend, dès demain, que la noce se fasse.
 
--*who_m.argant
-Eh ! Non. Vous me jetez dans un autre embarras.
+      Un petit billet vous mettra mieux au fait.
 
--*who_marianne
-Je veux savoir de qui j'ai reçu la naissance.
-Remettez-moi sous leur puissance ;
-Quels que soient mes parents...
+      D'un tour assez falot,
+Dont la suivante d'Arthénice
+Vient, à votre sujet, de régaler un sot.
+J'étais dans l'antichambre à causer avec elle,
+En tout bien, tout honneur.
 
--*who_m.argant
-      Dans peu tu le sauras.
+Nous parlions d'amitié, quand la fausse femelle
+A pensé me dévisager.
+"Va-t-en, m'a-t-elle dit, au diable, avec ton maître.
+Depuis assez longtemps, il a dû reconnaître
+Qu'il prend un inutile soin.
+Ma maîtresse n'en veut, ni de près, ni de loin."
+Alors, tout ébaubi, j'ai détourné la tête :
+C'est que le vieux baron lui-même, à pas de loup,
+Venait d'arriver tout-à-coup,
+Qui mordant à la grappe, et d'un air tout honnête,
+Accompagné pourtant d'un geste cavalier,
+M'a flatté, si jamais le hasard me ramène,
+Qu'il aurait la bonté de m'épargner la peine
+De descendre par l'escalier.
 
--*who_marianne
-Parlez ; je ne veux plus languir dans cette attente.
-Je vais m'aller jeter aux genoux de ma tante...
-Quel nom m'échappe encor !
+Eh ! Non pas, s'il vous plaît ; souffrez que je m'en passe.
+J'ai volé chez Michel, et de-là chez Passeau.
+J'ai vu vos deux habits ; ma foi, rien n'est si beau ;
+Je ne crois pas qu'on puisse en avoir de plus lestes.
+Après, j'ai, sans aucun délai,
+Été chez la Duchapt ; et puis, chez la Bourrai ;
+Leurs filles sont après à garnir vos deux vestes ;
+L'une est en petit jaune, et l'autre en petit bleu.
 
--*who_dolignipere
-      Elle vient de partir.
+      Vous les aurez dans peu ;
+Mais l'argent à la main.
 
--*who_m.argant
-Attends.
+      C'est ce qu'ils disent tous.
+Par l'homme en question j'ai fini mes messages ;
+Seriez-vous assez fou pour en tâter encore ?
 
--*who_marianne
-      De cette horreur faites-moi donc sortir ;
-La fin n'en peut être trop prompte.
+      Oui, mais au poids de l'or.
+Il demande un billet du triple, et de bons gages.
 
--*who_m.argant
-Crains d'apprendre ton sort.
+Faute de les avoir retirés dans le mois,
+Ils lui sont dévolus. Ignorez-vous l'usage ?
 
--*who_marianne
-      Je ne crains que la honte
-De nourrir plus longtemps l'opprobre où je me vois.
+      Quel besoin si pressant
+En pouvez-vous avoir ?
 
--*who_m.argant
-Modère donc un peu les accents de ta voix.
+Sans être libertin, on peut se réjouir.
 
--*who_marianne
-Non ; c'est au désespoir à rétablir ma gloire ;
-Je ne puis faire trop d'éclat.
+      Ah ! Mon cher maître,
+Vous l'êtes beaucoup plus, en croyant ne pas l'être.
 
--*who_m.argant
-Je suis moins criminel que tu ne l'oses croire.
-Sois instruite de ton état.
-Cette vive amitié qui t'outrage et te blesse,
-Trouvera dans ton âme un retour éternel ;
-Apprends que toute ma tendresse
-N'est que de l'amour paternel.
-Ah ! ... ma fille...
+Eh ! Parbleu, tout vous duit à la fois ; somme toute,
+Rien n'y manque, le vin, le jeu, l'amour.
 
--*who_marianne
-      Qui ! Vous... Mon père ?
-Eh ! Pourquoi si longtemps me cacher mon bonheur ?
+Vous les menez un train de chasse ;
+Et vous indisposez le public contre vous.
 
--*who_m.argant
-Peut-être ne vas-tu que changer de malheur.
+En faux raisonnements votre morale abonde.
+Mais, encore une fois, sachez vous limiter.
+Si vous ne changez pas tout-à-fait de conduite,
+Empêchez que du moins on n'en parle en tous lieux.
+Madame votre mère en pourrait être instruite.
+Elle a beau vous aimer, elle ouvrira les yeux.
+Vous avez une soeur, qu'elle vous sacrifie :
+Songez-y ; je vous signifie
+Qu'elle pourrait fort bien la tirer du couvent,
+Pour lui faire, avec vous, partager l'héritage,
+Et peut-être encor davantage.
+Vous savez que monsieur l'en presse assez souvent.
 
--*who_marianne
-J'entrevois à présent le fond de ce mystère.
-Puisque j'ai le bonheur de vous appartenir,
-Le sort peut, à son gré, régler mon avenir.
-Il m'a plus fait de bien qu'il n'en saurait détruire.
+Pour boire, je boirai.
 
--*who_m.argant
-Non ; j'ai pris mon parti, puisqu'on me pousse à bout
-Mais pour toi, laisse-moi le soin de te conduire.
-Argant n'envahira point tout.
-Je m'en vais déclarer qu'il n'est point fils unique ;
-Que nous avons encor une fille à pourvoir.
-Je ne souffrirai point qu'un abus tyrannique,
-Qu'un usage cruel, au gré de son pouvoir,
-Me réduise à pleurer ma fille infortunée :
-J'empêcherai plutôt cet injuste hyménée ;
-Je comptais obtenir ce qu'il faut arracher.
-Pour la première fois je vais parler en maître.
+Je l'entends un peu mieux que tout autre négoce.
 
--*who_marianne
-Quel malheur est le mien !
+S'il venait en buvant, je roulerais carrosse.
 
--*who_m.argant
-      On te viendra chercher.
-Quand il en sera temps, je te ferai paraître.
+Jugeons un peu moins vite, ou soyons indulgents.
+Supposé que l'amour ait part à ce mystère,
+Il me semble qu'un fils devrait, avec raison,
+Ignorer ou cacher les faiblesses d'un père.
 
--*who_marianne
-Eh ! Pourquoi voulez-vous que je sois à jamais
-Le fléau de ceux que j'adore ?
-Joignez à vos bontés la grâce que j'implore ;
-Et souffrez qu'en partant je vous rende la paix.
+Je n'ai rien vu.
 
--*who_m.argant
-On m'attend ; obéis. Et vous, ami fidèle,
-Ne m'abandonnez pas ; daignez prendre soin d'elle.
-Restez ; je vous remets en main
-Ce que j'ai de plus cher.
+      Mais à propos, j'espère...
 
--*who_dolignipere
-      Partez ; mais en chemin...
+Qu'enfin nous allons prendre un autre train de vie.
 
--*who_m.argant
-Eh ! Bien, quoi ?
+      Parce qu'on vous marie.
 
--*who_dolignipere
-      N'allez pas user votre courage.
+      Il a cette vertu
+D'amender les gens de votre âge.
+La raison les attend au fond de leur ménage.
+L'hymen est ordinairement
+Le tombeau du libertinage,
+À moins qu'on n'ait le diable au corps.
 
--*who_m.argant
-Oh ! J'en aurai de reste.
+Vous vivrez comme auparavant ?
 
--*who_dolignipere
-      On est brave de loin...
-Le ciel lui soit en aide ! Il en a bien besoin.
+Ah ! Pauvre malheureuse !
 
-**** *book_ *id_V01 *act_V *date_1744
+      Moi, je ne dis mot.
 
--*who_lafleur
+Tenez, c'est un billet joliment tortillé.
+
+Comme il a l'air émoustillé !
+
+      Quelle est donc cette histoire ?
+
+Dans votre cabinet.
+
+      Quelle affaire nous presse ?
+
+      La fête sera belle !
+Et la future y sera-t-elle ?
+
+      Allons.
+
+      Ma surprise est extrême.
+
+      Voilà bien des apprêts !
+
+Des habits et du linge ?
+
+Est-ce que vous voulez y faire une retraite ?
+
+Mais, monsieur, tout ceci... franchement, à vrai dire,
+Un jour comme aujourd'hui, me donne du tintoin.
+
+      Bon ! Le jour est bien loin.
+
+      Allons. Il a de l'argent frais ;
+Je n'en serai jamais payé que par surprise.
+
+      Je m'en y vais.
+Oui, risquons le paquet.
+
+Vous allez me gronder.
+
+C'est qu'avec votre argent...
+
+      Je viens d'acquitter
+Pour vous, en votre nom, une dette criarde.
+
+      La pitié, le besoin.
+
+Vous avez de l'argent.
+
+C'était un pauvre erre ; il n'avait pas le sou :
+Et puis six cens écus, la somme n'est pas forte.
+Me le pardonnez-vous ?
+
+      Mais d'honneur ?
+
+      La Fleur.
+
+      Moi.
+
+      Droit au cabinet dirigeons notre course.
+Et vite et vite, allons nous payer par nos mains.
+
 La bonne femme est folle, ou le diable s'en mêle.
 Comment donc ! Eh ! Pour qui madame me prend-elle ?
 Pour un benêt de précepteur ?
@@ -3717,45 +823,17 @@ Que je ne perdais pas dessus, grâce à mes soins ;
 Et j'allais m'arranger pour y perdre encor moins.
 Serviteur ; on me chasse : où diantre faire voile ?
 
-**** *book_ *id_V02 *act_V *date_1744
-
--*who_rosette
-La Fleur, que fais-tu là ?
-
--*who_lafleur
       Je maudis mon étoile.
 
--*who_rosette
-Ton étoile ! Comment ? Est ce qu'en bonne foi
-Tu crois en avoir une à toi ?
-Qu'as-tu ? Qu'arrive-t-il dans tes affaires ?
-
--*who_lafleur
       J'ai
 Que madame m'a fait agréer mon congé.
 
--*who_rosette
-Ton congé, mon enfant ?
-
--*who_lafleur
       Oui, pour présent de noce.
 
--*who_rosette
-Qu'as-tu fait ?
-
--*who_lafleur
       Moi ?
 
--*who_rosette
-      Tu mens.
-
--*who_lafleur
       Mon crime est d'être un sot.
 
--*who_rosette
-Eh ! Bien, tu mens encor.
-
--*who_lafleur
       On m'impute un négoce
 Que mon maître a baclé, sans m'en dire un seul mot ;
 Et la prévention demeurant la plus forte,
@@ -3763,595 +841,5 @@ L'innocence est mise à la porte ;
 On m'oblige, avec elle, à prendre mon parti :
 Je vais lui chercher un refuge.
 
--*who_rosette
-Regrette moins ton maître ; il t'aurait perverti.
-D'ailleurs, peut-on savoir d'où vient tout ce grabuge ?
-
-**** *book_ *id_V03 *act_V *date_1744
-
--*who_mmeargant
-Comment, ce misérable est encore en ces lieux !
-Fidèle confident d'un trop coupable maître...
-
--*who_lafleur
 En vérité, madame, il est à naître...
 
--*who_mmeargant
-Tais-toi ; sors ; et jamais ne parois à mes yeux.
-
-**** *book_ *id_V04 *act_V *date_1744
-
--*who_rosette
-M'est-il permis d'entrer dans vos douleurs secrètes ?
-D'où viennent donc ces pleurs qui coulent malgré vous ?
-Je ne vous vis jamais dans l'état où vous êtes.
-
--*who_mmeargant
-On ne reçut jamais de plus sensibles coups.
-On vient d'empoisonner le bonheur de ma vie...
-Mon coeur est suffoqué... je ne puis respirer.
-Avec indignité ma tendresse est trahie.
-Ai-je assez de sujets de me désespérer ?
-L'objet dont je n'étais que trop préoccupée,
-Que j'aimais du plus tendre, ou du plus fol amour,
-Mon fils... ce n'est qu'un fourbe. Il m'a toujours trompée.
-Sa perfidie enfin éclate au plus grand jour.
-Ce qui vient d'arriver ne m'en laisse aucun doute.
-Je faisais tout pour lui : Rosette, tu le sais ;
-Et je craignais toujours de n'en pas faire assez.
-J'aurais donné mon sang jusqu'à la moindre goutte
-Pour assurer le sort, la fortune et l'état
-Du cruel qui m'a fait l'offense la plus noire.
-Une famille illustre ouvrait à cet ingrat
-Le chemin le plus sûr qui conduit à la gloire ;
-Dans leur sein, dans leurs bras il allait être admis ;
-Il allait devenir leur plus chère espérance,
-L'objet de tous leurs soins. Ah ! Quelle différence !
-Ils vont être à jamais ses plus grands ennemis.
-
--*who_rosette
-Aurait-il refusé cette grande alliance ?
-
--*who_mmeargant
-Apprends comment il s'est perdu.
-Nous étions assemblés ; il était attendu.
-Moi-même j'aspirais, avec impatience,
-Au plaisir de le voir, de jouir des effets
-Que devait produire sa vue.
-Je comptais les moments... attente superflue !
-Au mépris des serments que le traître m'a faits
-D'étouffer un amour qu'il condamnait lui-même ;
-De l'erreur de ses sens loin d'être détrompé,
-Il y sacrifiait ; et n'était occupé
-Que du soin d'enlever cette fille qu'il aime.
-Ne sachant que penser d'un retard indiscret,
-Pour l'excuser encor je faisais mon possible ;
-Enfin, l'on est venu m'en instruire en secret.
-Non, un coup de poignard m'eût été moins sensible.
-Alors, pleurant de rage, il a fallu sortir.
-Juge de mon état, de la douleur amère,
-De la confusion que j'ai dû ressentir.
-Je suis désespérée... Ô déplorable mère !
-C'en est fait, je n'ai plus de fils.
-
--*who_rosette
-On pourra le sauver.
-
--*who_mmeargant
-      Ah ! La raison m'éclaire,
-Je pénètre plus loin que jamais je ne fis.
-Supposé que l'on puisse apaiser cette affaire,
-Et dérober sa tête aux rigueurs de la loi,
-En est-il moins perdu pour moi,
-Sitôt qu'il ne peut plus mériter ma tendresse ?
-Sous les dehors trompeurs d'un caractère heureux,
-Je vois qu'il a toujours abusé ma faiblesse.
-Ce trait de lumière est affreux.
-Ah ! Grand dieu ! Que j'étais cruellement séduite !
-J'en mourrai de douleur.
-
--*who_rosette
-      Mais il pourrait un jour...
-
--*who_mmeargant
-Non, quand la confiance est une fois détruite,
-C'en est fait pour jamais ; il n'est plus de retour.
-Rosette, laisse-nous.
-
-**** *book_ *id_V05 *act_V *date_1744
-
--*who_mmeargant
-      Eh ! Bien, quelle nouvelle ?
-En a-t-on ? L'aventure est-elle aussi cruelle
-Qu'on le dit ?
-
--*who_m.argant
-      Je vous en réponds.
-Avec son bel esprit qui vous avait séduite,
-Votre fils, comme un sot, a donné tout de suite
-Dans un piège grossier tendu par des fripons ;
-Et le premier exploit de ses premières armes
-Est un enlèvement bien conditionné.
-Dans un asile détourné
-Il croyait emmener, sans trouble et sans alarmes,
-Son illustre conquête ; il n'avait rien prévu ;
-Lorsque trahi par elle et pris au dépourvu,
-On est venu troubler sa joie.
-L'indiscret, qui pouvait échapper sans éclat,
-Au lieu d'abandonner sa proie,
-À tous les assaillants a livré le combat :
-Mais, étant le plus faible, il a fallu se rendre.
-Il est entre leurs mains, pris, et même blessé.
-
--*who_mmeargant
-Blessé ! Le malheureux ! Quel parti faut-il prendre ?
-
--*who_m.argant
-Mais Doligni, que j'ai laissé,
-Croit avoir quelque espoir d'empêcher les poursuites ;
-Et, comme il est intelligent,
-Peut-être avec beaucoup d'argent
-Cette aventure-là n'aura pas d'autres suites.
-
--*who_mmeargant
-Les suites n'en seront funestes que pour moi.
-Idole de mon coeur ! Malheureuse chimère !
-Fils indigne ! Ah ! Le ciel te devait une mère
-Incapable d'avoir le moindre amour pour toi.
-Est-ce au fond de mon sein qu'il a puisé ces vices ?
-Pour lui seul j'ai laissé ma fille dans l'oubli ;
-La moitié de mon sang y reste enseveli ;
-Je faisais à l'ingrat les plus grands sacrifices :
-Et voilà tout le fruit que je vais retirer !
-Ma honte est mon salaire ! Hélas ! Qui l'eût pu croire ?
-Pour détacher mon coeur, il faut le déchirer :
-Mais je remporterai cette affreuse victoire.
-Va, ma haine commence où mon erreur finit.
-Triomphez... le ciel me punit.
-
--*who_m.argant
-Eh ! Ne séparez point mon intérêt du vôtre.
-Sans nous rien reprocher, gémissons l'un et l'autre
-Sur les égarements de ce fils trop ingrat.
-Si je l'ai toujours vu d'un oeil un peu sévère,
-Je n'en avais pas moins des entrailles de père ;
-Je l'aimais comme vous ; mais avec moins d'éclat.
-Je tenais ma tendresse un peu plus renfermée ;
-Et je ne demandais à votre âme charmée,
-Que de cacher l'excès de son enchantement.
-Hélas ! Si quelquefois je vous en ai blâmée,
-Excusez le motif ; trop sûre d'être aimée,
-La jeunesse abuse aisément
-Du faible qu'on a pour ses charmes.
-Plus les enfants sont chers, plus il est dangereux
-De leur trop laisser voir tout ce qu'on sent pour eux.
-Je gémis du sujet qui fait couler vos larmes :
-Votre courroux est juste ; Argant l'a mérité.
-Mais si vous le voyez, comme je l'envisage,
-Au milieu des transports et des fougues d'un âge
-Où la raison n'est pas à sa maturité,
-Vous devez conserver un rayon d'espérance.
-Je l'ai laissé confus, honteux, mortifié.
-Je vois que son état est digne de pitié.
-Un malheur instruit mieux qu'aucune remontrance.
-Il peut se corriger. Il est encore à temps.
-Ce qu'il vient d'essuyer finira son ivresse.
-Eh ! Croyez qu'il n'est point de plus sûre sagesse
-Que celle qu'on acquiert à ses propres dépens.
-
--*who_mmeargant
-Discourez un peu moins, et montrez-vous plus sage.
-
--*who_m.argant
-Moi ?
-
--*who_mmeargant
-      Sans doute.
-
--*who_m.argant
-      Eh ! Mais, s'il vous plaît,
-Qui peut me procurer cet avis à mon âge ?
-
--*who_mmeargant
-Vous ne l'ignorez pas.
-
--*who_m.argant
-      Je ne sais ce que c'est ;
-Je n'en ai, je vous jure, aucune connaissance.
-
--*who_mmeargant
-À quoi sert d'affecter cette fausse innocence ?
-Eh ! Comment voulez-vous que je ne sache pas,
-Ce qu'ici personne n'ignore ?
-
--*who_m.argant
-Voyons, que savez-vous encore ?
-
--*who_mmeargant
-Que votre fils n'a fait que marcher sur vos pas.
-Monsieur, vous lui traciez une route assez belle !
-Sans doute il vous sied bien de prendre son parti,
-Puisqu'en effet c'est vous qui l'avez perverti !
-
--*who_m.argant
-J'entends ; voilà l'effet d'un rapport infidèle !
-
--*who_mmeargant
-Eh ! Quel moyen, hélas ! De n'être pas séduit
-Par l'exemple effréné des faiblesses d'un père ?
-Quel caractère heureux n'en serait pas détruit ?
-Ah ! C'est, de plus en plus, ce qui me désespère.
-Qui recevra mes pleurs ? Qui fermera mes yeux ?
-
--*who_m.argant
-Vous vous abandonnez à de fausses alarmes.
-Calmez-vous sur mon compte ; et jugez un peu mieux...
-Mais on vient ; suspendez vos larmes.
-
-**** *book_ *id_V06 *act_V *date_1744
-
--*who_m.argant
-Quoi ! Déjà de retour !
-
--*who_dolignipere
-      Oui, vraiment, me voilà.
-
--*who_m.argant
-Vous n'aurez pu conclure avec ces coquins-là ;
-Leurs propositions sans doute vous effrayent ?
-
--*who_dolignipere
-J'ai trouvé, par bonheur, de ces gens qui se payent
-De raison et d'argent comptant.
-À l'honneur de leur fille il n'en faut plus qu'autant.
-J'ai réglé, moyennant une somme assez forte,
-Dont ces honnêtes gens sont contents.
-
--*who_m.argant
-      Eh ! Qu'importe ?
-
--*who_dolignipere
-Si vous le trouvez bon, sans perdre un seul moment,
-Il faut aller signer et consommer l'affaire.
-Ce n'est pas loin d'ici ; c'est chez votre notaire,
-Où l'acte est tout dressé.
-
--*who_m.argant
-      Courons-y promptement ;
-Supposé, cependant, que cela vous convienne.
-
--*who_mmeargant
-Allez, messieurs.
-
--*who_m.argant
-      Partons.
-
-**** *book_ *id_V07 *act_V *date_1744
-
--*who_mmeargant
-      Et nous, réglons aussi
-L'affaire qui me reste à terminer ici.
-Rosette ? Holà, quelqu'un ? Que Marianne vienne.
-Voyons donc ce que c'est ; perçons l'obscurité,
-Dont le mystère ici couvre la vérité.
-Quoi ! Tout ce qui m'est cher s'unit et se rassemble
-Pour me faire essuyer tous les malheurs ensemble !
-Mon époux et mon fils !... J'adorais deux ingrats ! ...
-Ma rivale paraît... Ne la ménageons pas.
-Je te rendrai du moins outrage pour outrage.
-Sachons qui de nous deux doit imposer la loi.
-
-**** *book_ *id_V08 *act_V *date_1744
-
--*who_marianne
-Que s'est-il donc passé ? Je vois, sur son visage,
-Tous les traits du courroux qui va tomber sur moi.
-
--*who_mmeargant
-Approchez... N'êtes-vous point lasse
-Du plaisir de semer le divorce en ces lieux ?
-N'en pouvez-vous jouir, si ce n'est sous mes yeux ?
-Voulez-vous me réduire à vous demander grâce ?
-Ou faut-il vous céder ? Prononcez entre nous.
-
--*who_marianne
-Sans doute que j'ai fait rompre ce mariage.
-
--*who_mmeargant
-Répondez donc ?
-
--*who_marianne
-      Hélas ! Je tombe à vos genoux.
-
--*who_mmeargant
-Portez ailleurs ce faux hommage.
-Levez-vous. Les soupirs, les pleurs sont superflus.
-Ce ne sont pas toujours des preuves d'innocence.
-
--*who_marianne
-Disposez de mon sort. Que voulez-vous de plus ?
-N'est-il pas en votre puissance ?
-Ordonnez ; et comptez sur une obéissance
-Qui servira du moins à me justifier.
-Délivrez-vous de ma présence.
-Je ne demande, hélas ! Qu'à me sacrifier.
-
--*who_mmeargant
-Qu'à vous sacrifier ! Est-ce ici votre place ?
-
--*who_marianne
-Je n'ai que du malheur ; vous pouvez m'en punir.
-
--*who_mmeargant
-Mais le malheur, ici, vous a-t-il fait venir ?
-
--*who_marianne
-Accusez mon erreur et non pas mon audace.
-Madame, on m'a trompée en m'amenant ici :
-C'est une vérité qui peut être attestée.
-Si j'avais été libre, y serais-je restée ?
-D'aujourd'hui seulement mon sort est éclairci.
-Et dès que je l'ai su, j'ai tout mis en usage
-Pour qu'on me laissât fuir. Je n'ai pu l'obtenir.
-Ai-je rien de plus cher que de vous réunir ?
-
--*who_mmeargant
-Ô ciel ! D'une rivale est-ce là le langage ?
-J'ai peine à résister à son air ingénu.
-Cette énigme est assez difficile à comprendre.
-Votre sort, dites-vous, vous était inconnu ?
-Quel est donc ce roman ?
-
--*who_marianne
-      On a dû vous l'apprendre.
-Vous savez qui je suis.
-
--*who_mmeargant
-      C'est un secret pour moi.
-
--*who_marianne
-On ne vous a point dit qui j'étais ?
-
--*who_mmeargant
-      Je l'ignore.
-D'où vous vient ce nouvel effroi ?
-
--*who_marianne
-Je frémis d'une erreur où je vous vois encore.
-
--*who_mmeargant
-Cherchez donc à la dissiper.
-
--*who_marianne
-Hélas ! Je ne vois point mon père.
-
--*who_mmeargant
-Mais ne vous flattez pas de pouvoir me tromper.
-
--*who_marianne
-Cet abandon me désespère.
-
--*who_mmeargant
-Que cherchent vos regards ? épargnez-vous ces soins.
-Parlez en liberté, nous sommes sans témoins.
-
--*who_marianne
-Quand vous me connaîtrez...
-
--*who_mmeargant
-      Quelle est votre fortune ?
-
--*who_marianne
-Qui ? Moi ! Je n'en possède et n'en prétends aucune.
-
--*who_mmeargant
-Que faisiez-vous auparavant ?
-
--*who_marianne
-Je menais hors du monde une vie inconnue.
-
--*who_mmeargant
-Continuez.
-
--*who_marianne
-      Dans un couvent,
-Depuis que je suis née, on m'a toujours tenue.
-Fixez-y mon destin. Je suis prête à partir.
-J'offre d'y retourner, pour n'en jamais sortir.
-
--*who_mmeargant
-Je n'en avais jamais été si bien frappée.
-Comptez sur mes secours...
-      On peut l'avoir trompée...
-Je vous les offre volontiers.
-Quel fut votre couvent ? Parlez avec franchise.
-
--*who_marianne
-Vous pouvez le connaître.
-
--*who_mmeargant
-      Où vous avait-on mise ?
-
--*who_marianne
-Mais c'était auprès de Poitiers.
-
--*who_mmeargant
-De Poitiers, dites-vous ?
-      Useraient-ils d'adresse ?
-C'est un fait qui peut être aisément éclairci.
-
--*who_marianne
-Je le sais.
-
--*who_mmeargant
-      En effet, serait-elle ma nièce ?
-C'est le même couvent où ma fille est aussi.
-Que je suis coupable envers elle.
-Vous l'avez donc vue ?
-
--*who_marianne
-      Oui.
-
--*who_mmeargant
-      Si vous la connaissez,
-Je suis mère, excusez des désirs empressés ; )
-Vous pouvez m'en tracer une image fidèle.
-Faites-moi son portrait... Quoi ! Vous ne l'osez pas ?
-Je ne me flatte point qu'elle ait autant d'appas
-Que vous en avez en partage.
-
--*who_marianne
-Ne me pressez pas davantage
-De vous entretenir de ses faibles attraits.
-
--*who_mmeargant
-En serait-elle dépourvue ?...
-Vous rougissez toujours, et vous baissez la vûe.
-
--*who_marianne
-Connaissez-la par d'autres traits
-Plus précieux, plus chers et pour vous et pour elle :
-C'est sa soumission et son profond respect.
-Cet éloge n'est point suspect.
-Quels que soient vos desseins, elle y sera fidèle.
-Votre fille, à jamais, saura s'y conformer.
-Vos projets lui sont tous aussi chers qu'à vous-même.
-Il me reste à vous informer...
-
--*who_mmeargant
-De quoi donc ? Achevez.
-
--*who_marianne
-      De sa tendresse extrême.
-
-**** *book_ *id_V09 *act_V *date_1744
-
--*who_mmeargant
-Eh ! Pour qui ?
-
--*who_marianne
-      Le demandez-vous !
-Pour une mère qu'elle adore.
-
--*who_mmeargant
-Moi ! Puis-je mériter des sentiments si doux ?
-Elle ne m'a point vue encore.
-
--*who_marianne
-Hélas ! Pardonnez-moi.
-
--*who_mmeargant
-      Que dites-vous ? Comment ?
-Éclaircissez en ce moment
-Le mystère que vous me faites.
-Seriez-vous !... Plût au ciel !... Dites-moi qui vous êtes.
-Ma nièce... Si j'en crois des transports pleins d'appas,
-Vous devez m'être bien plus chère.
-
--*who_m.argant
-Votre coeur ne vous trompe pas.
-Embrassez votre fille.
-
--*who_mmeargant
-      Ô trop heureuse mère !
-
--*who_marianne
-Qu'il m'est doux de me voir entre des bras si chers !
-
--*who_mmeargant
-Pardonnez-moi tous deux, et partagez ma joie.
-Dans la félicité que le ciel me renvoie,
-Je retrouve au-delà de tout ce que je perds.
-
--*who_m.argant
-Vous me pardonnez donc cette ruse innocente !
-
--*who_mmeargant
-Si je vous la pardonne ! Elle fait mon bonheur.
-
--*who_dolignipere
-Nous en voilà pourtant venus à notre honneur !
-
--*who_m.argant
-Ma femme, il faut aussi que mon fils s'en ressente.
-Sous le poids de sa faute il paraît abattu.
-Je crois, pour l'avenir, qu'on peut tout s'en promettre.
-Il n'oserait paraître. Ah ! Daignez lui permettre
-De venir à vos pieds reprendre sa vertu.
-
--*who_mmeargant
-Je ne puis.
-
--*who_marianne
-      Oserais-je, en faveur de mon frère,
-Unir ma faible voix à celle de mon père ?
-Pour qui réservez-vous un généreux pardon ?
-Me refuserez-vous une première grâce ?
-
--*who_mmeargant
-L'ingratitude la plus basse
-Mérite un entier abandon.
-Appelez votre fils ; qu'il vienne en diligence.
-
--*who_m.argant
-Je croirais que c'est trop écouter la vengeance,
-Et que le châtiment d'un si cher criminel
-Doit être passager et non pas éternel.
-
-**** *book_ *id_V10 *act_V *date_1744
-
--*who_mmeargant
-Monsieur, voici ma fille et ma seule héritière.
-Je déshérite Argant ; j'en prononce l'arrêt :
-Ma fille occupera sa place toute entière.
-Je sais que votre fils l'adore, et qu'il lui plaît.
-Ne vous en cachez point. Leur amour m'intéresse.
-Qu'ils recueillent tous deux le fruit de leur tendresse.
-
--*who_marianne
-Eh ! Madame, croyez le serment que j'en fais,
-S'il en coûte si cher à mon malheureux frère,
-J'aime mieux, avec lui, pleurer votre colère,
-Que d'en accepter les bienfaits.
-
--*who_mmeargant
-Eh ! Que veux-tu ?
-
--*who_marianne
-      Sa grâce. Elle sera la mienne.
-Si vous l'abandonnez, que faut-il qu'il devienne ?
-
--*who_mmeargant
-Il n'aurait pas parlé de même en ta faveur.
-
--*who_marianne
-Il m'aimera... craignez l'effet de sa douleur,
-Et de son désespoir extrême.
-
--*who_mmeargant
-Qui me garantira ce retour sur lui-même ?
-
--*who_marianne
-Sa faute et ses remords.
-
--*who_mmeargant
-      Tu m'imposes la loi.
-Puisse ce malheureux te prendre pour exemple !
-Mais avant qu'un pardon plus ample
-Lui fasse partager ma tendresse avec toi,
-Je veux d'un oeil sévère observer sa conduite.
-L'ingrat, jusqu'à ce jour, ne m'a que trop séduite.
-Vous, recevez ma fille et vivez avec nous :
-Je ne puis me résoudre à me séparer d'elle ;
-C'est la condition que j'exige de vous.
-
--*who_dolignifils
-C'est rendre encor plus chère une union si belle.
-
--*who_m.argant
-Enfin, vous me voyez au comble de mes voeux.
-En aimant ses enfants, c'est soi-même qu'on aime ;
-Mais, pour jouir d'un sort parfaitement heureux,
-Il faut s'en faire aimer de même.
-Comptez qu'on ne parvient à ce bonheur suprême,
-Qu'en partageant son âme également entre eux.

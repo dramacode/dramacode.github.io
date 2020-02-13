@@ -1,6 +1,6 @@
 ---
 identifier: mareschal_dictateurromain  
-creator: Mareschal, André  
+creator: Mareschal, André ; Georges Forestier.  
 date: 1646  
 title: Le Dictateur romain. Tragédie.  
 ---
@@ -879,7 +879,7 @@ Les corrections opérées sur le texte sont pour beaucoup proposées par les dif
 **Texte** : prescrites (1166) ; devant ; (1619).
 
 
-# LE DICTATEUR ROMAIN TRAGEDIE. DEDIEE A MONSEIGNEUR *le Duc d'Espernon.*.
+# LE DICTATEUR ROMAIN TRAGEDIE. DEDIEE A MONSEIGNEUR *le Duc d'Espernon.*. 
 
 
 ## A HAUT ET PUISSANT PRINCE BERNARD DE FOIX DE LA VALLETTE, DUC D'ESPERNON, DE LAVALLETTE, & de Cancale ; Pair & Colonnel General de France ; Chevallier des Ordres du Roy, & de la Jarretiere ; Prince & Captal de Buch, Comte de Foix, d'Astarac, &c. Sire de l'Esparre, &c. Gouverneur & Lieutenant general pour le Roy en Guyenne.
@@ -890,12 +890,12 @@ Quand par une douce force vous n'auriez pas gagné tous mes vœux en un moment, 
 
 MONSEIGNEUR,
 
-DE vôtre GRANDEUR< Le tres-humble & tres-obeissant >< serviteur. A. MARESCHAL >
+DE vôtre GRANDEUR< Le tres-humble & tres-obeissant >< serviteur. A. MARESCHAL > 
 
 
 ## Extraict du Privilege du Roy.
 
-Par grace & privilège du Roy donné à Paris le 19. Fevrier 1646. signé, Par le Roy en son Conseil, LE BRUN. Il est permis à Toussainct Quinet Marchand Libraire à Paris d'imprimer ou faire imprimer une piece de Theatre, intitulée LE DICTATEUR ROMAIN, TRAGEDIE, & ce durant le temps & espace de cinq ans, à compter du jour que ladite piece sera achevee d'imprimer, & deffences seront faictes à tous Imprimeurs & Libraires d'en imprimer, vendre & distribuer d'autre impression que celle dudit Quinet ou ses ayans causes, sur peine aux contrevenans de trois mille livres d'amende, confiscation des exemplaires & de tous despens, dommages & interests ainsi qu'il est plus au long [65] porté par lesdites lettres.< Achevé d’imprimer pour la premiere fois le 28. Avril 1646. >< Les Exemplaires ont esté fournis. >
+Par grace & privilège du Roy donné à Paris le 19. Fevrier 1646. signé, Par le Roy en son Conseil, LE BRUN. Il est permis à Toussainct Quinet Marchand Libraire à Paris d'imprimer ou faire imprimer une piece de Theatre, intitulée LE DICTATEUR ROMAIN, TRAGEDIE, & ce durant le temps & espace de cinq ans, à compter du jour que ladite piece sera achevee d'imprimer, & deffences seront faictes à tous Imprimeurs & Libraires d'en imprimer, vendre & distribuer d'autre impression que celle dudit Quinet ou ses ayans causes, sur peine aux contrevenans de trois mille livres d'amende, confiscation des exemplaires & de tous despens, dommages & interests ainsi qu'il est plus au long [65] porté par lesdites lettres.< Achevé d’imprimer pour la premiere fois le 28. Avril 1646. >< Les Exemplaires ont esté fournis. > 
 
 
 ## PERSONNAGES.

@@ -1,6 +1,6 @@
 ---
 identifier: duryer_lisandrecaliste  
-creator: Du Ryer, Pierre  
+creator: Du Ryer, Pierre ; Georges Forestier.  
 date: 1632  
 title: Lisandre et Caliste. Tragi-comédie.  
 ---

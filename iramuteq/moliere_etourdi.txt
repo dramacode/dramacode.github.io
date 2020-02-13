@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1655 *creator_moliere
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lelie
 
--*who_lelie
 Hé bien ! Léandre, hé bien ! il faudra contester ;
 Nous verrons de nous deux qui pourra l'emporter ;
 Qui dans nos soins communs pour ce jeune miracle,
@@ -10,30 +9,15 @@ Aux vœux de son Rival portera plus d'obstacle.
 Préparez vos efforts, et vous défendez bien,
 Sûr que de mon côté je n'épargnerai rien.
 
-**** *book_ *id_I02 *act_I *date_1655 *creator_moliere
-
--*who_lelie
 Ah ! Mascarille.
 
--*who_mascarille
-      Quoi ?
-
--*who_lelie
       Voici bien des affaires ;
 J'ai dans ma passion toutes choses contraires :
 Léandre aime Célie, et par un trait fatal,
 Malgré mon changement, est toujours mon rival.
 
--*who_mascarille
-Léandre aime Célie !
-
--*who_lelie
       Il l'adore, te dis-je.
 
--*who_mascarille
-Tant pis.
-
--*who_lelie
       Hé ! oui, tant pis, c'est là ce qui m'afflige.
 Toutefois j'aurais tort de me désespérer,
 Puisque j'ai ton secours je puis me rassurer ;
@@ -42,14 +26,6 @@ N'a jamais rien trouvé qui lui fût difficile,
 Qu'on te peut appeler le Roi des serviteurs,
 Et qu'en toute la terre…
 
--*who_mascarille
-      Hé, trêve de douceurs.
-Quand nous faisons besoin nous autres misérables,
-Nous sommes les chéris et les incomparables,
-Et dans un autre temps, dès le moindre courroux,
-Nous sommes les coquins qu'il faut rouer de coups.
-
--*who_lelie
 Ma foi, tu me fais tort avec cette invective ;
 Mais enfin discourons un peu de ma captive,
 Dis si les plus cruels et plus durs sentiments
@@ -59,7 +35,715 @@ Je vois pour sa naissance un noble témoignage,
 Et je crois que le Ciel dedans un rang si bas,
 Cache son Origine, et ne l'en tire pas.
 
--*who_mascarille
+Ah ! trêve, je vous prie, à votre Rhétorique.
+
+Sais-tu qu'on n'acquiert rien de bon à me fâcher ?
+Que chez moi les avis ont de tristes salaires ?
+Qu'un valet conseiller y fait mal ses affaires ?
+
+Ah ! c'est par ces discours que tu peux me ravir.
+Au reste, mon amour, quand je l'ai fait paraître,
+N'a point été mal vu des yeux qui l'ont fait naître ;
+Mais Léandre à l'instant vient de me déclarer
+Qu'à me ravir Célie il se va préparer.
+C'est pourquoi dépêchons, et cherche dans ta tête
+Les moyens les plus prompts d'en faire ma conquête.
+Trouve ruses, détours, fourbes, inventions,
+Pour frustrer un rival de ses prétentions.
+
+Hé bien ? le stratagème ?
+
+      Où ?
+
+      Et quelle ?
+
+      Quoi ?
+
+      Et que lui puis-je dire ?
+
+Que faire ?
+
+      C'en est trop à la fin ;
+Et tu me mets à bout par ces contes frivoles.
+
+      Quoi ? c'est ?
+
+      Mais Trufaldin pour elle,
+Fait de nuit et de jour exacte sentinelle ;
+Prends garde.
+
+Ah ! que le Ciel m'oblige, en offrant à ma vue
+Les célestes attraits dont vous êtes pourvue !
+Et, quelque mal cuisant que m'aient causé vos yeux,
+Que je prends de plaisir à les voir en ces lieux !
+
+Ah ! leurs coups sont trop beaux pour me faire une injure,
+Je mets toute ma gloire à chérir ma blessure,
+Et…
+
+      Oh ! rencontre cruelle,
+Ce malheureux vieillard devait-il nous troubler !
+
+Cessez, ô Trufaldin, de vous inquiéter,
+C'est par mon ordre seul qu'il vous vient visiter ;
+Et je vous l'envoyais, ce serviteur fidèle,
+Vous offrir mon service, et vous parler pour elle,
+Dont je vous veux dans peu payer la liberté,
+Pourvu qu'entre nous deux le prix soit arrêté.
+
+Je pensais faire bien.
+
+Ah ! mon Dieu, pour un rien me voilà bien coupable,
+Le mal est-il si grand qu'il soit irréparable ?
+Enfin, si tu ne mets Célie entre mes mains,
+Songe au moins de Léandre à rompre les desseins,
+Qu'il ne puisse acheter avant moi cette belle,
+De peur que ma présence encor soit criminelle,
+Je te laisse.
+
+À qui la bourse ?
+
+Ma foi, sans moi, l'argent était perdu pour lui.
+
+Qu'est-ce donc ? qu'ai-je fait ?
+
+Quoi ! C'était !…
+
+S'il est ainsi j'ai tort ; mais qui l'eût deviné.
+
+Tu me devais par signe avertir de l'affaire.
+
+      Non, je te le promets,
+De ne me mêler plus de rien dire, ou rien faire.
+
+Mais surtout hâte-toi, de peur qu'en ce dessein…
+
+Que diable fais-tu là ? Tu me promets merveille ;
+Mais ta lenteur d'agir est pour moi sans pareille :
+Sans que mon bon génie au-devant m'a poussé,
+Déjà tout mon bonheur eût été renversé.
+C'était fait de mon bien, c'était fait de ma joie,
+D'un regret éternel je devenais la proie ;
+Bref, si je ne me fusse en ce lieu rencontré,
+Anselme avait l'esclave, et j'en étais frustré.
+Il l'emmenait chez lui ; mais j'ai paré l'atteinte,
+J'ai détourné le coup, et tant fait, que par crainte
+Le pauvre Trufaldin l'a retenue.
+
+Il nous le faut mener en quelque Hôtellerie,
+Et faire sur les pots décharger sa furie.
+
+Non, je serai prudent, te dis‑je, ne crains rien,
+Tu verras seulement…
+
+Son esprit, il est vrai, trouve une étrange voie
+Pour adresser mes vœux au comble de leur joie ;
+Mais quand d'un bel objet on est bien amoureux,
+Que ne ferait-on pas pour devenir heureux ?
+Si l'amour est au crime une assez belle excuse,
+Il en peut bien servir à la petite ruse,
+Que sa flamme aujourd'hui me force d'approuver
+Par la douceur du bien qui m'en doit arriver :
+Juste Ciel ! qu'ils sont prompts ! je les vois en parole,
+Allons nous préparer à jouer notre rôle.
+
+Ah !
+
+Ah !
+
+Ah !
+
+      Ah !
+
+Ah !
+
+Ah ! Ah !
+
+Ah !
+
+      Maintenant avec ce passeport,
+Je puis à Trufaldin rendre aisément visite.
+
+Que dites-vous ! jamais elle ne quittera,
+Un cœur qui chèrement toujours la nourrira.
+
+Vous me faites plaisir de les vouloir reprendre ;
+Mais je n'en ai point vu de faux, comme je crois.
+
+      Oui.
+
+Il faut dire : J'en tiens ; quelle surprise extrême !
+D'où peut-il avoir su sitôt le stratagème !
+
+Ah ! mon pauvre garçon, la chance a bien tourné,
+Pourrais-tu de mon sort deviner l'injustice ?
+
+      Anselme instruit de l'artifice,
+M'a repris maintenant tout ce qu'il nous prêtait,
+Sous couleur de changer de l'or que l'on doutait.
+
+      Il est trop véritable.
+
+      Tout de bon, j'en suis inconsolable ;
+Tu te vas emporter d'un courroux sans égal.
+
+Ah ! n'aie point pour moi si grande indifférence,
+Et sois plus indulgent à ce peu d'imprudence,
+Sans ce dernier malheur, ne m'avoueras-tu pas,
+Que j'avais fait merveille ? et qu'en ce feint trépas
+J'éludais un chacun d'un deuil si vraisemblable,
+Que les plus clairvoyants l'auraient cru véritable.
+
+Hé bien, je suis coupable, et je veux l'avouer ;
+Mais, si jamais mon bien te fut considérable,
+Répare ce malheur, et me sois secourable.
+
+Mascarille, mon fils.
+
+      Fais-moi ce plaisir.
+
+      Si tu m'es inflexible,
+Je m'en vais me tuer.
+
+Je ne te puis fléchir ?
+
+      Vois-tu le fer prêt.
+
+      Je vais le pousser.
+
+Tu n'auras pas regret de m'arracher la vie !
+
+      Adieu Mascarille.
+
+Quoi !…
+
+Tu voudrais bien, ma foi, pour avoir mes habits,
+Que je fisse le sot, et que je me tuasse.
+
+Que vois-je ! mon rival et Trufaldin ensemble !
+Il achète Célie ; ah ! de frayeur je tremble.
+
+Que dois-je faire ? dis, veuille me conseiller.
+
+      Laisse-moi, je vais le quereller.
+
+      Que veux-tu que je fasse
+Pour empêcher ce coup ?
+
+Laisse m'en rire encore avant que te le dire.
+
+Ah ! je ne serai plus de tes plaintes l'objet.
+Tu ne me diras plus, toi qui toujours me cries,
+Que je gâte en brouillon toutes tes fourberies :
+J'ai bien joué moi-même un tour des plus adroits.
+Il est vrai, je suis prompt, et m'emporte parfois ;
+Mais pourtant, quand je veux, j'ai l'imaginative
+Aussi bonne en effet que personne qui vive ;
+Et toi-même avoueras que ce que j'ai fait part
+D'une pointe d'esprit où peu de monde a part.
+
+Tantôt, l'esprit ému d'une frayeur bien vive,
+D'avoir vu Trufaldin avecque mon rival,
+Je songeais à trouver un remède à ce mal,
+Lorsque me ramassant, tout entier en moi-même,
+J'ai conçu, digéré, produit un stratagème,
+Devant qui tous les tiens, dont tu fais tant de cas,
+Doivent sans contredit mettre pavillon bas.
+
+      Ah ! s'il te plaît, donne-toi patience ;
+J'ai donc feint une lettre avec diligence,
+Comme d'un grand Seigneur écrite à Trufaldin,
+Qui mande, qu'ayant su par un heureux destin,
+Qu'une esclave qu'il tient sous le nom de Célie,
+Est sa fille, autrefois par des voleurs ravie ;
+Il veut la venir prendre, et le conjure au moins
+De la garder toujours, de lui rendre des soins ;
+Qu'à ce sujet il part d'Espagne, et doit pour elle
+Par de si grands présents reconnaître son zèle,
+Qu'il n'aura point regret de causer son bonheur.
+
+      Écoute donc ; voici bien le meilleur.
+La Lettre que je dis a donc été remise ;
+Mais, sais-tu bien comment ? en saison si bien prise,
+Que le porteur m'a dit que sans ce trait falot,
+Un homme l'emmenait, qui s'est trouvé fort sot.
+
+Oui, d'un tour si subtil m'aurais-tu cru capable ?
+Loue au moins mon adresse, et la dextérité,
+Dont je romps d'un rival le dessein concerté.
+
+Apprends-moi le sujet qui contre moi te pique :
+Ai-je fait quelque chose ? éclaircis-moi ce point.
+
+Je te suivrai partout, pour savoir ce mystère.
+
+Il m'échappe ! oh ! malheur qui ne se peut forcer !
+Au discours qu'il m'a fait que saurais-je comprendre ?
+Et quel mauvais office aurais-je pu me rendre ?
+
+Du chagrin qui vous tient, quel peut être l'objet ?
+
+      Vous-même.
+
+Je vois bien ce que c'est, Célie en est la cause.
+
+Pour elle vous aviez pourtant de grands desseins,
+Mais il faut dire ainsi, lorsqu'ils se trouvent vains.
+
+Quelles finesses donc ?
+
+Quoi ?
+
+C'est de l'Hébreu pour moi, je n'y puis rien comprendre.
+
+Tout beau, tout beau, Léandre.
+
+Léandre, arrêtons là ce discours importun.
+Contre moi tant d'efforts qu'il vous plaira pour elle ;
+Mais surtout retenez cette atteinte mortelle :
+Sachez que je m'impute à trop de lâcheté,
+D'entendre mal parler de ma divinité ;
+Et que j'aurai toujours bien moins de répugnance
+À souffrir votre amour qu'un discours qui l'offense.
+
+Quiconque vous l'a dit est un lâche, un pendard ;
+On ne peut imposer de tache à cette fille :
+Je connais bien son cœur.
+
+      Oui ?
+
+      Il prétend
+D'une fille d'honneur insolemment médire,
+Et que peut-être encor je n'en ferai que rire.
+Gage qu'il se dédit.
+
+Parbleu, je le ferais mourir sous le bâton,
+S'il m'avait soutenu des faussetés pareilles.
+
+Ah ! bon, bon, le voilà, venez çà, chien maudit.
+
+      Langue de serpent fertile en impostures,
+Vous osez sur Célie attacher vos morsures !
+Et lui calomnier la plus rare vertu,
+Qui puisse faire éclat sous un sort abattu !
+
+Non, non, point de clin d'œil, et point de raillerie ;
+Je suis aveugle à tout, sourd à quoi que ce soit ;
+Fût-ce mon propre frère, il me la payerait ;
+Et sur ce que j'adore oser porter le blâme,
+C'est me faire une plaie au plus tendre de l'âme ;
+Tous ces signes sont vains, quels discours as-tu faits ?
+
+Tu n'échapperas pas.
+
+      Parle donc, confesse.
+
+Dépêche, qu'as-tu dit ? vide entre nous ce point.
+
+Ah ! je vous ferai bien parler d'une autre sorte.
+
+Laissez‑moi contenter mon courage offensé.
+
+Quoi ! châtier mes gens, n'est pas en ma puissance ?
+
+Quand j'aurais volonté de le battre à mourir,
+Hé bien ? c'est mon valet ?
+
+Le trait est admirable ! et comment donc le vôtre ?
+Sans doute…
+
+      Hem, que veux-tu conter ?
+
+Vous rêvez bien, Léandre, et me la baillez bonne.
+Il n'est pas mon valet ?
+
+Je ne sais ce que c'est.
+
+Point du tout. Moi ? l'avoir chassé, roué de coups ?
+Vous vous moquez de moi, Léandre, ou lui de vous.
+
+Il t'avait accusé de discours médisants
+Contre…
+
+Je ne m'étonne pas si je romps tes attentes ;
+À moins d'être informé des choses que tu tentes,
+J'en ferais encor cent de la sorte.
+
+Au moins, pour t'emporter à de justes dépits,
+Fais-moi dans tes desseins entrer de quelque chose ;
+Mais que de leurs ressorts la porte me soit close,
+C'est ce qui fait toujours que je suis pris sans vert.
+
+Puisque la chose est faite, il n'y faut plus penser :
+Mon rival en tout cas ne peut me traverser,
+Et pourvu que tes soins, en qui je me repose…
+
+S'il ne tient qu'à cela, je n'y résiste pas ;
+As-tu besoin ? dis-moi, de mon sang ? de mes bras.
+
+Que puis‑je donc pour toi ?
+
+Nous avons fait la paix.
+
+      Oui, nous le fléchirons ;
+Mais aussi tu promets…
+
+Il prétend l'enlever avec sa mascarade ?
+
+Tu m'obliges par trop avec cette nouvelle :
+Va, je reconnaîtrai ce service fidèle ;
+Mon drôle assurément leur jouera quelque trait :
+Mais je veux de ma part seconder son projet :
+Il ne sera pas dit, qu'en un fait qui me touche,
+Je ne me sois non plus remué qu'une souche ;
+Voici l'heure, ils seront surpris à mon aspect,
+Foin, que n'ai-je avec moi pris mon porte‑respect ;
+Mais, vienne qui voudra contre notre personne,
+J'ai deux bons pistolets, et mon épée est bonne.
+Holà, quelqu'un, un mot.
+
+Fermez soigneusement votre porte ce soir.
+
+      Certaines gens font une mascarade,
+Pour vous venir donner une fâcheuse aubade ;
+Ils veulent enlever votre Célie.
+
+Et, sans doute bientôt, ils viennent en ces lieux ;
+Demeurez, vous pourrez voir tout de la fenêtre :
+Hé bien ? qu'avais-je dit ? les voyez-vous paraître ?
+Chut, je veux à vos yeux leur en faire l'affront,
+Nous allons voir beau jeu, si la corde ne rompt.
+
+Masques, où courez-vous ? le pourrait-on apprendre ?
+Trufaldin, ouvrez-leur pour jouer un momon ;
+Bon Dieu ! qu'elle est jolie ! et qu'elle a l'air mignon !
+Hé quoi ! vous murmurez ! mais, sans vous faire outrage,
+Peut-on lever le masque et voir votre visage ?
+
+Mascarille, est-ce toi ?
+
+Hélas ! quelle surprise ! et quel sort est le nôtre !
+L'aurais-je deviné ! n'étant point averti
+Des secrètes raisons qui l'avaient travesti !
+Malheureux que je suis, d'avoir dessous ce masque,
+Été sans y penser te faire cette frasque !
+Il me prendrait envie, en ce juste courroux,
+De me battre moi-même, et me donner cent coups.
+
+Las ! si de ton secours ta colère me prive,
+À quel Saint me vouerai-je ?
+
+Ah ! si ton cœur pour moi n'est de bronze, ou de fer,
+Qu'encore un coup, du moins, mon imprudence ait grâce
+S'il faut pour l'obtenir que tes genoux j'embrasse,
+Vois-moi…
+
+Tu ranimes par là mon espérance morte.
+
+Aussi, crois, si jamais je suis dans la puissance,
+Que tu seras content de ma reconnaissance ;
+Et, que, quand je n'aurais qu'un seul morceau de pain…
+
+Mais comment Trufaldin chez lui t'a-t-il reçu ?
+
+C'est assez, je sais tout : tu me l'as dit deux fois.
+
+Mais, à tant différer je me fais de l'effort.
+
+Ces répétitions ne sont que superflues.
+Dès l'abord mon esprit a compris tout le fait.
+
+Écoute Mascarille, un seul point me chagrine,
+S'il allait de son fils me demander la mine ?
+
+Il est vrai ; mais dis-moi, s'il connaît qu'il m'a vu,
+Que faire ?
+
+Fort bien : mais, à propos, cet endroit de Turquie ?…
+
+Mais, le nom de la ville où j'aurai pu les voir ?
+
+Va, va-t'en commencer ; il ne me faut plus rien.
+
+Laisse-moi gouverner : que ton âme est craintive !
+
+      Ah ! c'est me faire honte,
+Que de me tant prêcher ; suis-je un sot à ton compte ?
+
+Quand il m'est inutile, il fait le chien couchant :
+Mais, parce qu'il sent bien le secours qu'il me donne,
+Sa familiarité jusque-là s'abandonne.
+Je vais être de près éclairé des beaux yeux,
+Dont la force m'impose un joug si précieux ;
+Je m'en vais sans obstacle, avec des traits de flamme,
+Peindre à cette beauté les tourments de mon âme ;
+Je saurai quel arrêt je dois… mais les voici.
+
+Ce sont soins superflus, et je vous en dispense.
+
+Oui, Seigneur Trufaldin, le plus gaillard du monde.
+
+Plus de dix mille fois.
+
+Il vous a dépeint tel que je vous vois paraître,
+Le visage, le port…
+
+En Turquie, à Turin.
+
+C'est là votre vrai nom, et l'autre est emprunté.
+
+Dans Naples son destin a commencé son cours.
+
+      Pour moi, point de repas.
+
+      Après vous.
+
+      D'abord il m'a surpris :
+Mais n'appréhende plus, je reprends mes esprits,
+Et m'en vais débiter avecque hardiesse…
+
+Dois-je éternellement ouïr tes réprimandes ?
+De quoi te peux-tu plaindre ? Ai-je pas réussi
+En tout ce que j'ai dit depuis…
+
+Pourrait-on se forcer à plus de retenue !
+Je ne l'ai presque point encore entretenue.
+
+Et comment donc ?
+
+Mon Dieu ! qu'il t'est aisé de condamner des choses,
+Dont tu ne ressens point les agréables causes !
+Je veux bien néanmoins, pour te plaire une fois,
+Faire force à l'amour qui m'impose des lois :
+Désormais…
+
+Il faudrait autrement être fort indiscret.
+
+      Ah coquin !
+
+      Bourreau !
+
+      Quoi donc ? je serais homme…
+
+À moi ! par un valet cet affront éclatant !
+L'aurait-on pu prévoir l'action de ce traître !
+Qui vient insolemment de maltraiter son maître.
+
+Quoi ? tu m'oses encor tenir un tel propos.
+
+Ah ! je me vengerai de ce trait déloyal.
+
+Moi !
+
+On aurait pu surprendre un mot dit à Célie !
+
+Oh ! le plus malheureux de tous les misérables !
+Mais encore, pourquoi me voir chassé par toi ?
+
+Tu devais donc, pour toi, frapper plus doucement.
+
+Quoique ton traitement ait eu trop de rudesse,
+Qu'est-ce que dessus moi ne peut cette promesse ?
+
+      Oui, je te le promets.
+
+Soit.
+
+Mais tiens‑moi donc parole, et songe à mon repos.
+
+Faut-il que le malheur qui me suit à la trace,
+Me fasse voir toujours disgrâce sur disgrâce ?
+
+      Oui, va, je m'y tiendrai.
+
+Quel que soit le transport d'une âme impatiente,
+Ma parole m'engage à rester en attente ;
+À laisser faire un autre, et voir sans rien oser,
+Comme de mes destins le Ciel veut disposer.
+Demandiez-vous quelqu'un dedans cette demeure ?
+
+À mon père pourtant, la maison appartient,
+Et mon valet la nuit, pour la garder s'y tient.
+
+      Certes, ceci me surprend, je l'avoue ;
+Qui diantre l'aurait mis ? et par quel intérêt ?…
+Ah ! ma foi, je devine à peu près ce que c'est :
+Cela ne peut venir que de ce que j'augure.
+
+Je voudrais à tout autre en faire un grand secret ;
+Mais, pour vous, il n'importe, et vous serez discret ;
+Sans doute, l'écriteau que vous voyez paraître,
+Comme je conjecture, au moins ne saurait être,
+Que quelque invention du valet que je dis,
+Que quelque nœud subtil qu'il doit avoir ourdi,
+Pour mettre en mon pouvoir certaine Égyptienne,
+Dont j'ai l'âme piquée, et qu'il faut que j'obtienne :
+Je l'ai déjà manqué, et même plusieurs coups.
+
+      Célie.
+
+Quoi ? vous la connaissez ?
+
+      Oh ! discours surprenant !
+
+Quoi ? j'obtiendrais de vous le bonheur que j'espère ?
+Vous pourriez ?…
+
+Que pourrais‑je vous dire ? et quel remerciement ?…
+
+Sous ce grotesque habit, qui l'aurait reconnu ?
+Approche, Mascarille, et sois le bienvenu.
+
+Le plaisant baragouin ! il est bon, sur ma foi.
+
+Va, va, lève le masque, et reconnais ton maître.
+
+Tout est accommodé, ne te déguise point.
+
+Ton jargon Allemand est superflu, te dis-je ;
+Car nous sommes d'accord, et sa bonté m'oblige :
+J'ai tout ce que mes vœux lui pouvaient demander,
+Et tu n'as pas sujet de rien appréhender.
+
+Hé bien, que diras-tu ?
+
+Tu feignais à sortir de ton déguisement ?
+Et ne pouvais me croire en cet événement ?
+
+Mais, confesse, qu'enfin, c'est avoir fait beaucoup ;
+Au moins, j'ai réparé mes fautes à ce coup,
+Et j'aurai cet honneur d'avoir fini l'ouvrage.
+
+Ah ! quel bonheur au mien pourrait être égalé !
+
+      C'est trop, je ne veux plus
+Te demander pour moi de secours superflus ;
+Je suis un chien, un traître, un bourreau détestable !
+Indigne d'aucun soin, de rien faire incapable.
+Va, cesse tes efforts pour un malencontreux,
+Qui ne saurait souffrir que l'on le rende heureux !
+Après tant de malheurs, après mon imprudence,
+Le trépas me doit seul prêter son assistance.
+
+Croirai-je que du Ciel la puissance absolue ?…
+
+Il faut que je t'embrasse, et mille et mille fois,
+Dans cette joie…
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celie
+
+Mon cœur qu'avec raison votre discours étonne,
+N'entend pas que mes yeux fassent mal à personne ;
+Et, si dans quelque chose ils vous ont outragé,
+Je puis vous assurer que c'est sans mon congé.
+
+Autrefois j'ai connu cet honnête garçon ;
+Et vous n'avez pas lieu d'en prendre aucun soupçon.
+
+      Oui, lui-même.
+
+Non, tout ce que je sais n'est que blanche magie.
+
+Sous quel Astre ton Maître a-t-il reçu le jour ?
+
+Sans me nommer l'objet pour qui son cœur soupire,
+La science que j'ai m'en peut assez instruire ;
+Cette fille a du cœur, et dans l'adversité,
+Elle sait conserver une noble fierté,
+Elle n'est pas d'humeur à trop faire connaître,
+Les secrets sentiments qu'en son cœur on fait naître :
+Mais je les sais comme elle, et d'un esprit plus doux,
+Je vais en peu de mots vous les découvrir tous.
+
+Si ton Maître en ce point de constance se pique,
+Et que la vertu seule anime son dessein,
+Qu'il n'appréhende pas de soupirer en vain ;
+Il a lieu d'espérer, et le sort qu'il veut prendre
+N'est pas sourd aux traités, et voudra bien se rendre.
+
+      C'est là tout le malheur.
+
+Je vais vous enseigner ce que vous devez faire.
+
+Votre zèle, pour moi, visiblement éclate ;
+Pour en paraître triste, il faudrait être ingrate ;
+Et mon visage aussi par son émotion,
+N'explique point mon cœur en cette occasion ;
+Une douleur de tête y peint sa violence,
+Et, si j'avais sur vous quelque peu de puissance,
+Notre voyage, au moins, pour trois ou quatre jours,
+Attendrait que ce mal eût pris un autre cours.
+
+Quoi que tu veuilles dire, et que l'on se propose,
+De ce retardement j'attends fort peu de chose ;
+Ce qu'on voit de succès peut bien persuader
+Qu'ils ne sont pas encor fort près de s'accorder ;
+Et je t'ai déjà dit qu'un cœur comme le nôtre,
+Ne voudrait pas pour l'un faire injustice à l'autre ;
+Et que très fortement, par de différents nœuds,
+Je me trouve attachée au parti de tous deux :
+Si Lélie a pour lui l'amour et sa puissance,
+Andrès pour son partage a la reconnaissance,
+Qui ne souffrira point que mes pensers secrets,
+Consultent jamais rien contre ses intérêts :
+Oui, s'il ne peut avoir plus de place en mon âme,
+Si le don de mon cœur ne couronne sa flamme,
+Au moins, dois-je ce prix à ce qu'il fait pour moi,
+De n'en choisir point d'autre au mépris de sa foi,
+Et de faire à mes vœux autant de violence,
+Que j'en fais aux désirs qu'il met en évidence :
+Sur ces difficultés qu'oppose mon devoir,
+Juge ce que tu peux te permettre d'espoir.
+
+Voilà d'un air galant faire une raillerie ;
+Mais, épargnez un peu celle qui vous en prie :
+Vos yeux, vos propres yeux, se connaissent trop bien,
+Pour pouvoir de ma part redouter jamais rien ;
+Ils sont fort assurés du pouvoir de leurs charmes,
+Et ne prendront jamais de pareilles alarmes.
+
+Je crois, qu'étant tombés dans cet aveuglement,
+Vous vous consoleriez de leur perte aisément,
+Et trouveriez pour vous l'amant peu souhaitable,
+Qui d'un si mauvais choix se trouverait capable.
+
+Qu'est‑ce donc ?
+
+Quoi ?
+
+      Hé bien ?
+
+Je demeure immobile à tant de nouveautés.
+
+      Ah ! mon père.
+
+Je viens d'entendre ici ce succès merveilleux.
+
+Pour moi, je me blâmais, et croyais faire faute,
+Quand je n'avais pour vous qu'une estime très haute ;
+Je ne pouvais savoir quel obstacle puissant
+M'arrêtait sur un pas si doux et si glissant,
+Et détournait mon cœur de l'aveu d'une flamme,
+Que mes sens s'efforçaient d'introduire en mon âme.
+
+Que de vous maintenant dépend ma destinée.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
+
+      Quoi ?
+
+Léandre aime Célie !
+
+Tant pis.
+
+      Hé, trêve de douceurs.
+Quand nous faisons besoin nous autres misérables,
+Nous sommes les chéris et les incomparables,
+Et dans un autre temps, dès le moindre courroux,
+Nous sommes les coquins qu'il faut rouer de coups.
+
 Vous êtes romanesque avecque vos chimères ;
 Mais que fera Pandolfe en toutes ces affaires,
 C'est, Monsieur, votre père, au moins à ce qu'il dit,
@@ -77,19 +761,9 @@ Vous soustrait au devoir de votre obéissance,
 Dieu sait quelle tempête alors éclatera,
 Et de quels beaux sermons on vous régalera.
 
--*who_lelie
-Ah ! trêve, je vous prie, à votre Rhétorique.
-
--*who_mascarille
 Mais vous, trêve plutôt à votre Politique,
 Elle n'est pas fort bonne, et vous devriez tâcher…
 
--*who_lelie
-Sais-tu qu'on n'acquiert rien de bon à me fâcher ?
-Que chez moi les avis ont de tristes salaires ?
-Qu'un valet conseiller y fait mal ses affaires ?
-
--*who_mascarille
 Il se met en courroux ! tout ce que j'en ai dit
 N'était rien que pour rire, et vous sonder l'esprit :
 D'un censeur de plaisirs ai-je fort l'encolure ?
@@ -104,69 +778,28 @@ Et vertueux par force, espèrent par envie,
 Ôter aux jeunes gens les plaisirs de la vie.
 Vous savez mon talent, je m'offre à vous servir.
 
--*who_lelie
-Ah ! c'est par ces discours que tu peux me ravir.
-Au reste, mon amour, quand je l'ai fait paraître,
-N'a point été mal vu des yeux qui l'ont fait naître ;
-Mais Léandre à l'instant vient de me déclarer
-Qu'à me ravir Célie il se va préparer.
-C'est pourquoi dépêchons, et cherche dans ta tête
-Les moyens les plus prompts d'en faire ma conquête.
-Trouve ruses, détours, fourbes, inventions,
-Pour frustrer un rival de ses prétentions.
-
--*who_mascarille
 Laissez-moi quelque temps rêver à cette affaire.
 Que pourrais-je inventer pour ce coup nécessaire ?
 
--*who_lelie
-Hé bien ? le stratagème ?
-
--*who_mascarille
       Ah ! comme vous courez !
 Ma cervelle toujours marche à pas mesurés.
 J'ai trouvé votre fait, il faut… non, je m'abuse ;
 Mais, si vous alliez…
 
--*who_lelie
-      Où ?
-
--*who_mascarille
       C'est une faible ruse.
 J'en songeais une.
 
--*who_lelie
-      Et quelle ?
-
--*who_mascarille
       Elle n'irait pas bien.
 Mais ne pourriez‑vous pas ?…
 
--*who_lelie
-      Quoi ?
-
--*who_mascarille
       Vous ne pourriez rien.
 Parlez avec Anselme.
 
--*who_lelie
-      Et que lui puis-je dire ?
-
--*who_mascarille
 Il est vrai, c'est tomber d'un mal dedans un pire.
 Il faut pourtant l'avoir. Allez chez Trufaldin.
 
--*who_lelie
-Que faire ?
-
--*who_mascarille
       Je ne sais.
 
--*who_lelie
-      C'en est trop à la fin ;
-Et tu me mets à bout par ces contes frivoles.
-
--*who_mascarille
 Monsieur, si vous aviez en main force pistoles,
 Nous n'aurions pas besoin maintenant de rêver,
 À chercher les biais que nous devons trouver ;
@@ -181,10 +814,6 @@ Il se ferait fesser, pour moins d'un quart d'écu ;
 Et l'argent est le Dieu que sur tout il révère :
 Mais le mal c'est…
 
--*who_lelie
-      Quoi ? c'est ?
-
--*who_mascarille
       Que Monsieur votre père
 Est un autre vilain qui ne vous laisse pas,
 Comme vous voudriez bien, manier ses ducats :
@@ -194,90 +823,29 @@ Mais tâchons de parler à Célie un moment,
 Pour savoir là-dessus quel est son sentiment.
 La fenêtre est ici.
 
--*who_lelie
-      Mais Trufaldin pour elle,
-Fait de nuit et de jour exacte sentinelle ;
-Prends garde.
-
--*who_mascarille
       Dans ce coin demeurons en repos.
 Oh ! bonheur ! la voilà qui paraît à propos.
 
-**** *book_ *id_I03 *act_I *date_1655 *creator_moliere
-
--*who_lelie
-Ah ! que le Ciel m'oblige, en offrant à ma vue
-Les célestes attraits dont vous êtes pourvue !
-Et, quelque mal cuisant que m'aient causé vos yeux,
-Que je prends de plaisir à les voir en ces lieux !
-
--*who_celie
-Mon cœur qu'avec raison votre discours étonne,
-N'entend pas que mes yeux fassent mal à personne ;
-Et, si dans quelque chose ils vous ont outragé,
-Je puis vous assurer que c'est sans mon congé.
-
--*who_lelie
-Ah ! leurs coups sont trop beaux pour me faire une injure,
-Je mets toute ma gloire à chérir ma blessure,
-Et…
-
--*who_mascarille
       Vous le prenez là d'un ton un peu trop haut ;
 Ce style maintenant n'est pas ce qu'il nous faut ;
 Profitons mieux du temps, et sachons vite d'elle
 Ce que…
 
--*who_trufaldin
-      Célie.
-
--*who_mascarille
       Hé bien ?
 
--*who_lelie
-      Oh ! rencontre cruelle,
-Ce malheureux vieillard devait-il nous troubler !
-
--*who_mascarille
 Allez, retirez-vous ; je saurai lui parler.
 
-**** *book_ *id_I04 *act_I *date_1655 *creator_moliere
-
--*who_trufaldin
-Que faites-vous dehors ? et quel soin vous talonne,
-Vous à qui je défends de parler à personne.
-
--*who_celie
-Autrefois j'ai connu cet honnête garçon ;
-Et vous n'avez pas lieu d'en prendre aucun soupçon.
-
--*who_mascarille
 Est-ce là le Seigneur Trufaldin ?
 
--*who_celie
-      Oui, lui-même.
-
--*who_mascarille
 Monsieur, je suis tout vôtre, et ma joie est extrême,
 De pouvoir saluer en toute humilité
 Un homme dont le nom est partout si vanté.
 
--*who_trufaldin
-Très humble serviteur.
-
--*who_mascarille
       J'incommode peut-être ;
 Mais je l'ai vue ailleurs, où m'ayant fait connaître,
 Les grands talents qu'elle a pour savoir l'avenir,
 Je voulais sur un point un peu l'entretenir.
 
--*who_trufaldin
-Quoi ! te mêlerais‑tu d'un peu de diablerie ?
-
--*who_celie
-Non, tout ce que je sais n'est que blanche magie.
-
--*who_mascarille
 Voici donc ce que c'est. Le Maître que je sers,
 Languit pour un objet qui le tient dans ses fers ;
 Il aurait bien voulu du feu qui le dévore
@@ -291,275 +859,90 @@ Ont sujet d'espérer quelque succès heureux,
 Je viens vous consulter, sûr que de votre bouche,
 Je puis apprendre au vrai le secret qui nous touche.
 
--*who_celie
-Sous quel Astre ton Maître a-t-il reçu le jour ?
-
--*who_mascarille
 Sous un Astre à jamais ne changer son amour.
 
--*who_celie
-Sans me nommer l'objet pour qui son cœur soupire,
-La science que j'ai m'en peut assez instruire ;
-Cette fille a du cœur, et dans l'adversité,
-Elle sait conserver une noble fierté,
-Elle n'est pas d'humeur à trop faire connaître,
-Les secrets sentiments qu'en son cœur on fait naître :
-Mais je les sais comme elle, et d'un esprit plus doux,
-Je vais en peu de mots vous les découvrir tous.
-
--*who_mascarille
 Oh ! merveilleux pouvoir de la vertu magique !
 
--*who_celie
-Si ton Maître en ce point de constance se pique,
-Et que la vertu seule anime son dessein,
-Qu'il n'appréhende pas de soupirer en vain ;
-Il a lieu d'espérer, et le sort qu'il veut prendre
-N'est pas sourd aux traités, et voudra bien se rendre.
-
--*who_mascarille
 C'est beaucoup ; mais ce sort dépend d'un gouverneur
 Difficile à gagner.
 
--*who_celie
-      C'est là tout le malheur.
-
--*who_mascarille
 Au diable le fâcheux qui toujours nous éclaire.
 
--*who_celie
-Je vais vous enseigner ce que vous devez faire.
-
--*who_lelie
-Cessez, ô Trufaldin, de vous inquiéter,
-C'est par mon ordre seul qu'il vous vient visiter ;
-Et je vous l'envoyais, ce serviteur fidèle,
-Vous offrir mon service, et vous parler pour elle,
-Dont je vous veux dans peu payer la liberté,
-Pourvu qu'entre nous deux le prix soit arrêté.
-
--*who_mascarille
 La peste soit la bête.
 
--*who_trufaldin
-      Ho ! Ho ! qui des deux croire,
-Ce discours au premier est fort contradictoire.
-
--*who_mascarille
 Monsieur, ce galant homme a le cerveau blessé ;
 Ne le savez-vous pas ?
 
--*who_trufaldin
-      Je sais ce que je sais ;
-J'ai crainte ici dessous de quelque manigance :
-Rentrez, et ne prenez jamais cette licence :
-Et vous filous fieffés, ou je me trompe fort,
-Mettez pour me jouer vos flûtes mieux d'accord.
-
--*who_mascarille
 C'est bien fait ; je voudrais qu'encor, sans flatterie,
 Il nous eût d'un bâton chargés de compagnie ;
 À quoi bon se montrer ? et comme un Étourdi
 Me venir démentir de tout ce que je dis.
 
--*who_lelie
-Je pensais faire bien.
-
--*who_mascarille
       Oui, c'était fort l'entendre ;
 Mais quoi, cette action ne me doit point surprendre,
 Vous êtes si fertile en pareils Contretemps,
 Que vos écarts d'esprit n'étonnent plus les gens.
 
--*who_lelie
-Ah ! mon Dieu, pour un rien me voilà bien coupable,
-Le mal est-il si grand qu'il soit irréparable ?
-Enfin, si tu ne mets Célie entre mes mains,
-Songe au moins de Léandre à rompre les desseins,
-Qu'il ne puisse acheter avant moi cette belle,
-De peur que ma présence encor soit criminelle,
-Je te laisse.
-
--*who_mascarille
       Fort bien. À dire vrai, l'argent ;
 Serait dans notre affaire un sûr et fort agent ;
 Mais ce ressort manquant, il faut user d'un autre.
 
-**** *book_ *id_I05 *act_I *date_1655 *creator_moliere
-
--*who_anselme
-Par mon chef, c'est un siècle étrange que le nôtre !
-J'en suis confus ; jamais tant d'amour pour le bien,
-Et jamais tant de peine à retirer le sien.
-Les dettes aujourd'hui, quelque soin qu'on emploie,
-Sont comme les enfants que l'on conçoit en joie,
-Et dont avec peine on fait l'accouchement ;
-L'argent dans une bourse entre agréablement :
-Mais le terme venu que nous devons le rendre,
-C'est lorsque les douleurs commencent à nous prendre ;
-Baste ce n'est pas peu que deux mille francs dus,
-Depuis deux ans entiers me soient enfin rendus,
-Encore est-ce un bonheur.
-
--*who_mascarille
       Ô ! Dieu, la belle proie
 À tirer en volant ! chut : il faut que je voie
 Si je pourrais un peu de près le caresser.
 Je sais bien les discours dont il le faut bercer.
 Je viens de voir, Anselme…
 
--*who_anselme
-      Et qui ?
-
--*who_mascarille
       Votre Nérine.
 
--*who_anselme
-Que dit-elle de moi cette gente assassine ?
-
--*who_mascarille
 Pour vous elle est de flamme.
 
--*who_anselme
-      Elle ?
-
--*who_mascarille
       Et vous aime tant,
 Que c'est grande pitié.
 
--*who_anselme
-      Que tu me rends content !
-
--*who_mascarille
 Peu s'en faut que d'amour la pauvrette ne meure ;
 Anselme, mon mignon, crie-t-elle à toute heure,
 Quand est-ce que l'hymen unira nos deux cœurs ?
 Et que tu daigneras éteindre mes ardeurs ?
 
--*who_anselme
-Mais pourquoi jusqu'ici me les avoir celées ?
-Les filles, par ma foi, sont bien dissimulées !
-Mascarille, en effet, qu'en dis-tu ? quoique vieux,
-J'ai de la mine encore assez pour plaire aux yeux.
-
--*who_mascarille
 Oui, vraiment, ce visage est encor fort mettable ;
 S'il n'est pas des plus beaux, il est désagréable.
 
--*who_anselme
-Si bien donc…
-
--*who_mascarille
       Si bien donc qu'elle est sotte de vous ;
 Ne vous regarde plus…
 
--*who_anselme
-      Quoi ?
-
--*who_mascarille
       Que comme un époux :
 Et vous veut…
 
--*who_anselme
-      Et me veut…
-
--*who_mascarille
       Et vous veut, quoi qu'il tienne,
 Prendre la bourse.
 
--*who_anselme
-      La ?
-
--*who_mascarille
       La bouche avec la sienne.
 
--*who_anselme
-Ah ! je t'entends. Viens çà, lorsque tu la verras,
-Vante-lui mon mérite autant que tu pourras.
-
--*who_mascarille
 Laissez-moi faire.
 
--*who_anselme
-      Adieu.
-
--*who_mascarille
       Que le Ciel te conduise.
 
--*who_anselme
-Ah ! vraiment je faisais une étrange sottise,
-Et tu pouvais pour toi m'accuser de froideur :
-Je t'engage à servir mon amoureuse ardeur,
-Je reçois par ta bouche une bonne nouvelle,
-Sans du moindre présent récompenser ton zèle ;
-Tiens, tu te souviendras…
-
--*who_mascarille
       Ah ! non pas, s'il vous plaît.
 
--*who_anselme
-Laisse-moi.
-
--*who_mascarille
       Point du tout, j'agis sans intérêt.
 
--*who_anselme
-Je le sais, mais pourtant…
-
--*who_mascarille
       Non Anselme, vous dis-je ;
 Je suis homme d'honneur, cela me désoblige.
 
--*who_anselme
-Adieu donc, Mascarille.
-
--*who_mascarille
       Ô ! long discours !
 
--*who_anselme
-      Je veux
-Régaler par tes mains cet objet de mes vœux ;
-Et je vais te donner de quoi faire pour elle
-L'achat de quelque bague, ou telle bagatelle
-Que tu trouveras bon.
-
--*who_mascarille
       Non, laissez votre argent,
 Sans vous mettre en souci, je ferai le présent ;
 Et l'on m'a mis en main une bague à la mode,
 Qu'après vous payerez si cela l'accommode.
 
--*who_anselme
-Soit, donne-la pour moi ; mais surtout fais si bien,
-Qu'elle garde toujours l'ardeur de me voir sien.
-
-**** *book_ *id_I06 *act_I *date_1655 *creator_moliere
-
--*who_lelie
-À qui la bourse ?
-
--*who_anselme
-      Ah ! Dieux, elle m'était tombée,
-Et j'aurais après cru qu'on me l'eût dérobée ;
-Je vous suis bien tenu de ce soin obligeant,
-Qui m'épargne un grand trouble, et me rend mon argent :
-Je vais m'en décharger au logis tout à l'heure.
-
--*who_mascarille
 C'est être officieux, et très fort, ou je meure.
 
--*who_lelie
-Ma foi, sans moi, l'argent était perdu pour lui.
-
--*who_mascarille
 Certes, vous faites rage, et payez aujourd'hui
 D'un jugement très rare, et d'un bonheur extrême.
 Nous avancerons fort, continuez de même.
 
--*who_lelie
-Qu'est-ce donc ? qu'ai-je fait ?
-
--*who_mascarille
       Le sot, en bon français,
 Puisque je puis le dire, et qu'enfin je le dois.
 Il sait bien l'impuissance où son père le laisse,
@@ -567,23 +950,11 @@ Qu'un rival qu'il doit craindre étrangement nous presse,
 Cependant quand je tente un coup pour l'obliger,
 Dont je cours moi tout seul la honte et le danger…
 
--*who_lelie
-Quoi ! C'était !…
-
--*who_mascarille
       Oui, bourreau, c'était pour la captive,
 Que j'attrapais l'argent dont votre soin nous prive.
 
--*who_lelie
-S'il est ainsi j'ai tort ; mais qui l'eût deviné.
-
--*who_mascarille
 Il fallait, en effet, être bien raffiné.
 
--*who_lelie
-Tu me devais par signe avertir de l'affaire.
-
--*who_mascarille
 Oui, je devais au dos avoir mon luminaire ;
 Au nom de Jupiter, laissez-nous en repos,
 Et ne nous chantez plus d'impertinents propos :
@@ -592,45 +963,20 @@ Mais j'avais médité tantôt un coup de maître,
 Dont tout présentement je veux voir les effets,
 À la charge que si…
 
--*who_lelie
-      Non, je te le promets,
-De ne me mêler plus de rien dire, ou rien faire.
-
--*who_mascarille
 Allez donc, votre vue excite ma colère.
 
--*who_lelie
-Mais surtout hâte-toi, de peur qu'en ce dessein…
-
--*who_mascarille
 Allez, encore un coup, j'y vais mettre la main.
 Menons bien ce projet, la fourbe sera fine,
 S'il faut qu'elle succède ainsi que j'imagine.
 Allons voir… bon, voici mon homme justement.
 
-**** *book_ *id_I07 *act_I *date_1655 *creator_moliere
-
--*who_pandolfe
-Mascarille,
-
--*who_mascarille
       Monsieur ;
 
--*who_pandolfe
-      À parler franchement,
-Je suis mal satisfait de mon fils.
-
--*who_mascarille
       De mon maître ?
 Vous n'êtes pas le seul qui se plaigne de l'être :
 Sa mauvaise conduite insupportable en tout,
 Met à chaque moment ma patience à bout.
 
--*who_pandolfe
-Je vous croirais pourtant assez d'intelligence
-Ensemble.
-
--*who_mascarille
       Moi ? Monsieur, perdez cette croyance ;
 Toujours de son devoir je tâche à l'avertir :
 Et l'on nous voit sans cesse avoir maille à partir.
@@ -639,17 +985,8 @@ Sur l'hymen d'Hippolyte, où je le vois rebelle ;
 Où par l'indignité d'un refus criminel,
 Je le vois offenser le respect paternel.
 
--*who_pandolfe
-Querelle !
-
--*who_mascarille
       Oui, querelle, et bien avant poussée.
 
--*who_pandolfe
-Je me trompais donc bien ; car j'avais la pensée,
-Qu'à tout ce qu'il faisait tu donnais de l'appui.
-
--*who_mascarille
 Moi ! Voyez ce que c'est que du monde aujourd'hui ;
 Et comme l'innocence est toujours opprimée.
 Si mon intégrité vous était confirmée ;
@@ -664,10 +1001,6 @@ Que vous avez du Ciel, comme on le considère ;
 Cessez de lui vouloir donner la mort au cœur,
 Et, comme lui, vivez en personne d'honneur.
 
--*who_pandolfe
-C'est parler comme il faut. Et que peut-il répondre ?
-
--*who_mascarille
 Répondre ? des chansons, dont il me vient confondre.
 Ce n'est pas qu'en effet, dans le fond de son cœur,
 Il ne tienne de vous des semences d'honneur ;
@@ -675,32 +1008,15 @@ Mais sa raison n'est pas maintenant la maîtresse :
 Si je pouvais parler avecque hardiesse,
 Vous le verriez dans peu soumis sans nul effort.
 
--*who_pandolfe
-Parle.
-
--*who_mascarille
       C'est un secret qui m'importerait fort,
 S'il était découvert : mais à votre prudence
 Je puis le confier avec toute assurance.
 
--*who_pandolfe
-Tu dis bien.
-
--*who_mascarille
       Sachez donc que vos vœux sont trahis,
 Par l'amour qu'une esclave imprime à votre fils.
 
--*who_pandolfe
-On m'en avait parlé ; mais l'action me touche,
-De voir que je l'apprenne encore par ta bouche.
-
--*who_mascarille
 Vous voyez si je suis le secret confident…
 
--*who_pandolfe
-Vraiment, je suis ravi de cela.
-
--*who_mascarille
       Cependant
 À son devoir, sans bruit, désirez-vous le rendre ?
 Il faut… j'ai toujours peur qu'on nous vienne surprendre :
@@ -721,34 +1037,9 @@ Qu'il aurait pris le joug que vous avez voulu :
 Cet autre objet pouvant réveiller son caprice,
 Au mariage encor peut porter préjudice.
 
--*who_pandolfe
-C'est très bien raisonné ; ce conseil me plaît fort ;
-Je vois Anselme, va, je m'en vais faire effort,
-Pour avoir promptement cette esclave funeste,
-Et la mettre en tes mains pour achever le reste.
-
--*who_mascarille
 Bon, allons avertir mon Maître de ceci :
 Vive la fourberie, et les fourbes aussi.
 
-**** *book_ *id_I08 *act_I *date_1655 *creator_moliere
-
--*who_hippolyte
-Oui, traître, c'est ainsi que tu me rends service ;
-Je viens de tout entendre et voir ton artifice ;
-À moins que de cela l'eussé-je soupçonné !
-Tu couches d'imposture, et tu m'en as donné !
-Tu m'avais promis lâche, et j'avais lieu d'attendre,
-Qu'on te verrait servir mes ardeurs pour Léandre ;
-Que du choix de Lélie, où l'on veut m'obliger,
-Ton adresse et tes soins sauraient me dégager ;
-Que tu m'affranchirais du projet de mon père ;
-Et cependant ici tu fais tout le contraire :
-Mais tu t'abuseras, je sais un sûr moyen,
-Pour rompre cet achat où tu pousses si bien ;
-Et je vais de ce pas…
-
--*who_mascarille
       Ah ! que vous êtes prompte !
 La mouche tout d'un coup à la tête vous monte ;
 Et, sans considérer s'il a raison, ou non,
@@ -756,11 +1047,6 @@ Votre esprit contre moi fait le petit démon.
 J'ai tort, et je devrais sans finir mon ouvrage,
 Vous faire dire vrai, puisqu'ainsi l'on m'outrage.
 
--*who_hippolyte
-Par quelle illusion penses-tu m'éblouir ?
-Traître, peux-tu nier ce que je viens d'ouïr.
-
--*who_mascarille
 Non ; mais il faut savoir que tout cet artifice
 Ne va directement qu'à vous rendre service :
 Que ce conseil adroit qui semble être sans fard,
@@ -772,11 +1058,6 @@ Dans le dernier excès portant sa passion,
 Anselme rebuté de son prétendu gendre,
 Puisse tourner son choix du côté de Léandre.
 
--*who_hippolyte
-Quoi ! tout ce grand projet qui m'a mise en courroux,
-Tu l'as formé pour moi, Mascarille !
-
--*who_mascarille
       Oui, pour vous.
 Mais puisqu'on reconnaît si mal mes bons offices,
 Qu'il me faut de la sorte essuyer vos caprices,
@@ -785,74 +1066,27 @@ Me traiter de faquin, de lâche, d'imposteur,
 Je m'en vais réparer l'erreur que j'ai commise,
 Et dès ce même pas rompre mon entreprise.
 
--*who_hippolyte
-Hé ! ne me traite pas si rigoureusement,
-Et pardonne aux transports d'un premier mouvement.
-
--*who_mascarille
 Non, non, laissez-moi faire, il est en ma puissance,
 De détourner le coup qui si fort vous offense.
 Vous ne vous plaindrez point de mes soins désormais :
 Oui, vous aurez mon maître, et je vous le promets.
 
--*who_hippolyte
-Hé ! mon pauvre garçon, que ta colère cesse ;
-J'ai mal jugé de toi, j'ai tort, je le confesse :
-Mais je veux réparer ma faute avec ceci.
-Pourrais‑tu te résoudre à me quitter ainsi ?
-
--*who_mascarille
 Non je ne le saurais, quelque effort que je fasse :
 Mais votre promptitude est de mauvaise grâce.
 Apprenez, qu'il n'est rien qui blesse un noble cœur,
 Comme quand il peut voir qu'on le touche en l'honneur.
 
--*who_hippolyte
-Il est vrai je t'ai dit de trop grosses injures :
-Mais que ces deux Louis guérissent tes blessures.
-
--*who_mascarille
 Hé ! tout cela n'est rien ; je suis tendre à ces coups :
 Mais déjà je commence à perdre mon courroux.
 Il faut de ses amis endurer quelque chose.
 
--*who_hippolyte
-Pourras-tu mettre à fin ce que je me propose ?
-Et crois-tu que l'effet de tes desseins hardis
-Produise à mon amour le succès que tu dis ?
-
--*who_mascarille
 N'ayez point pour ce fait l'esprit sur des épines ;
 J'ai des ressorts tout prêts pour diverses machines ;
 Et quand ce stratagème à nos vœux manquerait,
 Ce qu'il ne ferait pas, un autre le ferait.
 
--*who_hippolyte
-Crois qu'Hippolyte au moins ne sera pas ingrate.
-
--*who_mascarille
 L'espérance du gain n'est pas ce qui me flatte.
 
--*who_hippolyte
-Ton maître te fait signe, et veut parler à toi ;
-Je te quitte : mais songe à bien agir pour moi.
-
-**** *book_ *id_I09 *act_I *date_1655 *creator_moliere
-
--*who_lelie
-Que diable fais-tu là ? Tu me promets merveille ;
-Mais ta lenteur d'agir est pour moi sans pareille :
-Sans que mon bon génie au-devant m'a poussé,
-Déjà tout mon bonheur eût été renversé.
-C'était fait de mon bien, c'était fait de ma joie,
-D'un regret éternel je devenais la proie ;
-Bref, si je ne me fusse en ce lieu rencontré,
-Anselme avait l'esclave, et j'en étais frustré.
-Il l'emmenait chez lui ; mais j'ai paré l'atteinte,
-J'ai détourné le coup, et tant fait, que par crainte
-Le pauvre Trufaldin l'a retenue.
-
--*who_mascarille
       Et trois ;
 Quand nous serons à dix, nous ferons une croix.
 C'était par mon adresse, ô cervelle incurable,
@@ -864,13 +1098,6 @@ J'aimerais mieux cent fois être grosse pécore,
 Devenir cruche, chou, lanterne, loup-garou,
 Et que Monsieur Satan vous vînt tordre le cou.
 
--*who_lelie
-Il nous le faut mener en quelque Hôtellerie,
-Et faire sur les pots décharger sa furie.
-
-**** *book_ *id_II01 *act_II *date_1655 *creator_moliere
-
--*who_mascarille
 À vos désirs enfin il a fallu se rendre,
 Malgré tous mes serments je n'ai pu m'en défendre,
 Et pour vos intérêts, que je voulais laisser,
@@ -886,11 +1113,6 @@ Pour en pouvoir tirer ce que nous désirons ;
 Mais, si dorénavant votre imprudence éclate,
 Adieu vous dis mes soins pour l'objet qui vous flatte.
 
--*who_lelie
-Non, je serai prudent, te dis‑je, ne crains rien,
-Tu verras seulement…
-
--*who_mascarille
       Souvenez-vous-en bien :
 J'ai commencé pour vous un hardi stratagème :
 Votre père fait voir une paresse extrême
@@ -913,40 +1135,13 @@ Jouez bien votre rôle, et pour mon personnage,
 Si vous apercevez que j'y manque d'un mot,
 Dites absolument que je ne suis qu'un sot.
 
--*who_lelie
-Son esprit, il est vrai, trouve une étrange voie
-Pour adresser mes vœux au comble de leur joie ;
-Mais quand d'un bel objet on est bien amoureux,
-Que ne ferait-on pas pour devenir heureux ?
-Si l'amour est au crime une assez belle excuse,
-Il en peut bien servir à la petite ruse,
-Que sa flamme aujourd'hui me force d'approuver
-Par la douceur du bien qui m'en doit arriver :
-Juste Ciel ! qu'ils sont prompts ! je les vois en parole,
-Allons nous préparer à jouer notre rôle.
-
-**** *book_ *id_II02 *act_II *date_1655 *creator_moliere
-
--*who_mascarille
 La nouvelle a sujet de vous surprendre fort.
 
--*who_anselme
-Être mort de la sorte !
-
--*who_mascarille
       Il a certes grand tort.
 Je lui sais mauvais gré d'une telle incartade.
 
--*who_anselme
-N'avoir pas seulement le temps d'être malade !
-
--*who_mascarille
 Non, jamais homme n'eut si hâte de mourir.
 
--*who_anselme
-Et Lélie ?
-
--*who_mascarille
       Il se bat, et ne peut rien souffrir :
 Il s'est fait en maints lieux contusion et bosse,
 Et veut accompagner son papa dans la fosse :
@@ -955,13 +1150,6 @@ M'a fait en grande hâte ensevelir le mort,
 De peur que cet objet qui le rend hypocondre,
 À faire un vilain coup ne me l'allât semondre.
 
--*who_anselme
-N'importe, tu devais attendre jusqu'au soir,
-Outre qu'encore un coup j'aurais voulu le voir.
-Qui tôt ensevelit bien souvent assassine,
-Et tel est cru défunt qui n'en a que la mine.
-
--*who_mascarille
 Je vous le garantis trépassé comme il faut ;
 Au reste, pour venir au discours de tantôt,
 Lélie, et l'action lui sera salutaire,
@@ -976,106 +1164,27 @@ Il voudrait vous prier, ensuite de l'instance
 D'excuser de tantôt son trop de violence,
 De lui prêter au moins pour ce dernier devoir…
 
--*who_anselme
-Tu me l'as déjà dit, et je m'en vais le voir.
-
--*who_mascarille
 Jusques ici du moins tout va le mieux du monde :
 Tâchons à ce progrès que le reste réponde,
 Et de peur de trouver dans le port un écueil,
 Conduisons le vaisseau de la main et de l'œil.
 
-**** *book_ *id_II03 *act_II *date_1655 *creator_moliere
-
--*who_anselme
-Sortons, je ne saurais qu'avec douleur très forte,
-Le voir empaqueté de cette étrange sorte :
-Las ! en si peu de temps ! il vivait ce matin !
-
--*who_mascarille
 En peu de temps parfois on fait bien du chemin.
 
--*who_lelie
-Ah !
-
--*who_anselme
-      Mais quoi ? cher Lélie, enfin il était homme :
-On n'a point pour la mort de dispense de Rome.
-
--*who_lelie
-Ah !
-
--*who_anselme
-      Sans leur dire gare elle abat les humains,
-Et contre eux de tout temps a de mauvais desseins.
-
--*who_lelie
-Ah !
-
--*who_anselme
-      Ce fier animal pour toutes les prières,
-Ne perdrait pas un coup de ses dents meurtrières,
-Tout le monde y passe.
-
--*who_lelie
-      Ah !
-
--*who_mascarille
       Vous avez beau prêcher,
 Ce deuil enraciné ne se peut arracher.
 
--*who_anselme
-Si malgré ces raisons votre ennui persévère,
-Mon cher Lélie, au moins, faites qu'il se modère.
-
--*who_lelie
-Ah !
-
--*who_mascarille
       Il n'en fera rien, je connais son humeur.
 
--*who_anselme
-Au reste, sur l'avis de votre serviteur,
-J'apporte ici l'argent qui vous est nécessaire,
-Pour faire célébrer les obsèques d'un père…
-
--*who_lelie
-Ah ! Ah !
-
--*who_mascarille
       Comme à ce mot s'augmente sa douleur,
 Il ne peut sans mourir, songer à ce malheur.
 
--*who_anselme
-Je sais que vous verrez aux papiers du bonhomme,
-Que je suis débiteur d'une plus grande somme :
-Mais, quand par ces raisons je ne vous devrais rien,
-Vous pourriez librement disposer de mon bien.
-Tenez, je suis tout vôtre, et le ferai paraître.
-
--*who_lelie
-Ah !
-
--*who_mascarille
       Le grand déplaisir que sent monsieur mon Maître !
 
--*who_anselme
-Mascarille, je crois qu'il serait à propos,
-Qu'il me fît de sa main un reçu de deux mots.
-
--*who_mascarille
 Ah !
 
--*who_anselme
-      Des événements l'incertitude est grande.
-
--*who_mascarille
 Ah !
 
--*who_anselme
-      Faisons-lui signer le mot que je demande.
-
--*who_mascarille
 Las ! en l'état qu'il est, comment vous contenter !
 Donnez-lui le loisir de se désattrister ;
 Et quand ses déplaisirs prendront quelque allégeance,
@@ -1084,355 +1193,77 @@ Adieu, je sens mon cœur qui se gonfle d'ennui,
 Et m'en vais tout mon soûl pleurer avecque lui.
 Ah !
 
--*who_anselme
-      Le monde est rempli de beaucoup de traverses.
-Chaque homme tous les jours en ressent de diverses,
-Et jamais ici-bas…
-
-**** *book_ *id_II04 *act_II *date_1655 *creator_moliere
-
--*who_anselme
-      Ah ! bons Dieux, je frémis !
-Pandolfe qui revient ! fût-il bien endormi.
-Comme depuis sa mort sa face est amaigrie !
-Las ! ne m'approchez pas de plus près, je vous prie ;
-J'ai trop de répugnance à coudoyer un mort.
-
--*who_pandolfe
-D'où peut donc provenir ce bizarre transport ?
-
--*who_anselme
-Dites‑moi de bien loin quel sujet vous amène.
-Si pour me dire adieu vous prenez tant de peine,
-C'est trop de courtoisie, et véritablement,
-Je me serais passé de votre compliment.
-Si votre âme est en peine et cherche des prières,
-Las ! je vous en promets, et ne m'effrayez guères.
-Foi d'homme épouvanté, je vais faire à l'instant
-Prier tant Dieu pour vous que vous serez content.
-Disparaissez donc, je vous prie,
-Et que le Ciel par sa bonté,
-Comble de joie et de santé
-Votre défunte seigneurie.
-
--*who_pandolfe
-Malgré tout mon dépit, il m'y faut prendre part.
-
--*who_anselme
-Las ! pour un trépassé vous êtes bien gaillard !
-
--*who_pandolfe
-Est-ce jeu ? dites-nous, ou bien si c'est folie,
-Qui traite de défunt une personne en vie ?
-
--*who_anselme
-Hélas ! vous êtes mort, et je viens de vous voir.
-
--*who_pandolfe
-Quoi ? j'aurais trépassé sans m'en apercevoir ?
-
--*who_anselme
-Sitôt que Mascarille en a dit la nouvelle,
-J'en ai senti dans l'âme une douleur mortelle.
-
--*who_pandolfe
-Mais enfin, dormez-vous ? êtes-vous éveillé ?
-Me connaissez-vous pas ?
-
--*who_anselme
-      Vous êtes habillé
-D'un corps aérien qui contrefait le vôtre,
-Mais qui dans un moment peut devenir tout autre.
-Je crains fort de vous voir comme un géant grandir,
-Et tout votre visage affreusement laidir.
-Pour Dieu, ne prenez point de vilaine figure ;
-J'ai prou de ma frayeur en cette conjoncture.
-
--*who_pandolfe
-En une autre saison, cette naïveté,
-Dont vous accompagnez votre crédulité,
-Anselme, me serait un charmant badinage,
-Et j'en prolongerais le plaisir davantage :
-Mais avec cette mort un trésor supposé,
-Dont parmi les chemins on m'a désabusé,
-Fomente dans mon âme un soupçon légitime.
-Mascarille est un fourbe, et fourbe fourbissime,
-Sur qui ne peuvent rien la crainte, et le remords,
-Et qui pour ses desseins a d'étranges ressorts.
-
--*who_anselme
-M'aurait-on joué pièce, et fait supercherie ?
-Ah ! vraiment ma raison, vous seriez fort jolie !
-Touchons un peu pour voir : en effet c'est bien lui.
-Malepeste du sot, que je suis aujourd'hui !
-De grâce, n'allez pas divulguer un tel conte ;
-On en ferait jouer quelque farce à ma honte :
-Mais, Pandolfe, aidez-moi vous-même à retirer
-L'argent que j'ai donné pour vous faire enterrer.
-
--*who_pandolfe
-De l'argent, dites-vous ? ah ! c'est donc l'enclouure.
-Voilà le nœud secret de toute l'aventure ;
-À votre dam. Pour moi, sans m'en mettre en souci,
-Je vais faire informer de cette affaire ici,
-Contre ce Mascarille, et si l'on peut le prendre,
-Quoi qu'il puisse coûter, je veux le faire pendre.
-
--*who_anselme
-Et moi, la bonne dupe, à trop croire un vaurien,
-Il faut donc qu'aujourd'hui je perde, et sens et bien ?
-Il me sied bien, ma foi, de porter tête grise,
-Et d'être encor si prompt à faire une sottise !
-D'examiner si peu sur un premier rapport…
-Mais je vois…
-
-**** *book_ *id_II05 *act_II *date_1655 *creator_moliere
-
--*who_lelie
-      Maintenant avec ce passeport,
-Je puis à Trufaldin rendre aisément visite.
-
--*who_anselme
-À ce que je puis voir, votre douleur vous quitte ?
-
--*who_lelie
-Que dites-vous ! jamais elle ne quittera,
-Un cœur qui chèrement toujours la nourrira.
-
--*who_anselme
-Je reviens sur mes pas, vous dire, avec franchise,
-Que tantôt avec vous j'ai fait une méprise ;
-Que parmi ces Louis, quoiqu'ils semblent très beaux,
-J'en ai sans y penser mêlé que je tiens faux,
-Et j'apporte sur moi de quoi mettre en leur place :
-De nos faux-monnayeurs l'insupportable audace,
-Pullule en cet État d'une telle façon,
-Qu'on ne reçoit plus rien qui soit hors de soupçon :
-Mon Dieu, qu'on ferait bien de les faire tous pendre !
-
--*who_lelie
-Vous me faites plaisir de les vouloir reprendre ;
-Mais je n'en ai point vu de faux, comme je crois.
-
--*who_anselme
-Je les connaîtrai bien, montrez, montrez-les-moi :
-Est-ce tout ?
-
--*who_lelie
-      Oui.
-
--*who_anselme
-      Tant mieux ; enfin je vous raccroche,
-Mon argent bien aimé, rentrez dedans ma poche ;
-Et vous, mon brave Escroc, vous ne tenez plus rien ;
-Vous tuez donc des gens qui se portent fort bien ;
-Et qu'auriez-vous donc fait sur moi, chétif beau-père ?
-Ma foi, je m'engendrais d'une belle manière !
-Et j'allais prendre en vous un beau‑fils fort discret.
-Allez, allez mourir de honte, et de regret.
-
--*who_lelie
-Il faut dire : J'en tiens ; quelle surprise extrême !
-D'où peut-il avoir su sitôt le stratagème !
-
-**** *book_ *id_II06 *act_II *date_1655 *creator_moliere
-
--*who_mascarille
 Quoi ? vous étiez sorti ? je vous cherchais partout :
 Hé bien ? en sommes-nous enfin venus à bout ;
 Je le donne en six coups au fourbe le plus brave.
 Çà, donnez-moi que j'aille acheter notre esclave,
 Votre rival après sera bien étonné.
 
--*who_lelie
-Ah ! mon pauvre garçon, la chance a bien tourné,
-Pourrais-tu de mon sort deviner l'injustice ?
-
--*who_mascarille
 Quoi ? que serait-ce ?
 
--*who_lelie
-      Anselme instruit de l'artifice,
-M'a repris maintenant tout ce qu'il nous prêtait,
-Sous couleur de changer de l'or que l'on doutait.
-
--*who_mascarille
 Vous vous moquez peut-être ?
 
--*who_lelie
-      Il est trop véritable.
-
--*who_mascarille
 Tout de bon ?
 
--*who_lelie
-      Tout de bon, j'en suis inconsolable ;
-Tu te vas emporter d'un courroux sans égal.
-
--*who_mascarille
 Moi, Monsieur ? Quelque sot, la colère fait mal ;
 Et je veux me choyer, quoi qu'enfin il arrive :
 Que Célie après tout soit ou libre, ou captive ;
 Que Léandre l'achète, ou qu'elle reste là,
 Pour moi, je m'en soucie autant que de cela.
 
--*who_lelie
-Ah ! n'aie point pour moi si grande indifférence,
-Et sois plus indulgent à ce peu d'imprudence,
-Sans ce dernier malheur, ne m'avoueras-tu pas,
-Que j'avais fait merveille ? et qu'en ce feint trépas
-J'éludais un chacun d'un deuil si vraisemblable,
-Que les plus clairvoyants l'auraient cru véritable.
-
--*who_mascarille
 Vous avez en effet sujet de vous louer.
 
--*who_lelie
-Hé bien, je suis coupable, et je veux l'avouer ;
-Mais, si jamais mon bien te fut considérable,
-Répare ce malheur, et me sois secourable.
-
--*who_mascarille
 Je vous baise les mains, je n'ai pas le loisir.
 
--*who_lelie
-Mascarille, mon fils.
-
--*who_mascarille
       Point.
 
--*who_lelie
-      Fais-moi ce plaisir.
-
--*who_mascarille
 Non, je n'en ferai rien.
 
--*who_lelie
-      Si tu m'es inflexible,
-Je m'en vais me tuer.
-
--*who_mascarille
       Soit, il vous est loisible.
 
--*who_lelie
-Je ne te puis fléchir ?
-
--*who_mascarille
       Non.
 
--*who_lelie
-      Vois-tu le fer prêt.
-
--*who_mascarille
 Oui.
 
--*who_lelie
-      Je vais le pousser.
-
--*who_mascarille
       Faites ce qu'il vous plaît.
 
--*who_lelie
-Tu n'auras pas regret de m'arracher la vie !
-
--*who_mascarille
 Non.
 
--*who_lelie
-      Adieu Mascarille.
-
--*who_mascarille
       Adieu Monsieur Lélie.
 
--*who_lelie
-Quoi !…
-
--*who_mascarille
       Tuez-vous donc vite : ah ! que de longs devis !
 
--*who_lelie
-Tu voudrais bien, ma foi, pour avoir mes habits,
-Que je fisse le sot, et que je me tuasse.
-
--*who_mascarille
 Savais-je pas qu'enfin ce n'était que grimace ;
 Et, quoi que ces esprits jurent d'effectuer,
 Qu'on n'est point aujourd'hui si prompt à se tuer.
 
-**** *book_ *id_II07 *act_II *date_1655 *creator_moliere
-
--*who_lelie
-Que vois-je ! mon rival et Trufaldin ensemble !
-Il achète Célie ; ah ! de frayeur je tremble.
-
--*who_mascarille
 Il ne faut point douter qu'il fera ce qu'il peut,
 Et, s'il a de l'argent, qu'il pourra ce qu'il veut :
 Pour moi, j'en suis ravi ; voilà la récompense
 De vos brusques erreurs, de votre impatience.
 
--*who_lelie
-Que dois-je faire ? dis, veuille me conseiller.
-
--*who_mascarille
 Je ne sais.
 
--*who_lelie
-      Laisse-moi, je vais le quereller.
-
--*who_mascarille
 Qu'en arrivera-t-il ?
 
--*who_lelie
-      Que veux-tu que je fasse
-Pour empêcher ce coup ?
-
--*who_mascarille
       Allez, je vous fais grâce ;
 Je jette encore un œil pitoyable sur vous,
 Laissez‑moi l'observer par des moyens plus doux ;
 Je vais, comme je crois, savoir ce qu'il projette.
 
--*who_trufaldin
-Quand on viendra tantôt, c'est une affaire faite.
-
--*who_mascarille
 Il faut que je l'attrape, et que de ses desseins
 Je sois le confident pour mieux les rendre vains.
 
--*who_leandre
-Grâces au Ciel, voilà mon bonheur hors d'atteinte,
-J'ai su me l'assurer, et je n'ai plus de crainte ;
-Quoi que désormais puisse entreprendre un rival,
-Il n'est plus en pouvoir de me faire du mal.
-
--*who_mascarille
 Ahi, ahi, à l'aide, au meurtre, au secours, on m'assomme,
 Ah, ah, ah, ah, ah, ah, ô traître ! ô bourreau d'homme !
 
--*who_leandre
-D'où procède cela ? qu'est-ce ? que te fait‑on ?
-
--*who_mascarille
 On vient de me donner deux cents coups de bâton.
 
--*who_leandre
-Qui ?
-
--*who_mascarille
       Lélie.
 
--*who_leandre
-      Et pourquoi ?
-
--*who_mascarille
       Pour une bagatelle,
 Il me chasse et me bat d'une façon cruelle.
 
--*who_leandre
-Ah ! vraiment il a tort.
-
--*who_mascarille
       Mais, ou je ne pourrai,
 Ou je jure bien fort, que je m'en vengerai ;
 Oui, je te ferai voir, batteur que Dieu confonde,
@@ -1446,77 +1277,19 @@ Une esclave te plaît, tu voulais m'engager
 À la mettre en tes mains, et je veux faire en sorte
 Qu'un autre te l'enlève, ou le diable m'emporte.
 
--*who_leandre
-Écoute, Mascarille, et quitte ce transport ;
-Tu m'as plu de tout temps, et je souhaitais fort
-Qu'un garçon comme toi plein d'esprit et fidèle,
-À mon service un jour pût attacher son zèle :
-Enfin, si le parti te semble bon pour toi,
-Si tu veux me servir, je t'arrête, avec moi.
-
--*who_mascarille
 Oui, Monsieur, d'autant mieux que le destin propice
 M'offre à me bien venger en vous rendant service,
 Et que dans mes efforts pour vos contentements,
 Je puis à mon brutal trouver des châtiments.
 De Célie en un mot par mon adresse extrême…
 
--*who_leandre
-Mon amour s'est rendu cet office lui-même,
-Enflammé d'un objet qui n'a point de défaut,
-Je viens de l'acheter moins encor qu'il ne vaut.
-
--*who_mascarille
 Quoi ? Célie est à vous ?
 
--*who_leandre
-      Tu la verrais paraître,
-Si de mes actions j'étais tout à fait maître :
-Mais quoi ! mon père l'est, comme il a volonté,
-Ainsi que je l'apprends d'un paquet apporté,
-De me déterminer à l'hymen d'Hippolyte,
-J'empêche qu'un rapport de tout ceci l'irrite.
-Donc avec Trufaldin ; car je sors de chez lui,
-J'ai voulu tout exprès agir au nom d'autrui ;
-Et l'achat fait, ma bague est la marque choisie,
-Sur laquelle au premier il doit livrer Célie ;
-Je songe auparavant à chercher les moyens
-D'ôter aux yeux de tous ce qui charme les miens,
-À trouver promptement un endroit favorable,
-Où puisse être en secret cette captive aimable.
-
--*who_mascarille
 Hors de la ville un peu, je puis avec raison,
 D'un vieux parent que j'ai vous offrir la maison,
 Là, vous pourrez la mettre avec toute assurance,
 Et de cette action nul n'aura connaissance.
 
--*who_leandre
-Oui, ma foi, tu me fais un plaisir souhaité.
-Tiens donc, et va pour moi prendre cette beauté,
-Dès que par Trufaldin ma bague sera vue,
-Aussitôt en tes mains elle sera rendue,
-Et dans cette maison tu me la conduiras
-Quand… mais chut, Hippolyte est ici sur nos pas.
-
-**** *book_ *id_II08 *act_II *date_1655 *creator_moliere
-
--*who_hippolyte
-Je dois vous annoncer, Léandre, une nouvelle ;
-Mais la trouverez‑vous agréable, ou cruelle ?
-
--*who_leandre
-Pour en pouvoir juger, et répondre soudain,
-Il faudrait la savoir.
-
--*who_hippolyte
-      Donnez-moi donc la main
-Jusqu'au Temple, en marchant je pourrai vous l'apprendre.
-
--*who_leandre
-Va, vat'en me servir sans davantage attendre.
-
--*who_mascarille
 Oui, je te vais servir d'un plat de ma façon ;
 Fut-il jamais au monde un plus heureux garçon !
 Ô ! que dans un moment Lélie aura de joie !
@@ -1528,79 +1301,14 @@ Après ce rare exploit, je veux que l'on s'apprête
 Et qu'au bas du portrait on mette en lettres d'or,
 Vivat Mascarillus, fourbum Imperator.
 
-**** *book_ *id_II09 *act_II *date_1655 *creator_moliere
-
--*who_mascarille
 Holà.
 
--*who_trufaldin
-      Que voulez-vous ?
-
--*who_mascarille
       Cette bague connue,
 Vous dira le sujet qui cause ma venue.
 
--*who_trufaldin
-Oui, je reconnais bien la bague que voilà :
-Je vais querir l'esclave, arrêtez un peu là.
-
-**** *book_ *id_II10 *act_II *date_1655 *creator_moliere
-
--*who_courrier
-Seigneur, obligez‑moi de m'enseigner un homme…
-
--*who_trufaldin
-Et qui ?
-
--*who_courrier
-      Je crois que c'est Trufaldin qu'il se nomme.
-
--*who_trufaldin
-Et que lui voulez‑vous ? Vous le voyez ici.
-
--*who_courrier
-Lui rendre seulement la lettre que voici.
-
-Le Ciel, dont la bonté prend souci de ma vie,
-Vient de me faire ouïr par un bruit assez doux,
-Que ma fille à quatre ans par des voleurs ravie,
-Sous le nom de Célie est esclave chez vous.
-
-Si vous sûtes jamais ce que c'est qu'être père,
-Et vous trouvez sensible aux tendresses du sang,
-Conservez-moi chez vous cette fille si chère,
-Comme si de la vôtre elle tenait le rang.
-
-Pour l'aller retirer, je pars d'ici moi-même,
-Et vous vais de vos soins récompenser si bien,
-Que par votre bonheur que je veux rendre extrême,
-Vous bénirez le jour où vous causez le mien.
-De Madrid.
-Dom Pedro de Gusman, Marquis de Montalcane.
-
--*who_trufaldin
-Quoiqu'à leur Nation bien peu de foi soit due,
-Ils me l'avaient bien dit, ceux qui me l'ont vendue,
-Que je verrais dans peu quelqu'un la retirer,
-Et que je n'aurais pas sujet d'en murmurer :
-Et cependant j'allais par mon impatience,
-Perdre aujourd'hui les fruits d'une haute espérance.
-Un seul moment plus tard tous vos pas étaient vains :
-J'allais mettre en l'instant cette fille en ses mains ;
-Mais suffit, j'en aurai tout le soin qu'on désire.
-Vous-même, vous voyez ce que je viens de lire :
-Vous direz à celui qui vous a fait venir,
-Que je ne lui saurais ma parole tenir.
-Qu'il vienne retirer son argent.
-
--*who_mascarille
       Mais l'outrage
 Que vous lui faites…
 
--*who_trufaldin
-      Va, sans causer davantage.
-
--*who_mascarille
 Ah ! le fâcheux paquet que nous venons d'avoir !
 Le sort a bien donné la baye à mon espoir !
 Et bien à la male heure est‑il venu d'Espagne,
@@ -1608,75 +1316,18 @@ Ce Courrier que la foudre, ou la grêle accompagne ;
 Jamais, certes, jamais, plus beau commencement
 N'eut en si peu de temps plus triste événement.
 
-**** *book_ *id_II11 *act_II *date_1655 *creator_moliere
-
--*who_mascarille
 Quel beau transport de joie à présent vous inspire ?
 
--*who_lelie
-Laisse m'en rire encore avant que te le dire.
-
--*who_mascarille
 Çà, rions donc bien fort, nous en avons sujet.
 
--*who_lelie
-Ah ! je ne serai plus de tes plaintes l'objet.
-Tu ne me diras plus, toi qui toujours me cries,
-Que je gâte en brouillon toutes tes fourberies :
-J'ai bien joué moi-même un tour des plus adroits.
-Il est vrai, je suis prompt, et m'emporte parfois ;
-Mais pourtant, quand je veux, j'ai l'imaginative
-Aussi bonne en effet que personne qui vive ;
-Et toi-même avoueras que ce que j'ai fait part
-D'une pointe d'esprit où peu de monde a part.
-
--*who_mascarille
 Sachons donc ce qu'a fait cette imaginative.
 
--*who_lelie
-Tantôt, l'esprit ému d'une frayeur bien vive,
-D'avoir vu Trufaldin avecque mon rival,
-Je songeais à trouver un remède à ce mal,
-Lorsque me ramassant, tout entier en moi-même,
-J'ai conçu, digéré, produit un stratagème,
-Devant qui tous les tiens, dont tu fais tant de cas,
-Doivent sans contredit mettre pavillon bas.
-
--*who_mascarille
 Mais qu'est-ce ?
 
--*who_lelie
-      Ah ! s'il te plaît, donne-toi patience ;
-J'ai donc feint une lettre avec diligence,
-Comme d'un grand Seigneur écrite à Trufaldin,
-Qui mande, qu'ayant su par un heureux destin,
-Qu'une esclave qu'il tient sous le nom de Célie,
-Est sa fille, autrefois par des voleurs ravie ;
-Il veut la venir prendre, et le conjure au moins
-De la garder toujours, de lui rendre des soins ;
-Qu'à ce sujet il part d'Espagne, et doit pour elle
-Par de si grands présents reconnaître son zèle,
-Qu'il n'aura point regret de causer son bonheur.
-
--*who_mascarille
 Fort bien.
 
--*who_lelie
-      Écoute donc ; voici bien le meilleur.
-La Lettre que je dis a donc été remise ;
-Mais, sais-tu bien comment ? en saison si bien prise,
-Que le porteur m'a dit que sans ce trait falot,
-Un homme l'emmenait, qui s'est trouvé fort sot.
-
--*who_mascarille
 Vous avez fait ce coup sans vous donner au diable ?
 
--*who_lelie
-Oui, d'un tour si subtil m'aurais-tu cru capable ?
-Loue au moins mon adresse, et la dextérité,
-Dont je romps d'un rival le dessein concerté.
-
--*who_mascarille
 À vous pouvoir louer selon votre mérite,
 Je manque d'éloquence, et ma force est petite ;
 Oui, pour bien étaler cet effort relevé,
@@ -1695,28 +1346,11 @@ Un brouillon, une bête, un brusque, un étourdi,
 Que sais-je, un, cent fois plus encor que je ne dis,
 C'est faire en abrégé votre panégyrique.
 
--*who_lelie
-Apprends-moi le sujet qui contre moi te pique :
-Ai-je fait quelque chose ? éclaircis-moi ce point.
-
--*who_mascarille
 Non, vous n'avez rien fait ; mais ne me suivez point.
 
--*who_lelie
-Je te suivrai partout, pour savoir ce mystère.
-
--*who_mascarille
 Oui ? sus donc, préparez vos jambes à bien faire,
 Car je vais vous fournir de quoi les exercer.
 
--*who_lelie
-Il m'échappe ! oh ! malheur qui ne se peut forcer !
-Au discours qu'il m'a fait que saurais-je comprendre ?
-Et quel mauvais office aurais-je pu me rendre ?
-
-**** *book_ *id_III01 *act_III *date_1655 *creator_moliere
-
--*who_mascarille
 Taisez-vous, ma bonté, cessez votre entretien ;
 Vous êtes une sotte, et je n'en ferai rien ;
 Oui, vous avez raison, mon courroux, je l'avoue ;
@@ -1754,73 +1388,24 @@ Dont je promettrais bien un succès glorieux,
 Si je puis n'avoir plus cet obstacle à combattre :
 Bon, voyons si son feu se rend opiniâtre.
 
-**** *book_ *id_III02 *act_III *date_1655 *creator_moliere
-
--*who_mascarille
 Monsieur, j'ai perdu temps, votre homme se dédit.
 
--*who_leandre
-De la chose lui‑même il m'a fait un récit ;
-Mais, c'est bien plus, j'ai su que tout ce beau mystère,
-D'un rapt d'Égyptiens, d'un grand Seigneur pour père,
-Qui doit partir d'Espagne, et venir en ces lieux,
-N'est qu'un pur stratagème, un trait facétieux,
-Une histoire à plaisir, un conte dont Lélie
-A voulu détourner notre achat de Célie.
-
--*who_mascarille
 Voyez un peu la fourbe !
 
--*who_leandre
-      Et pourtant Trufaldin
-Est si bien imprimé de ce conte badin,
-Mord si bien à l'appât de cette faible ruse,
-Qu'il ne veut point souffrir que l'on le désabuse.
-
--*who_mascarille
 C'est pourquoi désormais il la gardera bien,
 Et je ne vois pas lieu d'y prétendre plus rien.    
 
--*who_leandre
-Si d'abord à mes yeux elle parut aimable,
-Je viens de la trouver tout à fait adorable,
-Et je suis en suspens, si pour me l'acquérir,
-Aux extrêmes moyens je ne dois point courir,
-Par le don de ma foi rompre sa destinée,
-Et changer ses liens en ceux de l'hyménée.
-
--*who_mascarille
 Vous pourriez l'épouser !
 
--*who_leandre
-      Je ne sais : mais enfin,
-Si quelque obscurité se trouve en son destin,
-Sa grâce et sa vertu sont de douces amorces,
-Qui pour tirer les cœurs ont d'incroyables forces.
-
--*who_mascarille
 Sa vertu, dites‑vous ?
 
--*who_leandre
-      Quoi ! que murmures-tu ?
-Achève, explique-toi sur ce mot de vertu.
-
--*who_mascarille
 Monsieur, votre visage en un moment s'altère,
 Et je ferai bien mieux peut-être de me taire.
 
--*who_leandre
-Non, non, parle.
-
--*who_mascarille
       Hé bien donc, très charitablement,
 Je vous veux retirer de votre aveuglement.
 Cette fille…
 
--*who_leandre
-      Poursuis.
-
--*who_mascarille
       N'est rien moins qu'inhumaine ;
 Dans le particulier elle oblige sans peine ;
 Et son cœur, croyez-moi, n'est point roche après tout,
@@ -1830,291 +1415,52 @@ Mais je puis en parler avec certitude ;
 Vous savez que je suis quelque peu d'un métier,
 À me devoir connaître en un pareil gibier.
 
--*who_leandre
-Célie…
-
--*who_mascarille
       Oui, sa pudeur n'est que franche grimace,
 Qu'une ombre de vertu qui garde mal la place,
 Et qui s'évanouit, comme l'on peut savoir,
 Aux rayons du Soleil qu'une bourse fait voir.
 
--*who_leandre
-Las ! que dis-tu ? croirai-je un discours de la sorte !
-
--*who_mascarille
 Monsieur, les volontés sont libres, que m'importe ?
 Non, ne me croyez pas, suivez votre dessein,
 Prenez cette matoise, et lui donnez la main ;
 Toute la ville en corps reconnaîtra ce zèle,
 Et vous épouserez le bien public en elle.
 
--*who_leandre
-Quelle surprise étrange !
-
--*who_mascarille
       Il a pris l'hameçon ;
 Courage, s'il s'y peut enferrer tout de bon,
 Nous nous ôtons du pied une fâcheuse épine.
 
--*who_leandre
-Oui d'un coup étonnant ce discours m'assassine.
-
--*who_mascarille
 Quoi ! vous pourriez !…
 
--*who_leandre
-      Va-t'en jusqu'à la poste, et vois
-Je ne sais quel paquet qui doit venir pour moi.
-Qui ne s'y fût trompé ? jamais l'air d'un visage,
-Si ce qu'il dit est vrai, n'imposa davantage.
-
-**** *book_ *id_III03 *act_III *date_1655 *creator_moliere
-
--*who_lelie
-Du chagrin qui vous tient, quel peut être l'objet ?
-
--*who_leandre
-Moi ?
-
--*who_lelie
-      Vous-même.
-
--*who_leandre
-      Pourtant je n'en ai point sujet.
-
--*who_lelie
-Je vois bien ce que c'est, Célie en est la cause.
-
--*who_leandre
-Mon esprit ne court pas après si peu de chose.
-
--*who_lelie
-Pour elle vous aviez pourtant de grands desseins,
-Mais il faut dire ainsi, lorsqu'ils se trouvent vains.
-
--*who_leandre
-Si j'étais assez sot, pour chérir ses caresses,
-Je me moquerais bien de toutes vos finesses.
-
--*who_lelie
-Quelles finesses donc ?
-
--*who_leandre
-      Mon Dieu, nous savons tout.
-
--*who_lelie
 Quoi ?
 
--*who_leandre
-      Votre procédé de l'un à l'autre bout.
-
--*who_lelie
-C'est de l'Hébreu pour moi, je n'y puis rien comprendre.
-
--*who_leandre
-Feignez, si vous voulez, de ne me pas entendre ;
-Mais, croyez-moi, cessez de craindre pour un bien,
-Où je serais fâché de vous disputer rien ;
-J'aime fort la beauté qui n'est point profanée,
-Et ne veux point brûler pour une abandonnée.
-
--*who_lelie
-Tout beau, tout beau, Léandre.
-
--*who_leandre
-      Ah ! que vous êtes bon !
-Allez, vous dis-je encor, servez-la sans soupçon,
-Vous pourrez vous nommer homme à bonnes fortunes :
-Il est vrai, sa beauté n'est pas des plus communes ;
-Mais en revanche aussi le reste est fort commun.
-
--*who_lelie
-Léandre, arrêtons là ce discours importun.
-Contre moi tant d'efforts qu'il vous plaira pour elle ;
-Mais surtout retenez cette atteinte mortelle :
-Sachez que je m'impute à trop de lâcheté,
-D'entendre mal parler de ma divinité ;
-Et que j'aurai toujours bien moins de répugnance
-À souffrir votre amour qu'un discours qui l'offense.
-
--*who_leandre
-Ce que j'avance ici me vient de bonne part.
-
--*who_lelie
-Quiconque vous l'a dit est un lâche, un pendard ;
-On ne peut imposer de tache à cette fille :
-Je connais bien son cœur.
-
--*who_leandre
-      Mais enfin Mascarille,
-D'un semblable procès est juge compétent ;
-C'est lui qui la condamne.
-
--*who_lelie
-      Oui ?
-
--*who_leandre
-      Lui-même.
-
--*who_lelie
-      Il prétend
-D'une fille d'honneur insolemment médire,
-Et que peut-être encor je n'en ferai que rire.
-Gage qu'il se dédit.
-
--*who_leandre
-      Et moi gage que non.
-
--*who_lelie
-Parbleu, je le ferais mourir sous le bâton,
-S'il m'avait soutenu des faussetés pareilles.
-
--*who_leandre
-Moi, je lui couperais sur-le-champ les oreilles,
-S'il n'était pas garant de tout ce qu'il m'a dit.
-
-**** *book_ *id_III04 *act_III *date_1655 *creator_moliere
-
--*who_lelie
-Ah ! bon, bon, le voilà, venez çà, chien maudit.
-
--*who_mascarille
-Quoi ?
-
--*who_lelie
-      Langue de serpent fertile en impostures,
-Vous osez sur Célie attacher vos morsures !
-Et lui calomnier la plus rare vertu,
-Qui puisse faire éclat sous un sort abattu !
-
--*who_mascarille
 Doucement ce discours est de mon industrie.
 
--*who_lelie
-Non, non, point de clin d'œil, et point de raillerie ;
-Je suis aveugle à tout, sourd à quoi que ce soit ;
-Fût-ce mon propre frère, il me la payerait ;
-Et sur ce que j'adore oser porter le blâme,
-C'est me faire une plaie au plus tendre de l'âme ;
-Tous ces signes sont vains, quels discours as-tu faits ?
-
--*who_mascarille
 Mon Dieu, ne cherchons point querelle, ou je m'en vais.
 
--*who_lelie
-Tu n'échapperas pas.
-
--*who_mascarille
       Ahii.
 
--*who_lelie
-      Parle donc, confesse.
-
--*who_mascarille
 Laissez-moi ; je vous dis que c'est un tour d'adresse.
 
--*who_lelie
-Dépêche, qu'as-tu dit ? vide entre nous ce point.
-
--*who_mascarille
 J'ai dit ce que j'ai dit, ne vous emportez point.
 
--*who_lelie
-Ah ! je vous ferai bien parler d'une autre sorte.
-
--*who_leandre
-Halte un peu, retenez l'ardeur qui vous emporte.
-
--*who_mascarille
 Fut-il jamais au monde un esprit moins sensé !
 
--*who_lelie
-Laissez‑moi contenter mon courage offensé.
-
--*who_leandre
-C'est trop que de vouloir le battre en ma présence.
-
--*who_lelie
-Quoi ! châtier mes gens, n'est pas en ma puissance ?
-
--*who_leandre
-Comment vos gens ?
-
--*who_mascarille
       Encor ! il va tout découvrir.
 
--*who_lelie
-Quand j'aurais volonté de le battre à mourir,
-Hé bien ? c'est mon valet ?
-
--*who_leandre
-      C'est maintenant le nôtre.
-
--*who_lelie
-Le trait est admirable ! et comment donc le vôtre ?
-Sans doute…
-
--*who_mascarille
       Doucement.
 
--*who_lelie
-      Hem, que veux-tu conter ?
-
--*who_mascarille
 Ah ! le double bourreau, qui me va tout gâter !
 Et qui ne comprend rien quelque signe qu'on donne.
 
--*who_lelie
-Vous rêvez bien, Léandre, et me la baillez bonne.
-Il n'est pas mon valet ?
-
--*who_leandre
-      Pour quelque mal commis,
-Hors de votre service il n'a pas été mis ?
-
--*who_lelie
-Je ne sais ce que c'est.
-
--*who_leandre
-      Et plein de violence,
-Vous n'avez pas chargé son dos avec outrance ?
-
--*who_lelie
-Point du tout. Moi ? l'avoir chassé, roué de coups ?
-Vous vous moquez de moi, Léandre, ou lui de vous.
-
--*who_mascarille
 Pousse, pousse, bourreau, tu fais bien tes affaires.
 
--*who_leandre
-Donc les coups de bâton ne sont qu'imaginaires.
-
--*who_mascarille
 Il ne sait ce qu'il dit, sa mémoire…
 
--*who_leandre
-      Non, non,
-Tous ces signes pour toi ne disent rien de bon ;
-Oui, d'un tour délicat mon esprit te soupçonne ;
-Mais, pour l'invention, va, je te le pardonne ;
-C'est bien assez, pour moi, qu'il m'a désabusé,
-De voir par quels motifs tu m'avais imposé,
-Et que m'étant commis à ton zèle hypocrite,
-À si bon compte encor je m'en sois trouvé quitte :
-Ceci doit s'appeler un avis au lecteur.
-Adieu, Lélie, adieu, très humble serviteur.
-
--*who_mascarille
 Courage, mon garçon, tout heur nous accompagne,
 Mettons flamberge au vent et bravoure en campagne,
 Faisons l'Olibrius, l'occiseur d'innocents.
 
--*who_lelie
-Il t'avait accusé de discours médisants
-Contre…
-
--*who_mascarille
       Et vous ne pouviez souffrir mon artifice ?
 Lui laisser son erreur, qui vous rendait service,
 Et par qui son amour s'en était presque allé ?
@@ -2132,58 +1478,26 @@ Qui ne le cède point à personne qui vive !
 C'est une rare pièce ! et digne sur ma foi,
 Qu'on en fasse présent au cabinet d'un Roi !
 
--*who_lelie
-Je ne m'étonne pas si je romps tes attentes ;
-À moins d'être informé des choses que tu tentes,
-J'en ferais encor cent de la sorte.
-
--*who_mascarille
       Tant pis.
 
--*who_lelie
-Au moins, pour t'emporter à de justes dépits,
-Fais-moi dans tes desseins entrer de quelque chose ;
-Mais que de leurs ressorts la porte me soit close,
-C'est ce qui fait toujours que je suis pris sans vert.
-
--*who_mascarille
 Je crois que vous seriez un maître d'Arme expert :
 Vous savez à merveille en toutes aventures
 Prendre les contretemps, et rompre les mesures.
 
--*who_lelie
-Puisque la chose est faite, il n'y faut plus penser :
-Mon rival en tout cas ne peut me traverser,
-Et pourvu que tes soins, en qui je me repose…
-
--*who_mascarille
 Laissons là ce discours, et parlons d'autre chose,
 Je ne m'apaise pas, non, si facilement,
 Je suis trop en colère ; il faut premièrement
 Me rendre un bon office, et nous verrons ensuite,
 Si je dois de vos feux reprendre la conduite.
 
--*who_lelie
-S'il ne tient qu'à cela, je n'y résiste pas ;
-As-tu besoin ? dis-moi, de mon sang ? de mes bras.
-
--*who_mascarille
 De quelle vision sa cervelle est frappée !
 Vous êtes de l'humeur de ces amis d'épée,
 Que l'on trouve toujours plus prompts à dégainer,
 Qu'à tirer un teston, s'il fallait le donner.
 
--*who_lelie
-Que puis‑je donc pour toi ?
-
--*who_mascarille
       C'est que de votre père,
 Il faut absolument apaiser la colère.
 
--*who_lelie
-Nous avons fait la paix.
-
--*who_mascarille
       Oui, mais non pas pour nous.
 Je l'ai fait ce matin mort pour l'amour de vous ;
 La vision le choque, et de pareilles feintes
@@ -2202,11 +1516,6 @@ Car enfin, la vertu n'est jamais sans envie,
 Et dans ce maudit siècle, est toujours poursuivie.
 Allez donc le fléchir.
 
--*who_lelie
-      Oui, nous le fléchirons ;
-Mais aussi tu promets…
-
--*who_mascarille
       Ah ! mon Dieu, nous verrons.
 Ma foi, prenons haleine après tant de fatigues,
 Cessons pour quelque temps le cours de nos intrigues,
@@ -2214,32 +1523,10 @@ Et de nous tourmenter de même qu'un lutin :
 Léandre, pour nous nuire, est hors de garde enfin,
 Et Célie, arrêtée avecque l'artifice…
 
-**** *book_ *id_III05 *act_III *date_1655 *creator_moliere
-
--*who_ergaste
-Je te cherchais partout pour te rendre un service,
-Pour te donner avis d'un secret important.
-
--*who_mascarille
 Quoi donc ?
 
--*who_ergaste
-      N'avons-nous point ici quelque écoutant ?
-
--*who_mascarille
 Non.
 
--*who_ergaste
-      Nous sommes amis autant qu'on le peut être,
-Je sais bien tes desseins, et l'amour de ton maître ;
-Songez à vous tantôt, Léandre fait parti
-Pour enlever Célie, et j'en suis averti,
-Qu'il a mis ordre à tout, et qu'il se persuade
-D'entrer chez Trufaldin par une mascarade,
-Ayant su qu'en ce temps assez souvent le soir,
-Des femmes du Quartier en masque l'allaient voir.
-
--*who_mascarille
 Oui ! suffit ; il n'est pas au comble de sa joie,
 Je pourrai bien tantôt lui souffler cette proie ;
 Et contre cet assaut je sais un coup fourré,
@@ -2269,157 +1556,25 @@ Si j'ai reçu du Ciel les fourbes en partage,
 Je ne suis point au rang de ces esprits mal nés
 Qui cachent les talents que Dieu leur a donnés.
 
-**** *book_ *id_III06 *act_III *date_1655 *creator_moliere
-
--*who_lelie
-Il prétend l'enlever avec sa mascarade ?
-
--*who_ergaste
-Il n'est rien plus certain ; quelqu'un de sa brigade,
-M'ayant de ce dessein instruit, sans m'arrêter,
-À Mascarille lors j'ai couru tout conter,
-Qui s'en va, m'a-t-il dit, rompre cette partie,
-Par une invention dessus le champ bâtie ;
-Et comme je vous ai rencontré par hasard,
-J'ai cru que je devais de tout vous faire part.
-
--*who_lelie
-Tu m'obliges par trop avec cette nouvelle :
-Va, je reconnaîtrai ce service fidèle ;
-Mon drôle assurément leur jouera quelque trait :
-Mais je veux de ma part seconder son projet :
-Il ne sera pas dit, qu'en un fait qui me touche,
-Je ne me sois non plus remué qu'une souche ;
-Voici l'heure, ils seront surpris à mon aspect,
-Foin, que n'ai-je avec moi pris mon porte‑respect ;
-Mais, vienne qui voudra contre notre personne,
-J'ai deux bons pistolets, et mon épée est bonne.
-Holà, quelqu'un, un mot.
-
-**** *book_ *id_III07 *act_III *date_1655 *creator_moliere
-
--*who_trufaldin
-      Qu'est-ce ? qui me vient voir ?
-
--*who_lelie
-Fermez soigneusement votre porte ce soir.
-
--*who_trufaldin
-Pourquoi ?
-
--*who_lelie
-      Certaines gens font une mascarade,
-Pour vous venir donner une fâcheuse aubade ;
-Ils veulent enlever votre Célie.
-
--*who_trufaldin
-      Oh ! Dieux !
-
--*who_lelie
-Et, sans doute bientôt, ils viennent en ces lieux ;
-Demeurez, vous pourrez voir tout de la fenêtre :
-Hé bien ? qu'avais-je dit ? les voyez-vous paraître ?
-Chut, je veux à vos yeux leur en faire l'affront,
-Nous allons voir beau jeu, si la corde ne rompt.
-
-**** *book_ *id_III08 *act_III *date_1655 *creator_moliere
-
--*who_trufaldin
-Oh ! les plaisants robins qui pensent me surprendre !
-
--*who_lelie
-Masques, où courez-vous ? le pourrait-on apprendre ?
-Trufaldin, ouvrez-leur pour jouer un momon ;
-Bon Dieu ! qu'elle est jolie ! et qu'elle a l'air mignon !
-Hé quoi ! vous murmurez ! mais, sans vous faire outrage,
-Peut-on lever le masque et voir votre visage ?
-
--*who_trufaldin
-Allez, fourbes méchants ; retirez-vous d'ici,
-Canaille ; et vous, Seigneur, bonsoir, et grand merci.
-
--*who_lelie
-Mascarille, est-ce toi ?
-
--*who_mascarille
       Nennida, c'est quelque autre.
 
--*who_lelie
-Hélas ! quelle surprise ! et quel sort est le nôtre !
-L'aurais-je deviné ! n'étant point averti
-Des secrètes raisons qui l'avaient travesti !
-Malheureux que je suis, d'avoir dessous ce masque,
-Été sans y penser te faire cette frasque !
-Il me prendrait envie, en ce juste courroux,
-De me battre moi-même, et me donner cent coups.
-
--*who_mascarille
 Adieu, sublime esprit ; rare imaginative.
 
--*who_lelie
-Las ! si de ton secours ta colère me prive,
-À quel Saint me vouerai-je ?
-
--*who_mascarille
       Au grand diable d'Enfer.
 
--*who_lelie
-Ah ! si ton cœur pour moi n'est de bronze, ou de fer,
-Qu'encore un coup, du moins, mon imprudence ait grâce
-S'il faut pour l'obtenir que tes genoux j'embrasse,
-Vois-moi…
-
--*who_mascarille
       Tarare, allons camarades, allons.
 J'entends venir des gens qui sont sur nos talons.
 
-**** *book_ *id_III09 *act_III *date_1655 *creator_moliere
-
--*who_leandre
-Sans bruit ; ne faisons rien que de la bonne sorte.
-
--*who_trufaldin
-Quoi ! masques toute nuit assiégeront ma porte !
-Messieurs, ne gagnez point de rhumes à plaisir,
-Tout cerveau qui le fait, est certes de loisir ;
-Il est un peu trop tard pour enlever Célie,
-Dispensez-l'en ce soir, elle vous en supplie :
-La belle est dans le lit, et ne peut vous parler ;
-J'en suis fâché pour vous : Mais, pour vous régaler
-Du souci qui pour elle ici vous inquiète,
-Elle vous fait présent de cette cassolette.
-
--*who_leandre
-Fi, cela sent mauvais ; et je suis tout gâté ;
-Nous sommes découverts, tirons de ce côté.
-
-**** *book_ *id_IV01 *act_IV *date_1655 *creator_moliere
-
--*who_mascarille
 Vous voilà fagoté d'une plaisante sorte.
 
--*who_lelie
-Tu ranimes par là mon espérance morte.
-
--*who_mascarille
 Toujours de ma colère on me voit revenir ;
 J'ai beau jurer, pester, je ne m'en puis tenir.
 
--*who_lelie
-Aussi, crois, si jamais je suis dans la puissance,
-Que tu seras content de ma reconnaissance ;
-Et, que, quand je n'aurais qu'un seul morceau de pain…
-
--*who_mascarille
 Baste, songez à vous, dans ce nouveau dessein ;
 Au moins, si l'on vous voit commettre une sottise,
 Vous n'imputerez plus l'erreur à la surprise,
 Votre rôle en ce jeu par cœur doit être su.
 
--*who_lelie
-Mais comment Trufaldin chez lui t'a-t-il reçu ?
-
--*who_mascarille
 D'un zèle simulé j'ai bridé le bon sire ;
 Avec empressement je suis venu lui dire,
 S'il ne songeait à lui, que l'on le surprendrait,
@@ -2455,18 +1610,10 @@ Dont cette nuit en songe il a vu le retour :
 À ce propos, voici l'histoire qu'il m'a dite,
 Et sur qui j'ai tantôt notre fourbe construite.
 
--*who_lelie
-C'est assez, je sais tout : tu me l'as dit deux fois.
-
--*who_mascarille
 Oui, oui ; mais quand j'aurais passé jusques à trois,
 Peut-être encor qu'avec toute sa suffisance,
 Votre esprit manquera dans quelque circonstance.
 
--*who_lelie
-Mais, à tant différer je me fais de l'effort.
-
--*who_mascarille
 Ah ! de peur de tomber, ne courons pas si fort.
 Voyez-vous ? vous avez la caboche un peu dure :
 Rendez-vous affermi dessus cette aventure.
@@ -2510,145 +1657,46 @@ Dont il a su le sort, et chez qui vous devez
 Attendre quelques jours qu'ils y seraient arrivés ;
 Je vous ai fait tantôt des leçons étendues.
 
--*who_lelie
-Ces répétitions ne sont que superflues.
-Dès l'abord mon esprit a compris tout le fait.
-
--*who_mascarille
 Je m'en vais là-dedans donner le premier trait.
 
--*who_lelie
-Écoute Mascarille, un seul point me chagrine,
-S'il allait de son fils me demander la mine ?
-
--*who_mascarille
 Belle difficulté ! devez-vous pas savoir
 Qu'il était fort petit alors qu'il l'a pu voir ;
 Et puis, outre cela, le temps et l'esclavage,
 Pourraient-ils pas avoir changé tout son visage ?
 
--*who_lelie
-Il est vrai ; mais dis-moi, s'il connaît qu'il m'a vu,
-Que faire ?
-
--*who_mascarille
       De mémoire êtes-vous dépourvu ?
 Nous avons dit tantôt, qu'outre que votre image
 N'avait dans son esprit pu faire qu'un passage,
 Pour ne vous avoir vu que durant un moment,
 Et le poil et l'habit déguisaient grandement.
 
--*who_lelie
-Fort bien : mais, à propos, cet endroit de Turquie ?…
-
--*who_mascarille
 Tout, vous dis-je, est égal, Turquie, ou Barbarie.
 
--*who_lelie
-Mais, le nom de la ville où j'aurai pu les voir ?
-
--*who_mascarille
 Tunis. Il me tiendra, je crois, jusques au soir :
 La répétition, dit-il, est inutile,
 Et j'ai déjà nommé douze fois cette ville.
 
--*who_lelie
-Va, va-t'en commencer ; il ne me faut plus rien.
-
--*who_mascarille
 Au moins, soyez prudent, et vous conduisez bien ;
 Ne donnez point ici de l'imaginative.
 
--*who_lelie
-Laisse-moi gouverner : que ton âme est craintive !
-
--*who_mascarille
 Horace dans Bologne Écolier ; Trufaldin
 Zanobio Ruberti, dans Naples Citadin ;
 Le Précepteur Albert…
 
--*who_lelie
-      Ah ! c'est me faire honte,
-Que de me tant prêcher ; suis-je un sot à ton compte ?
-
--*who_mascarille
 Non pas du tout ; mais bien quelque chose approchant.
 
--*who_lelie
-Quand il m'est inutile, il fait le chien couchant :
-Mais, parce qu'il sent bien le secours qu'il me donne,
-Sa familiarité jusque-là s'abandonne.
-Je vais être de près éclairé des beaux yeux,
-Dont la force m'impose un joug si précieux ;
-Je m'en vais sans obstacle, avec des traits de flamme,
-Peindre à cette beauté les tourments de mon âme ;
-Je saurai quel arrêt je dois… mais les voici.
-
-**** *book_ *id_IV02 *act_IV *date_1655 *creator_moliere
-
--*who_trufaldin
-Sois béni, juste Ciel ! de mon sort adouci.
-
--*who_mascarille
 C'est à vous de rêver, et de faire des songes,
 Puisqu'en vous, il est faux, que songes sont mensonges.
 
--*who_trufaldin
-Quelle grâce, quels biens vous rendrai-je, Seigneur ?
-Vous, que je dois nommer l'Ange de mon bonheur.
-
--*who_lelie
-Ce sont soins superflus, et je vous en dispense.
-
--*who_trufaldin
-J'ai, je ne sais pas où, vu quelque ressemblance
-De cet Arménien.
-
--*who_mascarille
       C'est ce que je disais :
 Mais on voit des rapports admirables parfois.
 
--*who_trufaldin
-Vous avez vu ce fils où mon espoir se fonde ?
-
--*who_lelie
-Oui, Seigneur Trufaldin, le plus gaillard du monde.
-
--*who_trufaldin
-Il vous a dit sa vie, et parlé fort de moi ?
-
--*who_lelie
-Plus de dix mille fois.
-
--*who_mascarille
       Quelque peu moins, je crois.
 
--*who_lelie
-Il vous a dépeint tel que je vous vois paraître,
-Le visage, le port…
-
--*who_trufaldin
-      Cela pourrait-il être ?
-Si lorsqu'il m'a pu voir il n'avait que sept ans ?
-Et si son Précepteur, même depuis ce temps,
-Aurait peine à pouvoir connaître mon visage ?
-
--*who_mascarille
 Le sang, bien autrement, conserve cette image ;
 Par des traits si profonds, ce portrait est tracé,
 Que mon père…
 
--*who_trufaldin
-      Suffit. Où l'avez-vous laissé ?
-
--*who_lelie
-En Turquie, à Turin.
-
--*who_trufaldin
-      Turin ? mais cette ville
-Est, je pense, en Piémont.
-
--*who_mascarille
       Oh ! cerveau malhabile !
 Vous ne l'entendez pas, il veut dire Tunis,
 Et c'est en effet là qu'il laissa votre fils :
@@ -2657,155 +1705,39 @@ Certain vice de langue à nous autres fort rude ;
 C'est que dans tous les mots, ils changent nis en rin,
 Et pour dire Tunis, ils prononcent Turin.
 
--*who_trufaldin
-Il fallait, pour l'entendre, avoir cette lumière.
-Quel moyen, vous dit-il, de rencontrer son père ?
-
--*who_mascarille
 Voyez s'il répondra. Je repassais un peu
 Quelque leçon d'escrime ; autrefois en ce jeu
 Il n'était point d'adresse à mon adresse égale,
 Et j'ai battu le fer en mainte et mainte salle.
 
--*who_trufaldin
-Ce n'est pas maintenant ce que je veux savoir.
-Quel autre nom dit-il que je devais avoir ?
-
--*who_mascarille
 Ah ! Seigneur Zanobio Ruberti, quelle joie
 Est celle maintenant que le Ciel vous envoie !
 
--*who_lelie
-C'est là votre vrai nom, et l'autre est emprunté.
-
--*who_trufaldin
-Mais où vous a-t-il dit qu'il reçut la clarté ?
-
--*who_mascarille
 Naples est un séjour qui paraît agréable :
 Mais, pour vous, ce doit être un lieu fort haïssable.
 
--*who_trufaldin
-Ne peux‑tu sans parler, souffrir notre discours ?
-
--*who_lelie
-Dans Naples son destin a commencé son cours.
-
--*who_trufaldin
-Où l'envoyai-je jeune ? et sous quelle conduite ?
-
--*who_mascarille
 Ce pauvre maître Albert a beaucoup de mérite,
 D'avoir depuis Bologne accompagné ce fils,
 Qu'à sa discrétion vos soins avaient commis.
 
--*who_trufaldin
-Ah !
-
--*who_mascarille
       Nous sommes perdus, si cet entretien dure.
 
--*who_trufaldin
-Je voudrais bien savoir de vous leur aventure ;
-Sur quel vaisseau le sort qui m'a su travailler…
-
--*who_mascarille
 Je ne sais ce que c'est, je ne fais que bâiller ;
 Mais, Seigneur Trufaldin, songez-vous que peut-être,
 Ce Monsieur l'Étranger a besoin de repaître ?
 Et qu'il est tard aussi ?
 
--*who_lelie
-      Pour moi, point de repas.
-
--*who_mascarille
 Ah ! vous avez plus faim que vous ne pensez pas.
 
--*who_trufaldin
-Entrez donc.
-
--*who_lelie
-      Après vous.
-
--*who_mascarille
       Monsieur, en Arménie,
 Les maîtres du logis sont sans cérémonie.
 Pauvre esprit ! pas deux mots !
 
--*who_lelie
-      D'abord il m'a surpris :
-Mais n'appréhende plus, je reprends mes esprits,
-Et m'en vais débiter avecque hardiesse…
-
--*who_mascarille
 Voici notre rival qui ne sait pas la pièce.
 
-**** *book_ *id_IV03 *act_IV *date_1655 *creator_moliere
-
--*who_anselme
-Arrêtez-vous, Léandre, et souffrez un discours,
-Qui cherche le repos et l'honneur de vos jours :
-Je ne vous parle point en père de ma fille,
-En homme intéressé pour ma propre famille ;
-Mais comme votre père ému pour votre bien,
-Sans vouloir vous flatter, et vous déguiser rien ;
-Bref, comme je voudrais, d'une âme franche et pure,
-Que l'on fît à mon sang, en pareille aventure.
-Savez-vous de quel œil chacun voit cet amour,
-Qui dedans une nuit vient d'éclater au jour ?
-À combien de discours, et de traits de risée,
-Votre entreprise d'hier est partout exposée ?
-Quel jugement on fait du choix capricieux,
-Qui pour femme, dit-on, vous désigne en ces lieux ?
-Un rebut de l'Égypte, une fille coureuse,
-De qui le noble emploi n'est qu'un métier de gueuse ?
-J'en ai rougi pour vous, encor plus que pour moi,
-Qui me trouve compris dans l'éclat que je vois,
-Moi, dis-je, dont la fille à vos ardeurs promise,
-Ne peut sans quelque affront souffrir qu'on la méprise.
-Ah ! Léandre, sortez de cet abaissement ;
-Ouvrez un peu les yeux sur votre aveuglement :
-Si notre esprit n'est pas sage à toutes les heures,
-Les plus courtes erreurs sont toujours les meilleures.
-Quand on ne prend en dot que la seule beauté,
-Le remords est bien près de la solennité,
-Et la plus belle femme a très peu de défense,
-Contre cette tiédeur qui suit la jouissance :
-Je vous le dis encor, ces bouillants mouvements,
-Ces ardeurs de jeunesse, et ces emportements,
-Nous font trouver d'abord quelques nuits agréables :
-Mais ces félicités ne sont guère durables,
-Et notre passion alentissant son cours,
-Après ces bonnes nuits donnent de mauvais jours.
-De là viennent les soins, les soucis, les misères,
-Les fils déshérités par le courroux des pères.
-
--*who_leandre
-Dans tout votre discours, je n'ai rien écouté,
-Que mon esprit déjà ne m'ait représenté.
-Je sais, combien je dois, à cet honneur insigne,
-Que vous me voulez faire, et dont je suis indigne ;
-Et vois, malgré l'effort dont je suis combattu,
-Ce que vaut votre fille, et quelle est sa vertu :
-Aussi veux-je tâcher…
-
--*who_anselme
-      On ouvre cette porte,
-Retirons-nous plus loin, de crainte qu'il n'en sorte
-Quelque secret poison dont vous seriez surpris.
-
-**** *book_ *id_IV04 *act_IV *date_1655 *creator_moliere
-
--*who_mascarille
 Bientôt de notre fourbe on verra le débris,
 Si vous continuez des sottises si grandes.
 
--*who_lelie
-Dois-je éternellement ouïr tes réprimandes ?
-De quoi te peux-tu plaindre ? Ai-je pas réussi
-En tout ce que j'ai dit depuis…
-
--*who_mascarille
 Coussi, coussi ;
 Témoin les Turcs par vous appelés hérétiques,
 Et que vous assurez, par serments authentiques,
@@ -2816,20 +1748,11 @@ Près de Célie, il est ainsi que la bouillie,
 Qui par un trop grand feu s'enfle, croît jusqu'aux bords,
 Et de tous les côtés se répand au dehors.
 
--*who_lelie
-Pourrait-on se forcer à plus de retenue !
-Je ne l'ai presque point encore entretenue.
-
--*who_mascarille
 Oui, mais ce n'est pas tout que de ne parler pas ;
 Par vos gestes, durant un moment de repas,
 Vous avez aux soupçons donné plus de matière,
 Que d'autres ne feraient dans une année entière.
 
--*who_lelie
-Et comment donc ?
-
--*who_mascarille
       Comment ? chacun a pu le voir.
 À table, où Trufaldin l'oblige de se seoir,
 Vous n'avez toujours fait qu'avoir les yeux sur elle ;
@@ -2857,130 +1780,36 @@ Après le mouvement de la sienne qui roule,
 Je pensais retenir toutes vos actions,
 En faisant de mon corps mille contorsions.
 
--*who_lelie
-Mon Dieu ! qu'il t'est aisé de condamner des choses,
-Dont tu ne ressens point les agréables causes !
-Je veux bien néanmoins, pour te plaire une fois,
-Faire force à l'amour qui m'impose des lois :
-Désormais…
-
-**** *book_ *id_IV05 *act_IV *date_1655 *creator_moliere
-
--*who_mascarille
       Nous parlions des fortunes d'Horace.
 
--*who_trufaldin
-C'est bien fait. Cependant me ferez-vous la grâce
-Que je puisse lui dire un seul mot en secret ?
-
--*who_lelie
-Il faudrait autrement être fort indiscret.
-
--*who_trufaldin
-Écoute, sais-tu bien ce que je viens de faire ?
-
--*who_mascarille
 Non : mais si vous voulez je ne tarderai guère,
 Sans doute à le savoir.
 
--*who_trufaldin
-      D'un chêne grand et fort,
-Dont près de deux cents ans ont fait déjà le sort,
-Je viens de détacher une branche admirable,
-Choisie expressément, de grosseur raisonnable,
-Dont j'ai fait sur-le-champ avec beaucoup d'ardeur,
-Un bâton à peu près… oui, de cette grandeur ;
-Moins gros par l'un des bouts, mais plus que trente gaules
-Propre, comme je pense, à rosser les épaules ;
-Car il est bien en main, vert, noueux et massif.
-
--*who_mascarille
 Mais, pour qui, je vous prie, un tel préparatif ?
 
--*who_trufaldin
-Pour toi premièrement, puis pour ce bon apôtre,
-Qui veut m'en donner d'une et m'en jouer d'un autre :
-Pour cet Arménien, ce Marchand déguisé,
-Introduit sous l'appât d'un conte supposé.
-
--*who_mascarille
 Quoi ? vous ne croyez pas ?…
 
--*who_trufaldin
-      Ne cherche point d'excuse,
-Lui-même heureusement a découvert sa ruse,
-Et disant à Célie, en lui serrant la main,
-Que pour elle il venait sous ce prétexte vain :
-Il n'a pas aperçu Jeannette ma fillole,
-Laquelle a tout ouï parole pour parole ;
-Et je ne doute point, quoiqu'il n'en ait rien dit,
-Que tu ne sois de tout le complice maudit.
-
--*who_mascarille
 Ah ! vous me faites tort ! s'il faut qu'on vous affronte ;
 Croyez qu'il m'a trompé le premier à ce conte.
 
--*who_trufaldin
-Veux-tu me faire voir que tu dis vérité ?
-Qu'à le chasser mon bras soit du tien assisté ;
-Donnons-en à ce fourbe, et du long et du large,
-Et de tout crime après mon esprit te décharge.
-
--*who_mascarille
 Oui-da, très volontiers, je l'épousterai bien,
 Et par là vous verrez que je n'y trempe en rien.
 Ah ! vous serez rossé, Monsieur de l'Arménie,
 Qui toujours gâtez tout.
 
-**** *book_ *id_IV06 *act_IV *date_1655 *creator_moliere
-
--*who_trufaldin
-      Un mot, je vous supplie.
-Donc, monsieur l'imposteur, vous osez aujourd'hui
-Duper un honnête homme, et vous jouer de lui ?
-
--*who_mascarille
 Feindre avoir vu son fils en une autre contrée !
 Pour vous donner chez lui plus aisément entrée.
 
--*who_trufaldin
-Vidons, vidons sur l'heure.
-
--*who_lelie
-      Ah coquin !
-
--*who_mascarille
       C'est ainsi
 Que les fourbes…
 
--*who_lelie
-      Bourreau !
-
--*who_mascarille
       Sont ajustés ici.
 Garde-moi bien cela.
 
--*who_lelie
-      Quoi donc ? je serais homme…
-
--*who_mascarille
 Tirez, tirez, vous dis-je, ou bien je vous assomme.
 
--*who_trufaldin
-Voilà qui me plaît fort ; rentre, je suis content.
-
--*who_lelie
-À moi ! par un valet cet affront éclatant !
-L'aurait-on pu prévoir l'action de ce traître !
-Qui vient insolemment de maltraiter son maître.
-
--*who_mascarille
 Peut-on vous demander comme va votre dos ?
 
--*who_lelie
-Quoi ? tu m'oses encor tenir un tel propos.
-
--*who_mascarille
 Voilà, voilà que c'est, de ne voir pas Jeannette,
 Et d'avoir en tout temps une langue indiscrète ;
 Mais pour cette fois-ci, je n'ai point de courroux,
@@ -2988,43 +1817,22 @@ Je cesse d'éclater, de pester contre vous ;
 Quoique de l'action l'imprudence soit haute,
 Ma main sur votre échine a lavé votre faute.
 
--*who_lelie
-Ah ! je me vengerai de ce trait déloyal.
-
--*who_mascarille
 Vous vous êtes causé vous-même tout le mal.
 
--*who_lelie
-Moi !
-
--*who_mascarille
       Si vous n'étiez pas une cervelle folle,
 Quand vous avez parlé naguère à votre idole,
 Vous auriez aperçu Jeannette sur vos pas,
 Dont l'oreille subtile a découvert le cas.
 
--*who_lelie
-On aurait pu surprendre un mot dit à Célie !
-
--*who_mascarille
 Et d'où doncques viendrait cette prompte sortie ?
 Oui, vous n'êtes dehors que par votre caquet ;
 Je ne sais si souvent vous jouez au piquet ;
 Mais, au moins, faites-vous des écarts admirables.
 
--*who_lelie
-Oh ! le plus malheureux de tous les misérables !
-Mais encore, pourquoi me voir chassé par toi ?
-
--*who_mascarille
 Je ne fis jamais mieux que d'en prendre l'emploi ;
 Par là, j'empêche au moins que de cet artifice
 Je ne sois soupçonné d'être auteur, ou complice.
 
--*who_lelie
-Tu devais donc, pour toi, frapper plus doucement.
-
--*who_mascarille
 Quelque sot, Trufaldin lorgnait exactement.
 Et puis je vous dirai, sous ce prétexte utile,
 Je n'étais point fâché d'évaporer ma bile :
@@ -3035,61 +1843,23 @@ Les coups sur votre râble assenés avec joie,
 Je vous promets aidé par le poste où je suis,
 De contenter vos vœux avant qu'il soit deux nuits.
 
--*who_lelie
-Quoique ton traitement ait eu trop de rudesse,
-Qu'est-ce que dessus moi ne peut cette promesse ?
-
--*who_mascarille
 Vous le promettez donc ?
 
--*who_lelie
-      Oui, je te le promets.
-
--*who_mascarille
 Ce n'est pas encor tout, promettez que jamais
 Vous ne vous mêlerez dans quoi que j'entreprenne.
 
--*who_lelie
-Soit.
-
--*who_mascarille
       Si vous y manquez, votre fièvre quartaine.
 
--*who_lelie
-Mais tiens‑moi donc parole, et songe à mon repos.
-
--*who_mascarille
 Allez quitter l'habit, et graisser votre dos.
 
--*who_lelie
-Faut-il que le malheur qui me suit à la trace,
-Me fasse voir toujours disgrâce sur disgrâce ?
-
--*who_mascarille
 Quoi ! vous n'êtes pas loin ! sortez vite d'ici ;
 Mais, surtout, gardez‑vous de prendre aucun souci :
 Puisque je fais pour vous, que cela vous suffise ;
 N'aidez point mon projet de la moindre entreprise…
 Demeurez en repos.
 
--*who_lelie
-      Oui, va, je m'y tiendrai.
-
--*who_mascarille
 Il faut voir maintenant quel biais je prendrai.
 
-**** *book_ *id_IV07 *act_IV *date_1655 *creator_moliere
-
--*who_ergaste
-Mascarille, je viens te dire une nouvelle,
-Qui donne à tes desseins une atteinte cruelle ;
-À l'heure que je parle, un jeune Égyptien,
-Qui n'est pas noir pourtant, et sent assez son bien,
-Arrive accompagné d'une vieille fort hâve,
-Et vient chez Trufaldin racheter cette esclave
-Que vous vouliez. Pour elle, il paraît fort zélé.
-
--*who_mascarille
 Sans doute, c'est l'amant dont Célie a parlé.
 Fut-il jamais destin plus brouillé que le nôtre !
 Sortant d'un embarras, nous entrons dans un autre.
@@ -3116,34 +1886,12 @@ Il n'est rien que leur art aveuglément ne tente,
 Et du plus innocent, toujours à leur profit
 La bourse est criminelle, et paie son délit.
 
-**** *book_ *id_V01 *act_V *date_1655 *creator_moliere
-
--*who_mascarille
 Ah chien ! ah double chien ! mâtine de cervelle,
 Ta persécution sera-t-elle éternelle ?
 
--*who_ergaste
-Par les soins vigilants de l'Exempt balafré,
-Ton affaire allait bien, le drôle était coffré,
-Si ton Maître au moment ne fût venu lui-même,
-En vrai désespéré, rompre ton stratagème :
-Je ne saurais souffrir, a-t-il dit hautement,
-Qu'un honnête homme soit traîné honteusement ;
-J'en réponds sur sa mine, et je le cautionne :
-Et comme on résistait à lâcher sa personne,
-D'abord il a chargé si bien sur les recors,
-Qui sont gens d'ordinaire à craindre pour leurs corps,
-Qu'à l'heure que je parle ils sont encore en fuite,
-Et pensent tous avoir un Lélie à leur suite.
-
--*who_mascarille
 Le traître ne sait pas que cet Égyptien,
 Est déjà là‑dedans pour lui ravir son bien.
 
--*who_ergaste
-Adieu, certaine affaire à te quitter m'oblige.
-
--*who_mascarille
 Oui, je suis stupéfait de ce dernier prodige ;
 On dirait, et pour moi, j'en suis persuadé,
 Que ce démon brouillon, dont il est possédé,
@@ -3162,303 +1910,57 @@ Nul que moi ne s'y tient, et j'en garde la clé.
 Oh ! Dieu, qu'en peu de temps on a vu d'aventures !
 Et qu'un fourbe est contraint de prendre de figures !
 
-**** *book_ *id_V02 *act_V *date_1655 *creator_moliere
-
--*who_andres
-Vous le savez, Célie, il n'est rien que mon cœur
-N'ait fait, pour vous prouver l'excès de son ardeur ;
-Chez les Vénitiens, dès un assez jeune âge,
-La guerre en quelque estime avait mis mon courage,
-Et j'y pouvais un jour, sans trop croire de moi,
-Prétendre en les servant, un honorable emploi :
-Lorsqu'on me vit pour vous oublier toute chose,
-Et que le prompt effet d'une métamorphose,
-Qui suivit de mon cœur le soudain changement,
-Parmi vos compagnons sut ranger votre Amant,
-Sans que mille accidents, ni votre indifférence,
-Aient pu me détacher de ma persévérance :
-Depuis, par un hasard, d'avec vous séparé,
-Pour beaucoup plus de temps que je n'eusse auguré,
-Je n'ai pour vous rejoindre épargné temps ni peine :
-Enfin, ayant trouvé la vieille Égyptienne,
-Et plein d'impatience, apprenant votre sort,
-Que pour certain argent qui leur importait fort,
-Et qui de tous vos gens détourna le naufrage,
-Vous aviez en ces lieux été mise en otage :
-J'accours vite y briser ces chaînes d'intérêt,
-Et recevoir de vous les ordres qu'il vous plaît :
-Cependant on vous voit une morne tristesse,
-Alors que dans vos yeux doit briller l'allégresse ;
-Si pour vous la retraite avait quelques appas,
-Venise, du butin fait parmi les combats,
-Me garde pour tous deux, de quoi pouvoir y vivre.
-Que si, comme devant, il vous faut encor suivre,
-J'y consens, et mon cœur n'ambitionnera
-Que d'être auprès de vous tout ce qu'il vous plaira.
-
--*who_celie
-Votre zèle, pour moi, visiblement éclate ;
-Pour en paraître triste, il faudrait être ingrate ;
-Et mon visage aussi par son émotion,
-N'explique point mon cœur en cette occasion ;
-Une douleur de tête y peint sa violence,
-Et, si j'avais sur vous quelque peu de puissance,
-Notre voyage, au moins, pour trois ou quatre jours,
-Attendrait que ce mal eût pris un autre cours.
-
--*who_andres
-Autant que vous voudrez, faites qu'il se diffère,
-Toutes mes volontés ne butent qu'à vous plaire ;
-Cherchons une maison à vous mettre en repos,
-L'écriteau que voici s'offre tout à propos.
-
-**** *book_ *id_V03 *act_V *date_1655 *creator_moliere
-
--*who_andres
-Seigneur Suisse, êtes-vous de ce logis le maître ?
-
--*who_mascarille
 Moi, pour serfir à fous.
 
--*who_andres
-      Pourrons-nous y bien être ?
-
--*who_mascarille
 Oui, moi pour d'estrancher chappon champre garni ;
 Mais ché non point locher te gent te méchant vi.
 
--*who_andres
-Je crois votre maison franche de tout ombrage.
-
--*who_mascarille
 Fous nouviau dant sti fil, moi foir à la fissage.
 
--*who_andres
-Oui.
-
--*who_mascarille
       La matame est-il mariage al montsieur ?
 
--*who_andres
-Quoi ?
-
--*who_mascarille
       S'il être son fame, ou s'il être son sœur ?
 
--*who_andres
-Non.
-
--*who_mascarille
       Mon foi, pien choli : finir pour marchandisse,
 Ou pien pour temanter à la Palais choustice ?
 La procès, il fault rien, il coûter tant tarchant ;
 La procurair larron, la focat pien méchant.
 
--*who_andres
-Ce n'est pas pour cela.
-
--*who_mascarille
       Fous tonc mener sti file,
 Pour fenir pourmener, et recarter la file ?
 
--*who_andres
-Il n'importe. Je suis à vous dans un moment.
-Je vais faire venir la vieille promptement,
-Contremander aussi notre voiture prête.
-
--*who_mascarille
 Li ne porte pas pien ?
 
--*who_andres
-      Elle a mal à la tête.
-
--*who_mascarille
 Moi, chavoir de pon fin, et de fromage pon.
 Entre fous, entre fous, dans mon petit maisson.
 
-**** *book_ *id_V04 *act_V *date_1655 *creator_moliere
-
--*who_lelie
-Quel que soit le transport d'une âme impatiente,
-Ma parole m'engage à rester en attente ;
-À laisser faire un autre, et voir sans rien oser,
-Comme de mes destins le Ciel veut disposer.
-Demandiez-vous quelqu'un dedans cette demeure ?
-
--*who_andres
-C'est un logis garni que j'ai pris tout à l'heure.
-
--*who_lelie
-À mon père pourtant, la maison appartient,
-Et mon valet la nuit, pour la garder s'y tient.
-
--*who_andres
-Je ne sais, l'écriteau marque au moins qu'on la loue :
-Lisez.
-
--*who_lelie
-      Certes, ceci me surprend, je l'avoue ;
-Qui diantre l'aurait mis ? et par quel intérêt ?…
-Ah ! ma foi, je devine à peu près ce que c'est :
-Cela ne peut venir que de ce que j'augure.
-
--*who_andres
-Peut-on vous demander quelle est cette aventure ?
-
--*who_lelie
-Je voudrais à tout autre en faire un grand secret ;
-Mais, pour vous, il n'importe, et vous serez discret ;
-Sans doute, l'écriteau que vous voyez paraître,
-Comme je conjecture, au moins ne saurait être,
-Que quelque invention du valet que je dis,
-Que quelque nœud subtil qu'il doit avoir ourdi,
-Pour mettre en mon pouvoir certaine Égyptienne,
-Dont j'ai l'âme piquée, et qu'il faut que j'obtienne :
-Je l'ai déjà manqué, et même plusieurs coups.
-
--*who_andres
-Vous l'appelez ?
-
--*who_lelie
-      Célie.
-
--*who_andres
-      Hé ! que ne disiez-vous !
-Vous n'aviez qu'à parler ; je vous aurais sans doute,
-Épargné tous les soins que ce projet vous coûte.
-
--*who_lelie
-Quoi ? vous la connaissez ?
-
--*who_andres
-      C'est moi, qui maintenant
-Viens de la racheter.
-
--*who_lelie
-      Oh ! discours surprenant !
-
--*who_andres
-Sa santé de partir ne nous pouvant permettre,
-Au logis que voilà je venais de la mettre ;
-Et je suis très ravi dans cette occasion,
-Que vous m'ayez instruit de votre intention.
-
--*who_lelie
-Quoi ? j'obtiendrais de vous le bonheur que j'espère ?
-Vous pourriez ?…
-
--*who_andres
-      Tout à l'heure on va vous satisfaire.
-
--*who_lelie
-Que pourrais‑je vous dire ? et quel remerciement ?…
-
--*who_andres
-Non, ne m'en faites point, je n'en veux nullement.
-
-**** *book_ *id_V05 *act_V *date_1655 *creator_moliere
-
--*who_mascarille
 Hé bien ! ne voilà pas mon enragé de maître !
 Il nous va faire encor quelque nouveau bissêtre.
 
--*who_lelie
-Sous ce grotesque habit, qui l'aurait reconnu ?
-Approche, Mascarille, et sois le bienvenu.
-
--*who_mascarille
 Moi souis ein chant honneur, moi non point Maquerille,
 Chai point fentre chamais le fame ni le fille.
 
--*who_lelie
-Le plaisant baragouin ! il est bon, sur ma foi.
-
--*who_mascarille
 Alle fous pourmener, sans toi rire te moi.
 
--*who_lelie
-Va, va, lève le masque, et reconnais ton maître.
-
--*who_mascarille
 Partieu, tiaple, mon foi jamais toi chai connaître.
 
--*who_lelie
-Tout est accommodé, ne te déguise point.
-
--*who_mascarille
 Si toi point en aller, chai paille ein cou te point.
 
--*who_lelie
-Ton jargon Allemand est superflu, te dis-je ;
-Car nous sommes d'accord, et sa bonté m'oblige :
-J'ai tout ce que mes vœux lui pouvaient demander,
-Et tu n'as pas sujet de rien appréhender.
-
--*who_mascarille
 Si vous êtes d'accord par un bonheur extrême,
 Je me dessuisse donc, et redeviens moi-même.
 
--*who_andres
-Ce valet vous servait avec beaucoup de feu ;
-Mais je reviens à vous, demeurez quelque peu.
-
--*who_lelie
-Hé bien, que diras-tu ?
-
--*who_mascarille
       Que j'ai l'âme ravie,
 De voir d'un beau succès notre peine suivie.
 
--*who_lelie
-Tu feignais à sortir de ton déguisement ?
-Et ne pouvais me croire en cet événement ?
-
--*who_mascarille
 Comme je vous connais, j'étais dans l'épouvante,
 Et trouve l'aventure aussi fort surprenante.
 
--*who_lelie
-Mais, confesse, qu'enfin, c'est avoir fait beaucoup ;
-Au moins, j'ai réparé mes fautes à ce coup,
-Et j'aurai cet honneur d'avoir fini l'ouvrage.
-
--*who_mascarille
 Soit, vous aurez été bien plus heureux que sage.
 
-**** *book_ *id_V06 *act_V *date_1655 *creator_moliere
-
--*who_andres
-N'est-ce pas là l'objet dont vous m'avez parlé ?
-
--*who_lelie
-Ah ! quel bonheur au mien pourrait être égalé !
-
--*who_andres
-Il est vrai, d'un bienfait je vous suis redevable,
-Si je ne l'avouais, je serais condamnable :
-Mais enfin, ce bienfait aurait trop de rigueur,
-S'il fallait le payer aux dépens de mon cœur ;
-Jugez donc le transport où sa beauté me jette,
-Si je dois à ce prix vous acquitter ma dette ;
-Vous êtes généreux, vous ne le voudriez pas.
-Adieu pour quelques jours, retournons sur nos pas.
-
--*who_mascarille
 Je ris, et toutefois je n'en ai guère envie,
 Vous voilà bien d'accord, il vous donne Célie.
 Et… Vous m'entendez bien.
 
--*who_lelie
-      C'est trop, je ne veux plus
-Te demander pour moi de secours superflus ;
-Je suis un chien, un traître, un bourreau détestable !
-Indigne d'aucun soin, de rien faire incapable.
-Va, cesse tes efforts pour un malencontreux,
-Qui ne saurait souffrir que l'on le rende heureux !
-Après tant de malheurs, après mon imprudence,
-Le trépas me doit seul prêter son assistance.
-
--*who_mascarille
 Voilà le vrai moyen d'achever son destin ;
 Il ne lui manque plus que de mourir, enfin,
 Pour le couronnement de toutes ses sottises ;
@@ -3470,31 +1972,6 @@ Plus l'obstacle est puissant, plus on reçoit de gloire,
 Et les difficultés dont on est combattu,
 Sont les dames d'atour qui parent la vertu.
 
-**** *book_ *id_V07 *act_V *date_1655 *creator_moliere
-
--*who_celie
-Quoi que tu veuilles dire, et que l'on se propose,
-De ce retardement j'attends fort peu de chose ;
-Ce qu'on voit de succès peut bien persuader
-Qu'ils ne sont pas encor fort près de s'accorder ;
-Et je t'ai déjà dit qu'un cœur comme le nôtre,
-Ne voudrait pas pour l'un faire injustice à l'autre ;
-Et que très fortement, par de différents nœuds,
-Je me trouve attachée au parti de tous deux :
-Si Lélie a pour lui l'amour et sa puissance,
-Andrès pour son partage a la reconnaissance,
-Qui ne souffrira point que mes pensers secrets,
-Consultent jamais rien contre ses intérêts :
-Oui, s'il ne peut avoir plus de place en mon âme,
-Si le don de mon cœur ne couronne sa flamme,
-Au moins, dois-je ce prix à ce qu'il fait pour moi,
-De n'en choisir point d'autre au mépris de sa foi,
-Et de faire à mes vœux autant de violence,
-Que j'en fais aux désirs qu'il met en évidence :
-Sur ces difficultés qu'oppose mon devoir,
-Juge ce que tu peux te permettre d'espoir.
-
--*who_mascarille
 Ce sont, à dire vrai, de très fâcheux obstacles,
 Et je ne sais point l'art de faire des miracles :
 Mais je vais employer mes efforts plus puissants,
@@ -3502,77 +1979,14 @@ Remuer terre et Ciel, m'y prendre de tout sens,
 Pour tâcher de trouver un biais salutaire ;
 Et vous dirai bientôt ce qui se pourra faire.
 
-**** *book_ *id_V08 *act_V *date_1655 *creator_moliere
-
--*who_hippolyte
-Depuis votre séjour, les Dames de ces lieux
-Se plaignent justement des larcins de vos yeux ;
-Si vous leur dérobez leurs conquêtes plus belles,
-Et de tous leurs Amants faites des infidèles,
-Il n'est guère de cœurs qui puissent échapper
-Aux traits, dont à l'abord vous savez les frapper ;
-Et mille libertés à vos chaînes offertes,
-Semblent vous enrichir chaque jour de nos pertes.
-Quant à moi, toutefois je ne me plaindrais pas,
-Du pouvoir absolu de vos rares appas ;
-Si lorsque mes Amants sont devenus les vôtres,
-Un seul m'eût consolé de la perte des autres :
-Mais qu'inhumainement vous me les ôtiez tous,
-C'est un dur procédé, dont je me plains à vous.
-
--*who_celie
-Voilà d'un air galant faire une raillerie ;
-Mais, épargnez un peu celle qui vous en prie :
-Vos yeux, vos propres yeux, se connaissent trop bien,
-Pour pouvoir de ma part redouter jamais rien ;
-Ils sont fort assurés du pouvoir de leurs charmes,
-Et ne prendront jamais de pareilles alarmes.
-
--*who_hippolyte
-Pourtant, en ce discours je n'ai rien avancé,
-Qui dans tous les esprits ne soit déjà passé ;
-Et, sans parler du reste, on sait bien que Célie
-A causé des désirs à Léandre et Lélie.
-
--*who_celie
-Je crois, qu'étant tombés dans cet aveuglement,
-Vous vous consoleriez de leur perte aisément,
-Et trouveriez pour vous l'amant peu souhaitable,
-Qui d'un si mauvais choix se trouverait capable.
-
--*who_hippolyte
-Au contraire, j'agis d'un air tout différent,
-Et trouve en vos beautés un mérite si grand ;
-J'y vois tant de raisons capables de défendre
-L'inconstance de ceux qui s'en laissent surprendre,
-Que je ne puis blâmer la nouveauté des feux,
-Dont envers moi Léandre a parjuré ses vœux ;
-Et le vais voir tantôt, sans haine et sans colère,
-Ramené sous mes lois par le pouvoir d'un père.
-
-**** *book_ *id_V09 *act_V *date_1655 *creator_moliere
-
--*who_mascarille
 Grande ! grande nouvelle, et succès surprenant !
 Que ma bouche vous vient annoncer maintenant.
 
--*who_celie
-Qu'est‑ce donc ?
-
--*who_mascarille
       Écoutez, voici, sans flatterie…
 
--*who_celie
-Quoi ?
-
--*who_mascarille
       La fin d'une vraie et pure Comédie ;
 La vieille Égyptienne à l'heure même…
 
--*who_celie
-      Hé bien ?
-
--*who_mascarille
 Passait dedans la place, et ne songeait à rien,
 Alors qu'une autre vieille assez défigurée,
 L'ayant de près, au nez, longtemps considérée ;
@@ -3654,10 +2068,6 @@ Et pour mettre une joie entière en sa famille,
 Pour le nouvel Horace a proposé sa fille.
 Voyez que d'incidents à la fois enfantés.
 
--*who_celie
-Je demeure immobile à tant de nouveautés.
-
--*who_mascarille
 Tous viennent sur mes pas, hors les deux championnes,
 Qui du combat encor remettent leurs personnes :
 Léandre est de la troupe, et votre père aussi :
@@ -3665,59 +2075,6 @@ Moi, je vais avertir mon maître de ceci ;
 Et que, lorsqu'à ses vœux on croit le plus d'obstacle,
 Le Ciel en sa faveur produit comme un miracle.
 
--*who_hippolyte
-Un tel ravissement rend mes esprits confus,
-Que pour mon propre sort je n'en aurais pas plus.
-Mais les voici venir.
-
-**** *book_ *id_V10 *act_V *date_1655 *creator_moliere
-
--*who_trufaldin
-      Ah ! ma fille.
-
--*who_celie
-      Ah ! mon père.
-
--*who_trufaldin
-Sais-tu déjà comment le Ciel nous est prospère ?
-
--*who_celie
-Je viens d'entendre ici ce succès merveilleux.
-
--*who_hippolyte
-En vain vous parleriez pour excuser vos feux,
-Si j'ai devant les yeux ce que vous pouvez dire.
-
--*who_leandre
-Un généreux pardon est ce que je désire ;
-Mais j'atteste les Cieux, qu'en ce retour soudain
-Mon père fait bien moins que mon propre dessein.
-
--*who_andres
-Qui l'aurait jamais cru que cette ardeur si pure,
-Pût être condamnée un jour par la nature ?
-Toutefois, tant d'honneur la sut toujours régir,
-Qu'en y changeant fort peu, je puis la retenir.
-
--*who_celie
-Pour moi, je me blâmais, et croyais faire faute,
-Quand je n'avais pour vous qu'une estime très haute ;
-Je ne pouvais savoir quel obstacle puissant
-M'arrêtait sur un pas si doux et si glissant,
-Et détournait mon cœur de l'aveu d'une flamme,
-Que mes sens s'efforçaient d'introduire en mon âme.
-
--*who_trufaldin
-Mais en te recouvrant que diras-tu de moi ?
-Si je songe aussitôt à me priver de toi ?
-Et t'engage à son fils sous les lois d'hyménée ?
-
--*who_celie
-Que de vous maintenant dépend ma destinée.
-
-**** *book_ *id_V11 *act_V *date_1655 *creator_moliere
-
--*who_mascarille
 Voyons si votre diable aura bien le pouvoir
 De détruire à ce coup un si solide espoir ;
 Et si contre l'excès du bien qui vous arrive,
@@ -3725,43 +2082,904 @@ Vous armerez encor votre imaginative.
 Par un coup imprévu des destins les plus doux,
 Vos vœux sont couronnés, et Célie est à vous.
 
--*who_lelie
-Croirai-je que du Ciel la puissance absolue ?…
-
--*who_trufaldin
-Oui, mon gendre, il est vrai.
-
--*who_pandolfe
-      La chose est résolue.
-
--*who_andres
-Je m'acquitte par là de ce que je vous dois.
-
--*who_lelie
-Il faut que je t'embrasse, et mille et mille fois,
-Dans cette joie…
-
--*who_mascarille
       Ahi, ahi ! doucement, je vous prie,
 Il m'a presque étouffé, je crains fort pour Célie.
 Si vous la caressez avec tant de transport :
 De vos embrassements on se passerait fort.
 
--*who_trufaldin
-Vous savez le bonheur que le Ciel me renvoie ;
-Mais puisqu'un même jour nous met tous dans la joie,
-Ne nous séparons point qu'il ne soit terminé,
-Et que son père aussi nous soit vite amené.
-
--*who_mascarille
 Vous voilà tous pourvus ; n'est-il point quelque fille,
 Qui pût accommoder le pauvre Mascarille ;
 À voir chacun se joindre à sa chacune ici,
 J'ai des démangeaisons de mariage aussi.
 
--*who_anselme
-J'ai ton fait.
-
--*who_mascarille
       Allons donc ; et que les Cieux prospères
 Nous donnent des enfants dont nous soyons les pères.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hippolyte
+
+Oui, traître, c'est ainsi que tu me rends service ;
+Je viens de tout entendre et voir ton artifice ;
+À moins que de cela l'eussé-je soupçonné !
+Tu couches d'imposture, et tu m'en as donné !
+Tu m'avais promis lâche, et j'avais lieu d'attendre,
+Qu'on te verrait servir mes ardeurs pour Léandre ;
+Que du choix de Lélie, où l'on veut m'obliger,
+Ton adresse et tes soins sauraient me dégager ;
+Que tu m'affranchirais du projet de mon père ;
+Et cependant ici tu fais tout le contraire :
+Mais tu t'abuseras, je sais un sûr moyen,
+Pour rompre cet achat où tu pousses si bien ;
+Et je vais de ce pas…
+
+Par quelle illusion penses-tu m'éblouir ?
+Traître, peux-tu nier ce que je viens d'ouïr.
+
+Quoi ! tout ce grand projet qui m'a mise en courroux,
+Tu l'as formé pour moi, Mascarille !
+
+Hé ! ne me traite pas si rigoureusement,
+Et pardonne aux transports d'un premier mouvement.
+
+Hé ! mon pauvre garçon, que ta colère cesse ;
+J'ai mal jugé de toi, j'ai tort, je le confesse :
+Mais je veux réparer ma faute avec ceci.
+Pourrais‑tu te résoudre à me quitter ainsi ?
+
+Il est vrai je t'ai dit de trop grosses injures :
+Mais que ces deux Louis guérissent tes blessures.
+
+Pourras-tu mettre à fin ce que je me propose ?
+Et crois-tu que l'effet de tes desseins hardis
+Produise à mon amour le succès que tu dis ?
+
+Crois qu'Hippolyte au moins ne sera pas ingrate.
+
+Ton maître te fait signe, et veut parler à toi ;
+Je te quitte : mais songe à bien agir pour moi.
+
+Je dois vous annoncer, Léandre, une nouvelle ;
+Mais la trouverez‑vous agréable, ou cruelle ?
+
+      Donnez-moi donc la main
+Jusqu'au Temple, en marchant je pourrai vous l'apprendre.
+
+Depuis votre séjour, les Dames de ces lieux
+Se plaignent justement des larcins de vos yeux ;
+Si vous leur dérobez leurs conquêtes plus belles,
+Et de tous leurs Amants faites des infidèles,
+Il n'est guère de cœurs qui puissent échapper
+Aux traits, dont à l'abord vous savez les frapper ;
+Et mille libertés à vos chaînes offertes,
+Semblent vous enrichir chaque jour de nos pertes.
+Quant à moi, toutefois je ne me plaindrais pas,
+Du pouvoir absolu de vos rares appas ;
+Si lorsque mes Amants sont devenus les vôtres,
+Un seul m'eût consolé de la perte des autres :
+Mais qu'inhumainement vous me les ôtiez tous,
+C'est un dur procédé, dont je me plains à vous.
+
+Pourtant, en ce discours je n'ai rien avancé,
+Qui dans tous les esprits ne soit déjà passé ;
+Et, sans parler du reste, on sait bien que Célie
+A causé des désirs à Léandre et Lélie.
+
+Au contraire, j'agis d'un air tout différent,
+Et trouve en vos beautés un mérite si grand ;
+J'y vois tant de raisons capables de défendre
+L'inconstance de ceux qui s'en laissent surprendre,
+Que je ne puis blâmer la nouveauté des feux,
+Dont envers moi Léandre a parjuré ses vœux ;
+Et le vais voir tantôt, sans haine et sans colère,
+Ramené sous mes lois par le pouvoir d'un père.
+
+Un tel ravissement rend mes esprits confus,
+Que pour mon propre sort je n'en aurais pas plus.
+Mais les voici venir.
+
+En vain vous parleriez pour excuser vos feux,
+Si j'ai devant les yeux ce que vous pouvez dire.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
+
+Par mon chef, c'est un siècle étrange que le nôtre !
+J'en suis confus ; jamais tant d'amour pour le bien,
+Et jamais tant de peine à retirer le sien.
+Les dettes aujourd'hui, quelque soin qu'on emploie,
+Sont comme les enfants que l'on conçoit en joie,
+Et dont avec peine on fait l'accouchement ;
+L'argent dans une bourse entre agréablement :
+Mais le terme venu que nous devons le rendre,
+C'est lorsque les douleurs commencent à nous prendre ;
+Baste ce n'est pas peu que deux mille francs dus,
+Depuis deux ans entiers me soient enfin rendus,
+Encore est-ce un bonheur.
+
+      Et qui ?
+
+Que dit-elle de moi cette gente assassine ?
+
+      Elle ?
+
+      Que tu me rends content !
+
+Mais pourquoi jusqu'ici me les avoir celées ?
+Les filles, par ma foi, sont bien dissimulées !
+Mascarille, en effet, qu'en dis-tu ? quoique vieux,
+J'ai de la mine encore assez pour plaire aux yeux.
+
+Si bien donc…
+
+      Quoi ?
+
+      Et me veut…
+
+      La ?
+
+Ah ! je t'entends. Viens çà, lorsque tu la verras,
+Vante-lui mon mérite autant que tu pourras.
+
+      Adieu.
+
+Ah ! vraiment je faisais une étrange sottise,
+Et tu pouvais pour toi m'accuser de froideur :
+Je t'engage à servir mon amoureuse ardeur,
+Je reçois par ta bouche une bonne nouvelle,
+Sans du moindre présent récompenser ton zèle ;
+Tiens, tu te souviendras…
+
+Laisse-moi.
+
+Je le sais, mais pourtant…
+
+Adieu donc, Mascarille.
+
+      Je veux
+Régaler par tes mains cet objet de mes vœux ;
+Et je vais te donner de quoi faire pour elle
+L'achat de quelque bague, ou telle bagatelle
+Que tu trouveras bon.
+
+Soit, donne-la pour moi ; mais surtout fais si bien,
+Qu'elle garde toujours l'ardeur de me voir sien.
+
+      Ah ! Dieux, elle m'était tombée,
+Et j'aurais après cru qu'on me l'eût dérobée ;
+Je vous suis bien tenu de ce soin obligeant,
+Qui m'épargne un grand trouble, et me rend mon argent :
+Je vais m'en décharger au logis tout à l'heure.
+
+Être mort de la sorte !
+
+N'avoir pas seulement le temps d'être malade !
+
+Et Lélie ?
+
+N'importe, tu devais attendre jusqu'au soir,
+Outre qu'encore un coup j'aurais voulu le voir.
+Qui tôt ensevelit bien souvent assassine,
+Et tel est cru défunt qui n'en a que la mine.
+
+Tu me l'as déjà dit, et je m'en vais le voir.
+
+Sortons, je ne saurais qu'avec douleur très forte,
+Le voir empaqueté de cette étrange sorte :
+Las ! en si peu de temps ! il vivait ce matin !
+
+      Mais quoi ? cher Lélie, enfin il était homme :
+On n'a point pour la mort de dispense de Rome.
+
+      Sans leur dire gare elle abat les humains,
+Et contre eux de tout temps a de mauvais desseins.
+
+      Ce fier animal pour toutes les prières,
+Ne perdrait pas un coup de ses dents meurtrières,
+Tout le monde y passe.
+
+Si malgré ces raisons votre ennui persévère,
+Mon cher Lélie, au moins, faites qu'il se modère.
+
+Au reste, sur l'avis de votre serviteur,
+J'apporte ici l'argent qui vous est nécessaire,
+Pour faire célébrer les obsèques d'un père…
+
+Je sais que vous verrez aux papiers du bonhomme,
+Que je suis débiteur d'une plus grande somme :
+Mais, quand par ces raisons je ne vous devrais rien,
+Vous pourriez librement disposer de mon bien.
+Tenez, je suis tout vôtre, et le ferai paraître.
+
+Mascarille, je crois qu'il serait à propos,
+Qu'il me fît de sa main un reçu de deux mots.
+
+      Des événements l'incertitude est grande.
+
+      Faisons-lui signer le mot que je demande.
+
+      Le monde est rempli de beaucoup de traverses.
+Chaque homme tous les jours en ressent de diverses,
+Et jamais ici-bas…
+
+      Ah ! bons Dieux, je frémis !
+Pandolfe qui revient ! fût-il bien endormi.
+Comme depuis sa mort sa face est amaigrie !
+Las ! ne m'approchez pas de plus près, je vous prie ;
+J'ai trop de répugnance à coudoyer un mort.
+
+Dites‑moi de bien loin quel sujet vous amène.
+Si pour me dire adieu vous prenez tant de peine,
+C'est trop de courtoisie, et véritablement,
+Je me serais passé de votre compliment.
+Si votre âme est en peine et cherche des prières,
+Las ! je vous en promets, et ne m'effrayez guères.
+Foi d'homme épouvanté, je vais faire à l'instant
+Prier tant Dieu pour vous que vous serez content.
+Disparaissez donc, je vous prie,
+Et que le Ciel par sa bonté,
+Comble de joie et de santé
+Votre défunte seigneurie.
+
+Las ! pour un trépassé vous êtes bien gaillard !
+
+Hélas ! vous êtes mort, et je viens de vous voir.
+
+Sitôt que Mascarille en a dit la nouvelle,
+J'en ai senti dans l'âme une douleur mortelle.
+
+      Vous êtes habillé
+D'un corps aérien qui contrefait le vôtre,
+Mais qui dans un moment peut devenir tout autre.
+Je crains fort de vous voir comme un géant grandir,
+Et tout votre visage affreusement laidir.
+Pour Dieu, ne prenez point de vilaine figure ;
+J'ai prou de ma frayeur en cette conjoncture.
+
+M'aurait-on joué pièce, et fait supercherie ?
+Ah ! vraiment ma raison, vous seriez fort jolie !
+Touchons un peu pour voir : en effet c'est bien lui.
+Malepeste du sot, que je suis aujourd'hui !
+De grâce, n'allez pas divulguer un tel conte ;
+On en ferait jouer quelque farce à ma honte :
+Mais, Pandolfe, aidez-moi vous-même à retirer
+L'argent que j'ai donné pour vous faire enterrer.
+
+Et moi, la bonne dupe, à trop croire un vaurien,
+Il faut donc qu'aujourd'hui je perde, et sens et bien ?
+Il me sied bien, ma foi, de porter tête grise,
+Et d'être encor si prompt à faire une sottise !
+D'examiner si peu sur un premier rapport…
+Mais je vois…
+
+À ce que je puis voir, votre douleur vous quitte ?
+
+Je reviens sur mes pas, vous dire, avec franchise,
+Que tantôt avec vous j'ai fait une méprise ;
+Que parmi ces Louis, quoiqu'ils semblent très beaux,
+J'en ai sans y penser mêlé que je tiens faux,
+Et j'apporte sur moi de quoi mettre en leur place :
+De nos faux-monnayeurs l'insupportable audace,
+Pullule en cet État d'une telle façon,
+Qu'on ne reçoit plus rien qui soit hors de soupçon :
+Mon Dieu, qu'on ferait bien de les faire tous pendre !
+
+Je les connaîtrai bien, montrez, montrez-les-moi :
+Est-ce tout ?
+
+      Tant mieux ; enfin je vous raccroche,
+Mon argent bien aimé, rentrez dedans ma poche ;
+Et vous, mon brave Escroc, vous ne tenez plus rien ;
+Vous tuez donc des gens qui se portent fort bien ;
+Et qu'auriez-vous donc fait sur moi, chétif beau-père ?
+Ma foi, je m'engendrais d'une belle manière !
+Et j'allais prendre en vous un beau‑fils fort discret.
+Allez, allez mourir de honte, et de regret.
+
+Arrêtez-vous, Léandre, et souffrez un discours,
+Qui cherche le repos et l'honneur de vos jours :
+Je ne vous parle point en père de ma fille,
+En homme intéressé pour ma propre famille ;
+Mais comme votre père ému pour votre bien,
+Sans vouloir vous flatter, et vous déguiser rien ;
+Bref, comme je voudrais, d'une âme franche et pure,
+Que l'on fît à mon sang, en pareille aventure.
+Savez-vous de quel œil chacun voit cet amour,
+Qui dedans une nuit vient d'éclater au jour ?
+À combien de discours, et de traits de risée,
+Votre entreprise d'hier est partout exposée ?
+Quel jugement on fait du choix capricieux,
+Qui pour femme, dit-on, vous désigne en ces lieux ?
+Un rebut de l'Égypte, une fille coureuse,
+De qui le noble emploi n'est qu'un métier de gueuse ?
+J'en ai rougi pour vous, encor plus que pour moi,
+Qui me trouve compris dans l'éclat que je vois,
+Moi, dis-je, dont la fille à vos ardeurs promise,
+Ne peut sans quelque affront souffrir qu'on la méprise.
+Ah ! Léandre, sortez de cet abaissement ;
+Ouvrez un peu les yeux sur votre aveuglement :
+Si notre esprit n'est pas sage à toutes les heures,
+Les plus courtes erreurs sont toujours les meilleures.
+Quand on ne prend en dot que la seule beauté,
+Le remords est bien près de la solennité,
+Et la plus belle femme a très peu de défense,
+Contre cette tiédeur qui suit la jouissance :
+Je vous le dis encor, ces bouillants mouvements,
+Ces ardeurs de jeunesse, et ces emportements,
+Nous font trouver d'abord quelques nuits agréables :
+Mais ces félicités ne sont guère durables,
+Et notre passion alentissant son cours,
+Après ces bonnes nuits donnent de mauvais jours.
+De là viennent les soins, les soucis, les misères,
+Les fils déshérités par le courroux des pères.
+
+      On ouvre cette porte,
+Retirons-nous plus loin, de crainte qu'il n'en sorte
+Quelque secret poison dont vous seriez surpris.
+
+J'ai ton fait.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trufaldin
+
+      Célie.
+
+Que faites-vous dehors ? et quel soin vous talonne,
+Vous à qui je défends de parler à personne.
+
+Très humble serviteur.
+
+Quoi ! te mêlerais‑tu d'un peu de diablerie ?
+
+      Ho ! Ho ! qui des deux croire,
+Ce discours au premier est fort contradictoire.
+
+      Je sais ce que je sais ;
+J'ai crainte ici dessous de quelque manigance :
+Rentrez, et ne prenez jamais cette licence :
+Et vous filous fieffés, ou je me trompe fort,
+Mettez pour me jouer vos flûtes mieux d'accord.
+
+Quand on viendra tantôt, c'est une affaire faite.
+
+      Que voulez-vous ?
+
+Oui, je reconnais bien la bague que voilà :
+Je vais querir l'esclave, arrêtez un peu là.
+
+Et qui ?
+
+Et que lui voulez‑vous ? Vous le voyez ici.
+
+Quoiqu'à leur Nation bien peu de foi soit due,
+Ils me l'avaient bien dit, ceux qui me l'ont vendue,
+Que je verrais dans peu quelqu'un la retirer,
+Et que je n'aurais pas sujet d'en murmurer :
+Et cependant j'allais par mon impatience,
+Perdre aujourd'hui les fruits d'une haute espérance.
+Un seul moment plus tard tous vos pas étaient vains :
+J'allais mettre en l'instant cette fille en ses mains ;
+Mais suffit, j'en aurai tout le soin qu'on désire.
+Vous-même, vous voyez ce que je viens de lire :
+Vous direz à celui qui vous a fait venir,
+Que je ne lui saurais ma parole tenir.
+Qu'il vienne retirer son argent.
+
+      Va, sans causer davantage.
+
+      Qu'est-ce ? qui me vient voir ?
+
+Pourquoi ?
+
+      Oh ! Dieux !
+
+Oh ! les plaisants robins qui pensent me surprendre !
+
+Allez, fourbes méchants ; retirez-vous d'ici,
+Canaille ; et vous, Seigneur, bonsoir, et grand merci.
+
+Quoi ! masques toute nuit assiégeront ma porte !
+Messieurs, ne gagnez point de rhumes à plaisir,
+Tout cerveau qui le fait, est certes de loisir ;
+Il est un peu trop tard pour enlever Célie,
+Dispensez-l'en ce soir, elle vous en supplie :
+La belle est dans le lit, et ne peut vous parler ;
+J'en suis fâché pour vous : Mais, pour vous régaler
+Du souci qui pour elle ici vous inquiète,
+Elle vous fait présent de cette cassolette.
+
+Sois béni, juste Ciel ! de mon sort adouci.
+
+Quelle grâce, quels biens vous rendrai-je, Seigneur ?
+Vous, que je dois nommer l'Ange de mon bonheur.
+
+J'ai, je ne sais pas où, vu quelque ressemblance
+De cet Arménien.
+
+Vous avez vu ce fils où mon espoir se fonde ?
+
+Il vous a dit sa vie, et parlé fort de moi ?
+
+      Cela pourrait-il être ?
+Si lorsqu'il m'a pu voir il n'avait que sept ans ?
+Et si son Précepteur, même depuis ce temps,
+Aurait peine à pouvoir connaître mon visage ?
+
+      Suffit. Où l'avez-vous laissé ?
+
+      Turin ? mais cette ville
+Est, je pense, en Piémont.
+
+Il fallait, pour l'entendre, avoir cette lumière.
+Quel moyen, vous dit-il, de rencontrer son père ?
+
+Ce n'est pas maintenant ce que je veux savoir.
+Quel autre nom dit-il que je devais avoir ?
+
+Mais où vous a-t-il dit qu'il reçut la clarté ?
+
+Ne peux‑tu sans parler, souffrir notre discours ?
+
+Où l'envoyai-je jeune ? et sous quelle conduite ?
+
+Ah !
+
+Je voudrais bien savoir de vous leur aventure ;
+Sur quel vaisseau le sort qui m'a su travailler…
+
+Entrez donc.
+
+C'est bien fait. Cependant me ferez-vous la grâce
+Que je puisse lui dire un seul mot en secret ?
+
+Écoute, sais-tu bien ce que je viens de faire ?
+
+      D'un chêne grand et fort,
+Dont près de deux cents ans ont fait déjà le sort,
+Je viens de détacher une branche admirable,
+Choisie expressément, de grosseur raisonnable,
+Dont j'ai fait sur-le-champ avec beaucoup d'ardeur,
+Un bâton à peu près… oui, de cette grandeur ;
+Moins gros par l'un des bouts, mais plus que trente gaules
+Propre, comme je pense, à rosser les épaules ;
+Car il est bien en main, vert, noueux et massif.
+
+Pour toi premièrement, puis pour ce bon apôtre,
+Qui veut m'en donner d'une et m'en jouer d'un autre :
+Pour cet Arménien, ce Marchand déguisé,
+Introduit sous l'appât d'un conte supposé.
+
+      Ne cherche point d'excuse,
+Lui-même heureusement a découvert sa ruse,
+Et disant à Célie, en lui serrant la main,
+Que pour elle il venait sous ce prétexte vain :
+Il n'a pas aperçu Jeannette ma fillole,
+Laquelle a tout ouï parole pour parole ;
+Et je ne doute point, quoiqu'il n'en ait rien dit,
+Que tu ne sois de tout le complice maudit.
+
+Veux-tu me faire voir que tu dis vérité ?
+Qu'à le chasser mon bras soit du tien assisté ;
+Donnons-en à ce fourbe, et du long et du large,
+Et de tout crime après mon esprit te décharge.
+
+      Un mot, je vous supplie.
+Donc, monsieur l'imposteur, vous osez aujourd'hui
+Duper un honnête homme, et vous jouer de lui ?
+
+Vidons, vidons sur l'heure.
+
+Voilà qui me plaît fort ; rentre, je suis content.
+
+      Ah ! ma fille.
+
+Sais-tu déjà comment le Ciel nous est prospère ?
+
+Mais en te recouvrant que diras-tu de moi ?
+Si je songe aussitôt à me priver de toi ?
+Et t'engage à son fils sous les lois d'hyménée ?
+
+Oui, mon gendre, il est vrai.
+
+Vous savez le bonheur que le Ciel me renvoie ;
+Mais puisqu'un même jour nous met tous dans la joie,
+Ne nous séparons point qu'il ne soit terminé,
+Et que son père aussi nous soit vite amené.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pandolfe
+
+Mascarille,
+
+      À parler franchement,
+Je suis mal satisfait de mon fils.
+
+Je vous croirais pourtant assez d'intelligence
+Ensemble.
+
+Querelle !
+
+Je me trompais donc bien ; car j'avais la pensée,
+Qu'à tout ce qu'il faisait tu donnais de l'appui.
+
+C'est parler comme il faut. Et que peut-il répondre ?
+
+Parle.
+
+Tu dis bien.
+
+On m'en avait parlé ; mais l'action me touche,
+De voir que je l'apprenne encore par ta bouche.
+
+Vraiment, je suis ravi de cela.
+
+C'est très bien raisonné ; ce conseil me plaît fort ;
+Je vois Anselme, va, je m'en vais faire effort,
+Pour avoir promptement cette esclave funeste,
+Et la mettre en tes mains pour achever le reste.
+
+D'où peut donc provenir ce bizarre transport ?
+
+Malgré tout mon dépit, il m'y faut prendre part.
+
+Est-ce jeu ? dites-nous, ou bien si c'est folie,
+Qui traite de défunt une personne en vie ?
+
+Quoi ? j'aurais trépassé sans m'en apercevoir ?
+
+Mais enfin, dormez-vous ? êtes-vous éveillé ?
+Me connaissez-vous pas ?
+
+En une autre saison, cette naïveté,
+Dont vous accompagnez votre crédulité,
+Anselme, me serait un charmant badinage,
+Et j'en prolongerais le plaisir davantage :
+Mais avec cette mort un trésor supposé,
+Dont parmi les chemins on m'a désabusé,
+Fomente dans mon âme un soupçon légitime.
+Mascarille est un fourbe, et fourbe fourbissime,
+Sur qui ne peuvent rien la crainte, et le remords,
+Et qui pour ses desseins a d'étranges ressorts.
+
+De l'argent, dites-vous ? ah ! c'est donc l'enclouure.
+Voilà le nœud secret de toute l'aventure ;
+À votre dam. Pour moi, sans m'en mettre en souci,
+Je vais faire informer de cette affaire ici,
+Contre ce Mascarille, et si l'on peut le prendre,
+Quoi qu'il puisse coûter, je veux le faire pendre.
+
+      La chose est résolue.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_leandre
+
+Grâces au Ciel, voilà mon bonheur hors d'atteinte,
+J'ai su me l'assurer, et je n'ai plus de crainte ;
+Quoi que désormais puisse entreprendre un rival,
+Il n'est plus en pouvoir de me faire du mal.
+
+D'où procède cela ? qu'est-ce ? que te fait‑on ?
+
+Qui ?
+
+      Et pourquoi ?
+
+Ah ! vraiment il a tort.
+
+Écoute, Mascarille, et quitte ce transport ;
+Tu m'as plu de tout temps, et je souhaitais fort
+Qu'un garçon comme toi plein d'esprit et fidèle,
+À mon service un jour pût attacher son zèle :
+Enfin, si le parti te semble bon pour toi,
+Si tu veux me servir, je t'arrête, avec moi.
+
+Mon amour s'est rendu cet office lui-même,
+Enflammé d'un objet qui n'a point de défaut,
+Je viens de l'acheter moins encor qu'il ne vaut.
+
+      Tu la verrais paraître,
+Si de mes actions j'étais tout à fait maître :
+Mais quoi ! mon père l'est, comme il a volonté,
+Ainsi que je l'apprends d'un paquet apporté,
+De me déterminer à l'hymen d'Hippolyte,
+J'empêche qu'un rapport de tout ceci l'irrite.
+Donc avec Trufaldin ; car je sors de chez lui,
+J'ai voulu tout exprès agir au nom d'autrui ;
+Et l'achat fait, ma bague est la marque choisie,
+Sur laquelle au premier il doit livrer Célie ;
+Je songe auparavant à chercher les moyens
+D'ôter aux yeux de tous ce qui charme les miens,
+À trouver promptement un endroit favorable,
+Où puisse être en secret cette captive aimable.
+
+Oui, ma foi, tu me fais un plaisir souhaité.
+Tiens donc, et va pour moi prendre cette beauté,
+Dès que par Trufaldin ma bague sera vue,
+Aussitôt en tes mains elle sera rendue,
+Et dans cette maison tu me la conduiras
+Quand… mais chut, Hippolyte est ici sur nos pas.
+
+Pour en pouvoir juger, et répondre soudain,
+Il faudrait la savoir.
+
+Va, vat'en me servir sans davantage attendre.
+
+De la chose lui‑même il m'a fait un récit ;
+Mais, c'est bien plus, j'ai su que tout ce beau mystère,
+D'un rapt d'Égyptiens, d'un grand Seigneur pour père,
+Qui doit partir d'Espagne, et venir en ces lieux,
+N'est qu'un pur stratagème, un trait facétieux,
+Une histoire à plaisir, un conte dont Lélie
+A voulu détourner notre achat de Célie.
+
+      Et pourtant Trufaldin
+Est si bien imprimé de ce conte badin,
+Mord si bien à l'appât de cette faible ruse,
+Qu'il ne veut point souffrir que l'on le désabuse.
+
+Si d'abord à mes yeux elle parut aimable,
+Je viens de la trouver tout à fait adorable,
+Et je suis en suspens, si pour me l'acquérir,
+Aux extrêmes moyens je ne dois point courir,
+Par le don de ma foi rompre sa destinée,
+Et changer ses liens en ceux de l'hyménée.
+
+      Je ne sais : mais enfin,
+Si quelque obscurité se trouve en son destin,
+Sa grâce et sa vertu sont de douces amorces,
+Qui pour tirer les cœurs ont d'incroyables forces.
+
+      Quoi ! que murmures-tu ?
+Achève, explique-toi sur ce mot de vertu.
+
+Non, non, parle.
+
+      Poursuis.
+
+Célie…
+
+Las ! que dis-tu ? croirai-je un discours de la sorte !
+
+Quelle surprise étrange !
+
+Oui d'un coup étonnant ce discours m'assassine.
+
+      Va-t'en jusqu'à la poste, et vois
+Je ne sais quel paquet qui doit venir pour moi.
+Qui ne s'y fût trompé ? jamais l'air d'un visage,
+Si ce qu'il dit est vrai, n'imposa davantage.
+
+Moi ?
+
+      Pourtant je n'en ai point sujet.
+
+Mon esprit ne court pas après si peu de chose.
+
+Si j'étais assez sot, pour chérir ses caresses,
+Je me moquerais bien de toutes vos finesses.
+
+      Mon Dieu, nous savons tout.
+
+      Votre procédé de l'un à l'autre bout.
+
+Feignez, si vous voulez, de ne me pas entendre ;
+Mais, croyez-moi, cessez de craindre pour un bien,
+Où je serais fâché de vous disputer rien ;
+J'aime fort la beauté qui n'est point profanée,
+Et ne veux point brûler pour une abandonnée.
+
+      Ah ! que vous êtes bon !
+Allez, vous dis-je encor, servez-la sans soupçon,
+Vous pourrez vous nommer homme à bonnes fortunes :
+Il est vrai, sa beauté n'est pas des plus communes ;
+Mais en revanche aussi le reste est fort commun.
+
+Ce que j'avance ici me vient de bonne part.
+
+      Mais enfin Mascarille,
+D'un semblable procès est juge compétent ;
+C'est lui qui la condamne.
+
+      Lui-même.
+
+      Et moi gage que non.
+
+Moi, je lui couperais sur-le-champ les oreilles,
+S'il n'était pas garant de tout ce qu'il m'a dit.
+
+Halte un peu, retenez l'ardeur qui vous emporte.
+
+C'est trop que de vouloir le battre en ma présence.
+
+Comment vos gens ?
+
+      C'est maintenant le nôtre.
+
+      Pour quelque mal commis,
+Hors de votre service il n'a pas été mis ?
+
+      Et plein de violence,
+Vous n'avez pas chargé son dos avec outrance ?
+
+Donc les coups de bâton ne sont qu'imaginaires.
+
+      Non, non,
+Tous ces signes pour toi ne disent rien de bon ;
+Oui, d'un tour délicat mon esprit te soupçonne ;
+Mais, pour l'invention, va, je te le pardonne ;
+C'est bien assez, pour moi, qu'il m'a désabusé,
+De voir par quels motifs tu m'avais imposé,
+Et que m'étant commis à ton zèle hypocrite,
+À si bon compte encor je m'en sois trouvé quitte :
+Ceci doit s'appeler un avis au lecteur.
+Adieu, Lélie, adieu, très humble serviteur.
+
+Sans bruit ; ne faisons rien que de la bonne sorte.
+
+Fi, cela sent mauvais ; et je suis tout gâté ;
+Nous sommes découverts, tirons de ce côté.
+
+Dans tout votre discours, je n'ai rien écouté,
+Que mon esprit déjà ne m'ait représenté.
+Je sais, combien je dois, à cet honneur insigne,
+Que vous me voulez faire, et dont je suis indigne ;
+Et vois, malgré l'effort dont je suis combattu,
+Ce que vaut votre fille, et quelle est sa vertu :
+Aussi veux-je tâcher…
+
+Un généreux pardon est ce que je désire ;
+Mais j'atteste les Cieux, qu'en ce retour soudain
+Mon père fait bien moins que mon propre dessein.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andres
+
+Vous le savez, Célie, il n'est rien que mon cœur
+N'ait fait, pour vous prouver l'excès de son ardeur ;
+Chez les Vénitiens, dès un assez jeune âge,
+La guerre en quelque estime avait mis mon courage,
+Et j'y pouvais un jour, sans trop croire de moi,
+Prétendre en les servant, un honorable emploi :
+Lorsqu'on me vit pour vous oublier toute chose,
+Et que le prompt effet d'une métamorphose,
+Qui suivit de mon cœur le soudain changement,
+Parmi vos compagnons sut ranger votre Amant,
+Sans que mille accidents, ni votre indifférence,
+Aient pu me détacher de ma persévérance :
+Depuis, par un hasard, d'avec vous séparé,
+Pour beaucoup plus de temps que je n'eusse auguré,
+Je n'ai pour vous rejoindre épargné temps ni peine :
+Enfin, ayant trouvé la vieille Égyptienne,
+Et plein d'impatience, apprenant votre sort,
+Que pour certain argent qui leur importait fort,
+Et qui de tous vos gens détourna le naufrage,
+Vous aviez en ces lieux été mise en otage :
+J'accours vite y briser ces chaînes d'intérêt,
+Et recevoir de vous les ordres qu'il vous plaît :
+Cependant on vous voit une morne tristesse,
+Alors que dans vos yeux doit briller l'allégresse ;
+Si pour vous la retraite avait quelques appas,
+Venise, du butin fait parmi les combats,
+Me garde pour tous deux, de quoi pouvoir y vivre.
+Que si, comme devant, il vous faut encor suivre,
+J'y consens, et mon cœur n'ambitionnera
+Que d'être auprès de vous tout ce qu'il vous plaira.
+
+Autant que vous voudrez, faites qu'il se diffère,
+Toutes mes volontés ne butent qu'à vous plaire ;
+Cherchons une maison à vous mettre en repos,
+L'écriteau que voici s'offre tout à propos.
+
+Seigneur Suisse, êtes-vous de ce logis le maître ?
+
+      Pourrons-nous y bien être ?
+
+Je crois votre maison franche de tout ombrage.
+
+Oui.
+
+Quoi ?
+
+Non.
+
+Ce n'est pas pour cela.
+
+Il n'importe. Je suis à vous dans un moment.
+Je vais faire venir la vieille promptement,
+Contremander aussi notre voiture prête.
+
+      Elle a mal à la tête.
+
+C'est un logis garni que j'ai pris tout à l'heure.
+
+Je ne sais, l'écriteau marque au moins qu'on la loue :
+Lisez.
+
+Peut-on vous demander quelle est cette aventure ?
+
+Vous l'appelez ?
+
+      Hé ! que ne disiez-vous !
+Vous n'aviez qu'à parler ; je vous aurais sans doute,
+Épargné tous les soins que ce projet vous coûte.
+
+      C'est moi, qui maintenant
+Viens de la racheter.
+
+Sa santé de partir ne nous pouvant permettre,
+Au logis que voilà je venais de la mettre ;
+Et je suis très ravi dans cette occasion,
+Que vous m'ayez instruit de votre intention.
+
+      Tout à l'heure on va vous satisfaire.
+
+Non, ne m'en faites point, je n'en veux nullement.
+
+Ce valet vous servait avec beaucoup de feu ;
+Mais je reviens à vous, demeurez quelque peu.
+
+N'est-ce pas là l'objet dont vous m'avez parlé ?
+
+Il est vrai, d'un bienfait je vous suis redevable,
+Si je ne l'avouais, je serais condamnable :
+Mais enfin, ce bienfait aurait trop de rigueur,
+S'il fallait le payer aux dépens de mon cœur ;
+Jugez donc le transport où sa beauté me jette,
+Si je dois à ce prix vous acquitter ma dette ;
+Vous êtes généreux, vous ne le voudriez pas.
+Adieu pour quelques jours, retournons sur nos pas.
+
+Qui l'aurait jamais cru que cette ardeur si pure,
+Pût être condamnée un jour par la nature ?
+Toutefois, tant d'honneur la sut toujours régir,
+Qu'en y changeant fort peu, je puis la retenir.
+
+Je m'acquitte par là de ce que je vous dois.
+
+
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *date_1655 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ergaste
+
+Je te cherchais partout pour te rendre un service,
+Pour te donner avis d'un secret important.
+
+      N'avons-nous point ici quelque écoutant ?
+
+      Nous sommes amis autant qu'on le peut être,
+Je sais bien tes desseins, et l'amour de ton maître ;
+Songez à vous tantôt, Léandre fait parti
+Pour enlever Célie, et j'en suis averti,
+Qu'il a mis ordre à tout, et qu'il se persuade
+D'entrer chez Trufaldin par une mascarade,
+Ayant su qu'en ce temps assez souvent le soir,
+Des femmes du Quartier en masque l'allaient voir.
+
+Il n'est rien plus certain ; quelqu'un de sa brigade,
+M'ayant de ce dessein instruit, sans m'arrêter,
+À Mascarille lors j'ai couru tout conter,
+Qui s'en va, m'a-t-il dit, rompre cette partie,
+Par une invention dessus le champ bâtie ;
+Et comme je vous ai rencontré par hasard,
+J'ai cru que je devais de tout vous faire part.
+
+Mascarille, je viens te dire une nouvelle,
+Qui donne à tes desseins une atteinte cruelle ;
+À l'heure que je parle, un jeune Égyptien,
+Qui n'est pas noir pourtant, et sent assez son bien,
+Arrive accompagné d'une vieille fort hâve,
+Et vient chez Trufaldin racheter cette esclave
+Que vous vouliez. Pour elle, il paraît fort zélé.
+
+Par les soins vigilants de l'Exempt balafré,
+Ton affaire allait bien, le drôle était coffré,
+Si ton Maître au moment ne fût venu lui-même,
+En vrai désespéré, rompre ton stratagème :
+Je ne saurais souffrir, a-t-il dit hautement,
+Qu'un honnête homme soit traîné honteusement ;
+J'en réponds sur sa mine, et je le cautionne :
+Et comme on résistait à lâcher sa personne,
+D'abord il a chargé si bien sur les recors,
+Qui sont gens d'ordinaire à craindre pour leurs corps,
+Qu'à l'heure que je parle ils sont encore en fuite,
+Et pensent tous avoir un Lélie à leur suite.
+
+Adieu, certaine affaire à te quitter m'oblige.
+

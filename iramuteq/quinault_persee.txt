@@ -1,43 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1682
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
 
--*who_phronime
-La Vertu veut choisir ce lieu pour sa retraite :
-C'est un heureux séjour ; tout y plaît à mes yeux.
-
--*who_megathyme
-La Vertu fait trouver dans les plus tristes lieux
-Une félicité secr7te
-
--*who_phronime
-Sans la Vertu, sans son secours,
-On n'a point de bien véritable.
-Elle est toujours aimable ;
-Il faut l'aimer toujours.
-
--*who_megathyme
-Elle éternise la mémoire
-D'un héros qui la suit.
-La gloire où la Vertu conduit
-Est la parfaite gloire.
-
--*who_phronime_megathyme
-Suivons partout ses pas,
-On ne peut la connaître
-Sans aimer ses appas.
-Le bonheur ne peut être
-Où la Vertu n'est pas.
-
--*who_phronime_megathyme_choeur
-Ô Vertu charmante !
-Votre empire est doux.
-Avec vous, tout nous contente ;
-On n'est point heureux sans vous.
-Ô Vertu charmante,
-Votre empire est doux.
-
--*who_lavertu
 Ne vous abusez point par une vaine attente :
 On n'a pas aisément les prix que je présente ;
 Ils coûtent mille efforts ils font mille jaloux.
@@ -46,47 +10,12 @@ Lorsque l'on suit mes pas on s'expose à mes coups.
 On trouve en son fatal courroux
 Une hydre toujours renaissante.
 
--*who_megathyme
-Avec vous rien n'épouvante.
-
--*who_phronime
-On n'est point heureux sans vous.
-
--*who_phronime_megathyme_choeur
-Ô Vertu charmante, etc.
-
--*who_lavertu
 Fuyons de la grandeur la pompe embarrassante ;
 La retraite a des biens dont la douceur enchante
 Et qui sont réservés pour nous.
 Jouissons du bonheur d'une vie innocente ;
 C'est le bien le plus grand de tous.
 
--*who_phronime_megathyme_choeur
-Ô Vertu charmante, etc.
-
--*who_phronime_megathyme
-La grandeur brillante,
-qui fait tant de bruit,
-N'a rien qui nous tente :
-Le repos la fuit.
-Malheureux qui la suit... !
-Fortune volage, Laissez-nous en paix !
-Vous ne donnez jamais
-Qu'un pompeux esclavage :
-Tous vos biens n'ont que de faux attraits.
-Dans un doux asile
-Nous bornons nos voeux :
-Notre sort est tranquille ;
-C'est un bien qui doit nous rendre heureux.
-La Vertu couronne
-Ses amants constant :
-Heureux qui lui donne
-Ses soins et son temps ;
-Ses voeux seront contents...
-Fortune volage, etc.
-
--*who_lavertu
 Qui nous fait voir ici tant de magnificence.. ?
 C'est la Fortune qui s'avance.
 Me cherchez-vous quand je vous fuis.
@@ -94,90 +23,96 @@ Fortune, je sais trop que vous m'êtes contraire.
 Non, ce n'est pas un soin qui vous soit ordinaire
 D'embellir les lieux où je suis.
 
--*who_lafortune
-Effaçons du passé la mémoire importune ;
-J'ai toujours contre vous vainement combattu :
-Un auguste héros ordonne à la Fortune
-D'être en paix avec la Vertu.
-
--*who_lavertu
 Ah ! je le reconnais sans peine ;
 C'est le héros qui calme l'Univers.
 
--*who_lafortune
-Lui seul pour vous pouvait vaincre ma haine ;
-Il vous révère, et je le sers.
-Je l'aime constamment, moi qui suis si légère.
-Partout suivant ses voeux avec ardeur je cours.
-Vous paraissez toujours sévère,
-Et vous êtes toujours
-Ses plus chères amours.
-
--*who_lavertu
 Mes biens brillent moins que les vôtres.
 Vous trouverez tant de coeurs qui n'adorent que vous !
 Vous les enchantez presque tous.
 
--*who_lafortune
-Vous régnez sur un coeur qui vaut seul tous les autres.
-Ah ! S'il m'eût voulu suivre, il eût tout surmonté.
-Tout tremblait, tout cédait à l'ardeur qui l'anime.
-C'est vous, Vertu trop magnanime ;
-C'est vous qui l'avez arrêté.
-
--*who_lavertu
 Son grand coeur s'est mieux fait connaître,
 Il a fait sur lui-même un effort généreux :
 Il veut rendre le monde heureux.
 Il préfère au bonheur d'en devenir le maître,
 La gloire de montrer qu'il mérite de l'âtre.
 
--*who_lavertu_lafortune
-Sans cesse combattons à qui servira mieux
-Ce héros glorieux.
-
--*who_lavertu_lafortune_choeurs
-Les Dieux ne l'ont donné que pour le bien du monde,
-Que ses travaux sont grands ! que ses destins sont beaux !
-Dans une paix profonde
-Il trouve une source féconde
-De triomphes nouveaux.
-Les Dieux ne l'ont donné que pour le bien du monde.
-
--*who_lavertu
 Que jusque dans les jeux tout nous parle de lui.
 Les Dieux, qui méditaient leur plus parfait ouvrage,
 Autrefois dans Persée en tracèrent l'image :
 J'obtiendrai qu'Apollon le ranime aujourd'hui.
 
--*who_lavertu_lafortune
-Mille nouveaux concerts doivent se faire entendre :
-Tout promet au mérite un favorable sort.
-Quel bien ne doit-on pas attendre
-De notre heureux accord ?
 
--*who_suivantevertu_suivantefortune
-Quel heureux jour pour nous !
-Tout suit notre envie.
-Quel heureux jour pour nous !
-Que notre sort est doux !
-La Vertu voit en paix tous ceux qui l'ont suivie :
-La Fortune pour eux perd son fatal courroux.
-Quel heureux jour pour nous, etc.
-Tous nos jours seront beaux ; goûtons, goûtons la vie.
-Rien ne trouble nos voeux, le ciel les comble tous.
-Quel heureux jour pour nous, etc.
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
 
--*who_lavertu_lafortune_choeurs
-Heureuse intelligence,
-Douce et charmante paix,
-Comblez notre espérance.
-Douce et charmante paix,
-Puissiez-vous durer à jamais.
+Belle princesse, enfin vous souffrez ma présence.
 
-**** *book_ *id_II01 *act_II *date_1682
+Vous voulez me faire savoir
+Que je ne dois ce bien qu'à votre obéissance.
+N'importe, rien ne peut ébranler ma constance.
+J'ai su jusqu'à ce jour vous aimer sans espoir.
+Je vais avec plaisir prendre notre défense,
+Quand j'aurais pour récompense
+Que la seule douceur que je sens à vous voir.
 
--*who_cephee
+Je serai malheureux, désespéré, jaloux ;
+Mais je mourrai content si vous vivez heureuse.
+
+      De mes regards vos beaux yeux sont blessés ;
+Vous souffrez à me voir, mon amour vous outrage.
+Je vais chercher Méduse, et je vous aime assez
+Pour ne vous pas contraindre à souffrir davantage.
+
+Qu'entends-je ? Ô cieux : belle princesse !
+Que vois-je ? vous versez des pleurs !
+
+Vous pourriez être sa victime.
+
+Le fils de Jupiter, lorsque l'amour l'anime,
+Doit aller au delà de tout l'effort humain.
+
+J'ignorais votre amour, et j'aillais vous défendre ;
+Puis-je à vous secourir être moins animé,
+Quand je sais que je suis aimé ?
+
+L'amour m'appelle.
+
+Vous me verrez comblé d'une gloire immortelle.
+
+Un peuple infortuné m'engage à le défendre ;
+C'est à la gloire que je cours.
+Si je meurs, mon trépas sera digne d'envie ;
+Je laisse le soin de mes jours
+Au dieu qui m'a donné la vie.
+
+Je suivrai les conseils que vous m'avez donnés.
+
+Un prix qui me doit charmer
+M'est offert par la Victoire :
+Quel péril peut m'alarmer ?
+L'amour et la gloire
+S'unissent pour m'animer.
+
+Le monde est délivré d'un monstre si terrible ;
+Le ciel s'est servi de mon bras.
+
+Armons-nous ; punissons plus l'audace des rebelles.
+
+Si les dieux m'ont prêté des ailes,
+Ce n'est pas pour fuir le danger.
+
+Ne craignez rien ; fermez les yeux,
+Je vais punir leur injustice.
+Voyez leur funeste supplice.
+
+La tête de Méduse a fait leur châtiment...
+Cessons de redouter la fortune cruelle ;
+Le ciel nous promet d'heureux jours ;
+Vénus vient à notre secours ;
+Elle amène l'Amour et l'Hymen avec elle.
+
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
+
 Je crains que Junon ne refuse
 D'apaiser sa haine pour nous ;
 Je crains, malgré vos voeux,
@@ -194,7 +129,70 @@ Et si Junon, que votre orgueil offense,
 N'arrête sa vengeance,
 Je serai bientôt roi d'un peuple inanimé.
 
--*who_cassiope
+Je vais, avec Persée, implorer l'assistance
+Du dieu dont il tient la naissance ;
+Il est fils du plus grand des Dieux.
+Apaisez de Junon, la colère fatale,
+Ce serait pour elle en ces lieux
+Un objet odieux
+Qu'un fils de sa rivale.
+
+Les Dieux punissent la fierté,
+Ils n'est point de grandeur que le ciel irrité
+N'abaisse quand il veut, et ne réduisent en poudre,
+Mais un prompt repentir
+Peut arrêter la foudre
+Toute prête à partir.
+
+Au fils de Jupiter on peut céder sans honte.
+
+Votre incrédulité n'aura donc plus d'excuse,
+Mon frère ; sa valeur va vous ouvrir les yeux.
+Reconnaissez le fils du plus puissant des dieux :
+Il offre de couper le tête de Méduse.
+
+Ma fille est le prix qu'il demande.
+
+L'espoir dans nos coeurs doit renaître...
+Dieux, que Junon engage à servir son courroux,
+Dieux irrités, apaisez-vous !
+La vengeance du ciel n'a que trop au paraître.
+Le fils de Jupiter veut combattre pour nous :
+Ô ciel ! favorisez le fils de votre maître.
+
+Andromède !
+
+Andromède !
+
+Ah ! quel effroyable supplice !
+Dieux, ô dieux ! quelle cruauté !
+
+Andromède !
+
+Andromède !
+
+Honorons à jamais le glorieux héros
+Qui nous donne un heureux repos.
+Sa valeur, à son gré, fait voler la victoire :
+Tour-à-tour la terre et les flots
+Sont le théâtre de sa gloire.
+Honorons à jamais, etc.
+
+Le soin de vous défendre en ces lieux me rappelle.
+Craignez tout d'un peuple rebelle ;
+Quel sang n'ose-t-il point verser ?
+Un trait, que sur Persée on a voulu lancer,
+A frappé votre soeur d'une atteinte mortelle.
+Junon, implacable pour nous,
+Anime les mutins de son fatal courroux.
+Leur rage croît, leur nombre augmente :
+Persée en vain toujours combat avec chaleur.
+Que servent les efforts qu'il tente ?
+Le nombre tôt ou tard accable la valeur.
+
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
+
 Heureuse épouse, heureuse mère,
 Trop vaine d'un sort glorieux,
 Je n'ai pu m'empêcher d'exciter la colère
@@ -208,40 +206,11 @@ Mon orgueil offensa cette divinité ;
 Il faut que mon respect répare
 Le crime de ma vanité.
 
--*who_cephee
-Je vais, avec Persée, implorer l'assistance
-Du dieu dont il tient la naissance ;
-Il est fils du plus grand des Dieux.
-Apaisez de Junon, la colère fatale,
-Ce serait pour elle en ces lieux
-Un objet odieux
-Qu'un fils de sa rivale.
-
--*who_cassiope
 Par un cruel châtiment
 Les Dieux vous font voir leur haine ;
 On les irrite aisément,
 On les apaise avec peine.
 
--*who_cephee
-Les Dieux punissent la fierté,
-Ils n'est point de grandeur que le ciel irrité
-N'abaisse quand il veut, et ne réduisent en poudre,
-Mais un prompt repentir
-Peut arrêter la foudre
-Toute prête à partir.
-
--*who_merope
-Puissions nous désarmer le ciel qui nous menace.
-
--*who_cephee_cassiope_merope
-Ô Dieux ! qui punissez l'audace !
-Dieux ! redoutables ennemis !
-Pardonnez à des coeurs soumis.
-
-**** *book_ *id_II02 *act_II *date_1682
-
--*who_cassiope
 Aimé et destiné pour épouser ma fille,
 Vous savez mes desseins pour vous,
 Ma soeur ; par votre hymen, il m'aurait été doux
@@ -249,25 +218,8 @@ D'unir Persée à ma famille ;
 Mais je le veux en vain, l'Amour n'y consent pas :
 Aux yeux de ce héros, ma fille a trop d'appas.
 
--*who_merope
-Le fils de Jupiter l'adore ;
-Croyez-vous que je sois encore à m'en apercevoir ?
-J'y prends trop d'intérêt pour ne le pas savoir.
-Je goûtais une paix heureuse
-Avant que ce héros parût dans cette Cour ;
-Par une espérance trompeuse,
-Allait-il me livrer au pouvoir de l'Amour ?
-
--*who_cassiope
 Sachez bien la faiblesse où votre coeur s'engage.
 
--*who_merope
-Mon vainqueur encore aujourd'hui
-Ignore de mon coeur le funeste esclavage :
-Je mourrai de honte et de rage
-Si l'ingrat connaissait l'amour que j'ai pour lui.
-
--*who_cassiope
 De chagrin et de colère,
 Votre coeur est déchiré ;
 Vous perdez l'espoir de plaire ;
@@ -276,21 +228,76 @@ D'un amour désespéré.
 Appelez le dépit ; que votre amour lui cède ;
 Sortez par son secours, d'un tourment si fatal.
 
--*who_merope
-Le triste secours qu'un remède
-Plus cruel encore que le mal !
-
--*who_cassiope
 Pour prendre soin des Jeux, il faut que je vous quitte.
 Par mes conseils votre douleur s'irrite.
 
--*who_cassiope_merope
-Le temps seul peut guérir
-Les maux que l'amour fait souffrir.
+Ô Junon ! Puissante déesse
+Qu'on ne peut assez révérer !
+J'assemble en votre nom cette aimable jeunesse,
+Que le flambeau d'Hymen doit bientôt éclairer.
+Chacun va montrer son adresse
+Pour disputer les prix que j'ai fait préparer,
+Ne gardez pas pour nous une haine implacable ;
+Si l'orgueil me rendit coupable,
+Je reconnais mon crime et veux le réparer.
+Voyez d'un regard favorable
+Les jeux qu'en votre honneur nous allons célébrer.
 
-**** *book_ *id_II03 *act_II *date_1682
+Faut-il que contre nous tout le ciel s'intéresse ?
+Dieux ! ne puis-je espérer de vous fléchir jamais ?
 
--*who_merope
+Elle peut revenir, elle peut nous surprendre.
+Junon s'obstine à se venger ;
+Contre elle aucun des dieux n'a soin de nous défendre ;
+Mon seul espoir est d'engager
+Jupiter à nous protéger.
+
+Le ciel punit mon crime ; il est inexorable.
+J'ai besoin de secours dans un mortel effroi.
+
+Ah ! Quelle vengeance inhumaine !
+
+      Ma fille !
+
+Que les dieux sont cruels ! Qu'ils sont ingénieux
+À faire ressentir leur haine !
+
+      Ma fille !
+
+Que par pitié j'obtienne une mort légitime.
+Cruels ! n'attachez pas ma fille à ce rocher,
+C'est moi qu'il y faut attacher !
+
+Ah ! Quelle vengeance inhumaine !
+
+      Ma fille !
+
+Que les dieux sont cruels ! qu'ils sont ingénieux
+À faire ressentir leur haine !
+
+      Ma fille !
+
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+
+Puissions nous désarmer le ciel qui nous menace.
+
+Le fils de Jupiter l'adore ;
+Croyez-vous que je sois encore à m'en apercevoir ?
+J'y prends trop d'intérêt pour ne le pas savoir.
+Je goûtais une paix heureuse
+Avant que ce héros parût dans cette Cour ;
+Par une espérance trompeuse,
+Allait-il me livrer au pouvoir de l'Amour ?
+
+Mon vainqueur encore aujourd'hui
+Ignore de mon coeur le funeste esclavage :
+Je mourrai de honte et de rage
+Si l'ingrat connaissait l'amour que j'ai pour lui.
+
+Le triste secours qu'un remède
+Plus cruel encore que le mal !
+
 Ah ! Je garderai bien mon coeur,
 Si je puis le reprendre.
 Venez, juste dépit, venez, c'est trop attendre ;
@@ -310,33 +317,6 @@ Phinée avec elle s'avance ;
 L'espoir de leur hymen flatte encore mes voeux
 Et c'est ma dernière espérance.
 
-**** *book_ *id_II04 *act_II *date_1682
-
--*who_andromede_phinee
-Croyez-moi, croyez-moi,
-
--*who_andromede
-Cessez de craindre.
-
--*who_phinee
-Cessez de feindre.
-
--*who_andromede
-Je veux vous aimer, je le dois.
-
--*who_phinee
-Vous ne m'aimez pas, je le vois.
-
--*who_andromede
-Cessez de craindre.
-
--*who_phinee
-Cessez de feindre.
-
--*who_andromede_phinee
-Croyez-moi, croyez-moi.
-
--*who_merope
 Vous êtes tous deux aimables,
 Et vous vous aimez tous deux ;
 Quels différents sont capables
@@ -344,198 +324,14 @@ De rompre de si beaux noeuds ?
 Que ne souffriront point les amants misérables
 Si l'Amour a des maux pour les amants heureux ?
 
--*who_andromede
-Sans raison son chagrin éclate.
-
--*who_phinee
-Perdrai-je sans chagrin mon espoir le plus doux ?
-Condamnez une ingrate.
-
--*who_andromede
-Condamnez un amant jaloux.
-
--*who_phinee
-Persée a su lui plaire, et d'une vaine excuse
-Elle veut éblouir mon amour outragé.
-Elle m'aimait... Non, je m'abuse,
-Non, puisqu'elle a si tôt changé,
-Jamais son coeur pour moi ne fut bien engagé.
-
--*who_andromede
-Le devoir sur mon coeur vous donne un juste empire.
-Vous ne devez pas craindre un changement fatal.
-Un amant assuré d'un bonheur qu'il désire,
-Peut-il être jaloux d'un malheureux rival ?
-
--*who_phinee
-Non, je ne puis souffrir qu'il partage une chaîne
-Dont le poids me parait charmant.
-Quand vous l'accableriez du plus cruel tourment,
-Je serais jaloux de sa peine.
-Mais il ne fait point voir le dépit éclatant.
-S'il est si malheureux, sa constance m'étonne :
-L'amour que l'espoir abandonne,
-Est moins tranquille et moins constant.
-
--*who_andromede
-Quel plaisir prenez-vous à vous troubler vous-même,
-Et de quoi votre amour peut-il être alarmé ?
-Je fuis votre rival avec un soin extrême :
-Est-on accoutumé de fuir ce que l'on aime ?
-
--*who_phinee
-Vous suivez à regret la gloire et le devoir,
-En fuyant un amant à vos yeux trop aimable ;
-Vous l'avez trouvé redoutable,
-Puisque vous craignez de le voir.
-
--*who_andromede
-Tout vous fait peur, tout vous irrite ;
-Vous m'apprenez à craindre un héros glorieux,
-Je ne veux point voir son mérite ;
-Votre importun soupçon veut-il m'ouvrir les yeux ?
-
--*who_phinee
-Ah ! Si vous le flattiez de la moindre espérance,
-Le Dieu qu'il vous fait croire auteur de sa naissance ;
-Dût-il faire éclater son foudroyant courroux,
-Ne le sauverait pas de mon transport jaloux.
-
--*who_andromede
-Juste Ciel !
-
--*who_phinee
-      Vous tremblez ! Persée a su vous plaire,
-Si son péril peut vous troubler.
-
--*who_andromede
-Le ciel n'est que trop en colère,
-Et vous bravez un Dieu qui peut vous accabler.
-C'est pour vous que je dois trembler.
-
--*who_phinee
-Ne vous servez point d'artifice.
-
--*who_andromede
-Ne me faites point d'injustice :
-Je veux vous aimer, je le dois.
-
--*who_phinee
-Vous ne m'aimez pas, je le vois.
-
--*who_andromede
-Cessez de craindre.
-
--*who_phinee
-Cessez de feindre.
-
--*who_andromede_phinee
-Croyez-moi, croyez-moi.
-
--*who_merope
 Il craint autant qu'il aime ;
 Vous devez l'excuser.
 L'amour extrême
 Sert d'excuse lui-même
 Aux craintes qu'il a su causer.
 
--*who_merope_andromede_phinee
-Ah ! Que l'amour cause d'alarmes !
-Ah ! Que l'amour aurait d'attraits
-S'il ne troublait jamais
-La douceur de ses charmes ?
-Ah ! Que l'amour aurait d'attraits
-Si l'ont aimait toujours en paix !
-
--*who_andromede
-Mon devoir est pour vous, mon devoir peut suffire
-À vous faire un tranquille espoir.
-
--*who_phinee
-Ne ferez-vous jamais parler que le devoir ?
-L'amour n'a-t-il rien à me dire ?
-
--*who_andromede
-Les jeux vont commencer, plaçons nous pour les voir.
-
-**** *book_ *id_II05 *act_II *date_1682
-
--*who_cassiope
-Ô Junon ! Puissante déesse
-Qu'on ne peut assez révérer !
-J'assemble en votre nom cette aimable jeunesse,
-Que le flambeau d'Hymen doit bientôt éclairer.
-Chacun va montrer son adresse
-Pour disputer les prix que j'ai fait préparer,
-Ne gardez pas pour nous une haine implacable ;
-Si l'orgueil me rendit coupable,
-Je reconnais mon crime et veux le réparer.
-Voyez d'un regard favorable
-Les jeux qu'en votre honneur nous allons célébrer.
-
--*who_lechoeur
-Laissez calmer votre colère.
-Ô Junon, exaucez nos voeux !
-Si nous pouvions vous plaire,
-Que nous serions heureux !
-
-**** *book_ *id_II06 *act_II *date_1682
-
--*who_amphimedon
-Fuyons, nos voeux sont vains et Junon les refuse.
-De nouveaux malheureux en rochers convertis,
-Ne nous ont que trop avertis
-Qu'ils ont vu paraître Méduse.
-
--*who_corite
-Méduse revient dans ces lieux !
-
--*who_protenor
-Garde-nous de la voir, la Mort est dans ses yeux.
-Tous ensembles, en fuyant.
-Fuyons ce monstre terrible ;
-Sauvons-nous s'il est possible :
-Sauvons-nous, hâtons nos pas ;
-Fuyons un affreux trépas.
-
-**** *book_ *id_III01 *act_III *date_1682
-
--*who_cassiope
-Faut-il que contre nous tout le ciel s'intéresse ?
-Dieux ! ne puis-je espérer de vous fléchir jamais ?
-
--*who_phinee
-J'ai conduit ici la princesse.
-
--*who_merope
 Persée a ramené le roi dans ce palais.
 
--*who_phinee
-Méduse se retire, elle nous laisse en paix.
-
--*who_cassiope
-Elle peut revenir, elle peut nous surprendre.
-Junon s'obstine à se venger ;
-Contre elle aucun des dieux n'a soin de nous défendre ;
-Mon seul espoir est d'engager
-Jupiter à nous protéger.
-
--*who_phinee
-Je vous entends ; je sais quelle est votre espérance.
-Persée a beau vanter sa divine naissance,
-Après votre promesse, après la choix du roi,
-Andromède doit être à moi.
-
--*who_cassiope
-Le ciel punit mon crime ; il est inexorable.
-J'ai besoin de secours dans un mortel effroi.
-
--*who_phinee
-Ah ! si le ciel est équitable,
-Vous trouverait-il moins coupable
-Si vous m'aviez manqué de foi ?
-
--*who_merope
 Il est aimé de ce qu'il aime ;
 Vous avec approuvé ses voeux :
 Briserez-vous des noeuds
@@ -544,67 +340,6 @@ Que le désespoir est affreux
 Pour un amour extrême,
 Qui s'était flatté d'être heureux !
 
--*who_phinee_merope
-Briserez-vous des noeuds
-Que vous avez formés vous-même ?
-
-**** *book_ *id_III02 *act_III *date_1682
-
--*who_phinee
-Seigneur, vous m'avez destiné
-À l'hymen fortuné
-De l'aimable Andromède.
-A l'amour de Persée on veut que je la cède ;
-M'ôterez-vous un bien que vous m'avez donné ?
-
--*who_cephee
-Au fils de Jupiter on peut céder sans honte.
-
--*who_phinee
-Et croyez-vous aussi la fable qu'il raconte ?
-Croyez-vous qu'un dieu souverain,
-Qui sur tout l'univers préside,
-Se laisse par l'amour changer en or liquide
-Pour entrer en secret dans une tour d'airain ?
-Par ce prodige imaginaire,
-Persée est révéré du crédule vulgaire :
-Il se dit fils du dieu dont le ciel suit la loi ;
-Mais je ne prétends pas l'en croire sur sa foi.
-
--*who_cephee
-Votre incrédulité n'aura donc plus d'excuse,
-Mon frère ; sa valeur va vous ouvrir les yeux.
-Reconnaissez le fils du plus puissant des dieux :
-Il offre de couper le tête de Méduse.
-
--*who_merope_cassiope_phinee
-La tête de Méduse ! Ô cieux !
-
--*who_cephee
-Ma fille est le prix qu'il demande.
-
--*who_cassiope_cephee
-Quel prix peut trop payer cet effort glorieux ?
-
--*who_phinee
-Le succès n'est pas sûr, souffrez que je l'attends :
-Souffrez que cependant mon amour se défendre
-D'abandonner un bien si précieux ;
-Persée encor n'est pas victorieux.
-
-**** *book_ *id_III03 *act_III *date_1682
-
--*who_cephee
-L'espoir dans nos coeurs doit renaître...
-Dieux, que Junon engage à servir son courroux,
-Dieux irrités, apaisez-vous !
-La vengeance du ciel n'a que trop au paraître.
-Le fils de Jupiter veut combattre pour nous :
-Ô ciel ! favorisez le fils de votre maître.
-
-**** *book_ *id_III04 *act_III *date_1682
-
--*who_merope
 Hélas ! Il va périr ! Dois-je en trembler ? Pourquoi
 Pour l'amant d'Andromède ai-je pris tant d'effroi ?
 Faut-il que mon dépit s'oublie ?
@@ -615,57 +350,18 @@ Quand je le vois chercher un horrible trépas,
 Sans songer qu'il ne m'aime pas,
 Je sens seulement que je l'aime.
 
-**** *book_ *id_III05 *act_III *date_1682
-
--*who_andromede
-Infortunés, qu'un monstre affreux
-A changés en rochers par ses regards terribles,
-Vous ne ressentez plus vos destins rigoureux,
-Et vos coeurs endurcis sont pour jamais paisibles.
-Hélas ! les coeurs sensibles
-Sont mille fois plus malheureux.
-
--*who_merope
 Andromède semble interdite ;
 Elle vient rêver en ces lieux :
 Ah ! je reconnais dans ses yeux
 Le même trouble qui m'agite.
 
--*who_andromede
-Il ne m'aime que trop, et tout me sollicite
-De l'aimer à mon tour ;
-C'est du plus grand des dieux qu'il a reçu le jour.
-Dans nos périls mortels l'amour le précipite :
-Le moyen de tenir contre tant de mérite,
-Et contre tant d'amour ?
-
--*who_merope
 Ah ! Vous aimez Persée ; il cause vos alarmes ;
 N'en désavouez point vos larmes :
 Vos tendres sentiments se sont trop exprimés.
 Vous l'aimez.
 
--*who_andromede
-Vous l'aimez.
-L'espoir de son hymen avait charmé votre âme,
-Et je sais les projet que vous aviez formés :
-Je vois que le dépit n'éteint pas votre flamme ;
-Persée est en péril, et vous vous alarmez.
 Vous l'aimez.
 
--*who_merope
-Vous l'aimez.
-
--*who_andromede_merope
-Ah ! Qu'un tendre coeur est à plaindre
-D'être réduit à feindre !
-Quel tourment ne fait point souffrir
-Un malheureux amour que l'on ne peut éteindre,
-Et que l'on n'ose découvrir ?
-Ah ! qu'un tendre coeur est à plaindre
-D'être réduit à feindre !
-
--*who_merope
 Il est vrai, le dépit veut en vain m'animer ;
 Je sens que la pitié désarme ma colère.
 Persée est un ingrat qui ne me peut aimer ;
@@ -673,417 +369,18 @@ Il n'a pas laissé de me plaire.
 Il vous a trop aimée, hélas !
 Comment ne l'aimeriez-vous pas ?
 
--*who_andromede
-L'amour qu'il a pour moi l'engage
-À chercher à se perdre avec empressement :
-Ne me reprochez point ce funeste avantage ;
-Je le paierai bien chèrement.
-
--*who_merope
 Unissons nos regrets, le même amour nous lie.
 Qu'importe à qui de nous Persée offre ses voeux !
 Nous allons perdre toutes deux ;
 Son péril nous réconcilie.
 
--*who_andromede_merope
-Ce héros s'expose pour nous :
-Sa perte est infaillible,
-Ah ! Qu'il vive, s'il est possible,
-Quand il vivrait pour vous.
-
--*who_andromede
-Il faut que mon amour se cache et de trahisse...
-Ô ciel ! Il va parti ! Il me chercher en ces lieux.
-
--*who_merope
 Je veux m'épargner le supplice
 D'être témoin de vos adieux.
 
-**** *book_ *id_III06 *act_III *date_1682
-
--*who_persee
-Belle princesse, enfin vous souffrez ma présence.
-
--*who_andromede
-Seigneur, on me l'ordonne, et je suis mon devoir.
-
--*who_persee
-Vous voulez me faire savoir
-Que je ne dois ce bien qu'à votre obéissance.
-N'importe, rien ne peut ébranler ma constance.
-J'ai su jusqu'à ce jour vous aimer sans espoir.
-Je vais avec plaisir prendre notre défense,
-Quand j'aurais pour récompense
-Que la seule douceur que je sens à vous voir.
-
--*who_andromede
-Non, ne vous flattez pas ; je peux ne vous rien taire :
-Vous m'aimez vainement ; Phinée a su ma plaire ;
-Il est choisi pour être mon époux ;
-Nos deux coeurs sont unis ; quel prix espérez-vous
-D'une entreprise dangereuse ?
-Quand nous seriez dangereuse ?
-Quand vous seriez vainqueur, votre âme est généreuse,
-Et vous ne voudrez pas rompre des noeuds si doux.
-
--*who_persee
-Je serai malheureux, désespéré, jaloux ;
-Mais je mourrai content si vous vivez heureuse.
-
--*who_andromede
-Ô dieux !
-
--*who_persee
-      De mes regards vos beaux yeux sont blessés ;
-Vous souffrez à me voir, mon amour vous outrage.
-Je vais chercher Méduse, et je vous aime assez
-Pour ne vous pas contraindre à souffrir davantage.
-
--*who_andromede
-Quoi ! pour jamais vous me quittez !
-Persée, arrêtez, arrêtez.
-
--*who_persee
-Qu'entends-je ? Ô cieux : belle princesse !
-Que vois-je ? vous versez des pleurs !
-
--*who_andromede
-Ah ! par l'excès de mes douleurs
-Connaissez, s'il se peut, l'excès de ma tendresse.
-Voyez à quoi j'avais recours
-Pour vous ôter l'ardeur qui vous fait entreprendre
-Un combat funeste à vos jours.
-Hélas ! que l'ai-je pu me rendre
-Indigne de votre secours ?
-Que n'êtes-vous magnanime ?
-Méduse d'un regard porte un trépas certain.
-
--*who_persee
-Vous pourriez être sa victime.
-
--*who_andromede
-Tout l'effort des mortels contre elle serait vain.
-
--*who_persee
-Le fils de Jupiter, lorsque l'amour l'anime,
-Doit aller au delà de tout l'effort humain.
-
--*who_andromede
-Par les frayeurs d'un amour tendre
-Ne serez-vous point désarmé ?
-
--*who_persee
-J'ignorais votre amour, et j'aillais vous défendre ;
-Puis-je à vous secourir être moins animé,
-Quand je sais que je suis aimé ?
-
--*who_andromede
-Quoi ! vous partez ?
-
--*who_persee
-L'amour m'appelle.
-
--*who_andromede
-Vous méprisez mes pleurs ! Mes cris sont superflus !
-
--*who_persee
-Vous me verrez comblé d'une gloire immortelle.
-
--*who_andromede
-Hélas ! nous ne vous verrons plus !
-
--*who_persee_andromede
-Ah ! Le péril est extrême !
-Je vois votre danger, je ne vois pas le mien..
-Dieux ! sauvez ce que j'aime !
-Et pour moi-même
-Je ne demande rien.
-Dieux ! sauvez ce que j'aime !
-
-**** *book_ *id_III07 *act_III *date_1682
-
--*who_mercure
-Persée, où courez-vous ? qu'allez-vous entreprendre ?
-
--*who_persee
-Un peuple infortuné m'engage à le défendre ;
-C'est à la gloire que je cours.
-Si je meurs, mon trépas sera digne d'envie ;
-Je laisse le soin de mes jours
-Au dieu qui m'a donné la vie.
-
--*who_mercure
-Ce dieux juste et puissant favorise vos voeux,
-Et c'est par ma voix qu'il s'explique :
-Il reconnaît son sang à l'effort généreux
-Que vous allez tenter, d'une ardeur héroïque,
-Pour secourir des malheureux ;
-Mais ce n'est point en téméraire
-Qu'il faut dans le péril précipiter vos pas.
-L'assistance des dieux vous sera nécessaire :
-Ils veulent vous l'offrir, ne le négligez pas.
-Je viens d'apprendre à toute la nature
-Que Jupiter s'intéresse à vos jours :
-La jalouse Junon vainement en murmure,
-Et tout, jusqu'aux enfers, vous promet du secours.
-
-**** *book_ *id_III08 *act_III *date_1682
-
--*who_undescyclopes
-C'est pour vous que Vulcain, de ses mains immortelles ;
-A forgé cette épée et préparé ces ailes.
-Hâtez-vous de vous signaler
-Par une célèbre victoire :
-Chacun doit aller à la gloire ;
-Mais un héros y doit voler.
-
-**** *book_ *id_III09 *act_III *date_1682
-
--*who_nympheguerriere
-Le plus vaillant guerrier s'abuse
-D'oser tout espérer de l'effort de son bras.
-Si vous voulez vaincre Méduse,
-Portez le bouclier de la sage Pallas.
-Que la valeur et la prudence,
-Quand elles sont d'intelligence,
-Achèvent d'exploits glorieux !
-Le monstre le plus furieux
-Leur fait vainement résistance.
-La paix ne peut régner que par leur assistance ;
-L'univers leur doit son bonheur.
-Rien ne peux mieux donner un immortel honneur
-Que la valeur et la prudence,
-Quand elles sont d'intelligence.
-
-**** *book_ *id_III10 *act_III *date_1682
-
--*who_diviniteinfernale
-Ce casque vous est présenté
-Au nom du souverain de l'empire des Ombres.
-Au milieu du péril, pour votre sûreté,
-Il répandra sur vous l'épaisse obscurité
-Qui règne en nos demeures sombres.
-Ce don mystérieux doit apprendre aux humains
-Comme on peut s'assurer d'un succès favorable :
-Il faut cacher de grands desseins
-Sous un secret impénétrable.
-
--*who_mercure,choeursdecyclopes,nymphesguerrieres,divinitesinfernales
-Que l'enfer, la terre et les cieux,
-Votre généreuse entreprise !
-Que l'enfer, la terre et les cieux,
-Que tout l'univers favorise
-Le fils du plus puissant des lieux !
-
--*who_mercure
-Votre conduite à mes soins est commise.
-L'impatience éclate dans vos yeux ;
-La gloire qui vous est promise
-Ne peut plus souffrir de remise.
-Suivez-moi ; partons de ces lieux.
-
--*who_leschoeurs
-Que l'enfer, la terre et les cieux, etc.
-
-**** *book_ *id_IV01 *act_IV *date_1682
-
--*who_meduse
-J'ai perdu la beauté qui me rendit si vaine :
-Je n'ai plus ces cheveux si beaux
-Dont autrefois le dieu des eaux
-Sentit lier son coeur d'une si douce chaîne.
-Pallas, la barbare Pallas,
-Fut jalouse de mes appas,
-Et me rendit affreuse autant que j'étais belle ;
-Mais l'excès étonnant de la difformité
-Dont me punit sa cruauté,
-Fera connaître, en dépit d'elle,
-Quel fut l'excès de ma beauté.
-Je ne puis trop montrer sa vengeance cruelle ;
-Ma tête est fière encor d'avoir pour ornement
-Des serpents dont le sifflement
-Excite une frayeur mortelle.
-Je porte l'épouvante et la mort en tous lieux ;
-Tout se change en rocher à mon aspect horrible :
-Les traits que Jupiter lance du haut des cieux
-N'ont rien de si terrible
-Qu'un regard de mes yeux.
-Les plus grands dieux du ciel, de la terre et de l'onde,
-Du soin de se venger se reposent sur moi :
-Si je perds la douceur d'être l'amour du monde,
-J'ai le plaisir nouveau d'en devenir l'effroi.
-
--*who_meduse,euryale,stenone
-Ô le doux emploi, pour la rage,
-De causer un affreux ravage.
-Heureuse la fureur
-Qui remplit l'univers d'horreur !
-Dans ce triste séjour qui peut nous faire entendre
-Le doux bruit qui nous vient surprendre ?
-Jamais ici mortel avec impunité
-Ne porta sa vue indiscrète.
-Quels concerts ! quelle nouveauté !
-Qui peut chercher l'horreur secrète
-De notre fatale retraite... ?
-C'est Mercure qui vient dans cet antre écarté.
-
-**** *book_ *id_IV02 *act_IV *date_1682
-
--*who_meduse
-Mon terrible secours vous est-il nécessaire ?
-De superbes mortels osent-ils vous déplaire ?
-Faut-il vous en venger ? Faut-il armer contre eux
-Le funeste courroux de mes serpents affreux ?
-Où faut-il que ma fureur vole ?
-Vous n'avez qu'à nommer l'empire malheureux
-Que vous voulez que je désole.
-
--*who_mercure
-C'est toujours mon plus cher désir
-De voir tout l'univers dans une paix profonde.
-Ne vous lassez-vous point du barbare plaisir
-De troubler le repos du monde !
-
--*who_meduse
-Puis-je causer jamais des malheurs assez grands
-Au gré de la fureur qui de mon coeur s'empare ?
-C'est des dieux que j'apprends
-À devenir barbare.
-
--*who_mercure
-Il est vrai qu'un fatal courroux
-A trop éclaté contre vous ;
-Vous n'avez eu que trop de charmes.
-Sans Pallas, sans ses rigueurs,
-Vous n'auriez troublé les coeurs
-Que par de douces alarmes.
-
--*who_meduse
-Que sert-il de m'entretenir
-D'un bien trop tôt passé, qui ne peut revenir ?
-Je n'en ressens que trop la perte irréparable !
-Ah ! quand on se trouve effroyable,
-Que c'est un cruel souvenir
-De songer que l'on fut aimable !
-
--*who_mercure
-Je ne puis, dans votre malheur,
-Vous offrir qu'un sommeil paisible.
-
--*who_meduse
-Avec une vive douleur
-Le repos est incompatible.
-
--*who_mercure
-Ô tranquille sommeil, que vous êtes charmant !
-Que vous faites sentir un doux enchantement
-Dans la plus triste solitude !
-Votre divin pouvoir calme l'inquiétude
-Vous savez adoucir le plus cruel tourment.
-Ô tranquille sommeil, que vous êtes charmant !
-Jouissez du repos dans ce lieux solitaire.
-
--*who_meduseeuryalestenone
-Non, ce n'est que pour la colère
-Que nos coeurs malheureux sont faits :
-Non, le repos ne peut nous plaire ;
-Nous y renonçons pour jamais.
-Non, ce n'est que pour la colère, etc.
-
--*who_mercure
-Il faut céder, il faut vous rendre
-Au charme qui va vous surprendre.
-
--*who_meduseeuryalestenone
-Il faut nous rendre malgré nous
-Au charme d'un sommeil trop doux.
-
-**** *book_ *id_IV03 *act_IV *date_1682
-
--*who_mercure
-Persée, approchez-vous ; Méduse est endormie.
-Avancez sans bruit ; surprenez
-Une si terrible ennemie.
-Si vous osez la voir, c'est fait de votre vie.
-
--*who_persee
-Je suivrai les conseils que vous m'avez donnés.
-
--*who_mercure
-Je vous laisse au milieu d'un péril redoutable ;
-Je ne puis plus rien pour vos jours ;
-Cherchez votre dernier secours
-Dans un courage inébranlable.
-
--*who_persee
-Un prix qui me doit charmer
-M'est offert par la Victoire :
-Quel péril peut m'alarmer ?
-L'amour et la gloire
-S'unissent pour m'animer.
-
-**** *book_ *id_IV04 *act_IV *date_1682
-
--*who_persee
-Le monde est délivré d'un monstre si terrible ;
-Le ciel s'est servi de mon bras.
-
--*who_euryalestenone
-Tu fais périr Méduse ! Ah ! Traître ! Tu mourras..
-Qu'il meure d'un trépas horrible !
-Mais qui peut le rendre invisible... ?
-Méduse après sa mort trouble encor l'univers ;
-C'est son sang qui produit tant de monstres divers,
-Monstres, cherchez votre victime ;
-Vengez le sang qui vous anime,
-Servez nos fureurs, armez-vous ;
-Vengeons Méduse ; vengeons-nous.
-
-**** *book_ *id_IV05 *act_IV *date_1682
-
--*who_mercure
-Persée allez, volez où l'amour vous appelle...
-Gorgones, désormais vous serez sans pouvoir :
-Ce lieu n'est pas pour vous un séjour assez noir,
-Venez dans la nuit éternelle.
-
--*who_euryalestenone
-Des gouffres profonds sont ouverts :
-Ah ! Nous tombons dans les enfers.
-
-**** *book_ *id_V01 *act_V *date_1682
-
--*who_troupeethiopiens
-Courons, courons tous admirer
-Le vainqueur de Méduse.
-
--*who_phinee
-Persée est de retour, chacun court l'honorer ;
-Et le bonheur public va me désespérer !
-Non, non, il n'est plus temps qu'un vain espoir m'abuse.
-
--*who_secondetroupeethiopiens
-Courons, courons tous admirer
-Le vainqueur de Méduse.
-
--*who_merope
 Allons en secret soupirer :
 Non, je ne puis plus me montrer,
 Triste comme je suis, interdite et confuse.
 
--*who_troisiemetroupeethiopiens
-Courons, courons tous admirer
-Le vainqueur de Méduse.
-
-**** *book_ *id_V02 *act_V *date_1682
-
--*who_phinee
-Nous ressentons mêmes douleurs,
-Fuyons une foule importune :
-D'une plainte commune
-Déplorons nos communs malheurs.
-
--*who_merope
 Que l'amour a pour moi de chagrins et d'alarmes.
 Que Persée à mon coeur coûte de déplaisirs !
 Son départ, ses dangers m'ont fait verser des larmes,
@@ -1097,205 +394,156 @@ S'apercevoir de mon empressement,
 Et tous les soins de mon amour extrême
 N'ont pas été payés d'un regard seulement.
 
--*who_phinee
-Que le ciel pour Persée est prodigue en miracles !
-Qui n'eût pas cru qu'un monstre furieux
-M'aurait débarrassé d'un rival odieux.
-Cependant, malgré mille obstacles,
-Mon rival est victorieux.
-Il s'est fait des routes nouvelles :
-Il a volé pour hâter son retour ;
-Et Mercure et l'Amour
-Ont pris soin à l'envi de lui prêter des ailes.
-Le peuple croit lui tout devoir :
-On entend de son nom retentir ce rivage,
-Le roi s'est empressé d'honorer son courage,
-Chacun jusqu'en ces lieux l'est venu recevoir.
-Qu'Andromède a paru contente de la voir !
-Quel triomphe pour lui ! quel charmant avantage !
-Et pour moi quelle rage,
-Et quel horrible désespoir !
-
--*who_phinee_merope
-Les vents impétueux s'échappent de la chaîne
-Qui le forçait d'être en repos.
-Une tempête soudaine
-Soulève les flots...
-Mer vaste, mer profonde,
-Dont les flots sont émus par les vents en courroux,
-Les coeurs amoureux et jaloux
-Sont plus agites que votre onde ;
-Les coeurs amoureux et jaloux
-Sont cent fois plus troublés que vous.
-
-**** *book_ *id_V03 *act_V *date_1682
-
--*who_idas_ethiopiens
-Ô ciel inexorable !
-Ô malheur déplorable !
-
--*who_phinee_merope
-Qui pourrait traverses ces trop heureux amants ?
-D'où naissent vos gémissements ?
-
--*who_idas
-L'implacable Junon cause notre infortune ;
-Elle arme contre nous l'empire de Neptune ;
-Un monstre en doit sortir, qui viendra dévorer
-L'innocente Andromède ;
-Et Thétis et ses soeurs viennent de déclarer
-Qu'il n'est plus permis d'espérer
-De voir finir nos maux sans ce cruel remède.
-Les Tritons ont saisi la princesse à nos yeux ;
-Et le pouvoir des dieux
-Nous a rendus tous immobiles.
-C'est sur ces bords qu'au monstre on la doit exposer.
-Pour son secours Persée en vain veut tout oser ;
-Ses efforts seront inutiles :
-Il faut céder aux dieux ; il faut céder au sort
-Dont Andromède est poursuivie.
-Croyait-on voir fini une si belle vie
-Par une si terrible mort ?
-
--*who_idas_ethiopiens
-Ô sort inexorable !
-Ô malheur déplorable !
-Princesse infortunée, hélas !
-Vous méritiez un sort plus favorable ;
-Vous ne mériteriez pas
-Un si cruel trépas...
-Ô sort inexorable !
-Ô malheur Déplorable !
-
--*who_phinee
-Les dieux ont soin de nous venger :
-Le plaisir que je sens avec peine se cache.
-
--*who_merope
 Verrez-vous sans douleur Andromède en danger ?
 
--*who_phinee
-Est-ce à moi que la mort l'arrache ?
-C'est à Persée à s'affliger.
-L'amour meurt dans mon coeur, la rage lui succède ;
-J'aime mieux voir un monstre affreux
-Dévorer l'ingrate Andromède,
-Les appas, les douceurs d'une amour mutuelle,
-Sont de mon sort fatal les plus terribles coups ;
-Le fils de Jupiter eût été mon époux ;
-Ah ! Que ma vie eût été belle !
-Dieux ! Qui me destinez une mort si cruelle, etc.
+Ô mort ! Venez finir mon destin déplorable.
+Ma rivale jouit d'un sort trop favorable,
+Et je souffrirais trop, si je ne mourais pas.
+Son bonheur m'a rendu le jour insupportable ;
+La nuit affreuse du trépas
+Me paraît moins épouvantable.
+Ô mort ! Venez finir mon destin déplorable.
+Hélas ! Funeste mort, hélas !
+Pour les coeurs fortunés vous êtes effroyable ;
+Mais vos horreurs ont des appas
+Pour un coeur que l'amour a rendu misérable.
+Ô mort ! Venez finir mon destin déplorable.
 
--*who_triton
-Tremblez, superbe reine...
-Tremblez, mortels audacieux :
-Que votre orgueil apprenne
-Combien votre grandeur est vaine,
-Tremblez, mortels audacieux :
-Redoutez le courroux des dieux.
+Du secours de Junon que faut-il qu'on espère ?
+Persée a triomphé deux fois de son courroux.
 
--*who_cassiope
-Ah ! Quelle vengeance inhumaine !
+Persée, il n'est plus temps de garder le silence :
+J'avais cru vouloir votre mort ;
+Mais mon coeur avec vous est trop d'intelligence,
+Et, prêtre à me venger, je ressens un transport
+Cent fois plus pressant et plus fort
+Que le transport de la vengeance.
+Votre rival approche, il en veut à vos jours :
+Mille ennemis vous environnent.
+Évitez leur fureur, servez-vous du secours
+Que les dieux propices vous donnent.
+Volez ne trouverez plus d'autres chemins ouverts.
 
--*who_cephee
-Andromède !
+Sauvez-vous ; profitez de mes avis fidèles :
+C'est à fuir seulement que vous devez songer.
 
--*who_cassiope
-      Ma fille !
 
--*who_andromede
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_andromede
+
+Cessez de craindre.
+
+Je veux vous aimer, je le dois.
+
+Cessez de craindre.
+
+Sans raison son chagrin éclate.
+
+Condamnez un amant jaloux.
+
+Le devoir sur mon coeur vous donne un juste empire.
+Vous ne devez pas craindre un changement fatal.
+Un amant assuré d'un bonheur qu'il désire,
+Peut-il être jaloux d'un malheureux rival ?
+
+Quel plaisir prenez-vous à vous troubler vous-même,
+Et de quoi votre amour peut-il être alarmé ?
+Je fuis votre rival avec un soin extrême :
+Est-on accoutumé de fuir ce que l'on aime ?
+
+Tout vous fait peur, tout vous irrite ;
+Vous m'apprenez à craindre un héros glorieux,
+Je ne veux point voir son mérite ;
+Votre importun soupçon veut-il m'ouvrir les yeux ?
+
+Juste Ciel !
+
+Le ciel n'est que trop en colère,
+Et vous bravez un Dieu qui peut vous accabler.
+C'est pour vous que je dois trembler.
+
+Ne me faites point d'injustice :
+Je veux vous aimer, je le dois.
+
+Cessez de craindre.
+
+Mon devoir est pour vous, mon devoir peut suffire
+À vous faire un tranquille espoir.
+
+Les jeux vont commencer, plaçons nous pour les voir.
+
+Infortunés, qu'un monstre affreux
+A changés en rochers par ses regards terribles,
+Vous ne ressentez plus vos destins rigoureux,
+Et vos coeurs endurcis sont pour jamais paisibles.
+Hélas ! les coeurs sensibles
+Sont mille fois plus malheureux.
+
+Il ne m'aime que trop, et tout me sollicite
+De l'aimer à mon tour ;
+C'est du plus grand des dieux qu'il a reçu le jour.
+Dans nos périls mortels l'amour le précipite :
+Le moyen de tenir contre tant de mérite,
+Et contre tant d'amour ?
+
+Vous l'aimez.
+L'espoir de son hymen avait charmé votre âme,
+Et je sais les projet que vous aviez formés :
+Je vois que le dépit n'éteint pas votre flamme ;
+Persée est en péril, et vous vous alarmez.
+Vous l'aimez.
+
+L'amour qu'il a pour moi l'engage
+À chercher à se perdre avec empressement :
+Ne me reprochez point ce funeste avantage ;
+Je le paierai bien chèrement.
+
+Il faut que mon amour se cache et de trahisse...
+Ô ciel ! Il va parti ! Il me chercher en ces lieux.
+
+Seigneur, on me l'ordonne, et je suis mon devoir.
+
+Non, ne vous flattez pas ; je peux ne vous rien taire :
+Vous m'aimez vainement ; Phinée a su ma plaire ;
+Il est choisi pour être mon époux ;
+Nos deux coeurs sont unis ; quel prix espérez-vous
+D'une entreprise dangereuse ?
+Quand nous seriez dangereuse ?
+Quand vous seriez vainqueur, votre âme est généreuse,
+Et vous ne voudrez pas rompre des noeuds si doux.
+
+Ô dieux !
+
+Quoi ! pour jamais vous me quittez !
+Persée, arrêtez, arrêtez.
+
+Ah ! par l'excès de mes douleurs
+Connaissez, s'il se peut, l'excès de ma tendresse.
+Voyez à quoi j'avais recours
+Pour vous ôter l'ardeur qui vous fait entreprendre
+Un combat funeste à vos jours.
+Hélas ! que l'ai-je pu me rendre
+Indigne de votre secours ?
+Que n'êtes-vous magnanime ?
+Méduse d'un regard porte un trépas certain.
+
+Tout l'effort des mortels contre elle serait vain.
+
+Par les frayeurs d'un amour tendre
+Ne serez-vous point désarmé ?
+
+Quoi ! vous partez ?
+
+Vous méprisez mes pleurs ! Mes cris sont superflus !
+
+Hélas ! nous ne vous verrons plus !
+
       Ô cieux !
 
--*who_cassiope
-Que les dieux sont cruels ! Qu'ils sont ingénieux
-À faire ressentir leur haine !
-
--*who_cephee
-Andromède !
-
--*who_cassiope
-      Ma fille !
-
--*who_andromede
       Ô cieux !
 
--*who_cephee_cassiope_ethiopiens
-Le monstre approche de ces lieux,
-Ah, quelle vengeance inhumaine !
-
--*who_nereides_tritons
-Tremblez, mortels audacieux, etc.
-
--*who_andromede
 Je ne vois point Persée, et je flattais ma peine
 Du triste espoir de mourir à ses yeux.
 
--*who_cephee_cassiope_ethiopiens
-Voyez voler ce héros glorieux.
-
-**** *book_ *id_V04 *act_V *date_1682
-
--*who_cassiopecephee
-Ah ! quel effroyable supplice !
-Dieux, ô dieux ! quelle cruauté !
-Je perds ma fille, hélas !
-Le ciel propice
-Me la donna pour ma félicité,
-Aujourd'hui le Ciel irrité
-Veut qu'un monstre me la ravisse.
-Ciel ! Que j'ai toujours respecté
-Ne m'avez-vous longtemps conservé la clarté
-Que pour me faire voir cet affreux sacrifice ?
-Ah ! Quel effroyable supplice !
-Dieux, ô dieux ! Quelle cruauté !
-C'est ma funeste vanité,
-C'est mon crime, grands dieux !
-Qu'il faut que l'on punisse.
-Ma fille n'est pas complice,
-Et vos foudres vengeurs contre elle ont éclaté !
-Dieux ! Pouvez-vous vouloir qu'Andromède périsse ?
-Sa jeunesse ni sa beauté
-N'ont-elles rien qui vous fléchisse ?
-La vertu, l'innocence a-t-elle mérité
-Les rigueurs de votre justice ?
-
--*who_cephee
-Ah ! quel effroyable supplice !
-Dieux, ô dieux ! quelle cruauté !
-
-**** *book_ *id_V05 *act_V *date_1682
-
--*who_cassiopecephee
-Que j'expire en mourant un si funeste crime.
-
--*who_cassiope
-Que par pitié j'obtienne une mort légitime.
-Cruels ! n'attachez pas ma fille à ce rocher,
-C'est moi qu'il y faut attacher !
-
--*who_choeur
-Divinités des Flots,
-Quel courroux vous anime
-Contre une innocente victime ?
-
--*who_cassiopecephee
-Divinités des Flots,
-Quel courroux vous anime
-Contre une innocente victime ?
-
--*who_choeur
-C'est notre unique espoir,
-Faut-il vous l'arracher ?
-Nos voeux, nos pleurs, nos cris,
-Rien ne vous peut toucher
-
--*who_cassiopecephee
-C'est notre unique espoir,
-Faut-il vous l'arracher ?
-Nos voeux, nos pleurs, nos cris,
-Rien ne vous peut toucher
-
--*who_andromede
 Dieux ! Qui me destinez une mort si cruelle
 Hélas ! Pourquoi flattiez-vous
 De l'espoir d'un destin si doux ?
@@ -1322,169 +570,141 @@ Combien votre grandeur est vaine :
 Tremblez mortels audacieux !
 Redoutez le courroux de Dieux
 
--*who_choeurdestritons
-Tremblez mortels audacieux !
-Redoutez le courroux de Dieux
-
--*who_cassiope
-Ah ! Quelle vengeance inhumaine !
-
--*who_cephee
-Andromède !
-
--*who_cassiope
-      Ma fille !
-
--*who_andromede
       Ô cieux !
 
--*who_cassiope
-Que les dieux sont cruels ! qu'ils sont ingénieux
-À faire ressentir leur haine !
-
--*who_cephee
-Andromède !
-
--*who_cassiope
-      Ma fille !
-
--*who_andromede
       Ô cieux !
 
--*who_cephee_cassiope_ethiopiens
-Le monstre approche de ces lieux,
-Ah, quelle vengeance inhumaine !
-
--*who_nereides_tritons
-Tremblez, mortels audacieux, etc.
-
-**** *book_ *id_V06 *act_V *date_1682
-
--*who_andromede
 A s'exposer pour moi c'est en vain qu'il s'obstine.
 
--*who_nereides_tritons
-Téméraire Persée, arrêtez ; respectez
-La vengeance divine.
 
--*who_cephee_cassiope_ethiopiens
-Magnanime héros, combattez, remportez
-Le prix que l'amour vous destine.
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
 
--*who_nereides_tritons
-Le fils de Jupiter brave notre courroux.
+Cessez de feindre.
 
--*who_tousensemble
-Le monstre expire sous ses coups.
+Vous ne m'aimez pas, je le vois.
 
--*who_nereide_triton
-Junon a vainement cherché notre assistance ;
-Nous nous vantions en vain d'achever sa vengeance.
-Et Persée a pour lui des dieux plus forts que nous,
+Cessez de feindre.
 
--*who_nereides_tritons
-Descendons sous les ondes :
-Notre honte se doit cacher ;
-Allons chercher
-Des retraites profondes,
-Descendons sous les ondes.
+Perdrai-je sans chagrin mon espoir le plus doux ?
+Condamnez une ingrate.
 
-**** *book_ *id_V07 *act_V *date_1682
+Persée a su lui plaire, et d'une vaine excuse
+Elle veut éblouir mon amour outragé.
+Elle m'aimait... Non, je m'abuse,
+Non, puisqu'elle a si tôt changé,
+Jamais son coeur pour moi ne fut bien engagé.
 
--*who_ethiopiens
-Le monstre est mort ; Persée en est vainqueur ;
-Persée est invincible.
+Non, je ne puis souffrir qu'il partage une chaîne
+Dont le poids me parait charmant.
+Quand vous l'accableriez du plus cruel tourment,
+Je serais jaloux de sa peine.
+Mais il ne fait point voir le dépit éclatant.
+S'il est si malheureux, sa constance m'étonne :
+L'amour que l'espoir abandonne,
+Est moins tranquille et moins constant.
 
--*who_cephee_cassiope
-Quand l'amour anime un grand coeur,
-Il ne trouve rien d'impossible.
+Vous suivez à regret la gloire et le devoir,
+En fuyant un amant à vos yeux trop aimable ;
+Vous l'avez trouvé redoutable,
+Puisque vous craignez de le voir.
 
--*who_persee_andromede
-Ah ! que votre danger me paraissait terrible !
+Ah ! Si vous le flattiez de la moindre espérance,
+Le Dieu qu'il vous fait croire auteur de sa naissance ;
+Dût-il faire éclater son foudroyant courroux,
+Ne le sauverait pas de mon transport jaloux.
 
--*who_ethiopens
-Le monstre est mort, etc.
+      Vous tremblez ! Persée a su vous plaire,
+Si son péril peut vous troubler.
 
--*who_undesethiopiens
-Notre espoir allait faire naufrage ;
-Nous goûtons enfin un heureux sort.
-Quel bonheur d'échapper à l'orage !
-Quel plaisir d'en retracer l'image,
-Quand on est au port !
+Ne vous servez point d'artifice.
 
--*who_cephee
-Honorons à jamais le glorieux héros
-Qui nous donne un heureux repos.
-Sa valeur, à son gré, fait voler la victoire :
-Tour-à-tour la terre et les flots
-Sont le théâtre de sa gloire.
-Honorons à jamais, etc.
+Vous ne m'aimez pas, je le vois.
 
--*who_undesethiopiens
-Que n'aimez-vous ?
-Coeurs insensibles !
-Que n'aimez-vous ?
-Rien n'est si doux !
-Non, ne vous vantez pas d'être invincibles ;
-Les dieux, les plus grands dieux, ont aimé tous.
+Cessez de feindre.
 
--*who_lechoeur
-Que n'aimez-vous, etc.
+Ne ferez-vous jamais parler que le devoir ?
+L'amour n'a-t-il rien à me dire ?
 
--*who_undesethiopiens
-L'amour n'a plus de traits terribles
-Pour un coeur qui cède à ses coups.
+J'ai conduit ici la princesse.
 
--*who_lechoeur
-Que n'aimez-vous, etc.
+Méduse se retire, elle nous laisse en paix.
 
--*who_undesethiopiens
-Pour un amant
-Tendre et fidèle ;
-Pour un amant
-Tout est charmant.
-L'espoir nourrit ses feux ; sa chaîne est belle ;
-Il se fait un plaisir de son tourment.
+Je vous entends ; je sais quelle est votre espérance.
+Persée a beau vanter sa divine naissance,
+Après votre promesse, après la choix du roi,
+Andromède doit être à moi.
 
--*who_lechoeur
-Pour un amant, etc.
+Ah ! si le ciel est équitable,
+Vous trouverait-il moins coupable
+Si vous m'aviez manqué de foi ?
 
--*who_unedesethiopiennes
-Heureux un coeur qu'amour appelle !
-Malheureux, s'il tarde un moment !
+Seigneur, vous m'avez destiné
+À l'hymen fortuné
+De l'aimable Andromède.
+A l'amour de Persée on veut que je la cède ;
+M'ôterez-vous un bien que vous m'avez donné ?
 
--*who_lechoeur
-Pour un amant, etc.
+Et croyez-vous aussi la fable qu'il raconte ?
+Croyez-vous qu'un dieu souverain,
+Qui sur tout l'univers préside,
+Se laisse par l'amour changer en or liquide
+Pour entrer en secret dans une tour d'airain ?
+Par ce prodige imaginaire,
+Persée est révéré du crédule vulgaire :
+Il se dit fils du dieu dont le ciel suit la loi ;
+Mais je ne prétends pas l'en croire sur sa foi.
 
-**** *book_ *id_VI01 *act_VI *date_1682
+Le succès n'est pas sûr, souffrez que je l'attends :
+Souffrez que cependant mon amour se défendre
+D'abandonner un bien si précieux ;
+Persée encor n'est pas victorieux.
 
--*who_merope
-Ô mort ! Venez finir mon destin déplorable.
-Ma rivale jouit d'un sort trop favorable,
-Et je souffrirais trop, si je ne mourais pas.
-Son bonheur m'a rendu le jour insupportable ;
-La nuit affreuse du trépas
-Me paraît moins épouvantable.
-Ô mort ! Venez finir mon destin déplorable.
-Hélas ! Funeste mort, hélas !
-Pour les coeurs fortunés vous êtes effroyable ;
-Mais vos horreurs ont des appas
-Pour un coeur que l'amour a rendu misérable.
-Ô mort ! Venez finir mon destin déplorable.
+Persée est de retour, chacun court l'honorer ;
+Et le bonheur public va me désespérer !
+Non, non, il n'est plus temps qu'un vain espoir m'abuse.
 
-**** *book_ *id_VI02 *act_VI *date_1682
+Nous ressentons mêmes douleurs,
+Fuyons une foule importune :
+D'une plainte commune
+Déplorons nos communs malheurs.
 
--*who_phinee
+Que le ciel pour Persée est prodigue en miracles !
+Qui n'eût pas cru qu'un monstre furieux
+M'aurait débarrassé d'un rival odieux.
+Cependant, malgré mille obstacles,
+Mon rival est victorieux.
+Il s'est fait des routes nouvelles :
+Il a volé pour hâter son retour ;
+Et Mercure et l'Amour
+Ont pris soin à l'envi de lui prêter des ailes.
+Le peuple croit lui tout devoir :
+On entend de son nom retentir ce rivage,
+Le roi s'est empressé d'honorer son courage,
+Chacun jusqu'en ces lieux l'est venu recevoir.
+Qu'Andromède a paru contente de la voir !
+Quel triomphe pour lui ! quel charmant avantage !
+Et pour moi quelle rage,
+Et quel horrible désespoir !
+
+Les dieux ont soin de nous venger :
+Le plaisir que je sens avec peine se cache.
+
+Est-ce à moi que la mort l'arrache ?
+C'est à Persée à s'affliger.
+L'amour meurt dans mon coeur, la rage lui succède ;
+J'aime mieux voir un monstre affreux
+Dévorer l'ingrate Andromède,
+Les appas, les douceurs d'une amour mutuelle,
+Sont de mon sort fatal les plus terribles coups ;
+Le fils de Jupiter eût été mon époux ;
+Ah ! Que ma vie eût été belle !
+Dieux ! Qui me destinez une mort si cruelle, etc.
+
 Ce n'est point à des pleurs qu'il faut avoir recours.
 Junon veut qu'aujourd'hui je me venge avec elle.
 Iris, de son vouloir l'interprète fidèle,
 Vient, par son ordre exprès, de m'offrir son secours.
 
--*who_merope
-Du secours de Junon que faut-il qu'on espère ?
-Persée a triomphé deux fois de son courroux.
-
--*who_phinee
 Que ne pourra point sa colère
 Unie à mon transport jaloux ?
 Heureux qui peut goûter une douce vengeance !
@@ -1507,129 +727,120 @@ Ce superbe appareil, ces riches ornements,
 Tout ici de ma rage accroît la violence :
 Allons hâter l'éclat de nos ressentiments.
 
--*who_merope_phinee
-Heureux qui peut goûter une douce vengeance,etc. !
 
-**** *book_ *id_VI03 *act_VI *date_1682
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
--*who_legrandpretre
-Hymen ! Ô doux Hymen ! sois propice à nos voeux ;
-Viens unir ces amants fidèles,
-Viens les rendre à jamais heureux.
-Prends soin de conserver leurs ardeurs mutuelles,
-Allume en leur faveur les plus beaux de tes feux :
-Que leurs coeurs soient comblés de douceurs éternelles ;
-Qu'ils soient toujours contents et toujours amoureux.
-Charmant hymen, que tes chaînes sont belles,
-Lorsque l'amour en a formé les noeuds !
-Hymen ! Ô doux Hymen ! Sois propice à nos voeux, etc.
+Persée, où courez-vous ? qu'allez-vous entreprendre ?
 
-**** *book_ *id_VI04 *act_VI *date_1682
+Ce dieux juste et puissant favorise vos voeux,
+Et c'est par ma voix qu'il s'explique :
+Il reconnaît son sang à l'effort généreux
+Que vous allez tenter, d'une ardeur héroïque,
+Pour secourir des malheureux ;
+Mais ce n'est point en téméraire
+Qu'il faut dans le péril précipiter vos pas.
+L'assistance des dieux vous sera nécessaire :
+Ils veulent vous l'offrir, ne le négligez pas.
+Je viens d'apprendre à toute la nature
+Que Jupiter s'intéresse à vos jours :
+La jalouse Junon vainement en murmure,
+Et tout, jusqu'aux enfers, vous promet du secours.
 
--*who_merope
-Persée, il n'est plus temps de garder le silence :
-J'avais cru vouloir votre mort ;
-Mais mon coeur avec vous est trop d'intelligence,
-Et, prêtre à me venger, je ressens un transport
-Cent fois plus pressant et plus fort
-Que le transport de la vengeance.
-Votre rival approche, il en veut à vos jours :
-Mille ennemis vous environnent.
-Évitez leur fureur, servez-vous du secours
-Que les dieux propices vous donnent.
-Volez ne trouverez plus d'autres chemins ouverts.
+Votre conduite à mes soins est commise.
+L'impatience éclate dans vos yeux ;
+La gloire qui vous est promise
+Ne peut plus souffrir de remise.
+Suivez-moi ; partons de ces lieux.
 
--*who_persee
-Armons-nous ; punissons plus l'audace des rebelles.
+C'est toujours mon plus cher désir
+De voir tout l'univers dans une paix profonde.
+Ne vous lassez-vous point du barbare plaisir
+De troubler le repos du monde !
 
--*who_merope
-Sauvez-vous ; profitez de mes avis fidèles :
-C'est à fuir seulement que vous devez songer.
+Il est vrai qu'un fatal courroux
+A trop éclaté contre vous ;
+Vous n'avez eu que trop de charmes.
+Sans Pallas, sans ses rigueurs,
+Vous n'auriez troublé les coeurs
+Que par de douces alarmes.
 
--*who_persee
-Si les dieux m'ont prêté des ailes,
-Ce n'est pas pour fuir le danger.
+Je ne puis, dans votre malheur,
+Vous offrir qu'un sommeil paisible.
 
-**** *book_ *id_VI05 *act_VI *date_1682
+Ô tranquille sommeil, que vous êtes charmant !
+Que vous faites sentir un doux enchantement
+Dans la plus triste solitude !
+Votre divin pouvoir calme l'inquiétude
+Vous savez adoucir le plus cruel tourment.
+Ô tranquille sommeil, que vous êtes charmant !
+Jouissez du repos dans ce lieux solitaire.
 
--*who_phinee_sasuite
-Persée, il faut périr ; meurs, et laisse Andromède
-Au pouvoir d'un heureux rival !
+Il faut céder, il faut vous rendre
+Au charme qui va vous surprendre.
 
--*who_cephee_persee_leurssuites
-Perfides ! recevez le châtiment fatal
-De la fureur qui vous possède !
-Tous les combattants
-Cédez, cédez à notre effort ;
-Vous n'éviterez pas la mort.
+Persée, approchez-vous ; Méduse est endormie.
+Avancez sans bruit ; surprenez
+Une si terrible ennemie.
+Si vous osez la voir, c'est fait de votre vie.
 
--*who_cassiope_andromede
-Quelles horreurs ! quelles alarmes !
-Dieux ! soyez touchés de mes larmes !
-Tous les combattants
-Cédez, cédez à notre effort, etc.
+Je vous laisse au milieu d'un péril redoutable ;
+Je ne puis plus rien pour vos jours ;
+Cherchez votre dernier secours
+Dans un courage inébranlable.
 
-**** *book_ *id_VI06 *act_VI *date_1682
+Persée allez, volez où l'amour vous appelle...
+Gorgones, désormais vous serez sans pouvoir :
+Ce lieu n'est pas pour vous un séjour assez noir,
+Venez dans la nuit éternelle.
 
--*who_cephee
-Le soin de vous défendre en ces lieux me rappelle.
-Craignez tout d'un peuple rebelle ;
-Quel sang n'ose-t-il point verser ?
-Un trait, que sur Persée on a voulu lancer,
-A frappé votre soeur d'une atteinte mortelle.
-Junon, implacable pour nous,
-Anime les mutins de son fatal courroux.
-Leur rage croît, leur nombre augmente :
-Persée en vain toujours combat avec chaleur.
-Que servent les efforts qu'il tente ?
-Le nombre tôt ou tard accable la valeur.
 
-**** *book_ *id_VI07 *act_VI *date_1682
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meduse
 
--*who_phinee_sasuite
-Qu'il n'échappe pas, qu'il périsse,
-Cet étranger audacieux
-Qui prétend régner en ces lieux !
+J'ai perdu la beauté qui me rendit si vaine :
+Je n'ai plus ces cheveux si beaux
+Dont autrefois le dieu des eaux
+Sentit lier son coeur d'une si douce chaîne.
+Pallas, la barbare Pallas,
+Fut jalouse de mes appas,
+Et me rendit affreuse autant que j'étais belle ;
+Mais l'excès étonnant de la difformité
+Dont me punit sa cruauté,
+Fera connaître, en dépit d'elle,
+Quel fut l'excès de ma beauté.
+Je ne puis trop montrer sa vengeance cruelle ;
+Ma tête est fière encor d'avoir pour ornement
+Des serpents dont le sifflement
+Excite une frayeur mortelle.
+Je porte l'épouvante et la mort en tous lieux ;
+Tout se change en rocher à mon aspect horrible :
+Les traits que Jupiter lance du haut des cieux
+N'ont rien de si terrible
+Qu'un regard de mes yeux.
+Les plus grands dieux du ciel, de la terre et de l'onde,
+Du soin de se venger se reposent sur moi :
+Si je perds la douceur d'être l'amour du monde,
+J'ai le plaisir nouveau d'en devenir l'effroi.
 
--*who_cephee_cassiope_andromede
-Ciel ! Ô ciel soyez-nous propice !
+Mon terrible secours vous est-il nécessaire ?
+De superbes mortels osent-ils vous déplaire ?
+Faut-il vous en venger ? Faut-il armer contre eux
+Le funeste courroux de mes serpents affreux ?
+Où faut-il que ma fureur vole ?
+Vous n'avez qu'à nommer l'empire malheureux
+Que vous voulez que je désole.
 
--*who_phinee_sasuite
-Qu'il n'échappe, qu'il périsse !
+Puis-je causer jamais des malheurs assez grands
+Au gré de la fureur qui de mon coeur s'empare ?
+C'est des dieux que j'apprends
+À devenir barbare.
 
--*who_cephee_cassiope_andromede
-Défendez-nous, ô justes dieux !
+Que sert-il de m'entretenir
+D'un bien trop tôt passé, qui ne peut revenir ?
+Je n'en ressens que trop la perte irréparable !
+Ah ! quand on se trouve effroyable,
+Que c'est un cruel souvenir
+De songer que l'on fut aimable !
 
--*who_persee
-Ne craignez rien ; fermez les yeux,
-Je vais punir leur injustice.
-Voyez leur funeste supplice.
+Avec une vive douleur
+Le repos est incompatible.
 
--*who_cephee_cassiope_andromede
-Quel prodige ! Quel changement !
-
--*who_persee
-La tête de Méduse a fait leur châtiment...
-Cessons de redouter la fortune cruelle ;
-Le ciel nous promet d'heureux jours ;
-Vénus vient à notre secours ;
-Elle amène l'Amour et l'Hymen avec elle.
-
-**** *book_ *id_VI08 *act_VI *date_1682
-
--*who_venus
-Mortels, vivez en paix ; vos malheurs sont finis.
-Jupiter vous protège en faveur de son fils ;
-À ce dieu si puissant tous les dieux veulent plaire,
-Et Junon même enfin apaise sa colère.
-Cassiope, Céphée, et vous, heureux époux,
-Prenez place au ciel avec nous.
-Les souverains destins ordonnent
-Que des feux éclatants toujours vous environnent.
-
--*who_venus,lamour,lhymenee,choeurs
-Héros victorieux, Andromède est à vous ;
-Votre Valeur et l'Hymen vous la donnent :
-La gloire et l'Amour vous couronnent ;
-Fut-il jamais un triomphe plus doux ?
-Héros victorieux, Andromède est à vous.

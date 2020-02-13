@@ -1,6 +1,6 @@
 ---
 identifier: quinault_agrippa  
-creator: Quinault, Philippe  
+creator: Quinault, Philippe ; Georges Forestier.  
 date: 1663  
 title: Agrippa ou le Faux Tiberinus  
 ---

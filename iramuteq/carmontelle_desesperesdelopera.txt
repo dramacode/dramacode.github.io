@@ -1,568 +1,337 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursanglier
 
--*who_monsieurpillier
-Garçon ?
-
--*who_legarcon
-Monsieur Pillier, qu'est-ce qu'il y a pour votre service ?
-
--*who_monsieurpillier
-Monsieur Sanglier, est-il venu ici aujourd'hui ?
-
--*who_legarcon
-Non, Monsieur, pas encore.
-
--*who_monsieurpillier
-Et a-t-on dit quelques nouvelles ce matin ?
-
--*who_legarcon
-Non , Monsieur.
-
--*who_monsieurpillier
-Quoi, rien du tout ?
-
--*who_legarcon
-Pardonnez-moi, le feu a été dans une cheminée ici près, hier au soir.
-
--*who_monsieurpillier
-Bon, le feu dans une cheminée !
-
--*who_legarcon
-Mais, Monsieur, il était bien fort.
-
--*who_monsieurpillier
-Voilà quelque chose de rare !
-
--*who_legarcon
-Mais c'est que si le feu avait gagné ; tout le quartier aurait été brûlé.
-
--*who_monsieurpillier
-Oui, avec les pompes qu'il y a à présent ; comment voulez-vous que cela arrive ?
-
--*who_legarcon
-Oh, il est vrai qu'il n'y a plus rien à craindre.
-
--*who_monsieurpillier
-Il y a des choses bien plus intéressantes que tout cela.
-Avez-vous entendu parler de l'Opéra ?
-
--*who_legarcon
-De l'Opéra ?
-
--*who_monsieurpillier
-Oui, de l'Opéra?
-
--*who_legarcon
-Oui, Monsieur, on dit qu'il y en a un nouveau.
-
--*who_monsieurpillier
-Je le sais parbleu bien, on ne veut pas donner des anciens.
-
--*who_legarcon
-Mais les nouveaux ne dureront ils pas davantage ?
-
--*who_monsieurpillier
-Eh non vraiment !
-Malheureux Opéra !
-Et personne n'y pense !
-
--*who_legarcon
-Ah, tenez, Monsieur, voilà Monsieur Sanglier, que vous demandiez.
-
--*who_monsieurpillier
-Monsieur Sanglier ?
-
--*who_legarcon
-Oui, Monsieur.
-
--*who_monsieurpillier
-Nous allons voir ce qu'il nous dira.
-
--*who_legarcon
-Vous ne voulez rien à présent, Monsieur ?
-
--*who_monsieurpillier
-Non, non.
-
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_monsieursanglier
 Ah, bonjour, Monsieur Pillier.
 
--*who_monsieurpillier
-Eh bien, Monsieur sanglier, cette voix que vous disiez que nous aurions ?
-
--*who_monsieursanglier
 Je n'en ai pas entends dire la moindre chose, que ce que l'on nous en a dit avant hier.
 
--*who_monsieurpillier
-Et vous ne vous en êtes pas informé depuis ?
-
--*who_monsieursanglier
 Je n'en fais pas davantage : les uns me disent qu'elle est au concert de Lyon, d'autres, à Rouen ; cela n'est pas clair et c'est dommage ; car on prétend que c'était la même voix précisément que celle de Mademoiselle le Maure.
 
--*who_monsieurpillier
-Il faudrait donc qu'on y envoyât.
-
--*who_monsieursanglier
 La moitié des gens disent que l'on n'a pas besoin de ces voix-là, qu'elles ne savent que crier et qu'elles ne chantent point.
 
--*who_monsieurpillier
-Voilà comme l'Opéra français, la gloire de la Nation se perdra !
-Est-ce que vous ne voyez pas cela ?
-
--*who_monsieursanglier
 Eh, je ne le vois que trop !
 
--*who_monsieurpillier
-Il faudrait donc songer à y remédier.
-
--*who_monsieursanglier
 J'y songe aussi ; mais cette diable de Musique d'Opéra-Comique, nous écrasera tôt ou tard.
 
--*who_monsieurpillier
-Il faut pourtant prendre un parti, il n'y a pas à balancer.
-
--*who_monsieursanglier
 Si l'on pouvait donner des Opéra de Lully, il n'est pas douteux que nous reprendrions bientôt le dessus, j'en suis bien sûr, moi.
 
--*who_monsieurpillier
-Qu'on nous donne du Rameau seulement ; allons je le veux bien, je le leur passe.
-
--*who_monsieursanglier
 Du Rameau !
 
--*who_monsieurpillier
-Oui, Monsieur ; c'est toujours du véritable opéra.
-
--*who_monsieursanglier
 Si vous voulez.
 
--*who_monsieurpillier
-Il ne faut pas être si difficile.
-
--*who_monsieursanglier
 Il est vrai qu'il y a du récitatif.
 
--*who_monsieurpillier
-Et de belles scènes !
-
--*who_monsieursanglier
 Pas tant que dans Lully, voilà le vrai goût français et que je voudrais bien voir renaître, sans cela nous sommes perdus.
 
--*who_monsieurpillier
-Les ballets nous écraseront tout à fait, Monsieur, quand la Musique nouvelle ne prendrait pas le dessus.
-
--*who_monsieursanglier
 Comment faire donc ?
 
--*who_monsieurpillier
-Je n'en sais rien.
-
--*who_monsieursanglier
 Il n'y a presque plus de gens de notre parti.
 
--*who_monsieurpillier
-On ne veut que des Ariettes.
-
--*who_monsieursanglier
 Et de la Danse.
 
--*who_monsieurpillier
-Je cherche depuis longtemps quelque moyen de remédier à tout cela.
+Et moi, donc ? Je ne reste pas les bras croisés. Croyez-vous que je ne gémisse pas de cette décadence du goût ?
 
--*who_monsieursanglier
-Et moi, donc ?
-Je ne reste pas les bras croisés.
-Croyez-vous que je ne gémisse pas de cette décadence du goût ?
-
--*who_monsieurpillier
-Armide avait réussi.
-
--*who_monsieursanglier
 J'en espérais beaucoup.
 
--*who_monsieurpillier
-Il faudrait redonner Armide.
-
--*who_monsieursanglier
 Sans doute, mais faites entendre cela à tout Paris.
 
--*who_monsieurpillier
-Ils aimeront mieux tout perdre.
-
--*who_monsieursanglier
 Ils nous proposerons de mettre l'Opera-Comique à l'Opéra, et d'y joindre des ballets.
 
--*who_monsieurpillier
-Il ne faut pas le souffrir.
-
--*who_monsieursanglier
 J'y suis bien résolu.
 
--*who_monsieurpillier
-Mais comment l'empêcher ?
-
--*who_monsieursanglier
 Emparez-vous du parterre.
 
--*who_monsieurpillier
-Il n'y a plus personne de goût ?
-
--*who_monsieursanglier
 Et dans le foyer ?
 
--*who_monsieurpillier
-On y vient parler nouvelles et chevaux pendant les scènes et l'on n'en sort, que pour les Ballets.
-
--*who_monsieursanglier
 On ne pense sérieusement à rien à présent.
 
--*who_monsieurpillier
-Il n'y a que vous et moi qui nous occupions de cela.
-
--*who_monsieursanglier
 Oui, mais nous y rêvons en vain, l'Opéra sera détruit malgré nous.
 
--*who_monsieurpillier
-Voilà Monsieur Qu'importe, il faudrait le gagner, lui qui voit beaucoup de mondes.
+Bon ! Il ne se soucie de rien.
 
--*who_monsieursanglier
-Bon !
-Il ne se soucie de rien.
-
--*who_monsieurpillier
-Il faut essayer, l'Opéra ne saurait lui être indifférent, il n'en manque pas un.
-
--*who_monsieursanglier
 Eh bien, voyons ?
 
--*who_monsieurpillier
-Laissez moi faire.
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_monsieurpillier
-On voit bien qu'il n'y a pas d'Opéra, Monsieur, aujourd'hui, sans quoi on ne vous verrait sûrement pas ici.
-
--*who_monsieurquimporte
-Qu'importe ?
-Moi, je vais à l'Opéra, aux Italiens, aux Français, cela m'est égal.
-
--*who_monsieursanglier
 Mais s'il n'y avait pas d'Opéra cependant ; vous, en seriez fâché ?
 
--*who_monsieurquimporte
-Qu'importe ?
-Il y aurait autre chose, ou bien j'irais à la promenade, ces jours-là, ou je ferais des visites.
-
--*who_monsieurpillier
-Mais vous n'entendriez plus de bonne musique française.
-
--*who_monsieurquimporte
-Qu'importe ?
-J'entendrais toujours de la musique.
-
--*who_monsieursanglier
 Quoi, de la Musique d'Opéra-Comique ?
 
--*who_monsieurquimporte
-Qu'importe ?
-Si elle me faisait plaisir.
-
--*who_monsieurpillier
-Mais, c'est qu'il n'y a pas là de grandes voix.
-
--*who_monsieurquimporte
-Qu'importe ?
-Pourvu qu'on les entende, voilà tout ce qu'il faut.
-
--*who_monsieursanglier
 C'est vrai ; cependant il serait fâcheux de perdre ces beaux récitatifs de Lully.
 
--*who_monsieurquimporte
-Qu'importe ?
-N'avons-nous pas le récitatif obligé ?
-
--*who_monsieurpillier
-Ce n'est pas la même chose.
-
--*who_monsieurquimporte
-Qu'importe ?
-Quand on ne se connaît pas en musique.
-
--*who_monsieursanglier
 Sans doute ; mais je ne pense pas que vous ne vous y connaissiez point.
 
--*who_monsieurquimporte
-Qu'importe, que vous le pensiez ou non ?
-Cela n'en est pas moins vrai.
-
--*who_monsieurpillier
-C'est une plaisanterie et si vous ne vous connaissiez pas en musique, vous ne viendriez pas tous les jours à l'Opéra.
-
--*who_monsieurquimporte
-Qu'importe ?
-Moi j'y vais pour voir le monde, pour causer ou me chauffer.
-
--*who_monsieursanglier
 Quoi, Monsieur, vous n'êtes pas affligé de voir qu'un Opéra est à présent presque tout sans paroles.
 
--*who_monsieurquimporte
-Qu'importe ?
-Je ne les ai jamais entendues.
-
--*who_monsieurpillier
-Comment, vous causiez donc pendant qu'on chantait, vous ne pouviez pas prendre d'intérêt au poème.
-
--*who_monsieurquimporte
-Qu'importe ?
-Je n'ai que faire d'aller m'intéresser à tout cela, je sais seulement en gros qu'il y a deux amanTs persécutés, par deux personnes qui s'entendent ensemble pendant toute la pièce pour les tourmenter ; mais qu'à la fin il viendra un Dieu qui raccommodera tout et que l'on dansera une chaconne.
-
--*who_monsieursanglier
 Et si l'on n'en dansait pas ?
 
--*who_monsieurquimporte
-Qu'importe ?
-Je suis toujours sûr que l'on dansera quelque chose.
-
--*who_monsieurpillier
-Mais il faut que les airs de violon soient bons, pour que l'on danse bien.
-
--*who_monsieurquimporte
-Qu'importe ?
-Même quand on ne danserait pas ; pourvu que l'Opéra finisse et qu'on puisse aller sur le Théâtre après.
-
--*who_monsieursanglier
 Mais s'il n'y avait plus d'Opéra, vous ne pourriez pas aller sur le Théâtre.
 
--*who_monsieurquimporte
-Qu'importe ?
-J'irais ailleurs, où je vais à présent, par exemple.
-Adieu, Messieurs je vous souhaite bien le bonjour.
-
--*who_monsieurpillier
-Monsieur, je suis bien votre serviteur.
-
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_monsieursanglier
 Nous nous étions bien adressés, pour fortifier notre parti, Monsieur Pillier, qu'en dites-vous ?
 
--*who_monsieurpillier
-Ma foi, Monsieur Sanglier, cela va mal pour nous ; il y a à Paris comme cela mille gens qui profitent de tout et qui ne se soucient de rien.
-
--*who_monsieursanglier
 Oui et ils jetteraient les hauts cris si on leur retranchait quelque chose de ce dont ils ne s'inquiètent point.
 
--*who_monsieurpillier
-Cela est sûr, nous avons la peine et eux le plaisir ; demandez-moi pourquoi ?
-Par exemple.
-
--*who_monsieursanglier
 C'est que nous sommes trop bons.
 
--*who_monsieurpillier
-C'est vrai ; mais comme c'est le bien public qui nous occupe, il ne faut pas s'y refuser.
-
--*who_monsieursanglier
 Non vraiment, il faut être citoyen avant tout.
 
--*who_monsieurpillier
-Ah voilà Monsieur Pointdutout, c'est un homme qui a les meilleurs expédients du monde dans tous les cas.
-
--*who_monsieursanglier
 Vous le croyez ?
 
--*who_monsieurpillier
-Ma foi on me l'a dit.
-
--*who_monsieursanglier
 Tant mieux , voilà ce qu'on appelle un homme enfin.
 
-**** *book_ *id_I05 *act_I *date_(inc
+Vous êtes bienheureux, Monsieur, voilà ce qu'on appelle avoir des ressources ; mais dans les grandes affaires, il faut de grands moyens pour les faire réussir.
 
--*who_monsieurpillier
+J'entends bien ce que veut dire Monsieur ; moi.
+
+C'est trois choses.
+
+Un bon poème, une bonne musique et des acteurs qui chantent bien et qui sachent bien débiter.
+
+Pas de bonne Musique ?
+
+Vous ne voulez donc que des ariettes ?
+
+Des décorations ?
+
+Vous conviendrez pourtant qu'il ne faut rien épargner pour avoir un Opéra.
+
+Oui, oui, Monsieur, vous avez raison, cela est clair à présent.
+
+Comment, vous ne voyez pas que Monsieur, veut dire que le monde attire le monde et que l'habitude d'aller à l'Opéra y fera toujours aller ?
+
+Comment ?
+
+Pour moi, rien ne me rassure.
+
+Voilà ce qu'il faudrait persuader de donner aux directeurs.
+
+C'est s'aveugler, je vous assure, que de penser autrement.
+
+Eh bien, Monsieur Pillier ?
+
+Je dis toujours qu'il n'y aura bientôt plus d'Opéra.
+
+Nous sommes perdus !
+
+
+**** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpillier
+
+Garçon ?
+
+Monsieur Sanglier, est-il venu ici aujourd'hui ?
+
+Et a-t-on dit quelques nouvelles ce matin ?
+
+Quoi, rien du tout ?
+
+Bon, le feu dans une cheminée !
+
+Voilà quelque chose de rare !
+
+Oui, avec les pompes qu'il y a à présent ; comment voulez-vous que cela arrive ?
+
+Il y a des choses bien plus intéressantes que tout cela. Avez-vous entendu parler de l'Opéra ?
+
+Oui, de l'Opéra?
+
+Je le sais parbleu bien, on ne veut pas donner des anciens.
+
+Eh non vraiment ! Malheureux Opéra ! Et personne n'y pense !
+
+Monsieur Sanglier ?
+
+Nous allons voir ce qu'il nous dira.
+
+Non, non.
+
+Eh bien, Monsieur sanglier, cette voix que vous disiez que nous aurions ?
+
+Et vous ne vous en êtes pas informé depuis ?
+
+Il faudrait donc qu'on y envoyât.
+
+Voilà comme l'Opéra français, la gloire de la Nation se perdra ! Est-ce que vous ne voyez pas cela ?
+
+Il faudrait donc songer à y remédier.
+
+Il faut pourtant prendre un parti, il n'y a pas à balancer.
+
+Qu'on nous donne du Rameau seulement ; allons je le veux bien, je le leur passe.
+
+Oui, Monsieur ; c'est toujours du véritable opéra.
+
+Il ne faut pas être si difficile.
+
+Et de belles scènes !
+
+Les ballets nous écraseront tout à fait, Monsieur, quand la Musique nouvelle ne prendrait pas le dessus.
+
+Je n'en sais rien.
+
+On ne veut que des Ariettes.
+
+Je cherche depuis longtemps quelque moyen de remédier à tout cela.
+
+Armide avait réussi.
+
+Il faudrait redonner Armide.
+
+Ils aimeront mieux tout perdre.
+
+Il ne faut pas le souffrir.
+
+Mais comment l'empêcher ?
+
+Il n'y a plus personne de goût ?
+
+On y vient parler nouvelles et chevaux pendant les scènes et l'on n'en sort, que pour les Ballets.
+
+Il n'y a que vous et moi qui nous occupions de cela.
+
+Voilà Monsieur Qu'importe, il faudrait le gagner, lui qui voit beaucoup de mondes.
+
+Il faut essayer, l'Opéra ne saurait lui être indifférent, il n'en manque pas un.
+
+Laissez moi faire.
+
+On voit bien qu'il n'y a pas d'Opéra, Monsieur, aujourd'hui, sans quoi on ne vous verrait sûrement pas ici.
+
+Mais vous n'entendriez plus de bonne musique française.
+
+Mais, c'est qu'il n'y a pas là de grandes voix.
+
+Ce n'est pas la même chose.
+
+C'est une plaisanterie et si vous ne vous connaissiez pas en musique, vous ne viendriez pas tous les jours à l'Opéra.
+
+Comment, vous causiez donc pendant qu'on chantait, vous ne pouviez pas prendre d'intérêt au poème.
+
+Mais il faut que les airs de violon soient bons, pour que l'on danse bien.
+
+Monsieur, je suis bien votre serviteur.
+
+Ma foi, Monsieur Sanglier, cela va mal pour nous ; il y a à Paris comme cela mille gens qui profitent de tout et qui ne se soucient de rien.
+
+Cela est sûr, nous avons la peine et eux le plaisir ; demandez-moi pourquoi ? Par exemple.
+
+C'est vrai ; mais comme c'est le bien public qui nous occupe, il ne faut pas s'y refuser.
+
+Ah voilà Monsieur Pointdutout, c'est un homme qui a les meilleurs expédients du monde dans tous les cas.
+
+Ma foi on me l'a dit.
+
 Monsieur, je parie que vous vous ennuyez aujourd'hui ; parce qu'il n'y a pas d'Opéra ?
 
--*who_monsieurpointdutout
+Donnez-nous donc un moyen pour soutenir l'Opéra ; car si l'on n'y prend garde, il tombera incessamment.
+
+Mais, Monsieur, vous ne prenez pas garde à une chose sans doute pour que l'Opéra Français se soutienne , il faut de belles voix.
+
+Quoi donc ?
+
+Mais encore?
+
+Vous ne voulez pas un bon poème ?
+
+Pas de bons chanteurs ?
+
+Des ballets ?
+
+Quoi, pour avoir un Opéra, il ne faut pas avoir tout ce que nous venons de vous nommer ?
+
+Je vous entends à présent.
+
+Il n'y a pourtant rien de si aisé. Monsieur veut dire que les petites loges soutiendront toujours l'Opéra.
+
+Je ne devine pas.
+
+Ah, oui, oui.
+
+Avec les actrices, les danseuses.
+
+Je n'ai que l'espoir des anciens Opéra.
+
+Comment, Monsieur, vous ne le croyez pas ?
+
+Quand on n'a pas d'autres ressources, car vous en conviendrez bien ?
+
+Eh, bien ! Monsieur Sanglier, que dites-vous ?
+
+Et moi aussi.
+
+Je n'en puis plus douter.
+
+
+**** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpointdutout
+
 Point du tout, Monsieur , je ne m'ennuie jamais ; quand on a.
 Cela, cela, et cela, on ne saurait s'ennuyer.
 
--*who_monsieursanglier
-Vous êtes bienheureux, Monsieur, voilà ce qu'on appelle avoir des ressources ; mais dans les grandes affaires, il faut de grands moyens pour les faire réussir.
+Point du tout : écoutez-moi. Avec cela, cela, et cela, vous serez toutes les affaires du monde, je dis même celles de la plus grande conséquence.
 
--*who_monsieurpointdutout
-Point du tout : écoutez-moi.
-Avec cela, cela, et cela, vous serez toutes les affaires du monde, je dis même celles de la plus grande conséquence.
-
--*who_monsieurpillier
-Donnez-nous donc un moyen pour soutenir l'Opéra ; car si l'on n'y prend garde, il tombera incessamment.
-
--*who_monsieurpointdutout
 Point du tout ; avec cela, cela, et cela, il ne tombera jamais.
 
--*who_monsieurpillier
-Mais, Monsieur, vous ne prenez pas garde à une chose sans doute pour que l'Opéra Français se soutienne , il faut de belles voix.
+Point du tout, de belles voix, de belles voix ! Pour quoi faire ? Il ne faut point de belles voix, il ne faut que cela, cela et cela.
 
--*who_monsieurpointdutout
-Point du tout, de belles voix, de belles voix !
-Pour quoi faire ?
-Il ne faut point de belles voix, il ne faut que cela, cela et cela.
-
--*who_monsieursanglier
-J'entends bien ce que veut dire Monsieur ; moi.
-
--*who_monsieurpillier
-Quoi donc ?
-
--*who_monsieursanglier
-C'est trois choses.
-
--*who_monsieurpillier
-Mais encore?
-
--*who_monsieursanglier
-Un bon poème, une bonne musique et des acteurs qui chantent bien et qui sachent bien débiter.
-
--*who_monsieurpointdutout
 Point du tout, on peut s'en passer très bien.
 
--*who_monsieurpillier
-Vous ne voulez pas un bon poème ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieursanglier
-Pas de bonne Musique ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieurpillier
-Pas de bons chanteurs ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieursanglier
-Vous ne voulez donc que des ariettes ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieurpillier
-Des ballets ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieursanglier
-Des décorations ?
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieurpillier
-Quoi, pour avoir un Opéra, il ne faut pas avoir tout ce que nous venons de vous nommer ?
+Point du tout, je n'en ai que faire, il n'y a rien de si difficile à réunir. D'abord que j'ai cela, cela, et cela, je suis sûr d'avoir un Opéra toute la vie, et un Opéra excellent.
 
--*who_monsieurpointdutout
-Point du tout, je n'en ai que faire, il n'y a rien de si difficile à réunir.
-D'abord que j'ai cela, cela, et cela, je suis sûr d'avoir un Opéra toute la vie, et un Opéra excellent.
-
--*who_monsieursanglier
-Vous conviendrez pourtant qu'il ne faut rien épargner pour avoir un Opéra.
-
--*who_monsieurpointdutout
 Point du tout, la dépense n'est pas nécessaire, on aime l'Opéra à Paris et quel qu'il soit, je suis sûr avec cela, cela et cela, qu'il y aura toujours du monde.
 
--*who_monsieurpillier
-Je vous entends à présent.
-
--*who_monsieurpointdutout
 Je ne le comprends pas moi.
 
--*who_monsieurpillier
-Il n'y a pourtant rien de si aisé.
-Monsieur veut dire que les petites loges soutiendront toujours l'Opéra.
-
--*who_monsieurpointdutout
 Point du tout, je n'ai que faire des petites loges , il n'y en aurait pas, qu'avec cela, cela et cela, je ne m'embarrasse de rien.
 
--*who_monsieursanglier
-Oui, oui, Monsieur, vous avez raison, cela est clair à présent.
-
--*who_monsieurpillier
-Je ne devine pas.
-
--*who_monsieursanglier
-Comment, vous ne voyez pas que Monsieur, veut dire que le monde attire le monde et que l'habitude d'aller à l'Opéra y fera toujours aller ?
-
--*who_monsieurpointdutout
 Point du tout , ce n'est point l'habitude qui y fera venir ; mais j'attirerai toujours tout Paris, avec cela, cela et cela.
 
--*who_monsieurpillier
-Ah, oui, oui.
+Point du tout. Les actrices, les danseuses ne me font rien. Je ne veux pas autre chose que ce que je vous dis ; cela, cela, et cela.
 
--*who_monsieursanglier
-Comment ?
-
--*who_monsieurpillier
-Avec les actrices, les danseuses.
-
--*who_monsieurpointdutout
-Point du tout.
-Les actrices, les danseuses ne me font rien.
-Je ne veux pas autre chose que ce que je vous dis ; cela, cela, et cela.
-
--*who_monsieursanglier
-Pour moi, rien ne me rassure.
-
--*who_monsieurpillier
-Je n'ai que l'espoir des anciens Opéra.
-
--*who_monsieursanglier
-Voilà ce qu'il faudrait persuader de donner aux directeurs.
-
--*who_monsieurpointdutout
 Point du tout.
 
--*who_monsieurpillier
-Comment, Monsieur, vous ne le croyez pas ?
-
--*who_monsieursanglier
-C'est s'aveugler, je vous assure, que de penser autrement.
-
--*who_monsieurpointdutout
 Point du tout, je ne m'aveugle point et vous avez tort de vous désespérer.
 
--*who_monsieurpillier
-Quand on n'a pas d'autres ressources, car vous en conviendrez bien ?
-
--*who_monsieurpointdutout
 Point du tout ; songez donc que vous avec cela cela et cela ; tranquillisez-vous ; je vous souhaite bien le bon soir.
 Écoutez, n'oubliez jamais que vous avez cela, cela et cela, et vous ne vous désespérerez pas.
 
-**** *book_ *id_I06 *act_I *date_(inc
 
--*who_monsieursanglier
-Eh bien, Monsieur Pillier ?
+**** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurquimporte
 
--*who_monsieurpillier
-Eh, bien !
-Monsieur Sanglier, que dites-vous ?
+Qu'importe ? Moi, je vais à l'Opéra, aux Italiens, aux Français, cela m'est égal.
 
--*who_monsieursanglier
-Je dis toujours qu'il n'y aura bientôt plus d'Opéra.
+Qu'importe ? Il y aurait autre chose, ou bien j'irais à la promenade, ces jours-là, ou je ferais des visites.
 
--*who_monsieurpillier
-Et moi aussi.
+Qu'importe ? J'entendrais toujours de la musique.
 
--*who_monsieursanglier
-Nous sommes perdus !
+Qu'importe ? Si elle me faisait plaisir.
 
--*who_monsieurpillier
-Je n'en puis plus douter.
+Qu'importe ? Pourvu qu'on les entende, voilà tout ce qu'il faut.
+
+Qu'importe ? N'avons-nous pas le récitatif obligé ?
+
+Qu'importe ? Quand on ne se connaît pas en musique.
+
+Qu'importe, que vous le pensiez ou non ? Cela n'en est pas moins vrai.
+
+Qu'importe ? Moi j'y vais pour voir le monde, pour causer ou me chauffer.
+
+Qu'importe ? Je ne les ai jamais entendues.
+
+Qu'importe ? Je n'ai que faire d'aller m'intéresser à tout cela, je sais seulement en gros qu'il y a deux amanTs persécutés, par deux personnes qui s'entendent ensemble pendant toute la pièce pour les tourmenter ; mais qu'à la fin il viendra un Dieu qui raccommodera tout et que l'on dansera une chaconne.
+
+Qu'importe ? Je suis toujours sûr que l'on dansera quelque chose.
+
+Qu'importe ? Même quand on ne danserait pas ; pourvu que l'Opéra finisse et qu'on puisse aller sur le Théâtre après.
+
+Qu'importe ? J'irais ailleurs, où je vais à présent, par exemple. Adieu, Messieurs je vous souhaite bien le bonjour.
+

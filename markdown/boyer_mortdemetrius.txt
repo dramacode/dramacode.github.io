@@ -1,6 +1,6 @@
 ---
 identifier: boyer_mortdemetrius  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1661  
 title: La Mort de Démétrius. Tragédie.  
 ---

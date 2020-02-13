@@ -1,2218 +1,993 @@
 
 
-**** *book_ *id_I01 *act_I *date_1798
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
--*who_victor
-Oui, je dois fuir ce séjour ; l'honneur l'exige.
-Ce château où l'on éleva mon enfance ; ce jardin où je reçus cent fois les innocentes caresses de ma Clémence, de Clémence qui ne voit qu'un frère dans celui que le plus violent amour consume, je quitterai tout...
-Oui, tout.
-Mais mon protecteur !...
-Cet homme respectable et vertueux qui compte sur moi pour adoucir les ennuis de sa vieillesse ; aurai-je bien le courage de l'abandonner ?...
-Ingrat Victor !
-L'as-tu pu concevoir cet affreux projet ?...
-Et pourquoi fuir ?...
-Si je lui déclarais mon amour pour sa fille, cet amour pur et fondé sur la reconnaissance, pourrait-il me repousser de son sein après m'avoir tant de fois accable des bontés les plus touchantes ?...
-Non Le baron de Fritzierne est sage, il fait peu de cas de la naissance, des dons de la fortune : il n'estime que l'honneur et la probité ; il me jugera digne de sa fille, il nous unira !...
-Ô ma Clémence !...
-Et que dis-je, insensé !...
-Toi, malheureux enfant, trouvé dans une foret : toi, sans parents, sans amis, sans appui sur la terre, tu deviendrais le gendre de l'un des plus riches seigneurs d'Allemagne !...
-Non, non.
-Victor ; cesse de t'abuser : ce bonheur n'est pas fait pour toi.
-Fuis, malheureux !...
-Fuis des lieux que ta présence ne tarderait point à troubler.
+Moi, fuir !... Amis, secondez ma fureur.
 
-**** *book_ *id_I02 *act_I *date_1798
-
--*who_clemence
-Bonjour Victor.
-
--*who_victor
-Que vas-tu faire ?
-
--*who_clemence
-Est-ce que mes caresses te déplaisent !
-Tu n'aimes donc plus ta sœur ?
-
--*who_victor
-Ma sœur ?
-
--*who_clemence
-Y a t-il du mal à embrasser son frère ?
-
--*who_victor
-Ton frère, Clémence !
-
--*who_clemence
-Eh oui, mon frère.
-Mais voyez donc comme il me parle aujourd'hui ?
-
--*who_victor
-Laisse-moi.
-
--*who_clemence
-Je te suis donc importune ?
-
--*who_victor
-Non pas.
-Mais....
-
--*who_clemence
-Tu as de chagrin, n'est-ce pas ?
-
--*who_victor
-Hélas !
-
--*who_clemence
-Oui, c'est pour cela que tu as besoin de moi ; qui adoucira tes peines ?
-Qui les partagera ?
-Qui te consolera ?
-Si ce n'est ta sœur....
-Ta sœur qui t'aime !...
-
--*who_victor
-Tu m'aimes, Clémence ?
-
--*who_clemence
-Tenez !...
-Il en doute à présent !
-Tu sais combien je chéris mon père ; et bien, je ne sais pourquoi, il me semble que tu m'es encore plus cher que lui ; c'est peut-être mal à moi, mais mon cœur n'est pas maître de surmonter cet excès de tendresse.
-
--*who_victor
-Que me dis-tu ?
-
--*who_clemence
-La vérité.
-
--*who_victor
-Ah !
-Par pitié Clémence, éloigne toi, laisse-moi te fuir.
-
--*who_clemence
-Toi, nous fuir !....
-Tu n'y songes pas...
-N'est-ce pas Victor, que tu n'en a pas envie !....
-
--*who_victor
-Laisse-moi, laisse-moi seul avec ma douleur.
-
--*who_clemence
-Mais, que t'ai-je donc fait pour me traiter avec tant de froideur ?
-Depuis quelque temps tu m'évites, tu repousses mes caresses, tout-à-l'heure encore....
-
--*who_victor
-Ah !
-Clémence, si tu savais...
-
--*who_clemence
-Parle, mon cher Victor, si tu as quelque secret, dis-le moi.
-Je suis jeune encore, mais digne de toute ta confiance.
-
--*who_victor
-Tu l'apprendras trop tôt ce fatal secret.
-
--*who_clemence
-Peux-tu me refuser ?...
-Mon frère...
-Mon cher Victor...
-Tu ne m'aimes donc plus ?
-
--*who_victor
-Clémence, promets-moi de garder dans ton sein l'aveu que je vais te faire.
-
--*who_clemence
-Parle, parle, Victor.
-
--*who_victor
-Jure-moi...
-
--*who_clemence
-Qu'est-il besoin de serment ?
-Ton cœur et le mien ne font qu'un.
-
--*who_victor
-Femme divine !...
-Apprends !...
-
--*who_clemence
-Eh bien !
-
--*who_victor
-Apprends qu'un feu dévorant circule dans mes veines ; que je t'aime, que je t'adore...
-
--*who_clemence
-Quel mal est-il à cela ?
-Et moi aussi je t'aime, je t'adore.
-
--*who_victor
-Et sais-tu ce qui fait mon tourment ?
-
--*who_clemence
-Non.
-
--*who_victor
-Apprends que tu n'es pas ma sœur.
-
--*who_clemence
-Quoi !
-Je ne suis pas...
-
--*who_victor
-Non, tu n'es pas ma sœur, je ne suis pas ton frère : je ne suis qu'un amant ivre de tes charmes, de tes vertus ; un enfant trouvé dans une forêt, recueilli par ton père, élevé par lui comme son propre fils.
-Voilà tout ce que je suis.
-
--*who_clemence
-Tu n'es pas mon frère...
-Quel bonheur !
-
--*who_victor
-Quoi !
-Tu me pardonne de t'aimer ?
-Tu ne me punis point....
-
--*who_clemence
-Et de quoi, mon ami ?
-Au contraire, nous avons maintenant l'espérance d'être unis.
-
--*who_victor
-Qu'entends-je !
-Il se pourrait ?...
-
--*who_clemence
-Oui, Victor, que cet espoir consolateur dissipe ta tristesse.
-Tu connais mon père !
-Tu sais combien il a le cœur bon, généreux.
-
--*who_victor
-Que veux-tu dire ?
-
--*who_clemence
-Qu'il nous unira.
-Apprends qu'il m'a dit cent fois :
-    « Ma fille, aime Victor ; aime-le bien, aime-le comme un autre moi-même.
-J'ai des projets sur lui.»
-
--*who_victor
-Comment ?
-Il t'aurait dit...
-
--*who_clemence
-Écoute :
-    « Un jour, ajoutait-il, ce frère chéri pourra faire ton bonheur, celui de ma vieillesse.»
-
--*who_victor
-Et tu crois...
-
--*who_clemence
-Que c'est de notre hymen qu'il parlait.
-Oui, Victor, il te regarde déjà comme un fils, comme un gendre.
-
--*who_victor
-Clémence, il ne faut pas qu'un fol amour nous aveugle.
-Je ne suis qu'un orphelin, sans ami, sans parents, et je ne dois point prétendre...
-
--*who_clemence
-Viens toujours, mon cher Victor, mon frère...
-Ah !
-Pardonne-moi ce nom qui m'est échappé.
-
--*who_victor
-Oh oui !
-Nomme-moi ton frère, que je conserve toujours ce titre près de toi, puisqu'il ne m'est pas permis d'en espérer un plus doux.
-
--*who_clemence
-Viens, te dis-je, allons trouver mon père, il saura l'amour que nous avons l'un pour l'autre...
-
--*who_victor
-Gardons-nous de l'en instruire, je crains tout de sa colère s'il apprenait que j'eusse osé élever mes vœux jusqu'à toi.
-
--*who_clemence
-Non, mon ami, ne crains point qu'il ait cette rigueur extrême.
-Un père peut-il ne pas vouloir le bonheur de ses enfants ?
-
--*who_victor
-Mais Victor n'a point de richesse.
-
--*who_clemence
-Ton amour les remplacera.
-Courons, te dis-je, nous jeter dans ses bras, il ne tardera point à sceller notre bonheur.
-Victor avant peu sera mon époux.
-
--*who_victor
-Moi, son époux !
-Où m'égarai-je !
-Écoute.
-Clémence, vas trouver ton père : préviens-le sur tout ce que j'ai à lui dire : un premier aveu de ta part le disposera à m'entendre plus favorablement.
-Je ne tarderai point à te suivre, je joindrai mes instances aux tiennes, et....
-
--*who_clemence
-Tu as raison ; j'y vole.
-Mais ne tarde pas à me rejoindre.
-
--*who_victor
-Peux-tu croire ?
-
--*who_clemence
-Tu hésites, mon ami....
-Promets-moi de venir bientôt me retrouver.
-
--*who_victor
-Je... te... le... promets.
-
--*who_clemence
-Adieu, Victor.
-
--*who_victor
-Adieu, Clémence.
-
--*who_clemence
-Ne tarde pas au moins.
-
-**** *book_ *id_I03 *act_I *date_1798
-
--*who_victor
-Malheureux !
-Qu'allais-je faire ?...
-Me présenter au baron de Fritzierne ?
-Lui demander la main de sa fille ?
-Quel délire m'entraînait !
-Cesse de t'aveugler, Victor ; ce bon vieillard t'estime, il te traite comme son fils, mais ce sont les liens de la fraternité, et non ceux de l'amour qu'il a voulu resserrer entre sa fille et toi ; jamais il ne consentirait à une union aussi disproportionnée.
-Vas, fuis, il le faut d'après l'aveu que tu viens de faire.
-J'abhorre jusqu'à l'idée de la séduction, et cet homme généreux m'accuserait d'ingratitude !...
-Fuyons.
-
-**** *book_ *id_I04 *act_I *date_1798
-
--*who_valentin
-Non, monsieur, vous ne fuirez pas.
-
--*who_victor
-C'est toi, Valentin !
-Et d'où sais-tu ?...
-
--*who_valentin
-Je sais tout, monsieur ; et ce qu'il y a de plus affreux, c'est que je l'ai appris par un autre que vous.
-
--*who_victor
-Valentin...
-
--*who_valentin
-Oui, monsieur, je vous en veux beaucoup.
-
--*who_victor
-Mon ami....
-
--*who_valentin
-Je ne le suis pas, monsieur, on n'a point de secret pour son ami, et je vois bien que je ne suis que votre domestique.
-
--*who_victor
-Mais enfin, qui t'a dit ?...
-
--*who_valentin
-C'est mademoiselle Clémence.
-
--*who_victor
-Clémence !
-
--*who_valentin
-Oh mon dieu !
-Oui, elle-même.
-Elle vient de me dire tout-à-l'heure, avec cette grâce que vous lui connaissez.
-
--*who_victor
-Eh bien ?
-Elle t'a dit....
-
--*who_valentin
-Que vous n'étiez pas son frère.
-Ça, je le savais bien, il me semble encore vous voir dans votre petit berceau le jour que monsieur le baron vous rapporta.
-
--*who_victor
-Ensuite.
-
--*who_valentin
-Après m'avoir raconté ce qui vient de se passer, elle m'a dit : mon cher Valentin, veille bien sur ton maître ; observe jusqu'à ses moindres démarches et viens m'en rendre compte.
-
--*who_victor
-Et tu as entendu ?...
-
--*who_valentin
-Que vous vouliez quitter cette maison.
-Ah ça, voyons, pourquoi voulez vous vous en aller ?
-Qu'est-ce qui vous y force ?
-Vous aimez mademoiselle Clémence, elle vous aime aussi ?
-Rien de plus naturel.
-Vous n'êtes pas son frère ?
-Tant mieux : vous avez l'espérance de l'obtenir.
-
--*who_victor
-Jamais, Valentin.
-
--*who_valentin
-Et moi, je vous dis que vous l'obtiendrez.
-Monsieur le baron est un homme d'esprit ; il se gardera bien de refuser sa fille à un jeune homme aussi sage, aussi spirituel, aussi bien tourné que vous.
-Si par hasard il vous refusait ; j'irais, oui monsieur, j'irais moi-même lui dire qu'il a tort, qu'il fait mal, qu'il...
-
--*who_victor
-Valentin !
-
--*who_valentin
-Oui, monsieur, j'irais.
-C'est que je n'aime pas les injustices, moi ; et c'en serait une grande de ne pas faire votre bonheur à tous deux quand il n'a pour cela à dire qu'un oui.
-
--*who_victor
-Songe donc, mon ami, que les convenances...
-
--*who_valentin
-Est-ce qu'il doit y avoir d'autres convenances entres les honnêtes gens que celles qui font le bonheur de la société ?
-D'ailleurs, qui est-ce qui serait assez hardi pour vous reprocher quelque chose ?...
-N'êtes-vous pas honnête et vertueux ?
-N'avez-vous pas donné cent fois des preuves de courage dans les deux campagnes que vous venez de faire sous les ordres de Monsieur le Baron ?
-Ah !
-Je voudrais bien que quelqu'un s'avisât de parler mal de vous devant moi !...
-Nous verrions beau jeu, vraiment.
-
--*who_victor
-Mais, ma naissance...
-
--*who_valentin
-Bel obstacle !
-Est-ce votre faute si votre père vous a abandonné ?
-Devez-vous être malheureux toute votre vie, parce que vos parents sont ingrats et dénaturés ?
-Voilà de belles raisons que vous me donnez-la ?
-
--*who_victor
-Si du moins je connaissais le nom de mon père.
-
--*who_valentin
-Vous l'apprendrez peut-être un jour.
-Tant il y a que vous êtes ici, que vous avez été élevé par monsieur le baron, qui vous chérit comme son fils, et qu'il y aurait de l'ingratitude à lui percer l'âme, en le quittant aussi brusquement.
-
--*who_victor
-Il y en aurait bien davantage à nourrir dans le cœur de sa fille une passion funeste qui ne peut que faire son malheur.
-Non, Valentin, tout ce que tu peux me dire ne changera rien à ma résolution, elle est invariable : le soleil ne me retrouvera plus dans ce château.
-
--*who_valentin
-C'est votre dernier mot ?
-
--*who_victor
-Oui, mon ami.
-
--*who_valentin
-Eh bien, monsieur, attendez moi là un moment...
-
--*who_victor
-Où vas-tu ?...
-Trouver Clémence peut-être ?...
-
--*who_valentin
-Non pas, monsieur.
-J'ai cherché à vous détourner de ce projet insensé, mes raisons n'ont rien pu sur vous : je cours chercher mes effets.
-
--*who_victor
-Pourquoi faire ?
-
--*who_valentin
-Pour vous suivre, monsieur.
-Quand un maître a la dureté de partir sans moi, croyez vous que j'aie le courage de l'abandonner ?
-
--*who_victor
-Quoi !...
-Tu veux....
-
--*who_valentin
-Vous suivre partout ; ne vous quitter qu'à la mort.
-
--*who_victor
-Y songes-tu, Valentin ?
-Je n'ai ni fortune, ni amis.
-
--*who_valentin
-Des amis, monsieur ?
-Vous en aurez-un.
-De la fortune ?
-Voyez-vous cette bourse ?
-C'est le fruit de mes épargnes, elle est à vous.
-
--*who_victor
-Jamais.
-
--*who_valentin
-À vous, à moi, à nous, comme vous voudrez.
-
--*who_victor
-Brave homme !
-
--*who_valentin
-Et mais, cela n'est-il pas tout simple ?
-
--*who_victor
-Non, Valentin, je ne consentirai pas que tu me suives ; reste ; ah !
-Reste plutôt près de Clémence ; je serai sûr du moins que quelqu'un lui parlera de moi quand je n'y serai plus.
-Entends-tu ?
-Je ne veux pas.
-
--*who_valentin
-Ah !
-Vous ne voulez pas ?
-Eh bien, je veux voyager, moi.
-Ah ça, je suis mon maître, peut-être ?
-Vous ne pouvez pas m'empêcher d'aller où je voudrai ?
-Eh bien, c'est à présent que je m'en vais, je suivrai la route que vous prendrez ; si vous ne voulez pas de ma compagnie, vous me chasserez, à la bonne heure.
-
--*who_victor
-Moi, te chasser !...
-Bon Valentin !...
-Oh !
-Jamais.
-
--*who_valentin
-Eh bien, voilà qui est dit, n'est ce pas ?
-Nous faisons route ensemble.
-
--*who_victor
-Oui, mon ami ; nous ne nous quittons plus.
-
--*who_valentin
-Nous ne nous séparerons jamais.
-Attendez-moi là, je suis à vous dans l'instant.
-
--*who_victor
-Non pas.
-Il est plus prudent de m'éloigner....
-Je vais sortir par la petite porte.
-Tu me rejoindras par le sentier qui conduit à la forêt.
-
--*who_valentin
-Cela suffit, monsieur.
-
--*who_victor
-De la discrétion surtout.
-
--*who_valentin
-Ne craignez rien.
-
-**** *book_ *id_I05 *act_I *date_1798
-
--*who_victor
-C'en est fait, je vais quitter ces lieux où je laisse tout ce qui pouvait m'attacher à la vie, et je les quitte pour n'y jamais revenir.
-
-**** *book_ *id_I06 *act_I *date_1798
-
--*who_forban
-Merci, l'ami.
-Jamais porte ne fut ouverte plus à propos.
-
--*who_victor
-Qui êtes-vous ?
-
--*who_forban
-Tu le sauras.
-
--*who_victor
-Que voulez-vous ?
-
--*who_forban
-Un mot.
-Es tu de ce château ?
-
--*who_victor
-Oui.
-Pourquoi ?
-
--*who_forban
-Connais-tu le baron de Fritzierne ?
-
--*who_victor
-Sans doute.
-
--*who_forban
-Vas lui porter cette lettre.
-
--*who_victor
-Que ne la lui remettez-vous vous-même ?
-
--*who_forban
-J'ai juré de ne jamais lui parler.
-
--*who_victor
-Et de qui est cette lettre ?
-
--*who_forban
-De qui ?
-C'est un secret.
-
--*who_victor
-Un secret ?
-
--*who_forban
-Pour toi.
-Mais il faut qu'il la reçoive s'il ne veut périr.
-
--*who_victor
-Périr ?
-
--*who_forban
-Oui.
-Cette lettre doit lui sauver la vie.
-
--*who_victor
-Oh ciel !
-Mon bienfaiteur !..
-Ses jours seraient menacés ?
-
--*who_forban
-Très fort.
-
--*who_victor
-Et par qui ?...
-Serait-ce toi ?...
-
--*who_forban
-Moi !...
-Non, je ne lui en veux pas.
-
--*who_victor
-Et qui donc ?
-
--*who_forban
-Un homme puissant, un homme dont la seule menace est un arrêt de mort, et à qui le baron doit une satisfaction dont ses jours répondent.
-
--*who_victor
-Ses jours sont en danger ; et j'allais le quitter !
-Mais c'est une insulte qu'on lui fait, le baron est vertueux.
-Il ne peut avoir offensé personne.
-Et toi on te charge d'un pareil message ; qui que tu sois, tremble de l'avoir outragé.
-
--*who_forban
-Doucement, jeune homme, ne t'y fie pas ; tu ne serais pas le plus fort.
-Adieu : fais ma commission, ou tu es perdu toi-même.
-
-**** *book_ *id_I07 *act_I *date_1798
-
--*who_victor
-« Il faut qu'il l'a reçoive, s'il ne veut périr,» a dit cet homme.
-Ah !
-Courons, courons la lui porter.
-Mais que lui dire s'il a vu Clémence ?...
-S'il sait....
-Et qu'importe !
-Sauvons d'abord ses jours.
-
-**** *book_ *id_I08 *act_I *date_1798
-
--*who_victor
-Te voilà, Valentin.
-
--*who_valentin
-Oui, monsieur.
-Vous vous impatientez peut-être ?...
-
--*who_victor
-Non.
-Dis-moi...
-Le baron ?....
-
--*who_valentin
-Allez, allez, monsieur, tout est bien changé !
-
--*who_victor
-Comment ?
-
--*who_valentin
-Nous ne partons plus.
-
--*who_victor
-Qui te l'a dit ?
-
--*who_valentin
-Je viens de voir monsieur le baron.
-
--*who_victor
-Que veux-tu dire ?
-
--*who_valentin
-Il était avec sa fille.
-
--*who_victor
-Mais quel rapport ?....
-
--*who_valentin
-Elle lui racontait tout.
-
--*who_victor
-Eh bien ?
-
--*who_valentin
-Quand il l'a vu pleurer....
-
--*who_victor
-Vas donc.
-
--*who_valentin
-Il s'est attendri.
-
--*who_victor
-Ensuite.
-
--*who_valentin
-Alors...
-J'ai peut-être mal fait ?
-
--*who_victor
-Achève donc.
-
--*who_valentin
-Je lui ai tout dit.
-
--*who_victor
-Après....
-
--*who_valentin
-Il s'est levé tout d'un coup ; puis il est parti.
-
--*who_victor
-Où est-il ?
-
--*who_valentin
-Mais j'ai couru plus fort que lui.
-
--*who_victor
-Où est-il, te dis je ?
-
--*who_valentin
-Il suit mes pas.
-
--*who_victor
-Il faut que je lui parle.
-
--*who_valentin
-Le voilà.
-
-**** *book_ *id_I09 *act_I *date_1798
-
--*who_clemence
-Il n'est pas parti, mon père !....
-Le voilà.
-
--*who_lebaron
-Est-il vrai, mon ami, que tu voulais nous fuir ?
-
--*who_clemence
-C'est donc ainsi que tu tiens tes promesses ?
-
--*who_lebaron
-Il faut que tu m'estimes bien peu pour me croire capable de sacrifier le bonheur de ma fille à l'orgueil et à l'ambition.
-
--*who_clemence
-Ne te l'avais-je pas dit ?
-Il n'a cependant pas voulu me croire.
-
--*who_victor
-Pardon, mon père, et vous ma Clémence.
-Un intérêt plus pressant me ramène vers vous...
-
--*who_clemence
-Que signifie ?...
-
--*who_victor
-Je viens de sauver vos jours.
-
--*who_lebaron
-Que veux-tu dire ?
-
--*who_victor
-Un homme d'un aspect effrayant et armé jusqu'aux dents, vient de me remettre cette lettre, de laquelle dépend, dit-il, votre vie.
-
--*who_lebaron
-Et c'est pour me la donner que tu as changé de dessein ?
-
--*who_victor
-On menaçait vos jours !
-Et j'aurais pu vous quitter ?
-
--*who_lebaron
-Bon jeune homme !
-
--*who_valentin
-Oh !
-Je le reconnais bien là.
-
--*who_lebaron
-Vas, tu en seras bien récompensé.
-
--*who_victor
-Voyez donc, mon père, ce que contient cette lettre mystérieuse.
-
--*who_lebaron
-Voyons.
-ROGER.
-
--*who_valentin
-Roger !
-
--*who_victor
-Quoi !
-Le chef des brigands qui infestent l'Allemagne depuis si longtemps ?
-
--*who_lebaron
-Lui-même.
-
--*who_valentin
-Mais depuis plus de quinze ans, il a quitté ce pays.
-
--*who_lebaron
-On m'a assuré qu'il y était de retour, et qu'il avait traversé, il y a environ un mois, les terres du comte de Moldar notre voisin.
-
--*who_victor
-Lisez-donc, mon père.
-
--*who_lebaron
-« Tu sais si j'ai les moyens de punir quand on n'obéit point à mes ordres....»
-
--*who_valentin
-L'insolent !
-
--*who_lebaron
-« Je te promets de respecter ton château et tes propriétés si tu m'accordes ce que je désire...
-Une femme que deux de mes soldats conduisaient à mon camp, il y a trois jours, a été arrachée de leurs bras par tes gens....»
-
--*who_clemence
-Quoi ?
-Madame Germain ?
-
--*who_lebaron
-Apparemment.
-
--*who_victor
-Achevez de grâce.
-
--*who_lebaron
-« Cette femme que tu as retirée chez toi est essentiellement nécessaire à mon repos ; il faut que tu me la livres dans vingt-quatre heures... »
-
--*who_victor
-Quelle audace !
-
--*who_lebaron
-« Tu la feras accompagner jusqu'à mon premier poste dans la forêt de Kingratz... »
-
--*who_valentin
-Ce n'est qu'à une demi lieue d'ici.
-
--*who_lebaron
-« Si ce terme expiré, elle n'est point en mon pouvoir, tu me verras de près. »
-ROGER, chef des indépendants.
-Quelle insolence !
-
--*who_victor
-Cette pauvre madame Germain !
-Ne lui aurions-nous donné l'hospitalité que pour la livrer aussi lâchement ?
-
--*who_lebaron
-Cette idée affreuse.
-
--*who_clemence
-Tu la défendras, n'est-ce pas Victor ?
-Courons la prévenir de ce qui se passe ; Ses instances déciderons mon père.
-
-**** *book_ *id_I10 *act_I *date_1798
-
--*who_valentin
-Il ignore donc Roger, qu'outre cinquante hommes de troupes de l'empereur qui sont ici sous vos ordre, vous avez encore plus de cent vassaux bien exercés et prêts à ver leur sang pour vous défendre.
-
--*who_lebaron
-Il est lui-même à la tête d'une troupe formidable ; il fera le siège du château.
-
--*who_valentin
-Je ne crois pas qu'il l'ose.
-
--*who_lebaron
-C'est un scélérat, mais doué d'un grand caractère.
-Il est capable de tout pour enlever cette femme.
-
--*who_victor
-N'importe.
-Auriez-vous la faiblesse de céder à ses menaces ?
-
--*who_lebaron
-Non.
-Si nous pouvons nous défendre.
-
--*who_valentin
-En doutez-vous, monsieur le Baron ?
-
--*who_victor
-Mon père, vous avez du monde ici, le château est fortifié ; permettez-moi de me mettre à la tête de vos gens, et je vous réponds d'une vigoureuse résistance.
-
--*who_lebaron
-Eh bien, soit, je te charge de l'exécution.
-Moi, qui n'ai plus La force, j'ordonnerai dans l'intérieur, je veillerai à ce que rien ne vous manque ; et la victoire demeurera de notre côté si tu sais unir la prudence à la valeur ; car ce n'est pas tout, mon fils, que de bien commander une armée, il faut savoir ménager le sang de ses soldats ; c'est-là le premier talent du général.
-Toi, Valentin, comme ancien militaire, tu commanderas sous Victor.
-Vas rassembler notre petite armée.
-
--*who_valentin
-Monsieur le Baron !
-Cette affaire-là ne sera pas la moins honorable pour moi, j'en réponds !
-
-**** *book_ *id_I11 *act_I *date_1798
-
--*who_lebaron
-Conçois-tu, Victor, ce que veut dire Roger en réclamant cette femme comme essentiellement nécessaire à son repos ?
-D'où la connaît-il ?
-Quel rapport peut-il y avoir entre le crime et la vertu ?
-Car à Dieu ne plaise que je la soupçonne de nous en avoir imposé par les dehors les plus séduisants !
-
--*who_victor
-Elle semble bien malheureuse.
-
--*who_lebaron
-Mais son refus obstiné de nous confier ses chagrins...
-Le mystère dont elle s'environne...
-
--*who_victor
-Quelque considération puissante la force sans doute à se conduire ainsi ; mais je la crois vertueuse.
-
--*who_lebaron
-Je la crois de même ; cependant je prétends qu'elle s'explique.
-
-**** *book_ *id_I12 *act_I *date_1798
-
--*who_madamegermain
-Ah !
-Monsieur le Baron !
-Parlez....
-Rendez-moi la vie.
-Vous venez de recevoir une lettre ?
-
--*who_lebaron
-Oui, madame, une lettre qui vous concerne.
-
--*who_madamegermain
-Elle est de...
-
--*who_lebaron
-Roger ?
-Oui, madame, la voilà.
-
--*who_madamegermain
-Grand Dieu !
-Sauvez-moi d'un barbare ?
-
--*who_lebaron
-Oui, je vous sauverai, femme infortunée.
-Relevez-vous, mais relevez-vous donc, madame, on croirait que vous êtes obligée de me prier.
-
--*who_madamegermain
-Non, monsieur, je ne me relève point que vous ne m'ayez promis de ne pas céder aux vœux d'un monstre qui a fait mon malheur.
-
--*who_lebaron
-Vous craignez donc tout de sa fureur ?
-
--*who_madamegermain
-Oh oui !
-Tout.
-
--*who_lebaron
-Pauvre madame Germain !
-Vous m'attendrissez.
-
--*who_madamegermain
-Homme généreux !
-
--*who_lebaron
-Mais, dites-moi....
-Quelle liaison y a-t-il entre cet homme et vous ?
-Où l'avez vous connu ?
-Que veut-il de vous enfin ?
-
--*who_madamegermain
-Monsieur....
-Que lui dire !
-
--*who_lebaron
-Il faut que je le sache pour régler ma conduire avec lui.
-
--*who_madamegermain
-Croyez, monsieur, qu'il en coûte à ma reconnaissance de ne pouvoir vous satisfaire.
-Mais, je vous l'ai déjà dit, je ne puis parler.
-
--*who_lebaron
-Vous ne pouvez parler ?
-Quoi !
-Il faut que je vous reçoive que je vous défende sans vous connaître, sans savoir qui j'oblige ?
-Il faut que je fasse seul tous les frais de l'amitié ?....
-Que puis-je penser d'une dissimulation aussi profonde ?
-
--*who_madamegermain
-Qu'il vous suffise de savoir que je n'ai point mérité les maux qui m'accablent.
-Oui, le ciel est témoin de mon innocence, de la pureté de ma conduite : le reste est le secret d'une amie que j'ai juré de ne point trahir.
-Si vous persistez à vouloir le connaître, je cours me livrer à Roger ; j'aime mieux mourir que de manquer à l'honneur.
-
--*who_victor
-Non, non, vous ne partirez point.
-
--*who_clemence
-Souffrirez-vous mon père ?...
-
--*who_lebaron
-C'en est assez, je ne vous presse plus et vais répondre à Roger, comme je le dois.
-
--*who_madamegermain
-Famille généreuse !
-Comment pourrai-je m'acquitter envers vous ?
-
-**** *book_ *id_I13 *act_I *date_1798
-
--*who_valentin
-Monsieur le baron !
-Voici nos guerriers et en bonne disposition.
-
--*who_lebaron
-Fais-les avancer.
-Mes amis, le chef des brigands qui désolent l'Allemagne, Roger ose me menacer ; il prétend arracher de ces lieux une victime que vous avez soustraite à sa fureur, mais je compte sur votre courage pour défendre une aussi juste cause.
-
--*who_victor
-Je réponds d'eux, mon père.
-
--*who_valentin
-Quand il s'agit de servir l'innocence, je me sens dix fois plus de force.
-
--*who_madamegermain
-Ô mon Dieu !
-Quand finiront tant de maux ?
-
--*who_lebaron
-J'étais sûr de vos cœurs et de votre obéissance.
-Pendant que je vais répondre à Roger ; toi, Victor, fais tout disposer pour notre défense, car je ne pense pas qu'il tarde à venir nous attaquer.
-
--*who_victor
-Marchons mes amis.
-
-**** *book_ *id_II01 *act_II *date_1798
-
--*who_valentin
-Vienne maintenant l'ennemi quand il voudra ; nous sommes en état de le recevoir.
-
--*who_unhabitant
-Et d'importance !
-
--*who_valentin
-Buvons un coup, mes amis, le vin donne des forces et ne fera qu'augmenter nos bonnes dispositions.
-
--*who_unhabitant
-Bien vu, pas vrai camarades ?
-À la santé de notre commandant.
-
--*who_tous
-À sa santé.
-
--*who_valentin
-Merci, mes amis.
-
--*who_unhabitant
-Monsieur Valentin, en attendant que le capitaine Roger nous mette à même d'exercer nos bras, si vous vouliez nous chanter une de ces chansons militaires qu'on chantait de votre temps...
-Là....
-Vous entendez bien ce que je veux dire ?
-
--*who_valentin
-Oui, oui.
-
--*who_tous
-Ah oui, monsieur Valentin, une petite chanson.
-
--*who_unhabitant
-Tenez !
-Celle-là que vous chantez si bien...
-
--*who_valentin
-Celle qui dit que le vin mène à la gloire ?
-
--*who_unhabitant
-Oui, c'est cela, nous serons tous charmés de vous entendre.
-
--*who_valentin
-Volontiers, mes amis ; ah ça, vous répéterez le refrain en chœur.
-
--*who_unhabitant
-Oui, nous savons cela.
-
--*who_valentin
-Allons... j'y suis.
-
--*who_ungarde
-Voici monsieur Victor.
-
--*who_valentin
-Ce sera pour un autre moment, allez tous à vos postes.
-
-**** *book_ *id_II02 *act_II *date_1798
-
--*who_victor
-Eh bien, Valentin, tout est-il disposé ?
-
--*who_valentin
-Oui, mon général.
-
--*who_victor
-Les remparts ?...
-
--*who_valentin
-Sont amplement garnis d'artillerie.
-Tous les postes sont gardés ; le pont-levis est défendu par une batterie qui fera un bruit d'enfer et leur tuera bien du monde s'ils osent en approcher.
-
--*who_victor
-Les fossés ?...
-
--*who_valentin
-Sont pleins d'eau.
-
--*who_victor
-Bien.
-Et la vieille tour ?...
-
--*who_valentin
-Comme c'est l'endroit le plus faible du château et qu'ils peuvent facilement s'en emparer en forçant la petite porte du rempart, j'ai fait remplir le bas de matières combustibles auxquelles on mettra le feu dès qu'ils y seront rentrés.
-
--*who_victor
-Ah Valentin !...
-Ce moyen...
-
--*who_valentin
-Est excusable.
-N'avons-nous pas à combattre des ennemis dix fois plus nombreux que nous ?
-Il faut leur ôter l'envie d'y revenir.
-
--*who_victor
-Vas dans la chambre qui est au-dessous de la tourelle du nord, tu observeras les mouvements de l'ennemi, et tu viendras m'en rendre compte.
-
--*who_valentin
-J'y vais, mon général : ah !
-Ah !
-Nous allons voir beau jeu.
-
-**** *book_ *id_II03 *act_II *date_1798
-
--*who_victor
-Vous voilà, mon père !
-Et toi aussi, ma Clémence !....
-Pourquoi quittez-vous l'asile que je vous ai choisi ?
-
--*who_lebaron
-Le danger n'est point assez pressant pour que ces dames se séparent de nous ; quant à moi, je prétends bien ne pas rester dans l'inaction, tandis que tu combattras pour nous défendre.
-
--*who_victor
-Je ne souffrirai pas que vous exposiez vos jours.
-
--*who_lebaron
-As-tu quelque renseignement sur la force et la position de l'ennemi, car je ne doute pas qu'après ma réponse Roger ne se mette bientôt en campagne ?
-
--*who_victor
-Valentin est en vedette, et nous instruira à temps de tous ses mouvements.
-
--*who_lebaron
-Nous pouvons donc causer un moment des intérêts qui te sont chers.
-
--*who_victor
-Bon père !
-
--*who_lebaron
-Je te l'ai déjà dit, tu seras mon gendre.
-C'est ta femme, ton vieux père, ce sont tes possessions que tu vas défendre.
-Je ne dis pas cela pour augmenter ton courage ; tout me prouve assez que je puis compter sur ta tendresse et ton appui.
-Oui, Victor,tu seras l'époux de Clémence : j'ai nourri dés long - temps dans mon sein cet espoir consolant : je me suis dit cent fois : voilà celui qui me succédera, qui protégera ma fille et soutiendra ma vieillesse.
-
--*who_clemence
-Pourquoi ne lui as-tu pas dit cela plutôt ?...
-Combien de chagrins tu lui aurais épargnés ?.... 21
-
--*who_victor
-Quoi !
-Ce n'est point une erreur ?....
-Votre main bienfaisante daignera serrer des nœuds ?...
-
--*who_lebaron
-Oui, mon ami.
-J'y mets cependant une condition.
-
--*who_clemence
-Tu la rempliras, n'est-ce pas Victor ?
-
--*who_victor
-Parlez, mon père.
-
--*who_lebaron
-Tu sais que je fais peu de cas de la naissance et de la fortune ; l'honneur et la probité sont les seuls titres que je veux trouver dans mon gendre et sa famille.
-Tes parents, Victor, je ne les connais point ; toi-même ignores à qui tu dois le jour ; il faut que tu le saches.
-Tu vas voir si j'exige trop : quelque part que ce soit ton père, quel que soit son état et sa fortune, s'il est honnête homme, tu seras l'époux de ma fille.
-Me trouves-tu déraisonnable ?
-
--*who_victor
-Pourriez-vous le croire ?
-
--*who_lebaron
-Exempt de presque tous les préjugés qui affligent la société, je n'en ai qu'un, mais bien puissant, qui dirige ma conduite et sera toujours le mobile de mes actions ; c'est que j'adore la vertu et que j'abhorre le crime.
-Oui, la vertu malheureuse est digne de mon hommage, de tous mes bienfaits ; mais le crime, fut-il couvert d'or !
-Rien ne pourra m'en rapprocher.
-La ligne qui nous sépare ira se perdre dans mon tombeau.
-
--*who_victor
-N'en doutez pas, mon père, quel qu'il soit, doit être vertueux, je le sens à mon cœur, à mon amour pour le bien ; il ne peut être que malheureux.
-
--*who_lebaron
-Ce sera un titre de plus à mon estime.
-
--*who_victor
-Eh bien, homme généreux, dès que les dangers qui vous menacent seront dissipés, je partirai et ne tarderai point, je l'espère, à revenir vous sommer de faire mon bonheur.
-
--*who_lebaron
-La main de Clémence t'attend au retour.
-
--*who_victor
-Mais où le chercher ce père tant désiré ?
-Quels lieux m'ont vu naître ?
-Et puis-je me flatter de l'y retrouver encore ?
-
--*who_lebaron
-Je te dois à cet égard tous les renseignements qui sont en mon pouvoir.
-Tu sais que je t'ai trouvé exposé, il y a bientôt vingt quatre ans, dans une caverne à l'entrée de la forêt de Kingratz.
-
--*who_madamegermain
-À l'entrée de la forêt de Kingratz !
-Il y a vingt-quatre ans ?
-
--*who_lebaron
-La richesse de ton berceau m'a toujours fait présumer que tes parents n'étaient point dans l'indigence, mais que quelque circonstance impérieuse les avait forcés d'en agir ainsi.
-Ce portrait que je trouvai sur toi n'a servi qu'à confirmer mes conjectures.
-Je te le remets ; il peut t'être utile dans la recherche que tu vas entreprendre.
-
--*who_clemence
-C'est une femme...
-Oh quelle est jolie !...
-Vois-donc, ma bonne amie.
-
--*who_madamegermain
-Se peut-il !
-Ô ciel !
-
--*who_lebaron
-Qu'avez-vous, madame Germain ?
-
--*who_victor
-D'où naît ce trouble ?
-
--*who_madamegermain
-Ce portrait.... monsieur...
-
--*who_lebaron
-Eh bien ?...
-Ce portrait...
-
--*who_madamegermain
-Sachez...
-
--*who_clemence
-Achevez donc...
-
--*who_madamegermain
-Sachez que c'est...
-
-**** *book_ *id_II04 *act_II *date_1798
-
--*who_valentin
-Eh vite !
-Et vite !
-Sauvez-vous ; Roger sera dans un moment au pied des murailles...
-
--*who_lebaron
-Rentrez dans le château.
-
--*who_valentin
-Il est suivi d'une troupe nombreuse.
-
--*who_victor
-Retire-toi, ma Clémence.
-
--*who_clemence
-Mon père, cette nuit paraît devoir être terrible ; qui peut deviner l'issue d'un combat incertain ?...
-Permettez que mon amant...
-
--*who_lebaron
-Je t'entends.
-Viens, mon fils, viens presser sur ton coeur celle que tu vas défendre.
-
--*who_victor
-Vienne maintenant Roger !...
-Je me sens invincible.
-
--*who_clemence
-N'expose pas trop de jours qui me sont chers.
-
--*who_victor
-Valentin, je te recommande ces dames.
-Rentrez aussi, mon père.
-
--*who_valentin
-Reposez-vous sur moi.
-
--*who_lebaron
-Je te rejoindrai bientôt.
-
-**** *book_ *id_II05 *act_II *date_1798
-
--*who_lofficier
-On n'a rien à démêler avec un brigand tel que toi.
-Fuis, si tu crains la mort.
-
--*who_roger
-Moi, fuir !...
-Amis, secondez ma fureur.
-
--*who_forban
-Capitaine !...
-Capitaine !...
-Roger paraît accompagné de quelques brigands.
-Les ennemis sont sortis ; relevons le pont....
-La victoire est à nous.
-
--*who_lebaron
-C'est ce que nous allons voir.
-
--*who_roger
 Rends-toi, ou tu es mort.
 
--*who_lebaron
-Moi !
-Me rendre à Roger !...
+Non, je ne reviens point de ma surprise. Roger qu'aucun péril n'effraye, que jamais personne n'a vaincu... Roger a échoué devant un enfant ! Oh je m'en vengerai cruellement ! Je prétends, avant trois jours, réduire en cendres le château de cet insolent baron... Il apprendra si c'est impunément qu'on me résiste.
 
--*who_victor
-Tu es Roger !...
-Monstre, tu vas périr !....
+J'y vais. A-t-on relevé les postes ?
 
--*who_madamegermain
-Malheureux !
-Vous allez commettre un crime !
+C'est toi, jeune homme ! Que me veux-tu ?
 
--*who_victor
-Un crime !
-
-**** *book_ *id_II06 *act_II *date_1798
-
--*who_valentin
-Ah !
-Ah !
-Je vous l'avais bien dit, monsieur le baron, que nous leur ôterions l'envie d'y revenir !
-
--*who_victor
-Allez vous reposer, mes amis.
-
--*who_valentin
-J'irai bientôt vous aider à réparer le désordre.
-
-**** *book_ *id_II07 *act_II *date_1798
-
--*who_lebaron
-Je prétends savoir enfin, madame, quel intérêt vous attache à ce brigand.
-Sans autre recommandation que celle du malheur, nous nous armons pour votre défense ; votre ennemi prétendu tombe entre nos mains, et vous nous l'arrachez au moment où sa mort allait délivrer l'Allemagne d'un de ses fléaux les plus terribles.
-
--*who_madamegermain
-Monsieur,
-Pourquoi suis-je venue ici ?
-
--*who_victor
-Répondez, madame, êtes-vous la complice, la femme ou l'amie d'un monstre pour lequel vous témoignez tant d'attachement ?
-
--*who_madamegermain
-Que me demandez-vous ?
-
--*who_victor
-La vérité.
-
--*who_madamegermain
-Tremblez de l'apprendre ce terrible secret.
-
--*who_lebaron
-Expliquez-vous.
-
--*who_victor
-Parlez, madame...
-Quel est ce brigand ?....
-
--*who_madamegermain
-C'est vous qui m'y forcez....
-
--*who_lebaron
-Je le veux.
-
--*who_victor
-Je l'exige.
-
--*who_madamegermain
-Eh malheureux !
-C'est ton père !
-
--*who_lebaron
-Son père !
-
--*who_clemence,valentin
-Roger !
-Son père !
-
--*who_victor
-Lui !
-Mon père !...
-Oh mon Dieu !
-
--*who_madamegermain
-Oui, Roger est son père....
-Je fus l'amie de la malheureuse Adèle sa mère que ce monstre avait enlevée à ses parents, et que je ne voulus jamais abandonner.
-Cette infortunée, affaiblie par la douleur et sentant sa fin approcher, me conjura de soustraire cet enfant qu'elle chérissait à l'infâme métier auquel le destinait son père. «Oh mon amie, me dit-elle, dérobons cette innocente créature au crime qui l'entoure et qui l'attend ; confions-le aux soins de quelque étranger généreux et compatissant ; je consens à me priver de mon fils, pourvu qu'il soit vertueux .»
-Environnée de brigands qui nous surveillaient, je fus longtemps sans trouver l'occasion de la satisfaire.
-Enfin, elle se présenta, j'aperçus un jour un homme endormi a l'entrée d'une des cavernes que nous occupions dans la forêt de Kingratz.
-Cet homme c'était vous, monsieur le baron.
-Vos vêtements m'annoncèrent que vous étiez dans l'opulence, j'examinai vos traits, ils portaient tous l'empreinte de la probité : oui, me dis-je, voilà celui que je cherche ; je cours prendre ce dépôt précieux, et je l'apporte à vos pieds.
-Mais, ô fatale précaution !
-
--*who_victor
-Qu'allez-vous encore m'apprendre ?
-
--*who_madamegermain
-Roger, de retour d'une expédition, demande à embrasser son fils.
-    « Tu ne le verras plus, lui répond ma courageuse amie, je l'ai soustrait a tes infâmes projets...  Malheureuse ! poursuit Roger.
-Où est-il ?
-Rends-moi mon fils.  Non, jamais.
-Il est perdu pour toi.»
-À ces mots, le tigre se précipite sur elle et lui perce le sein.
-
--*who_victor
-Ô jour d'horreur !
-
--*who_lebaron
-Ô crime abominable !
-
--*who_madamegermain
-L'infortunée expira dans mes bras, après avoir exigé de moi le serment de ne jamais révéler ses cruelles aventures, et de ne point apprendre à son fils le mystère de sa naissance, si le hasard me le faisait rencontrer ; je sens que je vous déchire l'âme.
-
--*who_victor
-Qu'avez-vous fait, femme imprudente !
-
--*who_madamegermain
-J'ai dû empêcher un parricide.
-
--*who_clemence
-Pauvre Victor !
-Que je te plains !
-
--*who_valentin
-Malheureux jeune homme !
-Il est donc vrai que la vertu peut naître du crime !
-
--*who_lebaron
-Viens, ma fille, suis-moi.
-
--*who_victor
-Ne fuyez pas l'infortuné Victor...
-Arrêtez mon pe...
-Monsieur...
-Ah !
-Je le vois, je ne suis pour vous qu'un objet d'horreur.
-
--*who_lebaron
-Qu'un malheureux.... que je plains... que j'estime.
-
--*who_victor
-Est-il bien vrai que vous me conservez votre estime ?
-
--*who_valentin
-Avez-vous rien fait pour qu'on vous en prive ?...
-Je réponds, moi, que vous la méritez plus que jamais.
-
--*who_victor
-Mon bonheur serait...
-
--*who_lebaron
-Dieu !...
-Ce sont les traits de son père...
-Viens, Clémence...
-
--*who_clemence
-Mais songe qu'il n'a pas son cœur.
-
--*who_madamegermain
-Il a votre âme toute entière.
-
--*who_valentin
-Et qu'importe son père... n'est il pas bon et vertueux ?
-
--*who_clemence
-Toi-même te plaisais souvent à le dire...
-Comment un seul mot a-t-il pu changer les projets que tu viens de faire ?...
-
--*who_lebaron
-Moi !
-T'unir au fils de Roger !...
-Que je déshonore ma famille par cet hymen honteux...
-Cesse de l'espérer...
-Viens.
-
--*who_clemence
-Puis je le quitter dans cet affreux moment ?
-
--*who_lebaron
-Viens, te dis-je.....
-
--*who_clemence
-Mon père...
-
--*who_lebaron
-Je l'exige.
-
--*who_victor
-Clémence et toi aussi tu me fuis !...
-
--*who_clemence
-Non, Victor, je ne te quitte plus.
-
--*who_lebaron
-C'est trop me résister.
-
--*who_clemence
-Mon père !
-
--*who_victor
-Arrêtez, ou je meurs à vos yeux.
-
--*who_madamegermain
-Prenez pitié de leur douleur.
-
--*who_valentin
-Comment a-t-il pu mériter tant de rigueur ?
-Il est malheureux, d'accord ; mais n'est il pas toujours, dites-moi, ce même Victor que vous chérissiez tant, que vous vous plaisiez à nommer sans cesse votre fils ?...
-Eh bien ?
-Peut-il être responsable des torts de son père ?
-Devez-vous, pouvez-vous le punir d'une faute qu'il n'a point partagée ?...
-Non, monsieur...
-Vous vous êtres montré jusqu'à présent trop sensible, trop équitable pour vouloir commettre une injustice aussi révoltante....
-Ici le baron fait un mouvement d'impatience.
-Oh !
-Je vous demande bien pardon, monsieur le baron...
-Mais c'est que je l'aime tant....
-Je le vois si malheureux, que mon cœur ne peut plus se contenir....
-Je vous le demande en grâce....
-Ne le désespérez pas ce pauvre jeune homme.
-
--*who_clemence
-Mon père, n'est-ce pas toi qui m'as ordonné de l'aimer ?...
-
--*who_lebaron
-Levez-vous, mes enfants, et venez sur mon sein.
-Vous m'avez attendri, votre douleur l'emporte, et tu peux encore espérer d'être l'époux de ma fille.
-
--*who_victor
-Moi, son époux !
-
--*who_lebaron
-Oui, tu le peux.
-Écoute le projet que je viens de former.
-Madame Germain nous a dit que Roger brûlait de retrouver son fils, et qu'il était disposé à l'accabler de toute la tendresse d'un père ?...
-Eh bien, vas le trouver, rends-lui son fils pour un moment, dis-lui que s'il souscrit à mes vœux, l'hymen va t'unir à ma fille, mais que j'exige d'abord qu'il renonce à son infâme métier ; qu'il quitte un nom couvert d'opprobre, pour en prendre un dont tu n'aies point à rougir : dis-lui, qu'il aura par mes soins une retraite assurée dans la partie la plus agréable de l'Allemagne.
-Mais que je veux de sa part un entier sacrifice.
-S'il t'en fait le serment, et s'il y est fidèle, je te jure que tu seras l'époux de Clémence ; s'il refuse mes offres au contraire, tu ne l'a reverras jamais...
-Qu'en penses-tu, Victor, puis-je faire davantage ?
-
--*who_victor
-Ô digne bienfaiteur !
-Tant de bonté m'accable !
-Oui, je vais le trouver....
-Je saurai la soumettre cette âme fière et rebelle !....
-Roger ne pourra résister aux tendres sollicitations d'un fils qui attend de lui son bonheur.
-
--*who_valentin
-Pour cette fols, monsieur, je vous suivrai.
-
--*who_victor
-Non, Valentin, mon absence ne sera pas longue.
-
--*who_valentin
-C'est égal, monsieur.
-Croyez-vous que je vous laisse aller seul, au milieu d'une troupe de brigands ?...
-Ils n'auraient qu'à vous tuer !...
-Je me reprocherais votre mort toute ma vie...
-Au lieu qu'à deux on peut se défendre au moins.....
-
--*who_victor
-Sois tranquille je ne cours aucun danger...
-Je vais donc partir, et ne tarderai point à revenir digne de vos bienfaits.
-
--*who_lebaron
-Ce sera combler mes désirs.
-Je vais tout faire disposer pour ton départ.
-
-**** *book_ *id_II08 *act_II *date_1798
-
--*who_victor
-Clémence, quoique j'espère triompher de Roger, et le rendre à la vertu, je ne me dissimule point cependant les difficultés d'une pareille entreprise, et je frémis de la condition que m'a imposé ton père si le succès ne couronnait point notre attente....
-
--*who_clemence
-Ne parle pas de cela Victor...
-Tu me désespères.
-
--*who_victor
-Accepte, ma Clémence, comme un gage de mon amour, ce bracelet de cheveux que ta main a tissés ; porte-le toujours, qu'il te rappelle un infortuné qui méritait peut être un meilleur sort.
-
--*who_clemence
-Tiens, Victor, prends cette écharpe ; qu'elle te conduise partout au champ d'honneur, et si le sort nous sépare, qu'elle te rappelle ta Clémence, et cette maison hospitalière où ton enfance trouva un asile doux et tranquille.
-Jure-moi qu'elle ne te quittera jamais ; et que jamais, surtout, elle n'ornera le sein d'une rivale.
-
--*who_victor
-Je le jure !
-
--*who_victor
-Ô dieu !
-Toi qui connais nos cœurs et la pureté de nos serments, daigne les consacrer ces serments inviolables par ton auguste protection.
-
--*who_clemence
-Je jure en ta présence et celle de nos amis les plus chers, de ne vivre que pour celui que mon cœur a choisi dès l'enfance, et de n'être jamais à d'autre.
-
-**** *book_ *id_III01 *act_III *date_1798
-
--*who_roger
-Non, je ne reviens point de ma surprise.
-Roger qu'aucun péril n'effraye, que jamais personne n'a vaincu...
-Roger a échoué devant un enfant !
-Oh je m'en vengerai cruellement !
-Je prétends, avant trois jours, réduire en cendres le château de cet insolent baron...
-Il apprendra si c'est impunément qu'on me résiste.
-
-**** *book_ *id_III02 *act_III *date_1798
-
--*who_forban
-Capitaine, la troupe de Dragovick rentre au camp, et demande à partager les prises qu'elle a faites.
-
--*who_roger
-J'y vais.
-A-t-on relevé les postes ?
-
--*who_forban
-Oui, capitaine.
-
-**** *book_ *id_III03 *act_III *date_1798
-
--*who_morneck
-Forban, les prises sont-elles considérables ?
-
--*who_forban
-Mais pas mal.
-
--*who_morneck
-Il aurait mieux valu pour nous que nous fussions de cette expédition, que d'aller attaquer ce diable de château.
-
--*who_forban
-Oui vraiment, cette nuit nous a coûté cher.
-
--*who_morneck
-Nous avons perdu là de braves camarades.
-
--*who_forban
-Et demandez moi pourquoi tant de monde tué ?
-Pour une femme.
-Comme si le capitaine Roger n'en avait pas d'autres, cent fois plus belles, à sa disposition.
-
--*who_morneck
-Ce n'est pas qu'il en soit amoureux.
-Mais elle fut autrefois l'amie de sa femme, et il espère toujours la forcer de lui apprendre ce qu'est devenu ce fils, qu'il regrette et dont il nous entretient quelquefois.
-Il serait à-peu-près du même âge que le fils du baron, et Roger comptait en faire un jour notre chef.
-
--*who_forban
-À propos de ce jeune homme.
-Sais-tu qu'il est intrépide ?
-Il se bat comme un enragé.
-
--*who_morneck
-Comment, diable !...
-Il a failli tuer notre capitaine.
-
--*who_forban
-Lui !
-
--*who_morneck
-Oui, vraiment.
-
--*who_forban
-Ah !
-Mille morts !
-C'est fait de lui, s'il tombe jamais entre nos mains.
-
--*who_victor
-Je veux voir Roger.
-
--*who_unindependant
-Tu ne le verras pas.
-
--*who_victor
-Je le verrai, vous dis-je.
-
--*who_morneck
-Vois donc, Forban, quel est cet homme qu'on amène.
-
--*who_forban
-Heureux hasard !
-C'est lui-même.... j'en veux faire un sacrifice.
-
-**** *book_ *id_III04 *act_III *date_1798
-
--*who_morneck
-Que viens-tu faire ici, jeune insensé ?
-
--*who_forban
-C'est donc toi qui as fait égorger et brûler nos camarades ?...
-Je ne sais qui retiens ma colère...
-Je devrais.....
-
--*who_victor
-Lâche !
-Il est bien digne de toi d'insulter un ennemi sans défense !...
-Si je disais un mot, tu rentrerais dans la poussière, et Roger lui même prendrait soin de me venger, mais tu es trop vil a mes yeux pour que je m'abaisse à te punir.
-
--*who_morneck
-Mais enfin, qui t'amène en ces lieux ?
-
--*who_victor
-J'y viens parler à Roger.
-
--*who_forban
-Et que lui veux-tu ?
-
--*who_victor
-Tu le sauras, s'il juge à propos de t'en instruire.
-
--*who_forban
-C'en est trop....
-Laisse-moi venger mes camarades.
-
--*who_victor
-Qu'on me conduise à lui et tu vas pâlir en sachant qui je suis.
-
--*who_forban
-Le voici.
-
-**** *book_ *id_III05 *act_III *date_1798
-
--*who_morneck
-Capitaine, un envoyé du baron de Fritzierne demande à te voir.
-
--*who_roger
-C'est toi, jeune homme !
-Que me veux-tu ?
-
--*who_victor
-Te parler sans témoins.
-
--*who_roger
 Parle, ce sont mes amis.
 
--*who_victor
-Je ne le puis.
-Il s'agit d'un secret qui te concerne.
-
--*who_roger
 D'un secret... qui... me... concerne ?
 Éloignez-vous un moment.
 Nous sommes seuls, qu'as-tu à me dire ?
 
-**** *book_ *id_III06 *act_III *date_1798
-
--*who_victor
-Me connais-tu, Roger ?
-
--*who_roger
 Oui, comme un ennemi que j'ai combattu.
 
--*who_victor
-Sais-tu qui je suis ?
+Non. Mais enfin, qui t'amène ici ?
 
--*who_roger
-Non.
-Mais enfin, qui t'amène ici ?
+Ah ! Ne me rappelle pas ce douloureux souvenir !
 
--*who_victor
-Il te souvient du jour où la malheureuse Adèle expira sous tes coups.
+Parle.... Oh oui... Parle-moi de ce fils que j'aime et que toute mes recherches n'ont pu me faire découvrir.
 
--*who_roger
-Ah !
-Ne me rappelle pas ce douloureux souvenir !
-
--*who_victor
-Eh bien !
-Ce fils qui causa la mort de sa mère...
-
--*who_roger
-Parle....
-Oh oui...
-Parle-moi de ce fils que j'aime et que toute mes recherches n'ont pu me faire découvrir.
-
--*who_victor
-Ce fils... qu'on t'a enlevé....
-
--*who_roger
 Le connaîtrais-tu ?
 
--*who_victor
-Et qui jusqu'à présent n'avait connu que le bonheur...
+Il serait malheureux ! Toi qui le connais, dis-moi, où est-il ?... Que fait-il ?...
 
--*who_roger
-Il serait malheureux !
-Toi qui le connais, dis-moi, où est-il ?...
-Que fait-il ?...
+Trop heureux Roger ! Tu vas revoir ton fils ! Je vole au-devant de lui ? Achève.... de grâce.... Où est-il ?....
 
--*who_victor
-Il vient trouver son père.
+Quoi ? Tu serais....
 
--*who_roger
-Trop heureux Roger !
-Tu vas revoir ton fils !
-Je vole au-devant de lui ?
-Achève.... de grâce....
-Où est-il ?....
-
--*who_victor
-Devant toi.
-
--*who_roger
-Quoi ?
-Tu serais....
-
--*who_victor
-Oui.
-Je suis le fils d'Adèle.
-
--*who_roger
 Mais comment...
 
--*who_victor
-Reconnais-tu ce portrait ?
-
--*who_roger
-C'est elle.
-Oui, la voilà...
-Viens dans mes bras... que je te presse sur ce sein paternel !...
+C'est elle. Oui, la voilà... Viens dans mes bras... que je te presse sur ce sein paternel !...
 Dis-moi, mais dis-moi donc, qui m'a rendu mon fils, et à qui je dois le bonheur de le revoir ?...
 
--*who_victor
-À madame Germain.
-C'est elle qui m'a révélé le secret de ma naissance, et qui m'a remis entre les mains du baron de Fritzierne à qui je dois tout.
-
--*who_roger
 Le baron de Fritzierne ?...
 
--*who_victor
-Hélas !
-Elle a détruit d'un mot tout le charme de ma vie.
-
--*who_roger
 Je ne te comprends pas.
 
--*who_victor
-Qui.
-Les liens qui m'attachent à toi causent à jamais mon malheur.
+Moi ! Causer le malheur de mon fils ?
 
--*who_roger
-Moi !
-Causer le malheur de mon fils ?
-
--*who_victor
-Mais d'un mot tu pourrais le faire cesser.
-
--*who_roger
 Serait-il vrai ?
 
--*who_victor
-Oui.
-Il dépend de toi....
+Parle... Parle, mon fils.
 
--*who_roger
-Parle...
-Parle, mon fils.
-
--*who_victor
-Le baron de Fritzierne a une fille charmante.
-Clémence était l'objet de tous mes vœux ; nous nous aimions, son père consentait à nous unir, j'allais être heureux, lorsque le fatal secret de ma naissance se découvre.
-Dès lors le mépris m'environne, on me rejette au loin, et le sang de la vertu ne peut plus s'unir au mien.
-
--*who_roger
 Achève.
 
--*who_victor
-Je voulais fuir, ensevelir ma honte au fond des déserts ; une voix bienfaisante me rappelle :
-    « Vas trouver ton père, me dit ce tendre protecteur, dis-lui que je puis tout oublier s'il se rend à mes vœux.
-Que je partage avec lui ma fortune, pourvu qu'il abandonne ses complices, qu'il fuie pour jamais une terre arrosée du sang de l'innocent, qu'il aille vivre dans une retraite profonde.
-Qu'enfin il ne soit plus Roger, et je te donne ma fille... »
-
--*who_roger
 Quel orgueil !
 
--*who_victor
-« Mais s'il se refuse à tes désirs, s'il rejette mes bienfaits, vas, fuis loin de moi, de ton amante.
-Le même lieu ne nous verra plus réunis.»
-
--*who_roger
 Eh bien ?
 
--*who_victor
-Voilà, Roger, ce que m'a dit le plus généreux des hommes ; tel est le motif qui m'a fait chercher ta présence.
-Parle, te sens-tu la vertu nécessaire pour quitter le métier que tu fais ?
-Pour assurer le bonheur de ton fils et le repos de ta vieillesse ?
-J'attends ta réponse pour te serrer dans mes bras, ou te fuir pour jamais.
+A-t-il pu croire, ton orgueilleux baron, que je serais assez lâche pour abandonner les guerriers qui me suivent, l'éclat qui m'environne, pour aller vivre obscurément comme celui que la nature a formé sans courage et sans forces ? Non, qu'il ne l'espère pas.
 
--*who_roger
-A-t-il pu croire, ton orgueilleux baron, que je serais assez lâche pour abandonner les guerriers qui me suivent, l'éclat qui m'environne, pour aller vivre obscurément comme celui que la nature a formé sans courage et sans forces ?
-Non, qu'il ne l'espère pas.
-
--*who_victor
-Tu refuses donc de faire mon bonheur ?
-
--*who_roger
-Au contraire, mon fils.
-Consens à rester près de moi, tu me verras sans cesse occupé des moyens de te plaire et de te rendre agréable ce séjour.
+Au contraire, mon fils. Consens à rester près de moi, tu me verras sans cesse occupé des moyens de te plaire et de te rendre agréable ce séjour.
 Vas, tu préféreras bientôt les charmes d'une vie libre et indépendante aux prétendus avantages que les préjugés semblent te promettre dans la société ; chacun de mes soldats qui ne voit en moi qu'un père, te regardera comme un nouvel ami ; tes exploits ne tarderont point à t'associer à ma gloire, et ton nom devenu fameux, sera bientôt digne du mien.
 
--*who_victor
-Ainsi, l'éclat d'une fausse gloire, l'espoir d'un bonheur imaginaire ferme ton cœur aux plus doux sentiments de la nature et te prive des plus précieuses jouissances !....
-
--*who_roger
 L'amour de mon fils me suffit.
 
--*who_victor
-Eh bien, rends-toi donc à ses désirs...
-Roger !....
-Peux-tu demeurer insensible à mes prières, à ma douleur ?....
+Non, mon fils, je ne puis céder à tes vœux. Mes trésors, ma vie même, j'aurais pu te les donner. Mais le sort de mes camarades, leur bonheur, leur amour, tout cela n'est point à moi ; je ne puis en disposer. C'est à regret que je t'afflige, mais rien ne me fera changer.
 
--*who_roger
-Non, mon fils, je ne puis céder à tes vœux.
-Mes trésors, ma vie même, j'aurais pu te les donner.
-Mais le sort de mes camarades, leur bonheur, leur amour, tout cela n'est point à moi ; je ne puis en disposer.
-C'est à regret que je t'afflige, mais rien ne me fera changer.
+Quoi !... Tu veux déjà te séparer de moi ? Non, mon fils, je ne te laisserai point partir sitôt.
 
--*who_victor
-Adieu, Roger.
+Non, je ne prétends point disposer de ta liberté. Tu partiras, mais dans quelques jours, lorsque j'aurai eu le temps de te faire connaître ces hommes que tu méprises et ton père lui-même que tu crains d'appeler de ce doux nom.
 
--*who_roger
-Quoi !...
-Tu veux déjà te séparer de moi ?
-Non, mon fils, je ne te laisserai point partir sitôt.
+Brigands !... Et qui t'a dit que mes camarades méritassent de porter ce nom ? Je ne te cacherai pas que plusieurs d'entr'eux avaient eu une jeunesse fougueuse, et que moi-même poussé avec ardeur vers le vice qui me semblait plus attrayant que la vertu, j'avais bien quelques torts à me reprocher. Quoi qu'il en soit, ces hommes ardents, audacieux, m'ont choisi pour leur chef, pour leur premier ami ; dès ce moment j'ai formé le projet de les rendre meilleurs, de les soumettre à des statuts, à des convenances sociales, et tu vas voir si j'y suis parvenu.
 
--*who_victor
-Voudrais-tu me retenir ?
+Camarades, ce jeune homme est le fils d'une victime innocente, qui est tombée sous mes coups ; il m'est cher comme mon propre fils, que tout le monde ait ici pour lui les plus grands égards. La moindre insulte qui lui serait faite, serait regardée par moi comme un outrage envers ma personne, et je la vengerais dans le sang du coupable. Vous m'entendez. Il n'y aura point de travaux aujourd'hui. Que chacun se prépare aux honneurs que je vais rendre à ce jeune étranger. Forban, rassemble nos camarades, et que mes ordres soient promptement exécutés.
 
--*who_roger
-Non, je ne prétends point disposer de ta liberté.
-Tu partiras, mais dans quelques jours, lorsque j'aurai eu le temps de te faire connaître ces hommes que tu méprises et ton père lui-même que tu crains d'appeler de ce doux nom.
-
--*who_victor
-Moi !
-Que je consente jamais à vivre avec de tels brigands ?
-
--*who_roger
-Brigands !...
-Et qui t'a dit que mes camarades méritassent de porter ce nom ?
-Je ne te cacherai pas que plusieurs d'entr'eux avaient eu une jeunesse fougueuse, et que moi-même poussé avec ardeur vers le vice qui me semblait plus attrayant que la vertu, j'avais bien quelques torts à me reprocher.
-Quoi qu'il en soit, ces hommes ardents, audacieux, m'ont choisi pour leur chef, pour leur premier ami ; dès ce moment j'ai formé le projet de les rendre meilleurs, de les soumettre à des statuts, à des convenances sociales, et tu vas voir si j'y suis parvenu.
-
-**** *book_ *id_III07 *act_III *date_1798
-
--*who_roger
-Camarades, ce jeune homme est le fils d'une victime innocente, qui est tombée sous mes coups ; il m'est cher comme mon propre fils, que tout le monde ait ici pour lui les plus grands égards.
-La moindre insulte qui lui serait faite, serait regardée par moi comme un outrage envers ma personne, et je la vengerais dans le sang du coupable.
-Vous m'entendez.
-Il n'y aura point de travaux aujourd'hui.
-Que chacun se prépare aux honneurs que je vais rendre à ce jeune étranger.
-Forban, rassemble nos camarades, et que mes ordres soient promptement exécutés.
-
-**** *book_ *id_III08 *act_III *date_1798
-
--*who_roger
 Tu les connaîtras bientôt ces hommes que tu traites de brigands, et tu me diras alors si tu as vu dans la Misnie, la Moldanie, dans toute l'Allemagne, des troupes mieux tenues, plus soumises et mieux disciplinées.
 
--*who_victor
-Et n'est-ce point avec ces mêmes hommes que depuis vingt ans tu portes le deuil et la désolation par toute l'Allemagne ?
+Tu te trompes, mon fils. Je n'ai fait que défendre le faible contre les vexations des riches insolents et oppresseurs.
 
--*who_roger
-Tu te trompes, mon fils.
-Je n'ai fait que défendre le faible contre les vexations des riches insolents et oppresseurs.
-
--*who_victor
-Qui t'en a donné le droit ?
-
--*who_roger
 Mon amour pour l'humanité.
 
--*who_victor
-Et qui t'a dit qu'ils fussent coupables ?
-
--*who_roger
 Leurs victimes.
 
--*who_victor
-S'il était vrai, la loi les eût frappés.
-
--*who_roger
 Elle ne l'a point fait.
 
--*who_victor
-N'importe.
-Les punir autrement est un assassinat.
-
--*who_roger
 Mon fils !
 
--*who_victor
-Quoi !
-Sans autre droit qu'un horrible caprice, qu'une criminelle ambition, vous allez ravager leurs terres, dévaster leurs campagnes, la crainte et l'effroi volent devant vous ; le feu, le sang, le carnage et la mort vous suivent et vous accompagnent.
-Ah Roger !...
-Quand même on les eût égarés, ce n'est point en les égorgeant qu'on ramène les hommes.
+C'est assez... Je pardonne à ton aveuglement.
 
--*who_roger
-C'est assez...
-Je pardonne à ton aveuglement.
-
--*who_victor
-C'en est fait, ma Clémence, je te perds pour jamais.
-
-**** *book_ *id_III09 *act_III *date_1798
-
--*who_roger
 Suis-moi, viens visiter mon camp, j'espère détruire entièrement les préjugés à notre égard.
 
--*who_victor
-Ne t'en flatte pas Roger.
+Eh bien ! Si tu persistes, tu seras maître alors de me quitter ; mais ce ne sera pas du moins sans que je t'aie comblé de bienfaits qui te mettent à l'abri de l'infortune. Viens.
 
--*who_roger
-Eh bien !
-Si tu persistes, tu seras maître alors de me quitter ; mais ce ne sera pas du moins sans que je t'aie comblé de bienfaits qui te mettent à l'abri de l'infortune.
-Viens.
-
--*who_valentin
-Je lui parlerai, vous dis je ; je veux voir mon maître ; je veux voir mon maître : je ne m'en retournerai pas sans l'avoir vu d'abord....
-On me tuerait plutôt.
-
--*who_clemence
-Le voilà !
-Valentin !....
-Le voilà...
-
-**** *book_ *id_III10 *act_III *date_1798
-
--*who_victor
-Valentin !...
-Clémence !...
-
--*who_valentin
-Mon cher maître !
-
--*who_clemence
-Victor !
-
--*who_valentin
-Mon bon maître !
-Que je suis heureux de vous revoir !
-
--*who_roger
 Quels sont ces étrangers ?
 
--*who_valentin
-Je suis son vieil ami ; c'est moi qui l'ai élevé, il ne m'a pas permis de le suivre ce matin ; mais je n'ai pu résister au désir de savoir quelle impression ses discours avaient produit sur vous.
-Mademoiselle Clémence, ai-je dit, il faut que j'aille voir ce que fait là-bas notre jeune maître....
-C'est que vraiment, ça me tourmentait de ne plus vous voir....
-Oh ! je n'y étais plus....
-Enfin, que vous dirai je ?
-Quand mademoiselle m'a vu bien décidé à venir vous trouver : elle m'a dit, mais Valentin, si je t'accompagnais, si j'allais joindre mes instances à celles de Victor ?...
-Sans doute, mademoiselle, venez...
-Cela ne peut que produire un bon effet...
-Un homme, quelque dur qu'il soit, ne peut être tout-à-fait insensible aux larmes d'une jeune et jolie femme....
-Mettez vos habits d'homme, et sortons comme si nous allions à la promenade...
-Nous sommes partis...
-Et nous voilà.
+Quoi ! C'est-là...
 
--*who_victor
-Mes bons !...
-Mes chers amis !
+C'est à ce regret que je vous afflige, mais je te l'ai déjà dit, je ne puis quitter mes camarades... Un serment solennel m'attache à eux...
 
--*who_valentin
-Mais à présent...
-Voilà qui est bien décidé, je ne vous quitte plus...
-J'ai eu trop de peur de vous perdre.
+Ô ! Mon cher fils !... Qu'ils me sont doux, ces tendres épanchements...
 
--*who_roger
-Quoi !
-C'est-là...
-
--*who_victor
-Oui, c'est-là cette Clémence que j'adore, que tu refuses de nommer un jour ta fille, et qui ne craint point de venir te prier de céder à mes vœux....
-
--*who_roger
-C'est à ce regret que je vous afflige, mais je te l'ai déjà dit, je ne puis quitter mes camarades...
-Un serment solennel m'attache à eux...
-
--*who_clemence
-Eh quoi !
-Tu pourrais être insensible au cri de la nature ?...
-
--*who_victor
-Ah, Roger !
-Rends-moi mon père, je le sens à mon cœur ; il m'est impossible d'étouffer la voix qui me parle pour toi.
-
--*who_roger
-Ô !
-Mon cher fils !...
-Qu'ils me sont doux, ces tendres épanchements...
-
--*who_victor
-Eh bien !
-Si tu l'aimes ce fils, souscrits à ces désirs.
-
--*who_clemence
-Peux-tu rien comparer aux plaisirs qui t'attendent, lorsque vivant sans crainte, sans remords, dans une retraite ignorée et profonde...
-
--*who_victor
-Au milieu des enfants dont tu auras comblé les vœux, et qui te devront leur bonheur.
-
--*who_clemence
-Nous te prodiguerons chaque jour les plus tendres caresses.
-
--*who_victor
-Et que tu verras s'élever autour de toi des êtres intéressants, à qui nous apprendrons dès leur naissance, à te bénir, à t'aimer...
-
--*who_clemence
-Crois-moi, Roger, rien ne remplace ces délicieux instants.
-
--*who_roger
 Laissez-moi, mes amis...
 
--*who_victor
-Tu t'attendris, Roger !...
+Levez-vous, mes enfants.... Vos larmes... Votre douleur ont fait sur moi...
 
--*who_clemence,victor
-Cède !
-Ah !
-Cède à ma prière !...
-
--*who_valentin
-Consentez à faire leur bonheur !...
-
--*who_clemence
-Un mot...
-
--*who_victor
-Un seul mot !...
-Et tu es digne d'être père !...
-
--*who_roger
-Levez-vous, mes enfants....
-Vos larmes...
-Votre douleur ont fait sur moi...
-
-**** *book_ *id_III11 *act_III *date_1798
-
--*who_morneck
-Capitaine, le corps considérable qui nous poursuit, et que nos vedettes avaient signalé hier, s'avance sur la forêt.
-Si tu n'y prends garde, nous ne tarderons point à être investis.
-
--*who_roger
 Il suffit.
 
--*who_victor
-Qu'entends-je !
-
--*who_clemence
-Ô mon père !
-
--*who_roger
 Morneck, pendant que je vais donner mes ordres, et disposer tout pour notre défense ; toi, conduis ce jeune homme et ses deux amis dans la caverne où est placé le corps de réserve, je te charge de veiller sur eux, s'il leur arrive le moindre mal, tu m'en réponds sur ta tête.
 
--*who_victor
-Mais Roger, pourquoi nous retenir ?
-
--*who_roger
 La fuite devient impossible actuellement, et votre propre sûreté exige que vous restiez ici
 
--*who_clemence
-Ah, Victor !
-Qu'allons-nous devenir ?
-
--*who_roger
 Ne craignez rien, madame, nous mourrons tous avant qu'on ne parvienne jusqu'à vous.
 
--*who_victor
-Adieu, Roger.
-
--*who_roger
 Viens dans mes bras, mon fils, peut-être cet embrassement sera-t-il le dernier !
 
-**** *book_ *id_III12 *act_III *date_1798
+Camarades, un ennemi puissant, que nous avons fait repentir plus d'une fois de sa témérité, ose encore nous attaquer. Les troupes de l'Empereur marchent vers notre retraite, je ne vous retracerai point les belles actions qui vous ont illustré, je ne chercherai point à exciter votre courage, il m'est que trop connu. Je vous rappellerai seulement que nous n'avons d'espoir que dans une vigoureuse résistance, et qu'une mort ignominieuse attend ceux d'entre nous qui tomberaient vivants entre les mains de l'ennemi. Jurons donc, mes amis, de nous battre jusqu'au dernier soupir. Jurons, si nous succombions au nombre, de nous réfugier dans ce souterrain que j'ai fait miner à cet effet, et d'y périr plutôt que de nous rendre.
 
--*who_roger
-Camarades, un ennemi puissant, que nous avons fait repentir plus d'une fois de sa témérité, ose encore nous attaquer.
-Les troupes de l'Empereur marchent vers notre retraite, je ne vous retracerai point les belles actions qui vous ont illustré, je ne chercherai point à exciter votre courage, il m'est que trop connu.
-Je vous rappellerai seulement que nous n'avons d'espoir que dans une vigoureuse résistance, et qu'une mort ignominieuse attend ceux d'entre nous qui tomberaient vivants entre les mains de l'ennemi.
-Jurons donc, mes amis, de nous battre jusqu'au dernier soupir.
-Jurons, si nous succombions au nombre, de nous réfugier dans ce souterrain que j'ai fait miner à cet effet, et d'y périr plutôt que de nous rendre.
+J'ai voulu te voir à mes derniers moments, mon fils, j'ai voulu te faire l'aveu des crimes que j'ai vainement cherché à te déguiser sous les systèmes les plus faux et les plus dangereux.
+Vous à qui je dois le bonheur d'avoir vu mon fils, et qui l'avez préservé de la séduction et des crimes auxquels mon exemple aurait pu le porter ; vous qui méritez seul d'être nommé son père, ne l'abandonnez pas ; oubliez le sang dont il sort pour ne vous souvenir que de ses vertus... Consentez à l'unir à votre fille. Combien sa douleur m'avait ému ! Ah ! Si la mort n'était pas venue m'arracher à tout ce que j'aime, Roger aurait pu vous forcer peut-être à l'estimer, Clémence aurait pu sans rougir se nommer ma fille... Adieu... Victor... N'oublie jamais mon exemple... Mes remords... Que ce triste moment soit sans cesse présent à ta pensée... qu'il te rappelle qu'il est une heure suprême, où le coupable ne peut plus se faire illusion sur ces crimes, adieu... Pardonne-moi ta triste existence.
 
--*who_tous
-Nous le jurons.
 
-**** *book_ *id_III13 *act_III *date_1798
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
 
--*who_valentin
-Les voilà !...
-Les voilà !...
-Sauvez-les...
+Oui, je dois fuir ce séjour ; l'honneur l'exige. Ce château où l'on éleva mon enfance ; ce jardin où je reçus cent fois les innocentes caresses de ma Clémence, de Clémence qui ne voit qu'un frère dans celui que le plus violent amour consume, je quitterai tout... Oui, tout. Mais mon protecteur !... Cet homme respectable et vertueux qui compte sur moi pour adoucir les ennuis de sa vieillesse ; aurai-je bien le courage de l'abandonner ?... Ingrat Victor ! L'as-tu pu concevoir cet affreux projet ?... Et pourquoi fuir ?... Si je lui déclarais mon amour pour sa fille, cet amour pur et fondé sur la reconnaissance, pourrait-il me repousser de son sein après m'avoir tant de fois accable des bontés les plus touchantes ?... Non Le baron de Fritzierne est sage, il fait peu de cas de la naissance, des dons de la fortune : il n'estime que l'honneur et la probité ; il me jugera digne de sa fille, il nous unira !... Ô ma Clémence !... Et que dis-je, insensé !... Toi, malheureux enfant, trouvé dans une foret : toi, sans parents, sans amis, sans appui sur la terre, tu deviendrais le gendre de l'un des plus riches seigneurs d'Allemagne !... Non, non. Victor ; cesse de t'abuser : ce bonheur n'est pas fait pour toi. Fuis, malheureux !... Fuis des lieux que ta présence ne tarderait point à troubler.
 
--*who_lebaron
-Arrêtez...
-Ce jeune homme est mon fils.
+Que vas-tu faire ?
 
--*who_clemence,victor
-Mon père !
+Ma sœur ?
 
--*who_lebaron
-Que je suis heureux de vous rejoindre, mes chers enfants !
-Que d'inquiétudes vous m'avez causées !...
-Tu étais à peine sorti du château, lorsque j'appris que les troupes de l'Empereur, attirées par le combat de cette nuit, se disposaient à forcer la retraite de Roger.
-Tremblant qu'on ne te prît pour un des brigands de sa suite et que ma Clémence ne fût la victime de son amour et de son imprudence, j'ai volé à votre secours ; mais le ciel est juste, je le vois ; il n'a point souffert que l'innocent fût confondu avec le coupable.
-Monsieur, je vous réponds de ce jeune homme.
+Ton frère, Clémence !
 
--*who_lofficiergeneral
-Il suffit, monsieur le Baron.
-Je vais vous donner une escorte pour vous conduire à votre château.
+Laisse-moi.
 
--*who_lebaron
-Il n'en est pas besoin, mes gens m'ont accompagné.
+Non pas. Mais....
 
--*who_clemence
-Pauvre Victor !
-Quels dangers tu as couru !
+Hélas !
 
--*who_valentin
+Tu m'aimes, Clémence ?
+
+Que me dis-tu ?
+
+Ah ! Par pitié Clémence, éloigne toi, laisse-moi te fuir.
+
+Laisse-moi, laisse-moi seul avec ma douleur.
+
+Ah ! Clémence, si tu savais...
+
+Tu l'apprendras trop tôt ce fatal secret.
+
+Clémence, promets-moi de garder dans ton sein l'aveu que je vais te faire.
+
+Jure-moi...
+
+Femme divine !... Apprends !...
+
+Apprends qu'un feu dévorant circule dans mes veines ; que je t'aime, que je t'adore...
+
+Et sais-tu ce qui fait mon tourment ?
+
+Apprends que tu n'es pas ma sœur.
+
+Non, tu n'es pas ma sœur, je ne suis pas ton frère : je ne suis qu'un amant ivre de tes charmes, de tes vertus ; un enfant trouvé dans une forêt, recueilli par ton père, élevé par lui comme son propre fils. Voilà tout ce que je suis.
+
+Quoi ! Tu me pardonne de t'aimer ? Tu ne me punis point....
+
+Qu'entends-je ! Il se pourrait ?...
+
+Que veux-tu dire ?
+
+Comment ? Il t'aurait dit...
+
+Et tu crois...
+
+Clémence, il ne faut pas qu'un fol amour nous aveugle. Je ne suis qu'un orphelin, sans ami, sans parents, et je ne dois point prétendre...
+
+Oh oui ! Nomme-moi ton frère, que je conserve toujours ce titre près de toi, puisqu'il ne m'est pas permis d'en espérer un plus doux.
+
+Gardons-nous de l'en instruire, je crains tout de sa colère s'il apprenait que j'eusse osé élever mes vœux jusqu'à toi.
+
+Mais Victor n'a point de richesse.
+
+Moi, son époux ! Où m'égarai-je !
+Écoute. Clémence, vas trouver ton père : préviens-le sur tout ce que j'ai à lui dire : un premier aveu de ta part le disposera à m'entendre plus favorablement. Je ne tarderai point à te suivre, je joindrai mes instances aux tiennes, et....
+
+Peux-tu croire ?
+
+Je... te... le... promets.
+
+Adieu, Clémence.
+
+Malheureux ! Qu'allais-je faire ?... Me présenter au baron de Fritzierne ? Lui demander la main de sa fille ? Quel délire m'entraînait ! Cesse de t'aveugler, Victor ; ce bon vieillard t'estime, il te traite comme son fils, mais ce sont les liens de la fraternité, et non ceux de l'amour qu'il a voulu resserrer entre sa fille et toi ; jamais il ne consentirait à une union aussi disproportionnée. Vas, fuis, il le faut d'après l'aveu que tu viens de faire. J'abhorre jusqu'à l'idée de la séduction, et cet homme généreux m'accuserait d'ingratitude !... Fuyons.
+
+C'est toi, Valentin ! Et d'où sais-tu ?...
+
+Valentin...
+
+Mon ami....
+
+Mais enfin, qui t'a dit ?...
+
+Clémence !
+
+Eh bien ? Elle t'a dit....
+
+Ensuite.
+
+Et tu as entendu ?...
+
+Jamais, Valentin.
+
+Valentin !
+
+Songe donc, mon ami, que les convenances...
+
+Mais, ma naissance...
+
+Si du moins je connaissais le nom de mon père.
+
+Il y en aurait bien davantage à nourrir dans le cœur de sa fille une passion funeste qui ne peut que faire son malheur. Non, Valentin, tout ce que tu peux me dire ne changera rien à ma résolution, elle est invariable : le soleil ne me retrouvera plus dans ce château.
+
+Oui, mon ami.
+
+Où vas-tu ?... Trouver Clémence peut-être ?...
+
+Pourquoi faire ?
+
+Quoi !... Tu veux....
+
+Y songes-tu, Valentin ? Je n'ai ni fortune, ni amis.
+
+Jamais.
+
+Brave homme !
+
+Non, Valentin, je ne consentirai pas que tu me suives ; reste ; ah ! Reste plutôt près de Clémence ; je serai sûr du moins que quelqu'un lui parlera de moi quand je n'y serai plus. Entends-tu ? Je ne veux pas.
+
+Moi, te chasser !... Bon Valentin !... Oh ! Jamais.
+
+Oui, mon ami ; nous ne nous quittons plus.
+
+Non pas. Il est plus prudent de m'éloigner.... Je vais sortir par la petite porte.
+Tu me rejoindras par le sentier qui conduit à la forêt.
+
+De la discrétion surtout.
+
+C'en est fait, je vais quitter ces lieux où je laisse tout ce qui pouvait m'attacher à la vie, et je les quitte pour n'y jamais revenir.
+
+Qui êtes-vous ?
+
+Que voulez-vous ?
+
+Oui. Pourquoi ?
+
+Sans doute.
+
+Que ne la lui remettez-vous vous-même ?
+
+Et de qui est cette lettre ?
+
+Un secret ?
+
+Périr ?
+
+Oh ciel ! Mon bienfaiteur !.. Ses jours seraient menacés ?
+
+Et par qui ?... Serait-ce toi ?...
+
+Et qui donc ?
+
+Ses jours sont en danger ; et j'allais le quitter !
+Mais c'est une insulte qu'on lui fait, le baron est vertueux. Il ne peut avoir offensé personne.
+Et toi on te charge d'un pareil message ; qui que tu sois, tremble de l'avoir outragé.
+
+« Il faut qu'il l'a reçoive, s'il ne veut périr,» a dit cet homme. Ah ! Courons, courons la lui porter. Mais que lui dire s'il a vu Clémence ?... S'il sait.... Et qu'importe ! Sauvons d'abord ses jours.
+
+Te voilà, Valentin.
+
+Non. Dis-moi... Le baron ?....
+
+Comment ?
+
+Qui te l'a dit ?
+
+Que veux-tu dire ?
+
+Mais quel rapport ?....
+
+Eh bien ?
+
+Vas donc.
+
+Ensuite.
+
+Achève donc.
+
+Après....
+
+Où est-il ?
+
+Où est-il, te dis je ?
+
+Il faut que je lui parle.
+
+Pardon, mon père, et vous ma Clémence. Un intérêt plus pressant me ramène vers vous...
+
+Je viens de sauver vos jours.
+
+Un homme d'un aspect effrayant et armé jusqu'aux dents, vient de me remettre cette lettre, de laquelle dépend, dit-il, votre vie.
+
+On menaçait vos jours ! Et j'aurais pu vous quitter ?
+
+Voyez donc, mon père, ce que contient cette lettre mystérieuse.
+
+Quoi ! Le chef des brigands qui infestent l'Allemagne depuis si longtemps ?
+
+Lisez-donc, mon père.
+
+Achevez de grâce.
+
+Quelle audace !
+
+Cette pauvre madame Germain ! Ne lui aurions-nous donné l'hospitalité que pour la livrer aussi lâchement ?
+
+N'importe. Auriez-vous la faiblesse de céder à ses menaces ?
+
+Mon père, vous avez du monde ici, le château est fortifié ; permettez-moi de me mettre à la tête de vos gens, et je vous réponds d'une vigoureuse résistance.
+
+Elle semble bien malheureuse.
+
+Quelque considération puissante la force sans doute à se conduire ainsi ; mais je la crois vertueuse.
+
+Non, non, vous ne partirez point.
+
+Je réponds d'eux, mon père.
+
+Marchons mes amis.
+
+Eh bien, Valentin, tout est-il disposé ?
+
+Les remparts ?...
+
+Les fossés ?...
+
+Bien. Et la vieille tour ?...
+
+Ah Valentin !... Ce moyen...
+
+Vas dans la chambre qui est au-dessous de la tourelle du nord, tu observeras les mouvements de l'ennemi, et tu viendras m'en rendre compte.
+
+Vous voilà, mon père ! Et toi aussi, ma Clémence !.... Pourquoi quittez-vous l'asile que je vous ai choisi ?
+
+Je ne souffrirai pas que vous exposiez vos jours.
+
+Valentin est en vedette, et nous instruira à temps de tous ses mouvements.
+
+Bon père !
+
+Quoi ! Ce n'est point une erreur ?.... Votre main bienfaisante daignera serrer des nœuds ?...
+
+Parlez, mon père.
+
+Pourriez-vous le croire ?
+
+N'en doutez pas, mon père, quel qu'il soit, doit être vertueux, je le sens à mon cœur, à mon amour pour le bien ; il ne peut être que malheureux.
+
+Eh bien, homme généreux, dès que les dangers qui vous menacent seront dissipés, je partirai et ne tarderai point, je l'espère, à revenir vous sommer de faire mon bonheur.
+
+Mais où le chercher ce père tant désiré ? Quels lieux m'ont vu naître ? Et puis-je me flatter de l'y retrouver encore ?
+
+D'où naît ce trouble ?
+
+Retire-toi, ma Clémence.
+
+Vienne maintenant Roger !... Je me sens invincible.
+
+Valentin, je te recommande ces dames. Rentrez aussi, mon père.
+
+Tu es Roger !... Monstre, tu vas périr !....
+
+Un crime !
+
+Allez vous reposer, mes amis.
+
+Répondez, madame, êtes-vous la complice, la femme ou l'amie d'un monstre pour lequel vous témoignez tant d'attachement ?
+
+La vérité.
+
+Parlez, madame... Quel est ce brigand ?....
+
+Je l'exige.
+
+Lui ! Mon père !... Oh mon Dieu !
+
+Qu'allez-vous encore m'apprendre ?
+
+Ô jour d'horreur !
+
+Qu'avez-vous fait, femme imprudente !
+
+Ne fuyez pas l'infortuné Victor... Arrêtez mon pe... Monsieur... Ah ! Je le vois, je ne suis pour vous qu'un objet d'horreur.
+
+Est-il bien vrai que vous me conservez votre estime ?
+
+Mon bonheur serait...
+
+Clémence et toi aussi tu me fuis !...
+
+Arrêtez, ou je meurs à vos yeux.
+
+Moi, son époux !
+
+Ô digne bienfaiteur ! Tant de bonté m'accable ! Oui, je vais le trouver.... Je saurai la soumettre cette âme fière et rebelle !.... Roger ne pourra résister aux tendres sollicitations d'un fils qui attend de lui son bonheur.
+
+Non, Valentin, mon absence ne sera pas longue.
+
+Sois tranquille je ne cours aucun danger...
+Je vais donc partir, et ne tarderai point à revenir digne de vos bienfaits.
+
+Clémence, quoique j'espère triompher de Roger, et le rendre à la vertu, je ne me dissimule point cependant les difficultés d'une pareille entreprise, et je frémis de la condition que m'a imposé ton père si le succès ne couronnait point notre attente....
+
+Accepte, ma Clémence, comme un gage de mon amour, ce bracelet de cheveux que ta main a tissés ; porte-le toujours, qu'il te rappelle un infortuné qui méritait peut être un meilleur sort.
+
+Je le jure !
+
+Ô dieu ! Toi qui connais nos cœurs et la pureté de nos serments, daigne les consacrer ces serments inviolables par ton auguste protection.
+
+Je veux voir Roger.
+
+Je le verrai, vous dis-je.
+
+Lâche ! Il est bien digne de toi d'insulter un ennemi sans défense !... Si je disais un mot, tu rentrerais dans la poussière, et Roger lui même prendrait soin de me venger, mais tu es trop vil a mes yeux pour que je m'abaisse à te punir.
+
+J'y viens parler à Roger.
+
+Tu le sauras, s'il juge à propos de t'en instruire.
+
+Qu'on me conduise à lui et tu vas pâlir en sachant qui je suis.
+
+Te parler sans témoins.
+
+Je ne le puis. Il s'agit d'un secret qui te concerne.
+
+Me connais-tu, Roger ?
+
+Sais-tu qui je suis ?
+
+Il te souvient du jour où la malheureuse Adèle expira sous tes coups.
+
+Eh bien ! Ce fils qui causa la mort de sa mère...
+
+Ce fils... qu'on t'a enlevé....
+
+Et qui jusqu'à présent n'avait connu que le bonheur...
+
+Il vient trouver son père.
+
+Devant toi.
+
+Oui. Je suis le fils d'Adèle.
+
+Reconnais-tu ce portrait ?
+
+À madame Germain. C'est elle qui m'a révélé le secret de ma naissance, et qui m'a remis entre les mains du baron de Fritzierne à qui je dois tout.
+
+Hélas ! Elle a détruit d'un mot tout le charme de ma vie.
+
+Qui. Les liens qui m'attachent à toi causent à jamais mon malheur.
+
+Mais d'un mot tu pourrais le faire cesser.
+
+Oui. Il dépend de toi....
+
+Le baron de Fritzierne a une fille charmante. Clémence était l'objet de tous mes vœux ; nous nous aimions, son père consentait à nous unir, j'allais être heureux, lorsque le fatal secret de ma naissance se découvre. Dès lors le mépris m'environne, on me rejette au loin, et le sang de la vertu ne peut plus s'unir au mien.
+
+Je voulais fuir, ensevelir ma honte au fond des déserts ; une voix bienfaisante me rappelle : « Vas trouver ton père, me dit ce tendre protecteur, dis-lui que je puis tout oublier s'il se rend à mes vœux. Que je partage avec lui ma fortune, pourvu qu'il abandonne ses complices, qu'il fuie pour jamais une terre arrosée du sang de l'innocent, qu'il aille vivre dans une retraite profonde. Qu'enfin il ne soit plus Roger, et je te donne ma fille... »
+
+« Mais s'il se refuse à tes désirs, s'il rejette mes bienfaits, vas, fuis loin de moi, de ton amante. Le même lieu ne nous verra plus réunis.»
+
+Voilà, Roger, ce que m'a dit le plus généreux des hommes ; tel est le motif qui m'a fait chercher ta présence. Parle, te sens-tu la vertu nécessaire pour quitter le métier que tu fais ? Pour assurer le bonheur de ton fils et le repos de ta vieillesse ? J'attends ta réponse pour te serrer dans mes bras, ou te fuir pour jamais.
+
+Tu refuses donc de faire mon bonheur ?
+
+Ainsi, l'éclat d'une fausse gloire, l'espoir d'un bonheur imaginaire ferme ton cœur aux plus doux sentiments de la nature et te prive des plus précieuses jouissances !....
+
+Eh bien, rends-toi donc à ses désirs... Roger !.... Peux-tu demeurer insensible à mes prières, à ma douleur ?....
+
+Adieu, Roger.
+
+Voudrais-tu me retenir ?
+
+Moi ! Que je consente jamais à vivre avec de tels brigands ?
+
+Et n'est-ce point avec ces mêmes hommes que depuis vingt ans tu portes le deuil et la désolation par toute l'Allemagne ?
+
+Qui t'en a donné le droit ?
+
+Et qui t'a dit qu'ils fussent coupables ?
+
+S'il était vrai, la loi les eût frappés.
+
+N'importe. Les punir autrement est un assassinat.
+
+Quoi ! Sans autre droit qu'un horrible caprice, qu'une criminelle ambition, vous allez ravager leurs terres, dévaster leurs campagnes, la crainte et l'effroi volent devant vous ; le feu, le sang, le carnage et la mort vous suivent et vous accompagnent. Ah Roger !... Quand même on les eût égarés, ce n'est point en les égorgeant qu'on ramène les hommes.
+
+C'en est fait, ma Clémence, je te perds pour jamais.
+
+Ne t'en flatte pas Roger.
+
+Valentin !... Clémence !...
+
+Mes bons !... Mes chers amis !
+
+Oui, c'est-là cette Clémence que j'adore, que tu refuses de nommer un jour ta fille, et qui ne craint point de venir te prier de céder à mes vœux....
+
+Ah, Roger ! Rends-moi mon père, je le sens à mon cœur ; il m'est impossible d'étouffer la voix qui me parle pour toi.
+
+Eh bien ! Si tu l'aimes ce fils, souscrits à ces désirs.
+
+Au milieu des enfants dont tu auras comblé les vœux, et qui te devront leur bonheur.
+
+Et que tu verras s'élever autour de toi des êtres intéressants, à qui nous apprendrons dès leur naissance, à te bénir, à t'aimer...
+
+Tu t'attendris, Roger !...
+
+Un seul mot !... Et tu es digne d'être père !...
+
+Qu'entends-je !
+
+Mais Roger, pourquoi nous retenir ?
+
+Adieu, Roger.
+
+
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_valentin
+
+Non, monsieur, vous ne fuirez pas.
+
+Je sais tout, monsieur ; et ce qu'il y a de plus affreux, c'est que je l'ai appris par un autre que vous.
+
+Oui, monsieur, je vous en veux beaucoup.
+
+Je ne le suis pas, monsieur, on n'a point de secret pour son ami, et je vois bien que je ne suis que votre domestique.
+
+C'est mademoiselle Clémence.
+
+Oh mon dieu ! Oui, elle-même. Elle vient de me dire tout-à-l'heure, avec cette grâce que vous lui connaissez.
+
+Que vous n'étiez pas son frère. Ça, je le savais bien, il me semble encore vous voir dans votre petit berceau le jour que monsieur le baron vous rapporta.
+
+Après m'avoir raconté ce qui vient de se passer, elle m'a dit : mon cher Valentin, veille bien sur ton maître ; observe jusqu'à ses moindres démarches et viens m'en rendre compte.
+
+Que vous vouliez quitter cette maison. Ah ça, voyons, pourquoi voulez vous vous en aller ? Qu'est-ce qui vous y force ? Vous aimez mademoiselle Clémence, elle vous aime aussi ? Rien de plus naturel. Vous n'êtes pas son frère ? Tant mieux : vous avez l'espérance de l'obtenir.
+
+Et moi, je vous dis que vous l'obtiendrez. Monsieur le baron est un homme d'esprit ; il se gardera bien de refuser sa fille à un jeune homme aussi sage, aussi spirituel, aussi bien tourné que vous. Si par hasard il vous refusait ; j'irais, oui monsieur, j'irais moi-même lui dire qu'il a tort, qu'il fait mal, qu'il...
+
+Oui, monsieur, j'irais. C'est que je n'aime pas les injustices, moi ; et c'en serait une grande de ne pas faire votre bonheur à tous deux quand il n'a pour cela à dire qu'un oui.
+
+Est-ce qu'il doit y avoir d'autres convenances entres les honnêtes gens que celles qui font le bonheur de la société ? D'ailleurs, qui est-ce qui serait assez hardi pour vous reprocher quelque chose ?... N'êtes-vous pas honnête et vertueux ? N'avez-vous pas donné cent fois des preuves de courage dans les deux campagnes que vous venez de faire sous les ordres de Monsieur le Baron ? Ah ! Je voudrais bien que quelqu'un s'avisât de parler mal de vous devant moi !... Nous verrions beau jeu, vraiment.
+
+Bel obstacle ! Est-ce votre faute si votre père vous a abandonné ? Devez-vous être malheureux toute votre vie, parce que vos parents sont ingrats et dénaturés ? Voilà de belles raisons que vous me donnez-la ?
+
+Vous l'apprendrez peut-être un jour. Tant il y a que vous êtes ici, que vous avez été élevé par monsieur le baron, qui vous chérit comme son fils, et qu'il y aurait de l'ingratitude à lui percer l'âme, en le quittant aussi brusquement.
+
+C'est votre dernier mot ?
+
+Eh bien, monsieur, attendez moi là un moment...
+
+Non pas, monsieur. J'ai cherché à vous détourner de ce projet insensé, mes raisons n'ont rien pu sur vous : je cours chercher mes effets.
+
+Pour vous suivre, monsieur. Quand un maître a la dureté de partir sans moi, croyez vous que j'aie le courage de l'abandonner ?
+
+Vous suivre partout ; ne vous quitter qu'à la mort.
+
+Des amis, monsieur ? Vous en aurez-un. De la fortune ? Voyez-vous cette bourse ? C'est le fruit de mes épargnes, elle est à vous.
+
+À vous, à moi, à nous, comme vous voudrez.
+
+Et mais, cela n'est-il pas tout simple ?
+
+Ah ! Vous ne voulez pas ? Eh bien, je veux voyager, moi. Ah ça, je suis mon maître, peut-être ? Vous ne pouvez pas m'empêcher d'aller où je voudrai ? Eh bien, c'est à présent que je m'en vais, je suivrai la route que vous prendrez ; si vous ne voulez pas de ma compagnie, vous me chasserez, à la bonne heure.
+
+Eh bien, voilà qui est dit, n'est ce pas ? Nous faisons route ensemble.
+
+Nous ne nous séparerons jamais.
+Attendez-moi là, je suis à vous dans l'instant.
+
+Cela suffit, monsieur.
+
+Ne craignez rien.
+
+Oui, monsieur. Vous vous impatientez peut-être ?...
+
+Allez, allez, monsieur, tout est bien changé !
+
+Nous ne partons plus.
+
+Je viens de voir monsieur le baron.
+
+Il était avec sa fille.
+
+Elle lui racontait tout.
+
+Quand il l'a vu pleurer....
+
+Il s'est attendri.
+
+Alors... J'ai peut-être mal fait ?
+
+Je lui ai tout dit.
+
+Il s'est levé tout d'un coup ; puis il est parti.
+
+Mais j'ai couru plus fort que lui.
+
+Il suit mes pas.
+
+Le voilà.
+
+Oh ! Je le reconnais bien là.
+
+Roger !
+
+Mais depuis plus de quinze ans, il a quitté ce pays.
+
+L'insolent !
+
+Ce n'est qu'à une demi lieue d'ici.
+
+Il ignore donc Roger, qu'outre cinquante hommes de troupes de l'empereur qui sont ici sous vos ordre, vous avez encore plus de cent vassaux bien exercés et prêts à ver leur sang pour vous défendre.
+
+Je ne crois pas qu'il l'ose.
+
+En doutez-vous, monsieur le Baron ?
+
+Monsieur le Baron ! Cette affaire-là ne sera pas la moins honorable pour moi, j'en réponds !
+
+Monsieur le baron ! Voici nos guerriers et en bonne disposition.
+
+Quand il s'agit de servir l'innocence, je me sens dix fois plus de force.
+
+Vienne maintenant l'ennemi quand il voudra ; nous sommes en état de le recevoir.
+
+Buvons un coup, mes amis, le vin donne des forces et ne fera qu'augmenter nos bonnes dispositions.
+
+Merci, mes amis.
+
+Oui, oui.
+
+Celle qui dit que le vin mène à la gloire ?
+
+Volontiers, mes amis ; ah ça, vous répéterez le refrain en chœur.
+
+Allons... j'y suis.
+
+Ce sera pour un autre moment, allez tous à vos postes.
+
+Oui, mon général.
+
+Sont amplement garnis d'artillerie. Tous les postes sont gardés ; le pont-levis est défendu par une batterie qui fera un bruit d'enfer et leur tuera bien du monde s'ils osent en approcher.
+
+Sont pleins d'eau.
+
+Comme c'est l'endroit le plus faible du château et qu'ils peuvent facilement s'en emparer en forçant la petite porte du rempart, j'ai fait remplir le bas de matières combustibles auxquelles on mettra le feu dès qu'ils y seront rentrés.
+
+Est excusable. N'avons-nous pas à combattre des ennemis dix fois plus nombreux que nous ? Il faut leur ôter l'envie d'y revenir.
+
+J'y vais, mon général : ah ! Ah ! Nous allons voir beau jeu.
+
+Eh vite ! Et vite ! Sauvez-vous ; Roger sera dans un moment au pied des murailles...
+
+Il est suivi d'une troupe nombreuse.
+
+Reposez-vous sur moi.
+
+Ah ! Ah ! Je vous l'avais bien dit, monsieur le baron, que nous leur ôterions l'envie d'y revenir !
+
+J'irai bientôt vous aider à réparer le désordre.
+
+Malheureux jeune homme ! Il est donc vrai que la vertu peut naître du crime !
+
+Avez-vous rien fait pour qu'on vous en prive ?... Je réponds, moi, que vous la méritez plus que jamais.
+
+Et qu'importe son père... n'est il pas bon et vertueux ?
+
+Comment a-t-il pu mériter tant de rigueur ? Il est malheureux, d'accord ; mais n'est il pas toujours, dites-moi, ce même Victor que vous chérissiez tant, que vous vous plaisiez à nommer sans cesse votre fils ?... Eh bien ? Peut-il être responsable des torts de son père ? Devez-vous, pouvez-vous le punir d'une faute qu'il n'a point partagée ?... Non, monsieur... Vous vous êtres montré jusqu'à présent trop sensible, trop équitable pour vouloir commettre une injustice aussi révoltante.... Ici le baron fait un mouvement d'impatience.
+Oh ! Je vous demande bien pardon, monsieur le baron... Mais c'est que je l'aime tant.... Je le vois si malheureux, que mon cœur ne peut plus se contenir.... Je vous le demande en grâce.... Ne le désespérez pas ce pauvre jeune homme.
+
+Pour cette fols, monsieur, je vous suivrai.
+
+C'est égal, monsieur. Croyez-vous que je vous laisse aller seul, au milieu d'une troupe de brigands ?... Ils n'auraient qu'à vous tuer !... Je me reprocherais votre mort toute ma vie... Au lieu qu'à deux on peut se défendre au moins.....
+
+Je lui parlerai, vous dis je ; je veux voir mon maître ; je veux voir mon maître : je ne m'en retournerai pas sans l'avoir vu d'abord.... On me tuerait plutôt.
+
+Mon cher maître !
+
+Mon bon maître ! Que je suis heureux de vous revoir !
+
+Je suis son vieil ami ; c'est moi qui l'ai élevé, il ne m'a pas permis de le suivre ce matin ; mais je n'ai pu résister au désir de savoir quelle impression ses discours avaient produit sur vous.
+Mademoiselle Clémence, ai-je dit, il faut que j'aille voir ce que fait là-bas notre jeune maître.... C'est que vraiment, ça me tourmentait de ne plus vous voir.... Oh ! je n'y étais plus.... Enfin, que vous dirai je ? Quand mademoiselle m'a vu bien décidé à venir vous trouver : elle m'a dit, mais Valentin, si je t'accompagnais, si j'allais joindre mes instances à celles de Victor ?... Sans doute, mademoiselle, venez... Cela ne peut que produire un bon effet... Un homme, quelque dur qu'il soit, ne peut être tout-à-fait insensible aux larmes d'une jeune et jolie femme.... Mettez vos habits d'homme, et sortons comme si nous allions à la promenade... Nous sommes partis... Et nous voilà.
+
+Mais à présent... Voilà qui est bien décidé, je ne vous quitte plus... J'ai eu trop de peur de vous perdre.
+
+Consentez à faire leur bonheur !...
+
+Les voilà !... Les voilà !... Sauvez-les...
+
 Les enragés ; comme ils y allaient !
 
-**** *book_ *id_III14 *act_III *date_1798
 
--*who_lofficier
-Roger, blessé dangereusement, demande à voir le jeune homme qui l'est venu trouver aujourd'hui.
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_forban
 
--*who_lebaron
-Qu'on l'emmène.
+Merci, l'ami. Jamais porte ne fut ouverte plus à propos.
 
-**** *book_ *id_III15 *act_III *date_1798
+Tu le sauras.
 
--*who_roger
-J'ai voulu te voir à mes derniers moments, mon fils, j'ai voulu te faire l'aveu des crimes que j'ai vainement cherché à te déguiser sous les systèmes les plus faux et les plus dangereux.
-Vous à qui je dois le bonheur d'avoir vu mon fils, et qui l'avez préservé de la séduction et des crimes auxquels mon exemple aurait pu le porter ; vous qui méritez seul d'être nommé son père, ne l'abandonnez pas ; oubliez le sang dont il sort pour ne vous souvenir que de ses vertus...
-Consentez à l'unir à votre fille.
-Combien sa douleur m'avait ému !
-Ah !
-Si la mort n'était pas venue m'arracher à tout ce que j'aime, Roger aurait pu vous forcer peut-être à l'estimer, Clémence aurait pu sans rougir se nommer ma fille...
-Adieu...
-Victor...
-N'oublie jamais mon exemple...
-Mes remords...
-Que ce triste moment soit sans cesse présent à ta pensée... qu'il te rappelle qu'il est une heure suprême, où le coupable ne peut plus se faire illusion sur ces crimes, adieu...
-Pardonne-moi ta triste existence.
+Un mot. Es tu de ce château ?
+
+Connais-tu le baron de Fritzierne ?
+
+Vas lui porter cette lettre.
+
+J'ai juré de ne jamais lui parler.
+
+De qui ? C'est un secret.
+
+Pour toi. Mais il faut qu'il la reçoive s'il ne veut périr.
+
+Oui. Cette lettre doit lui sauver la vie.
+
+Très fort.
+
+Moi !... Non, je ne lui en veux pas.
+
+Un homme puissant, un homme dont la seule menace est un arrêt de mort, et à qui le baron doit une satisfaction dont ses jours répondent.
+
+Doucement, jeune homme, ne t'y fie pas ; tu ne serais pas le plus fort. Adieu : fais ma commission, ou tu es perdu toi-même.
+
+Capitaine !... Capitaine !...
+Roger paraît accompagné de quelques brigands.
+Les ennemis sont sortis ; relevons le pont.... La victoire est à nous.
+
+Capitaine, la troupe de Dragovick rentre au camp, et demande à partager les prises qu'elle a faites.
+
+Oui, capitaine.
+
+Mais pas mal.
+
+Oui vraiment, cette nuit nous a coûté cher.
+
+Et demandez moi pourquoi tant de monde tué ? Pour une femme. Comme si le capitaine Roger n'en avait pas d'autres, cent fois plus belles, à sa disposition.
+
+À propos de ce jeune homme. Sais-tu qu'il est intrépide ? Il se bat comme un enragé.
+
+Lui !
+
+Ah ! Mille morts ! C'est fait de lui, s'il tombe jamais entre nos mains.
+
+Heureux hasard ! C'est lui-même.... j'en veux faire un sacrifice.
+
+C'est donc toi qui as fait égorger et brûler nos camarades ?... Je ne sais qui retiens ma colère... Je devrais.....
+
+Et que lui veux-tu ?
+
+C'en est trop....
+Laisse-moi venger mes camarades.
+
+Le voici.
+
+
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_morneck
+
+Forban, les prises sont-elles considérables ?
+
+Il aurait mieux valu pour nous que nous fussions de cette expédition, que d'aller attaquer ce diable de château.
+
+Nous avons perdu là de braves camarades.
+
+Ce n'est pas qu'il en soit amoureux. Mais elle fut autrefois l'amie de sa femme, et il espère toujours la forcer de lui apprendre ce qu'est devenu ce fils, qu'il regrette et dont il nous entretient quelquefois. Il serait à-peu-près du même âge que le fils du baron, et Roger comptait en faire un jour notre chef.
+
+Comment, diable !... Il a failli tuer notre capitaine.
+
+Oui, vraiment.
+
+Vois donc, Forban, quel est cet homme qu'on amène.
+
+Que viens-tu faire ici, jeune insensé ?
+
+Mais enfin, qui t'amène en ces lieux ?
+
+Capitaine, un envoyé du baron de Fritzierne demande à te voir.
+
+Capitaine, le corps considérable qui nous poursuit, et que nos vedettes avaient signalé hier, s'avance sur la forêt. Si tu n'y prends garde, nous ne tarderons point à être investis.
+
+
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clemence
+
+Bonjour Victor.
+
+Est-ce que mes caresses te déplaisent ! Tu n'aimes donc plus ta sœur ?
+
+Y a t-il du mal à embrasser son frère ?
+
+Eh oui, mon frère. Mais voyez donc comme il me parle aujourd'hui ?
+
+Je te suis donc importune ?
+
+Tu as de chagrin, n'est-ce pas ?
+
+Oui, c'est pour cela que tu as besoin de moi ; qui adoucira tes peines ? Qui les partagera ? Qui te consolera ? Si ce n'est ta sœur.... Ta sœur qui t'aime !...
+
+Tenez !... Il en doute à présent ! Tu sais combien je chéris mon père ; et bien, je ne sais pourquoi, il me semble que tu m'es encore plus cher que lui ; c'est peut-être mal à moi, mais mon cœur n'est pas maître de surmonter cet excès de tendresse.
+
+La vérité.
+
+Toi, nous fuir !.... Tu n'y songes pas...
+N'est-ce pas Victor, que tu n'en a pas envie !....
+
+Mais, que t'ai-je donc fait pour me traiter avec tant de froideur ? Depuis quelque temps tu m'évites, tu repousses mes caresses, tout-à-l'heure encore....
+
+Parle, mon cher Victor, si tu as quelque secret, dis-le moi. Je suis jeune encore, mais digne de toute ta confiance.
+
+Peux-tu me refuser ?... Mon frère... Mon cher Victor... Tu ne m'aimes donc plus ?
+
+Parle, parle, Victor.
+
+Qu'est-il besoin de serment ? Ton cœur et le mien ne font qu'un.
+
+Eh bien !
+
+Quel mal est-il à cela ? Et moi aussi je t'aime, je t'adore.
+
+Non.
+
+Quoi ! Je ne suis pas...
+
+Tu n'es pas mon frère... Quel bonheur !
+
+Et de quoi, mon ami ? Au contraire, nous avons maintenant l'espérance d'être unis.
+
+Oui, Victor, que cet espoir consolateur dissipe ta tristesse. Tu connais mon père ! Tu sais combien il a le cœur bon, généreux.
+
+Qu'il nous unira. Apprends qu'il m'a dit cent fois : « Ma fille, aime Victor ; aime-le bien, aime-le comme un autre moi-même. J'ai des projets sur lui.»
+
+Écoute : « Un jour, ajoutait-il, ce frère chéri pourra faire ton bonheur, celui de ma vieillesse.»
+
+Que c'est de notre hymen qu'il parlait. Oui, Victor, il te regarde déjà comme un fils, comme un gendre.
+
+Viens toujours, mon cher Victor, mon frère... Ah ! Pardonne-moi ce nom qui m'est échappé.
+
+Viens, te dis-je, allons trouver mon père, il saura l'amour que nous avons l'un pour l'autre...
+
+Non, mon ami, ne crains point qu'il ait cette rigueur extrême. Un père peut-il ne pas vouloir le bonheur de ses enfants ?
+
+Ton amour les remplacera. Courons, te dis-je, nous jeter dans ses bras, il ne tardera point à sceller notre bonheur. Victor avant peu sera mon époux.
+
+Tu as raison ; j'y vole. Mais ne tarde pas à me rejoindre.
+
+Tu hésites, mon ami.... Promets-moi de venir bientôt me retrouver.
+
+Adieu, Victor.
+
+Ne tarde pas au moins.
+
+Il n'est pas parti, mon père !.... Le voilà.
+
+C'est donc ainsi que tu tiens tes promesses ?
+
+Ne te l'avais-je pas dit ? Il n'a cependant pas voulu me croire.
+
+Que signifie ?...
+
+Quoi ? Madame Germain ?
+
+Tu la défendras, n'est-ce pas Victor ?
+Courons la prévenir de ce qui se passe ; Ses instances déciderons mon père.
+
+Souffrirez-vous mon père ?...
+
+Pourquoi ne lui as-tu pas dit cela plutôt ?... Combien de chagrins tu lui aurais épargnés ?.... 21
+
+Tu la rempliras, n'est-ce pas Victor ?
+
+C'est une femme... Oh quelle est jolie !...
+Vois-donc, ma bonne amie.
+
+Achevez donc...
+
+Mon père, cette nuit paraît devoir être terrible ; qui peut deviner l'issue d'un combat incertain ?... Permettez que mon amant...
+
+N'expose pas trop de jours qui me sont chers.
+
+Pauvre Victor ! Que je te plains !
+
+Mais songe qu'il n'a pas son cœur.
+
+Toi-même te plaisais souvent à le dire... Comment un seul mot a-t-il pu changer les projets que tu viens de faire ?...
+
+Puis je le quitter dans cet affreux moment ?
+
+Mon père...
+
+Non, Victor, je ne te quitte plus.
+
+Mon père !
+
+Mon père, n'est-ce pas toi qui m'as ordonné de l'aimer ?...
+
+Ne parle pas de cela Victor... Tu me désespères.
+
+Tiens, Victor, prends cette écharpe ; qu'elle te conduise partout au champ d'honneur, et si le sort nous sépare, qu'elle te rappelle ta Clémence, et cette maison hospitalière où ton enfance trouva un asile doux et tranquille. Jure-moi qu'elle ne te quittera jamais ; et que jamais, surtout, elle n'ornera le sein d'une rivale.
+
+Je jure en ta présence et celle de nos amis les plus chers, de ne vivre que pour celui que mon cœur a choisi dès l'enfance, et de n'être jamais à d'autre.
+
+Le voilà ! Valentin !.... Le voilà...
+
+Victor !
+
+Eh quoi ! Tu pourrais être insensible au cri de la nature ?...
+
+Peux-tu rien comparer aux plaisirs qui t'attendent, lorsque vivant sans crainte, sans remords, dans une retraite ignorée et profonde...
+
+Nous te prodiguerons chaque jour les plus tendres caresses.
+
+Crois-moi, Roger, rien ne remplace ces délicieux instants.
+
+Un mot...
+
+Ô mon père !
+
+Ah, Victor ! Qu'allons-nous devenir ?
+
+Pauvre Victor ! Quels dangers tu as couru !
+
+
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegermain
+
+Ah ! Monsieur le Baron ! Parlez.... Rendez-moi la vie. Vous venez de recevoir une lettre ?
+
+Elle est de...
+
+Grand Dieu ! Sauvez-moi d'un barbare ?
+
+Non, monsieur, je ne me relève point que vous ne m'ayez promis de ne pas céder aux vœux d'un monstre qui a fait mon malheur.
+
+Oh oui ! Tout.
+
+Homme généreux !
+
+Monsieur....
+Que lui dire !
+
+Croyez, monsieur, qu'il en coûte à ma reconnaissance de ne pouvoir vous satisfaire. Mais, je vous l'ai déjà dit, je ne puis parler.
+
+Qu'il vous suffise de savoir que je n'ai point mérité les maux qui m'accablent. Oui, le ciel est témoin de mon innocence, de la pureté de ma conduite : le reste est le secret d'une amie que j'ai juré de ne point trahir. Si vous persistez à vouloir le connaître, je cours me livrer à Roger ; j'aime mieux mourir que de manquer à l'honneur.
+
+Famille généreuse ! Comment pourrai-je m'acquitter envers vous ?
+
+Ô mon Dieu ! Quand finiront tant de maux ?
+
+À l'entrée de la forêt de Kingratz ! Il y a vingt-quatre ans ?
+
+Se peut-il ! Ô ciel !
+
+Ce portrait.... monsieur...
+
+Sachez...
+
+Sachez que c'est...
+
+Malheureux ! Vous allez commettre un crime !
+
+Monsieur,
+Pourquoi suis-je venue ici ?
+
+Que me demandez-vous ?
+
+Tremblez de l'apprendre ce terrible secret.
+
+C'est vous qui m'y forcez....
+
+Eh malheureux ! C'est ton père !
+
+Oui, Roger est son père.... Je fus l'amie de la malheureuse Adèle sa mère que ce monstre avait enlevée à ses parents, et que je ne voulus jamais abandonner. Cette infortunée, affaiblie par la douleur et sentant sa fin approcher, me conjura de soustraire cet enfant qu'elle chérissait à l'infâme métier auquel le destinait son père. «Oh mon amie, me dit-elle, dérobons cette innocente créature au crime qui l'entoure et qui l'attend ; confions-le aux soins de quelque étranger généreux et compatissant ; je consens à me priver de mon fils, pourvu qu'il soit vertueux .» Environnée de brigands qui nous surveillaient, je fus longtemps sans trouver l'occasion de la satisfaire. Enfin, elle se présenta, j'aperçus un jour un homme endormi a l'entrée d'une des cavernes que nous occupions dans la forêt de Kingratz. Cet homme c'était vous, monsieur le baron. Vos vêtements m'annoncèrent que vous étiez dans l'opulence, j'examinai vos traits, ils portaient tous l'empreinte de la probité : oui, me dis-je, voilà celui que je cherche ; je cours prendre ce dépôt précieux, et je l'apporte à vos pieds. Mais, ô fatale précaution !
+
+Roger, de retour d'une expédition, demande à embrasser son fils. « Tu ne le verras plus, lui répond ma courageuse amie, je l'ai soustrait a tes infâmes projets...  Malheureuse ! poursuit Roger. Où est-il ? Rends-moi mon fils.  Non, jamais. Il est perdu pour toi.» À ces mots, le tigre se précipite sur elle et lui perce le sein.
+
+L'infortunée expira dans mes bras, après avoir exigé de moi le serment de ne jamais révéler ses cruelles aventures, et de ne point apprendre à son fils le mystère de sa naissance, si le hasard me le faisait rencontrer ; je sens que je vous déchire l'âme.
+
+J'ai dû empêcher un parricide.
+
+Il a votre âme toute entière.
+
+Prenez pitié de leur douleur.
+

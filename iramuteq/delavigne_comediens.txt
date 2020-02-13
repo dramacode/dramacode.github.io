@@ -1,970 +1,18 @@
 
 
-**** *book_ *id_I01 *act_I *date_1820
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
 
--*who_granville
-Pour réintroduire ici ce moyen n'est pas mal ;
-Non, ma foi. Relisons l'article du journal.
-Grande terreur chez nos puissances dramatiques !On assure que le Ministère, jaloux d'étendre aux départements certaines mesures que la décadence de l'art avait rendues nécessaires dans la capitale, vient de nommer un inspecteur général des théâtres de province.
-Ce personnage redoutable doit, dit-on, parcourir nos principales villes, et se présenter sous un nom supposé chez nos comédiens pour juger par lui-même des abus qui peuvent appeler l'attention de l'autorité.
-En me donnant pour lui j'en saurai davantage.
-Qui peut me démentir ? Personne. Allons,courage !
-Je connais mon théâtre, et veux, en amateur,
-Jouer à mon profit le rôle d'inspecteur.
-
-**** *book_ *id_I02 *act_I *date_1820
-
--*who_pembrock
-À travers les détours de ces corridors sombres,
-J'ai cru m'ensevelir dans le séjour des ombres :
-Que béni soit le jour qui me luit à la fin !
-
--*who_granville
-Eh ! C'est mylord Pembrock ! Quel est l'heureux destin
-Qui, rendant à mes voeux sa grâce britannique,
-L'a conduite à Bordeaux dans le foyer comique ?
-
--*who_pembrock
-Cher Granville, ah ! Bonjour. Vous voilà revenu
-Du fin fond du Mogol, où je vous ai connu.
-
--*who_granville
-En parfaite santé, mylord, et sans naufrage.
-Mais vous dans un foyer !... Quelque intrigue, je gage !
-
--*who_pembrock
-Non ; d'un monsieur Bernard je cherche le bureau.
-On doit donner ce soir un ouvrage nouveau ;
-Le journal que je lis d'avance en fait l'éloge :
-Je viens tout bonnement pour louer une loge.
-
--*who_granville
-Séjournez-vous longtemps parmi les Bordelais ?
-Puis-je espérer, mylord.
-
--*who_pembrock
-      Je ne suis plus Anglais ;
-L'hymen va m'enchaîner loin des brouillards d'Écosse.
-
--*who_granville
-Comment donc ?
-
--*who_pembrock
-      Ce lien à mon âge est précoce.
-De voyager par ton je me suis fatigué ;
-Mais je voulais, des arts amateur distingué,
-Pour me donner à Londres un vernis littéraire,
-Citer vos beaux esprits dans mon itinéraire.
-Tandis que mon album, chargé de vers charmants,
-Achevait sa moisson dans les départements,
-L'amour surprit mon coeur entre Dax et Bayonne ;
-Je prends racine en France, et fais souche gasconne.
-
--*who_granville
-Quoi, vous vous mariez ?
-
--*who_pembrock
-      Le trait qui m'a dompté
-Des regards d'une veuve est parti cet été ;
-Je roulais vers Bayonne, où tendait mon voyage :
-Soudain vient à passer un brillant équipage,
-Qui, par mon Phaéton dans sa course heurté,
-Aux cris des voyageurs s'abat sur le côté.
-J'arrête et vois descendre une femme, expirante ;
-Elle tombe sans force aux bras de sa suivante,
-L'oeil éteint, le front pâle et les cheveux épars.
-Moi qui soutiens toujours l'honneur des léopards,
-Surtout auprès du sexe, en offrant ma voiture
-Je tourne un compliment qui d'abord la rassure.
-Sa suivante à mon char la conduit par la main ;
-Elle allait à Bordeaux,j'en reprends le chemin.
-Les plus fières beautés n'ont jamais dans l'Asie
-D'un aiguillon si vif piqué ma fantaisie ;
-Mes regards, attachés sur ses yeux languissants,
-Commençaient à parler du trouble de mes sens.
-Mais j'apprends qu'elle est veuve ; elle pleure, et ses larmes
-Contre ma liberté sont de mortelles armes.
-Je l'invite à l'auberge, en termes délicats,
-A tromper sa douleur par un frugal repas.
-La baronne consent, car c'est une baronne,
-Et la Tamise enfin soupe avec la Garonne.
-
--*who_granville
-Vous aimez donc toujours à conter vos exploits ?
-
--*who_pembrock
-C'est mon faible. À Bordeaux nous arrivons tous trois.
-La maison de ma veuve aussitôt m'est ouverte.
-De ses parents très jeune elle a pleuré la perte,
-Et n'a plus qu'une tante, aimable à cinquante ans,
-Qui fut par sa vertu l'exemple de son temps.
-J'ai pris, pour les charmer, les façons du grand monde :
-Fertile en traits heureux qui sentent la Gironde,
-J'étonne les Gascons de mes airs étourdis ;
-Je ne dis plus goddam et jure par sandis.
-Comme au seul nom d'amour leur fierté s'effarouche,
-Enfin le mot d'hymen est sorti de ma bouche.
-
--*who_granville
-Dit par un lord ce mot leur a semblé fort doux ?
-
--*who_pembrock
-Les accords sont signés, je lui rends son époux.
-Je vais donc la former, cette adorable chaîne !
-Que n'est-ce dès demain ! Mais ma belle inhumaine
-Sur mon bonheur futur fait un léger emprunt,
-Pour accorder huit jours aux mânes du défunt,
-Lequel, étant Français, toutes les nuits l'obsède,
-Très courroucé, dit-on, qu'un Anglais lui succède.
-Ma veuve, très jalouse, exige sur ma foi
-Que pendant tout son deuil je m'enferme chez moi,
-Et croit, en m'imposant cette triste huitaine,
-De son pauvre baron consoler l'âme en peine.
-Elle est femme et timide ; en époux résigné,
-Chez moi par un serment je me suis consigné.
-
--*who_granville
-Ce soir, si votre grâce est de près surveillée,
-On saura.
-
--*who_pembrock
-      Je retiens une loge grillée :
-Qui diable peut me voir ? Ferai-je une noirceur
-En manquant de parole à mon prédécesseur ?
-Je suis, vous le savez, littérateur dans l'âme,
-Et l'amour doit céder quand Apollon réclame.
-Mais ce monsieur Bernard, qu'on a dû prévenir,
-Tranchant du grand seigneur, tarde bien à venir.
-
--*who_granville
-Nos messieurs du théâtre ont tous ce privilège.
-J'attends depuis une heure un ami de collège,
-Le Crispin de la troupe.
-
--*who_pembrock
-      Eh ! Mais, par quel hasard
-Avez-vous donc quitté votre oncle Balthazard ?
-D'intendant près de lui vous remplissiez l'office,
-Et ce fut par vos soins qu'il me rendit service.
-
--*who_granville
-Il vivait au Mogol en forban retiré,
-Quand il fut par la mort surpris contre son gré :
-La faculté du lieu le traita, Dieu sait comme ;
-Ils étaient trois docteurs, et pourtant.
-
--*who_pembrock
-      Le pauvre homme !
-Que vouliez-vous qu'il fit contre trois ?
-
--*who_granville
-      Qu'il mourût.
-Maints convoiteurs de biens se tenaient à l'affût,
-Et voulaient, dans l'espoir de happer l'héritage,
-De son dernier soupir s'emparer au passage ;
-Mais un rayon d'en haut le vint illuminer.
-Quoiqu'il fût plus enclin I prendre qu'à donner,
-Sur son lit de douleur un reste de tendresse,
-Ranimant ses esprits glacés par la vieillesse,
-Lui fit signer un acte, à ses derniers moments,
-Qui me semble un chef-d'oeuvre en fait de testaments.
-
--*who_pembrock
-Un chef-d'oeuvre ! Pourquoi ?
-
--*who_granville
-      Par la raison très claire
-Qu'il me fait de son bien unique légataire.
-
--*who_pembrock
-Excellente raison !
-
--*who_granville
-      Je dus, quand j'héritai,
-Pour remplir du mourant l'expresse volonté,
-M'informer à Bordeaux de sa nièce Lucile,
-Auprès d'un vieux parent dont elle est la pupille,
-De l'artiste Bernard, confident par état,
-Et qui ne risque rien de mourir intestat,
-Car il n'a pas le sou. Mon oncle, article seize,
-Me la choisit pour femme au cas qu'elle me plaise ;
-Sinon, de la doter il m'impose la loi.
-Pouvais-je de son or faire un meilleur emploi ?
-Échappé pour Lucile aux fureurs de Neptune,
-J'apportais à ses pieds mon coeur et ma fortune ;
-J'apprends, pour mes amours funeste pronostic,
-Qu'elle fait par son jeu les beaux jours du public.
-Enfin, moi son futur, hier je ne l'ai vue
-Qu'en payant au bureau ma première entrevue.
-
--*who_pembrock
-Comment la trouvez-vous ?
-
--*who_granville
-      L'aimable objet, morbleu !
-Que d'esprit, de candeur ! Quel naturel ! Quel feu !
-
--*who_pembrock
-Je ne vous défends pas de lui rendre justice ;
-Mais auriez-vous dessein d'épouser une actrice ?
-
--*who_granville
-Non. je ne sais, mylord ; ou plutôt, j'en conviens,
-Admis chez ces messieurs, sans parler de mes biens,
-Je veux étudier ses moeurs, son caractère,
-Dont il n'est pas prudent de juger du parterre.
-Le tableau, vu de près, blesse-t-il mes regards ?
-Je me nomme un matin, je la dote et je pars ;
-J'embrasse une entreprise en naufrages féconde,
-Et, pour me consoler, cours découvrir un monde.
-Si malgré ses beaux yeux Lucile a résisté
-À deux grands ennemis, plaisir et pauvreté,
-Je l'enlève au théâtre, en un mot je l'épouse,
-Et l'enchaîne au destin d'un nouveau La Pérouse.
-
-**** *book_ *id_I03 *act_I *date_1820
-
--*who_bernard
-Au bureau, m'a-t-on dit, où j'arrive un peu tard,
-Un gentilhomme anglais cherchait monsieur Bernard.
-
--*who_pembrock
-Seriez-vous.
-
--*who_bernard
-      Oui, Mylord, c'est ainsi qu'on me nomme.
-
--*who_granville
-Ah ! Mon cousin Bernard a l'air d'un bien brave homme !
-
--*who_bernard
-Il faut être à son poste ; un inspecteur, dit-on,
-De Paris à dessein parti sous un faux nom,
-Doit s'introduire ici sans se faire connaître.
-
--*who_granville
-Passer pour l'inspecteur me semble un coup de maître.
-
--*who_bernard
-Hâtons-nous, s'il vous plaît.
-
--*who_pembrock
-      Cher Granville, au revoir.
-
--*who_granville
-Je compte bien, Mylord, vous rencontrer ce soir.
-
-**** *book_ *id_I04 *act_I *date_1820
-
--*who_granville
-Ce folâtre Pembrock, il est toujours le même ;
-Je me défie un peu de la beauté qu'il aime ;
-Son amour-propre anglais, souvent humilié,
-Dans les tours qu'on lui joue est toujours pour moitié.
-Mais quoi ! Déjà midi ? Je plains fort la personne
-Exacte au rendez-vous qu'au théâtre on lui donne.
-
-**** *book_ *id_I05 *act_I *date_1820
-
--*who_granville
-Je te revois enfin, mon vieil ami Lebrun.
-
--*who_belrose
-Lebrun, pour un artiste, est un nom trop commun ;
-Je m'appelle Belrose.
-
--*who_granville
-      Eh bien ! Belrose, passe.
-Te souvient-il, mon cher, qu'autrefois dans la classe
-Tu te mêlais déjà de déclamation ?
-Ton instinct t'y portait.
-
--*who_belrose
-      Dis ma vocation.
-
--*who_granville
-Te voilà donc acteur : c'est un métier fort triste.
-
--*who_belrose
-En nous parlant, vois-tu, le mot propre est artiste.
-
--*who_granville
-Artiste si tu veux ; si bien que ton appui
-Peut m'impatroniser dans la troupe aujourd'hui ?
-
--*who_belrose
-Tu te feras chasser avec ignominie ;
-La troupe ! Eh ! D'où viens-tu ? Dis donc la compagnie.
-
--*who_granville
-À tout propos, morbleu ! Veux-tu me contrôler ?
-Je n'ai qu'à dire un mot, mon cher, tu vas trembler.
-
--*who_belrose
-Quel est ce mot terrible ?
-
--*who_granville
-      Écoute : on vous menace
-D'un coup d'autorité dont le seul bruit vous glace.
-
--*who_belrose
-C'est vrai : Paris vers nous détache un inspecteur
-Qui doit porter dans l'ombre un oeil observateur,
-Et, pour venger les droits de l'art en décadence,
-Foudroyer nos talents dans sa correspondance.
-Serais-tu par hasard ?
-
--*who_granville
-      Oui ; chut !
-
--*who_belrose
-      Je le revois,
-Cet excellent ami ! Va, je pensais à toi :
-En lisant ton billet j'ai pleuré de tendresse.
-
--*who_granville
-Je te crois ; sois prudent..
-
--*who_belrose
-      J'approuve ton adresse.
-Je puis te découvrir d'effroyables abus,
-Si tu veux à Paris protéger mes dégâts.
-
--*who_granville
-Soit ; mais tu vas tout dire.
-
--*who_belrose
-      Ah ! Qu'à cela ne tienne.
-
--*who_granville
-Voyons s'il pousse loin la charité chrétienne.
-
--*who_belrose
-Tous les emplois sont nuls, hors celui des valets.
-
--*who_granville
-Que tu tiens ?
-
--*who_belrose
-      J'ose dire avec quelque succès.
-Nos affaires vont mal, parmi nous, comme à Rome ;
-Alors pour dictateur on choisit un grand homme,
-Et Floridore élu, dans ce besoin urgent,
-Est chef d'un comité qu'on nomme dirigeant.
-De ce conseil des Cinq ton serviteur est membre,
-Et gouverne l'État d'avril jusqu'en septembre.
-Floridore a du sens, des lumières, du goût :
-Il a tout, il sait tout, il se vante de tout.
-Fièrement retranché dans sa froide importance,
-Il vous parle toujours à dix pieds de distance,
-Arrange son maintien, calcule un geste, un mot :
-Voilà son beau côté ; du reste, c'est un sot.
-
--*who_granville
-Ce début-là promet.
-
--*who_belrose
-      Oh ! Pour madame Estelle.
-
--*who_granville
-Je ne la connais pas.
-
--*who_belrose
-      La chose est naturelle ;
-Elle obtint par faveur un congé de deux mois,
-Qu'un arrêt du conseil prorogea jusqu'à trois.
-Elle rentre ce soir : soubrette du théâtre,
-Elle aspire aux bravos du parterre idolâtre.
-C'est peu : vive en intrigue et coquette à l'excès,
-Elle aime tous les arts, poursuit tous les succès ,
-Protège les auteurs, arrange les querelles,
-Rend visite aux journaux pour les pièces nouvelles.
-Dans ses brusques écarts désolant vingt rivaux,
-Elle cherche un époux et par monts et par vaux.
-Son automne s'approche, et Lisette a la rage
-De couvrir d'un contrat les péchés du bel âge.
-
--*who_granville
-Fort bien.
-
--*who_belrose
-      Plus d'un hymen fut par elle ébauché ;
-Mais pour un oeil de femme est-il rien de caché ?
-Une dame Blinval, notre grande coquette,
-Déjoue incessamment les projets de Lisette,
-Et donne aux trahisons un tour original
-Qu'on n'a pas pu prévoir dans le code pénal.
-Son esprit inventif par instinct se fatigue
-À rêver aux moyens d'éventer une intrigue.
-Elle épousa Blinval à dix-sept ans au plus.
-Il était jeune alors ; ô regrets superflus !
-Ce jeune et beau Rodrigue est aujourd'hui don Diègue :
-Aux honneurs du soufflet son âge le relègue.
-Ces tranquilles époux, d'un commun sentiment,
-En se voyant toujours, vivent séparément.
-Ils ne se parlent plus depuis leur mariage ;
-Aussi dit-on partout qu'ils font très bon ménage.
-
--*who_granville
-Et que dit-on de toi ?
-
--*who_belrose
-      Moi, qui suis le meilleur,
-On me trouve brouillon et quelque peu railleur.
-
--*who_granville
-Fi ! L'éloge est modeste, et pour toi j'en appelle...
-Attends... Il me souvient... Si l'affiche est fidèle,
-J'ai vu quelque autre nom... Vous avez parmi vous
-Certain monsieur Bernard ?
-
--*who_belrose
-      C'est un homme fort doux ;
-Il est du chef d'emploi la troupe auxiliaire,
-Dans Racine Eurybate, Ergaste dans Molière.
-De la location il porte le fardeau
-Et frappe les trois coups au lever du rideau.
-
--*who_granville
-Mais tu ne me dis rien d'une jeune Lucile
-Dont le renom s'étend aux deux bouts de la ville.
-
--*who_belrose
-Oh ! oh ! c'est un sujet rare, excellent, parfait.
-
--*who_granville
-Bah !
-
--*who_belrose
-      Prodige inouï dont je suis stupéfait.
-Lucile a de l'esprit, un talent qu'on admire,
-De la beauté, vingt ans, et pas de cachemire.
-
--*who_granville
-Vraiment ?
-
--*who_belrose
-      C'est à confondre !
-
--*who_granville
-      Ah ! Je veux t'embrasser.
-
--*who_belrose
-Notre Agnès a l'honneur de vous intéresser ?
-
--*who_granville
-Infiniment.
-
--*who_belrose
-      Tant pis.
-
--*who_granville
-      Pourquoi ?
-
--*who_belrose
-      Tu me fais peine.
-
--*who_granville
-D'où vient ?
-
--*who_belrose
-      C'est très fâcheux.
-
--*who_granville
-      Quoi ?
-
--*who_belrose
-      La chose est certaine.
-
--*who_granville
-Mais.
-
--*who_belrose
-      Elle aime un auteur.
-
--*who_granville
-      Diable ! Je viens trop tard.
-
--*who_belrose
-C'est, dit-on, de l'aveu de son tuteur Bernard.
-
--*who_blinval
-« Fuyez donc, retournez dans votre Thessalie. »
-
--*who_granville
-À l'autre !
-
--*who_belrose
-      C'est Blinval. La chronique publie
-Qu'il a fait à Paris un début malheureux.
-
--*who_granville
-Eh ! que m'impQrte, à moi !
-
--*who_belrose
-      C'est un esprit haineux.
-
--*who_granville
-Mon Dieu ! Dis-moi plutôt.
-
--*who_belrose
-      Mannequin politique,
-Prôneur très roturier de la noblesse antique :
-Les nobles, sous Pépin, lui sont assez connus ;
-À dater du roi Jean, rien que des parvenus.
-Quand on reprit Mérope, il sentit quelque honte
-De prêter son visage au soldat Polyphonte,
-Et tremblait d'avoir dit d'un air séditieux :
-« Qui sert bien son pays n'a pas besoin d'aïeux. »
-
-**** *book_ *id_I06 *act_I *date_1820
-
--*who_blinval
-« Un bienfait reproché tint toujours lieu d'offense ;
-« Je veux moins de valeur et plus d'obéissance.
-« Fuyez,je ne crains pas votre impuissant courroux
-
--*who_belrose
-Salut au roi des rois : comment vous portez-vous ?
-
--*who_granville
-Pourquoi donc l'arrêter ?
-
--*who_belrose
-      Moi, c'est amitié pure ;
-Je voudrais m'assurer de sa mésaventure.
-
--*who_blinval
-Bonjour.
-
--*who_belrose
-      Il a l'air sombre, on l'aura bafoué.
-Paris est-il content ? Avons-nous bien joué ?
-
--*who_blinval
-On sait comme je pense, on m'en a fait un crime.
-
--*who_belrose
-Quoi ! De l'opinion vous seriez la victime ?
-
--*who_blinval
-Hélas !
-
--*who_belrose
-      Ce bon Blinval ! ah !j'en suis désolé.
-
--*who_blinval
-Sur leurs premiers talents je m'étais modelé :
-Pâle, roulant des yeux, effaré, hors d'haleine,
-J'alLongeais de grands bras, je parcourais la scène ;
-Bref, j'ai frappé du pied, crié, gesticulé.
-
--*who_belrose
-Et qu'a fait le public ?
-
--*who_blinval
-      Le public m'a sifflé.
-
--*who_belrose
-Opinion, parbleu !
-
--*who_blinval
-      Je conviens, à leur gloire,
-Que trois ou quatre fois j'ai manqué de mémoire.
-Ils sifflent sans égard dès qu'ils sont mécontents ;
-À quoi servira donc qu'on ait des sentiments ?
-
--*who_granville
-Le public, dont l'arrêt punit ou récompense,
-S'informe comme on joue et non pas comme on pense.
-
--*who_blinval
-Monsieur, depuis vingt ans je soutiens qu'il a tort ;
-C'est là mon grand débat avec votre Victor,
-Dont vous donnez ce soir une pièce nouvelle.
-Monsieur est son ami puisqu'il prend sa querelle.
-
--*who_granville
-Je ne l'ai jamais vu.
-
--*who_blinval
-      C'est trop heureux, ma foi.
-Ne le voyez jamais.
-
--*who_granville
-      Puis-je savoir pourquoi ?
-
--*who_blinval
-Au goût du métromane il joint l'humeur d'Alceste ;
-Tout se peint à ses yeux d'une couleur funeste,
-Et cet orgueil chagrin qui n'a jamais plié,
-Des égards qu'il nous doit se croit humilié.
-Jamais d'un mot flatteur sa voix ne nous caresse ;
-Sa franchise parfois frise l'impolitesse.
-Je lui demande, un jour, après Agamemnon :
-Ai-je été bien sublime ? Il m'a répondu : Non.
-C'était fort déplacé. Par ce ciel que j'atteste.
-
--*who_belrose
-Revenez sur la terre.
-
--*who_blinval
-      Eh bien ! je le déteste
-Franchement, bonnement, et je serai vengé ;
-Car Bernard doit ce soir lui donner son congé.
-
--*who_granville
-Vous dites. ?
-
--*who_belrose
-      Du conseil doyen et secrétaire,
-Pour vos yeux exercés il n'est point de mystère.
-Donnez-nous sur Lucile une explication.
-Elle aime ce Victor ?
-
--*who_blinval
-      Comment ? De passion.
-
--*who_granville
-De passion !
-
--*who_blinval
-      C'est sûr.
-
--*who_belrose
-      Le coeur de nos déesses
-N'est pas inaccessible aux humaines faiblesses.
-
--*who_blinval
-Quand elle débuta, ce fut la pauvreté
-Qui réduisit Bernard à cette extrémité.
-Le début fut brillant ; mais, chose assez commune,
-Sans enrichir l'actrice il fit notre fortune.
-Victor la vit, l'aima, parut ; et, s'il vous plaît,
-Lucile en raffola, tout sauvage qu'il est.
-En vain nos céladons lui peignaient leur martyre,
-Sa conduite jamais n'éveilla la satire ;
-Et ce couple amoureux habite innocemment
-Les hautes régions du plus pur sentiment.
-Bernard, importuné de leur longue tendresse,
-N'a pu contre leurs voeux défendre sa faiblesse ;
-Mais à nos deux amants, qu'il a promis d'unir,
-Il veut qu'un beau succès assure un avenir.
-Voici le jour fatal ; dressé chez le notaire,
-Le contrat n'attend plus que l'aveu du parterre.
-Ce soir chute complète ; et comme je rirai
-De voir par le public le contrat déchiré !
-Quel plaisir ! Mais, bonjour, Clytemnestre m'appelle.
-Je suis dans un accès de bonté paternelle ;
-J'arrange pour demain mes tragiques douleurs ;
-Je vois, j'entends ma fille, et sens couler mes pleurs.
-
-**** *book_ *id_I07 *act_I *date_1820
-
--*who_granville
-Il pleure ses enfants de Mycène ou de Rome,
-Et veut un mal de diable à ce pauvre jeune homme.
-Voyez le bon apôtre ! Ah ! ton monsieur Blinval
-Fait tant qu'il m'intéresse au sort de mon rival.
-Tu connais son ouvrage ; eh bien donc, que t'en semble ?
-
--*who_belrose
-C'est une comédie en cinq actes.
-
--*who_granville
-      Je tremble.
-
--*who_belrose
-L'intrigue est assez forte et la pièce a du fonds ;
-Mais c'est bien gai.
-
--*who_granville
-      Tant mieux !
-
--*who_belrose
-      Tant pis !
-
--*who_granville
-      Tu me confonds.
-
--*who_belrose
-Mon cher, au goût du jour nous devons nous soumettre
-Et le siècle en riant croirait se compromettre,
-
--*who_granville
-Eh bien ! Moi, sans courir après un trait malin,
-Je te le dis tout net, j'ai vu Londres et Berlin :
-Je trouve à nos auteurs un air de Germanie ;
-On se perd dans les cieux, chacun vise au génie ;
-Pour ces penseurs profonds le rire est trop bourgeois,
-Et leur comique est gai comme l'Esprit des Lois.
-
--*who_belrose
-Tu vas citer Regnard et ton ami Molière ;
-De nos jours la morale est beaucoup plus sévère.
-
--*who_granville
-Nos aïeux, au théâtre oubliant leurs travaux,
-Pour aimer plus à rire étaient-ils moins moraux ?
-Je sais, et j'en suis fier, que le siècle où nous sommes
-Peut citer quelques noms après mes deux grands hommes ;
-Mais notre goût exquis, mortel aux grands talents,
-N'ouvre qu'un cercle étroit à leurs pas chancelants.
-La morale ! Eh ! Morbleu ! La morale en alarmes
-Doit-elle à tout propos crier, prendre les armes ?
-Les moeurs sur le théâtre ont pour nous mille appas ;
-Mais courez nos salons, et vous n'en trouvez pas.
-Quand nous applaudissons la plus fade équivoque,
-D'un trait joyeux et franc notre bon ton se choque
-Et ne pardonne pas un écart de gaîté
-Au feu d'un esprit vif par sa verve emporté ;
-Des sots de tous les rangs la ferveur politique
-Transforme le parterre en arène publique ;
-Attaquez nos penseurs, vos vers sont trop méchants ;
-Bernez-vous un marquis, la noblesse est aux champs.
-L'auteur intimidé perd son indépendance,
-Le naturel s'enfuit, l'art tombe en décadence ;
-L'ennui règne, et j'enrage, à ne rien déguiser,
-De voir que les Français ont peur de s'amuser.
-
--*who_belrose
-Oh ! Quand la politique en discutant l'inspire,
-Un homme en dit toujours plus qu'il n'en voulait dire.
-
--*who_granville
-Le pauvre esprit ! Jamais tu ne prendras l'essor ;
-Mais tu peux m'être utile et je t'estime encor.
-Dans le tripot comique il faut que je me lance :
-Floridore est ici, voyons son excellence.
-Tu vas me présenter.
-
--*who_belrose
-      Oui.
-
--*who_granville
-      Comme un débutant.
-
--*who_belrose
-Réfléchissons un peu sur ce point important.
-Ce titre éveillera plus d'une jalousie ;
-Va, crois-moi, sois auteur.
-
--*who_granville
-      J'aime mieux.
-
--*who_belrose
-      Fantaisie !
-Toi, débutant, chacun te suit d'un oeil d'effroi ;
-Auteur, aucun de nous ne prendra garde à toi.
-Le manuscrit te manque. Ah ! prends.
-
--*who_granville
-      Quoi !
-
--*who_belrose
-      Prends, te dis-je.
-
--*who_granville
-Mais c'est du papier blanc !
-
--*who_belrose
-      Allons, prends, je l'exige.
-Il te faut un ruban... celui de Figaro,
-Tiens... la rosette... bon.
-
--*who_granville
-      Tu me perdras, bourreau !
-Si quelqu'un lit ma pièce.
-
--*who_belrose
-      Eh ! Sois sans crainte aucune ;
-J'en reçois vingt par mois et je n'en lis pas une.
-Attention ! J'entends notre jeune premier ;
-Son asthme le trahit du bas de l'escalier.
-
-**** *book_ *id_I08 *act_I *date_1820
-
--*who_granville
-Dis donc, c'est un vieillard.
-
--*who_belrose
-      Non, pardieu, je te jure ;
-Mais c'est un amoureux de jeunesse un peu mûre.
-
--*who_floridore
-Deux vestes à fleurs d'or et deux habits complets.
-Vous m'entendez, allez. Voici vos dix billets :
-Mais faites, s'il vous plaît, mon affaire en personne.
-Toi, prépare, Laurent, les vers et la couronne
-Que le public charmé doit jeter de ta main
-À l'acteur de Paris qui paraîtra demain.
-Sortez.
-
--*who_belrose
-      Souffrez, mon cher, qu'ici je vous présente
-Un de mes bons amis que la gloire tourmente,
-Un homme de talent qui fait des vers moraux.
-Docteur en droit romain et maître ès-jeux floraux,
-Il a dans un écrit commenté les trois codes,
-Et lance des extraits dans le Journal des Modes.
-Génie universel ! Il m'a dit, ce matin,
-Qu'il veut nous réunir dans un pompeux festin.
-Il n'ose l'avouer, mais d'avance il s'honore
-De posséder chez lui le brillant Floridore.
-
--*who_granville
-Que dit-il ?
-
--*who_floridore
-      Tout Bordeaux veut m'avoir à dîner ;
-Je n'ai point dans un mois un seul jour à donner.
-Mais demain je suis libre.
-
--*who_belrose
-      Ô faveur sans seconde !
-Hem !... Comme je te sers !
-
--*who_granville
-      Que le ciel te confonde !
-Monsieur,je suis ravi.
-
--*who_belrose
-      C'est conclu pour demain.
-Il invite en auteur et sa pièce à la main.
-
--*who_floridore
-On ne peut pas douter qu'elle ne soit fort belle.
-
--*who_granville
-Monsieur, le sentiment est le genre où j'excelle,
-Le comique du coeur.
-
--*who_floridore
-      Voici le manuscrit ?
-
--*who_granville
-Oui, monsieur.
-
--*who_belrose
-      Quelle verve ! Et comme c'est écrit !
-
--*who_granville
-Tais-toi !
-
--*who_belrose
-      Vous y verrez un jeune homme, un Valère,
-Vingt-cinq ou vingt-six ans ; ce rôle doit vous plaire.
-
--*who_floridore
-D'avance je le crois.
-
--*who_belrose
-      Donnez-nous vos avis.
-
--*who_granville
-Tais-toi donc.
-
--*who_belrose
-      À la lettre ils seront tous suivis.
-
--*who_floridore
-Je vous les donnerai.
-
--*who_belrose
-      La feuille est assez large :
-Faites-nous le plaisir de les écrire en marge.
-
--*who_granville
-J'enrage.
-
--*who_floridore
-      Je ne puis vous accorder ce point :
-Je donne mes avis et ne les écris point.
-
--*who_belrose
-Et pour cause.
-
--*who_floridore
-      À propos, je n'accuse personne ;
-Mais depuis un bon mois qu'elle a quitté Bayonne,
-Estelle m'a prié d'assembler le conseil.
-Nous manquons trois sur cinq ; qu'un scandale pareil
-N'ait pas lieu dans une heure ; adieu. J'ai l'honneur d'être.
-
-**** *book_ *id_I09 *act_I *date_1820
-
--*who_granville
-Parle, quel est ton but ? Que t'ai-je donc fait, traître ?
-
--*who_belrose
-Suis-je si criminel de rire à ses dépens ?
-
--*who_granville
-Tu t'amusais aux miens.
-
--*who_belrose
-      Allons, je me repens.
-Il ne te lira pas, mon Dieu ! Sois donc tranquille.
-
--*who_granville
-Eh ! Que n'invitais-tu chez moi toute la ville ?
-
--*who_belrose
-J'ai fait très prudemment par deux bonnes raisons :
-Tu nous observes tous et nous nous amusons.
-Le champagne éclaircit de terribles mystères ;
-J'invite de ta part tous nos sociétaires.
-
--*who_granville
-Un moment !
-
--*who_belrose
-      Nous serons les deux amphitryons :
-Tu feras les frais, moi les invitations. c
-Sois dans une heure ici. Comme un auteur que j'aime,
-Je veux au comité te présenter moi-même.
-L'auteur chez qui l'on dîne est sûr d'un beau succès ;
-Qui dîne avec son juge a gagné son procès :
-Tout s'arrange en dînant dans le siècle où nous sommes,
-Et c'est par les dîners qu'on gouverne les hommes.
-
-**** *book_ *id_II01 *act_II *date_1820
-
--*who_victor
 Non, ne le croyez pas, je me tiendrais infâme
 Si ce honteux espoir avait séduit mon âme.
 
--*who_bernard
-On a, mon cher Victor, des amis, des parents.
-
--*who_victor
 Je pourrais mendier les applaudissements !
 
--*who_bernard
-L'usage est votre excuse.
-
--*who_victor
       Ah ! fi ! c'est un scandale.
 
--*who_bernard
-Deses admirateurs sans peupler une salle,
-On doit tout doucement préparer le succès.
-Vous pouvez disposer de quarante billets ;
-Jp les ai demandés.
-
--*who_victor
       Donnez-les à ma place.
 
--*who_bernard
-Usez de votre droit.
-
--*who_victor
       Eh ! laissez-moi, de grâce.
 
--*who_bernard
-Mais vous extravaguez.
-
--*who_victor
       Je vois avec mépris
 Ces triomphes d'un jour achetés ou surpris,
 Des beaux esprits du temps les manoeuvres savantes,
@@ -988,31 +36,12 @@ Et, retombant sans cesse aux défauts qu'il ignore,
 Laisse d'un beau talent l'espérance avorter,
 En volant des succès qu'il eut pu mériter.
 
--*who_bernard
-L'honneur exagéré va droit au ridicule.
-Pour réformer nos moeurs vous prenez la férule,
-Vous débutez, Victor ; dans ce pas hasardeux,
-Aurez-vous pour soutiens un journalisteou deux ?
-
--*who_victor
 Non.
 
--*who_bernard
-      Et si par hasard leur plume vous déchire ?
-
--*who_victor
 C'est un malheur.
 
--*who_bernard
-      Chez eux allez vous faire écrire.
-
--*who_victor
 Non.
 
--*who_bernard
-      On voit bien son juge.
-
--*who_victor
       Eh ! Non ! Mille fois non !
 Parlez, qu'importe au mien mon visage ou monnom ?
 Quand je viens l'attendrir, c'est un sot s'il m'écoute ;
@@ -1046,71 +75,18 @@ Tel est le but constant qu'embrassent mes desirs :
 Inestimable bien, honneur digne d'envie,
 Que je paierai trop peu du repos de ma vie.
 
--*who_bernard
-J'aime ces sentiments, ils sont beaux ; mais enfin
-Avec beaucoup d'honneur on peut mourir de faim.
-Lucile est mon trésor, mon espoir, ma famille ;
-Moins tendrement peut-être un père aime sa fille.
-Vous voulez nous ravir cet excellent sujet :
-Bien que dans un mari j'approuve ce projet,
-Je veux que mon enfant vive, ne vous déplaise,
-Sinon dans l'opulence, au moins fort à son aise.
-Puisque vous tenez tant à ce chien de métier,
-Ayez donc un succès, un succès plein, entier,
-Que prône le public et le journal lui-même.
-Autrement point d'hymen, c'est là ma loi suprême.
-Je retourne à mon poste, où sans doute on m'attend.
-Ah ! Viens ! De ton Victor je ne suis pas content ;
-Il exagère tout. C'est à toi, ma Lucile,
-De fléchir, s'il se peut, cet esprit indocile.
-Je te laisse avec lui.
-
-**** *book_ *id_II02 *act_II *date_1820
-
--*who_lucile
-      Qui vous a donc fâchés ?
-Qu'avez-vous fait ?
-
--*who_victor
       Moi ? Rien.
 
--*who_lucile
-      Quoi ! Vous me le cachez !
-Il peut avoir des torts, mais il est notre père ;
-Il est le mien, du moins.
-
--*who_victor
       Mon Dieu ! Je le révère.
 Pourquoi prend-il plaisir à me désespérer ?
 
--*who_lucile
-Bon !
-
--*who_victor
       Il veut m'avilir.
 
--*who_lucile
-      Lui !
-
--*who_victor
       Me déshonorer.
 
--*who_lucile
-Allons !
-
--*who_victor
       Jusqu'à l'intrigue il veut que je descende,
 De ma carte aux journaux que je porte l'offrande.
 
--*who_lucile
-Nos actions souvent démentent nos conseils :
-Jamais, s'il eût suivi des préceptes pareils,
-L'emploi des confidents n'eût borné sa carrière ;
-Il serait riche, heureux ; il aurait part entière ;
-Mais, comme des journaux il ne fut pas prôné,
-Le premier débutant l'a toujours détrôné.
-
--*who_victor
 C'est peu : sur votre sort sa prudence inquiète
 Mêle à mon espérance une terreur secrète.
 Si notre hymen pour vous n'était pas fortuné,
@@ -1124,47 +100,18 @@ Vous verrai-je, à vingt ans, renoncer sans tristesse
 À l'encens d'une cour, aux voeux de tant d'amants,
 À ce bruit si flatteur des applaudissements ?
 
--*who_lucile
-Je l'avouerai tout bas, j'aime qu'on m'applaudisse...
-De quel prix vous payez ce léger sacrifice !
-Je vous devrai ce bien que j'ai tant regretté,
-D'un sort indépendant la douce obscurité,
-Un titre, le bonheur dont jouit une mère,
-Qui vaut bien des bravos la trompeuse chimère...
-
--*who_victor
 Mon aimable Lucile !...
 
--*who_lucile
-      Et qu'il me sera doux
-D'aller vous applaudir, d'être fière de vous !
-
--*who_victor
 Non, il n'est point d'ennui, de chagrin si farouche,
 Que ne puisse adoucir un mot de votre bouche.
 Mais ne nous flattons pas d'un trop charmant espoir.
 
--*who_lucile
-Pourquoi ?
-
--*who_victor
       Qui sait, grand Dieu ! Quel sort m'attend ce soir ?
 Sous l'effort des sifflets si ma pièce succombe,
 C'en est fait, je vous perds ; je suis mort si je tombe.
 
--*who_lucile
-Jugez de mes tourments, Victor, et plaignez-moi :
-Aux regards du public déguisant mon effroi,
-Prête à verser des pleurs, il me faudra sourire...
-Mon rôle est excellent, je crains de le mal dire.
-
--*who_victor
 Fût-il cent fois mauvais, dit par vous il plaira.
 
--*who_lucile
-Lorsque je paraîtrai, comme mon coeur battra !
-
--*who_victor
 Quel moment pour tous deux ! Encor si nul obstacle
 N'ajourne mon supplice en changeant le spectacle !...
 Ciel ! Je crois voir l'affiche, en proie aux curieux,
@@ -1192,929 +139,51 @@ Un jour peut me ravir ce qui m'a tant coûté ;
 Et j'attendrai dix ans, dix ans avec ma honte,
 L'honneur de me laver d'une chute si prompte.
 
--*who_lucile
-Eh bien ! Au célibat nous voilà condamnés,
-Pour dix ans tout au moins. Courage !
-
--*who_victor
       Ah ! Pardonnez.
 
--*who_lucile
-Paix, on vient.
-
-**** *book_ *id_II03 *act_II *date_1820
-
--*who_belrose
-      J'étais sûr de vous trouver ensemble.
-Ici, dans un instant, le comité s'assemble.
-
--*who_victor
 Quand répétera-t-on ?
 
--*who_belrose
-      Vos affaires vont mal.
-La pièce est aux arrêts chez le censeur royal.
-
--*who_victor
 Qu'ai-je dit ?
 
--*who_lucile
-      Qu'un censeur est un homme terrible !
-
--*who_victor
 Allons,je cours parler à ce juge inflexible.
 Dans peu je vous revois.
 
--*who_lucile
-      Je vais étudier.
-
-**** *book_ *id_II04 *act_II *date_1820
-
--*who_belrose
-J'ai, ma foi, très bien fait de les congédier.
-Une lettre perdue au pied d'une coulisse !
-Ce doit être du beau... Si de quelque malice...
-Ah ! Madame Blinval !... Son démon familier,
-Pour désoler quelqu'un, semble me l'envoyer.
-
-**** *book_ *id_II05 *act_II *date_1820
-
--*who_belrose
-Accourez, du scandale ! Une épître amoureuse.
-
--*who_madameblinval
-Pour qui ?
-
--*who_belrose
-      L'adresse manque ; oh ! Ma main scrupuleuse
-Ne se permettrait pas de briser un cachet...
-
--*who_madameblinval
-Je vous approuve fort ; il faut être discret.
-Lisons.
-
--*who_belrose
-« Je me soumets, belle veuve ; je m'imposerai huit jours d'une retraite austère.
-Huit jours passés sans vous voir seront pour moi un siècle de souffrance ; mais, après ce délai, nul obstacle ne doit retarder notre mariage et mon bonheur.
-Permettez qu'un cachemire rouge et un brillant que j'ai rapportés des Grandes-Indes accompagnent ma lettre.
-Aux termes où nous en sommes, vous ne pouvez refuser ces bagatelles, qui sont les premiers présents de noce de votre tendre amant et futur époux.
-« LORD PEMBROCK. »
-      Découvrez-vous celle de nos sultanes
-Où peuvent s'adresser ces douceurs anglicanes ?
-
--*who_madameblinval
-C'est Estelle.
-
--*who_belrose
-      Vraiment ?
-
--*who_madameblinval
-      Du moins j'en ai l'espoir.
-
--*who_belrose
-Mais.
-
--*who_madameblinval
-      Il faut les brouiller à ne plus se revoir.
-
--*who_belrose
-Voilà bien le souhait d'une honnête personne !
-
--*who_madameblinval
-Détrompons son mylord.
-
--*who_belrose
-      Oh ! Que vous êtes bonne !
-
--*who_madameblinval
-Son talent assez mince est pour moi sans danger :
-Mais sa vogue m'irrite, et je veux m'en venger.
-
--*who_belrose
-Bravo ! Que la vengeance est douce aux belles âmes !
-C'est le plaisir des dieux et le bonheur des femmes.
-Sommes-nous bien certains qu'Estelle soit l'objet... ?
-
--*who_madameblinval
-Oui, mon pressentiment est un avis secret.
-Je suis son ennemie, elle en aura la preuve :
-Elle se targue bien du bonheur d'être veuve !
-
--*who_blinval
-Ne vous gênez donc pas : ma femme, grand merci !
-
--*who_madameblinval
-C'est vous !... Que j'ai de joie à vous revoir ici !
-
--*who_belrose
-Tiens ! Blinval ! C'est charmant !
-
--*who_madameblinval
-      Floridore s'avance,
-Estelle l'accompagne, observons tout : silence !
-
--*who_belrose
-Bien vu. Retranchons-nous dans notre dignité,
-Et couvrons nos projets d'un air de comité.
-
-**** *book_ *id_II06 *act_II *date_1820
-
--*who_floridore
-La séance est ouverte.
-
--*who_madameblinval
-      Hem. Regardez Estelle.
-Le cachemire rouge.
-
--*who_belrose
-      Et le brillant.
-
--*who_madameblinval
-      C'est elle.
-
--*who_floridore
-Votre intérêt commun n'emprunte pas ma voix
-Pour tracer le tableau d'une caisse aux abois,
-Ou, se rangeant aux voeux d'un public débonnaire,
-Presser de nos travaux la lenteur ordinaire.
-Il est bon dans les arts d'avancer pas à pas ;
-Le public est plaisant de ne le sentir pas !
-Il s'agit aujourd'hui d'un dîner, d'une fête,
-Où veut nous réunir un monsieur fort honnête,
-Un ami de Belrose, opulent, quoique auteur ;
-Le fait ne s'est pas vu de mémoire d'acteur.
-Je n'ose régler seul ce qu'il convient de faire,
-Et soumets au conseil cette importante affaire.
-
--*who_belrose
-Sans livrer le projet à la discussion,
-Je crois qu'il doit passer par acclamation.
-
--*who_tous
-Appuyé !
-
--*who_floridore
-      Que veut-on ?
-
--*who_lelaquais
-      Monsieur Victor demande
-S'il pourrait vous parler.
-
--*who_floridore
-      Un moment, qu'il attende :
-Nous sommes occupés d'objets très sérieux.
-
--*who_estelle
-Messieurs, avec douleur je vous fais mes adieux.
-J'ai d'un engagement subi le rude empire,
-Je m'y soumets encor : dans huit jours il expire ;
-D'après nos règlements je reprendrai mes droits,
-Et j'assiste au conseil pour la dernière fois.
-
--*who_madameblinval
-Dans huit jours !
-
--*who_estelle
-      Ma santé se dérange et s'altère ;
-Je vais m'ensevelir dans le fond d'une terre,
-Occuper mes loisirs par des soins bienfaisants,
-Et veiller sur les moeurs de mes bons paysans.
-
--*who_madameblinval
-Quoi, nous quitter sitôt ! Est-ce agir en amie ?
-
--*who_estelle
-Contre un tel coup mon âme est à peine affermie ;
-Mais il le faut, ma chère.
-
--*who_floridore
-      Il suffit, et Blinval
-En fera son rapport au conseil général.
-Que répondre à Florbel, messieurs, sur sa lecture ?
-De notre négligence on prétend qu'il murmure.
-Vous étiez si pressés de partit l'autre fois
-Qu'on n'a pas eu le temps de recueillir les voix.
-
--*who_estelle
-Il se plaint ? Les auteurs sont d'une humeur étrange.
-
--*who_blinval
-Voici l'opinion du bon homme Lagrange.
-
--*who_floridore
-Lisez.
-
--*who_blinval
-      « La surdité qui me prend par instants
-M'a fait perdre plus d'un passage ;
-Mais quelques auditeurs m'ont paru mécontents.
-Je crois pouvoir juger l'auteur sur leur visage ;
-Mon refus motivé, c'est qu'un homme à vingt ans
-Ne peut pas faire un bon ouvrage. »
-
--*who_floridore
-Savez-vous qu'à son âge il juge encor très bien !
-
--*who_belrose
-Pour un sourd.
-
--*who_blinval
-      Trois refus en comprenant le mien.
-Florbel est philosophe, et dit ce qu'il faut taire :
-J'ai donné sur sa joue un soufflet à Voltaire.
-
--*who_madameblinval
-Je refuse, le style est par trop familier.
-
--*who_bernard
-Pardon, monsieur Victor m'engage à vous-prier...
-
--*who_floridore
-C'est nous persécuter d'une étrange manière.
-Qu'il nous laisse, on ne peut terminer une affaire.
-
--*who_belrose
-Pour la réception j'ai donné mon scrutin.
-
--*who_blinval
-De la petite Emma voici le bulletin :
-« Pour moi la langue est tout ; au plus rare mérite
-Je ne puis sur ce point pardonner un écart ;
-Je vote le rejet et le motive ; car
-Cette ouvrage est très mal écrite. »
-
--*who_belrose
-Ce scrutin compte-t-il ?
-
--*who_floridore
-      Messieurs, respect aux droits :
-Qu'on sache écrire ou non, l'on a toujours sa voix.
-
--*who_blinval
-En ce cas, refusé.
-
--*who_belrose
-      Ma foi, c'est grand dommage ;
-Je trouvais du bon, moi, dans ce mauvais ouvrage !
-
--*who_floridore
-Aussi répondrons-nous qu'il est fort bien écrit...
-Des détails très heureux... infiniment d'esprit...
-De l'observation... des moeurs...
-
--*who_belrose
-      En conséquence
-Nous refusons la pièce.
-
--*who_floridore
-      Eh ! Mon Dieu ! Patience.
-Mais.
-
--*who_estelle
-      L'auteur va pâlir à ce terrible mais.
-
--*who_floridore
-De ces restrictions qui n'offensent jamais.
-Un dénouEment brusqué... quelques réminiscences...
-L'entente de la scène... et puis les circonstances...
-C'est un jeune homme, enfin, qu'il faut encourager.
-
--*who_lelaquais
-Monsieur Granville.
-
--*who_floridore
-      Entrez.
-
--*who_belrose
-      C'est le noble étranger
-Qui nous traite demain.
-
-**** *book_ *id_II07 *act_II *date_1820
-
--*who_floridore
-      Vous voyez en personne
-L'auteur de certains vers dont la beauté m'étonne.
-
--*who_granville
-Eh quoi !...
-
--*who_floridore
-      J'ai lu votre acte, et j'en suis enchanté.
-
--*who_belrose
-Par exemple, c'est fort !
-
--*who_granville
-      Combien je suis flatté... !
-Se moque-t-il de moi ?
-
--*who_floridore
-      J'aime votre Valère...
-Ah ! c'est vraiment très bien !
-
--*who_belrose
-      Bravo ! Comme il s'enferre !
-
--*who_estelle
-Auriez-vous, par hasard, retenu quelques vers ?
-
--*who_floridore
-De très bons... je pourrais les citer de travers :
-J'ai lu rapidement.
-
--*who_belrose
-      Mais, moi, je me rappelle
-Cette tirade... Eh ! Oui.
-
--*who_granville
-      Je ne sais pas laquelle.
-Ma muse aux grands sujets se monte sans effort ;
-Mon style n'est pas gai, messieurs,mon style est fort :
-Thalie a dans mes vers un air tout romantique,
-Et donne même un peu dans la métaphysique.
-Boileau, timide auteur, qui n'a pas toujours tort,
-Sur un point seulement est avec moi d'accord :
-Je foule aux pieds le sac où Scapin s'enveloppe ;
-J'ai puisé dans Shakespeare, dans Schiller et dans Lope ;
-Si le genre sévère a pour vous des appas,
-Lisez ma comédie, et vous ne rirez pas.
-
--*who_blinval
-L'avis de Floridore est pour vous un grand titre ;
-Floridore est du goût un infaillible arbitre.
-
--*who_granville
-Monsieur.
-
--*who_estelle
-      Il rend justice à votre beau talent.
-
--*who_granville
-Madame.
-
--*who_madameblinval
-      Il l'admire.
-
--*who_granville
-      Ah !
-
--*who_belrose
-      L'ouvrage est excellent !
-
--*who_granville
-Mon ami.
-
--*who_blinval
-      C'est jugé.
-
--*who_estelle
-      Reçu de confiance.
-
--*who_granville
-Ah ! mesdames, messieurs !
-
-**** *book_ *id_II08 *act_II *date_1820
-
--*who_victor
       J'ai perdu patience :
 Pardonnez,le temps presse.
 
--*who_bernard
-      Oui, quand répétons-nous ?
-
--*who_floridore
-Mon Dieu ! Nous n'attendions que votre pièce et vous.
-
--*who_victor
 Alors, veuillez me suivre.
 
--*who_belrose
-      Eh bien ?
-
--*who_granville
-      J'ai peur de rire.
-
--*who_floridore
-Partons.
-
--*who_granville
-      Monsieur Bernard, j'ai deux mots à vous dire !
-
-**** *book_ *id_II09 *act_II *date_1820
-
--*who_belrose
-Ce pauvre Floridore ! Ah ! Je m'en veux, c'est mal.
-Une fois en faveur au Théâtre Royal,
-Je prétends le servir en ami de collège.
-Il est assez mauvais pour que je le protège.
-Allons les retrouver.
-
-**** *book_ *id_II10 *act_II *date_1820
-
--*who_lelaquais
-      Monsieur.
-
--*who_belrose
-      Qu'est-ce ?
-
--*who_lelaquais
-      Un Anglais
-Cherche monsieur Bernard, qu'il ne trouve jamais.
-IL est venu tantôt retenir en personne
-Une loge grillée, et veut qu'on la lui donne :
-Il la demande en vain. Que faire ? Tout est pris.
-
--*who_belrose
-Les noms des amateurs par ordre étaient inscrits ;
-Le sien ?
-
--*who_lelaquais
-      Mylord Pembrock.
-
--*who_belrose
-      Pembrock !ô providence !
-La belle occasion de les mettre en présence !
-Pour Estelle et pour lui l'entretien sera doux,
-Et c'est, avant la noce, un plaisant rendez-vous !
-Mylord sans le savoir entrera dans mes vues ;
-Courons le voir. Vivat ! Ce soir je vais aux nues ;
-Mes débuts dans un mois, demain pompeux festin,
-Aujourd'hui grand scandale ! Allons, saute, Frontin !
-
-**** *book_ *id_III01 *act_III *date_1820
-
--*who_granville
-Ils répètent la pièce, et je viens de l'entendre :
-Je veux être pendu si j'y puis rien comprendre.
-L'un gronde entre ses dents, l'autre rit aux éclats ;
-On crie, on s'interrompt, l'auteur peste tout bas.
-Moi, j'admirais de près ma charmante cousine.
-Bernard en dit un bien... Elle est, ma foi, divine :
-Belrose, dont l'avis ne peut être suspect,
-En parle avec éloge et même avec respect.
-Mais Victor m'inquiète, et j'entends qu'on l'oublie ;
-Quand j'offre un million, refuser est folie.
-Lucile a du bon sens... Je la croyais ici...
-Ah ! Ce pauvre Victor, je le plains ! La voici.
-
-**** *book_ *id_III02 *act_III *date_1820
-
--*who_lucile
-J'espérais au foyer trouver Madame Estelle ;
-Mais je ne la vois pas. Pardon !
-
--*who_granville
-      Mademoiselle,
-Puis-je vous demander si l'on dispute encor ?
-
--*who_lucile
-Tout le monde à la fois, jusqu'à monsieur Victor.
-Enfin, madame Estelle est ma seule espérance.
-
--*who_granville
-Ces débats sont fréquents. selon toute apparence ?
-
--*who_lucile
-C'est ainsi qu'on répète.
-
--*who_granville
-      Avec ce même accord ?
-
--*who_lucile
-Oui.
-
--*who_granville
-      C'est plus fatigant que je n'ai cru d'abord.
-
--*who_lucile
-Permettez...
-
--*who_granville
-      Un moment, écoutez-moi, de grâce :
-Ma déclaration quelque peu m'embarrasse...
-Voulez-vous m'honorer d'un regard ?.... Les beaux yeux !...
-Je vais vous étonner : me trouvez-vous bien vieux ?
-
--*who_lucile
-Que veut dire monsieur ?...
-
--*who_granville
-      Parlez, un long voyage
-A dû brunir mon teint et creuser mon visage ;
-Mais j'ai trente-six ans.
-
--*who_lucile
-      Je ne devine pas.
-
--*who_granville
-Les voyages sur mer n'ont pour vous nul appas ?
-
--*who_lucile
-Non, monsieur.
-
--*who_granville
-      C'est dommage ; et si, par aventure,
-Un marin, dont l'esprit ne fut pas sans culture,
-Grand voyageur, bien franc, tourné dans ma façon,
-Ayant mes traits, mon air, honnête homme et garçon,
-De mon âge à-peu-près, d'un joyeux caractère,
-Tombait dans ce foyer de quelque autre hémisphère,
-Et, jurant à vos pieds l'amour le plus constant,
-Appuyait son aveu d'un million comptant,
-Vous offrait un hôtel, un brillant équipage.
-
--*who_lucile
-Je ne saurais, Monsieur, comprendre ce langage ;
-Souffrez...
-
--*who_granville
-      Non pas, un mot doit calmer votre effroi.
-Votre tuteur m'approuve, au moins écoutez-moi.
-Dans ce maudit foyer tout prête à l'équivoque ;
-J'explique en l'achevant un discours qui vous choque.
-Ce voyageur, c'est moi ; son portrait, c'est le mien ;
-Et c'est avec son nom qu'il vous offie son bien.
-
--*who_lucile
-Cette preuve d'estime et me touche et m'honore.
-Le monde, je le vois, me rend justice encore ;
-Mais l'accueil du public a passé mes désirs.
-Mes devoirs, grâce à lui, sont pour moi des plaisirs ;
-Contente de mon sort, heureuse près d'un père,
-Je ne veux...
-
--*who_granville
-      Je suis franc : seriez-vous moins sincère ?
-Expliquons ce refus : certain monsieur Victor
-A surpris votre coeur et me fait un grand tort.
-
--*who_lucile
-Je suis fière, il est vrai, de l'amour qu'il m'inspire :
-Son talent.
-
--*who_granville
-      Ah ! Talent dont on ne peut rien dire,
-Qui n'est pas bien prouvé.
-
--*who_lucile
-      Qui doit l'être ce soir,
-Qui le sera, Monsieur.
-
--*who_granville
-      C'est ce qu'il faudra voir.
-Un poète !
-
--*who_lucile
-      Il est loin d'être millionnaire :
-Alors, pour bien des gens, c'est un homme ordinaire ;
-Qu'il le soit à vos yeux, rien de plus naturel :
-Il n'offre pas d'écrin, d'équipage, d'hôtel ;
-Non, mais je l'aime.
-
--*who_granville
-      Eh ! C'est cet amour dont j'enrage,
-Pour qui j'aurais cent fois donné mon héritage.
-Que vous manquerait-il si j'étais votre époux ?
-Si vous m'aviez aimé.
-
--*who_lucile
-      Je n'eusse aimé que vous.
-
--*who_granville
-Grand merci pour Victor ! D'une mer turbulente
-Il va sur un théâtre affronter la tourmente.
-Quelle audace ! Malgré son mérite et vos voeux
-Je crains fort qu'il n'échoue.
-
--*who_lucile
-      Il sera malheureux ;
-Et je l'en chérirai, s'il se peut, davantage.
-
--*who_granville
-Mais, affranchi par là du serment qui l'engage,
-Votre tuteur enfin.
-
--*who_lucile
-      Je connais mon devoir :
-Mon tuteur sait aussi jusqu'où va son pouvoir,
-À sur mes sentiments l'autorité suprême :
-Mais je n'en dois, Monsieur, répondre qu'à lui-même.
-
-**** *book_ *id_III03 *act_III *date_1820
-
--*who_granville
-Eh bien ! De son refus je suis tout stupéfait !
-Préférer un Victor !... Qui me vaut bien, au fait.
-Monsieur le légataire, allons, point de faiblesse ;
-Je saurai si Victor mérite sa tendresse.
-
-**** *book_ *id_III04 *act_III *date_1820
-
--*who_belrose
-Tiens, c'est toi ! Tu vas rire.
-
--*who_granville
-      Eh ! De quoi ?
-
--*who_belrose
-      C'est charmant.
-Tu vas bien t'amuser. Une veuve, un amant.
-
--*who_granville
-S'agit-il, par hasard, de Victor, de Lucile ?
-
--*who_belrose
-Non, non,c'est une histoire.
-
--*who_granville
-      Eh ! Laisse-moi tranquille !
-Intrigue, mon enfant, si tel est ton plaisir ;
-Pour chagriner autrui je n'ai pas de loisir.
-
-**** *book_ *id_III05 *act_III *date_1820
-
--*who_belrose
-Chagriner, chagriner ! Quel mauvais caractère !
-On ne rirait de rien. Mylord viendra, j'espère,
-Estelle aussi. Faut-il me mêler aux débats ?
-Belrose, mon ami, ne vous exposez pas :
-Une femme en colère est toujours respectable.
-Des orages du coeur je me défie en diable ;
-On épargne l'amant ; c'est pour les indiscrets
-Que la grêle est à craindre, et qu'il pleut des soufflets.
-
-**** *book_ *id_III06 *act_III *date_1820
-
--*who_belrose
-Entrez, Mylord, entrez, c'est par ici.
-
--*who_pembrock
-      De grâce,
-D'où me connaissez-vous ? Ce procédé me passe ;
-Me céder votre loge !
-
--*who_belrose
-      Attendez un moment,
-Et vous serez surpris bien agréablement.
-
--*who_pembrock
-Volontiers ! Mais, ravi de tant de complaisance,
-Je veux faire avec vous plus ample connaissance.
-
--*who_belrose
-C'est trop d'honneur, Mylord, et vous êtes bien bon.
-Mais que peut faire Estelle ? Oh ! je la vois : pardon.
-
-**** *book_ *id_III07 *act_III *date_1820
-
--*who_belrose
-Je voulais avec vous me concerter d'avance,
-Et je vous attendais pour la reconnaissance.
-
--*who_estelle
-C'est Mylord !
-
--*who_pembrock
-      C'est ma veuve !
-
--*who_belrose
-      Ah mon Dieu ! quoi, vraiment ?
-Que je suis donc fâché. ! c'est bien innocemment.
-Mais je crains de gêner un si doux tête-à-tête.
-Il faut que tout le monde ait sa part de la fête.
-Courons les avertir.
-
-**** *book_ *id_III08 *act_III *date_1820
-
--*who_estelle
-      Puis-je en croire mes yeux ?
-Quoi ! vous ici, mylord ?
-
--*who_pembrock
-      Vous, baronne,en ces lieux !
-Voilà donc la douleur où vous étiez livrée !
-
--*who_estelle
-C'est donc là cette foi que vous m'aviez jurée !
-
--*who_pembrock
-Madame, expliquons-nous, sans larmes, sans fureurs :
-Comment vous trouvez-vous dans un foyer d'acteurs ?
-
--*who_estelle
-Moi !...
-
--*who_pembrock
-      Cherchez des raisons qui me puissent confondre.
-
--*who_estelle
-Il ne faudrait qu'un mot !
-      Je ne sais que répondre.
-
--*who_pembrock
-Et comment ce monsieur qui vient de nous quitter
-Sur un rôle avec vous peut-il se concerter... ?
-
--*who_estelle
-J'y suis !
-
--*who_pembrock
-      Votre embarras malgré vous se décèle.
-
--*who_estelle
-Connaissez-vous l'auteur de la pièce nouvelle ?
-
--*who_pembrock
-Non. Que m'importe ? Ici qui peut vous amener ?
-
--*who_estelle
-Rougissez donc, ingrat, de m'oser soupçonner.
-
--*who_pembrock
-Je ne souffre que trop à vous croire parjure ;
-Achevez.
-
--*who_estelle
-      Je m'adonne à la littérature.
-
--*who_pembrock
-Vous !
-
--*who_estelle
-      La pièce est de moi.
-
--*who_pembrock
-      Vous auteur !
-
--*who_estelle
-      Eh ! Mylord,
-Quelle femme aujourd'hui ne brigue un si beau sort !
-En vain l'autorité d'un ridicule usage
-Confinait nos talents dans les soins d'un ménage :
-Le Pinde est envahi par des femmes auteurs ;
-Devant nous la morale abaisse ses hauteurs ;
-Notre génie embrasse et peinture et musique,
-Et dans ses profondeurs sonde la politique.
-Des rigueurs du public j'osais braver l'écueil ;
-Je vous apparaissais, dans mes rêves d'orgueil,
-Aux acclamations d'un parterre unanime,
-Comme un astre écartant la nuit de l'anonyme ;
-Je vous vous surpris, stupéfait, enchanté.
-Je n'ai rien fait, ingrat, pour la postérité :
-L'amour seul me guidait au temple de mémoire ;
-Oui, je voulais en dot vous apporter ma gloire,
-Et vous suivre à l'autel le front ceint de lauriers.
-
--*who_pembrock
-Quoi, la pièce qu'on donne est-il vrai ?... Vous seriez...
-Se peut-il ? Vous auteur ! Je ne me sens pas d'aise :
-J'aimais sans le savoir la Sapho Bordelaise.
-
--*who_estelle
-Mais quand je vois ma gloire en horreur à vos yeux.
-
--*who_pembrock
-Comment ?
-
--*who_estelle
-      Tout son éclat me devient odieux !
-
--*who_pembrock
-Mais écoutez-moi donc.
-
--*who_estelle
-      Ô funeste délire !
-Qui pensa me coûter le seul bien où j'aspire !
-
--*who_pembrock
-De grâce.
-
--*who_estelle
-      Adieu, lauriers ! Venez.
-
--*who_pembrock
-      Mais.
-
--*who_estelle
-      Je le veux :
-Que m'importe de plaire à nos derniers neveux ?
-C'est de vous, de vous seul que je veux être aimée ;
-Je dois vous immoler jusqu'à ma renommée ;
-Je vous la sacrifie. En vain vous résistez.
-Venez. Je suis perdue.
-
-**** *book_ *id_III09 *act_III *date_1820
-
--*who_victor
       Ah ! Madame, arrêtez !
 Je suis abandonné, trahi par tout le monde ;
 Qu'au moins dans ce débat votre voix me seconde.
 Prenez mes intérêts, j'ose vous en prier.
 
--*who_pembrock
-Quel est ce monsieur-là ?
-
--*who_estelle
-      C'est un jeune premier
-Qui débute. L'ouvrage, en vous faisant connaître,
-À mon faible talent eût fait honneur peut-être.
-Le sort, qui m'interdit un espoir si flatteur,
-Frappe du même coup et l'artiste et l'auteur.
-Je ne puis rien pour vous.
-
--*who_victor
       Ô Dieu !
 
--*who_pembrock
-      Qui vous oblige... ?
-
--*who_estelle
-Non, c'en est fait ! venez, je le veux, je l'exige.
-
-**** *book_ *id_III10 *act_III *date_1820
-
--*who_victor
 Aurais-je dû m'attendre à ce retour soudain !
 
--*who_madameblinval
-S'il la fait Mylady, j'en mourrai de chagrin.
-
--*who_victor
 Madame, par pitié... La pièce est affichée.
 
--*who_madameblinval
-Faites jouer Lucile, on n'en est pas fâchée ;
-Mais qu'elle brille seule ! Oh ! Cela n'est pas bien.
-Ajoutez à mon rôle, ou retranchez du sien.
-
--*who_victor
 Monsieur...
 
--*who_floridore
-      Épargnez-vous des frais de rhétorique ;
-Cheveux gris dans les vers me semble prosaïque ;
-Cheveux gris déplairait à tous les bons esprits ;
-Et je ne dirai pas, Monsieur, mes cheveux gris.
-
-**** *book_ *id_III11 *act_III *date_1820
-
--*who_victor
 Ciel ! Est-il dans le monde un sort plus misérable ?
 
--*who_granville
-Pour sonder notre auteur l'instant est favorable.
-Vous vous trouvez, je crois, dans un grand embarras ?
-
--*who_victor
 Tout arrogants qu'ils sont, ils parleraient plus bas,
 Si certain inspecteur, dont on craint la présence,
 Voulait prendre en pitié ma juste impatience.
 
--*who_granville
-Peut-être est-il ici.
-
--*who_victor
       Quoi !
 
--*who_granville
-      Brisons sur ce point ;
-Je prétends vous servir, mais je ne dirai point
-Comment ces chers messieurs sont dans ma dépendance.
-
--*who_victor
 Je le comprends ! Comptez sur ma reconnaissance.
 
--*who_granville
-Je mets à ce service une condition.
-
--*who_victor
 Laquelle ?
 
--*who_granville
-      Je tiens fort à mon opinion ;
-Blinval est à mon sens un profond politique.
-
--*who_victor
 Ce n'est pas mon avis ; mais parlez.
 
--*who_granville
-      Je m'explique :
-Grâce à lui, dans vos vers j'ai saisi quelques traits,
-Quelques allusions, et même des portraits.
-
--*who_victor
 Enfin.
 
--*who_granville
-      Qui blesseraient plus d'un grand personnage.
-
--*who_victor
 Et, si je les retranche, on jouera mon ouvrage ?
 
--*who_granville
-Sans doute.
-
--*who_victor
       En refusant, peut-être je suivrai
 Un sentiment d'honneur qu'on trouve exagéré.
 L'excès peut tout gâter, tout, même la sagesse :
@@ -2128,11 +197,6 @@ Plus méchants mille fois que l'auteur n'est malin,
 Ces amis obligeants prompts à donner l'alerte ?
 Il faudrait la placer dans une île déserte.
 
--*who_granville
-Eh ! Ne peut-on, sincère avec timidité,
-Pour l'offrir sans péril, farder la vérité ?
-
--*who_victor
 Un faiseur de romans, dont la verve est glacée,
 Peut par de vains détours énerver sa pensée,
 Et, perdu dans le vague avec nos grands esprits,
@@ -2148,25 +212,6 @@ Au sommet de son art si Molière est monté,
 C'est qu'il fut toujours vrai, toujours peintre fidèle :
 Plus d'un portrait chez lui fit pâlir le modèle.
 
--*who_granville
-Croyez-moi, pardonnez au pauvre genre humain.
-Laissez là le théâtre ; et, l'épée à la main,
-N'entrez pas comme un fou dans la littérature.
-En style descriptif chantez l'agriculture ;
-À la femme du maire adressez un sonnet,
-Ou sur la bienfaisance une épître au préfet.
-C'est ainsi qu'on parvient, et les grands à leurs tables
-Disent : Ce garçon-là fait des vers admirables.
-On boit à vos succès, on vous fête, on vous rit ;
-Voilà ce que j'appelle exploiter son esprit.
-Mais vous voulez fronder, et qui donc ? L'hypocrite,
-L'orgueilleux, le menteur, le fat, le parasite ?
-Ces travers surannés dont vous vous courroucez,
-Thalie en fait justice et les a terrassés.
-Tout va-t-il déclinant dans ce siècle prospère ?
-Et trouvez-vous le fils plus méchant que son père ?
-
--*who_victor
 Les hommes d'aujourd'hui valent bien leurs aïeux ;
 Mais je puis les railler s'ils ne valent pas mieux.
 Le ridicule manque ! Ah ! Qu'il naisse un Molière :
@@ -2194,13 +239,6 @@ Alors fronder nos moeurs n'est plus qu'un vain délire.
 Heureux si je fais dire à la postérité
 Qu'en vantant mon pays je ne l'ai point flatté !
 
--*who_granville
-S'il ne vous tombe pas, par un hasard unique,
-Quelque succession de l'Inde ou de l'Afrique,
-Dans un lieu trop souvent aux poètes fatal,
-Vous pourrez de Gilbert mourir collatéral.
-
--*who_victor
 Ah ! Si dans son cercueil Gilbert peut nous entendre,
 Quelle ardeur de rimer doit tourmenter sa cendre !
 Un instinct généreux, que je ne puis dompter,
@@ -2208,60 +246,21 @@ Dans ces temps corrompus me pousse à l'imiter.
 J'affronte son destin, je l'accepte en partage :
 Vertu, gloire, malheur, C'est un noble héritage.
 
--*who_granville
-Son fanatisme, au moins, est celui du talent,
-De l'honneur !
-
-**** *book_ *id_III12 *act_III *date_1820
-
--*who_victor
       Vous aussi ! Vous ! Et dans quel moment !
 
--*who_bernard
-J'ai des intentions vraiment très pacifiques ;
-Mais à qui désormais adresser mes répliques !
-
--*who_victor
 Eh ! Ne deviez-vous pas contre eux vous révolter,
 Faire parler mes droits ?
 
--*who_bernard
-      Il faudrait disputer :
-C'est pénible ; et pour peu que l'on ait l'âme bonne.
-
--*who_victor
 Quand on est bon pour tous, on ne l'est pour personne.
 Votre bonté ne veut, ne fait, n'empêche rien.
 Mon Dieu ! Soyez méchant, et faites-moi du bien.
 
--*who_bernard
-Viens, suis-moi, mon enfant ; jamais je ne querelle.
-
--*who_lucile
-Adieu, monsieur Victor.
-
--*who_victor
       Adieu, mademoiselle.
 
-**** *book_ *id_III13 *act_III *date_1820
-
--*who_victor
 Elle fuit ; c'en est fait, allons, j'ai tout perdu.
 
--*who_granville
-Pourquoi ? Soyons d'accord, et tout vous est rendu.
-Voyons, dans vos refus persistez-vous encore ?
-
--*who_victor
 Toujours, Monsieur.
 
--*who_granville
-      Tenez, ce mot-là vous honora ;
-Et je veux... mais partons, car je l'embrasserais.
-
-**** *book_ *id_III14 *act_III *date_1820
-
--*who_victor
 Vous avez sur ma tête épuisé tous vos traits,
 Ô destins ennemis ! Et me voilà tranquille ;
 Je n'ai plus rien à perdre. Ah ! Lucile ! Lucile !
@@ -2280,375 +279,73 @@ Aux serpents de l'envie, au démon des cabales.
 Loin d'eux et loin de toi je cours chercher la paix,
 Et quitte ce foyer pour n'y rentrer jamais.
 
-**** *book_ *id_IV01 *act_IV *date_1820
-
--*who_belrose
-Dieu ! Quels flots d'amateurs ! Quel bruit ! Quelle recette !
-Si le spectacle tient, la chambrée est complète.
-Notre affiche sans bande étale à tous les yeux
-De l'ouvrage nouveau le titre radieux.
-Les bureaux vont s'ouvrir, et nos braves cohortes
-Dans leur camp retranché se rangent près des portes.
-Vous jouez, m'a-t-on dit ?
-
--*who_madameblinval
-      C'est faiblesse,j'ai tort ;
-Mais comment résister aux prières d'un Lord ?
-
--*who_belrose
-Quoi ! Ce seigneur anglais vous a rendu visite ?
-
--*who_madameblinval
-Il sait m'apprécier, je lui crois du mérite.
-Mon talent lui plaît fort ; d'ailleurs il s'est chargé
-De mes débuts à Londres, à mon premier congé.
-
--*who_belrose
-Pour l'intérêt d'autrui son ardeur est extrême ;
-Chez moi, comme chez vous, il s'est rendu lui-même.
-Pour trouver Floridore il m'a quitté trop tard ;
-Mais il a vu Lucile et converti Bernard.
-Il connaît donc Victor ?
-
--*who_madameblinval
-      Non.
-
--*who_belrose
-      Comment ! Il intrigue,
-À courir tout Bordeaux par plaisir se fatigue,
-Il perd auprès de nous ses discours et ses pas,
-Pour un auteur sans nom et qu'il ne connaît pas !
-Quel saint amour de l'art, quel démon littéraire
-Tourmente, à nos dépens, cet honnête insulaire ?
-
--*who_madameblinval
-C'est Estelle.
-
--*who_belrose
-      Vraiment ?
-
--*who_madameblinval
-      Chut ! Il m'a tout conté.
-C'est une horreur, mon cher, c'est une indignité.
-Il croit qu'elle est Baronne et même auteur comique,
-Que nous représentons son oeuvre dramatique.
-
--*who_belrose
-Voyez-vous !... Mais alors je ne puis concevoir
-Que cette noble veuve ose jouer ce soir.
-
--*who_madameblinval
-Autre mystère. On dit que votre ami Granville
-L'a vue, a dit trois mots ; à ses ordres docile,
-Elle jouera.
-
--*who_belrose
-      J'y suis. Motus sur l'inspecteur !
-
--*who_madameblinval
-Mais, pour se délivrer d'un fâcheux spectateur,
-Elle a fait grand fracas du danger qu'elle affronte.
-Tomber devant Mylord, elle en mourrait de honte.
-Le public jouira du fruit de ses travaux,
-Si Mylord pour ce soir veut bien quitter Bordeaux,
-S'enfermer ici près, dans ce petit domaine.
-Où nous avons dîné le jour de ma migraine.
-Honteuse d'une chute ou fière d'un succès,
-Elle ira lui porter sa joie ou ses regrets.
-Mais la pièce sifflée (et c'est ce qu'elle espère)
-Tous deux le lendemain partent pour l'Angleterre.
-Notre Anglais s'est soumis, non sans de grands débats ;
-Il cède, il promet tout, sa foi ne suffit pas ;
-On veut le voir partir, on ferme la portière,
-Et puis, fouette, cocher ! À peine à la barrière,
-Mille noires terreurs assiègent son cerveau !
-Si l'on ne donnait pas le chef-d'oeuvre nouveau !
-Les acteurs balançaient, il faut qu'il les décide ;
-Il n'y peut plus tenir. Soudain on tourne bride,
-Et Mylord dans Bordeaux, en prenant un détour,
-Comme un conspirateur rentre au déclin du jour.
-Il court chez l'un, chez l'autre, il promet, il supplie ;
-Parle au nom du public, des beaux-arts, de Thalie,
-De la postérité ; triomphe, et fait si bien
-Qu'on va jouer Victor, qui n'y comprendra rien.
-
--*who_belrose
-Eh quoi ! Vous n'avez pas, d'un esprit charitable,
-À Pembrock, en douceur, conté toute la fable ?
-
--*who_madameblinval
-J'ai fait mieux : je prépare une scène d'effet,
-Qui doit être pour lui du plus vif intérêt.
-Mylord est connaisseur ; la belle circonstance
-Pour juger du talent des actrices de France !
-Il voulait repartir, et je l'ai retenu :
-De nous signaler tous le moment est venu,
-Ai-je dit, la victoire est sûre, incontestable ;
-Mais prêtez-nous vous-même une main secourable.
-Je le presse, il s'enflamme et prend trente billets
-Qui, délivrés par lui, porteront l'ordre exprès
-D'applaudir, d'entasser éloge sur éloge,
-Au premier bruit flatteur échappé de sa loge.
-Eh bien ! Qu'en dites-vous ?
-
--*who_belrose
-      Je vous admire.
-
--*who_madameblinval
-      Au moins,
-La nouvelle entrevue aura quelques témoins.
-Vous les figurez-vous, se voyant face à face,
-Pembrock tout effaré, qui crie et qui menace,
-Qui siffle !...
-
--*who_belrose
-      Eh mais ! Victor ?
-
--*who_madameblinval
-      Qu'y faire ? C'est fâcheux ;
-Dans son second ouvrage il sera plus heureux.
-
--*who_belrose
-Je l'ai fait prévenir de se rendre au théâtre.
-Viendra-t-il ?
-
--*who_madameblinval
-      Pourquoi pas ?
-
--*who_belrose
-      Il est opiniâtre ;
-Il va se retrancher dans ses grands sentiments.
-
--*who_madameblinval
-Il boude ? Les auteurs sont comme les amants ;
-Eussions-nous tous les torts que leur fierté nous prête,
-Quand nous leur pardonnons, la paix est bientôt faite.
-Mais, tenez, le voilà ; qu'ai-je dit ?
-
--*who_belrose
-      Oui, ma foi.
-
--*who_madameblinval
-Je ne puis lui parler, je n'ai qu'une heure à moi.
-Je cours à ma toilette.
-
-**** *book_ *id_IV02 *act_IV *date_1820
-
--*who_belrose
-      Oh ! La bonne figure !
-Toutefois cet air sombre est d'assez triste augure.
-
-**** *book_ *id_IV03 *act_IV *date_1820
-
--*who_victor
 Pourquoi m'avoir écrit ? dites, que me veut-on ?
 
--*who_belrose
-Si vous vous en doutiez,vous changeriez de ton.
-L'exorde est un peu brusque.
-
--*who_victor
       Il est ce qu'il doit être.
 J'ai pris ces lieux en haine et rougis d'y paraître.
 
--*who_belrose
-Et cependant ce soir votre ouvrage est donné.
-
--*who_victor
 À ne pas le souffrir je suis déterminé.
 
--*who_belrose
-Comprenez-vous le sens de ce que vous me dites ?
-
--*who_victor
 Encor des pourparlers, des débats, des visites !
 Je me lasse à la fin.
 
--*who_belrose
-      Mais vous touchez au but.
-
--*who_victor
 Non, j'essuierais de vous quelque nouveau rebut,
 Quelque affront.
 
--*who_belrose
-      Eh ! Pour dieu ! Souffrez qu'on vous annonce
-Que...
-
--*who_victor
       J'ai pris mon parti, c'en est fait, j'y renonce.
 
--*who_belrose
-C'est de lui maintenant que l'obstacle viendra.
-Un seul mot !
-
--*who_victor
       C'est en vain.
 
--*who_belrose
-      Ah ! Comme il vous plaira.
-Puisqu'il en est ainsi, monsieur, je me retire.
-
--*who_victor
 Voyons, saurai-je enfin ce que vous voulez dire ?
 
--*who_belrose
-Que vous seriez puni si je ne disais rien !
-Il faut en convenir, le ciel vous veut du bien ;
-Tout le monde à présent sous vos drapeaux s'enrôle,
-Et d'un commun accord redemande son rôle ;
-Et cela, s'il vous plaît, par intérêt pour vous.
-
--*who_victor
 Voilà qui me surprend.
 
--*who_belrose
-      Ainsi nous jouons tous.
-Il faudra seulement décider Floridore.
-
--*who_victor
 Devant lui vous voulez que je m'abaisse encore ?
 
--*who_belrose
-Qui, moi ? Je ne veux rien.
-
--*who_victor
       Et vous avez raison.
 
--*who_belrose
-Tenez ferme, parbleu ! Ne cédez pas.
-
--*who_victor
       Oh ! Non.
 Et comment voulez-vous d'ailleurs qu'on le décide ?
 
--*who_belrose
-Il faudrait l'aborder d'un air doux et timide.
-
--*who_victor
 Bien débuter. Après ?
 
--*who_belrose
-      Vous excuser un peu,
-Et même le flatter sur son goût, sur son jeu.
-
--*who_victor
 Son jeu ! Quand il répète il me met au martyre.
 Son goût ! Mes plus beaux vers sont ceux qu'il veut proscrire.
 Le bourreau !
 
--*who_belrose
-      Lui céder, par le traité de paix,
-Ces vers qui sont fort bons, mais qu'il trouve mauvais.
-
--*who_victor
 Morbleu ! J'entre en fureur !
 
--*who_belrose
-      Contenez votre bile.
-Floridore s'avance avec monsieur Granville.
-Vous pouvez d'un seul mot fixer votre destin ;
-Dois-je aller endosser mon habit de Frontin ?
-Eh bien ! Oui. N'est-ce pas ? Adieu donc, je vous laisse
-Surtout de la douceur.
-
-**** *book_ *id_IV04 *act_IV *date_1820
-
--*who_victor
       Dieu ! Quelle est ma faiblesse !
 À caresser un fat forçons-nous un moment :
 Ma gloire et mon amour, tout mon sort en dépend.
 
-**** *book_ *id_IV05 *act_IV *date_1820
-
--*who_victor
 Est-ce trop présumer de votre complaisance
 Que d'implorer de vous un moment d'audience ?
 
--*who_floridore
-Vous permettez ?
-
--*who_granville
-      Comment !
-
--*who_floridore
-      Veuillez donc vous asseoir,
-Je suis à vous. J'écoute.
-
--*who_victor
       On m'a donné l'espoir
 Qu'oubliant des débats que moi-même j'oublie.
 
--*who_floridore
-De quoi donc s'agit-il ? De votre comédie ?
-Je ne la jouerai pas.
-
--*who_victor
       Observez cependant
 Que les bureaux, Monsieur, s'ouvrent dans un instant.
 
--*who_floridore
-Comment donc, sur l'affiche on n'a pas mis de bande ?
-
--*who_victor
 Non, le public attend.
 
--*who_floridore
-      Que le public attende.
-Je ne la jouerai pas.
-
--*who_victor
       Si.
 
--*who_floridore
-      J'y suis résolu.
-
--*who_victor
 Si je sacrifiais ce qui vous a déplu...
 
--*who_floridore
-Mon rôle, j'en suis sûr, ne fera pas fortune.
-
--*who_victor
 Pourquoi ?
 
--*who_floridore
-      Pour cent raisons.
-
--*who_victor
       Je n'en demande qu'une.
 
--*who_floridore
-Si j'en veux jusqu'au bout détailler les défauts,
-Je ne finirai pas.
-
--*who_victor
       Mais encore.
 
--*who_floridore
-      Il est faux.
-Je prête au ridicule enfin dans votre ouvrage.
-
--*who_victor
 Ce n'est pas vous, Monsieur, mais votre personnage.
 
--*who_floridore
-Tenez, d'un bout à l'autre il le faudra changer.
-
--*who_victor
 Y songez-vous, ô ciel !
 
--*who_floridore
-      C'est à vous d'y songer.
-En tout cas, il ne peut qu'y gagner, ce me semble.
-
--*who_victor
 Valût-il cent fois mieux que deviendra l'ensemble ?
 
--*who_floridore
-Ce n'est pas mon affaire.
-
--*who_victor
       Eh ! C'est la mienne à moi.
 À quel titre, après tout, par quelle étrange loi,
 Usurpant sur mon sort un pouvoir despotique,
@@ -2684,23 +381,6 @@ Est de bénir vos lois, d'adorer nos entraves,
 Et de prendre pour nous en toute humilité
 Les affronts d'un sifflet par vous seul mérité.
 
--*who_floridore
-C'est éloquent : d'honneur, le dépit vous inspire :
-Ce ton pourrait blesser, s'il ne faisait pas rire.
-Vous vous plaignez de nous ; d'où vient ? Le comité
-Reçoit votre grand oeuvre à l'unanimité ;
-Après six ans au plus, par faveur singulière,
-Le comité consent à le mettre en lumière.
-On répète vos vers, et pendant cinq grands mois
-On fatigue pour vous sa mémoire et sa voix.
-Un passage déplaît, je demande, j'exige,
-Dans son intérêt seul, que monsieur le corrige ;
-Monsieur prend feu soudain, c'est un bruit, des éclats.
-On juge toujours mal quand on n'approuve pas,
-Je le sais ; mais pourtant c'est fort mal reconnaître
-Les bontés que pour vous on a laissé paraître.
-
--*who_victor
 Vos bontés ! Secourez ma mémoire en défaut :
 Où sont donc ces bontés que vous prônez si haut ?
 Écouter les auteurs qui vous en semblent dignes,
@@ -2712,25 +392,10 @@ Vous poussez la bonté jusqu'à jouer nos pièces ;
 J'eus tort de l'oublier, et vous avez raison :
 Je suis ingrat, Monsieur, comme vous êtes bon.
 
--*who_floridore
-Tout beau, monsieur l'auteur ! Comment ! Du persiflage !
-Nous saurons vous forcer à changer de langage ;
-Nous verrons qui de nous doit faire ici la loi.
-On ne vous jouera pas.
-
--*who_victor
       Qui l'empêchera ?
 
--*who_floridore
-      Moi.
-
--*who_victor
 Vous !
 
--*who_floridore
-      Moi-même, et je cours...
-
--*who_victor
       Restez, il faut m'entendre.
 À chercher vos mépris m'aurait-on vu descendre,
 Sans cet espoir secret qu'enfin la vérité
@@ -2752,10 +417,6 @@ Signer chez le caissier quand son compte est rendu ;
 Et vivant en seigneurs, de la cour éloignés,
 À remplir de vous seuls un bourg où vous régnez !
 
--*who_floridore
-Monsieur.
-
--*who_victor
       Vous m'entendrez. Oui, par votre indolence
 Le théâtre avili marche à sa décadence.
 Que de vieux manuscrits, qui sont encor nouveaux,
@@ -2782,248 +443,17 @@ Sans espoir de repos, de fortune et d'honneur,
 Que mendier de vous ma gloire et mon bonheur.
 Adieu.
 
--*who_granville
-      Monsieur jouera.
-
--*who_floridore
-      Moi !
-
--*who_victor
       Monsieur !
 
--*who_granville
-      Lui, vous dis-je.
-
--*who_floridore
-Jamais.
-
--*who_victor
       En ma faveur vous feriez ce prodige ?
 Quoi, sans conditions ?
 
--*who_granville
-      La seule que j'y mets,
-C'est de vous assurer si vos acteurs sont prêts.
-Pour monsieur, rien ne presse, il entre au second acte.
-Allez donc, mais sur l'heure, ou bien je me rétracte.
-
--*who_victor
 J'obéis.
 
--*who_granville
-      Touchez là... Mon cher, embrassons-nous.
-
--*who_victor
 Ah ! Monsieur l'inspecteur, j'étais perdu sans vous.
 
-**** *book_ *id_IV06 *act_IV *date_1820
-
--*who_floridore
-Qu'entends-je ? Se peut-il mais il est en délire.
-
--*who_granville
-Non pas.
-
--*who_floridore
-      Monsieur serait...
-
--*who_granville
-      Je n'ai rien à vous dire.
-
--*who_floridore
-Monsieur l'éprouve assez par nos égards pour lui ;
-Près de nous le mérite est le meilleur appui.
-Avant d'être connu vous aviez mon suffrage ;
-L'auteur n'est rien pour moi, je ne vois que l'ouvrage.
-
--*who_granville
-J'en ai la preuve en main.
-
--*who_floridore
-      Que le vôtre m'a plu !
-À peine je l'avais qu'aussitôt je l'ai lu.
-
--*who_granville
-Je rends pleine justice à votre promptitude.
-
--*who_floridore
-De lire tout ainsi j'ai la bonne habitude.
-
--*who_granville
-Quel travail !
-
--*who_floridore
-      Avec moi l'on n'attend pas son tour ;
-Lu, présenté, reçu, le tout dans un seul jour ;
-Et l'on vient m'accuser !
-
--*who_granville
-      C'est pure calomnie.
-
--*who_floridore
-Vous pouvez, d'après moi, juger la compagnie.
-Même goût, même tact, même sincérité,
-Dans ses décisions même esprit d'équité ;
-En vain votre croyance un moment fut séduite ;
-À d'insolents discours j'oppose ma conduite ;
-Et si quelque imposteur nous noircit près de vous,
-À votre manuscrit nous en appelons tous.
-
--*who_granville
-Eh bien ! Qu'il vous réponde.
-
--*who_floridore
-      Oh ciel ! Est-il possible ?
-Je suis sûr d'avoir lu.
-
--*who_granville
-      Mais moi, juge infaillible,
-Je suis encor plus sûr de n'avoir rien écrit.
-Ah ! Ah ! Vous pâlissez devant ce manuscrit !
-Voilà qui vous confond, et qui prouve, j'espère,
-Que vous êtes actif, juste, et surtout sincère.
-
--*who_floridore
-Monsieur...
-
--*who_granville
-      Cher président, j'estime qu'avant peu,
-Vous et vos conseillers, vous allez voir beau jeu.
-
--*who_floridore
-Daignez.
-
--*who_granville
-      Vous êtes pris. De votre république
-Vous avez compromis l'orgueil tragi-comique.
-Ses membres, grâce à vous, vont être bafoués :
-Vous jouez tout le monde, et je vous ai joués.
-
--*who_floridore
-Mais que vous ai-je fait ?
-
--*who_granville
-      Et ce brave jeune homme,
-Qu'ici pour son talent chacun de vous renomme,
-Que chacun persécute !... Il a beau supplier ;
-Comment le traitez-vous ? Comme un mince écolier.
-Vous semblez à plaisir lasser sa patience,
-Vous détruisez d'un mot sa plus chère espérance ;
-Que vous a-t-il fait, lui ? Je prétends le venger.
-
--*who_floridore
-Y songez-vous ? Ô ciel !
-
--*who_granville
-      C'est à vous d'y songer.
-
--*who_floridore
-Vous me perdez, Monsieur.
-
--*who_granville
-      Ce n'est pas mon affaire.
-Vous le disiez tantôt.
-
--*who_floridore
-      Voyons, que puis-je faire ?
-Comment vous désarmer ?
-
--*who_granville
-      Victor vous l'apprendra.
-
--*who_floridore
-Moi, je consentirais... !
-
--*who_granville
-      Tout comme il vous plaira.
-La chose en vaut la peine et j'en verrai l'issue.
-Ah ! Ma pièce vous plaît ! Mais puisqu'elle est reçue,
-Dût la troupe en fureur conjurer contre moi,
-Morbleu ! Vous la jouerez ou vous direz pourquoi.
-
--*who_floridore
-Si je ne puis, Monsieur, vous prouver mon estime
-Qu'en vous sacrifiant un courroux légitime,
-Je reprendrai mon rôle.
-
--*who_granville
-      À la fin, c'est parler.
-
--*who_floridore
-Dans quelques jours.
-
--*who_granville
-      Ce soir.
-
--*who_floridore
-      Vous voulez m'immoler,
-Sans pitié, sans égards.
-
--*who_granville
-      Adieu ; cet opuscule
-Ne vous couvrira pas d'un petit ridicule.
-Je le vais publier, et dans l'avant-propos
-En votre honneur et gloire imprimer quatre mots.
-Et je veux que demain tout Bordeaux se régale
-Des charmantes douceurs de crier au scandale,
-Fasse pleuvoir sur vous cent couplets de chanson,
-Qu'un rire inextinguible éclate à votre nom ;
-Qu'un orchestre inhumain en sifflant vous salue,
-Au théâtre, au foyer, sur le cours, dans la rue,
-Et forme en bruits aigus un chorus d'opéra,
-Dont la fureur des vents jamais n'approchera.
-Pour un indifférent l'aventure est commune ;
-Mais pour un inspecteur c'est un coup de fortune.
-
--*who_floridore
-Ce nom si redouté m'inspire peu d'effroi,
-Monsieur ; par la menace on n'obtient rien de moi.
-Je jouerai, mais pour vous dont l'estime m'est chère,
-Pour un public nombreux qu'avant tout je révère ;
-Enfin pour ce Victor, qui n'est pas sans talent.
-Une tête de feu !... Mais un coeur excellent.
-Je l'ai toujours aimé ; je le vois qui s'avance :
-Adieu, pour le succès j'ai beaucoup d'espérance.
-
-**** *book_ *id_IV07 *act_IV *date_1820
-
--*who_lucile
-Floridore vous quitte ; est-il vrai qu'à vos soins
-Nous devrons le bonheur ?...
-
--*who_granville
-      Je l'espère, du moins :
-Floridore à vos voeux cesse d'être contraire.
-Malheureux ce matin de n'avoir pu vous plaire,
-En termes assez durs j'ai reçu mon congé ;
-Je vous gardais rancune et je me suis vengé.
-
--*who_victor
 Ah ! Ce trait généreux.
 
--*who_granville
-      Dans une loge en face
-En amateur zélé je cours prendre ma place.
-
--*who_estelle
-Mylord est loin d'ici, je ne redoute rien.
-
--*who_belrose
-Mylord est dans sa loge.
-
--*who_madameblinval
-      Allons, tout ira bien.
-Je me sens inspirée.
-
--*who_lucile
-      Et moi je perds courage.
-
--*who_bernard
-Moi, j'ai tous mes moyens et mon jeu sera sage.
-Sept heures vont sonner, dans la salle on attend.
-Est-on prêt ?
-
--*who_victor
       Oui, frappez.
       Dans ce dernier moment
 Je veux... J'ai mille avis à vous donner encore.
@@ -3041,37 +471,15 @@ Je ne vous retiens plus... Voici l'instant fatal.
 Quel silence ! Écoutons... Je crois qu'on entre en scène...
 Je suis devant mon juge ; ah ! Ce n'est pas sans peine !
 
-**** *book_ *id_V01 *act_V *date_1820
-
--*who_lucile
-Au gré de vos désirs je vois tout succéder,
-Et la victoire enfin semble se décider.
-
--*who_victor
 Puisse le dernier acte emporter les suffrages !
 Vous passez mon espoir ; par quels soins, quels hommages,
 Vous payer d'un succès que je ne dois qu'à vous ?
 Non, jamais votre voix n'eut un accent plus doux,
 Jamais la passion ne fut plus naturelle.
 
--*who_lucile
-Notre amour m'inspirait. Victor, je me rappelle
-La scène de l'aveu que vous redoutiez tant :
-J'avais le coeur serré moi-même en l'écoutant ;
-L'orchestre était muet, le parterre en balance.
-Un murmure enchanteur a rompu le silence.
-Je crois l'entendre encor.
-
--*who_victor
       Belrose était troublé :
 Il perdait la mémoire.
 
--*who_lucile
-      Oui, mais je l'ai soufflé.
-Qu'on retient aisément des vers tels que les vôtres !
-Je n'ai lu que mon rôle, et je sais tous les autres.
-
--*who_victor
 Que n'êtes-vous mon juge ! Est-il vrai ? Quoi ! Demain,
 Ce soir, dans un moment, j'obtiendrais votre main !
 Je devrais tout l'éclat, le bonheur de ma vie,
@@ -3081,98 +489,30 @@ Formés par deux amants sous cet auspice heureux !
 Mais, Lucile, où m'emporte une joie insensée !
 Ma sentence peut-être est déjà prononcée.
 
--*who_lucile
-Ne tremblez point ; que sert de vous troubler ainsi ?
-Imitez-moi.
-
--*who_victor
       Je crois que vous tremblez aussi.
 Allons, point de faiblesse, et d'une âme assurée
 Défions.
 
-**** *book_ *id_V02 *act_V *date_1820
-
--*who_blinval
-      Floridore a manqué son entrée.
-
--*who_victor
 Je suis perdu, trahi ; c'est une indignité !
 Le public...
 
--*who_blinval
-      Le public ne s'en est pas douté ;
-Mais moi, qui connaissais...
-
--*who_victor
       Que le ciel vous confonde !
 
--*who_lucile
-Il m'a fait une peur !
-
--*who_blinval
-      Voilà pourtant le monde !
-Soyez officieux, rendez service aux gens ;
-On en est bien payé !
-
--*who_lucile
-      Vos avis obligeants
-Ne seront pas perdus. J'entre après Floridore ;
-De peur qu'un accident ne vous ramène encore,
-Je cours jouer ma scène, et j'espère, au retour,
-Par un tout autre avis l'obliger à mon tour.
-
-**** *book_ *id_V03 *act_V *date_1820
-
--*who_blinval
-Je le voudrais aussi ; mais...
-
--*who_victor
       Quoi ? Soyez sincère.
 Hélas ! Je le vois bien, vous ne l'espérez guère.
 
--*who_blinval
-Je suis dans l'embarras. Je crains de vous fâcher.
-
--*who_victor
 Qu'est-il donc arrivé ? C'est trop me le cacher.
 
--*who_blinval
-Ah çà, du coeur !
-
--*who_victor
       Un bruit de funeste présage
 Aurait-il ?
 
--*who_blinval
-      Jusqu'ici rien n'annonce un orage.
-
--*who_victor
 Ah !
 
--*who_blinval
-      J'entends éclater des bravos imprévus
-À mille traits d'esprits que je n'avais pas vus ;
-Mais...
-
--*who_victor
       Toujours mais. Voyons, parlez avec franchise ;
 Dites la vérité...
 
--*who_blinval
-      Que voulez-vous qu'on dise ?
-Chacun a son avis.
-
--*who_victor
       Et le vôtre en est un.
 
--*who_blinval
-Vous écrivez, mon cher, pour les gens du commun.
-Des moeurs qu'on voit partout. Rien n'y sent son grand monde ;
-Dans votre pièce enfin la bourgeoisie abonde.
-Pas un Comte, un Marquis, pas un petit Baron,
-Pour ennoblir un peu...
-
--*who_victor
       Chrysale, Ariste, Orgon,
 Pour être des bourgeois, sont-ils d'un bas comique ?
 Il semble, en écoutant cette absurde critique,
@@ -3181,55 +521,22 @@ De rire d'un bon mot, s'il n'est d'un Duc et Pair.
 Intérêt, vérité, naturel sans bassesse,
 Voilà pour le public les titres de noblesse.
 
--*who_blinval
-Vous vous fâchez !
-
--*who_victor
       Non pas !
 
--*who_blinval
-      Est-ce ma faute, à moi,
-Si votre dénouement m'inspire de l'effroi ?
-
--*who_victor
 Mon dénouement, ô ciel !
 
--*who_blinval
-      Je souhaite qu'il passe.
-
--*who_victor
 En quoi vous déplaît-il ?
 
--*who_blinval
-      C'est délicat...
-
--*who_victor
       De grâce,
 Est-il trop lent, trop froid, ou bizarre, ou brusqué ?
 Eh ! parlez donc !
 
--*who_blinval
-      Il est... Il est... Il m'a choqué.
-
--*who_victor
 La raison ?
 
--*who_blinval
-      La raison ! Je viens de vous la dire.
-
--*who_victor
 Je n'y tiens plus !
 
--*who_blinval
-      Paix, paix, allons, je me retire.
-Vous vous fâchez.
-
--*who_victor
       Bonsoir.
 
-**** *book_ *id_V04 *act_V *date_1820
-
--*who_victor
       Un éloge est charmant ;
 Il enivre un auteur qui l'obtient justement ;
 Son talent s'en accroît, tout lui semble possible.
@@ -3255,340 +562,801 @@ Pousse pour ton malheur dans ce fatal chemin,
 Qui crois le voir semé de lauriers et de roses,
 Viens, contemple mon sort, et poursuis si tu l'oses.
 
-**** *book_ *id_V05 *act_V *date_1820
-
--*who_pembrock
-Je veux entrer, faquins, et c'est trop m'arrêter :
-Je suis Mylord Pembrock, faut-il le répéter ?
-
--*who_victor
 Encore un importun.
 
--*who_pembrock
-      Ah ! Je vois un artiste !
-Apprenez.
-
--*who_victor
       Pardon, mais...
 
--*who_pembrock
-      En vain on me résiste ;
-Mon bras s'est exercé sur vos laquais dorés :
-J'ai forcé la consigne et vous m'écouterez.
-Voyez la perfidie !...
-
--*who_victor
       Eh ! Chacun son affaire.
 
--*who_pembrock
-C'est elle, j'en suis sûr !
-
--*who_victor
       Qui vous dit le contraire ?
 
--*who_pembrock
-Ah ! Vous convenez donc enfin qu'on m'a trompé ?
-Achevez ! Le seul mot qui vous est échappé
-Prouve que rien ici n'est pour vous un mystère :
-Vous parlerez.
-
--*who_victor
       Morbleu !
 
--*who_pembrock
-      Vous ne pouvez vous taire.
-
--*who_victor
 Est-on plus malheureux ?
 
--*who_pembrock
-      Hem ! Quelle trahison !
-
--*who_victor
 C'est être assassiné d'une horrible façon !
 
--*who_pembrock
-Horrible ! Ah ! Oui, monsieur, horrible ! Abominable !
-
--*who_victor
 Voulez-vous me laisser, fâcheux impitoyable ?
 
--*who_pembrock
-Nommez-moi la suivante.
-
--*who_victor
       Estelle.
 
--*who_pembrock
-      C'est son nom !
-Elle est actrice ?
-
--*who_victor
       Eh ! Oui, que serait-elle donc ?
 
--*who_pembrock
-Figurez-vous, Monsieur, que l'oeil fixé sur elle,
-Je crus pendant longtemps ma lorgnette infidèle :
-Mais au quatrième acte où, pour tromper Frontin,
-L'ingrate dit : Je t'aime, et lui promet sa main,
-J'ai reconnu sa voix, ce ton fait pour séduire,
-Cet accent de l'amour...
-
--*who_victor
       La scène a donc fait rire ?
 
--*who_pembrock
-Pas moi, je vous le jure ; indigné, furieux,
-J'ai déserté ma loge et j'accours en ces lieux.
-Eut-elle d'Apollon tous les dons en partage,
-Puis-je lui pardonner un si sanglant outrage ?
-Je veux, je veux la voir ; guidez-moi.
-
--*who_victor
       Pas du tout !
 Vous troubleriez son jeu.
 
--*who_pembrock
-      Je la suivrai partout,
-En criant que l'auteur de la pièce qu'on donne...
-
--*who_victor
 Eh bien ?
 
--*who_pembrock
-      En fausseté ne le cède à personne.
-
--*who_victor
 Ah ! Pour le coup... !
 
--*who_pembrock
-      Qu'il faut dans les prisons du roi
-Lui faire apprendre un peu...
-
--*who_victor
       Mais cet auteur, c'est moi.
 
--*who_pembrock
-Vous ?
-
--*who_victor
       Moi, qui n'entends rien à vos mésaventures,
 Et veux avoir raison, Monsieur, de vos injures.
 
--*who_pembrock
-Mais c'est une caverne, et jamais les enfers
-N'ont conçu...
-
-**** *book_ *id_V06 *act_V *date_1820
-
--*who_estelle
-      Venez donc, sur mes trois derniers vers
-Je veux vous consulter...
-
--*who_pembrock
-      Ah ! Vous voilà, traîtresse !
-
--*who_estelle
-C'est Mylord, je me meurs !
-
--*who_victor
       Elle tombe en faiblesse !
 Ciel ! Et mon dénouement !
 
--*who_pembrock
-      Manèges superflus !
-
--*who_victor
 À quoi tient un succès ?
 
--*who_pembrock
-      Vous ne m'y prendrez plus.
-
--*who_estelle
-Si vous saviez, Mylord...
-
--*who_victor
       De grâce, après la pièce...
 
--*who_pembrock
-Malgré tous vos détours, je vous connais, Princesse.
-
--*who_estelle
-Eh bien ! tout est rompu, mais je ne prétends pas
-Souffrir de vos fureurs les scandaleux éclats.
-
--*who_pembrock
-Quelle audace ! ah ! monsieur, l'auriez-vous bien pu croire ?
-
--*who_victor
 Elle est capable au moins d'en perdre la mémoire.
 
--*who_pembrock
-Le grand mal !
-
--*who_victor
       Tout conspire à me désespérer.
 
--*who_estelle
-Voilà bien, n'est-ce pas, comme je dois entrer ?
-
--*who_victor
 À merveille !
 
--*who_pembrock
-      Avant tout, perfide, il faut me rendre.
-
--*who_estelle
-Vos lettres ? oui, Mylord.
-
--*who_pembrock
-      Non pas.
-
--*who_estelle
-      « Veuillez l'entendre
-Ce fils, de vos vieux jours l'espérance et l'appui ;
-Il est devant vos yeux, il m'écoute, et c'est lui. »
-
--*who_victor
 Bien ! Bien !
 
--*who_pembrock
-      C'est une horreur, mais ma vengeance est prête.
-
--*who_victor
 Et dans votre récit.
 
--*who_estelle
-Aucun vers ne m'arrête.
-Je cours à ma réplique.
-
-**** *book_ *id_V07 *act_V *date_1820
-
--*who_victor
       Où voulez-vous aller ?
 
--*who_pembrock
-D'un concert de sifflets je veux la régaler.
-
--*who_victor
 Juste ciel ! Arrêtez. Demain, si bon vous semble...
 
--*who_pembrock
-Son récit finira par un morceau d'ensemble :
-J'ai trente bons amis.
-
--*who_victor
       Calmez votre courroux.
 
--*who_pembrock
-J'y cours.
-
--*who_victor
       Vous n'irez pas.
 
--*who_pembrock
-      Mais quel homme êtes-vous ?
-Quand je prétends rester, vous voulez que je sorte,
-Et quand je veux sortir, vous me fermez la porte !
-
--*who_victor
 Ma pièce...
 
--*who_pembrock
-      C'est en vain.
-
--*who_victor
       Craignez mon désespoir.
 
--*who_pembrock
-Fût-il cent fois plus grand, je sifflerai ce soir.
-
--*who_victor
 Je ne me connais plus...
 
--*who_pembrock
-      Laissez-moi.
-
--*who_victor
       Par Saint-George,
 Si vous faites un pas.
 
--*who_pembrock
-      Il me prend à la gorge !
-Au meurtre ! À l'assassin !
-
-**** *book_ *id_V08 *act_V *date_1820
-
--*who_lucile
-      Succès, succès complet !
-
--*who_pembrock
-Ouf ! s'il était tombé, le bourreau m'étranglait.
-
--*who_victor
 Mon coeur suffit à peine au transport de ma joie.
 
--*who_belrose
-Messieurs, je vois un Grec dans les remparts de Troie.
+Mais...
 
--*who_pembrock
-Adieu, foyer maudit, et vous, acteurs, auteurs,
-Vous tous, qui vous couvrez de masques imposteurs ;
-Adieu, je vais chercher quelque cité déserte,
-Où jamais le démon n'amène pour ma perte
-Fille ou veuve obstinée à me faire enrager,
-Ni d'auteur furieux qui me veuille égorger.
+Non, Monsieur, mon bonheur ne doit nuire à personne.
 
--*who_belrose
-Fussiez-vous par-delà les colonnes d'Alcide,
-Vous y pourrez encor trouver une perfide.
+      Et Bernard ?
 
-**** *book_ *id_V09 *act_V *date_1820
+      Tant de bonheur m'oppresse.
 
--*who_belrose
-C'était un bon parti ; mais, à défaut d'un Lord,
-Un garçon très honnête et que j'estime fort.;;
+Monsieur !
 
--*who_estelle
-Vous en dites du bien, à coup sûr, c'est vous-même.
+      Eh ! De grâce, un moment.
 
--*who_belrose
-Si je me proposais.
 
--*who_estelle
-      Mon malheur est extrême ;
-Mais il faudrait, je pense, être en horreur aux dieux,
-Pour choisir aussi mal, ou ne pas trouver mieux.
-Vous, Messieurs, pour Bordeaux cherchez une soubrette !
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridore
 
--*who_belrose
-Les gens de Mylady !... Que Mylady permette.
+Deux vestes à fleurs d'or et deux habits complets.
+Vous m'entendez, allez. Voici vos dix billets :
+Mais faites, s'il vous plaît, mon affaire en personne.
+Toi, prépare, Laurent, les vers et la couronne
+Que le public charmé doit jeter de ta main
+À l'acteur de Paris qui paraîtra demain.
+Sortez.
 
-**** *book_ *id_V10 *act_V *date_1820
+      Tout Bordeaux veut m'avoir à dîner ;
+Je n'ai point dans un mois un seul jour à donner.
+Mais demain je suis libre.
 
--*who_belrose
-Elle enrage !
+On ne peut pas douter qu'elle ne soit fort belle.
 
--*who_floridore
+      Voici le manuscrit ?
+
+D'avance je le crois.
+
+Je vous les donnerai.
+
+      Je ne puis vous accorder ce point :
+Je donne mes avis et ne les écris point.
+
+      À propos, je n'accuse personne ;
+Mais depuis un bon mois qu'elle a quitté Bayonne,
+Estelle m'a prié d'assembler le conseil.
+Nous manquons trois sur cinq ; qu'un scandale pareil
+N'ait pas lieu dans une heure ; adieu. J'ai l'honneur d'être.
+
+La séance est ouverte.
+
+Votre intérêt commun n'emprunte pas ma voix
+Pour tracer le tableau d'une caisse aux abois,
+Ou, se rangeant aux voeux d'un public débonnaire,
+Presser de nos travaux la lenteur ordinaire.
+Il est bon dans les arts d'avancer pas à pas ;
+Le public est plaisant de ne le sentir pas !
+Il s'agit aujourd'hui d'un dîner, d'une fête,
+Où veut nous réunir un monsieur fort honnête,
+Un ami de Belrose, opulent, quoique auteur ;
+Le fait ne s'est pas vu de mémoire d'acteur.
+Je n'ose régler seul ce qu'il convient de faire,
+Et soumets au conseil cette importante affaire.
+
+      Que veut-on ?
+
+      Un moment, qu'il attende :
+Nous sommes occupés d'objets très sérieux.
+
+      Il suffit, et Blinval
+En fera son rapport au conseil général.
+Que répondre à Florbel, messieurs, sur sa lecture ?
+De notre négligence on prétend qu'il murmure.
+Vous étiez si pressés de partit l'autre fois
+Qu'on n'a pas eu le temps de recueillir les voix.
+
+Lisez.
+
+Savez-vous qu'à son âge il juge encor très bien !
+
+C'est nous persécuter d'une étrange manière.
+Qu'il nous laisse, on ne peut terminer une affaire.
+
+      Messieurs, respect aux droits :
+Qu'on sache écrire ou non, l'on a toujours sa voix.
+
+Aussi répondrons-nous qu'il est fort bien écrit...
+Des détails très heureux... infiniment d'esprit...
+De l'observation... des moeurs...
+
+      Eh ! Mon Dieu ! Patience.
+Mais.
+
+De ces restrictions qui n'offensent jamais.
+Un dénouEment brusqué... quelques réminiscences...
+L'entente de la scène... et puis les circonstances...
+C'est un jeune homme, enfin, qu'il faut encourager.
+
+      Entrez.
+
+      Vous voyez en personne
+L'auteur de certains vers dont la beauté m'étonne.
+
+      J'ai lu votre acte, et j'en suis enchanté.
+
+      J'aime votre Valère...
+Ah ! c'est vraiment très bien !
+
+De très bons... je pourrais les citer de travers :
+J'ai lu rapidement.
+
+Mon Dieu ! Nous n'attendions que votre pièce et vous.
+
+Partons.
+
+      Épargnez-vous des frais de rhétorique ;
+Cheveux gris dans les vers me semble prosaïque ;
+Cheveux gris déplairait à tous les bons esprits ;
+Et je ne dirai pas, Monsieur, mes cheveux gris.
+
+Vous permettez ?
+
+      Veuillez donc vous asseoir,
+Je suis à vous. J'écoute.
+
+De quoi donc s'agit-il ? De votre comédie ?
+Je ne la jouerai pas.
+
+Comment donc, sur l'affiche on n'a pas mis de bande ?
+
+      Que le public attende.
+Je ne la jouerai pas.
+
+      J'y suis résolu.
+
+Mon rôle, j'en suis sûr, ne fera pas fortune.
+
+      Pour cent raisons.
+
+Si j'en veux jusqu'au bout détailler les défauts,
+Je ne finirai pas.
+
+      Il est faux.
+Je prête au ridicule enfin dans votre ouvrage.
+
+Tenez, d'un bout à l'autre il le faudra changer.
+
+      C'est à vous d'y songer.
+En tout cas, il ne peut qu'y gagner, ce me semble.
+
+Ce n'est pas mon affaire.
+
+C'est éloquent : d'honneur, le dépit vous inspire :
+Ce ton pourrait blesser, s'il ne faisait pas rire.
+Vous vous plaignez de nous ; d'où vient ? Le comité
+Reçoit votre grand oeuvre à l'unanimité ;
+Après six ans au plus, par faveur singulière,
+Le comité consent à le mettre en lumière.
+On répète vos vers, et pendant cinq grands mois
+On fatigue pour vous sa mémoire et sa voix.
+Un passage déplaît, je demande, j'exige,
+Dans son intérêt seul, que monsieur le corrige ;
+Monsieur prend feu soudain, c'est un bruit, des éclats.
+On juge toujours mal quand on n'approuve pas,
+Je le sais ; mais pourtant c'est fort mal reconnaître
+Les bontés que pour vous on a laissé paraître.
+
+Tout beau, monsieur l'auteur ! Comment ! Du persiflage !
+Nous saurons vous forcer à changer de langage ;
+Nous verrons qui de nous doit faire ici la loi.
+On ne vous jouera pas.
+
+      Moi.
+
+      Moi-même, et je cours...
+
+Monsieur.
+
+      Moi !
+
+Jamais.
+
+Qu'entends-je ? Se peut-il mais il est en délire.
+
+      Monsieur serait...
+
+Monsieur l'éprouve assez par nos égards pour lui ;
+Près de nous le mérite est le meilleur appui.
+Avant d'être connu vous aviez mon suffrage ;
+L'auteur n'est rien pour moi, je ne vois que l'ouvrage.
+
+      Que le vôtre m'a plu !
+À peine je l'avais qu'aussitôt je l'ai lu.
+
+De lire tout ainsi j'ai la bonne habitude.
+
+      Avec moi l'on n'attend pas son tour ;
+Lu, présenté, reçu, le tout dans un seul jour ;
+Et l'on vient m'accuser !
+
+Vous pouvez, d'après moi, juger la compagnie.
+Même goût, même tact, même sincérité,
+Dans ses décisions même esprit d'équité ;
+En vain votre croyance un moment fut séduite ;
+À d'insolents discours j'oppose ma conduite ;
+Et si quelque imposteur nous noircit près de vous,
+À votre manuscrit nous en appelons tous.
+
+      Oh ciel ! Est-il possible ?
+Je suis sûr d'avoir lu.
+
+Monsieur...
+
+Daignez.
+
+Mais que vous ai-je fait ?
+
+Y songez-vous ? Ô ciel !
+
+Vous me perdez, Monsieur.
+
+      Voyons, que puis-je faire ?
+Comment vous désarmer ?
+
+Moi, je consentirais... !
+
+Si je ne puis, Monsieur, vous prouver mon estime
+Qu'en vous sacrifiant un courroux légitime,
+Je reprendrai mon rôle.
+
+Dans quelques jours.
+
+      Vous voulez m'immoler,
+Sans pitié, sans égards.
+
+Ce nom si redouté m'inspire peu d'effroi,
+Monsieur ; par la menace on n'obtient rien de moi.
+Je jouerai, mais pour vous dont l'estime m'est chère,
+Pour un public nombreux qu'avant tout je révère ;
+Enfin pour ce Victor, qui n'est pas sans talent.
+Une tête de feu !... Mais un coeur excellent.
+Je l'ai toujours aimé ; je le vois qui s'avance :
+Adieu, pour le succès j'ai beaucoup d'espérance.
+
       Il nous reste à vous féliciter ;
 Présentez une pièce, on va la répéter.
 
--*who_victor
-Mais...
-
--*who_floridore
       Le tour de faveur, c'est à vous qu'on le donne.
 
--*who_victor
-Non, Monsieur, mon bonheur ne doit nuire à personne.
+Monsieur est inspecteur ?
 
--*who_lucile
-Bon Victor !
+Que n'ai-je su plus tôt !
 
--*who_victor
-      Et Bernard ?
 
--*who_belrose
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belrose
+
+Lebrun, pour un artiste, est un nom trop commun ;
+Je m'appelle Belrose.
+
+      Dis ma vocation.
+
+En nous parlant, vois-tu, le mot propre est artiste.
+
+Tu te feras chasser avec ignominie ;
+La troupe ! Eh ! D'où viens-tu ? Dis donc la compagnie.
+
+Quel est ce mot terrible ?
+
+C'est vrai : Paris vers nous détache un inspecteur
+Qui doit porter dans l'ombre un oeil observateur,
+Et, pour venger les droits de l'art en décadence,
+Foudroyer nos talents dans sa correspondance.
+Serais-tu par hasard ?
+
+      Je le revois,
+Cet excellent ami ! Va, je pensais à toi :
+En lisant ton billet j'ai pleuré de tendresse.
+
+      J'approuve ton adresse.
+Je puis te découvrir d'effroyables abus,
+Si tu veux à Paris protéger mes dégâts.
+
+      Ah ! Qu'à cela ne tienne.
+
+Tous les emplois sont nuls, hors celui des valets.
+
+      J'ose dire avec quelque succès.
+Nos affaires vont mal, parmi nous, comme à Rome ;
+Alors pour dictateur on choisit un grand homme,
+Et Floridore élu, dans ce besoin urgent,
+Est chef d'un comité qu'on nomme dirigeant.
+De ce conseil des Cinq ton serviteur est membre,
+Et gouverne l'État d'avril jusqu'en septembre.
+Floridore a du sens, des lumières, du goût :
+Il a tout, il sait tout, il se vante de tout.
+Fièrement retranché dans sa froide importance,
+Il vous parle toujours à dix pieds de distance,
+Arrange son maintien, calcule un geste, un mot :
+Voilà son beau côté ; du reste, c'est un sot.
+
+      Oh ! Pour madame Estelle.
+
+      La chose est naturelle ;
+Elle obtint par faveur un congé de deux mois,
+Qu'un arrêt du conseil prorogea jusqu'à trois.
+Elle rentre ce soir : soubrette du théâtre,
+Elle aspire aux bravos du parterre idolâtre.
+C'est peu : vive en intrigue et coquette à l'excès,
+Elle aime tous les arts, poursuit tous les succès ,
+Protège les auteurs, arrange les querelles,
+Rend visite aux journaux pour les pièces nouvelles.
+Dans ses brusques écarts désolant vingt rivaux,
+Elle cherche un époux et par monts et par vaux.
+Son automne s'approche, et Lisette a la rage
+De couvrir d'un contrat les péchés du bel âge.
+
+      Plus d'un hymen fut par elle ébauché ;
+Mais pour un oeil de femme est-il rien de caché ?
+Une dame Blinval, notre grande coquette,
+Déjoue incessamment les projets de Lisette,
+Et donne aux trahisons un tour original
+Qu'on n'a pas pu prévoir dans le code pénal.
+Son esprit inventif par instinct se fatigue
+À rêver aux moyens d'éventer une intrigue.
+Elle épousa Blinval à dix-sept ans au plus.
+Il était jeune alors ; ô regrets superflus !
+Ce jeune et beau Rodrigue est aujourd'hui don Diègue :
+Aux honneurs du soufflet son âge le relègue.
+Ces tranquilles époux, d'un commun sentiment,
+En se voyant toujours, vivent séparément.
+Ils ne se parlent plus depuis leur mariage ;
+Aussi dit-on partout qu'ils font très bon ménage.
+
+      Moi, qui suis le meilleur,
+On me trouve brouillon et quelque peu railleur.
+
+      C'est un homme fort doux ;
+Il est du chef d'emploi la troupe auxiliaire,
+Dans Racine Eurybate, Ergaste dans Molière.
+De la location il porte le fardeau
+Et frappe les trois coups au lever du rideau.
+
+Oh ! oh ! c'est un sujet rare, excellent, parfait.
+
+      Prodige inouï dont je suis stupéfait.
+Lucile a de l'esprit, un talent qu'on admire,
+De la beauté, vingt ans, et pas de cachemire.
+
+      C'est à confondre !
+
+Notre Agnès a l'honneur de vous intéresser ?
+
+      Tant pis.
+
+      Tu me fais peine.
+
+      C'est très fâcheux.
+
+      La chose est certaine.
+
+      Elle aime un auteur.
+
+C'est, dit-on, de l'aveu de son tuteur Bernard.
+
+      C'est Blinval. La chronique publie
+Qu'il a fait à Paris un début malheureux.
+
+      C'est un esprit haineux.
+
+      Mannequin politique,
+Prôneur très roturier de la noblesse antique :
+Les nobles, sous Pépin, lui sont assez connus ;
+À dater du roi Jean, rien que des parvenus.
+Quand on reprit Mérope, il sentit quelque honte
+De prêter son visage au soldat Polyphonte,
+Et tremblait d'avoir dit d'un air séditieux :
+« Qui sert bien son pays n'a pas besoin d'aïeux. »
+
+Salut au roi des rois : comment vous portez-vous ?
+
+      Moi, c'est amitié pure ;
+Je voudrais m'assurer de sa mésaventure.
+
+      Il a l'air sombre, on l'aura bafoué.
+Paris est-il content ? Avons-nous bien joué ?
+
+Quoi ! De l'opinion vous seriez la victime ?
+
+      Ce bon Blinval ! ah !j'en suis désolé.
+
+Et qu'a fait le public ?
+
+Opinion, parbleu !
+
+Revenez sur la terre.
+
+      Du conseil doyen et secrétaire,
+Pour vos yeux exercés il n'est point de mystère.
+Donnez-nous sur Lucile une explication.
+Elle aime ce Victor ?
+
+      Le coeur de nos déesses
+N'est pas inaccessible aux humaines faiblesses.
+
+C'est une comédie en cinq actes.
+
+L'intrigue est assez forte et la pièce a du fonds ;
+Mais c'est bien gai.
+
+      Tant pis !
+
+Mon cher, au goût du jour nous devons nous soumettre
+Et le siècle en riant croirait se compromettre,
+
+Tu vas citer Regnard et ton ami Molière ;
+De nos jours la morale est beaucoup plus sévère.
+
+Oh ! Quand la politique en discutant l'inspire,
+Un homme en dit toujours plus qu'il n'en voulait dire.
+
+      Oui.
+
+Réfléchissons un peu sur ce point important.
+Ce titre éveillera plus d'une jalousie ;
+Va, crois-moi, sois auteur.
+
+      Fantaisie !
+Toi, débutant, chacun te suit d'un oeil d'effroi ;
+Auteur, aucun de nous ne prendra garde à toi.
+Le manuscrit te manque. Ah ! prends.
+
+      Prends, te dis-je.
+
+      Allons, prends, je l'exige.
+Il te faut un ruban... celui de Figaro,
+Tiens... la rosette... bon.
+
+      Eh ! Sois sans crainte aucune ;
+J'en reçois vingt par mois et je n'en lis pas une.
+Attention ! J'entends notre jeune premier ;
+Son asthme le trahit du bas de l'escalier.
+
+      Non, pardieu, je te jure ;
+Mais c'est un amoureux de jeunesse un peu mûre.
+
+      Souffrez, mon cher, qu'ici je vous présente
+Un de mes bons amis que la gloire tourmente,
+Un homme de talent qui fait des vers moraux.
+Docteur en droit romain et maître ès-jeux floraux,
+Il a dans un écrit commenté les trois codes,
+⁎⁎⁎⁎⁎⁎⁎⁎ Journal des modes
+	
+Et lance des extraits dans le Journal des Modes.
+Génie universel ! Il m'a dit, ce matin,
+Qu'il veut nous réunir dans un pompeux festin.
+Il n'ose l'avouer, mais d'avance il s'honore
+De posséder chez lui le brillant Floridore.
+
+      Ô faveur sans seconde !
+Hem !... Comme je te sers !
+
+      C'est conclu pour demain.
+Il invite en auteur et sa pièce à la main.
+
+      Quelle verve ! Et comme c'est écrit !
+
+      Vous y verrez un jeune homme, un Valère,
+Vingt-cinq ou vingt-six ans ; ce rôle doit vous plaire.
+
+      Donnez-nous vos avis.
+
+      À la lettre ils seront tous suivis.
+
+      La feuille est assez large :
+Faites-nous le plaisir de les écrire en marge.
+
+Et pour cause.
+
+Suis-je si criminel de rire à ses dépens ?
+
+      Allons, je me repens.
+Il ne te lira pas, mon Dieu ! Sois donc tranquille.
+
+J'ai fait très prudemment par deux bonnes raisons :
+Tu nous observes tous et nous nous amusons.
+Le champagne éclaircit de terribles mystères ;
+J'invite de ta part tous nos sociétaires.
+
+      Nous serons les deux amphitryons :
+Tu feras les frais, moi les invitations. c
+Sois dans une heure ici. Comme un auteur que j'aime,
+Je veux au comité te présenter moi-même.
+L'auteur chez qui l'on dîne est sûr d'un beau succès ;
+Qui dîne avec son juge a gagné son procès :
+Tout s'arrange en dînant dans le siècle où nous sommes,
+Et c'est par les dîners qu'on gouverne les hommes.
+
+      J'étais sûr de vous trouver ensemble.
+Ici, dans un instant, le comité s'assemble.
+
+      Vos affaires vont mal.
+La pièce est aux arrêts chez le censeur royal.
+
+J'ai, ma foi, très bien fait de les congédier.
+Une lettre perdue au pied d'une coulisse !
+Ce doit être du beau... Si de quelque malice...
+Ah ! Madame Blinval !... Son démon familier,
+Pour désoler quelqu'un, semble me l'envoyer.
+
+Accourez, du scandale ! Une épître amoureuse.
+
+      L'adresse manque ; oh ! Ma main scrupuleuse
+Ne se permettrait pas de briser un cachet...
+
+« Je me soumets, belle veuve ; je m'imposerai huit jours d'une retraite austère. Huit jours passés sans vous voir seront pour moi un siècle de souffrance ; mais, après ce délai, nul obstacle ne doit retarder notre mariage et mon bonheur. Permettez qu'un cachemire rouge et un brillant que j'ai rapportés des Grandes-Indes accompagnent ma lettre. Aux termes où nous en sommes, vous ne pouvez refuser ces bagatelles, qui sont les premiers présents de noce de votre tendre amant et futur époux.
+« LORD PEMBROCK. »
+      Découvrez-vous celle de nos sultanes
+Où peuvent s'adresser ces douceurs anglicanes ?
+
+      Vraiment ?
+
+Mais.
+
+Voilà bien le souhait d'une honnête personne !
+
+      Oh ! Que vous êtes bonne !
+
+Bravo ! Que la vengeance est douce aux belles âmes !
+C'est le plaisir des dieux et le bonheur des femmes.
+Sommes-nous bien certains qu'Estelle soit l'objet... ?
+
+Tiens ! Blinval ! C'est charmant !
+
+Bien vu. Retranchons-nous dans notre dignité,
+Et couvrons nos projets d'un air de comité.
+
+      Et le brillant.
+
+Sans livrer le projet à la discussion,
+Je crois qu'il doit passer par acclamation.
+
+Pour un sourd.
+
+Pour la réception j'ai donné mon scrutin.
+
+Ce scrutin compte-t-il ?
+
+      Ma foi, c'est grand dommage ;
+Je trouvais du bon, moi, dans ce mauvais ouvrage !
+
+      En conséquence
+Nous refusons la pièce.
+
+      C'est le noble étranger
+Qui nous traite demain.
+
+Par exemple, c'est fort !
+
+      Bravo ! Comme il s'enferre !
+
+      Mais, moi, je me rappelle
+Cette tirade... Eh ! Oui.
+
+      L'ouvrage est excellent !
+
+      Eh bien ?
+
+Ce pauvre Floridore ! Ah ! Je m'en veux, c'est mal.
+Une fois en faveur au Théâtre Royal,
+Je prétends le servir en ami de collège.
+Il est assez mauvais pour que je le protège.
+Allons les retrouver.
+
+      Qu'est-ce ?
+
+Les noms des amateurs par ordre étaient inscrits ;
+Le sien ?
+
+      Pembrock !ô providence !
+La belle occasion de les mettre en présence !
+Pour Estelle et pour lui l'entretien sera doux,
+Et c'est, avant la noce, un plaisant rendez-vous !
+Mylord sans le savoir entrera dans mes vues ;
+Courons le voir. Vivat ! Ce soir je vais aux nues ;
+Mes débuts dans un mois, demain pompeux festin,
+Aujourd'hui grand scandale ! Allons, saute, Frontin !
+
+Tiens, c'est toi ! Tu vas rire.
+
+      C'est charmant.
+Tu vas bien t'amuser. Une veuve, un amant.
+
+Non, non,c'est une histoire.
+
+Chagriner, chagriner ! Quel mauvais caractère !
+On ne rirait de rien. Mylord viendra, j'espère,
+Estelle aussi. Faut-il me mêler aux débats ?
+Belrose, mon ami, ne vous exposez pas :
+Une femme en colère est toujours respectable.
+Des orages du coeur je me défie en diable ;
+On épargne l'amant ; c'est pour les indiscrets
+Que la grêle est à craindre, et qu'il pleut des soufflets.
+
+Entrez, Mylord, entrez, c'est par ici.
+
+      Attendez un moment,
+Et vous serez surpris bien agréablement.
+
+C'est trop d'honneur, Mylord, et vous êtes bien bon.
+Mais que peut faire Estelle ? Oh ! je la vois : pardon.
+
+Je voulais avec vous me concerter d'avance,
+Et je vous attendais pour la reconnaissance.
+
+      Ah mon Dieu ! quoi, vraiment ?
+Que je suis donc fâché. ! c'est bien innocemment.
+Mais je crains de gêner un si doux tête-à-tête.
+Il faut que tout le monde ait sa part de la fête.
+Courons les avertir.
+
+Dieu ! Quels flots d'amateurs ! Quel bruit ! Quelle recette !
+Si le spectacle tient, la chambrée est complète.
+Notre affiche sans bande étale à tous les yeux
+De l'ouvrage nouveau le titre radieux.
+Les bureaux vont s'ouvrir, et nos braves cohortes
+Dans leur camp retranché se rangent près des portes.
+Vous jouez, m'a-t-on dit ?
+
+Quoi ! Ce seigneur anglais vous a rendu visite ?
+
+Pour l'intérêt d'autrui son ardeur est extrême ;
+Chez moi, comme chez vous, il s'est rendu lui-même.
+Pour trouver Floridore il m'a quitté trop tard ;
+Mais il a vu Lucile et converti Bernard.
+Il connaît donc Victor ?
+
+      Comment ! Il intrigue,
+À courir tout Bordeaux par plaisir se fatigue,
+Il perd auprès de nous ses discours et ses pas,
+Pour un auteur sans nom et qu'il ne connaît pas !
+Quel saint amour de l'art, quel démon littéraire
+Tourmente, à nos dépens, cet honnête insulaire ?
+
+      Vraiment ?
+
+Voyez-vous !... Mais alors je ne puis concevoir
+Que cette noble veuve ose jouer ce soir.
+
+      J'y suis. Motus sur l'inspecteur !
+
+Eh quoi ! Vous n'avez pas, d'un esprit charitable,
+À Pembrock, en douceur, conté toute la fable ?
+
+      Je vous admire.
+
+      Eh mais ! Victor ?
+
+Je l'ai fait prévenir de se rendre au théâtre.
+Viendra-t-il ?
+
+      Il est opiniâtre ;
+Il va se retrancher dans ses grands sentiments.
+
+      Oui, ma foi.
+
+      Oh ! La bonne figure !
+Toutefois cet air sombre est d'assez triste augure.
+
+Si vous vous en doutiez,vous changeriez de ton.
+L'exorde est un peu brusque.
+
+Et cependant ce soir votre ouvrage est donné.
+
+Comprenez-vous le sens de ce que vous me dites ?
+
+      Mais vous touchez au but.
+
+      Eh ! Pour dieu ! Souffrez qu'on vous annonce
+Que...
+
+C'est de lui maintenant que l'obstacle viendra.
+Un seul mot !
+
+      Ah ! Comme il vous plaira.
+Puisqu'il en est ainsi, monsieur, je me retire.
+
+Que vous seriez puni si je ne disais rien !
+Il faut en convenir, le ciel vous veut du bien ;
+Tout le monde à présent sous vos drapeaux s'enrôle,
+Et d'un commun accord redemande son rôle ;
+Et cela, s'il vous plaît, par intérêt pour vous.
+
+      Ainsi nous jouons tous.
+Il faudra seulement décider Floridore.
+
+Qui, moi ? Je ne veux rien.
+
+Tenez ferme, parbleu ! Ne cédez pas.
+
+Il faudrait l'aborder d'un air doux et timide.
+
+      Vous excuser un peu,
+Et même le flatter sur son goût, sur son jeu.
+
+      Lui céder, par le traité de paix,
+Ces vers qui sont fort bons, mais qu'il trouve mauvais.
+
+      Contenez votre bile.
+Floridore s'avance avec monsieur Granville.
+Vous pouvez d'un seul mot fixer votre destin ;
+Dois-je aller endosser mon habit de Frontin ?
+Eh bien ! Oui. N'est-ce pas ? Adieu donc, je vous laisse
+Surtout de la douceur.
+
+Mylord est dans sa loge.
+
+Messieurs, je vois un Grec dans les remparts de Troie.
+
+Fussiez-vous par-delà les colonnes d'Alcide,
+Vous y pourrez encor trouver une perfide.
+
+C'était un bon parti ; mais, à défaut d'un Lord,
+Un garçon très honnête et que j'estime fort.;;
+
+Si je me proposais.
+
+Les gens de Mylady !... Que Mylady permette.
+
+Elle enrage !
+
       D'un air très amical
 Il cause avec Granville. Agamemnon-Blinval
 Vient de se retirer sans tumulte, sans pompe,
@@ -3597,115 +1365,522 @@ Comme votre succès met sa femme aux abois,
 Ils sont sortis d'accord pour la première fois.
 Ils s'aiment par vengeance.
 
-**** *book_ *id_V11 *act_V *date_1820
+      Un auteur, un confrère.
 
--*who_bernard
+Qui diable es-tu donc, par hasard ?
+
+Me voilà, moi, voyons, je me laisserai faire.
+
+Bornons-nous à l'Europe ; et, s'il en fait le tour,
+Que dans un bon fauteuil il dorme à son retour !
+
+
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blinval
+
+« Fuyez donc, retournez dans votre Thessalie. »
+
+« Un bienfait reproché tint toujours lieu d'offense ;
+« Je veux moins de valeur et plus d'obéissance.
+« Fuyez,je ne crains pas votre impuissant courroux
+
+Bonjour.
+
+On sait comme je pense, on m'en a fait un crime.
+
+Hélas !
+
+Sur leurs premiers talents je m'étais modelé :
+Pâle, roulant des yeux, effaré, hors d'haleine,
+J'alLongeais de grands bras, je parcourais la scène ;
+Bref, j'ai frappé du pied, crié, gesticulé.
+
+      Le public m'a sifflé.
+
+      Je conviens, à leur gloire,
+Que trois ou quatre fois j'ai manqué de mémoire.
+Ils sifflent sans égard dès qu'ils sont mécontents ;
+À quoi servira donc qu'on ait des sentiments ?
+
+Monsieur, depuis vingt ans je soutiens qu'il a tort ;
+C'est là mon grand débat avec votre Victor,
+Dont vous donnez ce soir une pièce nouvelle.
+Monsieur est son ami puisqu'il prend sa querelle.
+
+      C'est trop heureux, ma foi.
+Ne le voyez jamais.
+
+Au goût du métromane il joint l'humeur d'Alceste ;
+Tout se peint à ses yeux d'une couleur funeste,
+Et cet orgueil chagrin qui n'a jamais plié,
+Des égards qu'il nous doit se croit humilié.
+Jamais d'un mot flatteur sa voix ne nous caresse ;
+Sa franchise parfois frise l'impolitesse.
+Je lui demande, un jour, après Agamemnon :
+Ai-je été bien sublime ? Il m'a répondu : Non.
+C'était fort déplacé. Par ce ciel que j'atteste.
+
+      Eh bien ! je le déteste
+Franchement, bonnement, et je serai vengé ;
+Car Bernard doit ce soir lui donner son congé.
+
+      Comment ? De passion.
+
+      C'est sûr.
+
+Quand elle débuta, ce fut la pauvreté
+Qui réduisit Bernard à cette extrémité.
+Le début fut brillant ; mais, chose assez commune,
+Sans enrichir l'actrice il fit notre fortune.
+Victor la vit, l'aima, parut ; et, s'il vous plaît,
+Lucile en raffola, tout sauvage qu'il est.
+En vain nos céladons lui peignaient leur martyre,
+Sa conduite jamais n'éveilla la satire ;
+Et ce couple amoureux habite innocemment
+Les hautes régions du plus pur sentiment.
+Bernard, importuné de leur longue tendresse,
+N'a pu contre leurs voeux défendre sa faiblesse ;
+Mais à nos deux amants, qu'il a promis d'unir,
+Il veut qu'un beau succès assure un avenir.
+Voici le jour fatal ; dressé chez le notaire,
+Le contrat n'attend plus que l'aveu du parterre.
+Ce soir chute complète ; et comme je rirai
+De voir par le public le contrat déchiré !
+Quel plaisir ! Mais, bonjour, Clytemnestre m'appelle.
+Je suis dans un accès de bonté paternelle ;
+J'arrange pour demain mes tragiques douleurs ;
+Je vois, j'entends ma fille, et sens couler mes pleurs.
+
+Ne vous gênez donc pas : ma femme, grand merci !
+
+Voici l'opinion du bon homme Lagrange.
+
+      « La surdité qui me prend par instants
+M'a fait perdre plus d'un passage ;
+Mais quelques auditeurs m'ont paru mécontents.
+Je crois pouvoir juger l'auteur sur leur visage ;
+Mon refus motivé, c'est qu'un homme à vingt ans
+Ne peut pas faire un bon ouvrage. »
+
+      Trois refus en comprenant le mien.
+Florbel est philosophe, et dit ce qu'il faut taire :
+J'ai donné sur sa joue un soufflet à Voltaire.
+
+De la petite Emma voici le bulletin :
+« Pour moi la langue est tout ; au plus rare mérite
+Je ne puis sur ce point pardonner un écart ;
+Je vote le rejet et le motive ; car
+Cette ouvrage est très mal écrite. »
+
+En ce cas, refusé.
+
+L'avis de Floridore est pour vous un grand titre ;
+Floridore est du goût un infaillible arbitre.
+
+      C'est jugé.
+
+      Floridore a manqué son entrée.
+
+      Le public ne s'en est pas douté ;
+Mais moi, qui connaissais...
+
+      Voilà pourtant le monde !
+Soyez officieux, rendez service aux gens ;
+On en est bien payé !
+
+Je le voudrais aussi ; mais...
+
+Je suis dans l'embarras. Je crains de vous fâcher.
+
+Ah çà, du coeur !
+
+      Jusqu'ici rien n'annonce un orage.
+
+      J'entends éclater des bravos imprévus
+À mille traits d'esprits que je n'avais pas vus ;
+Mais...
+
+      Que voulez-vous qu'on dise ?
+Chacun a son avis.
+
+Vous écrivez, mon cher, pour les gens du commun.
+Des moeurs qu'on voit partout. Rien n'y sent son grand monde ;
+Dans votre pièce enfin la bourgeoisie abonde.
+Pas un Comte, un Marquis, pas un petit Baron,
+Pour ennoblir un peu...
+
+Vous vous fâchez !
+
+      Est-ce ma faute, à moi,
+Si votre dénouement m'inspire de l'effroi ?
+
+      Je souhaite qu'il passe.
+
+      C'est délicat...
+
+      Il est... Il est... Il m'a choqué.
+
+      La raison ! Je viens de vous la dire.
+
+      Paix, paix, allons, je me retire.
+Vous vous fâchez.
+
+
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bernard
+
+Au bureau, m'a-t-on dit, où j'arrive un peu tard,
+Un gentilhomme anglais cherchait monsieur Bernard.
+
+      Oui, Mylord, c'est ainsi qu'on me nomme.
+
+Il faut être à son poste ; un inspecteur, dit-on,
+De Paris à dessein parti sous un faux nom,
+Doit s'introduire ici sans se faire connaître.
+
+Hâtons-nous, s'il vous plaît.
+
+On a, mon cher Victor, des amis, des parents.
+
+L'usage est votre excuse.
+
+Deses admirateurs sans peupler une salle,
+On doit tout doucement préparer le succès.
+Vous pouvez disposer de quarante billets ;
+Jp les ai demandés.
+
+Usez de votre droit.
+
+Mais vous extravaguez.
+
+L'honneur exagéré va droit au ridicule.
+Pour réformer nos moeurs vous prenez la férule,
+Vous débutez, Victor ; dans ce pas hasardeux,
+Aurez-vous pour soutiens un journalisteou deux ?
+
+      Et si par hasard leur plume vous déchire ?
+
+      Chez eux allez vous faire écrire.
+
+      On voit bien son juge.
+
+J'aime ces sentiments, ils sont beaux ; mais enfin
+Avec beaucoup d'honneur on peut mourir de faim.
+Lucile est mon trésor, mon espoir, ma famille ;
+Moins tendrement peut-être un père aime sa fille.
+Vous voulez nous ravir cet excellent sujet :
+Bien que dans un mari j'approuve ce projet,
+Je veux que mon enfant vive, ne vous déplaise,
+Sinon dans l'opulence, au moins fort à son aise.
+Puisque vous tenez tant à ce chien de métier,
+Ayez donc un succès, un succès plein, entier,
+Que prône le public et le journal lui-même.
+Autrement point d'hymen, c'est là ma loi suprême.
+Je retourne à mon poste, où sans doute on m'attend.
+Ah ! Viens ! De ton Victor je ne suis pas content ;
+Il exagère tout. C'est à toi, ma Lucile,
+De fléchir, s'il se peut, cet esprit indocile.
+Je te laisse avec lui.
+
+Pardon, monsieur Victor m'engage à vous-prier...
+
+      Oui, quand répétons-nous ?
+
+J'ai des intentions vraiment très pacifiques ;
+Mais à qui désormais adresser mes répliques !
+
+      Il faudrait disputer :
+C'est pénible ; et pour peu que l'on ait l'âme bonne.
+
+Viens, suis-moi, mon enfant ; jamais je ne querelle.
+
+Moi, j'ai tous mes moyens et mon jeu sera sage.
+Sept heures vont sonner, dans la salle on attend.
+Est-on prêt ?
+
       Ah ! Que je vous embrasse !
 Est-il quelque chagrin qu'un si beau jour n'efface ?
 La poésie, oui-dà, n'est pas un vil métier ;
 C'est un art, mais un art qu'on ne peut trop. payer.
 
--*who_granville
-Hem ! Vous ai-je servi d'une ardeur sans égale ?
-Quand pour le soutenir j'ameutais la cabale,
-Je prêtais à l'ouvrage un secours superflu :
-Que voulez-vous, mon cher, je ne l'avais pas lu.
-
--*who_bernard
 Elle est à toi.
 
--*who_lucile
-      Victor !
-
--*who_victor
-      Tant de bonheur m'oppresse.
-
--*who_granville
-Et moi, qui veux ma part dans la commune ivresse,
-De deux cent mille francs je dote les époux.
-
--*who_victor
-Monsieur !
-
--*who_bernard
       Il a ce droit.
 
--*who_lucile
-Qui remercierons-nous ?
-
--*who_granville
-      Demandez à Belrose.
-
--*who_belrose
-      Un auteur, un confrère.
-
--*who_granville
-Non pas, non ; Floridore est instruit du contraire.
-
--*who_floridore
-Monsieur est inspecteur ?
-
--*who_granville
-      Non ; consultez Bernard,
-
--*who_belrose
-Qui diable es-tu donc, par hasard ?
-
--*who_granville
-Je suis, puisque personne ici ne le devine,
-Ce qu'il faut que je sois pour doter ma cousine,
-Et l'embrasser.
-
--*who_lucile
-      Comment ?
-
--*who_bernard
       Ne t'ai-je pas parlé. ?
 
--*who_lucile
-Ah ! D'un mauvais sujet qui s'était exilé.
-
--*who_granville
-C'est moi !...
-      Je t'ai prédit, cher nourrisson du Pinde,
-Quelque succession de l'Afrique ou de l'Inde ;
-Je te l'apporte, tiens.
-
--*who_victor
-      Eh ! De grâce, un moment.
-
--*who_bernard
 Prenez, vous saurez tout, j'ai vu le testament.
 Il se fera prier pour être légataire !
 
--*who_belrose
-Me voilà, moi, voyons, je me laisserai faire.
 
--*who_floridore
-Que n'ai-je su plus tôt !
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameblinval
 
--*who_granville
-      Veuillez me pardonner ;
-Tout n'est que fiction, hormis le déjeuner.
-Pour réparer mes torts, j'entends qu'il soit splendide,
-Qu'à trois actes pompeux l'allégresse y préside,
-Qu'on y verse à grands flots et Champagne et Médoc,
-Et que madameEstelle y trinque avec Pembrock.
-Toi, retiens bien ceci : le talent d'un poète
-Avorte dans le monde et croît dans la retraite.
-Que d'oisifs du bon ton, ardents à t'inviter,
-De frivoles devoirs viendront t'inquiéter !
-Ne va pas, amoureux d'un brillant esclavage,
-Jouer d'homme amusant le triste personnage,
-Te travailler sans fruit à saisir l'à-propos,
-Et consumer ta verve en stériles bons mots.
-Crains les salons bruyants, c'est l'écueil à ton âge ;
-Nous avons trop d'auteurs qui n'ont fait qu'un ouvrage.
-Poursuis, soutiens l'honneur de tes premiers essais ;
-Qu'en mer, sous l'équateur, j'apprenne tes succès,
-Et qu'un jour, comme moi, courant la terre et l'onde,
-La gloire de ton nom fasse le tour du monde.
+Pour qui ?
 
--*who_belrose
-Bornons-nous à l'Europe ; et, s'il en fait le tour,
-Que dans un bon fauteuil il dorme à son retour !
+Je vous approuve fort ; il faut être discret.
+Lisons.
+
+C'est Estelle.
+
+      Du moins j'en ai l'espoir.
+
+      Il faut les brouiller à ne plus se revoir.
+
+Détrompons son mylord.
+
+Son talent assez mince est pour moi sans danger :
+Mais sa vogue m'irrite, et je veux m'en venger.
+
+Oui, mon pressentiment est un avis secret.
+Je suis son ennemie, elle en aura la preuve :
+Elle se targue bien du bonheur d'être veuve !
+
+C'est vous !... Que j'ai de joie à vous revoir ici !
+
+      Floridore s'avance,
+Estelle l'accompagne, observons tout : silence !
+
+      Hem. Regardez Estelle.
+Le cachemire rouge.
+
+      C'est elle.
+
+Dans huit jours !
+
+Quoi, nous quitter sitôt ! Est-ce agir en amie ?
+
+Je refuse, le style est par trop familier.
+
+      Il l'admire.
+
+S'il la fait Mylady, j'en mourrai de chagrin.
+
+Faites jouer Lucile, on n'en est pas fâchée ;
+Mais qu'elle brille seule ! Oh ! Cela n'est pas bien.
+Ajoutez à mon rôle, ou retranchez du sien.
+
+      C'est faiblesse,j'ai tort ;
+Mais comment résister aux prières d'un Lord ?
+
+Il sait m'apprécier, je lui crois du mérite.
+Mon talent lui plaît fort ; d'ailleurs il s'est chargé
+De mes débuts à Londres, à mon premier congé.
+
+      Non.
+
+C'est Estelle.
+
+      Chut ! Il m'a tout conté.
+C'est une horreur, mon cher, c'est une indignité.
+Il croit qu'elle est Baronne et même auteur comique,
+Que nous représentons son oeuvre dramatique.
+
+Autre mystère. On dit que votre ami Granville
+L'a vue, a dit trois mots ; à ses ordres docile,
+Elle jouera.
+
+Mais, pour se délivrer d'un fâcheux spectateur,
+Elle a fait grand fracas du danger qu'elle affronte.
+Tomber devant Mylord, elle en mourrait de honte.
+Le public jouira du fruit de ses travaux,
+Si Mylord pour ce soir veut bien quitter Bordeaux,
+S'enfermer ici près, dans ce petit domaine.
+Où nous avons dîné le jour de ma migraine.
+Honteuse d'une chute ou fière d'un succès,
+Elle ira lui porter sa joie ou ses regrets.
+Mais la pièce sifflée (et c'est ce qu'elle espère)
+Tous deux le lendemain partent pour l'Angleterre.
+Notre Anglais s'est soumis, non sans de grands débats ;
+Il cède, il promet tout, sa foi ne suffit pas ;
+On veut le voir partir, on ferme la portière,
+Et puis, fouette, cocher ! À peine à la barrière,
+Mille noires terreurs assiègent son cerveau !
+Si l'on ne donnait pas le chef-d'oeuvre nouveau !
+Les acteurs balançaient, il faut qu'il les décide ;
+Il n'y peut plus tenir. Soudain on tourne bride,
+Et Mylord dans Bordeaux, en prenant un détour,
+Comme un conspirateur rentre au déclin du jour.
+Il court chez l'un, chez l'autre, il promet, il supplie ;
+Parle au nom du public, des beaux-arts, de Thalie,
+De la postérité ; triomphe, et fait si bien
+Qu'on va jouer Victor, qui n'y comprendra rien.
+
+J'ai fait mieux : je prépare une scène d'effet,
+Qui doit être pour lui du plus vif intérêt.
+Mylord est connaisseur ; la belle circonstance
+Pour juger du talent des actrices de France !
+Il voulait repartir, et je l'ai retenu :
+De nous signaler tous le moment est venu,
+Ai-je dit, la victoire est sûre, incontestable ;
+Mais prêtez-nous vous-même une main secourable.
+Je le presse, il s'enflamme et prend trente billets
+Qui, délivrés par lui, porteront l'ordre exprès
+D'applaudir, d'entasser éloge sur éloge,
+Au premier bruit flatteur échappé de sa loge.
+Eh bien ! Qu'en dites-vous ?
+
+      Au moins,
+La nouvelle entrevue aura quelques témoins.
+Vous les figurez-vous, se voyant face à face,
+Pembrock tout effaré, qui crie et qui menace,
+Qui siffle !...
+
+      Qu'y faire ? C'est fâcheux ;
+Dans son second ouvrage il sera plus heureux.
+
+      Pourquoi pas ?
+
+Il boude ? Les auteurs sont comme les amants ;
+Eussions-nous tous les torts que leur fierté nous prête,
+Quand nous leur pardonnons, la paix est bientôt faite.
+Mais, tenez, le voilà ; qu'ai-je dit ?
+
+Je ne puis lui parler, je n'ai qu'une heure à moi.
+Je cours à ma toilette.
+
+      Allons, tout ira bien.
+Je me sens inspirée.
+
+
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+
+      Qui vous a donc fâchés ?
+Qu'avez-vous fait ?
+
+      Quoi ! Vous me le cachez !
+Il peut avoir des torts, mais il est notre père ;
+Il est le mien, du moins.
+
+Bon !
+
+      Lui !
+
+Allons !
+
+Nos actions souvent démentent nos conseils :
+Jamais, s'il eût suivi des préceptes pareils,
+L'emploi des confidents n'eût borné sa carrière ;
+Il serait riche, heureux ; il aurait part entière ;
+Mais, comme des journaux il ne fut pas prôné,
+Le premier débutant l'a toujours détrôné.
+
+Je l'avouerai tout bas, j'aime qu'on m'applaudisse...
+De quel prix vous payez ce léger sacrifice !
+Je vous devrai ce bien que j'ai tant regretté,
+D'un sort indépendant la douce obscurité,
+Un titre, le bonheur dont jouit une mère,
+Qui vaut bien des bravos la trompeuse chimère...
+
+      Et qu'il me sera doux
+D'aller vous applaudir, d'être fière de vous !
+
+Pourquoi ?
+
+Jugez de mes tourments, Victor, et plaignez-moi :
+Aux regards du public déguisant mon effroi,
+Prête à verser des pleurs, il me faudra sourire...
+Mon rôle est excellent, je crains de le mal dire.
+
+Lorsque je paraîtrai, comme mon coeur battra !
+
+Eh bien ! Au célibat nous voilà condamnés,
+Pour dix ans tout au moins. Courage !
+
+Paix, on vient.
+
+      Qu'un censeur est un homme terrible !
+
+      Je vais étudier.
+
+J'espérais au foyer trouver Madame Estelle ;
+Mais je ne la vois pas. Pardon !
+
+Tout le monde à la fois, jusqu'à monsieur Victor.
+Enfin, madame Estelle est ma seule espérance.
+
+C'est ainsi qu'on répète.
+
+Oui.
+
+Permettez...
+
+Que veut dire monsieur ?...
+
+      Je ne devine pas.
+
+Non, monsieur.
+
+Je ne saurais, Monsieur, comprendre ce langage ;
+Souffrez...
+
+Cette preuve d'estime et me touche et m'honore.
+Le monde, je le vois, me rend justice encore ;
+Mais l'accueil du public a passé mes désirs.
+Mes devoirs, grâce à lui, sont pour moi des plaisirs ;
+Contente de mon sort, heureuse près d'un père,
+Je ne veux...
+
+Je suis fière, il est vrai, de l'amour qu'il m'inspire :
+Son talent.
+
+      Qui doit l'être ce soir,
+Qui le sera, Monsieur.
+
+      Il est loin d'être millionnaire :
+Alors, pour bien des gens, c'est un homme ordinaire ;
+Qu'il le soit à vos yeux, rien de plus naturel :
+Il n'offre pas d'écrin, d'équipage, d'hôtel ;
+Non, mais je l'aime.
+
+      Je n'eusse aimé que vous.
+
+      Il sera malheureux ;
+Et je l'en chérirai, s'il se peut, davantage.
+
+      Je connais mon devoir :
+Mon tuteur sait aussi jusqu'où va son pouvoir,
+À sur mes sentiments l'autorité suprême :
+Mais je n'en dois, Monsieur, répondre qu'à lui-même.
+
+Adieu, monsieur Victor.
+
+Floridore vous quitte ; est-il vrai qu'à vos soins
+Nous devrons le bonheur ?...
+
+      Et moi je perds courage.
+
+Au gré de vos désirs je vois tout succéder,
+Et la victoire enfin semble se décider.
+
+Notre amour m'inspirait. Victor, je me rappelle
+La scène de l'aveu que vous redoutiez tant :
+J'avais le coeur serré moi-même en l'écoutant ;
+L'orchestre était muet, le parterre en balance.
+Un murmure enchanteur a rompu le silence.
+Je crois l'entendre encor.
+
+      Oui, mais je l'ai soufflé.
+Qu'on retient aisément des vers tels que les vôtres !
+Je n'ai lu que mon rôle, et je sais tous les autres.
+
+Ne tremblez point ; que sert de vous troubler ainsi ?
+Imitez-moi.
+
+Il m'a fait une peur !
+
+      Vos avis obligeants
+Ne seront pas perdus. J'entre après Floridore ;
+De peur qu'un accident ne vous ramène encore,
+Je cours jouer ma scène, et j'espère, au retour,
+Par un tout autre avis l'obliger à mon tour.
+
+      Succès, succès complet !
+
+Bon Victor !
+
+      Victor !
+
+Qui remercierons-nous ?
+
+      Comment ?
+
+Ah ! D'un mauvais sujet qui s'était exilé.
+

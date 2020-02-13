@@ -1,231 +1,136 @@
 
 
-**** *book_ *id_I01 *act_I *date_1695
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlemarquis
 
--*who_janbroche
-Monsieur, je suis votre serviteur.
-Pourriez-vous me faire un plaisir ?
-
--*who_lecompere
-Quel plaisir voulez-vous de moi ?
-
--*who_janbroche
-Je voudrais bien vous prier de garder ma boutique et surtout ma fille.
-
--*who_lecompere
-Monsieur, d'un tel embarras je ne me soucie point : mais vous avez votre domestique Pierrot ; qui fera votre affaire.
-
--*who_janbroche
-Vous êtes bien peu complaisant.
-Je vais donc appeler mon domestique.
-Pierrot, holà, Pierrot.
-
-**** *book_ *id_I02 *act_I *date_1695
-
--*who_pierrot
-Monsieur, qu'y a-t-il pour votre service ?
-
--*who_janbroche
-Il faut que tu représentes ma personne, et que tu sois l'économe de ma maison.
-
--*who_pierrot
-Ma foi, monsieur, je ne puis servir de colonne à votre bâtiment.
-
--*who_janbroche
-C'est de garder ma boutique, et d'avoir soin surtout de ma fille.
-
--*who_pierrot
-Ma foi, Monsieur, je veux bien me charger de garder votre boutique, et non pas votre fille, parce que c'est une marchandise qui est comme de l'eau de la reine de Hongrie ; sitôt qu'on la laisse éventer, la saveur s'en va : une fille est de même.
-Ainsi, monsieur, vous pouvez bien la garder vous-même.
-
--*who_janbroche
-Va, va, maraud que tu es : va dire à ma fille qu'elle vienne me parler.
-
--*who_pierrot
-Monsieur, je m'en vais dans l'instant.
-
-**** *book_ *id_I03 *act_I *date_1695
-
--*who_mademoisellejanbroche
-Que souhaitez-vous, mon cher père.
-
--*who_janbroche
-Ma fille, approchez quand je vous parle ; je vais partir pour aller en marchandise chercher des draps qui me manquent, et je veux que dans ma boutique il ne soit rien vendu en mon absence.
-
--*who_mademoisellejanbroche
-Cela paraîtra tout à fait ridicule.
-
--*who_janbroche
-C'est à cause de cela que l'on m'appelle le marchand ridicule.
-
--*who_mademoisellejanbroche
-Mais, mon cher père, de quelle façon voulez-vous que je renvoie les marchands ?
-
--*who_janbroche
-Ma fille, quand il viendra quelque marchand vous demander du drap, et qui vous dira : mademoiselle, n'auriez-vous pas un beau drap d'Hollande à me vendre ?
-Il faut lui répondre : vraiment nenni, monsieur ; par là vous conserverez votre honneur et votre réputation.
-
--*who_mademoisellejanbroche
-Cela suffit, mon cher père, je n'y manquerai pas.
-
--*who_janbroche
-Adieu, ma petite fille.
-
--*who_mademoisellejanbroche
-Adieu, mon cher papa.
-
-**** *book_ *id_I04 *act_I *date_1695
-
--*who_monsieurlemarquis
 Dis-moi, coquin, depuis le temps que je te cherche, d'où viens-tu ?
 
--*who_polichinelle
-Ma foi, monsieur, j'étais à la garde-robe à faire des vers.
-
--*who_monsieurlemarquis
 Comment, impertinent, est-ce là une place pour faire des vers ?
 
--*who_polichinelle
-Mais, Monsieur, chacun se met où il peut.
-Que voulez-vous de moi ?
-
--*who_monsieurlemarquis
 Il faut que tu t'en ailles tout à l'heure de ma part chez Janbroche, mon marchand ordinaire, me chercher tout l'équipage d'un gentilhomme.
 
--*who_polichinelle
-Mais, monsieur, sans trop de curiosité, pour quelle occasion ?
-
--*who_monsieurlemarquis
 C'est que je suis sur le point de me marier.
 
--*who_polichinelle
-Mais, monsieur, que ne vous mettez-vous sur la dentelle, cela est plus propre que le point.
-
--*who_monsieurlemarquis
 Animal que tu es, ce n'est pas cela : je veux prendre une femme.
 
--*who_polichinelle
-Ah !
-Monsieur, je vous entends : c'est que, comme vous savez que j'ai besoin de femme, vous en prenez pour moi et pour vous ?
-
--*who_monsieurlemarquis
 Impertinent que tu es, sache que si je prends une femme, que ce n'est point pour un impertinent comme toi, et que c'est pour moi.
 
--*who_polichinelle
-Eh bien, monsieur, si en tout cas elle se perd, vous la pouvez cherchez tout seul.
-
--*who_monsieurlemarquis
 Ça, ça, point tant de verbiage, fais ma commission au plus vite.
 
--*who_polichinelle
-Mais, monsieur, où demeure-t-il ?
-
--*who_monsieurlemarquis
 Tiens, voilà sa porte, marche.
 
--*who_polichinelle
+Va, va, c'est mon marchand ordinaire, je ne paye qu'à l'année.
+
+Monsieur, dites-moi un peu, n'auriez-vous pas vu mon coquin de domestique ?
+
+Malheureux : Dans quel équipage es-tu ?
+
+Maraud, si tu ne me dis la vérité, je te vais rouer de coups de bâton dans l'instant.
+
+Va, va, tu es un malheureux, il faut que tu l'épouses.
+
+
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
+
+Ma foi, monsieur, j'étais à la garde-robe à faire des vers.
+
+Mais, Monsieur, chacun se met où il peut. Que voulez-vous de moi ?
+
+Mais, monsieur, sans trop de curiosité, pour quelle occasion ?
+
+Mais, monsieur, que ne vous mettez-vous sur la dentelle, cela est plus propre que le point.
+
+Ah ! Monsieur, je vous entends : c'est que, comme vous savez que j'ai besoin de femme, vous en prenez pour moi et pour vous ?
+
+Eh bien, monsieur, si en tout cas elle se perd, vous la pouvez cherchez tout seul.
+
+Mais, monsieur, où demeure-t-il ?
+
 Cela est bon, monsieur, j'y vais.
 Va, va, compère, je m'en vais ferrer la mule.
 
--*who_lecompere
-Mais comment veux-tu ferrer la mule.
-On ne t'a pas donné de l'argent ?
-
--*who_polichinelle
 Tu as encore raison, je m'en vais, l'appeler...
 Monsieur, monsieur, vous ne m'avez point donné de l'argent ?
 
--*who_monsieurlemarquis
-Va, va, c'est mon marchand ordinaire, je ne paye qu'à l'année.
-
--*who_polichinelle
 Bon ; nous voilà pas mal : je comptais ferrer la mule, et je ne ferrerai pas seulement le bourriquet.
 
-**** *book_ *id_I05 *act_I *date_1695
-
--*who_polichinelle
 Monsieur Janbroche, je suis votre serviteur.
 
--*who_lecompere
-Impertinent que tu es, ne vois-tu pas que c'est mademoiselle sa fille ?
+Eh bien ! J'embrasserai mieux la fille que le père. Mademoiselle, avez-vous du drap de Hollande ?
 
--*who_polichinelle
-Eh bien !
-J'embrasserai mieux la fille que le père.
-Mademoiselle, avez-vous du drap de Hollande ?
-
--*who_mademoisellejanbroche
-Vraiment nenni, monsieur.
-Vraiment nenni, monsieur...
-
-**** *book_ *id_I06 *act_I *date_1695
-
--*who_lecompere
-Ma foi, monsieur, je n'en sais rien, et vous pouvez appeler votre domestique Pierrot.
-
--*who_janbroche
-Pierrot !
-
-**** *book_ *id_I07 *act_I *date_1695
-
--*who_pierrot
-Monsieur, depuis que je ne vous ai vu, il y a bien des nouvelles.
-
--*who_janbroche
-Qu'est-ce que c'est que ces nouvelles ?
-
--*who_pierrot
-C'est que les mâles couchent avec les femelles.
-
--*who_janbroche
-Bête que tu es : de tout temps cela a été, et de tout temps cela sera.
-
--*who_pierrot
-Hé bien, monsieur, puisqu'il faut que cela soit, je vous dirai qu'il y a un gros garçon couché avec mademoiselle votre fille.
-
--*who_janbroche
-Comment !
-Un garçon couché avec ma fille !
-Me voilà perdu d'honneur et de réputation.
-
--*who_pierrot
-Mais, monsieur... mais, monsieur, laissez divertir la jeunesse.
-
-**** *book_ *id_I08 *act_I *date_1695
-
--*who_polichinelle
 Mais, monsieur, rendez-moi donc ma culotte.
 
--*who_janbroche
-Tiens, voilà ta culotte.
-
-**** *book_ *id_I09 *act_I *date_1695
-
--*who_monsieurlemarquis
-Monsieur, dites-moi un peu, n'auriez-vous pas vu mon coquin de domestique ?
-
--*who_polichinelle
 Monsieur, me voilà.
 
--*who_polichinelle
-Ah !
-Monsieur, si vous allez crever le baril à la moutarde, elle va vous sauter aux yeux.
+Ah ! Monsieur, si vous allez crever le baril à la moutarde, elle va vous sauter aux yeux.
 
--*who_monsieurlemarquis
-Malheureux : Dans quel équipage es-tu ?
-
--*who_polichinelle
 En m'allant baigner, des petits fripons, monsieur, m'ont volé ma culotte.
 
--*who_monsieurlemarquis
-Maraud, si tu ne me dis la vérité, je te vais rouer de coups de bâton dans l'instant.
+Monsieur, tenez, ne vous mettez pas en colère. Je vais vous dire la vérité ; comme la fille de Monsieur Janbroche avait peur, elle m'a prié d'aller coucher avec elle, et moi, fort obligeant, je n'ai pu la refuser.
 
--*who_polichinelle
-Monsieur, tenez, ne vous mettez pas en colère.
-Je vais vous dire la vérité ; comme la fille de Monsieur Janbroche avait peur, elle m'a prié d'aller coucher avec elle, et moi, fort obligeant, je n'ai pu la refuser.
-
--*who_monsieurlemarquis
-Va, va, tu es un malheureux, il faut que tu l'épouses.
-
--*who_polichinelle
 Bon, bon, tant mieux, voilà mon affaire.
+
+
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janbroche
+
+Monsieur, je suis votre serviteur. Pourriez-vous me faire un plaisir ?
+
+Je voudrais bien vous prier de garder ma boutique et surtout ma fille.
+
+Vous êtes bien peu complaisant. Je vais donc appeler mon domestique. Pierrot, holà, Pierrot.
+
+Il faut que tu représentes ma personne, et que tu sois l'économe de ma maison.
+
+C'est de garder ma boutique, et d'avoir soin surtout de ma fille.
+
+Va, va, maraud que tu es : va dire à ma fille qu'elle vienne me parler.
+
+Ma fille, approchez quand je vous parle ; je vais partir pour aller en marchandise chercher des draps qui me manquent, et je veux que dans ma boutique il ne soit rien vendu en mon absence.
+
+C'est à cause de cela que l'on m'appelle le marchand ridicule.
+
+Ma fille, quand il viendra quelque marchand vous demander du drap, et qui vous dira : mademoiselle, n'auriez-vous pas un beau drap d'Hollande à me vendre ? Il faut lui répondre : vraiment nenni, monsieur ; par là vous conserverez votre honneur et votre réputation.
+
+Adieu, ma petite fille.
+
+Pierrot !
+
+Qu'est-ce que c'est que ces nouvelles ?
+
+Bête que tu es : de tout temps cela a été, et de tout temps cela sera.
+
+Comment ! Un garçon couché avec ma fille ! Me voilà perdu d'honneur et de réputation.
+
+Tiens, voilà ta culotte.
+
+
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
+Monsieur, qu'y a-t-il pour votre service ?
+
+Ma foi, monsieur, je ne puis servir de colonne à votre bâtiment.
+
+Ma foi, Monsieur, je veux bien me charger de garder votre boutique, et non pas votre fille, parce que c'est une marchandise qui est comme de l'eau de la reine de Hongrie ; sitôt qu'on la laisse éventer, la saveur s'en va : une fille est de même. Ainsi, monsieur, vous pouvez bien la garder vous-même.
+
+Monsieur, je m'en vais dans l'instant.
+
+Monsieur, depuis que je ne vous ai vu, il y a bien des nouvelles.
+
+C'est que les mâles couchent avec les femelles.
+
+Hé bien, monsieur, puisqu'il faut que cela soit, je vous dirai qu'il y a un gros garçon couché avec mademoiselle votre fille.
+
+Mais, monsieur... mais, monsieur, laissez divertir la jeunesse.
+
+
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
+
+Quel plaisir voulez-vous de moi ?
+
+Monsieur, d'un tel embarras je ne me soucie point : mais vous avez votre domestique Pierrot ; qui fera votre affaire.
+
+Mais comment veux-tu ferrer la mule. On ne t'a pas donné de l'argent ?
+
+Impertinent que tu es, ne vois-tu pas que c'est mademoiselle sa fille ?
+
+Ma foi, monsieur, je n'en sais rien, et vous pouvez appeler votre domestique Pierrot.
+

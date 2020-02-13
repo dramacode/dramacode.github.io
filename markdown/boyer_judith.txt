@@ -1,6 +1,6 @@
 ---
 identifier: boyer_judith  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1695  
 title: Judith. Tragédie  
 ---

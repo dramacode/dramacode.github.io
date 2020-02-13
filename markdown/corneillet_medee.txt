@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_medee  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1693  
 title: Médée. Tragédie  
 ---

@@ -1,131 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1726
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcagambis
 
--*who_hierbas
-Gargame pourrait-il former un tel dessein ?
-
--*who_gargame
-Oui, je l'ai résolu, tu m'en parles en vain.
-
--*who_hierbas
-Quoi vous pourriez ternir l'éclat de votre gloire,
-Et des bienfaits du Roi perdre ainsi la mémoire ;
-Au milieu de sa Cour le Grand Arcagambis
-Vous reçois, vous chérit comme son propre fils,
-À vous combler d'honneurs chaque jour il s'empresse,
-Et vous voulez, Seigneur, lui ravir la Princesse ?
-Elle qu'un nœud sacré doit unir à son sort ;
-Daignez considérer...
-
--*who_gargame
-      Je sais bien que j'ai tort,
-Mais ne retrace point à mon âme agitée
-Cette loi du devoir trop longtemps respectée.
-Soumis au joug charmant d'une invincible ardeur,
-Toute autre loi paraît importune à mon cœur.
-Qui pourrait en effet y combattre, Thamire,
-Et les transports pressants que sa beauté m'inspire :
-En vain Arcagambis tyrannise ses vœux ;
-Et d'un Hymen prochain croit allumer tes feux ;
-Non, non de cet hymen ne flatte point ton âme,
-Ses feux ne brilleront que par ceux de Gargame.
-
--*who_hierbas
-Le cœur de la Princesse au vôtre est-il soumis ?
-En êtes-vous aimé ?
-
--*who_gargame
-      N'en doute point.
-
--*who_hierbas
-      Tant pis.
-Je prévois des malheurs dont tous mes sens frémissent,
-Et mes cheveux d'horreur fur mon front se hérissent ;
-Ne verrai-je jamais que de faibles héros
-Oubliant leur devoir aimer mal à propos.
-
--*who_gargame
-Il est vrai, mais je cède au penchant qui m'entraîne,
-Et je ne puis briser une si belle chaîne ;
-L'amour ne porte point d'atteintes à l'honneur :
-Quand on a fait partout admirer sa valeur
-On est sur de sa gloire, et l'on peut sans bassesse
-Avec mille vertus avoir une faiblesse.
-
--*who_hierbas
-Étranger en ces lieux, osez-vous bien ; Seigneur,
-Jusques à la Princesse élever vôtre cœur.
-
--*who_gargame
-Quoi donc ne sais-tu pas qu'une Reine est ma mère ?
-
--*who_hierbas
-Oui, mais vous ignorez quel était votre père.
-
--*who_gargame
-Pour en être éclairci je venais en ces lieux
-Lorsque je fus frappé de l'éclat de ses yeux,
-Je la vis au moment qu'un fatal hyménée.
-Devait au sort du Roi joindre sa destinée ;
-Elle lut dans mes yeux, je connus dans les siens
-Que nos cœurs étaient faits pour de plus doux liens,
-
--*who_hierbas
-Seigneur dans ce Palais Arcagambis commande,
-Thamire doit s'unir au Roi qui la demande,
-Vous verrez par ce coup renverser votre espoir.
-
--*who_gargame
-Un cœur comme le mien ne craint aucun pouvoir,
-Et ce bras qui cent fois a conquis des provinces,
-S'il sait les soutenir, sait abattre les Princes.
-
--*who_hierbas
-Seigneur, quand vous allez conquérir des États,
-De fortes Légions secondent votre bras ;
-Mais vous êtes ici sans amis et sans suite.
-
--*who_gargame
-Du dessein que j'ai pris la Princesse est instruite,
-Son aveu me suffit, et je veux aujourd'hui
-Faire voir qu'un héros sait vaincre sans appui.
-
--*who_hierbas
-C'est une trahison.
-
--*who_gargame
-      L'amour en est complice ;
-Un absolu pouvoir...
-
-**** *book_ *id_I02 *act_I *date_1726
-
--*who_arcagambis
       Gardes, qu'on le saisisse :
 Oui lui-même Gargame, allez et de ce pas
 Dans la même prison qu'on enferme Hierbas.
 
--*who_gargame
-Quel ordre rigoureux, daignez du moins m'instruire...
-
--*who_arcagambis
 Gardes obéissez, je n'ai rien à lui dire.
 
--*who_gargame
-le Roi, cher Hierbas, a su ma trahison.
-
--*who_hierbas
-Et moi qui n'en suis point on me mène en prison.
-
--*who_nabotas
-Seigneur, ce changement a lieu de de ma surprendre,
-J'en cherche les motifs, et n'y puis rien comprendre,
-Quel crime a donc commis ce Prince infortuné !
-Pourquoi sans l'écouter l'avez vous condamné,
-Ciel ! Dans quelle frayeur votre courroux me plonge ;
-Qu'elle en est la raison, qui vous y porte ?
-
--*who_arcagambis
       Un songe.
 Écoute Nabotas : les ombres de la nuit
 M'invitaient à goûter le repos qui la suit ;
@@ -146,131 +28,29 @@ A plongé dans mon sein un acier homicide ;
 J'ai passé le Cocythe, et le noir Achéron,
 Et le songe a fini par un coup de canon.
 
--*who_nabotas
-Devez-vous craindre un songe, et ses images vaines,
-Peuvent-elles régler nos plaisirs ou nos peines,
-Sans en être frappé, j'ai rêvé mille fois.
-
--*who_arcagambis
 Vous rêvez en sujets et nous rêvons en Rois.
 
-**** *book_ *id_I03 *act_I *date_1726
-
--*who_thamire
-En croirai-je le bruit, qui vient de se répandre,
-Seigneur, un étranger qui ne peut se défendre
-Et qui dans votre Cour se croit en sûreté,
-Est dans ce même instant par vôtre ordre arrêté.
-
--*who_arcagambis
 J'ai de justes raisons pour immoler ce traître,
 Et quand il sera mort je les ferai connaître.
 
--*who_thamire
-Ah ! Seigneur, quel arrêt allez-vous prononcer ?
-
--*who_arcagambis
 C'est un ordre des Dieux qui vient de m'y forcer,
 Et je vais, le livre au plus cruel supplice.
 
--*who_thamire
-Les Dieux ordonneraient une telle injustice !
-Ce Héros de ces Dieux retrace la grandeur
-Par toutes les vertus qui règnent dans son cœur.
-Lorsque dans cette Cour vôtre amitié l'arrête,
-Pouvez-vous vous résoudre à proscrire sa tête ?
-Non, je ne verrai point ce spectacle odieux,
-Et la mort secourable en privera mes yeux.
-
--*who_arcagambis
 Ce transport imprévu me surprend, et j'ignore
 Quel secret intérêt vous force...
 
--*who_thamire
-      Je l'adore.
-
--*who_arcagambis
 Vous l'adorez, et moi !
 
--*who_thamire
-      Je ne vous aime plus.
-Vous feriez sur mon cœur des efforts superflus,
-Conduite dans ces lieux par l'ordre de mon père,
-Je vous vis, et son choix avait de quoi me plaire,
-Mais Gargame parut, je m'en laissai charmer,
-Et pour aimer toujours c'est lui qu'il faut aimer.
-
--*who_arcagambis
 Vous avouez sans honte un amour téméraire.
 
--*who_thamire
-Je rougirais Seigneur, si je pouvais le taire,
-Ne me reprochez rien, mais applaudissez vous
-De n'être pas encore devenu mon époux.
-
--*who_arcagambis
 Je le serai bientôt, perfide, et sans rien craindre,
 À me garder ta foi, je saurai te contraindre ;
 Puisque Gargame seul peut nuire à mon amour,
 Lui seul en deviendra la victime en ce jour.
 
-**** *book_ *id_I04 *act_I *date_1726
-
--*who_tetonice
-Vous vous creusez vous-même un affreux précipice,
-Oh Ciel qu'avez-vous dit !
-
--*who_thamire
-      Ah chère Tetonice ?
-Dans l'état où je suis, au comble du malheur,
-Je dois quand je le perds avouer mon vainqueur,
-Gargame va périr, et mon ardeur fidèle
-M'ordonne de le suivre dans la nuit éternelle.
-
--*who_tetonice
-Ce secret à jamais devait être celé.
-
--*who_thamire
-Je voulais le cacher, mais l'amour a parlé,
-Je déteste le Roi, pour augmenter sa peine
-Je prétends à ses yeux faire éclater ma haine,
-Et malgré tous ses soins, quoiqu'il puisse m'offrir,
-L'accabler de mépris, l'en convaincre et mourir.
-
--*who_tetonice
-À de tels sentiments me serait-je attendue ?
-Rendez, rendez le calme à votre âme éperdue,
-Un transport .violent a troublé votre esprit,
-De mes sages conseils voila donc tout le fruit !
-Je ne condamne point votre amour pour Gargame,
-C'est un Prince accompli, mais déviés-vous, Madame
-Faire de cet amour l'aveu trop indiscret ?
-
--*who_thamire
-Je suis femme, et tu veux que je garde un secret !
-
--*who_tetonice
-Ah ! Madame en ces lieux Arcagambis s'avance.
-
--*who_thamire
-Le verrai-je toujours, évitons sa présence.
-
-**** *book_ *id_I05 *act_I *date_1726
-
--*who_arcagambis
 Rappelé par l'amour je reviens sur mes pas,
 Mais Dieux où courrez-vous ?
 
--*who_thamire
-      Où tu ne seras pas.
-Tyran tu crois éteindre une si belle flamme,
-Ou donne moi la mort, ou rends-moi mon Gargame ;
-En vain dans la prison on le cache aujourd'hui ;
-Mon cœur malgré tes soins y soupire avec lui.
-
-**** *book_ *id_I06 *act_I *date_1726
-
--*who_arcagambis
 La perfide me fuit, quel projet forme-t-elle ?
 Je n'en suis plus aimé l'ingrate infidèle,
 Elle-même à l'instant vient de m'en assurer :
@@ -279,95 +59,36 @@ Malgré tous mes bienfaits et ma tendresse extrême,
 Quand je veux sur son front mettre le Diadème,
 Croit elle impunément déshonorer le mien ?
 
-**** *book_ *id_I07 *act_I *date_1726
-
--*who_nabotas
-Le Prince vous demande un moment d'entretien.
-
--*who_arcagambis
 Qu'ose-t-il demander, quoi malgré son offense
 Le traître pourra-t-il soutenir ma présence ?
 Qu'il vienne, j'y consens, mais qu'il n'espère pas
 Après notre entrevue éviter le trépas.
 
-**** *book_ *id_I08 *act_I *date_1726
-
--*who_arcagambis
 Quel secret important as-tu donc à m'apprendre ?
 De tes noirs attentats pourras-tu te défendre ?
 Est-ce ta grâce enfin que tu viens demander ?
 
--*who_gargame
-Mes pareils ne sont faits que pour en accorder,
-Et loin que le trépas ait rien qu'ils appréhendent,
-Les Héros du même oeil le donnent et l'attendent.
-
--*who_arcagambis
 Ordinaires discours de ces aventuriers
 Qui viennent chez les Rois faire les grands guerriers.
 
--*who_gargame
-Portez plus de respect au sang qui m'a fait naître.
-
--*who_arcagambis
 Est-tu Roi ?
 
--*who_gargame
-      Je suis plus, je suis digne de l'être.
-
--*who_arcagambis
 Je ne vois rien en toi qui puisse m'assurer
 Qu'à l'éclat de ce rang tu dois aspirer,
 Et les Dieux protecteurs des Souverains Monarques,
 Sur leur front glorieux en impriment les marques.
 
--*who_gargame
-Je ne puis être issu que d'illustres aïeux,
-Et j'en crois plus mon cœur, que le sort et les Dieux.
-
--*who_arcagambis
 Tu ne sais dans quel sang tu puisas ta naissance,
 Et tu m'oses parler avec tant d'arrogance !
 
--*who_gargame
-Tous ceux qu'à de hauts faits le Ciel a destinés
-N'apprennent que bien tard de quel père ils sont nés ;
-Mais je connais ma mère, et je sait qu'elle est Reine,
-Et du moins d'un côté ma naissance est certaine ;
-Pour l'autre c'est à vous de m'en rendre éclairci,
-Et ce seul intérêt me conduisait ici :
-"Si tu veux de ton sort pénétrer le mystère
-Au Grand Arcagambis va demander ton père :"
-Me dit Penthésilée...
-
--*who_arcagambis
       Hélas ! Qu'ai-je entendu,
 Quel trouble dans met sens ce nom a répandu,
 Penthésilée ; ô Ciel !
 
--*who_gargame
-      D'où vient cette surprise ?
-À me dire son fils, Seigneur, tout m'autorise.
-
--*who_arcagambis
 Quel signe peut ici prouver ce que tu dis ?
 
--*who_gargame
-L'oreille d'un Sanglier que je porte.
-
--*who_arcagambis
 Ah ! Mon fils !
 
--*who_gargame
-      Moi votre fils !
-
--*who_nabotas
-      Mon âme a lieu d'être étonnée ;
-Seigneur, vous qui jamais au joug de l'hyménée
-N'avez assujetti votre invincible cœur,
-De trouver un enfant vous avez le bonheur ?
-
--*who_arcagambis
 Je fus jeune autrefois, et guidé par la gloire
 Je courus l'Univers suivi de la victoire.
 Un jour me reposant au bord du Thermodon,
@@ -391,77 +112,22 @@ Je vis dans ses beaux yeux, que troublait ma présence,
 Le Temple était trop loin, et sans cérémonie
 Cette Reine avec moi consentit d'être unie.
 
--*who_gargame
-Je vous dois donc la vie.
-
--*who_arcagambis
       Oui, c'est de cet amour,
 De cet hymen secret que tu reçus le jour.
 Je veux que mes sujets que je vais en instruire
 Reconnaissent en toi l'héritier de l'Empire.
 Mais tu me céderas la Princesse, mon fils ;
 
--*who_gargame
-Qui moi vous la céder, moi Seigneur ; je ne puis.
-
--*who_arcagambis
 Tu veux l'aimer toujours ?
 
--*who_gargame
-      Rien ne peut m'en distraire
-
--*who_arcagambis
 Dieux je n'ai plus de fils !
 
--*who_gargame
-      Dieux je n'ai plus de père !
-
--*who_nabotas
-Par de tels sentiments n'allez pas vous trahir,
-Puisqu'il est votre père, il lui faut obéir.
-
--*who_gargame
-Non, non lorsqu'il prétend me ravir ce que j'aime
-Je ne reconnaît plus sa puissance suprême.
-
--*who_nabotas
-À vôtre âge l'on doit craindre le nom d'époux,
-La Princesse Seigneur lui convient mieux qu'à voué.
-
--*who_arcagambis
 Puisqu'enfin tu ne peux étouffer ta tendresse,
 Je vais pour te punir épouser la Princesse.
 
--*who_gargame
-Et moi, je ne crains point un fort si rigoureux,
-Thamire m'a promis de couronner mes feux ;
-Je sais que rien ne peut ébranler sa constance,
-Je suis sûr de sa foi de sa persévérance ;
-Vous prétendez en vain disposer de son cœur,
-C'est un prix qui n'est dû qu'à ma fidèle ardeur ;
-Adieu... Je vais Seigneur. Dans ce péril extrême...
-Que vais-je faire, hélas !... Je l'ignore moi-même.
-
--*who_nabotas
-Il n'en faut point douter, Gargame en ce moment
-Va trouver la Princesse en son appartement ;
-Prévenez ses desseins, ordonnez qu'on le suive,
-S'il parvient à la voir, son ardeur est si vive
-Que loin de redouter votre juste courroux ;
-Il pourrait bien, Seigneur, l'épouser avant vous.
-
--*who_arcagambis
 Allez vous opposer vous-même à son passage.
 Courez cher Nabotas.
 
--*who_nabotas
-      Comptez sur mon courage,
-Je saurai de ce soin dignement m'acquitter,
-Malheur à votre fils, s'il m'ose résister.
-
-**** *book_ *id_I09 *act_I *date_1726
-
--*who_arcagambis
 Quels combats tout à coup s'élèvent dans mon âme,
 Souffrirai-je qu'un fils outrage ainsi ma flamme ?
 Non, si jusqu'à ce point il ose me braver ;
@@ -479,73 +145,12 @@ Non cet ordre barbare offense trop ma gloire...
 Que ferai-je.. Tous deux m'agitent tour à tour...
 Dieux ! Ne puis-je accorder la nature et l'amour.
 
-**** *book_ *id_I10 *act_I *date_1726
-
--*who_tetonice
-Ah ! Seigneur écoutez...
-
--*who_hierbas
-      Seigneur, daignez m'entendre.
-
--*who_tetonice
-Je viens vous informer...
-
--*who_hierbas
-      Je viens pour vous apprendre...
-
--*who_tetonice
-Thamire au désespoir...
-
--*who_hierbas
-      Le Prince malheureux...
-
--*who_arcagambis
 Parlez l'un après l'autre, ou taisez-vous tous deux.
 
--*who_hierbas
-Animé des transports qu'un tendre amour inspire,
-Le Prince en vous quittant à couru chez Thamire,
-Nabotas de la porte ayant su s'emparer,
-Lui dit, on n'entre point, et moi je veux entrer,
-Répond en l'attaquant votre fils en furie,
-Et dans le même instant le prive de la vie.
-
--*who_arcagambis
 Quoi le fier Nabotas aurait pu succomber !
 
--*who_hierbas
-Seigneur du premier coup nous l'avons vu tomber.
-Alors de ce héros redoutant le courage,
-Vos Gardes effrayez lui livrent le passage,
-Il vole vers Thamire, il la voit, mais ô Dieu !
-Quel spectacle fatal se présente à ses yeux !
-
--*who_tetonice
-Au bruit qu'on avait fait la Princesse étonnée
-Croyant que vous veniez presser votre hyménée,
-Rencontre par malheur un poignard sous sa main,
-Et malgré nos efforts le plonge dans son sein.
-
--*who_arcagambis
 Dieux !
 
--*who_hierbas
-      Gargame arrivant la voit pâle et sanglante,
-"Dans quel funeste état trouvai-je mon Amante".
-Lui dit-il ?
-
--*who_tetonice
-      "Ah ! J'ai cru arriver le Roi."
-Lui dit-elle ?
-
--*who_hierbas
-      "Il fallait croire que c'était moi ;"
-Lui dit-il ! "Je vous perds adorable Thamire."
-
--*who_tetonice
-Elle veut lui répondre, et soudain elle expire.
-
--*who_arcagambis
 L'ingrate en expirant n'a point brisé mes fers,
 Et je les porterai jusques, dans les enfers.
 Meurs, meurs Arcagambis, tu ne peux lui survivre ,
@@ -553,26 +158,198 @@ Ton malheureux amour t'ordonne de la suivre.
 Ce jour par notre mort devait être marqué,
 Justes Dieux ! C'en est fait, mon songe est expliqué.
 
-**** *book_ *id_I11 *act_I *date_1726
 
--*who_gargame
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_thamire
+
+En croirai-je le bruit, qui vient de se répandre,
+Seigneur, un étranger qui ne peut se défendre
+Et qui dans votre Cour se croit en sûreté,
+Est dans ce même instant par vôtre ordre arrêté.
+
+Ah ! Seigneur, quel arrêt allez-vous prononcer ?
+
+Les Dieux ordonneraient une telle injustice !
+Ce Héros de ces Dieux retrace la grandeur
+Par toutes les vertus qui règnent dans son cœur.
+Lorsque dans cette Cour vôtre amitié l'arrête,
+Pouvez-vous vous résoudre à proscrire sa tête ?
+Non, je ne verrai point ce spectacle odieux,
+Et la mort secourable en privera mes yeux.
+
+      Je l'adore.
+
+      Je ne vous aime plus.
+Vous feriez sur mon cœur des efforts superflus,
+Conduite dans ces lieux par l'ordre de mon père,
+Je vous vis, et son choix avait de quoi me plaire,
+Mais Gargame parut, je m'en laissai charmer,
+Et pour aimer toujours c'est lui qu'il faut aimer.
+
+Je rougirais Seigneur, si je pouvais le taire,
+Ne me reprochez rien, mais applaudissez vous
+De n'être pas encore devenu mon époux.
+
+      Ah chère Tetonice ?
+Dans l'état où je suis, au comble du malheur,
+Je dois quand je le perds avouer mon vainqueur,
+Gargame va périr, et mon ardeur fidèle
+M'ordonne de le suivre dans la nuit éternelle.
+
+Je voulais le cacher, mais l'amour a parlé,
+Je déteste le Roi, pour augmenter sa peine
+Je prétends à ses yeux faire éclater ma haine,
+Et malgré tous ses soins, quoiqu'il puisse m'offrir,
+L'accabler de mépris, l'en convaincre et mourir.
+
+Je suis femme, et tu veux que je garde un secret !
+
+Le verrai-je toujours, évitons sa présence.
+
+      Où tu ne seras pas.
+Tyran tu crois éteindre une si belle flamme,
+Ou donne moi la mort, ou rends-moi mon Gargame ;
+En vain dans la prison on le cache aujourd'hui ;
+Mon cœur malgré tes soins y soupire avec lui.
+
+
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tetonice
+
+Vous vous creusez vous-même un affreux précipice,
+Oh Ciel qu'avez-vous dit !
+
+Ce secret à jamais devait être celé.
+
+À de tels sentiments me serait-je attendue ?
+Rendez, rendez le calme à votre âme éperdue,
+Un transport .violent a troublé votre esprit,
+De mes sages conseils voila donc tout le fruit !
+Je ne condamne point votre amour pour Gargame,
+C'est un Prince accompli, mais déviés-vous, Madame
+Faire de cet amour l'aveu trop indiscret ?
+
+Ah ! Madame en ces lieux Arcagambis s'avance.
+
+Ah ! Seigneur écoutez...
+
+Je viens vous informer...
+
+Thamire au désespoir...
+
+Au bruit qu'on avait fait la Princesse étonnée
+Croyant que vous veniez presser votre hyménée,
+Rencontre par malheur un poignard sous sa main,
+Et malgré nos efforts le plonge dans son sein.
+
+      "Ah ! J'ai cru arriver le Roi."
+Lui dit-elle ?
+
+Elle veut lui répondre, et soudain elle expire.
+
+
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_gargame
+
+Oui, je l'ai résolu, tu m'en parles en vain.
+
+      Je sais bien que j'ai tort,
+Mais ne retrace point à mon âme agitée
+Cette loi du devoir trop longtemps respectée.
+Soumis au joug charmant d'une invincible ardeur,
+Toute autre loi paraît importune à mon cœur.
+Qui pourrait en effet y combattre, Thamire,
+Et les transports pressants que sa beauté m'inspire :
+En vain Arcagambis tyrannise ses vœux ;
+Et d'un Hymen prochain croit allumer tes feux ;
+Non, non de cet hymen ne flatte point ton âme,
+Ses feux ne brilleront que par ceux de Gargame.
+
+      N'en doute point.
+
+Il est vrai, mais je cède au penchant qui m'entraîne,
+Et je ne puis briser une si belle chaîne ;
+L'amour ne porte point d'atteintes à l'honneur :
+Quand on a fait partout admirer sa valeur
+On est sur de sa gloire, et l'on peut sans bassesse
+Avec mille vertus avoir une faiblesse.
+
+Quoi donc ne sais-tu pas qu'une Reine est ma mère ?
+
+Pour en être éclairci je venais en ces lieux
+Lorsque je fus frappé de l'éclat de ses yeux,
+Je la vis au moment qu'un fatal hyménée.
+Devait au sort du Roi joindre sa destinée ;
+Elle lut dans mes yeux, je connus dans les siens
+Que nos cœurs étaient faits pour de plus doux liens,
+
+Un cœur comme le mien ne craint aucun pouvoir,
+Et ce bras qui cent fois a conquis des provinces,
+S'il sait les soutenir, sait abattre les Princes.
+
+Du dessein que j'ai pris la Princesse est instruite,
+Son aveu me suffit, et je veux aujourd'hui
+Faire voir qu'un héros sait vaincre sans appui.
+
+      L'amour en est complice ;
+Un absolu pouvoir...
+
+Quel ordre rigoureux, daignez du moins m'instruire...
+
+le Roi, cher Hierbas, a su ma trahison.
+
+Mes pareils ne sont faits que pour en accorder,
+Et loin que le trépas ait rien qu'ils appréhendent,
+Les Héros du même oeil le donnent et l'attendent.
+
+Portez plus de respect au sang qui m'a fait naître.
+
+      Je suis plus, je suis digne de l'être.
+
+Je ne puis être issu que d'illustres aïeux,
+Et j'en crois plus mon cœur, que le sort et les Dieux.
+
+Tous ceux qu'à de hauts faits le Ciel a destinés
+N'apprennent que bien tard de quel père ils sont nés ;
+Mais je connais ma mère, et je sait qu'elle est Reine,
+Et du moins d'un côté ma naissance est certaine ;
+Pour l'autre c'est à vous de m'en rendre éclairci,
+Et ce seul intérêt me conduisait ici :
+"Si tu veux de ton sort pénétrer le mystère
+Au Grand Arcagambis va demander ton père :"
+Me dit Penthésilée...
+
+      D'où vient cette surprise ?
+À me dire son fils, Seigneur, tout m'autorise.
+
+L'oreille d'un Sanglier que je porte.
+
+      Moi votre fils !
+
+Je vous dois donc la vie.
+
+Qui moi vous la céder, moi Seigneur ; je ne puis.
+
+      Rien ne peut m'en distraire
+
+      Dieux je n'ai plus de père !
+
+Non, non lorsqu'il prétend me ravir ce que j'aime
+Je ne reconnaît plus sa puissance suprême.
+
+Et moi, je ne crains point un fort si rigoureux,
+Thamire m'a promis de couronner mes feux ;
+Je sais que rien ne peut ébranler sa constance,
+Je suis sûr de sa foi de sa persévérance ;
+Vous prétendez en vain disposer de son cœur,
+C'est un prix qui n'est dû qu'à ma fidèle ardeur ;
+Adieu... Je vais Seigneur. Dans ce péril extrême...
+Que vais-je faire, hélas !... Je l'ignore moi-même.
+
 Ô Destin trop cruel ! Ô père trop barbare !
 Ta rigueur de Thamire à jamais me sépare.
 
--*who_hierbas
-Ces reproches sont vains, versez plutôt des pleurs,
-Le Roi vient d'expirer.
-
--*who_gargame
       Ô comble de malheurs !
 Je perds en un seul jour la Princesse ; et mon père,
 Et je respire encore.
 
--*who_hierbas
-      Cette perte est légère.
-Le trône doit Seigneur adoucir vos regrets.
-
--*who_gargame
 Quelle nuit tout à coup obscurcit ce Palais,
 De, quels lugubres eth retentissent ces voûtes,
 La foudre des enfers vient d'entrouvrir les routes ;
@@ -595,16 +372,123 @@ Me ramène en des lieux plus craint que l'enfer même ;
 Bravons par le trépas un sert trop inhumain
 Que ce fer...
 
--*who_hierbas
-      Ah ! Seigneur...
-
--*who_gargame
       Quoi tu retiens ma main ?
 Laisse-moi terminer des jours que je déteste.
 
--*who_hierbas
+Il faut donc m'immoler en ne me tuant pas.
+
+
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hierbas
+
+Gargame pourrait-il former un tel dessein ?
+
+Quoi vous pourriez ternir l'éclat de votre gloire,
+Et des bienfaits du Roi perdre ainsi la mémoire ;
+Au milieu de sa Cour le Grand Arcagambis
+Vous reçois, vous chérit comme son propre fils,
+À vous combler d'honneurs chaque jour il s'empresse,
+Et vous voulez, Seigneur, lui ravir la Princesse ?
+Elle qu'un nœud sacré doit unir à son sort ;
+Daignez considérer...
+
+Le cœur de la Princesse au vôtre est-il soumis ?
+En êtes-vous aimé ?
+
+      Tant pis.
+Je prévois des malheurs dont tous mes sens frémissent,
+Et mes cheveux d'horreur fur mon front se hérissent ;
+Ne verrai-je jamais que de faibles héros
+Oubliant leur devoir aimer mal à propos.
+
+Étranger en ces lieux, osez-vous bien ; Seigneur,
+Jusques à la Princesse élever vôtre cœur.
+
+Oui, mais vous ignorez quel était votre père.
+
+Seigneur dans ce Palais Arcagambis commande,
+Thamire doit s'unir au Roi qui la demande,
+Vous verrez par ce coup renverser votre espoir.
+
+Seigneur, quand vous allez conquérir des États,
+De fortes Légions secondent votre bras ;
+Mais vous êtes ici sans amis et sans suite.
+
+C'est une trahison.
+
+Et moi qui n'en suis point on me mène en prison.
+
+      Seigneur, daignez m'entendre.
+
+      Je viens pour vous apprendre...
+
+      Le Prince malheureux...
+
+Animé des transports qu'un tendre amour inspire,
+Le Prince en vous quittant à couru chez Thamire,
+Nabotas de la porte ayant su s'emparer,
+Lui dit, on n'entre point, et moi je veux entrer,
+Répond en l'attaquant votre fils en furie,
+Et dans le même instant le prive de la vie.
+
+Seigneur du premier coup nous l'avons vu tomber.
+Alors de ce héros redoutant le courage,
+Vos Gardes effrayez lui livrent le passage,
+Il vole vers Thamire, il la voit, mais ô Dieu !
+Quel spectacle fatal se présente à ses yeux !
+
+      Gargame arrivant la voit pâle et sanglante,
+"Dans quel funeste état trouvai-je mon Amante".
+Lui dit-il ?
+
+      "Il fallait croire que c'était moi ;"
+Lui dit-il ! "Je vous perds adorable Thamire."
+
+Ces reproches sont vains, versez plutôt des pleurs,
+Le Roi vient d'expirer.
+
+      Cette perte est légère.
+Le trône doit Seigneur adoucir vos regrets.
+
+      Ah ! Seigneur...
+
 Vous n'accomplirez point un dessein si funeste,
 Vous vous devez Seigneur au sein de vos États.
 
--*who_gargame
-Il faut donc m'immoler en ne me tuant pas.
+
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nabotas
+
+Seigneur, ce changement a lieu de de ma surprendre,
+J'en cherche les motifs, et n'y puis rien comprendre,
+Quel crime a donc commis ce Prince infortuné !
+Pourquoi sans l'écouter l'avez vous condamné,
+Ciel ! Dans quelle frayeur votre courroux me plonge ;
+Qu'elle en est la raison, qui vous y porte ?
+
+Devez-vous craindre un songe, et ses images vaines,
+Peuvent-elles régler nos plaisirs ou nos peines,
+Sans en être frappé, j'ai rêvé mille fois.
+
+Le Prince vous demande un moment d'entretien.
+
+      Mon âme a lieu d'être étonnée ;
+Seigneur, vous qui jamais au joug de l'hyménée
+N'avez assujetti votre invincible cœur,
+De trouver un enfant vous avez le bonheur ?
+
+Par de tels sentiments n'allez pas vous trahir,
+Puisqu'il est votre père, il lui faut obéir.
+
+À vôtre âge l'on doit craindre le nom d'époux,
+La Princesse Seigneur lui convient mieux qu'à voué.
+
+Il n'en faut point douter, Gargame en ce moment
+Va trouver la Princesse en son appartement ;
+Prévenez ses desseins, ordonnez qu'on le suive,
+S'il parvient à la voir, son ardeur est si vive
+Que loin de redouter votre juste courroux ;
+Il pourrait bien, Seigneur, l'épouser avant vous.
+
+      Comptez sur mon courage,
+Je saurai de ce soin dignement m'acquitter,
+Malheur à votre fils, s'il m'ose résister.
+

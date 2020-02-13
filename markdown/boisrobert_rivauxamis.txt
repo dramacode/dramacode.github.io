@@ -1,6 +1,6 @@
 ---
 identifier: boisrobert_rivauxamis  
-creator: Boisrobert, François Le Métel de  
+creator: Boisrobert, François Le Métel de ; Georges Forestier.  
 date: 1639  
 title: Les Rivaux amis. Tragi-comédie  
 ---

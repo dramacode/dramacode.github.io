@@ -1,152 +1,30 @@
 
 
-**** *book_ *id_I01 *act_I *date_1760
+**** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
 
--*who_monsieurfagot
-Ne doutez point, mon cher Monsieur Sapin
-Notre fera souche ;
-Mais de crainte qu'il n'effarouche,
-L'esprit du vulgaire idiot,
-Il faut l'envelopper d'un style inextricable.
-
--*who_monsieursapin
-Inextricable ! Le beau mot.
-
--*who_monsieurfagot
-Vous en être content ?
-
--*who_monsieursapin
-      Je le trouve admirable.
-
--*who_monsieurfagot
-Flattez toujours ; n'épargnez rien !
-Et croyez qu'à mon tour je vous le rendrai bien.
-
--*who_monsieursapin
-C'est très bien dit
-
--*who_monsieurfagot
-      Change pour change.
-Il est bien doux, Monsieur Sapin,
-De s'entre-passer la louange.
-
--*who_monsieursapin
-Contre elle j'ai beau me raidir ;
-Je sens qu'en votre bouche elle flatte l'oreille.
-
--*who_monsieurfagot
-À vos propos ma sève se réveille,
-Et quoique bois coupé, je me sens reverdir.
-
--*who_monsieursapin
-C'est vous qui de l'erreur avez levé les voiles,
-Des fruits de vos travaux l'univers est rempli
-Enfin sans vous, en plein midi,
-On n'aurait vu que des étoiles.
-
--*who_monsieurfagot
-Vous réunissez tous les goûts :
-Vous êtes en savoir un autre Depostere
-Et c'est avec raison que chacun dit de vous,
-Il parle Français comme Homère.
-
--*who_monsieursapin
-Nous avons d'autres compagnons
-Qui comme autant d'étais soutiendront notre gloire ?
-Et feront revivre nos noms
-Dans les annales de l'histoire.
-
--*who_monsieurfagot
-Tout franc, excepté nous, nos coopérateurs ;
-Il n'est point de génie et pas même d'auteurs.
-Que Dûchesne en savoir est bien un vrai problème !
-Quelle charpente il vous a dans l'esprit !
-Comme il dit tout ce qu'on a dit :
-Et que solidement il bâtit un système.
-
--*who_monsieursapin
-Il n'en démors jamais, et c'est ce que j'en aime,
-Quand il a dit un mot, ce seul mot il suffit.
-En dispute avec lui, gardez de passer outre :
-C'est vouloir vous heurter de front contre une poutre.
-
--*who_monsieurfagot
-Pour Dusaule, il est souple, et facile à plier,
-Il manque de raideur : il faudra l'étayer.
-Nous lui devons appui ; car c'est notre confrère.
-
-**** *book_ *id_I02 *act_I *date_1760
-
--*who_monsieurfagot
-Un profane est ces lieux !... Que veut ce gros ventru ?
-Et parmi nous que vient-il faire ?
-
--*who_polichinelle
 Vous voyez un nouvel intru.
 
--*who_monsieursapin
-Est-il déjà dans le mystère ?
-
--*who_polichinelle
 C'est un bien beau secret ; n'est-il pas vrai, Patron ?
 Contez nous un peu ça ; je suis bon compagnon ;
 Là ; rendez-moi la chose claire.
 
--*who_monsieurfagot
-Entendra-t-il notre jargon ?
-
--*who_polichinelle
 J'ai vu plus fins que moi qui ne l'entendait guère.
 
--*who_monsieurfagot
-Ouais ! C'est un philosophe.
-
--*who_monsieursapin
-      Oh ! Oui, je crois qu'il l'est.
-
--*who_polichinelle
 Non. Mais je voudrais l'être ; et c'est là ma marotte.
 
--*who_monsieurfagot
-Il est du bois dont on les fait.
-
--*who_polichinelle
 Ou du bois dont on les fagotte.
 
--*who_monsieurfagot
-Mais il faudrait connaître tes talents.
-Dis-nous : dis nous quel est ton savoir faire ?
-
--*who_polichinelle
 Je suis de ce côté semblable à bien des gens,
 Je ne vaux rien sans un compère.
 
--*who_monsieurfagot
-Vraiment c'est l'homme qu'il nous faut ?
-Un homme qui n'ait point d'autre esprit que le nôtre :
-Que nous t'en donnerons !
-
--*who_polichinelle
       Parbleu, Monsieur Fagot,
 Que vous êtes un bon apôtre !
 Me bailler de l'esprit, à moi pauvre animal ?
 Je vous reconnais ; vous êtes libéral,
 Quand vous n'engagez rien du vôtre.
 
--*who_monsieursapin
-Orsus, écoute mon enfant ;
-Nous te recevons pour confrère,
-De ton aveu, tu n'es qu'un ignorant.
-Nous allons te faire pédant.
-
--*who_polichinelle
 Vous n'aurez pas grand changement à faire.
 
--*who_monsieursapin
-Polichinelle, mon ami,
-Pourquoi quittes-tu la Pratique ?
-
--*who_polichinelle
 J'ai de bonnes raisons pour ne agir ainsi ;
 Croyez que j'entends la rubrique.
 Vous savez qu'un marchand qui cherche son profit
@@ -156,157 +34,44 @@ Au lieu de la Pratique autrefois en crédit,
 Je prends celle des philosophes ;
 Car elle fait bien plus de bruit.
 
--*who_monsieursapin
-C'est très bien fait ; oui, c'est un parti sage.
-
--*who_monsieurfagot
-Songe à te mettre bien chez tous nos beaux esprits ;
-À tout ce qui vient d'eux rend un aveugle hommage,
-Et surtout, ne va pas admirant nos écrits,
-T'engourdir, et ronfler à la première page.
-
--*who_polichinelle
 Aucun de vos Écrits si sublime qu'il soit,
 Ne m'endormira, je vous le jure ;
 Car je ne sais pas lire.
 
--*who_monsieurfagot
-      Eh ! c'est par cet endroit
-Que ta gloire en devient plus sûre ;
-Car du moins les censeurs ne t'accuseront pas
-D'avoir pillé tout ce que tu diras.
-Ce n'est point le temps de dormir ;
-Notre état est sujet à mainte catastrophe
-Il est bon de t'en prévenir.
-
--*who_polichinelle
 N'importe ; il n'est rien qui m'émeuve.
 
--*who_monsieurfagot
-On te maltraitera de propos, à coup sûr.
-
--*who_polichinelle
 J'ai le tympan de l'oreille assez dur ;
 Là-dessus je suis à l'épreuve.
 
--*who_monsieursapin
-Oui, mais on te jouera.
-
--*who_polichinelle
       Le malheur n'est pas grand ;
 Je me vengerai par des Quand.
 
--*who_monsieurfagot
-Oui-da, cette formule apprête assez à rire,
-Son retour monotone aiguise la satire.
-Certain auteur célèbre un beau jour t'inventa,
-Tout Paris aussitôt en singe l'imita.
-
--*who_monsieursapin
-Ne peut-on pas trouver quelque autre particule
-Pour prêter a l'Auteur un nouveau ridicule ?
-
--*who_polichinelle
 Sans doute nous pouvons employer tour à tour
 Des car, des si, des mais, des quoi, des pour.
 
--*who_monsieurfagot
-Il faut te souvenir que la Philosophie
-Est, presqu'en tout, semblable à la maçonnerie :
-Le plus ou le moins des talents
-Nous est indifférent chez celui qui postule ;
-Et chez nous on reçoit tous les honnêtes gens
-Quand ils n'ont point trop de scrupule.
-
--*who_polichinelle
 Mais on m'a dit qu'il faut avoir
 Pour entrer dans la troupe un grand fonds de savoir.
 
--*who_monsieursapin
-Rien moins : ce serait duperie.
-
--*who_polichinelle
 Eh ! Que faut-il donc, je vous prie.
 
--*who_monsieursapin
-Il s'agit seulement d'accoupler de grands mots
-Faits pour éblouir le vulgaire,
-Que l'on répète à tout propos
-Et que soi-même n'entend guère.
-
--*who_polichinelle
 Quoi ? Sérieusement ?
 
--*who_monsieursapin
-      C'est là tout le secret ;
-La science consiste à savoir le livret.
-
--*who_polichinelle
 En ce cas je prends sur moi l'affaire,
 Je vous suis l'un et l'autre, et vais me mettre au fait.
 
-**** *book_ *id_I03 *act_I *date_1760
-
--*who_damegigogne
-Mon mari n'a-t-il pas vergogne
-De laisser tout à l'abandon ?
-Je gagerais qu'il est avec quelque tendron,
-Et qu'au premier bouchon enluminant sa trogne
-Il s'amuse sans vergogne à vider un flacon ;
-Mais je vais ventrebleu faire un beau carillon,
-Nous verrons s'il ne tient qu'à lamper du Bourgogne :
-Je vais mettre en entrant le feu dans la maison;
-Et puis je ferai voir à ce maître fripon
-Que le ressentiment de Madame Gigogne
-Est plus à redouter que celui de Junon.
-Ah ! Ah ! Vous voilà maître ivrogne ?
-
-**** *book_ *id_I04 *act_I *date_1760
-
--*who_damegigogne
-Vous vous donnez donc du bon temps,
-Vous contentez donc votre humeur libertine !
-Vous me laissez grosse de quatre enfants;
-Sans rien laisser à ma cuisine.
-
--*who_polichinelle
 Voyez le beau reproche. Eh! Que m'importe moi !
 J'ai mes plaisirs ; cherchez les vôtres.
 Le Sage ne vit que pour soi,
 Et ne doit point songer aux autres.
 
--*who_damegigogne
-Comment, maraud, n'es-tu pas mon mari ?
-Me dois-tu pas prendre soin du ménage ?
-
--*who_polichinelle
 Le sage ne prend nul souci;
 Le repos est son apanage.
 
--*who_damegigogne
-Eh ! Quoi ! Les noeuds du mariage...
-
--*who_polichinelle
 Fi donc ! Les préjugés, Madame, où vous voilà,
 Ne sont que pour les gens de la plus mince sorte.
 
--*who_damegigogne
-Eh ! Depuis quand sais-tu ces belles choses-là ?
-
--*who_polichinelle
 Depuis que je suis philosophe.
 
--*who_damegigogne
-Oh ! Oh ! Ne tient-il qu'à cela ?
-Mon cher époux, laissez-moi faire ;
-Je vais aussi sur ce pied là;
-M'initier dans le mystère ;
-Et puisque c'est à qui s'enphilosophera,
-Je veux savoir aussi si ce masque m'ira.
-
-**** *book_ *id_I05 *act_I *date_1760
-
--*who_polichinelle
 La voilà donc philosophesse !
 J'en ressens un plaisir réel :
 Car si Gigogne sait agir avec sagesse ;
@@ -317,9 +82,101 @@ Tirer un parti favorable
 De ma nouvelle qualité,
 Et mettre à ma boutique une enseigne honorable.
 
-**** *book_ *id_I06 *act_I *date_1760
+Tout beau. Qui frappe ainsi là-bas :
+Hélas ! Hé ! Doucement.
 
--*who_arlequin
+Quels gens êtes-vous ?
+
+C'est moi, Messieurs, que voulez-vous ?
+
+      Messieurs, point de courroux.
+Que veulent dire je vous prie
+Ces compliments ? Quoi donc ? Êtes-vous fous ?
+
+Écoutez, mes amis, je ne suis pas trop doux,
+Et si vous me mettez sur votre friperie...
+
+Je veux les assommer, et me faire justice.
+
+Mais, cette femme là n'est pas dans son vrai sens.
+
+Je n'approuve point cette mode.
+
+Peste : Elle parle comme un livre.
+
+Compère, je crois qu'elle est ivre.
+
+      Qu'est ceci ?
+
+      Compère, est-ce une fille ?
+
+      Qu'est-ce donc ?
+
+Cette femme a toujours aimé les pluriels ;
+C'était bien assez d'un, pourquoi m'en donner quatre ?
+
+Hé bien ! Achève.
+
+Il faut lui rendre grâce encore de sa largesse ;
+La coquine est féconde en tout, même en raisons.
+Allons servons-nous donc de ces petits fripons ;
+Mais foin de la philosophie,
+Foin de celui qui l'injurie,
+Foin de tout écrivain qui crie,
+Et qui dans ses écrits, décrie
+Celui qui contre lui s'écrie.
+Parlez-moi de mon cher ami,
+De mon féal et bon compère.
+Je ne veux vivre qu'avec lui ;
+Car d'un bon compère l'appui
+À tout le monde est nécessaire ;
+C'est ce que je prouve aujourd'hui
+Par des couplets à ma manière ;
+Car comme un autre j'en sais faire,
+Écoutez-nous bien, les voici.
+
+
+**** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gille
+
+      Non,
+Impertinent ! Et voilà pour t"apprendre.
+Me dire une injure. Un philosophe, moi ?
+J'aimerai mieux mille fois m'aller pendre :
+Je suis Gille ; et non pas philosophe.
+
+      D'accord. Je veux t'apprendre
+Le beau tour que m'ont fait ceux que l'on nomme ainsi.
+Moi qui suis volontiers sans trouble et sans souci,
+J'envoyai bonnement ma femme à leur école.
+Ça lui formait l'esprit ; oh ! Rien n'était plus drôle.
+Elle y profita tant qu'enfin, le croiras-tu,
+Qu'enfin, deux mois après la masque m'a battu.
+
+Que veux-tu donc de pis ?
+
+Je leur ferai bien voir de quel bois je me chauffe.
+
+T'auraient-ils dont aussi conseillé ?
+
+Tout ceci pour ton dos ne me dit rien de bon :
+J'entrevois aisément la fin de l'aventure,
+Ton maître t'a rossé de bonne façon.
+
+Mais oui, d'un frais battu tu portes t'encolure...
+Vois quelle est cette enseigne ; elle est celle que je crois,
+D'un philosophe.
+
+Va, cours vite, frappe à la porte,
+Frappe vite, te dis-je, et surtout fais en sorte
+Que l'ennemi ne nous échappe pas.
+
+      Nous demandons un sage.
+
+Nous déclarons la guerre à la Philosophie.
+
+
+**** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 Il faut que je sois un grand chien.
 Où sont-ils ces Docteurs tout remplis d'importance ;
 Dont j'ai consulté la science,
@@ -330,59 +187,26 @@ Qui m'attire aujourd'hui ce désastre affligeant.
 Je voudrais bien tenir quelqu'un de leur caballe :
 Le premier qui paraît, je l'assome à l'instant.
 
-**** *book_ *id_I07 *act_I *date_1760
-
--*who_arlequin
 Un inconnu vers moi s'avance ;
 Sachons s'il n'en est point : écoute, mon garcon
 N'es-tu pas philosophe ?
 
--*who_gille
-      Non,
-Impertinent ! Et voilà pour t"apprendre.
-Me dire une injure. Un philosophe, moi ?
-J'aimerai mieux mille fois m'aller pendre :
-Je suis Gille ; et non pas philosophe.
-
--*who_arlequin
       Ma foi
 C'est bien dit ; touche là.
 
--*who_gille
-      D'accord. Je veux t'apprendre
-Le beau tour que m'ont fait ceux que l'on nomme ainsi.
-Moi qui suis volontiers sans trouble et sans souci,
-J'envoyai bonnement ma femme à leur école.
-Ça lui formait l'esprit ; oh ! Rien n'était plus drôle.
-Elle y profita tant qu'enfin, le croiras-tu,
-Qu'enfin, deux mois après la masque m'a battu.
-
--*who_arlequin
 Quoi ? N'est-ce que cela ? C'est bagatelle pure,
 Et j'appréhendais ; je te jure,
 Quelque accident pour toi bien plus fâcheux.
 
--*who_gille
-Que veux-tu donc de pis ?
-
--*who_arlequin
       Je ne sais ; mais j'augure
 Que Gille des maris n'est pas leplus chanceux.
 Ta femme est femme et de plus philosophe.
 
--*who_gille
-Je leur ferai bien voir de quel bois je me chauffe.
-
--*who_arlequin
 Oui, c'est un tour très mal plaisant,
 Que sur la secte il faut poursuivre.
 J'approuve ton sentiment,
 Il faut leur enseigner à vivre.
 
--*who_gille
-T'auraient-ils dont aussi conseillé ?
-
--*who_arlequin
       Oui vraiment ;
 Je portais à mon maître un fromage excellent ;
 Très propre à réjouir l'odorat et la vue,
@@ -406,222 +230,12 @@ Je n'envisageai plus que mon propre avantage,
 J'écoutai, je suivis un conseil imprudent
 Et bref, j'avalai le fromage.
 
--*who_gille
-Tout ceci pour ton dos ne me dit rien de bon :
-J'entrevois aisément la fin de l'aventure,
-Ton maître t'a rossé de bonne façon.
-
--*who_arlequin
 Il m'en reste une courbature
 Qui prouve que Gille a raison.
 
--*who_gille
-Mais oui, d'un frais battu tu portes t'encolure...
-Vois quelle est cette enseigne ; elle est celle que je crois,
-D'un philosophe.
-
--*who_arlequin
       Oui par ma foi.
 
--*who_gille
-Va, cours vite, frappe à la porte,
-Frappe vite, te dis-je, et surtout fais en sorte
-Que l'ennemi ne nous échappe pas.
-
-**** *book_ *id_I08 *act_I *date_1760
-
--*who_polichinelle
-Tout beau. Qui frappe ainsi là-bas :
-Hélas ! Hé ! Doucement.
-
--*who_arlequin
       Ô le plaisant visage !
 
--*who_polichinelle
-Quels gens êtes-vous ?
-
--*who_gille
-      Nous demandons un sage.
-
--*who_polichinelle
-C'est moi, Messieurs, que voulez-vous ?
-
--*who_arlequin
 Nous voulons t'étrangler.
 
--*who_polichinelle
-      Messieurs, point de courroux.
-Que veulent dire je vous prie
-Ces compliments ? Quoi donc ? Êtes-vous fous ?
-
--*who_gille
-Nous déclarons la guerre à la Philosophie.
-
--*who_polichinelle
-Écoutez, mes amis, je ne suis pas trop doux,
-Et si vous me mettez sur votre friperie...
-
-**** *book_ *id_I09 *act_I *date_1760
-
--*who_monsieursapin
-Mon cher Polichinelle ? Arrêtez. Qu'avez-vous ?
-
--*who_polichinelle
-Je veux les assommer, et me faire justice.
-
--*who_monsieursapin
-La loi ne permet pas cela.
-Mais quel étrange forme ! Et qu'aperçois-je là ?
-Est-ce donc elle ? Oui ; mais par quel caprice ?
-Dame Gigogne, eh ! Quoi ? Vous moquez-vous des gens ?
-
-**** *book_ *id_I10 *act_I *date_1760
-
--*who_polichinelle
-Mais, cette femme là n'est pas dans son vrai sens.
-
--*who_damegigogne
-J'ai pris le bon parti ; croyez-moi mes enfants ;
-« Pour la Philosophie un goût à qui tout cède,
-M'a fait choisir exprès l'état de quadrupède :
-J'invite même ici le sexe à m'imiter,
-Du moins ; si mon exemple a de quoi le tenter.»
-
--*who_polichinelle
-Je n'approuve point cette mode.
-
--*who_damegigogne
-Croyez que cette marche est bien la plus commode.
-« L'homme s'est fait esclave en se donnant des lois,
-Et tout n'irait que mieux s'il vivait dans les bois.
-Pour moi, je goûterais une volupté pure
-À nous voir tous rentrer dans l'état de nature. »
-
--*who_monsieursapin
-Où diantre a-t-elle pris ces gentillesses-là ?
-
--*who_polichinelle
-Peste : Elle parle comme un livre.
-
--*who_monsieursapin
-Eh ! Que n'en fait-elle un ?
-
--*who_damegigogne
-      Un livre ! Et mais, oui-dà.
-L'idée est assez bonne ; et je prétends la suivre.
-Un instant. Attendez-moi là.
-
--*who_polichinelle
-Compère, je crois qu'elle est ivre.
-
--*who_damegigogne
-Au secours, mes amis! Je crains de me livrer
-Au Dieu qui daigne m'inspirer,
-Je vois son flambeau qui m'éclaire,
-Je sens que le génie opère.
-Aï ! Aï ! Aï !
-
--*who_polichinelle
-      Qu'est ceci ?
-
--*who_monsieursapin
-      Veut-elle plaisanter ?
-Qu'avez-vous ?
-
--*who_damegigogne
-      Ah ! Je sens que je vais enfanter.
-J'accouche. Aï ! Aï ! Aï ! Aï !
-
--*who_polichinelle
-      Compère, est-ce une fille ?
-
--*who_monsieursapin
-Non.
-
--*who_polichinelle
-      Qu'est-ce donc ?
-
--*who_damegigogne
-      Ce sont quatre fils naturels.
-À qui tu tiendras de Père de famille.
-
--*who_polichinelle
-Cette femme a toujours aimé les pluriels ;
-C'était bien assez d'un, pourquoi m'en donner quatre ?
-
--*who_damegigogne
-J'ai tout fait pour le mieux, et n'en puis rien rabattre.
-Ne sais-tu pas mon cher, qu'après le dénouement;
-(Car mon second accouchement
-En est un bien complet et de la bonne espèce...)
-
--*who_polichinelle
-Hé bien ! Achève.
-
--*who_damegigogne
-      Hé bien ! Après la pièce
-Il nous fallait bien un Ballet ;
-Peut-on mieux l'amener ; dis ! Le voilà tout à fait.
-
--*who_polichinelle
-Il faut lui rendre grâce encore de sa largesse ;
-La coquine est féconde en tout, même en raisons.
-Allons servons-nous donc de ces petits fripons ;
-Mais foin de la philosophie,
-Foin de celui qui l'injurie,
-Foin de tout écrivain qui crie,
-Et qui dans ses écrits, décrie
-Celui qui contre lui s'écrie.
-Parlez-moi de mon cher ami,
-De mon féal et bon compère.
-Je ne veux vivre qu'avec lui ;
-Car d'un bon compère l'appui
-À tout le monde est nécessaire ;
-C'est ce que je prouve aujourd'hui
-Par des couplets à ma manière ;
-Car comme un autre j'en sais faire,
-Écoutez-nous bien, les voici.
-
-**** *book_ *id_I11 *act_I *date_1760
-
--*who_tous
-Ceci n'est point une satire
-Qui pourrait nous accuser ?
-Messieurs nous ne cherchons qu'à rire
-Notre seul but est d'amuser
-Si nos jeux ont de quoi vus plaire
-Venez à Passy quelques fois.
-Voir les philosophes de bois
-Polichinelle et son compère.
-Dans tous les cafés de la ville
-Auteurs crottés, abbés blondins,
-D'une façon fort incivile
-Font l'éloge de nos voisins ;
-En arts, en sciences en guerre,
-On veut en tout nous voir soumis,
-Pour exalter nos ennemis
-Il est chez nous plus d'un compère.
-Lise à quinze ans simple grisette,
-Avait gentillesse et fraîcheur,
-Mais retirée en sa chambrette
-Elle était sans adorateur :
-Un vieux chevalier la déterre,
-La promène en robe d'été ;
-On la court ; c'est une beauté ;
-Lise avait besoin d'un compère.
-Des auteurs bruyants se chamaillent,
-Libelles volent des deux parts,
-L'honnête public qu'ils tiraillent
-Rit bonnement de leurs écarts ;
-Mais lui seul, dupe du mystère,
-Prenant parti dans le combat,
-Ne voit pas que dans leur débat,
-L'un à l'autre sert de Compère.
-Il faut avoir bien de l'adresse,
-Pour plaire sans être méchant,
-Et je dois craindre que ma pièce
-N'ait pas votre applaudissement :
-Car le suffrage du parterre
-Ne s'accordent qu'aux bons auteurs
-On ne peut gagner ses faveurs,
-Par commère, ni par Compère.

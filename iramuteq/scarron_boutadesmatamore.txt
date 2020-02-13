@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1646 *creator_scarron
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
 
--*who_matamore
 Un jour je m'en souviens, les Dieux à leur malheur
 Choquèrent ma valeur,
 Ce céleste troupeau, cette engeance suprême,
@@ -68,9 +67,6 @@ Bref, je ne lui laissai parbleu que les os,
 Et je la mis enfin en si pauvre posture,
 Que je la fis alors comme on nous la figure.
 
-**** *book_ *id_I02 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je suis l'effroi des Capitans,
 Et la terreur des indomptables.
 Mes bras nerveux et redoutables
@@ -122,9 +118,6 @@ Ou que dans l'excès de ma rage
 Pour me venger de cet outrage
 Je me prépare à la manger.
 
-**** *book_ *id_I03 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je t'apprends que la mort est toujours avec moi,
 Que j'ai pour compagnons le carnage et l'effroi,
 Et que de quelque part que je tourne la vue,
@@ -186,9 +179,6 @@ C'est de moi seulement qu'elle tient son emploi,
 Et je fais dévaler plus d'esprits sous la terre,
 Que la contagion, la famine et la guerre.
 
-**** *book_ *id_I04 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je suis le fléau des Pervers,
 Et le foudre de la Vaillance
 De qui la fatale influence
@@ -200,9 +190,6 @@ Bref, c'est moi qui suis l'effroyable,
 Le dompteur, comme l'indomptable,
 Moi qui fus et qui suis, et qui serai toujours.
 
-**** *book_ *id_I05 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Tout palpite par où je passe,
 Tout tremblote dessous mes pas,
 Tout court de vitesse au trépas,
@@ -274,9 +261,6 @@ Et prenant le monde au collet,
 Je ferai de toute la terre
 Une balle d'arc à jalet.
 
-**** *book_ *id_I06 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Quand mon âme en serait à jamais désolée,
 Je ne saurais celer que j'aime Amarillée ;
 Son esprit admirable, et qui n'ignore rien,
@@ -346,9 +330,6 @@ Vous présenter mon coeur, vous offrir mon service,
 Vous immoler mon âme, et m'estimer heureux
 De me sacrifier aux moindres de vos voeux.
 
-**** *book_ *id_I07 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je suis le seul Auteur de toute la Nature,
 Les Dieux sont mes sujets, l'Homme ma Créature,
 L'Enfer est mon esclave, et les esprits damnés,
@@ -464,9 +445,6 @@ Par mon commandement il contemple les Cieux,
 Et regardant sans cesse une telle merveille,
 Sa joie est infinie, et n'a point de pareille.
 
-**** *book_ *id_I08 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Par le seul bruit de mes combats,
 Tout est vaincu, tout est à bas,
 La terre et les rochers en sont réduits en poudre,
@@ -522,9 +500,6 @@ Mais, ô Dieux ! N'en approche pas :
 Car le seul vent de ton haleine,
 Sans doute jetterait tout l'édifice à bas.
 
-**** *book_ *id_I09 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Hé bien, Messieurs, depuis longtemps
 Vous n'avez point vu ce visage :
 Mais prenez garde, pauvres gens
@@ -574,9 +549,6 @@ Toutes leurs facultés ont perdu leur science,
 Et mes regards leur sont si sots et si badins,
 Que toutes fuient ma présence.
 
-**** *book_ *id_I10 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Hé bien, que dites-vous de cet oeil sourcilleux ?
 Ne suis-je pas merveilleux,
 Bien composé, bien fait, bien beau, bien estimable,
@@ -628,9 +600,6 @@ La terreur m'abandonne et l'effroi se retire,
 Et rien que le penser de chanter et de rire
 N'occupe les esprits de ce prodigieux.
 
-**** *book_ *id_I11 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Ah ! Ventre, que je suis joyeux !
 De voir de si divins visages,
 Tant de beautés charment mes yeux,
@@ -662,9 +631,6 @@ Et beaucoup de contentement,
 En quel aise faut-il qu'un amoureux se noie
 Lorsqu'il a du soulagement.
 
-**** *book_ *id_I12 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je te le dis encor, je suis l'honneur du monde,
 Le Soleil qui voit tout en cette masse ronde,
 Peut bien dire au mépris des hommes et des Dieux,
@@ -710,9 +676,6 @@ Cette belle action ne te saurait déplaire,
 Puisque dans ma beauté, mes bras et mes regards,
 Tu vois encor l'Amour, Vénus et le Dieu Mars.
 
-**** *book_ *id_I13 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Dieux ! Que je suis épouvantable,
 Que mon aspect est dangereux !
 Ah ! Que ceux-là sont bien heureux,
@@ -774,9 +737,6 @@ En voyant mon regard altier :
 Mes rudes mains vous les déchirent,
 Comme des feuilles de papier.
 
-**** *book_ *id_I14 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Hé bien, chers auditeurs, que vous êtes surpris
 De voir ce merveilleux dedans un tel débris !
 Vous croyez me voyant dans un tel équipage,
@@ -838,9 +798,6 @@ Allons-en demander à celui que je vois,
 Je le volerais bien sans qu'il s'en pût défendre,
 Mais j'aime mieux trucher que de me faire pendre.
 
-**** *book_ *id_I15 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Lorsque par divertissement
 J'entrepris de faire la guerre
 Pour subjuguer toute la terre
@@ -892,9 +849,6 @@ La cajoler et la séduire
 Par le charme de mon bien dire,
 Afin de m'efforcer de l'enjobeliner.
 
-**** *book_ *id_I16 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Oui, je m'en souviens, que depuis quelque temps
 Pour rendre absolument tous mes désirs contents,
 J'ai mis dessus le gril de même que des huîtres
@@ -946,9 +900,6 @@ Et comme auparavant troubler toute la terre :
 Mais premier que d'aller visiter les combats,
 Je vais me marier à d'aimables appas.
 
-**** *book_ *id_I17 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Qui saurait dire le courage,
 Dont je me trouve revêtu ?
 Pour bien parler de ma vertu,
@@ -990,9 +941,6 @@ Pour me plonger dans les regrets :
 Mais par la mort, si je l'attrape
 Je lui couperais les jarrets.
 
-**** *book_ *id_I18 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Enfin quand ce discours me coûterait la vie,
 Il est temps de parler, je vous aime Livie,
 Vous voyez bien qu'Amour a causé mon ennui,
@@ -1090,9 +1038,6 @@ Sera cru, si la mort n'empêche de le dire ;
 Ma plainte est inutile, et vos pleurs superflus,
 On verra mon amour, quand vous ne verrez plus.
 
-**** *book_ *id_I19 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 À genoux, ou n'arrête pas,
 Ici gît le grand Matamore,
 La mort qui fut de ses soldats,
@@ -1154,9 +1099,6 @@ Et Lachese, Atrope et Cloton,
 Minos, Radamante et Pluton
 Sont ses valets de garde-robe.
 
-**** *book_ *id_I20 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je confesse bien que la vie
 Des guerriers qui sont aux tombeaux ;
 Laissent des exemples si beaux
@@ -1218,9 +1160,6 @@ Je n'ai ni force ni vertu,
 Aussi quand je les vois ensemble,
 Je fuis de peur d'être battu.
 
-**** *book_ *id_I21 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Dieux ! Qu'on serait bien étonnant,
 Si l'on mettait dedans un livre,
 La terrible façon de vivre,
@@ -1318,9 +1257,6 @@ Devant les féminines faces,
 Pour posséder leurs bonnes grâces,
 Et les contraindre à m'adorer.
 
-**** *book_ *id_I22 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Ne trouvez pas mauvais visages magnifiques,
 Si je ne parle plus qu'en beaux vers héroïques.
 Puisque enfin les vers sont le langage des Dieux,
@@ -1363,24 +1299,12 @@ Un seul de ses regards alentira mes feux,
 Et me pourra donner la gloire que je veux.
 Holà.
 
--*who_bonniface
-      Qui frappe-là ?
-
--*who_matamore
       Qui ventre ? L'effroyable,
 C'est l'enfant du Déluge, et le cousin du diable.
 
--*who_bonniface
-Que voulez-vous ?
-
--*who_matamore
       Comment, vous ne frémissez pas ?,
 Voyant l'horrible port de ce grand Fier-à-bras ?
 
--*who_bonniface
-Frémir en vous voyant, j'aurais peu de courage !
-
--*who_matamore
 Ah viens nez d'esturgeon, tête bleu, ce visage
 Est plus à redouter que le foudre des Cieux :
 Je me moque du Sort, et je nargue les Dieux.
@@ -1393,369 +1317,129 @@ Les plus déterminés perdent leur assurance.
 En ma comparaison, ce sont poltrons parfaits,
 Et tous les Amadis ne sont que des baudets.
 
--*who_bonniface
-Vous de qui les habits sont chamarrés d'oreilles,
-Crieur de mort aux rats, saccageur de bouteilles.
-Avaleur de pois gris, écraseur d'escargots
-Dont le dos est si propre à porter des fagots.
-Vous qui ne voudriez pas, vous égaler un homme
-De l'Histoire de Grèce, où de celle de Rome.
-Je gage d'en nommer, en présence de tous,
-Deux mille plus vaillants, et plus sages que vous.
-
--*who_matamore
 Qui sont-ils ?
 
--*who_bonniface
-      Attendez je vais quérir le livre.
-
--*who_matamore
 Ha ventrebleu ! Je crois que ce bonhomme est ivre :
 Il a perdu l'esprit, son jugement se perd,
 Le voici qui revient : hé bien vieux ladre vert,
 Vous avez donc bientôt trouvé votre science ?
 
--*who_bonniface
-Oui, voici mon Plutarque.
-
--*who_matamore
       Ah ventre !
 
--*who_bonniface
-      Patience.
-
--*who_matamore
 Nomme, nomme-les-moi, ces illustres Héros,
 Et je te ferai voir qu'ils avaient des défauts.
 Des imperfections, des vices en grand nombre,
 Et que je suis un corps dont ils n'étaient que l'ombre.
 
--*who_bonniface
-Vous vous moquez, allez vous êtes insensé :
-Thésée.
-
--*who_matamore
       Ah tête-bleu, qu'il a bien commencé
 Thésée malheureux, ce rapineur d'élite,
 Que tu crois si parfait, et rempli de mérite,
 Ne fut qu'un vagabond, un batteur de pavé.
 
--*who_bonniface
-Romule.
-
--*who_matamore
       Un fils de louve, un pauvre enfant trouvé.
 
--*who_bonniface
-Licurgue.
-
--*who_matamore
       Fabriqua de la fausse monnaie.
 
--*who_bonniface
-Numa.
-
--*who_matamore
       Prenait avis d'une fille de joie.
 
--*who_bonniface
-Solon.
-
--*who_matamore
       Sa marchandise offusqua son renom.
 
--*who_bonniface
-Publicolle.
-
--*who_matamore
       En un jour abolit sa maison.
 
--*who_bonniface
-Thémistocles.
-
--*who_matamore
       À son dam aima trop son Image.
 
--*who_bonniface
-Camille.
-
--*who_matamore
       À ses soldats ravissait le pillage.
 
--*who_bonniface
-Périclès.
-
--*who_matamore
       Son gros chef s'est toujours fait moquer.
 
--*who_bonniface
-Fabie.
-
--*who_matamore
       Était trop doux et trop long à choquer.
 
--*who_bonniface
-Alcibiade.
-
--*who_matamore
       Un prodigue orné de menterie.
 
--*who_bonniface
-Coriolan.
-
--*who_matamore
       Sa mère apaisa sa furie.
 
--*who_bonniface
-Paul-Émile.
-
--*who_matamore
       Un maraud, un gouverneur d'enfants.
 
--*who_bonniface
-Timoléon.
-
--*who_matamore
       Ce fou courut vingt ans les champs.
 
--*who_bonniface
-Pélopidas.
-
--*who_matamore
       Sa mort l'accuse d'imprudence.
 
--*who_bonniface
-Marcellus.
-
--*who_matamore
       Manqua d'heur comme d'expérience.
 
--*who_bonniface
-Aristides.
-
--*who_matamore
       Ce fat ne fut trouvé qu'un gueux.
 
--*who_bonniface
-Marc Caton.
-
--*who_matamore
       Ce rousseau faisait trop le hargneux.
 
--*who_bonniface
-Philopemen.
-
--*who_matamore
       Périt par son humeur hautaine.
 
--*who_bonniface
-Quintus.
-
--*who_matamore
       Fit une tache à la Grandeur Romaine.
 
--*who_bonniface
-Pyrrhus.
-
--*who_matamore
       Un coup de pierre abattit ce guerrier.
 
--*who_bonniface
-Caïus.
-
--*who_matamore
       Fit la grenouille au milieu d'un bourbier.
 
--*who_bonniface
-Lisander.
-
--*who_matamore
       Ce trompeur périt par tromperie.
 
--*who_bonniface
-Silla.
-
--*who_matamore
       Fut plein de rage et de forcenerie.
 
--*who_bonniface
-Simon.
-
--*who_matamore
       À ses plaisirs fut trop adonné.
 
--*who_bonniface
-Lucule.
-
--*who_matamore
       Des Soldats se vit abandonné.
 
--*who_bonniface
-Nicé.
-
--*who_matamore
       Ce Capitaine avait le coeur de tremble.
 
--*who_bonniface
-Crassus.
-
--*who_matamore
       Était avare, et poltron tout ensemble.
 
--*who_bonniface
-Sertorius.
-
--*who_matamore
       Ce borgne a passé pour sorcier.
 
--*who_bonniface
-Euménès.
-
--*who_matamore
       Était fils d'un noble carrossier
 
--*who_bonniface
-Agésilas.
-
--*who_matamore
       Fort bien avec sa jambe courte.
 
--*who_bonniface
-Pompée.
-
--*who_matamore
       Il perdit coeur après une déroute.
 
--*who_bonniface
-Alexandre.
-
--*who_matamore
       Alexandre, il aimait trop le vin.
 
--*who_bonniface
-Jules.
-
--*who_matamore
       Il fut vaillant, mais non pas assez fin.
 
--*who_bonniface
-Phocion.
-
--*who_matamore
       Cet oiseau se laissa mettre en cage.
 
--*who_bonniface
-Caton.
-
--*who_matamore
       Se fit mourir à force de courage.
 
--*who_bonniface
-Cléoménes, Agis.
-
--*who_matamore
       Ils n'ont rien fait de beau.
 
--*who_bonniface
-Les Gracques.
-
--*who_matamore
       Ces mutins avaient trop de cerveau.
 
--*who_bonniface
-Démosthènes.
-
--*who_matamore
       Mourut en suçant une plume.
 
--*who_bonniface
-Cicéron.
-
--*who_matamore
       Se parait de la peau d'un volume.
 
--*who_bonniface
-Démétrie.
-
--*who_matamore
       Un gourmand, de vices revêtu.
 
--*who_bonniface
-Antoine.
-
--*who_matamore
       En Cléopâtre étouffa sa vertu.
 
--*who_bonniface
-Artaxerce.
-
--*who_matamore
       Un inceste, un fratricide infâme.
 
--*who_bonniface
-Dion.
-
--*who_matamore
       De son vivant on lui gardait sa femme.
 
--*who_bonniface
-Brute.
-
--*who_matamore
       Fut un perfide, et l'horreur des humains.
 
--*who_bonniface
-Aratus.
-
--*who_matamore
       Mit sa garde en de mauvaises mains.
 
--*who_bonniface
-Galba.
-
--*who_matamore
       Monta bien haut, lorsqu'il fallait descendre.
 
--*who_bonniface
-Othon.
-
--*who_matamore
       Cet Empereur ne valait pas le pendre.
 
--*who_bonniface
-Annibal.
-
--*who_matamore
       Négligea l'excès de son bonheur.
 
--*who_bonniface
-Scipion.
-
--*who_matamore
       De Guerrier devint un laboureur.
 
--*who_bonniface
-Épaminondas.
-
--*who_matamore
       Pauvre, et de naissance oblique.
 
--*who_bonniface
-Philippe.
-
--*who_matamore
       Un tracasseur de Liberté publique.
 
--*who_bonniface
-Denis.
-
--*who_matamore
       Faisait sa barbe avec des tisons.
 
--*who_bonniface
-César Auguste.
-
--*who_matamore
       Ah ventre, arrête là tes noms !
 Ne te travaille plus, finis cette remarque,
 Je sais que tu m'allais encor nommer Plutarque.
@@ -1770,24 +1454,8 @@ Je m'en vais de ce pas t'arracher les paupières,
 Te percer l'estomac, te déchirer le flanc,
 Et faire de ton corps un déluge de sang.
 
--*who_bonniface
-Et toi, si tu ne prends la fuite à mes prières,
-Je te vais de ce pas donner les étrivières.
-De mille coup de fouets te déchirer le flanc,
-Et faire de ton corps un déluge de sang.
-
--*who_matamore
 Ah ventre !
 
--*who_bonniface
-      Ah par la mort, il faut que je te tue !
-Comme le drôle fuit : je l'ai perdu de vue.
-Et ce vaillant guerrier si redouté de Mars,
-Ne peut souffrir sans peur, un seul de mes regards.
-
-**** *book_ *id_I23 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je l'avoue, il est vrai, perpétuellement
 Je suis dans une humeur de rage et de furie,
 Je songe incessamment à quelque diablerie,
@@ -1837,9 +1505,6 @@ De rage, et de fureur
 J'ai roué la Fortune,
 Écorché le Hasard, et pendu le Malheur.
 
-**** *book_ *id_I24 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Je suis exempt de passion,
 Pour les trésors, et les richesses,
 Le seul objet de mes prouesses,
@@ -1851,9 +1516,6 @@ Faire des montagnes de Corps,
 Et ne manquer jamais de Gloire,
 N'est-ce pas avoir des trésors ?
 
-**** *book_ *id_I25 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Hé bien vous voilà trop payés,
 De votre injuste impatience,
 Vous jouissez de ma présence,
@@ -1925,9 +1587,6 @@ De donner sans cesse la vie,
 Et moi contraire à son envie,
 Je donne incessamment la mort.
 
-**** *book_ *id_I26 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Enfin les beautés de la Terre,
 Rendent honneur à mes beaux yeux,
 Leur naturel si glorieux
@@ -1989,9 +1648,6 @@ Je redoute que son époux,
 Sachant que je retiens ses beautés prisonnières,
 Ne me brise les os de mille horribles coups.
 
-**** *book_ *id_I27 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Ah, ventre, que je suis joyeux !
 De voir de si divins visages,
 Tant de beautés charment mes yeux,
@@ -2023,9 +1679,6 @@ Et des plaisirs en quantité :
 En quel aise faut-il qu'un amoureux se noie,
 Lorsqu'il embrasse sa beauté ?
 
-**** *book_ *id_I28 *act_I *date_1646 *creator_scarron
-
--*who_matamore
 Hé bien, il y a fort longtemps
 Que vous n'avez vu ce visage,
 Mais prenez garde, pauvres gens,
@@ -2075,9 +1728,9 @@ Toutes leurs facultés ont perdu leur science :
 Et mes regards leur sont si sots et si badins,
 Que toutes fuient ma présence.
 
-**** *book_ *id_II01 *act_II *date_1646 *creator_scarron
 
--*who_lecapitaine
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lecapitaine
+
 Oui, c'est trop frénétiquement,
 Fuir abominablement :
 Tout ce qui spécifiquement,
@@ -2101,10 +1754,6 @@ Holà, sortez hâtivement,
 Sinon, parbleu, robustement
 J'écraserai le bâtiment.
 
--*who_angelique
-Hé, qui frappe si rudement ?
-
--*who_lecapitaine
 C'est un faiseur d'égorgement,
 Ô Dieux ! Le beau commencement,
 Voilà celle que chastement,
@@ -2123,126 +1772,23 @@ Et jurez réciproquement
 De m'aimer furieusement
 Jusqu'à votre trépassement.
 
--*who_angelique
-J'estime votre compliment,
-Mais, Monsieur, véritablement
-Vous me voulez trop promptement,
-Jeter dans un engagement,
-Duquel on ne peut aisément
-Se défaire qu'au monument.
-Ce front, ces yeux, ce mouvement,
-Ce ventre et cet accoutrement
-Me captivent superbement.
-Mais de crainte d'achoppement
-Je veux tout faire mûrement :
-Attendez un peu seulement :
-
--*who_lecapitaine
 Vous en allez-vous ?
 
--*who_angelique
-      Non vraiment,
-Je retourne subitement.
-Chère Alison.
-
--*who_alison
-      Quoi ?
-
--*who_angelique
-      Prestement.
-
--*who_alison
-Que voulez-vous ?
-
--*who_angelique
-      Viens vitement.
-
--*who_alison
-Hé bien.
-
--*who_angelique
-      Que tu vas lentement !
-
--*who_alison
-Hé qui pourrait plus diablement
-Vous aborder diligemment,
-Qu'avez-vous donc ?
-
--*who_angelique
-Tout bellement,
-Écoute un mot secrètement.
-Regarde un peu ce garnement,
-Vois comme sérieusement,
-Il se promène gravement.
-Il va majestueusement
-Il se moque Royalement,
-Il vient Seigneurialement,
-Et ses yeux meurtrièrement
-Donnant de l'épouvantement,
-Me charment insensiblement.
-
--*who_alison
-Ah, quelle trogne de gourmand,
-Je crois, qu'indubitablement
-Il mangerait un Régiment
-De même qu'un grain de froment.
-
--*who_angelique
-Tu parle irrégulièrement,
-Il m'a miraculeusement
-Soumise à son commandement.
-
--*who_lecapitaine
 Ventre, elle en tient, mais fermement,
 Je le connais évidemment.
 
--*who_angelique
-Je lui vais dire ingénument
-Que je l'aime violemment.
-
--*who_alison
-Arrêtez-vous, effrénément
-Vous en aller absurdement
-Prostituer enragement,
-À celui qui bizarrement
-N'a pour tout divertissement
-Qu'à faire du saccagement.
-Je le connais parfaitement,
-C'est un assommeur de jument,
-Qui met sempiternellement
-Quelques puces au monument,
-
--*who_lecapitaine
 Ô vieille garce d'Allemand !
 Dis, parle à moi sincèrement,
 Déclare-moi naïvement,
 Ce qui t'oblige insolemment
 De troubler mon contentement.
 
--*who_angelique
-Pardonnez-lui, soyez clément.
-
--*who_lecapitaine
 Si j'entrais plus profondément,
 Dans le séjour du troublement,
 Le feu de mes yeux brusquement,
 Par un étrange embrasement
 La brûlerait en un moment.
 
--*who_alison
-Voilà mentir impudemment,
-Ô qu'il abuse excellemment
-De tous ceux qui crédulement
-Croient à son cajolement !
-J'enrage de forcènement,
-D'ouïr mentir si puamment,
-Ô détestable parement
-De gibet. Quel aveuglement
-Te fait si désordonnément
-Parler hyperboliquement,
-Ô qu'il est sot certainement !
-
--*who_lecapitaine
 Ah, ventrebleu, ce grognement
 Me tarabuste tellement,
 Que si présomptueusement
@@ -2251,63 +1797,12 @@ Tu n'apportes du changement
 Je te mettrai bourellement
 Dedans l'anéantissement.
 
--*who_angelique
-Je crois avec étonnement
-Que quelque horrible enchantement,
-Me contraint incivilement
-À parler impertinemment :
-Va-t'en, mais bien agilement.
-
--*who_alison
-Vous me frappez injustement,
-Je vous le dis succinctement.
-
--*who_angelique
-Et je te dis prolixement
-Que tu t'en aille habilement
-
--*who_alison
-Ô j'aurai du ressentiment !
-De ce que si cruellement
-Vous me battez iniquement.
-
--*who_angelique
-Fuis donc ?
-
--*who_alison
-      Hé bien.
-
--*who_angelique
-      Indignement,
-Oser licencieusement
-Donner du mécontentement
-À cet aimable : ô galamment
-Je te forcerai dextrement
-De te comporter droitement.
-
--*who_lecapitaine
 Mon coeur, faites modestement
 Apportez du tempérament
 À ce fâcheux déportement
 Il vous faut coléreusement
 Crier épouvantablement.
 
--*who_angelique
-Quoi ? Monsieur, si visiblement
-Vous offenser déplaisamment :
-Comme irrespectueusement
-Elle m'a détestablement
-Mise trop indiscrètement
-Dedans un tel criaillement.
-Je sais que généreusement
-Quand bien elle eût en vous blâmant
-Fait encore plus pirement,
-Qu'à cause de l'habillement
-Et de son sexe assurément
-Vous eussiez glorieusement
-Supporté son jargonnement.
-
--*who_lecapitaine
 Vous parlez prophétiquement,
 Mais, changeons de raisonnement.
 Quand voulez-vous que sûrement
@@ -2315,276 +1810,20 @@ Je vienne ici joyeusement
 Pour matrimonialement
 Nous assembler allègrement ?
 
--*who_angelique
-Pour ce point-là modestement
-Il faudrait sans délayement
-Aller parler éloquemment
-À celui qu'équitablement
-J'estime émerveillablement.
-
--*who_lecapitaine
 À votre père ?
 
--*who_angelique
-      Justement.
-
--*who_lecapitaine
 Bien, attendez patiemment ;
 Je reviendrai soudainement,
 Pour lui parler facondement,
 Et pour presser l'avancement
 De notre bel accouplement.
 
--*who_angelique
-Que j'en suis aise. Adieu, charmant.
-
--*who_lecapitaine
 Adieu sujet de mon tourment.
 Que je ferai friponnement
 Un grotesque frétillement,
 Quand par un doux embrassement
 Nous nous baiserons vivement.
 
-**** *book_ *id_II02 *act_II *date_1646 *creator_scarron
-
--*who_philipin
-Finissez donc résolument
-Ce frénétique brouillement,
-Allez-vous en fort gentiment
-L'entretenir accortement,
-Tous deux incomparablement,
-Vous l'aimez excessivement ;
-Mais je vous conjure instamment
-De vouloir pacifiquement
-Vous accorder gaillardement.
-
--*who_beau_chateau
-Je le veux, l'accommodement
-N'est pas trop mal adroitement
-Formé pour notre appointement,
-Pourvu que préalablement
-Il proteste inviolablement
-De s'arrêter au jugement
-Qu'elle fera : car autrement
-Nous nous frotterions vaillamment.
-
--*who_philipin
-C'est parler équitablement,
-Répondez-lui donc franchement.
-Voulez-vous pas tout chaudement
-Donner votre consentement,
-Pour faire que paisiblement
-Vous viviez fraternellement.
-
--*who_beau_lieu
-Je ne l'entends pas clairement,
-Et je ne l'ai qu'obscurément
-Compris intérieurement,
-Redis-le donc nettement
-Et plus intelligiblement.
-
--*who_philipin
-C'est qu'il faut nécessairement
-Que tous deux unanimement,
-Vous vous en alliez proprement
-Voir le visage qu'ardemment
-Vous chérissez également.
-Vous lui direz élégamment
-De vous ôter bénignement
-D'un bruit, duquel sinistrement
-Ne peut sortir apertement
-Sinon qu'un embarrassement,
-Qui, peut-être, mortellement
-Vous priverait de sentiment.
-Que pour finir brièvement,
-À qui tumultueusement
-Vous force ambitieusement
-À vous quereller follement :
-Qu'elle choisisse joliment
-Celui qui plus poupinement
-Lui touche l'âme doucement.
-
--*who_beau_lieu
-Ô que je ferais sciemment :
-Un effroyable manquement
-Si je voulais obstinément
-M'opposer à ce règlement,
-Allons donc tout recentement,
-La voir en son appartement.
-
--*who_beau_chateau
-Mais Alison chagrinement
-Nous aborde fâcheusement.
-
--*who_philipin
-Qu'as-tu, tu vas si tristement
-Qu'on juge indubitablement,
-Que quelque étrange changement
-Te persécute horriblement.
-
--*who_alison
-Ô je suis dévergondement
-Dans un cruel pétillement,
-Et je voudrais éperdument
-Que l'on me pendît faussement,
-Ou, que l'on m'allât abîmant
-Jusqu'au fond du Firmament.
-
--*who_philipin
-Quel étrange dévoiement
-Te fait démoniaquement
-Soupirer si péniblement ?
-
--*who_alison
-Quoi, donc acariâtrement
-Vous désirez maussadement
-L'aimer inviolablement,
-Mais nous saurons pertinemment
-Boucher assez subtilement
-La porte à cet amusement.
-
--*who_beau_chateau
-Ô bons Dieux ! Quel frissonnement
-Me saisit inopinément.
-
--*who_beau_lieu
-Ces mots inconcevablement
-Me tourmentent amèrement.
-
--*who_beau_chateau
-Sans nous tenir perplexement
-Dans un si grand effrayement.
-Chère Alison, dis-moi nuement,
-Et sans aucun déguisement
-À qui veut désespérément
-Se marier si bassement,
-Celle qui si felonnement
-Nous assujettit roquement.
-
--*who_alison
-À qui, bons Dieux ! Vous le nommant,
-Ce serait un rengrégement
-De ce mal, qu'insensiblement
-Vous ressentez grièvement.
-
--*who_beau_chateau
-Rage, fureur, trépignement
-Troublez-moi frénétiquement,
-Afin que volontairement
-Je presse mon enterrement.
-
--*who_beau_lieu
-Démons qui belliqueusement
-Rompez le col ravissamment
-À celui-là qui lâchement
-Se donne à vous prodiguement.
-Troublez-moi désordonnément ;
-Afin que précipitamment
-Je m'assomme inhumainement.
-
--*who_beau_chateau
-Non, sans nous aller si crûment
-Faire mourir déplaisamment,
-Faut assassiner nuitamment
-Le traître qui témérairement
-Nous vient malicieusement
-Ôter notre soulagement.
-
--*who_philipin
-Tout beau, Messieurs, malaisément,
-Vous ne sauriez facilement
-Sortir que fort honteusement
-De ce que déterminément
-Vous résolvez brutalement.
-Ce coup indubitablement
-Vous ferait pendre bravement,
-Et puis celui que cautement
-Vous voulez frauduleusement
-Priver de vie et mouvement,
-Est redouté terriblement.
-Les muets admirablement
-En parlent éternellement.
-Mais pour mettre un empêchement
-À son dessein vigilamment,
-Et délibérativement
-Allez-vous-en aimablement
-Parler au père hardiment,
-Plaignez-vous à lui sagement,
-Et pleurez exorbitamment
-En lui disant qu'ingratement
-Sa fille impitoyablement
-Vous fait un cruel traitement.
-Le voici sans retardement,
-Allez-vous-en discrètement
-Le saluer honnêtement.
-
--*who_beau_chateau
-Ha, Monsieur, que commodément
-Vous venez opportunément,
-Tous deux épris étroitement
-De rechercher pudiquement
-Votre fille très humblement,
-Nous vous prions verbalement
-De faire qu'exorablement
-Elle accepte amoureusement
-L'un, ou l'autre, pour son amant.
-
--*who_bonniface
-Ah, foi d'homme, révéremment
-Vous venez gracieusement
-Me mettre en un ravissement
-Que j'aime merveilleusement.
-Oui, je vous promets sainement
-De m'employer activement
-Pour votre seul contentement :
-Ma fille, mon ébattement,
-Mon coeur, mon tout que tendrement
-Je conserve si chèrement,
-Si tu veux être richement
-Mariée discrètement,
-Prends l'un de ces deux gaiement,
-Tous deux trépassent en t'aimant.
-
--*who_beau_lieu
-Beauté que journalièrement
-J'affectionne vainement !
-
--*who_angelique
-Lourdaud, que nompareillement
-Je fuis inexprimablement.
-
--*who_beau_chateau
-Belle Nymphe loyalement
-Je vous estime extrêmement.
-
--*who_angelique
-Beau maraud naturellement
-Je vous déteste étrangement.
-
--*who_beau_lieu
-Ô Tigresse, impiteusement
-Vous m'assassinez méchamment.
-
--*who_angelique
-Ô baudet bestialement
-Vous m'importunez grandement !
-
--*who_beau_chateau
-Mon petit coeur sévèrement
-Vous me traitez indignement.
-
--*who_angelique
-Mon petit veau malignement,
-Vous me parlez vilainement.
-
--*who_bonniface
-Traitez-les plus civilement,
-Qui vous fait dédaigneusement,
-Rejeter orgueilleusement
-Leurs services que noblement
-Ils vous offrent mignardement ?
-
--*who_lecapitaine
 Oui, chair bleu, valeureusement
 Je fais continuellement
 Quelque étrange remuement,
@@ -2593,15 +1832,6 @@ Tous les coquins qui traîtrement
 Ne font rien courageusement
 En doutez-vous aucunement ?
 
--*who_bonniface
-Quel est celui qui fièrement
-Parle si fanfaronnement ?
-
--*who_alison
-Ô c'est celui qu'imprudemment
-Votre fille aime ignoramment !
-
--*who_lecapitaine
 Venez ici, vieil excrément,
 Si vous voulez coquinement
 Me refuser barbarement
@@ -2631,24 +1861,11 @@ Tenir perpétuellement
 Mon âme audacieusement
 Dans un fâcheux accrochement.
 
--*who_bonniface
-Comment donc, extravagamment
-Me demander arrogamment
-Avec mort et reniement
-Ce que j'estime uniquement !
-Retirez-vous diligemment.
-
--*who_lecapitaine
 Ah, ventre, malheureusement
 Vous me choquez bien lourdement,
 Parbleu, je vais sauvagement
 Vous crevez misérablement.
 
--*who_bonniface
-Hé mes gendres, virilement
-Venez à moi légèrement.
-
--*who_lecapitaine
 Tes gendres, Dieux, exactement
 Tu les as choisis savamment :
 Ces mugueteaux. Hé bien, comment
@@ -2657,10 +1874,6 @@ Me regarder effrontément.
 Les aimez-vous, là hautement
 Parlez et sans déguisement.
 
--*who_angelique
-Non, mon coeur.
-
--*who_lecapitaine
       Quoi donc sottement,
 Et sans ratiocinement.
 Vous voulez tyranniquement
@@ -2669,33 +1882,17 @@ Par la tête, exemplairement
 Je vais impétueusement
 Vous assommer fort plaisamment.
 
--*who_beau_chateau
-Ah, Monsieur, pitoyablement
-Pardonnez-nous humainement.
-
--*who_lecapitaine
 Ah, Pagnotes, rustiquement
 Vous venez clandestinement
 Marcher pusillanimement !
 Dessus mes pas, ah vertement
 Je châtierai pertinemment.
 
--*who_beau_lieu
-Nous ignorions l'engagement
-Où vous plongeait gloutonnement
-Cet amoureux élancement.
-
--*who_lecapitaine
 Vous l'ignoriez grossièrement,
 Vous rechercher sordidement
 Une excuse pour finement
 Vous esquiver impunément.
 
--*who_beau_lieu
-Beau-Lieu, et Beau Château.
-Pardonnez-nous courtoisement,
-
--*who_lecapitaine
 Non, non, pour votre châtiment
 Tous deux alternativement,
 Abordez-moi cagnardement
@@ -2705,20 +1902,8 @@ Et fort dévotieusement
 Réclamez le Ciel saintement
 Et faites votre testament.
 
--*who_beau_chateau
-Ah, monsieur, un amendement
-À ce fâcheux commandement !
-
--*who_lecapitaine
 Levez-vous.
 
--*who_beau_lieu
-      Ah quel tremblement !
-
--*who_beau_chateau
-Je me meurs.
-
--*who_lecapitaine
       Favorablement.
 Je vous pardonne entièrement
 Allez au diable ensemblement,
@@ -2728,25 +1913,12 @@ Que vous mettiez ineptement
 Ne peut qu'insupportablement
 Y mettre de l'empêchement.
 
--*who_bonniface
-Non, je veux, débonnairement
-Vous donner mon consentement,
-Allez, jouissez pleinement
-Du bien, que légitimement
-Vous aimez passionnément.
-
--*who_lecapitaine
 Beauté que je vais estimant
 C'est à ce coup qu'heureusement
 Nous jouirons mignonnement
 Du bien qu'opiniâtrement
 Nous recherchions soigneusement.
 
--*who_angelique
-Allons donc honorablement
-Nous baiser vigoureusement.
-
--*who_lecapitaine
 Allons mon coeur, loustiquement
 Nous caresser grotesquement,
 Allons-nous en turbulement
@@ -2755,24 +1927,564 @@ Pour faire ridiculement
 Par un divin chatouillement
 Un amoureux culbutement.
 
--*who_philipin
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alison
+
+      Quoi ?
+
+Que voulez-vous ?
+
 Hé bien.
 
--*who_alison
+Hé qui pourrait plus diablement
+Vous aborder diligemment,
+Qu'avez-vous donc ?
+
+Ah, quelle trogne de gourmand,
+Je crois, qu'indubitablement
+Il mangerait un Régiment
+De même qu'un grain de froment.
+
+Arrêtez-vous, effrénément
+Vous en aller absurdement
+Prostituer enragement,
+À celui qui bizarrement
+N'a pour tout divertissement
+Qu'à faire du saccagement.
+Je le connais parfaitement,
+C'est un assommeur de jument,
+Qui met sempiternellement
+Quelques puces au monument,
+
+Voilà mentir impudemment,
+Ô qu'il abuse excellemment
+De tous ceux qui crédulement
+Croient à son cajolement !
+J'enrage de forcènement,
+D'ouïr mentir si puamment,
+Ô détestable parement
+De gibet. Quel aveuglement
+Te fait si désordonnément
+Parler hyperboliquement,
+Ô qu'il est sot certainement !
+
+Vous me frappez injustement,
+Je vous le dis succinctement.
+
+Ô j'aurai du ressentiment !
+De ce que si cruellement
+Vous me battez iniquement.
+
+      Hé bien.
+
+Ô je suis dévergondement
+Dans un cruel pétillement,
+Et je voudrais éperdument
+Que l'on me pendît faussement,
+Ou, que l'on m'allât abîmant
+Jusqu'au fond du Firmament.
+
+Quoi, donc acariâtrement
+Vous désirez maussadement
+L'aimer inviolablement,
+Mais nous saurons pertinemment
+Boucher assez subtilement
+La porte à cet amusement.
+
+À qui, bons Dieux ! Vous le nommant,
+Ce serait un rengrégement
+De ce mal, qu'insensiblement
+Vous ressentez grièvement.
+
+Ô c'est celui qu'imprudemment
+Votre fille aime ignoramment !
+
       Je ne sais bonnement,
 Si c'est en veillant, en dormant
 Que je vois cet événement.
 
--*who_philipin
+Je le veux bien résolument,
+Allons-nous en tout froidement
+Nous unir conjugalement,
+Et sans tarder plus longuement
+Baisons-nous amiablement.
+
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
+
+Finissez donc résolument
+Ce frénétique brouillement,
+Allez-vous en fort gentiment
+L'entretenir accortement,
+Tous deux incomparablement,
+Vous l'aimez excessivement ;
+Mais je vous conjure instamment
+De vouloir pacifiquement
+Vous accorder gaillardement.
+
+C'est parler équitablement,
+Répondez-lui donc franchement.
+Voulez-vous pas tout chaudement
+Donner votre consentement,
+Pour faire que paisiblement
+Vous viviez fraternellement.
+
+C'est qu'il faut nécessairement
+Que tous deux unanimement,
+Vous vous en alliez proprement
+Voir le visage qu'ardemment
+Vous chérissez également.
+Vous lui direz élégamment
+De vous ôter bénignement
+D'un bruit, duquel sinistrement
+Ne peut sortir apertement
+Sinon qu'un embarrassement,
+Qui, peut-être, mortellement
+Vous priverait de sentiment.
+Que pour finir brièvement,
+À qui tumultueusement
+Vous force ambitieusement
+À vous quereller follement :
+Qu'elle choisisse joliment
+Celui qui plus poupinement
+Lui touche l'âme doucement.
+
+Qu'as-tu, tu vas si tristement
+Qu'on juge indubitablement,
+Que quelque étrange changement
+Te persécute horriblement.
+
+Quel étrange dévoiement
+Te fait démoniaquement
+Soupirer si péniblement ?
+
+Tout beau, Messieurs, malaisément,
+Vous ne sauriez facilement
+Sortir que fort honteusement
+De ce que déterminément
+Vous résolvez brutalement.
+Ce coup indubitablement
+Vous ferait pendre bravement,
+Et puis celui que cautement
+Vous voulez frauduleusement
+Priver de vie et mouvement,
+Est redouté terriblement.
+Les muets admirablement
+En parlent éternellement.
+Mais pour mettre un empêchement
+À son dessein vigilamment,
+Et délibérativement
+Allez-vous-en aimablement
+Parler au père hardiment,
+Plaignez-vous à lui sagement,
+Et pleurez exorbitamment
+En lui disant qu'ingratement
+Sa fille impitoyablement
+Vous fait un cruel traitement.
+Le voici sans retardement,
+Allez-vous-en discrètement
+Le saluer honnêtement.
+
+Hé bien.
+
 Va, ne te fâche nullement,
 Et pour mettre un achèvement
 À ce qui se termine en ment,
 Allons-nous en semblablement
 Nous marier pareillement.
 
--*who_alison
-Je le veux bien résolument,
-Allons-nous en tout froidement
-Nous unir conjugalement,
-Et sans tarder plus longuement
-Baisons-nous amiablement.
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beauchateau
+
+Je le veux, l'accommodement
+N'est pas trop mal adroitement
+Formé pour notre appointement,
+Pourvu que préalablement
+Il proteste inviolablement
+De s'arrêter au jugement
+Qu'elle fera : car autrement
+Nous nous frotterions vaillamment.
+
+Mais Alison chagrinement
+Nous aborde fâcheusement.
+
+Ô bons Dieux ! Quel frissonnement
+Me saisit inopinément.
+
+Sans nous tenir perplexement
+Dans un si grand effrayement.
+Chère Alison, dis-moi nuement,
+Et sans aucun déguisement
+À qui veut désespérément
+Se marier si bassement,
+Celle qui si felonnement
+Nous assujettit roquement.
+
+Rage, fureur, trépignement
+Troublez-moi frénétiquement,
+Afin que volontairement
+Je presse mon enterrement.
+
+Non, sans nous aller si crûment
+Faire mourir déplaisamment,
+Faut assassiner nuitamment
+Le traître qui témérairement
+Nous vient malicieusement
+Ôter notre soulagement.
+
+Ha, Monsieur, que commodément
+Vous venez opportunément,
+Tous deux épris étroitement
+De rechercher pudiquement
+Votre fille très humblement,
+Nous vous prions verbalement
+De faire qu'exorablement
+Elle accepte amoureusement
+L'un, ou l'autre, pour son amant.
+
+Belle Nymphe loyalement
+Je vous estime extrêmement.
+
+Mon petit coeur sévèrement
+Vous me traitez indignement.
+
+Ah, Monsieur, pitoyablement
+Pardonnez-nous humainement.
+
+Ah, monsieur, un amendement
+À ce fâcheux commandement !
+
+Je me meurs.
+
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beaulieu
+
+Je ne l'entends pas clairement,
+Et je ne l'ai qu'obscurément
+Compris intérieurement,
+Redis-le donc nettement
+Et plus intelligiblement.
+
+Ô que je ferais sciemment :
+Un effroyable manquement
+Si je voulais obstinément
+M'opposer à ce règlement,
+Allons donc tout recentement,
+La voir en son appartement.
+
+Ces mots inconcevablement
+Me tourmentent amèrement.
+
+Démons qui belliqueusement
+Rompez le col ravissamment
+À celui-là qui lâchement
+Se donne à vous prodiguement.
+Troublez-moi désordonnément ;
+Afin que précipitamment
+Je m'assomme inhumainement.
+
+Beauté que journalièrement
+J'affectionne vainement !
+
+Ô Tigresse, impiteusement
+Vous m'assassinez méchamment.
+
+Nous ignorions l'engagement
+Où vous plongeait gloutonnement
+Cet amoureux élancement.
+
+Beau-Lieu, et Beau Château.
+Pardonnez-nous courtoisement,
+
+      Ah quel tremblement !
+
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonniface
+
+      Qui frappe-là ?
+
+Que voulez-vous ?
+
+Frémir en vous voyant, j'aurais peu de courage !
+
+Vous de qui les habits sont chamarrés d'oreilles,
+Crieur de mort aux rats, saccageur de bouteilles.
+Avaleur de pois gris, écraseur d'escargots
+Dont le dos est si propre à porter des fagots.
+Vous qui ne voudriez pas, vous égaler un homme
+De l'Histoire de Grèce, où de celle de Rome.
+Je gage d'en nommer, en présence de tous,
+Deux mille plus vaillants, et plus sages que vous.
+
+      Attendez je vais quérir le livre.
+
+Oui, voici mon Plutarque.
+
+      Patience.
+
+Vous vous moquez, allez vous êtes insensé :
+Thésée.
+
+Romule.
+
+Licurgue.
+
+Numa.
+
+Solon.
+
+Publicolle.
+
+Thémistocles.
+
+Camille.
+
+Périclès.
+
+Fabie.
+
+Alcibiade.
+
+Coriolan.
+
+Paul-Émile.
+
+Timoléon.
+
+Pélopidas.
+
+Marcellus.
+
+Aristides.
+
+Marc Caton.
+
+Philopemen.
+
+Quintus.
+
+Pyrrhus.
+
+Caïus.
+
+Lisander.
+
+Silla.
+
+Simon.
+
+Lucule.
+
+Nicé.
+
+Crassus.
+
+Sertorius.
+
+Euménès.
+
+Agésilas.
+
+Pompée.
+
+Alexandre.
+
+Jules.
+
+Phocion.
+
+Caton.
+
+Cléoménes, Agis.
+
+Les Gracques.
+
+Démosthènes.
+
+Cicéron.
+
+Démétrie.
+
+Antoine.
+
+Artaxerce.
+
+Dion.
+
+Brute.
+
+Aratus.
+
+Galba.
+
+Othon.
+
+Annibal.
+
+Scipion.
+
+Épaminondas.
+
+Philippe.
+
+Denis.
+
+César Auguste.
+
+Et toi, si tu ne prends la fuite à mes prières,
+Je te vais de ce pas donner les étrivières.
+De mille coup de fouets te déchirer le flanc,
+Et faire de ton corps un déluge de sang.
+
+      Ah par la mort, il faut que je te tue !
+Comme le drôle fuit : je l'ai perdu de vue.
+Et ce vaillant guerrier si redouté de Mars,
+Ne peut souffrir sans peur, un seul de mes regards.
+
+Ah, foi d'homme, révéremment
+Vous venez gracieusement
+Me mettre en un ravissement
+Que j'aime merveilleusement.
+Oui, je vous promets sainement
+De m'employer activement
+Pour votre seul contentement :
+Ma fille, mon ébattement,
+Mon coeur, mon tout que tendrement
+Je conserve si chèrement,
+Si tu veux être richement
+Mariée discrètement,
+Prends l'un de ces deux gaiement,
+Tous deux trépassent en t'aimant.
+
+Traitez-les plus civilement,
+Qui vous fait dédaigneusement,
+Rejeter orgueilleusement
+Leurs services que noblement
+Ils vous offrent mignardement ?
+
+Quel est celui qui fièrement
+Parle si fanfaronnement ?
+
+Comment donc, extravagamment
+Me demander arrogamment
+Avec mort et reniement
+Ce que j'estime uniquement !
+Retirez-vous diligemment.
+
+Hé mes gendres, virilement
+Venez à moi légèrement.
+
+Non, je veux, débonnairement
+Vous donner mon consentement,
+Allez, jouissez pleinement
+Du bien, que légitimement
+Vous aimez passionnément.
+
+
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_angelique
+
+Hé, qui frappe si rudement ?
+
+J'estime votre compliment,
+Mais, Monsieur, véritablement
+Vous me voulez trop promptement,
+Jeter dans un engagement,
+Duquel on ne peut aisément
+Se défaire qu'au monument.
+Ce front, ces yeux, ce mouvement,
+Ce ventre et cet accoutrement
+Me captivent superbement.
+Mais de crainte d'achoppement
+Je veux tout faire mûrement :
+Attendez un peu seulement :
+
+      Non vraiment,
+Je retourne subitement.
+Chère Alison.
+
+      Prestement.
+
+      Viens vitement.
+
+      Que tu vas lentement !
+
+Tout bellement,
+Écoute un mot secrètement.
+Regarde un peu ce garnement,
+Vois comme sérieusement,
+Il se promène gravement.
+Il va majestueusement
+Il se moque Royalement,
+Il vient Seigneurialement,
+Et ses yeux meurtrièrement
+Donnant de l'épouvantement,
+Me charment insensiblement.
+
+Tu parle irrégulièrement,
+Il m'a miraculeusement
+Soumise à son commandement.
+
+Je lui vais dire ingénument
+Que je l'aime violemment.
+
+Pardonnez-lui, soyez clément.
+
+Je crois avec étonnement
+Que quelque horrible enchantement,
+Me contraint incivilement
+À parler impertinemment :
+Va-t'en, mais bien agilement.
+
+Et je te dis prolixement
+Que tu t'en aille habilement
+
+Fuis donc ?
+
+      Indignement,
+Oser licencieusement
+Donner du mécontentement
+À cet aimable : ô galamment
+Je te forcerai dextrement
+De te comporter droitement.
+
+Quoi ? Monsieur, si visiblement
+Vous offenser déplaisamment :
+Comme irrespectueusement
+Elle m'a détestablement
+Mise trop indiscrètement
+Dedans un tel criaillement.
+Je sais que généreusement
+Quand bien elle eût en vous blâmant
+Fait encore plus pirement,
+Qu'à cause de l'habillement
+Et de son sexe assurément
+Vous eussiez glorieusement
+Supporté son jargonnement.
+
+Pour ce point-là modestement
+Il faudrait sans délayement
+Aller parler éloquemment
+À celui qu'équitablement
+J'estime émerveillablement.
+
+      Justement.
+
+Que j'en suis aise. Adieu, charmant.
+
+Lourdaud, que nompareillement
+Je fuis inexprimablement.
+
+Beau maraud naturellement
+Je vous déteste étrangement.
+
+Ô baudet bestialement
+Vous m'importunez grandement !
+
+Mon petit veau malignement,
+Vous me parlez vilainement.
+
+Non, mon coeur.
+
+Allons donc honorablement
+Nous baiser vigoureusement.
+

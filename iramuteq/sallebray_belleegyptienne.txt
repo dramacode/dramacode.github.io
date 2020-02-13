@@ -1,431 +1,7 @@
 
 
-**** *book_ *id_privilege *date_1642 *creator_sallebray
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domjeandecarcame
 
-Extrait du Privilege du Roy.
-
-Par Grace et Privilege du Roy, donné à Paris le 8 jour d'Avril 1642.
-Signé par le Roy en son Conseil, le BRUN, il est permis à Augustin Courbé, Marchand Libraire à Paris, d'imprimer ou faire imprimer une piece de Theatre, intitulée la belle Egyptienne, durant cinq ans : Et deffences sont faites à tous autres d'en vendre d'autre impression que de celle qu'aura fait faire ledit Courbé, ou les ayans cause, à peine de trois mil liures d'amende, et de tous ses despens, dommages et interests, ainsi qu'il est plus au long porté par ledit Privilege.
-
-Et le dit Courbé a associé audit Priviliege Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l'accord fait entr'eux.
-
-**** *book_ *id_personnages *date_1642 *creator_sallebray
-
-LES PERSONNAGES.
-
-LA BELLE EGIPTIENNE, TRAGI-COMEDIE
-
-**** *book_ *id_I01 *act_I *date_1642 *creator_sallebray
-
--*who_precieuse
-Enfin, personne icy ne sçauroit nous entendre,
-Quel est donc le bon-heur que vous voulez m'apprendre ?
-Je meurs de le sçavoir, contentez mon désir,
-Qui le déclare tost fait doublement plaisir.
-
--*who_la_vieille
-Ha l'heureux accident⁎ ! l'admirable avanture⁎,
-Si j'en doy croire au moins certaine conjecture.
-
--*who_precieuse
-Mais ces ravissemens⁎ sont pour moy superflus,
-Et mon impatience en augmente encor plus.
-
--*who_la_vieille
-O Ciel ! quelle fortune⁎ à la nostre est pareille ?
-Et que ne promet point cette rare merveille ?
-
--*who_precieuse
-Tout cela jusqu'icy ne m'éclaircit de rien,
-Et je treuve une peine où j'atendois un bien.
-
--*who_la_vieille
-Ne hâtons point celuy que le sort nous envoye,
-Ménageons ses faveurs ainsi que nostre joye.
-
--*who_precieuse
-Hé ne me tenés plus davantage en langueur,
-Ou comblés d'un refus vôtre injuste rigueur.
-Vous retranchés ce bien que vous croyés étendre,
-Et qui veut l'augmenter, il nous en doit surprendre.
-
--*who_la_vieille
-Encor, sur ce sujet quel est ton sentiment⁎ ?
-Songe un peu.
-
--*who_precieuse
-      N'est-ce point quelque nouvel amant ?
-
--*who_la_vieille
-Déja dans ce penser un démon te l'inspire,
-Mais il faut qu'on m'embrasse avant que de le dire.
-
--*who_precieuse
-S'il ne tient qu'à cela, j'aime mieux vous baiser,
-Je ne sçay rien apres qu'on me dût refuser.
-
--*who_la_vieille
-Flateuse, c'en est fait, je cede à tes caresses,
-Aprens donc en trois mots l'effet de tes adresses.
-Le dernier mois passé, tu sçais bien que nos Gens
-Voulûrent dans Seville aréter quelque temps,
-Que la permission leur en fut accordée.
-
--*who_precieuse
-De l'honneur qu'on m'y fit je garde encor l'idée.
-
--*who_la_vieille
-Là, le jour du balet (jour des plus fortunés)
-Où tu menois danser des Mores enchainés...
-
--*who_precieuse
-En effet, ce jour-là j'eus quelques avantages⁎.
-
--*who_la_vieille
-Tes larcins glorieux en sont des témoignages.
-Ne te souvient-il pas de ce jeune Seigneur ?
-
--*who_precieuse
-Je vous entens venir, le fils du Gouverneur
-N'est-ce pas ?
-
--*who_la_vieille
-      Justement.
-
--*who_precieuse
-      Ha Dieu qu'il est aimable !
-Qu'il est respectueux, galand, civil, affable !
-
--*who_la_vieille
-Toutes ces qualités ne font ni bien, ni mal,
-Di qu'il est genereux⁎, di qu'il est liberal⁎,
-C'est la vertu des Rois, et qui fait l'honeste homme,
-De toute autre vertu l'effet est moins qu'un somme,
-A peine est-il formé qu'il meurt le plus souvent,
-Ce n'est qu'ombre et fumée, un apas decevant⁎ :
-La liberalité⁎ produit tout au contraire
-Un effet à la fois solide et necessaire,
-Tel que sont ces ducas⁎ dont il me fit present,
-Joint que l'aspect aussi n'en est pas deplaisant.
-
--*who_precieuse
-Par son merite seul il m'est considerable.
-
--*who_la_vieille
-Et moy par ses dons seuls je le treuve adorable.
-
--*who_precieuse
-Enfin quoy qu'il en soit, qu'a-t-il fait ce Seigneur ?
-
--*who_la_vieille
-Sçache, le croirais-tu ? qu'il nous a fait l'honeur...
-Remettons à tantost cette bonne nouvelle.
-
--*who_precieuse
-Ha ma tante ! vrayment c'est étre trop cruelle
-De faire ainsi languir ma curiosité,
-De grace poursuivés ce discours arrété,
-Il nous a...
-
--*who_la_vieille
-      Ce matin, m'ayant veuë à Tolede.
-
--*who_precieuse
-Que dit-elle, bon Dieu ? quel transport⁎ me possede ?
-
--*who_la_vieille
-Il nous a fait l'honeur de s'enquerir de toy.
-
--*who_precieuse
-Il est en cette ville, et se souvient de moy ?
-Depuis quand, je vous prie, avez-vous fait ce songe ?
-
--*who_la_vieille
-Dans quelque étonnement⁎ que ce discours te plonge,
-Croy qu'il est veritable, et de plus...
-
--*who_precieuse
-      Achevés,
-Et ne me celés rien de ce que vous sçavés.
-
--*who_la_vieille
-Que c'est à ton sujet qu'il a fait ce voyage,
-Ainsi que dans les mains, je li dans le visage.
-
--*who_precieuse
-O Ciel ! est-il possible ?
-
--*who_la_vieille
-      Ouy, puisqu'il est certain.
-
--*who_precieuse
-Il est vray que souvent il me baisoit la main,
-Et mesmes au raport que m'en fait ma mémoire,
-Les discours qu'il me tint furent tous à ma gloire⁎,
-M'accusant d'un grand vol qu'avoit fait ma beauté.
-
--*who_la_vieille
-De son cœur, de son ame.
-
--*who_precieuse
-      Et de sa liberté :
-Mais quoy qu'il me jurast dans sa cajolerie⁎,
-Je crus que ce n'étoit que par galanterie.
-
--*who_la_vieille
-Par là, mon doute encore en est mieux éclaircy.
-
--*who_precieuse
-Taisons-nous, j'apercoy quelqu'un qui vient icy.
-
--*who_la_vieille
-C'est nôtre Poëte, ô Dieu, l'étrange personnage !
-
-**** *book_ *id_I02 *act_I *date_1642 *creator_sallebray
-
--*who_le_poete
-C'est elle, je la voy.
-
--*who_precieuse
-      Le moyen qu'il fut sage,
-Il est jeune, il est Poëte, et de plus amoureux,
-De ces trois qualitez naist un mal dangereux.
-
--*who_la_vieille
-Ouy, c'est la pauvreté, fuyons de sa presence.
-
--*who_precieuse
-Ayés en ma faveur un peu de complaisance.
-
--*who_le_poete
-Doux charme de mon cœur, miracle de nos jours,
-Jeune source d'apas⁎, de graces, et d'Amours,
-Vôtre divine main m'enchaina dans Séville,
-La mesme a resserré mes fers en cette ville,
-Et ce rencontre heureux fait voir que le destin
-A vos yeux mes vainqueurs veut rendre leur butin.
-
--*who_precieuse
-Franchement, voulés-vous m'obliger d'une grace ?
-
--*who_le_poete
-Je vous veux obeir, que faut-il que je fasse ?
-
--*who_precieuse
-Tréve d'Amour icy, ne parlons que de Vers.
-
--*who_le_poete
-A quoy m'obligés-vous, honneur de l'Univers ?
-Doy-je pas de nouveau vous rendre mes homages ?
-Doy-je pas de mon feu retracer les images ?
-Et bravant les effors d'un respect rigoureux,
-Doy-je pas derechef⁎ m'avouër Amoureux ?
-Ce discours vous déplaist, et je suis temeraire,
-Mais qui se sent brûler ne sçauroit pas se taire,
-Et les trais⁎ de vos yeux, malgré vôtre rigueur,
-M'ouvrent tout à la fois et la bouche et le cœur.
-
--*who_precieuse
-Vous sçavez à quel point j'aime la Poësie,
-Donnez preuve par là de vôtre courtésie,
-Quelque aimable travail de ce noble métier
-Qui charge son autheur de gloire et de laurier,
-Nous peut mieux divertir, et causer moins de blâme,
-Que tous ces vains discours et de trais⁎ et de flame.
-
--*who_le_poete
-Parlons-en, je le veux, m'avés vous fait l'honneur
-De lire ce Sonnet où j'ai peint mon bon-heur ?
-
--*who_la_vieille
-Puisque cet entretien te plaist et te contente,
-Je m'en vay cependant faire un tour dans la tante,
-Mais si de son amour il t'ose encor parler,
-Tranche luy moy tout court, ou me viens appeler.
-
--*who_precieuse
-Allés, cela vaut fait.
-
-**** *book_ *id_I03 *act_I *date_1642 *creator_sallebray
-
--*who_precieuse
-      Ouy, j'ay leu cet ouvrage,
-C'est sur nôtre rencontre.
-
--*who_le_poete
-      Ajoutés mon servage.
-
--*who_precieuse
-Chaque rime en est riche, et dans les plus nouveaux,
-Les termes, à mon gré, ne semblent point si beaux,
-Le tour du Vers est noble, agréable et facile,
-Enfin vous triomphés dans la douceur du stile.
-
--*who_le_poete
-Enfin vous vous moqués de ce que j'ay produit,
-Mais dans le triste état où vous m'avés réduit,
-Sous le fais de mes maux, mon ame gemissante
-Abat ainsi ma Muse, et la rend languissante,
-Et c'est bien rarement que l'on void des enfans,
-Quand leur pere se meurt, pompeux et triomphans.
-Mais si de quelque espoir vous consolés ma peine,
-Si vos rudes frédeurs ne glacent plus ma veine,
-Vous en verrés couler mille torrens de Vers,
-Qui de vôtre beau nom rempliront l'Univers,
-Et qui prenans dans l'air une route conuë,
-Vous remettront au Ciel, d'où vous étes venuë ;
-Beaux yeux qui m'inspirés ce glorieux dessein,
-Lancés pour son effet vôtre feu dans mon sein,
-Soyez mon Apollon...
-
--*who_precieuse
-      C'est assés me confondre,
-Donnés-moy pour le moins le temps de vous répondre,
-Ou plustost , excusés ma curiosité,
-Vous mesme répondés, mais avec verité.
-Ce que je veux aprendre au moins n'est pas sans cause,
-Et le sçavoir au vray m'importe en quelque chose ;
-Dites-moy donc sans feinte, étes-vous Poëte ?
-
--*who_le_poete
-      Non :
-Il est trop peu de gens qui méritent ce nom,
-Avec ardeur⁎ pourtant j'aime la Poësie,
-Et j'en puis sans secours, passer ma fantaisie.
-Si j'ay besoin d'une Ode, ou de quelque Sonnet,
-Une heure en fait l'office au lit, au cabinet,
-Mais pour faire des Vers je ne suis pas Poëte,
-Dieu me garde de l'étre, ou que je le souhaite.
-
--*who_precieuse
-Peu de gens, dites-vous, en meritent le nom,
-Et vous en craignés tout, mesme jusqu'au renom :
-Cette condition n'est donc pas honorable.
-
--*who_le_poete
-A ne faire autre chose elle est peu favorable.
-Ce n'est pas que l'effet n'en soit bien glorieux.
-
--*who_precieuse
-Pourquoy le nom de Poëte est-il donc odieux ?
-
--*who_le_poete
-C'est sans doute un venin de ces ames vulgaires
-Qui n'ont aucune part à nos sacrés mysteres,
-D'un tas de jeunes gens qui n'ont pas merité
-De sentir ce rayon de la divinité,
-De ces petits esprits qui se donnent la géne⁎
-Pour treuver dans leur teste un mot qui rime à chaine,
-Qui n'ont sceu penetrer dans ces saintes forests,
-Où le Dieu du sçavoir découvre ses secrets,
-Et que les doctes Soeurs ont jugé trop indignes
-D'honorer comme nous de leurs faveurs⁎ insignes⁎,
-Ignorans, babillars⁎, censeurs, ambitieux,
-Enragés de nous voir si bien avec les Dieux :
-Ouy, ce sont ces messieurs, qui d'une humeur profane
-Approuvent dans leur cœur ce que leur voix condane :
-Car enfin ce bel Art, l'amour des beaux esprits,
-Dont les honestes gens se sentent tous épris,
-Cette chaste beauté qu'on nomme Poësie,
-Ne vient point, comme on croit, de nôtre frenesie⁎,
-Elle est fille du Ciel, son aimable entretien
-Fait reverer par tout quiconque en use bien.
-Les Rois avec plaisir goûtent sa compagnie,
-Sa douceur est charmante, et sa grace infinie,
-C'est le Trône animé des plus nobles vertus,
-Le beau champ où l'on void les vices abatus,
-Le guide qui conduit les Heros à la gloire,
-La triomphante voix qui chante leur victoire,
-Le marbre où sont gravés leurs noms dignes des Cieux,
-Le temple de l'honneur, le langage des Dieux,
-La Reine des destins, la source de la vie,
-Le tresor des beaux fais, et le fleau de l'envie :
-Voylà de ce Soleil quelques simples crayons,
-Vous traceray-je encor quelqu'un de ses rayons ?
-C'est une piece rare, où cent beautés paressent,
-Qu'il ne faut exposer qu'à ceux qui s'y conessent,
-Non pas à la façon de quelques importuns,
-Qui, les offrant à tous, rendent ces biens communs.
-
--*who_precieuse
-Ouy, mais cette beauté si noble et si cherie
-Est pauvre à ce qu'on dit.
-
--*who_le_poete
-      C'est une raillerie,
-Au contraire elle est riche, au moins void-on contens
-Tous ceux qui dans son sein prenent leurs passe-temps :
-Rare condition, belle Philosophie,
-Dont l'usage est puissant, puisqu'il nous deïfie,
-Mais rendés-moy le bien que je vous ay prété,
-En excusant aussi ma curiosité,
-De la vôtre apres tout, peut-on sçavoir la cause ?
-
--*who_precieuse
-Ouy da⁎, c'est la raison qu'icy je vous l'expose,
-C'est que vous croyant Poëte à vôtre procedé,
-Et par cette raison pas trop acommodé,
-Voulant lire vos Vers, je crus étre charmée
-De voir une pistole⁎ avec eux enfermée,
-Je la tâtay cent fois, et j'en doutais encor,
-Mais l'ayant fait sonner, je veis qu'elle étoit d'or,
-Lors, quoy que toute seule à ce nouveau spectacle,
-Un Poëte, m'écriay-je, a de l'argent, Miracle !
-
--*who_le_poete
-Que je le sois ou non.
-
--*who_precieuse
-      Souffrés⁎ ma liberté,
-Puisque vous n'avés rien de cette qualité.
-
--*who_le_poete
-Prenés ces autres Vers qui partent de ma veine
-Et de ce que je suis ne soyés plus en peine,
-Suffit que si j'étois d'un monde possesseur,
-Je vous l'offrirois tout, aussi bien que mon cœur.
-
--*who_precieuse
-O Dieu ! ce papier brûle, il est tout plein de flames,
-Et doit vivre long-temps, car il a plusieurs ames,
-La pistole en est une, et puis celle des Vers,
-Où l'on en void tousjours plus que dans l'Univers.
-Or sus, mon Cavalier, de ces biens qui sont vôtres,
-Reprenés l'ame d'or, je retiendray les autres,
-Voylà celle d'hier que je vous rens aussi,
-C'est elle-mesme au moins, et puisqu'il est ainsi,
-Contractons entre nous une amitié qui dure,
-Mais changés cette infame et lâche procedure,
-Venés me visiter quelque fois, j'y consens,
-Comme faiseur de Vers, et non pas de presens.
-
--*who_le_poete
-Hé bien vous le voulés ? il faut donc les reprendre,
-Trop heureux de cett'offre, où je n'osois pretendre :
-Mais ayant eu l'honeur de passer par vos mains,
-Il ne doit plus servir au trafic des humains
-Ce tresor que j'égalle à ceux des Republiques,
-Et je vay l'enchâsser ainsi que des Reliques.
-
-**** *book_ *id_I04 *act_I *date_1642 *creator_sallebray
-
--*who_la_vieille
-Précieuse.
-
--*who_precieuse
-      C'est fait.
-
--*who_la_vieille
-      R'entre sans contester,
-J'entens venir quelqu'un qui pouroit t'arréter,
-Nos gens vont à la ville, il faut que tu te pares.
-
--*who_precieuse
-Nous bravons sans cela les beautés les plus rares.
-
-**** *book_ *id_I05 *act_I *date_1642 *creator_sallebray 
-
--*who_dom_jean_de_carcame
 Hé bien, es-tu content puissant Maistre des Dieux,
 Conessant le sujet qui m'amene en ces lieux ?
 Ay-je enfin satisfait à ta juste colere ?
@@ -481,83 +57,16 @@ Et fay moy triompher d'une jeune innocence.
 La voicy, Dieux ! je tremble à son divin aspect,
 Et je sens ce desir qui se change en respect.
 
-**** *book_ *id_I06 *act_I *date_1642 *creator_sallebray
-
--*who_la_vieille
-Qu'est-ce donc ?
-
--*who_precieuse
-      Ce n'est rien.
-
--*who_dom_jean_de_carcame
       Amour soutien ta cause.
 
--*who_la_vieille
-Rien !
-
--*who_precieuse
-      Non rien.
-
--*who_la_vieille
-      Il faut bien que ce soit quelque chose.
-
--*who_precieuse
-Dieu, qu'un petit sujet vous donne un grand soucy !
-Hé bien, c'est une papier qui vient de choir icy.
-Etes-vous satisfaite ?
-
--*who_dom_jean_de_carcame
       Ha que cet Astre brille !
 
--*who_precieuse
-Le voylà.
-
--*who_la_vieille
-      C'est luy-mesme.
-
--*who_precieuse
-      Ouy.
-
--*who_la_vieille
-      Vien, suy moy ma fille,
-Il le faut aborder.
-
--*who_precieuse
-      Qui ?
-
--*who_la_vieille
-      Ce Seigneur.
-
--*who_precieuse
-      O Dieux !
-Je ne le voyois pas, mais feignons pour le mieux.
-La Croix mon Cavalier.
-
--*who_dom_jean_de_carcame
       O favorable augure !
 
--*who_precieuse
-Nous vous dirons apres vôtre bonne avanture.
-
--*who_dom_jean_de_carcame
 Viens-tu de quelque espoir consoler ma langueur,
 Et moderer le feu que tu meis dans mon cœur ?
 Répons en ma faveur une bonne parole.
 
--*who_precieuse
-Voyons dans vôtre main, qui ce discours cajole⁎.
-
--*who_la_vieille
-Mon bon Seigneur sur tout, mettés la Croix dedans,
-Celles d'or marquent mieux les heureux accidens⁎.
-
--*who_precieuse
-Vous étes né sous les planettes
-D'Amour et de Valeur, de Venus et de Mars,
-Vôtre honneur court quelques hazars⁎
-Dans l'entreprise que vous faites.
-
--*who_dom_jean_de_carcame
 Ha ! ne me flate plus de cette erreur comune,
 De toy seulle depend l'une et l'autre fortune⁎,
 Et mon sort si tu veux, soit doux, soit inhumain,
@@ -566,10 +75,6 @@ Ne reconois-tu pas ce Dom Jean de Carcame ?
 C'en est le corps au moins qui vient joindre son ame,
 Son ame que tu pris...
 
--*who_precieuse
-      En quel temps ? En quel lieu ?
-
--*who_dom_jean_de_carcame
 Où ta rare beauté mit en sa place un Dieu,
 A Seville en un mot, ha ! c'est trop méconétre
 L'Amour que dans ton sein tes beaux yeux firent naitre,
@@ -580,93 +85,23 @@ Je gaigne en cette perte un bien inestimable,
 Et si tous mes tresors te pouvoient contenter,
 En voicy quelques-uns que je viens t'apporter.
 
--*who_la_vieille
-Bon cela.
-
--*who_dom_jean_de_carcame
       Recoy les avecque l'asseurance
 De posseder le reste.
 
--*who_la_vieille
-      Agreable esperance.
-
--*who_dom_jean_de_carcame
 Si tu veux approuver ma constante amitié⁎.
 
--*who_la_vieille
-Ma fille qu'en dis-tu ? pour moy j'en ay pitié.
-
--*who_dom_jean_de_carcame
 Ouy, si quelque faveur⁎ répond à mon envie,
 Sans mener plus long-temps cette honteuse vie,
 Je vous mets toutes deux au faiste du bon-heur,
 Et je vous fay passer de l'opprobre à l'honneur.
 
--*who_precieuse
-Vous n'étes pas le seul de qui l'ame abusée
-A jugé mon honneur une conqueste aisée,
-Plusieurs l'ont ataqué, tous ont été confus
-De souffrir⁎ comme vous la honte du refus.
-Consolés-vous Monsieur, vous avés des semblables,
-C'est le soulagement de tous les miserables.
-Le métier que je fays, et mes gayes humeurs,
-Qui sont de faux miroirs pour exposer mes mœurs,
-Inspirent, je le croy, cette injuste licence,
-Mais quand de ma vertu j'ai donné conessance,
-On se repent aussi des discours qu'on m'a fais,
-Voyant que l'apparence est contraire aux effets.
-Je vay, je viens, je cours, je ris et je folâtre,
-Toujours avec l'honneur dont je suis idolâtre,
-Et bien loin d'imiter vos Dames des Cités,
-Qui couvrent de frédeur leurs impudicités,
-J'ay les yeux tout de flame, et le cœur tout de glace,
-Et j'ose les braver dans mon honéte audace,
-Je ne perdis jamais à ce pudique jeu,
-Et c'est ainsi que l'or s'affine dans le feu.
-Si j'ay parlé de Croix, n'ayés pas la pensée
-Qu'un si lâche trafic me rende interessée,
-Non, non, l'argent n'est point l'objet de mes souhais,
-Et chacun sçait fort bien que je n'en pris jamais.
-Gardés donc vos tresors, et croyés je vous prie,
-Que ce que j'en ay dit c'est par galanterie,
-N'esperés pas par là ces innocens plaisirs,
-Qui sont dûs seulement aux innocens desirs,
-Si je vens mon honeur, ce seul tresor que j'aime,
-Ce ne sera jamais qu'au prix de l'honneur mesme.
-
--*who_la_vieille
-Voylà bien raisoner.
-
--*who_dom_jean_de_carcame
       Ha ! banny ce penser,
 Le garder un moment, c'est beaucoup m'offenser :
 Mets là ta belle main, et sois toute asseurée
 D'une foy, d'une amour d'eternelle durée.
 
--*who_la_vieille
-Ma foy c'est tout de bon, il ne se moque point.
-
--*who_precieuse
-Plusieurs difficultés s'opposent à ce point,
-Vous ne vaincrés jamais de si puissans obstacles.
-
--*who_dom_jean_de_carcame
 Amour dans le besoin⁎ sçait faire des miracles.
 
--*who_la_vieille
-Ouy, ouy, mon bon Seigneur.
-
--*who_precieuse
-      Sçachés que parmi nous
-La fille et son amant qui s'offre pour époux
-Eprouvent leurs humeurs⁎ le cours de deux années,
-Avant que de pouvoir joindre leurs destinées.
-A ces conditions engager vôtre foy,
-Subir à mon sujet la rigueur de la loy,
-Abaisser vôtre rang à cette infame vie,
-Avoués que déjà vous en perdés l'envie.
-
--*who_dom_jean_de_carcame
 Douter de ma constance⁎, ha ! mon cœur conoy mieux
 Le pouvoir de ma flame, et celuy de tes yeux.
 Propose si tu veux à mon ame asseurée
@@ -678,108 +113,25 @@ Toute condition me sera glorieuse,
 Et je triompheray de toutes ses rigueurs,
 Pourveu qu'un chaste hymen⁎ unisse un jour nos cœurs.
 
--*who_la_vieille
-O merveilleux dessein !
-
--*who_precieuse
-      Apres cette assurance,
-Si ma tante y consent...
-
--*who_dom_jean_de_carcame
       Vivray-je en esperance ?
 
--*who_la_vieille
-Moy je consens à tout.
-
--*who_precieuse
-      Hé bien, ouy, je me rends,
-Mais de quelle façon abuser vos parens ?
-Nous serions tous perdus s'ils en avoient un doute.
-
--*who_dom_jean_de_carcame
 Je conclus avec eux, ayant sceu vôtre route,
 De voyager en France, et m'en suis separé
 Sous ce pretexte faux qui me tient assuré,
 La guerre en fut un autre à m'exenter de suite.
 
--*who_precieuse
-Quoy, vous étes tout seul ?
-
--*who_dom_jean_de_carcame
       Ouy.
 
--*who_precieuse
-      La rare conduite !
-
--*who_dom_jean_de_carcame
 Il la faut achever, ne perdons point de temps,
 Pour ma réception préparés tous vos gens,
 Tandis que je feray transporter dans vos tantes.
 
--*who_precieuse
-Quoy ?
-
--*who_dom_jean_de_carcame
       Tout mon équipage, en serés vous contente ?
 
--*who_la_vieille
-Faites.
-
--*who_dom_jean_de_carcame
       En m'atendant garde toujours cecy.
 
--*who_precieuse
-Enfin vous m'offencés de me traiter ainsi.
-
--*who_la_vieille
-Donnés j'en auray soin.
-
--*who_precieuse
-      Non pas.
-
--*who_la_vieille
-      Elle se moque.
-
--*who_precieuse
-Je vous l'ay déjà dit, ce procedé me choque,
-De grace...
-
--*who_dom_jean_de_carcame
       C'est assés, à Dieu, je t'obéis.
 
-**** *book_ *id_I07 *act_I *date_1642 *creator_sallebray
-
--*who_la_vieille
-Mes leçons et mes soins⁎ sont donc ainsi trahis.
-
--*who_precieuse
-Voyez vous ? je haï trop cette humeur mercenaire.
-
--*who_la_vieille
-Folle tu ne sçais pas ce qui t'est necessaire,
-Refuser de l'argent, ô Dieux ! te moque-tu ?
-Conoy-tu son pouvoir ? en sçais-tu la vertu ?
-Somes-nous en danger ? l'argent nous en delivre,
-Dans les bras de la mort souvent l'argent fait vivre,
-Nous principalement, dont le sort quelque fois
-Est prest de succomber sous la rigueur des lois :
-Ces rayons exposés éblouïssent la veuë,
-Dissipent du malheur l'épouventable nuë,
-Eclairent à signer nôtre élargissement⁎,
-Et nous font retirer des prisons prontement,
-Apprens qu'une clef d'or ouvre toutes serrures.
-
--*who_precieuse
-Sçachés que la Vertu brave ces procedures,
-Au reste, allons hâter nos desseins resolus.
-
--*who_la_vieille
-Passe pour cette fois, mais n'y retourne plus.
-Fin du premier Acte.
-
-**** *book_ *id_II01 *act_II *date_1642 *creator_sallebray
-
--*who_dom_jean_de_carcame
 A peine mon vaisseau s'éloigne du rivage,
 Qu'un Neptune jaloux veut exciter l'orage,
 A peine dans la lice ay-je fait quelques pas,
@@ -809,31 +161,8 @@ Dans ce beau champ d'Amour marche plus assurée.
 Le Ciel rit à mes vœux, l'air me semble plus dous.
 C'est l'effet du Soleil qui s'approche de nous.
 
-**** *book_ *id_II02 *act_II *date_1642 *creator_sallebray 
-
--*who_le_capitaine
-Il faut entretenir le feu qui le consome.
-
--*who_la_vieille
-Le voylà.
-
--*who_le_capitaine
-      C'est assés.
-
--*who_precieuse
-      Hé bien mon Gentilhome,
-Avés-vous medité dessus votre dessein ?
-Et sentés-vous encor mesme ardeur⁎ dans le sein ?
-Etes-vous resolu d'entrer en nôtre bande ?
-
--*who_dom_jean_de_carcame
 Mais veut-on m'honorer d'une faveur⁎ si grande ?
 
--*who_precieuse
-Vous étes-vous tâté de toutes les façons ?
-Car enfin...
-
--*who_dom_jean_de_carcame
       Hé ! mon ame à quoy tant de soupçons ?
 J'ay remis en tes mains et mon sort et ma vie,
 Tu peux en disposer au gré de ton envie.
@@ -842,169 +171,19 @@ Doit m'élever plus haut que le trône des Rois,
 Juge si ma fortune en si beau lieu placée,
 Me peut faire dédire⁎ et changer de pensée.
 
--*who_precieuse
-Venés donc suivés-moy, vous serés enrôlé.
-Voicy le Cavalier dont on vous a parlé.
-
--*who_le_capitaine
-Bon, la façon m'en plaist, sa taille, et tous ses gestes,
-Sont d'un adroit voleur les preuves manifestes,
-J'atens de luy beaucoup en ce qu'il entreprend,
-Et sa mine promet quelque chose de grand.
-Tu sois le bien venu, cher soldat de Mercure,
-Aprens de ce nom seul quelle est ton avanture⁎.
-Le Ciel de ses faveurs fut ainsi liberal⁎,
-Donnant à nôtre armée un Dieu pour General,
-Rien n'échape à nos mains avec ses artifices,
-Et nous hazardons⁎ tout sous ses divins auspices,
-Cet avertissement doit déjà t'animer.
-
--*who_dom_jean_de_carcame
 Le glorieux motif !
 
--*who_le_capitaine
-      Pour te faire estimer
-Dans la profession que tu veux entreprendre,
-Observe bien nos lois, que je te vais apprendre.
-Eloigne en premier lieu ce fantôme d'honneur,
-Si tu veux réussir avec quelque bon-heur⁎,
-C'est un fâcheux demon jaloux de nôtre adresse,
-Qui rafine sur tout, et de tout s'interesse,
-Dont les tristes conseils, et les severes lois,
-Chargent de fers dorés les sujets et les Rois,
-Et nous portant au bien le moins digne d'envie,
-Retranchent les trois parts des plaisirs de la vie,
-Loin donc cet ennemi de nos contentemens,
-Loin la honte du blâme, et la peur des tourmens,
-Apres ces bons avis tu peux prendre les armes.
-
--*who_dom_jean_de_carcame
 L'honorable milice ! ô Dieux qu'elle a de charmes !
 
--*who_le_capitaine
-Nous cherchons les combas dont la bourse est le prix,
-Où la gloire⁎ consiste à n'étre point surpris,
-Où la subtilité l'emporte sur la force.
-Là, l'espoir du butin nous est bien quelque amorce⁎,
-Le gain donne un plaisir, mais il s'en faut beaucoup
-Qu'il égale celuy d'avoir fait un beau coup,
-Eprouve cette joye, et quoy que tu hazardes⁎,
-Songe qu'il faut duper qui se tient sur ses gardes,
-Endormir de discours ceux que nous réveillons,
-Et parétre en repos lors que nous travaillons,
-Comme il faut plus d'esprit, nôtre ame est plus ravie
-Quand un heureux⁎ effet succede à son envie.
-Etre prompt, avisé, hardi, subtil, adroit,
-Tirer sans qu'on le sente une bague du doit,
-Dénouër un colier, fouïller dans une poche,
-Prendre quoy que ce soit à qui que l'on approche,
-Afiner le plus fin⁎, et le moins empéché,
-Escamoter par tout, dans le Temple, au marché,
-Relever ce qui tombe, et serrer ce qui traine,
-Tout nous duit, tout nous plaist, tout est bon, quoy qu'on prene,
-Des gans, une chemise, un mouchoir, un chapeau,
-Une poule, un coc-d'Inde, un mouton, une peau,
-Tandis qu'un frere chasse, entretenir le maitre,
-Luy déguiser son bien jusqu'à le méconetre,
-Faire la guerre à l'oeil, que rien ne soit perdu,
-Bref, ne livrer jamais ce que l'on a vendu,
-C'est à quoy nôtre esprit applique son étude⁎,
-Secondé⁎ de nos mains et de leur prontitude.
-
--*who_dom_jean_de_carcame
 Le royal passe-temps ! quel divertissement⁎ !
 Et que jusques icy le métier est charmant !
 
--*who_le_capitaine
-Ne te rebute pas de nos plaisans mysteres
-Pour l'ordre du carcan, le fouët ou les galeres,
-Pour quelque trait de corde, ou ces petits afrons
-Dont on punit icy les plus fameux larrons :
-Que pas un de ces maux n'ébranle ta constance⁎,
-Et si ton mauvais sort te fait surprendre en France,
-Comme un present du Roy, reçoy la fleur de Lys,
-Par ces marques d'honneur nous somes ennoblis,
-Un bon soldat s'anime en voyant ses blessures,
-Et sans rien avouër nous souffrons les tortures,
-Au pouvoir du Prevost un de nous est-il mis,
-Il subit châtiment, non pour ce qu'il a pris,
-Mais pour étre si sot de s'étre laissé prendre.
-Qui ne sçait son métier doit tâcher de l'apprendre,
-Cela le subtilise⁎ en autre occasion,
-Et le rend bien plus prompt à l'execution.
-
--*who_dom_jean_de_carcame
 Qu'on prepare mon ame à d'agreables choses.
 
--*who_le_capitaine
-Passons de quelque épine en des plaines de roses.
-Nous possedons sans peur mille tresors divers,
-Et nous somes Seigneurs de ce grand Univers,
-Nous chassons dans les bois et dessus les montagnes,
-Nous jouissons des biens des plus riches campagnes,
-La terre à nos desirs offre tout avec chois,
-Les forests au besoin⁎ nous presentent du bois,
-Les fontaines de l'eau, les côteaux de l'ombrage,
-Les rochers un abri quand il fait quelque orage,
-Les vignes des raisins, les étangs des poissons,
-Les arbres et les champs des fruis et des moissons,
-Enfin avecque nous, pour peu que tu t'exposes,
-Sans qu'il te couste rien espere toutes choses.
-
--*who_dom_jean_de_carcame
 Qui ne seroit ravi de ces commodités ?
 
--*who_le_capitaine
-Jamais nous ne logeons dans l'enclos des Cités,
-Les dehors sont plus beaux, plus surs, et plus utiles,
-C'est là que nous plantons nos pavillons mobiles,
-Et nous en delogeons au moins quand il nous plaist,
-Là, nôtre emmeublement se trouve tousjours prest,
-Les gazons sont nos lits, et la belle prairie
-A nos palais volans sert de tapisserie,
-Nous y voyons aussi quantité de tableaux,
-Jamais dedans la Flandre il n'en fut de si beaux,
-L'art ne sçauroit atteindre à ces vivans ouvrages,
-Et Nature elle-méme a fait ces païsages.
-Ce cuir impenetrable aux rigueurs des saisons
-Nous fait braver le Ciel dans ces febles maisons,
-Les tonerres grondans sont pour nous des musiques,
-Les vens impetueux des zephirs⁎ pacifiques,
-Les éclairs des flambeaux, la pluye un bain charmant,
-Et les neges enfin un rafraichissement :
-Ainsi toujours contens nous passons nôtre vie
-Exemps d'ambition, de soucis, et d'envie,
-Ce beau dereglement ne te charme-t'il pas ?
-
--*who_dom_jean_de_carcame
 Ouy certes, et le trône a beaucoup moins d'apas.
 
--*who_le_capitaine
-Au reste, tu peux prendre en l'ardeur⁎ qui t'enflame
-Cette jeune beauté pour maitresse ou pour femme.
-
--*who_precieuse
-Arrétés-la de grace, et ne poursuivés point,
-Il est tombé d'acord avec moy sur ce point.
-Que s'il veut renoncer aux lois que j'ay prescrites,
-Je prefere l'honneur à ces rares merites,
-Nul de vous n'a pouvoir dessus ma volonté,
-N'en disposés donc pas avec autorité,
-Ce droit nous appartient avec plus de justice,
-Je l'ay fait esperer à deux ans de service,
-Mais quoy que le serment semble nous obliger,
-Il nous est libre encor de nous en dégager,
-Consultés-vous, Monsieur, touchant cette promesse,
-Recueillés vôtre cœur du someil qui le presse,
-Arrachés le bandeau qui vous couvre les yeux,
-Soyés plus raisonable, enfin choisissés mieux,
-Vôtre équipage est là, vous pouvés le reprendre.
-
--*who_la_vieille
-Je ne pourois jamais me resoudre à le rendre,
-Accordés-vous plustost.
-
--*who_dom_jean_de_carcame
       Je te suis donc suspect ?
 Quoy dans beaucoup d'amour crains-tu peu de respect⁎ ?
 Non, non, engage encor mes flames amoureuses
@@ -1021,19 +200,10 @@ Et si l'Amour m'excite à quelque autre plaisir,
 Un baiser tout au plus bornera mon desir,
 Puis-je pas esperer ce remede à ma flame ?
 
--*who_precieuse
-Ouy, si sage d'ailleurs...
-
--*who_dom_jean_de_carcame
       N'en doute plus mon ame.
 Et vous mon Capitaine, il me faut octroyer
 Un mois d'aprentissage a ce noble métier.
 
--*who_le_capitaine
-C'est trop de la moitié pour étre passé maitre,
-Apres deux ou trois vols assure-toy de l'etre.
-
--*who_dom_jean_de_carcame
 Souffrés⁎ que dans ce temps je n'en fasse pas un,
 Ces quatre cens ducas⁎ départis au comun
 Supleront au defaut de cette main oisive,
@@ -1041,63 +211,10 @@ Prenés-les pour ma part du bien dont je vous prive, 635
 Apres qu'on laisse faire à mes secrets effors,
 Mon adresse d'abord s'ataque aux coffres fors.
 
--*who_le_capitaine
-Ta generosité n'eut jamais son égale,
-Ouy, ces riches effets de ta main liberale⁎,
-Font resoudre la troupe à quoy que tu voudras,
-Dispose de nos cœurs ainsi que de nos bras.
-Il reste maintenant à prendre un nom de guerre
-Qui te fasse inconu courir toute la terre,
-Herite de celuy du plus fameux voleur
-Qui jamais parmi nous signala sa valeur,
-Il se nomoit Andrés, plaist-il à ton envie ?
-
--*who_dom_jean_de_carcame
 Je le conserveray tout le temps de ma vie,
 Andrés, ha ! que ce nom me semble glorieux⁎,
 Puisqu'il m'est imposé pour servir ces beaux yeux !
 
--*who_le_capitaine
-Donc que chacun de nous montre son allegresse,
-D'un si cher camarade exaltons la noblesse,
-Meslons un doux concert à nos remercimens,
-Et faisons mille vœux pour ses contentemens.
-
--*who_egyptiens
-Vive le noble Andrés, vive la Precieuse
-D'une vie à leur gré la plus delicieuse,
-Qu'Hymen⁎ joigne bien-tost ce beau couple d'Amans,
-Et que rien ne s'oppose à leurs embrassemens⁎.
-
--*who_le_capitaine
-Voyla qui vaut l'argent, cet objet⁎ qui t'engage
-Du fard Egiptien t'enseignera l'usage,
-Surtout change d'habit pour nôtre seureté,
-Et pour aller par tout avecque liberté,
-Nous en avons tousjours quelques-un dans nos tantes
-Pour ceux qui sont receus au métier que tu tentes :
-Tandis, pour eviter tout accident⁎ fatal,
-Je vay rendre l'honneur qu'on doit au Senechal,
-Nôtre bande a besoin du pouvoir qu'il possede,
-Déjà depuis deux jours nous rodons dans Tolede
-Sans la permission qu'il nous faut obtenir,
-Adieu, demeurés seuls pour vous entretenir.
-
--*who_la_vieille
-Enfin tout est à nous, homme, argent et bagage,
-Mais allons de plus prez visiter l'équipage.
-
--*who_le_capitaine
-Puissant Dieu des matois, et des subtilités,
-Mercure inspire luy tes bonnes qualités,
-Afin qu'aux yeux de tous il vole en assurance,
-Et trompe des Argus l'exacte vigilance.
-Suivés-moy Compagnons, tous en ordre rangés,
-Ces ducas⁎ au retour vous seront partagés.
-
-**** *book_ *id_II03 *act_II *date_1642 *creator_sallebray 
-
--*who_dom_jean_de_carcame
 Enfin j'ay le bon-heur où mon amour aspire,
 Mon sort est dans tes mains, je vis sous ton empire,
 Me voyla ton sujet, et j'ay receu tes lois,
@@ -1133,19 +250,6 @@ Que formerent l'Amour, la Nature et les Dieux :
 Mais à te voir si triste en mon bon-heur insigne⁎,
 Il semble que déjà tu m'en juges indigne.
 
--*who_precieuse
-Me doy-je réjouir de vous avoir réduit
-A quiter un beau jour pour une afreuse nuit,
-A quiter des rayons pour un nuage sombre,
-La gloire⁎ pour la honte, et le Soleil pour l'ombre,
-Les plaisirs pour la peine, et les biens pour les maux,
-Un repos assuré pour de rudes travaux⁎,
-Une Princesse enfin pour une Egiptienne ?
-Non, Seigneur, croyés-moy, quelque honneur qui m'en vienne,
-Je vous estime trop pour ne m'afliger pas
-Du tort que je vous fais par mes febles apas⁎.
-
--*who_dom_jean_de_carcame
 Que ton affliction console bien mon ame !
 Que ton regret me plaist ! que ta frédeur m'enflame !
 Il est donc vray, mon cœur, que ta sainte amitié⁎
@@ -1164,61 +268,22 @@ Contre l'ordre du monde elle fait un beau jour,
 Et r'alume par tout le flambeau de l'Amour,
 Mais pardonneras-tu ma première licence ?
 
--*who_precieuse
-Ouy, puisque vous avés une entière puissance.
-
--*who_dom_jean_de_carcame
 D'où te vient ce papier ? que son destin est doux !
 
--*who_precieuse
-Si c'est une douceur que de faire un jaloux,
-Ce poulet en ce lieu vous donne de l'ombrage,
-Avoüés.
-
--*who_dom_jean_de_carcame
       Nullement.
 
--*who_precieuse
-      L'Auteur vaut bien l'ouvrage.
-
--*who_dom_jean_de_carcame
 Je le croy.
 
--*who_precieuse
-      Tout de bon ?
-
--*who_dom_jean_de_carcame
       Ouy certes.
 
--*who_precieuse
-      Cependant,
-Je veux de son rival faire mon confident,
-Tenés, apres cela doutés que je vous aime,
-Car je ne l'ay point leu.
-
--*who_dom_jean_de_carcame
       La faveur est extreme.
 
--*who_precieuse
-J'en espere pourtant un aimable entretien,
-Il est un peu remis.
-
--*who_dom_jean_de_carcame
       Mon cœur ne crains plus rien.
 
--*who_precieuse
-Lisés haut, vous riés.
-
--*who_dom_jean_de_carcame
       Il faut bien que je rie
 De l'agreable effet de cette tromperie,
 Ce sont des Vers.
 
--*who_precieuse
-      Hé bien, c'est le parler des Dieux,
-Le stile en est plus doux, et persuade mieux.
-
--*who_dom_jean_de_carcame
 Je chante dans les fers mieux qu'un Egiptien,
 Vous me réjouissés en me donnant la géne⁎:
 Mais pourquoy joignés-vous le repos à ma chaine ?
@@ -1228,425 +293,97 @@ Servés-vous du pouvoir que mon destin vous donne
 D'un employ prez de vous honorés ma personne,
 Et ne rejetés pas les vœux d'un pauvre amant.
 
--*who_precieuse
-Hé bien qu'en dites-vous ? ce n'est pas un novice,
-Voyés qu'adrétement il m'offre son service.
-
--*who_dom_jean_de_carcame
 Voylà pour un captif parler bien librement,
 Mais il ne devoit pas finir si pauvrement,
 L'Amour est de ce mal la mortelle ennemie,
 Et pour un pauvre Amant je serois endormie.
 
--*who_precieuse
-Ainsi que de ses Vers vous rirés de l'objet.
-
--*who_dom_jean_de_carcame
 Mais qui t'en feroit voir sur un autre sujet ?
 
--*who_precieuse
-De qui ?
-
--*who_dom_jean_de_carcame
       Dissimulons. D'un jeune Gentilhomme
 Mon plus intime amy, qui t'aime.
 
--*who_precieuse
-      Et qui se nomme ?
-
--*who_dom_jean_de_carcame
 Son nom ne se dit pas.
 
--*who_precieuse
-      C'est luy-mesme. Et pourquoy ?
-
--*who_dom_jean_de_carcame
 Pour cause, les voicy, c'est un recit pour toy,
 Au balet que...
 
--*who_precieuse
-      J'entens ce que vous voulés dire,
-Voyons.
-
--*who_dom_jean_de_carcame
       A ce penser il faut que je soupire,
 Là, mes superbes⁎ sens furent humiliés,
 Et ta grace à danser foula mon cœur aux piés.
 
--*who_precieuse
-Epargnés ces discours où l'amour vous emporte.
-
--*who_dom_jean_de_carcame
 Tu devois à peu pres nous parler de la sorte.
 
--*who_precieuse
-Vous avés leu les miens, que je lise ceux-ci.
-
--*who_dom_jean_de_carcame
 Il est juste, tiens donc, tu peux en rire aussi.
 
--*who_precieuse
-Si je vous semble Egiptienne,
-Je n'en ay que l'habit, l'adresse et les cheveux,
-Et quoy que d'un Cesar leur Reine ait eu les vœux,
-Sa beauté toutefois fut moindre que la mienne.
-J'attire à moy tous les humains,
-Curieux de me voir ainsi que de m'entendre,
-Et pas un ne se peut defendre
-Des coups où mes beaux yeux font l'office des mains.
-Je donne aux ames la torture,
-Je ne prens que des cœurs, mes larcins sont hardis,
-Et je fais mieux que je ne dis,
-La bonne ou mauvaise avanture.
-Mes compagnes et moy d'une adresse subtile
-Nous volons en tous lieux,
-Mais de tout nôtre bien je leur quite l'utile,
-Et ne profite point que du delicieux.
-Comme on void nos larcins estre fort différens,
-Nos restitutions ont des effets contraires,
-La leur oblige⁎ fort, et moy lorsque je rens,
-Je cause des douleurs ameres,
-Et l'on me fait mille prieres
-De retenir tousjours ce que je prens.
-
--*who_dom_jean_de_carcame
 Que t'en semble ?
 
--*who_precieuse
-      L'ouvrage est sans doute admirable,
-Heureuse si le sens en étoit véritable.
-
--*who_dom_jean_de_carcame
 Je le puis assurer sans faire le flateur.
 
--*who_precieuse
-Si vous craignés encor qu'on découvre l'autheur,
-Suivés-moy seulement.
-
--*who_dom_jean_de_carcame
       Sçais-tu qui ce peut estre ?
 
--*who_precieuse
-Je le vay deguiser, il se fait trop conestre,
-Mais il faut qu'avec moy vous y mettiés la main.
-
--*who_dom_jean_de_carcame
 Elle s'en doute, Amour seconde⁎ son dessein.
 Fin du second Acte.
 
-**** *book_ *id_III01 *act_III *date_1642 *creator_sallebray
-
--*who_le_poete
-Au secours, je suis mort, ha ! quelle destinée
-M'a fait treuver ces chiens dans leur rage obstinée ?
-
--*who_egyptien
-Sans doute nos mâtins font quelque bon repas,
-Ils cessent d'aboyer, suy moy, doublons le pas.
-
--*who_le_poete
-O Dieux ! je n'en puis plus.
-
--*who_egyptien
-      J'entens quelqu'un se plaindre.
-Approche ta lumiere, et garde de l'éteindre.
-Ma foy c'est un berger prest à laisser sa peau,
-Tu verras que nos chiens sont apres le troupeau.
-Es-tu mort ?
-
--*who_le_poete
-      Je me meurs.
-
--*who_egyptien
-      Hé ! qui diable t'ameine
-En ces lieux, et de nuit ?
-
--*who_le_poete
-      Ma fortune⁎ inhumaine,
-Mais sans plus discourir, de grace assistés-moy.
-
--*who_egyptien
-Apres, qui nous payra ?
-
--*who_le_poete
-      Moy-mesme.
-
--*who_egyptien
-      As-tu de quoy ?
-Je ne fais rien pour rien, songe à quoy tu t'engages.
-
--*who_le_poete
-Ouy, tenés, ce ducat⁎ vous servira de gages⁎.
-
--*who_egyptien
-Prens courage à present, va, croy moy, ce n'est rien,
-Quant tu seras guery tu te porteras bien.
-Un ducat⁎ d'un berger !
-
--*who_le_poete
-      Amis, qui vous arreste ?
-
--*who_egyptien
-Ca, donne-moy tes piés, toy prens-le par la teste,
-Une vieille entre nous par un magique sort,
-En touchant de l'argent feroit revivre un mort,
-Nous allons de ce pas te porter dans sa tante,
-Pour en estre content, rens-la devant⁎ contente.
-
--*who_le_poete
-Je n'épargneray rien pour mon soulagement.
-
-**** *book_ *id_III02 *act_III *date_1642 *creator_sallebray 
-
--*who_la_vieille
-Mon fils, où courés-vous ?
-
--*who_precieuse
-      Arrestés un moment.
-
--*who_egyptien
-La voyla, je l'entens, approchés bonne mere,
-Voicy de la pratique.
-
--*who_dom_jean_de_carcame
       O Dieux quelle misere !
 
--*who_la_vieille
-C'est la cause du bruit qui vous faisoit courir.
-
--*who_precieuse
-Ma tante dépechons, il faut le secourir.
-
--*who_la_vieille
-Hé bien, qu'est-ce qui fait le sujet de tes plaintes ?
-
--*who_le_poete
-Les dens de vos mâtins sur mes jambes empraintes.
-Helas ! si dans le temps qu'ils me faisoient ce mal,
-Il ne fut par bon-heur passé quelque animal,
-Dessus qui maintenant ils repaissent leur rage,
-Ils n'auroient pas encore arresté leur outrage.
-
--*who_la_vieille
-Si je te puis guerir que me donneras-tu ?
-L'or est un prompt remede, et de grande vertu,
-Le baume le meilleur coule de cette source,
-Et pour fermer la playe il fait ouvrir la bource.
-
--*who_le_poete
-Hâtés ma guerison de tout vôtre pouvoir,
-Je vous contenteray par dessus vôtre espoir.
-
--*who_la_vieille
-Enfans, portés-le donc en la plus proche tante,
-Ma fille va querir de mon divin Nepante
-Je gueris avec luy toute sorte de maux,
-Mais il faut sur les tiens murmurer quelques mots,
-Pour arrester le sang qui coule en abondance.
-
--*who_le_poete
-Mon mal va jusqu'au cœur.
-
--*who_dom_jean_de_carcame
       Amy, prens patience.
 
--*who_la_vieille
-Ne l'as-tu point tantost assés considéré ?
-Cours, es-tu revenuë ?
-
--*who_precieuse
-      Il est trop assuré,
-C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,
-De nuit, et déguisé, je crains quelque surprise.
-
-**** *book_ *id_III03 *act_III *date_1642 *creator_sallebray 
-
--*who_le_poete
-Soleil dont la lumiere est si douce à mes yeux,
-Tarderas-tu long-temps de parétre en ces lieux ?
-
--*who_dom_jean_de_carcame
 Non, il est tantost jour.
 
--*who_le_poete
-      Sa divine presence
-Peut des maux que je sens charmer la violence.
-
--*who_la_vieille
-Entrés-là, c'en est fait, son sang est arresté.
-
--*who_dom_jean_de_carcame
 O discours salutaire en cette extremité.
 
-**** *book_ *id_III04 *act_III *date_1642 *creator_sallebray 
-
--*who_dom_jean_de_carcame
 Quoy déjà de retour ?
 
--*who_la_vieille
-      Viste, ma fille apporte.
-
-**** *book_ *id_III05 *act_III *date_1642 *creator_sallebray
-
--*who_precieuse
-La charité m'oblige⁎ à courir de la sorte.
-
--*who_dom_jean_de_carcame
 Tu dois, s'il est ainsi, faire quelques effors,
 Pour soulager mon ame aussi bien que son corps.
 
--*who_precieuse
-Si vous n'avés besoin que de ma diligence...
-
--*who_dom_jean_de_carcame
 Tu pourois sans courir hâter mon alegeance.
 
-**** *book_ *id_III06 *act_III *date_1642 *creator_sallebray
-
--*who_la_vieille
-Te voylà bien, à Dieu, repose en seureté,
-Tandis que j'en vay faire autant de mon côté,
-Si pour ta guerison trop long-temps je someille,
-Aprens qu'au son de l'or nôtre soin se réveille.
-
--*who_dom_jean_de_carcame
 Sa mine et son discours me font conestre assés
 Que vos soins quelque jour seront recompensés.
 
--*who_la_vieille
-J'entens bien dés demain recevoir mon salaire,
-Fut-il mon propre enfant, fut-il mon propre frere,
-S'il m'avoit fait attendre apres luy plus long-temps,
-L'un de l'autre tous deux nous serions mécontens,
-Point d'argent, point d'unguent, dessus cette pensée
-Allons nous retirer.
-
--*who_dom_jean_de_carcame
       Qu'elle est intéressée !
 
--*who_precieuse
-Ma tante allés devant, nous vous suivons de prez.
-
-**** *book_ *id_III07 *act_III *date_1642 *creator_sallebray
-
--*who_precieuse
-Les Lauriers d'Apollon sont changez en Cyprez.
-
--*who_dom_jean_de_carcame
 Comment ? à ce discours je ne puis rien comprendre.
 
--*who_precieuse
-Le plaisant accident⁎ que je vous vais apprendre !
-
--*who_dom_jean_de_carcame
 Qu'est-ce donc mon soucy ?
 
--*who_precieuse
-      Mais me promettés-vous ?
-
--*who_dom_jean_de_carcame
 Ouy, parle, que veux-tu ?
 
--*who_precieuse
-      De n'estre point jalous.
-
--*who_dom_jean_de_carcame
 Assis entre les Dieux, et parmi l'ambroisie,
 Qui pouroit à present troubler ma fantaisie⁎ ?
 
--*who_precieuse
-Ce mal nous vient souvent d'un soupçon plus leger.
-Qui pensés-vous que soit ce malheureux berger ?
-
--*who_dom_jean_de_carcame
 Parle-tu du blessé ?
 
--*who_precieuse
-      Je parle de luy-mesme.
-
--*who_dom_jean_de_carcame
 Le connois-tu d'ailleurs ? est-ce quelqu'un qui t'aime ?
 
--*who_precieuse
-N'exciteray-je point une mauvaise humeur ?
-
--*who_dom_jean_de_carcame
 Point du tout.
 
--*who_precieuse
-      Sçachez donc que c'est nôtre rimeur.
-
--*who_dom_jean_de_carcame
 Quoy, celuy dont tantost nous avons leu des Stances ?
 
--*who_precieuse
-Celuy-là mesme, autheur de ces extravagances⁎.
-
--*who_dom_jean_de_carcame
 Ha ! certes j'ay pitié de ce pauvre garçon.
 
--*who_precieuse
-Le sort le persecute en plus d'une façon,
-Ce n'estoit pas assés qu'il eut mal à la teste,
-Il falloit que ses piés...
-
--*who_dom_jean_de_carcame
       Enfin c'est ta conqueste,
 Pourquoy traiter si mal un si fidelle Amant ?
 Tu l'as porté peut-estre à ce déguisement.
 
--*who_precieuse
-Ne voyla pas déja des effets de ma crainte.
-Vous estes donc jaloux.
-
--*who_dom_jean_de_carcame
       Est-ce franchise ou feinte ?
 Moy, jaloux, nullement.
 
--*who_precieuse
-      L'estrange vision⁎
-De me croire complice en cette occasion⁎ !
-Hé bien, pour avoir paix, et me montrer fidelle,
-Je ne le verray point.
-
--*who_dom_jean_de_carcame
       C'est estre bien cruelle.
 
--*who_precieuse
-Je vous ay fait déja deux fois mon confident,
-J'attens de vous le mesme en pareil accident⁎,
-Ne me procurés point le mal dont je vous prive,
-Et chassons le martel aussi-tost qu'il arrive.
-
--*who_dom_jean_de_carcame
 Si je pouvois un jour t'en causer en effet,
 Je serois bien vangé du mal que m'as fait.
 
--*who_precieuse
-Ha ! ma sainte amitié⁎ defend cette vangeance,
-Adieu, separons-nous en bonne intelligence⁎.
-
--*who_dom_jean_de_carcame
 Un baiser tout au moins m'en fera la raison,
 Peut-on cueillir ce fruit en plus belle saison ?
 
--*who_precieuse
-Est-ce là ce respect et cette retenuë ?
-
--*who_dom_jean_de_carcame
 Ouy, mal-gré mon amour mon respect continuë,
 Mais c'est une faveur⁎ permise à mon desir.
 
--*who_precieuse
-Nous en disputerons le jour plus à loisir.
-Je n'ay pas entendu que ce fut à toute heure.
-
--*who_dom_jean_de_carcame
 La nuit, et sans témoins elle seroit meilleure.
 
-**** *book_ *id_III08 *act_III *date_1642 *creator_sallebray
-
--*who_dom_jean_de_carcame
 Loin de ces beaux charmeurs qui corrompent les sens,
 Donnons un libre cours à nos desirs pressans,
 Amour, foy, complaisance, incomparable idée,
@@ -1708,52 +445,26 @@ Tirons de ce rival un éclaircissement,
 Arrachons son aveu par force ou par adresse,
 Et perdons puis apres le traitre et la traitresse.
 
-**** *book_ *id_III09 *act_III *date_1642 *creator_sallebray 
-
--*who_dom_jean_de_carcame
 Camarade, dors-tu ?
 
--*who_le_poete
-      Les langueurs que je sens
-Commençoient d'assoupir mes esprits et mes sens.
-
--*who_dom_jean_de_carcame
 Hé bien, que dit le cœur ? comment vont tes morsures ?
 
--*who_le_poete
-Comme il plaist au destin qui m'a fait ces blessures.
-
--*who_dom_jean_de_carcame
 Je plains ton infortune⁎, et j'en suis bien marry.
 Dans trois jours au plus tard tu seras tout guery.
 Mais qui te presse ainsi ? quelle affaire importante
 Te fait marcher de nuit, et devers⁎ cette tante ?
 Parle.
 
--*who_le_poete
-      Helas !
-
--*who_dom_jean_de_carcame
       Je le tiens, ce discours l'a surpris.
 Répons-moy, que crains-tu ? r'appelle tes esprits,
 Tu peux m'entretenir avec toute assurance.
 
--*who_le_poete
-Hé de quoy ? de douleurs, de peine, de souffrance,
-C'est là tout l'entretien que vous pourriés avoir,
-Déplaisant à donner, et triste à recevoir...
-
--*who_dom_jean_de_carcame
 Voyés qu'il equivoque, et qu'il feint bien le traitre.
 Plus je t'entens parler, plus je te croy conestre,
 Ta mine et cet estat ont trop peu de rapport,
 Et ce rustique habit cache un plus noble sort,
 Confesse.
 
--*who_le_poete
-      Plût au Ciel.
-
--*who_dom_jean_de_carcame
       Ma pensée est trop vraye,
 Et me fait découvrir une nouvelle playe,
 Mon ame a succombé sous de plus doux effors,
@@ -1765,26 +476,13 @@ Dont l'éclat a de l'air de la Divinité,
 Un cœur aura receu son adorable Image,
 Et par son ordre exprez tu viens luy rendre hommage.
 
--*who_le_poete
-Rien moins.
-
--*who_dom_jean_de_carcame
       Ce rare effet de ta discretion
 Te rend plus digne encor de son affection.
 
--*who_le_poete
-Perdés encore un coup cette injuste pensée,
-Dont sa chaste pudeur pouroit estre offensée.
-
--*who_dom_jean_de_carcame
 Comme il prend son parti, mais allons jusqu'au bout,
 Il faut apres cela qu'il me declare tout.
 A quoy bon, découvert te cacher davantage ?
 
--*who_le_poete
-Je ne puis avouer un si faux avantage⁎.
-
--*who_dom_jean_de_carcame
 Pour estre Egiptien ne croy pas que mon cœur
 Ignore le pouvoir de ce noble vainqueur,
 Je sçay bien que l'Amour porte à d'estranges choses,
@@ -1794,30 +492,11 @@ La belle Egiptienne est digne de tes vœux,
 Bien loin de la blâmer j'estime ton adresse,
 Et je te veux servir auprez de ta maitresse.
 
--*who_le_poete
-Ton zele enfin me charme, et ta civilité
-Me force à contenter ta curiosité,
-Mon cœur s'ouvre de joye au nom de cette belle,
-J'ay l'heur⁎ de la connestre, et d'estre connu d'elle,
-Et puisque tu peux lire en ce cœur malheureux,
-Je ne te niray plus que j'en suis amoureux.
-
--*who_dom_jean_de_carcame
 Apres avoir langui, enfin ce mot me tuë.
 
--*who_le_poete
-Elle a rendu la force à mon ame abatuë,
-Et l'appareil plus doux à mon mal furieux,
-Fut le charme innocent qui vint de ses beaux yeux.
-
--*who_dom_jean_de_carcame
 Il guerit et je meurs, mais la rage m'anime,
 De ton rare merite elle fait grand' estime.
 
--*who_le_poete
-Si peu.
-
--*who_dom_jean_de_carcame
       Quoy tu t'en plains, ha ! n'en fais plus le fin⁎,
 Acheve d'exposer ton bien-heureux destin,
 Nous sommes, tu le sçais, les plus secrets du monde.
@@ -1830,10 +509,6 @@ Et sans aller plus loin que ce mesme sejour,
 Je t'en pourois conter une du dernier jour,
 Qui vaut bien à mon gré la peine de l'entendre.
 
--*who_le_poete
-Que je seray ravy si tu veux me l'apprendre !
-
--*who_dom_jean_de_carcame
 Tu me fermes la bouche en me fermant ton coeur,
 Et tu me crois sans doute indiscret ou moqueur,
 Voy-tu ? ne couvre plus une flame apparente,
@@ -1841,17 +516,6 @@ Et sçache que la fille est ma proche parente,
 Que je vous puis servir tous deux en vos amours,
 Vous faisant preferer des nuits aux plus beaux jours.
 
--*who_le_poete
-Je ne refuse pas cette offre avantageuse⁎,
-Mais mieux que son parent je connoy Precieuse,
-On ne peut faire bréche à sa chaste vertu,
-Par discours, par presens, en vain j'ay combatu,
-Rien ne peut ébranler cette vivante roche,
-Mille trais⁎ enflamés en défendent l'approche,
-Et lorsqu'on la permet, c'est pour mieux faire voir
-Que sans intelligence⁎ on ne la peut avoir.
-
--*who_dom_jean_de_carcame
 Ha ! ce dernier discours me redonne la vie,
 Mais redoublons l'épreuve, et sçachons son envie.
 Dy ce que tu voudras pour cacher ton dessein,
@@ -1864,20 +528,1344 @@ Sinon il ne faut point tant de ceremonies,
 De semblables vertus parmi nous sont banies,
 Pourveu que nous voyons quelque somme d'argent.
 
--*who_le_poete
-Cher ami, ce discours est par trop obligeant⁎.
-
--*who_dom_jean_de_carcame
 En as-tu ?
 
--*who_le_poete
-      J'ay sur moy quelques six vingts pistoles⁎.
-
--*who_dom_jean_de_carcame
 C'est pour la suborner. Donc sans plus de paroles
 Laisse-moy faire.
 
--*who_le_poete
+Si ce n'est que cela repose en assurance,
+Je m'en vay de ce pas y resoudre nos gens.
+
+Marche droit hardiment⁎, ou mon ame abusée
+Sçaura bien se vanger de ta flame rusée,
+Qui cherche ma maitresse il cherche le trespas⁎,
+Je t'irois immoler⁎, à ses yeux, dans ses bras,
+Et si son lâche cœur trempoit dedans ton crime,
+J'abatrois d'un seul coup l'autel et la victime.
+Fin du troisieme Acte.
+
+Mais tu ne me dis rien de ce pauvre blessé,
+Est-ce ainsi qu'un Amant doit estre delaissé ?
+Est-ce ainsi que l'amour doit ceder à la crainte ?
+
+      Ouy, je l'ay visité,
+J'ay plus de soin⁎ que toy, j'ay plus de charité.
+
+J'ay flaté la douleur dont son ame est saisie,
+Et mesme j'ay promis de l'en faire guerir.
+
+      Je crains qu'il ne se trouble,
+Sa playe est toute en feu, la fiévre luy redouble,
+Enfin il est fort mal, tu devois bien aussi
+Faire en sorte qu'il vint plus surement icy,
+Et c'étoit bien assés du feu qui le devore.
+
+Il ne le dira point qu'à sa seule maitresse,
+Et je me suis chargé pour son allegement⁎,
+D'obtenir l'entretien d'une heure seulement,
+Ne luy refuse pas un bien si desirable,
+Et prepare à ses vœux un acueil favorable.
+
+Ha ! le fâcheux objet⁎.
+
+      Une fille importune.
+
+Voy mon dernier refus.
+
+Je voy bien ce que c'est, tu veux rire à ton tour,
+Mais ne croy pas au moins...
+
+De quel nouveau mal-heur⁎ mes jours sont-ils suivis ?
+
+Madame, vous m'offrés un honneur qui m'étonne⁎.
+J'ay veu de vôtre part l'une et l'autre personne,
+Toutes deux m'ont parlé de vôtre indigne choix,
+Toutes deux m'ont ravy l'usage de la voix,
+Et maintenant encor je ne sçay que répondre,
+Trop d'éclat m'éblouit, trop d'heur⁎ me vient confondre,
+Et ces rares faveurs⁎ me font imaginer
+Qu'à quelque autre qu'à moy vous croyés les donner :
+Sortés de vôtre erreur, voyés ce que vous faites,
+Regardés qui je suis, et songés qui vous estes,
+Si vos yeux ont un voile, ou si vous sommeillés,
+Arrachés-le, Madame, ou bien vous éveillés.
+
+Nôtre pouvoir est vain pour les charmes de l'ame,
+Et ce sont les démons qu'en ce point on reclame.
+
+Descendre jusqu'à moy, m'élever jusqu'à vous,
+D'un pauvre Egiptien en faire vôtre époux,
+Ravi d'une si haute et si rare merveille,
+Quoy que prez d'un soleil je doute si je veille,
+Et je ne comprens pas par quel heureux destin
+J'ai pû faire un si noble, et si riche butin.
+A quelles dures lois est mon ame asservie,
+Que je ne puisse pas contenter vôtre envie,
+Que je ne puisse pas jouir de ce bon-heur
+Qui contient le plaisir, la richesse et l'honneur ?
+Ha ! c'est bien maintenant que l'ingratte Fortune⁎
+Me fait sentir les trais⁎ de sa haine importune,
+Me venant d'une main un tresor presenter,
+Que l'autre au mesme instant me defend d'accepter.
+
+La rigueur de nos loix, qui veut que parmi nous
+Nous prénions une femme et la fille un époux,
+Lors par qui mon mal-heur⁎ a sa rage assouvie,
+Et qu'il faut observer sur peine de la vie.
+
+Vous ne me sauvés pas de l'infidelité.
+
+J'espere voir bien-tost cette heureuse journée.
+
+Trop puissant est l'objet⁎ qui me sceut engager,
+
+Sa vertu me plaist mieux qu'une race⁎ ancienne.
+
+De la seule vertu je puis tout esperer.
+
+Je me tiens à l'espoir, qui m'en donne assurance.
+
+Quoy qui puisse arriver j'en beniray l'autheur.
+
+J'aime dans mon destin le nœud qui les assemble.
+
+Je ne vous puis donner un cœur que je n'ay plus.
+
+Amour, que ton pouvoir tyranise nos ames,
+Et que de ton flambeau sortent d'étranges flames !
+
+Que dans ce changement une fille est à craindre.
+
+Que cette affaire, helas, est fatale à ma foy !
+
+Dieu ! quelle est ta malice, ha ! sois moins soupçonneuse.
+
+Pardon, tu vois mon ame encor toute agitée
+Du menaçant couroux d'une amante irritée.
+
+Je suis compris aussi dans ce mortel orage,
+Mais le Ciel m'est témoin si j'ay peur que pour toy,
+Quoy que cette enragée ait vomy contre moy,
+Quelques fers qu'à present me forge sa malice,
+Je ne me plaindrois point d'un si proche supplice⁎,
+Si ce mesme démon pour crestre mes douleurs,
+Ne vouloit t'exposer à de mesmes mal-heurs⁎ ;
+Je crains que sa menace enfin ne s'effectuë,
+Et c'est ce qui me trouble, et c'est qui me tuë,
+Fuyons, si tu m'en crois, de ce lieu mal-heureux.
+
+Tréve, tréve, mon cœur à cette raillerie,
+L'orage dessus nous est tout prest à crever,
+Et nous sommes perdus si l'on nous peut treuver.
+
+Helas ! nôtre mal-heur le rend trop veritable.
+
+      Un sanglant desespoir,
+Mais fuyons j'oy du bruit.
+
+Ha ! mon cœur, c'est bien moy...
+
+Sur nos chastes desseins mon amour se repose.
+
+      L'effrontée !
+
+      Moy !
+
+Celle qui m'a prié m'ose-t'elle accuser ?
+Craint-elle point la honte où je puis l'exposer ?
+
+Justes Dieux souffrés-vous cette lâche imposture ?
+
+      Ouy, qu'on l'aille querir,
+Si tout ne m'appartient je consens à périr.
+
+Qui croiroit tant de ruses avecque tant de charmes ?
+
+      Quel titre !
+
+Que voy-je ?
+
+      Dieux que je suis confus !
+
+Tout cela ne se fait que par enchantement.
+
+C'est de luy seulement que j'attens ma defense.
+
+Ouy, je succombe aux trais⁎ de ta noire malice.
+
+      Ecoutés pour le moins.
+
+      Ha monstre que j'abhorre !
+Tu m'empesches en vain.
+
+      Un soufflet, effronté !
+Ton sang me vangera de ta temerité.
+
+      C'en est fait, il est mort.
+
+Je n'enduray jamais de semblables affrons.
+
+C'est le dernier souhait qui parte de mon cœur,
+Et je mouray content pourveu que je l'obtienne.
+
+Sa vertu meritoit un destin plus heureux,
+Et je devois avoir un sort moins rigoureux.
+
+Ces reproches honteux commencent mon suplice⁎.
+
+Dites, sans offenser sa generosité,
+Complice d'innocence et de fidelité.
+
+Quoy donc je suis trahy de son affection ?
+
+Si j'ay la liberté, permetés que j'en use.
+Ce n'est pas que mon sort dans l'honneur de ce chois
+Ne fut trop glorieux⁎ de vivre sous ses lois,
+Mais j'ay déja donné mon ame à cette belle,
+Et j'aime mieux mourir mal-heureux qu'infidelle.
+
+O Ciel ! ha lâcheté qui n'a point de pareille !
+Quoy tu peux consentir...
+
+O Dieux !
+
+Quoy donc je voy finir la rigueur de mon sort ?
+Je treuve mon salut dans les bras de la mort,
+Et dans le desespoir la source de ma joye,
+Que le Ciel me cherit ! que de biens il m'envoye !
+Ha si-tost que je veis cette rare beauté,
+Je leus bien sur son front en sa haute qualité,
+Je leus bien dans ses yeux son illustre naissance,
+Toutes ses actions en donnoient connessance,
+Et sans examiner ces témoins superflus,
+Sa pudique vertu le prouvoit encor plus.
+Mais de ces belles fleurs qui flatent mon estime,
+Peut-estre voulés-vous couronner la victime.
+
+Mon Soleil.
+
+      Ma lumière.
+
+Que mon cœur est content !
+
+Enfin je suis a toy doux charme de mes sens.
+
+Et vous, pour vous payer ma gloire⁎ et votre soin⁎,
+Puissiés vous jusqu'au bout en estre le témoin.
+Mais en faveur du bien que je prétens vous faire,
+Ayés soin du blessé dont vous sçavés l'affaire.
+
+Le mal me presse un peu, hâtés ce doux remede.
+
+Que je suis redevable à vos rares bontés !
+Que de joye à la fois ! que de felicités !
+Madame, Amour, Monsieur, mon pere, ma Maitresse,
+A qui premier de vous faut-il que je m'adresse ?
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_precieuse
+
+Enfin, personne icy ne sçauroit nous entendre,
+Quel est donc le bon-heur que vous voulez m'apprendre ?
+Je meurs de le sçavoir, contentez mon désir,
+Qui le déclare tost fait doublement plaisir.
+
+Mais ces ravissemens⁎ sont pour moy superflus,
+Et mon impatience en augmente encor plus.
+
+Tout cela jusqu'icy ne m'éclaircit de rien,
+Et je treuve une peine où j'atendois un bien.
+
+Hé ne me tenés plus davantage en langueur,
+Ou comblés d'un refus vôtre injuste rigueur.
+Vous retranchés ce bien que vous croyés étendre,
+Et qui veut l'augmenter, il nous en doit surprendre.
+
+      N'est-ce point quelque nouvel amant ?
+
+S'il ne tient qu'à cela, j'aime mieux vous baiser,
+Je ne sçay rien apres qu'on me dût refuser.
+
+De l'honneur qu'on m'y fit je garde encor l'idée.
+
+En effet, ce jour-là j'eus quelques avantages⁎.
+
+Je vous entens venir, le fils du Gouverneur
+N'est-ce pas ?
+
+      Ha Dieu qu'il est aimable !
+Qu'il est respectueux, galand, civil, affable !
+
+Par son merite seul il m'est considerable.
+
+Enfin quoy qu'il en soit, qu'a-t-il fait ce Seigneur ?
+
+Ha ma tante ! vrayment c'est étre trop cruelle
+De faire ainsi languir ma curiosité,
+De grace poursuivés ce discours arrété,
+Il nous a...
+
+Que dit-elle, bon Dieu ? quel transport⁎ me possede ?
+
+Il est en cette ville, et se souvient de moy ?
+Depuis quand, je vous prie, avez-vous fait ce songe ?
+
+      Achevés,
+Et ne me celés rien de ce que vous sçavés.
+
+O Ciel ! est-il possible ?
+
+Il est vray que souvent il me baisoit la main,
+Et mesmes au raport que m'en fait ma mémoire,
+Les discours qu'il me tint furent tous à ma gloire⁎,
+M'accusant d'un grand vol qu'avoit fait ma beauté.
+
+      Et de sa liberté :
+Mais quoy qu'il me jurast dans sa cajolerie⁎,
+Je crus que ce n'étoit que par galanterie.
+
+Taisons-nous, j'apercoy quelqu'un qui vient icy.
+
+      Le moyen qu'il fut sage,
+Il est jeune, il est Poëte, et de plus amoureux,
+De ces trois qualitez naist un mal dangereux.
+
+Ayés en ma faveur un peu de complaisance.
+
+Franchement, voulés-vous m'obliger d'une grace ?
+
+Tréve d'Amour icy, ne parlons que de Vers.
+
+Vous sçavez à quel point j'aime la Poësie,
+Donnez preuve par là de vôtre courtésie,
+Quelque aimable travail de ce noble métier
+Qui charge son autheur de gloire et de laurier,
+Nous peut mieux divertir, et causer moins de blâme,
+Que tous ces vains discours et de trais⁎ et de flame.
+
+Allés, cela vaut fait.
+
+      Ouy, j'ay leu cet ouvrage,
+C'est sur nôtre rencontre.
+
+Chaque rime en est riche, et dans les plus nouveaux,
+Les termes, à mon gré, ne semblent point si beaux,
+Le tour du Vers est noble, agréable et facile,
+Enfin vous triomphés dans la douceur du stile.
+
+      C'est assés me confondre,
+Donnés-moy pour le moins le temps de vous répondre,
+Ou plustost , excusés ma curiosité,
+Vous mesme répondés, mais avec verité.
+Ce que je veux aprendre au moins n'est pas sans cause,
+Et le sçavoir au vray m'importe en quelque chose ;
+Dites-moy donc sans feinte, étes-vous Poëte ?
+
+Peu de gens, dites-vous, en meritent le nom,
+Et vous en craignés tout, mesme jusqu'au renom :
+Cette condition n'est donc pas honorable.
+
+Pourquoy le nom de Poëte est-il donc odieux ?
+
+Ouy, mais cette beauté si noble et si cherie
+Est pauvre à ce qu'on dit.
+
+Ouy da⁎, c'est la raison qu'icy je vous l'expose,
+C'est que vous croyant Poëte à vôtre procedé,
+Et par cette raison pas trop acommodé,
+Voulant lire vos Vers, je crus étre charmée
+De voir une pistole⁎ avec eux enfermée,
+Je la tâtay cent fois, et j'en doutais encor,
+Mais l'ayant fait sonner, je veis qu'elle étoit d'or,
+Lors, quoy que toute seule à ce nouveau spectacle,
+Un Poëte, m'écriay-je, a de l'argent, Miracle !
+
+      Souffrés⁎ ma liberté,
+Puisque vous n'avés rien de cette qualité.
+
+O Dieu ! ce papier brûle, il est tout plein de flames,
+Et doit vivre long-temps, car il a plusieurs ames,
+La pistole en est une, et puis celle des Vers,
+Où l'on en void tousjours plus que dans l'Univers.
+Or sus, mon Cavalier, de ces biens qui sont vôtres,
+Reprenés l'ame d'or, je retiendray les autres,
+Voylà celle d'hier que je vous rens aussi,
+C'est elle-mesme au moins, et puisqu'il est ainsi,
+Contractons entre nous une amitié qui dure,
+Mais changés cette infame et lâche procedure,
+Venés me visiter quelque fois, j'y consens,
+Comme faiseur de Vers, et non pas de presens.
+
+      C'est fait.
+
+Nous bravons sans cela les beautés les plus rares.
+
+      Ce n'est rien.
+
+      Non rien.
+
+Dieu, qu'un petit sujet vous donne un grand soucy !
+Hé bien, c'est une papier qui vient de choir icy.
+Etes-vous satisfaite ?
+
+Le voylà.
+
+      Ouy.
+
+      Qui ?
+
+      O Dieux !
+Je ne le voyois pas, mais feignons pour le mieux.
+La Croix mon Cavalier.
+
+Nous vous dirons apres vôtre bonne avanture.
+
+Voyons dans vôtre main, qui ce discours cajole⁎.
+
+Vous étes né sous les planettes
+D'Amour et de Valeur, de Venus et de Mars,
+Vôtre honneur court quelques hazars⁎
+Dans l'entreprise que vous faites.
+
+      En quel temps ? En quel lieu ?
+
+Vous n'étes pas le seul de qui l'ame abusée
+A jugé mon honneur une conqueste aisée,
+Plusieurs l'ont ataqué, tous ont été confus
+De souffrir⁎ comme vous la honte du refus.
+Consolés-vous Monsieur, vous avés des semblables,
+C'est le soulagement de tous les miserables.
+Le métier que je fays, et mes gayes humeurs,
+Qui sont de faux miroirs pour exposer mes mœurs,
+Inspirent, je le croy, cette injuste licence,
+Mais quand de ma vertu j'ai donné conessance,
+On se repent aussi des discours qu'on m'a fais,
+Voyant que l'apparence est contraire aux effets.
+Je vay, je viens, je cours, je ris et je folâtre,
+Toujours avec l'honneur dont je suis idolâtre,
+Et bien loin d'imiter vos Dames des Cités,
+Qui couvrent de frédeur leurs impudicités,
+J'ay les yeux tout de flame, et le cœur tout de glace,
+Et j'ose les braver dans mon honéte audace,
+Je ne perdis jamais à ce pudique jeu,
+Et c'est ainsi que l'or s'affine dans le feu.
+Si j'ay parlé de Croix, n'ayés pas la pensée
+Qu'un si lâche trafic me rende interessée,
+Non, non, l'argent n'est point l'objet de mes souhais,
+Et chacun sçait fort bien que je n'en pris jamais.
+Gardés donc vos tresors, et croyés je vous prie,
+Que ce que j'en ay dit c'est par galanterie,
+N'esperés pas par là ces innocens plaisirs,
+Qui sont dûs seulement aux innocens desirs,
+Si je vens mon honeur, ce seul tresor que j'aime,
+Ce ne sera jamais qu'au prix de l'honneur mesme.
+
+Plusieurs difficultés s'opposent à ce point,
+Vous ne vaincrés jamais de si puissans obstacles.
+
+      Sçachés que parmi nous
+La fille et son amant qui s'offre pour époux
+Eprouvent leurs humeurs⁎ le cours de deux années,
+Avant que de pouvoir joindre leurs destinées.
+A ces conditions engager vôtre foy,
+Subir à mon sujet la rigueur de la loy,
+Abaisser vôtre rang à cette infame vie,
+Avoués que déjà vous en perdés l'envie.
+
+      Apres cette assurance,
+Si ma tante y consent...
+
+      Hé bien, ouy, je me rends,
+Mais de quelle façon abuser vos parens ?
+Nous serions tous perdus s'ils en avoient un doute.
+
+Quoy, vous étes tout seul ?
+
+      La rare conduite !
+
+Quoy ?
+
+Enfin vous m'offencés de me traiter ainsi.
+
+      Non pas.
+
+Je vous l'ay déjà dit, ce procedé me choque,
+De grace...
+
+Voyez vous ? je haï trop cette humeur mercenaire.
+
+Sçachés que la Vertu brave ces procedures,
+Au reste, allons hâter nos desseins resolus.
+
+      Hé bien mon Gentilhome,
+Avés-vous medité dessus votre dessein ?
+Et sentés-vous encor mesme ardeur⁎ dans le sein ?
+Etes-vous resolu d'entrer en nôtre bande ?
+
+Vous étes-vous tâté de toutes les façons ?
+Car enfin...
+
+Venés donc suivés-moy, vous serés enrôlé.
+Voicy le Cavalier dont on vous a parlé.
+
+Arrétés-la de grace, et ne poursuivés point,
+Il est tombé d'acord avec moy sur ce point.
+Que s'il veut renoncer aux lois que j'ay prescrites,
+Je prefere l'honneur à ces rares merites,
+Nul de vous n'a pouvoir dessus ma volonté,
+N'en disposés donc pas avec autorité,
+Ce droit nous appartient avec plus de justice,
+Je l'ay fait esperer à deux ans de service,
+Mais quoy que le serment semble nous obliger,
+Il nous est libre encor de nous en dégager,
+Consultés-vous, Monsieur, touchant cette promesse,
+Recueillés vôtre cœur du someil qui le presse,
+Arrachés le bandeau qui vous couvre les yeux,
+Soyés plus raisonable, enfin choisissés mieux,
+Vôtre équipage est là, vous pouvés le reprendre.
+
+Ouy, si sage d'ailleurs...
+
+Me doy-je réjouir de vous avoir réduit
+A quiter un beau jour pour une afreuse nuit,
+A quiter des rayons pour un nuage sombre,
+La gloire⁎ pour la honte, et le Soleil pour l'ombre,
+Les plaisirs pour la peine, et les biens pour les maux,
+Un repos assuré pour de rudes travaux⁎,
+Une Princesse enfin pour une Egiptienne ?
+Non, Seigneur, croyés-moy, quelque honneur qui m'en vienne,
+Je vous estime trop pour ne m'afliger pas
+Du tort que je vous fais par mes febles apas⁎.
+
+Ouy, puisque vous avés une entière puissance.
+
+Si c'est une douceur que de faire un jaloux,
+Ce poulet en ce lieu vous donne de l'ombrage,
+Avoüés.
+
+      L'Auteur vaut bien l'ouvrage.
+
+      Tout de bon ?
+
+      Cependant,
+Je veux de son rival faire mon confident,
+Tenés, apres cela doutés que je vous aime,
+Car je ne l'ay point leu.
+
+J'en espere pourtant un aimable entretien,
+Il est un peu remis.
+
+Lisés haut, vous riés.
+
+      Hé bien, c'est le parler des Dieux,
+Le stile en est plus doux, et persuade mieux.
+
+Hé bien qu'en dites-vous ? ce n'est pas un novice,
+Voyés qu'adrétement il m'offre son service.
+
+Ainsi que de ses Vers vous rirés de l'objet.
+
+De qui ?
+
+      Et qui se nomme ?
+
+      C'est luy-mesme. Et pourquoy ?
+
+      J'entens ce que vous voulés dire,
+Voyons.
+
+Epargnés ces discours où l'amour vous emporte.
+
+Vous avés leu les miens, que je lise ceux-ci.
+
+Si je vous semble Egiptienne,
+Je n'en ay que l'habit, l'adresse et les cheveux,
+Et quoy que d'un Cesar leur Reine ait eu les vœux,
+Sa beauté toutefois fut moindre que la mienne.
+J'attire à moy tous les humains,
+Curieux de me voir ainsi que de m'entendre,
+Et pas un ne se peut defendre
+Des coups où mes beaux yeux font l'office des mains.
+Je donne aux ames la torture,
+Je ne prens que des cœurs, mes larcins sont hardis,
+Et je fais mieux que je ne dis,
+La bonne ou mauvaise avanture.
+Mes compagnes et moy d'une adresse subtile
+Nous volons en tous lieux,
+Mais de tout nôtre bien je leur quite l'utile,
+Et ne profite point que du delicieux.
+Comme on void nos larcins estre fort différens,
+Nos restitutions ont des effets contraires,
+La leur oblige⁎ fort, et moy lorsque je rens,
+Je cause des douleurs ameres,
+Et l'on me fait mille prieres
+De retenir tousjours ce que je prens.
+
+      L'ouvrage est sans doute admirable,
+Heureuse si le sens en étoit véritable.
+
+Si vous craignés encor qu'on découvre l'autheur,
+Suivés-moy seulement.
+
+Je le vay deguiser, il se fait trop conestre,
+Mais il faut qu'avec moy vous y mettiés la main.
+
+      Arrestés un moment.
+
+Ma tante dépechons, il faut le secourir.
+
+      Il est trop assuré,
+C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,
+De nuit, et déguisé, je crains quelque surprise.
+
+La charité m'oblige⁎ à courir de la sorte.
+
+Si vous n'avés besoin que de ma diligence...
+
+Ma tante allés devant, nous vous suivons de prez.
+
+Les Lauriers d'Apollon sont changez en Cyprez.
+
+Le plaisant accident⁎ que je vous vais apprendre !
+
+      Mais me promettés-vous ?
+
+      De n'estre point jalous.
+
+Ce mal nous vient souvent d'un soupçon plus leger.
+Qui pensés-vous que soit ce malheureux berger ?
+
+      Je parle de luy-mesme.
+
+N'exciteray-je point une mauvaise humeur ?
+
+      Sçachez donc que c'est nôtre rimeur.
+
+Celuy-là mesme, autheur de ces extravagances⁎.
+
+Le sort le persecute en plus d'une façon,
+Ce n'estoit pas assés qu'il eut mal à la teste,
+Il falloit que ses piés...
+
+Ne voyla pas déja des effets de ma crainte.
+Vous estes donc jaloux.
+
+      L'estrange vision⁎
+De me croire complice en cette occasion⁎ !
+Hé bien, pour avoir paix, et me montrer fidelle,
+Je ne le verray point.
+
+Je vous ay fait déja deux fois mon confident,
+J'attens de vous le mesme en pareil accident⁎,
+Ne me procurés point le mal dont je vous prive,
+Et chassons le martel aussi-tost qu'il arrive.
+
+Ha ! ma sainte amitié⁎ defend cette vangeance,
+Adieu, separons-nous en bonne intelligence⁎.
+
+Est-ce là ce respect et cette retenuë ?
+
+Nous en disputerons le jour plus à loisir.
+Je n'ay pas entendu que ce fut à toute heure.
+
+Que vous estes adroit à couvrir une feinte !
+Vous l'avés veu sans doute.
+
+S'il est vray qu'on appelle ainsi la jalousie.
+
+Apres avoir eu soin⁎ de vous bien enquerir,
+Mais se porte-t'il mieux ?
+
+Quoy ? sur cet accident⁎ vous me raillés encore,
+Apprenés-moy plustost quel etrange dessein
+Sous ce rustique habit il cache dans le sein,
+Ce secret n'aura pas échapé vôtre adresse.
+
+      Hé quel mal-heur⁎ si prompt
+Vous met la flame aux yeux et la rougeur au front ?
+Ha ! c'est une Maistresse.
+
+Hé bien, faut-il rougir d'une bonne fortune⁎ ?
+Voyla ce que produit vôtre sombre beauté,
+Et le fard que je donne à cette qualité,
+Mais sa peine m'oblige à vous laisser ensemble.
+
+Prié par ce regard si doux et si charmant
+D'une heure d'entretien pour son allegement⁎,
+Ne luy refusés pas un bien si desirable,
+Et faites à ses vœux un acueil favorable.
+
+      Adieu, jusqu'au retour.
+
+Je ne suis point du tout sçavante en l'avenir.
+Celuy que vous voyés suivant ma conjecture⁎,
+Vous dira mieux que moy vôtre bonne avanture.
+
+Bon augure, il est seul, mais las ! en peu de temps
+On peut beaucoup resoudre. Est-ce luy que j'entens ?
+Quoy soûpirer tout seul ? cette belle Maitresse
+Vous a quitté trop tost, c'est le mal qui vous presse.
+Que vous estes confus ! vous deviés bien aussi
+Luy donner rendés-vous en autre lieu qu'icy,
+Et c'est un peu manquer d'adresse et de prudence,
+Contés-moy vos transpors, Dieux le triste silence !
+Vous ne me dites mot, mais quelle est mon erreur ?
+Peut-on garder la voix ayant perdu le cœur ?
+
+Il est vray que l'Amour est un étrange Dieu,
+Il nous prend, il nous laisse, en tout temps, en tout lieu.
+
+Non, non, ne craignés rien, j'aurois tort de m'en plaindre.
+
+Vous y puis-je servir ? voyés, employés-moy.
+
+Il le faut avouër, je suis bien mal-heureuse,
+Je souffre⁎ tout, je m'offre, et le veux consoler,
+Et pour tant de bontés il me vient quereller.
+
+Est-ce à moy qu'elle en veut ? j'implore, beau vainqueur,
+Le pouvoir que l'Amour vous donne sur son cœur,
+Sauvés-moy du danger que prepare sa rage.
+
+Fort bien, pour mieux nier vos larcins amoureux.
+Peut-on couvrir sa faute avec plus d'industrie⁎ ?
+
+Je ne puis croire encor ce projet detestable.
+
+Dieux ! que m'apprenés-vous ?
+
+      Que je crains son pouvoir !
+Courons donc du depart prier le Capitaine,
+Faut-il qu'à mon sujet vous ayés tant de peine ?
+O Ciel ! contre ces traits⁎ daigne armer nôtre sein,
+Ou bien fais avorter ce damnable dessein.
+
+A quelle extremité vous ay-je ici reduit ?
+
+Ainsi rien ne s'oppose à vos soins diligens⁎.
+
+      Ha ! l'infame.
+
+Que ta fidelité me va coûter de larmes !
+
+C'est l'aspic sous les fleurs.
+
+      Mais quel sort !
+
+      Juste Ciel fay voir son innocence.
+
+Ha Dieu, quelle impudence !
+
+Bourreaux, vous lâcherés cette illustre victime,
+Et je luy vay conter, lâche, ta trahison.
+
+      Ha ! Monseigneur, justice,
+Delivrés mon époux, sauvés un innocent,
+Sa vertu vous en prie, et le Ciel y consent,
+S'il meurt, je doy mourir, c'est à tort qu'on l'accuse,
+Le vol qu'on luy suppose est l'effet d'une ruse,
+C'est un mauvais office⁎, et qui part d'un démon
+Dont il vous apprendra la malice et le nom,
+Faites-luy seulement la faveur de l'entendre,
+Escoutés ses raisons qui le sçauront defendre,
+Et ne vous hâtés pas de juger ce procez,
+Dont le Ciel par vos soins me promet bon succez.
+
+Il est vray que son bras l'a vangé d'un affront
+Qui fait rougir ensemble et sa jouë et son front,
+Il est homme d'honneur, et dans son innocence
+Endurer un soufflet excedoit sa puissance :
+Mais, Monsieur, nous mettons nos biens à l'abandon,
+Pour obtenir plustost un si juste pardon,
+Et si, pour accorder sa grace à nostre envie,
+Ils ne suffisent pas, j'offre encore ma vie,
+Qu'on me mette en sa place, et qu'il soit delivré,
+Il ne sçauroit mourir tandis que je vivray,
+Il vit dedans mon cœur beaucoup mieux qu'en luy-mesme,
+Et je suis cause enfin de ce mal-heur⁎ extréme.
+Mais oyés ses raisons.
+
+      Hé ! Monsieur, depéchés.
+Justes Dieux qui sçavés le crime et l'innocence !
+N'ordonnés point la peine à qui souffre⁎ l'offense.
+
+      Si ma priere est vaine,
+Madame assurés-vous que je cours au trespas⁎,
+Puisque de mon époux je veux suivre les pas.
+
+Sa vertu me contente ainsi que sa naissance,
+Que puissiés vous, Madame, en avoir connessance,
+Je cesserois de craindre, et vous de m'affliger,
+Voulant porter icy mon esprit à changer.
+
+Ha ! ne luy donnés point cette honteuse tache,
+Il est bien éloigné d'un sentiment⁎ si lâche,
+Puisque quelque tresor qu'on lui vint presenter,
+Je doute avec raison qu'il voulut l'accepter.
+Il est riche et content, il est sage et fidelle,
+C'est d'un homme de bien le plus parfait modelle,
+Et s'il avait l'honneur d'estre connu de vous,
+Vous vous étonneriés⁎ qu'il se fit mon époux.
+
+Il a le cœur d'un Roy sous cet habit infame.
+
+Aussi l'est-il, Madame, en merite, en noblesse,
+Et ce cœur genereux⁎ n'eut jamais de second.
+
+Il est ce qu'il vous plaist, mais il est honneste homme,
+Et vous me croirés mieux s'il faut que je le nomme.
+
+Qu'ay-je ouy, juste Ciel ! ha ! mon ame abatuë
+Cede au cruel effort de ce mot qui me tuë :
+Si j'ay l'honneur encor de plaire à ces beaux yeux
+Qui sceurent enchanter un Ministre des Dieux,
+Si vous daignés comme eux defendre l'innocence,
+Si vostre cœur connoist l'Amour et sa puissance,
+Si vous avés aimé son joug aimable et doux,
+Si vous aimés encor vostre fidelle époux,
+Madame, par vos soins, vos bontés et vos charmes,
+Par ces divines mains que j'arrose de larmes,
+Par vostre cher époux, par mes fébles apas⁎,
+Que vous me témoignés ne vous déplaire pas,
+Par vostre fille prise en un âge si tendre,
+Que peut-estre le Ciel se prepare à vous rendre,
+Par cette ressemblance et ce juste rapport,
+D'âge, d'aspect, de mœurs, et possible de sort,
+Enfin au nom d'Hymen⁎ je demande une grace,
+Que la Justice mesme ordonne qu'on nous fasse,
+Ne laissés point au vice opprimer la vertu,
+Mon genereux⁎ Andres l'a trop bien combatu,
+Sauvés-le du danger où l'a mis l'imposture,
+Mon destin est meslé dans sa triste avanture⁎,
+E s'il succombe aux trais⁎ d'une injuste rigueur,
+Les mesmes trais⁎ aussi me perceront le cœur.
+
+      Quel espoir vient chasser ma tristesse ?
+
+      Felicité supréme !
+
+Madame, je cheris un bon-heur⁎ si parfait,
+D'autant plus que je voy qu'il vous plaist en effet.
+
+      Madame.
+
+Ouy, Madame, et son pere en est le Gouverneur.
+
+Madame, un doux excez de joye et de plaisirs
+Arreste bien ma voix, et non pas mes desirs.
+
+      Le pardon pour cette bonne mere,
+Qui tremble et qui fremit au seul nom de mon pere.
+Faites qu'il s'y contente, appaisés son couroux.
+
+Dans quelque étrange sort qu'elle m'ait engagee,
+D'un vray soin maternel je luy suis obligee,
+Joint qu'ayant declaré ce rapt sans l'y forcer,
+On doit songer plustost à la recompenser.
+
+      Ce n'est pas tout, Madame,
+Il faut tirer des fers la moitié de mon ame,
+Helas ! songeant aux maux qu'il endure pour moy,
+Je succombe, je meurs.
+
+Ha Monsieur, que d'honneur succede à ma disgrace !
+
+      Hé ! Monsieur, par ce nom
+Ou de pere ou de fille accordés ce pardon,
+Voyla qui la causa, mais loin d'estre punie,
+Je la doy caresser puisqu'elle l'a finie.
+
+      La pure vérité.
+
+Je n'ay d'amour pour luy dans un si grand bon-heur⁎
+Que ce qu'en doit avoir une fille d'honneur,
+Une fille portée à la reconnessance
+Des devoirs d'un amant de si haute naissance,
+Qui méprisant son rang a tout quitté pour moy,
+S'est fait Egiptien, et m'a donné sa foy.
+
+      En quel état odieux.
+
+Que j'ay peur de sa crainte, ha s'il pouvoit m'entendre !
+
+      Dieu ! qu'est-ce j'entens ?
+
+      Ha Dieu que j'apprehende !
+
+Ouy, cet Hymen⁎ me plaist, et je vous le conseille.
+
+Quoy vous me refusés ? ha ! j'ai droit de reproche.
+
+      Mon espoir.
+
+      Ma vie.
+
+      Que mon ame est ravie !
+
+Enfin je suis à vous sans attendre deux ans.
+
+      Je vous en prie aussi.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_lavieille
+
+Ha l'heureux accident⁎ ! l'admirable avanture⁎,
+Si j'en doy croire au moins certaine conjecture.
+
+O Ciel ! quelle fortune⁎ à la nostre est pareille ?
+Et que ne promet point cette rare merveille ?
+
+Ne hâtons point celuy que le sort nous envoye,
+Ménageons ses faveurs ainsi que nostre joye.
+
+Encor, sur ce sujet quel est ton sentiment⁎ ?
+Songe un peu.
+
+Déja dans ce penser un démon te l'inspire,
+Mais il faut qu'on m'embrasse avant que de le dire.
+
+Flateuse, c'en est fait, je cede à tes caresses,
+Aprens donc en trois mots l'effet de tes adresses.
+Le dernier mois passé, tu sçais bien que nos Gens
+Voulûrent dans Seville aréter quelque temps,
+Que la permission leur en fut accordée.
+
+Là, le jour du balet (jour des plus fortunés)
+Où tu menois danser des Mores enchainés...
+
+Tes larcins glorieux en sont des témoignages.
+Ne te souvient-il pas de ce jeune Seigneur ?
+
+      Justement.
+
+Toutes ces qualités ne font ni bien, ni mal,
+Di qu'il est genereux⁎, di qu'il est liberal⁎,
+C'est la vertu des Rois, et qui fait l'honeste homme,
+De toute autre vertu l'effet est moins qu'un somme,
+A peine est-il formé qu'il meurt le plus souvent,
+Ce n'est qu'ombre et fumée, un apas decevant⁎ :
+La liberalité⁎ produit tout au contraire
+Un effet à la fois solide et necessaire,
+Tel que sont ces ducas⁎ dont il me fit present,
+Joint que l'aspect aussi n'en est pas deplaisant.
+
+Et moy par ses dons seuls je le treuve adorable.
+
+Sçache, le croirais-tu ? qu'il nous a fait l'honeur...
+Remettons à tantost cette bonne nouvelle.
+
+      Ce matin, m'ayant veuë à Tolede.
+
+Il nous a fait l'honeur de s'enquerir de toy.
+
+Dans quelque étonnement⁎ que ce discours te plonge,
+Croy qu'il est veritable, et de plus...
+
+Que c'est à ton sujet qu'il a fait ce voyage,
+Ainsi que dans les mains, je li dans le visage.
+
+      Ouy, puisqu'il est certain.
+
+De son cœur, de son ame.
+
+Par là, mon doute encore en est mieux éclaircy.
+
+C'est nôtre Poëte, ô Dieu, l'étrange personnage !
+
+Ouy, c'est la pauvreté, fuyons de sa presence.
+
+Puisque cet entretien te plaist et te contente,
+Je m'en vay cependant faire un tour dans la tante,
+Mais si de son amour il t'ose encor parler,
+Tranche luy moy tout court, ou me viens appeler.
+
+Précieuse.
+
+      R'entre sans contester,
+J'entens venir quelqu'un qui pouroit t'arréter,
+Nos gens vont à la ville, il faut que tu te pares.
+
+Qu'est-ce donc ?
+
+Rien !
+
+      Il faut bien que ce soit quelque chose.
+
+      C'est luy-mesme.
+
+      Vien, suy moy ma fille,
+Il le faut aborder.
+
+      Ce Seigneur.
+
+Mon bon Seigneur sur tout, mettés la Croix dedans,
+Celles d'or marquent mieux les heureux accidens⁎.
+
+Bon cela.
+
+      Agreable esperance.
+
+Ma fille qu'en dis-tu ? pour moy j'en ay pitié.
+
+Voylà bien raisoner.
+
+Ma foy c'est tout de bon, il ne se moque point.
+
+Ouy, ouy, mon bon Seigneur.
+
+O merveilleux dessein !
+
+Moy je consens à tout.
+
+Faites.
+
+Donnés j'en auray soin.
+
+      Elle se moque.
+
+Mes leçons et mes soins⁎ sont donc ainsi trahis.
+
+Folle tu ne sçais pas ce qui t'est necessaire,
+Refuser de l'argent, ô Dieux ! te moque-tu ?
+Conoy-tu son pouvoir ? en sçais-tu la vertu ?
+Somes-nous en danger ? l'argent nous en delivre,
+Dans les bras de la mort souvent l'argent fait vivre,
+Nous principalement, dont le sort quelque fois
+Est prest de succomber sous la rigueur des lois :
+Ces rayons exposés éblouïssent la veuë,
+Dissipent du malheur l'épouventable nuë,
+Eclairent à signer nôtre élargissement⁎,
+Et nous font retirer des prisons prontement,
+Apprens qu'une clef d'or ouvre toutes serrures.
+
+Passe pour cette fois, mais n'y retourne plus.
+Fin du premier Acte.
+
+Le voylà.
+
+Je ne pourois jamais me resoudre à le rendre,
+Accordés-vous plustost.
+
+Enfin tout est à nous, homme, argent et bagage,
+Mais allons de plus prez visiter l'équipage.
+
+Mon fils, où courés-vous ?
+
+C'est la cause du bruit qui vous faisoit courir.
+
+Hé bien, qu'est-ce qui fait le sujet de tes plaintes ?
+
+Si je te puis guerir que me donneras-tu ?
+L'or est un prompt remede, et de grande vertu,
+Le baume le meilleur coule de cette source,
+Et pour fermer la playe il fait ouvrir la bource.
+
+Enfans, portés-le donc en la plus proche tante,
+Ma fille va querir de mon divin Nepante
+Je gueris avec luy toute sorte de maux,
+Mais il faut sur les tiens murmurer quelques mots,
+Pour arrester le sang qui coule en abondance.
+
+Ne l'as-tu point tantost assés considéré ?
+Cours, es-tu revenuë ?
+
+Entrés-là, c'en est fait, son sang est arresté.
+
+      Viste, ma fille apporte.
+
+Te voylà bien, à Dieu, repose en seureté,
+Tandis que j'en vay faire autant de mon côté,
+Si pour ta guerison trop long-temps je someille,
+Aprens qu'au son de l'or nôtre soin se réveille.
+
+J'entens bien dés demain recevoir mon salaire,
+Fut-il mon propre enfant, fut-il mon propre frere,
+S'il m'avoit fait attendre apres luy plus long-temps,
+L'un de l'autre tous deux nous serions mécontens,
+Point d'argent, point d'unguent, dessus cette pensée
+Allons nous retirer.
+
+On dit bien vray, l'épine est proche de la rose.
+
+Ha bon Dieu ! qu'est cecy ?
+
+Nous n'aurions point ces maux si l'on l'eut caressée.
+
+      Dans l'ennuy⁎ que je sens
+Quelle nouvelle peur vient troubler tous mes sens ?
+
+      Madame, c'est ma Niece.
+
+      Je croy qu'elle a quinze ans,
+C'est tout ce que j'en sçay. Ha ! discours déplaisans.
+
+Dieu ! Qu'est-ce que j'entens ?
+
+Voyla son mesme nom.
+
+O Ciel ! pour quelque temps cache encor ce secret.
+
+Parlons ; pour seconder⁎ une si juste envie,
+C'est l'unique moyen pour luy sauver la vie.
+Puis-je esperer, Madame, un pardon ?
+
+D'un important larcin que j'ay fait.
+
+Helas ! ouy, c'est à vous.
+
+Donnés moy, s'il vous plaist, un moment d'audience,
+Et je vous feray voir ce que je vous ay pris.
+
+Si l'heureux accident⁎ que je vay découvrir
+Ne sçauroit empescher qu'on me fasse mourir,
+Et si vostre bonté vainement je reclame,
+Au moins auparavant, lisés cela Madame,
+Consultés vostre cœur, et voyés bien aussi
+Si vous reconnestrés le colier que voicy.
+
+      Demandés-le à vos yeux,
+Si vous ne l'apprenés de vostre fille mesme,
+La voyla, parlés-luy.
+
+Faites-moy donc l'honneur de m'écouter encore.
+Je pris cette beauté, que tout le monde adore,
+A l'âge de trois ans, devers⁎ cette saison,
+A Madrid, en plein jour, et dans vôtre maison,
+J'appris secretement qu'on la nommoit Constance,
+Et fis écrire un mot de chaque circonstance,
+Afin que quelque jour tout cela pût servir
+A luy rendre les biens que j'osois luy ravir,
+Et sauver l'un de nous d'une mort violente,
+Comme l'occasion aujourd'huy s'en presente.
+Depuis elle a vescu mieux que nous ne faisons,
+En combatant nos mœurs avec mille raisons,
+Dont les moindres prouvoient par leur force divine
+La gloire⁎ et la vertu de sa noble origine.
+
+Madame, il est aussi d'une illustre naissance.
+
+      Et son nom seul en donne connessance.
+L'esprit de vôtre fille avec sa chasteté,
+D'un pouvoir glorieux secondant⁎ sa beauté,
+Ont fait naitre en plusieurs une amour sans pareille
+Pour cette incomparable et celeste merveille,
+Mais Dom Jean de Carcame est le seul entre tous
+Que j'ay treuvé plus propre à faire son époux,
+Et d'hier seulement il est en cette ville.
+
+Ma bonne Dame, helas ! je n'espere qu'en vous.
+
+O Dieux ! je suis perdue.
+
+Ainsi chacun aura ce qu'il a desiré.
+
+Le Ciel vueille allonger vos nobles destinees,
+Une fois pour le moins autant que j'ay d'annees.
+
+Je vous obeiray.
+
+Dés qu'il pourra marcher je vous l'amene icy.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+
+C'est elle, je la voy.
+
+Doux charme de mon cœur, miracle de nos jours,
+Jeune source d'apas⁎, de graces, et d'Amours,
+Vôtre divine main m'enchaina dans Séville,
+La mesme a resserré mes fers en cette ville,
+Et ce rencontre heureux fait voir que le destin
+A vos yeux mes vainqueurs veut rendre leur butin.
+
+Je vous veux obeir, que faut-il que je fasse ?
+
+A quoy m'obligés-vous, honneur de l'Univers ?
+Doy-je pas de nouveau vous rendre mes homages ?
+Doy-je pas de mon feu retracer les images ?
+Et bravant les effors d'un respect rigoureux,
+Doy-je pas derechef⁎ m'avouër Amoureux ?
+Ce discours vous déplaist, et je suis temeraire,
+Mais qui se sent brûler ne sçauroit pas se taire,
+Et les trais⁎ de vos yeux, malgré vôtre rigueur,
+M'ouvrent tout à la fois et la bouche et le cœur.
+
+Parlons-en, je le veux, m'avés vous fait l'honneur
+De lire ce Sonnet où j'ai peint mon bon-heur ?
+
+      Ajoutés mon servage.
+
+Enfin vous vous moqués de ce que j'ay produit,
+Mais dans le triste état où vous m'avés réduit,
+Sous le fais de mes maux, mon ame gemissante
+Abat ainsi ma Muse, et la rend languissante,
+Et c'est bien rarement que l'on void des enfans,
+Quand leur pere se meurt, pompeux et triomphans.
+Mais si de quelque espoir vous consolés ma peine,
+Si vos rudes frédeurs ne glacent plus ma veine,
+Vous en verrés couler mille torrens de Vers,
+Qui de vôtre beau nom rempliront l'Univers,
+Et qui prenans dans l'air une route conuë,
+Vous remettront au Ciel, d'où vous étes venuë ;
+Beaux yeux qui m'inspirés ce glorieux dessein,
+Lancés pour son effet vôtre feu dans mon sein,
+Soyez mon Apollon...
+
+      Non :
+Il est trop peu de gens qui méritent ce nom,
+Avec ardeur⁎ pourtant j'aime la Poësie,
+Et j'en puis sans secours, passer ma fantaisie.
+Si j'ay besoin d'une Ode, ou de quelque Sonnet,
+Une heure en fait l'office au lit, au cabinet,
+Mais pour faire des Vers je ne suis pas Poëte,
+Dieu me garde de l'étre, ou que je le souhaite.
+
+A ne faire autre chose elle est peu favorable.
+Ce n'est pas que l'effet n'en soit bien glorieux.
+
+C'est sans doute un venin de ces ames vulgaires
+Qui n'ont aucune part à nos sacrés mysteres,
+D'un tas de jeunes gens qui n'ont pas merité
+De sentir ce rayon de la divinité,
+De ces petits esprits qui se donnent la géne⁎
+Pour treuver dans leur teste un mot qui rime à chaine,
+Qui n'ont sceu penetrer dans ces saintes forests,
+Où le Dieu du sçavoir découvre ses secrets,
+Et que les doctes Soeurs ont jugé trop indignes
+D'honorer comme nous de leurs faveurs⁎ insignes⁎,
+Ignorans, babillars⁎, censeurs, ambitieux,
+Enragés de nous voir si bien avec les Dieux :
+Ouy, ce sont ces messieurs, qui d'une humeur profane
+Approuvent dans leur cœur ce que leur voix condane :
+Car enfin ce bel Art, l'amour des beaux esprits,
+Dont les honestes gens se sentent tous épris,
+Cette chaste beauté qu'on nomme Poësie,
+Ne vient point, comme on croit, de nôtre frenesie⁎,
+Elle est fille du Ciel, son aimable entretien
+Fait reverer par tout quiconque en use bien.
+Les Rois avec plaisir goûtent sa compagnie,
+Sa douceur est charmante, et sa grace infinie,
+C'est le Trône animé des plus nobles vertus,
+Le beau champ où l'on void les vices abatus,
+Le guide qui conduit les Heros à la gloire,
+La triomphante voix qui chante leur victoire,
+Le marbre où sont gravés leurs noms dignes des Cieux,
+Le temple de l'honneur, le langage des Dieux,
+La Reine des destins, la source de la vie,
+Le tresor des beaux fais, et le fleau de l'envie :
+Voylà de ce Soleil quelques simples crayons,
+Vous traceray-je encor quelqu'un de ses rayons ?
+C'est une piece rare, où cent beautés paressent,
+Qu'il ne faut exposer qu'à ceux qui s'y conessent,
+Non pas à la façon de quelques importuns,
+Qui, les offrant à tous, rendent ces biens communs.
+
+      C'est une raillerie,
+Au contraire elle est riche, au moins void-on contens
+Tous ceux qui dans son sein prenent leurs passe-temps :
+Rare condition, belle Philosophie,
+Dont l'usage est puissant, puisqu'il nous deïfie,
+Mais rendés-moy le bien que je vous ay prété,
+En excusant aussi ma curiosité,
+De la vôtre apres tout, peut-on sçavoir la cause ?
+
+Que je le sois ou non.
+
+Prenés ces autres Vers qui partent de ma veine
+Et de ce que je suis ne soyés plus en peine,
+Suffit que si j'étois d'un monde possesseur,
+Je vous l'offrirois tout, aussi bien que mon cœur.
+
+Hé bien vous le voulés ? il faut donc les reprendre,
+Trop heureux de cett'offre, où je n'osois pretendre :
+Mais ayant eu l'honeur de passer par vos mains,
+Il ne doit plus servir au trafic des humains
+Ce tresor que j'égalle à ceux des Republiques,
+Et je vay l'enchâsser ainsi que des Reliques.
+
+Au secours, je suis mort, ha ! quelle destinée
+M'a fait treuver ces chiens dans leur rage obstinée ?
+
+O Dieux ! je n'en puis plus.
+
+      Je me meurs.
+
+      Ma fortune⁎ inhumaine,
+Mais sans plus discourir, de grace assistés-moy.
+
+      Moy-mesme.
+
+Ouy, tenés, ce ducat⁎ vous servira de gages⁎.
+
+      Amis, qui vous arreste ?
+
+Je n'épargneray rien pour mon soulagement.
+
+Les dens de vos mâtins sur mes jambes empraintes.
+Helas ! si dans le temps qu'ils me faisoient ce mal,
+Il ne fut par bon-heur passé quelque animal,
+Dessus qui maintenant ils repaissent leur rage,
+Ils n'auroient pas encore arresté leur outrage.
+
+Hâtés ma guerison de tout vôtre pouvoir,
+Je vous contenteray par dessus vôtre espoir.
+
+Mon mal va jusqu'au cœur.
+
+Soleil dont la lumiere est si douce à mes yeux,
+Tarderas-tu long-temps de parétre en ces lieux ?
+
+      Sa divine presence
+Peut des maux que je sens charmer la violence.
+
+      Les langueurs que je sens
+Commençoient d'assoupir mes esprits et mes sens.
+
+Comme il plaist au destin qui m'a fait ces blessures.
+
+      Helas !
+
+Hé de quoy ? de douleurs, de peine, de souffrance,
+C'est là tout l'entretien que vous pourriés avoir,
+Déplaisant à donner, et triste à recevoir...
+
+      Plût au Ciel.
+
+Rien moins.
+
+Perdés encore un coup cette injuste pensée,
+Dont sa chaste pudeur pouroit estre offensée.
+
+Je ne puis avouer un si faux avantage⁎.
+
+Ton zele enfin me charme, et ta civilité
+Me force à contenter ta curiosité,
+Mon cœur s'ouvre de joye au nom de cette belle,
+J'ay l'heur⁎ de la connestre, et d'estre connu d'elle,
+Et puisque tu peux lire en ce cœur malheureux,
+Je ne te niray plus que j'en suis amoureux.
+
+Elle a rendu la force à mon ame abatuë,
+Et l'appareil plus doux à mon mal furieux,
+Fut le charme innocent qui vint de ses beaux yeux.
+
+Si peu.
+
+Que je seray ravy si tu veux me l'apprendre !
+
+Je ne refuse pas cette offre avantageuse⁎,
+Mais mieux que son parent je connoy Precieuse,
+On ne peut faire bréche à sa chaste vertu,
+Par discours, par presens, en vain j'ay combatu,
+Rien ne peut ébranler cette vivante roche,
+Mille trais⁎ enflamés en défendent l'approche,
+Et lorsqu'on la permet, c'est pour mieux faire voir
+Que sans intelligence⁎ on ne la peut avoir.
+
+Cher ami, ce discours est par trop obligeant⁎.
+
+      J'ay sur moy quelques six vingts pistoles⁎.
+
       Hélas ! pers ce soin odieux,
 Puisqu'un autre dessein m'a conduit en ces lieux,
 Ce n'est pas qu'en effet je n'aime Precieuse,
@@ -1898,139 +1886,566 @@ Tout ce que j'ay pû faire en ce pressant soucy,
 Est de changer d'habit, et de venir icy,
 Contre les trais⁎ du sort implorer assistance.
 
--*who_dom_jean_de_carcame
-Si ce n'est que cela repose en assurance,
-Je m'en vay de ce pas y resoudre nos gens.
-
--*who_le_poete
 Va, je reconnestray tant de soins obligeans⁎.
 
--*who_dom_jean_de_carcame
-Marche droit hardiment⁎, ou mon ame abusée
-Sçaura bien se vanger de ta flame rusée,
-Qui cherche ma maitresse il cherche le trespas⁎,
-Je t'irois immoler⁎, à ses yeux, dans ses bras,
-Et si son lâche cœur trempoit dedans ton crime,
-J'abatrois d'un seul coup l'autel et la victime.
-Fin du troisieme Acte.
 
-**** *book_ *id_IV01 *act_IV *date_1642 *creator_sallebray
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
 
--*who_dom_jean_de_carcame
-Mais tu ne me dis rien de ce pauvre blessé,
-Est-ce ainsi qu'un Amant doit estre delaissé ?
-Est-ce ainsi que l'amour doit ceder à la crainte ?
+Il faut entretenir le feu qui le consome.
 
--*who_precieuse
-Que vous estes adroit à couvrir une feinte !
-Vous l'avés veu sans doute.
+      C'est assés.
 
--*who_dom_jean_de_carcame
-      Ouy, je l'ay visité,
-J'ay plus de soin⁎ que toy, j'ay plus de charité.
+Bon, la façon m'en plaist, sa taille, et tous ses gestes,
+Sont d'un adroit voleur les preuves manifestes,
+J'atens de luy beaucoup en ce qu'il entreprend,
+Et sa mine promet quelque chose de grand.
+Tu sois le bien venu, cher soldat de Mercure,
+Aprens de ce nom seul quelle est ton avanture⁎.
+Le Ciel de ses faveurs fut ainsi liberal⁎,
+Donnant à nôtre armée un Dieu pour General,
+Rien n'échape à nos mains avec ses artifices,
+Et nous hazardons⁎ tout sous ses divins auspices,
+Cet avertissement doit déjà t'animer.
 
--*who_precieuse
-S'il est vray qu'on appelle ainsi la jalousie.
+      Pour te faire estimer
+Dans la profession que tu veux entreprendre,
+Observe bien nos lois, que je te vais apprendre.
+Eloigne en premier lieu ce fantôme d'honneur,
+Si tu veux réussir avec quelque bon-heur⁎,
+C'est un fâcheux demon jaloux de nôtre adresse,
+Qui rafine sur tout, et de tout s'interesse,
+Dont les tristes conseils, et les severes lois,
+Chargent de fers dorés les sujets et les Rois,
+Et nous portant au bien le moins digne d'envie,
+Retranchent les trois parts des plaisirs de la vie,
+Loin donc cet ennemi de nos contentemens,
+Loin la honte du blâme, et la peur des tourmens,
+Apres ces bons avis tu peux prendre les armes.
 
--*who_dom_jean_de_carcame
-J'ay flaté la douleur dont son ame est saisie,
-Et mesme j'ay promis de l'en faire guerir.
+Nous cherchons les combas dont la bourse est le prix,
+Où la gloire⁎ consiste à n'étre point surpris,
+Où la subtilité l'emporte sur la force.
+Là, l'espoir du butin nous est bien quelque amorce⁎,
+Le gain donne un plaisir, mais il s'en faut beaucoup
+Qu'il égale celuy d'avoir fait un beau coup,
+Eprouve cette joye, et quoy que tu hazardes⁎,
+Songe qu'il faut duper qui se tient sur ses gardes,
+Endormir de discours ceux que nous réveillons,
+Et parétre en repos lors que nous travaillons,
+Comme il faut plus d'esprit, nôtre ame est plus ravie
+Quand un heureux⁎ effet succede à son envie.
+Etre prompt, avisé, hardi, subtil, adroit,
+Tirer sans qu'on le sente une bague du doit,
+Dénouër un colier, fouïller dans une poche,
+Prendre quoy que ce soit à qui que l'on approche,
+Afiner le plus fin⁎, et le moins empéché,
+Escamoter par tout, dans le Temple, au marché,
+Relever ce qui tombe, et serrer ce qui traine,
+Tout nous duit, tout nous plaist, tout est bon, quoy qu'on prene,
+Des gans, une chemise, un mouchoir, un chapeau,
+Une poule, un coc-d'Inde, un mouton, une peau,
+Tandis qu'un frere chasse, entretenir le maitre,
+Luy déguiser son bien jusqu'à le méconetre,
+Faire la guerre à l'oeil, que rien ne soit perdu,
+Bref, ne livrer jamais ce que l'on a vendu,
+C'est à quoy nôtre esprit applique son étude⁎,
+Secondé⁎ de nos mains et de leur prontitude.
 
--*who_precieuse
-Apres avoir eu soin⁎ de vous bien enquerir,
-Mais se porte-t'il mieux ?
+Ne te rebute pas de nos plaisans mysteres
+Pour l'ordre du carcan, le fouët ou les galeres,
+Pour quelque trait de corde, ou ces petits afrons
+Dont on punit icy les plus fameux larrons :
+Que pas un de ces maux n'ébranle ta constance⁎,
+Et si ton mauvais sort te fait surprendre en France,
+Comme un present du Roy, reçoy la fleur de Lys,
+Par ces marques d'honneur nous somes ennoblis,
+Un bon soldat s'anime en voyant ses blessures,
+Et sans rien avouër nous souffrons les tortures,
+Au pouvoir du Prevost un de nous est-il mis,
+Il subit châtiment, non pour ce qu'il a pris,
+Mais pour étre si sot de s'étre laissé prendre.
+Qui ne sçait son métier doit tâcher de l'apprendre,
+Cela le subtilise⁎ en autre occasion,
+Et le rend bien plus prompt à l'execution.
 
--*who_dom_jean_de_carcame
-      Je crains qu'il ne se trouble,
-Sa playe est toute en feu, la fiévre luy redouble,
-Enfin il est fort mal, tu devois bien aussi
-Faire en sorte qu'il vint plus surement icy,
-Et c'étoit bien assés du feu qui le devore.
+Passons de quelque épine en des plaines de roses.
+Nous possedons sans peur mille tresors divers,
+Et nous somes Seigneurs de ce grand Univers,
+Nous chassons dans les bois et dessus les montagnes,
+Nous jouissons des biens des plus riches campagnes,
+La terre à nos desirs offre tout avec chois,
+Les forests au besoin⁎ nous presentent du bois,
+Les fontaines de l'eau, les côteaux de l'ombrage,
+Les rochers un abri quand il fait quelque orage,
+Les vignes des raisins, les étangs des poissons,
+Les arbres et les champs des fruis et des moissons,
+Enfin avecque nous, pour peu que tu t'exposes,
+Sans qu'il te couste rien espere toutes choses.
 
--*who_precieuse
-Quoy ? sur cet accident⁎ vous me raillés encore,
-Apprenés-moy plustost quel etrange dessein
-Sous ce rustique habit il cache dans le sein,
-Ce secret n'aura pas échapé vôtre adresse.
+Jamais nous ne logeons dans l'enclos des Cités,
+Les dehors sont plus beaux, plus surs, et plus utiles,
+C'est là que nous plantons nos pavillons mobiles,
+Et nous en delogeons au moins quand il nous plaist,
+Là, nôtre emmeublement se trouve tousjours prest,
+Les gazons sont nos lits, et la belle prairie
+A nos palais volans sert de tapisserie,
+Nous y voyons aussi quantité de tableaux,
+Jamais dedans la Flandre il n'en fut de si beaux,
+L'art ne sçauroit atteindre à ces vivans ouvrages,
+Et Nature elle-méme a fait ces païsages.
+Ce cuir impenetrable aux rigueurs des saisons
+Nous fait braver le Ciel dans ces febles maisons,
+Les tonerres grondans sont pour nous des musiques,
+Les vens impetueux des zephirs⁎ pacifiques,
+Les éclairs des flambeaux, la pluye un bain charmant,
+Et les neges enfin un rafraichissement :
+Ainsi toujours contens nous passons nôtre vie
+Exemps d'ambition, de soucis, et d'envie,
+Ce beau dereglement ne te charme-t'il pas ?
 
--*who_dom_jean_de_carcame
-Il ne le dira point qu'à sa seule maitresse,
-Et je me suis chargé pour son allegement⁎,
-D'obtenir l'entretien d'une heure seulement,
-Ne luy refuse pas un bien si desirable,
-Et prepare à ses vœux un acueil favorable.
+Au reste, tu peux prendre en l'ardeur⁎ qui t'enflame
+Cette jeune beauté pour maitresse ou pour femme.
 
-**** *book_ *id_IV02 *act_IV *date_1642 *creator_sallebray
+C'est trop de la moitié pour étre passé maitre,
+Apres deux ou trois vols assure-toy de l'etre.
 
--*who_dom_jean_de_carcame
-Ha ! le fâcheux objet⁎.
+Ta generosité n'eut jamais son égale,
+Ouy, ces riches effets de ta main liberale⁎,
+Font resoudre la troupe à quoy que tu voudras,
+Dispose de nos cœurs ainsi que de nos bras.
+Il reste maintenant à prendre un nom de guerre
+Qui te fasse inconu courir toute la terre,
+Herite de celuy du plus fameux voleur
+Qui jamais parmi nous signala sa valeur,
+Il se nomoit Andrés, plaist-il à ton envie ?
 
--*who_precieuse
-      Hé quel mal-heur⁎ si prompt
-Vous met la flame aux yeux et la rougeur au front ?
-Ha ! c'est une Maistresse.
+Donc que chacun de nous montre son allegresse,
+D'un si cher camarade exaltons la noblesse,
+Meslons un doux concert à nos remercimens,
+Et faisons mille vœux pour ses contentemens.
 
--*who_dom_jean_de_carcame
-      Une fille importune.
+Voyla qui vaut l'argent, cet objet⁎ qui t'engage
+Du fard Egiptien t'enseignera l'usage,
+Surtout change d'habit pour nôtre seureté,
+Et pour aller par tout avecque liberté,
+Nous en avons tousjours quelques-un dans nos tantes
+Pour ceux qui sont receus au métier que tu tentes :
+Tandis, pour eviter tout accident⁎ fatal,
+Je vay rendre l'honneur qu'on doit au Senechal,
+Nôtre bande a besoin du pouvoir qu'il possede,
+Déjà depuis deux jours nous rodons dans Tolede
+Sans la permission qu'il nous faut obtenir,
+Adieu, demeurés seuls pour vous entretenir.
 
--*who_precieuse
-Hé bien, faut-il rougir d'une bonne fortune⁎ ?
-Voyla ce que produit vôtre sombre beauté,
-Et le fard que je donne à cette qualité,
-Mais sa peine m'oblige à vous laisser ensemble.
+Puissant Dieu des matois, et des subtilités,
+Mercure inspire luy tes bonnes qualités,
+Afin qu'aux yeux de tous il vole en assurance,
+Et trompe des Argus l'exacte vigilance.
+Suivés-moy Compagnons, tous en ordre rangés,
+Ces ducas⁎ au retour vous seront partagés.
 
--*who_dom_jean_de_carcame
-Voy mon dernier refus.
+Ouy, je treuve à propos d'éviter sa fureur,
+La femme en se vengeant va jusques à l'horreur,
+La flame méprisée allume d'autres flames,
+Dans leurs caresses mesme il faut craindre les femmes,
+C'et pourquoy que chacun se prepare au depart,
+Afin de déloger quand il sera plus tard,
+Nous pouvons cette nuit choisir une retraite,
+Et les bois en sont une assurée et secrete.
 
--*who_hipolite
+      Ne faisons point de bruit,
+Et ne poursuivés point cette plainte inutille,
+Je m'en vay cependant faire un tour dans la ville,
+Afin d'en ramener quelques-uns de nos gens.
+
+Vous peut-elle preuver son accusation ?
+
+Grace, grace, Monsieur, il n'est point criminel.
+
+Enfans, reconnessés la grace qu'on vous fait,
+Payés d'une Cascade un si rare bien-fait,
+Faites le noble Andres témoin de vôtre adresse,
+Et dancés en faveur de sa belle Maitresse.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
+
+Sans doute nos mâtins font quelque bon repas,
+Ils cessent d'aboyer, suy moy, doublons le pas.
+
+      J'entens quelqu'un se plaindre.
+Approche ta lumiere, et garde de l'éteindre.
+Ma foy c'est un berger prest à laisser sa peau,
+Tu verras que nos chiens sont apres le troupeau.
+Es-tu mort ?
+
+      Hé ! qui diable t'ameine
+En ces lieux, et de nuit ?
+
+Apres, qui nous payra ?
+
+      As-tu de quoy ?
+Je ne fais rien pour rien, songe à quoy tu t'engages.
+
+Prens courage à present, va, croy moy, ce n'est rien,
+Quant tu seras guery tu te porteras bien.
+Un ducat⁎ d'un berger !
+
+Ca, donne-moy tes piés, toy prens-le par la teste,
+Une vieille entre nous par un magique sort,
+En touchant de l'argent feroit revivre un mort,
+Nous allons de ce pas te porter dans sa tante,
+Pour en estre content, rens-la devant⁎ contente.
+
+La voyla, je l'entens, approchés bonne mere,
+Voicy de la pratique.
+
+Si nous eussions préveu tant de contentement,
+Nous eussions augmenté ce divertissement⁎.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ferdinand
+
+Madame, il est certain qu'un foudre rougissant
+Devroit exterminer cet hydre renaissant,
+Encor que tels voleurs, quoy qu'il nous puissent prendre,
+Par un droit ancien soient quites pour le rendre :
+Mais le meurtre jamais ne se doit pardonner,
+Et l'homicide ouy je le vay condamner.
+
+Ne renouvellés point nos sensibles douleurs,
+Et laissons faire au Ciel, dont la toute-puissance
+Des secrets plus cachés sçait donner connessance.
+
+Comment ? au criminel elle estoit destinée.
+
+En effet, j'y remarque un air tout glorieux,
+Laissés faire à mes soins, je la pourvoiray mieux.
+
+Il la faut escouter.
+
+Ma fille, laisse là l'interest d'un perfide,
+Le vol peut estre faux, et non pas l'homicide.
+
+      Cesse de t'affliger,
+Ouy, tes vœux sont receus, je vay l'interroger,
+Demeure cependant pour divertir⁎ Madame.
+
+Cette affaire contient des mysteres cachés,
+Il s'en faut éclaircir.
+
+      O Dieux ! qu'ay-je entendu ?
+
+Le verray-je ?
+
+Inutilles témoins d'une fille si chere,
+Cedés à son aspect aux atteintes du pere,
+Ouy, je te reconnois espoir de mes vieux jours,
+Gage si precieux de mes chastes amours,
+Accours dedans mes bras, vien ça que je t'embrasse.
+
+O du Ciel et du sort l'incomparable effet !
+Apres tant de faveurs je mouray satisfait.
+Mais qui t'a découvert cet étrange mystere ?
+Ne sçaurois-je punir l'autheur de ta misere ?
+
+      Madame, révés-vous ?
+A nôtre fille encor destiner un époux
+Un traitre Egiptien, un voleur, un infame.
+
+Dieux ! que m'apprenés-vous ?
+
+Courés viste quelqu'un dans la prochaine,
+Et que sans luy rien dire icy l'on me l'ameine,
+S'il est vray, le pardon vous est tout assuré.
+
+Dom François de Carcame ! ô Ciel ! quels avantages⁎,
+Ce noble compagnon d'armes et de voyages,
+Mon Pylade avec qui j'ay si long-temps vescu,
+Mon second⁎, avec qui j'ay tant de fois vaincu,
+Ha comble de plaisir qui n'est point ordinaire !
+Ouy par l'aspect du fils je me remets le pere,
+Il est ainsi posé, grave, modeste et doux.
+
+Si tu l'aimes, ma fille, ouy tu peux le pretendre.
+
+O miracle d'Amour, ô vertu sans pareille !
+
+Que personne à present ne montre un front joyeux,
+D'un si parfait bon-heur ma voix le veut surprendre.
+
+Approche scelerat.
+
+Ouy, je veux aujourd'huy rendre tes vœux contens,
+Devant que de souffrir⁎ la mort la plus infame,
+A l'Hymen⁎ pretendu dispose icy ton ame,
+M'as-tu pas demandé cette insigne⁎ faveur ?
+
+C'est aussi le desir de cette Egiptienne.
+
+Toy meurtrier, toy voleur.
+
+Toy le plus renommé de cette infame bande
+Que ma juste fureur dût toute exterminer,
+Pour vanger tant de maux, et pour les terminer.
+
+De tes vols pour le moins cette fille est complice.
+
+Ce larron d'Andres mort, si Dom Jean de Carcame
+Succede à son bon-heur, et la reçoit pour femme.
+
+Elle n'a pû se taire en cette occasion,
+Mais pour vous témoigner combien je vous honore,
+Outre la liberté, prenés ma fille encore,
+Je voy chacun content de cet offre.
+
+Si son cœur y consent vous ne le serés point,
+Et nous nous promettons son aveu sur ce point.
+
+      Ne vous en fâchez pas,
+Ma fille est aussi belle, et n'a pas moins d'apas⁎.
+Madame, montrés-luy.
+
+      N'en doutés point, et n'apprehendés plus,
+Vous serés à loisir éclaircy là dessus,
+Ouy, c'est ma fille unique, et cette Egiptienne
+Empesche vôtre perte en reparant la mienne.
+
+Au reste assurés-vous d'un aveu⁎ que j'espere,
+Estant comme je suis amy de vôtre pere,
+Joint que l'extraction⁎, les biens, la qualité,
+Font voir de nos deux maisons dedans l'égalité.
+
+Dieux ! qui nous vient troubler en ce jour solemnel ?
+
+Ne craignés plus pour luy, je sçay toute l'affaire,
+Hipolite en a fait un aveu volontaire.
+
+      C'estoit mon ordre aussi,
+Puisque dans ce païs ils n'ont point fait de crime,
+Qu'ils ayent la liberté dont ils font tant d'estime.
+
+Allés, vivés contens, rendés grace à ma fille,
+Dont vous avés privé si long-temps ma famille,
+Publiés ce bon-heur⁎ et nos ravissements⁎,
+Annoncés la vertu de ces nobles Amans,
+Et que par vôtre choix voix l'Univers s'entretienne
+Du destin qu'épreuva la belle egiptienne.
+FIN.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
+Vous voyés bien, Monsieur, par cet évenement,
+Qu'hier je combatois vos bontés justement,
+Et qu'avecque raison mon ame estoit génée⁎
+De la permission que vous aviés donnée :
+Ces démons que le Ciel eut déjà foudroyés,
+Si comme un de ses fleaux il n'estoient envoyés,
+Ont-ils pû s'abstenir de leur crime ordinaire ?
+Mais pour ce rare effort comment pouroient-ils faire ?
+Ils semblent destinés à ce mestier honteux,
+Ils naissent de larrons, sont nourris avec eux,
+Et du premier moment qu'ils se peuvent connestre,
+S'efforcent d'imiter ceux dont ils tienent l'estre,
+Tant ce charme odieux est puissant sur leurs cœurs,
+Il faut donc l'arracher par d'extrémes rigueurs,
+Et qu'un arrest de flame en ce jour extérmine
+Ces noirs autheurs de maux, de fraude et de rapine⁎.
+
+N'en demeurés pas là, que de rudes suplices⁎
+Soient aussi preparés pour ses lâches complices ;
+Une seule entre tous m'excite à la pitié,
+Et par un tendre instinct gagne mon amitié⁎,
+Ce charme de nos cœurs, ce jeune astre qui brille,
+Me fait ressouvenir de nôtre chere fille,
+A ce triste penser, coulés, coulés mes pleurs.
+
+Helas ! depuis douze ans qu'un destin mal-heureux
+Nous ravit à Madrid ce gage de nos feux,
+Au travers des ennuis⁎ dont je suis possedee,
+Cet objet⁎ que je plains m'en retrace l'idee.
+Cela luy doit valoir quelque meilleur parti,
+Son sort avec ce traitre estoit mal assorti,
+Pour un plus noble époux elle semble estre nee.
+
+En m'apprenant son crime on me l'a dit ainsi,
+Mais dessus ce propos je croy que la voicy,
+Considérés, Monsieur, sa grace non commune,
+Et ce front dont l'éclat repugne à sa fortune⁎.
+
+La vertu sollicite aujourd'huy pour le vice.
+
+Je chasseray le dueil qui regne dans son ame.
+
+Ne crains point, Precieuse, approche, baise moy,
+Si l'on luy fait faveur, c'est pour l'amour de toy.
+Tay toy, seche tes pleurs, banny cette tristesse,
+Tu briseras d'icy la chaine qui le presse,
+Et tu sçais emporter d'un effort ravisseur
+Ce que ta voix demande avec tant de douceur.
+Quel charme as-tu sur toy dont la force secrete
+T'obtient si promptement ce que ton cœur souhaite ?
+Par quel aimable sort te fais-tu tant aimer ?
+Ha ! ce sont tes beaux yeux qui nous sçavent charmer,
+Ta beauté, ton esprit, ta grace et ton adresse
+Elevent jusqu'au Ciel ton indigne bassesse,
+Bonne mere, approchés.
+
+Je voy bien qu'en son mal vostre ame s'interesse,
+Cette fille est à vous.
+
+Quel âge a-t'elle bien ?
+
+Helas ! c'est à peu prez l'âge qu'auroit ma fille,
+Elle seroit ainsi belle, aimable et gentille,
+Et rien ne semble mieux à ce gage d'Amour,
+Qu'on nous ravit si jeune à Madrid en plein jour.
+
+      Ha, ma chere Constance !
+
+      Montre moy ta presence,
+Fay nous voir ta personne, et non pas ton portrait.
+
+Mais quel nouveau soucy semble acrestre ta peine ?
+Parle un peu, répons-moy.
+
+Ha ! c'est trop affecter sa ville destinée,
+Espere, Precieuse, un plus noble Hymenée⁎,
+Ouy, nous voulons donner en cette occasion
+Un plus illustre objet⁎ à ton affection.
+
+Mais encor quelle chaine et si belle et si forte
+Dedans ses interests t'engage de la sorte ?
+A-t'il quelque merite, et d'autre qualité
+Que celle de voler avec subtilité ?
+
+Quoy, tu veux que son corps enferme une belle ame ?
+
+Quoy, tu veux faire croire, estant Egiptien,
+Qu'il est homme d'honneur, qu'il est homme de bien ?
+Il se voit à ce conte unique en son espece.
+
+Quoy, tu veux annoblir un traitre, un vagabond ?
+
+Mais il est criminel, et quel que soit son sort,
+La Justice aujourd'huy doit conclure à sa mort.
+
+Quoy qu'il ait fait pour toy, par là tu le surpasses,
+Heureux dans son mal-heur⁎ d'avoir tes bonnes graces⁎,
+Hé bien, pour t'obliger⁎ ; je parleray pour luy,
+Modere cependant l'excez de ton ennuy⁎.
+
+      Et de quoy ?
+
+      Est-ce à moy ?
+
+      La bonne conscience !
+
+Un si nouveau remors estonne⁎ mes espris,
+Et déja sur ce point certain desir me presse,
+Parlés donc,
+
+O funeste present que le sort me renvoye,
+Quelle confusion de douleur et de joye !
+Hé bien qu'est devenu cet enfant precieux ?
+Est-il vivant ou mort ?
+
+Quoy, c'est là ma Constance ? hé dites-moy comment,
+Ne laissés point de doute en mon ravissement⁎.
+
+Est-il vray ? n'est-ce point un fantôme moqueur ?
+Mais pourquoy dementir et mes yeux et mon cœur ?
+Ha ! je n'en doute plus, vien mon sang, vien ma vie
+Redoubler le plaisir dont mon ame est ravie.
+
+Apres douze ans d'ennuis⁎ et de peine soufferte⁎,
+Je recouvre en ce jour une si chere perte,
+Je te revoy, ma fille, ha quel contentement !
+O favorable⁎ jour, ô bien-heureux moment !
+Ouy, tout confirme icy ces faveurs desirees,
+J'en voy dessus ton bras des marques assurees,
+Mon œil de ce colier reconnoist la façon,
+Le sang acheve enfin de lever tout soupçon,
+Hola, viste quelqu'un.
+      Ma fille Egiptienne,
+Allés dire à Monsieur qu'il quitte tout, qu'il vienne,
+Ma Constance.
+
+      Unique et cher tresor,
+Approche, baise-moy, que je t'embrasse encor.
+Mais parmy ces transpors, quelle estrange disgrace
+D'un reproche honteux diffame nôtre race ?
+Deviés-vous l'accorder, sçachant sa qualité,
+Avec un de vos gens, quelle inegalité ?
+
+O Dieux !
+
+Ce nom nous est connu, n'est-il pas de Seville ?
+
+Ha l'aimable avanture⁎, ha l'insigne⁎ bon-heur⁎ !
+Sois beny juste Ciel d'un destin si prospere,
+Que ce rare accident⁎ va réjouir ton père !
+
+Que veux-tu ?
+
+Allés, ne craignés rien.
+
+      Enfin, console toy,
+Attens cette faveur des bontés de ton pere,
+C'est luy qui te rendra ce noble époux, espere :
+Ce que tu m'as appris de son extraction⁎
+Le rend un digne objet⁎ de ton affection,
+Mais le voicy.
+
+      Monsieur, benissés l'avanture⁎
+Qui prepare une histoire à la race⁎ future,
+Qui nous rend nôtre fille.
+
+Qui nous rend ce tresor que nous avons perdu.
+
+      Ouy Monsieur, approche ma Constance,
+Non, non, ne témoignés aucune resistance,
+Mon esprit sur ce doute est trop bien éclaircy,
+La marque de son bras, le colier que voicy,
+Et ce que dit encor cette carte roulee
+De l'endroit et du temps qu'elle nous fut volee,
+Vous doivent bien, Monsieur, assurer du bon-heur⁎
+Qui nous la rend si belle, et même avec l'honneur.
+
+Il est juste, Monsieur.
+
+Mais fils du Chevalier Dom François de Carcame,
+Qui s'est mis dans leur troupe épris de sa beauté.
+
+Ne desirés-vous pas en faire son époux ?
+Ne desirés-vous pas en faire vôtre gendre ?
+
+Il nous faut achever cette rare merveille,
+Le voicy qu'on amene.
+
+      En effet,
+Nous ne pouvons pretendre un gendre plus parfait,
+Et je ne pense pas que Monsieur le refuse.
+
+      Vien ma Constance, approche.
+
+Non, non, un faux apas⁎ n'abuse point vos yeux,
+Au nom de l'Hymenée⁎ embrassés-vous tous deux.
+
+Un Courier dés demain partira de Tolede.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hipolite
+
       Le voyla, mais je tremble.
 
--*who_precieuse
-Prié par ce regard si doux et si charmant
-D'une heure d'entretien pour son allegement⁎,
-Ne luy refusés pas un bien si desirable,
-Et faites à ses vœux un acueil favorable.
-
--*who_dom_jean_de_carcame
-Je voy bien ce que c'est, tu veux rire à ton tour,
-Mais ne croy pas au moins...
-
--*who_precieuse
-      Adieu, jusqu'au retour.
-
--*who_hipolite
 Feignons de l'arrester, quoy qui nous en avienne,
 Où va si promptement la belle Egiptienne ?
 Peut-on pour un moment icy l'entretenir ?
 
--*who_precieuse
-Je ne suis point du tout sçavante en l'avenir.
-Celuy que vous voyés suivant ma conjecture⁎,
-Vous dira mieux que moy vôtre bonne avanture.
-
--*who_hipolite
 Hélas ! elle a raison, éprouvons son avis.
 
--*who_dom_jean_de_carcame
-De quel nouveau mal-heur⁎ mes jours sont-ils suivis ?
-
-**** *book_ *id_IV03 *act_IV *date_1642 *creator_sallebray
-
--*who_dom_jean_de_carcame
-Madame, vous m'offrés un honneur qui m'étonne⁎.
-J'ay veu de vôtre part l'une et l'autre personne,
-Toutes deux m'ont parlé de vôtre indigne choix,
-Toutes deux m'ont ravy l'usage de la voix,
-Et maintenant encor je ne sçay que répondre,
-Trop d'éclat m'éblouit, trop d'heur⁎ me vient confondre,
-Et ces rares faveurs⁎ me font imaginer
-Qu'à quelque autre qu'à moy vous croyés les donner :
-Sortés de vôtre erreur, voyés ce que vous faites,
-Regardés qui je suis, et songés qui vous estes,
-Si vos yeux ont un voile, ou si vous sommeillés,
-Arrachés-le, Madame, ou bien vous éveillés.
-
--*who_hipolite
 Non, non, ma passion ne m'a point aveuglée,
 C'est toy seul qui la rens et juste et déreglée,
 Tu contrains à t'aimer quiconque ose te voir,
@@ -2048,11 +2463,6 @@ Lance un rayon d'espoir qui contente mon ame,
 Modere ton tourment, et romps enfin le sort
 Qui l'agite, la trouble, et me donne la mort.
 
--*who_dom_jean_de_carcame
-Nôtre pouvoir est vain pour les charmes de l'ame,
-Et ce sont les démons qu'en ce point on reclame.
-
--*who_hipolite
 Autre démon que toy ne l'y sceut attacher,
 Autre démon que toy ne l'en peut arracher,
 Laisse, laisse cruel une importune feinte
@@ -2078,87 +2488,27 @@ Tu vivras avec gloire⁎, en paix, dans la douceur,
 Et goûtant des plaisirs tous purs et sans limites,
 Braveras la Fortune⁎ ingratte à tes mérites.
 
--*who_dom_jean_de_carcame
-Descendre jusqu'à moy, m'élever jusqu'à vous,
-D'un pauvre Egiptien en faire vôtre époux,
-Ravi d'une si haute et si rare merveille,
-Quoy que prez d'un soleil je doute si je veille,
-Et je ne comprens pas par quel heureux destin
-J'ai pû faire un si noble, et si riche butin.
-A quelles dures lois est mon ame asservie,
-Que je ne puisse pas contenter vôtre envie,
-Que je ne puisse pas jouir de ce bon-heur
-Qui contient le plaisir, la richesse et l'honneur ?
-Ha ! c'est bien maintenant que l'ingratte Fortune⁎
-Me fait sentir les trais⁎ de sa haine importune,
-Me venant d'une main un tresor presenter,
-Que l'autre au mesme instant me defend d'accepter.
-
--*who_hipolite
 Dans ce consentement que ta grace m'octroye,
 Qui s'oppose à ton bien ? qui s'oppose à ma joye ?
 
--*who_dom_jean_de_carcame
-La rigueur de nos loix, qui veut que parmi nous
-Nous prénions une femme et la fille un époux,
-Lors par qui mon mal-heur⁎ a sa rage assouvie,
-Et qu'il faut observer sur peine de la vie.
-
--*who_hipolite
 Je te sauve de tout par mon authorité.
 
--*who_dom_jean_de_carcame
-Vous ne me sauvés pas de l'infidelité.
-
--*who_hipolite
 Es-tu déjà soûmis au joug de l'Hymenée⁎ ?
 
--*who_dom_jean_de_carcame
-J'espere voir bien-tost cette heureuse journée.
-
--*who_hipolite
 L'avantage⁎ en ce cas te permet de changer.
 
--*who_dom_jean_de_carcame
-Trop puissant est l'objet⁎ qui me sceut engager,
-
--*who_hipolite
 Mais cet objet⁎ enfin n'est qu'une Egiptienne.
 
--*who_dom_jean_de_carcame
-Sa vertu me plaist mieux qu'une race⁎ ancienne.
-
--*who_hipolite
 Quiconque a l'une et l'autre, elle est à preferer.
 
--*who_dom_jean_de_carcame
-De la seule vertu je puis tout esperer.
-
--*who_hipolite
 Prens la possession, et quitte l'esperance.
 
--*who_dom_jean_de_carcame
-Je me tiens à l'espoir, qui m'en donne assurance.
-
--*who_hipolite
 Le mal-heur⁎ trop souvent suit cet esprit flateur.
 
--*who_dom_jean_de_carcame
-Quoy qui puisse arriver j'en beniray l'autheur.
-
--*who_hipolite
 La misere et l'orgueil ne sont pas bien ensemble.
 
--*who_dom_jean_de_carcame
-J'aime dans mon destin le nœud qui les assemble.
-
--*who_hipolite
 Quoy ? mon atente est vaine, et je souffre un refus.
 
--*who_dom_jean_de_carcame
-Je ne vous puis donner un cœur que je n'ay plus.
-
--*who_hipolite
 Quoy d'un Egiptien je me voy refusée !
 Quoy d'un fier vagabond je me voy méprisée !
 Ma faveur le poursuit, il suit d'autres apas,
@@ -2186,119 +2536,14 @@ Qu'il vaudroit mieux vivant tomber dans les enfers,
 Qu'au pouvoir irrité d'une amante enragée
 D'un indigne mépris dont je seray vangée.
 
-**** *book_ *id_IV04 *act_IV *date_1642 *creator_sallebray
-
--*who_precieuse
-Bon augure, il est seul, mais las ! en peu de temps
-On peut beaucoup resoudre. Est-ce luy que j'entens ?
-Quoy soûpirer tout seul ? cette belle Maitresse
-Vous a quitté trop tost, c'est le mal qui vous presse.
-Que vous estes confus ! vous deviés bien aussi
-Luy donner rendés-vous en autre lieu qu'icy,
-Et c'est un peu manquer d'adresse et de prudence,
-Contés-moy vos transpors, Dieux le triste silence !
-Vous ne me dites mot, mais quelle est mon erreur ?
-Peut-on garder la voix ayant perdu le cœur ?
-
--*who_dom_jean_de_carcame
-Amour, que ton pouvoir tyranise nos ames,
-Et que de ton flambeau sortent d'étranges flames !
-
--*who_precieuse
-Il est vray que l'Amour est un étrange Dieu,
-Il nous prend, il nous laisse, en tout temps, en tout lieu.
-
--*who_dom_jean_de_carcame
-Que dans ce changement une fille est à craindre.
-
--*who_precieuse
-Non, non, ne craignés rien, j'aurois tort de m'en plaindre.
-
--*who_dom_jean_de_carcame
-Que cette affaire, helas, est fatale à ma foy !
-
--*who_precieuse
-Vous y puis-je servir ? voyés, employés-moy.
-
--*who_dom_jean_de_carcame
-Dieu ! quelle est ta malice, ha ! sois moins soupçonneuse.
-
--*who_precieuse
-Il le faut avouër, je suis bien mal-heureuse,
-Je souffre⁎ tout, je m'offre, et le veux consoler,
-Et pour tant de bontés il me vient quereller.
-
--*who_dom_jean_de_carcame
-Pardon, tu vois mon ame encor toute agitée
-Du menaçant couroux d'une amante irritée.
-
--*who_precieuse
-Est-ce à moy qu'elle en veut ? j'implore, beau vainqueur,
-Le pouvoir que l'Amour vous donne sur son cœur,
-Sauvés-moy du danger que prepare sa rage.
-
--*who_dom_jean_de_carcame
-Je suis compris aussi dans ce mortel orage,
-Mais le Ciel m'est témoin si j'ay peur que pour toy,
-Quoy que cette enragée ait vomy contre moy,
-Quelques fers qu'à present me forge sa malice,
-Je ne me plaindrois point d'un si proche supplice⁎,
-Si ce mesme démon pour crestre mes douleurs,
-Ne vouloit t'exposer à de mesmes mal-heurs⁎ ;
-Je crains que sa menace enfin ne s'effectuë,
-Et c'est ce qui me trouble, et c'est qui me tuë,
-Fuyons, si tu m'en crois, de ce lieu mal-heureux.
-
--*who_precieuse
-Fort bien, pour mieux nier vos larcins amoureux.
-Peut-on couvrir sa faute avec plus d'industrie⁎ ?
-
--*who_dom_jean_de_carcame
-Tréve, tréve, mon cœur à cette raillerie,
-L'orage dessus nous est tout prest à crever,
-Et nous sommes perdus si l'on nous peut treuver.
-
--*who_precieuse
-Je ne puis croire encor ce projet detestable.
-
--*who_dom_jean_de_carcame
-Helas ! nôtre mal-heur le rend trop veritable.
-
--*who_precieuse
-Dieux ! que m'apprenés-vous ?
-
--*who_dom_jean_de_carcame
-      Un sanglant desespoir,
-Mais fuyons j'oy du bruit.
-
--*who_precieuse
-      Que je crains son pouvoir !
-Courons donc du depart prier le Capitaine,
-Faut-il qu'à mon sujet vous ayés tant de peine ?
-O Ciel ! contre ces traits⁎ daigne armer nôtre sein,
-Ou bien fais avorter ce damnable dessein.
-
-**** *book_ *id_IV05 *act_IV *date_1642 *creator_sallebray
-
--*who_hipolite
 Je bénis ce rencontre à mes yeux favorable,
 J'allois vous supplier de m'estre secourable.
 
--*who_le_prevost
-En quoy ? me voyla prest, et je me sens ravir
-Du glorieux bon-heur de vous pouvoir servir.
-
--*who_hipolite
 Ces infames autheurs de mille fourberies
 Me sont venus voler toutes mes pierreries,
 Et je n'ay point d'espoir de recouvrer ce bien,
 Que par vôtre assistance, et par vôtre moyen.
 
--*who_le_prevost
-Il faut pour cet effet prendre le Capitaine,
-Nôtre exacte recherche autrement seroit vaine.
-
--*who_hipolite
 Un certain entre tous d'assés bonne façon,
 De tout le voisinage attire le soupçon,
 On l'a veu qui rodoit fort prez de nôtre porte,
@@ -2309,16 +2554,6 @@ Et dont la mine dit qu'il en a bien fait d'autres :
 Faites-le moy d'abord saisir par un des vôtres,
 Apres, nous fouillerons et sa valise et luy.
 
--*who_le_prevost
-Ces assés, ces voleurs rendront tout aujourd'huy.
-Ne perdons point de temps, l'affaire est d'importance,
-Allons, c'est icy prez, et s'ils font resistance,
-Sans attendre ma voix, main basse, tués tout,
-Du meurtre general mon pouvoir vous absout.
-
-**** *book_ *id_IV06 *act_IV *date_1642 *creator_sallebray 
-
--*who_hipolite
 Je te tiens arrogant, et ta perte arrestée
 Va vanger mon amour lachement rejetée,
 Ma fourbe par mes mains conduite adrétement,
@@ -2326,1016 +2561,97 @@ Prépare à ton orgueil un juste châtiment,
 Et ces joyaux tirés du fond de ta valise
 Feront selon mes vœux réussir l'entreprise.
 
-**** *book_ *id_IV07 *act_IV *date_1642 *creator_sallebray
-
--*who_le_capitaine
-Ouy, je treuve à propos d'éviter sa fureur,
-La femme en se vengeant va jusques à l'horreur,
-La flame méprisée allume d'autres flames,
-Dans leurs caresses mesme il faut craindre les femmes,
-C'et pourquoy que chacun se prepare au depart,
-Afin de déloger quand il sera plus tard,
-Nous pouvons cette nuit choisir une retraite,
-Et les bois en sont une assurée et secrete.
-
--*who_precieuse
-A quelle extremité vous ay-je ici reduit ?
-
--*who_dom_jean_de_carcame
-Ha ! mon cœur, c'est bien moy...
-
--*who_le_capitaine
-      Ne faisons point de bruit,
-Et ne poursuivés point cette plainte inutille,
-Je m'en vay cependant faire un tour dans la ville,
-Afin d'en ramener quelques-uns de nos gens.
-
--*who_precieuse
-Ainsi rien ne s'oppose à vos soins diligens⁎.
-
--*who_dom_jean_de_carcame
-Sur nos chastes desseins mon amour se repose.
-
--*who_la_vieille
-On dit bien vray, l'épine est proche de la rose.
-
-**** *book_ *id_IV08 *act_IV *date_1642 *creator_sallebray 
-
--*who_le_prevost
-Demeurés. Le premier qui fait le moindre effort.
-
--*who_la_vieille
-Ha bon Dieu ! qu'est cecy ?
-
--*who_le_prevost
-      Je le tuë, il est mort.
-Il faut restituer à cette jeune Dame
-Ses joyaux qu'on a pris.
-
--*who_dom_jean_de_carcame
-      L'effrontée !
-
--*who_precieuse
-      Ha ! l'infame.
-
--*who_le_capitaine
-Vous peut-elle preuver son accusation ?
-
--*who_le_prevost
-On ne connoist que trop l'autheur de l'action.
-
--*who_hipolite
 Ouy, voyla mon voleur.
 
--*who_dom_jean_de_carcame
-      Moy !
-
--*who_hipolite
       Toy-mesme en personne,
 Toy que l'on m'a dépeint, et que chacun soupçonne.
 
--*who_dom_jean_de_carcame
-Celle qui m'a prié m'ose-t'elle accuser ?
-Craint-elle point la honte où je puis l'exposer ?
-
--*who_hipolite
 Non, non, tout maintenant je veux qu'on me les rende,
 Ou l'on va t'enchainer avec toute la bande,
 Voyés qu'il est rusé : Sans faire plus de bruit
 Je les auray, dit-il, et devant qu'il soit nuit.
 
--*who_dom_jean_de_carcame
-Justes Dieux souffrés-vous cette lâche imposture ?
-
--*who_hipolite
 Son bagage fouillé prouve ma conjecture⁎,
 Commandés qu'on l'apporte.
 
--*who_dom_jean_de_carcame
-      Ouy, qu'on l'aille querir,
-Si tout ne m'appartient je consens à périr.
-
--*who_precieuse
-Que ta fidelité me va coûter de larmes !
-
--*who_dom_jean_de_carcame
-Qui croiroit tant de ruses avecque tant de charmes ?
-
--*who_precieuse
-C'est l'aspic sous les fleurs.
-
--*who_le_prevost
-      La veue en fera foy.
-
--*who_hipolite
 Ne fiés, s'il vous plaist, la recherche qu'à moy.
 
--*who_le_prevost
-Elle vous appartient estant interessée.
-
--*who_la_vieille
-Nous n'aurions point ces maux si l'on l'eut caressée.
-
--*who_hipolite
 Apporte icy, mets là, vous verrés si j'ay tort
 D'accuser ce voleur.
 
--*who_dom_jean_de_carcame
-      Quel titre !
-
--*who_precieuse
-      Mais quel sort !
-
--*who_hipolite
 Ne voyla pas déjà mes bracelets, ma chaine ?
 Pour découvrir le reste il ne faut point de géne⁎.
 
--*who_dom_jean_de_carcame
-Que voy-je ?
-
--*who_hipolite
       Ton larcin.
 
--*who_dom_jean_de_carcame
-      Dieux que je suis confus !
-
--*who_hipolite
 Tu dois bien l'estre aussi, si jamais tu le fus,
 Bon, je tiens mon colier, il faut que tout revienne,
 Oseras-tu nier que ce bien m'appartienne ?
 
--*who_dom_jean_de_carcame
-Tout cela ne se fait que par enchantement.
-
--*who_hipolite
 Il me revient encore un certain diamant,
 Cherchons bien.
 
--*who_precieuse
-      Juste Ciel fay voir son innocence.
-
--*who_dom_jean_de_carcame
-C'est de luy seulement que j'attens ma defense.
-
--*who_hipolite
 Courage, le voicy, nous tenons tout. Enfin
 Confesse qu'avec moy tu n'es pas le plus fin⁎.
 
--*who_dom_jean_de_carcame
-Ouy, je succombe aux trais⁎ de ta noire malice.
-
--*who_hipolite
 Il m'injurie encor.
 
--*who_le_prevost
-      Viste, qu'on le saisisse,
-Et qu'on le mette aux fers.
-
--*who_dom_jean_de_carcame
-      Ecoutés pour le moins.
-
--*who_hipolite
 Que peut-il alleguer, faut-il d'autres témoins ?
 Commandés qu'il se taise.
 
--*who_dom_jean_de_carcame
-      Ha monstre que j'abhorre !
-Tu m'empesches en vain.
-
--*who_archer
-      Tu discoures encore.
-
--*who_precieuse
-Ha Dieu, quelle impudence !
-
--*who_dom_jean_de_carcame
-      Un soufflet, effronté !
-Ton sang me vangera de ta temerité.
-
--*who_le_prevost
-Empeschés.
-
--*who_dom_jean_de_carcame
-      C'en est fait, il est mort.
-
--*who_le_prevost
-      Quoy perfide,
-A ton larcin encor ajoûter l'homicide !
-
--*who_dom_jean_de_carcame
-Je n'enduray jamais de semblables affrons.
-
--*who_hipolite
 Il faut le dépescher.
 
--*who_le_prevost
-      C'est ce que nous ferons.
-
--*who_hipolite
 Amis, vangés la mort de vôtre camarade,
 Immolés⁎-luy ce traitre, et toute sa brigade,
 Encor sera-ce peu pour contenter son sang.
 
--*who_le_prevost
+Je sçauray reconnestre un si loüable office.
+
+
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leprevost
+
+En quoy ? me voyla prest, et je me sens ravir
+Du glorieux bon-heur de vous pouvoir servir.
+
+Il faut pour cet effet prendre le Capitaine,
+Nôtre exacte recherche autrement seroit vaine.
+
+Ces assés, ces voleurs rendront tout aujourd'huy.
+Ne perdons point de temps, l'affaire est d'importance,
+Allons, c'est icy prez, et s'ils font resistance,
+Sans attendre ma voix, main basse, tués tout,
+Du meurtre general mon pouvoir vous absout.
+
+Demeurés. Le premier qui fait le moindre effort.
+
+      Je le tuë, il est mort.
+Il faut restituer à cette jeune Dame
+Ses joyaux qu'on a pris.
+
+On ne connoist que trop l'autheur de l'action.
+
+      La veue en fera foy.
+
+Elle vous appartient estant interessée.
+
+      Viste, qu'on le saisisse,
+Et qu'on le mette aux fers.
+
+Empeschés.
+
+      Quoy perfide,
+A ton larcin encor ajoûter l'homicide !
+
+      C'est ce que nous ferons.
+
 Allons, et que pas un ne sorte de son rang,
 L'arrest du Senéchal fera punir son crime.
 
--*who_precieuse
-Bourreaux, vous lâcherés cette illustre victime,
-Et je luy vay conter, lâche, ta trahison.
-
--*who_le_prevost
 Vous autres, vous aurés mon logis pour prison.
 
--*who_hipolite
-Je sçauray reconnestre un si loüable office.
-
--*who_le_prevost
 Je seray toujours prest à vous rendre service.
 Fin du quatriéme Acte.
 
-**** *book_ *id_V01 *act_V *date_1642 *creator_sallebray
-
--*who_isabelle
-Vous voyés bien, Monsieur, par cet évenement,
-Qu'hier je combatois vos bontés justement,
-Et qu'avecque raison mon ame estoit génée⁎
-De la permission que vous aviés donnée :
-Ces démons que le Ciel eut déjà foudroyés,
-Si comme un de ses fleaux il n'estoient envoyés,
-Ont-ils pû s'abstenir de leur crime ordinaire ?
-Mais pour ce rare effort comment pouroient-ils faire ?
-Ils semblent destinés à ce mestier honteux,
-Ils naissent de larrons, sont nourris avec eux,
-Et du premier moment qu'ils se peuvent connestre,
-S'efforcent d'imiter ceux dont ils tienent l'estre,
-Tant ce charme odieux est puissant sur leurs cœurs,
-Il faut donc l'arracher par d'extrémes rigueurs,
-Et qu'un arrest de flame en ce jour extérmine
-Ces noirs autheurs de maux, de fraude et de rapine⁎.
-
--*who_ferdinand
-Madame, il est certain qu'un foudre rougissant
-Devroit exterminer cet hydre renaissant,
-Encor que tels voleurs, quoy qu'il nous puissent prendre,
-Par un droit ancien soient quites pour le rendre :
-Mais le meurtre jamais ne se doit pardonner,
-Et l'homicide ouy je le vay condamner.
-
--*who_isabelle
-N'en demeurés pas là, que de rudes suplices⁎
-Soient aussi preparés pour ses lâches complices ;
-Une seule entre tous m'excite à la pitié,
-Et par un tendre instinct gagne mon amitié⁎,
-Ce charme de nos cœurs, ce jeune astre qui brille,
-Me fait ressouvenir de nôtre chere fille,
-A ce triste penser, coulés, coulés mes pleurs.
-
--*who_ferdinand
-Ne renouvellés point nos sensibles douleurs,
-Et laissons faire au Ciel, dont la toute-puissance
-Des secrets plus cachés sçait donner connessance.
-
--*who_isabelle
-Helas ! depuis douze ans qu'un destin mal-heureux
-Nous ravit à Madrid ce gage de nos feux,
-Au travers des ennuis⁎ dont je suis possedee,
-Cet objet⁎ que je plains m'en retrace l'idee.
-Cela luy doit valoir quelque meilleur parti,
-Son sort avec ce traitre estoit mal assorti,
-Pour un plus noble époux elle semble estre nee.
-
--*who_ferdinand
-Comment ? au criminel elle estoit destinée.
-
--*who_isabelle
-En m'apprenant son crime on me l'a dit ainsi,
-Mais dessus ce propos je croy que la voicy,
-Considérés, Monsieur, sa grace non commune,
-Et ce front dont l'éclat repugne à sa fortune⁎.
-
--*who_ferdinand
-En effet, j'y remarque un air tout glorieux,
-Laissés faire à mes soins, je la pourvoiray mieux.
-
--*who_isabelle
-La vertu sollicite aujourd'huy pour le vice.
-
--*who_ferdinand
-Il la faut escouter.
-
-**** *book_ *id_V02 *act_V *date_1642 *creator_sallebray
-
--*who_precieuse
-      Ha ! Monseigneur, justice,
-Delivrés mon époux, sauvés un innocent,
-Sa vertu vous en prie, et le Ciel y consent,
-S'il meurt, je doy mourir, c'est à tort qu'on l'accuse,
-Le vol qu'on luy suppose est l'effet d'une ruse,
-C'est un mauvais office⁎, et qui part d'un démon
-Dont il vous apprendra la malice et le nom,
-Faites-luy seulement la faveur de l'entendre,
-Escoutés ses raisons qui le sçauront defendre,
-Et ne vous hâtés pas de juger ce procez,
-Dont le Ciel par vos soins me promet bon succez.
-
--*who_ferdinand
-Ma fille, laisse là l'interest d'un perfide,
-Le vol peut estre faux, et non pas l'homicide.
-
--*who_precieuse
-Il est vray que son bras l'a vangé d'un affront
-Qui fait rougir ensemble et sa jouë et son front,
-Il est homme d'honneur, et dans son innocence
-Endurer un soufflet excedoit sa puissance :
-Mais, Monsieur, nous mettons nos biens à l'abandon,
-Pour obtenir plustost un si juste pardon,
-Et si, pour accorder sa grace à nostre envie,
-Ils ne suffisent pas, j'offre encore ma vie,
-Qu'on me mette en sa place, et qu'il soit delivré,
-Il ne sçauroit mourir tandis que je vivray,
-Il vit dedans mon cœur beaucoup mieux qu'en luy-mesme,
-Et je suis cause enfin de ce mal-heur⁎ extréme.
-Mais oyés ses raisons.
-
--*who_ferdinand
-      Cesse de t'affliger,
-Ouy, tes vœux sont receus, je vay l'interroger,
-Demeure cependant pour divertir⁎ Madame.
-
--*who_isabelle
-Je chasseray le dueil qui regne dans son ame.
-
--*who_ferdinand
-Cette affaire contient des mysteres cachés,
-Il s'en faut éclaircir.
-
--*who_precieuse
-      Hé ! Monsieur, depéchés.
-Justes Dieux qui sçavés le crime et l'innocence !
-N'ordonnés point la peine à qui souffre⁎ l'offense.
-
-**** *book_ *id_V03 *act_V *date_1642 *creator_sallebray
-
--*who_isabelle
-Ne crains point, Precieuse, approche, baise moy,
-Si l'on luy fait faveur, c'est pour l'amour de toy.
-Tay toy, seche tes pleurs, banny cette tristesse,
-Tu briseras d'icy la chaine qui le presse,
-Et tu sçais emporter d'un effort ravisseur
-Ce que ta voix demande avec tant de douceur.
-Quel charme as-tu sur toy dont la force secrete
-T'obtient si promptement ce que ton cœur souhaite ?
-Par quel aimable sort te fais-tu tant aimer ?
-Ha ! ce sont tes beaux yeux qui nous sçavent charmer,
-Ta beauté, ton esprit, ta grace et ton adresse
-Elevent jusqu'au Ciel ton indigne bassesse,
-Bonne mere, approchés.
-
--*who_la_vieille
-      Dans l'ennuy⁎ que je sens
-Quelle nouvelle peur vient troubler tous mes sens ?
-
--*who_isabelle
-Je voy bien qu'en son mal vostre ame s'interesse,
-Cette fille est à vous.
-
--*who_la_vieille
-      Madame, c'est ma Niece.
-
--*who_isabelle
-Quel âge a-t'elle bien ?
-
--*who_la_vieille
-      Je croy qu'elle a quinze ans,
-C'est tout ce que j'en sçay. Ha ! discours déplaisans.
-
--*who_isabelle
-Helas ! c'est à peu prez l'âge qu'auroit ma fille,
-Elle seroit ainsi belle, aimable et gentille,
-Et rien ne semble mieux à ce gage d'Amour,
-Qu'on nous ravit si jeune à Madrid en plein jour.
-
--*who_la_vieille
-Dieu ! Qu'est-ce que j'entens ?
-
--*who_isabelle
-      Ha, ma chere Constance !
-
--*who_la_vieille
-Voyla son mesme nom.
-
--*who_isabelle
-      Montre moy ta presence,
-Fay nous voir ta personne, et non pas ton portrait.
-
--*who_la_vieille
-O Ciel ! pour quelque temps cache encor ce secret.
-
--*who_isabelle
-Mais quel nouveau soucy semble acrestre ta peine ?
-Parle un peu, répons-moy.
-
--*who_precieuse
-      Si ma priere est vaine,
-Madame assurés-vous que je cours au trespas⁎,
-Puisque de mon époux je veux suivre les pas.
-
--*who_isabelle
-Ha ! c'est trop affecter sa ville destinée,
-Espere, Precieuse, un plus noble Hymenée⁎,
-Ouy, nous voulons donner en cette occasion
-Un plus illustre objet⁎ à ton affection.
-
--*who_precieuse
-Sa vertu me contente ainsi que sa naissance,
-Que puissiés vous, Madame, en avoir connessance,
-Je cesserois de craindre, et vous de m'affliger,
-Voulant porter icy mon esprit à changer.
-
--*who_isabelle
-Mais encor quelle chaine et si belle et si forte
-Dedans ses interests t'engage de la sorte ?
-A-t'il quelque merite, et d'autre qualité
-Que celle de voler avec subtilité ?
-
--*who_precieuse
-Ha ! ne luy donnés point cette honteuse tache,
-Il est bien éloigné d'un sentiment⁎ si lâche,
-Puisque quelque tresor qu'on lui vint presenter,
-Je doute avec raison qu'il voulut l'accepter.
-Il est riche et content, il est sage et fidelle,
-C'est d'un homme de bien le plus parfait modelle,
-Et s'il avait l'honneur d'estre connu de vous,
-Vous vous étonneriés⁎ qu'il se fit mon époux.
-
--*who_isabelle
-Quoy, tu veux que son corps enferme une belle ame ?
-
--*who_precieuse
-Il a le cœur d'un Roy sous cet habit infame.
-
--*who_isabelle
-Quoy, tu veux faire croire, estant Egiptien,
-Qu'il est homme d'honneur, qu'il est homme de bien ?
-Il se voit à ce conte unique en son espece.
-
--*who_precieuse
-Aussi l'est-il, Madame, en merite, en noblesse,
-Et ce cœur genereux⁎ n'eut jamais de second.
-
--*who_isabelle
-Quoy, tu veux annoblir un traitre, un vagabond ?
-
--*who_precieuse
-Il est ce qu'il vous plaist, mais il est honneste homme,
-Et vous me croirés mieux s'il faut que je le nomme.
-
--*who_isabelle
-Mais il est criminel, et quel que soit son sort,
-La Justice aujourd'huy doit conclure à sa mort.
-
--*who_precieuse
-Qu'ay-je ouy, juste Ciel ! ha ! mon ame abatuë
-Cede au cruel effort de ce mot qui me tuë :
-Si j'ay l'honneur encor de plaire à ces beaux yeux
-Qui sceurent enchanter un Ministre des Dieux,
-Si vous daignés comme eux defendre l'innocence,
-Si vostre cœur connoist l'Amour et sa puissance,
-Si vous avés aimé son joug aimable et doux,
-Si vous aimés encor vostre fidelle époux,
-Madame, par vos soins, vos bontés et vos charmes,
-Par ces divines mains que j'arrose de larmes,
-Par vostre cher époux, par mes fébles apas⁎,
-Que vous me témoignés ne vous déplaire pas,
-Par vostre fille prise en un âge si tendre,
-Que peut-estre le Ciel se prepare à vous rendre,
-Par cette ressemblance et ce juste rapport,
-D'âge, d'aspect, de mœurs, et possible de sort,
-Enfin au nom d'Hymen⁎ je demande une grace,
-Que la Justice mesme ordonne qu'on nous fasse,
-Ne laissés point au vice opprimer la vertu,
-Mon genereux⁎ Andres l'a trop bien combatu,
-Sauvés-le du danger où l'a mis l'imposture,
-Mon destin est meslé dans sa triste avanture⁎,
-E s'il succombe aux trais⁎ d'une injuste rigueur,
-Les mesmes trais⁎ aussi me perceront le cœur.
-
--*who_isabelle
-Quoy qu'il ait fait pour toy, par là tu le surpasses,
-Heureux dans son mal-heur⁎ d'avoir tes bonnes graces⁎,
-Hé bien, pour t'obliger⁎ ; je parleray pour luy,
-Modere cependant l'excez de ton ennuy⁎.
-
--*who_la_vieille
-Parlons ; pour seconder⁎ une si juste envie,
-C'est l'unique moyen pour luy sauver la vie.
-Puis-je esperer, Madame, un pardon ?
-
--*who_isabelle
-      Et de quoy ?
-
--*who_la_vieille
-D'un important larcin que j'ay fait.
-
--*who_isabelle
-      Est-ce à moy ?
-
--*who_la_vieille
-Helas ! ouy, c'est à vous.
-
--*who_isabelle
-      La bonne conscience !
-
--*who_la_vieille
-Donnés moy, s'il vous plaist, un moment d'audience,
-Et je vous feray voir ce que je vous ay pris.
-
--*who_isabelle
-Un si nouveau remors estonne⁎ mes espris,
-Et déja sur ce point certain desir me presse,
-Parlés donc,
-
--*who_precieuse
-      Quel espoir vient chasser ma tristesse ?
-
--*who_la_vieille
-Si l'heureux accident⁎ que je vay découvrir
-Ne sçauroit empescher qu'on me fasse mourir,
-Et si vostre bonté vainement je reclame,
-Au moins auparavant, lisés cela Madame,
-Consultés vostre cœur, et voyés bien aussi
-Si vous reconnestrés le colier que voicy.
-
--*who_isabelle
-O funeste present que le sort me renvoye,
-Quelle confusion de douleur et de joye !
-Hé bien qu'est devenu cet enfant precieux ?
-Est-il vivant ou mort ?
-
--*who_la_vieille
-      Demandés-le à vos yeux,
-Si vous ne l'apprenés de vostre fille mesme,
-La voyla, parlés-luy.
-
--*who_precieuse
-      Felicité supréme !
-
--*who_isabelle
-Quoy, c'est là ma Constance ? hé dites-moy comment,
-Ne laissés point de doute en mon ravissement⁎.
-
--*who_la_vieille
-Faites-moy donc l'honneur de m'écouter encore.
-Je pris cette beauté, que tout le monde adore,
-A l'âge de trois ans, devers⁎ cette saison,
-A Madrid, en plein jour, et dans vôtre maison,
-J'appris secretement qu'on la nommoit Constance,
-Et fis écrire un mot de chaque circonstance,
-Afin que quelque jour tout cela pût servir
-A luy rendre les biens que j'osois luy ravir,
-Et sauver l'un de nous d'une mort violente,
-Comme l'occasion aujourd'huy s'en presente.
-Depuis elle a vescu mieux que nous ne faisons,
-En combatant nos mœurs avec mille raisons,
-Dont les moindres prouvoient par leur force divine
-La gloire⁎ et la vertu de sa noble origine.
-
--*who_isabelle
-Est-il vray ? n'est-ce point un fantôme moqueur ?
-Mais pourquoy dementir et mes yeux et mon cœur ?
-Ha ! je n'en doute plus, vien mon sang, vien ma vie
-Redoubler le plaisir dont mon ame est ravie.
-
--*who_precieuse
-Madame, je cheris un bon-heur⁎ si parfait,
-D'autant plus que je voy qu'il vous plaist en effet.
-
--*who_isabelle
-Apres douze ans d'ennuis⁎ et de peine soufferte⁎,
-Je recouvre en ce jour une si chere perte,
-Je te revoy, ma fille, ha quel contentement !
-O favorable⁎ jour, ô bien-heureux moment !
-Ouy, tout confirme icy ces faveurs desirees,
-J'en voy dessus ton bras des marques assurees,
-Mon œil de ce colier reconnoist la façon,
-Le sang acheve enfin de lever tout soupçon,
-Hola, viste quelqu'un.
-      Ma fille Egiptienne,
-Allés dire à Monsieur qu'il quitte tout, qu'il vienne,
-Ma Constance.
-
--*who_precieuse
-      Madame.
-
--*who_isabelle
-      Unique et cher tresor,
-Approche, baise-moy, que je t'embrasse encor.
-Mais parmy ces transpors, quelle estrange disgrace
-D'un reproche honteux diffame nôtre race ?
-Deviés-vous l'accorder, sçachant sa qualité,
-Avec un de vos gens, quelle inegalité ?
-
--*who_la_vieille
-Madame, il est aussi d'une illustre naissance.
-
--*who_isabelle
-O Dieux !
-
--*who_la_vieille
-      Et son nom seul en donne connessance.
-L'esprit de vôtre fille avec sa chasteté,
-D'un pouvoir glorieux secondant⁎ sa beauté,
-Ont fait naitre en plusieurs une amour sans pareille
-Pour cette incomparable et celeste merveille,
-Mais Dom Jean de Carcame est le seul entre tous
-Que j'ay treuvé plus propre à faire son époux,
-Et d'hier seulement il est en cette ville.
-
--*who_isabelle
-Ce nom nous est connu, n'est-il pas de Seville ?
-
--*who_precieuse
-Ouy, Madame, et son pere en est le Gouverneur.
-
--*who_isabelle
-Ha l'aimable avanture⁎, ha l'insigne⁎ bon-heur⁎ !
-Sois beny juste Ciel d'un destin si prospere,
-Que ce rare accident⁎ va réjouir ton père !
-
--*who_precieuse
-Madame, un doux excez de joye et de plaisirs
-Arreste bien ma voix, et non pas mes desirs.
-
--*who_isabelle
-Que veux-tu ?
-
--*who_precieuse
-      Le pardon pour cette bonne mere,
-Qui tremble et qui fremit au seul nom de mon pere.
-Faites qu'il s'y contente, appaisés son couroux.
-
--*who_la_vieille
-Ma bonne Dame, helas ! je n'espere qu'en vous.
-
--*who_precieuse
-Dans quelque étrange sort qu'elle m'ait engagee,
-D'un vray soin maternel je luy suis obligee,
-Joint qu'ayant declaré ce rapt sans l'y forcer,
-On doit songer plustost à la recompenser.
-
--*who_isabelle
-Allés, ne craignés rien.
-
--*who_precieuse
-      Ce n'est pas tout, Madame,
-Il faut tirer des fers la moitié de mon ame,
-Helas ! songeant aux maux qu'il endure pour moy,
-Je succombe, je meurs.
-
--*who_isabelle
-      Enfin, console toy,
-Attens cette faveur des bontés de ton pere,
-C'est luy qui te rendra ce noble époux, espere :
-Ce que tu m'as appris de son extraction⁎
-Le rend un digne objet⁎ de ton affection,
-Mais le voicy.
-
-**** *book_ *id_V04 *act_V *date_1642 *creator_sallebray
-
--*who_isabelle
-      Monsieur, benissés l'avanture⁎
-Qui prepare une histoire à la race⁎ future,
-Qui nous rend nôtre fille.
-
--*who_ferdinand
-      O Dieux ! qu'ay-je entendu ?
-
--*who_isabelle
-Qui nous rend ce tresor que nous avons perdu.
-
--*who_ferdinand
-Le verray-je ?
-
--*who_isabelle
-      Ouy Monsieur, approche ma Constance,
-Non, non, ne témoignés aucune resistance,
-Mon esprit sur ce doute est trop bien éclaircy,
-La marque de son bras, le colier que voicy,
-Et ce que dit encor cette carte roulee
-De l'endroit et du temps qu'elle nous fut volee,
-Vous doivent bien, Monsieur, assurer du bon-heur⁎
-Qui nous la rend si belle, et même avec l'honneur.
-
--*who_ferdinand
-Inutilles témoins d'une fille si chere,
-Cedés à son aspect aux atteintes du pere,
-Ouy, je te reconnois espoir de mes vieux jours,
-Gage si precieux de mes chastes amours,
-Accours dedans mes bras, vien ça que je t'embrasse.
-
--*who_precieuse
-Ha Monsieur, que d'honneur succede à ma disgrace !
-
--*who_ferdinand
-O du Ciel et du sort l'incomparable effet !
-Apres tant de faveurs je mouray satisfait.
-Mais qui t'a découvert cet étrange mystere ?
-Ne sçaurois-je punir l'autheur de ta misere ?
-
--*who_la_vieille
-O Dieux ! je suis perdue.
-
--*who_precieuse
-      Hé ! Monsieur, par ce nom
-Ou de pere ou de fille accordés ce pardon,
-Voyla qui la causa, mais loin d'estre punie,
-Je la doy caresser puisqu'elle l'a finie.
-
--*who_isabelle
-Il est juste, Monsieur.
-
--*who_ferdinand
-      Madame, révés-vous ?
-A nôtre fille encor destiner un époux
-Un traitre Egiptien, un voleur, un infame.
-
--*who_isabelle
-Mais fils du Chevalier Dom François de Carcame,
-Qui s'est mis dans leur troupe épris de sa beauté.
-
--*who_ferdinand
-Dieux ! que m'apprenés-vous ?
-
--*who_precieuse
-      La pure vérité.
-
--*who_ferdinand
-Courés viste quelqu'un dans la prochaine,
-Et que sans luy rien dire icy l'on me l'ameine,
-S'il est vray, le pardon vous est tout assuré.
-
--*who_la_vieille
-Ainsi chacun aura ce qu'il a desiré.
-
--*who_ferdinand
-Dom François de Carcame ! ô Ciel ! quels avantages⁎,
-Ce noble compagnon d'armes et de voyages,
-Mon Pylade avec qui j'ay si long-temps vescu,
-Mon second⁎, avec qui j'ay tant de fois vaincu,
-Ha comble de plaisir qui n'est point ordinaire !
-Ouy par l'aspect du fils je me remets le pere,
-Il est ainsi posé, grave, modeste et doux.
-
--*who_isabelle
-Ne desirés-vous pas en faire son époux ?
-Ne desirés-vous pas en faire vôtre gendre ?
-
--*who_ferdinand
-Si tu l'aimes, ma fille, ouy tu peux le pretendre.
-
--*who_precieuse
-Je n'ay d'amour pour luy dans un si grand bon-heur⁎
-Que ce qu'en doit avoir une fille d'honneur,
-Une fille portée à la reconnessance
-Des devoirs d'un amant de si haute naissance,
-Qui méprisant son rang a tout quitté pour moy,
-S'est fait Egiptien, et m'a donné sa foy.
-
--*who_ferdinand
-O miracle d'Amour, ô vertu sans pareille !
-
--*who_isabelle
-Il nous faut achever cette rare merveille,
-Le voicy qu'on amene.
-
--*who_precieuse
-      En quel état odieux.
-
--*who_ferdinand
-Que personne à present ne montre un front joyeux,
-D'un si parfait bon-heur ma voix le veut surprendre.
-
--*who_precieuse
-Que j'ay peur de sa crainte, ha s'il pouvoit m'entendre !
-
-**** *book_ *id_V05 *act_V *date_1642 *creator_sallebray
-
--*who_ferdinand
-Approche scelerat.
-
--*who_precieuse
-      Dieu ! qu'est-ce j'entens ?
-
--*who_ferdinand
-Ouy, je veux aujourd'huy rendre tes vœux contens,
-Devant que de souffrir⁎ la mort la plus infame,
-A l'Hymen⁎ pretendu dispose icy ton ame,
-M'as-tu pas demandé cette insigne⁎ faveur ?
-
--*who_dom_jean_de_carcame
-C'est le dernier souhait qui parte de mon cœur,
-Et je mouray content pourveu que je l'obtienne.
-
--*who_ferdinand
-C'est aussi le desir de cette Egiptienne.
-
--*who_dom_jean_de_carcame
-Sa vertu meritoit un destin plus heureux,
-Et je devois avoir un sort moins rigoureux.
-
--*who_ferdinand
-Toy meurtrier, toy voleur.
-
--*who_precieuse
-      Ha Dieu que j'apprehende !
-
--*who_ferdinand
-Toy le plus renommé de cette infame bande
-Que ma juste fureur dût toute exterminer,
-Pour vanger tant de maux, et pour les terminer.
-
--*who_dom_jean_de_carcame
-Ces reproches honteux commencent mon suplice⁎.
-
--*who_ferdinand
-De tes vols pour le moins cette fille est complice.
-
--*who_dom_jean_de_carcame
-Dites, sans offenser sa generosité,
-Complice d'innocence et de fidelité.
-
--*who_ferdinand
-Ce larron d'Andres mort, si Dom Jean de Carcame
-Succede à son bon-heur, et la reçoit pour femme.
-
--*who_dom_jean_de_carcame
-Quoy donc je suis trahy de son affection ?
-
--*who_ferdinand
-Elle n'a pû se taire en cette occasion,
-Mais pour vous témoigner combien je vous honore,
-Outre la liberté, prenés ma fille encore,
-Je voy chacun content de cet offre.
-
--*who_isabelle
-      En effet,
-Nous ne pouvons pretendre un gendre plus parfait,
-Et je ne pense pas que Monsieur le refuse.
-
--*who_dom_jean_de_carcame
-Si j'ay la liberté, permetés que j'en use.
-Ce n'est pas que mon sort dans l'honneur de ce chois
-Ne fut trop glorieux⁎ de vivre sous ses lois,
-Mais j'ay déja donné mon ame à cette belle,
-Et j'aime mieux mourir mal-heureux qu'infidelle.
-
--*who_ferdinand
-Si son cœur y consent vous ne le serés point,
-Et nous nous promettons son aveu sur ce point.
-
--*who_precieuse
-Ouy, cet Hymen⁎ me plaist, et je vous le conseille.
-
--*who_dom_jean_de_carcame
-O Ciel ! ha lâcheté qui n'a point de pareille !
-Quoy tu peux consentir...
-
--*who_ferdinand
-      Ne vous en fâchez pas,
-Ma fille est aussi belle, et n'a pas moins d'apas⁎.
-Madame, montrés-luy.
-
--*who_isabelle
-      Vien ma Constance, approche.
-
--*who_precieuse
-Quoy vous me refusés ? ha ! j'ai droit de reproche.
-
--*who_dom_jean_de_carcame
-O Dieux !
-
--*who_ferdinand
-      N'en doutés point, et n'apprehendés plus,
-Vous serés à loisir éclaircy là dessus,
-Ouy, c'est ma fille unique, et cette Egiptienne
-Empesche vôtre perte en reparant la mienne.
-
--*who_dom_jean_de_carcame
-Quoy donc je voy finir la rigueur de mon sort ?
-Je treuve mon salut dans les bras de la mort,
-Et dans le desespoir la source de ma joye,
-Que le Ciel me cherit ! que de biens il m'envoye !
-Ha si-tost que je veis cette rare beauté,
-Je leus bien sur son front en sa haute qualité,
-Je leus bien dans ses yeux son illustre naissance,
-Toutes ses actions en donnoient connessance,
-Et sans examiner ces témoins superflus,
-Sa pudique vertu le prouvoit encor plus.
-Mais de ces belles fleurs qui flatent mon estime,
-Peut-estre voulés-vous couronner la victime.
-
--*who_isabelle
-Non, non, un faux apas⁎ n'abuse point vos yeux,
-Au nom de l'Hymenée⁎ embrassés-vous tous deux.
-
--*who_dom_jean_de_carcame
-Mon Soleil.
-
--*who_precieuse
-      Mon espoir.
-
--*who_dom_jean_de_carcame
-      Ma lumière.
-
--*who_precieuse
-      Ma vie.
-
--*who_dom_jean_de_carcame
-Que mon cœur est content !
-
--*who_precieuse
-      Que mon ame est ravie !
-
--*who_dom_jean_de_carcame
-Enfin je suis a toy doux charme de mes sens.
-
--*who_precieuse
-Enfin je suis à vous sans attendre deux ans.
-
--*who_la_vieille
-Le Ciel vueille allonger vos nobles destinees,
-Une fois pour le moins autant que j'ay d'annees.
-
--*who_dom_jean_de_carcame
-Et vous, pour vous payer ma gloire⁎ et votre soin⁎,
-Puissiés vous jusqu'au bout en estre le témoin.
-Mais en faveur du bien que je prétens vous faire,
-Ayés soin du blessé dont vous sçavés l'affaire.
-
--*who_la_vieille
-Je vous obeiray.
-
--*who_precieuse
-      Je vous en prie aussi.
-
--*who_la_vieille
-Dés qu'il pourra marcher je vous l'amene icy.
-
--*who_ferdinand
-Au reste assurés-vous d'un aveu⁎ que j'espere,
-Estant comme je suis amy de vôtre pere,
-Joint que l'extraction⁎, les biens, la qualité,
-Font voir de nos deux maisons dedans l'égalité.
-
--*who_dom_jean_de_carcame
-Le mal me presse un peu, hâtés ce doux remede.
-
--*who_isabelle
-Un Courier dés demain partira de Tolede.
-
--*who_dom_jean_de_carcame
-Que je suis redevable à vos rares bontés !
-Que de joye à la fois ! que de felicités !
-Madame, Amour, Monsieur, mon pere, ma Maitresse,
-A qui premier de vous faut-il que je m'adresse ?
-
--*who_ferdinand
-Dieux ! qui nous vient troubler en ce jour solemnel ?
-
-**** *book_ *id_V06 *act_V *date_1642 *creator_sallebray 
-
--*who_le_capitaine
-Grace, grace, Monsieur, il n'est point criminel.
-
--*who_ferdinand
-Ne craignés plus pour luy, je sçay toute l'affaire,
-Hipolite en a fait un aveu volontaire.
-
--*who_le_prevost
 C'est elle qui m'a dit que j'amenasse icy
 Ces gens que vous voyés.
 
--*who_ferdinand
-      C'estoit mon ordre aussi,
-Puisque dans ce païs ils n'ont point fait de crime,
-Qu'ils ayent la liberté dont ils font tant d'estime.
-
--*who_le_capitaine
-Enfans, reconnessés la grace qu'on vous fait,
-Payés d'une Cascade un si rare bien-fait,
-Faites le noble Andres témoin de vôtre adresse,
-Et dancés en faveur de sa belle Maitresse.
-
--*who_egyptien
-Si nous eussions préveu tant de contentement,
-Nous eussions augmenté ce divertissement⁎.
-
--*who_ferdinand
-Allés, vivés contens, rendés grace à ma fille,
-Dont vous avés privé si long-temps ma famille,
-Publiés ce bon-heur⁎ et nos ravissements⁎,
-Annoncés la vertu de ces nobles Amans,
-Et que par vôtre choix voix l'Univers s'entretienne
-Du destin qu'épreuva la belle egiptienne.
-FIN.

@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1672 *creator_corneille
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oenarus
 
--*who_oenarus
 Je le confesse, Arcas, ma faiblesse redouble,
 Je ne puis voir ici Pirithoüs sans trouble.
 Quelques maux où ma flamme ait dû me préparer,
@@ -20,25 +19,6 @@ Ainsi plus de remise ; il faut m'arracher l'âme,
 Et me soumettre enfin au tourment sans égal
 De voir tout ce que j'aime au pouvoir d'un Rival.
 
--*who_arcas
-Ariane vous charme, et sans doute elle est belle ;
-Mais Seigneur, quand l'Amour vous a parlé pour elle,
-Avez-vous ignoré que déjà d'autres feux
-La mettaient hors d'état de répondre à vos voeux ?
-Sitôt que dans cette Île où les vents la poussèrent,
-Aux yeux de votre Cour ses beautés éclatèrent,
-Vous sûtes que Thésée avait par son secours
-Du labyrinthe en Crète évité les détours,
-Et que pour reconnaître une amour si fidèle,
-Vainqueur du Minotaure, il fuyait avec elle.
-Quel espoir vous laissaient des noeuds si bien formés ?
-Ils étaient l'un de l'autre également charmés.
-Chacun d'eux l'avouait, et vous-même en cette Île
-Contre le fier Minos leur promettant asile,
-Vous les pressiez d'abord d'avancer l'heureux jour
-Qui devait par l'hymen couronner leur amour.
-
--*who_oenarus
 Que n'ont-ils pu me croire ? Ils m'auraient vu sans peine
 Consentir à ces noeuds, dont l'image me gêne.
 Quoique alors Ariane eût les mêmes appas,
@@ -64,18 +44,6 @@ Tout cela me flattait du côté d'Ariane,
 Et j'allais quelquefois jusqu'à m'imaginer
 Qu'il dédaignait un bien qu'il n'osait me donner.
 
--*who_arcas
-Dans l'étroite amitié qui depuis tant d'années
-De deux Amis si chers unit les destinées,
-Il n'est pas surprenant que malgré de beaux feux,
-Thésée ait jusqu'ici refusé d'être heureux.
-C'est de quoi mieux goûter le fruit de sa victoire,
-Qu'avoir Pirithoüs pour témoin de sa gloire.
-Mais, Seigneur, Ariane a-t-elle en son Amant
-Blâmé pour un Ami ce trop d'empressement ?
-En avez-vous trouvé plus d'accès auprès d'elle ?
-
--*who_oenarus
 C'est là ma peine, Arcas, Ariane est fidèle.
 Mes languissants regards, mes inquiets soupirs
 N'ont que trop de ma flamme expliqué les désirs.
@@ -88,13 +56,6 @@ Soulage en m'écoutant ma funeste aventure ;
 Et comme il ne faut rien pour flatter un Amant,
 Je m'obstine pour elle, et chéris mon tourment.
 
--*who_arcas
-Avec un tel secours vous êtes moins à plaindre ;
-Mais Phèdre est sans amour, et d'un mérite à craindre.
-Vous la voyez souvent, et j'admire, Seigneur,
-Que sa beauté n'ait rien qui touche votre coeur.
-
--*who_oenarus
 Vois par là de l'Amour le bizarre caprice.
 Phèdre dans sa beauté n'a rien qui n'éblouisse.
 Les charmes de sa Soeur sont à peine aussi doux,
@@ -112,11 +73,6 @@ Tout me parle pour Phèdre, et tout contre Ariane ;
 Et quoi que sur le choix ma raison ait de jour,
 L'une a ma seule estime, et l'autre mon amour.
 
--*who_arcas
-Mais d'un pareil amour n'êtes-vous pas le maître ?
-Qui peut tout, ose tout.
-
--*who_oenarus
       Que me fais-tu connaître
 L'ayant reçue ici, j'aurais la lâcheté
 De violer les droits de l'hospitalité !
@@ -131,454 +87,32 @@ Méritons jusqu'au bout de m'en voir estimé.
 Par d'illustres efforts les grands coeurs se connaissent,
 Et malgré mon amour... Mais les Princes paraissent.
 
-**** *book_ *id_I02 *act_I *date_1672 *creator_corneille
-
--*who_oenarus
 Enfin voici ce jour si longtemps attendu.
 Pirithoüs dans Naxe à Thésée est rendu,
 Et quand un heureux sort permet qu'il le revoie,
 Il n'est pas malaisé de juger de sa joie.
 Après un tel bonheur rien ne manque à sa foi.
 
--*who_pirithous
-Cette joie est encor plus sensible pour moi,
-Seigneur ; et de plus Thésée a pendant mon absence
-D'un destin rigoureux souffert la violence,
-Plus c'est pour ma tendresse un aimable transport
-D'embrasser un Ami, dont j'ai pleuré la mort.
-Qui l'eût cru, que du Sort le choix illégitime
-L'ayant au Minotaure envoyé pour victime,
-Il dût par un triomphe à jamais glorieux
-Affranchir son Pays d'un tribut odieux ?
-Sur le bruit qui rendait ces nouvelles certaines,
-L'espoir de son retour m'attira dans Athènes,
-Et par un ordre exprès, ce fut là que je sus.
-Qu'il attendait ici son cher Pirithoüs.
-Soudain je vole à Naxe, où de sa renommée
-Mon âme à la revoir est d'autant plus charmée,
-Que tout comblé qu'il est des faveurs d'un grand Roi,
-Même zèle toujours l'intéresse pour moi.
-
--*who_oenarus
 Que Thésée est heureux ! Tandis qu'il peut attendre
 Tous les biens que promet l'amitié la plus tendre,
 Du plus parfait amour les favorables noeuds
 N'ont rien qu'un bel Objet n'abandonne à ses voeux.
 
--*who_thesee
-Il ne faut pas juger sur ce qu'on voit paraître ;
-Seigneur, on n'est heureux qu'autant qu'on le croit être.
-Vous m'accablez de biens, et quand je vous dois tant,
-Ne pouvant m'acquitter, je ne vis point content.
-
--*who_oenarus
 Ce que j'ai fait pour vous vaut peu que l'on y pense ;
 Mais si j'en attendais quelque reconnaissance,
 Prince, me dussiez-vous et la vie et l'honneur,
 Il serait un moyen...
 
--*who_thesee
-      Quel ? Achevez, Seigneur.
-J'offre tout, et déjà mon coeur cède à la joie,
-De penser...
-
--*who_oenarus
       Vous voulez en vain que je le croie.
 Cessez d'avoir pour moi des soins trop empressés ;
 Il vous en coûterait plus que vous ne pensez.
 
--*who_thesee
-Doutez-vous de mon zèle, et...
-
--*who_oenarus
       Non, je me condamne.
 Aimez Pirithoüs, possédez Ariane.
 Un Ami si parfait... de si charmants appas...
 J'en dis trop, c'est à vous à ne m'entendre pas,
 Ma gloire le veut, Prince, et je vous le demande.
 
-**** *book_ *id_I03 *act_I *date_1672 *creator_corneille
-
--*who_pirithous
-Je ne sais si le Roi ne veut pas qu'on l'entende ;
-Mais au nom d'Ariane un peu trop de chaleur
-Me fait craindre pour vous le trouble de son coeur.
-Songez-y ; s'il fallait qu'épris d'amour pour elle...
-
--*who_thesee
-Sa passion est forte, et ne m'est pas nouvelle.
-Je la sus dès l'instant qu'il s'en laissa charmer ;
-Mais ce n'est pas un mal qui me doive alarmer.
-
--*who_pirithous
-Il est vrai qu'Ariane aurait lieu de se plaindre,
-Si chéri sans réserve elle vous voyait craindre.
-Je viens de lui parler, et je ne vis jamais
-Pour un illustre Amant de plus ardents souhaits.
-C'est un amour pour vous si fort, si pur, si tendre,
-Que quoi que pour vous plaire il fallût entreprendre,
-Son coeur de cette gloire uniquement charmé...
-
--*who_thesee
-Hélas ! Et que ne puis-je en être moins aimé !
-Je ne me verrais pas dans l'état déplorable
-Où me réduit sans cesse un amour qui m'accable,
-Un amour qui ne montre à mes sens désolés...
-Le puis-je dire ?
-
--*who_pirithous
-      Ô Dieux ! Est-ce vous qui parlez ?
-Ariane en beauté partout si renommée,
-Aimant avec excès, ne serait point aimée ?
-Vous seriez insensible à de si doux appas ?
-
--*who_thesee
-Ils ont de quoi toucher, je ne l'ignore pas.
-Ma raison qui toujours s'intéresse pour elle,
-Me dit qu'elle est aimable, et mes yeux qu'elle est belle.
-L'Amour sur leur rapport tâche de m'ébranler ;
-Mais quand le coeur se tait, l'Amour a beau parler.
-Pour engager ce coeur ses amorces sont vaines,
-S'il ne court de lui-même au-devant de ses chaînes,
-Et ne confond d'abord pas ses doux embarras
-Tous les raisonnements d'aimer, ou n'aimer pas.
-
--*who_pirithous
-Mais vous souvenez-vous que pour sauver Thésée
-La fidèle Ariane à tout s'est exposée ?
-Par là du labyrinthe heureusement tiré...
-
--*who_thesee
-Il est vrai, tout sans elle était désespéré.
-Du succès attendu son adresse suivie,
-Malgré le Sort jaloux, m'a conservé la vie,
-Je la dois à ses soins ; mais par quelle rigueur
-Vouloir que je la paye aux dépens de mon coeur ?
-Ce n'est pas qu'en secret l'ardeur d'un si beau zèle
-Contre ma dureté n'ait combattu pour elle.
-Touché de son amour, confus de son éclat,
-Je me suis mille fois reproché d'être ingrat.
-Mille fois j'ai rougi de ce que j'ose faire,
-Mais mon ingratitude est un mal nécessaire,
-Et l'on s'efforce en vain par d'assidus combats
-À disposer d'un coeur qui ne se donne pas.
-
--*who_pirithous
-Votre mérite est grand, et peut l'avoir charmée ;
-Mais quand elle vous aime, elle se croit aimée.
-Ainsi vos voeux d'abord auront flatté sa foi,
-Et vous aurez juré...
-
--*who_thesee
-      Qui n'eût fait comme moi ?
-Pour me suivre, Ariane abandonnait son Père,
-Je lui devais la vie, elle avait de quoi plaire.
-Mon coeur sans passion me laissait présumer
-Qu'il prendrait à mon choix l'habitude d'aimer.
-Par là, ce qu'il donnait à la reconnaissance
-De l'amour auprès d'elle eut l'entière apparence.
-Pour payer ce qu'au sien je voyais être dû
-Mille devoirs... Hélas ! C'est ce qui m'a perdu.
-Je les rendais d'un air à me tromper moi-même
-À croire que déjà ma flamme était extrême,
-Lorsqu'un trouble secret me fit apercevoir
-Que souvent pour aimer c'est peu que le vouloir.
-Phèdre à mes yeux surpris à toute heure exposée...
-
--*who_pirithous
-Quoi, la Soeur d'Ariane a fait changer Thésée ?
-
--*who_thesee
-Oui, je l'aime, et telle est cette brûlante ardeur,
-Qu'il n'est rien qui la puisse arracher de mon coeur.
-Sa beauté, pour qui seule en secret je soupire,
-M'a fait voir de l'Amour jusqu'où s'étend l'empire ;
-Je l'ai connu par elle, et ne m'en sens charmé
-Que depuis que je l'aime, et que j'en suis aimé.
-
--*who_pirithous
-Elle vous aime ?
-
--*who_thesee
-      Autant que je le puis attendre
-Dans l'intérêt du sang qu'une soeur lui fait prendre.
-Comme depuis longtemps l'amitié qui les joint
-Forme entre elles des noeuds que l'Amour ne rompt point,
-Elle a quelquefois peine à contraindre son âme
-De laisser sans scrupule agir toute sa flamme,
-Et voudrait, pour montrer ce qu'elle sent pour moi,
-Qu'Ariane eût cessé de prétendre à ma foi.
-Cependant pour ôter toute défiance
-Qu'aurait donné le cours de notre intelligence,
-Naxe a peu de Beautés pour qui des soins rendus
-Ne me semblent coûter quelques soupirs perdus ;
-Cyane, AEglé, Mégiste ont part à cet hommage.
-Ariane le voit, et n'en prend point ombrage,
-Rien n'alarme son coeur, tant ce que je lui dois
-Contre ma trahison lui répond de ma foi.
-
--*who_pirithous
-Ces devoirs partagés ont trop d'indifférence
-Pour vous faire aisément soupçonner d'inconstance.
-Mais quand depuis trois mois vous m'avez attendu,
-Ne vous déclarant point, qu'avez-vous prétendu ?
-
--*who_thesee
-Flatter l'espoir du Roi, donner temps à sa flamme
-De pouvoir malgré lui tyranniser son âme,
-Gagner l'esprit de Phèdre, et me débarrasser
-D'un hymen dont peut-être on m'aurait fait presser.
-
--*who_pirithous
-Mais me voici dans Naxe, et quoi qu'on puisse faire,
-Votre infidélité ne saurait plus se taire.
-Quel prétexte auriez-vous encor à différer ?
-
--*who_thesee
-Je me suis trop contraint, il faut me déclarer.
-Quoi que doive Ariane en ressentir de peine,
-Il faut lui découvrir que son hymen me gêne,
-Et pour punir mon crime, et se venger de moi,
-La porter, s'il se peut, à faire choix du Roi.
-Vous seul, car de quel front lui confesser moi-même
-Qu'en moi c'est un ingrat, un parjure qu'elle aime ?
-Non, vous lui peindrez mieux l'embarras de mon coeur.
-Parlez, mais gardez bien de lui nommer sa Soeur.
-Savoir qu'une Rivale ait mon âme charmée,
-La chercher, la trouver dans une Soeur aimée,
-Ce serait un supplice, après mon changement,
-À faire tout oser à son ressentiment.
-Ménagez sa douleur pour la rendre plus lente.
-Avouez-lui l'amour, mais cachez-lui l'Amante.
-Sur qui que ses soupçons puissent ailleurs tomber,
-Phèdre à sa défiance est seule à dérober.
-
--*who_pirithous
-Je tairai ce qu'il faut ; mais comme je condamne
-Votre ingrate conduite au regard d'Ariane,
-N'attendez pas de moi que pour vous dégager
-Je lui parle du feu qui vous porte à changer.
-C'est un aveu honteux qu'un autre lui peut faire.
-Cependant mon secours vous étant nécessaire,
-Si sur l'hymen du Roi je puis être écouté,
-J'appuierai le projet dont je vous vois flatté.
-Phèdre vient, je vous laisse.
-
--*who_thesee
-      Ô trop charmante vue !
-
-**** *book_ *id_I04 *act_I *date_1672 *creator_corneille
-
--*who_thesee
-Et bien ? À quoi, Madame, êtes-vous résolue ?
-Je n'ai plus de prétexte à cacher mon secret.
-Ne verrez-vous jamais mon amour qu'à regret,
-Et quand Pirithoüs que je feignais d'attendre,
-Me contraint à l'éclat qu'il m'a fallu suspendre,
-M'aimerez-vous si peu, que pour le retarder
-Vous me disiez encor que c'est trop hasarder ?
-
--*who_phedre
-Vous pouvez là-dessus vous répondre vous-même.
-Prince, je vous l'ai dit, il est vrai, je vous aime,
-Et quand d'un coeur bien né la gloire est le secours,
-L'avoir dit une fois, c'est le dire toujours.
-Je n'examine point si je pouvais sans blâme
-Au feu qui m'a surprise abandonner mon âme,
-Peut-être à m'en défendre aurais-je trouvé jour,
-Mais il entre souvent du destin dans l'amour,
-Et dût-il m'en coûter un éternel martyre,
-Le destin l'a voulu, c'est à moi d'y souscrire.
-J'aime donc ; mais malgré l'appas flatteur et doux
-Des tendres sentiments qui me parlent pour vous,
-Je ne puis oublier qu'Ariane exilée
-S'est pour vos intérêts elle-même immolée ;
-Qu'aucun amour jamais n'eut tant de fermeté,
-Qu'ayant tout fait pour vous elle a tout mérité,
-Et plus l'instant approche où cette Infortunée
-Après un long espoir doit être abandonnée,
-Plus un secret remords trouve à me reprocher
-Que lui vole un bien qui lui coûte si cher.
-Vous lui devez ce coeur dont vous m'offrez l'hommage.
-Vous lui devez la foi que votre amour m'engage ;
-Vous lui devez ces voeux que déjà tant de fois...
-
--*who_thesee
-Ah, ne me parlez plus de ce que je lui dois.
-Pour elle contre vous qu'ai-je oublié de faire ?
-Quels efforts ! J'ai taché de l'aimer pour vous plaire ;
-C'est mon crime, et peut-être il m'en faudrait haïr,
-Mais vous m'en donniez l'ordre, il fallait obéir.
-Il fallait me la peindre aimable, jeune, belle,
-Voir son Pays quitté, mes jours sauvés par elle.
-C'était de quoi sans doute assujettir mes voeux
-À n'aimer qu'à lui plaire, à m'en tenir heureux ;
-Mais son mérite en vain semblait fixer ma flamme ;
-Un tendre souvenir frappait soudain mon âme.
-Dès le moindre retour vers un charme si doux
-Je cédais au penchant qui m'entraîne vers vous,
-Et sentais dissiper par cette ardeur nouvelle
-Tous les projets d'amour que j'avais faits pour elle.
-
--*who_phedre
-J'aurais de ces combats affranchi votre coeur,
-Si j'eusse eu pour Rivale une autre qu'une Soeur ;
-Mais trahir l'amitié dont on la voit sans cesse...
-Non, Thésée, elle m'aime avec trop de tendresse.
-D'un supplice si rude il faut la garantir,
-Sans doute elle en mourrait, je n'y puis consentir.
-Rendez-lui votre amour, cet amour qui sans elle
-Aurait peut-être dû me demeurer fidèle ;
-Cet amour qui toujours trop propre à me charmer,
-N'ose...
-
--*who_thesee
-      Apprenez-moi donc à ne vous plus aimer,
-À briser ces liens où mon âme asservie
-A mis tout ce qui fait le bonheur de ma vie.
-Ces feux dont ma raison ne saurait triompher,
-Apprenez-moi comment on les peut étouffer,
-Comment on peut du coeur bannir le chère image...
-Mais à quel sentiment ma passion m'engage !
-Si la douceur d'aimer a pour vous quelque appas,
-Me pourriez-vous apprendre à ne vous aimer pas ?
-
--*who_phedre
-Il en est un moyen que ma gloire envisage
-Il faut de votre coeur arracher cette image.
-Ma vue étant pour vous un mal contagieux,
-Pour dégager ce coeur, commencez par les yeux.
-Fuyez de mes regards la trop flatteuse amorce ;
-Plus vous les souffrirez, plus ils auront de force.
-Ce n'est qu'en s'éloignant qu'on pare de tels coups
-Si le triomphe est rude, il est digne de vous.
-Il est beau d'étouffer ce qui peut trop nous plaire
-D'immoler à sa gloire...
-
--*who_thesee
-      Et le pouvez-vous faire
-Ces traits qu'en votre coeur mon amour a tracés,
-Quand vous me verrez moins, seront-ils effacés ?
-Oublierez-vous sitôt cet ardent sacrifice...
-
--*who_phedre
-Cruel, pourquoi vouloir accroître mon supplice ?
-M'accable-t-il si peu, qu'il y faille ajouter ?
-Les plaintes d'un amour que je n'ose écouter ?
-Puisque mon fier devoir le condamne à se taire,
-Laissez-moi me cacher que vous m'avez su plaire.
-Laissez-moi déguiser à mes chagrins jaloux,
-Qu'il n'est point d'heur pour moi, point de repos sans vous.
-C'est trop ; déjà mon coeur à ma gloire infidèle,
-De mes sens mutinés suit le parti rebelle ;
-Il se trouble, il s'emporte, et dès que je vous vois,
-Ma tremblante vertu ne répond plus de moi.
-
--*who_thesee
-Ah, puisqu'en ma faveur l'Amour fait ce miracle,
-Oubliez qu'une Soeur y voudra mettre obstacle.
-Pourquoi pour l'épargner trahir un si beau feu ?
-
--*who_phedre
-Mais sur quoi vous flattez d'obtenir son aveu ?
-Sachant que vous m'aimez...
-
--*who_thesee
-      C'est ce qu'il faut lui taire.
-Sa fuite de Minos allume la colère,
-Pour s'en mettre à couvert elle a besoin d'appui ;
-Le Roi l'aime, faisons qu'elle s'attache à lui,
-Et qu'acceptant sa main au défaut de la mienne,
-Elle souffre en ces lieux qu'un Trône la soutienne.
-Quand un nouvel amour par l'hymen établi
-M'aura par l'habitude attiré son oubli,
-Qu'elle verra pour moi son mépris nécessaire,
-Nous pourrons de nos feux découvrir le mystère.
-Mais prêt à la porter à ce grand changement,
-J'ai besoin de vous voir enhardir son Amant,
-De voir que dans vos yeux, quand ce projet me flatte,
-En faveur de l'Amour un peu de joie éclate ;
-Que contre vos frayeurs rassurant votre esprit,
-Elle efface...
-
--*who_phedre
-      Allez, Prince, on vous aime, il suffit.
-Peut-être que sur moi la crainte a trop d'empire.
-Suivez ce qu'en secret votre coeur vous inspire ;
-Et de quoi que le mien puisse encor s'allumer,
-N'écoutez que l'Amour, si vous savez aimer.
-
-**** *book_ *id_II01 *act_II *date_1672 *creator_corneille
-
--*who_nerine
-Le Roi, de ce refus eût eu lieu de se plaindre,
-Madame, vous devez un moment vous contraindre ;
-Et quoiqu'en l'écoutant vous ne puissiez douter
-Que c'est son amour seul qu'il vous faut écouter,
-Votre hymen dont enfin l'heureux moment s'avance,
-Semble vous obliger à cette complaisance.
-Il vous perd, et la plainte a de quoi soulager.
-
--*who_ariane
-Je sais qu'avec le Roi j'ai tout à ménager,
-J'aurais tout de l'aigrir. L'asile qu'il nous prête
-Contre la violence assure ma retraite.
-D'ailleurs, tant de respect accompagne ses voeux,
-Que souvent j'ai regret qu'il ne puisse être heureux.
-Mais quand d'un premier feu l'âme toute occupée
-Ne trouve de douceur qu'aux traits qui l'ont frappée,
-C'est un sujet d'ennui qui ne peut s'exprimer,
-Qu'un Amant qu'on néglige, et qui parle d'aimer.
-Pour m'en rendre la peine à souffrir plus aisée,
-Tandis que le Roi vient, parle-moi de Thésée.
-Peins-moi bien quel honneur je reçois de sa foi,
-Peins-moi bien tout l'amour dont il brûle pour moi ;
-Offres-en à mes yeux la plus sensible image.
-
--*who_nerine
-Je crois que de son coeur vous avez tout l'hommage ;
-Mais au point que de lui je vois vos sens charmés,
-C'est beaucoup s'il vous aime autant que vous l'aimez.
-
--*who_ariane
-Et puis-je trop l'aimer, quand tout brillant de gloire
-Mille fameux exploits l'offrent à ma mémoire ?
-De cent Monstres par lui l'Univers dégagé
-Se voit d'un mauvais sang heureusement purgé.
-Combien ainsi qu'Hercule a-t-il pris de victimes ?
-Combien vengé de morts, combien puni de crimes ?
-Procuste et Cercyon, la terreur des Humains,
-N'ont-ils pas succombé sous ses vaillantes mains ?
-Ce n'est point le vanter que ce qu'on m'entend dire.
-Tout le monde le sait, tout le monde l'admire ;
-Mais c'est peu, je voudrais que tout ce que je vois
-S'en entretînt sans cesse, en parlât comme moi.
-J'aime Phèdre ; tu sais combien elle m'est chère.
-Si quelque chose en elle a de quoi me déplaire,
-C'est de voir son esprit de froideur combattu,
-Négliger entre nous de louer sa vertu.
-Quand je dis qu'il s'acquiert une gloire immortelle,
-Elle applaudit, m'approuve, et qui ferait moins qu'elle ?
-Mais enfin d'elle-même on ne l'entend jamais
-De ce charmant Héros élever les hauts faits.
-Il faut en leur faveur expliquer son silence.
-
--*who_nerine
-Je ne m'étonne point de cette indifférence.
-N'ayant jamais aimé, son coeur ne conçoit pas...
-
--*who_ariane
-Elle évite peut-être un cruel embarras.
-L'Amour n'a bien souvent qu'une douceur trompeuse ;
-Mais vivre indifférente, est-ce une vie heureuse ?
-
--*who_nerine
-Apprenez-le du Roi, qui de vous trop charmé
-Ne souffrirait pas tant, s'il n'avait point aimé.
-
-**** *book_ *id_II02 *act_II *date_1672 *creator_corneille
-
--*who_oenarus
 Ne vous offensez point, Princesse incomparable,
 Si prêt à succomber au malheur qui m'accable.
 Pour la dernière fois j'ai tâché d'obtenir
@@ -588,19 +122,6 @@ Ce feu qui malgré vous prend sur moi trop d'empire,
 Vous pouvez sans scrupule en voir mon coeur atteint,
 Quand pour prix de mes maux je ne veux qu'être plaint.
 
--*who_ariane
-Je connais tout l'amour dont votre âme est éprise.
-Son excès m'a souvent causé de la surprise,
-Et vous ne direz rien que mon coeur interdit
-Pour vous-même avant vous ne se soit déjà dit.
-Tant d'ardeur méritait que ce coeur plus sensible
-À l'offre de vos voeux ne fût pas inflexible,
-Que d'un si noble hommage il se trouvât charmé ;
-Mais quand je vous ai vu, Thésée était aimé ;
-Vous savez son mérite, et le prix qu'il me coûte.
-Après cela, Seigneur, parlez, je vous écoute.
-
--*who_oenarus
 Thésée a du mérite, et je l'ai dit cent fois,
 Votre amour eût eu peine à faire un plus beau choix.
 Partout sa gloire éclate, on l'estime, on l'honore,
@@ -644,18 +165,6 @@ Ce que j'ose exiger sans doute est peu de chose ;
 Mais un mot favorable, un sincère soupir,
 Est tout pour qui ne veut que l'entendre et mourir.
 
--*who_ariane
-Seigneur, tant de vertu dans votre amour éclate,
-Qu'il faut vous l'avouer, je ne suis point ingrate.
-Mon coeur se sent touché de ce que je vous dois,
-Et voudrait être à vous s'il pouvait être à moi ;
-Mais il perdrait le prix dont vous le croyez être ;
-Si l'infidélité vous en rendait le maître.
-Thésée y règne seul, et s'y trouve adoré.
-Dès la première fois je vous l'ai déclaré,
-Dès la première fois...
-
--*who_oenarus
       C'en est assez, Madame.
 Thésée a mérité que vous payiez sa flamme.
 Pour lui, Pirithoüs arrivé dans ma Cour
@@ -669,9 +178,6 @@ Mais je me priverais par là de votre vue.
 C'est ce qui peut surtout aigrir mon désespoir,
 Et j'aime mieux mourir que cesser de vous voir.
 
-**** *book_ *id_II03 *act_II *date_1672 *creator_corneille
-
--*who_oenarus
 Prince, mon trouble parle ; et quand je voudrais taire
 Le supplice où m'expose un destin trop contraire,
 De mes yeux interdits la confuse langueur
@@ -698,84 +204,260 @@ Ordonnez-en la pompe, et dans un sort si doux,
 Quoi que j'aie à souffrir, ne regardez que vous,
 Adieu, Madame.
 
-**** *book_ *id_II04 *act_II *date_1672 *creator_corneille
+Un si grand changement ne peut trop me surprendre,
+J'en ai la certitude, et ne le puis comprendre.
+Après ce pur amour dont il suivait la loi
+Thésée à ce qu'il aime ose manquer de foi ?
+Dans la rigueur du coup, je ne vois qu'avec crainte
+Ce qu'au coeur d'Ariane il doit porter d'atteinte.
+J'en tremble ; et si tantôt lui peignant mon amour
+Je voulais être plaint, je la plains à son tour.
+Perdre un bien qui jamais ne permit d'espérance,
+N'est qu'un mal dont le temps calme la violence ;
+Mais voir un bel espoir tout à coup avorter,
+Passe tous les malheurs qu'on ait à redouter.
+C'est du courroux du Ciel la plus funeste preuve.
 
--*who_thesee
+Vous ne savez que trop l'amour que j'ai pour elle,
+Il veut, il offre tout ; mais hélas ! je crains bien
+Que cet amour ne parle, et qu'il n'obtienne rien.
+Si Thésée a changé, j'en serai responsable.
+C'est dans ma Cour qu'il trouve un autre Objet aimable,
+Et sans doute on voudra que je sois le garant
+De l'hommage inconnu que sa flamme lui rend.
+
+Ah, pour l'en garantir, il n'est rien que je n'ose,
+Madame, et vous verrez mon Trône trébucher
+Avant que je néglige in intérêt si cher.
+Plût aux Dieux que ce soin la tînt seul inquiète !
+
+Madame, je ne sais si l'ennui qui vous touche
+Doit m'ouvrir pour vous plaindre, ou me fermer la bouche.
+Après les sentiments que j'ai fait voir pour vous,
+Je dois, quoi qui vous blesse, en partager les coups ;
+Mais si j'ose assurer que jusqu'au fond de l'âme
+Je sens le changement qui trompe votre flamme,
+Que je le mets au rang des plus noirs attentats,
+J'aime, il m'ôte un Rival, vous ne me croirai pas.
+Il est certain pourtant, et le Ciel qui m'écoute
+M'en sera le témoin, si votre coeur en doute,
+Que si de tout mon sang je pouvais racheter
+Ce que...
+
+Ah, pour la mériter, si le plus pur hommage...
+
+Ah, Madame, par où puis-je assez reconnaître...
+
+Je ne viens point, Madame, opposer à vos plaintes,
+De faux raisonnements, ou d'injustes contraintes ;
+Je viens vous protester que tout ce qu'en ma Cour...
+
+      À vos déplaisirs épargnons cette image,
+Vous répondriez mal d'un coeur...
+
+Si du secours du temps ma foi favorisée
+Pour mériter qu'un jour vous oubliiez Thésée...
+
+Consultons-en le temps, Madame, et s'il faut faire...
+
+Elle semble pâmer. Qu'on la secoure, vite.
+Sa douleur est un mal qu'un prompt remède irrite ;
+Et c'en serait sans doute accroître les efforts,
+Qu'opposer quelque obstacle à ses premiers transports.
+
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
+Il ne faut pas juger sur ce qu'on voit paraître ;
+Seigneur, on n'est heureux qu'autant qu'on le croit être.
+Vous m'accablez de biens, et quand je vous dois tant,
+Ne pouvant m'acquitter, je ne vis point content.
+
+      Quel ? Achevez, Seigneur.
+J'offre tout, et déjà mon coeur cède à la joie,
+De penser...
+
+Doutez-vous de mon zèle, et...
+
+Sa passion est forte, et ne m'est pas nouvelle.
+Je la sus dès l'instant qu'il s'en laissa charmer ;
+Mais ce n'est pas un mal qui me doive alarmer.
+
+Hélas ! Et que ne puis-je en être moins aimé !
+Je ne me verrais pas dans l'état déplorable
+Où me réduit sans cesse un amour qui m'accable,
+Un amour qui ne montre à mes sens désolés...
+Le puis-je dire ?
+
+Ils ont de quoi toucher, je ne l'ignore pas.
+Ma raison qui toujours s'intéresse pour elle,
+Me dit qu'elle est aimable, et mes yeux qu'elle est belle.
+L'Amour sur leur rapport tâche de m'ébranler ;
+Mais quand le coeur se tait, l'Amour a beau parler.
+Pour engager ce coeur ses amorces sont vaines,
+S'il ne court de lui-même au-devant de ses chaînes,
+Et ne confond d'abord pas ses doux embarras
+Tous les raisonnements d'aimer, ou n'aimer pas.
+
+Il est vrai, tout sans elle était désespéré.
+Du succès attendu son adresse suivie,
+Malgré le Sort jaloux, m'a conservé la vie,
+Je la dois à ses soins ; mais par quelle rigueur
+Vouloir que je la paye aux dépens de mon coeur ?
+Ce n'est pas qu'en secret l'ardeur d'un si beau zèle
+Contre ma dureté n'ait combattu pour elle.
+Touché de son amour, confus de son éclat,
+Je me suis mille fois reproché d'être ingrat.
+Mille fois j'ai rougi de ce que j'ose faire,
+Mais mon ingratitude est un mal nécessaire,
+Et l'on s'efforce en vain par d'assidus combats
+À disposer d'un coeur qui ne se donne pas.
+
+      Qui n'eût fait comme moi ?
+Pour me suivre, Ariane abandonnait son Père,
+Je lui devais la vie, elle avait de quoi plaire.
+Mon coeur sans passion me laissait présumer
+Qu'il prendrait à mon choix l'habitude d'aimer.
+Par là, ce qu'il donnait à la reconnaissance
+De l'amour auprès d'elle eut l'entière apparence.
+Pour payer ce qu'au sien je voyais être dû
+Mille devoirs... Hélas ! C'est ce qui m'a perdu.
+Je les rendais d'un air à me tromper moi-même
+À croire que déjà ma flamme était extrême,
+Lorsqu'un trouble secret me fit apercevoir
+Que souvent pour aimer c'est peu que le vouloir.
+Phèdre à mes yeux surpris à toute heure exposée...
+
+Oui, je l'aime, et telle est cette brûlante ardeur,
+Qu'il n'est rien qui la puisse arracher de mon coeur.
+Sa beauté, pour qui seule en secret je soupire,
+M'a fait voir de l'Amour jusqu'où s'étend l'empire ;
+Je l'ai connu par elle, et ne m'en sens charmé
+Que depuis que je l'aime, et que j'en suis aimé.
+
+      Autant que je le puis attendre
+Dans l'intérêt du sang qu'une soeur lui fait prendre.
+Comme depuis longtemps l'amitié qui les joint
+Forme entre elles des noeuds que l'Amour ne rompt point,
+Elle a quelquefois peine à contraindre son âme
+De laisser sans scrupule agir toute sa flamme,
+Et voudrait, pour montrer ce qu'elle sent pour moi,
+Qu'Ariane eût cessé de prétendre à ma foi.
+Cependant pour ôter toute défiance
+Qu'aurait donné le cours de notre intelligence,
+Naxe a peu de Beautés pour qui des soins rendus
+Ne me semblent coûter quelques soupirs perdus ;
+Cyane, AEglé, Mégiste ont part à cet hommage.
+Ariane le voit, et n'en prend point ombrage,
+Rien n'alarme son coeur, tant ce que je lui dois
+Contre ma trahison lui répond de ma foi.
+
+Flatter l'espoir du Roi, donner temps à sa flamme
+De pouvoir malgré lui tyranniser son âme,
+Gagner l'esprit de Phèdre, et me débarrasser
+D'un hymen dont peut-être on m'aurait fait presser.
+
+Je me suis trop contraint, il faut me déclarer.
+Quoi que doive Ariane en ressentir de peine,
+Il faut lui découvrir que son hymen me gêne,
+Et pour punir mon crime, et se venger de moi,
+La porter, s'il se peut, à faire choix du Roi.
+Vous seul, car de quel front lui confesser moi-même
+Qu'en moi c'est un ingrat, un parjure qu'elle aime ?
+Non, vous lui peindrez mieux l'embarras de mon coeur.
+Parlez, mais gardez bien de lui nommer sa Soeur.
+Savoir qu'une Rivale ait mon âme charmée,
+La chercher, la trouver dans une Soeur aimée,
+Ce serait un supplice, après mon changement,
+À faire tout oser à son ressentiment.
+Ménagez sa douleur pour la rendre plus lente.
+Avouez-lui l'amour, mais cachez-lui l'Amante.
+Sur qui que ses soupçons puissent ailleurs tomber,
+Phèdre à sa défiance est seule à dérober.
+
+      Ô trop charmante vue !
+
+Et bien ? À quoi, Madame, êtes-vous résolue ?
+Je n'ai plus de prétexte à cacher mon secret.
+Ne verrez-vous jamais mon amour qu'à regret,
+Et quand Pirithoüs que je feignais d'attendre,
+Me contraint à l'éclat qu'il m'a fallu suspendre,
+M'aimerez-vous si peu, que pour le retarder
+Vous me disiez encor que c'est trop hasarder ?
+
+Ah, ne me parlez plus de ce que je lui dois.
+Pour elle contre vous qu'ai-je oublié de faire ?
+Quels efforts ! J'ai taché de l'aimer pour vous plaire ;
+C'est mon crime, et peut-être il m'en faudrait haïr,
+Mais vous m'en donniez l'ordre, il fallait obéir.
+Il fallait me la peindre aimable, jeune, belle,
+Voir son Pays quitté, mes jours sauvés par elle.
+C'était de quoi sans doute assujettir mes voeux
+À n'aimer qu'à lui plaire, à m'en tenir heureux ;
+Mais son mérite en vain semblait fixer ma flamme ;
+Un tendre souvenir frappait soudain mon âme.
+Dès le moindre retour vers un charme si doux
+Je cédais au penchant qui m'entraîne vers vous,
+Et sentais dissiper par cette ardeur nouvelle
+Tous les projets d'amour que j'avais faits pour elle.
+
+      Apprenez-moi donc à ne vous plus aimer,
+À briser ces liens où mon âme asservie
+A mis tout ce qui fait le bonheur de ma vie.
+Ces feux dont ma raison ne saurait triompher,
+Apprenez-moi comment on les peut étouffer,
+Comment on peut du coeur bannir le chère image...
+Mais à quel sentiment ma passion m'engage !
+Si la douceur d'aimer a pour vous quelque appas,
+Me pourriez-vous apprendre à ne vous aimer pas ?
+
+      Et le pouvez-vous faire
+Ces traits qu'en votre coeur mon amour a tracés,
+Quand vous me verrez moins, seront-ils effacés ?
+Oublierez-vous sitôt cet ardent sacrifice...
+
+Ah, puisqu'en ma faveur l'Amour fait ce miracle,
+Oubliez qu'une Soeur y voudra mettre obstacle.
+Pourquoi pour l'épargner trahir un si beau feu ?
+
+      C'est ce qu'il faut lui taire.
+Sa fuite de Minos allume la colère,
+Pour s'en mettre à couvert elle a besoin d'appui ;
+Le Roi l'aime, faisons qu'elle s'attache à lui,
+Et qu'acceptant sa main au défaut de la mienne,
+Elle souffre en ces lieux qu'un Trône la soutienne.
+Quand un nouvel amour par l'hymen établi
+M'aura par l'habitude attiré son oubli,
+Qu'elle verra pour moi son mépris nécessaire,
+Nous pourrons de nos feux découvrir le mystère.
+Mais prêt à la porter à ce grand changement,
+J'ai besoin de vous voir enhardir son Amant,
+De voir que dans vos yeux, quand ce projet me flatte,
+En faveur de l'Amour un peu de joie éclate ;
+Que contre vos frayeurs rassurant votre esprit,
+Elle efface...
+
       Il faut l'avouer à sa gloire,
 Sa vertu va plus loin que je n'aurais pu croire.
 Au bonheur d'un Rival lui-même consentir ?
 
--*who_ariane
-L'honneur à cet effort a dû l'assujettir.
-Qu'eût-il fait ? Il sait trop que mon amour extrême,
-En s'attachant à vous, n'a cherché que vous-même,
-Et qu'ayant tout quitté pour vous prouver ma foi,
-Mille Trônes offerts ne pourraient rien sur moi.
-
--*who_thesee
 Tant d'amour me confond, et plus je vois, Madame,
 Que je dois...
 
--*who_ariane
-      Apprenez un projet de ma flamme.
-Pour m'attacher à vous par de plus fermes noeuds,
-J'ai dans Pirithoüs trouvé ce que je veux.
-Vous l'aimez chèrement ; il faut que l'Hyménée,
-De ma Soeur avec lui joigne la destinée,
-Et que nous partagions ce que pour les grands coeurs
-L'amour et l'amitié font naître de douceurs.
-Ma Soeur a du mérite, elle est aimable et belle,
-Suit mes conseils en tout, et je vous réponds d'elle,
-Voyez Pirithoüs, et tâchez d'obtenir
-Que par elle avec nous il consente à s'unir.
-
--*who_thesee
 L'offre de cet hymen rendra sa joie extrême ;
 Mais, Madame, le Roi... Vous savez qu'il vous aime.
 S'il faut...
 
--*who_ariane
-      Je vous entends ; le Roi trop combattu
-Peut laisser à l'Amour séduire sa vertu.
-Cet inquiet souci ne saurait me déplaire,
-Et pour le dissiper je sais ce qu'il faut faire.
-
--*who_thesee
 C'en est trop, mon coeur... Dieux !
 
--*who_ariane
-      Que ce trouble m'est doux !
-Ce qu'il vous fait sentir, je me le dis pour vous.
-Je me dis...
-
--*who_thesee
       Plût aux Dieux ! Vous sauriez la contrainte...
 
--*who_ariane
-Encor un coup perdez cette jalouse crainte ;
-J'en connais le remède, et si l'on m'ose aimer,
-Vous n'aurez pas longtemps à vous en alarmer.
-
--*who_thesee
 Minos peut vous poursuivre, et si de sa vengeance...
 
--*who_ariane
-Et n'ai-je pas en vous une sûre défense ?
-
--*who_thesee
 Elle est sûre, il est vrai, mais...
 
--*who_ariane
-      Achevez.
-
--*who_thesee
       J'attends...
 
--*who_ariane
-Ce désordre me gêne, et dure trop longtemps ;
-Expliquez-vous enfin.
-
--*who_thesee
       Je le veux, et ne l'ose ;
 À mes propres souhaits moi-même je m'oppose,
 Je poursuis un aveu que je crains d'obtenir.
@@ -789,29 +471,198 @@ Adieu, Pirithoüs vous peut dire le reste.
 Sans l'amour qui du Roi vous soumet les États,
 Je vous conseillerais de ne l'apprendre pas.
 
-**** *book_ *id_II05 *act_II *date_1672 *creator_corneille
+Ah, pourquoi le penser ? Elle est toujours la même,
+Même zèle toujours suit mon respect extrême,
+Et le temps dans mon coeur n'affaiblira jamais
+Le pressant souvenir de ses rares bienfaits ;
+M'en acquitter vers elle est ma plus forte envie.
+Oui, Madame, ordonnez de mon Sang, de ma vie.
+Si la fin vous en plaît, le sort me sera doux
+Par qui j'obtiendrai l'heur de la perdre pour vous.
 
--*who_ariane
-Quel est ce grand secret, Prince, et par quel mystère
-Vouloir me l'expliquer, et tout à coup se taire ?
+      Je voudrais vous le pouvoir donner,
+Mais ce coeur malgré moi vit sous un autre empire,
+Je le sens à regret, je rougis à le dire ;
+Et quand je plains vos feux par ma flamme déçus,
+Je hais mon injustice, et ne puis rien de plus.
 
--*who_pirithous
+Comment désavouer ce que l'honneur me presse
+De voir, d'examiner, de me dire sans cesse ?
+Si par mon changement je trompe votre choix,
+C'est sans rien oublier de ce que je vous dois.
+Ainsi joignez aux noms de Traître et de Parjure
+Tout l'éclat que produit la plus sanglante injure ;
+Ce que vous me direz n'aura point la rigueur
+Des reproches secrets qui déchirent mon coeur.
+Mais pourquoi, m'accusant, redoubler ces atteintes
+Madame, croyez-moi, je ne vaux pas vos plaintes.
+L'oubli, l'indifférence, et vos plus fiers mépris,
+De mon manque de foi doivent être le prix.
+À monter sur le Trône un grand Roi vous invite,
+Vengez-vous en l'aimant d'un Lâche qui vous quitte.
+Quoi qu'aujourd'hui pour moi l'inconstance ait de doux,
+Vous perdant pour jamais, je perdrai plus que vous.
+
+Un si beau feu m'accable, il devrait seul me plaire ;
+Mais telle est de l'Amour la tyrannique ardeur...
+
+Quand je vous les ai faits, j'ai cru ce que j'ai dit.
+Je partais glorieux d'être votre conquête ;
+Mais enfin dans ces lieux poussé par la tempête,
+J'ai trop vu ce qu'à voir me conviait l'Amour,
+J'ai trop...
+
+Par un amour forcé qui sous ses lois me range.
+Je le crois comme vous ; le Ciel est juste, un jour
+Vous me verrez puni de ce perfide amour ;
+Mais à sa violence il faut que ma foi cède.
+Je vous l'ai déjà dit, c'est un mal sans remède.
+
+Vous remener en Crète ! Oubliez-vous, Madame,
+Ce qu'est pour vous un Père, et quel courroux l'enflamme ?
+Songez-vous quels ennuis vous y sont apprêtés ?
+
+Ah, si mon changement doit causer votre perte,
+Frappez, prenez ma vie, elle vous est offerte.
+Prévenez par ce coup le forfait odieux
+Qu'un amour trop aveugle...
+
+Madame...
+
+Madame, je n'ai pas...
+
+Le Ciel à mon amour serait-il favorable,
+Jusqu'à rendre sitôt Ariane exorable ?
+Madame, quel bonheur qu'après tant de soupirs
+Je pusse sans contrainte expliquez mes désirs,
+Vous peindre en liberté ce que pour vous m'inspire...
+
+À quoi que son courroux puisse être disposé,
+Il est pour s'en défendre un moyen bien aisé.
+Ce calme qu'elle affecte afin de me surprendre,
+Ne me fait que trop voir ce que j'en dois attendre.
+La foudre gronde, il faut vous mettre hors d'état
+D'en ouïr la menace, et d'en craindre l'éclat.
+Fuyons d'ici, Madame, et venez dans Athènes,
+Par un heureux hymen, voir la fin de nos peines.
+J'ai mon Vaisseau tout prêt. Dès cette même nuit
+Nous pouvons de ces lieux disparaître sans bruit.
+Quand même pour vos jours nous n'aurions rien à craindre,
+Assez d'autres raisons nous y doivent contraindre.
+Ariane forcée à renoncer à moi,
+N'aura plus de prétexte à refuser le Roi.
+Pour son propre intérêt il faut s'éloigner d'elle.
+
+Ma foi, que ni le temps, ni le Ciel en courroux...
+
+L'emmener avec moi fut un coup nécessaire.
+Il fallait la sauver de la fureur d'un Père,
+Et la reconnaissance eut part seule aux serments
+Par qui mon coeur du sien paya les sentiments.
+Ce coeur violenté n'aimait qu'avec étude ;
+Et quand il entrerait un peu d'ingratitude
+Dans ce manque de foi qui vous semble odieux,
+Pourquoi me reprocher un crime de vos yeux ?
+L'habitude à les voir me fit de l'inconstance
+Une nécessité dont rien ne me dispense ;
+Et si j'ai trop flatté cette crédule Soeur,
+Vous en êtes complice aussi bien que mon coeur.
+Vous voyant auprès d'elle, et mon amour extrême
+Ne pouvant avec vous s'expliquer par vous-même,
+Ce que je lui disais d'engageant et de doux,
+Vous ne saviez que trop qu'il s'adressait à vous.
+Je n'examinais point en vous ouvrant mon âme,
+Si c'était d'Ariane entretenir la flamme.
+Je songeais seulement à vous marquer ma foi,
+Je me faisais entendre, et c'était tout pour moi.
+
+Vous soupirez ?
+
+      Vous en repentez-vous ?
+
+En vain...
+
+Pardonnez une fuite où l'Amour me condamne ;
+Je pars sans vous en avertir.
+Phèdre du même amour n'a pu se garantir,
+Elle fuit avec moi ; prenez soin d'Ariane.
+Prenez soin d'Ariane ! Il viole sa foi,
+Ma désespère, et veut qu'on prenne soin de moi.
+
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirithous
+
+Cette joie est encor plus sensible pour moi,
+Seigneur ; et de plus Thésée a pendant mon absence
+D'un destin rigoureux souffert la violence,
+Plus c'est pour ma tendresse un aimable transport
+D'embrasser un Ami, dont j'ai pleuré la mort.
+Qui l'eût cru, que du Sort le choix illégitime
+L'ayant au Minotaure envoyé pour victime,
+Il dût par un triomphe à jamais glorieux
+Affranchir son Pays d'un tribut odieux ?
+Sur le bruit qui rendait ces nouvelles certaines,
+L'espoir de son retour m'attira dans Athènes,
+Et par un ordre exprès, ce fut là que je sus.
+Qu'il attendait ici son cher Pirithoüs.
+Soudain je vole à Naxe, où de sa renommée
+Mon âme à la revoir est d'autant plus charmée,
+Que tout comblé qu'il est des faveurs d'un grand Roi,
+Même zèle toujours l'intéresse pour moi.
+
+Je ne sais si le Roi ne veut pas qu'on l'entende ;
+Mais au nom d'Ariane un peu trop de chaleur
+Me fait craindre pour vous le trouble de son coeur.
+Songez-y ; s'il fallait qu'épris d'amour pour elle...
+
+Il est vrai qu'Ariane aurait lieu de se plaindre,
+Si chéri sans réserve elle vous voyait craindre.
+Je viens de lui parler, et je ne vis jamais
+Pour un illustre Amant de plus ardents souhaits.
+C'est un amour pour vous si fort, si pur, si tendre,
+Que quoi que pour vous plaire il fallût entreprendre,
+Son coeur de cette gloire uniquement charmé...
+
+      Ô Dieux ! Est-ce vous qui parlez ?
+Ariane en beauté partout si renommée,
+Aimant avec excès, ne serait point aimée ?
+Vous seriez insensible à de si doux appas ?
+
+Mais vous souvenez-vous que pour sauver Thésée
+La fidèle Ariane à tout s'est exposée ?
+Par là du labyrinthe heureusement tiré...
+
+Votre mérite est grand, et peut l'avoir charmée ;
+Mais quand elle vous aime, elle se croit aimée.
+Ainsi vos voeux d'abord auront flatté sa foi,
+Et vous aurez juré...
+
+Quoi, la Soeur d'Ariane a fait changer Thésée ?
+
+Elle vous aime ?
+
+Ces devoirs partagés ont trop d'indifférence
+Pour vous faire aisément soupçonner d'inconstance.
+Mais quand depuis trois mois vous m'avez attendu,
+Ne vous déclarant point, qu'avez-vous prétendu ?
+
+Mais me voici dans Naxe, et quoi qu'on puisse faire,
+Votre infidélité ne saurait plus se taire.
+Quel prétexte auriez-vous encor à différer ?
+
+Je tairai ce qu'il faut ; mais comme je condamne
+Votre ingrate conduite au regard d'Ariane,
+N'attendez pas de moi que pour vous dégager
+Je lui parle du feu qui vous porte à changer.
+C'est un aveu honteux qu'un autre lui peut faire.
+Cependant mon secours vous étant nécessaire,
+Si sur l'hymen du Roi je puis être écouté,
+J'appuierai le projet dont je vous vois flatté.
+Phèdre vient, je vous laisse.
+
 Ne me demandez rien, il sort tout interdit,
 Madame, et par son trouble il vous en a trop dit.
 
--*who_ariane
-Je vous comprends tous deux, vous arrivez d'Athènes.
-Du sang dont je suis née on n'y veut point de Reines,
-Et le peuple indigné refuse à ce héros
-D'admettre dans son lit la fille de Minos ?
-Qu'après la mort d'AEgée il soit toujours le même,
-Qu'il m'ôte, s'il le peut, l'honneur du rang suprême,
-Trône, Sceptre, grandeurs, sont des biens superflus ;
-Thésée étant à moi, je ne veux rien de plus.
-Son amour paye assez ce que le mien me coûte,
-Le reste est peu de chose.
-
--*who_pirithous
       Il vous aime sans doute,
 Et comment pourrait-il avoir le coeur si bas,
 Que tenir tout de vous, et ne vous aimer pas ?
@@ -824,13 +675,6 @@ Vous ôter là-dessus tout lieu d'inquiétude.
 Il vous aime, et de vous Naxe prenant la loi,
 Calmera...
 
--*who_ariane
-      Vous voulez que j'épouse le Roi ?
-Certes l'avis est rare, et si j'ose vous croire,
-Un noble changement me va combler de gloire.
-Me connaissez-vous bien ?
-
--*who_pirithous
       Les moindres lâchetés
 Sont pour votre grand coeur des crimes détestés,
 Vous avez pour la gloire une ardeur sans pareille ;
@@ -838,29 +682,255 @@ Mais, Madame, je sais ce que je vous conseille,
 Et si vous me croyez, quels que soient mes avis,
 Vous vous trouverez bien de les avoir suivis.
 
--*who_ariane
+Vous le consulterez, n'en croyez que lui-même.
+
+      Je n'ai dit que ce que j'ai dû dire.
+Vous y penserez mieux, et peut-être qu'un jour
+Vous prendrez un peu moins le parti de l'Amour.
+Adieu, Madame.
+
+Je me tais, c'est à vous à voir ce qu'il faut croire.
+
+Souvent ce qui nous plaît par une erreur fatale...
+
+Mon silence déjà s'est expliqué pour moi ;
+Par là je vous dis tout. Vos ennuis me font peine ;
+Mais quand le seul remède est de vous faire Reine,
+N'oubliez point qu'à Naxe on veut vous couronner,
+C'est le meilleur conseil qu'on vous puisse donner.
+Ma présence commence à vous être importune,
+Je me retire.
+
+Ce serait perdre temps, il ne faut plus prétendre
+Que rien touche Thésée, et le force à se rendre.
+J'admire encor, Madame, avec quelle vertu
+Vous avez de nouveau si longtemps combattu.
+Par son manque de foi, contre vous-même armée,
+Vous avez fait paraître une Soeur opprimée.
+Vous avez essayé par un tendre retour
+De ramener son coeur vers son premier amour.
+Et prière, et menace, et fierté de courage,
+Tout vient pour le fléchir d'être mis en usage ;
+Mais sur ce changement qui semble vous gêner,
+L'ingratitude en vain vous le fait condamner.
+Vos yeux rendent pour lui ce crime nécessaire ;
+Et s'il cède au remords quelque fois pour vous plaire.
+Quoi que vous ait promis ce repentir confus,
+Sitôt qu'il vous regarde, il ne s'en souvient plus.
+
+Nous avancerions peu, Madame, il vous adore
+Et quand pour l'étonner à force de refus,
+Vous vous obstineriez à ne l'écouter plus,
+Son âme toute à vous n'en serait pas plus prête
+À suivre d'autres lois, et changer de conquête.
+Quoi que le coup soit rude, achevons de frapper.
+Pour servir Ariane il faut la détromper ;
+Il faut lui faire voir qu'une flamme nouvelle
+Ayant détruit l'amour que Thésée eut pour elle,
+Sa sûreté l'oblige à ne pas dédaigner
+La gloire d'un hymen qui la fera régner.
+Le Roi l'aime, et son Trône est pour elle un asile.
+
+      Voyez qu'elle s'approche.
+Parlons, son intérêt nous oblige à bannir
+Tout l'espoir que son feu tâche d'entretenir.
+
+Madame, de ces maux à qui la raison cède,
+Le temps qui calme tout est l'unique remède.
+C'est par lui seul...
+
+      Je crains bien
+Que vous ne vous plaigniez de ce triste entretien.
+Voir un ingrat qu'on aime, et le voir inflexible,
+C'est de tous les ennuis l'ennui le plus sensible,
+Vous en souffrirez trop, et pour peu de souci...
+
+Par ce que je vous dis, ne croyez pas, Madame,
+Que je veuille applaudir à sa nouvelle flamme.
+Sachant ce qu'il devait au généreux amour
+Qui vous fit tout oser pour lui sauver le jour,
+Je partageai dès lors l'heureuse destinée
+Qu'à ses voeux les plus doux offrait votre hyménée,
+Et je venais ici, plein de ressentiment,
+Rendre grâce à l'Amante, en embrassant l'Amant.
+Jugez de ma surprise à le voir infidèle,
+À voir que vers une autre une autre ardeur l'appelle,
+Et qu'il ne m'attendait que pour vous annoncer
+L'injustice où l'Amour se plaît à le forcer.
+
+C'est ce que de son coeur je ne puis arracher.
+
+J'ignore ce qu'il craint, mais lorsqu'il vous outrage,
+Songez que d'un grand Roi vous recevez l'Hommage ;
+Il vous offre son Trône, et malgré le Destin
+Votre malheur par là trouve une heureuse fin.
+Tout vous porte, Madame, à ce grand hyménée.
+Pourriez-vous demeurer errante, abandonnée ?
+Déjà la Crète cherche à se venger de vous.
+Et Minos...
+
+Le voici qui paraît ; n'épargnez rien, Madame,
+Pour rentrer dans vos droits, pour regagner son âme ;
+Et si l'espoir en vain s'obstine à vous flatter,
+Songez ce qu'offre un Trône à qui peut y monter.
+
+Le Roi sur ce projet entretint hier Thésée,
+Mais il trouva son âme encor mal disposée.
+Il est pour les Ingrats de rigoureux instants,
+Thésée en fit l'épreuve, et demanda du temps.
+
+Si l'on m'avait dit vrai, vous seriez hors de peine ;
+Mais, Madame, je puis être mal averti.
+
+      On dit que Thésée est parti.
+Par là vous seriez libre.
+
+      Ce bruit doit vous surprendre.
+
+      Je ne sais ; mais, Madame,
+Un vaisseau cette nuit s'est échappé du Port.
+
+Madame, en vos malheurs qui font peine à comprendre...
+
+J'ignore...
+
+D'un départ si secret le Roi sera surpris.
+
+Madame, si j'osais...
+
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ariane
+
+Je sais qu'avec le Roi j'ai tout à ménager,
+J'aurais tout de l'aigrir. L'asile qu'il nous prête
+Contre la violence assure ma retraite.
+D'ailleurs, tant de respect accompagne ses voeux,
+Que souvent j'ai regret qu'il ne puisse être heureux.
+Mais quand d'un premier feu l'âme toute occupée
+Ne trouve de douceur qu'aux traits qui l'ont frappée,
+C'est un sujet d'ennui qui ne peut s'exprimer,
+Qu'un Amant qu'on néglige, et qui parle d'aimer.
+Pour m'en rendre la peine à souffrir plus aisée,
+Tandis que le Roi vient, parle-moi de Thésée.
+Peins-moi bien quel honneur je reçois de sa foi,
+Peins-moi bien tout l'amour dont il brûle pour moi ;
+Offres-en à mes yeux la plus sensible image.
+
+Et puis-je trop l'aimer, quand tout brillant de gloire
+Mille fameux exploits l'offrent à ma mémoire ?
+De cent Monstres par lui l'Univers dégagé
+Se voit d'un mauvais sang heureusement purgé.
+Combien ainsi qu'Hercule a-t-il pris de victimes ?
+Combien vengé de morts, combien puni de crimes ?
+Procuste et Cercyon, la terreur des Humains,
+N'ont-ils pas succombé sous ses vaillantes mains ?
+Ce n'est point le vanter que ce qu'on m'entend dire.
+Tout le monde le sait, tout le monde l'admire ;
+Mais c'est peu, je voudrais que tout ce que je vois
+S'en entretînt sans cesse, en parlât comme moi.
+J'aime Phèdre ; tu sais combien elle m'est chère.
+Si quelque chose en elle a de quoi me déplaire,
+C'est de voir son esprit de froideur combattu,
+Négliger entre nous de louer sa vertu.
+Quand je dis qu'il s'acquiert une gloire immortelle,
+Elle applaudit, m'approuve, et qui ferait moins qu'elle ?
+Mais enfin d'elle-même on ne l'entend jamais
+De ce charmant Héros élever les hauts faits.
+Il faut en leur faveur expliquer son silence.
+
+Elle évite peut-être un cruel embarras.
+L'Amour n'a bien souvent qu'une douceur trompeuse ;
+Mais vivre indifférente, est-ce une vie heureuse ?
+
+Je connais tout l'amour dont votre âme est éprise.
+Son excès m'a souvent causé de la surprise,
+Et vous ne direz rien que mon coeur interdit
+Pour vous-même avant vous ne se soit déjà dit.
+Tant d'ardeur méritait que ce coeur plus sensible
+À l'offre de vos voeux ne fût pas inflexible,
+Que d'un si noble hommage il se trouvât charmé ;
+Mais quand je vous ai vu, Thésée était aimé ;
+Vous savez son mérite, et le prix qu'il me coûte.
+Après cela, Seigneur, parlez, je vous écoute.
+
+Seigneur, tant de vertu dans votre amour éclate,
+Qu'il faut vous l'avouer, je ne suis point ingrate.
+Mon coeur se sent touché de ce que je vous dois,
+Et voudrait être à vous s'il pouvait être à moi ;
+Mais il perdrait le prix dont vous le croyez être ;
+Si l'infidélité vous en rendait le maître.
+Thésée y règne seul, et s'y trouve adoré.
+Dès la première fois je vous l'ai déclaré,
+Dès la première fois...
+
+L'honneur à cet effort a dû l'assujettir.
+Qu'eût-il fait ? Il sait trop que mon amour extrême,
+En s'attachant à vous, n'a cherché que vous-même,
+Et qu'ayant tout quitté pour vous prouver ma foi,
+Mille Trônes offerts ne pourraient rien sur moi.
+
+      Apprenez un projet de ma flamme.
+Pour m'attacher à vous par de plus fermes noeuds,
+J'ai dans Pirithoüs trouvé ce que je veux.
+Vous l'aimez chèrement ; il faut que l'Hyménée,
+De ma Soeur avec lui joigne la destinée,
+Et que nous partagions ce que pour les grands coeurs
+L'amour et l'amitié font naître de douceurs.
+Ma Soeur a du mérite, elle est aimable et belle,
+Suit mes conseils en tout, et je vous réponds d'elle,
+Voyez Pirithoüs, et tâchez d'obtenir
+Que par elle avec nous il consente à s'unir.
+
+      Je vous entends ; le Roi trop combattu
+Peut laisser à l'Amour séduire sa vertu.
+Cet inquiet souci ne saurait me déplaire,
+Et pour le dissiper je sais ce qu'il faut faire.
+
+      Que ce trouble m'est doux !
+Ce qu'il vous fait sentir, je me le dis pour vous.
+Je me dis...
+
+Encor un coup perdez cette jalouse crainte ;
+J'en connais le remède, et si l'on m'ose aimer,
+Vous n'aurez pas longtemps à vous en alarmer.
+
+Et n'ai-je pas en vous une sûre défense ?
+
+      Achevez.
+
+Ce désordre me gêne, et dure trop longtemps ;
+Expliquez-vous enfin.
+
+Quel est ce grand secret, Prince, et par quel mystère
+Vouloir me l'expliquer, et tout à coup se taire ?
+
+Je vous comprends tous deux, vous arrivez d'Athènes.
+Du sang dont je suis née on n'y veut point de Reines,
+Et le peuple indigné refuse à ce héros
+D'admettre dans son lit la fille de Minos ?
+Qu'après la mort d'AEgée il soit toujours le même,
+Qu'il m'ôte, s'il le peut, l'honneur du rang suprême,
+Trône, Sceptre, grandeurs, sont des biens superflus ;
+Thésée étant à moi, je ne veux rien de plus.
+Son amour paye assez ce que le mien me coûte,
+Le reste est peu de chose.
+
+      Vous voulez que j'épouse le Roi ?
+Certes l'avis est rare, et si j'ose vous croire,
+Un noble changement me va combler de gloire.
+Me connaissez-vous bien ?
+
 Qui ? Moi les suivre ? Moi, qui voudrais pour Thésée
 À cent et cent périls voir ma vie exposée ?
 Dieux ! Quel étonnement serait au mien égal,
 S'il savait qu'un Ami parlât pour son Rival ?
 S'il savait qu'il voulût lui ravir ce qu'il aime ?
 
--*who_pirithous
-Vous le consulterez, n'en croyez que lui-même.
-
--*who_ariane
 Quoi, si l'offre d'un Trône avait pu m'éblouir,
 Je lui demanderais si je dois le trahir,
 Si je dois l'exposer au plus cruel martyre
 Qu'un amant...
 
--*who_pirithous
-      Je n'ai dit que ce que j'ai dû dire.
-Vous y penserez mieux, et peut-être qu'un jour
-Vous prendrez un peu moins le parti de l'Amour.
-Adieu, Madame.
-
--*who_ariane
       Il dit ce qu'il faut qu'il me dise !
 Demeurez, avec moi c'est en vain qu'on déguise.
 Vous en avez trop dit pour ne me pas tirer
@@ -871,10 +941,6 @@ Autrement je croirai qu'une nouvelle ardeur
 Rend Thésée infidèle, et me vole son coeur ;
 Que pour un autre Objet, sans souci de sa gloire...
 
--*who_pirithous
-Je me tais, c'est à vous à voir ce qu'il faut croire.
-
--*who_ariane
 Ce qu'il faut croire ? Ah Dieux ! Vous me désespérez,
 Je verrais à mes voeux d'autres voeux préférés ?
 Thésée à me quitter... Mais quel soupçon j'écoute ?
@@ -882,33 +948,13 @@ Non, non, Pirithoüs, on vous trompe sans doute.
 Il m'aime ; et s'il m'en faut séparer quelque jour,
 Je pleurerai sa mort, et non pas son amour.
 
--*who_pirithous
-Souvent ce qui nous plaît par une erreur fatale...
-
--*who_ariane
 Parlez plus clairement, ai-je quelque Rivale ?
 Thésée a-t-il changé ? Viole-t-il sa foi ?
 
--*who_pirithous
-Mon silence déjà s'est expliqué pour moi ;
-Par là je vous dis tout. Vos ennuis me font peine ;
-Mais quand le seul remède est de vous faire Reine,
-N'oubliez point qu'à Naxe on veut vous couronner,
-C'est le meilleur conseil qu'on vous puisse donner.
-Ma présence commence à vous être importune,
-Je me retire.
-
-**** *book_ *id_II06 *act_II *date_1672 *creator_corneille
-
--*who_ariane
       As-tu conçu mon infortune ?
 Il n'en faut point douter, je suis trahie. Hélas !
 Nérine.
 
--*who_nerine
-      Je vous plains.
-
--*who_ariane
       Qui ne me plaindrait pas ?
 Tu le sais, tu l'as vu, j'ai tout fait pour Thésée.
 Seule à son mauvais sort je me suis opposée,
@@ -920,13 +966,6 @@ Ce serait trahir tout, raison, gloire, équité.
 Thésée a trop de coeur pour tant de lâcheté,
 Pour croire qu'à ma mort son injustice aspire.
 
--*who_nerine
-Pirithoüs ne dit que ce qu'il lui fait dire ;
-Et quand il a voulu l'attendre si longtemps,
-Ce n'était qu'un prétexte à ses feux inconstants.
-Il nourrissait dès lors l'ardeur qui le domine.
-
--*who_ariane
 Ah, que me fais-tu voir, trop cruelle Nérine ?
 Sur le gouffre des maux qui me vont abîmer,
 Pourquoi m'ouvrir les yeux quand je les veux fermer ?
@@ -940,19 +979,12 @@ Qui ne peut plus servir qu'à me faire mieux voir
 Le sujet de ma rage et de mon désespoir ?
 Quoi, Nérine, pour prix de l'amour le plus tendre...
 
-**** *book_ *id_II07 *act_II *date_1672 *creator_corneille
-
--*who_ariane
 Ah, ma Soeur, savez-vous ce qu'on vient de m'apprendre ?
 Vous avez cru Thésée un Héros tout parfait,
 Vous l'estimiez sans doute ; et qui ne l'eût pas fait ?
 N'attendez plus de foi, plus d'honneur, tout chancelle,
 Tout doit être suspect, Thésée est infidèle.
 
--*who_phedre
-Quoi, Thésée...
-
--*who_ariane
       Oui, ma Soeur, après ce qu'il me doit,
 Me quitter est le prix que ma flamme en reçoit,
 Il me trahit. Au point que sa foi violée
@@ -968,12 +1000,6 @@ Mon amour est encor plus fort que ma colère.
 Ma main tremble, et malgré son parjure odieux,
 Je vois toujours en lui ce que j'aime le mieux.
 
--*who_phedre
-Un revers si cruel vous rend sans doute à plaindre ;
-Et vous voyant souffrir ce qu'on n'a pas dû craindre,
-On conçoit aisément jusqu'où le désespoir...
-
--*who_ariane
 Ah, qu'on est éloigné de le bien concevoir !
 Pour pénétrer l'horreur du tourment de mon âme,
 Il faudrait qu'on sentît même ardeur, même flamme,
@@ -1001,11 +1027,6 @@ Il semble que dès lors il me faisait prévoir
 Le funeste besoin que j'en devais avoir.
 Sans vous, à mes malheurs où chercher du remède ?
 
--*who_phedre
-Je vais mander Thésée, et si son coeur ne cède,
-Madame, en lui parlant, vous devez présumer...
-
--*who_ariane
 Hélas ! Et plût au Ciel que vous sussiez aimer,
 Que vous pussiez savoir par votre expérience
 Jusqu'où d'un fort amour s'étend la violence !
@@ -1020,108 +1041,11 @@ Votre amitié pour moi fera ce qu'il faut faire.
 Allez, ma Soeur, courez empêcher mon trépas.
 Toi, viens, suis-moi, Nérine, et ne me quitte pas.
 
-**** *book_ *id_III01 *act_III *date_1672 *creator_corneille
-
--*who_pirithous
-Ce serait perdre temps, il ne faut plus prétendre
-Que rien touche Thésée, et le force à se rendre.
-J'admire encor, Madame, avec quelle vertu
-Vous avez de nouveau si longtemps combattu.
-Par son manque de foi, contre vous-même armée,
-Vous avez fait paraître une Soeur opprimée.
-Vous avez essayé par un tendre retour
-De ramener son coeur vers son premier amour.
-Et prière, et menace, et fierté de courage,
-Tout vient pour le fléchir d'être mis en usage ;
-Mais sur ce changement qui semble vous gêner,
-L'ingratitude en vain vous le fait condamner.
-Vos yeux rendent pour lui ce crime nécessaire ;
-Et s'il cède au remords quelque fois pour vous plaire.
-Quoi que vous ait promis ce repentir confus,
-Sitôt qu'il vous regarde, il ne s'en souvient plus.
-
--*who_phedre
-Les Dieux me sont témoins que de son injustice
-Je souffre malgré moi qu'il me rende complice.
-Ce qu'il doit à ma Soeur méritait que sa foi
-Se fît de l'aimer seule une sévère loi ;
-Et quand des longs ennuis où ce refus l'expose,
-Par ma facilité je me trouve la cause,
-Il n'est peine, supplice, où pour l'en garantir
-La pitié de ses maux ne me fît consentir.
-L'amour que j'ai pour lui me noircit peu vers elle.
-Je l'ai pris sans songer à le rendre infidèle ;
-Ou plutôt j'ai senti tout mon coeur s'enflammer,
-Avant que de savoir si je voulais aimer.
-Mais si ce feu trop prompt n'eut rien de volontaire,
-Il dépendait de moi de parler, ou me taire.
-J'ai parlé, c'est mon crime, et Thésée applaudi
-À l'infidélité par là s'est enhardi.
-Ah, qu'on se défend mal auprès de ce qu'on aime !
-Ses regards m'expliquaient sa passion extrême ;
-Les miens à la flatter s'échappaient malgré moi,
-N'étaient-ce pas assez pour corrompre sa foi ?
-J'eus beau vouloir régler son âme trop charmée,
-Il fallut voir sa flamme, et souffrir d'être aimée ;
-J'en craignis le péril, il me sut éblouir.
-Que de faiblesse ? Il faut l'empêcher d'en jouir,
-Combattre incessamment son infidèle audace.
-Allez, Pirithoüs, revoyez-le, de grâce.
-De peur qu'en mon amour il prenne trop d'appui,
-Ôtez-lui tout espoir que je puisse être à lui ;
-J'ai déjà beaucoup dit, dites-lui plus encore.
-
--*who_pirithous
-Nous avancerions peu, Madame, il vous adore
-Et quand pour l'étonner à force de refus,
-Vous vous obstineriez à ne l'écouter plus,
-Son âme toute à vous n'en serait pas plus prête
-À suivre d'autres lois, et changer de conquête.
-Quoi que le coup soit rude, achevons de frapper.
-Pour servir Ariane il faut la détromper ;
-Il faut lui faire voir qu'une flamme nouvelle
-Ayant détruit l'amour que Thésée eut pour elle,
-Sa sûreté l'oblige à ne pas dédaigner
-La gloire d'un hymen qui la fera régner.
-Le Roi l'aime, et son Trône est pour elle un asile.
-
--*who_phedre
-Quoi, je la trahirais, elle qui trop facile,
-Trop aveugle à m'aimer, se confie à ma foi,
-Pour toucher un Amant qui la quitte pour moi ?
-Et quand elle saurait que par mes faibles charmes,
-Pour lui percer le coeur j'aurais prêté des armes,
-Je pourrais à ses yeux lâchement exposer
-Les criminels appas qui la font mépriser ?
-Je pourrais soutenir le sensible reproche
-Qu'un trop juste courroux...
-
--*who_pirithous
-      Voyez qu'elle s'approche.
-Parlons, son intérêt nous oblige à bannir
-Tout l'espoir que son feu tâche d'entretenir.
-
-**** *book_ *id_III02 *act_III *date_1672 *creator_corneille
-
--*who_ariane
 Et bien, ma Soeur ? Thésée est-il inexorable ?
 N'avez-vous pu surprendre un soupir favorable,
 Et quand au repentir on le porte à céder,
 Croit-il que mon amour ose trop demander ?
 
--*who_phedre
-Madame, j'ai tout fait pour ébranler son âme.
-J'ai peint son changement lâche, odieux, infâme.
-Pirithoüs lui-même est témoin des efforts
-Par où j'ai cru pouvoir le contraindre au remords.
-Il connaît et son crime et son ingratitude,
-Il s'en hait, il en sent la peine la plus rude,
-Ses ennuis de vos maux égalent la rigueur ;
-Mais l'Amour en Tyran dispose de son coeur,
-Et le Destin plus fort que sa reconnaissance,
-Malgré ce qu'il vous doit, l'entraîne à l'inconstance.
-
--*who_ariane
 Quelle excuse ! Et pour moi qu'il rend peu de combat !
 Il hait l'ingratitude, et se plaît d'être ingrat.
 Puisqu'en sa dureté son lâche coeur demeure,
@@ -1133,54 +1057,18 @@ D'assembler tous ses maux dont on connaît l'image ;
 Il y serait sensible, et ne pourrait souffrir
 Que qui sauva ses jours fût forcée à mourir.
 
--*who_phedre
-Si vous saviez pour vous ce qu'a fait ma tendresse,
-Vous soupçonneriez moins...
-
--*who_ariane
       J'ai tort, je le confesse ;
 Mais dans un mal, sous qui la constance est à bout,
 On s'égare, on s'emporte, et l'on s'en prend à tout.
 
--*who_pirithous
-Madame, de ces maux à qui la raison cède,
-Le temps qui calme tout est l'unique remède.
-C'est par lui seul...
-
--*who_ariane
       Les coups n'en sont guère importants,
 Quand on peut se résoudre à s'en remettre au temps.
 Thésée est insensible à l'ennui qui me touche,
 Il y consent ; je veux l'apprendre de sa bouche.
 Je l'attendrai, ma Soeur, qu'il vienne.
 
--*who_pirithous
-      Je crains bien
-Que vous ne vous plaigniez de ce triste entretien.
-Voir un ingrat qu'on aime, et le voir inflexible,
-C'est de tous les ennuis l'ennui le plus sensible,
-Vous en souffrirez trop, et pour peu de souci...
-
--*who_ariane
 Allez, ma Soeur, de grâce, et l'envoyez ici.
 
-**** *book_ *id_III03 *act_III *date_1672 *creator_corneille
-
--*who_pirithous
-Par ce que je vous dis, ne croyez pas, Madame,
-Que je veuille applaudir à sa nouvelle flamme.
-Sachant ce qu'il devait au généreux amour
-Qui vous fit tout oser pour lui sauver le jour,
-Je partageai dès lors l'heureuse destinée
-Qu'à ses voeux les plus doux offrait votre hyménée,
-Et je venais ici, plein de ressentiment,
-Rendre grâce à l'Amante, en embrassant l'Amant.
-Jugez de ma surprise à le voir infidèle,
-À voir que vers une autre une autre ardeur l'appelle,
-Et qu'il ne m'attendait que pour vous annoncer
-L'injustice où l'Amour se plaît à le forcer.
-
--*who_ariane
 Et ne devais-je pas, quoi qu'il me fît entendre,
 Pénétrer les raisons qui vous faisaient attendre,
 Et juger qu'en un coeur épris d'un feu constant,
@@ -1200,23 +1088,8 @@ Quelques voeux égarés pussent rien contre moi.
 Mais enfin puisque rien pour lui n'est plus à taire,
 Quel est ce rare Objet que son choix me préfère ?
 
--*who_pirithous
-C'est ce que de son coeur je ne puis arracher.
-
--*who_ariane
 Ma colère est suspecte, il faut me le cacher.
 
--*who_pirithous
-J'ignore ce qu'il craint, mais lorsqu'il vous outrage,
-Songez que d'un grand Roi vous recevez l'Hommage ;
-Il vous offre son Trône, et malgré le Destin
-Votre malheur par là trouve une heureuse fin.
-Tout vous porte, Madame, à ce grand hyménée.
-Pourriez-vous demeurer errante, abandonnée ?
-Déjà la Crète cherche à se venger de vous.
-Et Minos...
-
--*who_ariane
       J'en crains peu le plus ardent courroux.
 Qu'il s'arme contre moi, que j'en sois poursuivie,
 Sans ce que j'aime, hélas ! Que faire de la vie ?
@@ -1227,15 +1100,6 @@ L'Ingrat veut que je meure, il faut le satisfaire,
 Et lui laisser sentir pour double châtiment,
 Le remords de ma perte, et de son changement.
 
--*who_pirithous
-Le voici qui paraît ; n'épargnez rien, Madame,
-Pour rentrer dans vos droits, pour regagner son âme ;
-Et si l'espoir en vain s'obstine à vous flatter,
-Songez ce qu'offre un Trône à qui peut y monter.
-
-**** *book_ *id_III04 *act_III *date_1672 *creator_corneille
-
--*who_ariane
 Approchez-vous, Thésée, et perdez cette crainte.
 Pourquoi dans vos regards marquer tant de contrainte,
 Et m'aborder ainsi, quand rien ne vous confond,
@@ -1249,17 +1113,6 @@ Je le crois. Seulement apprenez-moi mon crime ;
 Et d'où vient qu'exposée à de si rudes coups,
 Ariane n'est plus ce qu'elle fut pour vous.
 
--*who_thesee
-Ah, pourquoi le penser ? Elle est toujours la même,
-Même zèle toujours suit mon respect extrême,
-Et le temps dans mon coeur n'affaiblira jamais
-Le pressant souvenir de ses rares bienfaits ;
-M'en acquitter vers elle est ma plus forte envie.
-Oui, Madame, ordonnez de mon Sang, de ma vie.
-Si la fin vous en plaît, le sort me sera doux
-Par qui j'obtiendrai l'heur de la perdre pour vous.
-
--*who_ariane
 Si quand je vous connus la fin eût pu m'en plaire,
 Le Destin la vouloir, je l'aurais laissé faire.
 Par moi, par mon amour, le Labyrinthe ouvert
@@ -1273,14 +1126,6 @@ C'est le coeur, le coeur seul, qui peut y satisfaire.
 Il a seul pour mes voeux ce qui peut les borner,
 C'est lui seul...
 
--*who_thesee
-      Je voudrais vous le pouvoir donner,
-Mais ce coeur malgré moi vit sous un autre empire,
-Je le sens à regret, je rougis à le dire ;
-Et quand je plains vos feux par ma flamme déçus,
-Je hais mon injustice, et ne puis rien de plus.
-
--*who_ariane
 Tu ne peux rien de plus ! Qu'aurais-tu fait, Parjure,
 Si quand tu vins du Monstre éprouver l'aventure,
 Abandonnant ta vie à ta seule valeur,
@@ -1298,25 +1143,6 @@ Dis-moi que non, ingrat, si ta lâcheté l'ose ;
 Et désavouant tout, éblouis-moi si bien,
 Que je puisse penser que tu ne me dois rien.
 
--*who_thesee
-Comment désavouer ce que l'honneur me presse
-De voir, d'examiner, de me dire sans cesse ?
-Si par mon changement je trompe votre choix,
-C'est sans rien oublier de ce que je vous dois.
-Ainsi joignez aux noms de Traître et de Parjure
-Tout l'éclat que produit la plus sanglante injure ;
-Ce que vous me direz n'aura point la rigueur
-Des reproches secrets qui déchirent mon coeur.
-Mais pourquoi, m'accusant, redoubler ces atteintes
-Madame, croyez-moi, je ne vaux pas vos plaintes.
-L'oubli, l'indifférence, et vos plus fiers mépris,
-De mon manque de foi doivent être le prix.
-À monter sur le Trône un grand Roi vous invite,
-Vengez-vous en l'aimant d'un Lâche qui vous quitte.
-Quoi qu'aujourd'hui pour moi l'inconstance ait de doux,
-Vous perdant pour jamais, je perdrai plus que vous.
-
--*who_ariane
 Quelle perte, grands Dieux, quand elle est volontaire ?
 Périsse tout, s'il faut cesser de t'être chère.
 Qu'ai-je à faire du Trône et de la main d'un Roi ?
@@ -1335,11 +1161,6 @@ Point de ressentiment de ton crime passé ;
 Tu n'as qu'à dire un mot, ce crime est effacé.
 C'en est fait, tu le vois, je n'ai plus de colère.
 
--*who_thesee
-Un si beau feu m'accable, il devrait seul me plaire ;
-Mais telle est de l'Amour la tyrannique ardeur...
-
--*who_ariane
 Va, tu me répondras des transports de mon coeur.
 Si ma flamme sur toi n'avait qu'un faible empire,
 Si tu la dédaignais, il fallait me le dire,
@@ -1349,14 +1170,6 @@ C'est là, surtout, c'est là ce qui souille ta gloire.
 Tu t'es plu sans m'aimer à me le faire croire :
 Tes indignes serments sur mon crédule esprit...
 
--*who_thesee
-Quand je vous les ai faits, j'ai cru ce que j'ai dit.
-Je partais glorieux d'être votre conquête ;
-Mais enfin dans ces lieux poussé par la tempête,
-J'ai trop vu ce qu'à voir me conviait l'Amour,
-J'ai trop...
-
--*who_ariane
       Naxe te change ? Ah ! Funeste séjour !
 Dans Naxe, tu le sais, un Roi, grand, magnanime,
 Pour moi dès qu'il me vit, prit une tendre estime,
@@ -1392,14 +1205,6 @@ Vois Ariane en pleurs. Ariane autrefois
 Toute aimable à tes yeux méritait bien ton choix :
 Elle n'a point changé, d'où vient que ton coeur change ?
 
--*who_thesee
-Par un amour forcé qui sous ses lois me range.
-Je le crois comme vous ; le Ciel est juste, un jour
-Vous me verrez puni de ce perfide amour ;
-Mais à sa violence il faut que ma foi cède.
-Je vous l'ai déjà dit, c'est un mal sans remède.
-
--*who_ariane
 Ah, c'est trop, puisque rien ne te saurait toucher,
 Parjure, oublie un feu qui dût t'être si cher.
 Je ne demande plus que ta lâcheté cesse
@@ -1411,12 +1216,6 @@ Remène-moi, Barbare, aux lieux où tu m'as prise.
 La Crète, où pour toi seul je me suis fait haïr,
 Me plaira mieux que Naxe, où tu m'oses trahir.
 
--*who_thesee
-Vous remener en Crète ! Oubliez-vous, Madame,
-Ce qu'est pour vous un Père, et quel courroux l'enflamme ?
-Songez-vous quels ennuis vous y sont apprêtés ?
-
--*who_ariane
 Laisse-moi les souffrir, je les ai mérités ;
 Mais de ton faux amour les feintes concertées,
 Tes noires trahisons, les ai-je méritées ?
@@ -1439,46 +1238,19 @@ Et te dire d'un ton et d'un regard sévère,
 J'ai trahi mon Pays, et mon Père et mon Roi ;
 Cependant vois le prix, ingrat, que j'en reçois."
 
--*who_thesee
-Ah, si mon changement doit causer votre perte,
-Frappez, prenez ma vie, elle vous est offerte.
-Prévenez par ce coup le forfait odieux
-Qu'un amour trop aveugle...
-
--*who_ariane
       Ôte-toi de mes yeux.
 De ta constance ailleurs va montrer les mérites ;
 Je ne veux pas avoir l'affront que tu me quittes.
 
--*who_thesee
-Madame...
-
--*who_ariane
       Ôte toi, dis-je, et me laisse en pouvoir
 De te haïr autant que je le crois devoir.
 
-**** *book_ *id_III05 *act_III *date_1672 *creator_corneille
-
--*who_ariane
 Il sort, Nérine. Hélas !
 
--*who_nerine
-      Qu'aurait fait sa présence,
-Qu'accroître de vos maux la triste violence ?
-
--*who_ariane
 M'avoir ainsi quittée, et partout me trahir !
 
--*who_nerine
-Vous l'avez commandé.
-
--*who_ariane
       Devait-il obéir !
 
--*who_nerine
-Que vouliez-vous qu'il fît ? Vous pressiez sa retraite
-
--*who_ariane
 Qu'il sût en s'emportant, ce que l'Amour souhaite,
 Et qu'à mon désespoir souffrant un libre cours,
 Il s'entendît chasser, et demeurât toujours.
@@ -1489,13 +1261,6 @@ As-tu vu quelle joie a paru dans ses yeux ?
 Combien il est sorti satisfait da ma haine ?
 Que de mépris !
 
--*who_nerine
-      Son crime auprès de vous le gêne,
-Madame, et n'ayant point d'excuse à vous donner,
-S'il vous fuit, j'y vois peu de quoi vous étonner.
-Il s'épargne une peine à peu d'autres égale.
-
--*who_ariane
 M'en voir trahie ! Il faut découvrir ma Rivale.
 Examine avec moi. De toute cette Cour
 Qui crois-tu la plus propre à donner de l'amour ?
@@ -1512,81 +1277,6 @@ Allons, Nérine, allons, je suis Amante et Femme ;
 Il veut ma mort, j'y cours : mais avant que mourir,
 Je ne sais qui des deux aura plus à souffrir.
 
-**** *book_ *id_IV01 *act_IV *date_1672 *creator_corneille
-
--*who_oenarus
-Un si grand changement ne peut trop me surprendre,
-J'en ai la certitude, et ne le puis comprendre.
-Après ce pur amour dont il suivait la loi
-Thésée à ce qu'il aime ose manquer de foi ?
-Dans la rigueur du coup, je ne vois qu'avec crainte
-Ce qu'au coeur d'Ariane il doit porter d'atteinte.
-J'en tremble ; et si tantôt lui peignant mon amour
-Je voulais être plaint, je la plains à son tour.
-Perdre un bien qui jamais ne permit d'espérance,
-N'est qu'un mal dont le temps calme la violence ;
-Mais voir un bel espoir tout à coup avorter,
-Passe tous les malheurs qu'on ait à redouter.
-C'est du courroux du Ciel la plus funeste preuve.
-
--*who_phedre
-Ariane, Seigneur, en fait la triste épreuve,
-Et si de ses ennuis vous n'arrêtez le cours,
-J'ignore, pour le rompre, où chercher du secours.
-Son coeur est accablé d'une douleur mortelle.
-
--*who_oenarus
-Vous ne savez que trop l'amour que j'ai pour elle,
-Il veut, il offre tout ; mais hélas ! je crains bien
-Que cet amour ne parle, et qu'il n'obtienne rien.
-Si Thésée a changé, j'en serai responsable.
-C'est dans ma Cour qu'il trouve un autre Objet aimable,
-Et sans doute on voudra que je sois le garant
-De l'hommage inconnu que sa flamme lui rend.
-
--*who_phedre
-Je doute qu'Ariane, encor que méprisée,
-Veuille par votre hymen se venger de Thésée ;
-Et si ce changement vous permet d'espérer,
-Il ne faut pas, Seigneur, vous y trop assurer.
-Mais quoi qu'elle résolve après la perfidie
-Qui doit tenir pour lui sa flamme refroidie,
-Qu'elle accepte vos voeux, ou refuse vos soins,
-La gloire vous oblige à ne l'aimer pas moins.
-Vous lui pouvez toujours servir d'appui fidèle,
-Et c'est ce que je viens vous demander pour elle.
-Si le Crète vous force à d'injustes combats,
-Au courroux de Minos ne l'abandonnez pas.
-Vous savez les périls où sa fuite l'expose.
-
--*who_oenarus
-Ah, pour l'en garantir, il n'est rien que je n'ose,
-Madame, et vous verrez mon Trône trébucher
-Avant que je néglige in intérêt si cher.
-Plût aux Dieux que ce soin la tînt seul inquiète !
-
--*who_phedre
-Voyez dans quels ennuis ce changement la jette...
-Son visage vous parle, et sa triste langueur
-Vous fait lire en ses yeux ce que souffre son coeur.
-
-**** *book_ *id_IV02 *act_IV *date_1672 *creator_corneille
-
--*who_oenarus
-Madame, je ne sais si l'ennui qui vous touche
-Doit m'ouvrir pour vous plaindre, ou me fermer la bouche.
-Après les sentiments que j'ai fait voir pour vous,
-Je dois, quoi qui vous blesse, en partager les coups ;
-Mais si j'ose assurer que jusqu'au fond de l'âme
-Je sens le changement qui trompe votre flamme,
-Que je le mets au rang des plus noirs attentats,
-J'aime, il m'ôte un Rival, vous ne me croirai pas.
-Il est certain pourtant, et le Ciel qui m'écoute
-M'en sera le témoin, si votre coeur en doute,
-Que si de tout mon sang je pouvais racheter
-Ce que...
-
--*who_ariane
       Cessez, Seigneur, de me le protester.
 S'il dépendait de vous de me rendre Thésée,
 La gloire y trouverait votre âme disposée,
@@ -1629,10 +1319,6 @@ J'ai pour votre vertu la plus parfaite estime ;
 Et pour être en état de remplir votre espoir,
 Cette estime suffit à qui sait son devoir.
 
--*who_oenarus
-Ah, pour la mériter, si le plus pur hommage...
-
--*who_ariane
 Seigneur, dispensez-moi d'en ouïr davantage.
 J'ai tous les sens encor de trouble embarrassés,
 Ma main dépend de vous, ce vous doit être assez ;
@@ -1658,41 +1344,16 @@ Qu'on le fasse venir, allez Nérine. Ainsi
 De mon coeur, de ma foi, n'ayez aucun souci ;
 Après ce que j'ai dit, vous en êtes le maître.
 
--*who_oenarus
-Ah, Madame, par où puis-je assez reconnaître...
-
--*who_ariane
 Seigneur, un peu de trêve ; en l'état où je suis,
 J'ai comblé votre espoir, c'est tout ce que je puis.
 
-**** *book_ *id_IV03 *act_IV *date_1672 *creator_corneille
-
--*who_phedre
-Ce retour me surprend. Tantôt contre Thésée
-Du plus ardent courroux vous étiez embrasée,
-Et déjà la raison a calmé ce transport ?
-
--*who_ariane
 Que ferais-je, ma Soeur ? C'est un Arrêt du Sort.
 Thésée a résolu d'achever son parjure,
 Il veut me voir souffrir, je me tais, et j'endure.
 
--*who_phedre
-Mais vous répondez-vous d'oublier aisément
-Ce que sa passion eut pour vous de charmant ?
-D'avoir à d'autres voeux un coeur si peu contraire,
-Que...
-
--*who_ariane
       Je n'ai rien promis que je ne veuille faire.
 Qu'il s'engage à l'hymen, j'épouserai le Roi.
 
--*who_phedre
-Quoi ? Par votre aveu même il donnera sa foi ;
-Et lorsque son amour a tant reçu du vôtre,
-Vous le verrez sans peine entre les bras d'une autre ?
-
--*who_ariane
 Entre les bras d'une autre ! Avant ce coup, ma Soeur,
 J'aime, je suis trahie, on connaîtra mon coeur.
 Tant de périls bravés, tant d'amour, tant de zèle,
@@ -1711,10 +1372,6 @@ Car je ne doute point qu'une amitié sincère
 Contre sa trahison n'arme votre colère,
 Que vous ne ressentiez tout ce que sent mon coeur.
 
--*who_phedre
-Madame, vous savez...
-
--*who_ariane
       Je vous connais, ma Soeur.
 Aussi c'est seulement en vous ouvrant mon âme,
 Que dans son désespoir je soulage ma flamme.
@@ -1730,12 +1387,6 @@ C'est elle qui d'abord a frappé mon esprit.
 Vous savez que l'Amour aisément se trahit.
 Observez ses regards, son trouble, son silence.
 
--*who_phedre
-J'y prends trop d'intérêt pour manquer de prudence.
-Dans l'ardeur de venger tant de droits violés,
-C'est donc cette Rivale à qui vous en voulez ?
-
--*who_ariane
 Pour porter sur l'Ingrate un coup vraiment terrible,
 Il faut frapper par là, c'est un endroit sensible.
 Vous-même jugez-en. Elle me fait trahir,
@@ -1760,12 +1411,6 @@ Je le perds, on me l'ôte ; il n'est rien que n'essaye
 La fureur qui m'anime, afin qu'on me le paye.
 J'en mettrai haut le prix, c'est à lui d'y penser.
 
--*who_phedre
-Ce revers est sensible, il faut le confesser.
-Mais quand vous connaîtrez celle qu'il vous préfère,
-Pour venger votre amour, que prétendez-vous faire ?
-
--*who_ariane
 L'aller trouver, la voir, et de ma propre main
 Lui mettre, lui plonger un poignard dans le sein.
 Mais pour mieux adoucir les peines que j'endure,
@@ -1777,12 +1422,6 @@ Alors ma passion trouvera de doux charmes
 Alors il me dira, si se voir lâchement
 Arracher ce qu'on aime, est un léger tourment.
 
--*who_phedre
-Mais sans l'autoriser à vous être infidèle,
-Cette Rivale a pu le voir brûler pour elle
-Elle a peine à ses voeux peut-être consentir.
-
--*who_ariane
 Point de pardon, ma Soeur, il fallait m'avertir.
 Son silence fait voir qu'elle a part au parjure.
 Enfin il faut du sang pour laver mon injure.
@@ -1805,10 +1444,6 @@ Je n'y suis pas peut-être encor toute effacée,
 Et ce sera de quoi mieux combler son ennui,
 Que de vivre à ses yeux pour un autre que lui.
 
--*who_phedre
-Mais pour aimer le Roi, vous sentez-vous dans l'âme...
-
--*who_ariane
 Et le moyen, ma Soeur, qu'un autre Objet m'enflamme ?
 Jamais, soit qu'on se trompe, ou réussisse au choix,
 Les fortes passions ne touchent qu'une fois.
@@ -1821,9 +1456,6 @@ Qu'en parlant pour Thésée, il parlait pour un Traître,
 D'avoir... Mais le voici. Contraignons-nous si bien,
 Que de mon artifice il ne soupçonne rien.
 
-**** *book_ *id_IV04 *act_IV *date_1672 *creator_corneille
-
--*who_ariane
 Enfin à la raison mon courroux rend les armes ;
 De l'Amour aisément on ne vainc pas les charmes.
 Si c'était un effort qui dépendît de nous,
@@ -1844,157 +1476,12 @@ Pour me faire jouir des biens qu'on me prépare,
 C'est à vous de hâter le coup qui nous sépare.
 Votre intérêt le veut encor plus que le mien.
 
--*who_thesee
-Madame, je n'ai pas...
-
--*who_ariane
       Ne me répliquez rien.
 Si ma perte est un mal dont votre coeur soupire,
 Vos remords trouveront le temps de me le dire ;
 Et cependant ma Soeur qui peut vous écouter,
 Saura ce qu'il vous reste encor à consulter.
 
-**** *book_ *id_IV05 *act_IV *date_1672 *creator_corneille
-
--*who_thesee
-Le Ciel à mon amour serait-il favorable,
-Jusqu'à rendre sitôt Ariane exorable ?
-Madame, quel bonheur qu'après tant de soupirs
-Je pusse sans contrainte expliquez mes désirs,
-Vous peindre en liberté ce que pour vous m'inspire...
-
--*who_phedre
-Renfermez-le, de grâce, et craignez d'en trop dire.
-Vous voyez que j'observe, avant que vous parler,
-Qu'aucun témoin ici ne se puisse couler.
-Un grand calme à vos yeux commence de paraître,
-Tremblez, Prince, tremblez, l'orage est prêt de naître.
-Tout ce que vous pouvez vous figurer d'horreur
-Des violents projets de l'Amour en fureur,
-N'est qu'un faible crayon de la secrète rage
-Qui possède Ariane, et trouble son courage.
-L'aveu qu'à votre hymen elle semble donner,
-Vers le piège tendu cherche à vous entraîner.
-C'est par là qu'elle croit découvrir sa Rivale ;
-Et dans les vifs transports que sa vengeance étale,
-Plus le sang nous unit, plus son ressentiment,
-Quand je serai connue, aura d'emportement.
-Rien ne m'en peut sauver, ma mort est assurée.
-Tout à l'heure avec moi sa haine l'a jurée,
-J'en ai reçu l'Arrêt. Ainsi le fort amour
-Souvent, sans le savoir, mettant sa flamme au jour,
-Mon sang doit s'apprêter à laver son outrage.
-Vous l'avez voulu, Prince, achevez votre ouvrage.
-
--*who_thesee
-À quoi que son courroux puisse être disposé,
-Il est pour s'en défendre un moyen bien aisé.
-Ce calme qu'elle affecte afin de me surprendre,
-Ne me fait que trop voir ce que j'en dois attendre.
-La foudre gronde, il faut vous mettre hors d'état
-D'en ouïr la menace, et d'en craindre l'éclat.
-Fuyons d'ici, Madame, et venez dans Athènes,
-Par un heureux hymen, voir la fin de nos peines.
-J'ai mon Vaisseau tout prêt. Dès cette même nuit
-Nous pouvons de ces lieux disparaître sans bruit.
-Quand même pour vos jours nous n'aurions rien à craindre,
-Assez d'autres raisons nous y doivent contraindre.
-Ariane forcée à renoncer à moi,
-N'aura plus de prétexte à refuser le Roi.
-Pour son propre intérêt il faut s'éloigner d'elle.
-
--*who_phedre
-Et qui me répondra que vous serez fidèle ?
-
--*who_thesee
-Ma foi, que ni le temps, ni le Ciel en courroux...
-
--*who_phedre
-Ma Soeur l'avait reçue en fuyant avec vous.
-
--*who_thesee
-L'emmener avec moi fut un coup nécessaire.
-Il fallait la sauver de la fureur d'un Père,
-Et la reconnaissance eut part seule aux serments
-Par qui mon coeur du sien paya les sentiments.
-Ce coeur violenté n'aimait qu'avec étude ;
-Et quand il entrerait un peu d'ingratitude
-Dans ce manque de foi qui vous semble odieux,
-Pourquoi me reprocher un crime de vos yeux ?
-L'habitude à les voir me fit de l'inconstance
-Une nécessité dont rien ne me dispense ;
-Et si j'ai trop flatté cette crédule Soeur,
-Vous en êtes complice aussi bien que mon coeur.
-Vous voyant auprès d'elle, et mon amour extrême
-Ne pouvant avec vous s'expliquer par vous-même,
-Ce que je lui disais d'engageant et de doux,
-Vous ne saviez que trop qu'il s'adressait à vous.
-Je n'examinais point en vous ouvrant mon âme,
-Si c'était d'Ariane entretenir la flamme.
-Je songeais seulement à vous marquer ma foi,
-Je me faisais entendre, et c'était tout pour moi.
-
--*who_phedre
-Dieux, qu'elle en souffrira ! Que d'ennuis ! Que de larmes !
-J'en sens naître en mon coeur les plus rudes alarmes.
-Il voit avec horreur ce qui doit arriver,
-Cependant j'ai trop fait pour ne pas achever.
-Ces foudroyants regards, ces accablants reproches,
-Dont par son désespoir je vois les coups si proches,
-Pour moi, pour une Soeur, sont plus à redouter
-Que cette triste mort qu'elle croit m'apprêter.
-Elle a su votre amour, elle saura le reste.
-De ses pleurs, de ses cris, fuyons l'éclat funeste,
-Je vois bien qu'il le faut, mais las !
-
--*who_thesee
-Vous soupirez ?
-
--*who_phedre
-      Oui, Prince, je veux trop ce que vous désirez.
-Elle se fie à moi cette Soeur, elle m'aime,
-C'est une ardeur sincère, une tendresse extrême,
-Jamais son amitié ne me refusa rien.
-Pour l'en récompenser je lui vole son bien,
-Je l'expose aux rigueurs du sort le plus sévère,
-Je la tue, et c'est vous qui me le faites faire.
-Pourquoi vous ai-je aimé ?
-
--*who_thesee
-      Vous en repentez-vous ?
-
--*who_phedre
-Je ne sais ; pour mon coeur il n'est rien de plus doux,
-Mais vous le remarquez, ce coeur tremble, soupire,
-Et perdant uns Soeur, si j'ose encor le dire,
-Vous la laissez dans Naxe en proie à ses douleurs,
-Votre légèreté me peut laisser ailleurs.
-Qui voudra plaindre alors les ennuis de ma vie
-Sur l'exemple éclatant d'Ariane trahie ?
-Je l'aurai bien voulu, mais c'en est fait, partons.
-
--*who_thesee
-En vain...
-
--*who_phedre
-      Le temps se perd quand nous en consultons.
-Si vous blâmez la crainte où ce soupçon me livre,
-J'en répare l'outrage, en m'offrant à vous suivre.
-Puisqu'à ce grand effort ma flamme se résout,
-Donnez l'ordre qu'il faut, je serai prête à tout.
-
-**** *book_ *id_V01 *act_V *date_1672 *creator_corneille
-
--*who_nerine
-Un peu plus de pouvoir, Madame, sur vous-même.
-À quoi sert ce transport, ce désespoir extrême ?
-Vous avez dans un trouble à nul autre pareil
-Prévenu ce matin le lever du Soleil.
-Dans le Palais errante, interdite, abattue,
-Vous avez laissé voir la douleur qui vous tue.
-Ce ne sont que soupirs, que larmes, que sanglots.
-
--*who_ariane
 On me trahit, Nérine, où trouver du repos ?
 Quoi, ce parfait amour dont mon âme ravie
 Ne croyait voir la fin qu'en celle de ma vie,
@@ -2006,18 +1493,8 @@ Et ce parjure Amant qui se rit de ma foi,
 Quoi qu'il vive toujours, ne vivra plus pour moi ?
 Que fait Pirithoüs ? Viendra-t-il ?
 
--*who_nerine
-      Oui, Madame,
-Je l'ai fait avertir.
-
--*who_ariane
       Quels combats dans mon âme !
 
--*who_nerine
-Pirithoüs viendra ; mais ce transport jaloux
-Qu'attend-il de sa vue, et que lui direz-vous ?
-
--*who_ariane
 Dans l'excès étonnant de mon cruel martyre,
 Hélas ! Demandes-tu ce que je pourrai dire ?
 Dût ma douleur sans cesse avoir le même cours,
@@ -2027,36 +1504,18 @@ Parlait diversement de ma triste aventure ?
 Que la jeune Cyane est celle que l'on croit
 Que Thésée...
 
--*who_nerine
-      On la nomme à cause qu'il la voit,
-Mais qu'en pouvoir juger ? Il voit Phèdre de même,
-Et cependant, Madame, est-ce Phèdre qu'il aime ?
-
--*who_ariane
 Que n'a-t-il pu l'aimer ? Phèdre l'aurait connu,
 Et par là mon malheur eût été prévenu.
 De sa flamme par elle aussitôt avertie,
 Dans sa première ardeur je l'aurais amortie.
 Par où vaincre d'ailleurs les rebuts de ma Soeur ?
 
--*who_nerine
-En vain il aurait cru pouvoir toucher son coeur,
-Je le sais ; mais enfin quand un Amant sait plaire,
-Qui consent à l'ouïr peut l'aimer, et se taire.
-
--*who_ariane
 Je soupçonnerais Phèdre, elle de qui les pleurs
 Semblaient en s'embarquant présager nos malheurs ?
 Avant que la résoudre à seconder ma fuite,
 À quoi pour la gagner ne fus-je pas réduite ?
 Combien de résistance et d'obstinés refus ?
 
--*who_nerine
-Vous n'avez rien, Madame, à craindre là-dessus.
-Je connais sa tendresse, elle est pour vous si forte,
-Qu'elle mourrait plutôt...
-
--*who_ariane
       Je veux la voir, n'importe.
 Va, fais-lui promptement savoir que je l'attends.
 Dis-lui que le sommeil l'arrête trop longtemps,
@@ -2065,21 +1524,11 @@ Qu'elle est heureuse, hélas ! dans son indifférence !
 Son repos n'est troublé d'aucun mortel souci.
 Pirithoüs paraît, fais-la venir ici.
 
-**** *book_ *id_V02 *act_V *date_1672 *creator_corneille
-
--*who_ariane
 Et bien ? Puis-je accepter la main qui m'est offerte ?
 Le Roi sur s'empresse-t-il à réparer ma perte,
 Et pour me laisser libre à payer son amour,
 De l'hymen de Thésée a-t-il choisi le jour ?
 
--*who_pirithous
-Le Roi sur ce projet entretint hier Thésée,
-Mais il trouva son âme encor mal disposée.
-Il est pour les Ingrats de rigoureux instants,
-Thésée en fit l'épreuve, et demanda du temps.
-
--*who_ariane
 Différer d'être heureux après son inconstance,
 C'est montrer en aimant bien peu d'impatience ;
 Et ce nouvel Objet dont son coeur est épris,
@@ -2090,35 +1539,16 @@ Si je dois être au Roi, je voudrais que sa main
 Eût pu déjà fixer mon destin incertain.
 L'irrésolution m'embarrasse et me gêne.
 
--*who_pirithous
-Si l'on m'avait dit vrai, vous seriez hors de peine ;
-Mais, Madame, je puis être mal averti.
-
--*who_ariane
 Et de quoi, Prince ?
 
--*who_pirithous
-      On dit que Thésée est parti.
-Par là vous seriez libre.
-
--*who_ariane
       Ah, que viens-je d'entendre ?
 Il est parti, dit-on ?
 
--*who_pirithous
-      Ce bruit doit vous surprendre.
-
--*who_ariane
 Il est parti ! Le Ciel me trahirait toujours !
 Mais non ; que deviendraient ses nouvelles amours ?
 Ferait-il cet outrage à l'Objet qui l'enflamme ?
 L'abandonnerait-il ?
 
--*who_pirithous
-      Je ne sais ; mais, Madame,
-Un vaisseau cette nuit s'est échappé du Port.
-
--*who_ariane
 Ce n'est pas lui sans doute, on le soupçonne à tort.
 Peut-être est-il parti sans que le Roi le sache ?
 Sans que Pirithoüs à qui rien ne se cache,
@@ -2127,37 +1557,20 @@ Que ne peut-il faire ? Il m'ose abandonner,
 Oublier un amour, qui toujours trop fidèle
 M'oblige encor pour lui...
 
-**** *book_ *id_V03 *act_V *date_1672 *creator_corneille
-
--*who_ariane
       Que fait ma Soeur ? Vient-elle ?
 Avec quelle surprise elle va recevoir
 La nouvelle d'un coup qui confond mon espoir !
 D'un coup par qui ma haine à languir est forcée !
 
--*who_nerine
-Madame, j'ai longtemps...
-
--*who_ariane
       Où l'as-tu donc laissé ?
 Parle.
 
--*who_nerine
-      De tous côtés j'ai couru vainement,
-On ne la trouve point dans son appartement.
-
--*who_ariane
 On ne la trouve point ! Quoi, si matin ! Je tremble
 Tant de maux à mes yeux viennent s'offrir ensemble,
 Que stupide, égarée, en ce trouble importun,
 De crainte d'en trop voir, je n'en regarde aucun.
 N'as-tu rien ouï dire ?
 
--*who_nerine
-      On parle de Thésée.
-On veut que cette nuit voyant la fuite aisée...
-
--*who_ariane
 Ô nuit ! Ô trahison dont la double noirceur
 Passe tout... Mais pourquoi m'alarmer de ma Soeur ?
 Sa tendresse pour moi, l'intérêt de sa gloire,
@@ -2170,66 +1583,25 @@ Quoique mon coeur rejette un doute injurieux,
 Il a besoin, ce coeur, du secours de mes yeux.
 La moindre inquiétude est trop tard apaisée.
 
-**** *book_ *id_V04 *act_V *date_1672 *creator_corneille
-
--*who_arcas
-Seigneur, je vous apporte un Billet de Thésée.
-
--*who_ariane
 Donnez, je le verrai. Par qui l'a-t-on reçu ?
 D'où l'a-t-on envoyé ? Qu'a-t-on fait ? Qu'a-t-on su ?
 Il est parti, Nérine. Ah, trop funeste marque !
 
--*who_arcas
-On vient de voir au Port arriver une Barque.
-C'est de là qu'est venu le Billet que voici.
-
--*who_ariane
 Lisons, mon amour tremble à se voir éclairci.
 
--*who_thesee
-Pardonnez une fuite où l'Amour me condamne ;
-Je pars sans vous en avertir.
-Phèdre du même amour n'a pu se garantir,
-Elle fuit avec moi ; prenez soin d'Ariane.
-Prenez soin d'Ariane ! Il viole sa foi,
-Ma désespère, et veut qu'on prenne soin de moi.
-
--*who_pirithous
-Madame, en vos malheurs qui font peine à comprendre...
-
--*who_ariane
 Laissez-moi, je ne veux vous voir, ni vous entendre.
 C'est vous, Pirithoüs, dont le funeste abord,
 Toujours fatal pour moi, précipite ma mort.
 
--*who_pirithous
-J'ignore...
-
--*who_ariane
       Allez au Roi porter cette nouvelle.
 Nérine me demeure, il me suffira d'elle.
 
--*who_pirithous
-D'un départ si secret le Roi sera surpris.
-
--*who_ariane
 Sans son ordre Thésée eût-il rien entrepris ?
 Son aveu l'autorise, et de ses injustices
 Le Roi, vous, et les Dieux, vous êtes tous complices.
 
-**** *book_ *id_V05 *act_V *date_1672 *creator_corneille
-
--*who_ariane
 Ah, Nérine !
 
--*who_nerine
-      Madame, après ce que je vois,
-Je l'avoue, il n'est plus ni d'honneur, ni de foi.
-Sur les plus saints devoirs l'Injustice l'emporte.
-Que de chagrins !
-
--*who_ariane
       Tu vois, ma douleur est si forte,
 Que succombant aux maux qu'on me fait découvrir,
 Je demeure insensible à force de souffrir.
@@ -2271,12 +1643,6 @@ Mettons un prompt obstacle à ce qu'on lui promet ;
 Elle n'est pas encor où son espoir la met.
 Sa mort, sa seule mort, mais une mort cruelle...
 
--*who_nerine
-Calmez cette douleur, où vous emporte-t-elle ?
-Madame, songez-vous que tous ces vains projets
-Par l'éclat de vos cris s'entendent au Palais ?
-
--*who_ariane
 Qu'importe que partout mes plaintes soient ouïes !
 On connaît, on a vu des Amantes trahies,
 À d'autres quelquefois on a manqué de foi,
@@ -2314,31 +1680,13 @@ De cette assassinante et trop funeste idée,
 Quelques bras que contre eux ma haine puisse unir,
 Je souffre plus encor qu'elle ne peut punir.
 
-**** *book_ *id_V06 *act_V *date_1672 *creator_corneille
-
--*who_oenarus
-Je ne viens point, Madame, opposer à vos plaintes,
-De faux raisonnements, ou d'injustes contraintes ;
-Je viens vous protester que tout ce qu'en ma Cour...
-
--*who_ariane
 Je sais ce que je dois, Seigneur, à votre amour.
 Je connais même à quoi ma parole m'engage ;
 Mais...
 
--*who_oenarus
-      À vos déplaisirs épargnons cette image,
-Vous répondriez mal d'un coeur...
-
--*who_ariane
       Comment, hélas !
 Répondrais-je de moi ? Je ne me connais pas.
 
--*who_oenarus
-Si du secours du temps ma foi favorisée
-Pour mériter qu'un jour vous oubliiez Thésée...
-
--*who_ariane
 Si j'oubliais Thésée ? Ah Dieux, mon lâche coeur
 Nourrirait pour Thésée une honteuse ardeur !
 Thésée encor sur moi garderait quelque empire !
@@ -2350,10 +1698,6 @@ S'uniront avec moi pour me venger d'un Traître,
 Que j'oublierai Thésée, et que pour m'émouvoir,
 Remords, larmes, soupirs, manqueront de pouvoir.
 
--*who_pirithous
-Madame, si j'osais...
-
--*who_ariane
       Non, parjure Thésée,
 Ne crois pas que jamais je puisse être apaisée.
 Ton amour y ferait des efforts superflus.
@@ -2375,25 +1719,387 @@ Puisse voir ma fureur de son sang enivrée.
 Par ce terrible éclat signalez ce grand jour,
 Et méritez ma main en vengeant mon amour.
 
--*who_oenarus
-Consultons-en le temps, Madame, et s'il faut faire...
-
--*who_ariane
 Le temps ! Mon désespoir souffre-t-il qu'on diffère ?
 Puisque tout m'abandonne, il est pour mon secours
 Une plus sûre voie, et des moyens plus courts.
 Tu m'arrêtes, cruel ?
 
--*who_nerine
-      Que faites-vous, Madame ?
-
--*who_ariane
 Soutiens-moi, je succombe aux transports de mon âme.
 Si dans mes déplaisirs tu veux me secourir,
 Ajoute à ma faiblesse, et me laisse mourir.
 
--*who_oenarus
-Elle semble pâmer. Qu'on la secoure, vite.
-Sa douleur est un mal qu'un prompt remède irrite ;
-Et c'en serait sans doute accroître les efforts,
-Qu'opposer quelque obstacle à ses premiers transports.
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedre
+
+Vous pouvez là-dessus vous répondre vous-même.
+Prince, je vous l'ai dit, il est vrai, je vous aime,
+Et quand d'un coeur bien né la gloire est le secours,
+L'avoir dit une fois, c'est le dire toujours.
+Je n'examine point si je pouvais sans blâme
+Au feu qui m'a surprise abandonner mon âme,
+Peut-être à m'en défendre aurais-je trouvé jour,
+Mais il entre souvent du destin dans l'amour,
+Et dût-il m'en coûter un éternel martyre,
+Le destin l'a voulu, c'est à moi d'y souscrire.
+J'aime donc ; mais malgré l'appas flatteur et doux
+Des tendres sentiments qui me parlent pour vous,
+Je ne puis oublier qu'Ariane exilée
+S'est pour vos intérêts elle-même immolée ;
+Qu'aucun amour jamais n'eut tant de fermeté,
+Qu'ayant tout fait pour vous elle a tout mérité,
+Et plus l'instant approche où cette Infortunée
+Après un long espoir doit être abandonnée,
+Plus un secret remords trouve à me reprocher
+Que lui vole un bien qui lui coûte si cher.
+Vous lui devez ce coeur dont vous m'offrez l'hommage.
+Vous lui devez la foi que votre amour m'engage ;
+Vous lui devez ces voeux que déjà tant de fois...
+
+J'aurais de ces combats affranchi votre coeur,
+Si j'eusse eu pour Rivale une autre qu'une Soeur ;
+Mais trahir l'amitié dont on la voit sans cesse...
+Non, Thésée, elle m'aime avec trop de tendresse.
+D'un supplice si rude il faut la garantir,
+Sans doute elle en mourrait, je n'y puis consentir.
+Rendez-lui votre amour, cet amour qui sans elle
+Aurait peut-être dû me demeurer fidèle ;
+Cet amour qui toujours trop propre à me charmer,
+N'ose...
+
+Il en est un moyen que ma gloire envisage
+Il faut de votre coeur arracher cette image.
+Ma vue étant pour vous un mal contagieux,
+Pour dégager ce coeur, commencez par les yeux.
+Fuyez de mes regards la trop flatteuse amorce ;
+Plus vous les souffrirez, plus ils auront de force.
+Ce n'est qu'en s'éloignant qu'on pare de tels coups
+Si le triomphe est rude, il est digne de vous.
+Il est beau d'étouffer ce qui peut trop nous plaire
+D'immoler à sa gloire...
+
+Cruel, pourquoi vouloir accroître mon supplice ?
+M'accable-t-il si peu, qu'il y faille ajouter ?
+Les plaintes d'un amour que je n'ose écouter ?
+Puisque mon fier devoir le condamne à se taire,
+Laissez-moi me cacher que vous m'avez su plaire.
+Laissez-moi déguiser à mes chagrins jaloux,
+Qu'il n'est point d'heur pour moi, point de repos sans vous.
+C'est trop ; déjà mon coeur à ma gloire infidèle,
+De mes sens mutinés suit le parti rebelle ;
+Il se trouble, il s'emporte, et dès que je vous vois,
+Ma tremblante vertu ne répond plus de moi.
+
+Mais sur quoi vous flattez d'obtenir son aveu ?
+Sachant que vous m'aimez...
+
+      Allez, Prince, on vous aime, il suffit.
+Peut-être que sur moi la crainte a trop d'empire.
+Suivez ce qu'en secret votre coeur vous inspire ;
+Et de quoi que le mien puisse encor s'allumer,
+N'écoutez que l'Amour, si vous savez aimer.
+
+Quoi, Thésée...
+
+Un revers si cruel vous rend sans doute à plaindre ;
+Et vous voyant souffrir ce qu'on n'a pas dû craindre,
+On conçoit aisément jusqu'où le désespoir...
+
+Je vais mander Thésée, et si son coeur ne cède,
+Madame, en lui parlant, vous devez présumer...
+
+Les Dieux me sont témoins que de son injustice
+Je souffre malgré moi qu'il me rende complice.
+Ce qu'il doit à ma Soeur méritait que sa foi
+Se fît de l'aimer seule une sévère loi ;
+Et quand des longs ennuis où ce refus l'expose,
+Par ma facilité je me trouve la cause,
+Il n'est peine, supplice, où pour l'en garantir
+La pitié de ses maux ne me fît consentir.
+L'amour que j'ai pour lui me noircit peu vers elle.
+Je l'ai pris sans songer à le rendre infidèle ;
+Ou plutôt j'ai senti tout mon coeur s'enflammer,
+Avant que de savoir si je voulais aimer.
+Mais si ce feu trop prompt n'eut rien de volontaire,
+Il dépendait de moi de parler, ou me taire.
+J'ai parlé, c'est mon crime, et Thésée applaudi
+À l'infidélité par là s'est enhardi.
+Ah, qu'on se défend mal auprès de ce qu'on aime !
+Ses regards m'expliquaient sa passion extrême ;
+Les miens à la flatter s'échappaient malgré moi,
+N'étaient-ce pas assez pour corrompre sa foi ?
+J'eus beau vouloir régler son âme trop charmée,
+Il fallut voir sa flamme, et souffrir d'être aimée ;
+J'en craignis le péril, il me sut éblouir.
+Que de faiblesse ? Il faut l'empêcher d'en jouir,
+Combattre incessamment son infidèle audace.
+Allez, Pirithoüs, revoyez-le, de grâce.
+De peur qu'en mon amour il prenne trop d'appui,
+Ôtez-lui tout espoir que je puisse être à lui ;
+J'ai déjà beaucoup dit, dites-lui plus encore.
+
+Quoi, je la trahirais, elle qui trop facile,
+Trop aveugle à m'aimer, se confie à ma foi,
+Pour toucher un Amant qui la quitte pour moi ?
+Et quand elle saurait que par mes faibles charmes,
+Pour lui percer le coeur j'aurais prêté des armes,
+Je pourrais à ses yeux lâchement exposer
+Les criminels appas qui la font mépriser ?
+Je pourrais soutenir le sensible reproche
+Qu'un trop juste courroux...
+
+Madame, j'ai tout fait pour ébranler son âme.
+J'ai peint son changement lâche, odieux, infâme.
+Pirithoüs lui-même est témoin des efforts
+Par où j'ai cru pouvoir le contraindre au remords.
+Il connaît et son crime et son ingratitude,
+Il s'en hait, il en sent la peine la plus rude,
+Ses ennuis de vos maux égalent la rigueur ;
+Mais l'Amour en Tyran dispose de son coeur,
+Et le Destin plus fort que sa reconnaissance,
+Malgré ce qu'il vous doit, l'entraîne à l'inconstance.
+
+Si vous saviez pour vous ce qu'a fait ma tendresse,
+Vous soupçonneriez moins...
+
+Ariane, Seigneur, en fait la triste épreuve,
+Et si de ses ennuis vous n'arrêtez le cours,
+J'ignore, pour le rompre, où chercher du secours.
+Son coeur est accablé d'une douleur mortelle.
+
+Je doute qu'Ariane, encor que méprisée,
+Veuille par votre hymen se venger de Thésée ;
+Et si ce changement vous permet d'espérer,
+Il ne faut pas, Seigneur, vous y trop assurer.
+Mais quoi qu'elle résolve après la perfidie
+Qui doit tenir pour lui sa flamme refroidie,
+Qu'elle accepte vos voeux, ou refuse vos soins,
+La gloire vous oblige à ne l'aimer pas moins.
+Vous lui pouvez toujours servir d'appui fidèle,
+Et c'est ce que je viens vous demander pour elle.
+Si le Crète vous force à d'injustes combats,
+Au courroux de Minos ne l'abandonnez pas.
+Vous savez les périls où sa fuite l'expose.
+
+Voyez dans quels ennuis ce changement la jette...
+Son visage vous parle, et sa triste langueur
+Vous fait lire en ses yeux ce que souffre son coeur.
+
+Ce retour me surprend. Tantôt contre Thésée
+Du plus ardent courroux vous étiez embrasée,
+Et déjà la raison a calmé ce transport ?
+
+Mais vous répondez-vous d'oublier aisément
+Ce que sa passion eut pour vous de charmant ?
+D'avoir à d'autres voeux un coeur si peu contraire,
+Que...
+
+Quoi ? Par votre aveu même il donnera sa foi ;
+Et lorsque son amour a tant reçu du vôtre,
+Vous le verrez sans peine entre les bras d'une autre ?
+
+Madame, vous savez...
+
+J'y prends trop d'intérêt pour manquer de prudence.
+Dans l'ardeur de venger tant de droits violés,
+C'est donc cette Rivale à qui vous en voulez ?
+
+Ce revers est sensible, il faut le confesser.
+Mais quand vous connaîtrez celle qu'il vous préfère,
+Pour venger votre amour, que prétendez-vous faire ?
+
+Mais sans l'autoriser à vous être infidèle,
+Cette Rivale a pu le voir brûler pour elle
+Elle a peine à ses voeux peut-être consentir.
+
+Mais pour aimer le Roi, vous sentez-vous dans l'âme...
+
+Renfermez-le, de grâce, et craignez d'en trop dire.
+Vous voyez que j'observe, avant que vous parler,
+Qu'aucun témoin ici ne se puisse couler.
+Un grand calme à vos yeux commence de paraître,
+Tremblez, Prince, tremblez, l'orage est prêt de naître.
+Tout ce que vous pouvez vous figurer d'horreur
+Des violents projets de l'Amour en fureur,
+N'est qu'un faible crayon de la secrète rage
+Qui possède Ariane, et trouble son courage.
+L'aveu qu'à votre hymen elle semble donner,
+Vers le piège tendu cherche à vous entraîner.
+C'est par là qu'elle croit découvrir sa Rivale ;
+Et dans les vifs transports que sa vengeance étale,
+Plus le sang nous unit, plus son ressentiment,
+Quand je serai connue, aura d'emportement.
+Rien ne m'en peut sauver, ma mort est assurée.
+Tout à l'heure avec moi sa haine l'a jurée,
+J'en ai reçu l'Arrêt. Ainsi le fort amour
+Souvent, sans le savoir, mettant sa flamme au jour,
+Mon sang doit s'apprêter à laver son outrage.
+Vous l'avez voulu, Prince, achevez votre ouvrage.
+
+Et qui me répondra que vous serez fidèle ?
+
+Ma Soeur l'avait reçue en fuyant avec vous.
+
+Dieux, qu'elle en souffrira ! Que d'ennuis ! Que de larmes !
+J'en sens naître en mon coeur les plus rudes alarmes.
+Il voit avec horreur ce qui doit arriver,
+Cependant j'ai trop fait pour ne pas achever.
+Ces foudroyants regards, ces accablants reproches,
+Dont par son désespoir je vois les coups si proches,
+Pour moi, pour une Soeur, sont plus à redouter
+Que cette triste mort qu'elle croit m'apprêter.
+Elle a su votre amour, elle saura le reste.
+De ses pleurs, de ses cris, fuyons l'éclat funeste,
+Je vois bien qu'il le faut, mais las !
+
+      Oui, Prince, je veux trop ce que vous désirez.
+Elle se fie à moi cette Soeur, elle m'aime,
+C'est une ardeur sincère, une tendresse extrême,
+Jamais son amitié ne me refusa rien.
+Pour l'en récompenser je lui vole son bien,
+Je l'expose aux rigueurs du sort le plus sévère,
+Je la tue, et c'est vous qui me le faites faire.
+Pourquoi vous ai-je aimé ?
+
+Je ne sais ; pour mon coeur il n'est rien de plus doux,
+Mais vous le remarquez, ce coeur tremble, soupire,
+Et perdant uns Soeur, si j'ose encor le dire,
+Vous la laissez dans Naxe en proie à ses douleurs,
+Votre légèreté me peut laisser ailleurs.
+Qui voudra plaindre alors les ennuis de ma vie
+Sur l'exemple éclatant d'Ariane trahie ?
+Je l'aurai bien voulu, mais c'en est fait, partons.
+
+      Le temps se perd quand nous en consultons.
+Si vous blâmez la crainte où ce soupçon me livre,
+J'en répare l'outrage, en m'offrant à vous suivre.
+Puisqu'à ce grand effort ma flamme se résout,
+Donnez l'ordre qu'il faut, je serai prête à tout.
+
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
+Le Roi, de ce refus eût eu lieu de se plaindre,
+Madame, vous devez un moment vous contraindre ;
+Et quoiqu'en l'écoutant vous ne puissiez douter
+Que c'est son amour seul qu'il vous faut écouter,
+Votre hymen dont enfin l'heureux moment s'avance,
+Semble vous obliger à cette complaisance.
+Il vous perd, et la plainte a de quoi soulager.
+
+Je crois que de son coeur vous avez tout l'hommage ;
+Mais au point que de lui je vois vos sens charmés,
+C'est beaucoup s'il vous aime autant que vous l'aimez.
+
+Je ne m'étonne point de cette indifférence.
+N'ayant jamais aimé, son coeur ne conçoit pas...
+
+Apprenez-le du Roi, qui de vous trop charmé
+Ne souffrirait pas tant, s'il n'avait point aimé.
+
+      Je vous plains.
+
+Pirithoüs ne dit que ce qu'il lui fait dire ;
+Et quand il a voulu l'attendre si longtemps,
+Ce n'était qu'un prétexte à ses feux inconstants.
+Il nourrissait dès lors l'ardeur qui le domine.
+
+      Qu'aurait fait sa présence,
+Qu'accroître de vos maux la triste violence ?
+
+Vous l'avez commandé.
+
+Que vouliez-vous qu'il fît ? Vous pressiez sa retraite
+
+      Son crime auprès de vous le gêne,
+Madame, et n'ayant point d'excuse à vous donner,
+S'il vous fuit, j'y vois peu de quoi vous étonner.
+Il s'épargne une peine à peu d'autres égale.
+
+Un peu plus de pouvoir, Madame, sur vous-même.
+À quoi sert ce transport, ce désespoir extrême ?
+Vous avez dans un trouble à nul autre pareil
+Prévenu ce matin le lever du Soleil.
+Dans le Palais errante, interdite, abattue,
+Vous avez laissé voir la douleur qui vous tue.
+Ce ne sont que soupirs, que larmes, que sanglots.
+
+      Oui, Madame,
+Je l'ai fait avertir.
+
+Pirithoüs viendra ; mais ce transport jaloux
+Qu'attend-il de sa vue, et que lui direz-vous ?
+
+      On la nomme à cause qu'il la voit,
+Mais qu'en pouvoir juger ? Il voit Phèdre de même,
+Et cependant, Madame, est-ce Phèdre qu'il aime ?
+
+En vain il aurait cru pouvoir toucher son coeur,
+Je le sais ; mais enfin quand un Amant sait plaire,
+Qui consent à l'ouïr peut l'aimer, et se taire.
+
+Vous n'avez rien, Madame, à craindre là-dessus.
+Je connais sa tendresse, elle est pour vous si forte,
+Qu'elle mourrait plutôt...
+
+Madame, j'ai longtemps...
+
+      De tous côtés j'ai couru vainement,
+On ne la trouve point dans son appartement.
+
+      On parle de Thésée.
+On veut que cette nuit voyant la fuite aisée...
+
+      Madame, après ce que je vois,
+Je l'avoue, il n'est plus ni d'honneur, ni de foi.
+Sur les plus saints devoirs l'Injustice l'emporte.
+Que de chagrins !
+
+Calmez cette douleur, où vous emporte-t-elle ?
+Madame, songez-vous que tous ces vains projets
+Par l'éclat de vos cris s'entendent au Palais ?
+
+      Que faites-vous, Madame ?
+
+
+**** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
+Ariane vous charme, et sans doute elle est belle ;
+Mais Seigneur, quand l'Amour vous a parlé pour elle,
+Avez-vous ignoré que déjà d'autres feux
+La mettaient hors d'état de répondre à vos voeux ?
+Sitôt que dans cette Île où les vents la poussèrent,
+Aux yeux de votre Cour ses beautés éclatèrent,
+Vous sûtes que Thésée avait par son secours
+Du labyrinthe en Crète évité les détours,
+Et que pour reconnaître une amour si fidèle,
+Vainqueur du Minotaure, il fuyait avec elle.
+Quel espoir vous laissaient des noeuds si bien formés ?
+Ils étaient l'un de l'autre également charmés.
+Chacun d'eux l'avouait, et vous-même en cette Île
+Contre le fier Minos leur promettant asile,
+Vous les pressiez d'abord d'avancer l'heureux jour
+Qui devait par l'hymen couronner leur amour.
+
+Dans l'étroite amitié qui depuis tant d'années
+De deux Amis si chers unit les destinées,
+Il n'est pas surprenant que malgré de beaux feux,
+Thésée ait jusqu'ici refusé d'être heureux.
+C'est de quoi mieux goûter le fruit de sa victoire,
+Qu'avoir Pirithoüs pour témoin de sa gloire.
+Mais, Seigneur, Ariane a-t-elle en son Amant
+Blâmé pour un Ami ce trop d'empressement ?
+En avez-vous trouvé plus d'accès auprès d'elle ?
+
+Avec un tel secours vous êtes moins à plaindre ;
+Mais Phèdre est sans amour, et d'un mérite à craindre.
+Vous la voyez souvent, et j'admire, Seigneur,
+Que sa beauté n'ait rien qui touche votre coeur.
+
+Mais d'un pareil amour n'êtes-vous pas le maître ?
+Qui peut tout, ose tout.
+
+Seigneur, je vous apporte un Billet de Thésée.
+
+On vient de voir au Port arriver une Barque.
+C'est de là qu'est venu le Billet que voici.
+

@@ -1,427 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1791
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
 
--*who_dumont
-Qui ? Moi, servir un sou !
-
--*who_lisette
-      Je le veux.
-
--*who_dumont
-      En honneur,
-Cela me coûte un peu.
-
--*who_lisette
-      Consulte mieux ton cœur :
-J'ai répondu de toi. Dans l'instant, ma maîtresse
-Va venir en ces lieux, et de tous tes devoirs
-Elle pourra t'instruire.
-
--*who_dumont
-      Ah ! C'est avec tristesse
-Que je me place ici.
-
--*who_lisette
-      J'oubliais. Tous les soirs,
-Tu sais que dans sa chambre on enferme ton maître :
-Tu rempliras ce soin ; il est très important.
-
--*who_dumont
-Vous me quittez déjà ?
-
--*who_lisette
-      Mais on m'attend peut-être.
-
--*who_dumont
-Lisette, de grâce, un instant.
-Devant servir Dorval, dites-moi son histoire ;
-Je la sais imparfaitement.
-
--*who_lisette
-J'y consens, non sans peine, et tu pourras m'en croire :
-Retracer son malheur est un nouveau tourment.
-Dorval se signala dans la guerre dernière ;
-Mais ardent, intrépide, et moins chef que soldat,
-Un jour, on le laissa mourant dans un combat.
-Il eût terminé sa carrière,
-Quand un hasard propice, en ce moment fatal,
-L'amena dans cet hôpital.
-Tu sais qu'il est servi par ces sœurs charitables,
-Qui rendent au malheur des soins si respectables,
-Dont la religion est dans sa pureté,
-En bornant leur devoir à tant d'humanité.
-Une d'elles, c'était la sœur Adélaïde,
-Ayant pris ses vertus et son âme pour guide,
-À vingt ans, dans ce lieu de mort, de piété,
-Avait enseveli sa grâce et sa beauté.
-Un ensemble enchanteur d'agréments, d'innocence,
-D'esprit et d'enjouement, que paraît la décence ;
-L'âme la plus sensible, un cœur fait pour aimer ;
-C'est ainsi que le ciel se plut à la former :
-Douce, compatissante, à son devoir fidèle,
-Aucune de ses sœurs n'approchait de son zèle ;
-Oubliant et son sexe et sa faible santé,
-Sa force se doublait par son humanité,
-Et l'être tourmenté d'une horrible souffrance,
-Se sentait soulagé par sa seule présence.
-
--*who_dumont
-Ah ! Que ce récit est touchant !
-Oui, sans avoir connu cet objet attachant,
-Un cœur sensible doit comprendre
-Qu'on l'adorait sans pouvoir s'en défendre.
-
--*who_lisette
-Dorval, percé de coups, fut remis à ses soins ;
-Sans elle il eût péri : nous en fûmes témoins.
-Comment exprimerai-je un dévouement si tendre ?
-Il semblait que ses jours des siens dussent dépendre.
-Quels pénibles instants ! Que de nuits sans repos,
-Consacrés à le plaindre, à soulager ses maux !
-Le ciel ne rendit pas son espérance vaine ;
-Il voulut couronner tant de soins, tant de peine,
-Et Dorval, né sensible, en conservant le jour,
-Vit la reconnaissance allumer son amour.
-Longtemps Adélaïde, à ses devoirs fidèle,
-Partageant une flamme et si pure et si belle,
-Résistant à Dorval, combattant son projet,
-Dans le fond de son cœur sut cacher son secret.
-Mais tout cède à l'amour, à la persévérance.
-Elle voulut enfin couronner sa constance.
-
--*who_dumont
-Lisette, que ce jour pour lui dut être beau !
-L'amour vint de l'hymen allumer le flambeau ?
-
--*who_lisette
-Non. Jamais le bonheur est-il long dans la vie ?
-Adélaïde, hélas ! des longtemps affaiblie,
-Sent d'affreuses douleurs ; on la secourt en vain :
-Ce mal terrible augmente ; il finit son destin.
-Peins-toi Dorval, son désespoir, sa rage :
-De sa raison il perd l'usage,
-Et ce dernier malheur est peut-être un bienfait ;
-Car, de sa passion, il croit revoir l'objet.
-L'imagination, l'effort de sa pensée
-Toujours offre à ses yeux cette image tracée ;
-Dans les mêmes habits, avec les mêmes traits
-Qui doivent de son cœur ne s'effacer jamais.
-Il est heureux, et croire voir sans cesse
-L'objet qu'il adorait, suffit à sa tendresse ;
-Il lui parle, l'appelle encore en son sommeil ;
-La même illusion l'attend à on réveil.
-
--*who_dumont
-On dit qu'il suit partout cette image si chère.
-
--*who_lisette
-Le lieu qui la retrace est celui qu'il préfère.
-
--*who_dumont
-Il s'expose, en suivant l'ombre qui le conduit.
-
--*who_lisette
-Rien n'arrête ses pas ; sitôt qu'il la poursuit,
-Nous l'observons sans cesse : un laquais qui le quitte,
-À ces soins importants ne mettait nulle suite ;
-Mais me voilà tranquille, il est entre tes mains.
-
--*who_dumont
-Pourquoi votre maîtresse a-t-elle à ses destins
-Pris autant d'intérêt ?
-
--*who_lisette
-      Jeune, veuve, sensible,
-Libre de tout lien qui pouvait l'empêcher
-De lui rendre des soins, il était impossible
-Qu'un aussi grand malheur ne sût pas la toucher.
-D'ailleurs, Dorval paraît plus tranquille auprès d'elle :
-Pour causer avec lui, chaque jour, il l'appelle.
-La conversation n'a jamais qu'un sujet,
-Et son Adélaïde en est toujours l'objet.
-
--*who_dumont
-D'où vient donc ce penchant ?
-
--*who_lisette
-      Quelquefois il me semble
-Qu'à celle qu'il aimait ma maîtresse ressemble :
-Me rappelant ses traits, j'y pensais aujourd'hui.
-Personne qu'elle ici n'a de crédit sur lui...
-Il se peut que Dorval, par cette ressemblance,
-Pour ma maîtresse éprouve un invincible attrait :
-Sans en chercher la cause, il n'en sent que l'effet.
-Peut-elle s'en douter ?
-
--*who_dumont
-      Je la vois qui s'avance.
-
-**** *book_ *id_I02 *act_I *date_1791
-
--*who_lisette
-Madame, vous voyez l'homme que j'ai promis ;
-Il se nomme Dumont, est fidèle, soumis.
-À mille qualités, il joint beaucoup d'adresse.
-
--*who_lacomtesse
-Dumont, l'on vous a dit combien je m'intéresse
-À celui près de qui l'on vient de vous placer ;
-À lui-même, jamais il ne faut le laisser,
-Ce serait dangereux. La place est difficile
-À bien remplir ; car, il est même utile
-Qu'il ne se doute pas qu'on l'observe en tous lieux :
-Il y faut de l'adresse et le suivre des yeux.
-À son cœur tourmenté la solitude est chère ;
-La troubler trop souvent, le mettrait en colère,
-Et cet état peut nuire à sa santé.
-Du reste, il est très doux et rempli de bonté,
-Reconnaissant des soins que pour lui l'on veut prendre.
-Je crois que... de l'aimer on ne peut se défendre.
-
--*who_dumont
-À mes devoirs plus j'ai pensé,
-Plus j'en vis l'importance, et même ai balancé
-S'il fallait accepter cet emploi difficile ;
-Mais sentant qu'en ces lieux je puis vous être utile,
-Et touché du récit que Lisette m'a fait,
-Je me suis décidé : je serai satisfait
-Si mes soins, mes efforts, répondent à mon zèle.
-
--*who_lacomtesse
-Ah ! Je n'en doute pas. Voyez donc avec elle
-Où peut être Dorval... J'attends mon père ici.
-
--*who_dumont
-Je cours à mon devoir.
-
--*who_lisette
-      Madame, le voici.
-
-**** *book_ *id_I03 *act_I *date_1791
-
--*who_mondor
-Je vous trouve à propos ; ici calmes, tranquilles,
-Nous causerons en paix ; tous détours inutiles
-Sont indignes d'un père aussi tendre que moi :
-Je vais être de bonne foi.
-Depuis qu'en mon château, par pure bonhomie,
-Par pitié, j'ai logé l'infortuné Dorval,
-Vous le savez, je n'eus point d'autre envie
-Que de tout essayer pour soulager son mal.
-Peut-être faudra-t-il un jour que je déteste
-Cette complaisance funeste.
-
--*who_lacomtesse
-Ah ciel ! Serait-il vrai ?
-
--*who_mondor
-Puissai-je me tromper !
-
--*who_lacomtesse
-Ah ! De grâce ! Parlez, expliquez ce mystère.
-
--*who_mondor
-Calmez-vous donc. Écoutez-moi, ma chère :
-En vous voyant d'abord vous occuper
-De donner à Dorval mille soins estimables,
-Je ne pus les trouver dangereux, condamnables.
-Je reconnus votre âme, et je me dis souvent :
-C'est un bonheur, et ma fille, à présent,
-A peu d'intérêt dans sa vie ;
-Rien en ces lieux ne la diversifie :
-Obligeante, sensible, un soin aussi touchant,
-En occupant son cœur, satisfait son penchant.
-
--*who_lacomtesse
-Eh bien ! Mon père ?
-
--*who_mondor
-      On s'aveugle sans cesse ;
-C'est un malheur de la tendresse :
-Ne nous éclairant pas, elle sert de bandeau.
-Dans mon cœur tout-à-coup un sentiment nouveau,
-À ma sécurité m'arracha non, sans peine.
-Souvent, le hasard nous amène
-Un moyen d'éclairer notre faible raison.
-Un jour, je vous vis seule, auprès de la maison,
-Et Dorval vous quittait : votre âme était émue ;
-Quelques pleurs de vos yeux coulèrent à ma vue :
-Jugez si mon cœur fut inquiet, attendri ;
-Vous étiez seule, et vous aviez rougi.
-
--*who_lacomtesse
-Mon père...
-
--*who_mondor
-      Ah ! Mon enfant, jugez de mes alarmes.
-Jamais cette rougeur, votre embarras, vos larmes,
-Ne sortirent depuis de mon cœur attristé.
-Vainement, mille fois, je me suis répété,
-Que ce que je craignais n'était qu'une chimère :
-Plus j'observe votre âme avec les yeux d'un père,
-Et plus d'un sentiment qui me ferait frémir
-Les symptômes secrets semblent se découvrir.
-S'il en est temps, fuyez un danger qui m'accable,
-Un danger que je crois peut-être inévitable.
-Ciel ! Aimer... qui ? Cet être malheureux,
-Que l'amour pour une autre embrase de ses feux ;
-Qui n'a plus sa raison, et qu'un tendre délire,
-Sans doute avec le temps au tombeau doit conduire ?
-
--*who_lacomtesse
-Que dites-vous ? Vous déchirez mon cœur.
-
--*who_mondor
-Voulez-vous faire mon malheur,
-En bravant, sans prudence, une inutile flamme ?
-
--*who_lacomtesse
-Écoutez-moi mon père, et lisez dans mon âme.
-Je l'avouerai. Dès le premier moment
-Que j'aperçus Dorval, un secret sentiment,
-De soulager ses maux, sut m'inspirer l'envie.
-Était-il un malheur plus rare, plus touchant ?
-Cherchant à l'adoucir, je suivais mon penchant :
-De mes premiers progrès, mon âme fut ravie :
-Pouvais-je calculer et mes soins et mon temps ?
-D'abord il eut quelques instants :
-Bientôt, j'y consacrai ma vie.
-Sans rien examiner, sans descendre en mon cœur,
-De Dorval seul consultant le bonheur,
-Il me devint plus cher, plus je lui fus utile.
-Oui, pour moi le bonheur habita cet asile,
-Dès l'instant que Dorval, plus calme, plus à lui,
-De mes secours enfin, me parut attendri :
-Quel moment pour mon cœur ! Qu'il m'était nécessaire !
-Ce fut, je crois, le jour dont me parlait mon père.
-Dorval, qui jusques-là ne me connut jamais,
-Se rendit à ma voix, et reconnut mes traits ;
-Ses yeux fixaient encor son image fidèle :
-Il la voyait toujours, mais il me parlait d'elle :
-Pour la suivre... Il semblait plus triste, en me quittant ;
-Au moins, pour lui, j'étais un être intéressant ;
-Et sans doute qu'alors vous me vîtes, mon père ?
-
--*who_mondor
-Mais croyez-vous me rassurer, ma chère ?
-Ah ! Jugez quels combats s'élèvent dans mon cœur !
-Je voudrais n'exister que pour votre bonheur,
-Et mon trop de prudence a déchiré votre âme.
-Pourrais-je condamner une naissante flamme,
-Qui deviendrait le charme de vos jours ?
-Vous ne le croyez pas. Je chérirai toujours
-Les moyens que je vois d'embellir votre vie.
-Secourons, guérissons Dorval ; c'est mon envie.
-Ah ! S'il pouvait un jour faire votre bonheur,
-(Fût-ce une illusion) je chéris cette erreur.
-Mais si rien ne détruit son délire funeste,
-S'il va de sa raison altérer ce qui reste,
-Quel avenir pour vous !
-
--*who_lacomtesse
-      Pourquoi vous alarmer ?
-Mon cœur concevrait-il jamais une chimère ?
-
--*who_mondor
-Ma fille, qui ne sait ce que c'est que d'aimer ?
-Combien notre raison, alors si nécessaire,
-Loin de nous secourir, nous fuit facilement !
-
--*who_lacomtesse
-Je ne crains plus d'autre tourment
-Que de me voir cause de votre peine.
-Pour une crainte, hélas ! chimérique, incertaine,
-Abandonner Dorval à son malheureux sort !
-Ah ! Que deviendrAit-il ? Par une affreuse mort,
-Il perd ce qu'il aimAit, et l'être qui lui reste
-PourrAit le fuir !... Jamais... À ce dessein funeste
-Avez-vous pu songer !...
-
-**** *book_ *id_I04 *act_I *date_1791
-
--*who_dumont
-      Monsieur, le médecin
-Voudrait...
-
--*who_mondor
-      Qu'il vienne. Il croit voir un moyen
-D'empêcher de Dorval la cruelle insomnie.
-
--*who_lacomtesse
-Il lui rend mille soins.
-
--*who_mondor
-      J'espère en son génie.
-Où votre maître est-il ?
-
--*who_dumont
-      Tourmenté par son mal,
-Il est sur le bord du canal,
-Les yeux fixés sur l'eau, croyant y voir l'image...
-
--*who_lacomtesse
-Ô ciel ! L'y laisser seul !
-
--*who_dumont
-      Non, non : sur le rivage,
-Lisette est avec lui ; j'y retourne à l'instant.
-
-**** *book_ *id_I05 *act_I *date_1791
-
--*who_mondor
-Ma fille, nous n'avons pu causer qu'un moment.
-Nous voir interrompus, m'a paru bien pénible ;
-Mais nous continuerons, et le plutôt possible.
-
--*who_lacomtesse
-Ah ! Que mon cœur voudrait croire avoir mérité
-De retrouver en vous cette tendre bonté !
-
-**** *book_ *id_I06 *act_I *date_1791
-
--*who_lacomtesse
-Comment le trouvez-vous, aujourd'hui ?
-
--*who_lemedecin
-      Plus tranquille.
-Plus que jamais, je crois utile
-De ne pas le contrarier :
-En voulant jusqu'ici chercher à le distraire,
-Nous n'avons fait que lui déplaire.
-À présent, il faut essayer
-De le livrer à son idée.
-D'abord, son âme entière en sera possédée :
-N'y trouvant plus d'obstacle, on ne peut en douter,
-Il sentira bientôt sa solitude ;
-Il a besoin de vous, j'ose le répéter :
-Il faut qu'il vous demande.
-
--*who_lacomtesse
-      Avec exactitude,
-Je veux suivre ce plan.
-
--*who_mondor
-      Il vient ; éloignons-nous.
-
--*who_lacomtesse
-Je vous suis à l'instant, pour causer avec vous.
-
-**** *book_ *id_I07 *act_I *date_1791
-
--*who_lacomtesse
-Quel jour mon père a fait luire au fond de mon âme !
-De ma tendre pitié, pourrait naître une flamme !...
-J'ose à peine y penser. Cher Dorval ! Ton malheur
-Ne suffisait-il pas pour déchirer mon cœur ?
-Ah ! Fallait-il encore... Le voici... Son délire
-L'empêche de me voir... Allons... il faut souscrire
-À ce qu'on a vouli. L'éviter aujourd'hui !...
-Mais, ciel ! Je le crois seul... Dumont est avec lui.
-
-**** *book_ *id_I08 *act_I *date_1791
-
--*who_dorval
 Quoi ! Déjà me quitter, ma chère Adélaïde !
 Nous n'étions réunis que depuis un moment !
 Je vois l'intérêt qui te guide.
@@ -463,21 +43,11 @@ Elle veut nous quitter : ah ! Sa tendre habitude
 En est seule la cause : en écoutant son cœur,
 Elle cherche à rentrer dans ce lieu de douleur.
 
--*who_dumont
-Ah ! Son égarement soulage au moins son âme !...
-Quel nouveau sentiment et l'irrite et l'enflamme ?
-
--*who_dorval
 Si je l'eusse perdu, quel serait mon malheur !
 Vous le figurez-vous ?... L'excès de ma douleur
 Au tombeau devait me conduire...
 Exister sans la voir !
 
--*who_dumont
-      Que ce tendre délire
-Est touchant !
-
--*who_dorval
       Qu'avez-vous ?... Vous répandez des pleurs :
 De chagrins, comme moi, votre âme est obsédée.
 Vous ne m'étonnez point... Il est de tels malheurs,
@@ -486,10 +56,6 @@ Pourquoi donc la pleurer ? Nous ne craignons plus rien.
 Je la vois ; oui, voilà l'objet pur et céleste,
 Que le ciel me rendit. Ô mon souverain bien !
 
--*who_dumont
-Cette image si chère est tout ce qui lui reste.
-
--*who_dorval
 Tu ne peux t'arrêter plus longtemps... Sois tranquille ;
 Je ne te retiens plus... Vas... mon cœur est docile :
 Seul, je voudrais toujours et t'entendre et te voir.
@@ -497,127 +63,6 @@ Mais je te rends à ton devoir...
 Pardon, pardon, Monsieur, si je m'en vais si vite :
 Vous voyez... pour la suivre, il faut que je vous quitte.
 
-**** *book_ *id_I09 *act_I *date_1791
-
--*who_dumont
-Sa douce illusion l'entraîne et le conduit :
-Il s'éloigne, en croyant suivre ce qu'il chérit ;
-Rien ne l'arrêterait...
-
-**** *book_ *id_I10 *act_I *date_1791
-
--*who_lacomtesse
-      Dumont... et votre maître,
-Il n'est plus dans ces lieux ?
-
--*who_dumont
-      Il vient de disparaître.
-
--*who_lacomtesse
-Quoi, seul ?
-
--*who_dumont
-      Il est entré dans le couvent :
-Vous savez qu'on l'y veille.
-
--*who_lacomtesse
-      Il est bien prudent
-De ne pas le quitter : mon âme n'est tranquille
-Que lorsque je le sais avec vous.
-
--*who_dumont
-      Je le suis.
-
--*who_lacomtesse
-De sa douceur n'êtes-vous pas surpris ?
-Quel être intéressant !... Souvent, il est docile,
-Il fait ce que l'on veut... Je l'ai bien évité :
-On l'a voulu... Vous l'avez écouté...
-Prononçait-il mon nom ?... Son tourment, l'habitude
-De me voir, le portait peut-être à me chercher.
-Ah ! Répondez avec exactitude.
-
--*who_dumont
-Je n'ai pas remarqué.
-
--*who_lacomtesse
-      Ciel ! Tâchons de cacher
-Tout le mal qu'il me fait. Fermez bien cette porte :
-Vous viendrez m'avertir avant qu'il ne ressorte.
-
-**** *book_ *id_I11 *act_I *date_1791
-
--*who_lacomtesse
-Il faut me l'avouer : ah ! Ce n'est plus pour lui
-Que je cherche à le voir ; il me semble aujourd'hui,
-Que les momenTs ont une année...
-Quoi ! Parce qu'il s'éloigne... Ah ! quelle destinée !
-Si ton ombre plaintive, en ce lieu vient errer,
-Adélaïde, hélas ! que peux-tu désirer ?
-Il t'aimait, tu péris ; sa raison l'abandonne :
-Adorant ton image, il ne connaît personne ;
-Sa bouche, de ton nom, vient remplir les forêts ;
-Ses yeux ne peuvent plus se peindre que tes traits.
-Si ta mort fut affreuse, il se peut qu'on l'envie :
-Ces tendres souvenirs valent cent fois la vie.
-
-**** *book_ *id_I12 *act_I *date_1791
-
--*who_lemedecin
-Dorval me suit, Madame ; il est dans des transports
-Que je n'ai pu calmer, malgré tous mes efforts :
-Il vous nommait, dans son délire ;
-Vous seule apporterez du calme à son esprit.
-
--*who_lacomtesse
-Ne vous trompez-vous pas ? Vous croyez qu'il désire
-De me voir ?
-
--*who_lemedecin
-      J'en suis sûr. Deux fois, Dorval a dit :
-« Amour ! Quel doux moment ! Ah ! Ma chère comtesse !
-Que ne partagez-vous mes transports, mon ivresse ! »
-
--*who_lacomtesse
-Allons, puisqu'il le faut, ici je vais rester.
-Pour soulager ses maux, rien ne doit me coûter.
-
--*who_lemedecin
-Tant qu'il ne fait que voir cette image adorée,
-D'un charme doux et pur son âme est enivrée,
-Et ce bonheur secret absorbe son esprit ;
-Sans éclats, sans transports, tout seul il en jouit ;
-Mais s'il croit, un instant, entendre ce qu'il aime
-Répondre à son amour, soudain, hors de lui-même,
-Il a besoin de vous, pour épancher son cœur :
-En vous le confiant, il sent mieux son bonheur.
-Livrez-vous moins à la tristesse ;
-À vos tendres bontés joignez un peu d'adresse,
-Calculez jusqu'aux soins qu'à Dorval vous offrez,
-Temps, douceur, patience, et vous le guérirez.
-
--*who_lacomtesse
-Cet être malheureux est d'autant plus à plaindre,
-Qu'égaré par sa passion,
-En voulant le guérir, nous avons même à craindre
-Que son bonheur ne tienne à son illusion.
-
--*who_lemedecin
-Non, non, ne craignez rien.
-
--*who_lacomtesse
-      Vivons donc d'espérance.
-
--*who_lemedecin
-Je vous laisse avec lui ; je le vois qui s'avance.
-
-**** *book_ *id_I13 *act_I *date_1791
-
--*who_lacomtesse
-Il me cherche, dit-il... Ah ! Ce n'est pas pour moi :
-Il faut le secourir ; je m'en suis fait la loi.
-
--*who_dorval
 Quand je vole à tes pieds, objet que je révère,
 Je crois être suivi de la nature entière ;
 Et si je vois quelqu'un prendre un autre chemin,
@@ -633,11 +78,6 @@ Que j'étais malheureux !... Au moins, pour cette fois,
 Je ne vous quitte plus... Puis-je exister loin d'elle ?
 Ma vie est un tourment...
 
--*who_lacomtesse
-      Si tendre, si fidèle,
-En la voyant, rien ne manque à vos vœux.
-
--*who_dorval
 Que je suis loin encor de me trouver heureux !
 Ici, je sens toujours une douleur secrète...
 J'en demande la cause à mon âme inquiète...
@@ -652,10 +92,6 @@ Fut-il amant plus tendre... Eh bien !... Je puis encore
 Être heureux, malgré ses rigueurs ;
 Lorsque l'on peut la voir, est-il quelques malheurs ?
 
--*who_lacomtesse
-Près de l'objet aimé, notre douleur s'efface.
-
--*who_dorval
 Qui ne la vit jamais, ne connaît pas la grâce ;
 Tout artiste qui fut à l'immortalité,
 L'eût prise pour modèle, en traçant la beauté.
@@ -664,10 +100,6 @@ Permettra-t-il au temps de détruire ses charmes ?
 Ne laissera-t-il pas à la postérité
 Ce chef-d'œuvre enchanteur de la divinité ?
 
--*who_lacomtesse
-Son portrait... l'avez-vous ?
-
--*who_dorval
       Qui l'eût fait, cet ouvrage ?
 Qui pouvait imiter ce céleste visage ?
 Le charme de ses traits est surtout dans son cœur ;
@@ -676,51 +108,20 @@ De posséder une image si chère :
 Je sens que, dans l'absence, un portrait peut nous plaire ;
 Mais vous voyez... je ne la quitte pas.
 
--*who_lacomtesse
-J'eus donc tort ?
-
--*who_dorval
       Pourquoi donc ?
 
--*who_lacomtesse
-      Quel est mon embarras ?
-
--*who_dorval
 Parlez ; ah ! parlez...
 
--*who_lacomtesse
-      Empressée
-De soulager vos maux, il vint dans ma pensée
-D'essayer, en secret, de dessiner les traits
-Que vous me dépeignez...
-
--*who_dorval
       Comment...
 
--*who_lacomtesse
-      Que je voyais.
-De ma tendre amitié pour vous offrir un gage,
-D'Adélaïde, hier, ma main traça l'image...
-Bien... imparfaitement...
-
--*who_dorval
       Quel bonheur ! Ah ! Grands Dieux !
 De ce travail charmant enchantez donc mes yeux.
 
--*who_lacomtesse
-Adélaïde est là... Vous le disiez vous-même ;
-Que peut faire un portrait, près de l'objet qu'on aime ?
-
--*who_dorval
 Songez qu'il est de vous... Seule, dans l'univers,
 Vous avez pu la peindre. Hélas ! Si je la perds,
 Ne fût-ce qu'un moment... Ah ! Jugez quel service...
 Courons, volons, voyons, abrégez mon supplice.
 
--*who_lacomtesse
-Dumont, apportez-moi mes cartons, mes dessins.
-
--*who_dorval
 Quelles délices !... Ciel !... De tes attraits divins,
 L'univers pourra donc se former une idée ;
 Ton image céleste, à leurs vœux accordée,
@@ -728,40 +129,20 @@ Ira porter partout l'ivresse et le bonheur :
 J'en remplirai le monde ; ah ! Qu'il tarde à mon cœur !...
 Ah ! Que de temps perdu !
 
--*who_lacomtesse
-      Ne jugez que mon zèle,
-Vous voyez que je suis bien loin de mon modèle.
-
--*who_dorval
 N'importe, l'on retrouve encore en ce portrait,
 Un charme doux, piquant, une grâce, un attrait,
 Que le meilleur pinceau ne peut jamais atteindre
 Qu'en voulant imiter sa beauté.
 
--*who_lacomtesse
-      J'ai pu craindre
-Que cette faible ébauche, en profanant ses traits,
-Ne déplût à vos yeux.
-
--*who_dorval
       De vous... Jamais, jamais...
 Mais, écoutez... ô ma charmante amie !
 Ô vous ! Qui devenez nécessaire à ma vie.
 
--*who_lacomtesse
-Serait-il vrai ?
-
--*who_dorval
       Corrigeons ce dessin :
 Ah ! Par mes yeux, voyez ce que j'adore ;
 Oui, laissons nos regards s'en pénétrer encore...
 Mon cœur conduira votre main.
 
--*who_lacomtesse
-Par ce moyen, je suis plus sûre
-De pouvoir approcher au moins de la nature.
-
--*who_dorval
 Sous le pinceau, souvent un défaut disparaît.
 N'omettons rien, je la veux comme elle est :
 Peu m'importe, en effet, qu'il lui manque une grâce ;
@@ -776,18 +157,9 @@ Oui, presque comme vous... En effet, plus j'y pense,
 Je trouve entre vous deux, beaucoup de ressemblance ;
 Vous seule approchez d'elle...
 
--*who_lacomtesse
-      Ah ! Voyez : est-ce mieux ?
-Que ne puis-je imiter ce qui charme vos yeux...
-
--*who_dorval
 Tourne les yeux sur nous, de grâce !... Je t'en prie !
 Loin de moi... Si longtemps, quoi ! Ton cœur les oublie.
 
--*who_lacomtesse
-Comme elle était aimée !...
-
--*who_dorval
       Avec tant de beauté...
 Dans son ajustement, plus de simplicité ;
 Lorsqu'il a quelque éclat, c'est elle qui le donne ;
@@ -797,265 +169,21 @@ Sa grâce est son secret ; cessons de le chercher.
 Ciel ! Quel nuage épais vient obscurcir ma vue !
 Où suis-je ?... Où la trouver ?
 
--*who_lacomtesse
-      Que mon ^qme est émue !
-
--*who_dorval
 N'entends-je pas sa voix ?... Adélaïde !...
 
--*who_lacomtesse
-      Hélas !...
-
--*who_dorval
 Oui, c'est elle, écoutez... Je vole sur ses pas.
 Arrête... Écoute-moi, quoi ! Tu me fuis, cruelle !
 
--*who_lacomtesse
-Dorval !... Dorval !... En vain, je le rappelle !
-Par d'assez rudes coups, éprouve-t-il mon cœur ?
-Dieux cruels !... Cette image ajoute à ma douleur.
-Je ne puis plus cacher le tourment qui m'accable.
-Un désespoir affreux... Quoi ! Mon cœur est coupable !
-Oui ! Je le suis ; oui, j'aime à me le répéter.
-Cher Dorval !... Non, sans lui, je ne puis exister.
-Pour toi, ce sentiment ne peut avoir de charmes ;
-Vois du moins ma douleur, mes regrets... Vois mes larmes !
-Elles ne finiront qu'à mon dernier soupir ;
-Leur source est dans mon cœur, rien ne peut les tarir.
-
-**** *book_ *id_I14 *act_I *date_1791
-
--*who_lemedecin
-Allons, approchons-nous, tâchons de le distraire :
-Madame votre fille aisément sait lui plaire,
-En se prêtant sans cesse à son illusion ;
-Mais trop flatter sa passion
-Peut être dangereux... Il n'est plus avec elle...
-
--*who_mondor
-Ma fille... En quel état... Ciel !...
-
--*who_lacomtesse
-      Quelle voix m'appelle ?
-Oh ! Mon père... pardon... j'étais, je dessinais...
-Non. J'allais dessiner.
-
--*who_mondor
-      Mon enfant, je voudrais
-Deviner le sujet... Vous cachez votre ouvrage
-À moi...
-
--*who_lacomtesse
-      C'est une ébauche...
-
--*who_mondor
-      Ah ! Toujours votre usage
-Fut de me consulter. Vos talents sont à moi.
-
--*who_lacomtesse
-Mon père !... Eh bien, je vais être de bonne foi.
-
--*who_mondor
-Oui ; mais votre douleur... d'où vient-elle, ma chère ?
-
--*who_lacomtesse
-Nous parlions du dessin... Écoutez-moi, mon père.
-Pour Dorval, vous savez tout ce que peut mon cœur.
-J'ai cru que je ferais peut-être son bonheur,
-En recherchant les traits de celle qu'il regrette.
-
--*who_lemedecin
-Le ciel vous inspira... Cette idée est parfaite.
-
--*who_mondor
-Eh bien !...
-
--*who_lacomtesse
-      Eh bien, mon père, en voyant par ses yeux,
-J'ai tracé ce portrait...
-
--*who_mondor
-      Que je suis curieux !
-Ne me trompai-je pas ? En croirai-je ma vue ?
-Ce sont-là tous vos traits.
-
--*who_lacomtesse
-      Que mon âme est émue !
-
--*who_mondor
-Jugez...
-
--*who_lemedecin
-      Mais en effet, c'est un portrait parlant.
-Il ne peut, d'après vous, être plus ressemblant.
-
--*who_lacomtesse
-Quel prodige, mon père ! Et pourrai-je le croire ?
-
--*who_mondor
-Plus j'y songe à prèsent, je crois que ma mémoire
-Me dit que j'entendis Dorval, plus d'une fois,
-Parler de cette ressemblance.
-
--*who_lacomtesse
-Ô ciel ! S'il était vrai !... Quelle vaine espérance !
-
--*who_lemedecin
-Oui, suivons ce projet... Une secrète voix
-Me dit qu'il guérira cette âme si sensible.
-
--*who_lacomtesse
-Hélas ! Qu'entends-je ? Est-il possible ?
-
--*who_lemedecin
-Quelle douce espérance !... Écoutez, écoutez.
-Ce portrait... Ce rapport... Déjà vous concevez...
-Que vous manque-t-il donc pour être Adélaïde
-A ses yeux ?... Ah ! peut-être... Un rien !
-
--*who_lacomtesse
-Soyez mon guide.
-
--*who_lemedecin
-      Paraissez sous le voile et l'habit d'une sœur :
-Par ce prestige heureux, venez frapper son cœur.
-Ce couvent... et vos traits... l'heure, tout favorise
-Un dessein que le ciel semble nous inspirer.
-Ne perdons point de temps...
-
--*who_lacomtesse
-      Laissez-moi respirer
-
--*who_lemedecin
-Suspendre, balancer !... Monsieur...
-
--*who_mondor
-      Que j'autorise...
-
--*who_lemedecin
-Oui monsieur, il le faut ; oui, c'est même un devoir.
-
--*who_mondor
-Quoi !.. Ce qu'elle se doit... Son sexe... Il faut prévoir...
-
--*who_lemedecin
-Tout est prévu, Monsieur ; lorsque l'on sauve un homme,
-L'humanité vous presse : en son nom, je vous somme
-De secourir cet être malheureux.
-À ce moyen puissant, que le moment m'inspire,
-Osez vous refuser... Osez donc me le dire,
-Et vous en répondrez.
-
--*who_lacomtesse
-      Ah ! Dieux !
-
--*who_lemedecin
-Que craignez-vous ? La calomnie ?
-Un cœur tel que le sien peut en braver les traits...
-Madame votre fille y répond par sa vie :
-On peut bien l'offenser ; mais la ternir, jamais.
-
--*who_mondor
-Je me sens entraîné...
-
--*who_lemedecin
-      Si cette ressemblance,
-Si de ces traits touchants la divine puissance
-Pouvaient rendre à Dorval l'objet qu'il a perdu,
-Ne devrait-elle pas lui consacrer sa vie ?
-Pourriez-vous empêcher qu'un saint nœud ne les lie ?
-Ah ! vous mêlez vos pleurs...
-
--*who_mondor
-Venez, je suis rendu.
-
--*who_lacomtesse
-      Au destin qui m'attend... c'en est fait, je me livre.
-
--*who_lemedecin
-Ah ! J'aperçois Dumont... Je vais bientôt vous suivre.
-
-**** *book_ *id_I15 *act_I *date_1791
-
--*who_lemedecin
-Dumont, un seul instant... pouvez-vous m'écouter ?
-Votre maître...
-
--*who_dumont
-      En ce lieu, je puis bien m'arrêter ;
-Car je le vois d'ici, poursuivant son image
-Dans le bosquet voisin... et je l'observerai...
-
--*who_lemedecin
-Depuis longtemps, c'est assez son usage,
-De venir dans ces lieux, le soir.
-
--*who_dumont
-      Je vous dirai
-Qu'à juger par le calme où semble être son âme,
-Sûrement son attrait va le conduire ici.
-
--*who_lemedecin
-Ah ! Partagez l'espoir qui m'enflamme !
-Peut-être nous allons le guérir. Mon ami,
-Vous saurez nos projets.
-
--*who_dumont
-      Se peut-il ?
-
--*who_lemedecin
-      Le temps presse.
-Quand Dorval reviendra, jetez les yeux sans cesse
-Sur la porte de ce couvent ;
-La comtesse doit y paraître
-Sous un heureux déguisement.
-Lors, par un cri, soudain obligez votre maître
-De fixer ses regards...
-
--*who_dumont
-      Oui, oui, je vous entends.
-
--*who_lemedecin
-Il faut qu'Adélaïde à ses yeux se retrace.
-S'il voulait s'éloigner, retenez-le, de grâce ;
-Essayez-le du moins... Songez, dans ces instants,
-Que plus vous feindrez...
-
--*who_dumont
-      Quoi...
-
--*who_lemedecin
-      D'être frappé vous-même,
-Plus son illusion lui peindra ce qu'il aime.
-
--*who_dorval
 Que peux-tu redouter de ma brûlante ardeur ?
 Tes regards n'ont-ils pas purifié mon cœur ?...
 Fuir, parce que ce voile, un instant, se soulève...
 Ta pudeur le remplace, et rien ne te l'enlève.
 
--*who_dumont
-Il approche. Écoutez.
-
--*who_lemedecin
-      Je cours tout préparer.
-
--*who_dumont
-Quel moment ! Je le crains, et vais le désirer.
-
-**** *book_ *id_I16 *act_I *date_1791
-
--*who_dorval
 Viens voir finir le jour... Par sa tendre lumière,
 La lune va le remplacer :
 Aimes-tu sa clarté ? Mon âme la préfère
 À l'éclat du soleil...
 
--*who_dumont
-      Si j'osais avancer...
-Je crains qu'il ne s'éloigne...
-
--*who_dorval
       Ah ! reste, reste encore !
 Adelaïde... Ici, voyons lever l'aurore.
 Habitants de ces bois, témoins de mon bonheur,
@@ -1065,30 +193,6 @@ Ah ! demain... Cependant vous me verrez plus tendre...
 Arrête... Vois notre ombre... Il faudrait la fixer...
 Nos bras... vois-les s'ouvrir... pour mieux s'entrelacer...
 
-**** *book_ *id_I17 *act_I *date_1791
-
--*who_dumont
-Eh bien ! Dans quel moment...
-
--*who_lisette
-      Dumont, que fait ton maître ?
-
--*who_dumont
-Tu le vois absorbé dans ses réflexions.
-Un peu de calme suit tant d'agitations.
-
--*who_lisette
-Écoute : ma maîtresse à ses yeux doit paraître,
-Dès que de ce couvent la porte s'ouvrira,
-Et ce signal t'avertira :
-Je viens t'en prévenir. Adieu, le temps s'avance.
-
--*who_dumont
-Puisse le ciel remplir notre espérance !
-
-**** *book_ *id_I18 *act_I *date_1791
-
--*who_dorval
 Ah ! Je suis aujourd'hui moins content de tes yeux ;
 Ils paraissent distraits, semblent ne pas m'entendre.
 Ah ! Dis encore : je t'aime... Hier, tu disais mieux ;
@@ -1098,10 +202,6 @@ Je te trouve bien loin d'aimer autant que moi.
 Tu t'éloignes toujours... Qui t'alarme ? À cette heure,
 Tout dort dans cette heureuse et tranquille demeure.
 
--*who_dumont
-Que les moments sont longs !...
-
--*who_dorval
       Crains-tu quelque regard ?
 Quelqu'un pourrait-il, par hasard...
 Éloignez-vous, Monsieur, je vous supplie.
@@ -1138,10 +238,6 @@ Le feu du ciel peut seul se comparer.
 Mon cœur se meurt à te trop admirer ;
 Il exhale vers toi trop de son existence.
 
--*who_dumont
-Son délire s'accroît. Dieux ! Quelle est sa souffrance !
-
--*who_dorval
 Je ne sais : en mon cœur, un noir pressentiment,
 Que je repousse en vain, m'alarme en ce moment.
 Je suis si malheureux... Mais ton âme est émue...
@@ -1173,15 +269,585 @@ Ou a mêlé leur cendre en cette même enceinte.
 Adélaïde !... Ah ciel !... Voyez-vous... Ah ! Grands dieux !
 Est-ce toi... Est-ce toi ?
 
--*who_lacomtesse
-      Cher Dorval !
-
--*who_dorval
       J'en vois deux...
 
--*who_dumont
+
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+Dumont, l'on vous a dit combien je m'intéresse
+À celui près de qui l'on vient de vous placer ;
+À lui-même, jamais il ne faut le laisser,
+Ce serait dangereux. La place est difficile
+À bien remplir ; car, il est même utile
+Qu'il ne se doute pas qu'on l'observe en tous lieux :
+Il y faut de l'adresse et le suivre des yeux.
+À son cœur tourmenté la solitude est chère ;
+La troubler trop souvent, le mettrait en colère,
+Et cet état peut nuire à sa santé.
+Du reste, il est très doux et rempli de bonté,
+Reconnaissant des soins que pour lui l'on veut prendre.
+Je crois que... de l'aimer on ne peut se défendre.
+
+Ah ! Je n'en doute pas. Voyez donc avec elle
+Où peut être Dorval... J'attends mon père ici.
+
+Ah ciel ! Serait-il vrai ?
+
+Ah ! De grâce ! Parlez, expliquez ce mystère.
+
+Eh bien ! Mon père ?
+
+Mon père...
+
+Que dites-vous ? Vous déchirez mon cœur.
+
+Écoutez-moi mon père, et lisez dans mon âme.
+Je l'avouerai. Dès le premier moment
+Que j'aperçus Dorval, un secret sentiment,
+De soulager ses maux, sut m'inspirer l'envie.
+Était-il un malheur plus rare, plus touchant ?
+Cherchant à l'adoucir, je suivais mon penchant :
+De mes premiers progrès, mon âme fut ravie :
+Pouvais-je calculer et mes soins et mon temps ?
+D'abord il eut quelques instants :
+Bientôt, j'y consacrai ma vie.
+Sans rien examiner, sans descendre en mon cœur,
+De Dorval seul consultant le bonheur,
+Il me devint plus cher, plus je lui fus utile.
+Oui, pour moi le bonheur habita cet asile,
+Dès l'instant que Dorval, plus calme, plus à lui,
+De mes secours enfin, me parut attendri :
+Quel moment pour mon cœur ! Qu'il m'était nécessaire !
+Ce fut, je crois, le jour dont me parlait mon père.
+Dorval, qui jusques-là ne me connut jamais,
+Se rendit à ma voix, et reconnut mes traits ;
+Ses yeux fixaient encor son image fidèle :
+Il la voyait toujours, mais il me parlait d'elle :
+Pour la suivre... Il semblait plus triste, en me quittant ;
+Au moins, pour lui, j'étais un être intéressant ;
+Et sans doute qu'alors vous me vîtes, mon père ?
+
+      Pourquoi vous alarmer ?
+Mon cœur concevrait-il jamais une chimère ?
+
+Je ne crains plus d'autre tourment
+Que de me voir cause de votre peine.
+Pour une crainte, hélas ! chimérique, incertaine,
+Abandonner Dorval à son malheureux sort !
+Ah ! Que deviendrAit-il ? Par une affreuse mort,
+Il perd ce qu'il aimAit, et l'être qui lui reste
+PourrAit le fuir !... Jamais... À ce dessein funeste
+Avez-vous pu songer !...
+
+Il lui rend mille soins.
+
+Ô ciel ! L'y laisser seul !
+
+Ah ! Que mon cœur voudrait croire avoir mérité
+De retrouver en vous cette tendre bonté !
+
+Comment le trouvez-vous, aujourd'hui ?
+
+      Avec exactitude,
+Je veux suivre ce plan.
+
+Je vous suis à l'instant, pour causer avec vous.
+
+Quel jour mon père a fait luire au fond de mon âme !
+De ma tendre pitié, pourrait naître une flamme !...
+J'ose à peine y penser. Cher Dorval ! Ton malheur
+Ne suffisait-il pas pour déchirer mon cœur ?
+Ah ! Fallait-il encore... Le voici... Son délire
+L'empêche de me voir... Allons... il faut souscrire
+À ce qu'on a vouli. L'éviter aujourd'hui !...
+Mais, ciel ! Je le crois seul... Dumont est avec lui.
+
+      Dumont... et votre maître,
+Il n'est plus dans ces lieux ?
+
+Quoi, seul ?
+
+      Il est bien prudent
+De ne pas le quitter : mon âme n'est tranquille
+Que lorsque je le sais avec vous.
+
+De sa douceur n'êtes-vous pas surpris ?
+Quel être intéressant !... Souvent, il est docile,
+Il fait ce que l'on veut... Je l'ai bien évité :
+On l'a voulu... Vous l'avez écouté...
+Prononçait-il mon nom ?... Son tourment, l'habitude
+De me voir, le portait peut-être à me chercher.
+Ah ! Répondez avec exactitude.
+
+      Ciel ! Tâchons de cacher
+Tout le mal qu'il me fait. Fermez bien cette porte :
+Vous viendrez m'avertir avant qu'il ne ressorte.
+
+Il faut me l'avouer : ah ! Ce n'est plus pour lui
+Que je cherche à le voir ; il me semble aujourd'hui,
+Que les momenTs ont une année...
+Quoi ! Parce qu'il s'éloigne... Ah ! quelle destinée !
+Si ton ombre plaintive, en ce lieu vient errer,
+Adélaïde, hélas ! que peux-tu désirer ?
+Il t'aimait, tu péris ; sa raison l'abandonne :
+Adorant ton image, il ne connaît personne ;
+Sa bouche, de ton nom, vient remplir les forêts ;
+Ses yeux ne peuvent plus se peindre que tes traits.
+Si ta mort fut affreuse, il se peut qu'on l'envie :
+Ces tendres souvenirs valent cent fois la vie.
+
+Ne vous trompez-vous pas ? Vous croyez qu'il désire
+De me voir ?
+
+Allons, puisqu'il le faut, ici je vais rester.
+Pour soulager ses maux, rien ne doit me coûter.
+
+Cet être malheureux est d'autant plus à plaindre,
+Qu'égaré par sa passion,
+En voulant le guérir, nous avons même à craindre
+Que son bonheur ne tienne à son illusion.
+
+      Vivons donc d'espérance.
+
+Il me cherche, dit-il... Ah ! Ce n'est pas pour moi :
+Il faut le secourir ; je m'en suis fait la loi.
+
+      Si tendre, si fidèle,
+En la voyant, rien ne manque à vos vœux.
+
+Près de l'objet aimé, notre douleur s'efface.
+
+Son portrait... l'avez-vous ?
+
+J'eus donc tort ?
+
+      Quel est mon embarras ?
+
+      Empressée
+De soulager vos maux, il vint dans ma pensée
+D'essayer, en secret, de dessiner les traits
+Que vous me dépeignez...
+
+      Que je voyais.
+De ma tendre amitié pour vous offrir un gage,
+D'Adélaïde, hier, ma main traça l'image...
+Bien... imparfaitement...
+
+Adélaïde est là... Vous le disiez vous-même ;
+Que peut faire un portrait, près de l'objet qu'on aime ?
+
+Dumont, apportez-moi mes cartons, mes dessins.
+
+      Ne jugez que mon zèle,
+Vous voyez que je suis bien loin de mon modèle.
+
+      J'ai pu craindre
+Que cette faible ébauche, en profanant ses traits,
+Ne déplût à vos yeux.
+
+Serait-il vrai ?
+
+Par ce moyen, je suis plus sûre
+De pouvoir approcher au moins de la nature.
+
+      Ah ! Voyez : est-ce mieux ?
+Que ne puis-je imiter ce qui charme vos yeux...
+
+Comme elle était aimée !...
+
+      Que mon ^qme est émue !
+
+      Hélas !...
+
+Dorval !... Dorval !... En vain, je le rappelle !
+Par d'assez rudes coups, éprouve-t-il mon cœur ?
+Dieux cruels !... Cette image ajoute à ma douleur.
+Je ne puis plus cacher le tourment qui m'accable.
+Un désespoir affreux... Quoi ! Mon cœur est coupable !
+Oui ! Je le suis ; oui, j'aime à me le répéter.
+Cher Dorval !... Non, sans lui, je ne puis exister.
+Pour toi, ce sentiment ne peut avoir de charmes ;
+Vois du moins ma douleur, mes regrets... Vois mes larmes !
+Elles ne finiront qu'à mon dernier soupir ;
+Leur source est dans mon cœur, rien ne peut les tarir.
+
+      Quelle voix m'appelle ?
+Oh ! Mon père... pardon... j'étais, je dessinais...
+Non. J'allais dessiner.
+
+      C'est une ébauche...
+
+Mon père !... Eh bien, je vais être de bonne foi.
+
+Nous parlions du dessin... Écoutez-moi, mon père.
+Pour Dorval, vous savez tout ce que peut mon cœur.
+J'ai cru que je ferais peut-être son bonheur,
+En recherchant les traits de celle qu'il regrette.
+
+      Eh bien, mon père, en voyant par ses yeux,
+J'ai tracé ce portrait...
+
+      Que mon âme est émue !
+
+Quel prodige, mon père ! Et pourrai-je le croire ?
+
+Ô ciel ! S'il était vrai !... Quelle vaine espérance !
+
+Hélas ! Qu'entends-je ? Est-il possible ?
+
+Soyez mon guide.
+
+      Laissez-moi respirer
+
+      Ah ! Dieux !
+
+      Au destin qui m'attend... c'en est fait, je me livre.
+
+      Cher Dorval !
+
+
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+      Je le veux.
+
+      Consulte mieux ton cœur :
+J'ai répondu de toi. Dans l'instant, ma maîtresse
+Va venir en ces lieux, et de tous tes devoirs
+Elle pourra t'instruire.
+
+      J'oubliais. Tous les soirs,
+Tu sais que dans sa chambre on enferme ton maître :
+Tu rempliras ce soin ; il est très important.
+
+      Mais on m'attend peut-être.
+
+J'y consens, non sans peine, et tu pourras m'en croire :
+Retracer son malheur est un nouveau tourment.
+Dorval se signala dans la guerre dernière ;
+Mais ardent, intrépide, et moins chef que soldat,
+Un jour, on le laissa mourant dans un combat.
+Il eût terminé sa carrière,
+Quand un hasard propice, en ce moment fatal,
+L'amena dans cet hôpital.
+Tu sais qu'il est servi par ces sœurs charitables,
+Qui rendent au malheur des soins si respectables,
+Dont la religion est dans sa pureté,
+En bornant leur devoir à tant d'humanité.
+Une d'elles, c'était la sœur Adélaïde,
+Ayant pris ses vertus et son âme pour guide,
+À vingt ans, dans ce lieu de mort, de piété,
+Avait enseveli sa grâce et sa beauté.
+Un ensemble enchanteur d'agréments, d'innocence,
+D'esprit et d'enjouement, que paraît la décence ;
+L'âme la plus sensible, un cœur fait pour aimer ;
+C'est ainsi que le ciel se plut à la former :
+Douce, compatissante, à son devoir fidèle,
+Aucune de ses sœurs n'approchait de son zèle ;
+Oubliant et son sexe et sa faible santé,
+Sa force se doublait par son humanité,
+Et l'être tourmenté d'une horrible souffrance,
+Se sentait soulagé par sa seule présence.
+
+Dorval, percé de coups, fut remis à ses soins ;
+Sans elle il eût péri : nous en fûmes témoins.
+Comment exprimerai-je un dévouement si tendre ?
+Il semblait que ses jours des siens dussent dépendre.
+Quels pénibles instants ! Que de nuits sans repos,
+Consacrés à le plaindre, à soulager ses maux !
+Le ciel ne rendit pas son espérance vaine ;
+Il voulut couronner tant de soins, tant de peine,
+Et Dorval, né sensible, en conservant le jour,
+Vit la reconnaissance allumer son amour.
+Longtemps Adélaïde, à ses devoirs fidèle,
+Partageant une flamme et si pure et si belle,
+Résistant à Dorval, combattant son projet,
+Dans le fond de son cœur sut cacher son secret.
+Mais tout cède à l'amour, à la persévérance.
+Elle voulut enfin couronner sa constance.
+
+Non. Jamais le bonheur est-il long dans la vie ?
+Adélaïde, hélas ! des longtemps affaiblie,
+Sent d'affreuses douleurs ; on la secourt en vain :
+Ce mal terrible augmente ; il finit son destin.
+Peins-toi Dorval, son désespoir, sa rage :
+De sa raison il perd l'usage,
+Et ce dernier malheur est peut-être un bienfait ;
+Car, de sa passion, il croit revoir l'objet.
+L'imagination, l'effort de sa pensée
+Toujours offre à ses yeux cette image tracée ;
+Dans les mêmes habits, avec les mêmes traits
+Qui doivent de son cœur ne s'effacer jamais.
+Il est heureux, et croire voir sans cesse
+L'objet qu'il adorait, suffit à sa tendresse ;
+Il lui parle, l'appelle encore en son sommeil ;
+La même illusion l'attend à on réveil.
+
+Le lieu qui la retrace est celui qu'il préfère.
+
+Rien n'arrête ses pas ; sitôt qu'il la poursuit,
+Nous l'observons sans cesse : un laquais qui le quitte,
+À ces soins importants ne mettait nulle suite ;
+Mais me voilà tranquille, il est entre tes mains.
+
+      Jeune, veuve, sensible,
+Libre de tout lien qui pouvait l'empêcher
+De lui rendre des soins, il était impossible
+Qu'un aussi grand malheur ne sût pas la toucher.
+D'ailleurs, Dorval paraît plus tranquille auprès d'elle :
+Pour causer avec lui, chaque jour, il l'appelle.
+La conversation n'a jamais qu'un sujet,
+Et son Adélaïde en est toujours l'objet.
+
+      Quelquefois il me semble
+Qu'à celle qu'il aimait ma maîtresse ressemble :
+Me rappelant ses traits, j'y pensais aujourd'hui.
+Personne qu'elle ici n'a de crédit sur lui...
+Il se peut que Dorval, par cette ressemblance,
+Pour ma maîtresse éprouve un invincible attrait :
+Sans en chercher la cause, il n'en sent que l'effet.
+Peut-elle s'en douter ?
+
+Madame, vous voyez l'homme que j'ai promis ;
+Il se nomme Dumont, est fidèle, soumis.
+À mille qualités, il joint beaucoup d'adresse.
+
+      Madame, le voici.
+
+      Dumont, que fait ton maître ?
+
+Écoute : ma maîtresse à ses yeux doit paraître,
+Dès que de ce couvent la porte s'ouvrira,
+Et ce signal t'avertira :
+Je viens t'en prévenir. Adieu, le temps s'avance.
+
+
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mondor
+
+Je vous trouve à propos ; ici calmes, tranquilles,
+Nous causerons en paix ; tous détours inutiles
+Sont indignes d'un père aussi tendre que moi :
+Je vais être de bonne foi.
+Depuis qu'en mon château, par pure bonhomie,
+Par pitié, j'ai logé l'infortuné Dorval,
+Vous le savez, je n'eus point d'autre envie
+Que de tout essayer pour soulager son mal.
+Peut-être faudra-t-il un jour que je déteste
+Cette complaisance funeste.
+
+Puissai-je me tromper !
+
+Calmez-vous donc. Écoutez-moi, ma chère :
+En vous voyant d'abord vous occuper
+De donner à Dorval mille soins estimables,
+Je ne pus les trouver dangereux, condamnables.
+Je reconnus votre âme, et je me dis souvent :
+C'est un bonheur, et ma fille, à présent,
+A peu d'intérêt dans sa vie ;
+Rien en ces lieux ne la diversifie :
+Obligeante, sensible, un soin aussi touchant,
+En occupant son cœur, satisfait son penchant.
+
+      On s'aveugle sans cesse ;
+C'est un malheur de la tendresse :
+Ne nous éclairant pas, elle sert de bandeau.
+Dans mon cœur tout-à-coup un sentiment nouveau,
+À ma sécurité m'arracha non, sans peine.
+Souvent, le hasard nous amène
+Un moyen d'éclairer notre faible raison.
+Un jour, je vous vis seule, auprès de la maison,
+Et Dorval vous quittait : votre âme était émue ;
+Quelques pleurs de vos yeux coulèrent à ma vue :
+Jugez si mon cœur fut inquiet, attendri ;
+Vous étiez seule, et vous aviez rougi.
+
+      Ah ! Mon enfant, jugez de mes alarmes.
+Jamais cette rougeur, votre embarras, vos larmes,
+Ne sortirent depuis de mon cœur attristé.
+Vainement, mille fois, je me suis répété,
+Que ce que je craignais n'était qu'une chimère :
+Plus j'observe votre âme avec les yeux d'un père,
+Et plus d'un sentiment qui me ferait frémir
+Les symptômes secrets semblent se découvrir.
+S'il en est temps, fuyez un danger qui m'accable,
+Un danger que je crois peut-être inévitable.
+Ciel ! Aimer... qui ? Cet être malheureux,
+Que l'amour pour une autre embrase de ses feux ;
+Qui n'a plus sa raison, et qu'un tendre délire,
+Sans doute avec le temps au tombeau doit conduire ?
+
+Voulez-vous faire mon malheur,
+En bravant, sans prudence, une inutile flamme ?
+
+Mais croyez-vous me rassurer, ma chère ?
+Ah ! Jugez quels combats s'élèvent dans mon cœur !
+Je voudrais n'exister que pour votre bonheur,
+Et mon trop de prudence a déchiré votre âme.
+Pourrais-je condamner une naissante flamme,
+Qui deviendrait le charme de vos jours ?
+Vous ne le croyez pas. Je chérirai toujours
+Les moyens que je vois d'embellir votre vie.
+Secourons, guérissons Dorval ; c'est mon envie.
+Ah ! S'il pouvait un jour faire votre bonheur,
+(Fût-ce une illusion) je chéris cette erreur.
+Mais si rien ne détruit son délire funeste,
+S'il va de sa raison altérer ce qui reste,
+Quel avenir pour vous !
+
+Ma fille, qui ne sait ce que c'est que d'aimer ?
+Combien notre raison, alors si nécessaire,
+Loin de nous secourir, nous fuit facilement !
+
+      Qu'il vienne. Il croit voir un moyen
+D'empêcher de Dorval la cruelle insomnie.
+
+      J'espère en son génie.
+Où votre maître est-il ?
+
+Ma fille, nous n'avons pu causer qu'un moment.
+Nous voir interrompus, m'a paru bien pénible ;
+Mais nous continuerons, et le plutôt possible.
+
+      Il vient ; éloignons-nous.
+
+Ma fille... En quel état... Ciel !...
+
+      Mon enfant, je voudrais
+Deviner le sujet... Vous cachez votre ouvrage
+À moi...
+
+      Ah ! Toujours votre usage
+Fut de me consulter. Vos talents sont à moi.
+
+Oui ; mais votre douleur... d'où vient-elle, ma chère ?
+
+Eh bien !...
+
+      Que je suis curieux !
+Ne me trompai-je pas ? En croirai-je ma vue ?
+Ce sont-là tous vos traits.
+
+Jugez...
+
+Plus j'y songe à prèsent, je crois que ma mémoire
+Me dit que j'entendis Dorval, plus d'une fois,
+Parler de cette ressemblance.
+
+      Que j'autorise...
+
+Quoi !.. Ce qu'elle se doit... Son sexe... Il faut prévoir...
+
+Je me sens entraîné...
+
+Venez, je suis rendu.
+
+
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
+
+Qui ? Moi, servir un sou !
+
+      En honneur,
+Cela me coûte un peu.
+
+      Ah ! C'est avec tristesse
+Que je me place ici.
+
+Vous me quittez déjà ?
+
+Lisette, de grâce, un instant.
+Devant servir Dorval, dites-moi son histoire ;
+Je la sais imparfaitement.
+
+Ah ! Que ce récit est touchant !
+Oui, sans avoir connu cet objet attachant,
+Un cœur sensible doit comprendre
+Qu'on l'adorait sans pouvoir s'en défendre.
+
+Lisette, que ce jour pour lui dut être beau !
+L'amour vint de l'hymen allumer le flambeau ?
+
+On dit qu'il suit partout cette image si chère.
+
+Il s'expose, en suivant l'ombre qui le conduit.
+
+Pourquoi votre maîtresse a-t-elle à ses destins
+Pris autant d'intérêt ?
+
+D'où vient donc ce penchant ?
+
+      Je la vois qui s'avance.
+
+À mes devoirs plus j'ai pensé,
+Plus j'en vis l'importance, et même ai balancé
+S'il fallait accepter cet emploi difficile ;
+Mais sentant qu'en ces lieux je puis vous être utile,
+Et touché du récit que Lisette m'a fait,
+Je me suis décidé : je serai satisfait
+Si mes soins, mes efforts, répondent à mon zèle.
+
+Je cours à mon devoir.
+
+      Monsieur, le médecin
+Voudrait...
+
+      Tourmenté par son mal,
+Il est sur le bord du canal,
+Les yeux fixés sur l'eau, croyant y voir l'image...
+
+      Non, non : sur le rivage,
+Lisette est avec lui ; j'y retourne à l'instant.
+
+Ah ! Son égarement soulage au moins son âme !...
+Quel nouveau sentiment et l'irrite et l'enflamme ?
+
+      Que ce tendre délire
+Est touchant !
+
+Cette image si chère est tout ce qui lui reste.
+
+Sa douce illusion l'entraîne et le conduit :
+Il s'éloigne, en croyant suivre ce qu'il chérit ;
+Rien ne l'arrêterait...
+
+      Il vient de disparaître.
+
+      Il est entré dans le couvent :
+Vous savez qu'on l'y veille.
+
+      Je le suis.
+
+Je n'ai pas remarqué.
+
+      En ce lieu, je puis bien m'arrêter ;
+Car je le vois d'ici, poursuivant son image
+Dans le bosquet voisin... et je l'observerai...
+
+      Je vous dirai
+Qu'à juger par le calme où semble être son âme,
+Sûrement son attrait va le conduire ici.
+
+      Se peut-il ?
+
+      Oui, oui, je vous entends.
+
+      Quoi...
+
+Il approche. Écoutez.
+
+Quel moment ! Je le crains, et vais le désirer.
+
+      Si j'osais avancer...
+Je crains qu'il ne s'éloigne...
+
+Eh bien ! Dans quel moment...
+
+Tu le vois absorbé dans ses réflexions.
+Un peu de calme suit tant d'agitations.
+
+Puisse le ciel remplir notre espérance !
+
+Que les moments sont longs !...
+
+Son délire s'accroît. Dieux ! Quelle est sa souffrance !
+
 Il expire. Accourez.
 
--*who_lemedecin
-      Il n'est plus d'espérance.
-Sa douleur nous l'enlève, et finit sa souffrance.

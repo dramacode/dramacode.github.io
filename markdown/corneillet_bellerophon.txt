@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_bellerophon  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1679  
 title: Bellerophon. Tragédie  
 ---

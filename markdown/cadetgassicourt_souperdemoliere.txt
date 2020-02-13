@@ -1,6 +1,6 @@
 ---
 identifier: cadetgassicourt_souperdemoliere  
-creator: Cadet de Gassicourt, Charles-Louis  
+creator: Cadet de Gassicourt, Charles-Louis ; Georges Forestier.  
 date: 1795  
 title: Le Souper de Molière, ou La Soirée d'Auteuil. Fait historique en un acte, mêlé de vaudevilles.  
 ---
@@ -1087,8 +1087,8 @@ Qu'il renaîtrait par l'amitié.
     LULLI, *à part.*.
 Oui, l'air doit être grave... la mesure bien marquée... Ces médecins dans leur épaisse fourrure ; ces apothicaires⁎ dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... *Sol, mi, sol, ut, ut, ré, sol, fa...* C'est cela.
 AIR : *De la marche du malade imaginaire.*  
-Dignus, dignus est intrare  
-In nostro, in nostro  
+*Dignus, dignus est intrare*  
+*In nostro, in nostro*  
 *In nostro docto corporo.* [407]  
 
     MIGNARD.
@@ -1152,7 +1152,7 @@ Pour n'être pas brûlé lui-même.
 C'est-il bien possible !
 
     LULLI.
-Même air.  
+*Même air.*  
 Oui, mes amis, je l'avouerai :  
 Voyez jusqu'où la peur nous mène ;  
 A mon confesseur je livrai  
@@ -1846,7 +1846,7 @@ Du rouge ou du blanc.
 Cela nous est parfaitement égal.
 
     CHAPELLE.
-Récitatif⁎.  
+*Récitatif⁎.*  
 Pardon, sage Lulli, pardon, sage Boileau ;  
 Je suis, mes bons amis, plus difficile à table,  
 Et je crois au vin blanc le rouge préférable,  

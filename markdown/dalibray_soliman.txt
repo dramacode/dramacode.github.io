@@ -1,6 +1,6 @@
 ---
 identifier: dalibray_soliman  
-creator: Vion, Charles de  
+creator: Vion, Charles de ; Georges Forestier.  
 date: 1637  
 title: Le Soliman  
 ---

@@ -1,200 +1,89 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_durant *book_durant_onneconnaitpaslevin *style_prose *genre_proverbe *dist1_durant_prose_proverbe_onneconnaitpaslevin *dist2_durant_prose_proverbe *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedumeny
 
--*who_madamedumeny
-Ah !
-Ma chère cousine, si vous connaissiez à fond mes deux filles, vous en feriez tout un autre jugement !
-L'aînée sage et pieuse a fait tout le bonheur de ma vie : la cadette, folle et dissipée, en cause tout le chagrin.
+Ah ! Ma chère cousine, si vous connaissiez à fond mes deux filles, vous en feriez tout un autre jugement ! L'aînée sage et pieuse a fait tout le bonheur de ma vie : la cadette, folle et dissipée, en cause tout le chagrin.
 
--*who_madamedecassagne
-Prenez garde, Madame, de vous y méprendre : vous savez l'intérêt que je prends au chevalier, et vous n'ignorez pas l'engagement où je suis de l'épouser.
-Je lui ai vu lancer des regards par Mademoiselle Dumeny, qui me font penser tout autrement que vous.
-Permettez-moi de me servir de lui pour démêler ses sentiments ; cette épreuve ne peut faire de tort à votre aînée, si elle n'a que des intentions pures : et supposé que je ne me trompe pas, la cadette qui est très aimable, occupera seule votre amitié.
-
--*who_madamedumeny
 Faites, ma cousine ; c'est une complaisance que je veux bien avoir pour vous ; et je fuis trop sûre de mon fait, pour m'alarmer du succès.
 
-**** *book_ *id_I02 *act_I *date_(non
+Un homme à vos genoux, ma sour ! Voilà le fruit de vos vivacités ; sans doute il avait quelque grâce à vous rendre.
 
--*who_mademoiselledeletang
-Monsieur le marquis, je vous l'ai déjà dit, ne le prenez point sur ce ton-là.
-Madame, au nom de Dieu, dites bien sérieusement à monsieur le marquis qu'il me laisse en repos.
-
--*who_madamedecassagne
-J'ai bien autre chose en tête, ma petite cousine : il s'agit de pénétrer les plus secrets replis du cour de Mademoiselle Dumeny : il faut que je parle au chevalier pour ce grand dessein : adieu je reviendrai bientôt vous voir.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_lemarquis
-Me traiterez-vous toujours cruellement ?
-Ne trouverai-je en vous que des cruautés ?
-Mon ardente passion n'obtiendra-t-elle jamais quelque reconnaissance ?
-Mettez du moins un terme à mes malheurs.
-
--*who_madamedeletang
-Avouez, Monsieur le Marquis, qu'une personne de mon humeur laisse bien agir les soupçons, et qu'on croit tirer bon parti d'une étourdie comme je le parais : mais l'agitation du corps ne prouve pas celle du cour ; et je vous déclare que je suis assez sensée, pour ne vous plus écouter, si auparavant vous ne mettez ma mère dans vos intérêts par une proposition sérieuse.
-
--*who_lemarquis
-Oui, belle personne, je parlerai lorsqu'il en sera temps : mais armons-nous en attendant autant que le cour nous en dira : laissons le reste entre les mains de la destinée.
-Voudriez-vous commencer ; par le mariage ?
-
--*who_madamedeletang
-Je ne veux rien du tout, sinon, que vous ne soyez plus assez audacieux, pour me parler d'amour ; sans avoir pour moi les sentiments d'estime, qui font souhaiter une maîtresse pour femme.
-
--*who_lemarquis
-Quelle inhumanité est la vôtre !
-Au nom de l'amour ; charmante fille, rendez-vous à une passion qui me fera faire quelque extravagance.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_madamedumeny
-Un homme à vos genoux, ma sour !
-Voilà le fruit de vos vivacités ; sans doute il avait quelque grâce à vous rendre.
-
--*who_lemarquis
-Plût au ciel !...
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_madamedumeny
 En vérité, ma sour, il est bien cruel de vous voir traiter ainsi ; et une personne comme moi souffre lorsque le sang la lie avec une personne éventée comme vous.
 
--*who_madamedeletang
-Mon Dieu, ma sour, vous faites parade d'une vertu qui m'épouvante !
-Tout vous paraît criminel !
-Un homme est à mes pieds, vous allez aussitôt juger que c'est pour me remercier d'une faveur : et moi si j'en voyais un dans la même soumission auprès de vous, je ne douterais pas que ce fût pour obtenir quelque grâce que vous lui refusez depuis longtemps ; et peut-être, après tout, me tromperais-je dans mes conjectures, comme sans doute vous vous trompez dans les vôtres.
-
--*who_madamedumeny
 Ne lassez point ma patience, ou j'avertirai ma mère de vos déportements.
 
-**** *book_ *id_I06 *act_I *date_(non
+Avez-vous tant de peine à le deviner ? La confiance qu'on s'avise de prendre en vous, et les yeux avec lesquels je vous regarde, ne sont-ils pas capables de vous instruire du secret que vous voulez savoir ? Ah ! Sans doute il me vous manque qu'un cour pour l'entendre.
 
--*who_madamedecassagne
-Je venais prier Madame Dumeny, de recevoir Monsieur le Chevalier chez elle, tandis que j'irai faire quelques emplettes, mais en son absence, ma belle cousine,
-Je crois que vous voudrez bien le recevoir, et me donner cette petite folle pour venir avec moi.
+Ah ! Que vous êtes pressant ; j'entends du bruit ; je n'ai pas le temps de vous résister : Adieu, chevalier ; voyez-moi tous les jours, n'en perdez nulle occasion ; je serai de moitié avec vous pour en trouver ; la réputation que je me suis acquise ne nous nuira pas.
 
--*who_mademoiselledumeny
-Vous êtes la maîtresse, Madame ; je tâcherai de ne pas laisser ennuyer monsieur le chevalier.
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_lechevalier
-Qu'elle me fait de plaisir, Mademoiselle !
-Et que j'aime à voir en vous cette modestie, cette simplicité d'habits, et ces grâces naïves, dont la nature a voulu vous enrichir, et que l'art ne ferait que diminuer !
-
--*who_mademoiselledumeny
-Est-il possible, Monsieur le Chevalier, que vous soyez d'un goût si particulier ?
-Parmi votre sexe la plupart des hommes sont la dupe du faux brillant, et se rebute d'un air sévère.
-
--*who_lechevalier
-Que je suis loin , Mademoiselle d'un si mauvais goût !
-Et qu'une personne faite comme vous, avec un peu de bonté pour moi, me ferait faire de chemin !
-Mais votre vertu, quel obstacle !
-
--*who_mademoiselledumeny
-À vous dire vrai, je ne suis pas fâchée d'imposer : je vois avec plaisir le respect que j'inspire ; et je ne m'empresse pas de détromper le genre humain de l'idée qu'on s'est formée de moi.
-Mais pour vous, Monsieur le Chevalier, mais pour vous...
-
--*who_lechevalier
-Eh bien, Mademoiselle, mais pour moi ; achevez un discours qui commence à me charmer.
-
--*who_mademoiselledumeny
-Mais pour vous Monsieur le Chevalier, puisqu'il faut vous le dire, je vous distingue assez pour vous développer ma morale : elle n'est pas si sévère qu'elle paraît.
-Il est vrai qu'étant née fière, et voyant tant de réputations déchirées, j'ai tâché à me distinguer par des dehors qui ne manquent jamais de faire leur effet.
-J'ai fui les spectacles, les bals, ses parures : ma propreté a été simple ; mais je n'ai point exclu les sentiments du cour ; au contraire, j'ai imaginé un plaisir infini à tromper toute la terre, et à escroquer une réputation qui n'est pas moins honorable pour celui qui en connaît la fausseté, que pour celle qui la possède.
-
--*who_lechevalier
-Que d'esprit !
-Que de raison, Mademoiselle !
-Mais où est l'heureux qui vous fera réduire en pratique les maximes d'une morale si finement imaginée ?
-
--*who_madamedumeny
-Avez-vous tant de peine à le deviner ?
-La confiance qu'on s'avise de prendre en vous, et les yeux avec lesquels je vous regarde, ne sont-ils pas capables de vous instruire du secret que vous voulez savoir ?
-Ah !
-Sans doute il me vous manque qu'un cour pour l'entendre.
-
--*who_lechevalier
-Oui, mademoiselle, je commence à comprendre l'excès de mon bonheur : mais achevez votre ouvrage ; secondez vos charmants regards, et que votre belle bouche les confirme par quelques mots intelligibles.
-
--*who_madamedumeny
-Ah !
-Que vous êtes pressant ; j'entends du bruit ; je n'ai pas le temps de vous résister : Adieu, chevalier ; voyez-moi tous les jours, n'en perdez nulle occasion ; je serai de moitié avec vous pour en trouver ; la réputation que je me suis acquise ne nous nuira pas.
-
-**** *book_ *id_I08 *act_I *date_(non
-
--*who_lechevalier
-Ah !
-Madame, quel personnage vous me faites jouer !
-Mais que ne ferait-on point pour vous ?
-Notre dévote est rendue : Jamais conquête ne fut si facile ; deux ou trois soupirs en ont décidé.
-
--*who_madamedecassagne
-Oh, je m'en doutais bien !
-La petite bigote !
-Je ne faisais que la mépriser, je la hais présentement.
-Elle en veut donc à voire coeur ?
-Plus de ménagement pour elle, je vais tout découvrir à ma cousine.
-
--*who_lechevalier
-Ah !
-Madame, qu'allez-vous faire ?
-
--*who_madamedecassagne
-Ah !
-Monsieur, je sais tout ce que vous m'allez dire : l'honneur, la probité ; voilà un bel étalage !
-Mais il faut que je me venge, et que je fasse rendre justice à la conduite des deux sours.
-
-**** *book_ *id_I09 *act_I *date_(non
-
--*who_madamedeletang
-Allons, Monsieur, montrez-moi quelque chose de nouveau ; car je suis aujourd'hui fort ennuyée.
-
--*who_lemaitreadanser
-Voici un air, Mademoiselle, que j'ai fait ce matin, qui sans doute ne vous déplaira pas.
-Tendres soupirs, douces alarmes
-Qui déchirez mon tendre cour,
-Tandis que pour Tircis je répandais des larmes,
-L'ingrat faisait tout mon malheur :
-Mais ce malheur avait des charmes !
-Tendres soupirs, douces alarmes,
-Ne troublerez-vous plus mon cour ?
-
-**** *book_ *id_I10 *act_I *date_(non
-
--*who_madamedumeny
 Je suis ravie, mes filles, de vous pouvoir parler ensemble, au moment que j'ai achevé de prendre ma résolution.
 Je sais, ma fille, le goût que vous avez pour la retraite : je n'en ai plus pour les plaisirs : je fuis déterminée à me retirer avec vous dans quelque abbaye agréable, avec la meilleure partie de mon bien, pour goûter la douceur de la solitude, sans renoncer aux commodités de la vie.
 Pour vous, vous vous retirerez dans le monde avec votre cousine de Cassagne.
 
--*who_mademoiselledumeny
-Madame, il n est pas encore temps de décider de mon sort : ces fortes de résolutions ne font pas l'ouvrage d'un jour : je suis jeune et je ne veux point encore m'enfermer.
+Quel langage, ma fille, vous m'épouvantez ! Est-ce vous qui le tenez ? Vous, dis-je, qui toujours enfermée dans votre cabinet, montrez tant de mépris pour les dissipations du monde ? Vous qui...
 
--*who_madamedumeny
-Quel langage, ma fille, vous m'épouvantez !
-Est-ce vous qui le tenez ?
-Vous, dis-je, qui toujours enfermée dans votre cabinet, montrez tant de mépris pour les dissipations du monde ?
-Vous qui...
-
--*who_mademoiselledumeny
-Oui, Madame, c'est moi : je veux la liberté en tout.
-La même retraite qui me plaît, parce que personne ne m'y force, me deviendrait insupportable, si je me voyais clouée à un couvent : en un mot, Madame, donnez-moi le bien de mon père : ma conduite ne doit pas vous être suspecte : je pourrai prendre le parti qu'il me plaira, sans que personne y puisse gloser.
-
--*who_madamedumeny
 Mais, ma fille !...
 
--*who_madamedeletang
-Cessez, madame, de presser ma sour : et si vous me croyez digne de vous suivre dans votre retraite, vous m'y verrez aussi contente qu'au milieu des plaisirs : trop heureuse de pouvoir en toute ma vie faire une action qui vous soit agréable.
+Oui, Monsieur le Marquis, je vous reçois avec plaisir pour mon gendre : allons porter ces heureuses nouvelles à Madame de Cassagne ; mais à qui se fiera-t-on maintenant ? Et que vais-je faire d'une fille fausse qui m'a imposé si longtemps ?
 
-**** *book_ *id_I11 *act_I *date_(non
 
--*who_lemarquis
-Non, Madame, non, je ne souffrirai point que la plus charmante personne du monde se renferme dans un couvent : j'ai tout entendu ; elle est suffisamment éprouvée : sa vertu, et les grâces de sa personne, me déterminent à prendre un engagement dont je ne me croyais point capable ; acceptez, Madame, la demande que je vous en fais ; je n'y mets aucune condition.
+**** *creator_durant *book_durant_onneconnaitpaslevin *style_prose *genre_proverbe *dist1_durant_prose_proverbe_onneconnaitpaslevin *dist2_durant_prose_proverbe *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledumeny
 
--*who_mademoiselledumeny
+Vous êtes la maîtresse, Madame ; je tâcherai de ne pas laisser ennuyer monsieur le chevalier.
+
+Est-il possible, Monsieur le Chevalier, que vous soyez d'un goût si particulier ? Parmi votre sexe la plupart des hommes sont la dupe du faux brillant, et se rebute d'un air sévère.
+
+À vous dire vrai, je ne suis pas fâchée d'imposer : je vois avec plaisir le respect que j'inspire ; et je ne m'empresse pas de détromper le genre humain de l'idée qu'on s'est formée de moi. Mais pour vous, Monsieur le Chevalier, mais pour vous...
+
+Mais pour vous Monsieur le Chevalier, puisqu'il faut vous le dire, je vous distingue assez pour vous développer ma morale : elle n'est pas si sévère qu'elle paraît. Il est vrai qu'étant née fière, et voyant tant de réputations déchirées, j'ai tâché à me distinguer par des dehors qui ne manquent jamais de faire leur effet. J'ai fui les spectacles, les bals, ses parures : ma propreté a été simple ; mais je n'ai point exclu les sentiments du cour ; au contraire, j'ai imaginé un plaisir infini à tromper toute la terre, et à escroquer une réputation qui n'est pas moins honorable pour celui qui en connaît la fausseté, que pour celle qui la possède.
+
+Madame, il n est pas encore temps de décider de mon sort : ces fortes de résolutions ne font pas l'ouvrage d'un jour : je suis jeune et je ne veux point encore m'enfermer.
+
+Oui, Madame, c'est moi : je veux la liberté en tout. La même retraite qui me plaît, parce que personne ne m'y force, me deviendrait insupportable, si je me voyais clouée à un couvent : en un mot, Madame, donnez-moi le bien de mon père : ma conduite ne doit pas vous être suspecte : je pourrai prendre le parti qu'il me plaira, sans que personne y puisse gloser.
+
 Que je suis malheureuse, de voir triompher cette petite fille !
 
--*who_madamedumeny
-Oui, Monsieur le Marquis, je vous reçois avec plaisir pour mon gendre : allons porter ces heureuses nouvelles à Madame de Cassagne ; mais à qui se fiera-t-on maintenant ?
-Et que vais-je faire d'une fille fausse qui m'a imposé si longtemps ?
+
+**** *creator_durant *book_durant_onneconnaitpaslevin *style_prose *genre_proverbe *dist1_durant_prose_proverbe_onneconnaitpaslevin *dist2_durant_prose_proverbe *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedecassagne
+
+Prenez garde, Madame, de vous y méprendre : vous savez l'intérêt que je prends au chevalier, et vous n'ignorez pas l'engagement où je suis de l'épouser. Je lui ai vu lancer des regards par Mademoiselle Dumeny, qui me font penser tout autrement que vous. Permettez-moi de me servir de lui pour démêler ses sentiments ; cette épreuve ne peut faire de tort à votre aînée, si elle n'a que des intentions pures : et supposé que je ne me trompe pas, la cadette qui est très aimable, occupera seule votre amitié.
+
+J'ai bien autre chose en tête, ma petite cousine : il s'agit de pénétrer les plus secrets replis du cour de Mademoiselle Dumeny : il faut que je parle au chevalier pour ce grand dessein : adieu je reviendrai bientôt vous voir.
+
+Je venais prier Madame Dumeny, de recevoir Monsieur le Chevalier chez elle, tandis que j'irai faire quelques emplettes, mais en son absence, ma belle cousine,
+Je crois que vous voudrez bien le recevoir, et me donner cette petite folle pour venir avec moi.
+
+Oh, je m'en doutais bien ! La petite bigote ! Je ne faisais que la mépriser, je la hais présentement. Elle en veut donc à voire coeur ? Plus de ménagement pour elle, je vais tout découvrir à ma cousine.
+
+Ah ! Monsieur, je sais tout ce que vous m'allez dire : l'honneur, la probité ; voilà un bel étalage ! Mais il faut que je me venge, et que je fasse rendre justice à la conduite des deux sours.
+
+
+**** *creator_durant *book_durant_onneconnaitpaslevin *style_prose *genre_proverbe *dist1_durant_prose_proverbe_onneconnaitpaslevin *dist2_durant_prose_proverbe *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
+Me traiterez-vous toujours cruellement ? Ne trouverai-je en vous que des cruautés ? Mon ardente passion n'obtiendra-t-elle jamais quelque reconnaissance ? Mettez du moins un terme à mes malheurs.
+
+Oui, belle personne, je parlerai lorsqu'il en sera temps : mais armons-nous en attendant autant que le cour nous en dira : laissons le reste entre les mains de la destinée. Voudriez-vous commencer ; par le mariage ?
+
+Quelle inhumanité est la vôtre ! Au nom de l'amour ; charmante fille, rendez-vous à une passion qui me fera faire quelque extravagance.
+
+Plût au ciel !...
+
+Non, Madame, non, je ne souffrirai point que la plus charmante personne du monde se renferme dans un couvent : j'ai tout entendu ; elle est suffisamment éprouvée : sa vertu, et les grâces de sa personne, me déterminent à prendre un engagement dont je ne me croyais point capable ; acceptez, Madame, la demande que je vous en fais ; je n'y mets aucune condition.
+
+
+**** *creator_durant *book_durant_onneconnaitpaslevin *style_prose *genre_proverbe *dist1_durant_prose_proverbe_onneconnaitpaslevin *dist2_durant_prose_proverbe *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+Qu'elle me fait de plaisir, Mademoiselle ! Et que j'aime à voir en vous cette modestie, cette simplicité d'habits, et ces grâces naïves, dont la nature a voulu vous enrichir, et que l'art ne ferait que diminuer !
+
+Que je suis loin , Mademoiselle d'un si mauvais goût ! Et qu'une personne faite comme vous, avec un peu de bonté pour moi, me ferait faire de chemin ! Mais votre vertu, quel obstacle !
+
+Eh bien, Mademoiselle, mais pour moi ; achevez un discours qui commence à me charmer.
+
+Que d'esprit ! Que de raison, Mademoiselle ! Mais où est l'heureux qui vous fera réduire en pratique les maximes d'une morale si finement imaginée ?
+
+Oui, mademoiselle, je commence à comprendre l'excès de mon bonheur : mais achevez votre ouvrage ; secondez vos charmants regards, et que votre belle bouche les confirme par quelques mots intelligibles.
+
+Ah ! Madame, quel personnage vous me faites jouer ! Mais que ne ferait-on point pour vous ? Notre dévote est rendue : Jamais conquête ne fut si facile ; deux ou trois soupirs en ont décidé.
+
+Ah ! Madame, qu'allez-vous faire ?
+

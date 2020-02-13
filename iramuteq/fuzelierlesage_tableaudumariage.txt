@@ -1,19 +1,111 @@
 
 
-**** *book_ *id_I01 *act_I *date_1716
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diamantine
 
--*who_olivette
-Sangaride, ce jour est un grand jour pour vous.
-Vous allez donc enfin signer les articles de votre mariage.
-Là, vous sentez-vous la main assez ferme ?...
-
--*who_diamantine
 Je ne sais.
 
--*who_olivette
-Je ne sais !
-Ouais !
-Ce je ne sais présage une rechute d'incertitude.
+Ma chère Olivette, apprends ce qui m'effraye.
+
+J'ai fait un songe épouvantable. J'ai vu deux pigeons qui sortaient d'un colombier...
+
+Ils se sont arrêtés dans un champ. La femelle caressait le mâle, qui, bien, loin de répondre à ses caresses, lui a donné deux coups de bec en fureur, et s'est envolé.
+
+Ce spectacle m'a réveillée. J'ai regardé mon longe comme un avis que- le ciel ; me donne de me défier des hommes. Je ne signerai point le contrat. Je veux auparavant essayer encore le coeur d'Octave, et lui demander un délai.
+
+Tu me connais. Tu sais que j'ai pour le mariage une répugnance naturelle.
+
+Tes plaisanteries sont hors de saison. J'aime Octave, mais je ne veux pas être malheureuse.
+
+Je devine ce qui vous fait perdre patience. Vous craignez que le retardement de mes noces ne recule les vôtres ; mais rassurez-vous, mademoiselle Olivette. Vous pouvez, dès aujourd'hui, épouser Arlequin.
+Là-dessus fois sans effroi.
+De plus, je te jure
+Que les apprêts faits pour moi,
+Mon enfant, seront pour toi.
+
+Ah ! Voilà monsieur Minutin, mon flegmatique notaire !
+
+De qui parlez-vous ?
+
+Ah ! Ah !
+
+Assurément.
+
+Qu'a-t-elle donc fait, monsieur Francoeur ?
+
+C'est là le sujet de votre colère !
+
+Doucement, monsieur Francoeur. N'insultez pas Monsieur Minutin, mon notaire.
+
+À propos, comment se porte-t-elle, madame Minutin ?
+
+À l'agonie, Olivette ! À l'agonie ! Avec quel sang-froid il dit cela !
+
+Il dit cela avec une gaieté qui me révolte.
+
+Ô ciel ! Allez messieurs, je n'ai pas besoin de vous.
+
+Ce ne sera pas pour aujourd'hui.
+
+Je n'ai pas tort, comme tu vois, de m'arrêter à mon songe.
+
+Il me faut une autre caution que toi.
+
+Faites-la passer dans le salon au bout du jardin. Qu'on laisse la salle à la compagnie qui viendra.
+
+Oui. Si Monsieur Pépin, mon oncle, me donne une idée du mariage qui autorise vos empressements, je vous promets de rien écouter que mon coeur.
+
+Elles ne doivent point vous offenser. Je vous estime ; et la seule crainte de voir finir trop tôt des sentiments qui me sont chers, m'empêche de vous rendre heureux.
+
+Laissons-là les protestations. Mon oncle et ma tante me détermineront. Ils seront bientôt ici.
+
+Que veux-tu ? Je me suis enfin rendue aux pressantes instances d'Octave.
+
+Qu'entends-je ! Toi, qui tantôt...
+
+Ah ! Mon cher oncle !
+
+Oh ! Pour cela, mon oncle et ma tante vivent dans une intelligence qui fait plaisir.
+
+Rien n'est si charmant.
+
+Ma tante !
+
+Madame Pépin !
+
+Vous voyez, Octave, quelle idée me donnent du mariage les arbitres que vous avez choisis. J'y renonce absolument.
+
+Modérez-vous, ma tante. Voici l'assemblée.
+
+
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
+Quel heureux jour, ma chère Olivette ! Enfin, l'aimable Diamantine fixe ses irrésolutions et se livre à ma tendresse. Je n'ai jamais été si content ; mon coeur ne peut contenir ses transports.
+
+Que veux-tu dire ? Explique-toi, de grâce.
+
+Vous me le promettez donc, charmante Diamantine.
+
+Je vais trouver monsieur et madame Pépin. Ils sont trop unis pour ne pas condamner vos incertitudes.
+
+Ah ! Je vous proteste.
+
+Je vais au-devant d'eux. Pardonnez-moi cette impatience.
+
+Vous l'entendez, belle Diamantine.
+
+Monsieur Pépin.
+
+Allons, monsieur Pépin, allons !
+
+Que je suis malheureux ! Il faut attendre un temps plus favorable pour vaincre son entêtement.
+
+
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olivette
+
+Sangaride, ce jour est un grand jour pour vous.
+Vous allez donc enfin signer les articles de votre mariage. Là, vous sentez-vous la main assez ferme ?...
+
+Je ne sais ! Ouais ! Ce je ne sais présage une rechute d'incertitude.
 En vérité, je vous admire.
 Comment ? Après que devant moi
 Octave a reçu votre foi,
@@ -21,47 +113,18 @@ Vous voilà prête à vous dédire !
 Vous trahiriez votre ferment !
 Fi ! Vous avez le coeur normand !
 
--*who_diamantine
-Ma chère Olivette, apprends ce qui m'effraye.
-
--*who_olivette
 Voyons.
 
--*who_diamantine
-J'ai fait un songe épouvantable.
-J'ai vu deux pigeons qui sortaient d'un colombier...
+Deux pigeons qui sortaient d'un colombier ! Voilà un commencement de rêve qui fait trembler.
 
--*who_olivette
-Deux pigeons qui sortaient d'un colombier !
-Voilà un commencement de rêve qui fait trembler.
+Ah ! Le vilain mâle !
 
--*who_diamantine
-Ils se sont arrêtés dans un champ.
-La femelle caressait le mâle, qui, bien, loin de répondre à ses caresses, lui a donné deux coups de bec en fureur, et s'est envolé.
-
--*who_olivette
-Ah !
-Le vilain mâle !
-
--*who_diamantine
-Ce spectacle m'a réveillée.
-J'ai regardé mon longe comme un avis que- le ciel ; me donne de me défier des hommes.
-Je ne signerai point le contrat.
-Je veux auparavant essayer encore le coeur d'Octave, et lui demander un délai.
-
--*who_olivette
 Vous aimez, et l'on vous adore,
 Pourquoi ces bizarres essais ?
 Je n'ai point vu de fille encore
 Demander de pareils délais.
 
--*who_diamantine
-Tu me connais.
-Tu sais que j'ai pour le mariage une répugnance naturelle.
-
--*who_olivette
-Oh !
-Dites surnaturelle, s'il vous plaît.
+Oh ! Dites surnaturelle, s'il vous plaît.
 Le principe est contre vous.
 Avouez-le entre nous.
 On peut bien trouver dans des belles
@@ -69,11 +132,6 @@ Des répugnances naturelles.
 Pour certains maris concedo :
 Mais pour l'hymen, nego
 
--*who_diamantine
-Tes plaisanteries sont hors de saison.
-J'aime Octave, mais je ne veux pas être malheureuse.
-
--*who_olivette
 Que fera-t-on du festin qu'on apprête,
 Que diront vos amis ?
 Ils vont bientôt s'assembler pour la fête ;
@@ -83,236 +141,40 @@ Je perds patience,
 Moi,
 Je perds patience.
 
--*who_diamantine
-Je devine ce qui vous fait perdre patience.
-Vous craignez que le retardement de mes noces ne recule les vôtres ; mais rassurez-vous, mademoiselle Olivette.
-Vous pouvez, dès aujourd'hui, épouser Arlequin.
-Là-dessus fois sans effroi.
-De plus, je te jure
-Que les apprêts faits pour moi,
-Mon enfant, seront pour toi.
-
--*who_olivette
 La bonne aventure,
 Ô gai
 La bonne aventure.
 
--*who_diamantine
-Ah !
-Voilà monsieur Minutin, mon flegmatique notaire !
+Et voici le brusque monsieur Francoeur, marchand de rubans. Ce sont deux caractères bien opposés.
 
--*who_olivette
-Et voici le brusque monsieur Francoeur, marchand de rubans.
-Ce sont deux caractères bien opposés.
-
-**** *book_ *id_I02 *act_I *date_1716
-
--*who_monsieurfrancoeur
-La carogne !
-La carogne !
-C'est un esprit à rebours,
-C'est un vrai gâte-besogne,
-La carogne !
-La carogne !
-Que la peste la crève !
-
--*who_olivette
 Qui donc, monsieur Francoeur ?
 
--*who_diamantine
-De qui parlez-vous ?
-
--*who_monsieurfrancoeur
-Hé, parbleu !
-C'est de ma femme !
-
--*who_diamantine
-Ah !
-Ah !
-
--*who_olivette
 Vous en êtes occupé agréablement.
 
--*who_monsieurminutin
-Il faut avoir de fortes raisons pour parler de Qa femme dans de pareils termes.
-
--*who_diamantine
-Assurément.
-
--*who_monsieurfrancoeur
-C'est une femme insupportable,
-Qui me met sans cesse en fureur.
-Aussi, je la bats comme un diable.
-
--*who_olivette
 Entendez-yous, monsieur Francoeur ?
-Heu !
-Le vilain pigeon !
+Heu ! Le vilain pigeon !
 
--*who_diamantine
-Qu'a-t-elle donc fait, monsieur Francoeur ?
+Quoi ! C'est pour cela que vous êtes si fort irrité contre elle ?
 
--*who_monsieurfrancoeur
-La maudite femme devrait être déjà ici, et vous avoir apporté vos rubans.
-
--*who_olivette
-Quoi !
-C'est pour cela que vous êtes si fort irrité contre elle ?
-
--*who_diamantine
-C'est là le sujet de votre colère !
-
--*who_monsieurfrancoeur
-Comment, ventrebleu !
-N'ai-je pas raison ?
-
--*who_monsieurminutin
-Le sujet est bien mince, monsieur Francoeur.
-
--*who_monsieurfrancoeur
-Bien mince, que diable, bien mince !
-Je ne fais pas le doucereux ; comme-vous, moniteur Minutin.
-
--*who_monsieurminutin
-Sans emportement.
-
--*who_monsieurfrancoeur
-Je veux m'emporter, moi !
-Mêlez-vous de vos affaires.
-
--*who_monsieurminutin
-Quel salpêtre !
-Peut-on être :
-D'un tempérament si vif !
-
--*who_monsieurfrancoeur
-Quelle face
-A la glace !
-C'est un réfrigératif.
-
--*who_diamantine
-Doucement, monsieur Francoeur.
-N'insultez pas Monsieur Minutin, mon notaire.
-
--*who_monsieurfrancoeur
-Qu'il me laisse donc en repos.
-
--*who_monsieurminutin
-Eh !
-Madame, laissez tirer Monsieur Francoeur !
-Je ne crains pas le feu.
-
--*who_monsieurfrancoeur
-Je ne crains pas le feu.
-Il vous sied bien de faire le railleur.
-
--*who_olivette
 Aurez-vous toujours cette bile ?
 Regardez, monsieur Minutin :
 Quel maintien joyeux et tranquille !
 
--*who_monsieurfrancoeur
-Il a l'air d'un mari bénin.
-
--*who_monsieurminutin
-Je me prête à la plaisanterie, monsieur Francoeur.
-Oui, j'aime ma femme.
-Je ne l'ai jamais tant aimée.
-
--*who_olivette
 Voilà la perle des époux.
 
--*who_diamantine
-À propos, comment se porte-t-elle, madame Minutin ?
+Le bourreau ! Voici bien un autre pigeon, ma, foi !
 
--*who_monsieurminutin
-Fort mal, là pauvre femme ; elle est à l'extrémité.
-Je l'ai laissée à l'agonie.
-
--*who_diamantine
-À l'agonie, Olivette !
-À l'agonie !
-Avec quel sang-froid il dit cela !
-
--*who_olivette
-Le bourreau !
-Voici bien un autre pigeon, ma, foi !
-
--*who_monsieurminutin
-Mon médecin l'a condamnée.
-Il n'en manque point, entre nous.
-Je serai veuf dans la journée...
-
--*who_monsieurfrancoeur
-Voilà la perle des époux.
-
--*who_olivette
 Mathieu
 Grâce à Dieu,
 Ma femme est morte...
 Quel coup de bec !
 
--*who_diamantine
-Il dit cela avec une gaieté qui me révolte.
-
--*who_olivette
 Quels maris !
 
--*who_diamantine
-Ô ciel !
-Allez messieurs, je n'ai pas besoin de vous.
+Cela ne presse pas. Tirez, tirez, tendres époux...
 
--*who_monsieurminutin
-Mais... votre contrat de mariage...
+Oh ! Madame, Octave vous prépare un sort plus agréable ! Je vous en réponds.
 
--*who_diamantine
-Ce ne sera pas pour aujourd'hui.
-
--*who_monsieurfrancoeur
-Vos rubans de noces...
-
--*who_olivette
-Cela ne presse pas.
-Tirez, tirez, tendres époux...
-
--*who_monsieurfrancoeur
-Serviteur.
-
--*who_monsieurminutin
-Adieu donc, madame,
-Puisque vous changez de dessein.
-
--*who_monsieurfrancoeur
-Que je vais bien rosser, ma femme.
-
--*who_monsieurminutin
-Moi, bien payer mon médecin !
-
-**** *book_ *id_I03 *act_I *date_1716
-
--*who_diamantine
-Je n'ai pas tort, comme tu vois, de m'arrêter à mon songe.
-
--*who_olivette
-Oh !
-Madame, Octave vous prépare un sort plus agréable !
-Je vous en réponds.
-
--*who_diamantine
-Il me faut une autre caution que toi.
-
-**** *book_ *id_I04 *act_I *date_1716
-
--*who_lelaquais
-Votre couturière, madame.
-
--*who_diamantine
-Faites-la passer dans le salon au bout du jardin.
-Qu'on laisse la salle à la compagnie qui viendra.
-
-**** *book_ *id_I05 *act_I *date_1716
-
--*who_olivette
 Lorsque l'hymen vient l'appeler,
 Un songe la fait reculer.
 Ne faisons point la même faute :
@@ -320,282 +182,40 @@ Toute prête, à donner la main,
 Je ne serai pas assez sotte
 Pour rester en si beau chemin.
 
-**** *book_ *id_I06 *act_I *date_1716
-
--*who_octave
-Quel heureux jour, ma chère Olivette !
-Enfin, l'aimable Diamantine fixe ses irrésolutions et se livre à ma tendresse.
-Je n'ai jamais été si content ; mon coeur ne peut contenir ses transports.
-
--*who_arlequin
-Oui, tiens ne crois pas qu'il se moque ;
-Écoute ce tendre sanglot.
-Ouf ! L'amour tous deux nous suffoque.
-Nous en avons jusqu'au goulot.
-Quoi, Vous rêvez, ma chère !
-
--*who_olivette
 Je pense en ce moment
 Qu'un Hymen qu'on diffère
 N'en est que plus charmant
 
--*who_arlequin
-Pour une fille nubile, c'est penser bien extraordinairement.
+Ma maîtresse est dans le salon au bout du jardin. Elle a fait un rêve qui l'embarrasse. Allez lui mettre l'esprit en repos là-dessus.
 
--*who_octave
-Que veux-tu dire ?
-Explique-toi, de grâce.
-
--*who_olivette
-Ma maîtresse est dans le salon au bout du jardin.
-Elle a fait un rêve qui l'embarrasse.
-Allez lui mettre l'esprit en repos là-dessus.
-
-**** *book_ *id_I07 *act_I *date_1716
-
--*who_olivette
 Rends grâces au ciel de ce que je ne donne pas dans les songes, moi.
 
--*who_arlequin
-Belle brune,
-Belle brune,
-Quel changement feraient donc
-Les songes dans ma fortune,,
-Belle brune,
-Belle brune ?
-
--*who_olivette
 Malgré tous les appas
 Du plus doux hyménée,
 Olivette obstinée
 Fuirait jusqu'au trépas,
 Ne m'entendez-vous pas.
 
--*who_arlequin
-Tu ne m'épouserais pas, si tu croyais aux songes ?
-
--*who_olivette
 Non.
 
--*who_arlequin
-Comment, diable !
+Un rêve qu'a fait Diamantine va peut-être rompre son mariage. Elle a vu en songe deux pigeons...
 
--*who_olivette
-Un rêve qu'a fait Diamantine va peut-être rompre son mariage.
-Elle a vu en songe deux pigeons...
-
--*who_arlequin
-Étaient-ils à la crapaudine ?
-
--*who_olivette
 Le mâle a donné deux coups de bec à la femelle.
 
--*who_arlequin
-Deux coups de bec.
-Attendez, cela est équivoque.
-J'ai vu, moi, cent pigeons de Paris, assemblés au bois de Boulogne, se donner de bonne amitié cent coups de bec.
+Oh ! Le pigeon de notre rêve était en fureur ! Mais laissons cela. Seras-tu bon mari ?
 
--*who_olivette
-Oh !
-Le pigeon de notre rêve était en fureur !
-Mais laissons cela.
-Seras-tu bon mari ?
-
--*who_arlequin
-Tous les jours (j'en jure ma foi),
-Oui, ma petite brune,
-Je prétends souper avec toi,
-Et plutôt deux fois qu'une.
-Tous deux contents ; tous deux en paix,
-Tous deux n'ayant qu'une âme...
-
--*who_olivette
 Mais on ne nous prendra jamais
 Pour l'époux et la femme.
-Sans adieu.
-Je vais rejoindre ma maîtresse.
+Sans adieu. Je vais rejoindre ma maîtresse.
 
--*who_arlequin
-Et moi, les danseurs et les symphonistes qui doivent se rendre ici ; j'ai des ordres à leur donner de la part de mon maître...
-Mais que vois-je !
-C'est Scaramouche.
-
-**** *book_ *id_I08 *act_I *date_1716
-
--*who_scaramouche
-Eh !
-Bonjour, Arlequin !
-Tu es toujours dans le service, à ce qu'il me semble.
-
--*who_arlequin
-Est-ce que tu n'y es plus, toi ?
-
--*who_scaramouche
-J'ai fait une fin, mon enfant.
-Je suis devenu bourgeois de Paris.
-Je suis confiturier.
-
--*who_arlequin
-Bel établissement, ma foi !
-Voilà de ton ouvrage, apparemment ?
-
--*who_scaramouche
-Sans doute.
-Ce sont des fruits confits que j'apporte dans cette maison pour une noce.
-
--*who_arlequin
-J'en veux goûter, pour voir ce que tu sais faire.
-À la besogne, on connaît l'ouvrier.
-
--*who_scaramouche
-Hé bien, qu'en dis-tu ?
-
--*who_arlequin
-Tu es bon confiseur.
-Parbleu, tu travailles à merveilles.
-
--*who_scaramouche
-Et toi, de même.
-Tudieu !
-Vous êtes bien expéditif !
-
--*who_arlequin
-Par quelle aventure as-tu embrassé une si belle profession ?
-
--*who_scaramouche
-Je vais te le dire.
-Au commencement de cette année, j'entrai dans une boutique de confiturier, pour y acheter quelques petites douceurs, pour faire des étrennes.
-
--*who_arlequin
-Fort bien.
-
--*who_scaramouche
-Je vois dans le comptoir una dona qui avait un petit enfant auprès d'elle, ma una dona bene fatta.
-
--*who_arlequin
-Jeune et belle ?
-
--*who_scaramouche
-Là, là.
-
--*who_arlequin
-Blonde ?
-
--*who_scaramouche
-Non.
-
--*who_arlequin
-Brune donc ?
-
--*who_scaramouche
-Pas tout à fait.
-Ses cheveux sont noirs et blancs par-ci ; par-là...
-
--*who_arlequin
-Ah !
-Oui.
-En demi-deuil.
-
--*who_scaramouche
-Je la salue...
-Je caresse le petit-enfant...
-Mais, que faites-vous là ?
-
--*who_arlequin
-Mignon, mignon.
-Tenez, mon fils.
-
--*who_scaramouche
-Vous prenez mes confitures, je crois.
-
--*who_arlequin
-C'est que je veux donner du bonbon à l'enfant.
-
--*who_scaramouche
-Hé, non, non !
-Vous lui gâterez les dents...
-Je vous disais donc que je salue la marchande.
-Je lui demande des dragées, et je commence (vous m'entendez bien) à lui conter fleurettes.
-
--*who_arlequin
-Conter fleurettes.
-Je vous entends.
-Diable !
-Vous êtes un fin matois.
-
--*who_scaramouche
-Hé !
-Hé !...
-Elle m'écoute ; et pour vous le couper court, elle m'apprend qu'elle est veuve.
-Je m'offre à l'épouser elle me prend au mot, et...
-Oh, oh !
-Vous vous plaisez diablement de ce côté-là !
-
--*who_arlequin
-C'est que j'entends de ce côté
-Mieux que de l'autre, en vérité,
-Lon lan-la, derirette.
-
--*who_scaramouche
-Demeurez-y donc, mon ami,
-Lon lan-la, deriri.
-
-**** *book_ *id_I09 *act_I *date_1716
-
--*who_olivette
 Arlequin est encore, ici !
 
--*who_scaramouche
-J'ai donc épousé cette veuve, et je me suis fait confiturier.
-
--*who_olivette
 Écoutons un peu cette conversation.
 
--*who_arlequin
-Vous avez fort bien fait.
-
--*who_scaramouche
-Pas trop.
-Je me suis bientôt aperçu que j'avais épousé une diablesse, une...
-En un mot, une femme...
-
--*who_arlequin
-Une femme.
-Oui, c'est tout dire.
-
--*who_olivette
 Rien n'est plus galant.
 
--*who_scaramouche
-Elle me contrecarre sans cesse, et défait ce que je fais.
+Hé bien ? Vous prendriez votre canne.
 
--*who_arlequin
-Hé, ne pouvez-vous dompter cette bête quinteuse ?
-
--*who_scaramouche
-Comment feriez-vous pour cela.
-
--*who_arlequin
-Comment ?
-Ventrebleu !
-Je dirais à ma très honorée épouse : Regardez, ma mie, j'ai le bras vigoureux, le poignet ferme le geste vif ; Ensuite, je prendrais ma canne...
-Hoïmé !
-
--*who_olivette
-Hé bien ?
-Vous prendriez votre canne.
-
--*who_arlequin
-Oui...
-Oui...
-Je prendrais ma canne... et... et j'irais me promener.
-
--*who_scaramouche
-Rendez-moi du moins le panier.
-
-**** *book_ *id_I10 *act_I *date_1716
-
--*who_olivette
 Ô le scélérat !
 Je vois que le songe a raison :
 Diamantine est sage.
@@ -610,301 +230,175 @@ Biribi,
 Mon ami.
 Mais, voici, ce me semble, un changement de décoration.
 
-**** *book_ *id_I11 *act_I *date_1716
-
--*who_octave
-Vous me le promettez donc, charmante Diamantine.
-
--*who_diamantine
-Oui.
-Si Monsieur Pépin, mon oncle, me donne une idée du mariage qui autorise vos empressements, je vous promets de rien écouter que mon coeur.
-
--*who_octave
-Je vais trouver monsieur et madame Pépin.
-Ils sont trop unis pour ne pas condamner vos incertitudes.
-
--*who_diamantine
-Elles ne doivent point vous offenser.
-Je vous estime ; et la seule crainte de voir finir trop tôt des sentiments qui me sont chers, m'empêche de vous rendre heureux.
-
--*who_octave
-Ah !
-Je vous proteste.
-
--*who_diamantine
-Laissons-là les protestations.
-Mon oncle et ma tante me détermineront.
-Ils seront bientôt ici.
-
--*who_octave
-Je vais au-devant d'eux.
-Pardonnez-moi cette impatience.
-
-**** *book_ *id_I12 *act_I *date_1716
-
--*who_olivette
 Vous me paraissez rentrer en goût.
 
--*who_diamantine
-Que veux-tu ?
-Je me suis enfin rendue aux pressantes instances d'Octave.
-
--*who_olivette
 C'est fort bien fait à vous, Craignez de vous en repentir.
 
--*who_diamantine
-Qu'entends-je !
-Toi, qui tantôt...
-
--*who_olivette
-J'ai fait mes réflexions.
-Je commence à donner dans les songes.
-Croyez-moi.
+J'ai fait mes réflexions. Je commence à donner dans les songes. Croyez-moi.
 Tenons-nous comme nous sommes,
 Jamais ne nous engageons :
 Je vois qu'aujourd'hui les hommes
 Sont tous de méchants pigeons.
 Au diable le meilleur !
 
-**** *book_ *id_I13 *act_I *date_1716
+Peste ! Madame Pépin a l'esprit fort !
 
--*who_arlequin
+Oui, je crois qu'entre les galants
+Votre oncle brillait fort du temps
+De Jean de Vert (trois fois) en France.
+
+Le mariage lui fait peur.
+
+Quelle union !
+
+Sans vous donner le moindre coup de bec ?
+
+Montrez-vous la plus sage.
+
+Ma tante !
+
+Et moi, tout de même.
+
+Vous, monsieur Arlequin, prenez votre canne, et vous allez promener.
+
+Commençons la fête préparée. Faisons les contre-fiançailles. Réjouissons-nous de n'avoir pas fait la sottise de nous marier.
+
+
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+Oui, tiens ne crois pas qu'il se moque ;
+Écoute ce tendre sanglot.
+Ouf ! L'amour tous deux nous suffoque.
+Nous en avons jusqu'au goulot.
+Quoi, Vous rêvez, ma chère !
+
+Pour une fille nubile, c'est penser bien extraordinairement.
+
+Belle brune,
+Belle brune,
+Quel changement feraient donc
+Les songes dans ma fortune,,
+Belle brune,
+Belle brune ?
+
+Tu ne m'épouserais pas, si tu croyais aux songes ?
+
+Comment, diable !
+
+Étaient-ils à la crapaudine ?
+
+Deux coups de bec. Attendez, cela est équivoque. J'ai vu, moi, cent pigeons de Paris, assemblés au bois de Boulogne, se donner de bonne amitié cent coups de bec.
+
+Tous les jours (j'en jure ma foi),
+Oui, ma petite brune,
+Je prétends souper avec toi,
+Et plutôt deux fois qu'une.
+Tous deux contents ; tous deux en paix,
+Tous deux n'ayant qu'une âme...
+
+Et moi, les danseurs et les symphonistes qui doivent se rendre ici ; j'ai des ordres à leur donner de la part de mon maître... Mais que vois-je ! C'est Scaramouche.
+
+Est-ce que tu n'y es plus, toi ?
+
+Bel établissement, ma foi ! Voilà de ton ouvrage, apparemment ?
+
+J'en veux goûter, pour voir ce que tu sais faire. À la besogne, on connaît l'ouvrier.
+
+Tu es bon confiseur. Parbleu, tu travailles à merveilles.
+
+Par quelle aventure as-tu embrassé une si belle profession ?
+
+Fort bien.
+
+Jeune et belle ?
+
+Blonde ?
+
+Brune donc ?
+
+Ah ! Oui. En demi-deuil.
+
+Mignon, mignon. Tenez, mon fils.
+
+C'est que je veux donner du bonbon à l'enfant.
+
+Conter fleurettes. Je vous entends. Diable ! Vous êtes un fin matois.
+
+C'est que j'entends de ce côté
+Mieux que de l'autre, en vérité,
+Lon lan-la, derirette.
+
+Vous avez fort bien fait.
+
+Une femme. Oui, c'est tout dire.
+
+Hé, ne pouvez-vous dompter cette bête quinteuse ?
+
+Comment ? Ventrebleu ! Je dirais à ma très honorée épouse : Regardez, ma mie, j'ai le bras vigoureux, le poignet ferme le geste vif ; Ensuite, je prendrais ma canne...
+Hoïmé !
+
+Oui... Oui... Je prendrais ma canne... et... et j'irais me promener.
+
 Vivent les ris et les jeux !
 Ne parlons que de boire.
 L'oncle et la tante tous deux
 Viennent seconder nos voeux.
 Victoire, victoire, victoire !
-Voici monsieur et madame Pépin.
-Gare, gare !
+Voici monsieur et madame Pépin. Gare, gare !
 
-**** *book_ *id_I14 *act_I *date_1716
-
--*who_monsieurpepin
-Hé bien, qu'est-ce, ma mignonne ?
-On raconte de vous des choses incroyables.
-Vous voulez, dit-on, différer, votre mariage à cause d'un songe.
-
--*who_madamepepin
-Un songe vous fait peur !
-Ma nièce !
-Quelle pauvreté !
-Si vous aviez été au devin, encore passe.
-
--*who_olivette
-Peste !
-Madame Pépin a l'esprit fort !
-
--*who_madamepepin
-Quand Monsieur Pépin me faisait l'amour, bien loin d'appréhender le jour de mes noces.
-En attendant ce jour charmant,
-Je répétais incessamment :
-Viens, beau jour, viens en diligence !
-Y-avance, y-avance, y-avance !
-Viens remplir mon impatience.
-
--*who_monsieurpepin
-Madame Pépin n'acheta pas le chat en poche lorsqu'elle m'épousa.
-Oh ! J'étais dans mes jeunes ans
-Un cadet d'importance !
-Mes visites chez bien des gens
-Tiraient à conséquence.
-
--*who_olivette
-Oui, je crois qu'entre les galants
-Votre oncle brillait fort du temps
-De Jean de Vert (trois fois) en France.
-
--*who_madamepepin
-Prenez un bon mari, ma fille.
-
--*who_olivette
-Le mariage lui fait peur.
-
--*who_madamepepin
-Elle n'est pas de la famille.
-
--*who_monsieurpepin
-Nous n'avons pas cette froideur ;
-Nous n'aimons qu'à sauter, qu'à rire ;
-
--*who_olivette_arlequin
-Talaleri, talaleri, talalerire.
-
--*who_diamantine
-Ah !
-Mon cher oncle !
-
--*who_monsieurpepin
-Ce n'est rien.
-
--*who_madamepepin
-N'êtes-vous point blessé, mon petit chaton ?
-
--*who_monsieurpepin
-Non, ma poule.
-
--*who_olivette
-Quelle union !
-
--*who_diamantine
-Oh !
-Pour cela, mon oncle et ma tante vivent dans une intelligence qui fait plaisir.
-
--*who_monsieurpepin
-Cela est véritable.
-J'ai l'honneur d'être marguillier.
-
--*who_madamepepin
-On nous connaît dans le quartier
-Pour ménage incomparable.
-En mangeant notre petit rôt,
-L'amour est avec nous à table.
-
--*who_arlequin
 Il est là d'un fort bel écot.
 
--*who_monsieurpepin
-Madame Pépin est une franche brebis.
-
--*who_madamepepin
-Monsieur Pépin est un vrai petit mouton.
-Il y a trente-huit ans que nous vivons ensemble comme deux tourterelles.
-
--*who_olivette
-Sans vous donner le moindre coup de bec ?
-
--*who_madamepepin
-Oui, ma mie, trente-huit ans d'amour conjugal.
-
--*who_octave
-Vous l'entendez, belle Diamantine.
-
--*who_diamantine
-Rien n'est si charmant.
-
--*who_monsieurpepin
-Madame Pépin !
-Il y a, s'il vous plaît, quarante bonnes années bien complètes.
-
--*who_madamepepin
-Monsieur Pépin !...
-
--*who_monsieurpepin
-Eh !
-Madame Pépin !
-Nous nous sommes mariés en 1676.
-J'en ai la note dans mon cabinet.
-
--*who_madamepepin
-La note, la note !
-Vous faites-là de belles observations.
-Belle pièce de cabinet.
-
--*who_monsieurpepin
-Croyez-moi, deux ans de plus ou de moins à notre âge...
-Baste.
-Notre temps est passé.
-
--*who_madamepepin
-Parlez du vôtre, monsieur Pépin, parlez du vôtre.
-Vous n'êtes plus bon à rien ; mais pour moi... suffit.
-Je ne radote point encore.
-
--*who_monsieurpepin
-Mais, que diable, vous voyez,
-
--*who_madamepepin
-Oh !
-Je vois, je vois que vous aimez à me contredire.
-Vous avez ce défaut-là, mon mari.
-
--*who_monsieurpepin
-Vous en avez bien d'autres, vous, ma femme.
-
--*who_madamepepin
-Je ne sais comment j'ai pu durer si longtemps avec un homme aussi insupportable que vous.
-
--*who_diamantine
-Ma tante !
-
--*who_monsieurpepin
-Vous mettez vos ridicules humeurs sur mon compte...
-
--*who_octave
-Monsieur Pépin.
-
--*who_madamepepin
-Mes ridicules humeurs !
-Ah !
-Le vieux fou !
-Jour de Dieu !
-Je vous dévisagerais.
-Souvenez-vous du chandelier que je vous jetai l'autre jour à la tête.
-
--*who_olivette
-Montrez-vous la plus sage.
-
--*who_monsieurpepin
-Souvenez-vous du soufflet que je vous donnai en faisant les rois.
-
--*who_arlequin
 Souvenez-vous que vous êtes marguillier.
 
--*who_madamepepin
-Ne m'échauffez pas les oreilles.
-
--*who_monsieurpepin
-Si je mets la main sur vous...
-
--*who_madamepepin
-Ah !
-Ç'en est trop !
-
--*who_monsieurpepin
-Je perds patience.
-
--*who_octave
-Allons, monsieur Pépin, allons !
-
--*who_diamantine
-Madame Pépin !
-
--*who_arlequin
 Mon oncle !
 
--*who_olivette
-Ma tante !
-
--*who_diamantine
-Vous voyez, Octave, quelle idée me donnent du mariage les arbitres que vous avez choisis.
-J'y renonce absolument.
-
--*who_olivette
-Et moi, tout de même.
-
--*who_octave
-Que je suis malheureux !
-Il faut attendre un temps plus favorable pour vaincre son entêtement.
-
--*who_arlequin
 Et moi, mademoiselle Olivette, que vais-je devenir ?
 
--*who_olivette
-Vous, monsieur Arlequin, prenez votre canne, et vous allez promener.
-
--*who_arlequin
 Le diable emporte tous les Pépin présents et à venir.
 
-**** *book_ *id_I15 *act_I *date_1716
 
--*who_madamepepin
-Cet impertinent ...!
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
 
--*who_diamantine
-Modérez-vous, ma tante.
-Voici l'assemblée.
+Eh ! Bonjour, Arlequin !
+Tu es toujours dans le service, à ce qu'il me semble.
 
--*who_olivette
-Commençons la fête préparée.
-Faisons les contre-fiançailles.
-Réjouissons-nous de n'avoir pas fait la sottise de nous marier.
+J'ai fait une fin, mon enfant. Je suis devenu bourgeois de Paris. Je suis confiturier.
+
+Sans doute. Ce sont des fruits confits que j'apporte dans cette maison pour une noce.
+
+Hé bien, qu'en dis-tu ?
+
+Et toi, de même. Tudieu ! Vous êtes bien expéditif !
+
+Je vais te le dire. Au commencement de cette année, j'entrai dans une boutique de confiturier, pour y acheter quelques petites douceurs, pour faire des étrennes.
+
+Je vois dans le comptoir una dona qui avait un petit enfant auprès d'elle, ma una dona bene fatta.
+
+Là, là.
+
+Non.
+
+Pas tout à fait. Ses cheveux sont noirs et blancs par-ci ; par-là...
+
+Je la salue... Je caresse le petit-enfant... Mais, que faites-vous là ?
+
+Vous prenez mes confitures, je crois.
+
+Hé, non, non ! Vous lui gâterez les dents... Je vous disais donc que je salue la marchande. Je lui demande des dragées, et je commence (vous m'entendez bien) à lui conter fleurettes.
+
+Hé ! Hé !... Elle m'écoute ; et pour vous le couper court, elle m'apprend qu'elle est veuve. Je m'offre à l'épouser elle me prend au mot, et...
+Oh, oh ! Vous vous plaisez diablement de ce côté-là !
+
+Demeurez-y donc, mon ami,
+Lon lan-la, deriri.
+
+J'ai donc épousé cette veuve, et je me suis fait confiturier.
+
+Pas trop. Je me suis bientôt aperçu que j'avais épousé une diablesse, une... En un mot, une femme...
+
+Elle me contrecarre sans cesse, et défait ce que je fais.
+
+Comment feriez-vous pour cela.
+
+Rendez-moi du moins le panier.
+

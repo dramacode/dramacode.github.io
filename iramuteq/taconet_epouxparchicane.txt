@@ -1,117 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1759
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_furibon
 
--*who_michau
-Enfin voici le jour où tout me favorise ;
-Nos pères vont ici terminer tout procès :
-L'Objet dont mon âme est éprise,
-Antoinette est le sceau d'une si douce paix.
-
--*who_antoinette
-Cette paix flatte autant mon âme
-Que la vôtre y trouve d'appas.
-Je vous dirai bien plus: une secrète flamme
-Pour vous.... Mais ma pudeur...
-
--*who_michau
-      Quel est cet embarras ?
-Si j'eus le bonheur de te plaire,
-Pourquoi, belle Antoinette, en ferais-tu mystère ?
-
-
-Pour moi, toujours sous ta loi
-Je serai plus sinc7re :
-Je fais serment de ma foi,
-Et veux sans cesse avec toi
-Le faire, le faire, le faire.
-Oui, ma petite femme, avec toi chaque jour
-je veux augmenter de tendresse,
-Et je compte sur du retour.
-Mais tu ne réponds rien au transport qui me presse?
-Je serais fâché qu'il te blesse.
-
--*who_antoinette
-Dans le silence de l'amour
-Il s'explique mieux qu'on ne pense;
-Ce qu'on prend pour indifférence
-N'est souvent qu'un adroit détour :
-Mais un tendre coeur lit d'avance.
-Dans le silence de l'amour.
-
--*who_michau
-Ah ! Trop heureux Michau ! Que cet aveu me touche !
-Malgré tant de procès nourris,
-Antoinette et Michau vont donc se voir unis !
-
--*who_antoinette
-Oui, mon coeur aujourd'hui cesse d'être farouche.
-La forte délicatesse
-D'examiner pour choisir,
-Et de voir si la tendresse
-Répond à notre désir !
-Pour moi bien moins difficile,
-Je te prends sans réfléchir :
-Un époux nous est utile,
-Et j'y prends bien du plaisir.
-Oui, je te le répète encore,
-Depuis ce matin je t'adore :
-Car si je te disais que c'est depuis longtemps,
-Je mentirais : sans nos parents sévères,
-Tu m'aurais fait plutôt le destin le plus doux.
-
--*who_michau
-Enfin me voilà ton époux :
-Nous verrons désormais s'accorder nos deux pères.
-Tout va dans notre maison
-Venir comme un champignon ;
-Nos biens se joindront,
-Et profiteront
-En vivant de ménage.
-Tu verras des miens, tels qu'ils sont :
-Si j'en fais bon usage,
-Lon là,
-Si j'en fais bon usage.
-
--*who_antoinette
-Que j'aime à te voir satisfait
-Du choix que nos parents ont fait !
-Pour finir toute procédure,
-Ils nous ordonnent de l'amour ;
-Le mien dans cette conjoncture
-Ne demande qu'à voir le jour.
-
--*who_michau,antoinette
-Vive, vive l'allégresse;
-Entre nous plus de procès.
-
--*who_antoinette
-Mon coeur va payer les frais.
-
--*who_michau
-Le mien tiendra sa promesse.
-
--*who_michau,antoinette
-Vive, vive l'allégresse ;
-Entre nous plus de procès.
-
--*who_michau
-Trop de peine,
-Trop de haine
-Conduit la chicane au port :
-Les Plaideurs ont toujours tort .
-Les Procureurs les secondent,
-Les avocats y répondent:
-Et le succès tardif
-Est à l'infinitif.
-
--*who_michau,antoinette
-Vive, vive l'allégresse;
-Entre nous plus de procès.
-
-**** *book_ *id_I02 *act_I *date_1759
-
--*who_furibon
 Oui, mon coeur en est charmé,
 Un tel parti m'honore,
 Et mon esprit désarmé
@@ -122,92 +12,25 @@ Eh bien, qu'est-ce, mes chers enfants ?
 Vos coeurs ne sont-ils pas contents ?
 Avez-vous à présent à vous plaindre d'un père ?
 
--*who_michau
-Moi, je ne pense qu'au contraire.
-
--*who_antoinette
-Moi j'ai les mêmes sentiments.
-
--*who_furibon
 Bon, tant mieux, je m'en félicite.
 Vos soeurs et vos frères sont tous
 Sur le même article que vous,
 Et chacun au mieux s'en acquitte.
 
--*who_antoinette
-Obéir à son père est une loi prescrite ;
-C'est toujours un devoir pour nous :
-Mais lorsqu'on le remplit avec un tendre époux,
-Le devoir a bien du mérite.
-
--*who_furibon
 Cependant pour notre dessein
 Je craignais de te voir débattre.
 
--*who_antoinette
-Mon cher Michau s'y prit trop bien
-Pour que je puisse le combattre.
-L'objet qu'on aime,
-En nous parlant,
-Prend sur nous-même
-Trop d'ascendant,
-Pour qu'on refuse
-Ce qu'il nous dit.
-L'Amour qui muse
-Perd son crédit.
-
--*who_michau
-Quel plaisir quand notre coeur
-Aime avec usure !
-L'intérêt de notre ardeur
-N'altère point sa valeur.
-
--*who_furibon,antoinette,michau
-La bonne aventure,
-Ô gai,
-La bonne aventure.
-
--*who_furibon
 Mais j'étais en peine de vous.
 On vient de commencer la danse:
 Chacun vous demande, et l'on pense
 A faire sauter les époux.
 Rendez-vous au salon; un peu de complaisance.
 
--*who_antoinette
-C'est de bon coeur
-Que j'y vais faire entrée;
-Je suis d'humeur
-À danser la bourrée :
-J'aime les violons;
-Allons, allons,
-Allons nous en servir, allons.
-
-**** *book_ *id_I03 *act_I *date_1759
-
--*who_furibon
 Oui, oui, dansez, chantez, je battrai la mesure.
 
--*who_patau
-J'attendais leur sortie : or sus, la plume en main.
-
--*who_furibon
 Il faut, mon cher Patau, prendre une route sûre,
 Pour assigner Michau demain de grand matin.
 
--*who_patau
-Suffit ; comptez sur mon adresse.
-Je suis connu dans le canton ;
-Mais quand j'aurais moins de renom,
-Un fabriqueur d'exploits méconnaît la paresse.
-Dix ans, vingt ans, si l'on veut
-Je fais plaider sans conclure;
-Le reste va comme il peut,
-Turelure :
-Entre mes mains, je vous jure,
-Procès dure, dure, dure.
-
--*who_furibon
 Si le mien peut se gagner,
 Comme je l'espère,
 Je ne veux rien épargner
@@ -219,41 +42,13 @@ Que tu gra, que tu pi,
 Pour que tu grapille
 En huissier qui brille.
 
--*who_patau
-Oh ! Vous vous moquez tout-à-fait.
-Je n'aspire qu'à votre estime.
-Qui moi, vous parler d'intérêt ?
-C'est votre bien seul qui m'anime.
-Le plus petit exploit
-Toujours me plaît :
-Pour le porter, fusse en Turquie,
-Fusse au fin fond de l'Arabie,
-J'irais tout droit,
-Sans me plaindre de la partie.
-Le plus périt exploit
-Toujours me plaît.
-
--*who_furibon
 Je n'ai jamais douté de ton intelligence;
 Tu sais qu'il nous en saur dans cette circonstance.
 
--*who_patau
-Laissez faire à Patau, il n'en manquera pas.
-
--*who_furibon
 Ce que je crains en pareil cas,
 C'est ma fille, c'est sa tendresse:
 Elle est folle de son Michau.
 
--*who_patau
-Voyez-vous ça ! La bonne pièce !
-Vraiment c'est un petit coeur chaud:
-Tant mieux, nouvelle procédure;
-Nous devons soutenir les lois.
-Des époux s'aimer ! Quelle injure !
-Oh ! nous en produirons bons et loyaux exploits.
-
--*who_furibon
 Je suis sûr de Catau, de Suson, de Nannette ;
 Charlotte, Madelon, toutes m'ont bien promis
 De me livrer mes ennemis:
@@ -273,123 +68,21 @@ Contre ce souvenir je n'ai point le coeur fermé ;
 Je connais trop par quel moyen
 J'ai su m'adjuger cette ferme.
 
--*who_patau
-Laissons-là le scrupule, il n'est utile à rien.
-Bien ou mal acquis, il n'importe;
-Défendez-vous pour votre honneur.
-Heureux celui qui se comporte
-En pareil cas avec valeur.
-Bannissez votre inquiétude;
-C'est réfléchir hors de saison.
-En dépit de la multitude,
-Quand on est riche, on a raison.
-Assignons, chicanons ; mais quelqu'un va paraître,
-Car j'entends murmurer au loin.
-
--*who_furibon
 Afin de voir qui ce peut être,
 Allons nous cacher dans ce coin.
 
-**** *book_ *id_I04 *act_I *date_1759
-
--*who_francoise
-Pourquoi quitter la Compagnie.
-
--*who_antoinette
-Tout ce tintamarre m'ennuie:
-Le grand Monde n'est pas ici
-L'amusement où je m'arrête,
-Et mon tendre coeur aujourd'hui
-Aimerait mieux le tête-à-tête.
-
--*who_francoise
-Quand on est tous amis, qu'est-il donc tant besoin
-D'en agir avec la contrainte.
-
--*who_antoinette
-Je n'ai point de plaisir sans crainte,
-Quand je le prends devant témoin.
-Au coeur né sensible
-L'éclat est nuisible.
-Il veut soupirer loin du bruit.
-L'amour invisible
-D'un réduit paisible
-Sait tirer le fruit.
-
--*who_francoise
-L'Amour a des charmes, sans doute :
-Vous en parlez d'un ton qui fait que je le goûte.
-Votre époux vous aimera bien.
-
--*who_antoinette
-Jusqu'à présent je n'en sais rien.
-Il est vrai qu'il me considère :
-Tantôt il vint me le jurer;
-Mais je voudrais m'en assurer.
-Comment faire ?
-
--*who_francoise
-Ce soir, avant qu'il soit plus tard,
-Il faudrait le prendre à l'écart,
-Lon, lan, là, derirette.
-
--*who_antoinette
-S'il refusait....
-
--*who_francoise
-      Oh ! que nenni,
-Lon, lan, là, deriri.
-Le croyez-vous donc si novice ?
-
--*who_antoinette
-Ah ! Tu lui ferais injustice,
-De le soupçonner un moment
-D'imprudence ou de stratagème.
-
--*who_francoise
-Tâchez qu'il vous prouve souvent
-Si c'est de la sorte qu'il aime.
-
-**** *book_ *id_I05 *act_I *date_1759
-
--*who_antoinette
-Mon cher Papa, me cherchez-vous
-Disposez d'Antoinette.
-
--*who_furibon
 Ma fille, il s'agit entre nous
 D'une affaire secrète ;
 Mais je veux la cacher à tous:
 Toi seule as dans cette occurrence
 Ma confiance.
 
--*who_antoinette
-Mon père, en vérité
-Vous avez bien de la bonté.
-
--*who_francoise
-Notre Maître vient à sa fille
-Donner encor quelque leçon.
-Laissons-les ; je veux au salon
-Aller choisir quelque bon drille,
-Pour faire avec lui rigaudon.
-
-**** *book_ *id_I06 *act_I *date_1759
-
--*who_furibon
 Nous sommes seuls ici; c'est un point nécessaire.
 Je ne t'ai rien caché sur différents sujets;
 Mais voici le plus beau, le plus grand des secrets
 Que te puisse apprendre ton père.
 Te sens-tu disposée à servir mes projets ?
 
--*who_antoinette
-Me voilà prête à vous entendre,
-Vous avez tout pouvoir sur moi ;
-Après vous je n'en laisse prendre
-Qu'à l'époux dont je suis la lois.
-
--*who_furibon
 Tu dois savoir ma haine extrême
 Pour le père et les fils, pour ton époux lui-même.
 En s'unissant à moi, je connais leurs desseins:
@@ -408,7 +101,204 @@ D'abord on vous le cassera,
 Et par raison ou par finesse,
 Ensuite on vous séparera.
 
--*who_antoinette
+C'est justement l'espoir qui me lutine,
+Depuis long-temps il m'occupe en ces lieux
+Je me doutais bien, coquine,
+Que tu combattrais mes voeux ;
+Mais sois mutine,
+Si tu le veux,
+Je saurai bien ici
+Dans ma colère
+Me satisfaire:
+Un autre va me servir aujourd'hui.
+
+      Je vais de ce pas même
+Charger un autre du projet.
+Toi, si tu trahis mon secret,
+Crains tout de mon courroux extrême:
+Toi seule a combattu contre mes intérêts,
+Et pour toi seule aussi je cours à la vengeance.
+Tes soeurs avec mes voeux bien plus d'intelligence,
+M'assurent déjà du succès.
+
+Dès ce soir meme; qu'en dis-tu?
+
+Je pardonne encor l'injure,
+Pourvu que tu dise ici,
+Oui, oui, oui, oui,
+Oui, oui, oui, oui.
+
+Cela suffit ; ma mignonne,
+Vous verrez lorsque j'ordonne,
+Si je veux être obéi ;
+Vous verrez lorsque j'ordonne,
+Si je veux être obéi.
+
+Antoinette ? Antoinette ? En ce lieu sans clarté ?
+Dis-moi : que fais-tu là pendarde ?
+En t'amusant à la moutarde,
+Fais-tu ce que je t'ai dicté ?
+
+Ne crois pas par ce beau discours
+Me jouer ainsi de tes tours :
+Je te connais sans doute.
+Tu vois bien clair pour ton plaisir ;
+Mais c'est lorsqu'il faut m'obéir,
+Que ton coeur n'y vois goutte.
+
+Voilà donc le crédit
+Que ton père a sur ton esprit ;
+Au lieu de m'approuver,
+C'est toi qui prétends me braver :
+Quelle trahison !
+Moi qui suis si bon.
+Plus on fait de bruit,
+Moins on réussit.
+Qu'on est à plaindre, hélas !
+Quand on a des enfants ingrats !
+Et qu'on est malheureux,
+Quand on n'a pas plus d'esprit qu'eux !
+
+      Il faut les suivre :
+Mais, Patau, ne nous quittons pas.
+Ils ont pris le flambeau que portait Nicolas.
+
+Un soufflet ? Bon, tant mieux: voilà de quoi poursuivre.
+Cher ami, ce soufflet-là
+Va nous rendre un fort bon office ;
+Je suis charmé de cela,
+Pour les attaquer en Justice.
+Je consens ici de bon cour
+Que l'on t'en donne un meilleur,
+Afin de les mieux excéder...
+
+Serais-tu fâché de la chose?
+
+Pour un soufflet faire la moue!
+Tu fais l'enfant. (bis.)
+
+Ne crains rien, nous serons bons pour eux:
+De valeur donnons un témoignage.
+
+C'est trop vous pousser la fleurette.
+Avancez, Lubin, Nicolas.
+
+Eh bien, oui, oui, nous le verrons.
+Je tiens votre contrat : trembles, je le déchire,
+Si tu ne chasses tes mitrons.
+
+      Je déchire...
+
+      Je suis mort.
+
+C'est Furet que j'entends! qu'as-tu donc, mon garçon ?
+
+Ah ! La tête !
+Ah ! La tête !
+
+
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antoinette
+
+Cette paix flatte autant mon âme
+Que la vôtre y trouve d'appas.
+Je vous dirai bien plus: une secrète flamme
+Pour vous.... Mais ma pudeur...
+
+Dans le silence de l'amour
+Il s'explique mieux qu'on ne pense;
+Ce qu'on prend pour indifférence
+N'est souvent qu'un adroit détour :
+Mais un tendre coeur lit d'avance.
+Dans le silence de l'amour.
+
+Oui, mon coeur aujourd'hui cesse d'être farouche.
+La forte délicatesse
+D'examiner pour choisir,
+Et de voir si la tendresse
+Répond à notre désir !
+Pour moi bien moins difficile,
+Je te prends sans réfléchir :
+Un époux nous est utile,
+Et j'y prends bien du plaisir.
+Oui, je te le répète encore,
+Depuis ce matin je t'adore :
+Car si je te disais que c'est depuis longtemps,
+Je mentirais : sans nos parents sévères,
+Tu m'aurais fait plutôt le destin le plus doux.
+
+Que j'aime à te voir satisfait
+Du choix que nos parents ont fait !
+Pour finir toute procédure,
+Ils nous ordonnent de l'amour ;
+Le mien dans cette conjoncture
+Ne demande qu'à voir le jour.
+
+Mon coeur va payer les frais.
+
+Moi j'ai les mêmes sentiments.
+
+Obéir à son père est une loi prescrite ;
+C'est toujours un devoir pour nous :
+Mais lorsqu'on le remplit avec un tendre époux,
+Le devoir a bien du mérite.
+
+Mon cher Michau s'y prit trop bien
+Pour que je puisse le combattre.
+L'objet qu'on aime,
+En nous parlant,
+Prend sur nous-même
+Trop d'ascendant,
+Pour qu'on refuse
+Ce qu'il nous dit.
+L'Amour qui muse
+Perd son crédit.
+
+C'est de bon coeur
+Que j'y vais faire entrée;
+Je suis d'humeur
+À danser la bourrée :
+J'aime les violons;
+Allons, allons,
+Allons nous en servir, allons.
+
+Tout ce tintamarre m'ennuie:
+Le grand Monde n'est pas ici
+L'amusement où je m'arrête,
+Et mon tendre coeur aujourd'hui
+Aimerait mieux le tête-à-tête.
+
+Je n'ai point de plaisir sans crainte,
+Quand je le prends devant témoin.
+Au coeur né sensible
+L'éclat est nuisible.
+Il veut soupirer loin du bruit.
+L'amour invisible
+D'un réduit paisible
+Sait tirer le fruit.
+
+Jusqu'à présent je n'en sais rien.
+Il est vrai qu'il me considère :
+Tantôt il vint me le jurer;
+Mais je voudrais m'en assurer.
+Comment faire ?
+
+S'il refusait....
+
+Ah ! Tu lui ferais injustice,
+De le soupçonner un moment
+D'imprudence ou de stratagème.
+
+Mon cher Papa, me cherchez-vous
+Disposez d'Antoinette.
+
+Mon père, en vérité
+Vous avez bien de la bonté.
+
+Me voilà prête à vous entendre,
+Vous avez tout pouvoir sur moi ;
+Après vous je n'en laisse prendre
+Qu'à l'époux dont je suis la lois.
+
 Ah ! Je succombe de faiblesse.
 
 
@@ -428,63 +318,18 @@ Après cet effort,
 Tout de chez nous par ce tort
 Sort.
 
--*who_furibon
-C'est justement l'espoir qui me lutine,
-Depuis long-temps il m'occupe en ces lieux
-Je me doutais bien, coquine,
-Que tu combattrais mes voeux ;
-Mais sois mutine,
-Si tu le veux,
-Je saurai bien ici
-Dans ma colère
-Me satisfaire:
-Un autre va me servir aujourd'hui.
-
--*who_antoinette
 Ah ! mon père, arrêtez.
 
--*who_furibon
-      Je vais de ce pas même
-Charger un autre du projet.
-Toi, si tu trahis mon secret,
-Crains tout de mon courroux extrême:
-Toi seule a combattu contre mes intérêts,
-Et pour toi seule aussi je cours à la vengeance.
-Tes soeurs avec mes voeux bien plus d'intelligence,
-M'assurent déjà du succès.
-
--*who_antoinette
 Quoi, mes soeurs vont trahir l'amour et la nature ?
 
--*who_furibon
-Dès ce soir meme; qu'en dis-tu?
-
--*who_antoinette
 Je dis qu'elles n'ont pas une bonne teinture
 De l'hymen ni de sa vertu.
 
--*who_furibon
-Je pardonne encor l'injure,
-Pourvu que tu dise ici,
-Oui, oui, oui, oui,
-Oui, oui, oui, oui.
-
--*who_antoinette
 Je le voudrais, je vous jure ;
 Mais mon coeur dit tout de bon,
 Non, non, non, non,
 Non, non, non, non.
 
--*who_furibon
-Cela suffit ; ma mignonne,
-Vous verrez lorsque j'ordonne,
-Si je veux être obéi ;
-Vous verrez lorsque j'ordonne,
-Si je veux être obéi.
-
-**** *book_ *id_I07 *act_I *date_1759
-
--*who_antoinette
 Peut-on voir paraître
 Plus de cruauté ?
 Il me faut en vérité,
@@ -509,9 +354,200 @@ Mais prévenons un trait si noir ;
 Car autrement je l'assassine,
 Sans le savoir.
 
-**** *book_ *id_II01 *act_II *date_1759
+Qui me guette?
 
--*who_michau
+On t'abuse :
+Prends ceci.
+
+Je permets ton courroux; mais je n'en suis pas digne,
+Et tu me gronde hors de saison.
+Ne crois pas que je ressemble
+À mes Soeurs sur ce point-là :
+Même en ce moment je tremble
+Qu'on ne m'empêche cela,
+L'un par ici, l'autre par là,
+Là, là, là, là, là, là, là, là, là, là.
+On nous trahissait ensemble,
+Mais j'ai paré ce coup-là.
+
+N'accuse donc que la chicane.
+Mon père, il est vrai, se dément :
+Je consens que tu le condamne ;
+Mais moi j'agis ouvertement.
+En faveur d'un coeur sincère
+Qui pour toi sut tout risquer,
+Songe bien que c'est mon père
+Que tu prétends attaquer.
+Malgré son tort que je blâme.
+Que je puisse t'arrêter :
+Et par-là prouve à ta femme
+Que tu sais la contenter.
+Voilà ton porte-feuille ; et grâce à mon courage,
+Il ne manque rien à Michau.
+
+Il ne te manque rien; à quoi bon cet éclat ?
+Si tu ne m'en crois pas, tu peux le voir encore.
+Tiens, prends, fouille avec moi; tout est en bon état.
+Vois ce parchemin que j'adore :
+Cher époux, c'est notre contrat.
+
+Contre un lien si charmant
+Montre moins d'emportement.
+Te repens-tu, cher Amant,
+De notre signature ?
+Toi qui le demandait tant ;
+Le tout par nature.
+
+Mais j'entends la voix de quelque homme ;
+Retire-toi, mon cher Michau :
+J'irai te retrouver chez la tante à Thibaut.
+
+Mais je ne vois personne. Hélas !
+Auraient-ils rencontré mon père ?
+Ils vont se faire quelque affaire,
+Si l'on ne les sépare pas.
+Mais pour se peigner à la turque,
+Je crois voir chacun empressé,
+Mon époux a le nez cassé !
+Mon père a perdu sa perruque!
+De qui part le coup que j'entends?
+Et qui vient de casser les dents
+De mon époux ou de mon père ?
+Ils sont tombés... Ah ! Quel Sabbat !
+Ô Ciel ! Je n'ai plus de lumière !
+Comment voir la fin du combat ?
+Reposons-nous un peu.
+      Ah ! Le sommeil me ronge.
+Je crains, si je m'endors, de faire encore un songe.
+Que dirai-je à mon père en cette extrémité ?
+
+J'ai tout fait pour le mieux: on aurait vu mon zèle,
+Si le destin jaloux n'eût soufflé la chandelle.
+
+Le moyen d'être satisfait?
+Vous voulez ce qu'on ne peut faire.
+Désobliger n'est pas mon fait;
+J'ai toujours aimé le contraire.
+
+Ah ! Cher époux !
+
+Ah ! Que votre fureur s'apaise :
+Vous m'allez voir expirer sous vos coups.
+Ne pourrai-je éteindre la braise
+Qui rallume un si funeste courroux ?
+Laissez-moi l'étouffer ici,
+Mon joli petit,
+Mon petit joli,
+Mon joli petit cher mari.
+
+Je ne puis donc pas
+Calmer, hélas !
+Votre colère ?
+Voulez-vous percer
+Un cour qui vient vous embrasser ?
+
+Je ne pense à rien,
+Et voudrais bien
+Vous voir le faire.
+Entrez, cher époux,
+Dans des sentiments un peu doux.
+Tantôt plein de tendresse,
+Ton cour ici jura
+De m'obéir sans cesse
+En faveur du Contrat.
+Ce serment de ta bouche
+Est tout ce qu'il me faut;
+Pourquoi veux-tu, farouche,
+Le retirer si-tôt?
+
+Ô Ciel ! Malheureuse Antoinette!
+
+Arrêtez !...
+
+      Ô funeste transport !
+
+Ciel !...
+
+Mon père, ah ! Juste Ciel ! Quelle bosse à la tête !
+
+Mais que veut donc Furet?
+Qu'as-tu donc tant à crier?
+
+Cher époux, n'aigrissons plus rien ;
+Le temps calmera cette affaire :
+Mais je veux que le chirurgien
+Aille du moins saigner mon père.
+
+Messieurs, si notre pièce aujourd'hui
+N'a pas l'honneur d'avoir votre appui,
+Attendez à demain au soir,
+Et revenez nous voir :
+Ce n'est pas trop d'un jour
+Pour
+Vous rendre satisfaits ;
+Mais
+Notre zèle assidu,
+Dû,
+Espère être reçu.
+
+
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michau
+
+Enfin voici le jour où tout me favorise ;
+Nos pères vont ici terminer tout procès :
+L'Objet dont mon âme est éprise,
+Antoinette est le sceau d'une si douce paix.
+
+      Quel est cet embarras ?
+Si j'eus le bonheur de te plaire,
+Pourquoi, belle Antoinette, en ferais-tu mystère ?
+
+
+Pour moi, toujours sous ta loi
+Je serai plus sinc7re :
+Je fais serment de ma foi,
+Et veux sans cesse avec toi
+Le faire, le faire, le faire.
+Oui, ma petite femme, avec toi chaque jour
+je veux augmenter de tendresse,
+Et je compte sur du retour.
+Mais tu ne réponds rien au transport qui me presse?
+Je serais fâché qu'il te blesse.
+
+Ah ! Trop heureux Michau ! Que cet aveu me touche !
+Malgré tant de procès nourris,
+Antoinette et Michau vont donc se voir unis !
+
+Enfin me voilà ton époux :
+Nous verrons désormais s'accorder nos deux pères.
+Tout va dans notre maison
+Venir comme un champignon ;
+Nos biens se joindront,
+Et profiteront
+En vivant de ménage.
+Tu verras des miens, tels qu'ils sont :
+Si j'en fais bon usage,
+Lon là,
+Si j'en fais bon usage.
+
+Le mien tiendra sa promesse.
+
+Trop de peine,
+Trop de haine
+Conduit la chicane au port :
+Les Plaideurs ont toujours tort .
+Les Procureurs les secondent,
+Les avocats y répondent:
+Et le succès tardif
+Est à l'infinitif.
+
+Moi, je ne pense qu'au contraire.
+
+Quel plaisir quand notre coeur
+Aime avec usure !
+L'intérêt de notre ardeur
+N'altère point sa valeur.
+
 Que mon inquiétude augmente,
 Quand je vois que chacun y prend si peu de part !
 Tous se sont réunis pour prendre leur départ.
@@ -549,36 +585,239 @@ Faisons le quinze encore.
 Pour moi des bons Maris les chagrins sont précoces.
 Serais-je fait cocu dès le jour de mes Noces ?
 
--*who_thibaut
-Ah ! Quelle supercherie
-Pour Maître Michau !
-
--*who_michau
 N'entends-je pas que l'on crie ?
 Mais ce n'est point raillerie :
 Je vois Thibaut... (bis.)
 
-**** *book_ *id_II02 *act_II *date_1759
-
--*who_michau
 Qu'as-tu ? quel est donc ce désordre ?
 Antoinette est-elle avec toi ?
 
--*who_thibaut
+Oui.
+
+Explique toi: que veux tu dire ?
+
+Que veut dire cette aventure ?
+
+Je connais Furibon et mon erreur ensemble ;
+Mais j'entends quelque bruit.
+
+Oh! je n'ai pas peur... Mais je tremble.
+
+Ah! grands Dieux !
+Quoi! c'est elle !
+La cruelle !
+L'infidèle !
+Ah ! grands Dieux !
+Quoi ! c'est elle !
+La cruelle !
+L'infidèle !
+Dans ces lieux
+Qui pourrait l'y conduire,
+Si ce n'est pour me nuire ?
+Mais, hélas! j'en suis certain :
+Mon Porte-feuille à sa main
+Prouve ici
+Ma défaite.
+Antoinette ?
+
+Est-ce ainsi
+Qu'on en use ?
+Par la ruse....
+
+Quoi ! Lorsque pour servir un chicaneur insigne
+Tu vas jusqu'à la trahison,
+Ne crois-tu pas avoir raison ?
+
+Quoi ! Mes frères trompés par tes soeurs elles-mêmes !
+Que diras-tu de ce beau coup ?
+Et je ne saurais pas punir ce stratagème !...
+J'aimerais mieux être... coucou,
+Ou quelqu'autre chose de même :
+Déja le nom d'époux lui ressemble beaucoup.
+
+Tu ne me connais pas, j'ai le sang bien plus chaud ;
+Je prétends venger cet outrage.
+
+Oui, j'y vois Furibon ; c'est un nom que j'abhorre.
+
+Oui, oui, je veux bien
+Calmer la tempête;
+C'est par ta requête
+Que mon coeur s'apprête
+À servir le tien.
+Ton contrat m'arrête,
+Je ne dis plus rien :
+Mon amour se prête,
+Dans ce tête-à-tête,
+À ton chagrin.
+Ton âme inquiète
+Sera satisfaite :
+J'y tiendrai la main,
+Pourvu qu'Antoinette
+Mette à ce moyen
+Un peu du sien.
+
+Je m'en vais y dormir un somme.
+
+Jamais nuit ne fut plus obscure :
+Ma foi, sans vous je m'égarais.
+
+Mais qu'est-ce que je vois ?
+Ciel ! Où m'amène-t-on ?
+
+Tiens, je m'acquitte aussi vis-à-vis d'un fripon.
+
+Compagnons, montrez tous du courage:
+Cherchons bien, il doit être en ces lieux.
+
+Compagnons, montrez tous du courage :
+Cherchons bien, il doit être en ces lieux.
+
+Je songe à venger mon injure,
+Mon père, vous-même, en un mot :
+On prend votre époux pour un sot :
+Le souffrirez-vous sans murmure ?
+
+C'est bien dit, j'approuve cela.
+Retirez-vous, amis: quand Thibaut sifflera,
+Soyez d'abord prêts à paraître.
+
+Pouvez-vous y penser et vous taire ?
+Répondez, ma chère.
+
+Accourez, gros Guillot, Mathurin, grand Thomas.
+Nous verrons qui des deux aura sujet de rire.
+
+      Prends notre Contrat. Allons, chère Antoinette,
+Je suis content ; il a son fait.
+
+Va, va, je t'attends de pied ferme.
+
+On ne saurait blâmer ton désir,
+Et la nature y prend du plaisir :
+Fille bien née à son Papa
+Doit toujours ce soin-là.
+Notre cour bien souvent
+Ment,
+Paraissant affligé :
+J'ai
+La preuve que le tien
+Tient
+Le naturel du mien.
+
+
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_francoise
+
+Pourquoi quitter la Compagnie.
+
+Quand on est tous amis, qu'est-il donc tant besoin
+D'en agir avec la contrainte.
+
+L'Amour a des charmes, sans doute :
+Vous en parlez d'un ton qui fait que je le goûte.
+Votre époux vous aimera bien.
+
+Ce soir, avant qu'il soit plus tard,
+Il faudrait le prendre à l'écart,
+Lon, lan, là, derirette.
+
+      Oh ! que nenni,
+Lon, lan, là, deriri.
+Le croyez-vous donc si novice ?
+
+Tâchez qu'il vous prouve souvent
+Si c'est de la sorte qu'il aime.
+
+Notre Maître vient à sa fille
+Donner encor quelque leçon.
+Laissons-les ; je veux au salon
+Aller choisir quelque bon drille,
+Pour faire avec lui rigaudon.
+
+
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_patau
+
+J'attendais leur sortie : or sus, la plume en main.
+
+Suffit ; comptez sur mon adresse.
+Je suis connu dans le canton ;
+Mais quand j'aurais moins de renom,
+Un fabriqueur d'exploits méconnaît la paresse.
+Dix ans, vingt ans, si l'on veut
+Je fais plaider sans conclure;
+Le reste va comme il peut,
+Turelure :
+Entre mes mains, je vous jure,
+Procès dure, dure, dure.
+
+Oh ! Vous vous moquez tout-à-fait.
+Je n'aspire qu'à votre estime.
+Qui moi, vous parler d'intérêt ?
+C'est votre bien seul qui m'anime.
+Le plus petit exploit
+Toujours me plaît :
+Pour le porter, fusse en Turquie,
+Fusse au fin fond de l'Arabie,
+J'irais tout droit,
+Sans me plaindre de la partie.
+Le plus périt exploit
+Toujours me plaît.
+
+Laissez faire à Patau, il n'en manquera pas.
+
+Voyez-vous ça ! La bonne pièce !
+Vraiment c'est un petit coeur chaud:
+Tant mieux, nouvelle procédure;
+Nous devons soutenir les lois.
+Des époux s'aimer ! Quelle injure !
+Oh ! nous en produirons bons et loyaux exploits.
+
+Laissons-là le scrupule, il n'est utile à rien.
+Bien ou mal acquis, il n'importe;
+Défendez-vous pour votre honneur.
+Heureux celui qui se comporte
+En pareil cas avec valeur.
+Bannissez votre inquiétude;
+C'est réfléchir hors de saison.
+En dépit de la multitude,
+Quand on est riche, on a raison.
+Assignons, chicanons ; mais quelqu'un va paraître,
+Car j'entends murmurer au loin.
+
+Voici notre chemin.
+
+Oui, voilà l'enclouure.
+Je vous devais, ma foi, ce tour de ma façon.
+
+Je voudrais bien aussi que quelqu'un me délivre
+D'un soufflet qui ne me plaît pas.
+
+J'aime mieux ne pas plaider. (bis.)
+
+Tâchons de gagner notre cause,
+Sans qu'il m'en coûte quelque dent:
+J'ai déjà la fièvre à la joue.
+
+C'est Michau ; bonsoir, je déménage.
+
+Serviteur; ils sont trop contre deux.
+
+Donnez-moi ce fléau,que je vous les assomme
+
+Ah! c'est trop barguiner, exploitons.
+
+
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thibaut
+
+Ah ! Quelle supercherie
+Pour Maître Michau !
+
 Qui votre femme ? Oh ! Par ma foi,
 Elle vous donne ici bien du fil à retordre.
 Quoi ! Vous ignorez le panneau ?
 
--*who_michau
-Oui.
-
--*who_thibaut
       Je tremble pour votre peau.
 
--*who_michau
-Explique toi: que veux tu dire ?
-
--*who_thibaut
 À minuit chacun se retire,
 La Musique ivre allait ronfler :
 Moi bien fâché que l'on m'en prive,
@@ -602,10 +841,6 @@ Pour moi tout rempli d'un vrai zèle,
 J'aurais fort bien pu l'arrêter ;
 Mais je voulais tout vous conter.
 
--*who_michau
-Que veut dire cette aventure ?
-
--*who_thibaut
 Je ne sais; mais dans le murmure
 J'entends parler de trahison.
 Votre beau-père en veut, dit-on,
@@ -613,391 +848,19 @@ A tous les Papiers de vos frères,
 Pour chicaner après sur le bien de vos pères.
 N'auriez-vous pas chez vous aussi ?...
 
--*who_michau
-Je connais Furibon et mon erreur ensemble ;
-Mais j'entends quelque bruit.
-
--*who_thibaut
 Ne craignez rien ici.
 
--*who_michau
-Oh! je n'ai pas peur... Mais je tremble.
-
-**** *book_ *id_II03 *act_II *date_1759
-
--*who_michau
-Ah! grands Dieux !
-Quoi! c'est elle !
-La cruelle !
-L'infidèle !
-Ah ! grands Dieux !
-Quoi ! c'est elle !
-La cruelle !
-L'infidèle !
-Dans ces lieux
-Qui pourrait l'y conduire,
-Si ce n'est pour me nuire ?
-Mais, hélas! j'en suis certain :
-Mon Porte-feuille à sa main
-Prouve ici
-Ma défaite.
-Antoinette ?
-
--*who_antoinette
-Qui me guette?
-
--*who_michau
-Est-ce ainsi
-Qu'on en use ?
-Par la ruse....
-
--*who_antoinette
-On t'abuse :
-Prends ceci.
-
--*who_michau
-Quoi ! Lorsque pour servir un chicaneur insigne
-Tu vas jusqu'à la trahison,
-Ne crois-tu pas avoir raison ?
-
--*who_antoinette
-Je permets ton courroux; mais je n'en suis pas digne,
-Et tu me gronde hors de saison.
-Ne crois pas que je ressemble
-À mes Soeurs sur ce point-là :
-Même en ce moment je tremble
-Qu'on ne m'empêche cela,
-L'un par ici, l'autre par là,
-Là, là, là, là, là, là, là, là, là, là.
-On nous trahissait ensemble,
-Mais j'ai paré ce coup-là.
-
--*who_michau
-Quoi ! Mes frères trompés par tes soeurs elles-mêmes !
-Que diras-tu de ce beau coup ?
-Et je ne saurais pas punir ce stratagème !...
-J'aimerais mieux être... coucou,
-Ou quelqu'autre chose de même :
-Déja le nom d'époux lui ressemble beaucoup.
-
--*who_antoinette
-N'accuse donc que la chicane.
-Mon père, il est vrai, se dément :
-Je consens que tu le condamne ;
-Mais moi j'agis ouvertement.
-En faveur d'un coeur sincère
-Qui pour toi sut tout risquer,
-Songe bien que c'est mon père
-Que tu prétends attaquer.
-Malgré son tort que je blâme.
-Que je puisse t'arrêter :
-Et par-là prouve à ta femme
-Que tu sais la contenter.
-Voilà ton porte-feuille ; et grâce à mon courage,
-Il ne manque rien à Michau.
-
--*who_michau
-Tu ne me connais pas, j'ai le sang bien plus chaud ;
-Je prétends venger cet outrage.
-
--*who_antoinette
-Il ne te manque rien; à quoi bon cet éclat ?
-Si tu ne m'en crois pas, tu peux le voir encore.
-Tiens, prends, fouille avec moi; tout est en bon état.
-Vois ce parchemin que j'adore :
-Cher époux, c'est notre contrat.
-
--*who_michau
-Oui, j'y vois Furibon ; c'est un nom que j'abhorre.
-
--*who_antoinette
-Contre un lien si charmant
-Montre moins d'emportement.
-Te repens-tu, cher Amant,
-De notre signature ?
-Toi qui le demandait tant ;
-Le tout par nature.
-
--*who_michau
-Oui, oui, je veux bien
-Calmer la tempête;
-C'est par ta requête
-Que mon coeur s'apprête
-À servir le tien.
-Ton contrat m'arrête,
-Je ne dis plus rien :
-Mon amour se prête,
-Dans ce tête-à-tête,
-À ton chagrin.
-Ton âme inquiète
-Sera satisfaite :
-J'y tiendrai la main,
-Pourvu qu'Antoinette
-Mette à ce moyen
-Un peu du sien.
-
--*who_antoinette
-Mais j'entends la voix de quelque homme ;
-Retire-toi, mon cher Michau :
-J'irai te retrouver chez la tante à Thibaut.
-
--*who_michau
-Je m'en vais y dormir un somme.
-
-**** *book_ *id_II04 *act_II *date_1759
-
--*who_antoinette
-Mais je ne vois personne. Hélas !
-Auraient-ils rencontré mon père ?
-Ils vont se faire quelque affaire,
-Si l'on ne les sépare pas.
-Mais pour se peigner à la turque,
-Je crois voir chacun empressé,
-Mon époux a le nez cassé !
-Mon père a perdu sa perruque!
-De qui part le coup que j'entends?
-Et qui vient de casser les dents
-De mon époux ou de mon père ?
-Ils sont tombés... Ah ! Quel Sabbat !
-Ô Ciel ! Je n'ai plus de lumière !
-Comment voir la fin du combat ?
-Reposons-nous un peu.
-      Ah ! Le sommeil me ronge.
-Je crains, si je m'endors, de faire encore un songe.
-Que dirai-je à mon père en cette extrémité ?
-
-**** *book_ *id_II05 *act_II *date_1759
-
--*who_furibon
-Antoinette ? Antoinette ? En ce lieu sans clarté ?
-Dis-moi : que fais-tu là pendarde ?
-En t'amusant à la moutarde,
-Fais-tu ce que je t'ai dicté ?
-
--*who_antoinette
-J'ai tout fait pour le mieux: on aurait vu mon zèle,
-Si le destin jaloux n'eût soufflé la chandelle.
-
--*who_furibon
-Ne crois pas par ce beau discours
-Me jouer ainsi de tes tours :
-Je te connais sans doute.
-Tu vois bien clair pour ton plaisir ;
-Mais c'est lorsqu'il faut m'obéir,
-Que ton coeur n'y vois goutte.
-
--*who_antoinette
-Le moyen d'être satisfait?
-Vous voulez ce qu'on ne peut faire.
-Désobliger n'est pas mon fait;
-J'ai toujours aimé le contraire.
-
--*who_furibon
-Voilà donc le crédit
-Que ton père a sur ton esprit ;
-Au lieu de m'approuver,
-C'est toi qui prétends me braver :
-Quelle trahison !
-Moi qui suis si bon.
-Plus on fait de bruit,
-Moins on réussit.
-Qu'on est à plaindre, hélas !
-Quand on a des enfants ingrats !
-Et qu'on est malheureux,
-Quand on n'a pas plus d'esprit qu'eux !
-
-**** *book_ *id_II06 *act_II *date_1759
-
--*who_michau
-Jamais nuit ne fut plus obscure :
-Ma foi, sans vous je m'égarais.
-
--*who_patau
-Voici notre chemin.
-
--*who_michau
-Mais qu'est-ce que je vois ?
-Ciel ! Où m'amène-t-on ?
-
--*who_patau
-Oui, voilà l'enclouure.
-Je vous devais, ma foi, ce tour de ma façon.
-
--*who_michau
-Tiens, je m'acquitte aussi vis-à-vis d'un fripon.
-
--*who_antoinette
-Ah ! Cher époux !
-
-**** *book_ *id_II07 *act_II *date_1759
-
--*who_furibon
-      Il faut les suivre :
-Mais, Patau, ne nous quittons pas.
-Ils ont pris le flambeau que portait Nicolas.
-
--*who_patau
-Je voudrais bien aussi que quelqu'un me délivre
-D'un soufflet qui ne me plaît pas.
-
--*who_furibon
-Un soufflet ? Bon, tant mieux: voilà de quoi poursuivre.
-Cher ami, ce soufflet-là
-Va nous rendre un fort bon office ;
-Je suis charmé de cela,
-Pour les attaquer en Justice.
-Je consens ici de bon cour
-Que l'on t'en donne un meilleur,
-Afin de les mieux excéder...
-
--*who_patau
-J'aime mieux ne pas plaider. (bis.)
-
--*who_furibon
-Serais-tu fâché de la chose?
-
--*who_patau
-Tâchons de gagner notre cause,
-Sans qu'il m'en coûte quelque dent:
-J'ai déjà la fièvre à la joue.
-
--*who_furibon
-Pour un soufflet faire la moue!
-Tu fais l'enfant. (bis.)
-
--*who_michau
-Compagnons, montrez tous du courage:
-Cherchons bien, il doit être en ces lieux.
-
--*who_patau
-C'est Michau ; bonsoir, je déménage.
-
--*who_furibon
-Ne crains rien, nous serons bons pour eux:
-De valeur donnons un témoignage.
-
--*who_patau
-Serviteur; ils sont trop contre deux.
-
-**** *book_ *id_II08 *act_II *date_1759
-
--*who_michau
-Compagnons, montrez tous du courage :
-Cherchons bien, il doit être en ces lieux.
-
--*who_antoinette
-Ah ! Que votre fureur s'apaise :
-Vous m'allez voir expirer sous vos coups.
-Ne pourrai-je éteindre la braise
-Qui rallume un si funeste courroux ?
-Laissez-moi l'étouffer ici,
-Mon joli petit,
-Mon petit joli,
-Mon joli petit cher mari.
-
--*who_michau
-Je songe à venger mon injure,
-Mon père, vous-même, en un mot :
-On prend votre époux pour un sot :
-Le souffrirez-vous sans murmure ?
-
--*who_thibaut
 Il faudrait nous cacher par-là,
 Afin de les mieux reconnaître.
 
--*who_michau
-C'est bien dit, j'approuve cela.
-Retirez-vous, amis: quand Thibaut sifflera,
-Soyez d'abord prêts à paraître.
-
-**** *book_ *id_II09 *act_II *date_1759
-
--*who_antoinette
-Je ne puis donc pas
-Calmer, hélas !
-Votre colère ?
-Voulez-vous percer
-Un cour qui vient vous embrasser ?
-
-**** *book_ *id_II10 *act_II *date_1759
-
--*who_michau
-Pouvez-vous y penser et vous taire ?
-Répondez, ma chère.
-
--*who_antoinette
-Je ne pense à rien,
-Et voudrais bien
-Vous voir le faire.
-Entrez, cher époux,
-Dans des sentiments un peu doux.
-Tantôt plein de tendresse,
-Ton cour ici jura
-De m'obéir sans cesse
-En faveur du Contrat.
-Ce serment de ta bouche
-Est tout ce qu'il me faut;
-Pourquoi veux-tu, farouche,
-Le retirer si-tôt?
-
--*who_furibon
-C'est trop vous pousser la fleurette.
-Avancez, Lubin, Nicolas.
-
--*who_antoinette
-Ô Ciel ! Malheureuse Antoinette!
-
--*who_michau
-Accourez, gros Guillot, Mathurin, grand Thomas.
-Nous verrons qui des deux aura sujet de rire.
-
--*who_furibon
-Eh bien, oui, oui, nous le verrons.
-Je tiens votre contrat : trembles, je le déchire,
-Si tu ne chasses tes mitrons.
-
--*who_thibaut
 Voulez-vous ?...
 Un moment, n'allons pas en jeune homme.
 
--*who_patau
-Donnez-moi ce fléau,que je vous les assomme
 
--*who_antoinette
-Arrêtez !...
+**** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_furet
 
--*who_furibon
-      Je déchire...
-
--*who_antoinette
-      Ô funeste transport !
-
--*who_patau
-Ah! c'est trop barguiner, exploitons.
-
--*who_furibon
-      Je suis mort.
-
--*who_antoinette
-Ciel !...
-
--*who_michau
-      Prends notre Contrat. Allons, chère Antoinette,
-Je suis content ; il a son fait.
-
--*who_antoinette
-Mon père, ah ! Juste Ciel ! Quelle bosse à la tête !
-
-**** *book_ *id_II11 *act_II *date_1759
-
--*who_furet
 Au secours ! Au secours !
 
--*who_antoinette
-Mais que veut donc Furet?
-Qu'as-tu donc tant à crier?
-
--*who_furet
 Aisément on le devine.
 Quelqu'un vient de m'étriller,
 Mais d'une façon divine...
@@ -1005,10 +868,6 @@ Ahi, ahi, ahi,
 Ahi, ahi, ahi, l'échine,
 L'échine, ahi, ahi, ahi.
 
--*who_furibon
-C'est Furet que j'entends! qu'as-tu donc, mon garçon ?
-
--*who_furet
 Chez certain Procureur, j'ai selon ma coutume
 Pris un paquet à votre nom.
 De Paris jusqu'ici le chemin fut très bon,
@@ -1018,11 +877,6 @@ On a frappé sur moi comme sur une enclume,
 Ensuite on m'a chassé tout net,
 En me retenant mon paquet.
 
--*who_furibon
-Ah ! La tête !
-Ah ! La tête !
-
--*who_furet
 On m'a pris
 Deux chapons cuits
 Dans un pâté de requête.
@@ -1032,39 +886,3 @@ Cher Furet, avec Nicolas,
 Conduis-moi jusqu'à notre Ferme.
 Toi, Michau, dans peu tu verras...
 
--*who_michau
-Va, va, je t'attends de pied ferme.
-
-**** *book_ *id_II12 *act_II *date_1759
-
--*who_antoinette
-Cher époux, n'aigrissons plus rien ;
-Le temps calmera cette affaire :
-Mais je veux que le chirurgien
-Aille du moins saigner mon père.
-
--*who_michau
-On ne saurait blâmer ton désir,
-Et la nature y prend du plaisir :
-Fille bien née à son Papa
-Doit toujours ce soin-là.
-Notre cour bien souvent
-Ment,
-Paraissant affligé :
-J'ai
-La preuve que le tien
-Tient
-Le naturel du mien.
-
--*who_antoinette
-Messieurs, si notre pièce aujourd'hui
-N'a pas l'honneur d'avoir votre appui,
-Attendez à demain au soir,
-Et revenez nous voir :
-Ce n'est pas trop d'un jour
-Pour
-Vous rendre satisfaits ;
-Mais
-Notre zèle assidu,
-Dû,
-Espère être reçu.

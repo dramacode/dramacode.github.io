@@ -1,248 +1,15 @@
 
 
-**** *book_ *id_preface *date_1697 *creator_pradon
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
 
-PREFACE.
-
-Si le succés d'un Ouvrage doit le défendre contre la critique, et si la premiere et la plus infaillible regle du Theatre est celle de plaire, j'ose dire que Scipion l'Africain ayant eu ce bonheur, je pourois me dispenser de répondre au critiques qu'on en a faites.
-Cependant sans me prévaloir des applaudissemens que le public luy a donnez, je vais tâcher en peu de mots d'en justifier la conduite.
-On me reproche d'avoir fait Scipion amoureux ; mais je soûtiens que le mettant sur la Scene, j'ay dû luy donner ce caractere, qui releve son action principale, qui est de vaincre sa passion, et de rendre sa Maîtresse à son Rival.
-Aristote nous aprend qu'on peut ajoûter quelque chose de vray-semblable au vray ; et il est vray-semblable que Scipion à l'âge de vingt-quatre ans, ayant pris la plus belle personne de l'Univers, ait été sensible à sa beauté et qu'il ait rendu quelques combats, avant que de la rendre à Lucejus Prince des Celtiberiens, à qui elle estoit promise.
-D'ailleurs si Scipion avoit remis sa captive sans la voir, son action n'auroit pas été si belle, que de la rendre aprés l'avoir veuë, et aprés en avoir esté vivement touché ; car comme dit le grand Corneille,
-Ce n'est qu'en ces assauts qu'éclate la vertu,
-Et l'on doute d'un cœur qui n'a point combatu.
-
-Il me semble même que Scipion auroit bien douté de sa vertu, et du pouvoir qu'il avoit sur luy de n'oser voir une tres-belle personne, de peur d'en être tenté.
-Comme l'Histoire ne nomme point cette belle captive, je la fais Niéce d'Annibal, pour donner un plus grand contraste à l'amour de Scipion qu'il combat, et dont enfin il triomphe, et je puis dire que cette action a plû trop generalement dans le cinquiéme Acte pour me repentir de l'avoir fait.
-Il y a des gens qui s'étonnent qu'Annibal vienne demander la Paix avecque une assez grosse Armée ; mais il n'est pas permis d'ignorer un fait historique aussi connu que celuy-là.
-Il est constant qu'Annibal fut rapellé par le Senat de Cartage pour défendre sa patrie, qu'il quitta l'Italie, qu'il revint en Afrique, et qu'il y trouva les affaires en un si mauvais état, qu'il n'eût point d'autre party à prendre pour sauver Cartage, que celuy de demander la Paix ; mais il la demande d'une maniere assez noble, et cette Scene a toujours paru tres-belle, et tres-bien conduite ; je ne doute point qu'il n'y ait bien des choses qui auroient pû être mieux dans cette Piece, mais je ne suis pas infaillible, et je ne donne point cecy pour un ouvrage achevé.
-Il suffit qu'il ait réussi, pour en devoir être content, et pour m'encourager à travailler à l'avenir avec encor plus de soin et plus d'exactitude.
-
-**** *book_ *id_privilege *date_1697 *creator_pradon
-
-EXTRAIT DU PRIVILEGE du Roy.
-
-Par Grace & Privilege du Roy, donné à Paris le vingt-uniéme Mars 1697.
-Signé, Par le Roy en son Conseil, LE FEVRE. Il est permis à THOMAS GUILLAIN, Marchand Libraire à Paris, de faire imprimer, vendre & debiter le Recueil des Tragedies du Sieur PRADON, pendant le temps de six années, à compter du jour qu'elles seront achevées d'imprimer pour la premiere fois, en vertu des presentes, pendant lequel temps tres-expresses inhibitions & défenses sont faites à toutes personnes de quelque qualité & condition qu'elles soient ; de faire imprimer, vendre ny debiter desdites Tragedies conjointement, ou separément, d'autre Edition que celles de l'Exposant, ou de ceux qui auront droit de luy, à peine de quinze cens livres d'amende, payable sans déport par chacun des Contrevenans, de confiscation des Exemplaires contrefaits, & de tous dépens, dommages & interests, & autres peines portées plus au long par lesdites Lettres de Privilege.
-
-Registré sur le Livre de la Communauté des Imprimeurs et Libraires de la Ville de Paris, le 26 Mars 1697.
-
-Signé P. AUBOUIN, Syndic.
-
-Achevé d'imprimer pour la premiere fois le premier Avril 1697.
-
-Le prix est vingt sols.
-
-**** *book_ *id_I01 *act_I *date_1697 *creator_pradon
-
--*who_lepide
-Seigneur, en attendant que Scipion vous voye,
-Je me tiens honoré de l'ordre qu'il m'envoye,
-De vous entretenir pendant quelques momens,
-Nous sçaurons d'Annibal les secrets sentimens,
-C'est vous qui dans ce Camp annoncez sa venuë.
-
--*who_aurilcar 
-Oüy, Seigneur, Annibal souhaite une entreveuë,
-Je viens la demander, c'est son intention
-Que de voir aujourd'huy le fameux Scipion ;
-Aux plaines de Zama nous sommes l'un & l'autre,
-Nôtre Armée est campée assez prés de la vôtre ;
-Mais Annibal prétend⁎ avec luy conferer,
-Et je viens en ce Camp pour en déliberer,
-Avant que de rien faire & de rien entreprendre.
-
--*who_lepide
-Sans doute⁎ qu'on ne peut refuser de l'entendre ;
-Nous verrons aujourd'huy ces deux grands Citoyens,
-Tous deux de leur païs la gloire & les soûtiens,
-Donner ce peu de tréve à cette longue guerre,
-Pour décider entre-eux du destin de la terre,
-Et de leur conference on attend desormais
-Le jour de la bataille, ou celuy de la paix.
-
--*who_aurilcar
-Je ne m'explique point des desseins de mon Maître,
-Il paroîtra luy-même, & les fera connoître,
-Il marche sur mes pas : mais que d'heureux succés⁎,
-Seigneur, de Scipion ont remply les projets ?
-La victoire en tous lieux à son bras enchaînée
-Semble de l'Univers faire la destinée ;
-Jeune encor, on a vû ses grandes actions
-Suivre, & même passer celles des Scipions,
-Et digne rejeton de cette illustre race⁎,
-A vingt ans on l'a vû commander en leur place ;
-Il nous chassa d'Espagne aprés quatre combats,
-Où Rome triompha par l'effort⁎ de son bras,
-Le voicy dans l'Affrique étonnée⁎, affoiblie,
-Il arrache Annibal du sein de l'Italie,
-Et contraint ce Heros de voler en ces lieux,
-Pour défendre à son tour sa patrie & ses Dieux.
-
--*who_lepide
-S'il acheve, Seigneur, cette heureuse campagne,
-Dans l'Affrique il fera ce qu'il fit en Espagne :
-Un des plus puissans Rois qui fût dans l'Univers,
-L'infidelle Syphax a pery dans ses fers,
-Asdrubal & Xantus ont perdu trois batailles,
-Cartage va nous voir au pied de ses murailles,
-Cette superbe⁎ ville est contrainte aujourd'huy
-D'appeller Annibal pour luy servir d'appuy ;
-Scipion la menace, & l'on voit ce grand homme
-Luy rendre tout l'effroy qu'Annibal fit à Rome.
-
--*who_aurilcar
-Il vient de ses succés interrompre le cours,
-Et promet à l'Affrique un fidele secours.
-Son nom seul raffermit nos Provinces craintives ;
-Mais puis-je m'informer des illustres captives
-Que Zama pris d'assaut vit tomber dans vos fers ;
-La Niéce d'Annibal les a-t-elle souffers ?
-Et la Fille d'Hannon, la superbe⁎ Erixene,
-S'est-elle accoûtumée à porter une chaîne ?
-
--*who_lepide
-Que leur chaîne, Seigneur, est facile à porter ?
-Elles ont des vertus⁎ qui les font respecter,
-Au Camp de Scipion elles sont souveraines,
-Il les traite bien moins en esclaves qu'en Reines,
-Il n'a plus de fierté⁎ si-tôt qu'il est vainqueur,
-Sa bonté, sa clemence égalent sa valeur ;
-Oüy, son bras aux vaincus ne fut jamais funeste⁎,
-La victoire ne sert qu'à le rendre modeste,
-Egal dans la fortune⁎ & dans l'adversité,
-Il n'est jamais superbe⁎ en la prosperité.
-La Niéce d'Annibal, l'adorable⁎ Isperie,
-Fit briller tant d'éclat & tant de modestie
-Qu'il en fut ébloüy : mais enfin sa beauté
-Porte un charme⁎ secret dont on est enchanté⁎.
-Au Prince Lucejus elle se vit promise,
-Il devoit l'épouser quand Zama fut surprise ;
-Ce jour infortuné si funeste⁎ pour eux
-Sépara ces Amans sur le point d'estre heureux :
-Elle ignore où ce Prince a sçû porter ses armes,
-Et souvent ses beaux yeux pour luy versent des larmes :
-Mais, Seigneur, Erixene en ce lieu doit venir,
-Scipion luy permet de vous entretenir,
-Je vois qu'elle s'avance, & vous laisse avecque elle.
-
-**** *book_ *id_I02 *act_I *date_1697 *creator_pradon
-
--*who_erixene
-On nous vient d'annoncer une grande nouvelle,
-Annibal en Affrique est enfin de retour.
-
--*who_aurilcar
-Vous le verrez, Madame, avant la fin du jour.
-
--*who_erixene
-Je sçay que dans l'état où l'Affrique est reduite,
-Elle n'espere plus qu'en sa seule conduite⁎ ;
-Ne me déguisez rien sur ses nouveaux projets,
-Je prévois, Aurilcar, qu'ils tendent à la paix.
-
--*who_aurilcar 
-Vous avez penetré ce que veut sa prudence,
-Une paix de Cartage est l'unique esperance ;
-Mais, Madame, que dit, & que fait Scipion ?
-Son jeune cœur n'a-t-il que de l'ambition ?
-Les charmes⁎ d'Erixene, ou les yeux d'Isperie
-N'ont-ils pû rendre encor sa grande ame attendrie ?
-Pardonnez…
-
--*who_erixene
-      Apprenez un secret important,
-Sans doute⁎ Scipion n'est plus indifferent.
-Depuis peu dans son Camp sa flâme est allumée,
-Bien que sa passion dans son cœur renfermée
-Prenne soin à nos yeux toujours de se cacher,
-Qu'il fasse des efforts⁎ en vain pour l'arracher,
-J'ay connu⁎ cependant, même par sa contrainte,
-Que d'un feu violent son ame étoit atteinte.
-
--*who_aurilcar
-Il faut d'un tel secret qu'Annibal soit instruit,
-Sa prudence pouroit en tirer quelque fruit ;
-Car si de Scipion on fléchit le courage,
-Il pouroit s'adoucir en faveur de Cartage.
-Hé quoy ? si de l'amour il ressentoit les coups ?
-Et s'il étoit charmé⁎ d'Isperie, ou de vous,
-Sans doute⁎ que la paix en seroit plus facile.
-
--*who_erixene
-A connoître⁎ les cœurs je ne suis pas habile ;
-Mais j'ay crû démesler dans son trouble secret,
-Qu'il aime une des deux, & qu'il l'aime à regret ;
-Plus j'observe pour nous ses yeux et sa conduite,
-Plus je vois qu'il nous cherche alors qu'il nous évite ;
-Quand il nous voit ensemble il demeure interdit⁎,
-Il rougit quelquefois de honte & de dépit
-Et quand il s'aperçoit du trouble de son ame,
-Il semble s'indigner de sa naissante flâme,
-Il fremit de sentir l'amour qu'il veut dompter,
-Et que tout son courage a peine à surmonter.
-Voila le plan d'un cœur difficile à connoître⁎ ;
-Mais pour aprofondir qui peut en estre maître,
-Je sçay trop qu'Isperie a des charmes⁎ puissans,
-Que sa beauté d'abord peut enchanter⁎ les sens,
-Mais à son cher Amant elle est trop attachée,
-Et par nul autre objet⁎ n'en peut estre arrachée,
-Scipion le connoît⁎.
-
--*who_aurilcar
-      Madame, & plût aux Dieux !
-Que ce Vainqueur sentît le pouvoir de vos yeux ?
-
--*who_erixene
-Je ne m'en flatte⁎ point, mais sans estre trop vaine⁎,
-Scipion sans rougir pouroit porter ma chaîne,
-Que dis-je ? ce Heros, le plus grand des mortels,
-A qui Rome déja consacre des Autels,
-D'un cœur tel que le mien peut devenir le maître,
-Et s'il n'est mon Amant il est digne de l'estre.
-Peut-estre j'en dis trop, & j'avouë à regret
-Un foible, dont mon cœur me faisoit un secret ;
-Mais quoy ? Si l'on faisoit la paix avec Cartage,
-Plût au Ciel ! que l'amour en ébauchât l'ouvrage,
-Et du moins je voudrois pour flater⁎ ma fierté⁎,
-Que l'heureuse Erixene eût part à ce traité.
-Adieu, Scipion vient, & vous allez l'entendre.
-
-**** *book_ *id_I03 *act_I *date_1697 *creator_pradon 
-
--*who_scipion
 Est-il donc vray, Seigneur, ce qu'on vient de m'apprendre,
 Que le grand Annibal cherche à m'entretenir ?
 
--*who_aurilcar
-Seigneur, sur ce sujet je viens vous prévenir,
-Occupé tout entier du soin⁎ de sa patrie,
-Annibal, par ma bouche aujourd'huy vous en prie ;
-Une telle entreveuë utile à son païs,
-Et même necessaire à tous les deux partis,
-Pouroit en ce grand jour décidant de la guerre,
-Donner un plein repos au reste de la terre.
-
--*who_scipion
 Annibal me surprend par ce nouveau dessein,
 Je ne le croyois voir que le fer à la main,
 Et seur de sa valeur & de sa renommée,
 Je l'attendois toujours en tête d'une Armée.
 
--*who_aurilcar
-Elle approche de vous, & marche sur ses pas ;
-Avant que de tenter le destin⁎ des combats,
-Il a cru pour le bien de chaque Republique,
-Qu'il devoit avec vous en sage politique,
-Examiner à fond les divers interests
-Qui troublent nos Etats par des ressors secrets,
-Et les ayant tous mis dans la juste balance,
-En peser à loisir les raisons, l'importance,
-Pour garder à chacun & sa gloire & son rang ;
-Souvent une entreveuë épargne bien du sang,
-Ainsi pour Annibal je la demande encore.
-
--*who_scipion
 Hé bien ? pour luy marquer à quel point je l'honore,
 J'accepte l'entreveuë, & veux bien differer
 La bataille où j'ay cru devoir me préparer ;
@@ -251,43 +18,23 @@ Qu'il choisisse un lieu propre⁎ à cette conference,
 Je m'y rendray, Seigneur, au jour qu'il nommera,
 Et ne seray suivy qu'autant qu'il le sera.
 
--*who_aurilcar
-Il prétend⁎ dans ce Camp venir bien-tôt luy-même.
-
--*who_scipion
 Quoy ! luy-même en mon Camp, ma surprise est extrême ?
 Mais quel ôtage encor exige-t-il de moy ?
 Que me demande-t-il qui puisse…
 
--*who_aurilcar
-      Vôtre foy⁎.
-
--*who_scipion
 Hé quoy ? donc Annibal ne veut point d'autre ôtage ?
 
--*who_aurilcar
-Il veut de Scipion la parole pour gage,
-Hé quel ôtage peut remplacer Annibal ?
-
--*who_scipion
 Je sçay qu'il n'en est point pour un tel General.
 Et puisqu'il se confie⁎ en ma seule parole,
 Je jure par les Dieux appuis du Capitole,
 Qu'il peut en seureté se fier à ma foy⁎,
 Il n'aura dans mon Camp pour ôtage que moy.
 
--*who_aurilcar 
-Seigneur, c'en est assez.
-
--*who_scipion
       Allez, je vais l'attendre,
 Je me fais un plaisir de le voir, de l'entendre,
 Mais pressez l'entreveuë où j'ay dû consentir,
 Et voyez Isperie avant que de partir.
 
-**** *book_ *id_I04 *act_I *date_1697 *creator_pradon
-
--*who_scipion
 Lepide, que crois-tu de cette conference
 Qu'Annibal me demande avecque tant d'instance ;
 Son invincible bras, la terreur des Romains,
@@ -305,11 +52,6 @@ Que me vient proposer ce fameux Capitaine ?
 Dieux ! seroit-ce la paix ? mon esprit agité
 Fremit en ce moment du seul mot de traité.
 
--*who_lepide 
-S'il demande la paix, n'estes-vous pas le maître
-D'accepter, d'imposer…
-
--*who_scipion
       Apprens à me connoître⁎.
 Si dans cette entreveuë il propose la paix,
 Ma gloire me défend d'y consentir jamais.
@@ -322,10 +64,6 @@ J'en ay d'autres secrets que tu ne pouras croire,
 Je ne sçay si mon cœur⁎ se seroit démenty⁎,
 Je sens ce que jamais je n'avois ressenty.
 
--*who_lepide
-Vous, Seigneur ?
-
--*who_scipion
       Je te veux ouvrir toute mon ame,
 Je ne sçay si je dois donner le nom de flâme
 A ce trouble mortel⁎ dont je suis agité ;
@@ -338,12 +76,7 @@ Je rougis d'en sentir les mortelles⁎ atteintes,
 J'ay voulu te cacher mon desordre, mes craintes ;
 Mais il faut t'avoüer mon foible avec douleur.
 La prise de Zama coûte cher à mon cœur.
-
--*who_lepide
-Je vous entends, Seigneur, des atteintes si vives
-Sont de l'amour…
-
--*who_scipion 
+ 
       Ecoûte, une de mes captives,
 Je tremble seulement d'en prononcer le nom,
 A soûmis, a vaincu le cœur⁎ de Scipion ;
@@ -354,12 +87,6 @@ L'éclat & la douceur jointe à la majesté,
 Mille & mille vertus⁎, une grace infinie…
 Enfin ne dois-tu pas reconnoître Isperie.
 
--*who_lepide
-Hé ? Qui pouroit la voir sans en estre surpris,
-Seigneur, avec raison vous en estes épris,
-Ses yeux…
-
--*who_scipion
       Ne flate⁎ point mon panchant, ma foiblesse,
 Et loin de me laisser languir⁎ dans la molesse⁎,
 Contre un feu si fatal⁎ prête-moy du secours,
@@ -377,10 +104,6 @@ Me firent vivement ressentir ma foiblesse,
 Je n'en suis plus le maître, & malgré mes efforts⁎
 Je succombe, Lepide, à de si doux transports.
 
--*who_lepide 
-Il est vray qu'elle est belle, & digne d'estre aimée.
-
--*who_scipion
 Plus je resiste, & plus j'en ay l'ame charmée⁎,
 L'effort⁎ que je me fais irrite⁎ mes desirs,
 Prés d'elle je contrains, j'étouffe mes soûpirs :
@@ -389,12 +112,6 @@ Je me vois aujourd'huy la cause de ses larmes,
 Ma fatale⁎ victoire a trahy ses desseins,
 Elle doit me haïr, Lepide, & je le crains.
 
--*who_lepide
-Vous pouriez voir, Seigneur, vôtre flâme trompée,
-Du Prince Lucejus elle est préocupée,
-Vous l'avez enlevée aux bras de cet époux.
-
--*who_scipion
 Il l'épousoit ? ah Ciel ! que son sort⁎ étoit doux !
 Qu'il alloit estre heureux , & qu'Isperie est belle !
 Est-il dans l'univers rien qui soit digne d'elle ?
@@ -406,11 +123,6 @@ Apprens que Scipion ne la rendra jamais,
 Elle est seule un obstacle invincible à la paix ;
 Ainsi donc plus d'accord, ny même d'entreveuë.
 
--*who_lepide
-Mais vous l'avez promise, & dans peu la venuë
-D'Annibal en ce Camp…
-
--*who_scipion
       Il est vray, j'ay promis
 D'entendre le plus fier⁎ de tous nos ennemis ;
 Mais je dois pour ma gloire oublier Isperie,
@@ -419,33 +131,8 @@ La Niéce d'Annibal tenteroit ma vertu⁎ ?
 Le plus grand ennemy que jamais Rome ait eu ?
 Non, Lepide, aujourd'huy je dois briser ma chaîne.
 
--*who_lepide
-Seigneur, portez vos vœux du côté d'Erixene.
-Elle est fille d'Hannon ennemy d'Annibal,
-Dans Cartage ce Chef fut toujours son rival.
-Toujours dans le Senat à ce Heros contraire⁎,
-Dans Rome il n'eut jamais de plus grand adversaire,
-Et s'opposant sans cesse à ses justes desseins,
-Il paroissoit plûtôt l'allié des Romains ;
-Aux charmes⁎ d'Isperie opposez Erixene,
-Et prenez un amour conforme à vôtre haine,
-Elle peut balancer vos desirs à son tour,
-Et même elle pouroit répondre à vôtre amour.
-
--*who_scipion
 Erixene !
 
--*who_lepide
-      Oüy, Seigneur, & j'ay cru le connoître⁎,
-Toute sa fierté⁎ tombe en vous voyant paroître :
-Quand on parle de vous, il le faut avoüer,
-Elle prend du plaisir, Seigneur, à vous loüer,
-Et lorsque vos regards tournent vers Isperie,
-Dans son dépit secret on lit sa jalousie ;
-Elle voudroit bien voir ses charmes⁎ effacez⁎,
-Elle la hait enfin, en est-ce pas assez ?
-
--*who_scipion
 Elle hait Isperie, ah Ciel ! quelle injustice ?
 Par quelle jalousie, ou plûtôt quel caprice,
 Malgré tant de beautez cette Erixene hait
@@ -460,281 +147,21 @@ Je veux sonder son cœur, je veux estre éclaircy
 Des secretes raisons qui l'amenent icy.
 Fin du premier Acte.
 
-**** *book_ *id_II01 *act_II *date_1697 *creator_pradon
-
--*who_isperie
-Languirais⁎-je toujours en des craintes mortelles⁎ ?
-Du Prince Lucejus on n'a point de nouvelles,
-Aurilcar m'a parlé sans m'avoir rien appris
-Qui puisse redonner le calme à mes esprits ;
-Il m'apprend qu'Annibal, ce Heros que j'honore,
-Viendra ; mais Lucejus ne paroît point encore ;
-Devoit-il pas aller au devant de ses pas ?
-Le joindre⁎ dans son Camp, y mener ses soldats ?
-Que fait-il ? en quels lieux avec indifference,
-Depuis deux mois entiers souffre⁎-t-il mon absence ?
-Il n'ose rien tenter, il n'a rien entrepris,
-Sans doute⁎ que mon cœur est d'un trop foible prix ;
-Et ne devoit-il pas au peril de sa teste,
-Ravir à Scipion une telle conqueste ;
-Il n'a rien fait encor pour me prouver sa foy⁎,
-Je ne merite pas qu'il s'expose pour moy.
-
--*who_ermilie 
-Eh ? pouvez-vous douter que ce Prince vous aime,
-Madame, rapellez son desespoir extrême,
-Quand Zama pris d'assaut le sépara de vous :
-Ce malheureux Amant dans son juste couroux,
-Guidé par sa fureur s'alloit ôter la vie,
-Je desarmay son bras au seul nom d'Isperie,
-Et peut-estre…
-
--*who_isperie
-      Dequoy viens-tu m'entretenir ?
-Pourquoy me rapeller ce triste⁎ souvenir ?
-O nuit ! qui preceda la fatale⁎ journée
-Qui devoit éclairer un heureux hymenée !
-Au lieu de me livrer au malheur qui me suit,
-Que n'es-tu devenuë une éternelle nuit ?
-Lors qu'on vint nous donner de si vives allarmes,
-Que tout retentissoit de l'affreux bruit des armes,
-Que le fer à la main je vis tant de soldats
-En foule en mon Palais précipiter leurs pas ;
-Il t'en doit souvenir, dans tes bras Ermilie
-Je demeuray long-temps immobile & sans vie,
-Scipion m'aperçût, son zele⁎ officieux
-Me prêta du secours, me fit ouvrir les yeux,
-A son air, à son port je connus⁎ ce grand homme,
-La terreur de Cartage & la gloire de Rome,
-Et sans qu'il eût besoin qu'on prononçât son nom,
-Son front majestueux découvrit Scipion,
-Depuis de mille soins⁎ je luy suis redevable ;
-Cependant aujourd'huy c'est luy seul qui m'accable,
-Il fait couler mes pleurs malgré tant de vertus⁎,
-Et sans luy je serois unie à Lucejus.
-
--*who_ermilie 
-Madame pouvez-vous murmurer de sa chaîne ?
-Ce Heros vous regarde & traite en souveraine,
-Vôtre nom dans Zama seroit moins respecté,
-Vous estes dans son Camp en pleine liberté,
-Sans gardes, sans témoins, il met toute sa gloire
-A vous faire oublier cette triste⁎ victoire,
-Et si je m'en raporte à des regards plus doux,
-Le seul respect n'est pas tout ce qu'il sent pour vous.
-
--*who_isperie
-Helas ! trop attentive à mon destin⁎ funeste⁎,
-Je songe à mon Amant & néglige le reste,
-Tous les autres objets⁎ me touchent foiblement,
-Qu'un cœur est malheureux d'aimer si tendrement ?
-Mais ce Prince m'oublie & j'en suis outragée⁎,
-Il n'y faut plus penser pour en estre vangée,
-Dans un lâche repos s'il est ensevely⁎,
-Il merite ma haine, ou plûtôt mon oubly ;
-Me laisser si long-temps languir⁎ dans l'esclavage ?
-Est-ce faute d'amour, ou faute de courage ?
-Tous deux également me donnent de l'effroy,
-S'il manque de courage est-il digne de moy ?
-Ce penser contre luy me revolte, m'indigne,
-Et s'il manque d'amour en sera-t-il plus digne ?
-Mais que vois-je ? est-ce luy ? grands Dieux !…
-
-**** *book_ *id_II02 *act_II *date_1697 *creator_pradon 
-
--*who_lucejus
-      N'en doutez plus,
-Madame, & connoissez⁎ aujourd'huy Lucejus :
-Le fidele Celsus fut captif de mon pere,
-Il le renvoya libre, & j'en ay le salaire,
-C'est luy qui m'a conduit prés de vous en ces lieux,
-Je viens briser vos fers, ou mourir à vos yeux.
-
--*who_isperie
-Ciel ! qu'entens-je ?
-
--*who_lucejus
-      Voila le sujet qui m'ameine,
-Mes soldats sont cachez dans la forest prochaine⁎,
-Jusqu'au prés de ce Camp nous sommes parvenus
-Par des lieux écartez, des chemins inconnus,
-Je n'ay pris avec moy que des troupes d'élite,
-Indibilis m'attend, il en a la conduite,
-Avecque un Camp volant Mandonius le suit,
-Nous devons attaquer ce quartier cette nuit ;
-Je n'ay fié qu'à moy le soin⁎ de reconnoistre,
-En quel endroit du Camp vos tentes pouvoient être,
-Je le sçais à present, & j'en rends grace aux Dieux,
-Il faudra profiter & du temps & des lieux,
-Et si le Ciel répond à ce que je projete,
-Tout le Camp d'Annibal nous offre une retraite,
-Il n'est pas loin d'icy ; mais j'ay voulu sans luy
-Tenter ce grand effort⁎ que je fais aujourd'huy ;
-Je craignois qu'Annibal par sa lente prudence
-Ne servît mal ma flâme & mon impatience :
-Ainsi, sans differer… Madame, vous tremblez,
-Vos sens sont interdits⁎, vos esprits sont troublez,
-Vous ne répondez rien, & vous versez des larmes.
-
--*who_isperie
-Que je ressens pour vous de mortelles⁎ allarmes ?
-Qu'allez-vous entreprendre ? & qui peut m'assurer
-Du succés…
-
--*who_lucejus
-      Oui, Madame, il faut tout esperer,
-A quiconque aime bien il n'est rien d'impossible,
-L'ardeur de vous servir doit me rendre invincible,
-Si le sort⁎ me trahit, ou si je meurs au moins,
-Madame, vos beaux yeux en seront les témoins,
-J'auray fait mon devoir s'il m'en coûte la vie,
-Du moins je la perdray pour sauver Isperie.
-
--*who_isperie
-Et c'est ce que je crains, que pourez-vous, ah Dieux ?
-Vous allez attaquer un Camp victorieux,
-Vous perirez, Seigneur, & tout me le fait croire,
-Vous allez contre vous irriter⁎ la victoire,
-Je vous verray sanglant, & tout percé de coups,
-Tomber peut-être…
-
--*who_lucejus
-      Helas ! que mon sort⁎ sera doux
-Si je puis…
-
--*who_isperie 
-      Non, Seigneur, gardez-vous d'entreprendre
-Si je l'ay souhaité, je dois vous le défendre ;
-Loin de vous j'accusois vôtre trop de lenteur,
-J'allois jusqu'à douter même de vôtre cœur⁎ :
-Pardonnez-moy, j'étois injuste, criminelle,
-De soupçonner ce cœur⁎ genereux⁎ & fidelle :
-Mais enfin, grace au Ciel, je vous vois de retour,
-Et je retrouve en vous un Heros plein d'amour,
-C'est assez.
-
--*who_lucejus
-      Non, Madame, il faut tantôt⁎ me suivre,
-Ou choisir de me voir dans peu cesser de vivre,
-Dissipez vos chagrins⁎, & n'ayez point d'effroy,
-Cette entreprise est digne & de vous & de moy.
-Hé quoy donc Scipion vous peut voir à toute heure,
-Vous le souffrez⁎ helas ! quand il faut que je meure,
-Il joüit des momens qui m'estoient destinez,
-Je traîne loin de vous des jours infortunez,
-Vous le voyez souvent, pardonnez-moy, Madame,
-L'éclat de sa grandeur pouroit toucher une ame,
-Il a trop de vertus⁎, & mon transport jaloux…
-
--*who_isperie
-Il a tout le respect que j'attendrois de vous,
-Sa bonté, sa clemence, enlevent⁎ mon estime,
-Je ne m'en défens point puisqu'elle est legitime.
-Mais enfin Scipion n'est point vôtre rival,
-Il n'aime que la gloire, & ne hait qu'Annibal.
-
--*who_lucejus
-Moy, je hay ce Romain dont vous portez la chaîne,
-Et pour luy mon estime est égale à ma haine ;
-Mais, Madame, songez qu'il fait tous nos malheurs,
-Vous devez le haïr, il vous coûte des pleurs,
-Il nous a séparez, & je suis à la gêne⁎,
-De vous voir dans son Camp encor porter sa chaîne.
-Non, non, & cette nuit il en faudra sortir,
-Ou j'iray…
-
--*who_isperie
-      Non, Seigneur, je n'y puis consentir,
-Annibal vient bien-tôt, attendons sa venüe,
-Aprenons le succés⁎ d'une telle entrevüe,
-Il va parler de paix, j'auray la liberté,
-Et nous serons tous deux compris dans le traité ;
-Peut-estre sans risquer une si chere vie
-Demain en liberté vous verrez Isperie,
-Ne précipitez rien, Seigneur, retirez-vous,
-Je tremble qu'en ces lieux quelqu'un ne vienne à nous ;
-Si vous tardez long-temps on peut vous y surprendre ;
-Sur tout, au nom des Dieux, avant que d'entreprendre,
-Si j'ay sur vôtre cœur de veritables droits,
-Je prétends⁎ vous parler une seconde fois ;
-Seigneur, suivez Celsus en qui je me confie⁎,
-Il poura dans sa tente assurer vôtre vie,
-Attendez quelque temps.
-
--*who_lucejus
-      Madame j'obéis.
-Mais enfin, si vos vœux & les miens sont trahis,
-Vous partirez.
-
--*who_isperie
-      Seigneur, je promets de vous suivre,
-Et même de mourir si vous cessez de vivre.
-
-**** *book_ *id_II03 *act_II *date_1697 *creator_pradon 
-
--*who_isperie
-A present je respire ! il a rempli mes vœux,
-Cet Amant que je vois fidelle & genereux⁎,
-De tant de mouvemens⁎ dont j'avois l'ame atteinte,
-Il ne me reste plus que l'amour & la crainte ;
-Mais helas ! qu'elle est vive & sensible⁎ à mon cœur !
-Je sens mille transports de joye & de douleur,
-Il est digne de moy, je dois trop le connoître⁎ ;
-Mais il va s'exposer, & perira peut-estre ;
-Que dis-je, son amour va tenter un effort⁎
-Qui luy fera trouver Scipion & la mort ;
-Justes Dieux ! détournez ce funeste⁎ présage !
-Inspirez Annibal pour la paix de Cartage !
-C'est ma seule esperance en cette occasion,
-Et sur tout portez-y le cœur de Scipion :
-Il vient, que me veut-il ?
-
-**** *book_ *id_II04 *act_II *date_1697 *creator_pradon 
-
--*who_scipion
       Je vous cherchois, Madame ;
 Mais quel trouble nouveau frape & saisit vôtre ame !
 Etonnée⁎, interdite⁎, à mon premier abord⁎,
 Je vois combien pour moy vous vous faites d'effort⁎.
 
--*who_isperie
-Seigneur, ne croyez pas…
-
--*who_scipion
       Ma presence vous gêne⁎,
 Et je seray toujours l'objet de vôtre haine,
 Je la merite peu cependant.
 
--*who_isperie
-      Moy, Seigneur ?
-Vous haïr ? mon respect vous répond de mon cœur,
-Et j'ay pour vos vertus⁎ une si haute estime…
-
--*who_scipion
 Madame, vous croyez la haine legitime,
 La prise de Zama vous a coûté des pleurs,
 Du Prince vôtre Amant j'ay causé les malheurs,
 Et vous vous en plaignez du moins sans vous contraindre,
 Il est d'autres malheurs dont on n'ose se plaindre.
 
--*who_isperie 
-Seroit-il des malheurs comparables aux siens ?
-Tout prêts à nous unir par les plus beaux liens,
-Ce jeune Prince helas ! attendoit la journée
-Qui devoit couronner un pompeux⁎ hymenée, 
-Pardonnez-moy, Seigneur, ce triste⁎ souvenir,
-De ma memoire encor je ne puis le bannir,
-C'est vous qui luy causez les malheurs de sa vie,
-Errant, infortuné, separé d'Isperie,
-Il nourit loin de moy d'inutiles regrets,
-Peut-estre ses tourmens⁎ ne finiront jamais ;
-Si vous aimiez, Seigneur, vous sçauriez par vous-même
-Dans quel afreux tourment⁎ est un cœur quand il aime,
-Et qu'il est separé de l'objet⁎ de ses vœux ?
-Helas ! qu'il est à plaindre ? & qu'il est malheureux ?
-Que son triste⁎ destin⁎…
-
--*who_scipion
       Qu'il est digne d'envie !
 Peut-on rien ajoûter au bonheur de sa vie ?
 Lucejus est choisi pour estre vôtre époux,
@@ -742,10 +169,6 @@ Il vous aime, & de plus il est aimé de vous.
 Mais ç'en est trop, il faut combattre dans vôtre ame,
 Et bannir pour jamais cette inutile flâme.
 
--*who_isperie
-Moy ! Seigneur ?
-
--*who_scipion
       Ouy, pour vous Rome a d'autres desseins,
 Et puisqu'il est enfin ennemy des Romains
 Cet Amant, qu'il combat contre la Republique,
@@ -753,10 +176,6 @@ Tout s'opose à ses vœux, raison, & politique,
 Pouroit-elle souffrir⁎ qu'il devînt vôtre époux ?
 Et d'ailleurs cet hymen est indigne de vous.
 
--*who_isperie
-Lucejus est né Prince.
-
--*who_scipion
       Et fust-il Roy, Madame,
 Il ne merite point une si belle flâme ;
 Que vous connoissez peu le prix de vôtre cœur ?
@@ -767,24 +186,8 @@ Et pour mieux soûtenir l'honneur de vôtre choix,
 Il faut un des vainqueurs, un des maistres des Rois,
 En un mot, un Romain.
 
--*who_isperie
-      La grandeur, la fortune⁎
-Peut faire impression sur une ame commune ;
-Mais quoy ! tout son éclat mis dans son plus beau jour
-N'ébloüit point un cœur éclairé par l'amour.
-
--*who_scipion
 Quoy ? vous pouriez, Madame ?…
 
--*who_isperie
-      Eh ! Seigneur, que m'importe
-Que ces vainqueurs des Rois… Mais helas ! je m'emporte,
-Je dois les respecter, & je suis dans leurs fers ;
-Qu'à leur gré les Romains gouvernent l'Univers,
-Tout doit fléchir sous eux ? Mais encor à quels titres
-Veulent-ils de nos cœurs devenir les arbitres ?
-
--*who_scipion
 Il faut justifier⁎, Madame, leurs desseins,
 Et vous apprendre icy l'interest des Romains ;
 Pour rendre sa puissance & sa gloire affermie,
@@ -810,11 +213,6 @@ Unir Mandonius avecque Indibilis,
 Et suscitant à Rome une éternelle guerre,
 Vos yeux pouroient contr'elle armer toute la terre.
 
--*who_isperie
-Mais si la paix, Seigneur, par de plus doux projets
-Pouvoit unir un jour…
-
--*who_scipion
       Madame, point de paix,
 Point d'accord, c'est envain en former l'esperance,
 Il faut de Rome, il faut poursuivre la vangeance,
@@ -822,19 +220,6 @@ On me l'a confiée, & j'en dois prendre soin⁎,
 Et si j'en crois mon cœur⁎ je la porteray loin,
 Madame, vous pleurez.
 
--*who_isperie
-      Il faut bien que je pleure,
-Puisque par cet Arrest vous voulez que je meure ;
-Vous serez satisfait, cet ordre rigoureux
-Dans peu fera perir deux Amans malheureux,
-Nous avions dans la paix encor quelque esperance,
-Mais vous voulez de Rome achever la vangeance.
-Achevez-la, Seigneur, mais du moins le trépas,
-Au defaut de la paix ne nous manquera pas.
-
-**** *book_ *id_II05 *act_II *date_1697 *creator_pradon
-
--*who_scipion
 Et le sort⁎, juste Ciel ! & les yeux pleins de larmes
 Attendrissent mon cœur, & m'arrachent les armes, 
 Je suis prêt d'oublier ma gloire, mes projets,
@@ -869,111 +254,6 @@ Tout le veut, la raison, la gloire, l'équité,
 Il faut par d'autres fers me mettre en liberté.
 Fin du second Acte.
 
-**** *book_ *id_III01 *act_III *date_1697 *creator_pradon
-
--*who_barce
-Tandis que Scipion fait ranger son armée,
-Que pour en soûtenir l'éclat, la renommée,
-Il en veut étaler la pompe⁎ à son rival,
-(Spectacle digne enfin des regards d'Annibal)
-En attendant qu'icy nous le voyons paroître,
-De grace, aprenez-moy si ce superbe⁎ maître,
-Ce fameux Scipion qui marchoit sur vos pas
-A rendu les respects qu'il doit à vos apas⁎ ;
-Ouy, son front desarmé de la fierté⁎ Romaine
-Sembloit le préparer à porter vôtre chaîne ;
-Loin de vous par respect je n'ay pas entendu
-Assez distinctement cet homage rendu :
-Mais helas ! je vous vois les yeux pleins de tristesse⁎,
-A cacher vos chagrins⁎ vous mettez vôtre adresse,
-Vous ne répondez rien, vous devorez vos pleurs,
-Madame, & ce silence…
-
--*who_erixene
-      Aprens tous mes malheurs,
-Barcé, puisque tu veux que je t'en rende conte,
-Aprens ma passion, ma douleur, & ma honte ;
-Que les yeux d'une Amante helas ! sont clairvoyans ?
-J'ay vû de Scipion les feux les plus ardans,
-Il m'est venu trouver pour m'en faire un homage,
-Mais que son cœur ah Dieux ! démentoit son langage ?
-A son discours confus, son air embarassé,
-J'ay vû qu'il me rendoit un homage forcé ;
-Au nom de Lucejus toute sa jalousie
-Me l'a fait voir remply des charmes⁎ d'Isperie,
-Il la cherchoit encore en voulant me parler,
-Il découvroit un feu qu'il tâchoit de celer,
-Et son aveu pour moy d'une flâme fatale⁎
-M'a fait voir seulement qu'il aimoit ma rivale.
-
--*who_barce
-Que dites-vous ? ah Ciel !
-
--*who_erixene
-      Tout ce que j'ay trop vû,
-Ce que mon triste⁎ cœur avoit déjà prévû,
-Ouy, j'ay de mes malheurs l'affreuse certitude,
-Et n'ay plus la douceur de mon inquietude ;
-Ce n'est pas qu'il n'ait fait d'inutiles effors
-Pour s'arracher luy-même à ses premiers transports :
-Je voyois qu'il tâchoit de me rendre les armes,
-Qu'il vouloit tout entier se livrer à mes charmes⁎,
-Qu'il combattoit en vain contre un cœur mutiné
-Qui suivoit malgré luy son panchant obstiné :
-En parlant d'Isperie un dédain legitime
-Affectoit un mépris qui marquoit son estime,
-Il vouloit à mes yeux rabaisser ses attraits,
-Mais les siens me sembloient égarez & distraits :
-Il nommoit Isperie, il nommoit Erixene,
-Il montroit de l'amour, il marquoit de la haine,
-Il s'efforçoit Barcé d'aimer & de haïr,
-Et son cœur en suspens refusoit d'obéïr.
-
--*who_barce
-Mais, Madame, après tout s'il adore⁎ Isperie,
-Son ame d'un tel feu doit estre assez punie,
-Elle aime Lucejus, & leurs cœurs embrasez
-Puniront Scipion de vos feux méprisez,
-Sa tendresse…
-
--*who_erixene
-      Et pourquoy sans dessein de luy plaire
-Me ravit-elle un cœur à ses vœux si contraire ?
-Ou pourquoy ce Heros s'est-il laissé charmer⁎
-D'un objet⁎ qui ne peut & ne doit pas l'aimer ?
-Quand il voit aujourd'huy la superbe⁎ Erixene
-Soûpirer, & courir au devant de sa chaîne :
-Isperie est aimée ? ah jalouse fureur !
-De mon cruel destin⁎ vois-tu toute l'horreur ?
-Il faut pour me vanger d'une ardeur si fatale⁎
-Qu'il en coûte des pleurs, du sang à ma rivale,
-Et mon cœur irrité⁎ sera plus satisfait
-Si je puis la punir du vol qu'elle m'a fait :
-Mais pourquoy la punir d'un crime involontaire ?
-C'est sans doute⁎ à regret qu'elle a trop sçû luy plaire,
-Pourois-je l'accabler de mon inimitié
-Quand son sort⁎ & le mien sont dignes de pitié :
-On l'adore⁎, & sa flâme est ailleurs allumée,
-Et moy, j'aime un ingrat sans espoir d'estre aimée.
-
--*who_barce
-Que vôtre cœur si fier⁎ rappelle sa raison,
-Madame, soûtenez l'éclat de vôtre nom.
-
-**** *book_ *id_III02 *act_III *date_1697 *creator_pradon 
-
--*who_lepide
-Annibal dans ces lieux à l'instant va se rendre,
-Scipion suit mes pas, Madame, & vient l'attendre,
-J'ay dû vous avertir…
-
--*who_erixene
-      Lepide, c'est assez.
-Barcé, retirons-nous.
-
-**** *book_ *id_III03 *act_III *date_1697 *creator_pradon
-
--*who_scipion
       Mes desirs empressez
 Seront bien-tôt remplis, & suivant mon attente
 Je vais voir Annibal, Lepide, en cette tente :
@@ -990,17 +270,6 @@ Malgré ma passion luy découvrir le cœur⁎
 D'un Romain, d'un Consul, de qui la politique
 Ne songe qu'à sa gloire & qu'à la Republique.
 
--*who_lepide
-Sur vous de l'Univers vous attachez les yeux,
-Seigneur, & vos succés vous font des envieux,
-Qui ne peuvent souffrir⁎ sans quelque jalousie
-Le cours trop éclatant de vôtre illustre vie :
-Je n'ose qu'à regret en prononcer le nom,
-Mais j'y compte, Seigneur, Fabius & Caton,
-Qui souvent contre vous animez d'un faux zele⁎
-Fatiguent le Senat d'une plainte éternelle.
-
--*who_scipion
 Je le sçais trop, Lepide, & toujours Fabius
 A tenté contre moy des efforts⁎ superflus⁎,
 Il vouloit empêcher mon voyage en Affrique,
@@ -1020,9 +289,276 @@ Il faut vaincre Annibal & la guerre est finie, 
 Il vient, que son abord⁎ inspire de respect,
 Allez.
 
-**** *book_ *id_III04 *act_III *date_1697 *creator_pradon
+Je ne m'attendois pas qu'un si grand Capitaine
+Vînt icy desarmé de colere & de haine,
+Qu'Annibal si long-temps couronné de lauriers,
+Le modelle & l'effroy des plus fameux Guerriers,
+Nourry presque toujours au sein de la victoire,
+Pût rallentir⁎ en luy le desir de la gloire,
+Et qu'un Heros illustre après tant de hauts faits
+Pût jamais se resoudre à demander la paix.
 
--*who_annibal
+Souffrez⁎ que je démesle avant que de répondre
+De pressants interêts qu'on ne doit pas confondre,
+Et je dois balancer avecque un soin⁎ égal
+Le mien, celuy de Rome, & celuy d'Annibal ;
+Pour le vôtre, Seigneur, je souffrirois⁎ sans peine
+Que Rome par la paix pût éteindre sa haine ;
+Je connois⁎ vos vertus⁎, j'admire vos exploits,
+Mais pour ma gloire il faut vous combattre une fois :
+Si Fabius acquit une immortelle gloire
+D'éviter Annibal, & de fuïr la victoire,
+Si Rome l'aplaudit de n'estre pas vaincu,
+En triomphant de vous quelle gloire eut-il eu ?
+Je n'ose m'en flater⁎, je serois temeraire,
+Mais du moins, il est beau de tenter de le faire,
+D'essayer de vous mettre au nombre des vaincus,
+Et d'aller aujourd'huy plus loin que Fabius.
+
+Et c'est là ce qui doit en rehausser la gloire.
+
+Je m'accommode peu de pareille victoire,
+Et laisse à Fabius sa lenteur & sa gloire,
+Rome qui veut de moy de plus puissants efforts⁎,
+Est dans un autre état qu'elle n'étoit alors ;
+Mais Cartage, Seigneur, & perfide, & cruelle
+Est indigne après tout que vous parliez pour elle ;
+Nos Alliez par elle indignement traitez,
+Croyant estre à l'abry sur la foy⁎ des traitez,
+Ont senty les premiers toute sa perfidie,
+Vos combats trop heureux l'ont depuis enhardie,
+Les Mammertins vaincus, les Sagontins défaits,
+L'Italie embrasée après tant de succés,
+Nos Consuls terrassez, Rome presque assiegée,
+Tout cela veut que Rome à la fin soit vangée.
+
+Je respecte Isperie, elle est toute adorable⁎,
+Elle pouroit fléchir le plus superbe⁎ cœur,
+Mais pour la meriter il faut être vainqueur,
+Et ce seroit pour moy le comble de la gloire,
+Que l'hymen d'Isperie après une victoire,
+Je ne m'en défens point, j'adore⁎ ses vertus⁎, 
+Cependant vous l'avez promise à Lucejus,
+Et vôtre foy⁎ Seigneur…
+
+Dieux !
+
+Seigneur, vous le pouvez.
+
+      Connoît⁎-il ma tendresse ?
+Ah Ciel ! que m'a-t-il dit ! il prévient⁎ mon ardeur,
+A-t-il lû dans mes yeux le secret de mon cœur ?
+Lorsque je veux éteindre une servile flâme,
+Il vient la rallumer dans le fond de mon ame ?
+Il me donne Isperie ? ah ! quel saisissement
+Vient de fraper mon cœur dans ce fatal⁎ moment ?
+Ayant mal dans mon Camp déguisé ma tendresse,
+Il est par Aurilcar instruit de ma foiblesse,
+Et ce grand politique autant que grand guerrier
+M'a sans doute⁎ gardé ce trait pour le dernier ;
+Mais pourquoy refuser l'accord qu'il me demande ?
+Qui s'opose à mes vœux ? qu'est-ce que j'aprehende ?
+Quoy pour Rome la paix est-elle à dédaigner ?
+Que de pleurs , que de sang nous pouvons épargner !
+Le Senat m'a remis une pleine puissance
+De faire les Traitez de paix & d'alliance,
+Et ménageant sa gloire avec ses interêts,
+Rome sçaura souscrire à tout ce que je fais.
+A Cartage d'ailleurs cette paix est honteuse,
+A Rome elle ne peut être que glorieuse,
+Annibal a fléchy, son orgueil a plié,
+Et par là n'est-il pas assez humilié ?
+Que faire cependant en ce desordre extrême ?
+Dois-je accorder la paix & m'oublier moy-même ?
+Dieux ! soûtenez ma gloire, & versez dans mon sein
+Un conseil salutaire à l'Empire⁎ Romain.
+Fin du troisiéme Acte.
+
+On veut que vous soyez le gage d'une paix,
+Qui sans doute⁎ n'est pas conforme à vos souhaits ;
+Mais, Madame, aujourd'huy je croirois faire un crime
+De souffrir⁎ qu'Annibal vous en fist la victime ;
+J'honore vos vertus⁎, j'adore⁎ vos apas⁎,
+Mais sans contraindre un cœur s'il ne se donne pas,
+Loin d'en être tyran j'en abhorre le titre,
+De vôtre sort⁎, du mien, je vous laisse l'arbitre,
+Vous avez ou la paix, ou la guerre en vos mains,
+Le destin de l'Afrique & celuy des Romains.
+
+Je vois trop…
+
+C'en est assez, Sextus, allez les reconnoître,
+J'attens vôtre retour. Lucejus va paroître,
+Madame, & je vois bien que pour vos interêts
+Nous aurons un combat, & non pas une paix ;
+Sans doute⁎ que ce Prince avance & vient lui-même
+Pour rejoindre Annibal… Dieux ! quel desordre extrême ?
+Vous en étiez instruite, il vient vous secourir ;
+Mais je vais le combattre & veux vous conquerir,
+Je vois par la frayeur dont vôtre ame est atteinte…
+
+Il remplit son devoir ? Ah ! quelle confiance !
+Son Amant luy redonne une fiere⁎ assurance,
+Elle s'en promet tout. Vos vœux trop empressez
+N'en sont pas, Isperie, encore où vous pensez ,
+J'y mettray quelque obstacle, & ce ferme courage…
+Ah ! je sens redoubler & ma haine, & ma rage,
+Il faut combattre, il faut rompre ce nœud fatal⁎ ;
+Ce Prince étoit sans doute⁎ attendu d'Annibal,
+Sous pretexte de paix, ce Chef adroit peut-être
+N'est venu dans mon camp que pour le reconnoître,
+Que pour gagner du temps sur l'espoir d'un traité ?
+Dieux ! de quel mouvement⁎ je me sens agité !
+Par ces projets pompeux⁎ de paix & d'alliance,
+Il tâchoit d'endormir mes soins⁎, ma vigilance,
+Tout m'est suspect en luy, Lepide, je le voy,
+A bien d'autres qu'à nous il a manqué de foy⁎,
+Il vient, je ne dois plus le tenir en balance.
+
+Ce Prince ne fait rien que ce qu'il devoit faire,
+Qu'il est heureux ! il sert sa gloire & son amour,
+Seigneur, il vient grossir vôtre armée en ce jour,
+Vous attendiez sans doute⁎ encor cet avantage.
+
+J'ose dire, Seigneur, ce que j'ay dû penser.
+
+Vous êtes dans mon Camp, Seigneur, je vous respecte,
+Mais la foy⁎ de Cartage aux Romains est suspecte.
+
+      Seigneur, n'en parlons plus,
+Et quittons des soupçons incertains & confus ;
+Il faut que vôtre ardeur à la mienne réponde,
+Nous devons decider de l'Empire⁎ du Monde,
+Annibal, si les Dieux ont mis entre nos mains
+Le destin de l'Afrique, & celuy des Romains,
+Il faut dans ce grand jour sans tarder davantage,
+Faire triompher Rome, ou délivrer Cartage,
+Il faut voir l'une ou l'autre, ou libre, ou dans les fers,
+Et donner un seul maître enfin à l'Univers.
+
+A la fin d'Annibal j'ay piqué la fierté⁎,
+J'ay rompu grace au Ciel cet indigne traité :
+Et vous, Dieux ! protecteurs du sacré Capitole,
+Il faut dans ce combat vous vanger, & j'y vole :
+Rome, vous attendez cette grande action,
+Qu'Annibal suive un jour le char de Scipion.
+Fin du quatriéme Acte.
+
+      Qu'on observe Isperie ?
+Qu'on la suive ? & sur tout ayez soin de sa vie.
+
+Qu'un pareil sentiment me touche & m'interesse⁎ ?
+Ouy, de vôtre destin je vous rends la maîtresse,
+Soyez libre, Madame, & d'un cœur⁎ affermy
+Allez joindre⁎ Annibal mon illustre ennemy ;
+Ma victoire n'a fait qu'enfler sa renommée,
+Luy seul a combatu dans toute son Armée,
+J'ay malgré sa défaite admiré sa valeur,
+Il n'a jamais été plus grand qu'en ce malheur.
+Vous pourez aujourd'huy le revoir dans Cartage,
+Contre moy je luy donne un puissant avantage :
+Cependant vous pouvez partir, allez Sextus,
+Et rendez les honneurs qu'on doit à ses vertus⁎.
+
+      Ah ! Lepide,
+Je tremble que l'amour ne me serve de guide,
+Je ne suis plus Romain, je suis foible, & je sens
+Que contre ma vertu⁎ se revoltent mes sens ;
+La gloire, la pitié, l'amour, tout me déchire,
+Que je souffre grands Dieux ! j'en rougis, j'en soûpire,
+Qu'il me faut rendre encor de terribles combats ?
+Annibal est vaincu, mais l'amour ne l'est pas.
+
+En flatant⁎ mon amour que me fais-tu connoître⁎ ?
+Ouy, si j'en consultois les transports de mon cœur,
+Peut-être deviendrois-je un superbe⁎ vainqueur :
+Elle viendra bien-tôt cette tendre Isperie,
+De son heureux Amant me demander la vie ;
+Elle ignore son sort⁎ que je luy fais cacher,
+Envain parmy les morts elle le fait chercher :
+Mais helas ! ce qui rend sa gloire plus parfaite,
+Il contraint son vainqueur d'envier sa defaite,
+Tantost dans le combat j'ay connu⁎ son grand cœur⁎,
+J'ay senti redoubler mon amour, ma fureur ;
+Il tâchoit de sauver une Amante fidelle,
+Je voyois à regret qu'il étoit digne d'elle :
+Il étoit des momens où malgré mon couroux
+Je trouvois Annibal moins digne de mes coups :
+Mais que fait cet Amant ? a-t-il la même audace ?
+De quel œil maintenant reçoit-il sa disgrace ?
+
+Non, c'en est fait, il faut qu'il étouffe ses feux,
+Je veux que Lucejus abandonne Isperie,
+A ce prix je mettray sa liberté, sa vie,
+C'est à luy d'obéïr… Mais quel est mon dessein ?
+Suis-je encor Scipion ? ou suis-je encor Romain ?
+Justes Dieux ! est-ce ainsi que je suis les exemples
+Des Heros à qui Rome a consacré des Temples ?
+Est-ce ainsi que je suis la noble austerité
+Qui les rendra fameux à la posterité ?
+Etouffons un amour… Ah Dieux ! que vais-je faire ?
+De ma victoire un autre aura-t-il le salaire ?
+Mais je vois Isperie, ah ! j'ay mal combatu,
+A ses yeux j'ay besoin de toute ma vertu⁎.
+
+Ne craignez plus pour luy, dissipez vôtre effroy,
+Lucejus est vivant, & plus heureux que moy.
+
+Et c'est ce qui me tüe : il cause vos douleurs
+Ce trop heureux Amant, il fait couler vos pleurs, 
+Il coûte des soûpirs qui sont dignes d'envie,
+Madame, & je voudrois les payer de ma vie.
+
+      Eh ! détournez les vôtres :
+Et puisque leurs regards sont destinez pour d'autres,
+Laissez m'en éviter l'éclat imperieux ;
+Vous voyez les combats que je rends, justes Dieux !
+Que dois-je faire enfin ? je fremis quand j'y pense,
+Madame, j'ay besoin de toute ma constance ;
+Mais c'en est trop, malgré tant de vœux superflus⁎
+Que l'on fasse venir le Prince Lucejus ?
+
+      Dans un moment vous le pourez apprendre.
+
+Madame, & plût aux Dieux que l'on pût vous haïr ?
+Que je m'épargnerois un mortel⁎ déplaisir⁎ !
+Si malgré moy j'évite une fatale⁎ veuë,
+Un objet⁎ tel que vous porte un charme⁎ qui tuë.
+
+Je pardonne aisément à ce transport jaloux,
+Si j'étois Lucejus je l'aurois comme vous,
+Vous m'avez dû haïr & ce n'est point un crime,
+Prince, pour un rival la haine est legitime,
+Je le suis, je l'avouë, ah Dieux ! vous le sçavez
+De quels feux j'ay brûlé, mais de grace, achevez
+Un triomphe immortel dont la gloire semée
+De tout ce que j'ay fait passe la renommée,
+Pour laisser un exemple à la posterité
+Rare, mais cependant qui puisse être imité :
+Oüy, Madame, aujourd'huy je veux, quoy qu'il m'en coûte,
+Enseigner aux mortels cette nouvelle route,
+Leur montrer comme on peut domter sa passion,
+Et vainqueur d'Annibal vaincre encor Scipion :
+Prince, rassurez-vous, je vous donne la vie,
+Je fais plus, de ma main recevez Isperie.
+
+      Non, Prince, levez-vous.
+
+Retournez à Zama couronner vôtre foy⁎,
+Elle est un present digne & de vous, & de moy ;
+Je ne demande icy pour toute recompense,
+Pour le prix & le nœud d'une étroite alliance,
+Prince, que vous soyez en luy donnant la main
+Amy de Scipion, & du peuple Romain ;
+Je vais me preparer au Siege de Cartage,
+Par sa prise je dois achever mon ouvrage,
+Et j'espere dans peu la rangeant sous mes loix
+Triompher d'Annibal une seconde fois.
+Adieu, vivez heureux.
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_annibal
+
       Si j'ay paru surpris à vôtre aspect⁎,
 Et si quelques momens j'ay gardé le silence,
 Seigneur, accusez-en vôtre auguste presence ;
@@ -1049,17 +585,6 @@ Vous avez sauvé Rome allant droit à Cartage,
 Et pour elle aujourd'huy par de justes projets
 Vous voyez Annibal vous demander la paix.
 
--*who_scipion
-Je ne m'attendois pas qu'un si grand Capitaine
-Vînt icy desarmé de colere & de haine,
-Qu'Annibal si long-temps couronné de lauriers,
-Le modelle & l'effroy des plus fameux Guerriers,
-Nourry presque toujours au sein de la victoire,
-Pût rallentir⁎ en luy le desir de la gloire,
-Et qu'un Heros illustre après tant de hauts faits
-Pût jamais se resoudre à demander la paix.
-
--*who_annibal
 Je le veux, je le dois : la fortune⁎ éclatante
 Qui fut assez long-temps pour moy ferme & constante,
 Ne m'a point ébloüy ; ses inégalitez
@@ -1117,34 +642,11 @@ Mais j'immole ma gloire au salut de Cartage,
 Et je croy faire plus pour l'eclat de mon nom
 Que si j'avois soûmis & Rome, & Scipion.
 
--*who_scipion
-Souffrez⁎ que je démesle avant que de répondre
-De pressants interêts qu'on ne doit pas confondre,
-Et je dois balancer avecque un soin⁎ égal
-Le mien, celuy de Rome, & celuy d'Annibal ;
-Pour le vôtre, Seigneur, je souffrirois⁎ sans peine
-Que Rome par la paix pût éteindre sa haine ;
-Je connois⁎ vos vertus⁎, j'admire vos exploits,
-Mais pour ma gloire il faut vous combattre une fois :
-Si Fabius acquit une immortelle gloire
-D'éviter Annibal, & de fuïr la victoire,
-Si Rome l'aplaudit de n'estre pas vaincu,
-En triomphant de vous quelle gloire eut-il eu ?
-Je n'ose m'en flater⁎, je serois temeraire,
-Mais du moins, il est beau de tenter de le faire,
-D'essayer de vous mettre au nombre des vaincus,
-Et d'aller aujourd'huy plus loin que Fabius.
-
--*who_annibal
 Peut-être ferez-vous un effort⁎ inutile ?
 Scipion, le chemin en sera difficile,
 Je le rendray penible⁎, & sans doute⁎ fatal⁎
 A quiconque voudra triompher d'Annibal.
 
--*who_scipion
-Et c'est là ce qui doit en rehausser la gloire.
-
--*who_annibal
 J'ay bien prévû, Seigneur, qu'ardant à la victoire
 Vous pouriez dédaigner celle de Fabius,
 Mais regardez le sort⁎ du fier⁎ Minutius ;
@@ -1157,23 +659,6 @@ Avec cette lenteur fatigua mon adresse,
 Et toujours devant moy ce grand homme ployant,
 Rétablit sa patrie & sçût vaincre en fuyant.
 
--*who_scipion
-Je m'accommode peu de pareille victoire,
-Et laisse à Fabius sa lenteur & sa gloire,
-Rome qui veut de moy de plus puissants efforts⁎,
-Est dans un autre état qu'elle n'étoit alors ;
-Mais Cartage, Seigneur, & perfide, & cruelle
-Est indigne après tout que vous parliez pour elle ;
-Nos Alliez par elle indignement traitez,
-Croyant estre à l'abry sur la foy⁎ des traitez,
-Ont senty les premiers toute sa perfidie,
-Vos combats trop heureux l'ont depuis enhardie,
-Les Mammertins vaincus, les Sagontins défaits,
-L'Italie embrasée après tant de succés,
-Nos Consuls terrassez, Rome presque assiegée,
-Tout cela veut que Rome à la fin soit vangée.
-
--*who_annibal
 Vous ferez plus pour elle en accordant la paix,
 La victoire toujours ne suit pas nos souhaits ;
 De plus, considerez qu'en l'état où nous sommes,
@@ -1190,83 +675,438 @@ A ce suprême honneur meritoit d'aspirer…
 Mais le cœur d'un Romain ne sçait pas soûpirer,
 Et le vôtre trop fier⁎ & trop inexorable…
 
--*who_scipion
-Je respecte Isperie, elle est toute adorable⁎,
-Elle pouroit fléchir le plus superbe⁎ cœur,
-Mais pour la meriter il faut être vainqueur,
-Et ce seroit pour moy le comble de la gloire,
-Que l'hymen d'Isperie après une victoire,
-Je ne m'en défens point, j'adore⁎ ses vertus⁎, 
-Cependant vous l'avez promise à Lucejus,
-Et vôtre foy⁎ Seigneur…
-
--*who_annibal
       Cette promesse est vaine,
 Ce lien est rompu par sa nouvelle chaîne,
 Elle est vôtre captive, & ne peut être à luy,
 Et pouroit être à vous, Seigneur, dés aujourd'huy.
 
--*who_scipion
-Dieux !
-
--*who_annibal
       Heureux ! si mon sang avoit cet avantage
 De cimenter la paix que demande Cartage,
 Je réponds d'Isperie, elle y doit consentir,
 J'attens vôtre réponse avant que de partir,
 En l'attendant souffrez⁎ que je parle à ma Niéce.
 
--*who_scipion
-Seigneur, vous le pouvez.
+      Madame, levez-vous.
 
-**** *book_ *id_III05 *act_III *date_1697 *creator_pradon
+Non, ne m'oposez point de frivolles ardeurs,
+L'amour ne regle pas le destin des grands cœurs,
+Il le faut immoler au bien de la patrie,
+Et songez que Cartage aujourd'huy vous en prie.
 
--*who_scipion
-      Connoît⁎-il ma tendresse ?
-Ah Ciel ! que m'a-t-il dit ! il prévient⁎ mon ardeur,
-A-t-il lû dans mes yeux le secret de mon cœur ?
-Lorsque je veux éteindre une servile flâme,
-Il vient la rallumer dans le fond de mon ame ?
-Il me donne Isperie ? ah ! quel saisissement
-Vient de fraper mon cœur dans ce fatal⁎ moment ?
-Ayant mal dans mon Camp déguisé ma tendresse,
-Il est par Aurilcar instruit de ma foiblesse,
-Et ce grand politique autant que grand guerrier
-M'a sans doute⁎ gardé ce trait pour le dernier ;
-Mais pourquoy refuser l'accord qu'il me demande ?
-Qui s'opose à mes vœux ? qu'est-ce que j'aprehende ?
-Quoy pour Rome la paix est-elle à dédaigner ?
-Que de pleurs , que de sang nous pouvons épargner !
-Le Senat m'a remis une pleine puissance
-De faire les Traitez de paix & d'alliance,
-Et ménageant sa gloire avec ses interêts,
-Rome sçaura souscrire à tout ce que je fais.
-A Cartage d'ailleurs cette paix est honteuse,
-A Rome elle ne peut être que glorieuse,
-Annibal a fléchy, son orgueil a plié,
-Et par là n'est-il pas assez humilié ?
-Que faire cependant en ce desordre extrême ?
-Dois-je accorder la paix & m'oublier moy-même ?
-Dieux ! soûtenez ma gloire, & versez dans mon sein
-Un conseil salutaire à l'Empire⁎ Romain.
-Fin du troisiéme Acte.
+Oüy, je me vois encore une nombreuse Armée,
+Mais Dieux ! elle n'est plus à vaincre acoûtumée,
+Madame, je n'ay plus d'intrepides soldats,
+Leurs cœurs⁎ sont affoiblis aussi bien que leurs bras,
+Fatalles⁎ voluptez, délices de Capoüe !
+Vous nous coûtâtes cher, il est vray, je l'avoüe,
+Nous avions triomphé dans les adversitez,
+Et nous fûmes vaincus par les prosperitez,
+Et ce repos des miens molissant⁎ le courage,
+Capoüe a sauvé Rome & menace Cartage.
 
-**** *book_ *id_IV01 *act_IV *date_1697 *creator_pradon
+Qu'on me fasse trouver aussi la même Armée ?
+Annibal répondant de semblables succés⁎
+Ne seroit pas reduit à demander la paix ;
+Mais il me reste peu de troupes aguerries,
+Dans le sein du repos celles-cy sont nouries,
+J'ay Scipion en tête avec trop de vertus⁎,
+Et je n'ay plus à faire à des Flaminius.
+Madame, à cet aveu j'ay bien voulu descendre,
+Pour marquer l'interest que vous y devez prendre ;
+Il faut donc en ce jour épouser ce Heros,
+Pour rendre aux Africains la gloire & le repos, 
+Il faut que de la paix vous soyez un seur gage,
+Vôtre hymen va sauver & l'Afrique & Cartage,
+Quel triomphe pour vous en vous laissant fléchir ?
+Ce n'est plus moy, c'est vous qui pouvez l'affranchir.
 
--*who_ermilie
-Ouy, Madame, Annibal par l'éclat de vos charmes⁎
-Du fameux Scipion a suspendu les armes ;
-On dit qu'il a d'abord rejetté fierement⁎
-Jusqu'au moindre projet d'un accomodement,
-Mais qu'à la fin quittant son superbe⁎ langage,
-De Rome il a connu⁎ la gloire, l'avantage ;
-Qu'il a vû que la paix qu'il tenoit en sa main
-Etoit avantageuse à l'Empire⁎ Romain,
-Qu'il pouvoit accorder l'amour, la politique,
-Et suivant son panchant servir sa Republique ;
-Vos yeux ont captivé cet illustre Vainqueur. 
+      N'ai-je pas sacrifié ma gloire ?
+J'ay demandé la paix, ah Ciel ! qui l'eût pu croire ?
+Madame, & cet effort⁎ a cent fois plus coûté
+A l'orgueil d'Annibal, à toute sa fierté⁎,
+Qu'il n'en poura jamais coûter à vôtre flâme,
+J'en ay donné l'exemple, imitez-moy, Madame,
+Il faut sacrifier vos feux à vôtre tour.
 
--*who_isperie
+A Lucejus ? ah Ciel ! quand Scipion vous aime,
+Ce Heros revêtu d'une gloire suprême,
+Se peut-il que le Chef des Celtiberiens
+Ose luy disputer l'honneur de vos liens ?
+Et lorsque vous voyez dans vos fers ce grand homme
+Qui va mettre à vos pieds la puissance de Rome,
+En vous faisant un sort⁎ qui soit digne de vous,
+Songez-vous que l'honneur en rejaillit sur nous :
+Ah ma Niéce ! pour vous croyez-en ma tendresse,
+Icy pour vôtre gloire Annibal s'interesse⁎,
+Secondez aujourd'huy de si justes desseins,
+Et prenez pour époux le plus grand des Romains.
+
+Je voy que c'est en vain employer la douceur
+Pour fléchir ou pour vaincre un si superbe⁎ cœur ;
+Mais il faut étouffer cette vaine tendresse,
+Je ne dis plus qu'un mot, Madame, & je vous laisse.
+Tournez vers Scipion vôtre cœur & vos vœux,
+Vous l'allez voir ; sur tout songez que je le veux.
+
+Ne me soupçonnez pas d'aucune intelligence,
+Seigneur, quand Lucejus vient pour ses interêts,
+Les armes à la main s'oposer à la paix,
+On a vû ses drapeaux, & ma juste colere…
+
+Seigneur, qu'osez-vous dire ? un tel soupçon m'outrage⁎.
+
+Vous en dites assez enfin pour m'offenser.
+ 
+Ah ! c'en est trop, il faut…
+
+Vous faites voir un cœur trop avide de gloire,
+Et déjà vous croyez courir à la victoire,
+Scipion, mais je veux seconder vos souhaits ;
+Vous m'avez soupçonné, je renonce à la paix,
+Ouy, j'accepte aujourd'huy la bataille, & j'espere
+Vous mettre au même état où j'ay mis vôtre pere ;
+Je me rends à ma haine, il faut remplir⁎ mon sort⁎,
+J'ay promis de haïr Rome jusqu'à la mort,
+En naissant j'ay juré la guerre au Capitole,
+Jusqu'au dernier soûpir je luy tiendray parole.
+
+Madame, je connois tout ce que je vous doi,
+Reposez - vous du soin de ma gloire sur moy,
+Je la conserveray , cette gloire immortelle ,
+Et feray ce qu'il faut pour Cartage & pour elle ;
+Mais quittez cet esprit fier & tumultueux,
+D'où vient pour Lucejus ce zele impetueux ?
+Quel interest si grand prenez-vous à sa flâme ?
+D'où vient pour Scipion tant de haine ? ah madame,
+Que me faites-vous voir ? quel trouble…
+
+Avec quelle chaleur me parlez - vous pour elle ?
+Je le voy, son destin, ses pleurs vous font pitié,
+Mais de grace, Madame, une simple amitié
+Remplit - elle vos vœux de tant de violence ?
+Auriez - vous pour la Paix la mesme repugnance ?
+Si malgré vostre orgueil, et vostre aversion
+Quelqu'un vous proposoit l'hymen de Scipion ?
+
+Ah je crois tout, madame,
+Et je sçay comme vous le secret de vostre ame,
+Vous ne haïssez pas ce farouche vainqueur ,
+Il a mis sous le joug vostre superbe cœur,
+Et mesme je voy trop que la fiere Erixene
+Se verroit à regret affranchir de sa chaîne,
+Ce n'est point avec moy qu'il faut dissimuler ,
+Je conçois l'Interest qui vous a fait parler,
+Il suffit. C'est à vous que mon ordre s'adresse,
+Etouffez Isperie une vaine tendresse ,
+Tournez vers Scipion vostre cœur & vos vœux ,
+Vous l'allez voir, sur tout songez que je le veux.
+SCENE VI.
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lucejus
+
+      N'en doutez plus,
+Madame, & connoissez⁎ aujourd'huy Lucejus :
+Le fidele Celsus fut captif de mon pere,
+Il le renvoya libre, & j'en ay le salaire,
+C'est luy qui m'a conduit prés de vous en ces lieux,
+Je viens briser vos fers, ou mourir à vos yeux.
+
+      Voila le sujet qui m'ameine,
+Mes soldats sont cachez dans la forest prochaine⁎,
+Jusqu'au prés de ce Camp nous sommes parvenus
+Par des lieux écartez, des chemins inconnus,
+Je n'ay pris avec moy que des troupes d'élite,
+Indibilis m'attend, il en a la conduite,
+Avecque un Camp volant Mandonius le suit,
+Nous devons attaquer ce quartier cette nuit ;
+Je n'ay fié qu'à moy le soin⁎ de reconnoistre,
+En quel endroit du Camp vos tentes pouvoient être,
+Je le sçais à present, & j'en rends grace aux Dieux,
+Il faudra profiter & du temps & des lieux,
+Et si le Ciel répond à ce que je projete,
+Tout le Camp d'Annibal nous offre une retraite,
+Il n'est pas loin d'icy ; mais j'ay voulu sans luy
+Tenter ce grand effort⁎ que je fais aujourd'huy ;
+Je craignois qu'Annibal par sa lente prudence
+Ne servît mal ma flâme & mon impatience :
+Ainsi, sans differer… Madame, vous tremblez,
+Vos sens sont interdits⁎, vos esprits sont troublez,
+Vous ne répondez rien, & vous versez des larmes.
+
+      Oui, Madame, il faut tout esperer,
+A quiconque aime bien il n'est rien d'impossible,
+L'ardeur de vous servir doit me rendre invincible,
+Si le sort⁎ me trahit, ou si je meurs au moins,
+Madame, vos beaux yeux en seront les témoins,
+J'auray fait mon devoir s'il m'en coûte la vie,
+Du moins je la perdray pour sauver Isperie.
+
+      Helas ! que mon sort⁎ sera doux
+Si je puis…
+
+      Non, Madame, il faut tantôt⁎ me suivre,
+Ou choisir de me voir dans peu cesser de vivre,
+Dissipez vos chagrins⁎, & n'ayez point d'effroy,
+Cette entreprise est digne & de vous & de moy.
+Hé quoy donc Scipion vous peut voir à toute heure,
+Vous le souffrez⁎ helas ! quand il faut que je meure,
+Il joüit des momens qui m'estoient destinez,
+Je traîne loin de vous des jours infortunez,
+Vous le voyez souvent, pardonnez-moy, Madame,
+L'éclat de sa grandeur pouroit toucher une ame,
+Il a trop de vertus⁎, & mon transport jaloux…
+
+Moy, je hay ce Romain dont vous portez la chaîne,
+Et pour luy mon estime est égale à ma haine ;
+Mais, Madame, songez qu'il fait tous nos malheurs,
+Vous devez le haïr, il vous coûte des pleurs,
+Il nous a séparez, & je suis à la gêne⁎,
+De vous voir dans son Camp encor porter sa chaîne.
+Non, non, & cette nuit il en faudra sortir,
+Ou j'iray…
+
+      Madame j'obéis.
+Mais enfin, si vos vœux & les miens sont trahis,
+Vous partirez.
+
+He bien, aprenez-moy quelle est ma destinée ?
+Madame, est-elle heureuse ? est-elle infortunée ?
+Que j'ay souffert, grands Dieux ! attendant ce moment,
+Mais qu'a-t-on resolu ? quel accommodement ?
+Quel accord Annibal a-t-il fait ?…
+
+Je ne partiray point, & de grace, Madame
+Parlez, expliquez-moy le trouble de vôtre ame.
+
+      Hé quoy donc Annibal…
+
+      Barbare politique ?
+Malgré tant de sermens voilà la foy⁎ punique !
+Je m'en étois douté ; quoy ? malgré vôtre foy⁎,
+L'aveu⁎ d'un pere helas ! qui vous donnoit à moy,
+Le crüel vous engage en une autre alliance,
+Je veux le voir, je veux courir à la vangeance,
+Laissez-moy luy parler & j'y vais…
+
+Et qu'ai-je à ménager encor si je vous perds ?
+Annibal, Scipion, je cherche l'un, ou l'autre,
+Je veux percer un cœur qui m'arrache le vôtre ;
+Encor pour Scipion, s'il vous aime aujourd'huy,
+Madame, en vous voyant qui feroit moins que luy,
+Je dois luy pardonner une tendresse extrême,
+Il n'a pû l'éviter, j'en juge par moy-même,
+Vos yeux me répondoient qu'il seroit mon rival,
+Mais je dois me vanger du perfide Annibal,
+C'est sur luy…
+
+Et je demeurerois tranquille pour vous plaire ?
+J'attaqueray ce Camp, Madame, avant la nuit,
+Quand une mort certaine en deviendroit le fruit ;
+Permettez seulement si les Dieux me secondent,
+Si d'un heureux succés⁎ à mes vœux ils répondent,
+Si je puis penetrer jusqu'à vous dans ces lieux,
+Que mon bras vous arrache à ce Camp odieux,
+Madame, ou si le sort⁎ trahit mon entreprise,
+Conservez-moy la foy⁎ que vous m'avez promise,
+Honorez de vos pleurs un Amant, un époux,
+Et si je meurs, du moins, songez que c'est pour vous ;
+Adieu, Madame.
+
+Seigneur, ne croyez pas que la peur de la mort
+Me fasse repentir d'un genereux⁎ effort⁎,
+Je vous ay voulu perdre, & ce bras temeraire
+S'il étoit libre encor tâcheroit de le faire ;
+Vous êtes mon rival, vous m'avez tout ôté,
+Vous devez m'immoler à vôtre seureté,
+Je suis vôtre captif aussi bien qu'Isperie,
+J'en fremis ; mais de grace immolez une vie
+Qui deviendroit funeste⁎ à vos jours glorieux,
+J'irois les attaquer à la face des Dieux,
+Prevenez⁎ par ma mort mon desespoir, mon crime,
+Perdant ce que je perds tout seroit legitime.
+
+Ah ! Seigneur, permettez qu'embrassant vos genoux
+Je rende à vos vertus⁎…
+
+      Admirons ce grand homme,
+Le plus parfait Heros qu'ait jamais produit Rome.
+FIN.
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isperie
+
+Languirais⁎-je toujours en des craintes mortelles⁎ ?
+Du Prince Lucejus on n'a point de nouvelles,
+Aurilcar m'a parlé sans m'avoir rien appris
+Qui puisse redonner le calme à mes esprits ;
+Il m'apprend qu'Annibal, ce Heros que j'honore,
+Viendra ; mais Lucejus ne paroît point encore ;
+Devoit-il pas aller au devant de ses pas ?
+Le joindre⁎ dans son Camp, y mener ses soldats ?
+Que fait-il ? en quels lieux avec indifference,
+Depuis deux mois entiers souffre⁎-t-il mon absence ?
+Il n'ose rien tenter, il n'a rien entrepris,
+Sans doute⁎ que mon cœur est d'un trop foible prix ;
+Et ne devoit-il pas au peril de sa teste,
+Ravir à Scipion une telle conqueste ;
+Il n'a rien fait encor pour me prouver sa foy⁎,
+Je ne merite pas qu'il s'expose pour moy.
+
+      Dequoy viens-tu m'entretenir ?
+Pourquoy me rapeller ce triste⁎ souvenir ?
+O nuit ! qui preceda la fatale⁎ journée
+Qui devoit éclairer un heureux hymenée !
+Au lieu de me livrer au malheur qui me suit,
+Que n'es-tu devenuë une éternelle nuit ?
+Lors qu'on vint nous donner de si vives allarmes,
+Que tout retentissoit de l'affreux bruit des armes,
+Que le fer à la main je vis tant de soldats
+En foule en mon Palais précipiter leurs pas ;
+Il t'en doit souvenir, dans tes bras Ermilie
+Je demeuray long-temps immobile & sans vie,
+Scipion m'aperçût, son zele⁎ officieux
+Me prêta du secours, me fit ouvrir les yeux,
+A son air, à son port je connus⁎ ce grand homme,
+La terreur de Cartage & la gloire de Rome,
+Et sans qu'il eût besoin qu'on prononçât son nom,
+Son front majestueux découvrit Scipion,
+Depuis de mille soins⁎ je luy suis redevable ;
+Cependant aujourd'huy c'est luy seul qui m'accable,
+Il fait couler mes pleurs malgré tant de vertus⁎,
+Et sans luy je serois unie à Lucejus.
+
+Helas ! trop attentive à mon destin⁎ funeste⁎,
+Je songe à mon Amant & néglige le reste,
+Tous les autres objets⁎ me touchent foiblement,
+Qu'un cœur est malheureux d'aimer si tendrement ?
+Mais ce Prince m'oublie & j'en suis outragée⁎,
+Il n'y faut plus penser pour en estre vangée,
+Dans un lâche repos s'il est ensevely⁎,
+Il merite ma haine, ou plûtôt mon oubly ;
+Me laisser si long-temps languir⁎ dans l'esclavage ?
+Est-ce faute d'amour, ou faute de courage ?
+Tous deux également me donnent de l'effroy,
+S'il manque de courage est-il digne de moy ?
+Ce penser contre luy me revolte, m'indigne,
+Et s'il manque d'amour en sera-t-il plus digne ?
+Mais que vois-je ? est-ce luy ? grands Dieux !…
+
+Ciel ! qu'entens-je ?
+
+Que je ressens pour vous de mortelles⁎ allarmes ?
+Qu'allez-vous entreprendre ? & qui peut m'assurer
+Du succés…
+
+Et c'est ce que je crains, que pourez-vous, ah Dieux ?
+Vous allez attaquer un Camp victorieux,
+Vous perirez, Seigneur, & tout me le fait croire,
+Vous allez contre vous irriter⁎ la victoire,
+Je vous verray sanglant, & tout percé de coups,
+Tomber peut-être…
+ 
+      Non, Seigneur, gardez-vous d'entreprendre
+Si je l'ay souhaité, je dois vous le défendre ;
+Loin de vous j'accusois vôtre trop de lenteur,
+J'allois jusqu'à douter même de vôtre cœur⁎ :
+Pardonnez-moy, j'étois injuste, criminelle,
+De soupçonner ce cœur⁎ genereux⁎ & fidelle :
+Mais enfin, grace au Ciel, je vous vois de retour,
+Et je retrouve en vous un Heros plein d'amour,
+C'est assez.
+
+Il a tout le respect que j'attendrois de vous,
+Sa bonté, sa clemence, enlevent⁎ mon estime,
+Je ne m'en défens point puisqu'elle est legitime.
+Mais enfin Scipion n'est point vôtre rival,
+Il n'aime que la gloire, & ne hait qu'Annibal.
+
+      Non, Seigneur, je n'y puis consentir,
+Annibal vient bien-tôt, attendons sa venüe,
+Aprenons le succés⁎ d'une telle entrevüe,
+Il va parler de paix, j'auray la liberté,
+Et nous serons tous deux compris dans le traité ;
+Peut-estre sans risquer une si chere vie
+Demain en liberté vous verrez Isperie,
+Ne précipitez rien, Seigneur, retirez-vous,
+Je tremble qu'en ces lieux quelqu'un ne vienne à nous ;
+Si vous tardez long-temps on peut vous y surprendre ;
+Sur tout, au nom des Dieux, avant que d'entreprendre,
+Si j'ay sur vôtre cœur de veritables droits,
+Je prétends⁎ vous parler une seconde fois ;
+Seigneur, suivez Celsus en qui je me confie⁎,
+Il poura dans sa tente assurer vôtre vie,
+Attendez quelque temps.
+
+      Seigneur, je promets de vous suivre,
+Et même de mourir si vous cessez de vivre.
+
+A present je respire ! il a rempli mes vœux,
+Cet Amant que je vois fidelle & genereux⁎,
+De tant de mouvemens⁎ dont j'avois l'ame atteinte,
+Il ne me reste plus que l'amour & la crainte ;
+Mais helas ! qu'elle est vive & sensible⁎ à mon cœur !
+Je sens mille transports de joye & de douleur,
+Il est digne de moy, je dois trop le connoître⁎ ;
+Mais il va s'exposer, & perira peut-estre ;
+Que dis-je, son amour va tenter un effort⁎
+Qui luy fera trouver Scipion & la mort ;
+Justes Dieux ! détournez ce funeste⁎ présage !
+Inspirez Annibal pour la paix de Cartage !
+C'est ma seule esperance en cette occasion,
+Et sur tout portez-y le cœur de Scipion :
+Il vient, que me veut-il ?
+
+Seigneur, ne croyez pas…
+
+      Moy, Seigneur ?
+Vous haïr ? mon respect vous répond de mon cœur,
+Et j'ay pour vos vertus⁎ une si haute estime…
+ 
+Seroit-il des malheurs comparables aux siens ?
+Tout prêts à nous unir par les plus beaux liens,
+Ce jeune Prince helas ! attendoit la journée
+Qui devoit couronner un pompeux⁎ hymenée, 
+Pardonnez-moy, Seigneur, ce triste⁎ souvenir,
+De ma memoire encor je ne puis le bannir,
+C'est vous qui luy causez les malheurs de sa vie,
+Errant, infortuné, separé d'Isperie,
+Il nourit loin de moy d'inutiles regrets,
+Peut-estre ses tourmens⁎ ne finiront jamais ;
+Si vous aimiez, Seigneur, vous sçauriez par vous-même
+Dans quel afreux tourment⁎ est un cœur quand il aime,
+Et qu'il est separé de l'objet⁎ de ses vœux ?
+Helas ! qu'il est à plaindre ? & qu'il est malheureux ?
+Que son triste⁎ destin⁎…
+
+Moy ! Seigneur ?
+
+Lucejus est né Prince.
+
+      La grandeur, la fortune⁎
+Peut faire impression sur une ame commune ;
+Mais quoy ! tout son éclat mis dans son plus beau jour
+N'ébloüit point un cœur éclairé par l'amour.
+
+      Eh ! Seigneur, que m'importe
+Que ces vainqueurs des Rois… Mais helas ! je m'emporte,
+Je dois les respecter, & je suis dans leurs fers ;
+Qu'à leur gré les Romains gouvernent l'Univers,
+Tout doit fléchir sous eux ? Mais encor à quels titres
+Veulent-ils de nos cœurs devenir les arbitres ?
+
+Mais si la paix, Seigneur, par de plus doux projets
+Pouvoit unir un jour…
+
+      Il faut bien que je pleure,
+Puisque par cet Arrest vous voulez que je meure ;
+Vous serez satisfait, cet ordre rigoureux
+Dans peu fera perir deux Amans malheureux,
+Nous avions dans la paix encor quelque esperance,
+Mais vous voulez de Rome achever la vangeance.
+Achevez-la, Seigneur, mais du moins le trépas,
+Au defaut de la paix ne nous manquera pas.
+
 Annibal veut qu'il soit le maître de mon cœur.
 Justes Dieux ! de la paix je seray la victime,
 Ou si je la refuse il va m'en faire un crime,
@@ -1285,64 +1125,22 @@ Les regards d'Annibal & les yeux d'Isperie,
 Que c'est moy qui l'ordonne, & qu'enfin je prétens⁎
 Qu'il m'obéïsse… Ah Ciel ! il vient, il n'est plus temps.
 
-**** *book_ *id_IV02 *act_IV *date_1697 *creator_pradon
-
--*who_lucejus
-He bien, aprenez-moy quelle est ma destinée ?
-Madame, est-elle heureuse ? est-elle infortunée ?
-Que j'ay souffert, grands Dieux ! attendant ce moment,
-Mais qu'a-t-on resolu ? quel accommodement ?
-Quel accord Annibal a-t-il fait ?…
-
--*who_isperie
       Ciel ! je tremble!
 Partez, Seigneur, je crains qu'il ne nous voye ensemble,
 Sçavez-vous quels perils vous courez en ces lieux ?
 Pour la derniere fois recevez mes adieux.
 
--*who_lucejus
-Je ne partiray point, & de grace, Madame
-Parlez, expliquez-moy le trouble de vôtre ame.
-
--*who_isperie
 On veut que de la paix je sois le nœud fatal⁎,
 C'est vous en dire assez.
 
--*who_lucejus
-      Hé quoy donc Annibal…
-
--*who_isperie
 Me donne à Scipion.
 
--*who_lucejus
-      Barbare politique ?
-Malgré tant de sermens voilà la foy⁎ punique !
-Je m'en étois douté ; quoy ? malgré vôtre foy⁎,
-L'aveu⁎ d'un pere helas ! qui vous donnoit à moy,
-Le crüel vous engage en une autre alliance,
-Je veux le voir, je veux courir à la vangeance,
-Laissez-moy luy parler & j'y vais…
-
--*who_isperie
       Arrestez,
 Aprenez les malheurs que vous vous aprestez ;
 Fuyez, Seigneur, fuyez de ce Camp redoutable,
 Où vous venez chercher un destin⁎ déplorable⁎,
 Vous n'y pouvez trouver que la mort ou les fers.
 
--*who_lucejus
-Et qu'ai-je à ménager encor si je vous perds ?
-Annibal, Scipion, je cherche l'un, ou l'autre,
-Je veux percer un cœur qui m'arrache le vôtre ;
-Encor pour Scipion, s'il vous aime aujourd'huy,
-Madame, en vous voyant qui feroit moins que luy,
-Je dois luy pardonner une tendresse extrême,
-Il n'a pû l'éviter, j'en juge par moy-même,
-Vos yeux me répondoient qu'il seroit mon rival,
-Mais je dois me vanger du perfide Annibal,
-C'est sur luy…
-
--*who_isperie
       Moderez cette vaine colere,
 Attendez tout de moy quand tout vous est contraire⁎ :
 Je ne rompray jamais le serment solemnel
@@ -1361,23 +1159,6 @@ Peut-être Scipion quoyque vôtre rival,
 Sera bien moins pour vous à craindre qu'Annibal,
 Il va venir, Seigneur, évitez sa colere.
 
--*who_lucejus
-Et je demeurerois tranquille pour vous plaire ?
-J'attaqueray ce Camp, Madame, avant la nuit,
-Quand une mort certaine en deviendroit le fruit ;
-Permettez seulement si les Dieux me secondent,
-Si d'un heureux succés⁎ à mes vœux ils répondent,
-Si je puis penetrer jusqu'à vous dans ces lieux,
-Que mon bras vous arrache à ce Camp odieux,
-Madame, ou si le sort⁎ trahit mon entreprise,
-Conservez-moy la foy⁎ que vous m'avez promise,
-Honorez de vos pleurs un Amant, un époux,
-Et si je meurs, du moins, songez que c'est pour vous ;
-Adieu, Madame.
-
-**** *book_ *id_IV03 *act_IV *date_1697 *creator_pradon
-
--*who_isperie
       Helas ! que va-t-il entreprendre ?
 Il va perir, c'est tout ce que j'en dois attendre ?
 Détournez ce malheur, guidez ses pas, grands Dieux !
@@ -1386,16 +1167,9 @@ Qu'il regagne son Camp, & qu'enfin il revienne
 Soûtenir dignement & sa gloire & la mienne ?
 Dieux ! Annibal paroît…
 
-**** *book_ *id_IV04 *act_IV *date_1697 *creator_pradon 
-
--*who_isperie
       J'embrasse vos genoux,
 Seigneur, que vos bontez…
 
--*who_annibal
-      Madame, levez-vous.
-
--*who_isperie
 Seigneur, si vous usez par un ordre severe
 Du pouvoir que sur moy vous a donné mon pere,
 Qu'Hyerbal en mourant remit à vôtre foy⁎,
@@ -1403,84 +1177,21 @@ Si vous n'avez pitié du trouble où je me voy,
 Et si vous violez une sainte promesse,
 Sur qui mon cœur soûmis a reglé sa tendresse…
 
--*who_annibal
-Non, ne m'oposez point de frivolles ardeurs,
-L'amour ne regle pas le destin des grands cœurs,
-Il le faut immoler au bien de la patrie,
-Et songez que Cartage aujourd'huy vous en prie.
-
--*who_isperie
 Et pourquoy cette paix, Seigneur, n'avez-vous pas
 Cent mille hommes encor dont les cœurs⁎ & les bras…
 
--*who_annibal
-Oüy, je me vois encore une nombreuse Armée,
-Mais Dieux ! elle n'est plus à vaincre acoûtumée,
-Madame, je n'ay plus d'intrepides soldats,
-Leurs cœurs⁎ sont affoiblis aussi bien que leurs bras,
-Fatalles⁎ voluptez, délices de Capoüe !
-Vous nous coûtâtes cher, il est vray, je l'avoüe,
-Nous avions triomphé dans les adversitez,
-Et nous fûmes vaincus par les prosperitez,
-Et ce repos des miens molissant⁎ le courage,
-Capoüe a sauvé Rome & menace Cartage.
-
--*who_isperie
 Si le cœur⁎ des soldats au vôtre est inégal,
 Ils retrouvent en vous le même General ;
 Seigneur, vôtre valeur & vôtre renommée…
 
--*who_annibal
-Qu'on me fasse trouver aussi la même Armée ?
-Annibal répondant de semblables succés⁎
-Ne seroit pas reduit à demander la paix ;
-Mais il me reste peu de troupes aguerries,
-Dans le sein du repos celles-cy sont nouries,
-J'ay Scipion en tête avec trop de vertus⁎,
-Et je n'ay plus à faire à des Flaminius.
-Madame, à cet aveu j'ay bien voulu descendre,
-Pour marquer l'interest que vous y devez prendre ;
-Il faut donc en ce jour épouser ce Heros,
-Pour rendre aux Africains la gloire & le repos, 
-Il faut que de la paix vous soyez un seur gage,
-Vôtre hymen va sauver & l'Afrique & Cartage,
-Quel triomphe pour vous en vous laissant fléchir ?
-Ce n'est plus moy, c'est vous qui pouvez l'affranchir.
-
--*who_isperie
 Moy, Seigneur ?
 
--*who_annibal
-      N'ai-je pas sacrifié ma gloire ?
-J'ay demandé la paix, ah Ciel ! qui l'eût pu croire ?
-Madame, & cet effort⁎ a cent fois plus coûté
-A l'orgueil d'Annibal, à toute sa fierté⁎,
-Qu'il n'en poura jamais coûter à vôtre flâme,
-J'en ay donné l'exemple, imitez-moy, Madame,
-Il faut sacrifier vos feux à vôtre tour.
-
--*who_isperie
 J'immoleray ma vie & non pas mon amour,
 A la perdre, Seigneur, me voilà toute prête,
 Ordonnez de mon sort⁎, disposez de ma tête,
 Je l'immole à Cartage, & ne puis rien de plus ;
 Mais je conserveray mon cœur à Lucejus.
 
--*who_annibal
-A Lucejus ? ah Ciel ! quand Scipion vous aime,
-Ce Heros revêtu d'une gloire suprême,
-Se peut-il que le Chef des Celtiberiens
-Ose luy disputer l'honneur de vos liens ?
-Et lorsque vous voyez dans vos fers ce grand homme
-Qui va mettre à vos pieds la puissance de Rome,
-En vous faisant un sort⁎ qui soit digne de vous,
-Songez-vous que l'honneur en rejaillit sur nous :
-Ah ma Niéce ! pour vous croyez-en ma tendresse,
-Icy pour vôtre gloire Annibal s'interesse⁎,
-Secondez aujourd'huy de si justes desseins,
-Et prenez pour époux le plus grand des Romains.
-
--*who_isperie
 Me faisant souvenir que je suis vôtre Niéce,
 A soûtenir ce nom ma gloire s'interesse⁎,
 Je suis Cartaginoise, & fille d'Hyerbal,
@@ -1488,39 +1199,13 @@ Et pour dire encor plus la Niéce d'Annibal ;
 Seigneur, j'ose ajoûter que je suis Africaine,
 Et que mon cœur dédaigne enfin d'estre Romaine.
 
--*who_annibal
-Je voy que c'est en vain employer la douceur
-Pour fléchir ou pour vaincre un si superbe⁎ cœur ;
-Mais il faut étouffer cette vaine tendresse,
-Je ne dis plus qu'un mot, Madame, & je vous laisse.
-Tournez vers Scipion vôtre cœur & vos vœux,
-Vous l'allez voir ; sur tout songez que je le veux.
-
-**** *book_ *id_IV05 *act_IV *date_1697 *creator_pradon
-
--*who_isperie
 Cruel ? à Lucejus mon cœur sera fidelle,
 Et je seray toujours à cet ordre rebelle,
 Il faut dans ces momens par un noble couroux,
 Montrer que nôtre cœur ne dépend que de nous,
 J'aperçois Scipion, armons-nous de courage,
 Et soûtenons le nom, la gloire de Cartage.
-
-**** *book_ *id_IV06 *act_IV *date_1697 *creator_pradon
-
--*who_scipion
-On veut que vous soyez le gage d'une paix,
-Qui sans doute⁎ n'est pas conforme à vos souhaits ;
-Mais, Madame, aujourd'huy je croirois faire un crime
-De souffrir⁎ qu'Annibal vous en fist la victime ;
-J'honore vos vertus⁎, j'adore⁎ vos apas⁎,
-Mais sans contraindre un cœur s'il ne se donne pas,
-Loin d'en être tyran j'en abhorre le titre,
-De vôtre sort⁎, du mien, je vous laisse l'arbitre,
-Vous avez ou la paix, ou la guerre en vos mains,
-Le destin de l'Afrique & celuy des Romains.
-
--*who_isperie 
+ 
 Que dites-vous, Seigneur ? ah Ciel ! pourois-je croire
 Qu'un cœur tel que le mien meritât tant de gloire,
 Que le sort⁎ de l'Afrique & celuy des Romains
@@ -1528,124 +1213,12 @@ Fust par vous aujourd'huy remis entre mes mains ?
 Lorsque du mien, Seigneur, je ne suis plus maîtresse,
 Qu'engagée à tenir une sainte promesse…
 
--*who_scipion
-Je vois trop…
-
-**** *book_ *id_IV07 *act_IV *date_1697 *creator_pradon
-
--*who_sextus
-      Pardonnez si je vous interromps,
-Seigneur, de Lucejus on voit les escadrons,
-J'ay dû vous avertir qu'il paroît à leur tête,
-Et que vers nôtre Camp à marcher il s'aprête,
-Qu'avec ses étendarts on voit ceux des deux Rois.
-
--*who_isperie
 Ah ! je respire enfin pour la premiere fois.
 
--*who_scipion
-C'en est assez, Sextus, allez les reconnoître,
-J'attens vôtre retour. Lucejus va paroître,
-Madame, & je vois bien que pour vos interêts
-Nous aurons un combat, & non pas une paix ;
-Sans doute⁎ que ce Prince avance & vient lui-même
-Pour rejoindre Annibal… Dieux ! quel desordre extrême ?
-Vous en étiez instruite, il vient vous secourir ;
-Mais je vais le combattre & veux vous conquerir,
-Je vois par la frayeur dont vôtre ame est atteinte…
-
--*who_isperie
 Non, Seigneur, je commence à dissiper ma crainte,
 Malgré tous mes malheurs je reprends quelque espoir,
 S'il vient me secourir il remplit son devoir.
 
-**** *book_ *id_IV08 *act_IV *date_1697 *creator_pradon
-
--*who_scipion
-Il remplit son devoir ? Ah ! quelle confiance !
-Son Amant luy redonne une fiere⁎ assurance,
-Elle s'en promet tout. Vos vœux trop empressez
-N'en sont pas, Isperie, encore où vous pensez ,
-J'y mettray quelque obstacle, & ce ferme courage…
-Ah ! je sens redoubler & ma haine, & ma rage,
-Il faut combattre, il faut rompre ce nœud fatal⁎ ;
-Ce Prince étoit sans doute⁎ attendu d'Annibal,
-Sous pretexte de paix, ce Chef adroit peut-être
-N'est venu dans mon camp que pour le reconnoître,
-Que pour gagner du temps sur l'espoir d'un traité ?
-Dieux ! de quel mouvement⁎ je me sens agité !
-Par ces projets pompeux⁎ de paix & d'alliance,
-Il tâchoit d'endormir mes soins⁎, ma vigilance,
-Tout m'est suspect en luy, Lepide, je le voy,
-A bien d'autres qu'à nous il a manqué de foy⁎,
-Il vient, je ne dois plus le tenir en balance.
-
-**** *book_ *id_IV09 *act_IV *date_1697 *creator_pradon
-
--*who_annibal
-Ne me soupçonnez pas d'aucune intelligence,
-Seigneur, quand Lucejus vient pour ses interêts,
-Les armes à la main s'oposer à la paix,
-On a vû ses drapeaux, & ma juste colere…
-
--*who_scipion
-Ce Prince ne fait rien que ce qu'il devoit faire,
-Qu'il est heureux ! il sert sa gloire & son amour,
-Seigneur, il vient grossir vôtre armée en ce jour,
-Vous attendiez sans doute⁎ encor cet avantage.
-
--*who_annibal
-Seigneur, qu'osez-vous dire ? un tel soupçon m'outrage⁎.
-
--*who_scipion
-J'ose dire, Seigneur, ce que j'ay dû penser.
-
--*who_annibal
-Vous en dites assez enfin pour m'offenser.
-
--*who_scipion
-Vous êtes dans mon Camp, Seigneur, je vous respecte,
-Mais la foy⁎ de Cartage aux Romains est suspecte.
-
--*who_annibal 
-Ah ! c'en est trop, il faut…
-
--*who_scipion
-      Seigneur, n'en parlons plus,
-Et quittons des soupçons incertains & confus ;
-Il faut que vôtre ardeur à la mienne réponde,
-Nous devons decider de l'Empire⁎ du Monde,
-Annibal, si les Dieux ont mis entre nos mains
-Le destin de l'Afrique, & celuy des Romains,
-Il faut dans ce grand jour sans tarder davantage,
-Faire triompher Rome, ou délivrer Cartage,
-Il faut voir l'une ou l'autre, ou libre, ou dans les fers,
-Et donner un seul maître enfin à l'Univers.
-
--*who_annibal
-Vous faites voir un cœur trop avide de gloire,
-Et déjà vous croyez courir à la victoire,
-Scipion, mais je veux seconder vos souhaits ;
-Vous m'avez soupçonné, je renonce à la paix,
-Ouy, j'accepte aujourd'huy la bataille, & j'espere
-Vous mettre au même état où j'ay mis vôtre pere ;
-Je me rends à ma haine, il faut remplir⁎ mon sort⁎,
-J'ay promis de haïr Rome jusqu'à la mort,
-En naissant j'ay juré la guerre au Capitole,
-Jusqu'au dernier soûpir je luy tiendray parole.
-
--*who_scipion
-A la fin d'Annibal j'ay piqué la fierté⁎,
-J'ay rompu grace au Ciel cet indigne traité :
-Et vous, Dieux ! protecteurs du sacré Capitole,
-Il faut dans ce combat vous vanger, & j'y vole :
-Rome, vous attendez cette grande action,
-Qu'Annibal suive un jour le char de Scipion.
-Fin du quatriéme Acte.
-
-**** *book_ *id_V01 *act_V *date_1697 *creator_pradon
-
--*who_isperie
 Ne m'abandonne point, viens, ma chere Ermilie,
 Partager les frayeurs dont mon ame est saisie,
 Quel combat ! quelle horreur ! quelle confusion !
@@ -1667,16 +1240,172 @@ Les perils d'un Amant m'ont fait verser des larmes,
 Que je tremble pour luy malgré ses grands efforts⁎ !
 Helas ! il est tombé peut-être entre les morts.
 
--*who_ermilie
-Rassurez-vous, Madame, ayez quelque esperance ;
-La valeur d'Annibal met le sort⁎ en balance,
-Ce Heros qui combat fera voir son grand cœur⁎
-Sans doute⁎, & Scipion n'est pas encor vainqueur,
-Les Dieux pouront… Mais quoy ? j'aperçois Erixene.
+      Hé que fait Lucejus ?
+Aprenez-moy son sort⁎ ; peut-être il ne vit plus.
 
-**** *book_ *id_V02 *act_V *date_1697 *creator_pradon
+Il ne fuit point, Madame, & sans doute⁎ il est mort ;
+Quoy ? Lucejus fuiroit en perdant ce qu'il aime,
+Je connois sa valeur & son amour extrême,
+Il aura combatu jusqu'au dernier soûpir,
+Madame, il a voulu me sauver ou perir.
+Dieux, que je suis en proye à mon inquietude ?
+Je ne puis demeurer dans cette incertitude,
+Sortons, allons-le joindre⁎, & je veux aujourd'huy
+S'il est parmy les morts expirer avec luy.
 
--*who_erixene
+Ah ! Seigneur, tirez-moy du plus cruël martyre,
+De grace, & m'aprenez si Lucejus respire ;
+On me refuse helas ! de m'apprendre son sort⁎,
+Ce Prince malheureux a-t-il trouvé la mort ?
+Puis-je me retracer l'épouvantable image
+D'un champ couvert de morts & remply de carnage ?
+Ces cadavres sanglants tous pâles, tous glacez,
+Qui n'offroient à mes yeux que des traits effacez⁎,
+Ah ! Seigneur, concevez mon desespoir extrême,
+Dans toutes ses horreurs je cherchois ce que j'aime.
+ 
+Il est vivant, mais quoy vous en êtes le maître !
+Vous pouvez disposer de son sort⁎, & peut-être
+La haine d'un rival qui vous a combatu…
+Mais je soupçonne à tort, Seigneur, vôtre vertu⁎,
+Songez que dans vos fers il n'a pour toutes armes
+Que mes tristes⁎ soûpirs, & que mes foibles larmes.
+
+Pardonnez-moy, Seigneur, si dans mes déplaisirs⁎
+Je pousse devant vous d'inutiles soûpirs :
+Vous détournez vos yeux.
+
+Quel est vôtre dessein ? qu'en devons-nous attendre,
+Seigneur ?
+
+Que dois-je croire, ah Dieux ! dans cette extremité ?
+Quand d'un trouble si grand je vous vois agité,
+Que vos regards sur moy ne tombent qu'avec peine,
+Deviendrois-je, Seigneur, l'objet de vôtre haine ?
+
+Quelle grace, Seigneur, devons-nous pas vous rendre ?
+Mais du grand Scipion nous devions tout attendre.
+
+J'immoleray ma vie, et non pas mon amour,
+A la perdre Seigneur, me voila toute preste,
+Ordonnez de mon sort, disposez de ma teste,
+Je l'immole à Cartage et ne puis rien de plus ;
+Mais je conserveray mon cœur à Lucejus.
+Ah Madame, pour moy flechissez son courage .
+SCENE V.
+
+Au nom des Dieux, Seigneur, secondez ce beau zele .
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_erixene
+
+On nous vient d'annoncer une grande nouvelle,
+Annibal en Affrique est enfin de retour.
+
+Je sçay que dans l'état où l'Affrique est reduite,
+Elle n'espere plus qu'en sa seule conduite⁎ ;
+Ne me déguisez rien sur ses nouveaux projets,
+Je prévois, Aurilcar, qu'ils tendent à la paix.
+
+      Apprenez un secret important,
+Sans doute⁎ Scipion n'est plus indifferent.
+Depuis peu dans son Camp sa flâme est allumée,
+Bien que sa passion dans son cœur renfermée
+Prenne soin à nos yeux toujours de se cacher,
+Qu'il fasse des efforts⁎ en vain pour l'arracher,
+J'ay connu⁎ cependant, même par sa contrainte,
+Que d'un feu violent son ame étoit atteinte.
+
+A connoître⁎ les cœurs je ne suis pas habile ;
+Mais j'ay crû démesler dans son trouble secret,
+Qu'il aime une des deux, & qu'il l'aime à regret ;
+Plus j'observe pour nous ses yeux et sa conduite,
+Plus je vois qu'il nous cherche alors qu'il nous évite ;
+Quand il nous voit ensemble il demeure interdit⁎,
+Il rougit quelquefois de honte & de dépit
+Et quand il s'aperçoit du trouble de son ame,
+Il semble s'indigner de sa naissante flâme,
+Il fremit de sentir l'amour qu'il veut dompter,
+Et que tout son courage a peine à surmonter.
+Voila le plan d'un cœur difficile à connoître⁎ ;
+Mais pour aprofondir qui peut en estre maître,
+Je sçay trop qu'Isperie a des charmes⁎ puissans,
+Que sa beauté d'abord peut enchanter⁎ les sens,
+Mais à son cher Amant elle est trop attachée,
+Et par nul autre objet⁎ n'en peut estre arrachée,
+Scipion le connoît⁎.
+
+Je ne m'en flatte⁎ point, mais sans estre trop vaine⁎,
+Scipion sans rougir pouroit porter ma chaîne,
+Que dis-je ? ce Heros, le plus grand des mortels,
+A qui Rome déja consacre des Autels,
+D'un cœur tel que le mien peut devenir le maître,
+Et s'il n'est mon Amant il est digne de l'estre.
+Peut-estre j'en dis trop, & j'avouë à regret
+Un foible, dont mon cœur me faisoit un secret ;
+Mais quoy ? Si l'on faisoit la paix avec Cartage,
+Plût au Ciel ! que l'amour en ébauchât l'ouvrage,
+Et du moins je voudrois pour flater⁎ ma fierté⁎,
+Que l'heureuse Erixene eût part à ce traité.
+Adieu, Scipion vient, & vous allez l'entendre.
+
+      Aprens tous mes malheurs,
+Barcé, puisque tu veux que je t'en rende conte,
+Aprens ma passion, ma douleur, & ma honte ;
+Que les yeux d'une Amante helas ! sont clairvoyans ?
+J'ay vû de Scipion les feux les plus ardans,
+Il m'est venu trouver pour m'en faire un homage,
+Mais que son cœur ah Dieux ! démentoit son langage ?
+A son discours confus, son air embarassé,
+J'ay vû qu'il me rendoit un homage forcé ;
+Au nom de Lucejus toute sa jalousie
+Me l'a fait voir remply des charmes⁎ d'Isperie,
+Il la cherchoit encore en voulant me parler,
+Il découvroit un feu qu'il tâchoit de celer,
+Et son aveu pour moy d'une flâme fatale⁎
+M'a fait voir seulement qu'il aimoit ma rivale.
+
+      Tout ce que j'ay trop vû,
+Ce que mon triste⁎ cœur avoit déjà prévû,
+Ouy, j'ay de mes malheurs l'affreuse certitude,
+Et n'ay plus la douceur de mon inquietude ;
+Ce n'est pas qu'il n'ait fait d'inutiles effors
+Pour s'arracher luy-même à ses premiers transports :
+Je voyois qu'il tâchoit de me rendre les armes,
+Qu'il vouloit tout entier se livrer à mes charmes⁎,
+Qu'il combattoit en vain contre un cœur mutiné
+Qui suivoit malgré luy son panchant obstiné :
+En parlant d'Isperie un dédain legitime
+Affectoit un mépris qui marquoit son estime,
+Il vouloit à mes yeux rabaisser ses attraits,
+Mais les siens me sembloient égarez & distraits :
+Il nommoit Isperie, il nommoit Erixene,
+Il montroit de l'amour, il marquoit de la haine,
+Il s'efforçoit Barcé d'aimer & de haïr,
+Et son cœur en suspens refusoit d'obéïr.
+
+      Et pourquoy sans dessein de luy plaire
+Me ravit-elle un cœur à ses vœux si contraire ?
+Ou pourquoy ce Heros s'est-il laissé charmer⁎
+D'un objet⁎ qui ne peut & ne doit pas l'aimer ?
+Quand il voit aujourd'huy la superbe⁎ Erixene
+Soûpirer, & courir au devant de sa chaîne :
+Isperie est aimée ? ah jalouse fureur !
+De mon cruel destin⁎ vois-tu toute l'horreur ?
+Il faut pour me vanger d'une ardeur si fatale⁎
+Qu'il en coûte des pleurs, du sang à ma rivale,
+Et mon cœur irrité⁎ sera plus satisfait
+Si je puis la punir du vol qu'elle m'a fait :
+Mais pourquoy la punir d'un crime involontaire ?
+C'est sans doute⁎ à regret qu'elle a trop sçû luy plaire,
+Pourois-je l'accabler de mon inimitié
+Quand son sort⁎ & le mien sont dignes de pitié :
+On l'adore⁎, & sa flâme est ailleurs allumée,
+Et moy, j'aime un ingrat sans espoir d'estre aimée.
+
+      Lepide, c'est assez.
+Barcé, retirons-nous.
+
 Madame c'en est fait, nôtre esperance est vaine,
 Annibal est vaincu, Scipion est vainqueur,
 Tout succombe, tout cede à sa rare valeur ;
@@ -1688,29 +1417,10 @@ Scipion triomphant va nous parler en maître,
 Nos fers sont redoublez, & son amour peut-être…
 Vous fremissez, Madame.
 
--*who_isperie
-      Hé que fait Lucejus ?
-Aprenez-moy son sort⁎ ; peut-être il ne vit plus.
-
--*who_erixene
 J'ignore son destin⁎, ny quelle est sa conduite⁎,
 Mais avecque Annibal les deux Rois sont en fuite,
 Peut-être qu'avecque eux cherchant un pareil sort⁎…
 
--*who_isperie
-Il ne fuit point, Madame, & sans doute⁎ il est mort ;
-Quoy ? Lucejus fuiroit en perdant ce qu'il aime,
-Je connois sa valeur & son amour extrême,
-Il aura combatu jusqu'au dernier soûpir,
-Madame, il a voulu me sauver ou perir.
-Dieux, que je suis en proye à mon inquietude ?
-Je ne puis demeurer dans cette incertitude,
-Sortons, allons-le joindre⁎, & je veux aujourd'huy
-S'il est parmy les morts expirer avec luy.
-
-**** *book_ *id_V03 *act_V *date_1697 *creator_pradon
-
--*who_erixene
 O Fortune⁎ ! ô journée à toutes deux fatale⁎ !
 Mais je dois envier le sort⁎ de ma rivale ;
 Je ne sçaurois la plaindre, & malgré ses douleurs
@@ -1725,13 +1435,6 @@ On la doit assieger, j'y finiray mes jours,
 J'attends de Scipion ce funeste⁎ secours ;
 Je l'aperçois, parlons.
 
-**** *book_ *id_V04 *act_V *date_1697 *creator_pradon 
-
--*who_scipion
-      Qu'on observe Isperie ?
-Qu'on la suive ? & sur tout ayez soin de sa vie.
-
--*who_erixene
 Enfin je vous revoy vainqueur & triomphant,
 Seigneur, & vôtre nom encor plus éclatant
 Par cette memorable & derniere victoire
@@ -1743,218 +1446,324 @@ Souffrez⁎ que ma presence anime⁎ son courage, 
 L'amour de ma patrie allumant mon ardeur,
 Je veux y terminer ma vie & mon malheur.
 
--*who_scipion
-Qu'un pareil sentiment me touche & m'interesse⁎ ?
-Ouy, de vôtre destin je vous rends la maîtresse,
-Soyez libre, Madame, & d'un cœur⁎ affermy
-Allez joindre⁎ Annibal mon illustre ennemy ;
-Ma victoire n'a fait qu'enfler sa renommée,
-Luy seul a combatu dans toute son Armée,
-J'ay malgré sa défaite admiré sa valeur,
-Il n'a jamais été plus grand qu'en ce malheur.
-Vous pourez aujourd'huy le revoir dans Cartage,
-Contre moy je luy donne un puissant avantage :
-Cependant vous pouvez partir, allez Sextus,
-Et rendez les honneurs qu'on doit à ses vertus⁎.
-
--*who_erixene
 Je n'attendois pas moins d'un heros magnanime,
 Et j'emporte de vous une si haute estime,
 Que mon cœur penetré d'un si noble dessein,
 Me fera reverer toujours le nom Romain.
 
-**** *book_ *id_V05 *act_V *date_1697 *creator_pradon
+Quoy Seigneur, voulez - vous l'immoler à Cartage ?
+Est - il vray qu'Annibal nous apprenne à trembler ,
+Ce Heros qu'autrefois rien ne put ébranler ?
+Vous demandez la Paix, non je ne puis le croire,
+Demandez la bataille ou plustost la victoire,
+Arrachez Isperie à la honte des fers,
+Que Lucejus l'épouse aux yeux de l'univers ?
+Tenez luy cette foy par son Pere promise ,
+Nous attendons de vous cette haute entreprise,
+Car de quel front, Seigneur, pourriez-vous violer
+La foy de leurs sermens dont je viens vous parler ?
+Ah vous devez plutost nous tirer d'esclavage
+Ou vous ensevelir sous les murs de Cartage.
 
--*who_lepide
+Moy Seigneur ?
+Ne dois - je pas haïr ce farouche vainqueur ?
+Dont les succes heureux desolent ma Patrie,
+Et qui font aujourd'huy les malheurs de ma vie,
+Mais c'est à vostre bras, Seigneur, à nous vanger,
+Il nous doit affranchir de ce joug étranger,
+Isperie en ressent les plus vives allarmes,
+J'ay pitié de la voir se noyer dans ses larmes,
+Sera - t'elle le nœud d'une funeste Paix
+Qui detruiroit sa foy, sa flame, ses souhaits ?
+
+Quoy, Seigneur croyez-vous…
+
+Madame, à Lucejus soyez toujours fidelle,
+Aux ordres d'Annibal il faut estre rebelle,
+Il faut dans ces momens par un noble courroux ,
+Montrer que nostre cœur ne depend que de nous,
+J'aperçois Scipion, armez-vous de courage,
+Je vous laisse, et ne puis vous en dire davantage.
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_aurilcar
+ 
+Oüy, Seigneur, Annibal souhaite une entreveuë,
+Je viens la demander, c'est son intention
+Que de voir aujourd'huy le fameux Scipion ;
+Aux plaines de Zama nous sommes l'un & l'autre,
+Nôtre Armée est campée assez prés de la vôtre ;
+Mais Annibal prétend⁎ avec luy conferer,
+Et je viens en ce Camp pour en déliberer,
+Avant que de rien faire & de rien entreprendre.
+
+Je ne m'explique point des desseins de mon Maître,
+Il paroîtra luy-même, & les fera connoître,
+Il marche sur mes pas : mais que d'heureux succés⁎,
+Seigneur, de Scipion ont remply les projets ?
+La victoire en tous lieux à son bras enchaînée
+Semble de l'Univers faire la destinée ;
+Jeune encor, on a vû ses grandes actions
+Suivre, & même passer celles des Scipions,
+Et digne rejeton de cette illustre race⁎,
+A vingt ans on l'a vû commander en leur place ;
+Il nous chassa d'Espagne aprés quatre combats,
+Où Rome triompha par l'effort⁎ de son bras,
+Le voicy dans l'Affrique étonnée⁎, affoiblie,
+Il arrache Annibal du sein de l'Italie,
+Et contraint ce Heros de voler en ces lieux,
+Pour défendre à son tour sa patrie & ses Dieux.
+
+Il vient de ses succés interrompre le cours,
+Et promet à l'Affrique un fidele secours.
+Son nom seul raffermit nos Provinces craintives ;
+Mais puis-je m'informer des illustres captives
+Que Zama pris d'assaut vit tomber dans vos fers ;
+La Niéce d'Annibal les a-t-elle souffers ?
+Et la Fille d'Hannon, la superbe⁎ Erixene,
+S'est-elle accoûtumée à porter une chaîne ?
+
+Vous le verrez, Madame, avant la fin du jour.
+ 
+Vous avez penetré ce que veut sa prudence,
+Une paix de Cartage est l'unique esperance ;
+Mais, Madame, que dit, & que fait Scipion ?
+Son jeune cœur n'a-t-il que de l'ambition ?
+Les charmes⁎ d'Erixene, ou les yeux d'Isperie
+N'ont-ils pû rendre encor sa grande ame attendrie ?
+Pardonnez…
+
+Il faut d'un tel secret qu'Annibal soit instruit,
+Sa prudence pouroit en tirer quelque fruit ;
+Car si de Scipion on fléchit le courage,
+Il pouroit s'adoucir en faveur de Cartage.
+Hé quoy ? si de l'amour il ressentoit les coups ?
+Et s'il étoit charmé⁎ d'Isperie, ou de vous,
+Sans doute⁎ que la paix en seroit plus facile.
+
+      Madame, & plût aux Dieux !
+Que ce Vainqueur sentît le pouvoir de vos yeux ?
+
+Seigneur, sur ce sujet je viens vous prévenir,
+Occupé tout entier du soin⁎ de sa patrie,
+Annibal, par ma bouche aujourd'huy vous en prie ;
+Une telle entreveuë utile à son païs,
+Et même necessaire à tous les deux partis,
+Pouroit en ce grand jour décidant de la guerre,
+Donner un plein repos au reste de la terre.
+
+Elle approche de vous, & marche sur ses pas ;
+Avant que de tenter le destin⁎ des combats,
+Il a cru pour le bien de chaque Republique,
+Qu'il devoit avec vous en sage politique,
+Examiner à fond les divers interests
+Qui troublent nos Etats par des ressors secrets,
+Et les ayant tous mis dans la juste balance,
+En peser à loisir les raisons, l'importance,
+Pour garder à chacun & sa gloire & son rang ;
+Souvent une entreveuë épargne bien du sang,
+Ainsi pour Annibal je la demande encore.
+
+Il prétend⁎ dans ce Camp venir bien-tôt luy-même.
+
+      Vôtre foy⁎.
+
+Il veut de Scipion la parole pour gage,
+Hé quel ôtage peut remplacer Annibal ?
+ 
+Seigneur, c'en est assez.
+
+
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepide
+
+Seigneur, en attendant que Scipion vous voye,
+Je me tiens honoré de l'ordre qu'il m'envoye,
+De vous entretenir pendant quelques momens,
+Nous sçaurons d'Annibal les secrets sentimens,
+C'est vous qui dans ce Camp annoncez sa venuë.
+
+Sans doute⁎ qu'on ne peut refuser de l'entendre ;
+Nous verrons aujourd'huy ces deux grands Citoyens,
+Tous deux de leur païs la gloire & les soûtiens,
+Donner ce peu de tréve à cette longue guerre,
+Pour décider entre-eux du destin de la terre,
+Et de leur conference on attend desormais
+Le jour de la bataille, ou celuy de la paix.
+
+S'il acheve, Seigneur, cette heureuse campagne,
+Dans l'Affrique il fera ce qu'il fit en Espagne :
+Un des plus puissans Rois qui fût dans l'Univers,
+L'infidelle Syphax a pery dans ses fers,
+Asdrubal & Xantus ont perdu trois batailles,
+Cartage va nous voir au pied de ses murailles,
+Cette superbe⁎ ville est contrainte aujourd'huy
+D'appeller Annibal pour luy servir d'appuy ;
+Scipion la menace, & l'on voit ce grand homme
+Luy rendre tout l'effroy qu'Annibal fit à Rome.
+
+Que leur chaîne, Seigneur, est facile à porter ?
+Elles ont des vertus⁎ qui les font respecter,
+Au Camp de Scipion elles sont souveraines,
+Il les traite bien moins en esclaves qu'en Reines,
+Il n'a plus de fierté⁎ si-tôt qu'il est vainqueur,
+Sa bonté, sa clemence égalent sa valeur ;
+Oüy, son bras aux vaincus ne fut jamais funeste⁎,
+La victoire ne sert qu'à le rendre modeste,
+Egal dans la fortune⁎ & dans l'adversité,
+Il n'est jamais superbe⁎ en la prosperité.
+La Niéce d'Annibal, l'adorable⁎ Isperie,
+Fit briller tant d'éclat & tant de modestie
+Qu'il en fut ébloüy : mais enfin sa beauté
+Porte un charme⁎ secret dont on est enchanté⁎.
+Au Prince Lucejus elle se vit promise,
+Il devoit l'épouser quand Zama fut surprise ;
+Ce jour infortuné si funeste⁎ pour eux
+Sépara ces Amans sur le point d'estre heureux :
+Elle ignore où ce Prince a sçû porter ses armes,
+Et souvent ses beaux yeux pour luy versent des larmes :
+Mais, Seigneur, Erixene en ce lieu doit venir,
+Scipion luy permet de vous entretenir,
+Je vois qu'elle s'avance, & vous laisse avecque elle.
+ 
+S'il demande la paix, n'estes-vous pas le maître
+D'accepter, d'imposer…
+
+Vous, Seigneur ?
+
+Je vous entends, Seigneur, des atteintes si vives
+Sont de l'amour…
+
+Hé ? Qui pouroit la voir sans en estre surpris,
+Seigneur, avec raison vous en estes épris,
+Ses yeux…
+ 
+Il est vray qu'elle est belle, & digne d'estre aimée.
+
+Vous pouriez voir, Seigneur, vôtre flâme trompée,
+Du Prince Lucejus elle est préocupée,
+Vous l'avez enlevée aux bras de cet époux.
+
+Mais vous l'avez promise, & dans peu la venuë
+D'Annibal en ce Camp…
+
+Seigneur, portez vos vœux du côté d'Erixene.
+Elle est fille d'Hannon ennemy d'Annibal,
+Dans Cartage ce Chef fut toujours son rival.
+Toujours dans le Senat à ce Heros contraire⁎,
+Dans Rome il n'eut jamais de plus grand adversaire,
+Et s'opposant sans cesse à ses justes desseins,
+Il paroissoit plûtôt l'allié des Romains ;
+Aux charmes⁎ d'Isperie opposez Erixene,
+Et prenez un amour conforme à vôtre haine,
+Elle peut balancer vos desirs à son tour,
+Et même elle pouroit répondre à vôtre amour.
+
+      Oüy, Seigneur, & j'ay cru le connoître⁎,
+Toute sa fierté⁎ tombe en vous voyant paroître :
+Quand on parle de vous, il le faut avoüer,
+Elle prend du plaisir, Seigneur, à vous loüer,
+Et lorsque vos regards tournent vers Isperie,
+Dans son dépit secret on lit sa jalousie ;
+Elle voudroit bien voir ses charmes⁎ effacez⁎,
+Elle la hait enfin, en est-ce pas assez ?
+
+Annibal dans ces lieux à l'instant va se rendre,
+Scipion suit mes pas, Madame, & vient l'attendre,
+J'ay dû vous avertir…
+
+Sur vous de l'Univers vous attachez les yeux,
+Seigneur, & vos succés vous font des envieux,
+Qui ne peuvent souffrir⁎ sans quelque jalousie
+Le cours trop éclatant de vôtre illustre vie :
+Je n'ose qu'à regret en prononcer le nom,
+Mais j'y compte, Seigneur, Fabius & Caton,
+Qui souvent contre vous animez d'un faux zele⁎
+Fatiguent le Senat d'une plainte éternelle.
+
 Ainsi vous l'envoyez secourir sa patrie :
 Mais, Seigneur, qu'allez-vous ordonner d'Isperie ?
 Maître de son destin dans ce fatal⁎ moment,
 Vous avez dans vos mains la Maîtresse & l'Amant,
 Qu'allez-vous decider de leur sort⁎ ?
 
--*who_scipion
-      Ah ! Lepide,
-Je tremble que l'amour ne me serve de guide,
-Je ne suis plus Romain, je suis foible, & je sens
-Que contre ma vertu⁎ se revoltent mes sens ;
-La gloire, la pitié, l'amour, tout me déchire,
-Que je souffre grands Dieux ! j'en rougis, j'en soûpire,
-Qu'il me faut rendre encor de terribles combats ?
-Annibal est vaincu, mais l'amour ne l'est pas.
-
--*who_lepide
 Hé ! Seigneur, profitez des droits de la victoire ?
 Pouroit-on refuser un Heros plein de gloire ?
 Cartage va tomber, & le soldat Romain
 Vous honore déjà du titre d'Africain,
 Seigneur vous pouvez tout, & vous êtes le maître.
 
--*who_scipion
-En flatant⁎ mon amour que me fais-tu connoître⁎ ?
-Ouy, si j'en consultois les transports de mon cœur,
-Peut-être deviendrois-je un superbe⁎ vainqueur :
-Elle viendra bien-tôt cette tendre Isperie,
-De son heureux Amant me demander la vie ;
-Elle ignore son sort⁎ que je luy fais cacher,
-Envain parmy les morts elle le fait chercher :
-Mais helas ! ce qui rend sa gloire plus parfaite,
-Il contraint son vainqueur d'envier sa defaite,
-Tantost dans le combat j'ay connu⁎ son grand cœur⁎,
-J'ay senti redoubler mon amour, ma fureur ;
-Il tâchoit de sauver une Amante fidelle,
-Je voyois à regret qu'il étoit digne d'elle :
-Il étoit des momens où malgré mon couroux
-Je trouvois Annibal moins digne de mes coups :
-Mais que fait cet Amant ? a-t-il la même audace ?
-De quel œil maintenant reçoit-il sa disgrace ?
-
--*who_lepide
 Indigné d'avoir fait un inutile effort⁎,
 Il nous a conjurez de luy donner la mort :
 Quel soin⁎ cruel, dit-il, prenez-vous de ma vie ?
 Scipion est vainqueur, & je perds Isperie ;
 Lelius le console, & d'un soin⁎ genereux⁎…
 
--*who_scipion
-Non, c'en est fait, il faut qu'il étouffe ses feux,
-Je veux que Lucejus abandonne Isperie,
-A ce prix je mettray sa liberté, sa vie,
-C'est à luy d'obéïr… Mais quel est mon dessein ?
-Suis-je encor Scipion ? ou suis-je encor Romain ?
-Justes Dieux ! est-ce ainsi que je suis les exemples
-Des Heros à qui Rome a consacré des Temples ?
-Est-ce ainsi que je suis la noble austerité
-Qui les rendra fameux à la posterité ?
-Etouffons un amour… Ah Dieux ! que vais-je faire ?
-De ma victoire un autre aura-t-il le salaire ?
-Mais je vois Isperie, ah ! j'ay mal combatu,
-A ses yeux j'ay besoin de toute ma vertu⁎.
 
-**** *book_ *id_V06 *act_V *date_1697 *creator_pradon
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ermilie
+ 
+Eh ? pouvez-vous douter que ce Prince vous aime,
+Madame, rapellez son desespoir extrême,
+Quand Zama pris d'assaut le sépara de vous :
+Ce malheureux Amant dans son juste couroux,
+Guidé par sa fureur s'alloit ôter la vie,
+Je desarmay son bras au seul nom d'Isperie,
+Et peut-estre…
+ 
+Madame pouvez-vous murmurer de sa chaîne ?
+Ce Heros vous regarde & traite en souveraine,
+Vôtre nom dans Zama seroit moins respecté,
+Vous estes dans son Camp en pleine liberté,
+Sans gardes, sans témoins, il met toute sa gloire
+A vous faire oublier cette triste⁎ victoire,
+Et si je m'en raporte à des regards plus doux,
+Le seul respect n'est pas tout ce qu'il sent pour vous.
 
--*who_isperie
-Ah ! Seigneur, tirez-moy du plus cruël martyre,
-De grace, & m'aprenez si Lucejus respire ;
-On me refuse helas ! de m'apprendre son sort⁎,
-Ce Prince malheureux a-t-il trouvé la mort ?
-Puis-je me retracer l'épouvantable image
-D'un champ couvert de morts & remply de carnage ?
-Ces cadavres sanglants tous pâles, tous glacez,
-Qui n'offroient à mes yeux que des traits effacez⁎,
-Ah ! Seigneur, concevez mon desespoir extrême,
-Dans toutes ses horreurs je cherchois ce que j'aime.
+Ouy, Madame, Annibal par l'éclat de vos charmes⁎
+Du fameux Scipion a suspendu les armes ;
+On dit qu'il a d'abord rejetté fierement⁎
+Jusqu'au moindre projet d'un accomodement,
+Mais qu'à la fin quittant son superbe⁎ langage,
+De Rome il a connu⁎ la gloire, l'avantage ;
+Qu'il a vû que la paix qu'il tenoit en sa main
+Etoit avantageuse à l'Empire⁎ Romain,
+Qu'il pouvoit accorder l'amour, la politique,
+Et suivant son panchant servir sa Republique ;
+Vos yeux ont captivé cet illustre Vainqueur. 
 
--*who_scipion
-Ne craignez plus pour luy, dissipez vôtre effroy,
-Lucejus est vivant, & plus heureux que moy.
+Rassurez-vous, Madame, ayez quelque esperance ;
+La valeur d'Annibal met le sort⁎ en balance,
+Ce Heros qui combat fera voir son grand cœur⁎
+Sans doute⁎, & Scipion n'est pas encor vainqueur,
+Les Dieux pouront… Mais quoy ? j'aperçois Erixene.
 
--*who_isperie 
-Il est vivant, mais quoy vous en êtes le maître !
-Vous pouvez disposer de son sort⁎, & peut-être
-La haine d'un rival qui vous a combatu…
-Mais je soupçonne à tort, Seigneur, vôtre vertu⁎,
-Songez que dans vos fers il n'a pour toutes armes
-Que mes tristes⁎ soûpirs, & que mes foibles larmes.
 
--*who_scipion
-Et c'est ce qui me tüe : il cause vos douleurs
-Ce trop heureux Amant, il fait couler vos pleurs, 
-Il coûte des soûpirs qui sont dignes d'envie,
-Madame, & je voudrois les payer de ma vie.
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barce
 
--*who_isperie
-Pardonnez-moy, Seigneur, si dans mes déplaisirs⁎
-Je pousse devant vous d'inutiles soûpirs :
-Vous détournez vos yeux.
+Tandis que Scipion fait ranger son armée,
+Que pour en soûtenir l'éclat, la renommée,
+Il en veut étaler la pompe⁎ à son rival,
+(Spectacle digne enfin des regards d'Annibal)
+En attendant qu'icy nous le voyons paroître,
+De grace, aprenez-moy si ce superbe⁎ maître,
+Ce fameux Scipion qui marchoit sur vos pas
+A rendu les respects qu'il doit à vos apas⁎ ;
+Ouy, son front desarmé de la fierté⁎ Romaine
+Sembloit le préparer à porter vôtre chaîne ;
+Loin de vous par respect je n'ay pas entendu
+Assez distinctement cet homage rendu :
+Mais helas ! je vous vois les yeux pleins de tristesse⁎,
+A cacher vos chagrins⁎ vous mettez vôtre adresse,
+Vous ne répondez rien, vous devorez vos pleurs,
+Madame, & ce silence…
 
--*who_scipion
-      Eh ! détournez les vôtres :
-Et puisque leurs regards sont destinez pour d'autres,
-Laissez m'en éviter l'éclat imperieux ;
-Vous voyez les combats que je rends, justes Dieux !
-Que dois-je faire enfin ? je fremis quand j'y pense,
-Madame, j'ay besoin de toute ma constance ;
-Mais c'en est trop, malgré tant de vœux superflus⁎
-Que l'on fasse venir le Prince Lucejus ?
+Que dites-vous ? ah Ciel !
 
--*who_isperie
-Quel est vôtre dessein ? qu'en devons-nous attendre,
-Seigneur ?
+Mais, Madame, après tout s'il adore⁎ Isperie,
+Son ame d'un tel feu doit estre assez punie,
+Elle aime Lucejus, & leurs cœurs embrasez
+Puniront Scipion de vos feux méprisez,
+Sa tendresse…
 
--*who_scipion
-      Dans un moment vous le pourez apprendre.
+Que vôtre cœur si fier⁎ rappelle sa raison,
+Madame, soûtenez l'éclat de vôtre nom.
 
--*who_isperie
-Que dois-je croire, ah Dieux ! dans cette extremité ?
-Quand d'un trouble si grand je vous vois agité,
-Que vos regards sur moy ne tombent qu'avec peine,
-Deviendrois-je, Seigneur, l'objet de vôtre haine ?
-
--*who_scipion
-Madame, & plût aux Dieux que l'on pût vous haïr ?
-Que je m'épargnerois un mortel⁎ déplaisir⁎ !
-Si malgré moy j'évite une fatale⁎ veuë,
-Un objet⁎ tel que vous porte un charme⁎ qui tuë.
-
-**** *book_ *id_V07 *act_V *date_1697 *creator_pradon
-
--*who_lucejus
-Seigneur, ne croyez pas que la peur de la mort
-Me fasse repentir d'un genereux⁎ effort⁎,
-Je vous ay voulu perdre, & ce bras temeraire
-S'il étoit libre encor tâcheroit de le faire ;
-Vous êtes mon rival, vous m'avez tout ôté,
-Vous devez m'immoler à vôtre seureté,
-Je suis vôtre captif aussi bien qu'Isperie,
-J'en fremis ; mais de grace immolez une vie
-Qui deviendroit funeste⁎ à vos jours glorieux,
-J'irois les attaquer à la face des Dieux,
-Prevenez⁎ par ma mort mon desespoir, mon crime,
-Perdant ce que je perds tout seroit legitime.
-
--*who_scipion
-Je pardonne aisément à ce transport jaloux,
-Si j'étois Lucejus je l'aurois comme vous,
-Vous m'avez dû haïr & ce n'est point un crime,
-Prince, pour un rival la haine est legitime,
-Je le suis, je l'avouë, ah Dieux ! vous le sçavez
-De quels feux j'ay brûlé, mais de grace, achevez
-Un triomphe immortel dont la gloire semée
-De tout ce que j'ay fait passe la renommée,
-Pour laisser un exemple à la posterité
-Rare, mais cependant qui puisse être imité :
-Oüy, Madame, aujourd'huy je veux, quoy qu'il m'en coûte,
-Enseigner aux mortels cette nouvelle route,
-Leur montrer comme on peut domter sa passion,
-Et vainqueur d'Annibal vaincre encor Scipion :
-Prince, rassurez-vous, je vous donne la vie,
-Je fais plus, de ma main recevez Isperie.
-
--*who_lucejus
-Ah ! Seigneur, permettez qu'embrassant vos genoux
-Je rende à vos vertus⁎…
-
--*who_scipion
-      Non, Prince, levez-vous.
-
--*who_isperie
-Quelle grace, Seigneur, devons-nous pas vous rendre ?
-Mais du grand Scipion nous devions tout attendre.
-
--*who_scipion
-Retournez à Zama couronner vôtre foy⁎,
-Elle est un present digne & de vous, & de moy ;
-Je ne demande icy pour toute recompense,
-Pour le prix & le nœud d'une étroite alliance,
-Prince, que vous soyez en luy donnant la main
-Amy de Scipion, & du peuple Romain ;
-Je vais me preparer au Siege de Cartage,
-Par sa prise je dois achever mon ouvrage,
-Et j'espere dans peu la rangeant sous mes loix
-Triompher d'Annibal une seconde fois.
-Adieu, vivez heureux.
-
--*who_lucejus
-      Admirons ce grand homme,
-Le plus parfait Heros qu'ait jamais produit Rome.
-FIN.

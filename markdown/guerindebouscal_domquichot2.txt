@@ -1,6 +1,6 @@
 ---
 identifier: guerindebouscal_domquichot2  
-creator: Guérin de Bouscal, Daniel  
+creator: Guérin de Bouscal, Daniel ; Georges Forestier.  
 date: 1640  
 title: Dom Quichot de la Manche, seconde partie  
 ---

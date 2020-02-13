@@ -1,6 +1,6 @@
 ---
 identifier: perrin_pomonelivret  
-creator: Perrin, Pierre ; Cambert, Robert.  
+creator: Perrin, Pierre ; Cambert, Robert ; Georges Forestier.  
 date: 1671  
 title: Livret de Pomone, pastorale en musique  
 ---
@@ -1571,7 +1571,11 @@ Vertune, Pomone, Juturne, Venilie, Flore, le Dieu des jardins, deux jardiniers, 
 
     VERTUNE.
 Vous, Esclaves, dansez,  
-Et la divertissez. [56]  < Entrée de ballet. >< Follets en esclaves. >
+Et la divertissez. [56]  
+Entrée de ballet.
+
+Follets en esclaves.
+
 La troupe s'écarte pour faire place aux danseurs, puis se rassemble, la danse finie.
 
 

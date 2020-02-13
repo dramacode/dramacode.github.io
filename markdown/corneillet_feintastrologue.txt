@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_feintastrologue  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1651  
 title: Le Feint astrologue. Comédie  
 ---

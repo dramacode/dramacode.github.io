@@ -1,1323 +1,592 @@
 
 
-**** *book_ *id_I01 *act_I *date_1732
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
--*who_lisette
-Oui, vous voilà fort bien déguisé, et avec cet habit-là, vous disant mon cousin, je crois que vous pouvez paraître ici en toute sûreté ; il n'y a que votre air qui n'est pas trop d'accord avec la livrée.
-
--*who_eraste
-Il n'y a rien à craindre ; je n'ai pas même, en entrant, fait mention de notre parenté.
-J'ai dit que je voulais te parler, et l'on m'a répondu que je te trouverais ici, sans m'en demander davantage.
-
--*who_lisette
-Je crois que vous devez être content du zèle avec lequel je vous sers : je m'expose à tout, et ce que je fais pour vous n'est pas trop dans l'ordre ; mais vous êtes un honnête homme ; vous aimez ma jeune maîtresse, elle vous aime ; je crois qu'elle sera plus heureuse avec vous qu'avec celui que sa mère lui destine, et cela calme un peu mes scrupules.
-
--*who_eraste
-Elle m'aime, dis-tu ?
-Lisette, puis-je me flatter d'un si grand bonheur ?
-Moi qui ne l'ai vue qu'en passant dans nos promenades, qui ne lui ai prouvé mon amour que par mes regards, et qui n'ai pu lui parler que deux fois pendant que sa mère s'écartait avec d'autres dames !
-Elle m'aime ?
-
--*who_lisette
-Très tendrement, mais voici un domestique de la maison qui vient ; c'est Frontin, qui ne me hait pas, faites bonne contenance.
-
-**** *book_ *id_I02 *act_I *date_1732
-
--*who_frontin
-Ah !
-Te voilà, Lisette.
-Avec qui es-tu donc là ?
-
--*who_lisette
-Avec un de mes parents qui s'appelle La Ramée, et dont le maître, qui est ordinairement en province, est venu ici pour affaire ; et il profite du séjour qu'il y fait pour me voir.
-
--*who_frontin
-Un de tes parents, dis-tu ?
-
--*who_lisette
-Oui.
-
--*who_frontin
-C'est-à-dire un cousin ?
-
--*who_lisette
-Sans doute.
-
--*who_frontin
-Hum !
-Il a l'air d'un cousin de bien loin : il n'a point la tournure d'un parent, ce garçon-là.
-
--*who_lisette
-Qu'est-ce que tu veux dire avec ta tournure ?
-
--*who_frontin
-Je veux dire que ce n'est, par ma foi, que de la fausse monnaie que tu me donnes, et que si le diable emportait ton cousin il ne t'en resterait pas un parent de moins.
-
--*who_eraste
-Et pourquoi pensez-vous qu'elle vous trompe ?
-
--*who_frontin
-Hum !
-Quelle physionomie de fripon !
-MonsIEUR de La Ramée, je vous avertis que j'aime Lisette, et que je veux l'épouser tout seul.
-
--*who_lisette
-Il est pourtant nécessaire que je lui parle pour une affaire de famille qui ne te regarde pas.
-
--*who_frontin
-Oh !
-Parbleu !
-Que les secrets de ta famille s'accommodent, moi, je reste.
-
--*who_lisette
-Il faut prendre son parti.
-Frontin...
-
--*who_frontin
-Après ?
-
--*who_lisette
-Serais-tu capable de rendre service à un honnête homme, qui t'en récompenserait bien ?
-
--*who_frontin
-Honnête homme ou non, son honneur est de trop, dès qu'il récompense.
-
--*who_lisette
-Tu sais à qui Madame marie Angélique, ma maîtresse ?
-
--*who_frontin
-Oui, je pense que c'est à peu près soixante ans qui en épousent dix-sept.
-
--*who_lisette
-Tu vois bien que ce mariage-là ne convient point.
-
--*who_frontin
-Oui : il menace la stérilité, les héritiers en seront nuls, ou auxiliaires.
-
--*who_lisette
-Ce n'est qu'à regret qu'Angélique obéit, d'autant plus que le hasard lui a fait connaître un aimable homme qui a touché son coeur.
-
--*who_frontin
-Le cousin La Ramée pourrait bien nous venir de là.
-
--*who_lisette
-Tu l'as dit ; c'est cela même.
-
--*who_eraste
-Oui, mon enfant, c'est moi.
-
--*who_frontin
-Eh !
-Que ne le disiez-vous ?
-En ce cas-là, je vous pardonne votre figure, et je suis tout à vous.
-Voyons, que faut-il faire ?
-
--*who_eraste
-Rien que favoriser une entrevue que Lisette va me procurer ce soir, et tu seras content de moi.
-
--*who_frontin
-Je le crois, mais qu'espérez-vous de cette entrevue ?
-Car on signe le contrat ce soir.
-
--*who_lisette
-Eh bien, pendant que la compagnie, avant le souper, sera dans l'appartement de Madame, Monsieur nous attendra dans cette salle-ci, sans lumière pour n'être point vu, et nous y viendrons, Angélique et moi, pour examiner le parti qu'il y aura à prendre.
-
--*who_frontin
-Ce n'est pas de l'entretien dont je doute : mais à quoi aboutira-t-il ?
-Angélique est une Agnès élevée dans la plus sévère contrainte, et qui, malgré son penchant pour vous, n'aura que des regrets, des larmes et de la frayeur à vous donner : est-ce que vous avez dessein de l'enlever ?
-
--*who_eraste
-Ce serait un parti bien extrême.
-
--*who_frontin
-Et dont l'extrémité ne vous ferait pas grand-peur, n'est-il pas vrai ?
-
--*who_lisette
-Pour nous, Frontin, nous ne nous chargeons que de faciliter l'entretien, auquel je serai présente ; mais de ce qu'on y résoudra, nous n'y trempons point, cela ne nous regarde pas.
-
--*who_frontin
-Oh !
-Si fait, cela nous regarderait un peu, si cette petite conversation nocturne que nous leur ménageons dans la salle était découverte ; d'autant plus qu'une des portes de la salle aboutit au jardin, que du jardin on va à une petite porte qui rend dans la rue, et qu'à cause de la salle où nous les mettrons, nous répondrons de toutes ces petites portes-là, qui sont de notre connaissance.
-Mais tout coup vaille ; pour se mettre à son aise, il faut quelquefois risquer son honneur, il s'agit d'ailleurs d'une jeune victime qu'on veut sacrifier, et je crois qu'il est généreux d'avoir part à sa délivrance, sans s'embarrasser de quelle façon elle s'opérera : Monsieur payera bien, cela grossira ta dot, et nous ferons une action qui joindra l'utile au louable.
-
--*who_eraste
-Ne vous inquiétez de rien, je n'ai point envie d'enlever Angélique, et je ne veux que l'exciter à refuser l'époux qu'on lui destine : mais la nuit s'approche, où me retirerai-je en attendant le moment où je verrai Angélique ?
-
--*who_lisette
-Comme on ne sait encore qui vous êtes, en cas qu'on vous fît quelques questions, au lieu d'être mon parent, soyez celui de Frontin, et retirez-vous dans sa chambre, qui est à côté de cette salle, et d'où Frontin pourra vous amener, quand il faudra.
-
--*who_frontin
-Oui-da, Monsieur, disposez de mon appartement.
-
--*who_lisette
-Allez tout à l'heure ; car il faut que je prévienne Angélique, qui assurément sera charmée de vous voir, mais qui ne sait pas que vous êtes ici, et à qui je dirai d'abord qu'il y a un domestique dans la chambre de Frontin qui demande à lui parler de votre part : mais sortez, j'entends quelqu'un qui vient.
-
--*who_frontin
-Allons, cousin, sauvons-nous.
-
--*who_lisette
-Non, restez : c'est la mère d'Angélique, elle vous verrait fuir, il vaut mieux que vous demeuriez.
-
-**** *book_ *id_I03 *act_I *date_1732
-
--*who_madameargante
 Où est ma fille, Lisette ?
 
--*who_lisette
-Apparemment qu'elle est dans sa chambre, Madame.
-
--*who_madameargante
 Qui est ce garçon-là ?
 
--*who_frontin
-Madame, c'est un garçon de condition, comme vous voyez, qui m'est venu voir, et à qui je m'intéresse parce que nous sommes fils des deux frères ; il n'est pas content de son maître, ils se sont brouillés ensemble, et il vient me demander si je ne sais pas quelque maison dont il pût s'accommoder...
-
--*who_madameargante
 Sa physionomie est assez bonne ; chez qui avez-vous servi, mon enfant ?
 
--*who_eraste
-Chez un officier du régiment du Roi, Madame.
+Eh bien, je parlerai de vous à Monsieur Damis, qui pourra vous donner à ma fille ; demeurez ici jusqu'à ce soir, et laissez-nous. Restez, Lisette.
 
--*who_madameargante
-Eh bien, je parlerai de vous à Monsieur Damis, qui pourra vous donner à ma fille ; demeurez ici jusqu'à ce soir, et laissez-nous.
-Restez, Lisette.
+Ma fille vous dit assez volontiers ses sentiments, Lisette ; dans quelle disposition d'esprit est-elle pour le mariage que nous allons conclure ? Elle ne m'a marqué, du moins, aucune répugnance.
 
-**** *book_ *id_I04 *act_I *date_1732
-
--*who_madameargante
-Ma fille vous dit assez volontiers ses sentiments, Lisette ; dans quelle disposition d'esprit est-elle pour le mariage que nous allons conclure ?
-Elle ne m'a marqué, du moins, aucune répugnance.
-
--*who_lisette
-Ah !
-Madame, elle n'oserait vous en marquer, quand elle en aurait ; c'est une jeune et timide personne, à qui jusqu'ici son éducation n'a rien appris qu'à obéir.
-
--*who_madameargante
 C'est, je pense, ce qu'elle pouvait apprendre de mieux à son âge.
 
--*who_lisette
-Je ne dis pas le contraire.
-
--*who_madameargante
 Mais enfin, vous paraît-elle contente ?
 
--*who_lisette
-Y peut-on rien connaître ?
-Vous savez qu'à peine ose-t-elle lever les yeux, tant elle a peur de sortir de cette modestie sévère que vous voulez qu'elle ait ; tout ce que j'en sais, c'est qu'elle est triste.
+Oh ! Je le crois, c'est une marque qu'elle a le coeur bon : elle va se marier, elle me quitte, elle m'aime, et notre séparation est douloureuse.
 
--*who_madameargante
-Oh !
-Je le crois, c'est une marque qu'elle a le coeur bon : elle va se marier, elle me quitte, elle m'aime, et notre séparation est douloureuse.
+Oui, une fille dissipée, élevée dans un monde coquet, qui a plus entendu parler d'amour que de vertu, et que mille jeunes étourdis ont eu l'impertinente liberté d'entretenir de cajoleries ; mais une fille retirée, qui vit sous les yeux de sa mère, et dont rien n'a gâté ni le coeur ni l'esprit, ne laisse pas que d'être alarmée quand elle change d'état. Je connais Angélique et la simplicité de ses moeurs ; elle n'aime pas le monde, et je suis sûre qu'elle ne me quitterait jamais, si je l'en laissais la maîtresse.
 
--*who_lisette
-Eh !
-Eh !
-Ordinairement, pourtant, une fille qui va se marier est assez gaie.
+Oh ! J'en suis sûre. À l'égard du mari que je lui donne, je ne doute pas qu'elle n'approuve mon choix ; c'est un homme très riche, très raisonnable.
 
--*who_madameargante
-Oui, une fille dissipée, élevée dans un monde coquet, qui a plus entendu parler d'amour que de vertu, et que mille jeunes étourdis ont eu l'impertinente liberté d'entretenir de cajoleries ; mais une fille retirée, qui vit sous les yeux de sa mère, et dont rien n'a gâté ni le coeur ni l'esprit, ne laisse pas que d'être alarmée quand elle change d'état.
-Je connais Angélique et la simplicité de ses moeurs ; elle n'aime pas le monde, et je suis sûre qu'elle ne me quitterait jamais, si je l'en laissais la maîtresse.
-
--*who_lisette
-Cela est singulier.
-
--*who_madameargante
-Oh !
-J'en suis sûre.
-À l'égard du mari que je lui donne, je ne doute pas qu'elle n'approuve mon choix ; c'est un homme très riche, très raisonnable.
-
--*who_lisette
-Pour raisonnable, il a eu le temps de le devenir.
-
--*who_madameargante
 Oui, un peu vieux, à la vérité, mais doux, mais complaisant, attentif, aimable.
 
--*who_lisette
-Aimable !
-Prenez donc garde, Madame, il a soixante ans, cet homme.
-
--*who_madameargante
 Il est bien question de l'âge d'un mari avec une fille élevée comme la mienne !
 
--*who_lisette
-Oh !
-S'il n'en est pas question avec Mademoiselle votre fille, il n'y aura guère eu de prodige de cette force-là !
-
--*who_madameargante
 Qu'entendez-vous avec votre prodige ?
 
--*who_lisette
-J'entends qu'il faut, le plus qu'on peut, mettre la vertu des gens à son aise, et que celle d'Angélique ne sera pas sans fatigue.
-
--*who_madameargante
 Vous avez de sottes idées, Lisette ; les inspirez-vous à ma fille ?
 
--*who_lisette
-Oh !
-Que non, Madame, elle les trouvera bien sans que je m'en mêle.
-
--*who_madameargante
 Et pourquoi, de l'humeur dont elle est, ne serait-elle pas heureuse ?
 
--*who_lisette
-C'est qu'elle ne sera point de l'humeur dont vous dites, cette humeur-là n'existe nulle part.
-
--*who_madameargante
 Il faudrait qu'elle l'eût bien difficile, si elle ne s'accommodait pas d'un homme qui l'adorera.
 
--*who_lisette
-On adore mal à son âge.
-
--*who_madameargante
 Qui ira au-devant de tous ses désirs.
 
--*who_lisette
-Ils seront donc bien modestes.
-
--*who_madameargante
 Taisez-vous ; je ne sais de quoi je m'avise de vous écouter.
 
--*who_lisette
-Vous m'interrogez, et je vous réponds sincèrement.
-
--*who_madameargante
 Allez dire à ma fille qu'elle vienne.
 
--*who_lisette
-Il n'est pas besoin de l'aller chercher, Madame, la voilà qui passe, et je vous laisse.
-
-**** *book_ *id_I05 *act_I *date_1732
-
--*who_madameargante
 Venez, Angélique, j'ai à vous parler.
 
--*who_angelique
-Que souhaitez-vous, ma mère ?
-
--*who_madameargante
 Vous voyez, ma fille, ce que je fais aujourd'hui pour vous ; ne tenez-vous pas compte à ma tendresse du mariage avantageux que je vous procure ?
 
--*who_angelique
-Je ferai tout ce qu'il vous plaira, ma mère.
+Je vous demande si vous me savez gré du parti que je vous donne ? Ne trouvez-vous pas qu'il est heureux pour vous d'épouser un homme comme Monsieur Damis, dont la fortune, dont le caractère sûr et plein de raison, vous assurent une vie douce et paisible, telle qu'il convient à vos moeurs et aux sentiments que je vous ai toujours inspirés ? Allons, répondez, ma fille !
 
--*who_madameargante
-Je vous demande si vous me savez gré du parti que je vous donne ?
-Ne trouvez-vous pas qu'il est heureux pour vous d'épouser un homme comme Monsieur Damis, dont la fortune, dont le caractère sûr et plein de raison, vous assurent une vie douce et paisible, telle qu'il convient à vos moeurs et aux sentiments que je vous ai toujours inspirés ?
-Allons, répondez, ma fille !
+Oui, sans doute. Voyez, n'êtes-vous pas satisfaite de votre sort ?
 
--*who_angelique
-Vous me l'ordonnez donc ?
+Quoi ! Mais ! Je veux qu'on me réponde raisonnablement ; je m'attends à votre reconnaissance, et non pas à des mais.
 
--*who_madameargante
-Oui, sans doute.
-Voyez, n'êtes-vous pas satisfaite de votre sort ?
-
--*who_angelique
-Mais...
-
--*who_madameargante
-Quoi !
-Mais !
-Je veux qu'on me réponde raisonnablement ; je m'attends à votre reconnaissance, et non pas à des mais.
-
--*who_angelique
-Je n'en dirai plus, ma mère.
-
--*who_madameargante
 Je vous dispense des révérences ; dites-moi ce que vous pensez.
 
--*who_angelique
-Ce que je pense ?
-
--*who_madameargante
 Oui : comment regardez-vous le mariage en question ?
 
--*who_angelique
-Mais...
-
--*who_madameargante
 Toujours des mais !
 
--*who_angelique
-Je vous demande pardon ; je n'y songeais pas, ma mère.
+Eh bien, songez-y donc, et souvenez-vous qu'ils me déplaisent. Je vous demande quelles sont les dispositions de votre coeur dans cette conjoncture-ci. Ce n'est pas que je doute que vous soyez contente, mais je voudrais vous l'entendre dire vous-même.
 
--*who_madameargante
-Eh bien, songez-y donc, et souvenez-vous qu'ils me déplaisent.
-Je vous demande quelles sont les dispositions de votre coeur dans cette conjoncture-ci.
-Ce n'est pas que je doute que vous soyez contente, mais je voudrais vous l'entendre dire vous-même.
-
--*who_angelique
-Les dispositions de mon coeur !
-Je tremble de ne pas répondre à votre fantaisie.
-
--*who_madameargante
 Et pourquoi ne répondriez-vous pas à ma fantaisie ?
 
--*who_angelique
-C'est que ce que je dirais vous fâcherait peut-être.
+Parlez bien, et je ne me fâcherai point. Est-ce que vous n'êtes point de mon sentiment ? Etes-vous plus sage que moi ?
 
--*who_madameargante
-Parlez bien, et je ne me fâcherai point.
-Est-ce que vous n'êtes point de mon sentiment ?
-Etes-vous plus sage que moi ?
-
--*who_angelique
-C'est que je n'ai point de dispositions dans le coeur.
-
--*who_madameargante
 Et qu'y avez-vous donc, Mademoiselle ?
 
--*who_angelique
-Rien du tout.
+Rien ! Qu'est-ce que rien ? Ce mariage ne vous plaît donc pas ?
 
--*who_madameargante
-Rien !
-Qu'est-ce que rien ?
-Ce mariage ne vous plaît donc pas ?
+Comment ! Il vous déplaît ?
 
--*who_angelique
-Non.
+Eh ! Parlez donc ! Car je commence à vous entendre : c'est-à-dire, ma fille, que vous n'avez point de volonté ?
 
--*who_madameargante
-Comment !
-Il vous déplaît ?
+Il n'est pas nécessaire ; vous faites encore mieux d'être comme vous êtes ; de vous laisser conduire, et de vous en fier entièrement à moi. Oui, vous avez raison, ma fille ; et ces dispositions d'indifférence sont les meilleures. Aussi voyez-vous que vous en êtes récompensée ; je ne vous donne pas un jeune extravagant qui vous négligerait peut-être au bout de quinze jours, qui dissiperait son bien et le vôtre, pour courir après mille passions libertines ; je vous marie à un homme sage, à un homme dont le coeur est sûr, et qui saura tout le prix de la vertueuse innocence du vôtre.
 
--*who_angelique
-Non, ma mère.
-
--*who_madameargante
-Eh !
-Parlez donc !
-Car je commence à vous entendre : c'est-à-dire, ma fille, que vous n'avez point de volonté ?
-
--*who_angelique
-J'en aurai pourtant une, si vous le voulez.
-
--*who_madameargante
-Il n'est pas nécessaire ; vous faites encore mieux d'être comme vous êtes ; de vous laisser conduire, et de vous en fier entièrement à moi.
-Oui, vous avez raison, ma fille ; et ces dispositions d'indifférence sont les meilleures.
-Aussi voyez-vous que vous en êtes récompensée ; je ne vous donne pas un jeune extravagant qui vous négligerait peut-être au bout de quinze jours, qui dissiperait son bien et le vôtre, pour courir après mille passions libertines ; je vous marie à un homme sage, à un homme dont le coeur est sûr, et qui saura tout le prix de la vertueuse innocence du vôtre.
-
--*who_angelique
-Pour innocente, je le suis.
-
--*who_madameargante
 Oui, grâces à mes soins, je vous vois telle que j'ai toujours souhaité que vous fussiez ; comme il vous est familier de remplir vos devoirs, les vertus dont vous allez avoir besoin ne vous coûteront rien ; et voici les plus essentielles ; c'est, d'abord, de n'aimer que votre mari.
 
--*who_angelique
-Et si j'ai des amis, qu'en ferai-je ?
-
--*who_madameargante
 Vous n'en devez point avoir d'autres que ceux de Monsieur Damis, aux volontés de qui vous vous conformerez toujours, ma fille ; nous sommes sur ce pied-là dans le mariage.
 
--*who_angelique
-Ses volontés ?
-Et que deviendront les miennes ?
+Je sais que cet article a quelque chose d'un peu mortifiant ; mais il faut s'y rendre, ma fille. C'est une espèce de loi qu'on nous a imposée ; et qui dans le fond nous fait honneur, car entre deux personnes qui vivent ensemble, c'est toujours la plus raisonnable qu'on charge d'être la plus docile, et cette docilité-là vous sera facile ; car vous n'avez jamais eu de volonté avec moi, vous ne connaissez que l'obéissance.
 
--*who_madameargante
-Je sais que cet article a quelque chose d'un peu mortifiant ; mais il faut s'y rendre, ma fille.
-C'est une espèce de loi qu'on nous a imposée ; et qui dans le fond nous fait honneur, car entre deux personnes qui vivent ensemble, c'est toujours la plus raisonnable qu'on charge d'être la plus docile, et cette docilité-là vous sera facile ; car vous n'avez jamais eu de volonté avec moi, vous ne connaissez que l'obéissance.
+Vous lui devez encore plus qu'à moi, Angélique, et je suis sûre qu'on n'aura rien à vous reprocher là-dessus. Je vous laisse, songez à tout ce que je vous ai dit ; et surtout gardez ce goût de retraite, de solitude, de modestie, de pudeur qui me charme en vous ; ne plaisez qu'à votre mari, et restez dans cette simplicité qui ne vous laisse ignorer que le mal. Adieu, ma fille.
 
--*who_angelique
-Oui, mais mon mari ne sera pas ma mère.
-
--*who_madameargante
-Vous lui devez encore plus qu'à moi, Angélique, et je suis sûre qu'on n'aura rien à vous reprocher là-dessus.
-Je vous laisse, songez à tout ce que je vous ai dit ; et surtout gardez ce goût de retraite, de solitude, de modestie, de pudeur qui me charme en vous ; ne plaisez qu'à votre mari, et restez dans cette simplicité qui ne vous laisse ignorer que le mal.
-Adieu, ma fille.
-
-**** *book_ *id_I06 *act_I *date_1732
-
--*who_angelique
-Qui ne me laisse ignorer que le mal !
-Et qu'en sait-elle ?
-Elle l'a donc appris ?
-Eh bien, je veux l'apprendre aussi.
-
--*who_lisette
-Eh bien, Mademoiselle, à quoi en êtes-vous ?
-
--*who_angelique
-J'en suis à m'affliger, comme tu vois.
-
--*who_lisette
-Qu'avez-vous dit à votre mère ?
-
--*who_angelique
-Eh !
-Tout ce qu'elle a voulu.
-
--*who_lisette
-Vous épouserez donc Monsieur Damis ?
-
--*who_angelique
-Moi, l'épouser !
-Je t'assure que non ; c'est bien assez qu'il m'épouse.
-
--*who_lisette
-Oui, mais vous n'en serez pas moins sa femme.
-
--*who_angelique
-Eh bien, ma mère n'a qu'à l'aimer pour nous deux ; car pour moi je n'aimerai jamais qu'Eraste.
-
--*who_lisette
-Il le mérite bien.
-
--*who_angelique
-Oh !
-Pour cela, oui.
-C'est lui qui est aimable, qui est complaisant, et non pas ce Monsieur Damis que ma mère a été prendre je ne sais où, qui ferait bien mieux d'être mon grand-père que mon mari, qui me glace quand il me parle, et qui m'appelle toujours ma belle personne ; comme si on s'embarrassait beaucoup d'être belle ou laide avec lui : au lieu que tout ce que me dit Eraste est si touchant !
-On voit que c'est du fond du coeur qu'il parle ; et j'aimerais mieux être sa femme seulement huit jours, que de l'être toute ma vie de l'autre.
-
--*who_lisette
-On dit qu'il est au désespoir, Eraste.
-
--*who_angelique
-Eh !
-Comment veut-il que je fasse ?
-Hélas !
-Je sais bien qu'il sera inconsolable : N'est-on pas bien à plaindre, quand on s'aime tant, de n'être pas ensemble ?
-Ma mère dit qu'on est obligé d'aimer son mari ; eh bien !
-Qu'on me donne Eraste ; je l'aimerai tant qu'on voudra, puisque je l'aime avant que d'y être obligée, je n'aurai garde d'y manquer quand il le faudra, cela me sera bien commode.
-
--*who_lisette
-Mais avec ces sentiments-là, que ne refusez-vous courageusement Damis ?
-Il est encore temps ; vous êtes d'une vivacité étonnante avec moi, et vous tremblez devant votre mère.
-Il faudrait lui dire ce soir : Cet homme-là est trop vieux pour moi ; je ne l'aime point, je le hais, je le haïrai, et je ne saurais l'épouser.
-
--*who_angelique
-Tu as raison : mais quand ma mère me parle, je n'ai plus d'esprit ; cependant je sens que j'en ai assurément ; et j'en aurais bien davantage, si elle avait voulu ; mais n'être jamais qu'avec elle, n'entendre que des préceptes qui me lassent, ne faire que des lectures qui m'ennuient, est-ce là le moyen d'avoir de l'esprit ?
-Qu'est-ce que cela apprend ?
-Il y a des petites filles de sept ans qui sont plus avancées que moi.
-Cela n'est-il pas ridicule ?
-Je n'ose pas seulement ouvrir ma fenêtre.
-Voyez, je vous prie, de quel air on m'habille ?
-Suis-je vêtue comme une autre ?
-Regardez comme me voilà faite : Ma mère appelle cela un habit modeste : il n'y a donc de la modestie nulle part qu'ici ?
-Car je ne vois que moi d'enveloppée comme cela ; aussi suis-je d'une enfance, d'une curiosité !
-Je ne porte point de ruban, mais qu'est-ce que ma mère y gagne ?
-Que j'ai des émotions quand j'en aperçois.
-Elle ne m'a laissé voir personne, et avant que je connusse Eraste, le coeur me battait quand j'étais regardée par un jeune homme.
-Voilà pourtant ce qui m'est arrivé.
-
--*who_lisette
-Votre naïveté me fait rire.
-
--*who_angelique
-Mais est-ce que je n'ai pas raison ?
-Serais-je de même si j'avais joui d'une liberté honnête ?
-En vérité, si je n'avais pas le coeur bon, tiens, je crois que je haïrais ma mère, d'être cause que j'ai des émotions pour des choses dont je suis sûre que je ne me soucierais pas si je les avais.
-Aussi, quand je serai ma maîtresse !
-Laisse-moi faire, va...
-Je veux savoir tout ce que les autres savent.
-
--*who_lisette
-Je m'en fie bien à vous.
-
--*who_angelique
-Moi qui suis naturellement vertueuse, sais-tu bien que je m'endors quand j'entends parler de sagesse ?
-Sais-tu bien que je serai fort heureuse de n'être pas coquette ?
-Je ne la serai pourtant pas ; mais ma mère mériterait bien que je la devinsse.
-
--*who_lisette
-Ah !
-Si elle pouvait vous entendre et jouir du fruit de sa sévérité !
-Mais parlons d'autre chose.
-Vous aimez Eraste ?
-
--*who_angelique
-Vraiment oui, je l'aime, pourvu qu'il n'y ait point de mal à avouer cela ; car je suis si ignorante !
-Je ne sais point ce qui est permis ou non, au moins.
-
--*who_lisette
-C'est un aveu sans conséquence avec moi.
-
--*who_angelique
-Oh !
-Sur ce pied-là je l'aime beaucoup, et je ne puis me résoudre à le perdre.
-
--*who_lisette
-Prenez donc une bonne résolution de n'être pas à un autre.
-Il y a ici un domestique à lui qui a une lettre à vous rendre de sa part.
-
--*who_angelique
-Une lettre de sa part, et tu ne m'en disais rien !
-Où est-elle ?
-Oh !
-Que j'aurai de plaisir à la lire !
-Donne-moi-la donc !
-Où est ce domestique ?
-
--*who_lisette
-Doucement !
-Modérez cet empressement-là ; cachez-en du moins une partie à Eraste : si par hasard vous lui parliez, il y aurait du trop.
-
--*who_angelique
-Oh !
-Dame, c'est encore ma mère qui en est cause.
-Mais est-ce que je pourrai le voir ?
-Tu me parles de lui et de sa lettre, et je ne vois ni l'un ni l'autre.
-
-**** *book_ *id_I07 *act_I *date_1732
-
--*who_lisette
-Tenez, voici ce domestique que Frontin nous amène.
-
--*who_angelique
-Frontin ne dira-t-il rien à ma mère ?
-
--*who_lisette
-Ne craignez rien, il est dans vos intérêts, et ce domestique passe pour son parent.
-
--*who_frontin
-Le valet de Monsieur Eraste vous apporte une lettre que voici, Madame.
-
--*who_angelique
-Donnez.
-Suis-je assez sérieuse ?
-
--*who_lisette
-Fort bien.
-
--*who_angelique
-Que viens-je d'apprendre !
-On dit que vous vous mariez ce soir.
-Si vous concluez sans me permettre de vous voir, je ne me soucie plus de la vie.
-Il ne se soucie plus de la vie, Lisette !
-Adieu ; j'attends votre réponse, et je me meurs.
-Cette lettre-là me pénètre ; il n'y a point de modération qui tienne, Lisette ; il faut que je lui parle, et je ne veux pas qu'il meure.
-Allez lui dire qu'il vienne ; on le fera entrer comme on pourra.
-
--*who_eraste
-Vous ne voulez point que je meure, et vous vous mariez, Angélique !
-
--*who_angelique
-Ah !
-C'est vous, Eraste ?
-
--*who_eraste
-À quoi vous déterminez-vous donc ?
-
--*who_angelique
-Je ne sais ; je suis trop émue pour vous répondre.
-Levez-vous.
-
--*who_eraste
-Mon désespoir vous touchera-t-il ?
-
--*who_angelique
-Est-ce que vous n'avez pas entendu ce que j'ai dit ?
-
--*who_eraste
-Il m'a paru que vous m'aimiez un peu.
-
--*who_angelique
-Non, non, il vous a paru mieux que cela ; car j'ai dit bien franchement que je vous aime : mais il faut m'excuser, Eraste, car je ne savais pas que vous étiez là.
-
--*who_eraste
-Est-ce que vous seriez fâchée de ce qui vous est échappé ?
-
--*who_angelique
-Moi, fâchée ?
-Au contraire, je suis bien aise que vous l'ayez appris sans qu'il y ait de ma faute ; je n'aurai plus la peine de vous le cacher.
-
--*who_frontin
-Prenez garde qu'on ne vous surprenne.
-
--*who_lisette
-Il a raison ; je crois que quelqu'un vient ; retirez-vous, Madame.
-
--*who_angelique
-Mais je crois que vous n'avez pas eu le temps de me dire tout.
-
--*who_eraste
-Hélas !
-Madame, je n'ai encore fait que vous voir et j'ai besoin d'un entretien pour vous résoudre à me sauver la vie.
-
--*who_angelique
-Ne lui donneras-tu pas le temps de me résoudre, Lisette ?
-
--*who_lisette
-Oui, Frontin et moi nous aurons soin de tout : vous allez vous revoir bientôt ; mais retirez-vous.
-
-**** *book_ *id_I08 *act_I *date_1732
-
--*who_lisette
-Qui est-ce qui entre là ?
-C'est le valet de Monsieur Damis.
-
--*who_eraste
-Eh ! d'où le connaissez-vous ?
-C'est le valet de mon père, et non pas de Monsieur Damis qui m'est inconnu.
-
--*who_lisette
-Vous vous trompez ; ne vous déconcertez pas.
-
--*who_champagne
-Bonsoir, la jolie fille, bonsoir, Messieurs ; je viens attendre ici mon maître qui m'envoie dire qu'il va venir ; et je suis charmé d'une rencontre...
-Mais comment appelez-vous Monsieur ?
-
--*who_eraste
-Vous importe-t-il de savoir que je m'appelle La Ramée ?
-
--*who_champagne
-La Ramée ?
-Et pourquoi est-ce que vous portez ce visage-là ?
-
--*who_eraste
-Pourquoi ?
-La belle question !
-Parce que je n'en ai pas reçu d'autre.
-Adieu, Lisette ; le début de ce butor-là m'ennuie.
-
-**** *book_ *id_I09 *act_I *date_1732
-
--*who_frontin
-Je voudrais bien savoir à qui tu en as !
-Est-ce qu'il n'est pas permis à mon cousin La Ramée d'avoir son visage ?
-
--*who_champagne
-Je veux bien que Monsieur La Ramée en ait un ; mais il ne lui est pas permis de se servir de celui d'un autre.
-
--*who_lisette
-Comment, celui d'un autre !
-Qu'est-ce que cette folie-là ?
-
--*who_champagne
-Oui, celui d'un autre : en un mot, cette mine-là ne lui appartient point ; elle n'est point à sa place ordinaire, ou bien j'ai vu la pareille à quelqu'un que je connais.
-
--*who_frontin
-C'est peut-être une physionomie à la mode, et La Ramée en aura pris une.
-
--*who_lisette
-Voilà bien, en effet, des discours d'un butor comme toi, Champagne : est-ce qu'il n'y a pas mille gens qui se ressemblent ?
-
--*who_champagne
-Cela est vrai ; mais qu'il appartienne à ce qu'il voudra, je ne m'en soucie guère ; chacun a le sien ; il n'y a que vous, Mademoiselle Lisette, qui n'avez celui de personne, car vous êtes plus jolie que tout le monde : il n'y a rien de si aimable que vous.
-
--*who_frontin
-Halte-là !
-Laisse ce minois-là en repos ; ton éloge le déshonore.
-
--*who_champagne
-Ah !
-Monsieur Frontin, ce que j'en dis, c'est en cas que vous n'aimiez pas Lisette, comme cela peut arriver ; car chacun n'est pas du même goût.
-
--*who_frontin
-Paix ! vous dis-je ; car je l'aime.
-
--*who_champagne
-Et vous, Mademoiselle Lisette ?
-
--*who_lisette
-Tu joues de malheur, car je l'aime.
-
--*who_champagne
-Je l'aime, partout je l'aime !
-Il n'y aura donc rien pour moi ?
-
--*who_lisette
-Une révérence de ma part.
-
--*who_frontin
-Des injures de la mienne, et quelques coups de poing, si tu veux.
-
--*who_champagne
-Ah !
-N'ai-je pas fait là une belle fortune ?
-
-**** *book_ *id_I10 *act_I *date_1732
-
--*who_monsieurdamis
-Ah !
-Te voilà !
-
--*who_champagne
-Oui, Monsieur ; on vient de m'apprendre qu'il n'y a rien pour moi, et ma part ne me donne pas une bonne opinion de la vôtre.
-
--*who_monsieurdamis
-Qu'entends-tu par là ?
-
--*who_champagne
-C'est que Lisette ne veut point de moi, et outre cela j'ai vu la physionomie de Monsieur votre fils sur le visage d'un valet.
-
--*who_monsieurdamis
-Je n'y comprends rien.
-Laisse-nous ; voici Madame Argante et Angélique.
-
-**** *book_ *id_I11 *act_I *date_1732
-
--*who_madameargante
 Vous venez sans doute d'arriver, Monsieur ?
 
--*who_monsieurdamis
-Oui, Madame, en ce moment.
-
--*who_madameargante
 Il y a déjà bonne compagnie assemblée chez moi, c'est-à-dire, une partie de ma famille, avec quelques-uns de nos amis, car pour les vôtres, vous n'avez pas voulu leur confier votre mariage.
 
--*who_monsieurdamis
-Non, Madame, j'ai craint qu'on n'enviât mon bonheur et j'ai voulu me l'assurer en secret.
-Mon fils même ne sait rien de mon dessein : et c'est à cause de cela que je vous ai prié de vouloir bien me donner le nom de Damis, au lieu de celui d'Orgon, qu'on mettra dans le contrat.
+Vous êtes le maître, Monsieur ; au reste, il n'appartient point à une mère de vanter sa fille ; mais je crois vous faire un présent digne d'un honnête homme comme vous. Il est vrai que les avantages que vous lui faites...
 
--*who_madameargante
-Vous êtes le maître, Monsieur ; au reste, il n'appartient point à une mère de vanter sa fille ; mais je crois vous faire un présent digne d'un honnête homme comme vous.
-Il est vrai que les avantages que vous lui faites...
+Pour de la vertu, vous lui rendez justice. Mais, Monsieur, on vous attend ; vous savez que j'ai permis que nos amis se déguisassent, et fissent une espèce de petit bal tantôt ; le voulez-vous bien ? C'est le premier que ma fille aura vu.
 
--*who_monsieurdamis
-Oh !
-Madame, n'en parlons point, je vous prie ; c'est à moi à vous remercier toutes deux, et je n'ai pas dû espérer que cette belle personne fît grâce au peu que je vaux.
-
--*who_angelique
-Belle personne !
-
--*who_monsieurdamis
-Tous les trésors du monde ne sont rien au prix de la beauté et de la vertu qu'elle m'apporte en mariage.
-
--*who_madameargante
-Pour de la vertu, vous lui rendez justice.
-Mais, Monsieur, on vous attend ; vous savez que j'ai permis que nos amis se déguisassent, et fissent une espèce de petit bal tantôt ; le voulez-vous bien ?
-C'est le premier que ma fille aura vu.
-
--*who_monsieurdamis
-Comme il vous plaira, Madame.
-
--*who_madameargante
 Allons donc joindre la compagnie.
 
--*who_monsieurdamis
-Oserais-je auparavant vous prier d'une chose, Madame ?
-Daignez, à la faveur de notre union prochaine, m'accorder un petit moment d'entretien avec Angélique ; c'est une satisfaction que je n'ai pas eu jusqu'ici.
+J'y consens, Monsieur, on ne peut vous le refuser dans la conjoncture présente ; et ce n'est pas apparemment pour éprouver le coeur de ma fille ? Il n'est pas encore temps qu'il se déclare tout à fait ; il doit vous suffire qu'elle obéit sans répugnance ; et c'est ce que vous pouvez dire à Monsieur, Angélique ; je vous le permets, entendez-vous ?
 
--*who_madameargante
-J'y consens, Monsieur, on ne peut vous le refuser dans la conjoncture présente ; et ce n'est pas apparemment pour éprouver le coeur de ma fille ?
-Il n'est pas encore temps qu'il se déclare tout à fait ; il doit vous suffire qu'elle obéit sans répugnance ; et c'est ce que vous pouvez dire à Monsieur, Angélique ; je vous le permets, entendez-vous ?
-
--*who_angelique
-J'entends, ma mère.
-
-**** *book_ *id_I12 *act_I *date_1732
-
--*who_monsieurdamis
-Enfin, charmante Angélique, je puis donc sans témoins vous jurer une tendresse éternelle : il est vrai que mon âge ne répond pas au vôtre.
-
--*who_angelique
-Oui, il y a bien de la différence.
-
--*who_monsieurdamis
-Cependant on me flatte que vous acceptez ma main sans répugnance.
-
--*who_angelique
-Ma mère le dit.
-
--*who_monsieurdamis
-Et elle vous a permis de me le confirmer vous-même.
-
--*who_angelique
-Oui, mais on n'est pas obligé d'user des permissions qu'on a.
-
--*who_monsieurdamis
-Est-ce par modestie, est-ce par dégoût que vous me refusez l'aveu que je demande ?
-
--*who_angelique
-Non, ce n'est pas par modestie.
-
--*who_monsieurdamis
-Que me dites-vous là !
-C'est donc par dégoût ?...
-Vous ne me répondez rien ?
-
--*who_angelique
-C'est que je suis polie.
-
--*who_monsieurdamis
-Vous n'auriez donc rien de favorable à me répondre ?
-
--*who_angelique
-Il faut que je me taise encore.
-
--*who_monsieurdamis
-Toujours par politesse ?
-
--*who_angelique
-Oh !
-Toujours.
-
--*who_monsieurdamis
-Parlez-moi franchement : est-ce que vous me haïssez ?
-
--*who_angelique
-Vous embarrassez encore mon savoir-vivre.
-Seriez-vous bien aise, si je vous disais oui ?
-
--*who_monsieurdamis
-Vous pourriez dire non.
-
--*who_angelique
-Encore moins, car je mentirais.
-
--*who_monsieurdamis
-Quoi ! vos sentiments vont jusqu'à la haine, Angélique !
-J'aurais cru que vous vous contentiez de ne pas m'aimer.
-
--*who_angelique
-Si vous vous en contentez, et moi aussi, et s'il n'est pas malhonnête d'avouer aux gens qu'on ne les aime point, je ne serai plus embarrassée.
-
--*who_monsieurdamis
-Et vous me l'avoueriez !
-
--*who_angelique
-Tant qu'il vous plaira.
-
--*who_monsieurdamis
-C'est une répétition dont je ne suis point curieux ; et ce n'était pas là ce que votre mère m'avait fait entendre.
-
--*who_angelique
-Oh !
-Vous pouvez vous en fier à moi ; je sais mieux cela que ma mère, elle a pu se tromper ; mais, pour moi, je vous dis la vérité.
-
--*who_monsieurdamis
-Qui est que vous ne m'aimez point ?
-
--*who_angelique
-Oh !
-Du tout ; je ne saurais ; et ce n'est pas par malice, c'est naturellement : et vous, qui êtes, à ce qu'on dit, un si honnête homme, si, en faveur de ma sincérité, vous vouliez ne me plus aimer et me laisser là, car aussi bien je ne suis pas si belle que vous le croyez, tenez, vous en trouverez cent qui vaudront mieux que moi.
-
--*who_monsieurdamis
-Voyons si elle aime ailleurs.
-Mon intention, assurément, n'est pas qu'on vous contraigne.
-
--*who_angelique
-Ce que vous dites là est bien raisonnable, et je ferai grand cas de vous si vous continuez.
-
--*who_monsieurdamis
-Je suis même fâché de ne l'avoir pas su plus tôt.
-
--*who_angelique
-Hélas !
-Si vous me l'aviez demandé, je vous l'aurais dit.
-
--*who_monsieurdamis
-Et il faut y mettre ordre.
-
--*who_angelique
-Que vous êtes bon et obligeant !
-N'allez pourtant pas dire à ma mère que je vous ai confié que je ne vous aime point, parce qu'elle se mettrait en colère contre moi ; mais faites mieux ; dites-lui seulement que vous ne me trouvez pas assez d'esprit pour vous, que je n'ai pas tant de mérite que vous l'aviez cru, comme c'est la vérité ; enfin, que vous avez encore besoin de vous consulter : ma mère, qui est fort fière, ne manquera pas de se choquer, elle rompra tout, notre mariage ne se fera point, et je vous aurai, je vous jure, une obligation infinie.
-
--*who_monsieurdamis
-Non, Angélique, non, vous êtes trop aimable ; elle se douterait que c'est vous qui ne voulez pas, et tous ces prétextes-là ne valent rien ; il n'y en a qu'un bon ; aimez-vous ailleurs ?
-
--*who_angelique
-Moi !
-Non ; n'allez pas le croire.
-
--*who_monsieurdamis
-Sur ce pied-là, je n'ai point d'excuse ; j'ai promis de vous épouser, et il faut que je tienne parole ; au lieu que, si vous aimiez quelqu'un, je ne lui dirais pas que vous me l'avez avoué ; mais seulement que je m'en doute.
-
--*who_angelique
-Eh bien !
-Doutez-vous-en donc.
-
--*who_monsieurdamis
-Mais il n'est pas possible que je m'en doute si cela n'est pas vrai ; autrement ce serait être de mauvaise foi ; et, malgré toute l'envie que j'ai de vous obliger, je ne saurais dire une imposture.
-
--*who_angelique
-Allez, allez, n'ayez point de scrupule, vous parlerez en homme d'honneur.
-
--*who_monsieurdamis
-Vous aimez donc ?
-
--*who_angelique
-Mais ne me trahissez-vous point, Monsieur Damis ?
-
--*who_monsieurdamis
-Je n'ai que vos véritables intérêts en vue.
-
--*who_angelique
-Quel bon caractère !
-Oh !
-Que je vous aimerais, si vous n'aviez que vingt ans !
-
--*who_monsieurdamis
-Eh bien ?
-
--*who_angelique
-Vraiment, oui, il y a quelqu'un qui me plaît...
-Monsieur, je viens de la part de Madame vous dire qu'on vous attend avec Mademoiselle.
-
--*who_monsieurdamis
-Nous y allons.
-Et où avez-vous connu celui qui vous plaît ?
-
--*who_angelique
-Ah !
-Ne m'en demandez pas davantage ; puisque vous ne voulez que vous douter que j'aime, en voilà plus qu'il n'en faut pour votre probité, et je vais vous annoncer là-haut.
-
-**** *book_ *id_I13 *act_I *date_1732
-
--*who_monsieurdamis
-Ceci me chagrine, mais je l'aime trop pour la céder à personne.
-Frontin !
-Frontin !
-Approche, je voudrais te dire un mot.
-
--*who_frontin
-Volontiers, Monsieur ; mais on est impatient de vous voir.
-
--*who_monsieurdamis
-Je ne tarderai qu'un moment viens, j'ai remarqué que tu es un garçon d'esprit.
-
--*who_frontin
-Eh !
-J'ai des jours où je n'en manque pas,
-
--*who_monsieurdamis
-Veux-tu me rendre un service dont je te promets que personne ne sera jamais instruit ?
-
--*who_frontin
-Vous marchandez ma fidélité ; mais je suis dans mon jour d'esprit, il n'y a rien à faire, je sens combien il faut être discret.
-
--*who_monsieurdamis
-Je te payerai bien.
-
--*who_frontin
-Arrêtez donc, Monsieur, ces débuts-là m'attendrissent toujours.
-
--*who_monsieurdamis
-Voilà ma bourse.
-
--*who_frontin
-Quel embonpoint séduisant !
-Qu'il a l'air vainqueur !
-
--*who_monsieurdamis
-Elle est à toi, si tu veux me confier ce que tu sais sur le chapitre d'Angélique.
-Je viens adroitement de lui faire avouer qu'elle a un amant ; et observée comme elle est par sa mère, elle ne peut ni l'avoir vu ni avoir de ses nouvelles que par le moyen des domestiques : tu t'en es peut-être mêlé toi-même, ou tu sais qui s'en mêle, et je voudrais écarter cet homme-là ; quel est-il ?
-Où se sont-ils vus ?
-Je te garderai le secret.
-
--*who_frontin
-Je résisterais à ce que vous dites, mais ce que vous tenez m'entraîne, et je me rends.
-
--*who_monsieurdamis
-Parle.
-
--*who_frontin
-Vous me demandez un détail que j'ignore ; il n'y a que Lisette qui soit parfaitement instruite dans cette intrigue-là.
-
--*who_monsieurdamis
-La fourbe !
-
--*who_frontin
-Prenez garde, vous ne sauriez la condamner sans me faire mon procès.
-Je viens de céder à un trait d'éloquence qu'on aura peut-être employé contre elle ; au reste je ne connais le jeune homme en question que depuis une heure ; il est actuellement dans ma chambre ; Lisette en a fait mon parent, et dans quelques moments, elle doit l'introduire ici même où je suis chargé d'éteindre les bougies, et où elle doit arriver avec Angélique pour y traiter ensemble des moyens de rompre votre mariage.
-
--*who_monsieurdamis
-Il ne tiendra donc qu'à toi que je sois pleinement instruit de tout.
-
--*who_frontin
-Comment ?
-
--*who_monsieurdamis
-Tu n'as qu'à souffrir que je me cache ici ; on ne m'y verra pas, puisque tu vas en ôter les lumières, et j'écouterai tout ce qu'ils diront.
-
--*who_frontin
-Vous avez raison ; attendez, quelques amis de la maison qui sont là-haut, et qui veulent se déguiser après souper pour se divertir, ont fait apporter des dominos qu'on a mis dans le petit cabinet à côté de la salle, voulez-vous que je vous en donne un ?
-
--*who_monsieurdamis
-Tu me feras plaisir.
-
--*who_frontin
-Je cours vous le chercher, car l'heure approche.
-
--*who_monsieurdamis
-Va.
-
-**** *book_ *id_I14 *act_I *date_1732
-
--*who_monsieurdamis
-Je ne saurais mieux m'y prendre pour savoir de quoi il est question.
-Si je vois que l'amour d'Angélique aille à un certain point, il ne s'agit plus de mariage ; cependant je tremble.
-Qu'on est malheureux d'aimer à mon âge !
-
--*who_frontin
-Tenez, Monsieur, voilà tout votre attirail, jusqu'à un masque : c'est un visage qui ne vous donnera que dix-huit ans, vous ne perdrez rien au change ; ajustez-vous vite ; bon !
-Mettez-vous là et ne remuez pas ; voilà les lumières éteintes, bonsoir.
-
--*who_monsieurdamis
-Écoute ; le jeune homme va venir, et je rêve à une chose ; quand Lisette et Angélique seront entrées, dis à la mère, de ma part, que je la prie de se rendre ici sans bruit, cela ne te compromet point, et tu y gagneras.
-
--*who_frontin
-Mais vous prenez donc cette commission-là à crédit ?
-
--*who_monsieurdamis
-Va, ne t'embarrasse point.
-
--*who_frontin
-Soit.
-Je sors...
-J'ai de la peine à trouver mon chemin ; mais j'entends quelqu'un...
-
-**** *book_ *id_I15 *act_I *date_1732
-
--*who_frontin
-Est-ce toi, Lisette ?
-
--*who_lisette
-Oui, à qui parles-tu donc là ?
-
--*who_frontin
-À la nuit, qui m'empêchait de retrouver la porte.
-Avec qui es-tu, toi ?
-
--*who_lisette
-Parle bas ; avec Eraste que je fais entrer dans la salle.
-
--*who_monsieurdamis
-Eraste !
-
--*who_frontin
-Bon !
-Où est-il ?
-La Ramée !
-
--*who_eraste
-Me voilà.
-
--*who_frontin
-Tenez, Monsieur, marchez et promenez-vous du mieux que vous pourrez en attendant.
-
--*who_lisette
-Adieu ; dans un moment je reviens avec ma maîtresse.
-
-**** *book_ *id_I16 *act_I *date_1732
-
--*who_eraste
-Je ne saurais douter qu'Angélique ne m'aime ; mais sa timidité m'inquiète, et je crains de ne pouvoir l'enhardir à dédire sa mère.
-
--*who_monsieurdamis
-Est-ce que je me trompe ?
-C'est la voix de mon fils, écoutons.
-
--*who_eraste
-Tâchons de ne pas faire de bruit.
-
--*who_monsieurdamis
-Je crois qu'il vient à moi ; changeons de place.
-
--*who_eraste
-J'entends remuer du taffetas ; est-ce vous, Angélique, est-ce vous ?
-
--*who_monsieurdamis
-Doucement !...
-
--*who_eraste
-Ah !
-C'est vous-même.
-
--*who_monsieurdamis
-C'est mon fils.
-
--*who_eraste
-Eh bien !
-Angélique, me condamnerez-vous à mourir de douleur ?
-Vous m'avez dit tantôt que vous m'aimiez ; vos beaux yeux me l'ont confirmé par les regards les plus aimables et les plus tendres ; mais de quoi me servira d'être aimé, si je vous perds ?
-Au nom de notre amour, Angélique, puisque vous m'avez permis de me flatter du vôtre, gardez-vous à ma tendresse, je vous en conjure par ces charmes que le ciel semble n'avoir destinés que pour moi ; par cette main adorable sur qui je vous jure un amour éternel.
-Ne la retirez pas, Angélique, et dédommagez Eraste du plaisir qu'il n'a point de voir vos beaux yeux, par l'assurance de n'être jamais qu'à lui ; parlez, Angélique.
-
--*who_monsieurdamis
-J'entends du bruit.
-Taisez-vous, petit sot.
-
--*who_eraste
-Juste ciel !
-Qu'entends-je ?
-Vous me fuyez !
-Ah !
-Lisette, n'es-tu pas là ?
-
-**** *book_ *id_I17 *act_I *date_1732
-
--*who_lisette
-Nous voici, Monsieur.
-
--*who_eraste
-Je suis au désespoir, ta maîtresse me fuit.
-
--*who_angelique
-Moi, Eraste ?
-Je ne vous fuis point, me voilà.
-
--*who_eraste
-Eh quoi !
-Ne venez-vous pas de me dire tout ce qu'il y a de plus cruel ?
-
--*who_angelique
-Eh !
-Je n'ai encore dit qu'un mot.
-
--*who_eraste
-Il est vrai, mais il m'a marqué le dernier mépris.
-
--*who_angelique
-Il faut que vous ayez mal entendu, Eraste : est-ce qu'on méprise les gens qu'on aime ?
-
--*who_lisette
-En effet, rêvez-vous, Monsieur ?
-
--*who_eraste
-Je n'y comprends donc rien ; mais vous me rassurez, puisque vous me dites que vous m'aimez ; daignez me le répéter encore.
-
-**** *book_ *id_I18 *act_I *date_1732
-
--*who_angelique
-Vraiment, ce n'est pas là l'embarras, et je vous le répéterais avec plaisir, mais vous le savez bien assez.
-
--*who_madameargante
 Qu'entends-je ?
 
--*who_angelique
-Et d'ailleurs on m'a dit qu'il fallait être plus retenue dans les discours qu'on tient à son amant.
+Ah ! C'en est trop, fille indigne de ma tendresse !
 
--*who_eraste
-Quelle aimable franchise !
-
--*who_angelique
-Mais je vais comme le coeur me mène, sans y entendre plus de finesse ; j'ai du plaisir à vous voir, et je vous vois, et s'il y a de ma faute à vous avouer si souvent que je vous aime, je la mets sur votre compte, et je ne veux point y avoir part.
-
--*who_eraste
-Que vous me charmez !
-
--*who_angelique
-Si ma mère m'avait donné plus d'expérience ; si j'avais été un peu dans le monde, je vous aimerais peut-être sans vous le dire ; je vous ferais languir pour le savoir ; je retiendrais mon coeur, cela n'irait pas si vite, et vous m'auriez déjà dit que je suis une ingrate ; mais je ne saurais la contrefaire.
-Mettez-vous à ma place ; j'ai tant souffert de contrainte, ma mère m'a rendu la vie si triste ! j'ai eu si peu de satisfaction, elle a tant mortifié mes sentiments !
-Je suis si lasse de les cacher, que, lorsque je suis contente, et que je le puis dire, je l'ai déjà dit avant que de savoir que j'ai parlé ; c'est comme quelqu'un qui respire, et imaginez-vous à présent ce que c'est qu'une fille qui a toujours été gênée, qui est avec vous, que vous aimez, qui ne vous hait pas, qui vous aime, qui est franche, qui n'a jamais eu le plaisir de dire ce qu'elle pense, qui ne pensera jamais rien de si touchant, et voyez si je puis résister à tout cela.
-
--*who_eraste
-Oui, ma joie, à ce que j'entends là, va jusqu'au transport !
-Mais il s'agit de nos affaires : j'ai le bonheur d'avoir un père raisonnable, à qui je suis aussi cher qu'il me l'est à moi-même, et qui, j'espère, entrera volontiers dans nos vues.
-
--*who_angelique
-Pour moi, je n'ai pas le bonheur d'avoir une mère qui lui ressemble ; je ne l'en aime pourtant pas moins...
-
--*who_madameargante
-Ah !
-C'en est trop, fille indigne de ma tendresse !
-
--*who_angelique
-Ah !
-Je suis perdue !
-
--*who_madameargante
 Vite, Frontin, qu'on éclaire, qu'on vienne !
-Ingrate !
-Est-ce là le fruit des soins que je me suis donné pour vous former à la vertu ?
-Ménager des intrigues à mon insu !
-Vous plaindre d'une éducation qui m'occupait tout entière !
-Eh bien, jeune extravagante, un couvent, plus austère que moi, me répondra des égarements de votre coeur.
+Ingrate ! Est-ce là le fruit des soins que je me suis donné pour vous former à la vertu ? Ménager des intrigues à mon insu ! Vous plaindre d'une éducation qui m'occupait tout entière ! Eh bien, jeune extravagante, un couvent, plus austère que moi, me répondra des égarements de votre coeur.
 
-**** *book_ *id_I19 *act_I *date_1732
-
--*who_monsieurdamis
-Vous voyez bien qu'on ne me recevrait pas au couvent.
-
--*who_madameargante
 Quoi ! c'est vous, Monsieur ?
 Et ce fripon-là, que fait-il ici ?
 
--*who_monsieurdamis
-Ce fripon-là, c'est mon fils, à qui, tout bien examiné, je vous conseille de donner votre fille.
-
--*who_madameargante
 Votre fils ?
 
--*who_monsieurdamis
-Lui-même.
-Approchez, Eraste ; tout ce que j'ai entendu vient de m'ouvrir les yeux sur l'imprudence de mes desseins ; conjurez Madame de vous être favorable, il ne tiendra pas à moi qu'Angélique ne soit votre épouse.
-
--*who_eraste
-Que je vous ai d'obligation, mon père !
-Nous pardonnerez-vous, Madame, tout ce qui vient de se passer ?
-
--*who_angelique
-Puis-je espérer d'obtenir grâce ?
-
--*who_monsieurdamis
-Votre fille a tort, mais elle est vertueuse, et à votre place je croirais devoir oublier tout, et me rendre.
-
--*who_madameargante
 Allons, Monsieur, je suivrai vos conseils, et me conduirai comme il vous plaira.
 
--*who_monsieurdamis
-Sur ce pied-là, le divertissement dont je prétendais vous amuser, servira pour mon fils.
 
-**** *book_ *id_I20 *act_I *date_1732
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_chanteursduvaudeville
-Vous qui sans cesse à vos fillettes
-Tenez de sévères discours,
-Mamans, de l'erreur où vous êtes
-Le dieu d'amour se rit et se rira toujours.
-Vos avis sont prudents, vos maximes sont sages ;
-Mais malgré tant de soins, malgré tant de rigueur,
-Vous ne pouvez d'un jeune coeur
-Si bien fermer tous les passages,
-Qu'il n'en reste toujours quelqu'un pour le vainqueur.
-Vous qui sans cesse, etc.
-Mère qui tient un jeune objet
-Dans une ignorance profonde,
-Loin du monde,
-Souvent se trompe en son projet.
-Elle croit que l'amour s'envole
-Dès qu'il aperçoit un argus.
-Quel abus !
-Il faut l'envoyer à l'école.
-La beauté qui charme Damon
-Se rit des tourments qu'il endure,
-Il murmure ;
-Moi, je trouve qu'elle a raison,
-C'est un conteur de fariboles,
-Qui n'ouvre point son coffre-fort.
-Le butor !
-Il faut l'envoyer à l'école.
-Si mes soins pouvaient t'engager,
-Me dit un jour le beau Sylvandre,
-D'un air tendre.
-Que ferais-tu ?
-dis-je au berger.
-Il demeura comme une idole,
-Et ne répondit pas un mot.
-Le grand sot !
-Il faut l'envoyer à l'école.
-Claudine un jour dit à Lucas :
-J'irai ce soir à la prairie,
-Je vous prie
-De ne point y suivre mes pas.
-Il le promit, et tint parole.
-Ah ! Qu'il entend peu ce que c'est !
-Le benêt !
-Il faut l'envoyer à l'école.
-L'autre jour à Nicole il prit
-Une vapeur auprès de Blaise ;
-Sur sa chaise
-La pauvre enfant s'évanouit.
-Blaise, pour secourir Nicole,
-Fut chercher du monde aussitôt,
-Le nigaud !
-Il faut l'envoyer à l'école.
-L'amant de la jeune Philis
-Etant près de s'éloigner d'elle,
-Chez la belle
-Il envoie un de ses amis.
-Vas-y, dit-il, et la console.
-Il se fie à son confident.
-L'imprudent !
-Il faut l'envoyer à l'école.
-Aminte, aux yeux de son barbon,
-A son grand neveu cherche noise ;
-La matoise
-Veut le chasser de la maison.
-L'époux la flatte et la cajole,
-Pour faire rester son parent
-L'ignorant !
-Il faut l'envoyer à l'école.
+Que souhaitez-vous, ma mère ?
+
+Je ferai tout ce qu'il vous plaira, ma mère.
+
+Vous me l'ordonnez donc ?
+
+Mais...
+
+Je n'en dirai plus, ma mère.
+
+Ce que je pense ?
+
+Mais...
+
+Je vous demande pardon ; je n'y songeais pas, ma mère.
+
+Les dispositions de mon coeur ! Je tremble de ne pas répondre à votre fantaisie.
+
+C'est que ce que je dirais vous fâcherait peut-être.
+
+C'est que je n'ai point de dispositions dans le coeur.
+
+Rien du tout.
+
+Non.
+
+Non, ma mère.
+
+J'en aurai pourtant une, si vous le voulez.
+
+Pour innocente, je le suis.
+
+Et si j'ai des amis, qu'en ferai-je ?
+
+Ses volontés ? Et que deviendront les miennes ?
+
+Oui, mais mon mari ne sera pas ma mère.
+
+Qui ne me laisse ignorer que le mal ! Et qu'en sait-elle ? Elle l'a donc appris ? Eh bien, je veux l'apprendre aussi.
+
+J'en suis à m'affliger, comme tu vois.
+
+Eh ! Tout ce qu'elle a voulu.
+
+Moi, l'épouser ! Je t'assure que non ; c'est bien assez qu'il m'épouse.
+
+Eh bien, ma mère n'a qu'à l'aimer pour nous deux ; car pour moi je n'aimerai jamais qu'Eraste.
+
+Oh ! Pour cela, oui. C'est lui qui est aimable, qui est complaisant, et non pas ce Monsieur Damis que ma mère a été prendre je ne sais où, qui ferait bien mieux d'être mon grand-père que mon mari, qui me glace quand il me parle, et qui m'appelle toujours ma belle personne ; comme si on s'embarrassait beaucoup d'être belle ou laide avec lui : au lieu que tout ce que me dit Eraste est si touchant ! On voit que c'est du fond du coeur qu'il parle ; et j'aimerais mieux être sa femme seulement huit jours, que de l'être toute ma vie de l'autre.
+
+Eh ! Comment veut-il que je fasse ? Hélas ! Je sais bien qu'il sera inconsolable : N'est-on pas bien à plaindre, quand on s'aime tant, de n'être pas ensemble ? Ma mère dit qu'on est obligé d'aimer son mari ; eh bien ! Qu'on me donne Eraste ; je l'aimerai tant qu'on voudra, puisque je l'aime avant que d'y être obligée, je n'aurai garde d'y manquer quand il le faudra, cela me sera bien commode.
+
+Tu as raison : mais quand ma mère me parle, je n'ai plus d'esprit ; cependant je sens que j'en ai assurément ; et j'en aurais bien davantage, si elle avait voulu ; mais n'être jamais qu'avec elle, n'entendre que des préceptes qui me lassent, ne faire que des lectures qui m'ennuient, est-ce là le moyen d'avoir de l'esprit ? Qu'est-ce que cela apprend ? Il y a des petites filles de sept ans qui sont plus avancées que moi. Cela n'est-il pas ridicule ? Je n'ose pas seulement ouvrir ma fenêtre. Voyez, je vous prie, de quel air on m'habille ? Suis-je vêtue comme une autre ? Regardez comme me voilà faite : Ma mère appelle cela un habit modeste : il n'y a donc de la modestie nulle part qu'ici ? Car je ne vois que moi d'enveloppée comme cela ; aussi suis-je d'une enfance, d'une curiosité ! Je ne porte point de ruban, mais qu'est-ce que ma mère y gagne ? Que j'ai des émotions quand j'en aperçois. Elle ne m'a laissé voir personne, et avant que je connusse Eraste, le coeur me battait quand j'étais regardée par un jeune homme. Voilà pourtant ce qui m'est arrivé.
+
+Mais est-ce que je n'ai pas raison ? Serais-je de même si j'avais joui d'une liberté honnête ? En vérité, si je n'avais pas le coeur bon, tiens, je crois que je haïrais ma mère, d'être cause que j'ai des émotions pour des choses dont je suis sûre que je ne me soucierais pas si je les avais. Aussi, quand je serai ma maîtresse ! Laisse-moi faire, va... Je veux savoir tout ce que les autres savent.
+
+Moi qui suis naturellement vertueuse, sais-tu bien que je m'endors quand j'entends parler de sagesse ? Sais-tu bien que je serai fort heureuse de n'être pas coquette ? Je ne la serai pourtant pas ; mais ma mère mériterait bien que je la devinsse.
+
+Vraiment oui, je l'aime, pourvu qu'il n'y ait point de mal à avouer cela ; car je suis si ignorante ! Je ne sais point ce qui est permis ou non, au moins.
+
+Oh ! Sur ce pied-là je l'aime beaucoup, et je ne puis me résoudre à le perdre.
+
+Une lettre de sa part, et tu ne m'en disais rien ! Où est-elle ? Oh ! Que j'aurai de plaisir à la lire ! Donne-moi-la donc ! Où est ce domestique ?
+
+Oh ! Dame, c'est encore ma mère qui en est cause. Mais est-ce que je pourrai le voir ? Tu me parles de lui et de sa lettre, et je ne vois ni l'un ni l'autre.
+
+Frontin ne dira-t-il rien à ma mère ?
+
+Donnez.
+Suis-je assez sérieuse ?
+
+Que viens-je d'apprendre ! On dit que vous vous mariez ce soir. Si vous concluez sans me permettre de vous voir, je ne me soucie plus de la vie.
+Il ne se soucie plus de la vie, Lisette !
+Adieu ; j'attends votre réponse, et je me meurs.
+Cette lettre-là me pénètre ; il n'y a point de modération qui tienne, Lisette ; il faut que je lui parle, et je ne veux pas qu'il meure. Allez lui dire qu'il vienne ; on le fera entrer comme on pourra.
+
+Ah ! C'est vous, Eraste ?
+
+Je ne sais ; je suis trop émue pour vous répondre. Levez-vous.
+
+Est-ce que vous n'avez pas entendu ce que j'ai dit ?
+
+Non, non, il vous a paru mieux que cela ; car j'ai dit bien franchement que je vous aime : mais il faut m'excuser, Eraste, car je ne savais pas que vous étiez là.
+
+Moi, fâchée ? Au contraire, je suis bien aise que vous l'ayez appris sans qu'il y ait de ma faute ; je n'aurai plus la peine de vous le cacher.
+
+Mais je crois que vous n'avez pas eu le temps de me dire tout.
+
+Ne lui donneras-tu pas le temps de me résoudre, Lisette ?
+
+Belle personne !
+
+J'entends, ma mère.
+
+Oui, il y a bien de la différence.
+
+Ma mère le dit.
+
+Oui, mais on n'est pas obligé d'user des permissions qu'on a.
+
+Non, ce n'est pas par modestie.
+
+C'est que je suis polie.
+
+Il faut que je me taise encore.
+
+Oh ! Toujours.
+
+Vous embarrassez encore mon savoir-vivre. Seriez-vous bien aise, si je vous disais oui ?
+
+Encore moins, car je mentirais.
+
+Si vous vous en contentez, et moi aussi, et s'il n'est pas malhonnête d'avouer aux gens qu'on ne les aime point, je ne serai plus embarrassée.
+
+Tant qu'il vous plaira.
+
+Oh ! Vous pouvez vous en fier à moi ; je sais mieux cela que ma mère, elle a pu se tromper ; mais, pour moi, je vous dis la vérité.
+
+Oh ! Du tout ; je ne saurais ; et ce n'est pas par malice, c'est naturellement : et vous, qui êtes, à ce qu'on dit, un si honnête homme, si, en faveur de ma sincérité, vous vouliez ne me plus aimer et me laisser là, car aussi bien je ne suis pas si belle que vous le croyez, tenez, vous en trouverez cent qui vaudront mieux que moi.
+
+Ce que vous dites là est bien raisonnable, et je ferai grand cas de vous si vous continuez.
+
+Hélas ! Si vous me l'aviez demandé, je vous l'aurais dit.
+
+Que vous êtes bon et obligeant ! N'allez pourtant pas dire à ma mère que je vous ai confié que je ne vous aime point, parce qu'elle se mettrait en colère contre moi ; mais faites mieux ; dites-lui seulement que vous ne me trouvez pas assez d'esprit pour vous, que je n'ai pas tant de mérite que vous l'aviez cru, comme c'est la vérité ; enfin, que vous avez encore besoin de vous consulter : ma mère, qui est fort fière, ne manquera pas de se choquer, elle rompra tout, notre mariage ne se fera point, et je vous aurai, je vous jure, une obligation infinie.
+
+Moi ! Non ; n'allez pas le croire.
+
+Eh bien ! Doutez-vous-en donc.
+
+Allez, allez, n'ayez point de scrupule, vous parlerez en homme d'honneur.
+
+Mais ne me trahissez-vous point, Monsieur Damis ?
+
+Quel bon caractère ! Oh ! Que je vous aimerais, si vous n'aviez que vingt ans !
+
+Vraiment, oui, il y a quelqu'un qui me plaît...
+Monsieur, je viens de la part de Madame vous dire qu'on vous attend avec Mademoiselle.
+
+Ah ! Ne m'en demandez pas davantage ; puisque vous ne voulez que vous douter que j'aime, en voilà plus qu'il n'en faut pour votre probité, et je vais vous annoncer là-haut.
+
+Moi, Eraste ? Je ne vous fuis point, me voilà.
+
+Eh ! Je n'ai encore dit qu'un mot.
+
+Il faut que vous ayez mal entendu, Eraste : est-ce qu'on méprise les gens qu'on aime ?
+
+Vraiment, ce n'est pas là l'embarras, et je vous le répéterais avec plaisir, mais vous le savez bien assez.
+
+Et d'ailleurs on m'a dit qu'il fallait être plus retenue dans les discours qu'on tient à son amant.
+
+Mais je vais comme le coeur me mène, sans y entendre plus de finesse ; j'ai du plaisir à vous voir, et je vous vois, et s'il y a de ma faute à vous avouer si souvent que je vous aime, je la mets sur votre compte, et je ne veux point y avoir part.
+
+Si ma mère m'avait donné plus d'expérience ; si j'avais été un peu dans le monde, je vous aimerais peut-être sans vous le dire ; je vous ferais languir pour le savoir ; je retiendrais mon coeur, cela n'irait pas si vite, et vous m'auriez déjà dit que je suis une ingrate ; mais je ne saurais la contrefaire. Mettez-vous à ma place ; j'ai tant souffert de contrainte, ma mère m'a rendu la vie si triste ! j'ai eu si peu de satisfaction, elle a tant mortifié mes sentiments ! Je suis si lasse de les cacher, que, lorsque je suis contente, et que je le puis dire, je l'ai déjà dit avant que de savoir que j'ai parlé ; c'est comme quelqu'un qui respire, et imaginez-vous à présent ce que c'est qu'une fille qui a toujours été gênée, qui est avec vous, que vous aimez, qui ne vous hait pas, qui vous aime, qui est franche, qui n'a jamais eu le plaisir de dire ce qu'elle pense, qui ne pensera jamais rien de si touchant, et voyez si je puis résister à tout cela.
+
+Pour moi, je n'ai pas le bonheur d'avoir une mère qui lui ressemble ; je ne l'en aime pourtant pas moins...
+
+Ah ! Je suis perdue !
+
+Puis-je espérer d'obtenir grâce ?
+
+
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Oui, vous voilà fort bien déguisé, et avec cet habit-là, vous disant mon cousin, je crois que vous pouvez paraître ici en toute sûreté ; il n'y a que votre air qui n'est pas trop d'accord avec la livrée.
+
+Je crois que vous devez être content du zèle avec lequel je vous sers : je m'expose à tout, et ce que je fais pour vous n'est pas trop dans l'ordre ; mais vous êtes un honnête homme ; vous aimez ma jeune maîtresse, elle vous aime ; je crois qu'elle sera plus heureuse avec vous qu'avec celui que sa mère lui destine, et cela calme un peu mes scrupules.
+
+Très tendrement, mais voici un domestique de la maison qui vient ; c'est Frontin, qui ne me hait pas, faites bonne contenance.
+
+Avec un de mes parents qui s'appelle La Ramée, et dont le maître, qui est ordinairement en province, est venu ici pour affaire ; et il profite du séjour qu'il y fait pour me voir.
+
+Oui.
+
+Sans doute.
+
+Qu'est-ce que tu veux dire avec ta tournure ?
+
+Il est pourtant nécessaire que je lui parle pour une affaire de famille qui ne te regarde pas.
+
+Il faut prendre son parti. Frontin...
+
+Serais-tu capable de rendre service à un honnête homme, qui t'en récompenserait bien ?
+
+Tu sais à qui Madame marie Angélique, ma maîtresse ?
+
+Tu vois bien que ce mariage-là ne convient point.
+
+Ce n'est qu'à regret qu'Angélique obéit, d'autant plus que le hasard lui a fait connaître un aimable homme qui a touché son coeur.
+
+Tu l'as dit ; c'est cela même.
+
+Eh bien, pendant que la compagnie, avant le souper, sera dans l'appartement de Madame, Monsieur nous attendra dans cette salle-ci, sans lumière pour n'être point vu, et nous y viendrons, Angélique et moi, pour examiner le parti qu'il y aura à prendre.
+
+Pour nous, Frontin, nous ne nous chargeons que de faciliter l'entretien, auquel je serai présente ; mais de ce qu'on y résoudra, nous n'y trempons point, cela ne nous regarde pas.
+
+Comme on ne sait encore qui vous êtes, en cas qu'on vous fît quelques questions, au lieu d'être mon parent, soyez celui de Frontin, et retirez-vous dans sa chambre, qui est à côté de cette salle, et d'où Frontin pourra vous amener, quand il faudra.
+
+Allez tout à l'heure ; car il faut que je prévienne Angélique, qui assurément sera charmée de vous voir, mais qui ne sait pas que vous êtes ici, et à qui je dirai d'abord qu'il y a un domestique dans la chambre de Frontin qui demande à lui parler de votre part : mais sortez, j'entends quelqu'un qui vient.
+
+Non, restez : c'est la mère d'Angélique, elle vous verrait fuir, il vaut mieux que vous demeuriez.
+
+Apparemment qu'elle est dans sa chambre, Madame.
+
+Ah ! Madame, elle n'oserait vous en marquer, quand elle en aurait ; c'est une jeune et timide personne, à qui jusqu'ici son éducation n'a rien appris qu'à obéir.
+
+Je ne dis pas le contraire.
+
+Y peut-on rien connaître ? Vous savez qu'à peine ose-t-elle lever les yeux, tant elle a peur de sortir de cette modestie sévère que vous voulez qu'elle ait ; tout ce que j'en sais, c'est qu'elle est triste.
+
+Eh ! Eh ! Ordinairement, pourtant, une fille qui va se marier est assez gaie.
+
+Cela est singulier.
+
+Pour raisonnable, il a eu le temps de le devenir.
+
+Aimable ! Prenez donc garde, Madame, il a soixante ans, cet homme.
+
+Oh ! S'il n'en est pas question avec Mademoiselle votre fille, il n'y aura guère eu de prodige de cette force-là !
+
+J'entends qu'il faut, le plus qu'on peut, mettre la vertu des gens à son aise, et que celle d'Angélique ne sera pas sans fatigue.
+
+Oh ! Que non, Madame, elle les trouvera bien sans que je m'en mêle.
+
+C'est qu'elle ne sera point de l'humeur dont vous dites, cette humeur-là n'existe nulle part.
+
+On adore mal à son âge.
+
+Ils seront donc bien modestes.
+
+Vous m'interrogez, et je vous réponds sincèrement.
+
+Il n'est pas besoin de l'aller chercher, Madame, la voilà qui passe, et je vous laisse.
+
+Eh bien, Mademoiselle, à quoi en êtes-vous ?
+
+Qu'avez-vous dit à votre mère ?
+
+Vous épouserez donc Monsieur Damis ?
+
+Oui, mais vous n'en serez pas moins sa femme.
+
+Il le mérite bien.
+
+On dit qu'il est au désespoir, Eraste.
+
+Mais avec ces sentiments-là, que ne refusez-vous courageusement Damis ? Il est encore temps ; vous êtes d'une vivacité étonnante avec moi, et vous tremblez devant votre mère. Il faudrait lui dire ce soir : Cet homme-là est trop vieux pour moi ; je ne l'aime point, je le hais, je le haïrai, et je ne saurais l'épouser.
+
+Votre naïveté me fait rire.
+
+Je m'en fie bien à vous.
+
+Ah ! Si elle pouvait vous entendre et jouir du fruit de sa sévérité ! Mais parlons d'autre chose. Vous aimez Eraste ?
+
+C'est un aveu sans conséquence avec moi.
+
+Prenez donc une bonne résolution de n'être pas à un autre. Il y a ici un domestique à lui qui a une lettre à vous rendre de sa part.
+
+Doucement ! Modérez cet empressement-là ; cachez-en du moins une partie à Eraste : si par hasard vous lui parliez, il y aurait du trop.
+
+Tenez, voici ce domestique que Frontin nous amène.
+
+Ne craignez rien, il est dans vos intérêts, et ce domestique passe pour son parent.
+
+Fort bien.
+
+Il a raison ; je crois que quelqu'un vient ; retirez-vous, Madame.
+
+Oui, Frontin et moi nous aurons soin de tout : vous allez vous revoir bientôt ; mais retirez-vous.
+
+Qui est-ce qui entre là ? C'est le valet de Monsieur Damis.
+
+Vous vous trompez ; ne vous déconcertez pas.
+
+Comment, celui d'un autre ! Qu'est-ce que cette folie-là ?
+
+Voilà bien, en effet, des discours d'un butor comme toi, Champagne : est-ce qu'il n'y a pas mille gens qui se ressemblent ?
+
+Tu joues de malheur, car je l'aime.
+
+Une révérence de ma part.
+
+Oui, à qui parles-tu donc là ?
+
+Parle bas ; avec Eraste que je fais entrer dans la salle.
+
+Adieu ; dans un moment je reviens avec ma maîtresse.
+
+Nous voici, Monsieur.
+
+En effet, rêvez-vous, Monsieur ?
+
+
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+Il n'y a rien à craindre ; je n'ai pas même, en entrant, fait mention de notre parenté. J'ai dit que je voulais te parler, et l'on m'a répondu que je te trouverais ici, sans m'en demander davantage.
+
+Elle m'aime, dis-tu ? Lisette, puis-je me flatter d'un si grand bonheur ? Moi qui ne l'ai vue qu'en passant dans nos promenades, qui ne lui ai prouvé mon amour que par mes regards, et qui n'ai pu lui parler que deux fois pendant que sa mère s'écartait avec d'autres dames ! Elle m'aime ?
+
+Et pourquoi pensez-vous qu'elle vous trompe ?
+
+Oui, mon enfant, c'est moi.
+
+Rien que favoriser une entrevue que Lisette va me procurer ce soir, et tu seras content de moi.
+
+Ce serait un parti bien extrême.
+
+Ne vous inquiétez de rien, je n'ai point envie d'enlever Angélique, et je ne veux que l'exciter à refuser l'époux qu'on lui destine : mais la nuit s'approche, où me retirerai-je en attendant le moment où je verrai Angélique ?
+
+Chez un officier du régiment du Roi, Madame.
+
+Vous ne voulez point que je meure, et vous vous mariez, Angélique !
+
+À quoi vous déterminez-vous donc ?
+
+Mon désespoir vous touchera-t-il ?
+
+Il m'a paru que vous m'aimiez un peu.
+
+Est-ce que vous seriez fâchée de ce qui vous est échappé ?
+
+Hélas ! Madame, je n'ai encore fait que vous voir et j'ai besoin d'un entretien pour vous résoudre à me sauver la vie.
+
+Eh ! d'où le connaissez-vous ? C'est le valet de mon père, et non pas de Monsieur Damis qui m'est inconnu.
+
+Vous importe-t-il de savoir que je m'appelle La Ramée ?
+
+Pourquoi ? La belle question ! Parce que je n'en ai pas reçu d'autre. Adieu, Lisette ; le début de ce butor-là m'ennuie.
+
+Me voilà.
+
+Je ne saurais douter qu'Angélique ne m'aime ; mais sa timidité m'inquiète, et je crains de ne pouvoir l'enhardir à dédire sa mère.
+
+Tâchons de ne pas faire de bruit.
+
+J'entends remuer du taffetas ; est-ce vous, Angélique, est-ce vous ?
+
+Ah ! C'est vous-même.
+
+Eh bien ! Angélique, me condamnerez-vous à mourir de douleur ? Vous m'avez dit tantôt que vous m'aimiez ; vos beaux yeux me l'ont confirmé par les regards les plus aimables et les plus tendres ; mais de quoi me servira d'être aimé, si je vous perds ? Au nom de notre amour, Angélique, puisque vous m'avez permis de me flatter du vôtre, gardez-vous à ma tendresse, je vous en conjure par ces charmes que le ciel semble n'avoir destinés que pour moi ; par cette main adorable sur qui je vous jure un amour éternel.
+Ne la retirez pas, Angélique, et dédommagez Eraste du plaisir qu'il n'a point de voir vos beaux yeux, par l'assurance de n'être jamais qu'à lui ; parlez, Angélique.
+
+Juste ciel ! Qu'entends-je ? Vous me fuyez ! Ah ! Lisette, n'es-tu pas là ?
+
+Je suis au désespoir, ta maîtresse me fuit.
+
+Eh quoi ! Ne venez-vous pas de me dire tout ce qu'il y a de plus cruel ?
+
+Il est vrai, mais il m'a marqué le dernier mépris.
+
+Je n'y comprends donc rien ; mais vous me rassurez, puisque vous me dites que vous m'aimez ; daignez me le répéter encore.  
+
+
+Quelle aimable franchise !
+
+Que vous me charmez !
+
+Oui, ma joie, à ce que j'entends là, va jusqu'au transport ! Mais il s'agit de nos affaires : j'ai le bonheur d'avoir un père raisonnable, à qui je suis aussi cher qu'il me l'est à moi-même, et qui, j'espère, entrera volontiers dans nos vues.
+
+Que je vous ai d'obligation, mon père ! Nous pardonnerez-vous, Madame, tout ce qui vient de se passer ?
+
+
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frontin
+
+Ah ! Te voilà, Lisette. Avec qui es-tu donc là ?
+
+Un de tes parents, dis-tu ?
+
+C'est-à-dire un cousin ?
+
+Hum ! Il a l'air d'un cousin de bien loin : il n'a point la tournure d'un parent, ce garçon-là.
+
+Je veux dire que ce n'est, par ma foi, que de la fausse monnaie que tu me donnes, et que si le diable emportait ton cousin il ne t'en resterait pas un parent de moins.
+
+Hum ! Quelle physionomie de fripon ! MonsIEUR de La Ramée, je vous avertis que j'aime Lisette, et que je veux l'épouser tout seul.
+
+Oh ! Parbleu ! Que les secrets de ta famille s'accommodent, moi, je reste.
+
+Après ?
+
+Honnête homme ou non, son honneur est de trop, dès qu'il récompense.
+
+Oui, je pense que c'est à peu près soixante ans qui en épousent dix-sept.
+
+Oui : il menace la stérilité, les héritiers en seront nuls, ou auxiliaires.
+
+Le cousin La Ramée pourrait bien nous venir de là.
+
+Eh ! Que ne le disiez-vous ? En ce cas-là, je vous pardonne votre figure, et je suis tout à vous. Voyons, que faut-il faire ?
+
+Je le crois, mais qu'espérez-vous de cette entrevue ? Car on signe le contrat ce soir.
+
+Ce n'est pas de l'entretien dont je doute : mais à quoi aboutira-t-il ? Angélique est une Agnès élevée dans la plus sévère contrainte, et qui, malgré son penchant pour vous, n'aura que des regrets, des larmes et de la frayeur à vous donner : est-ce que vous avez dessein de l'enlever ?
+
+Et dont l'extrémité ne vous ferait pas grand-peur, n'est-il pas vrai ?
+
+Oh ! Si fait, cela nous regarderait un peu, si cette petite conversation nocturne que nous leur ménageons dans la salle était découverte ; d'autant plus qu'une des portes de la salle aboutit au jardin, que du jardin on va à une petite porte qui rend dans la rue, et qu'à cause de la salle où nous les mettrons, nous répondrons de toutes ces petites portes-là, qui sont de notre connaissance. Mais tout coup vaille ; pour se mettre à son aise, il faut quelquefois risquer son honneur, il s'agit d'ailleurs d'une jeune victime qu'on veut sacrifier, et je crois qu'il est généreux d'avoir part à sa délivrance, sans s'embarrasser de quelle façon elle s'opérera : Monsieur payera bien, cela grossira ta dot, et nous ferons une action qui joindra l'utile au louable.
+
+Oui-da, Monsieur, disposez de mon appartement.
+
+Allons, cousin, sauvons-nous.
+
+Madame, c'est un garçon de condition, comme vous voyez, qui m'est venu voir, et à qui je m'intéresse parce que nous sommes fils des deux frères ; il n'est pas content de son maître, ils se sont brouillés ensemble, et il vient me demander si je ne sais pas quelque maison dont il pût s'accommoder...
+
+Le valet de Monsieur Eraste vous apporte une lettre que voici, Madame.
+
+Prenez garde qu'on ne vous surprenne.
+
+Je voudrais bien savoir à qui tu en as ! Est-ce qu'il n'est pas permis à mon cousin La Ramée d'avoir son visage ?
+
+C'est peut-être une physionomie à la mode, et La Ramée en aura pris une.
+
+Halte-là ! Laisse ce minois-là en repos ; ton éloge le déshonore.
+
+Paix ! vous dis-je ; car je l'aime.
+
+Des injures de la mienne, et quelques coups de poing, si tu veux.
+
+Volontiers, Monsieur ; mais on est impatient de vous voir.
+
+Eh ! J'ai des jours où je n'en manque pas,
+
+Vous marchandez ma fidélité ; mais je suis dans mon jour d'esprit, il n'y a rien à faire, je sens combien il faut être discret.
+
+Arrêtez donc, Monsieur, ces débuts-là m'attendrissent toujours.
+
+Quel embonpoint séduisant ! Qu'il a l'air vainqueur !
+
+Je résisterais à ce que vous dites, mais ce que vous tenez m'entraîne, et je me rends.
+
+Vous me demandez un détail que j'ignore ; il n'y a que Lisette qui soit parfaitement instruite dans cette intrigue-là.
+
+Prenez garde, vous ne sauriez la condamner sans me faire mon procès. Je viens de céder à un trait d'éloquence qu'on aura peut-être employé contre elle ; au reste je ne connais le jeune homme en question que depuis une heure ; il est actuellement dans ma chambre ; Lisette en a fait mon parent, et dans quelques moments, elle doit l'introduire ici même où je suis chargé d'éteindre les bougies, et où elle doit arriver avec Angélique pour y traiter ensemble des moyens de rompre votre mariage.
+
+Comment ?
+
+Vous avez raison ; attendez, quelques amis de la maison qui sont là-haut, et qui veulent se déguiser après souper pour se divertir, ont fait apporter des dominos qu'on a mis dans le petit cabinet à côté de la salle, voulez-vous que je vous en donne un ?
+
+Je cours vous le chercher, car l'heure approche.
+
+Tenez, Monsieur, voilà tout votre attirail, jusqu'à un masque : c'est un visage qui ne vous donnera que dix-huit ans, vous ne perdrez rien au change ; ajustez-vous vite ; bon ! Mettez-vous là et ne remuez pas ; voilà les lumières éteintes, bonsoir.
+
+Mais vous prenez donc cette commission-là à crédit ?
+
+Soit. Je sors... J'ai de la peine à trouver mon chemin ; mais j'entends quelqu'un...
+
+Est-ce toi, Lisette ?
+
+À la nuit, qui m'empêchait de retrouver la porte. Avec qui es-tu, toi ?
+
+Bon ! Où est-il ?
+La Ramée !
+
+Tenez, Monsieur, marchez et promenez-vous du mieux que vous pourrez en attendant.
+
+
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
+Bonsoir, la jolie fille, bonsoir, Messieurs ; je viens attendre ici mon maître qui m'envoie dire qu'il va venir ; et je suis charmé d'une rencontre...
+Mais comment appelez-vous Monsieur ?
+
+La Ramée ? Et pourquoi est-ce que vous portez ce visage-là ?
+
+Je veux bien que Monsieur La Ramée en ait un ; mais il ne lui est pas permis de se servir de celui d'un autre.
+
+Oui, celui d'un autre : en un mot, cette mine-là ne lui appartient point ; elle n'est point à sa place ordinaire, ou bien j'ai vu la pareille à quelqu'un que je connais.
+
+Cela est vrai ; mais qu'il appartienne à ce qu'il voudra, je ne m'en soucie guère ; chacun a le sien ; il n'y a que vous, Mademoiselle Lisette, qui n'avez celui de personne, car vous êtes plus jolie que tout le monde : il n'y a rien de si aimable que vous.
+
+Ah ! Monsieur Frontin, ce que j'en dis, c'est en cas que vous n'aimiez pas Lisette, comme cela peut arriver ; car chacun n'est pas du même goût.
+
+Et vous, Mademoiselle Lisette ?
+
+Je l'aime, partout je l'aime ! Il n'y aura donc rien pour moi ?
+
+Ah ! N'ai-je pas fait là une belle fortune ?
+
+Oui, Monsieur ; on vient de m'apprendre qu'il n'y a rien pour moi, et ma part ne me donne pas une bonne opinion de la vôtre.
+
+C'est que Lisette ne veut point de moi, et outre cela j'ai vu la physionomie de Monsieur votre fils sur le visage d'un valet.
+

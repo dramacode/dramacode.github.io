@@ -1,1264 +1,35 @@
 
 
-**** *book_ *id_I01 *act_I
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sifroy
 
--*who_genevieve
-Quittons, cher Bénoni, des demeures si sombres.
-Tirons ton innocence et ma foi de leurs ombres.
-
--*who_benoni
-Mais dites-moi, Madame, où me conduisez-vous ?
-
--*who_genevieve
-Hors de ces bois, mon fils, chercher un sort plus doux,
-Qui me rendant l'honneur, rende à ton innocence,
-Les droits avantageux d'une illustre naissance.
-
--*who_benoni
-Où pourrons-nous trouver si nous quittons ces lieux,
-Un sort qui soit plus doux et plus délicieux,
-Puisque leur sainte horreur à l'innocence même
-Mérite dans le Ciel le droit d'un diadème.
-
--*who_genevieve
-Si Dieu par tant de maux est las de l'éprouver,
-Sans perdre un si beau droit nous le pourrons trouver,
-Et ce sort finissant notre longue misère,
-Me peut rendre un époux et te donner un père.
-
--*who_benoni
-Madame, excusez-moi, je ne le comprends pas,
-Mon père pourrait-il être encore ici-bas ?
-Et ne m'avez-vous pas appris dans mes prières
-Qu'il demeurait là-haut au milieu des lumières.
-
--*who_genevieve
-Il est vrai, mon mignon, qu'il en fait son palais,
-Que c'est dans ce séjour d'innocence et de paix
-Où ce dieu qui nous sert de Père en nos désastres
-Prépare à ses enfants des trésors sur les Astres ;
-Que c'est sur ces cristaux et ces voûtes d'azur,
-Où les Astres brillants rendent un feu si pur,
-Que ceux qui l'ont aimé marchant sur les étoiles
-Contemplent ces beautés sans nuages et sans voiles.
-Mais de tous les mortels étant père commun
-Il laisse encore le sien sur la terre à chacun.
-
--*who_benoni
-Vous me déclarez là des choses bien étranges,
-Est-il quelqu'un au monde, hormis nous et nos Anges ?
-
--*who_genevieve
-Oui, mon fils, il en est, et nos plus grands déserts
-Ne sont qu'un petit coin de ce vaste Univers,
-Ce n'est rien à l'égard du reste de la terre
-Que le Ciel que tu vois sous sa rondeur resserre,
-Et dont tous les vallons et les riches coteaux
-Font ombre à des maisons, ou portent des châteaux ;
-D'où l'on voit fourmiller de tous côtés des hommes
-Qui vivent comme nous étant ce que nous sommes,
-Et selon le chemin qu'un chacun a battu
-Ayant suivi le vice ou suivi la vertu,
-Reçoit après la mort de la prompte Justice,
-Des prix pour la vertu, des peines pour le vice.
-Cet aimable inconnu, dont tu portes le sang,
-Parmi ceux que je dis, tiens un illustre rang.
-
--*who_benoni
-Où demeure-t-il donc, et quel sort nous sépare ?
-
--*who_genevieve
-Puisqu'il est temps, mon fils, que je te le déclare,
-Et qu'un rayon du ciel a prévenu tes ans,
-Pour ouvrir ton esprit à ces ressentiments,
-Pour déplorer ton sort commence à te connaître ;
-D'un père assez heureux, le Ciel t'avait fait naître,
-Si prenant un soupçon funeste à mon honneur,
-Lui-même n'eût détruit d'abord tout son bonheur.
-Du plus noir des péchés il soupçonna ta mère,
-Et te crut, mon cher fils, le fruit d'un adultère.
-
--*who_benoni
-Je mérite donc bien de vivre misérable
-Puisqu'en naissant je fis que l'on vous crut coupable.
-
--*who_genevieve
-Mais puisque ma beauté te causa ce malheur,
-Moi seule j'en devais ressentir la douleur.
-Il nous condamna donc de perdre ici la vie,
-De la mienne ta mort devait être suivie,
-Si ceux dont notre sang devait souiller les mains
-N'eussent pris dans ces bois des sentiments humains ;
-Car voici, Bénoni, l'endroit où l'injustice
-À ce jaloux soupçon eût fait le sacrifice,
-Si ce sacré silence, et cette sainte horreur
-Par un secret instinct n'eût charmé leur fureur,
-Ces bourreaux un moment de mort nous pardonnèrent,
-Mais à de longs tourments ils nous abandonnèrent,
-Que dans ce triste état, en ces affreux déserts,
-Sans secours que du Ciel j'ai du depuis soufferts.
-
--*who_benoni
-Allons à leur auteur en faire le reproche,
-Dites-moi seulement s'il demeure bien proche.
-
--*who_genevieve
-Que trop, mon cher mignon, regarde seulement
-Ce qui s'offre à tes yeux dans cet éloignement,
-Y vois-tu ce Château qui sur une colline
-Commande avec orgueil la campagne voisine.
-C'est là que cet auteur de nos maux tient sa Cour,
-Ce fut là que tu vis premièrement le jour.
-C'est là que de nos maux je veux l'aller instruire,
-Et c'est là qu'aujourd'hui je te veux reconduire.
-Sortons donc, mon cher fils, de ces vastes forêts,
-Où nos biens sont trop lents et nos maux trop secrets.
-De cette solitude en souffrance féconde
-Une seconde fois je te veux mettre au monde,
-À ce père inconnu je te veux présenter
-Pour gages de ma foi dont il osa douter.
-
--*who_benoni
-Marchons donc au plutôt, mes pleurs et mes caresses,
-Pour le persuader n'auront que trop d'adresses.
-
--*who_genevieve
-Non, mon fils, ce dessein serait trop hasardeux,
-Si sur la même route on nous voyait tous deux :
-Il vaut mieux te cacher dans ce bois pour m'attendre,
-Ayant sondé ce gué je viendrai te reprendre.
-
--*who_benoni
-Quoi donc me voulez-vous abandonner ainsi ?
-
--*who_genevieve
-Je laisse avecque toi tous mes amours ici ;
-Je t'y viendrai quérir, ce baiser t'en assure ;
-Cache-toi seulement dans cette grotte obscure.
-Avant que le Soleil ait terminé le jour,
-Je te promets, mon fils, d'être ici de retour.
-
--*who_benoni
-Ah vous dois-je quitter ?
-
--*who_genevieve
-      Veux-tu donc que je reste ?
-
--*who_benoni
-Non. Mais je crains pour vous cette maison funeste.
-
--*who_genevieve
-Va, mon fils, ne crains rien.
-
--*who_benoni
-      Revenez dons bientôt.
-
-**** *book_ *id_I02 *act_I
-
--*who_genevieve
-C'est en vos mains, Seigneur, que je mets ce dépôt,
-Je le laisse en ces bois sous votre sainte garde,
-Pendant qu'en ce Château pour lui je me hasarde,
-Que si je dois périr, Arbitre de nos jours
-Vous le pourrez sauver, par quelque autre secours,
-Et vous, chers confidents de mes inquiétudes
-Rochers, arbres, ruisseaux, aimables solitudes
-Dont les charmes secrets en flattant ma douleur
-N'ont fait que prolonger ma peine et mon malheur,
-Puisqu'un si beau dessein m'a jusqu'ici conduite,
-Pour me rendre à Sifroy souffrez que je vous quitte,
-Et que pour voir la fin d'un si funeste sort,
-J'aille chez lui chercher ou ma grâce ou ma mort.
-Il est vrai, chers déserts, que je vous dois la vie
-Qu'une jalouse humeur m'avait presque ravie,
-Il est vrai, chers déserts, que je trouvai chez vous,
-Ce que je n'avais pu dans l'esprit d'un Époux.
-Vous permîtes au moins que je vous informasse
-Et n'apprîtes mes maux que pour me faire grâce ;
-Mais souffrez que je l'aille au moins désabuser,
-De ce que l'Enfer seule a pu me supposer ;
-Ah ! Que me dites-vous pas ces secrets reproches
-Que me font là-dessus vos arbres et vos roches.
-Hélas ! Me dites-vous, une seconde flamme
-A déjà fait mourir la tienne dans son âme
-Cieux ! Aurait-il été si traître à l'amitié,
-Qu'il aura dû garder à sa chère moitié ?
-Non, il aura voulu se conserver la gloire
-D'avoir du moins été fidèle à ma mémoire.
-Soupçons, craintes, désirs, que voulez-vous de moi,
-Que dois-je me promettre ou craindre de Sifroy ?
-Quoi qu'il en soit, cherchons chez lui notre refuge,
-S'il n'est plus mon Époux, il doit être mon Juge.
-Allons finir la vie en ces funestes tours
-Où furent éclipsés les plus beaux de mes jours,
-Ne pouvant autrement prouver mon innocence,
-Je la puis hasarder pour sa propre défense ;
-Mais hélas ! Mon Sifroy saura-t-il qui je suis,
-Dans ce grand changement qu'ont causé mes ennuis ?
-S'il ne me connaît plus, ce qui me défigure,
-Lui fera de mes maux la naïve peinture,
-Ces traits tout émoussés, ces yeux tout languissants,
-Pour lui percer le coeur en seront plus puissants.
-
-**** *book_ *id_I03 *act_I
-
--*who_orismond
-Geneviève ?
-
--*who_genevieve
-      D'où vient cette voix qui m'appelle ?
-
--*who_orismond
-Ma chère fille.
-
--*who_genevieve
-      Ô Dieu ! C'est ce vieillard fidèle
-Dont le soin m'éleva pendant mes premiers ans.
-
--*who_orismond
-Épargne les ennuis, qui depuis si longtemps
-Me font en vain chercher en des lieux si funestes,
-De ton corps déchiré les pitoyables restes,
-Et me montre l'endroit qui nous cache tes os,
-Pour leur rendre l'honneur avecque le repos ;
-Ou si de cet honneur tu méprises la gloire,
-Au moins dans mon esprit viens purger ta mémoire
-Et me tirer du doute où ta mort m'a laissé
-Que ton coeur n'ait été d'un sale amour blessé.
-
--*who_genevieve
-Et bien pour me purger de cette calomnie
-Je viens représenter mon innocente vie ;
-Quoi, sur un faux rapport vous en avez douté ?
-
--*who_orismond
-Ah ! Chère ombre, j'ai tort de l'avoir écouté.
-
--*who_genevieve
-Quoique de ma beauté je ne suis plus qu'une ombre,
-Je n'ai pas pour cela des morts accru le nombre.
-Je vis, cher Orismond, et je garde à Sifroy
-Dans ce corps survivant des marques de ma foi.
-
--*who_orismond
-Vous vivez !
-
--*who_genevieve
-      Oui pourvu que Sifroy soit en vie.
-
--*who_orismond
-Il vit dans le regret de vous l'avoir ravie.
-
--*who_genevieve
-Il pense donc à moi ?
-
--*who_orismond
-      C'est de ce souvenir
-Que son amour constant aime à s'entretenir ;
-Jamais un autre objet n'a pu prendre sa place,
-Jamais le sommeil même aucun trait n'en efface,
-Il en fait son plaisir, il en fait son tourment,
-Et cessant d'être époux il redevient amant.
-Mais quel Dieu vous sauva d'une mort si certaine ?
-
--*who_genevieve
-Celui dont l'équité n'approuvait pas ma peine.
-Déjà deux assassins avaient le fer en main,
-Pour immoler ici mon cher fils sur mon sein,
-Quand touchés de mes pleurs et de mon innocence,
-Ils eurent de l'horreur de cette violence,
-Mais de peur qu'on ne vint à les en rechercher
-Dans le fonds de ces bois ils nous firent cacher.
-
--*who_orismond
-De quoi donc ces forêts du tout abandonnées
-Ont-elles pu depuis vous nourrir sept années ?
-
--*who_genevieve
-Il est vrai que d'abord j'eus beaucoup à souffrir,
-Et je crus mille fois m'y voir bientôt mourir,
-Il n'est point de rucher qui ne reçut mes plaintes,
-Et qui n'en témoignât de sensibles atteintes.
-Il n'est point de ruisseau que n'enflassent mes pleurs,
-Et qui ne murmurât alors de mes malheurs,
-La terre, les rochers, les buissons et les arbres,
-Pour les éterniser m'y serviront de marbre.
-Mais Dieu me fit bientôt changer de sentiment,
-Faisant mon Paradis de mon bannissement.
-
--*who_orismond
-N'ayant point d'entretien que des bêtes sauvages,
-Se voir à tout moment exposée à leur rage,
-N'entendre que leurs cris et que leurs hurlements,
-Vraiment ce Paradis n'est pas des plus charmants.
-
--*who_genevieve
-Vous faites bien valoir ce que la solitude
-Aux âmes du commun paraît avoir de rude.
-Mais vous ne savez pas les secrètes douceurs
-Dont le Ciel prend plaisir d'y consoler les coeurs ;
-La Mère du Sauveur, qui par mille merveilles
-Fait ressentir partout ses bontés sans pareilles,
-Vint m'assurer d'abord que ses aimables soins
-Ne nous manqueraient pas dans nos plus grands besoins :
-Et dès lors de ces soins un effet admirable
-Fit voir qu'elle serait à nos maux favorable :
-Comme je pensais voir mon pauvre fils mourir
-N'étant plus en état de le pouvoir nourrir,
-Une biche s'offrit pour être sa nourrice,
-Et continue encor ce charitable office ;
-Dans nos autres besoins les tigres et les ours
-Nous vinrent présenter leurs innocents secours,
-Et dès les froides nuits pour soulager nos peines
-Ils viennent échauffer nos corps de leurs haleines ;
-Les loups après avoir égorgé quelque agneau
-Pour habiller mon fils, m'en présenter la peau ;
-La terre à notre faim nous fournit ses racines
-Et nous donne des fruits jusques sur les épines ;
-Que dirai-je, Orismond, des célestes plaisirs
-Dont Dieu par ses bontés a comblé nos désirs ?
-Mais jusqu'à mes habits conservés par miracle
-Me font de ses bontés un illustre spectacle.
-
--*who_orismond
-Ah ! Que tout ce discours m'a doucement charmé,
-Et que Dieu dans nos maux mérite d'être aimé.
-Mais dites-moi comment et par quelle imposture,
-Golo vous suscita cette sanglante injure ?
-
--*who_genevieve
-Le traître par ma mort, secrète et sans éclat,
-Crut étouffer enfin son étrange attentat.
-Vous vous souvenez bien comme au bruit des alarmes
-Que causèrent chez nous les Sarrasins en armes,
-Le Comte se sevrant des premières douceurs,
-Dont un nouvel hymen nourrissait nos deux coeurs,
-Courut pour avoir part à la belle victoire,
-Que Charles remporta sur les bords de la Loire,
-Cet adieu me jetant dans de grandes douleurs
-Il me laissa Golo pour essuyer mes pleurs :
-Golo qui dès ce temps avait sa confidence,
-De toute la maison avait seul l'intendance,
-Cet homme n'omet rien pour s'en bien acquitter,
-Il n'épargne aucun soin dont il put me flatter ;
-Mais je ne sais comment cette malheureuse âme,
-Jusqu'auprès de mes pleurs prit une injuste flamme.
-
--*who_orismond
-Le perfide osa-t-il entretenir ses feux ?
-
--*who_genevieve
-Il fit plus, il osa me déclarer ses voeux,
-Il fit parler d'abord parler les soupirs et les larmes,
-Il fit ensuite agir et la fourbe et les charmes ;
-Mais un des Officiers qu'il pensait suborner,
-Pour un philtre amoureux qu'il me voulait donner,
-M'ayant secrètement découvert cette flamme,
-À nous perdre tous deux engagea cet infâme ;
-Comme je l'en aimai sur tous mes Officiers,
-Ce traître s'en piquât par des soupçons grossiers,
-Fit croire que le fruit d'un hymen légitime,
-Qui parut en ce temps, était celui d'un crime.
-Ce fut sur ces soupçons, et sur ce faux rapport,
-Que le Comte trompé consentit à ma mort.
-
--*who_orismond
-Quoi sans vous écouter dedans votre défense,
-Sans écouter l'amour, non plus que l'innocence !
-
--*who_genevieve
-Sans blâmer son amour, accuse son erreur,
-Ou plaignant ma disgrâce, excuse sa fureur.
-
--*who_orismond
-Quoi vous sacrifier aux seuls avis d'un traître ?
-
--*who_genevieve
-S'il fut mauvais époux, c'est qu'il fut trop bon maître.
-
-**** *book_ *id_I04 *act_I
-
--*who_orismond
-Dieu ! Que vois-je, Madame, est-ce là votre fils ?
-
--*who_genevieve
-C'est lui-même, Orismond, votre abord l'a surpris ;
-Approchez, mon mignon ; dans ces bois où nous sommes,
-Depuis qu'il se connaît il n'a vu que vous d'hommes.
-
--*who_orismond
-Ah l'aimable innocent !
-
--*who_benoni
-      Madame, est-ce celui
-Qui doit dans ce Château nous conduire aujourd'hui ?
-
--*who_genevieve
-Non pas encor, mon fils.
-
--*who_benoni
-      Je me lassais d'attendre.
-
--*who_genevieve
-T'avais-je pas promis de venir te reprendre ?
-
--*who_benoni
-Il est vrai, mais au bruit confus de vos deux voix,
-La curiosité m'a fait sortir du bois.
-Il l'excusera bien.
-
--*who_orismond
-      Que l'esprit et la mine
-Marquent sur lui de traits de sa noble origine.
-Je l'excuse, mon fils, et je plains seulement
-Le sort qui vous retient dans cet éloignement.
-
--*who_benoni
-Si vous plaignez si fort notre longue misère,
-Vous en pouvez tirer et le fils et la mère.
-Conduisez seulement vers ce Château nos pas.
-
--*who_orismond
-Si vous craignez la mort, ah n'en approchez pas,
-Il y loge à l'entrée une bête sauvage.
-
--*who_benoni
-En est-il dont je doive appréhender la rage ?
-Ces bois n'en cachent point dans leur plus sombre horreur,
-Dont ma voix n'ait calmé jusqu'ici la fureur.
-
--*who_orismond
-Celle dont je vous parle est encore plus à craindre.
-
--*who_genevieve
-Hé ! Que tant d'innocence et de maux sont à plaindre,
-Que si tu le voyais, infortuné Sifroy,
-Pourrais-tu bien le perdre et douter de ma foi ?
-
--*who_benoni
-Mon père loge-là, je veux l'aller connaître.
-
--*who_orismond
-D'un père si barbare hélas devais-tu naître ?
-Savez-vous bien, mon fils, ce que vous demandez ?
-
--*who_benoni
-Vous le savez bien mieux, Madame, répondez.
-
--*who_genevieve
-Puisqu'il en a tant dit, il faut que je confesse,
-Un dessein que j'ai pris de ma seule faiblesse,
-Enfin sous tant de maux mon courage abattu,
-Ne trouvant plus d'appuis sur sa propre vertu,
-M'avait fait lâchement abandonner la place,
-Pour chercher hors des bois ou ma mort ou ma grâce.
-C'est là ce que j'allais moi-même demander,
-À celui qui me doit l'un ou l'autre accorder.
-
--*who_orismond
-Vous prenez à vos maux un dangereux remède,
-Savez-vous que Golo de tous côtés l'obsède ?
-Vous aurait-il manqué une seconde fois ?
-
--*who_genevieve
-J'aurais trouvé la mort qui me suit dans ces bois.
-
--*who_benoni
-Et vous m'eussiez laissé seul, à ces maux survivre ?
-
--*who_genevieve
-Je t'avais enseigné le chemin de me suivre.
-
--*who_benoni
-Vous nous engagiez donc tous deux dans ce trépas.
-
--*who_genevieve
-Je t'avais laissé libre en ne t'y menant pas.
-
--*who_orismond
-Ah ! Madame, quittez un dessein si funeste.
-
--*who_genevieve
-Pour sortir de mes maux, c'est le seul qui me reste.
-
--*who_orismond
-Je veux vous en donner un moyen bien plus doux.
-Laissez-moi ménager l'esprit de votre Époux,
-Et si j'y reconnais pour vous quelque assurance,
-Vous lui ferez alors parler votre Innocence.
-
--*who_benoni
-Rentrons dans nos déserts et fuyons ces maisons,
-Madame, elles ne sont que de belles prisons ;
-De ces Châteaux affreux fuyons les cruels hôtes,
-Allons entretenir des Anges dans nos grottes,
-Nous y vivons au moins avecque liberté,
-Nous y goûtons les biens dans leur naïveté.
-Le Ciel à découvert dans nos plus grands désastres,
-Nous laisse entretenir commerce avec les Astres,
-Vivons dans la douceur et la paix de ces lieux,
-Qui nous font sur la terre une image des Cieux.
-
--*who_genevieve
-J'approuve, mon cher fils, ce que le Ciel t'inspire ;
-C'est du même côté que la Grâce m'attire.
-Adieu donc, Orismond, auprès de cet Époux,
-Fais tout ce que le Ciel t'inspirera pour nous ;
-Nous allons cependant reprendre cette route.
-
--*who_orismond
-De ma fidélité vous avez quelque doute ?
-
--*who_genevieve
-Non certes, Orismond, mais c'est que je ressens,
-Vers des lieux si sacrés des attraits trop puissants.
-Aimable solitude où Dieu me tient captive,
-Ne me recevez pas comme une fugitive,
-Mais si lamais pour moi vous eûtes des appas,
-Pour flatter mon retour ne les épargnez pas.
-Et toi que j'aime plus que je ne crains ta haine,
-Objet de mes regrets et cause de ma peine :
-Sifroy, vis si tu peux content sans ta moitié
-Et ne sens de mes maux pas même la pitié,
-Pour éviter ma mort qui chez toi me menace
-Je vais dans ces forêts chercher encore ma grâce,
-Et je vais raconter à ces lieux pleins d'effroi
-Ce que je n'ose pas confier à ta foi. .
-
--*who_orismond
-Que ne choisissez-vous chez moi votre retraite ?
-
--*who_genevieve
-Sept ans à celle-ci m'ont déjà toute faite.
-
--*who_orismond
-Si j'ai quelque nouvelle à vous faire savoir,
-Marquez-moi quelque endroit où je vous pourrai voir.
-
--*who_genevieve
-Voyez-vous ce ruisseau qui sort de cette source,
-Après que vous aurez longtemps suivi sa course,
-Vous le verrez enfin coupé d'un grand rocher,
-C'est dessus son sommet qu'il me faudra chercher.
-Mais je veux, Orismond, vous laisser quelque gage,
-Où Sifroy de mes maux puisse voir une image.
-
--*who_orismond
-Comment ?
-
--*who_genevieve
-      Me pourriez-vous prêter quelque crayon,
-Je vois dans mon esprit naître un petit rayon,
-Qui des jours plus sereins semble à mon coeur promettre.
-
--*who_orismond
-Quel dessein prenez-vous ?
-
--*who_genevieve
-      Voyez-vous cette lettre ?
-C'est la dernière, hélas ! Que m'écrivit Sifroy,
-Et ce qui m'est resté des gages de sa foi,
-Mais gages trop légers dont la seule écriture
-Remet devant mes yeux combien il fut parjure,
-Lorsque me promettant que bientôt de retour
-Il viendrait recueillir le fruit de notre amour.
-Je lui veux envoyer afin qu'elle le confonde,
-Et que de mon amour son gage lui réponde,
-Je veux que ce crayon pour aider mon dessein
-Ajoute seulement quelques mots de ma main.
-
--*who_orismond
-En quelle qualité lui pensez-vous écrire ?
-
--*who_genevieve
-Celle que je prendrai ne me pourra pas nuire,
-Je veux faire passer mon ombre seulement
-Comme errante en ces bois faute de monument,
-Et dans ce triste état lui demander justice
-Du crime que Golo cacha dans mon supplice.
-
--*who_orismond
-D'un dessein si bien pris Dieu sans doute est Auteur,
-Et moi-même à Sifroy j'en veux être porteur,
-Votre ombre éclaircira les regrets de son âme
-Et donnera du jour et de l'air à sa flamme.
-
--*who_genevieve
-Écoutez Orismond en quels termes j'écris,
-Et jugez si Sifroy n'en sera pas surpris.
-Du fond de ces demeures sombres
-Où j'erre encore parmi les ombres,
-Souffre que mon esprit vienne jusqu'en ce lieu
-Pour reprocher au tien cette sanglante injure
-Qui me laisse sans sépulture ;
-Et demander justice en te disant adieu.
-
--*who_orismond
-Rien ne se peut de mieux, l'intrigue est bien conduite ;
-À ce commencement accommodez la suite,
-Tout le feu de Sifroy sans doute éclatera,
-Et je ne sais pas où Golo l'évitera,
-Mais ne l'oubliez pas, et contre son outrage
-Faites un peu valoir ce rare témoignage :
-Ses crimes ont été trop longtemps impunis.
-
--*who_genevieve
-Écoutez-en la suite et comme je finis.
-Il ne m'est resté qu'une chose
-Dont le Ciel veut que je dispose
-C'est mon coeur, cher Époux, qui fut toujours à toi.
-Je t'en fais héritier même après mon supplice,
-Et croirais faire une injustice
-De souffrir que la mort l'enlevât à Sifroy.
-Puisque chez toi mon innocence
-N'a pu trouver autre défense,
-Ces lignes te pourront convaincre de ma foi
-Et te témoigneront que celui qui m'opprime
-Ne m'a supposé ce grand crime
-Que pour cacher le sien et s'en venger sur moi.
-
--*who_orismond
-Que ne le nommez-vous ?
-
--*who_genevieve
-      Je veux exprès le taire,
-Et que Sifroy lui-même explique ce mystère.
-
--*who_benoni
-Vous ne lui dites rien du pauvre Bénoni.
-
--*who_genevieve
-Ton sort, mon cher enfant, est au mien trop uni
-En y parlant pour moi, je parle pour toi-même.
-
--*who_benoni
-Vous lui pourriez au moins recommander qu'il m'aime.
-
--*who_genevieve
-Ce sera, mon cher fils, pour la première fois.
-
--*who_orismond
-Je ferai suppléer à ce défaut par ma voix.
-
--*who_benoni
-Parlez-lui bien de moi.
-
--*who_genevieve
-      Le jour n'a plus qu'une heure,
-Il est temps de chercher notre chère demeure,
-De peur de nous laisser surprendre par la nuit,
-Car aussi bien j'entends en ce bois quelque bruit.
-
--*who_orismond
-C'est le sage Lisandre, et Cléon, ce me semble,
-Qui se plaignent souvent de votre mort ensemble,
-Et qui pour la venger se sont offerts tous deux
-D'exposer au combat un sang si généreux.
-
--*who_genevieve
-Vous pourrez de l'écrit leur faire confidence
-S'ils me peuvent servir avec coeur et prudence ;
-Mais sans leur révéler le secret de ma mort.
-
--*who_benoni
-Madame je les vois.
-
--*who_genevieve
-      Rentrons dans notre fort
-Où l'ombre suit le jour.
-
-**** *book_ *id_I05 *act_I
-
--*who_orismond
-      Ô Dieu que de merveilles
-Ont surpris tout à coup mes yeux et mes oreilles !
-Et que mes longs regrets depuis sept ans passés
-D'un si court entretien sont bien récompensés,
-Mais est-ce Geneviève ! Est-ce elle que j'ai vue !
-Est-ce là ce cher fils dont le Ciel l'a pourvue,
-Ô Dieu que cet écrit mais soyons plus discrets
-Et ménageons un peu ces importants secrets.
-
-**** *book_ *id_I06 *act_I
-
--*who_lisandre
-Vous allez voir, Cléon, l'action la plus noire
-Mais je veux qu'Orismond ait part à cette histoire.
-
--*who_orismond
-Ne l'interrompons point, ce vieillard chaque jour,
-Vient faire en ces forêts sur le soir quelque tour ;
-Pour découvrir l'endroit où l'Intendant infâme
-Par deux de ses valets fit égorger Madame.
-
--*who_lisandre
-Engageons-le plutôt à venger son trépas.
-Orismond, notre abord ne vous déplaira pas ?
-Quoi tout seul et si tard dans cette Forêt sombre.
-
--*who_orismond
-Il n'était pas trop tard pour y chercher une ombre.
-
--*who_lisandre
-Elle n'y fait plus d'ombre éclatant dans les Cieux.
-
--*who_orismond
-Elle en fait quelquefois à l'abri de ces lieux,
-Pour le moins en voici d'assez fraîches nouvelles
-Dont je puis faire part à des yeux si fidèles.
-
--*who_cleon
-Orismond, qu'est ceci ? Ô Dieu c'est de la main.
-
--*who_orismond
-La seule inscription exprime son dessein.
-
--*who_lisandre
-L'ombre de Geneviève à Sifroy ; quoi Madame ?
-
--*who_orismond
-Oui, l'esprit bien heureux de cette sainte femme
-Par la voix de son ombre errante en ces déserts,
-Viens demander justice à Sifroy par ces vers.
-
--*who_cleon
-Quel prodige est ceci ?
-
--*who_orismond
-      Moi-même l'ai vue,
-Et je l'ai sur sa mort longtemps entretenue,
-J'ai su comme Golo s'en voulant faire aimer
-Eut recours aux démons afin de la charmer,
-Et je crois que ce fut par le même artifice
-Que le Comte trompé fit hâter son supplice ?
-
--*who_cleon
-Ce soupçon, Orismond, pourrait bien être vrai,
-Et voici là-dessus un secret que je sais ;
-Vous connaissez tous deux cette fameuse Argine
-Hôtesse de nos bois, mais juive d'origine,
-Que ses prédictions et ses enchantements
-Font estimer l'oracle et l'effroi de ce temps.
-Sifroy la consulta d'abord touchant le crime
-Qui lui mit la Princesse en si mauvais estime,
-Moi seul parmi l'horreur d'une funeste nuit
-L'accompagnai chez elle et sans suite et sans bruit.
-Cette insigne sorcière après plusieurs mystères,
-Marquant sur un miroir quelques vieux caractères,
-Et murmurant dessus l'enfonça dans de l'eau ;
-Ensuite à la lueur d'un funeste flambeau,
-Y soufflant par trois fois elle fit voir au Comte
-Le crime de Madame, et l'objet de sa honte.
-Car d'abord un galant s'échappant de ses mains,
-Un autre consentait à ses honteux desseins.
-
--*who_lisandre
-Que de fourbes, Cléon ! Ce que tu viens de dire,
-M'apprend que cette mort a fait une martyre.
-C'est cette même Argine, ô Dieu l'étrange sort !
-Dont j'avais commencé de te conter la mort,
-Et qui depuis une heure en la Forêt prochaine
-A de tous ses forfaits reçu la juste peine.
-Comme j'y passais seul, j'entends le bruit des coups,
-Dont quatre hommes chargeaient une femme à genoux,
-Chacun d'eux inconnu sous un habit fantasque
-Se déguisait de plus le visage d'un masque,
-Et faisait voltiger sur elle à tour de bras
-L'étincelant acier d'un pesant coutelas.
-Elle s'en défendant d'une main fort adroite
-Parait à quelques coups avecque sa baguette,
-Et réclamait en vain sous de terribles noms
-Le secours trop tardif de ces traîtres démons.
-Enfin de trois grands coups mortellement atteinte,
-Et voyant de son sang la terre toute teinte ;
-Elle n'en pouvait plus, quand au bruit de ma voix
-Les quatre assassins s'enfuirent dans le bois,
-Comme je les suivais, arrête, me dit-elle,
-Ah ! Je mérite bien une mort si cruelle,
-Je ne la souffre plus désormais à regret
-Si je te puis encore déclarer un secret,
-Cette mort est le prix que je reçois d'un traître
-Que j'en sauvai jadis en trahissant son maître.
-Passant, si tu connais le Palatin Sifroy,
-Dis-lui ce que je vais confier à ta foi.
-Que dans ce triste état Argine meurt contente
-D'expier par sa mort celle d'une innocente,
-Et que ce qu'il en vit à sa confusion,
-De mon miroir trompeur fut une illusion ;
-Elle meurt là-dessus, et quatre loups énormes
-Qui sans doute cachaient des démons sous leurs formes,
-Sortant d'un même pas de quatre divers forts
-Sont venus devant moi en enlever le corps.
-La Forêt en frémit, et tout le Ciel s'en trouble
-Et moi vers le Château d'effroi le pas je double.
-Voici la vérité de ce fatal miroir
-Dont le charme forma le péché qu'il fit voir.
-
--*who_orismond
-Après un si tragique et si beau témoignage
-Comment Golo peut-il conjurer cet orage ?
-Quoi pouvons-nous douter, s'il le faut déférer,
-Et si contre ce traître il nous faut déclarer ?
-Quoi ? Lorsqu'avecque le Ciel, l'Enfer jure sa perte.
-N'osons-nous l'entreprendre encor à force ouverte,
-Non, non, ne craignons plus de nous trop avancer,
-Sur de si bons garants je veux bien commencer.
-
--*who_lisandre
-Commencez seulement Lisandre vous seconde,
-Que voulez-vous de moi qui de mon coeur réponde ?
-
--*who_cleon
-Je serai le troisième, et dans ce beau dessein,
-Je ne vous manquerai ni de coeur ni de main.
-Mais pour ne point laisser refroidir l'entreprise
-Prenons l'occasion dont Dieu nous favorise,
-Et voyons au plutôt ce que de cet écrit
-Le secret important fera sur son esprit.
-Alors pour appuyer cette attaque première
-Vous pourrez déclarer ce qu'a dit la sorcière.
-
--*who_orismond
-Le dessein de la sorte est très bien concerté,
-Et peut s'exécuter en toute sûreté :
-Mais qui veux de vous deux se charger de la lettre.
-
--*who_lisandre
-Donnez-la-moi toujours, et j'ose vous promettre
-Que je lui ferai voir avant la fin du jour.
-Mais en voici le temps, hâtons notre retour.
-
--*who_orismond
-De peur que d'un complot l'Intendant ne se doute,
-Je retourne après vous, mais par une autre route.
-
-**** *book_ *id_I07 *act_I
-
--*who_orismond
-Juste Ciel, c'est ainsi qu'enfin la vérité
-Sous les regards d'un Dieu sort de l'obscurité,
-Et que malgré l'effort d'une injuste puissance
-Elle fait de ses maux triompher l'innocence !
-Après sept ans passés à la sanctifier,
-Dieu s'en va la produire et se justifier,
-Sous l'éclat de vos yeux, Seigneur, enfin le vice
-Se veut faire un bandeau de sa propre malice,
-Jusques parmi les morts, vos adorables soins
-Lui suscitent enfin de terribles témoins.
-Ah ! Golo, nous formons tous trois une tempête ;
-Qui doit dans peu de temps éclater sur sa tête,
-Et ce juste vainqueur, va montrer en son lieu
-Que s'il sait tolérer, il sait punir en Dieu,
-En vain opposes-tu l'Enfer avec ses charmes
-Contre le Ciel vengeur ce sont de faibles armes ;
-Une ombre contre toi va se faire un beau jour
-Pour y voir triompher l'innocence et l'amour,
-Et l'usage innocent d'innocents artifices,
-Va bientôt dissiper tes plus noires malices.
-
-**** *book_ *id_I08
-
-I. ENTRE-ACTE. En Récits de Musique.
-
--*who_premieramour
-Ce fut en ce lieu, chers amours,
-Qu'un supplice finit ses jours.
-
--*who_secondamour
-Mais c'est par nos mains que la gloire
-Y veut dresser à sa mémoire
-Quelque superbe monument
-Qui la pleure éternellement :
-Et dont la fidèle structure
-Venge son nom de cette injure,
-Nous travaillons sur ce dessein.
-
--*who_troisiemeamour
-Mais tout notre travail est vain
-Si ce monument si superbe
-Ne doit rien couvrir que de l'herbe,
-Faisons plutôt tous nos efforts
-Afin de recouvrer son corps.
-
--*who_quatriemeamour
-Volons partout à tire d'ailes,
-Pour en avoir quelques nouvelles.
-
--*who_premieramour
-Lysis seul dont la belle voix
-Plaît tant aux Nymphes de ces bois
-Sans interrompre notre ouvrage
-Leur pourra faire le message.
-
--*who_quatriemeamour
-Lysis, mais d'un ton discret,
-Tâche d'en tirer le secret.
-
--*who_lysis
-Bois sacrés qui cachez le corps de Geneviève,
-Et de sa triste mort, portez encor le deuil,
-Souffrez que l'amour le retrouve
-Pour lui rendre en ce lieu le respect du cercueil,
-Chers déserts, c'est à tort que ce dessein vous blesse,
-Et que de ce dépôt vous êtes si jaloux,
-Il faut que notre soin lui dresse
-Ce dernier monument qui lui manque chez vous.
-
--*who_lysis
-Ce dernier monument.
-
--*who_echo
-Ce dernier monument.
-
--*who_lysis
-Qui lui manque.
-
--*who_echo
-Qui lui manque.
-
--*who_lysis
-Chez vous.
-
--*who_echo
-Chez vous.
-
--*who_premieramour
-Quelque Nymphe d'ici s'approche
-Qui te répond de cette roche,
-Mais qui tes paroles confond
-Avec celles que tu réponds.
-
--*who_secondamour
-Il faut l'interroger d'adresse
-Pour en tirer réponse expresse,
-Et recueillir sur chaque point,
-Et ne le dissimuler point.
-
--*who_lysis
-Écho, dis-nous, je te prie
-N'est-il rien ici resté ;
-De l'innocente beauté
-Que la mort nous a ravie ?
-
--*who_echo
-      Vie.
-
--*who_lysis
-Quoi donc serait-elle au nombre
-De ceux qui vivent encor,
-Qui cacherait ce trésor
-Dans une Forêt si sombre ?
-
--*who_echo
-      Ombre.
-
--*who_lysis
-Cette incroyable nouvelle
-Doit de ta part m'étonner :
-Mais m'en voudrais-tu donner
-Quelque témoin plus fidèle ?
-
--*who_echo
-      Elle.
-
--*who_lysis
-Est-ce loin de cette roche
-Qu'elle a choisi son séjour,
-Dis ce secret à l'amour
-Et n'en crains point de reproche.
-
--*who_echo
-      Proche.
-
--*who_lysis
-Adieu donc.
-
--*who_echo
-Adieu donc.
-
--*who_lysis
-Adieu volage.
-
--*who_echo
-Adieu volage.
-
--*who_lysis
-Quoi tu te moques de moi.
-
--*who_echo
-Quoi tu te moques de moi.
-
--*who_lysis
-Si tu veux rire tais-toi.
-
--*who_echo
-Si tu veux rire tais-toi.
-
--*who_lysis
-N'en parlons plus davantage.
-
--*who_echo
-N'en parlons plus davantage.
-
--*who_lysis
-Causeuse adieu.
-
--*who_echo
-Causeur adieu.
-
--*who_lysis
-Adieu sans te voir.
-
--*who_echo
-Adieu sans te voir.
-
--*who_lysis
-Tais-toi sans me plus répondre.
-
--*who_echo
-Tais-toi sans me plus répondre.
-
--*who_lysis
-Ou je m'en vais te confondre.
-
--*who_echo
-Va te confondre.
-
--*who_lysis
-Après un espoir si doux.
-
--*who_echo
-Espoir doux.
-
--*who_lysis
-Je te fuis, adieu.
-
--*who_echo
-Fuis, adieu.
-
--*who_lysis
-Trompeuse, adieu.
-
--*who_echo
-Trompeur, adieu.
-
--*who_lysis
-Adieu voix trompeuse, adieu.
-
--*who_echo
-Adieu.
-
--*who_lysis
-Cette voix ne me trompe pas,
-Geneviève est encore vivante
-Tant de vertus et tant d'appas
-Ont pu sauver une innocente ;
-Et malgré la rigueur de son injuste sort
-Elle triomphe de la mort.
-Et malgré la rigueur de son injuste sort
-Elle triomphe de la mort.
-
--*who_toustroisensemble
-Sifroy, ne t'afflige donc plus
-Ta Geneviève vit encore,
-Les ombres de ces bois touffus
-Cachent ce que ton coeur adore,
-Et malgré la rigueur de son injuste sort
-Elle triomphe de la mort.
-
--*who_lysis
-Et malgré la rigueur de son injuste sort
-Elle triomphe de la mort.
-
--*who_premieramour
-Puisque Geneviève est en vie
-Malgré l'injuste jalousie ;
-Sur le débris de son tombeau
-Dressons quelque dessein nouveau,
-Où d'une aventure si belle
-La mémoire soit immortelle.
-
--*who_secondamour
-Allons dans tous ces bois chercher
-Quel endroit a pu la cacher.
-
--*who_troisiemeamour
-Retirons la vertu des ombres
-Où la tiennent ces forêts sombres.
-
-**** *book_ *id_II01 *act_II
-
--*who_cleon
-Que fait le Comte ?
-
--*who_lisandre
-      Il prend un moment de repos.
-Nous ne pouvions trouver un temps plus à propos,
-Sa cassette est ouverte, il est aisé d'y mettre
-Parmi d'autres écrits cette fatale lettre,
-Comme il est curieux souvent de les revoir
-Il ne manquera pas de s'en apercevoir.
-
--*who_cleon
-Mais n'y trouvez-vous pas quelque danger, Lisandre ?
-Sur une vision c'est beaucoup entreprendre.
-
--*who_lisandre
-Quoi donc, vous chancelez déjà sur un dessein
-Où vous avez promis et le coeur et la main ?
-
--*who_cleon
-Vous connaissez Golo, si par quelque artifice
-Il sait qu'un de nous deux soit de ceci complice,
-Vous savez son crédit, vous savez son pouvoir
-Colle il s'en servira vous le pouvez prévoir.
-
--*who_lisandre
-C'est bien ce que pourra tout ce qu'il a d'adresse
-Que de se retirer du piège qu'on lui dresse.
-Et je m'en tiens si fort, que s'il y contredit,
-Moi seul le soutiendrai contre tout son crédit.
-
--*who_cleon
-Contentons-nous d'agir sans toutefois paraître,
-Servons à la façon qu'une ombre le veux être.
-
--*who_lisandre
-Ou selon le besoin qu'elle en a cette fois
-Prêtons à son esprit et la main et la voix,
-Si le Comte au besoin manque à son innocence
-Nos armes serviront du moins à sa défense.
-Et si pour la prouver tout autre droit est vain
-Il en faudra venir aux preuves de la main
-Pour un si beau sujet contre tant d'injustice
-J'entrerai volontiers le premier dans la lice,
-Assaille qui voudra. Je serai le tenant,
-Et j'y présenterai cartel à tout venant.
-
--*who_cleon
-J'approuve les transports d'une ardeur si fidèle,
-Et moi-même suis prêt à seconder ton zèle ;
-Mais conduisons l'affaire avec dextérité,
-Il n'en faut venir là qu'à toute extrémité.
-Voyons auparavant ce que feront ces lignes,
-Si d'un amour constant il donne quelques signes,
-Nous pourrons appuyer ces premiers sentiments
-Et souffler sur ce feu par nos ressentiments.
-J'entends quelqu'un qui vient, discourons d'autre chose.
-
-**** *book_ *id_II02 *act_II
-
--*who_leris
-Le Comte est-il tout seul ?
-
--*who_cleon
-      N'entrez pas il repose,
-De crainte toutefois de troubler son sommeil
-Nous vous laissons ici.
-
--*who_leris
-      J'attendrai son réveil.
-Mais je me trompe fort s'il me fait bien attendre.
-L'amour et les soucis ont le repos bien tendre,
-À peine a-t-il fermé les yeux pour sommeiller
-Que leurs illusions le viennent réveiller.
-Lisandre avec Cléon, comme je m'imagine,
-Venaient l'entretenir sur le meurtre d'Argine.
-Déjà sur quelques bruits qui sont de leur façon
-On en jette tout bas sur Golo le soupçon.
-Il les faut prévenir.
-
-**** *book_ *id_II03 *act_II
-
--*who_sifroy
       Ah !
 
--*who_leris
-      Le Comte soupire.
-
--*who_sifroy
 Ah !
 
--*who_leris
-      Que veut-il.
-
--*who_sifroy
       À moi !
 
--*who_leris
-      Voyons ce qu'il désire.
-
--*who_sifroy
 Golo ?
 
--*who_leris
-      Seigneur, il dort, si c'est pourtant dormir
-Sous ces rudes assauts, dont je le vois frémir ;
-Hélas ! Qui pourrait voir quelles bizarreries,
-Forment dans son esprit ces noires rêveries !
-Tantôt il voit Drogan, qui tenant un flambeau
-Vient conduire ses pas jusque sur son tombeau :
-Tantôt il voit Madame encore toute sanglante,
-Et tantôt à soi-même il la voit survivante :
-Il croit qu'elle l'appelle au fond de la Forêt,
-Pour empêcher l'éclat de son funeste arrêt.
-Sommeil, à qui la nuit a cédé son empire,
-Toi vers qui dans les maux chacun de nous soupire
-Au moins pour un moment charme un peu les ennuis,
-Qui lui causent déjà tant de mauvaises nuits.
-Ou si tu ne veux pas te rendre plus propice,
-Ne le tourmente plus avec tant de malice,
-Il vaut mieux l'interrompre, en lui faisant du bruit.
-
--*who_sifroy
 Ah ! Chère ombre, où fuis-tu, Sifroy qui te poursuit !
 Léris, appelle-la.
 
--*who_leris
-      Seigneur.
-
--*who_sifroy
       Je le commande.
 
--*who_leris
-Hé quoi ?
-
--*who_sifroy
       Cours et lui dis que Sifroy la demande.
 
--*who_leris
-Que voulez-vous ?
-
--*who_sifroy
       Faut-il le dire tant de fois.
 Geneviève ?
 
--*who_leris
-      Hé Seigneur !
-
--*who_sifroy
       Elle fuit dans le bois.
 
--*who_leris
-Hélas vous savez bien !
-
--*who_sifroy
       Parle, que veux-tu dire ?
 
--*who_leris
-Que Geneviève est morte !
-
--*who_sifroy
       Et que Sifroy respire !
 C'est ce que son esprit me vient de reprocher,
 Et quand pour l'apaiser, je pensais m'approcher,
 Il a tout aussitôt disparu de ma vue
 Et m'a laissé percé de ce trait qui me tue.
 
--*who_leris
-Pourquoi tous ces transports pour un bien qui n'est plus ?
-
--*who_sifroy
 Ils sont justes, Léris, quoiqu'ils soient superflus :
 J'ai moi-même versé le sang de cette Belle,
 En signant son trépas d'une main criminelle.
@@ -1269,19 +40,11 @@ Mais pourquoi mon amour n'en fait-il pas l'office ?
 C'est lui seul que la mort a le plus outragé,
 Et la mienne devrait l'avoir déjà vengé.
 
--*who_leris
-Seigneur, considérez où la douleur vous porte ?
-
--*who_sifroy
 Ah Léris ! Que n'est-elle encore un peu plus forte ?
 Et pour punir sa mort par un juste trépas,
 Que mon coeur ne fait-il ce que n'ose mon bras,
 Et que ne la suit-il où son ombre m'appelle.
 
--*who_leris
-L'ombre d'une innocente est-elle si cruelle ?
-
--*who_sifroy
 Puisque mon mal ne peut autrement se guérir
 Le regret de sa mort me doit faire mourir :
 Et si je ne la puis survivre davantage,
@@ -1297,100 +60,36 @@ Anime tes couleurs d'une juste colère.
 Sers-toi de tous ces traits pour me persécuter
 Car c'est en cela seul que tu peux m'imiter.
 
-**** *book_ *id_II04 *act_II
-
--*who_golo
-Seigneur, que faites-vous ?
-
--*who_sifroy
       Golo ? Dans son supplice,
 Avons-nous bien gardé les formes de justice ?
 N'eus-tu point trop de zèle, et moi trop de chaleur ?
 Avait-on avéré son crime et mon malheur ?
 
--*who_golo
-De qui me parlez-vous ?
-
--*who_sifroy
       Je parle de ma femme.
 
--*who_golo
-Tient-elle encor, Seigneur, ce rang dedans votre âme ?
-Ne m'interrogez pas, interrogez les lois ;
-Et voyez les tourments dont vous aviez le choix,
-Et que méritaient bien de si sanglants outrages,
-Si vous eussiez remis cette affaire aux suffrages.
-
--*who_sifroy
 Mais qu'en pense le monde, et que dit-il de moi ?
 
--*who_golo
-Que votre amour devait rencontrer plus de foi.
-
--*who_sifroy
 Quelle raison encor rend sa mort légitime ?
 
--*who_golo
-L'excès de votre amour et celui de son crime.
-
--*who_sifroy
 Elle ne l'a pas fait, je connaissais son coeur.
 
--*who_golo
-L'amour pour le corrompre est un subtil trompeur.
-
--*who_sifroy
 La seule piété régnait dans sa belle âme.
 
--*who_golo
-C'est souvent sous ce feu qu'il entretient sa flamme.
-C'est un poison charmant, dont la malignité,
-Sait se glisser partout avec subtilité,
-Et comme il est auteur des ruses et des feintes
-Il se fait un bandeau des choses les plus saintes.
-
--*who_sifroy
 C'est lui qui dans mon coeur lui dresse des Autels,
 Où je lui rends l'honneur qu'on doit aux immortels.
 
--*who_golo
-Son repentir a pu lui mériter sa grâce,
-Sans que sur des Autels elle doive avoir place.
-Les crimes les plus noirs seraient autorisés,
-Si leurs auteurs étaient ainsi canonisés.
-
--*who_sifroy
 N'appelle pas péché ce qui fut un désastre,
 Qui sert à réchauffer l'éclat d'un si bel astre ;
 Mais toi seul qui pouvais me retenir le bras
 Devais-tu me pousser à signer son trépas ?
 
--*who_golo
-Quelque compassion que j'eusse alors pour elle,
-Je craignais en ce point de vous être infidèle.
-
--*who_sifroy
 Pourquoi te montres-tu si prompt à m'obéir ?
 C'eût été m'obliger pour lors, que me trahir.
 
--*who_golo
-Au moins ne blâmez pas un zèle si sincère.
-
--*who_sifroy
 Je te dis seulement ce que tu pouvais faire.
 
--*who_leris
-Mais pourquoi tant parler d'un si fâcheux sujet,
-Souffrez que le sommeil efface cet objet :
-Vous reposeriez mieux dans la chambre prochaine ?
-
--*who_sifroy
 Quel remède peut-elle apporter à ma peine ?
 
--*who_leris
-Elle divertirait ce triste souvenir.
-
--*who_sifroy
 Léris, je prends plaisir à m'en entretenir
 Et ne me saurais voir séparé pour une heure
 De celle-ci qui fut sa dernière demeure.
@@ -1399,28 +98,10 @@ J'y vois avec respect les traces de ses pas,
 Et son ombre y revient peindre dans ma pensée
 L'aimable souvenir de notre amour passée.
 
--*who_golo
-Qui vous pourrait donc plaindre en vous voyant souffrir,
-Si vous aimez encor ce qui vous fait mourir.
-Entretenez toujours cette adorable idée
-Dont un démon secret tient votre âme obsédée :
-C'est le moyen d'aller rejoindre en peu de jours,
-Celle dont vous savez les pudiques amours.
-
--*who_sifroy
 Ah ! Ne me traite pas avec tant de rudesse !
 
--*who_golo
-Sept ans ont consumé ce que j'avais d'adresse,
-Et vous vous obstinez à tout ce qui vous nuit.
-
--*who_sifroy
 Que m'ordonnes-tu donc ?
 
--*who_golo
-      Reposez cette nuit.
-
--*who_sifroy
 Hé bien je veux pour toi me faire violence,
 Et sortant de ce lieu te rendre obéissance.
 Mais avant que sortir approche un peu, Léris,
@@ -1439,37 +120,15 @@ Sans doute l'accident de son cruel trépas
 Fut cause que pour lors je ne la reçus pas,
 Lisez-la-moi, Léris.
 
--*who_leris
-      L'ombre de Geneviève
-À Sifroy.
-
--*who_sifroy
       Lisez-vous, ou si c'est que je rêve,
 L'ombre de Geneviève ! Ah Dieu c'est de sa main !
 
--*who_golo
-C'est quelque fiction.
-
--*who_sifroy
       Voyons-en le dessein.
 
--*who_leris
-Du fond de ces demeures sombres
-Où j'erre encor parmi les ombres,
-Souffre que mon esprit vienne jusqu'en ce lieu
-Pour reprocher au tien cette sanglante injure
-Qui me laisse sans sépulture
-Et demander justice en te disant adieu.
-
--*who_sifroy
 Ah Golo ! Qu'est ceci ? C'est son ombre elle-même
 Qui se plaint justement de ma rigueur extrême,
 Ah c'est elle, Léris, qui m'est venu revoir.
 
--*who_golo
-Hé bien il lui faut rendre au plutôt ce devoir.
-
--*who_sifroy
 Oui, mais elle demande en même temps justice
 De sa cruelle mort dont tu me fis complice.
 Ah ! S'il faut de mon sang pour vous rendre la paix,
@@ -1477,25 +136,10 @@ Parlez mânes sacrées, vous serez satisfaits.
 Approche-toi, Léris, et continue à lire,
 Ce que de mon amour sa belle ombre désire.
 
--*who_golo
-C'est plutôt un démon qui par ses feints propos
-Vient du fonds des Enfers troubler votre repos,
-N'achevez point de lire un écrit si funeste.
-
--*who_sifroy
 C'est son ombre elle-même, et j'en saurai le reste ;
 Tu demandes justice, ah ! Je te la ferai,
 Nomme le criminel, et je te l'immolerai.
 
--*who_leris
-Il ne m'est resté qu'une chose
-Dont le Ciel veut que je dispose,
-C'est mon coeur, cher Époux, qui fut toujours à toi,
-Je t'en fais héritier même après mon supplice
-Et croirais faire une injustice.
-De souffrir que la mort l'enlevât à Sifroy.
-
--*who_sifroy
 Prodige de vertu ! Miracle de constance !
 Golo peut-elle mieux prouver son innocence ?
 Golo peut-elle mieux condamner ma rigueur,
@@ -1505,15 +149,6 @@ Que de ma cruauté mon propre amour te venge.
 Je ne mérite pas de posséder ce bien,
 Que la mort dans ses mains n'ait fait passer le mien.
 
--*who_golo
-Pourquoi vous condamner sans qu'elle vous accuse ;
-Pourquoi la décharger sur une simple excuse ?
-Il lui fallait prouver cette fidélité,
-Dont sous des mots couverts elle fait vanité ;
-Envoyez-lui, Seigneur, ces funestes messages
-Qui d'un crime avéré font de fausses images.
-
--*who_sifroy
 Vous n'y gagnerez rien, je lirai jusqu'au bout,
 Pour voir ce qu'elle veut et pour accomplir tout.
 Puisque chez toi mon innocence,
@@ -1528,211 +163,48 @@ Que pour cacher le sien et s'en venger sur moi.
 Que veut dire ceci ; de qui me parle-t-elle
 Golo ?
 
--*who_golo
-      Seigneur ?
-
--*who_sifroy
       Me fus-tu bien fidèle,
 Car enfin, c'est de toi qu'elle parle ou de moi :
 Mais qui lui supposa ce crime ? Ce fut toi.
 Parle donc, qu'en dis-tu ?
 
--*who_golo
-      Seigneur, qu'elle s'explique.
-
--*who_sifroy
 C'est tout ce qu'elle écrit.
 
--*who_golo
-      Si cette fin me pique
-Au moins n'a-t-elle osé si clairement mentir.
-Et ces termes couverts montrent son repentir.
-
--*who_sifroy
 C'est donc toi qu'elle accuse ?
 
--*who_golo
-      Oui, Seigneur, je confesse
-Que c'est sans doute à moi que cette fin s'adresse,
-Mais au lieu de me faire un crime de mes soins
-Que ne répondait-elle à plus de vingt témoins.
-
--*who_sifroy
 Pour me cacher le tien, cette excuse est frivole,
 Je crois plus son esprit que ta simple parole ;
 Et puis ce seul écrit la peut justifier.
 
--*who_golo
-Quoi pour être innocente il ne faut que nier ?
-
--*who_sifroy
 Pour perdre la vertu, que ne peut l'imposture ?
 
--*who_golo
-Si son péché parut, blâmez-en la nature,
-Blâmez tous les témoins qui disent l'avoir vue,
-Blâmez vos propres yeux qui vous ont convaincu ?
-Là-dessus ai-je tort de l'avoir soupçonnée ?
-Et vous, avez-vous tort de l'avoir condamnée ?
-
--*who_sifroy
 Cesse de l'accuser, et lui réponds un peu.
 
--*who_golo
-Pour le faire il ne faut qu'un simple désaveu.
-
--*who_sifroy
 Ta honte cherche en vain les ombres du silence.
 
--*who_golo
-Je vous ferais rougie de ma propre innocence.
-
--*who_sifroy
 Quel crime voulais-tu cacher dedans sa mort ?
 
--*who_golo
-Celui dont vingt témoins vous ont fait le rapport.
-
--*who_sifroy
 Elle parle du tien, n'en accuse point d'autre.
 
--*who_golo
-J'en sauvai mon honneur pour conserver le vôtre.
-
--*who_sifroy
 Parle plus clairement.
 
--*who_golo
-      Seigneur, je suis honteux
-De découvrir encor ses impudiques feux.
-Mais puisque vous voulez apprendre de ma bouche
-Ce qui dans cette intrigue innocemment me touche.
-Vous souvenez-vous bien du miroir enchanté,
-Où son péché secret vous fut représenté ?
-
--*who_sifroy
 Pourquoi me rappeler cette funeste image,
 Dont l'Enfer se servit pour allumer ma rage ?
 
--*who_golo
-C'est pour vous expliquer ce qu'il cachait pour lors,
-Vous y vîtes celui qui malgré ses efforts
-Suivant du chaste Hébreu la généreuse fuite
-Frustra par sa vertu son infâme poursuite ;
-Le reconnûtes-vous ?
-
--*who_sifroy
       Je le pris lors pour toi.
 
--*who_golo
-Aussi fût-ce par là que j'en sauvai ma foi.
-Car vous savez, Seigneur, que pendant votre absence
-Le feu qui dans son coeur s'éprit en ma présence,
-Jeta dans son esprit un tel aveuglement
-Qu'elle voulut en moi pratiquer un Amant,
-Et ce seul désespoir d'en embraser mon âme,
-Détourna sur Drogan sa malheureuse flamme ;
-Ce pauvre homme ébloui
-
--*who_sifroy
       Traitre n'achève pas
 De rendre criminels de si divins appas
 Et de défigurer un objet que j'adore.
 
--*who_golo
-C'est pour vous détromper si vous l'aimez encore.
-
--*who_sifroy
 Je suis donc plus heureux dans mon aveuglement.
 Et j'en veux moins savoir pour l'aimer constamment.
 Adieu, retire-toi.
 
-**** *book_ *id_II05 *act_II
-
--*who_golo
-      Quel nouveau coup de foudre
-Où ce nuage en finira-t-il se dissoudre ?
-Si les morts contre moi viennent se déclarer.
-À leurs funestes coups comment puis-je parer ?
-En vain pour mon repos j'en fais croître le nombre
-Si le Ciel pour me perdre a suscité cette ombre.
-Mais qui jamais de nous ouït dire qu'un esprit
-Adressât aux vivants ses plaintes par écrit ;
-Mais ne serait-ce point quelque tour de Lisandre,
-Et ne m'y suis-je point par trop laissé surprendre.
-Ah ! Pour me rassurer ce soupçon est trop vain
-C'est d'elle qu'est l'écrit, j'en reconnais la main ;
-Les plaintes qu'elle y fait, y sont trop légitimes,
-Et pour cacher sa mort j'ai commis trop de crimes,
-Ah ! Belle ombre, il est vrai, je l'ai bien mérité,
-Mais pardonnez mon crime à la nécessité :
-Par mon injuste amour ayant acquis ta haine
-Je ne peux autrement en éviter la peine ;
-Et l'amour qui trahit jusque-là son devoir,
-Ne peut s'en dégager que par son désespoir.
-Si du premier péché ta beauté fut complice,
-Je peux bien du second apaiser ta justice ;
-Je ne prévins ma mort par ce coup furieux
-Que parce que j'en lus l'arrêt dedans tes yeux.
-Je reconnais pourtant que ton ombre adorable
-Veut faire un pénitent plutôt qu'un misérable,
-Puisque de son droit même elle craint d'abuser,
-Fait qu'elle se défend au lieu de m'accuser.
-Ah ! Si mon repentir peut mériter sa grâce
-Déjà dedans mon coeur tout ce crime il efface :
-Ne viens plus en ces lieux y poursuivre ma mort ?
-Mais que dis-je, hé pourquoi m'épouvanter si fort ?
-À tout ce qu'elle écrit ma réponse est fort bonne,
-Et ce crime après tout tombe sur sa personne ;
-Qu'elle écrive de moi tout ce qu'elle voudra
-Le miroir enchanté toujours la confondra.
-J'ai déjà dissipé de plus fâcheux ombrages,
-J'ai déjà conjuré de plus fâcheux orages.
-Si je ne combats plus que contre des esprits,
-Je saurai le moyen d'en étouffer les cris.
-Mais allons consulter la nuit sur cette affaire,
-Voyons jusqu'où Sifroy portera sa colère.
-Une heure de sommeil l'en fera revenir,
-Et je n'ai qu'à partir si je l'en veux punir.
-Tous ceux qui de mon crime avaient la connaissance
-Me gardent par leur mort un éternel silence.
-Après ces coups d'essai aurais-je encor du coeur
-S'il fallait aujourd'hui qu'une ombre me fit peur ?
-
-**** *book_ *id_II06
-
-II. ENTRE-ACTE. En Ballet.
-
--*who_lesommeil
-Toi sous qui tout fléchit dans mon paisible Empire,
-Sommeil, viens te saisir de ces lieux d'où tu fuis,
-Et pour en bannir les ennuis,
-Rappelle ici l'objet pour qui Sifroy soupire.
-Des plus vifs de tes traits anime quelque songe
-Qui lui fasse revoir l'éclat de tes appas,
-Pour ne pleurer plus son trépas
-Fais-lui voir que ta soeur n'en a fait qu'un mensonge.
-
-**** *book_ *id_III01 *act_III
-
--*who_sifroy
 Jamais je n'entendis de plus étrange histoire,
 Ni des siècles passés, ni de notre mémoire ;
 Mais qu'en est-il ?
 
--*who_leris
-      Le bruit n'en est que trop certain,
-Dans son fameux repaire on l'a cherchée en vain,
-On n'en a pu trouver que la trace sanglante,
-Et toute la maison de son sang découlante :
-On a vu le débris de tous les instruments
-Dont elle se servait, pour ses enchantements ;
-Ses grands miroirs cassés, ses liqueurs renversées,
-Ses serpents étouffés, ses herbes dispersées.
-De ces enchantements, c'est là toujours la fin,
-Et c'est des enchanteurs le funeste destin.
-
--*who_sifroy
 Qu'elle méritait bien une fin si tragique
 Pour les cruels effets de son pouvoir magique !
 Plût à Dieu que jamais je ne l'eusse éprouvé,
@@ -1745,59 +217,25 @@ Mais si de notre sort et de nos aventures
 Il nous fait quelquefois de naïves peintures,
 Ah ! Que le mien s'accorde avecque mes désirs !
 
--*who_leris
-A-t-il si tôt charmé de si longs déplaisirs ?
-
--*who_sifroy
 Oui, Léris, car il m'a derechef fait paraître
 L'ombre dont je reçus hier au soir une lettre,
 Laquelle m'a flatté d'un esprit si charmant
 Que je n'y puis penser qu'avec ravissement :
 Et j'en suis tout rempli d'une secrète joie.
 
--*who_leris
-Quand elle vient ainsi, c'est le Ciel qui l'envoie,
-Mais que porte ce songe, et quel est cet espoir
-Que vous a pu donner celle qu'il a fait voir.
-
--*who_sifroy
 Elle n'a plus paru comme une ombre plaintive,
 Mais jamais sa beauté ne me sembla plus vive,
 Lorsqu'elle m'appela des yeux et de la voix,
 Pour l'aller secourir d'un monstre dans le bois ?
 
--*who_leris
-Notre esprit en dormant nous donne ainsi le change,
-Et joint le faux au vrai par un confus mélange ;
-Car comment pourrait-il dans un amas confus
-Vous faire voir vivant un objet qui n'est plus.
-
--*who_sifroy
 Ne l'examine point ; mais c'est sous ce présage
 Qu'à la chasse aujourd'hui dans nos bois je m'engage,
 Je veux que tout mon monde y vienne avecque moi,
 Et me montre en cela son adresse et sa foi.
 Nous n'y manquerons pas d'y faire bonne prise.
 
--*who_leris
-Ce présage ne peut qu'il ne nous favorise,
-Mais lors que tout le monde a part à ce bonheur,
-Voulez-vous que Golo souffre le déshonneur
-De se voir éloigné ?
-
--*who_sifroy
       Je lui dis en colère.
 
--*who_leris
-Par respect toutefois à votre ordre il défère :
-Et s'il n'eut craint d'aigrir un amour en courroux,
-Lui-même il fut venu prendre congé de vous.
-Mais il m'en a chargé, vous priant de vous dire
-Que puisqu'il n'avait pu vous servir sans se nuire,
-Qu'il n'avait qu'un regret de vous laisser périr
-Dedans cette langueur qu'il n'avait pu guérir.
-
--*who_sifroy
 Ces sentiments me sont de son coeur un bon gage ;
 Mais si je fus trop prompt, il le fut davantage :
 Devait-il sur un mot se résoudre à partir,
@@ -1813,13 +251,6 @@ Et quand je l'entreprends, mon coeur me vient trahir.
 Dis-lui donc que je veux qu'avecque nous il vienne,
 Ou bien que mon amour doutera de la sienne.
 
--*who_leris
-Seigneur, c'est l'accabler, cette insigne faveur
-Va lui rendre sans doute et la vie et le coeur.
-
-**** *book_ *id_III02 *act_III
-
--*who_sifroy
 
 
 Mais pourquoi m'abuser moi-même par des songes
@@ -1858,24 +289,11 @@ Je n'en veux point à votre vie,
 Geneviève est la proie, ou bien plutôt la prise
 D'une chasse où Sifroy sera lui-même pris.
 
-**** *book_ *id_III03 *act_III
-
--*who_cleon
-Quoi, Seigneur, vous voilà déjà prêt pour la chasse,
-Souffrez que le repos ce matin vous délasse ;
-Après avoir passé tant de funestes nuits
-Le sommeil a-t-il fait trêve avec vos ennuis ?
-
--*who_sifroy
 C'est le sommeil qui vient de m'ordonner lui-même
 Un remède si prompt à ma douleur extrême,
 C'est sur ces visions et ces avis secrets
 Que je veux aujourd'hui chasser dans nos Forêts.
 
--*who_lisandre
-La résolution en est un peu bien prompte ?
-
--*who_sifroy
 En voici la raison qu'il faut que je vous conte,
 Sans doute vous allez tous deux vous en moquer,
 Mais je ne puis moi-même à mon bonheur manquer !
@@ -1916,178 +334,55 @@ Et toute ma douleur s'y convertit en flamme.
 Sur un songe si beau puis-je me dispenser,
 D'aller courir nos bois pour ce monstre en chasser ?
 
--*who_lisandre
-La peinture, Seigneur, me semble bien confuse,
-Et ce n'est qu'une erreur dont l'amour vous abuse.
-Pensez-vous que le Ciel vous rende désormais,
-Celle de qui l'esprit repose dans la paix ?
-
--*who_sifroy
 Mais que ne puis-je pas désormais m'en promettre
 Depuis que j'ai reçu de son ombre une lettre ?
 
--*who_lisandre
-Quelle lettre ?
-
--*who_cleon
-      Est-ce encore quelque autre vision ?
-
--*who_sifroy
 Vous connaissez sa main, lisez l'inscription.
 
--*who_lisandre
-L'ombre de Geneviève !
-
--*who_sifroy
       Examiner ses plaintes,
 Et vous reconnaîtrez que ce ne sont pas feintes.
 
--*who_cleon
-Ah, Seigneur ! Pouvez-vous ne lui pas accorder
-La justice et le droit qu'elle vient demander ?
-
--*who_sifroy
 Lisez tout.
 
--*who_lisandre
-      Ah ! Seigneur quel marbre ou quel rocher
-De ce dernier présent ne se pourrait toucher ?
-
--*who_cleon
-Hélas ! Que dites-vous d'un respect si profond ?
-
--*who_sifroy
 Il me ravit, Cléon, autant qu'il me confond.
 
--*who_cleon
-Et vous doutez encor de celui qui l'opprime ?
-
--*who_sifroy
 Sur quoi le pourriez-vous convaincre de ce crime ?
 
--*who_cleon
-Sur l'étrange façon dont il est accusé.
-
--*who_sifroy
 Mais vous ne savez pas comme il s'est excusé.
 
--*who_cleon
-Quel crime cachait-il dans la mort de Madame ?
-
--*who_sifroy
 D'avoir été l'objet de son injuste flamme.
 
--*who_cleon
-De quoi se vengeait-il en la privant du jour ?
-
--*who_sifroy
 D'avoir innocemment allumé son amour.
 
--*who_lisandre
-Vraiment pour s'excuser cet artifice est rare,
-Mais puisque contre lui cette ombre se déclare ;
-Seigneur, je veux y perdre et la vie et l'honneur,
-Si cet homme cruel ne fut un suborneur.
-
--*who_sifroy
 Hélas ! Tu n'en sais pas tout le secret Lisandre,
 Cléon sans un serment aurait pu te l'apprendre ;
 Et l'on ne m'a rien dit que l'on ne m'ait fait voir,
 Dans les expressions d'un fidèle miroir.
 
--*who_lisandre
-Et vous n'avez rien vu dans le miroir d'Argine,
-Dont je ne sache mieux que Cléon l'origine.
-
--*who_sifroy
 D'où le peux-tu savoir, et qui t'en a tant dit ?
 
--*who_lisandre
-De celle qui sur vous trouve tant de crédit.
-Et qui vous sût cacher par ce noir artifice
-Le crime de Golo dont il était complice.
-
--*who_sifroy
 Son miroir me fit voir comme il s'en échappa.
 
--*who_lisandre
-Mais sa langue m'a dit comme elle vous trompa :
-C'est d'elle que je sais tout ce cruel mystère.
-
--*who_sifroy
 Ah ! Si tu le savais, devais-tu me le taire ?
 
--*who_lisandre
-Je ne l'appris, Seigneur, qu'au moment de sa mort.
-
--*who_sifroy
 Comment t'y trouvas-tu ? On m'a fait le rapport,
 Que ses propres démons l'ont tuée cette infâme,
 Qu'ils en ont enlevé le corps avecque l'âme.
 
--*who_lisandre
-Je ne sais pas au vrai quels furent ces démons,
-Mais Golo pourrait bien vous en donner les noms.
-Moi seul sans me servir des armes de l'Église,
-À quatre qu'ils étaient je fis bien lâcher prise,
-Au point que chacun d'eux à grands coups assommait
-Celle qui lors en vain ses démons réclamait :
-Comme je poursuivais cette troupe cruelle,
-D'une voix languissante, arrête, me dit-elle,
-Viens avant que la mort me le puisse arracher ;
-Découvrir un secret qu'on veut par-là cacher,
-Cette mort est le prix que je reçois d'un traître
-Que j'en sauvai moi-même en trahissant son Maître ;
-Mais passant de ma part, vois le Comte Sifroy,
-Dis-lui ce que vais confier à ta foi.
-Que dans ce triste état Argine meurt contente,
-D'expier par sa mort celle d'une innocente :
-Et que ce qu'il en vit à sa confusion
-De mon miroir trompeur fut une illusion.
-Là-dessus un soupir lui tranchant la parole,
-Jusqu'au fonds des Enfers sa noire âme s'envole,
-Quatre loups monstrueux accoururent dès lors,
-Et vers son vieil repaire entraînèrent le corps ;
-Du crime de Madame, enfin voilà l'histoire,
-Et l'honneur que l'on rend à sa sainte mémoire.
-
--*who_sifroy
 Le Ciel eût-il permis que pour me décevoir
 L'Enfer sur l'innocence eût eu tant de pouvoir ?
 
--*who_lisandre
-Le Ciel permet souvent que ces noirs sortilèges
-Aux esprits curieux servent enfin de pièges.
-
--*who_sifroy
 Cléon même le vit, et le crut comme moi ;
 Lui dois-je maintenant ajouter plus de foi.
 
--*who_cleon
-Nos derniers sentiments sont les plus véritables.
-
--*who_sifroy
 Un dernier désespoir les peut rendre coupables.
 
--*who_cleon
-La conscience alors cherche à se décharger.
-
--*who_sifroy
 Quelque fois sur un autre afin de s'en venger :
 Car quoi qu'elle t'ait dit, quoi que tu m'en rapportes,
 Ces preuves contre lui ne sont pas assez fortes ;
 Celle qui m'a trompé peut bien t'avoir déçu,
 Et ton simple rapport ne peut être reçu
 
--*who_lisandre
-Il faudra donc, Seigneur, qu'une innocente vie
-Soit éternellement de ce soupçon flétrie,
-Et croirez-vous plutôt celui qui la noircit,
-Que les rayons si purs dont le Ciel l'éclaircit,
-Quoi vous croirez plutôt Geneviève coupable,
-Que croire que Golo d'un crime soit capable.
-
--*who_sifroy
 Nous examinerons ce point plus à loisir ;
 Mais enfin laisse-moi goûter quelque plaisir,
 Et souffre ce matin que celui de la chasse
@@ -2099,416 +394,6 @@ Aux bêtes que nos bois dedans leurs forêts resserre.
 J'avais mandé Golo, qui se doit rendre ici,
 Vous l'attendrez tous deux pour l'engager aussi.
 
-**** *book_ *id_III04 *act_III
-
--*who_lisandre
-Cet homme l'a charmé ! Quoi sur un léger songe,
-Dont lui-même en son coeur reconnaît le mensonge,
-Il ne peut presque plus écouter aujourd'hui
-Ce qu'au soir précédent il avait cru de lui.
-
--*who_cleon
-Oui, ce songe sans doute est l'effet de ses charmes.
-Jamais il n'eût sitôt essuyé tant de larmes,
-Ni flatté tant d'ennuis d'un si doux sentiment,
-Sans le pouvoir secret de quelque enchantement.
-
--*who_lisandre
-Mais il faut à la fin que le nuage crève ;
-Qu'il condamne Golo ou bien sa Geneviève.
-
--*who_cleon
-Ce perfide abusant de son esprit jaloux,
-Le pourrait bien enfin faire crever sur nous.
-Et nous nous engageons dans un péril extrême
-Si son ombre paraît et ne parle elle-même.
-
-**** *book_ *id_III05 *act_III
-
--*who_lisandre
-Orismond, vous venez ici fort à propos.
-
--*who_orismond
-Golo me suit de près, disons en peu de mots ;
-Et bien que dit le Comte à l'adieu de Madame
-Et quelle impression a-t-il fait sur son âme ?
-
--*who_lisandre
-La première lecture y fit hier un grand feu,
-Mais il n'en paraît point aujourd'hui que fort peu,
-Il la pleure pourtant, il croit son innocence,
-Il en plaint le malheur, il en prend la défense,
-Mais lorsque nous pensions pousser l'affaire à bout,
-Un songe intervenu vient de renverser tout.
-
--*who_orismond
-Avez-vous déclaré ce que vous dit Argine ?
-
--*who_lisandre
-Je l'ai fait.
-
--*who_orismond
-      Qu'en dit-il ?
-
--*who_lisandre
-      Pour moi je m'imagine
-Qu'il doute sur ce point de ma fidélité,
-Et je n'ose assurer qu'il m'ait même écouté,
-Il est si fort charmé d'un songe qui l'obsède,
-Il le croit à ses maux un si certain remède,
-Qu'il pense y retrouver tout ce qu'il a perdu,
-Et de ce vain espoir son esprit confondu,
-Ne veut plus qu'on lui parle aujourd'hui d'autre chose,
-Et presse qu'à la chasse un chacun se dispose,
-Dont le songe charmant lui promet un succès
-Qui doit mettre bientôt son bonheur dans l'excès.
-
--*who_orismond
-Au moins vous a-t-il dit ce que ce songe porte ?
-
--*who_lisandre
-Il lui feint qu'aujourd'hui Madame n'est plus morte ;
-Et que l'amour l'invite à l'aller secourir,
-Dans un bois où l'on veut la faire encor mourir :
-C'est cette illusion qui l'engage à la chasse.
-
--*who_orismond
-Qui ferait dans ce bois voir son ombre en sa place ?
-
--*who_lisandre
-Qu'il le ferait heureux, et qu'un mot de sa part,
-Perdrait bientôt Golo sans nous mettre au hasard.
-
--*who_orismond
-S'il ne tient qu'à cela, pourvu que l'on m'assure
-Que Sifroy recevra cette ombre sans injure,
-Je lui procurerai le bonheur de la voir.
-
--*who_lisandre
-Orismond avez-vous sur elle ce pouvoir ?
-De la part de Sifroy je vous donne assurance
-De respect et de foi, d'amour et de croyance.
-
--*who_cleon
-Et vous ne craignez rien de son vieil enchanteur ?
-
--*who_lisandre
-Si cette ombre une fois lui parle coeur à coeur,
-Est-il enchantement que son esprit ne rompe.
-
--*who_cleon
-Si ce fantôme aussi dans le besoin nous trompe,
-S'il ne paraît point lorsqu'il l'invoquera,
-Voyez en quel soupçon le Prince rentrera.
-
--*who_orismond
-J'assure du succès, et j'en puis bien répondre,
-Je n'entreprendrai rien qui vous puisse confondre,
-Pourvu que vous fassiez ce que j'ordonnerai,
-Et conduisiez le Comte où je vous marquerai.
-
--*who_lisandre
-En quel lieu que ce soit je m'offre à l'y conduire,
-Pourvu qu'à ces désirs cet espoir puisse luire.
-
--*who_cleon
-Vous vous souvenez bien tous deux encore du lieu,
-Où je mis en vos mains sa lettre et son adieu,
-Vous y remarquerez un rocher escarpé
-Dont un ruisseau d'argent en deux bras est coupé,
-Ce sera sur la cime, et dans ses grottes sombres
-Que je vous ferai voir la plus belle des ombres,
-Je m'en vais le premier m'y rendre de ce pas,
-Vous m'attendrai au pied si je n'y parais pas,
-Adieu, voici Golo.
-
--*who_cleon
-      Prenez votre avantage,
-Cachez-lui ce péril où ce complot l'engage.
-
-**** *book_ *id_III06 *act_III
-
--*who_lisandre
-Le Comte n'attendait qu'après vous pour partir.
-
--*who_golo
-Vous pouviez aisément sans moi le divertir.
-
--*who_lisandre
-Un agréable songe a charmé sa colère.
-
--*who_golo
-J'en détournerai bien le sujet qu'on espère.
-
--*who_lisandre
-Ce songe ne saurait vous faire bien grand tort.
-
--*who_golo
-Ni ceux qui font parler une ombre après sa mort.
-
--*who_lisandre
-C'est être en sûreté de ne craindre qu'une ombre.
-
--*who_golo
-Quelques-uns pourraient bien en augmenter le nombre.
-
--*who_lisandre
-Sa lettre, à mon avis, n'est qu'une illusion.
-
--*who_golo
-Je saurai le secret de cette vision.
-
--*who_lisandre
-Tout ce qu'elle produit n'est qu'un peu de fumée.
-
--*who_golo
-Dont quelques-uns voudraient noircir ma renommée.
-
--*who_lisandre
-Qui serait si méchant que de vous décrier ?
-
--*who_golo
-Ceux même dont j'ai dû le moins me défier.
-
--*who_lisandre
-Pour le moins je n'ai point de part en cette offense.
-
--*who_golo
-Votre coeur sur ce point vous dit ce que j'en pense.
-
--*who_lisandre
-Vous ne m'en sauriez pas reprocher un effet.
-
--*who_golo
-Ce sont pièces de Cour dont je me suis défait.
-
--*who_lisandre
-Vous n'avez pas encor grand sujet de vous plaindre.
-
--*who_golo
-Je l'aurais si j'avais des rivaux plus à craindre.
-
--*who_lisandre
-Vous êtes assuré toujours de son amour.
-
--*who_golo
-Et de plus je sais bien, que chacun a son tour.
-
--*who_lisandre
-Vous demeurez toujours au-dessus de la roue.
-
--*who_golo
-Et de là je vois mieux les pièces qu'on me joue.
-
--*who_lisandre
-Et vous les regardez de là sans vous troubler.
-
--*who_golo
-Et je mesure ceux que je veux accabler.
-
--*who_lisandre
-Dans un si haut pouvoir rien ne peut plus vous nuire.
-
--*who_golo
-De tous mes ennemis vous n'êtes pas le pire.
-
--*who_lisandre
-Je puis vous assurer que j'ai le coeur trop bon,
-Pour un crime si bas comme la trahison ;
-Et toutes les faveurs que vous fera le Comte
-Ne font point mon tourment, ne faisant point ma honte ;
-De plus s'il les fallait partager avec vous,
-Je ne serais jamais de votre part jaloux.
-
--*who_golo
-Comme mes ennemis n'ont rien dont je m'étonne,
-Aussi n'ont-ils rien fait que je ne leur pardonne.
-
--*who_lisandre
-J'aurais avec Cléon rompu cette partie,
-Si son amour pouvait en être divertie.
-On joue du cor derrière le Théâtre,
-comme pour assembler les chiens.
-
--*who_golo
-Peut-être que moi seul j'y pourrai plus encor.
-
--*who_lisandre
-Il fait donc vous hâter, j'entends déjà son cor.
-
-**** *book_ *id_III07
-
-III. ENTRE-ACTE. En récits de Musique.
-
--*who_lechoeurdesanges
-Geneviève, goûtez dans cette douce extase
-Les effets du beau feu dont votre coeur s'embrase ;
-Que ce sommeil mystérieux
-Que le Ciel vous envoie.
-Ayant tari les pleurs qui coulaient de vos yeux
-Abîme votre esprit dans des sources de joie.
-Divin ravissement, agréable langueur,
-Ne lui dérobez pas, mais changez-lui le coeur.
-Geneviève ? Sifroy n'a rien de comparable
-Aux charmes innocents d'un objet adorable.
-Ne pleurez donc plus cet Époux,
-Puisqu'il vous abandonne ;
-Mais embrassez celui dont les traits sont si doux,
-Que de vos plus grands maux il fait votre couronne.
-Divin ravissement, agréable langueur,
-Ne lui dérobez pas, mais changez-lui le coeur.
-J'entends ici des voix qui marquent sa demeure,
-Ô Dieu je l'aperçois mourante en ce rocher !
-
--*who_unevoixduchoeur
-Arrête.
-
--*who_lamour
-      Quelle voix me défend d'approcher ?
-
--*who_lechoeur
-Arrête ?
-
--*who_lamour
-      Faut-il qu'elle meure
-Sans que je l'en puisse empêcher.
-
--*who_unevoixduchoeur
-Amour, cette mort est trop belle,
-Pour ne l'en laisser pas mourir.
-
--*who_lamour
-Au moins permettez-moi de mourir avec elle
-Si je ne la puis secourir.
-
--*who_lechoeur
-Amour cette mort est trop belle,
-Pour ne l'en laisser pas mourir.
-
--*who_lamour
-Encore un coup souffrez que je meurs avec elle,
-Si je ne la puis autrement secourir.
-
--*who_unevoixduchoeur
-Profane, arrête-toi, cet état fait sa vie,
-C'est de l'amour divin que lui vient ce transport.
-
--*who_lechoeur
-Ses traits avec vos voix ont fait l'aimable effort
-Dont cette belle âme ravie
-Reçoit une si douce mort.
-
--*who_unevoixduchoeur
-Va dire à Sifroy qu'il se lasse
-À courre les cerfs de ce bois
-Qu'il peut sous ce rocher faire meilleur chasse,
-Et que la proie est aux abois.
-
--*who_lamour
-Célestes chantres, je vous prie,
-Cependant ne l'éveillez pas,
-Qu'il ne se trouve ici pour lui rendre la vie
-Au sortir d'un si long trépas.
-
--*who_lechoeur
-Geneviève, il est temps que nous rompions les charmes,
-Qui dans ce doux sommeil ont abîmé vos larmes,
-Ouvrez les yeux pour voir Sifroy,
-Que le Ciel veut vous rendre.
-Ou plutôt attendez avec la même foi,
-Que cet heureux chasseur vienne ici vous reprendre,
-Divin ravissement, agréable langueur,
-Faites place à Sifroy maintenant dans son coeur.
-
-**** *book_ *id_IV01 *act_IV
-
--*who_genevieve
-Ô Dieu ! Sacrés repos dont mon âme est charmée,
-Ah ! Dans quelles douceurs m'avez-vous abîmée :
-Célestes visions ! Agréables appas !
-Que puis-je voir d'aimable en ne vous voyant pas ;
-Brillant écoulements des sources de lumière,
-Vives effusions de sa beauté première !
-Si pour jouir de vous il faut fermer les yeux
-Qu'ai-je à vous sur la terre ou même dans les Cieux.
-Soleil dans quelque éclat que tu sortes de l'onde
-Et de quelque beauté que tu pares le monde ;
-Tu ne me fais rien voir en ramenant le jour,
-Qui vaille cet objet où j'ai mis mon amour,
-Et toutes les beautés que découvre sa course
-Comme tous tes rayons viennent de cette source,
-Cher objet de mon coeur vos appas sont trop doux,
-Pour pleurer désormais la perte d'un époux ;
-Et le moindre moment de vos saintes délices
-M'ôtent le souvenir de mes plus longs supplices.
-Mais une grâce encor ? Et faites que Sifroy
-En plaignant mon malheur, n'accuse plus ma foi.
-Et vous qui renaissant dissipez les nuages,
-Soleil, de son esprit écartez ses ombrages,
-Ou vous plutôt de qui j'attends cette faveur,
-Vierge sainte, agissez pour moi dedans son coeur
-Et faites qu'il connaisse mon innocente plainte
-Que mon amour lui fait par une lettre feinte,
-Qu'il sache l'imposture et la malignité
-Qui supposa ce crime à ma pudicité ;
-Mais permettez encor que je vous importune
-Pour cet enfant qui suit dans ces bois ma fortune,
-Après ma longue mort qui va bientôt finir,
-Hélas ! Cet innocent que doit-il devenir ?
-Pardonnez à ses pleurs, qui malgré ma constance
-Semblent craindre pour eux dessous votre assistance,
-Non, bon, je m'en remets à ces aimables soins
-Qui ne doivent jamais manquer à nos besoins
-Comme vous lui servez depuis sept ans de mère,
-Vous lui gardez encor bien plus que je n'espère.
-
-**** *book_ *id_IV02 *act_IV
-
--*who_benoni
-Madame ?
-
--*who_genevieve
-      Et bien mon fils ?
-
--*who_benoni
-      Madame sauvons-nous.
-
--*who_genevieve
-Pourquoi, mon cher enfant ?
-
--*who_benoni
-      Ah bon Dieu !
-
--*who_genevieve
-      Qu'avez-vous ?
-Quel monstre vous fait peur ?
-
--*who_benoni
-      Quand j'y pense j'en tremble.
-J'ai vu
-
--*who_genevieve
-      Quoi Bénoni ?
-
--*who_benoni
-      Plusieurs hommes ensemble.
-
--*who_genevieve
-N'est-ce pas ce vieillard ?
-
--*who_benoni
-      Non, Madame, ils sont trois.
-
--*who_genevieve
-Ce seront des brigands qui courent dans ces bois.
-Cachons-nous, mon cher fils, derrière cette roche.
-
--*who_benoni
-Fuyons encor plus loin, j'entends que l'on approche.
-
-**** *book_ *id_IV03 *act_IV
-
--*who_sifroy
 Personne ne paraît non plus sur ce rocher,
 Votre homme prend plaisir à s'y faire chercher,
 Mais pourquoi m'abuser ? Ce bien que j'en espère
@@ -2516,22 +401,9 @@ Peut-il être l'effet d'un infâme mystère.
 Ses démons peuvent-ils faire voir en ces lieux,
 Celle que ses vertus ont mises dans les Cieux ?
 
--*who_lisandre
-Quoi qu'il en soit, Seigneur, j'ose bien vous promettre
-Qu'elle-même y viendra vous expliquer sa lettre ;
-Préparez seulement vos yeux et vos esprits
-À cette vision dont ils seront surpris,
-Et ne lui faites pas cette sanglante injure
-De soupçonner encor son ombre d'imposture ?
-
--*who_sifroy
 Les serments les plus saints l'en pourront assurer,
 Pour l'écouter ici et pour n'en plus douter.
 
--*who_lisandre
-Contre qui que ce soit vous lui ferez justice ?
-
--*who_sifroy
 Quiconque de sa mort se trouvera complice,
 Peut bien assurément s'attendre de souffrir.
 Les plus cruels tourments dont on puisse mourir,
@@ -2540,41 +412,18 @@ Et si pour l'apaiser il faut jusqu'à ma vie,
 Que ne produis-tu donc celui dont le pouvoir
 Par ses charmes puissants nous la doit faire voir ?
 
--*who_lisandre
-Il devait le premier en cet endroit se rendre.
-
--*who_sifroy
 Tu vois bien toutefois comme il nous fait attendre
 Sans doute qu'il a peur de se mettre au hasard,
 De perdre auprès de moi son crédit et son art.
 
--*who_cleon
-Déjà de son pouvoir vous avez quelques gages,
-Et vous a déjà fait de sa part des messages :
-Car ce fut par ses mains que vous vint ce papier,
-Qu'avec tant de respect vous en reçûtes hier.
-
--*who_sifroy
 Pourquoi tarde-t-il donc ?
 
--*who_cleon
-      Votre chasse sans doute
-Pour n'être découvert l'a fait changer de route.
-
--*who_sifroy
 Remontez à cheval et rentrez dans le bois,
 Pour le chercher partout des yeux et de la voix.
 
--*who_cleon
-Vous laisserons-nous seul ?
-
--*who_sifroy
       J'y suis en assurance,
 Et j'en goûterai mieux cette douce espérance.
 
-**** *book_ *id_IV04 *act_IV
-
--*who_sifroy
 Retraite de la nuit, pitoyables Forêts,
 Si je puis maintenant vous dire mes secrets,
 Sans dire que vos bois s'embrasent de ma flamme,
@@ -2627,31 +476,11 @@ Recevez ce dépôt que vous rend mon amour,
 Qui pour vous aller joindre abandonne le jour.
 Mourons
 
-**** *book_ *id_IV05 *act_IV
-
--*who_orismond
-      Ah malheureux arrête ! Quelle rage
-À ce funeste coup anime ton courage ?
-
--*who_sifroy
 Passant, qui que tu sois ! Ah ne m'empêche pas,
 Au lieu de retenir pousse plutôt mon bras ?
 
--*who_orismond
-Que de ton désespoir je me rende complice !
-
--*who_sifroy
 Ou bien plutôt prend part à ce beau sacrifice.
 
--*who_orismond
-Ah ! Seigneur, est-ce vous ? Quel aveugle transport,
-Vous fait ici courir à cette indigne mort,
-Hélas ! Sur le penchant de ces sombres abîmes
-Où d'éternels tourments Dieu punit ces grands crimes,
-Désavouez de coeur ce funeste dessein,
-Qui vous faisait plonger ce dard dans votre sein.
-
--*who_sifroy
 C'est donc vous, Orismond, quel Ange tutélaire
 Accompagne vos pas dans ce bois solitaire,
 Ah vous m'aurez fermé ces abîmes d'horreur,
@@ -2661,47 +490,18 @@ Que tout mon désespoir à peine vous explique,
 En perdant Geneviève, ah je devais périr,
 Que dis-je, l'ayant fait injustement mourir.
 
--*who_orismond
-Vous reconnaissez donc qu'elle était innocente ?
-
--*who_sifroy
 C'est ce qui me console autant qu'il me tourmente.
 
--*who_orismond
-Et vous n'ignorez pas l'auteur de tous ses maux ?
-
--*who_sifroy
 Et je connais combien ses rapports furent faux.
 
--*who_orismond
-Ah ! Deviez-vous jamais l'estimer criminelle ?
-
--*who_sifroy
 Un miroir enchanté me la fit croire telle.
 
--*who_orismond
-Un seul rayon d'amour le pouvait éclaircir.
-
--*who_sifroy
 Son flambeau ne servait pour lors qu'à la noircir.
 Et les sombres vapeurs qu'il jetait dans mon âme
 Au lieu de l'éclaircir en étouffait la flamme.
 
--*who_orismond
-Mais ne pouviez-vous pas pour le moins en douter ?
-Et sur ces faux rapports la voir et l'écouter.
-
--*who_sifroy
 Je voulais épargner ma honte et son supplice.
 
--*who_orismond
-Reconnaissez-vous donc à la fin l'artifice,
-Que fit jouer celui dont la témérité
-N'ayant pu rien gagner sur sa pudicité,
-Passant d'un tel amour dans une injuste haine,
-Pour se mettre à couvert précipita sa peine.
-
--*who_sifroy
 Je n'ose en soupçonner un attentat si noir,
 C'est trop peu de le dire il le faut faire voir,
 Et c'est ce que je cherche en cette Forêt sombre
@@ -2709,24 +509,11 @@ D'entendre là-dessus les plaintes de son ombre,
 Car puisque je ne veux te rien dissimuler,
 Un des miens m'a promis de la faire parler.
 
--*who_orismond
-Je le sais bien, Seigneur, c'est de moi que Lisandre
-Vous a pu sur ce point quelque secret apprendre.
-Mais vous ne devez pas espérer ce bonheur,
-Que vous n'ayez promis de venger son honneur.
-
--*who_sifroy
 Le promettre, Orismond, ah c'est trop peu, j'en jure,
 Et je le veux venger comme ma propre injure.
 Mais quoi serait-il vrai que Golo l'eût osé,
 Et qu'il eût à sa foi son crime supposé ?
 
--*who_orismond
-Si vous ne voulez pas m'en craindre par avance
-Son ombre vous pourra mettre au jour cette offense,
-Et l'on peut au besoin tous deux les confronter.
-
--*who_sifroy
 Traître, aurais-tu bien pu jusque-là m'affronter ?
 Mais quoi si tu voulais commettre une injustice,
 Ne le pouvais-tu pas sans m'en rendre complice ?
@@ -2737,274 +524,726 @@ Qui confondait ton crime avec ton infamie ;
 Et m'obliger encor à punir ses refus.
 Ô rage
 
--*who_orismond
-      Ces transports, Seigneur, sont superflus,
-La raison seule a droit d'en prendre la vengeance.
-
--*who_sifroy
 J'ai moi-même, Orismond, condamné l'innocence !
 Ah ! Terre pour cacher mon criminel malheur,
 Abîme dans ton sein ma honte et ma douleur,
 Ou s'il n'est point pour moi de tombeau sur la terre,
 Ah Cieux ! Consumez-moi d'un éclat de tonnerre.
 
--*who_orismond
-Seigneur, encore un coup modérez vos transports.
-
--*who_sifroy
 Orismond, viens plutôt seconder leurs efforts,
 Pour venger ta maîtresse et pour me satisfaire,
 Toi-même anime-toi d'une juste colère,
 Que n'aides-tu mon bras à me percer ce coeur ?
 
--*who_orismond
-Réserve pour Golo cette injuste fureur,
-Et pour le faire mieux apprenez tous ses crimes.
-
--*who_sifroy
 Je vous perdrai toujours, innocentes victimes,
 Chers et cruels objets que me demandez-vous,
 S'il faut la mort d'un père ou celle d'un époux
 La voici, partagez entre vous deux mon âme,
 Voyez-la déchirer à cette double flamme.
 
--*who_orismond
-Ce n'est pas contre vous qu'elle se doit tourner
-Pour en punir l'auteur, il vous faut pardonner.
-
--*who_sifroy
 Fais donc, cher Orismond, que cette ombre paraisse
 Et que le criminel au plutôt se connaisse.
 
--*who_orismond
-Pendant que je m'en vais l'invoquer ici-bas,
-Du haut de ce rocher ne vous éloignez pas,
-Ou pour nous retrouver, ne passez point le cerne
-Que mon âme vous marque autour de la caverne ;
-Observez bien de là quand elle montera.
-Et vous lui répondrez lorsqu'elle parlera.
-
--*who_sifroy
 Remarquez-vous le bruit que j'entends ici proche ?
 
--*who_orismond
-Oui, certes et quelqu'un monte sur cette roche.
-
--*who_sifroy
 Ah ! Que n'est-ce, Orismond, celle qui dans ce lieu
 S'immole tous les jours par sa souffrance à Dieu
 Et parmi les douleurs de ses saints exercices
 Goûte du paradis les plus pures délices.
 
--*who_orismond
-Elle vous marquerait distinctement l'endroit
-Où d'un si bel esprit la belle ombre paraît,
-Car c'est assurément le roc inaccessible
-Sur qui l'ombre se rend le plus souvent visible.
-
--*who_sifroy
 Nous l'espérons en vain, je les vois approcher,
 C'est le traître Golo qui vient pour me chercher
 Orismond à tes yeux.
 
--*who_orismond
-      Seigneur, qu'allez-vous faire ?
-
--*who_sifroy
 L'immoler sur le champ à ma juste colère.
 
--*who_orismond
-Gardez-vous bien, Seigneur, de profaner ces lieux,
-Par un coup indiscret d'un zèle furieux.
-Attendez un moment que son ombre en ordonne,
-Ne la punissez point qu'elle ne vous pardonne.
-
--*who_sifroy
 Il faut donc m'échapper, car je ne pourrais pas
 Tenir à son abord ni mon coeur ni mon bras.
 
--*who_orismond
-Allez retirez-vous, il vous pourrait surprendre ?
-Dès qu'ils seront passés, venez ici vous rendre.
+      Que me veux-tu, chère ombre ?
 
-**** *book_ *id_IV06 *act_IV
+Je t'y cherche.
 
--*who_leris
-J'ai sans doute entendu sur ce rocher sa voix.
+Hélas toutes les nuits je l'entends dans ce bois.
 
--*who_golo
-Que serait devenu son cheval dans ce bois,
-Car il n'a pu monter ici sans en descendre.
+      D'y faire pénitence.
 
--*who_leris
-Golo ? C'est Orismond que nous venons d'entendre,
+      De mon erreur et de ton innocence.
 
--*who_golo
-Que fait ce vieil rêveur dans ses sombres déserts
-N'est-il pas le porteur de ces écrits secrets,
-Ne serait-ce point lui qui dans ces lieux si sombres,
-Viendrait entretenir commerce avec les ombres,
-Orismond, quel dessein vous tient tout seul ici,
-Et quoi n'êtes-vous pas de cette chasse aussi ?
+      Il est vrai.
 
--*who_orismond
-Je laisse les plaisirs d'un si rude exercice
-À ceux à qui le sort e l'âge est plus propice ;
-Et dans l'affliction et l'état où je suis
-Je viens seul en ce bois promener mes ennuis.
+Dès que je vois le jour son image s'efface.
 
--*who_golo
-Vous n'avez donc pas vu passer ici le Comte.
+Que je serais heureux !
 
--*who_orismond
-Par quel lieu voulez-vous qu'un Cavalier y monte ?
+Me fuiras-tu toujours quand je pense te voir,
+Ne me parleras-tu que pour me décevoir.
+Ombres en quel endroit cachez-vous le modèle
+Dont celles du sommeil font l'image si belle !
+Mais vous plutôt, mon Dieu, dissipez ces portraits
+Par le lustre éclatant de vos divins attraits
+Que rien que cet objet n'ait plus pour moi de charmes ;
+Qu'il allume mes feux pour essuyer mes larmes :
+Et puisque maintenant Geneviève est à vous,
+Faites qu'elle y rejoigne encore son Époux ?
+Que mon bonheur est lent, et qu'Orismond diffère.
+Allons à sa rencontre ?
 
--*who_golo
-Nous pensions avoir ouï sa voix sur ce rocher.
+Ne reconnaissant pas Geneviève.
+C'est celle assurément qui loge en cette roche ;
+Mais mon abord l'offense, évitons son reproche.
 
--*who_orismond
-C'est le silence seul que l'on y doit chercher.
+Tous mes persécuteurs sont dans ma conscience,
+Elle me pousse ici pour faire pénitence.
 
--*who_golo
-Mais parmi le silence et cette pais profonde,
-N'entretenez-vous point ces gens de l'autre monde ?
+      D'avoir sur un méchant rapport
+Abandonné ma femme et mon fils à la mort.
+Et signant le trépas d'une main criminelle
+D'avoir du même trait d'une plume infidèle,
+Effacé de mon coeur la nature et l'amour.
 
--*who_orismond
-Je dépêche souvent vers eux de mes soupirs,
-Qui leur vont expliquer mes voeux et mes désirs.
+Hélas ! C'est le sujet dont ma douleur s'irrite.
 
--*who_golo
-Ces subtils messagers n'ont-ils point quelque adresse
-Pour savoir ce que fait l'ombre de la Comtesse.
+Ô Dieu !
 
--*who_orismond
-Hélas si vous savez le lieu de son trépas,
-Pour enterrer son corps ne me le cachez pas.
+Je vous cachais mon nom, d'où l'avez-vous appris.
 
--*who_golo
-Son ombre en ces Forêts aura pu vous le dire.
+Sept étés ont déjà coulé depuis ce temps.
 
--*who_orismond
-Mon coeur après ce bien depuis sept ans soupire,
-Mais en vain tous ces bois pour cela j'ai couru.
+Hélas ! Que fîtes-vous à ce triste spectacle ?
 
--*who_golo
-Son ombre ne vous a jamais ici paru ?
+Je ne m'étonne plus de l'instinct qui m'attire,
+Vers ces lieux consacrés du sang d'une martyre.
+C'est son aimable esprit qui tourne ici ses pas,
+Pour venir honorer le lieu de son trépas.
+Chers autres, reprenez les restes de ma vie,
+Dont déjà vous m'avez une moitié ravie,
+Et souffrez, bois sacrés, que mon dernier soupir,
+Y rejoigne la mienne avec repentir.
 
--*who_leris
-Vous en avez reçu pour le moins une lettre ?
+Ses mânes de mon sang se pourront satisfaire.
+À quel autre dessein viennent-ils chaque nuit,
+Me montrer cet endroit où le Ciel m'a conduit ?
 
--*who_orismond
-Si j'en avais reçu, je les ferais paraître.
-Mais si vous ne voulez soulager ma douleur,
-Ah ne vous moquez pas d'un si sanglant malheur ;
-Je veux qu'elle ait failli, plus sa faute fut grande,
-Plus de compassion sa peine vous demande.
+Serais-je assez heureux que de la voir paraître.
 
--*who_golo
-Conservez-en pour vous ces belles passions :
-Mais ne vous chargez pas de ces commissions,
-Autrement, Orismond, ici je vous dénonce
-Que vous en porterez vous-même la réponse !
+Ah ! J'en ai tous les traits bien gravés dans mon coeur ?
 
--*who_leris
-Laissons-le là-dessus rêver tout à loisir,
-Et suivons cependant notre innocent plaisir.
+Quoi que sur son visage aient effacé les Parques,
+L'amour ingénieux m'en donnera des marques.
 
-**** *book_ *id_IV07 *act_IV
+Ah !
 
--*who_orismond
-Tu n'iras pas bien loin, ton âme meurtrière
-Vois déjà de bien près le bout de sa carrière,
-Et ce juste vengeur des injustes desseins,
-Réserve contre toi bien plus que tu ne crains :
-Il permet à la fin que ton bonheur se rompe,
-Que ton pouvoir t'aveugle et ta faveur se trompe ;
-L'ombre qui t'a fait peur sous un si faible état,
-T'accablera bientôt de son vivant éclat.
-Mais parmi ce bonheur je crains que ce perfide,
-Ne la rencontre ici sous sa main homicide.
-Ah j'ai tort de le craindre, et celui dont l'amour
-L'a voulu conserver pour ce bienheureux jour,
-Doit bientôt en ces bois faire à son innocence
-Un triomphe éclatant de sa reconnaissance.
-Que ce lieu pour le faire était avantageux
-Si j'eusse pu moi seul les y trouver tous deux,
-Car sans doute voici la grotte qu'elle habite,
-Et que le Ciel souvent de ses faveurs visite.
-Que ne s'y trouvait-elle, ô Dieu ! Lorsque Sifroy,
-Lui donnait de son sang pour preuve de sa foi.
-Hélas en l'empêchant de sortir de la vie,
-Elle l'eût bien puni de l'en avoir bannie ;
-En arrachant le dard à son persécuteur
-D'un plus aimable trait elle eût percé son coeur.
-Mais peut-être, mon Dieu, que votre providence
-Veut encore par ses maux éprouver sa constance,
-Ou vous avez un temps leur bonheur différé,
-Pour punir son Sifroy d'avoir désespéré.
-Quoi qu'il soit, Seigneur, si votre amour l'ordonne ;
-Ils en pourront tous deux embellir leur couronne,
-Ou si vous les voulez à la fin soulager
-Vous pourrez bien sans moi ce bonheur partager.
+      Je meurs !
 
-**** *book_ *id_IV08
+Ah Cieux, où sommes-nous ! Geneviève est-ce toi ?
+De quel oeil peux-tu voir maintenant ton Sifroy :
+Ou de quel oeil peut-il supposer ta présence,
+Convaincu de son crime et de ton innocence ?
+Si malgré ma rigueur tu vois encor ce jour,
+Ah ! Pardonne un péché que causa mon amour ?
+Ou si parmi les morts je vois errer ton ombre,
+Souffre que ma douleur en augmente le nombre ?
 
-IV. ENTRE-ACTE. En Ballet.
+Tu vis donc ? Ah ma mort en est plus légitime,
+Et Dieu ne te sauve que pour punir mon crime.
 
--*who_troupedesnymphes
+      Geneviève, dis mieux ?
+C'est pour le reprocher tout entier à mes yeux ;
+Quoi malgré ma fureur, malgré ma jalousie,
+Ces affreuses forêts t'ont conservé la vie ?
+Et ta vertu trouva chez elle plus de foi,
+Qu'un si fidèle amour n'en rencontra chez moi ?
+Après cela comment peux-tu souffrir ma vue ?
+
+      Et par un juste sort,
+Ton respect à son tour me condamne à la mort ;
+Je suis le criminel, je dois prendre ta place.
+
+      Mais tu ne le dois pas !
+J'en ai perdu le droit en signant ton trépas,
+Et tu n'es plus à moi depuis ce coup funeste !
+
+Je ne mérite plus de posséder ce bien.
+
+Au moins pour châtiment ordonne que ton âme,
+Reçoive mes devoirs sans allumer sa flamme,
+Et que pour me punir d'avoir aimé si peu,
+Elle ne sente rien de l'ardeur de mon feu.
+
+Aimer un criminel, c'est se rendre coupable.
+
+Ordonne pour le moins quelque autre châtiment ?
+
+Ce tourment est trop beau pour en faire un supplice !
+
+Au moins raconte-moi les morts que mille fois,
+Il t'a fallu souffrir dans l'horreur de ces bois,
+Ce funeste récit de ta longue misère
+Pourra bien me punir autant que ma colère ;
+Et malgré tes bontés afin de me punir,
+Ta douleur s'armera de ce ressouvenir.
+
+Mais las ! Qu'est devenu l'innocent malheureux,
+Qui fut le premier fruit de nos plus chastes voeux.
+
+      Quoi n'a-t-il pu survivre ?
+
+Il vit donc ce cher fils ?
+
+Dieu, que de toutes parts mon bonheur est extrême.
+
+Pardonne à mon erreur de l'avoir soupçonnée,
+Pardonne à mon amour de l'avoir condamnée.
+
+Il est vrai que mon coeur n'en fut jamais complice
+Et que pour le surprendre on usa d'artifice ;
+Tous les plus noirs démons y furent employés
+Les charmes les plus forts y furent déployés,
+Mais contre ces démons et contre tous leurs charmes,
+Mon amour opposait d'assez puissantes armes.
+Si le traître Golo continuant son jeu,
+D'une sombre vapeur n'eût étouffé mon feu.
+
+Puisque vous l'ordonnez, j'en suis content, Madame ;
+Mon coeur va rallumer la vie à votre flamme
+Et comme il ne doit plus vivre que sous vos lois,
+C'est lui seul qui me fait consentir à ce choix ;
+Je suis, je le confesse, indigne de la vie,
+Mais si votre bonté désormais m'y convie,
+Je veux en recevoir l'arrêt à vos genoux.
+
+Permettez seulement qu'acceptant ce pardon,
+Je baise au moins la main de qui me vient ce don ;
+Et qu'un amour discret combattu de la crainte,
+Reçoive avec respect cet honneur d'une sainte.
+
+Ah le pauvre innocent saura-t-il qui je suis ?
+
+Il ne te trompe pas, et le mien t'en assure
+Ah ! Madame j'en crois la voix et la nature,
+Mon cher fils, à quel maux t'avais-je abandonné
+Toi qu'un si chaste amour m'avait si tôt donné,
+Viens t'en naître aujourd'hui dans le sein de ton père,
+Viens y boire l'oubli de ta longue misère.
+
+Ah je ne vivais pas.
+
+Ne perce pas mon coeur d'un si sanglant reproche ?
+Que ce premier moment de mes embrassements
+Efface, mon cher fils, tes peines de sept ans.
+
+Que l'esprit, aussi bien que le coeur en est bon ;
+Comment l'appellerai-je, apprenez-moi son nom ?
+
+Le Ciel nous le rendant par cette aimable joie,
+Nommons-le notre Isaac, l'enfant de notre joie.
+
+Hélas ! D'où le sait-il ?
+
+Qu'elle en avait raison ?
+
+      Reviens par mes caresses
+Je les veux essuyer.
+
+Je t'en suis obligé, mais les peines passées,
+Par plus grandes faveurs seront récompensées.
+Un bien n'est pas si doux dans un bonheur égal
+Comme lorsqu'il succède aux sentiments du mal.
+Vous qui dans le débris d'un si triste naufrage,
+Prenant Bénoni par la main, le présente à Geneviève.
+M'avez de votre amour conservé ce beau gage,
+Jouissez-en, Madame, et recueillez ces fruits,
+Qu'ont ici cultivé vos soins et vos ennuis.
+
+Plus je te considère, et plus je vois de traits,
+Où la nature a mis en un nos deux portraits.
+
+Orismond qui savait ma faute et mon regret,
+Devais-tu me cacher si longtemps ce secret ;
+Mais sachant ses malheurs avec son innocence,
+Devais-tu la laisser souffrir par ton silence ?
+
+      Ah permettez, Madame,
+Que j'immole à vos pieds cette malheureuse âme
+Et que du crime auquel il m'a fait consentir,
+Je montre en vous vengeant un juste repentir
+
+Madame, vous avez le même droit sur moi.
+
+      Traître, dis que t'en semble ?
+La reconnais-tu bien ?
+
+      La main te tremble ?
+Viens çà, cette beauté n'a-t-elle plus de quoi,
+Te prendre par les yeux, et débaucher ta foi.
+
+      Son aspect t'est-il encor funeste.
+Brûle-t-elle ton coeur de ce peu qu'il lui reste ?
+
+      Oui, traître je le fus,
+Lorsque tu l'accusas, et lorsque je te crus ;
+Mais Dieu découvre enfin ce crime véritable
+Que tu pensais cacher, en me rendant coupable.
+
+S'ils étaient innocents ne les accuse pas :
+Quoi traître fallait-il après ce grand outrage,
+Faire de ses refus un triomphe à ta rage ?
+Si les chastes appas t'étaient contagieux,
+Tu devais par respect en détourner les yeux.
+
+Pourquoi tant différer ?
+
+C'est dans ces bois sacrés, complices de vos peines.
+Que je veux que mes chiens ouvrent toutes ses veines,
+Pour expier les maux que vous avez soufferts.
+
+Si vous ne prononcez, je préviens la sentence.
+
+Je le jure, et le Ciel moi-même me punisse
+Si de mes propres mains je ne vous fais justice.
+
+Qu'un si noir attentat échappe à ma justice !
+
+Qu'il vive ayant tâché de vous faire périr !
+
+Que je ne venge pas cette sanglante injure !
+
+Que pour vous obéir je trahisse mon coeur !
+
+Je n'y puis consentir, Madame, j'en appelle !
+
+Vous lui pouvez céder votre propre intérêt ;
+Mais quel droit avez-vous de remettre une offense
+Qui blesse mon honneur plus que votre innocence ?
+
+Je n'y puis résister, cette grâce est trop forte ;
+Votre exemple, Seigneur, et son amour l'emporte,
+Et puisqu'il faut céder, je cède à la vertu,
+Contre laquelle en vain j'ai longtemps combattu.
+Va traîner dans ces bois ta misérable vie,
+Et dans notre disgrâce et dans notre infamie.
+
+Sortons donc au plutôt de l'ombre de ce lieu
+Où je veux consacrer un temple à notre Dieu.
 
 
-Triomphez, aimables chasseurs,
-Du recouvrement de ces coeurs,
-Qu'avait surpris la calomnie,
-La prise était digne de vous,
-Et ce détestable génie
-Ne devait céder qu'à vos coups.
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_genevieve
 
-Faites qu'une sainte amitié
-Joigne si bien chaque moitié,
-Qu'aucun sort plus ne les sépare,
-Ce travail est digne de vous,
-Il faut qu'un chef-d'oeuvre si rare
-Ne s'achève que par vos coups.
+Quittons, cher Bénoni, des demeures si sombres.
+Tirons ton innocence et ma foi de leurs ombres.
 
-**** *book_ *id_V01 *act_V
+Hors de ces bois, mon fils, chercher un sort plus doux,
+Qui me rendant l'honneur, rende à ton innocence,
+Les droits avantageux d'une illustre naissance.
 
--*who_siroy
-Enfin je me vois seul, et je n'ai que mon ombre,
-Qui me suit à regret dedans un lieu si sombre.
-Magnifique Palais, toute votre beauté
-N'a rien de comparable à cette obscurité ;
-Que sert votre appareil de dais et de balustres,
-Qu'à rendre bien souvent nos peines plus illustres ?
-Que fait ce faux éclat de vos félicités,
-Qu'un charme dont nos sens demeurent enchantés ?
-Ah ! Mille fois heureux, qui dans la solitude,
-Fuyant des vains honneurs la vaine servitude,
-Et rompant tout à coup la chaîne des péchés
-Où les autres mortels se trouvent attachés,
-Y vient par ses regrets et par sa pénitence,
-Chercher en soupirant sa première innocence.
-Adieu monde trompeur ! Je romps ici les fers
-Qui m'ont presque accablé depuis que je te sers.
-Mais ce discours au lieu de soulager mes peines,
-Met la soif sur ma langue et le feu dans mes veines ;
-Cette source fournit un remède à mon mal,
-Dans l'humide trésor de son petit canal.
-Ah Dieu ! Qu'on goûte mieux dans cette eau toute pure,
-Les biens dont l'innocence honorait la nature,
-Puisque même l'excès de ses contentements
-N'a rien dont la douceur puisse enivrer nos sens.
-Mais les froides vapeurs que sa fraîcheur excite
-Se joignant au doux bruit dont ce ruisseau m'invite
-M'obligent à fermer pour un moment les yeux,
-Et jouir en dormant du repos de ces lieux ;
-J'y pourrai cependant plus doucement attendre
-Le fidèle Orismond que j'y devais reprendre.
+Si Dieu par tant de maux est las de l'éprouver,
+Sans perdre un si beau droit nous le pourrons trouver,
+Et ce sort finissant notre longue misère,
+Me peut rendre un époux et te donner un père.
 
-**** *book_ *id_V02 *act_V
+Il est vrai, mon mignon, qu'il en fait son palais,
+Que c'est dans ce séjour d'innocence et de paix
+Où ce dieu qui nous sert de Père en nos désastres
+Prépare à ses enfants des trésors sur les Astres ;
+Que c'est sur ces cristaux et ces voûtes d'azur,
+Où les Astres brillants rendent un feu si pur,
+Que ceux qui l'ont aimé marchant sur les étoiles
+Contemplent ces beautés sans nuages et sans voiles.
+Mais de tous les mortels étant père commun
+Il laisse encore le sien sur la terre à chacun.
 
--*who_genevieve
+Oui, mon fils, il en est, et nos plus grands déserts
+Ne sont qu'un petit coin de ce vaste Univers,
+Ce n'est rien à l'égard du reste de la terre
+Que le Ciel que tu vois sous sa rondeur resserre,
+Et dont tous les vallons et les riches coteaux
+Font ombre à des maisons, ou portent des châteaux ;
+D'où l'on voit fourmiller de tous côtés des hommes
+Qui vivent comme nous étant ce que nous sommes,
+Et selon le chemin qu'un chacun a battu
+Ayant suivi le vice ou suivi la vertu,
+Reçoit après la mort de la prompte Justice,
+Des prix pour la vertu, des peines pour le vice.
+Cet aimable inconnu, dont tu portes le sang,
+Parmi ceux que je dis, tiens un illustre rang.
+
+Puisqu'il est temps, mon fils, que je te le déclare,
+Et qu'un rayon du ciel a prévenu tes ans,
+Pour ouvrir ton esprit à ces ressentiments,
+Pour déplorer ton sort commence à te connaître ;
+D'un père assez heureux, le Ciel t'avait fait naître,
+Si prenant un soupçon funeste à mon honneur,
+Lui-même n'eût détruit d'abord tout son bonheur.
+Du plus noir des péchés il soupçonna ta mère,
+Et te crut, mon cher fils, le fruit d'un adultère.
+
+Mais puisque ma beauté te causa ce malheur,
+Moi seule j'en devais ressentir la douleur.
+Il nous condamna donc de perdre ici la vie,
+De la mienne ta mort devait être suivie,
+Si ceux dont notre sang devait souiller les mains
+N'eussent pris dans ces bois des sentiments humains ;
+Car voici, Bénoni, l'endroit où l'injustice
+À ce jaloux soupçon eût fait le sacrifice,
+Si ce sacré silence, et cette sainte horreur
+Par un secret instinct n'eût charmé leur fureur,
+Ces bourreaux un moment de mort nous pardonnèrent,
+Mais à de longs tourments ils nous abandonnèrent,
+Que dans ce triste état, en ces affreux déserts,
+Sans secours que du Ciel j'ai du depuis soufferts.
+
+Que trop, mon cher mignon, regarde seulement
+Ce qui s'offre à tes yeux dans cet éloignement,
+Y vois-tu ce Château qui sur une colline
+Commande avec orgueil la campagne voisine.
+C'est là que cet auteur de nos maux tient sa Cour,
+Ce fut là que tu vis premièrement le jour.
+C'est là que de nos maux je veux l'aller instruire,
+Et c'est là qu'aujourd'hui je te veux reconduire.
+Sortons donc, mon cher fils, de ces vastes forêts,
+Où nos biens sont trop lents et nos maux trop secrets.
+De cette solitude en souffrance féconde
+Une seconde fois je te veux mettre au monde,
+À ce père inconnu je te veux présenter
+Pour gages de ma foi dont il osa douter.
+
+Non, mon fils, ce dessein serait trop hasardeux,
+Si sur la même route on nous voyait tous deux :
+Il vaut mieux te cacher dans ce bois pour m'attendre,
+Ayant sondé ce gué je viendrai te reprendre.
+
+Je laisse avecque toi tous mes amours ici ;
+Je t'y viendrai quérir, ce baiser t'en assure ;
+Cache-toi seulement dans cette grotte obscure.
+Avant que le Soleil ait terminé le jour,
+Je te promets, mon fils, d'être ici de retour.
+
+      Veux-tu donc que je reste ?
+
+Va, mon fils, ne crains rien.
+
+C'est en vos mains, Seigneur, que je mets ce dépôt,
+Je le laisse en ces bois sous votre sainte garde,
+Pendant qu'en ce Château pour lui je me hasarde,
+Que si je dois périr, Arbitre de nos jours
+Vous le pourrez sauver, par quelque autre secours,
+Et vous, chers confidents de mes inquiétudes
+Rochers, arbres, ruisseaux, aimables solitudes
+Dont les charmes secrets en flattant ma douleur
+N'ont fait que prolonger ma peine et mon malheur,
+Puisqu'un si beau dessein m'a jusqu'ici conduite,
+Pour me rendre à Sifroy souffrez que je vous quitte,
+Et que pour voir la fin d'un si funeste sort,
+J'aille chez lui chercher ou ma grâce ou ma mort.
+Il est vrai, chers déserts, que je vous dois la vie
+Qu'une jalouse humeur m'avait presque ravie,
+Il est vrai, chers déserts, que je trouvai chez vous,
+Ce que je n'avais pu dans l'esprit d'un Époux.
+Vous permîtes au moins que je vous informasse
+Et n'apprîtes mes maux que pour me faire grâce ;
+Mais souffrez que je l'aille au moins désabuser,
+De ce que l'Enfer seule a pu me supposer ;
+Ah ! Que me dites-vous pas ces secrets reproches
+Que me font là-dessus vos arbres et vos roches.
+Hélas ! Me dites-vous, une seconde flamme
+A déjà fait mourir la tienne dans son âme
+Cieux ! Aurait-il été si traître à l'amitié,
+Qu'il aura dû garder à sa chère moitié ?
+Non, il aura voulu se conserver la gloire
+D'avoir du moins été fidèle à ma mémoire.
+Soupçons, craintes, désirs, que voulez-vous de moi,
+Que dois-je me promettre ou craindre de Sifroy ?
+Quoi qu'il en soit, cherchons chez lui notre refuge,
+S'il n'est plus mon Époux, il doit être mon Juge.
+Allons finir la vie en ces funestes tours
+Où furent éclipsés les plus beaux de mes jours,
+Ne pouvant autrement prouver mon innocence,
+Je la puis hasarder pour sa propre défense ;
+Mais hélas ! Mon Sifroy saura-t-il qui je suis,
+Dans ce grand changement qu'ont causé mes ennuis ?
+S'il ne me connaît plus, ce qui me défigure,
+Lui fera de mes maux la naïve peinture,
+Ces traits tout émoussés, ces yeux tout languissants,
+Pour lui percer le coeur en seront plus puissants.
+
+      D'où vient cette voix qui m'appelle ?
+
+      Ô Dieu ! C'est ce vieillard fidèle
+Dont le soin m'éleva pendant mes premiers ans.
+
+Et bien pour me purger de cette calomnie
+Je viens représenter mon innocente vie ;
+Quoi, sur un faux rapport vous en avez douté ?
+
+Quoique de ma beauté je ne suis plus qu'une ombre,
+Je n'ai pas pour cela des morts accru le nombre.
+Je vis, cher Orismond, et je garde à Sifroy
+Dans ce corps survivant des marques de ma foi.
+
+      Oui pourvu que Sifroy soit en vie.
+
+Il pense donc à moi ?
+
+Celui dont l'équité n'approuvait pas ma peine.
+Déjà deux assassins avaient le fer en main,
+Pour immoler ici mon cher fils sur mon sein,
+Quand touchés de mes pleurs et de mon innocence,
+Ils eurent de l'horreur de cette violence,
+Mais de peur qu'on ne vint à les en rechercher
+Dans le fonds de ces bois ils nous firent cacher.
+
+Il est vrai que d'abord j'eus beaucoup à souffrir,
+Et je crus mille fois m'y voir bientôt mourir,
+Il n'est point de rucher qui ne reçut mes plaintes,
+Et qui n'en témoignât de sensibles atteintes.
+Il n'est point de ruisseau que n'enflassent mes pleurs,
+Et qui ne murmurât alors de mes malheurs,
+La terre, les rochers, les buissons et les arbres,
+Pour les éterniser m'y serviront de marbre.
+Mais Dieu me fit bientôt changer de sentiment,
+Faisant mon Paradis de mon bannissement.
+
+Vous faites bien valoir ce que la solitude
+Aux âmes du commun paraît avoir de rude.
+Mais vous ne savez pas les secrètes douceurs
+Dont le Ciel prend plaisir d'y consoler les coeurs ;
+La Mère du Sauveur, qui par mille merveilles
+Fait ressentir partout ses bontés sans pareilles,
+Vint m'assurer d'abord que ses aimables soins
+Ne nous manqueraient pas dans nos plus grands besoins :
+Et dès lors de ces soins un effet admirable
+Fit voir qu'elle serait à nos maux favorable :
+Comme je pensais voir mon pauvre fils mourir
+N'étant plus en état de le pouvoir nourrir,
+Une biche s'offrit pour être sa nourrice,
+Et continue encor ce charitable office ;
+Dans nos autres besoins les tigres et les ours
+Nous vinrent présenter leurs innocents secours,
+Et dès les froides nuits pour soulager nos peines
+Ils viennent échauffer nos corps de leurs haleines ;
+Les loups après avoir égorgé quelque agneau
+Pour habiller mon fils, m'en présenter la peau ;
+La terre à notre faim nous fournit ses racines
+Et nous donne des fruits jusques sur les épines ;
+Que dirai-je, Orismond, des célestes plaisirs
+Dont Dieu par ses bontés a comblé nos désirs ?
+Mais jusqu'à mes habits conservés par miracle
+Me font de ses bontés un illustre spectacle.
+
+Le traître par ma mort, secrète et sans éclat,
+Crut étouffer enfin son étrange attentat.
+Vous vous souvenez bien comme au bruit des alarmes
+Que causèrent chez nous les Sarrasins en armes,
+Le Comte se sevrant des premières douceurs,
+Dont un nouvel hymen nourrissait nos deux coeurs,
+Courut pour avoir part à la belle victoire,
+Que Charles remporta sur les bords de la Loire,
+Cet adieu me jetant dans de grandes douleurs
+Il me laissa Golo pour essuyer mes pleurs :
+Golo qui dès ce temps avait sa confidence,
+De toute la maison avait seul l'intendance,
+Cet homme n'omet rien pour s'en bien acquitter,
+Il n'épargne aucun soin dont il put me flatter ;
+Mais je ne sais comment cette malheureuse âme,
+Jusqu'auprès de mes pleurs prit une injuste flamme.
+
+Il fit plus, il osa me déclarer ses voeux,
+Il fit parler d'abord parler les soupirs et les larmes,
+Il fit ensuite agir et la fourbe et les charmes ;
+Mais un des Officiers qu'il pensait suborner,
+Pour un philtre amoureux qu'il me voulait donner,
+M'ayant secrètement découvert cette flamme,
+À nous perdre tous deux engagea cet infâme ;
+Comme je l'en aimai sur tous mes Officiers,
+Ce traître s'en piquât par des soupçons grossiers,
+Fit croire que le fruit d'un hymen légitime,
+Qui parut en ce temps, était celui d'un crime.
+Ce fut sur ces soupçons, et sur ce faux rapport,
+Que le Comte trompé consentit à ma mort.
+
+Sans blâmer son amour, accuse son erreur,
+Ou plaignant ma disgrâce, excuse sa fureur.
+
+S'il fut mauvais époux, c'est qu'il fut trop bon maître.
+
+C'est lui-même, Orismond, votre abord l'a surpris ;
+Approchez, mon mignon ; dans ces bois où nous sommes,
+Depuis qu'il se connaît il n'a vu que vous d'hommes.
+
+Non pas encor, mon fils.
+
+T'avais-je pas promis de venir te reprendre ?
+
+Hé ! Que tant d'innocence et de maux sont à plaindre,
+Que si tu le voyais, infortuné Sifroy,
+Pourrais-tu bien le perdre et douter de ma foi ?
+
+Puisqu'il en a tant dit, il faut que je confesse,
+Un dessein que j'ai pris de ma seule faiblesse,
+Enfin sous tant de maux mon courage abattu,
+Ne trouvant plus d'appuis sur sa propre vertu,
+M'avait fait lâchement abandonner la place,
+Pour chercher hors des bois ou ma mort ou ma grâce.
+C'est là ce que j'allais moi-même demander,
+À celui qui me doit l'un ou l'autre accorder.
+
+J'aurais trouvé la mort qui me suit dans ces bois.
+
+Je t'avais enseigné le chemin de me suivre.
+
+Je t'avais laissé libre en ne t'y menant pas.
+
+Pour sortir de mes maux, c'est le seul qui me reste.
+
+J'approuve, mon cher fils, ce que le Ciel t'inspire ;
+C'est du même côté que la Grâce m'attire.
+Adieu donc, Orismond, auprès de cet Époux,
+Fais tout ce que le Ciel t'inspirera pour nous ;
+Nous allons cependant reprendre cette route.
+
+Non certes, Orismond, mais c'est que je ressens,
+Vers des lieux si sacrés des attraits trop puissants.
+Aimable solitude où Dieu me tient captive,
+Ne me recevez pas comme une fugitive,
+Mais si lamais pour moi vous eûtes des appas,
+Pour flatter mon retour ne les épargnez pas.
+Et toi que j'aime plus que je ne crains ta haine,
+Objet de mes regrets et cause de ma peine :
+Sifroy, vis si tu peux content sans ta moitié
+Et ne sens de mes maux pas même la pitié,
+Pour éviter ma mort qui chez toi me menace
+Je vais dans ces forêts chercher encore ma grâce,
+Et je vais raconter à ces lieux pleins d'effroi
+Ce que je n'ose pas confier à ta foi. .
+
+Sept ans à celle-ci m'ont déjà toute faite.
+
+Voyez-vous ce ruisseau qui sort de cette source,
+Après que vous aurez longtemps suivi sa course,
+Vous le verrez enfin coupé d'un grand rocher,
+C'est dessus son sommet qu'il me faudra chercher.
+Mais je veux, Orismond, vous laisser quelque gage,
+Où Sifroy de mes maux puisse voir une image.
+
+      Me pourriez-vous prêter quelque crayon,
+Je vois dans mon esprit naître un petit rayon,
+Qui des jours plus sereins semble à mon coeur promettre.
+
+      Voyez-vous cette lettre ?
+C'est la dernière, hélas ! Que m'écrivit Sifroy,
+Et ce qui m'est resté des gages de sa foi,
+Mais gages trop légers dont la seule écriture
+Remet devant mes yeux combien il fut parjure,
+Lorsque me promettant que bientôt de retour
+Il viendrait recueillir le fruit de notre amour.
+Je lui veux envoyer afin qu'elle le confonde,
+Et que de mon amour son gage lui réponde,
+Je veux que ce crayon pour aider mon dessein
+Ajoute seulement quelques mots de ma main.
+
+Celle que je prendrai ne me pourra pas nuire,
+Je veux faire passer mon ombre seulement
+Comme errante en ces bois faute de monument,
+Et dans ce triste état lui demander justice
+Du crime que Golo cacha dans mon supplice.
+
+Écoutez Orismond en quels termes j'écris,
+Et jugez si Sifroy n'en sera pas surpris.⁎⁎⁎⁎ 
+Du fond de ces demeures sombres
+Où j'erre encore parmi les ombres,
+Souffre que mon esprit vienne jusqu'en ce lieu
+Pour reprocher au tien cette sanglante injure
+Qui me laisse sans sépulture ;
+Et demander justice en te disant adieu.
+
+Écoutez-en la suite et comme je finis.
+Il ne m'est resté qu'une chose
+Dont le Ciel veut que je dispose
+C'est mon coeur, cher Époux, qui fut toujours à toi.
+Je t'en fais héritier même après mon supplice,
+Et croirais faire une injustice
+De souffrir que la mort l'enlevât à Sifroy.
+Puisque chez toi mon innocence
+N'a pu trouver autre défense,
+Ces lignes te pourront convaincre de ma foi
+Et te témoigneront que celui qui m'opprime
+Ne m'a supposé ce grand crime
+Que pour cacher le sien et s'en venger sur moi.
+
+      Je veux exprès le taire,
+Et que Sifroy lui-même explique ce mystère.
+
+Ton sort, mon cher enfant, est au mien trop uni
+En y parlant pour moi, je parle pour toi-même.
+
+Ce sera, mon cher fils, pour la première fois.
+
+      Le jour n'a plus qu'une heure,
+Il est temps de chercher notre chère demeure,
+De peur de nous laisser surprendre par la nuit,
+Car aussi bien j'entends en ce bois quelque bruit.
+
+Vous pourrez de l'écrit leur faire confidence
+S'ils me peuvent servir avec coeur et prudence ;
+Mais sans leur révéler le secret de ma mort.
+
+      Rentrons dans notre fort
+Où l'ombre suit le jour.
+
+Ô Dieu ! Sacrés repos dont mon âme est charmée,
+Ah ! Dans quelles douceurs m'avez-vous abîmée :
+Célestes visions ! Agréables appas !
+Que puis-je voir d'aimable en ne vous voyant pas ;
+Brillant écoulements des sources de lumière,
+Vives effusions de sa beauté première !
+Si pour jouir de vous il faut fermer les yeux
+Qu'ai-je à vous sur la terre ou même dans les Cieux.
+Soleil dans quelque éclat que tu sortes de l'onde
+Et de quelque beauté que tu pares le monde ;
+Tu ne me fais rien voir en ramenant le jour,
+Qui vaille cet objet où j'ai mis mon amour,
+Et toutes les beautés que découvre sa course
+Comme tous tes rayons viennent de cette source,
+Cher objet de mon coeur vos appas sont trop doux,
+Pour pleurer désormais la perte d'un époux ;
+Et le moindre moment de vos saintes délices
+M'ôtent le souvenir de mes plus longs supplices.
+Mais une grâce encor ? Et faites que Sifroy
+En plaignant mon malheur, n'accuse plus ma foi.
+Et vous qui renaissant dissipez les nuages,
+Soleil, de son esprit écartez ses ombrages,
+Ou vous plutôt de qui j'attends cette faveur,
+Vierge sainte, agissez pour moi dedans son coeur
+Et faites qu'il connaisse mon innocente plainte
+Que mon amour lui fait par une lettre feinte,
+Qu'il sache l'imposture et la malignité
+Qui supposa ce crime à ma pudicité ;
+Mais permettez encor que je vous importune
+Pour cet enfant qui suit dans ces bois ma fortune,
+Après ma longue mort qui va bientôt finir,
+Hélas ! Cet innocent que doit-il devenir ?
+Pardonnez à ses pleurs, qui malgré ma constance
+Semblent craindre pour eux dessous votre assistance,
+Non, bon, je m'en remets à ces aimables soins
+Qui ne doivent jamais manquer à nos besoins
+Comme vous lui servez depuis sept ans de mère,
+Vous lui gardez encor bien plus que je n'espère.
+
+      Et bien mon fils ?
+
+Pourquoi, mon cher enfant ?
+
+      Qu'avez-vous ?
+Quel monstre vous fait peur ?
+
+      Quoi Bénoni ?
+
+N'est-ce pas ce vieillard ?
+
+Ce seront des brigands qui courent dans ces bois.
+Cachons-nous, mon cher fils, derrière cette roche.
+
 Hélas je suis perdue ! Il n'est point de rocher
 Dont la plus sombre horreur me puisse bien cacher,
 Golo cherche en ces bois les restes de ma vie,
@@ -3024,9 +1263,6 @@ Mais qu'est-ce que je vois couché sur la fontaine ?
 Est-ce Sifroy qui dort lui-même dans ces lieux,
 Serait-ce bien l'objet si aimable à mes yeux ?
 
-**** *book_ *id_V03 *act_V
-
--*who_genevieve
 
 
 Vous ne me trompez pas, les instincts de mon âme
@@ -3070,53 +1306,21 @@ Pendant qu'il dort ainsi penché sur ce ruisseau
 Je vais l'interroger, trempant sa main dans l'eau.
 Sifroy ? Mon cher Sifroy ?
 
--*who_sifroy
-      Que me veux-tu, chère ombre ?
-
--*who_genevieve
 Il répond ! Que fais-tu dans cette Forêt sombre ?
 
--*who_sifroy
-Je t'y cherche.
-
--*who_genevieve
       Quoi donc reconnais-tu ma voix ?
 
--*who_sifroy
-Hélas toutes les nuits je l'entends dans ce bois.
-
--*who_genevieve
 Quel dessein t'y conduit ?
 
--*who_sifroy
-      D'y faire pénitence.
-
--*who_genevieve
 De quoi ?
 
--*who_sifroy
-      De mon erreur et de ton innocence.
-
--*who_genevieve
 Tu la reconnais donc ?
 
--*who_sifroy
-      Il est vrai.
-
--*who_genevieve
       Si les Cieux
 M'allaient hors du sommeil présenter à tes yeux ?
 
--*who_sifroy
-Dès que je vois le jour son image s'efface.
-
--*who_genevieve
 Mais encor, s'ils voulaient te faire cette grâce ?
 
--*who_sifroy
-Que je serais heureux !
-
--*who_genevieve
       Croirai-je son sommeil ?
 Et puis-je sur ce gage avancer son réveil ;
 La crainte de Golo ne permet plus d'attendre,
@@ -3130,71 +1334,21 @@ De peur que ton accès ne le mette en danger ;
 Cachons-nous pour un temps, le voici qu'il s'éveille,
 À ses premiers discours prêtons un peu l'oreille.
 
-**** *book_ *id_V04 *act_V
-
--*who_sifroy
-Me fuiras-tu toujours quand je pense te voir,
-Ne me parleras-tu que pour me décevoir.
-Ombres en quel endroit cachez-vous le modèle
-Dont celles du sommeil font l'image si belle !
-Mais vous plutôt, mon Dieu, dissipez ces portraits
-Par le lustre éclatant de vos divins attraits
-Que rien que cet objet n'ait plus pour moi de charmes ;
-Qu'il allume mes feux pour essuyer mes larmes :
-Et puisque maintenant Geneviève est à vous,
-Faites qu'elle y rejoigne encore son Époux ?
-Que mon bonheur est lent, et qu'Orismond diffère.
-Allons à sa rencontre ?
-
-**** *book_ *id_V05 *act_V
-
--*who_genevieve
       Où va ce téméraire ?
 Après avoir manqué de respect pour ce lieu,
 Et troublé le repos des servantes de Dieu
 
--*who_sifroy
-Ne reconnaissant pas Geneviève.
-C'est celle assurément qui loge en cette roche ;
-Mais mon abord l'offense, évitons son reproche.
-
--*who_genevieve
 Arrête ? Je saurai quel dessein t'y conduit ?
 Ou quel est l'attentat pour qui l'on te poursuit.
 
--*who_sifroy
-Tous mes persécuteurs sont dans ma conscience,
-Elle me pousse ici pour faire pénitence.
-
--*who_genevieve
 De quel crime ?
 
--*who_sifroy
-      D'avoir sur un méchant rapport
-Abandonné ma femme et mon fils à la mort.
-Et signant le trépas d'une main criminelle
-D'avoir du même trait d'une plume infidèle,
-Effacé de mon coeur la nature et l'amour.
-
--*who_genevieve
 Après ces attentats, tu vois encor le jour !
 
--*who_sifroy
-Hélas ! C'est le sujet dont ma douleur s'irrite.
-
--*who_genevieve
 Pleurez, pleurez, Sifroy, le sujet le mérite.
 
--*who_sifroy
-Ô Dieu !
-
--*who_genevieve
       Quel accident nouveau vous a surpris ?
 
--*who_sifroy
-Je vous cachais mon nom, d'où l'avez-vous appris.
-
--*who_genevieve
 Il n'est point de secrets cachés à l'innocence,
 C'est une des faveurs dont dieu la récompense.
 Dans l'ombre des Forêts un seul de ses rayons,
@@ -3202,20 +1356,12 @@ Du monde quoiqu'absent nous tracent des crayons.
 Mais je veux toutefois de vous savoir le reste,
 Et tous les accidents d'une mort si funeste.
 
--*who_sifroy
-Sept étés ont déjà coulé depuis ce temps.
-
--*who_genevieve
 Excusez si ce mot m'a surprise : sept ans !
 C'est le nombre à peu près, si j'ai bonne mémoire,
 Qu'arriva dans ces bois une semblable histoire,
 Deux brigands sans respect de rang ni de beauté
 Y traînaient une Dame avec indignité.
 
--*who_sifroy
-Hélas ! Que fîtes-vous à ce triste spectacle ?
-
--*who_genevieve
 Je ne la pouvais pas sauver sans un miracle ;
 Ces bourreaux toutefois touchés de ma pitié,
 Ne purent achever leur dessein qu'à moitié ;
@@ -3224,25 +1370,8 @@ Elle s'encourageant fut encor assez forte
 Pour venir jusqu'ici le long de ce ruisseau,
 Y chercher pour son fils et pour elle un tombeau.
 
--*who_sifroy
-Je ne m'étonne plus de l'instinct qui m'attire,
-Vers ces lieux consacrés du sang d'une martyre.
-C'est son aimable esprit qui tourne ici ses pas,
-Pour venir honorer le lieu de son trépas.
-Chers autres, reprenez les restes de ma vie,
-Dont déjà vous m'avez une moitié ravie,
-Et souffrez, bois sacrés, que mon dernier soupir,
-Y rejoigne la mienne avec repentir.
-
--*who_genevieve
 Votre mort en ces lieux serait pour lui déplaire.
 
--*who_sifroy
-Ses mânes de mon sang se pourront satisfaire.
-À quel autre dessein viennent-ils chaque nuit,
-Me montrer cet endroit où le Ciel m'a conduit ?
-
--*who_genevieve
 Il est vrai que souvent dans cette solitude,
 Je vois errer son ombre avec inquiétude.
 Souvent elle me suit en haut de ce rocher,
@@ -3252,140 +1381,49 @@ Souvent parmi mes traits j'aperçois son image,
 Je ne dis pas un mot qu'elle ne die aussi,
 Et ses moindres regrets me donnent du souci.
 
--*who_sifroy
-Serais-je assez heureux que de la voir paraître.
-
--*who_genevieve
 Oui bien si vous l'étiez assez pour la connaître.
 
--*who_sifroy
-Ah ! J'en ai tous les traits bien gravés dans mon coeur ?
-
--*who_genevieve
 Une si longue mort change bien de couleur.
 
--*who_sifroy
-Quoi que sur son visage aient effacé les Parques,
-L'amour ingénieux m'en donnera des marques.
-
--*who_genevieve
 Il faut dire ces deux vers dans un geste d'Amazone.
 Afin qu'à son abord vous les distinguiez mieux,
 Voyez-en par avance un portrait dans mes yeux !
 
--*who_sifroy
-Ah !
-
--*who_genevieve
       Qu'avez-vous ?
 
--*who_sifroy
-      Je meurs !
-
--*who_genevieve
       Mon cher Sifroy, courage,
 Vous éblouissez-vous à sa première image ?
 
--*who_sifroy
-Ah Cieux, où sommes-nous ! Geneviève est-ce toi ?
-De quel oeil peux-tu voir maintenant ton Sifroy :
-Ou de quel oeil peut-il supposer ta présence,
-Convaincu de son crime et de ton innocence ?
-Si malgré ma rigueur tu vois encor ce jour,
-Ah ! Pardonne un péché que causa mon amour ?
-Ou si parmi les morts je vois errer ton ombre,
-Souffre que ma douleur en augmente le nombre ?
-
--*who_genevieve
 Non, le Ciel m'a fait grâce, et cassant tes arrêts,
 Il t'a su ménager ma vie en ces Forêts.
 
--*who_sifroy
-Tu vis donc ? Ah ma mort en est plus légitime,
-Et Dieu ne te sauve que pour punir mon crime.
-
--*who_genevieve
 Ce fut pour l'empêcher.
 
--*who_sifroy
-      Geneviève, dis mieux ?
-C'est pour le reprocher tout entier à mes yeux ;
-Quoi malgré ma fureur, malgré ma jalousie,
-Ces affreuses forêts t'ont conservé la vie ?
-Et ta vertu trouva chez elle plus de foi,
-Qu'un si fidèle amour n'en rencontra chez moi ?
-Après cela comment peux-tu souffrir ma vue ?
-
--*who_genevieve
 Mon unique malheur vint de l'avoir perdue,
 Elle me rend la vie
 
--*who_sifroy
-      Et par un juste sort,
-Ton respect à son tour me condamne à la mort ;
-Je suis le criminel, je dois prendre ta place.
-
--*who_genevieve
 Non, puisque mon amour et le Ciel te font grâce
 C'est pour toi que je vis.
 
--*who_sifroy
-      Mais tu ne le dois pas !
-J'en ai perdu le droit en signant ton trépas,
-Et tu n'es plus à moi depuis ce coup funeste !
-
--*who_genevieve
 Dieu te l'a conservé, voulant bien que je reste.
 Et comme sa sagesse a fait voir ton erreur,
 Et me sauva la vie, il t'a gardé mon coeur :
 Rien n'a pu me l'ôter, et je dois te le rendre,
 L'ordre même du Ciel t'oblige à le reprendre.
 
--*who_sifroy
-Je ne mérite plus de posséder ce bien.
-
--*who_genevieve
 Mais moi j'ai toujours droit de demander le tien ?
 
--*who_sifroy
-Au moins pour châtiment ordonne que ton âme,
-Reçoive mes devoirs sans allumer sa flamme,
-Et que pour me punir d'avoir aimé si peu,
-Elle ne sente rien de l'ardeur de mon feu.
-
--*who_genevieve
 Ce châtiment subtil tomberait sur moi-même,
 Plutôt pour t'accabler, souffre encor que je t'aime ;
 Si ton crime effacé te rend un peu honteux,
 Je veux que cette honte augmente par mes feux.
 
--*who_sifroy
-Aimer un criminel, c'est se rendre coupable.
-
--*who_genevieve
 En faire un innocent, c'est être charitable.
 
--*who_sifroy
-Ordonne pour le moins quelque autre châtiment ?
-
--*who_genevieve
 Endure mon amour puisqu'il fait ton tourment ?
 
--*who_sifroy
-Ce tourment est trop beau pour en faire un supplice !
-
--*who_genevieve
 C'est à toi de subir les lois de ma justice.
 
--*who_sifroy
-Au moins raconte-moi les morts que mille fois,
-Il t'a fallu souffrir dans l'horreur de ces bois,
-Ce funeste récit de ta longue misère
-Pourra bien me punir autant que ma colère ;
-Et malgré tes bontés afin de me punir,
-Ta douleur s'armera de ce ressouvenir.
-
--*who_genevieve
 Sifroy, ne pensons plus à ces peines passées
 Que le bonheur présent doit avoir effacées,
 Et n'ajoutons plus rein à nos anciens malheurs
@@ -3393,39 +1431,17 @@ Qu'un général oubli de mes longues douleurs ;
 Jouis de la faveur que le Ciel te redonne,
 Et ne m'afflige plus lorsque je te pardonne.
 
--*who_sifroy
-Mais las ! Qu'est devenu l'innocent malheureux,
-Qui fut le premier fruit de nos plus chastes voeux.
-
--*who_genevieve
 Qu'il m'a coûté de pleurs !
 
--*who_sifroy
-      Quoi n'a-t-il pu survivre ?
-
--*who_genevieve
 Hélas ! Combien de fois fus-je prête à le suivre,
 Mais ces bois t'ont gardé cet aimable dépôt,
 Lequel repassera sans doute ici bientôt.
 
--*who_sifroy
-Il vit donc ce cher fils ?
-
--*who_genevieve
       Aussi bien que moi-même.
 
--*who_sifroy
-Dieu, que de toutes parts mon bonheur est extrême.
-
--*who_genevieve
 Tu pourras reconnaître en le voyant, Sifroy,
 Dans les traits de son corps les marques de ma foi.
 
--*who_sifroy
-Pardonne à mon erreur de l'avoir soupçonnée,
-Pardonne à mon amour de l'avoir condamnée.
-
--*who_genevieve
 Tu n'as plus là-dessus rien à me demander,
 Et je n'ai sur ce point plus rien à t'accorder.
 Tu ne condamnais pas Geneviève fidèle,
@@ -3433,17 +1449,6 @@ Ta sentence tombait sur une criminelle.
 Tu ne fus donc jamais au vrai mon ennemi,
 Et jamais contre moi tu n'agis qu'à demi.
 
--*who_sifroy
-Il est vrai que mon coeur n'en fut jamais complice
-Et que pour le surprendre on usa d'artifice ;
-Tous les plus noirs démons y furent employés
-Les charmes les plus forts y furent déployés,
-Mais contre ces démons et contre tous leurs charmes,
-Mon amour opposait d'assez puissantes armes.
-Si le traître Golo continuant son jeu,
-D'une sombre vapeur n'eût étouffé mon feu.
-
--*who_genevieve
 N'y pensons plus, Sifroy, mais réparons les pertes
 Que depuis si longtemps nos deux coeurs ont souffertes,
 Et reprenons le cours des innocents plaisirs
@@ -3453,194 +1458,819 @@ Du beau fruit que l'amour par mes mains vous présente,
 S'il faut quelque victime à me sacrifier,
 Golo pourra tout seul cette faute expier.
 
--*who_sifroy
-Puisque vous l'ordonnez, j'en suis content, Madame ;
-Mon coeur va rallumer la vie à votre flamme
-Et comme il ne doit plus vivre que sous vos lois,
-C'est lui seul qui me fait consentir à ce choix ;
-Je suis, je le confesse, indigne de la vie,
-Mais si votre bonté désormais m'y convie,
-Je veux en recevoir l'arrêt à vos genoux.
-
--*who_genevieve
 Reprenez en mon coeur la place d'un époux,
 Et songez maintenant vous pardonnant vous-même,
 D'épargner la douceur de celle qui vous aime.
 
--*who_sifroy
-Permettez seulement qu'acceptant ce pardon,
-Je baise au moins la main de qui me vient ce don ;
-Et qu'un amour discret combattu de la crainte,
-Reçoive avec respect cet honneur d'une sainte.
-
--*who_genevieve
 J'approuve, cher Sifroy, cette discrétion,
 Et je rends la pareille à ton affection,
 Mais lorsque je reçois ce gage de la tienne,
 Voici Dieu qui t'en rend un plus beau de la mienne.
 
-**** *book_ *id_V06 *act_V
-
--*who_sifroy
-Ah le pauvre innocent saura-t-il qui je suis ?
-
--*who_benoni
-Au moins le coeur me dit que je suis votre fils.
-
--*who_sifroy
-Il ne te trompe pas, et le mien t'en assure
-Ah ! Madame j'en crois la voix et la nature,
-Mon cher fils, à quel maux t'avais-je abandonné
-Toi qu'un si chaste amour m'avait si tôt donné,
-Viens t'en naître aujourd'hui dans le sein de ton père,
-Viens y boire l'oubli de ta longue misère.
-
--*who_benoni
-Ah ! Monsieur, quel malheur nous séparait de vous ;
-Pouviez-vous si longtemps vivre content sans nous ?
-
--*who_sifroy
-Ah je ne vivais pas.
-
--*who_benoni
-      Vous demeuriez si proche ?
-
--*who_sifroy
-Ne perce pas mon coeur d'un si sanglant reproche ?
-Que ce premier moment de mes embrassements
-Efface, mon cher fils, tes peines de sept ans.
-
--*who_benoni
-Pensez-vous que sitôt je perde la mémoire,
-D'un temps qui me mérite une éternelle gloire ?
-
--*who_sifroy
-Que l'esprit, aussi bien que le coeur en est bon ;
-Comment l'appellerai-je, apprenez-moi son nom ?
-
--*who_genevieve
 Je lui donne celui que m'apprit ma misère,
 Comme il fut le sujet du danger de sa mère,
 Je le nomme d'un nom sortable à mon malheur,
 De Bénoni, qui dit l'enfant de ma douleur.
 
--*who_sifroy
-Le Ciel nous le rendant par cette aimable joie,
-Nommons-le notre Isaac, l'enfant de notre joie.
-
--*who_benoni
-Non, je suis Bénoni, mais Monsieur, dites-moi,
-N'est-ce pas votre nom que celui de Sifroy ?
-
--*who_sifroy
-Hélas ! D'où le sait-il ?
-
--*who_genevieve
       Moi-même je l'admire.
 
--*who_benoni
-Oui dea, c'était celui que vous n'osiez me dire.
-Pendant que les échos de ces vastes Forêts,
-Le redisant partout trahissaient vos secrets.
-
--*who_sifroy
-Qu'elle en avait raison ?
-
--*who_benoni
-      Sachez que ses tristesses
-M'ont bien causé des pleurs !
-
--*who_sifroy
-      Reviens par mes caresses
-Je les veux essuyer.
-
--*who_benoni
-      Sachez que mille fois,
-Elle fut sans mes soins morte dedans ces bois.
-
--*who_sifroy
-Je t'en suis obligé, mais les peines passées,
-Par plus grandes faveurs seront récompensées.
-Un bien n'est pas si doux dans un bonheur égal
-Comme lorsqu'il succède aux sentiments du mal.
-Vous qui dans le débris d'un si triste naufrage,
-Prenant Bénoni par la main, le présente à Geneviève.
-M'avez de votre amour conservé ce beau gage,
-Jouissez-en, Madame, et recueillez ces fruits,
-Qu'ont ici cultivé vos soins et vos ennuis.
-
--*who_genevieve
 J'en ai sept ans entiers recueilli les prémices,
 C'est à vous maintenant d'en goûter les délices.
 
--*who_sifroy
-Plus je te considère, et plus je vois de traits,
-Où la nature a mis en un nos deux portraits.
-
--*who_genevieve
 Vous le connaîtrez bien en ceux de son courage,
 Et comme sa vertu ne tient rien du sauvage.
 
-**** *book_ *id_V07 *act_V
-
--*who_lisandre
-Bien surpris de voir Sifroy avec une femme et enfant.
-Cléon où sommes-nous ? Et que vois-je, Orismond ?
-
--*who_orismond
-Vous voyez que l'effet à mes discours répond.
-
--*who_cleon
-Est-ce une illusion ?
-
--*who_lisandre
-      Cléon, est-ce Madame ?
-
--*who_cleon
-Sans doute c'est l'esprit de cette sainte femme.
-
--*who_genevieve
 Approchez-vous, Messieurs, et n'ayez point de peur ;
 Non, non, je ne suis pas un fantôme trompeur
 Reconnaissez en moi, votre ancienne maîtresse.
 
--*who_cleon
-Seigneur, est-ce Madame ?
-
--*who_lisandre
-      Est-ce vous ma Princesse ?
-
--*who_genevieve
 Moi-même.
 
--*who_lisandre
-      Et vous vivez ?
-
--*who_genevieve
       En croyez-vous vos yeux ?
 
--*who_lisandre
-Et quel est cet enfant avec vous en ces lieux ?
-
--*who_genevieve
 Ne m'interrogez pas, consultez son visage,
 Voyez-y de Sifroy la naturelle image.
 
--*who_cleon
-Seigneur, quel sort vous rend et la mère et le fils.
-Ah ! Qu'Orismond nous a ravissamment surpris ;
-Et qu'il pouvait bien plus qu'il n'osait nous promettre.
+Il le m »rite bien, mais souffrez une chose,
+Qu'aucun autre que moi de Golo ne dispose,
+Que ce soit de mon choix et de mon jugement,
+Que dépende aujourd'hui sa peine et son tourment.
+Ce qu'il doit endurer moi seule le puis dire,
+Et puis seule égaler sa peine à mon martyre,
+Et tout autre qu'à moi d'un si lâche ennemi,
+Ne pourrait quoi qu'il fît me venger qu'à demi
+Je veux dans ses tourments vous laisser un exemple
+Qu'avec étonnement tout le monde contemple,
+En êtes-vous d'accord, l'approuvez-vous, Sifroy ?
 
--*who_lisandre
-C'est de lui-même aussi que vous en vint la lettre.
+Vous y consentez donc, à l'abord de ce traître,
+De vos ressentiments soyez un peu le maître,
+Et vous ressouvenez toujours de notre accord,
+En me laissant venger et son crime et ma mort.
 
--*who_sifroy
-Orismond qui savait ma faute et mon regret,
-Devais-tu me cacher si longtemps ce secret ;
-Mais sachant ses malheurs avec son innocence,
-Devais-tu la laisser souffrir par ton silence ?
+Mais vous vous oubliez déjà de votre office ;
+Moi seule de Golo me dois faire justice.
 
--*who_orismond
+      J'y veux plus d'appareil.
+Pour chercher à son crime un supplice pareil.
+
+Un sang si criminel souillerait ces déserts.
+
+Puisque vous m'en pressez avec tant d'insistance,
+Jurez-moi derechef qu'on exécutera
+Tout ce qu'envers Golo ma voix ordonnera.
+
+Souvenez-vous-en donc ? Et ne vous pressez pas,
+D'abréger ses tourments, avançant son trépas.
+Tremble donc à ma voix, ingrat, perfide, infâme,
+Je te donne à choisir du fer ou de la flamme ;
+Des tourments que la peur te met devant les yeux,
+Déclare-moi celui que tu mérites le mieux.
+
+Voici donc celle enfin, que m'inspire en ce lieu,
+Et le commandement et l'exemple d'un Dieu.
+Au nom de ce Sauveur, Golo, je te fais grâce ;
+Ma beauté fit ton crime, et ma bonté l'efface,
+Et ne veux pour punir ta lâche cruauté
+Te donner pour tourment que cette impunité.
+
+Que ma seule bonté punisse sa malice.
+
+Qu'il vive dans l'horreur de ne pouvoir mourir.
+
+Que vous m'obéissiez de peur d'être parjure.
+
+Que de ces sentiments vous vous rendiez vainqueur.
+
+Vous ne le pouvez pas, sans vous rendre infidèle,
+Car c'est du sang d'un Dieu qu'est signé son arrêt.
+
+C'est l'exemple qu'un Dieu nous en donne à tous deux,
+Qui doit jusqu'en ton coeur porter ces mêmes feux ;
+Éteins dans son amour l'ardeur de ta colère,
+Si tu veux l'imiter et si tu lui veux plaire.
+Le soin de le punir doit désormais céder,
+Au plaisir de me voir et de me posséder.
+
+Comme en vain ton orgueil attaqua ma beauté,
+En vain ton désespoir veut vaincre ma bonté.
+Va donc, n'interromps plus le cours de nos délices,
+Je me remets sur toi de tes autres supplices.
+Qu'on le fasse conduire en toute sûreté,
+Vous, Cléon, empêchez qu'il ne soit mal traité.
+
+Nous viendrons visiter souvent cet ermitage.
+
+
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_benoni
+
+Mais dites-moi, Madame, où me conduisez-vous ?
+
+Où pourrons-nous trouver si nous quittons ces lieux,
+Un sort qui soit plus doux et plus délicieux,
+Puisque leur sainte horreur à l'innocence même
+Mérite dans le Ciel le droit d'un diadème.
+
+Madame, excusez-moi, je ne le comprends pas,
+Mon père pourrait-il être encore ici-bas ?
+Et ne m'avez-vous pas appris dans mes prières
+Qu'il demeurait là-haut au milieu des lumières.
+
+Vous me déclarez là des choses bien étranges,
+Est-il quelqu'un au monde, hormis nous et nos Anges ?
+
+Où demeure-t-il donc, et quel sort nous sépare ?
+
+Je mérite donc bien de vivre misérable
+Puisqu'en naissant je fis que l'on vous crut coupable.
+
+Allons à leur auteur en faire le reproche,
+Dites-moi seulement s'il demeure bien proche.
+
+Marchons donc au plutôt, mes pleurs et mes caresses,
+Pour le persuader n'auront que trop d'adresses.
+
+Quoi donc me voulez-vous abandonner ainsi ?
+
+Ah vous dois-je quitter ?
+
+Non. Mais je crains pour vous cette maison funeste.
+
+      Revenez dons bientôt.
+
+      Madame, est-ce celui
+Qui doit dans ce Château nous conduire aujourd'hui ?
+
+      Je me lassais d'attendre.
+
+Il est vrai, mais au bruit confus de vos deux voix,
+La curiosité m'a fait sortir du bois.
+Il l'excusera bien.
+
+Si vous plaignez si fort notre longue misère,
+Vous en pouvez tirer et le fils et la mère.
+Conduisez seulement vers ce Château nos pas.
+
+En est-il dont je doive appréhender la rage ?
+Ces bois n'en cachent point dans leur plus sombre horreur,
+Dont ma voix n'ait calmé jusqu'ici la fureur.
+
+Mon père loge-là, je veux l'aller connaître.
+
+Vous le savez bien mieux, Madame, répondez.
+
+Et vous m'eussiez laissé seul, à ces maux survivre ?
+
+Vous nous engagiez donc tous deux dans ce trépas.
+
+Rentrons dans nos déserts et fuyons ces maisons,
+Madame, elles ne sont que de belles prisons ;
+De ces Châteaux affreux fuyons les cruels hôtes,
+Allons entretenir des Anges dans nos grottes,
+Nous y vivons au moins avecque liberté,
+Nous y goûtons les biens dans leur naïveté.
+Le Ciel à découvert dans nos plus grands désastres,
+Nous laisse entretenir commerce avec les Astres,
+Vivons dans la douceur et la paix de ces lieux,
+Qui nous font sur la terre une image des Cieux.
+
+Vous ne lui dites rien du pauvre Bénoni.
+
+Vous lui pourriez au moins recommander qu'il m'aime.
+
+Parlez-lui bien de moi.
+
+Madame je les vois.
+
+Madame ?
+
+      Madame sauvons-nous.
+
+      Ah bon Dieu !
+
+      Quand j'y pense j'en tremble.
+J'ai vu
+
+      Plusieurs hommes ensemble.
+
+      Non, Madame, ils sont trois.
+
+Fuyons encor plus loin, j'entends que l'on approche.
+
+Au moins le coeur me dit que je suis votre fils.
+
+Ah ! Monsieur, quel malheur nous séparait de vous ;
+Pouviez-vous si longtemps vivre content sans nous ?
+
+      Vous demeuriez si proche ?
+
+Pensez-vous que sitôt je perde la mémoire,
+D'un temps qui me mérite une éternelle gloire ?
+
+Non, je suis Bénoni, mais Monsieur, dites-moi,
+N'est-ce pas votre nom que celui de Sifroy ?
+
+Oui dea, c'était celui que vous n'osiez me dire.
+Pendant que les échos de ces vastes Forêts,
+Le redisant partout trahissaient vos secrets.
+
+      Sachez que ses tristesses
+M'ont bien causé des pleurs !
+
+      Sachez que mille fois,
+Elle fut sans mes soins morte dedans ces bois.
+
+Vous autres emportez tout ce petit bagage.
+
+
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_golo
+
+Seigneur, que faites-vous ?
+
+De qui me parlez-vous ?
+
+Tient-elle encor, Seigneur, ce rang dedans votre âme ?
+Ne m'interrogez pas, interrogez les lois ;
+Et voyez les tourments dont vous aviez le choix,
+Et que méritaient bien de si sanglants outrages,
+Si vous eussiez remis cette affaire aux suffrages.
+
+Que votre amour devait rencontrer plus de foi.
+
+L'excès de votre amour et celui de son crime.
+
+L'amour pour le corrompre est un subtil trompeur.
+
+C'est souvent sous ce feu qu'il entretient sa flamme.
+C'est un poison charmant, dont la malignité,
+Sait se glisser partout avec subtilité,
+Et comme il est auteur des ruses et des feintes
+Il se fait un bandeau des choses les plus saintes.
+
+Son repentir a pu lui mériter sa grâce,
+Sans que sur des Autels elle doive avoir place.
+Les crimes les plus noirs seraient autorisés,
+Si leurs auteurs étaient ainsi canonisés.
+
+Quelque compassion que j'eusse alors pour elle,
+Je craignais en ce point de vous être infidèle.
+
+Au moins ne blâmez pas un zèle si sincère.
+
+Qui vous pourrait donc plaindre en vous voyant souffrir,
+Si vous aimez encor ce qui vous fait mourir.
+Entretenez toujours cette adorable idée
+Dont un démon secret tient votre âme obsédée :
+C'est le moyen d'aller rejoindre en peu de jours,
+Celle dont vous savez les pudiques amours.
+
+Sept ans ont consumé ce que j'avais d'adresse,
+Et vous vous obstinez à tout ce qui vous nuit.
+
+      Reposez cette nuit.
+
+C'est quelque fiction.
+
+Hé bien il lui faut rendre au plutôt ce devoir.
+
+C'est plutôt un démon qui par ses feints propos
+Vient du fonds des Enfers troubler votre repos,
+N'achevez point de lire un écrit si funeste.
+
+Pourquoi vous condamner sans qu'elle vous accuse ;
+Pourquoi la décharger sur une simple excuse ?
+Il lui fallait prouver cette fidélité,
+Dont sous des mots couverts elle fait vanité ;
+Envoyez-lui, Seigneur, ces funestes messages
+Qui d'un crime avéré font de fausses images.
+
+      Seigneur ?
+
+      Seigneur, qu'elle s'explique.
+
+      Si cette fin me pique
+Au moins n'a-t-elle osé si clairement mentir.
+Et ces termes couverts montrent son repentir.
+
+      Oui, Seigneur, je confesse
+Que c'est sans doute à moi que cette fin s'adresse,
+Mais au lieu de me faire un crime de mes soins
+Que ne répondait-elle à plus de vingt témoins.
+
+Quoi pour être innocente il ne faut que nier ?
+
+Si son péché parut, blâmez-en la nature,
+Blâmez tous les témoins qui disent l'avoir vue,
+Blâmez vos propres yeux qui vous ont convaincu ?
+Là-dessus ai-je tort de l'avoir soupçonnée ?
+Et vous, avez-vous tort de l'avoir condamnée ?
+
+Pour le faire il ne faut qu'un simple désaveu.
+
+Je vous ferais rougie de ma propre innocence.
+
+Celui dont vingt témoins vous ont fait le rapport.
+
+J'en sauvai mon honneur pour conserver le vôtre.
+
+      Seigneur, je suis honteux
+De découvrir encor ses impudiques feux.
+Mais puisque vous voulez apprendre de ma bouche
+Ce qui dans cette intrigue innocemment me touche.
+Vous souvenez-vous bien du miroir enchanté,
+Où son péché secret vous fut représenté ?
+
+C'est pour vous expliquer ce qu'il cachait pour lors,
+Vous y vîtes celui qui malgré ses efforts
+Suivant du chaste Hébreu la généreuse fuite
+Frustra par sa vertu son infâme poursuite ;
+Le reconnûtes-vous ?
+
+Aussi fût-ce par là que j'en sauvai ma foi.
+Car vous savez, Seigneur, que pendant votre absence
+Le feu qui dans son coeur s'éprit en ma présence,
+Jeta dans son esprit un tel aveuglement
+Qu'elle voulut en moi pratiquer un Amant,
+Et ce seul désespoir d'en embraser mon âme,
+Détourna sur Drogan sa malheureuse flamme ;
+Ce pauvre homme ébloui
+
+C'est pour vous détromper si vous l'aimez encore.
+
+      Quel nouveau coup de foudre
+Où ce nuage en finira-t-il se dissoudre ?
+Si les morts contre moi viennent se déclarer.
+À leurs funestes coups comment puis-je parer ?
+En vain pour mon repos j'en fais croître le nombre
+Si le Ciel pour me perdre a suscité cette ombre.
+Mais qui jamais de nous ouït dire qu'un esprit
+Adressât aux vivants ses plaintes par écrit ;
+Mais ne serait-ce point quelque tour de Lisandre,
+Et ne m'y suis-je point par trop laissé surprendre.
+Ah ! Pour me rassurer ce soupçon est trop vain
+C'est d'elle qu'est l'écrit, j'en reconnais la main ;
+Les plaintes qu'elle y fait, y sont trop légitimes,
+Et pour cacher sa mort j'ai commis trop de crimes,
+Ah ! Belle ombre, il est vrai, je l'ai bien mérité,
+Mais pardonnez mon crime à la nécessité :
+Par mon injuste amour ayant acquis ta haine
+Je ne peux autrement en éviter la peine ;
+Et l'amour qui trahit jusque-là son devoir,
+Ne peut s'en dégager que par son désespoir.
+Si du premier péché ta beauté fut complice,
+Je peux bien du second apaiser ta justice ;
+Je ne prévins ma mort par ce coup furieux
+Que parce que j'en lus l'arrêt dedans tes yeux.
+Je reconnais pourtant que ton ombre adorable
+Veut faire un pénitent plutôt qu'un misérable,
+Puisque de son droit même elle craint d'abuser,
+Fait qu'elle se défend au lieu de m'accuser.
+Ah ! Si mon repentir peut mériter sa grâce
+Déjà dedans mon coeur tout ce crime il efface :
+Ne viens plus en ces lieux y poursuivre ma mort ?
+Mais que dis-je, hé pourquoi m'épouvanter si fort ?
+À tout ce qu'elle écrit ma réponse est fort bonne,
+Et ce crime après tout tombe sur sa personne ;
+Qu'elle écrive de moi tout ce qu'elle voudra
+Le miroir enchanté toujours la confondra.
+J'ai déjà dissipé de plus fâcheux ombrages,
+J'ai déjà conjuré de plus fâcheux orages.
+Si je ne combats plus que contre des esprits,
+Je saurai le moyen d'en étouffer les cris.
+Mais allons consulter la nuit sur cette affaire,
+Voyons jusqu'où Sifroy portera sa colère.
+Une heure de sommeil l'en fera revenir,
+Et je n'ai qu'à partir si je l'en veux punir.
+Tous ceux qui de mon crime avaient la connaissance
+Me gardent par leur mort un éternel silence.
+Après ces coups d'essai aurais-je encor du coeur
+S'il fallait aujourd'hui qu'une ombre me fit peur ?
+
+Vous pouviez aisément sans moi le divertir.
+
+J'en détournerai bien le sujet qu'on espère.
+
+Ni ceux qui font parler une ombre après sa mort.
+
+Quelques-uns pourraient bien en augmenter le nombre.
+
+Je saurai le secret de cette vision.
+
+Dont quelques-uns voudraient noircir ma renommée.
+
+Ceux même dont j'ai dû le moins me défier.
+
+Votre coeur sur ce point vous dit ce que j'en pense.
+
+Ce sont pièces de Cour dont je me suis défait.
+
+Je l'aurais si j'avais des rivaux plus à craindre.
+
+Et de plus je sais bien, que chacun a son tour.
+
+Et de là je vois mieux les pièces qu'on me joue.
+
+Et je mesure ceux que je veux accabler.
+
+De tous mes ennemis vous n'êtes pas le pire.
+
+Comme mes ennemis n'ont rien dont je m'étonne,
+Aussi n'ont-ils rien fait que je ne leur pardonne.
+
+Peut-être que moi seul j'y pourrai plus encor.
+
+Que serait devenu son cheval dans ce bois,
+Car il n'a pu monter ici sans en descendre.
+
+Que fait ce vieil rêveur dans ses sombres déserts
+N'est-il pas le porteur de ces écrits secrets,
+Ne serait-ce point lui qui dans ces lieux si sombres,
+Viendrait entretenir commerce avec les ombres,
+Orismond, quel dessein vous tient tout seul ici,
+Et quoi n'êtes-vous pas de cette chasse aussi ?
+
+Vous n'avez donc pas vu passer ici le Comte.
+
+Nous pensions avoir ouï sa voix sur ce rocher.
+
+Mais parmi le silence et cette pais profonde,
+N'entretenez-vous point ces gens de l'autre monde ?
+
+Ces subtils messagers n'ont-ils point quelque adresse
+Pour savoir ce que fait l'ombre de la Comtesse.
+
+Son ombre en ces Forêts aura pu vous le dire.
+
+Son ombre ne vous a jamais ici paru ?
+
+Conservez-en pour vous ces belles passions :
+Mais ne vous chargez pas de ces commissions,
+Autrement, Orismond, ici je vous dénonce
+Que vous en porterez vous-même la réponse !
+
+Que vois-je ici, Léris ?
+
+      Ô Cieux !
+
+Où suis-je ?
+
+Nous sommes enchantés.
+
+Ô rage ! Ô désespoir ! Seigneur, qu'est-il besoin
+D'une plus forte preuve, ou d'un autre témoin ?
+Je l'avoue, il est vrai que mon âme insensée,
+Osa lui découvrir son amour déréglée ;
+Mais j'y fus suborné par ses divins appas.
+
+Pour un crime si grand toute peine est petite.
+Il n'en est point qui puisse égaler son mérite.
+
+Ah ! Madame, souffrez qu'au sortir de la mort,
+Adorant vos bontés je regrette mon sort
+En me rendant ce bien lorsque j'en suis indigne,
+C'est rendre seulement ma peine plus insigne.
+Laissez, laissez agir un si juste courroux ;
+Permettre que Sifroy m'immole à vos genoux.
+Empêcher seulement un jour votre mémoire
+De détester l'auteur d'une action si noire.
+
+
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orismond
+
+Geneviève ?
+
+Ma chère fille.
+
+Épargne les ennuis, qui depuis si longtemps
+Me font en vain chercher en des lieux si funestes,
+De ton corps déchiré les pitoyables restes,
+Et me montre l'endroit qui nous cache tes os,
+Pour leur rendre l'honneur avecque le repos ;
+Ou si de cet honneur tu méprises la gloire,
+Au moins dans mon esprit viens purger ta mémoire
+Et me tirer du doute où ta mort m'a laissé
+Que ton coeur n'ait été d'un sale amour blessé.
+
+Ah ! Chère ombre, j'ai tort de l'avoir écouté.
+
+Vous vivez !
+
+Il vit dans le regret de vous l'avoir ravie.
+
+      C'est de ce souvenir
+Que son amour constant aime à s'entretenir ;
+Jamais un autre objet n'a pu prendre sa place,
+Jamais le sommeil même aucun trait n'en efface,
+Il en fait son plaisir, il en fait son tourment,
+Et cessant d'être époux il redevient amant.
+Mais quel Dieu vous sauva d'une mort si certaine ?
+
+De quoi donc ces forêts du tout abandonnées
+Ont-elles pu depuis vous nourrir sept années ?
+
+N'ayant point d'entretien que des bêtes sauvages,
+Se voir à tout moment exposée à leur rage,
+N'entendre que leurs cris et que leurs hurlements,
+Vraiment ce Paradis n'est pas des plus charmants.
+
+Ah ! Que tout ce discours m'a doucement charmé,
+Et que Dieu dans nos maux mérite d'être aimé.
+Mais dites-moi comment et par quelle imposture,
+Golo vous suscita cette sanglante injure ?
+
+Le perfide osa-t-il entretenir ses feux ?
+
+Quoi sans vous écouter dedans votre défense,
+Sans écouter l'amour, non plus que l'innocence !
+
+Quoi vous sacrifier aux seuls avis d'un traître ?
+
+Dieu ! Que vois-je, Madame, est-ce là votre fils ?
+
+Ah l'aimable innocent !
+
+      Que l'esprit et la mine
+Marquent sur lui de traits de sa noble origine.
+Je l'excuse, mon fils, et je plains seulement
+Le sort qui vous retient dans cet éloignement.
+
+Si vous craignez la mort, ah n'en approchez pas,
+Il y loge à l'entrée une bête sauvage.
+
+Celle dont je vous parle est encore plus à craindre.
+
+D'un père si barbare hélas devais-tu naître ?
+Savez-vous bien, mon fils, ce que vous demandez ?
+
+Vous prenez à vos maux un dangereux remède,
+Savez-vous que Golo de tous côtés l'obsède ?
+Vous aurait-il manqué une seconde fois ?
+
+Ah ! Madame, quittez un dessein si funeste.
+
+Je veux vous en donner un moyen bien plus doux.
+Laissez-moi ménager l'esprit de votre Époux,
+Et si j'y reconnais pour vous quelque assurance,
+Vous lui ferez alors parler votre Innocence.
+
+De ma fidélité vous avez quelque doute ?
+
+Que ne choisissez-vous chez moi votre retraite ?
+
+Si j'ai quelque nouvelle à vous faire savoir,
+Marquez-moi quelque endroit où je vous pourrai voir.
+
+Comment ?
+
+Quel dessein prenez-vous ?
+
+En quelle qualité lui pensez-vous écrire ?
+
+D'un dessein si bien pris Dieu sans doute est Auteur,
+Et moi-même à Sifroy j'en veux être porteur,
+Votre ombre éclaircira les regrets de son âme
+Et donnera du jour et de l'air à sa flamme.
+
+Rien ne se peut de mieux, l'intrigue est bien conduite ;
+À ce commencement accommodez la suite,
+Tout le feu de Sifroy sans doute éclatera,
+Et je ne sais pas où Golo l'évitera,
+Mais ne l'oubliez pas, et contre son outrage
+Faites un peu valoir ce rare témoignage :
+Ses crimes ont été trop longtemps impunis.
+
+Que ne le nommez-vous ?
+
+Je ferai suppléer à ce défaut par ma voix.
+
+C'est le sage Lisandre, et Cléon, ce me semble,
+Qui se plaignent souvent de votre mort ensemble,
+Et qui pour la venger se sont offerts tous deux
+D'exposer au combat un sang si généreux.
+
+      Ô Dieu que de merveilles
+Ont surpris tout à coup mes yeux et mes oreilles !
+Et que mes longs regrets depuis sept ans passés
+D'un si court entretien sont bien récompensés,
+Mais est-ce Geneviève ! Est-ce elle que j'ai vue !
+Est-ce là ce cher fils dont le Ciel l'a pourvue,
+Ô Dieu que cet écrit mais soyons plus discrets
+Et ménageons un peu ces importants secrets.
+
+Ne l'interrompons point, ce vieillard chaque jour,
+Vient faire en ces forêts sur le soir quelque tour ;
+Pour découvrir l'endroit où l'Intendant infâme
+Par deux de ses valets fit égorger Madame.
+
+Il n'était pas trop tard pour y chercher une ombre.
+
+Elle en fait quelquefois à l'abri de ces lieux,
+Pour le moins en voici d'assez fraîches nouvelles
+Dont je puis faire part à des yeux si fidèles.
+
+La seule inscription exprime son dessein.
+
+Oui, l'esprit bien heureux de cette sainte femme
+Par la voix de son ombre errante en ces déserts,
+Viens demander justice à Sifroy par ces vers.
+
+      Moi-même l'ai vue,
+Et je l'ai sur sa mort longtemps entretenue,
+J'ai su comme Golo s'en voulant faire aimer
+Eut recours aux démons afin de la charmer,
+Et je crois que ce fut par le même artifice
+Que le Comte trompé fit hâter son supplice ?
+
+Après un si tragique et si beau témoignage
+Comment Golo peut-il conjurer cet orage ?
+Quoi pouvons-nous douter, s'il le faut déférer,
+Et si contre ce traître il nous faut déclarer ?
+Quoi ? Lorsqu'avecque le Ciel, l'Enfer jure sa perte.
+N'osons-nous l'entreprendre encor à force ouverte,
+Non, non, ne craignons plus de nous trop avancer,
+Sur de si bons garants je veux bien commencer.
+
+Le dessein de la sorte est très bien concerté,
+Et peut s'exécuter en toute sûreté :
+Mais qui veux de vous deux se charger de la lettre.
+
+De peur que d'un complot l'Intendant ne se doute,
+Je retourne après vous, mais par une autre route.
+
+Juste Ciel, c'est ainsi qu'enfin la vérité
+Sous les regards d'un Dieu sort de l'obscurité,
+Et que malgré l'effort d'une injuste puissance
+Elle fait de ses maux triompher l'innocence !
+Après sept ans passés à la sanctifier,
+Dieu s'en va la produire et se justifier,
+Sous l'éclat de vos yeux, Seigneur, enfin le vice
+Se veut faire un bandeau de sa propre malice,
+Jusques parmi les morts, vos adorables soins
+Lui suscitent enfin de terribles témoins.
+Ah ! Golo, nous formons tous trois une tempête ;
+Qui doit dans peu de temps éclater sur sa tête,
+Et ce juste vainqueur, va montrer en son lieu
+Que s'il sait tolérer, il sait punir en Dieu,
+En vain opposes-tu l'Enfer avec ses charmes
+Contre le Ciel vengeur ce sont de faibles armes ;
+Une ombre contre toi va se faire un beau jour
+Pour y voir triompher l'innocence et l'amour,
+Et l'usage innocent d'innocents artifices,
+Va bientôt dissiper tes plus noires malices.
+
+Golo me suit de près, disons en peu de mots ;
+Et bien que dit le Comte à l'adieu de Madame
+Et quelle impression a-t-il fait sur son âme ?
+
+Avez-vous déclaré ce que vous dit Argine ?
+
+      Qu'en dit-il ?
+
+Au moins vous a-t-il dit ce que ce songe porte ?
+
+Qui ferait dans ce bois voir son ombre en sa place ?
+
+S'il ne tient qu'à cela, pourvu que l'on m'assure
+Que Sifroy recevra cette ombre sans injure,
+Je lui procurerai le bonheur de la voir.
+
+J'assure du succès, et j'en puis bien répondre,
+Je n'entreprendrai rien qui vous puisse confondre,
+Pourvu que vous fassiez ce que j'ordonnerai,
+Et conduisiez le Comte où je vous marquerai.
+
+      Ah malheureux arrête ! Quelle rage
+À ce funeste coup anime ton courage ?
+
+Que de ton désespoir je me rende complice !
+
+Ah ! Seigneur, est-ce vous ? Quel aveugle transport,
+Vous fait ici courir à cette indigne mort,
+Hélas ! Sur le penchant de ces sombres abîmes
+Où d'éternels tourments Dieu punit ces grands crimes,
+Désavouez de coeur ce funeste dessein,
+Qui vous faisait plonger ce dard dans votre sein.
+
+Vous reconnaissez donc qu'elle était innocente ?
+
+Et vous n'ignorez pas l'auteur de tous ses maux ?
+
+Ah ! Deviez-vous jamais l'estimer criminelle ?
+
+Un seul rayon d'amour le pouvait éclaircir.
+
+Mais ne pouviez-vous pas pour le moins en douter ?
+Et sur ces faux rapports la voir et l'écouter.
+
+Reconnaissez-vous donc à la fin l'artifice,
+Que fit jouer celui dont la témérité
+N'ayant pu rien gagner sur sa pudicité,
+Passant d'un tel amour dans une injuste haine,
+Pour se mettre à couvert précipita sa peine.
+
+Je le sais bien, Seigneur, c'est de moi que Lisandre
+Vous a pu sur ce point quelque secret apprendre.
+Mais vous ne devez pas espérer ce bonheur,
+Que vous n'ayez promis de venger son honneur.
+
+Si vous ne voulez pas m'en craindre par avance
+Son ombre vous pourra mettre au jour cette offense,
+Et l'on peut au besoin tous deux les confronter.
+
+      Ces transports, Seigneur, sont superflus,
+La raison seule a droit d'en prendre la vengeance.
+
+Seigneur, encore un coup modérez vos transports.
+
+Réserve pour Golo cette injuste fureur,
+Et pour le faire mieux apprenez tous ses crimes.
+
+Ce n'est pas contre vous qu'elle se doit tourner
+Pour en punir l'auteur, il vous faut pardonner.
+
+Pendant que je m'en vais l'invoquer ici-bas,
+Du haut de ce rocher ne vous éloignez pas,
+Ou pour nous retrouver, ne passez point le cerne
+Que mon âme vous marque autour de la caverne ;
+Observez bien de là quand elle montera.
+Et vous lui répondrez lorsqu'elle parlera.
+
+Oui, certes et quelqu'un monte sur cette roche.
+
+Elle vous marquerait distinctement l'endroit
+Où d'un si bel esprit la belle ombre paraît,
+Car c'est assurément le roc inaccessible
+Sur qui l'ombre se rend le plus souvent visible.
+
+      Seigneur, qu'allez-vous faire ?
+
+Gardez-vous bien, Seigneur, de profaner ces lieux,
+Par un coup indiscret d'un zèle furieux.
+Attendez un moment que son ombre en ordonne,
+Ne la punissez point qu'elle ne vous pardonne.
+
+Allez retirez-vous, il vous pourrait surprendre ?
+Dès qu'ils seront passés, venez ici vous rendre.
+
+Je laisse les plaisirs d'un si rude exercice
+À ceux à qui le sort e l'âge est plus propice ;
+Et dans l'affliction et l'état où je suis
+Je viens seul en ce bois promener mes ennuis.
+
+Par quel lieu voulez-vous qu'un Cavalier y monte ?
+
+C'est le silence seul que l'on y doit chercher.
+
+Je dépêche souvent vers eux de mes soupirs,
+Qui leur vont expliquer mes voeux et mes désirs.
+
+Hélas si vous savez le lieu de son trépas,
+Pour enterrer son corps ne me le cachez pas.
+
+Mon coeur après ce bien depuis sept ans soupire,
+Mais en vain tous ces bois pour cela j'ai couru.
+
+Si j'en avais reçu, je les ferais paraître.
+Mais si vous ne voulez soulager ma douleur,
+Ah ne vous moquez pas d'un si sanglant malheur ;
+Je veux qu'elle ait failli, plus sa faute fut grande,
+Plus de compassion sa peine vous demande.
+
+Tu n'iras pas bien loin, ton âme meurtrière
+Vois déjà de bien près le bout de sa carrière,
+Et ce juste vengeur des injustes desseins,
+Réserve contre toi bien plus que tu ne crains :
+Il permet à la fin que ton bonheur se rompe,
+Que ton pouvoir t'aveugle et ta faveur se trompe ;
+L'ombre qui t'a fait peur sous un si faible état,
+T'accablera bientôt de son vivant éclat.
+Mais parmi ce bonheur je crains que ce perfide,
+Ne la rencontre ici sous sa main homicide.
+Ah j'ai tort de le craindre, et celui dont l'amour
+L'a voulu conserver pour ce bienheureux jour,
+Doit bientôt en ces bois faire à son innocence
+Un triomphe éclatant de sa reconnaissance.
+Que ce lieu pour le faire était avantageux
+Si j'eusse pu moi seul les y trouver tous deux,
+Car sans doute voici la grotte qu'elle habite,
+Et que le Ciel souvent de ses faveurs visite.
+Que ne s'y trouvait-elle, ô Dieu ! Lorsque Sifroy,
+Lui donnait de son sang pour preuve de sa foi.
+Hélas en l'empêchant de sortir de la vie,
+Elle l'eût bien puni de l'en avoir bannie ;
+En arrachant le dard à son persécuteur
+D'un plus aimable trait elle eût percé son coeur.
+Mais peut-être, mon Dieu, que votre providence
+Veut encore par ses maux éprouver sa constance,
+Ou vous avez un temps leur bonheur différé,
+Pour punir son Sifroy d'avoir désespéré.
+Quoi qu'il soit, Seigneur, si votre amour l'ordonne ;
+Ils en pourront tous deux embellir leur couronne,
+Ou si vous les voulez à la fin soulager
+Vous pourrez bien sans moi ce bonheur partager.
+
+Vous voyez que l'effet à mes discours répond.
+
 Seigneur, si j'ai failli de vous l'avoir caché
 Je n'ai pas persisté longtemps dans mon péché ;
 Ce fut hier seulement au temps que les étoiles
@@ -3657,214 +2287,538 @@ Jouissez-en, Seigneur, mais contre un suborneur,
 Vengez son innocence et vengez votre honneur.
 Je l'entends qui approche.
 
--*who_sifroy
-      Ah permettez, Madame,
-Que j'immole à vos pieds cette malheureuse âme
-Et que du crime auquel il m'a fait consentir,
-Je montre en vous vengeant un juste repentir
 
--*who_genevieve
-Il le m »rite bien, mais souffrez une chose,
-Qu'aucun autre que moi de Golo ne dispose,
-Que ce soit de mon choix et de mon jugement,
-Que dépende aujourd'hui sa peine et son tourment.
-Ce qu'il doit endurer moi seule le puis dire,
-Et puis seule égaler sa peine à mon martyre,
-Et tout autre qu'à moi d'un si lâche ennemi,
-Ne pourrait quoi qu'il fît me venger qu'à demi
-Je veux dans ses tourments vous laisser un exemple
-Qu'avec étonnement tout le monde contemple,
-En êtes-vous d'accord, l'approuvez-vous, Sifroy ?
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisandre
 
--*who_sifroy
-Madame, vous avez le même droit sur moi.
+Vous allez voir, Cléon, l'action la plus noire
+Mais je veux qu'Orismond ait part à cette histoire.
 
--*who_genevieve
-Vous y consentez donc, à l'abord de ce traître,
-De vos ressentiments soyez un peu le maître,
-Et vous ressouvenez toujours de notre accord,
-En me laissant venger et son crime et ma mort.
+Engageons-le plutôt à venger son trépas.
+Orismond, notre abord ne vous déplaira pas ?
+Quoi tout seul et si tard dans cette Forêt sombre.
 
-**** *book_ *id_V08 *act_V
+Elle n'y fait plus d'ombre éclatant dans les Cieux.
 
--*who_golo
-Que vois-je ici, Léris ?
+L'ombre de Geneviève à Sifroy ; quoi Madame ?
 
--*who_sifroy
-      Traître, dis que t'en semble ?
-La reconnais-tu bien ?
+Que de fourbes, Cléon ! Ce que tu viens de dire,
+M'apprend que cette mort a fait une martyre.
+C'est cette même Argine, ô Dieu l'étrange sort !
+Dont j'avais commencé de te conter la mort,
+Et qui depuis une heure en la Forêt prochaine
+A de tous ses forfaits reçu la juste peine.
+Comme j'y passais seul, j'entends le bruit des coups,
+Dont quatre hommes chargeaient une femme à genoux,
+Chacun d'eux inconnu sous un habit fantasque
+Se déguisait de plus le visage d'un masque,
+Et faisait voltiger sur elle à tour de bras
+L'étincelant acier d'un pesant coutelas.
+Elle s'en défendant d'une main fort adroite
+Parait à quelques coups avecque sa baguette,
+Et réclamait en vain sous de terribles noms
+Le secours trop tardif de ces traîtres démons.
+Enfin de trois grands coups mortellement atteinte,
+Et voyant de son sang la terre toute teinte ;
+Elle n'en pouvait plus, quand au bruit de ma voix
+Les quatre assassins s'enfuirent dans le bois,
+Comme je les suivais, arrête, me dit-elle,
+Ah ! Je mérite bien une mort si cruelle,
+Je ne la souffre plus désormais à regret
+Si je te puis encore déclarer un secret,
+Cette mort est le prix que je reçois d'un traître
+Que j'en sauvai jadis en trahissant son maître.
+Passant, si tu connais le Palatin Sifroy,
+Dis-lui ce que je vais confier à ta foi.
+Que dans ce triste état Argine meurt contente
+D'expier par sa mort celle d'une innocente,
+Et que ce qu'il en vit à sa confusion,
+De mon miroir trompeur fut une illusion ;
+Elle meurt là-dessus, et quatre loups énormes
+Qui sans doute cachaient des démons sous leurs formes,
+Sortant d'un même pas de quatre divers forts
+Sont venus devant moi en enlever le corps.
+La Forêt en frémit, et tout le Ciel s'en trouble
+Et moi vers le Château d'effroi le pas je double.
+Voici la vérité de ce fatal miroir
+Dont le charme forma le péché qu'il fit voir.
 
--*who_golo
-      Ô Cieux !
+Commencez seulement Lisandre vous seconde,
+Que voulez-vous de moi qui de mon coeur réponde ?
 
--*who_sifroy
-      La main te tremble ?
-Viens çà, cette beauté n'a-t-elle plus de quoi,
-Te prendre par les yeux, et débaucher ta foi.
+Donnez-la-moi toujours, et j'ose vous promettre
+Que je lui ferai voir avant la fin du jour.
+Mais en voici le temps, hâtons notre retour.
 
--*who_golo
-Où suis-je ?
+      Il prend un moment de repos.
+Nous ne pouvions trouver un temps plus à propos,
+Sa cassette est ouverte, il est aisé d'y mettre
+Parmi d'autres écrits cette fatale lettre,
+Comme il est curieux souvent de les revoir
+Il ne manquera pas de s'en apercevoir.
 
--*who_sifroy
-      Son aspect t'est-il encor funeste.
-Brûle-t-elle ton coeur de ce peu qu'il lui reste ?
+Quoi donc, vous chancelez déjà sur un dessein
+Où vous avez promis et le coeur et la main ?
 
--*who_golo
-Nous sommes enchantés.
+C'est bien ce que pourra tout ce qu'il a d'adresse
+Que de se retirer du piège qu'on lui dresse.
+Et je m'en tiens si fort, que s'il y contredit,
+Moi seul le soutiendrai contre tout son crédit.
 
--*who_sifroy
-      Oui, traître je le fus,
-Lorsque tu l'accusas, et lorsque je te crus ;
-Mais Dieu découvre enfin ce crime véritable
-Que tu pensais cacher, en me rendant coupable.
+Ou selon le besoin qu'elle en a cette fois
+Prêtons à son esprit et la main et la voix,
+Si le Comte au besoin manque à son innocence
+Nos armes serviront du moins à sa défense.
+Et si pour la prouver tout autre droit est vain
+Il en faudra venir aux preuves de la main
+Pour un si beau sujet contre tant d'injustice
+J'entrerai volontiers le premier dans la lice,
+Assaille qui voudra. Je serai le tenant,
+Et j'y présenterai cartel à tout venant.
 
--*who_golo
-Ô rage ! Ô désespoir ! Seigneur, qu'est-il besoin
-D'une plus forte preuve, ou d'un autre témoin ?
-Je l'avoue, il est vrai que mon âme insensée,
-Osa lui découvrir son amour déréglée ;
-Mais j'y fus suborné par ses divins appas.
+La résolution en est un peu bien prompte ?
 
--*who_sifroy
-S'ils étaient innocents ne les accuse pas :
-Quoi traître fallait-il après ce grand outrage,
-Faire de ses refus un triomphe à ta rage ?
-Si les chastes appas t'étaient contagieux,
-Tu devais par respect en détourner les yeux.
+La peinture, Seigneur, me semble bien confuse,
+Et ce n'est qu'une erreur dont l'amour vous abuse.
+Pensez-vous que le Ciel vous rende désormais,
+Celle de qui l'esprit repose dans la paix ?
 
--*who_genevieve
-Mais vous vous oubliez déjà de votre office ;
-Moi seule de Golo me dois faire justice.
+Quelle lettre ?
 
--*who_sifroy
-Pourquoi tant différer ?
+L'ombre de Geneviève !
 
--*who_genevieve
-      J'y veux plus d'appareil.
-Pour chercher à son crime un supplice pareil.
+      Ah ! Seigneur quel marbre ou quel rocher
+De ce dernier présent ne se pourrait toucher ?
 
--*who_sifroy
-C'est dans ces bois sacrés, complices de vos peines.
-Que je veux que mes chiens ouvrent toutes ses veines,
-Pour expier les maux que vous avez soufferts.
+Vraiment pour s'excuser cet artifice est rare,
+Mais puisque contre lui cette ombre se déclare ;
+Seigneur, je veux y perdre et la vie et l'honneur,
+Si cet homme cruel ne fut un suborneur.
 
--*who_genevieve
-Un sang si criminel souillerait ces déserts.
+Et vous n'avez rien vu dans le miroir d'Argine,
+Dont je ne sache mieux que Cléon l'origine.
 
--*who_sifroy
-Si vous ne prononcez, je préviens la sentence.
+De celle qui sur vous trouve tant de crédit.
+Et qui vous sût cacher par ce noir artifice
+Le crime de Golo dont il était complice.
 
--*who_genevieve
-Puisque vous m'en pressez avec tant d'insistance,
-Jurez-moi derechef qu'on exécutera
-Tout ce qu'envers Golo ma voix ordonnera.
+Mais sa langue m'a dit comme elle vous trompa :
+C'est d'elle que je sais tout ce cruel mystère.
 
--*who_sifroy
-Je le jure, et le Ciel moi-même me punisse
-Si de mes propres mains je ne vous fais justice.
+Je ne l'appris, Seigneur, qu'au moment de sa mort.
 
--*who_genevieve
-Souvenez-vous-en donc ? Et ne vous pressez pas,
-D'abréger ses tourments, avançant son trépas.
-Tremble donc à ma voix, ingrat, perfide, infâme,
-Je te donne à choisir du fer ou de la flamme ;
-Des tourments que la peur te met devant les yeux,
-Déclare-moi celui que tu mérites le mieux.
+Je ne sais pas au vrai quels furent ces démons,
+Mais Golo pourrait bien vous en donner les noms.
+Moi seul sans me servir des armes de l'Église,
+À quatre qu'ils étaient je fis bien lâcher prise,
+Au point que chacun d'eux à grands coups assommait
+Celle qui lors en vain ses démons réclamait :
+Comme je poursuivais cette troupe cruelle,
+D'une voix languissante, arrête, me dit-elle,
+Viens avant que la mort me le puisse arracher ;
+Découvrir un secret qu'on veut par-là cacher,
+Cette mort est le prix que je reçois d'un traître
+Que j'en sauvai moi-même en trahissant son Maître ;
+Mais passant de ma part, vois le Comte Sifroy,
+Dis-lui ce que vais confier à ta foi.
+Que dans ce triste état Argine meurt contente,
+D'expier par sa mort celle d'une innocente :
+Et que ce qu'il en vit à sa confusion
+De mon miroir trompeur fut une illusion.
+Là-dessus un soupir lui tranchant la parole,
+Jusqu'au fonds des Enfers sa noire âme s'envole,
+Quatre loups monstrueux accoururent dès lors,
+Et vers son vieil repaire entraînèrent le corps ;
+Du crime de Madame, enfin voilà l'histoire,
+Et l'honneur que l'on rend à sa sainte mémoire.
 
--*who_golo
-Pour un crime si grand toute peine est petite.
-Il n'en est point qui puisse égaler son mérite.
+Le Ciel permet souvent que ces noirs sortilèges
+Aux esprits curieux servent enfin de pièges.
 
--*who_genevieve
-Voici donc celle enfin, que m'inspire en ce lieu,
-Et le commandement et l'exemple d'un Dieu.
-Au nom de ce Sauveur, Golo, je te fais grâce ;
-Ma beauté fit ton crime, et ma bonté l'efface,
-Et ne veux pour punir ta lâche cruauté
-Te donner pour tourment que cette impunité.
+Il faudra donc, Seigneur, qu'une innocente vie
+Soit éternellement de ce soupçon flétrie,
+Et croirez-vous plutôt celui qui la noircit,
+Que les rayons si purs dont le Ciel l'éclaircit,
+Quoi vous croirez plutôt Geneviève coupable,
+Que croire que Golo d'un crime soit capable.
 
--*who_sifroy
-Qu'un si noir attentat échappe à ma justice !
+Cet homme l'a charmé ! Quoi sur un léger songe,
+Dont lui-même en son coeur reconnaît le mensonge,
+Il ne peut presque plus écouter aujourd'hui
+Ce qu'au soir précédent il avait cru de lui.
 
--*who_genevieve
-Que ma seule bonté punisse sa malice.
+Mais il faut à la fin que le nuage crève ;
+Qu'il condamne Golo ou bien sa Geneviève.
 
--*who_sifroy
-Qu'il vive ayant tâché de vous faire périr !
+Orismond, vous venez ici fort à propos.
 
--*who_genevieve
-Qu'il vive dans l'horreur de ne pouvoir mourir.
+La première lecture y fit hier un grand feu,
+Mais il n'en paraît point aujourd'hui que fort peu,
+Il la pleure pourtant, il croit son innocence,
+Il en plaint le malheur, il en prend la défense,
+Mais lorsque nous pensions pousser l'affaire à bout,
+Un songe intervenu vient de renverser tout.
 
--*who_sifroy
-Que je ne venge pas cette sanglante injure !
+Je l'ai fait.
 
--*who_genevieve
-Que vous m'obéissiez de peur d'être parjure.
+      Pour moi je m'imagine
+Qu'il doute sur ce point de ma fidélité,
+Et je n'ose assurer qu'il m'ait même écouté,
+Il est si fort charmé d'un songe qui l'obsède,
+Il le croit à ses maux un si certain remède,
+Qu'il pense y retrouver tout ce qu'il a perdu,
+Et de ce vain espoir son esprit confondu,
+Ne veut plus qu'on lui parle aujourd'hui d'autre chose,
+Et presse qu'à la chasse un chacun se dispose,
+Dont le songe charmant lui promet un succès
+Qui doit mettre bientôt son bonheur dans l'excès.
 
--*who_sifroy
-Que pour vous obéir je trahisse mon coeur !
+Il lui feint qu'aujourd'hui Madame n'est plus morte ;
+Et que l'amour l'invite à l'aller secourir,
+Dans un bois où l'on veut la faire encor mourir :
+C'est cette illusion qui l'engage à la chasse.
 
--*who_genevieve
-Que de ces sentiments vous vous rendiez vainqueur.
+Qu'il le ferait heureux, et qu'un mot de sa part,
+Perdrait bientôt Golo sans nous mettre au hasard.
 
--*who_sifroy
-Je n'y puis consentir, Madame, j'en appelle !
+Orismond avez-vous sur elle ce pouvoir ?
+De la part de Sifroy je vous donne assurance
+De respect et de foi, d'amour et de croyance.
 
--*who_genevieve
-Vous ne le pouvez pas, sans vous rendre infidèle,
-Car c'est du sang d'un Dieu qu'est signé son arrêt.
+Si cette ombre une fois lui parle coeur à coeur,
+Est-il enchantement que son esprit ne rompe.
 
--*who_sifroy
-Vous lui pouvez céder votre propre intérêt ;
-Mais quel droit avez-vous de remettre une offense
-Qui blesse mon honneur plus que votre innocence ?
+En quel lieu que ce soit je m'offre à l'y conduire,
+Pourvu qu'à ces désirs cet espoir puisse luire.
 
--*who_genevieve
-C'est l'exemple qu'un Dieu nous en donne à tous deux,
-Qui doit jusqu'en ton coeur porter ces mêmes feux ;
-Éteins dans son amour l'ardeur de ta colère,
-Si tu veux l'imiter et si tu lui veux plaire.
-Le soin de le punir doit désormais céder,
-Au plaisir de me voir et de me posséder.
+Le Comte n'attendait qu'après vous pour partir.
 
--*who_sifroy
-Je n'y puis résister, cette grâce est trop forte ;
-Votre exemple, Seigneur, et son amour l'emporte,
-Et puisqu'il faut céder, je cède à la vertu,
-Contre laquelle en vain j'ai longtemps combattu.
-Va traîner dans ces bois ta misérable vie,
-Et dans notre disgrâce et dans notre infamie.
+Un agréable songe a charmé sa colère.
 
--*who_golo
-Ah ! Madame, souffrez qu'au sortir de la mort,
-Adorant vos bontés je regrette mon sort
-En me rendant ce bien lorsque j'en suis indigne,
-C'est rendre seulement ma peine plus insigne.
-Laissez, laissez agir un si juste courroux ;
-Permettre que Sifroy m'immole à vos genoux.
-Empêcher seulement un jour votre mémoire
-De détester l'auteur d'une action si noire.
+Ce songe ne saurait vous faire bien grand tort.
 
--*who_genevieve
-Comme en vain ton orgueil attaqua ma beauté,
-En vain ton désespoir veut vaincre ma bonté.
-Va donc, n'interromps plus le cours de nos délices,
-Je me remets sur toi de tes autres supplices.
-Qu'on le fasse conduire en toute sûreté,
-Vous, Cléon, empêchez qu'il ne soit mal traité.
+C'est être en sûreté de ne craindre qu'une ombre.
 
-**** *book_ *id_V09 *act_V
+Sa lettre, à mon avis, n'est qu'une illusion.
 
--*who_lisandre
+Tout ce qu'elle produit n'est qu'un peu de fumée.
+
+Qui serait si méchant que de vous décrier ?
+
+Pour le moins je n'ai point de part en cette offense.
+
+Vous ne m'en sauriez pas reprocher un effet.
+
+Vous n'avez pas encor grand sujet de vous plaindre.
+
+Vous êtes assuré toujours de son amour.
+
+Vous demeurez toujours au-dessus de la roue.
+
+Et vous les regardez de là sans vous troubler.
+
+Dans un si haut pouvoir rien ne peut plus vous nuire.
+
+Je puis vous assurer que j'ai le coeur trop bon,
+Pour un crime si bas comme la trahison ;
+Et toutes les faveurs que vous fera le Comte
+Ne font point mon tourment, ne faisant point ma honte ;
+De plus s'il les fallait partager avec vous,
+Je ne serais jamais de votre part jaloux.
+
+J'aurais avec Cléon rompu cette partie,
+Si son amour pouvait en être divertie.
+On joue du cor derrière le Théâtre,
+comme pour assembler les chiens.
+
+Il fait donc vous hâter, j'entends déjà son cor.
+
+Quoi qu'il en soit, Seigneur, j'ose bien vous promettre
+Qu'elle-même y viendra vous expliquer sa lettre ;
+Préparez seulement vos yeux et vos esprits
+À cette vision dont ils seront surpris,
+Et ne lui faites pas cette sanglante injure
+De soupçonner encor son ombre d'imposture ?
+
+Contre qui que ce soit vous lui ferez justice ?
+
+Il devait le premier en cet endroit se rendre.
+
+Bien surpris de voir Sifroy avec une femme et enfant.
+Cléon où sommes-nous ? Et que vois-je, Orismond ?
+
+      Cléon, est-ce Madame ?
+
+      Est-ce vous ma Princesse ?
+
+      Et vous vivez ?
+
+Et quel est cet enfant avec vous en ces lieux ?
+
+C'est de lui-même aussi que vous en vint la lettre.
+
 Tous vos chevaux sont proches au bas de cette roche,
 Il est temps d'en sortir, déjà midi s'approche.
 
--*who_sifroy
-Sortons donc au plutôt de l'ombre de ce lieu
-Où je veux consacrer un temple à notre Dieu.
 
--*who_genevieve
-Nous viendrons visiter souvent cet ermitage.
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleon
 
--*who_benoni
-Vous autres emportez tout ce petit bagage.
+Orismond, qu'est ceci ? Ô Dieu c'est de la main.
+
+Quel prodige est ceci ?
+
+Ce soupçon, Orismond, pourrait bien être vrai,
+Et voici là-dessus un secret que je sais ;
+Vous connaissez tous deux cette fameuse Argine
+Hôtesse de nos bois, mais juive d'origine,
+Que ses prédictions et ses enchantements
+Font estimer l'oracle et l'effroi de ce temps.
+Sifroy la consulta d'abord touchant le crime
+Qui lui mit la Princesse en si mauvais estime,
+Moi seul parmi l'horreur d'une funeste nuit
+L'accompagnai chez elle et sans suite et sans bruit.
+Cette insigne sorcière après plusieurs mystères,
+Marquant sur un miroir quelques vieux caractères,
+Et murmurant dessus l'enfonça dans de l'eau ;
+Ensuite à la lueur d'un funeste flambeau,
+Y soufflant par trois fois elle fit voir au Comte
+Le crime de Madame, et l'objet de sa honte.
+Car d'abord un galant s'échappant de ses mains,
+Un autre consentait à ses honteux desseins.
+
+Je serai le troisième, et dans ce beau dessein,
+Je ne vous manquerai ni de coeur ni de main.
+Mais pour ne point laisser refroidir l'entreprise
+Prenons l'occasion dont Dieu nous favorise,
+Et voyons au plutôt ce que de cet écrit
+Le secret important fera sur son esprit.
+Alors pour appuyer cette attaque première
+Vous pourrez déclarer ce qu'a dit la sorcière.
+
+Que fait le Comte ?
+
+Mais n'y trouvez-vous pas quelque danger, Lisandre ?
+Sur une vision c'est beaucoup entreprendre.
+
+Vous connaissez Golo, si par quelque artifice
+Il sait qu'un de nous deux soit de ceci complice,
+Vous savez son crédit, vous savez son pouvoir
+Colle il s'en servira vous le pouvez prévoir.
+
+Contentons-nous d'agir sans toutefois paraître,
+Servons à la façon qu'une ombre le veux être.
+
+J'approuve les transports d'une ardeur si fidèle,
+Et moi-même suis prêt à seconder ton zèle ;
+Mais conduisons l'affaire avec dextérité,
+Il n'en faut venir là qu'à toute extrémité.
+Voyons auparavant ce que feront ces lignes,
+Si d'un amour constant il donne quelques signes,
+Nous pourrons appuyer ces premiers sentiments
+Et souffler sur ce feu par nos ressentiments.
+J'entends quelqu'un qui vient, discourons d'autre chose.
+
+      N'entrez pas il repose,
+De crainte toutefois de troubler son sommeil
+Nous vous laissons ici.
+
+Quoi, Seigneur, vous voilà déjà prêt pour la chasse,
+Souffrez que le repos ce matin vous délasse ;
+Après avoir passé tant de funestes nuits
+Le sommeil a-t-il fait trêve avec vos ennuis ?
+
+      Est-ce encore quelque autre vision ?
+
+Ah, Seigneur ! Pouvez-vous ne lui pas accorder
+La justice et le droit qu'elle vient demander ?
+
+Hélas ! Que dites-vous d'un respect si profond ?
+
+Et vous doutez encor de celui qui l'opprime ?
+
+Sur l'étrange façon dont il est accusé.
+
+Quel crime cachait-il dans la mort de Madame ?
+
+De quoi se vengeait-il en la privant du jour ?
+
+Nos derniers sentiments sont les plus véritables.
+
+La conscience alors cherche à se décharger.
+
+Oui, ce songe sans doute est l'effet de ses charmes.
+Jamais il n'eût sitôt essuyé tant de larmes,
+Ni flatté tant d'ennuis d'un si doux sentiment,
+Sans le pouvoir secret de quelque enchantement.
+
+Ce perfide abusant de son esprit jaloux,
+Le pourrait bien enfin faire crever sur nous.
+Et nous nous engageons dans un péril extrême
+Si son ombre paraît et ne parle elle-même.
+
+Et vous ne craignez rien de son vieil enchanteur ?
+
+Si ce fantôme aussi dans le besoin nous trompe,
+S'il ne paraît point lorsqu'il l'invoquera,
+Voyez en quel soupçon le Prince rentrera.
+
+Vous vous souvenez bien tous deux encore du lieu,
+Où je mis en vos mains sa lettre et son adieu,
+Vous y remarquerez un rocher escarpé
+Dont un ruisseau d'argent en deux bras est coupé,
+Ce sera sur la cime, et dans ses grottes sombres
+Que je vous ferai voir la plus belle des ombres,
+Je m'en vais le premier m'y rendre de ce pas,
+Vous m'attendrai au pied si je n'y parais pas,
+Adieu, voici Golo.
+
+      Prenez votre avantage,
+Cachez-lui ce péril où ce complot l'engage.
+
+Déjà de son pouvoir vous avez quelques gages,
+Et vous a déjà fait de sa part des messages :
+Car ce fut par ses mains que vous vint ce papier,
+Qu'avec tant de respect vous en reçûtes hier.
+
+      Votre chasse sans doute
+Pour n'être découvert l'a fait changer de route.
+
+Vous laisserons-nous seul ?
+
+Est-ce une illusion ?
+
+Sans doute c'est l'esprit de cette sainte femme.
+
+Seigneur, est-ce Madame ?
+
+Seigneur, quel sort vous rend et la mère et le fils.
+Ah ! Qu'Orismond nous a ravissamment surpris ;
+Et qu'il pouvait bien plus qu'il n'osait nous promettre.
+
+
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leris
+
+Le Comte est-il tout seul ?
+
+      J'attendrai son réveil.
+Mais je me trompe fort s'il me fait bien attendre.
+L'amour et les soucis ont le repos bien tendre,
+À peine a-t-il fermé les yeux pour sommeiller
+Que leurs illusions le viennent réveiller.
+Lisandre avec Cléon, comme je m'imagine,
+Venaient l'entretenir sur le meurtre d'Argine.
+Déjà sur quelques bruits qui sont de leur façon
+On en jette tout bas sur Golo le soupçon.
+Il les faut prévenir.
+
+      Le Comte soupire.
+
+      Que veut-il.
+
+      Voyons ce qu'il désire.
+
+      Seigneur, il dort, si c'est pourtant dormir
+Sous ces rudes assauts, dont je le vois frémir ;
+Hélas ! Qui pourrait voir quelles bizarreries,
+Forment dans son esprit ces noires rêveries !
+Tantôt il voit Drogan, qui tenant un flambeau
+Vient conduire ses pas jusque sur son tombeau :
+Tantôt il voit Madame encore toute sanglante,
+Et tantôt à soi-même il la voit survivante :
+Il croit qu'elle l'appelle au fond de la Forêt,
+Pour empêcher l'éclat de son funeste arrêt.
+Sommeil, à qui la nuit a cédé son empire,
+Toi vers qui dans les maux chacun de nous soupire
+Au moins pour un moment charme un peu les ennuis,
+Qui lui causent déjà tant de mauvaises nuits.
+Ou si tu ne veux pas te rendre plus propice,
+Ne le tourmente plus avec tant de malice,
+Il vaut mieux l'interrompre, en lui faisant du bruit.
+
+      Seigneur.
+
+Hé quoi ?
+
+Que voulez-vous ?
+
+      Hé Seigneur !
+
+Hélas vous savez bien !
+
+Que Geneviève est morte !
+
+Pourquoi tous ces transports pour un bien qui n'est plus ?
+
+Seigneur, considérez où la douleur vous porte ?
+
+L'ombre d'une innocente est-elle si cruelle ?
+
+Mais pourquoi tant parler d'un si fâcheux sujet,
+Souffrez que le sommeil efface cet objet :
+Vous reposeriez mieux dans la chambre prochaine ?
+
+Elle divertirait ce triste souvenir.
+
+      L'ombre de Geneviève
+À Sifroy.
+
+Du fond de ces demeures sombres
+Où j'erre encor parmi les ombres,
+Souffre que mon esprit vienne jusqu'en ce lieu
+Pour reprocher au tien cette sanglante injure
+Qui me laisse sans sépulture
+Et demander justice en te disant adieu.
+
+Il ne m'est resté qu'une chose
+Dont le Ciel veut que je dispose,
+C'est mon coeur, cher Époux, qui fut toujours à toi,
+Je t'en fais héritier même après mon supplice
+Et croirais faire une injustice.
+De souffrir que la mort l'enlevât à Sifroy.
+
+      Le bruit n'en est que trop certain,
+Dans son fameux repaire on l'a cherchée en vain,
+On n'en a pu trouver que la trace sanglante,
+Et toute la maison de son sang découlante :
+On a vu le débris de tous les instruments
+Dont elle se servait, pour ses enchantements ;
+Ses grands miroirs cassés, ses liqueurs renversées,
+Ses serpents étouffés, ses herbes dispersées.
+De ces enchantements, c'est là toujours la fin,
+Et c'est des enchanteurs le funeste destin.
+
+A-t-il si tôt charmé de si longs déplaisirs ?
+
+Quand elle vient ainsi, c'est le Ciel qui l'envoie,
+Mais que porte ce songe, et quel est cet espoir
+Que vous a pu donner celle qu'il a fait voir.
+
+Notre esprit en dormant nous donne ainsi le change,
+Et joint le faux au vrai par un confus mélange ;
+Car comment pourrait-il dans un amas confus
+Vous faire voir vivant un objet qui n'est plus.
+
+Ce présage ne peut qu'il ne nous favorise,
+Mais lors que tout le monde a part à ce bonheur,
+Voulez-vous que Golo souffre le déshonneur
+De se voir éloigné ?
+
+Par respect toutefois à votre ordre il défère :
+Et s'il n'eut craint d'aigrir un amour en courroux,
+Lui-même il fut venu prendre congé de vous.
+Mais il m'en a chargé, vous priant de vous dire
+Que puisqu'il n'avait pu vous servir sans se nuire,
+Qu'il n'avait qu'un regret de vous laisser périr
+Dedans cette langueur qu'il n'avait pu guérir.
+
+Seigneur, c'est l'accabler, cette insigne faveur
+Va lui rendre sans doute et la vie et le coeur.
+
+J'ai sans doute entendu sur ce rocher sa voix.
+
+Golo ? C'est Orismond que nous venons d'entendre,
+
+Vous en avez reçu pour le moins une lettre ?
+
+Laissons-le là-dessus rêver tout à loisir,
+Et suivons cependant notre innocent plaisir.
+

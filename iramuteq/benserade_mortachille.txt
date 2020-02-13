@@ -1,38 +1,7 @@
 
 
-**** *book_ *id_body-1 *date_1636 *creator_benserade
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_achille
 
-LA MORT D'ACHILLE
-
-TRAGEDIE.
-
-Epistre
-
-Au roy
-
-Sire,
-
-Puis que toute la France delivrée de sa crainte se jette aux pieds de V.M. pour luy tesmoigner qu'elle n'est pas méscognoissante, je serois le seul coupable, si je n'augmentois cette honorable foulle de vos peuples qui porte si haut dans l'air le bruit des justes acclamations qu'elle donne à la derniere, et à la plus illustre de vos victoires, voyant comme elle déploye desja ses ailles pour voller de vostre costé.
-Et en effet, SIRE, quelques grandes, et quelques estonnantes qu'ayent esté vos actions depuis que vous tenez ce magnifique Sceptre que le droit du sang vous a mis en main, et que vos Royales vertus vous confirment tous les jours, V.M. sembleroit n'avoir pas tout à fait travaillé pour son honneur, si elle n'avoit eu une plus ample matiere pour occuper sa grandeur et sa force : tantost elle s'emploioit à vaincre des Rebelles, tantost à soûtenir la foiblesse de ses Alliez contre la violence des Usurpateurs, et tantost à reprimer l'insolence et la perfidie d'un Voisin, et d'un Vassal ; Il estoit temps qu'elle fit parêtre que toutes ses armes luy sont également avantageuses, et qu'elle s'aide aussi glorieusement du bouclier que de l'epée : Et ç'a esté en cette derniere guerre qu'elle en a donné, et en donne encore des preuves qui mettent sa gloire au plus haut poinct qu'elle puisse estre, et qui font rougir l'Espagne de la honte, et de la vanité de ses entreprises.
-Si les autres Monarques ont de l'assurance, et de la tranquillité dans leurs Etats, ils la tiennent moins d'eux mesmes que de leurs sujets qui travaillent sans cesse pour le salut et pour l'affermissement de leurs couronnes, mais au contraire le repos et la seureté que nous avons ne vient pas tant de nous comme c'est un effet de vostre agitation, et des dangers où V.M. s'expose tous les jours pour la conservation de nos vies, et de nos biens : De façon que nous ne pourions nous dispenser de nos hommages legitimes à moins que d'ajouster l'ingratitude à la desobeissance, et d'offencer en vostre personne le meilleur pere qu'ait jamais eu la Patrie, et le plus grand, et le plus vaillant Roy du monde ; Achile que je vous offre en toute humilité le confesseroit de sa propre bouche si V.M. avoit besoin des louanges d'un moindre qu'elle ; Je la suplie tres-humblement qu'il en soit veu de bon oeil, et qu'elle pardonne à l'ambition de celuy qui l'ose présenter ; C'est,
-
-SIRE
-
-de V.M.
-
-Le tres-humble, tres-obeïssant, & tres-fidelle serviteur & subjet,
-
-DE BENSSERADDE
-
-AU LECTEUR
-
-Le sujet de cette Tragedie est assez fameux pour n'estre pas ignoré de ceux qui la liront, puis que les plus beaux gestes de celuy qui en est le Herôs sont escrits d'un style si merveilleux par le divin Homere ; quelques Autheurs comme Dares Phrygius, & Dictys Cretensis, en parlent historiquement, & avec plus de vray-semblance, j'ay pris des uns & des autres ce que j'en ay jugé necessaire pour l'embellissement de la chose sans en alterer la verité.
-Je m'asseure que l'on m'accusera d'avoir icy chocqué les loix fondamentales du Poëme Dramatique en ce que j'ajouste à la mort d'Achille, qui est mon objet, la dispute de ses armes, & la mort d'Ajax, qui semble estre une piece detachée, mais je m'imagine que mon action n'en est pas moins une, & que cette dispute & cette mort qui pourroit ailleurs tenir lieu d'une principale action ne doit estre icy considerée qu'en qualité d'Episode & d'incident, veu qu'elle regarde principalement Achille, & qu'elle n'est pas le veritable but de ma Tragedie, bien que ce soit par où elle finit, s'il falloit tousjours finir par la mort du premier Acteur, le Theatre se verroit souvent despoüillé de ses plus beaux ornemens, la mort de Cesar ne seroit pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effect ; & qui pousse si avant dans les coeurs la compassion, le regret, & le desir de vengeance, quand Ajax se tuë du desespoir d'estre frustré des armes d'Achille, il ne donne pas tant une marque de sa generosité qu'il laisse un tesmoignage du merite de ce qu'il recherchoit, & par consequent cét acte ne tend qu'à l'honneur de mon Herôs.
-En tout cas si j'ay failly pardonne moy, & puis qu'il ne m'est pas permis d'esperer une juste loüange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.
-
-**** *book_ *id_I01 *act_I *date_1636 *creator_benserade
-
--*who_achille
 Je ne sçay, mon cher coeur, ce qui doit m'arriver,
 Mais depuis quelque temps je ne fay que resver,
 J'ay tousjours dedans l'ame un soucy qui me ronge,
@@ -40,22 +9,9 @@ Tousjours l'esprit troublé de quelque horrible songe,
 Je ne voy qu'en tremblant l'ombre qui suit mes pas,
 Enfin je crains un mal que je ne cognoy pas.
 
--*who_briseide
-Si vous n'estiez Achille, ou si je n'estois femme,
-Je voudrois vous oster cette frayeur de l'ame.
-Hé quoy vous laisser vaincre à des illusions !
-Que fait vostre courage en ces occasions ?
-Ne voyant dans ces lieux que meurtres, & que pestes,
-Quels songes feriez-vous que des songes funestes ?
-
--*who_achille
 Soit une illusion, soit phantosme, ou vapeur,
 Les prodiges sont grands, puis qu'Achille en a peur.
 
--*who_briseide
-Encore, beau Vainqueur, qu'est-ce qui vous effraye ?
-
--*who_achille
 Patrocle m'aparoist, & me fait voir sa playe,
 Au milieu de la nuict son phantosme sanglant
 S'approche de mon lict d'un pas affreux, & lent :
@@ -72,19 +28,6 @@ Avecque mes amis malgré moy je suis triste,
 Je pers de jour en jour l'usage des plaisirs,
 Et ne respire plus qu'avecque des soupirs.
 
--*who_briseide
-“ C'est ainsi que le Ciel advertit ceux qu'il ayme,
-“ Et qu'il voit s'engager dans un peril extresme.
-Croyez pour l'esviter ce que vous avez veu,
-“ Le plus certain presage est menteur estant creu.
-Achille, autant d'objects qui troublent vostre joye,
-Sont autant de conseils que le Ciel vous envoye.
-Evitez les dangers où l'on vous voit courir,
-“ Un grand coeur comme vous peut tuër, & mourir.
-Un malheur peut ternir l'esclat qui vous renomme,
-Achille est redoutable, il est vaillant, mais homme.
-
--*who_achille
 “ Nostre vie est un bien difficille à garder,
 “ Afin de la deffendre on la doit hazarder.
 Je m'en croirois indigne au destin qui nous presse
@@ -100,23 +43,6 @@ Souvent elle se cache à l'ombre d'une palme,
 Et c'est là le sujet de ma timidité,
 Je me fie au danger, & crains la seureté.
 
--*who_briseide
-Cet instinct qui confond nos deux ames ensemble,
-Confond nos passions, vous craignez, & je tremble.
-Achille, au nom des Dieux tesmoins de nostre amour,
-Par mes yeux, par mes pleurs, conservez-moy le jour,
-Refroidissez un peu cette chaleur extresme,
-Et ne meurtrissez point l'innocent qui vous ayme,
-Mon coeur où comme un Dieu vous estes adoré,
-A qui vostre peril est un mal asseuré :
-Assez de vostre sang honore la Phrygie,
-La vague du Scamandre en est assez rougie.
-Quel honneur maintenant pouvez vous aquerir ?
-Hector, & Sarpedon ne sçauroient plus mourir.
-Ilion n'en peut plus, qu'il soit pris par un autre,
-La gloire qu'il en reste est moindre que la vostre.
-
--*who_achille
 Tu n'es pas toute seule objet de mon soucy,
 La gloire est ma maistresse, & je l'adore aussy :
 Pourtant à quelque effect que mon courage monte,
@@ -124,51 +50,13 @@ Mes jours sont à toy seule, & je t'en rendray conte.
 Mais que veut Alcimede ? un homme si discret
 N'interrompt pas pour peu nostre entretien secret.
 
-**** *book_ *id_I02 *act_I *date_1636 *creator_benserade
-
--*who_alcimede
-Le souverain de Troye, & des femmes dolentes
-En faveur de la treve arrivent dans vos tentes,
-Avecque des presens, de l'argent, & de l'or,
-Afin de racheter le cadavre d'Hector.
-
--*who_achille
 Si c'est pour ce dessein qu'ils ont quitté la ville,
 Je plains un tel travail qui leur est inutille,
 Ils devroyent pour leur bien encore y sejourner,
 Puis qu'ils ne sont venus que pour s'en retourner.
 
--*who_briseide
-Helas ! n'adjoustez rien à leur triste fortune,
-Voyez les, & souffrez leur priere importune,
-Admirez dans ces gens les divers coups du Sort,
-Monstre capricieux qui vous baise, & les mord.
-Faittes reflexion sur la misere extresme
-D'un pere sans enfans, d'un Roy sans diadesme :
-Car le trespas d'Hector met Priam à ce point,
-Il est pere, il est Prince, & pourtant ne l'est point.
-Quant à moy je ne plains que cette pauvre mere.
-Ha ! combien sa douleur luy doit sembler amere,
-De voir que son fils mort est en vostre pouvoir,
-Et de n'esperer pas peut-estre de le voir !
-D'un favorable accueil consolez leur tristesse,
-“ C'est une cruauté d'oprimer qui s'abaisse.
-
--*who_achille
 Je ne doy pas aussi m'abaisser devant eux.
 
--*who_briseide
-Priam est tousjours Roy bien qu'il soit malheureux,
-Vous le devez traicter comme on traicte un Monarque,
-Bien qu'un Roy soit tout nu, jamais il n'est sans marque :
-“ Bien qu'il ait despoüillé tout ce que les Roys ont,
-“ La majesté luy reste encore sur le front.
-“ Cette pompe invisible, & ce rayon celeste
-“ Est de tous ses honneurs le dernier qui luy reste.
-“ Le Sort dont l'inconstance, & l'eleve, & l'abat
-“ Peut tout sur sa couronne, & rien sur cet éclat.
-
--*who_achille
 Qu'il vienne, je suis prest d'entendre sa requeste :
 Oüy, je respecteray ce qu'il a sur la teste,
 Et je m'efforceray sans le rendre confus,
@@ -178,98 +66,20 @@ Il eut trop d'arrogance, & j'ay trop de cholere.
 Mon cher amy Patrocle en fut trop outragé,
 Et je l'offencerois apres l'avoir vangé.
 
--*who_briseide
-Quoy dédaignerez-vous, & le prix & les larmes
-Qu'ils offrent pour un fils triste object de vos armes ?
-Voyez à quel mal-heur les a reduits le Sort,
-De l'avoir eu vivant, & de l'acheter mort.
-Les voicy, ce vieux Roy monstre plus que personne
-Que tousjours le bon-heur n'est pas sous la couronne.
-
-**** *book_ *id_I03 *act_I *date_1636 *creator_benserade
-
--*who_achille
 Certes mes ennemis sont trop officieux,
 Vous me faictes rougir de venir en ces lieux,
 Je respecte dans vous, & l'âge, & le merite,
 Et sçay ce que je dois à cette belle suitte.
 
--*who_priam
-Ma suitte n'attend point de respect, ny d'honneur,
-Elle est bien moins qu'esclave, & vous estes Seigneur,
-De moy je ne croy pas, en l'estat desplorable,
-Où m'ont reduit les Dieux, estre considerable,
-Ny pouvoir exiger un hommage contraint,
-Et par ces cheveux blancs, & par ce qui les ceint.
-Non, nous ne venons point l'ame triste, & saisie,
-Tirer des complimens de vostre courtoisie,
-Ny de ces vains honneurs, brave sang de Thetis.
-
--*who_achille
 Que me demandez-vous ?
 
--*who_priam
-      Nous demandons mon fils,
-Par nos cris, par nos pleurs, par l'ennuy qui nous presse,
-Par une langoureuse, & trop longue vieillesse,
-Par vos mains que je baise.
-
--*who_achille
       O Dieux, que faictes-vous !
 Des Reynes, & des Roys embrasser mes genoux !
 
--*who_priam
-Elle s'évanoüist cette Majesté haute,
-Nostre malheur, Achille, & vostre bras nous l'oste.
-
--*who_achille
 Je ne souffriray point que vous vous abaissiez.
 
--*who_hecube
-Nous sommes comme il faut.
-
--*who_achille
       Levez vous, & priez.
 
--*who_briseide
-Tenir pour un fils mort cette lasche posture !
-A quoy ne nous réduit le sang, & la nature ?
-
--*who_priam
-Tous mes enfans, Achille, ont tombé sous vos coups,
-Et je n'en ay jamais murmuré contre vous.
-Je vous croy de mes maux l'instrument, non la cause :
-Aussy parlant de vous, je n'ay dit autre chose.
-Quand sur moy la fortune a vomy tout son fiel,
-Sinon, la main d'Achille est le glaive du Ciel :
-Mes enfans les plus chers ont esté ses victimes,
-Et dans mon propre sang il a lavé mes crimes :
-Par vous il m'a puny, son foudre est vostre fer,
-Et les Dieux par vos bras ont voulu m'estouffer.
-Ils n'ont pas assouvy leur hayne insatiable,
-Troye est plus mal-heureuse, ou je suis plus coupable.
-Tout ce que j'ay souffert ne les contente pas,
-Achille, par vos mains ils veulent mon trespas,
-Finissez donc ma vie en achevant mes peines,
-Tirez ce peu de sang qui reste dans mes veines,
-Ou rendez-moy ce fils qui me touche si fort,
-Je seray chastié quand je le verray mort :
-Si je le demandois avec l'ame, & la vie
-Qu'il ne peut plus avoir, que vous avez ravie,
-J'attendrois un refus, mais helas il me plaist
-Tout pasle, tout sanglant, tout massacré qu'il est !
-Ha ! si vous cognoissiez les mouvemens d'un pere
-Qui sent mon infortune, & souffre ma misère !
-Le vostre ( brave Achille ) est plus heureux que moy,
-Cependant sa vieillesse est tousjours dans l'effroy,
-Aprehende pour vous, ne cesse de se plaindre,
-Et craint ce qu'autrefois j'eus le bon-heur de craindre.
-Hélas je le souhaitte exempt de mes malheurs !
-Que jamais vostre sang n'attire de ses pleurs,
-Soyez tousjours heureux, & que jamais Pelée
-N'ait les tristes ennuys dont mon ame est troublee.
-
--*who_achille
 J'ay pitié de vos jours que la misere suit,
 Et je plains l'infortune où je vous voy reduit,
 Peussay-je vous monstrer comme j'en suis sensible !
@@ -289,44 +99,11 @@ Il auroit les honneurs dont il est trop indigne,
 Et l'on diroit de moy l'autheur de son trespas,
 Achille fait mourir, mais il ne punit pas.
 
--*who_priam
-N'estoit-il pas puny, s'il vous parut coupable,
-Lors que mort, & vaincu, ce Prince desplorable
-Traisné par vos chevaux, percé de part en part
-Faisoit le tour des murs dont il fut le rempart ?
-Quand on voyoit sa teste en si triste esquipage
-Bondir sur les cailloux sanglante, & sans visage,
-Et que de tout cela nous estions les tesmoins,
-Patrocle, & sa vengeance en vouloient un peu moins.
-A quel ressouvenir vostre rigueur m'oblige !
-Pour vous persuader faut-il que je m'afflige ?
-Que mon fils soit du moins arrousé de mes pleurs.
-
--*who_achille
 Son aspect ne feroit qu'augmenter vos douleurs.
 
--*who_priam
-Quoy vous ne voulez pas mesme que je le voye ?
-O Prince miserable ! ô Troye, autrefois Troye !
-Esprouve si son coeur s'amolira pour toy,
-Peut-estre la pitié n'est morte que pour moy.
-
--*who_hecube
-Que les pleurs d'une mere attendrissent vostre ame,
-Donnez à la nature un bien qu'elle reclame ;
-Celuy de qui le bras vous resistoit jadis
-N'est plus vostre ennemy, mais c'est tousjours mon fils :
-Estre vindicatif mesme apres la victoire,
-C'est vostre deshonneur plutost que vostre gloire.
-
--*who_achille
 Rien sur ma volonté ne peut estre absolu :
 Ils ne l'auront jamais, j'y suis trop resolu.
 
--*who_hecube
-Dequoy murmurez-vous ?
-
--*who_achille
       Vostre infortune est grande,
 Et je m'accorderois à ce qu'elle demande.
 Mais quoy ? je ne vous puis livrer ce bien fatal
@@ -334,37 +111,6 @@ Sans la permission de nostre General.
 Dans l'armée où je suis on n'excepte personne,
 Rien de ce corps n'agit que le chef ne l'ordonne.
 
--*who_hecube
-“ Le plus chetif soldat a droict sur son butin,
-Et la valeur d'Achille auroit pire destin ?
-A genoux devant luy (ma chere Polixene.)
-
--*who_polixene
-La mere n'y peut rien, la soeur perdra sa peine.
-
--*who_hecube
-Adresse ta priere à l'honneur des humains,
-Et tends devers le Ciel tes innocentes mains.
-
--*who_polixene
-Je n'ose (grand Herôs) esperer que mes larmes
-Pour vous toucher le coeur soient d'assez fortes armes,
-Car j'ay trop peu de grace à pleurer un malheur
-Pour faire la pitié fille de ma douleur.
-Mais si vostre bonté me donne l'asseurance
-Qu'elles esbranleront cette rude constance,
-Ces pleurs dont j'entretiens la memoire d'Hector,
-Ces deux fleuves taris pourront couler encor ;
-Perdez cette rigueur où peu de vertu brille,
-Et qu'Achille une fois soit vaincu d'une fille,
-Que l'animosité mette les armes bas,
-“ C'est gloire de se rendre aux injustes combas.
-Que vostre passion ne vous soit plus contraire,
-Que vostre ennemy mort, ce miserable frere
-Ait un sepulchre ailleurs qu'au sein de ses parens,
-Helas voyez mes pleurs !
-
--*who_achille
       Je me rends, & le rends ;
 Vos larmes ont esteint ma vengeance enflammee,
 Ce que n'auroit pas fait le pouvoir d'une armée,
@@ -377,15 +123,6 @@ Il n'en falloit pas tant pour obtenir un mort :
 Je recognois ma faute, & je voudrois, Madame,
 En vous rendant ce corps l'animer de mon ame.
 
--*who_priam
-“ Ainsi des justes Dieux l'adorable pouvoir
-“ Fait naistre le bon-heur au tombeau de l'espoir.
-Achille, vos faveurs monstrent ce que vous estes,
-Ces presens sont le prix du bien que vous nous faites.
-Avec quelle rigueur suis-je traicté du Sort ?
-Que je m'estime heureux de revoir mon fils mort ?
-
--*who_achille
 Que n'ay-je le pouvoir de le remettre au monde ?
 J'estimois sa valeur, elle estoit sans seconde,
 Et combien que je sois l'autheur de son trespas,
@@ -416,121 +153,11 @@ J'ay pitié de vous voir en ce fascheux estat,
 Et je ne marche plus qu'à regret au combat.
 Vos affaires vont mal.
 
--*who_priam
-      En l'estat où nous sommes,
-Nous n'avons du secours ny des Dieux, ny des hommes.
-Nous avons sous les maux mille fois succombé :
-Le superbe Ilion seroit desjà tombé,
-N'estoit qu'il doute encore en son destin supresme
-S'il faut ou qu'il se perde, & s'accable soy-mesme,
-Ou tombe du costé d'où la foudre luy vient :
-Et cette incertitude est ce qui le maintient.
-Deiphobe, Pâris, & le jeune Troile
-Dignes freres d'Hector, sont l'appuy de ma ville :
-C'est où j'en suis reduit.
-
--*who_achille
       Entrons. Pour vos presens,
 Avec le corps d'Hector de bon coeur je les rens,
 Il faut nous visiter tant que la tresve dure,
 Vous serez plus heureux, Achille vous le jure.
 
--*who_hecube
-O genereux Guerrier !
-
--*who_briseide
-      Ce nouveau changement
-Me donne de la crainte, & de l'estonnement.
-
-**** *book_ *id_II01 *act_II *date_1636 *creator_benserade
-
--*who_priam
-Mais est-il bien possible, & le devons-nous croire,
-Que sur luy Polixene ait aquis cette gloire ?
-Que cette passion ait calmé son courroux,
-Et qu'il ayme estant Grec quelque chose de nous ?
-
--*who_hecube
-Mais est-il bien possible, & le devons nous croire
-Qu'une voix sans visage ait aquis cette gloire ?
-Ou que sur ce grand coeur une grande beauté
-Ait eu tant de pouvoir sans l'avoir surmonté ?
-Que n'avons-nous pas fait ? la jeune Polixene
-L'a moins prié que nous, n'a pas eu tant de peine.
-A quoy donc si ses yeux n'avoient eu quelque droit,
-Auroit-il accordé ce qu'il nous refusoit ?
-
--*who_paris
-Que n'estois-je avec vous ? j'eusse veu sa pensée,
-De quelle affection elle estoit traversée,
-Et d'où venoit en luy ce mouvement si prompt,
-Car je cognoy le coeur dés que je voy le front,
-Des feux les plus cachez je voy des estincelles,
-Et juge de l'amour aussy bien que des belles.
-Achille inexorable, & puis humilié,
-C'est ensemble un effect d'amour, & de pitié,
-Ce double mouvement qui tient l'ame engagée,
-Peut naistre des appas d'une belle affligée,
-“ Rien n'est plus eloquent que de beaux yeux moüillez,
-“ Par eux sont de fureur les Tygres despoüillez.
-Sans doute que ma soeur est dans l'esprit d'Achille,
-Et cette affection nous est beaucoup utille.
-
--*who_priam
-Si ma fille devoit vous attirer à nous,
-Achille, ha que plutost ne l'apperceustes vous !
-On ne vous eust point veu si fatal à ma joye,
-Derriere vostre char traisner Hector, & Troye .
-Tu vivrois mon enfant, l'appuy de mes citez,
-Et le retardement de nos fatalitez.
-
--*who_paris
-Que vostre majesté ne perde point courage,
-Et sauvons, s'il se peut, les restes du naufrage.
-L'Amour nous donne Achille, & s'il est diverty,
-Nous pourrons voir Ajax entrer dans son party.
-
--*who_priam
-Travaillez donc pour vous, Hector, & ma vieillesse
-N'accroistront point l'honneur des pompes de la Grece,
-Il est mort, & je meurs, attendez vostre fin,
-Et poussez jusqu'au bout vostre jeune destin,
-Car c'est pour vous, Pâris, que Mars se rassasie,
-Et du sang de l'Europe, & du sang de l'Asie,
-Nos mal-heurs sont de vous, vous les avez produits,
-Et vostre seule pomme a fait naistre ces fruits.
-
--*who_paris
-Je sçay que j'ay causé nos plus tristes journees,
-Et ce juste reproche a plus de neuf annees.
-Mais quoy que cette guerre offre à mon souvenir,
-L'amour la commença, l'honneur la doit finir.
-
--*who_hecube
-Que l'amour la finisse, & que le coeur d'Achille
-En aymant Polixene ayme aussi nostre ville,
-Nous le pourrons gagner, jamais selon nos voeux
-Plus belle occasion ne monstra ses cheveux.
-Le voicy, cet oeil doux, & ce front peu severe
-Ne s'accordent point mal à ce que j'en espere.
-
-**** *book_ *id_II02 *act_II *date_1636 *creator_benserade
-
--*who_priam
-Nous venons de pleurer sur les cendres d'Hector,
-Et de ses os bruslez le bucher fume encor,
-Depuis que nous menons cette vie affligée,
-Neuf fois j'ay veu jaunir nos plaines de Sigée,
-Et desja par neuf fois Ide le Sacré mont
-De neige, & de frimas s'est couronné le front.
-Nous n'abandonnons point ceux qui cessent de vivre,
-On nous voit tous les jours les bruler, ou les suivre,
-Et la fatalité de nos communs malheurs
-Nous fait tousjours respandre ou du sang, ou des pleurs.
-Que ne vous trouviez-vous parmy la compagnie
-Pour estre spectateur de la ceremonie.
-
--*who_achille
 Je ne recherche point d'accroistre mon mal-heur,
 Ma douleur me suffit sans une autre douleur,
 Mon esprit souffre assez au mal qu'il se propose,
@@ -538,13 +165,6 @@ Sans voir ce triste effect dont mon bras est la cause,
 “ Nostre felicité n'est pas d'estre Vainqueur,
 “ Et souvent la victoire est triste dans le coeur.
 
--*who_hecube
-Ha ne vous plaignez point : tout vous rit sur la terre,
-Jamais sur vos lauriers n'est tombé le tonnerre,
-Vous rompez, terracez tout ce qui nous deffend,
-Tousjours victorieux, & tousjours triomphant.
-
--*who_achille
 Le sujet de vos maux ne l'est pas de ma joye,
 Je ne serois heureux quand j'aurois conquis Troye,
 Qu'en ce poinct que j'aurois loin de vous affliger,
@@ -556,15 +176,6 @@ Que si vous endurez, Achille endure aussy.
 J'ignore qui de nous a plus sujet de craindre,
 Encor vous plaignez-vous, moy je ne m'ose plaindre.
 
--*who_priam
-Quel que soit vostre mal, je le souffre avec vous,
-Et j'ay pitié de ceux qui n'en ont point de nous.
-Contraire à l'ennemy qui nuit alors qu'il aide,
-J'y voudrois aporter un diligent remede,
-Et je soulagerois les maux que vous avez,
-Pourveu que je le peusse.
-
--*who_achille
       Helas ! vous le pouvez.
 Que vostre Majesté m'accorde une requeste,
 Je vous offre mon bras, je vous offre ma teste,
@@ -582,17 +193,8 @@ Et mieux que quand Hector par tout se faisoit voye,
 Vous verrez refleurir vostre premiere Troye,
 Achille estant Troyen ne demordra jamais.
 
--*who_priam
-Vous nous le promettez ?
-
--*who_achille
       Ha ! je vous le promets.
 
--*who_priam
-Demandez hardiment, asseuré que ma vie,
-Si vous la demandez se donne à vostre envie
-
--*who_achille
 Mais devant qu'à vos yeux mon mal soit exposé,
 Pardonnez-moy celuy que je vous ay causé,
 Je n'obtiens que par là ceste faveur insigne,
@@ -614,23 +216,6 @@ Et que ce pauvre coeur n'en soit point rebuté,
 Qu'un hymen des souspirs fasse naistre la joye,
 Et pour un commun bien sauvez Achille, & Troye.
 
--*who_priam
-“ Celuy certes n'est pas mal-heureux à demy
-“ Qui n'attend des bien-faicts que de son ennemy :
-Un mortel craint des Dieux, aymé de la victoire
-Se laisse donc surprendre au milieu de sa gloire ?
-Et vostre grand courage est donc reduit au point
-D'esperer en ma grace, ou de n'esperer point ?
-Quoy ma fille aymeroit nos plus grands adversaires ?
-Elle seroit le prix du meurtre de ses freres ?
-Et je vous pourrois faire un traittement si doux
-Apres les maux sanglans que j'ay receu de vous ?
-Je ne veux point pourtant tromper vostre esperance,
-Ny faire qu'un refus me serve de vengeance,
-Nous procurant la paix sous ces conditions,
-Que ma fille responde à vos affections.
-
--*who_achille
 Ha ce doux mot ranime un coeur reduit en cendre !
 Vous me donnez la paix, & je vous la veux rendre.
 Achille qui joüist d'un bon-heur sans esgal,
@@ -639,18 +224,9 @@ Et si de vostre sang il rougit plus qu'un autre,
 Il vous offre le sien en eschange du vostre,
 J'acheveray pour vous ce qu'Hector projettoit.
 
--*who_hecube
-Helas ! soyez nous donc ce qu'Hector nous estoit.
-
--*who_achille
 Je ne merite pas cét honneur que j'espere,
 Je fus son homicide, & je seray son frere.
 
--*who_paris
-Il faut rompre les loix de la civilité,
-Et que je vous embrasse en cette qualité.
-
--*who_achille
 Ouy, Pâris, en faveur des beaux yeux de ma Reyne
 Ce bras qui poursuivoit deffendra ton Helene,
 Je ressens les transports dont tu fus possedé,
@@ -660,19 +236,461 @@ Des devoirs d'un amant devant que je vous quitte,
 Souffrez qu'auparavant que d'aller au conseil,
 J'offre un premier hommage à ce jeune Soleil.
 
--*who_priam
-A recevoir vos voeux ma fille est preparée,
-Mais que vos entretiens soient de peu de durée,
-Vous n'estes pas encore au point de vous unir,
-Et la tresve accordée est preste de finir.
-Hastez-vous, & pensez que toute vostre joye
-Ne depend seulement que du respos de Troye,
-Et qu'il faut pour son bien qu'Achille desormais
-Change une courte tresve en une longue paix.
+Non, Madame, achevez mon destin miserable,
+Vangez-vous, perdez-moy par un coup favorable,
+Qui retarde l'effort de vostre belle main ?
+Est-ce pitié, foiblesse, injustice, ou desdain ?
+J'ay choisi ce supplice, en songez-vous un autre ?
+Espargnez-vous mon sang ? j'ay tant versé du vostre.
 
-**** *book_ *id_II03 *act_II *date_1636 *creator_benserade
+Si vous m'estiez bon juge en cognoissant mon crime,
+Vous le feriez passer pour acte legitime.
+Mais vous estes severe, & je suis criminel
+A cause que je sçay que vous me croirez tel.
+Ouy je vous faschay moins meurtrissant vostre frere,
+Je ne fus que hardy, mais je suis temeraire.
+Tous mes faits ne sont rien, je m'esleve au dessus,
+J'ay beaucoup fait, Madame, & j'ose encore plus,
+Mon audace merite une cheute pompeuse,
+Et cette vanité rend ma honte fameuse.
+Qu'elle perisse donc sans me faire parler,
+Que l'ambition creve à force de s'enfler :
+Je peche contre vous sans remors, & sans blasme.
 
--*who_alcimede
+      Je vous ayme, Madame,
+C'est ma temerité, ma gloire, mon forfait,
+Et voilà ce que j'ose apres ce que j'ay fait :
+Mon coeur s'ose flatter de l'espoir de vous plaire,
+Et qui peut tout ailleurs est icy temeraire.
+Vous m'avez commandé de ne le point celer,
+Si ce sont deux pechez que souffrir, & parler,
+Le premier est de moy, le dernier est le vostre,
+Punissez-moy de l'un, accusez-vous de l'autre.
+J'ay cessé d'estre libre afin d'estre captif,
+Afin d'estre amoureux d'estre vindicatif :
+Ma colere a donné la gésne à la Nature,
+Je n'ay point eu pitié de sa triste aventure,
+Qu'un pere ait souspiré, qu'une mere ait gemy,
+Je n'ay point pour cela cessé d'estre ennemy :
+Mais vos yeux ont flechy mon courage farouche,
+Et m'ont persuadé bien mieux que vostre bouche,
+Je pensois resister, mais il a bien fallu
+Rendre Hector, & mon coeur quand vos yeux l'ont voulu :
+Je les veux adorer, contentons mon envie,
+Et que je sçache d'eux à quel point est ma vie.
+Orgueilleux Souverains, dont j'adore les loix,
+Espoir ambitieux de plus de mille Roys !
+
+Doutez-vous que mon mal ne soit pas violent ?
+Pour voir mon coeur bruslé, vous l'allez voir sanglant,
+Ce fer.
+
+Vous m'aymez ?
+
+Ha mal-heur de mes jours ! mais finissez ma peine.
+
+Faut-il qu'à ses grands maux mon foible esprit resiste ?
+Que le plus affligé console le moins triste !
+Ne moüillez plus vos yeux mes aymables vainqueurs,
+N'esteignez pas ainsi le beau bucher des coeurs ;
+Adorable Princesse, en mon ardeur extresme,
+Helas vous fay-je tort de dire, je vous ayme ?
+Un ennemy mourant offence-t'il beaucoup,
+S'il dit à son vainqueur, voy ma playe, & ton coup ?
+Blasmez, si je vous ayme avecque violence,
+Vostre commandement, non pas mon insolence,
+Ne m'avez-vous pas dit me demandant Hector,
+Pour vous fleschir mes pleurs peuvent couler encor ?
+Perdez cette rigueur où peu de gloire brille,
+Et qu'Achille une fois soit vaincu d'une fille.
+Eussay-je apres cela combatu vos appas ?
+Souffrés que j'obeïsse ; ou ne commandés pas.
+Que n'ay-je pour vous vaincre avec vos propres armes,
+Vos cheveux arrachés, vos sanglots, & vos larmes !
+Vous en avez fléchy mon furieux couroux,
+Et je n'ay jusqu'icy rien obtenu de vous :
+Je ne puis empescher que ma douleur n'esclatte,
+Vous estes pour mon bien trop belle, & trop ingratte ;
+Je sçay bien, que par moy Troye a souvent gémy,
+Mais je n'ay pas tousjours esté vostre ennemy :
+Vos chefs, & vos soldats mesme vantent ma gloire,
+Je n'ay point de leur sang fait rougir ma victoire,
+Je croy que le bien-fait a l'offence esgalé,
+J'ay fait mourir Hector, mais vous l'avez bruslé.
+Souffrez que je me plaigne, & vous nomme cruelle,
+“ Sous le pied qui l'escrase un ver est bien rebelle.
+
+Si ces discours sont vrais, si le coeur les avoüe,
+La fortune m'esleve au dessus de sa roüe,
+Et je ne voy si haut par mon amour ardant,
+Que je ne puis aller au Ciel qu'en descendant.
+
+Si les moins valeureux dedans vostre memoire
+Sont les plus caressez, je renonce à la gloire,
+Et ne recherche plus l'honneur dans les hazars,
+J'ayme mieux estre aymé de Venus que de Mars.
+Mais pour m'en assurer, que je laisse, Madame,
+Sur cette belle main la moitié de mon ame.
+Voyons leurs Majestés devant que mon conseil
+Applique sur vos maux un premier appareil.
+
+Non, je n'en feray rien, vous perdez vôtre peine,
+Vous écrivez sur l'onde, & semez sur l'arene.
+Ulysse, vos discours sont icy superflus,
+Ajax, nostre amitié ne peut rien là dessus ;
+Des interests d'autruy j'ay l'ame dépouïllée,
+On ne me trompe plus, ma veuë est défillée,
+Et je voy bien apres tant de nobles efforts
+“ Qu'obliger des ingrats c'est embaumer des morts.
+Qu'ils me viennent conter que je ternis ma gloire,
+Puis qu'on ne me croit plus, je ne les veux plus croire :
+Je ne doy plus pour eux à la guerre estre ardant,
+Et vous me trahissez me le persuadant.
+Je me veux conserver, le repos dans mes Tentes
+Rendra mes passions tranquilles & contentes.
+Je les verray perir mes lasches, mes ingras,
+Et me vangeray d'eux en ne les vangeant pas.
+
+J'espargne icy mon sang, va prodiguer le tien,
+Ton bras pour triompher n'a que faire du mien.
+Si tous les autres chefs lasches, & plains de vices
+Devenoient des Ajaxs, devenoient des Ulysses,
+Que chacun eust en soy la force de vos bras,
+Je m'en vangerois mal en ne combattant pas.
+
+      Je veux que ces ingras
+Usent de mon conseil comme ils font de mon bras.
+
+Il n'est pas plus utile au Phrygien qu'au Grec.
+
+Autant, ou plus que Troye, Argos est affligee.
+
+Troye a bien de la force, & son pouvoir est grand.
+
+Ses murs facilement ne se peuvent abbatre.
+
+Ses temples sont remplis d'enseignes, & d'escus.
+
+Plutost je tombe vif dans l'Erebe effroyable,
+Plutost.
+
+Comment, on me soupçonne ? on me fait cette injure ?
+Et ma fidelité trouve qui la censure ?
+Apres cette asseurance où mon bras les a mis,
+On croit que je m'entends avec nos ennemis :
+Voilà ma recompense, & c'est là le salaire
+Des belles actions qu'Ilion m'a veu faire ?
+Ha que l'ingratitude est un vice odieux !
+Mes lauriers sont flétris devant que d'estre vieux,
+Et la Grece oubliant sa misere ancienne
+Tasche à perdre ma gloire, & j'ay sauvé la sienne ?
+Tout ce qui reste à Troye alors que l'on se bat,
+Que le sexe, ou que l'âge exempte du combat,
+Vieillards, femmes, enfans, vains fardeaux de la guerre,
+Contre moy dans un temple invoquent le tonnerre,
+Parce qu'à des ingrats mon coeur maintient sa foy,
+Et j'attire pour eux tous ces voeux contre moy.
+
+“ De combien d'accidens est la vertu suivie,
+“ Et qu'elle évite peu les pieges de l'envie !
+“ Comme elle est mescognuë, & comme l'innocent
+“ Passe pour criminel alors qu'il est absent !
+Si la tresve permet qu'Achille se promene,
+Il veut du bien à Troye, il ayme Polixene :
+Et si durant le temps que l'on prend du repos,
+Il parle aux ennemis, Achille vend Argos.
+
+Vous m'accusez à tort.
+
+Ne croy point, mon soucy, que je change de flame,
+Et qu'un objet nouveau te chasse de mon ame.
+
+Que voulez-vous, jalouze ! ha que mal à propos
+Je pris cette importune au siege de Lesbos
+Pour acroistre l'ennuy de la guerre de Troye,
+Et pour persecuter mon repos, & ma joye !
+Il est vray, Polixene occupe mon soucy,
+Vous éclatez, la belle, & moy j'éclate aussi :
+Je ne veux plus souffrir que vôtre orgueil me brave,
+Polixene est maistresse, & vous estes esclave,
+Je luy rends par devoir, & d'inclination
+Ce que je ne vous rends que par affection,
+On vous aime, on vous sert, vous estes reveree,
+Mais c'est vous captiver d'une chaine doree.
+Adieu, ne pensez plus que l'on vous fasse tort,
+Et ne regardez point plus haut que vostre sort.
+
+Ha c'est trop, Alcimede, à ma gloire estre lent,
+Il faut que je responde à ce jeune insolent,
+Que je me satisface, & que je le contente,
+Puis qu'il nous vient braver jusques dans nôtre Tente,
+Par ce coup mes desseins ne seront plus suspects,
+Il finira ma honte, & le soupçon des Grecs.
+
+      ô Dieux !
+
+      Je l'adore.
+
+Ce n'est pas le conseil qu'Achille voudroit suivre,
+Ou ne la voyez plus ? sans la voir puis-je vivre ?
+Non, non, sois assuré (fidelle confident)
+Que je ne les perdray jamais qu'en me perdant,
+En frapant les Troyens je luy veux rendre hommage,
+Et je sçay le secret de vaincre sans dommage,
+Je n'attaqueray point qui me vient d'affronter,
+Mais en me deffendant je le veux surmonter.
+Allons, je vay gagner une telle victoire
+Que mesme les vaincus auront part à ma gloire.
+
+Mais je suis innocent puisque j'ay combatu
+Pour vaincre le soupçon que l'armee avoit eu,
+Ma reputation n'eust aquis que du blame,
+Et j'eusse trahy mesme Ilion, & ma flame,
+Ce naufrage dernier les approche du port,
+Je travaille à leur paix,
+
+Sa temerité seule est cause qu'il succombe,
+Je me deffens, il meurt, je me soutiens, il tombe.
+
+Foible, & trop lâche esprit à la frayeur ouvert,
+Me puis-je pas sauver, si le Ciel ne me perd
+S'il veut qu'avec mes jours ma gloire se consomme,
+Le Ciel n'est-il pas Ciel, & ne suis-je pas homme ?
+Si tu m'as veu saigner, tu me peux voir mourir,
+La mort est un danger que je dois encourir,
+“ Tout l'effort des humains contre elle est ridicule,
+C'est le destin d'Achille, & ce le fut d'Hercule.
+Mais quel presage as-tu de ce mal que tu crains ?
+
+Achille concevroit une sotte terreur ?
+“ Ha qui fait tout trembler ne doit pas avoir peur !
+Il faut, quoy qu'Ilion contre luy s'évertuë,
+Que pour le voir mourir Polixene le tuë,
+Si tu pleures sa vie en de si belles mains,
+Il te dira mourant, je te hay, tu me plains ;
+L'arrest de mon destin sortira de sa bouche,
+Et puis pour me fraper il faut qu'elle me touche,
+Entre les plus heureux qui le fut jamais tant ?
+Elle vivra vangee, & je mourray content.
+Mais je n'espere pas des punitions d'elle,
+Je suis trop peu coupable, elle est trop peu cruelle,
+Et puis pour me punir avec plus de rigueur,
+Ses beaux yeux sçavent bien le chemin de mon coeur.
+Pour toy si ton repos n'est pas icy tranquille
+Pour vivre seurement éloigne toy d'Achille,
+Tant de lasches discours sont vains & superflus.
+
+Crains-tu quelque ennemy quand ton oeil me contemple ?
+
+Mars n'oseroit tonner sur moy, ny sur les miens.
+
+      “ Qui dans son entreprise
+“ Voit tousjours le danger à la fin le mesprise :
+Mais je n'ay pas sujet de craindre en ce lieu-cy,
+Je ne me vis jamais plus seurement qu'icy,
+Une tréve sacree est ma juste deffence,
+Et par elle s'endort la haine, & la vengeance,
+Je goute le repos des plus lasches humains,
+Loin des coups, dans un Temple.
+
+Qui se prendroit à moy ? qui seroit l'insensé
+Qui viendroit m'attaquer ? mais Dieux ! je suis blessé.
+
+Je vengeray ma mort, infames, detestables,
+Mais Achille succombe à l'effort de vos coups,
+Percez, percez ce coeur, il se fioit à vous.
+
+Apres ce lasche coup, malheureux, vous fuyez.
+
+Je souffre ce trespas, dy moy qui me l'envoye,
+Et qui l'a conspiré ?
+
+Sçachez, vous qui tremblez aux actions hardies,
+Qu'il est des chastimens, s'il est des perfidies,
+Les Dieux me vangeront, non pas ces foibles Dieux,
+Ilion les adore, ils sont pernicieux,
+Vous desirez ma mort, eux aussi la souhaittent,
+Et traistres, comme vous, meritent ce qu'ils jettent.
+Ha ! que je souffre bien ce que j'ay merité
+Ayant fait une tache à ma fidelité,
+J'ay combatu trop peu, j'ay trop espargné Troye,
+Si je l'eusse frappee elle eust esté ma proye,
+J'eusse à mes volontez asservy son destin,
+Et qui m'a fait esclave eust esté mon butin.
+
+      Coulle, mon sang, Polixene le veut.
+
+Deux mots vous apprendront mon infortune extreme,
+Mon amour vous trahit, & m'a trahy moy-mesme,
+Priam veut mon trespas, & Paris l'entreprend,
+Une main si debile a fait un coup si grand,
+Ces lasches ont rompu la tréve, & leur promesse :
+Mais quoy que mon amour ait offencé la Grece,
+Faites-les ressentir du tort que j'en reçoy,
+Et ne vous vangez pas de moy, mais vangez moy.
+
+Que de vives douleurs ! Parque, acheve ton coup,
+Je ne veux pas me plaindre, & j'endure beaucoup.
+
+      Il est vray, mais je meurs.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseide
+
+Si vous n'estiez Achille, ou si je n'estois femme,
+Je voudrois vous oster cette frayeur de l'ame.
+Hé quoy vous laisser vaincre à des illusions !
+Que fait vostre courage en ces occasions ?
+Ne voyant dans ces lieux que meurtres, & que pestes,
+Quels songes feriez-vous que des songes funestes ?
+
+Encore, beau Vainqueur, qu'est-ce qui vous effraye ?
+
+“ C'est ainsi que le Ciel advertit ceux qu'il ayme,
+“ Et qu'il voit s'engager dans un peril extresme.
+Croyez pour l'esviter ce que vous avez veu,
+“ Le plus certain presage est menteur estant creu.
+Achille, autant d'objects qui troublent vostre joye,
+Sont autant de conseils que le Ciel vous envoye.
+Evitez les dangers où l'on vous voit courir,
+“ Un grand coeur comme vous peut tuër, & mourir.
+Un malheur peut ternir l'esclat qui vous renomme,
+Achille est redoutable, il est vaillant, mais homme.
+
+Cet instinct qui confond nos deux ames ensemble,
+Confond nos passions, vous craignez, & je tremble.
+Achille, au nom des Dieux tesmoins de nostre amour,
+Par mes yeux, par mes pleurs, conservez-moy le jour,
+Refroidissez un peu cette chaleur extresme,
+Et ne meurtrissez point l'innocent qui vous ayme,
+Mon coeur où comme un Dieu vous estes adoré,
+A qui vostre peril est un mal asseuré :
+Assez de vostre sang honore la Phrygie,
+La vague du Scamandre en est assez rougie.
+Quel honneur maintenant pouvez vous aquerir ?
+Hector, & Sarpedon ne sçauroient plus mourir.
+Ilion n'en peut plus, qu'il soit pris par un autre,
+La gloire qu'il en reste est moindre que la vostre.
+
+Helas ! n'adjoustez rien à leur triste fortune,
+Voyez les, & souffrez leur priere importune,
+Admirez dans ces gens les divers coups du Sort,
+Monstre capricieux qui vous baise, & les mord.
+Faittes reflexion sur la misere extresme
+D'un pere sans enfans, d'un Roy sans diadesme :
+Car le trespas d'Hector met Priam à ce point,
+Il est pere, il est Prince, & pourtant ne l'est point.
+Quant à moy je ne plains que cette pauvre mere.
+Ha ! combien sa douleur luy doit sembler amere,
+De voir que son fils mort est en vostre pouvoir,
+Et de n'esperer pas peut-estre de le voir !
+D'un favorable accueil consolez leur tristesse,
+“ C'est une cruauté d'oprimer qui s'abaisse.
+
+Priam est tousjours Roy bien qu'il soit malheureux,
+Vous le devez traicter comme on traicte un Monarque,
+Bien qu'un Roy soit tout nu, jamais il n'est sans marque :
+“ Bien qu'il ait despoüillé tout ce que les Roys ont,
+“ La majesté luy reste encore sur le front.
+“ Cette pompe invisible, & ce rayon celeste
+“ Est de tous ses honneurs le dernier qui luy reste.
+“ Le Sort dont l'inconstance, & l'eleve, & l'abat
+“ Peut tout sur sa couronne, & rien sur cet éclat.
+
+Quoy dédaignerez-vous, & le prix & les larmes
+Qu'ils offrent pour un fils triste object de vos armes ?
+Voyez à quel mal-heur les a reduits le Sort,
+De l'avoir eu vivant, & de l'acheter mort.
+Les voicy, ce vieux Roy monstre plus que personne
+Que tousjours le bon-heur n'est pas sous la couronne.
+
+Tenir pour un fils mort cette lasche posture !
+A quoy ne nous réduit le sang, & la nature ?
+
+      Ce nouveau changement
+Me donne de la crainte, & de l'estonnement.
+
+C'est ce que le devoir m'a commandé d'écrire
+Quand la timidité m'empeschoit de le dire,
+Ulysse, & tous les chefs ont cette opinion
+Que vous favorisez le party d'Ilion,
+Et que vous avez fait, charmé de Polixene
+L'objet d'une amitié de l'objet d'une hayne :
+Voyant par ce soupçon vostre honneur se flestrir,
+Je n'osay vous le dire, & ne le pus souffrir,
+Si bien qu'en ce billet je vous ay fait apprendre
+Qu'on pensoit qu'aux Troyens vostre foy s'alloit rendre,
+Qu'une jeune beauté changoit vos passions,
+Et qu'elle avoit gaigné vos inclinations.
+
+J'ay peur que l'inconstance ait terny vostre gloire.
+
+      Hé bien je le veux croire
+Que tousjours sur vostre ame un mesme amour agit,
+“ Mais on peut accuser l'innocent qui rougit.
+Briseide en beauté le cede à Polixene,
+Souffrez, souffrez pour elle une amoureuse peine,
+Preferez ses attraits à ma fidelité,
+Mais aimez vostre honneur autant que sa beauté.
+Je ne demande pas (beau, mais cruel Achille)
+Que vous n'aymiez que moy, je serois incivile,
+Ny que vous vous teniez à mes foibles appas,
+Ny que vous me gardiez ce que vous n'avez pas,
+Je ne veux point forcer vostre humeur desloyale,
+Non, non, mais seulement cognoissez ma rivalle,
+Songez que de vos faicts elle a souvent gemy,
+“ Et qu'il est dangereux d'aymer son ennemy.
+
+Perfide, ces doux mots ne sont plus de saison,
+A quoy sert le baiser apres la trahison ?
+Eclatez mes douleurs, puis que je suis sortie
+Des bornes du respect, & de la modestie.
+Inconstant, infidelle, est-ce là cette foy
+Que tu m'avois juré qui ne seroit qu'à moy ?
+Quoy te verray-je donc entre les bras d'une autre
+De qui l'affection n'égalle point la nôtre ?
+Qui te suscitera les fureurs de l'enfer,
+Et ne t'embrassera qu'afin de t'étouffer ?
+Qu'Amour te fasse voir ma rivale plus belle,
+Tu peux bien t'assurer qu'elle t'est moins fidelle :
+Donc sans changer l'object de ton contentement,
+Vis avec moins de joye, & vis plus seurement :
+Auray-je cet affront moy qui fus glorieuse ?
+Non, non, vivons aymee, ou mourons odieuse.
+
+Taisons-nous, il le faut, & mon maistre l'ordonne,
+“ Heureux qui n'a de loy que celle qu'il se donne,
+“ Dont toujours la fortune est en un mesme point,
+“ Qui ne fut jamais haut, ou qui ne tombe point !
+Pourquoy faut-il servir deux puissances pour une,
+Esclave de l'Amour comme de la Fortune ?
+Cruel commandement de l'ingrat que je sers !
+Je n'ose témoigner que je cheris mes fers,
+Quoy que j'en sois jalouse en une telle sorte
+Que je ne puis souffrir qu'autre que moy les porte :
+Bien, mon coeur, qu'il s'engage à de nouveaux apas,
+Crains pour luy seulement, mais ne murmure pas,
+Songe qu'il se ruine, & non pas qu'il t'offence,
+Ne plains que son malheur, souffre son inconstance
+Il n'est point de malheur qui soit égal au mien,
+Je crains plus toutefois les presages du sien,
+Aux sacrez intestins des victimes plus pures
+Je voy d'un accident les sinistres augures,
+Ciel destourne ce mal, j'ayme mieux au surplus
+Voir Achille inconstant que de ne le voir plus,
+Je luy témoigneray que ma flame est extrême,
+Et je me veux haïr pour montrer que je l'aime,
+S'il faut souffrir sa mort, son change ou mon trépas,
+Qu'il vive, que je meure, & qu'il ne m'ayme pas.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_serviteur *fonction_valet *role_alcimede
+
+Le souverain de Troye, & des femmes dolentes
+En faveur de la treve arrivent dans vos tentes,
+Avecque des presens, de l'argent, & de l'or,
+Afin de racheter le cadavre d'Hector.
+
 Où va ce pauvre aveugle ? il court au precipice,
 “ Ha je voy bien qu'Achille est foible sans Ulisse,
 “ Que la force ne peut divertir un mal-heur,
@@ -706,911 +724,16 @@ C'est la voix d'Alcimède, & la voix de la Grece !
 Je le desgageray de ces foibles appas,
 Et luy remonstreray mesme en ne parlant pas.
 
-**** *book_ *id_II04 *act_II *date_1636 *creator_benserade
-
--*who_achille
-Non, Madame, achevez mon destin miserable,
-Vangez-vous, perdez-moy par un coup favorable,
-Qui retarde l'effort de vostre belle main ?
-Est-ce pitié, foiblesse, injustice, ou desdain ?
-J'ay choisi ce supplice, en songez-vous un autre ?
-Espargnez-vous mon sang ? j'ay tant versé du vostre.
-
--*who_polixene
-Quelle grace au coupable enfin puis-je donner
-Puis que c'est le punir que de luy pardonner ?
-Pourquoy desirez-vous que cette main vous tuë ?
-Quoy depuis la faveur que de vous j'ay receuë,
-Depuis qu'à ma priere on vous a veu changer,
-M'avez-vous obligée à vous desobliger ?
-
--*who_achille
-Si vous m'estiez bon juge en cognoissant mon crime,
-Vous le feriez passer pour acte legitime.
-Mais vous estes severe, & je suis criminel
-A cause que je sçay que vous me croirez tel.
-Ouy je vous faschay moins meurtrissant vostre frere,
-Je ne fus que hardy, mais je suis temeraire.
-Tous mes faits ne sont rien, je m'esleve au dessus,
-J'ay beaucoup fait, Madame, & j'ose encore plus,
-Mon audace merite une cheute pompeuse,
-Et cette vanité rend ma honte fameuse.
-Qu'elle perisse donc sans me faire parler,
-Que l'ambition creve à force de s'enfler :
-Je peche contre vous sans remors, & sans blasme.
-
--*who_polixene
-Mais quel est ce peché ?
-
--*who_achille
-      Je vous ayme, Madame,
-C'est ma temerité, ma gloire, mon forfait,
-Et voilà ce que j'ose apres ce que j'ay fait :
-Mon coeur s'ose flatter de l'espoir de vous plaire,
-Et qui peut tout ailleurs est icy temeraire.
-Vous m'avez commandé de ne le point celer,
-Si ce sont deux pechez que souffrir, & parler,
-Le premier est de moy, le dernier est le vostre,
-Punissez-moy de l'un, accusez-vous de l'autre.
-J'ay cessé d'estre libre afin d'estre captif,
-Afin d'estre amoureux d'estre vindicatif :
-Ma colere a donné la gésne à la Nature,
-Je n'ay point eu pitié de sa triste aventure,
-Qu'un pere ait souspiré, qu'une mere ait gemy,
-Je n'ay point pour cela cessé d'estre ennemy :
-Mais vos yeux ont flechy mon courage farouche,
-Et m'ont persuadé bien mieux que vostre bouche,
-Je pensois resister, mais il a bien fallu
-Rendre Hector, & mon coeur quand vos yeux l'ont voulu :
-Je les veux adorer, contentons mon envie,
-Et que je sçache d'eux à quel point est ma vie.
-Orgueilleux Souverains, dont j'adore les loix,
-Espoir ambitieux de plus de mille Roys !
-
--*who_polixene
-Vous dont le bras nourrit l'ennuy qui me devore,
-M'affligez-vous desja ? la tresve dure encore,
-Quand vous vous reposez, laissez-moy respirer,
-Attendez le combat pour me faire pleurer,
-“ Ce n'est pas desirer un plaisir agreable
-“ Que de chercher à rire avec un miserable.
-
--*who_achille
-Doutez-vous que mon mal ne soit pas violent ?
-Pour voir mon coeur bruslé, vous l'allez voir sanglant,
-Ce fer.
-
--*who_polixene
-      Je vous veux croire, hé bien Achille m'ayme,
-Il me veut quelque bien, j'en fais aussi de mesme.
-
--*who_achille
-Vous m'aymez ?
-
--*who_polixene
-      Il est vray, je vous le dis encor,
-Comme je puis aymer l'homicide d'Hector.
-
--*who_achille
-Ha mal-heur de mes jours ! mais finissez ma peine.
-
--*who_polixene
-Mais vous estes Achille, & je suis Polixene,
-Vostre coeur ayme-t'il ceux que vostre bras hait,
-Contre qui tous les jours vous suez sous l'armet ?
-Et comment voulez-vous que de bon oeil je voye
-L'homicide d'Hector, & l'ennemy de Troye ?
-Ha triste souvenir de mes derniers mal-heurs !
-Las ! esteignez vos feux, laissez couler mes pleurs.
-
--*who_achille
-Faut-il qu'à ses grands maux mon foible esprit resiste ?
-Que le plus affligé console le moins triste !
-Ne moüillez plus vos yeux mes aymables vainqueurs,
-N'esteignez pas ainsi le beau bucher des coeurs ;
-Adorable Princesse, en mon ardeur extresme,
-Helas vous fay-je tort de dire, je vous ayme ?
-Un ennemy mourant offence-t'il beaucoup,
-S'il dit à son vainqueur, voy ma playe, & ton coup ?
-Blasmez, si je vous ayme avecque violence,
-Vostre commandement, non pas mon insolence,
-Ne m'avez-vous pas dit me demandant Hector,
-Pour vous fleschir mes pleurs peuvent couler encor ?
-Perdez cette rigueur où peu de gloire brille,
-Et qu'Achille une fois soit vaincu d'une fille.
-Eussay-je apres cela combatu vos appas ?
-Souffrés que j'obeïsse ; ou ne commandés pas.
-Que n'ay-je pour vous vaincre avec vos propres armes,
-Vos cheveux arrachés, vos sanglots, & vos larmes !
-Vous en avez fléchy mon furieux couroux,
-Et je n'ay jusqu'icy rien obtenu de vous :
-Je ne puis empescher que ma douleur n'esclatte,
-Vous estes pour mon bien trop belle, & trop ingratte ;
-Je sçay bien, que par moy Troye a souvent gémy,
-Mais je n'ay pas tousjours esté vostre ennemy :
-Vos chefs, & vos soldats mesme vantent ma gloire,
-Je n'ay point de leur sang fait rougir ma victoire,
-Je croy que le bien-fait a l'offence esgalé,
-J'ay fait mourir Hector, mais vous l'avez bruslé.
-Souffrez que je me plaigne, & vous nomme cruelle,
-“ Sous le pied qui l'escrase un ver est bien rebelle.
-
--*who_polixene
-Quoy l'Amour n'a pour vous que de rudes appas ?
-Si l'on ne vous embrasse, on ne vous ayme pas ?
-“ Le soldat ancien de son sang ne s'effraye,
-“ Et le jeune pâlit au soupçon d'une playe :
-“ L'un ignore comment un laurier est gagné,
-“ L'autre a vaincu cent fois apres avoir saigné.
-“ Celuy qui dans l'Amour a consommé son âge
-“ Pour un simple desdain ne perd pas le courage,
-“ Et le jeune au contraire aussitost qu'on le void
-“ Pense qu'on le deteste alors qu'on luy fait froid,
-“ L'un cognoist les desdains, & sçait qu'Amour en use,
-“ L'autre ignore qu'il donne aussi-tost qu'il refuse.
-Esperez, je veux suivre au point où je me vois,
-Ce que leurs Majestés me prescriront de lois.
-
--*who_achille
-Si ces discours sont vrais, si le coeur les avoüe,
-La fortune m'esleve au dessus de sa roüe,
-Et je ne voy si haut par mon amour ardant,
-Que je ne puis aller au Ciel qu'en descendant.
-
--*who_polixene
-Vous aurez ce bon-heur, si le Ciel vous l'octroye :
-Cependant épargnez le plus pur sang de Troye,
-N'ayez plus aux combas un coeur trop enflammé,
-Et soiez moins vaillant pour estre plus aymé.
-
--*who_achille
-Si les moins valeureux dedans vostre memoire
-Sont les plus caressez, je renonce à la gloire,
-Et ne recherche plus l'honneur dans les hazars,
-J'ayme mieux estre aymé de Venus que de Mars.
-Mais pour m'en assurer, que je laisse, Madame,
-Sur cette belle main la moitié de mon ame.
-Voyons leurs Majestés devant que mon conseil
-Applique sur vos maux un premier appareil.
-
-**** *book_ *id_III01 *act_III *date_1636 *creator_benserade
-
--*who_achille
-Non, je n'en feray rien, vous perdez vôtre peine,
-Vous écrivez sur l'onde, & semez sur l'arene.
-Ulysse, vos discours sont icy superflus,
-Ajax, nostre amitié ne peut rien là dessus ;
-Des interests d'autruy j'ay l'ame dépouïllée,
-On ne me trompe plus, ma veuë est défillée,
-Et je voy bien apres tant de nobles efforts
-“ Qu'obliger des ingrats c'est embaumer des morts.
-Qu'ils me viennent conter que je ternis ma gloire,
-Puis qu'on ne me croit plus, je ne les veux plus croire :
-Je ne doy plus pour eux à la guerre estre ardant,
-Et vous me trahissez me le persuadant.
-Je me veux conserver, le repos dans mes Tentes
-Rendra mes passions tranquilles & contentes.
-Je les verray perir mes lasches, mes ingras,
-Et me vangeray d'eux en ne les vangeant pas.
-
--*who_ajax
-Mais tu pardonnerois, si tu me voulois croire,
-A cette ingratitude, à cause de ta gloire.
-Exerce pour ton bien ce bras si valeureux,
-Fais pour toy (cher Amy) ce que tu fis pour eux :
-Quoy tu veux estre oysif au siege d'une ville ?
-Parce qu'ils sont ingrats, tu cesses d'estre Achille ?
-Tu te prives d'honneur ? non, non, qu'ils soient ingras,
-Qu'ils ne t'escoutent point, qu'ils pechent, & combas,
-Que des fleuves de sang rougissent la campagne,
-Va (genereux Achille) & qu'Ajax t'accompagne.
-
--*who_achille
-J'espargne icy mon sang, va prodiguer le tien,
-Ton bras pour triompher n'a que faire du mien.
-Si tous les autres chefs lasches, & plains de vices
-Devenoient des Ajaxs, devenoient des Ulysses,
-Que chacun eust en soy la force de vos bras,
-Je m'en vangerois mal en ne combattant pas.
-
--*who_ulisse
-Si je combas sans vous, ma foiblesse est extresme,
-Et les plus valeureux sans doute en sont de mesme,
-Vostre seule presence anime nostre coeur,
-Et nous sommes vaincus, si vous n'estes vainqueur.
-Venez donc comme un foudre au milieu des allarmes,
-Que je vous recognoisse encore par les armes,
-Vous perdites Patrocle en un pareil courroux,
-Si vous ne nous menez combien en perdrez vous ?
-Si jusques à la fin le malheur nous travaille,
-Sans avoir combattu vous perdrez la bataille,
-Et les Troyens ravis se vanteront apres
-D'avoir bien profité des querelles des Grecs.
-“ Une dissention rompt la plus forte armee,
-“ Et de tant de projets fait un peu de fumee :
-“ Sa malice affoiblit ce corps le demembrant,
-“ Et fait mille ruisseaux d'un vaste, & fier torrent.
-Quoy vous voir à la paix ardent plus que personne,
-Que pouvez-vous penser que l'armee en soupçonne ?
-Vous offencez la Grece, & sur tout Menelas,
-Vous le pouvez vanger, & ne le faites pas ;
-Vous voulez tout avoir de puissance absoluë,
-Et ne combattrez plus si la paix n'est concluë,
-Et l'accord estant fait des Troyens, & de nous,
-En quelle occasion nous obligerez-vous ?
-Ce n'est pas qu'en la paix vous ne soyez utille,
-Mais c'est par la valeur que vous estes Achille.
-Je dis sans vous flatter quel est mon sentiment,
-Et parlant en amy je parle hardiment,
-Et dis que ce demon qui trouble nostre joye
-A de l'intelligence avec celuy de Troye.
-Hé quoy pouvons nous faire une honorable paix
-Avec des ennemis que nous avons deffaits ?
-Doit-on ainsi traiter l'ennemy qu'on terrasse ?
-Ils sont dessous nos pieds, demanderons nous grace ?
-Pourquoy finirons-nous la vieille inimitié ?
-Nous ne les craignons pas, en avons-nous pitié ?
-Voyons nous quelque chose en cette ville infame,
-Qui nous doive empescher d'y jetter de la flame ?
-Que pretendez-vous donc ?
-
--*who_achille
-      Je veux que ces ingras
-Usent de mon conseil comme ils font de mon bras.
-
--*who_ulisse
-Si vous ne donnez pas un conseil salutaire,
-Faut-il qu'on se ruyne afin de vous complaire ?
-
--*who_achille
-Il n'est pas plus utile au Phrygien qu'au Grec.
-
--*who_ulisse
-A l'un il est utile, à l'autre il est suspec.
-
--*who_achille
-Autant, ou plus que Troye, Argos est affligee.
-
--*who_ulisse
-L'une pourtant assiege, & l'autre est assiegee.
-
--*who_achille
-Troye a bien de la force, & son pouvoir est grand.
-
--*who_ulisse
-Elle est forte, il est vray, puis qu'Achille s'y rend,
-
--*who_achille
-Ses murs facilement ne se peuvent abbatre.
-
--*who_ulisse
-“ Où l'on resiste mieux, c'est là qu'il faut combattre.
-
--*who_achille
-Ses temples sont remplis d'enseignes, & d'escus.
-
--*who_ulisse
-Ha qu'on ne cognoist pas tous ceux qu'elle a vaincus !
-
--*who_ajax
-Je n'en suis pas du nombre, & l'orgueil des Pergames
-M'a veu luy resister, & destourner ses flames :
-Ce bouclier d'un vainqueur ne fut jamais le prix,
-On me l'a bien faussé, mais on ne l'a point pris,
-Et tout rompu qu'il est, avecque mon adresse,
-Il pare bien des traits qu'on descoche à la Grece :
-Mais contre les Troyens nos trouppes sont aux champs,
-Desja l'on voit à nû mille glaives trenchans,
-Rejoignons le soldat que nostre absence effraye,
-Peut-estre la patrie a receu quelque playe,
-Allons la secourir, allons vaincre, ou mourons,
-Irons-nous seuls, Achille, ou si nous te suivrons ?
-
--*who_achille
-Plutost je tombe vif dans l'Erebe effroyable,
-Plutost.
-
--*who_ajax
-      Allons, Ulysse, il est inexorable,
-Ce mouvement cruël en luy n'est pas nouveau,
-Il verroit tout en feu qu'il plaindroit un peu d'eau ;
-Allons où la valeur esclate, & se renomme,
-Et ne perdons pas tout pour gaigner un seul homme.
-
--*who_ulisse
-“ Achille, un ennemy ne se doit frequenter,
-“ C'est gloire de le perdre, & non de le hanter.
-
-**** *book_ *id_III02 *act_III *date_1636 *creator_benserade
-
--*who_achille
-Comment, on me soupçonne ? on me fait cette injure ?
-Et ma fidelité trouve qui la censure ?
-Apres cette asseurance où mon bras les a mis,
-On croit que je m'entends avec nos ennemis :
-Voilà ma recompense, & c'est là le salaire
-Des belles actions qu'Ilion m'a veu faire ?
-Ha que l'ingratitude est un vice odieux !
-Mes lauriers sont flétris devant que d'estre vieux,
-Et la Grece oubliant sa misere ancienne
-Tasche à perdre ma gloire, & j'ay sauvé la sienne ?
-Tout ce qui reste à Troye alors que l'on se bat,
-Que le sexe, ou que l'âge exempte du combat,
-Vieillards, femmes, enfans, vains fardeaux de la guerre,
-Contre moy dans un temple invoquent le tonnerre,
-Parce qu'à des ingrats mon coeur maintient sa foy,
-Et j'attire pour eux tous ces voeux contre moy.
-
--*who_briseide
-C'est ce que le devoir m'a commandé d'écrire
-Quand la timidité m'empeschoit de le dire,
-Ulysse, & tous les chefs ont cette opinion
-Que vous favorisez le party d'Ilion,
-Et que vous avez fait, charmé de Polixene
-L'objet d'une amitié de l'objet d'une hayne :
-Voyant par ce soupçon vostre honneur se flestrir,
-Je n'osay vous le dire, & ne le pus souffrir,
-Si bien qu'en ce billet je vous ay fait apprendre
-Qu'on pensoit qu'aux Troyens vostre foy s'alloit rendre,
-Qu'une jeune beauté changoit vos passions,
-Et qu'elle avoit gaigné vos inclinations.
-
--*who_achille
-“ De combien d'accidens est la vertu suivie,
-“ Et qu'elle évite peu les pieges de l'envie !
-“ Comme elle est mescognuë, & comme l'innocent
-“ Passe pour criminel alors qu'il est absent !
-Si la tresve permet qu'Achille se promene,
-Il veut du bien à Troye, il ayme Polixene :
-Et si durant le temps que l'on prend du repos,
-Il parle aux ennemis, Achille vend Argos.
-
--*who_briseide
-J'ay peur que l'inconstance ait terny vostre gloire.
-
--*who_achille
-Vous m'accusez à tort.
-
--*who_briseide
-      Hé bien je le veux croire
-Que tousjours sur vostre ame un mesme amour agit,
-“ Mais on peut accuser l'innocent qui rougit.
-Briseide en beauté le cede à Polixene,
-Souffrez, souffrez pour elle une amoureuse peine,
-Preferez ses attraits à ma fidelité,
-Mais aimez vostre honneur autant que sa beauté.
-Je ne demande pas (beau, mais cruel Achille)
-Que vous n'aymiez que moy, je serois incivile,
-Ny que vous vous teniez à mes foibles appas,
-Ny que vous me gardiez ce que vous n'avez pas,
-Je ne veux point forcer vostre humeur desloyale,
-Non, non, mais seulement cognoissez ma rivalle,
-Songez que de vos faicts elle a souvent gemy,
-“ Et qu'il est dangereux d'aymer son ennemy.
-
--*who_achille
-Ne croy point, mon soucy, que je change de flame,
-Et qu'un objet nouveau te chasse de mon ame.
-
--*who_briseide
-Perfide, ces doux mots ne sont plus de saison,
-A quoy sert le baiser apres la trahison ?
-Eclatez mes douleurs, puis que je suis sortie
-Des bornes du respect, & de la modestie.
-Inconstant, infidelle, est-ce là cette foy
-Que tu m'avois juré qui ne seroit qu'à moy ?
-Quoy te verray-je donc entre les bras d'une autre
-De qui l'affection n'égalle point la nôtre ?
-Qui te suscitera les fureurs de l'enfer,
-Et ne t'embrassera qu'afin de t'étouffer ?
-Qu'Amour te fasse voir ma rivale plus belle,
-Tu peux bien t'assurer qu'elle t'est moins fidelle :
-Donc sans changer l'object de ton contentement,
-Vis avec moins de joye, & vis plus seurement :
-Auray-je cet affront moy qui fus glorieuse ?
-Non, non, vivons aymee, ou mourons odieuse.
-
--*who_achille
-Que voulez-vous, jalouze ! ha que mal à propos
-Je pris cette importune au siege de Lesbos
-Pour acroistre l'ennuy de la guerre de Troye,
-Et pour persecuter mon repos, & ma joye !
-Il est vray, Polixene occupe mon soucy,
-Vous éclatez, la belle, & moy j'éclate aussi :
-Je ne veux plus souffrir que vôtre orgueil me brave,
-Polixene est maistresse, & vous estes esclave,
-Je luy rends par devoir, & d'inclination
-Ce que je ne vous rends que par affection,
-On vous aime, on vous sert, vous estes reveree,
-Mais c'est vous captiver d'une chaine doree.
-Adieu, ne pensez plus que l'on vous fasse tort,
-Et ne regardez point plus haut que vostre sort.
-
-**** *book_ *id_III03 *act_III *date_1636 *creator_benserade
-
--*who_briseide
-Taisons-nous, il le faut, & mon maistre l'ordonne,
-“ Heureux qui n'a de loy que celle qu'il se donne,
-“ Dont toujours la fortune est en un mesme point,
-“ Qui ne fut jamais haut, ou qui ne tombe point !
-Pourquoy faut-il servir deux puissances pour une,
-Esclave de l'Amour comme de la Fortune ?
-Cruel commandement de l'ingrat que je sers !
-Je n'ose témoigner que je cheris mes fers,
-Quoy que j'en sois jalouse en une telle sorte
-Que je ne puis souffrir qu'autre que moy les porte :
-Bien, mon coeur, qu'il s'engage à de nouveaux apas,
-Crains pour luy seulement, mais ne murmure pas,
-Songe qu'il se ruine, & non pas qu'il t'offence,
-Ne plains que son malheur, souffre son inconstance
-Il n'est point de malheur qui soit égal au mien,
-Je crains plus toutefois les presages du sien,
-Aux sacrez intestins des victimes plus pures
-Je voy d'un accident les sinistres augures,
-Ciel destourne ce mal, j'ayme mieux au surplus
-Voir Achille inconstant que de ne le voir plus,
-Je luy témoigneray que ma flame est extrême,
-Et je me veux haïr pour montrer que je l'aime,
-S'il faut souffrir sa mort, son change ou mon trépas,
-Qu'il vive, que je meure, & qu'il ne m'ayme pas.
-
-**** *book_ *id_III04 *act_III *date_1636 *creator_benserade
-
--*who_hecube
-Mon Dieu ! qu'il est parfaict, qu'il est remply de charmes,
-Quand je ne le voy point mettre la main aux armes !
-J'ay regret que son bras qui nous estoit fatal,
-M'ait si long-temps forcée à luy vouloir du mal,
-Combien pour cette paix il est opiniâtre,
-N'ayant pû l'obtenir l'aperçoit-on combatre ?
-Qui de cette meslée est aussi le témoin,
-Juge facilement qu'Achille en est bien loin :
-C'est la meilleure preuve, & je n'en veux point d'autres
-Que le mal-heur des Grecs, & le bon-heur des nôtres.
-Nous sommes les vaincus quand il est animé,
-…...................................................................
-Vous avez bien pû voir de dessus la muraille,
-Ceux à qui Mars promet l'honneur de la bataille.
-Le Troyen par son sang commence à s'enflamer,
-S'il en pert une goute, il en tire une mer.
-Qu'il fait beau veoir Pâris, Deiphôbe, & Troïle,
-Et que leur force éclate en l'absence d'Achille !
-
--*who_polixene
-“ Ainsi loin du Soleil tous les arbres sont beaux,
-“ Ainsi pres du Soleil il n'est plus de flambeaux :
-Aussi l'aspect d'Achille horrible à ma memoire,
-Change en fatalité le sort de la victoire,
-Et ce jeune guerrier ne sort point du combat
-Qu'il n'ait couché par terre un pillier de l'Estat.
-
--*who_hecube
-Caressez-le pourtant, faictes-en de l'estime,
-Si ce n'est par amour, que ce soit par maxime,
-Songeons au bien present, le mal soit oublié,
-Il nous perd ennemy, qu'il nous serve allié,
-Que son affection repare nôtre perte,
-Et qu'il ferme la playe apres l'avoir ouverte :
-Nourrissez son espoir d'un favorable acueil,
-Quoy que vous ayez peine à le voir de bon oeil,
-Et qu'il vous soit à charge en sa flame amoureuse,
-Il fut nôtre ennemy, vous estes genereuse,
-Et vous vous souvenez qu'il nous a fait pastir,
-Mais sommes-nous au temps de nous en ressentir,
-Nous qui n'avons plus rien de ce pouvoir antique ?
-Non, flattons le serpent de peur qu'il nous repique,
-Ne nous ressentons point de tant d'affreux combas,
-Sauvons seulement Troye, & ne la vangeons pas.
-
--*who_polixene
-Suivant vos loix, Madame, on n'est jamais blâmable,
-Vous voulez que je l'ayme, hé bien il est aymable,
-Je prefere à mes voeux le commun interest,
-Et le trouve charmant à cause qu'il vous plaist,
-Je rendray mon desir conforme à vôtre attente.
-
--*who_hecube
-Que nous serons heureux ! que vous serez contente !
-Vous avez en cela de faciles moyens
-De faire triompher la valeur des Troyens,
-Vous regnerez, les Dieux vous en feront la grace,
-Quels seront vos enfans, cette superbe race,
-Estant fils d'un Achille, & neveux d'un Hector ?
-N'estimerez-vous pas un si riche thresor ?
-Achille est un époux que le Ciel vous envoye,
-Et l'aymant vous aymez Priam, Hecube, & Troye.
-Mais le jeune Pâris ayant quitté son rang
-Vient couvert de sueur, de poussiere, & de sang.
-
--*who_polixene
-De quelque horreur que soit la bataille comblée,
-Il se démelle bien tousjours de la meslée.
-
-**** *book_ *id_III05 *act_III *date_1636 *creator_benserade
-
--*who_hecube
-Sommes-nous les vaincus, ou les victorieux ?
-Comment va le combat ?
-
--*who_paris
-      Tout va bien grace aux Dieux,
-L'armee est en deroutte, elle a pris l'espouvante,
-La bataille nous est glorieuse, & sanglante.
-
--*who_hecube
-Nos gens, comme on les voit de la tour d'Ilion,
-Ont bien de l'advantage à mon opinion.
-
--*who_paris
-Oüy, mais une victoire est-elle si parfaicte
-“ Qu'elle ne coute rien ? qui la gaigne l'achette,
-“ Sur sa felicité le vainqueur s'appuyant
-“ Tresbuche, & l'ennemy se retourne en fuyant :
-Tousjours quelque Troyen que son courage incite
-Poursuivant un Gregeois trouve ce qu'il évite,
-A tous deux le combat apporte du renom,
-Et mesme le vaincu fait gloire de son nom.
-L'on ne cueillit jamais de palme moins facile,
-Quoy, dans chaque Gregeois se trouve un coeur d'Achille,
-Tous Chefs, & tous soldats qui ne redoutent rien,
-Ils occupent sa place, & la remplissent bien.
-Nous triomphons pourtant, & le champ nous demeure.
-
--*who_hecube
-Et vos freres, Pâris ?
-
--*who_paris
-      Ils combattent sur l'heure,
-Mille escadrons vaincus rendent l'ame à leurs pieds,
-Pour moy j'en suis sorty comme vous me voyez,
-Je ne compare point mes faits à ceux d'Alcide,
-Mais je reviens sanglant, & mon carquois est vuide.
-
--*who_hecube
-Nous n'avons desormais pour nostre commun bien
-Qu'à suplier les Dieux qu'ils ne nous ostent rien.
-
--*who_polixene
-Mais mon frere, Troile ?
-
--*who_paris
-      Il est comme une foudre,
-Qui brise, qui sacage, & qui met tout en poudre,
-Ses regards menaçans sont des éclairs d'horreur,
-Et son front est un ciel ou tonne la terreur,
-Il a trop de furie, & gagne plus de gloire
-Dans l'ardeur d'un combat que dans une victoire,
-Son couroux devroit estre un peu moins violent,
-Il est brave, il est fort, mais il est insolent,
-Comme il a du courage, & comme il hait Achille,
-Il croit que la dépouïlle en est assez facille,
-Pense l'épouvanter, & croit que ce vainqueur
-Aprehende le frere, & n'ayme pas la soeur,
-Sa vaillance deffie un qui vous idolâtre,
-Qui nous permet de vaincre, & nous laisse combatre,
-Et sa temerité le porte aveuglement,
-Une pique à la main, jusqu'au retranchement,
-Viens, lasche, viens, poltron, parois devant Troïle,
-(Ce sont ses propres mots) es-tu ce brave Achille ?
-Sois-le contre celuy qui s'opose a tes veux,
-Viens me donner la mort plutost que des Neveux.
-A quoy que sa promesse, & son amour l'engage,
-Achille n'est pas homme à souffrir un outrage.
-
--*who_polixene
-Où va-t'il s'engager ?
-
--*who_hecube
-      Quel accident voilà,
-Dieux ! mais pourquoy le craindre ? ils n'en viendront pas là,
-En faveur de l'objet du feu qui le consomme,
-Achille excusera cette ardeur de jeune homme.
-Voudroit-il ruyner ses amoureux desseins ?
-
--*who_paris
-Mais je croy ce mal-heur, parce que je le crains.
-
--*who_hecube
-Pour voir de nos esprits cette crainte soustraitte,
-Persuadez au Roy qu'on sonne la retraitte,
-Qu'aux ennemis battus on daigne pardonner.
-Aussy bien c'est trop vaincre, il faut se couronner.
-Qu'avant qu'on la demande il accorde la tresve,
-Et que par la pitié sa victoire s'acheve,
-Afin que Mars respire apres avoir fremy,
-Et que nous puissions voir nostre cher ennemy.
-Courez, tandis qu'au temple avec un sacrifice
-Nous allons à nos voeux rendre le Ciel propice.
-
-**** *book_ *id_III06 *act_III *date_1636 *creator_benserade
-
--*who_achille
-Ha c'est trop, Alcimede, à ma gloire estre lent,
-Il faut que je responde à ce jeune insolent,
-Que je me satisface, & que je le contente,
-Puis qu'il nous vient braver jusques dans nôtre Tente,
-Par ce coup mes desseins ne seront plus suspects,
-Il finira ma honte, & le soupçon des Grecs.
-
--*who_alcimede
 Mais Polixene ?
 
--*who_achille
-      ô Dieux !
-
--*who_alcimede
       Vous l'aimez ?
 
--*who_achille
-      Je l'adore.
-
--*who_alcimede
 N'allez point au combat, si vous l'aymez encore,
 Obeïssez aux Loix que l'Amour vous enjoint,
 Ou ne la voyez plus, ou ne combattez point.
 
--*who_achille
-Ce n'est pas le conseil qu'Achille voudroit suivre,
-Ou ne la voyez plus ? sans la voir puis-je vivre ?
-Non, non, sois assuré (fidelle confident)
-Que je ne les perdray jamais qu'en me perdant,
-En frapant les Troyens je luy veux rendre hommage,
-Et je sçay le secret de vaincre sans dommage,
-Je n'attaqueray point qui me vient d'affronter,
-Mais en me deffendant je le veux surmonter.
-Allons, je vay gagner une telle victoire
-Que mesme les vaincus auront part à ma gloire.
-
-**** *book_ *id_IV01 *act_IV *date_1636 *creator_benserade
-
--*who_hecube
-O Dieux ! Severes Dieux, contre nous mutinez,
-Vous avez bâty Troye, & vous la ruinez !
-Vous faillez comme nous tous parfaits que vous estes,
-Vostre ouvrage est mauvais puisque vous le deffaites,
-Mais j'ay tort, je blaspheme, & vous n'estes point tels,
-Vous estes justes Dieux, nous coupables mortels,
-Ilion justement souffre ce qu'il endure,
-Et c'est un chastiment, & non pas une injure.
-Toy sous qui l'Univers autrefois a tremblé,
-Grande ville deserte, & Grand tombeau peuplé,
-Aide contre toy-mesme à la fureur celeste,
-Couvre ce qui n'est plus, opprime ce qui reste,
-Ce coup apaisera la colere des Dieux,
-Et s'il est volontaire, il sera glorieux.
-Des respects (Polixene) & la mort de Troile
-Sont enfin les doux fruits de l'amitié d'Achille ?
-Voilà des traits d'un coeur qui n'adore que vous,
-Voila comme il vous aime, & comme il est pour nous.
-Aussi je m'estonnois que cet inexorable
-Vous eust veu malheureuse, & vous eust crûe aymable,
-Eust cogneu des attraits parmy tant de malheurs,
-Et qu'il eust veu vostre oeil au travers de ses pleurs.
-
--*who_polixene
-Nous luy devions ravir d'une puissante amorce
-Avec l'inimitié le pouvoir, & la force,
-“ C'est ainsi qu'on s'assure, & c'est estre imprudens
-“ Qu'aprivoiser un Tigre, & luy laisser des dents.
-
--*who_paris
-Quand j'aperceus Troile aveuglé par sa gloire,
-Je commençay dés lors à craindre la victoire ;
-Je vis où se romproit son insolent effort,
-Il portoit sur le front nos malheurs, & sa mort ;
-Achille eust bien voulu pardonner à mon frere,
-Il fut impatient, l'autre fut temeraire.
-
--*who_hecube
-Quoy vous tonnez si peu contre un si grand forfait ?
-Qui le blasme à demy l'excuse tout à fait,
-Vostre frere eust raison de deffendre sa ville,
-Il aymoit un Hector, nous aymions un Achille,
-S'oposoit bravement à ses pretentions,
-Il vouloit le punir, nous le récompensions,
-Le traistre fit mourir & son frere, & le vôtre,
-Il detestoit sa main, elle touchoit la nôstre.
-Que n'eus-je mesme sort, mesme dessein que luy,
-Je n'aurois pas ailleurs recherché de l'apuy,
-Et loin d'une action si lasche, & si honteuse,
-J'aurois vescu sans crime, & mourrois glorieuse.
-
--*who_paris
-Bien loin de l'excuser, je voudrois que ma main
-Luy mit pour nous vanger un poignard dans le sein,
-Je me ressentiray de cette offence extrême.
-
--*who_deiphobe
-Je suis bien resolu d'en faire aussi de mesme,
-Quand nous aurons passé le jour de nostre dueil,
-Et que mon frere aura sa pompe, & son cercueil ;
-Pour la voir tout le peuple est dessus les murailles.
-
--*who_hecube
-Hé quoy veut-on si tost faire des funerailles ?
-Tentons auparavant un genereux effort,
-Tout ce qui doit mourir n'est pas encore mort,
-Nous devons des sujets à l'infernal Empire,
-Troïle ne vit plus, mais Achille respire :
-Mon superbe dessein veut estre effectué,
-Attendons à bruler que nous ayons tué,
-Et pour bien assouvir ma vangeance, & la vôtre,
-Preparons un bucher devant qu'allumer l'autre.
-Si jamais (Polixene) un si perfide Amant
-Regna dans vostre esprit, changez de sentimant,
-Si jamais il y fut, ostez-le de vostre ame,
-De peur qu'on ne vous blesse en frapant cét infame,
-Plus que ce traitre objet mon vouloir vous fut doux,
-Vous l'aymastes pour moy, detestez-le pour vous.
-
--*who_polixene
-Vostre commandement ne m'est pas beaucoup rude,
-Je reprens aysément cette douce habitude :
-Si pour un desloyal je parus m'enflamer,
-Ce fut vous obeïr, ce ne fut pas l'aymer :
-S'il estoit dans mon coeur, ce qu'on ne doit pas craindre,
-Je me le percerois pour tascher de l'atteindre,
-Cet amour fut de vous, il estoit tout nouveau,
-Vous avez estouffé vostre enfant au berceau.
-
--*who_hecube
-Detestable, & perfide, ennemy de ma joye,
-Tigre qui dans mon sang as presque noyé Troye,
-Que ne tiens-je ton coeur sous mes avides dents,
-Et que ne puis-je faire en mes desirs ardens,
-En te le devorant, & rongeant tes entrailles,
-A ton corps demy-vif de longues funerailles !
-Soyez les instrumens de mon juste couroux,
-Perdez-vous pour le perdre, & qu'il tombe sur vous :
-Ne peut-on pas punir ce cruel adversaire ?
-Quoy, n'est-il pas vivant, n'a-t'il pas une mere
-Qui craint de voir trop tost ses beaux jours abregez,
-Qu'il meure, qu'elle pleure, & nous sommes vangez.
-Pour Hector, & Troïle animez vos coleres,
-Car vous ne m'estes rien, si vous n'estes leurs freres.
-
--*who_deiphobe
-Nous ferons voir, Madame, à vostre majesté
-Que nous tenons beaucoup de ce qu'ils ont esté.
-
--*who_paris
-Ouy, nous luy ferons voir mourant en braves hommes
-Ce qu'Hector nous estoit, & ce que nous luy sommes.
-
--*who_hecube
-Dans ce noble dessein vous ne pouvez perir,
-Et le jour est venu qu'Achille peut mourir,
-Le perfide qu'il est, ce detestable Achille
-Demande Polixene en me rendant Troïle,
-Il pense qu'il m'oblige, & croit le ranimer,
-Nous faisant obtenir le temps de l'inhumer.
-Son Escuyer m'a dit qu'il me prioit de croire
-Qu'il n'avoit point commis une action si noire,
-Qu'à regret son serment avoit esté faussé,
-Mais qu'il n'avoit rien fait qu'il ne s'y vit forcé,
-Qu'il me prioit d'aller feignant un sacrifice
-Au Temple d'Apollon afin que je le visse,
-Et là qu'il esperoit de se rendre inocent,
-Et digne des regars de son Soleil absent,
-Moy cachant ma douleur qui taschoit de paraistre,
-Ouy j'iray, ç'ay-je dit, parler à vostre maistre.
-Vous pouvez aux cheveux prendre l'ocasion
-De faire maintenant une belle action,
-Une belle action sous l'image d'un crime
-Au Temple où vous attend cette noire victime
-Que vous immolerez sur la tombe d'Hector.
-
--*who_deiphobe
-Ha ! qu'il meure, ou mourons, consultons-nous encor ?
-
--*who_paris
-Il perira par moy, sa mort est assuree,
-Les Dieux me l'ont promise, & ce bras l'a juree,
-De son perfide sang mes fleches rougiront,
-Et je feray pallir son crime sur son front,
-Il verra que ma main, quoy qu'il soit plus qu'un homme,
-Sçait aussi bien donner le trespas qu'une pomme,
-Qu'un nombre de Troyens pour en estre témoin
-Environne le Temple & nous suive de loin,
-Si nous le surprenons ce n'est point chose estrange,
-“ Car qui trahit un traitre est digne de loüange.
-
--*who_deiphobe
-“ Quand on sçait bien choisir & le temps, & le lieu,
-“ On peut venir à bout de la force d'un Dieu.
-
--*who_hecube
-“ Qu'un desir de vangeance est doux à ceux qu'il presse,
-Ha que j'en suis ravie ! une seule tristesse
-Rend en quelque façon mon plaisir alteré,
-C'est qu'il a moins de sang qu'il ne m'en a tiré.
-Le Ciel guide vos pas, l'infortuné Troile
-N'aura point les devoirs devant la mort d'Achille,
-Je veux qu'il soit vangé devant que d'estre plaint,
-Donc, ô brave Paris, si fort, & si peu craint,
-Rens deux divers transports satisfaits à mesme heure,
-Sois lent, que je me vange, haste-toy, que je pleure.
-
--*who_paris
-On me r'aporte mort, ou je reviens vainqueur.
-
--*who_hecube
-Ha ! si vous le pouvez apportez moy son coeur.
-
-**** *book_ *id_IV02 *act_IV *date_1636 *creator_benserade
-
--*who_ulisse
-Ouy sans doute il persiste en ses flames impures,
-Et je n'en tire point de foibles conjectures.
-
--*who_ajax
-Il nous a tesmoigné que son feu s'est éteint.
-
--*who_ulisse
-Et c'est par où je voy qu'il est encore atteint :
-Il monstroit son amour estant opiniâtre,
-La Grece en murmuroit, il falloit bien combattre.
-Mais ses coups n'ont esté que de subtils moyens
-Pour vaincre nos soupçons plutost que les Troyens.
-
--*who_ajax
-Je veux que cela soit, mais apres tout Achille
-Pour plaire à Polixene eust espargné Troïle.
-
--*who_ulisse
-Son bras se deschargeoit sur le simple soldat,
-Attribuez le reste à l'ardeur du combat,
-Il eut une fureur à soy-mesme contraire,
-Et nous voulut tromper, & non pas les deffaire.
-
--*who_ajax
-“ Aussi le plus vaillant est le plus aveuglé.
-“ Dans la chaleur des coups un bras n'est point reglé,
-“ Il frappe ce qu'il flatte, & l'ardente Bellonne
-“ Couvre les siens de sang, & ne cognoist personne.
-
--*who_ulisse
-Quoy qu'à tant de Troyens il ait rougy le flanc,
-Il pleure dans le coeur sa victoire, & leur sang,
-Sa fureur n'estoit rien qu'une pitié cachee,
-Et nous avons de luy cette palme arrachee.
-Elle n'est pas entiere, Achille en ce beau jour
-Fait trop peu pour la Grece, & trop pour son amour.
-La tréve qu'aussy tost il leur a procuree,
-M'est de sa passion une preuve assuree,
-Il veut les consoler des travaux qu'ils ont eus,
-Et se veut excuser de les avoir vaincus.
-Un temple est icy prés que mon esprit soupçonne,
-Le lieu du rendez-vous que cette amour se donne,
-Couvrons nostre dessein du service des Dieux,
-La tréve nous permet de visiter ces lieux,
-Ou plustost demeurons pres des murs de la ville.
-
--*who_ajax
-Nous servirons la Grece, & cognoistrons Achille,
-Moy pour en faire apres un utille rapport,
-Je verray de la ville, & le foible & le fort,
-Tu pourras découvrir tout ce qu'Achille brasse,
-Et nous recognoistrons, toy son coeur, moy sa place.
-
-**** *book_ *id_IV03 *act_IV *date_1636 *creator_benserade
-
--*who_achille
-Mais je suis innocent puisque j'ay combatu
-Pour vaincre le soupçon que l'armee avoit eu,
-Ma reputation n'eust aquis que du blame,
-Et j'eusse trahy mesme Ilion, & ma flame,
-Ce naufrage dernier les approche du port,
-Je travaille à leur paix,
-
--*who_alcimede
       Ouy, mais Troile est mort.
 
--*who_achille
-Sa temerité seule est cause qu'il succombe,
-Je me deffens, il meurt, je me soutiens, il tombe.
-
--*who_alcimede
 Hé bien, Achille est juste, il n'a point offencé,
 Mais qu'attend l'innocent d'un Juge interessé ?
 Priam est vôtre Juge, il est vostre partie,
@@ -1628,18 +751,6 @@ Et s'ils ayment leur sang ils voudront le vanger :
 Empeschez, juste Ciel, que ce malheur arrive,
 Meurs, ô pieté sainte ! afin qu'Achille vive.
 
--*who_achille
-Foible, & trop lâche esprit à la frayeur ouvert,
-Me puis-je pas sauver, si le Ciel ne me perd
-S'il veut qu'avec mes jours ma gloire se consomme,
-Le Ciel n'est-il pas Ciel, & ne suis-je pas homme ?
-Si tu m'as veu saigner, tu me peux voir mourir,
-La mort est un danger que je dois encourir,
-“ Tout l'effort des humains contre elle est ridicule,
-C'est le destin d'Achille, & ce le fut d'Hercule.
-Mais quel presage as-tu de ce mal que tu crains ?
-
--*who_alcimede
 “ Où le malheur se voit les presages sont vains,
 Quoy pour vous avertir du danger où vous estes,
 Est-il besoin qu'en l'air s'allument des cometes ?
@@ -1668,175 +779,710 @@ Et vous aymez la Soeur qui ne l'est plus par vous,
 Vous leur ajoustez foy, n'est-ce pas un presage
 Du peril evident où le sort vous engage ?
 
--*who_achille
-Achille concevroit une sotte terreur ?
-“ Ha qui fait tout trembler ne doit pas avoir peur !
-Il faut, quoy qu'Ilion contre luy s'évertuë,
-Que pour le voir mourir Polixene le tuë,
-Si tu pleures sa vie en de si belles mains,
-Il te dira mourant, je te hay, tu me plains ;
-L'arrest de mon destin sortira de sa bouche,
-Et puis pour me fraper il faut qu'elle me touche,
-Entre les plus heureux qui le fut jamais tant ?
-Elle vivra vangee, & je mourray content.
-Mais je n'espere pas des punitions d'elle,
-Je suis trop peu coupable, elle est trop peu cruelle,
-Et puis pour me punir avec plus de rigueur,
-Ses beaux yeux sçavent bien le chemin de mon coeur.
-Pour toy si ton repos n'est pas icy tranquille
-Pour vivre seurement éloigne toy d'Achille,
-Tant de lasches discours sont vains & superflus.
-
--*who_alcimede
 Perissons, j'y consens, & je n'en parle plus.
 
-**** *book_ *id_IV04 *act_IV *date_1636 *creator_benserade
-
--*who_achille
-Crains-tu quelque ennemy quand ton oeil me contemple ?
-
--*who_paris
-Nos gens ne sont pas loin ?
-
--*who_deiphobe
-      A la porte du Temple.
-
--*who_achille
-Mars n'oseroit tonner sur moy, ny sur les miens.
-
--*who_alcimede
 Mais vous estes mortel.
 
--*who_paris
-      Le voicy, je te tiens.
-
--*who_alcimede
 Vostre danger est grand.
 
--*who_achille
-      “ Qui dans son entreprise
-“ Voit tousjours le danger à la fin le mesprise :
-Mais je n'ay pas sujet de craindre en ce lieu-cy,
-Je ne me vis jamais plus seurement qu'icy,
-Une tréve sacree est ma juste deffence,
-Et par elle s'endort la haine, & la vengeance,
-Je goute le repos des plus lasches humains,
-Loin des coups, dans un Temple.
-
--*who_alcimede
       Et c'est pourquoy je crains.
 
--*who_paris
-Je sçay l'endroit fatal où je dois faire breche,
-Juste Ciel, vange Troye, & conduis cette fleche.
-
--*who_achille
-Qui se prendroit à moy ? qui seroit l'insensé
-Qui viendroit m'attaquer ? mais Dieux ! je suis blessé.
-
--*who_paris
-A nous, Troyens, à nous.
-
--*who_alcimede
       Assassins execrables !
 
--*who_achille
-Je vengeray ma mort, infames, detestables,
-Mais Achille succombe à l'effort de vos coups,
-Percez, percez ce coeur, il se fioit à vous.
-
--*who_alcimede
 Quoy, je ne mourray pas pour deffendre sa vie ?
 
--*who_deiphobe
-Elle sera dans peu de la tienne suivie.
-
--*who_achille
-Apres ce lasche coup, malheureux, vous fuyez.
-
--*who_paris
-C'est comme nous traittons nos mauvais alliez.
-
--*who_achille
-Je souffre ce trespas, dy moy qui me l'envoye,
-Et qui l'a conspiré ?
-
--*who_paris
-      Moy, Polixene, & Troye.
-
--*who_alcimede
 Pour vous faire éviter ce funeste accident,
 Alcimede vivoit, il meurt vous deffendant.
 
-**** *book_ *id_IV05 *act_IV *date_1636 *creator_benserade
 
--*who_achille
-Sçachez, vous qui tremblez aux actions hardies,
-Qu'il est des chastimens, s'il est des perfidies,
-Les Dieux me vangeront, non pas ces foibles Dieux,
-Ilion les adore, ils sont pernicieux,
-Vous desirez ma mort, eux aussi la souhaittent,
-Et traistres, comme vous, meritent ce qu'ils jettent.
-Ha ! que je souffre bien ce que j'ay merité
-Ayant fait une tache à ma fidelité,
-J'ay combatu trop peu, j'ay trop espargné Troye,
-Si je l'eusse frappee elle eust esté ma proye,
-J'eusse à mes volontez asservy son destin,
-Et qui m'a fait esclave eust esté mon butin.
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_priam
 
-**** *book_ *id_IV06 *act_IV *date_1636 *creator_benserade
+Ma suitte n'attend point de respect, ny d'honneur,
+Elle est bien moins qu'esclave, & vous estes Seigneur,
+De moy je ne croy pas, en l'estat desplorable,
+Où m'ont reduit les Dieux, estre considerable,
+Ny pouvoir exiger un hommage contraint,
+Et par ces cheveux blancs, & par ce qui les ceint.
+Non, nous ne venons point l'ame triste, & saisie,
+Tirer des complimens de vostre courtoisie,
+Ny de ces vains honneurs, brave sang de Thetis.
 
--*who_ajax
+      Nous demandons mon fils,
+Par nos cris, par nos pleurs, par l'ennuy qui nous presse,
+Par une langoureuse, & trop longue vieillesse,
+Par vos mains que je baise.
+
+Elle s'évanoüist cette Majesté haute,
+Nostre malheur, Achille, & vostre bras nous l'oste.
+
+Tous mes enfans, Achille, ont tombé sous vos coups,
+Et je n'en ay jamais murmuré contre vous.
+Je vous croy de mes maux l'instrument, non la cause :
+Aussy parlant de vous, je n'ay dit autre chose.
+Quand sur moy la fortune a vomy tout son fiel,
+Sinon, la main d'Achille est le glaive du Ciel :
+Mes enfans les plus chers ont esté ses victimes,
+Et dans mon propre sang il a lavé mes crimes :
+Par vous il m'a puny, son foudre est vostre fer,
+Et les Dieux par vos bras ont voulu m'estouffer.
+Ils n'ont pas assouvy leur hayne insatiable,
+Troye est plus mal-heureuse, ou je suis plus coupable.
+Tout ce que j'ay souffert ne les contente pas,
+Achille, par vos mains ils veulent mon trespas,
+Finissez donc ma vie en achevant mes peines,
+Tirez ce peu de sang qui reste dans mes veines,
+Ou rendez-moy ce fils qui me touche si fort,
+Je seray chastié quand je le verray mort :
+Si je le demandois avec l'ame, & la vie
+Qu'il ne peut plus avoir, que vous avez ravie,
+J'attendrois un refus, mais helas il me plaist
+Tout pasle, tout sanglant, tout massacré qu'il est !
+Ha ! si vous cognoissiez les mouvemens d'un pere
+Qui sent mon infortune, & souffre ma misère !
+Le vostre ( brave Achille ) est plus heureux que moy,
+Cependant sa vieillesse est tousjours dans l'effroy,
+Aprehende pour vous, ne cesse de se plaindre,
+Et craint ce qu'autrefois j'eus le bon-heur de craindre.
+Hélas je le souhaitte exempt de mes malheurs !
+Que jamais vostre sang n'attire de ses pleurs,
+Soyez tousjours heureux, & que jamais Pelée
+N'ait les tristes ennuys dont mon ame est troublee.
+
+N'estoit-il pas puny, s'il vous parut coupable,
+Lors que mort, & vaincu, ce Prince desplorable
+Traisné par vos chevaux, percé de part en part
+Faisoit le tour des murs dont il fut le rempart ?
+Quand on voyoit sa teste en si triste esquipage
+Bondir sur les cailloux sanglante, & sans visage,
+Et que de tout cela nous estions les tesmoins,
+Patrocle, & sa vengeance en vouloient un peu moins.
+A quel ressouvenir vostre rigueur m'oblige !
+Pour vous persuader faut-il que je m'afflige ?
+Que mon fils soit du moins arrousé de mes pleurs.
+
+Quoy vous ne voulez pas mesme que je le voye ?
+O Prince miserable ! ô Troye, autrefois Troye !
+Esprouve si son coeur s'amolira pour toy,
+Peut-estre la pitié n'est morte que pour moy.
+
+“ Ainsi des justes Dieux l'adorable pouvoir
+“ Fait naistre le bon-heur au tombeau de l'espoir.
+Achille, vos faveurs monstrent ce que vous estes,
+Ces presens sont le prix du bien que vous nous faites.
+Avec quelle rigueur suis-je traicté du Sort ?
+Que je m'estime heureux de revoir mon fils mort ?
+
+      En l'estat où nous sommes,
+Nous n'avons du secours ny des Dieux, ny des hommes.
+Nous avons sous les maux mille fois succombé :
+Le superbe Ilion seroit desjà tombé,
+N'estoit qu'il doute encore en son destin supresme
+S'il faut ou qu'il se perde, & s'accable soy-mesme,
+Ou tombe du costé d'où la foudre luy vient :
+Et cette incertitude est ce qui le maintient.
+Deiphobe, Pâris, & le jeune Troile
+Dignes freres d'Hector, sont l'appuy de ma ville :
+C'est où j'en suis reduit.
+
+Mais est-il bien possible, & le devons-nous croire,
+Que sur luy Polixene ait aquis cette gloire ?
+Que cette passion ait calmé son courroux,
+Et qu'il ayme estant Grec quelque chose de nous ?
+
+Si ma fille devoit vous attirer à nous,
+Achille, ha que plutost ne l'apperceustes vous !
+On ne vous eust point veu si fatal à ma joye,
+Derriere vostre char traisner Hector, & Troye .
+Tu vivrois mon enfant, l'appuy de mes citez,
+Et le retardement de nos fatalitez.
+
+Travaillez donc pour vous, Hector, & ma vieillesse
+N'accroistront point l'honneur des pompes de la Grece,
+Il est mort, & je meurs, attendez vostre fin,
+Et poussez jusqu'au bout vostre jeune destin,
+Car c'est pour vous, Pâris, que Mars se rassasie,
+Et du sang de l'Europe, & du sang de l'Asie,
+Nos mal-heurs sont de vous, vous les avez produits,
+Et vostre seule pomme a fait naistre ces fruits.
+
+Nous venons de pleurer sur les cendres d'Hector,
+Et de ses os bruslez le bucher fume encor,
+Depuis que nous menons cette vie affligée,
+Neuf fois j'ay veu jaunir nos plaines de Sigée,
+Et desja par neuf fois Ide le Sacré mont
+De neige, & de frimas s'est couronné le front.
+Nous n'abandonnons point ceux qui cessent de vivre,
+On nous voit tous les jours les bruler, ou les suivre,
+Et la fatalité de nos communs malheurs
+Nous fait tousjours respandre ou du sang, ou des pleurs.
+Que ne vous trouviez-vous parmy la compagnie
+Pour estre spectateur de la ceremonie.
+
+Quel que soit vostre mal, je le souffre avec vous,
+Et j'ay pitié de ceux qui n'en ont point de nous.
+Contraire à l'ennemy qui nuit alors qu'il aide,
+J'y voudrois aporter un diligent remede,
+Et je soulagerois les maux que vous avez,
+Pourveu que je le peusse.
+
+Vous nous le promettez ?
+
+Demandez hardiment, asseuré que ma vie,
+Si vous la demandez se donne à vostre envie
+
+“ Celuy certes n'est pas mal-heureux à demy
+“ Qui n'attend des bien-faicts que de son ennemy :
+Un mortel craint des Dieux, aymé de la victoire
+Se laisse donc surprendre au milieu de sa gloire ?
+Et vostre grand courage est donc reduit au point
+D'esperer en ma grace, ou de n'esperer point ?
+Quoy ma fille aymeroit nos plus grands adversaires ?
+Elle seroit le prix du meurtre de ses freres ?
+Et je vous pourrois faire un traittement si doux
+Apres les maux sanglans que j'ay receu de vous ?
+Je ne veux point pourtant tromper vostre esperance,
+Ny faire qu'un refus me serve de vengeance,
+Nous procurant la paix sous ces conditions,
+Que ma fille responde à vos affections.
+
+A recevoir vos voeux ma fille est preparée,
+Mais que vos entretiens soient de peu de durée,
+Vous n'estes pas encore au point de vous unir,
+Et la tresve accordée est preste de finir.
+Hastez-vous, & pensez que toute vostre joye
+Ne depend seulement que du respos de Troye,
+Et qu'il faut pour son bien qu'Achille desormais
+Change une courte tresve en une longue paix.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_hecube
+
+Nous sommes comme il faut.
+
+Que les pleurs d'une mere attendrissent vostre ame,
+Donnez à la nature un bien qu'elle reclame ;
+Celuy de qui le bras vous resistoit jadis
+N'est plus vostre ennemy, mais c'est tousjours mon fils :
+Estre vindicatif mesme apres la victoire,
+C'est vostre deshonneur plutost que vostre gloire.
+
+Dequoy murmurez-vous ?
+
+“ Le plus chetif soldat a droict sur son butin,
+Et la valeur d'Achille auroit pire destin ?
+A genoux devant luy (ma chere Polixene.)
+
+Adresse ta priere à l'honneur des humains,
+Et tends devers le Ciel tes innocentes mains.
+
+O genereux Guerrier !
+
+Mais est-il bien possible, & le devons nous croire
+Qu'une voix sans visage ait aquis cette gloire ?
+Ou que sur ce grand coeur une grande beauté
+Ait eu tant de pouvoir sans l'avoir surmonté ?
+Que n'avons-nous pas fait ? la jeune Polixene
+L'a moins prié que nous, n'a pas eu tant de peine.
+A quoy donc si ses yeux n'avoient eu quelque droit,
+Auroit-il accordé ce qu'il nous refusoit ?
+
+Que l'amour la finisse, & que le coeur d'Achille
+En aymant Polixene ayme aussi nostre ville,
+Nous le pourrons gagner, jamais selon nos voeux
+Plus belle occasion ne monstra ses cheveux.
+Le voicy, cet oeil doux, & ce front peu severe
+Ne s'accordent point mal à ce que j'en espere.
+
+Ha ne vous plaignez point : tout vous rit sur la terre,
+Jamais sur vos lauriers n'est tombé le tonnerre,
+Vous rompez, terracez tout ce qui nous deffend,
+Tousjours victorieux, & tousjours triomphant.
+
+Helas ! soyez nous donc ce qu'Hector nous estoit.
+
+Mon Dieu ! qu'il est parfaict, qu'il est remply de charmes,
+Quand je ne le voy point mettre la main aux armes !
+J'ay regret que son bras qui nous estoit fatal,
+M'ait si long-temps forcée à luy vouloir du mal,
+Combien pour cette paix il est opiniâtre,
+N'ayant pû l'obtenir l'aperçoit-on combatre ?
+Qui de cette meslée est aussi le témoin,
+Juge facilement qu'Achille en est bien loin :
+C'est la meilleure preuve, & je n'en veux point d'autres
+Que le mal-heur des Grecs, & le bon-heur des nôtres.
+Nous sommes les vaincus quand il est animé,
+…...................................................................
+Vous avez bien pû voir de dessus la muraille,
+Ceux à qui Mars promet l'honneur de la bataille.
+Le Troyen par son sang commence à s'enflamer,
+S'il en pert une goute, il en tire une mer.
+Qu'il fait beau veoir Pâris, Deiphôbe, & Troïle,
+Et que leur force éclate en l'absence d'Achille !
+
+Caressez-le pourtant, faictes-en de l'estime,
+Si ce n'est par amour, que ce soit par maxime,
+Songeons au bien present, le mal soit oublié,
+Il nous perd ennemy, qu'il nous serve allié,
+Que son affection repare nôtre perte,
+Et qu'il ferme la playe apres l'avoir ouverte :
+Nourrissez son espoir d'un favorable acueil,
+Quoy que vous ayez peine à le voir de bon oeil,
+Et qu'il vous soit à charge en sa flame amoureuse,
+Il fut nôtre ennemy, vous estes genereuse,
+Et vous vous souvenez qu'il nous a fait pastir,
+Mais sommes-nous au temps de nous en ressentir,
+Nous qui n'avons plus rien de ce pouvoir antique ?
+Non, flattons le serpent de peur qu'il nous repique,
+Ne nous ressentons point de tant d'affreux combas,
+Sauvons seulement Troye, & ne la vangeons pas.
+
+Que nous serons heureux ! que vous serez contente !
+Vous avez en cela de faciles moyens
+De faire triompher la valeur des Troyens,
+Vous regnerez, les Dieux vous en feront la grace,
+Quels seront vos enfans, cette superbe race,
+Estant fils d'un Achille, & neveux d'un Hector ?
+N'estimerez-vous pas un si riche thresor ?
+Achille est un époux que le Ciel vous envoye,
+Et l'aymant vous aymez Priam, Hecube, & Troye.
+Mais le jeune Pâris ayant quitté son rang
+Vient couvert de sueur, de poussiere, & de sang.
+
+Sommes-nous les vaincus, ou les victorieux ?
+Comment va le combat ?
+
+Nos gens, comme on les voit de la tour d'Ilion,
+Ont bien de l'advantage à mon opinion.
+
+Et vos freres, Pâris ?
+
+Nous n'avons desormais pour nostre commun bien
+Qu'à suplier les Dieux qu'ils ne nous ostent rien.
+
+      Quel accident voilà,
+Dieux ! mais pourquoy le craindre ? ils n'en viendront pas là,
+En faveur de l'objet du feu qui le consomme,
+Achille excusera cette ardeur de jeune homme.
+Voudroit-il ruyner ses amoureux desseins ?
+
+Pour voir de nos esprits cette crainte soustraitte,
+Persuadez au Roy qu'on sonne la retraitte,
+Qu'aux ennemis battus on daigne pardonner.
+Aussy bien c'est trop vaincre, il faut se couronner.
+Qu'avant qu'on la demande il accorde la tresve,
+Et que par la pitié sa victoire s'acheve,
+Afin que Mars respire apres avoir fremy,
+Et que nous puissions voir nostre cher ennemy.
+Courez, tandis qu'au temple avec un sacrifice
+Nous allons à nos voeux rendre le Ciel propice.
+
+O Dieux ! Severes Dieux, contre nous mutinez,
+Vous avez bâty Troye, & vous la ruinez !
+Vous faillez comme nous tous parfaits que vous estes,
+Vostre ouvrage est mauvais puisque vous le deffaites,
+Mais j'ay tort, je blaspheme, & vous n'estes point tels,
+Vous estes justes Dieux, nous coupables mortels,
+Ilion justement souffre ce qu'il endure,
+Et c'est un chastiment, & non pas une injure.
+Toy sous qui l'Univers autrefois a tremblé,
+Grande ville deserte, & Grand tombeau peuplé,
+Aide contre toy-mesme à la fureur celeste,
+Couvre ce qui n'est plus, opprime ce qui reste,
+Ce coup apaisera la colere des Dieux,
+Et s'il est volontaire, il sera glorieux.
+Des respects (Polixene) & la mort de Troile
+Sont enfin les doux fruits de l'amitié d'Achille ?
+Voilà des traits d'un coeur qui n'adore que vous,
+Voila comme il vous aime, & comme il est pour nous.
+Aussi je m'estonnois que cet inexorable
+Vous eust veu malheureuse, & vous eust crûe aymable,
+Eust cogneu des attraits parmy tant de malheurs,
+Et qu'il eust veu vostre oeil au travers de ses pleurs.
+
+Quoy vous tonnez si peu contre un si grand forfait ?
+Qui le blasme à demy l'excuse tout à fait,
+Vostre frere eust raison de deffendre sa ville,
+Il aymoit un Hector, nous aymions un Achille,
+S'oposoit bravement à ses pretentions,
+Il vouloit le punir, nous le récompensions,
+Le traistre fit mourir & son frere, & le vôtre,
+Il detestoit sa main, elle touchoit la nôstre.
+Que n'eus-je mesme sort, mesme dessein que luy,
+Je n'aurois pas ailleurs recherché de l'apuy,
+Et loin d'une action si lasche, & si honteuse,
+J'aurois vescu sans crime, & mourrois glorieuse.
+
+Hé quoy veut-on si tost faire des funerailles ?
+Tentons auparavant un genereux effort,
+Tout ce qui doit mourir n'est pas encore mort,
+Nous devons des sujets à l'infernal Empire,
+Troïle ne vit plus, mais Achille respire :
+Mon superbe dessein veut estre effectué,
+Attendons à bruler que nous ayons tué,
+Et pour bien assouvir ma vangeance, & la vôtre,
+Preparons un bucher devant qu'allumer l'autre.
+Si jamais (Polixene) un si perfide Amant
+Regna dans vostre esprit, changez de sentimant,
+Si jamais il y fut, ostez-le de vostre ame,
+De peur qu'on ne vous blesse en frapant cét infame,
+Plus que ce traitre objet mon vouloir vous fut doux,
+Vous l'aymastes pour moy, detestez-le pour vous.
+
+Detestable, & perfide, ennemy de ma joye,
+Tigre qui dans mon sang as presque noyé Troye,
+Que ne tiens-je ton coeur sous mes avides dents,
+Et que ne puis-je faire en mes desirs ardens,
+En te le devorant, & rongeant tes entrailles,
+A ton corps demy-vif de longues funerailles !
+Soyez les instrumens de mon juste couroux,
+Perdez-vous pour le perdre, & qu'il tombe sur vous :
+Ne peut-on pas punir ce cruel adversaire ?
+Quoy, n'est-il pas vivant, n'a-t'il pas une mere
+Qui craint de voir trop tost ses beaux jours abregez,
+Qu'il meure, qu'elle pleure, & nous sommes vangez.
+Pour Hector, & Troïle animez vos coleres,
+Car vous ne m'estes rien, si vous n'estes leurs freres.
+
+Dans ce noble dessein vous ne pouvez perir,
+Et le jour est venu qu'Achille peut mourir,
+Le perfide qu'il est, ce detestable Achille
+Demande Polixene en me rendant Troïle,
+Il pense qu'il m'oblige, & croit le ranimer,
+Nous faisant obtenir le temps de l'inhumer.
+Son Escuyer m'a dit qu'il me prioit de croire
+Qu'il n'avoit point commis une action si noire,
+Qu'à regret son serment avoit esté faussé,
+Mais qu'il n'avoit rien fait qu'il ne s'y vit forcé,
+Qu'il me prioit d'aller feignant un sacrifice
+Au Temple d'Apollon afin que je le visse,
+Et là qu'il esperoit de se rendre inocent,
+Et digne des regars de son Soleil absent,
+Moy cachant ma douleur qui taschoit de paraistre,
+Ouy j'iray, ç'ay-je dit, parler à vostre maistre.
+Vous pouvez aux cheveux prendre l'ocasion
+De faire maintenant une belle action,
+Une belle action sous l'image d'un crime
+Au Temple où vous attend cette noire victime
+Que vous immolerez sur la tombe d'Hector.
+
+“ Qu'un desir de vangeance est doux à ceux qu'il presse,
+Ha que j'en suis ravie ! une seule tristesse
+Rend en quelque façon mon plaisir alteré,
+C'est qu'il a moins de sang qu'il ne m'en a tiré.
+Le Ciel guide vos pas, l'infortuné Troile
+N'aura point les devoirs devant la mort d'Achille,
+Je veux qu'il soit vangé devant que d'estre plaint,
+Donc, ô brave Paris, si fort, & si peu craint,
+Rens deux divers transports satisfaits à mesme heure,
+Sois lent, que je me vange, haste-toy, que je pleure.
+
+Ha ! si vous le pouvez apportez moy son coeur.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_autres *role_polixene
+
+La mere n'y peut rien, la soeur perdra sa peine.
+
+Je n'ose (grand Herôs) esperer que mes larmes
+Pour vous toucher le coeur soient d'assez fortes armes,
+Car j'ay trop peu de grace à pleurer un malheur
+Pour faire la pitié fille de ma douleur.
+Mais si vostre bonté me donne l'asseurance
+Qu'elles esbranleront cette rude constance,
+Ces pleurs dont j'entretiens la memoire d'Hector,
+Ces deux fleuves taris pourront couler encor ;
+Perdez cette rigueur où peu de vertu brille,
+Et qu'Achille une fois soit vaincu d'une fille,
+Que l'animosité mette les armes bas,
+“ C'est gloire de se rendre aux injustes combas.
+Que vostre passion ne vous soit plus contraire,
+Que vostre ennemy mort, ce miserable frere
+Ait un sepulchre ailleurs qu'au sein de ses parens,
+Helas voyez mes pleurs !
+
+Quelle grace au coupable enfin puis-je donner
+Puis que c'est le punir que de luy pardonner ?
+Pourquoy desirez-vous que cette main vous tuë ?
+Quoy depuis la faveur que de vous j'ay receuë,
+Depuis qu'à ma priere on vous a veu changer,
+M'avez-vous obligée à vous desobliger ?
+
+Mais quel est ce peché ?
+
+Vous dont le bras nourrit l'ennuy qui me devore,
+M'affligez-vous desja ? la tresve dure encore,
+Quand vous vous reposez, laissez-moy respirer,
+Attendez le combat pour me faire pleurer,
+“ Ce n'est pas desirer un plaisir agreable
+“ Que de chercher à rire avec un miserable.
+
+      Je vous veux croire, hé bien Achille m'ayme,
+Il me veut quelque bien, j'en fais aussi de mesme.
+
+      Il est vray, je vous le dis encor,
+Comme je puis aymer l'homicide d'Hector.
+
+Mais vous estes Achille, & je suis Polixene,
+Vostre coeur ayme-t'il ceux que vostre bras hait,
+Contre qui tous les jours vous suez sous l'armet ?
+Et comment voulez-vous que de bon oeil je voye
+L'homicide d'Hector, & l'ennemy de Troye ?
+Ha triste souvenir de mes derniers mal-heurs !
+Las ! esteignez vos feux, laissez couler mes pleurs.
+
+Quoy l'Amour n'a pour vous que de rudes appas ?
+Si l'on ne vous embrasse, on ne vous ayme pas ?
+“ Le soldat ancien de son sang ne s'effraye,
+“ Et le jeune pâlit au soupçon d'une playe :
+“ L'un ignore comment un laurier est gagné,
+“ L'autre a vaincu cent fois apres avoir saigné.
+“ Celuy qui dans l'Amour a consommé son âge
+“ Pour un simple desdain ne perd pas le courage,
+“ Et le jeune au contraire aussitost qu'on le void
+“ Pense qu'on le deteste alors qu'on luy fait froid,
+“ L'un cognoist les desdains, & sçait qu'Amour en use,
+“ L'autre ignore qu'il donne aussi-tost qu'il refuse.
+Esperez, je veux suivre au point où je me vois,
+Ce que leurs Majestés me prescriront de lois.
+
+Vous aurez ce bon-heur, si le Ciel vous l'octroye :
+Cependant épargnez le plus pur sang de Troye,
+N'ayez plus aux combas un coeur trop enflammé,
+Et soiez moins vaillant pour estre plus aymé.
+
+“ Ainsi loin du Soleil tous les arbres sont beaux,
+“ Ainsi pres du Soleil il n'est plus de flambeaux :
+Aussi l'aspect d'Achille horrible à ma memoire,
+Change en fatalité le sort de la victoire,
+Et ce jeune guerrier ne sort point du combat
+Qu'il n'ait couché par terre un pillier de l'Estat.
+
+Suivant vos loix, Madame, on n'est jamais blâmable,
+Vous voulez que je l'ayme, hé bien il est aymable,
+Je prefere à mes voeux le commun interest,
+Et le trouve charmant à cause qu'il vous plaist,
+Je rendray mon desir conforme à vôtre attente.
+
+De quelque horreur que soit la bataille comblée,
+Il se démelle bien tousjours de la meslée.
+
+Mais mon frere, Troile ?
+
+Où va-t'il s'engager ?
+
+Nous luy devions ravir d'une puissante amorce
+Avec l'inimitié le pouvoir, & la force,
+“ C'est ainsi qu'on s'assure, & c'est estre imprudens
+“ Qu'aprivoiser un Tigre, & luy laisser des dents.
+
+Vostre commandement ne m'est pas beaucoup rude,
+Je reprens aysément cette douce habitude :
+Si pour un desloyal je parus m'enflamer,
+Ce fut vous obeïr, ce ne fut pas l'aymer :
+S'il estoit dans mon coeur, ce qu'on ne doit pas craindre,
+Je me le percerois pour tascher de l'atteindre,
+Cet amour fut de vous, il estoit tout nouveau,
+Vous avez estouffé vostre enfant au berceau.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_autres *role_paris
+
+Que n'estois-je avec vous ? j'eusse veu sa pensée,
+De quelle affection elle estoit traversée,
+Et d'où venoit en luy ce mouvement si prompt,
+Car je cognoy le coeur dés que je voy le front,
+Des feux les plus cachez je voy des estincelles,
+Et juge de l'amour aussy bien que des belles.
+Achille inexorable, & puis humilié,
+C'est ensemble un effect d'amour, & de pitié,
+Ce double mouvement qui tient l'ame engagée,
+Peut naistre des appas d'une belle affligée,
+“ Rien n'est plus eloquent que de beaux yeux moüillez,
+“ Par eux sont de fureur les Tygres despoüillez.
+Sans doute que ma soeur est dans l'esprit d'Achille,
+Et cette affection nous est beaucoup utille.
+
+Que vostre majesté ne perde point courage,
+Et sauvons, s'il se peut, les restes du naufrage.
+L'Amour nous donne Achille, & s'il est diverty,
+Nous pourrons voir Ajax entrer dans son party.
+
+Je sçay que j'ay causé nos plus tristes journees,
+Et ce juste reproche a plus de neuf annees.
+Mais quoy que cette guerre offre à mon souvenir,
+L'amour la commença, l'honneur la doit finir.
+
+Il faut rompre les loix de la civilité,
+Et que je vous embrasse en cette qualité.
+
+      Tout va bien grace aux Dieux,
+L'armee est en deroutte, elle a pris l'espouvante,
+La bataille nous est glorieuse, & sanglante.
+
+Oüy, mais une victoire est-elle si parfaicte
+“ Qu'elle ne coute rien ? qui la gaigne l'achette,
+“ Sur sa felicité le vainqueur s'appuyant
+“ Tresbuche, & l'ennemy se retourne en fuyant :
+Tousjours quelque Troyen que son courage incite
+Poursuivant un Gregeois trouve ce qu'il évite,
+A tous deux le combat apporte du renom,
+Et mesme le vaincu fait gloire de son nom.
+L'on ne cueillit jamais de palme moins facile,
+Quoy, dans chaque Gregeois se trouve un coeur d'Achille,
+Tous Chefs, & tous soldats qui ne redoutent rien,
+Ils occupent sa place, & la remplissent bien.
+Nous triomphons pourtant, & le champ nous demeure.
+
+      Ils combattent sur l'heure,
+Mille escadrons vaincus rendent l'ame à leurs pieds,
+Pour moy j'en suis sorty comme vous me voyez,
+Je ne compare point mes faits à ceux d'Alcide,
+Mais je reviens sanglant, & mon carquois est vuide.
+
+      Il est comme une foudre,
+Qui brise, qui sacage, & qui met tout en poudre,
+Ses regards menaçans sont des éclairs d'horreur,
+Et son front est un ciel ou tonne la terreur,
+Il a trop de furie, & gagne plus de gloire
+Dans l'ardeur d'un combat que dans une victoire,
+Son couroux devroit estre un peu moins violent,
+Il est brave, il est fort, mais il est insolent,
+Comme il a du courage, & comme il hait Achille,
+Il croit que la dépouïlle en est assez facille,
+Pense l'épouvanter, & croit que ce vainqueur
+Aprehende le frere, & n'ayme pas la soeur,
+Sa vaillance deffie un qui vous idolâtre,
+Qui nous permet de vaincre, & nous laisse combatre,
+Et sa temerité le porte aveuglement,
+Une pique à la main, jusqu'au retranchement,
+Viens, lasche, viens, poltron, parois devant Troïle,
+(Ce sont ses propres mots) es-tu ce brave Achille ?
+Sois-le contre celuy qui s'opose a tes veux,
+Viens me donner la mort plutost que des Neveux.
+A quoy que sa promesse, & son amour l'engage,
+Achille n'est pas homme à souffrir un outrage.
+
+Mais je croy ce mal-heur, parce que je le crains.
+
+Quand j'aperceus Troile aveuglé par sa gloire,
+Je commençay dés lors à craindre la victoire ;
+Je vis où se romproit son insolent effort,
+Il portoit sur le front nos malheurs, & sa mort ;
+Achille eust bien voulu pardonner à mon frere,
+Il fut impatient, l'autre fut temeraire.
+
+Bien loin de l'excuser, je voudrois que ma main
+Luy mit pour nous vanger un poignard dans le sein,
+Je me ressentiray de cette offence extrême.
+
+Ouy, nous luy ferons voir mourant en braves hommes
+Ce qu'Hector nous estoit, & ce que nous luy sommes.
+
+Il perira par moy, sa mort est assuree,
+Les Dieux me l'ont promise, & ce bras l'a juree,
+De son perfide sang mes fleches rougiront,
+Et je feray pallir son crime sur son front,
+Il verra que ma main, quoy qu'il soit plus qu'un homme,
+Sçait aussi bien donner le trespas qu'une pomme,
+Qu'un nombre de Troyens pour en estre témoin
+Environne le Temple & nous suive de loin,
+Si nous le surprenons ce n'est point chose estrange,
+“ Car qui trahit un traitre est digne de loüange.
+
+On me r'aporte mort, ou je reviens vainqueur.
+
+Nos gens ne sont pas loin ?
+
+      Le voicy, je te tiens.
+
+Je sçay l'endroit fatal où je dois faire breche,
+Juste Ciel, vange Troye, & conduis cette fleche.
+
+A nous, Troyens, à nous.
+
+C'est comme nous traittons nos mauvais alliez.
+
+      Moy, Polixene, & Troye.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_deiphobe
+
+Je suis bien resolu d'en faire aussi de mesme,
+Quand nous aurons passé le jour de nostre dueil,
+Et que mon frere aura sa pompe, & son cercueil ;
+Pour la voir tout le peuple est dessus les murailles.
+
+Nous ferons voir, Madame, à vostre majesté
+Que nous tenons beaucoup de ce qu'ils ont esté.
+
+Ha ! qu'il meure, ou mourons, consultons-nous encor ?
+
+“ Quand on sçait bien choisir & le temps, & le lieu,
+“ On peut venir à bout de la force d'un Dieu.
+
+      A la porte du Temple.
+
+Elle sera dans peu de la tienne suivie.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
+
+Mais tu pardonnerois, si tu me voulois croire,
+A cette ingratitude, à cause de ta gloire.
+Exerce pour ton bien ce bras si valeureux,
+Fais pour toy (cher Amy) ce que tu fis pour eux :
+Quoy tu veux estre oysif au siege d'une ville ?
+Parce qu'ils sont ingrats, tu cesses d'estre Achille ?
+Tu te prives d'honneur ? non, non, qu'ils soient ingras,
+Qu'ils ne t'escoutent point, qu'ils pechent, & combas,
+Que des fleuves de sang rougissent la campagne,
+Va (genereux Achille) & qu'Ajax t'accompagne.
+
+Je n'en suis pas du nombre, & l'orgueil des Pergames
+M'a veu luy resister, & destourner ses flames :
+Ce bouclier d'un vainqueur ne fut jamais le prix,
+On me l'a bien faussé, mais on ne l'a point pris,
+Et tout rompu qu'il est, avecque mon adresse,
+Il pare bien des traits qu'on descoche à la Grece :
+Mais contre les Troyens nos trouppes sont aux champs,
+Desja l'on voit à nû mille glaives trenchans,
+Rejoignons le soldat que nostre absence effraye,
+Peut-estre la patrie a receu quelque playe,
+Allons la secourir, allons vaincre, ou mourons,
+Irons-nous seuls, Achille, ou si nous te suivrons ?
+
+      Allons, Ulysse, il est inexorable,
+Ce mouvement cruël en luy n'est pas nouveau,
+Il verroit tout en feu qu'il plaindroit un peu d'eau ;
+Allons où la valeur esclate, & se renomme,
+Et ne perdons pas tout pour gaigner un seul homme.
+
+Il nous a tesmoigné que son feu s'est éteint.
+
+Je veux que cela soit, mais apres tout Achille
+Pour plaire à Polixene eust espargné Troïle.
+
+“ Aussi le plus vaillant est le plus aveuglé.
+“ Dans la chaleur des coups un bras n'est point reglé,
+“ Il frappe ce qu'il flatte, & l'ardente Bellonne
+“ Couvre les siens de sang, & ne cognoist personne.
+
+Nous servirons la Grece, & cognoistrons Achille,
+Moy pour en faire apres un utille rapport,
+Je verray de la ville, & le foible & le fort,
+Tu pourras découvrir tout ce qu'Achille brasse,
+Et nous recognoistrons, toy son coeur, moy sa place.
+
 Entrons effrontément, c'est trop de patience,
 Et je crains les effets d'une telle alliance.
 Nous sommes ruinez s'il fait tout ce qu'il peut.
 
--*who_ulisse
-O Ciel !
-
--*who_achille
-      Coulle, mon sang, Polixene le veut.
-
--*who_ulisse
-Que voy-je ? Achille meurt, son propre sang le noye,
-Sa mort est ton forfait, triste, & perfide Troye.
-
--*who_ajax
 Par quelle perfidie, ou par quelle valeur
 Te voy-je, nostre Amy, reduit à ce malheur ?
 
--*who_achille
-Deux mots vous apprendront mon infortune extreme,
-Mon amour vous trahit, & m'a trahy moy-mesme,
-Priam veut mon trespas, & Paris l'entreprend,
-Une main si debile a fait un coup si grand,
-Ces lasches ont rompu la tréve, & leur promesse :
-Mais quoy que mon amour ait offencé la Grece,
-Faites-les ressentir du tort que j'en reçoy,
-Et ne vous vangez pas de moy, mais vangez moy.
-
--*who_ajax
 Ouy, j'useray contre eux de ta valeur extréme,
 Et je m'efforceray d'heriter de toy-mesme.
 
--*who_achille
-Que de vives douleurs ! Parque, acheve ton coup,
-Je ne veux pas me plaindre, & j'endure beaucoup.
-
--*who_ulisse
-Juge quelle est ta faute, Achille, par ta peine,
-Voilà ce que te vaut l'amour de Polixene,
-Ce sont de l'ennemy les plus douces humeurs,
-Voilà comme il nous flatte.
-
--*who_achille
-      Il est vray, mais je meurs.
-
--*who_ulisse
-D'une eternelle nuit sa paupiere est couverte,
-Ris de ton crime, ô Troye ! Argos, pleure ta perte !
-
--*who_ajax
 Perdons-nous pour jamais un si rare thresor ?
 Que nous sert sans ce bras le conseil de Nestor ?
 Meschans, qui violez au mespris du tonnerre,
@@ -1849,19 +1495,6 @@ Ces Dieux, vos protecteurs, vous verront trébucher,
 Et vostre ville un jour sera vostre bucher.
 Mais que veut ce Gregeois ?
 
-**** *book_ *id_IV07 *act_IV *date_1636 *creator_benserade
-
--*who_soldat
-      Funestes aventures !
-Je voy ce qu'ont predit tant de tristes augures,
-Le camp sans les sçavoir commence à s'attrister,
-Et Briseide vient de se precipiter.
-
--*who_ulisse
-Chacun doit ressentir la mort du grand Achille,
-Le corps qui pert ce bras doit bien estre debile.
-
--*who_ajax
 Mais sans mettre du temps à s'affliger ainsi,
 Puis que nous sommes trois enlevons-le d'icy,
 Devant qu'il ait reçeu ses honneurs, & nos larmes
@@ -1869,9 +1502,6 @@ L'on verra qui de nous remportera ses armes,
 Un superbe tombeau luy doit estre erigé,
 Aussi-tost mis en cendre, apres plaint, puis vangé.
 
-**** *book_ *id_V01 *act_V *date_1636 *creator_benserade
-
--*who_ajax
 Quoy grands Dieux ! qu'un debat aujourd'huy s'acomplisse,
 Et devant nos vaisseaux, & d'Ajax contre Ulisse ?
 Moy qui les preservay lors que Mars furieux
@@ -2003,7 +1633,182 @@ Entre les ennemis doivent estre jettees,
 Meritons par le sang un si glorieux prix,
 Et qu'enfin il demeure à qui l'aura repris.
 
--*who_ulisse
+Le vice, & la vertu tendent à mesme fin,
+Je montre nos vaisseaux, il montre son larcin,
+A personne (Gregeois) ne soyez favorables,
+Je vous ay bien servis, vous estes équitables,
+Des effects d'un causeur ne soyez point charmez,
+Escoutez-le, je pers, voyez-moy, vous m'armez,
+Ce prix à l'eloquence est un prix inutille,
+Ornez-en vostre Ajax, il sera vostre Achille.
+Ulisse est mon Rival, & vous deliberez ?
+Soyons seulement veus, & non pas comparez.
+
+Souvenez-vous d'Ajax.
+
+Vous avez pour ce fer des mains assez robustes,
+Ajax est moins qu'Ulisse, & mes juges sont justes.
+
+Je ne m'irrite point de vos arrests augustes,
+Ma cause estoit mauvaise, & mes Juges sont justes.
+Qu'espererois-je, ingrats, quelle faveur, quel bien,
+Puis que du grand Achille il ne reste plus rien ?
+Il est vray, ce salaire estoit digne d'Ulisse,
+Je vous l'ay demandé, j'ay fait une injustice,
+Comme pour vous j'eus tort d'exercer ce bras cy
+En me recompençant vous auriez tort aussi,
+Et puis mon esperance estoit illegitime,
+Qu'attendrois-je de vous n'ayant point fait de crime ?
+Vous, dis-je, dont l'esprit laschement abatu
+Recompence le vice, & punit la vertu ?
+Ne soyez point ingrats, c'est assez d'estre iniques,
+R'appellez du passé vos miseres publiques,
+Remettez vostre flotte en son premier malheur,
+Ressuscitez Hector, sa force, & vostre peur,
+Fuiez bien loin des murs d'une superbe ville,
+Implorez mon secours, qu'il vous soit inutille,
+Empeschez que mon corps n'ait reçeu tant de coups,
+Rendez-moy tout le sang que j'ay versé pour vous,
+Et qu'apres, s'il le faut, Ulisse me surmonte,
+Et qu'il demeure apres glorieux de ma honte,
+Coeurs sans recognoissance ! il vous faut un tel bras,
+Vous voulez qu'il vous serve, & vous ne l'armez pas,
+On me prefere Ulisse !
+
+Mais sçachez que ma cause est tousjours la plus forte,
+Ce fer au lieu de vous me recompensera,
+Et d'Ajax seulement Ajax triomphera,
+L'honorable secours de ma fidelle espee
+Qu'au sang des ennemis j'ay trop souvent trempee
+Me rendra glorieux par le reste du mien,
+Ulisse, elle est à moy, vous n'y pretendez rien ?
+
+Qu'on ne m'aproche pas, ou je me vangeray
+Dy moy, mon desespoir, quel chemin je suivray,
+Que feray-je vaincu ?
+
+Voicy mes ennemis, voilà Troye, & ma mort,
+Nous vangerons nous d'eux ? j'aurois trop peu de gloire,
+Feray-je qu'Ilion ait sur eux la victoire ?
+Je ne leur veux point faire un si sensible affront,
+Tous lâches, tous meschans, & tous ingrats qu'ils sont,
+Mais leur faux jugement m'a traité de la sorte,
+Ajax est sans deffence, Ulysse armé, n'importe,
+Cela sentiroit trop son courage abatu,
+Laissons-les dans le vice, & suivons la Vertu,
+Mourons, c'est le dernier, & le plus seur remede
+Que je doive appliquer au mal qui me possede.
+
+      Mourons, ha qu'aujourd'huy ma mort
+Affoiblit, & r'enforce, est utille, & fait tort !
+Mais dans mon sang ma vie, & ma honte se noye,
+Puis qu'Ajax est tombé, subsiste, heureuse Troye.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulisse
+
+Si je combas sans vous, ma foiblesse est extresme,
+Et les plus valeureux sans doute en sont de mesme,
+Vostre seule presence anime nostre coeur,
+Et nous sommes vaincus, si vous n'estes vainqueur.
+Venez donc comme un foudre au milieu des allarmes,
+Que je vous recognoisse encore par les armes,
+Vous perdites Patrocle en un pareil courroux,
+Si vous ne nous menez combien en perdrez vous ?
+Si jusques à la fin le malheur nous travaille,
+Sans avoir combattu vous perdrez la bataille,
+Et les Troyens ravis se vanteront apres
+D'avoir bien profité des querelles des Grecs.
+“ Une dissention rompt la plus forte armee,
+“ Et de tant de projets fait un peu de fumee :
+“ Sa malice affoiblit ce corps le demembrant,
+“ Et fait mille ruisseaux d'un vaste, & fier torrent.
+Quoy vous voir à la paix ardent plus que personne,
+Que pouvez-vous penser que l'armee en soupçonne ?
+Vous offencez la Grece, & sur tout Menelas,
+Vous le pouvez vanger, & ne le faites pas ;
+Vous voulez tout avoir de puissance absoluë,
+Et ne combattrez plus si la paix n'est concluë,
+Et l'accord estant fait des Troyens, & de nous,
+En quelle occasion nous obligerez-vous ?
+Ce n'est pas qu'en la paix vous ne soyez utille,
+Mais c'est par la valeur que vous estes Achille.
+Je dis sans vous flatter quel est mon sentiment,
+Et parlant en amy je parle hardiment,
+Et dis que ce demon qui trouble nostre joye
+A de l'intelligence avec celuy de Troye.
+Hé quoy pouvons nous faire une honorable paix
+Avec des ennemis que nous avons deffaits ?
+Doit-on ainsi traiter l'ennemy qu'on terrasse ?
+Ils sont dessous nos pieds, demanderons nous grace ?
+Pourquoy finirons-nous la vieille inimitié ?
+Nous ne les craignons pas, en avons-nous pitié ?
+Voyons nous quelque chose en cette ville infame,
+Qui nous doive empescher d'y jetter de la flame ?
+Que pretendez-vous donc ?
+
+Si vous ne donnez pas un conseil salutaire,
+Faut-il qu'on se ruyne afin de vous complaire ?
+
+A l'un il est utile, à l'autre il est suspec.
+
+L'une pourtant assiege, & l'autre est assiegee.
+
+Elle est forte, il est vray, puis qu'Achille s'y rend,
+
+“ Où l'on resiste mieux, c'est là qu'il faut combattre.
+
+Ha qu'on ne cognoist pas tous ceux qu'elle a vaincus !
+
+“ Achille, un ennemy ne se doit frequenter,
+“ C'est gloire de le perdre, & non de le hanter.
+
+Ouy sans doute il persiste en ses flames impures,
+Et je n'en tire point de foibles conjectures.
+
+Et c'est par où je voy qu'il est encore atteint :
+Il monstroit son amour estant opiniâtre,
+La Grece en murmuroit, il falloit bien combattre.
+Mais ses coups n'ont esté que de subtils moyens
+Pour vaincre nos soupçons plutost que les Troyens.
+
+Son bras se deschargeoit sur le simple soldat,
+Attribuez le reste à l'ardeur du combat,
+Il eut une fureur à soy-mesme contraire,
+Et nous voulut tromper, & non pas les deffaire.
+
+Quoy qu'à tant de Troyens il ait rougy le flanc,
+Il pleure dans le coeur sa victoire, & leur sang,
+Sa fureur n'estoit rien qu'une pitié cachee,
+Et nous avons de luy cette palme arrachee.
+Elle n'est pas entiere, Achille en ce beau jour
+Fait trop peu pour la Grece, & trop pour son amour.
+La tréve qu'aussy tost il leur a procuree,
+M'est de sa passion une preuve assuree,
+Il veut les consoler des travaux qu'ils ont eus,
+Et se veut excuser de les avoir vaincus.
+Un temple est icy prés que mon esprit soupçonne,
+Le lieu du rendez-vous que cette amour se donne,
+Couvrons nostre dessein du service des Dieux,
+La tréve nous permet de visiter ces lieux,
+Ou plustost demeurons pres des murs de la ville.
+
+O Ciel !
+
+Que voy-je ? Achille meurt, son propre sang le noye,
+Sa mort est ton forfait, triste, & perfide Troye.
+
+Juge quelle est ta faute, Achille, par ta peine,
+Voilà ce que te vaut l'amour de Polixene,
+Ce sont de l'ennemy les plus douces humeurs,
+Voilà comme il nous flatte.
+
+D'une eternelle nuit sa paupiere est couverte,
+Ris de ton crime, ô Troye ! Argos, pleure ta perte !
+
+Chacun doit ressentir la mort du grand Achille,
+Le corps qui pert ce bras doit bien estre debile.
+
 Sy le Ciel m'eust ouy (justes, & braves hommes)
 On ne nous verroit pas en la peine où nous sommes,
 Je me tairois, Ajax seroit moins animé,
@@ -2167,21 +1972,6 @@ Par Troye à demy prise, & par ses murs branlans,
 Que les armes d'Achille animent mon courage,
 Au moins honorez-en Ulysse, ou cette image.
 
-**** *book_ *id_V02 *act_V *date_1636 *creator_benserade
-
--*who_ajax
-Le vice, & la vertu tendent à mesme fin,
-Je montre nos vaisseaux, il montre son larcin,
-A personne (Gregeois) ne soyez favorables,
-Je vous ay bien servis, vous estes équitables,
-Des effects d'un causeur ne soyez point charmez,
-Escoutez-le, je pers, voyez-moy, vous m'armez,
-Ce prix à l'eloquence est un prix inutille,
-Ornez-en vostre Ajax, il sera vostre Achille.
-Ulisse est mon Rival, & vous deliberez ?
-Soyons seulement veus, & non pas comparez.
-
--*who_ulisse
 La Grece a par mes soins la fortune prospere,
 Elle cognoist Ulisse, elle est juste, j'espere.
 Oublieriez-vous (Gregeois) mes services passez ?
@@ -2192,13 +1982,29 @@ Quoy qu'Ulisse ait ravy par de nobles moyens
 Tout ce qui soustenoit l'Empire des Troyens,
 Il vous peut rendre encore un fidelle service.
 
--*who_ajax
-Souvenez-vous d'Ajax.
-
--*who_ulisse
       Souvenez-vous d'Ulisse.
 
--*who_agamemnon
+Pour ces armes mon coeur a fait des voeux ardens,
+Assurez-vous (Gregeois) que je mourray dedans.
+
+J'y consens, j'ay mon prix. Que veux-tu, cher Amy ?
+Ces armes ne t'auroient satisfait qu'à demy,
+C'est trop peu pour Ajax, c'est assez pour Ulisse,
+Si tu crois que par là ta gloire s'accomplisse,
+Accepte-les, j'eus tort de te les disputer,
+Et personne que toy ne les sçauroit porter.
+
+C'est enflamer ce feu que le vouloir esteindre,
+Empeschons seulement qu'il ne se fasse tort.
+
+Je goute peu l'honneur de ce prix obtenu,
+Pleust aux Dieux qu'il fust vif, & que je fusse nu !
+Mais puis que c'est un mal qui n'a point de remede ;
+Dissimulons au moins le dueïl qui nous possede.
+
+
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
+
 Que ne suis-je privé du Sceptre, & du pouvoir
 Que malgré mes desirs le Ciel m'a fait avoir,
 Je n'obeïrois pas à cette loy severe
@@ -2224,120 +2030,26 @@ Vous l'avez repoussé, vous l'avez combatu,
 Enfin vous meritez agissant de la sorte,
 Au dessus de ce prix, mais Ulisse l'emporte.
 
--*who_ulisse
-Pour ces armes mon coeur a fait des voeux ardens,
-Assurez-vous (Gregeois) que je mourray dedans.
-
--*who_agamemnon
 Ses yeux, & son silence expliquent bien sa rage,
 Ulysse, adoucissons ce violent courage.
 
--*who_ulisse
-J'y consens, j'ay mon prix. Que veux-tu, cher Amy ?
-Ces armes ne t'auroient satisfait qu'à demy,
-C'est trop peu pour Ajax, c'est assez pour Ulisse,
-Si tu crois que par là ta gloire s'accomplisse,
-Accepte-les, j'eus tort de te les disputer,
-Et personne que toy ne les sçauroit porter.
-
--*who_ajax
-Vous avez pour ce fer des mains assez robustes,
-Ajax est moins qu'Ulisse, & mes juges sont justes.
-
--*who_agamemnon
 Ne vous irritez point d'un jugement forcé,
 Esperez d'estre ailleurs bien mieux recompencé.
 
--*who_ajax
-Je ne m'irrite point de vos arrests augustes,
-Ma cause estoit mauvaise, & mes Juges sont justes.
-Qu'espererois-je, ingrats, quelle faveur, quel bien,
-Puis que du grand Achille il ne reste plus rien ?
-Il est vray, ce salaire estoit digne d'Ulisse,
-Je vous l'ay demandé, j'ay fait une injustice,
-Comme pour vous j'eus tort d'exercer ce bras cy
-En me recompençant vous auriez tort aussi,
-Et puis mon esperance estoit illegitime,
-Qu'attendrois-je de vous n'ayant point fait de crime ?
-Vous, dis-je, dont l'esprit laschement abatu
-Recompence le vice, & punit la vertu ?
-Ne soyez point ingrats, c'est assez d'estre iniques,
-R'appellez du passé vos miseres publiques,
-Remettez vostre flotte en son premier malheur,
-Ressuscitez Hector, sa force, & vostre peur,
-Fuiez bien loin des murs d'une superbe ville,
-Implorez mon secours, qu'il vous soit inutille,
-Empeschez que mon corps n'ait reçeu tant de coups,
-Rendez-moy tout le sang que j'ay versé pour vous,
-Et qu'apres, s'il le faut, Ulisse me surmonte,
-Et qu'il demeure apres glorieux de ma honte,
-Coeurs sans recognoissance ! il vous faut un tel bras,
-Vous voulez qu'il vous serve, & vous ne l'armez pas,
-On me prefere Ulisse !
-
--*who_agamemnon
       Ha ! sa fureur l'emporte.
 
--*who_ajax
-Mais sçachez que ma cause est tousjours la plus forte,
-Ce fer au lieu de vous me recompensera,
-Et d'Ajax seulement Ajax triomphera,
-L'honorable secours de ma fidelle espee
-Qu'au sang des ennemis j'ay trop souvent trempee
-Me rendra glorieux par le reste du mien,
-Ulisse, elle est à moy, vous n'y pretendez rien ?
-
--*who_agamemnon
 Estouffez, brave Ajax, cette fureur extresme,
 Vous aurez tout vaincu vous surmontant vous-mesme.
 
--*who_ajax
-Qu'on ne m'aproche pas, ou je me vangeray
-Dy moy, mon desespoir, quel chemin je suivray,
-Que feray-je vaincu ?
-
--*who_agamemnon
       Son courage est à craindre.
 
--*who_ulisse
-C'est enflamer ce feu que le vouloir esteindre,
-Empeschons seulement qu'il ne se fasse tort.
-
--*who_ajax
-Voicy mes ennemis, voilà Troye, & ma mort,
-Nous vangerons nous d'eux ? j'aurois trop peu de gloire,
-Feray-je qu'Ilion ait sur eux la victoire ?
-Je ne leur veux point faire un si sensible affront,
-Tous lâches, tous meschans, & tous ingrats qu'ils sont,
-Mais leur faux jugement m'a traité de la sorte,
-Ajax est sans deffence, Ulysse armé, n'importe,
-Cela sentiroit trop son courage abatu,
-Laissons-les dans le vice, & suivons la Vertu,
-Mourons, c'est le dernier, & le plus seur remede
-Que je doive appliquer au mal qui me possede.
-
--*who_agamemnon
 Hé, de grace !
 
--*who_ajax
-      Mourons, ha qu'aujourd'huy ma mort
-Affoiblit, & r'enforce, est utille, & fait tort !
-Mais dans mon sang ma vie, & ma honte se noye,
-Puis qu'Ajax est tombé, subsiste, heureuse Troye.
-
--*who_agamemnon
 O Ciel ! de sa main propre il s'est ouvert le flanc,
 Et son couroux éteint fume encor dans son sang ;
 Cette mort de nos Dieux est donc veuë, & soufferte ?
 Ha que nous faisons bien une seconde perte !
 
--*who_ulisse
-Je goute peu l'honneur de ce prix obtenu,
-Pleust aux Dieux qu'il fust vif, & que je fusse nu !
-Mais puis que c'est un mal qui n'a point de remede ;
-Dissimulons au moins le dueïl qui nous possede.
-
--*who_agamemnon
 Il est vray qu'Ilion, s'il sçait cet accident,
 S'animera bien mieux, deviendra plus ardent.
 N'encourageons pas tant cette orgueilleuse ville,
@@ -2347,14 +2059,3 @@ Et de tant de regrets ne montrons qu'un regret,
 Affin que le Troyen n'y puisse rien comprendre,
 Nous en pleurerons deux sur une mesme cendre.
 
-**** *book_ *id_body-7 *date_1636 *creator_benserade
-
-Extraict du Privilege du Roy.
-
-Par grace et Privilege du Roy donné à Roye, en datte du dernier Septembre, 1636.
-Et Signé, Par le Roy en son Conseil.
-DE MONSSEAUX, Il est permis à ANTOINE DE SOMMAVILLE, Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre et distribuer une piece de Theatre, intitulée, La Mort d'Achille et la dispute de ses armes, Tragedie, durant le temps et espace de sept ans, à compter du jour qu'elle sera achevée d'imprimer.
-Et deffences sont faictes à tous Imprimeurs, Libraires, et autres, de contrefaire la dite piece, ny en vendre ou exposer en vente de contrefaicte, à peine de trois mille livres d'amende, de tous ses depens, dommages et interests ; ainsi qu'il est plus amplement porté par lesdites Lettres qui sont en vertu du present Extraict tenuës pour bien et deuëment signifiées, à ce qu'aucun n'en pretende cause d'ignorance.
-
-Achevé d'imprimer le 30.
-Octobre 1636.

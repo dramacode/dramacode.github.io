@@ -1,1392 +1,74 @@
 
 
-**** *book_ *id_I01 *act_I *date_1780
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelourdis
 
--*who_frontin
-Mon pauvre maître !
-Ah !
-Quel malheur !
-Il en mourra !
+Monsieur, je ne puis rien répondre à tout cela. Mais voilà mon mari ; expliquez-vous avec lui.
 
--*who_lisette
-Mais écoute donc...
-
--*who_frontin
-Je lui avais tant dit de fois : Monsieur, défiez vous !
-N'allez pas devenir amoureux !
-Ne faites pas une folie comme celle-là !
-Jetez-vous plutôt dans la rivière la tête la première.
-
--*who_lisette
-Parle donc, original...
-
--*who_frontin
-Eh, mon enfant !
-Vois-tu ; c'est d'amitié que je lui disais tout cela.
-Ce pauvre cher homme, il n'en a tenu compte.
-Il a voulu aimer...
-Grand bien lui fasse.
-Le voilà pas mal à présent.
-
--*who_lisette
-Mais enfin, maudit bavard, me laisseras-tu parler avec tes complaintes éternelles ?
-
--*who_frontin
-Te laisser parler !
-Eh !
-Que pourrais-tu me dire ?
-Nous savons tout.
-Ta maîtresse en épouse un autre que mon maître...
-Monsieur Finot, son prétendu, est arrivé.
-Mais ne crois pas que nous soyons gens à céder ainsi la place ?
-Nous allons paraître ici, mon maître et moi, sommer Isabelle et toi de vous rendre à discrétion ; et sur le refus que vous en ferez, nous assiégerons le Père et la Mère, nous mettrons le Provincial à feu et à sang, et nous emporterons d'assaut la Fille et la Soubrette.
-Voilà notre plan d'attaque ; arrangez-vous pour la défense.
-
--*who_lisette
-Tais-toi donc, nigaud !
-J'ai un plan bien meilleur.
-Il ne sera pas besoin de répandre de sang, ni de prendre la chose au tragique.
-
--*who_frontin
-Comment donc ?
-
--*who_lisette
-Monsieur Lourdis, père d'Isabelle, veut effectivement la marier à un provincial qui vient d'arriver avec sa mère.
-Pour le divertissement de la noce, il veut faire représenter une comédie chez lui ; mais comme c'est un esprit baroque, il voudrait de l'extraordinaire, et il m'a chargé de lui chercher un poète et un musicien ; il ne connaît ni ton maître, ni toi.
-Il faut d'abord vous introduire, en cette qualité.
-
--*who_frontin
-En poète, et en musicien !
-Des militaires !
-
--*who_lisette
-Sans doute.
-Lorsqu'une fois vous serez dans la maison, nous trouverons les moyens d'agir de concert pour empêcher ce mariage.
-
--*who_frontin
-Hem ?
-J'ai bien peur que nous n'en soyons que les témoins.
-
--*who_lisette
-Ne crains rien, te dis-je ; nous réussirons.
-Songe donc que nos maîtres ont pour eux la jeunesse et l'amour.
-
--*who_frontin
-Et la malice féminine !
-Comptes-tu donc cela pour rien ?
-
--*who_lisette
-Pauvre sot !
-Elle vaut toujours bien la bonté masculine...
-Mais revenons à nos affaires.
-D'abord le père, Monsieur Lourdis, est un bourgeois épais, qui s'est enrichi dans le commerce, et qui a la fureur d'avoir de l'esprit.
-Madame Lourdis, sa digne moitié, est une bavarde outrée, jouant le sentiment, et qui à cinquante ans croit n'en avoir que vingt.
-
--*who_frontin
-Bon !
-Le provincial est un sot, cela va sans dire.
-Et sa mère ?...
-
--*who_lisette
-Sa mère le vaut bien.
-
--*who_frontin
-À merveille !
-Moi, j'ai de l'esprit, tu es adroite, nos maîtres ont de l'amour ; les provinciaux doivent baisser pavillon ; il n'y a pas là de réplique.
-
--*who_lisette
-Tais-toi : voilà Monsieur Lourdis qui rêve à sa comédie.
-Je vais te présenter.
-
--*who_frontin
-Oui : mais j'ai peur, que pendant ce temps-là mon maître ne s'impatiente.
-Il est si vif !
-Il pourrait venir faire ici quelque scène qui dérangerait tout.
-
-**** *book_ *id_I02 *act_I *date_1780
-
--*who_lourdis
-Non, non, jamais ma fille n'aurait pu mieux choisir.
-Un bon garçon !
-Riche, jeune, honnête !...
-Ma foi, c'est un très bon parti !
-
--*who_lisette
-Monsieur, que me donnerez-vous pour la bonne nouvelle que je vous apporte ?
-
--*who_lourdis
-Qu'est-ce que c'est ?
-
--*who_lisette
-Voyez-vous bien cet homme-là, Monsieur ?
-
--*who_lourdis
-Oui.
-Eh bien !
-Qu'est-ce que c'est ?
-
--*who_frontin
-Monsieur, je suis...
-Abrège donc le cérémonial ?
-
--*who_lisette
-C'est un homme universel, Monsieur !
-C'est votre bonne étoile qui vous l'envoie.
-
--*who_lourdis
-Oui-da !
-Oh bien !
-Tant mieux !
-
--*who_lisette
-Oui, Monsieur, universel !
-Musique, poésie, décorations, comédies....
-Il s'entend à tout.
-
--*who_lourdis
-Quoi !
-Monsieur est poète ?
-
--*who_frontin
-Sous votre bon plaisir, Monsieur.
-
--*who_lourdis
-Et musicien ?
-
--*who_frontin
-Autant l'un que l'autre.
-
--*who_lourdis
-Parbleu !
-Je me réjouis fort de vous voir ici.
-
--*who_frontin
-Oh mais, Monsieur, j'ai un maître qui est bien autre chose...
-
--*who_lourdis
-Hem !
-
--*who_frontin
-Oui.
-Un homme dont je suis l'élève !
-Un virtuose de la première force !
-Oh, diable ; c'est celui-là qui vous surprendra...
-
--*who_lourdis
-Tant mieux ; voilà ce qu'il nous faut.
-Lisette vous a sans doute dit le sujet de la fête que je voudrais donner.
-
--*who_lisette
-Oui.
-Je lui en ai touché deux mots.
-
--*who_lourdis
-Eh bien !
-Monsieur, voilà ce que c'est...
-Je marie ma fille, comprenez-vous ?
-Son prétendu est ici avec sa mère, et je veux les régaler d'une petite comédie,... faite exprès...
-Vous entendez bien ?
-
--*who_frontin
-Très bien, Monsieur.
-
--*who_lourdis
-Ce sera fort galant, est-il vrai ?
-
--*who_frontin
-Oh !
-Je vous en réponds.
-
--*who_lourdis
-Mais ce n'est pas le tout.
-Je voudrais du neuf, entendez-vous ?
-Quelque chose de gai ; là, du plaisant... : car ma fille, depuis quelque temps, a un fond de chagrin... ; on ne sait d'où cela vient... : mais je voudrais la dissiper ; sentez-vous ?
-
--*who_frontin
-Oui, j'entends votre idée...
-Une plaisanterie ?...
-
--*who_lourdis
-Justement.
-Pour rire.... comme qui dirait... tenez... je vais vous expliquer ça encore plus clairement.
-Imaginez vous, mon gendre est un fort bon garçon ; mais, entre nous, il est un peu neuf, voyez-vous ; cela sort de Province ; ça n'a rien vu, et je voudrais un peu rire à ses dépens...
-Y êtes-vous à présent ?
-Hem !...
-
--*who_frontin
-Oui, oui, Monsieur, je comprends.
-
--*who_lourdis
-Bon, arrangez-nous çà...
-Là, quelque petite drôlerie dans le goût de... dont il soit la dupe pour un moment... là... une manière de poisson d'avril... hem ?
-
--*who_lisette
-Oui.
-Comme, je vous disais, il s'agit de duper le gendre.
-
--*who_lourdis
-Eh !
-Oui ; voilà tout.
-
--*who_frontin
-Oh bien !
-On le dupera, Monsieur, on le dupera.
-
-**** *book_ *id_I03 *act_I *date_1780
-
--*who_madamelourdis
-Monsieur, je ne puis rien répondre à tout cela.
-Mais voilà mon mari ; expliquez-vous avec lui.
-
--*who_frontin
-Ah !
-Morbleu !
-Voilà mon maître ; il a déjà parlé à la femme.
-
--*who_valere
-Ah !
-Monsieur, prenez pitié d'un amoureux passionné qui n'a plus d'espérance qu'en vous.
-
--*who_lisette
-Eh !
-Miséricorde !
-Il va tout gâter.
-
--*who_frontin
-Laisse-moi faire.
-
--*who_lourdis
-Monsieur, que voulez-vous dire ?
-
--*who_valere
-Je viens vous découvrir le secret de mon cœur, et j'attends de vous...
-
--*who_frontin
-Paix.
-Taisez-vous.
-Ah, ah, ah !
-Monsieur, vous n'êtes pas au fait.
-Taisez-vous, vous dis-je.
-Monsieur que voilà...
-C'est une idée plaisante que j'ai eu.
-Ne dites mot.
-C'est mon maître, celui dont je suis l'élève, ce virtuose, dont je vous parlais tout-à-l'heure ; de plus, il est poète, et joue la comédie à merveille.
-
--*who_lourdis
-Ah !
-Monsieur est poète !
-
--*who_valere
-Moi, poète !
-
--*who_frontin
-Oui.
-Oui, Monsieur, poète ; et des plus poètes qui se fassent encore.
-
--*who_madamelourdis
 Pourquoi donc porte-t-il l'uniforme ?
 
--*who_lisette
-Oh !
-C'est... c'est le poète du régiment.
+Oh ! Mon ami, ce n'est rien en comparaison de la scène que Monsieur m'a jouée tout-à-l'heure dans le salon ! C'est cela qu'il fallait voir !
 
--*who_frontin
-Oui, c'est celui qui chante les batailles, les victoires !
-Oh !
-C'est un grand homme, allez !
+Qui ? Moi ! Faire la Mère ! Y pensez-vous donc ?
 
--*who_lourdis
-Peste !
-
--*who_valere
-Mais, à quoi bon ?...
-
--*who_frontin
-Chut !
-J'ai cru qu'il nous serait fort utile pour la comédie que vous voulez représenter ; et comme il joue les amoureux à ravir, il a voulu tout en entrant vous donner à l'impromptu une petite idée de son talent.
-
--*who_lourdis
-Bien, bien, morbleu.
-J'en ai été la dupe, ma foi ; Monsieur à l'air de jouer bien naturellement.
-
--*who_madamelourdis
-Oh !
-Mon ami, ce n'est rien en comparaison de la scène que Monsieur m'a jouée tout-à-l'heure dans le salon !
-C'est cela qu'il fallait voir !
-
--*who_valere
-Comment, jouée ?...
-Mais, explique-moi donc...
-
--*who_frontin
-Écoutez, Monsieur, et vous, Madame, ce que j'ai pensé sur votre comédie...
-Il ne faut pas aller chercher des acteurs plus loin.
-Nous jouerons nous-même.
-Monsieur et moi, nous donnerons le canevas d'une pièce, et chacun remplira son rôle à l'impromptu.
-C'est plus chaud.
-Par exemple, Monsieur, je suis persuadé que vous vous acquitterez très bien du vôtre.
-
--*who_lourdis
-Moi, oh !
-Je vous en réponds.
-Ma foi, tenez, j'avais la même idée que vous.
-
-**** *book_ *id_I04 *act_I *date_1780
-
--*who_finotfils
-Eh bien, beau-père, vous nous laissez tous seuls ?
-
--*who_lourdis
-Un moment, un moment, mon gendre, je suis à vous.
-
--*who_frontin
-Ah !
-C'est donc Monsieur qui est le prétendu ?
-
--*who_lourdis
-Oui, c'est mon gendre.
-
--*who_frontin
-En ce cas-là, honneur à M. le Gendre.
-Monsieur, faites compliment à Monsieur.
-
--*who_valere
-Monsieur, permettez-vous que j'aie l'honneur de vous assurer de l'intérêt...
-
--*who_finotfils
-Monsieur, vous êtes bien bon... assurément... et je ne mérite pas...
-Beau-père, qu'est-ce que c'est que ces gens-là ?
-
--*who_lourdis
-Bon, bon, nous vous mettrons au fait.
-Mais à présent, Messieurs, achevons un peu, pour notre pièce.
-
--*who_frontin
-Eh bien, Monsieur, le plan sera, comme à l'ordinaire, une intrigue amoureuse.
-Une jeune fille aura un amant qui sera, comme cela se pratique, traversé par un rival laid et maussade, comme c'est encore l'usage.
-Tenez, supposons que ce soit Monsieur qui fasse le rôle.
-
--*who_lourdis
-Oui, bon !
-
--*who_finotfils
-Comment donc, Monsieur, maussade !
-
--*who_lourdis
-Oui, laissez donc, je vous dis qu'on vous expliquera tout cela.
-Après, Monsieur ?
-
--*who_frontin
-Eh bien !
-Après ce rival laid et maussade, comme Monsieur, disons-nous, sera protégé par les parents ; mais l'Amoureux aura pour lui le cœur de la Demoiselle et la Suivante de la maison, fille qui doit être fort adroite.
-
--*who_lisette
-J'entends, Monsieur ; voilà qui me regarde.
-
--*who_frontin
-Bon.
-Pour les aider, nous mettrons encore dans leurs intérêts un certain Valet fourbe de profession...
-
--*who_lourdis
-Qui est-ce qui jouera ce fripon-là ?
-
--*who_frontin
-Moi, Monsieur ; à votre service.
-
--*who_lourdis
-Fort bien.
-
--*who_frontin
-Et ils chercheront ensemble les moyens de duper le Rival, le Père et la Mère, et de couronner leur amour par un bon mariage, comme c'est aussi la conclusion de toutes les pièces.
-
--*who_lourdis
-À merveille.
-Voilà tout ce qu'il faut.
-
--*who_frontin
-Maintenant procédons à la distribution des rôles.
-Toi ; vas prévenir ta maîtresse.
-
--*who_lisette
-Bon, j'y vais.
-
-**** *book_ *id_I05 *act_I *date_1780
-
--*who_frontin
-Vous, Monsieur, vous avez de la chaleur et du raisonnement, vous nous jouerez fort bien le Père.
-Est-il vrai ?
-
--*who_lourdis
-Oui, parbleu !
-Je le jouerai, et je vous en dirai de bonnes même.
-
--*who_frontin
-Vous, Madame, vous ferez la Mère.
-
--*who_madamelourdis
-Qui ?
-Moi !
-Faire la Mère !
-Y pensez-vous donc ?
-
--*who_frontin
-Oui, Madame, vous avez de la dignité, cela vous ira fort bien.
-
--*who_madamelourdis
 Non, Monsieur, non, je ferai l'Amoureuse.
 
--*who_lourdis
-Comment, l'Amoureuse ?
-
--*who_madamelourdis
 Oui, mon cher époux, l'Amoureuse.
 
--*who_frontin
-Mais, avec votre permission, Madame, cela ne se peut pas.
+Pourquoi donc pas ? À votre avis, suis-je laide, vieille, hideuse ?
 
--*who_madamelourdis
-Pourquoi donc pas ?
-À votre avis, suis-je laide, vieille, hideuse ?
-
--*who_frontin
-Oh !
-Non.
-
--*who_madamelourdis
 Croyez-vous qu'on manque de maintien ?
 
--*who_valere
-Non, Madame ; mais...
-
--*who_madamelourdis
 Il n'y a pas de mais, Monsieur ; apprenez, qu'on n'en est pas encore à faire les rôles de Mère.
 
--*who_lourdis
-Mais quel diable d'embarras !
-Voulez-vous que ce soit votre fille qui les fasse ?
+Eh bien ! Mon cher ami, si cela vous fait plaisir, je veux bien vous faire ce sacrifice-là. Je jouerai la Mère : mais cela ne m'ira point du tout ; vous le verrez.
 
--*who_frontin
-Effectivement, Madame, il faut vous prêter aux circonstances.
-
--*who_lourdis
-Eh, parbleu !
-Oui ; vous voyez bien, moi je fais le Père, et certainement si je voulais...
-Mais je n'en parle pas ; je vous donne l'exemple.
-
--*who_madamelourdis
-Eh bien !
-Mon cher ami, si cela vous fait plaisir, je veux bien vous faire ce sacrifice-là.
-Je jouerai la Mère : mais cela ne m'ira point du tout ; vous le verrez.
-
--*who_valere
-Ah ?
-Comme cela, Madame, les situations seront bien plus naturelles.
-Mademoiselle votre fille jouera l'Amoureuse, Monsieur le prétendu jouera le Rival, et moi l'Amant ; vous avez la Soubrette, et Monsieur fera le Valet.
-
--*who_finotfils
-Mais je ne comprends pas, moi...
-
--*who_lourdis
-Ne vous inquiétez pas ; je vous ferai comprendre ça, moi : je vous expliquerai votre rôle.
-
--*who_frontin
-Écoutez, Monsieur, vous n'avez qu'à prévenir tout votre monde.
-En attendant que vos spectateurs soient arrivés, envoyez-nous Mademoiselle votre fille, nous allons faire une répétition avec elle, pour prendre l'intelligence des caractères.
-
--*who_lourdis
-C'est bien pensé.
-Nous répéterons ici, mon gendre.
-Allons chercher Mme Finot.
-Vous, ma chère amie, allez avertir votre fille.
-Toi, Lisette, reste avec ces Messieurs, pour arranger ici tout ce qu'il faudra...
-Nous allons vous amener tous les Acteurs.
-
-**** *book_ *id_I06 *act_I *date_1780
-
--*who_frontin
-Eh bien !
-Lisette, as-tu prévenu ta maîtresse ?
-
--*who_lisette
-Pas encore ; je n'ai pu l'approcher, Madame Finot ne la quitte pas.
-
--*who_valere
-Il est cependant nécessaire de l'avertir, de peur que sa surprise ne nous trahisse...
-Voilà tout ce qu'il faut pour écrire.
-Je vais lui faire une lettre, pour la prévenir sur notre projet.
-
--*who_frontin
-C'est bien pensé...
-Nous, songeons à notre dénouement ; c'est l'essentiel.
-Écoute, Lisette, connaîtrais-tu un notaire aguerri ?
-
--*who_lisette
-Oui, oui, j'ai ce qu'il nous faut.
-
--*who_frontin
-Tant mieux ; que le contrat soit bien en règle, entends-tu ?
-Qu'il se tienne prêt au moindre signal.
-Vole, et reviens.
-
--*who_lisette
-Sois tranquille ; je réponds de tout.
-
-**** *book_ *id_I07 *act_I *date_1780
-
--*who_valere
-Comment, tu renvoies Lisette ?
-Et ma lettre pour Angélique, par qui la lui faire tenir à présent ?
-
--*who_frontin
-Par qui ?...
-Ma foi, voilà le père qui revient ; il n'y pas à balancer.
-Il faut qu'il fasse lui-même la commission, sans s'en douter.
-
-**** *book_ *id_I08 *act_I *date_1780
-
--*who_lourdis
-Voilà notre monde que je vous amène.
-
--*who_valere
-Un instant, Monsieur, j'ai fait des réflexions sur notre petit impromptu, et comme vous me paraissez avoir une excellente tête, je ne vous dis rien sur votre rôle ; mais j'ai cru nécessaire d'en donner une petite idée à Mademoiselle votre fille, qui doit être plus neuve que vous.
-
--*who_lourdis
-Oui, vous avez raison.
-
--*who_valere
-Pour lui faciliter son rôle, nous la prenons dans la situation actuelle de son esprit.
-Elle a un fond de chagrin, dites-vous ?
-
--*who_lourdis
-Oui, une mélancolie, on ne sait ce que c'est.
-
--*who_valere
-Eh bien, Monsieur, nous supposons que cette tristesse que vous lui voyez, vient de la perte d'un amant qu'elle regrette.
-
--*who_lourdis
-Comment, d'un amant ?
-
--*who_frontin
-Oui, oui, Monsieur, avec les jeunes filles on peut supposer cela ; d'ailleurs, voyez-vous c'est situation de roman.
-
--*who_lourdis
-Ah, bon, je comprends.
-
--*who_valere
-Nous supposons donc qu'elle est triste de la perte d'un amant qu'elle regrette, et de la nécessité où elle se trouve de prendre un époux qu'elle n'aime pas.
-
--*who_frontin
-Comprenez-vous à présent ?
-
--*who_lourdis
-Oui, oui, bien vu.
-Il me paraît bien habile cet homme-là ?
-
--*who_frontin
-Oh !
-Je vous en réponds.
-C'est le premier homme du monde pour une intrigue amoureuse, et surtout pour un dénouement ; il est expéditif.
-
--*who_lourdis
-Bon.
-C'est ce qu'il faut.
-
--*who_valere
-Suivons l'idée, Monsieur ; voici une lettre que vous ferez remettre à Mademoiselle votre fille, comme de la part de cet amant supposé, de...
-Valère, par exemple ; elle sera d'abord surprise, comme bien vous pensez.
-
--*who_lourdis
-Parbleu !
-Je vous le demande.
-
--*who_valere
-Alors, j'arriverai, moi, faisant le personnage de ce Valère, et... après... le reste ira de suite.
-
--*who_lourdis
-Bon, bon, je m'en rapporte à vous.
-Vous m'avez l'air d'un gaillard !...
-Allons, allons, tant mieux, nous rirons.
-
--*who_frontin
-Oh !
-Pour cela, je vous en réponds, allez.
-
--*who_valere
-Les voilà qui viennent, préparez tout cela.
-Nous allons nous retirer un instant pour ménager la surprise, et nous ne paraîtrons que lorsqu'il en sera temps.
-
--*who_lourdis
-Bien dit : je vais parler à ma fille, et mettre tous nos acteurs sur la voie.
-
-**** *book_ *id_I09 *act_I *date_1780
-
--*who_madamelourdis
 Mon ami, nous commencerons quand vous voudrez.
 
--*who_madamefinot
-Ce n'est pas parce que Finot est mon fils, mais je vous réponds qu'il jouera bien son rôle.
+Laissez-moi faire... Que vois-je ! Un homme baiser la main d'Angélique !
 
--*who_finotfils
-Oh, pour ça oui, ma mère.
-
--*who_lisette
-D'abord, Monsieur est on ne peut pas mieux dans le caractère.
-
--*who_lourdis
-Allons, Mesdames, prenez des chaises.
-Paix Lisette.
-Écoute toi, Angélique.
-Nous allons, comme je t'ai dit, jouer une Comédie à l'Impromptu...
-
--*who_angelique
-Mais, mon père...
-
--*who_lourdis
-Eh bien, quoi ?
-Vas tu encore me dire que tu es chagrine ?
-C'est justement pour cela, ça t'égayera.
-C'est un petit divertissement qu'on te donne...
-Écoute-moi donc.
-Il faut supposer que tu as un amoureux en campagne...
-
--*who_finotfils
-Comment, un amoureux, et moi donc...
-
--*who_lourdis
-Eh oui, mon gendre, un amoureux...
-Laissez-nous donc faire, laissez-nous conduire cela.
-Voilà l'esprit de ton rôle, entends-tu, ma fille ?
-Cet amoureux sait ton futur mariage, il en est très piqué, et il t'a écrit cette lettre.
-
--*who_lisette
-Une lettre ; doucement, Monsieur, vous allez sur mes brisées.
-Ceci est de l'emploi des confidentes.
-Asseyez-vous, Monsieur ; et nous, Mademoiselle, en scène, s'il vous plaît.
-
--*who_lourdis
-À la bonne heure, j'y consens, voyons un peu comment vous vous en tirerez toutes les deux.
-
--*who_angelique
-Mais, Lisette, es-tu folle de vouloir que je me porte à une pareille extravagance ?
-
--*who_lisette
-Non, Mademoiselle, je connais vos chagrins et je veux les dissiper.
-Apprenez que votre amant va paraître, qu'il va mettre tout en œuvre pour vous arracher des mains de son rival, que je le seconde dans son projet ; et qu'enfin voilà une lettre de sa part.
-
--*who_angelique
-Ah !
-Lisette, cesse ce jeu cruel.
-
--*who_lisette
-Mais, Mademoiselle, ce n'est point un jeu.
-Lisez vous-même et reconnaissez l'écriture.
-
--*who_angelique
-Ciel !
-Que vois-je ?
-
--*who_lourdis
-Fort bien, ma fille, bien naturellement.
-
--*who_madamefinot
-Oui, très bien.
-
--*who_lisette
-Lisez, Mademoiselle.
-
--*who_angelique
-« Ma chère Angélique, il est donc vrai qu'un rival odieux veut m'enlever ce que j'ai de plus cher au monde...
-Mais il n'est pas temps de nous répandre en plaintes inutiles, il faut agir.
-Je vous avertis donc de ne vous étonner de rien.
-Vous m'allez bientôt voir en présence même de vos parents, et nous chercherons ensemble devant eux les moyens de nous soustraire à leur tyrannie.
-Le plus tendre et le plus fidèle amant, VALÈRE.»
-
--*who_lourdis
-Bien imaginé, morbleu !
-Cette lettre-là prépare l'intrigue à merveille, est-il vrai, Mesdames ?
-
--*who_madamefinot
-Oui, je vois déjà que voilà un rival pour mon fils, tiens-toi bien, Finot.
-
--*who_finotfils
-Oh !
-Que oui, ma mère.
-
--*who_lourdis
-Chut, paix.
-Allons, courage, Angélique, égaye-toi.
-
--*who_lisette
-Sans doute, Mademoiselle, la situation l'exige.
-
--*who_angelique
-Ah !
-Ma chère Lisette, est-il possible !
-Cette Comédie !
-Valère...
-Ah !
-Je n'ose...
-
--*who_lisette
-Osez tout, Mademoiselle, osez tout.
-
--*who_lourdis
-Eh !
-Oui, je te dis, livre-toi.
-
--*who_angelique
-Non, Lisette, je me flatte mal à propos.
-Cette lettre n'est sans doute qu'une illusion.
-Ce Valère, ce nom si cher à mon cœur, n'est peut-être ici qu'un nom pris à plaisir...
-Et le véritable Valère, celui qui me cause tant d'alarmes...
-
-**** *book_ *id_I10 *act_I *date_1780
-
--*who_valere
-Il est à vos pieds, chère Angélique !
-Il vous adore.
-
--*who_angelique
-Ciel !
-
--*who_lourdis
-Ah !
-Mes enfants !
-Le beau tableau !
-Ma foi, j'en ai la larme à l'œil.
-
--*who_frontin
-Paix donc, Monsieur ; ne troublez pas l'enthousiasme.
-Continuez, Mademoiselle, et parlez hardiment.
-Vous devez être au fait à présent.
-
--*who_lourdis
-Oui, ma fille ; du cœur.
-Imagine-toi que tout cela est véritable.
-
--*who_frontin
-Eh, sans doute ; il n'y a que cela pour bien jouer.
-
--*who_finotfils
-Véritable !
-Oh, quoique çà, je vois toujours ben que c'est un semblant, moi.
-Pas vrai, ma mère ?
-
--*who_lisette
-Assurément, Monsieur.
-Oh !
-Vous prenez fort bien la chose.
-
--*who_frontin
-Ici, Madame !
-Il faut que vous surpreniez les Amants...
-Vous, Monsieur, pour rendre la scène plus piquante, baisez bien tendrement la main à Mademoiselle.
-Fort bien...
-Allez Madame, jouez l'étonnement.
-
--*who_madamelourdis
-Laissez-moi faire...
-Que vois-je !
-Un homme baiser la main d'Angélique !
-
--*who_lourdis
-Bien pris !
-Ma foi, bien battu chaud !
-
--*who_madamefinot
-Oui, voilà une belle situation !
-
--*who_finotfils
-Mais moi, ma mère, quand est-ce donc que j'entrerai ?
-
--*who_frontin
-Eh !
-Monsieur, vous n'avez pas encore affaire là.
-
--*who_lourdis
-Oui, oui, l'on vous avertira.
-Allez, ma femme, allez.
-
--*who_madamelourdis
 Monsieur, que cherchez-vous ici ?
 
--*who_valere
-Hélas !
-Madame, je ne vous cache point que c'est l'amour qui m'a conduit.
-
--*who_madamelourdis
 L'amour ?
 
--*who_valere
-Oui, l'amour le plus tendre a pénétré mon cœur.
+Ce pauvre jeune homme... En vérité, me voilà toute émue.
 
--*who_madamelourdis
-Ce pauvre jeune homme...
-En vérité, me voilà toute émue.
+Allez, allez, petite fille, retirez-vous ; vous n'avez pas affaire ici... Et vous, mon enfant, dites-moi...
 
--*who_valere
-Ah !
-Madame, daignez nous être favorable.
+Point du tout. Monsieur me parle d'amour, et il me semble qu'il ne faut pas de témoins pour gêner sa déclaration.
 
--*who_angelique
-Ma mère, que je vous aurai d'obligation !
+Comment ! Ce n'est pas moi ?
 
--*who_madamelourdis
-Allez, allez, petite fille, retirez-vous ; vous n'avez pas affaire ici...
-Et vous, mon enfant, dites-moi...
+Ah ! C'est vrai. Je n'y pensais plus. Vous voyez bien, mon ami, ce rôle-là ne m'ira jamais.
 
--*who_frontin
-Pardon, Madame ; mais il me semble que vous oubliez la situation.
+Hélas ! Mon cher époux, c'est que cela me rappelle nos amours, et je ne saurais jouer cela de sang-froid.
 
--*who_madamelourdis
-Point du tout.
-Monsieur me parle d'amour, et il me semble qu'il ne faut pas de témoins pour gêner sa déclaration.
-
--*who_frontin
-Oui, Madame, Monsieur parle d'amour, mais ce n'est pas vous que cela regarde.
-
--*who_madamelourdis
-Comment !
-Ce n'est pas moi ?
-
--*who_lisette
-Et non, vraiment ; c'est votre fille.
-Souvenez-vous donc que vous êtes la Mère.
-
--*who_madamelourdis
-Ah !
-C'est vrai.
-Je n'y pensais plus.
-Vous voyez bien, mon ami, ce rôle-là ne m'ira jamais.
-
--*who_lourdis
-Tubleu !
-Ma femme, comme vous prenez feu !
-
--*who_madamelourdis
-Hélas !
-Mon cher époux, c'est que cela me rappelle nos amours, et je ne saurais jouer cela de sang-froid.
-
--*who_lourdis
-Eh bien !
-Madame, pour vous calmer un peu, je vais entrer, moi.
-
--*who_frontin
-Oui-dà.
-Aussi bien il est temps de mettre en jeu Monsieur Finot.
-
--*who_lourdis
-Je vais le présenter.
-Allons, mon gendre, à nous.
-
--*who_frontin
-Un instant, Monsieur, filons la scène.
-Au bruit que vous faites avant d'entrer nous redoublons nos instances auprès de Madame qui s'attendrit et nous promet son appui contre vous.
-Alors on nous fait cacher dans le cabinet.
-Cela donnera matière à d'autres incidents.
-
--*who_lourdis
-Fort bien.
-À nous maintenant.
-
--*who_madamefinot
-Allons, Finot, redresse-toi bien.
-
--*who_lourdis
-Ma femme, et vous, ma fille, réjouissez-vous.
-Voilà mon gendre arrivé, et je vous le présente.
-Ne le trouvez-vous pas joli garçon ?
-
--*who_finotfils
-Ah !
-Monsieur...
-
--*who_madamelourdis
 Il est fort bien tourné.
 
--*who_finotfils
-Ah !
-Madame...
+Un valet, ah Ciel ! Et ma fille ?
 
--*who_lisette
-Monsieur a quelque chose de très revenant.
-
--*who_finotfils
-Ah !
-Mademoiselle...
-
--*who_madamefinot
-Oh !
-Mon fils n'est pas mal quand il veut.
-
--*who_finotfils
-Ah !
-Ma mère...
-
--*who_frontin
-Prenez garde, Monsieur, Madame n'est pas de la Pièce.
-
--*who_finotfils
-Ah !
-Non, non.
-
--*who_lourdis
-Allons, mon gendre, dites quelque chose d'agréable à la Future.
-
--*who_finotfils
-Ma mère, si je disais c'te chanson que j'ai faite exprès ?
-
--*who_lisette
-Une déclaration en musique !
-Écoutons cela.
-
--*who_finotfils
-Ah !
-Mais, Mademoiselle, je n'en sais pas encore la musique, il n'y a que les paroles de faites.
-
--*who_lisette
-C'est bien dommage : mais voyons toujours les paroles.
-
--*who_finotfils
-Ma chère demoiselle,
-Si charmante et si belle,
-Vous enchantez le cœur
-De votre serviteur.
-
--*who_lourdis
-De votre serviteur !
-C'est très poétique.
-
--*who_frontin
-Quand il y aura une musique analogue...
-
--*who_lisette
-Oui, ce sera piquant.
-Après, Monsieur.
-
--*who_finotfils
-Près de vous je soupire,
-Et je ne sais que dire ;
-Mais si j'y perds mes soins,
-Je n'en pense pas moins.
-
--*who_lisette
-Il n'en pense pas moins !...
-Y en a-t-il encore ?
-
--*who_finotfils
-Voilà le dernier...
-Si j'ai votre suffrage,
-Si l'hymen nous engage,
-Vous verrez votre époux
-Sans cesse à vos genoux.
-
--*who_lisette
-À vos genoux !
-C'est galant cela, Mademoiselle !
-
--*who_madamefinot
-Viens, mon fils, viens Finot, il faut que je t'embrasse.
-
--*who_frontin
-De grâce, Madame, n'interrompez donc pas ?
-
--*who_madamefinot
-Pardon, Monsieur ; c'est un premier mouvement, dont je n'ai pas été la maîtresse.
-
--*who_lisette
-C'est bien naturel, bon sang ne peut mentir.
-Embrassez-vous.
-Allez, Madame, vous tenez bien l'un de l'autre.
-
--*who_frontin
-Allons, allons au fait.
-Monsieur, parlez un peu du contrat.
-
--*who_lourdis
-Bon, bon ; laissez-moi faire.
-Mon gendre, je suis enchanté de vous ; et comme il me paraît que ces dames pensent comme moi sur votre compte, je veux terminer au plutôt votre mariage ; et de ce pas je vais chez mon notaire faire dresser les articles du contrat.
-
--*who_frontin
-Fort bien, Monsieur ; voilà une sortie sort bien ménagée.
-
--*who_lourdis
-Oh !
-Je connais un peu mon théâtre.
-Je ne suis pas encore en train ; mais ce soir, quand il y aura du monde...
-Vous verrez, vous verrez à l'exécution.
-
--*who_lisette
-Mais, Monsieur, l'autre Amoureux, qui est caché et qui a tout entendu, doit être furieux de la préférence qu'on donne à son rival.
-
--*who_lourdis
-Ah !
-Dame, oui ; que faire de lui à présent ?
-
--*who_frontin
-Eh, parbleu !
-Rien de plus simple.
-C'est un Officier, il faut qu'il se conduise en militaire ; est-il vrai ?
-Qu'il vienne proposer un cartel à l'autre et qu'il le fasse déguerpir.
-Qu'en pensez-vous ?
-
--*who_lourdis
-Oui...
-Diable !
-Cela va faire une scène d'éclat.
-Je parie que mon gendre a peur.
-
--*who_frontin
-C'est fait exprès.
-Allons, Monsieur, sortez du cabinet en fureur ; vous, Lisette, allez chercher celui qui doit faire le Notaire.
-
-**** *book_ *id_I11 *act_I *date_1780
-
--*who_lourdis
-Avez-vous quelqu'un pour cela ?
-
--*who_frontin
-Oui, oui, soyez tranquille ; tout est prévu.
-
--*who_valere
-Ciel !
-Qu'ai-je entendu ?
-Madame, je compte sur vos bontés que j'implore.
-Et toi, qui viens pour m'enlever l'objet de mon amour, commence auparavant par m'arracher le cœur.
-
--*who_finotfils
-Eh bien !
-Monsieur, au secours donc.
-
--*who_madamefinot
-Qu'est-ce que c'est donc, Monsieur ?
-Je ne veux pas que mon fils se batte, moi.
-
--*who_frontin
-Eh !
-Madame, vous interrompez au plus bel endroit ; laissez donc faire.
-
--*who_lourdis
-Eh !
-Oui, Madame, c'est le jeu de la scène.
-
--*who_madamefinot
-Oh !
-Scène tant qu'il vous plaira ; mais mon fils ne se battra pas.
-Comment donc, un fils unique !
-
--*who_frontin
-Eh !
-Non, Madame, il ne faut pas qu'il se batte non plus, au contraire.
-Il faut que Monsieur soutienne son caractère, qu'il ait peur, qu'il tremble, et que pour sauver sa vie il cède sa maîtresse à Monsieur.
-
--*who_lourdis
-Sans doute : voilà justement mon idée.
-Suivez donc le fil.
-
--*who_madamefinot
-À la bonne heure, sitôt que mon fils n'est pas obligé de se battre...
-
--*who_frontin
-Non, Madame.
-Vous voyez que Monsieur a bien mieux saisi l'intention du rôle.
-Tenez, regardez-le.
-
--*who_lourdis
-Comment donc !
-Fort bien, mon gendre !
-Bien naturellement, ma foi !
-
-**** *book_ *id_I12 *act_I *date_1780
-
--*who_lisette
-Voici le notaire ; peut-il entrer ?
-
--*who_frontin
-Un instant.
-Vous, Monsieur, préparez l'entrée du notaire.
-
--*who_valere
-Eh bien !
-Monsieur, je vous laisse le choix, ou de renoncer tout-à-l'heure à Mademoiselle, ou de me disputer son cœur l'épée à la main.
-
--*who_madamefinot
-Allons, allons, Finot ; point de dispute.
-
--*who_finotfils
-Monsieur, puisque Mademoiselle vous plaît...
-Et que vous lui plaisez aussi...
-Et que cela plaît à Madame...
-Je serais fâché de lui déplaire...
-C'est pourquoi...
-Je vous la cède, Monsieur.
-
--*who_lourdis
-Point mal du tout, en vérité.
-
--*who_valere
-En ce cas, Lisette, avertissez le notaire ; et vous, Monsieur, vous me présenterez au père de Mademoiselle, comme un de vos amis qui signe pour témoin.
-
--*who_finotfils
-Oui, Monsieur.
-
--*who_lourdis
-Voilà ce que c'est, entrons.
-
-**** *book_ *id_I13 *act_I *date_1780
-
--*who_lourdis
-Eh !
-C'est Monsieur Bonne-foi.
-
--*who_bonnefoi
-Pour vous servir, Monsieur ; voici le contrat que vous m'avez fait demander.
-
--*who_lourdis
-Parbleu !
-On appelle cela être véritablement dans le costume de son rôle !
-Et son sérieux !
-Vois-tu, ma femme ?
-
--*who_bonnefoi
-Son rôle !
-Que voulez-vous dire ?
-
--*who_lourdis
-Ah !
-Vous en jouez donc aussi, vous ?
-
--*who_bonnefoi
-Comment ?
-Si j'en joue ?
-
--*who_frontin
-Eh !
-Messieurs, finissons d'abord notre affaire ; nous aurons le temps de jaser après.
-
--*who_lourdis
-C'est bien dit ; finissons.
-
--*who_bonnefoi
-Monsieur, il n'y a plus que les noms et qualités du futur.
-
--*who_valere
-Mettez Monsieur, Capitaine au Régiment de...
-
--*who_bonnefoi
-Capitaine...
-Mais on m'avait dit...
-
--*who_lourdis
-Non, non ; mettez toujours comme dit Monsieur ; ça rend la scène plus plaisante...
-
--*who_frontin
-Infiniment.
-
--*who_bonnefoi
-Comme vous voudrez : Capitaine au Régiment de...
-
--*who_valere
-Vous voyez bien, c'est naturel comme cela.
-Mais vous ne devez pas l'entendre, vous, parce qu'il est censé qu'on vous trompe...
-
--*who_lourdis
-Ah !
-Oui, oui, je comprends...
-C'est comme témoin...
-
--*who_frontin
-Oui, vous y êtes.
-
--*who_bonnefoi
-À vous à signer, Madame.
-
--*who_madamefinot
-Signerons-nous aussi.
-
--*who_frontin
-La peste !
-N'y manquez pas.
-C'est un jeu de théâtre nécessaire.
-
--*who_lourdis
-Oui, oui ; cela ne coûte pas davantage.
-Il faut, autant qu'on le peut, mettre de la vérité partout...
-Donnez-moi la plume.
-
--*who_frontin
-C'est-il fait, Monsieur ?
-
--*who_lourdis
-Oui, Christophe Lourdis, avec paraphe encore.
-
--*who_frontin
-C'est bien, Monsieur, la Pièce est finie.
-
--*who_lourdis
-Et comment la nommerons-nous ?
-Le Provincial dupé, n'est-ce pas.
-
--*who_frontin
-Non, Les Dupes.
-
--*who_lourdis
-Pourquoi Les Dupes, il n'y a que mon gendre qui l'a été un instant à la scène de l'épée.
-
--*who_finotfils
-Moi, oh que nenni, j'ai bien vu que c'était un détour.
-
--*who_lourdis
-Allons, allons, mon gendre, convenez que vous avez eu peur là, franchement, n'est-il pas vrai, Madame Finot ?
-
--*who_madamefinot
-Oh !
-Oui, je ne m'en cache pas.
-
--*who_lourdis
-Bien, bien, remettez-vous, allez, c'est une plaisanterie que nous avons voulu faire pour vous égayer un peu ; mais pour vous dédommager pendant que Monsieur Bonne-Foi est là, nous allons signer le véritable contrat.
-
--*who_bonnefoi
-Le véritable contrat !
-
--*who_lourdis
-Sans doute, celui-là n'en est pas un, voyez-vous ; c'est un badinage que nous avons fait entre nous, comprenez-vous, une petite Comédie que nous avons jouée pour passer le temps.
-
--*who_bonnefoi
-Comment, une Comédie !
-
--*who_lourdis
-Eh !
-Oui, une Comédie, est-ce que vous n'étiez pas prévenu ?...
-Eh !
-Morbleu, c'est excellent, vous étiez donc la dupe aussi vous ?
-Ah !
-Bravo, bravo, les dupes, oui, vous aviez raison.
-
--*who_lisette
-Oh !
-Il y en a encore une.
-
--*who_bonnefoi
-Je le crois.
-Ma foi, mon cher Monsieur, je ne sais si vous avez cru jouer une Comédie, ni quel rôle vous avez dû y remplir ; mais vous savez du moins que le Notaire est réel, et je puis vous assurer que le dénouement est véritable.
-
--*who_lourdis
-Qu'est-ce que vous me contez ici de Notaire et de dénouement ?...
-Entendons-nous donc un peu...
-Vous, Monsieur le Musicien, Auteur...
-
--*who_frontin
-Vous me faites trop d'honneur, Monsieur, je ne suis plus qu'un valet.
-
--*who_madamelourdis
-Un valet, ah Ciel !
-Et ma fille ?
-
--*who_lisette
-Elle est mariée, Madame.
-
--*who_madamefinot
-Mariée !
-Et Monsieur ?
-
--*who_frontin
-C'est l'époux de Mademoiselle.
-
--*who_finotfils
-Son époux !
-Et moi donc ?
-
--*who_lisette
-Vous, Monsieur, vous êtes une des dupes en question.
-
--*who_lourdis
-Ah !
-Ventrebleu, j'y suis ; et moi l'autre, n'est-ce pas ?
-
--*who_frontin
-Pardon, Monsieur, mais rappelez-vous l'intention ; vous m'avez payé pour duper, j'ai voulu bien gagner votre argent.
-
--*who_finotfils
-Oui-da, oh bien, Monsieur, vous m'avez dupé à la répétition ; mais ne comptez pas sur moi pour la Pièce, vous la jouerez tout seul, pas vrai, ma mère ?
-
--*who_lisette
-Consolez-vous, allez, Monsieur, où le rôle de l'Amant commence, celui de rival est fini.
-
--*who_madamefinot
-Oh !
-Tout est est bel et bon, mais il n'y a rôle qui arrête.
-Madame, vous m'avez donné votre parole, et je m'y tiens.
-
--*who_madamelourdis
 Mais je compte bien vous la tenir aussi.
 
--*who_frontin
-Comment, Madame, vous avez si bien joué votre rôle avec tant d'âme et de sentiment !...
-Et vous Monsieur, vous aviez si bien saisi le caractère du vôtre, voudriez-vous vous démentir au dénouement...
-Monsieur le Notaire, parlez donc un peu pour nous, les dénouements vous regardent.
 
--*who_bonnefoi
-Effectivement, Monsieur, les choses font bien avancées maintenant.
-Le contrat est signé, l'on ne peut plus s'en dédire...
-Mais je connais Monsieur, et je puis vous assurer que c'est un très bon parti pour Mademoiselle.
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
--*who_lourdis
-Allons, en ce cas là, il n'y a que demi-mal.
-Madame Finot, arrangeons-nous à l'amiable ; j'ai ma seconde fille au couvent, je vous l'offre pour votre fils en dédommagement de cette petite plaisanterie-là.
+Mais, mon père...
 
--*who_madamefinot
-À la bonne heure, j'y consens.
+Mais, Lisette, es-tu folle de vouloir que je me porte à une pareille extravagance ?
 
--*who_finotfils
-À condition qu'il n'y aura pas de Comédie pour la noce toujours.
+Ah ! Lisette, cesse ce jeu cruel.
 
--*who_lourdis
-Il y avait longtemps que j'avais le plan d'une Comédie dans ma tête, il ne me manquait plus que le sujet, le voilà tout trouvé.
+Ciel ! Que vois-je ?
 
--*who_frontin
-Et pour que la fête soit complète, Monsieur, admirez notre prévoyance, nous avons encore fait préparer un petit Ballet, dont nous allons vous donner le divertissement.
+« Ma chère Angélique, il est donc vrai qu'un rival odieux veut m'enlever ce que j'ai de plus cher au monde... Mais il n'est pas temps de nous répandre en plaintes inutiles, il faut agir. Je vous avertis donc de ne vous étonner de rien. Vous m'allez bientôt voir en présence même de vos parents, et nous chercherons ensemble devant eux les moyens de nous soustraire à leur tyrannie. Le plus tendre et le plus fidèle amant, VALÈRE.»
 
--*who_lourdis
-Ah !
-Parbleu, cela est trop honnête ; allons, Madame Finot, laissons-là la rancune, et prenons tous part à la fête.
+Ah ! Ma chère Lisette, est-il possible ! Cette Comédie ! Valère... Ah ! Je n'ose...
 
--*who_frontin
-Vous n'attendrez pas longtemps, entrez, Messieurs.
+Non, Lisette, je me flatte mal à propos. Cette lettre n'est sans doute qu'une illusion. Ce Valère, ce nom si cher à mon cœur, n'est peut-être ici qu'un nom pris à plaisir... Et le véritable Valère, celui qui me cause tant d'alarmes...
 
-VAUDEVILLE.
+Ciel !
 
--*who_lisette
-Quand pour épouser une Belle
-On amène un Provincial,
-La Scène s'entame avec elle,
-Presque toujours par un Rival.
-C'est l'amant de Province,
-Malgré le Papa, la Maman,
-Qui fait toujours le rôle le plus mince,
-Et s'en retourne au dénouement.
+Ma mère, que je vous aurai d'obligation !
 
--*who_lourdis
-Tout ici-bas est Comédie,
-Jusqu'aux projets des amoureux ;
-Chacun fait son rôle en la vie,
-Mais chaque acteur n'est pas heureux.
-On va de scène en scène,
-On débute facilement ;
-Mais c'est la fin qui coûte plus de peine,
-Et l'écueil est au dénouement.
-
--*who_valere
-Dans la richesse et la fortune
-Faire consister le bonheur,
-Cette erreur n'est que trop commune,
-Mais n'a jamais séduit mon cœur.
-Ah ! si dans cette vie
-Nous disposons d'un seul moment ;
-Si ce moment n'est qu'une Comédie,
-Qu'amour en soit le dénouement.
-
--*who_angelique
 Si l'amour est une folie,
 Au moins il promet d'heureux jours ;
 D'une agréable Comédie,
@@ -1396,7 +78,211 @@ Pour confidente au sentiment,
 Pour notre intrigue adoptons la tendresse,
 Et le bonheur pour dénouement.
 
--*who_finotfils
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Mais écoute donc...
+
+Parle donc, original...
+
+Mais enfin, maudit bavard, me laisseras-tu parler avec tes complaintes éternelles ?
+
+Tais-toi donc, nigaud ! J'ai un plan bien meilleur. Il ne sera pas besoin de répandre de sang, ni de prendre la chose au tragique.
+
+Monsieur Lourdis, père d'Isabelle, veut effectivement la marier à un provincial qui vient d'arriver avec sa mère. Pour le divertissement de la noce, il veut faire représenter une comédie chez lui ; mais comme c'est un esprit baroque, il voudrait de l'extraordinaire, et il m'a chargé de lui chercher un poète et un musicien ; il ne connaît ni ton maître, ni toi. Il faut d'abord vous introduire, en cette qualité.
+
+Sans doute. Lorsqu'une fois vous serez dans la maison, nous trouverons les moyens d'agir de concert pour empêcher ce mariage.
+
+Ne crains rien, te dis-je ; nous réussirons. Songe donc que nos maîtres ont pour eux la jeunesse et l'amour.
+
+Pauvre sot ! Elle vaut toujours bien la bonté masculine... Mais revenons à nos affaires. D'abord le père, Monsieur Lourdis, est un bourgeois épais, qui s'est enrichi dans le commerce, et qui a la fureur d'avoir de l'esprit. Madame Lourdis, sa digne moitié, est une bavarde outrée, jouant le sentiment, et qui à cinquante ans croit n'en avoir que vingt.
+
+Sa mère le vaut bien.
+
+Tais-toi : voilà Monsieur Lourdis qui rêve à sa comédie. Je vais te présenter.
+
+Monsieur, que me donnerez-vous pour la bonne nouvelle que je vous apporte ?
+
+Voyez-vous bien cet homme-là, Monsieur ?
+
+C'est un homme universel, Monsieur ! C'est votre bonne étoile qui vous l'envoie.
+
+Oui, Monsieur, universel ! Musique, poésie, décorations, comédies.... Il s'entend à tout.
+
+Oui. Je lui en ai touché deux mots.
+
+Oui. Comme, je vous disais, il s'agit de duper le gendre.
+
+Eh ! Miséricorde ! Il va tout gâter.
+
+Oh ! C'est... c'est le poète du régiment.
+
+J'entends, Monsieur ; voilà qui me regarde.
+
+Bon, j'y vais.
+
+Pas encore ; je n'ai pu l'approcher, Madame Finot ne la quitte pas.
+
+Oui, oui, j'ai ce qu'il nous faut.
+
+Sois tranquille ; je réponds de tout.
+
+D'abord, Monsieur est on ne peut pas mieux dans le caractère.
+
+Une lettre ; doucement, Monsieur, vous allez sur mes brisées. Ceci est de l'emploi des confidentes. Asseyez-vous, Monsieur ; et nous, Mademoiselle, en scène, s'il vous plaît.
+
+Non, Mademoiselle, je connais vos chagrins et je veux les dissiper. Apprenez que votre amant va paraître, qu'il va mettre tout en œuvre pour vous arracher des mains de son rival, que je le seconde dans son projet ; et qu'enfin voilà une lettre de sa part.
+
+Mais, Mademoiselle, ce n'est point un jeu. Lisez vous-même et reconnaissez l'écriture.
+
+Lisez, Mademoiselle.
+
+Sans doute, Mademoiselle, la situation l'exige.
+
+Osez tout, Mademoiselle, osez tout.
+
+Assurément, Monsieur. Oh ! Vous prenez fort bien la chose.
+
+Et non, vraiment ; c'est votre fille. Souvenez-vous donc que vous êtes la Mère.
+
+Monsieur a quelque chose de très revenant.
+
+Une déclaration en musique ! Écoutons cela.
+
+C'est bien dommage : mais voyons toujours les paroles.
+
+Oui, ce sera piquant. Après, Monsieur.
+
+Il n'en pense pas moins !... Y en a-t-il encore ?
+
+À vos genoux ! C'est galant cela, Mademoiselle !
+
+C'est bien naturel, bon sang ne peut mentir. Embrassez-vous. Allez, Madame, vous tenez bien l'un de l'autre.
+
+Mais, Monsieur, l'autre Amoureux, qui est caché et qui a tout entendu, doit être furieux de la préférence qu'on donne à son rival.
+
+Voici le notaire ; peut-il entrer ?
+
+Oh ! Il y en a encore une.
+
+Elle est mariée, Madame.
+
+Vous, Monsieur, vous êtes une des dupes en question.
+
+Consolez-vous, allez, Monsieur, où le rôle de l'Amant commence, celui de rival est fini.
+
+Quand pour épouser une Belle
+On amène un Provincial,
+La Scène s'entame avec elle,
+Presque toujours par un Rival.
+C'est l'amant de Province,
+Malgré le Papa, la Maman,
+Qui fait toujours le rôle le plus mince,
+Et s'en retourne au dénouement.
+
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamefinot
+
+Ce n'est pas parce que Finot est mon fils, mais je vous réponds qu'il jouera bien son rôle.
+
+Oui, très bien.
+
+Oui, je vois déjà que voilà un rival pour mon fils, tiens-toi bien, Finot.
+
+Oui, voilà une belle situation !
+
+Allons, Finot, redresse-toi bien.
+
+Oh ! Mon fils n'est pas mal quand il veut.
+
+Viens, mon fils, viens Finot, il faut que je t'embrasse.
+
+Pardon, Monsieur ; c'est un premier mouvement, dont je n'ai pas été la maîtresse.
+
+Qu'est-ce que c'est donc, Monsieur ? Je ne veux pas que mon fils se batte, moi.
+
+Oh ! Scène tant qu'il vous plaira ; mais mon fils ne se battra pas. Comment donc, un fils unique !
+
+À la bonne heure, sitôt que mon fils n'est pas obligé de se battre...
+
+Allons, allons, Finot ; point de dispute.
+
+Signerons-nous aussi.
+
+Oh ! Oui, je ne m'en cache pas.
+
+Mariée ! Et Monsieur ?
+
+Oh ! Tout est est bel et bon, mais il n'y a rôle qui arrête.
+Madame, vous m'avez donné votre parole, et je m'y tiens.
+
+À la bonne heure, j'y consens.
+
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finotfils
+
+Eh bien, beau-père, vous nous laissez tous seuls ?
+
+Monsieur, vous êtes bien bon... assurément... et je ne mérite pas... Beau-père, qu'est-ce que c'est que ces gens-là ?
+
+Comment donc, Monsieur, maussade !
+
+Mais je ne comprends pas, moi...
+
+Oh, pour ça oui, ma mère.
+
+Comment, un amoureux, et moi donc...
+
+Oh ! Que oui, ma mère.
+
+Véritable ! Oh, quoique çà, je vois toujours ben que c'est un semblant, moi. Pas vrai, ma mère ?
+
+Mais moi, ma mère, quand est-ce donc que j'entrerai ?
+
+Ah ! Monsieur...
+
+Ah ! Madame...
+
+Ah ! Mademoiselle...
+
+Ah ! Ma mère...
+
+Ah ! Non, non.
+
+Ma mère, si je disais c'te chanson que j'ai faite exprès ?
+
+Ah ! Mais, Mademoiselle, je n'en sais pas encore la musique, il n'y a que les paroles de faites.
+
+Ma chère demoiselle,
+Si charmante et si belle,
+Vous enchantez le cœur
+De votre serviteur.
+
+Près de vous je soupire,
+Et je ne sais que dire ;
+Mais si j'y perds mes soins,
+Je n'en pense pas moins.
+
+Voilà le dernier...
+Si j'ai votre suffrage,
+Si l'hymen nous engage,
+Vous verrez votre époux
+Sans cesse à vos genoux.
+
+Eh bien ! Monsieur, au secours donc.
+
+Monsieur, puisque Mademoiselle vous plaît... Et que vous lui plaisez aussi... Et que cela plaît à Madame... Je serais fâché de lui déplaire... C'est pourquoi... Je vous la cède, Monsieur.
+
+Oui, Monsieur.
+
+Moi, oh que nenni, j'ai bien vu que c'était un détour.
+
+Son époux ! Et moi donc ?
+
+Oui-da, oh bien, Monsieur, vous m'avez dupé à la répétition ; mais ne comptez pas sur moi pour la Pièce, vous la jouerez tout seul, pas vrai, ma mère ?
+
+À condition qu'il n'y aura pas de Comédie pour la noce toujours.
+
 La peste soit de la manie,
 Qu'on a de se moquer des gens ;
 Vous vous donnez la Comédie,
@@ -1406,7 +292,257 @@ D'autre rôle en pareil moment,
 Je promets bien, de peur d'être encore dupe,
 D'aller tout droit au dénouement.
 
--*who_frontin
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
+Ah ! Monsieur, prenez pitié d'un amoureux passionné qui n'a plus d'espérance qu'en vous.
+
+Je viens vous découvrir le secret de mon cœur, et j'attends de vous...
+
+Moi, poète !
+
+Mais, à quoi bon ?...
+
+Comment, jouée ?...
+Mais, explique-moi donc...
+
+Monsieur, permettez-vous que j'aie l'honneur de vous assurer de l'intérêt...
+
+Non, Madame ; mais...
+
+Ah ? Comme cela, Madame, les situations seront bien plus naturelles. Mademoiselle votre fille jouera l'Amoureuse, Monsieur le prétendu jouera le Rival, et moi l'Amant ; vous avez la Soubrette, et Monsieur fera le Valet.
+
+Il est cependant nécessaire de l'avertir, de peur que sa surprise ne nous trahisse... Voilà tout ce qu'il faut pour écrire. Je vais lui faire une lettre, pour la prévenir sur notre projet.
+
+Comment, tu renvoies Lisette ? Et ma lettre pour Angélique, par qui la lui faire tenir à présent ?
+
+Un instant, Monsieur, j'ai fait des réflexions sur notre petit impromptu, et comme vous me paraissez avoir une excellente tête, je ne vous dis rien sur votre rôle ; mais j'ai cru nécessaire d'en donner une petite idée à Mademoiselle votre fille, qui doit être plus neuve que vous.
+
+Pour lui faciliter son rôle, nous la prenons dans la situation actuelle de son esprit. Elle a un fond de chagrin, dites-vous ?
+
+Eh bien, Monsieur, nous supposons que cette tristesse que vous lui voyez, vient de la perte d'un amant qu'elle regrette.
+
+Nous supposons donc qu'elle est triste de la perte d'un amant qu'elle regrette, et de la nécessité où elle se trouve de prendre un époux qu'elle n'aime pas.
+
+Suivons l'idée, Monsieur ; voici une lettre que vous ferez remettre à Mademoiselle votre fille, comme de la part de cet amant supposé, de... Valère, par exemple ; elle sera d'abord surprise, comme bien vous pensez.
+
+Alors, j'arriverai, moi, faisant le personnage de ce Valère, et... après... le reste ira de suite.
+
+Les voilà qui viennent, préparez tout cela. Nous allons nous retirer un instant pour ménager la surprise, et nous ne paraîtrons que lorsqu'il en sera temps.
+
+Il est à vos pieds, chère Angélique ! Il vous adore.
+
+Hélas ! Madame, je ne vous cache point que c'est l'amour qui m'a conduit.
+
+Oui, l'amour le plus tendre a pénétré mon cœur.
+
+Ah ! Madame, daignez nous être favorable.
+
+Ciel ! Qu'ai-je entendu ? Madame, je compte sur vos bontés que j'implore.
+Et toi, qui viens pour m'enlever l'objet de mon amour, commence auparavant par m'arracher le cœur.
+
+Eh bien ! Monsieur, je vous laisse le choix, ou de renoncer tout-à-l'heure à Mademoiselle, ou de me disputer son cœur l'épée à la main.
+
+En ce cas, Lisette, avertissez le notaire ; et vous, Monsieur, vous me présenterez au père de Mademoiselle, comme un de vos amis qui signe pour témoin.
+
+Mettez Monsieur, Capitaine au Régiment de...
+
+Vous voyez bien, c'est naturel comme cela. Mais vous ne devez pas l'entendre, vous, parce qu'il est censé qu'on vous trompe...
+
+Dans la richesse et la fortune
+Faire consister le bonheur,
+Cette erreur n'est que trop commune,
+Mais n'a jamais séduit mon cœur.
+Ah ! si dans cette vie
+Nous disposons d'un seul moment ;
+Si ce moment n'est qu'une Comédie,
+Qu'amour en soit le dénouement.
+
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+Mon pauvre maître ! Ah ! Quel malheur ! Il en mourra !
+
+Je lui avais tant dit de fois : Monsieur, défiez vous ! N'allez pas devenir amoureux ! Ne faites pas une folie comme celle-là ! Jetez-vous plutôt dans la rivière la tête la première.
+
+Eh, mon enfant ! Vois-tu ; c'est d'amitié que je lui disais tout cela. Ce pauvre cher homme, il n'en a tenu compte. Il a voulu aimer... Grand bien lui fasse. Le voilà pas mal à présent.
+
+Te laisser parler ! Eh ! Que pourrais-tu me dire ? Nous savons tout. Ta maîtresse en épouse un autre que mon maître... Monsieur Finot, son prétendu, est arrivé. Mais ne crois pas que nous soyons gens à céder ainsi la place ? Nous allons paraître ici, mon maître et moi, sommer Isabelle et toi de vous rendre à discrétion ; et sur le refus que vous en ferez, nous assiégerons le Père et la Mère, nous mettrons le Provincial à feu et à sang, et nous emporterons d'assaut la Fille et la Soubrette. Voilà notre plan d'attaque ; arrangez-vous pour la défense.
+
+Comment donc ?
+
+En poète, et en musicien ! Des militaires !
+
+Hem ? J'ai bien peur que nous n'en soyons que les témoins.
+
+Et la malice féminine ! Comptes-tu donc cela pour rien ?
+
+Bon ! Le provincial est un sot, cela va sans dire. Et sa mère ?...
+
+À merveille ! Moi, j'ai de l'esprit, tu es adroite, nos maîtres ont de l'amour ; les provinciaux doivent baisser pavillon ; il n'y a pas là de réplique.
+
+Oui : mais j'ai peur, que pendant ce temps-là mon maître ne s'impatiente. Il est si vif ! Il pourrait venir faire ici quelque scène qui dérangerait tout.
+
+Monsieur, je suis...
+Abrège donc le cérémonial ?
+
+Sous votre bon plaisir, Monsieur.
+
+Autant l'un que l'autre.
+
+Oh mais, Monsieur, j'ai un maître qui est bien autre chose...
+
+Oui. Un homme dont je suis l'élève ! Un virtuose de la première force ! Oh, diable ; c'est celui-là qui vous surprendra...
+
+Très bien, Monsieur.
+
+Oh ! Je vous en réponds.
+
+Oui, j'entends votre idée... Une plaisanterie ?...
+
+Oui, oui, Monsieur, je comprends.
+
+Oh bien ! On le dupera, Monsieur, on le dupera.
+
+Ah ! Morbleu ! Voilà mon maître ; il a déjà parlé à la femme.
+
+Laisse-moi faire.
+
+Paix. Taisez-vous.
+Ah, ah, ah ! Monsieur, vous n'êtes pas au fait.
+Taisez-vous, vous dis-je.
+Monsieur que voilà... C'est une idée plaisante que j'ai eu.
+Ne dites mot.
+C'est mon maître, celui dont je suis l'élève, ce virtuose, dont je vous parlais tout-à-l'heure ; de plus, il est poète, et joue la comédie à merveille.
+
+Oui.
+Oui, Monsieur, poète ; et des plus poètes qui se fassent encore.
+
+Oui, c'est celui qui chante les batailles, les victoires ! Oh ! C'est un grand homme, allez !
+
+Chut !
+J'ai cru qu'il nous serait fort utile pour la comédie que vous voulez représenter ; et comme il joue les amoureux à ravir, il a voulu tout en entrant vous donner à l'impromptu une petite idée de son talent.
+
+Écoutez, Monsieur, et vous, Madame, ce que j'ai pensé sur votre comédie... Il ne faut pas aller chercher des acteurs plus loin. Nous jouerons nous-même. Monsieur et moi, nous donnerons le canevas d'une pièce, et chacun remplira son rôle à l'impromptu. C'est plus chaud. Par exemple, Monsieur, je suis persuadé que vous vous acquitterez très bien du vôtre.
+
+Ah ! C'est donc Monsieur qui est le prétendu ?
+
+En ce cas-là, honneur à M. le Gendre.
+Monsieur, faites compliment à Monsieur.
+
+Eh bien, Monsieur, le plan sera, comme à l'ordinaire, une intrigue amoureuse. Une jeune fille aura un amant qui sera, comme cela se pratique, traversé par un rival laid et maussade, comme c'est encore l'usage. Tenez, supposons que ce soit Monsieur qui fasse le rôle.
+
+Eh bien ! Après ce rival laid et maussade, comme Monsieur, disons-nous, sera protégé par les parents ; mais l'Amoureux aura pour lui le cœur de la Demoiselle et la Suivante de la maison, fille qui doit être fort adroite.
+
+Bon. Pour les aider, nous mettrons encore dans leurs intérêts un certain Valet fourbe de profession...
+
+Moi, Monsieur ; à votre service.
+
+Et ils chercheront ensemble les moyens de duper le Rival, le Père et la Mère, et de couronner leur amour par un bon mariage, comme c'est aussi la conclusion de toutes les pièces.
+
+Maintenant procédons à la distribution des rôles.
+Toi ; vas prévenir ta maîtresse.
+
+Vous, Monsieur, vous avez de la chaleur et du raisonnement, vous nous jouerez fort bien le Père. Est-il vrai ?
+
+Vous, Madame, vous ferez la Mère.
+
+Oui, Madame, vous avez de la dignité, cela vous ira fort bien.
+
+Mais, avec votre permission, Madame, cela ne se peut pas.
+
+Oh ! Non.
+
+Effectivement, Madame, il faut vous prêter aux circonstances.
+
+Écoutez, Monsieur, vous n'avez qu'à prévenir tout votre monde. En attendant que vos spectateurs soient arrivés, envoyez-nous Mademoiselle votre fille, nous allons faire une répétition avec elle, pour prendre l'intelligence des caractères.
+
+Eh bien ! Lisette, as-tu prévenu ta maîtresse ?
+
+C'est bien pensé... Nous, songeons à notre dénouement ; c'est l'essentiel. Écoute, Lisette, connaîtrais-tu un notaire aguerri ?
+
+Tant mieux ; que le contrat soit bien en règle, entends-tu ? Qu'il se tienne prêt au moindre signal. Vole, et reviens.
+
+Par qui ?... Ma foi, voilà le père qui revient ; il n'y pas à balancer. Il faut qu'il fasse lui-même la commission, sans s'en douter.
+
+Oui, oui, Monsieur, avec les jeunes filles on peut supposer cela ; d'ailleurs, voyez-vous c'est situation de roman.
+
+Comprenez-vous à présent ?
+
+Oh ! Je vous en réponds. C'est le premier homme du monde pour une intrigue amoureuse, et surtout pour un dénouement ; il est expéditif.
+
+Oh ! Pour cela, je vous en réponds, allez.
+
+Paix donc, Monsieur ; ne troublez pas l'enthousiasme.
+Continuez, Mademoiselle, et parlez hardiment. Vous devez être au fait à présent.
+
+Eh, sans doute ; il n'y a que cela pour bien jouer.
+
+Ici, Madame ! Il faut que vous surpreniez les Amants...
+Vous, Monsieur, pour rendre la scène plus piquante, baisez bien tendrement la main à Mademoiselle. Fort bien... Allez Madame, jouez l'étonnement.
+
+Eh ! Monsieur, vous n'avez pas encore affaire là.
+
+Pardon, Madame ; mais il me semble que vous oubliez la situation.
+
+Oui, Madame, Monsieur parle d'amour, mais ce n'est pas vous que cela regarde.
+
+Oui-dà. Aussi bien il est temps de mettre en jeu Monsieur Finot.
+
+Un instant, Monsieur, filons la scène. Au bruit que vous faites avant d'entrer nous redoublons nos instances auprès de Madame qui s'attendrit et nous promet son appui contre vous. Alors on nous fait cacher dans le cabinet. Cela donnera matière à d'autres incidents.
+
+Prenez garde, Monsieur, Madame n'est pas de la Pièce.
+
+Quand il y aura une musique analogue...
+
+De grâce, Madame, n'interrompez donc pas ?
+
+Allons, allons au fait.
+Monsieur, parlez un peu du contrat.
+
+Fort bien, Monsieur ; voilà une sortie sort bien ménagée.
+
+Eh, parbleu ! Rien de plus simple. C'est un Officier, il faut qu'il se conduise en militaire ; est-il vrai ? Qu'il vienne proposer un cartel à l'autre et qu'il le fasse déguerpir. Qu'en pensez-vous ?
+
+C'est fait exprès.
+Allons, Monsieur, sortez du cabinet en fureur ; vous, Lisette, allez chercher celui qui doit faire le Notaire.
+
+Oui, oui, soyez tranquille ; tout est prévu.
+
+Eh ! Madame, vous interrompez au plus bel endroit ; laissez donc faire.
+
+Eh ! Non, Madame, il ne faut pas qu'il se batte non plus, au contraire. Il faut que Monsieur soutienne son caractère, qu'il ait peur, qu'il tremble, et que pour sauver sa vie il cède sa maîtresse à Monsieur.
+
+Non, Madame. Vous voyez que Monsieur a bien mieux saisi l'intention du rôle. Tenez, regardez-le.
+
+Un instant. Vous, Monsieur, préparez l'entrée du notaire.
+
+Eh ! Messieurs, finissons d'abord notre affaire ; nous aurons le temps de jaser après.
+
+Infiniment.
+
+Oui, vous y êtes.
+
+La peste ! N'y manquez pas. C'est un jeu de théâtre nécessaire.
+
+C'est-il fait, Monsieur ?
+
+C'est bien, Monsieur, la Pièce est finie.
+
+Non, Les Dupes.
+
+Vous me faites trop d'honneur, Monsieur, je ne suis plus qu'un valet.
+
+C'est l'époux de Mademoiselle.
+
+Pardon, Monsieur, mais rappelez-vous l'intention ; vous m'avez payé pour duper, j'ai voulu bien gagner votre argent.
+
+Comment, Madame, vous avez si bien joué votre rôle avec tant d'âme et de sentiment !... Et vous Monsieur, vous aviez si bien saisi le caractère du vôtre, voudriez-vous vous démentir au dénouement... Monsieur le Notaire, parlez donc un peu pour nous, les dénouements vous regardent.
+
+Et pour que la fête soit complète, Monsieur, admirez notre prévoyance, nous avons encore fait préparer un petit Ballet, dont nous allons vous donner le divertissement.
+
+Vous n'attendrez pas longtemps, entrez, Messieurs.
+
 En vain dans une Comédie,
 L'auteur traite un plaisant sujet,
 Si vous n'approuvez sa folie,
@@ -1415,3 +551,29 @@ Mais quand votre suffrage,
 L'accueille favorablement,
 Alors il voit couronner son Ouvrage
 Par le plus heureux dénouement.
+
+
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonnefoi
+
+Pour vous servir, Monsieur ; voici le contrat que vous m'avez fait demander.
+
+Son rôle ! Que voulez-vous dire ?
+
+Comment ? Si j'en joue ?
+
+Monsieur, il n'y a plus que les noms et qualités du futur.
+
+Capitaine... Mais on m'avait dit...
+
+Comme vous voudrez : Capitaine au Régiment de...
+
+À vous à signer, Madame.
+
+Le véritable contrat !
+
+Comment, une Comédie !
+
+Je le crois. Ma foi, mon cher Monsieur, je ne sais si vous avez cru jouer une Comédie, ni quel rôle vous avez dû y remplir ; mais vous savez du moins que le Notaire est réel, et je puis vous assurer que le dénouement est véritable.
+
+Effectivement, Monsieur, les choses font bien avancées maintenant. Le contrat est signé, l'on ne peut plus s'en dédire... Mais je connais Monsieur, et je puis vous assurer que c'est un très bon parti pour Mademoiselle.
+

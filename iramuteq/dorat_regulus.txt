@@ -1,19 +1,555 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_regulus
 
--*who_marcie
+Ciel ! Marcie en ces lieux !
+
+      Ô ma chère Marcie !
+Mais ces premiers instants sont tous à la Patrie :
+Pour les perdre en discours, ils sont trop importants.
+N'écoute point surtout ces transports imprudents.
+Laisse-moi...
+
+Je dois, je l'avouerai, rendre grâce au destin,
+Qui m'amène aujourd'hui dans le Sénat Romain.
+J'y porte, sans rougir, ces marques d'esclavage ;
+Elles n'ont pu changer ni flétrir mon courage.
+Vainqueur en cent combats, Régulus fut vaincu :
+La fortune, Romains, commande à la vertu :
+Mais bientôt notre Rome, en héros si fertile,
+Vit tomber ses rivaux sous un bras plus utile.
+Métellus vient, triomphe ; il les fait tous trembler,
+Et le sang Africain recommence à couler.
+Ô Dieux ! combien de fois j'ai joui de leurs craintes !
+Les airs retentissaient de leurs farouches plaintes ;
+Chaque jour sur leur tête entassait les revers :
+Le souffle de la mort infectait leurs déserts,
+Et les cris de Carthage, à la douleur en proie,
+Au fond de mon cachot venaient porter la joie.
+Votre ennemie enfin s'abaisse devant vous :
+Du bras qui la poursuit elle a senti les coups.
+Quand le Ciel la punit, quand le Ciel la condamne,
+C'est moi, le croirez-vous, qu'elle a pris pour organe !
+Ne pouvant arrêter le cours de vos succès,
+Succombant sous la guerre, elle implore la paix ;
+Et, si vous rejetez sa première demande,
+Elle souhaite au moins que le Sénat lui rende
+Ces illustres captifs, dans vos murs retenus :
+Les vôtres, à ce prix, vous seraient tous rendus ;
+À ce prix, je suis libre ; et voilà son adresse.
+Osant me soupçonner d'une lâche faiblesse,
+Voilà comme elle a cru s'assurer de ma foi :
+Mais vous me connaissez ; mais Rome est tout pour moi ;
+Mais je voue à Carthage une haine immortelle ;
+Et je viens, parmi vous, pour vous parler contre elle.
+
+      Craignez la paix qu'elle ose demander.
+
+Gardez d'y consentir : rejetez l'un et l'autre.
+Séparez aujourd'hui mon salut et le vôtre :
+Un tel échange en vain finirait mes revers ;
+Souvenez-vous de Rome, et non pas de mes fers.
+
+Dans l'intérêt commun mon intérêt n'est rien :
+L'État, sans s'appauvrir, peut perdre un citoyen.
+Eh ! Quoi, pour racheter la liberté d'un homme,
+Quel exemple odieux donneriez-vous à Rome ?
+L'honneur, ce feu sacré, que j'atteste aujourd'hui
+Cette âme des vertus, qui s'éteignent sans lui,
+De nos antiques moeurs la force héréditaire,
+La discipline enfin, ce frein si nécessaire ;
+Tout n'est-il pas détruit, si de lâches soldats,
+Qui se disent Romains, et craignent le trépas,
+Osent encor nourrir l'espérance chérie
+De revoir leurs foyers, leurs femmes, leur Patrie ?
+Quels secours en attendre ? Ils ont fui, ces Romains ;
+Ils ont tendu leurs bras aux fers des Africains !
+Ils ont laissé leur Chef sans secours, sans défense,
+Entouré d'ennemis, qu'immolait sa vengeance !
+Il leur criait en vain ; arrêtez, arrêtez :
+La terreur emportait leurs pas précipités.
+Insupportable affront ! souvenir que j'abhorre !
+Ils ont connu la honte, et respirent encore !
+Qu'ils meurent dans les fers ! ils ont fui, sous mes yeux :
+Je les ai commandés ; je dois mourir comme eux.
+
+      Eh ! qui suis-je, grands Dieux ?
+Qui suis-je, aveugle ami ? Mon sang et mon courage
+Vont s'éteindre bientôt sous les glaces de l'âge.
+Les coups de l'infortune, encor plus que mes ans,
+Précipitent la fin de mes jours languissants :
+Traînant vers le tombeau ma vieillesse stérile,
+Je ne pourrais à Rome être longtemps utile :
+Mais combien le seraient à vos fiers ennemis.
+Tant de jeunes Captifs, espoir de leur pays ?
+Ces Soldats généreux, aigris par l'esclavage,
+Sont autant de Héros, dont vous privez Carthage.
+Romains, je les ai vus, de carnage altérés,
+Arracher de nos mains leurs drapeaux déchirés ;
+Échauffer, enflammer les coeurs les plus timides ;
+Dans les plus grands périls, toujours plus intrépides,
+Ivres de notre sang, dont ils étaient couverts,
+Ne succomber qu'au nombre, et rugit dans leurs fers.
+Devenus vos captifs, gardez-vous de les rendre.
+Contre eux, ce faible bras pourrait-il vous défendre ?
+D'ailleurs, n'avez-vous point celui de Métellus ;
+Et pouvez-vous encor regretter Régulus ?
+Je fus déjà vaincu ; je pourrais encor l'être :
+Votre estime, Romains, je la perdrais peut-être ;
+Je n'y survivrais pas, et je ne veux jamais
+Quand ils sont contre vous, accepter vos bienfaits.
+
+Tu trahis Rome, et moi.
+
+Terminez, Sénateurs, un combat qui m'offense ;
+Ou bien, comme un aveu, j'entends votre silence.
+Qui peut vous arrêter ?
+
+      Quoi ! Manlius balance ?
+
+Hé bien ! Romains, je sors : surtout point de pitié.
+Faites triompher Rome, et non pas l'amitié.
+
+Enfin me voilà seul ! ô ma chère Marcie !...
+Est-il de mon destin d'empoisonner ta vie ?
+J'ai craint de te montrer l'excès de mon amour :
+Tu pleurais mon absence, et pleures mon retour !
+Malheureuse ! Ah ! Pardonne : attendri par tes charmes,
+J'ai senti l'amertume et le prix de tes larmes :
+Mais enfin j'ai promis... Ainsi donc, pour jamais,
+Je consens à briser les noeuds les plus parfaits !
+Parmi les pleurs, les cris, toujours calme et sévère,
+Je renonce aux doux noms et d'époux et de père ;
+À ce soin, le premier d'un coeur tel que le mien,
+De former dans mon fils l'âme d'un citoyen ! Hélas !...
+Mais quel soupir échappe à mon courage ?
+Suis-je donc Régulus ? Est-ce là son langage ?
+Rome, reçois ici tous les voeux de ce coeur,
+Enivré de ta gloire et plein de ta grandeur :
+Entouré de liens, c'est toi que je préfère :
+Citoyen, je ne suis époux, ami, ni père...
+Que dis-je ? En ce moment peut-être le Sénat,
+Afin de me sauver, immole tout l'État.
+Pour me mettre à l'abri de ce zèle barbare,
+En vain j'aurai caché la mort qu'on me prépare.
+Se pourrait-il ?... Voilà ce qui doit m'agiter !
+Voilà le seul péril que j'aie à redouter.
+Sénateurs, songez bien que la perte d'un homme
+Ne doit point occuper les défenseurs de Rome.
+On vient... Ciel ! C'est Marcie !....
+
+Comment ?...
+
+      Qu'entends-je ? que dis-tu ?
+
+D'où naissent ces discours qui me glacent d'effroi ?
+De ces nouveaux projets quel est l'auteur ?
+
+Vous !
+
+      Parlez.
+
+Qu'as-tu dit ? qu'as-tu fait ? Quelle aveugle tendresse,
+Pour mieux me dégrader, à mon sort t'intéresse ?
+À tes vaines frayeurs serai-je donc soumis ?
+Et faut-il te compter parmi mes ennemis ;
+Parmi ceux de l'État ?
+
+      Ma mort.
+
+La Nature, Marcie, a des droits précieux,
+Trop connus de ce coeur, qu'elle rendait heureux,
+Tu le sais : quand le Ciel eut joint nos destinées,
+Dans quels ravissements s'écoulaient nos années !
+Satisfait de ton coeur, sans brigues, sans chagrins,
+Enviais-je le sort des superbes humains ?
+Exerçant dans mes champs une obscure industrie
+Par mes voeux seulement je servais la Patrie.
+Elle m'a réclamé : j'ai volé : je l'ai dû :
+J'ai regretté ce temps que je croyais perdu ;
+Et, pour la bien venger de ce repos stérile,
+Jusqu'au dernier soupir je lui veux être utile.
+La Patrie est un corps respectable et sacré :
+Qui de nous peut sans crime en être séparé ?
+Lui prodiguer son sang, la servir, la défendre,
+Va, crois-moi, ce n'est point lui donner, c'est lui rendre.
+Ne lui devons-nous pas, rangs, honneurs, sûreté,
+Le nom de citoyen, surtout la liberté,
+La liberté, sans qui l'homme cesse d'être homme,
+Ce droit cher et sacré, qui fait l'orgueil de Rome.
+Il faut de quelque peine acheter sa douceur ;
+Mais, exempt de travaux, a-t-on droit au bonheur ;
+L'ingrat qui le prétend, qu'il s'éloigne, qu'il fuit ;
+Qu'il aille, loin du Tibre, ensevelir sa vie,
+Et malheureux partout, chassé de l'Univers,
+À des monstres cruels disputer les déserts.
+
+Eh ! J'ai pu t'écouter ! Ô Ciel ! Ne poursuis pas.
+Ces vains raisonnements sont un frivole appas.
+Je veux...
+
+Sois Romaine ; à ma voix laisse échauffer ton coeur.
+Du noeud qui te retient j'ai connu la douceur ;
+Comme toi, de l'Amour j'ai senti les délices ;
+Mais les grandes vertus sont les grands sacrifices :
+Ces sublimes efforts distinguent les Romains,
+Et les ont séparés du reste des humains.
+Pour illustrer leur mort, ils consacrent leur vie :
+La Nature leur cède, et leur est asservie ;
+Elle combat en vain l'ardeur d'un si beau feu :
+L'écouter est d'un homme, et la vaincre est d'un Dieu.
+De la gloire, Marcie, ignores-tu les charmes ?
+J'ai dû, jusques ici, pardonner à tes larmes ;
+Mais enfin jure-moi, s'il fallait nous quitter,
+D'étouffer tes soupirs, de ne point m'arrêter ;
+De ne voir mon trépas que comme une victoire,
+Qui me rend tous mes droits, en me rendant ma gloire.
+Si je brave en Romain la mort et ses horreurs,
+Sois Romaine, du moins, en retenant tes pleurs.
+
+      Hé bien, suis-je trahi ?
+Réponds...
+
+      Que faites-vous ?
+Marcie, Osez-vous ?
+
+Rome l'emporte enfin !
+
+      Mon triomphe, ô Patrie !
+Généreux Manlius !
+
+Reviens à toi, Marcie : est-ce là me chérir ?
+J'abjure ton amour, quand il me fait rougir.
+Prétends-tu pénétrer, d'une vue incertaine,
+Les augustes secrets de la grandeur romaine ;
+Juger tous ces ressorts, ces douloureux combats,
+Ces pénibles vertus, que tu ne conçois pas ?
+Renferme tes soupçons : et toi, Priscus, pardonne
+Cette indigne faiblesse où son coeur s'abandonne.
+Avec transport. Va dire à Manlius, qu'il a rempli mes voeux ;
+Et que, plus que jamais, il est cher à mes yeux.
+Mais, s'il ne poursuit point, il n'a rien fait encore :
+Pour hâter mon départ, c'est lui seul que j'implore :
+Un coeur tel que le sien ne peut se démentir.
+S'il aime Rome enfin, qu'il m'en fasse sortir :
+D'un Peuple mutiné qu'il éclaire le zèle ;
+Qu'il brave son murmure, et qu'il me soit fidèle :
+Priscus, son amitié, dont je ressens l'effet,
+Éclatera surtout dans ce dernier bienfait.
+
+Eh ! dois-je respecter leurs caprices bizarres ?
+
+Ni le vol des oiseaux, ni le flanc des victimes,
+Ne peut déterminer nos vertus ou nos crimes :
+La sainte vérité, que rien ne peut changer,
+Parle sans cesse au coeur qui sait l'interroger ;
+Je cède, j'obéis à ses lois toujours sures.
+L'honneur et la vertu n'ont pas besoin d'augures.
+
+Non ; je n'attendrai rien, si mes vaisseaux sont prêts.
+
+      De ta douleur, va, je suis pénétré :
+Mais voudrais-tu, dis-moi, d'un coeur déshonoré ?
+Femme de Régulus, imite sa constance :
+Ta faiblesse à la fois m'attendrit et m'offense.
+Va rejoindre ton fils, ce fils ton seul espoir,
+Qui dut me consoler, et que je n'ose voir.
+C'est pour lui, c'est pour toi que Régulus t'implore,
+Que je revive en lui, pour te chérir encore.
+
+      Je reconnais mon fils :
+Chère épouse !... Il sera l'honneur de son pays.
+Dans es grands sentiments affermis bien son âme :
+Il n'aura plus que toi ; c'est toi que je réclame.
+Puisse-t-il de Carthage être un jour le fléau,
+Et dans ses murs fumants pleurer sur mon tombeau !
+
+Ah ! vous n'en doutez pas ; je vous aime tous deux :
+Même en les déchirant, je respecte mes noeuds.
+Je sens couler mes pleurs dans ce moment horrible.
+Va ; mon coeur, chère épouse, est loin d'être insensible ;
+Mais il est des devoirs augustes, révérés,
+Qui, pour être cruels, n'en sont pas moins sacrés.
+L'homme doit les remplir ; c'est là son apanage ;
+Il doit à ces devoirs mesurer son courage,
+Ou languir dans la honte et dans l'obscurité,
+Flétri par un bonheur qu'il n'a point mérité.
+Hélas ! J'ajoute encore au trouble qui t'agite.
+Marcie...
+
+      Je t'adore et te quitte.
+Adieu.
+
+      Laisse-moi.
+
+Ô zèle injurieux ! par la foule entraîné,
+Dans ce lieu, malgré moi, je me vois ramené !
+Le Peuple à mes vaisseaux me ferme le passage !
+L'opprobre d'un Romain, ô Rome, est ton ouvrage !
+Fondateurs de l'Empire, illustres demi-Dieux,
+Qu'un airain immortel reproduit à mes yeux,
+Vous qu'enflamma toujours l'amour de la Patrie,
+Soyez les défenseurs de ma gloire flétrie,
+Sortez de vos tombeaux, et garants de ma foi,
+Élevez-vous soudain entre ce peuple et moi.
+Dans les fers de Carthage, hélas ! Je fus plus libre,
+Qu'au sein de ma Patrie et sur les bords du Tibre.
+On commande à mes voeux ; on enchaîne mes pas ;
+On ne craint point ma honte ; et l'on craint mon trépas !
+
+      Arrêtez.
+C'est donc à moi, Tribun, à qui vous insultez !
+Malheureux que je suis ! ainsi, dans cet asile,
+J'apportais le flambeau de la guerre civile !
+Non ; toi seul as tout fait : toi seul, avec éclat,
+Sus opposer le Peuple au décret du Sénat,
+As fait parler les Dieux consultés par ton zèle :
+Va ; garde ta pitié ; je suis au-dessus d'elle.
+Quand tu crois me sauver, c'est toi, Licinius,
+Qui plonges le poignard au sein de Régulus :
+Tu me ravis l'honneur, seul bien qui me console,
+Barbare ; et c'est ainsi que la faiblesse immole.
+
+Que je reste, grands Dieux ! non, ne l'espérez pas ;
+Non, laissez-moi vous fuir, me sauver de vos bras.
+C'est une lâcheté que des Romains demandent !
+Et c'est de Régulus que des Romains l'attendent !
+
+Eh ! Pourquoi les briser, dis-moi, s'ils me sont chers ?
+Moi ! je préférerais à des fers honorables
+La triste liberté qu'on laisse à des coupables !
+Je mettrais mon honneur et le vôtre en oubli !
+Est-on libre, en effet, lorsqu'on est avili ?
+Ces chaînes font ma gloire, et la rendent plus pure.
+Si vous me les ôtez, je ne suis qu'un parjure,
+Un traître, un fugitif, à qui, même en ces lieux,
+Le dernier citoyen ferait baisser les yeux.
+Il n'est point de liens, pour l'homme qui les brave ;
+Et c'est le crime seul qui peut le rendre esclave.
+
+Je dois mourir pour elle...
+
+J'ai fait ce que j'ai dû, quand je vous ai servis ;
+Mais il est un moyen de m'en payer le prix.
+
+      Les Africains, que j'ai trop su connaître,
+Ont cru dans Régulus vous envoyer un traître,
+Qui de leur cruauté voudrait se préserver,
+Et viendrait vous trahir, afin de se sauver ;
+Ah ! c'est là pour mon coeur la plus sensible offense.
+Hé bien ! je vous remets le soin de ma vengeance ;
+C'est la vôtre. Armez-vous ; armez mille vaisseaux :
+Cherchez, au sein des mers, des triomphes nouveaux :
+Ô braves citoyens, rapportez sur ces rives
+Vos drapeaux avilis et vos aigles captives.
+Ne quittez point le fer, que vos rivaux punis
+N'expirent étendus sur de sanglants débris.
+Éternel Monument de la rage Africaine,
+Que ma mort dans vos coeurs soit un titre de haine.
+Pour vous guider encor, mes mânes en courroux,
+S'élevant dans vos rangs, marcheront devant vous ;
+Et, mon nom devenant le signal du carnage,
+Du fond de mon tombeau je détruirai Carthage.
+Cette idée ennoblit le trépas où je cours :
+Ne bornons point la vie au terme de nos jours.
+Amis, le lâche meurt, et jamais le grand homme :
+Brutus n'est plus, Brutus respire encor dans Rome.
+Je vois à mes regards un vaste champ s'ouvrir ;
+Revivre dans vos coeurs, est-ce donc là mourir ?
+Eh : qu'importe mon sang ? il est à ma Patrie :
+Romains, avec transport, je vous le sacrifie.
+Puissé-je le verser, en combattant pour vous,
+Entouré d'Africains expirants par mes coups !
+Ne m'arrêtez donc plus, au nom d'un Peuple libre,
+De ces monts, de ces lieux arrosés par le Tibre.
+Quel prix de mon trépas, et pour moi quels honneurs,
+Quand je serai nommé parmi vos bienfaiteurs,
+Lorsque de vieux Romains, héritiers de mon zèle,
+À leurs enfants un jour m'offriront pour modèle !
+
+      Ah ! Vous êtes Romains !
+Vous allez à l'instant m'ouvrir tous les chemins.
+Je sais qu'au fond du coeur, chacun de vous m'envie,
+Et fait des voeux secrets, pour perdre ainsi la vie.
+Un instant de pitié surprit votre vertu...
+Mais vous en rougissez ; l'honneur a reparu
+Vous avez surmonté ces indignes alarmes.
+Achevez, Citoyens ; jetez au loin ces armes :
+Dérobez à mes veux des regrets superflus,
+Et jusqu'à ses vaisseaux conduisez Régulus.
+
+Dieux ! le passage est libre... Africains, je vous suis.
+
+      Ah ! malheureux !
+
+Hélas !
+
+Que dites-vous, mon fils... va, sois sûr que je t'aime,
+En m'arrachant à toi, je m'arrache à moi-même :
+Mais, fils de Régulus, tu dois, au fond du coeur,
+Tu dois déjà sentir tout ce que peut l'honneur.
+C'est à lui, dans ce jour, qu'il faut que je m'immole :
+C'est pour lui que je meurs ; c'est lui qui me console.
+Par d'indignes regrets au lieu de m'outrager,
+Que ton bras, jeune encore, apprenne à me venger :
+Attends, pour me pleurer, qu'il ait détruit Carthage.
+Tous ces braves Romains guideront ton courage :
+Il n'en est pas un seul qui ne soit ton soutien ;
+Et je te laisse un père en chaque Citoyen.
+Va, mon fils, fans rien craindre, entre dans la carrière,
+Peut-être tu seras plus heureux que ton père.
+De la tendre Marcie apaise les douleurs ;
+Mais n'instruis point tes yeux à répandre des pleurs :
+Sans l'imiter jamais, console sa faiblesse.
+Que ta noble constance augmente sa tendresse :
+Qu'elle applaudisse, un jour, à tes exploits guerriers,
+Et sente encore la joie, en voyant tes lauriers !
+Embrasse-moi, mon fils !... Tout est prêt...
+
+Qu'oses-tu proposer ? Quelle effrayante image !
+Ah ! Marcie, est-il temps d'ébranler mon courage ?
+Laisse-moi vaincre enfin. Toi, me suivre !
+Qui, toi ! Rome, Rome réclame et ton zèle et ta foi.
+Veille sur notre fils ; qu'il devienne un grand homme !
+Tu te dois à ce fils, et tu le dois à Rome.
+Tu ne peux en sortir, fans blesser ton devoir,
+Sans trahir son attente, et tromper mon espoir
+Aux paisibles vertus forme son jeune coeur.
+Il faut, pour être grand, plus que de la valeur.
+Qu'il soit vrai, généreux, mais surtout équitable !
+Qu'il soit l'appui du faible, et l'effroi du coupable !
+Qu'il garde ses serments, qu'il s'exerce aux travaux !
+Enfin, qu'il vive en Sage, et qu'il meure en héros !
+Dans tous les temps, Marcie aux Romains sera chère :
+Du fils de Régulus on aimera la mère.
+Approche-toi, mon fils... Séparons-nous...
+
+      Arrête : ô Ciel ! Qu'oses-tu dire ?
+Manlius ! ce Héros, que j'aime et que j'admire !
+De tes emportements, oui, tu me vois confus :
+Si tu m'aimes encor, respecte Manlius...
+Romains, n'écoutez point un transport si coupable :
+La vertu soupçonnée en est plus respectable.
+Pour ne la point défendre, ou venger à demi,
+Je cours, aux yeux de tous, embrasser mon ami ;
+Il mérite ce titre, il a sauvé ma gloire :
+Son coeur est noble et pur ; c'est moi qu'il en faut croire.
+Viens expier, mon fils, un outrage odieux :
+Voilà ton protecteur.
+
+Et voilà l'amitié dont un Romain s'honore.
+Je vais mourir content... Mais qui m'arrête encore,
+Je fuis : c'est trop longtemps demeurer en ces lieux,
+Déshonorer ce jour, et souiller nos adieux.
+Marcie !... Ah ! Cache-moi ces indignes alarmes.
+Qu'on l'éloigne... Mon fils !... je te défens les larmes.
+
+Sauvez-la, Citoyens !... Ah ! Tout mon coeur frissonne.
+
+Ô mon cher Manlius !
+
+Je puis partir enfin. Veillez, ô mes amis,
+Sur les jours d'une épouse, et sur ceux de mon fils.
+
+
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manlius
+
+Madame, pardonnez si des soins importants
+À vos yeux, malgré moi, m'ont caché si longtemps :
+Tous mes instants sont dus au devoir qui m'enchaîne.
+Mais quel nouveau sujet en ce lieu vous amène?
+
+Calmez cette douleur ; elle a trop d'injustice.
+Le sort de Régulus pour Rome est un supplice :
+Nous le regrettons tous : si nos regrets sont vains,
+Accusez-en Carthage, et non pas les Romains.
+
+Hé bien ! de ce secours que pouvez-vous attendre ?
+
+Vous venez me prier de remplir mon devoir !
+Ne suis-je pas Romain ? Ce titre seul, Madame,
+Engage à Régulus et mon bras et mon âme,
+Tout mon sang. J'aurais trop à rougir aujourd'hui,
+Si j'osais oublier un guerrier tel que lui.
+Mais je vous en préviens, quel que soit ce grand homme.
+Si son rappel blessait les intérêts de Rome,
+N'attendez rien de moi, rien de mon amitié :
+Mon coeur, dès ce moment, se ferme à la pitié.
+J'estime Régulus, et le vois sans envie ;
+Mais, dans ce coeur, tout cède au bien de la patrie :
+Elle seule est l'objet, le but de mes travaux.
+
+Quel bruit ! Que veut Priscus ?
+
+      Madame, éloignez-vous.
+
+      Ciel ! Qui vois-je paraître ?
+C'est lui-même... Approchons... Je me trompe peut-être.
+Régulus !
+
+      Justement étonnés,
+Je vois que tous les coeurs vers toi sont entraînés :
+Tout cède, s'attendrit ; et je ressens moi-même
+Quel est sur le Sénat ton ascendant suprême.
+Il faut peser, sans toi, de si grands intérêts :
+Alors, plus d'équité réglera nos décrets ;
+Et nous t'en instruirons.
+
+Il craint plutôt, il craint l'effet de ta présence.
+
+C'est un avis des Dieux que Régulus nous donne.
+Que le Sénat s'assemble au Temple de Bellone :
+Puisse-t-elle éclairer nos esprits incertains !
+Mais, au défaut des Dieux, agissons en Romains.
+Je marche sur vos pas.
+
+      Ô héros ! Ô grand homme !
+Faut-il donc qu'à jamais tu sois perdu pour Rome ?
+J'ai conçu tes raisons ; je dois, avec éclat,
+À ton austère avis ramener le Sénat :
+Je le dois ; il le faut : Rome attend de mon zèle
+Que je sois inflexible, et que je sois fidèle :
+Rome parle à mon coeur, comme elle parle au tien ;
+Et, par toi-même instruit, je serai citoyen.
+Que tu vas m'applaudir ! Mais que dira Marcie ?
+Elle va m'accuser ou de haine ou d'envie :
+Dans les emportements de sa juste douleur,
+Mon devoir, à ses yeux, sera mon déshonneur...
+Que me font après tout, et ses cris et ses larmes ?
+Dois-je être, plus que toi, sensible à ses alarmes ?
+Je crains peu les soupçons : il est, il est des Dieux ; ⁎⁎⁎⁎
+Et leur regard suffit à l'homme vertueux.
+Qu'importe à l'innocence un passager murmure ?
+Rien ne peut éclipser le jour qui la rassure.
+Quand je sers la Patrie, et songe à son bonheur,
+J'ai le Ciel pour témoin ; mon juge est dans mon coeur.
+
+      Le Sénat lui veut sauver l'honneur.
+Citoyens, que l'on ouvre un chemin au rivage.
+
+Que fais-tu ?
+
+      Licteurs !
+
+      J'en atteste les Dieux.
+Jusqu'au dernier soupir je lui tiens lieu de père ;
+Je le jure, en tes mains, aux yeux de Rome entière.
+Je pardonne à Marcie un excès de douleur.
+Je n'en ai point rougi ; j'étais sûr de mon coeur :
+Je connaissais le tien. Un jour, un jour peut-être,
+Elle sera plus juste, et pourra me connaître.
+Je sais, ô Régulus, te plaindre et t'admirer ;
+Mais je ne te fais point l'affront de te pleurer.
+
+
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marcie
+
 Les Députés d'Afrique ici doivent se rendre ;
 Le Sénat, hors de Rome, ici doit les entendre;
 Moi, devançant leurs pas, j'attendrai Manlius ;
 Je viens, en ce moment, parler pour Régulus,
 Presser, gémir, prier ...
 
--*who_barsine
-      Quoi ! seule, et sans escorte,
-Une Dame Romaine !...
-
--*who_marcie
       Ah ! Barsine, il n'importe.
 Tout convient à mon sort. Ils ne sont plus ces temps,
 Dont la gloire et l'amour marquaient tous les instants ;
@@ -54,10 +590,6 @@ Fatiguer les Romains de ma plainte importune,
 Assiéger le Consul, pleurer avec mon fils,
 Ce sont là mes devoirs; je les ai tous remplis.
 
--*who_barsine
-Mais le Consul enfin...
-
--*who_marcie
       Chère Barsine, écoute.
 L'austère Manlius est vertueux sans doute :
 Rome l'estime au moins, et je n'ose penser
@@ -76,19 +608,9 @@ Heureuse mille fois, si je puis, par mes pleurs,
 Pour un héros que j'aime attendrir tous les coeurs !
 On vient ; c'est le Consul...
 
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_marcie
       Seigneur, daignez m'entendre ;
 À cette grâce au moins j'ai le droit de prétendre.
 
--*who_manlius
-Madame, pardonnez si des soins importants
-À vos yeux, malgré moi, m'ont caché si longtemps :
-Tous mes instants sont dus au devoir qui m'enchaîne.
-Mais quel nouveau sujet en ce lieu vous amène?
-
--*who_marcie
 Et vous le demandez ! Feignez-vous d'ignorer
 Le dessein qui m'occupe et peut seul m'attirer ?
 Songez à Régulus, perdu pour la Patrie,
@@ -120,13 +642,6 @@ Moi seule je lui reste, et mes larmes sont vaines !
 Insensible Patrie, ô Rome, ô Régulus !
 Est-ce donc là le prix que l'on garde aux vertus ?
 
--*who_manlius
-Calmez cette douleur ; elle a trop d'injustice.
-Le sort de Régulus pour Rome est un supplice :
-Nous le regrettons tous : si nos regrets sont vains,
-Accusez-en Carthage, et non pas les Romains.
-
--*who_marcie
 Carthage enchaîne un bras toujours armé contre elle ;
 Rome oublie un Romain, un défenseur fidèle.
 Carthage, en l'accablant, se venge d'un vainqueur :
@@ -137,64 +652,19 @@ Mais ce jour est propice, et peut tout réparer :
 Sur vos vrais sentiments ce jour va m'éclairer.
 Les Députés d'Afrique ici doivent se rendre.
 
--*who_manlius
-Hé bien ! de ce secours que pouvez-vous attendre ?
-
--*who_marcie
 Tout. Vous pouvez, Seigneur, finir enfin nos maux,
 Offrir aux Africains la rançon d'un héros ;
 Prier ou commander, parler avec courage ;
 Arracher Régulus aux fureurs de Carthage.
 N'allez point, Manlius, détruire mon espoir.
 
--*who_manlius
-Vous venez me prier de remplir mon devoir !
-Ne suis-je pas Romain ? Ce titre seul, Madame,
-Engage à Régulus et mon bras et mon âme,
-Tout mon sang. J'aurais trop à rougir aujourd'hui,
-Si j'osais oublier un guerrier tel que lui.
-Mais je vous en préviens, quel que soit ce grand homme.
-Si son rappel blessait les intérêts de Rome,
-N'attendez rien de moi, rien de mon amitié :
-Mon coeur, dès ce moment, se ferme à la pitié.
-J'estime Régulus, et le vois sans envie ;
-Mais, dans ce coeur, tout cède au bien de la patrie :
-Elle seule est l'objet, le but de mes travaux.
-
--*who_marcie
 Eh ! n'est-ce pas l'aimer que lui rendre un héros ?
 
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_manlius
-Quel bruit ! Que veut Priscus ?
-
--*who_priscus
-      L'Ambassadeur arrive :
-Tout le Peuple à grands flots a couru vers la rive :
-On approche, et bientôt....
-
--*who_manlius
-      Madame, éloignez-vous.
-
--*who_marcie
 Protégez Régulus, rendez-moi mon époux.
 Exaucez-moi, grands Dieux !
 
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_manlius
-      Ciel ! Qui vois-je paraître ?
-C'est lui-même... Approchons... Je me trompe peut-être.
-Régulus !
-
--*who_marcie
       Que dit-il ? Régulus !... Soutiens-moi.
 
--*who_regulus
-Ciel ! Marcie en ces lieux !
-
--*who_marcie
       Cher époux, est-ce toi ?
 Je ne sais où je suis, et je m'en crois à peine...
 Dieux ! qui me consolez, n'est-ce qu'une ombre vaine ?
@@ -210,14 +680,6 @@ Quel bonheur ! quels transports !... Pardonnez, Sénateurs,
 Vous fûtes les témoins de mes longues douleurs :
 Soyez-le de ma joie ...
 
--*who_regulus
-      Ô ma chère Marcie !
-Mais ces premiers instants sont tous à la Patrie :
-Pour les perdre en discours, ils sont trop importants.
-N'écoute point surtout ces transports imprudents.
-Laisse-moi...
-
--*who_marcie
       Je frémis... parle ; que veux-tu dire ?
 Après tant de tourments, souffre que je respire.
 Faut-il toujours trembler ?... Non ; je m'alarme en vain.
@@ -229,246 +691,8 @@ Manlius !... Vous, Tribun, soyez son défenseur :
 C'est un dépôt sacré qu'aujourd'hui je vous laisse.
 Vous allez servir Rome, en servant ma tendresse.
 
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_regulus
-Je dois, je l'avouerai, rendre grâce au destin,
-Qui m'amène aujourd'hui dans le Sénat Romain.
-J'y porte, sans rougir, ces marques d'esclavage ;
-Elles n'ont pu changer ni flétrir mon courage.
-Vainqueur en cent combats, Régulus fut vaincu :
-La fortune, Romains, commande à la vertu :
-Mais bientôt notre Rome, en héros si fertile,
-Vit tomber ses rivaux sous un bras plus utile.
-Métellus vient, triomphe ; il les fait tous trembler,
-Et le sang Africain recommence à couler.
-Ô Dieux ! combien de fois j'ai joui de leurs craintes !
-Les airs retentissaient de leurs farouches plaintes ;
-Chaque jour sur leur tête entassait les revers :
-Le souffle de la mort infectait leurs déserts,
-Et les cris de Carthage, à la douleur en proie,
-Au fond de mon cachot venaient porter la joie.
-Votre ennemie enfin s'abaisse devant vous :
-Du bras qui la poursuit elle a senti les coups.
-Quand le Ciel la punit, quand le Ciel la condamne,
-C'est moi, le croirez-vous, qu'elle a pris pour organe !
-Ne pouvant arrêter le cours de vos succès,
-Succombant sous la guerre, elle implore la paix ;
-Et, si vous rejetez sa première demande,
-Elle souhaite au moins que le Sénat lui rende
-Ces illustres captifs, dans vos murs retenus :
-Les vôtres, à ce prix, vous seraient tous rendus ;
-À ce prix, je suis libre ; et voilà son adresse.
-Osant me soupçonner d'une lâche faiblesse,
-Voilà comme elle a cru s'assurer de ma foi :
-Mais vous me connaissez ; mais Rome est tout pour moi ;
-Mais je voue à Carthage une haine immortelle ;
-Et je viens, parmi vous, pour vous parler contre elle.
-
--*who_licinius
-Ah, Dieux !
-
--*who_regulus
-      Craignez la paix qu'elle ose demander.
-
--*who_licinius
-Si l'échange vous sauve, il le faut accorder.
-
--*who_regulus
-Gardez d'y consentir : rejetez l'un et l'autre.
-Séparez aujourd'hui mon salut et le vôtre :
-Un tel échange en vain finirait mes revers ;
-Souvenez-vous de Rome, et non pas de mes fers.
-
--*who_licinius
-Ce conseil généreux, pensez-vous qu'on le suive,
-Et d'un si noble appui que le Sénat se prive ?
-
--*who_regulus
-Dans l'intérêt commun mon intérêt n'est rien :
-L'État, sans s'appauvrir, peut perdre un citoyen.
-Eh ! Quoi, pour racheter la liberté d'un homme,
-Quel exemple odieux donneriez-vous à Rome ?
-L'honneur, ce feu sacré, que j'atteste aujourd'hui
-Cette âme des vertus, qui s'éteignent sans lui,
-De nos antiques moeurs la force héréditaire,
-La discipline enfin, ce frein si nécessaire ;
-Tout n'est-il pas détruit, si de lâches soldats,
-Qui se disent Romains, et craignent le trépas,
-Osent encor nourrir l'espérance chérie
-De revoir leurs foyers, leurs femmes, leur Patrie ?
-Quels secours en attendre ? Ils ont fui, ces Romains ;
-Ils ont tendu leurs bras aux fers des Africains !
-Ils ont laissé leur Chef sans secours, sans défense,
-Entouré d'ennemis, qu'immolait sa vengeance !
-Il leur criait en vain ; arrêtez, arrêtez :
-La terreur emportait leurs pas précipités.
-Insupportable affront ! souvenir que j'abhorre !
-Ils ont connu la honte, et respirent encore !
-Qu'ils meurent dans les fers ! ils ont fui, sous mes yeux :
-Je les ai commandés ; je dois mourir comme eux.
-
--*who_licinius
-Mourir ! vous, Régulus, un autre espoir m'anime :
-Il faut un autre prix à ce zèle sublime :
-Et si l'échange enfin peut être dangereux,
-N'êtes-vous rien pour nous ?
-
--*who_regulus
-      Eh ! qui suis-je, grands Dieux ?
-Qui suis-je, aveugle ami ? Mon sang et mon courage
-Vont s'éteindre bientôt sous les glaces de l'âge.
-Les coups de l'infortune, encor plus que mes ans,
-Précipitent la fin de mes jours languissants :
-Traînant vers le tombeau ma vieillesse stérile,
-Je ne pourrais à Rome être longtemps utile :
-Mais combien le seraient à vos fiers ennemis.
-Tant de jeunes Captifs, espoir de leur pays ?
-Ces Soldats généreux, aigris par l'esclavage,
-Sont autant de Héros, dont vous privez Carthage.
-Romains, je les ai vus, de carnage altérés,
-Arracher de nos mains leurs drapeaux déchirés ;
-Échauffer, enflammer les coeurs les plus timides ;
-Dans les plus grands périls, toujours plus intrépides,
-Ivres de notre sang, dont ils étaient couverts,
-Ne succomber qu'au nombre, et rugit dans leurs fers.
-Devenus vos captifs, gardez-vous de les rendre.
-Contre eux, ce faible bras pourrait-il vous défendre ?
-D'ailleurs, n'avez-vous point celui de Métellus ;
-Et pouvez-vous encor regretter Régulus ?
-Je fus déjà vaincu ; je pourrais encor l'être :
-Votre estime, Romains, je la perdrais peut-être ;
-Je n'y survivrais pas, et je ne veux jamais
-Quand ils sont contre vous, accepter vos bienfaits.
-
--*who_licinius
-Ainsi vous exigez que Rome soit ingrate !
-Que sa honte paroisse où votre honneur éclate !
-Qu'ici, dans le Sénat, un arrêt solennel
-Vous condamne aux horreurs d'un exil éternel !
-Vous, de qui le retour aujourd'hui nous console !
-Vous, que nous devrions conduire au Capitole !
-Pour lui faire un tel fort, eût-il fallu, Romains,
-Le chercher dans le champ que labouraient ses mains ?
-Interrompre le cours de ses travaux rustiques,
-Et l'arracher du sein de ses Dieux domestiques ?
-On dirait donc un jour, parlant de Régulus !
-Rome eut un citoyen, fameux par ses vertus.
-Renonçant au repos, prodigue de sa vie,
-Il s'immolait entier au bien de la Patrie.
-Guerrier, par ses exploits il défendait l'État :
-Citoyen, ses conseils éclairaient le Sénat.
-Dans les déserts d'Afrique il s'ouvrit un passage ;
-Il affranchit le Tibre, il abaissa Carthage :
-Et ce même Romain, à l'exil condamné,
-Mourut dans un cachot, par Rome abandonné.
-
--*who_regulus
-Tu trahis Rome, et moi.
-
--*who_licinius
-      Va, je leur suis fidèle :
-Tout le Peuple, en ce jour, applaudit à mon zèle :
-Je suis son interprète, et je suis son appui :
-C'est en parlant pour toi, que je parle pour lui.
-
--*who_regulus
-Terminez, Sénateurs, un combat qui m'offense ;
-Ou bien, comme un aveu, j'entends votre silence.
-Qui peut vous arrêter ?
-
--*who_manlius
-      Justement étonnés,
-Je vois que tous les coeurs vers toi sont entraînés :
-Tout cède, s'attendrit ; et je ressens moi-même
-Quel est sur le Sénat ton ascendant suprême.
-Il faut peser, sans toi, de si grands intérêts :
-Alors, plus d'équité réglera nos décrets ;
-Et nous t'en instruirons.
-
--*who_regulus
-      Quoi ! Manlius balance ?
-
--*who_manlius
-Il craint plutôt, il craint l'effet de ta présence.
-
--*who_regulus
-Hé bien ! Romains, je sors : surtout point de pitié.
-Faites triompher Rome, et non pas l'amitié.
-
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_manlius
-C'est un avis des Dieux que Régulus nous donne.
-Que le Sénat s'assemble au Temple de Bellone :
-Puisse-t-elle éclairer nos esprits incertains !
-Mais, au défaut des Dieux, agissons en Romains.
-Je marche sur vos pas.
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_manlius
-      Ô héros ! Ô grand homme !
-Faut-il donc qu'à jamais tu sois perdu pour Rome ?
-J'ai conçu tes raisons ; je dois, avec éclat,
-À ton austère avis ramener le Sénat :
-Je le dois ; il le faut : Rome attend de mon zèle
-Que je sois inflexible, et que je sois fidèle :
-Rome parle à mon coeur, comme elle parle au tien ;
-Et, par toi-même instruit, je serai citoyen.
-Que tu vas m'applaudir ! Mais que dira Marcie ?
-Elle va m'accuser ou de haine ou d'envie :
-Dans les emportements de sa juste douleur,
-Mon devoir, à ses yeux, sera mon déshonneur...
-Que me font après tout, et ses cris et ses larmes ?
-Dois-je être, plus que toi, sensible à ses alarmes ?
-Je crains peu les soupçons : il est, il est des Dieux ; ⁎⁎⁎⁎
-Et leur regard suffit à l'homme vertueux.
-Qu'importe à l'innocence un passager murmure ?
-Rien ne peut éclipser le jour qui la rassure.
-Quand je sers la Patrie, et songe à son bonheur,
-J'ai le Ciel pour témoin ; mon juge est dans mon coeur.
-
-**** *book_ *id_II01 *act_II *date_(non
-
--*who_regulus
-Enfin me voilà seul ! ô ma chère Marcie !...
-Est-il de mon destin d'empoisonner ta vie ?
-J'ai craint de te montrer l'excès de mon amour :
-Tu pleurais mon absence, et pleures mon retour !
-Malheureuse ! Ah ! Pardonne : attendri par tes charmes,
-J'ai senti l'amertume et le prix de tes larmes :
-Mais enfin j'ai promis... Ainsi donc, pour jamais,
-Je consens à briser les noeuds les plus parfaits !
-Parmi les pleurs, les cris, toujours calme et sévère,
-Je renonce aux doux noms et d'époux et de père ;
-À ce soin, le premier d'un coeur tel que le mien,
-De former dans mon fils l'âme d'un citoyen ! Hélas !...
-Mais quel soupir échappe à mon courage ?
-Suis-je donc Régulus ? Est-ce là son langage ?
-Rome, reçois ici tous les voeux de ce coeur,
-Enivré de ta gloire et plein de ta grandeur :
-Entouré de liens, c'est toi que je préfère :
-Citoyen, je ne suis époux, ami, ni père...
-Que dis-je ? En ce moment peut-être le Sénat,
-Afin de me sauver, immole tout l'État.
-Pour me mettre à l'abri de ce zèle barbare,
-En vain j'aurai caché la mort qu'on me prépare.
-Se pourrait-il ?... Voilà ce qui doit m'agiter !
-Voilà le seul péril que j'aie à redouter.
-Sénateurs, songez bien que la perte d'un homme
-Ne doit point occuper les défenseurs de Rome.
-On vient... Ciel ! C'est Marcie !....
-
-**** *book_ *id_II02 *act_II *date_(non
-
--*who_marcie
       Ah ! que m'a-t-on appris ?
 
--*who_regulus
-Comment ?...
-
--*who_marcie
       De mon amour, Dieux ! quel horrible prix !
 Ainsi ton généreux et cruel artifice
 De ta perte aujourd'hui rendait Rome complice !
@@ -478,31 +702,14 @@ Mais enfin, tout est su. Le Sénat qui t'admire,
 Tremble, et frémit du piège où tu l'allais conduire :
 Tout sera réparé.
 
--*who_regulus
-      Qu'entends-je ? que dis-tu ?
-
--*who_marcie
 Oui ; nous te défendrons de ta propre vertu.
 Pour te rendre à ton fils, à sa mère qui t'aime,
 Barbare, il faudra bien t'arracher à toi-même.
 
--*who_regulus
-D'où naissent ces discours qui me glacent d'effroi ?
-De ces nouveaux projets quel est l'auteur ?
-
--*who_marcie
       Qui ? moi !
 
--*who_regulus
-Vous !
-
--*who_marcie
       Moi..
 
--*who_regulus
-      Parlez.
-
--*who_marcie
       Ma tendresse incertaine
 A su tout découvrir par la Garde Africaine.
 J'ai couru, j'ai volé, l'oeil inondé de pleurs ;
@@ -524,14 +731,6 @@ Ce noble abaissement déplaît à ton courage :
 Mais, quels que soient ici tes superbes discours
 Quel sera mon orgueil, si j'ai sauvé tes jours ?
 
--*who_regulus
-Qu'as-tu dit ? qu'as-tu fait ? Quelle aveugle tendresse,
-Pour mieux me dégrader, à mon sort t'intéresse ?
-À tes vaines frayeurs serai-je donc soumis ?
-Et faut-il te compter parmi mes ennemis ;
-Parmi ceux de l'État ?
-
--*who_marcie
       De l'État ? À quel titre ?
 Je prends Rome aujourd'hui, l'Univers pour arbitre,
 Eh ! que n'as-tu point fait pour tes concitoyens ?
@@ -541,10 +740,6 @@ Délaissé, quand ton bras ne put leur être utile :
 Lorsque le Ciel enfin te remet dans le port,
 Après un long oubli, que leur dois-tu ?
 
--*who_regulus
-      Ma mort.
-
--*who_marcie
 Ta mort ! qu'oses-tu dire ? Et ton fils et ta femme
 N'ont-ils pas, Régulus, quelques droits sur ton âme ?
 Verras-tu d'un oeil sec, et ses pleurs et les miens ?
@@ -556,35 +751,6 @@ Ton épouse expirante et ton fils sans appui.
 Tu m'aimas !... Ah ! ton coeur infidèle et parjure
 Doit-il donc tout à Rome, et rien à la Nature ?
 
--*who_regulus
-La Nature, Marcie, a des droits précieux,
-Trop connus de ce coeur, qu'elle rendait heureux,
-Tu le sais : quand le Ciel eut joint nos destinées,
-Dans quels ravissements s'écoulaient nos années !
-Satisfait de ton coeur, sans brigues, sans chagrins,
-Enviais-je le sort des superbes humains ?
-Exerçant dans mes champs une obscure industrie
-Par mes voeux seulement je servais la Patrie.
-Elle m'a réclamé : j'ai volé : je l'ai dû :
-J'ai regretté ce temps que je croyais perdu ;
-Et, pour la bien venger de ce repos stérile,
-Jusqu'au dernier soupir je lui veux être utile.
-La Patrie est un corps respectable et sacré :
-Qui de nous peut sans crime en être séparé ?
-Lui prodiguer son sang, la servir, la défendre,
-Va, crois-moi, ce n'est point lui donner, c'est lui rendre.
-Ne lui devons-nous pas, rangs, honneurs, sûreté,
-Le nom de citoyen, surtout la liberté,
-La liberté, sans qui l'homme cesse d'être homme,
-Ce droit cher et sacré, qui fait l'orgueil de Rome.
-Il faut de quelque peine acheter sa douceur ;
-Mais, exempt de travaux, a-t-on droit au bonheur ;
-L'ingrat qui le prétend, qu'il s'éloigne, qu'il fuit ;
-Qu'il aille, loin du Tibre, ensevelir sa vie,
-Et malheureux partout, chassé de l'Univers,
-À des monstres cruels disputer les déserts.
-
--*who_marcie
 Ah, Dieux ! combien ton zèle et t'aveugle et t'égare !
 Peut-on être la fois et sensible et barbare ?
 Mais quelle est donc enfin, quelle est ta liberté ;
@@ -608,36 +774,9 @@ Voilà les droits de l'homme, et voilà son bonheur.
 Va, qui n'ose en jouir, qui peut les méconnaître,
 Est esclave en effet, en croyant ne pas l'être.
 
--*who_regulus
-Eh ! J'ai pu t'écouter ! Ô Ciel ! Ne poursuis pas.
-Ces vains raisonnements sont un frivole appas.
-Je veux...
-
--*who_marcie
       À ces transports, à ta noble colère
 Je répondrai deux mots ; je suis épouse et mère.
 
--*who_regulus
-Sois Romaine ; à ma voix laisse échauffer ton coeur.
-Du noeud qui te retient j'ai connu la douceur ;
-Comme toi, de l'Amour j'ai senti les délices ;
-Mais les grandes vertus sont les grands sacrifices :
-Ces sublimes efforts distinguent les Romains,
-Et les ont séparés du reste des humains.
-Pour illustrer leur mort, ils consacrent leur vie :
-La Nature leur cède, et leur est asservie ;
-Elle combat en vain l'ardeur d'un si beau feu :
-L'écouter est d'un homme, et la vaincre est d'un Dieu.
-De la gloire, Marcie, ignores-tu les charmes ?
-J'ai dû, jusques ici, pardonner à tes larmes ;
-Mais enfin jure-moi, s'il fallait nous quitter,
-D'étouffer tes soupirs, de ne point m'arrêter ;
-De ne voir mon trépas que comme une victoire,
-Qui me rend tous mes droits, en me rendant ma gloire.
-Si je brave en Romain la mort et ses horreurs,
-Sois Romaine, du moins, en retenant tes pleurs.
-
--*who_marcie
 Je ne la connais point, cette vertu cruelle,
 Tout mon coeur la dément, et n'est point fait pour elle.
 Qui, moi ! je te verrais t'arracher de mes bras,
@@ -654,41 +793,17 @@ Mais, grâce aux Dieux vengeurs et protecteurs du Tibre,
 Mes craintes vont finir, bientôt tu seras libre :
 On vient me l'annoncer.
 
-**** *book_ *id_II03 *act_II *date_(non
-
--*who_regulus
-      Hé bien, suis-je trahi ?
-Réponds...
-
--*who_priscus
-      Par ce billet vous serez éclairci.
-
--*who_marcie
 Une lettre... donnez....
 
--*who_regulus
-      Que faites-vous ?
-Marcie, Osez-vous ?
-
--*who_marcie
       J'ose tout, quand je crains pour ta vie.
 Tes conseils au Sénat ont prévalu par moi ;
 Je les ai soutenus en ami d'un grand homme :
 Je n'ai vu que ta gloire et l'intérêt de Rome :
 Moi-même, ô Régulus, j'ai parlé contre toi,
 
--*who_regulus
-Rome l'emporte enfin !
-
--*who_marcie
       Je reste anéantie.
 Tiens, voilà ton arrêt.
 
--*who_regulus
-      Mon triomphe, ô Patrie !
-Généreux Manlius !
-
--*who_marcie
       C'en est trop : à ce nom,
 Mon coeur n'écoute plus ni conseil, ni leçon :
 Je ne saurais souffrir qu'on me vante un barbare,
@@ -702,74 +817,15 @@ Il n'est point assez grand pour défendre un héros :
 Il nourrit dans son coeur une secrète envie ;
 Et te hait, Régulus, sans aimer la Patrie.
 
--*who_regulus
-Reviens à toi, Marcie : est-ce là me chérir ?
-J'abjure ton amour, quand il me fait rougir.
-Prétends-tu pénétrer, d'une vue incertaine,
-Les augustes secrets de la grandeur romaine ;
-Juger tous ces ressorts, ces douloureux combats,
-Ces pénibles vertus, que tu ne conçois pas ?
-Renferme tes soupçons : et toi, Priscus, pardonne
-Cette indigne faiblesse où son coeur s'abandonne.
-Avec transport. Va dire à Manlius, qu'il a rempli mes voeux ;
-Et que, plus que jamais, il est cher à mes yeux.
-Mais, s'il ne poursuit point, il n'a rien fait encore :
-Pour hâter mon départ, c'est lui seul que j'implore :
-Un coeur tel que le sien ne peut se démentir.
-S'il aime Rome enfin, qu'il m'en fasse sortir :
-D'un Peuple mutiné qu'il éclaire le zèle ;
-Qu'il brave son murmure, et qu'il me soit fidèle :
-Priscus, son amitié, dont je ressens l'effet,
-Éclatera surtout dans ce dernier bienfait.
-
--*who_marcie
 Je ne sais où je suis... On vient ; quelqu'un s'avance.
 Je vois Licinius... Ah ! J'ai quelque espérance.
 
-**** *book_ *id_II04 *act_II *date_(non
-
--*who_licinius
-Le Peuple vers ces lieux accourt de toute part ;
-Et tous de Régulus condamnent le départ.
-
--*who_regulus
-Eh ! dois-je respecter leurs caprices bizarres ?
-
--*who_licinius
-On doute que la foi soit due à des Barbares :
-Pour décider ce doute et ce point important,
-Les Augures mandés s'assemblent à l'instant.
-
--*who_regulus
-Ni le vol des oiseaux, ni le flanc des victimes,
-Ne peut déterminer nos vertus ou nos crimes :
-La sainte vérité, que rien ne peut changer,
-Parle sans cesse au coeur qui sait l'interroger ;
-Je cède, j'obéis à ses lois toujours sures.
-L'honneur et la vertu n'ont pas besoin d'augures.
-
--*who_marcie
 De grâce, cher époux, attendons leurs décrets.
 
--*who_regulus
-Non ; je n'attendrai rien, si mes vaisseaux sont prêts.
-
--*who_marcie
 Quoi ! Toujours inflexible, et fier de ton courage,
 Tu peux me préférer les bourreaux de Carthage ?
 Tu peux !
 
--*who_regulus
-      De ta douleur, va, je suis pénétré :
-Mais voudrais-tu, dis-moi, d'un coeur déshonoré ?
-Femme de Régulus, imite sa constance :
-Ta faiblesse à la fois m'attendrit et m'offense.
-Va rejoindre ton fils, ce fils ton seul espoir,
-Qui dut me consoler, et que je n'ose voir.
-C'est pour lui, c'est pour toi que Régulus t'implore,
-Que je revive en lui, pour te chérir encore.
-
--*who_marcie
 Ah ! Tu portes la mort dans mes sens effrayés :
 C'est au nom de ce fils que je tombe à tes pieds...
 De ce fils tant aimé... Que lui dira sa mère ?
@@ -788,276 +844,23 @@ Et je l'ai vu souvent pour toi quel doux présage !
 S'indigner et frémir au seul nom de Carthage.
 Tu sembles t'attendrir.
 
--*who_regulus
-      Je reconnais mon fils :
-Chère épouse !... Il sera l'honneur de son pays.
-Dans es grands sentiments affermis bien son âme :
-Il n'aura plus que toi ; c'est toi que je réclame.
-Puisse-t-il de Carthage être un jour le fléau,
-Et dans ses murs fumants pleurer sur mon tombeau !
-
--*who_marcie
 Quoi ! je n'obtiendrai rien ! quoi l'amour le plus tendre
 À ton coeur généreux ne peut se faire entendre !
 Ah ! joignez-vous à moi, mon cher Licinius :
 Désarmez votre ami, qui ne me connaît plus.
 
--*who_licinius
-Qu'espérez-vous de moi, quand il brave vos larmes !
-Puis-je fléchir un coeur qui résiste à vos charmes ?
-
--*who_regulus
-Ah ! vous n'en doutez pas ; je vous aime tous deux :
-Même en les déchirant, je respecte mes noeuds.
-Je sens couler mes pleurs dans ce moment horrible.
-Va ; mon coeur, chère épouse, est loin d'être insensible ;
-Mais il est des devoirs augustes, révérés,
-Qui, pour être cruels, n'en sont pas moins sacrés.
-L'homme doit les remplir ; c'est là son apanage ;
-Il doit à ces devoirs mesurer son courage,
-Ou languir dans la honte et dans l'obscurité,
-Flétri par un bonheur qu'il n'a point mérité.
-Hélas ! J'ajoute encore au trouble qui t'agite.
-Marcie...
-
--*who_marcie
       Hé bien ? cruel !...
 
--*who_regulus
-      Je t'adore et te quitte.
-Adieu.
-
--*who_marcie
       Cher Régulus !
 
--*who_regulus
-      Laisse-moi.
-
--*who_marcie
       Je te suis.
 Ah ! Pour le retenir, tout doit m'être permis.
 Et, puisque de l'amour il brave le murmure,
 Faisons parler encor la voix de la Nature.
 
-**** *book_ *id_III01 *act_III *date_(non
-
--*who_regulus
-Ô zèle injurieux ! par la foule entraîné,
-Dans ce lieu, malgré moi, je me vois ramené !
-Le Peuple à mes vaisseaux me ferme le passage !
-L'opprobre d'un Romain, ô Rome, est ton ouvrage !
-Fondateurs de l'Empire, illustres demi-Dieux,
-Qu'un airain immortel reproduit à mes yeux,
-Vous qu'enflamma toujours l'amour de la Patrie,
-Soyez les défenseurs de ma gloire flétrie,
-Sortez de vos tombeaux, et garants de ma foi,
-Élevez-vous soudain entre ce peuple et moi.
-Dans les fers de Carthage, hélas ! Je fus plus libre,
-Qu'au sein de ma Patrie et sur les bords du Tibre.
-On commande à mes voeux ; on enchaîne mes pas ;
-On ne craint point ma honte ; et l'on craint mon trépas !
-
-**** *book_ *id_III02 *act_III *date_(non
-
--*who_licinius
-Le Peuple ne veut point que Régulus le quitte ;
-Je remplis, en son nom, la loi qui m'est prescrite.
-Il veut sauver la vie à qui fut son vengeur.
-Le Sénat...
-
--*who_manlius
-      Le Sénat lui veut sauver l'honneur.
-Citoyens, que l'on ouvre un chemin au rivage.
-
--*who_licinius
-Amis de Régulus, défendez le passage.
-
--*who_manlius
-Que fais-tu ?
-
--*who_licinius
-      Mon devoir.
-
--*who_manlius
-      Licteurs !
-
--*who_licinius
-      Peuple !
-
--*who_regulus
-      Arrêtez.
-C'est donc à moi, Tribun, à qui vous insultez !
-Malheureux que je suis ! ainsi, dans cet asile,
-J'apportais le flambeau de la guerre civile !
-Non ; toi seul as tout fait : toi seul, avec éclat,
-Sus opposer le Peuple au décret du Sénat,
-As fait parler les Dieux consultés par ton zèle :
-Va ; garde ta pitié ; je suis au-dessus d'elle.
-Quand tu crois me sauver, c'est toi, Licinius,
-Qui plonges le poignard au sein de Régulus :
-Tu me ravis l'honneur, seul bien qui me console,
-Barbare ; et c'est ainsi que la faiblesse immole.
-
--*who_licinius
-Que dis-tu ? j'obéis, au Peuple, à l'équité.
-Je sers Rome et les Dieux ; je sers l'humanité.
-Quand ta noble fureur me condamne et m'accuse,
-Que tous ces grands motifs soient au moins mon excuse.
-Plutôt que tes lauriers fussent flétris par moi,
-Cette main verserait tout mon sang devant toi ;
-Mais, quand tu cours remplir des devoirs trop funestes,
-Tout veut qu'on te retienne, et tout veut que tu restes !
-
--*who_regulus
-Que je reste, grands Dieux ! non, ne l'espérez pas ;
-Non, laissez-moi vous fuir, me sauver de vos bras.
-C'est une lâcheté que des Romains demandent !
-Et c'est de Régulus que des Romains l'attendent !
-
--*who_licinius
-As-tu donc mérité de mourir dans les fers ?
-
--*who_regulus
-Eh ! Pourquoi les briser, dis-moi, s'ils me sont chers ?
-Moi ! je préférerais à des fers honorables
-La triste liberté qu'on laisse à des coupables !
-Je mettrais mon honneur et le vôtre en oubli !
-Est-on libre, en effet, lorsqu'on est avili ?
-Ces chaînes font ma gloire, et la rendent plus pure.
-Si vous me les ôtez, je ne suis qu'un parjure,
-Un traître, un fugitif, à qui, même en ces lieux,
-Le dernier citoyen ferait baisser les yeux.
-Il n'est point de liens, pour l'homme qui les brave ;
-Et c'est le crime seul qui peut le rendre esclave.
-
--*who_licinius
-Regarde, autour de toi ; contemple nos douleurs :
-Rome entière, à tes pieds, les arrose de pleurs.
-
--*who_regulus
-Je dois mourir pour elle...
-
--*who_licinius
-      Ainsi d'affreux supplices
-Paieront tant de vertus, d'exploits et de services ?
-
--*who_regulus
-J'ai fait ce que j'ai dû, quand je vous ai servis ;
-Mais il est un moyen de m'en payer le prix.
-
--*who_licinius
-Comment ?
-
--*who_regulus
-      Les Africains, que j'ai trop su connaître,
-Ont cru dans Régulus vous envoyer un traître,
-Qui de leur cruauté voudrait se préserver,
-Et viendrait vous trahir, afin de se sauver ;
-Ah ! c'est là pour mon coeur la plus sensible offense.
-Hé bien ! je vous remets le soin de ma vengeance ;
-C'est la vôtre. Armez-vous ; armez mille vaisseaux :
-Cherchez, au sein des mers, des triomphes nouveaux :
-Ô braves citoyens, rapportez sur ces rives
-Vos drapeaux avilis et vos aigles captives.
-Ne quittez point le fer, que vos rivaux punis
-N'expirent étendus sur de sanglants débris.
-Éternel Monument de la rage Africaine,
-Que ma mort dans vos coeurs soit un titre de haine.
-Pour vous guider encor, mes mânes en courroux,
-S'élevant dans vos rangs, marcheront devant vous ;
-Et, mon nom devenant le signal du carnage,
-Du fond de mon tombeau je détruirai Carthage.
-Cette idée ennoblit le trépas où je cours :
-Ne bornons point la vie au terme de nos jours.
-Amis, le lâche meurt, et jamais le grand homme :
-Brutus n'est plus, Brutus respire encor dans Rome.
-Je vois à mes regards un vaste champ s'ouvrir ;
-Revivre dans vos coeurs, est-ce donc là mourir ?
-Eh : qu'importe mon sang ? il est à ma Patrie :
-Romains, avec transport, je vous le sacrifie.
-Puissé-je le verser, en combattant pour vous,
-Entouré d'Africains expirants par mes coups !
-Ne m'arrêtez donc plus, au nom d'un Peuple libre,
-De ces monts, de ces lieux arrosés par le Tibre.
-Quel prix de mon trépas, et pour moi quels honneurs,
-Quand je serai nommé parmi vos bienfaiteurs,
-Lorsque de vieux Romains, héritiers de mon zèle,
-À leurs enfants un jour m'offriront pour modèle !
-
--*who_licinius
-Est-ce un Dieu qui nous parle ?
-
--*who_regulus
-      Ah ! Vous êtes Romains !
-Vous allez à l'instant m'ouvrir tous les chemins.
-Je sais qu'au fond du coeur, chacun de vous m'envie,
-Et fait des voeux secrets, pour perdre ainsi la vie.
-Un instant de pitié surprit votre vertu...
-Mais vous en rougissez ; l'honneur a reparu
-Vous avez surmonté ces indignes alarmes.
-Achevez, Citoyens ; jetez au loin ces armes :
-Dérobez à mes veux des regrets superflus,
-Et jusqu'à ses vaisseaux conduisez Régulus.
-
--*who_licinius
-Ils obéissent tous : je demeure immobile !
-Contre sa fermeté mon zèle est inutile.
-
--*who_regulus
-Dieux ! le passage est libre... Africains, je vous suis.
-
-**** *book_ *id_III03 *act_III *date_(non
-
--*who_marcie
 Avant que de partir, embrasse au moins ton fils.
 Toi, vole dans ses bras.
 
--*who_regulus
-      Ah ! malheureux !
-
--*who_attilius
-      Mon père !
-Quoi ! vous abandonnez votre fils et sa mère !
-Vous voulez nous quitter, pour courir au trépas !
-Et quand je vous revois, c'est pour vous perdre.
-
--*who_regulus
-Hélas !
-
--*who_attilius
-      Ah ! Demeurez ; soyez l'appui de ma jeunesse :
-Que je puisse vous voir, vous contempler fans cesse !
-Laissez dans votre coeur, faible une seule fois,
-Pénétrer les accents de ma timide voix.
-Au nom de mon amour, de mes pleurs, de mon âge !
-Mon Père, demeurez, n'allez point à Carthage...
-Je tombe à vos genoux... vous ne m'écoutez pas,
-Mon père, vous m'avez repoussé de vos bras !
-
--*who_regulus
-Que dites-vous, mon fils... va, sois sûr que je t'aime,
-En m'arrachant à toi, je m'arrache à moi-même :
-Mais, fils de Régulus, tu dois, au fond du coeur,
-Tu dois déjà sentir tout ce que peut l'honneur.
-C'est à lui, dans ce jour, qu'il faut que je m'immole :
-C'est pour lui que je meurs ; c'est lui qui me console.
-Par d'indignes regrets au lieu de m'outrager,
-Que ton bras, jeune encore, apprenne à me venger :
-Attends, pour me pleurer, qu'il ait détruit Carthage.
-Tous ces braves Romains guideront ton courage :
-Il n'en est pas un seul qui ne soit ton soutien ;
-Et je te laisse un père en chaque Citoyen.
-Va, mon fils, fans rien craindre, entre dans la carrière,
-Peut-être tu seras plus heureux que ton père.
-De la tendre Marcie apaise les douleurs ;
-Mais n'instruis point tes yeux à répandre des pleurs :
-Sans l'imiter jamais, console sa faiblesse.
-Que ta noble constance augmente sa tendresse :
-Qu'elle applaudisse, un jour, à tes exploits guerriers,
-Et sente encore la joie, en voyant tes lauriers !
-Embrasse-moi, mon fils !... Tout est prêt...
-
--*who_marcie
       Ah ! Barbare !
 Sont-ce là les adieux que ton coeur nous prépare ?
 Ainsi, de mes tourments tu te fais un devoir !
@@ -1079,26 +882,6 @@ Ils pourront, au lieu d'une, égorger trois victimes.
 Sous le même couteau, leurs bras, que tu conduis,
 Réuniront le père, et la mère, et le fils.
 
--*who_regulus
-Qu'oses-tu proposer ? Quelle effrayante image !
-Ah ! Marcie, est-il temps d'ébranler mon courage ?
-Laisse-moi vaincre enfin. Toi, me suivre !
-Qui, toi ! Rome, Rome réclame et ton zèle et ta foi.
-Veille sur notre fils ; qu'il devienne un grand homme !
-Tu te dois à ce fils, et tu le dois à Rome.
-Tu ne peux en sortir, fans blesser ton devoir,
-Sans trahir son attente, et tromper mon espoir
-Aux paisibles vertus forme son jeune coeur.
-Il faut, pour être grand, plus que de la valeur.
-Qu'il soit vrai, généreux, mais surtout équitable !
-Qu'il soit l'appui du faible, et l'effroi du coupable !
-Qu'il garde ses serments, qu'il s'exerce aux travaux !
-Enfin, qu'il vive en Sage, et qu'il meure en héros !
-Dans tous les temps, Marcie aux Romains sera chère :
-Du fils de Régulus on aimera la mère.
-Approche-toi, mon fils... Séparons-nous...
-
--*who_marcie
       Ah ! Dieux !
 Pourrez-vous le souffrir ce départ odieux !
 Vous qui semiez tantôt des fleurs sur son passage,
@@ -1121,52 +904,94 @@ Les supplices sont dus à son persécuteur,
 De ses maux et des miens lâche et perfide auteur ;
 À Manlius...
 
--*who_regulus
-      Arrête : ô Ciel ! Qu'oses-tu dire ?
-Manlius ! ce Héros, que j'aime et que j'admire !
-De tes emportements, oui, tu me vois confus :
-Si tu m'aimes encor, respecte Manlius...
-Romains, n'écoutez point un transport si coupable :
-La vertu soupçonnée en est plus respectable.
-Pour ne la point défendre, ou venger à demi,
-Je cours, aux yeux de tous, embrasser mon ami ;
-Il mérite ce titre, il a sauvé ma gloire :
-Son coeur est noble et pur ; c'est moi qu'il en faut croire.
-Viens expier, mon fils, un outrage odieux :
-Voilà ton protecteur.
-
--*who_manlius
-      J'en atteste les Dieux.
-Jusqu'au dernier soupir je lui tiens lieu de père ;
-Je le jure, en tes mains, aux yeux de Rome entière.
-Je pardonne à Marcie un excès de douleur.
-Je n'en ai point rougi ; j'étais sûr de mon coeur :
-Je connaissais le tien. Un jour, un jour peut-être,
-Elle sera plus juste, et pourra me connaître.
-Je sais, ô Régulus, te plaindre et t'admirer ;
-Mais je ne te fais point l'affront de te pleurer.
-
--*who_regulus
-Et voilà l'amitié dont un Romain s'honore.
-Je vais mourir content... Mais qui m'arrête encore,
-Je fuis : c'est trop longtemps demeurer en ces lieux,
-Déshonorer ce jour, et souiller nos adieux.
-Marcie !... Ah ! Cache-moi ces indignes alarmes.
-Qu'on l'éloigne... Mon fils !... je te défens les larmes.
-
--*who_marcie
 Il court à ses vaisseaux !.. Il y monte... Grands Dieux !
 Arrête, époux barbare, ou je meurs à tes yeux.
 
--*who_regulus
-Sauvez-la, Citoyens !... Ah ! Tout mon coeur frissonne.
-
--*who_regulus
-Ô mon cher Manlius !
-
--*who_marcie
       La force m'abandonne.
 
--*who_regulus
-Je puis partir enfin. Veillez, ô mes amis,
-Sur les jours d'une épouse, et sur ceux de mon fils.
+
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licinius
+
+Ah, Dieux !
+
+Si l'échange vous sauve, il le faut accorder.
+
+Ce conseil généreux, pensez-vous qu'on le suive,
+Et d'un si noble appui que le Sénat se prive ?
+
+Mourir ! vous, Régulus, un autre espoir m'anime :
+Il faut un autre prix à ce zèle sublime :
+Et si l'échange enfin peut être dangereux,
+N'êtes-vous rien pour nous ?
+
+Ainsi vous exigez que Rome soit ingrate !
+Que sa honte paroisse où votre honneur éclate !
+Qu'ici, dans le Sénat, un arrêt solennel
+Vous condamne aux horreurs d'un exil éternel !
+Vous, de qui le retour aujourd'hui nous console !
+Vous, que nous devrions conduire au Capitole !
+Pour lui faire un tel fort, eût-il fallu, Romains,
+Le chercher dans le champ que labouraient ses mains ?
+Interrompre le cours de ses travaux rustiques,
+Et l'arracher du sein de ses Dieux domestiques ?
+On dirait donc un jour, parlant de Régulus !
+Rome eut un citoyen, fameux par ses vertus.
+Renonçant au repos, prodigue de sa vie,
+Il s'immolait entier au bien de la Patrie.
+Guerrier, par ses exploits il défendait l'État :
+Citoyen, ses conseils éclairaient le Sénat.
+Dans les déserts d'Afrique il s'ouvrit un passage ;
+Il affranchit le Tibre, il abaissa Carthage :
+Et ce même Romain, à l'exil condamné,
+Mourut dans un cachot, par Rome abandonné.
+
+      Va, je leur suis fidèle :
+Tout le Peuple, en ce jour, applaudit à mon zèle :
+Je suis son interprète, et je suis son appui :
+C'est en parlant pour toi, que je parle pour lui.
+
+Le Peuple vers ces lieux accourt de toute part ;
+Et tous de Régulus condamnent le départ.
+
+On doute que la foi soit due à des Barbares :
+Pour décider ce doute et ce point important,
+Les Augures mandés s'assemblent à l'instant.
+
+Qu'espérez-vous de moi, quand il brave vos larmes !
+Puis-je fléchir un coeur qui résiste à vos charmes ?
+
+Le Peuple ne veut point que Régulus le quitte ;
+Je remplis, en son nom, la loi qui m'est prescrite.
+Il veut sauver la vie à qui fut son vengeur.
+Le Sénat...
+
+Amis de Régulus, défendez le passage.
+
+      Mon devoir.
+
+      Peuple !
+
+Que dis-tu ? j'obéis, au Peuple, à l'équité.
+Je sers Rome et les Dieux ; je sers l'humanité.
+Quand ta noble fureur me condamne et m'accuse,
+Que tous ces grands motifs soient au moins mon excuse.
+Plutôt que tes lauriers fussent flétris par moi,
+Cette main verserait tout mon sang devant toi ;
+Mais, quand tu cours remplir des devoirs trop funestes,
+Tout veut qu'on te retienne, et tout veut que tu restes !
+
+As-tu donc mérité de mourir dans les fers ?
+
+Regarde, autour de toi ; contemple nos douleurs :
+Rome entière, à tes pieds, les arrose de pleurs.
+
+      Ainsi d'affreux supplices
+Paieront tant de vertus, d'exploits et de services ?
+
+Comment ?
+
+Est-ce un Dieu qui nous parle ?
+
+Ils obéissent tous : je demeure immobile !
+Contre sa fermeté mon zèle est inutile.
+

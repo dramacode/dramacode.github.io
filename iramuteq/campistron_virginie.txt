@@ -1,43 +1,9 @@
 
 
-**** *book_ *id_dedicace *date_1683 *creator_campistron
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_appius
 
-A MONSEIGNEUR DE FIEUBET, PREMIER PRESIDENT DU PARLEMENT DE TOULOUSE.
-
-Monseigneur,
-
-Si je prends la liberté de vous offrir cette TrageIV die, je ne songe qu'à vous rendre des graces publiques de la puissante et genereuse protection dont vous avez toûjours honoré ma famille ; elle vous a des obligations infinies, et toute la reconnoissance que j'en puis marquer est de l'apprendre à tout le monde ; c'est l'unique dessein que je me suis proposé, Vous ne verrez aucun Eloge dans cette Epistre, celuy que je fairois de Vous, Monseigneur, auroit trop peu de force pour un si grand sujet, et j'ay V vû tant de gens plus habiles que moy échoüer dans cette mesme entreprise, que je dois profiter de leur exemple, et me taire lorsqu'il est trop dangereux de parler.
-Mais quand je serois assez hardy pour entreprendre une chose si difficile, que pourrois-je dire de vous, Monseigneur, que toute la France ne sçache aussi bien que moy ? elle regarde avec admiration cette penetration vive, et cette integrité inébranlable qui après s'estre consommées dans les plus importantes VI Charges de la Robe vous firent choisir par Louis le Grand, pour estre le Chef du second Parlement du Royaume, dans un âge où il n'est permis qu'aux hommes extraordinaires de pretendre à de pareilles dignitez : Heureux sont les peuples qui peuvent voir briller de pres vos éminentes vertus dans cette Auguste Place, et ressentir à toute heure les effets de votre Justice.
-Ils poussent sans doute des vœux continuels au Ciel pour la conservation d'une vie aussi glorieuse que la vôVII tre, et qui leur est si necessaire ; mais c'est ce que je fais plus que tous, puisque je connois mieux que personne ces verités éclatantes, et que je suis avec un profond respect.
-
-Monseigneur,
-
-Vostre tres-humble, et
-
-tres-obeïssant serviteur
-
-C ⁎ ⁎ ⁎
-
-**** *book_ *id_acte101 *act_acte1 *date_1683 *creator_campistron 
-
--*who_clodius
-De ma temerité Rome entiere surprise,
-Demande les raisons d'une telle entreprise,
-Le Peuple compatit à la juste douleur
-D'un amant⁎ éperdu, d'une mere en fureur⁎ :
-Il est temps d'informer Rome, Icile et Plautie
-Des droits qui m'ont permis d'enlever Virginie.
-Qu'ils aprennent, Seigneur, et sans plus differer...
-
--*who_appius
 Helas !
 
--*who_clodius
-      Qui peut encor vous faire soûpirer⁎ ?
-Quel injuste chagrin⁎ et vous trouble⁎ et vous gesne⁎ ?
-Que craignez-vous ?
-
--*who_appius
       Je crains l'aspect d'une inhumaine.
 Je crains de nos projets le succés dangereux ;
 Que puis-je attendre enfin d'un amour malheureux,
@@ -62,59 +28,6 @@ Mille perils divers s'offrent à ma pensée ;
 Mais je tremble sur tout qu'un odieux Rival
 Au repos de mes jours ne soit encor fatal.
 
--*who_clodius 
-De mon zele pour vous assuré dés l'enfance
-Vous m'avez honoré de vostre confiance,
-Seigneur, et vostre main par de nouveaux bienfaits
-A semblé chaque jour prevenir⁎ mes souhaits.
-Mais le plus grand de tous, Seigneur, je le confesse,
-C'est d'avoir employé mes soins et mon adresse,
-Pour rompre le bonheur qu'Icile s'est promis ;
-Je le hay plus luy seul que tous mes ennemis.
-Depuis que par sa brigue assurant ma disgrace
-Je l'ay vû dans nos Camps commander en ma place ;
-Et par l'injuste choix de Rome et du Senat
-Des honneurs qu'on me doit obtenir tout l'eclat⁎.
-Que je serois heureux⁎ de le pouvoir detruire !
-Je goûteray du moins le plaisir de luy nuire,
-Puisqu'enfin vôtre amour me permet aujourd'huy
-D'attacher à ses jours un éternel ennuy⁎.
-Mais je n'aurois pas crû, quelque ardeur qui vous presse⁎,
-Que le cœur d'Appius fit voir tant de foiblesse ;
-Tout flatte⁎ vos desirs, tout succede à vos vœux,
-Vous n'avez qu'à vouloir, Seigneur, pour estre heureux⁎,
-Cependant un Rival que vostre amour accable
-Vous gesne et vous paroist encore redoutable ?
-Il vous le falloit craindre en cet instant cruel⁎
-Que conduisant déja Virginie à l'autel,
-Par les liens sacrez d'un heureux⁎ Hymenée
-Il alloit à son sort joindre sa destinée,
-Lors que tout estoit prest ; la coupe, le couteau,
-La victime, l'encens, le Prestre, le flambeau :
-Quand Plautie elle même à ses desirs propice
-Pour l'hymen de sa fille offroit un sacrifice ;
-C'estoit alors, Seigneur, qu'on eût pû pardonner
-Le trouble⁎ où vostre cœur semble s'abandonner,
-Mais j'ay mis à ces nœuds⁎ un invincible obstacle,
-Et pour vous épargner ce funeste⁎ spectacle
-J'ay ravy la conqueste à cet heureux⁎ amant⁎,
-Dans le Temple, à l'Autel, dans le même moment
-Qu'il formoit ce lien à vostre amour contraire,
-Et malgré les soûpirs⁎ et les pleurs d'une mere,
-Malgré tous les efforts d'un amant⁎ furieux⁎,
-J'ay conduit,  j'ay remis Virginie en ces lieux.
-Vôtre repos enfin de vous seul va dépendre,
-Il ne vous reste plus, Seigneur, qu'à faire entendre⁎
-Une fausse équité qui soûtiendra mes droits
-Et qui mettra le crime à l'ombre de nos loix.
-Parlons, et publions enfin que Virginie,
-N'est point du noble sang dont on la croit sortie,
-Que chez moy d'un esclave elle a receu le jour, 
-Qu'elle doit estre aussi mon esclave à son tour,
-Et suivant le destin de ceux qui l'ont fait naistre,
-Heriter de leurs fers⁎ et m'accepter pour maistre.
-
--*who_appius
 Differons un éclat⁎ mortel à son honneur,
 Seule encor de son sort elle sçait la rigueur ;
 Peut-estre se voyant au bord du precipice,
@@ -123,12 +36,6 @@ N'exposons point sa honte aux yeux de l'Univers,
 Elle craint, il suffit, de tomber dans les fers⁎,
 Elle fremit des maux d'un sort si déplorable.
 
--*who_clodius
-Profitez-donc, Seigneur, de ce temps favorable,
-Et donnant un cours libre à vos secrets soûpirs⁎,
-Courez à Virginie expliquer⁎ vos desirs.
-
--*who_appius
 Je me suis tu long-temps et veux me taire encore,
 Loin de faire éclatter⁎ ce feu qui me devore,
 Je doy plus que jamais le cacher en ce jour ;
@@ -150,13 +57,6 @@ Et puisqu'enfin l'amour me couste un si grand crime
 Que j'en rougisse seul, ou que ma honte au moins
 N'ait dans tous mes remords que tes yeux pour témoins.
 
--*who_clodius
-Prenez garde, Seigneur, qu'une injuste contrainte
-Ne renverse à la fin tout le fruit de ma feinte,
-Vous nourrissez un feu prest à vous consumer,    
-Vous languirez toûjours...
-
--*who_appius
       Cesse de t'allarmer.
 J'ay mes raisons ; je veux qu'une action si noire,
 Loin de finir ma vie en releve la gloire⁎,
@@ -175,15 +75,6 @@ Par là je gagneray son cœur ou son estime,
 Et l'on imputera par ce subtil détour,
 A la seule pitié les effets de l'amour.
 
--*who_clodius
-Je me rends au dessein que l'amour vous suggere,
-De nôtre intelligence il couvre le mystere ;
-Mais il faudroit aussi pour ne rien negliger,
-Eloigner un Rival qui cherche à se vanger.
-Prevenez⁎ les transports⁎ d'un amant⁎ en furie⁎,
-Prest à tout hazarder⁎ pour sauver Virginie.
-
--*who_appius
 Eh c'est où je l'attens. J'ay sçû déja prévoir
 Les effets de sa rage, et de son desespoir :
 Mais à nôtre dessein sa colere est utile,
@@ -199,36 +90,12 @@ A mes transports⁎ jaloux viendra s'offrir luy-même.
 Et dés le moindre effort⁎ qu'il osera tenter, 
 Sans bruit⁎ dans ce Palais je le fais arrester.
 
--*who_clodius
-Ah ! je prevoy...
-
-**** *book_ *id_acte102 *act_acte1 *date_1683 *creator_campistron 
-
--*who_fabian
-      Plautie, aux pleurs abandonnée,
-Seigneur, à vous attendre est toûjours obstinée,
-Elle veut vous parler, et ses frequens soûpirs⁎...
-
--*who_appius
 Qu'elle entre cependant pour flater⁎ ses desirs,
 Dans cet apartement conduisez Virginie,
 Allez, et dites-luy qu'elle y verra Plautie,
 Vous d'une Mere en pleurs évitez les transports⁎,
 Eloignez-vous.
 
--*who_clodius
-      Seigneur, c'est mon dessein. Je sors.
-Ma presence sans doute⁎ aigriroit⁎ sa colere.
-
-**** *book_ *id_acte103 *act_acte1 *date_1683 *creator_campistron
-
--*who_plautie
-Ah Seigneur, écoutez les douleurs d'une Mere,
-Et puisqu'aprés deux jours d'un mortel desespoir
-Vous avez bien voulu consentir à me voir,
-Pourray-je me flatter⁎ ?
-
--*who_appius
       Ne doutez point, Madame,
 Que je ne sois frapé du trouble⁎ de vostre ame ;
 J'ay craint avec raison de vous voir en ces lieux,
@@ -241,43 +108,12 @@ J'ay cedé, j'ay suivy la severe Justice :
 Enfin que vouliez-vous, Madame, que je fisse ?
 Chargé par tout l'Etat du pouvoir Souverain...
 
--*who_plautie
-Osez-vous vous parer d'un pretexte si vain ?
-Quoy ? vous ordonne-t'il ce devoir temeraire
-D'enlever sans pitié Virginie à sa Mere ?
-Dans le temps que son Pere à la guerre occupé
-Peut-estre va mourir pour ceux qui l'ont trompé,
-Mais pourquoy dans ces lieux retenez-vous ma fille,
-Pourquoy l'arrache-t'on du sein de ma famille ?
-Pour quel crime commis vos barbares soldats
-Viennent-ils la ravir au Temple dans mes bras ?
-Pourquoy...
-
--*who_appius
       De son destin n'estes-vous pas instruite ?
 
--*who_plautie
-Helas ! dans ce Palais tout le monde m'évite,
-En vain depuis deux jours errante dans ces lieux
-Les pleurs que j'ay versez ont épuisé mes yeux,
-En vain de tous costez mes cris se font entendre,
-De son destin encor je n'ay pû rien aprendre,
-Et je trouve par tout dans mes soins⁎ empressez
-Des Gardes interdits, des visages glacez,
-Qui redoutent ma veuë, et prest à se confondre⁎
-Se dérobent à moy, sans daigner me répondre,
-Par vos ordres cruels⁎...
-
--*who_appius
       Cessez de m'accuser
 Et ne me forcez pas de vous desabuser,
 Quand je vous auray dit...
 
--*who_plautie
-      Quoy ? que pourrez-vous dire,
-Expliquez-vous.
-
--*who_appius
       Je sçay qu'il faut vous en instruire ;
 Mais, Madame, je crains de redoubler vos pleurs.
 Je vais vous annoncer le plus grand des malheurs :
@@ -286,10 +122,6 @@ Que vous me demandez, que vous venez défendre,
 Cette fille qui fit vos plaisirs les plus doux,
 Un autre vous l'enleve, elle n'est plus à vous.
 
--*who_plautie
-Dieux ! qu'entens⁎-je ? comment ?
-
--*who_appius
       Ce n'est plus un mistere,
 Je suis de Virginie ici depositaire ;
 Claudius sçait enfin la noire trahison,
@@ -304,32 +136,6 @@ Et plusieurs Citoyens appellez à sa mort
 Sont prests de confirmer son funeste⁎ rapport,
 Cet étrange secret a droit de vous confondre⁎.
 
--*who_plautie
-Je demeure stupide, et ne sçais que répondre,
-D'un autre, Virginie, auroit receu le jour !
-Non, non, elle est ma fille, et j'en crois mon amour,
-Mon cœur fremit, mon sang s'émeut de cette injure, 
-Je sens trop fortement s'expliquer⁎ la nature,
-Et je cede à la voix de ces instincts secrets
-Qui parlant à nos cœurs ne les trompent jamais,
-Sur Virginie enfin, quoy qu'on ose entreprendre, 
-Contre tout l'Univers je sçauray la défendre.
-Ouvrez les yeux, Seigneur, un perfide aujourd'huy
-Pour me percer le cœur implore vostre appuy,
-Et vous le soûtenez ? quoy vostre propre gloire⁎,
-De mes sacrez ayeux l'immortelle mémoire,
-De mon illustre Epoux les éclattans exploits,
-Son sang pour le pays répandu tant de fois,
-Les égards que l'on doit à la vertu⁎ trahie,
-N'ont pas dans vostre cœur défendu Virginie ;
-Ah ! rendez-moy Seigneur, ce tresor precieux, 
-Ma fille, seul present que j'ay receu des Dieux.
-Avec tant d'amitié⁎ dans mon sein elevée,
-De cent perils divers par moy seule sauvée,
-Pour qui j'ay pris enfin, tant de penibles soins,
-Seigneur, dont vos yeux mesme ont esté les témoins.
-
--*who_appius
 Madame, à vos desirs je voudrois satisfaire,
 Inexorable loy d'un devoir trop severe
 Qui nous fait bien souvent condamner à regret
@@ -344,388 +150,6 @@ Vous la verrez, Madame, avant que de sortir,
 Moy-mesme en ce moment je l'ay fait avertir,
 Elle entre, je vous laisse.
 
-**** *book_ *id_acte104 *act_acte1 *date_1683 *creator_campistron
-
--*who_virginie
-      Ah quel comble de joye !
-Madame, enfin le Ciel souffre que je vous voye,
-Quel plaisir de pouvoir en ces heureux⁎ momens,
-Oublier mes douleurs dans vos embrassemens⁎.
-
--*who_plautie
-Ma fille, ils seroient doux pour le cœur d'une Mere ;
-Mais helas ! ils ne font qu'augmenter ma misere,
-Une crainte mortelle en corrompt les douceurs,
-Tremble, fremis, entens⁎ le plus grand des malheurs,
-Le traistre Clodius...
-
--*who_virginie
-      J'ay tout appris Madame.
-Si l'horreur de ce coup⁎ a pû fraper mon ame,
-Revenuë à l'instant de ce trouble⁎ soudain,
-J'ay veu pour m'en parer le remede certain,
-Ne craignez point pour moy l'horreur de l'esclavage, 
-Le sang a dans mon sein transmis vostre courage⁎,
-Attentive aux leçons qu'ont tracé mes ayeux,
-Leur exemple sans cesse est present à mes yeux,
-De mes jours malheureux je finiray la course,
-Sans qu'aucune foiblesse en ternisse la source,
-Le plus cruel⁎ trépas me semblera trop doux,
-Mourant avec le nom que j'ay receu de vous.
-
--*who_plautie
-Non, non, je previendray ta funeste⁎ disgrace⁎,
-J'admire⁎ de ton cœur la genereuse⁎ audace⁎,
-Le dessein de mourir pour conserver ton rang,
-Est digne de ma fille, est digne de mon sang,
-Mais je n'en puis souffrir la cruelle⁎ pensée,
-Rome dans ton destin est trop interressée⁎,
-Virginius déja par mes soins averty,
-Pour te venir défendre est sans doute⁎ party.
-Dés le mesme moment que tu me fus ravie,
-Sans prevoir les horreurs qui menacent ta vie,
-J'envoyay vers le camp, et je ne doute pas,
-Que ton pere vers nous ne s'avance à grands pas,
-Icile furieux⁎, menace, prie, exhorte,
-Aux plus hardis projets sa tendresse l'emporte,
-Enfin pour te sauver il suffira de moy,
-Que ne pourray-je point en agissant pour toy,
-Nous attendons beaucoup du secours de leurs armes,
-Mais n'espere pas moins de celuy de mes larmes,
-De cet affreux Palais j'ouvriray les chemins,
-Je serviray de Chef aux premiers des Romains,
-Et mes brûlans soûpirs⁎ verseront dans leur ame,
-Cette boüillante ardeur qui m'anime et m'enflame,
-Adieu je cours...
-
--*who_virginie
-      Helas ! vous me quittez si tost,
-Madame...
-
--*who_plautie
-      J'en fremis, mais ma fille il le faut,
-
--*who_virginie
-Est-ce trop peu de maux, dont je suis déchirée,
-Seray-je d'avec vous encore separée !
-Aprés tant de soûpirs⁎, à peine je vous voy...
-
--*who_plautie 
-Crois-tu qu'à te quitter je souffre moins que toy,
-Quand à partir d'icy je me crois toute preste,
-Malgré tous mes efforts ma tendresse m'arreste,
-Cet amour toutefois ardent à ton secours,
-Demande des effets, et non pas des discours⁎,
-Je te quitte, ou plûtost je vais tarir tes larmes,
-Te rendre à ta famille, et finir nos allarmes,
-Le soin de te sauver m'arrache de ce lieu,
-On m'attend, et j'y vole, adieu ma fille, adieu.
-
-**** *book_ *id_acte105 *act_acte1 *date_1683 *creator_campistron
-
--*who_virginie
-Camille connois-tu l'excez de ma misere,
-Quel triste sort !
-
--*who_camille
-      Je crains bien moins que je n'espere,
-Les premiers des Romains se declarent pour vous,
-Contre vostre ennemy le Peuple est en courroux,
-Vostre Pere est aimé dans Rome, et dans l'armée,
-Le jeune Icile enfin, dont vous estes charmée⁎,
-Et qui doit par l'hymen s'unir à vostre sort,
-Ne fera pas pour vous un inutile effort⁎,
-Sans doute⁎ en ce moment...
-
--*who_virginie
-      Excuse ma foiblesse,
-Crois-tu qu'en ma faveur Icile s'interesse⁎ ?
-Crois-tu qu'il me conserve une fidelle ardeur,
-Mes disgraces⁎ peut-estre auront changé son cœur.
-Ah ! si le mien privé seulement de sa veuë,
-Ne resiste qu'à peine au chagrin⁎ qui me tuë,
-Dieux ! contre ma douleur où trouver du secours,
-Camille, s'il falloit le perdre pour toûjours ?
-N'importe en ce moment, quoy que le Ciel ordonne,
-A ses ordres sacrez mon ame s'abandonne,
-Je respecte les traits qui partent de sa main,
-Et je vay sans murmure attendre mon destin.
-
-**** *book_ *id_acte201 *act_acte2 *date_1683 *creator_campistron
-
--*who_severe
-Oui, vous pouvez, Seigneur, aussi bien que Plautie,
-Entrer dans ce Palais, parler à Virginie,
-Vous ne vous plaindrez plus de l'injuste pouvoir,
-Qui vous a jusqu'icy défendu de la voir,
-Dans cet apartement où l'on va la conduire,
-De tous vos sentimens elle pourra s'instruire ;
-Mais pourquoy la revoir ? mon esprit incertain,
-Ne comprend pas encor quel est vostre dessein,
-Je ne sçay que juger de vostre impatience,
-Quel interest vous porte à chercher sa presence,
-Seigneur, est-ce un effet de la seule pitié,
-Ou le simple devoir d'un reste d'amitié⁎ ?
-Car je ne pense pas dans sa misere extréme,
-Averty de son sort par Plautie elle-mesme,
-Quand le Ciel l'abandonne au plus cruel⁎ malheur,
-Que vous sentiez pour elle une honteuse ardeur.
-Non, je ne croiray point qu'un aussi grand courage⁎,
-Puisse avilir ses vœux⁎ jusques dans l'esclavage,
-Qu'Icile jusques-là pût jamais s'abaisser.
-
--*who_icile
-Severe que dis-tu ? Ciel ! qu'oses-tu penser ?
-Crois-tu de Clodius la noire calomnie ?
-Mais quand les Dieux auroient fait naistre Virginie,
-Dans la honte des fers⁎, et dans un rang plus bas,
-Quel que fut son destin je ne changerois pas :
-Plus on veut l'abaisser, plus je sens que je l'aime,
-Si ses malheurs sont grands mon amour est extréme :
-Qu'ay-je fait jusqu'icy pour luy prouver ma foy⁎,
-Je luy rendois des soins⁎, qui n'eut fait comme moy ?
-Tout ne flattoit⁎-il pas mes vœux⁎, et ma tendresse,
-Gloire⁎, biens, dignitez,  pouvoir, credit, noblesse,
-Sa main me donnoit tout, qui n'eut pû presumer,
-Que mon ambition me portoit à l'aimer ?
-Mais du moins aujourd'huy mon amour seul éclate⁎,
-Et mon ambition n'ayant rien qui la flate⁎,
-Je feray hautement triompher en ce jour,
-La generosité⁎, la constance, et l'amour.
-
--*who_severe
-Dieux ! qu'est-ce que j'entens⁎ ? vostre discours⁎ m'estonne⁎,
-A quel fatal⁎ projet l'amour vous abandonne,
-Une fille sans nom, et qu'on va condamner...
-
--*who_icile
-Parce qu'on la trahit, dois-je l'abandonner ?
-Et ne luy faisant voir qu'une amitié⁎ commune,
-Regler ma passion au gré de la fortune :
-S'il est des cœurs mal faits, et d'indignes amans⁎,
-Qui suivent dans leurs vœux⁎ ces lâches sentimens.
-Pour moy n'en doute point, quand j'aime Virginie,
-C'est à d'autres objets⁎ que mon cœur sacrifie,
-Les grandeurs que le sort peut ravir en un jour,
-N'ont jamais attiré mes vœux ny mon amour,
-La fermeté d'esprit, la grandeur de courage⁎,
-La pureté de cœur, voilà ce qui m'engage ;
-Ce qui dépend du sort est pour moy sans appas,
-Et j'aime les vertus⁎ qui n'en dépendent pas.
-
--*who_severe
-Vous suivez trop, Seigneur, une aveugle tendresse.
-
--*who_icile
-Ah ! ne t'oppose plus à l'ardeur qui me presse⁎ ;
-Cependant Virginie est long-temps à venir,
-Quel obstacle nouveau pourroit la retenir ?
-Quand verray-je cesser l'ennuy⁎ qui me devore,
-Neglige-t-elle helas ! un amant⁎ qui l'adore⁎ ?
-Dieux ! que puis-je penser de son retardement,
-Que je souffre de maux en ce cruel⁎ moment,
-Que je suis déchiré ! mais je la voy, Severe,
-Elle vient.
-
-**** *book_ *id_acte202 *act_acte2 *date_1683 *creator_campistron
-
--*who_icile
-      Le destin ne m'est plus si contraire,
-Madame, je vous voy, et je puis en ce jour,
-Faire encor à vos yeux éclatter⁎ mon amour,
-Qui l'eut crû que si prés d'un heureux⁎ Himenée,
-Nostre amour à ces maux deust estre condamnée.
-Mais suspendez l'effort⁎ de toutes vos douleurs,
-Que la joye un moment regne seule en nos cœurs :
-Pour moy, je l'avoüeray, quand le sort me menace,
-Du bien que je reçois je luy dois rendre grace,
-J'estois absent de vous, inquiet, desolé,
-Je vous vois, je vous parle, et je suis consolé ;
-Le trouble⁎, la douleur qui déchiroit mon ame,
-Tout s'est evanoüy devant vos yeux, Madame,
-Ma presence fait-elle au moins dans vostre cœur,
-L'effet que vostre veuë...
-
--*who_virginie
-      Eh le puis je, Seigneur ?
-Puis-je de mes douleurs calmer la violence,
-Je les sens augmenter mesme en vostre presence,
-Ce qui devroit causer mes plaisirs les plus doux,
-Porte à mon triste cœur les plus sensibles coups⁎ :
-Jugez dans quels malheurs le Ciel me precipite,
-Oüy je sens qu'à vous voir ma tristesse⁎ s'irrite⁎,
-Helas ! j'en connois mieux la perte que je fais,
-Car enfin je vous perds, et vous perds pour jamais.
-
--*who_icile
-Ah ! Madame, éloignez cette injuste pensée,
-Par ce cruel⁎ discours⁎ ma flame est offensée,
-Pourquoy perdre un espoir à nostre amour si doux,
-Qui peut nous separer ?
-
--*who_virginie
-      Helas ! l'ignorez-vous ?
-C'est le funeste⁎ effort⁎ du destin qui me brave,
-Et si je sors du sang d'un malheureux esclave,
-Je voy qu'à vostre Hymen je ne dois plus penser,
-Qu'à cet espoir si doux, il me faut renoncer ;
-Oüy, Seigneur, nous cessons de vivre l'un pour l'autre,
-Mais Dieux ! que mon malheur est different du vostre,
-Vous ne perdez en moy qu'un cœur infortuné,
-Au comble des horreurs par le sort condamné,
-Et pour vous consoler de cette foible perte,
-Il est plus d'une voye à vostre amour offerte.
-Je ne vous parle point d'un Hymen plus heureux⁎,
-Car je n'ose penser qu'un cœur si genereux⁎,
-Aprés les doux transports⁎ d'une ardeur mutuelle,
-Puisse brûler jamais d'une flame nouvelle,
-Mais l'honneur immortel, qu'au milieu des combats,
-Vostre rare valeur promet à vostre bras,
-Le genereux⁎ desir de servir la patrie,
-Pourront de vostre esprit effacer Virginie,
-Ou si ces nobles soins ne peuvent l'en bannir,
-Pour en combattre au moins le triste souvenir,
-Vous pourrez opposer aprés vostre victoire,
-Aux chagrins⁎ de l'amour, les plaisirs de la gloire⁎,
-Mais moy desesperée, en l'estat où je suis,
-Je sens de toutes parts augmenter mes ennuis⁎,
-Je perds l'heureux⁎ espoir d'un illustre Hymenée,
-Et je perds avec luy le rang où je suis née,
-Enfin pour m'accabler dans ce funeste⁎ jour,
-Je voy d'intelligence, et la gloire⁎, et l'amour.
-
--*who_icile
-Ainsi vous renoncez à ce juste Hymenée,
-Que deviendra la foi⁎ que vous m'avez donnée ?
-Lié par mes sermens, et presque vostre Epoux, 
-N'auray-je...
-
--*who_virginie
-      Cette foy⁎ n'est plus digne de vous.
-Le sort injurieux...
-
--*who_icile
-      Eh bien que peut-il faire ?
-Son pouvoir ne peut rien contre un amour sincere.
-
--*who_virginie
-Penseriez-vous à moy dans cet estat honteux.
-
--*who_icile
-Ah croyez-moy, Madame, un peu plus genereux⁎,
-Rendez plus de justice à mon ardente flame,
-Vostre merite seul l'alluma dans mon ame ;
-Et je jure à vos yeux qu'il n'est rien que la mort,
-Qui puisse desormais separer nostre sort,
-Que par tant de sermens engagés l'un à l'autre,
-Les Dieux mesme...
-
--*who_virginie
-      Ah ! Seigneur, quelle erreur est la vostre,
-Lorsque vous me verrez dans un rang odieux…
-
--*who_icile
-J'auray le mesme cœur, j'auray les mesmes yeux,    
-Vous conserverés tout ce que mon cœur adore⁎,
-Vous aurez vos vertus⁎ ; et vous aurez encore,
-Pour m'attacher⁎ à vous par un lien plus fort,
-Vos craintes, vos douleurs, les injures du sort :
-Oüy, pour serrer les nœuds⁎ d'une chaîne si belle,
-Vos disgraces⁎ auront une force nouvelle,
-Ah ! si c'est un devoir pour un cœur genereux⁎,
-De plaindre, de servir, d'aider les malheureux,
-Pour mon cœur enflammé quelle douceur extréme,
-De soulager en vous le digne objet⁎ qu'il aime,
-De finir vos malheurs, et de pouvoir enfin,
-Vanger vostre vertu⁎ des affrons du destin.
-
--*who_virginie
-Ah ! Seigneur, cet aveu rend mon ame charmée⁎,
-Quel plaisir de me voir si tendrement aimée,
-Mais quand l'amour pour moy vous porte à vous trahir,
-A vos vœux⁎ indiscrets, Seigneur, dois-je obeïr ?
-Non, non, remplissons mieux nos devoirs l'un et l'autre,
-Ma generosité⁎ doit seconder la vostre,
-Et refusant un bien que j'ay tant souhaité,
-Faire connoistre au moins que je l'ay merité.
-
--*who_icile
-Que ce noble discours⁎ pleinement justifie,
-Le veritable sang dont vous estes sortie,
-Un cœur dans l'esclavage, et d'un vil sang formé,
-D'un courage⁎ si grand n'est jamais animé,
-Et quelque fier qu'il soit toûjours quelque foiblesse,
-Découvre tost ou tard sa premiere bassesse ;
-Mais finissez, Madame, un discours⁎ si cruel⁎,
-Et qui rend envers moy vostre cœur criminel,
-Dieux ! est-ce là m'aimer que m'oster l'esperance ?
-
--*who_virginie
-Eh qu'a-t'il ce discours⁎, Seigneur, qui vous offence ?
-Croyez que ce refus marque mieux mon amour,
-Que tout ce que j'ay fait jusqu'à ce triste jour,
-Ce n'est pas qu'en effet de mon dessein troublée,
-Par ce coup⁎ genereux⁎ je ne sois accablée,
-J'en fremis par avance, et jugez par mes pleurs...    
-
--*who_icile
-Madame, par pitié cachez-moy vos douleurs,
-C'est trop de mes ennuis⁎, et de vostre tristesse⁎,
-Mais je la finiray, croyez-en ma promesse,
-Je perdray vos tyrans, et quel que soit leur rang,
-Ces pleurs que vous versez leur cousteront du sang.
-
--*who_virginie
-Ah ! Seigneur arrestez, où courez vous ?
-
--*who_icile
-      Madame,
-Ne vous opposez point à l'ardeur qui m'enflame,
-Il faut que l'insolent qui vous ose insulter,
-Aprenne desormais à vous mieux respecter.
-
--*who_virginie
-Mais comment ?
-
--*who_icile
-      C'est à moy de vanger vostre injure,
-C'est à moy de convaincre, et punir l'imposture,
-J'y cours, adieu, Madame.
-
-**** *book_ *id_acte203 *act_acte2 *date_1683 *creator_campistron 
-
--*who_camille
-      Il court vous secourir,
-Les Dieux se sont lassez de vous voir tant souffrir.
-Madame, esperez tout du courage d'Icile.
-
--*who_virginie
-Ah ? que me fais-tu voir, et qu'ay-je fait Camille,
-Dieux ! devois-je d'Icile accepter le secours,
-Pour mes seuls interests j'ay hazardé⁎ ses jours,
-Que n'entreprendra point sa tendresse offencée,
-De cent perils mortels sa vie est menacée,
-Helas ! que ce seroit un secours odieux,    515
-S'il brisoit ma prison en mourant à mes yeux ;
-Prevenons⁎-le, essayons de finir ma disgrace⁎,
-Nous mesme détournons le coup⁎ qui nous menace,
-Hastons-nous, empeschons mon amant⁎ de perir,
-Courons voir Appius, il peut nous secourir,
-Que ses yeux soient témoins de mes vives allarmes,
-Peut estre, sera-t'il, attendry par mes larmes ?
-Ne nous contraignons plus, le voicy.
-
-**** *book_ *id_acte204 *act_acte2 *date_1683 *creator_campistron 
-
--*who_virginie
-      Quoy, Seigneur,
-Ne calmerez-vous pas le trouble⁎ de mon cœur,
-Rendez-vous aux soûpirs⁎ que je vous fais entendre,
-Perdray-je tant de pleurs que vous voyez répandre,
-Et n'obtiendray-je point un utile secours,
-Qui des fers⁎ que je crains sauve mes tristes jours.
-
--*who_appius
 Helas n'en doutez point vostre disgrace⁎ extréme,
 Plus que vous ne pensez me déchire moy-même,
 Et pour porter mon ame à finir vos mal-heurs,
@@ -746,11 +170,6 @@ Mais enfin plus je tâche à percer le mystere,
 Plus je trouve à vos vœux⁎ la justice contraire,
 Témoins, indices, droit, tout parle contre nous.
 
--*who_virginie
-Eh vous me porterez de si funestes⁎ coups⁎,
-Helas ! Seigneur…
-
--*who_appius
       Mon ame est toûjours incertaine,
 La pitié me retient quand le devoir m'entraine,
 Sur tout tant de vertus⁎, tant de charmes divers,
@@ -760,23 +179,12 @@ Je crains de tous costez de faire une injustice,
 Auquel des deux partis que je donne ma voix,
 J'offense vos vertus⁎, ou j'offence les loix.
 
--*who_virginie
-Helas ! pour me sauver, n'est-il aucune voye ?
-
--*who_appius
 Madame, ouvrez la moy, j'y souscris avec joye,
 Parlez, si je le puis sans blesser mon devoir,
 Je feray pour vous plaire agir tout mon pouvoir,
 Inventez un moyen, ma puissance supréme,
 Va tenter...
 
--*who_virginie
-      Ah ! Seigneur, inventez le vous mesme ;
-Que je vous doive tout faites un noble effort⁎,
-Je remets en vos mains tout le soin de mon sort :
-Hastez-vous, rasseurez mon ame impatiente.
-
--*who_appius
 Hé l'accepterez-vous, si je vous le presente ?
 Si vous voulez sortir de cet affreux danger,
 Je ne voy qu'un chemin pour vous en dégager,
@@ -786,14 +194,6 @@ Cependant je vous jure, et j'atteste les Dieux,
 Que mon dessein, Madame, est juste et glorieux,
 Et que si vos refus le rendent inutile...
 
--*who_virginie
-Pour éviter les fers⁎ tout me sera facile :
-Pourquoy balancez-vous à me le proposer,
-En ce funeste⁎ estat puis-je rien refuser ?
-Ne me le cachez plus, si la pitié vous touche,
-Par où puis-je ?
-
--*who_appius
       Il ne faut qu'un mot de vostre bouche :
 Oüy, dés ce mesme jour vous briserez vos fers⁎,
 Vous mesme finirez tous vos malheurs divers,
@@ -801,10 +201,6 @@ Et porterez si haut l'éclat⁎ de vostre vie,
 Qu'aux premieres de Rome il pourra faire envie,
 Si vous voulez...
 
--*who_virginie
-      Et quoy ?
-
--*who_appius
       Me prendre pour Epoux,
 Et par des nœuds⁎ sacrez m'attacher⁎ tout à vous,
 Venez, allons au Temple, et que mon Hymenée,
@@ -815,40 +211,13 @@ Venez, en partageant ma puissance supréme,
 Vous acquerir des droits sur Clodius luy-mesme,
 Et prendre sur ses jours à couvert de ses coups⁎,
 La mesme authorité qu'il veut avoir sur vous.
-
--*who_virginie
-Qu'entens⁎-je juste Ciel ! et le pourray-je croire,
-Que de soupçons, Seigneur, mortels à vostre gloire⁎,
-Je vois enfin, je vois la cause de mes pleurs,
-Et je connois la main d'où partent mes malheurs,
-Clodius n'a point seul commencé ma disgrace⁎,
-C'est un bras plus puissant qui soustient son audace,
-Seigneur, vous m'entendez⁎.
-
--*who_appius 
+ 
       Ah ! que soupçonnez-vous ?
 Au moment que ma main vous dérobe à ses coups⁎
 Que pensez-vous de moy.
 
--*who_virginie
-      Ce qu'il falloit vous-mesme,
-Me déguiser toûjours avec un soin extréme,
-Mais c'est pousser trop loin ce funeste⁎ entretien,
-Faites vostre devoir, et je feray le mien.
-
-**** *book_ *id_acte205 *act_acte2 *date_1683 *creator_campistron
-
--*who_clodius
-Qu'avez-vous fait, Seigneur, et que faut-il attendre.
-
--*who_appius
 Ah ! l'ingrate⁎ à mes vœux refuse de se rendre.
 
--*who_clodius
-Quoy, Seigneur, vostre rang, vos soins⁎, vostre grandeur,
-L'offre de vostre main n'ont pû toucher son cœur.
-
--*who_appius
 Si la seule grandeur satisfaisoit une ame,
 Helas ! serois-je en proye à ma cruelle⁎ flame,
 Inutile puissance ! importune grandeur,
@@ -858,27 +227,6 @@ J'aime, j'offre ma main, je trouve une inhumaine,
 Je me voy dédaigner, et mon amour confus,
 Remporte seulement la honte d'un refus.
 
--*who_clodius
-D'un discours⁎ impreveu, Virginie allarmée,
-A suivy le panchant de son ame enflammée,
-Mais ne vous troublez⁎ point de ce premier transport⁎,
-D'un amour irrité⁎, c'est le dernier effort⁎.
-Laissez passer, Seigneur, sa premiere surprise,
-Laissez luy peser tout d'une ame un peu remise.
-Lorsque d'un oeil tranquile, et moins preoccupé,
-Son cœur verra le coup⁎ dont il seroit frapé,
-D'un costé vostre Hymen, vostre gloire⁎ en partage,
-De l'autre les horreurs qui suivent l'esclavage,
-Son orgueil confondu⁎ par des emplois si bas,
-Eh doutez-vous, Seigneur, qu'elle ne change pas,
-Quand mesme à vostre Hymen il faudroit la contraindre,
-De vostre cruauté, pourroit-elle se plaindre ?
-Vous ne la contraindrez, que pour la mieux servir,
-A ses propres desirs il vous la faut ravir,
-Et l'arrachant par force à cette erreur qu'elle aime,
-Establir son bon-heur en dépit d'elle-mesme.
-
--*who_appius
 Je te doy tout, suivons ce conseil important,
 Il determine un cœur, irresolu, flottant ;
 Ne nous contraignons plus par ce vain artifice,
@@ -892,135 +240,10 @@ Allons mettre à ses pieds le pouvoir souverain,
 Et si sa flame encor la seduit ou l'abuse,
 Forçons-la d'accepter l'honneur qu'elle refuse.
 
-**** *book_ *id_acte301 *act_acte3 *date_1683 *creator_campistron
-
--*who_fulvie
-Madame, où courez-vous, vous verray-je toûjours,
-D'une douleur mortelle entretenir le cours ?
-Sourde à tous nos conseils, desesperée, errante,
-Loin d'adoucir vos maux chaque instant les augmente,
-Un chagrin⁎ devorant precipite vos pas,
-Vous courez en cent lieux où vous n'arrestez pas,
-Tantost parmy le peuple, et tantost solitaire,
-Tout ce que vous voiez ne fait que vous déplaire,
-Aux discours⁎ des Romains touchez de vos malheurs,
-Vous avez seulement répondu par des pleurs,
-Leurs soins officieux...
-
--*who_plautie 
-      Eh que puis-je répondre,
-Leurs discours⁎ et leurs soins ne font que me confondre⁎,
-Pour flatter⁎ ma disgrace⁎, ils m'en viennent parler,
-Et leur zele ne sert qu'à la renouveller,
-Leur pitié m'assassine, et me devient funeste⁎,
-Je ne voy point d'objet⁎ que mon cœur ne deteste,
-En public, en secret, une égale douleur,
-Accable ma raison, et déchire mon cœur :
-Si je vay me cacher au sein de ma famille,
-Tout m'y semble odieux, je n'y vois plus ma fille,
-Sans elle mon Palais m'est un desert affreux,
-Et quand pour adoucir un sort si rigoureux,
-Pleine de desespoir je cours, je vole au Temple,
-Helas ! par un destin qui n'eut jamais d'exemple,
-Cet azile sacré contre tous nos malheurs,
-Qui toûjours des humains soulage les douleurs,
-La presence des Dieux irrite⁎ ma disgrace⁎,
-Puisque mes tristes yeux y remarquent la place,
-Où ces Dieux ont permis que des monstres cruels⁎,
-M'ayent ravy ma fille au pied de leurs Autels ;
-Comment calmer les maux où mon malheur m'expose⁎,
-Tout retrace à mes yeux la perte qui les cause,
-Quoy que je fasse enfin pour charmer⁎ mes ennuis⁎,
-Je rencontre par tout les horreurs que je fuis.
-
--*who_fulvie
-Mais Madame souffrez…
-
--*who_plautie
-      J'ay tout perdu Fulvie,
-Et ne puis que traîner une importune vie,
-Tandis que Virginie a lieu d'aprehender,
-Au severe Appius je cours la demander ;
-Non que j'ose esperer qu'il daigne me la rendre,
-Je ne veux seulement que l'obliger d'attendre,
-Que mon Epoux du Camp soit icy de retour,
-Helas ! ce seul espoir r'asseure mon amour,
-Si je puis le revoir, mes douleurs, et mes craintes,
-Ne me donneront plus que de foibles atteintes,
-Courrons donc essayer... Mais que vois-je grands dieux ?
-Quel objet⁎ imprevu se presente à mes yeux ?
-C'est Appius que suit mon ennemy perfide,
-Ah ! je ne sçais que trop le dessein qui le guide,
-Il luy parle en secret... J'en fremis...
-
-**** *book_ *id_acte302 *act_acte3 *date_1683 *creator_campistron
-
--*who_plautie
-      Ah ! Seigneur,
-Ecoutez-vous encor la voix d'un imposteur,
-Que dit-il ? ose-t'il comblant sa perfidie,
-Vous presser⁎ d'oprimer la triste Virginie ?
-Ne previendrez⁎-vous pas son funeste⁎ dessein,
-Presterez-vous le bras pour me percer le sein ?
-Me refuserez-vous le secours que j'implore,
-Seigneur, entre nous deux balancez-vous encore ;
-Faudra-t'il qu'à mes pleurs on puisse reprocher,
-Qu'ils n'ont pas eu la force, helas ! de vous toucher,
-Dans le temps qu'à vos yeux je suis presque mourante,
-Mon extréme douleur sera-t'elle impuissante,
-D'un barbare projet vous connoissez l'Autheur,
-Et mes tristes soûpirs⁎, mes transports⁎, ma fureur⁎,
-Mon desespoir mortel, mon ardente priere,
-Tout vous prouve, Seigneur, l'amitié⁎ d'une Mere,
-Faut-il d'autres raisons pour vous persuader ?
-Il en est mille encore à qui tout doit ceder,
-Considerez Seigneur... Mais mon ame troublée⁎,
-Succombe à tant de maux dont elle est accablée,
-Ma parole se perd... je cede à mes douleurs...
-Helas... je ne vous puis parler que par mes pleurs.
-
--*who_clodius
-J'ose encor me flatter⁎ malgré tant d'artifice,
-Que vous suivrez, Seigneur, la severe Justice,
-Je ne vous dis plus rien pour soûtenir mes droits,
-Vingt témoins differens ont d'assez fortes voix,
-Donnez-moy Virginie, et forcez au silence,
-Une femme en fureur⁎ dont la plainte m'offense :
-Et qui s'authorisant de l'amour maternel,
-Cache sous ce pretexte un dessein criminel,
-Ne differez-donc plus... venez...
-
--*who_plautie
-      Tay-toy parjure,
-N'ajoûte point encor l'outrage à l'imposture,
-Seigneur, si mes soûpirs⁎ peuvent vous émouvoir,
-Eloignez Clodius que je ne sçaurois voir,
-Plus que tous mes malheurs sa funeste⁎ presence,
-De mes profonds ennuis⁎ aigrit⁎ la violence,
-Vous me verrez sans doute⁎ expirer en ces lieux,
-Si plus long-temps ce traistre est present à mes yeux.
-
--*who_appius
 Oüy, Madame, je vais soulager vostre peine,
 Sortez. Retirez-vous dans la chambre prochaine,
 Je sçauray prononcer⁎ lorsqu'il en sera temps.
 
--*who_clodius 
-Vous differez encor, Seigneur,  je vous entens⁎,
-Vous n'osez de Plautie augmenter la misere,
-Mais un Chef des Romains doit estre plus severe,
-Juste à recompenser, intrepide à punir,
-Il doit voir le passé sans craindre l'avenir,
-Sans qu'aucun interest le retienne ou l'anime,
-Et la pitié d'un Juge est souvent un grand crime,
-Puisque la vostre icy combat vostre devoir,
-Seigneur je vay d'un autre implorer le pouvoir,
-Vostre retardement me servira d'excuse,
-Si je demande ailleurs le bien qu'on me refuse.
-
-**** *book_ *id_acte303 *act_acte3 *date_1683 *creator_campistron
-
--*who_appius
 Vous le voyez, Madame, il va chercher ailleurs,
 L'inévitable arrest qui comble vos malheurs,
 J'ay craint de prononcer⁎ cet arrest si funeste⁎,
@@ -1028,33 +251,6 @@ Et dans vos déplaisirs cette douceur me reste,
 Qu'une autre main au moins vous portera les coups⁎,
 Dont mon cœur allarmé fremit déja pour vous.
 
--*who_plautie
-Eh quoy vostre pitié sera t'elle inutile,
-Ne peut-elle, à mon sang assurer un azile,
-Ne peut-elle, Seigneur, détourner loin de moy,
-Ces coups⁎ dont vostre cœur a déja quelque effroy,
-Dans mes justes desirs me seriez vous contraire,
-Servirez vous plustost l'ennemy que la Mere :
-Il demande ma fille, et sur quoy ? par quels droits,
-Son esclave a parlé, mais il n'a point de voix,
-Un homme que le sort dans les fers⁎ a fait naistre,
-N'a d'autre volonté que celle de son maistre,
-Plustost mort que vivant comblé d'un long ennuy⁎,
-Il ne peut ny parler ny vivre que pour luy.
-Seigneur, sans écouter ce suspect témoignage,
-De l'amour d'un Espoux, rendez moy le saint gage,
-Pour prononcer⁎ au moins attendez son retour,
-Vous le verrez sans doute⁎ avant la fin du jour :
-C'est luy qui soutiendra les droits de sa famille,
-C'est à luy de deffendre et de sauver sa fille.
-Brisera-t'on des nœuds⁎ que le sang a formez,
-Ces saints nœuds⁎ par l'amour, par le temps confirmez,
-En condamnant la fille on condamne le Pere,
-Et peut-on luy ravir ce sacré caractere,
-Que la forte nature a pris soin de graver,
-Et dont mesme les Dieux ne sçauroient le priver.
-
--*who_appius
 Moderez les terreurs de vostre ame craintive,
 Puisque vous le voulez j'attendray qu'il arrive,
 Madame, mais enfin que fera vostre Espoux,
@@ -1068,72 +264,282 @@ Mais elle a refusé ce conseil salutaire,
 Et preferé les fers⁎ qui menacent ses jours,
 A la necessité d'accepter mon secours.
 
--*who_plautie
-Que dites vous, Seigneur, l'ingrate⁎ Virginie,
-Refuse le secours qui la rend à Plautie ?
-Et sans égard pour vous, sans tendresse pour moy,
-Elle ayme mieux subir une si dure loy ?
-Elle se livre entiere au destin qui la jouë,
-Seigneur, s'il est ainsi mon cœur la desavouë,
-Mais ne puis je sçavoir ce dessein glorieux,
-En faveur de ma fille inspiré par les Dieux.
-
--*who_appius
 Je la voy qui paroist, elle peut vous l'aprendre,
 Mais songez que des fers⁎ rien ne la peut deffendre,
 Si toûjours obstinée en son premier dessein,
 Elle fuit les biens-faits qui partent de ma main.
 
-**** *book_ *id_acte304 *act_acte3 *date_1683 *creator_campistron
+      Non, je croy sa peine legitime,
+N'a-t'il pas hautement par un lâche attentat,
+Assemblé ses amis, voulu troubler⁎ l'Etat,
+Sa perte en ce moment est juste et necessaire,
+Mais Virginie…
 
--*who_plautie
-Qui pourra m'expliquer ce trouble⁎ et ce silence, 
-Du discours⁎ d'Appius, que faut-il que je pense,
-Ma fille, devois tu refuser le secours,
-Qui te rend à Plautie, et rassure tes jours.
+Quelle honte pour moy, s'il faut que mon amour,
+Pour vaincre mon Rival luy ravisse le jour ;
+Quel triomphe pour luy, quelle gloire⁎ immortelle,
+De n'avoir jamais veu Virginie infidelle,
+D'avoir gardé son cœur, enfin d'avoir vaincu,
+Ma grandeur, et mes feux tant qu'il aura vescu.
 
--*who_virginie
-Ah ! quand vous le sçaurez ce secours si funeste⁎,
-Vous le détesterez comme je le déteste,
-Dieux ! à quel prix cruel⁎, à quelle extremité,
-Le perfide Appius a mis ma liberté !
-Dure, dure toûjours le mal-heur qui me presse⁎,
-Si je n'en puis sortir que par cette bassesse.
+J'aime pour mon malheur avec trop de tendresse,
+Enfin de mon Rival je me vangeray mieux,
+Si je puis épouser Virginie à ses yeux :
+J'attens icy l'ingrate⁎, et ne veux plus luy taire,
+De nos desseins secrets le dangereux mystere ;
+Je vay tout employer pour ébranler sa foi,
+Priere, soin⁎, respect, amour, menace, effroy.
+J'espere que des fers⁎ l'épouvantable image,
+Et qu'Icile mourant fléchiront son courage⁎,
+Je vay luy faire voir son Amant⁎ enchaîné,
+Aux plus cruels⁎ tourmens, à la mort condamné,
+Il est instruit déja que pour sauver sa vie,
+Il doit en ma faveur parler à Virginie,
+Qu'il ne peut qu'à ce prix échaper à la mort,
+Peut-estre mon Rival fera-t'il cet effort⁎.
+Que je serois heureux⁎ si par cette foiblesse,
+Il ne meritoit plus l'objet⁎ de sa tendresse,
+Qu'en la tenant de luy j'eusse encor la douceur,
+D'avoir fletry sa gloire⁎, et fait trembler son cœur,
+Cependant, cours amy, t'informer dans la Ville,
+Des discours⁎, des desseins des Partisans d'Icile,
+Examine avec soin, observe exactement,
+Les démarches qu'ils font, leur moindre mouvement :
+Va, tu m'aprendras tout, comme témoin fidelle,
+Virginie entre, il faut m'expliquer avec elle.
 
--*who_plautie
-Comment. Que pretend il ? quel injuste dessein ?
+Madame, il faut enfin vous découvrir mon cœur,
+Il faut de mon amour vous declarer l'ardeur,
+En ce moment fatal⁎ je ne sçaurois plus feindre,
+Depuis assez longtemps je cherche à me contraindre,
+Pour vous j'ay tout trahy gloire⁎, devoir, employ,
+L'amour fait tous mes soins, et mon unique loy,
+Je suy les mouvemens d'une aveugle tendresse,
+Et si vostre pitié pour moy ne s'interesse⁎,
+Songez que rien ne peut ébranler mon dessein,
+Que je ne perdray pas toute ma gloire⁎ en vain,
+Songez...
 
--*who_virginie
-Me forcer malgré moy de luy donner la main,
-Il n'a pu me cacher sa tyrannique flame,
-Ses yeux et ses discours⁎ m'ont découvert son ame.
-Que vous diray je enfin, vos craintes, mon mal-heur,
-Sont les tristes effets de sa coupable ardeur.
+Ah cruelle⁎ ! est-ce à vous de parler de mes crimes,
+Leur seule cause helas ! les rend trop legitimes,
+Est-ce à vous de montrer à mon cœur abbatu,
+Qu'il a soüillé sa gloire⁎ et trahy sa vertu⁎ ?
+M'osez-vous reprocher mon ardeur criminelle,
+Vous qui rendez mon cœur à son devoir rebelle,
+Vous qui seule causez mes forfaits odieux,
+Ah ! je puis justement en accuser vos yeux,
+Leur demander raison des malheurs de ma flame,
+De mon repos perdu, du trouble⁎ de mon ame,
+D'avoir de mon esprit malgré mes soins prudens,
+Effacé les leçons de plus de quarante ans,
+Et d'avoir fait enfin par un coup⁎ effroyable,
+D'un Souverain heureux⁎ un Amant⁎ miserable.
+Aussi n'esperez pas de pouvoir m'abuser,
+Je connois la raison qui vous fait m'accuser,
+Pour un heureux⁎ Rival vostre ardeur empressée,
+Fait que de tous mes soins⁎ vous estes offensée :
+Cet Icile l'objet⁎ de vos ardens souhaits,
+Me deffend...
 
--*who_plautie
-O coup⁎ ! O trahison à jamais inouye,
-Peut-on jusqu'à ce point pousser la perfidie.
-O Ciel ! as-tu permis que le cœur d'un Romain,
-Ait osé concevoir cet horrible dessein.
+On conserve sans peine une entiere innocence,
+Quand un bon-heur constant, previent nostre esperance,
+Icile satisfait dans ses vœux les plus doux,
+Tranquille, glorieux, enfin aimé de vous ;
+A-t'il pû jusqu'icy se charger⁎ d'aucun crime ?
+Mais si de vos mépris déplorable victime,
+Accablé des tourmens que mon cœur a soufferts,
+Il avoit ressenty tout le poids de mes fers⁎,
+Si vous l'aviez contraint d'aimer sans esperance,
+Qu'il eut eu comme moy la supréme puissance :
+Cet Icile à vos yeux digne de vostre foy⁎,
+Seroit peut-estre encor plus coupable que moy,
+Ah ! son bon-heur allume un courroux dans mon ame,
+Qui pourroit... mais songez à répondre à ma flame,
+Autrement malgré moy...
 
--*who_virginie
-Helas ! dans quel état le tyran m'a laissée,
-Le plus sensible effort⁎ de ma douleur passée,
-Tout ce que j'ay souffert ne sçauroit égaler,
-Les maux dont son amour commence à m'accabler :
-Mais grands Dieux ! quel sera le désespoir d'Icile,
-Quand de la trahison averty par Camille,
-Il sçaura qu'Appius ne s'arme contre moy,
-Qu'afin de me contraindre à violer ma foy⁎.
-Ah pour tirer raison d'un si cruel⁎ outrage,
-Que n'entreprendront point sa haine et son courage,
-Dans quels nouveaux perils se va t'il engager,
-Sans doute⁎ en ce moment tout prest à se vanger,
-Il va...
+Hé bien, pour me vanger de vostre ingratitude,
+Vos malheurs ne sont pas un supplice assez rude,
+Et je veux desormais vous porter d'autres coups⁎,
+Moins funestes⁎ pour moy, mais plus cruels⁎ pour vous,
+Je jure qu'il n'est rien que ma fureur⁎ ne tente,
+L'Amant⁎ me répondra des mépris de l'Amante⁎ ;
+C'est luy qui rend pour moy vostre cœur si cruel⁎,
+Et puisque vous l'aimez, il est trop criminel.
+Il faut par un seul coup⁎ accabler l'un et l'autre ;
+Je perceray son cœur qui me ravit le vostre,
+Pour gouster à la fois le plaisir sans egal,
+De punir vos dédains, et de perdre un Rival.
 
-**** *book_ *id_acte305 *act_acte3 *date_1683 *creator_campistron
+      Pour vous la menace est terrible,
+Je vous frape à la fin par vostre endroit sensible,
+Mais ne m'accusez point, c'est vous qui l'ordonnez
+Et c'est par vos mépris que vous l'assassinez.
 
--*who_icile
+Madame, prevenons⁎ un mal-heur si funeste⁎,
+Du temps que je vous donne employez mieux le reste,
+Icile en ce moment va parestre à vos yeux,
+J'ay moy mesme ordonné qu'on l'ameine en ces lieux.
+Il vient.
+
+      Derobez vous au coup⁎ qui vous menace,
+Icile, par vos soins meritez vostre grace ;    
+Madame, songez y, vous sçavez mon dessein,
+Il me faut dés ce soir son sang ou vostre main,
+Je sors pour un moment ; Gardes qu'on se retire :
+
+      Quel succés aura vostre entretien,
+Qu'avez vous resolu, parlez, Icile.
+
+C'est donc là tout l'effet d'une telle entreveuë,
+C'est ainsi que pour moy vous l'avez resoluë,
+J'ay cru que par vos soins⁎ je recevrois sa foy⁎.
+
+Ah perfide ! ta mort, mais une mort cruelle⁎,
+Punira de ton cœur l'audace criminelle,
+Rien ne te peut sauver, c'en est fait.
+
+Oüy, vous serez unis... mais c'est vous faire grace,
+Il faut bien autrement confondre⁎ vostre audace,
+Vous voulez m'irriter, un trépas éclattant,
+Est le supréme bien que vostre amour attent,
+Mais vous vous abusez, mon adroite colere,
+Par un long chatiment cherche à se satisfaire :
+Je pretens que vos cœurs endurent chaque jour,
+Mille tourmens divers, mille maux tour à tour ;
+Vous craindrez pour sa vie, il craindra pour la vôtre,
+Ainsi vous tremblerez sans cesse l'un et l'autre,
+Et pourveu que l'effet réponde à mes projets,
+Vous mourez mille fois sans expirer jamais,
+Qu'on les ramene.
+
+C'en est fait, bannissons la pitié de mon ame,
+Ne songeons qu'à vanger le mépris...
+
+      Et bien.
+
+Vien, suy-moy, nous verrons ce qu'il faut que je fasse.
+
+
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_icile
+
+Severe que dis-tu ? Ciel ! qu'oses-tu penser ?
+Crois-tu de Clodius la noire calomnie ?
+Mais quand les Dieux auroient fait naistre Virginie,
+Dans la honte des fers⁎, et dans un rang plus bas,
+Quel que fut son destin je ne changerois pas :
+Plus on veut l'abaisser, plus je sens que je l'aime,
+Si ses malheurs sont grands mon amour est extréme :
+Qu'ay-je fait jusqu'icy pour luy prouver ma foy⁎,
+Je luy rendois des soins⁎, qui n'eut fait comme moy ?
+Tout ne flattoit⁎-il pas mes vœux⁎, et ma tendresse,
+Gloire⁎, biens, dignitez,  pouvoir, credit, noblesse,
+Sa main me donnoit tout, qui n'eut pû presumer,
+Que mon ambition me portoit à l'aimer ?
+Mais du moins aujourd'huy mon amour seul éclate⁎,
+Et mon ambition n'ayant rien qui la flate⁎,
+Je feray hautement triompher en ce jour,
+La generosité⁎, la constance, et l'amour.
+
+Parce qu'on la trahit, dois-je l'abandonner ?
+Et ne luy faisant voir qu'une amitié⁎ commune,
+Regler ma passion au gré de la fortune :
+S'il est des cœurs mal faits, et d'indignes amans⁎,
+Qui suivent dans leurs vœux⁎ ces lâches sentimens.
+Pour moy n'en doute point, quand j'aime Virginie,
+C'est à d'autres objets⁎ que mon cœur sacrifie,
+Les grandeurs que le sort peut ravir en un jour,
+N'ont jamais attiré mes vœux ny mon amour,
+La fermeté d'esprit, la grandeur de courage⁎,
+La pureté de cœur, voilà ce qui m'engage ;
+Ce qui dépend du sort est pour moy sans appas,
+Et j'aime les vertus⁎ qui n'en dépendent pas.
+
+Ah ! ne t'oppose plus à l'ardeur qui me presse⁎ ;
+Cependant Virginie est long-temps à venir,
+Quel obstacle nouveau pourroit la retenir ?
+Quand verray-je cesser l'ennuy⁎ qui me devore,
+Neglige-t-elle helas ! un amant⁎ qui l'adore⁎ ?
+Dieux ! que puis-je penser de son retardement,
+Que je souffre de maux en ce cruel⁎ moment,
+Que je suis déchiré ! mais je la voy, Severe,
+Elle vient.
+
+      Le destin ne m'est plus si contraire,
+Madame, je vous voy, et je puis en ce jour,
+Faire encor à vos yeux éclatter⁎ mon amour,
+Qui l'eut crû que si prés d'un heureux⁎ Himenée,
+Nostre amour à ces maux deust estre condamnée.
+Mais suspendez l'effort⁎ de toutes vos douleurs,
+Que la joye un moment regne seule en nos cœurs :
+Pour moy, je l'avoüeray, quand le sort me menace,
+Du bien que je reçois je luy dois rendre grace,
+J'estois absent de vous, inquiet, desolé,
+Je vous vois, je vous parle, et je suis consolé ;
+Le trouble⁎, la douleur qui déchiroit mon ame,
+Tout s'est evanoüy devant vos yeux, Madame,
+Ma presence fait-elle au moins dans vostre cœur,
+L'effet que vostre veuë...
+
+Ah ! Madame, éloignez cette injuste pensée,
+Par ce cruel⁎ discours⁎ ma flame est offensée,
+Pourquoy perdre un espoir à nostre amour si doux,
+Qui peut nous separer ?
+
+Ainsi vous renoncez à ce juste Hymenée,
+Que deviendra la foi⁎ que vous m'avez donnée ?
+Lié par mes sermens, et presque vostre Epoux, 
+N'auray-je...
+
+      Eh bien que peut-il faire ?
+Son pouvoir ne peut rien contre un amour sincere.
+
+Ah croyez-moy, Madame, un peu plus genereux⁎,
+Rendez plus de justice à mon ardente flame,
+Vostre merite seul l'alluma dans mon ame ;
+Et je jure à vos yeux qu'il n'est rien que la mort,
+Qui puisse desormais separer nostre sort,
+Que par tant de sermens engagés l'un à l'autre,
+Les Dieux mesme...
+
+J'auray le mesme cœur, j'auray les mesmes yeux,    
+Vous conserverés tout ce que mon cœur adore⁎,
+Vous aurez vos vertus⁎ ; et vous aurez encore,
+Pour m'attacher⁎ à vous par un lien plus fort,
+Vos craintes, vos douleurs, les injures du sort :
+Oüy, pour serrer les nœuds⁎ d'une chaîne si belle,
+Vos disgraces⁎ auront une force nouvelle,
+Ah ! si c'est un devoir pour un cœur genereux⁎,
+De plaindre, de servir, d'aider les malheureux,
+Pour mon cœur enflammé quelle douceur extréme,
+De soulager en vous le digne objet⁎ qu'il aime,
+De finir vos malheurs, et de pouvoir enfin,
+Vanger vostre vertu⁎ des affrons du destin.
+
+Que ce noble discours⁎ pleinement justifie,
+Le veritable sang dont vous estes sortie,
+Un cœur dans l'esclavage, et d'un vil sang formé,
+D'un courage⁎ si grand n'est jamais animé,
+Et quelque fier qu'il soit toûjours quelque foiblesse,
+Découvre tost ou tard sa premiere bassesse ;
+Mais finissez, Madame, un discours⁎ si cruel⁎,
+Et qui rend envers moy vostre cœur criminel,
+Dieux ! est-ce là m'aimer que m'oster l'esperance ?
+
+Madame, par pitié cachez-moy vos douleurs,
+C'est trop de mes ennuis⁎, et de vostre tristesse⁎,
+Mais je la finiray, croyez-en ma promesse,
+Je perdray vos tyrans, et quel que soit leur rang,
+Ces pleurs que vous versez leur cousteront du sang.
+
+      Madame,
+Ne vous opposez point à l'ardeur qui m'enflame,
+Il faut que l'insolent qui vous ose insulter,
+Aprenne desormais à vous mieux respecter.
+
+      C'est à moy de vanger vostre injure,
+C'est à moy de convaincre, et punir l'imposture,
+J'y cours, adieu, Madame.
+
       Consolez-vous et retenez vos larmes,
 Madame je sçais tout, et conçois vos allarmes,
 Mais les gemissemens sont icy superflus,    
@@ -1146,26 +552,6 @@ Et dans le désespoir, Madame, qui me guide,
 Moy seul je perceray le cœur de ce perfide,
 Attendez cet effort⁎ de ma juste fureur⁎.
 
--*who_plautie
-O Ciel ! quel doux espoir je sens naistre en mon cœur,
-Vous allez immoler la main qui nous outrage,
-Mais Dieux ! en quel dessein vostre amour vous engage,
-Vous vous flattez⁎ en vain de pouvoir l'accabler.
-
--*who_virginie
-Cessez, Seigneur, cessez de nous faire trembler,
-De ce fatal projet vous seriez la victime,
-Et quand vous perdriez le tyran qui m'opprime,
-Qu'Appius périroit, croiez que son trépas,
-D'un esclavage affreux ne me sauveroit pas,
-Neuf tyrans resteroient qui pour vanger sa perte,
-Prendroient pour nous punir l'occasion offerte,
-Je verrois ces cruels⁎ armez contre vos jours,
-Se prester à l'envy de funestes⁎ secours,
-Et presenter enfin à mon ame estonnée⁎
-Vostre mort, et les fers⁎ où je suis destinée.
-
--*who_icile
 Ne vous allarmez point, craignez moins leur pouvoir,
 Madame, j'ay preveu tout ce qu'il faut prevoir,
 Perdre un de nos Tyrans sans accabler les autres,
@@ -1229,360 +615,14 @@ J'affranchis ma patrie, et j'acquiers Virginie,
 Et s'il faut succomber dans un si noble effort⁎,
 Où pourrois-je trouver une si belle mort ?
 
--*who_virginie
-Je n'ose condamner l'ardeur qui vous entraîne,
-Je vous aime, et je crains, mais j'ay l'ame Romaine,
-L'interest du païs doit icy prevaloir :
-Tout cede dans mon cœur à ce premier devoir,
-Je ne vous aurois pas hazardé⁎ pour moy-mesme,
-Mais je consens pour luy d'exposer⁎ ce que j'aime,
-Le genereux⁎ amour qui regne dans mon coeur :
-Ne veut point d'un Amant⁎ enchaîner la valeur,
-Je brûle comme vous de voir Rome sauvée,
-De voir vostre vertu⁎ jusqu'aux Cieux elevée,
-Joignez tous les devoirs de Heros et d'Amant⁎,
-Ils se peuvent entre eux secourir puissamment,
-Leur union vous offre une double victoire ;
-Du costé de l'amour, du costé de la gloire⁎,
-De toutes parts enfin vous serez couronné,
-Comme illustre Guerrier, comme Amant⁎ fortuné.
-Les Romains admirant⁎ cette grande victoire,
-Dresseront des Autels, Seigneur, à vostre gloire⁎,
-Et moy n'en doutez point à vostre heureux⁎ retour,
-Je prens sur moy le soin⁎ de couronner l'amour.
-
--*who_icile
 Ah ! souffrez...
 
--*who_virginie
-      Mais helas ! que je suis insensée,
-Je me laisse seduire à ma douce pensée ;
-Peut-estre que le sort nous menace tous deux,
-Le plus juste party n'est pas toûjours heureux⁎ :
-N'importe, allez Seigneur, et si la destinée,
-Marque de vostre mort cette triste journée,
-Je jure que mon sang par ma main répandu,
-Dans le vostre aussi-tost se verra confondu⁎,
-Que mon bras...
-
--*who_icile
       Eloignez cette funeste⁎ image,
 J'accepte seulement vostre premier presage.
 J'espere qu'aujourd'huy, content, victorieux,
 Madame, je viendray vous tirer de ces lieux,
 Adieu.
 
--*who_plautie
-      Je vous suivray, Seigneur, et mon courage⁎,
-Veut avoir quelque part dans ce fameux ouvrage.
-
-**** *book_ *id_acte306 *act_acte3 *date_1683 *creator_campistron
-
--*who_virginie
-Quoy vous voulez vous-mesme…
-
--*who_plautie
-      Oüy, je veux que mes cris,
-Reveillent la vertu⁎ des Romains assoupis,
-Je veux leur inspirer les transports⁎ de mon ame,
-Sans doute⁎ ils rougiront en voyant une femme,
-Moins timide cent fois, et plus Romaine qu'eux,
-Tâcher de ranimer cet esprit genereux⁎
-Qu'a versé dans leur sein le sang de leurs ancestres,
-Sans cesse revolté contre d'injustes Maistres.
-Ah ! songe quel triomphe, et quel bonheur pour nous
-Si tandis que l'on voit mon invincible Epoux,
-Des perils du dehors, nous sauver, nous deffendre,
-L'on voit en mesme temps son épouse, et son gendre,
-Affranchir Rome encor du joug des Decemvirs :
-Et le sort secondant nos soins et nos desirs,
-Nostre famille seule asseurant sa memoire,
-D'un Empire si saint faire toute la gloire⁎.
-
--*who_virginie
-Je conçois la grandeur d'un si noble dessein,
-Mais helas ! que je crains qu'on ne le tente en vain,
-Je crains...
-
-**** *book_ *id_acte307 *act_acte3 *date_1683 *creator_campistron 
-
--*who_severe
-      N'attendez plus un secours inutile,
-Madame, c'en est fait, on nous enleve Icile ;
-Un traistre qu'il croyait ferme en ses interests,
-Vient d'instruire Appius de ses desseins secrets,
-Dans le moment qu'Icile alloit tout entreprendre ;
-On l'a mis hors d'estat de vous pouvoir deffendre,
-De sa juste colere on previent les effets,
-On le vient d'arrester en sortant du Palais.
-
--*who_plautie
-O Ciel !
-
--*who_virginie
-      Cruel⁎ destin ! quelle perseverance ?
-Puis-je aprés un tel coup⁎ avoir quelque esperance ?
-Vous le voyez, Madame, il n'est plus de secours,
-Il est temps de finir mes déplorables jours,
-Icile est arresté, le Ciel nous est contraire,
-Il nous prive à la fois de l'Amant⁎ et du Pere ;
-C'en est fait, je me livre à mon seul desespoir.
-
--*who_plautie
-Ah ! prens sur toy ma fille un peu plus de pouvoir,
-Mourir lorsque le sort rend la vie importune,
-C'est l'ordinaire effet d'une vertu⁎ commune :
-Mais vivre en essuyant ses plus funestes⁎ coups⁎,
-Luy faire voir un cœur plus grand que son courroux,
-C'est-là que la vertu⁎ doit briller davantage,
-Dans ces extremitez éclate⁎ un grand courage⁎,
-Que te diray-je, enfin, tu dois par ces efforts⁎,
-Me prouver qu'en effet c'est de moy que tu sors.
-
--*who_virginie
-Qu'exigez-vous de moy ? pourquoy vouloir Madame,
-Faire durer les maux qui déchirent mon ame,
-La mort les eût finis : loin de vous allarmer,
-A ce juste dessein vous deviez m'animer,
-Preste à souffrir des fers⁎ l'affreuse ignominie,
-Rien ne semble à mon cœur si cruel⁎ que la vie :
-Helas ! pour me tirer du gouffre où je me voy,
-Quelles mains ! quels amis voudront s'armer pour moy.
-
--*who_plautie
-Tout les Romains,  ta cause est la cause commune,
-Il s'agit de leur sort comme de ta fortune,
-Le perfide Appius a commencé par nous,
-Mais demain sur quelque autre il portera ses coups⁎,
-Si tous nos citoyens armez pour ta deffence
-N'asseurent leur repos en vangeant nostre offense,
-Je vay par un recit des maux que je prevoy
-Faire trembler les cœurs des Meres comme moy :
-Je vay les allarmer pour toute leur famille,
-Par l'exemple inoüy des malheurs de ma fille,
-Je vay tout animer contre Appius, enfin,    
-Je cours perir moy mesme, ou changer ton destin.
-
--*who_virginie
-Secondez Dieux puissans ce desir legitime,
-Que si pour vous fléchir il faut une victime,
-Frapez me voilà preste, et par un prompt effort⁎,
-Epargnez-moy des maux plus cruels⁎ que la mort.
-
-**** *book_ *id_acte401 *act_acte4 *date_1683 *creator_campistron
-
--*who_clodius
-Ouy ce Rival heureux⁎ par la fin de sa vie,
-Bien-tost à vos transports⁎ livrera Virginie,
-Que tardez-vous, Seigneur, à le faire perir ?
-Vangez-vous des tourmens qu'il vous a fait souffrir,
-Craignez-vous par sa mort de vous charger⁎ d'un crime,
-Croyez-vous...
-
--*who_appius
-      Non, je croy sa peine legitime,
-N'a-t'il pas hautement par un lâche attentat,
-Assemblé ses amis, voulu troubler⁎ l'Etat,
-Sa perte en ce moment est juste et necessaire,
-Mais Virginie…
-
--*who_clodius
-      Eh bien craignez-vous sa colere,
-Detrompez-vous, Seigneur, peut-estre qu'aujourd'huy,
-Elle attend un pretexte à renoncer à luy ;
-Peut-estre qu'en secret sensible à vostre gloire⁎,
-Son cœur déja charmé⁎ vous cede la victoire,
-Mais l'honneur fier Tyran de ses vœux les plus doux,
-L'empesche seulement de s'unir avec vous.
-Epargnez-luy, Seigneur, la cruelle⁎ contrainte,
-D'entendre⁎ d'un Amant⁎ la pitoyable plainte,
-Perdez-le, et par sa mort asseurez-vous d'un cœur,
-Déja presque insensible à sa premiere ardeur,
-Et qui pour se donner n'attend plus rien peut-estre,
-Que l'éclat⁎ d'un amour qui doit parler en maistre.
-
--*who_appius
-Quelle honte pour moy, s'il faut que mon amour,
-Pour vaincre mon Rival luy ravisse le jour ;
-Quel triomphe pour luy, quelle gloire⁎ immortelle,
-De n'avoir jamais veu Virginie infidelle,
-D'avoir gardé son cœur, enfin d'avoir vaincu,
-Ma grandeur, et mes feux tant qu'il aura vescu.
-
--*who_clodius
-Et qu'importe, Seigneur, quel scrupule vous presse⁎.
-
--*who_appius
-J'aime pour mon malheur avec trop de tendresse,
-Enfin de mon Rival je me vangeray mieux,
-Si je puis épouser Virginie à ses yeux :
-J'attens icy l'ingrate⁎, et ne veux plus luy taire,
-De nos desseins secrets le dangereux mystere ;
-Je vay tout employer pour ébranler sa foi,
-Priere, soin⁎, respect, amour, menace, effroy.
-J'espere que des fers⁎ l'épouvantable image,
-Et qu'Icile mourant fléchiront son courage⁎,
-Je vay luy faire voir son Amant⁎ enchaîné,
-Aux plus cruels⁎ tourmens, à la mort condamné,
-Il est instruit déja que pour sauver sa vie,
-Il doit en ma faveur parler à Virginie,
-Qu'il ne peut qu'à ce prix échaper à la mort,
-Peut-estre mon Rival fera-t'il cet effort⁎.
-Que je serois heureux⁎ si par cette foiblesse,
-Il ne meritoit plus l'objet⁎ de sa tendresse,
-Qu'en la tenant de luy j'eusse encor la douceur,
-D'avoir fletry sa gloire⁎, et fait trembler son cœur,
-Cependant, cours amy, t'informer dans la Ville,
-Des discours⁎, des desseins des Partisans d'Icile,
-Examine avec soin, observe exactement,
-Les démarches qu'ils font, leur moindre mouvement :
-Va, tu m'aprendras tout, comme témoin fidelle,
-Virginie entre, il faut m'expliquer avec elle.
-
-**** *book_ *id_acte402 *act_acte4 *date_1683 *creator_campistron
-
--*who_appius
-Madame, il faut enfin vous découvrir mon cœur,
-Il faut de mon amour vous declarer l'ardeur,
-En ce moment fatal⁎ je ne sçaurois plus feindre,
-Depuis assez longtemps je cherche à me contraindre,
-Pour vous j'ay tout trahy gloire⁎, devoir, employ,
-L'amour fait tous mes soins, et mon unique loy,
-Je suy les mouvemens d'une aveugle tendresse,
-Et si vostre pitié pour moy ne s'interesse⁎,
-Songez que rien ne peut ébranler mon dessein,
-Que je ne perdray pas toute ma gloire⁎ en vain,
-Songez...
-
--*who_virginie
-      Vous m'aimez donc, Seigneur, et vostre flame
-Par d'illustres effets se declare à mon ame.
-Barbare, de quel front m'osez-vous presenter
-Une main attachée⁎ à me persecuter ?
-Je fremis à la voir cette main violente,
-Qui m'arracha des bras d'une mere tremblante,
-Qui m'a déja causé tant de malheurs divers,
-Et pour toucher mon cœur me presente des fers⁎ :
-Comment avez-vous crû qu'au mépris de ma gloire⁎
-Mon cœur lâche et cedant une indigne victoire,
-D'un si funeste⁎ Hymen voulût former les nœuds,
-Et joindre l'innocence à vos crimes affreux.
-
--*who_appius
-Ah cruelle⁎ ! est-ce à vous de parler de mes crimes,
-Leur seule cause helas ! les rend trop legitimes,
-Est-ce à vous de montrer à mon cœur abbatu,
-Qu'il a soüillé sa gloire⁎ et trahy sa vertu⁎ ?
-M'osez-vous reprocher mon ardeur criminelle,
-Vous qui rendez mon cœur à son devoir rebelle,
-Vous qui seule causez mes forfaits odieux,
-Ah ! je puis justement en accuser vos yeux,
-Leur demander raison des malheurs de ma flame,
-De mon repos perdu, du trouble⁎ de mon ame,
-D'avoir de mon esprit malgré mes soins prudens,
-Effacé les leçons de plus de quarante ans,
-Et d'avoir fait enfin par un coup⁎ effroyable,
-D'un Souverain heureux⁎ un Amant⁎ miserable.
-Aussi n'esperez pas de pouvoir m'abuser,
-Je connois la raison qui vous fait m'accuser,
-Pour un heureux⁎ Rival vostre ardeur empressée,
-Fait que de tous mes soins⁎ vous estes offensée :
-Cet Icile l'objet⁎ de vos ardens souhaits,
-Me deffend...
-
--*who_virginie
-      Oüy je l'aime autant que je vous hais.
-Vous me tyrannisez, il m'a toûjours servie,
-Il fait tout le bon-heur, vous l'horreur de ma vie :
-Et je voyois enfin dans cet illustre Epoux,
-Encor plus de vertus⁎ que de crimes en vous.
-
--*who_appius
-On conserve sans peine une entiere innocence,
-Quand un bon-heur constant, previent nostre esperance,
-Icile satisfait dans ses vœux les plus doux,
-Tranquille, glorieux, enfin aimé de vous ;
-A-t'il pû jusqu'icy se charger⁎ d'aucun crime ?
-Mais si de vos mépris déplorable victime,
-Accablé des tourmens que mon cœur a soufferts,
-Il avoit ressenty tout le poids de mes fers⁎,
-Si vous l'aviez contraint d'aimer sans esperance,
-Qu'il eut eu comme moy la supréme puissance :
-Cet Icile à vos yeux digne de vostre foy⁎,
-Seroit peut-estre encor plus coupable que moy,
-Ah ! son bon-heur allume un courroux dans mon ame,
-Qui pourroit... mais songez à répondre à ma flame,
-Autrement malgré moy...
-
--*who_virginie
-      Favorable retour,
-Vostre courroux me plaist bien plus que vostre amour,
-Menacez, accablez l'impuissante innocence,
-Je crains moins les tourments qu'un amour qui m'offence,
-Je prefere mes maux à d'injustes bien-faits,
-Armez vostre fureur⁎, j'en brave les effets.
-
--*who_appius
-Hé bien, pour me vanger de vostre ingratitude,
-Vos malheurs ne sont pas un supplice assez rude,
-Et je veux desormais vous porter d'autres coups⁎,
-Moins funestes⁎ pour moy, mais plus cruels⁎ pour vous,
-Je jure qu'il n'est rien que ma fureur⁎ ne tente,
-L'Amant⁎ me répondra des mépris de l'Amante⁎ ;
-C'est luy qui rend pour moy vostre cœur si cruel⁎,
-Et puisque vous l'aimez, il est trop criminel.
-Il faut par un seul coup⁎ accabler l'un et l'autre ;
-Je perceray son cœur qui me ravit le vostre,
-Pour gouster à la fois le plaisir sans egal,
-De punir vos dédains, et de perdre un Rival.
-
--*who_virginie
-Helas Seigneur...
-
--*who_appius
-      Pour vous la menace est terrible,
-Je vous frape à la fin par vostre endroit sensible,
-Mais ne m'accusez point, c'est vous qui l'ordonnez
-Et c'est par vos mépris que vous l'assassinez.
-
--*who_virginie
-Il mourra donc, Seigneur, et c'est moy qui l'opprime,
-N'importe, je suivray cette chere victime,
-Et par ce grand effet d'une immortelle foy⁎,
-Je le vangeray bien si vous brulez pour moy,
-Vostre esprit libre alors de sa jalouse envie,
-Verra qu'un mesme coup⁎ aura finy ma vie,
-Et j'auray ce plaisir parmy tous mes mal-heurs,
-Que la mort d'un Rival vous coutera des pleurs.
-
--*who_appius
-Madame, prevenons⁎ un mal-heur si funeste⁎,
-Du temps que je vous donne employez mieux le reste,
-Icile en ce moment va parestre à vos yeux,
-J'ay moy mesme ordonné qu'on l'ameine en ces lieux.
-Il vient.
-
-**** *book_ *id_acte403 *act_acte4 *date_1683 *creator_campistron 
-
--*who_appius
-      Derobez vous au coup⁎ qui vous menace,
-Icile, par vos soins meritez vostre grace ;    
-Madame, songez y, vous sçavez mon dessein,
-Il me faut dés ce soir son sang ou vostre main,
-Je sors pour un moment ; Gardes qu'on se retire :
-
-**** *book_ *id_acte404 *act_acte4 *date_1683 *creator_campistron
-
--*who_virginie
-Vous avez entendu ce qu'il vient de nous dire,
-Cessons de nous flatter⁎, voicy le jour affreux,
-Où l'on va pour jamais nous separer tous deux,
-De nostre heureux⁎ Hymen l'esperance est perduë,
-Je ne puis qu'un moment jouïr de vostre veuë,
-Et vous n'ignorez pas à quel funeste⁎ prix,
-Ce dernier entretien vient de m'estre permis.
-
--*who_icile
 Je sçay que contre moy on met tout en usage,
 Mesme pour essayer d'ébranler mon courage⁎,
 On a fait en passant étaler à mes yeux,
@@ -1609,58 +649,20 @@ Vostre bonté pour moy feroit tomber sur vous,
 La fureur⁎ d'un Rival tout puissant et jaloux.
 Sauvez-vous...
 
--*who_virginie
-      Arrestez, en ce mal-heur extreme,
-Je pretens désormais me conseiller moy mesme ;
-Je voy ce qu'il faut faire et ne balance plus
-Vos conseils et vos soins sont icy superflus,
-Je sçay par ou finir vos maux et ma misere,
-Et dés ce mesme jour...
-
--*who_icile
       Quoy ? que voulez vous faire,
 Par où pretendez vous nous pouvoir secourir ?
 Qu'avez vous resolu, Madame ?
 
--*who_virginie 
-      De mourir,
-
--*who_icile
 Ah Ciel !
 
--*who_virginie
-      Le sort nous force à perir l'un et l'autre,
-Mais souffrez que ma mort precede au moins la vôtre ;
-Je le veux, vostre cœur ne doit point l'envier,
-Le plus foible des deux doit mourir le premier,
-J'ay du courage⁎ assez pour m'immoler moy mesme,
-Et n'en ay point pour voir expirer ce que j'ayme.
-
--*who_icile
 Ah renoncez Madame à ce cruel⁎ dessein !
 J'en fremis...
 
--*who_virginie
-      Vous tremblez, et vous estes Romain.
-
--*who_icile
 Ouy, je tremble sans doute⁎, et je vous le confesse,
 Mais mon cœur s'aplaudit d'avoir cette foiblesse,
 Je verrois vos beaux yeux se fermer pour jamais.
 Ah plutost...
 
--*who_virginie
-      Le trépas fait mes plus doux souhaits,
-Mourons, puisqu'il le faut genereux⁎ et fidelles,
-Emportons au tombeau nos ardeurs mutuelles ;
-Servons de noble exemple aux siecles à venir,
-D'une foy⁎ que la mort n'aura pû des-unir,
-Remportons du Tyran une entiere victoire,
-Mourons, et me laissant partager vostre gloire⁎,
-Faisons que l'univers deplore nostre mort,
-Et forçons le Tyran d'envier nostre sort.
-
--*who_icile
 Non, Madame, vivez... Mais le Tyran s'aproche,
 C'en est fait, de ma mort l'instant fatal⁎ est proche,
 Le suplice m'attend au sortir de ce lieu,
@@ -1669,33 +671,14 @@ Je ne vous verray plus... mais je vous prie encore,
 C'est le dernier souhait d'un cœur qui vous adore⁎,
 De vouloir...
 
-**** *book_ *id_acte405 *act_acte4 *date_1683 *creator_campistron
-
--*who_appius
-      Quel succés aura vostre entretien,
-Qu'avez vous resolu, parlez, Icile.
-
--*who_icile
       Rien.
 
--*who_appius
-C'est donc là tout l'effet d'une telle entreveuë,
-C'est ainsi que pour moy vous l'avez resoluë,
-J'ay cru que par vos soins⁎ je recevrois sa foy⁎.
-
--*who_icile
 Je n'ay pas seulement daigné penser à toy,
 Comment t'es tu flatté⁎ que pour sauver ma vie,
 Je viendrois pour tes feux parler à Virginie ;
 J'ay dû mieux employer un temps si precieux,
 Qu'à servir d'un Tyran les desseins odieux.
-
--*who_appius
-Ah perfide ! ta mort, mais une mort cruelle⁎,
-Punira de ton cœur l'audace criminelle,
-Rien ne te peut sauver, c'en est fait.
-
--*who_icile 
+ 
       Haste toy,
 La mort n'a rien d'affreux ny de triste pour moy,
 Mais que dis-je ? ma mort encor plus que ma vie,
@@ -1703,49 +686,202 @@ De ton amour jaloux excitera l'envie,
 Je mouray plaint, heureux⁎, et sans estre trahy.
 Tu vivras criminel, malheureux, et hay.
 
--*who_virginie
-Cesse de te flatter⁎, en vain ta tyrannie,
-S'attache⁎ à separer Icile, et Virginie,
-En vain d'un feu si beau tu veux rompre le cours,
-L'amour plus fort que toy nous rejoindra toujours.
-
--*who_appius
-Oüy, vous serez unis... mais c'est vous faire grace,
-Il faut bien autrement confondre⁎ vostre audace,
-Vous voulez m'irriter, un trépas éclattant,
-Est le supréme bien que vostre amour attent,
-Mais vous vous abusez, mon adroite colere,
-Par un long chatiment cherche à se satisfaire :
-Je pretens que vos cœurs endurent chaque jour,
-Mille tourmens divers, mille maux tour à tour ;
-Vous craindrez pour sa vie, il craindra pour la vôtre,
-Ainsi vous tremblerez sans cesse l'un et l'autre,
-Et pourveu que l'effet réponde à mes projets,
-Vous mourez mille fois sans expirer jamais,
-Qu'on les ramene.
-
--*who_virginie
-      Adieu, Seigneur.
-
--*who_icile
       Adieu, Madame.
 
-**** *book_ *id_acte406 *act_acte4 *date_1683 *creator_campistron 
+Ouy, c'en est fait, Madame, Appius est sans vie,
+Je viens de le punir, enfin tout est sauvé,
+Et déja vostre Epoux dans Rome est arrivé.
 
--*who_appius
-C'en est fait, bannissons la pitié de mon ame,
-Ne songeons qu'à vanger le mépris...
+      Madame on vient de me l'apprendre,
+Le bruit⁎ de son retour partout s'est fait entendre⁎,
+Mais que fait Virginie ? on ne m'en a rien dit,
+Elle seule sans cesse occupe mon esprit.
 
-**** *book_ *id_acte407 *act_acte4 *date_1683 *creator_campistron
+      Ah courons aprés elle !
+Courons la délivrer, et qu'aux yeux des Romains,
+Le traistre Clodius soit puny par mes mains,
+Que je puisse gouster le plaisir et la gloire⁎,
+Que prepare à mon cœur une pleine victoire.
 
--*who_clodius
+      Aprenez-nous, où faut-il que je vole,
+Où sont nos ennemis, que mon bras les immole,
+Que Virginie enfin ne les redoute plus,
+Que j'aille...
+
+      Comment ?
+
+      De tous mes maux voicy le comble affreux,
+Que puis-je craindre aprés ce que je viens d'apprendre,
+Grands Dieux ?
+
+Ainsi pour mon amour Virginie est perduë,
+Voilà cette union que j'avois attenduë,
+Mourons, mais d'une mort qui soit utile à tous,
+Portons sur nos Tyrans ma rage avec mes coups⁎,
+Allons, Madame, allons, et courons l'un et l'autre,
+Faire parler par tout ma douleur et la vostre,
+Allons, que mille morts marquent ce triste jour,
+Puisque Rome l'exige aussi bien que l'amour.
+
+
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clodius
+
+De ma temerité Rome entiere surprise,
+Demande les raisons d'une telle entreprise,
+Le Peuple compatit à la juste douleur
+D'un amant⁎ éperdu, d'une mere en fureur⁎ :
+Il est temps d'informer Rome, Icile et Plautie
+Des droits qui m'ont permis d'enlever Virginie.
+Qu'ils aprennent, Seigneur, et sans plus differer...
+
+      Qui peut encor vous faire soûpirer⁎ ?
+Quel injuste chagrin⁎ et vous trouble⁎ et vous gesne⁎ ?
+Que craignez-vous ?
+ 
+De mon zele pour vous assuré dés l'enfance
+Vous m'avez honoré de vostre confiance,
+Seigneur, et vostre main par de nouveaux bienfaits
+A semblé chaque jour prevenir⁎ mes souhaits.
+Mais le plus grand de tous, Seigneur, je le confesse,
+C'est d'avoir employé mes soins et mon adresse,
+Pour rompre le bonheur qu'Icile s'est promis ;
+Je le hay plus luy seul que tous mes ennemis.
+Depuis que par sa brigue assurant ma disgrace
+Je l'ay vû dans nos Camps commander en ma place ;
+Et par l'injuste choix de Rome et du Senat
+Des honneurs qu'on me doit obtenir tout l'eclat⁎.
+Que je serois heureux⁎ de le pouvoir detruire !
+Je goûteray du moins le plaisir de luy nuire,
+Puisqu'enfin vôtre amour me permet aujourd'huy
+D'attacher à ses jours un éternel ennuy⁎.
+Mais je n'aurois pas crû, quelque ardeur qui vous presse⁎,
+Que le cœur d'Appius fit voir tant de foiblesse ;
+Tout flatte⁎ vos desirs, tout succede à vos vœux,
+Vous n'avez qu'à vouloir, Seigneur, pour estre heureux⁎,
+Cependant un Rival que vostre amour accable
+Vous gesne et vous paroist encore redoutable ?
+Il vous le falloit craindre en cet instant cruel⁎
+Que conduisant déja Virginie à l'autel,
+Par les liens sacrez d'un heureux⁎ Hymenée
+Il alloit à son sort joindre sa destinée,
+Lors que tout estoit prest ; la coupe, le couteau,
+La victime, l'encens, le Prestre, le flambeau :
+Quand Plautie elle même à ses desirs propice
+Pour l'hymen de sa fille offroit un sacrifice ;
+C'estoit alors, Seigneur, qu'on eût pû pardonner
+Le trouble⁎ où vostre cœur semble s'abandonner,
+Mais j'ay mis à ces nœuds⁎ un invincible obstacle,
+Et pour vous épargner ce funeste⁎ spectacle
+J'ay ravy la conqueste à cet heureux⁎ amant⁎,
+Dans le Temple, à l'Autel, dans le même moment
+Qu'il formoit ce lien à vostre amour contraire,
+Et malgré les soûpirs⁎ et les pleurs d'une mere,
+Malgré tous les efforts d'un amant⁎ furieux⁎,
+J'ay conduit,  j'ay remis Virginie en ces lieux.
+Vôtre repos enfin de vous seul va dépendre,
+Il ne vous reste plus, Seigneur, qu'à faire entendre⁎
+Une fausse équité qui soûtiendra mes droits
+Et qui mettra le crime à l'ombre de nos loix.
+Parlons, et publions enfin que Virginie,
+N'est point du noble sang dont on la croit sortie,
+Que chez moy d'un esclave elle a receu le jour, 
+Qu'elle doit estre aussi mon esclave à son tour,
+Et suivant le destin de ceux qui l'ont fait naistre,
+Heriter de leurs fers⁎ et m'accepter pour maistre.
+
+Profitez-donc, Seigneur, de ce temps favorable,
+Et donnant un cours libre à vos secrets soûpirs⁎,
+Courez à Virginie expliquer⁎ vos desirs.
+
+Prenez garde, Seigneur, qu'une injuste contrainte
+Ne renverse à la fin tout le fruit de ma feinte,
+Vous nourrissez un feu prest à vous consumer,    
+Vous languirez toûjours...
+
+Je me rends au dessein que l'amour vous suggere,
+De nôtre intelligence il couvre le mystere ;
+Mais il faudroit aussi pour ne rien negliger,
+Eloigner un Rival qui cherche à se vanger.
+Prevenez⁎ les transports⁎ d'un amant⁎ en furie⁎,
+Prest à tout hazarder⁎ pour sauver Virginie.
+
+Ah ! je prevoy...
+
+      Seigneur, c'est mon dessein. Je sors.
+Ma presence sans doute⁎ aigriroit⁎ sa colere.
+
+Qu'avez-vous fait, Seigneur, et que faut-il attendre.
+
+Quoy, Seigneur, vostre rang, vos soins⁎, vostre grandeur,
+L'offre de vostre main n'ont pû toucher son cœur.
+
+D'un discours⁎ impreveu, Virginie allarmée,
+A suivy le panchant de son ame enflammée,
+Mais ne vous troublez⁎ point de ce premier transport⁎,
+D'un amour irrité⁎, c'est le dernier effort⁎.
+Laissez passer, Seigneur, sa premiere surprise,
+Laissez luy peser tout d'une ame un peu remise.
+Lorsque d'un oeil tranquile, et moins preoccupé,
+Son cœur verra le coup⁎ dont il seroit frapé,
+D'un costé vostre Hymen, vostre gloire⁎ en partage,
+De l'autre les horreurs qui suivent l'esclavage,
+Son orgueil confondu⁎ par des emplois si bas,
+Eh doutez-vous, Seigneur, qu'elle ne change pas,
+Quand mesme à vostre Hymen il faudroit la contraindre,
+De vostre cruauté, pourroit-elle se plaindre ?
+Vous ne la contraindrez, que pour la mieux servir,
+A ses propres desirs il vous la faut ravir,
+Et l'arrachant par force à cette erreur qu'elle aime,
+Establir son bon-heur en dépit d'elle-mesme.
+
+J'ose encor me flatter⁎ malgré tant d'artifice,
+Que vous suivrez, Seigneur, la severe Justice,
+Je ne vous dis plus rien pour soûtenir mes droits,
+Vingt témoins differens ont d'assez fortes voix,
+Donnez-moy Virginie, et forcez au silence,
+Une femme en fureur⁎ dont la plainte m'offense :
+Et qui s'authorisant de l'amour maternel,
+Cache sous ce pretexte un dessein criminel,
+Ne differez-donc plus... venez...
+ 
+Vous differez encor, Seigneur,  je vous entens⁎,
+Vous n'osez de Plautie augmenter la misere,
+Mais un Chef des Romains doit estre plus severe,
+Juste à recompenser, intrepide à punir,
+Il doit voir le passé sans craindre l'avenir,
+Sans qu'aucun interest le retienne ou l'anime,
+Et la pitié d'un Juge est souvent un grand crime,
+Puisque la vostre icy combat vostre devoir,
+Seigneur je vay d'un autre implorer le pouvoir,
+Vostre retardement me servira d'excuse,
+Si je demande ailleurs le bien qu'on me refuse.
+
+Ouy ce Rival heureux⁎ par la fin de sa vie,
+Bien-tost à vos transports⁎ livrera Virginie,
+Que tardez-vous, Seigneur, à le faire perir ?
+Vangez-vous des tourmens qu'il vous a fait souffrir,
+Craignez-vous par sa mort de vous charger⁎ d'un crime,
+Croyez-vous...
+
+      Eh bien craignez-vous sa colere,
+Detrompez-vous, Seigneur, peut-estre qu'aujourd'huy,
+Elle attend un pretexte à renoncer à luy ;
+Peut-estre qu'en secret sensible à vostre gloire⁎,
+Son cœur déja charmé⁎ vous cede la victoire,
+Mais l'honneur fier Tyran de ses vœux les plus doux,
+L'empesche seulement de s'unir avec vous.
+Epargnez-luy, Seigneur, la cruelle⁎ contrainte,
+D'entendre⁎ d'un Amant⁎ la pitoyable plainte,
+Perdez-le, et par sa mort asseurez-vous d'un cœur,
+Déja presque insensible à sa premiere ardeur,
+Et qui pour se donner n'attend plus rien peut-estre,
+Que l'éclat⁎ d'un amour qui doit parler en maistre.
+
+Et qu'importe, Seigneur, quel scrupule vous presse⁎.
+
       Ah ! Seigneur.
 Plautie…
 
--*who_appius
-      Et bien.
-
--*who_clodius
       Craignez sa fatale⁎ douleur.
 On la voit en tous lieux de Romaines suivie,
 A tous nos Citoyens demander Virginie ;
@@ -1769,35 +905,287 @@ Pour vous justifier dans l'esprit des Romains,
 Il faut dés ce moment la remettre en mes mains,
 Attendant que ce bruit⁎ avec le temps s'efface...
 
--*who_appius
-Vien, suy-moy, nous verrons ce qu'il faut que je fasse.
+      Je viens icy pour prendre mon esclave,
+Cette fille est à moy, je suis son maistre enfin,
+Appius à mes loix a soûmis son destin,
+Gardes qu'on la conduise.
 
-**** *book_ *id_acte501 *act_acte5 *date_1683 *creator_campistron
 
--*who_plautie
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_plautie
+
+Ah Seigneur, écoutez les douleurs d'une Mere,
+Et puisqu'aprés deux jours d'un mortel desespoir
+Vous avez bien voulu consentir à me voir,
+Pourray-je me flatter⁎ ?
+
+Osez-vous vous parer d'un pretexte si vain ?
+Quoy ? vous ordonne-t'il ce devoir temeraire
+D'enlever sans pitié Virginie à sa Mere ?
+Dans le temps que son Pere à la guerre occupé
+Peut-estre va mourir pour ceux qui l'ont trompé,
+Mais pourquoy dans ces lieux retenez-vous ma fille,
+Pourquoy l'arrache-t'on du sein de ma famille ?
+Pour quel crime commis vos barbares soldats
+Viennent-ils la ravir au Temple dans mes bras ?
+Pourquoy...
+
+Helas ! dans ce Palais tout le monde m'évite,
+En vain depuis deux jours errante dans ces lieux
+Les pleurs que j'ay versez ont épuisé mes yeux,
+En vain de tous costez mes cris se font entendre,
+De son destin encor je n'ay pû rien aprendre,
+Et je trouve par tout dans mes soins⁎ empressez
+Des Gardes interdits, des visages glacez,
+Qui redoutent ma veuë, et prest à se confondre⁎
+Se dérobent à moy, sans daigner me répondre,
+Par vos ordres cruels⁎...
+
+      Quoy ? que pourrez-vous dire,
+Expliquez-vous.
+
+Dieux ! qu'entens⁎-je ? comment ?
+
+Je demeure stupide, et ne sçais que répondre,
+D'un autre, Virginie, auroit receu le jour !
+Non, non, elle est ma fille, et j'en crois mon amour,
+Mon cœur fremit, mon sang s'émeut de cette injure, 
+Je sens trop fortement s'expliquer⁎ la nature,
+Et je cede à la voix de ces instincts secrets
+Qui parlant à nos cœurs ne les trompent jamais,
+Sur Virginie enfin, quoy qu'on ose entreprendre, 
+Contre tout l'Univers je sçauray la défendre.
+Ouvrez les yeux, Seigneur, un perfide aujourd'huy
+Pour me percer le cœur implore vostre appuy,
+Et vous le soûtenez ? quoy vostre propre gloire⁎,
+De mes sacrez ayeux l'immortelle mémoire,
+De mon illustre Epoux les éclattans exploits,
+Son sang pour le pays répandu tant de fois,
+Les égards que l'on doit à la vertu⁎ trahie,
+N'ont pas dans vostre cœur défendu Virginie ;
+Ah ! rendez-moy Seigneur, ce tresor precieux, 
+Ma fille, seul present que j'ay receu des Dieux.
+Avec tant d'amitié⁎ dans mon sein elevée,
+De cent perils divers par moy seule sauvée,
+Pour qui j'ay pris enfin, tant de penibles soins,
+Seigneur, dont vos yeux mesme ont esté les témoins.
+
+Ma fille, ils seroient doux pour le cœur d'une Mere ;
+Mais helas ! ils ne font qu'augmenter ma misere,
+Une crainte mortelle en corrompt les douceurs,
+Tremble, fremis, entens⁎ le plus grand des malheurs,
+Le traistre Clodius...
+
+Non, non, je previendray ta funeste⁎ disgrace⁎,
+J'admire⁎ de ton cœur la genereuse⁎ audace⁎,
+Le dessein de mourir pour conserver ton rang,
+Est digne de ma fille, est digne de mon sang,
+Mais je n'en puis souffrir la cruelle⁎ pensée,
+Rome dans ton destin est trop interressée⁎,
+Virginius déja par mes soins averty,
+Pour te venir défendre est sans doute⁎ party.
+Dés le mesme moment que tu me fus ravie,
+Sans prevoir les horreurs qui menacent ta vie,
+J'envoyay vers le camp, et je ne doute pas,
+Que ton pere vers nous ne s'avance à grands pas,
+Icile furieux⁎, menace, prie, exhorte,
+Aux plus hardis projets sa tendresse l'emporte,
+Enfin pour te sauver il suffira de moy,
+Que ne pourray-je point en agissant pour toy,
+Nous attendons beaucoup du secours de leurs armes,
+Mais n'espere pas moins de celuy de mes larmes,
+De cet affreux Palais j'ouvriray les chemins,
+Je serviray de Chef aux premiers des Romains,
+Et mes brûlans soûpirs⁎ verseront dans leur ame,
+Cette boüillante ardeur qui m'anime et m'enflame,
+Adieu je cours...
+
+      J'en fremis, mais ma fille il le faut,
+ 
+Crois-tu qu'à te quitter je souffre moins que toy,
+Quand à partir d'icy je me crois toute preste,
+Malgré tous mes efforts ma tendresse m'arreste,
+Cet amour toutefois ardent à ton secours,
+Demande des effets, et non pas des discours⁎,
+Je te quitte, ou plûtost je vais tarir tes larmes,
+Te rendre à ta famille, et finir nos allarmes,
+Le soin de te sauver m'arrache de ce lieu,
+On m'attend, et j'y vole, adieu ma fille, adieu.
+ 
+      Eh que puis-je répondre,
+Leurs discours⁎ et leurs soins ne font que me confondre⁎,
+Pour flatter⁎ ma disgrace⁎, ils m'en viennent parler,
+Et leur zele ne sert qu'à la renouveller,
+Leur pitié m'assassine, et me devient funeste⁎,
+Je ne voy point d'objet⁎ que mon cœur ne deteste,
+En public, en secret, une égale douleur,
+Accable ma raison, et déchire mon cœur :
+Si je vay me cacher au sein de ma famille,
+Tout m'y semble odieux, je n'y vois plus ma fille,
+Sans elle mon Palais m'est un desert affreux,
+Et quand pour adoucir un sort si rigoureux,
+Pleine de desespoir je cours, je vole au Temple,
+Helas ! par un destin qui n'eut jamais d'exemple,
+Cet azile sacré contre tous nos malheurs,
+Qui toûjours des humains soulage les douleurs,
+La presence des Dieux irrite⁎ ma disgrace⁎,
+Puisque mes tristes yeux y remarquent la place,
+Où ces Dieux ont permis que des monstres cruels⁎,
+M'ayent ravy ma fille au pied de leurs Autels ;
+Comment calmer les maux où mon malheur m'expose⁎,
+Tout retrace à mes yeux la perte qui les cause,
+Quoy que je fasse enfin pour charmer⁎ mes ennuis⁎,
+Je rencontre par tout les horreurs que je fuis.
+
+      J'ay tout perdu Fulvie,
+Et ne puis que traîner une importune vie,
+Tandis que Virginie a lieu d'aprehender,
+Au severe Appius je cours la demander ;
+Non que j'ose esperer qu'il daigne me la rendre,
+Je ne veux seulement que l'obliger d'attendre,
+Que mon Epoux du Camp soit icy de retour,
+Helas ! ce seul espoir r'asseure mon amour,
+Si je puis le revoir, mes douleurs, et mes craintes,
+Ne me donneront plus que de foibles atteintes,
+Courrons donc essayer... Mais que vois-je grands dieux ?
+Quel objet⁎ imprevu se presente à mes yeux ?
+C'est Appius que suit mon ennemy perfide,
+Ah ! je ne sçais que trop le dessein qui le guide,
+Il luy parle en secret... J'en fremis...
+
+      Ah ! Seigneur,
+Ecoutez-vous encor la voix d'un imposteur,
+Que dit-il ? ose-t'il comblant sa perfidie,
+Vous presser⁎ d'oprimer la triste Virginie ?
+Ne previendrez⁎-vous pas son funeste⁎ dessein,
+Presterez-vous le bras pour me percer le sein ?
+Me refuserez-vous le secours que j'implore,
+Seigneur, entre nous deux balancez-vous encore ;
+Faudra-t'il qu'à mes pleurs on puisse reprocher,
+Qu'ils n'ont pas eu la force, helas ! de vous toucher,
+Dans le temps qu'à vos yeux je suis presque mourante,
+Mon extréme douleur sera-t'elle impuissante,
+D'un barbare projet vous connoissez l'Autheur,
+Et mes tristes soûpirs⁎, mes transports⁎, ma fureur⁎,
+Mon desespoir mortel, mon ardente priere,
+Tout vous prouve, Seigneur, l'amitié⁎ d'une Mere,
+Faut-il d'autres raisons pour vous persuader ?
+Il en est mille encore à qui tout doit ceder,
+Considerez Seigneur... Mais mon ame troublée⁎,
+Succombe à tant de maux dont elle est accablée,
+Ma parole se perd... je cede à mes douleurs...
+Helas... je ne vous puis parler que par mes pleurs.
+
+      Tay-toy parjure,
+N'ajoûte point encor l'outrage à l'imposture,
+Seigneur, si mes soûpirs⁎ peuvent vous émouvoir,
+Eloignez Clodius que je ne sçaurois voir,
+Plus que tous mes malheurs sa funeste⁎ presence,
+De mes profonds ennuis⁎ aigrit⁎ la violence,
+Vous me verrez sans doute⁎ expirer en ces lieux,
+Si plus long-temps ce traistre est present à mes yeux.
+
+Eh quoy vostre pitié sera t'elle inutile,
+Ne peut-elle, à mon sang assurer un azile,
+Ne peut-elle, Seigneur, détourner loin de moy,
+Ces coups⁎ dont vostre cœur a déja quelque effroy,
+Dans mes justes desirs me seriez vous contraire,
+Servirez vous plustost l'ennemy que la Mere :
+Il demande ma fille, et sur quoy ? par quels droits,
+Son esclave a parlé, mais il n'a point de voix,
+Un homme que le sort dans les fers⁎ a fait naistre,
+N'a d'autre volonté que celle de son maistre,
+Plustost mort que vivant comblé d'un long ennuy⁎,
+Il ne peut ny parler ny vivre que pour luy.
+Seigneur, sans écouter ce suspect témoignage,
+De l'amour d'un Espoux, rendez moy le saint gage,
+Pour prononcer⁎ au moins attendez son retour,
+Vous le verrez sans doute⁎ avant la fin du jour :
+C'est luy qui soutiendra les droits de sa famille,
+C'est à luy de deffendre et de sauver sa fille.
+Brisera-t'on des nœuds⁎ que le sang a formez,
+Ces saints nœuds⁎ par l'amour, par le temps confirmez,
+En condamnant la fille on condamne le Pere,
+Et peut-on luy ravir ce sacré caractere,
+Que la forte nature a pris soin de graver,
+Et dont mesme les Dieux ne sçauroient le priver.
+
+Que dites vous, Seigneur, l'ingrate⁎ Virginie,
+Refuse le secours qui la rend à Plautie ?
+Et sans égard pour vous, sans tendresse pour moy,
+Elle ayme mieux subir une si dure loy ?
+Elle se livre entiere au destin qui la jouë,
+Seigneur, s'il est ainsi mon cœur la desavouë,
+Mais ne puis je sçavoir ce dessein glorieux,
+En faveur de ma fille inspiré par les Dieux.
+
+Qui pourra m'expliquer ce trouble⁎ et ce silence, 
+Du discours⁎ d'Appius, que faut-il que je pense,
+Ma fille, devois tu refuser le secours,
+Qui te rend à Plautie, et rassure tes jours.
+
+Comment. Que pretend il ? quel injuste dessein ?
+
+O coup⁎ ! O trahison à jamais inouye,
+Peut-on jusqu'à ce point pousser la perfidie.
+O Ciel ! as-tu permis que le cœur d'un Romain,
+Ait osé concevoir cet horrible dessein.
+
+O Ciel ! quel doux espoir je sens naistre en mon cœur,
+Vous allez immoler la main qui nous outrage,
+Mais Dieux ! en quel dessein vostre amour vous engage,
+Vous vous flattez⁎ en vain de pouvoir l'accabler.
+
+      Je vous suivray, Seigneur, et mon courage⁎,
+Veut avoir quelque part dans ce fameux ouvrage.
+
+      Oüy, je veux que mes cris,
+Reveillent la vertu⁎ des Romains assoupis,
+Je veux leur inspirer les transports⁎ de mon ame,
+Sans doute⁎ ils rougiront en voyant une femme,
+Moins timide cent fois, et plus Romaine qu'eux,
+Tâcher de ranimer cet esprit genereux⁎
+Qu'a versé dans leur sein le sang de leurs ancestres,
+Sans cesse revolté contre d'injustes Maistres.
+Ah ! songe quel triomphe, et quel bonheur pour nous
+Si tandis que l'on voit mon invincible Epoux,
+Des perils du dehors, nous sauver, nous deffendre,
+L'on voit en mesme temps son épouse, et son gendre,
+Affranchir Rome encor du joug des Decemvirs :
+Et le sort secondant nos soins et nos desirs,
+Nostre famille seule asseurant sa memoire,
+D'un Empire si saint faire toute la gloire⁎.
+
+O Ciel !
+
+Ah ! prens sur toy ma fille un peu plus de pouvoir,
+Mourir lorsque le sort rend la vie importune,
+C'est l'ordinaire effet d'une vertu⁎ commune :
+Mais vivre en essuyant ses plus funestes⁎ coups⁎,
+Luy faire voir un cœur plus grand que son courroux,
+C'est-là que la vertu⁎ doit briller davantage,
+Dans ces extremitez éclate⁎ un grand courage⁎,
+Que te diray-je, enfin, tu dois par ces efforts⁎,
+Me prouver qu'en effet c'est de moy que tu sors.
+
+Tout les Romains,  ta cause est la cause commune,
+Il s'agit de leur sort comme de ta fortune,
+Le perfide Appius a commencé par nous,
+Mais demain sur quelque autre il portera ses coups⁎,
+Si tous nos citoyens armez pour ta deffence
+N'asseurent leur repos en vangeant nostre offense,
+Je vay par un recit des maux que je prevoy
+Faire trembler les cœurs des Meres comme moy :
+Je vay les allarmer pour toute leur famille,
+Par l'exemple inoüy des malheurs de ma fille,
+Je vay tout animer contre Appius, enfin,    
+Je cours perir moy mesme, ou changer ton destin.
+
 Quoy l'on me traîne icy ? quel injuste projet.
 
--*who_pison
-Aux ordres d'Appius j'obeïs à regret,
-Madame, mais...
-
--*who_plautie
       O Dieux ! quelle fureur⁎ l'anime,
 C'en est fait, ce Tyran marche de crime en crime,
 Il retient Virginie, et me fait arrester.
 
--*who_pison
-Madame à cet effort⁎ il a dû se porter,
-Le soin⁎ de son salut l'a forcé d'y souscrire,
-Il n'a pû s'en deffendre, et j'oseray vous dire,
-Que son cœur inquiet a long-temps balancé,
-Mais d'un peril trop grand il s'est veu menacé ;
-Vos pleurs estoient plus forts que les armes d'Icile,
-Déja de toutes parts on voyoit dans la ville,
-Les femmes à l'envy⁎ sur vos pas s'assembler,
-Déja...
-
--*who_plautie
       Quoy nos clameurs l'ont pû faire trembler,
 Il craint nostre douleur dont les plus fortes armes,
 N'ont esté que des vœux⁎, des soûpirs⁎, et des larmes,
@@ -1807,23 +1195,428 @@ Et c'est des justes Dieux un ordre legitime,
 Que la crainte sans cesse accompagne le crime :
 Sa rage va sans doute⁎ éclatter⁎ contre moy.
 
-**** *book_ *id_acte502 *act_acte5 *date_1683 *creator_campistron
-
--*who_virginie
-Fuyons Camille. Ah Ciel ! est-ce vous que je voy,
-Madame, quel dessein icy vous a conduite :
-
--*who_plautie
 Mais toy-mesme, quelle est la raison de ta fuite,
 Qu'a fait nostre ennemy ? Qu'est-ce qui s'est passé.
 
--*who_virginie
-Madame, mon Arrest vient d'estre prononcé⁎.
-
--*who_plautie
 Que dis-tu ?
 
--*who_virginie
+Quel funeste⁎ dessein ! n'est-il point de secours,
+Dieux tous puissans...
+
+Ah ! quel spectacle encor pour mes yeux se prepare,
+Ma fille, je verray de farouches soldats,
+Une seconde fois t'arracher de mes bras :
+Je t'entendray gemir, et ma tendresse oisive...
+Non malgré leurs efforts⁎ il faut que je te suive,
+En vain ces inhumains voudront nous separer.
+
+Ne me reproche point ce funeste⁎ secours,
+Que n'aurois-je point fait pour conserver tes jours,
+Je me flattois⁎... Mais Ciel ! nostre ennemy s'avance.
+
+Moy, que je t'abandonne en cette extremité ?
+Que j'aille loin de toy chercher ma seureté,
+Ah ! plûtost le trépas...
+
+      Tu viens icy perfide,
+Quel dessein criminel te conduit et te guide,
+Monstre inhumain, viens-tu me déchirant le flanc,
+M'accabler, me ravir le plus pur de mon sang ;
+Ta barbare fureur⁎ jusqu'en ces lieux me brave,
+Veux-tu ?
+
+      Ah ! quelle tyrannie,
+Leurs criminelles mains vont saisir Virginie,
+Osez-vous...
+
+      Je cours...
+
+      Quoy l'on m'ose arrester,
+Inhumains, c'en est trop, je ne la puis quitter,
+Souffrez que dans les fers⁎ je suive Virginie,
+Sans ma fille je hais, et mon rang, et ma vie :
+Par rage ou par pitié percez mon triste flanc,
+Aprés m'avoir ravy la moitié de mon sang,
+Achevez, repandez tout celuy qui me reste ;
+Helas ! heureuse⁎ encor en ce moment funeste⁎,
+Si je pouvois au moins par une prompte mort,
+Arracher Virginie aux horreurs de son sort,
+Ou tourner sur moy-mesme en m'exposant⁎ pour elle,
+De son affreux destin l'influence cruelle⁎ ;
+Je ne puis la sauver, la suivre, ny mourir,
+Cruels⁎ aucun de vous ne veut me secourir,
+Mais que vois-je ? comment...
+
+      Non je pretens vous suivre,
+Courons, que j'aille voir la main qui nous delivre,
+Aussi bien dans ces lieux on ne me retient plus.
+Je voy fuïr à ce bruit⁎ mes Gardes éperdus ;
+Allons... mais c'en est fait, et mon ame ravie...
+
+Virginius !
+
+Clodius escorté d'une troupe cruelle⁎,
+S'en est saisi, Seigneur.
+
+Hastez-vous donc, Seigneur ;
+      Que viens-tu m'annoncer,
+Dy-moy, que fait ma fille, où l'as-tu pû laisser.
+
+Eh bien ! qu'est ce ?
+
+Ciel, qu'est-ce que j'entends ? Ah destin rigoureux !
+Quel coup⁎ ?
+ 
+Helas !
+
+
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_virginie
+
+      Ah quel comble de joye !
+Madame, enfin le Ciel souffre que je vous voye,
+Quel plaisir de pouvoir en ces heureux⁎ momens,
+Oublier mes douleurs dans vos embrassemens⁎.
+
+      J'ay tout appris Madame.
+Si l'horreur de ce coup⁎ a pû fraper mon ame,
+Revenuë à l'instant de ce trouble⁎ soudain,
+J'ay veu pour m'en parer le remede certain,
+Ne craignez point pour moy l'horreur de l'esclavage, 
+Le sang a dans mon sein transmis vostre courage⁎,
+Attentive aux leçons qu'ont tracé mes ayeux,
+Leur exemple sans cesse est present à mes yeux,
+De mes jours malheureux je finiray la course,
+Sans qu'aucune foiblesse en ternisse la source,
+Le plus cruel⁎ trépas me semblera trop doux,
+Mourant avec le nom que j'ay receu de vous.
+
+      Helas ! vous me quittez si tost,
+Madame...
+
+Est-ce trop peu de maux, dont je suis déchirée,
+Seray-je d'avec vous encore separée !
+Aprés tant de soûpirs⁎, à peine je vous voy...
+
+Camille connois-tu l'excez de ma misere,
+Quel triste sort !
+
+      Excuse ma foiblesse,
+Crois-tu qu'en ma faveur Icile s'interesse⁎ ?
+Crois-tu qu'il me conserve une fidelle ardeur,
+Mes disgraces⁎ peut-estre auront changé son cœur.
+Ah ! si le mien privé seulement de sa veuë,
+Ne resiste qu'à peine au chagrin⁎ qui me tuë,
+Dieux ! contre ma douleur où trouver du secours,
+Camille, s'il falloit le perdre pour toûjours ?
+N'importe en ce moment, quoy que le Ciel ordonne,
+A ses ordres sacrez mon ame s'abandonne,
+Je respecte les traits qui partent de sa main,
+Et je vay sans murmure attendre mon destin.
+
+      Eh le puis je, Seigneur ?
+Puis-je de mes douleurs calmer la violence,
+Je les sens augmenter mesme en vostre presence,
+Ce qui devroit causer mes plaisirs les plus doux,
+Porte à mon triste cœur les plus sensibles coups⁎ :
+Jugez dans quels malheurs le Ciel me precipite,
+Oüy je sens qu'à vous voir ma tristesse⁎ s'irrite⁎,
+Helas ! j'en connois mieux la perte que je fais,
+Car enfin je vous perds, et vous perds pour jamais.
+
+      Helas ! l'ignorez-vous ?
+C'est le funeste⁎ effort⁎ du destin qui me brave,
+Et si je sors du sang d'un malheureux esclave,
+Je voy qu'à vostre Hymen je ne dois plus penser,
+Qu'à cet espoir si doux, il me faut renoncer ;
+Oüy, Seigneur, nous cessons de vivre l'un pour l'autre,
+Mais Dieux ! que mon malheur est different du vostre,
+Vous ne perdez en moy qu'un cœur infortuné,
+Au comble des horreurs par le sort condamné,
+Et pour vous consoler de cette foible perte,
+Il est plus d'une voye à vostre amour offerte.
+Je ne vous parle point d'un Hymen plus heureux⁎,
+Car je n'ose penser qu'un cœur si genereux⁎,
+Aprés les doux transports⁎ d'une ardeur mutuelle,
+Puisse brûler jamais d'une flame nouvelle,
+Mais l'honneur immortel, qu'au milieu des combats,
+Vostre rare valeur promet à vostre bras,
+Le genereux⁎ desir de servir la patrie,
+Pourront de vostre esprit effacer Virginie,
+Ou si ces nobles soins ne peuvent l'en bannir,
+Pour en combattre au moins le triste souvenir,
+Vous pourrez opposer aprés vostre victoire,
+Aux chagrins⁎ de l'amour, les plaisirs de la gloire⁎,
+Mais moy desesperée, en l'estat où je suis,
+Je sens de toutes parts augmenter mes ennuis⁎,
+Je perds l'heureux⁎ espoir d'un illustre Hymenée,
+Et je perds avec luy le rang où je suis née,
+Enfin pour m'accabler dans ce funeste⁎ jour,
+Je voy d'intelligence, et la gloire⁎, et l'amour.
+
+      Cette foy⁎ n'est plus digne de vous.
+Le sort injurieux...
+
+Penseriez-vous à moy dans cet estat honteux.
+
+      Ah ! Seigneur, quelle erreur est la vostre,
+Lorsque vous me verrez dans un rang odieux…
+
+Ah ! Seigneur, cet aveu rend mon ame charmée⁎,
+Quel plaisir de me voir si tendrement aimée,
+Mais quand l'amour pour moy vous porte à vous trahir,
+A vos vœux⁎ indiscrets, Seigneur, dois-je obeïr ?
+Non, non, remplissons mieux nos devoirs l'un et l'autre,
+Ma generosité⁎ doit seconder la vostre,
+Et refusant un bien que j'ay tant souhaité,
+Faire connoistre au moins que je l'ay merité.
+
+Eh qu'a-t'il ce discours⁎, Seigneur, qui vous offence ?
+Croyez que ce refus marque mieux mon amour,
+Que tout ce que j'ay fait jusqu'à ce triste jour,
+Ce n'est pas qu'en effet de mon dessein troublée,
+Par ce coup⁎ genereux⁎ je ne sois accablée,
+J'en fremis par avance, et jugez par mes pleurs...    
+
+Ah ! Seigneur arrestez, où courez vous ?
+
+Mais comment ?
+
+Ah ? que me fais-tu voir, et qu'ay-je fait Camille,
+Dieux ! devois-je d'Icile accepter le secours,
+Pour mes seuls interests j'ay hazardé⁎ ses jours,
+Que n'entreprendra point sa tendresse offencée,
+De cent perils mortels sa vie est menacée,
+Helas ! que ce seroit un secours odieux,    515
+S'il brisoit ma prison en mourant à mes yeux ;
+Prevenons⁎-le, essayons de finir ma disgrace⁎,
+Nous mesme détournons le coup⁎ qui nous menace,
+Hastons-nous, empeschons mon amant⁎ de perir,
+Courons voir Appius, il peut nous secourir,
+Que ses yeux soient témoins de mes vives allarmes,
+Peut estre, sera-t'il, attendry par mes larmes ?
+Ne nous contraignons plus, le voicy.
+
+      Quoy, Seigneur,
+Ne calmerez-vous pas le trouble⁎ de mon cœur,
+Rendez-vous aux soûpirs⁎ que je vous fais entendre,
+Perdray-je tant de pleurs que vous voyez répandre,
+Et n'obtiendray-je point un utile secours,
+Qui des fers⁎ que je crains sauve mes tristes jours.
+
+Eh vous me porterez de si funestes⁎ coups⁎,
+Helas ! Seigneur…
+
+Helas ! pour me sauver, n'est-il aucune voye ?
+
+      Ah ! Seigneur, inventez le vous mesme ;
+Que je vous doive tout faites un noble effort⁎,
+Je remets en vos mains tout le soin de mon sort :
+Hastez-vous, rasseurez mon ame impatiente.
+
+Pour éviter les fers⁎ tout me sera facile :
+Pourquoy balancez-vous à me le proposer,
+En ce funeste⁎ estat puis-je rien refuser ?
+Ne me le cachez plus, si la pitié vous touche,
+Par où puis-je ?
+
+      Et quoy ?
+
+Qu'entens⁎-je juste Ciel ! et le pourray-je croire,
+Que de soupçons, Seigneur, mortels à vostre gloire⁎,
+Je vois enfin, je vois la cause de mes pleurs,
+Et je connois la main d'où partent mes malheurs,
+Clodius n'a point seul commencé ma disgrace⁎,
+C'est un bras plus puissant qui soustient son audace,
+Seigneur, vous m'entendez⁎.
+
+      Ce qu'il falloit vous-mesme,
+Me déguiser toûjours avec un soin extréme,
+Mais c'est pousser trop loin ce funeste⁎ entretien,
+Faites vostre devoir, et je feray le mien.
+
+Ah ! quand vous le sçaurez ce secours si funeste⁎,
+Vous le détesterez comme je le déteste,
+Dieux ! à quel prix cruel⁎, à quelle extremité,
+Le perfide Appius a mis ma liberté !
+Dure, dure toûjours le mal-heur qui me presse⁎,
+Si je n'en puis sortir que par cette bassesse.
+
+Me forcer malgré moy de luy donner la main,
+Il n'a pu me cacher sa tyrannique flame,
+Ses yeux et ses discours⁎ m'ont découvert son ame.
+Que vous diray je enfin, vos craintes, mon mal-heur,
+Sont les tristes effets de sa coupable ardeur.
+
+Helas ! dans quel état le tyran m'a laissée,
+Le plus sensible effort⁎ de ma douleur passée,
+Tout ce que j'ay souffert ne sçauroit égaler,
+Les maux dont son amour commence à m'accabler :
+Mais grands Dieux ! quel sera le désespoir d'Icile,
+Quand de la trahison averty par Camille,
+Il sçaura qu'Appius ne s'arme contre moy,
+Qu'afin de me contraindre à violer ma foy⁎.
+Ah pour tirer raison d'un si cruel⁎ outrage,
+Que n'entreprendront point sa haine et son courage,
+Dans quels nouveaux perils se va t'il engager,
+Sans doute⁎ en ce moment tout prest à se vanger,
+Il va...
+
+Cessez, Seigneur, cessez de nous faire trembler,
+De ce fatal projet vous seriez la victime,
+Et quand vous perdriez le tyran qui m'opprime,
+Qu'Appius périroit, croiez que son trépas,
+D'un esclavage affreux ne me sauveroit pas,
+Neuf tyrans resteroient qui pour vanger sa perte,
+Prendroient pour nous punir l'occasion offerte,
+Je verrois ces cruels⁎ armez contre vos jours,
+Se prester à l'envy de funestes⁎ secours,
+Et presenter enfin à mon ame estonnée⁎
+Vostre mort, et les fers⁎ où je suis destinée.
+
+Je n'ose condamner l'ardeur qui vous entraîne,
+Je vous aime, et je crains, mais j'ay l'ame Romaine,
+L'interest du païs doit icy prevaloir :
+Tout cede dans mon cœur à ce premier devoir,
+Je ne vous aurois pas hazardé⁎ pour moy-mesme,
+Mais je consens pour luy d'exposer⁎ ce que j'aime,
+Le genereux⁎ amour qui regne dans mon coeur :
+Ne veut point d'un Amant⁎ enchaîner la valeur,
+Je brûle comme vous de voir Rome sauvée,
+De voir vostre vertu⁎ jusqu'aux Cieux elevée,
+Joignez tous les devoirs de Heros et d'Amant⁎,
+Ils se peuvent entre eux secourir puissamment,
+Leur union vous offre une double victoire ;
+Du costé de l'amour, du costé de la gloire⁎,
+De toutes parts enfin vous serez couronné,
+Comme illustre Guerrier, comme Amant⁎ fortuné.
+Les Romains admirant⁎ cette grande victoire,
+Dresseront des Autels, Seigneur, à vostre gloire⁎,
+Et moy n'en doutez point à vostre heureux⁎ retour,
+Je prens sur moy le soin⁎ de couronner l'amour.
+
+      Mais helas ! que je suis insensée,
+Je me laisse seduire à ma douce pensée ;
+Peut-estre que le sort nous menace tous deux,
+Le plus juste party n'est pas toûjours heureux⁎ :
+N'importe, allez Seigneur, et si la destinée,
+Marque de vostre mort cette triste journée,
+Je jure que mon sang par ma main répandu,
+Dans le vostre aussi-tost se verra confondu⁎,
+Que mon bras...
+
+Quoy vous voulez vous-mesme…
+
+Je conçois la grandeur d'un si noble dessein,
+Mais helas ! que je crains qu'on ne le tente en vain,
+Je crains...
+
+      Cruel⁎ destin ! quelle perseverance ?
+Puis-je aprés un tel coup⁎ avoir quelque esperance ?
+Vous le voyez, Madame, il n'est plus de secours,
+Il est temps de finir mes déplorables jours,
+Icile est arresté, le Ciel nous est contraire,
+Il nous prive à la fois de l'Amant⁎ et du Pere ;
+C'en est fait, je me livre à mon seul desespoir.
+
+Qu'exigez-vous de moy ? pourquoy vouloir Madame,
+Faire durer les maux qui déchirent mon ame,
+La mort les eût finis : loin de vous allarmer,
+A ce juste dessein vous deviez m'animer,
+Preste à souffrir des fers⁎ l'affreuse ignominie,
+Rien ne semble à mon cœur si cruel⁎ que la vie :
+Helas ! pour me tirer du gouffre où je me voy,
+Quelles mains ! quels amis voudront s'armer pour moy.
+
+Secondez Dieux puissans ce desir legitime,
+Que si pour vous fléchir il faut une victime,
+Frapez me voilà preste, et par un prompt effort⁎,
+Epargnez-moy des maux plus cruels⁎ que la mort.
+
+      Vous m'aimez donc, Seigneur, et vostre flame
+Par d'illustres effets se declare à mon ame.
+Barbare, de quel front m'osez-vous presenter
+Une main attachée⁎ à me persecuter ?
+Je fremis à la voir cette main violente,
+Qui m'arracha des bras d'une mere tremblante,
+Qui m'a déja causé tant de malheurs divers,
+Et pour toucher mon cœur me presente des fers⁎ :
+Comment avez-vous crû qu'au mépris de ma gloire⁎
+Mon cœur lâche et cedant une indigne victoire,
+D'un si funeste⁎ Hymen voulût former les nœuds,
+Et joindre l'innocence à vos crimes affreux.
+
+      Oüy je l'aime autant que je vous hais.
+Vous me tyrannisez, il m'a toûjours servie,
+Il fait tout le bon-heur, vous l'horreur de ma vie :
+Et je voyois enfin dans cet illustre Epoux,
+Encor plus de vertus⁎ que de crimes en vous.
+
+      Favorable retour,
+Vostre courroux me plaist bien plus que vostre amour,
+Menacez, accablez l'impuissante innocence,
+Je crains moins les tourments qu'un amour qui m'offence,
+Je prefere mes maux à d'injustes bien-faits,
+Armez vostre fureur⁎, j'en brave les effets.
+
+Helas Seigneur...
+
+Il mourra donc, Seigneur, et c'est moy qui l'opprime,
+N'importe, je suivray cette chere victime,
+Et par ce grand effet d'une immortelle foy⁎,
+Je le vangeray bien si vous brulez pour moy,
+Vostre esprit libre alors de sa jalouse envie,
+Verra qu'un mesme coup⁎ aura finy ma vie,
+Et j'auray ce plaisir parmy tous mes mal-heurs,
+Que la mort d'un Rival vous coutera des pleurs.
+
+Vous avez entendu ce qu'il vient de nous dire,
+Cessons de nous flatter⁎, voicy le jour affreux,
+Où l'on va pour jamais nous separer tous deux,
+De nostre heureux⁎ Hymen l'esperance est perduë,
+Je ne puis qu'un moment jouïr de vostre veuë,
+Et vous n'ignorez pas à quel funeste⁎ prix,
+Ce dernier entretien vient de m'estre permis.
+
+      Arrestez, en ce mal-heur extreme,
+Je pretens désormais me conseiller moy mesme ;
+Je voy ce qu'il faut faire et ne balance plus
+Vos conseils et vos soins sont icy superflus,
+Je sçay par ou finir vos maux et ma misere,
+Et dés ce mesme jour...
+ 
+      De mourir,
+
+      Le sort nous force à perir l'un et l'autre,
+Mais souffrez que ma mort precede au moins la vôtre ;
+Je le veux, vostre cœur ne doit point l'envier,
+Le plus foible des deux doit mourir le premier,
+J'ay du courage⁎ assez pour m'immoler moy mesme,
+Et n'en ay point pour voir expirer ce que j'ayme.
+
+      Vous tremblez, et vous estes Romain.
+
+      Le trépas fait mes plus doux souhaits,
+Mourons, puisqu'il le faut genereux⁎ et fidelles,
+Emportons au tombeau nos ardeurs mutuelles ;
+Servons de noble exemple aux siecles à venir,
+D'une foy⁎ que la mort n'aura pû des-unir,
+Remportons du Tyran une entiere victoire,
+Mourons, et me laissant partager vostre gloire⁎,
+Faisons que l'univers deplore nostre mort,
+Et forçons le Tyran d'envier nostre sort.
+
+Cesse de te flatter⁎, en vain ta tyrannie,
+S'attache⁎ à separer Icile, et Virginie,
+En vain d'un feu si beau tu veux rompre le cours,
+L'amour plus fort que toy nous rejoindra toujours.
+
+      Adieu, Seigneur.
+
+Fuyons Camille. Ah Ciel ! est-ce vous que je voy,
+Madame, quel dessein icy vous a conduite :
+
+Madame, mon Arrest vient d'estre prononcé⁎.
+
       Le Tyran sans égard pour sa gloire⁎,
 De ses derniers sermens oubliant la memoire ;
 A suivy les conseils de son funeste⁎ amour,
@@ -1839,11 +1632,6 @@ Pour éviter les fers⁎, je ne voy que la mort,
 Il faut mourir, Madame, et que cette journée,
 Termine mes malheurs avec ma destinée.
 
--*who_plautie
-Quel funeste⁎ dessein ! n'est-il point de secours,
-Dieux tous puissans...
-
--*who_virginie
       Les Dieux nous sont cruels⁎ et sourds,
 Je n'espere plus rien, et mon ame asseurée,
 Au plus grand des tourmens est enfin preparée ;
@@ -1851,15 +1639,6 @@ Clodius me poursuit, des Gardes furieux⁎
 Viendront dans un moment m'enlever de ces lieux,
 Vous allez voir, Madame, une troupe barbare...
 
--*who_plautie
-Ah ! quel spectacle encor pour mes yeux se prepare,
-Ma fille, je verray de farouches soldats,
-Une seconde fois t'arracher de mes bras :
-Je t'entendray gemir, et ma tendresse oisive...
-Non malgré leurs efforts⁎ il faut que je te suive,
-En vain ces inhumains voudront nous separer.
-
--*who_virginie
 Madame, à cet effort il faut vous preparer,
 Je conçois par les pleurs dont vostre amour m'honore,
 Quelle vive douleur, quel chagrin⁎ vous devore,
@@ -1884,45 +1663,12 @@ J'ay souffert plus long-temps, je n'en mouray pas moins,
 Et ce qui dans mon sort m'afflige d'avantage,
 Je mourois libre alors, je meurs dans l'esclavage.
 
--*who_plautie
-Ne me reproche point ce funeste⁎ secours,
-Que n'aurois-je point fait pour conserver tes jours,
-Je me flattois⁎... Mais Ciel ! nostre ennemy s'avance.
-
--*who_virginie
 Madame, au nom des Dieux évitez sa presence,
 Laissez-moy seule, allez, ne vous exposez⁎ pas,
 Aux affronts d'un Perfide, aux transports⁎ des soldats,
 Il ne reste plus rien pour combler ma misere,
 Que de voir leur fureur⁎ outrager une mere.
 
--*who_plautie
-Moy, que je t'abandonne en cette extremité ?
-Que j'aille loin de toy chercher ma seureté,
-Ah ! plûtost le trépas...
-
-**** *book_ *id_acte503 *act_acte5 *date_1683 *creator_campistron
-
--*who_plautie
-      Tu viens icy perfide,
-Quel dessein criminel te conduit et te guide,
-Monstre inhumain, viens-tu me déchirant le flanc,
-M'accabler, me ravir le plus pur de mon sang ;
-Ta barbare fureur⁎ jusqu'en ces lieux me brave,
-Veux-tu ?
-
--*who_clodius
-      Je viens icy pour prendre mon esclave,
-Cette fille est à moy, je suis son maistre enfin,
-Appius à mes loix a soûmis son destin,
-Gardes qu'on la conduise.
-
--*who_plautie
-      Ah ! quelle tyrannie,
-Leurs criminelles mains vont saisir Virginie,
-Osez-vous...
-
--*who_virginie
       Arrestez, ne portez point vos mains,
 Sur le sang glorieux des plus fameux Romains.
 N'aprochez point de moy, je vous suivray sans peine
@@ -1941,132 +1687,31 @@ Et faira confesser à la plus noire envie⁎,
 Que d'illustres Ayeux m'avoient donné la vie,
 Adieu.
 
--*who_plautie
-      Je cours...
 
--*who_pison
-      Souffrez...
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_camille
 
-**** *book_ *id_acte504 *act_acte5 *date_1683 *creator_campistron
+      Je crains bien moins que je n'espere,
+Les premiers des Romains se declarent pour vous,
+Contre vostre ennemy le Peuple est en courroux,
+Vostre Pere est aimé dans Rome, et dans l'armée,
+Le jeune Icile enfin, dont vous estes charmée⁎,
+Et qui doit par l'hymen s'unir à vostre sort,
+Ne fera pas pour vous un inutile effort⁎,
+Sans doute⁎ en ce moment...
 
--*who_plautie
-      Quoy l'on m'ose arrester,
-Inhumains, c'en est trop, je ne la puis quitter,
-Souffrez que dans les fers⁎ je suive Virginie,
-Sans ma fille je hais, et mon rang, et ma vie :
-Par rage ou par pitié percez mon triste flanc,
-Aprés m'avoir ravy la moitié de mon sang,
-Achevez, repandez tout celuy qui me reste ;
-Helas ! heureuse⁎ encor en ce moment funeste⁎,
-Si je pouvois au moins par une prompte mort,
-Arracher Virginie aux horreurs de son sort,
-Ou tourner sur moy-mesme en m'exposant⁎ pour elle,
-De son affreux destin l'influence cruelle⁎ ;
-Je ne puis la sauver, la suivre, ny mourir,
-Cruels⁎ aucun de vous ne veut me secourir,
-Mais que vois-je ? comment...
+      Il court vous secourir,
+Les Dieux se sont lassez de vous voir tant souffrir.
+Madame, esperez tout du courage d'Icile.
 
-**** *book_ *id_acte505 *act_acte5 *date_1683 *creator_campistron
-
--*who_severe
-      Tout a changé de face,
-Madame, vous verrez finir vostre disgrace⁎,
-Reprenez de l'espoir déja les Dieux plus doux,
-M'ont accordé le bien d'arriver jusqu'à vous,
-Icile est libre enfin, sa prison est forcée,
-J'ay veu par ses amis sa garde dispercée,
-Et sans perdre de temps les armes à la main,
-Vers l'injuste Appius il s'est fait un chemin ;
-Ils sont aux mains, Madame, et le Ciel équitable,
-Fera perir sans doute⁎ un tyran detestable ;
-De vostre esprit troublé⁎ dissipez la terreur,
-Tout semble vous promettre un tranquille bonheur,
-Appius prevenu⁎ d'une aveugle furie⁎,
-Par ses meilleurs soldats fait garder Virginie,
-Et resté presque seul, abandonné, troublé⁎ ;
-Sous les efforts⁎ d'Icile il doit estre accablé,
-Contre tant d'ennemis il ne peut se deffendre,
-Icile m'a pressé de courir vous l'apprendre,
-Et de vous avertir, Madame, qu'en ces lieux,
-Vous le verrez bien-tost venir victorieux,
-Je cours le retrouver.
-
--*who_plautie
-      Non je pretens vous suivre,
-Courons, que j'aille voir la main qui nous delivre,
-Aussi bien dans ces lieux on ne me retient plus.
-Je voy fuïr à ce bruit⁎ mes Gardes éperdus ;
-Allons... mais c'en est fait, et mon ame ravie...
-
-**** *book_ *id_acte506 *act_acte5 *date_1683 *creator_campistron
-
--*who_icile
-Ouy, c'en est fait, Madame, Appius est sans vie,
-Je viens de le punir, enfin tout est sauvé,
-Et déja vostre Epoux dans Rome est arrivé.
-
--*who_plautie
-Virginius !
-
--*who_icile
-      Madame on vient de me l'apprendre,
-Le bruit⁎ de son retour partout s'est fait entendre⁎,
-Mais que fait Virginie ? on ne m'en a rien dit,
-Elle seule sans cesse occupe mon esprit.
-
--*who_plautie
-Clodius escorté d'une troupe cruelle⁎,
-S'en est saisi, Seigneur.
-
--*who_icile
-      Ah courons aprés elle !
-Courons la délivrer, et qu'aux yeux des Romains,
-Le traistre Clodius soit puny par mes mains,
-Que je puisse gouster le plaisir et la gloire⁎,
-Que prepare à mon cœur une pleine victoire.
-
-**** *book_ *id_acte507 *act_acte5 *date_1683 *creator_campistron
-
--*who_plautie
-Hastez-vous donc, Seigneur ;
-      Que viens-tu m'annoncer,
-Dy-moy, que fait ma fille, où l'as-tu pû laisser.
-
--*who_camille
 Vostre fille ?
-
--*who_icile
-      Aprenez-nous, où faut-il que je vole,
-Où sont nos ennemis, que mon bras les immole,
-Que Virginie enfin ne les redoute plus,
-Que j'aille...
-
--*who_camille 
+ 
       Moderez des transports⁎ superflus,
 Il n'est plus temps.
 
--*who_icile
-      Comment ?
-
--*who_camille
       L'aimable Virginie.
 
--*who_plautie
-Eh bien ! qu'est ce ?
-
--*who_camille
       A mes yeux vient de perdre la vie.
 
--*who_plautie
-Ciel, qu'est-ce que j'entends ? Ah destin rigoureux !
-Quel coup⁎ ?
-
--*who_icile
-      De tous mes maux voicy le comble affreux,
-Que puis-je craindre aprés ce que je viens d'apprendre,
-Grands Dieux ?
-
--*who_camille
       Virginius venoit pour la deffendre,
 Au moment qu'il l'a veuë au milieu des soldats ;
 Ce spectacle cruel⁎ a retenu ses pas :
@@ -2119,10 +1764,6 @@ S'élance sur le fer, et d'une main hardie,
 Prend celle de son pere, et poussant le coûteau,
 S'en frape, tombe, et s'ouvre un chemin au tombeau.
 
--*who_plautie 
-Helas !
-
--*who_camille
       Virginius aprés ce sacrifice,
 De ce sang precieux demande la justice ;
 Il prend entre ses bras ce corps ensanglanté,
@@ -2136,30 +1777,63 @@ Les funestes⁎ horreurs que vous venez d'entendre⁎,
 Heureuse⁎ si ma mort avoit pû devancer,
 La douleur que je souffre à vous les annoncer.
 
--*who_icile
-Ainsi pour mon amour Virginie est perduë,
-Voilà cette union que j'avois attenduë,
-Mourons, mais d'une mort qui soit utile à tous,
-Portons sur nos Tyrans ma rage avec mes coups⁎,
-Allons, Madame, allons, et courons l'un et l'autre,
-Faire parler par tout ma douleur et la vostre,
-Allons, que mille morts marquent ce triste jour,
-Puisque Rome l'exige aussi bien que l'amour.
 
-**** *book_ *id_privilege *date_1683 *creator_campistron
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *date_1683 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_severe
 
-EXTRAIT DU PRIVILEGE Du Roy.
+Oui, vous pouvez, Seigneur, aussi bien que Plautie,
+Entrer dans ce Palais, parler à Virginie,
+Vous ne vous plaindrez plus de l'injuste pouvoir,
+Qui vous a jusqu'icy défendu de la voir,
+Dans cet apartement où l'on va la conduire,
+De tous vos sentimens elle pourra s'instruire ;
+Mais pourquoy la revoir ? mon esprit incertain,
+Ne comprend pas encor quel est vostre dessein,
+Je ne sçay que juger de vostre impatience,
+Quel interest vous porte à chercher sa presence,
+Seigneur, est-ce un effet de la seule pitié,
+Ou le simple devoir d'un reste d'amitié⁎ ?
+Car je ne pense pas dans sa misere extréme,
+Averty de son sort par Plautie elle-mesme,
+Quand le Ciel l'abandonne au plus cruel⁎ malheur,
+Que vous sentiez pour elle une honteuse ardeur.
+Non, je ne croiray point qu'un aussi grand courage⁎,
+Puisse avilir ses vœux⁎ jusques dans l'esclavage,
+Qu'Icile jusques-là pût jamais s'abaisser.
 
-Par grace et Privilege du Roy, donné à Paris le 29.
-Mars 1683.
-Signé, Par le Roy en son Conseil, Du Gone : et Scellé.
-Il est permis à Estienne Lucas, Marchand Libraire à Paris, de faire imprimer une Tragedie, intitulée Virginie, composée par le Sieur ⁎ ⁎ ⁎ : Et deffenses sont faites à toutes sortes de personnes de l'imprimer, vendre ny debiter pendant le temps de six années, à commencer du jour qu'elle sera achevée d'imprimer, à peine d'amende arbitraire, et autres peines portées par ledit Privilege.
+Dieux ! qu'est-ce que j'entens⁎ ? vostre discours⁎ m'estonne⁎,
+A quel fatal⁎ projet l'amour vous abandonne,
+Une fille sans nom, et qu'on va condamner...
 
-Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 8me.
-Avril 1683 suivant l'Arrest du Parlement du 8.
-Avril 1653. et celuy du Conseil Privé du Roy du 27.
-Février 1665.
+Vous suivez trop, Seigneur, une aveugle tendresse.
 
-Signé, Cangot, Syndic.
+      N'attendez plus un secours inutile,
+Madame, c'en est fait, on nous enleve Icile ;
+Un traistre qu'il croyait ferme en ses interests,
+Vient d'instruire Appius de ses desseins secrets,
+Dans le moment qu'Icile alloit tout entreprendre ;
+On l'a mis hors d'estat de vous pouvoir deffendre,
+De sa juste colere on previent les effets,
+On le vient d'arrester en sortant du Palais.
 
-Achevé d'imprimer la premiere fois le dernier Avril 1683.
+      Tout a changé de face,
+Madame, vous verrez finir vostre disgrace⁎,
+Reprenez de l'espoir déja les Dieux plus doux,
+M'ont accordé le bien d'arriver jusqu'à vous,
+Icile est libre enfin, sa prison est forcée,
+J'ay veu par ses amis sa garde dispercée,
+Et sans perdre de temps les armes à la main,
+Vers l'injuste Appius il s'est fait un chemin ;
+Ils sont aux mains, Madame, et le Ciel équitable,
+Fera perir sans doute⁎ un tyran detestable ;
+De vostre esprit troublé⁎ dissipez la terreur,
+Tout semble vous promettre un tranquille bonheur,
+Appius prevenu⁎ d'une aveugle furie⁎,
+Par ses meilleurs soldats fait garder Virginie,
+Et resté presque seul, abandonné, troublé⁎ ;
+Sous les efforts⁎ d'Icile il doit estre accablé,
+Contre tant d'ennemis il ne peut se deffendre,
+Icile m'a pressé de courir vous l'apprendre,
+Et de vous avertir, Madame, qu'en ces lieux,
+Vous le verrez bien-tost venir victorieux,
+Je cours le retrouver.
+

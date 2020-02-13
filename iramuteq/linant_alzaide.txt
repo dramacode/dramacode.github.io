@@ -1,18 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1745
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzaide
 
--*who_pheres
-De mortels ennuis si vous n'étiez en proie,
-J'oserais devant vous faire éclater ma joie,
-Je vous revois, Madame, à Memphis, en ces lieux,
-Berceau de vos vertus, rrône de vos aïeux ;
-Où tout vous obéit, vous aime, et vous rappelle,
-Où Pherès tant de fois vous a prouvé son zèle,
-Moins ébloui d'un rang que je ne dois qu'à vous,
-Qu'attendri de vos maux que je ressentais tous.
-
--*who_alzaide
 Ah ! Pherés, à Memphis en ce jour arrivée,
 J'ignore à quels malheurs le Ciel m'a réservée,
 Dans l'ombre du secret lasse de soupirer ,
@@ -26,69 +15,11 @@ Cet effort de vertu plus grand que la victoire.
 Eh ! Serons-nous toujours et mon époux et moi
 Les seuls infortunés qui vivent sous sa loi ?
 
--*who_pheres
-Vous ne le ferez plus ? Non, croyez que mon maître,
-Juge de votre époux, s'est vu forcé de l'être,
-Qu'il gémit de ses fers : qu'il se plaint d'un bonheur
-Qui l'a toujours contraint de percer votre coeur,
-De partager sans fruit votre douleur extrême,
-Et vous n'éprouvez rien qu'il n'ait senti lui-même;
-Enfin quand accablé du plus triste revers,
-Zaraès fut dompté, qu'il tomba dans nos fers,
-Que pour venger leurs maux nos peuples l'outragèrent,
-Que ses amis, ses Dieux vaincus l'abandonnèrent,
-Du coeur d'Aménophis le premier mouvement
-Fut d'oublier les droits et son ressentiment,
-Mais le bien de l'État qui régle sa puissance,
-Fit parler son Conseil, et taire sa clémence :
-Et tel est le devoir et le sort des grands Rois,
-Que même leurs vertus sont esclaves des lois.
-
--*who_alzaide
 Les loix n'ordonnent point l'abus de la victoire,
 Zaraès fut ici victime de la gloire ;
 Après son infortune a-t-on dû l'enchaîner ?
 Et vaincre, donne-t-il le droit de condamner !
 
--*who_pheres
-Songez qu'Onès son père usurpa l'Arabie,
-Au trône de Memphis de tout temps asservie,
-Sujet d'un souverain soumis à notre loi,
-Il s'arme pour régner, triomphe, se fait Roi,
-Meurt, et laisse à son fils cette vaste contrée,
-Sous Busiris bientôt l'Egypte déchirée
-Aux voeux de votre époux prête de la céder,
-Exigea le tribut qu'il devait accorder.
-Impatient d'un joug dont il fallait dépendre ;
-Il attaqua nos Rois qu'il aurait dû défendre ;
-Combien de fois lui-même, où par les mains d'Iphis,
-Envahit-il l'Egypte, assiégea-t-il Memphis,
-Où caché sous le nom de ce chef si fidèle,
-En la trompant toujours, sut-il triompher d'elle ?
-Nos murs étaient détruits, et nos champs ravagés,
-Quels coups il nous porta ? Le Roi nous a vengés ;
-Il vainquit ce héros, ses destins l'accablèrent ;
-Sans le connaître alors, nos Guerriers l'enchaînèrent ;
-Avec ce même Iphis dans nos fers retenu,
-Parmi d'autres captifs, il vécut inconnu ;
-Aménophis apprend qu'il est en sa puissance,
-Touché de son malheur, il cherche sa présence,
-Et de le consoler s'impose le devoir ;
-Zaraès qui le sait dédaigne de le voir ;
-Son Prince, que vers lui la pitié seule entraîne,
-N'imputant qu'à ses maux l'éclat de tant de haine,
-Retient des mouvements qu'excite son grand coeur,
-Et ne l'offenfe point par l'aspect du vainqueur :
-Mais il fait plus, Madame, un peuple téméraire
-Toujours prêt à punir l'auteur de sa misére,
-Pour perdre Zaraès se rassemblait toujours,
-De son captif cent fois le Roi sauva les jours,
-Et trop sûr qu'à ses dons votre époux insensible,
-Par haine à ses regards était inaccessible,
-Ce Monarque envers tous, clément comme les Dieux
-Lui devint invisible, se bienfaisant comme eux.
-
--*who_alzaide
 Zaraès occupé des maux qui l'environnent,
 Voudrait cacher des jours que les Dieux abandonnent ;
 Mais je vois tous les coeurs contre lui prévenus ;
@@ -102,26 +33,8 @@ Non : ce Prince à mes pleurs ne sera point sensible :
 Son coeur jusqu'à ce jour n'a-t-il pas résisté
 Aux conseils de la gloire, aux cris de l'équité ?
 
--*who_pheres
-Madame, oubliez-vous le pouvoir de vos charmes,
-Rendus même aujourd'hui plus touchants par vos larmes ?
-Connaissez-le du moins : Eh ! Qui de ce vainqueur
-Saurait donc mieux que vous désarmer la rigueur ?
-
--*who_alzaide
 Moi, Phérès !
 
--*who_pheres
-      Croiriez-vous qu'à ses grandeurs liée,
-Son âme vous dédaigne, ou vous ait oubliée ?
-Ah ! Pour vous rassurer, rapellez-vous ces jours
-Dont l'horreur a des siens empoisonné le cours :
-Ces jours, où par un père à ses voeux arrachée,
-À des noeuds inconnu vous fûtes attachée ?
-Vous vous retracerez un cruel désespoir,
-Que n'ont point ralenti l'absence et le devoir.
-
--*who_alzaide
 Auprès de lui, Phérès, ce moment vous rappelle,
 Et vous pouvez pour nous signaler votre zèle,
 Aux regards de Memphis j'ai caché mon retour,
@@ -130,58 +43,24 @@ Informez-en ce Prince, et revenez m'apprendre,
 À quel sort Alzaïde aujourd'hui doit s'attendre.
 Allez.
 
--*who_pheres
-      Espérez tout, Madame : ce héros,
-De sa gloire jaloux, vous rendra le repos.
-
-**** *book_ *id_I02 *act_I *date_1745
-
--*who_alzaide
 Il m'aime encor !... Ô Dieux ! Que deviendrai-je ?... Ezire,
 Va rappeller Phérès.
 
--*who_ezire
-      Madame, que lui dire ?...
-
--*who_alzaide
 Nous-mêmes d'un vainqueur désarmons le pouvoir.
 De qui ?... D'Aménophis ?... Eh ! Dois-je encor le voir ?
 
--*who_ezire
-Vous le verrez ici gémissant de sa gloire ;
-Demander à vos pieds pardon de sa victoire.
-
--*who_alzaide
 Ah ! De tous les malheurs qui pourraient m'accabler,
 Celui que je veux fuir, et qui me fait trembler,
 Celui dont tu me vois interdite, éperdue,
 C'est... le dirai-je ? Hélas !... de m'offrir à sa vue.
 
--*who_ezire
-Quoi ! Ce jeune Héros que vous-même admirez,
-Est donc haï de vous ?
-
--*who_alzaide
       Ô Ciel !
 
--*who_ezire
-      Vous le fuirez ?
-
--*who_alzaide
 Je fuis qui peut m'aimer, et je crains qui m'accable ;
 Ne vante plus un Roi qui m'est trop redoutable ;
 De sa gloire à mes yeux dérobe tous les traits,
 Cher Ezire, ou plutôt ne m'en parle jamais.
 
--*who_ezire
-Ciel, que puis-je penser ? Quels mouvements Madame,
-Opposés, et subits ont partagé votre âme ?
-Est-ce l'amour du Roi qui la trouble aujourd'hui ?
-Que dis-je ? Cet amour vous promet un appui
-Pour les jours d'un époux vous n'avez rien à craindre.
-Son vainqueur les protège, et lui seul est à plaindre.
-
--*who_alzaide
 Eh ! Bien, cruelle ; eh ! Bien , il faut te révéler
 Un secret que toujours je devrais te céler :
 Je t'en parle à regret : je me fais violence :
@@ -189,10 +68,6 @@ Mais c'est pour t'impofer un éternel silence.
 Ce jeune souverain que je viens implorer,
 Contre qui le devoir aurait dû m'inspirer...
 
--*who_ezire
-Achevez... quoi, Madame ?
-
--*who_alzaide
       Ô Dieux ! Qu'allais-je dire ?
 Qui moi, je l'aimeraïs !... Non, je le hais, Ezire,
 Je le dois, je le veux. Auteur de tous mes maux,
@@ -204,15 +79,6 @@ Oui, je sens contre lui mon couroux s'enflammer ;
 Je sens naître en mon coeur une haine funeste...
 Mais je me trompe, hélas ! C'eft moi que je déteste.
 
--*who_ezire
-Je conçois vos tourments. Que je plains tant d'amour !
-Lorsqu'on vous fît sans moi partir de ce séjour,
-Dans le cours de vos maux je vous avais perdue ;
-Plus malheureuse encor, vous m'êtes donc rendue.
-Maïs quoi ! Sans les savoir je ressens vos douleurs.
-Daignez me confier le secret de vos pleurs.
-
--*who_alzaide
 Busiris excita mes premières alarmes ;
 Il ouvrit pour jamais la source de mes larmes ;
 Ce monstre couronné, qu'animait la fureur,
@@ -270,17 +136,6 @@ A porté dans mon âme une ardeur qui redouble,
 Chère Ezire, et je sens livrée à mon devoir,
 Tous les maux d'un amour coupable, et sans espoir.
 
--*who_ezire
-De quels malheurs, ô Ciel ! Venez-vous de m'intruire ?
-Je vous plains moins encor que je ne vous admire.
-Ne craignez plus l'éclat d'un feu si combattu :
-Votre âme est ébranlée, et non votre vertu.
-L'ardeur d'Aménophis éteinte par l'absence ,
-Désormais sur vos sens n'aura plus de puissance.
-Parlez pour Zaraès, et ne redoutez rien ;
-Son danger est pressant.
-
--*who_alzaide
       Il l'est moins que le mien,
 J'entends autour de lui gronder une tempête :
 Mais le coup est encor suspendu sur sa tête ;
@@ -300,56 +155,15 @@ Mais quoique le devoir soit vainqueur à son tour,
 Il est trop dangereux de combattre l'Amour,
 Fuyons..
 
-**** *book_ *id_I03 *act_I *date_1745
-
--*who_alzaide
       Que veut Phérès ?
 
--*who_pheres
-      Madame, vous apprendre,
-Que contre votre époux mon maître vient d'entendre,
-Des avis importants en ce moment reçus,
-Qui fondent les soupçons qu'on en avait conçus.
-On veut que l'Arabie à Zaraès fidèle
-Soit au joug de Memphis plus que jamais rebelle.
-Qu'agitée en secret par de puissants ressorts,
-Elle ait pour le venger, fait de nouveaux efforts.
-Ménos revient instruit de ses longnes intrigues,
-Dit que jusqu'en Syrie on a formé des brigues :
-Que Zaraès toujours présent dans ces climats,
-Du fond de sa prison ébranle tant d'États.
-
--*who_alzaide
 Dieux ! Que m'apprenez-vous ? Quelle frayeur me glace ?
 Quel revers imprévu s'apprête et nous menace !
 C'est maintenant, Phérès, que j'ai besoin de vous :
 Voyez votre monarque, et suspendez ses coups.
 
--*who_pheres
-Il faut le voir, Madame, et lui parler vous-même.
-Zaraès soupçonné, ton péril est extrême :
-Il a contre lui seul, la Cour, Memphis, les lois ;
-Contre tant d'ennemis , il n'a que votre voix ;
-Et si votre douleur ne se fait point entendre,
-À le voir succomber, il faudra vous attendre ;
-Un moment peut le perdre, un mot peut le sauver :
-Surtout craignez Ménos ardent à l'observer :
-Il le hait, il l'accuse, il le peint à son maître,
-Plus libre dans ses fers qu'un captif ne doit l'être ;
-Et le peuple demande en sa crainte agité
-Qu'il ne jouisse plus de tant de liberté.
-Je n'ai pu près du Roi vous témoigner mon zèle ;
-Attentif aux complots de l'Arabe infidèle ;
-Il ne sait pas encor qu'arrivée en ce jour,
-Pour chercher son appui vous êtes dans sa cour ;
-Mais j'apprendrai bientôt l'instant où à sa présence...
-
--*who_alzaide
 Je vous fuis.
 
-**** *book_ *id_I04 *act_I *date_1745
-
--*who_alzaide
       Est-il temps qu'Alzaïde balance ?
 Non ! Je verrai le Roi ; j'irai pour mon époux ,
 En évitant ses yeux, tomber à ses genoux.
@@ -360,9 +174,336 @@ Ciel, sans me séconder, peux-tu voir mes combats ?
 Pour quelqu'autre forfait serais-je ta victime ?
 Je sens que mon supplice est plus grand que mon crime.
 
-**** *book_ *id_II01 *act_II *date_1745
+      Mes yeux se remplissent de larmes :
+Je revois en tremblant l'auteur de mes alarmes.
+Guide mes pas, Ezire, et viens les soutenir.
 
--*who_amenophis
+      Incertaine, tremblante,
+Je viens vous faire entendre une voix suppliante,
+Pour finir des tourments que vous-même causez
+Que je dois oublier si vous les finissez.
+Hélas ! C'est leur excès qui près de vous m'amène ;
+Mon époux est captif ; puis-je rompre sa chaîne ?
+Terminez à la fois ses maux et mes douleurs,
+Seigneur, par vos vertus surpassez nos malheurs ;
+Qu'on ne vous plaigne plus autant qu'on vous admire ;
+Et qu'enfin l'univers, en ce jour, puisse dire,
+Que jamais Zaraès ne fut si malheureux
+Que vous, en pardonnant, vous fûtes généreux.
+
+Seigneur, ah ! Quel arrêt votre bouche prononce !
+La surprise et l'horreur du coup qu'elle m'annonce,
+Le font déjà sentir à mes sens désolés :
+Vous ne pardonnez point ? Est-ce vous qui parlez ?
+Je sens autant de peine à vous croire implacable.
+Qu'a croire Zaraès envers vous si coupable.
+Quels crimes dans ses fers peut-il avoir commis ?
+
+Que dites-vous, ô Ciel ! Sa mort est résolue ;
+Pour la voir, en ces lieux j'étais donc attendue ?
+Mais peut-il se venger, lorsque vous l'opprimez !
+Pour sa querelle ici quels Soldats sont armés ?
+Il menace Memphis, et Memphis l'environne ;
+Il arme des États, lui que tout abandonne :
+Qui n'a pour tout secours qu'une épouse et ses pleurs ,
+Secours qui n'est pour lui qu'un surcroît de malheurs !
+Il sait que son destin m'abaisse à la prière,
+Sa grâce est à ce prix l'excès de sa misère :
+Et vous la refufez, vous Roi si généreux,
+Vous de qui j'espérais même autant que des Dieux.
+
+Elle est cruelle, injuste ....
+
+Dieux !
+
+Ainsi d'Aménophis je n'espère plus rien.
+Et voilà mon arrêt.
+
+Quand je sens tout le poids de votre inimitié,
+Vous me montrez encor une fausse pitié.
+Peut-on être attendri, lorsqu'on est inflexible ?
+S'il est vrai qu'à mes pleurs vous soyez si sensible,
+Que ne terminez-vous tant de maux à la fois ?
+Et pourquoi dans un seul en punissez-vous trois ?
+
+Il sent tous les remords, s'il peut être coupable :
+Mais s'il l'est en effet, et s'il veut se venger,
+Je connais sa grande âme, et je puis la changer.
+
+Il ressent les bienfaits et la vertu le touche.
+Au nom d'Aménophis je veux le désarmer,
+Je veux même qu'un jour il s'engage à l'aimer.
+Il chérira dans vous l'équité, la clémence :
+Il verra comme il faut oublier sa vengeance.
+S'il connaît vos vertus, voudra-t-il vous trahir ?
+Et s'il vous voit, Seigneur, pourra-til vous haïr ?
+
+      Pour vous toucher que puis-ie encor vous dire ?
+Aujourd'hui par votre ordre, à mes yeux il expire,
+Vous l'avez réfolu : que vais-je devenir ?
+Songez-vous que c'est moi que vous allez punir ?
+Qu'un affreux désespoir est tout ce qui me reste :
+Faut-il que ce soit vous qui me soyez funeste ?
+Que par vous aujourd'hui je rejoigne un époux :
+Oui nous serons tous deux réunis par vos coups ;
+Dans une heure il expire, et je virais encore,
+Ce n'est plus son pardon : c'est le mien que j'implore.
+Vous détournez les yeux.
+
+Que vous reprochez-vous ?
+
+      Oui, Seigneur, il vous sera soumis.
+Vous permettez qu'il vive, et que je le revoie :
+C'est par vous que mon âme éprouve tant de joie.
+
+Quels transports je ressens ! Pourrai-je les contraindre ?
+
+      Ne m'abandonnez pas.
+
+Ô Ciel ! Lance sur moi les traits de ton courroux :
+Seconde Aménophis, et sauve mon époux.
+
+C'en est donc fait, ô Ciel à et Zaraès expire.
+Tu me suis, à tes soins je me dérobe, Ezire :
+J'entends autour de moi mille effroyables cris ;
+Qu'il meure, disaient-ils, périssons à ce prix.
+Je vole à son secours, à sa vie on attente :
+Je tombe entre leurs bras éperdue, expirante,
+Et je n'ouvre les yeux que pour voir mon malheur :
+Leur crime était commis, ils bravaient ma douleur.
+Le Roi n'a pu calmer cette horrible vengeance.
+
+Je veux quitter ces lieux objets de mon effroi.
+Chaque inftant que j'y reste eft un crime pour moi.
+Sans attendre des Dieux la haine ou la justice,
+J'expierai mon amour par le plus grand supplice,
+L'absence qui jamais ne saura me guérir,
+Me punira du moins, si je n'en puis mourir.
+Cours préparer ma fuite.
+
+      Ô Toi qui par ta flamme,
+Viens d'augmenter encor le trouble de mon Äme ,
+Auteur de tous mes maux tu vas les ressentir ,
+Et malgré ton ardeur tu me verras partir.
+Ma fuite l'éteindra : mon aspect la ranime,
+Elle fait mon tourment : l'exciter est un crime,
+M'en parler une injure, et l'entendre un danger.
+Mânes de Zaraès, je saurai vous venger :
+De tout ce que je puis envers toi je m'acquite.
+Tu meurs : le Roi te plaint : il m'aime, et je l'évite:
+Mais on vient...
+
+Ô Ciel !... C'est Zaraès... C'est lui... C'est mon époux.
+
+      Je vous revois ; ô Dieu !
+
+Vous vivez. Ah ! Seigneur, par quel heureux secours,
+Respirez-vous encor ? À qui dois-je vos jours ?
+
+Eh ! Pourquoi donc Seigneur, voulez-vous qu'on l'ignore ?
+
+Que dites-vous; Seigneur ?
+
+De quels coups à la fois, mon âme est-elle atteinte :
+Considérez, Seigneur, les objets de ma crainte
+Avez-vous bien prévu les maux dont je frémis ?
+Eh ! Quel est votre espoir contre tant d'ennemis.
+
+Vous vous vengez, de qui... Vous, Seigneur ! Ah ! Qu'entends-je ?
+Quel dessein ! On l'ignore... En vain vous l'espérez.
+Tous vos projets ici ne sont pas ignorés :
+Une lettre surprise, et par Arbas écrite,
+Fit connaître les coups que Zaraès médite.
+
+Quoi ! La lettre, Seigneur...
+
+Je vois ainsi que vous leur perte inévitable :
+Mais songez que le Roi qui vous a cru coupable ;
+A toujours, quelqu'il fût, adouci votre sort :
+Et que dans ce jour même où vous jurez sa mort,
+Ami de ses sujets qu'opprimait votre haine,
+Il défendait vos jours, et brisait votre chaîne.
+
+Seigneur puisqu'avec vous ici d'intelligence
+Je dois aux yeux de tous servir votre vengeance
+Que surtout par les noeuds qui m'attachent à vous,
+Je partage la honte ou l'honneur de vos coups :
+Voyons de nos projets le crime, ou la justice :
+Que je sois votre épouse, et non votre complice.
+L'Univers nous contemple ; avant de nous venger,
+C'est lui, Seigneur, c'est lui qu'il faut interroger.
+Oui, consultons sa voix lorsque tout nous l'ordonne.
+Son estime est toujours pour celui qui pardonne :
+Pour l'autre désormais ne s'interessant plus,
+Quand ses maux sont finis, il lui veut des vertus ;
+Et contre un bienfaiteur que la vengeance opprime,
+La gloire est un opprobre, et le triomphe un crime.
+Qu'attendez-vous du Prince ? Il vous fera régner.
+Prévenu par ses dons, pourquoi les dédaigner ?
+Subjuguez votre coeur quand le sien se surmonte.
+Sans orgueil il les offre : acceptez-les sans honte.
+
+Quoi, Seigneur ?
+
+      Oui, cette destinée
+Qui vous flatte aujourd'hui...
+
+Quel trouble me saisit... je frissonne d'horreur.
+Ô jour infortuné !... Trop injuste fureur !
+J'immolerais qui... Dieux !... Ah ! Ma flamme infidèle
+Devient à mes efforts plus que jamais rebelle :
+Je lui resiste en vain. Tous mes sens sont émus.
+Je succombe à mes maux... Je ne me connais plus.
+
+Que fais-je ? Mon devoir m'ordonne son trépas...
+Mon cher Aménophis... Non, tu ne mourras pas.
+
+      Avec toi j'eusse été trop heureuse :
+Tu périrais !
+
+Dieux ! Que vois-je ?...
+
+      Dans le trouble où je suis,
+Le repentir, la suite, est tout ce que je puis.
+
+Par générosité vous m'offrez des États,
+Que sans vous pressentir, je n'accepterai pas.
+Seigneur, de votre main, dois-je ici les reprendre ?
+À mon époux vivant eût-elle su les rendre ?
+Ah ! Parlez.
+
+      Avec tant de vertus,
+Ainsi de ce héros vous oubliez la haine :
+Et même dans ce jour votre bouche avec peine
+Ordonna son trépas.
+
+Vous sûtes l'épargner.
+
+Détrompez-vous, Seigneur. Oui, ma reconnaissance
+Eût osé tout tenter pour calmer sa vengeance.
+Que ne le puis-je encor si dans l'instant les Dieux,
+Devant vous-même ici le rendaient à mes voeux !
+Je lui dirais qu'il doit chérir votre clémence,
+Que son amitié seule est votre récompense,
+Qu'en vain il s'est rangé parmi vos ennemis,
+Qu'il ne le sera plus, que mon coeur l'a promis :
+Que j'enchaînai son bras par un serment terrible
+Qu'on ne croirait sans foi, s'il était inflexible ;
+Et qu'enfin respectant de si sacrés liens
+Il m'accorda vos jours quand je vous dois les siens.
+Après tant de motifs, Prince, pourriez-vous croire
+Que Zaraès sans cesse animé par la gloire,
+Aux trop justes douleurs de mon coeur éperdu,
+Touché de vos bienfaits, ne se fût pas rendu.
+Sortez, Seigneur, sortez d'un doute si funeste :
+Il eût tout oublié : que votre voix l'arrête,
+Iphis, vous le savez, pourriez-vous hésiter ?
+
+      Ma douleur est extrême.
+Oui, croyez que ma haine a tout fait contre vous,
+Punissez-moi, Seigneur, respectez mon époux ;
+N'accablez point Iphis, trop malheureux peut-être...
+Ciel ! Iphis...
+
+Par vous dans mes États je veux être guidée.
+Mais suivez-moi.
+
+      Tout sert à me confondre.
+Prince, chaque moment ajoute à mon malheur ;
+Mais je dois en cachant ma honte et ma douleur,
+Et sans oser gémir d'un destin si contraire,
+Condamner votre amour, suivre Iphis, et me taire.
+
+On me garde en ces lieux. Quel triste évenement,
+D'Ezire que j'attends, retient l'empressement !
+Auprès de Zaraés n'a-t-elle pu se rendre ?
+Daignera-t-il encor me parler et m'entendre ?
+Je lui pardonne ; ô Ciel ! D'avoir pu m'accuser
+Du crime auquel mon bras osa se refuser.
+L'aspect d'Aménophis avait troublé mon âme
+Il connaît donc mon coeur, et Zaraés fa flamme.
+Qui sait, si lui vantant ce héros qu'il poursuit,
+De la mienne en ce jour je ne l'ai pas instruit ?
+S'il était vrai, grands Dieux ! Que je serais à plaindre !
+Que dis-je ? En ce moment, j'ai plus encore à craindre :
+Peut-être qu'aujourd'hui j'ai trahi mon époux,
+Il tombe, ou son rival expire sous ses coups.
+Ah ! De quelque côté que le sort fe déclare,
+Quelque vainqueur qu'il fasse, il mêle rend barbare.
+Il me prépare un crime, ou me perce le coeur :
+Et je meurs de remords autant que de douleur.
+On vient. Que vais-je apprendre ?
+
+      Ah, c'est toi, chère Ezire ?
+Ciel ! Quel trouble t'agite ? Et que viens-tu me dire ?
+Qu'as-tu fait ? Puis-je encor conserver quelque espoir ?
+Iphis t'a-t-il parlé ? Voudra-t-il me revoir ?
+
+Hélas ! Mais parle-moi de mes maux que j'ignore.
+Que t'a pu dire Iphis ?
+
+Il t'a parlé, sans doute ?
+
+Il frémit à mon nom ! Ô disgrâce imprévue !
+Ma honte à Zaraés est sans doute connue.
+Des plus vives douleurs mon coeur est pénétré.
+Zaraès que l'Amour n'a jamais inspiré,
+Éprouve donc par moi les effets de sa rage.
+Il le connoît enfin, et c'est par un outrage.
+Qu'ai-je fait ? Faudra-t-il recevoir d'un époux
+Terrible avec mépris, et sans amour jaloux,
+Des reproches cruels, plus accablants peut-être
+Que toutes les fureurs que l'amour eût fait naître ?
+Évitons sa présfence, Ezire, allons chercher
+Des climats, dont jamais il ne puisse approcher.
+Mais je ne puis sortir de ces lieux que j'abhorre.
+Il s'en empare !
+
+      Ô jour rempli d'horreur !
+Tu mets enfin le comble aux tourments de mon coeur.
+C'en est fait, et le Roi... Déguisons mes alarmes,
+Étouffons mes sanglots, et dévorons mes larmes.
+De quelle idée, ô Ciel ! Me laissai-je frapper ?
+Est-ce là maintenant ce qui doit m'occuper ?
+Zaraès va paraître : il fait que je l'outrage.
+Il aura donc sur moi ce cruel avantage,
+Et je n'expire pas de remords et d'horreur !
+J'ose oublier ma honte, et braver sa fureur ?
+Quel bruit se fait entendre ? Et quel revers s'apprête ?
+Mon sang glacé d'effroi dans mes veines s'arrête.
+
+Quoi ! Vous l'avez vaincu ? Vous venez m'en instruire.
+Hélas ! En ce moment peut-être qu'il expire ?
+
+Ah ! Qu'est-il devenu, Seigneur ? Répondez-moi.
+
+      Que dites-vous, Seigneur ?
+Mais de mon infortune apprenez-moi l'horreur :
+Si le vaincu respire elle est moins déplorable :
+Peut-être que s'il meurt, Alzaïde est coupable.
+Le Ciel doit l'en punir aux yeux d'Aménophis.
+Daignez donc m'éclairer sur le destin d'Iphis ?
+Parlez.
+
+Qu'allez-vous faire ? Ô Ciel !
+
+Sachez donc... mais Seigneur, avant de vous parler,
+Que j'obtienne de vous qu'on ne puisse immoler...
+
+      Celui dont le malheur m'accable.
+
+Ah ! ce n'est point Iphis...
+
+Mon époux expirant...
+
+Dieux !
+
+Quoiqu'il soit effroyable, un plus cruel m'est dû.
+Tu connais mes forfaits ; connais donc ma vertu.
+
+
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
+
 Je veux tout écouter, et ne négliger rien
 Pour le bonheur d'un peuple à qui je dois le mien :
 Qui me fait de mes soins trouver la récompense,
@@ -386,12 +527,6 @@ Nous devons en jugeant cet illustre coupable,
 Quelque égard à son nom, plus à l'humanité,
 Beaucoup même à son rang, mais tout à l'équité.
 
--*who_menos
-Son attentat, Seigneur, fut pour vous une offenfe ;
-Il faut un châtiment autant qu'une vengeance ;
-Eh ! Songez que nos lois...
-
--*who_amenophis
       Ménos, je dois songer
 À lui tendre la main plutôt qu'à me venger.
 Son malheur m'intéresse, et son coeur téméraire
@@ -405,31 +540,6 @@ N'ont point mis au dessus de la foule des Rois,
 Pourrais-je en punir un dont l'éclat nous étonne ?
 Plus heureux ! Je le plains, l'admire, et lui pardonne.
 
--*who_nisus
-Permettez que sur vous, Seigneur, sur ses exploits,
-L'Egypte et l'Univers s'expliquent par ma voix.
-En daignant m'écouter, mon Souverain peut-être,
-Prêt à juger l'ingrat, pourra mieux le connaître.
-Nos yeux sont éblouis de ses vices brillants ;
-Il n'a point de vertus, il n'a que des talents ;
-Génie impétueux, emporté vers la guerre,
-Plus propre à conquérir qu'à gouverner la terre,
-Qui régnerait en Roi moins grand qu'ambitieux,
-Opprimant les mortels, et méprisant les Dieux.
-Enchaînez à jamais un Guerrier si funeste.
-Trop heureux les humains que la faveur céleste
-De son sceptre de fer a voulu préserver !
-Il est né pour détruire, et vous pour conserver.
-Vous avez prétendu digne du rang suprême,
-Montrer votre puissance en la bornant vous-même ;
-Ami de votre peuple et de la vérité,
-Citoyen fur le trône, et Maître sans fierté,
-Don le plus précieux que le Ciel nous dispense ;
-De nos vertus enfin auteur et récompense,
-Il ne vous reste plus, pour ressembler aux Dieux,
-Que de prévoir le mal, et de punir comme eux.
-
--*who_amenophis
 Un Roi doit ressembler aux Dieux par la clémence,
 Vous voulez qu'un captif ressente ma vengance ;
 Prouvez donc qu'il s'apprête à nuire à mes sujets ;
@@ -445,63 +555,8 @@ Parlez-moi, vous, Ménos, qui sûtes l'observer :
 Montrez la vérité sans craindre de m'instruire ;
 L'entendre est mon devoir : le vôtre est de la dire,
 
--*who_menos
-Je l'oserai, Seigneur, ett cette liberté
-Plus que tous nos respects vous a toujours flatté.
-Vous plaignez Zaraès quand nous devons le craindre ;
-Si vous lui pardonnez, c'est Memphis qu'il faut plaindre ;
-Elle va donc revoir son cruel ennemi :
-Toujours par vos bontés dans sa haine affermi,
-Zaraès de vos mains ne recevra la vie
-Que pour vous en punir, et perdre la patrie.
-Inquiet, furieux, perfide, usurpateur,
-Et de nos longs revers infatigable auteur :
-Ce qu'il fit autrefois, il peut encor le faire.
-Ne croyez pas, Seigneur, que ma voix téméraire
-Par haine devant vous s'élève contre lui ;
-Quoiqu'il m'ait arraché mon bonheur, mon appui ;
-Que par son ordre Iphis son fidèle complice
-Ait fait à mes amis subir un long supplice,
-Que Zaraès lui-même aidé de cet Iphis,
-Ait ravagé mes biens, ait massacré mon fils,
-Je ne sens point les coups que m'a porté ce traître :
-Je les oublie : il veut en porter à mon Maître ;
-Rien ne me touche plus, vous êtes menaçé.
-
--*who_amenophis
 Qu'entends-je ?
 
--*who_menos
-      Ce rebelle à vous perdre empresse
-Séduit le Syrien, l'arme : ce font ses brigues
-Qui soulevant l'Arabe, ont formé tant de ligues :
-Jusques dans la Nubie, où j'ai su ses complots,
-Il paraît fuir nos yeux, et chercher le repos ;
-Plus il se cache, et plus il doit être terrible ;
-Il est prêt d'éclater puisqu'il femble paisible ;
-Dans ses déguisements toujours si redouté,
-Il fut joindre la fraude à la témérité,
-Trompa ceux qu'il fournit, et ceux qui le vainquirent.
-En le trouvant partout, jamais ils ne le virent :
-Et s'il cache à Memphis sa haine et ses projets,
-Pour nous impratiquable, et non pour ses sujets ;
-Il leur écrit, leur parle, en abusant sans cesse
-De cette liberté que son vainqueur lui laisse.
-Croyez que ce captif au fond de sa prison,
-Où rien ne le contraint, qui vous voit sans foupçon,
-En secret agité, tranquille en apparence,
-Veut sur votre ruine élever sa puissance,
-Et qu'un sujet si fier qui se croit outragé,
-Aujourd'hui dans les fers demain sera vengé.
-
-**** *book_ *id_II02 *act_II *date_1745
-
--*who_osiris
-Cette lettre, Seigneur, entre mes mains remise,
-À Zaraès écrite, en ce moment surprise,
-Et que tout me prescrit de ne donner qu'à vous...
-
--*who_amenophis
 Voyons s'il mérita sa grâce, ou mon courroux.
 « Sachez que dès ce jour par les champs de Syrie
 Sur les rives du Nil vos soldats vont passer ;
@@ -519,9 +574,6 @@ Eh ! Bien n'écoutons plus que l'austère justice :
 Pour la première fois ordonnons un supplice.
 Il mourra... laissez-moi.
 
-**** *book_ *id_II03 *act_II *date_1745
-
--*who_amenophis
       Faudra-t-il que mes coups.
 Tombent sur Alzaïde, en frappant son époux ?
 Elle va donc apprendre au fond de l'Arabie,
@@ -536,47 +588,13 @@ Que va dire Alzaïde !... Ô funeste nouvelle !...
 Pour me justifier que ne suis-je près d'elle ?...
 Hélas !...
 
-**** *book_ *id_II04 *act_II *date_1745
-
--*who_pheres
-      Dans ce moment, Seigneur à vos genoux
-Alzaïde...
-
--*who_amenophis
       Alzaïde !... Ah ! Que me dites-vous ?
 
--*who_pheres
-Elle vient.
-
--*who_amenophis
       Ciel !
 
-**** *book_ *id_II05 *act_II *date_1745
-
--*who_alzaide
-      Mes yeux se remplissent de larmes :
-Je revois en tremblant l'auteur de mes alarmes.
-Guide mes pas, Ezire, et viens les soutenir.
-
--*who_amenophis
 C'est moi que sa douleur, que les pleurs vont punir.
 Mon âme est déchirée...
 
--*who_alzaide
-      Incertaine, tremblante,
-Je viens vous faire entendre une voix suppliante,
-Pour finir des tourments que vous-même causez
-Que je dois oublier si vous les finissez.
-Hélas ! C'est leur excès qui près de vous m'amène ;
-Mon époux est captif ; puis-je rompre sa chaîne ?
-Terminez à la fois ses maux et mes douleurs,
-Seigneur, par vos vertus surpassez nos malheurs ;
-Qu'on ne vous plaigne plus autant qu'on vous admire ;
-Et qu'enfin l'univers, en ce jour, puisse dire,
-Que jamais Zaraès ne fut si malheureux
-Que vous, en pardonnant, vous fûtes généreux.
-
--*who_amenophis
 Alzaïde, c'est vous !... Je vous revois, Madame !
 Hélas ! Que vos revers attendrissent mon âme !...
 Ah ! Vous la retrouvez en ces tristes moments,
@@ -586,53 +604,20 @@ Je ressens la douleur de vous être funeste.
 J'admirai Zaraès : je vais vous étonner ;
 Plus malheureux que lui, je ne puis pardonner.
 
--*who_alzaide
-Seigneur, ah ! Quel arrêt votre bouche prononce !
-La surprise et l'horreur du coup qu'elle m'annonce,
-Le font déjà sentir à mes sens désolés :
-Vous ne pardonnez point ? Est-ce vous qui parlez ?
-Je sens autant de peine à vous croire implacable.
-Qu'a croire Zaraès envers vous si coupable.
-Quels crimes dans ses fers peut-il avoir commis ?
-
--*who_amenophis
 Je les crains pour mon peuple, et pour vous j'en gémis.
 Prisonnier en Egypte, il arme la Syrie ;
 Lisez : vous allez voir quelle est sa perfidie.
 Je le planis , mais hélas ! Vous êtes aujourd'hui,
 Puisqu'il est condamné, plus à plaindre que lui.
 
--*who_alzaide
-Que dites-vous, ô Ciel ! Sa mort est résolue ;
-Pour la voir, en ces lieux j'étais donc attendue ?
-Mais peut-il se venger, lorsque vous l'opprimez !
-Pour sa querelle ici quels Soldats sont armés ?
-Il menace Memphis, et Memphis l'environne ;
-Il arme des États, lui que tout abandonne :
-Qui n'a pour tout secours qu'une épouse et ses pleurs ,
-Secours qui n'est pour lui qu'un surcroît de malheurs !
-Il sait que son destin m'abaisse à la prière,
-Sa grâce est à ce prix l'excès de sa misère :
-Et vous la refufez, vous Roi si généreux,
-Vous de qui j'espérais même autant que des Dieux.
-
--*who_amenophis
 C'est la loi qui punit ce sujet redoutable.
 
--*who_alzaide
-Elle est cruelle, injuste ....
-
--*who_amenophis
       Il n'est que trop coupable
 De ses noirs attentats devez-vous donc douter ?
 Vous demandez sa grâce, et je puis resister ?
 Je prouve ses forfaits quand je vous la refuse ;
 Tout vous trahit, Madame, et m'accable, et l'accuse.
 
--*who_alzaide
-Dieux !
-
--*who_amenophis
       Jugez-le vous-même, et voyez mes combats,
 Son crime, mon devoir, le droit de mes États.
 Je dois à vos malheurs le plus grand sacrifice,
@@ -642,78 +627,24 @@ Vos pleurs, si je la rends, me font des jours affreux.
 J'en mourrai : j'aime mieux la mort avec la gloire,
 Que mon bonheur suivi d'une indigne mémoire.
 
--*who_alzaide
-Ainsi d'Aménophis je n'espère plus rien.
-Et voilà mon arrêt.
-
--*who_amenophis
       Dites aussi le mien.
 Juste envers Zaraès, pour vous impitoyable,
 Aménophis des trois est le plus misérable.
 
--*who_alzaide
-Quand je sens tout le poids de votre inimitié,
-Vous me montrez encor une fausse pitié.
-Peut-on être attendri, lorsqu'on est inflexible ?
-S'il est vrai qu'à mes pleurs vous soyez si sensible,
-Que ne terminez-vous tant de maux à la fois ?
-Et pourquoi dans un seul en punissez-vous trois ?
-
--*who_amenophis
 Ainsi que Zaraès, je dois être implacable.
 
--*who_alzaide
-Il sent tous les remords, s'il peut être coupable :
-Mais s'il l'est en effet, et s'il veut se venger,
-Je connais sa grande âme, et je puis la changer.
-
--*who_amenophis
 Vous n'adoucirez point une âme si farouche.
 
--*who_alzaide
-Il ressent les bienfaits et la vertu le touche.
-Au nom d'Aménophis je veux le désarmer,
-Je veux même qu'un jour il s'engage à l'aimer.
-Il chérira dans vous l'équité, la clémence :
-Il verra comme il faut oublier sa vengeance.
-S'il connaît vos vertus, voudra-t-il vous trahir ?
-Et s'il vous voit, Seigneur, pourra-til vous haïr ?
-
--*who_amenophis
 Hélas !
 
--*who_alzaide
-      Pour vous toucher que puis-ie encor vous dire ?
-Aujourd'hui par votre ordre, à mes yeux il expire,
-Vous l'avez réfolu : que vais-je devenir ?
-Songez-vous que c'est moi que vous allez punir ?
-Qu'un affreux désespoir est tout ce qui me reste :
-Faut-il que ce soit vous qui me soyez funeste ?
-Que par vous aujourd'hui je rejoigne un époux :
-Oui nous serons tous deux réunis par vos coups ;
-Dans une heure il expire, et je virais encore,
-Ce n'est plus son pardon : c'est le mien que j'implore.
-Vous détournez les yeux.
-
--*who_amenophis
       Ô cruelle vertu !
 
--*who_alzaide
-Que vous reprochez-vous ?
-
--*who_amenophis
       D'avoir tant combattu,
 D'avoir vu Zaraès vous coûter une larme,
 D'avoir désesperé ce cceur qui me désarme ;
 Vous changerez le sien, vous me l'avez promis :
 Qu'il vive.
 
--*who_alzaide
-      Oui, Seigneur, il vous sera soumis.
-Vous permettez qu'il vive, et que je le revoie :
-C'est par vous que mon âme éprouve tant de joie.
-
--*who_amenophis
 Ah ! Je veux la combler. Qu'il paraisse à vos yeux.
 Allez ? Ménos, allez : amène-le en ces lieux.
 Vous triomphez des lois, quand je le laisse vivre :
@@ -725,10 +656,6 @@ Est de sauver vos jours, d'éviter votre haine ;
 Mes sujets se plaindront, du coeur de mes sujets,
 J'effacerai ma faute à force de bienfaits.
 
--*who_alzaide
-Quels transports je ressens ! Pourrai-je les contraindre ?
-
--*who_amenophis
 Vous serez tous heureux, et moi toujours à plaindre ;
 Oui, Madame à vos pleurs, j'ai résisté longtemps ;
 Témoin de mes combats , jugez de mes tourmens.
@@ -744,94 +671,209 @@ Après un tel bienfait, il doit craindre l'envie,
 Et cacher loin de moi le bonheur de sa vie.
 Qu'il s'éloigne, qu'il fuie, Iphis et mon secours...
 
-**** *book_ *id_II06 *act_II *date_1745
-
--*who_pheres
-Seigneur, de Zaraès on menace les jours ;
-Le peuple à qui Ménos de son fupplice avide
-Apprend qu'on doit sa vie aux larmes d'Alzaïde,
-Assiége sa retraite, et jure son trépas.
-
--*who_amenophis
 Quoi Ménos me trahit ?
 
--*who_alzaide
-      Ne m'abandonnez pas.
-
--*who_amenophis
 Vainqueur de Zaraès, j'évitai sa présence.
 Allons, il faut le voir pour prendre sa défense.
 
--*who_alzaide
-Ô Ciel ! Lance sur moi les traits de ton courroux :
-Seconde Aménophis, et sauve mon époux.
+J'ai vengé Zaraès, et mon cceur trop sensible
+Ne peut plus... Mais ô Ciel ! En quel état terrible...
 
-**** *book_ *id_III01 *act_III *date_1745
+Que dit-elle ?
 
--*who_alzaide
-C'en est donc fait, ô Ciel à et Zaraès expire.
-Tu me suis, à tes soins je me dérobe, Ezire :
-J'entends autour de moi mille effroyables cris ;
-Qu'il meure, disaient-ils, périssons à ce prix.
-Je vole à son secours, à sa vie on attente :
-Je tombe entre leurs bras éperdue, expirante,
-Et je n'ouvre les yeux que pour voir mon malheur :
-Leur crime était commis, ils bravaient ma douleur.
-Le Roi n'a pu calmer cette horrible vengeance.
+      Calmez cette douleur affreuse.
 
--*who_ezire
-Du moins il la punie, et c'est lui qu'elle offense.
+      Arrêtez...
 
--*who_alzaide
-Je veux quitter ces lieux objets de mon effroi.
-Chaque inftant que j'y reste eft un crime pour moi.
-Sans attendre des Dieux la haine ou la justice,
-J'expierai mon amour par le plus grand supplice,
-L'absence qui jamais ne saura me guérir,
-Me punira du moins, si je n'en puis mourir.
-Cours préparer ma fuite.
+Qu'ai-je vu ?... Que penfer ? Quelle fuite soudaine !
+Ce poignard était donc dans les mains de la Reine ?
+Et quel tranfport échappe à son coeur éperdu ;
+M'aimerait-elle ? Ô Dieux ! L'ai-je bien entendu ?
 
-**** *book_ *id_III02 *act_III *date_1745
+      Iphis, lui ! Qu'on l'arrête.
+Dieux !
 
--*who_alzaide
-      Ô Toi qui par ta flamme,
-Viens d'augmenter encor le trouble de mon Äme ,
-Auteur de tous mes maux tu vas les ressentir ,
-Et malgré ton ardeur tu me verras partir.
-Ma fuite l'éteindra : mon aspect la ranime,
-Elle fait mon tourment : l'exciter est un crime,
-M'en parler une injure, et l'entendre un danger.
-Mânes de Zaraès, je saurai vous venger :
-De tout ce que je puis envers toi je m'acquite.
-Tu meurs : le Roi te plaint : il m'aime, et je l'évite:
-Mais on vient...
+Qu'elle reviennne : allez , rappellez mes soldats.
+Mais si je suis aimé, qui donc arma fon bras ?
 
-**** *book_ *id_III03 *act_III *date_1745
+Alzaïde est ici. Qu'on la fasse paraître.
 
--*who_zaraes
+Que vais-je apprendre ?...
+      Iphis, approche, réponds moi.
+
+      Réponds sans feinte et sans effroi :
+Ce poignard que j'ai vu dans les mains d'Alzaïde,
+Qui l'en avait armée ? Était-ce toi, perfide ?
+Son implacable époux dont j'ai plains le trépas,
+Sans doute te chargea d'armer ici ton bras,
+D'exciter contre moi la plus cruelle haine,
+Et peut-être toi seul sus irriter ta Reine ;
+Tes conseils ont tout fait ?
+
+Ainsi ta voix l'accuse ?
+
+Je connais ses vertus.
+
+Je ne le puis : un traître eut part à ses desseins,
+Ce fer à mon aspect échappe de ses mains,
+Prouve qu'à s'en servir d'autres l'avaient contrainte.
+
+Ressentir tant de haine, et la tenir cachée,
+Implorer mes bienfaits, en paraître touchée ?
+
+Zaraès fut vengé de Ménos.
+
+De moi qui le sauvai.
+
+Son orgueil oubliait le pouvoir que me donne
+Un droit bien moins à moi qu'il n'est à ma Couronne.
+Son trône à mes États fût toujours asservi :
+Et si de son pardon son arrêt fut suivi,
+Je modérai des lois qui me faisaient son maître,
+Et même en le sauvant je méritai de l'être.
+
+De ton erreur, Iphis, que je te désabuse :
+Quoi qu'injuste envers moi, ton zèle est ton excuse.
+Tout condamne ton Prince, et parle en ta faveur.
+Il eut donc un ami, jusqu'au sein du malheur !
+J'aime à voir un sujet, dût-il m'être rebelle,
+À son Roi qui n'est plus ; rester encor fidèle.
+
+Je dois en disposer pour connaître ta foi.
+Du crime, dont ta bouche ose accuser ta Reine,
+Son aveu seul peut-être une preuve certaine.
+Condamné pour ce jour à souffrir mes bienfaits,
+Tu ne sortiras point : demeure en ce Palais,
+
+      Ma sûreté même, et peut-être la tienne,
+Exigent qu'en ces lieux mon ordre te retienne.
+
+      Oui, tu peux la revoir :
+Ressens déjà mes dons, jouis de sa présence,
+Tu seras satisfait. Je la vois qui s'avance.
+
+Ah ! Ne redoutez rien. Vous détestez ces lieux,
+Vous voulez les quitter, tout y blesse vos yeux.
+Je n'en murmure point, votre intérêt l'ordonne :
+L'Arabie est à moi ; partez, je vous la donne :
+Revoyez des Sujets plus fortunés que nous.
+Quel que soit ce bienfait, je n'attends rien de vous :
+Et ce jour malheureux a déjà su m'apprendre,
+Après tant d'autres dons, quel prix j'en dois attendre.
+
+      Oui, Madame, et qui peut en douter ?
+Sur le trône avec vous je l'aurais fait monter.
+Heureux qu'il eût voulu, moins jaloux de sa gloire
+Dans mes embrassements oublier ma victoire.
+On plaint trop aisément l'ennemi qui n'est plus,
+Je le plaignis vivant.
+
+      Je prévenais ses coups.
+
+      J'épargnais votre époux.
+Mais que me dites-vous ? Vous devez me connaître.
+S'il en faut croire Iphis, vous verrez que son maître
+Artisan de ses maux, et source de vos pleurs ,
+Eût toujours à mes dons opposé ses fureurs.
+
+Dans mon sang Alzaïde eut pu le satisfaire ?
+Je devais expirer par une main si chère ?
+Elle m'ôtait des jours que tout lui destinait ?
+Je les perdrais pour elle, elle m'assassinait ?
+
+      Votre bras, dans ce coeur qui vous aime...
+Mais quel nouvel effroi !...
+
+      Quoi donc ?
+
+Puisqu'on te justifie, elle t'est accordée.
+
+Je vous aime, et pour moi vous devenez barbare.
+Ah ! Quel destin cruel sans cesse nous sépare :
+Zaraés ne vit plus, faible rayon d'espoir,
+Qui disparaît sitôt que je puis l'entrevoir :
+Votre fureur l'éteint, me poursuit et m'accable.
+Hé bien, terminez donc un sort si déplorable ?
+Après tant de tourments arrachez-moi le jour,
+Et déchirez un coeur que brûle tant d'amour.
+Oui, frappez... Mais je vois renaître vos alarmes !
+Malgré tous vos efforts, je vois couler vos larmes !
+Hélas ! Vous frémissez, vos timides regards,
+En évitant les miens, errent de toutes parts.
+Que craignez-vous encore ? À quoi dois-je m'attendre !
+
+Ah ! Nisus, laissez-moi...
+
+      Que pouvez-vous répondre,
+Madame, à tant d'horreurs ?
+
+Expliquez-moi, grands Dieux, le trouble où je la vois :
+Malgré tous ses complots elle a tremblé pour moi.
+Son devoir seul l'entraîne au crime qui s'apprête ;
+J'aurais fléchi son coeur... Mais quel espoir m'arrête !
+Nisus gardez la Reine, il faut tout prévenir.
+Oui ; courrons les combattre, ou plutôt les punir ;
+La justice contre eux me guide avec la gloire.
+Que dans leur châtiment je trouve une victoire.
+
+Qu'on épargne leur sang, nous les avons soumis.
+Méritons la victoire aux yeux des ennemis.
+Madame, j'ai vaincu : je triomphe d'un traître,
+D'Iphis dont la fureur m'eût accablé peut-être,
+Si je n'eusse tantôt, rappelant mes soldats,
+Prévenu des forfaits que vous n'ignoriez pas.
+
+Madame, son danger excite votre effroi ?
+
+Quel intérêt si grand prenez-vous à sa vie,
+Quand la mienne par lui m'allait être ravie ?
+Hé quoi, c'était donc vous qui conduirez son bras,
+Quel mystère odieux que je ne conçois pas !
+Quel mélange inouï de tendresse et de haine !
+L'espoir que j'ai conçu redouble encor ma peine.
+J'ai pu me croire aimé...
+
+      Oui, chaque instant augmente ma surprise,
+Quel est donc cet Iphis, vos voeux, son entreprise ?
+Quels secrets cachez-vous ? Que voulez-vous savoir ?
+Hé bien, apprenez donc que perdant tout espoir
+De m'arracher le jour, l'Empire et la victoire,
+Ce traître qu'animait le crime, et non la gloire,
+Après s'être vingt fois à mes coups échappé,
+S'est jeté dans nos rangs qui l'ont enveloppé.
+Sûr que sa trahison sera bientôt punie,
+Il cherche le trépas pour suir l'ignominie ;
+Mais il l'espère en vain, mes ordres sont donnés ;
+À finir sans honneur, ses jours sont condamnés.
+Il mérita la mort en poursuivant ma vie,
+Du plus prompt châtiment son audace suivie,
+Va de tant de forfaits commis en un seul jour...
+
+      Me venger à mon tour ;
+Et servant ma colère autant que la justice,
+Du perfide à l'instant j'ordonne le supplice.
+
+Ce rebelle ?
+
+Puis-je vous écouter ? Iphis est trop coupable.
+
+      Zaraès.
+
+Quel coup affreux ! Ô ciel !
+
+
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaraes
+
       Alzaïde est seule, approchons-nous.
 
--*who_alzaide
-Ô Ciel !... C'est Zaraès... C'est lui... C'est mon époux.
-
--*who_zaraes
 Ah ! Calmez ce transport que ma présence inspire :
 Madame, observez-vous, craignons tout, ou j'expire :
 Mais je puis, grâce au sort, un instant dans ces lieux ,
 Vous parler sans témoins.
 
--*who_alzaide
-      Je vous revois ; ô Dieu !
-
--*who_zaraes
 Ô vous qui m'arrachez à mon destin perfide,
 Oui, vous me revoyez, généreuse Alzaïde.
 
--*who_alzaide
-Vous vivez. Ah ! Seigneur, par quel heureux secours,
-Respirez-vous encor ? À qui dois-je vos jours ?
-
--*who_zaraes
 Madame, c'est Iphis, qui dans cette journée,
 De l'Egypte ressent la vengeance effrénée ;
 Compagnon de ma gloire, il partageait mes fers :
@@ -853,18 +895,10 @@ Assure ici mes jours, et cachera ma haine :
 Je n'ai point vu le Roi : j'évitai tous les yeux,
 Et mon destin n'est su que de vous et des Dieux.
 
--*who_alzaide
-Eh ! Pourquoi donc Seigneur, voulez-vous qu'on l'ignore ?
-
--*who_zaraes
 Rien ne peut mieux voiler mes projets prêts d'éclore :
 Vous allez les savoir, dissipez votre effroi :
 Je vais être vengé : ne tremblez pas pour moi.
 
--*who_alzaide
-Que dites-vous; Seigneur ?
-
--*who_zaraes
       Que dès ce soir j'expire
 Ou que vous me verrez maître de cet Empire.
 La moitié de ma honte va rejaillir sur vous :
@@ -878,13 +912,6 @@ Vous dire un mot de plus en cette circonstance ;
 Où mon coeur vous doit tant, serait vous offenser,
 Et me fier à vous, c'est vous récompenser.
 
--*who_alzaide
-De quels coups à la fois, mon âme est-elle atteinte :
-Considérez, Seigneur, les objets de ma crainte
-Avez-vous bien prévu les maux dont je frémis ?
-Eh ! Quel est votre espoir contre tant d'ennemis.
-
--*who_zaraes
 Je vais bientôt calmer les frayeurs de votre âme :
 Vous ne tremblerez plus, quand vous saurez Madame,
 Par combien de ressorts aussi prompts que certains
@@ -903,21 +930,9 @@ Tout est prêt, on l'ignore, et j'ai changé mon sort ;
 J'obtiendtai dès ce soir la couronne, ou la mort.
 Que m'importe des deux, pourvu que je me venge.
 
--*who_alzaide
-Vous vous vengez, de qui... Vous, Seigneur ! Ah ! Qu'entends-je ?
-Quel dessein ! On l'ignore... En vain vous l'espérez.
-Tous vos projets ici ne sont pas ignorés :
-Une lettre surprise, et par Arbas écrite,
-Fit connaître les coups que Zaraès médite.
-
--*who_zaraes
 Elle n'apprit que ceux qu'il voulut dévoiler :
 C'est encor un fecret qu'il faut, vous révéler.
 
--*who_alzaide
-Quoi ! La lettre, Seigneur...
-
--*who_zaraes
       C'est moi qui l'ai fait rendre.
 Pour désarmer Memphis j'ai su tout entreprendre.
 Je voyais qu'aujourd'hui pour attaquer le Roi,
@@ -939,46 +954,12 @@ Libre je vous revois, inconnu je conspire.
 Contre nos ennemis j'ai déjà réussi,
 Ils vont vers la Syrie, et la guerre eft ici.
 
--*who_alzaide
-Je vois ainsi que vous leur perte inévitable :
-Mais songez que le Roi qui vous a cru coupable ;
-A toujours, quelqu'il fût, adouci votre sort :
-Et que dans ce jour même où vous jurez sa mort,
-Ami de ses sujets qu'opprimait votre haine,
-Il défendait vos jours, et brisait votre chaîne.
-
--*who_zaraes
 Qu'il aime ses sujets, mais qu'il me traite en Roi
 Que me font des vertus qui ne sont pas pour moi ?
 
--*who_alzaide
-Seigneur puisqu'avec vous ici d'intelligence
-Je dois aux yeux de tous servir votre vengeance
-Que surtout par les noeuds qui m'attachent à vous,
-Je partage la honte ou l'honneur de vos coups :
-Voyons de nos projets le crime, ou la justice :
-Que je sois votre épouse, et non votre complice.
-L'Univers nous contemple ; avant de nous venger,
-C'est lui, Seigneur, c'est lui qu'il faut interroger.
-Oui, consultons sa voix lorsque tout nous l'ordonne.
-Son estime est toujours pour celui qui pardonne :
-Pour l'autre désormais ne s'interessant plus,
-Quand ses maux sont finis, il lui veut des vertus ;
-Et contre un bienfaiteur que la vengeance opprime,
-La gloire est un opprobre, et le triomphe un crime.
-Qu'attendez-vous du Prince ? Il vous fera régner.
-Prévenu par ses dons, pourquoi les dédaigner ?
-Subjuguez votre coeur quand le sien se surmonte.
-Sans orgueil il les offre : acceptez-les sans honte.
-
--*who_zaraes
 Que dites-vous, ô ciel ! Eh ! Ne savez-vous pas
 Mes droits, mon infortune, et tous ses attentats ?
 
--*who_alzaide
-Quoi, Seigneur ?
-
--*who_zaraes
       Que sa haine, et que son injustice
 En ce jour, ici même ordonna mon supplice.
 Sans cesse prétextant au mépris de mes droits
@@ -1013,11 +994,6 @@ Vous y serez présente... oui, vous-même verrez
 Son sang, sa mort, sa honte, et vous en jouirez.
 Vous frémissez, Madame.
 
--*who_alzaide
-      Oui, cette destinée
-Qui vous flatte aujourd'hui...
-
--*who_zaraes
       Peut être infortunée
 Sans doute : par le sort je puis être opprimé :
 C'est le moindre des maux dont je sois alarmé :
@@ -1040,75 +1016,6 @@ Vivez, restez ici, n'hésitez pas, frappez :
 Surtout en ce moment faites qu'il se souvienne,
 En lui donnant la mort, qu'il ordonna la mienne.
 
-**** *book_ *id_III04 *act_III *date_1745
-
--*who_alzaide
-Quel trouble me saisit... je frissonne d'horreur.
-Ô jour infortuné !... Trop injuste fureur !
-J'immolerais qui... Dieux !... Ah ! Ma flamme infidèle
-Devient à mes efforts plus que jamais rebelle :
-Je lui resiste en vain. Tous mes sens sont émus.
-Je succombe à mes maux... Je ne me connais plus.
-
-**** *book_ *id_III05 *act_III *date_1745
-
--*who_amenophis
-J'ai vengé Zaraès, et mon cceur trop sensible
-Ne peut plus... Mais ô Ciel ! En quel état terrible...
-
--*who_alzaide
-Que fais-je ? Mon devoir m'ordonne son trépas...
-Mon cher Aménophis... Non, tu ne mourras pas.
-
--*who_amenophis
-Que dit-elle ?
-
--*who_alzaide
-      Avec toi j'eusse été trop heureuse :
-Tu périrais !
-
--*who_amenophis
-      Calmez cette douleur affreuse.
-
--*who_alzaide
-Dieux ! Que vois-je ?...
-
--*who_amenophis
-      Arrêtez...
-
--*who_alzaide
-      Dans le trouble où je suis,
-Le repentir, la suite, est tout ce que je puis.
-
-**** *book_ *id_III06 *act_III *date_1745
-
--*who_amenophis
-Qu'ai-je vu ?... Que penfer ? Quelle fuite soudaine !
-Ce poignard était donc dans les mains de la Reine ?
-Et quel tranfport échappe à son coeur éperdu ;
-M'aimerait-elle ? Ô Dieux ! L'ai-je bien entendu ?
-
--*who_nisus
-Iphis qui la quittait ....
-
--*who_amenophis
-      Iphis, lui ! Qu'on l'arrête.
-Dieux !
-
--*who_nisus
-      Seigneur, je ne sais quel attentat s'apprête,
-Mais Zaraès n'est plus : pour se soumettre à vous.
-Son camp dans la Syrie attendra-t-il vos coups ?
-En vain pour la réduire aujourd'hui votre armée
-Part, et laisse Memphis ouverte et dééarmée.
-
--*who_amenophis
-Qu'elle reviennne : allez , rappellez mes soldats.
-Mais si je suis aimé, qui donc arma fon bras ?
-
-**** *book_ *id_IV01 *act_IV *date_1745
-
--*who_zaraes
 Par l'effroi de la Reine et par son imprudence,
 Je verrois donc encor reculer ma vengeance !
 On m'arrête ! Faut-il qu'à ces maux réservé...
@@ -1125,77 +1032,25 @@ Zaraés, ta vengeance est encore incertaine,
 Il me reste un espoir... Allons trouver la Reine :
 Elle doit réparer tous les maux qu'elle a faits.
 
-**** *book_ *id_IV02 *act_IV *date_1745
-
--*who_pheres
-Oui, Seigneur, c'est Iphis surpris dans ce Palais.
-
--*who_amenophis
-Alzaïde est ici. Qu'on la fasse paraître.
-
--*who_zaraes
 C'est le Roi : que craindrais-je ? Il ne peut me connaître.
 
--*who_amenophis
-Que vais-je apprendre ?...
-      Iphis, approche, réponds moi.
-
--*who_zaraes
 Que me veut-il ?
 
--*who_amenophis
-      Réponds sans feinte et sans effroi :
-Ce poignard que j'ai vu dans les mains d'Alzaïde,
-Qui l'en avait armée ? Était-ce toi, perfide ?
-Son implacable époux dont j'ai plains le trépas,
-Sans doute te chargea d'armer ici ton bras,
-D'exciter contre moi la plus cruelle haine,
-Et peut-être toi seul sus irriter ta Reine ;
-Tes conseils ont tout fait ?
-
--*who_zaraes
       Pouvez-vous concevoir
 Qu'elle en ait eu besoin pour suivre son devoir ?
 
--*who_amenophis
-Ainsi ta voix l'accuse ?
-
--*who_zaraes
       Elle lui rend sa gloire.
 
--*who_amenophis
-Je connais ses vertus.
-
--*who_zaraes
       Vous devez donc me croire.
 
--*who_amenophis
-Je ne le puis : un traître eut part à ses desseins,
-Ce fer à mon aspect échappe de ses mains,
-Prouve qu'à s'en servir d'autres l'avaient contrainte.
-
--*who_zaraes
 Ne connaissez-vous pas une femme et sa crainte,
 Lorsque dans les projets qu'elle fut enfanter,
 Elle touche à l'inftant de les exécuter ?
 
--*who_amenophis
-Ressentir tant de haine, et la tenir cachée,
-Implorer mes bienfaits, en paraître touchée ?
-
--*who_zaraes
 Elle a dû le paraître, en préparant ses coups.
 
--*who_amenophis
-Zaraès fut vengé de Ménos.
-
--*who_zaraes
       Non de vous.
 
--*who_amenophis
-De moi qui le sauvai.
-
--*who_zaraes
       Que ne puis-je moi-même
 Répeter les discours qu'en son malheur extrême
 Ce Roi vous adressait du fond de sa prison,
@@ -1205,120 +1060,16 @@ Par ce dernier outrage à jamais avilie ?
 Est-ce aux Rois qu'on pardonne ? Il fallait m'immoler,
 Et tu m'aurais fais grâce, en osant m'accabler. »
 
--*who_amenophis
-Son orgueil oubliait le pouvoir que me donne
-Un droit bien moins à moi qu'il n'est à ma Couronne.
-Son trône à mes États fût toujours asservi :
-Et si de son pardon son arrêt fut suivi,
-Je modérai des lois qui me faisaient son maître,
-Et même en le sauvant je méritai de l'être.
-
--*who_zaraes
 Vous ?... Mais en vain ma bouche ici le défendrait ;
 Inutile pour lui, mon zèle me perdrait.
 
--*who_amenophis
-De ton erreur, Iphis, que je te désabuse :
-Quoi qu'injuste envers moi, ton zèle est ton excuse.
-Tout condamne ton Prince, et parle en ta faveur.
-Il eut donc un ami, jusqu'au sein du malheur !
-J'aime à voir un sujet, dût-il m'être rebelle,
-À son Roi qui n'est plus ; rester encor fidèle.
-
--*who_zaraes
 He bien, qu'attendez-vous ? Disposez donc de moi.
 
--*who_amenophis
-Je dois en disposer pour connaître ta foi.
-Du crime, dont ta bouche ose accuser ta Reine,
-Son aveu seul peut-être une preuve certaine.
-Condamné pour ce jour à souffrir mes bienfaits,
-Tu ne sortiras point : demeure en ce Palais,
-
--*who_zaraes
 Ciel !
 
--*who_amenophis
-      Ma sûreté même, et peut-être la tienne,
-Exigent qu'en ces lieux mon ordre te retienne.
-
--*who_zaraes
 Du moins souffrez qu'Iphis cédant à son devoir ;
 Puisse revoir sa Reine.
 
--*who_amenophis
-      Oui, tu peux la revoir :
-Ressens déjà mes dons, jouis de sa présence,
-Tu seras satisfait. Je la vois qui s'avance.
-
-**** *book_ *id_IV03 *act_IV *date_1745
-
--*who_amenophis
-Ah ! Ne redoutez rien. Vous détestez ces lieux,
-Vous voulez les quitter, tout y blesse vos yeux.
-Je n'en murmure point, votre intérêt l'ordonne :
-L'Arabie est à moi ; partez, je vous la donne :
-Revoyez des Sujets plus fortunés que nous.
-Quel que soit ce bienfait, je n'attends rien de vous :
-Et ce jour malheureux a déjà su m'apprendre,
-Après tant d'autres dons, quel prix j'en dois attendre.
-
--*who_alzaide
-Par générosité vous m'offrez des États,
-Que sans vous pressentir, je n'accepterai pas.
-Seigneur, de votre main, dois-je ici les reprendre ?
-À mon époux vivant eût-elle su les rendre ?
-Ah ! Parlez.
-
--*who_amenophis
-      Oui, Madame, et qui peut en douter ?
-Sur le trône avec vous je l'aurais fait monter.
-Heureux qu'il eût voulu, moins jaloux de sa gloire
-Dans mes embrassements oublier ma victoire.
-On plaint trop aisément l'ennemi qui n'est plus,
-Je le plaignis vivant.
-
--*who_alzaide
-      Avec tant de vertus,
-Ainsi de ce héros vous oubliez la haine :
-Et même dans ce jour votre bouche avec peine
-Ordonna son trépas.
-
--*who_amenophis
-      Je prévenais ses coups.
-
--*who_alzaide
-Vous sûtes l'épargner.
-
--*who_amenophis
-      J'épargnais votre époux.
-Mais que me dites-vous ? Vous devez me connaître.
-S'il en faut croire Iphis, vous verrez que son maître
-Artisan de ses maux, et source de vos pleurs ,
-Eût toujours à mes dons opposé ses fureurs.
-
--*who_alzaide
-Détrompez-vous, Seigneur. Oui, ma reconnaissance
-Eût osé tout tenter pour calmer sa vengeance.
-Que ne le puis-je encor si dans l'instant les Dieux,
-Devant vous-même ici le rendaient à mes voeux !
-Je lui dirais qu'il doit chérir votre clémence,
-Que son amitié seule est votre récompense,
-Qu'en vain il s'est rangé parmi vos ennemis,
-Qu'il ne le sera plus, que mon coeur l'a promis :
-Que j'enchaînai son bras par un serment terrible
-Qu'on ne croirait sans foi, s'il était inflexible ;
-Et qu'enfin respectant de si sacrés liens
-Il m'accorda vos jours quand je vous dois les siens.
-Après tant de motifs, Prince, pourriez-vous croire
-Que Zaraès sans cesse animé par la gloire,
-Aux trop justes douleurs de mon coeur éperdu,
-Touché de vos bienfaits, ne se fût pas rendu.
-Sortez, Seigneur, sortez d'un doute si funeste :
-Il eût tout oublié : que votre voix l'arrête,
-Iphis, vous le savez, pourriez-vous hésiter ?
-
--*who_zaraes
 Sans doute que mon maître eut pu vous écouter.
 Comme Iphis, je ne puis qu'applaudir à ma Reine :
 Si j'étais Zaraés, vous verrais-je sans peine,
@@ -1329,27 +1080,8 @@ Vous devez étonner jusques au Roi lui-même,
 Qui déjà sait par moi qu'aujourd'hui votre bras,
 Pour venger votre époux, préparait son trépas.
 
--*who_amenophis
-Dans mon sang Alzaïde eut pu le satisfaire ?
-Je devais expirer par une main si chère ?
-Elle m'ôtait des jours que tout lui destinait ?
-Je les perdrais pour elle, elle m'assassinait ?
-
--*who_zaraes
 Qu'entends-je ?
 
--*who_amenophis
-      Votre bras, dans ce coeur qui vous aime...
-Mais quel nouvel effroi !...
-
--*who_alzaide
-      Ma douleur est extrême.
-Oui, croyez que ma haine a tout fait contre vous,
-Punissez-moi, Seigneur, respectez mon époux ;
-N'accablez point Iphis, trop malheureux peut-être...
-Ciel ! Iphis...
-
--*who_zaraes
       Reine, enfin je commence à connaître
 Les sublimes vertus d'un Roi si généreux :
 Mais qu'il soit donc toujours l'appui des malheureux.
@@ -1358,270 +1090,18 @@ C'est moi qu'elle a choisi pour son guide fidèle.
 D'adoucir mes revers son coeur s'était flatté.
 Elle veut vous devoir...
 
--*who_amenophis
-      Quoi donc ?
-
--*who_zaraes
       Ma liberté.
 
--*who_amenophis
-Puisqu'on te justifie, elle t'est accordée.
-
--*who_alzaide
-Par vous dans mes États je veux être guidée.
-Mais suivez-moi.
-
--*who_zaraes
       Ravi de vous y ramener,
 Pour le plus prompt départ, je vais tout ordonner.
 
-**** *book_ *id_IV04 *act_IV *date_1745
-
--*who_amenophis
-Je vous aime, et pour moi vous devenez barbare.
-Ah ! Quel destin cruel sans cesse nous sépare :
-Zaraés ne vit plus, faible rayon d'espoir,
-Qui disparaît sitôt que je puis l'entrevoir :
-Votre fureur l'éteint, me poursuit et m'accable.
-Hé bien, terminez donc un sort si déplorable ?
-Après tant de tourments arrachez-moi le jour,
-Et déchirez un coeur que brûle tant d'amour.
-Oui, frappez... Mais je vois renaître vos alarmes !
-Malgré tous vos efforts, je vois couler vos larmes !
-Hélas ! Vous frémissez, vos timides regards,
-En évitant les miens, errent de toutes parts.
-Que craignez-vous encore ? À quoi dois-je m'attendre !
-
-**** *book_ *id_IV05 *act_IV *date_1745
-
--*who_amenophis
-Ah ! Nisus, laissez-moi...
-
--*who_nisus
-      Seigneur, daignez m'entendre.
-Des soldats étrangers parmi nous répandus,
-Ont fait fuir loin d'Iphis les nôtres éperdus ;
-Ce traître a disparu.
-
--*who_amenophis
-      Que pouvez-vous répondre,
-Madame, à tant d'horreurs ?
-
--*who_alzaide
-      Tout sert à me confondre.
-Prince, chaque moment ajoute à mon malheur ;
-Mais je dois en cachant ma honte et ma douleur,
-Et sans oser gémir d'un destin si contraire,
-Condamner votre amour, suivre Iphis, et me taire.
-
--*who_amenophis
-Expliquez-moi, grands Dieux, le trouble où je la vois :
-Malgré tous ses complots elle a tremblé pour moi.
-Son devoir seul l'entraîne au crime qui s'apprête ;
-J'aurais fléchi son coeur... Mais quel espoir m'arrête !
-Nisus gardez la Reine, il faut tout prévenir.
-Oui ; courrons les combattre, ou plutôt les punir ;
-La justice contre eux me guide avec la gloire.
-Que dans leur châtiment je trouve une victoire.
-
-**** *book_ *id_V01 *act_V *date_1745
-
--*who_alzaide
-On me garde en ces lieux. Quel triste évenement,
-D'Ezire que j'attends, retient l'empressement !
-Auprès de Zaraés n'a-t-elle pu se rendre ?
-Daignera-t-il encor me parler et m'entendre ?
-Je lui pardonne ; ô Ciel ! D'avoir pu m'accuser
-Du crime auquel mon bras osa se refuser.
-L'aspect d'Aménophis avait troublé mon âme
-Il connaît donc mon coeur, et Zaraés fa flamme.
-Qui sait, si lui vantant ce héros qu'il poursuit,
-De la mienne en ce jour je ne l'ai pas instruit ?
-S'il était vrai, grands Dieux ! Que je serais à plaindre !
-Que dis-je ? En ce moment, j'ai plus encore à craindre :
-Peut-être qu'aujourd'hui j'ai trahi mon époux,
-Il tombe, ou son rival expire sous ses coups.
-Ah ! De quelque côté que le sort fe déclare,
-Quelque vainqueur qu'il fasse, il mêle rend barbare.
-Il me prépare un crime, ou me perce le coeur :
-Et je meurs de remords autant que de douleur.
-On vient. Que vais-je apprendre ?
-
-**** *book_ *id_V02 *act_V *date_1745
-
--*who_alzaide
-      Ah, c'est toi, chère Ezire ?
-Ciel ! Quel trouble t'agite ? Et que viens-tu me dire ?
-Qu'as-tu fait ? Puis-je encor conserver quelque espoir ?
-Iphis t'a-t-il parlé ? Voudra-t-il me revoir ?
-
--*who_ezire
-Je l'ai vu, dans ces lieux, rempli de sa vengeance,
-Impatient de vaincre, il a fuit ma présence.
-Il revient, il s'avance : et déjà dans Memphis,
-Sous les murs du Palais, combat Aménophis.
-Je n'ai pu parvenir jusques à vous, Madame,
-Que guidée à travers le carnage et la flamme ;
-Il a porté partout la mort et la terreur,
-Et dans ce moment même, est peut-être vainqueur ;
-Prêt d'en être accablé, le Roi le presse encore.
-
--*who_alzaide
-Hélas ! Mais parle-moi de mes maux que j'ignore.
-Que t'a pu dire Iphis ?
-
--*who_ezire
-      Qu'attendez-vous de lui ?
-Trop peu digne des soins qu'il vous coûte aujourd'hui,
-Et du tendre intérêt qu'il semble qu'Alzaïde
-Prenne encore au destin de ce guerrier perfide,
-Il n'est digne en effet que de votre courroux ;
-Vous espériez en vain qu'il suspendrait ses coups.
-Son aveugle fureur ne m'a point écoutée,
-Et contre lui mon âme est encore irritée.
-
--*who_alzaide
-Il t'a parlé, sans doute ?
-
--*who_ezire
-      À mes empressements
-Iphis a répondu par des frémissements,
-S'est armé contre moi d'un silence farouche.
-À peine votre nom est sorti de ma bouche,
-Que muette à mon tour je l'ai vu s'indigner,
-Pâlir même de rage, et d'horreur frissonner.
-
--*who_alzaide
-Il frémit à mon nom ! Ô disgrâce imprévue !
-Ma honte à Zaraés est sans doute connue.
-Des plus vives douleurs mon coeur est pénétré.
-Zaraès que l'Amour n'a jamais inspiré,
-Éprouve donc par moi les effets de sa rage.
-Il le connoît enfin, et c'est par un outrage.
-Qu'ai-je fait ? Faudra-t-il recevoir d'un époux
-Terrible avec mépris, et sans amour jaloux,
-Des reproches cruels, plus accablants peut-être
-Que toutes les fureurs que l'amour eût fait naître ?
-Évitons sa présfence, Ezire, allons chercher
-Des climats, dont jamais il ne puisse approcher.
-Mais je ne puis sortir de ces lieux que j'abhorre.
-Il s'en empare !
-
--*who_ezire
-      Hélas ! Qui vous agite encore ?
-Vous parlez d'un époux...
-
--*who_alzaide
-      Ô jour rempli d'horreur !
-Tu mets enfin le comble aux tourments de mon coeur.
-C'en est fait, et le Roi... Déguisons mes alarmes,
-Étouffons mes sanglots, et dévorons mes larmes.
-De quelle idée, ô Ciel ! Me laissai-je frapper ?
-Est-ce là maintenant ce qui doit m'occuper ?
-Zaraès va paraître : il fait que je l'outrage.
-Il aura donc sur moi ce cruel avantage,
-Et je n'expire pas de remords et d'horreur !
-J'ose oublier ma honte, et braver sa fureur ?
-Quel bruit se fait entendre ? Et quel revers s'apprête ?
-Mon sang glacé d'effroi dans mes veines s'arrête.
-
-**** *book_ *id_V03 *act_V *date_1745
-
--*who_amenophis
-Qu'on épargne leur sang, nous les avons soumis.
-Méritons la victoire aux yeux des ennemis.
-Madame, j'ai vaincu : je triomphe d'un traître,
-D'Iphis dont la fureur m'eût accablé peut-être,
-Si je n'eusse tantôt, rappelant mes soldats,
-Prévenu des forfaits que vous n'ignoriez pas.
-
--*who_alzaide
-Quoi ! Vous l'avez vaincu ? Vous venez m'en instruire.
-Hélas ! En ce moment peut-être qu'il expire ?
-
--*who_amenophis
-Madame, son danger excite votre effroi ?
-
--*who_alzaide
-Ah ! Qu'est-il devenu, Seigneur ? Répondez-moi.
-
--*who_amenophis
-Quel intérêt si grand prenez-vous à sa vie,
-Quand la mienne par lui m'allait être ravie ?
-Hé quoi, c'était donc vous qui conduirez son bras,
-Quel mystère odieux que je ne conçois pas !
-Quel mélange inouï de tendresse et de haine !
-L'espoir que j'ai conçu redouble encor ma peine.
-J'ai pu me croire aimé...
-
--*who_alzaide
-      Que dites-vous, Seigneur ?
-Mais de mon infortune apprenez-moi l'horreur :
-Si le vaincu respire elle est moins déplorable :
-Peut-être que s'il meurt, Alzaïde est coupable.
-Le Ciel doit l'en punir aux yeux d'Aménophis.
-Daignez donc m'éclairer sur le destin d'Iphis ?
-Parlez.
-
--*who_amenophis
-      Oui, chaque instant augmente ma surprise,
-Quel est donc cet Iphis, vos voeux, son entreprise ?
-Quels secrets cachez-vous ? Que voulez-vous savoir ?
-Hé bien, apprenez donc que perdant tout espoir
-De m'arracher le jour, l'Empire et la victoire,
-Ce traître qu'animait le crime, et non la gloire,
-Après s'être vingt fois à mes coups échappé,
-S'est jeté dans nos rangs qui l'ont enveloppé.
-Sûr que sa trahison sera bientôt punie,
-Il cherche le trépas pour suir l'ignominie ;
-Mais il l'espère en vain, mes ordres sont donnés ;
-À finir sans honneur, ses jours sont condamnés.
-Il mérita la mort en poursuivant ma vie,
-Du plus prompt châtiment son audace suivie,
-Va de tant de forfaits commis en un seul jour...
-
--*who_alzaide
-Qu'allez-vous faire ? Ô Ciel !
-
--*who_amenophis
-      Me venger à mon tour ;
-Et servant ma colère autant que la justice,
-Du perfide à l'instant j'ordonne le supplice.
-
--*who_alzaide
-Sachez donc... mais Seigneur, avant de vous parler,
-Que j'obtienne de vous qu'on ne puisse immoler...
-
--*who_amenophis
-Ce rebelle ?
-
--*who_alzaide
-      Celui dont le malheur m'accable.
-
--*who_amenophis
-Puis-je vous écouter ? Iphis est trop coupable.
-
--*who_alzaide
-Ah ! ce n'est point Iphis...
-
-**** *book_ *id_V04 *act_V *date_1745
-
--*who_zaraes
       Ô Reine, levez- vous ,
 Vous demandez mes jours, je ne crains plus ses coups.
 
--*who_alzaide
-Mon époux expirant...
-
--*who_zaraes
       Il n'est plus temps de feindre,
 Connais tout ton bonheur, tu n'as plus rien craindre,
 Vois Zaraés mourant.
 
--*who_amenophis
-      Zaraès.
-
--*who_zaraes
       Oui c'est moi.
 Je n'ai pu me venger : je puis mourir en Roi.
 Ah ! S'il est quelque trait dont ma gloire gémisse,
@@ -1633,10 +1113,6 @@ C'est vous dont la fureur à mes tyrans me livre,
 Madame, oui de ce fer échappé de vos mains
 L'événement funeste a rompu mes desseins.
 
--*who_alzaide
-Dieux !
-
--*who_zaraes
       Du péril du Roi par ce coup prévenues
 Ses troupes qui partaient à l'instant revenues,
 Accablent mes guerriers, et nous immolent tous ;
@@ -1648,13 +1124,240 @@ Ce faible châtiment ne vous suffirait pas.
 Je vous connais assez pour vous rendre justice.
 Je mourrai devant vous : voilà votre supplice.
 
--*who_alzaide
-Quoiqu'il soit effroyable, un plus cruel m'est dû.
-Tu connais mes forfaits ; connais donc ma vertu.
-
--*who_amenophis
-Quel coup affreux ! Ô ciel !
-
--*who_zaraes
       Moi-même je l'admire !
 Elle meurt à tes yeux : je suis vengé, j'expire.
+
+
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ezire
+
+      Madame, que lui dire ?...
+
+Vous le verrez ici gémissant de sa gloire ;
+Demander à vos pieds pardon de sa victoire.
+
+Quoi ! Ce jeune Héros que vous-même admirez,
+Est donc haï de vous ?
+
+      Vous le fuirez ?
+
+Ciel, que puis-je penser ? Quels mouvements Madame,
+Opposés, et subits ont partagé votre âme ?
+Est-ce l'amour du Roi qui la trouble aujourd'hui ?
+Que dis-je ? Cet amour vous promet un appui
+Pour les jours d'un époux vous n'avez rien à craindre.
+Son vainqueur les protège, et lui seul est à plaindre.
+
+Achevez... quoi, Madame ?
+
+Je conçois vos tourments. Que je plains tant d'amour !
+Lorsqu'on vous fît sans moi partir de ce séjour,
+Dans le cours de vos maux je vous avais perdue ;
+Plus malheureuse encor, vous m'êtes donc rendue.
+Maïs quoi ! Sans les savoir je ressens vos douleurs.
+Daignez me confier le secret de vos pleurs.
+
+De quels malheurs, ô Ciel ! Venez-vous de m'intruire ?
+Je vous plains moins encor que je ne vous admire.
+Ne craignez plus l'éclat d'un feu si combattu :
+Votre âme est ébranlée, et non votre vertu.
+L'ardeur d'Aménophis éteinte par l'absence ,
+Désormais sur vos sens n'aura plus de puissance.
+Parlez pour Zaraès, et ne redoutez rien ;
+Son danger est pressant.
+
+Du moins il la punie, et c'est lui qu'elle offense.
+
+Je l'ai vu, dans ces lieux, rempli de sa vengeance,
+Impatient de vaincre, il a fuit ma présence.
+Il revient, il s'avance : et déjà dans Memphis,
+Sous les murs du Palais, combat Aménophis.
+Je n'ai pu parvenir jusques à vous, Madame,
+Que guidée à travers le carnage et la flamme ;
+Il a porté partout la mort et la terreur,
+Et dans ce moment même, est peut-être vainqueur ;
+Prêt d'en être accablé, le Roi le presse encore.
+
+      Qu'attendez-vous de lui ?
+Trop peu digne des soins qu'il vous coûte aujourd'hui,
+Et du tendre intérêt qu'il semble qu'Alzaïde
+Prenne encore au destin de ce guerrier perfide,
+Il n'est digne en effet que de votre courroux ;
+Vous espériez en vain qu'il suspendrait ses coups.
+Son aveugle fureur ne m'a point écoutée,
+Et contre lui mon âme est encore irritée.
+
+      À mes empressements
+Iphis a répondu par des frémissements,
+S'est armé contre moi d'un silence farouche.
+À peine votre nom est sorti de ma bouche,
+Que muette à mon tour je l'ai vu s'indigner,
+Pâlir même de rage, et d'horreur frissonner.
+
+      Hélas ! Qui vous agite encore ?
+Vous parlez d'un époux...
+
+
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pheres
+
+De mortels ennuis si vous n'étiez en proie,
+J'oserais devant vous faire éclater ma joie,
+Je vous revois, Madame, à Memphis, en ces lieux,
+Berceau de vos vertus, rrône de vos aïeux ;
+Où tout vous obéit, vous aime, et vous rappelle,
+Où Pherès tant de fois vous a prouvé son zèle,
+Moins ébloui d'un rang que je ne dois qu'à vous,
+Qu'attendri de vos maux que je ressentais tous.
+
+Vous ne le ferez plus ? Non, croyez que mon maître,
+Juge de votre époux, s'est vu forcé de l'être,
+Qu'il gémit de ses fers : qu'il se plaint d'un bonheur
+Qui l'a toujours contraint de percer votre coeur,
+De partager sans fruit votre douleur extrême,
+Et vous n'éprouvez rien qu'il n'ait senti lui-même;
+Enfin quand accablé du plus triste revers,
+Zaraès fut dompté, qu'il tomba dans nos fers,
+Que pour venger leurs maux nos peuples l'outragèrent,
+Que ses amis, ses Dieux vaincus l'abandonnèrent,
+Du coeur d'Aménophis le premier mouvement
+Fut d'oublier les droits et son ressentiment,
+Mais le bien de l'État qui régle sa puissance,
+Fit parler son Conseil, et taire sa clémence :
+Et tel est le devoir et le sort des grands Rois,
+Que même leurs vertus sont esclaves des lois.
+
+Songez qu'Onès son père usurpa l'Arabie,
+Au trône de Memphis de tout temps asservie,
+Sujet d'un souverain soumis à notre loi,
+Il s'arme pour régner, triomphe, se fait Roi,
+Meurt, et laisse à son fils cette vaste contrée,
+Sous Busiris bientôt l'Egypte déchirée
+Aux voeux de votre époux prête de la céder,
+Exigea le tribut qu'il devait accorder.
+Impatient d'un joug dont il fallait dépendre ;
+Il attaqua nos Rois qu'il aurait dû défendre ;
+Combien de fois lui-même, où par les mains d'Iphis,
+Envahit-il l'Egypte, assiégea-t-il Memphis,
+Où caché sous le nom de ce chef si fidèle,
+En la trompant toujours, sut-il triompher d'elle ?
+Nos murs étaient détruits, et nos champs ravagés,
+Quels coups il nous porta ? Le Roi nous a vengés ;
+Il vainquit ce héros, ses destins l'accablèrent ;
+Sans le connaître alors, nos Guerriers l'enchaînèrent ;
+Avec ce même Iphis dans nos fers retenu,
+Parmi d'autres captifs, il vécut inconnu ;
+Aménophis apprend qu'il est en sa puissance,
+Touché de son malheur, il cherche sa présence,
+Et de le consoler s'impose le devoir ;
+Zaraès qui le sait dédaigne de le voir ;
+Son Prince, que vers lui la pitié seule entraîne,
+N'imputant qu'à ses maux l'éclat de tant de haine,
+Retient des mouvements qu'excite son grand coeur,
+Et ne l'offenfe point par l'aspect du vainqueur :
+Mais il fait plus, Madame, un peuple téméraire
+Toujours prêt à punir l'auteur de sa misére,
+Pour perdre Zaraès se rassemblait toujours,
+De son captif cent fois le Roi sauva les jours,
+Et trop sûr qu'à ses dons votre époux insensible,
+Par haine à ses regards était inaccessible,
+Ce Monarque envers tous, clément comme les Dieux
+Lui devint invisible, se bienfaisant comme eux.
+
+Madame, oubliez-vous le pouvoir de vos charmes,
+Rendus même aujourd'hui plus touchants par vos larmes ?
+Connaissez-le du moins : Eh ! Qui de ce vainqueur
+Saurait donc mieux que vous désarmer la rigueur ?
+
+      Croiriez-vous qu'à ses grandeurs liée,
+Son âme vous dédaigne, ou vous ait oubliée ?
+Ah ! Pour vous rassurer, rapellez-vous ces jours
+Dont l'horreur a des siens empoisonné le cours :
+Ces jours, où par un père à ses voeux arrachée,
+À des noeuds inconnu vous fûtes attachée ?
+Vous vous retracerez un cruel désespoir,
+Que n'ont point ralenti l'absence et le devoir.
+
+      Espérez tout, Madame : ce héros,
+De sa gloire jaloux, vous rendra le repos.
+
+      Madame, vous apprendre,
+Que contre votre époux mon maître vient d'entendre,
+Des avis importants en ce moment reçus,
+Qui fondent les soupçons qu'on en avait conçus.
+On veut que l'Arabie à Zaraès fidèle
+Soit au joug de Memphis plus que jamais rebelle.
+Qu'agitée en secret par de puissants ressorts,
+Elle ait pour le venger, fait de nouveaux efforts.
+Ménos revient instruit de ses longnes intrigues,
+Dit que jusqu'en Syrie on a formé des brigues :
+Que Zaraès toujours présent dans ces climats,
+Du fond de sa prison ébranle tant d'États.
+
+Il faut le voir, Madame, et lui parler vous-même.
+Zaraès soupçonné, ton péril est extrême :
+Il a contre lui seul, la Cour, Memphis, les lois ;
+Contre tant d'ennemis , il n'a que votre voix ;
+Et si votre douleur ne se fait point entendre,
+À le voir succomber, il faudra vous attendre ;
+Un moment peut le perdre, un mot peut le sauver :
+Surtout craignez Ménos ardent à l'observer :
+Il le hait, il l'accuse, il le peint à son maître,
+Plus libre dans ses fers qu'un captif ne doit l'être ;
+Et le peuple demande en sa crainte agité
+Qu'il ne jouisse plus de tant de liberté.
+Je n'ai pu près du Roi vous témoigner mon zèle ;
+Attentif aux complots de l'Arabe infidèle ;
+Il ne sait pas encor qu'arrivée en ce jour,
+Pour chercher son appui vous êtes dans sa cour ;
+Mais j'apprendrai bientôt l'instant où à sa présence...
+
+      Dans ce moment, Seigneur à vos genoux
+Alzaïde...
+
+Elle vient.
+
+Seigneur, de Zaraès on menace les jours ;
+Le peuple à qui Ménos de son fupplice avide
+Apprend qu'on doit sa vie aux larmes d'Alzaïde,
+Assiége sa retraite, et jure son trépas.
+
+Oui, Seigneur, c'est Iphis surpris dans ce Palais.
+
+
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nisus
+
+Permettez que sur vous, Seigneur, sur ses exploits,
+L'Egypte et l'Univers s'expliquent par ma voix.
+En daignant m'écouter, mon Souverain peut-être,
+Prêt à juger l'ingrat, pourra mieux le connaître.
+Nos yeux sont éblouis de ses vices brillants ;
+Il n'a point de vertus, il n'a que des talents ;
+Génie impétueux, emporté vers la guerre,
+Plus propre à conquérir qu'à gouverner la terre,
+Qui régnerait en Roi moins grand qu'ambitieux,
+Opprimant les mortels, et méprisant les Dieux.
+Enchaînez à jamais un Guerrier si funeste.
+Trop heureux les humains que la faveur céleste
+De son sceptre de fer a voulu préserver !
+Il est né pour détruire, et vous pour conserver.
+Vous avez prétendu digne du rang suprême,
+Montrer votre puissance en la bornant vous-même ;
+Ami de votre peuple et de la vérité,
+Citoyen fur le trône, et Maître sans fierté,
+Don le plus précieux que le Ciel nous dispense ;
+De nos vertus enfin auteur et récompense,
+Il ne vous reste plus, pour ressembler aux Dieux,
+Que de prévoir le mal, et de punir comme eux.
+
+Iphis qui la quittait ....
+
+      Seigneur, je ne sais quel attentat s'apprête,
+Mais Zaraès n'est plus : pour se soumettre à vous.
+Son camp dans la Syrie attendra-t-il vos coups ?
+En vain pour la réduire aujourd'hui votre armée
+Part, et laisse Memphis ouverte et dééarmée.
+
+      Seigneur, daignez m'entendre.
+Des soldats étrangers parmi nous répandus,
+Ont fait fuir loin d'Iphis les nôtres éperdus ;
+Ce traître a disparu.
+

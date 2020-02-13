@@ -1,6 +1,6 @@
 ---
 identifier: chevreau_coriolan  
-creator: Chevreau, Urbain  
+creator: Chevreau, Urbain ; Georges Forestier.  
 date: 1638  
 title: Coriolan. Tragédie  
 ---

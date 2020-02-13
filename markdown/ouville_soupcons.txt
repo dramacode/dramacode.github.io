@@ -1,6 +1,6 @@
 ---
 identifier: ouville_soupcons  
-creator: Ouville, Antoine d'  
+creator: Ouville, Antoine d' ; Georges Forestier.  
 date: 1650  
 title: Les Soupçons sur les apparences. Héroïco-comédie  
 ---

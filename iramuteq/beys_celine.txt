@@ -1,226 +1,7 @@
 
 
-**** *book_ *id_privilege *date_1637 *creator_beys
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisanor
 
-Extraict du Privilege du Roy.
-
-Louis par la grace de Dieu Roy de France et de Navarre, à nos amez et feaux Conseillers les gens tenans nos Cours de Parlement, Maistre des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans ; et autres nos justiciers, et Officiers qu'il appartiendra, salut.
-Nostre bien amé Toussainct Quinet marchand Libraire, nous a fait remonstrer qu'il desiroit imprimer un livre, intitulé, Céline, ou les Freres Rivaux, ce qu'il ne peut faire sans avoir sur ce nos Lettres humblement requerant icelles : A ces causes, desirant favorablement traicter ledit exposant, Nous luy avons permis et permettons par ces presentes de faire imprimer, vendre et debiter lesdits livres en tous les lieux et terres de nostre obeyssance, par tels Imprimeurs, en telles marges et caracteres, et autant de fois qu'il voudra durant le temps et espace de neuf ans entiers et accomplis, à compter du jour qu'il sera achevé d'imprimer.
-Faisant deffences à tous Imprimeurs, Libraires et autres de quelques condition qu'ils soient d'imprimer, vendre ny distribuer ledit livre sans le consentement de l'exposant, ou de ceux qui auront droit de luy en vertu des presentes, ny mesme d'en prendre le titre ou les contrefaire en telles sortes et maniere que ce soit soubs couleur de fauce marge ou autre déguisement, sur peine aux contrevenans de trois mil livres d'amende, appliquable un tiers à nous, un tiers à l'Hostel-Dieu de Paris, et l'autre tiers à l'exposant ; de confiscation des exemplaires contrefaits, et de tous les despens dommages et interests, ainsi qu'il est plus au long contenu à l'original du present Privilege.
-Donné à Paris le vingt-septiesme jour de Janvier, l'an de grace mil six cents trente sept.
-Et de nostre regne le vingt-septiesme.
-Par le Roy en son Conseil, Demonceaux.
-Et sellé du grand seau de cire jaune.
-
-Achevé d'imprimer pour la premiere fois le 13.
-Fevrier 1637.
-
-Les exemplaires ont esté fournis.
-
-**** *book_ *id_I01 *act_ *date_1637 *creator_beys
-
--*who_agante
-Un violent desir me presse⁎ et m'importune,
-Pour apprendre ta bonne ou mauvaise fortune⁎.
-Tu portes, ce me semble, un habit emprunté,
-Pour cacher à nos yeux beaucoup de majesté.
-Je tire sans mentir des traits de ton visage,
-D'une heureuse naissance un certain tesmoignage :
-J'en voy dans ton maintien des signes apparens ;
-Appren moy ton dessein, ton païs, tes parens.
-
--*who_celine
-Madame, le malheur m'en oste la puissance,
-Je ne connois point ceux dont je tiens ma naissance :
-Il m'en souvient bien peu, des voleurs inhumains
-Me ravirent sur mer, jeune d'entre leurs mains.
-Alsen, est le pays, où je fus enlevée,
-Où d'honnestes Bergers, m'ont depuis eslevée.
-
--*who_agante
-Helas ! mais quel dessein te poussa dans ces lieux ?
-
--*who_celine
-Un vœu que j'avois fait au plus grand de nos Dieux.
-
--*who_agante
-Celine, si tu veux contenter mon envie,
-Ne songe qu'à regret à ta premiere vie ;
-Le penible mestier que ce peuple t'apprit
-Ne merita jamais d'occuper ton esprit,
-Les Dieux à ce travail ne t'ont point destinée,
-Suy l'inclination⁎ d'une fille⁎ bien née,
-Esleve ton espoir, tes pensers⁎, tes desirs,
-Et pren d'oresnavant de plus nobles plaisirs.
-Sans mentir les appas⁎ dont tu me vois pourveuë,
-Ne contentent-ils pas ton esprit et ta veuë ?
-La Grace⁎ ou la beauté des Dames de la Cour,
-A-t'elle pas le don de causer de l'amour ?
-Et quoy que tu sois fille⁎, en es-tu pas attainte ?
-Vostre naïfveté, vaut elle bien leur feinte ?
-Prise ces raretez, admire ces pourtraits,
-Dy moy, ta solitude a-t'elle tant d'attraits ?
-Vos fleurs sont elles pas moins belles qu'en peinture ?
-Et l'Art⁎ ne plaist-il pas bien plus que la Nature ?
-Nous trouvons à la Cour de quoy nous contenter,
-Les plus charmans plaisirs nous peuvent arrester,
-Et nous doutons souvent parmy tant de merveilles⁎,
-S'il nous faut employer nos yeux ou nos oreilles ;
-Mille divers objets charment⁎ en mesme temps,
-Le nombre rend souvent nos desirs mal-contens,
-Et pour les bien gouster il nous faut, ce nous semble,
-Le mesme nombre d'yeux, et d'oreilles ensemble ;
-Mais ne diras-tu pas que c'est trop nous loüer,
-Et qu'un moindre discours t'auroit fait avoüer,
-Que l'on passe à la Cour une si douce vie,
-Qu'elle attire des Dieux et l'amour et l'envie ?
-
--*who_celine 
-Madame, si Celine en ce lieu ne vous plaist,
-Elle fuira la cour toute heureuse qu'elle est.
-Les plus charmans plaisirs luy seront des supplices,
-Si vous n'y recevez ses tres-humbles services.
-Mais si vous desirez me faire cét honneur⁎,
-Vous pourrez d'un coup d'œil achever mon bon-heur.
-Vostre contentement sera ma recompense.
-
--*who_agante
-Obey moy tousjours avec cette esperance,
-Et me suy maintenant.
-
--*who_celine
-      Je la veux suivre exprés,
-Afin d'entretenir Lisanor de plus prés .
-
-**** *book_ *id_I02 *act_ *date_1637 *creator_beys
-
--*who_thersandre
-Quoy que Prince estranger, il faut que je soupire
-Du mal-heur impreveu de ce puissant Empire.
-
--*who_alcire
-Grands Princes, apprenez des destins conjurez,
-Que les plus puissans Roys sont les moins assurez⁎
-Avoüez maintenant qu'il n'est que trop croyable
-Que le lieu le plus haut est le plus effroyable.
-L'Empire des Danois s'alloit borner des Cieux,
-Mon Prince dessus luy ne voyoit que les Dieux ;
-Apprenant le respect, on oublioit la guerre,
-On ne le nommoit plus que le Roy de la terre,
-Et je croy que les Dieux, craignans que son pouvoir
-Ne chassast de nos cœurs⁎ la crainte et le devoir,
-Pour troubler son Estat ont troublé la Nature,
-Faisans un monstre autheur⁎ de sa triste avanture⁎.
-Ce Tyran fait chez nous de furieux⁎ efforts⁎,
-Il gaigne des combats, il s'empare des forts ;
-Et comme vous voyez son cœur⁎ enflé de gloire⁎,
-Veut que ses gens oysifs luy doivent la victoire ;
-Il veut combattre seul.
-
--*who_lisidas
-      Ce combat est l'objet⁎,
-De la valeur⁎ d'un Prince, et non pas d'un sujet ;
-Nous avons depuis peu quitté nostre Province,
-Pour monstrer nostre force en servant ce grand Prince,
-Et luy mesme aujourd'huy nous ravit ce bon-heur.
-
--*who_alcire
-Je sçay bien que le Roy cherit vostre valeur⁎,
-Mais qu'il ne veut pas perdre une si belle vie,
-Et tasche d'espargner le sang de Moscovie.
-
--*who_thersandre
-Brise là ce discours, Alcire, mais dy moy,
-Quel est ce Lisanor tant estimé du Roy ?
-
--*who_alcire
-C'est un jeune estranger, inconnu de naissance,
-Qui fait de sa vertu⁎ dépendre sa puissance,
-Qui mesprise les biens, et qui cherit l'honneur⁎.
-
--*who_lisidas
-Cette vertu⁎ n'est rien que beaucoup de bon-heur.
-Cet estranger est grand, quoy qu'il vienne de naistre,
-Mais quelle occasion l'a si bien fait connaistre ?
-
--*who_alcire
-Il ne fut pas plustost arrivé dans le port,
-Que passant la forest, par la faveur du sort,
-Il vit contre mon Prince une Laye enragée,
-Et sa Majesté seule au combat engagée ;
-Je vins bien-tost apres, emmenant avec moy
-Une jeune beaute que je fis voir au Roy ;
-Mais luy me regardant l'ame d'ayse⁎ ravie,
-Vous voyez, me dit-il, à qui je dois la vie ;
-Je contemplay ce Mars en habit de Berger,
-Et le monstre abbatu m'assura⁎ du danger⁎.
-Mon Prince comparant ces deux rares merveilles⁎,
-Pareilles en habits, en beauté sans pareilles ;
-Alcire, me dit-il, je voy dedans leurs yeux,
-Je ne sçay quoy de grand et de prodigieux :
-Il ayma Lisanor d'une amitié puissante,
-Et presenta la fille⁎ à la Princesse Agante.
-
--*who_thersandre
-Comment la nomme-t'on ?
-
--*who_alcire
-      Celine.
-
--*who_thersandre
-      Alcire, adieu !
-Nous te remercions, laisse-nous en ce lieu.
-
--*who_lisidas
-Et c'est ce Lisanor si digne de loüanges !
-Voit-on dans les Romans des choses plus estranges⁎ ?
-
--*who_thersandre
-Ce puissant Fondateur de l'Empire Romain
-Fut conduit toutefois d'une pareille main.
-La fortune⁎ se plaist à ces metamorphoses,
-D'une basse origine on voit de grandes choses.
-Un heureux aveuglé souvent rencontre mieux,
-Qu'un malheureux conduit avecque de bons yeux ;
-Le hazard nous a mis dans le throsne où nous sommes,
-La fortune⁎ se rit de la raison des hommes,
-L'un cherchant son bon-heur en destourne ses pas,
-Et l'autre le rencontre en ne le cherchant pas.
-
--*who_lisidas
-Qu'il gaigne des combats sur la terre et sur l'onde⁎,
-Et qu'il se rende enfin maistre de tout le monde.
-
--*who_thersandre
-Je ne suis pas fasché qu'il soit dans cét estat,
-S'il ne me privoit point de l'honneur⁎ du combat,
-Et des moyens de plaire à la Princesse Agante.
-
--*who_lisidas
-Moy de plaire à sa sœur.
-
--*who_thersandre
-      Mais perdons cette attente,
-Et cherchons maintenant par des soins⁎ curieux ,
-Ce qui peut rendre un Prince agreable à leurs yeux.
-Mon frere jettons nous aux rets qu'elles nous tendent,
-Peu d'hommes dans le monde à bon droit y pretendent⁎,
-On ne sçauroit trouver de partis plus égaux,
-On ne voit point icy de troupes de Rivaux.
-Tous les peuvent aymer, mais il faut qu'ils se taisent,
-Et puis elles n'ont pas les Amans⁎ qui leur plaisent.
-Nous n'osons pas aymer toutes sortes d'objets⁎,
-Et toujours nostre Hymen dépend de nos sujets.
-
--*who_lisidas
-Rendons nous donc, mon frere, et doux et necessaires,
-Et dans leur entretien⁎, et parmy leurs affaires,
-Et joignons s'il se peut pour les avoir un jour,
-La faveur de ce peuple avecque leur amour.
-
-**** *book_ *id_I03 *act_ *date_1637 *creator_beys
-
--*who_lisanor
 Quoy peux-tu bien encor esperer du secours ?
 Croy-tu que ma raison se rende à tes discours,
 Et que passionné pour la gloire⁎ des armes,
@@ -234,7 +15,250 @@ Pense-tu resister au dessein que j'ay pris ?
 Dessein dont les effets tesmoignent la puissance,
 Dessein qui m'a tiré du lieu de ma naissance.
 
--*who_celine
+Si ta moindre action peut obliger⁎ mon ame,
+Je suis desja tout prest de ceder à ta flamme.
+
+      Ce mespris est un crime⁎ odieux,
+Differente d'humeur⁎ lors que tu me veux plaire,
+Au lieu de mon amour tu gagnes ma colère,
+L'honneur⁎ sur ton esprit a bien peu de pouvoir,
+Pour l'avoir je te fuy, tu le fuis pour m'avoir,
+Ce que j'ayme est icy le sujet de ta fuitte.
+
+Certes si je pouvois, je me fuirois moy-mesme.
+
+Je blasme justement un esprit amoureux⁎.
+
+Ton courage⁎ t'a fait mespriser ton honneur⁎.
+
+Quand apres le tombeau la gloire⁎ nous doit suivre,
+C'est un plus grand bon-heur de mourir que de vivre ;
+Ce trespas qui nous vient d'un sujet glorieux⁎,
+Nous doit rendre immortels aussi bien que les Dieux.
+Ces honneurs⁎ eternels où mon espoir se fonde,
+Estoient l'unique prix des conquerans du monde,
+Qui mesprisans leurs biens, cherchoient dans le trespas
+Un bon-heur qu'en vivant ils ne possedoient pas.
+
+Mon trespas seulement sera ma recompense.
+
+Adieu, car voicy l'heure au combat assignée,
+Un meilleur entretien⁎ doit finir la journée.
+
+Mon songe⁎ du matin n'a pas esté trompeur,
+Je voy cét ennemy qui m'a tant fait de peur,
+Si mes justes raisons n'arrestent sa poursuitte,
+Il faut d'oresnavant le vaincre par ma fuitte.
+
+Helas ! j'ay tant blasmé vostre perseverance,
+Ne me poursuivez plus, perdez vostre esperance.
+ 
+On prend de la façon plaisir à s'abuser :
+Un songe⁎ quoy que faux, vous peut favoriser,
+Et telle qui se croit de mille appas⁎ pourveuë,
+Pense en captiver cent qui ne l'ont jamais veuë,
+Enfin vous pouvez bien vous abuser aussi,
+Si je m'amuse encor à discourir icy.
+
+Madame, c'est à tort que vous me demandez,
+Un bien que je n'ay plus, et que vous possedez.
+Un jour vostre grandeur permit que je luy fisse
+Le vœu particulier d'un eternel service.
+
+Pour vous, je quitteray la lumiere du jour,
+J'iray dans ces pays, que le Soleil abhore,
+Pour vous promettre plus, que promettray-je encore ?
+Vous ne pouvez pas moins dessus moy que les Dieux,
+Et pour vous obeïr, je laisseray ces lieux,
+Si mon bannissement, vous contente, il m'oblige⁎.
+
+C'est croistre le desir, que j'ay de vous vanger.
+Je desdaigne pour vous les vents, et le tonnerre,
+Les naufrages, les feux, les tremblemens de terre,
+Enfin ce que le monde a de plus rigoureux,
+En ce lieu n'a pour moy qu'un visage amoureux⁎.
+
+Madame, je ne puis vous servir qu'à demy.
+Puisque vous me donnez un si foible ennemy,
+Sans mentir j'attendois quelque chose de pire.
+
+Que je sçache son nom ?
+
+Vous parlez du plus grand de tous mes ennemis,
+Mais que j'ay toutefois à mon pouvoir soumis :
+Elle mesme qui brusle a ces puissantes armes,
+Qui m'ont fait resister au pouvoir de ses charmes⁎.
+
+      C'est la raison.
+
+Quoy qu'une ame s'esgare en ce fascheux⁎ tourment⁎,
+Elle jouyt parfois de quelque bon moment.
+Une fureur⁎ extresme a fort peu de durée,
+Et l'esprit est rassis quand elle est moderée.
+Lors donc que ses souspirs seroient moins irritez,
+Son visage plus gay, ses sens plus arrestez,
+Et que je penserois sa fureur⁎ appaisée,
+Ses esprits plus rassis, son ame plus posée,
+Enfin qu'elle seroit capable de raison,
+Alors je tascherois de rompre sa prison.
+Et voulant ramener son esprit à luy mesme,
+Je le destournerois de cet objet⁎ qu'elle ayme.
+Je luy descouvrirois⁎ sa laideur, ses defaux,
+Et s'il n'en avoit point j'en trouverois de faux,
+Je ferois bien commun, ce qui seroit bien rare,
+D'un esprit bien subtil, j'en ferois un barbare⁎ :
+Au plus beau je peindrois un visage odieux.
+
+      Apres je dirois la tristesse,
+Qui punit les amans⁎ ; la douleur qui les presse⁎.
+Ces larmes, ces souspirs, ces craintes, ces transports,
+Qui changent à la fois leurs ames, et leurs corps.
+Que l'on voit leurs plaisirs troublez de jalousie ;
+Que tousjours leur esprit est dans la frenesie,
+Et qu'on ne souffre point de peines aux enfers,
+Qui puissent égaler leurs flammes et leurs fers⁎.
+
+      O Dieux ! que cette amour m'irrite :
+Je m'en deffendray bien sur mon peu de merite.
+Mais comment son effect se peut-il reprimer ?
+
+Mais je trouve pour moy que c'est estre imprudant,
+Que de penser ainsi le vaincre en luy cedant ;
+Madame, vos discours implorent mon courage⁎,
+Pour me faire endurer un si sensible outrage ;
+C'est me rendre vainqueur pour entrer en prison.
+Et montrer ma valeur⁎ pour trahir ma raison.
+
+Justes Dieux, que d'ennuis⁎ m'arrivent à la fois !
+
+Je suis vostre sujet adorable Princesse,
+Songez à vostre gloire⁎ et voyez ma bassesse⁎.
+
+La fortune⁎ jamais ne retint mes desirs,
+Et jamais mon esprit n'y treuva ses plaisirs.
+
+Je ne puis discerner ce qui me plaist le mieux,
+Des mains, du sein, du front, de la bouche ou des yeux :
+Vos biens n'égalent point encore vos merites,
+Et s'ils les égaloient ils seroient sans limites :
+Mais ils n'ont point rendu mes esprits aveuglez,
+J'ay pour vous seulement des mouvemens reglez :
+Je ne suis point esmeu⁎ de ces puissans orages,
+Qui troublent des amans⁎ les sens, et les courages⁎.
+Non que j'aye jamais par un profond discours,
+De cette passion⁎ interrompu le cours :
+La nature m'en a la puissance ravie,
+Dés le jour mal-heureux que je receus la vie :
+Mais je souhaitterois qu'elle-meme en ce jour,
+M'eust arraché les yeux, ou donné de l'amour.
+
+Non, vos yeux sont de flamme, et mon cœur⁎ est de glace,
+Madame mon esprit ne peut dissimuler⁎ ;
+S'il vous plaist je diray que je me sens brusler,
+Que l'excez de l'amour ma volonté transporte⁎,
+Qu'on n'esprouva jamais de passion⁎ plus forte.
+Enfin que ces tourmens⁎ vont causer mon trespas,
+Mais je vous promettray ce qui ne sera pas.
+
+O Dieux quel monstre c'est qu'une femme offencée !
+Madame ?
+
+Il m'eust peu descouvrir⁎ s'il ne s'en fut allé.
+Ce barbare⁎ jamais ne m'a voulu complaire.
+ 
+Quel pays servira de retraitte à ma fuite,
+Comment m'eschapperay-je, Amour, de ta poursuite ?
+En quel antre secret porteray-je ces yeux
+Dont tu fais tous les jours quelque esprit furieux⁎ ?
+Iray-je derechef vivre en la solitude ?
+Mais j'y fus autrefois⁎ en mesme inquietude⁎,
+Que je suis maintenant en ces lieux estrangers :
+Tu tourmentes autant les Roys que les Bergers,
+Et qui seroit tout seul dans un pays sauvage,
+Tu luy ferois aymer une fleur, un rivage.
+Une fontaine, un bois raviroit ses esprits ;
+Et de son ombre mesme il se verroit espris :
+Un tronc te serviroit, pour amollir les ames,
+Avecque des glaçons, tu produirois des flammes,
+Tu nous rendrois à nous d'adorables objets⁎,
+Et nous mesmes serions à nous mesmes sujets :
+Je ne te vaincray donc jamais par mon absence ;
+Je devray ma victoire à ma seule puissance.
+Qu'Agante, que Celine entrent dans ta prison :
+La pitié ne sçauroit esbranler ma raison.
+Ne voicy pas encor un sujet de ma gloire⁎ ?
+Ta honte, foible amour, va suivre ma victoire.
+
+Jamais un tel dessein n'occupa ma pensee.
+
+Oüy.
+
+La mienne en ces sujets ne peut estre occupee,
+Ce dessein tient du lasche ou bien du furieux⁎.
+Vostre fer⁎ n'a-t'il point d'objet⁎ plus glorieux⁎ ?
+
+Et moy de cet objet⁎ de vos affections⁎.
+ 
+Quelque jour vous verrez son courage⁎ soumis :
+Venez, je crain de faire encor des ennemis.
+
+Le jour qu'on emporta cette heureuse victoire,
+Et que tant de voleurs perirent sur les eaux,
+Un soldat la treuva dans un de leurs vaisseaux,
+Et l'a depuis ce temps fait nourrir dans nostre Isle.
+
+Il me reconnoistroit.
+
+      Non, Sire, le voicy.
+
+Vous devois-je grand Roy, le bien de ma naissance ?
+
+Esperez seulement.
+
+      Ma sœur.
+Que de biens à la fois !
+
+Oubliez mes desdains, oubliez mes refus.
+
+Monsieur, j'en reçois plus que je n'en puis donner.
+Victorieux amour, il te faut couronner.
+Beauté que je fuiois, et qu'aujourd'huy j'adore⁎,
+Dois-je pas estre honteux si tu m'aymes encore ?
+Puis-je sans t'offencer pretendre⁎ à tes amours,
+Et dois-tu pas haïr ma veuë et mes discours ?
+Appelle moy cruel⁎, traistre, perfide, lasche.
+
+      Ton amitié me fasche.
+Mon crime⁎ et ta faveur me viennent affliger,
+Mon cœur⁎ en m'obligeant⁎ c'est me desobliger.
+Tu m'offres un bon-heur dont je suis incapable.
+
+Songes que si l'amour que je porte en mon sein,
+A commencé bien tard, il n'aura point de fin.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celine
+
+Madame, le malheur m'en oste la puissance,
+Je ne connois point ceux dont je tiens ma naissance :
+Il m'en souvient bien peu, des voleurs inhumains
+Me ravirent sur mer, jeune d'entre leurs mains.
+Alsen, est le pays, où je fus enlevée,
+Où d'honnestes Bergers, m'ont depuis eslevée.
+
+Un vœu que j'avois fait au plus grand de nos Dieux.
+ 
+Madame, si Celine en ce lieu ne vous plaist,
+Elle fuira la cour toute heureuse qu'elle est.
+Les plus charmans plaisirs luy seront des supplices,
+Si vous n'y recevez ses tres-humbles services.
+Mais si vous desirez me faire cét honneur⁎,
+Vous pourrez d'un coup d'œil achever mon bon-heur.
+Vostre contentement sera ma recompense.
+
+      Je la veux suivre exprés,
+Afin d'entretenir Lisanor de plus prés .
+
 Mon amour a produit de si rares effets,
 Que ceux de ta valeur⁎ me semblent imparfaits ;
 J'ay quitté comme toy nos bois et nos campagnes,
@@ -246,11 +270,6 @@ Je te veux maintenant faire voir l'avantage,
 Que ma fidelle⁎ amour a dessus ta valeur⁎.
 Dieux ! m'en puis-je vanter sans changer de couleur ?
 
--*who_lisanor
-Si ta moindre action peut obliger⁎ mon ame,
-Je suis desja tout prest de ceder à ta flamme.
-
--*who_celine
 Ce qui seul est l'objet⁎ des bonnes actions,
 Qui seul nous fait forcer nos inclinations⁎,
 Pour qui nous estouffons nostre amoureuse⁎ plainte,
@@ -262,54 +281,22 @@ Met une ame en repos et la sauve du vice,
 C'est ce que j'ay quitté pour te suivre en ces lieux.
 C'est l'honneur⁎.
 
--*who_lisanor
-      Ce mespris est un crime⁎ odieux,
-Differente d'humeur⁎ lors que tu me veux plaire,
-Au lieu de mon amour tu gagnes ma colère,
-L'honneur⁎ sur ton esprit a bien peu de pouvoir,
-Pour l'avoir je te fuy, tu le fuis pour m'avoir,
-Ce que j'ayme est icy le sujet de ta fuitte.
-
--*who_celine
 Que dis-tu de l'objet⁎ de ma longue poursuitte ?
 Tu me dois confesser que tu l'aymes aussy ;
 Car c'est toy seulement que je recherche icy ;
 Au moins en cet endroit tu cheris ce que j'ayme.
 
--*who_lisanor
-Certes si je pouvois, je me fuirois moy-mesme.
-
--*who_celine
 Quoy n'estime-tu pas un esprit genereux⁎ ?
 
--*who_lisanor
-Je blasme justement un esprit amoureux⁎.
-
--*who_celine
 Au moins si mon amour merite cet outrage,
 Tu ne te deffends pas d'honnorer mon courage⁎.
 
--*who_lisanor
-Ton courage⁎ t'a fait mespriser ton honneur⁎.
-
--*who_celine
 Enfin si je ne puis luy devoir mon bon-heur,
 Si ta temerité ma constance mesprise,
 Que la peur du trespas rompe ton entreprise.
 Maintenant tes discours sont faux ou superflus ;
 Nostre plus grand malheur c'est de ne vivre plus.
 
--*who_lisanor
-Quand apres le tombeau la gloire⁎ nous doit suivre,
-C'est un plus grand bon-heur de mourir que de vivre ;
-Ce trespas qui nous vient d'un sujet glorieux⁎,
-Nous doit rendre immortels aussi bien que les Dieux.
-Ces honneurs⁎ eternels où mon espoir se fonde,
-Estoient l'unique prix des conquerans du monde,
-Qui mesprisans leurs biens, cherchoient dans le trespas
-Un bon-heur qu'en vivant ils ne possedoient pas.
-
--*who_celine
 Tu fais Ambition, des biens imaginaires,
 Tu mets dessous les pieds les grandeurs ordinaires ;
 Et laissant ce qu'on voit sur la terre de beau,
@@ -343,11 +330,7 @@ Qui doit un jour loüer et plaindre ta fortune⁎,
 Et jamais ton esprit ne sera satisfait,
 De l'exploict genereux⁎ que ton bras aura fait.
 Helas ! que ton courage⁎ abbaisse ta prudence⁎ !
-
--*who_lisanor
-Mon trespas seulement sera ma recompense.
-
--*who_celine 
+ 
 A ces mots, mon discours est en confusion,
 Tu n'as pour me punir que trop d'occasion,
 Tu ne peux en mourant m'empescher de te suivre,
@@ -355,18 +338,246 @@ Mais tu peux si tu veux, et me punir et vivre,
 Tu vivras pour haïr et pour te faire aymer,
 Et tu me pourras voir, et vivre et consommer.
 
--*who_lisanor
-Adieu, car voicy l'heure au combat assignée,
-Un meilleur entretien⁎ doit finir la journée.
-
--*who_celine
 Puissant Dieu, juste autheur⁎ de mon affection⁎,
 Empesche les effets de son ambition.
 Fin du premier Acte.
+ 
+Dieux que par une estrange⁎ et funeste⁎ avanture⁎,
+Nous voyons pervertir l'ordre de la Nature !
+Qu'une horrible fureur⁎ tyrannise nos sens !
+Et qu'on doit regretter les siecles innocens⁎ !
+On estoit autrefois⁎ exempt de cette flamme,
+On tiroit ses plaisirs du repos de son ame :
+On ne connoissoit point la hayne et le mespris,
+Mais l'amour mutuel enflammoit les esprits ;
+Les pleurs et les soupirs n'estoient point en usage,
+Quand on avoit depeint l'amour sur son visage,
+L'aymé tout à l'instant se sentoit enflammer,
+Et pour se faire aymer, il ne falloit qu'aymer.
+Qu'aujourd'huy ce demon tient un cruel⁎ Empire !
+Et qu'inutillement tous les jours je souspire !
+Que j'ay fait de desseins, que j'ay versé de pleurs !
+Helas ! combien de fois ay-je dit mes douleurs,
+Dans la plus reculée et triste solitude,
+Sans trouver de remede à mon inquietude⁎ ?
+Ah ! je voy bien qu'en vain je la viens implorer ;
+Ce silence profond m'invite à souspirer,
+Il semble que ces bois se plaisent à m'entendre,
+Ces branches à les voir ont bien peur de s'estendre,
+Le vent en s'approchant tasche de s'alentir,
+De peur que son doux bruit vienne me divertir,
+Et l'eau qui va baignant cette aymable verdure,
+Evite les cailloux de crainte du murmure,
+Toy-mesme Lisanor que je viens rechercher,
+Je ne t'esprouve pas moins dur que ce rocher .
+Le voicy, je suis d'ayse⁎, et de crainte ravie,
+Si sa voix fait mourir, ses yeux rendent la vie.
+ 
+Dieux comme il se retire ! attends encor un peu,
+Je n'ay plus à pousser qu'un petit trait de feu.
 
-**** *book_ *id_II01 *act_ *date_1637 *creator_beys
+Des presages certains me forcent d'esperer,
+Songez qu'aucun mal-heur n'a pû nous separer,
+La Mer en nous portant ne fut jamais esmeuë⁎,
+Jamais je ne perdis vostre vaisseau de veuë ;
+Il sembloit que Neptune applanissoit les eaux,
+Et qu'un Pilote seul gouvernoit⁎ deux vaisseaux,
+Les rames aux Zephirs cederent leur usage,
+Et ce triste element fit tousjours bon visage,
+Vostre navire fut devant le nostre à bord,
+Et dans cette forest qui va jusques au port,
+M'esgarant je cherchois le chemin de la ville,
+Et dans le mesme lieu je trouvay mon azile ;
+Là le Roy nous connut, et dés le mesme jour,
+Sa liberalité nous retint à la Cour.
+Si l'onde⁎, l'air, le vent, si le Roy nous assemble,
+Ne souffrirez⁎ vous pas que nous soyons ensemble ?
 
--*who_thersandre
+Ah ! mes discours sont faux, et mes plaintes sont vaines,
+Si j'appelle ses yeux les autheurs⁎ de mes peines,
+Comme pour me guerir, il cesse de me voir,
+Et sa fuitte aussi-tost m'en oste le pouvoir.
+
+Je sçay ce que je dois aux Princes comme vous.
+
+Sans mentir ce pourtrait ne ressembleroit pas,
+Et puis j'ay tousjours eu l'impression bien forte,
+Je ne pourrois jamais me tromper de la sorte ;
+Vrayement si je croyois l'excez de vostre amour,
+Vous auriez dequoy faire un bon conte à la Cour.
+
+Excusez s'il vous plaist mon incivilité.
+
+A la fin c'est trop vivre en ma perseverance,
+Le moyen que je puisse aymer sans esperance ?
+Et quel juste sujet puis-je avoir d'esperer,
+Un bien où la raison me deffend d'aspirer ?
+Si quitter pour le voir le lieu de ma naissance,
+Sur ce barbare⁎ esprit n'a point eu de puissance :
+Si ce que j'ay souffert parmy des Estrangers ;
+Si mes pertes, mes maux, mes craintes, mes dangers⁎,
+Pour attirer son cœur⁎ n'ont jamais eu de charmes⁎,
+Que pourront maintenant mes soupirs, et mes larmes ?
+Helas ! s'il s'est moqué de mon affection⁎,
+Lors que je l'esgalois en sa condition :
+Luy doit-elle pas estre encor plus importune,
+Depuis que sa valeur⁎ esleve sa fortune⁎.
+Dieux ! punissez un peu ses mespris rigoureux,
+Que je sois plus aymée, et qu'il soit moins heureux.
+Il faut à ma douleur faire un peu de contrainte⁎,
+J'ay peur que la Princesse ayt escouté ma plainte.
+
+Puisque vostre grandeur approuve mon service,
+Je peus bien m'exempter de ce fascheux⁎ supplice.
+Madame, vostre esprit m'offre des fers⁎ si dous ;
+Que je promets icy de n'obeïr qu'à vous :
+Si mes fidelles⁎ soins vous peuvent satisfaire.
+
+Madame, vous pouvez vous fier sur ma foy⁎.
+
+L'honneur⁎ de vous servir a borné mon envie,
+Vous m'offrez des faveurs, et vous m'ostez la vie.
+En vain espoir trompeur tu me viens secourir ;
+Agante a de l'amour, Celine doit mourir ;
+Que me faut-il choisir du fer⁎, ou de la flamme ?
+Helas ! le moindre mot me peut arracher l'ame.
+
+Lisanor depuis cet instant ;
+Que tes vertus⁎ me plûrent tant,
+Toujours le mesme feu me plaist et m'importune,
+
+Je ne sçaurois aymer ni les champs, ni la Cour,
+Mais combien que je voye accroistre ma fortune⁎,
+Je ne ressens jamais accroistre mon amour.
+Cela suffit-il pas pour me priver du jour ?
+
+Deslors par l'advis de mes yeux,
+Qui te virent si gracieux,
+Je te voulus donner mon ame toute entiere.
+Offre moy maintenant ta constance et ta foy⁎,
+Repens-toy si tu veux de ta froideur premiere,
+Tu n'as rien d'avantage à desirer de moy,
+Ah sortons de ses fers⁎, puis qu'elle est sous sa loy !
+Sçachons auparavant si cette amour le touche,
+J'entendray mon arrest prononcé de sa bouche,
+Et j'auray ses beaux yeux pour tesmoins de ma mort !
+Monstrons nostre douleur par un dernier effort⁎,
+Chassons de nostre esprit le respect et la crainte,
+Et ne retenons plus l'amour dans sa contrainte⁎.
+Agante dans ces vers luy presente sa foy⁎,
+C'est le mesme present qu'il a receu de moy,
+Elle dit que l'amour a causé son martyre,
+Et ce puissant amour les mesmes traits⁎ me tire,
+Puisque nous nous plaignons de ce mesme demon,
+Son billet doit porter et sa plainte et mon nom.
+
+Je ne vous tiendray point de discours superflus ;
+Respondez un seul mot, et je ne parle plus :
+Jettez un peu les yeux dessus cette escriture ;
+Ce qu'Agante vous dit, c'est mon cœur⁎ qui l'endure.
+
+O Dieux !
+
+      Helas, sçachez l'autheur⁎ de la querelle.
+Faites un peu cesser ce combat hazardeux.
+Quoy mon amour peut-il vous obliger⁎ tous deux ?
+Que feray-je en ce lieu ? qui voulez vous que j'ayme ?
+Si vous me poursuivez, il me poursuit de mesme.
+Il commence à se plaindre alors que vous cessez.
+Vous venez, il me laisse : il vient, vous me laissez.
+Qui recevra mes vœux ?
+
+Ah ! ne condamnez pas un discours veritable.
+
+Il ne me peut reduire au point de vous aymer.
+
+Parmi tant de froideur appaisez vostre flamme.
+
+O Dieux je suis perduë !
+
+Celuy que la fureur⁎ peut mettre dans le sein.
+
+      Mais que ne peut-il pas ?
+
+Je ne sentis jamais une froideur pareille :
+Dans cét estonnement⁎, je ne sçay si je vis,
+Mon esprit m'abandonne, et mes sens sont ravis :
+Plus je voy ce vieillard, plus je le considere ;
+Plus je me sens contrainte à l'appeller mon pere ;
+Je ne puis resister à ce puissant transport ;
+Oüy : c'est là son visage, et sa voix et son port :
+Mon cher pere, est-ce vous que je revois encore ?
+Ah ! que je vous embrasse ou que je vous adore⁎ :
+Accordez ces faveurs à ma sainte amitié ;
+Pleurez en me voyant, ou d'aise ou de pitié.
+Je suis celle qui fut d'entre vos mains ravie,
+Et c'est à vous Chrysante à qui je dois la vie.
+
+Vous ignorez mon nom, et je vous doy mon bien !
+
+Sire, pour mon païs, je ne le puis sçavoir.
+Je n'en ay dans l'esprit qu'une image confuse,
+L'âge auquel j'en sortis me doit servir d'excuse :
+Mais je me ressouviens à peu prés du danger⁎,
+Qui m'a poussé depuis chez un peuple estranger.
+Je fremis quand je pense aux efforts⁎ d'un Corsaire,
+Qui me prit sur la mer dans les bras de mon pere.
+Pour lors je ne pouvois ressentir mes mal-heurs,
+Mais les pleurs qu'il versa provoquerent mes pleurs
+Ce danger⁎ seulement me reste en la memoire.
+
+Me fieray-je à mes yeux ? croiray-je mes oreilles ?
+
+Madame, obligez⁎-moy de laisser ce discours,
+Je fais encore vœu de vous servir tousjours.
+
+Que fais-je ! où suis-je ? ô Dieux ! que j'ay l'esprit confus.
+
+Mes delices, mon tout.
+
+Cheris moy seulement, et tu n'es plus coupable.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_thersandre
+
+Quoy que Prince estranger, il faut que je soupire
+Du mal-heur impreveu de ce puissant Empire.
+
+Brise là ce discours, Alcire, mais dy moy,
+Quel est ce Lisanor tant estimé du Roy ?
+
+Comment la nomme-t'on ?
+
+      Alcire, adieu !
+Nous te remercions, laisse-nous en ce lieu.
+
+Ce puissant Fondateur de l'Empire Romain
+Fut conduit toutefois d'une pareille main.
+La fortune⁎ se plaist à ces metamorphoses,
+D'une basse origine on voit de grandes choses.
+Un heureux aveuglé souvent rencontre mieux,
+Qu'un malheureux conduit avecque de bons yeux ;
+Le hazard nous a mis dans le throsne où nous sommes,
+La fortune⁎ se rit de la raison des hommes,
+L'un cherchant son bon-heur en destourne ses pas,
+Et l'autre le rencontre en ne le cherchant pas.
+
+Je ne suis pas fasché qu'il soit dans cét estat,
+S'il ne me privoit point de l'honneur⁎ du combat,
+Et des moyens de plaire à la Princesse Agante.
+
+      Mais perdons cette attente,
+Et cherchons maintenant par des soins⁎ curieux ,
+Ce qui peut rendre un Prince agreable à leurs yeux.
+Mon frere jettons nous aux rets qu'elles nous tendent,
+Peu d'hommes dans le monde à bon droit y pretendent⁎,
+On ne sçauroit trouver de partis plus égaux,
+On ne voit point icy de troupes de Rivaux.
+Tous les peuvent aymer, mais il faut qu'ils se taisent,
+Et puis elles n'ont pas les Amans⁎ qui leur plaisent.
+Nous n'osons pas aymer toutes sortes d'objets⁎,
+Et toujours nostre Hymen dépend de nos sujets.
+
 Celine sur Agante emporte la victoire,
 Aupres de tant d'attraits le Sceptre perd sa gloire⁎,
 Sa beaute me plaist mieux que la grandeur des Rois,
@@ -428,58 +639,17 @@ Obligent⁎ à bon droict les amans⁎ à la plainte.
 Mais quand on est aymé, les pleurs sont superflus,
 Lors que nous possedons nous ne souspirons plus.
 
--*who_lisidas
-Vous supposez, mon frere, une chose impossible,
-Ah si cette beaute n'estoit pas insensible !
-Si j'estois seulement flatté⁎ d'un peu d'espoir,
-Que mes pleurs quelque jour la peussent esmouvoir⁎,
-Que vous verriez bien-tost mes actions changées,
-Et dessous le pouvoir de mon ame rangées ;
-Mais sa rigueur⁎ à voir naist de mon amitié,
-Et ma douleur me rend indigne de pitié ;
-Elle hait mes discours, se rit de mon silence,
-Et ne donne à mes vœux que le nom d'insolence⁎,
-Enfin ce mesme amour qui fait aymer me nuit.
-
--*who_thersandre
 Que me dittes vous là, quoy Caliste vous fuit ?
 
--*who_lisidas
-Non c'est moy qui la fuis.
-
--*who_thersandre
       D'où naist donc vostre plainte.
 
--*who_lisidas
-Qu'à descouvrir⁎ son mal on souffre de contrainte⁎ !
-Voicy le seul sujet du mal-heur qui me suit,
-Je la fuis pour aymer une autre qui me fuit.
-
--*who_thersandre
 Vous mesprisez, mon frere, une grande Princesse.
 
--*who_lisidas
-Devant un si grand Dieu, cette grandeur s'abbaisse,
-L'amour ne connoist point les regles du devoir.
-
--*who_thersandre
 L'amour d'une Bergere a sur moy ce pouvoir.
 
--*who_lisidas
-Enfin ne croyez pas ma bouche mensongere,
-Quand elle vous dira que j'ayme une Bergere.
-
--*who_thersandre
 O Dieux, qu'ay-je entendu ! Mais quel est cét objet⁎
 Qui peut d'un si grand Prince, en faire son sujet ?
 
--*who_lisidas
-Celle qu'on vous monstroit aujourd'huy dans le temple ;
-Celine, confessez qu'elle n'a point d'exemple,
-Et que cette beauté qui mesprise le fard,
-Fait voir que la Nature est au dessus de l'Art⁎.
-
--*who_thersandre
 Faisons-luy mespriser ces attraits veritables.
 Mon frere, sommes-nous dans le siecle des fables⁎,
 Où tous les Dieux jaloux du bon-heur des humains,
@@ -489,11 +659,6 @@ Venoient parmy les bois adorer⁎ des Bergeres ?
 Si vous estes jamais de ces pauvres amans⁎,
 Vous ferez augmenter le nombre des Romans.
 
--*who_lisidas
-Pourveu que sa beauté ne passe point pour fable⁎,
-Sans doute on jugera mon amour veritable.
-
--*who_thersandre
 Je ne puis approuver ses traits⁎, ny vos liens,
 Et je trouve vos yeux plus mauvais que les siens.
 Ceste vaine beauté dont vostre ame est saisie,
@@ -513,29 +678,6 @@ Mais on la voit bien-tost finir avec les charmes⁎,
 Dont les Demons trompoient nos esprits et nos yeux,
 Et comme ils sembloient beaux, ils nous sont odieux.
 
--*who_lisidas 
-Ah que ces vains discours font souffrir mes oreilles !
-Que mon esprit ayt fait ces divines merveilles⁎.
-Et que pour augmenter luy mesme sa douleur
-Il donne à ces beaux yeux les traits⁎ et la chaleur ?
-Il ne pourroit avoir une si belle image,
-Si mes yeux autrefois⁎ n'avoient veu son visage,
-Reservons seulement cette puissance aux Dieux,
-Icy bas nostre esprit ne voit que par nos yeux,
-Ce sens qui fait chez nous tant de metamorphoses,
-Doit recevoir d'ailleurs les images des choses,
-Et ne peut composer ces visages divers,
-Que des traicts differens qu'on voit en l'univers ;
-Il ne fait qu'un pourtraict de toutes les idées,
-Des charmantes beautez que l'œil a regardées.
-Comme un Peintre qui tire ou des eaux, ou des fleurs
-Ne fait qu'une couleur de diverses couleurs.
-Mais pour representer ses graces⁎ nompareilles,
-Tout le monde n'a pas d'assez rares merveilles⁎.
-Les Dieux devroient changer les roses et les lys,
-Et les plus beaux objets⁎ devroient estre embellis.
-
--*who_thersandre
 De toutes ces raisons, mon esprit se deffie,
 Mais donnons quelque chose à la Philosophie.
 J'ay peu de passion⁎ pour les graces⁎ du corps :
@@ -553,13 +695,6 @@ Je l'ayme de l'amour dont j'ayme son image.
 Je ne sçaurois jamais l'appeler mon vainqueur,
 Elle retient mes sens, mais je retiens mon cœur⁎.
 
--*who_lisidas
-Aussi bien que son corps son esprit est aymable,
-Je n'y reconnois rien qui ne soit admirable,
-Tous deux sont accomplis, leur pouvoir est égal,
-Si vous aymez l'esprit vous estes mon rival.
-
--*who_thersandre
 Il n'est rien de plus vray que cette conjecture,
 Dissimulons⁎ pourtant. Je sçay que la nature,
 De son seul mouvement accorde le pouvoir,
@@ -581,19 +716,6 @@ La Nature l'a fait, mais l'estude l'affine ;
 Et l'esprit de Celine a causé vostre amour ;
 Cherissez, cherissez quelque objet⁎ à la Cour.
 
--*who_lisidas
-En ce lieu les esprits sont trop pleins d'artifices⁎,
-Leurs plus grandes vertu⁎ sont pour moy de grands vices,
-Je ne voy rien que feinte en tous leurs complimens,
-Et le crime⁎ tousjours succede à leur sermens.
-Celine en sa froideur me fait voir sa franchise,
-Je croy qu'en me fuyant elle me favorise,
-J'estime ses desdains, je chery ma langueur,
-Et trouve des appas⁎ mesme dans sa rigueur⁎ ;
-Je voy dans ses mespris, sa bonté naturelle,
-Et l'ayme également amoureuse⁎ et cruelle⁎.
-
--*who_thersandre
 Puisque de ses mespris vous estes si content,
 Allez ; vous meritez d'estre appellé constant.
 Et pour vous maintenir dans vostre patience ;
@@ -608,18 +730,294 @@ Enfin nous la devons admirer et nous taire.
 Avez vous maintenant dequoy vous satisfaire ?
 Ay-je assez là dessus contenté vos esprits ?
 
--*who_lisidas
+Je veux l'entretenir et paraistre discret⁎,
+Et toujours mon rival me dira son secret.
+
+Il la faut delivrer d'une importunité.
+
+Pour moy je suis fasché que l'on vous traite ainsi.
+Vous devriez avoir un peu de retenüe ;
+Quel plaisir avez vous d'aymer une inconnüe
+Qui vous traite en esclave, et commande en vainqueur ?
+Quoy vous oubliez vous, n'avez vous plus de cœur⁎ ?
+Et ne sçavez vous pas maintenant qui vous estes ?
+
+Il est vray Lisidas que ma poursuitte est vaine,
+Je perds en te suivant et mon temps et ma peine,
+Ton amour quoy que juste à ton frere desplaist,
+J'estime ton dessein tout nuisible qu'il m'est ;
+Encore as-tu le bien de luy parler sans craindre,
+Et moy je suis contraint de me taire et de feindre,
+Je n'ose descouvrir⁎ ce que je t'ay celé,
+Et je te vange ainsi de ce dissimulé⁎ ;
+Essayons d'approcher de cette ame de roche ;
+Je le destourneray si je voy qu'il s'approche.
+
+Ah ! voicy le rival qui trouble mon repos ;
+Je romps peut-estre icy vos amoureux⁎ propos.
+
+Si vous n'estes menteur, Celine est offencee,
+Mais lisons : Est-ce à vous qu'elle donne son cœur⁎ ?
+
+      Ce riche present sera pour le vainqueur,
+Lisanor tu le dois acquerir par l'espee.
+
+Je veux vous tesmoigner que je vous suis fidelle⁎.
+
+Mon frere, condamnez ces aymables attraits,
+Cette bouche, ses yeux sont autheurs⁎ de mes feintes.
+ 
+Je desdaignois un Dieu que j'allois adorer⁎.
+Mon ame est innocente⁎, et ma bouche coupable.
+
+L'amour m'avoit reduit au point de vous blasmer.
+
+Mon frere pour loyer de vos peines passées,
+Et puisque j'ay connu vos secrettes pensées,
+Je vous fais un present de mes pretensions.
+
+Sire, c'est un courrier de la part de mon pere.
+
+Elle avoit sur le bras la marque d'une fleur,
+C'est elle asseurément : ô merveille⁎ !
+ 
+Mais pourquoy differer tant de contentemens ?
+Nous ne t'embrassons pas en qualité d'Amans⁎.
+
+Grand Prince un tel bon-heur passe⁎ nostre esperance,
+Et je n'en puis avoir encore d'asseurance.
+ 
+Madame le Roy seul vous force à luy complaire.
+
+Monsieur, quoy que je tienne un bien si precieux,
+Permettez que je sois encor ambitieux,
+Je ne suis point content, si Celine souspire,
+Donnez luy s'il vous plaist le bien qu'elle desire.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisidas
+
+      Ce combat est l'objet⁎,
+De la valeur⁎ d'un Prince, et non pas d'un sujet ;
+Nous avons depuis peu quitté nostre Province,
+Pour monstrer nostre force en servant ce grand Prince,
+Et luy mesme aujourd'huy nous ravit ce bon-heur.
+
+Cette vertu⁎ n'est rien que beaucoup de bon-heur.
+Cet estranger est grand, quoy qu'il vienne de naistre,
+Mais quelle occasion l'a si bien fait connaistre ?
+
+Et c'est ce Lisanor si digne de loüanges !
+Voit-on dans les Romans des choses plus estranges⁎ ?
+
+Qu'il gaigne des combats sur la terre et sur l'onde⁎,
+Et qu'il se rende enfin maistre de tout le monde.
+
+Moy de plaire à sa sœur.
+
+Rendons nous donc, mon frere, et doux et necessaires,
+Et dans leur entretien⁎, et parmy leurs affaires,
+Et joignons s'il se peut pour les avoir un jour,
+La faveur de ce peuple avecque leur amour.
+
+Vous supposez, mon frere, une chose impossible,
+Ah si cette beaute n'estoit pas insensible !
+Si j'estois seulement flatté⁎ d'un peu d'espoir,
+Que mes pleurs quelque jour la peussent esmouvoir⁎,
+Que vous verriez bien-tost mes actions changées,
+Et dessous le pouvoir de mon ame rangées ;
+Mais sa rigueur⁎ à voir naist de mon amitié,
+Et ma douleur me rend indigne de pitié ;
+Elle hait mes discours, se rit de mon silence,
+Et ne donne à mes vœux que le nom d'insolence⁎,
+Enfin ce mesme amour qui fait aymer me nuit.
+
+Non c'est moy qui la fuis.
+
+Qu'à descouvrir⁎ son mal on souffre de contrainte⁎ !
+Voicy le seul sujet du mal-heur qui me suit,
+Je la fuis pour aymer une autre qui me fuit.
+
+Devant un si grand Dieu, cette grandeur s'abbaisse,
+L'amour ne connoist point les regles du devoir.
+
+Enfin ne croyez pas ma bouche mensongere,
+Quand elle vous dira que j'ayme une Bergere.
+
+Celle qu'on vous monstroit aujourd'huy dans le temple ;
+Celine, confessez qu'elle n'a point d'exemple,
+Et que cette beauté qui mesprise le fard,
+Fait voir que la Nature est au dessus de l'Art⁎.
+
+Pourveu que sa beauté ne passe point pour fable⁎,
+Sans doute on jugera mon amour veritable.
+ 
+Ah que ces vains discours font souffrir mes oreilles !
+Que mon esprit ayt fait ces divines merveilles⁎.
+Et que pour augmenter luy mesme sa douleur
+Il donne à ces beaux yeux les traits⁎ et la chaleur ?
+Il ne pourroit avoir une si belle image,
+Si mes yeux autrefois⁎ n'avoient veu son visage,
+Reservons seulement cette puissance aux Dieux,
+Icy bas nostre esprit ne voit que par nos yeux,
+Ce sens qui fait chez nous tant de metamorphoses,
+Doit recevoir d'ailleurs les images des choses,
+Et ne peut composer ces visages divers,
+Que des traicts differens qu'on voit en l'univers ;
+Il ne fait qu'un pourtraict de toutes les idées,
+Des charmantes beautez que l'œil a regardées.
+Comme un Peintre qui tire ou des eaux, ou des fleurs
+Ne fait qu'une couleur de diverses couleurs.
+Mais pour representer ses graces⁎ nompareilles,
+Tout le monde n'a pas d'assez rares merveilles⁎.
+Les Dieux devroient changer les roses et les lys,
+Et les plus beaux objets⁎ devroient estre embellis.
+
+Aussi bien que son corps son esprit est aymable,
+Je n'y reconnois rien qui ne soit admirable,
+Tous deux sont accomplis, leur pouvoir est égal,
+Si vous aymez l'esprit vous estes mon rival.
+
+En ce lieu les esprits sont trop pleins d'artifices⁎,
+Leurs plus grandes vertu⁎ sont pour moy de grands vices,
+Je ne voy rien que feinte en tous leurs complimens,
+Et le crime⁎ tousjours succede à leur sermens.
+Celine en sa froideur me fait voir sa franchise,
+Je croy qu'en me fuyant elle me favorise,
+J'estime ses desdains, je chery ma langueur,
+Et trouve des appas⁎ mesme dans sa rigueur⁎ ;
+Je voy dans ses mespris, sa bonté naturelle,
+Et l'ayme également amoureuse⁎ et cruelle⁎.
+
 Gardez bien qu'en raillant vous n'en soyez espris,
 Et qu'ayant dans le cœur⁎ sa belle image emprainte,
 Enfin la verité ne succede à la feinte.
 
--*who_thersandre
-Je veux l'entretenir et paraistre discret⁎,
-Et toujours mon rival me dira son secret.
+Je vous y prends resveuse : Ah ce respect me tuë !
+Et quel morne chagrin te cause icy ma veuë ?
+Quite ces vains honneurs⁎, neglige tous ces soins⁎,
+Tu me plairas bien plus en me respectant moins ;
+Traicte de la façon ces glorieux⁎ courages⁎,
+Et croy que tes respects me sont autant d'outrages.
+Montre pour m'obliger⁎ un visage plus doux.
 
-**** *book_ *id_II02 *act_ *date_1637 *creator_beys
+Tu les dois fuir, Celine ? Ah ! grandeur importune ?
+En quoy different donc l'une et l'autre fortune⁎,
+Si l'on doit fuir aussi ceux qui sont bien-heureux ?
+Traitte moy, traitte moy comme un pauvre amoureux⁎.
+Vois moy par où je puis te paraistre agreable,
+Et non pas par l'endroit qui me rend effroyable :
+Oste-moy si tu veux les rares qualitez,
+Qui peuvent t'obliger⁎ à ces civilitez,
+Change dans ton esprit l'image de ce Prince,
+Voy le sans majesté, sans sceptre, sans province,
+Efface dessous luy les Royaumes unis,
+Les tyrans abbatus, les rebelles punis ;
+Que si tu ne peux pas le voir sans cette marque,
+Considere le donc, comme un foible Monarque,
+Laschement abbatu sous les pieds d'un enfant ;
+Et qu'une chaisne attache à son char triomphant,
+Voy-le dans ton esprit, despoüillé de ses armes,
+Le visage abbatu, les yeux moüillez de larmes,
+Pasle, foible, tremblant, et proche du trespas.
 
--*who_agante 
+Tu ne le sçais que trop, injurieuse, ingratte,
+Pour croire maintenant que mon discours te flatte⁎ !
+Mais tu feins de douter de cette verité
+Pour te rendre excusable en ta severité ;
+Pour me faire trouver ta rigueur⁎ legitime,
+Enfin pour m'empescher de t'accuser d'un crime⁎ ;
+Mais ton humilité se montre vainement,
+Je sçay que mes soupirs t'ont parlé clairement,
+Et que la passion⁎ trop vivement me touche,
+Pour ne paraistre pas en mes yeux, en ma bouche.
+
+Mon frere, l'on diroit qu'une jalouse envie
+Vous porte à traverser le repos de ma vie :
+Quel plaisir prenez vous à me chercher icy ?
+
+O Dieux si vous sçaviez le tort que vous me faittes !
+Elle ne m'ayme pas ! Laissez-moy donc jouïr
+Du bien de luy parler, de la voir, de l'ouïr.
+
+      Dieux, cela peut-il estre ?
+Esprit dissimulé⁎, lasche, perfide, traistre,
+Compare ma douceur avec ta cruauté,
+Sois honteux de ta feinte, et de ma privauté :
+N'as-tu pas par ma voix ma passion⁎ connuë ?
+Ne t'ay-je pas montré mon ame toute nuë ?
+Ay-je fait malgré toy quelque amoureux⁎ dessein ?
+Et n'as-tu pas receu mes larmes dans ton sein ?
+Tu sçavois tous les jours mes secrettes visites,
+Tu voyois dans mes vers mes passions⁎ descrites.
+Et les vœux que j'offois à ces divins appas⁎ ;
+Enfin je te contois mes souspirs et mes pas ;
+Tu desirois brusler d'une pareille flamme,
+Et ton discours taschoit d'en retirer mon ame,
+Tu mesprisois l'amour, en adorant⁎ ses traits.
+
+Et puis elle n'a rien qui nous reduise aux plaintes,
+Ce visage n'est pas un objet⁎ precieux :
+L'amour ne tire point de flammes par ses yeux.
+On ne voit point d'appas⁎ sur ce front qui nous touche,
+Sa neige manque au sein, le corail à la bouche,
+Par ces termes un jour vouliez vous l'honorer ?
+
+Parmi tant de refus tu recevras mon ame.
+
+      O bon-heur !
+
+Grand Roy, je vous dois plus qu'à ceux qui m'ont fait naistre,
+Et crains de ne pouvoir assez le reconnaistre.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agante
+
+Un violent desir me presse⁎ et m'importune,
+Pour apprendre ta bonne ou mauvaise fortune⁎.
+Tu portes, ce me semble, un habit emprunté,
+Pour cacher à nos yeux beaucoup de majesté.
+Je tire sans mentir des traits de ton visage,
+D'une heureuse naissance un certain tesmoignage :
+J'en voy dans ton maintien des signes apparens ;
+Appren moy ton dessein, ton païs, tes parens.
+
+Helas ! mais quel dessein te poussa dans ces lieux ?
+
+Celine, si tu veux contenter mon envie,
+Ne songe qu'à regret à ta premiere vie ;
+Le penible mestier que ce peuple t'apprit
+Ne merita jamais d'occuper ton esprit,
+Les Dieux à ce travail ne t'ont point destinée,
+Suy l'inclination⁎ d'une fille⁎ bien née,
+Esleve ton espoir, tes pensers⁎, tes desirs,
+Et pren d'oresnavant de plus nobles plaisirs.
+Sans mentir les appas⁎ dont tu me vois pourveuë,
+Ne contentent-ils pas ton esprit et ta veuë ?
+La Grace⁎ ou la beauté des Dames de la Cour,
+A-t'elle pas le don de causer de l'amour ?
+Et quoy que tu sois fille⁎, en es-tu pas attainte ?
+Vostre naïfveté, vaut elle bien leur feinte ?
+Prise ces raretez, admire ces pourtraits,
+Dy moy, ta solitude a-t'elle tant d'attraits ?
+Vos fleurs sont elles pas moins belles qu'en peinture ?
+Et l'Art⁎ ne plaist-il pas bien plus que la Nature ?
+Nous trouvons à la Cour de quoy nous contenter,
+Les plus charmans plaisirs nous peuvent arrester,
+Et nous doutons souvent parmy tant de merveilles⁎,
+S'il nous faut employer nos yeux ou nos oreilles ;
+Mille divers objets charment⁎ en mesme temps,
+Le nombre rend souvent nos desirs mal-contens,
+Et pour les bien gouster il nous faut, ce nous semble,
+Le mesme nombre d'yeux, et d'oreilles ensemble ;
+Mais ne diras-tu pas que c'est trop nous loüer,
+Et qu'un moindre discours t'auroit fait avoüer,
+Que l'on passe à la Cour une si douce vie,
+Qu'elle attire des Dieux et l'amour et l'envie ?
+
+Obey moy tousjours avec cette esperance,
+Et me suy maintenant.
+ 
 Helas nostre grandeur est bien mal assurée⁎,
 Et nos plus grands plaisirs de bien peu de durée !
 Bons Dieux ! que dans la Cour on esprouve d'ennuis⁎,
@@ -674,67 +1072,30 @@ Mais qui me vient chercher en des lieux si secrets ;
 Celuy m'oste beaucoup, qui m'oste mes regrets.
 C'est ma sœur qui s'approche.
 
--*who_caliste
-      Il faut estre discrette⁎.
-Quoy ma sœur vostre joye est elle si secrette ?
-
--*who_agante
 Apres que tant d'objets⁎ ont contenté mes sens,
 Je donne à mon esprit des plaisirs innocens⁎ :
 J'ay veû de mille attraits toute la Cour pourveüe
 Et tous également ont arresté ma veuë.
 
--*who_caliste
-Si vous eussiez pû voir ces objets⁎ de mes yeux,
-Tous leurs attraits ma sœur vous seroient odieux.
-
--*who_agante
 Mais qui vous a donc plû ?
 
--*who_caliste
-      Le plus digne de plaire.
-N'achevons point le reste, il est temps de se taire.
-
--*who_agante
 Dites donc ?
 
--*who_caliste
-      Mais pourquoy ne luy dirois-je pas ?
-C'est Lisanor.
-
--*who_agante
       O Dieux ! il a quelques appas⁎.
 
--*who_caliste
-Qui me le font aymer.
-
--*who_agante
       Mais comme le Roy l'ayme,
 Le bien commun m'oblige⁎ à le cherir de mesme.
 Pour rompre tout d'un coup⁎ ces discours superflus,
 Vous aymez sa valeur⁎ :
 
--*who_caliste
-      Mais j'ayme encore plus.
-
--*who_agante
 Ah ! n'entretenez point ces amours indiscrettes,
 Regardez ce qu'il est, voyez ce que vous estes.
-
--*who_caliste
-Sa bassesse⁎ ne peut desgager⁎ ma raison,
-Ses vertus⁎ ont trop bien estably ma prison.
-
--*who_agante 
+ 
 Ces vertus⁎ qu'à vos yeux la passion⁎ fait naistre,
 Montrent bien qu'en aymant on ne sçauroit connaistre,
 Vostre raison captive ignore les defaux,
 Ma sœur vostre pensée ou vos discours sont faux.
 
--*who_caliste
-Ils sont faux, si je perds une si belle envie.
-
--*who_agante
 Je veux que sans l'amour on ayt perdu la vie,
 Qu'aux amans⁎ chaque jour des plaisirs soient offers,
 Et que la liberté soit pire que les fers⁎ ;
@@ -742,7 +1103,279 @@ Mais il faut que l'aymé soit égal à l'amante⁎,
 Afin que cette amour s'entretienne et s'augmente.
 Songez à vous ma sœur, et voyez ce qu'il est.
 
--*who_caliste
+Ah ! si c'estoit un Roy !
+
+Que vous estes subtile à tromper la raison !
+
+Je blasme vostre amour d'autant que je vous ayme.
+
+Je perdray mes raisons à vous persuader.
+
+Que j'ay fait de discours contre ma conscience :
+Qu'ils sont bien dementis par mon experience !
+Je blasme en mesme temps et cheris ses appas⁎,
+Et donne des raisons dont je ne me sers pas.
+Pardonne, Lisanor, et croy pour ma deffence,
+Qu'afin de t'aymer seule, aujourd'huy je t'offence.
+Je consens que tu sois agreable à mes yeux,
+Et que devant ma sœur tu sembles odieux.
+Voulant parler d'amour, je veux qu'elle s'en taise,
+Et si ton œil me plaist, je veux qu'il luy desplaise ;
+Je m'en vais à ma sœur presenter du secours,
+Pour assurer⁎ mon bien et trahir ses amours.
+Fin du 2ème. Acte.
+
+Puisque vous m'honorez de vostre confidence,
+Je veux vous obliger⁎ de toute la prudence⁎,
+Que mes soins⁎ curieux m'ont acquis à la Cour,
+Laissez-moy seulement gouverner⁎ vostre amour.
+Accordez le repos à vos tristes pensées.
+Que de la moindre crainte elles ne soient blessées :
+Je toucheray son cœur⁎ avec des traits⁎ bien dous.
+ 
+D'abord je tascheray de disposer son ame
+A brusler sans sujet d'une amoureuse⁎ flame.
+
+Je veux un peu parler de beauté sans dessein,
+Puis je l'entretiendray⁎ de quelqu'une qui l'ayme
+Que comme sa beauté, son amour est extresme.
+Et que seul il ravit toute sa liberté.
+
+Vous n'avez pas tout dit, j'en imagine encore.
+
+Je le diray pour vous, mais laissez moy resver.
+
+Comment ! que je luy sois et rivale et fidelle⁎ !
+Que j'aye de l'amour, et la fasse pour elle !
+Que j'offre en mesme temps et son ame et son cœur⁎,
+J'ayme trop Lisanor, pour obliger⁎ ma sœur :
+Si cette ruse, Amour, te semble legitime,
+Acheve-la : sinon, pardonne moy mon crime⁎,
+Mais je pense qu'à tort tu me voudrois blasmer
+D'un peché qui n'a point d'autre fin que d'aymer.
+Alors que ton pouvoir nos volontez transporte⁎,
+On oublie aysément l'amitié la plus forte,
+Elle ne sçauroit plus captiver nostre foy⁎,
+De Reyne elle est esclave et sujette à ta loy,
+Si donc pour t'obeïr, ma trahison la blesse,
+Accuse ton pouvoir, et non pas ma foiblesse :
+Mais doit-on pas permettre à l'amoureux⁎ tourment⁎
+De tromper une sœur, pour servir un amant⁎ ?
+Le voicy ; voudrois-tu me vanger d'un outrage ?
+Pourray-je disposer de ce puissant courage⁎ ?
+
+Mais il faudroit quitter cét aimable sejour.
+
+Ton courage⁎ me plaist, mais la crainte m'afflige,
+J'apprehende sur tout de te mettre en danger⁎.
+
+Ne croy pas mon dessein suivy de ces supplices,
+Ne pense pas trouver ny feux ny precipices,
+Ne te proposes point de monstres à dompter,
+L'ennemy que l'on craint est facile à traitter,
+Sans armes, et tout seul tu le pourras combatre,
+On le veut appaiser, on ne veut pas l'abbatre.
+
+Traitte le seulement, comme je le desire,
+Et tu m'obligeras⁎, sans sortir de la Cour.
+
+      Je le veux : c'est l'amour.
+Celle pour qui je parle, endure un mal estrange⁎,
+Sous les cruelles⁎ loix où ce tyran la range,
+On voit à tous momens sa pauvre ame aux abois,
+Tous les jours sans mourir elle meurt mille fois ;
+D'elle mesme tantost je la croy separée,
+Je voy sa bouche ouverte, et sa veuë esgarée,
+Son visage deffait, ses membres languissans,
+Tantost la passion⁎ luy redonne les sens,
+Pour luy faire souffrir un tourment⁎ qui la brusle
+Selon que sa fureur⁎, s'approche, ou se recule.
+Qu'elle se rend plus forte, ou perd de sa rigueur⁎,
+Je croy que son corps laisse, ou reçoit sa vigueur.
+L'esprit suit la fureur⁎, ou bien plustost j'estime,
+Au lieu de son espoir que sa fureur⁎ l'anime.
+
+Quelles ?
+
+      Elle est bien foible ; joint,
+Qu'on ne se peut servir, de ce que l'on n'a point.
+Croy-tu qu'avec l'amour, la raison se conserve ?
+D'abord il la ravit, de peur qu'on ne s'en serve.
+
+Cela n'est pas mauvais pour ceux qui n'ont point d'yeux.
+Mais poursuivez ?
+
+Ce n'est pas en ce lieu que l'on en fait accroire,
+Ne pense pas ainsi remporter la victoire :
+Je veux bien te montrer une autre invention,
+Mais sçache le sujet de cette affection⁎.
+C'est toy qu'elle ayme.
+
+Le moyen d'appaiser cette amour c'est d'aymer,
+Une amour mutüel cause de doux supplices,
+Et convertit ces fers⁎, et ces feux⁎ en delices.
+
+Afin que ta raison à mes discours consente,
+Je te veux descouvrir⁎ qui t'ayme. C'est Agante.
+
+Il perd dans ce transport⁎ la couleur, et la vois.
+
+Ne pense pas icy relever mon bon-heur,
+N'use point de ces noms de respect et d'honneur⁎,
+Desdaigne si tu veux l'esclat qui m'environne,
+Et songe que je n'ay ni sceptre ni couronne,
+Appelle moy plustost ou ton ame, ou ton cœur⁎ :
+Et ne te nomme plus esclave, mais vainqueur !
+Lors que sur tes esprits je seray souveraine,
+Tu pourras m'appeller ta Princesse et ta Reyne.
+Considére le bien, le rang, la qualité,
+Sans cela ta valeur⁎, n'est qu'une lascheté.
+La plus rare vertu⁎ nous passe pour commune,
+Quand elle n'est pas jointe avecque la fortune⁎.
+
+Quoy-donc ? ne suis-je pas de grace⁎ assez pourveuë ?
+Ay-je quelque defaut qui desplaise a ta veuë ?
+
+Ne croy pas que les Dieux meritent ce reproche,
+Et qu'en faisant un homme, ils fassent une roche,
+Ils ont mesme permis aux plus lourds animaux,
+De souhaitter les biens, et de craindre les maux.
+Accuse les plustost avec juste colere,
+De ce qu'ils m'ont osté les moyens de te plaire,
+Qu'ils n'ont pas assez mis de flammes dans mes yeux,
+Que leur hayne a rendu mon visage odieux.
+Enfin, qu'ils m'ont privé, de merite et de grace⁎.
+
+Quoy, celuy qui tantost en m'offrant son service,
+Vouloit souffrir pour moy le plus cruel⁎ supplice,
+A qui les flots esmeus⁎ ne faisoient point de peur :
+A qui les feux⁎ du Ciel n'estoient qu'une vapeur,
+Qui desdaignant les maux de la terre et de l'onde⁎,
+Promettoit d'en chercher dedans un autre monde
+Ne veut pas endurer le moindre feu d'amour !
+Quoy ! m'aymer estre pis que de perdre le jour !
+M'aymer estre chercher une mort plus funeste⁎,
+Que celle du poison, des feux⁎, et de la peste !
+Que diray-je ?
+ 
+      Ma sœur, vous voyez un rocher
+Que les meilleurs discours n'ont jamais peu toucher.
+Jamais un beau dessein n'entra dans sa pensée.
+
+      Va cruel⁎ tu n'as que trop parlé.
+
+Ce Tigre, ce Tiran, d'un front audacieux,
+A poussé, sans respect, des traits⁎ injurieux
+Le sang à ce penser⁎ au visage me monte,
+Et je rougis pour vous de colere, et de honte.
+
+Ma sœur, j'en ay tant dit, qu'il n'en a pû rien croire.
+
+Non j'y veux employer quelque autre aussi fidelle⁎.
+
+      Celine, on peut s'en reposer sur elle.
+
+      Laissez moy seulement ce papier :
+Allez.
+
+
+Lisanor depuis cet instant,
+Que tes vertu⁎ me plûrent tant ;
+Toujours le mesme feu me plaist et m'importune,
+Je ne sçaurois aymer ni les champs ni la cour,
+Mais combien que je voye accroistre ta fortune⁎,
+Je ne ressens jamais accroistre mon amour.
+
+Deslors par l'advis de mes yeux,
+Qui te virent si gracieux,
+Je te voulus donner mon ame toute entiere :
+Offre moy maintenant ta constance et ta foy⁎ ;
+Repens toy si tu veux de ta froideur premiere,
+Tu n'as rien d'avantage à desirer de moy.
+Elle a dit sans mentir ce que je voulois dire,
+Ces vers me serviront, je m'en vay les rescrire,
+Je ne pouvois trouver de discours plus charmans :
+J'ay le mesme dessein, les mesmes sentimens.
+
+Tu me semble, Celine, assez triste aujourd'huy,
+Quelque accident nouveau te donne de l'ennuy ?
+
+Je les vay reprouver dans une bonne affaire :
+Presente à Lisanor cet escrit de ma part.
+Mais je veux que d'un mot, d'un sousris, d'un regard,
+Ta curiosité descouvre⁎ sa pensée,
+Et le secret tourment⁎ dont son ame est blessée.
+Du port, des actions, du front, de la couleur,
+On connoist aysément la joye ou la douleur.
+Et si l'Amour sur nous exerce quelque empire,
+Tu m'entends bien ? apres, qu'ay-je encor à te dire ?
+Ah ! lors que tu verras ma sœur avecque moy,
+Feins bien que Lisanor s'est fasché contre toy.
+Aussi-tost que la lettre en tes mains il a veuë,
+Qu'il a passé dessus legerement la veuë,
+Jettant à tous momens des regards furieux⁎,
+Enfin que sa colere a paru dans ses yeux ;
+Mais parle comme si cét escrit venoit d'elle,
+Et sur tout en ce point tasche à m'estre fidelle⁎.
+
+Tu sçais quelles faveurs on peut avoir de moy.
+
+      Ah ! je suis descouverte.
+
+Ma sœur que dites vous ?
+
+Que peux-tu maintenant me respondre impudente ?
+
+Et tu m'avois juré que tu n'aymois que moy.
+
+      Est-ce ainsi qu'on m'affronte ?
+
+      Tu n'en as point de honte ?
+Infame ! mais dis moy quel estoit ton dessein.
+
+      O dangereux appas⁎ ?
+Ma sœur que peut l'amour ?
+
+Perfide tu sçauras, la presence d'un pere,
+Empesche les effets de ma juste colere.
+
+Ma sœur !
+
+      J'ay des regrets extresmes,
+De ne t'avoir traittée, autrement que nous mesmes.
+
+C'est mon frere ?
+
+      Mon cher frere.
+ 
+Oubliez s'il vous plaist nos actions passées.
+
+Thersandre assurement peut autant que mon pere.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
+
+      Il faut estre discrette⁎.
+Quoy ma sœur vostre joye est elle si secrette ?
+
+Si vous eussiez pû voir ces objets⁎ de mes yeux,
+Tous leurs attraits ma sœur vous seroient odieux.
+
+      Le plus digne de plaire.
+N'achevons point le reste, il est temps de se taire.
+
+      Mais pourquoy ne luy dirois-je pas ?
+C'est Lisanor.
+
+Qui me le font aymer.
+
+      Mais j'ayme encore plus.
+
+Sa bassesse⁎ ne peut desgager⁎ ma raison,
+Ses vertus⁎ ont trop bien estably ma prison.
+
+Ils sont faux, si je perds une si belle envie.
+
 L'aymé nous est égal aussi-tost qu'il nous plaist,
 L'amour d'un plus puissant me seroit importune,
 Je ne l'aymerois pas, j'aymerois sa fortune⁎.
@@ -757,222 +1390,330 @@ Deux ames que l'Amour a luy mesme assemblées ?
 Quel sceptre est comparable au bien de deux amans⁎ ;
 Son poids est importun, leurs plaisirs sont charmans.
 
--*who_agante
-Ah ! si c'estoit un Roy !
-
--*who_caliste
       Mon cœur⁎ luy sert de throsne,
 Et ses lauriers acquis luy servent de couronne.
 
--*who_agante
-Que vous estes subtile à tromper la raison !
-
--*who_caliste
 Mais que vous estes foible à rompre ma prison !
 
--*who_agante
-Je blasme vostre amour d'autant que je vous ayme.
-
--*who_caliste
 Si vous m'aymez, ma sœur, vous l'aymerez de mesme.
-
--*who_agante
-Je perdray mes raisons à vous persuader.
-
--*who_caliste 
+ 
 Où l'amour est aussi, la raison doit ceder.
 
--*who_agante
-Que j'ay fait de discours contre ma conscience :
-Qu'ils sont bien dementis par mon experience !
-Je blasme en mesme temps et cheris ses appas⁎,
-Et donne des raisons dont je ne me sers pas.
-Pardonne, Lisanor, et croy pour ma deffence,
-Qu'afin de t'aymer seule, aujourd'huy je t'offence.
-Je consens que tu sois agreable à mes yeux,
-Et que devant ma sœur tu sembles odieux.
-Voulant parler d'amour, je veux qu'elle s'en taise,
-Et si ton œil me plaist, je veux qu'il luy desplaise ;
-Je m'en vais à ma sœur presenter du secours,
-Pour assurer⁎ mon bien et trahir ses amours.
-Fin du 2ème.
-Acte.
+Mais sans feindre, ma sœur, comment luy direz vous ?
 
-**** *book_ *id_III01 *act_ *date_1637 *creator_beys
+Le moyen de glisser cette amour dans son sein ?
 
--*who_celine 
-Dieux que par une estrange⁎ et funeste⁎ avanture⁎,
-Nous voyons pervertir l'ordre de la Nature !
-Qu'une horrible fureur⁎ tyrannise nos sens !
-Et qu'on doit regretter les siecles innocens⁎ !
-On estoit autrefois⁎ exempt de cette flamme,
-On tiroit ses plaisirs du repos de son ame :
-On ne connoissoit point la hayne et le mespris,
-Mais l'amour mutuel enflammoit les esprits ;
-Les pleurs et les soupirs n'estoient point en usage,
-Quand on avoit depeint l'amour sur son visage,
-L'aymé tout à l'instant se sentoit enflammer,
-Et pour se faire aymer, il ne falloit qu'aymer.
-Qu'aujourd'huy ce demon tient un cruel⁎ Empire !
-Et qu'inutillement tous les jours je souspire !
-Que j'ay fait de desseins, que j'ay versé de pleurs !
-Helas ! combien de fois ay-je dit mes douleurs,
-Dans la plus reculée et triste solitude,
-Sans trouver de remede à mon inquietude⁎ ?
-Ah ! je voy bien qu'en vain je la viens implorer ;
-Ce silence profond m'invite à souspirer,
-Il semble que ces bois se plaisent à m'entendre,
-Ces branches à les voir ont bien peur de s'estendre,
-Le vent en s'approchant tasche de s'alentir,
-De peur que son doux bruit vienne me divertir,
-Et l'eau qui va baignant cette aymable verdure,
-Evite les cailloux de crainte du murmure,
-Toy-mesme Lisanor que je viens rechercher,
-Je ne t'esprouve pas moins dur que ce rocher .
-Le voicy, je suis d'ayse⁎, et de crainte ravie,
-Si sa voix fait mourir, ses yeux rendent la vie.
+Discourez un peu plus d'amour que de beauté.
+Toute nostre beauté, peut tomber sous la veuë :
+Mais jamais nostre amour ne sçauroit estre veuë.
+C'est une passion⁎ que l'on feint aysément,
+Que vostre esprit conçoive un amoureux⁎ tourment⁎,
+Qu'il me fasse endurer les plus cruels⁎ gesnes,
+Jettez moy dans les feux⁎, mettez moy dans les chaisnes,
+Imaginez un peu ces ennuis⁎ languissans,
+Qui font perdre l'esprit et l'usage des sens,
+Enfin descouvrez⁎ luy des douleurs que j'ignore.
 
-**** *book_ *id_III02 *act_ *date_1637 *creator_beys
+Que je vous importune avec ma passion⁎ !
+Mais j'ay, ma chere sœur, trop de discretion⁎,
+Je feindrois pour un autre un amoureux⁎ martyre :
+Mais je ne puis avoir de l'amour et le dire.
 
--*who_lisanor
-Mon songe⁎ du matin n'a pas esté trompeur,
-Je voy cét ennemy qui m'a tant fait de peur,
-Si mes justes raisons n'arrestent sa poursuitte,
-Il faut d'oresnavant le vaincre par ma fuitte.
+Dans une heure au plus tard je vous viens retreuver :
 
--*who_celine 
-Dieux comme il se retire ! attends encor un peu,
-Je n'ay plus à pousser qu'un petit trait de feu.
+Dieux que ma passion⁎ vous a mise en colere !
+Ce n'estoit pas à vous à faire ces regrets,
+Vous prenez trop de part dedans mes interests :
+Laissez-moy detester cette ame rigoureuse,
+Caliste seulement doit estre mal-heureuse.
 
--*who_lisanor
-Helas ! j'ay tant blasmé vostre perseverance,
-Ne me poursuivez plus, perdez vostre esperance.
+Mais avez vous bien dit ma douleur, mon ennuy⁎,
+Que je fondois en pleurs, que je bruslois pour luy,
+Que luy seul maintenant occupoit ma memoire ?
 
--*who_celine
-Des presages certains me forcent d'esperer,
-Songez qu'aucun mal-heur n'a pû nous separer,
-La Mer en nous portant ne fut jamais esmeuë⁎,
-Jamais je ne perdis vostre vaisseau de veuë ;
-Il sembloit que Neptune applanissoit les eaux,
-Et qu'un Pilote seul gouvernoit⁎ deux vaisseaux,
-Les rames aux Zephirs cederent leur usage,
-Et ce triste element fit tousjours bon visage,
-Vostre navire fut devant le nostre à bord,
-Et dans cette forest qui va jusques au port,
-M'esgarant je cherchois le chemin de la ville,
-Et dans le mesme lieu je trouvay mon azile ;
-Là le Roy nous connut, et dés le mesme jour,
-Sa liberalité nous retint à la Cour.
-Si l'onde⁎, l'air, le vent, si le Roy nous assemble,
-Ne souffrirez⁎ vous pas que nous soyons ensemble ?
+Tentez encore un coup⁎ ce courage⁎ inhumain,
+Luy voulez-vous donner cet escrit de ma main ?
 
--*who_lisanor 
-On prend de la façon plaisir à s'abuser :
-Un songe⁎ quoy que faux, vous peut favoriser,
-Et telle qui se croit de mille appas⁎ pourveuë,
-Pense en captiver cent qui ne l'ont jamais veuë,
-Enfin vous pouvez bien vous abuser aussi,
-Si je m'amuse encor à discourir icy.
+Mais qui ?
+ 
+Je le veux.
 
--*who_celine
-Ah ! mes discours sont faux, et mes plaintes sont vaines,
-Si j'appelle ses yeux les autheurs⁎ de mes peines,
-Comme pour me guerir, il cesse de me voir,
-Et sa fuitte aussi-tost m'en oste le pouvoir.
+      Vous me ferez un plaisir singulier.
 
-**** *book_ *id_III03 *act_ *date_1637 *creator_beys
+J'attens de sa responce ou ma vie ou ma perte ;
+De tant de vains soupçons delivrez mes esprits.
+J'ay disposé mon ame à souffrir⁎ ses mespris :
+L'escriture d'Agante, et le nom de Celine !
 
--*who_lisidas
-Je vous y prends resveuse : Ah ce respect me tuë !
-Et quel morne chagrin te cause icy ma veuë ?
-Quite ces vains honneurs⁎, neglige tous ces soins⁎,
-Tu me plairas bien plus en me respectant moins ;
-Traicte de la façon ces glorieux⁎ courages⁎,
-Et croy que tes respects me sont autant d'outrages.
-Montre pour m'obliger⁎ un visage plus doux.
+      Ne faites plus la fine.
+La feinte est reconnuë, et le mesme discours,
+Qui descouvroit⁎ mon mal, m'a fait voir vos amours :
+Vous m'estes tout d'un coup⁎ rivalle et confidente.
 
--*who_celine
-Je sçay ce que je dois aux Princes comme vous.
+Et vous ne recherchez que les amours d'un Roy.
 
--*who_lisidas
-Tu les dois fuir, Celine ? Ah ! grandeur importune ?
-En quoy different donc l'une et l'autre fortune⁎,
-Si l'on doit fuir aussi ceux qui sont bien-heureux ?
-Traitte moy, traitte moy comme un pauvre amoureux⁎.
-Vois moy par où je puis te paraistre agreable,
-Et non pas par l'endroit qui me rend effroyable :
-Oste-moy si tu veux les rares qualitez,
-Qui peuvent t'obliger⁎ à ces civilitez,
-Change dans ton esprit l'image de ce Prince,
-Voy le sans majesté, sans sceptre, sans province,
-Efface dessous luy les Royaumes unis,
-Les tyrans abbatus, les rebelles punis ;
-Que si tu ne peux pas le voir sans cette marque,
-Considere le donc, comme un foible Monarque,
-Laschement abbatu sous les pieds d'un enfant ;
-Et qu'une chaisne attache à son char triomphant,
-Voy-le dans ton esprit, despoüillé de ses armes,
-Le visage abbatu, les yeux moüillez de larmes,
-Pasle, foible, tremblant, et proche du trespas.
+Est-ce ainsi qu'on m'abuse ?
 
--*who_celine
-Sans mentir ce pourtrait ne ressembleroit pas,
-Et puis j'ay tousjours eu l'impression bien forte,
-Je ne pourrois jamais me tromper de la sorte ;
-Vrayement si je croyois l'excez de vostre amour,
-Vous auriez dequoy faire un bon conte à la Cour.
+Vous n'en rougissez point ?
 
--*who_lisidas
-Tu ne le sçais que trop, injurieuse, ingratte,
-Pour croire maintenant que mon discours te flatte⁎ !
-Mais tu feins de douter de cette verité
-Pour te rendre excusable en ta severité ;
-Pour me faire trouver ta rigueur⁎ legitime,
-Enfin pour m'empescher de t'accuser d'un crime⁎ ;
-Mais ton humilité se montre vainement,
-Je sçay que mes soupirs t'ont parlé clairement,
-Et que la passion⁎ trop vivement me touche,
-Pour ne paraistre pas en mes yeux, en ma bouche.
+J'implorois tous les jours vos soins⁎, et ma franchise
+Avoit entre vos mains, ma liberté remise.
+Je ne vous cachois point mes souspirs ni mes pleurs :
+Vos yeux estoient tesmoins de mes justes douleurs,
+Vostre feinte pitié suivoit mes tristes plaintes,
+Et vostre ame sembloit se troubler de mes craintes :
+Vous rompiez mes desseins en m'offrant du support :
+Vous prolongiez ma vie, en conspirant ma mort :
+Et vostre esprit jaloux desguisant sa souffrance,
+En ravissant mon bien, m'en laissoit l'esperance :
+O detestable feinte !
 
--*who_thersandre
-Il la faut delivrer d'une importunité.
+      Vit-on jamais des fortunes⁎ pareilles ?
 
--*who_celine
-Excusez s'il vous plaist mon incivilité.
+      O merveille⁎ !
 
--*who_lisidas
-Mon frere, l'on diroit qu'une jalouse envie
-Vous porte à traverser le repos de ma vie :
-Quel plaisir prenez vous à me chercher icy ?
+      Mon frere, mon bon-heur.
 
--*who_thersandre
-Pour moy je suis fasché que l'on vous traite ainsi.
-Vous devriez avoir un peu de retenüe ;
-Quel plaisir avez vous d'aymer une inconnüe
-Qui vous traite en esclave, et commande en vainqueur ?
-Quoy vous oubliez vous, n'avez vous plus de cœur⁎ ?
-Et ne sçavez vous pas maintenant qui vous estes ?
+Nous avons maintenant de plus justes pensées.
 
--*who_lisidas
-O Dieux si vous sçaviez le tort que vous me faittes !
-Elle ne m'ayme pas ! Laissez-moy donc jouïr
-Du bien de luy parler, de la voir, de l'ouïr.
 
--*who_thersandre
-Il est vray Lisidas que ma poursuitte est vaine,
-Je perds en te suivant et mon temps et ma peine,
-Ton amour quoy que juste à ton frere desplaist,
-J'estime ton dessein tout nuisible qu'il m'est ;
-Encore as-tu le bien de luy parler sans craindre,
-Et moy je suis contraint de me taire et de feindre,
-Je n'ose descouvrir⁎ ce que je t'ay celé,
-Et je te vange ainsi de ce dissimulé⁎ ;
-Essayons d'approcher de cette ame de roche ;
-Je le destourneray si je voy qu'il s'approche.
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
+ 
+Vrayment je ne pouvois venir plus à propos,
+Celine voulez-vous nous ravir le repos ?
+Avez-vous resolu de nous faire la guerre ?
+Nous n'avons plus que vous d'ennemis sur la terre.
+Vos attraits sont autheurs⁎ des troubles de la Cour :
+Redonnez-nous la paix, ayez un peu d'amour,
+Et si vostre esperance en quelque objet⁎ se fonde,
+N'aymez que celuy-là, contentez tout le monde :
+Que tous pensent vous vaincre, et qu'un seul soit vainqueur ;
+Gardez les pleurs pour l'un, et pour l'autre le cœur⁎,
+Que luy seul le possede, et que chacun l'espere.
 
-**** *book_ *id_III04 *act_ *date_1637 *creator_beys 
+Que desire le Duc ?
 
--*who_clarin
+Vostre pere craignant l'effort⁎ des destinées,
+Qui menacent le cours de ses vieilles années,
+Devant que son trespas ait rompu ses projets,
+Il desire vous voir gouverner⁎ ses sujets,
+Et mourir satisfaict, asseuré qu'il leur donne
+Des fils qu'il a rendus dignes de sa couronne.
+Un Prince comme luy qui cherit bien les siens,
+Doit assurer⁎ ainsi leur repos et leurs biens :
+Doit craindre qu'avec luy leur paix ne soit ravie,
+Qu'ils ne perdent leurs biens, alors qu'il perd sa vie.
+Il les exemptera de regret et de peur.
+S'il laisse apres sa mort quelque bon successeur,
+Il n'a point tant d'horreur de sa perte prochaine,
+Il quitte sa couronne avecque moins de peine,
+Et je ne doute point qu'abandonnant ces lieux,
+Il n'en soit plus chery des hommes et des Dieux.
+Mais approuverez vous l'hymen qu'il vous conseille ?
+
+      Contentons leur envie :
+Quel est vostre pays ?
+ 
+Je ne sçay pas, Celine, où vous l'avez pû voir.
+
+Vous pouvez, Lisanor, l'esclaircir là dessus :
+Et nous faire sçavoir la suitte de l'histoire.
+
+Moderez ces transports.
+
+Remercions le Ciel du bien qu'il nous envoye,
+Quelqu'un vient-il icy pour troubler nostre joye ?
+ 
+Quel crime⁎ a-t'il commis ?
+
+      Je connoy cette chaisne.
+Qu'en ce moment je souffre une vive douleur !
+Voicy le vray tesmoin de mon plus grand mal-heur.
+Ne dissimulez⁎ point, où l'avez-vous treuvee ?
+
+Je suis en mesme temps esmeu⁎ d'ayse⁎ et de crainte.
+Mon fils avoit ces yeux, ces cheveux, et ce teint,
+Je pense encor le voir, comme il me l'a depeint.
+Pour rendre le Dieu Mars à ses armes propice,
+Je l'envoyois sur mer luy faire un sacrifice.
+Et depuis ce temps là j'ay vieilly de vingt ans
+Mais en quelle saison ?
+
+Vers la mesme saison je l'envoyois sur mer,
+Que pour lors aucun vent n'empeschoit de calmer.
+Et ne menassoit plus ses vaisseaux de naufrage.
+Mais les flots par aprés grossirent de l'orage,
+Et furent attaquez d'un vent si furieux⁎,
+Qu'ils sembloient s'eslever, et descendre des Cieux.
+Le moindre vent au port me donnoit de la crainte,
+Un murmure, un esclair, me tiroit une plainte.
+Je pensois à tous coups⁎ que la mer s'eslevant,
+En des gouffres profonds engloutist mon enfant.
+Apres deux jours entiers de ce cruel⁎ orage,
+Un des miens retournant sans voile et sans cordage,
+Me dit qu'il avoit veu mon fils dans un berceau,
+Voguer assez long-temps à la mercy de l'eau,
+Mais que la mer enfin s'estant plus fort esmeuë⁎,
+L'avoit en un instant destourne de sa veuë.
+
+Quel nom porte celuy que vous avez treuvé ?
+
+Bons Dieux ! que ce discours met mon esprit en peine !
+Lisanor c'est mon fils qui s'appelloit ainsi ?
+Est-il encor chez vous ?
+
+Vous qui m'avez rendu ma gloire⁎ et ma puissance.
+
+Oüy c'est toy mon cher fils, que je revois encor.
+Tes exploits glorieux⁎ sont tesmoins de ta race,
+Ton courage⁎ est Royal : vien çà que je t'embrasse.
+Le reconnoissez-vous ?
+
+Mais pour mieux celebrer cette insigne journée,
+Vous pouvez approuver un heureux Hymenée.
+Qui plaist à vostre pere, et que j'approuve aussi,
+Approchez vous tous deux, vous le verrez icy.
+
+Je vous en veux donner, Agante, approchez vous,
+Reconnoissez icy ce Prince pour espoux.
+
+Nous avons, Lisidas, de quoy vous contenter.
+Je vous fais ce present, voulez-vous l'accepter ?
+
+Il est vray, justes Dieux, que jamais vos Oracles
+N'ont predit en ces lieux de semblables miracles,
+Nous ne les tenons pas de la faveur du sort,
+Mais de vostre pouvoir, et plus juste, et plus fort.
+Aussi comme tous seuls vous nous estes propices,
+Vous recevrez tous seuls nos humbles sacrifices,
+Faisons voir nostre joye au service des Dieux,
+Et dans un long excez de festins et de jeux.
+FIN.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
+
+Grands Princes, apprenez des destins conjurez,
+Que les plus puissans Roys sont les moins assurez⁎
+Avoüez maintenant qu'il n'est que trop croyable
+Que le lieu le plus haut est le plus effroyable.
+L'Empire des Danois s'alloit borner des Cieux,
+Mon Prince dessus luy ne voyoit que les Dieux ;
+Apprenant le respect, on oublioit la guerre,
+On ne le nommoit plus que le Roy de la terre,
+Et je croy que les Dieux, craignans que son pouvoir
+Ne chassast de nos cœurs⁎ la crainte et le devoir,
+Pour troubler son Estat ont troublé la Nature,
+Faisans un monstre autheur⁎ de sa triste avanture⁎.
+Ce Tyran fait chez nous de furieux⁎ efforts⁎,
+Il gaigne des combats, il s'empare des forts ;
+Et comme vous voyez son cœur⁎ enflé de gloire⁎,
+Veut que ses gens oysifs luy doivent la victoire ;
+Il veut combattre seul.
+
+Je sçay bien que le Roy cherit vostre valeur⁎,
+Mais qu'il ne veut pas perdre une si belle vie,
+Et tasche d'espargner le sang de Moscovie.
+
+C'est un jeune estranger, inconnu de naissance,
+Qui fait de sa vertu⁎ dépendre sa puissance,
+Qui mesprise les biens, et qui cherit l'honneur⁎.
+
+Il ne fut pas plustost arrivé dans le port,
+Que passant la forest, par la faveur du sort,
+Il vit contre mon Prince une Laye enragée,
+Et sa Majesté seule au combat engagée ;
+Je vins bien-tost apres, emmenant avec moy
+Une jeune beaute que je fis voir au Roy ;
+Mais luy me regardant l'ame d'ayse⁎ ravie,
+Vous voyez, me dit-il, à qui je dois la vie ;
+Je contemplay ce Mars en habit de Berger,
+Et le monstre abbatu m'assura⁎ du danger⁎.
+Mon Prince comparant ces deux rares merveilles⁎,
+Pareilles en habits, en beauté sans pareilles ;
+Alcire, me dit-il, je voy dedans leurs yeux,
+Je ne sçay quoy de grand et de prodigieux :
+Il ayma Lisanor d'une amitié puissante,
+Et presenta la fille⁎ à la Princesse Agante.
+
+      Celine.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
+ 
+      Sire, il m'a deputé,
+Pour porter cette lettre à vostre Majesté.
+
+Chrysante c'est mon nom, mais j'ignore le sien.
+
+Dieux ! que je suis surpris ?
+
+      Sire, c'est Moscovie.
+
+C'est elle asseurément ! Bons Dieux le dois-je croire ?
+Le penser seulement rend mon esprit confus.
+
+Sire, un plus long discours vous seroit inutile.
+Ceux de qui le destin à son sort est pareil,
+Ne se peuvent cacher non plus que le Soleil.
+Et cette majesté qu'ils ont dés leur naissance,
+Se fait bien adorer⁎ sans sceptre et sans puissance.
+Grand Prince, s'il vous plaist d'excuser mon peché,
+Je vous vay rendre un bien que je vous ay caché.
+Escoutez seulement : le Duc de Moscovie,
+Dont aussi bien que vous elle a receu la vie,
+Aussi-tost qu'elle pût appercevoir le jour
+La fit nourrir chez nous assez prés de la Cour :
+La plaisance du lieu, la vertu⁎ de ma femme,
+Qui devoit gouverner⁎ cét objet⁎ de son ame,
+Attira la Duchesse, et l'y fit consentir :
+Mais elle en eut bien-tost un juste repentir :
+De son âge en ce temps nous avions une fille,
+Le bien le plus chery de toute ma famille.
+Je diray pour loüer ce thresor precieux ;
+Qu'elle luy ressembloit de la bouche et des yeux :
+Pour la voir seulement, je cherissois ma vie,
+Et je croy que les Dieux m'en porterent envie.
+Un jour comme elle estoit dans un profond sommeil,
+L'air à coup se troublant obscurcit le Soleil :
+Les esclairs en son lieu chasserent les tenebres,
+Pour estonner⁎ nos yeux de mille objets funebres ;
+Mais on connut apres, que ce dereglement
+Avoit pronostiqué mon mal-heur seulement ;
+Lors que chacun tremblant, les yeux fichez en terre,
+Taschoit par de saints vœux d'esloigner le tonnerre.
+Le Ciel qui m'avoit fait l'objet de sa fureur⁎,
+Retira par mon mal tout le monde d'horreur.
+Un toit de mon logis fut bien-tost mis en poudre,
+Et ma fille au berceau receut le coup de foudre.
+Apres mille regrets, voyant que mes vieux ans,
+M'ostoient presque l'espoir d'avoir d'autres enfans.
+J'aimois cette beauté d'une amitié si forte,
+Que pour elle à la Cour je supposay la morte.
+Le Duc en souspira ; la Cour en prit le düeil,
+Et comme une Princesse on la mit au cercueil.
+Il me crût aysément, car l'effort⁎ de l'orage
+Avoit du tout changé les traits de son visage,
+Et la compassion⁎, les larmes, la douleur
+L'empeschoient bien de voir cét objet⁎ de mal-heur.
+Cependant la Princesse à mon cœur⁎ fut bien chere,
+Ma femme luy rendit les devoirs d'une mere,
+Et le monde ignorant de ma mauvaise foy⁎,
+Venoit de mon bon-heur s'esjouïr avec moy.
+Mais que l'on perd bien-tost, malgré son artifice⁎,
+Un bien que l'on possede avec tant d'injustice !
+Une sainte coustume, oblige⁎ les parens,
+Lors qu'ils ont une fille à l'âge de cinq ans,
+De la mener bien loin vers la chaste Deesse,
+Comme pere en ce temps j'y menois la Princesse.
+Mais un Pirate affreux l'arrachant de mon sein,
+Destourna le succez de ce pieux dessein.
+Elle se vit bien-tost de secours despourveuë,
+Car presque en ce moment je la perdis de veuë.
+
+
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_clarin
+
 Quand le Ciel a conclu d'exercer sa fureur⁎,
 Il a bien tost ravy l'espoir d'un laboureur ;
 Ses biens où tous les ans sa famille se fonde,
@@ -1037,921 +1778,10 @@ Je ne me plaindray plus de mes malheurs passez,
 Ils seront pour jamais de mon ame effacez ;
 Pourveu qu'ayant couru quelque temps par le monde
 Je rencontre celuy que je trouvay sur l'onde⁎.
-Fin du 3 ème.
-Acte.
+Fin du 3 ème. Acte.
 
-**** *book_ *id_IV01 *act_ *date_1637 *creator_beys
-
--*who_agante
-Puisque vous m'honorez de vostre confidence,
-Je veux vous obliger⁎ de toute la prudence⁎,
-Que mes soins⁎ curieux m'ont acquis à la Cour,
-Laissez-moy seulement gouverner⁎ vostre amour.
-Accordez le repos à vos tristes pensées.
-Que de la moindre crainte elles ne soient blessées :
-Je toucheray son cœur⁎ avec des traits⁎ bien dous.
-
--*who_caliste
-Mais sans feindre, ma sœur, comment luy direz vous ?
-
--*who_agante 
-D'abord je tascheray de disposer son ame
-A brusler sans sujet d'une amoureuse⁎ flame.
-
--*who_caliste
-Le moyen de glisser cette amour dans son sein ?
-
--*who_agante
-Je veux un peu parler de beauté sans dessein,
-Puis je l'entretiendray⁎ de quelqu'une qui l'ayme
-Que comme sa beauté, son amour est extresme.
-Et que seul il ravit toute sa liberté.
-
--*who_caliste
-Discourez un peu plus d'amour que de beauté.
-Toute nostre beauté, peut tomber sous la veuë :
-Mais jamais nostre amour ne sçauroit estre veuë.
-C'est une passion⁎ que l'on feint aysément,
-Que vostre esprit conçoive un amoureux⁎ tourment⁎,
-Qu'il me fasse endurer les plus cruels⁎ gesnes,
-Jettez moy dans les feux⁎, mettez moy dans les chaisnes,
-Imaginez un peu ces ennuis⁎ languissans,
-Qui font perdre l'esprit et l'usage des sens,
-Enfin descouvrez⁎ luy des douleurs que j'ignore.
-
--*who_agante
-Vous n'avez pas tout dit, j'en imagine encore.
-
--*who_caliste
-Que je vous importune avec ma passion⁎ !
-Mais j'ay, ma chere sœur, trop de discretion⁎,
-Je feindrois pour un autre un amoureux⁎ martyre :
-Mais je ne puis avoir de l'amour et le dire.
-
--*who_agante
-Je le diray pour vous, mais laissez moy resver.
-
--*who_caliste
-Dans une heure au plus tard je vous viens retreuver :
-
--*who_agante
-Comment ! que je luy sois et rivale et fidelle⁎ !
-Que j'aye de l'amour, et la fasse pour elle !
-Que j'offre en mesme temps et son ame et son cœur⁎,
-J'ayme trop Lisanor, pour obliger⁎ ma sœur :
-Si cette ruse, Amour, te semble legitime,
-Acheve-la : sinon, pardonne moy mon crime⁎,
-Mais je pense qu'à tort tu me voudrois blasmer
-D'un peché qui n'a point d'autre fin que d'aymer.
-Alors que ton pouvoir nos volontez transporte⁎,
-On oublie aysément l'amitié la plus forte,
-Elle ne sçauroit plus captiver nostre foy⁎,
-De Reyne elle est esclave et sujette à ta loy,
-Si donc pour t'obeïr, ma trahison la blesse,
-Accuse ton pouvoir, et non pas ma foiblesse :
-Mais doit-on pas permettre à l'amoureux⁎ tourment⁎
-De tromper une sœur, pour servir un amant⁎ ?
-Le voicy ; voudrois-tu me vanger d'un outrage ?
-Pourray-je disposer de ce puissant courage⁎ ?
-
-**** *book_ *id_IV02 *act_ *date_1637 *creator_beys
-
--*who_lisanor
-Madame, c'est à tort que vous me demandez,
-Un bien que je n'ay plus, et que vous possedez.
-Un jour vostre grandeur permit que je luy fisse
-Le vœu particulier d'un eternel service.
-
--*who_agante
-Mais il faudroit quitter cét aimable sejour.
-
--*who_lisanor
-Pour vous, je quitteray la lumiere du jour,
-J'iray dans ces pays, que le Soleil abhore,
-Pour vous promettre plus, que promettray-je encore ?
-Vous ne pouvez pas moins dessus moy que les Dieux,
-Et pour vous obeïr, je laisseray ces lieux,
-Si mon bannissement, vous contente, il m'oblige⁎.
-
--*who_agante
-Ton courage⁎ me plaist, mais la crainte m'afflige,
-J'apprehende sur tout de te mettre en danger⁎.
-
--*who_lisanor
-C'est croistre le desir, que j'ay de vous vanger.
-Je desdaigne pour vous les vents, et le tonnerre,
-Les naufrages, les feux, les tremblemens de terre,
-Enfin ce que le monde a de plus rigoureux,
-En ce lieu n'a pour moy qu'un visage amoureux⁎.
-
--*who_agante
-Ne croy pas mon dessein suivy de ces supplices,
-Ne pense pas trouver ny feux ny precipices,
-Ne te proposes point de monstres à dompter,
-L'ennemy que l'on craint est facile à traitter,
-Sans armes, et tout seul tu le pourras combatre,
-On le veut appaiser, on ne veut pas l'abbatre.
-
--*who_lisanor
-Madame, je ne puis vous servir qu'à demy.
-Puisque vous me donnez un si foible ennemy,
-Sans mentir j'attendois quelque chose de pire.
-
--*who_agante
-Traitte le seulement, comme je le desire,
-Et tu m'obligeras⁎, sans sortir de la Cour.
-
--*who_lisanor
-Que je sçache son nom ?
-
--*who_agante
-      Je le veux : c'est l'amour.
-Celle pour qui je parle, endure un mal estrange⁎,
-Sous les cruelles⁎ loix où ce tyran la range,
-On voit à tous momens sa pauvre ame aux abois,
-Tous les jours sans mourir elle meurt mille fois ;
-D'elle mesme tantost je la croy separée,
-Je voy sa bouche ouverte, et sa veuë esgarée,
-Son visage deffait, ses membres languissans,
-Tantost la passion⁎ luy redonne les sens,
-Pour luy faire souffrir un tourment⁎ qui la brusle
-Selon que sa fureur⁎, s'approche, ou se recule.
-Qu'elle se rend plus forte, ou perd de sa rigueur⁎,
-Je croy que son corps laisse, ou reçoit sa vigueur.
-L'esprit suit la fureur⁎, ou bien plustost j'estime,
-Au lieu de son espoir que sa fureur⁎ l'anime.
-
--*who_lisanor
-Vous parlez du plus grand de tous mes ennemis,
-Mais que j'ay toutefois à mon pouvoir soumis :
-Elle mesme qui brusle a ces puissantes armes,
-Qui m'ont fait resister au pouvoir de ses charmes⁎.
-
--*who_agante
-Quelles ?
-
--*who_lisanor
-      C'est la raison.
-
--*who_agante
-      Elle est bien foible ; joint,
-Qu'on ne se peut servir, de ce que l'on n'a point.
-Croy-tu qu'avec l'amour, la raison se conserve ?
-D'abord il la ravit, de peur qu'on ne s'en serve.
-
--*who_lisanor
-Quoy qu'une ame s'esgare en ce fascheux⁎ tourment⁎,
-Elle jouyt parfois de quelque bon moment.
-Une fureur⁎ extresme a fort peu de durée,
-Et l'esprit est rassis quand elle est moderée.
-Lors donc que ses souspirs seroient moins irritez,
-Son visage plus gay, ses sens plus arrestez,
-Et que je penserois sa fureur⁎ appaisée,
-Ses esprits plus rassis, son ame plus posée,
-Enfin qu'elle seroit capable de raison,
-Alors je tascherois de rompre sa prison.
-Et voulant ramener son esprit à luy mesme,
-Je le destournerois de cet objet⁎ qu'elle ayme.
-Je luy descouvrirois⁎ sa laideur, ses defaux,
-Et s'il n'en avoit point j'en trouverois de faux,
-Je ferois bien commun, ce qui seroit bien rare,
-D'un esprit bien subtil, j'en ferois un barbare⁎ :
-Au plus beau je peindrois un visage odieux.
-
--*who_agante
-Cela n'est pas mauvais pour ceux qui n'ont point d'yeux.
-Mais poursuivez ?
-
--*who_lisanor
-      Apres je dirois la tristesse,
-Qui punit les amans⁎ ; la douleur qui les presse⁎.
-Ces larmes, ces souspirs, ces craintes, ces transports,
-Qui changent à la fois leurs ames, et leurs corps.
-Que l'on voit leurs plaisirs troublez de jalousie ;
-Que tousjours leur esprit est dans la frenesie,
-Et qu'on ne souffre point de peines aux enfers,
-Qui puissent égaler leurs flammes et leurs fers⁎.
-
--*who_agante
-Ce n'est pas en ce lieu que l'on en fait accroire,
-Ne pense pas ainsi remporter la victoire :
-Je veux bien te montrer une autre invention,
-Mais sçache le sujet de cette affection⁎.
-C'est toy qu'elle ayme.
-
--*who_lisanor
-      O Dieux ! que cette amour m'irrite :
-Je m'en deffendray bien sur mon peu de merite.
-Mais comment son effect se peut-il reprimer ?
-
--*who_agante
-Le moyen d'appaiser cette amour c'est d'aymer,
-Une amour mutüel cause de doux supplices,
-Et convertit ces fers⁎, et ces feux⁎ en delices.
-
--*who_lisanor
-Mais je trouve pour moy que c'est estre imprudant,
-Que de penser ainsi le vaincre en luy cedant ;
-Madame, vos discours implorent mon courage⁎,
-Pour me faire endurer un si sensible outrage ;
-C'est me rendre vainqueur pour entrer en prison.
-Et montrer ma valeur⁎ pour trahir ma raison.
-
--*who_agante
-Afin que ta raison à mes discours consente,
-Je te veux descouvrir⁎ qui t'ayme. C'est Agante.
-
--*who_lisanor
-Justes Dieux, que d'ennuis⁎ m'arrivent à la fois !
-
--*who_agante
-Il perd dans ce transport⁎ la couleur, et la vois.
-
--*who_lisanor
-Je suis vostre sujet adorable Princesse,
-Songez à vostre gloire⁎ et voyez ma bassesse⁎.
-
--*who_agante
-Ne pense pas icy relever mon bon-heur,
-N'use point de ces noms de respect et d'honneur⁎,
-Desdaigne si tu veux l'esclat qui m'environne,
-Et songe que je n'ay ni sceptre ni couronne,
-Appelle moy plustost ou ton ame, ou ton cœur⁎ :
-Et ne te nomme plus esclave, mais vainqueur !
-Lors que sur tes esprits je seray souveraine,
-Tu pourras m'appeller ta Princesse et ta Reyne.
-Considére le bien, le rang, la qualité,
-Sans cela ta valeur⁎, n'est qu'une lascheté.
-La plus rare vertu⁎ nous passe pour commune,
-Quand elle n'est pas jointe avecque la fortune⁎.
-
--*who_lisanor
-La fortune⁎ jamais ne retint mes desirs,
-Et jamais mon esprit n'y treuva ses plaisirs.
-
--*who_agante
-Quoy-donc ? ne suis-je pas de grace⁎ assez pourveuë ?
-Ay-je quelque defaut qui desplaise a ta veuë ?
-
--*who_lisanor
-Je ne puis discerner ce qui me plaist le mieux,
-Des mains, du sein, du front, de la bouche ou des yeux :
-Vos biens n'égalent point encore vos merites,
-Et s'ils les égaloient ils seroient sans limites :
-Mais ils n'ont point rendu mes esprits aveuglez,
-J'ay pour vous seulement des mouvemens reglez :
-Je ne suis point esmeu⁎ de ces puissans orages,
-Qui troublent des amans⁎ les sens, et les courages⁎.
-Non que j'aye jamais par un profond discours,
-De cette passion⁎ interrompu le cours :
-La nature m'en a la puissance ravie,
-Dés le jour mal-heureux que je receus la vie :
-Mais je souhaitterois qu'elle-meme en ce jour,
-M'eust arraché les yeux, ou donné de l'amour.
-
--*who_agante
-Ne croy pas que les Dieux meritent ce reproche,
-Et qu'en faisant un homme, ils fassent une roche,
-Ils ont mesme permis aux plus lourds animaux,
-De souhaitter les biens, et de craindre les maux.
-Accuse les plustost avec juste colere,
-De ce qu'ils m'ont osté les moyens de te plaire,
-Qu'ils n'ont pas assez mis de flammes dans mes yeux,
-Que leur hayne a rendu mon visage odieux.
-Enfin, qu'ils m'ont privé, de merite et de grace⁎.
-
--*who_lisanor
-Non, vos yeux sont de flamme, et mon cœur⁎ est de glace,
-Madame mon esprit ne peut dissimuler⁎ ;
-S'il vous plaist je diray que je me sens brusler,
-Que l'excez de l'amour ma volonté transporte⁎,
-Qu'on n'esprouva jamais de passion⁎ plus forte.
-Enfin que ces tourmens⁎ vont causer mon trespas,
-Mais je vous promettray ce qui ne sera pas.
-
--*who_agante
-Quoy, celuy qui tantost en m'offrant son service,
-Vouloit souffrir pour moy le plus cruel⁎ supplice,
-A qui les flots esmeus⁎ ne faisoient point de peur :
-A qui les feux⁎ du Ciel n'estoient qu'une vapeur,
-Qui desdaignant les maux de la terre et de l'onde⁎,
-Promettoit d'en chercher dedans un autre monde
-Ne veut pas endurer le moindre feu d'amour !
-Quoy ! m'aymer estre pis que de perdre le jour !
-M'aymer estre chercher une mort plus funeste⁎,
-Que celle du poison, des feux⁎, et de la peste !
-Que diray-je ?
-
-**** *book_ *id_IV03 *act_ *date_1637 *creator_beys
-
--*who_agante 
-      Ma sœur, vous voyez un rocher
-Que les meilleurs discours n'ont jamais peu toucher.
-Jamais un beau dessein n'entra dans sa pensée.
-
--*who_lisanor
-O Dieux quel monstre c'est qu'une femme offencée !
-Madame ?
-
--*who_agante
-      Va cruel⁎ tu n'as que trop parlé.
-
--*who_lisanor
-Il m'eust peu descouvrir⁎ s'il ne s'en fut allé.
-Ce barbare⁎ jamais ne m'a voulu complaire.
-
--*who_caliste
-Dieux que ma passion⁎ vous a mise en colere !
-Ce n'estoit pas à vous à faire ces regrets,
-Vous prenez trop de part dedans mes interests :
-Laissez-moy detester cette ame rigoureuse,
-Caliste seulement doit estre mal-heureuse.
-
--*who_agante
-Ce Tigre, ce Tiran, d'un front audacieux,
-A poussé, sans respect, des traits⁎ injurieux
-Le sang à ce penser⁎ au visage me monte,
-Et je rougis pour vous de colere, et de honte.
-
--*who_caliste
-Mais avez vous bien dit ma douleur, mon ennuy⁎,
-Que je fondois en pleurs, que je bruslois pour luy,
-Que luy seul maintenant occupoit ma memoire ?
-
--*who_agante
-Ma sœur, j'en ay tant dit, qu'il n'en a pû rien croire.
-
--*who_caliste
-Tentez encore un coup⁎ ce courage⁎ inhumain,
-Luy voulez-vous donner cet escrit de ma main ?
-
--*who_agante
-Non j'y veux employer quelque autre aussi fidelle⁎.
-
--*who_caliste
-Mais qui ?
-
--*who_agante
-      Celine, on peut s'en reposer sur elle.
-
--*who_caliste 
-Je le veux.
-
--*who_agante
-      Laissez moy seulement ce papier :
-Allez.
-
--*who_caliste
-      Vous me ferez un plaisir singulier.
-
--*who_agante
-
-Lisanor depuis cet instant,
-Que tes vertu⁎ me plûrent tant ;
-Toujours le mesme feu me plaist et m'importune,
-Je ne sçaurois aymer ni les champs ni la cour,
-Mais combien que je voye accroistre ta fortune⁎,
-Je ne ressens jamais accroistre mon amour.
-
-Deslors par l'advis de mes yeux,
-Qui te virent si gracieux,
-Je te voulus donner mon ame toute entiere :
-Offre moy maintenant ta constance et ta foy⁎ ;
-Repens toy si tu veux de ta froideur premiere,
-Tu n'as rien d'avantage à desirer de moy.
-Elle a dit sans mentir ce que je voulois dire,
-Ces vers me serviront, je m'en vay les rescrire,
-Je ne pouvois trouver de discours plus charmans :
-J'ay le mesme dessein, les mesmes sentimens.
-
-**** *book_ *id_IV04 *act_ *date_1637 *creator_beys
-
--*who_celine
-A la fin c'est trop vivre en ma perseverance,
-Le moyen que je puisse aymer sans esperance ?
-Et quel juste sujet puis-je avoir d'esperer,
-Un bien où la raison me deffend d'aspirer ?
-Si quitter pour le voir le lieu de ma naissance,
-Sur ce barbare⁎ esprit n'a point eu de puissance :
-Si ce que j'ay souffert parmy des Estrangers ;
-Si mes pertes, mes maux, mes craintes, mes dangers⁎,
-Pour attirer son cœur⁎ n'ont jamais eu de charmes⁎,
-Que pourront maintenant mes soupirs, et mes larmes ?
-Helas ! s'il s'est moqué de mon affection⁎,
-Lors que je l'esgalois en sa condition :
-Luy doit-elle pas estre encor plus importune,
-Depuis que sa valeur⁎ esleve sa fortune⁎.
-Dieux ! punissez un peu ses mespris rigoureux,
-Que je sois plus aymée, et qu'il soit moins heureux.
-Il faut à ma douleur faire un peu de contrainte⁎,
-J'ay peur que la Princesse ayt escouté ma plainte.
-
-**** *book_ *id_IV05 *act_ *date_1637 *creator_beys
-
--*who_agante
-Tu me semble, Celine, assez triste aujourd'huy,
-Quelque accident nouveau te donne de l'ennuy ?
-
--*who_celine
-Puisque vostre grandeur approuve mon service,
-Je peus bien m'exempter de ce fascheux⁎ supplice.
-Madame, vostre esprit m'offre des fers⁎ si dous ;
-Que je promets icy de n'obeïr qu'à vous :
-Si mes fidelles⁎ soins vous peuvent satisfaire.
-
--*who_agante
-Je les vay reprouver dans une bonne affaire :
-Presente à Lisanor cet escrit de ma part.
-Mais je veux que d'un mot, d'un sousris, d'un regard,
-Ta curiosité descouvre⁎ sa pensée,
-Et le secret tourment⁎ dont son ame est blessée.
-Du port, des actions, du front, de la couleur,
-On connoist aysément la joye ou la douleur.
-Et si l'Amour sur nous exerce quelque empire,
-Tu m'entends bien ? apres, qu'ay-je encor à te dire ?
-Ah ! lors que tu verras ma sœur avecque moy,
-Feins bien que Lisanor s'est fasché contre toy.
-Aussi-tost que la lettre en tes mains il a veuë,
-Qu'il a passé dessus legerement la veuë,
-Jettant à tous momens des regards furieux⁎,
-Enfin que sa colere a paru dans ses yeux ;
-Mais parle comme si cét escrit venoit d'elle,
-Et sur tout en ce point tasche à m'estre fidelle⁎.
-
--*who_celine
-Madame, vous pouvez vous fier sur ma foy⁎.
-
--*who_agante
-Tu sçais quelles faveurs on peut avoir de moy.
-
--*who_celine
-L'honneur⁎ de vous servir a borné mon envie,
-Vous m'offrez des faveurs, et vous m'ostez la vie.
-En vain espoir trompeur tu me viens secourir ;
-Agante a de l'amour, Celine doit mourir ;
-Que me faut-il choisir du fer⁎, ou de la flamme ?
-Helas ! le moindre mot me peut arracher l'ame.
-
-Lisanor depuis cet instant ;
-Que tes vertus⁎ me plûrent tant,
-Toujours le mesme feu me plaist et m'importune,
-
-Je ne sçaurois aymer ni les champs, ni la Cour,
-Mais combien que je voye accroistre ma fortune⁎,
-Je ne ressens jamais accroistre mon amour.
-Cela suffit-il pas pour me priver du jour ?
-
-Deslors par l'advis de mes yeux,
-Qui te virent si gracieux,
-Je te voulus donner mon ame toute entiere.
-Offre moy maintenant ta constance et ta foy⁎,
-Repens-toy si tu veux de ta froideur premiere,
-Tu n'as rien d'avantage à desirer de moy,
-Ah sortons de ses fers⁎, puis qu'elle est sous sa loy !
-Sçachons auparavant si cette amour le touche,
-J'entendray mon arrest prononcé de sa bouche,
-Et j'auray ses beaux yeux pour tesmoins de ma mort !
-Monstrons nostre douleur par un dernier effort⁎,
-Chassons de nostre esprit le respect et la crainte,
-Et ne retenons plus l'amour dans sa contrainte⁎.
-Agante dans ces vers luy presente sa foy⁎,
-C'est le mesme present qu'il a receu de moy,
-Elle dit que l'amour a causé son martyre,
-Et ce puissant amour les mesmes traits⁎ me tire,
-Puisque nous nous plaignons de ce mesme demon,
-Son billet doit porter et sa plainte et mon nom.
-
-**** *book_ *id_V01 *act_ *date_1637 *creator_beys
-
--*who_lisanor 
-Quel pays servira de retraitte à ma fuite,
-Comment m'eschapperay-je, Amour, de ta poursuite ?
-En quel antre secret porteray-je ces yeux
-Dont tu fais tous les jours quelque esprit furieux⁎ ?
-Iray-je derechef vivre en la solitude ?
-Mais j'y fus autrefois⁎ en mesme inquietude⁎,
-Que je suis maintenant en ces lieux estrangers :
-Tu tourmentes autant les Roys que les Bergers,
-Et qui seroit tout seul dans un pays sauvage,
-Tu luy ferois aymer une fleur, un rivage.
-Une fontaine, un bois raviroit ses esprits ;
-Et de son ombre mesme il se verroit espris :
-Un tronc te serviroit, pour amollir les ames,
-Avecque des glaçons, tu produirois des flammes,
-Tu nous rendrois à nous d'adorables objets⁎,
-Et nous mesmes serions à nous mesmes sujets :
-Je ne te vaincray donc jamais par mon absence ;
-Je devray ma victoire à ma seule puissance.
-Qu'Agante, que Celine entrent dans ta prison :
-La pitié ne sçauroit esbranler ma raison.
-Ne voicy pas encor un sujet de ma gloire⁎ ?
-Ta honte, foible amour, va suivre ma victoire.
-
-**** *book_ *id_V02 *act_ *date_1637 *creator_beys
-
--*who_celine
-Je ne vous tiendray point de discours superflus ;
-Respondez un seul mot, et je ne parle plus :
-Jettez un peu les yeux dessus cette escriture ;
-Ce qu'Agante vous dit, c'est mon cœur⁎ qui l'endure.
-
-**** *book_ *id_V03 *act_ *date_1637 *creator_beys
-
--*who_thersandre
-Ah ! voicy le rival qui trouble mon repos ;
-Je romps peut-estre icy vos amoureux⁎ propos.
-
--*who_lisanor
-Jamais un tel dessein n'occupa ma pensee.
-
--*who_thersandre
-Si vous n'estes menteur, Celine est offencee,
-Mais lisons : Est-ce à vous qu'elle donne son cœur⁎ ?
-
--*who_lisanor
-Oüy.
-
--*who_thersandre
-      Ce riche present sera pour le vainqueur,
-Lisanor tu le dois acquerir par l'espee.
-
--*who_lisanor
-La mienne en ces sujets ne peut estre occupee,
-Ce dessein tient du lasche ou bien du furieux⁎.
-Vostre fer⁎ n'a-t'il point d'objet⁎ plus glorieux⁎ ?
-
--*who_thersandre
-Je veux vous tesmoigner que je vous suis fidelle⁎.
-
--*who_celine
-O Dieux !
-
-**** *book_ *id_V04 *act_ *date_1637 *creator_beys
-
--*who_celine
-      Helas, sçachez l'autheur⁎ de la querelle.
-Faites un peu cesser ce combat hazardeux.
-Quoy mon amour peut-il vous obliger⁎ tous deux ?
-Que feray-je en ce lieu ? qui voulez vous que j'ayme ?
-Si vous me poursuivez, il me poursuit de mesme.
-Il commence à se plaindre alors que vous cessez.
-Vous venez, il me laisse : il vient, vous me laissez.
-Qui recevra mes vœux ?
-
--*who_lisidas
-      Dieux, cela peut-il estre ?
-Esprit dissimulé⁎, lasche, perfide, traistre,
-Compare ma douceur avec ta cruauté,
-Sois honteux de ta feinte, et de ma privauté :
-N'as-tu pas par ma voix ma passion⁎ connuë ?
-Ne t'ay-je pas montré mon ame toute nuë ?
-Ay-je fait malgré toy quelque amoureux⁎ dessein ?
-Et n'as-tu pas receu mes larmes dans ton sein ?
-Tu sçavois tous les jours mes secrettes visites,
-Tu voyois dans mes vers mes passions⁎ descrites.
-Et les vœux que j'offois à ces divins appas⁎ ;
-Enfin je te contois mes souspirs et mes pas ;
-Tu desirois brusler d'une pareille flamme,
-Et ton discours taschoit d'en retirer mon ame,
-Tu mesprisois l'amour, en adorant⁎ ses traits.
-
--*who_thersandre
-Mon frere, condamnez ces aymables attraits,
-Cette bouche, ses yeux sont autheurs⁎ de mes feintes.
-
--*who_lisidas
-Et puis elle n'a rien qui nous reduise aux plaintes,
-Ce visage n'est pas un objet⁎ precieux :
-L'amour ne tire point de flammes par ses yeux.
-On ne voit point d'appas⁎ sur ce front qui nous touche,
-Sa neige manque au sein, le corail à la bouche,
-Par ces termes un jour vouliez vous l'honorer ?
-
--*who_thersandre 
-Je desdaignois un Dieu que j'allois adorer⁎.
-Mon ame est innocente⁎, et ma bouche coupable.
-
--*who_celine
-Ah ! ne condamnez pas un discours veritable.
-
--*who_thersandre
-L'amour m'avoit reduit au point de vous blasmer.
-
--*who_celine
-Il ne me peut reduire au point de vous aymer.
-
--*who_thersandre
-Mon frere pour loyer de vos peines passées,
-Et puisque j'ay connu vos secrettes pensées,
-Je vous fais un present de mes pretensions.
-
--*who_lisanor
-Et moy de cet objet⁎ de vos affections⁎.
-
--*who_lisidas
-Parmi tant de refus tu recevras mon ame.
-
--*who_celine
-Parmi tant de froideur appaisez vostre flamme.
-
--*who_lisanor 
-Quelque jour vous verrez son courage⁎ soumis :
-Venez, je crain de faire encor des ennemis.
-
-**** *book_ *id_V05 *act_ *date_1637 *creator_beys
-
--*who_celine
-O Dieux je suis perduë !
-
--*who_agante
-      Ah ! je suis descouverte.
-
--*who_caliste
-J'attens de sa responce ou ma vie ou ma perte ;
-De tant de vains soupçons delivrez mes esprits.
-J'ay disposé mon ame à souffrir⁎ ses mespris :
-L'escriture d'Agante, et le nom de Celine !
-
--*who_agante
-Ma sœur que dites vous ?
-
--*who_caliste
-      Ne faites plus la fine.
-La feinte est reconnuë, et le mesme discours,
-Qui descouvroit⁎ mon mal, m'a fait voir vos amours :
-Vous m'estes tout d'un coup⁎ rivalle et confidente.
-
--*who_agante
-Que peux-tu maintenant me respondre impudente ?
-
--*who_caliste
-Et vous ne recherchez que les amours d'un Roy.
-
--*who_agante
-Et tu m'avois juré que tu n'aymois que moy.
-
--*who_caliste
-Est-ce ainsi qu'on m'abuse ?
-
--*who_agante
-      Est-ce ainsi qu'on m'affronte ?
-
--*who_caliste
-Vous n'en rougissez point ?
-
--*who_agante
-      Tu n'en as point de honte ?
-Infame ! mais dis moy quel estoit ton dessein.
-
--*who_celine
-Celuy que la fureur⁎ peut mettre dans le sein.
-
--*who_caliste
-J'implorois tous les jours vos soins⁎, et ma franchise
-Avoit entre vos mains, ma liberté remise.
-Je ne vous cachois point mes souspirs ni mes pleurs :
-Vos yeux estoient tesmoins de mes justes douleurs,
-Vostre feinte pitié suivoit mes tristes plaintes,
-Et vostre ame sembloit se troubler de mes craintes :
-Vous rompiez mes desseins en m'offrant du support :
-Vous prolongiez ma vie, en conspirant ma mort :
-Et vostre esprit jaloux desguisant sa souffrance,
-En ravissant mon bien, m'en laissoit l'esperance :
-O detestable feinte !
-
--*who_agante
-      O dangereux appas⁎ ?
-Ma sœur que peut l'amour ?
-
--*who_celine
-      Mais que ne peut-il pas ?
-
--*who_agante
-Perfide tu sçauras, la presence d'un pere,
-Empesche les effets de ma juste colere.
-
-**** *book_ *id_V06 *act_ *date_1637 *creator_beys
-
--*who_leroy 
-Vrayment je ne pouvois venir plus à propos,
-Celine voulez-vous nous ravir le repos ?
-Avez-vous resolu de nous faire la guerre ?
-Nous n'avons plus que vous d'ennemis sur la terre.
-Vos attraits sont autheurs⁎ des troubles de la Cour :
-Redonnez-nous la paix, ayez un peu d'amour,
-Et si vostre esperance en quelque objet⁎ se fonde,
-N'aymez que celuy-là, contentez tout le monde :
-Que tous pensent vous vaincre, et qu'un seul soit vainqueur ;
-Gardez les pleurs pour l'un, et pour l'autre le cœur⁎,
-Que luy seul le possede, et que chacun l'espere.
-
--*who_thersandre
-Sire, c'est un courrier de la part de mon pere.
-
--*who_leroy
-Que desire le Duc ?
-
--*who_chrisante 
-      Sire, il m'a deputé,
-Pour porter cette lettre à vostre Majesté.
-
--*who_leroy
-Vostre pere craignant l'effort⁎ des destinées,
-Qui menacent le cours de ses vieilles années,
-Devant que son trespas ait rompu ses projets,
-Il desire vous voir gouverner⁎ ses sujets,
-Et mourir satisfaict, asseuré qu'il leur donne
-Des fils qu'il a rendus dignes de sa couronne.
-Un Prince comme luy qui cherit bien les siens,
-Doit assurer⁎ ainsi leur repos et leurs biens :
-Doit craindre qu'avec luy leur paix ne soit ravie,
-Qu'ils ne perdent leurs biens, alors qu'il perd sa vie.
-Il les exemptera de regret et de peur.
-S'il laisse apres sa mort quelque bon successeur,
-Il n'a point tant d'horreur de sa perte prochaine,
-Il quitte sa couronne avecque moins de peine,
-Et je ne doute point qu'abandonnant ces lieux,
-Il n'en soit plus chery des hommes et des Dieux.
-Mais approuverez vous l'hymen qu'il vous conseille ?
-
--*who_celine
-Je ne sentis jamais une froideur pareille :
-Dans cét estonnement⁎, je ne sçay si je vis,
-Mon esprit m'abandonne, et mes sens sont ravis :
-Plus je voy ce vieillard, plus je le considere ;
-Plus je me sens contrainte à l'appeller mon pere ;
-Je ne puis resister à ce puissant transport ;
-Oüy : c'est là son visage, et sa voix et son port :
-Mon cher pere, est-ce vous que je revois encore ?
-Ah ! que je vous embrasse ou que je vous adore⁎ :
-Accordez ces faveurs à ma sainte amitié ;
-Pleurez en me voyant, ou d'aise ou de pitié.
-Je suis celle qui fut d'entre vos mains ravie,
-Et c'est à vous Chrysante à qui je dois la vie.
-
--*who_chrisante
-Chrysante c'est mon nom, mais j'ignore le sien.
-
--*who_celine
-Vous ignorez mon nom, et je vous doy mon bien !
-
--*who_chrisante
-Dieux ! que je suis surpris ?
-
--*who_leroy
-      Contentons leur envie :
-Quel est vostre pays ?
-
--*who_chrisante
-      Sire, c'est Moscovie.
-
--*who_leroy 
-Je ne sçay pas, Celine, où vous l'avez pû voir.
-
--*who_celine
-Sire, pour mon païs, je ne le puis sçavoir.
-Je n'en ay dans l'esprit qu'une image confuse,
-L'âge auquel j'en sortis me doit servir d'excuse :
-Mais je me ressouviens à peu prés du danger⁎,
-Qui m'a poussé depuis chez un peuple estranger.
-Je fremis quand je pense aux efforts⁎ d'un Corsaire,
-Qui me prit sur la mer dans les bras de mon pere.
-Pour lors je ne pouvois ressentir mes mal-heurs,
-Mais les pleurs qu'il versa provoquerent mes pleurs
-Ce danger⁎ seulement me reste en la memoire.
-
--*who_chrisante
-C'est elle asseurément ! Bons Dieux le dois-je croire ?
-Le penser seulement rend mon esprit confus.
-
--*who_leroy
-Vous pouvez, Lisanor, l'esclaircir là dessus :
-Et nous faire sçavoir la suitte de l'histoire.
-
--*who_lisanor
-Le jour qu'on emporta cette heureuse victoire,
-Et que tant de voleurs perirent sur les eaux,
-Un soldat la treuva dans un de leurs vaisseaux,
-Et l'a depuis ce temps fait nourrir dans nostre Isle.
-
--*who_chrisante
-Sire, un plus long discours vous seroit inutile.
-Ceux de qui le destin à son sort est pareil,
-Ne se peuvent cacher non plus que le Soleil.
-Et cette majesté qu'ils ont dés leur naissance,
-Se fait bien adorer⁎ sans sceptre et sans puissance.
-Grand Prince, s'il vous plaist d'excuser mon peché,
-Je vous vay rendre un bien que je vous ay caché.
-Escoutez seulement : le Duc de Moscovie,
-Dont aussi bien que vous elle a receu la vie,
-Aussi-tost qu'elle pût appercevoir le jour
-La fit nourrir chez nous assez prés de la Cour :
-La plaisance du lieu, la vertu⁎ de ma femme,
-Qui devoit gouverner⁎ cét objet⁎ de son ame,
-Attira la Duchesse, et l'y fit consentir :
-Mais elle en eut bien-tost un juste repentir :
-De son âge en ce temps nous avions une fille,
-Le bien le plus chery de toute ma famille.
-Je diray pour loüer ce thresor precieux ;
-Qu'elle luy ressembloit de la bouche et des yeux :
-Pour la voir seulement, je cherissois ma vie,
-Et je croy que les Dieux m'en porterent envie.
-Un jour comme elle estoit dans un profond sommeil,
-L'air à coup se troublant obscurcit le Soleil :
-Les esclairs en son lieu chasserent les tenebres,
-Pour estonner⁎ nos yeux de mille objets funebres ;
-Mais on connut apres, que ce dereglement
-Avoit pronostiqué mon mal-heur seulement ;
-Lors que chacun tremblant, les yeux fichez en terre,
-Taschoit par de saints vœux d'esloigner le tonnerre.
-Le Ciel qui m'avoit fait l'objet de sa fureur⁎,
-Retira par mon mal tout le monde d'horreur.
-Un toit de mon logis fut bien-tost mis en poudre,
-Et ma fille au berceau receut le coup de foudre.
-Apres mille regrets, voyant que mes vieux ans,
-M'ostoient presque l'espoir d'avoir d'autres enfans.
-J'aimois cette beauté d'une amitié si forte,
-Que pour elle à la Cour je supposay la morte.
-Le Duc en souspira ; la Cour en prit le düeil,
-Et comme une Princesse on la mit au cercueil.
-Il me crût aysément, car l'effort⁎ de l'orage
-Avoit du tout changé les traits de son visage,
-Et la compassion⁎, les larmes, la douleur
-L'empeschoient bien de voir cét objet⁎ de mal-heur.
-Cependant la Princesse à mon cœur⁎ fut bien chere,
-Ma femme luy rendit les devoirs d'une mere,
-Et le monde ignorant de ma mauvaise foy⁎,
-Venoit de mon bon-heur s'esjouïr avec moy.
-Mais que l'on perd bien-tost, malgré son artifice⁎,
-Un bien que l'on possede avec tant d'injustice !
-Une sainte coustume, oblige⁎ les parens,
-Lors qu'ils ont une fille à l'âge de cinq ans,
-De la mener bien loin vers la chaste Deesse,
-Comme pere en ce temps j'y menois la Princesse.
-Mais un Pirate affreux l'arrachant de mon sein,
-Destourna le succez de ce pieux dessein.
-Elle se vit bien-tost de secours despourveuë,
-Car presque en ce moment je la perdis de veuë.
-
--*who_thersandre
-Elle avoit sur le bras la marque d'une fleur,
-C'est elle asseurément : ô merveille⁎ !
-
--*who_lisidas
-      O bon-heur !
-
--*who_agante
-Ma sœur !
-
--*who_caliste
-      Vit-on jamais des fortunes⁎ pareilles ?
-
--*who_celine
-Me fieray-je à mes yeux ? croiray-je mes oreilles ?
-
--*who_thersandre 
-Mais pourquoy differer tant de contentemens ?
-Nous ne t'embrassons pas en qualité d'Amans⁎.
-
--*who_leroy
-Moderez ces transports.
-
--*who_agante
-      J'ay des regrets extresmes,
-De ne t'avoir traittée, autrement que nous mesmes.
-
--*who_celine
-Madame, obligez⁎-moy de laisser ce discours,
-Je fais encore vœu de vous servir tousjours.
-
--*who_leroy
-Remercions le Ciel du bien qu'il nous envoye,
-Quelqu'un vient-il icy pour troubler nostre joye ?
-
-**** *book_ *id_V07 *act_ *date_1637 *creator_beys
-
--*who_leroy 
-Quel crime⁎ a-t'il commis ?
-
--*who_leprevost
-      Nous l'avons arresté,
-Sur un juste soupçon, et vostre Majesté
-Verra des noms icy qui nous mettent en peine.
-Sire, il l'avoit sur luy.
-
--*who_leroy
-      Je connoy cette chaisne.
-Qu'en ce moment je souffre une vive douleur !
-Voicy le vray tesmoin de mon plus grand mal-heur.
-Ne dissimulez⁎ point, où l'avez-vous treuvee ?
-
--*who_clarin
 Sire, voicy comment l'affaire est arrivee.
-
--*who_lisanor
-Il me reconnoistroit.
-
--*who_clarin 
+ 
       Grand Prince, si je ments,
 Qu'on invente pour moy de nouveaux chastimens.
 Sire, me promenant un jour sur le rivage,
@@ -1996,173 +1826,18 @@ Car quand je l'eus porté dans ma pauvre maison,
 Les biens de tous costez me vinrent à foison,
 Mais helas ! puissant Roy je vous parle sans feinte.
 
--*who_leroy
-Je suis en mesme temps esmeu⁎ d'ayse⁎ et de crainte.
-Mon fils avoit ces yeux, ces cheveux, et ce teint,
-Je pense encor le voir, comme il me l'a depeint.
-Pour rendre le Dieu Mars à ses armes propice,
-Je l'envoyois sur mer luy faire un sacrifice.
-Et depuis ce temps là j'ay vieilly de vingt ans
-Mais en quelle saison ?
-
--*who_clarin
       Sire, vers le printemps,
 Quand l'Aurore nous donne encor de la froidure,
 Et le Soleil levant voit blanchir la verdure.
 
--*who_leroy
-Vers la mesme saison je l'envoyois sur mer,
-Que pour lors aucun vent n'empeschoit de calmer.
-Et ne menassoit plus ses vaisseaux de naufrage.
-Mais les flots par aprés grossirent de l'orage,
-Et furent attaquez d'un vent si furieux⁎,
-Qu'ils sembloient s'eslever, et descendre des Cieux.
-Le moindre vent au port me donnoit de la crainte,
-Un murmure, un esclair, me tiroit une plainte.
-Je pensois à tous coups⁎ que la mer s'eslevant,
-En des gouffres profonds engloutist mon enfant.
-Apres deux jours entiers de ce cruel⁎ orage,
-Un des miens retournant sans voile et sans cordage,
-Me dit qu'il avoit veu mon fils dans un berceau,
-Voguer assez long-temps à la mercy de l'eau,
-Mais que la mer enfin s'estant plus fort esmeuë⁎,
-L'avoit en un instant destourne de sa veuë.
-
--*who_clarin
 Ne seroit-ce point luy que j'aurois eslevé ?
 
--*who_leroy
-Quel nom porte celuy que vous avez treuvé ?
-
--*who_clarin
 Le nom de Lisanor gravé dessus la chaisne.
-
--*who_leroy
-Bons Dieux ! que ce discours met mon esprit en peine !
-Lisanor c'est mon fils qui s'appelloit ainsi ?
-Est-il encor chez vous ?
-
--*who_lisanor
-      Non, Sire, le voicy.
-
--*who_leroy
-Vous qui m'avez rendu ma gloire⁎ et ma puissance.
-
--*who_lisanor
-Vous devois-je grand Roy, le bien de ma naissance ?
-
--*who_agante
-C'est mon frere ?
-
--*who_caliste
-      O merveille⁎ !
-
--*who_clarin 
+ 
       O Dieux ! c'est Lisanor.
 
--*who_leroy
-Oüy c'est toy mon cher fils, que je revois encor.
-Tes exploits glorieux⁎ sont tesmoins de ta race,
-Ton courage⁎ est Royal : vien çà que je t'embrasse.
-Le reconnoissez-vous ?
-
--*who_clarin
       Helas, Sire, c'est luy.
 Ah ! Prince genereux⁎ qui fustes mon appuy,
 Si je vous ay rendu ma pauvreté commune,
 Ne m'en accusez pas, accusez la fortune⁎.
 
--*who_lisanor
-Esperez seulement.
-
--*who_agante
-      Mon cher frere.
-
--*who_lisanor
-      Ma sœur.
-Que de biens à la fois !
-
--*who_caliste
-      Mon frere, mon bon-heur.
-
--*who_agante 
-Oubliez s'il vous plaist nos actions passées.
-
--*who_caliste
-Nous avons maintenant de plus justes pensées.
-
--*who_lisanor
-Oubliez mes desdains, oubliez mes refus.
-
--*who_celine
-Que fais-je ! où suis-je ? ô Dieux ! que j'ay l'esprit confus.
-
--*who_leroy
-Mais pour mieux celebrer cette insigne journée,
-Vous pouvez approuver un heureux Hymenée.
-Qui plaist à vostre pere, et que j'approuve aussi,
-Approchez vous tous deux, vous le verrez icy.
-
--*who_thersandre
-Grand Prince un tel bon-heur passe⁎ nostre esperance,
-Et je n'en puis avoir encore d'asseurance.
-
--*who_leroy
-Je vous en veux donner, Agante, approchez vous,
-Reconnoissez icy ce Prince pour espoux.
-
--*who_thersandre 
-Madame le Roy seul vous force à luy complaire.
-
--*who_agante
-Thersandre assurement peut autant que mon pere.
-
--*who_leroy
-Nous avons, Lisidas, de quoy vous contenter.
-Je vous fais ce present, voulez-vous l'accepter ?
-
--*who_lisidas
-Grand Roy, je vous dois plus qu'à ceux qui m'ont fait naistre,
-Et crains de ne pouvoir assez le reconnaistre.
-
--*who_thersandre
-Monsieur, quoy que je tienne un bien si precieux,
-Permettez que je sois encor ambitieux,
-Je ne suis point content, si Celine souspire,
-Donnez luy s'il vous plaist le bien qu'elle desire.
-
--*who_lisanor
-Monsieur, j'en reçois plus que je n'en puis donner.
-Victorieux amour, il te faut couronner.
-Beauté que je fuiois, et qu'aujourd'huy j'adore⁎,
-Dois-je pas estre honteux si tu m'aymes encore ?
-Puis-je sans t'offencer pretendre⁎ à tes amours,
-Et dois-tu pas haïr ma veuë et mes discours ?
-Appelle moy cruel⁎, traistre, perfide, lasche.
-
--*who_celine
-Mes delices, mon tout.
-
--*who_lisanor
-      Ton amitié me fasche.
-Mon crime⁎ et ta faveur me viennent affliger,
-Mon cœur⁎ en m'obligeant⁎ c'est me desobliger.
-Tu m'offres un bon-heur dont je suis incapable.
-
--*who_celine
-Cheris moy seulement, et tu n'es plus coupable.
-
--*who_lisanor
-Songes que si l'amour que je porte en mon sein,
-A commencé bien tard, il n'aura point de fin.
-
--*who_leroy
-Il est vray, justes Dieux, que jamais vos Oracles
-N'ont predit en ces lieux de semblables miracles,
-Nous ne les tenons pas de la faveur du sort,
-Mais de vostre pouvoir, et plus juste, et plus fort.
-Aussi comme tous seuls vous nous estes propices,
-Vous recevrez tous seuls nos humbles sacrifices,
-Faisons voir nostre joye au service des Dieux,
-Et dans un long excez de festins et de jeux.
-FIN.

@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1717
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
--*who_mercure
 Je cherche en vain de toutes parts.
 La Paix, dans ces climats avant moi descendue,
 Ne s'offre point à mes regards ;
@@ -10,13 +9,6 @@ Où peut-elle être retenue.
 Mais quel éclat vient de percer la nue ?
 C'est elle, je la vois.
 
-**** *book_ *id_I02 *act_I *date_1717
-
--*who_lapaix
-      En croirai-je mes yeux ?
-Mercure déjà dans ces lieux !
-
--*who_mercure
 C'est moi-même, divine Astrée ;
 Mais vous depuis longtemps des mortels malheureux
 Avec tant d'ardeur désirée,
@@ -28,47 +20,11 @@ Et vous croyais ici déjà bien établie.
 Cependant à ce que je vois,
 Vous arrivez même après moi.
 
--*who_lapaix
-Mon ardeur en chemin s'est un peu ralentie,
-En traversant d'abord rapidement les airs,
-Avec plaisir j'ai vu les enfants de la Terre
-Détruire, par tout l'Univers,
-Les autels du Dieu de la Guerre,
-Et mettre la discorde aux fers.
-J'ai vu l'ambition, la fureur et la rage,
-Se cachant au fond des enfers,
-Laisser mille Peuples divers
-Dégagés de leur esclavage,
-Et des maux qu'ils en ont soufferts.
-
--*who_mercure
 Ainsi donc tout était disposé pour vous rendre
 Les tranquilles tributs qu'on doit à vos autels,
 Et vous auriez dû moins attendre
 À remplir les vœux des mortels.
 
--*who_lapaix
-Ne me condamnez pas sans m'écouter, Mercure,
-Avant que d'établir ici-bas mon séjour,
-Mon premier soin est d'être sûre
-Que j'y tiendrai longtemps ma cour ;
-Et je veux, aux mortels que ma présence assure,
-Une félicité qui dure plus d'un jour.
-J'attends que tous les Dieux s'empressent de détruire
-De concert avec moi tout ce qui peut leur nuire ;
-L'avarice, l'orgueil, l'usure, monstre affreux
-Et mille fois plus à craindre pour eux,
-Que ceux qu'en sa fureur Bellone peut produire.
-C'est peu qu'entre les Nations
-Par leurs pressants besoins, par leur propre prudence,
-On croie avoir éteint la violence
-De leurs longues divisions.
-Il faut que Jupiter par sa bonté suprême,
-Se prête au bonheur des humains,
-Qu'il daigne travailler lui-même
-À leur faire d'heureux destins.
-
--*who_mercure
 Jupiter songe à remplir vos desseins,
 Et puisqu'en ces climats vous venez de descendre,
 Que vous choisissez pour séjour
@@ -86,51 +42,22 @@ Des plus lointains climats du monde,
 Sur le sein de l'onde,
 Y conduira mille peuples divers.
 
--*who_lapaix
-Que de Paris, cette superbe ville,
-Le beau séjour aura pour eux d'attraits !
-
--*who_mercure
 Il est le séjour de la Paix :
 Il doit être heureux et tranquille.
 
--*who_lapaix
-Par Bacchus et l'Amour comme il est habité,
-Je ne réponds pas trop de sa tranquillité.
-
--*who_mercure
 Pour vivre avec eux, sans craindre
 L'éclat bruyant de leur Divinité,
 Il n'a qu'à ne les pas contraindre,
 Tous deux aiment la liberté.
 
--*who_lapaix
-Ils en pourront jouir en toute sûreté.
-
--*who_mercure
 Non, tant mieux, pour fixer la troupe passagère,
 Qui de l'un et l'autre hémisphère
 Vous viendra faire ici sa cour,
 Leur secours nous est nécessaire.
 
--*who_lapaix
-Ils s'empresseront à me plaire,
-Et nous serviront tour à tour.
-Mais, Mercure, aux plaisirs d'aimer, à ceux de boire,
-On ne peut pas toujours donner tous ses moments ;
-Cherchons, si vous m'en voulez croire,
-Quelques autres amusements.
-
--*who_mercure
 Il en est ici de charmants,
 Et que tout le monde idolâtre.
 
--*who_lapaix
-Je les connais ceux du Théâtre ;
-Mais on dit que depuis un temps
-Ils sont devenus languissants.
-
--*who_mercure
 Sans vous tout déplaît, tout ennuie.
 Mais pour leur redonner de nouveaux agréments,
 Apollon consent que Thalie
@@ -138,125 +65,35 @@ Et la Muse de l'harmonie,
 Donnent des spectacles galants,
 Et puissent de concert exercer leurs talents.
 
--*who_lapaix
-J'augure bien d'un si noble assemblage.
-
--*who_mercure
 C'est le sujet de mon voyage,
 Et je n'y perdrai point de temps.
 
--*who_lapaix
-Thalie auprès de nous s'avance.
-
--*who_mercure
 Bacchus avec l'Amour accompagnent ses pas ;
 S'ils veulent avec nous être d'intelligence,
 Leurs soins ne nous nuirons pas.
 
-**** *book_ *id_I03 *act_I *date_1717
-
--*who_bacchus
-Salut au Dieu de l'Éloquence.
-
--*who_mercure
 Salut au Patron des buveurs.
 
--*who_lamour
-Salut à celui des voleurs.
-
--*who_mercure
 Salut au Dieu dont tous les cœurs,
 Tôt ou tard sentent la puissance.
 Quel sujet vous amène ici ?
 
--*who_bacchus
-L'ardeur de seconder le dessein où vous êtes.
-
--*who_lamour
-Instruit du projet que vous faites,
-Je prétends l'appuyer aussi.
-Mais comment ferons-nous ? Çà voyons.
-
--*who_thalie
-      Il me semble
-Que tant de Dieux unis ensemble
-Pour exécuter leurs projets,
-N'ont pas besoin de grands apprêts.
-Il faut d'abord choisir le sujet de la Paix.
-
--*who_mercure
 Jupiter, mon père et le sien,
 Pour consacrer le nom d'une jeune Maîtresse,
 Qu'il eût jadis, et dont il n'obtint rien,
 Aux regards des mortels veut bien
 Que l'on révèle sa faiblesse.
 
--*who_bacchus
-Ce sujet-là sera nouveau pour eux.
-
--*who_lamour
-Ce sujet-là nous intéresse,
-Et nous y figurions tous deux.
-
--*who_mercure
 Vous servîtes mal sa tendresse.
 
--*who_lamour
-Puisqu'il le veut, révélons des secrets,
-Dont jusqu'à présent nous avions fait mystère.
-Je l'avoue, entre nous, j'avais peine à me taire,
-Et comme les mortels les Dieux sont indiscrets.
-Qui réglera la Comédie ?
-
--*who_bacchus
-Belle difficulté ! Thalie.
-
--*who_mercure
 Je serai le Musicien.
 
--*who_bacchus
-Que la Musique soit jolie,
-Le trop beau, le trop grand ennuie :
-Pour plaire il faut un petit rien,
-Un Vaudeville, une heureuse folie.
-
--*who_mercure
 Ce soin me regarde.
 
--*who_bacchus
-      Fort bien.
-Mais que ferai-je dans la pièce ?
-Car au succès je m'intéresse.
-
--*who_mercure
 La noce et les frais du festin.
 
--*who_bacchus
-Tope.
-
--*who_mercure
       Qu'on y boira du vin !
 
--*who_lapaix
-Il faudra des Acteurs pour le chant, pour la danse.
-
--*who_thalie
-L'Amour en fera la dépense ;
-N'a-t-il pas avec lui toujours
-Les jeux, les ris, les plaisirs, les amours ?
-
--*who_bacchus
-J'y joindrai les gens de ma suite,
-Troupe de Faunes et de Sylvains,
-D'Habitants des pays lointains,
-Du Ballet j'aurai la conduite.
-
--*who_lapaix
-Qu'on y fera de mauvais pas.
-Avant la danse, au moins, ne les enivrez pas ;
-Et les Acteurs parlant, qui les fera ?
-
--*who_mercure
       Nous-mêmes.
 Il faut dans ces commencements
 Descendre un peu de nos grandeurs suprêmes,
@@ -270,13 +107,6 @@ Si fertile en beaux esprits,
 Les Dieux comme nous à Paris,
 Sont à peine assez bons pour divertit les hommes.
 
--*who_thalie
-J'approuve fort un tel avis ;
-Mais enfin, sous quelle figure
-Prétendez-vous en ce pays
-De Jupiter retracer l'aventure ?
-
--*who_mercure
 Comme elle se passa jadis,
 Même forme, mêmes habits,
 En robe seulement à la Thessalienne ;
@@ -288,84 +118,10 @@ Se trouve aussi le Palais enchanté,
 Où Jupiter faisait garder cette Beauté,
 Que Bacchus et l'amour livrèrent à Philène.
 
--*who_bacchus
-On dirait en effet que c'est la vérité.
-Ce lieu charmant ici semble exprès transporté.
-
--*who_lamour
-Je reconnais aussi ces beaux valons sans peine.
-
--*who_bacchus
-Hâtons-nous donc. Commençons
-Par quelque grand Monologue,
-Ou par de petites Chansons.
-Ce que nous avons dit servira de Prologue.
-Quelque danse, et puis finissons.
-
-**** *book_ *id_I04 *act_I *date_1717
-
--*who_thalie
-Sous l'empire d'un nouveau Maître,
-Heureux mortels, tout flatte vos désirs.
-Les Dieux exprès pour vous font naître
-Un nouveau genre de plaisirs.
-
--*who_thalieetmercure
-Que la Jeunesse
-Dans cet heureux séjour,
-Avec soin s'empresse
-De suivre sans cesse
-Bacchus et l'Amour.
-
--*who_thalie
-Chacun d'eux partage
-Le sincère hommage
-Que tous les mortels
-Doivent à leurs autels.
-
--*who_thalieetmercure
-Que tout l'Univers se rassemble
-Sous leurs douces lois.
-Ils sont toujours d'accord ensemble,
-On peut tous deux les servir à la fois.
-
--*who_unthessalien
-Aimables Dieux, vous n'êtes point jaloux
-Des honneurs qu'à chacun de vous
-Les mortels s'empressent de rendre.
-Nos cœurs charmés de vous voir parmi nous,
-Volent au-devant de vos coups,
-Loin de vouloir s'en défendre,
-Pourraient-ils prétendre
-Un destin plus doux ?
-Après les horreurs de la guerre,
-Qu'une heureuse paix
-Règne à jamais
-Sur la terre,
-Qu'une heureuse paix
-Règne à jamais
-
--*who_lapaix
-Et nous puisse attirer la faveur du Parterre.
-
-**** *book_ *id_II01 *act_II *date_1717
-
--*who_jupiter
-Votre sincérité m'offense,
-Mercure, je ne puis vous le dissimuler.
-
--*who_mercure
 Et moi, je ne puis plus me faire violence.
 Si mon respect pour vous me condamne au silence,
 Mon zèle me force à parler.
 
--*who_jupiter
-Et de quoi votre zèle ose-t-il se mêler ?
-Je vous mène dans mes voyages
-Pour exécuter mes messages,
-Et non pas pour me contrôler.
-
--*who_mercure
 Je vous ai dit ce que je pense,
 Et c'est à vous d'ouvrir les yeux,
 Vous êtes le Maître des Dieux,
@@ -376,10 +132,6 @@ Et pendant une longue absence,
 Vos affaires n'y vont pas mieux.
 Junon là-haut fait la diablesse à quatre.
 
--*who_jupiter
-En fait-elle moins quand j'y suis ?
-
--*who_mercure
 Le Soleil accablé d'ennuis
 De ce qu'avec Vénus Mars a passé deux nuits,
 Est contre lui prêt à se battre.
@@ -402,42 +154,17 @@ Les Ris sont tous prêts à pleurer ;
 Et Jupiter ne songe ici qu'à folâtrer,
 À faire le galant, à soupirer, à rire.
 
--*who_jupiter
-Je vois bien qu'il est temps de n'y plus demeurer :
-Quelque charmant objet qui m'y retienne,
-Il faudra que sur moi je prenne
-Pour un temps de m'en séparer.
-
--*who_mercure
 C'est bien dit, faisons diligence,
 Le temps nous presse.
 
--*who_jupiter
-      Oh ! Patience,
-Le désordre là-haut facile à réparer,
-Un seul moment de ma présence
-Dans l'ordre fera tout rentrer.
-Mais ici je te puis parler en confidence,
-Je crains quelque accident de pire conséquence.
-
--*who_mercure
 Hâtez-vous donc de me le déclarer ;
 Dans vos sec rets en conscience,
 Sans votre aveu je n'ose pénétrer.
 
--*who_jupiter
-Du plus charmant objet qui soit dans la nature,
-Tu sais bien que je suis épris.
-
--*who_mercure
 Hé ! N'ai-je pas, moi-même, embarqué l'aventure ?
 Mais un peu trop longtemps cette passion dure,
 Et c'est de quoi je suis surpris.
 
--*who_jupiter
-Ma constance étonne Mercure ?
-
--*who_mercure
 Très fort même, je vous assure.
 Prompt à vous laisser enflammer
 Par le mérite des mortelles,
@@ -448,67 +175,19 @@ En Amant bien sensé vous faisiez mieux les choses :
 Et chez vous les Métamorphoses,
 Aussi bien que l'Amour ne duraient pas longtemps.
 
--*who_jupiter
-L'Amour ne me portait qu'une légère atteinte,
-J'étais alors plus libertin qu'amant,
-Et d'un trop long déguisement
-J'évitais ainsi la contrainte.
-Je me suis fait, serpent, cygne, taureau,
-Mais honteux de telle figure,
-Je me hâtais de brusque l'aventure,
-Et ne changeais d'objet que pour changer de peau.
-
--*who_mercure
 Aujourd'hui dans celle où vous êtes,
 Vous vous aimez bien mieux apparemment,
 Et le plaisir que vous vous faites
 De n'en sortir que lentement.
 
--*who_jupiter
-Je t'en fais le juge, toi-même,
-Pour plaire à la beauté que j'aime,
-En riche partisan je me suis travesti,
-Malepeste, le bon parti !
-Aux Dieux même il doit faire envie.
-Je n'ai jamais rien fait de plus sage en ma vie.
-À peine me suis-je montré
-L'œil brillant, le teint frais, la bourse bien garnie,
-Avec moi Plutus est entré,
-Les ris, les jeux nous faisaient compagnie :
-Quelques moments après chacun s'est retiré.
-Auprès de l'aimable bergère,
-Presque seul je suis demeuré.
-Une tante vieillotte, et qui lui sert de mère,
-Fort bonne personne à mon gré,
-Avec nous seulement pour la forme est restée.
-
--*who_mercure
 À tâcher de vous rendre heureux
 La tante ne s'est point prêtée ?
 
--*who_jupiter
-Oh ! Que si fait, d'abord j'ai déclaré mes feux
-Aux genoux de l'aimable nièce,
-J'ai fait le soupirant, le pasteur langoureux :
-Aux succès de tant de tendresse
-La tante m'a paru d'abord s'intéresser ;
-Moi, par égards, par politesse,
-Je n'ai point voulu trop presser.
-
--*who_mercure
 Je ne vous connais plus, vous devenez tout autre ;
 Sur un tel changement il faut se récrier ;
 La tante a bien fait son métier,
 Mais vous avez mal fait le vôtre.
 
--*who_jupiter
-Je veux un peu goûter le plaisir d'être Amant :
-Autrefois de mainte Maîtresse
-J'ai triomphé trop aisément ;
-C'est un bonheur pour moi tout nouveau, tout charmant
-D'aimer avec délicatesse.
-
--*who_mercure
 Vous filez le parfait amour
 Auprès d'une beauté de tout point accomplie,
 Et dans les plus beaux lieux qui soient en Thessalie,
@@ -517,500 +196,232 @@ Tout vous plaît, rien ne vous ennuie ;
 Et vous vous promettez qu'un jour
 Vous règnerez dans le cœur de la belle.
 
--*who_jupiter
-Ai-je jamais fait de cruelle ?
-
--*who_mercure
 Tôt ou tard vous serez content ;
 Mais enfin sûr d'être aimé d'elle,
 Que craignez-vous en la quittant ?
 
--*who_jupiter
-Qu'un autre ne le soit autant ;
-C'est peu d'en être aimé, je la voudrais fidèle ;
-Et c'est un point très important,
-Pour moi qui veux être constant.
-
--*who_mercure
 Faunus vient.
 
--*who_jupiter
-      Que veut-il ?
-
-**** *book_ *id_II02 *act_II *date_1717
-
--*who_faunus
-Dans la forêt prochaine,
-Seigneur, Junon sans suite et toute hors d'haleine,
-Du Ciel en ce moment ici vient d'arriver.
-
--*who_mercure
 Voilà de quoi nous achever.
 
--*who_jupiter
-Le fâcheux contretemps !
-
--*who_faunus
-Je la crois informée
-Des raisons qui vous font demeurer parmi nous ;
-Elle paraît diablement animée,
-Et ce sera bien fait d'éviter son courroux.
-
--*who_jupiter
-Je sens à dire vrai, ma tendresse alarmée,
-De la savoir si près d'ici.
-
--*who_mercure
 J'en suis pour vous fort inquiet aussi.
 
--*who_faunus
-Pour l'objet de votre tendresse,
-Seigneur, n'ayez aucun souci,
-Je doute qu'elle la connaisse ;
-Comus, Plutus, Mercure et moi,
-Sommes seuls de la confidence,
-Et tous quatre, comme je crois,
-Avons su garder le silence.
-
--*who_jupiter
-Puisque ma femme est en ces lieux,
-C'est pour m'en éloigner une raison puissante.
-
--*who_mercure
 Et tout-à-fait déterminante :
 Nous allons donc partir pour retourner aux Cieux.
 
--*who_jupiter
-Vole, part le premier, Mercure,
-Et dans le céleste séjour,
-Dépêche-toi d'annoncer mon retour,
-Je te suivrai dans l'instant, je te jure.
-
-**** *book_ *id_II03 *act_II *date_1717
-
--*who_faunus
-Ce départ semble vous fâcher.
-Laissez-moi faire, allez, sur ce qui vous regarde
-J'aurai soin de veiller, que rien ne vous retarde.
-
--*who_jupiter
-Observe l'objet qui m'est cher,
-C'est un dépôt que je te donne en garde.
-
--*who_faunus
-Junon aura beau la chercher.
-
--*who_jupiter
-Je sens en m'éloignant à quoi je me hasarde,
-À d'autres qu'à Junon il faudra la cacher,
-De quelque feu secret je la crois prévenue.
-
--*who_faunus
-Je vous réponds de la garder à vue.
-
--*who_jupiter
-En maîtresse d'homme important,
-Attendant mon retour, je prétends qu'on la traite.
-Je veux…
-
--*who_faunus
-Parlez, c'est une affaire faite.
-
--*who_jupiter
-Qu'elle ait Maître d'Hôtel, Écuyer, Intendant,
-Force Valets, grand équipage.
-
--*who_faunus
-Pour une fille simple, élevée au village,
-Dans le grand monde depuis peu ;
-Voilà bien du fracas.
-
--*who_jupiter
-Grande chère et beau feu,
-Je le veux.
-
--*who_faunus
-Soit, vous êtes bon et sage.
-
--*who_jupiter
-J'en ferais moins si je n'étais qu'un Dieu,
-Mais comme homme en crédit, parbleu,
-Il en faut faire davantage,
-Afin de mieux cacher mon jeu.
-
--*who_faunus
-J'aperçois votre belle.
-
--*who_jupiter
-Il faut lui dire adieu ;
-Car je ne puis lui cacher mon voyage.
-
-**** *book_ *id_II04 *act_II *date_1717
-
--*who_corine
-Aujourd'hui de ces lieux on dit que vous partez,
-Quelle raison vous en écarte ?
-
--*who_jupiter
-Oui, Corine, il faut que je parte,
-Ici l'Amour et vous, en vain vous m'arrêtez.
-
--*who_corine
-L'amour sans mon aveu se sert de ma puissance,
-S'il prend soin de vous arrêter.
-
--*who_jupiter
-Quand vous ne me marquez que de l'indifférence,
-Dois-je un seul moment hésiter
-À bannir de votre présence
-Un amant dont l'ardeur vous gêne et vous offense,
-Et que votre fierté s'obstine à maltraiter ?
-
--*who_corine
-Malgré les plus doux soins, la plus longue constance,
-N'attendez jamais de moi
-Ni faiblesse, ni complaisance.
-Vous ne pourriez jamais vaincre ma résistance,
-En m'offrant même votre foi.
-
--*who_jupiter
-Vous changerez d'humeur et de langage ;
-Nous autres gens du plus sublime étage,
-Sommes-nous donc des épouseurs ?
-Rayez cela de vos papiers, d'ailleurs
-L'hymen est moins charmant qu'un tendre badinage ;
-Certains engagements ne nous sont point permis :
-Qu'un grand Seigneur ait la folie
-Se s'engager et faire un bail à vie !
-Dans le haut rang où le Ciel nous a mis,
-Trop heureuse, qui peut nous avoir pour amis.
-
--*who_corine
-Ces sentiments, ces superbes manières,
-Ne trouveront jamais le chemin de mon cœur.
-Qui s'estime trop ne plaît guères ;
-Chez nous les plus simples Bergères,
-N'aiment point les airs de hauteur.
-
--*who_jupiter
-Alors, c'est aux amants vulgaires,
-À craindre une longue rigueur :
-Les soins, les présents, en douceur
-Changent le courroux des plus fières,
-L'amour succède à la fureur.
-Nous trouvons tous les jours cent maîtresses pour une,
-Et nous devons notre bonheur
-À l'amour moins qu'à la fortune.
-Attendez-moi dans ce charmant séjour,
-Et comptez que de mon retour,
-Je prendrai soin de hâter la journée.
-
--*who_corine
-De la fortune et de l'amour,
-N'attendez rien même avec l'hyménée ;
-Cherchez en voyageant quelque autre objet.
-
--*who_jupiter
-Hé bien !
-Je ne veux point ici disputer davantage,
-Et ne m'offense point de vous trouver trop sage ;
-Mais quand je reviendrai, sans m'engager à rien,
-Peut-être pourrons-nous trouver quelque moyen
-En habillant l'amour comme le mariage,
-De mettre votre honneur d'accord avec le mien.
-Tu vois bien ce que j'appréhende,
-Et ce que je te recommande.
-
--*who_faunus
-Cela se devine aisément.
-
--*who_jupiter
-Adieu mon cher, adieu charmante.
-
--*who_corine
-Jusqu'au revoir.
-
-**** *book_ *id_II05 *act_II *date_1717
-
--*who_faunus
-L'absence d'un amant
-Va vous rendre ici peu contente.
-
--*who_corine
-Je ne me livre pas aux chagrins aisément.
-
--*who_faunus
-Nous avons à peu près même tempérament ;
-Quand le moindre ennui se présente,
-Je le bannis dès le moment.
-Quelque part où je sois point de mélancolie,
-Je me livre avec joie aux plaisirs les plus doux.
-Votre amant part, il fait une folie,
-Vous voilà seule, à quoi nous divertirons-nous ?
-
--*who_corine
-À ce qu'il vous plaira.
-
--*who_faunus
-Mais avec votre suite :
-Car pour recevoir de visite,
-Néant ; à l'empêcher, je me suis engagé.
-
--*who_corine
-C'est donc vous que de ma conduite,
-En s'éloignant on a chargé.
-
--*who_faunus
-Justement, c'est l'emploi que j'ai,
-Trouvez bon que je m'en acquitte.
-
--*who_corine
-Quand moi-même j'aurais pris soin de vous choisir,
-Je n'aurais pu mieux faire ; un homme de mérite,
-Qui n'aime qu'à faire plaisir.
-
--*who_faunus
-Oui, c'est mon seul objet, mon unique désir.
-
--*who_corine
-Dans l'état où je suis réduite,
-Une tendre pitié doit vous intéresser.
-
--*who_faunus
-Comment donc ! Que dois-je penser ?
-Quel trouble soudain vous agite ?
-Vous que le départ d'un amant
-Vient de toucher si faiblement ?
-
--*who_corine
-L'absence d'un amant me gêne,
-Je m'en défendrais vainement ;
-C'est ce qui fait toute ma peine.
-
--*who_faunus
-Ce n'est donc pas apparemment
-Celui qui part en ce moment.
-
--*who_corine
-Sans vouloir chercher à connaître
-L'amant à qui les Dieux ont soumis ma fierté,
-Laissez-moi m'affranchir de ma captivité :
-Souffrez que de ces lieux je puisse disparaître,
-Ce sera servir votre maître
-Que de me rendre la liberté.
-
--*who_faunus
-Par tous vos beaux discours je ne suis point tenté.
-
--*who_corine
-Vous êtes insensible aux douleurs d'une amante ?
-
--*who_faunus
-M'en laisser émouvoir serait trop hasarder,
-Sans adieu. Voilà votre tante,
-Je m'en vais redoubler mes soins pour vous garder.
-
-**** *book_ *id_II06 *act_II *date_1717
-
--*who_corine
-Je perds tous les soins que je tente,
-Mérope vient, elle sait mes secrets,
-Et n'est point dans mes intérêts.
-
--*who_junon
-Qu'avez-vous, ma chère Corine ?
-Je vous trouve rêveuse, inquiète, chagrine.
-Pourquoi d'un riche Amant méprisez-vous les vœux ?
-Votre fierté déjà l'écarte de ces lieux,
-On dit qu'un autre objet l'enchaîne.
-
--*who_corine
-Hé ! Pourquoi s'éloigner ! Sans me faire de peine
-Il pouvait l'aimer à mes yeux.
-
--*who_junon
-Vous êtes donc pour lui bien peu sensible ?
-
--*who_corine
-On ne peut l'être moins, ma tante, assurément.
-
--*who_junon
-Comment, ma nièce, est-il possible ?
-Il vous aime si tendrement :
-Il a tant de bien en partage,
-Il vous en fera part si libéralement ?
-
--*who_corine
-Ah ! Qu'il en fasse un autre usage.
-Ses offres, ses présents, de sa part tout m'outrage.
-C'est assez qu'il ait cru pouvoir impunément
-M'adresser un indigne hommage,
-Sans craindre mon ressentiment.
-
--*who_junon
-Si de retour de son voyage,
-Il vous venait sincèrement
-Vous demander en mariage,
-Le refuseriez-vous, ma nièce ?
-
--*who_corine
-      Absolument.
-
--*who_junon
-Dans l'espoir même du veuvage ?
-
--*who_corine
-Dût-il ne vivre qu'un moment.
-
--*who_junon
-Que je te sais bon gré d'un pareil mouvement !
-Et quelle joie est égale à la mienne !
-Dans ces bons sentiments que le Ciel t'entretienne.
-Approche-toi. Viens çà. Que cet embrassement
-De tes chagrins te récompense.
-Il faudra pendant son absence
-Faire tous nos efforts pour nous sauver d'ici.
-
--*who_corine
-Qu'heureusement enfin je retrouve ma tante :
-C'est là l'unique espoir qui flatte mon attente.
-
--*who_junon
-C'est le plus grand bonheur dont je me flatte aussi.
-
--*who_corine
-Mais comment pourrons-nous assurer notre fuite ?
-Ma chère tante, où sommes-nous ?
-Des inconnus en ces lieux m'ont conduite
-Malgré moi, presque malgré vous.
-Ce séjour est-il prêt ? Est-il loin de Larisse ?
-En nous sauvant, où fuir ? Où nous cacher ?
-Quel asile irons-nous chercher ?
-
--*who_junon
-Que notre dessein réussisse,
-Je te réponds d'un asile assuré.
-
--*who_corine
-Nous n'y serons jamais assez tôt à mon gré.
-
--*who_junon
-Avant qu'il soit peu je t'y mène.
-
--*who_corine
-Ma tante, verrons-nous Philène ?
-
--*who_junon
-Philène ? Il est jeune et charmant,
-J'aime à te voir l'aimer si tendrement.
-
--*who_corine
-Que mon absence lui fait peine !
-Hélas ! Ma tante, en ce moment,
-Peut-être me croit-il volage.
-Son cœur souffre un cruel tourment.
-Il faut que mon retour au plutôt le soulage.
-Aux Autels de l'Amour nous avons fait serment
-De nous aimer fidèlement.
-Nous nous sommes donné nos portraits pour otage
-D'un mutuel attachement.
-Accordez-nous votre suffrage,
-Et rendez heureux cet Amant.
-
--*who_junon
-Je réponds de l'événement,
-Va m'attendre dans ce bocage.
-
--*who_corine
-Je compte sur vous, ma tante, absolument.
-
-**** *book_ *id_II07 *act_II *date_1717
-
--*who_junon
-Enfin sous ce déguisement
-Ma rivale me croit sa tante.
-Je sais son secret sentiment :
-Junon, tu dois être contente ;
-Et ton perfide époux n'a point touché son cœur.
-Elle est pourtant la victime innocente
-D'une trop vive et jalouse fureur,
-Si Bacchus à propos ne m'avait avertie,
-Que ni lui ni l'Amour n'étaient de la partie.
-Jupiter et l'Amour sont brouillés, que je crois.
-Assez souvent ensemble ils ont querelle :
-Profitons-en, l'occasion est belle.
-Pour l'engager à travailler pour moi,
-Approchez, Amour.
-
-**** *book_ *id_II08 *act_II *date_1717
-
--*who_lamour
+J'en conviens, l'aventure a de quoi vous surprendre.
+Plus que vous j'en suis étonné ;
+Rien ne devait vous faire attendre
+Un retour si peu fortuné.
+
+Hé ? Pourquoi donc ?
+
+On aurait là-dessus bien des choses à dire.
+
+Oui, nous n'avons pas lieu de rire.
+
+Oui da, cela pourrait bien être.
+
+Mais du moins c'est sans vous connaître.
+
+À vous en parler franchement,
+Ce ne serait point ma manière ;
+Mais c'est un usage ordinaire
+Que vous n'avez encore quitté que rarement.
+
+Un peu plus de prudence, et moins d'empressement,
+Pour quelque temps il est bon qu'on l'ignore :
+Il est bien vrai que votre amour l'honore.
+Mais il ne vous fait pas honneur également.
+Sachons d'abord ce qu'elle est devenue ;
+Une fille qu'on perd de vue,
+Se retrouve parfois assez facilement,
+Mais pas toujours telle qu'on l'a perdue.
+
+Hé ! De grâce, qu'il se modère.
+
+Pour mieux approfondir l'affaire,
+Cherchons ici Faunus de toutes parts,
+Il faut que tôt ou tard il s'offre à nos regards,
+De Corine déjà je vois venir la tante.
+
+La chose n'est pas impossible.
+
+Je le crois, nous pensons de vous tout autrement.
+
+J'en répondrais à votre mine,
+Mais ne savez-vous comment,
+Avec qui, de ces lieux elle s'est échappée ?
+
+Nous le méritons bien franchement entre nous,
+Ils n'étaient pas de notre confidence.
+
+Nous le saurons, le voici qui s'avance.
+
+Il y paraît, vraiment.
+
+Je crois que la voici.
+
+Comment diantre. Ceci passe la raillerie !
+
+Vous serez obéi.
+
+Il est terrible en sa fureur ;
+Et les Amours, je vous assure,
+Ont grand tort dans cette aventure,
+Par un endroit sensible ils ont frappé son cœur ;
+Voilà pour eux une fâcheuse époque.
+De la façon qu'il a juré,
+Je ne crois pas, tout bien considéré,
+Que jamais l'ordre se révoque.
+
+Non, je ne puis trop tût satisfaire à son gré,
+Et je vais avertir les trois Sœurs filandières,
+Qu'à leurs lois Jupiter a soumis les Amours,
+Qu'elles sont désormais maîtresses de leurs jours.
+Impitoyables et sévères,
+Je crois que loin d'en prolonger le cours,
+Elles n'en épargneront guères ;
+Et je prévois que leur fatal ciseau,
+Les fera presque tous périr dès le berceau.
+Je vous quitte.
+
+Vous obéir n'est pas en mon pouvoir.
+Quand Jupiter prononce, il faut qu'à son devoir
+Sans différer on satisfasse.
+
+Jupiter près de vous m'envoie en diligence
+Vous annoncer le pardon d'une offense
+Qu'il ressentait avec trop de chaleur ;
+Mais il faut le servir dans sa nouvelle ardeur ;
+Junon au Ciel est retournée.
+
+Vous n'aviez jamais lu dans la Métamorphose,
+Les incidents qu'on vient d'exposer à vos yeux,
+Et de cette Métempsycose
+L'effet pourtant est sensible en tous lieux.
+L'histoire secrète des Dieux
+Pour les gens de bon goût doit avoir quelque chose
+D'intéressant, de curieux.
+Si cette épreuve a pu vous satisfaire,
+Nous tâcherons de temps en temps
+D'en démêler encore de nouveaux incidents,
+Et de les rendre de manière
+Que vous en soyez plus content :
+La troupe de nos Dieux préfère
+À l'intérêt, de même à tout encens,
+L'avantage seul de vous plaire,
+Et d'attirer vos applaudissements.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapaix
+
+      En croirai-je mes yeux ?
+Mercure déjà dans ces lieux !
+
+Mon ardeur en chemin s'est un peu ralentie,
+En traversant d'abord rapidement les airs,
+Avec plaisir j'ai vu les enfants de la Terre
+Détruire, par tout l'Univers,
+Les autels du Dieu de la Guerre,
+Et mettre la discorde aux fers.
+J'ai vu l'ambition, la fureur et la rage,
+Se cachant au fond des enfers,
+Laisser mille Peuples divers
+Dégagés de leur esclavage,
+Et des maux qu'ils en ont soufferts.
+
+Ne me condamnez pas sans m'écouter, Mercure,
+Avant que d'établir ici-bas mon séjour,
+Mon premier soin est d'être sûre
+Que j'y tiendrai longtemps ma cour ;
+Et je veux, aux mortels que ma présence assure,
+Une félicité qui dure plus d'un jour.
+J'attends que tous les Dieux s'empressent de détruire
+De concert avec moi tout ce qui peut leur nuire ;
+L'avarice, l'orgueil, l'usure, monstre affreux
+Et mille fois plus à craindre pour eux,
+Que ceux qu'en sa fureur Bellone peut produire.
+C'est peu qu'entre les Nations
+Par leurs pressants besoins, par leur propre prudence,
+On croie avoir éteint la violence
+De leurs longues divisions.
+Il faut que Jupiter par sa bonté suprême,
+Se prête au bonheur des humains,
+Qu'il daigne travailler lui-même
+À leur faire d'heureux destins.
+
+Que de Paris, cette superbe ville,
+Le beau séjour aura pour eux d'attraits !
+
+Par Bacchus et l'Amour comme il est habité,
+Je ne réponds pas trop de sa tranquillité.
+
+Ils en pourront jouir en toute sûreté.
+
+Ils s'empresseront à me plaire,
+Et nous serviront tour à tour.
+Mais, Mercure, aux plaisirs d'aimer, à ceux de boire,
+On ne peut pas toujours donner tous ses moments ;
+Cherchons, si vous m'en voulez croire,
+Quelques autres amusements.
+
+Je les connais ceux du Théâtre ;
+Mais on dit que depuis un temps
+Ils sont devenus languissants.
+
+J'augure bien d'un si noble assemblage.
+
+Thalie auprès de nous s'avance.
+
+Il faudra des Acteurs pour le chant, pour la danse.
+
+Qu'on y fera de mauvais pas.
+Avant la danse, au moins, ne les enivrez pas ;
+Et les Acteurs parlant, qui les fera ?
+
+Et nous puisse attirer la faveur du Parterre.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
+Salut à celui des voleurs.
+
+Instruit du projet que vous faites,
+Je prétends l'appuyer aussi.
+Mais comment ferons-nous ? Çà voyons.
+
+Ce sujet-là nous intéresse,
+Et nous y figurions tous deux.
+
+Puisqu'il le veut, révélons des secrets,
+Dont jusqu'à présent nous avions fait mystère.
+Je l'avoue, entre nous, j'avais peine à me taire,
+Et comme les mortels les Dieux sont indiscrets.
+Qui réglera la Comédie ?
+
+Je reconnais aussi ces beaux valons sans peine.
+
 Ciel ! Est-ce Junon ?
 
--*who_junon
-      C'est elle.
-
--*who_lamour
 Dans cet équipage nouveau,
 Pardonnez, si pour vous connaître,
 Il a fallu quitter tout-à-fait mon bandeau.
 Sous ce déguisement qui vous force à paraître ?
 Pourquoi vous travestir ainsi ?
 
--*who_junon
-De la tante de Corine
-J'ai pris l'habillement, la figure et la mine,
-Afin de m'introduire ici ;
-Et cependant d'abord vous m'avez reconnue.
-
--*who_lamour
 Je ne suis pas si aveugle que l'on dit ;
 Sans le bandeau j'ai bonne vue,
 Avec le bandeau bon esprit.
 
--*who_junon
-J'ai, sans en avoir fait aucune expérience,
-Très bonne opinion de votre habileté.
-Mais que vois-je avec vous ? N'est-ce pas l'Inconstance ?
-
--*who_lamour
 Elle ne m'a que rarement quitté,
 Non plus que sa sœur la Folie.
 
--*who_junon
-Vous menez avec vous fort bonne compagnie.
-
--*who_lamour
 Lui plaire est notre unique loi :
 Nous le servons avec un zèle extrême :
 Nous sommes les soutiens de son pouvoir suprême,
 Ma sœur conseille, et j'exécute, moi.
 
--*who_junon
-Il a vraiment en vous deux excellents ministres.
-Après cela je ne m'étonne pas
-De tant d'événements sinistres
-Qu'on voit là-haut comme ici-bas.
-
--*who_linconstance
-Doucement, s'il vous plaît, Déesse ;
-Gardez de la mettre en courroux.
-Dans le soin qui vous intéresse,
-Vous pourriez bien avoir besoin de nous.
-
--*who_junon
-Oui, de vous, il est vrai, vous m'êtes nécessaire ;
-Mais l'Inconstance ici pourrait me déranger,
-À peu de frais elle peut m'obliger,
-En ne se mêlant point du tout de cette affaire.
-
--*who_linconstance
-Dans cette occasion il faudrait m'engager,
-Pour le moins, Déesse à me taire.
-Et quand de votre Époux vous voulez vous venger,
-Votre projet a besoin du mystère.
-
--*who_lamour
 Il faut faire encor plus, si vous me voulez plaire,
 Corine aime un jeune Berger,
 Le Berger aime la Bergère.
@@ -1020,32 +431,14 @@ N'approchez jamais de leur cœur,
 Exécutez à la rigueur
 Tout ce que l'Amour vous ordonne.
 
--*who_linconstance
-Vous serez obéi, Seigneur.
-
-**** *book_ *id_II09 *act_II *date_1717
-
--*who_lamour
 Voyez à vous servir combien je m'intéresse,
 J'en fais mon plaisir le plus doux.
 Cependant à parler franchement entre nous,
 Nous nous connaissons peu, Déesse,
 Et je n'ai presque point eu d'affaire avec vous.
 
--*who_junon
-Presque point ? Retranchez, de grâce,
-Ce terme-là de vos discours,
-Il n'est point du tout à sa place.
-Est-il quelque vertu que la mienne n'efface ?
-Je n'ai jamais fréquenté les Amours.
-
--*who_lamour
 Vous avez perdu de beaux jours.
 
--*who_junon
-Je n'en regrette point la perte.
-
--*who_lamour
 L'occasion d'aimer n'arrive pas toujours,
 Je vous l'ai quelquefois offerte ;
 La sagesse chez vous devrait finir son cours.
@@ -1057,21 +450,9 @@ Que tous les cœurs sentiront ma puissance :
 Dans le vôtre sans résistance,
 Laissez-moi prendre un droit qui m'est certain.
 
--*who_junon
-Quitter un style si badin,
-Comptez, Amour, que Junon s'en offense.
-
--*who_lamour
 Votre peu de complaisance,
 Devrait être payé par un pareil dédain.
 
--*who_junon
-Dédain, soit. Mais qu'enfin mon projet réussisse ;
-Il faut sans intérêt me rendre ici service,
-Pour faire enrager mon époux,
-Épouser mes transports jaloux.
-
--*who_lamour
 Ce serait vous servir d'office.
 Tout coup vaille, à Plutus sur moi
 Il a donné la préférence.
@@ -1098,72 +479,988 @@ Il s'est d'un jeune objet follement entêté ;
 Je veux qu'à son retour il trouve
 Son projet pour elle avorté.
 
--*who_junon
-Qu'à ce ressentiment Junon est redevable ?
-Vous remplirez ainsi mes souhaits les plus doux.
-
--*who_lamour
 Oui. Mais d'un Dieu puissant je brave le courroux ;
 Que ferez-vous pour moi, quand je fais tout pour vous ?
 En deviendrai-je à vos yeux plus aimable ?
 Lorsque vos vœux seront comblés,
 Serez-vous toujours intraitable ?
 
--*who_junon
-Hélas !
-
--*who_lamour
       Hé quoi ! Vous vous troublez !
 
--*who_junon
-Laissez-moi.
-
--*who_lamour
       Déesse adorable,
 De grâce, expliquez-vous, parlez.
 
--*who_junon
-Je crains d'être trop pitoyable.
-
--*who_lamour
 Que faut-il que j'espère ?
 
--*who_junon
-      Allez,
-Vengez-moi d'un Époux coupable,
-Tout réussit toujours quand vous vous en mêlez.
-
--*who_lamour
 Pour vous plaire, il n'est rien dont je ne sois capable ;
 Et vous reconnaîtrez mes soins, si vous voulez.
 
--*who_junon
-Si de mes intérêts vous prenez la conduite,
-Je compte sur la réussite.
-Mais Faunus vient chercher Corine dans ces lieux,
-Sous ces traits empruntés il faut tromper ses yeux.
+Animez-vos d'un nouveau zèle,
+Formez ici d'aimables jeux,
+N'entendez-vous pas qu'en ces lieux
+L'Amour lui-même vous appelle.
 
-**** *book_ *id_II10 *act_II *date_1717
+Et les miens ?
 
--*who_faunus
+      Que le vin l'y maintienne,
+Jusqu'à ce que Jupiter vienne.
+
+J'ai donné ma parole à Junon.
+
+Ne buvons donc point tant, et qu'il vous en souvienne.
+
+Dans ces jardins tantôt j'ai fait entrer Philène.
+
+Tant mieux, servons-nous-en pour les tirer d'ici.
+
+Quel violent transport, Déesse, vous anime ?
+
+Il faut qu'il le supprime,
+Et c'est un traitement qu'ils n'ont pas mérité.
+Si l'enlèvement de Corine,
+Au point où je le crois, l'offense et le chagrine,
+De cet enlèvement qu'il ne soit point surpris :
+Il nous a méprisés ; mais enfin, qu'il apprenne
+Que pour éviter ses mépris,
+On cherche à mériter sa haine.
+
+Oui, c'est moi, c'est Bacchus, et Junon elle-même,
+Qui de concert en ce moment,
+Venons d'unir Corine à ce qu'elle aime.
+
+Que peut l'Inconstance pour nous ?
+
+Quoi ! Leur bonheur ne lui fait point de peine ?
+
+Comment ?
+
+Ai-je tort d'aimer l'Inconstance ?
+
+Ne doutez point de leur reconnaissance.
+
+Saisissons cet heureux moment ;
+De Corine et de son Amant,
+Célébrons ici l'hyménée.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
+Salut au Dieu de l'Éloquence.
+
+L'ardeur de seconder le dessein où vous êtes.
+
+Ce sujet-là sera nouveau pour eux.
+
+Belle difficulté ! Thalie.
+
+Que la Musique soit jolie,
+Le trop beau, le trop grand ennuie :
+Pour plaire il faut un petit rien,
+Un Vaudeville, une heureuse folie.
+
+      Fort bien.
+Mais que ferai-je dans la pièce ?
+Car au succès je m'intéresse.
+
+Tope.
+
+J'y joindrai les gens de ma suite,
+Troupe de Faunes et de Sylvains,
+D'Habitants des pays lointains,
+Du Ballet j'aurai la conduite.
+
+On dirait en effet que c'est la vérité.
+Ce lieu charmant ici semble exprès transporté.
+
+Hâtons-nous donc. Commençons
+Par quelque grand Monologue,
+Ou par de petites Chansons.
+Ce que nous avons dit servira de Prologue.
+Quelque danse, et puis finissons.
+
+Servons Junon de notre mieux,
+Et faisons le bonheur d'un cœur fidèle et tendre ;
+Malgré le Souverain des Dieux.
+
+Dans ce séjour délicieux,
+Notre Maître bientôt tâchera de se rendre ;
+Mais de quelque côté que je tourne les yeux,
+Je ne vois point ici la beauté qu'il adore.
+Est-elle renfermée en son appartement ?
+
+Oui, de la part de son Amant
+Dites-lui que dans le moment
+Il arrive un courrier fort extraordinaire.
+
+Pour la même à peu près dont vous êtes chargé.
+
+      Pour moi, ce n'est plus un mystère,
+Et je viens vous trouver, suivant l'ordre que j'ai,
+De servir les amours de Jupiter mon père,
+Auprès de l'aimable Bergère,
+Qui sous ses lois tient son cœur engagé.
+
+Oui, mais il se trouve obligé,
+Ou par choix, ou par confiance,
+De m'en faire la confidence.
+Tandis qu'avec Mercure occupé dans les Cieux,
+Parmi les Astres et les Dieux,
+Il tâche à rétablir l'heureuse intelligence
+Qui doit toujours régner entre eux,
+Et qu'avait depuis peu dérangée son absence.
+Le séjour qu'ici fait Junon
+L'alarme et le tient en cervelle,
+Et ce n'est pas tout-à-fait sans raison.
+Il connaît la bonne Immortelle,
+Et tremble qu'à l'objet de son nouvel amour
+Elle ne fasse un mauvais tour.
+
+Il a, tout Dieu qu'il est, tant d'affaires en tête,
+Qu'il ne peut pas songer à tout.
+
+Pour vous bien seconder je ferai mon possible.
+
+Et moi donc ? Mais pour l'éviter,
+Il faut rendre Corine aux Dieux-mêmes invisible,
+Et faire que Junon qui voudrait l'enlever,
+Ne sache où pouvoir la trouver.
+
+J'apporte pour le faire un moyen infaillible,
+Et ce petit écrin renferme un Diamant,
+Un Anneau constellé dont le charme invincible,
+À tous les yeux cache dans le moment
+Quiconque au doigt le porte seulement.
+Il ne faut qu'à Corine en apprendre l(usage,
+Et de la part de son Amant
+Lui donner ce présent pour gage,
+D'un éternel attachement.
+
+Se peut-il que Faunus oublie
+Que nous sommes en Thessalie ?
+Être ici sorcier, ce n'est rien,
+C'est le pays de la magie.
+
+Voilà l'écrin, prenez soin de lui rendre.
+
+Il ne faut qu'exciter sa curiosité.
+C'en est assez pour le lui faire prendre.
+
+Fâché d'être éloigné de vos jeunes appas,
+Votre Amant en ces lieux m'a fait porter mes pas
+Pour vous y donner assurance
+Que l'éloignement ni l'absence
+D'un cœur constant ne vous éloignent pas.
+
+Peut-on trop précieusement
+Garder un objet si charmant ?
+Épris pour vous de la plus vive flamme ;
+Il sait qu'à son ardeur on veut vous enlever :
+Le blâmez-vous des soins qu'il prend pour conserver
+La Beauté qui règne en son âme ?
+
+Aux yeux de tout le monde il voudrait vous cacher,
+Il craint que dans cette retraite,
+De ses desseins sa famille inquiète,
+Pendant qu'il est absent ne vienne vous chercher ;
+Qu'un enlèvement ne les mette
+En état un jour d'empêcher
+L'hymen qu'en secret il projette.
+
+Je n'ai garde de l'en instruire,
+Je suis discret, et je vous le promets.
+
+Un tel discours a droit de me surprendre
+Il ne mérite pas un pareil traitement.
+On a quelque présent de sa part à vous rendre :
+Recevez-le, de grâce, un peu plus poliment
+Que vous n'avez reçu mon compliment.
+
+Je vous amène ici l'élite
+Des bons Ivrognes de ma suite,
+Gens éprouvés dans les repas,
+Toujours prêts à faire merveille,
+Que le péril n'étonne pas,
+Et dont un seul mettrait à bas
+Un escadron de cent bouteilles.
+
+Ils combattent toujours auprès de ma personne ;
+Hé bien, père Faunus, la cave est-elle bonne ?
+
+      Quoi ! Pour un grand Seigneur
+Jupiter prétend qu'on le prenne ;
+Et dans sa cave il n'a pas du meilleur ?
+Pour paraître tel, qu'il apprenne
+Que de son vin, surtout, il faut se faire honneur.
+
+Tant pis.
+
+Volontiers.
+
+Oui, très forte.
+
+Toujours une cave ambulante
+Me suit partout.
+
+Assurément.
+
+Il est en bon état.
+
+Agissons de concert toujours dans tout ceci.
+
+      Moi la mienne.
+
+N'ayez, de grâce, aucun souci.
+
+Avec Corine, il s'y promène.
+Sans être vu, l'anneau magique a réussi.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+      Il me semble
+Que tant de Dieux unis ensemble
+Pour exécuter leurs projets,
+N'ont pas besoin de grands apprêts.
+Il faut d'abord choisir le sujet de la Paix.
+
+L'Amour en fera la dépense ;
+N'a-t-il pas avec lui toujours
+Les jeux, les ris, les plaisirs, les amours ?
+
+J'approuve fort un tel avis ;
+Mais enfin, sous quelle figure
+Prétendez-vous en ce pays
+De Jupiter retracer l'aventure ?
+
+Sous l'empire d'un nouveau Maître,
+Heureux mortels, tout flatte vos désirs.
+Les Dieux exprès pour vous font naître
+Un nouveau genre de plaisirs.
+
+Chacun d'eux partage
+Le sincère hommage
+Que tous les mortels
+Doivent à leurs autels.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+Votre sincérité m'offense,
+Mercure, je ne puis vous le dissimuler.
+
+Et de quoi votre zèle ose-t-il se mêler ?
+Je vous mène dans mes voyages
+Pour exécuter mes messages,
+Et non pas pour me contrôler.
+
+En fait-elle moins quand j'y suis ?
+
+Je vois bien qu'il est temps de n'y plus demeurer :
+Quelque charmant objet qui m'y retienne,
+Il faudra que sur moi je prenne
+Pour un temps de m'en séparer.
+
+      Oh ! Patience,
+Le désordre là-haut facile à réparer,
+Un seul moment de ma présence
+Dans l'ordre fera tout rentrer.
+Mais ici je te puis parler en confidence,
+Je crains quelque accident de pire conséquence.
+
+Du plus charmant objet qui soit dans la nature,
+Tu sais bien que je suis épris.
+
+Ma constance étonne Mercure ?
+
+L'Amour ne me portait qu'une légère atteinte,
+J'étais alors plus libertin qu'amant,
+Et d'un trop long déguisement
+J'évitais ainsi la contrainte.
+Je me suis fait, serpent, cygne, taureau,
+Mais honteux de telle figure,
+Je me hâtais de brusque l'aventure,
+Et ne changeais d'objet que pour changer de peau.
+
+Je t'en fais le juge, toi-même,
+Pour plaire à la beauté que j'aime,
+En riche partisan je me suis travesti,
+Malepeste, le bon parti !
+Aux Dieux même il doit faire envie.
+Je n'ai jamais rien fait de plus sage en ma vie.
+À peine me suis-je montré
+L'œil brillant, le teint frais, la bourse bien garnie,
+Avec moi Plutus est entré,
+Les ris, les jeux nous faisaient compagnie :
+Quelques moments après chacun s'est retiré.
+Auprès de l'aimable bergère,
+Presque seul je suis demeuré.
+Une tante vieillotte, et qui lui sert de mère,
+Fort bonne personne à mon gré,
+Avec nous seulement pour la forme est restée.
+
+Oh ! Que si fait, d'abord j'ai déclaré mes feux
+Aux genoux de l'aimable nièce,
+J'ai fait le soupirant, le pasteur langoureux :
+Aux succès de tant de tendresse
+La tante m'a paru d'abord s'intéresser ;
+Moi, par égards, par politesse,
+Je n'ai point voulu trop presser.
+
+Je veux un peu goûter le plaisir d'être Amant :
+Autrefois de mainte Maîtresse
+J'ai triomphé trop aisément ;
+C'est un bonheur pour moi tout nouveau, tout charmant
+D'aimer avec délicatesse.
+
+Ai-je jamais fait de cruelle ?
+
+Qu'un autre ne le soit autant ;
+C'est peu d'en être aimé, je la voudrais fidèle ;
+Et c'est un point très important,
+Pour moi qui veux être constant.
+
+      Que veut-il ?
+
+Le fâcheux contretemps !
+
+Je sens à dire vrai, ma tendresse alarmée,
+De la savoir si près d'ici.
+
+Puisque ma femme est en ces lieux,
+C'est pour m'en éloigner une raison puissante.
+
+Vole, part le premier, Mercure,
+Et dans le céleste séjour,
+Dépêche-toi d'annoncer mon retour,
+Je te suivrai dans l'instant, je te jure.
+
+Observe l'objet qui m'est cher,
+C'est un dépôt que je te donne en garde.
+
+Je sens en m'éloignant à quoi je me hasarde,
+À d'autres qu'à Junon il faudra la cacher,
+De quelque feu secret je la crois prévenue.
+
+En maîtresse d'homme important,
+Attendant mon retour, je prétends qu'on la traite.
+Je veux…
+
+Qu'elle ait Maître d'Hôtel, Écuyer, Intendant,
+Force Valets, grand équipage.
+
+Grande chère et beau feu,
+Je le veux.
+
+J'en ferais moins si je n'étais qu'un Dieu,
+Mais comme homme en crédit, parbleu,
+Il en faut faire davantage,
+Afin de mieux cacher mon jeu.
+
+Il faut lui dire adieu ;
+Car je ne puis lui cacher mon voyage.
+
+Oui, Corine, il faut que je parte,
+Ici l'Amour et vous, en vain vous m'arrêtez.
+
+Quand vous ne me marquez que de l'indifférence,
+Dois-je un seul moment hésiter
+À bannir de votre présence
+Un amant dont l'ardeur vous gêne et vous offense,
+Et que votre fierté s'obstine à maltraiter ?
+
+Vous changerez d'humeur et de langage ;
+Nous autres gens du plus sublime étage,
+Sommes-nous donc des épouseurs ?
+Rayez cela de vos papiers, d'ailleurs
+L'hymen est moins charmant qu'un tendre badinage ;
+Certains engagements ne nous sont point permis :
+Qu'un grand Seigneur ait la folie
+Se s'engager et faire un bail à vie !
+Dans le haut rang où le Ciel nous a mis,
+Trop heureuse, qui peut nous avoir pour amis.
+
+Alors, c'est aux amants vulgaires,
+À craindre une longue rigueur :
+Les soins, les présents, en douceur
+Changent le courroux des plus fières,
+L'amour succède à la fureur.
+Nous trouvons tous les jours cent maîtresses pour une,
+Et nous devons notre bonheur
+À l'amour moins qu'à la fortune.
+Attendez-moi dans ce charmant séjour,
+Et comptez que de mon retour,
+Je prendrai soin de hâter la journée.
+
+Hé bien !
+Je ne veux point ici disputer davantage,
+Et ne m'offense point de vous trouver trop sage ;
+Mais quand je reviendrai, sans m'engager à rien,
+Peut-être pourrons-nous trouver quelque moyen
+En habillant l'amour comme le mariage,
+De mettre votre honneur d'accord avec le mien.
+Tu vois bien ce que j'appréhende,
+Et ce que je te recommande.
+
+Adieu mon cher, adieu charmante.
+
+À cet événement je ne puis rien comprendre,
+Tu m'en vois accablé de honte et de douleur,
+Et je ne puis imputer mon malheur
+Qu'au seul déguisement que mon choix m'a fait prendre.
+
+      Mercure, plus j'y pense,
+Plus mes soupçons sont confirmés ;
+Tous ces soupirants d'importance,
+Dont les talents sont renfermés
+Dans le faste et l'opulence,
+Ne sont bons que pour la dépense ;
+Et rarement ils sont aimés.
+
+Corine ! Un noir chagrin m'agite, me déchire ;
+Je gagerais qu'en ce moment,
+Cette réflexion redouble mon tourment.
+
+Corine est avec un amant,
+À qui l'on croit impunément
+Pouvoir des Dieux sacrifier le Maître.
+
+Oh ! La chose est assurément.
+
+Je l'avais bien prévu. Fatal éloignement !
+Ridicule déguisement !
+Importune grandeur ! Pourquoi ne pas paraître
+Aux regards d'un objet charmant
+Dans tout l'éclat où le Ciel nous fait naître,
+Et craindre de le trop honorer en l'aimant ?
+
+M'en voilà pour jamais revenu, je te jure,
+Sans craindre que Junon murmure,
+Je me veux exposer à ses chagrins jaloux,
+Et me faire un plaisir de braver son courroux.
+Il faut pour mieux me venger d'elle,
+Ouvertement aux yeux de tous,
+Lui préférer une simple mortelle.
+Je ne saurais marquer trop de ressentiment ;
+Cherchons Corine, il en est temps encore,
+Avouons-nous pour son Amant.
+Et que tout l'univers sache que je l'adore.
+
+Tu raisonnes fort sagement,
+Et c'est l'excès de la colère
+Qui cause en moi ce premier mouvement.
+
+Je suivrai tes conseils en tout aveuglément.
+
+Je ne me trompais pas. Ah ! C'était un Amant,
+Et que Junon protège apparemment.
+
+Il n'évitera pas un juste châtiment,
+On fait à mon amour un affront trop sensible,
+Et l'on n'offense pas les Dieux impunément.
+
+Et pour faciliter sa fuite,
+Est-il venu quelqu'un lui rendre ici visite ?
+
+Ah ! Jalouse Junon ! Je reconnais vos coups,
+Et les Amours jamais n'auraient osé sans vous
+Me faire une pareille offense.
+
+Mais Faunus est avec eux, sans craindre mon courroux
+A-t-il été d'intelligence ?
+
+Que veut dire ceci ? Sur ses pieds chancelants
+Il semble qu'à regret tout son corps se soutienne.
+
+Voilà de mon malheur une preuve certaine.
+
+En quel état vous trouvai-je, Faunus ?
+
+J'avais compté sur votre vigilance.
+
+Et Corine ?
+
+Si j'en suis fâché ?
+
+Quoi ?
+
+Ne rougissez-vous point de l'état où vous êtes ?
+
+Quelle honte !
+
+Pour faire contre vous éclater ma vengeance,
+Je vous dégraderai de l'immortalité.
+
+Quelle indignité !
+À quel excès je me sens irrité !
+Les Amours et Bacchus aujourd'hui me trahissent,
+Avec Junon de concert ile s'unissent.
+Ah ! Je les punirai de leur témérité :
+Pour Junon, j'y suis fait, et j'ai toujours été
+L'objet de son humeur et de sa jalousie,
+Et je ne puis priver Bacchus de l'ambroisie ;
+Mais pour un tas confus de ces petits Amours,
+Dont le nombre partout augmente tous les jours,
+Je puis au gré de mon envie,
+Les soumettre à perdre la vie ;
+Le destin me permet de les traiter ainsi,
+Va, cours dire à Vénus…
+
+      Vous venez à propos, Déesse.
+
+Et pour une affaire qui presse,
+J'avais dessein de vous parler aussi.
+
+Ce que je vous dirai pourra ne vous pas plaire !
+
+Junon… ne me parlez point d'elle.
+
+Junon !
+
+Déesse vous venez ici nous débiter
+Une ridicule morale.
+Un mari peut manquer à la foi conjugale,
+Sans que la femme soit en droit d'en profiter.
+Il est des lois de bienséance,
+Les maris ont de certains droits.
+
+Morbleu de toute votre race
+J'ai bien à me plaindre aujourd'hui ;
+L'aîné prend ma femme pour lui,
+Les cadets pour un autre enlèvent ma maîtresse ;
+Pour l'aîné, je conviens de ce que je lui dois ;
+Il a souvent bien servi ma tendresse,
+Et là-dessus je suis de bonne foi.
+Il faut bien, en faveur de tant de bons offices,
+Lui passer ses tendres caprices,
+Quoique ma femme en soit l'objet,
+Mais qu'il en demeure au projet.
+
+Ah ! C'est ce que l'on doit attendre ;
+Mais lorsqu'à votre aîné j'ai des grâces à rendre,
+J'ai du regret à ne vous point mentir,
+D'être obligé de vous apprendre
+Quel violent parti contre tous ses cadets,
+Après les chagrins qu'ils m'ont faits,
+Mon courroux vient de prendre.
+
+      Ils ont prêté
+Leurs soins pour enlever Corine.
+
+J'en crois le mouvement dont j'en suis agité,
+Et la fureur qui me domine ;
+Ils m'ont trahi, mais je m'en vengerai,
+J'en vais détruire autant que je pourrai.
+
+Ils en ressentiront cependant les effets.
+
+C'est assez qu'à l'aîné je laisse ses Autels,
+Les autres deviendront mortels :
+De ma vengeance il faut laisser des marques,
+Je les assujettis aux caprices des Parques.
+
+Allez, dépêchez-vous ; que mon ordre, Mercure,
+À l'instant soit exécuté.
+
+Non, Je suis trop piqué,
+Il ne sera point révoqué,
+Et c'est par le Styx que j'en jure.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+Je cherche en vain de toutes parts.
+La Paix, dans ces climats avant moi descendue,
+Ne s'offre point à mes regards ;
+Où peut-elle être retenue.
+Mais quel éclat vient de percer la nue ?
+C'est elle, je la vois.
+
+C'est moi-même, divine Astrée ;
+Mais vous depuis longtemps des mortels malheureux
+Avec tant d'ardeur désirée,
+Vous me semblez bien lente à contenter leurs vœux.
+Avec empressement de la voûte azurée,
+Je vous ai vue partir pour vous rendre chez eux.
+J'ai, depuis vous, quitté les cieux,
+Et vous croyais ici déjà bien établie.
+Cependant à ce que je vois,
+Vous arrivez même après moi.
+
+Ainsi donc tout était disposé pour vous rendre
+Les tranquilles tributs qu'on doit à vos autels,
+Et vous auriez dû moins attendre
+À remplir les vœux des mortels.
+
+Jupiter songe à remplir vos desseins,
+Et puisqu'en ces climats vous venez de descendre,
+Que vous choisissez pour séjour
+Le même asile que l'Amour,
+Les jeux et les plaisirs en foule vont s'y rendre.
+Déjà de toutes parts ils volent en ces lieux :
+Et moi, par ordre exprès du Souverain des Dieux,
+Je viens rendre à cette contrée,
+Par vous contre le sort à présent rassurée,
+Tout ce que les Beaux-Arts ont de plus précieux.
+Avec Bacchus l'Amour d'intelligence
+Y va répandre l'abondance.
+Le Dieu des Mers,
+Des plus lointains climats du monde,
+Sur le sein de l'onde,
+Y conduira mille peuples divers.
+
+Il est le séjour de la Paix :
+Il doit être heureux et tranquille.
+
+Pour vivre avec eux, sans craindre
+L'éclat bruyant de leur Divinité,
+Il n'a qu'à ne les pas contraindre,
+Tous deux aiment la liberté.
+
+Non, tant mieux, pour fixer la troupe passagère,
+Qui de l'un et l'autre hémisphère
+Vous viendra faire ici sa cour,
+Leur secours nous est nécessaire.
+
+Il en est ici de charmants,
+Et que tout le monde idolâtre.
+
+Sans vous tout déplaît, tout ennuie.
+Mais pour leur redonner de nouveaux agréments,
+Apollon consent que Thalie
+Et la Muse de l'harmonie,
+Donnent des spectacles galants,
+Et puissent de concert exercer leurs talents.
+
+C'est le sujet de mon voyage,
+Et je n'y perdrai point de temps.
+
+Bacchus avec l'Amour accompagnent ses pas ;
+S'ils veulent avec nous être d'intelligence,
+Leurs soins ne nous nuirons pas.
+
+Salut au Patron des buveurs.
+
+Salut au Dieu dont tous les cœurs,
+Tôt ou tard sentent la puissance.
+Quel sujet vous amène ici ?
+
+Jupiter, mon père et le sien,
+Pour consacrer le nom d'une jeune Maîtresse,
+Qu'il eût jadis, et dont il n'obtint rien,
+Aux regards des mortels veut bien
+Que l'on révèle sa faiblesse.
+
+Vous servîtes mal sa tendresse.
+
+Je serai le Musicien.
+
+Ce soin me regarde.
+
+La noce et les frais du festin.
+
+      Qu'on y boira du vin !
+
+      Nous-mêmes.
+Il faut dans ces commencements
+Descendre un peu de nos grandeurs suprêmes,
+Pour mériter des applaudissements.
+Jupiter et Vénus, Junon même, s'apprêtent
+À seconder les jeux qu'ici nous préparons ;
+Et de concert avec nous ils se prêtent
+Aux spectacles galants que nous y donnerons.
+Au siècle où nous sommes,
+Si fertile en beaux esprits,
+Les Dieux comme nous à Paris,
+Sont à peine assez bons pour divertit les hommes.
+
+Comme elle se passa jadis,
+Même forme, mêmes habits,
+En robe seulement à la Thessalienne ;
+Et voici justement un endroit pour la Scène,
+Il ne peut être mieux représenté.
+Vous voyez de Tempé les bosquets, la fontaine ;
+Et sur le beau coteau qui termine la plaine ;
+Se trouve aussi le Palais enchanté,
+Où Jupiter faisait garder cette Beauté,
+Que Bacchus et l'amour livrèrent à Philène.
+
+Et moi, je ne puis plus me faire violence.
+Si mon respect pour vous me condamne au silence,
+Mon zèle me force à parler.
+
+Je vous ai dit ce que je pense,
+Et c'est à vous d'ouvrir les yeux,
+Vous êtes le Maître des Dieux,
+Et comme tel exempt de toute dépendance ;
+Mais l'Amour vous retient trop longtemps en ces lieux.
+Votre séjour doit être dans les Cieux ;
+Et pendant une longue absence,
+Vos affaires n'y vont pas mieux.
+Junon là-haut fait la diablesse à quatre.
+
+Le Soleil accablé d'ennuis
+De ce qu'avec Vénus Mars a passé deux nuits,
+Est contre lui prêt à se battre.
+L'Amour s'enivre tous les jours,
+Il a chanté pouille à Minerve.
+Épris d'une amoureuse verve,
+Vulcain danse avec les Amours.
+Dans l'Olympe jamais on ne vit tels vacarmes,
+Diane est sans pudeur, la Jeunesse est sans charmes ;
+Cet étrange dérangement
+A gagné jusqu'au Firmament.
+La révolte est partout, les Étoiles errantes
+Lassées de trop courir veulent se reposer,
+Les fixes osent proposer
+Que pour les divertir on les rende courantes.
+La Lune dans la nuit refuse d'éclairer ;
+Momus ennuyé de médire,
+Devient Panégyriste et quitte la satire.
+Les Ris sont tous prêts à pleurer ;
+Et Jupiter ne songe ici qu'à folâtrer,
+À faire le galant, à soupirer, à rire.
+
+C'est bien dit, faisons diligence,
+Le temps nous presse.
+
+Hâtez-vous donc de me le déclarer ;
+Dans vos sec rets en conscience,
+Sans votre aveu je n'ose pénétrer.
+
+Hé ! N'ai-je pas, moi-même, embarqué l'aventure ?
+Mais un peu trop longtemps cette passion dure,
+Et c'est de quoi je suis surpris.
+
+Très fort même, je vous assure.
+Prompt à vous laisser enflammer
+Par le mérite des mortelles,
+Je vous ai vu pour vous en faire aimer,
+Prendre mille formes nouvelles ;
+Mais au bout de quelques instants,
+En Amant bien sensé vous faisiez mieux les choses :
+Et chez vous les Métamorphoses,
+Aussi bien que l'Amour ne duraient pas longtemps.
+
+Aujourd'hui dans celle où vous êtes,
+Vous vous aimez bien mieux apparemment,
+Et le plaisir que vous vous faites
+De n'en sortir que lentement.
+
+À tâcher de vous rendre heureux
+La tante ne s'est point prêtée ?
+
+Je ne vous connais plus, vous devenez tout autre ;
+Sur un tel changement il faut se récrier ;
+La tante a bien fait son métier,
+Mais vous avez mal fait le vôtre.
+
+Vous filez le parfait amour
+Auprès d'une beauté de tout point accomplie,
+Et dans les plus beaux lieux qui soient en Thessalie,
+Ayant fixé votre séjour,
+Tout vous plaît, rien ne vous ennuie ;
+Et vous vous promettez qu'un jour
+Vous règnerez dans le cœur de la belle.
+
+Tôt ou tard vous serez content ;
+Mais enfin sûr d'être aimé d'elle,
+Que craignez-vous en la quittant ?
+
+Faunus vient.
+
+Voilà de quoi nous achever.
+
+J'en suis pour vous fort inquiet aussi.
+
+Et tout-à-fait déterminante :
+Nous allons donc partir pour retourner aux Cieux.
+
+J'en conviens, l'aventure a de quoi vous surprendre.
+Plus que vous j'en suis étonné ;
+Rien ne devait vous faire attendre
+Un retour si peu fortuné.
+
+Hé ? Pourquoi donc ?
+
+On aurait là-dessus bien des choses à dire.
+
+Oui, nous n'avons pas lieu de rire.
+
+Oui da, cela pourrait bien être.
+
+Mais du moins c'est sans vous connaître.
+
+À vous en parler franchement,
+Ce ne serait point ma manière ;
+Mais c'est un usage ordinaire
+Que vous n'avez encore quitté que rarement.
+
+Un peu plus de prudence, et moins d'empressement,
+Pour quelque temps il est bon qu'on l'ignore :
+Il est bien vrai que votre amour l'honore.
+Mais il ne vous fait pas honneur également.
+Sachons d'abord ce qu'elle est devenue ;
+Une fille qu'on perd de vue,
+Se retrouve parfois assez facilement,
+Mais pas toujours telle qu'on l'a perdue.
+
+Hé ! De grâce, qu'il se modère.
+
+Pour mieux approfondir l'affaire,
+Cherchons ici Faunus de toutes parts,
+Il faut que tôt ou tard il s'offre à nos regards,
+De Corine déjà je vois venir la tante.
+
+La chose n'est pas impossible.
+
+Je le crois, nous pensons de vous tout autrement.
+
+J'en répondrais à votre mine,
+Mais ne savez-vous comment,
+Avec qui, de ces lieux elle s'est échappée ?
+
+Nous le méritons bien franchement entre nous,
+Ils n'étaient pas de notre confidence.
+
+Nous le saurons, le voici qui s'avance.
+
+Il y paraît, vraiment.
+
+Je crois que la voici.
+
+Comment diantre. Ceci passe la raillerie !
+
+Vous serez obéi.
+
+Il est terrible en sa fureur ;
+Et les Amours, je vous assure,
+Ont grand tort dans cette aventure,
+Par un endroit sensible ils ont frappé son cœur ;
+Voilà pour eux une fâcheuse époque.
+De la façon qu'il a juré,
+Je ne crois pas, tout bien considéré,
+Que jamais l'ordre se révoque.
+
+Non, je ne puis trop tût satisfaire à son gré,
+Et je vais avertir les trois Sœurs filandières,
+Qu'à leurs lois Jupiter a soumis les Amours,
+Qu'elles sont désormais maîtresses de leurs jours.
+Impitoyables et sévères,
+Je crois que loin d'en prolonger le cours,
+Elles n'en épargneront guères ;
+Et je prévois que leur fatal ciseau,
+Les fera presque tous périr dès le berceau.
+Je vous quitte.
+
+Vous obéir n'est pas en mon pouvoir.
+Quand Jupiter prononce, il faut qu'à son devoir
+Sans différer on satisfasse.
+
+Jupiter près de vous m'envoie en diligence
+Vous annoncer le pardon d'une offense
+Qu'il ressentait avec trop de chaleur ;
+Mais il faut le servir dans sa nouvelle ardeur ;
+Junon au Ciel est retournée.
+
+Vous n'aviez jamais lu dans la Métamorphose,
+Les incidents qu'on vient d'exposer à vos yeux,
+Et de cette Métempsycose
+L'effet pourtant est sensible en tous lieux.
+L'histoire secrète des Dieux
+Pour les gens de bon goût doit avoir quelque chose
+D'intéressant, de curieux.
+Si cette épreuve a pu vous satisfaire,
+Nous tâcherons de temps en temps
+D'en démêler encore de nouveaux incidents,
+Et de les rendre de manière
+Que vous en soyez plus content :
+La troupe de nos Dieux préfère
+À l'intérêt, de même à tout encens,
+L'avantage seul de vous plaire,
+Et d'attirer vos applaudissements.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faunus
+
+Dans la forêt prochaine,
+Seigneur, Junon sans suite et toute hors d'haleine,
+Du Ciel en ce moment ici vient d'arriver.
+
+Je la crois informée
+Des raisons qui vous font demeurer parmi nous ;
+Elle paraît diablement animée,
+Et ce sera bien fait d'éviter son courroux.
+
+Pour l'objet de votre tendresse,
+Seigneur, n'ayez aucun souci,
+Je doute qu'elle la connaisse ;
+Comus, Plutus, Mercure et moi,
+Sommes seuls de la confidence,
+Et tous quatre, comme je crois,
+Avons su garder le silence.
+
+Ce départ semble vous fâcher.
+Laissez-moi faire, allez, sur ce qui vous regarde
+J'aurai soin de veiller, que rien ne vous retarde.
+
+Junon aura beau la chercher.
+
+Je vous réponds de la garder à vue.
+
+Parlez, c'est une affaire faite.
+
+Pour une fille simple, élevée au village,
+Dans le grand monde depuis peu ;
+Voilà bien du fracas.
+
+Soit, vous êtes bon et sage.
+
+J'aperçois votre belle.
+
+Cela se devine aisément.
+
+L'absence d'un amant
+Va vous rendre ici peu contente.
+
+Nous avons à peu près même tempérament ;
+Quand le moindre ennui se présente,
+Je le bannis dès le moment.
+Quelque part où je sois point de mélancolie,
+Je me livre avec joie aux plaisirs les plus doux.
+Votre amant part, il fait une folie,
+Vous voilà seule, à quoi nous divertirons-nous ?
+
+Mais avec votre suite :
+Car pour recevoir de visite,
+Néant ; à l'empêcher, je me suis engagé.
+
+Justement, c'est l'emploi que j'ai,
+Trouvez bon que je m'en acquitte.
+
+Oui, c'est mon seul objet, mon unique désir.
+
+Comment donc ! Que dois-je penser ?
+Quel trouble soudain vous agite ?
+Vous que le départ d'un amant
+Vient de toucher si faiblement ?
+
+Ce n'est donc pas apparemment
+Celui qui part en ce moment.
+
+Par tous vos beaux discours je ne suis point tenté.
+
+M'en laisser émouvoir serait trop hasarder,
+Sans adieu. Voilà votre tante,
+Je m'en vais redoubler mes soins pour vous garder.
+
 Comment donc, Madame la tante !
 Pourquoi me devancer ainsi ?
 Vous me semblez vraiment bien diligente,
 Je vous quitte là-haut, et vous retrouve ici.
 
--*who_junon
-À force de courir, j'ai perdu presque haleine.
-De Corine j'étais en peine.
-
--*who_faunus
 J'en étais presque en peine aussi.
 C'est ici que je l'ai laissée.
 
--*who_junon
-Bien promptement elle s'est éclipsée.
-Je crains…
-
--*who_faunus
 C'est vainement que vous vous alarmez,
 Et ces Jardins sont bien fermés.
 Sans une puissance divine
@@ -1171,153 +1468,567 @@ On ne saurait pénétrer en ce lieu,
 Et je ne pense pas qu'un Dieu
 Songe à nous enlever Corine.
 
--*who_junon
-Comme vous je me l'imagine ;
-Mais afin d'adoucir un peu
-Le chagrin qu'elle a de l'absence
-De l'Amant qui la tient ici sous sa puissance…
-
--*who_faunus
 Ce qu'elle en fait paraître n'est qu'un jeu,
 Je sais ce qu'il faut qu'on en pense.
 
--*who_junon
-Moi, j'en juge par l'apparence,
-Et voudrais que, de votre aveu,
-On fit effort pour la distraire
-Des dangereux égarements
-Qui me paraissent trop lui plaire.
-
--*who_faunus
 Oui, voilà le nœud de l'affaire ;
 J'entre dans tous vos sentiments,
 On l'a confié à ma garde.
 
--*who_junon
-Ce soin comme vous me regarde.
-
--*who_faunus
 Elle a pour s'échapper quelque mauvais dessein.
 
--*who_junon
-Peut-être… Ma franchise à moi vous est connue ?
-
--*who_faunus
 Pour cela, oui, j'en suis certain.
 Mais je la vois paraître au bout de l'avenue.
 Songeons à l'amuser, sans la perdre de vue.
 
--*who_junon
-Pour nous tromper tous deux, il faut être bien fin.
-
--*who_faunus
 Et se lever de bon matin.
 
-**** *book_ *id_II11 *act_II *date_1717
-
--*who_junon
-Je vois dans ces bosquets la véritable tante,
-Disparaissons. Il serait dangereux
-Qu'ici Faunus nous vît ensemble toutes deux,
-Ses soupçons troubleraient le dessein que je tente ;
-Mais une musique galante
-Des plus doux sons fait retentir les airs ;
-De Nymphes, de Bergers, une troupe charmante,
-Forme ces aimables concerts.
-Avec eux déguisé, l'Amour conduit la Fête,
-Invisible et présente à tout,
-Attendons en repos le succès qu'il m'apprête :
-Est-il quelque projet dont il ne vienne à bout.
-
-**** *book_ *id_II12 *act_II *date_1717
-
--*who_lamour
-Animez-vos d'un nouveau zèle,
-Formez ici d'aimables jeux,
-N'entendez-vous pas qu'en ces lieux
-L'Amour lui-même vous appelle.
-
-**** *book_ *id_II13 *act_II *date_1717
-
--*who_faunus
 Bergers, trouvez bon qu'en ces lieux,
 On prenne part à vos aimables jeux.
 
--*who_corine
-J'ai revu mon Berger, Philène, il m'est fidèle ?
-
--*who_philene
-Je retrouve Corine, ô Berger trop heureux !
-
--*who_merope
-Philène ici ? Quelle surprise ! Ah Dieux !
-
--*who_philene
-En la voyant mon feu se renouvelle.
-
--*who_merope
-Sans faire aucun éclat, observons-les tous deux.
-
--*who_philene
-Amour, tu me la rends plus belle,
-Rends-la constante et sensible à mes feux :
-J'en suis sûr, et je lis mon bonheur dans ses yeux.
-La constance ici tient sa cour,
-Les chagrins, les peines cruelles,
-N'approchent point de cet heureux séjour ;
-C'est un domaine de l'Amour,
-Qui n'est ouvert qu'aux cœurs fidèles.
-
--*who_philis
-L'Amour est un Dieu charmant,
-Dont le pouvoir s'étend sur tout ce qui respire.
-Ne craignons point de prendre un tendre engagement ;
-Quand c'est l'Amour qui nous l'inspire,
-On est heureux sous son empire,
-Lorsqu'on sait aimer constamment.
-
--*who_philisetphilene
-Ne quittons point ces aimables retraites ;
-C'est pour les cœurs constants qu'elles sont faites ;
-Passons ici nos plus beaux jours,
-Éloignons-en les volages amours.
-
--*who_philisettircis
-Ne quittons point ces aimables retraites ;
-C'est pour les cœurs constants qu'elles sont faites ;
-Passons ici nos plus beaux jours,
-Éloignons-en les volages amours.
-
--*who_faunus
 Comment donc, vous croyez ici faire les maîtres ?
 Allez ailleurs passer vos plus beaux jours,
 Dans vos hameaux ou sous vos hêtres :
 Vous en pourrez chasser les volages Amours,
 Mais ne revenez pas en ces lieux davantage.
 
--*who_philene
-Nous avons cru vous divertir.
-
--*who_merope
-Le beau régal ! Prenez un parti sage
-Et dépêchez-vous de partir.
-
--*who_corine
-Mon amant n'est point volage,
-Notre amour est en sûreté.
-
--*who_merope
-Qu'est-ce à dire ?
-
--*who_faunus
 Rentrons, nous. Ces gens de Village
 Sur l'amour, la fidélité,
 Tiennent toujours un sot langage,
 Et qui ne convient point aux gens de qualité.
 
-**** *book_ *id_III01 *act_III *date_1717
+Quoi seule ! Où donc Corine est-elle, je vous prie ?
 
--*who_corine
+À dissiper sa rêverie,
+Nous nous employons vainement.
+
+Bon, tant mieux, avec nous voilà comme il faut être.
+
+Non, non, ne craignez point que cela lui convienne,
+La malepeste, allez, mon Maître n'est pas fat,
+Que n'a-t-il point fait pour la sienne ?
+Il avait un cousin, manant, faquin, pied-plat,
+Par son crédit et son opulence,
+Il en fit en six mois un Seigneur d'importance,
+Il était sans honneur, et chacun l'honora ;
+Il était fat, on l'admira :
+Tous les défauts trouvèrent grâce,
+Et le monde aisément comprit
+Qu'il n'était ni de noble race,
+Ni de mérite, ni d'esprit,
+Mais parent de quelque homme en place.
+Oh ! Mon Maître par-là fit bien voir son crédit.
+
+Il le fera, j'en suis sûr, avec joie.
+Il fait pour ses amis toujours tout ce qu'il peut,
+Et le bon de l'affaire est qu'il peut ce qu'il veut.
+
+Bons sujets !
+
+Ah ! Fort bien, ce sont-là des gens bons à placer,
+Qu'il est facile d'avancer.
+Dans le chemin de la fortune
+Ils marchent à pas de Géant,
+Et presque au sortir du néant
+En peu de temps ils en ont une.
+Il semble que le Ciel se plaise à les venger
+Du mépris que pour eux certains sots font paraître,
+Et cherche à les dédommager
+Du peu qu'il les avait fait naître.
+
+N'est-il pas vrai ? Sagement il dispense
+De la noblesse aux uns, aux autres l'opulence :
+Il satisfait ainsi chacun par ce moyen.
+
+Vous avez bin esprit, et c'est fort bien l'entendre.
+Mais qui vient brusquement nous troubler en ces lieux ?
+
+Ah, morbleu ! C'est Bacchus ; qu'aurait-il à m'apprendre ?
+
+Bacchus ici pour quelque affaire ?
+
+Quoi ! Comment donc ?
+
+De sentiment il faut qu'il ait changé,
+Car c'était un secret que nous voulions vous taire.
+
+S'il est pour l'empêcher des mesures à prendre,
+Que ne les prenait-il avant que de partir ?
+Ne prévoyait-il pas ce qu'il devait attendre ?
+Il n'avait qu'à m'en avertir.
+
+Oh ! Quelque mauvais tour que Junon nous apprête,
+De m'en garder je viendrai bien à bout.
+
+Je prévois aisément tout ce qu'on peut tenter.
+
+Le tour serait assez risible,
+Et le projet est bon. Mais comment l'achever ?
+
+Mais que diantre pensera-t-elle ?
+Jupiter à ses yeux paraît un gros Seigneur,
+Elle va le croire Enchanteur :
+Pour toucher le cœur d'une belle
+C'est un assez mauvais moyen.
+
+Il est vrai, je m'en ressouviens.
+
+Peut-être elle fera quelque difficulté.
+
+Justement, attendez-vous-y,
+Nous laisserons la porte ouverte.
+
+Il aurait tort de le prétendre :
+Quoique dans un écrin…
+
+C'est ce qu'avec grand soin l'on vient de me défendre.
+
+      Point.
+
+Acceptez le présent.
+
+Ni moi ne suivre pas l'ordre qu'on m'a dicté.
+
+Oui, j'en conviens, je n'en ai guère.
+
+Hé bien, épargnez-vous un scrupule affecté.
+Tant de grimaces est fort peu nécessaire.
+
+      Volontiers, c'est un ajustement
+Qu'on peut prendre dans cette affaire.
+Oh bien donc ! Ce coffret renferme un diamant.
+
+Un anneau.
+
+Oui, mais de cet anneau vous ignorez l'usage.
+
+N'en craignez point l'événement,
+Le diamant ne peut être que magnifique ;
+Mais ce n'est rien que la beauté ;
+Par une puissance magique,
+À votre doigt l'anneau porté,
+Dans l'instant vous rend invisible,
+Et l'on ne vous revoit qu'après qu'il est ôté.
+
+      La vérité.
+
+      Ce n'est point fausseté,
+Le talisman est infaillible.
+
+Au plaisir de la nouveauté,
+Est-il un cœur inaccessible ?
+Voilà le présent accepté.
+
+Comment donc, s'il vous plaît, croyez-vous que je mente ?
+
+Fort volontiers. Hé bien, n'êtes-vous pas contente ?
+
+La chose est assez surprenante.
+
+Oh ! Oui.
+
+Fort bien.
+
+Rien n'est plus merveilleux.
+
+Comme si vous étiez absente.
+
+Ne vous éloignez pas s'il vous plaît davantage,
+Allons vous avez fait l'épreuve, et c'est assez.
+Ôtez la bague et finissez.
+
+Comment ! Que dites-vous ?
+
+Comment ! Écoutez donc, Corine, je vous prie,
+Ne vous avisez pas d'aller me faire ici
+De mauvaise plaisanterie ;
+Je n'aime pas la raillerie,
+Et ce n'est pas un jeu que cette affaire-ci.
+Elle ne répond point, elle s'est écartée :
+Où la trouver et comment ?
+Voilà pour un commencement,
+Un bel effet de la bague enchantée :
+Jupiter ne sait ce qu'il fait,
+Il me donne en partant à garder sa Bergère,
+Et par Bacchus il envoie un secret
+Pour empêcher de voir ce qu'elle voudra faire.
+Je suis moi-même un grand sot aujourd'hui,
+De n'avoir pas prévu la chose ;
+Mais quand je l'aurais fait, je n'ose
+Croire avoir plus d'esprit que lui.
+À quoi la passion expose !
+Elle obscurcit l'esprit, elle aveugle les yeux,
+Et l'Amour, qui se rit de tous tant que nous sommes,
+Fait assez souvent faire aux Dieux
+Autant de sottises qu'aux hommes.
+Quel parti prendre ! Il faut tâcher
+Adroitement de faire en sorte
+De rattraper la bague, et surtout d'empêcher
+Que de ces lieux l'invisible ne sorte ;
+Courons, et redoublons la garde de la porte,
+Si on ne la voit pas, on pourra la toucher.
+
+Ah ! Vous vous lassez donc enfin d'être invisible ?
+Je m'y suis, par ma foi, toujours bien attendu.
+Du Diamant autant qu'il est possible,
+Sans doute vous avez éprouvé la vertu.
+
+Hé ! De quoi donc.
+
+Vous n'avez plus l'Anneau magique ?
+
+Parbleu, ce n'est pas là, s'il faut que je m'explique,
+Le plus grand mal qui pouvait arriver.
+Pour vous cacher vous êtes trop charmante.
+On perd trop à ne vous voir pas ;
+Et quand le Ciel de tant d'appas
+Orna votre beauté naissante,
+Ce serait offenser les hommes et les Dieux,
+De dérober tant d'attraits à leurs yeux.
+
+Quand cette perte est un bonheur pour nous,
+Il ne faut pas qu'on la regrette.
+
+Je suis charmé de vous voir satisfaite.
+
+      Hé bien,
+Pour vous entretenir dans cette humeur gaillarde ;
+Car vous savez que de ma part,
+Heureusement aussi je suis assez gaillard.
+Voulez-vous que je me hasarde
+À vous donner ici, pour vous désennuyer,
+Un petit plat de mon métier ?
+
+      Une Fête,
+Que dans ces lieux Bacchus avec l'Amour apprête,
+Et qu'ils m'ont demandé de répéter ici.
+Je leur ai de bon cœur accordé leur requête,
+Ils ne tarderont pas à venir. Les voici.
+
+      N'ayez point de scrupule.
+
+      Bon, et Bacchus et l'Amour
+Aux mortels en crédit tous les Dieux font la cour :
+S'en étonner, c'est être ridicule.
+Nous plaire c'est leur unique soin,
+Et nos faveurs font leur mérite
+
+Vous avez là de bons Soldats.
+
+Pas trop, Seigneur Bacchus.
+
+Uniquement sensible aux charmes des mortelles,
+Il néglige ces soins pour elles.
+
+      Oui ; mais enfin, c'est un dérangement
+Que Bacchus peut réparer aisément.
+
+      Vous avez de vendange excellente
+Copieuse provision.
+
+      Le vin n'est pas ma passion ;
+Mais cependant je suis d'humeur fort complaisante,
+Et j'en bois quantité par conversation.
+
+      Bonne précaution !
+Voilà ce qui s'appelle une Fête charmante,
+Des vins les plus délicieux.
+Ordonnez, s'il vous plaît, que la troupe Bacchique,
+En partageant nos plaisirs en ces lieux,
+De concert à l'envi s'applique,
+Par d'agréables jeux, par de tendre musique,
+À nous occuper de son mieux,
+Et les oreilles et les yeux.
+
+Sans trop examiner, ni leurs droits, ni les vôtres,
+En toute occasion, je crois
+Avait toujours de bonne foi,
+Bien payé les uns et les autres.
+
+      Pour ceux de Bacchus aujourd'hui,
+Je m'en suis acquitté dignement avec lui.
+
+      Partie à remettre,
+Parce que l'un ne peut permettre…
+Que tous les deux… conjointement…
+Prennent certain arrangement…
+Après cela pourtant, je puis bien vous promettre…
+Quant à présent, que je me porte bien…
+Mais pour une autre fois que vous n'y perdrez rien…
+Et que sans vouloir vous commettre…
+Il ne faut là-dessus avoir aucun souci…
+D'autant que souvent on hasarde…
+Que qui devrait garder, a besoin qu'on le garde…
+Au bout du comte enfin… Bonsoir et grand merci.
+
+Pour rattraper un peu l'usage de mes sens,
+Il est bon que je me promène.
+
+Ah, ah ! C'est vous, parbleu, soyez les bienvenus.
+J'allais commencer d'être en peine.
+
+Vous le voyez, la bedaine assez pleine,
+C'est votre fils… son frère à lui… Bacchus,
+Qui pour… renouveler… l'ancienne connaissance…
+Oh ! Nous avons, ma foi, soufflé d'excellent jus.
+
+Oui, je suis vigilant, on ne peut l'être plus.
+
+Il y paraît ? Abus.
+
+Êtes-vous fâché de son absence ?
+
+Paix, je suis au fait, motus,
+Mais par discrétion je garde le silence.
+
+      Ne me dites rien, s'il vous plaît, là-dessus,
+Voilà la tante encore, c'est une grande avance ;
+Je ne perds pas, comme on voit, connaissance,
+Et les pièges qu'on m'a tendus…
+Bref, vos rivaux seront tous confondus.
+
+Non ; pour un peu de vin, quel vacarme vous faites !
+
+      Voilà justement ce que c'est :
+Vous autres Dieux de la première classe,
+Vous buvez du nectar autant qu'il vous plaît,
+Sans que sur vos cerveaux il fasse
+Nulle impression, nulle trace ;
+Pour nous autres, il y paraît.
+
+Non, non, n'en faites rien, donnez-vous patience,
+Avec la tante en diligence,
+Je vais chercher partout : et mon activité
+Justifiera que ma fidélité
+Mérite une autre récompense,
+Sans adieu.
+
+Hé ! Qu'est-ce donc, voici bien du remue-ménage ?
+Jupiter est pis qu'enragé,
+Et moi de mon côté j'enrage.
+C'est vous, petit fripon, je gage,
+Qui malice avez ici tout dérangé.
+
+Vous avez là-dedans bien opéré, vraiment,
+Un mortel est maître des charmes
+Que le Maître des Dieux aimait si tendrement :
+Je ne m'étonne pas s'il met tout en alarmes.
+Dans tout ceci pour moi je n'attends rien de bon.
+
+Oh ! Pour cela, c'est une chose à faire,
+C'est lui qu'il faut bannir du rang des Immortels.
+Quand on détruirait ses Autels,
+On ne s'en plaindrait pas, et l'on n'y perdrait guère ;
+Mais vouloir supprimer la race des Amours,
+Ce serait déranger l'ordre de la nature ;
+Le monde, sans l'Hymen, doit bien durer toujours ;
+Mais sans Amours, il est bien malaisé qu'il dure,
+Je crains fort entre nous la fin de l'aventure.
+
+Hé, comment avez-vous pu faire ?
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+Un soin pressant qui pour vous m'intéresse,
+Me fait vous chercher jusqu'ici.
+
+La confidence est fâcheuse à vous faire.
+
+Junon… votre chaste moitié….
+
+Sent pour mon fils, qui soupire auprès d'elle,
+Un peu plus que de l'amitié.
+
+De vos amours voilà quel est l'effet ;
+Je ne dois pas les blâmer tout-à-fait,
+C'est une liberté qui ne m'est pas permise,
+Mais votre exemple l'autorise.
+Comme chez les mortels, l'exemple chez les Dieux
+Est tout-à-fait contagieux :
+Quand à sa femme un mari donne prise,
+La femme cherche à l'imiter,
+Et c'est ainsi qu'on l'indemnise.
+
+On s'y conformais autrefois,
+Aujourd'hui l'usage en dispense,
+Les femmes ont changé de lois.
+
+Rassurez-vous, et n'ayez nulle crainte,
+Sa tendresse n'est qu'une feinte ;
+Et je n'ai pris le soin de vous en avertir,
+Qu'afin de vous faire sentir,
+Dans le désir d'être vengée,
+À quoi se peut livrer une prude enragée ;
+C'est à vous dans la suite à vous en garantir.
+
+Quoi ? Comment donc ! 
+
+Ce trait qui contre eux vous chagrine
+Ne doit point leur être imputé.
+
+Votre courroux contre eux n'a rien que j'appréhende.
+
+Vous en auriez d'inutiles regrets ;
+Ils mériteront grâce, et je vous la demande.
+
+Quel affront ! Quelle nouveauté !
+
+Cette peine est trop dure,
+Révoquez-en l'arrêt.
+
+Ciel ! Puis-je recevoir de plus sensible injure ?
+
+L'effet du moins par vous doit être différé.
+
+      Arrêtez de grâce.
+
+Et moi, pour qui cet Arrêt odieux
+Est l'offense la plus mortelle,
+Je saurai contre lui soulever tous les Dieux.
+De tes frères, mon fils, prends en main la querelle,
+Vengeons-nous de concert d'un Maître impérieux.
+
+Tu vois, mon fils, le cœur de ta mère agité,
+Du courroux le plus légitime.
+Tes frères sont privés de l'immortalité ;
+Sans les entendre, on les opprime.
+Contre eux Jupiter irrité,
+Que sans le rendre heureux Corine l'ait quitté,
+De sa fuite leur fait un crime :
+Il a donné l'arrêt.
+
+Vous le pouvez braver impunément,
+Mais vos frères, mon fils, objet de sa vengeance,
+Quand c'est vous qui faites l'offense,
+En reçoivent le châtiment.
+
+Vous ne faites que craindre en cette occasion,
+Et des Amours déjà la disgrâce est certaine.
+Doivent-ils seuls portés la peine,
+D'avoir trop bien servi Junon ?
+Jupiter, suspends ta vengeance,
+Ou si tu veux l'exercer aujourd'hui ;
+C'est l'Hymen qui te fait la plus sensible offense ;
+Punis-le, venge-toi sur lui.
+
+Que dites-vous ?
+
+Fort bien.
+
+Quel est-il ?
+
+Peut-on mieux des Amours réparer le malheur ?
+
+Que tout conspire à leur contentement.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corine
+
+Aujourd'hui de ces lieux on dit que vous partez,
+Quelle raison vous en écarte ?
+
+L'amour sans mon aveu se sert de ma puissance,
+S'il prend soin de vous arrêter.
+
+Malgré les plus doux soins, la plus longue constance,
+N'attendez jamais de moi
+Ni faiblesse, ni complaisance.
+Vous ne pourriez jamais vaincre ma résistance,
+En m'offrant même votre foi.
+
+Ces sentiments, ces superbes manières,
+Ne trouveront jamais le chemin de mon cœur.
+Qui s'estime trop ne plaît guères ;
+Chez nous les plus simples Bergères,
+N'aiment point les airs de hauteur.
+
+De la fortune et de l'amour,
+N'attendez rien même avec l'hyménée ;
+Cherchez en voyageant quelque autre objet.
+
+Jusqu'au revoir.
+
+Je ne me livre pas aux chagrins aisément.
+
+À ce qu'il vous plaira.
+
+C'est donc vous que de ma conduite,
+En s'éloignant on a chargé.
+
+Quand moi-même j'aurais pris soin de vous choisir,
+Je n'aurais pu mieux faire ; un homme de mérite,
+Qui n'aime qu'à faire plaisir.
+
+Dans l'état où je suis réduite,
+Une tendre pitié doit vous intéresser.
+
+L'absence d'un amant me gêne,
+Je m'en défendrais vainement ;
+C'est ce qui fait toute ma peine.
+
+Sans vouloir chercher à connaître
+L'amant à qui les Dieux ont soumis ma fierté,
+Laissez-moi m'affranchir de ma captivité :
+Souffrez que de ces lieux je puisse disparaître,
+Ce sera servir votre maître
+Que de me rendre la liberté.
+
+Vous êtes insensible aux douleurs d'une amante ?
+
+Je perds tous les soins que je tente,
+Mérope vient, elle sait mes secrets,
+Et n'est point dans mes intérêts.
+
+Hé ! Pourquoi s'éloigner ! Sans me faire de peine
+Il pouvait l'aimer à mes yeux.
+
+On ne peut l'être moins, ma tante, assurément.
+
+Ah ! Qu'il en fasse un autre usage.
+Ses offres, ses présents, de sa part tout m'outrage.
+C'est assez qu'il ait cru pouvoir impunément
+M'adresser un indigne hommage,
+Sans craindre mon ressentiment.
+
+      Absolument.
+
+Dût-il ne vivre qu'un moment.
+
+Qu'heureusement enfin je retrouve ma tante :
+C'est là l'unique espoir qui flatte mon attente.
+
+Mais comment pourrons-nous assurer notre fuite ?
+Ma chère tante, où sommes-nous ?
+Des inconnus en ces lieux m'ont conduite
+Malgré moi, presque malgré vous.
+Ce séjour est-il prêt ? Est-il loin de Larisse ?
+En nous sauvant, où fuir ? Où nous cacher ?
+Quel asile irons-nous chercher ?
+
+Nous n'y serons jamais assez tôt à mon gré.
+
+Ma tante, verrons-nous Philène ?
+
+Que mon absence lui fait peine !
+Hélas ! Ma tante, en ce moment,
+Peut-être me croit-il volage.
+Son cœur souffre un cruel tourment.
+Il faut que mon retour au plutôt le soulage.
+Aux Autels de l'Amour nous avons fait serment
+De nous aimer fidèlement.
+Nous nous sommes donné nos portraits pour otage
+D'un mutuel attachement.
+Accordez-nous votre suffrage,
+Et rendez heureux cet Amant.
+
+Je compte sur vous, ma tante, absolument.
+
+J'ai revu mon Berger, Philène, il m'est fidèle ?
+
+Mon amant n'est point volage,
+Notre amour est en sûreté.
+
 Tout m'est suspect ici, comme j'y suis suspecte,
 En m'outrageant, on m'y respecte ;
 On lit dans mes regards, on observe mes pas.
@@ -1339,15 +2050,6 @@ Daigne, loin de ces lieux faciliter ma fuite,
 Ou que mon Berger à ta suite,
 Amour comme tantôt se montre devant moi.
 
-**** *book_ *id_III02 *act_III *date_1717
-
--*who_merope
-Comment donc, vous parlez toute seule, ma nièce !
-Les yeux au Ciel et pleine de ferveur,
-Je ne sais à quel Dieu la prière s'adresse ?
-Mais elle est faite avec ardeur.
-
--*who_corine
 Vous ne vous trompez point, ma tante,
 J'adressais mes vœux à l'Amour,
 Je le conjurais qu'en ce jour
@@ -1355,47 +2057,853 @@ Il voulût me rendre contente ;
 Et vous-même tantôt paraissiez vous prêter
 À tout ce qui peut me flatter.
 
--*who_merope
-Je m'y prête, il est vrai, parce que je vous aime,
-Et le ne comprends pas quelle fatalité
-Vous y fait résister vous-même.
-
--*who_corine
 Je n'ai point d'autre objet, ma tante, en vérité,
 De mes sentiments informée,
 Vous-même ici tantôt les aviez approuvés,
 Je m'en tenais heureuse, et mon âme charmée…
 
--*who_merope
-Allez, ma nièce, vous rêvez.
-
--*who_corine
 Je vous ai déclaré la haine
 Que j'ai pour ce nouvel Amant.
 
--*who_merope
-Et j'approuvais cela, moi, ma nièce ?
-
--*who_corine
       Oui, vraiment.
 Je vous ai découvert mon amour pour Philène.
 
--*who_merope
-Je l'approuvais aussi peut-être ?
-
--*who_corine
       Assurément.
 
--*who_merope
-De sa première ardeur son âme est toujours pleine.
-
--*who_corine
 Comme moi sensible à la peine,
 Que me fait son éloignement,
 Vous me devez aider à sortir de la chaîne
 Qui me retient esclave en ces lieux.
 
--*who_merope
+Ma tante que m'osez- vous dire ?
+Quels préceptes ? Quel changement ?
+Vous me parliez tantôt ici tout autrement.
+Dans quel trouble nouveau votre discours me plonge !
+Je croyais voir par vous mon bonheur achevé :
+Est-ce que je rêve ? Est-ce un songe ?
+
+Nous braverons tous deux son pouvoir, sa colère.
+
+Aussi je le veux suivre en tout exactement,
+Vous avez aimé tendrement,
+Vous voyez que je vous imite,
+Jusqu'à la fin j'aurai même conduite.
+J'en fais tout mon bonheur, tout mon attachement ;
+Je prétends comme vous épouser mon Amant ;
+Si par hasard j'en ai du chagrin dans la suite,
+Pour m'en désespérer n'en serai-je pas quitte ?
+
+Comme vous en fûtes guérie,
+Ma tante, et jamais autrement.
+
+Je ne mérite pas tous les soins qu'il se donne,
+Ni ceux que l'on prend d'empêcher
+Que personne puisse approcher
+De ces lieux où l'on m'emprisonne.
+C'est me donner de son amour
+Un assez fâcheux témoignage,
+Et la contrainte est un triste présage
+De mon malheur, si l'hymen quelque jour
+Me mettait sous son esclavage.
+
+Vouloir la conserver ainsi,
+C'est presque en assurer la perte ;
+Et si de m'éloigner d'ici
+L'occasion m'était offerte…
+
+Je n'approuve pas ses projets :
+De ma part vous pouvez lui dire
+Que cet hymen n'a rien qui flatte mes souhaits.
+
+Le plus grand bonheur où j'aspire,
+C'est qu'il le sache, et ne le voir jamais.
+
+Des présents de sa part ! Suis-je fille à les prendre ?
+Et me croit-il sensible à l'intérêt ?
+Est-ce par-là que l'on rend un cœur tendre ?
+
+      Ouvrez-le, s'il vous plaît.
+
+Montrez-moi.
+
+      Voyons seulement ce que c'est.
+
+      Non, je ne le puis faire.
+
+C'est avoir peu d'honnêteté.
+
+Je voudrais bien pourtant pouvoir me satisfaire.
+
+Mais on ne vous a pas ordonné de vous taire,
+Dites-moi…
+
+Je ne veux pas en savoir davantage.
+
+      Voilà justement
+Ce que j'ai soupçonné dès le premier moment.
+
+Oh ! Je le devine aisément,
+Qui reçoit un présent s'engage,
+Et je sais que du mariage
+Une bague acceptée est le commencement.
+
+Que dites-vous.
+
+Aux charmes, je le crois, il n'est rien d'impossible,
+Et je n'en ai jamais douté :
+Sans en avoir pourtant vu nul effet sensible,
+Je souhaiterais fort…
+
+Voyons donnez… Au moins, c'est curiosité.
+
+Je n'ouvre cet écrin que d'une main tremblante :
+Que vois-je ? Quel brillant objet !
+C'est un mensonge qu'on m'a fait,
+Et cette lumière éclatante
+Doit produire un contraire effet.
+
+Non, mais mettez-le un peu, j'en veux faire l'essai,
+Je verrai si vous dites vrai.
+
+Vous avez disparu. Ciel, quel étonnement !
+
+Sans doute, mais ce diamant
+Fait-il le même effet sur tous également ?
+
+      Pour en avoir une preuve constante
+Par moi-même je veux l'essayer un moment.
+
+      Seconde, Amour, le projet que je tente.
+
+      Vous ne me voyez pas ?
+
+Je ne suis pourtant qu'à deux pas.
+
+J'en connais trop le prix pour n'en pas faire usage,
+Enfin mes vœux sont exaucés.
+
+      Que je sors d'esclavage,
+Et que mes malheurs sont passés.
+
+Que parle-t-il des Dieux, et de Jupiter même ?
+Ai-je bien entendu : serait-ce un Dieu qui m'aime ?
+Mais non, pourquoi se déguiser ?
+Pourquoi descendre ainsi de sa grandeur suprême,
+Et pour toucher un cœur chercher à l'abuser ?
+Je sens qu'en secret je me flatte
+De soumettre à mes lois une Divinité :
+Trop dangereuse vanité
+Qu'il faut que ma vertu combatte
+Par le secours de la fidélité.
+C'en est fait, et je veux que mon triomphe éclate.
+Quelque bonheur qui me soit présenté,
+Je me dois à Philène, et ne suis point ingrate,
+Et le Dieu sera rebuté :
+Voici Philène… sa présence
+Dans tous mes sens allume un nouveau feu.
+Il croit être seul en ce lieu,
+Il ne me saurait voir, examinons-le un peu,
+Écoutons, sachons ce qu'il pense,
+Et s'il mérite sur un Dieu,
+Qu'on lui donne la préférence.
+
+      Ah Philène !
+
+Le Ciel se déclare pour nous.
+
+Non, Philène, ce Dieu va combler votre espoir,
+Ce diamant me rendait invisible.
+
+Oui, mais il lui sera fatal,
+Il peut faciliter ma fuite ;
+Ou si vous demeurez près de moi dans ces lieux,
+Vous y cacher à tous les yeux.
+
+N'en doutez point, Philène, il doit leur faire envie,
+Ce présent vient de quelqu'un d'eux,
+Corine vous le sacrifie.
+Philène prend la bague et veut la mettre.
+Que Corine me rend heureux !
+
+Ah, Philène ! Arrêtez, ne troublez point ma joie
+En vous cachant sitôt à mes regards,
+Autant que nous pourrons, souffrez que je vous voie :
+Et quoique l'on m'observe ici de toutes parts ;
+Pour mettre cet anneau, du moins il faut attendre
+Que quelqu'un vienne nous surprendre,
+Ma tante porte ici ses pas.
+
+Cachez-vous à ses yeux ; mais ne me quittez pas.
+
+Vous pouvez disposer de moi.
+
+Quoi donc ?
+
+Mais à penser ainsi, qu'est-ce qui vous engage ?
+
+Hé bien.
+
+Quoi donc !
+
+      C'est la mienne, vraiment.
+
+Quoi donc ! Ma Tante ?
+
+De trouble, comme vous, je sens mon âme émue.
+
+Vous m'en voyez saisie, et je souffre une gêne ;
+Hâtons-nous de sortir de ce fatal séjour.
+
+Au contraire, ôtons-lui tout espoir en ce jour,
+Que le dépit rompe sa chaîne,
+Et s'il se peut qu'à son retour
+Il me trouve unie à Philène.
+
+Le nœud qui nous unit ne peut se délier ;
+Et si d'un Dieu j'étais aimée,
+Du plaisir de pouvoir le lui sacrifier,
+Ma tante, je serais uniquement charmée.
+
+Qui que ce soit, ma tante, il s'explique fort bien.
+
+Sans m'effrayer, sans me faire de peine,
+Cette voix m'a parlé presque tout aujourd'hui.
+
+Que dites-vous ?
+
+Ne vous inquiétez, ma tante, aucunement,
+Ce Follet me plaît fort ; bien loin qu'il me chagrine,
+Je crois, quand il me parle, entendre mon Amant ;
+Il me semble que c'est lui-même,
+Et je me sens une joie extrême,
+Quand il me parle tendrement
+Qu'il sera fidèle, et qu'il m'aime.
+
+Nous en voilà défaits.
+
+Remontrez-vous, cher Philène, à mes yeux,
+Un surveillant nous quitte.
+
+Ah ! C'est celui que dans ces lieux
+Nous avons le plus à craindre.
+
+Non, au silence encore il faudra vous contraindre ;
+Et de la bague il connaît le pouvoir
+
+Je suis dans un chagrin terrible.
+
+      Je l'ai perdu.
+
+Auprès d'une grotte rustique,
+Où je m'occupais à rêver,
+Il m'est tombé du doigt, je ne l'ai pu trouver.
+
+De la perte que j'ai faite,
+Vous me dédommagez par des propos si doux.
+
+À parler franchement, je ne regrette rien,
+Et j'ai en ce moment tout ce que je souhaite,
+Jamais un cœur ne fut si content que le mien.
+
+Qui ne le serait pas ?
+
+Fort volontiers. Que sera-ce ?
+
+Bacchus, l'Amour ! Fuyons.
+
+Des Dieux parmi nous !
+
+C'est un honneur dont je vous félicite ;
+Mais trouvez bon que je vous quitte,
+Et que je puisse voir leur Fête d'un peu loin.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
+Qu'avez-vous, ma chère Corine ?
+Je vous trouve rêveuse, inquiète, chagrine.
+Pourquoi d'un riche Amant méprisez-vous les vœux ?
+Votre fierté déjà l'écarte de ces lieux,
+On dit qu'un autre objet l'enchaîne.
+
+Vous êtes donc pour lui bien peu sensible ?
+
+Comment, ma nièce, est-il possible ?
+Il vous aime si tendrement :
+Il a tant de bien en partage,
+Il vous en fera part si libéralement ?
+
+Si de retour de son voyage,
+Il vous venait sincèrement
+Vous demander en mariage,
+Le refuseriez-vous, ma nièce ?
+
+Dans l'espoir même du veuvage ?
+
+Que je te sais bon gré d'un pareil mouvement !
+Et quelle joie est égale à la mienne !
+Dans ces bons sentiments que le Ciel t'entretienne.
+Approche-toi. Viens çà. Que cet embrassement
+De tes chagrins te récompense.
+Il faudra pendant son absence
+Faire tous nos efforts pour nous sauver d'ici.
+
+C'est le plus grand bonheur dont je me flatte aussi.
+
+Que notre dessein réussisse,
+Je te réponds d'un asile assuré.
+
+Avant qu'il soit peu je t'y mène.
+
+Philène ? Il est jeune et charmant,
+J'aime à te voir l'aimer si tendrement.
+
+Je réponds de l'événement,
+Va m'attendre dans ce bocage.
+
+Enfin sous ce déguisement
+Ma rivale me croit sa tante.
+Je sais son secret sentiment :
+Junon, tu dois être contente ;
+Et ton perfide époux n'a point touché son cœur.
+Elle est pourtant la victime innocente
+D'une trop vive et jalouse fureur,
+Si Bacchus à propos ne m'avait avertie,
+Que ni lui ni l'Amour n'étaient de la partie.
+Jupiter et l'Amour sont brouillés, que je crois.
+Assez souvent ensemble ils ont querelle :
+Profitons-en, l'occasion est belle.
+Pour l'engager à travailler pour moi,
+Approchez, Amour.
+
+      C'est elle.
+
+De la tante de Corine
+J'ai pris l'habillement, la figure et la mine,
+Afin de m'introduire ici ;
+Et cependant d'abord vous m'avez reconnue.
+
+J'ai, sans en avoir fait aucune expérience,
+Très bonne opinion de votre habileté.
+Mais que vois-je avec vous ? N'est-ce pas l'Inconstance ?
+
+Vous menez avec vous fort bonne compagnie.
+
+Il a vraiment en vous deux excellents ministres.
+Après cela je ne m'étonne pas
+De tant d'événements sinistres
+Qu'on voit là-haut comme ici-bas.
+
+Oui, de vous, il est vrai, vous m'êtes nécessaire ;
+Mais l'Inconstance ici pourrait me déranger,
+À peu de frais elle peut m'obliger,
+En ne se mêlant point du tout de cette affaire.
+
+Presque point ? Retranchez, de grâce,
+Ce terme-là de vos discours,
+Il n'est point du tout à sa place.
+Est-il quelque vertu que la mienne n'efface ?
+Je n'ai jamais fréquenté les Amours.
+
+Je n'en regrette point la perte.
+
+Quitter un style si badin,
+Comptez, Amour, que Junon s'en offense.
+
+Dédain, soit. Mais qu'enfin mon projet réussisse ;
+Il faut sans intérêt me rendre ici service,
+Pour faire enrager mon époux,
+Épouser mes transports jaloux.
+
+Qu'à ce ressentiment Junon est redevable ?
+Vous remplirez ainsi mes souhaits les plus doux.
+
+Hélas !
+
+Laissez-moi.
+
+Je crains d'être trop pitoyable.
+
+      Allez,
+Vengez-moi d'un Époux coupable,
+Tout réussit toujours quand vous vous en mêlez.
+
+Si de mes intérêts vous prenez la conduite,
+Je compte sur la réussite.
+Mais Faunus vient chercher Corine dans ces lieux,
+Sous ces traits empruntés il faut tromper ses yeux.
+
+À force de courir, j'ai perdu presque haleine.
+De Corine j'étais en peine.
+
+Bien promptement elle s'est éclipsée.
+Je crains…
+
+Comme vous je me l'imagine ;
+Mais afin d'adoucir un peu
+Le chagrin qu'elle a de l'absence
+De l'Amant qui la tient ici sous sa puissance…
+
+Moi, j'en juge par l'apparence,
+Et voudrais que, de votre aveu,
+On fit effort pour la distraire
+Des dangereux égarements
+Qui me paraissent trop lui plaire.
+
+Ce soin comme vous me regarde.
+
+Peut-être… Ma franchise à moi vous est connue ?
+
+Pour nous tromper tous deux, il faut être bien fin.
+
+Je vois dans ces bosquets la véritable tante,
+Disparaissons. Il serait dangereux
+Qu'ici Faunus nous vît ensemble toutes deux,
+Ses soupçons troubleraient le dessein que je tente ;
+Mais une musique galante
+Des plus doux sons fait retentir les airs ;
+De Nymphes, de Bergers, une troupe charmante,
+Forme ces aimables concerts.
+Avec eux déguisé, l'Amour conduit la Fête,
+Invisible et présente à tout,
+Attendons en repos le succès qu'il m'apprête :
+Est-il quelque projet dont il ne vienne à bout.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
+Salut au Dieu de l'Éloquence.
+
+L'ardeur de seconder le dessein où vous êtes.
+
+Ce sujet-là sera nouveau pour eux.
+
+Belle difficulté ! Thalie.
+
+Que la Musique soit jolie,
+Le trop beau, le trop grand ennuie :
+Pour plaire il faut un petit rien,
+Un Vaudeville, une heureuse folie.
+
+      Fort bien.
+Mais que ferai-je dans la pièce ?
+Car au succès je m'intéresse.
+
+Tope.
+
+J'y joindrai les gens de ma suite,
+Troupe de Faunes et de Sylvains,
+D'Habitants des pays lointains,
+Du Ballet j'aurai la conduite.
+
+On dirait en effet que c'est la vérité.
+Ce lieu charmant ici semble exprès transporté.
+
+Hâtons-nous donc. Commençons
+Par quelque grand Monologue,
+Ou par de petites Chansons.
+Ce que nous avons dit servira de Prologue.
+Quelque danse, et puis finissons.
+
+Servons Junon de notre mieux,
+Et faisons le bonheur d'un cœur fidèle et tendre ;
+Malgré le Souverain des Dieux.
+
+Dans ce séjour délicieux,
+Notre Maître bientôt tâchera de se rendre ;
+Mais de quelque côté que je tourne les yeux,
+Je ne vois point ici la beauté qu'il adore.
+Est-elle renfermée en son appartement ?
+
+Oui, de la part de son Amant
+Dites-lui que dans le moment
+Il arrive un courrier fort extraordinaire.
+
+Pour la même à peu près dont vous êtes chargé.
+
+      Pour moi, ce n'est plus un mystère,
+Et je viens vous trouver, suivant l'ordre que j'ai,
+De servir les amours de Jupiter mon père,
+Auprès de l'aimable Bergère,
+Qui sous ses lois tient son cœur engagé.
+
+Oui, mais il se trouve obligé,
+Ou par choix, ou par confiance,
+De m'en faire la confidence.
+Tandis qu'avec Mercure occupé dans les Cieux,
+Parmi les Astres et les Dieux,
+Il tâche à rétablir l'heureuse intelligence
+Qui doit toujours régner entre eux,
+Et qu'avait depuis peu dérangée son absence.
+Le séjour qu'ici fait Junon
+L'alarme et le tient en cervelle,
+Et ce n'est pas tout-à-fait sans raison.
+Il connaît la bonne Immortelle,
+Et tremble qu'à l'objet de son nouvel amour
+Elle ne fasse un mauvais tour.
+
+Il a, tout Dieu qu'il est, tant d'affaires en tête,
+Qu'il ne peut pas songer à tout.
+
+Pour vous bien seconder je ferai mon possible.
+
+Et moi donc ? Mais pour l'éviter,
+Il faut rendre Corine aux Dieux-mêmes invisible,
+Et faire que Junon qui voudrait l'enlever,
+Ne sache où pouvoir la trouver.
+
+J'apporte pour le faire un moyen infaillible,
+Et ce petit écrin renferme un Diamant,
+Un Anneau constellé dont le charme invincible,
+À tous les yeux cache dans le moment
+Quiconque au doigt le porte seulement.
+Il ne faut qu'à Corine en apprendre l(usage,
+Et de la part de son Amant
+Lui donner ce présent pour gage,
+D'un éternel attachement.
+
+Se peut-il que Faunus oublie
+Que nous sommes en Thessalie ?
+Être ici sorcier, ce n'est rien,
+C'est le pays de la magie.
+
+Voilà l'écrin, prenez soin de lui rendre.
+
+Il ne faut qu'exciter sa curiosité.
+C'en est assez pour le lui faire prendre.
+
+Fâché d'être éloigné de vos jeunes appas,
+Votre Amant en ces lieux m'a fait porter mes pas
+Pour vous y donner assurance
+Que l'éloignement ni l'absence
+D'un cœur constant ne vous éloignent pas.
+
+Peut-on trop précieusement
+Garder un objet si charmant ?
+Épris pour vous de la plus vive flamme ;
+Il sait qu'à son ardeur on veut vous enlever :
+Le blâmez-vous des soins qu'il prend pour conserver
+La Beauté qui règne en son âme ?
+
+Aux yeux de tout le monde il voudrait vous cacher,
+Il craint que dans cette retraite,
+De ses desseins sa famille inquiète,
+Pendant qu'il est absent ne vienne vous chercher ;
+Qu'un enlèvement ne les mette
+En état un jour d'empêcher
+L'hymen qu'en secret il projette.
+
+Je n'ai garde de l'en instruire,
+Je suis discret, et je vous le promets.
+
+Un tel discours a droit de me surprendre
+Il ne mérite pas un pareil traitement.
+On a quelque présent de sa part à vous rendre :
+Recevez-le, de grâce, un peu plus poliment
+Que vous n'avez reçu mon compliment.
+
+Je vous amène ici l'élite
+Des bons Ivrognes de ma suite,
+Gens éprouvés dans les repas,
+Toujours prêts à faire merveille,
+Que le péril n'étonne pas,
+Et dont un seul mettrait à bas
+Un escadron de cent bouteilles.
+
+Ils combattent toujours auprès de ma personne ;
+Hé bien, père Faunus, la cave est-elle bonne ?
+
+      Quoi ! Pour un grand Seigneur
+Jupiter prétend qu'on le prenne ;
+Et dans sa cave il n'a pas du meilleur ?
+Pour paraître tel, qu'il apprenne
+Que de son vin, surtout, il faut se faire honneur.
+
+Tant pis.
+
+Volontiers.
+
+Oui, très forte.
+
+Toujours une cave ambulante
+Me suit partout.
+
+Assurément.
+
+Il est en bon état.
+
+Agissons de concert toujours dans tout ceci.
+
+      Moi la mienne.
+
+N'ayez, de grâce, aucun souci.
+
+Avec Corine, il s'y promène.
+Sans être vu, l'anneau magique a réussi.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
+Salut à celui des voleurs.
+
+Instruit du projet que vous faites,
+Je prétends l'appuyer aussi.
+Mais comment ferons-nous ? Çà voyons.
+
+Ce sujet-là nous intéresse,
+Et nous y figurions tous deux.
+
+Puisqu'il le veut, révélons des secrets,
+Dont jusqu'à présent nous avions fait mystère.
+Je l'avoue, entre nous, j'avais peine à me taire,
+Et comme les mortels les Dieux sont indiscrets.
+Qui réglera la Comédie ?
+
+Je reconnais aussi ces beaux valons sans peine.
+
+Ciel ! Est-ce Junon ?
+
+Dans cet équipage nouveau,
+Pardonnez, si pour vous connaître,
+Il a fallu quitter tout-à-fait mon bandeau.
+Sous ce déguisement qui vous force à paraître ?
+Pourquoi vous travestir ainsi ?
+
+Je ne suis pas si aveugle que l'on dit ;
+Sans le bandeau j'ai bonne vue,
+Avec le bandeau bon esprit.
+
+Elle ne m'a que rarement quitté,
+Non plus que sa sœur la Folie.
+
+Lui plaire est notre unique loi :
+Nous le servons avec un zèle extrême :
+Nous sommes les soutiens de son pouvoir suprême,
+Ma sœur conseille, et j'exécute, moi.
+
+Il faut faire encor plus, si vous me voulez plaire,
+Corine aime un jeune Berger,
+Le Berger aime la Bergère.
+Gardez de les faire changer ;
+Respecter l'ordre que je donne :
+N'approchez jamais de leur cœur,
+Exécutez à la rigueur
+Tout ce que l'Amour vous ordonne.
+
+Voyez à vous servir combien je m'intéresse,
+J'en fais mon plaisir le plus doux.
+Cependant à parler franchement entre nous,
+Nous nous connaissons peu, Déesse,
+Et je n'ai presque point eu d'affaire avec vous.
+
+Vous avez perdu de beaux jours.
+
+L'occasion d'aimer n'arrive pas toujours,
+Je vous l'ai quelquefois offerte ;
+La sagesse chez vous devrait finir son cours.
+Si je l'ai trop longtemps soufferte,
+D'un excès de fierté je me lasse à la fin,
+Tôt ou tard j'en prendrai vengeance.
+Il est réglé par le destin
+Que tous les cœurs sentiront ma puissance :
+Dans le vôtre sans résistance,
+Laissez-moi prendre un droit qui m'est certain.
+
+Votre peu de complaisance,
+Devrait être payé par un pareil dédain.
+
+Ce serait vous servir d'office.
+Tout coup vaille, à Plutus sur moi
+Il a donné la préférence.
+Mais je serai vengé ; car j'en jure, ma foi,
+Il en verra la différence.
+Depuis un temps presque en toutes les Cours,
+Il semble aux gens qui sont dans l'opulence,
+Pour réussir dans leurs amours,
+Qu'il ne leur faut l'appui que du Dieu des richesses,
+C'est à lui seul qu'ils ont recours ;
+Et pour toucher les cœurs de leurs maîtresses,
+Ils pensent n'avoir pas besoin de mon secours.
+Je leur ferai bien sentir le contraire,
+Et l'on n'a qu'à me laisser faire.
+D'un violent dépit je me sens animer,
+Je ne puis faire que les belles
+À qui l'on donne soient cruelles.
+L'éclat de l'or peut les charmer,
+Et l'exemple le justifie.
+Mais, Messieurs les donneurs, parbleu je vous défie,
+Sans moi de réussir à vous en faire aimer,
+Il faut que Jupiter l'éprouve.
+Il s'est d'un jeune objet follement entêté ;
+Je veux qu'à son retour il trouve
+Son projet pour elle avorté.
+
+Oui. Mais d'un Dieu puissant je brave le courroux ;
+Que ferez-vous pour moi, quand je fais tout pour vous ?
+En deviendrai-je à vos yeux plus aimable ?
+Lorsque vos vœux seront comblés,
+Serez-vous toujours intraitable ?
+
+      Hé quoi ! Vous vous troublez !
+
+      Déesse adorable,
+De grâce, expliquez-vous, parlez.
+
+Que faut-il que j'espère ?
+
+Pour vous plaire, il n'est rien dont je ne sois capable ;
+Et vous reconnaîtrez mes soins, si vous voulez.
+
+Animez-vos d'un nouveau zèle,
+Formez ici d'aimables jeux,
+N'entendez-vous pas qu'en ces lieux
+L'Amour lui-même vous appelle.
+
+Et les miens ?
+
+      Que le vin l'y maintienne,
+Jusqu'à ce que Jupiter vienne.
+
+J'ai donné ma parole à Junon.
+
+Ne buvons donc point tant, et qu'il vous en souvienne.
+
+Dans ces jardins tantôt j'ai fait entrer Philène.
+
+Tant mieux, servons-nous-en pour les tirer d'ici.
+
+Quel violent transport, Déesse, vous anime ?
+
+Il faut qu'il le supprime,
+Et c'est un traitement qu'ils n'ont pas mérité.
+Si l'enlèvement de Corine,
+Au point où je le crois, l'offense et le chagrine,
+De cet enlèvement qu'il ne soit point surpris :
+Il nous a méprisés ; mais enfin, qu'il apprenne
+Que pour éviter ses mépris,
+On cherche à mériter sa haine.
+
+Oui, c'est moi, c'est Bacchus, et Junon elle-même,
+Qui de concert en ce moment,
+Venons d'unir Corine à ce qu'elle aime.
+
+Que peut l'Inconstance pour nous ?
+
+Quoi ! Leur bonheur ne lui fait point de peine ?
+
+Comment ?
+
+Ai-je tort d'aimer l'Inconstance ?
+
+Ne doutez point de leur reconnaissance.
+
+Saisissons cet heureux moment ;
+De Corine et de son Amant,
+Célébrons ici l'hyménée.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_linconstance
+
+Doucement, s'il vous plaît, Déesse ;
+Gardez de la mettre en courroux.
+Dans le soin qui vous intéresse,
+Vous pourriez bien avoir besoin de nous.
+
+Dans cette occasion il faudrait m'engager,
+Pour le moins, Déesse à me taire.
+Et quand de votre Époux vous voulez vous venger,
+Votre projet a besoin du mystère.
+
+Vous serez obéi, Seigneur.
+
+Ne craignez rien, Faunus, rassurez-vous ;
+Cessez de vous plaindre, Déesse,
+Aux destins des Amours toujours je m'intéresse ?
+
+Pour vous, ingrat, je travaille sans cesse ;
+De Jupiter j'ai calmé le courroux.
+
+      J'en suis certaine ;
+Il voit Corine sans regret,
+Par l'hymen unie à Philène.
+
+Pour dégager les cœurs d'une amoureuse chaîne,
+L'Inconstance a plus d'un secret,
+Jupiter en ressent l‘effet,
+Il n'est pas sans amour, mais il est sans colère.
+
+Sans m'écarter de ma route ordinaire,
+J'ai fait à ses regards briller un jeune objet,
+Plus charmant que Corine, et plus digne de plaire.
+
+      Un de vos fils, un petit téméraire,
+De tous les Amours le cadet,
+Qui je crois ne fait que naître,
+Les a d'abord frappés tous deux du même trait :
+Et des Dieux le Souverain Maître
+Applaudit à l'enfant du beau coup qu'il a fait.
+Il le caresse, il fait connaître
+Qu'il se repent du funeste décret,
+Dont il vient de charger Mercure ;
+Et tout Dieu qu'il est, il murmure
+Contre le sort qui le soumet,
+Ayant juré le Styx, à n'être point parjure.
+Il me consulte, il me permet,
+Autant qu'il se pourra, de réparer la chose,
+J'imagine un moyen, et je le lui propose,
+Il l'approuve à l'instant, il en est satisfait.
+
+      La Métempsycose.
+
+      Si les Amours ne sont plus immortels,
+Ils n'en auront pas moins leurs Temples, leurs Autels
+Ils finiront sans cesser d'être.
+Les Parques, ni les temps ne pourront rien sur eux,
+Toujours jeunes, charmants, heureux,
+Leur aîné de leur sort sera par moi le maître,
+Le sien ne sera pas plus brillant que le leur :
+Et quand ils mourront dans un cœur,
+Dans un autre à l'instant je les ferai renaître,
+Et leur rendrai par-là cette immortalité
+Dont le droit leur vient d'être ôté.
+
+À mes talents, à ma faveur,
+Vénus et les Amours doivent plus qu'on ne pense.
+
+Que l'Univers admire ma puissance,
+Et qu'on se souvienne toujours
+Que malgré les destins, aujourd'hui l'Inconstance
+Immortalise les Amours.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+
+Philène ici ? Quelle surprise ! Ah Dieux !
+
+Sans faire aucun éclat, observons-les tous deux.
+
+Le beau régal ! Prenez un parti sage
+Et dépêchez-vous de partir.
+
+Qu'est-ce à dire ?
+
+Comment donc, vous parlez toute seule, ma nièce !
+Les yeux au Ciel et pleine de ferveur,
+Je ne sais à quel Dieu la prière s'adresse ?
+Mais elle est faite avec ardeur.
+
+Je m'y prête, il est vrai, parce que je vous aime,
+Et le ne comprends pas quelle fatalité
+Vous y fait résister vous-même.
+
+Allez, ma nièce, vous rêvez.
+
+Et j'approuvais cela, moi, ma nièce ?
+
+Je l'approuvais aussi peut-être ?
+
+De sa première ardeur son âme est toujours pleine.
+
       Justement,
 J'aurais donc perdu sens, esprit et jugement,
 Depuis que de l'aveu de toute la famille,
@@ -1436,15 +2944,6 @@ Pour assurer votre fortune un jour.
 Écoutez la raison, faire taire l'amour,
 Vous êtes jeune, et l'on peut vous instruire.
 
--*who_corine
-Ma tante que m'osez- vous dire ?
-Quels préceptes ? Quel changement ?
-Vous me parliez tantôt ici tout autrement.
-Dans quel trouble nouveau votre discours me plonge !
-Je croyais voir par vous mon bonheur achevé :
-Est-ce que je rêve ? Est-ce un songe ?
-
--*who_merope
 Non, vous ne rêvez pas, mis vous avez rêvé ;
 Sortez de cette rêverie,
 Et songez qu'il n'est point de Philène pour vous :
@@ -1455,10 +2954,6 @@ Il faut que son amour finisse,
 Pour n'essuyer pas le courroux
 D'un rival puisant et jaloux.
 
--*who_corine
-Nous braverons tous deux son pouvoir, sa colère.
-
--*who_merope
 Et c'est justement ce qu'il ne faut pas faire.
 Que l'on a peu d'esprit dans la jeune saison !
 On n'est que feu, que pétulance,
@@ -1487,28 +2982,10 @@ En l'épousant je me croyais comblée :
 J'en fus au désespoir dès que cela fut fait,
 Par cet exemple-là vous devez être instruite.
 
--*who_corine
-Aussi je le veux suivre en tout exactement,
-Vous avez aimé tendrement,
-Vous voyez que je vous imite,
-Jusqu'à la fin j'aurai même conduite.
-J'en fais tout mon bonheur, tout mon attachement ;
-Je prétends comme vous épouser mon Amant ;
-Si par hasard j'en ai du chagrin dans la suite,
-Pour m'en désespérer n'en serai-je pas quitte ?
-
--*who_merope
 Et c'est ce que je veux prévenir justement.
 Quelle étrange bizarrerie !
 Mais je vous guérirai de cet entêtement.
 
--*who_corine
-Comme vous en fûtes guérie,
-Ma tante, et jamais autrement.
-
-**** *book_ *id_III03 *act_III *date_1717
-
--*who_merope
 Hom ! La petite ridicule !
 Quelle cervelle ! Il faut pourtant
 Tâcher de modérer cette ardeur qui la brûle,
@@ -1521,19 +2998,8 @@ Je la blâme tout haut d'avoir un cœur constant,
 Et je sens en secret que j'ai tort de m'en plaindre,
 Moi-même j'en ferais tout autant.
 
-**** *book_ *id_III04 *act_III *date_1717
-
--*who_faunus
-Quoi seule ! Où donc Corine est-elle, je vous prie ?
-
--*who_merope
 Je la quitte dans le moment.
 
--*who_faunus
-À dissiper sa rêverie,
-Nous nous employons vainement.
-
--*who_merope
 Oui, je pense qu'il faut changer de batterie
 Les plaisirs m'ont paru la toucher faiblement :
 Toute jeune qu'elle est la fortune l'entête ;
@@ -1546,515 +3012,148 @@ Qui par la disgrâce des temps,
 Loin d'avoir fait fortune, ont fait tout le contraire,
 La plupart dans l'adversité.
 
--*who_faunus
-Bon, tant mieux, avec nous voilà comme il faut être.
-
--*who_merope
 Le mariage une fois contracté,
 Cela ne ferait pas d'honneur à votre Maître,
 Il ne serait pas bien quand on verra paraître
 Ma nièce avec lui dans l'éclat,
 Qu'il laissât la famille en un certain état.
 
--*who_faunus
-Non, non, ne craignez point que cela lui convienne,
-La malepeste, allez, mon Maître n'est pas fat,
-Que n'a-t-il point fait pour la sienne ?
-Il avait un cousin, manant, faquin, pied-plat,
-Par son crédit et son opulence,
-Il en fit en six mois un Seigneur d'importance,
-Il était sans honneur, et chacun l'honora ;
-Il était fat, on l'admira :
-Tous les défauts trouvèrent grâce,
-Et le monde aisément comprit
-Qu'il n'était ni de noble race,
-Ni de mérite, ni d'esprit,
-Mais parent de quelque homme en place.
-Oh ! Mon Maître par-là fit bien voir son crédit.
-
--*who_merope
 Il faudra pour nous qu'il l'emploie.
 
--*who_faunus
-Il le fera, j'en suis sûr, avec joie.
-Il fait pour ses amis toujours tout ce qu'il peut,
-Et le bon de l'affaire est qu'il peut ce qu'il veut.
-
--*who_merope
 Bon. Nous avons dans la famille
 Un Procureur Fiscal, un Commis de Greffier.
 
--*who_faunus
-Bons sujets !
-
--*who_merope
       Deux Clercs, un Huissier,
 Qui d'un de nous vient d'épouser la fille.
 
--*who_faunus
-Ah ! Fort bien, ce sont-là des gens bons à placer,
-Qu'il est facile d'avancer.
-Dans le chemin de la fortune
-Ils marchent à pas de Géant,
-Et presque au sortir du néant
-En peu de temps ils en ont une.
-Il semble que le Ciel se plaise à les venger
-Du mépris que pour eux certains sots font paraître,
-Et cherche à les dédommager
-Du peu qu'il les avait fait naître.
-
--*who_merope
 Selon moi le Ciel fait fort bien.
 
--*who_faunus
-N'est-il pas vrai ? Sagement il dispense
-De la noblesse aux uns, aux autres l'opulence :
-Il satisfait ainsi chacun par ce moyen.
-
--*who_merope
 Oui, mais j'aimerais mieux tenir de sa sagesse
 De l'opulence sans noblesse,
 Que de la noblesse avec rien.
 
--*who_faunus
-Vous avez bin esprit, et c'est fort bien l'entendre.
-Mais qui vient brusquement nous troubler en ces lieux ?
-
-**** *book_ *id_III05 *act_III *date_1717
-
--*who_bacchus
-Servons Junon de notre mieux,
-Et faisons le bonheur d'un cœur fidèle et tendre ;
-Malgré le Souverain des Dieux.
-
--*who_faunus
-Ah, morbleu ! C'est Bacchus ; qu'aurait-il à m'apprendre ?
-
--*who_bacchus
-Dans ce séjour délicieux,
-Notre Maître bientôt tâchera de se rendre ;
-Mais de quelque côté que je tourne les yeux,
-Je ne vois point ici la beauté qu'il adore.
-Est-elle renfermée en son appartement ?
-
--*who_merope
 Un noir chagrin qui la dévore
 Fait que dans ces jardins on la voit rarement.
 Mais vous avez apparemment
 Quelque message amoureux à lui faire ?
 
--*who_bacchus
-Oui, de la part de son Amant
-Dites-lui que dans le moment
-Il arrive un courrier fort extraordinaire.
-
-**** *book_ *id_III06 *act_III *date_1717
-
--*who_faunus
-Bacchus ici pour quelque affaire ?
-
--*who_bacchus
-Pour la même à peu près dont vous êtes chargé.
-
--*who_faunus
-Quoi ! Comment donc ?
-
--*who_bacchus
-      Pour moi, ce n'est plus un mystère,
-Et je viens vous trouver, suivant l'ordre que j'ai,
-De servir les amours de Jupiter mon père,
-Auprès de l'aimable Bergère,
-Qui sous ses lois tient son cœur engagé.
-
--*who_faunus
-De sentiment il faut qu'il ait changé,
-Car c'était un secret que nous voulions vous taire.
-
--*who_bacchus
-Oui, mais il se trouve obligé,
-Ou par choix, ou par confiance,
-De m'en faire la confidence.
-Tandis qu'avec Mercure occupé dans les Cieux,
-Parmi les Astres et les Dieux,
-Il tâche à rétablir l'heureuse intelligence
-Qui doit toujours régner entre eux,
-Et qu'avait depuis peu dérangée son absence.
-Le séjour qu'ici fait Junon
-L'alarme et le tient en cervelle,
-Et ce n'est pas tout-à-fait sans raison.
-Il connaît la bonne Immortelle,
-Et tremble qu'à l'objet de son nouvel amour
-Elle ne fasse un mauvais tour.
-
--*who_faunus
-S'il est pour l'empêcher des mesures à prendre,
-Que ne les prenait-il avant que de partir ?
-Ne prévoyait-il pas ce qu'il devait attendre ?
-Il n'avait qu'à m'en avertir.
-
--*who_bacchus
-Il a, tout Dieu qu'il est, tant d'affaires en tête,
-Qu'il ne peut pas songer à tout.
-
--*who_faunus
-Oh ! Quelque mauvais tour que Junon nous apprête,
-De m'en garder je viendrai bien à bout.
-
--*who_bacchus
-Pour vous bien seconder je ferai mon possible.
-
--*who_faunus
-Je prévois aisément tout ce qu'on peut tenter.
-
--*who_bacchus
-Et moi donc ? Mais pour l'éviter,
-Il faut rendre Corine aux Dieux-mêmes invisible,
-Et faire que Junon qui voudrait l'enlever,
-Ne sache où pouvoir la trouver.
-
--*who_faunus
-Le tour serait assez risible,
-Et le projet est bon. Mais comment l'achever ?
-
--*who_bacchus
-J'apporte pour le faire un moyen infaillible,
-Et ce petit écrin renferme un Diamant,
-Un Anneau constellé dont le charme invincible,
-À tous les yeux cache dans le moment
-Quiconque au doigt le porte seulement.
-Il ne faut qu'à Corine en apprendre l(usage,
-Et de la part de son Amant
-Lui donner ce présent pour gage,
-D'un éternel attachement.
-
--*who_faunus
-Mais que diantre pensera-t-elle ?
-Jupiter à ses yeux paraît un gros Seigneur,
-Elle va le croire Enchanteur :
-Pour toucher le cœur d'une belle
-C'est un assez mauvais moyen.
-
--*who_bacchus
-Se peut-il que Faunus oublie
-Que nous sommes en Thessalie ?
-Être ici sorcier, ce n'est rien,
-C'est le pays de la magie.
-
--*who_faunus
-Il est vrai, je m'en ressouviens.
-
--*who_bacchus
-Voilà l'écrin, prenez soin de lui rendre.
-
--*who_faunus
-Peut-être elle fera quelque difficulté.
-
--*who_bacchus
-Il ne faut qu'exciter sa curiosité.
-C'en est assez pour le lui faire prendre.
-
-**** *book_ *id_III07 *act_III *date_1717
-
--*who_bacchus
-Fâché d'être éloigné de vos jeunes appas,
-Votre Amant en ces lieux m'a fait porter mes pas
-Pour vous y donner assurance
-Que l'éloignement ni l'absence
-D'un cœur constant ne vous éloignent pas.
-
--*who_corine
-Je ne mérite pas tous les soins qu'il se donne,
-Ni ceux que l'on prend d'empêcher
-Que personne puisse approcher
-De ces lieux où l'on m'emprisonne.
-C'est me donner de son amour
-Un assez fâcheux témoignage,
-Et la contrainte est un triste présage
-De mon malheur, si l'hymen quelque jour
-Me mettait sous son esclavage.
-
--*who_bacchus
-Peut-on trop précieusement
-Garder un objet si charmant ?
-Épris pour vous de la plus vive flamme ;
-Il sait qu'à son ardeur on veut vous enlever :
-Le blâmez-vous des soins qu'il prend pour conserver
-La Beauté qui règne en son âme ?
-
--*who_corine
-Vouloir la conserver ainsi,
-C'est presque en assurer la perte ;
-Et si de m'éloigner d'ici
-L'occasion m'était offerte…
-
--*who_faunus
-Justement, attendez-vous-y,
-Nous laisserons la porte ouverte.
-
--*who_bacchus
-Aux yeux de tout le monde il voudrait vous cacher,
-Il craint que dans cette retraite,
-De ses desseins sa famille inquiète,
-Pendant qu'il est absent ne vienne vous chercher ;
-Qu'un enlèvement ne les mette
-En état un jour d'empêcher
-L'hymen qu'en secret il projette.
-
--*who_corine
-Je n'approuve pas ses projets :
-De ma part vous pouvez lui dire
-Que cet hymen n'a rien qui flatte mes souhaits.
-
--*who_bacchus
-Je n'ai garde de l'en instruire,
-Je suis discret, et je vous le promets.
-
--*who_corine
-Le plus grand bonheur où j'aspire,
-C'est qu'il le sache, et ne le voir jamais.
-
--*who_bacchus
-Un tel discours a droit de me surprendre
-Il ne mérite pas un pareil traitement.
-On a quelque présent de sa part à vous rendre :
-Recevez-le, de grâce, un peu plus poliment
-Que vous n'avez reçu mon compliment.
-
-**** *book_ *id_III08 *act_III *date_1717
-
--*who_corine
-Des présents de sa part ! Suis-je fille à les prendre ?
-Et me croit-il sensible à l'intérêt ?
-Est-ce par-là que l'on rend un cœur tendre ?
-
--*who_faunus
-Il aurait tort de le prétendre :
-Quoique dans un écrin…
-
--*who_corine
-      Ouvrez-le, s'il vous plaît.
-
--*who_faunus
-C'est ce qu'avec grand soin l'on vient de me défendre.
-
--*who_corine
-Montrez-moi.
-
--*who_faunus
-      Point.
-
--*who_corine
-      Voyons seulement ce que c'est.
-
--*who_faunus
-Acceptez le présent.
-
--*who_corine
-      Non, je ne le puis faire.
-
--*who_faunus
-Ni moi ne suivre pas l'ordre qu'on m'a dicté.
-
--*who_corine
-C'est avoir peu d'honnêteté.
-
--*who_faunus
-Oui, j'en conviens, je n'en ai guère.
-
--*who_corine
-Je voudrais bien pourtant pouvoir me satisfaire.
-
--*who_faunus
-Hé bien, épargnez-vous un scrupule affecté.
-Tant de grimaces est fort peu nécessaire.
-
--*who_corine
-Mais on ne vous a pas ordonné de vous taire,
-Dites-moi…
-
--*who_faunus
-      Volontiers, c'est un ajustement
-Qu'on peut prendre dans cette affaire.
-Oh bien donc ! Ce coffret renferme un diamant.
-
--*who_corine
-Je ne veux pas en savoir davantage.
-
--*who_faunus
-Un anneau.
-
--*who_corine
-      Voilà justement
-Ce que j'ai soupçonné dès le premier moment.
-
--*who_faunus
-Oui, mais de cet anneau vous ignorez l'usage.
-
--*who_corine
-Oh ! Je le devine aisément,
-Qui reçoit un présent s'engage,
-Et je sais que du mariage
-Une bague acceptée est le commencement.
-
--*who_faunus
-N'en craignez point l'événement,
-Le diamant ne peut être que magnifique ;
-Mais ce n'est rien que la beauté ;
-Par une puissance magique,
-À votre doigt l'anneau porté,
-Dans l'instant vous rend invisible,
-Et l'on ne vous revoit qu'après qu'il est ôté.
-
--*who_corine
-Que dites-vous.
-
--*who_faunus
-      La vérité.
-
--*who_corine
-Aux charmes, je le crois, il n'est rien d'impossible,
-Et je n'en ai jamais douté :
-Sans en avoir pourtant vu nul effet sensible,
-Je souhaiterais fort…
-
--*who_faunus
-      Ce n'est point fausseté,
-Le talisman est infaillible.
-
--*who_corine
-Voyons donnez… Au moins, c'est curiosité.
-
--*who_faunus
-Au plaisir de la nouveauté,
-Est-il un cœur inaccessible ?
-Voilà le présent accepté.
-
--*who_corine
-Je n'ouvre cet écrin que d'une main tremblante :
-Que vois-je ? Quel brillant objet !
-C'est un mensonge qu'on m'a fait,
-Et cette lumière éclatante
-Doit produire un contraire effet.
-
--*who_faunus
-Comment donc, s'il vous plaît, croyez-vous que je mente ?
-
--*who_corine
-Non, mais mettez-le un peu, j'en veux faire l'essai,
-Je verrai si vous dites vrai.
-
--*who_faunus
-Fort volontiers. Hé bien, n'êtes-vous pas contente ?
-
--*who_corine
-Vous avez disparu. Ciel, quel étonnement !
-
--*who_faunus
-La chose est assez surprenante.
-
--*who_corine
-Sans doute, mais ce diamant
-Fait-il le même effet sur tous également ?
-
--*who_faunus
-Oh ! Oui.
-
--*who_corine
-      Pour en avoir une preuve constante
-Par moi-même je veux l'essayer un moment.
-
--*who_faunus
-Fort bien.
-
--*who_corine
-      Seconde, Amour, le projet que je tente.
-
--*who_faunus
-Rien n'est plus merveilleux.
-
--*who_corine
-      Vous ne me voyez pas ?
-
--*who_faunus
-Comme si vous étiez absente.
-
--*who_corine
-Je ne suis pourtant qu'à deux pas.
-
--*who_faunus
-Ne vous éloignez pas s'il vous plaît davantage,
-Allons vous avez fait l'épreuve, et c'est assez.
-Ôtez la bague et finissez.
-
--*who_corine
-J'en connais trop le prix pour n'en pas faire usage,
-Enfin mes vœux sont exaucés.
-
--*who_faunus
-Comment ! Que dites-vous ?
-
--*who_corine
-      Que je sors d'esclavage,
-Et que mes malheurs sont passés.
-
--*who_faunus
-Comment ! Écoutez donc, Corine, je vous prie,
-Ne vous avisez pas d'aller me faire ici
-De mauvaise plaisanterie ;
-Je n'aime pas la raillerie,
-Et ce n'est pas un jeu que cette affaire-ci.
-Elle ne répond point, elle s'est écartée :
-Où la trouver et comment ?
-Voilà pour un commencement,
-Un bel effet de la bague enchantée :
-Jupiter ne sait ce qu'il fait,
-Il me donne en partant à garder sa Bergère,
-Et par Bacchus il envoie un secret
-Pour empêcher de voir ce qu'elle voudra faire.
-Je suis moi-même un grand sot aujourd'hui,
-De n'avoir pas prévu la chose ;
-Mais quand je l'aurais fait, je n'ose
-Croire avoir plus d'esprit que lui.
-À quoi la passion expose !
-Elle obscurcit l'esprit, elle aveugle les yeux,
-Et l'Amour, qui se rit de tous tant que nous sommes,
-Fait assez souvent faire aux Dieux
-Autant de sottises qu'aux hommes.
-Quel parti prendre ! Il faut tâcher
-Adroitement de faire en sorte
-De rattraper la bague, et surtout d'empêcher
-Que de ces lieux l'invisible ne sorte ;
-Courons, et redoublons la garde de la porte,
-Si on ne la voit pas, on pourra la toucher.
-
-**** *book_ *id_III09 *act_III *date_1717
-
--*who_corine
-Que parle-t-il des Dieux, et de Jupiter même ?
-Ai-je bien entendu : serait-ce un Dieu qui m'aime ?
-Mais non, pourquoi se déguiser ?
-Pourquoi descendre ainsi de sa grandeur suprême,
-Et pour toucher un cœur chercher à l'abuser ?
-Je sens qu'en secret je me flatte
-De soumettre à mes lois une Divinité :
-Trop dangereuse vanité
-Qu'il faut que ma vertu combatte
-Par le secours de la fidélité.
-C'en est fait, et je veux que mon triomphe éclate.
-Quelque bonheur qui me soit présenté,
-Je me dois à Philène, et ne suis point ingrate,
-Et le Dieu sera rebuté :
-Voici Philène… sa présence
-Dans tous mes sens allume un nouveau feu.
-Il croit être seul en ce lieu,
-Il ne me saurait voir, examinons-le un peu,
-Écoutons, sachons ce qu'il pense,
-Et s'il mérite sur un Dieu,
-Qu'on lui donne la préférence.
-
-**** *book_ *id_III10 *act_III *date_1717
-
--*who_philene
+Je ne puis demeurer en place ;
+Je vais, je viens, je cours, et je ne sais pourquoi,
+Ma nièce, il faut de vous que j'obtienne une grâce.
+
+Depuis quelques instants, tout ce qu'ici je vois
+Me donne des soupçons, m'alarme, m'embarrasse :
+Expliquez-vous de bonne foi ;
+Ignorez-vous ce qui s'y passe ?
+
+      Parlez sincèrement,
+De concert, s'il se peut, démêlons l'aventure ;
+Je vois des incidents qui passent la nature,
+Ces Jardins, ce beau Bâtiment,
+D'une divinité, sans doute, sont l'ouvrage,
+Ou l'effet d'un enchantement.
+
+Vous pensez comme moi, ma nièce, assurément,
+Ce Courrier que vous vient d'envoyer votre amant…
+
+      Ma surprise est extrême.
+
+      C'est quelque Dieu, ma nièce, absolument,
+Ou quelque Enchanteur qui vous aime ;
+Et le Courrier, peut-être, est un des deux lui-même.
+
+Ouais, quelle voix ai-je entendue ?
+Dites.
+
+De moment en moment, je suis plus éperdue,
+Ce qui s'est offert à ma vue.
+
+      En ce moment,
+Ce Courrier à mes yeux vient de percer la nue,
+Je l'ai vu vers le Ciel voler rapidement.
+
+Ma nièce, mes soupçons sont-ils sans fondement ?
+
+Si quelque Dieu pour vous a de l'amour,
+Gardons-nous bien de mériter sa haine.
+
+Philène ? Il le faut oublier ;
+D'une plus noble ardeur tu dois être enflammée.
+
+Ma nièce, assurément on parle auprès de vous,
+Ce sont des Enchanteurs, mon enfant, qui vous servent,
+Ou quelques Dieux qui vous observent :
+Ne méritez pas leur courroux ;
+Il faut de votre cœur, ma nièce,
+Bannir une indigne tendresse.
+
+Je n'en puis plus, me voilà presque morte,
+Qui peut, sans être vu, vous parler de la sorte ?
+
+Oh, ce n'est point un Dieu, c'est un Magicien,
+Contre les Dieux, il parle pour Philène,
+Mais par hasard ne serait-ce point lui ?
+Cette voix ressemble à la sienne.
+
+Quelle surprise est égale à la mienne :
+Le courrier, la voix et l'Amant,
+Ici tout est enchantement.
+
+      Malheureuse Corine,
+Un magicien t'aime, un Follet te lutine.
+Où me suis-je laissé conduire aveuglément ?
+
+Je n'y puis plus tenir, et n'y puis rien comprendre ;
+Je suis lasse de vous entendre
+Causer en ma présence avec votre Lutin,
+Et je vais autre part attendre
+De tout ceci quelle sera la fin.
+
+Je n'en puis plus, ici tout m'épouvante,
+Et votre retour même ajoute à mon effroi.
+Un de vos gens, Seigneur, tantôt s'est devant moi,
+Par le milieu des airs volant à tire d'aile,
+Fait vers le Ciel une route nouvelle ;
+Et puis par un effet presque aussi peu commun,
+J'ai vu ma nièce ici causer avec quelqu'un
+Sans y voir personne auprès d'elle.
+
+Seigneur, en tout ceci je ne suis point coupable,
+Mortel, ou Dieu, j'en fais serment,
+Je n'ai rien fait qui soit capable
+De m'attirer votre ressentiment.
+
+J'ai fait ce que j'ai pu pour engager Corine.
+
+Je ne sais qu'en juger, mais je suis fort trompée,
+Si ce n'est un enlèvement.
+
+Je n'ai vu presque rien de ce qui s'est passé,
+De ce que je voyais étonnée, interdite,
+Auprès de ces bosquets je n'ai point avancé :
+Les Amours, disait-on, et des gens de leur suite,
+Avaient ici, ri, bu, chanté, dansé ;
+De trouble et de frayeur j'avais le cœur glacé
+Et de rien je ne suis instruite.
+
+
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philene
+
+Je retrouve Corine, ô Berger trop heureux !
+
+En la voyant mon feu se renouvelle.
+
+Amour, tu me la rends plus belle,
+Rends-la constante et sensible à mes feux :
+J'en suis sûr, et je lis mon bonheur dans ses yeux.
+La constance ici tient sa cour,
+Les chagrins, les peines cruelles,
+N'approchent point de cet heureux séjour ;
+C'est un domaine de l'Amour,
+Qui n'est ouvert qu'aux cœurs fidèles.
+
+Nous avons cru vous divertir.
+
 Tout favorise mes desseins,
 C'est une Puissance divine
 Qui vient de m'ouvrir les chemins
@@ -2072,17 +3171,9 @@ De ce rival peut me livrer la haine,
 Heureux de périr en ce jour,
 En prouvant ma constance à Corine.
 
--*who_corine
-      Ah Philène !
-
--*who_philene
 Qu'entends-je Corine, est-ce vous ?
 Quel charme vous cache à ma vue.
 
--*who_corine
-Le Ciel se déclare pour nous.
-
--*who_philene
 J'entends sa voix. Depuis que je vous ai perdue,
 De mon bonheur les Dieux jaloux,
 Ne peuvent-ils souffrir qu'à mes vœux les plus doux ?
@@ -2091,1277 +3182,31 @@ Je vous entends, et je ne puis vous voir ;
 Auprès de vous c'est l'Amour qui m'amène ;
 Ce Dieu m'a-t-il flatté d'une espérance vaine ?
 
--*who_corine
-Non, Philène, ce Dieu va combler votre espoir,
-Ce diamant me rendait invisible.
-
--*who_philene
 C'est un présent de mon rival :
 Vous l'avez accepté, Corine, est-il possible ?
 
--*who_corine
-Oui, mais il lui sera fatal,
-Il peut faciliter ma fuite ;
-Ou si vous demeurez près de moi dans ces lieux,
-Vous y cacher à tous les yeux.
-
--*who_philene
 Que s'il se peut, jamais je ne vous quitte,
 Et que mon sort soit envié des Dieux.
 
--*who_corine
-N'en doutez point, Philène, il doit leur faire envie,
-Ce présent vient de quelqu'un d'eux,
-Corine vous le sacrifie.
-Philène prend la bague et veut la mettre.
-Que Corine me rend heureux !
-
--*who_corine
-Ah, Philène ! Arrêtez, ne troublez point ma joie
-En vous cachant sitôt à mes regards,
-Autant que nous pourrons, souffrez que je vous voie :
-Et quoique l'on m'observe ici de toutes parts ;
-Pour mettre cet anneau, du moins il faut attendre
-Que quelqu'un vienne nous surprendre,
-Ma tante porte ici ses pas.
-
--*who_philene
 Oui, c'est elle, je crois l'entendre.
 
--*who_corine
-Cachez-vous à ses yeux ; mais ne me quittez pas.
-
-**** *book_ *id_III11 *act_III *date_1717
-
--*who_merope
-Je ne puis demeurer en place ;
-Je vais, je viens, je cours, et je ne sais pourquoi,
-Ma nièce, il faut de vous que j'obtienne une grâce.
-
--*who_corine
-Vous pouvez disposer de moi.
-
--*who_merope
-Depuis quelques instants, tout ce qu'ici je vois
-Me donne des soupçons, m'alarme, m'embarrasse :
-Expliquez-vous de bonne foi ;
-Ignorez-vous ce qui s'y passe ?
-
--*who_corine
-Quoi donc ?
-
--*who_merope
-      Parlez sincèrement,
-De concert, s'il se peut, démêlons l'aventure ;
-Je vois des incidents qui passent la nature,
-Ces Jardins, ce beau Bâtiment,
-D'une divinité, sans doute, sont l'ouvrage,
-Ou l'effet d'un enchantement.
-
--*who_corine
-Mais à penser ainsi, qu'est-ce qui vous engage ?
-
--*who_merope
-Vous pensez comme moi, ma nièce, assurément,
-Ce Courrier que vous vient d'envoyer votre amant…
-
--*who_corine
-Hé bien.
-
--*who_merope
-      Ma surprise est extrême.
-
--*who_corine
-Quoi donc !
-
--*who_merope
-      C'est quelque Dieu, ma nièce, absolument,
-Ou quelque Enchanteur qui vous aime ;
-Et le Courrier, peut-être, est un des deux lui-même.
-
--*who_philene
 Ô Ciel ! Quel est l'excès de mon étonnement ?
 
--*who_merope
-Ouais, quelle voix ai-je entendue ?
-Dites.
-
--*who_corine
-      C'est la mienne, vraiment.
-
--*who_merope
-De moment en moment, je suis plus éperdue,
-Ce qui s'est offert à ma vue.
-
--*who_corine
-Quoi donc ! Ma Tante ?
-
--*who_merope
-      En ce moment,
-Ce Courrier à mes yeux vient de percer la nue,
-Je l'ai vu vers le Ciel voler rapidement.
-
--*who_corine
-De trouble, comme vous, je sens mon âme émue.
-
--*who_merope
-Ma nièce, mes soupçons sont-ils sans fondement ?
-
--*who_corine
-Vous m'en voyez saisie, et je souffre une gêne ;
-Hâtons-nous de sortir de ce fatal séjour.
-
--*who_merope
-Si quelque Dieu pour vous a de l'amour,
-Gardons-nous bien de mériter sa haine.
-
--*who_corine
-Au contraire, ôtons-lui tout espoir en ce jour,
-Que le dépit rompe sa chaîne,
-Et s'il se peut qu'à son retour
-Il me trouve unie à Philène.
-
--*who_merope
-Philène ? Il le faut oublier ;
-D'une plus noble ardeur tu dois être enflammée.
-
--*who_corine
-Le nœud qui nous unit ne peut se délier ;
-Et si d'un Dieu j'étais aimée,
-Du plaisir de pouvoir le lui sacrifier,
-Ma tante, je serais uniquement charmée.
-
--*who_philene
 A-t-on jamais senti des transports aussi doux ?
 
--*who_merope
-Ma nièce, assurément on parle auprès de vous,
-Ce sont des Enchanteurs, mon enfant, qui vous servent,
-Ou quelques Dieux qui vous observent :
-Ne méritez pas leur courroux ;
-Il faut de votre cœur, ma nièce,
-Bannir une indigne tendresse.
-
--*who_philene
 Ah ! Quels conseils pernicieux
 Votre tante vous donne-t-elle ?
 Gardez-vous de les suivre, un cœur pur et fidèle
 Ne peut jamais déplaire aux Dieux.
 
--*who_merope
-Je n'en puis plus, me voilà presque morte,
-Qui peut, sans être vu, vous parler de la sorte ?
-
--*who_corine
-Qui que ce soit, ma tante, il s'explique fort bien.
-
--*who_merope
-Oh, ce n'est point un Dieu, c'est un Magicien,
-Contre les Dieux, il parle pour Philène,
-Mais par hasard ne serait-ce point lui ?
-Cette voix ressemble à la sienne.
-
--*who_corine
-Sans m'effrayer, sans me faire de peine,
-Cette voix m'a parlé presque tout aujourd'hui.
-
--*who_merope
-Quelle surprise est égale à la mienne :
-Le courrier, la voix et l'Amant,
-Ici tout est enchantement.
-
--*who_corine
-Que dites-vous ?
-
--*who_merope
-      Malheureuse Corine,
-Un magicien t'aime, un Follet te lutine.
-Où me suis-je laissé conduire aveuglément ?
-
--*who_corine
-Ne vous inquiétez, ma tante, aucunement,
-Ce Follet me plaît fort ; bien loin qu'il me chagrine,
-Je crois, quand il me parle, entendre mon Amant ;
-Il me semble que c'est lui-même,
-Et je me sens une joie extrême,
-Quand il me parle tendrement
-Qu'il sera fidèle, et qu'il m'aime.
-
--*who_philene
 Il en fait son bonheur suprême ;
 Et ses feux, son empressement,
 Dureront éternellement.
 
--*who_merope
-Je n'y puis plus tenir, et n'y puis rien comprendre ;
-Je suis lasse de vous entendre
-Causer en ma présence avec votre Lutin,
-Et je vais autre part attendre
-De tout ceci quelle sera la fin.
-
-**** *book_ *id_III12 *act_III *date_1717
-
--*who_corine
-Nous en voilà défaits.
-
--*who_philene
       Quel bonheur est le nôtre,
 De pouvoir éviter des regards curieux !
 
--*who_corine
-Remontrez-vous, cher Philène, à mes yeux,
-Un surveillant nous quitte.
-
--*who_philene
 Il nous en vient un autre.
 
--*who_corine
-Ah ! C'est celui que dans ces lieux
-Nous avons le plus à craindre.
-
--*who_philene
 Ne nous suffit-il pas qu'il ne puisse me voir ?
 
--*who_corine
-Non, au silence encore il faudra vous contraindre ;
-Et de la bague il connaît le pouvoir
-
-**** *book_ *id_III13 *act_III *date_1717
-
--*who_faunus
-Ah ! Vous vous lassez donc enfin d'être invisible ?
-Je m'y suis, par ma foi, toujours bien attendu.
-Du Diamant autant qu'il est possible,
-Sans doute vous avez éprouvé la vertu.
-
--*who_corine
-Je suis dans un chagrin terrible.
-
--*who_faunus
-Hé ! De quoi donc.
-
--*who_corine
-      Je l'ai perdu.
-
--*who_faunus
-Vous n'avez plus l'Anneau magique ?
-
--*who_corine
-Auprès d'une grotte rustique,
-Où je m'occupais à rêver,
-Il m'est tombé du doigt, je ne l'ai pu trouver.
-
--*who_faunus
-Parbleu, ce n'est pas là, s'il faut que je m'explique,
-Le plus grand mal qui pouvait arriver.
-Pour vous cacher vous êtes trop charmante.
-On perd trop à ne vous voir pas ;
-Et quand le Ciel de tant d'appas
-Orna votre beauté naissante,
-Ce serait offenser les hommes et les Dieux,
-De dérober tant d'attraits à leurs yeux.
-
--*who_corine
-De la perte que j'ai faite,
-Vous me dédommagez par des propos si doux.
-
--*who_faunus
-Quand cette perte est un bonheur pour nous,
-Il ne faut pas qu'on la regrette.
-
--*who_corine
-À parler franchement, je ne regrette rien,
-Et j'ai en ce moment tout ce que je souhaite,
-Jamais un cœur ne fut si content que le mien.
-
--*who_faunus
-Je suis charmé de vous voir satisfaite.
-
--*who_corine
-Qui ne le serait pas ?
-
--*who_faunus
-      Hé bien,
-Pour vous entretenir dans cette humeur gaillarde ;
-Car vous savez que de ma part,
-Heureusement aussi je suis assez gaillard.
-Voulez-vous que je me hasarde
-À vous donner ici, pour vous désennuyer,
-Un petit plat de mon métier ?
-
--*who_corine
-Fort volontiers. Que sera-ce ?
-
--*who_faunus
-      Une Fête,
-Que dans ces lieux Bacchus avec l'Amour apprête,
-Et qu'ils m'ont demandé de répéter ici.
-Je leur ai de bon cœur accordé leur requête,
-Ils ne tarderont pas à venir. Les voici.
-
--*who_corine
-Bacchus, l'Amour ! Fuyons.
-
--*who_faunus
-      N'ayez point de scrupule.
-
--*who_corine
-Des Dieux parmi nous !
-
--*who_faunus
-      Bon, et Bacchus et l'Amour
-Aux mortels en crédit tous les Dieux font la cour :
-S'en étonner, c'est être ridicule.
-Nous plaire c'est leur unique soin,
-Et nos faveurs font leur mérite
-
--*who_corine
-C'est un honneur dont je vous félicite ;
-Mais trouvez bon que je vous quitte,
-Et que je puisse voir leur Fête d'un peu loin.
-
-**** *book_ *id_IV01 *act_IV *date_1717
-
--*who_bacchus
-Je vous amène ici l'élite
-Des bons Ivrognes de ma suite,
-Gens éprouvés dans les repas,
-Toujours prêts à faire merveille,
-Que le péril n'étonne pas,
-Et dont un seul mettrait à bas
-Un escadron de cent bouteilles.
-
--*who_faunus
-Vous avez là de bons Soldats.
-
--*who_bacchus
-Ils combattent toujours auprès de ma personne ;
-Hé bien, père Faunus, la cave est-elle bonne ?
-
--*who_faunus
-Pas trop, Seigneur Bacchus.
-
--*who_bacchus
-      Quoi ! Pour un grand Seigneur
-Jupiter prétend qu'on le prenne ;
-Et dans sa cave il n'a pas du meilleur ?
-Pour paraître tel, qu'il apprenne
-Que de son vin, surtout, il faut se faire honneur.
-
--*who_faunus
-Uniquement sensible aux charmes des mortelles,
-Il néglige ces soins pour elles.
-
--*who_bacchus
-Tant pis.
-
--*who_faunus
-      Oui ; mais enfin, c'est un dérangement
-Que Bacchus peut réparer aisément.
-
--*who_bacchus
-Volontiers.
-
--*who_faunus
-      Vous avez de vendange excellente
-Copieuse provision.
-
--*who_bacchus
-Oui, très forte.
-
--*who_faunus
-      Le vin n'est pas ma passion ;
-Mais cependant je suis d'humeur fort complaisante,
-Et j'en bois quantité par conversation.
-
--*who_bacchus
-Toujours une cave ambulante
-Me suit partout.
-
--*who_faunus
-      Bonne précaution !
-Voilà ce qui s'appelle une Fête charmante,
-Des vins les plus délicieux.
-Ordonnez, s'il vous plaît, que la troupe Bacchique,
-En partageant nos plaisirs en ces lieux,
-De concert à l'envi s'applique,
-Par d'agréables jeux, par de tendre musique,
-À nous occuper de son mieux,
-Et les oreilles et les yeux.
-
--*who_unsuivantdebacchus
-Dieu des buveurs, sous tes aimables lois,
-On passe doucement la vie,
-Tes favoris ne portent point envie
-Au fort brillant des plus grands Rois.
-Par les douces vapeurs de ta liqueur charmante,
-Tu sais combler tous nos désirs,
-Le vin est la source abondante
-De tous les plaisirs.
-
--*who_unebacchante
-Quand à longs traits
-Le bon vin coule
-On ne s'en dégoûte jamais.
-Sans ennui le temps s'écoule.
-Aucuns mets
-Ne paraissent mauvais,
-Les plaisirs naissent en foule,
-C'est pour les Buveurs qu'ils sont faits.
-Les plaisirs naissent en foule,
-C'est pour les Buveurs qu'ils sont faits.
-Et l'on choisit les plus parfaits,
-Quand à longs traits
-Le bon vin coule
-On ne s'en dégoûte jamais.
-
-**** *book_ *id_IV02 *act_IV *date_1717
-
--*who_unpetitamour
-Du choix de ses plaisirs, si chacun est le maître,
-On choisira ceux de l'Amour, peut-être,
-Et pour vous les offrir, j'adresse ici mes pas.
-
--*who_unsuivantdebacchus
-Après les plaisirs de la table,
-Ceux de l'Amour offrent le plus d'appas,
-Il en faut faire un mélange agréable ;
-Aimer à la fin du repas,
-Afin de ne s'ennuyer pas,
-Après les plaisirs de la table.
-
--*who_unesuivantedelamour
-Aimons toujours,
-Parmi le vin et la tendresse,
-Passons le cours
-De nos beaux jours ;
-On doit le temps de sa jeunesse
-À Bacchus autant qu'aux Amours.
-
--*who_faunus
-Sans trop examiner, ni leurs droits, ni les vôtres,
-En toute occasion, je crois
-Avait toujours de bonne foi,
-Bien payé les uns et les autres.
-
--*who_bacchus
-Assurément.
-
--*who_faunus
-      Pour ceux de Bacchus aujourd'hui,
-Je m'en suis acquitté dignement avec lui.
-
--*who_lamour
-Et les miens ?
-
--*who_faunus
-      Partie à remettre,
-Parce que l'un ne peut permettre…
-Que tous les deux… conjointement…
-Prennent certain arrangement…
-Après cela pourtant, je puis bien vous promettre…
-Quant à présent, que je me porte bien…
-Mais pour une autre fois que vous n'y perdrez rien…
-Et que sans vouloir vous commettre…
-Il ne faut là-dessus avoir aucun souci…
-D'autant que souvent on hasarde…
-Que qui devrait garder, a besoin qu'on le garde…
-Au bout du comte enfin… Bonsoir et grand merci.
-
-**** *book_ *id_IV03 *act_IV *date_1717
-
--*who_bacchus
-Il est en bon état.
-
--*who_lamour
-      Que le vin l'y maintienne,
-Jusqu'à ce que Jupiter vienne.
-
--*who_bacchus
-Agissons de concert toujours dans tout ceci.
-
--*who_lamour
-J'ai donné ma parole à Junon.
-
--*who_bacchus
-      Moi la mienne.
-
--*who_lamour
-Ne buvons donc point tant, et qu'il vous en souvienne.
-
--*who_bacchus
-N'ayez, de grâce, aucun souci.
-
--*who_lamour
-Dans ces jardins tantôt j'ai fait entrer Philène.
-
--*who_bacchus
-Avec Corine, il s'y promène.
-Sans être vu, l'anneau magique a réussi.
-
--*who_lamour
-Tant mieux, servons-nous-en pour les tirer d'ici.
-
-**** *book_ *id_V01 *act_V *date_1717
-
--*who_mercure
-J'en conviens, l'aventure a de quoi vous surprendre.
-Plus que vous j'en suis étonné ;
-Rien ne devait vous faire attendre
-Un retour si peu fortuné.
-
--*who_jupiter
-À cet événement je ne puis rien comprendre,
-Tu m'en vois accablé de honte et de douleur,
-Et je ne puis imputer mon malheur
-Qu'au seul déguisement que mon choix m'a fait prendre.
-
--*who_mercure
-Hé ? Pourquoi donc ?
-
--*who_jupiter
-      Mercure, plus j'y pense,
-Plus mes soupçons sont confirmés ;
-Tous ces soupirants d'importance,
-Dont les talents sont renfermés
-Dans le faste et l'opulence,
-Ne sont bons que pour la dépense ;
-Et rarement ils sont aimés.
-
--*who_mercure
-On aurait là-dessus bien des choses à dire.
-
--*who_jupiter
-Corine ! Un noir chagrin m'agite, me déchire ;
-Je gagerais qu'en ce moment,
-Cette réflexion redouble mon tourment.
-
--*who_mercure
-Oui, nous n'avons pas lieu de rire.
-
--*who_jupiter
-Corine est avec un amant,
-À qui l'on croit impunément
-Pouvoir des Dieux sacrifier le Maître.
-
--*who_mercure
-Oui da, cela pourrait bien être.
-
--*who_jupiter
-Oh ! La chose est assurément.
-
--*who_mercure
-Mais du moins c'est sans vous connaître.
-
--*who_jupiter
-Je l'avais bien prévu. Fatal éloignement !
-Ridicule déguisement !
-Importune grandeur ! Pourquoi ne pas paraître
-Aux regards d'un objet charmant
-Dans tout l'éclat où le Ciel nous fait naître,
-Et craindre de le trop honorer en l'aimant ?
-
--*who_mercure
-À vous en parler franchement,
-Ce ne serait point ma manière ;
-Mais c'est un usage ordinaire
-Que vous n'avez encore quitté que rarement.
-
--*who_jupiter
-M'en voilà pour jamais revenu, je te jure,
-Sans craindre que Junon murmure,
-Je me veux exposer à ses chagrins jaloux,
-Et me faire un plaisir de braver son courroux.
-Il faut pour mieux me venger d'elle,
-Ouvertement aux yeux de tous,
-Lui préférer une simple mortelle.
-Je ne saurais marquer trop de ressentiment ;
-Cherchons Corine, il en est temps encore,
-Avouons-nous pour son Amant.
-Et que tout l'univers sache que je l'adore.
-
--*who_mercure
-Un peu plus de prudence, et moins d'empressement,
-Pour quelque temps il est bon qu'on l'ignore :
-Il est bien vrai que votre amour l'honore.
-Mais il ne vous fait pas honneur également.
-Sachons d'abord ce qu'elle est devenue ;
-Une fille qu'on perd de vue,
-Se retrouve parfois assez facilement,
-Mais pas toujours telle qu'on l'a perdue.
-
--*who_jupiter
-Tu raisonnes fort sagement,
-Et c'est l'excès de la colère
-Qui cause en moi ce premier mouvement.
-
--*who_mercure
-Hé ! De grâce, qu'il se modère.
-
--*who_jupiter
-Je suivrai tes conseils en tout aveuglément.
-
--*who_mercure
-Pour mieux approfondir l'affaire,
-Cherchons ici Faunus de toutes parts,
-Il faut que tôt ou tard il s'offre à nos regards,
-De Corine déjà je vois venir la tante.
-
-**** *book_ *id_V02 *act_V *date_1717
-
--*who_merope
-Je n'en puis plus, ici tout m'épouvante,
-Et votre retour même ajoute à mon effroi.
-Un de vos gens, Seigneur, tantôt s'est devant moi,
-Par le milieu des airs volant à tire d'aile,
-Fait vers le Ciel une route nouvelle ;
-Et puis par un effet presque aussi peu commun,
-J'ai vu ma nièce ici causer avec quelqu'un
-Sans y voir personne auprès d'elle.
-
--*who_jupiter
-Je ne me trompais pas. Ah ! C'était un Amant,
-Et que Junon protège apparemment.
-
--*who_mercure
-La chose n'est pas impossible.
-
--*who_jupiter
-Il n'évitera pas un juste châtiment,
-On fait à mon amour un affront trop sensible,
-Et l'on n'offense pas les Dieux impunément.
-
--*who_merope
-Seigneur, en tout ceci je ne suis point coupable,
-Mortel, ou Dieu, j'en fais serment,
-Je n'ai rien fait qui soit capable
-De m'attirer votre ressentiment.
-
--*who_mercure
-Je le crois, nous pensons de vous tout autrement.
-
--*who_merope
-J'ai fait ce que j'ai pu pour engager Corine.
-
--*who_mercure
-J'en répondrais à votre mine,
-Mais ne savez-vous comment,
-Avec qui, de ces lieux elle s'est échappée ?
-
--*who_merope
-Je ne sais qu'en juger, mais je suis fort trompée,
-Si ce n'est un enlèvement.
-
--*who_jupiter
-Et pour faciliter sa fuite,
-Est-il venu quelqu'un lui rendre ici visite ?
-
--*who_merope
-Je n'ai vu presque rien de ce qui s'est passé,
-De ce que je voyais étonnée, interdite,
-Auprès de ces bosquets je n'ai point avancé :
-Les Amours, disait-on, et des gens de leur suite,
-Avaient ici, ri, bu, chanté, dansé ;
-De trouble et de frayeur j'avais le cœur glacé
-Et de rien je ne suis instruite.
-
--*who_jupiter
-Ah ! Jalouse Junon ! Je reconnais vos coups,
-Et les Amours jamais n'auraient osé sans vous
-Me faire une pareille offense.
-
--*who_mercure
-Nous le méritons bien franchement entre nous,
-Ils n'étaient pas de notre confidence.
-
--*who_jupiter
-Mais Faunus est avec eux, sans craindre mon courroux
-A-t-il été d'intelligence ?
-
--*who_mercure
-Nous le saurons, le voici qui s'avance.
-
--*who_jupiter
-Que veut dire ceci ? Sur ses pieds chancelants
-Il semble qu'à regret tout son corps se soutienne.
-
-**** *book_ *id_V03 *act_V *date_1717
-
--*who_faunus
-Pour rattraper un peu l'usage de mes sens,
-Il est bon que je me promène.
-
--*who_jupiter
-Voilà de mon malheur une preuve certaine.
-
--*who_faunus
-Ah, ah ! C'est vous, parbleu, soyez les bienvenus.
-J'allais commencer d'être en peine.
-
--*who_jupiter
-En quel état vous trouvai-je, Faunus ?
-
--*who_faunus
-Vous le voyez, la bedaine assez pleine,
-C'est votre fils… son frère à lui… Bacchus,
-Qui pour… renouveler… l'ancienne connaissance…
-Oh ! Nous avons, ma foi, soufflé d'excellent jus.
-
--*who_jupiter
-J'avais compté sur votre vigilance.
-
--*who_faunus
-Oui, je suis vigilant, on ne peut l'être plus.
-
--*who_mercure
-Il y paraît, vraiment.
-
--*who_faunus
-Il y paraît ? Abus.
-
--*who_jupiter
-Et Corine ?
-
--*who_faunus
-Êtes-vous fâché de son absence ?
-
--*who_jupiter
-Si j'en suis fâché ?
-
--*who_faunus
-Paix, je suis au fait, motus,
-Mais par discrétion je garde le silence.
-
--*who_jupiter
-Quoi ?
-
--*who_faunus
-      Ne me dites rien, s'il vous plaît, là-dessus,
-Voilà la tante encore, c'est une grande avance ;
-Je ne perds pas, comme on voit, connaissance,
-Et les pièges qu'on m'a tendus…
-Bref, vos rivaux seront tous confondus.
-
--*who_jupiter
-Ne rougissez-vous point de l'état où vous êtes ?
-
--*who_faunus
-Non ; pour un peu de vin, quel vacarme vous faites !
-
--*who_jupiter
-Quelle honte !
-
--*who_faunus
-      Voilà justement ce que c'est :
-Vous autres Dieux de la première classe,
-Vous buvez du nectar autant qu'il vous plaît,
-Sans que sur vos cerveaux il fasse
-Nulle impression, nulle trace ;
-Pour nous autres, il y paraît.
-
--*who_jupiter
-Pour faire contre vous éclater ma vengeance,
-Je vous dégraderai de l'immortalité.
-
--*who_faunus
-Non, non, n'en faites rien, donnez-vous patience,
-Avec la tante en diligence,
-Je vais chercher partout : et mon activité
-Justifiera que ma fidélité
-Mérite une autre récompense,
-Sans adieu.
-
-**** *book_ *id_V04 *act_V *date_1717
-
--*who_jupiter
-Quelle indignité !
-À quel excès je me sens irrité !
-Les Amours et Bacchus aujourd'hui me trahissent,
-Avec Junon de concert ile s'unissent.
-Ah ! Je les punirai de leur témérité :
-Pour Junon, j'y suis fait, et j'ai toujours été
-L'objet de son humeur et de sa jalousie,
-Et je ne puis priver Bacchus de l'ambroisie ;
-Mais pour un tas confus de ces petits Amours,
-Dont le nombre partout augmente tous les jours,
-Je puis au gré de mon envie,
-Les soumettre à perdre la vie ;
-Le destin me permet de les traiter ainsi,
-Va, cours dire à Vénus…
-
--*who_mercure
-Je crois que la voici.
-
-**** *book_ *id_V05 *act_V *date_1717
-
--*who_jupiter
-      Vous venez à propos, Déesse.
-
--*who_venus
-Un soin pressant qui pour vous m'intéresse,
-Me fait vous chercher jusqu'ici.
-
--*who_jupiter
-Et pour une affaire qui presse,
-J'avais dessein de vous parler aussi.
-
--*who_venus
-La confidence est fâcheuse à vous faire.
-
--*who_jupiter
-Ce que je vous dirai pourra ne vous pas plaire !
-
--*who_venus
-Junon… votre chaste moitié….
-
--*who_jupiter
-Junon… ne me parlez point d'elle.
-
--*who_venus
-Sent pour mon fils, qui soupire auprès d'elle,
-Un peu plus que de l'amitié.
-
--*who_mercure
-Comment diantre. Ceci passe la raillerie !
-
--*who_jupiter
-Junon !
-
--*who_venus
-De vos amours voilà quel est l'effet ;
-Je ne dois pas les blâmer tout-à-fait,
-C'est une liberté qui ne m'est pas permise,
-Mais votre exemple l'autorise.
-Comme chez les mortels, l'exemple chez les Dieux
-Est tout-à-fait contagieux :
-Quand à sa femme un mari donne prise,
-La femme cherche à l'imiter,
-Et c'est ainsi qu'on l'indemnise.
-
--*who_jupiter
-Déesse vous venez ici nous débiter
-Une ridicule morale.
-Un mari peut manquer à la foi conjugale,
-Sans que la femme soit en droit d'en profiter.
-Il est des lois de bienséance,
-Les maris ont de certains droits.
-
--*who_venus
-On s'y conformais autrefois,
-Aujourd'hui l'usage en dispense,
-Les femmes ont changé de lois.
-
--*who_jupiter
-Morbleu de toute votre race
-J'ai bien à me plaindre aujourd'hui ;
-L'aîné prend ma femme pour lui,
-Les cadets pour un autre enlèvent ma maîtresse ;
-Pour l'aîné, je conviens de ce que je lui dois ;
-Il a souvent bien servi ma tendresse,
-Et là-dessus je suis de bonne foi.
-Il faut bien, en faveur de tant de bons offices,
-Lui passer ses tendres caprices,
-Quoique ma femme en soit l'objet,
-Mais qu'il en demeure au projet.
-
--*who_venus
-Rassurez-vous, et n'ayez nulle crainte,
-Sa tendresse n'est qu'une feinte ;
-Et je n'ai pris le soin de vous en avertir,
-Qu'afin de vous faire sentir,
-Dans le désir d'être vengée,
-À quoi se peut livrer une prude enragée ;
-C'est à vous dans la suite à vous en garantir.
-
--*who_jupiter
-Ah ! C'est ce que l'on doit attendre ;
-Mais lorsqu'à votre aîné j'ai des grâces à rendre,
-J'ai du regret à ne vous point mentir,
-D'être obligé de vous apprendre
-Quel violent parti contre tous ses cadets,
-Après les chagrins qu'ils m'ont faits,
-Mon courroux vient de prendre.
-
--*who_venus
-Quoi ? Comment donc ! 
-
--*who_jupiter
-      Ils ont prêté
-Leurs soins pour enlever Corine.
-
--*who_venus
-Ce trait qui contre eux vous chagrine
-Ne doit point leur être imputé.
-
--*who_jupiter
-J'en crois le mouvement dont j'en suis agité,
-Et la fureur qui me domine ;
-Ils m'ont trahi, mais je m'en vengerai,
-J'en vais détruire autant que je pourrai.
-
--*who_venus
-Votre courroux contre eux n'a rien que j'appréhende.
-
--*who_jupiter
-Ils en ressentiront cependant les effets.
-
--*who_venus
-Vous en auriez d'inutiles regrets ;
-Ils mériteront grâce, et je vous la demande.
-
--*who_jupiter
-C'est assez qu'à l'aîné je laisse ses Autels,
-Les autres deviendront mortels :
-De ma vengeance il faut laisser des marques,
-Je les assujettis aux caprices des Parques.
-
--*who_venus
-Quel affront ! Quelle nouveauté !
-
--*who_jupiter
-Allez, dépêchez-vous ; que mon ordre, Mercure,
-À l'instant soit exécuté.
-
--*who_mercure
-Vous serez obéi.
-
--*who_venus
-Cette peine est trop dure,
-Révoquez-en l'arrêt.
-
--*who_jupiter
-Non, Je suis trop piqué,
-Il ne sera point révoqué,
-Et c'est par le Styx que j'en jure.
-
-**** *book_ *id_V06 *act_V *date_1717
-
--*who_venus
-Ciel ! Puis-je recevoir de plus sensible injure ?
-
--*who_mercure
-Il est terrible en sa fureur ;
-Et les Amours, je vous assure,
-Ont grand tort dans cette aventure,
-Par un endroit sensible ils ont frappé son cœur ;
-Voilà pour eux une fâcheuse époque.
-De la façon qu'il a juré,
-Je ne crois pas, tout bien considéré,
-Que jamais l'ordre se révoque.
-
--*who_venus
-L'effet du moins par vous doit être différé.
-
--*who_mercure
-Non, je ne puis trop tût satisfaire à son gré,
-Et je vais avertir les trois Sœurs filandières,
-Qu'à leurs lois Jupiter a soumis les Amours,
-Qu'elles sont désormais maîtresses de leurs jours.
-Impitoyables et sévères,
-Je crois que loin d'en prolonger le cours,
-Elles n'en épargneront guères ;
-Et je prévois que leur fatal ciseau,
-Les fera presque tous périr dès le berceau.
-Je vous quitte.
-
--*who_venus
-      Arrêtez de grâce.
-
--*who_mercure
-Vous obéir n'est pas en mon pouvoir.
-Quand Jupiter prononce, il faut qu'à son devoir
-Sans différer on satisfasse.
-
-**** *book_ *id_V07 *act_V *date_1717
-
--*who_venus
-Et moi, pour qui cet Arrêt odieux
-Est l'offense la plus mortelle,
-Je saurai contre lui soulever tous les Dieux.
-De tes frères, mon fils, prends en main la querelle,
-Vengeons-nous de concert d'un Maître impérieux.
-
-**** *book_ *id_V08 *act_V *date_1717
-
--*who_lamour
-Quel violent transport, Déesse, vous anime ?
-
--*who_venus
-Tu vois, mon fils, le cœur de ta mère agité,
-Du courroux le plus légitime.
-Tes frères sont privés de l'immortalité ;
-Sans les entendre, on les opprime.
-Contre eux Jupiter irrité,
-Que sans le rendre heureux Corine l'ait quitté,
-De sa fuite leur fait un crime :
-Il a donné l'arrêt.
-
--*who_lamour
-Il faut qu'il le supprime,
-Et c'est un traitement qu'ils n'ont pas mérité.
-Si l'enlèvement de Corine,
-Au point où je le crois, l'offense et le chagrine,
-De cet enlèvement qu'il ne soit point surpris :
-Il nous a méprisés ; mais enfin, qu'il apprenne
-Que pour éviter ses mépris,
-On cherche à mériter sa haine.
-
--*who_venus
-Vous le pouvez braver impunément,
-Mais vos frères, mon fils, objet de sa vengeance,
-Quand c'est vous qui faites l'offense,
-En reçoivent le châtiment.
-
-**** *book_ *id_V09 *act_V *date_1717
-
--*who_faunus
-Hé ! Qu'est-ce donc, voici bien du remue-ménage ?
-Jupiter est pis qu'enragé,
-Et moi de mon côté j'enrage.
-C'est vous, petit fripon, je gage,
-Qui malice avez ici tout dérangé.
-
--*who_lamour
-Oui, c'est moi, c'est Bacchus, et Junon elle-même,
-Qui de concert en ce moment,
-Venons d'unir Corine à ce qu'elle aime.
-
--*who_faunus
-Vous avez là-dedans bien opéré, vraiment,
-Un mortel est maître des charmes
-Que le Maître des Dieux aimait si tendrement :
-Je ne m'étonne pas s'il met tout en alarmes.
-Dans tout ceci pour moi je n'attends rien de bon.
-
--*who_venus
-Vous ne faites que craindre en cette occasion,
-Et des Amours déjà la disgrâce est certaine.
-Doivent-ils seuls portés la peine,
-D'avoir trop bien servi Junon ?
-Jupiter, suspends ta vengeance,
-Ou si tu veux l'exercer aujourd'hui ;
-C'est l'Hymen qui te fait la plus sensible offense ;
-Punis-le, venge-toi sur lui.
-
--*who_faunus
-Oh ! Pour cela, c'est une chose à faire,
-C'est lui qu'il faut bannir du rang des Immortels.
-Quand on détruirait ses Autels,
-On ne s'en plaindrait pas, et l'on n'y perdrait guère ;
-Mais vouloir supprimer la race des Amours,
-Ce serait déranger l'ordre de la nature ;
-Le monde, sans l'Hymen, doit bien durer toujours ;
-Mais sans Amours, il est bien malaisé qu'il dure,
-Je crains fort entre nous la fin de l'aventure.
-
-**** *book_ *id_V10 *act_V *date_1717
-
--*who_linconstance
-Ne craignez rien, Faunus, rassurez-vous ;
-Cessez de vous plaindre, Déesse,
-Aux destins des Amours toujours je m'intéresse ?
-
--*who_lamour
-Que peut l'Inconstance pour nous ?
-
--*who_linconstance
-Pour vous, ingrat, je travaille sans cesse ;
-De Jupiter j'ai calmé le courroux.
-
--*who_venus
-Que dites-vous ?
-
--*who_linconstance
-      J'en suis certaine ;
-Il voit Corine sans regret,
-Par l'hymen unie à Philène.
-
--*who_lamour
-Quoi ! Leur bonheur ne lui fait point de peine ?
-
--*who_linconstance
-Pour dégager les cœurs d'une amoureuse chaîne,
-L'Inconstance a plus d'un secret,
-Jupiter en ressent l‘effet,
-Il n'est pas sans amour, mais il est sans colère.
-
--*who_faunus
-Hé, comment avez-vous pu faire ?
-
--*who_linconstance
-Sans m'écarter de ma route ordinaire,
-J'ai fait à ses regards briller un jeune objet,
-Plus charmant que Corine, et plus digne de plaire.
-
--*who_venus
-Fort bien.
-
--*who_linconstance
-      Un de vos fils, un petit téméraire,
-De tous les Amours le cadet,
-Qui je crois ne fait que naître,
-Les a d'abord frappés tous deux du même trait :
-Et des Dieux le Souverain Maître
-Applaudit à l'enfant du beau coup qu'il a fait.
-Il le caresse, il fait connaître
-Qu'il se repent du funeste décret,
-Dont il vient de charger Mercure ;
-Et tout Dieu qu'il est, il murmure
-Contre le sort qui le soumet,
-Ayant juré le Styx, à n'être point parjure.
-Il me consulte, il me permet,
-Autant qu'il se pourra, de réparer la chose,
-J'imagine un moyen, et je le lui propose,
-Il l'approuve à l'instant, il en est satisfait.
-
--*who_venus
-Quel est-il ?
-
--*who_linconstance
-      La Métempsycose.
-
--*who_lamour
-Comment ?
-
--*who_linconstance
-      Si les Amours ne sont plus immortels,
-Ils n'en auront pas moins leurs Temples, leurs Autels
-Ils finiront sans cesser d'être.
-Les Parques, ni les temps ne pourront rien sur eux,
-Toujours jeunes, charmants, heureux,
-Leur aîné de leur sort sera par moi le maître,
-Le sien ne sera pas plus brillant que le leur :
-Et quand ils mourront dans un cœur,
-Dans un autre à l'instant je les ferai renaître,
-Et leur rendrai par-là cette immortalité
-Dont le droit leur vient d'être ôté.
-
--*who_lamour
-Ai-je tort d'aimer l'Inconstance ?
-
--*who_venus
-Peut-on mieux des Amours réparer le malheur ?
-
--*who_linconstance
-À mes talents, à ma faveur,
-Vénus et les Amours doivent plus qu'on ne pense.
-
--*who_lamour
-Ne doutez point de leur reconnaissance.
-
-**** *book_ *id_V11 *act_V *date_1717
-
--*who_mercure
-Jupiter près de vous m'envoie en diligence
-Vous annoncer le pardon d'une offense
-Qu'il ressentait avec trop de chaleur ;
-Mais il faut le servir dans sa nouvelle ardeur ;
-Junon au Ciel est retournée.
-
--*who_lamour
-Saisissons cet heureux moment ;
-De Corine et de son Amant,
-Célébrons ici l'hyménée.
-
--*who_venus
-Que tout conspire à leur contentement.
-
--*who_linconstance
-Que l'Univers admire ma puissance,
-Et qu'on se souvienne toujours
-Que malgré les destins, aujourd'hui l'Inconstance
-Immortalise les Amours.
-
--*who_mercure
-Vous n'aviez jamais lu dans la Métamorphose,
-Les incidents qu'on vient d'exposer à vos yeux,
-Et de cette Métempsycose
-L'effet pourtant est sensible en tous lieux.
-L'histoire secrète des Dieux
-Pour les gens de bon goût doit avoir quelque chose
-D'intéressant, de curieux.
-Si cette épreuve a pu vous satisfaire,
-Nous tâcherons de temps en temps
-D'en démêler encore de nouveaux incidents,
-Et de les rendre de manière
-Que vous en soyez plus content :
-La troupe de nos Dieux préfère
-À l'intérêt, de même à tout encens,
-L'avantage seul de vous plaire,
-Et d'attirer vos applaudissements.
-
-**** *book_ *id_V12 *act_V *date_1717
-
--*who_unethessalienne
-Goûtons bien la douceur extrême
-D'une heureuse liberté,
-Dans ce beau séjour enchanté,
-Malgré la grandeur suprême,
-Une jeune et tendre beauté,
-Peut au Souverain des Dieux même,
-Préférer le berger qu'elle aime.
-
--*who_unthessalien
-Que tout retentisse
-Du bonheur qu'on goûte en ces lieux,
-Que chacun choisisse
-Les plaisirs qu'il aime le mieux,
-D'une aimable et sage folie,
-Où l'âme s'endort et s'oublie,
-Ménageons bien les moments précieux ;
-Les seuls plaisirs de la vie,
-Égalent les mortels aux Dieux.
-Sans le secours de l'Inconstance,
-Que l'amour aurait peu d'attraits !
-Un cœur qui ne change jamais
-De l'amour borne la puissance :
-Que ferait-il de tous ses traits
-Sans le secours de l'Inconstance
-Changer d'objet tous les jours,
-Voler toujours de belle en belle,
-Si c'est leur être infidèle,
-C'est être fidèle aux Amours.
-Savoir aimer constamment,
-Rendre un Berger toujours fidèle ;
-C'est tout l'honneur qu'une belle
-Se puisse permettre aisément.
-Habitants heureux
-De ces beaux lieux,
-Les plaisirs sont votre partage.
-Ne songez qu'à vivre contents ;
-Profitez bien de vos beaux ans.
-Donnez aux Amours
-Vos nuits et vos jours,
-C'est en faire un bon usage.
-Sur l'aile du temps
-Tous nos instants
-Se dissipent comme un nuage.
-Préférons, puis qu'il faut finir,
-L'instant présent à l'avenir.
-Les moments perdus
-Ne reviennent plus,
-Et qui les perd n'est pas sage.
-Quand avec Cypris
-Mars fut surpris,
-Vulcain devait taire l'offense.
-Pour en avoir instruit les Dieux,
-Il devint la fable des Cieux.
-On est aujourd'hui
-Plus sage que lui,
-On sait garder le silence.
-L'or de Jupiter
-Ne peut dompter,
-Qu'un cœur neuf au tendre mystère.
-S'il a malgré l'éclat de l'or,
-Près de Corine un autre sort,
-C'est qu'à ce métal
-Un jeune Rival
-Mérite qu'on le préfère.
-Nous serons heureux,
-Comme les Dieux,
-De remporter votre suffrage.
-Pour mériter cette faveur,
-Nous travaillons avec ardeur ;
-Pour prix de nos soins,
-Prêtez-vous du moins,
-Au succès de cet Ouvrage.

@@ -1,1169 +1,530 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_angelique
-Que la musique est une sotte chose !...
-Voilà un gros quart-d'heure que je suis après cet air, sans pouvoir l'exécuter.
-Il est de Rameau : cet homme était un géomètre, plutôt qu'un Musicien ; il a fait de l'algèbre.
-Qu'une autre se tue à le déchiffrer !
-Pour moi j'y renonce.
-Voyons un peu cette tête que j'avais commencée, elle a un grand caractère.
-Comme tout est prononcé dans cette figure !
-On m'a dit qu'elle représentait celle de Socrate ; ce grand Philosophe !
+Que la musique est une sotte chose !... Voilà un gros quart-d'heure que je suis après cet air, sans pouvoir l'exécuter. Il est de Rameau : cet homme était un géomètre, plutôt qu'un Musicien ; il a fait de l'algèbre. Qu'une autre se tue à le déchiffrer ! Pour moi j'y renonce.
+Voyons un peu cette tête que j'avais commencée, elle a un grand caractère. Comme tout est prononcé dans cette figure ! On m'a dit qu'elle représentait celle de Socrate ; ce grand Philosophe !
 Il était bien laid.
 Ah !...
 
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_valere
-Tu vois comme elle me fuit !
-Tu ne lui as point parlé de moi !
-
--*who_rose
-Si fait.
-
--*who_valere
-Écoute un moment.
-
--*who_rose
-Je n'ai pas le temps.
-
--*who_valere
-Rose, tiens.
-Voilà une bague, qui je crois, t'ira bien.
-
--*who_rose
-Qu'avez-vous à me dire ?
-Parlez.
-
--*who_valere
-Tu vas trouver Angélique.
-
--*who_rose
-Oui.
-
--*who_valere
-Eh bien !
-Dis-lui qu'il existe un homme qui l'adore : dis-lui qu'il n'aspire qu'après le moment de lui déclarer sa passion : peins-lui les tourments, les transports de cet homme, d'une manière un peu attendrissante : dis-lui qu'il souffre beaucoup, qu'il se meurt, et qu'il sera bientôt mort s'il ne trouve les moyens dé lui plaire ; et si par hasard elle te demande, quel est cet homme, apprends lui que c'est Valère.
-
--*who_rose
-Et si elle ne me demande rien.
-
--*who_valere
-Tu le lui diras toujours.
-
--*who_rose
-Des transports, des tourments... tous ces grands mots l'effrayeraient.
-Sans lui parler de cela, je la préviendrai en votre faveur ; laissez-moi faire.
-
--*who_valere
-Écoute.
-Voilà Monsieur le Baron, reste avec moi pour m'aider à le fléchir.
-
--*who_rose
-Volontiers.
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_monsieurdorce
-Eh bien !
-Valère avez-vous vu ma fille ?
-
--*who_valere
-Oui : mais sans pouvoir lui parler : car aussitôt qu'elle m'a aperçu, elle s'est mise a fuir, comme si j'eusse été un monstre.
-
--*who_monsieurdorce
-Voilà comme elle est depuis sa sortie du couvent : rien ne peut l'humaniser ; on dirait que les hommes lui font peur.
-Je l'ai amenée à la campagne uniquement pour l'égayer, vous nous y avez suivis dans cette intention : elle s'échappe à nos regards, et va rêver seule dans sa chambre.
-
--*who_valere
-Accoutumée à la solitude et au recueillement, peut-être cherche-t-elle à reprendre ses habitudes.
-
--*who_monsieurdorce
-Elle est plus que solitaire : elle est triste, inquiète : sa mélancolie me gagne quelquefois, et m'afflige toujours.
-
--*who_valere
-La mélancolie est assez commune à son âge.
-
--*who_monsieurdorce
-Elle aime beaucoup les romans et le thé, qui viennent d'Angleterre.
-Elle prend souvent de l'un, et lit beaucoup les autres.
-Quelquefois je les lui arrache des mains, tout mouillés de ses larmes : enfin, je ne suis point tranquille sur sa santé, et j'ai envie de consulter les médecins.
-
--*who_rose
-Vous avez donc envie de la rendre malade.
-
--*who_monsieurdorce
-Non, mais à coup sûr elle l'est.
-
--*who_rose
-Non, elle se porte bien.
-
--*who_monsieurdorce
-J'attends une compagnie nombreuse et choisie, ô j'espère que cela pourra la dissiper.
-
--*who_rose
-Tout cela n'y fera rien, non plus que les médecins ; c'est un époux qu'il lui faut.
-Écoutez-moi, Monsieur, l'âge de votre fille est celui ou le coeur commence à avoir ses besoins : l'inquiétude et le malaise qu'elle éprouve, ne viennent que de cette cause.
-Je puis en parler savamment, car j'ai eu longtemps la même maladie.
-
--*who_monsieurdorce
-Tu devrais l'avoir encore, car tu n'as jamais été mariée.
-
--*who_rose
-Croyez-vous donc qu'il n'y ait que les maris qui guérissent ce mal ?
-Il est des charlatans en amour comme en médecine, qui sont quelquefois des cures merveilleuses.
-Mais Mademoiselle Angélique ne doit point être livrée aux charlatans : il lui faut un Docteur qui ait pris solennellement tous ses grades : et je crois avoir trouvé son homme.
-Angélique est votre unique fille, vous l'aimez beaucoup.
-
--*who_monsieurdorce
-Je n'ai tien de plus cher au monde.
-
--*who_rose
-Vous ne voulez point gêner ses inclinations.
-
--*who_monsieurdorce
-Je ne veux que son bonheur.
-
--*who_rose
-Si par hasard elle se choisissait un époux parmi les jeunes gens qu'elle voit, vous ne le désapprouveriez pas ?
-
--*who_monsieurdorce
-Non.
-Pourvu que son choix fût digne d'elle et de moi.
-
--*who_rose
-Oh !
-Je lui connais trop de discernement pour qu'elle se trompe là-dessus.
-
--*who_monsieurdorce
-Eh bien !
-À quoi peut aboutir ce préambule ?
-
--*who_valere
-Eh !
-Monsieur, ne le voyez-vous pas ?
-J'aime Angélique, je l'adore, je ne vois qu'elle partout, je ne pense qu'à elle ; je ne respire que par elle et que pour elle ; mon existence dépend d'un de ses regards.
-Permettez-moi de tomber à ses pieds, de lui dévoiler mes sentiments, de lui jurer un amour inviolable, éternel ; et si elle le partage, ne vous opposez point à mon bonheur.
-
--*who_monsieurdorce
-Ah !
-C'est vous-même qui voulez être le Médecin ?
-Je vous sais gré de la confiance que vous avez en moi ; elle mérite une récompense.
-Aimez Angélique ; je vous la donne, si vous parvenez à vous en faire aimer : mais, je retire ma parole, si elle rejette votre amour.
-
--*who_valere
-Ah !
-Monsieur, vous me comblez de joie.
-Je voulais votre consentement, voilà tout, je me charge du reste.
-
--*who_monsieurdorce
-Voici Angélique : je vais vous présenter.
-
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_monsieurdorce
-Ma fille, voici Valère que je vous présente.
-Vous aimez les Arts, il les cultive, il pourra vous diriger dans vos études agréables, et hâter même vos succès.
-Je veux que vous le consultiez de temps en temps ; et surtout, que vous ne le fuyiez point d'un air effrayé, comme vous avez fait tantôt.
-
--*who_angelique
 Je vous obéirai, mon père.
 
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_angelique
 Rose, approchez-moi ce fauteuil, je me sens extrêmement fatiguée.
 
--*who_valere
-D'où peut venir cette lassitude, Mademoiselle ?
+N'est-ce donc rien que de parler toujours ? C'est votre occupation tant que la journée dure.
 
--*who_rose
-De trop de repos.
-Si vous saviez la vie que nous menons, vous ne feriez pas cette demande.
-Mademoiselle se couche de bonne heure, se lève quand le soleil a fait presque la moitié de son tour ; prend un livre, se jette dans une bergère, parcourt le volume en baillant, se lève encore, s'approche d'une glace, calomnie toute sa personne, se trouve les yeux battus et le teint pâle, tandis qu'il n'en est rien.
-Pour lui complaire, je lui dit : il est vrai, Mademoiselle, que vous êtes presque laide ce matin, un peu de toilette vous rendrait vos grâces.
-Un peu de toilette...
-Ces mots irritent Mademoiselle, elle n'en veut point faire, elle la déteste, elle n'a pas même la coquetterie de l'innocence ; et moi, j'enrage de voir qu'elle peut s'en passer, parce qu'il faut que je reste comme elle, les bras croisés.
+Ah ! Mon Dieu, Monsieur, laissez le clavecin, il m'est insupportable aujourd'hui. J'ai grand mal à la tête et vous l'augmenteriez.
 
--*who_valere
-Combien tu m'affliges par ces récits !
-Je voudrais bien pouvoir apporter quelque remède à l'inquiétude de Mademoiselle Angélique.
+Maussade. C'est une critique fort gaie des livres qui sont pleurer : il m'a attristée horriblement.
 
--*who_rose
-Ce n'est pas tout, Monsieur, apprenez le reste, je vous prie.
-Monsieur le Baron est la bonté même : son fermier a une petite fille, nommée Colette : diriez-vous qu'il l'a mise au service de Mademoiselle, uniquement pour avoir le plaisir de lui payer des gages ?
-C'est une espèce d'aide que l'un m'a donnée ; mais à quoi me servira-t-elle ?
-On ne peut aider que les gens qui travaillent, et moi je ne fais rien, et je n'ai rien à faire.
+Ah ! Vous n'aurez pas cette peine, car je suis si mécontente de tout ce que j'ai fait jusqu'à présent, que je veux le jeter au feu.
 
--*who_angelique
-N'est-ce donc rien que de parler toujours ?
-C'est votre occupation tant que la journée dure.
+Je vous ai dit que le bruit m'incommodait, et j'en ferais en chantant. Je vois que vous vous donnez beaucoup de peine pour m'amuser, je vous en remercie mais elle est inutile. Je vous ai dit que j'avais la migraine, et quand ce mal me tient, tout ce qu'on fait pour m'égayer me donne de l'humeur.
 
--*who_rose
-J'en fuis fâchée, Mademoiselle, mais il faut que je dise votre conduite à Monsieur.
-Je la dirais à tout le monde pour vous en faire changer.
-À l'heure du dîner, Mademoiselle descend, se met à table, mange nonchalamment quelques morceaux, mais ne dîne point.
-Voici où se passe l'après-dinée.
-Là, on fait mugir un instrument d'un ton bien triste, bien lugubre, bien lamentable...
-Ici, on dessine la tête d'un vieillard rébarbatif...
-Quelquefois aussi, j'y vois tracer des lignes, des cercles, qui ressemblent au grimoire ; et je crois qu'on veut évoquer les morts, afin de rendre ce séjour tout-à-fait inhabitable.
+Que veux-tu ? J'ai des chagrins, je suis inquiète, et dans cet état je ne peux voir personne. Mais tu dis que Valère m'aime !
 
--*who_valere
-Toutes ces choses-la te semblent tristes, sans doute, par la manière dont Mademoiselle les fait ; mais elles sont la source de mille plaisirs.
-
--*who_rose
-Ce n'est pas tout.
-Le soir on va rêver seule dans une allée bien solitaire : on entend le murmure d'un ruisseau, le chant d'un hibou : on les écoute attentivement, et on revient dire qu'on a entendu un concert merveilleux.
-On rentre dans le salon ; et s'il y a du monde, on fait comme le hibou, on s'enfuit sans rien dire dans sa retraite, d'où l'on ne sort plus jusqu'au lendemain.
-Dites-moi, Monsieur, s'il est possible de vivre de cette manière ?
-Pour moi, je n'y tiens plus, je sèche sur pied, je me meurs.
-
--*who_valere
-Eh bien !
-Moi, je vais te rendre à la vie : je veux être ton Orphée.
-
--*who_angelique
-Ah !
-Mon Dieu, Monsieur, laissez le clavecin, il m'est insupportable aujourd'hui.
-J'ai grand mal à la tête et vous l'augmenteriez.
-
--*who_valere
-Pardon, belle Angélique : je ne connaissais point votre mal.
-Il est vrai que le bruit peut le redoubler.
-Ce livre que je vous ai apporté l'autre jour, comment l'avez-vous trouvé.
-
--*who_angelique
-Maussade.
-C'est une critique fort gaie des livres qui sont pleurer : il m'a attristée horriblement.
-
--*who_rose
-Cette fille-là pleure de ce qui fait rire les autres.
-
--*who_valere
-Vous êtes la seule sur qui il ait produit cet effet.
-Rose avait raison ; voilà une tête fort sévère.
-Pourquoi vous exercer sur de pareils modèles ?
-Ce font les Amours, ce sont les Grâces qu'il vous faut peindre.
-Voilà du moins les études que je vous donnerais à copier avant de tracer votre image.
-
--*who_angelique
-Ah !
-Vous n'aurez pas cette peine, car je suis si mécontente de tout ce que j'ai fait jusqu'à présent, que je veux le jeter au feu.
-
--*who_valere
-Connaissez-vous cette nouvelle ariette de l'Opéra Comique, qu'on chante partout ?
-C'est un Allegretto.
-Je crois l'avoir dans ma poche ; elle irait bien à votre voix, il vous vouliez la chanter.
-
--*who_rose
-Un Allegretto !
-Oh !
-Cela ne nous convient pas.
-Il nous faut des Adagio.
-
--*who_angelique
-Je vous ai dit que le bruit m'incommodait, et j'en ferais en chantant.
-Je vois que vous vous donnez beaucoup de peine pour m'amuser, je vous en remercie mais elle est inutile.
-Je vous ai dit que j'avais la migraine, et quand ce mal me tient, tout ce qu'on fait pour m'égayer me donne de l'humeur.
-
--*who_valere
-Eh bien !
-Mademoiselle, je vous laisse.
-Cette fille est inconcevable.
-
-**** *book_ *id_I06 *act_I *date_(inc
-
--*who_rose
-Eh !
-Pourquoi, Mademoiselle, congédier ce jeune homme de la sorte ?
-Il vous aime, et vous l'avez affligé.
-
--*who_angelique
-Que veux-tu ?
-J'ai des chagrins, je suis inquiète, et dans cet état je ne peux voir personne.
-Mais tu dis que Valère m'aime !
-
--*who_rose
-Vous avez des chagrins !
-Et quels sont-ils, s'il vous plaît ?
-
--*who_angelique
 Je l'ignore : mais je sais bien que dans ce moment je ne suis pas contente.
 
--*who_rose
-Je le crois, Mademoiselle, je le crois.
-Voulez-vous que je vous en dise la raison ?
-
--*who_angelique
 Peux-tu la savoir mieux que moi ?
 
--*who_rose
-Oh !
-Sûrement, je la sais.
-Vous aimez...
-Et voilà d'où viennent vos chagrins.
+J'aime ! Tu es folle, ma pauvre Rose, jamais conjecture n'a été plus fausse que la tienne. Va, je t'assure que mon coeur est fort tranquille.
 
--*who_angelique
-J'aime !
-Tu es folle, ma pauvre Rose, jamais conjecture n'a été plus fausse que la tienne.
-Va, je t'assure que mon coeur est fort tranquille.
-
--*who_rose
-Vous n'aimez point ?
-
--*who_angelique
 Non : certainement ; et qui voudrais-tu que j'aimasse ?
 
--*who_rose
-Je voudrais que ce fût Valère, par exemple.
+Valère ! Je le vois avec plaisir, mais je ne l'aime point.
 
--*who_angelique
-Valère !
-Je le vois avec plaisir, mais je ne l'aime point.
-
--*who_rose
-Songez-vous à lui quelquefois ?
-
--*who_angelique
 Bien rarement.
 
--*who_rose
-Mais vous y songez,
-
--*who_angelique
 Oui, quand je ne suis pas occupée de choses essentielles,
 
--*who_rose
-Ah !
-J'entends : vous lui donnez le superflu de vos méditations.
-
--*who_angelique
 Qu'est-ce que tu veux dire par-là ?
 
--*who_rose
-Je veux dire, que, lorsque vous avez réfléchi longtemps sur de graves objets, tels que la musique et le dessin ; si vous avez du temps de reste, vous l'employez à penser à lui.
-
--*who_angelique
 Oui : je crois qu'il vaut autant s'occuper d'un homme, que d'une chanson ou d'un paysage.
 
--*who_rose
-Et la nuit, songez-vous encore à lui ?
+Oh ! La nuit je ne fais que rêver.
 
--*who_angelique
-Oh !
-La nuit je ne fais que rêver.
-
--*who_rose
-Et il a part à vos rêves comme à vos méditations ?
-
--*who_angelique
 Cela est vrai : mais tu sais que tes rêves ne dépendent pas de nous ; et si j'étais éveillée, je suis bien sûre que cela n'arriverait pas.
 
--*who_rose
-Oh !
-Sans doute : vous savez commander à vos pensées la nuit comme le jour.
-Mais dites-moi encore une chose : quand Valère parait, sentez-vous dans votre coeur un certain trouble involontaire ?
-
--*who_angelique
 Non : mais je ne suis pas bien aise qu'il s'en aille, quand je suis avec lui.
 
--*who_rose
-Et cependant, vous venez de le congédier.
+Moi ! Je l'ai congédié ! Je lui ai dit que j'avais la migraine, cela était vrai, et il s'est en allé, il a eu tort : il pouvait rester.
 
--*who_angelique
-Moi !
-Je l'ai congédié !
-Je lui ai dit que j'avais la migraine, cela était vrai, et il s'est en allé, il a eu tort : il pouvait rester.
+Oh ! J'en serais bien fâchée : ce n'était pas mon intention.
 
--*who_rose
-Vous lui avez parlé d'un ton si froid, que je crains bien que cela ne lui ait fait de la peine.
-
--*who_angelique
-Oh !
-J'en serais bien fâchée : ce n'était pas mon intention.
-
--*who_rose
-Vous êtes fâchée d'avoir fâché Valère : vous rêvez à lui, vous y pensez, vous souffrez quand il vous quitte, et vous ne l'aimez point ?
-
--*who_angelique
 Non, Mademoiselle, non, je l'aime point, j'en suis sûre ; et je me fâcherai, si vous me parlez encore de cet homme-là.
 
--*who_rose
-Eh bien !
-Laissons-là les hommes, et parlons du Dieu qui les gouverne... de l'Amour.
-
--*who_angelique
 Je ne veux point le connaître.
 
--*who_rose
-Et moi je voudrais qu'il fut toujours avec vous ; vous vous ennuyez beaucoup : les jours vous paraissent des mois, les mois des années.
-
--*who_angelique
 Cela n'est que trop vrai.
 
--*who_rose
-Si vous connaissiez l'amour ; les jours, les mois, les années, tout cela volerait si vite !...
-Si vite !
-
--*who_angelique
 Crois-tu réellement que Valere m'aime ?
 
--*who_rose
-Je l'ignore, Mademoiselle, et vous me fâcherez, si vous me parlez encore de cet homme-là.
-Mais j'aperçois la fille du fermier avec son amoureux : je leur avals dit de débarrasser le salon de cette table chargée de dessins, et du cabaret de porcelaine.
-Cachons-nous bien vite dans le cabinet.
-
--*who_angelique
 Pourquoi faire ?
 
--*who_rose
-Pour écouter leur conversation.
-Colette et Lucas s'aiment bien tendrement : vous verrez la vérité de ce que je vous ai dit, que tes amants ne s'ennuient jamais.
-
--*who_angelique
 Nous allons voir.
 
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_colette
-Allons, Lucas, danse avec moi ce rigaudon que tu m'as appris, et qui est si drôle.
-
--*who_lucas
-Morguié, je n'avons pas envie de danser.
-La saison de not'bon temps est passée.
-
--*who_colette
-Et pourquoi, Lucas ?
-
--*who_lucas
-Je n'sommes pas en train.
-
--*who_colette
-Qu'as-tu donc aujourd'hui ?
-Je te trouve, tout soucieux.
-J'étais comm'ça moi avant d't'aimer ; mais depuis que je t'aime, et que je suis sûre que tu m'aimes aussi, vois-tu, Lucas, rien ne m'inquiète plus.
-Mon père vient de me gronder, car il aime beaucoup ça.
-J'ai pleuré, ce qui m'a fait mal, et m'a causé un grand chagrin.
-À présent que je te vois, tout mon chagrin s'en est allé, et je ne me souviens plus d'avoir pleuré.
-
--*who_lucas
-Je sommes ben comm'ça.
-Tous mes chagrins disparaissent à ta présence.
-Aussi, n'est-ce point sur not'sort que je sommes en peine.
-
--*who_colette
-Tu dis que tu es content d'un air si triste !
-
--*who_lucas
-Quand on est affligé, ça se fait voir dans tout.
-Tu ne fais pas où le bât me blesse ?
-
--*who_colette
-Explique-toi, mon ami : je m'exposerai à tout pour te secourir.
-L'autre jour le gros Thomas, que mon père voudrait que j'épousasse, parce qu'il est plus riche que toi ; ce vilain homme dit l'autre jour à Monsieur le Baron, qui est fort jaloux de sa chasse, que tu avais tué beaucoup de gibier dans la forêt ; et le Baron voulait te faire mettre en prison.
-Je te défendis, quoiqu'mon père fût là, et je prouvai que tu avais passé à la maison, presque toute la journée qu'on t'accusait d'avoir passée à la chasse.
-Monsieur le Baron s'appaisa ; mais mon père se mit fort en colère de ce que je t'excusais.
-Tu le sais bien, Lucas...
-Dis-moi : ce méchant homme t'aurait-il joué encore quelque mauvais tour ?
-T'aurait-il accusé de quelque chose ?
-Je suis prête à tout faire pour te tirer d'embarras.
-
--*who_lucas
-Tu as le coeur bon, Colette, tu l'as très bon ; mais tu ne peux rien pour mon secours.
-
--*who_colette
-Je ne peux rien !
-Peut-être...
-Je puis au moins te consoler.
-
--*who_lucas
-Ta consolation et rien, c'est la même chose.
-Tu sais que nous sommes très pauvres dans not'village,
-
--*who_colette
-Nous manque-t-il quelque chose ?
-
--*who_lucas
-Nous manquons presque de tout.
-Ce n'est pas not'faute assurément ; je travaillons sans cesse, tu es à portée de le voir, la paresse n'est pas not'défaut.
-Mais j'ons un père et une mère que la vieillesse met hors d'état de travailler ; leur besoin augmentant avec l'âge, tous mes soins devenions inutiles pour eux.
-
--*who_colette
-Que ne me parlais-tu plutôt ?
-Nous avons un maître si bon !
-Je lui aurais demandé de l'argent, il m'en aurait donné...
-Voyons si j'aurai....
-J'oubliais que je n'en ai point ; mais j'ai quelque chose qui vaut mieux que de l'argent : ces bracelets que Mademoiselle Angélique m'a donnés, et que j'ai mis aujourd'hui pour la première fois...
-Eh bien !
-Lucas !
-Je te les donne : va les vendre, tu en tireras beaucoup, car ils sont bien beaux.
-
--*who_lucas
-Morguié Colette, ta bonté me fait tant de plaisir qu'elle m'attendrit quasi jusqu'aux larmes.
-Va ; garde tes bracelets, ils ne sont pas d'un assez grand prix, pour chasser la misère de chez nous.
-
--*who_colette
-Qu'est-ce que tu dis, Lucas !
-Je ne te troquerais pas pour le Château de Monsieur le Baron.
-
--*who_lucas
-Ils te servont de parure : tu les aimes beaucoup.
-
--*who_colette
-Oh !
-Oui.
-J'étais la seule dans le village qui en eût comm'ça.
-
--*who_lucas
-Eh bien !
-Gardes-les encore un coup, je t'ons la même obligation que si je les avais acceptés.
-
--*who_colette
-Je veux que tu les prennes ; et si tu les refuses, je t'avertis que tu me feras beaucoup de peine.
-
--*who_lucas
-Mais je n'en ons pas besoin.
-
--*who_colette
-Méchant !
-Je croyais que tu m'aimais, mais je vois que je m'étais trompée.
-
--*who_lucas
-Ah !
-Tu te fâches, Colette !
-Morguié, ce reproche m'a fait presqu'autant de peine que la misère de mes parents.
-
--*who_colette
-Eh bionl Je t'annonce, moi, que je ne t'aimerat plus si tu t'obstines à refuser mes bracelets.
-
--*who_lucas
-Tu mets tes présents à des conditions fi dures, que je ne pouvons nous empêcher de les recevoir.
-
--*who_colette
-Vas: cours à la Ville vendre ces bracelets: moi, je vais trouver mon père.
-II n'est pas riche, il me donnera peu ; mais j'espère beaucoup en Monsieur d'Orcé.
-
--*who_lucas
-Adieu , Colette ; je sortons yvre de reconnaissance et d'amour.
-
--*who_colette
-Attends , attends, Lucas, nous avons oublié de débarrasser le Sallon ; Mademoiselle Rose me gronderait : Allons, prends cette table, 6c moi je porterai le cabaret de porcelaine.
-
--*who_lucas
-Avec plaisir.
-
-**** *book_ *id_I08 *act_I *date_(inc
-
--*who_rose
-Eh bien !Mademoiselle, que dites-vous de ce que vous venez d'entendre ?
-
--*who_angelique
 Jamais conversation ne m'a fait autant de plaisir.
 
--*who_rose
-Cette petite fille aimait ses bracelets plus que tout.
-
--*who_angelique
 Elle s'en parait avec orgueil, elle croyait s'embellir en les portant.
 
--*who_rose
-Et cependant, elle les a donnés sans peine.
-Tels sont les effets de l'amour.
-Il fait taire l'amour-propre, son ennemi déclaré, éclaire l'âme la plus simple, ennoblit la plus basse, fournit des forces à la plus faible, donne de l'esprit aux sots, et fait passer le temps.
-
--*who_angelique
 Je commence à croire, que, lorsque la vertu parle à un coeur amoureux, la vanité, perd tous ses droits.
 
--*who_rose
-La vanité, pourtant, a un furieux ascendant sur les jeunes filles.
+Ah ! Rose, que ces amants doivent être heureux !
 
--*who_angelique
-Ah !
-Rose, que ces amants doivent être heureux !
-
--*who_rose
-Sûrement, ils le sont.
-À qui doivent-ils leur bonheur ; si ce n'est à l'amour !
-Eh bien !
-Direz-vous encore que vous ne voulez point, le connaître ?
-
--*who_angelique
 L'amour quelquefois est trompeur, je veux le mettre à l'épreuve : fais-moi venir Colette et Lucas.
 
--*who_rose
-Je vais les appeler.
+Ciel ! Que deviendrai-je, si cet amour ne se dément point ! S'il est toujours aussi tendre, aussi fidèle, même dans le malheur ! Je serai convaincue que l'amour peut mener à la vertu, et je n'aurai plus d'excuse pour ne point aimer Valère.
 
-**** *book_ *id_I09 *act_I *date_(inc
+Eh bien ! Qu'as-tu ? Je viens d'entendre du bruit. La petite Colette aurait-elle cassé le cabaret de porcelaine ?
 
--*who_angelique
-Ciel !
-Que deviendrai-je, si cet amour ne se dément point !
-S'il est toujours aussi tendre, aussi fidèle, même dans le malheur !
-Je serai convaincue que l'amour peut mener à la vertu, et je n'aurai plus d'excuse pour ne point aimer Valère.
-
-**** *book_ *id_I10 *act_I *date_(inc
-
--*who_rose
-Ah !
-Mademoiselle, si vous saviez le malheur qui vient d'arriver ?
-
--*who_angelique
-Eh bien !
-Qu'as-tu ?
-Je viens d'entendre du bruit.
-La petite Colette aurait-elle cassé le cabaret de porcelaine ?
-
--*who_rose
-Hélas !
-Oui.
-Lucas se donne bien du mal pour rajuster le Chine avec le Japon.
-
--*who_angelique
 C'est un bien petit malheur.
 
--*who_rose
-Eh quoi !
-Vous êtes insensible à une perte si considérable !
-Des tasses qu'on avait fait venir à grands frais de si loin !
-
--*who_angelique
 Je suis charmée qu'elles n'existent plus, parce que peut-être on m'en achètera de terre ou de simple faïence, voilà les suites du luxe : il appauvrit en enrichissant, il n'ajoute rien aux plaisirs, et fait naître les regrets ; il n'augmente point les propriétés et multiplie les pertes.
 
--*who_rose
-En vérité, Mademoiselle, vous m'éclairez.
-J'avais cru jusqu'à présent, que le thé était meilleur dans la porcelaine que dans la faïence : mais voici Colette et Lucas qui s'approchent tout interdits.
+Laisse-moi leur parler. L'accident qui vient de leur arriver, pourra me servir à les éprouver encore mieux.
 
--*who_angelique
-Laisse-moi leur parler.
-L'accident qui vient de leur arriver, pourra me servir à les éprouver encore mieux.
+Colette, il m'est venu une fantaisie. Je voudrais faire faire des bracelets sur le modèle de ceux que je vous ai donnés ? Il faut que vous me les prêtiez : les avez-vous là ?
+Il me semble que vous les aviez tantôt... Qu'en avez-vous fait ?
 
-**** *book_ *id_I11 *act_I *date_(inc
+Eh bien ! Répondez donc à ma question... Vos bracelets, où sont-ils ?
 
--*who_angelique
-Colette, il m'est venu une fantaisie.
-Je voudrais faire faire des bracelets sur le modèle de ceux que je vous ai donnés ?
-Il faut que vous me les prêtiez : les avez-vous là ?
-Il me semble que vous les aviez tantôt...
-Qu'en avez-vous fait ?
+Oh ! Cela n'est pas possible : Colette fait trop de cas de mes présents, pour ne pas les conserver. Colette, que répondez-vous à cette accusation ?
+Eh ! Quel est cet amoureux ?
 
--*who_colette
-Mademoiselle...
+Comment Colette ! C'est à Lucas que vous avez donné vos bracelets ! Oh ! Je ne puis le croire. J'ai entendu parler de ce Paysan ; sa probité est suspecte, et je crains bien qu'il ne vous les ait excroqués.
 
--*who_angelique
-Eh bien !
-Répondez donc à ma question...
-Vos bracelets, où sont-ils ?
+Comment, petite fille ! À votre âge faire des présents aux hommes ! Cela est beau vraiment ! Quelle idée voulez-vous que j'aie de vos moeurs ?
 
--*who_rose
-Que voulez-vous qu'elle en ait fait ?
-Elle ses aura donnés à son amoureux.
-
--*who_angelique
-Oh !
-Cela n'est pas possible : Colette fait trop de cas de mes présents, pour ne pas les conserver.
-Colette, que répondez-vous à cette accusation ?
-Eh !
-Quel est cet amoureux ?
-
--*who_rose
-C'est Lucas, un gros manant du village prochain.
-
--*who_angelique
-Comment Colette !
-C'est à Lucas que vous avez donné vos bracelets !
-Oh !
-Je ne puis le croire.
-J'ai entendu parler de ce Paysan ; sa probité est suspecte, et je crains bien qu'il ne vous les ait excroqués.
-
--*who_colette
-Non, Mademoiselle, non : Lucas ne m'a point volé mes bracelets ; je les lui ai donnés, je les lui ai donnés moi-même.
-
--*who_angelique
-Comment, petite fille !
-À votre âge faire des présents aux hommes !
-Cela est beau vraiment !
-Quelle idée voulez-vous que j'aie de vos moeurs ?
-
--*who_rose
-Une idée très mauvaise.
-
--*who_angelique
 Est-ce ainsi que l'on doit se conduire à votre âge ?
 
--*who_colette
-L'idée que vous avez de moi me fait bien de la peine ; mais cependant j'aime encore mieux cela, que si vous pensiez mal de Lucas.
+Eh quoi ! C'est ainsi que vous vous excusez ! Quand vous devriez mourir de honte : cet air intrépide me confirme dans mes soupçons. Vous n'êtes point faites pour demeurer ici. Songez à prendre vos arrangement, car ce soir, sans plus tarder, vous serez chassée de la maison.
 
--*who_angelique
-Eh quoi !
-C'est ainsi que vous vous excusez !
-Quand vous devriez mourir de honte : cet air intrépide me confirme dans mes soupçons.
-Vous n'êtes point faites pour demeurer ici.
-Songez à prendre vos arrangement, car ce soir, sans plus tarder, vous serez chassée de la maison.
-
--*who_colette
-Eh bien !
-Soit.
-Pourvu que je sauve l'honneur de Lucas.
-
--*who_angelique
 Rose, de quoi rit ce benêt ?
 
--*who_rose
-Ce benêt est Lucas.
-Il rit peut-être de plaisir, voyant chasser Colette.
+Sûrement, c'en est un. Croyez-vous, Lucas, que j'ignore votre amour pour Colette ? Ce que vous dites n'est qu'un détour pour l'excuser ; mais elle ne sera pas moins chassée.
 
--*who_lucas
-Non, morguè !
-Il nous fait bien de la peine ; je ne rions pas de ça je rions de vous voir gronder pour rien cette pauvre innocente.
-Elle a oublié de vous dire qu'elle m'avait donné les bracelets, tant seulement pour une demie heure, à cette fin que je les portions à cette femme de Monsieur le Bailli, qui veut en faire faire sur le même moule.
+J'ai peine à croire ce que vous me dites, Lucas ; mais quand même je le croirais , vous n'auriez point pour cela sauvé Colette ; car s'il est vrai que vous lui ayez dérobé les bracelets , il est vrai aussi qu'elle a menti, en disant qu'elle vous les a donnés, et je hais autant les menteuses que les personnes qui ont des moeurs dépravées. Ainsi, quoiqu'il en soit, Colette sera chassée ; c'est un arrêt porté.
 
--*who_rose
-Ah !
-Quel mensonge !
-
--*who_angelique
-Sûrement, c'en est un.
-Croyez-vous, Lucas, que j'ignore votre amour pour Colette ?
-Ce que vous dites n'est qu'un détour pour l'excuser ; mais elle ne sera pas moins chassée.
-
--*who_lucas
-Eh bien !
-Mademoiselle, pour cette fois-ci, vous pouvez m'en croire.
-Il est vrai que j'ons pris les bracelets de Colette ; mais ça été à son insu , ça été pour lui jouer un tour, pour les lui faire chercher.
-
--*who_rose
-Eh !
-Celui-là est bon !
-Comment peux-tu avoir pris les bracelets de Colette à son insu ?
-Elle les avait mis ce matin, et ne les avait point quittés de la journée ; et puis comment veux-tu que l'on te croie ?
-Tu as menti une fois, tu peux bien mentir une seconde.
-
--*who_lucas
-Et morgué, Mademoiselle, on ne vous demande pas toutes ces réflexions.
-Voulez-vous enfin savoir la vérité toute pure ?
-Tenez, Colette vous a trompée, en vous disant qu'elle m'avait donné les bracelets ; je les lui ai volés, oui : je les lui ai volés...
-
--*who_rose
-De son consentement.
-
--*who_lucas
-Non, morguié, je les lui ont pris de force.
-
--*who_rose
-Eh bien !
-Tu seras pendu.
-
--*who_lucas
-Je sommes prêts à tout souffrir, pourvu que j'épargnions un chagrin à Colette.
-
--*who_angelique
-J'ai peine à croire ce que vous me dites, Lucas ; mais quand même je le croirais , vous n'auriez point pour cela sauvé Colette ; car s'il est vrai que vous lui ayez dérobé les bracelets , il est vrai aussi qu'elle a menti, en disant qu'elle vous les a donnés, et je hais autant les menteuses que les personnes qui ont des moeurs dépravées.
-Ainsi, quoiqu'il en soit, Colette sera chassée ; c'est un arrêt porté.
-
--*who_lucas
-Eh !
-Pauvre Lucas !
-Comment faire !
-Je sommes pris par tous les bouts.
-
--*who_angelique
 Rose, allez me chercher mon thé : voici l'heure où j'en ai besoin.
 
--*who_rose
-J'y vais, Mademoiselle, mais dans quoi le prendrez-vous ?
-
--*who_angelique
 Dans les tasses de porcelaines, comme à l'ordinaire.
 
--*who_rose
-Demandez à Colette ce qu'elle en a fait.
-
--*who_lucas
-Mademoiselle, je venons de vous lâcher trois mensonges ben pommés, pour l'amour de Colette ; j'en convenons.
-Mais cette fois je faisons serment que c'est la vérité qui va sortir de ma bouche.
-Colette portait le cabaret de porcelaine, j'ons voulu profiter de ce moment pour l'y attraper un baiser : elle s'est si bien défendue, qu'elle a mieux aimé casser toutes les tasses, que de se laisser embrasser ; ce qui prouve bien qu'elle a de la vertu.
-
--*who_rose
-Sa vertu, je crois, est aussi fragile que les porcelaines, qu'elle a brisées.
-
--*who_lucas
-Et comme je sommes la cause de ce malheur, je devons le réparer tout seul.
-Je ne sommes pas riches ; mes parents sont pauvres, je n'ons que nos bras pour les nourrir ; mais j'allons m'engager dans le premier Régiment ; je vendrons not'liberté, et de l'argent qu'elle me vaudra, je payerons la dégâts de Colette ; et, par ce moyen, je l'y ferai obtenir son pardon.
-
--*who_angelique
 Rose, je n'y tiens plus.
 
--*who_rose
-Ne vous rendez pas encore.
-Du courage.
-Et croîs-tu, maraud, que ta personne soit, d'une assez grande valeur, pour satisfaire Mademoiselle.
-Tout ton individu, tout gros qu'il est, ne payerait pas seulement la plus petite soucoupe.
+Lucas, je n'en veux point à Colette d'avoir brisé les tasses. C'est sans mauvaise intention qu'elle l'afait, et l'on ne doit punir que les fautes volontaires. Éclaircis-moi seulement sur les bracelets ; car je crois, qu'a cet égard tu m'as caché la vérité.
 
--*who_angelique
-Lucas, je n'en veux point à Colette d'avoir brisé les tasses.
-C'est sans mauvaise intention qu'elle l'afait, et l'on ne doit punir que les fautes volontaires.
-Éclaircis-moi seulement sur les bracelets ; car je crois, qu'a cet égard tu m'as caché la vérité.
+Je sais tout, mes amis, c'est trop longtemps vus éprouver. Lucas, rends à Colette les bracelets dont je lui ai fait présent, accepte ceux-ci que je te donne.
+Et va les vendre pour soulager tes parents. Va, ces bracelets sont à moi, je puis en disposer. Je vous défends de me savoir gré de et que je fais pour vous. C'est un tribut bien faible que je paye à vos vertus. Tous ses trésors du monde ne pourraient les récompenser.
 
--*who_lucas
-Eh bien, Mademoiselle !
-Il est vrai que Colette me les a donnés, et vous n'auriez sûrement pas envie de la chasser, si vous saviez par quel motif.
-
--*who_angelique
-Je sais tout, mes amis, c'est trop longtemps vus éprouver.
-Lucas, rends à Colette les bracelets dont je lui ai fait présent, accepte ceux-ci que je te donne.
-Et va les vendre pour soulager tes parents.
-Va, ces bracelets sont à moi, je puis en disposer.
-Je vous défends de me savoir gré de et que je fais pour vous.
-C'est un tribut bien faible que je paye à vos vertus.
-Tous ses trésors du monde ne pourraient les récompenser.
-
--*who_lucas
-Mademoiselle, j'ons accepté les bracelets de Colette, mais je n'pouvons rian accepter de vous.
-
--*who_rose
-Oh !
-Oh !
-Voici qui est nouveau !
-
--*who_angelique
 Et d'où te vient cette fausse délicatesse ?
 
--*who_lucas
-Colette m'aime : Colette n'est pas plus riche que moi ; je pouvons accepter ses dons sans rougir.
-Il n'en est pas de même des vôtres.
-Les bienfaits des personnes riches humilient le pauvre, parce que la reconnaissance de celui-ci paroissont toujours aux autres au-dessous de leur libéralités.
+Je te croyais plus d'esprit, mon pauvre Lucas. Tel scrupules sont des préjugés : apprends que le riche n'a des biens que pour les distribuer aux pauvres : c'est la loi de la raison, c'est celle de la nature, et tu les violes l'une et l'autre, si tu persistes dans ton opinion.
 
--*who_rose
-Lucas a raison, Mademoiselle, et puisque sa conscience lui défend de recevoir vos bracelets, je vous conseille de me les donner à moi : ma conscience, qui est plus raisonnable me permet de les accepter.
+Autre faux raisonnement. Si tu acceptes mes dons, il arrivera le contraire. Je t'ai laissé ta liberté et tu forces mon admiration : mais j'ai des moyens sûrs de terminer cette dispute. Tu aimes Colette ?
 
--*who_angelique
-Je te croyais plus d'esprit, mon pauvre Lucas.
-Tel scrupules sont des préjugés : apprends que le riche n'a des biens que pour les distribuer aux pauvres : c'est la loi de la raison, c'est celle de la nature, et tu les violes l'une et l'autre, si tu persistes dans ton opinion.
-
--*who_lucas
-Je ne prétendons pas vous contredire, Mademoiselle, je savons que vous avez sur ce point plus de lumières que nous, mais j'ons souvent remarqué que lorsqu'un homme en enrichissait un autre, il cherchait à en devenir le maître ; et dame, voyez-vous, je ne voulons être l'esclave de personne.
-
--*who_angelique
-Autre faux raisonnement.
-Si tu acceptes mes dons, il arrivera le contraire.
-Je t'ai laissé ta liberté et tu forces mon admiration : mais j'ai des moyens sûrs de terminer cette dispute.
-Tu aimes Colette ?
-
--*who_lucas
-Oh !
-Morguié, oui, je l'aimons de toute not'force.
-
--*who_angelique
 Et tu espères l'épouser ?
 
--*who_lucas
-Je le désire bian toujours ; elle a un père qui ne veut pas de moi, parce que je n'sommes pas riche.
+Eh bien ! Ton bonheur dépend de moi. Si ton père est pauvre, le mien est très riche et fort généreux : il peut te donner à ma prière ce que la fortune t'a refusé, et t'unir avec Colette. D'ailleurs, j'ai quelque crédit sur le père de celle-ci : si tu acceptes mes bracelets, je l'emploierai pour toi, et sûrement je le fléchirai. Mais si tu me refuses, tu me fâcheras beaucoup, et tu n'auras point Colette.
 
--*who_angelique
-Eh bien !
-Ton bonheur dépend de moi.
-Si ton père est pauvre, le mien est très riche et fort généreux : il peut te donner à ma prière ce que la fortune t'a refusé, et t'unir avec Colette.
-D'ailleurs, j'ai quelque crédit sur le père de celle-ci : si tu acceptes mes bracelets, je l'emploierai pour toi, et sûrement je le fléchirai.
-Mais si tu me refuses, tu me fâcheras beaucoup, et tu n'auras point Colette.
+Je les crois d'un plus grand prix. Quand on soulage la vertu indigente, on doit toujours craindre de n'avoir pas donné assez.
 
--*who_lucas
-Colette, que me conseilles-tu ?
+Bien loin de me reprocher cette action, mon père me l'enviera : et d'ailleurs pouvais-je trop payera ces bonnes gens le service qu'ils m'ont rendu ? Ils m'ont dessillé les yeux , ils m'ont donné une âme nouvelle. Le spectacle intéressant de leur amour m'a éclairée sur les biens qui résultent de cette passion, quand elle n'est point désordonnée. Je suis si émue, si attendrie de tout ce que je viens de voir, que si Valère m'aime, en ce moment peut-être; je lui pardonnerais de me le dire.
 
--*who_colette
-Je te conseille, moi..., de ne point fâcher Mademoiselle Angélique.
+Valere ! Ah ! Ciel !
 
--*who_lucas
-Eh ben !
-Je consentons à recevoir les bracelets.
-Que j'ai de grâces à vous rendre !
-Vous me forcez d'accepter un bienfait, pour m'en faire espérer un plus grand.
-
-**** *book_ *id_I12 *act_I *date_(inc
-
--*who_rose
-Songez-bous, Mademoiselle, de donner a Lucas des bracelets de diamants ?
-Vous pouviez lui faire présent d'autre chose.
-Savez-vous qu'ils valent deux mille écus au moins ?
-
--*who_angelique
-Je les crois d'un plus grand prix.
-Quand on soulage la vertu indigente, on doit toujours craindre de n'avoir pas donné assez.
-
--*who_rose
-Cette morale est fort belle ; mais je doute fort qu'elle soit du goût de Monsieur votre père.
-
--*who_angelique
-Bien loin de me reprocher cette action, mon père me l'enviera : et d'ailleurs pouvais-je trop payera ces bonnes gens le service qu'ils m'ont rendu ?
-Ils m'ont dessillé les yeux , ils m'ont donné une âme nouvelle.
-Le spectacle intéressant de leur amour m'a éclairée sur les biens qui résultent de cette passion, quand elle n'est point désordonnée.
-Je suis si émue, si attendrie de tout ce que je viens de voir, que si Valère m'aime, en ce moment peut-être; je lui pardonnerais de me le dire.
-
--*who_rose
-Ah !
-Ma chère maîtresse que je sois enchantée de votre conversion !
-C'est à moi pourtant que vous la devez.
-Remerciez-moi bien.
-Mais j'aperçois Monsieur Valere qui entre.
-
--*who_angelique
-Valere !
-Ah !
-Ciel !
-
--*who_rose
-Il n'ose point vous aborder.
-Que faut-il lui dire ?
-
--*who_angelique
 Ce que tu voudras.
 
--*who_rose
-Il s'en va : faut-il l'arrêter ?
-
--*who_angelique
 Je t'ai dit de faire ce que tu voudrais.
 
--*who_rose
-Approchez, Monsieur, approchez, notre migraine est passée, et nous pouvons vous donner audience.
-
-**** *book_ *id_I13 *act_I *date_(inc
-
--*who_valere
-Pardon, Mademoiselle, si je remplis trop exactement les ordres de Monsieur votre père.
-Il m'a prié de ne pas vous laisser longtemps seule : sans cela je ne prendrais pas la liberté de tous venir voir si souvent.
-
--*who_angelique
 Quand on est sûr de ne pas déplaire, on n'a pas besoin d'alléguer l'autorité d'autrui pour excuser des démarches innocentes.
 
--*who_valere
-Vous me supposez une certitude que je n'ai jamais eue ; et l'accueil froid que vous m'avez fait jusqu'à préssent m'en a donné une bien contraire.
-
--*who_angelique
 Il faut moins imputer ma froideur à quelque chose qui m'ait choqué en vous, qu'à des chagrins particuliers.
 
--*who_valere
-Ce que vous me dites n'est qu'un propos d'honnêteté ; un compliment ordinaire.
+Non, Valère : ce que je vous dis part du coeur. Vous ne m'avez jamais importunée par vos visites. Si le contraire était, je vous le dirais : car je suis sincère. Vous ne m'avez point déplu, parce que vous n'êtes jamais sorti avec moi des bornes de la décence ; et tant que vous conserverez ce ton d'honnêteté, soyez sûr que vous n'encourrez ni mon indignation, ni ma haine.
 
--*who_angelique
-Non, Valère : ce que je vous dis part du coeur.
-Vous ne m'avez jamais importunée par vos visites.
-Si le contraire était, je vous le dirais : car je suis sincère.
-Vous ne m'avez point déplu, parce que vous n'êtes jamais sorti avec moi des bornes de la décence ; et tant que vous conserverez ce ton d'honnêteté, soyez sûr que vous n'encourrez ni mon indignation, ni ma haine.
-
--*who_valere
-Je doute que vous teniez votre promesse.
-Ne serais-je pas certain de vous irriter, par exemple, si je vous parlais...
-
--*who_angelique
 De quoi ?
 
--*who_valere
-D'une chose fort commune et dont on parle souvent : de l'amour.
+Depuis une heure je n'entends parler que de cela, et je ne me suis fâchée contre personne. Demandez à Rose.
 
--*who_angelique
-Depuis une heure je n'entends parler que de cela, et je ne me suis fâchée contre personne.
-Demandez à Rose.
-
--*who_rose
-Cela est vrai.
-Oh !
-Rien ne nous adoucit comme de tendres déclarations.
-Faites-nous en quelqu'une, et vous verrez.
-
--*who_angelique
 L'amour est un sentiment qui me plaît : j'aime à m'en entretenir.
 
--*who_valere
+Oh ! C'est une autre affaire. Si tous les amants étaient comme un que je connais... Peut-être...
+
+Dabord il est amoureux autant qu'on puisse l'être.
+
+Il est constant, fidèle, même au sein du malheur. Il ne laisse échapper aucune occasion de plaire à ce qu'il aime ; il a été sur le point de lui sacrifier l'honneur et même la vie.
+
+Quoi ? Vous avez pris cela pouR vous ?
+
+De Lucas qui a été fur le point de s'engager, et s'est accusé d'un vol qu'il n'a point fait, plutôt que d'exposer Colette qu'il aime, à être renvoyée de la maison. Mais vous êtes donc comme Lucas : vous avez donc une Colette. Cette Colette est bien vertueuse au moins, bien digne d'être aimée.
+
+Puis-je à mon tour vous demander quelle est cette personne ?
+
+Levez-vous, Monsieur : voici mon père.
+
+Mon silence, Monsieur, vous dit assez ce que j'ai dû vous taire.
+
+Oui, mon père, puisque cela vous plaît.
+
+Je n'en sais rien, je crois les avoir perdus.
+
+Lucas a des parents très pauvres, il ne peut pas subvenir à leurs besoins quoiqu'il travaille sans cesse : je l'ai entendu lorsqu'il le disait à Colette ; sa situation m'a fait pitié. J'avais alors fur moi les bracelets de ma mère, et je les lui ai donnés. Je ne rougis point de cette action, elle est toute simple : je rougis seulement par la crainte que j'ai qu'on ne m'en fasse un mérite.
+
+Mais, Lucas, tu oublies que tu n'es pas riche, et que si tu l'étais tu épouserais Colette la fille de notre Fermier.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
+Tu vois comme elle me fuit ! Tu ne lui as point parlé de moi !
+
+Écoute un moment.
+
+Rose, tiens. Voilà une bague, qui je crois, t'ira bien.
+
+Tu vas trouver Angélique.
+
+Eh bien ! Dis-lui qu'il existe un homme qui l'adore : dis-lui qu'il n'aspire qu'après le moment de lui déclarer sa passion : peins-lui les tourments, les transports de cet homme, d'une manière un peu attendrissante : dis-lui qu'il souffre beaucoup, qu'il se meurt, et qu'il sera bientôt mort s'il ne trouve les moyens dé lui plaire ; et si par hasard elle te demande, quel est cet homme, apprends lui que c'est Valère.
+
+Tu le lui diras toujours.
+
+Écoute. Voilà Monsieur le Baron, reste avec moi pour m'aider à le fléchir.
+
+Oui : mais sans pouvoir lui parler : car aussitôt qu'elle m'a aperçu, elle s'est mise a fuir, comme si j'eusse été un monstre.
+
+Accoutumée à la solitude et au recueillement, peut-être cherche-t-elle à reprendre ses habitudes.
+
+La mélancolie est assez commune à son âge.
+
+Eh ! Monsieur, ne le voyez-vous pas ? J'aime Angélique, je l'adore, je ne vois qu'elle partout, je ne pense qu'à elle ; je ne respire que par elle et que pour elle ; mon existence dépend d'un de ses regards. Permettez-moi de tomber à ses pieds, de lui dévoiler mes sentiments, de lui jurer un amour inviolable, éternel ; et si elle le partage, ne vous opposez point à mon bonheur.
+
+Ah ! Monsieur, vous me comblez de joie. Je voulais votre consentement, voilà tout, je me charge du reste.
+
+D'où peut venir cette lassitude, Mademoiselle ?
+
+Combien tu m'affliges par ces récits ! Je voudrais bien pouvoir apporter quelque remède à l'inquiétude de Mademoiselle Angélique.
+
+Toutes ces choses-la te semblent tristes, sans doute, par la manière dont Mademoiselle les fait ; mais elles sont la source de mille plaisirs.
+
+Eh bien ! Moi, je vais te rendre à la vie : je veux être ton Orphée.
+
+Pardon, belle Angélique : je ne connaissais point votre mal. Il est vrai que le bruit peut le redoubler. Ce livre que je vous ai apporté l'autre jour, comment l'avez-vous trouvé.
+
+Vous êtes la seule sur qui il ait produit cet effet.
+Rose avait raison ; voilà une tête fort sévère. Pourquoi vous exercer sur de pareils modèles ? Ce font les Amours, ce sont les Grâces qu'il vous faut peindre. Voilà du moins les études que je vous donnerais à copier avant de tracer votre image.
+
+Connaissez-vous cette nouvelle ariette de l'Opéra Comique, qu'on chante partout ? C'est un Allegretto. Je crois l'avoir dans ma poche ; elle irait bien à votre voix, il vous vouliez la chanter.
+
+Eh bien ! Mademoiselle, je vous laisse.
+Cette fille est inconcevable.
+
+Pardon, Mademoiselle, si je remplis trop exactement les ordres de Monsieur votre père. Il m'a prié de ne pas vous laisser longtemps seule : sans cela je ne prendrais pas la liberté de tous venir voir si souvent.
+
+Vous me supposez une certitude que je n'ai jamais eue ; et l'accueil froid que vous m'avez fait jusqu'à préssent m'en a donné une bien contraire.
+
+Ce que vous me dites n'est qu'un propos d'honnêteté ; un compliment ordinaire.
+
+Je doute que vous teniez votre promesse. Ne serais-je pas certain de vous irriter, par exemple, si je vous parlais...
+
+D'une chose fort commune et dont on parle souvent : de l'amour.
+
 Et non à le partager.
 
--*who_angelique
-Oh !
-C'est une autre affaire.
-Si tous les amants étaient comme un que je connais...
-Peut-être...
-
--*who_valere
 Voudrait-elle parler de moi ?
 Pourrait-on vous demander le portrait de cet amant ?
 
--*who_angelique
-Dabord il est amoureux autant qu'on puisse l'être.
-
--*who_valere
 Cela me convient fort.
 
--*who_angelique
-Il est constant, fidèle, même au sein du malheur.
-Il ne laisse échapper aucune occasion de plaire à ce qu'il aime ; il a été sur le point de lui sacrifier l'honneur et même la vie.
+Eh bien ! Belle Angélique, je me sens prêt à faire tout cela pour celle que j'adore.
 
--*who_valere
-Eh bien !
-Belle Angélique, je me sens prêt à faire tout cela pour celle que j'adore.
-
--*who_angelique
-Quoi ?
-Vous avez pris cela pouR vous ?
-
--*who_valere
 De qui parlez-vous donc ?
 
--*who_angelique
-De Lucas qui a été fur le point de s'engager, et s'est accusé d'un vol qu'il n'a point fait, plutôt que d'exposer Colette qu'il aime, à être renvoyée de la maison.
-Mais vous êtes donc comme Lucas : vous avez donc une Colette.
-Cette Colette est bien vertueuse au moins, bien digne d'être aimée.
+Celle que j'aime l'est cent fois davantage. Elle a tous les attraits et toutes les vertus ; elle s'attire tous les hommages et mérite tous les sacrifices.
 
--*who_valere
-Celle que j'aime l'est cent fois davantage.
-Elle a tous les attraits et toutes les vertus ; elle s'attire tous les hommages et mérite tous les sacrifices.
-
--*who_angelique
-Puis-je à mon tour vous demander quelle est cette personne ?
-
--*who_valere
 Ce n'est point Colette.
 
--*who_rose
+Êtes-vous si fort brouillée avec votre image, que vous ne vouliez point la reconnaître ? Qui peut ressembler au portrait que je viens de faire, si ce n'est vous, belle Angélique ? Et connaissant si bien vos perfections, que puis-je adorer que vous-même ?
+
+Le trouble que j'ai fait paraître ne doit point vous étonner. Il durera tant que je n'aurai pas le consentement d'Angélique.
+
+Ah ! Monsieur, vous l'entendez !
+
+Ah ! Monsieur, vous comblez tous mes désirs.
+
+Mais, Monsieur, songez donc que mon amour ne s'accommode point de ce retardement. Je vais commander pour Angélique des bracelets aussi beaux que ceux qu'elle a perdus, et tout le mal sera réparé.
+
+Ah ! Monsieur, vous n'avez plus de raison pour retarder mon bonheur.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rose
+
+Si fait.
+
+Je n'ai pas le temps.
+
+Qu'avez-vous à me dire ? Parlez.
+
+Oui.
+
+Et si elle ne me demande rien.
+
+Des transports, des tourments... tous ces grands mots l'effrayeraient. Sans lui parler de cela, je la préviendrai en votre faveur ; laissez-moi faire.
+
+Volontiers.
+
+Vous avez donc envie de la rendre malade.
+
+Non, elle se porte bien.
+
+Tout cela n'y fera rien, non plus que les médecins ; c'est un époux qu'il lui faut. Écoutez-moi, Monsieur, l'âge de votre fille est celui ou le coeur commence à avoir ses besoins : l'inquiétude et le malaise qu'elle éprouve, ne viennent que de cette cause. Je puis en parler savamment, car j'ai eu longtemps la même maladie.
+
+Croyez-vous donc qu'il n'y ait que les maris qui guérissent ce mal ? Il est des charlatans en amour comme en médecine, qui sont quelquefois des cures merveilleuses. Mais Mademoiselle Angélique ne doit point être livrée aux charlatans : il lui faut un Docteur qui ait pris solennellement tous ses grades : et je crois avoir trouvé son homme. Angélique est votre unique fille, vous l'aimez beaucoup.
+
+Vous ne voulez point gêner ses inclinations.
+
+Si par hasard elle se choisissait un époux parmi les jeunes gens qu'elle voit, vous ne le désapprouveriez pas ?
+
+Oh ! Je lui connais trop de discernement pour qu'elle se trompe là-dessus.
+
+De trop de repos. Si vous saviez la vie que nous menons, vous ne feriez pas cette demande. Mademoiselle se couche de bonne heure, se lève quand le soleil a fait presque la moitié de son tour ; prend un livre, se jette dans une bergère, parcourt le volume en baillant, se lève encore, s'approche d'une glace, calomnie toute sa personne, se trouve les yeux battus et le teint pâle, tandis qu'il n'en est rien. Pour lui complaire, je lui dit : il est vrai, Mademoiselle, que vous êtes presque laide ce matin, un peu de toilette vous rendrait vos grâces. Un peu de toilette... Ces mots irritent Mademoiselle, elle n'en veut point faire, elle la déteste, elle n'a pas même la coquetterie de l'innocence ; et moi, j'enrage de voir qu'elle peut s'en passer, parce qu'il faut que je reste comme elle, les bras croisés.
+
+Ce n'est pas tout, Monsieur, apprenez le reste, je vous prie. Monsieur le Baron est la bonté même : son fermier a une petite fille, nommée Colette : diriez-vous qu'il l'a mise au service de Mademoiselle, uniquement pour avoir le plaisir de lui payer des gages ? C'est une espèce d'aide que l'un m'a donnée ; mais à quoi me servira-t-elle ? On ne peut aider que les gens qui travaillent, et moi je ne fais rien, et je n'ai rien à faire.
+
+J'en fuis fâchée, Mademoiselle, mais il faut que je dise votre conduite à Monsieur. Je la dirais à tout le monde pour vous en faire changer. À l'heure du dîner, Mademoiselle descend, se met à table, mange nonchalamment quelques morceaux, mais ne dîne point. Voici où se passe l'après-dinée. Là, on fait mugir un instrument d'un ton bien triste, bien lugubre, bien lamentable... Ici, on dessine la tête d'un vieillard rébarbatif... Quelquefois aussi, j'y vois tracer des lignes, des cercles, qui ressemblent au grimoire ; et je crois qu'on veut évoquer les morts, afin de rendre ce séjour tout-à-fait inhabitable.
+
+Ce n'est pas tout. Le soir on va rêver seule dans une allée bien solitaire : on entend le murmure d'un ruisseau, le chant d'un hibou : on les écoute attentivement, et on revient dire qu'on a entendu un concert merveilleux. On rentre dans le salon ; et s'il y a du monde, on fait comme le hibou, on s'enfuit sans rien dire dans sa retraite, d'où l'on ne sort plus jusqu'au lendemain. Dites-moi, Monsieur, s'il est possible de vivre de cette manière ? Pour moi, je n'y tiens plus, je sèche sur pied, je me meurs.
+
+Cette fille-là pleure de ce qui fait rire les autres.
+
+Un Allegretto ! Oh ! Cela ne nous convient pas. Il nous faut des Adagio.
+
+Eh ! Pourquoi, Mademoiselle, congédier ce jeune homme de la sorte ? Il vous aime, et vous l'avez affligé.
+
+Vous avez des chagrins ! Et quels sont-ils, s'il vous plaît ?
+
+Je le crois, Mademoiselle, je le crois. Voulez-vous que je vous en dise la raison ?
+
+Oh ! Sûrement, je la sais. Vous aimez... Et voilà d'où viennent vos chagrins.
+
+Vous n'aimez point ?
+
+Je voudrais que ce fût Valère, par exemple.
+
+Songez-vous à lui quelquefois ?
+
+Mais vous y songez,
+
+Ah ! J'entends : vous lui donnez le superflu de vos méditations.
+
+Je veux dire, que, lorsque vous avez réfléchi longtemps sur de graves objets, tels que la musique et le dessin ; si vous avez du temps de reste, vous l'employez à penser à lui.
+
+Et la nuit, songez-vous encore à lui ?
+
+Et il a part à vos rêves comme à vos méditations ?
+
+Oh ! Sans doute : vous savez commander à vos pensées la nuit comme le jour. Mais dites-moi encore une chose : quand Valère parait, sentez-vous dans votre coeur un certain trouble involontaire ?
+
+Et cependant, vous venez de le congédier.
+
+Vous lui avez parlé d'un ton si froid, que je crains bien que cela ne lui ait fait de la peine.
+
+Vous êtes fâchée d'avoir fâché Valère : vous rêvez à lui, vous y pensez, vous souffrez quand il vous quitte, et vous ne l'aimez point ?
+
+Eh bien ! Laissons-là les hommes, et parlons du Dieu qui les gouverne... de l'Amour.
+
+Et moi je voudrais qu'il fut toujours avec vous ; vous vous ennuyez beaucoup : les jours vous paraissent des mois, les mois des années.
+
+Si vous connaissiez l'amour ; les jours, les mois, les années, tout cela volerait si vite !... Si vite !
+
+Je l'ignore, Mademoiselle, et vous me fâcherez, si vous me parlez encore de cet homme-là. Mais j'aperçois la fille du fermier avec son amoureux : je leur avals dit de débarrasser le salon de cette table chargée de dessins, et du cabaret de porcelaine. Cachons-nous bien vite dans le cabinet.
+
+Pour écouter leur conversation. Colette et Lucas s'aiment bien tendrement : vous verrez la vérité de ce que je vous ai dit, que tes amants ne s'ennuient jamais.
+
+Eh bien !Mademoiselle, que dites-vous de ce que vous venez d'entendre ?
+
+Cette petite fille aimait ses bracelets plus que tout.
+
+Et cependant, elle les a donnés sans peine. Tels sont les effets de l'amour. Il fait taire l'amour-propre, son ennemi déclaré, éclaire l'âme la plus simple, ennoblit la plus basse, fournit des forces à la plus faible, donne de l'esprit aux sots, et fait passer le temps.
+
+La vanité, pourtant, a un furieux ascendant sur les jeunes filles.
+
+Sûrement, ils le sont. À qui doivent-ils leur bonheur ; si ce n'est à l'amour ! Eh bien ! Direz-vous encore que vous ne voulez point, le connaître ?
+
+Je vais les appeler.
+
+Ah ! Mademoiselle, si vous saviez le malheur qui vient d'arriver ?
+
+Hélas ! Oui. Lucas se donne bien du mal pour rajuster le Chine avec le Japon.
+
+Eh quoi ! Vous êtes insensible à une perte si considérable ! Des tasses qu'on avait fait venir à grands frais de si loin !
+
+En vérité, Mademoiselle, vous m'éclairez. J'avais cru jusqu'à présent, que le thé était meilleur dans la porcelaine que dans la faïence : mais voici Colette et Lucas qui s'approchent tout interdits.
+
+Que voulez-vous qu'elle en ait fait ? Elle ses aura donnés à son amoureux.
+
+C'est Lucas, un gros manant du village prochain.
+
+Une idée très mauvaise.
+
+Ce benêt est Lucas. Il rit peut-être de plaisir, voyant chasser Colette.
+
+Ah ! Quel mensonge !
+
+Eh ! Celui-là est bon ! Comment peux-tu avoir pris les bracelets de Colette à son insu ? Elle les avait mis ce matin, et ne les avait point quittés de la journée ; et puis comment veux-tu que l'on te croie ? Tu as menti une fois, tu peux bien mentir une seconde.
+
+De son consentement.
+
+Eh bien ! Tu seras pendu.
+
+J'y vais, Mademoiselle, mais dans quoi le prendrez-vous ?
+
+Demandez à Colette ce qu'elle en a fait.
+
+Sa vertu, je crois, est aussi fragile que les porcelaines, qu'elle a brisées.
+
+Ne vous rendez pas encore. Du courage.
+Et croîs-tu, maraud, que ta personne soit, d'une assez grande valeur, pour satisfaire Mademoiselle. Tout ton individu, tout gros qu'il est, ne payerait pas seulement la plus petite soucoupe.
+
+Oh ! Oh ! Voici qui est nouveau !
+
+Lucas a raison, Mademoiselle, et puisque sa conscience lui défend de recevoir vos bracelets, je vous conseille de me les donner à moi : ma conscience, qui est plus raisonnable me permet de les accepter.
+
+Songez-bous, Mademoiselle, de donner a Lucas des bracelets de diamants ? Vous pouviez lui faire présent d'autre chose. Savez-vous qu'ils valent deux mille écus au moins ?
+
+Cette morale est fort belle ; mais je doute fort qu'elle soit du goût de Monsieur votre père.
+
+Ah ! Ma chère maîtresse que je sois enchantée de votre conversion ! C'est à moi pourtant que vous la devez. Remerciez-moi bien. Mais j'aperçois Monsieur Valere qui entre.
+
+Il n'ose point vous aborder. Que faut-il lui dire ?
+
+Il s'en va : faut-il l'arrêter ?
+
+Approchez, Monsieur, approchez, notre migraine est passée, et nous pouvons vous donner audience.
+
+Cela est vrai. Oh ! Rien ne nous adoucit comme de tendres déclarations. Faites-nous en quelqu'une, et vous verrez.
+
 Expliquez-vous donc ?
 Vous verrez que ce sera moi,
 
--*who_valere
-Êtes-vous si fort brouillée avec votre image, que vous ne vouliez point la reconnaître ?
-Qui peut ressembler au portrait que je viens de faire, si ce n'est vous, belle Angélique ?
-Et connaissant si bien vos perfections, que puis-je adorer que vous-même ?
-
--*who_angelique
-Levez-vous, Monsieur : voici mon père.
-
-**** *book_ *id_I14 *act_I *date_(inc
-
--*who_monsieurdorce
-Eh bien !
-Pourquoi cet air effrayé ?
-Rassure-toi, mon ami.
-Tu sais que j'approuve ton amour.
-Tu m'as obligé doublement, en rendant ma fille sensible.
-Tu dissipes sa mélancolie et m'unis à ta famille que je respecte et que j'aime depuis longtemps.
-
--*who_valere
-Le trouble que j'ai fait paraître ne doit point vous étonner.
-Il durera tant que je n'aurai pas le consentement d'Angélique.
-
--*who_monsieurdorce
-Eh quoi !
-Elle ne s'est pas encore expliquée ?
-
--*who_angelique
-Mon silence, Monsieur, vous dit assez ce que j'ai dû vous taire.
-
--*who_valere
-Ah !
-Monsieur, vous l'entendez !
-
--*who_monsieurdorce
-Pas trop : il n'est pas question de silence, il faut parler.
-Réponds-moi, consens-tu à épouser Valere ?
-
--*who_angelique
-Oui, mon père, puisque cela vous plaît.
-
--*who_monsieurdorce
-Puisque cela te plaît, j'y consens aussi.
-Rose, tu diras là-dedans qu'on aille chercher mon Notaire : je veux que le mariage se fasse ce soir.
-
--*who_valere
-Ah !
-Monsieur, vous comblez tous mes désirs.
-
--*who_monsieurdorce
-Mais où sont tes bracelets ?
-Tu les avais tantôt : qu'en as-tu fait ?
-Ou sont-ils ?
-
--*who_angelique
-Je n'en sais rien, je crois les avoir perdus.
-
--*who_monsieurdorce
-Comment !
-Tu les as perdus ?
-Fais-les chercher bien vite.
-C'étaient les seuls bijoux de ta mère, que j'eusse conservés.
-Nos chiffres y étaient tracés; j'aimais à te les voir porter, parce qu'ils me rappelaient la tendresse et les vertus de cette femme adorée.
-Valère, je t'implore dans mon malheur: aide-moi à recouvrer le bien le plus précieux.
-Ne songez plus à vos noces, cet accident les diffère ; elles ne se feront qu'après qu'on aura trouvé les bracelets.
-
--*who_rose
 Je vous l'avais bien dit, Mademoiselle, que vous affligeriez Monsieur le Baron.
-Monsieur, je suis en relation avec deux grands sorciers qui me feront trouver les bracelets.
-Attendez-moi là.
+Monsieur, je suis en relation avec deux grands sorciers qui me feront trouver les bracelets. Attendez-moi là.
 
--*who_valere
-Mais, Monsieur, songez donc que mon amour ne s'accommode point de ce retardement.
-Je vais commander pour Angélique des bracelets aussi beaux que ceux qu'elle a perdus, et tout le mal sera réparé.
+Monsieur, nous vous apportons les bracelets. Il n'a fallu qu'un coup de baguette pour les déterrer,
 
--*who_monsieurdorce
-Ce n'est pas leur valeur que je regrette ; on en trouve tous les jours de plus riches.
-Mais où en trouver qui me soient aussi chers ?
-Enfin j'y attachais un prix inestimable.
-Ces bracelets étaient mon trésor, je ne peux pas vivre sans eux ; et vous ne voudriez pas préparer une fête, lorsque je suis dans la douleur.
+Ah ! Monsieur, cela vous plaît à dire ; Lucas est un homme qui ne reçoit rien de personne. Il avait déjà refusé nos offres.
 
-**** *book_ *id_I15 *act_I *date_(inc
 
--*who_rose
-Monsieur, nous vous apportons les bracelets.
-Il n'a fallu qu'un coup de baguette pour les déterrer,
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colette
 
--*who_monsieurdorce
-Oh !
-Mes amis !
-Rendez-les moi, il n'est rien que je ne fasse pour vous.
+Allons, Lucas, danse avec moi ce rigaudon que tu m'as appris, et qui est si drôle.
 
--*who_lucas
+Et pourquoi, Lucas ?
+
+Qu'as-tu donc aujourd'hui ? Je te trouve, tout soucieux. J'étais comm'ça moi avant d't'aimer ; mais depuis que je t'aime, et que je suis sûre que tu m'aimes aussi, vois-tu, Lucas, rien ne m'inquiète plus. Mon père vient de me gronder, car il aime beaucoup ça. J'ai pleuré, ce qui m'a fait mal, et m'a causé un grand chagrin. À présent que je te vois, tout mon chagrin s'en est allé, et je ne me souviens plus d'avoir pleuré.
+
+Tu dis que tu es content d'un air si triste !
+
+Explique-toi, mon ami : je m'exposerai à tout pour te secourir. L'autre jour le gros Thomas, que mon père voudrait que j'épousasse, parce qu'il est plus riche que toi ; ce vilain homme dit l'autre jour à Monsieur le Baron, qui est fort jaloux de sa chasse, que tu avais tué beaucoup de gibier dans la forêt ; et le Baron voulait te faire mettre en prison. Je te défendis, quoiqu'mon père fût là, et je prouvai que tu avais passé à la maison, presque toute la journée qu'on t'accusait d'avoir passée à la chasse. Monsieur le Baron s'appaisa ; mais mon père se mit fort en colère de ce que je t'excusais. Tu le sais bien, Lucas... Dis-moi : ce méchant homme t'aurait-il joué encore quelque mauvais tour ? T'aurait-il accusé de quelque chose ? Je suis prête à tout faire pour te tirer d'embarras.
+
+Je ne peux rien ! Peut-être... Je puis au moins te consoler.
+
+Nous manque-t-il quelque chose ?
+
+Que ne me parlais-tu plutôt ? Nous avons un maître si bon ! Je lui aurais demandé de l'argent, il m'en aurait donné... Voyons si j'aurai....
+J'oubliais que je n'en ai point ; mais j'ai quelque chose qui vaut mieux que de l'argent : ces bracelets que Mademoiselle Angélique m'a donnés, et que j'ai mis aujourd'hui pour la première fois... Eh bien ! Lucas ! Je te les donne : va les vendre, tu en tireras beaucoup, car ils sont bien beaux.
+
+Qu'est-ce que tu dis, Lucas ! Je ne te troquerais pas pour le Château de Monsieur le Baron.
+
+Oh ! Oui. J'étais la seule dans le village qui en eût comm'ça.
+
+Je veux que tu les prennes ; et si tu les refuses, je t'avertis que tu me feras beaucoup de peine.
+
+Méchant ! Je croyais que tu m'aimais, mais je vois que je m'étais trompée.
+
+Eh bionl Je t'annonce, moi, que je ne t'aimerat plus si tu t'obstines à refuser mes bracelets.
+
+Vas: cours à la Ville vendre ces bracelets: moi, je vais trouver mon père. II n'est pas riche, il me donnera peu ; mais j'espère beaucoup en Monsieur d'Orcé.
+
+Attends , attends, Lucas, nous avons oublié de débarrasser le Sallon ; Mademoiselle Rose me gronderait : Allons, prends cette table, 6c moi je porterai le cabaret de porcelaine.
+
+Mademoiselle...
+
+Non, Mademoiselle, non : Lucas ne m'a point volé mes bracelets ; je les lui ai donnés, je les lui ai donnés moi-même.
+
+L'idée que vous avez de moi me fait bien de la peine ; mais cependant j'aime encore mieux cela, que si vous pensiez mal de Lucas.
+
+Eh bien ! Soit. Pourvu que je sauve l'honneur de Lucas.
+
+Je te conseille, moi..., de ne point fâcher Mademoiselle Angélique.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
+Morguié, je n'avons pas envie de danser. La saison de not'bon temps est passée.
+
+Je n'sommes pas en train.
+
+Je sommes ben comm'ça. Tous mes chagrins disparaissent à ta présence. Aussi, n'est-ce point sur not'sort que je sommes en peine.
+
+Quand on est affligé, ça se fait voir dans tout. Tu ne fais pas où le bât me blesse ?
+
+Tu as le coeur bon, Colette, tu l'as très bon ; mais tu ne peux rien pour mon secours.
+
+Ta consolation et rien, c'est la même chose. Tu sais que nous sommes très pauvres dans not'village,
+
+Nous manquons presque de tout. Ce n'est pas not'faute assurément ; je travaillons sans cesse, tu es à portée de le voir, la paresse n'est pas not'défaut. Mais j'ons un père et une mère que la vieillesse met hors d'état de travailler ; leur besoin augmentant avec l'âge, tous mes soins devenions inutiles pour eux.
+
+Morguié Colette, ta bonté me fait tant de plaisir qu'elle m'attendrit quasi jusqu'aux larmes. Va ; garde tes bracelets, ils ne sont pas d'un assez grand prix, pour chasser la misère de chez nous.
+
+Ils te servont de parure : tu les aimes beaucoup.
+
+Eh bien ! Gardes-les encore un coup, je t'ons la même obligation que si je les avais acceptés.
+
+Mais je n'en ons pas besoin.
+
+Ah ! Tu te fâches, Colette ! Morguié, ce reproche m'a fait presqu'autant de peine que la misère de mes parents.
+
+Tu mets tes présents à des conditions fi dures, que je ne pouvons nous empêcher de les recevoir.
+
+Adieu , Colette ; je sortons yvre de reconnaissance et d'amour.
+
+Avec plaisir.
+
+Non, morguè ! Il nous fait bien de la peine ; je ne rions pas de ça je rions de vous voir gronder pour rien cette pauvre innocente. Elle a oublié de vous dire qu'elle m'avait donné les bracelets, tant seulement pour une demie heure, à cette fin que je les portions à cette femme de Monsieur le Bailli, qui veut en faire faire sur le même moule.
+
+Eh bien ! Mademoiselle, pour cette fois-ci, vous pouvez m'en croire. Il est vrai que j'ons pris les bracelets de Colette ; mais ça été à son insu , ça été pour lui jouer un tour, pour les lui faire chercher.
+
+Et morgué, Mademoiselle, on ne vous demande pas toutes ces réflexions.
+Voulez-vous enfin savoir la vérité toute pure ? Tenez, Colette vous a trompée, en vous disant qu'elle m'avait donné les bracelets ; je les lui ai volés, oui : je les lui ai volés...
+
+Non, morguié, je les lui ont pris de force.
+
+Je sommes prêts à tout souffrir, pourvu que j'épargnions un chagrin à Colette.
+
+Eh ! Pauvre Lucas ! Comment faire ! Je sommes pris par tous les bouts.
+
+Mademoiselle, je venons de vous lâcher trois mensonges ben pommés, pour l'amour de Colette ; j'en convenons. Mais cette fois je faisons serment que c'est la vérité qui va sortir de ma bouche. Colette portait le cabaret de porcelaine, j'ons voulu profiter de ce moment pour l'y attraper un baiser : elle s'est si bien défendue, qu'elle a mieux aimé casser toutes les tasses, que de se laisser embrasser ; ce qui prouve bien qu'elle a de la vertu.
+
+Et comme je sommes la cause de ce malheur, je devons le réparer tout seul. Je ne sommes pas riches ; mes parents sont pauvres, je n'ons que nos bras pour les nourrir ; mais j'allons m'engager dans le premier Régiment ; je vendrons not'liberté, et de l'argent qu'elle me vaudra, je payerons la dégâts de Colette ; et, par ce moyen, je l'y ferai obtenir son pardon.
+
+Eh bien, Mademoiselle ! Il est vrai que Colette me les a donnés, et vous n'auriez sûrement pas envie de la chasser, si vous saviez par quel motif.
+
+Mademoiselle, j'ons accepté les bracelets de Colette, mais je n'pouvons rian accepter de vous.
+
+Colette m'aime : Colette n'est pas plus riche que moi ; je pouvons accepter ses dons sans rougir. Il n'en est pas de même des vôtres. Les bienfaits des personnes riches humilient le pauvre, parce que la reconnaissance de celui-ci paroissont toujours aux autres au-dessous de leur libéralités.
+
+Je ne prétendons pas vous contredire, Mademoiselle, je savons que vous avez sur ce point plus de lumières que nous, mais j'ons souvent remarqué que lorsqu'un homme en enrichissait un autre, il cherchait à en devenir le maître ; et dame, voyez-vous, je ne voulons être l'esclave de personne.
+
+Oh ! Morguié, oui, je l'aimons de toute not'force.
+
+Je le désire bian toujours ; elle a un père qui ne veut pas de moi, parce que je n'sommes pas riche.
+
+Colette, que me conseilles-tu ?
+
+Eh ben ! Je consentons à recevoir les bracelets. Que j'ai de grâces à vous rendre ! Vous me forcez d'accepter un bienfait, pour m'en faire espérer un plus grand.
+
 Tenez, Monsieur, les voilà ; je ne les ons pas demandés au moins, c'est Mademoiselle Angélique qui nous a forcés de les prendre.
 
--*who_monsieurdorce
-Qui donc a pu vous porter à faire à ce paysan un don si considérable ?
-Vous rougissez, ma fille !
+Non, Monsieur, vous ne pouvais point m'acheter ce que je ne devons point vous vendre. J'ons reçu les bracelets pour rien, je devons vous les rendre de même, et puis l'argent que vous nous en donneriais, vaudrait-il le bonheur d'être utile à notre bienfaitrice.
 
--*who_angelique
-Lucas a des parents très pauvres, il ne peut pas subvenir à leurs besoins quoiqu'il travaille sans cesse : je l'ai entendu lorsqu'il le disait à Colette ; sa situation m'a fait pitié.
-J'avais alors fur moi les bracelets de ma mère, et je les lui ai donnés.
-Je ne rougis point de cette action, elle est toute simple : je rougis seulement par la crainte que j'ai qu'on ne m'en fasse un mérite.
+Morguié, Mademoiselle, vous aveis raison : cette souvenance me détermine. Vous nous aveis déjà prouvé que je n'étions qu'une bête, et vous nous le prouveis encore. Je consentons à tout, dans l'espérance d'avoir Colette.
 
--*who_valere
-Ah !
-Monsieur, vous n'avez plus de raison pour retarder mon bonheur.
-
--*who_monsieurdorce
-Ah !
-Fille vertueuse et digne en tout de ta mère, comble enfin les voeux du jeune homme qui t'aime, et faites l'un et l'autre la consolation de mes vieux jours.
-Et vous, mes amis, par qui j'ai retrouvé mon trésor, il est bien juste que je vous en témoigne ma reconnaissance.
-Je vous donne deux fois le prix des bracelets que vous m'avez rendus.
-
--*who_rose
-Ah !
-Monsieur, cela vous plaît à dire ; Lucas est un homme qui ne reçoit rien de personne.
-Il avait déjà refusé nos offres.
-
--*who_monsieurdorce
-Il faudra bien qu'il accepte les miennes.
-Écoute-moi, mon ami, les bracelets t'appartenaient puisqu'on te les avait donnés.
-Je puis bien t'acheter ce qui est à toi.
-
--*who_lucas
-Non, Monsieur, vous ne pouvais point m'acheter ce que je ne devons point vous vendre.
-J'ons reçu les bracelets pour rien, je devons vous les rendre de même, et puis l'argent que vous nous en donneriais, vaudrait-il le bonheur d'être utile à notre bienfaitrice.
-
--*who_angelique
-Mais, Lucas, tu oublies que tu n'es pas riche, et que si tu l'étais tu épouserais Colette la fille de notre Fermier.
-
--*who_lucas
-Morguié, Mademoiselle, vous aveis raison : cette souvenance me détermine.
-Vous nous aveis déjà prouvé que je n'étions qu'une bête, et vous nous le prouveis encore.
-Je consentons à tout, dans l'espérance d'avoir Colette.
-
--*who_monsieurdorce
-Allons, mes enfants, mes amis, ne songeons plus qu'au plaisir que ce jour va nous donner.
-Le Notaire que nous attendons fera les deux mariages.
-Et toi, ma fille, reprends tes bracelets que tu avais quittés, pour secourir un malheureux : et puisse-tu ne les ôter que pour faire une aussi bonne action.

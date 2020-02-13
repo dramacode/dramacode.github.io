@@ -1,40 +1,19 @@
 
 
-**** *book_ *id_I01 *act_I *date_1666 *creator_moliere
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alceste
 
--*who_philinte
-Qu'est-ce donc ? qu'avez-vous ?
-
--*who_alceste
       Laissez-moi, je vous prie.
 
--*who_philinte
-Mais, encor, dites-moi, quelle bizarrerie...
-
--*who_alceste
 Laissez-moi là, vous dis-je, et courez vous cacher.
 
--*who_philinte
-Mais on entend les Gens, au moins, sans se fâcher.
-
--*who_alceste
 Moi, je veux me fâcher, et ne veux point entendre.
 
--*who_philinte
-Dans vos brusques chagrins, je ne puis vous comprendre ;
-Et quoique amis, enfin, je suis tout des premiers...
-
--*who_alceste
 Moi, votre ami ? rayez cela de vos papiers.
 J'ai fait jusques ici, profession de l'être ;
 Mais après ce qu'en vous, je viens de voir paraître,
 Je vous déclare net, que je ne le suis plus,
 Et ne veux nulle place en des Cœurs corrompus.
 
--*who_philinte
-Je suis, donc, bien coupable, Alceste, à votre compte ?
-
--*who_alceste
 Allez, vous devriez mourir de pure honte,
 Une telle action ne saurait s'excuser,
 Et tout Homme d'honneur s'en doit scandaliser.
@@ -51,29 +30,11 @@ De s'abaisser ainsi jusqu'à trahir son Âme :
 Et si, par un malheur, j'en avais fait autant,
 Je m'irais, de regret, pendre tout à l'instant.
 
--*who_philinte
-Je ne vois pas, pour moi, que le cas soit pendable ;
-Et je vous supplierai d'avoir pour agréable,
-Que je me fasse un peu, grâce sur votre Arrêt,
-Et ne me pende pas, pour cela, s'il vous plaît.
-
--*who_alceste
 Que la plaisanterie est de mauvaise grâce !
 
--*who_philinte
-Mais, sérieusement, que voulez-vous qu'on fasse ?
-
--*who_alceste
 Je veux qu'on soit sincère, et qu'en Homme d'honneur,
 On ne lâche aucun mot qui ne parte du cœur.
 
--*who_philinte
-Lorsqu'un Homme vous vient embrasser avec joie,
-Il faut bien le payer de la même monnaie,
-Répondre, comme on peut, à ses empressements,
-Et rendre offre pour offre, et serments pour serments.
-
--*who_alceste
 Non, je ne puis souffrir cette lâche méthode
 Qu'affectent la plupart de vos Gens à la mode ;
 Et je ne hais rien tant, que les contorsions
@@ -99,11 +60,6 @@ Qui ne fait de Mérite aucune différence ;
 Je veux qu'on me distingue, et pour le trancher net,
 L'Ami du Genre Humain n'est point du tout mon fait.
 
--*who_philinte
-Mais quand on est du Monde, il faut bien que l'on rende
-Quelques Dehors civils, que l'Usage demande.
-
--*who_alceste
 Non, vous dis-je, on devrait châtier, sans pitié,
 Ce Commerce honteux de Semblants d'Amitié :
 Je veux que l'on soit Homme, et qu'en toute rencontre,
@@ -111,39 +67,12 @@ Le fond de notre cœur, dans nos discours, se montre ;
 Que ce soit lui qui parle, et que nos Sentiments
 Ne se masquent jamais, sous de vains Compliments.
 
--*who_philinte
-Il est bien des endroits, où la pleine Franchise
-Deviendrait ridicule, et serait peu permise ;
-Et, parfois, n'en déplaise à votre austère Honneur,
-Il est bon de cacher ce qu'on a dans le cœur.
-Serait-il à propos, et de la Bienséance,
-De dire à mille Gens tout ce que d'eux, on pense ?
-Et quand on a quelqu'un qu'on hait, ou qui déplaît,
-Lui doit-on déclarer la chose comme elle est ?
-
--*who_alceste
 Oui.
 
--*who_philinte
-      Quoi ! vous iriez dire à la vieille Émilie,
-Qu'à son âge, il sied mal de faire la jolie ?
-Et que le blanc qu'elle a, scandalise chacun ?
-
--*who_alceste
 Sans doute.
 
--*who_philinte
-      À Dorilas, qu'il est trop importun :
-Et qu'il n'est à la Cour, oreille qu'il ne lasse,
-À conter sa bravoure, et l'éclat de sa Race ?
-
--*who_alceste
 Fort bien.
 
--*who_philinte
-      Vous vous moquez.
-
--*who_alceste
       Je ne me moque point,
 Et je vais n'épargner personne sur ce point.
 Mes yeux sont trop blessés ; et la Cour, et la Ville,
@@ -155,43 +84,15 @@ Qu'Injustice, Intérêt, Trahison, Fourberie ;
 Je n'y puis plus tenir, j'enrage, et mon dessein
 Est de rompre en visière à tout le Genre Humain.
 
--*who_philinte
-Ce chagrin Philosophe est un peu trop sauvage,
-Je ris des noirs accès où je vous envisage ;
-Et crois voir, en nous deux, sous mêmes soins nourris,
-Ces deux Frères que peint L'École des Maris,
-Dont...
-
--*who_alceste
       Mon Dieu, laissons là vos comparaisons fades.
 
--*who_philinte
-Non, tout de bon, quittez toutes ces incartades,
-Le Monde, par vos soins ne se changera pas ;
-Et puisque la Franchise a, pour vous, tant d'appas,
-Je vous dirai tout franc, que cette maladie,
-Partout où vous allez, donne la Comédie,
-Et qu'un si grand courroux contre les Mœurs du Temps,
-Vous tourne en Ridicule auprès de bien des Gens.
-
--*who_alceste
 Tant mieux, morbleu, tant mieux, c'est ce que je demande,
 Ce m'est un fort bon signe, et ma joie en est grande :
 Tous les Hommes me sont, à tel point, odieux,
 Que je serais fâché d'être sage à leurs yeux.
 
--*who_philinte
-Vous voulez un grand mal à la Nature Humaine !
-
--*who_alceste
 Oui, j'ai conçu pour elle une effroyable haine.
 
--*who_philinte
-Tous les pauvres Mortels, sans nulle exception,
-Seront enveloppés dans cette aversion ?
-Encore en est-il bien, dans le Siècle où nous sommes…
-
--*who_alceste
 Non, elle est générale, et je hais tous les Hommes :
 Les uns, parce qu'ils sont méchants et malfaisants ;
 Et les autres, pour être aux Méchants complaisants,
@@ -220,31 +121,6 @@ De voir qu'avec le Vice on garde des mesures ;
 Et, parfois, il me prend des mouvements soudains,
 De fuir, dans un Désert, l'approche des Humains.
 
--*who_philinte
-Mon Dieu, des Mœurs du Temps, mettons-nous moins en peine,
-Et faisons un peu grâce à la Nature Humaine ;
-Ne l'examinons point dans la grande rigueur,
-Et voyons ses défauts, avec quelque douceur.
-Il faut, parmi le Monde, une Vertu traitable,
-À force de Sagesse on peut être blâmable,
-La parfaite Raison fuit toute extrémité,
-Et veut que l'on soit sage avec sobriété.
-Cette grande raideur des Vertus des vieux Âges,
-Heurte trop notre Siècle, et les communs Usages,
-Elle veut aux Mortels trop de perfection,
-Il faut fléchir au Temps, sans obstination ;
-Et c'est une folie, à nulle autre seconde,
-De vouloir se mêler de corriger le Monde.
-J'observe, comme vous, cent choses, tous les jours,
-Qui pourraient mieux aller, prenant un autre cours :
-Mais quoique à chaque pas, je puisse voir paraître,
-En courroux, comme vous, on ne me voit point être ;
-Je prends, tout doucement, les Hommes comme ils sont ;
-J'accoutume mon Âme à souffrir ce qu'ils font ;
-Et je crois qu'à la Cour, de même qu'à la Ville,
-Mon Flegme est Philosophe, autant que votre Bile.
-
--*who_alceste
 Mais ce Flegme, Monsieur, qui raisonne si bien,
 Ce flegme, pourra-t-il ne s'échauffer de rien ?
 Et s'il faut, par hasard, qu'un Ami vous trahisse,
@@ -252,118 +128,37 @@ Que pour avoir vos Biens, on dresse un artifice,
 Ou qu'on tâche à semer de méchants bruits de vous,
 Verrez-vous tout cela, sans vous mettre en courroux ?
 
--*who_philinte
-Oui, je vois ces Défauts dont votre âme murmure,
-Comme Vices unis à l'Humaine Nature ;
-Et mon esprit, enfin, n'est pas plus offensé,
-De voir un Homme fourbe, injuste, intéressé,
-Que de voir des Vautours affamés de carnage,
-Des Singes malfaisants, et des Loups pleins de rage.
-
--*who_alceste
 Je me verrai trahir, mettre en pièces, voler,
 Sans que je sois… Morbleu, je ne veux point parler,
 Tant ce raisonnement est plein d'impertinence.
 
--*who_philinte
-Ma foi, vous ferez bien de garder le silence ;
-Contre votre Partie, éclatez un peu moins,
-Et donnez au Procès, une part de vos soins.
-
--*who_alceste
 Je n'en donnerai point, c'est une chose dite.
 
--*who_philinte
-Mais qui voulez-vous donc, qui, pour vous, sollicite ?
-
--*who_alceste
 Qui je veux ? la Raison, mon bon Droit, l'Équité.
 
--*who_philinte
-Aucun Juge, par vous, ne sera visité ?
-
--*who_alceste
 Non, est-ce que ma Cause est injuste, ou douteuse ?
 
--*who_philinte
-J'en demeure d'accord ; mais la Brigue est fâcheuse,
-Et…
-
--*who_alceste
       Non, j'ai résolu de n'en pas faire un pas ;
 J'ai tort, ou j'ai raison.
 
--*who_philinte
-      Ne vous y fiez pas.
-
--*who_alceste
 Je ne remuerai point.
 
--*who_philinte
-      Votre Partie est forte,
-Et peut, par sa Cabale, entraîner…
-
--*who_alceste
       Il n'importe.
 
--*who_philinte
-Vous vous tromperez.
-
--*who_alceste
       Soit, j'en veux voir le succès.
 
--*who_philinte
-Mais…
-
--*who_alceste
       J'aurai le plaisir de perdre mon Procès.
 
--*who_philinte
-Mais, enfin…
-
--*who_alceste
       Je verrai, dans cette Plaiderie,
 Si les Hommes auront assez d'effronterie,
 Seront assez méchants, scélérats et pervers,
 Pour me faire injustice aux yeux de l'Univers.
 
--*who_philinte
-Quel Homme !
-
--*who_alceste
       Je voudrais, m'en coûtât-il grand-chose,
 Pour la beauté du Fait, avoir perdu ma Cause.
 
--*who_philinte
-On se rirait de vous, Alceste, tout de bon,
-Si l'on vous entendait parler de la façon.
-
--*who_alceste
 Tant pis pour qui rirait.
 
--*who_philinte
-      Mais cette Rectitude,
-Que vous voulez, en tout, avec exactitude,
-Cette pleine Droiture où vous vous renfermez,
-La trouvez-vous ici, dans ce que vous aimez ?
-Je m'étonne, pour moi, qu'étant, comme il le semble,
-Vous et le Genre Humain, si fort brouillés ensemble,
-Malgré tout ce qui peut vous le rendre odieux,
-Vous ayez pris, chez lui, ce qui charme vos yeux ;
-Et ce qui me surprend, encore, davantage,
-C'est cet étrange Choix où votre Coeur s'engage.
-La sincère Éliante a du penchant pour vous,
-La prude Arsinoé vous voit d'un oeil fort doux :
-Cependant, à leurs voeux, votre âme se refuse,
-Tandis qu'en ses liens Célimène l'amuse,
-De qui l'humeur coquette, et l'esprit médisant,
-Semble si fort donner dans les Moeurs d'à présent.
-D'où vient que leur portant une haine mortelle,
-Vous pouvez bien souffrir ce qu'en tient cette Belle ?
-Ne sont-ce plus Défauts dans un Objet si doux ?
-Ne les voyez-vous pas ? ou les excusez-vous ?
-
--*who_alceste
 Non, l'amour que je sens pour cette jeune Veuve
 Ne ferme point mes yeux aux défauts qu'on lui treuve ;
 Et je suis, quelque ardeur qu'elle m'ait pu donner,
@@ -375,99 +170,29 @@ En dépit qu'on en ait, elle se fait aimer ;
 Sa grâce est la plus forte, et, sans doute, ma flamme
 De ces Vices du Temps pourra purger son âme.
 
--*who_philinte
-Si vous faites cela, vous ne ferez pas peu.
-Vous croyez être, donc, aimé d'elle ?
-
--*who_alceste
       Oui, parbleu ;
 Je ne l'aimerais pas, si je ne croyais l'être.
 
--*who_philinte
-Mais si son amitié, pour vous, se fait paraître,
-D'où vient que vos Rivaux vous causent de l'ennui ?
-
--*who_alceste
 C'est qu'un coeur bien atteint veut qu'on soit tout à lui ;
 Et je ne viens ici, qu'à dessein de lui dire
 Tout ce que là-dessus, ma passion m'inspire.
 
--*who_philinte
-Pour moi, si je n'avais qu'à former des désirs,
-Sa Cousine Eliante aurait tous mes soupirs,
-Son Cœur, qui vous estime, est solide, et sincère ;
-Et ce Choix plus conforme, était mieux votre affaire.
-
--*who_alceste
 Il est vrai, ma Raison me le dit chaque jour ;
 Mais la Raison n'est pas ce qui règle l'Amour.
 
--*who_philinte
-Je crains fort pour vos Feux ; et l'espoir où vous êtes,
-Pourrait…
-
-**** *book_ *id_I02 *act_I *date_1666 *creator_moliere
-
--*who_oronte
-      J'ai su là-bas que, pour quelques Emplettes
-Éliante est sortie, et Célimène aussi :
-Mais, comme l'on m'a dit que vous étiez ici,
-J'ai monté, pour vous dire, et d'un coeur véritable,
-Que j'ai conçu pour vous, une estime incroyable ;
-Et que, depuis longtemps, cette estime m'a mis
-Dans un ardent désir d'être de vos Amis.
-Oui, mon Coeur, au Mérite aime à rendre justice,
-Et je brûle qu'un noeud d'Amitié nous unisse :
-Je crois qu'un Ami chaud, et de ma Qualité,
-N'est pas, assurément, pour être rejeté.
-C'est à vous, s'il vous plaît, que ce discours s'adresse.
-
--*who_alceste
 À moi, Monsieur ?
 
--*who_oronte
-      À vous. Trouvez-vous qu'il vous blesse ?
-
--*who_alceste
 Non pas, mais la surprise est fort grande pour moi.
 Et je n'attendais pas l'honneur que je reçois.
 
--*who_oronte
-L'estime où je vous tiens ne doit point vous surprendre,
-Et de tout l'Univers, vous la pouvez prétendre.
-
--*who_alceste
 Monsieur...
 
--*who_oronte
-      L'État n'a rien qui ne soit au-dessous
-Du Mérite éclatant que l'on découvre en vous.
-
--*who_alceste
 Monsieur…
 
--*who_oronte
-      Oui, de ma part, je vous tiens préférable
-A tout ce que j'y vois de plus considérable.
-
--*who_alceste
 Monsieur…
 
--*who_oronte
-      Sois-je du Ciel écrasé, si je mens ;
-Et pour vous confirmer ici, mes Sentiments,
-Souffrez qu'à coeur ouvert, Monsieur, je vous embrasse,
-Et qu'en votre Amitié, je vous demande place.
-Touchez-là, s'il vous plaît, Vous me la promettez
-Votre Amitié ?
-
--*who_alceste
       Monsieur…
 
--*who_oronte
-      Quoi ? vous y résistez ?
-
--*who_alceste
 Monsieur, c'est trop d'honneur que vous me voulez faire ;
 Mais l'Amitié demande un peu plus de mystère,
 Et c'est, assurément, en profaner le nom,
@@ -477,127 +202,31 @@ Avant que nous lier, il faut nous mieux connaître ;
 Et nous pourrions avoir telles complexions,
 Que tous deux, du Marché, nous nous repentirions.
 
--*who_oronte
-Parbleu, c'est là-dessus, parler en Homme sage,
-Et je vous en estime, encore, davantage :
-Souffrons, donc, que le Temps forme des noeuds si doux.
-Mais, cependant, je m'offre entièrement à vous ;
-S'il faut faire à la Cour, pour vous, quelque ouverture,
-On sait, qu'auprès du Roi, je fais quelque Figure,
-Il m'écoute, et dans tout, il en use, ma foi,
-Le plus honnêtement du Monde, avecque moi.
-Enfin, je suis à vous, de toutes les manières ;
-Et, comme votre Esprit a de grandes lumières,
-Je viens, pour commencer, entre nous, ce beau noeud,
-Vous montrer un Sonnet, que j'ai fait depuis peu,
-Et savoir s'il est bon qu'au Public je l'expose.
-
--*who_alceste
 Monsieur, je suis mal propre à décider la chose,
 Veuillez m'en dispenser.
 
--*who_oronte
-      Pourquoi ?
-
--*who_alceste
       J'ai le défaut
 D'être un peu plus sincère, en cela, qu'il ne faut.
 
--*who_oronte
-C'est ce que je demande, et j'aurais lieu de plainte,
-Si m'exposant à vous, pour me parler sans feinte,
-Vous alliez me trahir, et me déguiser rien.
-
--*who_alceste
 Puisqu'il vous plaît ainsi, Monsieur, je le veux bien.
 
--*who_oronte
-Sonnet... C'est un Sonnet. L'Espoir… C'est une Dame,
-Qui, de quelque espérance, avait flatté ma flamme.
-L'Espoir… Ce ne sont point de ces grands Vers pompeux,
-Mais de petits Vers doux, tendres, et langoureux.
-
--*who_alceste
 Nous verrons bien.
 
--*who_oronte
-      L'Espoir… Je ne sais si le style
-Pourra vous en paraître assez net, et facile ;
-Et si, du choix des Mots, vous vous contenterez.
-
--*who_alceste
 Nous allons voir, Monsieur.
 
--*who_oronte
-      Au reste, vous saurez,
-Que je n'ai demeuré qu'un quart d'heure à le faire.
-
--*who_alceste
 Voyons, Monsieur, le Temps ne fait rien à l'affaire.
 
--*who_oronte
-
-L'Espoir, il est vrai, nous soulage,
-Et nous berce un temps, notre ennui ;
-Mais, Philis, le triste avantage,
-Lorsque rien ne marche après lui !
-
--*who_philinte
-Je suis déjà charmé de ce petit morceau.
-
--*who_alceste
 Quoi ! vous avez le front de trouver cela beau ?
 
--*who_oronte
-
-Vous eûtes de la Complaisance,
-Mais vous en deviez moins avoir ;
-Et ne vous pas mettre en dépense,
-Pour ne me donner que l'Espoir.
-
--*who_philinte
-Ah ! qu'en termes galants, ces choses-là sont mises !
-
--*who_alceste
 Morbleu, vil Complaisant, vous louez des Sottises ?
 
--*who_oronte
-
-S'il faut qu'une attente éternelle
-Pousse à bout, l'ardeur de mon zèle,
-Le Trépas sera mon recours.
-
-Vos soins ne m'en peuvent distraire ;
-Belle Philis, on désespère,
-Alors qu'on espère toujours.
-
--*who_philinte
-La chute en est jolie, amoureuse, admirable.
-
--*who_alceste
 La peste de ta chute ! Empoisonneur au Diable,
 En eusses-tu fait une à te casser le nez.
 
--*who_philinte
-Je n'ai jamais ouï de Vers si bien tournés.
-
--*who_alceste
 Morbleu…
 
--*who_oronte
-      Vous me flattez, et vous croyez, peut-être…
-
--*who_philinte
-Non, je ne flatte point.
-
--*who_alceste
       Et que fais-tu, donc, Traître ?
 
--*who_oronte
-Mais, pour vous, vous savez quel est notre Traité ;
-Parlez-moi, je vous prie, avec sincérité.
-
--*who_alceste
 Monsieur, cette matière est toujours délicate,
 Et, sur le bel Esprit, nous aimons qu'on nous flatte :
 Mais un jour, à quelqu'un, dont je tairai le nom,
@@ -609,29 +238,16 @@ Qu'on a de faire éclat de tels amusements ;
 Et que, par la chaleur de montrer ses Ouvrages,
 On s'expose à jouer de mauvais Personnages.
 
--*who_oronte
-Est-ce que vous voulez me déclarer, par là,
-Que j'ai tort de vouloir…
-
--*who_alceste
       Je ne dis pas cela :
 Mais je lui disais, moi, qu'un froid Écrit assomme,
 Qu'il ne faut que ce Faible, à décrier un Homme ;
 Et qu'eût-on, d'autre part, cent belles Qualités,
 On regarde les Gens, par leurs méchants côtés.
 
--*who_oronte
-Est-ce qu'à mon Sonnet, vous trouvez à redire ?
-
--*who_alceste
 Je ne dis pas cela ; mais, pour ne point écrire,
 Je lui mettais aux yeux, comme dans notre Temps,
 Cette Soif a gâté de fort Honnêtes Gens.
 
--*who_oronte
-Est-ce que j'écris mal ? et leur ressemblerais-je ?
-
--*who_alceste
 Je ne dis pas cela ; mais enfin, lui disais-je,
 Quel besoin, si pressant, avez-vous de Rimer ?
 Et qui, diantre, vous pousse à vous faire Imprimer ?
@@ -645,11 +261,6 @@ Pour prendre, de la main d'un avide Imprimeur,
 Celui de ridicule, et misérable Auteur.
 C'est ce que je tâchai de lui faire comprendre.
 
--*who_oronte
-Voilà qui va fort bien, et je crois vous entendre.
-Mais ne puis-je savoir ce que dans mon Sonnet…
-
--*who_alceste
 Franchement, il est bon à mettre au Cabinet ;
 Vous vous êtes réglé sur de méchants Modèles,
 Et vos Expressions ne sont point naturelles.
@@ -695,114 +306,39 @@ Oui, Monsieur le Rieur, malgré vos beaux Esprits,
 J'estime plus cela, que la Pompe fleurie
 De tous ces faux Brillants, où chacun se récrie.
 
--*who_oronte
-Et moi, je vous soutiens que mes Vers sont fort bons.
-
--*who_alceste
 Pour les trouver ainsi, vous avez vos Raisons ;
 Mais vous trouverez bon, que j'en puisse avoir d'autres
 Qui se dispenseront de se soumettre aux vôtres.
 
--*who_oronte
-Il me suffit de voir que d'autres en font cas.
-
--*who_alceste
 C'est qu'ils ont l'Art de feindre, et moi, je ne l'ai pas.
 
--*who_oronte
-Croyez-vous, donc, avoir tant d'Esprit en partage ?
-
--*who_alceste
 Si je louais vos Vers, j'en aurais davantage.
 
--*who_oronte
-Je me passerai bien que vous les approuviez.
-
--*who_alceste
 Il faut bien, s'il vous plaît, que vous vous en passiez.
 
--*who_oronte
-Je voudrais bien, pour voir, que de votre manière ;
-Vous en composassiez sur la même Matière.
-
--*who_alceste
 J'en pourrais, par malheur, faire d'aussi méchants ;
 Mais je me garderais de les montrer aux Gens.
 
--*who_oronte
-Vous me parlez bien ferme, et cette suffisance…
-
--*who_alceste
 Autre part que chez moi, cherchez qui vous encense.
 
--*who_oronte
-Mais, mon petit Monsieur, prenez-le un peu moins haut.
-
--*who_alceste
 Ma foi, mon grand Monsieur, je le prends comme il faut.
 
--*who_philinte
-Eh ! Messieurs, c'en est trop, laissez cela, de grâce.
-
--*who_oronte
-Ah ! j'ai tort, je l'avoue, et je quitte la place ;
-Je suis votre Valet, Monsieur, de tout mon coeur.
-
--*who_alceste
 Et moi, je suis, Monsieur, votre humble Serviteur.
 
-**** *book_ *id_I03 *act_I *date_1666 *creator_moliere
-
--*who_philinte
-Hé bien, vous le voyez ; pour être trop sincère,
-Vous voilà sur les bras, une fâcheuse Affaire ;
-Et j'ai bien vu qu'Oronte, afin d'être flatté…
-
--*who_alceste
 Ne me parlez pas.
 
--*who_philinte
-      Mais…
-
--*who_alceste
       Plus de société.
 
--*who_philinte
-C'est trop…
-
--*who_alceste
       Laissez-moi là.
 
--*who_philinte
-      Si je…
-
--*who_alceste
       Point de langage.
 
--*who_philinte
-Mais quoi…
-
--*who_alceste
       Je n'entends rien.
 
--*who_philinte
-      Mais…
-
--*who_alceste
       Encore.
 
--*who_philinte
-      On outrage…
-
--*who_alceste
 Ah ! parbleu, c'en est trop, ne suivez point mes pas.
 
--*who_philinte
-Vous vous moquez de moi, je ne vous quitte pas.
-
-**** *book_ *id_II01 *act_II *date_1666 *creator_moliere
-
--*who_alceste
 Madame, voulez-vous que je vous parle net ?
 De vos façons d'agir, je suis mal satisfait :
 Contre elles, dans mon Coeur, trop de Bile s'assemble,
@@ -812,23 +348,11 @@ Tôt, ou tard, nous romprons, indubitablement ;
 Et je vous promettrais, mille fois, le contraire,
 Que je ne serais pas en pouvoir de le faire.
 
--*who_celimene
-C'est pour me quereller, donc, à ce que je vois,
-Que vous avez voulu me ramener chez moi ?
-
--*who_alceste
 Je ne querelle point ; mais votre humeur, Madame,
 Ouvre, au premier venu, trop d'accès dans votre Âme ;
 Vous avez trop d'Amants, qu'on voit vous obséder,
 Et mon cœur, de cela, ne peut s'accommoder.
 
--*who_celimene
-Des Amants que je fais, me rendez-vous coupable ?
-Puis-je empêcher les Gens, de me trouver aimable ?
-Et lorsque, pour me voir, ils font de doux efforts,
-Dois-je prendre un Bâton, pour les mettre dehors ?
-
--*who_alceste
 Non, ce n'est pas, Madame, un bâton qu'il faut prendre,
 Mais un Coeur, à leurs vœux, moins facile, et moins tendre.
 Je sais que vos Appas vous suivent en tous Lieux,
@@ -854,55 +378,19 @@ Qu'il a gagné votre Âme, en faisant votre Esclave ?
 Ou sa façon de rire, et son ton de Fausset,
 Ont-ils, de vous toucher, su trouver le secret ?
 
--*who_celimene
-Qu'injustement, de lui, vous prenez de l'ombrage !
-Ne savez-vous pas bien, pourquoi je le ménage ?
-Et que, dans mon Procès, ainsi qu'il m'a promis,
-Il peut intéresser tout ce qu'il a d'Amis.
-
--*who_alceste
 Perdez votre Procès, Madame, avec constance,
 Et ne ménagez point un Rival qui m'offense.
 
--*who_celimene
-Mais, de tout l'Univers vous devenez jaloux.
-
--*who_alceste
 C'est que tout l'Univers est bien reçu de vous.
 
--*who_celimene
-C'est ce qui doit rasseoir votre Âme effarouchée,
-Puisque ma Complaisance est sur tous épanchée :
-Et vous auriez plus lieu de vous en offenser,
-Si vous me la voyiez, sur un seul, ramasser.
-
--*who_alceste
 Mais, moi, que vous blâmez de trop de jalousie,
 Qu'ai-je de plus qu'eux tous, Madame, je vous prie ?
 
--*who_celimene
-Le bonheur de savoir que vous êtes aimé.
-
--*who_alceste
 Et quel lieu de le croire, à mon Coeur enflammé ?
 
--*who_celimene
-Je pense qu'ayant pris le soin de vous le dire,
-Un aveu de la sorte, a de quoi vous suffire.
-
--*who_alceste
 Mais qui m'assurera que dans le même instant,
 Vous n'en disiez, peut-être, aux autres tout autant ?
 
--*who_celimene
-Certes, pour un Amant, la Fleurette est mignonne,
-Et vous me traitez, là, de gentille Personne.
-Hé bien, pour vous ôter d'un semblable souci,
-De tout ce que j'ai dit, je me dédis ici :
-Et rien ne saurait plus vous tromper, que vous-même ;
-Soyez content.
-
--*who_alceste
       Morbleu, faut-il que je vous aime ?
 Ah ! que si, de vos Mains, je rattrape mon Coeur,
 Je bénirai le Ciel, de ce rare Bonheur !
@@ -911,56 +399,1143 @@ Je ne le cèle pas, je fais tout mon possible
 Mais mes plus grands efforts n'ont rien fait, jusqu'ici,
 Et c'est, pour mes Péchés, que je vous aime ainsi.
 
--*who_celimene
-Il est vrai, votre ardeur est, pour moi, sans seconde.
-
--*who_alceste
 Oui, je puis, là-dessus, défier tout le Monde.
 Mon amour ne se peut concevoir, et jamais,
 Personne n'a, Madame, aimé comme je fais.
 
--*who_celimene
-En effet, la Méthode en est toute nouvelle,
-Car vous aimez les Gens, pour leur faire querelle ;
-Ce n'est qu'en Mots fâcheux, qu'éclate votre ardeur,
-Et l'on n'a vu jamais, un Amour si grondeur.
-
--*who_alceste
 Mais il ne tient qu'à vous, que son chagrin ne passe ;
 À tous nos Démêlés, coupons chemin, de grâce,
 Parlons à Coeur ouvert, et voyons d'arrêter…
 
-**** *book_ *id_II02 *act_II *date_1666 *creator_moliere
-
--*who_celimene
-Qu'est-ce ?
-
--*who_basque
-      Acaste est là-bas.
-
--*who_celimene
-      Hé bien, faites monter.
-
--*who_alceste
 Quoi ! l'on ne peut jamais, vous parler, tête à tête ?
 À recevoir le Monde, on vous voit toujours prête ?
 Et vous ne pouvez pas, un seul moment de tous,
 Vous résoudre à souffrir de n'être pas chez vous ?
 
--*who_celimene
-Voulez-vous, qu'avec lui, je me fasse une Affaire ?
-
--*who_alceste
 Vous avez des Regards qui ne sauraient me plaire.
 
--*who_celimene
+Et que vous fait cela, pour vous gêner de sorte…
+
+Enfin, quoi qu'il en soit, et sur quoi qu'on se fonde,
+Vous trouvez des Raisons pour souffrir tout le Monde ;
+Et les précautions de votre jugement…
+
+      Justement.
+
+      Je sors.
+
+      Pour quoi faire ?
+
+      Je ne puis.
+
+      Point d'affaire ;
+Ces Conversations ne font que m'ennuyer,
+Et c'est trop, que vouloir me les faire essuyer.
+
+      Non, il m'est impossible.
+
+      Non ; mais je veux, Madame,
+Ou, pour eux, ou pour moi, faire expliquer votre Âme.
+
+      Aujourd'hui, vous vous expliquerez.
+
+      Point. Vous vous déclarerez.
+
+      Vous prendrez Parti.
+
+Non ; mais vous choisirez, c'est trop de patience.
+
+Allons, ferme, poussez, mes bons Amis de Cour,
+Vous n'en épargnez point, et chacun a son tour.
+Cependant, aucun d'eux, à vos yeux, ne se montre,
+Qu'on ne vous voie en hâte, aller à sa rencontre,
+Lui présenter la main, et d'un baiser flatteur,
+Appuyer les Serments d'être son Serviteur.
+
+Non, morbleu, c'est à vous ; et vos Ris complaisants
+Tirent de son Esprit, tous ces traits médisants ;
+Son Humeur Satirique est sans cesse nourrie
+Par le coupable Encens de votre Flatterie ;
+Et son Coeur, à railler, trouverait moins d'appas,
+S'il avait observé qu'on ne l'applaudît pas.
+C'est ainsi qu'aux Flatteurs, on doit, partout, se prendre
+Des Vices où l'on voit les Humains se répandre.
+
+Les Rieurs sont pour vous, Madame, c'est tout dire ;
+Et vous pouvez pousser, contre moi, la Satire.
+
+C'est que jamais, morbleu, les Hommes n'ont raison,
+Que le Chagrin, contre eux, est toujours de Saison,
+Et que je vois qu'ils sont, sur toutes les Affaires,
+Loueurs impertinents, ou Censeurs téméraires.
+
+      Non, Madame, non, quand j'en devrais mourir,
+Vous avez des Plaisirs que je ne puis souffrir ;
+Et l'on a tort, ici, de nourrir dans votre Âme,
+Ce grand attachement aux Défauts qu'on y blâme.
+
+Ils frappent tous la mienne, et loin de m'en cacher,
+Elle sait que j'ai soin de les lui reprocher.
+Plus on aime quelqu'un, moins il faut qu'on le flatte ;
+À ne rien pardonner, le pur Amour éclate ;
+Et je bannirais, moi, tous ces lâches Amants,
+Que je verrais soumis à tous mes Sentiments,
+Et dont, à tous propos, les molles Complaisances
+Donneraient de l'Encens à mes Extravagances.
+
+Et moi, je soutiens, moi…
+
+La peur de leur départ, occupe fort votre Âme ;
+Sortez quand vous voudrez, Messieurs ; mais j'avertis,
+Que je ne sors qu'après que vous serez sortis.
+
+      Non, en aucune sorte,
+Nous verrons, si c'est moi, que vous voudrez qui sorte.
+
+Dis-lui, que je n'ai point d'Affaires si pressées.
+
+      Qu'est-ce, donc, qu'il vous plaît ?
+Venez, Monsieur.
+
+Vous pouvez parler haut, Monsieur, pour m'en instruire.
+
+      Qui ? moi, Monsieur ?
+
+      Et pour quoi faire ?
+
+Moi, je n'aurai, jamais, de lâche Complaisance.
+
+Quel accommodement veut-on faire entre nous ?
+La voix de ces Messieurs, me condamnera-t-elle
+À trouver bons les Vers qui font notre Querelle ?
+Je ne me dédis point de ce que j'en ai dit,
+Je les trouve méchants.
+
+Je n'en démordrai point, les Vers sont exécrables.
+
+      J'irai, mais rien n'aura pouvoir
+De me faire dédire.
+
+Hors qu'un Commandement exprès du Roi me vienne,
+De trouver bons les Vers, dont on se met en peine,
+Je soutiendrai, toujours, morbleu, qu'ils sont mauvais,
+Et qu'un Homme est pendable, après les avoir faits.
+Par la sangbleu, Messieurs, je ne croyais pas être
+Si plaisant que je suis.
+
+      J'y vais, Madame, et, sur mes pas
+Je reviens en ce Lieu, pour vider nos Débats.
+
+Moi, Madame ! Et sur quoi pourrais-je en rien prétendre ?
+Quel Service, à l'État, est-ce qu'on m'a vu rendre ?
+Qu'ai-je fait, s'il vous plaît, de si brillant de soi,
+Pour me plaindre à la Cour, qu'on ne fait rien pour moi ?
+
+      Mon Dieu ! laissons mon Mérite, de grâce ;
+De quoi voulez-vous, là, que la Cour s'embarrasse ?
+Elle aurait fort à faire, et ses soins seraient grands,
+D'avoir à déterrer le Mérite des Gens.
+
+Eh ! Madame, l'on loue, aujourd'hui, tout le Monde,
+Et le Siècle, par là, n'a rien qu'on ne confonde ;
+Tout est d'un grand Mérite également doué,
+Ce n'est plus un Honneur, que de se voir loué ;
+D'Éloges, on regorge ; à la tête, on les jette,
+Et mon Valet de Chambre est mis dans la Gazette.
+
+Et que voudriez-vous, Madame, que j'y fisse ?
+L'humeur dont je me sens, veut que je m'en bannisse ;
+Le Ciel ne m'a point fait, en me donnant le Jour,
+Une Âme compatible avec l'Air de la Cour.
+Je ne me trouve point les Vertus nécessaires
+Pour y bien réussir, et faire mes affaires.
+Être franc, et sincère, est mon plus grand Talent,
+Je ne sais point jouer les Hommes en parlant ;
+Et qui n'a pas le don de cacher ce qu'il pense,
+Doit faire, en ce Pays, fort peu de résidence.
+Hors de la Cour, sans doute, on n'a pas cet appui,
+Et ces Titres d'Honneur, qu'elle donne aujourd'hui ;
+Mais on n'a pas, aussi, perdant ces Avantages,
+Le chagrin de jouer de fort sots Personnages.
+On n'a point à souffrir mille rebuts cruels,
+On n'a point à louer les Vers de Messieurs Tels,
+À donner de l'Encens à Madame une Telle,
+Et de nos francs Marquis, essuyer la cervelle.
+
+Mais, disant cela, songez-vous, je vous prie,
+Que cette Personne est, Madame, votre Amie ?
+
+C'est me montrer, Madame, un tendre mouvement ;
+Et de pareils avis obligent un Amant.
+
+Cela se peut, Madame, on ne voit pas les Coeurs ;
+Mais votre charité se serait bien passée
+De jeter, dans le mien, une telle pensée.
+
+Non ; mais sur ce sujet quoi que l'on nous expose,
+Les doutes sont fâcheux, plus que toute autre chose ;
+Et je voudrais, pour moi, qu'on ne me fît savoir
+Que ce, qu'avec clarté, l'on peut me faire voir.
+
+Ah ! faites-moi raison, Madame, d'une Offense
+Qui vient de triompher de toute ma constance.
+
+J'ai que, sans mourir, je ne puis concevoir ;
+Et le Déchaînement de toute la Nature,
+Ne m'accablerait pas, comme cette Aventure.
+C'en est fait… mon amour… Je ne saurais parler.
+
+Ô juste Ciel ! faut-il qu'on joigne à tant de Grâces,
+Les Vices odieux des Âmes les plus basses ?
+
+      Ah ! tout est ruiné,
+Je suis, je suis trahi, je suis assassiné :
+Célimène… Eût-on pu croire cette nouvelle ?
+Célimène me trompe, et n'est qu'une Infidèle.
+
+Ah ! morbleu, mêlez-vous, Monsieur, de vos Affaires.
+C'est de sa Trahison n'être que trop certain,
+Que l'avoir, dans ma poche, écrite de sa main.
+Oui, Madame, une Lettre écrite pour Oronte,
+A produit, à mes yeux, ma disgrâce, et sa honte ;
+Oronte, dont j'ai cru qu'elle fuyait les soins,
+Et que, de mes Rivaux, je redoutais le moins.
+
+Monsieur, encore un coup, laissez-moi, s'il vous plaît,
+Et ne prenez souci que de votre intérêt.
+
+Madame, c'est à vous qu'appartient cet Ouvrage,
+C'est à vous, que mon Coeur a recours, aujourd'hui,
+Pour pouvoir s'affranchir de son cuisant ennui.
+Vengez-moi d'une ingrate, et perfide Parente,
+Qui trahit, lâchement, une ardeur si constante ;
+Vengez-moi de ce trait qui doit vous faire horreur.
+
+      En recevant mon Coeur.
+Acceptez-le, Madame, au lieu de l'Infidèle,
+C'est par là, que je puis prendre vengeance d'elle :
+Et je la veux punir par les sincères Voeux,
+Par le profond Amour, les Soins respectueux,
+Les Devoirs empressés et l'assidu Service
+Dont ce Coeur va vous faire un ardent Sacrifice.
+
+Non, non, Madame, non, l'Offense est trop mortelle,
+Il n'est point de retour, et je romps avec elle ;
+Rien ne saurait changer le Dessein que j'en fais,
+Et je me punirais, de l'estimer jamais.
+La voici. Mon Courroux redouble à cette approche,
+Je vais, de sa noirceur, lui faire un vif reproche,
+Pleinement, la confondre, et vous porter, après,
+Un Coeur tout dégagé de ses trompeurs Attraits.
+
+Ô Ciel ! de mes Transports, puis-je être, ici, le Maître ?
+
+Que toutes les Horreurs, dont une Âme est capable,
+À vos Déloyautés, n'ont rien de comparable :
+Que le Sort, les Démons, et le Ciel, en courroux,
+N'ont, jamais, rien produit de si méchant que vous.
+
+Ah ! ne plaisantez point, il n'est pas temps de rire,
+Rougissez, bien plutôt, vous en avez raison :
+Et j'ai de sûrs Témoins de votre Trahison.
+Voilà ce que marquaient les Troubles de mon Âme,
+Ce n'était pas en vain, que s'alarmait ma flamme :
+Par ces fréquents Soupçons, qu'on trouvait odieux,
+Je cherchais le malheur qu'ont rencontré mes yeux :
+Et malgré tous vos soins, et votre adresse à feindre,
+Mon Astre me disait, ce que j'avais à craindre :
+Mais ne présumez pas que, sans être vengé,
+Je souffre le Dépit de me voir outragé.
+Je sais que, sur les Vœux, on n'a point de puissance,
+Que l'Amour veut, partout, naître sans Dépendance ;
+Que jamais, par la force, on n'entra dans un Coeur,
+Et que toute Âme est libre à nommer son Vainqueur.
+Aussi ne trouverais-je aucun sujet de Plainte,
+Si, pour moi, votre Bouche avait parlé sans feinte ;
+Et, rejetant mes voeux dès le premier abord,
+Mon Coeur n'aurait eu droit de s'en prendre qu'au Sort.
+Mais, d'un Aveu trompeur, voir ma Flamme applaudie,
+C'est une Trahison, c'est une Perfidie,
+Qui ne saurait trouver de trop grands Châtiments :
+Et je puis tout permettre à mes Ressentiments.
+Oui, oui, redoutez tout, après un tel Outrage,
+Je ne suis plus à moi, je suis tout à la Rage :
+Percé du Coup mortel dont vous m'assassinez,
+Mes Sens, par la Raison, ne sont plus gouvernés ;
+Je cède aux Mouvements d'une juste Colère,
+Et je ne réponds pas de ce que je puis faire.
+
+Oui, oui, je l'ai perdu, lorsque dans votre vue
+J'ai pris, pour mon Malheur, le Poison qui me tue,
+Et que j'ai cru trouver quelque Sincérité
+Dans les traîtres Appas dont je fus enchanté.
+
+Ah ! que ce Coeur est double, et sait bien l'Art de feindre !
+Mais, pour le mettre à bout, j'ai des Moyens tous prêts :
+Jetez ici les yeux, et connaissez vos Traits ;
+Ce Billet découvert, suffit pour vous confondre,
+Et, contre ce Témoin, on n a rien à répondre.
+
+Vous ne rougissez pas, en voyant cet Écrit ?
+
+Quoi ! vous joignez, ici, l'Audace, à l'Artifice ?
+Le désavouerez-vous, pour n'avoir point de seing ?
+
+Et vous pouvez le voir, sans demeurer confuse
+Du Crime dont, vers moi, son Style vous accuse ?
+
+Quoi ? vous bravez, ainsi, ce Témoin convaincant ?
+Et ce qu'il m'a fait voir de douceur pour Oronte,
+N'a, donc, rien qui m'outrage, et qui vous fasse honte ?
+
+Les Gens qui, dans mes mains, l'ont remise, aujourd'hui.
+Mais je veux consentir qu'elle soit pour un autre,
+Mon Coeur en a-t-il moins à se plaindre du vôtre ?
+En serez-vous, vers moi, moins coupable en effet ?
+
+Ah ! le Détour est bon, et l'Excuse admirable,
+Je ne m'attendais pas, je l'avoue, à ce Trait :
+Et me voilà, par là, convaincu tout à fait.
+Osez-vous recourir à ces Ruses grossières,
+Et croyez-vous les Gens si privés de Lumières ?
+Voyons, voyons, un peu, par quel biais, de quel air,
+Vous voulez soutenir un Mensonge si clair :
+Et comment vous pourrez tourner, pour une Femme,
+Tous les Mots d'un Billet qui montre tant de flamme ?
+Ajustez, pour couvrir un manquement de Foi,
+Ce que je m'en vais lire…
+
+Non, non, sans s'emporter, prenez, un peu, souci
+De me justifier les Termes que voici.
+
+De grâce, montrez-moi, je serai satisfait,
+Qu'on peut, pour une Femme, expliquer ce Billet.
+
+Ciel ! rien de plus cruel peut-il être inventé :
+Et, jamais, Coeur fut-il de la sorte traité ?
+Quoi ! d'un juste Courroux je suis ému contre elle,
+C'est moi qui me viens plaindre, et c'est moi qu'on querelle !
+On pousse ma Douleur, et mes Soupçons à bout,
+On me laisse tout croire, on fait gloire de tout ;
+Et, cependant, mon Coeur est, encore, assez lâche,
+Pour ne pouvoir briser la Chaîne qui l'attache,
+Et pour ne pas s'armer d'un généreux Mépris
+Contre l'ingrat Objet dont il est trop épris !
+Ah ! que vous savez bien, ici, contre moi-même,
+Perfide, vous servir de ma faiblesse extrême,
+Et ménager, pour vous, l'excès prodigieux
+De ce fatal Amour, né de vos traîtres yeux !
+Défendez-vous, au moins, d'un Crime qui m'accable,
+Et cessez d'affecter d'être, envers moi, coupable ;
+Rendez-moi, s'il se peut, ce Billet innocent,
+À vous prêter les mains ma Tendresse consent ;
+Efforcez-vous, ici, de paraître fidèle,
+Et je m'efforcerai, moi, de vous croire telle.
+
+Ah ! Traîtresse, mon Faible est étrange pour vous !
+Vous me trompez, sans doute, avec des Mots si doux :
+Mais, il n'importe, il faut suivre ma Destinée,
+À votre Foi, mon Âme est toute abandonnée,
+Je veux voir, jusqu'au bout, quel sera votre Coeur :
+Et si, de me trahir, il aura la Noirceur.
+
+Ah ! rien n'est comparable à mon amour extrême ;
+Et, dans l'ardeur qu'il a de se montrer à tous,
+Il va jusqu'à former des Souhaits contre vous.
+Oui, je voudrais qu'aucun ne vous trouvât aimable,
+Que vous fussiez réduite en un Sort misérable,
+Que le Ciel, en naissant, ne vous eût donné rien,
+Que vous n'eussiez ni Rang, ni Naissance, ni Bien,
+Afin que, de mon Coeur, l'éclatant Sacrifice,
+Vous pût d'un pareil Sort, réparer l'Injustice :
+Et que j'eusse la joie, et la gloire, en ce jour,
+De vous voir tenir tout, des mains de mon Amour.
+
+Que veut cet équipage, et cet air effaré ?
+Qu'as-tu ?
+
+      Hé bien.
+
+Qu'est-ce ?
+
+Quoi ?
+
+      Oui, parle, et promptement.
+
+      Ah ! que d'amusement !
+Veux-tu parler ?
+
+Comment ?
+
+Et pourquoi ?
+
+La cause ?
+
+Mais, par quelle Raison, me tiens-tu ce langage ?
+
+Ah ! je te casserai la tête, assurément,
+Si tu ne veux, Maraut, t'expliquer autrement.
+
+Hé bien ? quoi ? ce Papier, qu'a-t-il à démêler,
+Traître, avec le Départ dont tu viens me parler ?
+
+Laisse là, son Nom, Traître, et dis ce qu'il t'a dit.
+
+Mais quoi ? n'a-t-il voulu te rien spécifier ?
+
+Donne-le donc.
+
+Je ne sais ; mais j'aspire à m'en voir éclairci.
+Auras-tu bientôt fait, Impertinent au Diable ?
+
+Je ne sais qui me tient…
+
+Il semble que le Sort, quelque soin que je prenne,
+Ait juré d'empêcher que je vous entretienne :
+Mais, pour en triompher, souffrez à mon Amour,
+De vous revoir, Madame, avant la fin du Jour.
+
+La résolution est prise, vous dis-je.
+
+Non, vous avez beau faire, et beau me raisonner,
+Rien de ce que je dis, ne me peut détourner :
+Trop de Perversité règne au Siècle où nous sommes,
+Et je veux me tirer du Commerce des Hommes.
+Quoi ! contre ma Partie, on voit, tout à la fois,
+L'Honneur, la Probité, la Pudeur, et les Lois :
+On publie, en tous Lieux, l'équité de ma Cause :
+Sur la Foi de mon Droit, mon Âme se repose :
+Cependant, je me vois trompé par le Succès,
+J'ai pour moi la Justice, et je perds mon Procès !
+Un Traître, dont on sait la scandaleuse Histoire,
+Est sorti triomphant d'une Fausseté noire !
+Toute la Bonne Foi cède à sa Trahison !
+Il trouve, en m'égorgeant, moyen d'avoir raison !
+Le poids de sa Grimace, où brille l'Artifice,
+Renverse le bon Droit, et tourne la Justice !
+Il fait, par un Arrêt, couronner son Forfait :
+Et non content, encor, du Tort que l'on me fait,
+Il court, parmi le Monde, un Livre abominable,
+Et de qui la lecture est, même, condamnable !
+Un Livre à mériter la dernière Rigueur,
+Dont le Fourbe a le front de me faire l'Auteur !
+Et, là-dessus, on voit Oronte qui murmure,
+Et tâche, méchamment, d'appuyer l'Imposture !
+Lui, qui d'un honnête Homme, à la Cour tient le Rang !
+À qui je n'ai rien fait, qu'être sincère, et franc !
+Qui me vient, malgré moi, d'une ardeur empressée,
+Sur des Vers qu'il a faits, demander ma pensée !
+Et parce que j'en use avec honnêteté,
+Et ne le veux trahir, lui, ni la Vérité,
+Il aide à m'accabler d'un Crime imaginaire :
+Le voilà devenu mon plus grand Adversaire !
+Et jamais, de son Cœur, je n'aurai de pardon,
+Pour n'avoir pas trouvé que son Sonnet fût bon !
+Et les Hommes, morbleu, sont faits de cette sorte !
+C'est à ces Actions que la Gloire les porte !
+Voilà la Bonne Foi, le Zèle vertueux,
+La Justice, et l'Honneur, que l'on trouve chez eux !
+Allons, c'est trop souffrir les Chagrins qu'on nous forge,
+Tirons-nous de ce Bois, et de ce Coupe-gorge ;
+Puisque entre Humains, ainsi, vous vivez en vrais Loups,
+Traîtres, vous ne m'aurez de ma vie, avec vous.
+
+Lui ! de semblables Tours, il ne craint point l'éclat,
+Il a permission d'être franc Scélérat ;
+Et loin qu'à son Crédit nuise cette Aventure,
+On l'en verra, demain, en meilleure posture.
+
+      Non, je veux m'y tenir.
+Quelque sensible Tort qu'un tel Arrêt me fasse,
+Je me garderai bien de vouloir qu'on le casse :
+On y voit trop à plein le bon Droit maltraité,
+Et je veux qu'il demeure à la Postérité,
+Comme une Marque insigne, un fameux Témoignage,
+De la méchanceté des Hommes de notre Âge.
+Ce sont vingt mille Francs qu'il m'en pourra coûter,
+Mais, pour vingt mille Francs, j'aurai droit de pester
+Contre l'Iniquité de la Nature Humaine,
+Et de nourrir, pour elle, une immortelle Haine.
+
+      Mais, enfin, vos Soins sont superflus :
+Que pouvez-vous, Monsieur, me dire là-dessus ?
+Aurez-vous bien le front de me vouloir, en face,
+Excuser les horreurs de tout ce qui se passe ?
+
+Je sais que vous parlez, Monsieur, le mieux du Monde,
+En beaux Raisonnements, vous abondez toujours,
+Mais vous perdez le Temps, et tous vos beaux Discours.
+La Raison, pour mon Bien, veut que je me retire,
+Je n'ai point, sur ma langue, un assez grand empire ;
+De ce que je dirais, je ne répondrais pas,
+Et je me jetterais cent Choses sur les Bras.
+Laissez-moi, sans dispute, attendre Célimène.
+Il faut qu'elle consente au Dessein qui m'amène ;
+Je vais voir si son Cœur a de l'amour pour moi,
+Et c'est ce moment-ci, qui doit m'en faire foi.
+
+Non, de trop de souci, je me sens l'Âme émue,
+Allez-vous-en la voir, et me laissez enfin,
+Dans ce petit Coin sombre, avec mon noir Chagrin.
+
+Oui, Monsieur a raison ; Madame, il faut choisir,
+Et sa demande, ici, s'accorde à mon désir ;
+Pareille ardeur me presse, et même soin m'amène,
+Mon Amour veut du vôtre, une marque certaine.
+Les Choses ne sont plus pour traîner en longueur,
+Et voici le moment d'expliquer votre Coeur.
+
+Je ne veux point, Monsieur, jaloux, ou non jaloux,
+Partager de son Cœur, rien du tout avec vous.
+
+Si du moindre Penchant elle est pour vous capable…
+
+Je jure, hautement, de ne la voir jamais.
+
+Madame, vous pouvez vous expliquer sans crainte.
+
+Vous n'avez qu'à trancher, et choisir de nous deux.
+
+Quoi ! votre Âme balance, et paraît incertaine !
+
+      Et moi, je le demande ;
+C'est son éclat, surtout, qu'ici j'ose exiger,
+Et je ne prétends point vous voir rien ménager.
+Conserver tout le Monde, est votre grande étude,
+Mais plus d'amusement, et plus d'incertitude ;
+Il faut vous expliquer, nettement, là-dessus,
+Ou bien, pour un Arrêt, je prends votre refus :
+Je saurai, de ma part, expliquer ce silence,
+Et me tiendrai pour dit, tout le mal que j'en pense.
+
+Tous vos Détours, ici, seront mal secondés.
+
+Il ne faut que poursuivre à garder le Silence.
+
+Et moi, je vous entends, si vous ne parlez pas.
+
+      Laissez-moi, Madame, je vous prie,
+Vider mes intérêts, moi-même, là-dessus,
+Et ne vous chargez point de ces Soins superflus.
+Mon Coeur a beau vous voir prendre, ici, sa querelle,
+Il n'est point en état de payer ce grand zèle ;
+Et ce n'est pas à vous, que je pourrai songer,
+Si, par un autre Choix, je cherche à me venger.
+
+Hé bien, je me suis tu, malgré ce que je vois,
+Et j'ai laissé parler tout le Monde, avant moi.
+Ai-je pris sur moi-même, un assez long Empire,
+Et puis-je maintenant...
+
+      Hé le puis-je, Traîtresse,
+Puis-je, ainsi, triompher de toute ma tendresse ?
+Et quoique avec ardeur, je veuille vous haïr,
+Trouvé-je un Cœur, en moi, tout prêt à m'obéir ?
+Vous voyez ce que peut une indigne Tendresse,
+Et je vous fais tous deux témoins de ma faiblesse.
+Mais, à vous dire vrai, ce n'est pas encor, tout,
+Et vous allez me voir la pousser jusqu'au bout,
+Montrer que c'est à tort, que Sages on nous nomme,
+Et que, dans tous les Cœurs, il est toujours de l'Homme.
+Oui, je veux bien, Perfide, oublier vos Forfaits,
+J'en saurai, dans mon Âme, excuser tous les traits,
+Et me les couvrirai du nom d'une Faiblesse,
+Où le Vice du Temps, porte votre Jeunesse ;
+Pourvu que votre Coeur veuille donner les mains
+Au Dessein que j'ai fait de fuir tous les Humains,
+Et que, dans mon Désert, où j'ai fait voeu de vivre,
+Vous soyez, sans tarder, résolue à me suivre.
+C'est par là, seulement, que, dans tous les Esprits,
+Vous pouvez réparer le mal de vos Écrits ;
+Et qu'après cet éclat, qu'un noble Coeur abhorre,
+Il peut m'être permis de vous aimer encore.
+
+Et s'il faut qu'à mes feux votre Flamme réponde,
+Que vous doit importer tout le reste du Monde ?
+Vos Désirs, avec moi, ne sont-ils pas contents ?
+
+      Non, mon Cœur, à présent, vous déteste,
+Et ce refus, lui seul, fait plus que tout le reste :
+Puisque vous n'êtes point, en des Liens si doux,
+Pour trouver tout en moi, comme moi tout en vous,
+Allez, je vous refuse, et ce sensible Outrage,
+De vos indignes Fers, pour jamais me dégage.
+Madame, cent Vertus ornent votre Beauté,
+Et je n'ai vu, qu'en vous, de la sincérité :
+De vous, depuis longtemps, je fais un cas extrême,
+Mais laissez-moi, toujours, vous estimer de même :
+Et souffrez que mon Coeur, dans ses troubles divers,
+Ne se présente point à l'honneur de vos Fers ;
+Je m'en sens trop indigne, et commence à connaître,
+Que le Ciel, pour ce Nœud, ne m'avait point fait naître ;
+Que ce serait, pour vous, un Hommage trop bas,
+Que le rebut d'un Coeur qui ne vous valait pas :
+Et qu'enfin…
+
+Puissiez-vous, pour goûter de vrais contentements,
+L'un pour l'autre, à jamais, garder ces Sentiments.
+Trahi de toutes parts, accablé d'Injustices,
+Je vais sortir d'un Gouffre où triomphent les Vices ;
+Et chercher sur la Terre, un endroit écarté,
+Où d'être Homme d'honneur, on ait la liberté.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_philinte
+
+Qu'est-ce donc ? qu'avez-vous ?
+
+Mais, encor, dites-moi, quelle bizarrerie...
+
+Mais on entend les Gens, au moins, sans se fâcher.
+
+Dans vos brusques chagrins, je ne puis vous comprendre ;
+Et quoique amis, enfin, je suis tout des premiers...
+
+Je suis, donc, bien coupable, Alceste, à votre compte ?
+
+Je ne vois pas, pour moi, que le cas soit pendable ;
+Et je vous supplierai d'avoir pour agréable,
+Que je me fasse un peu, grâce sur votre Arrêt,
+Et ne me pende pas, pour cela, s'il vous plaît.
+
+Mais, sérieusement, que voulez-vous qu'on fasse ?
+
+Lorsqu'un Homme vous vient embrasser avec joie,
+Il faut bien le payer de la même monnaie,
+Répondre, comme on peut, à ses empressements,
+Et rendre offre pour offre, et serments pour serments.
+
+Mais quand on est du Monde, il faut bien que l'on rende
+Quelques Dehors civils, que l'Usage demande.
+
+Il est bien des endroits, où la pleine Franchise
+Deviendrait ridicule, et serait peu permise ;
+Et, parfois, n'en déplaise à votre austère Honneur,
+Il est bon de cacher ce qu'on a dans le cœur.
+Serait-il à propos, et de la Bienséance,
+De dire à mille Gens tout ce que d'eux, on pense ?
+Et quand on a quelqu'un qu'on hait, ou qui déplaît,
+Lui doit-on déclarer la chose comme elle est ?
+
+      Quoi ! vous iriez dire à la vieille Émilie,
+Qu'à son âge, il sied mal de faire la jolie ?
+Et que le blanc qu'elle a, scandalise chacun ?
+
+      À Dorilas, qu'il est trop importun :
+Et qu'il n'est à la Cour, oreille qu'il ne lasse,
+À conter sa bravoure, et l'éclat de sa Race ?
+
+      Vous vous moquez.
+
+Ce chagrin Philosophe est un peu trop sauvage,
+Je ris des noirs accès où je vous envisage ;
+Et crois voir, en nous deux, sous mêmes soins nourris,
+Ces deux Frères que peint L'École des Maris,
+Dont...
+
+Non, tout de bon, quittez toutes ces incartades,
+Le Monde, par vos soins ne se changera pas ;
+Et puisque la Franchise a, pour vous, tant d'appas,
+Je vous dirai tout franc, que cette maladie,
+Partout où vous allez, donne la Comédie,
+Et qu'un si grand courroux contre les Mœurs du Temps,
+Vous tourne en Ridicule auprès de bien des Gens.
+
+Vous voulez un grand mal à la Nature Humaine !
+
+Tous les pauvres Mortels, sans nulle exception,
+Seront enveloppés dans cette aversion ?
+Encore en est-il bien, dans le Siècle où nous sommes…
+
+Mon Dieu, des Mœurs du Temps, mettons-nous moins en peine,
+Et faisons un peu grâce à la Nature Humaine ;
+Ne l'examinons point dans la grande rigueur,
+Et voyons ses défauts, avec quelque douceur.
+Il faut, parmi le Monde, une Vertu traitable,
+À force de Sagesse on peut être blâmable,
+La parfaite Raison fuit toute extrémité,
+Et veut que l'on soit sage avec sobriété.
+Cette grande raideur des Vertus des vieux Âges,
+Heurte trop notre Siècle, et les communs Usages,
+Elle veut aux Mortels trop de perfection,
+Il faut fléchir au Temps, sans obstination ;
+Et c'est une folie, à nulle autre seconde,
+De vouloir se mêler de corriger le Monde.
+J'observe, comme vous, cent choses, tous les jours,
+Qui pourraient mieux aller, prenant un autre cours :
+Mais quoique à chaque pas, je puisse voir paraître,
+En courroux, comme vous, on ne me voit point être ;
+Je prends, tout doucement, les Hommes comme ils sont ;
+J'accoutume mon Âme à souffrir ce qu'ils font ;
+Et je crois qu'à la Cour, de même qu'à la Ville,
+Mon Flegme est Philosophe, autant que votre Bile.
+
+Oui, je vois ces Défauts dont votre âme murmure,
+Comme Vices unis à l'Humaine Nature ;
+Et mon esprit, enfin, n'est pas plus offensé,
+De voir un Homme fourbe, injuste, intéressé,
+Que de voir des Vautours affamés de carnage,
+Des Singes malfaisants, et des Loups pleins de rage.
+
+Ma foi, vous ferez bien de garder le silence ;
+Contre votre Partie, éclatez un peu moins,
+Et donnez au Procès, une part de vos soins.
+
+Mais qui voulez-vous donc, qui, pour vous, sollicite ?
+
+Aucun Juge, par vous, ne sera visité ?
+
+J'en demeure d'accord ; mais la Brigue est fâcheuse,
+Et…
+
+      Ne vous y fiez pas.
+
+      Votre Partie est forte,
+Et peut, par sa Cabale, entraîner…
+
+Vous vous tromperez.
+
+Mais…
+
+Mais, enfin…
+
+Quel Homme !
+
+On se rirait de vous, Alceste, tout de bon,
+Si l'on vous entendait parler de la façon.
+
+      Mais cette Rectitude,
+Que vous voulez, en tout, avec exactitude,
+Cette pleine Droiture où vous vous renfermez,
+La trouvez-vous ici, dans ce que vous aimez ?
+Je m'étonne, pour moi, qu'étant, comme il le semble,
+Vous et le Genre Humain, si fort brouillés ensemble,
+Malgré tout ce qui peut vous le rendre odieux,
+Vous ayez pris, chez lui, ce qui charme vos yeux ;
+Et ce qui me surprend, encore, davantage,
+C'est cet étrange Choix où votre Coeur s'engage.
+La sincère Éliante a du penchant pour vous,
+La prude Arsinoé vous voit d'un oeil fort doux :
+Cependant, à leurs voeux, votre âme se refuse,
+Tandis qu'en ses liens Célimène l'amuse,
+De qui l'humeur coquette, et l'esprit médisant,
+Semble si fort donner dans les Moeurs d'à présent.
+D'où vient que leur portant une haine mortelle,
+Vous pouvez bien souffrir ce qu'en tient cette Belle ?
+Ne sont-ce plus Défauts dans un Objet si doux ?
+Ne les voyez-vous pas ? ou les excusez-vous ?
+
+Si vous faites cela, vous ne ferez pas peu.
+Vous croyez être, donc, aimé d'elle ?
+
+Mais si son amitié, pour vous, se fait paraître,
+D'où vient que vos Rivaux vous causent de l'ennui ?
+
+Pour moi, si je n'avais qu'à former des désirs,
+Sa Cousine Eliante aurait tous mes soupirs,
+Son Cœur, qui vous estime, est solide, et sincère ;
+Et ce Choix plus conforme, était mieux votre affaire.
+
+Je crains fort pour vos Feux ; et l'espoir où vous êtes,
+Pourrait…
+
+Je suis déjà charmé de ce petit morceau.
+
+Ah ! qu'en termes galants, ces choses-là sont mises !
+
+La chute en est jolie, amoureuse, admirable.
+
+Je n'ai jamais ouï de Vers si bien tournés.
+
+Non, je ne flatte point.
+
+Eh ! Messieurs, c'en est trop, laissez cela, de grâce.
+
+Hé bien, vous le voyez ; pour être trop sincère,
+Vous voilà sur les bras, une fâcheuse Affaire ;
+Et j'ai bien vu qu'Oronte, afin d'être flatté…
+
+      Mais…
+
+C'est trop…
+
+      Si je…
+
+Mais quoi…
+
+      Mais…
+
+      On outrage…
+
+Vous vous moquez de moi, je ne vous quitte pas.
+
+On fait assez de cas de son Oncle Damis ;
+Qu'en dites-vous, Madame ?
+
+Je le trouve honnête Homme, et d'un air assez sage.
+
+Mais pourquoi, pour ces Gens, un intérêt si grand,
+Vous, qui condamneriez, ce qu'en eux on reprend ?
+
+Mais il est véritable, aussi, que votre Esprit
+Se gendarme, toujours, contre tout ce qu'on dit ;
+Et que, par un chagrin, que lui-même il avoue,
+Il ne saurait souffrir qu'on blâme, ni qu'on loue.
+
+C'est d'Oronte, et de Vous, la ridicule Affaire.
+
+      Oronte, et lui, se sont tantôt bravés,
+Sur certains petits Vers, qu'il n'a pas approuvés ;
+Et l'on veut assoupir la chose, en sa naissance.
+
+Mais il faut suivre l'Ordre, allons, disposez-vous…
+
+      Mais d'un plus doux Esprit…
+
+Vous devez faire voir des Sentiments traitables ;
+Allons, venez.
+
+      Allons vous faire voir.
+
+Non, l'on n'a point vu d'Âme à manier, si dure,
+Ni d'Accommodement plus pénible à conclure ;
+En vain, de tous côtés, on l'a voulu tourner,
+Hors de son Sentiment, on n'a pu l'entraîner ;
+Et, jamais, Différend si bizarre, je pense,
+N'avait de ces Messieurs, occupé la prudence.
+Non, Messieurs, disait-il, je ne me dédis point,
+Et tomberai d'accord de tout, hors de ce Point.
+De quoi s'offense-t-il ? et que veut-il me dire ?
+Y va-t-il de sa gloire, à ne pas bien écrire ?
+Que lui fait mon avis, qu'il a pris de travers ?
+On peut être honnête Homme, et faire mal des Vers ;
+Ce n'est point à l'Honneur, que touchent ces matières,
+Je le tiens galant Homme en toutes les manières,
+Homme de Qualité, de Mérite et de Coeur,
+Tout ce qu'il vous plaira, mais fort méchant Auteur.
+Je louerai, si l'on veut, son Train, et sa Dépense,
+Son adresse, à Cheval, aux Armes, à la Danse ;
+Mais, pour louer ses Vers, je suis son Serviteur ;
+Et lorsque d'en mieux faire, on n'a pas le bonheur,
+On ne doit, de Rimer, avoir aucune envie,
+Qu'on n'y soit condamné, sur peine de la Vie.
+Enfin, toute la Grâce, et l'Accommodement,
+Où s'est, avec effort, plié son Sentiment,
+C'est de dire, croyant adoucir bien son style,
+Monsieur, je suis fâché d'être si difficile ;
+Et, pour l'amour de vous, je voudrais, de bon coeur,
+Avoir trouvé, tantôt, votre Sonnet meilleur ;
+Et dans une Embrassade, on leur a, pour conclure,
+Fait vite envelopper toute la Procédure.
+
+Pour moi, plus je le vois, plus, surtout, je m'étonne
+De cette Passion où son Coeur s'abandonne :
+De l'humeur dont le Ciel a voulu le former,
+Je ne sais pas comment il s'avise d'aimer ;
+Et je sais moins, encor, comment votre Cousine
+Peut être la Personne où son Penchant l'incline.
+
+Mais, croyez-vous qu'on l'aime, aux choses qu'on peut voir ?
+
+Je crois que notre Ami, près de cette Cousine,
+Trouvera des chagrins plus qu'il ne s'imagine ;
+Et s'il avait mon Coeur, à dire vérité,
+Il tournerait ses voeux tout d'un autre côté ;
+Et par un choix plus juste, on le verrait, Madame,
+Profiter des bontés que lui montre votre Âme.
+
+Et moi, de mon côté, je ne m'oppose pas,
+Madame, à ces bontés qu'ont, pour lui, vos Appas ;
+Et lui-même, s'il veut, il peut bien vous instruire
+De ce que, là-dessus, j'ai pris soin de lui dire.
+Mais si, par un Hymen, qui les joindrait eux deux,
+Vous étiez hors d'état de recevoir ses voeux,
+Tous les miens tenteraient la faveur éclatante,
+Qu'avec tant de bonté, votre Âme lui présente ;
+Heureux si, quand son Coeur s'y pourra dérober,
+Elle pouvait sur moi, Madame, retomber.
+
+      Non, Madame,
+Et je vous parle, ici, du meilleur de mon Âme ;
+J'attends l'occasion de m'offrir hautement,
+Et de tous mes souhaits, j'en presse le moment.
+
+Peut-être, est-ce un Soupçon conçu légèrement,
+Et votre esprit jaloux, prend, parfois des Chimères…
+
+Une Lettre peut bien tromper par l'apparence,
+Et n'est pas, quelquefois si coupable, qu'on pense.
+
+Mais, quel que soit ce Coup, faut-il qu'il vous oblige…
+
+Je trouve un peu bien prompt, le Dessein où vous êtes,
+Et tout le mal n'est pas si grand que vous le faites :
+Ce que votre Partie ose vous imputer,
+N'a point eu le crédit de vous faire arrêter ;
+On voit son faux Rapport, lui-même, se détruire,
+Et c'est une Action qui pourrait bien lui nuire.
+
+Enfin, il est constant qu'on n'a point trop donné
+Au Bruit que, contre vous, sa Malice a tourné :
+De ce côté, déjà, vous n'avez rien à craindre :
+Et pour votre Procès, dont vous pouvez vous plaindre,
+Il vous est, en Justice, aisé d'y revenir,
+Et contre cet Arrêt…
+
+Mais, enfin…
+
+Non, je tombe d'accord de tout ce qu'il vous plaît,
+Tout marche par Cabale, et par pur Intérêt ;
+Ce n'est plus que la Ruse aujourd'hui, qui l'emporte,
+Et les Hommes devraient être faits d'autre sorte.
+Mais est-ce une Raison, que leur peu d'Équité,
+Pour vouloir se tirer de leur Société ?
+Tous ces Défauts humains nous donnent, dans la Vie,
+Des Moyens d'exercer notre Philosophie,
+C'est le plus bel Emploi que trouve la Vertu ;
+Et si, de Probité, tout était revêtu,
+Si tous les Coeurs étaient, francs, justes, et dociles,
+La plupart des Vertus nous seraient inutiles,
+Puisqu'on en met l'usage à pouvoir, sans ennui,
+Supporter dans nos Droits, l'Injustice d'Autrui :
+Et de même qu'un Cœur, d'une Vertu profonde…
+
+Montons chez Eliante, attendant sa venue.
+
+C'est une Compagnie étrange, pour attendre,
+Et je vais obliger Eliante à descendre.
+
+Ah ! Cet honneur, Madame, est toute mon envie,
+Et j'y sacrifierais et mon Sang, et ma Vie.
+
+Allons, Madame, allons employer toute chose,
+Pour rompre le Dessein que son Coeur se propose.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_oronte
+
+      J'ai su là-bas que, pour quelques Emplettes
+Éliante est sortie, et Célimène aussi :
+Mais, comme l'on m'a dit que vous étiez ici,
+J'ai monté, pour vous dire, et d'un coeur véritable,
+Que j'ai conçu pour vous, une estime incroyable ;
+Et que, depuis longtemps, cette estime m'a mis
+Dans un ardent désir d'être de vos Amis.
+Oui, mon Coeur, au Mérite aime à rendre justice,
+Et je brûle qu'un noeud d'Amitié nous unisse :
+Je crois qu'un Ami chaud, et de ma Qualité,
+N'est pas, assurément, pour être rejeté.
+C'est à vous, s'il vous plaît, que ce discours s'adresse.
+
+      À vous. Trouvez-vous qu'il vous blesse ?
+
+L'estime où je vous tiens ne doit point vous surprendre,
+Et de tout l'Univers, vous la pouvez prétendre.
+
+      L'État n'a rien qui ne soit au-dessous
+Du Mérite éclatant que l'on découvre en vous.
+
+      Oui, de ma part, je vous tiens préférable
+A tout ce que j'y vois de plus considérable.
+
+      Sois-je du Ciel écrasé, si je mens ;
+Et pour vous confirmer ici, mes Sentiments,
+Souffrez qu'à coeur ouvert, Monsieur, je vous embrasse,
+Et qu'en votre Amitié, je vous demande place.
+Touchez-là, s'il vous plaît, Vous me la promettez
+Votre Amitié ?
+
+      Quoi ? vous y résistez ?
+
+Parbleu, c'est là-dessus, parler en Homme sage,
+Et je vous en estime, encore, davantage :
+Souffrons, donc, que le Temps forme des noeuds si doux.
+Mais, cependant, je m'offre entièrement à vous ;
+S'il faut faire à la Cour, pour vous, quelque ouverture,
+On sait, qu'auprès du Roi, je fais quelque Figure,
+Il m'écoute, et dans tout, il en use, ma foi,
+Le plus honnêtement du Monde, avecque moi.
+Enfin, je suis à vous, de toutes les manières ;
+Et, comme votre Esprit a de grandes lumières,
+Je viens, pour commencer, entre nous, ce beau noeud,
+Vous montrer un Sonnet, que j'ai fait depuis peu,
+Et savoir s'il est bon qu'au Public je l'expose.
+
+      Pourquoi ?
+
+C'est ce que je demande, et j'aurais lieu de plainte,
+Si m'exposant à vous, pour me parler sans feinte,
+Vous alliez me trahir, et me déguiser rien.
+
+Sonnet... C'est un Sonnet. L'Espoir… C'est une Dame,
+Qui, de quelque espérance, avait flatté ma flamme.
+L'Espoir… Ce ne sont point de ces grands Vers pompeux,
+Mais de petits Vers doux, tendres, et langoureux.
+
+      L'Espoir… Je ne sais si le style
+Pourra vous en paraître assez net, et facile ;
+Et si, du choix des Mots, vous vous contenterez.
+
+      Au reste, vous saurez,
+Que je n'ai demeuré qu'un quart d'heure à le faire.
+
+
+L'Espoir, il est vrai, nous soulage,
+Et nous berce un temps, notre ennui ;
+Mais, Philis, le triste avantage,
+Lorsque rien ne marche après lui !
+
+
+Vous eûtes de la Complaisance,
+Mais vous en deviez moins avoir ;
+Et ne vous pas mettre en dépense,
+Pour ne me donner que l'Espoir.
+
+
+S'il faut qu'une attente éternelle
+Pousse à bout, l'ardeur de mon zèle,
+Le Trépas sera mon recours.
+
+Vos soins ne m'en peuvent distraire ;
+Belle Philis, on désespère,
+Alors qu'on espère toujours.
+
+      Vous me flattez, et vous croyez, peut-être…
+
+Mais, pour vous, vous savez quel est notre Traité ;
+Parlez-moi, je vous prie, avec sincérité.
+
+Est-ce que vous voulez me déclarer, par là,
+Que j'ai tort de vouloir…
+
+Est-ce qu'à mon Sonnet, vous trouvez à redire ?
+
+Est-ce que j'écris mal ? et leur ressemblerais-je ?
+
+Voilà qui va fort bien, et je crois vous entendre.
+Mais ne puis-je savoir ce que dans mon Sonnet…
+
+Et moi, je vous soutiens que mes Vers sont fort bons.
+
+Il me suffit de voir que d'autres en font cas.
+
+Croyez-vous, donc, avoir tant d'Esprit en partage ?
+
+Je me passerai bien que vous les approuviez.
+
+Je voudrais bien, pour voir, que de votre manière ;
+Vous en composassiez sur la même Matière.
+
+Vous me parlez bien ferme, et cette suffisance…
+
+Mais, mon petit Monsieur, prenez-le un peu moins haut.
+
+Ah ! j'ai tort, je l'avoue, et je quitte la place ;
+Je suis votre Valet, Monsieur, de tout mon coeur.
+
+Oui, c'est à vous, de voir, si par des Noeuds si doux,
+Madame, vous voulez m'attacher tout à vous :
+Il me faut de votre Âme, une pleine assurance,
+Un Amant, là-dessus, n'aime point qu'on balance :
+Si l'ardeur de mes Feux a pu vous émouvoir,
+Vous ne devez point feindre à me le faire voir ;
+Et la preuve, après tout, que je vous en demande,
+C'est de ne plus souffrir qu'Alceste vous prétende,
+De le sacrifier, Madame, à mon Amour,
+Et, de chez vous, enfin, le bannir dès ce jour.
+
+Madame, il ne faut point ces éclaircissements,
+Il s'agit de savoir quels sont vos Sentiments :
+Choisissez, s'il vous plaît, de garder l'un, ou l'autre,
+Ma résolution n'attend rien que la vôtre.
+
+Je ne veux point, Monsieur, d'une Flamme importune,
+Troubler, aucunement, votre bonne Fortune.
+
+Si votre Amour, au mien, lui semble préférable…
+
+Je jure de n'y rien prétendre désormais.
+
+Madame, c'est à vous de parler sans contrainte.
+
+Vous n'avez qu'à nous dire où s'attachent vos voeux.
+
+Quoi ! sur un pareil Choix, vous semblez être en peine !
+
+Non, non, un franc Aveu n'a rien que j'appréhende,
+J'y consens pour ma part.
+
+Je vous sais fort bon gré, Monsieur, de ce courroux,
+Et je lui dis, ici, même chose que vous.
+
+Madame, c'est en vain que vous vous défendez.
+
+Il faut, il faut parler, et lâcher la Balance.
+
+Je ne veux qu'un seul Mot, pour finir nos débats.
+
+Quoi ! de cette façon je vois qu'on me déchire,
+Après tout ce qu'à moi, je vous ai vu m'écrire :
+Et votre Coeur paré de beaux Semblants d'Amour,
+À tout le Genre Humain se promet tour à tour !
+Allez, j'étais trop Dupe, et je vais ne plus l'être.
+Vous me faites un Bien, me faisant vous connaître ;
+J'y profite d'un Cœur, qu'ainsi vous me rendez,
+Et trouve ma vengeance, en ce que vous perdez.
+Monsieur, je ne fais plus d'obstacle à votre flamme,
+Et vous pouvez conclure Affaire avec Madame.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celimene
+
+C'est pour me quereller, donc, à ce que je vois,
+Que vous avez voulu me ramener chez moi ?
+
+Des Amants que je fais, me rendez-vous coupable ?
+Puis-je empêcher les Gens, de me trouver aimable ?
+Et lorsque, pour me voir, ils font de doux efforts,
+Dois-je prendre un Bâton, pour les mettre dehors ?
+
+Qu'injustement, de lui, vous prenez de l'ombrage !
+Ne savez-vous pas bien, pourquoi je le ménage ?
+Et que, dans mon Procès, ainsi qu'il m'a promis,
+Il peut intéresser tout ce qu'il a d'Amis.
+
+Mais, de tout l'Univers vous devenez jaloux.
+
+C'est ce qui doit rasseoir votre Âme effarouchée,
+Puisque ma Complaisance est sur tous épanchée :
+Et vous auriez plus lieu de vous en offenser,
+Si vous me la voyiez, sur un seul, ramasser.
+
+Le bonheur de savoir que vous êtes aimé.
+
+Je pense qu'ayant pris le soin de vous le dire,
+Un aveu de la sorte, a de quoi vous suffire.
+
+Certes, pour un Amant, la Fleurette est mignonne,
+Et vous me traitez, là, de gentille Personne.
+Hé bien, pour vous ôter d'un semblable souci,
+De tout ce que j'ai dit, je me dédis ici :
+Et rien ne saurait plus vous tromper, que vous-même ;
+Soyez content.
+
+Il est vrai, votre ardeur est, pour moi, sans seconde.
+
+En effet, la Méthode en est toute nouvelle,
+Car vous aimez les Gens, pour leur faire querelle ;
+Ce n'est qu'en Mots fâcheux, qu'éclate votre ardeur,
+Et l'on n'a vu jamais, un Amour si grondeur.
+
+Qu'est-ce ?
+
+      Hé bien, faites monter.
+
+Voulez-vous, qu'avec lui, je me fasse une Affaire ?
+
 C'est un Homme à jamais ne me le pardonner,
 S'il savait que sa vue eût pu m'importuner.
 
--*who_alceste
-Et que vous fait cela, pour vous gêner de sorte…
-
--*who_celimene
 Mon Dieu ! de ses Pareils, la Bienveillance importe,
 Et ce sont de ces Gens qui, je ne sais comment,
 Ont gagné, dans la Cour, de parler hautement.
@@ -969,124 +1544,39 @@ Ils ne sauraient servir, mais ils peuvent vous nuire ;
 Et jamais, quelque appui qu'on puisse avoir d'ailleurs,
 On ne doit se brouiller avec ces grands Brailleurs.
 
--*who_alceste
-Enfin, quoi qu'il en soit, et sur quoi qu'on se fonde,
-Vous trouvez des Raisons pour souffrir tout le Monde ;
-Et les précautions de votre jugement…
-
-**** *book_ *id_II03 *act_II *date_1666 *creator_moliere
-
--*who_basque
-Voici Clitandre, encor, Madame.
-
--*who_alceste
-      Justement.
-
--*who_celimene
 Où courez-vous ?
 
--*who_alceste
-      Je sors.
-
--*who_celimene
       Demeurez.
 
--*who_alceste
-      Pour quoi faire ?
-
--*who_celimene
 Demeurez.
 
--*who_alceste
-      Je ne puis.
-
--*who_celimene
       Je le veux.
 
--*who_alceste
-      Point d'affaire ;
-Ces Conversations ne font que m'ennuyer,
-Et c'est trop, que vouloir me les faire essuyer.
-
--*who_celimene
 Je le veux, je le veux.
 
--*who_alceste
-      Non, il m'est impossible.
-
--*who_celimene
 Hé bien ! allez, sortez, il vous est tout loisible.
 
-**** *book_ *id_II04 *act_II *date_1666 *creator_moliere
-
--*who_eliante
-Voici les deux Marquis, qui montent avec nous ;
-Vous l'est-on venu dire ?
-
--*who_celimene
       Oui, des Sièges pour tous.
 Vous n'êtes pas sorti ?
 
--*who_alceste
-      Non ; mais je veux, Madame,
-Ou, pour eux, ou pour moi, faire expliquer votre Âme.
-
--*who_celimene
 Taisez-vous.
 
--*who_alceste
-      Aujourd'hui, vous vous expliquerez.
-
--*who_celimene
 Vous perdez le sens.
 
--*who_alceste
-      Point. Vous vous déclarerez.
-
--*who_celimene
 Ah !
 
--*who_alceste
-      Vous prendrez Parti.
-
--*who_celimene
       Vous vous moquez, je pense.
 
--*who_alceste
-Non ; mais vous choisirez, c'est trop de patience.
-
--*who_clitandre
-Parbleu, je viens du Louvre, où Cléonte, au Levé,
-Madame, a bien paru, Ridicule achevé.
-N'a-t-il point quelque Ami qui pût, sur ses Manières,
-D'un charitable Avis, lui prêter les lumières ?
-
--*who_celimene
 Dans le Monde, à vrai dire, il se barbouille fort ;
 Partout, il porte un Air qui saute aux yeux, d'abord ;
 Et lorsqu'on le revoit, après un peu d'absence,
 On le retrouve, encor, plus plein d'extravagance.
 
--*who_acaste
-Parbleu, s'il faut parler de Gens extravagants,
-Je viens d'en essuyer un des plus fatigants ;
-Damon, le Raisonneur, qui m'a, ne vous déplaise,
-Une heure, au grand Soleil, tenu hors de ma Chaise.
-
--*who_celimene
 C'est un Parleur étrange, et qui trouve, toujours,
 L'Art de ne vous rien dire, avec de grands Discours.
 Dans les Propos qu'il tient, on ne voit jamais goutte,
 Et ce n'est que du Bruit, que tout ce qu'on écoute.
 
--*who_eliante
-Ce Début n'est pas mal ; et contre le Prochain,
-La Conversation prend un assez bon train.
-
--*who_clitandre
-Timante encor, Madame, est un bon Caractère !
-
--*who_celimene
 C'est, de la Tête aux Pieds, un Homme tout Mystère,
 Qui vous jette, en passant, un coup d'oeil égaré,
 Et, sans aucune Affaire, est toujours affairé.
@@ -1097,10 +1587,6 @@ Un Secret à vous dire, et ce Secret n'est rien ;
 De la moindre Vétille, il fait une Merveille,
 Et, jusques au Bonjour, il dit tout à l'oreille.
 
--*who_acaste
-Et Géralde, Madame ?
-
--*who_celimene
       Ô l'ennuyeux Conteur !
 Jamais, on ne le voit sortir du Grand Seigneur ;
 Dans le brillant Commerce, il se mêle, sans cesse,
@@ -1110,10 +1596,6 @@ Ne sont que de Chevaux, d'Équipage, et de Chiens ;
 Il tutoie, en parlant, ceux du plus haut Étage,
 Et le nom de Monsieur, est, chez lui, hors d'usage.
 
--*who_clitandre
-On dit qu'avec Bélise, il est du dernier Bien.
-
--*who_celimene
 Le pauvre Esprit de Femme ! et le sec entretien !
 Lorsqu'elle vient me voir, je souffre le Martyre,
 Il faut suer, sans cesse, à chercher que lui dire ;
@@ -1128,10 +1610,6 @@ Traîne en une longueur, encore, épouvantable ;
 Et l'on demande l'heure, et l'on bâille vingt fois,
 Qu'elle grouille aussi peu qu'une Pièce de Bois.
 
--*who_acaste
-Que vous semble d'Adraste ?
-
--*who_celimene
       Ah ! quel orgueil extrême !
 C'est un Homme gonflé de l'amour de soi-même ;
 Son Mérite, jamais, n'est content de la Cour,
@@ -1139,33 +1617,15 @@ Contre elle, il fait métier de pester chaque jour ;
 Et l'on ne donne Emploi, Charge ni Bénéfice,
 Qu'à tout ce qu'il se croit, on ne fasse injustice.
 
--*who_clitandre
-Mais le jeune Cléon, chez qui vont, aujourd'hui,
-Nos plus honnêtes Gens, que dites-vous de lui ?
-
--*who_celimene
 Que de son Cuisinier, il s'est fait un Mérite,
 Et que c'est à sa Table, à qui l'on rend Visite.
 
--*who_eliante
-Il prend soin d'y servir des Mets fort délicats.
-
--*who_celimene
 Oui, mais je voudrais bien qu'il ne s'y servît pas,
 C'est un fort méchant Plat, que sa sotte Personne,
 Et qui gâte, à mon goût, tous les Repas qu'il donne.
 
--*who_philinte
-On fait assez de cas de son Oncle Damis ;
-Qu'en dites-vous, Madame ?
-
--*who_celimene
       Il est de mes Amis.
 
--*who_philinte
-Je le trouve honnête Homme, et d'un air assez sage.
-
--*who_celimene
 Oui, mais il veut avoir trop d'Esprit, dont j'enrage ;
 Il est guindé sans cesse ; et dans tous ses propos,
 On voit qu'il se travaille à dire de bons Mots.
@@ -1182,39 +1642,6 @@ Ce sont Propos trop bas, pour y daigner descendre ;
 Et, les deux bras croisés, du haut de son Esprit,
 Il regarde en pitié, tout ce que chacun dit.
 
--*who_acaste
-Dieu me damne, voilà son Portrait véritable.
-
--*who_clitandre
-Pour bien peindre les Gens, vous êtes admirable !
-
--*who_alceste
-Allons, ferme, poussez, mes bons Amis de Cour,
-Vous n'en épargnez point, et chacun a son tour.
-Cependant, aucun d'eux, à vos yeux, ne se montre,
-Qu'on ne vous voie en hâte, aller à sa rencontre,
-Lui présenter la main, et d'un baiser flatteur,
-Appuyer les Serments d'être son Serviteur.
-
--*who_clitandre
-Pourquoi s'en prendre à nous ? Si ce qu'on dit, vous blesse,
-Il faut que le reproche, à Madame, s'adresse.
-
--*who_alceste
-Non, morbleu, c'est à vous ; et vos Ris complaisants
-Tirent de son Esprit, tous ces traits médisants ;
-Son Humeur Satirique est sans cesse nourrie
-Par le coupable Encens de votre Flatterie ;
-Et son Coeur, à railler, trouverait moins d'appas,
-S'il avait observé qu'on ne l'applaudît pas.
-C'est ainsi qu'aux Flatteurs, on doit, partout, se prendre
-Des Vices où l'on voit les Humains se répandre.
-
--*who_philinte
-Mais pourquoi, pour ces Gens, un intérêt si grand,
-Vous, qui condamneriez, ce qu'en eux on reprend ?
-
--*who_celimene
 Et ne faut-il pas bien que Monsieur contredise ?
 À la commune voix, veut-on qu'il se réduise,
 Et qu'il ne fasse pas éclater, en tous lieux,
@@ -1228,365 +1655,36 @@ Qu'il prend, contre lui-même, assez souvent, les armes ;
 Et ses vrais Sentiments sont combattus par lui,
 Aussitôt qu'il les voit dans la bouche d'Autrui.
 
--*who_alceste
-Les Rieurs sont pour vous, Madame, c'est tout dire ;
-Et vous pouvez pousser, contre moi, la Satire.
-
--*who_philinte
-Mais il est véritable, aussi, que votre Esprit
-Se gendarme, toujours, contre tout ce qu'on dit ;
-Et que, par un chagrin, que lui-même il avoue,
-Il ne saurait souffrir qu'on blâme, ni qu'on loue.
-
--*who_alceste
-C'est que jamais, morbleu, les Hommes n'ont raison,
-Que le Chagrin, contre eux, est toujours de Saison,
-Et que je vois qu'ils sont, sur toutes les Affaires,
-Loueurs impertinents, ou Censeurs téméraires.
-
--*who_celimene
 Mais…
 
--*who_alceste
-      Non, Madame, non, quand j'en devrais mourir,
-Vous avez des Plaisirs que je ne puis souffrir ;
-Et l'on a tort, ici, de nourrir dans votre Âme,
-Ce grand attachement aux Défauts qu'on y blâme.
-
--*who_clitandre
-Pour moi, je ne sais pas ; mais j'avouerai, tout haut,
-Que j'ai cru, jusqu'ici, Madame sans Défaut.
-
--*who_acaste
-De Grâces, et d'Attraits, je vois qu'elle est pourvue ;
-Mais les Défauts qu'elle a, ne frappent point ma vue.
-
--*who_alceste
-Ils frappent tous la mienne, et loin de m'en cacher,
-Elle sait que j'ai soin de les lui reprocher.
-Plus on aime quelqu'un, moins il faut qu'on le flatte ;
-À ne rien pardonner, le pur Amour éclate ;
-Et je bannirais, moi, tous ces lâches Amants,
-Que je verrais soumis à tous mes Sentiments,
-Et dont, à tous propos, les molles Complaisances
-Donneraient de l'Encens à mes Extravagances.
-
--*who_celimene
 Enfin, s'il faut qu'à vous, s'en rapportent les Coeurs,
 On doit, pour bien aimer, renoncer aux Douceurs ;
 Et du parfait Amour, mettre l'Honneur suprême,
 À bien injurier les Personnes qu'on aime.
 
--*who_eliante
-L'Amour, pour l'ordinaire, est peu fait à ces Lois,
-Et l'on voit les Amants vanter, toujours, leur Choix :
-Jamais, leur Passion n'y voit rien de blâmable,
-Et dans l'Objet aimé, tout leur devient aimable ;
-Ils comptent les Défauts pour des Perfections,
-Et savent y donner de favorables Noms.
-La Pâle, est aux Jasmins, en blancheur, comparable ;
-La Noire, à faire peur, une Brune adorable ;
-La Maigre, a de la taille, et de la liberté ;
-La Grasse, est, dans son Port, pleine de Majesté ;
-La Malpropre, sur soi, de peu d'Attraits chargée,
-Est mise sous le nom de Beauté négligée ;
-La Géante, paraît une Déesse aux yeux ;
-La Naine, un Abrégé des Merveilles des Cieux ;
-L'Orgueilleuse, a le Coeur digne d'une Couronne ;
-La Fourbe, a de l'Esprit ; la Sotte, est toute bonne ;
-La Trop Grande Parleuse, est d'agréable Humeur ;
-Et la Muette, garde une honnête Pudeur.
-C'est ainsi, qu'un Amant, dont l'ardeur est extrême,
-Aime, jusqu'aux Défauts des Personnes qu'il aime.
-
--*who_alceste
-Et moi, je soutiens, moi…
-
--*who_celimene
       Brisons là, ce discours,
 Et dans la Galerie, allons faire deux tours.
 Quoi ! vous vous en allez, Messieurs ?
 
--*who_clitandre_acaste
-      Non pas, Madame.
-
--*who_alceste
-La peur de leur départ, occupe fort votre Âme ;
-Sortez quand vous voudrez, Messieurs ; mais j'avertis,
-Que je ne sors qu'après que vous serez sortis.
-
--*who_acaste
-À moins de voir Madame en être importunée,
-Rien ne m'appelle, ailleurs, de toute la journée.
-
--*who_clitandre
-Moi, pourvu que je puisse être au petit Couché,
-Je n'ai point d'autre Affaire, où je sois attaché.
-
--*who_celimene
 C'est pour rire, je crois.
 
--*who_alceste
-      Non, en aucune sorte,
-Nous verrons, si c'est moi, que vous voudrez qui sorte.
-
-**** *book_ *id_II05 *act_II *date_1666 *creator_moliere
-
--*who_basque
-Monsieur, un Homme est là, qui voudrait vous parler,
-Pour Affaire, dit-il, qu'on ne peut reculer.
-
--*who_alceste
-Dis-lui, que je n'ai point d'Affaires si pressées.
-
--*who_basque
-Il porte une Jaquette, à grand'Basques plissées,
-Avec du Dor dessus.
-
--*who_celimene
       Allez voir ce que c'est,
 Ou bien, faites-le entrer.
 
--*who_alceste
-      Qu'est-ce, donc, qu'il vous plaît ?
-Venez, Monsieur.
-
-**** *book_ *id_II06 *act_II *date_1666 *creator_moliere
-
--*who_garde
-      Monsieur, j'ai deux Mots à vous dire.
-
--*who_alceste
-Vous pouvez parler haut, Monsieur, pour m'en instruire.
-
--*who_garde
-Messieurs les Maréchaux, dont j'ai commandement,
-Vous mandent de venir les trouver promptement,
-Monsieur.
-
--*who_alceste
-      Qui ? moi, Monsieur ?
-
--*who_garde
-      Vous-même.
-
--*who_alceste
-      Et pour quoi faire ?
-
--*who_philinte
-C'est d'Oronte, et de Vous, la ridicule Affaire.
-
--*who_celimene
 Comment ?
 
--*who_philinte
-      Oronte, et lui, se sont tantôt bravés,
-Sur certains petits Vers, qu'il n'a pas approuvés ;
-Et l'on veut assoupir la chose, en sa naissance.
-
--*who_alceste
-Moi, je n'aurai, jamais, de lâche Complaisance.
-
--*who_philinte
-Mais il faut suivre l'Ordre, allons, disposez-vous…
-
--*who_alceste
-Quel accommodement veut-on faire entre nous ?
-La voix de ces Messieurs, me condamnera-t-elle
-À trouver bons les Vers qui font notre Querelle ?
-Je ne me dédis point de ce que j'en ai dit,
-Je les trouve méchants.
-
--*who_philinte
-      Mais d'un plus doux Esprit…
-
--*who_alceste
-Je n'en démordrai point, les Vers sont exécrables.
-
--*who_philinte
-Vous devez faire voir des Sentiments traitables ;
-Allons, venez.
-
--*who_alceste
-      J'irai, mais rien n'aura pouvoir
-De me faire dédire.
-
--*who_philinte
-      Allons vous faire voir.
-
--*who_alceste
-Hors qu'un Commandement exprès du Roi me vienne,
-De trouver bons les Vers, dont on se met en peine,
-Je soutiendrai, toujours, morbleu, qu'ils sont mauvais,
-Et qu'un Homme est pendable, après les avoir faits.
-Par la sangbleu, Messieurs, je ne croyais pas être
-Si plaisant que je suis.
-
--*who_celimene
       Allez vite paraître
 Où vous devez.
 
--*who_alceste
-      J'y vais, Madame, et, sur mes pas
-Je reviens en ce Lieu, pour vider nos Débats.
-
-**** *book_ *id_III01 *act_III *date_1666 *creator_moliere
-
--*who_clitandre
-Cher Marquis, je te vois l'Âme bien satisfaite,
-Toute chose t'égaye, et rien ne t'inquiète.
-En bonne foi, crois-tu, sans t'éblouir les yeux,
-Avoir de grands sujets de paraître joyeux ?
-
--*who_acaste
-Parbleu, je ne vois pas, lorsque je m'examine,
-Où prendre aucun sujet d'avoir l'Âme chagrine.
-J'ai du bien, je suis jeune, et sors d'une Maison
-Qui se peut dire Noble, avec quelque raison ;
-Et je crois, par le Rang que me donne ma Race,
-Qu'il est fort peu d'Emplois, dont je ne sois en passe.
-Pour le Coeur, dont, sur tout, nous devons faire cas,
-On sait, sans vanité, que je n'en manque pas ;
-Et l'on m'a vu pousser, dans le Monde, une Affaire,
-D'une assez vigoureuse, et gaillarde manière.
-Pour de l'Esprit, j'en ai, sans doute, et du bon goût,
-À juger sans Étude, et raisonner de tout ;
-À faire aux Nouveautés, dont je suis idolâtre,
-Figure de Savant, sur les Bancs du Théâtre ;
-Y décider en Chef, et faire du Fracas
-À tous les beaux Endroits qui méritent des Has.
-Je suis assez adroit, j'ai bon air, bonne mine,
-Les Dents belles, surtout, et la taille fort fine.
-Quant à se mettre bien, je crois, sans me flatter,
-Qu'on serait mal venu de me le disputer.
-Je me vois dans l'Estime autant qu'on y puisse être,
-Fort aimé du beau Sexe, et bien auprès du Maître :
-Je crois, qu'avec cela, mon cher Marquis, je crois,
-Qu'on peut, par tout Pays, être content de soi.
-
--*who_clitandre
-Oui, mais trouvant ailleurs, des Conquêtes faciles,
-Pourquoi pousser ici des soupirs inutiles ?
-
--*who_acaste
-Moi ? parbleu, je ne suis de taille, ni d'humeur,
-À pouvoir, d'une Belle, essuyer la froideur.
-C'est aux Gens mal tournés, aux Mérites vulgaires,
-À brûler, constamment, pour des Beautés sévères ;
-À languir à leurs pieds, et souffrir leurs rigueurs,
-À chercher le secours des soupirs, et des pleurs,
-Et tâcher, par des soins d'une très longue suite,
-D'obtenir ce qu'on nie à leur peu de mérite.
-Mais les Gens de mon air, Marquis, ne sont pas faits,
-Pour aimer à crédit, et faire tous les frais.
-Quelque rare que soit le mérite des Belles,
-Je pense, Dieu merci, qu'on vaut son prix, comme elles ;
-Que pour se faire honneur d'un Coeur comme le mien,
-Ce n'est pas la raison qu'il ne leur coûte rien.
-Et qu'au moins, à tout mettre en de justes Balances,
-Il faut, qu'à frais communs, se fassent les avances.
-
--*who_clitandre
-Tu penses donc, Marquis, être fort bien ici ?
-
--*who_acaste
-J'ai quelque lieu, Marquis, de le penser ainsi.
-
--*who_clitandre
-Crois-moi, détache-toi de cette erreur extrême ;
-Tu te flattes, mon Cher, et t'aveugles toi-même.
-
--*who_acaste
-Il est vrai, je me flatte, et m'aveugle, en effet.
-
--*who_clitandre
-Mais, qui te fait juger ton bonheur si parfait ?
-
--*who_acaste
-Je me flatte.
-
--*who_clitandre
-      Sur quoi fonder tes Conjectures ?
-
--*who_acaste
-Je m'aveugle.
-
--*who_clitandre
-      En as-tu des preuves qui soient sûres ?
-
--*who_acaste
-Je m'abuse, te dis-je.
-
--*who_clitandre
-      Est-ce que de ses voeux,
-Célimène t'a fait quelques secrets aveux ?
-
--*who_acaste
-Non, je suis maltraité.
-
--*who_clitandre
-      Réponds-moi, je te prie.
-
--*who_acaste
-Je n'ai que des rebuts.
-
--*who_clitandre
-      Laissons la raillerie,
-Et me dis quel espoir on peut t'avoir donné ?
-
--*who_acaste
-Je suis le Misérable, et toi le Fortuné,
-On a, pour ma Personne, une aversion grande ;
-Et quelqu'un de ces jours, il faut que je me pende.
-
--*who_clitandre
-Ô çà, veux-tu, Marquis, pour ajuster nos voeux,
-Que nous tombions d'accord d'une chose, tous deux ?
-Que qui pourra montrer une marque certaine,
-D'avoir meilleure part au Coeur de Célimène,
-L'autre ici, fera place au Vainqueur prétendu,
-Et le délivrera d'un Rival assidu ?
-
--*who_acaste
-Ah ! parbleu, tu me plais, avec un tel langage ;
-Et du bon de mon coeur, à cela je m'engage.
-Mais chut.
-
-**** *book_ *id_III02 *act_III *date_1666 *creator_moliere
-
--*who_celimene
       Encore ici ?
 
--*who_clitandre
-      L'Amour retient nos pas.
-
--*who_celimene
 Je viens d'ouïr entrer un Carrosse là-bas,
 Savez-vous qui c'est ?
 
--*who_clitandre
-      Non.
-
-**** *book_ *id_III03 *act_III *date_1666 *creator_moliere
-
--*who_basque
-      Arsinoé, Madame,
-Monte ici, pour vous voir.
-
--*who_celimene
       Que me veut cette Femme ?
 
--*who_basque
-Éliante, là-bas, est à l'entretenir.
-
--*who_celimene
 De quoi s'avise-t-elle ? et qui la fait venir ?
 
--*who_acaste
-Pour Prude consommée, en tous Lieux elle passe ;
-Et l'ardeur de son zèle…
-
--*who_celimene
       Oui, oui, franche Grimace,
 Dans l'Âme, elle est du Monde, et ses soins tentent tout,
 Pour accrocher quelqu'un, sans en venir à bout.
@@ -1608,62 +1706,13 @@ Enfin, je n'ai rien vu de si sot, à mon gré,
 Elle est impertinente au suprême Degré ;
 Et…
 
-**** *book_ *id_III04 *act_III *date_1666 *creator_moliere
-
--*who_celimene
       Ah ! quel heureux Sort, en ce Lieu vous amène ?
 Madame, sans mentir, j'étais de vous, en peine.
 
--*who_arsinoe
-Je viens, pour quelque avis que j'ai cru vous devoir.
-
--*who_celimene
 Ah ! mon Dieu, que je suis contente de vous voir !
 
--*who_arsinoe
-Leur départ ne pouvait, plus à propos, se faire.
-
--*who_celimene
 Voulons-nous nous asseoir ?
 
--*who_arsinoe
-      Il n'est pas nécessaire,
-Madame ; l'Amitié doit surtout éclater
-Aux choses, qui le plus, nous peuvent importer ;
-Et comme il n'en est point de plus grande importance,
-Que celles de l'Honneur et de la Bienséance,
-Je viens, par un avis qui touche votre Honneur,
-Témoigner l'amitié que, pour vous, a mon Cœur.
-Hier, j'étais chez des Gens, de Vertu singulière,
-Où, sur vous, du Discours, on tourna la matière ;
-Et là, votre Conduite, avec ses grands éclats,
-Madame, eut le malheur, qu'on ne la loua pas.
-Cette foule de Gens, dont vous souffrez visite,
-Votre Galanterie, et les bruits qu'elle excite,
-Trouvèrent des Censeurs plus qu'il n'aurait fallu,
-Et bien plus rigoureux que je n'eusse voulu.
-Vous pouvez bien penser quel Parti je sus prendre ;
-Je fis ce que je pus, pour vous pouvoir défendre,
-Je vous excusai fort sur votre intention,
-Et voulus, de votre Âme, être la Caution.
-Mais vous savez qu'il est des Choses dans la vie,
-Qu'on ne peut excuser, quoique on en ait envie ;
-Et je me vis contrainte à demeurer d'accord,
-Que l'air dont vous viviez, vous faisait un peu tort.
-Qu'il prenait, dans le Monde, une méchante face,
-Qu'il n'est conte fâcheux que partout on n'en fasse ;
-Et que, si vous vouliez, tous vos déportements
-Pourraient moins donner prise aux mauvais jugements.
-Non que j'y croie, au fonds, l'Honnêteté blessée,
-Me préserve le Ciel d'en avoir la pensée ;
-Mais aux ombres du Crime, on prête aisément foi,
-Et ce n'est pas assez, de bien vivre pour soi.
-Madame, je vous crois l'Âme trop raisonnable,
-Pour ne pas prendre bien, cet avis profitable ;
-Et pour l'attribuer qu'aux mouvements secrets
-D'un zèle qui m'attache à tous vos intérêts.
-
--*who_celimene
 Madame, j'ai beaucoup de grâces à vous rendre,
 Un tel avis m'oblige, et loin de le mal prendre,
 J'en prétends reconnaître, à l'instant, la faveur,
@@ -1713,13 +1762,6 @@ Pour ne pas prendre bien, cet avis profitable,
 Et pour l'attribuer qu'aux mouvements secrets,
 D'un zèle qui m'attache à tous vos intérêts.
 
--*who_arsinoe
-À quoi, qu'en reprenant, on soit assujettie,
-Je ne m'attendais pas à cette repartie,
-Madame, et je vois bien, par ce qu'elle a d'aigreur,
-Que mon sincère avis vous a blessée au cœur.
-
--*who_celimene
 Au contraire, Madame, et si l'on était sage,
 Ces avis mutuels seraient mis en usage ;
 On détruirait, par là, traitant de bonne foi,
@@ -1729,11 +1771,6 @@ Nous ne continuions cet office fidèle ;
 Et ne prenions grand soin de nous dire, entre nous,
 Ce que nous entendrons, vous de moi, moi de vous.
 
--*who_arsinoe
-Ah ! Madame, de vous, je ne puis rien entendre ;
-C'est en moi que l'on peut trouver fort à reprendre.
-
--*who_celimene
 Madame, on peut, je crois, louer, et blâmer tout,
 Et chacun a raison, suivant l'âge, et le goût :
 Il est une Saison pour la Galanterie,
@@ -1745,15 +1782,6 @@ Je ne dis pas, qu'un jour, je ne suive vos traces,
 L'âge amènera tout, et ce n'est pas le temps,
 Madame, comme on sait, d'être Prude à vingt ans.
 
--*who_arsinoe
-Certes, vous vous targuez d'un bien faible Avantage,
-Et vous faites sonner, terriblement, votre Âge :
-Ce que, de plus que vous, on en pourrait avoir,
-N'est pas un si grand cas, pour s'en tant prévaloir ;
-Et je ne sais pourquoi, votre Âme, ainsi, s'emporte,
-Madame, à me pousser de cette étrange sorte ?
-
--*who_celimene
 Et moi, je ne sais pas, Madame, aussi pourquoi,
 On vous voit, en tous Lieux, vous déchaîner sur moi ?
 Faut-il de vos chagrins, sans cesse, à moi vous prendre ?
@@ -1765,44 +1793,10 @@ Je n'y saurais que faire, et ce n'est pas ma faute ;
 Vous avez le Champ libre, et je n'empêche pas,
 Que pour les attirer, vous n'ayez des Appas.
 
--*who_arsinoe
-Hélas ! et croyez-vous que l'on se mette en peine
-De ce nombre d'Amants dont vous faites la vaine :
-Et qu'il ne nous soit pas fort aisé de juger,
-À quel prix, aujourd'hui, l'on peut les engager ?
-Pensez-vous faire croire, à voir comme tout roule,
-Que votre seul Mérite attire cette foule ?
-Qu'ils ne brûlent, pour vous, que d'un honnête amour,
-Et que, pour vos Vertus, ils vous font tous la Cour ?
-On ne s'aveugle point par de vaines défaites,
-Le Monde n'est point Dupe, et j'en vois qui sont faites
-À pouvoir inspirer de tendres Sentiments,
-Qui, chez elles, pourtant, ne fixent point d'Amants ;
-Et de là, nous pouvons tirer des conséquences
-Qu'on n'acquiert point leurs Cœurs, sans de grandes avances ;
-Qu'aucun, pour nos beaux yeux, n'est notre Soupirant,
-Et qu'il faut acheter tous les Soins qu'on nous rend.
-Ne vous enflez, donc, point d'une si grande gloire,
-Pour les petits Brillants d'une faible Victoire ;
-Et corrigez, un peu, l'orgueil de vos Appas,
-De traiter pour cela, les Gens de haut en bas.
-Si nos yeux enviaient les Conquêtes des vôtres,
-Je pense qu'on pourrait faire comme les autres,
-Ne se point ménager, et vous faire bien voir
-Que l'on a des Amants, quand on en veut avoir.
-
--*who_celimene
 Ayez-en, donc, Madame, et voyons cette Affaire,
 Par ce rare Secret, efforcez-vous de plaire :
 Et sans…
 
--*who_arsinoe
-      Brisons, Madame, un pareil Entretien,
-Il pousserait trop loin votre Esprit, et le mien :
-Et j'aurais pris, déjà, le congé qu'il faut prendre,
-Si mon Carrosse, encor, ne m'obligeait d'attendre.
-
--*who_celimene
 Autant qu'il vous plaira, vous pouvez arrêter,
 Madame, et là-dessus, rien ne doit vous hâter :
 Mais, sans vous fatiguer de ma cérémonie,
@@ -1814,486 +1808,37 @@ Que, sans me faire tort, je ne saurais remettre ;
 Soyez avec Madame, elle aura la bonté
 D'excuser, aisément, mon incivilité.
 
-**** *book_ *id_III05 *act_III *date_1666 *creator_moliere
-
--*who_arsinoe
-Vous voyez, elle veut que je vous entretienne,
-Attendant, un moment, que mon Carrosse vienne ;
-Et jamais tous ses soins ne pouvaient m'offrir rien,
-Qui me fût plus charmant, qu'un pareil Entretien.
-En vérité, les Gens d'un Mérite sublime,
-Entraînent de chacun, et l'amour, et l'estime ;
-Et le vôtre, sans doute, a des Charmes secrets,
-Qui font entrer mon Coeur dans tous vos intérêts.
-Je voudrais que la Cour, par un regard propice,
-À ce que vous valez, rendît plus de justice :
-Vous avez à vous plaindre, et je suis en courroux,
-Quand je vois, chaque jour, qu'on ne fait rien pour vous.
-
--*who_alceste
-Moi, Madame ! Et sur quoi pourrais-je en rien prétendre ?
-Quel Service, à l'État, est-ce qu'on m'a vu rendre ?
-Qu'ai-je fait, s'il vous plaît, de si brillant de soi,
-Pour me plaindre à la Cour, qu'on ne fait rien pour moi ?
-
--*who_arsinoe
-Tous ceux, sur qui la Cour jette des yeux propices,
-N'ont pas, toujours, rendu de ces fameux Services ;
-Il faut l'Occasion, ainsi que le Pouvoir :
-Et le Mérite, enfin, que vous nous faites voir,
-Devrait…
-
--*who_alceste
-      Mon Dieu ! laissons mon Mérite, de grâce ;
-De quoi voulez-vous, là, que la Cour s'embarrasse ?
-Elle aurait fort à faire, et ses soins seraient grands,
-D'avoir à déterrer le Mérite des Gens.
-
--*who_arsinoe
-Un Mérite éclatant se déterre lui-même ;
-Du vôtre, en bien des Lieux, on fait un cas extrême ;
-Et vous saurez, de moi, qu'en deux fort bons endroits,
-Vous fûtes hier, loué par des Gens d'un grand poids.
-
--*who_alceste
-Eh ! Madame, l'on loue, aujourd'hui, tout le Monde,
-Et le Siècle, par là, n'a rien qu'on ne confonde ;
-Tout est d'un grand Mérite également doué,
-Ce n'est plus un Honneur, que de se voir loué ;
-D'Éloges, on regorge ; à la tête, on les jette,
-Et mon Valet de Chambre est mis dans la Gazette.
-
--*who_arsinoe
-Pour moi, je voudrais bien, que pour vous montrer mieux,
-Une Charge, à la Cour, vous pût frapper les yeux :
-Pour peu que d'y songer vous nous fassiez les mines,
-On peut, pour vous servir, remuer des Machines,
-Et j'ai des Gens en main, que j'emploierai pour vous,
-Qui vous feront, à tout, un Chemin assez doux.
-
--*who_alceste
-Et que voudriez-vous, Madame, que j'y fisse ?
-L'humeur dont je me sens, veut que je m'en bannisse ;
-Le Ciel ne m'a point fait, en me donnant le Jour,
-Une Âme compatible avec l'Air de la Cour.
-Je ne me trouve point les Vertus nécessaires
-Pour y bien réussir, et faire mes affaires.
-Être franc, et sincère, est mon plus grand Talent,
-Je ne sais point jouer les Hommes en parlant ;
-Et qui n'a pas le don de cacher ce qu'il pense,
-Doit faire, en ce Pays, fort peu de résidence.
-Hors de la Cour, sans doute, on n'a pas cet appui,
-Et ces Titres d'Honneur, qu'elle donne aujourd'hui ;
-Mais on n'a pas, aussi, perdant ces Avantages,
-Le chagrin de jouer de fort sots Personnages.
-On n'a point à souffrir mille rebuts cruels,
-On n'a point à louer les Vers de Messieurs Tels,
-À donner de l'Encens à Madame une Telle,
-Et de nos francs Marquis, essuyer la cervelle.
-
--*who_arsinoe
-Laissons, puisqu'il vous plaît, ce Chapitre de Cour,
-Mais il faut que mon Coeur vous plaigne en votre amour ;
-Et pour vous découvrir, là-dessus, mes pensées,
-Je souhaiterais fort vos ardeurs mieux placées :
-Vous méritez, sans doute, un Sort beaucoup plus doux,
-Et celle qui vous charme, est indigne de vous.
-
--*who_alceste
-Mais, disant cela, songez-vous, je vous prie,
-Que cette Personne est, Madame, votre Amie ?
-
--*who_arsinoe
-Oui, mais ma Conscience est blessée en effet,
-De souffrir, plus longtemps, le tort que l'on vous fait :
-L'état où je vous vois, afflige trop mon Âme,
-Et je vous donne avis, qu'on trahit votre flamme.
-
--*who_alceste
-C'est me montrer, Madame, un tendre mouvement ;
-Et de pareils avis obligent un Amant.
-
--*who_arsinoe
-Oui, toute mon Amie, elle est, et je la nomme
-Indigne d'asservir le Coeur d'un galant Homme.
-Et le sien n'a, pour vous, que de feintes douceurs.
-
--*who_alceste
-Cela se peut, Madame, on ne voit pas les Coeurs ;
-Mais votre charité se serait bien passée
-De jeter, dans le mien, une telle pensée.
-
--*who_arsinoe
-Si vous ne voulez pas être désabusé,
-Il faut ne vous rien dire, il est assez aisé.
-
--*who_alceste
-Non ; mais sur ce sujet quoi que l'on nous expose,
-Les doutes sont fâcheux, plus que toute autre chose ;
-Et je voudrais, pour moi, qu'on ne me fît savoir
-Que ce, qu'avec clarté, l'on peut me faire voir.
-
--*who_arsinoe
-Hé bien, c'est assez dit ; et, sur cette matière,
-Vous allez recevoir une pleine lumière.
-Oui, je veux que de tout, vos yeux vous fassent foi,
-Donnez-moi, seulement, la main jusque chez moi.
-Là, je vous ferai voir une preuve fidèle
-De l'infidélité du Coeur de votre Belle ;
-Et si, pour d'autres yeux, le vôtre peut brûler,
-On pourra vous offrir de quoi vous consoler.
-
-**** *book_ *id_IV01 *act_IV *date_1666 *creator_moliere
-
--*who_philinte
-Non, l'on n'a point vu d'Âme à manier, si dure,
-Ni d'Accommodement plus pénible à conclure ;
-En vain, de tous côtés, on l'a voulu tourner,
-Hors de son Sentiment, on n'a pu l'entraîner ;
-Et, jamais, Différend si bizarre, je pense,
-N'avait de ces Messieurs, occupé la prudence.
-Non, Messieurs, disait-il, je ne me dédis point,
-Et tomberai d'accord de tout, hors de ce Point.
-De quoi s'offense-t-il ? et que veut-il me dire ?
-Y va-t-il de sa gloire, à ne pas bien écrire ?
-Que lui fait mon avis, qu'il a pris de travers ?
-On peut être honnête Homme, et faire mal des Vers ;
-Ce n'est point à l'Honneur, que touchent ces matières,
-Je le tiens galant Homme en toutes les manières,
-Homme de Qualité, de Mérite et de Coeur,
-Tout ce qu'il vous plaira, mais fort méchant Auteur.
-Je louerai, si l'on veut, son Train, et sa Dépense,
-Son adresse, à Cheval, aux Armes, à la Danse ;
-Mais, pour louer ses Vers, je suis son Serviteur ;
-Et lorsque d'en mieux faire, on n'a pas le bonheur,
-On ne doit, de Rimer, avoir aucune envie,
-Qu'on n'y soit condamné, sur peine de la Vie.
-Enfin, toute la Grâce, et l'Accommodement,
-Où s'est, avec effort, plié son Sentiment,
-C'est de dire, croyant adoucir bien son style,
-Monsieur, je suis fâché d'être si difficile ;
-Et, pour l'amour de vous, je voudrais, de bon coeur,
-Avoir trouvé, tantôt, votre Sonnet meilleur ;
-Et dans une Embrassade, on leur a, pour conclure,
-Fait vite envelopper toute la Procédure.
-
--*who_eliante
-Dans ses façons d'agir, il est fort singulier,
-Mais j'en fais, je l'avoue, un cas particulier ;
-Et la sincérité dont son Âme se pique,
-A quelque chose, en soi, de noble, et d'héroïque ;
-C'est une Vertu rare, au Siècle d'aujourd'hui,
-Et je la voudrais voir, partout, comme chez lui.
-
--*who_philinte
-Pour moi, plus je le vois, plus, surtout, je m'étonne
-De cette Passion où son Coeur s'abandonne :
-De l'humeur dont le Ciel a voulu le former,
-Je ne sais pas comment il s'avise d'aimer ;
-Et je sais moins, encor, comment votre Cousine
-Peut être la Personne où son Penchant l'incline.
-
--*who_eliante
-Cela fait assez voir que l'Amour, dans les Coeurs,
-N'est pas, toujours, produit par un rapport d'humeurs ;
-Et toutes ces raisons de douces Sympathies,
-Dans cet Exemple-ci, se trouvent démenties.
-
--*who_philinte
-Mais, croyez-vous qu'on l'aime, aux choses qu'on peut voir ?
-
--*who_eliante
-C'est un Point qu'il n'est pas fort aisé de savoir.
-Comment pouvoir juger s'il est vrai qu'elle l'aime ?
-Son Coeur, de ce qu'il sent, n'est pas bien sûr lui-même ;
-Il aime, quelquefois, sans qu'il le sache bien,
-Et croit aimer, aussi, parfois, qu'il n'en est rien.
-
--*who_philinte
-Je crois que notre Ami, près de cette Cousine,
-Trouvera des chagrins plus qu'il ne s'imagine ;
-Et s'il avait mon Coeur, à dire vérité,
-Il tournerait ses voeux tout d'un autre côté ;
-Et par un choix plus juste, on le verrait, Madame,
-Profiter des bontés que lui montre votre Âme.
-
--*who_eliante
-Pour moi, je n'en fais point de façons, et je crois
-Qu'on doit, sur de tels Points, être de bonne foi :
-Je ne m'oppose point à toute sa tendresse ;
-Au contraire, mon Coeur, pour elle, s'intéresse ;
-Et si c'était qu'à moi, la chose pût tenir,
-Moi-même, à ce qu'il aime, on me verrait l'unir.
-Mais, si dans un tel Choix, comme tout se peut faire,
-Son Amour éprouvait quelque Destin contraire,
-S'il fallait que d'un autre, on couronnât les Feux,
-Je pourrais me résoudre à recevoir ses voeux ;
-Et le refus souffert, en pareille occurrence,
-Ne m'y ferait trouver aucune répugnance.
-
--*who_philinte
-Et moi, de mon côté, je ne m'oppose pas,
-Madame, à ces bontés qu'ont, pour lui, vos Appas ;
-Et lui-même, s'il veut, il peut bien vous instruire
-De ce que, là-dessus, j'ai pris soin de lui dire.
-Mais si, par un Hymen, qui les joindrait eux deux,
-Vous étiez hors d'état de recevoir ses voeux,
-Tous les miens tenteraient la faveur éclatante,
-Qu'avec tant de bonté, votre Âme lui présente ;
-Heureux si, quand son Coeur s'y pourra dérober,
-Elle pouvait sur moi, Madame, retomber.
-
--*who_eliante
-Vous vous divertissez, Philinte.
-
--*who_philinte
-      Non, Madame,
-Et je vous parle, ici, du meilleur de mon Âme ;
-J'attends l'occasion de m'offrir hautement,
-Et de tous mes souhaits, j'en presse le moment.
-
-**** *book_ *id_IV02 *act_IV *date_1666 *creator_moliere
-
--*who_alceste
-Ah ! faites-moi raison, Madame, d'une Offense
-Qui vient de triompher de toute ma constance.
-
--*who_eliante
-Qu'est-ce, donc ? qu'avez-vous qui vous puisse émouvoir ?
-
--*who_alceste
-J'ai que, sans mourir, je ne puis concevoir ;
-Et le Déchaînement de toute la Nature,
-Ne m'accablerait pas, comme cette Aventure.
-C'en est fait… mon amour… Je ne saurais parler.
-
--*who_eliante
-Que votre Esprit, un peu, tâche à se rappeler !
-
--*who_alceste
-Ô juste Ciel ! faut-il qu'on joigne à tant de Grâces,
-Les Vices odieux des Âmes les plus basses ?
-
--*who_eliante
-Mais, encor, qui vous peut…
-
--*who_alceste
-      Ah ! tout est ruiné,
-Je suis, je suis trahi, je suis assassiné :
-Célimène… Eût-on pu croire cette nouvelle ?
-Célimène me trompe, et n'est qu'une Infidèle.
-
--*who_eliante
-Avez-vous, pour le croire, un juste fondement ?
-
--*who_philinte
-Peut-être, est-ce un Soupçon conçu légèrement,
-Et votre esprit jaloux, prend, parfois des Chimères…
-
--*who_alceste
-Ah ! morbleu, mêlez-vous, Monsieur, de vos Affaires.
-C'est de sa Trahison n'être que trop certain,
-Que l'avoir, dans ma poche, écrite de sa main.
-Oui, Madame, une Lettre écrite pour Oronte,
-A produit, à mes yeux, ma disgrâce, et sa honte ;
-Oronte, dont j'ai cru qu'elle fuyait les soins,
-Et que, de mes Rivaux, je redoutais le moins.
-
--*who_philinte
-Une Lettre peut bien tromper par l'apparence,
-Et n'est pas, quelquefois si coupable, qu'on pense.
-
--*who_alceste
-Monsieur, encore un coup, laissez-moi, s'il vous plaît,
-Et ne prenez souci que de votre intérêt.
-
--*who_eliante
-Vous devez modérer vos transports, et l'outrage…
-
--*who_alceste
-Madame, c'est à vous qu'appartient cet Ouvrage,
-C'est à vous, que mon Coeur a recours, aujourd'hui,
-Pour pouvoir s'affranchir de son cuisant ennui.
-Vengez-moi d'une ingrate, et perfide Parente,
-Qui trahit, lâchement, une ardeur si constante ;
-Vengez-moi de ce trait qui doit vous faire horreur.
-
--*who_eliante
-Moi, vous venger ! Comment ?
-
--*who_alceste
-      En recevant mon Coeur.
-Acceptez-le, Madame, au lieu de l'Infidèle,
-C'est par là, que je puis prendre vengeance d'elle :
-Et je la veux punir par les sincères Voeux,
-Par le profond Amour, les Soins respectueux,
-Les Devoirs empressés et l'assidu Service
-Dont ce Coeur va vous faire un ardent Sacrifice.
-
--*who_eliante
-Je compatis, sans doute, à ce que vous souffrez,
-Et ne méprise point le Coeur que vous m'offrez :
-Mais, peut-être, le Mal n'est pas si grand qu'on pense,
-Et vous pourrez quitter ce Désir de Vengeance.
-Lorsque l'Injure part d'un Objet plein d'Appas,
-On fait force Desseins, qu'on n'exécute pas :
-On a beau voir, pour rompre, une Raison puissante,
-Une Coupable aimée, est, bientôt, innocente ;
-Tout le mal qu'on lui veut, se dissipe aisément,
-Et l'on sait ce que c'est, qu'un Courroux d'un Amant.
-
--*who_alceste
-Non, non, Madame, non, l'Offense est trop mortelle,
-Il n'est point de retour, et je romps avec elle ;
-Rien ne saurait changer le Dessein que j'en fais,
-Et je me punirais, de l'estimer jamais.
-La voici. Mon Courroux redouble à cette approche,
-Je vais, de sa noirceur, lui faire un vif reproche,
-Pleinement, la confondre, et vous porter, après,
-Un Coeur tout dégagé de ses trompeurs Attraits.
-
-**** *book_ *id_IV03 *act_IV *date_1666 *creator_moliere
-
--*who_alceste
-Ô Ciel ! de mes Transports, puis-je être, ici, le Maître ?
-
--*who_celimene
 Ouais, quel est donc, le trouble, où je vous vois paraître ?
 Et que me veulent dire, et ces Soupirs poussés,
 Et ces sombres Regards que, sur moi, vous lancez ?
 
--*who_alceste
-Que toutes les Horreurs, dont une Âme est capable,
-À vos Déloyautés, n'ont rien de comparable :
-Que le Sort, les Démons, et le Ciel, en courroux,
-N'ont, jamais, rien produit de si méchant que vous.
-
--*who_celimene
 Voilà, certainement, des Douceurs que j'admire.
 
--*who_alceste
-Ah ! ne plaisantez point, il n'est pas temps de rire,
-Rougissez, bien plutôt, vous en avez raison :
-Et j'ai de sûrs Témoins de votre Trahison.
-Voilà ce que marquaient les Troubles de mon Âme,
-Ce n'était pas en vain, que s'alarmait ma flamme :
-Par ces fréquents Soupçons, qu'on trouvait odieux,
-Je cherchais le malheur qu'ont rencontré mes yeux :
-Et malgré tous vos soins, et votre adresse à feindre,
-Mon Astre me disait, ce que j'avais à craindre :
-Mais ne présumez pas que, sans être vengé,
-Je souffre le Dépit de me voir outragé.
-Je sais que, sur les Vœux, on n'a point de puissance,
-Que l'Amour veut, partout, naître sans Dépendance ;
-Que jamais, par la force, on n'entra dans un Coeur,
-Et que toute Âme est libre à nommer son Vainqueur.
-Aussi ne trouverais-je aucun sujet de Plainte,
-Si, pour moi, votre Bouche avait parlé sans feinte ;
-Et, rejetant mes voeux dès le premier abord,
-Mon Coeur n'aurait eu droit de s'en prendre qu'au Sort.
-Mais, d'un Aveu trompeur, voir ma Flamme applaudie,
-C'est une Trahison, c'est une Perfidie,
-Qui ne saurait trouver de trop grands Châtiments :
-Et je puis tout permettre à mes Ressentiments.
-Oui, oui, redoutez tout, après un tel Outrage,
-Je ne suis plus à moi, je suis tout à la Rage :
-Percé du Coup mortel dont vous m'assassinez,
-Mes Sens, par la Raison, ne sont plus gouvernés ;
-Je cède aux Mouvements d'une juste Colère,
-Et je ne réponds pas de ce que je puis faire.
-
--*who_celimene
 D'où vient, donc, je vous prie, un tel Emportement ?
 Avez-vous, dites-moi, perdu le Jugement ?
 
--*who_alceste
-Oui, oui, je l'ai perdu, lorsque dans votre vue
-J'ai pris, pour mon Malheur, le Poison qui me tue,
-Et que j'ai cru trouver quelque Sincérité
-Dans les traîtres Appas dont je fus enchanté.
-
--*who_celimene
 De quelle Trahison pouvez-vous, donc, vous plaindre ?
 
--*who_alceste
-Ah ! que ce Coeur est double, et sait bien l'Art de feindre !
-Mais, pour le mettre à bout, j'ai des Moyens tous prêts :
-Jetez ici les yeux, et connaissez vos Traits ;
-Ce Billet découvert, suffit pour vous confondre,
-Et, contre ce Témoin, on n a rien à répondre.
-
--*who_celimene
 Voilà, donc, le Sujet qui vous trouble l'Esprit ?
 
--*who_alceste
-Vous ne rougissez pas, en voyant cet Écrit ?
-
--*who_celimene
 Et par quelle Raison faut-il que j'en rougisse ?
 
--*who_alceste
-Quoi ! vous joignez, ici, l'Audace, à l'Artifice ?
-Le désavouerez-vous, pour n'avoir point de seing ?
-
--*who_celimene
 Pourquoi désavouer un Billet de ma main ?
 
--*who_alceste
-Et vous pouvez le voir, sans demeurer confuse
-Du Crime dont, vers moi, son Style vous accuse ?
-
--*who_celimene
 Vous êtes, sans mentir, un grand Extravagant.
 
--*who_alceste
-Quoi ? vous bravez, ainsi, ce Témoin convaincant ?
-Et ce qu'il m'a fait voir de douceur pour Oronte,
-N'a, donc, rien qui m'outrage, et qui vous fasse honte ?
-
--*who_celimene
 Oronte ! Qui vous dit que la Lettre est pour lui ?
 
--*who_alceste
-Les Gens qui, dans mes mains, l'ont remise, aujourd'hui.
-Mais je veux consentir qu'elle soit pour un autre,
-Mon Coeur en a-t-il moins à se plaindre du vôtre ?
-En serez-vous, vers moi, moins coupable en effet ?
-
--*who_celimene
 Mais, si c'est une Femme à qui va ce Billet,
 En quoi vous blesse-t-il ? et qu'a-t-il de coupable ?
 
--*who_alceste
-Ah ! le Détour est bon, et l'Excuse admirable,
-Je ne m'attendais pas, je l'avoue, à ce Trait :
-Et me voilà, par là, convaincu tout à fait.
-Osez-vous recourir à ces Ruses grossières,
-Et croyez-vous les Gens si privés de Lumières ?
-Voyons, voyons, un peu, par quel biais, de quel air,
-Vous voulez soutenir un Mensonge si clair :
-Et comment vous pourrez tourner, pour une Femme,
-Tous les Mots d'un Billet qui montre tant de flamme ?
-Ajustez, pour couvrir un manquement de Foi,
-Ce que je m'en vais lire…
-
--*who_celimene
       Il ne me plaît pas, moi.
 Je vous trouve plaisant, d'user d'un tel Empire,
 Et de me dire, au nez, ce que vous m'osez dire.
 
--*who_alceste
-Non, non, sans s'emporter, prenez, un peu, souci
-De me justifier les Termes que voici.
-
--*who_celimene
 Non, je n'en veux rien faire ; et, dans cette occurrence,
 Tout ce que vous croirez, m'est de peu d'importance.
 
--*who_alceste
-De grâce, montrez-moi, je serai satisfait,
-Qu'on peut, pour une Femme, expliquer ce Billet.
-
--*who_celimene
 Non, il est pour Oronte, et je veux qu'on le croie,
 Je reçois tous ses Soins, avec beaucoup de joie,
 J'admire ce qu'il dit, j'estime ce qu'il est ;
@@ -2301,29 +1846,6 @@ Et je tombe d'accord de tout ce qu'il vous plaît.
 Faites, prenez Parti, que rien ne vous arrête,
 Et ne me rompez pas, davantage, la tête.
 
--*who_alceste
-Ciel ! rien de plus cruel peut-il être inventé :
-Et, jamais, Coeur fut-il de la sorte traité ?
-Quoi ! d'un juste Courroux je suis ému contre elle,
-C'est moi qui me viens plaindre, et c'est moi qu'on querelle !
-On pousse ma Douleur, et mes Soupçons à bout,
-On me laisse tout croire, on fait gloire de tout ;
-Et, cependant, mon Coeur est, encore, assez lâche,
-Pour ne pouvoir briser la Chaîne qui l'attache,
-Et pour ne pas s'armer d'un généreux Mépris
-Contre l'ingrat Objet dont il est trop épris !
-Ah ! que vous savez bien, ici, contre moi-même,
-Perfide, vous servir de ma faiblesse extrême,
-Et ménager, pour vous, l'excès prodigieux
-De ce fatal Amour, né de vos traîtres yeux !
-Défendez-vous, au moins, d'un Crime qui m'accable,
-Et cessez d'affecter d'être, envers moi, coupable ;
-Rendez-moi, s'il se peut, ce Billet innocent,
-À vous prêter les mains ma Tendresse consent ;
-Efforcez-vous, ici, de paraître fidèle,
-Et je m'efforcerai, moi, de vous croire telle.
-
--*who_celimene
 Allez, vous êtes fou, dans vos Transports jaloux,
 Et ne méritez pas l'amour qu'on a pour vous.
 Je voudrais bien savoir, qui pourrait me contraindre
@@ -2349,374 +1871,20 @@ De conserver, encor, pour vous, quelque bonté ;
 Je devrais, autre part, attacher mon Estime,
 Et vous faire un sujet de Plainte légitime.
 
--*who_alceste
-Ah ! Traîtresse, mon Faible est étrange pour vous !
-Vous me trompez, sans doute, avec des Mots si doux :
-Mais, il n'importe, il faut suivre ma Destinée,
-À votre Foi, mon Âme est toute abandonnée,
-Je veux voir, jusqu'au bout, quel sera votre Coeur :
-Et si, de me trahir, il aura la Noirceur.
-
--*who_celimene
 Non, vous ne m'aimez point, comme il faut que l'on aime.
 
--*who_alceste
-Ah ! rien n'est comparable à mon amour extrême ;
-Et, dans l'ardeur qu'il a de se montrer à tous,
-Il va jusqu'à former des Souhaits contre vous.
-Oui, je voudrais qu'aucun ne vous trouvât aimable,
-Que vous fussiez réduite en un Sort misérable,
-Que le Ciel, en naissant, ne vous eût donné rien,
-Que vous n'eussiez ni Rang, ni Naissance, ni Bien,
-Afin que, de mon Coeur, l'éclatant Sacrifice,
-Vous pût d'un pareil Sort, réparer l'Injustice :
-Et que j'eusse la joie, et la gloire, en ce jour,
-De vous voir tenir tout, des mains de mon Amour.
-
--*who_celimene
 C'est me vouloir du Bien d'une étrange manière !
 Me préserve le Ciel que vous ayez matière…
 Voici Monsieur Du Bois, plaisamment figuré.
 
-**** *book_ *id_IV04 *act_IV *date_1666 *creator_moliere
-
--*who_alceste
-Que veut cet équipage, et cet air effaré ?
-Qu'as-tu ?
-
--*who_dubois
-      Monsieur…
-
--*who_alceste
-      Hé bien.
-
--*who_dubois
-      Voici bien des mystères.
-
--*who_alceste
-Qu'est-ce ?
-
--*who_dubois
-      Nous sommes mal, Monsieur, dans nos Affaires.
-
--*who_alceste
-Quoi ?
-
--*who_dubois
-      Parlerai-je haut ?
-
--*who_alceste
-      Oui, parle, et promptement.
-
--*who_dubois
-N'est-il point là, quelqu'un…
-
--*who_alceste
-      Ah ! que d'amusement !
-Veux-tu parler ?
-
--*who_dubois
-      Monsieur, il faut faire retraite.
-
--*who_alceste
-Comment ?
-
--*who_dubois
-      Il faut, d'ici, déloger sans Trompette.
-
--*who_alceste
-Et pourquoi ?
-
--*who_dubois
-      Je vous dis qu'il faut quitter ce Lieu.
-
--*who_alceste
-La cause ?
-
--*who_dubois
-      Il faut partir, Monsieur, sans dire adieu.
-
--*who_alceste
-Mais, par quelle Raison, me tiens-tu ce langage ?
-
--*who_dubois
-Par la Raison, Monsieur, qu'il faut plier Bagage.
-
--*who_alceste
-Ah ! je te casserai la tête, assurément,
-Si tu ne veux, Maraut, t'expliquer autrement.
-
--*who_dubois
-Monsieur, un Homme noir, et d'habit, et de mine,
-Est venu nous laisser, jusque dans la Cuisine,
-Un Papier griffonné d'une telle façon,
-Qu'il faudrait, pour le lire, être pis que Démon.
-C'est de votre Procès, je n'en fais aucun doute,
-Mais le Diable d'Enfer, je crois, n'y verrait goutte.
-
--*who_alceste
-Hé bien ? quoi ? ce Papier, qu'a-t-il à démêler,
-Traître, avec le Départ dont tu viens me parler ?
-
--*who_dubois
-C'est pour vous dire, ici, Monsieur, qu'une heure ensuite,
-Un Homme, qui souvent vous vient rendre visite,
-Est venu vous chercher avec empressement ;
-Et ne vous trouvant pas, m'a chargé, doucement,
-Sachant que je vous sers avec beaucoup de zèle,
-De vous dire… Attendez, comme est-ce qu'il s'appelle ?
-
--*who_alceste
-Laisse là, son Nom, Traître, et dis ce qu'il t'a dit.
-
--*who_dubois
-C'est un de vos Amis, enfin, cela suffit.
-Il m'a dit que, d'ici, votre Péril vous chasse,
-Et que, d'être arrêté, le Sort vous y menace.
-
--*who_alceste
-Mais quoi ? n'a-t-il voulu te rien spécifier ?
-
--*who_dubois
-Non, il m'a demandé de l'Encre, et du Papier ;
-Et vous a fait un Mot, où vous pourrez, je pense,
-Du fonds de ce mystère, avoir la connaissance.
-
--*who_alceste
-Donne-le donc.
-
--*who_celimene
       Que peut envelopper ceci ?
 
--*who_alceste
-Je ne sais ; mais j'aspire à m'en voir éclairci.
-Auras-tu bientôt fait, Impertinent au Diable ?
-
--*who_dubois
-Ma foi, je l'ai, Monsieur, laissé sur votre Table.
-
--*who_alceste
-Je ne sais qui me tient…
-
--*who_celimene
       Ne vous emportez pas,
 Et courez démêler un pareil Embarras.
 
--*who_alceste
-Il semble que le Sort, quelque soin que je prenne,
-Ait juré d'empêcher que je vous entretienne :
-Mais, pour en triompher, souffrez à mon Amour,
-De vous revoir, Madame, avant la fin du Jour.
-
-**** *book_ *id_V01 *act_V *date_1666 *creator_moliere
-
--*who_alceste
-La résolution est prise, vous dis-je.
-
--*who_philinte
-Mais, quel que soit ce Coup, faut-il qu'il vous oblige…
-
--*who_alceste
-Non, vous avez beau faire, et beau me raisonner,
-Rien de ce que je dis, ne me peut détourner :
-Trop de Perversité règne au Siècle où nous sommes,
-Et je veux me tirer du Commerce des Hommes.
-Quoi ! contre ma Partie, on voit, tout à la fois,
-L'Honneur, la Probité, la Pudeur, et les Lois :
-On publie, en tous Lieux, l'équité de ma Cause :
-Sur la Foi de mon Droit, mon Âme se repose :
-Cependant, je me vois trompé par le Succès,
-J'ai pour moi la Justice, et je perds mon Procès !
-Un Traître, dont on sait la scandaleuse Histoire,
-Est sorti triomphant d'une Fausseté noire !
-Toute la Bonne Foi cède à sa Trahison !
-Il trouve, en m'égorgeant, moyen d'avoir raison !
-Le poids de sa Grimace, où brille l'Artifice,
-Renverse le bon Droit, et tourne la Justice !
-Il fait, par un Arrêt, couronner son Forfait :
-Et non content, encor, du Tort que l'on me fait,
-Il court, parmi le Monde, un Livre abominable,
-Et de qui la lecture est, même, condamnable !
-Un Livre à mériter la dernière Rigueur,
-Dont le Fourbe a le front de me faire l'Auteur !
-Et, là-dessus, on voit Oronte qui murmure,
-Et tâche, méchamment, d'appuyer l'Imposture !
-Lui, qui d'un honnête Homme, à la Cour tient le Rang !
-À qui je n'ai rien fait, qu'être sincère, et franc !
-Qui me vient, malgré moi, d'une ardeur empressée,
-Sur des Vers qu'il a faits, demander ma pensée !
-Et parce que j'en use avec honnêteté,
-Et ne le veux trahir, lui, ni la Vérité,
-Il aide à m'accabler d'un Crime imaginaire :
-Le voilà devenu mon plus grand Adversaire !
-Et jamais, de son Cœur, je n'aurai de pardon,
-Pour n'avoir pas trouvé que son Sonnet fût bon !
-Et les Hommes, morbleu, sont faits de cette sorte !
-C'est à ces Actions que la Gloire les porte !
-Voilà la Bonne Foi, le Zèle vertueux,
-La Justice, et l'Honneur, que l'on trouve chez eux !
-Allons, c'est trop souffrir les Chagrins qu'on nous forge,
-Tirons-nous de ce Bois, et de ce Coupe-gorge ;
-Puisque entre Humains, ainsi, vous vivez en vrais Loups,
-Traîtres, vous ne m'aurez de ma vie, avec vous.
-
--*who_philinte
-Je trouve un peu bien prompt, le Dessein où vous êtes,
-Et tout le mal n'est pas si grand que vous le faites :
-Ce que votre Partie ose vous imputer,
-N'a point eu le crédit de vous faire arrêter ;
-On voit son faux Rapport, lui-même, se détruire,
-Et c'est une Action qui pourrait bien lui nuire.
-
--*who_alceste
-Lui ! de semblables Tours, il ne craint point l'éclat,
-Il a permission d'être franc Scélérat ;
-Et loin qu'à son Crédit nuise cette Aventure,
-On l'en verra, demain, en meilleure posture.
-
--*who_philinte
-Enfin, il est constant qu'on n'a point trop donné
-Au Bruit que, contre vous, sa Malice a tourné :
-De ce côté, déjà, vous n'avez rien à craindre :
-Et pour votre Procès, dont vous pouvez vous plaindre,
-Il vous est, en Justice, aisé d'y revenir,
-Et contre cet Arrêt…
-
--*who_alceste
-      Non, je veux m'y tenir.
-Quelque sensible Tort qu'un tel Arrêt me fasse,
-Je me garderai bien de vouloir qu'on le casse :
-On y voit trop à plein le bon Droit maltraité,
-Et je veux qu'il demeure à la Postérité,
-Comme une Marque insigne, un fameux Témoignage,
-De la méchanceté des Hommes de notre Âge.
-Ce sont vingt mille Francs qu'il m'en pourra coûter,
-Mais, pour vingt mille Francs, j'aurai droit de pester
-Contre l'Iniquité de la Nature Humaine,
-Et de nourrir, pour elle, une immortelle Haine.
-
--*who_philinte
-Mais, enfin…
-
--*who_alceste
-      Mais, enfin, vos Soins sont superflus :
-Que pouvez-vous, Monsieur, me dire là-dessus ?
-Aurez-vous bien le front de me vouloir, en face,
-Excuser les horreurs de tout ce qui se passe ?
-
--*who_philinte
-Non, je tombe d'accord de tout ce qu'il vous plaît,
-Tout marche par Cabale, et par pur Intérêt ;
-Ce n'est plus que la Ruse aujourd'hui, qui l'emporte,
-Et les Hommes devraient être faits d'autre sorte.
-Mais est-ce une Raison, que leur peu d'Équité,
-Pour vouloir se tirer de leur Société ?
-Tous ces Défauts humains nous donnent, dans la Vie,
-Des Moyens d'exercer notre Philosophie,
-C'est le plus bel Emploi que trouve la Vertu ;
-Et si, de Probité, tout était revêtu,
-Si tous les Coeurs étaient, francs, justes, et dociles,
-La plupart des Vertus nous seraient inutiles,
-Puisqu'on en met l'usage à pouvoir, sans ennui,
-Supporter dans nos Droits, l'Injustice d'Autrui :
-Et de même qu'un Cœur, d'une Vertu profonde…
-
--*who_alceste
-Je sais que vous parlez, Monsieur, le mieux du Monde,
-En beaux Raisonnements, vous abondez toujours,
-Mais vous perdez le Temps, et tous vos beaux Discours.
-La Raison, pour mon Bien, veut que je me retire,
-Je n'ai point, sur ma langue, un assez grand empire ;
-De ce que je dirais, je ne répondrais pas,
-Et je me jetterais cent Choses sur les Bras.
-Laissez-moi, sans dispute, attendre Célimène.
-Il faut qu'elle consente au Dessein qui m'amène ;
-Je vais voir si son Cœur a de l'amour pour moi,
-Et c'est ce moment-ci, qui doit m'en faire foi.
-
--*who_philinte
-Montons chez Eliante, attendant sa venue.
-
--*who_alceste
-Non, de trop de souci, je me sens l'Âme émue,
-Allez-vous-en la voir, et me laissez enfin,
-Dans ce petit Coin sombre, avec mon noir Chagrin.
-
--*who_philinte
-C'est une Compagnie étrange, pour attendre,
-Et je vais obliger Eliante à descendre.
-
-**** *book_ *id_V02 *act_V *date_1666 *creator_moliere
-
--*who_oronte
-Oui, c'est à vous, de voir, si par des Noeuds si doux,
-Madame, vous voulez m'attacher tout à vous :
-Il me faut de votre Âme, une pleine assurance,
-Un Amant, là-dessus, n'aime point qu'on balance :
-Si l'ardeur de mes Feux a pu vous émouvoir,
-Vous ne devez point feindre à me le faire voir ;
-Et la preuve, après tout, que je vous en demande,
-C'est de ne plus souffrir qu'Alceste vous prétende,
-De le sacrifier, Madame, à mon Amour,
-Et, de chez vous, enfin, le bannir dès ce jour.
-
--*who_celimene
 Mais quel sujet si grand, contre lui, vous irrite,
 Vous, à qui j'ai tant vu parler de son Mérite ?
 
--*who_oronte
-Madame, il ne faut point ces éclaircissements,
-Il s'agit de savoir quels sont vos Sentiments :
-Choisissez, s'il vous plaît, de garder l'un, ou l'autre,
-Ma résolution n'attend rien que la vôtre.
-
--*who_alceste
-Oui, Monsieur a raison ; Madame, il faut choisir,
-Et sa demande, ici, s'accorde à mon désir ;
-Pareille ardeur me presse, et même soin m'amène,
-Mon Amour veut du vôtre, une marque certaine.
-Les Choses ne sont plus pour traîner en longueur,
-Et voici le moment d'expliquer votre Coeur.
-
--*who_oronte
-Je ne veux point, Monsieur, d'une Flamme importune,
-Troubler, aucunement, votre bonne Fortune.
-
--*who_alceste
-Je ne veux point, Monsieur, jaloux, ou non jaloux,
-Partager de son Cœur, rien du tout avec vous.
-
--*who_oronte
-Si votre Amour, au mien, lui semble préférable…
-
--*who_alceste
-Si du moindre Penchant elle est pour vous capable…
-
--*who_oronte
-Je jure de n'y rien prétendre désormais.
-
--*who_alceste
-Je jure, hautement, de ne la voir jamais.
-
--*who_oronte
-Madame, c'est à vous de parler sans contrainte.
-
--*who_alceste
-Madame, vous pouvez vous expliquer sans crainte.
-
--*who_oronte
-Vous n'avez qu'à nous dire où s'attachent vos voeux.
-
--*who_alceste
-Vous n'avez qu'à trancher, et choisir de nous deux.
-
--*who_oronte
-Quoi ! sur un pareil Choix, vous semblez être en peine !
-
--*who_alceste
-Quoi ! votre Âme balance, et paraît incertaine !
-
--*who_celimene
 Mon Dieu ! que cette Instance est là, hors de Saison :
 Et que vous témoignez, tous deux, peu de Raison !
 Je sais prendre Parti sur cette Préférence,
@@ -2732,34 +1900,11 @@ Sans qu'on nous fasse aller, jusqu'à rompre en visière :
 Et qu'il suffit, enfin, que de plus doux Témoins
 Instruisent un Amant du malheur de ses Soins.
 
--*who_oronte
-Non, non, un franc Aveu n'a rien que j'appréhende,
-J'y consens pour ma part.
-
--*who_alceste
-      Et moi, je le demande ;
-C'est son éclat, surtout, qu'ici j'ose exiger,
-Et je ne prétends point vous voir rien ménager.
-Conserver tout le Monde, est votre grande étude,
-Mais plus d'amusement, et plus d'incertitude ;
-Il faut vous expliquer, nettement, là-dessus,
-Ou bien, pour un Arrêt, je prends votre refus :
-Je saurai, de ma part, expliquer ce silence,
-Et me tiendrai pour dit, tout le mal que j'en pense.
-
--*who_oronte
-Je vous sais fort bon gré, Monsieur, de ce courroux,
-Et je lui dis, ici, même chose que vous.
-
--*who_celimene
 Que vous me fatiguez avec un tel Caprice !
 Ce que vous demandez, a-t-il de la justice :
 Et ne vous dis-je pas quel Motif me retient ?
 J'en vais prendre pour Juge, Éliante qui vient.
 
-**** *book_ *id_V03 *act_V *date_1666 *creator_moliere
-
--*who_celimene
 Je me vois, ma Cousine, ici persécutée
 Par des Gens dont l'humeur y paraît concertée.
 Ils veulent l'un, et l'autre, avec même chaleur,
@@ -2768,146 +1913,6 @@ Et que, par un Arrêt qu'en Face il me faut rendre,
 Je défende à l'un d'eux tous les Soins qu'il peut prendre.
 Dites-moi si, jamais, cela se fait ainsi.
 
--*who_eliante
-N'allez point, là-dessus, me consulter ici ;
-Peut-être, y pourriez-vous être mal adressée,
-Et je suis pour les Gens qui disent leur pensée.
-
--*who_oronte
-Madame, c'est en vain que vous vous défendez.
-
--*who_alceste
-Tous vos Détours, ici, seront mal secondés.
-
--*who_oronte
-Il faut, il faut parler, et lâcher la Balance.
-
--*who_alceste
-Il ne faut que poursuivre à garder le Silence.
-
--*who_oronte
-Je ne veux qu'un seul Mot, pour finir nos débats.
-
--*who_alceste
-Et moi, je vous entends, si vous ne parlez pas.
-
-**** *book_ *id_V04 *act_V *date_1666 *creator_moliere
-
--*who_acaste
-Madame, nous venons tous deux, sans vous déplaire,
-Éclaircir, avec vous, une petite Affaire.
-
--*who_clitandre
-Fort à propos, Messieurs, vous vous trouvez ici,
-Et vous êtes mêlés dans cette Affaire, aussi.
-
--*who_arsinoe
-Madame, vous serez surprise de ma vue,
-Mais ce sont ces Messieurs qui causent ma venue ;
-Tous deux ils m'ont trouvée, et se sont plaints à moi,
-D'un Trait, à qui mon Coeur ne saurait prêter foi.
-J'ai du fond de votre Âme, une trop Haute Estime,
-Pour vous croire, jamais, capable d'un tel Crime,
-Mes yeux ont démenti leurs Témoins les plus forts :
-Et l'Amitié passant sur de petits Discords,
-J'ai bien voulu, chez vous, leur faire compagnie,
-Pour vous voir vous laver de cette Calomnie.
-
--*who_acaste
-Oui, Madame, voyons, d'un Esprit adouci,
-Comment vous vous prendrez à soutenir ceci ?
-Cette Lettre, par vous, est écrite à Clitandre ?
-
--*who_clitandre
-Vous avez, pour Acaste, écrit ce Billet tendre ?
-
--*who_acaste
-Messieurs, ces Traits, pour vous, n'ont point d'obscurité,
-Et je ne doute pas que sa civilité,
-À connaître sa main, n'ait trop su vous instruire :
-Mais ceci vaut, assez, la peine de le lire.
-Vous êtes un étrange Homme, de condamner mon enjouement, et de me reprocher que je n'ai jamais tant de joie, que lorsque je ne suis pas avec vous.
-Il n'y a rien de plus injuste ; et si vous ne venez bien vite, me demander pardon de cette Offense, je ne vous la pardonnerai de ma vie.
-Notre grand Flandrin de Vicomte...
-Il devrait être ici.
-Notre grand Flandrin de Vicomte, par qui vous commencez vos plaintes, est un Homme qui ne saurait me revenir ; et depuis que je l'ai vu, troisquarts d'heure durant, cracher dans un Puits, pour faire des Ronds, je n'ai pu jamais, prendre bonne opinion de lui.
-Pour le petit Marquis...
-C'est moi-même, Messieurs, sans nulle vanité.
-Pour le petit Marquis, qui me tint hier, longtemps, la main, je trouve qu'il n'y a rien de si mince que toute sa Personne ; et ce sont de ces Mérites qui n'ont que la Cape et l'Épée.
-Pour l'Homme aux Rubans verts...
-À vous le Dé, Monsieur.
-Pour l'Homme aux Rubans verts, il me divertit quelquefois, avec ses brusqueries, et son chagrin bourru ; mais il est cent moments, où je le trouve le plus fâcheux du Monde.
-Et pour l'Homme à la Veste...
-      Voici votre Paquet.
-Et pour l'Homme à la Veste, qui s'est jeté dans le bel Esprit, et veut être Auteur malgré tout le Monde, je ne puis me donner la peine d'écouter ce qu'il dit ; et sa Prose me fatigue autant que ses Vers.
-Mettez-vous, donc, en tête, que je ne me divertis pas toujours si bien que vous pensez ; que je vous trouve à dire plus que je ne voudrais, dans toutes les Parties où l'on m'entraîne ; et que c'est un merveilleux assaisonnement aux Plaisirs qu'on goûte, que la présence des Gens qu'on aime.
-
--*who_clitandre
-Me voici maintenant, moi.
-Votre Clitandre, dont vous me parlez, et qui fait tant le Doucereux, est le dernier des Hommes pour qui j'aurais de l'amitié.
-Il est extravagant de se persuader qu'on l'aime ; et vous l'êtes, de croire qu'on ne vous aime pas.
-Changez pour être raisonnable, vos Sentiments contre les siens ; et voyez-moi le plus que vous pourrez, pour m'aider à porter le chagrin d'en être obsédée...
-D'un fort beau Caractère, on voit là, le Modèle,
-Madame, et vous savez comment cela s'appelle ?
-Il suffit, nous allons l'un, et l'autre, en tous Lieux,
-Montrer, de votre Cœur, le Portrait glorieux.
-
--*who_acaste
-J'aurais de quoi vous dire, et belle est la Matière,
-Mais je ne vous tiens pas digne de ma colère ;
-Et je vous ferai voir, que les petits Marquis
-Ont, pour se consoler, des Coeurs du plus haut prix.
-
--*who_oronte
-Quoi ! de cette façon je vois qu'on me déchire,
-Après tout ce qu'à moi, je vous ai vu m'écrire :
-Et votre Coeur paré de beaux Semblants d'Amour,
-À tout le Genre Humain se promet tour à tour !
-Allez, j'étais trop Dupe, et je vais ne plus l'être.
-Vous me faites un Bien, me faisant vous connaître ;
-J'y profite d'un Cœur, qu'ainsi vous me rendez,
-Et trouve ma vengeance, en ce que vous perdez.
-Monsieur, je ne fais plus d'obstacle à votre flamme,
-Et vous pouvez conclure Affaire avec Madame.
-
--*who_arsinoe
-Certes, voilà le Trait du Monde le plus noir,
-Je ne m'en saurais taire, et me sens émouvoir.
-Voit-on des Procédés qui soient pareils aux vôtres ?
-Je ne prends point de part aux intérêts des autres :
-Mais, Monsieur, que, chez vous, fixait votre Bonheur,
-Un Homme, comme lui, de Mérite et d'Honneur,
-Et qui vous chérissait avec idolâtrie,
-Devait-il...
-
--*who_alceste
-      Laissez-moi, Madame, je vous prie,
-Vider mes intérêts, moi-même, là-dessus,
-Et ne vous chargez point de ces Soins superflus.
-Mon Coeur a beau vous voir prendre, ici, sa querelle,
-Il n'est point en état de payer ce grand zèle ;
-Et ce n'est pas à vous, que je pourrai songer,
-Si, par un autre Choix, je cherche à me venger.
-
--*who_arsinoe
-Hé ! Croyez-vous, Monsieur, qu'on ait cette pensée,
-Et que, de vous avoir, on soit tant empressée ?
-Je vous trouve un Esprit bien plein de vanité,
-Si, de cette créance, il peut s'être flatté :
-Le Rebut de Madame, est une Marchandise,
-Dont on aurait grand tort d'être si fort éprise.
-Détrompez-vous, de grâce, et portez-le moins haut :
-Ce ne sont pas des Gens, comme moi, qu'il vous faut ;
-Vous ferez bien, encor, de soupirer pour elle,
-Et je brûle de voir, une Union si belle.
-
--*who_alceste
-Hé bien, je me suis tu, malgré ce que je vois,
-Et j'ai laissé parler tout le Monde, avant moi.
-Ai-je pris sur moi-même, un assez long Empire,
-Et puis-je maintenant...
-
--*who_celimene
       Oui, vous pouvez tout dire,
 Vous en êtes en droit, lorsque vous vous plaindrez,
 Et de me reprocher tout ce que vous voudrez.
@@ -2921,40 +1926,9 @@ Que toute Chose dit, que j'ai pu vous trahir,
 Et, qu'enfin, vous avez sujet de me haïr.
 Faites-le, j'y consens.
 
--*who_alceste
-      Hé le puis-je, Traîtresse,
-Puis-je, ainsi, triompher de toute ma tendresse ?
-Et quoique avec ardeur, je veuille vous haïr,
-Trouvé-je un Cœur, en moi, tout prêt à m'obéir ?
-Vous voyez ce que peut une indigne Tendresse,
-Et je vous fais tous deux témoins de ma faiblesse.
-Mais, à vous dire vrai, ce n'est pas encor, tout,
-Et vous allez me voir la pousser jusqu'au bout,
-Montrer que c'est à tort, que Sages on nous nomme,
-Et que, dans tous les Cœurs, il est toujours de l'Homme.
-Oui, je veux bien, Perfide, oublier vos Forfaits,
-J'en saurai, dans mon Âme, excuser tous les traits,
-Et me les couvrirai du nom d'une Faiblesse,
-Où le Vice du Temps, porte votre Jeunesse ;
-Pourvu que votre Coeur veuille donner les mains
-Au Dessein que j'ai fait de fuir tous les Humains,
-Et que, dans mon Désert, où j'ai fait voeu de vivre,
-Vous soyez, sans tarder, résolue à me suivre.
-C'est par là, seulement, que, dans tous les Esprits,
-Vous pouvez réparer le mal de vos Écrits ;
-Et qu'après cet éclat, qu'un noble Coeur abhorre,
-Il peut m'être permis de vous aimer encore.
-
--*who_celimene
 Moi, renoncer au Monde, avant que de vieillir !
 Et dans votre Désert aller m'ensevelir !
 
--*who_alceste
-Et s'il faut qu'à mes feux votre Flamme réponde,
-Que vous doit importer tout le reste du Monde ?
-Vos Désirs, avec moi, ne sont-ils pas contents ?
-
--*who_celimene
 La Solitude effraye une Âme de vingt ans ;
 Je ne sens point la mienne assez grande, assez forte,
 Pour me résoudre à prendre un Dessein de la sorte.
@@ -2962,43 +1936,532 @@ Si le Don de ma main peut contenter vos voeux,
 Je pourrai me résoudre à serrer de tels Nœuds :
 Et l'Hymen…
 
--*who_alceste
-      Non, mon Cœur, à présent, vous déteste,
-Et ce refus, lui seul, fait plus que tout le reste :
-Puisque vous n'êtes point, en des Liens si doux,
-Pour trouver tout en moi, comme moi tout en vous,
-Allez, je vous refuse, et ce sensible Outrage,
-De vos indignes Fers, pour jamais me dégage.
-Madame, cent Vertus ornent votre Beauté,
-Et je n'ai vu, qu'en vous, de la sincérité :
-De vous, depuis longtemps, je fais un cas extrême,
-Mais laissez-moi, toujours, vous estimer de même :
-Et souffrez que mon Coeur, dans ses troubles divers,
-Ne se présente point à l'honneur de vos Fers ;
-Je m'en sens trop indigne, et commence à connaître,
-Que le Ciel, pour ce Nœud, ne m'avait point fait naître ;
-Que ce serait, pour vous, un Hommage trop bas,
-Que le rebut d'un Coeur qui ne vous valait pas :
-Et qu'enfin…
 
--*who_eliante
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eliante
+
+Voici les deux Marquis, qui montent avec nous ;
+Vous l'est-on venu dire ?
+
+Ce Début n'est pas mal ; et contre le Prochain,
+La Conversation prend un assez bon train.
+
+Il prend soin d'y servir des Mets fort délicats.
+
+L'Amour, pour l'ordinaire, est peu fait à ces Lois,
+Et l'on voit les Amants vanter, toujours, leur Choix :
+Jamais, leur Passion n'y voit rien de blâmable,
+Et dans l'Objet aimé, tout leur devient aimable ;
+Ils comptent les Défauts pour des Perfections,
+Et savent y donner de favorables Noms.
+La Pâle, est aux Jasmins, en blancheur, comparable ;
+La Noire, à faire peur, une Brune adorable ;
+La Maigre, a de la taille, et de la liberté ;
+La Grasse, est, dans son Port, pleine de Majesté ;
+La Malpropre, sur soi, de peu d'Attraits chargée,
+Est mise sous le nom de Beauté négligée ;
+La Géante, paraît une Déesse aux yeux ;
+La Naine, un Abrégé des Merveilles des Cieux ;
+L'Orgueilleuse, a le Coeur digne d'une Couronne ;
+La Fourbe, a de l'Esprit ; la Sotte, est toute bonne ;
+La Trop Grande Parleuse, est d'agréable Humeur ;
+Et la Muette, garde une honnête Pudeur.
+C'est ainsi, qu'un Amant, dont l'ardeur est extrême,
+Aime, jusqu'aux Défauts des Personnes qu'il aime.
+
+Dans ses façons d'agir, il est fort singulier,
+Mais j'en fais, je l'avoue, un cas particulier ;
+Et la sincérité dont son Âme se pique,
+A quelque chose, en soi, de noble, et d'héroïque ;
+C'est une Vertu rare, au Siècle d'aujourd'hui,
+Et je la voudrais voir, partout, comme chez lui.
+
+Cela fait assez voir que l'Amour, dans les Coeurs,
+N'est pas, toujours, produit par un rapport d'humeurs ;
+Et toutes ces raisons de douces Sympathies,
+Dans cet Exemple-ci, se trouvent démenties.
+
+C'est un Point qu'il n'est pas fort aisé de savoir.
+Comment pouvoir juger s'il est vrai qu'elle l'aime ?
+Son Coeur, de ce qu'il sent, n'est pas bien sûr lui-même ;
+Il aime, quelquefois, sans qu'il le sache bien,
+Et croit aimer, aussi, parfois, qu'il n'en est rien.
+
+Pour moi, je n'en fais point de façons, et je crois
+Qu'on doit, sur de tels Points, être de bonne foi :
+Je ne m'oppose point à toute sa tendresse ;
+Au contraire, mon Coeur, pour elle, s'intéresse ;
+Et si c'était qu'à moi, la chose pût tenir,
+Moi-même, à ce qu'il aime, on me verrait l'unir.
+Mais, si dans un tel Choix, comme tout se peut faire,
+Son Amour éprouvait quelque Destin contraire,
+S'il fallait que d'un autre, on couronnât les Feux,
+Je pourrais me résoudre à recevoir ses voeux ;
+Et le refus souffert, en pareille occurrence,
+Ne m'y ferait trouver aucune répugnance.
+
+Vous vous divertissez, Philinte.
+
+Qu'est-ce, donc ? qu'avez-vous qui vous puisse émouvoir ?
+
+Que votre Esprit, un peu, tâche à se rappeler !
+
+Mais, encor, qui vous peut…
+
+Avez-vous, pour le croire, un juste fondement ?
+
+Vous devez modérer vos transports, et l'outrage…
+
+Moi, vous venger ! Comment ?
+
+Je compatis, sans doute, à ce que vous souffrez,
+Et ne méprise point le Coeur que vous m'offrez :
+Mais, peut-être, le Mal n'est pas si grand qu'on pense,
+Et vous pourrez quitter ce Désir de Vengeance.
+Lorsque l'Injure part d'un Objet plein d'Appas,
+On fait force Desseins, qu'on n'exécute pas :
+On a beau voir, pour rompre, une Raison puissante,
+Une Coupable aimée, est, bientôt, innocente ;
+Tout le mal qu'on lui veut, se dissipe aisément,
+Et l'on sait ce que c'est, qu'un Courroux d'un Amant.
+
+N'allez point, là-dessus, me consulter ici ;
+Peut-être, y pourriez-vous être mal adressée,
+Et je suis pour les Gens qui disent leur pensée.
+
       Vous pouvez suivre cette pensée,
 Ma Main, de se donner, n'est pas embarrassée ;
 Et voilà votre Ami, sans trop m'inquiéter,
 Qui, si je l'en priais, la pourrait accepter.
 
--*who_philinte
-Ah ! Cet honneur, Madame, est toute mon envie,
-Et j'y sacrifierais et mon Sang, et ma Vie.
 
--*who_alceste
-Puissiez-vous, pour goûter de vrais contentements,
-L'un pour l'autre, à jamais, garder ces Sentiments.
-Trahi de toutes parts, accablé d'Injustices,
-Je vais sortir d'un Gouffre où triomphent les Vices ;
-Et chercher sur la Terre, un endroit écarté,
-Où d'être Homme d'honneur, on ait la liberté.
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
 
--*who_philinte
-Allons, Madame, allons employer toute chose,
-Pour rompre le Dessein que son Coeur se propose.
+Je viens, pour quelque avis que j'ai cru vous devoir.
+
+Leur départ ne pouvait, plus à propos, se faire.
+
+      Il n'est pas nécessaire,
+Madame ; l'Amitié doit surtout éclater
+Aux choses, qui le plus, nous peuvent importer ;
+Et comme il n'en est point de plus grande importance,
+Que celles de l'Honneur et de la Bienséance,
+Je viens, par un avis qui touche votre Honneur,
+Témoigner l'amitié que, pour vous, a mon Cœur.
+Hier, j'étais chez des Gens, de Vertu singulière,
+Où, sur vous, du Discours, on tourna la matière ;
+Et là, votre Conduite, avec ses grands éclats,
+Madame, eut le malheur, qu'on ne la loua pas.
+Cette foule de Gens, dont vous souffrez visite,
+Votre Galanterie, et les bruits qu'elle excite,
+Trouvèrent des Censeurs plus qu'il n'aurait fallu,
+Et bien plus rigoureux que je n'eusse voulu.
+Vous pouvez bien penser quel Parti je sus prendre ;
+Je fis ce que je pus, pour vous pouvoir défendre,
+Je vous excusai fort sur votre intention,
+Et voulus, de votre Âme, être la Caution.
+Mais vous savez qu'il est des Choses dans la vie,
+Qu'on ne peut excuser, quoique on en ait envie ;
+Et je me vis contrainte à demeurer d'accord,
+Que l'air dont vous viviez, vous faisait un peu tort.
+Qu'il prenait, dans le Monde, une méchante face,
+Qu'il n'est conte fâcheux que partout on n'en fasse ;
+Et que, si vous vouliez, tous vos déportements
+Pourraient moins donner prise aux mauvais jugements.
+Non que j'y croie, au fonds, l'Honnêteté blessée,
+Me préserve le Ciel d'en avoir la pensée ;
+Mais aux ombres du Crime, on prête aisément foi,
+Et ce n'est pas assez, de bien vivre pour soi.
+Madame, je vous crois l'Âme trop raisonnable,
+Pour ne pas prendre bien, cet avis profitable ;
+Et pour l'attribuer qu'aux mouvements secrets
+D'un zèle qui m'attache à tous vos intérêts.
+
+À quoi, qu'en reprenant, on soit assujettie,
+Je ne m'attendais pas à cette repartie,
+Madame, et je vois bien, par ce qu'elle a d'aigreur,
+Que mon sincère avis vous a blessée au cœur.
+
+Ah ! Madame, de vous, je ne puis rien entendre ;
+C'est en moi que l'on peut trouver fort à reprendre.
+
+Certes, vous vous targuez d'un bien faible Avantage,
+Et vous faites sonner, terriblement, votre Âge :
+Ce que, de plus que vous, on en pourrait avoir,
+N'est pas un si grand cas, pour s'en tant prévaloir ;
+Et je ne sais pourquoi, votre Âme, ainsi, s'emporte,
+Madame, à me pousser de cette étrange sorte ?
+
+Hélas ! et croyez-vous que l'on se mette en peine
+De ce nombre d'Amants dont vous faites la vaine :
+Et qu'il ne nous soit pas fort aisé de juger,
+À quel prix, aujourd'hui, l'on peut les engager ?
+Pensez-vous faire croire, à voir comme tout roule,
+Que votre seul Mérite attire cette foule ?
+Qu'ils ne brûlent, pour vous, que d'un honnête amour,
+Et que, pour vos Vertus, ils vous font tous la Cour ?
+On ne s'aveugle point par de vaines défaites,
+Le Monde n'est point Dupe, et j'en vois qui sont faites
+À pouvoir inspirer de tendres Sentiments,
+Qui, chez elles, pourtant, ne fixent point d'Amants ;
+Et de là, nous pouvons tirer des conséquences
+Qu'on n'acquiert point leurs Cœurs, sans de grandes avances ;
+Qu'aucun, pour nos beaux yeux, n'est notre Soupirant,
+Et qu'il faut acheter tous les Soins qu'on nous rend.
+Ne vous enflez, donc, point d'une si grande gloire,
+Pour les petits Brillants d'une faible Victoire ;
+Et corrigez, un peu, l'orgueil de vos Appas,
+De traiter pour cela, les Gens de haut en bas.
+Si nos yeux enviaient les Conquêtes des vôtres,
+Je pense qu'on pourrait faire comme les autres,
+Ne se point ménager, et vous faire bien voir
+Que l'on a des Amants, quand on en veut avoir.
+
+      Brisons, Madame, un pareil Entretien,
+Il pousserait trop loin votre Esprit, et le mien :
+Et j'aurais pris, déjà, le congé qu'il faut prendre,
+Si mon Carrosse, encor, ne m'obligeait d'attendre.
+
+Vous voyez, elle veut que je vous entretienne,
+Attendant, un moment, que mon Carrosse vienne ;
+Et jamais tous ses soins ne pouvaient m'offrir rien,
+Qui me fût plus charmant, qu'un pareil Entretien.
+En vérité, les Gens d'un Mérite sublime,
+Entraînent de chacun, et l'amour, et l'estime ;
+Et le vôtre, sans doute, a des Charmes secrets,
+Qui font entrer mon Coeur dans tous vos intérêts.
+Je voudrais que la Cour, par un regard propice,
+À ce que vous valez, rendît plus de justice :
+Vous avez à vous plaindre, et je suis en courroux,
+Quand je vois, chaque jour, qu'on ne fait rien pour vous.
+
+Tous ceux, sur qui la Cour jette des yeux propices,
+N'ont pas, toujours, rendu de ces fameux Services ;
+Il faut l'Occasion, ainsi que le Pouvoir :
+Et le Mérite, enfin, que vous nous faites voir,
+Devrait…
+
+Un Mérite éclatant se déterre lui-même ;
+Du vôtre, en bien des Lieux, on fait un cas extrême ;
+Et vous saurez, de moi, qu'en deux fort bons endroits,
+Vous fûtes hier, loué par des Gens d'un grand poids.
+
+Pour moi, je voudrais bien, que pour vous montrer mieux,
+Une Charge, à la Cour, vous pût frapper les yeux :
+Pour peu que d'y songer vous nous fassiez les mines,
+On peut, pour vous servir, remuer des Machines,
+Et j'ai des Gens en main, que j'emploierai pour vous,
+Qui vous feront, à tout, un Chemin assez doux.
+
+Laissons, puisqu'il vous plaît, ce Chapitre de Cour,
+Mais il faut que mon Coeur vous plaigne en votre amour ;
+Et pour vous découvrir, là-dessus, mes pensées,
+Je souhaiterais fort vos ardeurs mieux placées :
+Vous méritez, sans doute, un Sort beaucoup plus doux,
+Et celle qui vous charme, est indigne de vous.
+
+Oui, mais ma Conscience est blessée en effet,
+De souffrir, plus longtemps, le tort que l'on vous fait :
+L'état où je vous vois, afflige trop mon Âme,
+Et je vous donne avis, qu'on trahit votre flamme.
+
+Oui, toute mon Amie, elle est, et je la nomme
+Indigne d'asservir le Coeur d'un galant Homme.
+Et le sien n'a, pour vous, que de feintes douceurs.
+
+Si vous ne voulez pas être désabusé,
+Il faut ne vous rien dire, il est assez aisé.
+
+Hé bien, c'est assez dit ; et, sur cette matière,
+Vous allez recevoir une pleine lumière.
+Oui, je veux que de tout, vos yeux vous fassent foi,
+Donnez-moi, seulement, la main jusque chez moi.
+Là, je vous ferai voir une preuve fidèle
+De l'infidélité du Coeur de votre Belle ;
+Et si, pour d'autres yeux, le vôtre peut brûler,
+On pourra vous offrir de quoi vous consoler.
+
+Madame, vous serez surprise de ma vue,
+Mais ce sont ces Messieurs qui causent ma venue ;
+Tous deux ils m'ont trouvée, et se sont plaints à moi,
+D'un Trait, à qui mon Coeur ne saurait prêter foi.
+J'ai du fond de votre Âme, une trop Haute Estime,
+Pour vous croire, jamais, capable d'un tel Crime,
+Mes yeux ont démenti leurs Témoins les plus forts :
+Et l'Amitié passant sur de petits Discords,
+J'ai bien voulu, chez vous, leur faire compagnie,
+Pour vous voir vous laver de cette Calomnie.
+
+Certes, voilà le Trait du Monde le plus noir,
+Je ne m'en saurais taire, et me sens émouvoir.
+Voit-on des Procédés qui soient pareils aux vôtres ?
+Je ne prends point de part aux intérêts des autres :
+Mais, Monsieur, que, chez vous, fixait votre Bonheur,
+Un Homme, comme lui, de Mérite et d'Honneur,
+Et qui vous chérissait avec idolâtrie,
+Devait-il...
+
+Hé ! Croyez-vous, Monsieur, qu'on ait cette pensée,
+Et que, de vous avoir, on soit tant empressée ?
+Je vous trouve un Esprit bien plein de vanité,
+Si, de cette créance, il peut s'être flatté :
+Le Rebut de Madame, est une Marchandise,
+Dont on aurait grand tort d'être si fort éprise.
+Détrompez-vous, de grâce, et portez-le moins haut :
+Ce ne sont pas des Gens, comme moi, qu'il vous faut ;
+Vous ferez bien, encor, de soupirer pour elle,
+Et je brûle de voir, une Union si belle.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acaste
+
+Parbleu, s'il faut parler de Gens extravagants,
+Je viens d'en essuyer un des plus fatigants ;
+Damon, le Raisonneur, qui m'a, ne vous déplaise,
+Une heure, au grand Soleil, tenu hors de ma Chaise.
+
+Et Géralde, Madame ?
+
+Que vous semble d'Adraste ?
+
+Dieu me damne, voilà son Portrait véritable.
+
+De Grâces, et d'Attraits, je vois qu'elle est pourvue ;
+Mais les Défauts qu'elle a, ne frappent point ma vue.
+
+À moins de voir Madame en être importunée,
+Rien ne m'appelle, ailleurs, de toute la journée.
+
+Parbleu, je ne vois pas, lorsque je m'examine,
+Où prendre aucun sujet d'avoir l'Âme chagrine.
+J'ai du bien, je suis jeune, et sors d'une Maison
+Qui se peut dire Noble, avec quelque raison ;
+Et je crois, par le Rang que me donne ma Race,
+Qu'il est fort peu d'Emplois, dont je ne sois en passe.
+Pour le Coeur, dont, sur tout, nous devons faire cas,
+On sait, sans vanité, que je n'en manque pas ;
+Et l'on m'a vu pousser, dans le Monde, une Affaire,
+D'une assez vigoureuse, et gaillarde manière.
+Pour de l'Esprit, j'en ai, sans doute, et du bon goût,
+À juger sans Étude, et raisonner de tout ;
+À faire aux Nouveautés, dont je suis idolâtre,
+Figure de Savant, sur les Bancs du Théâtre ;
+Y décider en Chef, et faire du Fracas
+À tous les beaux Endroits qui méritent des Has.
+Je suis assez adroit, j'ai bon air, bonne mine,
+Les Dents belles, surtout, et la taille fort fine.
+Quant à se mettre bien, je crois, sans me flatter,
+Qu'on serait mal venu de me le disputer.
+Je me vois dans l'Estime autant qu'on y puisse être,
+Fort aimé du beau Sexe, et bien auprès du Maître :
+Je crois, qu'avec cela, mon cher Marquis, je crois,
+Qu'on peut, par tout Pays, être content de soi.
+
+Moi ? parbleu, je ne suis de taille, ni d'humeur,
+À pouvoir, d'une Belle, essuyer la froideur.
+C'est aux Gens mal tournés, aux Mérites vulgaires,
+À brûler, constamment, pour des Beautés sévères ;
+À languir à leurs pieds, et souffrir leurs rigueurs,
+À chercher le secours des soupirs, et des pleurs,
+Et tâcher, par des soins d'une très longue suite,
+D'obtenir ce qu'on nie à leur peu de mérite.
+Mais les Gens de mon air, Marquis, ne sont pas faits,
+Pour aimer à crédit, et faire tous les frais.
+Quelque rare que soit le mérite des Belles,
+Je pense, Dieu merci, qu'on vaut son prix, comme elles ;
+Que pour se faire honneur d'un Coeur comme le mien,
+Ce n'est pas la raison qu'il ne leur coûte rien.
+Et qu'au moins, à tout mettre en de justes Balances,
+Il faut, qu'à frais communs, se fassent les avances.
+
+J'ai quelque lieu, Marquis, de le penser ainsi.
+
+Il est vrai, je me flatte, et m'aveugle, en effet.
+
+Je me flatte.
+
+Je m'aveugle.
+
+Je m'abuse, te dis-je.
+
+Non, je suis maltraité.
+
+Je n'ai que des rebuts.
+
+Je suis le Misérable, et toi le Fortuné,
+On a, pour ma Personne, une aversion grande ;
+Et quelqu'un de ces jours, il faut que je me pende.
+
+Ah ! parbleu, tu me plais, avec un tel langage ;
+Et du bon de mon coeur, à cela je m'engage.
+Mais chut.
+
+Pour Prude consommée, en tous Lieux elle passe ;
+Et l'ardeur de son zèle…
+
+Madame, nous venons tous deux, sans vous déplaire,
+Éclaircir, avec vous, une petite Affaire.
+
+Oui, Madame, voyons, d'un Esprit adouci,
+Comment vous vous prendrez à soutenir ceci ?
+Cette Lettre, par vous, est écrite à Clitandre ?
+
+Messieurs, ces Traits, pour vous, n'ont point d'obscurité,
+Et je ne doute pas que sa civilité,
+À connaître sa main, n'ait trop su vous instruire :
+Mais ceci vaut, assez, la peine de le lire.
+Vous êtes un étrange Homme, de condamner mon enjouement, et de me reprocher que je n'ai jamais tant de joie, que lorsque je ne suis pas avec vous. Il n'y a rien de plus injuste ; et si vous ne venez bien vite, me demander pardon de cette Offense, je ne vous la pardonnerai de ma vie. Notre grand Flandrin de Vicomte...
+Il devrait être ici.
+Notre grand Flandrin de Vicomte, par qui vous commencez vos plaintes, est un Homme qui ne saurait me revenir ; et depuis que je l'ai vu, troisquarts d'heure durant, cracher dans un Puits, pour faire des Ronds, je n'ai pu jamais, prendre bonne opinion de lui. Pour le petit Marquis...
+C'est moi-même, Messieurs, sans nulle vanité.
+Pour le petit Marquis, qui me tint hier, longtemps, la main, je trouve qu'il n'y a rien de si mince que toute sa Personne ; et ce sont de ces Mérites qui n'ont que la Cape et l'Épée. Pour l'Homme aux Rubans verts...
+À vous le Dé, Monsieur.
+Pour l'Homme aux Rubans verts, il me divertit quelquefois, avec ses brusqueries, et son chagrin bourru ; mais il est cent moments, où je le trouve le plus fâcheux du Monde. Et pour l'Homme à la Veste...
+      Voici votre Paquet.
+Et pour l'Homme à la Veste, qui s'est jeté dans le bel Esprit, et veut être Auteur malgré tout le Monde, je ne puis me donner la peine d'écouter ce qu'il dit ; et sa Prose me fatigue autant que ses Vers. Mettez-vous, donc, en tête, que je ne me divertis pas toujours si bien que vous pensez ; que je vous trouve à dire plus que je ne voudrais, dans toutes les Parties où l'on m'entraîne ; et que c'est un merveilleux assaisonnement aux Plaisirs qu'on goûte, que la présence des Gens qu'on aime.
+
+J'aurais de quoi vous dire, et belle est la Matière,
+Mais je ne vous tiens pas digne de ma colère ;
+Et je vous ferai voir, que les petits Marquis
+Ont, pour se consoler, des Coeurs du plus haut prix.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clitandre
+
+Parbleu, je viens du Louvre, où Cléonte, au Levé,
+Madame, a bien paru, Ridicule achevé.
+N'a-t-il point quelque Ami qui pût, sur ses Manières,
+D'un charitable Avis, lui prêter les lumières ?
+
+Timante encor, Madame, est un bon Caractère !
+
+On dit qu'avec Bélise, il est du dernier Bien.
+
+Mais le jeune Cléon, chez qui vont, aujourd'hui,
+Nos plus honnêtes Gens, que dites-vous de lui ?
+
+Pour bien peindre les Gens, vous êtes admirable !
+
+Pourquoi s'en prendre à nous ? Si ce qu'on dit, vous blesse,
+Il faut que le reproche, à Madame, s'adresse.
+
+Pour moi, je ne sais pas ; mais j'avouerai, tout haut,
+Que j'ai cru, jusqu'ici, Madame sans Défaut.
+
+Moi, pourvu que je puisse être au petit Couché,
+Je n'ai point d'autre Affaire, où je sois attaché.
+
+Cher Marquis, je te vois l'Âme bien satisfaite,
+Toute chose t'égaye, et rien ne t'inquiète.
+En bonne foi, crois-tu, sans t'éblouir les yeux,
+Avoir de grands sujets de paraître joyeux ?
+
+Oui, mais trouvant ailleurs, des Conquêtes faciles,
+Pourquoi pousser ici des soupirs inutiles ?
+
+Tu penses donc, Marquis, être fort bien ici ?
+
+Crois-moi, détache-toi de cette erreur extrême ;
+Tu te flattes, mon Cher, et t'aveugles toi-même.
+
+Mais, qui te fait juger ton bonheur si parfait ?
+
+      Sur quoi fonder tes Conjectures ?
+
+      En as-tu des preuves qui soient sûres ?
+
+      Est-ce que de ses voeux,
+Célimène t'a fait quelques secrets aveux ?
+
+      Réponds-moi, je te prie.
+
+      Laissons la raillerie,
+Et me dis quel espoir on peut t'avoir donné ?
+
+Ô çà, veux-tu, Marquis, pour ajuster nos voeux,
+Que nous tombions d'accord d'une chose, tous deux ?
+Que qui pourra montrer une marque certaine,
+D'avoir meilleure part au Coeur de Célimène,
+L'autre ici, fera place au Vainqueur prétendu,
+Et le délivrera d'un Rival assidu ?
+
+      L'Amour retient nos pas.
+
+      Non.
+
+Fort à propos, Messieurs, vous vous trouvez ici,
+Et vous êtes mêlés dans cette Affaire, aussi.
+
+Vous avez, pour Acaste, écrit ce Billet tendre ?
+
+Me voici maintenant, moi.
+Votre Clitandre, dont vous me parlez, et qui fait tant le Doucereux, est le dernier des Hommes pour qui j'aurais de l'amitié. Il est extravagant de se persuader qu'on l'aime ; et vous l'êtes, de croire qu'on ne vous aime pas. Changez pour être raisonnable, vos Sentiments contre les siens ; et voyez-moi le plus que vous pourrez, pour m'aider à porter le chagrin d'en être obsédée...
+D'un fort beau Caractère, on voit là, le Modèle,
+Madame, et vous savez comment cela s'appelle ?
+Il suffit, nous allons l'un, et l'autre, en tous Lieux,
+Montrer, de votre Cœur, le Portrait glorieux.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_basque
+
+      Acaste est là-bas.
+
+Voici Clitandre, encor, Madame.
+
+Monsieur, un Homme est là, qui voudrait vous parler,
+Pour Affaire, dit-il, qu'on ne peut reculer.
+
+Il porte une Jaquette, à grand'Basques plissées,
+Avec du Dor dessus.
+
+      Arsinoé, Madame,
+Monte ici, pour vous voir.
+
+Éliante, là-bas, est à l'entretenir.
+
+
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dubois
+
+      Monsieur…
+
+      Voici bien des mystères.
+
+      Nous sommes mal, Monsieur, dans nos Affaires.
+
+      Parlerai-je haut ?
+
+N'est-il point là, quelqu'un…
+
+      Monsieur, il faut faire retraite.
+
+      Il faut, d'ici, déloger sans Trompette.
+
+      Je vous dis qu'il faut quitter ce Lieu.
+
+      Il faut partir, Monsieur, sans dire adieu.
+
+Par la Raison, Monsieur, qu'il faut plier Bagage.
+
+Monsieur, un Homme noir, et d'habit, et de mine,
+Est venu nous laisser, jusque dans la Cuisine,
+Un Papier griffonné d'une telle façon,
+Qu'il faudrait, pour le lire, être pis que Démon.
+C'est de votre Procès, je n'en fais aucun doute,
+Mais le Diable d'Enfer, je crois, n'y verrait goutte.
+
+C'est pour vous dire, ici, Monsieur, qu'une heure ensuite,
+Un Homme, qui souvent vous vient rendre visite,
+Est venu vous chercher avec empressement ;
+Et ne vous trouvant pas, m'a chargé, doucement,
+Sachant que je vous sers avec beaucoup de zèle,
+De vous dire… Attendez, comme est-ce qu'il s'appelle ?
+
+C'est un de vos Amis, enfin, cela suffit.
+Il m'a dit que, d'ici, votre Péril vous chasse,
+Et que, d'être arrêté, le Sort vous y menace.
+
+Non, il m'a demandé de l'Encre, et du Papier ;
+Et vous a fait un Mot, où vous pourrez, je pense,
+Du fonds de ce mystère, avoir la connaissance.
+
+Ma foi, je l'ai, Monsieur, laissé sur votre Table.
+

@@ -1,6 +1,6 @@
 ---
 identifier: abeille_lyncee  
-creator: Abeille, Gaspard  
+creator: Abeille, Gaspard ; Georges Forestier.  
 date: 1681  
 title: Lyncée, tragédie  
 ---

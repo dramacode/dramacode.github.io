@@ -1,6 +1,6 @@
 ---
 identifier: campistron_virginie  
-creator: Campistron, Jean-Galbert de  
+creator: Campistron, Jean-Galbert de ; Georges Forestier.  
 date: 1683  
 title: La Virginie. Tragédie.  
 ---

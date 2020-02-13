@@ -1,6 +1,6 @@
 ---
 identifier: boyer_artaxerce  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1683  
 title: Artaxerce. Tragédie  
 ---

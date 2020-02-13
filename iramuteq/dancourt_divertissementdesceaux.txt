@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1705
+**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesalle
 
--*who_mademoisellesalle
 Ne portons pas
 Plus loin nos pas,
 Arrêtons-nous dans ces belles retraites :
@@ -13,51 +12,11 @@ Font assez voir que ces bois enchantés,
 Conduisent aux Palais superbes
 De quelques Divinités.
 
--*who_monsieursalle
-Dans ce séjour chéri des Dieux,
-Troupe aimable, qui vous attire ?
-N'est-ce qu'un désir curieux
-D'y voir les beautés qu'on admire ?
-
--*who_mademoisellesalle
 Sage druide, apprenez-nous
 Quels sont les beaux lieux où nous sommes,
 Quelle Divinité par vous
 Reçoit ici l'encens et l'hommage des hommes.
 
--*who_ledruide
-Bénissez le sort heureux
-Qui dans ce Palais vous amène ;
-Hâtez-vous d'offrir vos vœux
-À notre AUGUSTE SOUVERAINE.
-
--*who_ledruide
-C'est la Vertu qui tient ici sa Cour ;
-Mais ce n'est point cette Vertu sauvage
-Qui fuit l'innocent badinage
-Des jeux, des ris, et de l'amour :
-C'est la Vertu dans son bel âge,
-Qui dans cet aimable séjour,
-Des doux plaisirs permet l'usage,
-Et qui sait les prendre à son tour.
-
--*who_ledruide
-Elle aime à sa suite
-Que le vrai mérite
-Brille chaque jour.
-Minerve se plaint qu'on la quitte,
-Pour lui venir faire la cour ;
-Et de Vénus la Troupe favorite,
-Des Grâces l'élite,
-Y retient la jeunesse et l'amour.
-
--*who_monsieurpoisson
-Parbleu je suis ravi que cela soit comme vous le dites, et… Nous sommes aussi nous autres l'élite d'une Troupe favorite, non pas de Vénus, mais de Comus, et si peu que rien d'Apollon… Comédiens pour vous rendre service, Monsieur le Druide.
-Et puisque le hasard… nous conduit heureusement dans une Cour aussi charmante que celle-ci, auprès d'une Souveraine si agréablement vertueuse, nous vous prions de lui faire agréer que… nous ayons, s'il vous plaît, l'honneur de lui donner… un petit plat de notre métier.
-Je ne sais pas parler en musique comme vous… moi ; mais cela n'empêche pas que je me réjouisse quelquefois en parlant autrement, par exemple… je suis le Comique… et nous sommes tous camarades ; enfin c'est ce qui fait que comme nous n'avons point de maître, nous ne sommes pas toujours bien d'accord… Mais ce qu'il y a de constant… c'est que l'on s'accorde pour contribuer au plaisirs de l'AUGUSTE SOUVERAINE chez qui nous sommes, et dans l'objet que nous avons d'y réussir, nous sommes tous d'une docilité, d'une tranquillité d'esprit… enfin, expliquez-lui cela, s'il vous plaît, Monsieur le Druide, et n'oubliez pas de parler surtout du zèle et du respectueux attachement que nous avons tous, et de bien marquer… là… combien nous nous estimons heureux de trouver la moindre petite occasion de tâcher de nous rendre dignes de l'honneur de sa bienveillance et de sa protection.
-Allons, Messieurs, Mesdemoiselles, achevez, s'il vous plaît, votre façon de prologue, et nous commencerons notre Comédie.
-
--*who_mademoisellesalle
 Que les Grecs soient glorieux,
 D'avoir chez eux le Parnasse,
 Cet aimable coteau parmi nous tient sa place,
@@ -65,16 +24,6 @@ Et nous élève au-dessus d'eux.
 Ici la moindre fontaine
 Vaut tout l'eau d'Hypocrène.
 
--*who_ledruide
-Depuis le jour qu'Apollon
-Quitta le sacré vallon,
-Sur ces coteaux il réside ;
-Et la Muse qui dans ses lieux
-Seule au lieu des neufs Sœurs préside,
-N'est point une Piéride,
-Elle est du sang de nos Dieux.
-
--*who_mademoisellesalle
 Aux bords de la Seine
 Une Souveraine
 Gagne tous les cœurs,
@@ -86,7 +35,6 @@ De Paphos la Reine
 À son char entraîne
 Moins d'Adorateurs.
 
--*who_mademoisellesalle
 L'île de Cythère
 À Vénus si chère
 Cède à ses beaux lieux ;
@@ -98,27 +46,6 @@ Hé ! Se peut-il faire
 Qu'on ne les préfère
 Au séjour des Dieux ?
 
--*who_monsieursalle
-
-
-Si cette Cour charmante
-Est contente
-Des soins que nous avons pris,
-Le succès passe notre attente,
-Est-il un plus digne de prix ?
-
-Que la troupe diligente
-Des plaisirs, des Jeux, des Ris,
-Vienne dans ces lieux chéris,
-Finir cette fête galante.
-
-Si cette Cour charmante
-Est contente
-Des soins que nous avons pris,
-Le succès passe notre attente,
-Est-il un plus digne de prix ?
-
--*who_mademoisellesalle
 De ce séjour aimable
 Je crains de m'éloigner,
 On ne voit point ailleurs régner
@@ -194,3 +121,4 @@ Sans craindre prenons-en donc.
 Qui s'ennuie
 Dans la vie,
 N'a ni bon sens, ni raison.
+

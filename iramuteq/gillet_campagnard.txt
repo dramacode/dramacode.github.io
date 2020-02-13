@@ -1,316 +1,17 @@
 
 
-**** *book_ *id_I01 *act_I *date_1656 *creator_gillet_de_la_tessonerie
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_bazile
 
--*who_lecampagnard
-Tu ne la trouves pas plus belle que cela ?
-
--*who_jodelet
-Elle n'est pas tant sotte.
-
--*who_lecampagnard
-      Elle est...
-
--*who_jodelet
-      Est là, là.
-
--*who_lecampagnard
-Encor !
-
--*who_jodelet
-      Point de quartier.
-
--*who_lecampagnard
-      Maraud, si je t'attrape !
-
--*who_jodelet
-Ma foi, sa beauté n'a que l'épée et la cape.
-
--*who_lecampagnard
-Ne finiras-tu point ces discours impudents ?
-
--*who_jodelet
-Mentirez-vous toujours en arracheur de dents ?
-C'est parler librement.
-
--*who_lecampagnard
-      Ta liberté me choque.
-
--*who_jodelet
-Vous vous en offensez ? Touchez là, je m'en moque.
-Quoi, Monsieur, avec moi faire du réservé !
-Être libre au pays, et froid sur le pavé !
-Est-ce de la façon que l'on doit vivre ensemble ?
-Parlez quand vous plaît, et moi, quand bon me semble.
-Ne me défendez point d'être de votre écot
-Et ne me baillez point ici du quiproquo.
-Si ma fidélité vous fait quelques outrages,
-Séparons-nous tous deux, et payez-moi mes gages.
-Avecque le secours de mon petit magot
-Malgré vous dans Paris je puis vivre à gogo ;
-Et quand j'aurai besoin de maître ou de maîtresse
-Je sais bien le Palais et le bureau d'adresse
-Je suis valet d'honneur et ne redoute rien
-Si je parle un peu trop, je sers aussi fort bien.
-Quand avec la parole on fait quelques offenses,
-Coup de langue est alors pire que coups de lances ;
-Mais quand par la parole on dit fidèlement
-Au maître que l'on sert quel est son sentiment,
-Et que la parole est honnête, et belle, et bonne,
-Que diable peut-on dire au valet qui raisonne ?
-J'enrage et si j'étais à quelque raisonneur
-Je ferais ma fortune avecque plus d'honneur.
-Au diable de bon coeur, la noblesse champêtre,
-Et maudit tout valet qui ne l'enverra paître.
-
--*who_lecampagnard
-Jodelet !
-
--*who_jodelet
-      Pour avoir des plumes au chapeau,
-L'éguillette à la mode et le ruban nouveau,
-Pour être chaque jour brave comme au dimanche,
-Et me faire crayer ici la botte blanche,
-Faut-il trancher du Prince avec un vieil valet
-Qui vous a vu soudrille et petit argoulet,
-Qui mange avecque vous le lard à la campagne
-Et qui, pour lard manger, y mange ce qu'il gagne ?
-
--*who_lecampagnard
-Parle bas, Jodelet.
-
--*who_jodelet
-      Moi, Monsieur, parler bas !
-Pestez, jurez, criez, je ne le ferai pas...
-Tout valet que je suis...
-
--*who_lecampagnard
-      Vieil ami, tu te fâches.
-
--*who_jodelet
-Ôtez de vos papiers que vos gens soient des lâches.
-Tous ceux de notre race ont eu le sang bouillant
-Et qui dit Jodelet, dit autant que vaillant.
-
--*who_lecampagnard
-Quand on a comme toi l'âme fort querelleuse
-Et qu'on est, comme moi, d'humeur fort amoureuse,
-Bien loin de se fâcher contre un vieil serviteur,
-On endure aisément de sa mauvaise humeur ;
-Aussi je te pardonne, et, pour ma récompense,
-Dis-moi fidèlement tout ce que ton coeur pense :
-Si tu crois que Phénice est pour moi toute en feu,
-Ou si tu reconnais qu'elle n'en tient qu'un peu
-Si son esprit te plaît, si tu la tiens adrette,
-Si Cliton n'a dessein qu'à sa belle cadette,
-Et si dans mes amours je procède fort mal.
-
--*who_jodelet
-Ma foi, dans vos amours vous n'êtes qu'un cheval.
-L'autre jour je le vis qui cajolait Phénice
-D'un air assez gaillard pour être sans malice,
-Et qui lui conseillait qu'elle changeât de ton
-Et puis en ajoutant deux fois "Qu'en dira-t-on" ?
-Il lui dit qu'il fallait tâcher à vous surprendre.
-
--*who_lecampagnard
-Hé ! Pauvre sot, c'était pour me les faire entendre,
-Et tu ne comprends pas que ce qu'en dira-t-on
-Est la chanson du temps.
-
--*who_jodelet
-      Tout de bon ?
-
--*who_lecampagnard
-      Tout de bon.
-
--*who_jodelet
-Mais un autre soupçon trouble encor ma caboche :
-Hier, je le vis penaud comme un fondeur de cloche,
-Quand, proche de Phénice et voyant son portrait
-Où le peintre achevait de donner quelque trait,
-Il le prit brusquement et, le baisant de même,
-Jura qu'il y trouvait une douceur extrême,
-Et s'étant barbouillé le minois de couleur,
-Me voyant arriver, s'enfuit comme un voleur.
-
--*who_lecampagnard
-C'est qu'il a l'oeil mauvais et voit de près.
-
--*who_jodelet
-      J'enrage :
-C'est qu'il voulait l'avoir peinte sur son visage
-Et par ce coup d'adresse, en épargnant le sien,
-En avoir le portrait qui ne lui coustêt rien.
-
--*who_lecampagnard
-Ne peux-tu concevoir qu'en voyant cet ouvrage,
-Et la main lui manquant, il gâta son visage,
-Et cherchait un miroir alors qu'il s'enfuyait ?
-Bien, laissez-vous duper.
-
--*who_jodelet
-      Mais chacun le voyait,
-Et le Peintre m'a dit, lui qui sait notre intrigue
-Et qui pour moi prend garde à tout ce qui se brigue,
-Que de cet accident Phénice se moqua,
-Et même jusqu'au point que Cliton s'en piqua.
-Mais j'aperçois venir et Bazile et ma Reine.
-
-**** *book_ *id_I02 *act_I *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
-Salut ! Où va la botte, et quel bon vent vous mène ?
-
--*who_phenice
-Nous vous allions chercher pour vous prendre avec nous.
-
--*who_lecampagnard
-Pouvez-vous me chercher si je ne vis qu'en vous ?
-D'une si belle ardeur mon âme est enflammée
-Qu'elle est bien moins en moi que dans la chose aimée,
-Et l'on me doit chercher, à quelque heure qu'il soit
-Plutôt où vous serez qu'aux lieux où l'on me voit.
-
--*who_phenice
-C'est me donner mon reste.
-
--*who_bazile
       Avec assez d'adresse.
 
--*who_lecampagnard
-Madame, je ne veux qu'amour et que simplesse ;
-Jamais je n'eus dessein d'être controversant
-Ni mon coeur de pousser un penser offensant
-Cet amoureux captif, d'une ardeur singulière
-Adore ses liens, sa geôle et sa geôlière,
-Ou, pour eu mieux parler, dans son feu sans pareil,
-Il ressemble à ces fleurs qui suivent le soleil
-Et se trouve attiré par un secret mérite,
-Comme la paille court vers l'ambre qui l'excite.
-
--*who_phenice
-Vous pouviez bien encor m'appeler votre aimant.
-
--*who_lecampagnard
-Je l'eusse fait, Madame, et légitimement.
-
--*who_phenice
-Il est encor des corps dont l'humeur sympathique.
-
--*who_bazile
 Voyez-vous, elle a lu.
 
--*who_phenice
-      Dites que je m'en pique
-Et qu'on ne peut citer, ni me parler Phoebus,
-Donner un quolibet, ni débiter rébus,
-Qu'au plus fin du métier je n'en fasse la nique.
-
--*who_lecampagnard
-Madame, votre esprit est tout scientifique
-Et tant de beaux talents, qui surent m'asservir,
-Font voir que vous avez l'âme belle à ravir.
-
--*who_cliton
-L'impertinent galant !
-
--*who_philis
-      Ah ! J'en pâme de rire !
-
--*who_bazile
 Ma nièce répondra.
 
--*who_phenice
-      Cela lui plaît à dire
-Et je connais fort bien, partout ce que je vois,
-Qu'il dit tous ces beaux mots pour se moquer de moi.
-
--*who_lecampagnard
-Ah ! Certes, dans l'excès du feu qui me consomme,
-Je jure par vos yeux, et foi de gentilhomme,
-Qu'après m'avoir ravi ma chère liberté,
-Je ne dis rien de vous qu'avecque vérité.
-Il faut, pour vous donner d'équitables louanges,
-Vous mettre en parallèle au moins avec les anges,
-Puisqu'enfin le soleil, ce clair flambeau des cieux,
-N'a pas tant de rayons qu'en dardent vos beaux yeux.
-J'en jure par ces mains !
-
--*who_phenice
-      Ô le serment étrange !
-
--*who_jodelet
-Monsieur, ne jurez point, ramassez votre lange,
-Et sans parler du ciel, ni de son clair flambeau,
-Mettez-y le bouton et gardez le chapeau.
-
--*who_phenice
-Ah ! Dieux, vous nous avez tous emplis de poussière.
-
--*who_lecampagnard
-Malgré son épaisseur, que je vois de lumière,
-Et que ces yeux, brillant dans cette obscurité,
-Ont de force, de grâce et de vivacité
-Enfin...
-
--*who_phenice
-      Avez-vous peur de n'en pas assez dire ?
-
--*who_lecampagnard
-Madame, mes rivaux n'auront pas lieu d'en rire,
-Puisque, pour vous cacher mes défauts en ces lieux,
-J'ai bien su vous jeter de la poussière aux yeux.
-
--*who_bazile
 Hé bien ! Est-ce l'entendre, et...
 
--*who_lecampagnard
-      La pointe est commune.
-
--*who_phenice
-C'est être ménager que de n'en donner qu'une
-Et lorsque vous avez si lourdement péché,
-Vous en quitter pour trois, c'est un fort grand marché.
-
--*who_lecampagnard
-Je voudrais pouvoir dire autant de belles choses
-Que sur votre beau teint l'on peut compter de roses,
-Et qu'il naist en tout temps de fleurs dessous vos pas.
-
--*who_phenice
-Certes, pour celle-là je ne l'attendais pas,
-Et, pour en bien parler, je la trouve si prête
-Que je gage à présent qu'il en a cent de reste.
-
--*who_bazile
 Enfin, c'est vous donner le change comme il faut.
 
--*who_phenice
-Ah qu'heureux est l'esprit qui va toujours par haut
-Et qui peut débiter la fleurette nouvelle !
-Ah ! Le rare talent !
-
--*who_lecampagnard
-      Ce n'est que bagatelle,
-Et dedans le pays qui veut parler d'amour
-Passerait pour un sot, s'il n'en dit cent par jour
-Aussi j'avais le bruit d'en être inépuisable,
-Et sans m'y préparer...
-
--*who_jodelet
-      Ah ! Vous mentez en diable !
-
--*who_lecampagnard
-Coquin !...
-
--*who_jodelet
-      Ni vous, ni moi, n'avons l'esprit présent.
-
--*who_lecampagnard
-Si...
-
--*who_bazile
       L'on vous connaît bien, et jusques à présent,
 Comme vous, je ne suis que l'instinct de nature
 Et fort souvent j'écris sans faire de rature.
@@ -331,18 +32,10 @@ Que je laisse passer en divertissements,
 Quand on dit un bon mot, quelque gai qu'on me voie,
 La crainte de la mort est un grand rabat-joie.
 
--*who_lecampagnard
-Quoi, vous êtes sans goût pour les plaisirs des sens ?
-
--*who_bazile
 Ceux de l'entendement sont bien plus innocents
 Est-il rien de pareil à ces belles sciences
 Qui nous font découvrir l'effet des Influences ?
 
--*who_lecampagnard
-Je ne m'étonne plus si notre hoôte vous plaît.
-
--*who_bazile
 Ma foi, c'est un trésor, tout bizarre qu'il est ;
 C'est un savant garçon, s'il en est dans le monde :
 Son esprit est perçant, sa doctrine est profonde,
@@ -350,354 +43,327 @@ Et tantôt il m'a fait une réflexion
 De l'astre dominant la constellation,
 Qui semble surpasser l'effet de la Nature.
 
--*who_phenice
-Mais quand nous dira-t-il notre bonne aventure ?
-
--*who_bazile
 D'un air assez adroit je l'y veux engager ;
 Mais comme il est bizarre, il le faut ménager.
 Les savants ont leur verve et font tout par caprice ;
 Je le sais par moi-même, et je connais mon vice.
 Mais Léandre s'approche.
 
-**** *book_ *id_I03 *act_I *date_1656 *creator_gillet_de_la_tessonerie
+      Au contraire, fort bien.
 
--*who_leandre
-      Hé bien, le jour est beau
-Pourrons-nous aujourd'hui retoucher au tableau ?
-L'atelier est dressé, je n'attends que votre ordre.
+Ce passage est d'Ovide, il m'en souvient fort bien.
 
--*who_phenice
-Je vais faire visite, et n'en veux point démordre ;
-Fâchez-vous-en, ou non, je vous jouerai ce tour.
+Oui, par ce seul récit déjà le coeur me saute.
 
--*who_leandre
-Madame, nous aurons ce bien un autre jour.
+Je crois qu'il faisait chaud à quatre pas de là.
+Quelle éloquence !
 
--*who_lecampagnard
+C'est un trait de jeune homme, et c'est en user mal.
+
+Et la ville ?
+
+Hé bien ces beaux tableaux sont ?...
+
+Je suis ravi de voir un homme de promesse.
+
+J'ai grand dessein de voir quelque chose de beau.
+
+Cette pièce est hardie.
+
+En effet, la peinture est....
+
+      Sa tête est des plus belles.
+
+      Que veux-tu ?
+
+Vite, un cheval de main ! Qu'on m'apprête ma brette,
+Mes bottes de campagne et mes bons pistolets !
+Viste, sellez, bridez ! Où sont tous mes valets ?
+Ces marauds, on les voit quand on n'en a que faire.
+
+Champagne, La Forêt, petit Basque, Picart
+Au diable les valets, maudite soit la race !
+Je n'en puis plus souffrir, il faut que je les chasse.
+Ma nièce, je reviens ici dans un moment.
+
+Vous devez avancer, puisqu'il avance aussi,
+Et parier le premier, ayant 6meu l'affaire.
+Embrassez-vous.
+
+Embrassez-vous encor pour confirmer la paix.
+
+Quand je vous séparai sans aucun avantage,
+Vous aviez fait tous deux en hommes de courage.
+
+Que dites-vous, Monsieur ?
+
+      Ce changement m'étonne.
+
+Monsieur ?
+
+De grâce !...
+
+      Qu'est ceci ?
+Faut-il que des amis se querellent ainsi ?
+
+Ah ! Cliton !
+
+      Dieux quelles procédures !
+
+      Vous êtes brave homme, il faut qu'il le confesse.
+
+      Pour l'amour de moi, que ce désordre cesse !
+Quel est ce démêlé ?
+
+Silence !
+
+Il est vrai, mais il faut accommoder la chose.
+
+Embrassez-vous.
+
+      Entrons.
+
+Êtes-vous insensés ? Que faites-vous, Messieurs ?
+Toujours flamberge au vent !
+
+Prends garde.
+
+Je crois que ce coquin m'a fait saigner du nez.
+Au diable le lourdaud ! Ah ! Sur ma foi, je gage
+Que je suis écorché jusques au cartilage.
+Si le coup eut donné deux ou trois doigts plus haut,
+J'en eusse eu pour mourir tout autant qu'il en faut :
+L'artère de la temple est un endroit funeste
+Où l'âme a toujours droit de jouer de son reste,
+Quand, par solution de continuité,
+On la vient détourner de sa tranquillité.
+Mais hâte ! Et vous, Monsieur, qui, pauvre gentilhomme,
+Feignez pour nous duper que vous venez de Rome,
+Et, passant pour un peintre avec un faux patois,
+Nous jouez en grand maître un tour de fin matois,
+Vous pouvez bien porter dedans d'autres familles
+Ces secrets merveilleux pour attraper des filles.
+Phénice m'a tout dit, et vous ne tenez rien ;
+C'est pourquoi, délogez, puisqu'on vous connaît bien,
+Et ne prétendez pas duper notre cadette.
+
+      Ah ! Sonnez la retraite !
+Notre aînée ayant su comme vous en usez
+M'a tantôt déclaré que vous nous abusez
+Et prétendez avoir sa soeur en mariage.
+
+Et moi, je vous promets qu'avant demain peut-être,
+Nous vous mettrons en lieu dont nous serons le maître.
+Je suis oncle et tuteur, et comme tel je dois
+Vous apprendre d'avoir plus de respect pour moi.
+Quand Monsieur...
+
+      Mais enfin.
+
+Mais de quelle maison est-il ?
+
+Faisant tout par justice et pour bonne raison,
+S'il a le bien qu'on dit, il faudra bien le faire.
+
+Mais Lise vient à nous.
+
+
+
+« N'ayant plus de raison,
+Après avoir connu qu'un ingrat m'abandonne,
+Dedans mon désespoir je me donne à Cliton
+Qui connaît la valeur du bien que je lui donne.
+Veuillez donc approuver,
+Ô mon oncle très cher, un pareil mariage,
+Et différant un peu de vous aller trouver,
+Permettez que j'apprenne à devenir plus sage. »
+PHÉNICE.
+
+Ah ! Ce mot m'attendrit.
+
+Quel accident fâcheux !
+
+      C'est tout coeur.
+
+      Allez, c'en est trop dire :
+Votre courage vaut plus qu'elle et qu'un empire.
+Tirant raison au nom de cette trahison,
+Étant né gentilhomme et de bonne maison,
+J'approuve qu'on vous aime et le tiens légitime.
+Le bien vaut quelquefois beaucoup moins que l'estime,
+Et tout homme de coeur porte encore au côté
+Un assez grand trésor dans la nécessité.
+
+      Ne craignez rien de mal.
+Je vais tout le premier en campagne.
+
+
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecampagnard
+
+Tu ne la trouves pas plus belle que cela ?
+
+      Elle est...
+
+Encor !
+
+      Maraud, si je t'attrape !
+
+Ne finiras-tu point ces discours impudents ?
+
+      Ta liberté me choque.
+
+Jodelet !
+
+Parle bas, Jodelet.
+
+      Vieil ami, tu te fâches.
+
+Quand on a comme toi l'âme fort querelleuse
+Et qu'on est, comme moi, d'humeur fort amoureuse,
+Bien loin de se fâcher contre un vieil serviteur,
+On endure aisément de sa mauvaise humeur ;
+Aussi je te pardonne, et, pour ma récompense,
+Dis-moi fidèlement tout ce que ton coeur pense :
+Si tu crois que Phénice est pour moi toute en feu,
+Ou si tu reconnais qu'elle n'en tient qu'un peu
+Si son esprit te plaît, si tu la tiens adrette,
+Si Cliton n'a dessein qu'à sa belle cadette,
+Et si dans mes amours je procède fort mal.
+
+Hé ! Pauvre sot, c'était pour me les faire entendre,
+Et tu ne comprends pas que ce qu'en dira-t-on
+Est la chanson du temps.
+
+      Tout de bon.
+
+C'est qu'il a l'oeil mauvais et voit de près.
+
+Ne peux-tu concevoir qu'en voyant cet ouvrage,
+Et la main lui manquant, il gâta son visage,
+Et cherchait un miroir alors qu'il s'enfuyait ?
+Bien, laissez-vous duper.
+
+Salut ! Où va la botte, et quel bon vent vous mène ?
+
+Pouvez-vous me chercher si je ne vis qu'en vous ?
+D'une si belle ardeur mon âme est enflammée
+Qu'elle est bien moins en moi que dans la chose aimée,
+Et l'on me doit chercher, à quelque heure qu'il soit
+Plutôt où vous serez qu'aux lieux où l'on me voit.
+
+Madame, je ne veux qu'amour et que simplesse ;
+Jamais je n'eus dessein d'être controversant
+Ni mon coeur de pousser un penser offensant
+Cet amoureux captif, d'une ardeur singulière
+Adore ses liens, sa geôle et sa geôlière,
+Ou, pour eu mieux parler, dans son feu sans pareil,
+Il ressemble à ces fleurs qui suivent le soleil
+Et se trouve attiré par un secret mérite,
+Comme la paille court vers l'ambre qui l'excite.
+
+Je l'eusse fait, Madame, et légitimement.
+
+Madame, votre esprit est tout scientifique
+Et tant de beaux talents, qui surent m'asservir,
+Font voir que vous avez l'âme belle à ravir.
+
+Ah ! Certes, dans l'excès du feu qui me consomme,
+Je jure par vos yeux, et foi de gentilhomme,
+Qu'après m'avoir ravi ma chère liberté,
+Je ne dis rien de vous qu'avecque vérité.
+Il faut, pour vous donner d'équitables louanges,
+Vous mettre en parallèle au moins avec les anges,
+Puisqu'enfin le soleil, ce clair flambeau des cieux,
+N'a pas tant de rayons qu'en dardent vos beaux yeux.
+J'en jure par ces mains !
+
+Malgré son épaisseur, que je vois de lumière,
+Et que ces yeux, brillant dans cette obscurité,
+Ont de force, de grâce et de vivacité
+Enfin...
+
+Madame, mes rivaux n'auront pas lieu d'en rire,
+Puisque, pour vous cacher mes défauts en ces lieux,
+J'ai bien su vous jeter de la poussière aux yeux.
+
+      La pointe est commune.
+
+Je voudrais pouvoir dire autant de belles choses
+Que sur votre beau teint l'on peut compter de roses,
+Et qu'il naist en tout temps de fleurs dessous vos pas.
+
+      Ce n'est que bagatelle,
+Et dedans le pays qui veut parler d'amour
+Passerait pour un sot, s'il n'en dit cent par jour
+Aussi j'avais le bruit d'en être inépuisable,
+Et sans m'y préparer...
+
+Coquin !...
+
+Si...
+
+Quoi, vous êtes sans goût pour les plaisirs des sens ?
+
+Je ne m'étonne plus si notre hoôte vous plaît.
+
 Mais si, prenant mon temps, alors que l'on vous quitte,
 Je vous laissais aller faire votre visite
 Et pouvais l'obliger à travailler au mien,
 Serait-ce fort mal fait ?
 
--*who_bazile
-      Au contraire, fort bien.
-
--*who_lecampagnard
 Si vous tardez beaucoup, il faudra que je meure.
 
-**** *book_ *id_I04 *act_I *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
 Picquart ne t'a-t-il pas été voir tout à l'heure ?
 
--*who_leandre
-Non.
-
--*who_lecampagnard
       Mon Biernois ?
 
--*who_leandre
-      Point.
-
--*who_lecampagnard
       Et mon Basque ?
 
--*who_leandre
-      Non plus.
-
--*who_lecampagnard
 Le More, ni l'Anglais ?
 
--*who_leandre
-      Je ne les ai point vus.
-
--*who_lecampagnard
 Ni Champagne ?
 
--*who_leandre
-      Aussi peu.
-
--*who_lecampagnard
       Tu n'as point vu mon page !
 
--*who_leandre
-Non, Monsieur.
-
--*who_lecampagnard
       Dis-moi donc, sans tarder davantage,
 As-tu quelque nouvelle, et m'en feras-tu part ?
 C'était pour ce sujet.
 
--*who_leandre
-      Puis-je parler sans fard ?
-
--*who_lecampagnard
 Oui.
 
--*who_leandre
-      Mais sans vous fâcher
-
--*who_lecampagnard
       Parle en toute assurance.
 
--*who_leandre
-Éloignez ce valet.
-
--*who_lecampagnard
       Trêve de confidence !
 
--*who_jodelet
-Au diable soit le maître et tous les confidents !
-Vous ne m'empêchez pas de me curer les dënts,
-De me jouer tout seul, ou de faire la moue !
-
--*who_lecampagnard
 Non, fais pis.
 
--*who_jodelet
-      Encore est-ce ?
-
--*who_lecampagnard
       Hé bien !
 
--*who_leandre
-      Cliton vous joue :
-Il en veut à Phénice, et je les ai trouvés
-Qui se parlaient tous deux en des lieux réservés,
-Et juraient que leurs feux passaient jusqu'à l'extrême.
-Enfin il est aimé.
-
--*who_lecampagnard
       Ah dieux, Phénice l'aime !
 
--*who_leandre
-Il n'est que trop certain mais, Monsieur, gardez bien
-Que d'un si grand secret l'on ne découvre rien :
-Il y va de ma vie.
-
--*who_lecampagnard
       Hélas! je désespère.
 Ah! Jodelet, un mot
 
--*who_jodelet
-      Ce n'est pas mon affaire,
-Je suis un indiscret.
-
--*who_lecampagnard
       Mais j'ai besoin de toi.
 
--*who_jodelet
-Vous avez beau prier, je n'irai pas, ma foi.
-Moi, Monsieur, me vouloir traiter de ridicule
-Et me faire garder à toute heure la mule,
-M'éloigner, m'appeler !
-
--*who_lecampagnard
       Ah ! Viens.
 
--*who_jodelet
-      J'ai trop de coeur.
-
--*who_lecampagnard
 Je ne puis plus souffrir de ta mauvaise humeur.
 Il faut... Je vois Anselme ; adieu, je me retire.
 Viens.
 
--*who_leandre
-      Mais au moins, Monsieur, gardez bien de rien dire.
-
--*who_lecampagnard
 Je suis mort, ne crains pas que je puisse parler.
 
-**** *book_ *id_I05 *act_I *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_anselme
-Le dessein va-t-il bien ?
-
--*who_leandre
-      Tout ce qu'il peut aller :
-La dupe s'intimide, et par ta seule adresse
-Je me conserverai l'honneur et ma maîtresse,
-Embarrassant Cliton avec le Campagnard ;
-Son mariage après court un fort grand hasard,
-Étant fort assuré d'épouser son amante,
-S'il est tué, s'il tue, ou s'il faut qu'il s'absente...
-
--*who_anselme
-D'effet, où seriez-vous, n'eut été mon secours ?
-J'ai trouvé de l'argent, ménagé vos amours,
-Et, pour mieux concerter une sourde pratique,
-Je vous ai fait passer pour un peintre authentique,
-Et si bien réussi qu'en tout temps vous parlez
-À la personne aimée autant que vous voulez.
-Pour avoir empaumé l'oncle de bonne sorte,
-Vous voyez maintenant notre intrigue si forte
-Que ce beau Campagnard n'a qu'à s'en retourner.
-
--*who_leandre
-Mais quel est ton secret ?
-
--*who_anselme
-      C'est de bien enfourner.
-Ayant vu qu'il fallait rompre le mariage
-Et jouer en grand maître un adroit personnage,
-Je me suis introduit avec un étranger
-Dans la maison garnie où je les vis loger,
-Et pendant quelques jours, ayant eu connaissance
-Du faible du vieillard, qui chérit la science
-Et cherchait des savants pour les entretenir,
-Je résolus de l'être ou de le devenir
-Et comme en ces maisons il est bien difficile
-De se pouvoir cacher, même au plus habile...
-
--*who_leandre
-Il est vrai qu'on y sait tout ce que chacun fait.
-
--*who_anselme
-Pour leur tendre le piège avecque plus d'effet,
-Faisant le retiré, le grave et le cynique,
-Le détaché du monde et le mélancolique,
-Chacun fut curieux de savoir qui j'étais
-Et tâchait de me voir alors que je sortais,
-Ce qu'ayant aperçu, pour mieux leur faire accroire,
-Par jour t'en m'apportait des volumes d'histoire,
-Des auteurs grecs, latins, anciens et nouveaux,
-Des cercles, des carrés, des angles, des fourneaux,
-Des cartes, des compas, des globes et des sphères,
-Et tout cela, notez, pendant que mes affaires,
-Que je feignais toujours, avec quelque raison,
-M'obligeaient fort souvent de quitter la maison.
-Ainsi, quand le marchand les rendait à mon hôte,
-Le bon Parisien eut cru faire une faute
-Si dessus son comptoir il n'eut tout étalé
-Et, voyant un valet, ne l'en eut régalé,
-Ce qui dans la maison courant à l'heure même
-Servit de telle sorte à notre stratagème
-Que l'oncle de Phénice, en voulant plus savoir,
-Envoya demander si l'on me pouvait voir.
-
--*who_leandre
-Vous vous vîtes tous deux ?
-
--*who_anselme
-      Et par ma complaisance
-M'introduisis si bien dedans sa confidence
-Que, m'ayant déclaré son faible de tout point,
-Je m'emparai de lui pour n'en démordre point ;
-Et voyant que surtout il était pour la sphère,
-Je feignis de savoir plus qu'un homme vulgaire
-Et, par les lieux communs de quelques almanachs,
-Le cajolai si bien qu'il en fit un grand cas.
-Ainsi je vins à bout d'approcher votre belle,
-De vous donner moyen de vous assurer d'elle,
-Dans le temps qu'un jaloux l'obsédait puissamment,
-Sans vous donner moyen de la voir seulement.
-
--*who_leandre
-Tu n'as pas ton égal ! Qui pourrait si bien feindre ?
-
--*who_anselme
-Sachant que le vieillard se voulait faire peindre
-Et qu'enfin vous saviez tant soit peu dessiner,
-Je lui dis qu'il fallait vous faire gouverner,
-Que je vous connaissais pour un excellent homme
-Qui depuis quelques mois était venu de Rome
-Et que, si vous vouliez faire le moindre trait,
-Vous feriez un miracle, et non pas un portrait.
-
--*who_leandre
-Qu'as-tu dit pour laisser l'habit de broderie ?
-
--*who_anselme
-Que votre garde-robe est à la friperie,
-Que tout peintre est fantasque, et qu'étant des plus fous,
-Comme un musicien vous mettiez tout sur vous
-Et que vous vous piquiez d'orgueil et de noblesse.
-Enfin, nous nous quittons, avec prière expresse
-De vous faire venir loger avecque lui ;
-Je l'ai fait, et vous vois en état aujourd'hui
-De ne plus craindre rien au point où nous en sommes.
-
--*who_leandre
-Ah ! Je te tiens aussi le plus adroit des hommes !
-
--*who_anselme
-Mais songez que Phénice avec quelques discours
-A payé jusqu'ici vos soins et vos amours.
-Feignant, outre cela, d'aimer Cliton, je gage
-Qu'elle fait sans contrainte un pareil personnage ;
-Étant dedans Paris le seul qu'elle écoutait,
-Devant que de vous voir elle s'en contentait.
-
--*who_leandre
-Depuis que, dans un bal, ce miracle visible
-Rendit en m'y voyant sa belle âme sensible,
-Ses soupirs et ses pleurs sont d'assez bons témoins
-Qu'elle est prête à payer mes respects et mes soins.
-Comment la soupçonner et la croire infidèle,
-Puisque dedans Lyon, n'osant la voir chez elle,
-Elle me fit trouver en certain rendez-vous,
-Et m'apprit qu'on voulait lui donner un époux,
-Mais qu'allant à Paris faire leur équipage,
-Elle me conjurait de faire ce voyage,
-Pour rompre le dessein de ces funestes noeuds
-Qui nous empêcheraient de nous unir tous deux ?
-Je lui promets, je pars, j'obéis et m'engage
-En des déguisements qui blessent mon courage.
-Je suis tous tes avis, je fais ce que tu veux :
-Que faut-il davantage ?
-
--*who_anselme
-      Achever d'être heureux,
-Et dans vos libertés en tirer quelque gage
-Qui nous mette tous deux à l'abri de l'orage.
-
--*who_leandre
-Va, si j'y suis jamais, je te ferai du bien.
-
--*who_anselme
-Allons-nous-en dîner, et ne promettez rien.
-Ne nous repaissons point d'une vaine fumée,
-Et, buvant la santé de la personne aimée,
-Avouons que Bacchus est un dieu sans pareil,
-Qui peut guider l'Amour et lui donner conseil.
-
-**** *book_ *id_II01 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
 Il faut que de Cliton j'aie le sang et l'âme.
 
--*who_jodelet
-Monsieur, dans son fourreau rengainez votre lame
-Oncques Dieu ne la fît pour glaive exterminant,
-Ni pour aller du corps l'âme déracinant.
-Ne savez-vous pas bien que la vieille pucelle
-Conserve saintement sa blancheur naturelle ;
-Que, de peur de rougir, elle hait la pudeur
-Et tient tout vermillon de soi mauvaise odeur ?
-
--*who_lecampagnard
 Hélas ! Loin de railler au fort de mon martyre,
 Songe...
 
--*who_jodelet
-      Que tout marchand qui perd ne saurait rire.
-
--*who_lecampagnard
 Que, trahi de l'ami qui devrait m'adorer...
 
--*who_jodelet
-Ce vous sont des morceaux bien durs à digérer.
-
--*who_lecampagnard
 Dis qu'il faut, pour venger ma franchise trompée,
 Qu'avecque ce brouillon je fasse un coup d'épée.
 
--*who_jodelet
-S'il vous frottait aussi ?
-
--*who_lecampagnard
       Si grands que soient ses coups,
 Il frottera fort peu des gens faits comme nous.
 Tel que soit ce géant, je suis sûr de l'abattre,
@@ -705,28 +371,13 @@ Puisque l'amour me rend seul aussi fort que quatre,
 Et que ce petit dieu qui m'anime aujourd'hui
 Doit un fameux triomphe à qui combat pour lui.
 
--*who_jodelet
-À ce compte, Monsieur, sa mort est assurée.
-
--*who_lecampagnard
 Qui peut l'en garantir, puisque je l'ai jurée ?
 Mais le coup qui finit un si rigoureux sort
 Est une guérison bien plutôt qu'une mort ;
 Ainsi le malheureux...
 
--*who_jodelet
-      Ah parlez d'autre sorte !
-Le petit chien vivant vaut la panthère morte
-Hier dessus le Pont-Neuf, en lisant Piramus,
-Je vis...
-
--*who_lecampagnard
       Quoi qu'il en soit, mon rival ne vit plus.
 
--*who_jodelet
-Vous deviez l'éloigner au lieu de l'introduire.
-
--*who_lecampagnard
 Ah ! Je ne songeais pas que tel rit qui veut nuire.
 Il était dans Paris le seul que j'estimais
 Et qu'on souffrait ici parce que je l'aimais.
@@ -735,170 +386,43 @@ En quittant la cadette, il s'adresse à l'aînée.
 Ah ! C'en est trop, il faut, en se tirant du sang,
 Savoir qui de nous deux aura le premier rang.
 
--*who_jodelet
-Monsieur, tous les duels ne valent pas le diable ;
-Le péril en est grand.
-
--*who_lecampagnard
       Mais il est honorable.
 
--*who_jodelet
-On peut estre tué,
-
--*who_lecampagnard
       L'on peut ne l'être pas.
 
--*who_jodelet
-Blessé.
-
--*who_lecampagnard
       C'est un hasard.
 
--*who_jodelet
-      On peut faire un faux pas.
-
--*who_lecampagnard
 Tant pis.
 
--*who_jodelet
-      Mais si l'on tue ?
-
--*who_lecampagnard
       On trouve une retraite.
 
--*who_jodelet
-Si l'on n'a point d'argent ?
-
--*who_lecampagnard
       Quelque ami vous en prête,
 
--*who_jodelet
-Si l'on n'a point d'ami ?
-
--*who_lecampagnard
       L'on en trouve toujours.
 
--*who_jodelet
-Mais quand il faut quitter l'objet de ses amours.
-
--*who_lecampagnard
 C'est un coup de malheur qui vraiment est sensible.
 
--*who_jodelet
-Ne vous battez donc point.
-
--*who_lecampagnard
       Mais il est impossible.
 
--*who_jodelet
-Outre cela, j'y vois mille abîmes profonds.
-
--*who_lecampagnard
 Comme quoi ?
 
--*who_jodelet
-      L'embarras de chercher des seconds
-Et de trouver un sot qui se donne la peine
-D'aller faire pour vous bouclier de bedaine,
-Et la faire cribler de maints coups dangereux
-Quel plaisir peut-on prendre à perdre un malheureux
-Qui n'a jamais lorgné le rustre qui l'empaume
-Et n'a désobligé ni Pierre, ni Guillaume ?...
-En ce temps les seconds sont rares, sur ma foi.
-
--*who_lecampagnard
 En tout cas je m'apprête à me servir de toi.
 
--*who_jodelet
-Ah ! Je me doutais bien de ce trait de chicane.
-Mais dussé-je de vous avoir cent coups de canne,
-Vous ne me verrez point aller dessus le pré
-Pour y battre un second, ou pour être bourré.
-Monsieur, en ma faveur, épargnez-vous un crime,
-N'entrez point au combat, et souffrez que je prime ;
-Pourvu que de second je n'aie pas le nom,
-Je me battrai sans peur, même à coups de canon.
-
--*who_lecampagnard
 Va, je ne ferai pas ce que je te propose,
 
--*who_jodelet
-Monsieur, ce que j'en dis ce n'est pas pour la chose :
-Vous pouvez disposer de mon peu de valeur ;
-Mais c'est que les seconds vous porteraient malheur
-Et que j'ai fait serment qu'il faut que j'accomplisse.
-
--*who_lecampagnard
 Si faut-il toutefois me rendre un bon office.
 
--*who_jodelet
-Quel donc ?
-
--*who_lecampagnard
       D'aller porter ce billet à Cliton.
 
--*who_jodelet
-Ne serait-il point homme à jouer du bâton,
-Et reçoit-il souvent un semblable message ?
-
--*who_lecampagnard
 Il n'oserait jamais.
 
--*who_jodelet
-      Il peut bien être sage,
-Ou je lui ferai voir que je ne suis pas sot.
-
-**** *book_ *id_II02 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lepage
-Monsieur, un cavalier voudrait vous dire un mot.
-
--*who_lecampagnard
 Fais-le entrer... Je ne puis savoir qui ce peut être.
 
--*who_alcipe
-Quoi que je n'aie pas le bien de vous connaître,
-Vous puis-je dire ici quatre mots seulement ?
-Monsieur, je vous viens faire un mauvais compliment.
-
--*who_lecampagnard
 Je me bats seul à seul.
 
--*who_alcipe
-      Puisque je sais l'affaire,
-Aujourd'hui les seconds sont un mal nécessaire,
-Autrement je ferais qu'on s'accommoderait.
-
--*who_jodelet
-Tout bien considéré, Monsieur, il le faudrait.
-J'ai fort bien entendu quel est votre message.
-
--*who_alcipe
-Cet homme vous sert-il ?
-
--*who_lecampagnard
       Je l'ai nourri mon page,
 Et depuis quelque temps l'ai fait mon écuyer.
 
--*who_jodelet
-Le mensonge est trop grand, je ne puis l'appuyer :
-Monsieur, je ne vous sers que de valet de chambre.
-Ah ! Je tremble en été comme au mois de décembre !
-Au diable la querelle et tous les querelleux !
-
--*who_alcipe
-Je crois que ce valet n'est pas fort généreux,
-Lisez donc ce billet, et gardez qu'il n'entende.
-
--*who_jodelet
-Que disent-ils tout bas ?
-
--*who_alcipe
-      La peine n'est pas grande.
-
-**** *book_ *id_II03 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
 Je ne vous connais plus pour ami désormais,
 Ayant fait cent discours a mon désavantage,
 Et pour me satisfaire en homme de courage,
@@ -906,43 +430,19 @@ Venez par votre sang réparer cet outrage
 Que, sans votre trépas, je n'oublierai jamais.
 Hé bien il faut marcher, ma parole est donnée.
 
--*who_jodelet
-Pour cela ?
-
--*who_lecampagnard
       Si je crains, c'est pour mon hyménée.
 
--*who_jodelet
-Qu'importe ?
-
--*who_lecampagnard
       Tes avis frappent mon jugement,
 Et j'entre maintenant dedans ton sentiment.
 Je crains qu'étant blessé je reste sans maîtresse.
 
--*who_jodelet
-Cliton n'est pas vaillant.
-
--*who_lecampagnard
       Mais quoi, si je le blesse,
 Ou bien si je le tue ?
 
--*who_jodelet
-      Il faudra l'enterrer.
-
--*who_lecampagnard
 Mais la justice après ?
 
--*who_jodelet
-      Aura beau murmurer.
-
--*who_lecampagnard
 Et le frère du mort ?
 
--*who_jodelet
-      Il faudra qu'il l'endure.
-
--*who_lecampagnard
 À te dire le vrai, je crains la procédure,
 Et me souviens toujours des édits rigoureux
 Qui furent publiés en six cent trente et deux,
@@ -950,35 +450,16 @@ Trente-trois, trente-six, trente et neuf, et quarante ;
 Le moindre peut m'ôter trois mille écus de rente.
 Outre cela, j'ai peur d'entrer dans les prisons.
 
--*who_jodelet
-Vous n'y pourririez pas.
-
--*who_lecampagnard
       J'ai bien d'autres raisons,
 Qui sont pour m'arrêter les meilleures du monde.
 
--*who_jodelet
-Et quelles ?
-
--*who_lecampagnard
       De trouver quelqu'un qui me seconde.
 
--*who_jodelet
-Pour vous dire le vrai, celle-là peut passer.
-
--*who_lecampagnard
 Mais Phénice s'approche et peut m'embarrasser.
 Va-t'en trouver Cliton, mais vite, je te prie,
 Et lui dis qu'il remette à tantôt la partie ;
 Nous, cachons nos desseins.
 
-**** *book_ *id_II04 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_phenice
-      Hé quoi, toujours rêver,
-Monsieur ?
-
--*who_lecampagnard
       Je proposais de vous aller trouver
 Et de rendre à mes yeux la source de leur joie ;
 Mais, puisque mon bonheur permet que je vous voie
@@ -987,56 +468,24 @@ Je m'en vais redoubler mes travaux et mes soins,
 Pour faire un sacrifice à ma bonne fortune
 Et payer ses faveurs d'une ardeur non commune.
 
--*who_phenice
-En quels lieux est le temple, et quel sera l'autel ?
-
--*who_lecampagnard
 Madame, c'est le coeur d'un malheureux mortel,
 Qui, brûlé de vos feux, pour expier son crime,
 Est lui-même l'autel, le temple et la victime.
 C'est se tirer d'affaire assez adroitement.
 
--*who_phenice
-Ou, pour en mieux parler, mentir éloquemment,
-Puisque de son discours, il me reste un scrupule.
-
--*who_philis
-Quel ?
-
--*who_phenice
-      De ne pouvoir pas croire que son coeur brûle,
-Car, depuis le moment qu'il le dit enflammé,
-Il devrait être au moins mille fois consommé.
-Cependant quel péril courrait sa renommée
-Si, sans avoir le coeur, il allait à l'armée !
-Dieu sait s'il périrait dans les moindres hasards.
-
--*who_lecampagnard
 Vénus n'est-elle pas compagne du dieu Mars ?
 Et Cupidon ayant et ses champs et ses armes,
 Tout amant est soldat au plus fort des alarmes.
 
--*who_bazile
-Ce passage est d'Ovide, il m'en souvient fort bien.
-
--*who_lecampagnard
 Si c'est son sentiment, il est aussi le mien ;
 Soit de l'un ou de l'autre, il est fort raisonnable,
 Et je puis en servir de preuve indubitable.
 
--*who_phenice
-Comment ?
-
--*who_lecampagnard
       Depuis un an, votre bel oeil vainqueur
 M'a mis dedans ses fers, et m'a ravi le coeur.
 Et cependant j'ai fait la dernière campagne
 Et suis prêt, celle-ci, d'aller en Allemagne.
 
--*who_phenice
-Vous n'y vîtes pourtant l'ennemi que de loin?
-
--*who_lecampagnard
 Celui qui vous le dit fut un mauvais témoin
 Qu'à vos yeux je voudrais traiter de chiquenaudes ;
 Jamais occasions ne se virent si chaudes,
@@ -1081,19 +530,6 @@ Un fleuve fort rapide en gardait un côté,
 Qui, tout enflé d'orgueil d'en défendre l'approche,
 Baignait à gros bouillons les pieds de cette roche.
 
--*who_philis
-Ce morceau de récit est dans quelque roman.
-
--*who_phenice
-Dites dans la Gazette. Oh ! L'agréable amant!
-
--*who_philis
-L'excès de son amour doit excuser sa faute.
-
--*who_bazile
-Oui, par ce seul récit déjà le coeur me saute.
-
--*who_lecampagnard
 On ouvre la tranchée, où tous nos Maréchaux
 Cette première nuit conduisaient nos travaux,
 Et dedans chaque attaque avaient fait des redoutes,
@@ -1111,35 +547,14 @@ Leur fermer le passage et les serrer de près.
 Ah ! Que la mort alors ferma d'yeux et de bouches !
 Que de grands horions !
 
--*who_jodelet
-      Que d'abreuvoirs à mouches !
-
--*who_lecampagnard
 Que de coeurs palpitants !
 
--*who_jodelet
-      Que de nez morfondus !
-
--*who_lecampagnard
 Que d'hommes écrasés !
 
--*who_jodelet
-      Que de chapeaux perdus !
-
--*who_lecampagnard
 Que de sang et de cris !
 
--*who_jodelet
-      Que de coups par derrière!
-
--*who_lecampagnard
 Et qu'enfin, d'hommes-là firent leur cimetière !
 
--*who_bazile
-Je crois qu'il faisait chaud à quatre pas de là.
-Quelle éloquence !
-
--*who_lecampagnard
       Enfin l'ennemi s'en alla,
 Et trois mille des siens moururent sur la place ;
 Après, pendant un mois, on attaque, on menace,
@@ -1152,10 +567,6 @@ Raste, de son boulet, m'emporta mon chapeau
 Car, pour dire le vrai, ce jour je fis la bête
 Et ne voulus jamais mettre de pot en tête.
 
--*who_bazile
-C'est un trait de jeune homme, et c'est en user mal.
-
--*who_lecampagnard
 Ayant donc esquivé le pas le plus fatal,
 J'étais, comme de vous, proche de la courtine,
 Lorsqu'un chef espagnol, d'un coup de javeline,
@@ -1163,301 +574,69 @@ Me jette cul sur tête aux pieds de ses remparts,
 Où des grêles de plomb tombant de toutes parts,
 On me fit emporter pour mort et fort malade.
 
--*who_bazile
-Et la ville ?
-
--*who_lecampagnard
       À la fin fut prise d'escalade,
 Et souffrant trois assauts, vous pouvez bien juger
 Si l'on vit l'ennemi, si j'y courus danger,
 Et si ce beau témoin qui vous conta l'affaire
 N'eut pas beaucoup mieux fait s'il eût voulu se taire.
 
--*who_phenice
-Sans doute ; mais voici notre peintre qui vient.
-
-**** *book_ *id_II05 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_bazile
-Hé bien ces beaux tableaux sont ?...
-
--*who_leandre
-      Mon valet les tient.
-
--*who_bazile
-Je suis ravi de voir un homme de promesse.
-
--*who_leandre
-De plus, j'ai fait la chose avecque tant d'adresse
-Que vous même du prix vous serez étonné,
-Puisqu'à dire le vrai, c'est un marché donné.
-J'en ai d'André del Sarto, de Breughel, du Valèse,
-Du Giosepin, du Tite et de Paul Véronèse,
-Du Titien, du Gobbo, et du vieil Tintoret,
-Du Guide, de Lucas, de Rembrand, de Janet,
-Du Palme, d'Intlaët, de Pierre Pérugin
-De Michel-Ange enfin, de qui la main divine,
-D'un art dont nul ne peut être l'imitateur
-À presque usurpé les droits du Créateur.
-
--*who_lecampagnard
 Auriez-vous de leur main quelque histoire profane ?
 
--*who_jodelet
-Le profil du Pont-Neuf, ou la noce de Jeanne ?
-
--*who_leandre
-Je ne le pense pas.
-
--*who_lecampagnard
       Mais au moins par bonheur
 Auriez-vous le portrait de notre gouverneur ?
 
--*who_leandre
-Ne mérite-t-il pas mille fois qu'on le berne ?
-Monsieur, je n'en ai point d'aucun peintre moderne.
-
--*who_lecampagnard
 Pensez qu'en ce pays ils sont tous ignorants ?
 
--*who_leandre
-Moderne, ce n'est pas un pays.
-
--*who_lecampagnard
       Je comprends.
 
--*who_lecampagnard
 Chut !
 
--*who_leandre
-      Mais ou je me trompe, ou j'aperçois mon homme.
-Vous allez voir l'élite et la gloire de Rome.
-
--*who_bazile
-J'ai grand dessein de voir quelque chose de beau.
-
--*who_leandre
-Dites donc votre avis de ce premier tableau
-C'est Hercule qui file auprès de sa maîtresse ;
-Ne semble-t-il pas dire, en l'ardeur qui le presse,
-Par des regards qu'Amour rend complaisants et doux
-« Ô céleste maîtresse, où me réduisez-vous ? »
-Voyez son coloris, et comme son visage
-Dans cet abaissement montre encor du courage,
-Comme un reste d'honneur lui fait rougir le teint,
-Comme il semble avoir honte, et comme il se contraint !
-
--*who_bazile
-Cette pièce est hardie.
-
--*who_leandre
-      Elle est incomparable.
-D'autre côté, voyez cette nymphe adorable
-Qui, d'un oeil dédaigneux et plein de mille appas,
-Reçoit ce grand hommage et ne s'en émeut pas.
-
--*who_philis
-Il est donc mal payé de son amour extrême ?
-
--*who_phenice
-Mais, puisque le héros sait que la Nymphe l'aime,
-Lui peut-on souhaiter un meilleur traitement,
-Et l'amour déplaît-il traité modestement ?
-
--*who_leandre
-On pourrait souhaiter que d'un oeil moins sévère
-Elle payât l'effort que l'amour lui fait faire,
-Et qu'en reconnaissant qu'Hercules s'abaissait
-Elle brûlât d'amour quand il en rougissait.
-
--*who_lecampagnard
 Moi, je souhaiterais, en la voyant si nue,
 Que jusques au menton le peintre l'eût vêtue.
 Et qu'on ne vit du bras que les extrémités.
 
--*who_leandre
-Le savoir ne paraît que dans les nudités.
-
--*who_bazile
-En effet, la peinture est....
-
--*who_lecampagnard
       Voyons-en un autre.
 Madame, ai-je raison ?
 
--*who_phenice
-      Mon avis est le vôtre.
-
--*who_lecampagnard
 Montrez-nous-en quelqu'un d'un style plus nouveau.
 
--*who_leandre
-De grâce, auparavant regardez ce tableau :
-C'est Achille caché sous des habits de femme
-Qui, dans les beaux excès de l'amour qui l'enflamme,
-A forcé son courage à ce déguisement,
-Pour voir en liberté l'objet de son tourment.
-Voyez comme il est gai près de Laodamie,
-Et comme en cet état sa valeur endormie
-Renonce à tous les biens qu'on lui peut présenter,
-Pour voir cette princesse et ne la point quitter.
-Sous ces habits honteux ne semble-t-il pas dire :
-« Un seul de vos regards m'est plus cher qu'un Empire,
-Et je ne connais point d'honneur qui soit plus doux
-Que celui de vous plaire et d'être aimé de vous. »
-
--*who_lecampagnard
 Rien n'y manque en effet, si ce n'est la parole.
 
--*who_jodelet
-M'en dût-on prendre au mot, j'en donne ma pistole.
-
--*who_lecampagnard
 J'en donnerais bien dix et ne les plaindrais point.
 Passons.
 
--*who_leandre
-      Celui qui suit me plaît au dernier point
-C'est du vaillant héros qui délivre Andromède.
-Regardez comme il vole en courant à son aide,
-Et comme, en descendant avec dextérité,
-Le monstre qui l'approche en est épouvanté.
-Ayant dessus le front une joie excessive,
-Ce héros semble dire à la belle captive
-Je vous délivrerai du monstre qui paraît. »
-Remarquez sa laideur.
-
--*who_phenice
-      Ah ! Dieux qu'il me déplaît !
-
--*who_lecampagnard
 Le cheval est bien pris.
 
--*who_bazile
-      Sa tête est des plus belles.
-
--*who_lecampagnard
 C'est mon barbe tout fait, n'était qu'il a des ailes.
 
--*who_jodelet
-Me dessiez-vous berner pour mon trop de caquet,
-Je ne puis avouer que votre bourriquet
-Ressemble à ce cheval, et qu'il soit de sa taille.
-
--*who_lecampagnard
 Ce fat n'a jamais vu mon cheval de bataille.
 
--*who_jodelet
-Pour ce coup, il est vrai, je confesse ce point
-Le moyen de le voir, si vous n'en avez point ?
-Un barbet !
-
--*who_lecampagnard
       Jodelet, trêve de raillerie !
 
--*who_jodelet
-Trêve de barbe aussi, monsieur, je vous en prie !
-
--*who_leandre
-Il vient d'un bon auteur et ne peut être mal.
-
--*who_lecampagnard
 Ce cavalier pourtant n'est pas bien à cheval
 Je voudrais qu'il fût mieux scellé dessus la selle,
 Et qu'il portât le corps d'une façon plus belle,
 Que la pointe du pied se tournât autrement.
 
--*who_phenice
-On change de costume en changeant d'élément,
-Et les chevaux ailés se peignent de la sorte.
-
--*who_lecampagnard
 Madame, je me rends, la partie est trop forte ;
 Mais achevons le reste.
 
-**** *book_ *id_II06 *act_II *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lepage
-      Ah ! Monsieur...
-
--*who_bazile
-      Que veux-tu ?
-
--*who_lepage
-Monsieur, on dit partout que Cliton s'est battu,
-Ou qu'il s'en va se battre, et que partie est faite.
-
--*who_bazile
-Vite, un cheval de main ! Qu'on m'apprête ma brette,
-Mes bottes de campagne et mes bons pistolets !
-Viste, sellez, bridez ! Où sont tous mes valets ?
-Ces marauds, on les voit quand on n'en a que faire.
-
--*who_lecampagnard
 Feignons, et, pour montrer que j'ignore l'affaire,
 Sortons, et nous tirons doucement à l'écart.
 
--*who_bazile
-Champagne, La Forêt, petit Basque, Picart
-Au diable les valets, maudite soit la race !
-Je n'en puis plus souffrir, il faut que je les chasse.
-Ma nièce, je reviens ici dans un moment.
-
-**** *book_ *id_III01 *act_III *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
 Que faisait en ce lieu le plus savant des hommes?
 
--*who_anselme
-Nous en sommes le moindre, en l'état où nous sommes,
-Et verrions notre esprit tous les jours en défaut,
-Sans les rayons infus qui nous viennent d'en haut.
-
--*who_lecampagnard
 Ô dieux ! Qu'il est savant !
 
--*who_jodelet
-      Monsieur, c'est un vrai diable.
-
--*who_lecampagnard
 À quoi pouvait rêver votre esprit admirable ?
 
--*who_anselme
-J'étais dans les douleurs d'un grand enfantement
-Que j'allais mettre au jour assez heureusement
-Pour traiter la chimie avecque plus de gloire
-Je songeais à construire un grand laboratoire,
-Dont les récipients et les vaisseaux lutés
-Par le feu graduel ne fussent point gâtés.
-Je voulais tempérer l'ardeur immodérée
-Du sel élémentaire et de l'huile éthérée ;
-Je songeais à trouver quelques secrets nouveaux,
-Pour aisément pouvoir calciner les métaux
-Et tirer l'élixir des choses pénétrantes,
-Pour extraire le sel essentiel des plantes,
-Pour faire promptement la sublimation,
-Fixation d'esprit et fumigation.
-Je songeais au pouvoir qu'a le divin Mercure
-Sur le corps métallique en changeant sa nature,
-Comme il se volatise et se peut congeler,
-Corroder et dissoudre et se coaguler.
-
--*who_lecampagnard
 Si bien qu'on ne saurait obtenir audience
 Sans détruire les fruits d'une longue science !
 
--*who_anselme
-Parlez-nous, mais en bref.
-
--*who_lecampagnard
       Je viens savoir de vous
 Si le sort me doit être ou rigoureux ou doux,
 Si je serais heureux en épousant Phénice.
 
--*who_anselme
-Je veux, dans peu de temps, vous rendre ce service.
-
--*who_lecampagnard
 Vous m'avez déjà fait cent fois ce compliment,
 Mais, comme ce désir me touche vivement,
 Monsieur, pardonnez-moi si je vous presse encore
@@ -1465,188 +644,33 @@ De vouloir satisfaire un feu qui me dévore
 Et de diligenter mon horoscope un peu.
 Je ne suis point ingrat.
 
--*who_anselme
-      Puis-je avoir plus beau jeu ?
-Monsieur, à dire vrai, votre horoscope est faite ;
-Mais, vous ayant vu né sous mauvaise planète,
-Je me suis résolu de n'en déclarer rien.
-
--*who_lecampagnard
 Hé ! De grâce, Monsieur, soit mon mal ou mon bien,
 D'une ou d'autre façon veuillez me satisfaire.
 
--*who_anselme
-C'est un point résolu, je ne le saurais faire.
-Tout autre, pour tirer son salaire de vous,
-Vous ferait changer d'astre, ou le rendrait plus doux
-Mais, étant au-dessus de toute récompense,
-Je me tais, ou je dis les choses que je pense.
-
--*who_lecampagnard
 Encore un coup, Monsieur, parlez-moi franchement,
 Et veuillez de ma part prendre ce diamant.
 
--*who_anselme
-Rien ne me peut tenter, Monsieur, je vous le jure ;
-Mais sachant votre bonne ou mauvaise aventure,
-Si vous n'étiez pas homme à vous épouvanter
-Des maux qu'avec le temps vous pourriez éviter,
-Et si vous compreniez, en voyant vos désastres,
-Qu'un esprit tout-puissant prédomine les astres
-Et change leurs décrets selon sa volonté,
-Je vous ferais savoir votre nativité.
-Mais...
-
--*who_lecampagnard
       Je vous le promets.
 
--*who_anselme
-      Je ne vous puis rien dire.
-
--*who_lecampagnard
 Monsieur, c'est redoubler l'excès de mon martyre.
 De grâce !...
 
--*who_anselme
-      Armez-vous donc de résolution.
-Vous avez pris naissance au signe du Lion,
-Sous sa tête, où l'on voit quatre étoiles semées,
-Qui d'un feu toujours vif semblent être allumées.
-Il est l'onzième signe, et des plus capitaux,
-Étant particulier de trente partiaux.
-Le nom d'Algebaac est celui qu'on lui donne.
-
--*who_jodelet
-Ô dieux ce nom tout seul tuerait une personne.
-
--*who_anselme
-Vous avez sur le chef deux signes fort menus.
-
--*who_jodelet
-Monsieur?
-
--*who_anselme
-      Qu'est-ce ?
-
--*who_jodelet
-      Avouez que c'est Capricornus.
-
--*who_anselme
-Jodelet !
-
--*who_jodelet
-      Jean Petit fit l'amour à ma tante
-Pierre de Larivé nous doit cent sols de rente,
-Maistre Eustache Noël a bu cent fois chez nous.
-Et le jeune Troyen...
-
--*who_lecampagnard
       Maître sot, taisez-vous.
 
--*who_anselme
-Vous avez à treize ans eu quelque maladie ;
-Dans peu vous en aurez si l'on n'y remédie,
-Et si vous échappez les maux que je pressens,
-Vous n'en sentirez plus qu'a quarante et huit ans.
-Votre fatal ayant la part orientale ;
-Vous ferez une faute et lourde et sans égale,
-Si devers cet endroit, dedans tous vos logis,
-Vous ne disposez pas vos chambres et vos lits,
-Et si vous n'y traitez vos meilleures affaires.
-Juin, Janvier et Juillet, vous seront bien contraires.
-Votre jour malheureux sera le Samedi ;
-Vos heureux sont Mardi, Dimanche et Vendredi,
-Et si vous trafiquez, prenez l'ambre et l'agate,
-Le cuivre et les chevaux, et l'or et l'écarlate,
-Autrement...
-
--*who_lecampagnard
       Ce n'est pas ce que je veux savoir.
 
--*who_anselme
-Attendez ; chez un grand vous aurez du pouvoir,
-Et vous serez btessé d'un grand coup à la bouche ;
-Vous serez marié.
-
--*who_lecampagnard
       C'est là ce qui me touche.
 
--*who_anselme
-Et vous devez avoir deux femmes tout au moins ;
-Elles vous aimeront ; mais, malgré tous leurs soins,
-Vous ne pourrez avoir aucun amour pour elles :
-Elles auront du bien et ne seront pas belles.
-Vénus en quantité vous promet des enfants
-Jupiter les rendra joyeux et triomphants ;
-Mais l'opposition de Mars et de la Lune
-De quelques-uns par mort bornera la fortune...
-Votre an climatérique est proche d'arriver.
-Mercure ayant reçu Mars qui le vient trouver,
-Promet un grand désordre en votre mariage
-Le quadrat de Vénus, encore davantage,
-Vous rendant malheureux pour avoir trop vécu.
-
--*who_jodelet
-Ne l'ai-je pas bien dit que vous seriez cocu ?
-
--*who_lecampagnard
 Tais-toi.
 
--*who_anselme
-      Je ne sais point mal qui ne vous arrive,
-Si vous n'abandonnez l'objet qui vous captive
-Des meurtres, un déluge et des embrasements,
-Des prisons, des douleurs et des bannissements,
-Des pertes, des affronts et des têtes coupées,
-Des coups de pistolets, de poignards et d'épées,
-Et des valets pendus.
-
--*who_jodelet
-      Ah ! Monsieur, quittez-la.
-
--*who_anselme
-Suivent le premier feu dont votre coeur brûla.
-
--*who_lecampagnard
 De sorte qu'il faudra que je quitte Phénice ?
 
--*who_jodelet
-Belle demande !
-
--*who_lecampagnard
       Ah ciel, quelle est ton injustice !
 
--*who_anselme
-A-t-elle la première échauffé votre coeur !
-Peut-être ?
-
--*who_lecampagnard
       Son bel oeil fut mon premier vainqueur.
 
--*who_anselme
-Il faut donc la quitter, puisqu'il est manifeste
-Que votre premier feu n'a rien que de funeste,
-Et que ceux qui suivront vous seront plus heureux.
-Mais vous m'aviez promis d'être plus généreux,
-Et cet accablement dont je me trouve cause
-Fait voir que je devais vous déguiser la chose.
-Adieu, j'ai trop parlé.
-
--*who_jodelet
-      Que vous avez bien fait
-
--*who_anselme
-Les dieux rendent parfois les astres sans effet.
-
-**** *book_ *id_III02 *act_III *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lecampagnard
 Ah ! Jodelet !
 
--*who_jodelet
-      Monsieur, le diable est bien aux vaches.
-
--*who_lecampagnard
 Injuste ciel, rends-moi le bien que tu m'arraches,
 Et me voyant si près du naufrage et du port,
 Accorde-moi Phénice, ou me donne la mort !
@@ -1656,117 +680,48 @@ Ah ! rage, ah ! Sort cruel, ah destins conjurés !
 Vous, grand Dieu des Enfers, qui me désespérez,
 Amour, qui de mon sang fais des torrents de flamme !...
 
--*who_jodelet
-Petit perturbateur du repos de nos ames
-
--*who_lecampagnard
 Barbare !
 
--*who_jodelet
-      Traître !
-
--*who_lecampagnard
       Aveugle, insensible
 
--*who_jodelet
-      Fort bien,
-Mais sans frapper du pied tout cela ne vaut rien ;
-Il faut serrer les poings et, roulant les prunelles,
-Par de fréquents regards lorgner les hirondelles.
-
--*who_lecampagnard
 Ah ! Jodelet, laissons cet importun discours.
 Et reconnais qu'enfin, après tant de beaux jours,
 Dans les champs amoureux ma moisson sera sèche.
 
--*who_jodelet
-Vous ne sauriez donc plus de quel bois faire flèche ?
-
--*who_lecampagnard
 Hélas ! Qui le pourrait en cette extrémité,
 Si je ne fais vertu de la nécessité ?
 
--*who_jodelet
-Hé bien, n'est-il pas vrai, qu'il faut qu'un coeur fidèle
-Se vienne tôt ou tard brûler à la chandelle ?
-
--*who_lecampagnard
 Hélas ! Pour mieux parler, dis un ardent flambeau
 Qui luit comme ces feux qui mènent au tombeau.
 Maudits soient tes devins et leur philosophie !
 
--*who_jodelet
-Sot est qui les consulte, et fol est qui s'y fie !
-
--*who_lecampagnard
 Mais comment l'épouser après ce qu'il m'a dit ?
 Ah ! De rage et d'amour je suis tout interdit,
 Et dedans ces douleurs par qui le coeur me saigne...
 
--*who_jodelet
-Vous tueriez volontiers un mercier pour un peigne
-Pourquoi vous affliger jusques au dernier point ?
-
--*who_lecampagnard
 Je l'aime, Jodelet.
 
--*who_jodelet
-      Ne la quittez donc point.
-
--*who_lecampagnard
 En ne la quittant point, vois quelle est ma misère.
 
--*who_jodelet
-Quittez-la donc.
-
--*who_lecampagnard
       Hélas !
 
--*who_jodelet
-      Gardez donc de le faire.
-
--*who_lecampagnard
 Si je l'épouse aussi, quel malheur est le mien !
 C'est ma perte assurée.
 
--*who_jodelet
-      Hé bien ! N'en faites rien.
-
--*who_lecampagnard
 Aussi je n'en aurai jamais une si belle.
 
--*who_jodelet
-Ne pensez donc jamais à vous défaire d'elle.
-
--*who_lecampagnard
 Mais je puis-être heureux avec moins de beauté.
 
--*who_jodelet
-Abandonnez-la donc.
-
--*who_lecampagnard
       Mais je suis arrêté
 Et lié pour jamais d'une flamme trop forte.
 
--*who_jodelet
-Aimez donc jusqu'à tant que le diable l'emporte.
-
--*who_lecampagnard
 Ah ! Sois plus sérieux si tu veux m'obliger.
 
--*who_jodelet
-Et vous, et votre amour, me feriez enrager.
-
--*who_lecampagnard
 Attends, je prémédite une bonne défaite :
 Abandonnant l'aînée et prenant la cadette,
 Je suis dans même sang et dans même maison,
 Et me fais un ami du querelleux Cliton.
 
--*who_jodelet
-Il est certain.
-
--*who_lecampagnard
       De plus je n'aurai rien à craindre
 De ces astres fâcheux dont j'aurais à me plaindre,
 Et Philis, en causant mes secondes amours,
@@ -1775,103 +730,39 @@ Au lieu que, si je veux m'obstiner à Phénice,
 Qui reçut de mon coeur le premier sacrifice,
 Je me dois assurer de mourir malheureux.
 
--*who_jodelet
-Suivez donc ce conseil.
-
--*who_lecampagnard
       Il est bien rigoureux.
 
--*who_jodelet
-Ne le suivez donc point.
-
--*who_lecampagnard
       S'il faut que je le fasse,
 Enfin c'est du temps seul que j'attends cette grâce.
 Mais s'il faut oublier Phénice pour jamais
 Je veux en sa cadette adorer ses attraits.
 
--*who_jodelet
-La composition est assez raisonnable.
-
--*who_lecampagnard
 Ah ! Que j'aurai de peine en rencontre semblable !
 J'y veux encor penser. Mais quelqu'un vient ici.
 
-**** *book_ *id_III03 *act_III *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_bazile
-Vous devez avancer, puisqu'il avance aussi,
-Et parier le premier, ayant 6meu l'affaire.
-Embrassez-vous.
-
--*who_cliton
-      Monsieur, je viens vous satisfaire,
-Et devant ces témoins vous jurer sur ma foi
-Que vous aurez toujours un serviteur en moi.
-
--*who_lecampagnard
 Les nommer des témoins ! Ah ! Changez-leur ces titres :
 Ces yeux sont assez beaux pour être nos arbitres.
 Ces juges souverains, avecque tant d'appas,
 Nous peuvent d'un regard condamner au trépas.
 
--*who_philis
-Le peut-on écouter, ma soeur, sans qu'on le berne?
-
--*who_phenice
-L'amour n'est dans nos yeux qu'un juge subalterne
-Et ne peut condamner le moindre criminel
-Sans que son jugement soit suivi d'un appel.
-
--*who_lecampagnard
 Quoi qu'il en soit, je suis tout à votre service,
 Et dans peu je vous veux rendre un si bon office
 Que vous m'appellerez ami plus que jamais.
 
--*who_bazile
-Embrassez-vous encor pour confirmer la paix.
-
--*who_cliton
-Je suis son serviteur, quoiqu'indigne de l'être.
-
--*who_lecampagnard
 Vous êtes fort brave homme et l'avez fait connaître,
 En me serrant un peu le bouton de fort près.
 D'abord en vous voyant je reculais exprès
 Pour revenir sur vous fondre comme un tonnerre,
 Et vaincre en pratiquant cette ruse de guerre.
 
--*who_cliton
-Je l'ai connu d'abord.
-
--*who_lecampagnard
       Il est joli garçon.
 Or çà, que dites-vous de cet estramaçon.
 Que je vous ai porté ?
 
--*who_cliton
-      Qu'il part de grande adresse.
-
--*who_lecampagnard
 La feinte ?
 
--*who_cliton
-      Qu'elle était poussée avec justesse.
-
--*who_lecampagnard
 Et quand j'ai dégagé, vous en souvenez-vous ?
 
--*who_cliton
-Jamais je ne parais de si dangereux coups.
-
--*who_bazile
-Quand je vous séparai sans aucun avantage,
-Vous aviez fait tous deux en hommes de courage.
-
--*who_phenice
-L'un ni l'autre n'était désarmé, ni blessé.
-
--*who_lecampagnard
 Je vais vous raconter comme tout s'est passé
 D'abord tirant l'épée et gagnant la mesure,
 Portant de petits coups, poussés à l'aventure,
@@ -1890,403 +781,26 @@ Je lui pousse en trois temps une assez rude atteinte,
 Et comme j'allongeais, tiersant il fit cela
 Et s'exempta du coup alors qu'il recula.
 
--*who_phenice
-Je croyais de ce coup qu'il m'avait assommée.
-
--*who_philis
-N'épargner pas le sexe à la personne aimée,
-C'est trop !
-
--*who_lecampagnard
       Excusez-moi, je parle avec chaleur ;
 Mais aimée, elle l'est, et trop pour mon malheur,
 Puisqu'il est arrêté qu'il faut que je la quitte !
 
--*who_bazile
-Que dites-vous, Monsieur ?
-
--*who_lecampagnard
       Que, malgré son mérite,
 Je dois l'abandonner et reprendre mon coeur
 Pour en faire un présent à son aimable soeur.
 
--*who_philis
-Que dit-il ?
-
--*who_lecampagnard
       À Cliton enfin je l'abandonne.
 
--*who_cliton
-A-t-il perdu le sens ?
-
--*who_bazile
-      Ce changement m'étonne.
-
--*who_phenice
-Moi, je ne connais pas jusqu'où va mon malheur.
-
--*who_bazile
-Monsieur ?
-
--*who_lecampagnard
       Je m'en sépare avec grande douleur,
 Et pendant le dîner, de qui l'heure s'approche,
 Vous saurez...
 
--*who_jodelet
-      Que l'amour a troublé sa caboche.
-
--*who_bazile
-De grâce !...
-
--*who_lecampagnard
       Dedans peu je dirai mes raisons.
 
--*who_jodelet
-J'en connais un plus sage aux Petites-Maisons.
-
-**** *book_ *id_IV01 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_leandre
-Tu viens, en ma faveur, par un grand coup d'adresse,
-De faire qu'un rival me quitte sa maîtresse ;
-Mais, au point de la prendre, un sentiment secret
-Me fait voir mon hymen avec quelque regret.
-
--*who_anselme
-Qui vous pourrait causer cette prompte retraite ?
-
--*who_leandre
-Je viens d'entretenir son aimable cadette,
-Qui m'a peint son humeur avec de certains traits
-Qui font que je craindrais de ne l'aimer jamais ;
-Et tu sais quel malheur traîne le mariage
-Quand il faut malgré soi faire mauvais ménage.
-
--*who_anselme
-C'est être homme de bien vingt fois plus qu'il ne faut ;
-Mais que craignez-vous d'elle, et quel est ce défaut ?
-
--*who_leandre
-Anselme, elle est fantasque et coquette et volage.
-
--*who_anselme
-C'est beaucoup, et je crois sa cadette plus sage.
-
--*who_leandre
-Il n'en faut point douter : n'ayant pas vu la Cour
-Et n'ayant pas goûté cet aimable séjour,
-Elle est beaucoup moins fine et vaut mieux que l'aînée
-Qui n'est dans le pays que depuis une année,
-Et qui chez une tante, où l'on cajolait fort,
-Demeura dans Paris jusques après sa mort.
-
--*who_anselme
-Quitter pour un soupçon trois mille écus de rente !
-
--*who_leandre
-Pour les trois mille écus, que rien ne t'épouvante !
-J'ai conçu des desseins pour me les conserver,
-Si tu veux m'y servir et tant soit peu rêver
-À l'important tissu d'une intrigue nouvelle.
-Sa cadette.
-
--*who_anselme
-      Parlez.
-
--*who_leandre
-      Tu sais qu'elle est plus belle ;
-Mais c'est pour ses vertus plus que pour sa beauté
-Que mon coeur aujourd'hui penche de son côté.
-Depuis un mois je tiens cette affaire secrète
-Et, brûlant tous les jours d'une flamme discrète,
-Je serais étouffé sans te parler de rien
-Si je n'eusse pas eu ce dernier entretien,
-Par où je reconnais qu'elle est fort raisonnable
-Et qu'enfin je lui suis un peu considérable.
-
--*who_anselme
-Après un tel discours je tombe de mon haut.
-Monsieur, corrigez-vous d'un semblable défaut,
-Car pour moi j'y renonce et je perds mon escrime.
-Après de pareils tours, cherchez qui vous estime
-Et qui pour vous servir fasse ce que j'ai fait.
-
--*who_leandre
-Écoute.
-
--*who_anselme
-      Mes travaux auront un bel effet.
-
--*who_leandre
-Ah ! Ne te fâche pas, mais écoute.
-
--*who_anselme
-      J'enrage !
-
--*who_leandre
-Cher ami.
-
--*who_anselme
-      N'espérez rien de moi davantage.
-
--*who_leandre
-Ah ! Qu'elle a de beautés !
-
--*who_anselme
-      Mais, avec ses appas,
-Elle est indifférente.
-
--*who_leandre
-      Elle ne me hait pas ;
-Au moins je n'y vois point de certaine apparence.
-
--*who_anselme
-Quitter un bien certain, dessus une espérance !
-Ah ! Bons dieux !
-
--*who_leandre
-      Que veux-tu ?
-
--*who_anselme
-      N'est-ce pas assez fou ?
-Je voudrais de bon coeur m'être cassé le cou,
-Lorsque j'ai travaillé pour un ami semblable.
-
--*who_leandre
-Anselme, prends pitié d'un amant misérable.
-
--*who_anselme
-Mais quand je le voudrais, croyez-vous tout de bon
-Que je puisse éloigner et le noble et Cliton ?
-Ayant au Campagnard prédit ses aventures
-Et fait voir faussement ses misères futures,
-De vers cette cadette ayant tourné ses voeux,
-Alors que de Cliton elle approuve les feux,
-Tel que soit mon esprit, et tel que soit le vôtre,
-Pouvons-nous l'arracher ou de l'un ou de l'autre ?
-Si Cliton l'abandonne, alors le Campagnard
-Ne l'épouse-t-il pas !
-
--*who_leandre
-      Ce sera grand hasard.
-
--*who_anselme
-Hé quoi ! Sur ce hasard perdre votre fortune !
-
--*who_leandre
-Ah ! Quittons la raison quand elle est importune !
-
--*who_anselme
-Mais à ce cher objet si Phénice avait dit
-Une chose qui put me perdre de crédit,
-Que je fais l'Astrologue, et découvre la bourde ?
-
--*who_leandre
-Elle n'aura pas fait une faute si lourde.
-
--*who_anselme
-Pourquoi se déclarer à demi sur ce point,
-Puisqu'elle sait déjà qu'elle ne vous hait point ?
-
--*who_leandre
-En ayant eu besoin, elle avoua la chose
-Et lui fit croire après, de peur qu'elle ne cause,
-Qu'elle seule savait le secret.
-
--*who_anselme
-      Et pour moi ?
-
--*who_leandre
-Elle ne pense pas qu'on se serve de toi,
-Ne nous ayant jamais pu remarquer ensemble.
-Tente donc cet esprit, et vois ce qui t'en semble,
-Car pour moi, je ne puis hasarder cet aveu
-Sans savoir que son coeur brûle de même feu.
-
--*who_anselme
-Mais comment découvrir ses secrètes pensées ?
-
--*who_leandre
-Mais comment as-tu fait tant d'actions passées ?
-Imagine, médite et rêve seulement.
-
--*who_anselme
-Je n'y réussirai que difficilement,
-
--*who_leandre
-Si je me trompe au moins en voyant qu'elle m'aime,
-Ne lui découvrant rien de mon amour extrême,
-Je serai toujours bien dans l'esprit de sa soeur.
-
--*who_anselme
-C'est donc votre coup sûr !
-
--*who_leandre
-      N'en aie point de peur ;
-Médite seulement une adresse nouvelle,
-Pour savoir si je puis me déclarer pour elle.
-
--*who_anselme
-Je le ferai, mais c'est pour la dernière fois.
-
--*who_leandre
-Tais-toi, Phénice vient, je l'entends à la voix.
-
-**** *book_ *id_IV02 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_philis
-N'ai-je pas vu ma soeur qui fuit devant Léandre ?
-
--*who_anselme
-Madame, ils m'ont donné l'ordre de les attendre,
-Pour me communiquer quelque affaire qu'ils ont.
-
--*who_philis
-Je voudrais bien savoir le commerce qu'ils font.
-Mais depuis quelque temps ma soeur est si rêveuse
-Que tout autre que lui la trouve un peu fâcheuse.
-
--*who_anselme
-C'est peut-être un effet de son tempérament.
-
--*who_philis
-Vous en faites peut-être un autre jugement,
-Mais vous ne m'aimez pas assez pour me le dire.
-Ma soeur obtient de vous tout ce qu'elle désire,
-Et pour moi, je n'ai point de zélés ni d'amis.
-
--*who_anselme
-Madame...
-
--*who_philis
-      Où sont les soins que vous m'aviez promis
-Pour m'apprendre le cours de ma bonne aventure ?
-
--*who_anselme
-Je m'y suis préparé, Madame, je vous jure,
-Et si vous le vouliez, dès ce même moment...
-
--*who_philis
-Brisons là, je le veux.
-
--*who_anselme
-      Votre main seulement,
-Et dites, s'il vous plaît, quel mois vous êtes née !
-
--*who_philis
-L'onzième de Juillet.
-
--*who_anselme
-      Vous serez fortunée,
-Et jusques à trente ans en fort bonne santé ;
-Ensuite vous aurez quelque incommodité :
-Des douleurs d'estomac, de tête et de poitrine.
-Vous êtes bilieuse, et replette et sauguine.
-Cette ligne qui prend du pouce au mitoyen
-Vous promet des honneurs avec beaucoup de bien ;
-Celle que vous voyez, qui coupe sous l'indice,
-Montre que vous n'avez ni fraude, ni malice.
-Cet angle qui s'étend au mont de Jupiter
-Fait voir que vous aurez un grand à redouter.
-Ce cercle qui paraît dessus l'auriculaire,
-Joint avec cette croix qu'on voit sous l'annulaire,
-M'apprend qu'ayant pour vous Mercure et le Soleil,
-Vous aurez et prudence, et force, et bon conseil.
-Vers la table quadrangle est une grande ligne
-Qui menace vos jours d'un accident insigne,...
-Et, si j'ose parler, sur ce mont de Vénus
-J'observe certains traits qui me sont inconnus.
-Mais....
-
--*who_philis
-      Vous me causerez une peine incroyable
-Parlez.
-
--*who_anselme
-      M'avouerez-vous si je suis véritable ?
-
--*who_philis
-Oui, je vous le promets.
-
--*who_anselme
-      Vous avez de l'amour,
-Et craignez toutefois qu'il ne paraisse au jour.
-Vous voyez fort souvent l'objet qui vous captive ;
-Mais, parmi les transports d'une ardeur excessive,
-Une sainte pudeur, contraignant vos désirs,
-Tempère vos regards et retient vos soupirs.
-
--*who_philis
-Ah certes, votre esprit n'eut jamais de semblable.
-
--*who_anselme
-Vous reconnaissez bien que je suis véritable !
-
--*who_philis
-De grâce, que ma soeur n'en sache jamais rien.
-
--*who_anselme
-Celui que vous aimez n'a pas beaucoup de bien,
-Mais il est honnête homme et fera quelque chose
-En vous prenant pour femme, ainsi qu'il se propose.
-Quand votre âme est en feu, son coeur se sent brûler;
-Si vous dissimulez, il n'oserait parler ;
-Si votre mal est grand, sa douleur est extrême,
-Et vous l'aimez enfin bien moins qu'il ne vous aime.
-
--*who_philis
-Il m'aime ?
-
--*who_anselme
-      Il est certain.
-
--*who_philis
-      Que dira-t-il de plus ?
-
--*who_anselme
-Du malheureux Cliton les soins sont superflus,
-Et du beau Campagnard l'amour est inutile.
-Mais je vous veux servir en confident habile,
-Et dire à cet amant qu'il se peut exprimer.
-
--*who_philis
-Hélas ! C'est...
-
--*who_anselme
-      Il n'est pas besoin de le nommer :
-Ma science m'apprend, par un pouvoir suprême,
-Ce qui se fait sur terre et dedans le ciel même.
-Il sait peindre.
-
--*who_philis
-      Ah ! C'est trop, je m'abandonne à vous !
-
--*who_anselme
-Tout va bien.
-
--*who_philis
-      Ce baron s'avance devers nous.
-Ah ! L'importun amant !
-
--*who_anselme
-      Ô fortuné Léandre,
-Quel service important viens-je encor de te rendre !
-
-**** *book_ *id_IV03 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_philis
-Je ne vous pensais pas si proche de ces lieux.
-
--*who_lecampagnard
 Quel coeur peut respirer absent de vos beaux yeux,
 Et quel homme mortel, ou barbare ou sauvage,
 Ne brûlerait de voir un si parfait visage ?
 
--*who_philis
-Ma soeur a plus d'attraits.
-
--*who_lecampagnard
       Pour parler sans mépris,
 Quoi que vous en disiez, chacune vaut son prix ;
 Mais, pressé d'une chère et douce violence,
@@ -2294,10 +808,6 @@ Je sens que vos beautés emportent la balance
 Et qu'en vous résistant, un coeur comme le mien
 Ne faisait seulement que traîner son lien.
 
--*who_philis
-Je crains votre inconstance et je la trouve extrême.
-
--*who_lecampagnard
 Ah ! Ne redoutez rien, étant la beauté même,
 Et tenez assuré qu'en recevant ma foi,
 Vous me rendrez constant, même en dépit de moi !
@@ -2322,55 +832,17 @@ Quelque rente foncière et du bien raisonnable,
 Parmi deux cents voisins d'honneur et de vertu,
 Vous mettront à votre aise.
 
--*who_jodelet
-      Et bouche que veux-tu !
-
--*who_philis
-Sans doute un tel parti vaut qu'on te considère,
-Et...
-
--*who_lecampagnard
       J'ai ma charge encore, et celle de mon père.
 
--*who_philis
-Le sot !...
-
--*who_lecampagnard
       Mais je vois bien qu'avecque tant d'appas
 Le secret est de plaire, et que je ne plais pas.
 
--*who_philis
-Changez de sentiment.
-
--*who_lecampagnard
       Ah ! Divine merveille,
 Souffrez que dans l'excès d'une amour sans pareille,
 Dessus ces belles mains...
 
-**** *book_ *id_IV04 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_cliton
-      Poursuivez à loisir,
-Je n'en recevrai pas le moindre déplaisir :
-En perdant un esprit qui n'aime que le change,
-Je ne me plains de rien, son changement me venge.
-
--*who_philis
-Allez, puisqu'on vous venge à force de changer,
-Je fais plus que jamais le voeu de vous venger.
-
--*who_cliton
-Et moi qui vous connais encline à la vengeance,
-Je veux vous dérober cette douce allégeance
-Et vous punir vous-même en me vengeant de vous.
-
--*who_lecampagnard
 Monsieur !
 
--*who_cliton
-      Ingrate.
-
--*who_lecampagnard
       Il faut modérer ce courroux !...
 Vous allez un peu vite en menaçant Madame,
 Et je croirais enfin être digne de blâme
@@ -2378,366 +850,383 @@ Si, souffrant devant moi ces mauvais compliments,
 Je ne vous témoignais quels sont mes sentiments,
 Et...
 
--*who_jodelet
-      Qui se fait brebis, Monsieur, le loup le mange.
-Déjà le sang me bout et la main me démange.
-
--*who_lecampagnard
 Oui, n'étant pas toujours d'humeur à souffrir tout,
 Je sais, quand il le faut, pousser un homme à bout.
 
--*who_cliton
-Je porte à mon côté de quoi vous le défendre.
-
--*who_lecampagnard
 En autre lieu qu'ici je pourrais l'entreprendre.
 
--*who_cliton
-Ah ! C'est trop !
-
--*who_lecampagnard
       En effet, le plutôt vaut le mieux.
 
--*who_philis
-Ah ! Cliton !
-
--*who_lecampagnard
       Il faut vaincre ou mourir à ses yeux.
 
--*who_jodelet
-Ah ! La maudite rouille, ah ! Monsieur, ah ! Mon maître,
-Au diable soit l'épée et ceux qui l'ont fait naître !
-Au secours, aux voleurs, aux meurtres !
-
-**** *book_ *id_IV05 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_bazile
-      Qu'est ceci ?
-Faut-il que des amis se querellent ainsi ?
-
--*who_lecampagnard
 Je lui montrerai bien qu'il prend mal ses mesures.
 
--*who_bazile
-Ah ! Cliton !
-
--*who_jodelet
-      Haut le bois !
-
--*who_bazile
-      Dieux quelles procédures !
-
--*who_lecampagnard
 Ce coup est un prêté, mais il sera rendu.
 Il est bien attaqué, s'il est bien défendu.
 Et...
 
--*who_bazile
-      Vous êtes brave homme, il faut qu'il le confesse.
-
--*who_cliton
-Mais...
-
--*who_bazile
-      Pour l'amour de moi, que ce désordre cesse !
-Quel est ce démêlé ?
-
--*who_philis
-      Cliton fait le jaloux
-Et, se persuadant qu'il peut beaucoup sur vous,
-Il prétend empêcher Monsieur de me rien dire.
-
--*who_cliton
-Madame, il peut prétendre à tout ce qu'il désire ;
-Mais de vos actions il est mal informé
-S'il se croit le premier que vous ayez aimé.
-
--*who_bazile
-Silence !
-
--*who_philis
-      C'en est trop.
-
--*who_cliton
-      Cette seule réponse
-Veut que je l'abandonne et que je la renonce :
-Sa soeur mérite mieux mon coeur et mes soupirs.
-
--*who_lecampagnard
 C'en est trop de vouloir contraindre les désirs.
 
--*who_bazile
-Il est vrai, mais il faut accommoder la chose.
-
--*who_cliton
-Le démêlé finit, puisque je hais la cause,
-Et pour le témoigner, je suis son serviteur.
-
--*who_bazile
-Embrassez-vous.
-
--*who_lecampagnard
       Je suis le sien de tout mon coeur.
 Madame, je vous suis tout à fait redevable.
 
--*who_philis
-Je fais ce que je dois.
-
--*who_bazile
-      Entrons.
-
--*who_lecampagnard
       Qu'elle est aimable !
 Il fait bon se fier à de pareils valets.
 
--*who_jodelet
-Ah ! Reproche sensible au sang des Jodelets !
-Pour te garder de rouille ô belle et claire lame,
-Je te fais un fourreau de l'étui de mon âme.
-Me tuer ! Ah ! Ah ! Ah ! Le sentiment falot
-Que si je l'avais fait je serais un grand sot !
-Rouille-toi tout ton saoul aussi bien, chère Olinde,
-N'es-tu pas pour l'oison, la poule et le coq d'Inde ?
+Ils ne me voient pas.
 
-**** *book_ *id_V02 *act_V *date_1656 *creator_gillet_de_la_tessonerie
+Je les interromprais paraissant davantage.
 
--*who_phenice
-De peur que votre honneur ici ne se hasarde,
-Ce galant homme est-il pour vous servir de garde ?
+Elle est encore mieux portraité dans mon coeur.
 
--*who_philis
-De mon nouvel amant au moins c'est le dessein.
+Que je serais heureux d'être traité de même !
 
--*who_phenice
-À ne vous point mentir, c'est jouer au plus fin :
-Il connaît votre esprit et léger et facile.
+Ah ! Ce coup imprévu me dérobe sa vue.
 
--*who_philis
-Ma soeur....
+Dieux ! Qu'il y prend de peine ! Il se met à genoux.
+Mais je n'aperçois point Jodelet.
 
--*who_jodelet
-      Il n'en est rien ; mon maître est plus habile.
-Ayant le coeur épris de ses perfections,
-Il veut lui témoigner des inclinations
-Dont l'instinct pénétrant s'étende jusqu'aux choses
-Par qui sont cimentés les effets et leurs causes ;
-Car, comme le soleil, par un temps nébuleux,
-Peut bien, sans se servir d'un secours fabuleux,
-Faire passer son feu par sa correspondance,
-Comme le fait mon maître avec grande prudence,
-Tout ainsi, si bien donc. Or l'amour, oui, ma foi...
+Quel valet !
 
--*who_philis
-Laisse-nous là.
+Que fait-il ?
 
--*who_jodelet
-      Je crois qu'on se moque de moi.
+Dieux ! À quelle action s'émancipe ce traître !
+Maraud !
 
--*who_philis
-De crainte que ma soeur ne dise quelque chose,
-Éloignons-le de nous.
-      Dis-lui qu'il s'y dispose,
-Que je l'attends ici.
+      Apprends à te connaître.
 
--*who_phenice
-      Que disiez-vous tout bas ?
+      Tu n'es qu'un insolent,
+Et ce coup...
 
--*who_philis
-Quelque petit secret qui ne vous plairait pas.
+      C'est un infâme.
 
--*who_phenice
-Aussi pour le savoir j'ai peu d'impatience.
+      Ce coquin fait le méchant garçon.
 
--*who_philis
-C'est que vous savez vivre avec expérience.
+      Il faut que je l'assomme.
 
--*who_phenice
-Oui, j'en ai plus que vous.
+      Il te faut battre contre un valet.
 
--*who_philis
-      Madame, je le crois :
-L'âge vous a donné ce don par dessus moi.
+      Ah ! Dieux, c'est mon pied qui s'égare,
+Et je ne manque point de coeur.
 
--*who_phenice
-Vous n'aurez pas toujours un temps si favorable.
+Ô dieux !
 
--*who_philis
-Beaucoup voudraient bien courre une risque semblable.
+Encore...
 
--*who_phenice
-L'amour frappe demain ceux qu'il frappe aujourd'hui.
+Eh bien, je vous la quitte et m'abandonne à vous,
+Et puis vous assurer qu'elle dépend de nous..
 
--*who_philis
-Je n'ai pas encor lieu de me plaindre de lui.
+      C'est ma plus grande envie.
 
--*who_phenice
-Les pleurs suivent de près tous les biens qu'il nous donne.
+      Je suis à vous toute ma vie.
 
--*who_philis
-Je laisse soupirer celles qu'on abandonne.
+Mais s'il est sans fortune, il n'est pas sans courage,
+Et je suis obligé de vous dire aujourd'hui...
 
--*who_phenice
-Ah ! C'est trop ! Je vois bien que vous parlez à moi,
-Mais je vous veux apprendre à me donner la loi,
-Et, devant qu'il soit peu, dans ma fureur extrême,
-Je vais perdre avec vous le fourbe qui vous aime.
-J'ai les yeux dessillés après de longues nuits,
-Et rougis de le voir, étant ce que je suis.
-Il me faut un époux plus digne et plus sortable ;
-Mais, de peur de vous voir et lâche et misérable,
-Sans dessein de venger les affronts qu'il m'a faits,
-Je vais de vos desseins prévenir les effets.
-Je ne vous croirai pas ; vous êtes en colère.
+      À présent c'est un autre moi-même
+Et je trouve un milieu dans ce désordre extrême,
+Car l'aînée ayant eu mon inclination
+Me laisse encore au coeur beaucoup d'affection,
+Et si le bon Anselme, avecque sa doctrine,
+N'avait pas si bon jeu, comme il a bonne mine,
+Et s'était pu tromper en me trompant aussi...
 
-**** *book_ *id_V03 *act_V *date_1656 *creator_gillet_de_la_tessonerie
+Mais cela ne fait rien pour moi.
 
--*who_leandre
+      Cher trompeur, va, je te donne grâce :
+Par ce coup tu changeas toute ma flamme en glace ;
+Mais, ayant reconnu ton adresse et ton jeu,
+Tu changes maintenant toute ma glace en feu.
+Je brûle de la voir, Monsieur ; je vous conjure
+D'oublier toute aigreur en pareille aventure
+Et de songer qu'étant un enfant de maison...
+
+Quant à moi, désormais je le tiens mon beau-frère ;
+Je lui donne la main en cette qualité.
+
+Envoyons donc quérir cette agréable aînée.
+
+      Ah ! Justes Dieux !
+
+      Ah ! Quels sont mes malheurs !
+
+      Dieux ! Que j'ai de tristesse !
+Mon inconstance a fait tous les maux d'aujourd'hui.
+
+      Ah je me désespère
+D'être cause du mal qu'elle se vient de faire.
+
+Elle m'appelle ingrat, ah! Vous le savez tous
+
+      Je n'espère qu'en vous.
+
+Chacun ne pourra pas être de ce voyage :
+Il en faut pour garder cet objet adoré.
+
+      À cheval !
+
+      J'espère en ce voyage
+Et crois que nous aurons beau temps après l'orage
+Et que, le traître ayant moins d'effet que de bruit,
+Nous lui ferons passer quelque mauvaise nuit.
+
+
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+      Hé bien, le jour est beau
+Pourrons-nous aujourd'hui retoucher au tableau ?
+L'atelier est dressé, je n'attends que votre ordre.
+
+Madame, nous aurons ce bien un autre jour.
+
+Non.
+
+      Point.
+
+      Non plus.
+
+      Je ne les ai point vus.
+
+      Aussi peu.
+
+Non, Monsieur.
+
+      Puis-je parler sans fard ?
+
+      Mais sans vous fâcher
+
+Éloignez ce valet.
+
+      Cliton vous joue :
+Il en veut à Phénice, et je les ai trouvés
+Qui se parlaient tous deux en des lieux réservés,
+Et juraient que leurs feux passaient jusqu'à l'extrême.
+Enfin il est aimé.
+
+Il n'est que trop certain mais, Monsieur, gardez bien
+Que d'un si grand secret l'on ne découvre rien :
+Il y va de ma vie.
+
+      Mais au moins, Monsieur, gardez bien de rien dire.
+
+      Tout ce qu'il peut aller :
+La dupe s'intimide, et par ta seule adresse
+Je me conserverai l'honneur et ma maîtresse,
+Embarrassant Cliton avec le Campagnard ;
+Son mariage après court un fort grand hasard,
+Étant fort assuré d'épouser son amante,
+S'il est tué, s'il tue, ou s'il faut qu'il s'absente...
+
+Mais quel est ton secret ?
+
+Il est vrai qu'on y sait tout ce que chacun fait.
+
+Vous vous vîtes tous deux ?
+
+Tu n'as pas ton égal ! Qui pourrait si bien feindre ?
+
+Qu'as-tu dit pour laisser l'habit de broderie ?
+
+Ah ! Je te tiens aussi le plus adroit des hommes !
+
+Depuis que, dans un bal, ce miracle visible
+Rendit en m'y voyant sa belle âme sensible,
+Ses soupirs et ses pleurs sont d'assez bons témoins
+Qu'elle est prête à payer mes respects et mes soins.
+Comment la soupçonner et la croire infidèle,
+Puisque dedans Lyon, n'osant la voir chez elle,
+Elle me fit trouver en certain rendez-vous,
+Et m'apprit qu'on voulait lui donner un époux,
+Mais qu'allant à Paris faire leur équipage,
+Elle me conjurait de faire ce voyage,
+Pour rompre le dessein de ces funestes noeuds
+Qui nous empêcheraient de nous unir tous deux ?
+Je lui promets, je pars, j'obéis et m'engage
+En des déguisements qui blessent mon courage.
+Je suis tous tes avis, je fais ce que tu veux :
+Que faut-il davantage ?
+
+Va, si j'y suis jamais, je te ferai du bien.
+
+      Mon valet les tient.
+
+De plus, j'ai fait la chose avecque tant d'adresse
+Que vous même du prix vous serez étonné,
+Puisqu'à dire le vrai, c'est un marché donné.
+J'en ai d'André del Sarto, de Breughel, du Valèse,
+Du Giosepin, du Tite et de Paul Véronèse,
+Du Titien, du Gobbo, et du vieil Tintoret,
+Du Guide, de Lucas, de Rembrand, de Janet,
+Du Palme, d'Intlaët, de Pierre Pérugin
+De Michel-Ange enfin, de qui la main divine,
+D'un art dont nul ne peut être l'imitateur
+À presque usurpé les droits du Créateur.
+
+Je ne le pense pas.
+
+Ne mérite-t-il pas mille fois qu'on le berne ?
+Monsieur, je n'en ai point d'aucun peintre moderne.
+
+Moderne, ce n'est pas un pays.
+
+      Mais ou je me trompe, ou j'aperçois mon homme.
+Vous allez voir l'élite et la gloire de Rome.
+
+Dites donc votre avis de ce premier tableau
+C'est Hercule qui file auprès de sa maîtresse ;
+Ne semble-t-il pas dire, en l'ardeur qui le presse,
+Par des regards qu'Amour rend complaisants et doux
+« Ô céleste maîtresse, où me réduisez-vous ? »
+Voyez son coloris, et comme son visage
+Dans cet abaissement montre encor du courage,
+Comme un reste d'honneur lui fait rougir le teint,
+Comme il semble avoir honte, et comme il se contraint !
+
+      Elle est incomparable.
+D'autre côté, voyez cette nymphe adorable
+Qui, d'un oeil dédaigneux et plein de mille appas,
+Reçoit ce grand hommage et ne s'en émeut pas.
+
+On pourrait souhaiter que d'un oeil moins sévère
+Elle payât l'effort que l'amour lui fait faire,
+Et qu'en reconnaissant qu'Hercules s'abaissait
+Elle brûlât d'amour quand il en rougissait.
+
+Le savoir ne paraît que dans les nudités.
+
+De grâce, auparavant regardez ce tableau :
+C'est Achille caché sous des habits de femme
+Qui, dans les beaux excès de l'amour qui l'enflamme,
+A forcé son courage à ce déguisement,
+Pour voir en liberté l'objet de son tourment.
+Voyez comme il est gai près de Laodamie,
+Et comme en cet état sa valeur endormie
+Renonce à tous les biens qu'on lui peut présenter,
+Pour voir cette princesse et ne la point quitter.
+Sous ces habits honteux ne semble-t-il pas dire :
+« Un seul de vos regards m'est plus cher qu'un Empire,
+Et je ne connais point d'honneur qui soit plus doux
+Que celui de vous plaire et d'être aimé de vous. »
+
+      Celui qui suit me plaît au dernier point
+C'est du vaillant héros qui délivre Andromède.
+Regardez comme il vole en courant à son aide,
+Et comme, en descendant avec dextérité,
+Le monstre qui l'approche en est épouvanté.
+Ayant dessus le front une joie excessive,
+Ce héros semble dire à la belle captive
+Je vous délivrerai du monstre qui paraît. »
+Remarquez sa laideur.
+
+Il vient d'un bon auteur et ne peut être mal.
+
+Tu viens, en ma faveur, par un grand coup d'adresse,
+De faire qu'un rival me quitte sa maîtresse ;
+Mais, au point de la prendre, un sentiment secret
+Me fait voir mon hymen avec quelque regret.
+
+Je viens d'entretenir son aimable cadette,
+Qui m'a peint son humeur avec de certains traits
+Qui font que je craindrais de ne l'aimer jamais ;
+Et tu sais quel malheur traîne le mariage
+Quand il faut malgré soi faire mauvais ménage.
+
+Anselme, elle est fantasque et coquette et volage.
+
+Il n'en faut point douter : n'ayant pas vu la Cour
+Et n'ayant pas goûté cet aimable séjour,
+Elle est beaucoup moins fine et vaut mieux que l'aînée
+Qui n'est dans le pays que depuis une année,
+Et qui chez une tante, où l'on cajolait fort,
+Demeura dans Paris jusques après sa mort.
+
+Pour les trois mille écus, que rien ne t'épouvante !
+J'ai conçu des desseins pour me les conserver,
+Si tu veux m'y servir et tant soit peu rêver
+À l'important tissu d'une intrigue nouvelle.
+Sa cadette.
+
+      Tu sais qu'elle est plus belle ;
+Mais c'est pour ses vertus plus que pour sa beauté
+Que mon coeur aujourd'hui penche de son côté.
+Depuis un mois je tiens cette affaire secrète
+Et, brûlant tous les jours d'une flamme discrète,
+Je serais étouffé sans te parler de rien
+Si je n'eusse pas eu ce dernier entretien,
+Par où je reconnais qu'elle est fort raisonnable
+Et qu'enfin je lui suis un peu considérable.
+
+Écoute.
+
+Ah ! Ne te fâche pas, mais écoute.
+
+Cher ami.
+
+Ah ! Qu'elle a de beautés !
+
+      Elle ne me hait pas ;
+Au moins je n'y vois point de certaine apparence.
+
+      Que veux-tu ?
+
+Anselme, prends pitié d'un amant misérable.
+
+      Ce sera grand hasard.
+
+Ah ! Quittons la raison quand elle est importune !
+
+Elle n'aura pas fait une faute si lourde.
+
+En ayant eu besoin, elle avoua la chose
+Et lui fit croire après, de peur qu'elle ne cause,
+Qu'elle seule savait le secret.
+
+Elle ne pense pas qu'on se serve de toi,
+Ne nous ayant jamais pu remarquer ensemble.
+Tente donc cet esprit, et vois ce qui t'en semble,
+Car pour moi, je ne puis hasarder cet aveu
+Sans savoir que son coeur brûle de même feu.
+
+Mais comment as-tu fait tant d'actions passées ?
+Imagine, médite et rêve seulement.
+
+Si je me trompe au moins en voyant qu'elle m'aime,
+Ne lui découvrant rien de mon amour extrême,
+Je serai toujours bien dans l'esprit de sa soeur.
+
+      N'en aie point de peur ;
+Médite seulement une adresse nouvelle,
+Pour savoir si je puis me déclarer pour elle.
+
+Tais-toi, Phénice vient, je l'entends à la voix.
+
 Nous n'osions avancer de peur de vous déplaire,
 Mais nous vous écoutions.
 
--*who_philis
-      Il faut adroitement
-Éloigner Jodelet pour parler un moment.
-
--*who_leandre
 Il ne faudrait qu'avoir la toile tout à l'heure.
 
--*who_jodelet
-Je la trouverai bien sans changer de demeure :
-Derrière ce gros luth, je l'avais mise hier.
-
--*who_philis
-C'est être prévoyant.
-
--*who_jodelet
-      Nous sommes du métier.
-
--*who_leandre
 Il ne s'en ira point, quelque effort que l'on fasse.
 Mais il faudrait avoir une chaise plus basse.
 
--*who_jodelet
-Tenez, ce tabouret s'offre tout à propos.
-
--*who_philis
-Ô dieux ! Nous ne pouvons nous dire quatre mots.
-
--*who_leandre
 Il faudrait un peu d'eau.
 
--*who_jodelet
-      Sans vous donner de peine,
-Vous en pouvez trouver dans cette porcelaine.
-
--*who_leandre
 Mon crayon ?
 
--*who_jodelet
-      J'en réponds, et sans sortir d'ici.
-Mais qu'est-il devenu ?
-
--*who_philis
-      Quel bonheur !
-
--*who_jodelet
-      Le voici.
-Bon.
-
--*who_philis
-      Il faut avertir que, si l'on me demande,
-Je...
-
--*who_jodelet
-      Personne ne sort, la chaleur est trop grande.
-
--*who_leandre
 Nous lui dirons en vain jusqu'à la fin du jour ;
 Commençons.
 
--*who_jodelet
-      Je vous vais chanter un air de cour.
-Voulez-vous Bénits soient les yeux bruns de Madame,
-Ou bien : Quand pour Philis mon coeur tout plein de flamme ?
-
--*who_philis
-Pendant qu'il chantera, nous nous entretiendrons.
-
--*who_jodelet
-Je sais tout ce qu'ont fait les Picards, les Guedrons,
-Les Lambert, les Camus et tous ces grands génies,
-Que l'on nomme à la cour les dieux des symphonies.
-
--*who_philis
-Ne nous en chantez point qui soient si sérieux.
-
--*who_jodelet
-La, la, j'ai votre fait, mais il est un peu vieux.
-Ah ! Que cet instrument a l'accord difficile !
-Je n'en touchai jamais sans m'échauffer la bile.
-Un peu cette cheville, encore celle-ci
-Maudit soit le rouquin qui m'embarrasse ici
-Cet accord est-il fin ?
-
--*who_philis
-      Il n'est guère agréable.
-
--*who_jodelet
-C'est que la corde est fausse, ou je me donne au diable.
-
-
-Bel oeil, petit diablotin,
-Clair Lutin,
-Qui carabine mon âme,
-Je suis par ton trait fatal
-Un arsenal.
-Tout plein de fers et de flamme.
-
--*who_leandre
 Il faut partir ce soir et tromper leur attente.
 
--*who_jodelet
-Que diable dites-vous cependant que je chante ?
-
--*who_leandre
 J'apprenais à Madame un secret curieux,
 Pour me donner moyen de bien peindre ses yeux
 Et lui faire un regard plus doux et plus modeste
 Mais de grâce, achevez.
 
--*who_jodelet
-      Voici le double.
-      Peste.
-
-
-Je crois qu'un Topinambour
-Sans amour,
-S'il avait lorgné ta trogne
-Comme moi par ton regard
-Serait ard
-Ô serait un vrai Jean Logne.
-Ah ! que le temps est lourd !
-
--*who_philis
-      Encor quelques accords.
-
--*who_jodelet
-Tout ce qu'il vous plaira mais, ma foi, je m'endors ;
-Je m'en vais dans ce bouge y faire un petit somme,
-Je reviens.
-
--*who_philis
-      Qu'il fait bon se fier à cet homme !
-
--*who_leandre
 Madame, il ne faut point balancer aujourd'hui :
 J'aurai dedans Paris un prince pour appui,
 Chez qui nous trouverons une bonne retraite,
 Jusques à l'heureux jour que notre paix soit faite.
 
--*who_philis
-Mais mon oncle en mourra de douleur.
-
--*who_leandre
       Et tant mieux
 Qu'attend-il que la mort, étant déjà si vieux ?
 Mais laissez-le crever et pester à son aise
@@ -2746,109 +1235,39 @@ Lorsque la chose est faite, enfin l'on file doux,
 Et les embrassements succèdent au courroux.
 Mais quelqu'un vient.
 
--*who_philis
-      Feignons.
-
-**** *book_ *id_V04 *act_V *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_leandre
       Madame, il faut, de grâce,
 Éviter ce faux jour et prendre une autre place.
 
--*who_lecampagnard
-Ils ne me voient pas.
-
--*who_leandre
       Un peu plus de côté,
 Et forcez votre humeur à plus de gaité.
 
--*who_lecampagnard
-Je les interromprais paraissant davantage.
-
--*who_leandre
 Maintenant mon esprit est plein de votre image.
 
--*who_lecampagnard
-Elle est encore mieux portraité dans mon coeur.
-
--*who_leandre
 Je vous suis obligé de cette belle humeur ;
 Mais quelque temps encor tâchez de vous contraindre
 Il faut de la constance alors qu'on se fait peindre.
 Je crains...
 
--*who_philis
-      Ne craignez point, c'est ne rien hasarder.
-
--*who_leandre
 Ne vous lassez-vous point de me tant regarder !
 
--*who_philis
-Le plaisir que pour but j'ai dedans la pensée
-Me fait trouver plaisante une action forcée,
-Et dedans ce dessein loin de m'embarrasser,
-Je vous regarderais dix ans sans me lasser.
-
--*who_lecampagnard
-Que je serais heureux d'être traité de même !
-
--*who_leandre
 C'est être complaisante.
 
--*who_philis
-      On l'est pour ce qu'on aime :
-Votre ouvrage m'est cher plus que vous ne pensez
-Mais il le faut finir comme vous commencez.
-
--*who_leandre
 Tournez donc tant soit peu votre chaise, de grâce
 L'ombre qui paraît là me choque et m'embarrasse
 Et m'ôte le plaisir d'observer tous vos traits.
 Il ne vous verra plus tout au moins de si près.
 
--*who_lecampagnard
-Ah ! Ce coup imprévu me dérobe sa vue.
-
--*who_leandre
 Ah ! Que d'attraits divers cette bouche est pourvue !
 Souffrez donc qu'à plaisir je les admire tous.
 
--*who_lecampagnard
-Dieux ! Qu'il y prend de peine ! Il se met à genoux.
-Mais je n'aperçois point Jodelet.
-
--*who_leandre
       Ah ! Madame !
 
--*who_lecampagnard
-Quel valet !
-
--*who_leandre
       Je n'ai plus de pouvoir sur ma flamme.
 
--*who_philis
-Songez que l'on vous voit ; feignez.
-
--*who_leandre
       Je n'en puis plus.
 
--*who_lecampagnard
-Que fait-il ?
-
--*who_leandre
       Les pinceaux sont ici superflus.
 
--*who_lecampagnard
-Dieux ! À quelle action s'émancipe ce traître !
-Maraud !
-
--*who_philis
-      Contraignez-vous.
-
--*who_lecampagnard
-      Apprends à te connaître.
-
--*who_leandre
 Monsieur, pardonnez-moi ces petits mouvements
 Il me prend quelquefois des étourdissements
 Qui ne me laissent pas disposer de moi-même.
@@ -2859,164 +1278,451 @@ Et principalement quand je peins quelque belle,
 Je m'égare et m'emporte à croire que c'est elle.
 Mais mon mal est passé.
 
--*who_lecampagnard
-      Tu n'es qu'un insolent,
-Et ce coup...
-
--*who_leandre
       Ah ! C'est trop faire le violent.
 
--*who_philis
-Mais pour l'amour de moi, Monsieur...
-
--*who_lecampagnard
-      C'est un infâme.
-
--*who_leandre
 Si nous n'étions tous deux ici devant Madame,
 Je vous démentirais de la bonne façon.
 
--*who_philis
-Hé ! Monsieur.
-
--*who_lecampagnard
-      Ce coquin fait le méchant garçon.
-
--*who_leandre
 Je ne suis pas méchant, mais je suis fort brave homme,
 Et peut-être tantôt...
 
--*who_lecampagnard
-      Il faut que je l'assomme.
-
--*who_leandre
 Mais qu'à propos je vois l'arme de Jodelet !
 Ça, voyons.
 
--*who_lecampagnard
-      Il te faut battre contre un valet.
-
--*who_philis
-Jodelet, appelons quelqu'un qui les sépare.
-
--*who_leandre
 Vous reculez.
 
--*who_lecampagnard
-      Ah ! Dieux, c'est mon pied qui s'égare,
-Et je ne manque point de coeur.
-
--*who_leandre
       Il faut mourir.
 
--*who_lecampagnard
-Ô dieux !
-
--*who_leandre
       Rien à présent ne vous peut secourir
 Il faut mourir, ou bien me quitter la cadette.
 
--*who_lecampagnard
-Encore...
-
--*who_leandre
       Il ne faut point me payer de défaite.
 
--*who_lecampagnard
-Eh bien, je vous la quitte et m'abandonne à vous,
-Et puis vous assurer qu'elle dépend de nous..
-
--*who_leandre
 Vous me la promettez ?
 
--*who_lecampagnard
-      C'est ma plus grande envie.
-
--*who_leandre
 C'en est assez.
 
--*who_lecampagnard
-      Je suis à vous toute ma vie.
-
-**** *book_ *id_V05 *act_V *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_bazile
-Êtes-vous insensés ? Que faites-vous, Messieurs ?
-Toujours flamberge au vent !
-
--*who_jodelet
-      Où sont-ils ? Aux voleurs,
-Main-basse, tuons tout, à moi ma hallebarde !
-Un bâton à deux bouts, des pistolets.
-
--*who_bazile
-Prends garde.
-
--*who_philis
-      Il dormait ses esprits sont encore étonnés
-
--*who_bazile
-Je crois que ce coquin m'a fait saigner du nez.
-Au diable le lourdaud ! Ah ! Sur ma foi, je gage
-Que je suis écorché jusques au cartilage.
-Si le coup eut donné deux ou trois doigts plus haut,
-J'en eusse eu pour mourir tout autant qu'il en faut :
-L'artère de la temple est un endroit funeste
-Où l'âme a toujours droit de jouer de son reste,
-Quand, par solution de continuité,
-On la vient détourner de sa tranquillité.
-Mais hâte ! Et vous, Monsieur, qui, pauvre gentilhomme,
-Feignez pour nous duper que vous venez de Rome,
-Et, passant pour un peintre avec un faux patois,
-Nous jouez en grand maître un tour de fin matois,
-Vous pouvez bien porter dedans d'autres familles
-Ces secrets merveilleux pour attraper des filles.
-Phénice m'a tout dit, et vous ne tenez rien ;
-C'est pourquoi, délogez, puisqu'on vous connaît bien,
-Et ne prétendez pas duper notre cadette.
-
--*who_leandre
 Je suis homme d'honneur.
 
--*who_bazile
-      Ah ! Sonnez la retraite !
-Notre aînée ayant su comme vous en usez
-M'a tantôt déclaré que vous nous abusez
-Et prétendez avoir sa soeur en mariage.
+Allons la retirer des mains de ces voleurs.
 
--*who_lecampagnard
-Mais s'il est sans fortune, il n'est pas sans courage,
-Et je suis obligé de vous dire aujourd'hui...
+Qu'il est sot de penser qu'elle parle de lui !
 
--*who_philis
-Que je n'aurai jamais d'autre mari que lui.
+Messieurs, Anselme a fait le malheur où nous sommes ;
+Mais, comme il est aussi le plus adroit des hommes,
+Il vous peut retirer de tous ces embarras
+Et pour un tel dessein je lui prête mon bras.
+Si Cliton ne vous rend cette adorable aînée
+Dedans le même état qu'il t'avait emmenée,
+Rien ne le peut sauver de mon juste courroux :
+Il mourra.
 
--*who_bazile
-Et moi, je vous promets qu'avant demain peut-être,
-Nous vous mettrons en lieu dont nous serons le maître.
-Je suis oncle et tuteur, et comme tel je dois
-Vous apprendre d'avoir plus de respect pour moi.
-Quand Monsieur...
+Allons donc au plus tôt, sans tarder davantage.
 
--*who_lecampagnard
-      À présent c'est un autre moi-même
-Et je trouve un milieu dans ce désordre extrême,
-Car l'aînée ayant eu mon inclination
-Me laisse encore au coeur beaucoup d'affection,
-Et si le bon Anselme, avecque sa doctrine,
-N'avait pas si bon jeu, comme il a bonne mine,
-Et s'était pu tromper en me trompant aussi...
+Sans aucun intérêt je vous y servirai,
+Et mon amour à part...
 
-**** *book_ *id_V06 *act_V *date_1656 *creator_gillet_de_la_tessonerie
+Monsieur, c'est m'obliger d'une amitié trop forte.
 
--*who_jodelet
-Ne l'allez point chercher autre part le voici !
-J'écoutais.
 
--*who_bazile
-      Mais enfin.
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
 
--*who_anselme
+L'impertinent galant !
+
+      Monsieur, je viens vous satisfaire,
+Et devant ces témoins vous jurer sur ma foi
+Que vous aurez toujours un serviteur en moi.
+
+Je suis son serviteur, quoiqu'indigne de l'être.
+
+Je l'ai connu d'abord.
+
+      Qu'il part de grande adresse.
+
+      Qu'elle était poussée avec justesse.
+
+Jamais je ne parais de si dangereux coups.
+
+A-t-il perdu le sens ?
+
+      Poursuivez à loisir,
+Je n'en recevrai pas le moindre déplaisir :
+En perdant un esprit qui n'aime que le change,
+Je ne me plains de rien, son changement me venge.
+
+Et moi qui vous connais encline à la vengeance,
+Je veux vous dérober cette douce allégeance
+Et vous punir vous-même en me vengeant de vous.
+
+      Ingrate.
+
+Je porte à mon côté de quoi vous le défendre.
+
+Ah ! C'est trop !
+
+Mais...
+
+Madame, il peut prétendre à tout ce qu'il désire ;
+Mais de vos actions il est mal informé
+S'il se croit le premier que vous ayez aimé.
+
+      Cette seule réponse
+Veut que je l'abandonne et que je la renonce :
+Sa soeur mérite mieux mon coeur et mes soupirs.
+
+Le démêlé finit, puisque je hais la cause,
+Et pour le témoigner, je suis son serviteur.
+
+
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
+
+Le dessein va-t-il bien ?
+
+D'effet, où seriez-vous, n'eut été mon secours ?
+J'ai trouvé de l'argent, ménagé vos amours,
+Et, pour mieux concerter une sourde pratique,
+Je vous ai fait passer pour un peintre authentique,
+Et si bien réussi qu'en tout temps vous parlez
+À la personne aimée autant que vous voulez.
+Pour avoir empaumé l'oncle de bonne sorte,
+Vous voyez maintenant notre intrigue si forte
+Que ce beau Campagnard n'a qu'à s'en retourner.
+
+      C'est de bien enfourner.
+Ayant vu qu'il fallait rompre le mariage
+Et jouer en grand maître un adroit personnage,
+Je me suis introduit avec un étranger
+Dans la maison garnie où je les vis loger,
+Et pendant quelques jours, ayant eu connaissance
+Du faible du vieillard, qui chérit la science
+Et cherchait des savants pour les entretenir,
+Je résolus de l'être ou de le devenir
+Et comme en ces maisons il est bien difficile
+De se pouvoir cacher, même au plus habile...
+
+Pour leur tendre le piège avecque plus d'effet,
+Faisant le retiré, le grave et le cynique,
+Le détaché du monde et le mélancolique,
+Chacun fut curieux de savoir qui j'étais
+Et tâchait de me voir alors que je sortais,
+Ce qu'ayant aperçu, pour mieux leur faire accroire,
+Par jour t'en m'apportait des volumes d'histoire,
+Des auteurs grecs, latins, anciens et nouveaux,
+Des cercles, des carrés, des angles, des fourneaux,
+Des cartes, des compas, des globes et des sphères,
+Et tout cela, notez, pendant que mes affaires,
+Que je feignais toujours, avec quelque raison,
+M'obligeaient fort souvent de quitter la maison.
+Ainsi, quand le marchand les rendait à mon hôte,
+Le bon Parisien eut cru faire une faute
+Si dessus son comptoir il n'eut tout étalé
+Et, voyant un valet, ne l'en eut régalé,
+Ce qui dans la maison courant à l'heure même
+Servit de telle sorte à notre stratagème
+Que l'oncle de Phénice, en voulant plus savoir,
+Envoya demander si l'on me pouvait voir.
+
+      Et par ma complaisance
+M'introduisis si bien dedans sa confidence
+Que, m'ayant déclaré son faible de tout point,
+Je m'emparai de lui pour n'en démordre point ;
+Et voyant que surtout il était pour la sphère,
+Je feignis de savoir plus qu'un homme vulgaire
+Et, par les lieux communs de quelques almanachs,
+Le cajolai si bien qu'il en fit un grand cas.
+Ainsi je vins à bout d'approcher votre belle,
+De vous donner moyen de vous assurer d'elle,
+Dans le temps qu'un jaloux l'obsédait puissamment,
+Sans vous donner moyen de la voir seulement.
+
+Sachant que le vieillard se voulait faire peindre
+Et qu'enfin vous saviez tant soit peu dessiner,
+Je lui dis qu'il fallait vous faire gouverner,
+Que je vous connaissais pour un excellent homme
+Qui depuis quelques mois était venu de Rome
+Et que, si vous vouliez faire le moindre trait,
+Vous feriez un miracle, et non pas un portrait.
+
+Que votre garde-robe est à la friperie,
+Que tout peintre est fantasque, et qu'étant des plus fous,
+Comme un musicien vous mettiez tout sur vous
+Et que vous vous piquiez d'orgueil et de noblesse.
+Enfin, nous nous quittons, avec prière expresse
+De vous faire venir loger avecque lui ;
+Je l'ai fait, et vous vois en état aujourd'hui
+De ne plus craindre rien au point où nous en sommes.
+
+Mais songez que Phénice avec quelques discours
+A payé jusqu'ici vos soins et vos amours.
+Feignant, outre cela, d'aimer Cliton, je gage
+Qu'elle fait sans contrainte un pareil personnage ;
+Étant dedans Paris le seul qu'elle écoutait,
+Devant que de vous voir elle s'en contentait.
+
+      Achever d'être heureux,
+Et dans vos libertés en tirer quelque gage
+Qui nous mette tous deux à l'abri de l'orage.
+
+Allons-nous-en dîner, et ne promettez rien.
+Ne nous repaissons point d'une vaine fumée,
+Et, buvant la santé de la personne aimée,
+Avouons que Bacchus est un dieu sans pareil,
+Qui peut guider l'Amour et lui donner conseil.
+
+Nous en sommes le moindre, en l'état où nous sommes,
+Et verrions notre esprit tous les jours en défaut,
+Sans les rayons infus qui nous viennent d'en haut.
+
+J'étais dans les douleurs d'un grand enfantement
+Que j'allais mettre au jour assez heureusement
+Pour traiter la chimie avecque plus de gloire
+Je songeais à construire un grand laboratoire,
+Dont les récipients et les vaisseaux lutés
+Par le feu graduel ne fussent point gâtés.
+Je voulais tempérer l'ardeur immodérée
+Du sel élémentaire et de l'huile éthérée ;
+Je songeais à trouver quelques secrets nouveaux,
+Pour aisément pouvoir calciner les métaux
+Et tirer l'élixir des choses pénétrantes,
+Pour extraire le sel essentiel des plantes,
+Pour faire promptement la sublimation,
+Fixation d'esprit et fumigation.
+Je songeais au pouvoir qu'a le divin Mercure
+Sur le corps métallique en changeant sa nature,
+Comme il se volatise et se peut congeler,
+Corroder et dissoudre et se coaguler.
+
+Parlez-nous, mais en bref.
+
+Je veux, dans peu de temps, vous rendre ce service.
+
+      Puis-je avoir plus beau jeu ?
+Monsieur, à dire vrai, votre horoscope est faite ;
+Mais, vous ayant vu né sous mauvaise planète,
+Je me suis résolu de n'en déclarer rien.
+
+C'est un point résolu, je ne le saurais faire.
+Tout autre, pour tirer son salaire de vous,
+Vous ferait changer d'astre, ou le rendrait plus doux
+Mais, étant au-dessus de toute récompense,
+Je me tais, ou je dis les choses que je pense.
+
+Rien ne me peut tenter, Monsieur, je vous le jure ;
+Mais sachant votre bonne ou mauvaise aventure,
+Si vous n'étiez pas homme à vous épouvanter
+Des maux qu'avec le temps vous pourriez éviter,
+Et si vous compreniez, en voyant vos désastres,
+Qu'un esprit tout-puissant prédomine les astres
+Et change leurs décrets selon sa volonté,
+Je vous ferais savoir votre nativité.
+Mais...
+
+      Je ne vous puis rien dire.
+
+      Armez-vous donc de résolution.
+Vous avez pris naissance au signe du Lion,
+Sous sa tête, où l'on voit quatre étoiles semées,
+Qui d'un feu toujours vif semblent être allumées.
+Il est l'onzième signe, et des plus capitaux,
+Étant particulier de trente partiaux.
+Le nom d'Algebaac est celui qu'on lui donne.
+
+Vous avez sur le chef deux signes fort menus.
+
+      Qu'est-ce ?
+
+Jodelet !
+
+Vous avez à treize ans eu quelque maladie ;
+Dans peu vous en aurez si l'on n'y remédie,
+Et si vous échappez les maux que je pressens,
+Vous n'en sentirez plus qu'a quarante et huit ans.
+Votre fatal ayant la part orientale ;
+Vous ferez une faute et lourde et sans égale,
+Si devers cet endroit, dedans tous vos logis,
+Vous ne disposez pas vos chambres et vos lits,
+Et si vous n'y traitez vos meilleures affaires.
+Juin, Janvier et Juillet, vous seront bien contraires.
+Votre jour malheureux sera le Samedi ;
+Vos heureux sont Mardi, Dimanche et Vendredi,
+Et si vous trafiquez, prenez l'ambre et l'agate,
+Le cuivre et les chevaux, et l'or et l'écarlate,
+Autrement...
+
+Attendez ; chez un grand vous aurez du pouvoir,
+Et vous serez btessé d'un grand coup à la bouche ;
+Vous serez marié.
+
+Et vous devez avoir deux femmes tout au moins ;
+Elles vous aimeront ; mais, malgré tous leurs soins,
+Vous ne pourrez avoir aucun amour pour elles :
+Elles auront du bien et ne seront pas belles.
+Vénus en quantité vous promet des enfants
+Jupiter les rendra joyeux et triomphants ;
+Mais l'opposition de Mars et de la Lune
+De quelques-uns par mort bornera la fortune...
+Votre an climatérique est proche d'arriver.
+Mercure ayant reçu Mars qui le vient trouver,
+Promet un grand désordre en votre mariage
+Le quadrat de Vénus, encore davantage,
+Vous rendant malheureux pour avoir trop vécu.
+
+      Je ne sais point mal qui ne vous arrive,
+Si vous n'abandonnez l'objet qui vous captive
+Des meurtres, un déluge et des embrasements,
+Des prisons, des douleurs et des bannissements,
+Des pertes, des affronts et des têtes coupées,
+Des coups de pistolets, de poignards et d'épées,
+Et des valets pendus.
+
+Suivent le premier feu dont votre coeur brûla.
+
+A-t-elle la première échauffé votre coeur !
+Peut-être ?
+
+Il faut donc la quitter, puisqu'il est manifeste
+Que votre premier feu n'a rien que de funeste,
+Et que ceux qui suivront vous seront plus heureux.
+Mais vous m'aviez promis d'être plus généreux,
+Et cet accablement dont je me trouve cause
+Fait voir que je devais vous déguiser la chose.
+Adieu, j'ai trop parlé.
+
+Les dieux rendent parfois les astres sans effet.
+
+Qui vous pourrait causer cette prompte retraite ?
+
+C'est être homme de bien vingt fois plus qu'il ne faut ;
+Mais que craignez-vous d'elle, et quel est ce défaut ?
+
+C'est beaucoup, et je crois sa cadette plus sage.
+
+Quitter pour un soupçon trois mille écus de rente !
+
+      Parlez.
+
+Après un tel discours je tombe de mon haut.
+Monsieur, corrigez-vous d'un semblable défaut,
+Car pour moi j'y renonce et je perds mon escrime.
+Après de pareils tours, cherchez qui vous estime
+Et qui pour vous servir fasse ce que j'ai fait.
+
+      Mes travaux auront un bel effet.
+
+      J'enrage !
+
+      N'espérez rien de moi davantage.
+
+      Mais, avec ses appas,
+Elle est indifférente.
+
+Quitter un bien certain, dessus une espérance !
+Ah ! Bons dieux !
+
+      N'est-ce pas assez fou ?
+Je voudrais de bon coeur m'être cassé le cou,
+Lorsque j'ai travaillé pour un ami semblable.
+
+Mais quand je le voudrais, croyez-vous tout de bon
+Que je puisse éloigner et le noble et Cliton ?
+Ayant au Campagnard prédit ses aventures
+Et fait voir faussement ses misères futures,
+De vers cette cadette ayant tourné ses voeux,
+Alors que de Cliton elle approuve les feux,
+Tel que soit mon esprit, et tel que soit le vôtre,
+Pouvons-nous l'arracher ou de l'un ou de l'autre ?
+Si Cliton l'abandonne, alors le Campagnard
+Ne l'épouse-t-il pas !
+
+Hé quoi ! Sur ce hasard perdre votre fortune !
+
+Mais à ce cher objet si Phénice avait dit
+Une chose qui put me perdre de crédit,
+Que je fais l'Astrologue, et découvre la bourde ?
+
+Pourquoi se déclarer à demi sur ce point,
+Puisqu'elle sait déjà qu'elle ne vous hait point ?
+
+      Et pour moi ?
+
+Mais comment découvrir ses secrètes pensées ?
+
+Je n'y réussirai que difficilement,
+
+C'est donc votre coup sûr !
+
+Je le ferai, mais c'est pour la dernière fois.
+
+Madame, ils m'ont donné l'ordre de les attendre,
+Pour me communiquer quelque affaire qu'ils ont.
+
+C'est peut-être un effet de son tempérament.
+
+Madame...
+
+Je m'y suis préparé, Madame, je vous jure,
+Et si vous le vouliez, dès ce même moment...
+
+      Votre main seulement,
+Et dites, s'il vous plaît, quel mois vous êtes née !
+
+      Vous serez fortunée,
+Et jusques à trente ans en fort bonne santé ;
+Ensuite vous aurez quelque incommodité :
+Des douleurs d'estomac, de tête et de poitrine.
+Vous êtes bilieuse, et replette et sauguine.
+Cette ligne qui prend du pouce au mitoyen
+Vous promet des honneurs avec beaucoup de bien ;
+Celle que vous voyez, qui coupe sous l'indice,
+Montre que vous n'avez ni fraude, ni malice.
+Cet angle qui s'étend au mont de Jupiter
+Fait voir que vous aurez un grand à redouter.
+Ce cercle qui paraît dessus l'auriculaire,
+Joint avec cette croix qu'on voit sous l'annulaire,
+M'apprend qu'ayant pour vous Mercure et le Soleil,
+Vous aurez et prudence, et force, et bon conseil.
+Vers la table quadrangle est une grande ligne
+Qui menace vos jours d'un accident insigne,...
+Et, si j'ose parler, sur ce mont de Vénus
+J'observe certains traits qui me sont inconnus.
+Mais....
+
+      M'avouerez-vous si je suis véritable ?
+
+      Vous avez de l'amour,
+Et craignez toutefois qu'il ne paraisse au jour.
+Vous voyez fort souvent l'objet qui vous captive ;
+Mais, parmi les transports d'une ardeur excessive,
+Une sainte pudeur, contraignant vos désirs,
+Tempère vos regards et retient vos soupirs.
+
+Vous reconnaissez bien que je suis véritable !
+
+Celui que vous aimez n'a pas beaucoup de bien,
+Mais il est honnête homme et fera quelque chose
+En vous prenant pour femme, ainsi qu'il se propose.
+Quand votre âme est en feu, son coeur se sent brûler;
+Si vous dissimulez, il n'oserait parler ;
+Si votre mal est grand, sa douleur est extrême,
+Et vous l'aimez enfin bien moins qu'il ne vous aime.
+
+      Il est certain.
+
+Du malheureux Cliton les soins sont superflus,
+Et du beau Campagnard l'amour est inutile.
+Mais je vous veux servir en confident habile,
+Et dire à cet amant qu'il se peut exprimer.
+
+      Il n'est pas besoin de le nommer :
+Ma science m'apprend, par un pouvoir suprême,
+Ce qui se fait sur terre et dedans le ciel même.
+Il sait peindre.
+
+Tout va bien.
+
+      Ô fortuné Léandre,
+Quel service important viens-je encor de te rendre !
+
       Un peu de patience !
 Pour vous apaiser tous je ne veux qu'audience.
 Léandre qui passait pour peintre dans ces lieux
@@ -3030,10 +1736,6 @@ Il ne lui reste rien à voir dedans le monde
 Et, par un mariage achevant ses destins,
 Désormais tous ses jours seront de beaux matins.
 
--*who_bazile
-Mais de quelle maison est-il ?
-
--*who_anselme
       Du vrai Léandre,
 Dans la maison duquel advint ce grand esclandre,
 Qui, voyant un des siens dans l'eau de l'Hellespont,
@@ -3043,10 +1745,6 @@ D'où les Grecs les chassant à cause de la guerre,
 Les forcèrent d'aller chez les premiers Gaulois
 Et de prendre parti depuis chez nos François.
 
--*who_lecampagnard
-Mais cela ne fait rien pour moi.
-
--*who_anselme
       Prêtez silence !
 Ne l'ayant point quitté dès sa plus tendre enfance
 Et le tenant très cher ainsi que je l'ai dû,
@@ -3057,152 +1755,697 @@ Je vous épouvantai par de faux accidents,
 En feignant des malheurs et de faux ascendants.
 Mais, Monsieur...
 
--*who_lecampagnard
-      Cher trompeur, va, je te donne grâce :
-Par ce coup tu changeas toute ma flamme en glace ;
-Mais, ayant reconnu ton adresse et ton jeu,
-Tu changes maintenant toute ma glace en feu.
-Je brûle de la voir, Monsieur ; je vous conjure
-D'oublier toute aigreur en pareille aventure
-Et de songer qu'étant un enfant de maison...
-
--*who_bazile
-Faisant tout par justice et pour bonne raison,
-S'il a le bien qu'on dit, il faudra bien le faire.
-
--*who_lecampagnard
-Quant à moi, désormais je le tiens mon beau-frère ;
-Je lui donne la main en cette qualité.
-
--*who_philis
-Et moi je lui promets toute fidélité.
-
--*who_lecampagnard
-Envoyons donc quérir cette agréable aînée.
-
--*who_bazile
-Mais Lise vient à nous.
-
-**** *book_ *id_V07 *act_V *date_1656 *creator_gillet_de_la_tessonerie
-
--*who_lise
-      Ô fille infortunée !
-Monsieur, ne cherchez plus de nièce dans ces lieux
-Cliton vient d'enlever Phénice.
-
--*who_lecampagnard
-      Ah ! Justes Dieux !
-
--*who_lise
-Mais lisez ce papier.
-
--*who_bazile
-
-
-« N'ayant plus de raison,
-Après avoir connu qu'un ingrat m'abandonne,
-Dedans mon désespoir je me donne à Cliton
-Qui connaît la valeur du bien que je lui donne.
-Veuillez donc approuver,
-Ô mon oncle très cher, un pareil mariage,
-Et différant un peu de vous aller trouver,
-Permettez que j'apprenne à devenir plus sage. »
-PHÉNICE.
-
--*who_bazile
-Ah ! Ce mot m'attendrit.
-
--*who_lecampagnard
-      Ah ! Quels sont mes malheurs !
-
--*who_leandre
-Allons la retirer des mains de ces voleurs.
-
--*who_lise
-Je voulais faire effort pour suivre ma maîtresse,
-Mais le cocher fouetta.
-
--*who_lecampagnard
-      Dieux ! Que j'ai de tristesse !
-Mon inconstance a fait tous les maux d'aujourd'hui.
-
--*who_leandre
-Qu'il est sot de penser qu'elle parle de lui !
-
--*who_bazile
-Quel accident fâcheux !
-
--*who_lecampagnard
-      Ah je me désespère
-D'être cause du mal qu'elle se vient de faire.
-
--*who_anselme
 Qui ne rirait devoir qu'il s'accuse pour vous ?
 
--*who_lecampagnard
-Elle m'appelle ingrat, ah! Vous le savez tous
 
--*who_leandre
-Messieurs, Anselme a fait le malheur où nous sommes ;
-Mais, comme il est aussi le plus adroit des hommes,
-Il vous peut retirer de tous ces embarras
-Et pour un tel dessein je lui prête mon bras.
-Si Cliton ne vous rend cette adorable aînée
-Dedans le même état qu'il t'avait emmenée,
-Rien ne le peut sauver de mon juste courroux :
-Il mourra.
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
 
--*who_bazile
-      C'est tout coeur.
+Nous vous allions chercher pour vous prendre avec nous.
 
--*who_lecampagnard
-      Je n'espère qu'en vous.
+C'est me donner mon reste.
 
--*who_leandre
-Allons donc au plus tôt, sans tarder davantage.
+Vous pouviez bien encor m'appeler votre aimant.
 
--*who_lecampagnard
-Chacun ne pourra pas être de ce voyage :
-Il en faut pour garder cet objet adoré.
+Il est encor des corps dont l'humeur sympathique.
 
--*who_leandre
-Sans aucun intérêt je vous y servirai,
-Et mon amour à part...
+      Dites que je m'en pique
+Et qu'on ne peut citer, ni me parler Phoebus,
+Donner un quolibet, ni débiter rébus,
+Qu'au plus fin du métier je n'en fasse la nique.
 
--*who_bazile
-      Allez, c'en est trop dire :
-Votre courage vaut plus qu'elle et qu'un empire.
-Tirant raison au nom de cette trahison,
-Étant né gentilhomme et de bonne maison,
-J'approuve qu'on vous aime et le tiens légitime.
-Le bien vaut quelquefois beaucoup moins que l'estime,
-Et tout homme de coeur porte encore au côté
-Un assez grand trésor dans la nécessité.
+      Cela lui plaît à dire
+Et je connais fort bien, partout ce que je vois,
+Qu'il dit tous ces beaux mots pour se moquer de moi.
 
--*who_leandre
-Monsieur, c'est m'obliger d'une amitié trop forte.
+      Ô le serment étrange !
 
--*who_philis
+Ah ! Dieux, vous nous avez tous emplis de poussière.
+
+      Avez-vous peur de n'en pas assez dire ?
+
+C'est être ménager que de n'en donner qu'une
+Et lorsque vous avez si lourdement péché,
+Vous en quitter pour trois, c'est un fort grand marché.
+
+Certes, pour celle-là je ne l'attendais pas,
+Et, pour en bien parler, je la trouve si prête
+Que je gage à présent qu'il en a cent de reste.
+
+Ah qu'heureux est l'esprit qui va toujours par haut
+Et qui peut débiter la fleurette nouvelle !
+Ah ! Le rare talent !
+
+Mais quand nous dira-t-il notre bonne aventure ?
+
+Je vais faire visite, et n'en veux point démordre ;
+Fâchez-vous-en, ou non, je vous jouerai ce tour.
+
+      Hé quoi, toujours rêver,
+Monsieur ?
+
+En quels lieux est le temple, et quel sera l'autel ?
+
+Ou, pour en mieux parler, mentir éloquemment,
+Puisque de son discours, il me reste un scrupule.
+
+      De ne pouvoir pas croire que son coeur brûle,
+Car, depuis le moment qu'il le dit enflammé,
+Il devrait être au moins mille fois consommé.
+Cependant quel péril courrait sa renommée
+Si, sans avoir le coeur, il allait à l'armée !
+Dieu sait s'il périrait dans les moindres hasards.
+
+Comment ?
+
+Vous n'y vîtes pourtant l'ennemi que de loin?
+
+Dites dans la Gazette. Oh ! L'agréable amant!
+
+Sans doute ; mais voici notre peintre qui vient.
+
+Mais, puisque le héros sait que la Nymphe l'aime,
+Lui peut-on souhaiter un meilleur traitement,
+Et l'amour déplaît-il traité modestement ?
+
+      Mon avis est le vôtre.
+
+      Ah ! Dieux qu'il me déplaît !
+
+On change de costume en changeant d'élément,
+Et les chevaux ailés se peignent de la sorte.
+
+L'amour n'est dans nos yeux qu'un juge subalterne
+Et ne peut condamner le moindre criminel
+Sans que son jugement soit suivi d'un appel.
+
+L'un ni l'autre n'était désarmé, ni blessé.
+
+Je croyais de ce coup qu'il m'avait assommée.
+
+Moi, je ne connais pas jusqu'où va mon malheur.
+
+De peur que votre honneur ici ne se hasarde,
+Ce galant homme est-il pour vous servir de garde ?
+
+À ne vous point mentir, c'est jouer au plus fin :
+Il connaît votre esprit et léger et facile.
+
+      Que disiez-vous tout bas ?
+
+Aussi pour le savoir j'ai peu d'impatience.
+
+Oui, j'en ai plus que vous.
+
+Vous n'aurez pas toujours un temps si favorable.
+
+L'amour frappe demain ceux qu'il frappe aujourd'hui.
+
+Les pleurs suivent de près tous les biens qu'il nous donne.
+
+Ah ! C'est trop ! Je vois bien que vous parlez à moi,
+Mais je vous veux apprendre à me donner la loi,
+Et, devant qu'il soit peu, dans ma fureur extrême,
+Je vais perdre avec vous le fourbe qui vous aime.
+J'ai les yeux dessillés après de longues nuits,
+Et rougis de le voir, étant ce que je suis.
+Il me faut un époux plus digne et plus sortable ;
+Mais, de peur de vous voir et lâche et misérable,
+Sans dessein de venger les affronts qu'il m'a faits,
+Je vais de vos desseins prévenir les effets.
+Je ne vous croirai pas ; vous êtes en colère.
+
+
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
+
+      Ah ! J'en pâme de rire !
+
+Quel ?
+
+Ce morceau de récit est dans quelque roman.
+
+L'excès de son amour doit excuser sa faute.
+
+Il est donc mal payé de son amour extrême ?
+
+Le peut-on écouter, ma soeur, sans qu'on le berne?
+
+N'épargner pas le sexe à la personne aimée,
+C'est trop !
+
+Que dit-il ?
+
+N'ai-je pas vu ma soeur qui fuit devant Léandre ?
+
+Je voudrais bien savoir le commerce qu'ils font.
+Mais depuis quelque temps ma soeur est si rêveuse
+Que tout autre que lui la trouve un peu fâcheuse.
+
+Vous en faites peut-être un autre jugement,
+Mais vous ne m'aimez pas assez pour me le dire.
+Ma soeur obtient de vous tout ce qu'elle désire,
+Et pour moi, je n'ai point de zélés ni d'amis.
+
+      Où sont les soins que vous m'aviez promis
+Pour m'apprendre le cours de ma bonne aventure ?
+
+Brisons là, je le veux.
+
+L'onzième de Juillet.
+
+      Vous me causerez une peine incroyable
+Parlez.
+
+Oui, je vous le promets.
+
+Ah certes, votre esprit n'eut jamais de semblable.
+
+De grâce, que ma soeur n'en sache jamais rien.
+
+Il m'aime ?
+
+      Que dira-t-il de plus ?
+
+Hélas ! C'est...
+
+      Ah ! C'est trop, je m'abandonne à vous !
+
+      Ce baron s'avance devers nous.
+Ah ! L'importun amant !
+
+Je ne vous pensais pas si proche de ces lieux.
+
+Ma soeur a plus d'attraits.
+
+Je crains votre inconstance et je la trouve extrême.
+
+Sans doute un tel parti vaut qu'on te considère,
+Et...
+
+Le sot !...
+
+Changez de sentiment.
+
+Allez, puisqu'on vous venge à force de changer,
+Je fais plus que jamais le voeu de vous venger.
+
+Ah ! Cliton !
+
+      Cliton fait le jaloux
+Et, se persuadant qu'il peut beaucoup sur vous,
+Il prétend empêcher Monsieur de me rien dire.
+
+      C'en est trop.
+
+Je fais ce que je dois.
+
+De mon nouvel amant au moins c'est le dessein.
+
+Ma soeur....
+
+Laisse-nous là.
+
+De crainte que ma soeur ne dise quelque chose,
+Éloignons-le de nous.
+      Dis-lui qu'il s'y dispose,
+Que je l'attends ici.
+
+Quelque petit secret qui ne vous plairait pas.
+
+C'est que vous savez vivre avec expérience.
+
+      Madame, je le crois :
+L'âge vous a donné ce don par dessus moi.
+
+Beaucoup voudraient bien courre une risque semblable.
+
+Je n'ai pas encor lieu de me plaindre de lui.
+
+Je laisse soupirer celles qu'on abandonne.
+
+      Il faut adroitement
+Éloigner Jodelet pour parler un moment.
+
+C'est être prévoyant.
+
+Ô dieux ! Nous ne pouvons nous dire quatre mots.
+
+      Quel bonheur !
+
+      Il faut avertir que, si l'on me demande,
+Je...
+
+Pendant qu'il chantera, nous nous entretiendrons.
+
+Ne nous en chantez point qui soient si sérieux.
+
+      Il n'est guère agréable.
+
+      Encor quelques accords.
+
+      Qu'il fait bon se fier à cet homme !
+
+Mais mon oncle en mourra de douleur.
+
+      Feignons.
+
+      Ne craignez point, c'est ne rien hasarder.
+
+Le plaisir que pour but j'ai dedans la pensée
+Me fait trouver plaisante une action forcée,
+Et dedans ce dessein loin de m'embarrasser,
+Je vous regarderais dix ans sans me lasser.
+
+      On l'est pour ce qu'on aime :
+Votre ouvrage m'est cher plus que vous ne pensez
+Mais il le faut finir comme vous commencez.
+
+Songez que l'on vous voit ; feignez.
+
+      Contraignez-vous.
+
+Mais pour l'amour de moi, Monsieur...
+
+Hé ! Monsieur.
+
+Jodelet, appelons quelqu'un qui les sépare.
+
+      Il dormait ses esprits sont encore étonnés
+
+Que je n'aurai jamais d'autre mari que lui.
+
+Et moi je lui promets toute fidélité.
+
 Mais, mon oncle, de grâce, empêchez qu'il ne sorte :
 Ils se battront, et lors...
 
--*who_bazile
-      Ne craignez rien de mal.
-Je vais tout le premier en campagne.
-
--*who_lecampagnard
-      À cheval !
-
--*who_philis
 Je vais vous voir partir.
 
--*who_lecampagnard
-      J'espère en ce voyage
-Et crois que nous aurons beau temps après l'orage
-Et que, le traître ayant moins d'effet que de bruit,
-Nous lui ferons passer quelque mauvaise nuit.
 
--*who_jodelet
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
+Elle n'est pas tant sotte.
+
+      Est là, là.
+
+      Point de quartier.
+
+Ma foi, sa beauté n'a que l'épée et la cape.
+
+Mentirez-vous toujours en arracheur de dents ?
+C'est parler librement.
+
+Vous vous en offensez ? Touchez là, je m'en moque.
+Quoi, Monsieur, avec moi faire du réservé !
+Être libre au pays, et froid sur le pavé !
+Est-ce de la façon que l'on doit vivre ensemble ?
+Parlez quand vous plaît, et moi, quand bon me semble.
+Ne me défendez point d'être de votre écot
+Et ne me baillez point ici du quiproquo.
+Si ma fidélité vous fait quelques outrages,
+Séparons-nous tous deux, et payez-moi mes gages.
+Avecque le secours de mon petit magot
+Malgré vous dans Paris je puis vivre à gogo ;
+Et quand j'aurai besoin de maître ou de maîtresse
+Je sais bien le Palais et le bureau d'adresse
+Je suis valet d'honneur et ne redoute rien
+Si je parle un peu trop, je sers aussi fort bien.
+Quand avec la parole on fait quelques offenses,
+Coup de langue est alors pire que coups de lances ;
+Mais quand par la parole on dit fidèlement
+Au maître que l'on sert quel est son sentiment,
+Et que la parole est honnête, et belle, et bonne,
+Que diable peut-on dire au valet qui raisonne ?
+J'enrage et si j'étais à quelque raisonneur
+Je ferais ma fortune avecque plus d'honneur.
+Au diable de bon coeur, la noblesse champêtre,
+Et maudit tout valet qui ne l'enverra paître.
+
+      Pour avoir des plumes au chapeau,
+L'éguillette à la mode et le ruban nouveau,
+Pour être chaque jour brave comme au dimanche,
+Et me faire crayer ici la botte blanche,
+Faut-il trancher du Prince avec un vieil valet
+Qui vous a vu soudrille et petit argoulet,
+Qui mange avecque vous le lard à la campagne
+Et qui, pour lard manger, y mange ce qu'il gagne ?
+
+      Moi, Monsieur, parler bas !
+Pestez, jurez, criez, je ne le ferai pas...
+Tout valet que je suis...
+
+Ôtez de vos papiers que vos gens soient des lâches.
+Tous ceux de notre race ont eu le sang bouillant
+Et qui dit Jodelet, dit autant que vaillant.
+
+Ma foi, dans vos amours vous n'êtes qu'un cheval.
+L'autre jour je le vis qui cajolait Phénice
+D'un air assez gaillard pour être sans malice,
+Et qui lui conseillait qu'elle changeât de ton
+Et puis en ajoutant deux fois "Qu'en dira-t-on" ?
+Il lui dit qu'il fallait tâcher à vous surprendre.
+
+      Tout de bon ?
+
+Mais un autre soupçon trouble encor ma caboche :
+Hier, je le vis penaud comme un fondeur de cloche,
+Quand, proche de Phénice et voyant son portrait
+Où le peintre achevait de donner quelque trait,
+Il le prit brusquement et, le baisant de même,
+Jura qu'il y trouvait une douceur extrême,
+Et s'étant barbouillé le minois de couleur,
+Me voyant arriver, s'enfuit comme un voleur.
+
+      J'enrage :
+C'est qu'il voulait l'avoir peinte sur son visage
+Et par ce coup d'adresse, en épargnant le sien,
+En avoir le portrait qui ne lui coustêt rien.
+
+      Mais chacun le voyait,
+Et le Peintre m'a dit, lui qui sait notre intrigue
+Et qui pour moi prend garde à tout ce qui se brigue,
+Que de cet accident Phénice se moqua,
+Et même jusqu'au point que Cliton s'en piqua.
+Mais j'aperçois venir et Bazile et ma Reine.
+
+Monsieur, ne jurez point, ramassez votre lange,
+Et sans parler du ciel, ni de son clair flambeau,
+Mettez-y le bouton et gardez le chapeau.
+
+      Ah ! Vous mentez en diable !
+
+      Ni vous, ni moi, n'avons l'esprit présent.
+
+Au diable soit le maître et tous les confidents !
+Vous ne m'empêchez pas de me curer les dënts,
+De me jouer tout seul, ou de faire la moue !
+
+      Encore est-ce ?
+
+      Ce n'est pas mon affaire,
+Je suis un indiscret.
+
+Vous avez beau prier, je n'irai pas, ma foi.
+Moi, Monsieur, me vouloir traiter de ridicule
+Et me faire garder à toute heure la mule,
+M'éloigner, m'appeler !
+
+      J'ai trop de coeur.
+
+Monsieur, dans son fourreau rengainez votre lame
+Oncques Dieu ne la fît pour glaive exterminant,
+Ni pour aller du corps l'âme déracinant.
+Ne savez-vous pas bien que la vieille pucelle
+Conserve saintement sa blancheur naturelle ;
+Que, de peur de rougir, elle hait la pudeur
+Et tient tout vermillon de soi mauvaise odeur ?
+
+      Que tout marchand qui perd ne saurait rire.
+
+Ce vous sont des morceaux bien durs à digérer.
+
+S'il vous frottait aussi ?
+
+À ce compte, Monsieur, sa mort est assurée.
+
+      Ah parlez d'autre sorte !
+Le petit chien vivant vaut la panthère morte
+Hier dessus le Pont-Neuf, en lisant Piramus,
+Je vis...
+
+Vous deviez l'éloigner au lieu de l'introduire.
+
+Monsieur, tous les duels ne valent pas le diable ;
+Le péril en est grand.
+
+On peut estre tué,
+
+Blessé.
+
+      On peut faire un faux pas.
+
+      Mais si l'on tue ?
+
+Si l'on n'a point d'argent ?
+
+Si l'on n'a point d'ami ?
+
+Mais quand il faut quitter l'objet de ses amours.
+
+Ne vous battez donc point.
+
+Outre cela, j'y vois mille abîmes profonds.
+
+      L'embarras de chercher des seconds
+Et de trouver un sot qui se donne la peine
+D'aller faire pour vous bouclier de bedaine,
+Et la faire cribler de maints coups dangereux
+Quel plaisir peut-on prendre à perdre un malheureux
+Qui n'a jamais lorgné le rustre qui l'empaume
+Et n'a désobligé ni Pierre, ni Guillaume ?...
+En ce temps les seconds sont rares, sur ma foi.
+
+Ah ! Je me doutais bien de ce trait de chicane.
+Mais dussé-je de vous avoir cent coups de canne,
+Vous ne me verrez point aller dessus le pré
+Pour y battre un second, ou pour être bourré.
+Monsieur, en ma faveur, épargnez-vous un crime,
+N'entrez point au combat, et souffrez que je prime ;
+Pourvu que de second je n'aie pas le nom,
+Je me battrai sans peur, même à coups de canon.
+
+Monsieur, ce que j'en dis ce n'est pas pour la chose :
+Vous pouvez disposer de mon peu de valeur ;
+Mais c'est que les seconds vous porteraient malheur
+Et que j'ai fait serment qu'il faut que j'accomplisse.
+
+Quel donc ?
+
+Ne serait-il point homme à jouer du bâton,
+Et reçoit-il souvent un semblable message ?
+
+      Il peut bien être sage,
+Ou je lui ferai voir que je ne suis pas sot.
+
+Tout bien considéré, Monsieur, il le faudrait.
+J'ai fort bien entendu quel est votre message.
+
+Le mensonge est trop grand, je ne puis l'appuyer :
+Monsieur, je ne vous sers que de valet de chambre.
+Ah ! Je tremble en été comme au mois de décembre !
+Au diable la querelle et tous les querelleux !
+
+Que disent-ils tout bas ?
+
+Pour cela ?
+
+Qu'importe ?
+
+Cliton n'est pas vaillant.
+
+      Il faudra l'enterrer.
+
+      Aura beau murmurer.
+
+      Il faudra qu'il l'endure.
+
+Vous n'y pourririez pas.
+
+Et quelles ?
+
+Pour vous dire le vrai, celle-là peut passer.
+
+      Que d'abreuvoirs à mouches !
+
+      Que de nez morfondus !
+
+      Que de chapeaux perdus !
+
+      Que de coups par derrière!
+
+Le profil du Pont-Neuf, ou la noce de Jeanne ?
+
+M'en dût-on prendre au mot, j'en donne ma pistole.
+
+Me dessiez-vous berner pour mon trop de caquet,
+Je ne puis avouer que votre bourriquet
+Ressemble à ce cheval, et qu'il soit de sa taille.
+
+Pour ce coup, il est vrai, je confesse ce point
+Le moyen de le voir, si vous n'en avez point ?
+Un barbet !
+
+Trêve de barbe aussi, monsieur, je vous en prie !
+
+      Monsieur, c'est un vrai diable.
+
+Ô dieux ce nom tout seul tuerait une personne.
+
+Monsieur?
+
+      Avouez que c'est Capricornus.
+
+      Jean Petit fit l'amour à ma tante
+Pierre de Larivé nous doit cent sols de rente,
+Maistre Eustache Noël a bu cent fois chez nous.
+Et le jeune Troyen...
+
+Ne l'ai-je pas bien dit que vous seriez cocu ?
+
+      Ah ! Monsieur, quittez-la.
+
+Belle demande !
+
+      Que vous avez bien fait
+
+      Monsieur, le diable est bien aux vaches.
+
+Petit perturbateur du repos de nos ames
+
+      Traître !
+
+      Fort bien,
+Mais sans frapper du pied tout cela ne vaut rien ;
+Il faut serrer les poings et, roulant les prunelles,
+Par de fréquents regards lorgner les hirondelles.
+
+Vous ne sauriez donc plus de quel bois faire flèche ?
+
+Hé bien, n'est-il pas vrai, qu'il faut qu'un coeur fidèle
+Se vienne tôt ou tard brûler à la chandelle ?
+
+Sot est qui les consulte, et fol est qui s'y fie !
+
+Vous tueriez volontiers un mercier pour un peigne
+Pourquoi vous affliger jusques au dernier point ?
+
+      Ne la quittez donc point.
+
+Quittez-la donc.
+
+      Gardez donc de le faire.
+
+      Hé bien ! N'en faites rien.
+
+Ne pensez donc jamais à vous défaire d'elle.
+
+Abandonnez-la donc.
+
+Aimez donc jusqu'à tant que le diable l'emporte.
+
+Et vous, et votre amour, me feriez enrager.
+
+Il est certain.
+
+Suivez donc ce conseil.
+
+Ne le suivez donc point.
+
+La composition est assez raisonnable.
+
+      Que l'amour a troublé sa caboche.
+
+J'en connais un plus sage aux Petites-Maisons.
+
+      Et bouche que veux-tu !
+
+      Qui se fait brebis, Monsieur, le loup le mange.
+Déjà le sang me bout et la main me démange.
+
+Ah ! La maudite rouille, ah ! Monsieur, ah ! Mon maître,
+Au diable soit l'épée et ceux qui l'ont fait naître !
+Au secours, aux voleurs, aux meurtres !
+
+      Haut le bois !
+
+Ah ! Reproche sensible au sang des Jodelets !
+Pour te garder de rouille ô belle et claire lame,
+Je te fais un fourreau de l'étui de mon âme.
+Me tuer ! Ah ! Ah ! Ah ! Le sentiment falot
+Que si je l'avais fait je serais un grand sot !
+Rouille-toi tout ton saoul aussi bien, chère Olinde,
+N'es-tu pas pour l'oison, la poule et le coq d'Inde ?
+
+      Il n'en est rien ; mon maître est plus habile.
+Ayant le coeur épris de ses perfections,
+Il veut lui témoigner des inclinations
+Dont l'instinct pénétrant s'étende jusqu'aux choses
+Par qui sont cimentés les effets et leurs causes ;
+Car, comme le soleil, par un temps nébuleux,
+Peut bien, sans se servir d'un secours fabuleux,
+Faire passer son feu par sa correspondance,
+Comme le fait mon maître avec grande prudence,
+Tout ainsi, si bien donc. Or l'amour, oui, ma foi...
+
+      Je crois qu'on se moque de moi.
+
+Je la trouverai bien sans changer de demeure :
+Derrière ce gros luth, je l'avais mise hier.
+
+      Nous sommes du métier.
+
+Tenez, ce tabouret s'offre tout à propos.
+
+      Sans vous donner de peine,
+Vous en pouvez trouver dans cette porcelaine.
+
+      J'en réponds, et sans sortir d'ici.
+Mais qu'est-il devenu ?
+
+      Le voici.
+Bon.
+
+      Personne ne sort, la chaleur est trop grande.
+
+      Je vous vais chanter un air de cour.
+Voulez-vous Bénits soient les yeux bruns de Madame,
+Ou bien : Quand pour Philis mon coeur tout plein de flamme ?
+
+Je sais tout ce qu'ont fait les Picards, les Guedrons,
+Les Lambert, les Camus et tous ces grands génies,
+Que l'on nomme à la cour les dieux des symphonies.
+
+La, la, j'ai votre fait, mais il est un peu vieux.
+Ah ! Que cet instrument a l'accord difficile !
+Je n'en touchai jamais sans m'échauffer la bile.
+Un peu cette cheville, encore celle-ci
+Maudit soit le rouquin qui m'embarrasse ici
+Cet accord est-il fin ?
+
+C'est que la corde est fausse, ou je me donne au diable.
+
+
+Bel oeil, petit diablotin,
+Clair Lutin,
+Qui carabine mon âme,
+Je suis par ton trait fatal
+Un arsenal.
+Tout plein de fers et de flamme.
+
+Que diable dites-vous cependant que je chante ?
+
+      Voici le double.
+      Peste.
+
+
+Je crois qu'un Topinambour
+Sans amour,
+S'il avait lorgné ta trogne
+Comme moi par ton regard
+Serait ard
+Ô serait un vrai Jean Logne.
+Ah ! que le temps est lourd !
+
+Tout ce qu'il vous plaira mais, ma foi, je m'endors ;
+Je m'en vais dans ce bouge y faire un petit somme,
+Je reviens.
+
+      Où sont-ils ? Aux voleurs,
+Main-basse, tuons tout, à moi ma hallebarde !
+Un bâton à deux bouts, des pistolets.
+
+Ne l'allez point chercher autre part le voici !
+J'écoutais.
+
 Et moi qui te connais, quoique tu puisses faire,
 Je te tiens un grand sot, et par devant notaire.
 Et vous, beaux campagnards, accordés ou maris.
@@ -3215,3 +2458,22 @@ Prenez-y donc exemple, et devenant plus sages
 Faites-leur voir Paris au fond de vos villages,
 Parmi vos partisans faites les cupidons,
 Et demeurez toujours les rois de vos dindons.
+
+
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alcipe
+
+Quoi que je n'aie pas le bien de vous connaître,
+Vous puis-je dire ici quatre mots seulement ?
+Monsieur, je vous viens faire un mauvais compliment.
+
+      Puisque je sais l'affaire,
+Aujourd'hui les seconds sont un mal nécessaire,
+Autrement je ferais qu'on s'accommoderait.
+
+Cet homme vous sert-il ?
+
+Je crois que ce valet n'est pas fort généreux,
+Lisez donc ce billet, et gardez qu'il n'entende.
+
+      La peine n'est pas grande.
+

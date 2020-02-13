@@ -1,35 +1,17 @@
 
 
-**** *book_ *id_I01 *act_I *date_1777
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pigmalion
 
--*who_galathee
-Eh ! Quoi ? Sitôt nous séparer !
-
--*who_pigmalion
 Hélas ! Ma Galathée, il faut s'y préparer.
 
--*who_galathee
-Que servait de me fait me naître ?
-Je vais souffrir sans cesse, et nuit et jour pleurer :
-Il vaudrait bien mieux ne pas être.
-
--*who_pigmalion
 Et tu comptes pour rien, peut-être,
 Les tourments qu'à mon tour, je suis prêt d'endurer ?
 Crois qu'ils seront égaux à ceux que je te donne.
 
--*who_galathee
-Vas-tu bien loin ?
-
--*who_pigmalion
       À Babylone.
 Le Souverain de ces climats
 Me fait dans cette lettre une vive demande.
 
--*who_galathee
-Comment donc ! Est-ce qu'il te mande ?
-
--*who_pigmalion
 Oui, Galathée, il faut que je me rende
 Incessamment dans ses États.
 Au puissant Apollon que son Peuple y révère,
@@ -38,20 +20,9 @@ Et c'est moi qu'il choisit pour embellir ce lieu,
 Pour y représenter l'Histolre de ce Dieu,
 Et la transmettre à la Mémoire.
 
--*who_galathee
-Et quel motif t'engage à te rendre à ses vœux ?
-
--*who_pigmalion
 Le besoin des cœurs généreux,
 La gloire.
 
--*who_galathee
-      Hélas ! Toujours la gloire,
-La devrait-on préférer à l'amour ?
-Que sert de vivre plus d'un jour,
-Alors que ce n'est point pour l'objet qu'on adore ?
-
--*who_pigmalion
 Bannis un soupçon que j'abhorre,
 Et dont s'indigne ma vertu.
 Ma chère Galathée, eh ! Qu'on donc ? Penses-tu
@@ -62,21 +33,9 @@ Je ne veux de mon nom relever ta splendeur,
 Que pour pouvoir un jour, comparable aux Dieux même,
 Paraître plus aimable aux yeux de ce que j'aime.
 
--*who_galathee
-Eh bien ! Puisque la gloire a fasciné ton cœur,
-Vas chercher, vas saisir ce fantôme trompeur ;
-Tu le peux, j'y consens, et n'en suis point jalouse ;
-Mais souffre au moins que ton épouse
-Accompagne tes pas...
-
--*who_pigmalion
       Ah ! Si je te suis cher,
 Tu ne me suivras point.
 
--*who_galathee
-      Qui peut m'en empêcher ?
-
--*who_pigmalion
 Tout. La Ville où je vais, du vice est le repaire ;
 Le vice y règne seul sous les traits du plaisir :
 L'art de tromper y prend le nom de l'art de plaire ;
@@ -104,44 +63,19 @@ Tu leur dois la lumière, et surtout l'innocence :
 Conserve ce trésor et qu'il te soit plus cher,
 Plus précieux que l'existence.
 
--*who_galathee
-le ne pourrai jamais supporter ton absence :
-Tu veux en vain m'y faire consentir.
-
--*who_pigmalion
 Écoute : on peut te l'adoucir,
 Ou du moins endormir ta peine.
 Tu vois là ma statue...
 
--*who_galathee
-      Eh bien ! Oui, je la vois.
-
--*who_pigmalion
 C'est le chef-d'œuvre d'Alcamène,
 Sculpteur plus habile que moi.
 
--*who_galathee
-Ah ! fort bien ! Peut-être tu crois
-Que l'aspect d'une image vaine,
-Va me dédommager de ce plaisir si pur,
-Qu'avec toi...
-
--*who_pigmalion
       Cette nuit Vénus m'est apparue ;
 Elle m'a fait connaître un moyen sûr, très sûr,
 Pour animer cette statue.
 
--*who_galathee
-Pigmalion ! Ô Ciel ! Se peut-il ? Quel bonheur !
-Pour cela que faudra-t-il faire ?
-
--*who_pigmalion
 À Vénus seulement, adresser ta prière.
 
--*who_galathee
-Quelle prière ?
-
--*who_pigmalion
       Un hymne en son honneur,
 Tel que celui que mon amour sincère
 Composa pour fléchir la puissante Cypris,
@@ -149,16 +83,6 @@ Quand je voulus faire descendre une âme
 Dans le marbre, objet de ma flamme,
 Qui devint Galathée à mes regards surpris.
 
--*who_galathee
-Oh ! Rien n'est plus aisé : mais cet homme de pierre,
-Sera-ce une ombre, une chimère,
-Ou bien une réalité ?
-Pourrai-je au moins l'aimer en sûreté ?
-Pourrai-je voir en lui l'objet de mes tendresses,
-Et lui prodiguer mes caresses
-Sans crainte d'infidélité ?
-
--*who_pigmalion
 Non. Cet homme en effet sera ma vraie image,
 Sans être mal pourtant. Il aura mon visage,
 Mes yeux, mes mains, tous mes dehors ;
@@ -167,13 +91,6 @@ En un mot, ce sera l'ombre la plus palpable...
 Tu ne pourrais l'aimer sans devenir coupable,
 Il faut t'en défier aussi bien que d'un corps.
 
--*who_galathee
-Qu'un autre donc le fasse naître ;
-Je n'aurai point cette indiscrétion ;
-Je rougirais de donner l'être
-Au rival de Pigmalion.
-
--*who_pigmalion
 Que ton cœur te dirige, et qu'il soit seul le maître.
 Mais, Ciel ! Que je suis étourdi !
 Tout semble contre moi conspirer aujourd'hui.
@@ -187,17 +104,10 @@ Tandis qu'ici je vais finir
 De mon départ les apprêts nécessaires ;
 Puis je y compter ?
 
--*who_galathee
-      J'y cours, tu m'attends ?
-
--*who_pigmalion
       Oui.
 Tu me retrouveras ici,
 J'y ferai, mais tu ne le croiras guères.
 
-**** *book_ *id_I02 *act_I *date_1777
-
--*who_pigmalion
 Combien je m'applaudis de l'avoir inventé,
 Ce stratagème heureux, dont ma vive tendresse
 Va se servir pour lire au cœur de ma maîtresse
@@ -226,36 +136,19 @@ Interverti l'ordre et les lois,
 C'est en faveur d'une flamme si pure...
 Un prodige pareil n'arrive pas deux fois.
 
-**** *book_ *id_I03 *act_I *date_1777
-
--*who_pigmalion
 Parmenon !
 
--*who_parmenon
-      Me voilà.
-
--*who_pigmalion
       Tu sais mon stratagème,
 Le billet que je t'ai remis,
 Songe à le rendre à la Beauté que j'aime,
 Dès qu'en ces lieux...
 
--*who_parmenon
-      Je l'ai promis,
-Et n'y manquerai pas.
-
--*who_pigmalion
       Tu vois que sur la tête
 De la statue est le laurier des Arts,
 Qui s'entremêle à ses cheveux épars :
 Pour la ressemblance parfaite
 Il m'en faut un aussi.
 
--*who_parmenon
-      Votre couronne est prête ;
-Et je vais de ce pas...
-
--*who_pigmalion
       Arrête :
 Il faut en ce moment remplir un autre soin.
 Ce n'est pas sans beaucoup de peine
@@ -263,17 +156,227 @@ Que l'on peut déplacer l'ouvrage d'Alcamène :
 De ton secours pour cela j'ai besoin.
 Aide-moi.
 
--*who_parmenon
-      Volontiers. Je ne suis pas Hercule,
-Et la voilà par terre cependant.
-Puis-je me retirer en grave confident ?
-
--*who_pigmalion
 Non, elle vient. Demeure, et surtout dissimule.
 
-**** *book_ *id_I04 *act_I *date_1777
+D'UN assez grand danger, vraiment je suis sorti §
+De sa nature un marbre est impassible ;
+Sous les coups du maillet terrible,
+Pour la première fois la nature eût menti,
+Et Galathée eût trop senti
+Que je n'étais rien moins qu'une pierre insensible.
+C'est pour multiplier l'objet de ses amours.
+Qu'elle va d'un miroir emprunter le secours.
+Que son âme en est un, pour moi, clair et fidèle.
+J'y lis que rien jamais ne m'éloignera d'elle.
+Mais ne vais-je point abuser
+De cette ardeur dont je la vois éprise ?
+Non. Je veux seulement jouir de sa surprise :
+Il est permis de s'amuser.
 
--*who_galathee
+      Fort.
+
+      Erreur.
+
+Le tonnerre gronde à propos :
+Rien n'est plus fatiguant qu'un éternel repos.
+Je n'en puis plus. Toujours dans la même attitude !
+Oh ! finissons : le supplice est trop rude.
+D'ailleurs à Galathée il faut tout découvrir,
+C'est assez s'amuser de son inquiétude.
+Que son trouble m'a fait plaisir !
+Que j'aime sa tendre colère
+Contre mon prétendu rival !
+Elle va me traiter fort mal :
+C'est le vrai moyen de me plaire.
+Je souhaite qu'à mon ardeur
+Elle ne laisse pas les moindres espérances :
+Son courroux fera mon bonheur,
+Et ses rigueurs pour moi, seront des jouissances.
+Je crois l'entendre revenir.
+Pour changer enfin de posture,
+Voici fort à propos un siège de verdure
+Oh je vais feindre de dormir.
+
+      Dieux ! quel objet se présente à ma vue ?
+Il porte dans mon âme une joie imprévue.
+
+Vous êtes, pour mes yeux, l'objet le plus charmant,
+Le plus...
+
+Oui, je sens que je vous adore.
+
+Un tel discours me met en peine :
+Apprenez-moi ce que c'est que la haine.
+
+Je ne vous entends pas.
+
+La définition, pour moi, n'est plus obscure ;.
+Et de vos sentiments, j'aurais tort de douter.
+
+      Exauçant vos souhaits,
+Me feraient devenir marbre comme j'étais.
+
+Eh bien ! Il faut vous satisfaire :
+Je vais...
+
+      Non, arrêtez.
+
+Vous retenez mes pas ?
+
+      Vous voulez mon trépas.
+
+Étrange aveuglement !... Et pourquoi me haïr
+Alors que je suis votre ouvrage ?
+
+L'image d'un époux n'a donc rien qui vous charme ?
+
+Je vois à cet aveu si rempli de candeur,
+Que c'est Pigmalion qui seul a votre cour ;
+Que vainement j'ose y prétendre.
+
+Le croyez-vous payé d'un sincère retour,
+Et que sa flamme égale mon amour ?
+Le Ciel vous prodigua les charmes
+C'est peut-être à leur vain éclat
+Que Pigmalion rend les armes.
+Que mon amour est bien plus délicat !
+Que mon feu, né de la reconnaissance,
+M'enchaîne à vous par un plus pur lien !
+Pigmalion ne vous doit rien ;
+C'est de vous que je tiens ma nouvelle existence.
+Peut-être il n'aime en vous que la beauté,
+Et son feu passager, qu'elle seule a fait naître,
+Avec elle bientôt s'envolera peut-être.
+Tout me fait un devoir de la fidélité.
+
+Pourquoi donc cherchez-vous à redoubler mes peines !
+J'ignore encor si les ingrats
+Sont punis par les lois humaines ;
+Mais je crois que le Ciel ne leur pardonne pas.
+Eh bien ! Vous me forcez a l'être,
+Quand vous m'ordonnez d'étouffer
+Un feu dont je ne suis pas maître,
+Et dont même les Dieux ne pourraient triompher.
+En vous obéissant, cruelle, je les blesse,
+Ces Dieux dont la justice approuve ma tendresse :
+Voulez-vous voir sur mol s'appesantir leurs bras ?
+C'est le sort qui m'attend. Voulez-vous voir la foudre
+Réduire votre ouvrage en poudre,
+Et peut-être sur vous retomber en éclats ?
+Être, à qui je doit tout ! Être vraiment céleste ?
+Être, par qui le jour est venu m'éclairer,
+Ah ! Permets-moi de t'adorer,
+Ou reprends ton présent funeste.
+
+Mon triomphe est complet : ô fortunés moments !
+
+      C'est moi-même,
+Si j'en crois le rapport, que m'a fait en ces lieux
+Cette Beauté qui me hait et que j'aime.
+
+Ciel d'où peut me venir ce bienfait glorieux ?
+
+Eh bien ! L'éclat du rang suprême
+Pour vous n'a-t-il rien de flatteur ?
+Et me préférez-vous toujours un vil Sculpteur ?
+
+Arrête, Galathée !
+
+Vois à tes pieds Pigmalion.
+
+      Il est présent, te dis-je ;
+C'est ton amant, c'est ton époux,
+Qui dans ce moment même embrasse tes genoux :
+Pardonne-lui son stratagème ;
+Poussé d'un désir curieux,
+Pour éprouver celle que j'aime
+J'ai feint d'abandonner ces lieux.
+
+Ce n'était point une imposture >
+Pardonne ! Alors la créature
+S'est en effet moquée un peu du créateur.
+
+Sûr ces gazons nos mains l'ont abattue. ,
+
+      Non, je ne le suis pas,
+Et ne regrette point le trône.
+Cette palme des arts qui me sert de couronne,
+Plus que celle des Rois a pour moi des appas.
+L'unique bonheur où j'aspire,
+Est d'être au rang de tes sujets,
+De t'obéir toujours, et de n'avoir jamais
+Que mon atelier pour empire.
+Que m'importe le vain éclat
+Que procurent les diadèmes ?
+Qu'ai-je besoin d'un peuple, d'un État ?
+Je suis plus que Roi quand tu m'aimes.
+
+      C'est lui-même, il a pris
+Cet habit par mon ordre, il faut lui faire grace
+En faveur de mes feux.
+
+      Ton oil surpris
+La cherche vainement. Il parlait à des arbres.
+Ton Art s'étend plus loin, tu fais vivre des marbres.
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galathee
+
+Eh ! Quoi ? Sitôt nous séparer !
+
+Que servait de me fait me naître ?
+Je vais souffrir sans cesse, et nuit et jour pleurer :
+Il vaudrait bien mieux ne pas être.
+
+Vas-tu bien loin ?
+
+Comment donc ! Est-ce qu'il te mande ?
+
+Et quel motif t'engage à te rendre à ses vœux ?
+
+      Hélas ! Toujours la gloire,
+La devrait-on préférer à l'amour ?
+Que sert de vivre plus d'un jour,
+Alors que ce n'est point pour l'objet qu'on adore ?
+
+Eh bien ! Puisque la gloire a fasciné ton cœur,
+Vas chercher, vas saisir ce fantôme trompeur ;
+Tu le peux, j'y consens, et n'en suis point jalouse ;
+Mais souffre au moins que ton épouse
+Accompagne tes pas...
+
+      Qui peut m'en empêcher ?
+
+le ne pourrai jamais supporter ton absence :
+Tu veux en vain m'y faire consentir.
+
+      Eh bien ! Oui, je la vois.
+
+Ah ! fort bien ! Peut-être tu crois
+Que l'aspect d'une image vaine,
+Va me dédommager de ce plaisir si pur,
+Qu'avec toi...
+
+Pigmalion ! Ô Ciel ! Se peut-il ? Quel bonheur !
+Pour cela que faudra-t-il faire ?
+
+Quelle prière ?
+
+Oh ! Rien n'est plus aisé : mais cet homme de pierre,
+Sera-ce une ombre, une chimère,
+Ou bien une réalité ?
+Pourrai-je au moins l'aimer en sûreté ?
+Pourrai-je voir en lui l'objet de mes tendresses,
+Et lui prodiguer mes caresses
+Sans crainte d'infidélité ?
+
+Qu'un autre donc le fasse naître ;
+Je n'aurai point cette indiscrétion ;
+Je rougirais de donner l'être
+Au rival de Pigmalion.
+
+      J'y cours, tu m'attends ?
+
 Pigmalion !... Pigmalion !...
 Où donc est-il ? Vainement je l'appelle ;
 Rien n'égale mon trouble et mon affliction.
@@ -286,62 +389,15 @@ Tu n'as fans doute abandonné ces lieux,
 Qu'afin de m'épargner la douleur des adieux,
 Et dans ton amour même, oui, je vois ton excuse.
 
--*who_parmenon
-Ah ! Vous le connaissez ou mieux,
-Madame : il m'a chargé lui-même de vous dire
-Ce que vous dites là... Son départ vous déchire,
-Il le fait ; il a craint, en partant, à vos yeux
-De redoubler encor votre tendre martyre.
-
--*who_galathee
 Il est donc parti !
 
--*who_parmenon
-      Sans retard,
-Et vous pouvez en juger par mes larmes :
-Car aussi bien qu'à vous, Madame, son départ
-Me cause de vives alarmes.
-
--*who_galathee
 En courant après lui, ne pourrions-nous pas...
 
--*who_parmenon
-Rien ne serait plus inutile,
-Nous perdrions notre peine et nos pas :
-Peut-être il a déjà fait trois ou quatre mille.
-
--*who_galathee
 Comment cela ?
 
--*who_parmenon
-      Le char qui le conduit,
-Par six chevaux traîné, roule moins qu'il ne vole ;
-Un éclair au sein de la nuit
-Brille moins promptement de l'un à l'autre pôle.
-Ce qui me cause un mortel déplaisir,
-C'est la défense qu'il m'a faite
-De sortir de cette retraite.
-Depuis longtemps j'ai le plus vif désir
-De voir ces beaux jardins qu'une fameuse Reine
-Dans l'air, dit-on, a fait bâtir
-Pigmalion comble ma peine
-En me défendant de partir.
-Je suis esclave, il est maître, il ordonne,
-Il faut que je demeure ici ;
-Et les jardins de Babylone
-Doivent être pourtant plus beaux que celui-ci,
-Mais parcourez le billet que voici,
-Qu'il m'a chargé de vous remettre,
-
--*who_galathee
 Donne donc, malheureux, donne donc cette lettre !
 Tu me la rends bien tard !
 
--*who_parmenon
-      Hélas ! Que voulez-vous ?
-L'affliction me fait extravaguer, je pense.
-
--*who_galathee
 p Je prends, pour te quitter, l'instant de ton absence:
 « Pardonne, tout le veut ; il m'eut été bien doux
 De t'embrasser encor, de jouir en silence
@@ -354,9 +410,6 @@ Laisse-moi seule à ma douleur,
 Parmenon, laisse-moi m'y livrer toute entière :
 Peut-être en y rêvant je pourrai la calmer.
 
-**** *book_ *id_I05 *act_I *date_1777
-
--*who_galathee
 La voilà donc cette insensible pierre,
 Qu'en faisant certaine prière,
 En homme je puis transformer !
@@ -395,27 +448,6 @@ Mais il me doublera son image adorable,
 Et mon cour a besoin de cette illusion,
 Pour adoucir le chagrin qui l'accable.
 
-**** *book_ *id_I06 *act_I *date_1777
-
--*who_pigmalion
-D'UN assez grand danger, vraiment je suis sorti §
-De sa nature un marbre est impassible ;
-Sous les coups du maillet terrible,
-Pour la première fois la nature eût menti,
-Et Galathée eût trop senti
-Que je n'étais rien moins qu'une pierre insensible.
-C'est pour multiplier l'objet de ses amours.
-Qu'elle va d'un miroir emprunter le secours.
-Que son âme en est un, pour moi, clair et fidèle.
-J'y lis que rien jamais ne m'éloignera d'elle.
-Mais ne vais-je point abuser
-De cette ardeur dont je la vois éprise ?
-Non. Je veux seulement jouir de sa surprise :
-Il est permis de s'amuser.
-
-**** *book_ *id_I07 *act_I *date_1777
-
--*who_galathee
 D'une manière avantageuse,
 D'abord tâchons de te placer,
 Tiendras-tu là ? Voyons. Oui : la place est heureuse ;
@@ -473,10 +505,6 @@ Il faut donner la vie à ce marbre insensible.'
 À Vénus rien n'est impossible,
 Voudra-t-elle pour moi faire cet effort ?
 
--*who_pigmalion
-      Fort.
-
--*who_galathee
 
 
 « Ta puissance que je réclame
@@ -486,10 +514,6 @@ Rends Pigmalion à nu flamme
 Tu feras naître dans mon âme
 Plus de plaisir que de terreur. »
 
--*who_pigmalion
-      Erreur.
-
--*who_galathee
 Qu'entends-je ? Quelle voix a frappé mon oreille ?
 Est-ce Vénus qui me répond ?
 Non. Cette voix est trop pareille
@@ -502,7 +526,6 @@ Tu feras naître dans mon âme
 Plus de plaisir que de terreur,
       Erreur.
 
--*who_galathee
 Malheureuse !... Le Dieu dont je porte les chaînes
 M'environne d'illusions,
 Et pour des vérités, m'offre des fictions.
@@ -524,32 +547,6 @@ C'est le Ciel qui vient de s'armer.
 Mon coupable désir excite la tempête,
 À sa fureur tâchons de dérober ma tête.
 
-**** *book_ *id_I08 *act_I *date_1777
-
--*who_pigmalion
-Le tonnerre gronde à propos :
-Rien n'est plus fatiguant qu'un éternel repos.
-Je n'en puis plus. Toujours dans la même attitude !
-Oh ! finissons : le supplice est trop rude.
-D'ailleurs à Galathée il faut tout découvrir,
-C'est assez s'amuser de son inquiétude.
-Que son trouble m'a fait plaisir !
-Que j'aime sa tendre colère
-Contre mon prétendu rival !
-Elle va me traiter fort mal :
-C'est le vrai moyen de me plaire.
-Je souhaite qu'à mon ardeur
-Elle ne laisse pas les moindres espérances :
-Son courroux fera mon bonheur,
-Et ses rigueurs pour moi, seront des jouissances.
-Je crois l'entendre revenir.
-Pour changer enfin de posture,
-Voici fort à propos un siège de verdure
-Oh je vais feindre de dormir.
-
-**** *book_ *id_I09 *act_I *date_1777
-
--*who_galathee
 Il faut avoir bien de l'audace
 Pour revenir ici braver les Dieux !
 C'est un charme secret qui m'attire en ces lieux,
@@ -578,40 +575,17 @@ Oui ; sans attendre plus longtemps,
 Il faut lui dévoiler mes moindres sentiments,
 Seigneur...
 
--*who_pigmalion
-      Dieux ! quel objet se présente à ma vue ?
-Il porte dans mon âme une joie imprévue.
-
--*who_galathee
 Je vois à votre joie, à votre étonnement,
 Que vous me trouvez fort jolie.
 
--*who_pigmalion
-Vous êtes, pour mes yeux, l'objet le plus charmant,
-Le plus...
-
--*who_galathee
       Eh bien ! J'en suis encore,
 Et vous m'aimez probablement.
 
--*who_pigmalion
-Oui, je sens que je vous adore.
-
--*who_galathee
 Eh bien ! J'en fuis ravie encore,
 Moi, je vous hais mortellement.
 
--*who_pigmalion
-Un tel discours me met en peine :
-Apprenez-moi ce que c'est que la haine.
-
--*who_galathee
 C'est le contraire de l'amour.
 
--*who_pigmalion
-Je ne vous entends pas.
-
--*who_galathee
       C'est clair comme le jour.
 Écoutez-moi : tenez, avant que d'être un homme,
 Vous étiez ce qu'ici l'on nomme
@@ -626,40 +600,15 @@ Vous fît pierre redevenir :
 J'en aurais une joie extrême ;
 Voilà ce que c'est que haïr.
 
--*who_pigmalion
-La définition, pour moi, n'est plus obscure ;.
-Et de vos sentiments, j'aurais tort de douter.
-
--*who_galathee
 Si fur le piédestal vous vouliez remonter,
 J'imagine, je conjecture,
 Que peut-être les Dieux...
 
--*who_pigmalion
-      Exauçant vos souhaits,
-Me feraient devenir marbre comme j'étais.
-
--*who_galathee
 Je le désire autant que je l'espère.
 
--*who_pigmalion
-Eh bien ! Il faut vous satisfaire :
-Je vais...
-
--*who_pigmalion
-      Non, arrêtez.
-
--*who_pigmalion
-Vous retenez mes pas ?
-
--*who_galathee
 Oui ; j'ai pitié de vous. Vous avez été pierre
 Assez longtemps,
 
--*who_pigmalion
-      Vous voulez mon trépas.
-
--*who_galathee
 Non. Je vous laisse la lumière,
 Pourvu que de vos feux vous ne me parliez pas ;
 Votre amour offense ma gloire ;
@@ -667,11 +616,6 @@ Je le répète : je vous hais ;
 Et si vous persistez à m'aimer, désormais
 Je vous haïrai plus : vous pouvez bien le croire.
 
--*who_pigmalion
-Étrange aveuglement !... Et pourquoi me haïr
-Alors que je suis votre ouvrage ?
-
--*who_galathee
 C'est que du seul mortel que je doive chérir
 Vous êtes la parfaite image ;
 Que vous avez ses traits, le même son de voix ;
@@ -681,39 +625,12 @@ Et que plus je suis exposée
 Plus je dois me conduire en personne avisée,
 Pour éviter toute distraction.
 
--*who_pigmalion
-L'image d'un époux n'a donc rien qui vous charme ?
-
--*who_galathee
 Je goûte, en la voyant, le plaisir le plus doux :
 Mais un portrait qui parle et qui marche, entre nous,
 Est fait pour causer quelque alarme.
 
--*who_pigmalion
-Je vois à cet aveu si rempli de candeur,
-Que c'est Pigmalion qui seul a votre cour ;
-Que vainement j'ose y prétendre.
-
--*who_galathee
 Oui : mon amour pour lui ne saurait se comprendre.
 
--*who_pigmalion
-Le croyez-vous payé d'un sincère retour,
-Et que sa flamme égale mon amour ?
-Le Ciel vous prodigua les charmes
-C'est peut-être à leur vain éclat
-Que Pigmalion rend les armes.
-Que mon amour est bien plus délicat !
-Que mon feu, né de la reconnaissance,
-M'enchaîne à vous par un plus pur lien !
-Pigmalion ne vous doit rien ;
-C'est de vous que je tiens ma nouvelle existence.
-Peut-être il n'aime en vous que la beauté,
-Et son feu passager, qu'elle seule a fait naître,
-Avec elle bientôt s'envolera peut-être.
-Tout me fait un devoir de la fidélité.
-
--*who_galathee
 Tout à Pigmalion, tout m'enchaîne de même ;
 Tout me fait une loi d'aimer celui que j'aime.
 Ainsi que vous, je fus un bloc longtemps :
@@ -730,38 +647,98 @@ Par quelque nouvelle bergère ;
 Mon bonheur est de lui plaire,
 Mon devoir est de l'aimer.
 
--*who_pigmalion
-Pourquoi donc cherchez-vous à redoubler mes peines !
-J'ignore encor si les ingrats
-Sont punis par les lois humaines ;
-Mais je crois que le Ciel ne leur pardonne pas.
-Eh bien ! Vous me forcez a l'être,
-Quand vous m'ordonnez d'étouffer
-Un feu dont je ne suis pas maître,
-Et dont même les Dieux ne pourraient triompher.
-En vous obéissant, cruelle, je les blesse,
-Ces Dieux dont la justice approuve ma tendresse :
-Voulez-vous voir sur mol s'appesantir leurs bras ?
-C'est le sort qui m'attend. Voulez-vous voir la foudre
-Réduire votre ouvrage en poudre,
-Et peut-être sur vous retomber en éclats ?
-Être, à qui je doit tout ! Être vraiment céleste ?
-Être, par qui le jour est venu m'éclairer,
-Ah ! Permets-moi de t'adorer,
-Ou reprends ton présent funeste.
-
--*who_galathee
 Levez-vous : de vos maux j'ai pitié, je le sens ;
 Je voudrais les guérir, et ne puis que les plaindre !
 J'aime Pigmalion, j'ignore l'art de feindre,
 Et je ne changerai jamais de sentiments.
 
--*who_pigmalion
-Mon triomphe est complet : ô fortunés moments !
+Oui ! J'ai prié les Dieux, Les Dieux m'ont entendue,
+Dans le marbre à ma voix la vie est descendue,
+J'ai dit, et le marbre a parlé.
 
-**** *book_ *id_I10 *act_I *date_1777
+Emmenez-le bien loin d'ici,
+Mon unique désir est que l'on m'en délivre.
 
--*who_parmenon
+Garde, garde ton diadème,
+Penses-tu que pour lui je veuille abandonner
+L'unique objet de mon amour extrême ;
+Témoin de cet amour, peux-tu le soupçonner ?
+Pigmalion m'est cher cent fois plus que le trône :
+Adieu, je vais le joindre à Babylone ;
+Ce n'est que sur son cour que je prétends régner.
+
+      Ô surprise ! Ô prodige !
+Comment peut-il savoir mon nom ?
+
+Il est si loin ! Si loin !
+
+J'aurais dû m'en douter, lorsque sur ta figure
+J'ai cru tantôt voir un souris menteur.
+
+Mais d'Alcamène où donc est la statue ?
+
+Tu n'es donc pas un Roi ?
+
+Cet homme-là pourtant, offre à mes yeux,
+Tous les dehors sacrés d'un ministre des Dieux.
+
+Ô Ciel ! C'est Parmenon !
+
+      Mais cette populace
+Qui le suivait...
+
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenon
+
+      Me voilà.
+
+      Je l'ai promis,
+Et n'y manquerai pas.
+
+      Votre couronne est prête ;
+Et je vais de ce pas...
+
+      Volontiers. Je ne suis pas Hercule,
+Et la voilà par terre cependant.
+Puis-je me retirer en grave confident ?
+
+Ah ! Vous le connaissez ou mieux,
+Madame : il m'a chargé lui-même de vous dire
+Ce que vous dites là... Son départ vous déchire,
+Il le fait ; il a craint, en partant, à vos yeux
+De redoubler encor votre tendre martyre.
+
+      Sans retard,
+Et vous pouvez en juger par mes larmes :
+Car aussi bien qu'à vous, Madame, son départ
+Me cause de vives alarmes.
+
+Rien ne serait plus inutile,
+Nous perdrions notre peine et nos pas :
+Peut-être il a déjà fait trois ou quatre mille.
+
+      Le char qui le conduit,
+Par six chevaux traîné, roule moins qu'il ne vole ;
+Un éclair au sein de la nuit
+Brille moins promptement de l'un à l'autre pôle.
+Ce qui me cause un mortel déplaisir,
+C'est la défense qu'il m'a faite
+De sortir de cette retraite.
+Depuis longtemps j'ai le plus vif désir
+De voir ces beaux jardins qu'une fameuse Reine
+Dans l'air, dit-on, a fait bâtir
+Pigmalion comble ma peine
+En me défendant de partir.
+Je suis esclave, il est maître, il ordonne,
+Il faut que je demeure ici ;
+Et les jardins de Babylone
+Doivent être pourtant plus beaux que celui-ci,
+Mais parcourez le billet que voici,
+Qu'il m'a chargé de vous remettre,
+
+      Hélas ! Que voulez-vous ?
+L'affliction me fait extravaguer, je pense.
+
 Peuple, attendez-moi là. Dans ces lieux redoutables,
 Que les Dieux immortels viennent de consacrer
 Par des prodiges mémorables,
@@ -772,27 +749,10 @@ Le courroux de Vénus sur vos têtes coupables.
 N'êtes-vous pas, Seigneur, ce marbre que les Dieux
 Viennent d'animer ?
 
--*who_pigmalion
-      C'est moi-même,
-Si j'en crois le rapport, que m'a fait en ces lieux
-Cette Beauté qui me hait et que j'aime.
-
--*who_parmenon
 Ce mystère par vous lui fut donc révélé ?
 
--*who_galathee
-Oui ! J'ai prié les Dieux, Les Dieux m'ont entendue,
-Dans le marbre à ma voix la vie est descendue,
-J'ai dit, et le marbre a parlé.
-
--*who_parmenon
 Eh bien, Seigneur, soyez prêt à me suivre.
 
--*who_galathee
-Emmenez-le bien loin d'ici,
-Mon unique désir est que l'on m'en délivre.
-
--*who_parmenon
 Vous pourriez bien toujours ne pas parler ainsi.
 De Tyr recevez la couronne ;
 Elle est à vous, l'oracle vous la donne,
@@ -802,102 +762,9 @@ De remplacer notre Roi qui n'est plus.
 Le Trône vous attend, aux regards de son maître
 Tout votre peuple est là, qui brûle de paraître.
 
--*who_pigmalion
-Ciel d'où peut me venir ce bienfait glorieux ?
-
--*who_parmenon
 Un jour vous le saurez peut être ;
 En attendant, suivez l'ordre des Cieux.
 
--*who_pigmalion
-Eh bien ! L'éclat du rang suprême
-Pour vous n'a-t-il rien de flatteur ?
-Et me préférez-vous toujours un vil Sculpteur ?
-
--*who_galathee
-Garde, garde ton diadème,
-Penses-tu que pour lui je veuille abandonner
-L'unique objet de mon amour extrême ;
-Témoin de cet amour, peux-tu le soupçonner ?
-Pigmalion m'est cher cent fois plus que le trône :
-Adieu, je vais le joindre à Babylone ;
-Ce n'est que sur son cour que je prétends régner.
-
--*who_pigmalion
-Arrête, Galathée !
-
--*who_galathee
-      Ô surprise ! Ô prodige !
-Comment peut-il savoir mon nom ?
-
--*who_pigmalion
-Vois à tes pieds Pigmalion.
-
--*who_galathee
-Il est si loin ! Si loin !
-
--*who_pigmalion
-      Il est présent, te dis-je ;
-C'est ton amant, c'est ton époux,
-Qui dans ce moment même embrasse tes genoux :
-Pardonne-lui son stratagème ;
-Poussé d'un désir curieux,
-Pour éprouver celle que j'aime
-J'ai feint d'abandonner ces lieux.
-
--*who_galathee
-J'aurais dû m'en douter, lorsque sur ta figure
-J'ai cru tantôt voir un souris menteur.
-
--*who_pigmalion
-Ce n'était point une imposture >
-Pardonne ! Alors la créature
-S'est en effet moquée un peu du créateur.
-
--*who_galathee
-Mais d'Alcamène où donc est la statue ?
-
--*who_pigmalion
-Sûr ces gazons nos mains l'ont abattue. ,
-
--*who_galathee
-Tu n'es donc pas un Roi ?
-
--*who_pigmalion
-      Non, je ne le suis pas,
-Et ne regrette point le trône.
-Cette palme des arts qui me sert de couronne,
-Plus que celle des Rois a pour moi des appas.
-L'unique bonheur où j'aspire,
-Est d'être au rang de tes sujets,
-De t'obéir toujours, et de n'avoir jamais
-Que mon atelier pour empire.
-Que m'importe le vain éclat
-Que procurent les diadèmes ?
-Qu'ai-je besoin d'un peuple, d'un État ?
-Je suis plus que Roi quand tu m'aimes.
-
--*who_galathee
-Cet homme-là pourtant, offre à mes yeux,
-Tous les dehors sacrés d'un ministre des Dieux.
-
--*who_parmenon
 Regardez moi de près, et vous pourrez connaître,
 Que la barbe et l'habit ne font pas seuls le prêtre.
 
--*who_galathee
-Ô Ciel ! C'est Parmenon !
-
--*who_pigmalion
-      C'est lui-même, il a pris
-Cet habit par mon ordre, il faut lui faire grace
-En faveur de mes feux.
-
--*who_galathee
-      Mais cette populace
-Qui le suivait...
-
--*who_pigmalion
-      Ton oil surpris
-La cherche vainement. Il parlait à des arbres.
-Ton Art s'étend plus loin, tu fais vivre des marbres.

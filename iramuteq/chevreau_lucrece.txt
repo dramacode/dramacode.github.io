@@ -1,74 +1,7 @@
 
 
-**** *book_ *id_epistre *date_1637 *creator_chevreau
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tarquin
 
-EPISTRE. A MADAME LA MARQUISE De COASLIN.
-
-MADAME,
-
-Cette Lucresse qui fut autrefois l'objet⁎ de l'amour d'un Prince, craint encore d'estre celuy de votre mespris, quand elle considere la severité de votre vertu⁎.
-Elle n'est pas de celles qui ne veulent point de jour s'il n'est faux, ny de miroir s'il ne flatte⁎ ; quoy qu'elle soit plus malheureuse que coupable, elle a creu que comme pour avoir aimé un portrait, on n'est pas obligé⁎ d'aymer la toile quand il n'y a rien dessus ; on ne devoit pas aussi cherir la vie quand l'honneur⁎ en estoit osté, qui est la seule chose pour laquelle nous avons droit de la souhaiter.
-Toutefois, MADAME, considerez s'il vous plaist, que toutes les personnes qui perdent les yeux ne meritent pas qu'on leur arrache, que toutes celles qui haissent la vie n'en sont pas indignes, et que cette Dame Romaine, quoy que violee, passe encore dans notre siecle pour un exemple de pudeur.
-Mais comme la malice et la médisance ne treuvent point de vide dans la Nature, et que leur Empire n'a point d'autres bornes que celles du monde, j'aprehende qu'apres avoir esté si mal traittee d'un Prince, elle le soit encore davantage du reste des hommes.
-Je sçay bien que voulant peindre Lucresse, j'ay fait un monstre de ce dont la Nature avaoit fait une merveille ; et que mes vers seront peut-être aussi dignes de compassion que sa mort.
-Toute ces considerations ne me divertiront pas pourtant, MADAME, de vous l'offrir, et de vous prier de la recevoir.
-C'est de vous qu'elle attend son plus grand support ; et si elle merite vostre estime je suis asseuré que son prix n'en eut jamais ; puis que vous discernez si nettement les bonnes choses d'avec les mauvaises, que ceux qui considerent ce qui sort de vous avec enuie⁎, ne peuvent pas mesme s'empescher de regarder ce qui est en vous avec admiration.
-Il est plus seant de publier hautement cette verité, que de faire un mensonge, et vostre raison ne se treuvera pas offencée d'une louange qu'on ne luy peut dérober avec injustice, et qu'elle doit souffrir par necessité.
-Je n'entreprens pas icy, MADAME, de traitter de tout ce qui vous rend recommendable : L'antiquité de vostre race, les genereuses actions de vos ancestres, les eminentes dignitez de vos parens, et les services notables qu'ils rendent aujourd'huy à l'Estat, avec vos merites, et vos vertus⁎, sont plustot le sujet d'une histoire que d'une lettre.
-Il me suffit seulement de vous considerer comme un chef-d'œuvre que la Nature n'a pas fait sans éfort, et apres lequel, tous ses ouvrages n'ont rien qui nous puissent surprendre et nous émouvoir.
-C'est un sentiment commun, je ne repete que ce que disent les plus sensez ; et comme un Echo j'emprunte icy la voix des autres pour me faire entendre.
-Cette opinion est juste et raisonnable, et la verité les fait aussi bien parler, que moy, quand je proteste que je suis,
-
-MADAME,
-
-Vostre tres-humble et tres-obeïssant serviteur, CHEVREAU.
-
-**** *book_ *id_aux-honnestes-gents *date_1637 *creator_chevreau
-
-AUX HONNESTES GENTS.
-
-Nous sommes dans un siecle où les bonnes pensees semblent naistre aussi rarement que les choses prodigieuses, et dans lequel les bons livres ne se content que par le nombre des miracles.
-Les esprits sont aujourd'huy si penetrans, qu'on diroit qu'ils sont tous d'une méme trempe, en ce que le moindre ne treuve rien au dessus de sa portee.
-Tous les hommes, sans en excepter méme ceux qui n'en ont que l'apparence, pour avoir leu qu'ils ont été faits à l'Image de Dieu ; s'imagineroient choquer la Divine Providence, s'ils croioient être defectueus dans la moindre de leur partie.
-Le pis en cecy est, qu'on en voit qui veulent être seuls dans cette comparaison, et qui se persuadent d'avoir en éfet reçeu du Ciel, ce que Pandore en eut autrefois au dire des Poètes.
-Mais je treuve encore plus étrange que ceux qui connessent toutes les vertus⁎, et qui les croient pratiquer, oublient la modestie que je tiens une des pricipales, et qu'ils ayent assez d'insolence pour vouloir assujettir les autres à crêre qu'ils sont honnestes gens pour ce qu'ils le disent : Comme si leurs jugemens êtoient aussi infaillibles que les paroles de celuy dont ils veulent être le veritable portrait.
-On en treuve qui ne font pas consience de publier que les personnes qui doutent de leur esprit et de leur merite, ne sont pas moins heretiques que celles qui auroient quelque scrupule des articles de foy, et des misteres de la Religion.
-Ce sont ces êcrivains qui cherchent leur gloire dans le mêpris qu'ils font des autres, et qui s'estiment aussi necessêres dans les boutiques des Librêres pour corriger les defauts d'un livre, que ces grands censeurs pouvoient être dans les anciennes Republiques pour corriger le defaut des mœurs.
-Ceux-cy treuvant ma LUCRESSE y remarqueront peut-étre autant de fautes que de mots et diront que je fais presque autant de chûttes que de pas : Quelques uns moins jaloux, et plus veritables, treuveront quelque chose de rude, parmi quelque mouvement qui les pourra chatoüiller : Mais qu'ils sçachent que les êpines d'ordinêre sont parmy les roses, et s'ils s'étonnent de voir une faute plus insuportable où je ne devois pas tomber, qu'ils se souviennent qu'on rencontre quelquefois des viperes sous de belles fleurs.
-En un mot comme je reconnois mon esprit foible, je croy être aussi sujet à mal êcrire, qu'à mal faire, pour ce que je suis homme.
-Je n'ay pas eu les Siences infuses comme nostre premier Père, pour reconêtre icy ce que je devois suivre, et ce que je pouvois éviter.
-Je crêrois perdre mon esprit dans la recherche de l'éloquence et de la Poesie, aussi bien que les Alchimistes perdent le leur dans la recherche de la pierre Philosophale.
-Je me console au moins, en ce que ceux qui n'écrivent pas bien, n'ont pas le châtiment de ceux qui font mal.
-Si cela étoit, la passion que j'ay a me fêre conétre par ce moien n'est point si forte que je ne la desavoüasse si elle devoit attirer ma honte et ma perte.
-Enfin, Lecteur, si ce Poesme pour lequel je n'ay perdu que fort peu de temps, ne peut meriter ton approbation, je t'entretiendray un jour de matieres plus serieuses et peut-estre plus necesseres, et s'il a dequoy te plere, je me treuveray sans doute recompensé de ma peine, puis que je n'eus jamais d'autre but que mon contentement et le tien.
-
-**** *book_ *id_privilege *date_1637 *creator_chevreau
-
-Privilege du Roy.
-
-Louis par la grace de Dieu Roy de France et de Navarre, à nos amez et feaux les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevosts, Juges, ou leurs Lieutenans, et à chacun d'eux en droict soy, Salut.
-Nostre cher et bien-amé Toussainct Quinet, marchand Libraire, nous a fait remonstrer, qu'il desireroit imprimer et mettre en lumière une Tragedie, intitulée, La Lucresse Romaine mais craignant que l'Impression ne luy soit dommageable si d'autres que luy s'ingeroient de la faire imprimer, il nous a requis nos Lettres sur ce necessaires.
-À ces causes, nous avons permis, et octroyé, permettons et octroyons audit Quinet d'imprimer ou faire imprimer ladite Tragedie, par tels Imprimeurs que bon luy semblera, icelle vendre et exposer durant le temps de sept années pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et deffenses à toutes autres Libraires et Imprimeurs de la faire Imprimer, vendre, ny debiter, sur peine de perte des exemplaires, et de trois mil livres d'amende, applicable un tiers à nous, et un tiers à l'Hostel-Dieu de Paris, et l'autre tiers à l'exposant, despens, dommages et interests: Et afin qu'ils n'en pretendent cause d'ignorance, nous voulons que mettant enfin des exemplaires autant des presentes, elles soient tenuës pour certifiées.
-A la charge toutesfois de mettre deux exemplaires de ladite Tragedie dans nostre Biblioteque des Cordeliers à Paris, et un exemplaire d'icelle és mains de notre amé et feal Chevalier Chancelier Garde des Seaux de France, le sieur Séguier Dautry.
-Car tel est nostre plaisir.
-Donné à Paris le quatorziesme jour de Juillet, l'an de grace, mil six cens trente-sept.
-Et de nostre regne le vingt-septiesme.
-Par le Roy en son Conseil, DEMON CEAUX, et seellé du grand seau de cire jaune.
-
-Achevé d'imprimer le 30.
-Juillet 1637.
-
-**** *book_ *id_argument1 *date_1637 *creator_chevreau
-
-ARGUMENT du premier Acte.
-
-Tarquin estant au siege d'Ardee invite les Romains à seconder⁎ ses mouvements pour la prise de ceste ville, qu'il juge necessaire pour la seureté de celle de Rome : et apres les avoir instruits du moyen de se gouverner parfaitement dans l'obeissance qu'il en veut tirer : il envoye Sexte Tarquin son fils à Colatie, pour avertir Tullie, la Reine, du bon succez de ses armes.
-Sexte consent à regret, toutefois se ressouvenant que c'êtoit une occasion pour voir Lucresse qu'il aymoit infiniment, il se propose mille plaisirs, et dés l'heure rend Maxime confident de cette amour malgré tous les sentimens que l'honneur⁎ et le devoir luy pouvoient inspirer.
-Dans ce siege Colatin ayant appris des nouvelles de Lucresse par Misene leur serviteur, renvoye ce mesme Messager pour asseurer Lucresse qu'ils emportoient sur les ennemis tout autant qu'ils en pouvoient souhaiter, et beaucoup plus qu'ils n'en avoient esperé au commencement.
-
-**** *book_ *id_acte101 *act_acte1 *date_1637 *creator_chevreau
-
--*who_tarquin
 Et bien, confessez donc qu'aujourd'huy ma valeur⁎
 Porte chez ces mutins ma gloire⁎ et leur mal-heur ;
 Nous en sçavons tirer et du sang et des larmes,
@@ -108,25 +41,6 @@ Quoy que vous les voyez dans l'état de se plaindre,
 « Et l'aveugle qu'elle est, qui nous fait tant de Loix,
 « Fait monter des Bergers, et descendre des Rois.
 
--*who_colatin
-Grand Roy qui ne pouvez ny monter, ny descendre
-Nous attendons de vous tout ce qu'on peut atendre,
-Et pour vostre sujet, en voyant leur trépas
-Nous plaignons leur malheur, et ne le craignons pas.
-Nous n'apprehendons point leur misere commune,
-Vous sçavez comme il faut gouverner la fortune⁎ :
-Nous craignons seulement dans ce camp glorieux⁎
-Quand nous voyons vos mains plus prontes que vos yeux.
-Toutefois, ce danger est trop digne d'envie⁎,
-Et si nous n'avons pas l'honneur⁎ de votre vie,
-Chacun sçaura bien-tost, que nous sommes jaloux
-D'avoir au moins l'honneur⁎ de mourir comme vous.
-Forcez⁎ des legions, attaquez des murailles,
-Nous aurons mesme ardeur⁎, et mesmes funerailles :
-En un mot, nos desseins⁎ se vont tous limiter
-À l'honneur⁎ de vous suivre et de vous imiter.
-
--*who_tarquin
 C'est parler en soldats et combattre de mesme
 Grace aux Dieux, nous voyons que leur mal est extréme.
 Puisque nostre bon-heur ne peut diminuër
@@ -152,28 +66,6 @@ Et que leur honte un jour doit servir à ma gloire⁎,
 Surtout, souvenez-vous Romains que ce combat,
 En destruisant leur ville agrandit nostre Estat.
 
--*who_sexte
-Seigneur, nous voici prests, il ne faut que poursuivre,
-On voit que ces mutins n'ont qu'un moment à vivre :
-Et comme vous sçavez prevenir sagement
-Ce delay pouroit faire un triste⁎ changement.
-Meslons-nous au combat où l'honneur⁎ nous engage,
-Combatons seulement sans parler davantage ;
-Notre esprit s'entretient en discours superflus,
-Ils prennent tout le temps et ne m'en laissent plus.
-Ne nous arrestons pas à des choses frivoles,
-Témoignons des effets et non pas des paroles.
-Nostre courage est mort, ou du moins endormy,
-Etoufons la pitié qui plaint un ennemy.
-N'avons-nous plus de cœur⁎, manquons-nous de constance,
-Pource que tous ces gens n'ont plus de resistance ?
-Il faut leur faire voir sans les entretenir⁎
-Qu'ils sçavent offenser ; mais qu'on sçait bien punir ;
- « Pardonner aux mutins dans un danger extréme
-« C'est ayder à leur faute et s'offenser soy-méme.
-Souffrir⁎ nos ennemis !
-
--*who_tarquin
       Sexte, il faut avoüer
 Que vous avez un cœur⁎ qu'un chacun doit loüer.
 On sçait que vos exploits forcent⁎ la Renommée
@@ -205,923 +97,9 @@ Allez à Collatie en avertir la Reine.
 Dites-luy de ma part que je suis satisfait,
 Et que tous nos desseins⁎ n'ont eu qu'un bon éfet.
 
--*who_sexte
-Quoy Seigneur, ay-je fait une action si noire,
-Qu'on m'oste du combat pour m'en oster la gloire⁎ ?
-
--*who_tarquin
 Vous me rendrez confus quand vous resisterez,
 Mais courez sans répondre et vous m'obligerez⁎.
 
-**** *book_ *id_acte102 *act_acte1 *date_1637 *creator_chevreau
-
--*who_sexte
-Quoy, Maxime, le Roy seroit-il en colere ?
-Je me rendois bien-tost dans l'estat de luy plere,
-J'allois dans le combat étonner⁎ l'ennemy,
-Et je voy que mon bras n'a rien fait qu'à demy !
-Je n'ay fait que semer ce qu'un autre moissonne,    
-Et ma valeur⁎ soûtient le poids de la Couronne :
-Ces mutins étoient morts, tout nous étoit ouvert,
-Et de toute la ville on faisoit un desert ;
-Je les avois reduits à s'aider de leurs larmes,
-Et l'on vient s'opposer à l'effort de mes armes.
-Au moins juges-tu bien que leur molle vertu⁎
-Ne suit plus qu'un chemin que je leur ay battu ?
-Qu'ils vont seuls triompher aux despens de ma gloire⁎ ?
-Et qu'on taira mon nom parlant de la victoire ?
-Qu'ils vont prendre l'honneur⁎ que je devois avoir ?
-Qu'Ardee en mon absence aymera leur pouvoir ?
-Que s'ils combattent bien ce n'est qu'à mon exemple ?
-Et qu'ils vont en un mot me demolir un temple ?
-Le peuple veut cacher les biens⁎ que je luy fis,
-Et le pere est rival de l'honneur⁎ de son fils !
-Ils vont en mon absence, achever ma conqueste,
-Ils prennent mes lauriers dont ils ornent leur teste ;
-Ah ! Maxime, tu voy qu'on me fait un refus
-Qui devroit en éfet les rendre tous confus.
-
--*who_maxime
-Non, tous ceux qu'on a veu sous vostre obeïssance,
-Preuveront aux Romains vostre extréme puissance ;
-Rome depuis un temps connêt vostre valeur⁎,
-Et Rome en vous ayant s'exente du maleur.
-Vous n'avez pas ainsi du sujet de vous plaindre.
-Vivez Prince, vivez, Rome n'a rien à craindre ;
-Mais si quelqu'un venoit à troubler votre sort⁎,
-Rome ne seroit plus quand Sexte seroit mort.
-Aujourd'huy les Romains plaignent vostre courage,
-Qui nous met trop souvent au milieu de l'orage,
-Et le peuple ravi d'estre seul au combat
-Veut bien vous conserver pour conserver l'Etat.
-
--*who_sexte
-Ne me flatte⁎ jamais de si vaines loüanges,
-Maxime ; ces façons me semblent trop estranges.
-Le Roy doit-il ainsi procurer mon bon-heur ?
-Il m'a donné la vie, et veut m'oster l'honneur⁎.
-Tu dis qu'il m'ayme trop ; et son ame⁎ soupire⁎,
-Quand je veux affermir ou crétre son Empire.
-Est-ce par ce moyen qu'il devroit se vanger ?
-Pour le mettre à couvert je m'expose au danger,
-Et pour ce qu'il me voit un trop bon Capiténe    
-Il veut tirer les fruits qu'on devroit à ma péne;
-Il veut que j'aille voir Tullie à mesme temps
-Qu'un si juste combat les rendra tous contents :
-L'honneur⁎ que je luy rends ne plaist pas à mon ame⁎,
-Je treuve son amour un peu digne de blâme,
-Il n'ayme point ma vie en craignant mon trépas,
-Et pensant me cherir il ne me cherit pas.
-
--*who_maxime
-Le Roy par ce moyen croit obliger⁎ la Reine,
-Il étoufe sa crainte en vous ostant de peine⁎.
-Mais puis que le combat ne vous peut arrester ;
-Pourquoy vous plaindrez-vous qu'il vous en veuille oster ?
-Méprisez les combats où la gloire⁎ est commune,
-Vos gens n'auront jamais de mauvaise fortune⁎,
-Ils ne peuvent manquer, leur bon-heur est parfait,
-Ils ne font qu'imiter ce que vous avez fait.
-Apres tous vos travaux⁎ ils vont treuver des roses,
-Gardez votre valeur⁎ à de plus grandes choses :
-Vous donnez à connétre aux plus nobles esprits
-Que vous avez tout fait ce qu'ils ont entrepris.
-Pourveu que vostre adresse ait causé la victoire,
-Qu'importe si quelqu'un refuse de la croire.
-Entretenez⁎ ailleurs un facile desir,
-Apres ce grand combat donnez-vous du plaisir ;
-Perdez les sentimens de l'honneur⁎ qui vous presse⁎,
-Et ne mourez jamais qu'aux bras d'une maitresse⁎.
-
--*who_sexte
-Maxime, c'est par là que je perdray le jour,
-J'allois mourir de rage, et je mourray d'amour.
-Je me sens consumer d'un feu qui me fait craindre,
-Mon cœur est à la gêne, et je n'ose me plaindre.
-J'en efface un portrait que l'amour a tracé,
-Mais il revient toujours quand il est effacé :
-La crainte, le respect, l'amour, la tyranie
-Me font toujours sentir une peine⁎ infinie,
-Et mon mal-heur est tel que je n'oze penser
-A cet objet⁎ divin de peur de l'ofenser.
-Helas ! Si tu sçavois le nom de cette belle,
-Tu me crérois un traitre en me croyant fidelle.
-Cette fidelité qui me rend suborneur
-Blesse ma conscience attaquant son honneur⁎.
-Je sçay que c'est un sort⁎ qui ne se veut point rendre,
-Pour en venir à bout il faudroit le surprendre.
-La priere, la force⁎, et l'amour, et les pleurs
-Ne donneront jamais de trefve à mes douleurs ;
-La crainte que j'en ay me comble de tristesse⁎,
-J'ayme une beauté chaste, en un mot, c'est Lucresse.
-
--*who_maxime
-Lucresse n'estoit pas l'objet⁎ de mon discours,
-Vostre mal n'en doit pas esperer du secours.
-Quoy vous aymez Lucresse ? ô Prince miserable
-N'atendez rien du sort qui vous soit favorable !
-Vous aymez donc Lucresse ? ô Sexte malheureux !
-Vostre propre mal-heur vous en rend amoureux⁎.
-Elle est belle, il est vray, mais son ame⁎ pudique
-Ne sçauroit endurer une amour si lubrique
-Vous ne pouvez aymer un plus parfet objet⁎
-Ny faire en mesme temps un plus triste projet.
-Perdez, perdez ce feu dont la force⁎ vous presse⁎,
-Et ressouvenez-vous que vous aymez Lucresse.
-
--*who_sexte
-Ha qu'un homme content flatte⁎ bien un ennui⁎ !
-Et qu'il est bien aysé de conseiller autrui,
-Si Maxime sentoit le mal qui me possede !
-Il choisiroit la mort plutost que ce remede,
-Il aymeroit en luy, ce qu'il condamne en moy,
-Et jamais la raison ne luy seroit de loy.
-Cher amy, pour juger d'un mal de cette sorte,
-Regarde seulement l'amour que je luy porte,
-Et puis en mesme temps tache à considerer
-Qu'elle me doit haïr, si je veux l'adorer.
-
--*who_maxime
-Voyant dans vostre amour vostre perte aparente,
-Vous la devez aymer comme une indifferente,
-Non, non, n'esperez point d'estre son favory⁎,
-Oubliez cette femme en songeant au mary.
-Pensez-bien qu'il vous sert, que vous estes son maitre,
-Et qu'en continuant vous devenez un traitre,
-Et que leur couche mesme où s'exerce leur Foy
-Seroit déshonorée⁎ en recevant un Roy.
-
--*who_sexte
-La plaisante raison dont ton ame⁎ est surprise,
-Un mary seulement romproit mon entreprise⁎.
-Je croy que tes conseils ne sont gueres suivis,
-Et qu'on en voit bien peu qui soient de ton avis.
-Beaucoup feignent souvent sans attirer du blâme
-De servir le mary pour visiter la fâme.
-
--*who_maxime
-Ce n'est donc que ce point qui vous peut arréter,
-S'il trahit votre ami voulez-vous l'imiter ?
-Suivrez-vous une amour dont la rage est extresme ?
-Et s'il brûle un autel, en ferez-vous de mesme ?
-Quoy l'exemple d'autruy vous porte à cet éfet,
-Et vous faites un mal quand un autre le fait.
-« Le Prince, à votre avis, est-il ce que nous sommes ;
-« Il a je ne sçay quoy de plus grand que les hommes.
-« Ce que la loy permet il peut le demander,
-« Et pour estre bon Prince il se doit commander.
-
--*who_sexte
-Ah ! que cette victoire est d'une longue peine,
-« Les Princes, comme vous, ont la nature humaine,
-« Ils sont sujets aux maux qu'on vous peut reprocher,
-« Leur ame⁎ est comme une autre, et leur corps est de chair.
-
-**** *book_ *id_acte103 *act_acte1 *date_1637 *creator_chevreau
-
--*who_colatin
-Misene retournez, et dites à Lucresse
-Qu'elle a trop de sujet de banir sa tristesse⁎.
-Est-elle à Colatie ?
-
--*who_misene
-      Elle y fait son séjour.
-
--*who_colatin
-Elle en pourroit partir si j'estois de retour ?
-
--*who_misene
-Il n'en faut point douter, mais en ma conscience
-Elle a pour ce retour assez d'impatience,
-Et si jamais la peur nous peut faire mourir
-Vous n'estes que trop lent à l'aller secourir.
-
--*who_colatin
-Retourne à Colatie, et rasseure ma fâme,
-Preuve-luy par mes soins les transports⁎ de mon ame⁎.
-Dy luy que sans manquer je la verray demain
-Quand on verroit perir tout le peuple Romain.
-Mais j'enten le combat où la gloire⁎ m'apelle,
-Adieu, cours à Lucresse et sois toujours fidelle.
-
-**** *book_ *id_argument2 *date_1637 *creator_chevreau
-
-ARGUMENT DU SECOND ACTE. 
-
-Sexte entretient⁎ Maxime de la violence de sa passion, et quelque difficulté que Maxime oppose au dessein⁎ de ce jeune Prince : il est contraint luy-mesme d'aller voir Lucresse pour luy descouvrir ce secret.
-Cependant qu'ils sont à contester, Tullie arrive, que Sexte entretient⁎ du succez des armes de Tarquin ; ce qui luy oste la peur qu'elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune.
-Lucresse apres avoir veu Misene, raconte à Cecilie un songe dont elle n'attend rien de bon : et commence à en espreuver l'éfet par la fausse nouvelle de la mort de son mary, que Maxime tasche de rendre veritable, pour l'assujettir par ce moyen plus facilement aux volontez de Sexte.
-
-**** *book_ *id_acte201 *act_acte2 *date_1637 *creator_chevreau
-
--*who_sexte
-Use de cent raisons pour deffendre à mes sens
-D'entretenir⁎ ainsi leurs plaisirs innocens,
-Blâme les mouvemens de mon ame insensée,
-Estouffe mon ardeur⁎, accuse ma pensée,
-Represente à mes yeux la crainte et le respect,
-Fay voir que mon amour luy doit estre suspect :
-Mais souffre⁎ que j'adore une telle Maitresse⁎,
-Ne m'oste point du cœur le portrait de Lucresse ;
-Maxime, cher Amy, mon plus ferme support,
-Helas ! si tu poursuis tu me donnes la mort.
-
--*who_maxime
-Faites que desormais vostre esprit se repose,
-Et pour guerir vos maux n'en voyez point la cause.
-Travaillez⁎ de vous-mesme à votre guerison,
-Et ne vous jettez pas ainsi dans la prison.
-Vous estes ennemy de vostre propre vie,
-Vous desirez par là qu'elle vous soit ravie.
-Un si mauvais dessein⁎ fait-il vostre bon-heur ?
-Et pour le conserver perdrez-vous vostre honneur⁎ ?
-Un chacun vous estime, et cette renommée
-Apres un tel éclat doit aller en fumée.
-Vous eussiez bien mieux fait de n'avoir point quitté,
-Et de servir le Roy contre sa volonté.
-
--*who_sexte
-Dans le juste sujet que j'avois de me plaindre
-J'avois blâmé le Roy que mon cœur⁎ faisoit craindre ;
-Et depuis, j'ay songé, qu'il me donnoit loisir
-De goûter tous les biens que l'esprit peut choisir.    
-Et toy qui me deffend de parler à Lucresse
-Tu m'as bien conseillé d'avoir une Maitresse⁎,
-De quitter les combats pour mon contentement,
-Et de vivre avec elle en qualité d'Amant⁎.
-
--*who_maxime
-J'enten de ces beautez dont l'humeur est docile,
-Et qui voyant un Prince auroient l'esprit facile.
-Mais jamais celle-cy ne faussera sa Foy
-Quand mesme Colatin en deviendroit un Roy.
-Brulant pour sa beauté votre ame est criminelle,
-Si vous l'aimez, Lucresse est plus chaste que belle ;
-Et si vous poursuivez à luy faire ce tort,
-Esperez seulement ou la honte, ou la mort.
-
--*who_sexte
-Fay ce que tu voudras pour empescher mon ame⁎
-De brûler desormais d'une si belle flâme,
-Apren qu'un repentir ne me peut affliger ;
-Censurer mon dessein⁎ c'est me des-obliger⁎.
-De grace, cher Amy, dont je fais tant de conte,
-Ne me propose point ny la mort, ny la honte ;
-Parais, si tu me veux monstrer quelque douceur,
-Le témoin de mon crime, et non pas le censeur.
-Va-t'en dire à Lucresse, en qui seule j'espere,
-Que pour la visiter j'abandonne mon pere,
-Qu'on a veu ses amis mourir par leur valeur⁎,
-Et qu'un jour je doy seul reparer ce mal-heur :
-Pour augmenter bien-tost mon plaisir et ma gloire⁎,
-Cherche dans ton esprit de quoy lui faire croire,
-Dy luy qu'on la va perdre au lieu de la sauver,
-Que je ne suis icy que pour la conserver,
-Et que dans le dessein⁎ d'estre un jour nostre maistre    
-Son mary s'est aquis l'infame nom de traistre,
-Qu'il trahit sa Patrie, et que les ennemis
-Ne luy peuvent donner ce qu'ils avoient promis.
-Bref, ne sçaurois-tu pas pour achever ma peine⁎
-De cét objet⁎ d'amour faire un objet⁎ de haine ?
-
--*who_maxime
-Enfin vous me portez à cette extremité⁎,    
-Et mon cœur se resoult à cette lascheté.
-Mais choisissons une heure à finir vostre peine⁎,
-Et prenons celle-cy pour visiter la Reine.
-
--*who_sexte
-Maxime qu'à propos elle s'en vient icy,
-Mon discours va bien-tost la tirer de soucy.
-
-**** *book_ *id_acte202 *act_acte2 *date_1637 *creator_chevreau
-
--*who_tullie
-Ah ! Mon fils, que mon cœur estoit dans la contrainte,
-Que vous revenez bien pour en oster la crainte !
-J'avois trop peu d'espoir, pour avoir trop de peur,
-Mais elle disparoist ainsi qu'une vapeur.
-A vostre seul abord ma douleur est finie,
-Et j'ay tout esperé de votre compagnie.
-Mais que fait donc le Roy ? que ne s'est-il rendu  ?
-Vous estes-vous sauvé ? Tarquin s'est-il perdu ?
-La ville des mutins est-elle asservie ?
-Helas nos gens sont morts ! Le Roy n'a plus de vie !
-Dites à quel malheur nostre destin s'est joint,
-Je devois avoir peur, car il n'en avoit point.
-
--*who_sexte
-Madame tout va bien ; vostre cœur qui soupire⁎
-Ne doit s'entretenir⁎ que de sujets de rire.
-Le Ciel à tous moments seconde⁎ nos projets,
-Nos plus grands ennemis sont enfin nos sujets.
-Le Roy viendra bien-tost, chacun benit sa gloire⁎,
-Et veut que le triomphe acheve la victoire.
-
--*who_tullie
-Ha, Sexte, ce bon-heur rend mon cœur interdit⁎ !
-
--*who_sexte
-Maxime gueris moy, fais ce que je t'ay dit.
-
--*who_tullie
-Ces mots interrompus surprennent ma pensée,
-O Dieux, mon esperance est aussi-tost passée !
-Sans doute l'ennemy nous vient de reculer ;
-Mon fils il n'est plus temps de le dissimuler.
-Parlez, ne craignez rien, l'ennemy nous surmonte,
-Enfin nostre projet est suivy de la honte.
-Les Dieux dans ce combat ont pris leur favori⁎ ;
-Rome n'a plus de Roy, je n'ay plus de mari,
-Tout nous afflige icy, rien ne vous est prospere,
-L'armée est sans conduitte, et vous estes sans pere.
-
--*who_sexte
-Madame, croyez-moy, tout rit à nos desirs,
-L'ennemy dans sa honte étouffe ses plaisirs.
-Le Roy vient de forcer⁎ cette ville rebelle,
-Et nous vous en venons apporter la nouvelle.
-Tous les mutins sont morts, vôtre peuple est vainqueur
-Maxime, fui d'icy, va parler à mon cœur⁎.
-Dy luy tout ce qu'il faut, que mon ame⁎ soupire⁎,
-Et que pour l'honorer, je méprise l'Empire.
-
--*who_maxime
-Ah Prince, vostre amour est sans comparaison !
-Vous avez tout perdu jusques à la raison.
-
--*who_tullie
-Vos secrets entretiens⁎ me font bien reconêtre,
-Que vous cachez un mal que le sort⁎ m'a fait naître.
-
--*who_sexte
-Tu voy bien que la Reine est triste⁎ à ton sujet,
-Ta presence m'aflige, acheve mon projet.
-
--*who_tullie
-Mais, doy-je donc finir ou commencer ma plainte ?
-Mon fils si vous m'aimez faites cesser ma crainte.
-Dites-moy pour troubler, ou pour flechir mon sort⁎,
-Comment Tarquin peut vivre, ou comment il est mort.
-
--*who_sexte
-Madame, quand le Roy s'aprocha de la ville,
-Et qu'il n'y put treuver un accez si facille,
-Il jura sa ruïne, il mit des gens par tout,                      24
-Il conclut de mourir, ou d'en venir à bout.
-Ses gens sont disposez ; la bataille s'appreste,
-Pour nous donner exemple il se met à la teste,
-Il nous regarde tous, et sa langue et sa main,
-Estonnant⁎ le rebelle enhardit le Romain.
-Dans le premier combat notre cœur⁎ s'évertue,
-Nous poussons tous nos gens, on tire, on frappe, on tuë,
-Il tasche à resister, on le met à l'écart,
-On attaque une porte, on surprend un rempart,
-On monte à la muraille, on y fait mille breches,
-Pas-un n'y peut entrer, il n'en sort que des fleches :
-Nous poursuivons toujours ; l'ennemy cependant
-Veut n'esperant plus rien se perdre en nous perdant ;    
-Un triste⁎ desespoir succede à son courage,
-Jugeant de sa foiblesse, il recourt à la rage,
-On treuve du plaisir dans un combat si beau,
-Chaque arbre est un gibet, et chaque homme un bourreau,
-Et le sort⁎ ennuyé⁎ de troubler nostre joye,
-Nous fit faire d'Ardee une ville de Troye.
-L'ennemy dans l'éfet qu'eut un si juste vœu
-Ne pouvoit plus rien voir que du sang et du feu ;
-Les enfans, les vieillards, les soldats et les femmes,
-Bruloient également dans le milieu des flammes,
-Bref nous allions si bien les mettre à la raison
-Que leur Temple bruloit comme une autre maison.
-Alors que peu de gens n'ayant plus rien à craindre
-Cherchent voyant ce feu les moyens de l'éteindre,
-Nos gens estant espars, le desir du butin
-Les empeschoit d'y mettre une derniere fin.
-Le reste cependant tasche de nous surprendre,
-Et nous oblige⁎ tous alors de nous deffendre ;
-Si bien qu'en un moment chacun fut estonné⁎,
-De luy remettre un bien qu'il nous avoit donné.
-Toutefois aujourd'huy cette ville est perduë,
-Dans le temps que je vins on la croyoit renduë,
-Et sans en discourir, j'ose vous asseurer
-Que le Roy n'y sçauroit plus long-temps demeurer.
-J'en suis venu moy-mesme apporter la nouvelle,
-Le Roy m'en a chargé ; vous me treuvez fidelle.
-
--*who_tullie
-Que nostre sort⁎ est dous ! que j'ay versé de pleurs !
-Et qu'apres mes soucis je rencontre de fleurs !
-Nous avons toutefois du sujet de nous plaindre :
-Car le Roy craint trop peu ce que nous devons craindre.
-Il doit aymer l'honneur⁎, mais Dieux il ne voit pas
-Qu'il luy couste bien cher, s'il cause son trépas.
-Il recherche la gloire⁎ aux dépens de sa vie,
-Et que feray-je apres en luy voyant ravie  ?
-Perdray-je davantage ayant perdu ce bien⁎ ?
-Ne craindray-je pas tout, pour ne craindre plus rien ?
-Il pense bien mourir en mourant dans la gloire⁎,
-Il croit par ses exploits exercer la memoire ;
-Mais, helas ! Ces honneurs⁎ sont des biens⁎ superflus,
-Et c'est en faire à ceux qui n'en jouyssent plus.
-Nous entendons parler de Romule et d'Ænée,
-La memoire aujourd'huy vante leur destinée,
-Et nous remarquons tous leur sort⁎ si glorieux⁎
-Qu'on parle de ces gens comme on parle des Dieux,
-Ils vivent dans nos cœurs, on vante leur merite,
-Mais apres le trépas pas un ne ressuscite ;
-Que leur sert donc l'honneur⁎ qu'ils poursuivent si fort
-Si pas-un n'en jouit aussi-tost qu'il est mort ?
-Ah ! Mon fils croyez-moy, tirons-en vostre pere,
-Je sçay bien que la guerre est un mal necessaire,
-Qu'une belle action donne beaucoup de bruit,
-Et qu'il faut se deffendre alors qu'on nous poursuit ;
-Mais, helas ! méprisons un si triste⁎ avantage,
-Pour avoir plus de vie, ayons moins de courage ;
-Ne faisons rien aussi qui nous puisse tacher,    
-Mais d'entrer au combat quand on peut l'empescher.
-« Non, Sexte, le malheur vous pourra bien apprendre
-Qu'il arrive assez-tost sans qu'on le doive attendre,
-Et que sans rechercher le mal, ou le trépas,
-Ils viennent bien souvent quand on n'y songe pas.
-
--*who_sexte
-Quoy souffrir⁎ des mutins sans punir leur offence,
-Lors qu'on est attaqué n'aymer pas sa défence,
-Voir crêtre leur orgueil sans le diminuër,
-C'est forcer⁎ leur esprit à le continuër.
-« Ceux qui sçavent regner pour vivre sans contrainte
-« Donnent également et l'amour et la crainte.
-C'est par ce moyen seul qu'il faut s'entretenir⁎,
-« Le pardon est injuste alors qu'on doit punir ;
-Et dans un tel dessein⁎ que le monde contemple.
-« On ne punit jamais sans donner un exemple :
-« Si bien que nous voyons aussi clair que le jour
-« Que la crainte fait tout au defaut de l'Amour.
-
--*who_tullie
-« Quand un Roy veut user de ce remede extréme
-« En donnant de la crainte il s'en donne à soy-mesme.
-Mais qu'il est mal-aysé de servir les Romains !
-« Et qu'un Sceptre parfois est pesant dans les mains !
-
-**** *book_ *id_acte203 *act_acte2 *date_1637 *creator_chevreau
-
--*who_lucresse
-Comment l'as-tu pû voir au milieu de l'armée ?
-Tu ne m'en parles point que par la renommée.
-On t'a peut-estre dit qu'il devoit revenir,
-Et que ces insolens n'estoient pas à punir.
-Parle, ne viens-tu point me conter une fable ?
-Dy moy si ton discours est feint ou veritable.
-Le desir de le voir m'inquiette si fort
-Qu'il me semble toujours que je le verray mort ;
-Et pource que le Ciel veut bien que je le voye
-Mon esprit n'oze creire à l'excés de ma joye.
-Mais le moindre moment peut changer leur dessein⁎,
-« Et tel meurt aujourd'huy qui n'aguere estoit sain.
-
--*who_misene
-Ouy bien s'il y faisoit de plus longue demeure,
-Mais demain vous pourrez le voir d'assés bonne heure.
-
--*who_lucresse
-Il courut au combat si tost qu'il t'eust quitté,
-Que sçait-on si depuis le sort s'est irrité ?
-Il ne faut pas long-temps pour voir mourir un homme,
-Un moment peut suffire à la perte de Rome.
-
--*who_cecilie
-Ah ! Madame, esperez que demain du matin    
-Vous finirez vos maux en voyant Colatin.
-Dans un si pront retour tenez-vous toute preste,
-Il tiendra vos plaisirs plus chers que sa conqueste,
-Son cœur entre vos bras viendra se reposer,
-Et c'est là que sans crainte il pourra tout oser.
-Entretenez⁎ donc bien la beauté qui le touche,
-Et perdez le desir de nous estre farouche :
-Il est temps de guerir vostre extréme douleur,
-Il faut que vostre teint prenne une autre couleur,
-Ranimez vos appas⁎ ; faites que ce visage
-Luy montre à son retour son premier avantage :
-De grace que vos yeux témoignent leur vigueur,
-N'exercez pas sur vous une telle rigueur,
-Mettez dans vos regards une plus grande flamme,
-Ne donnez pas au corps ce qu'endure vostre ame⁎,
-Témoignez que Lucresse apres un tel retour
-Fait naistre en mesme temps et l'enuie⁎, et l'amour,
-Et qu'apres ce combat…
-
--*who_lucresse
-      Ma chere Cecilie,
-« On ne se peut aymer dans sa melancolie.
-Helas une beauté dans l'état où je suis
-Conserve rarement sa force⁎ et ses ennuis⁎ ;
-« Et quand la peur a mis nostre ame⁎ à la torture,
-« L'ennui⁎ défait souvent ce qu'a fait la nature.
-Je croy quand mon visage auroit tous les appas⁎,
-Que je n'en puis avoir où Colatin n'est pas :
-Mais quand il est present je n'ay plus de martire,
-Et mes yeux et mon ame⁎ ont ce que je desire :
-C'est de luy seulement que dépend mon plaisir,
-Il fait toute ma peur comme il fait mon desir.
-Pourveu qu'il vienne icy je suis trop à mon ayse,
-Et je croy plaire assez pourveu que je luy plaise.
-Mais un soupçon me tuë, un songe à ce matin
-M'a fait voir clairement ce que veut mon destin.
-J'ay veu dans mon sommeil la chose la plus noire
-Qui puisse à mon avis entrer dans la mémoire.
-Le moindre souvenir donne de la terreur,
-Et je n'ose en parler tant il est plein d'horreur.
-D'un coup inopiné j'ay crû voir consumée
-La Deesse d'honneur⁎ dont j'estois tant aymée,
-L'image que le Temple en gardoit cherement,
-Aussi-tost m'a semblé regarder fixement,
-Et me tendant les bras, par un autre miracle,
-Saignant de tous costez m'a rendu cét Oracle :
-Sors du Temple, Lucresse, et d'un pas assez pront
-Repare par ta mort un detestable affront.
-Fais ce que tu pourras, tu seras poursuivie,
-Et tu perdras l'honneur⁎ aussi bien que la vie.
-Mais ne crains point la mort que craignent les mortels,
-Car c'est elle qui doit remettre mes Autels.
-Lors elle a fait silence, et d'un coup de tonnerre
-J'ay veu l'Autel à bas, et le Temple par terre.
-Un ombre incontinent s'est offert à mes yeux,
-Dont l'abord n'avoit rien qui ne fût odieux :
-Par là j'ay crû ma mort ou ma perte arrestée,
-J'ay veu qu'à mon mal-heur j'estois sollicitée ;
-Fuyant j'ay crû tromper et ses yeux et ses bras,
-Mais j'ay fait une chutte en pensant faire un pas.
-Alors tout à cet ombre a semblé legitime
-Et ma seule foiblesse a commencé mon crime.
-La peur m'a reveillée apres tant de malheurs,
-Et j'ay treuvé mon lit que je baignois de pleurs.
-J'ay voulu m'escrier ; mais une extréme crainte
-En étouffant ma voix ma deffendu la plainte,
-Et pensant me lever pour aller jusqu'à toy,
-J'ay veu deux gros serpens qui siffloient contre moy.
-J'ay regaigné mon lit, et de cette avanture
-Il m'a fallu de force⁎ accuser la nature.
-Mais comme justement Maxime vient à nous,
-Nous sçaurons si le sort⁎ nous est contraire ou dous.
-
-**** *book_ *id_acte204 *act_acte2 *date_1637 *creator_chevreau
-
--*who_lucresse
-Si bien que nous jugeons par la fin de la guerre
-Qu'on estendra l'Empire aux deux bouts de la terre ?
-Et que nostre ennemy ressent également
-La honte et le dépit avec le chastiment ?
-
--*who_maxime
-« Madame, il est bien vray que celuy qui surmonte
-« N'emporte point l'honneur qu'il ne laisse la honte.
-Toutefois Colatin…
-
--*who_lucresse
-      Quoi vous estes au port ?
-Et je vous entretiens⁎ cependant qu'il est mort.
-
--*who_maxime
-Celuy pour qui vostre ame⁎ a de l'idolatrie
-A trahy son honneur⁎ avecque sa Patrie.
-Lors qu'au dernier combat ont fut prest à donner,
-Sa noire lâcheté (nous fit tous étonner⁎)
-Au lieu de nous servir, le traistre se retire,
-Il attaque Tarquin pour attaquer l'Empire.
-Il anime ses gens qui devoient estre à nous,
-Et monstre son mal-heur en monstrant son courroux.
-Tarquin le reconnoist qui le veut entreprendre⁎,
-Chacun veut l'offenser, Sexte le veut deffendre,
-Et quoy qu'il deust punir un crime si reçent,
-Il vid presque trahy son desir innoçent.
-L'infame nous poursuit pour s'emparer de Rome,
-Il veut tuër le Roy comme on fait un autre homme.
-Sexte le veut servir, bref ce triste⁎ rapport
-Qui vous doit affliger…
-
--*who_lucresse
-      Je voy bien qu'il est mort.
-Ah ! pauvre Colatin, ta femme ne peut croire,
-Qu'un dessein⁎ de regner ait obscurcy ta gloire⁎.
-
--*who_maxime
-Madame il n'est pas mort, mais je croy qu'il est pris,
-Que le Roy doit punir cét injuste mépris.
-Et que pour empescher une pareille enuie⁎,
-Il pourra la finir par celle de sa vie.
-
--*who_lucresse
-Adieu, Maxime, adieu ; je sçauray bien mourir.
-
--*who_maxime
-Madame, un seul moyen reste à nous secourir.
-
--*who_lucresse
-Juste Ciel ! Colatin ne doit plus rien attendre :
-Il n'est plus en estat de se pouvoir defendre :
-Le Roy s'en est saisi, Colatin ne vit plus ;
-Nous ne faisons pour luy que des vœux superflus,
-C'est dequoy seulement, nostre esprit est capable,
-Car procurer son bien⁎ c'est se rendre coupable.
-« Les Roys ont leurs desseins⁎ dont ils viennent à bout
-« Mais pour en bien parler n'en parlons point du tout.
-
-**** *book_ *id_argument3 *date_1637 *creator_chevreau
-
-ARGUMENT DU TROISIESME ACTE. 
-
-Maxime dans la violence de la douleur de Lucresse ; tasche de preparer son esprit à l'amour ; et s'imagine ce dessein⁎ assez facile en luy representant que Colatin a trahy l'Empire, et qu'il s'est joint aux artifices⁎ de ceux d'Ardée pour venir plus facilement à bout des Romains.
-Mais cette vertueuse femme qui ne considere que la personne de son mary et sa qualité, sans s'arrester à ce vice dont elle n'oze le soupçonner ; n'est point de l'intelligence de ce Confident, et ne peut croire qu'une personne de sa reputation puisse l'écouter sans scandale.
-
-Lors qu'ils s'entretiennent⁎ sur ce sujet, Sexte arrive, qui continuë dans la première ruze, et là il n'espargne rien de tout ce qui peut tomber dans l'imagination pour venir à bout de son entreprise⁎ : il asseure que Colatin est un traître, que le desir de regner l'a rendu criminel, et qu'il a mesme attenté jusques à sa vie : pour treuver occasion de preuver sa vertu⁎.
-C'est où il en reçoit de visibles tesmoignages, et d'où il prend occasion d'entrer secrettement dans son logis afin 36 de venir à toutes les extrémitez⁎.
-Pendant ces intrigues, Tullie s'estant aperceuë de la tristesse, et de la resverie⁎ de son fils Tarquin, demande raison à Melixene de cette nouveauté, et n'en devinent toutes deux le sujet que confusément, d'autant qu'elles n'avoient pas lieu de soupçonner la brutalité de ce Prince : et qu'elles n'estimoient pas Lucresse assez malheureuse pour estre objet⁎ de ce funeste dessein⁎.
-Elles sortent neanmoins dans la resolution d'essayer toutes sortes de remedes pour connoistre cette maladie : et Tullie s'en remet sur Melixene qui ne tenoit pas pour impossible que la beauté de Lucresse eut touché le Prince.
-Dans ces entremises Tarquin apres avoir pris Ardée revient à Rome, et Colatin à Colatie et Sexte descouvrant sa damnable resolution viole Lucresse ; car n'ayant pû rien en tirer par les menasses, il crût ne devoir l'obtenir que par la force⁎.
-
-**** *book_ *id_acte301 *act_acte3 *date_1637 *creator_chevreau
-
--*who_maxime
-Quand mesme Colatin reconnoitroit son crime,
-Et qu'il seroit puny d'un trépas legitime,
-Il vous faut à la fin resoudre à le quitter ;
-Vos pleurs n'auront pas l'art de le ressusciter.
-Et si quelque devoir oblige⁎ vostre flamme
-De regretter un peu la moitié de vostre ame⁎,
-Songez en mesme temps qu'il nous voulut trahir,
-Et qu'étant criminel vous devez le hayr.
-
--*who_lucresse
-Ce crime par mal-heur est suivy de sa peine⁎ :
-Mais il ne sçauroit pas me porter dans la haine.
-Le croire criminel, c'est qu'il est mal-heureux :
-Je l'ayme, et si je plains son destin rigoureux
-En tous lieux la vertu⁎ merite sa loüange,
-« Elle a mesme son prix au milieu de la fange
-Et tous les accidens qui peuvent affliger
-Ne font rien en eux qui la puissent changer.
-
--*who_maxime
-Comment, cette action merite vostre estime,
-Et vous nommez vertu⁎ ce qu'on appelle un crime.
-La trahison vous plait : ozez-vous bien penser
-Qu'un Roy soit obligé⁎ de la recompenser ?
-
--*who_lucresse
-Non, non je ne vais pas jusques à la couronne :
-Je deteste son crime, et j'ayme sa personne.
-Tel que soit un mary, sa femme doit l'aymer,
-Ce titre seulement suffit pour la charmer⁎.
-Quand mesme sa rigueur passeroit dans l'extresme,
-On doit toujours l'aymer et le servir de mesme :
-En quelque état qu'il soit apprenez qu'il me plaist,
-Et me plaira toujours en m'étant ce qu'il est.
-
--*who_maxime
-Dans l'état qu'on l'a mis chaque objet⁎ l'importune,
-Et Sexte seulement peut changer sa fortune⁎.
-Mais taschez seulement de recourir aux pleurs,
-Proposez par ce bien⁎ la fin de vos mal-heurs.
-Usez de cent moyens afin qu'il vous entende,
-Et promettez-luy tout afin qu'il vous le rende.
-
--*who_lucresse
-Maxime, dis-tu vray ? Je luy promettray bien,
-Mais dans ce triste⁎ état je ne possede rien.
-Dy-moy dans ce mal-heur ce qu'il faut que je fasse ?
-Comment faut-il parler pour obtenir sa grace ?
-Empesche maintenant un remord éternel,
-Et dy-moy comme on peut absoudre un criminel.
-
--*who_maxime
-Je croy qu'il ne faut point mediter de harangue,
-Vos yeux feront du moins autant que vostre langue.
-Pleurez pour le gaigner, et luy faites la cour.
-Bref vous luy promettrez jusques à votre amour.
-
--*who_lucresse
-Promettre mon amour ! Que dites-vous, Maxime ?
-Faudroit-il assurer Colatin par un crime ?
-Repousser son injure, et luy faire ce tort,                40
-Il vaut mieux le resoudre aux rigueurs de la mort.
-J'ayme bien Colatin, mais il faut que l'on sçache,
-Que l'honneur⁎ m'est trop cher pour luy faire une tache.
-Pour sauver Colatin perdre ainsi mon honneur⁎,
-Et trahir nostre foy pour faire son bon-heur.
-Que je rompe le nœud dont nostre ame⁎ est étreinte,
-Que ma honte commence en achevant sa crainte.
-Que nostre chaste couche endure un favory⁎
-Et que Sexte à la fin me serve de mary.
-Maxime, ta pensée est trop injurieuse,    
-Il vaut bien mieux souffrir⁎ une mort glorieuse⁎.
-Donne un autre conseil, et tâche à secourir
-Celle que ton remede oblige⁎ de mourir.
-Je demande un advis qui m'exempt de blame,
-Qui preuve à Colatin que Lucresse est sa fame.
-Et que pour le sauver tout luy semble à mépris,
-Pourveu que son honneur⁎ ne perde point son pris.
-
--*who_maxime
-Cet avis seulement doit vous donner de l'ayde,
-Autrement vostre mal est loing de son remede ;
-C'est par ce moyen seul qu'il doit estre guery,
-Vous obligez⁎ un Prince, et sauvez un mary.
-
-**** *book_ *id_acte302 *act_acte3 *date_1637 *creator_chevreau
-
--*who_lucresse
-Vous de qui la bonté console une affligée,
-Et pour qui seulement je me sens obligée⁎,
-Grand Prince, exercez vous à fléchir mon destin,
-Venez m'oster la vie ou rendre Colatin :
-N'éteignez pas si tost une flame si belle,
-Ne vous en servez plus s'il vous est infidelle ;
-Tachez de pardonner plutost que de punir,
-Et me rendez le bien qu'on me veut retenir.
-
--*who_sexte
-Je voudrois de bon cœur excuser sa licence⁎ :
-Mais le Roy le retient, et l'a dans sa puissance ;
-S'il en vouloit pourtant rapporter à ma voix,
-J'en ferois aujourd'huy vivre deux à la fois.
-
--*who_lucresse
-Ha ! Que c'est m'obliger⁎, l'esperance me flatte⁎,
-En me faisant ce bien, vous me rendez ingratte.
-
--*who_sexte
-Je ne veux seulement pour me recompenser                    42
-Que la moindre faveur que vous pouvez penser.
-Adoucissez ma peine, et flattez⁎ mon enuie⁎,
-Colatin reprendra son bon-heur et sa vie.
-Efforcez-vous d'aymer ce Prince mal-heureux,
-Qui s'est rendu sujet se rendant amoureux⁎.
-
--*who_lucresse
-O Ciel c'est à ce coup ; mon malheur est extréme !
-Grand Prince, le devoir veut bien que je vous ayme,
-Je parle d'un amour où rien n'est vicieux,
-Et qui n'offense point Colatin ny les Dieux ;
-En un mot d'une amour qui ne soit jamais feinte,
-Où chacun puisse voir le respect et la crainte ;
-D'une amour qui s'entende avecque mon honneur⁎,
-Et telle qu'un sujet doit rendre à son seigneur.
-
--*who_sexte
-Madame, Colatin doit s'asseurer de vivre,
-Si voyant mon dessein⁎ vous tâchez de le suivre.
-J'accompliray bien-tost ce que je vous promets,
-Le Roy l'aymera plus qu'il ne l'ayma jamais.
-Je sçauray déguiser son ame⁎ criminelle,
-On n'en parlera point comme on fait d'un rebelle,
-Il aura des moyens pour se faire obeyr
-De sorte que pas un ne le pourra trahyr.
-
--*who_lucresse
-Un sort⁎ si glorieux⁎ me rendroit trop heureuse.
-
--*who_sexte
-Mais faites seulement qu'il vous rende amoureuse.
-
--*who_lucresse
-Voicy l'effect du songe ; il n'en faut plus douter,
-Mais je ne suis plus chaste, en voulant l'escouter.
-
--*who_sexte
-Ha ! Madame, il est vray, vostre vertu⁎ me touche,
-Mon amour seulement paroissoit dans ma bouche,
-Dormez donc en repos ; je m'en vais de ce pas
-À dessein que le Roy retarde son trepas.
-Cher Maxime, le jour a fait place aux tenebres,
-Et nous ne voyons plus que des objets⁎ funebres.
-Lucresse va dormir ; de peur de l'offenser
-J'ay voulu taire expres ce que tu peux penser.
-La nuit forçons sa porte, usons de violence,
-Tu sçais que mon amour excuse ma licence⁎,
-Je voy bien que son cœur me refusera tout,
-Et qu'il faut la forcer⁎ pour en venir à bout.
-Allons ne craignons rien ; la force⁎ ou la priere
-De toutes les faveurs m'obtiendront la derniere,
-Prenons garde en un point, retenons un secret
-Qu'on ne peut eventer qu'avecque du regret.
-Conduisons-nous si bien apres l'avoir surprise
-Que pas un du logis ne rompe l'entreprise⁎.
-
-**** *book_ *id_acte303 *act_acte3 *date_1637 *creator_chevreau
-
--*who_tullie
-Mais n'as-tu point connu que depuis son retour
-Il a des sentimens ou de haine ou d'amour ?
-Il n'a point rapporté, son humeur⁎ ordinaire,
-Sans doute il se propose un bien imaginaire.
-Je voy que mon amour ne sçauroit l'attirer,
-Parfois dans l'entretien⁎ je l'entens soûpirer⁎,
-Les plus doux passe-temps luy causent un martyre,
-Il se fasche aussi-tost qu'on lui parle de rire.
-Melixene, le Prince endure quelque ennuy⁎,
-Il ne vous parle plus, il ne songe qu'à luy,
-Il resve⁎ trop souvent, je m'en tiens offençée,
-Maxime seulement gouverne sa pensée ;
-Et de quelque moyen qu'il faille me servir,
-Mon humeur⁎ n'aura rien qui le puisse ravir.
-Il porte sur son front la colere ou la honte,
-Il voit mille beautez et n'en fait plus de conte,
-O Dieux qu'il a changé ! Tout fait mal à ses yeux,
-Reservé son amy tout luy semble odieux.
-Jamais homme en un rien ne devint si farouche,
-Il paroist insensible et plus froid qu'une souche :
-J'en suis toute confuse, et Sexte me deplaist
-En sçachant comme il fut de le voir comme il est.
-
--*who_melixene
-Sans doute que l'amour qu'il retient dans son ame⁎
-Doit tirer son malheur de l'excez de sa flame.
-C'est un Prince vaillant, mais les plus genereux⁎
-Soûpirent⁎ quelquefois quand ils sont amoureux⁎.
-Aussi-tost que l'amour a fait sentir ses armes
-Nous voyons qu'il instruit de soûpirs⁎ et de larmes,
-Et Sexte à mon avis ne vient dans vostre cour
-Qu'à dessein d'y treuver dequoy faire l'amour.
-Il a des qualitez qui ne sont pas communes,
-Il se peut acquerir, d'assez bonnes fortunes⁎,
-« La naissance, l'humeur⁎, la jeunesse ; et le bien⁎
-« Font qu'on passe parfois plus loing que l'entretien⁎.
-
--*who_tullie
-Melixene il est vray ; mais qui l'a pû surprendre ?
-Nous le sçaurons bien-tost si tu veux l'entreprendre⁎.
-Songe à l'entretenir⁎, veille de tous costez,
-Parle secrettement aux plus jeunes beautez,
-Use de ton esprit, et tasche à faire en sorte
-Qu'on connoisse l'objet⁎ d'une flâme si forte :
-Et nous verrons apres !
-
--*who_melixene
-      À parler sainement,
-Je croy qu'on n'en peut faire un ferme jugement.
-Toutefois nous pouvons remarquer la plus belle,
-Et dire qu'il a droit de soûpirer⁎ pour elle,
-Qu'il s'en rendra maistre, et qu'apres son plaisir,
-La guerre entretiendra⁎ seulement son desir.
-
--*who_tullie
-Non, non, ne jugons point du corps ny du visage ;
-La beauté pour l'amour est un grand avantage.
-Elle n'a pas aussi toujours un mesme effet,
-« On ayme bien souvent un objet⁎ imparfait :
-Tel en fait son idole, et l'autre son supplice,
-« La vertu⁎ plaist souvent beaucoup moins que le vice.
-Le plus aymable objet⁎ qui soit dessous les Cieux
-N'a jamais treuvé l'art de charmer⁎ tous les yeux.
-Si le Prince resvoit⁎ à faire une maitresse⁎,
-Et qu'il en d'eust aymer, il aymeroit Lucresse :
-Mais quoy que sa beauté, le doive assez charmer⁎,
-Sa vertu⁎ toutefois l'empesche de l'aymer.
-Il ny faut point songer : Lucresse est plus qu'humaine,
-Tout amant⁎ y doit perdre et ses vœux et sa peine :
-Et si quelqu'un pouvoit y soulager ses maux,
-Il fascheroit les Dieux qui seroient ses rivaux.
-
--*who_melixene
-O que sa chasteté romproit son entreprise⁎ !
-« Mais parfois la plus chaste est la plutost surprise.
-Il ne faut qu'un moment pour s'emparer d'un cœur,
-Dont on se rend apres le maistre et le vainqueur.
-« Combien en voyons nous qui sont toujours au Temple
-« Et qui sont en effet de tres mauvais exemples ?
-Qu'on vive comme il faut, ou qu'on vive autrement ;
-Il est bien malaisé d'en juger sainement,
-Nostre ame se fait voir, mais d'un tel artifice⁎,
-Qu'on la voit rarement sous les habits du vice.
-
--*who_tullie
-Si bien qu'à ton advis, Lucresse peut faillir.
-
--*who_melixene
-On peut beaucoup gaigner quand on veut assaillir.
-
--*who_tullie
-Arreste, Melixene, et ne blâme personne,
-Et dis que sa vertu⁎ merite une couronne.
-Car quiconque sçait bien comme Lucresse fait,
-Croira qu'elle produit toujours un mesme effet.
-Son esprit est exent d'une amoureuse flâme,
-La vertu⁎ seulement regne dedans son ame⁎.
-Pas un n'y peut entrer, si ce n'est Colatin,
-Ses desseins⁎ ont l'honneur⁎ pour leur derniere fin :
-Et je croy que tous ceux qui voudront l'entreprendre⁎,
-Ne croiront pas d'abord qu'elle se puisse rendre.
-Mais peut estre que Sexte ayme une autre beauté,
-Et que c'est autre part qu'il perd sa liberté.
-N'importe quelque objet⁎ que son ame⁎ revere,
-Quelque fille qu'il ayme ou facile, ou severe,
-Et de quelque costé, que vienne son malheur,
-Il faut à tout le moins divertir sa douleur.
-
-**** *book_ *id_acte304 *act_acte3 *date_1637 *creator_chevreau 
-
--*who_tarquin
 Estes-vous satisfaits ? Ardée est-elle prise ?
 Nous voyons le succez d'une belle entreprise⁎.
 Apprenez de ces gens ceux qu'il faut honorer.
@@ -1139,381 +117,175 @@ Montrons que son bon-heur ne depend que d'un homme,
 Qu'elle a des ennemis, qu'elle fait des jalous,
 Mais qu'en m'obeyssant elle commande à tous.
 
--*who_colatin
+Nous tardons trop long temps ; allons peuple Romain.
+
+Romains, c'est comme il faut honorer ma conqueste,
+Vos lauriers semblent beaux quand ils son sur ma teste.
+Les sujets dont les Roys procurent le bon-heur,
+Sont obligez⁎ du moins de leur rendre l'honneur⁎ ;
+Et les Rois qu'on doit craindre, et qu'on doit reconetre,
+En rendent grace aux Dieux dont ils tiennent leur être.
+Il ne faut que me plere ; et vos moindres desirs,
+Seront toujours suivis de semblables plesirs.
+Romule est dans le Ciel ; mais à la moindre guerre,
+Il verra son Empire aussi grand que la terre.
+Si les hommes l'ont mis au rang des immortels,
+Je veux que ma vertu⁎ batisse mes autels,
+Et qu'à la fin le peuple en signe de victoire,
+Me juge estre immotel considerant ma gloire⁎.
+Les hommes ne font pas les biens que je vous fais,
+Il n'apartient qu'aux Dieux à montrer ces éfets.
+Aussi voiez-vous bien que l'éclat de ma vie,
+Donne l'estre à l'Empire, et la mort à l'enuie⁎.
+Jugez que nos desseins⁎ ne sont point superflus,
+Les Dieux sont nos seconds⁎ quand nous n'en pouvons plus.
+Ils sont tous obligez⁎ de prendre ma defence,
+Car vouloir m'ofenser c'est leur faire une ofence.
+Mais parmi les plaisirs que me donnent les Dieux,
+Je ne sçai ce qui trouble et mon ame⁎ et mes yeux.
+Dans ce puissant bon-heur que le Ciel nous envoye,
+Mille pensers confus importunent ma joye.
+
+Lucresse est violee : et Sexte en est l'autheur ?
+Sexte pour violer a-t'il assez de cœur ?
+Si vous estiez mon fils pouriez-vous faire un crime ?
+Mais vous peut-on donner un pardon legitime ?
+Quoy Sexte vôtre vice a de si beaux objets⁎ ?
+Et vous pouvez trahir mes plus nobles sujets.
+Je devois toujours vivre et mourir dans la gloire⁎,
+Et vous avez commis une action si noire.
+Fuiez d'icy mon fils, fuiez pour vôtre bien,
+Je crains trop vôtre mal, et plains trop peu le mien.
+
+Le crime vous banit, et non pas vôtre père.
+Il falloit se resoudre à me bien imiter,
+C'eust esté dequoy vivre et dequoy meriter.
+J'avois toujours predit que votre promtitude,
+Ne vous feroit regner que dans la solitude.
+« Pour vivre comme il faut, faites vous une loy,
+Vous estes crû trop pront pour estre estimé Roy.
+« Un Roy qui brave tout et que pas un ne brave,
+« Ne se commendant point ne vit plus qu'en esclave ;
+« Et celuy que les sens veulent parfois trahir,
+« Doit estre estimé Roy s'il s'en fait obeïr.
+
+Est-ce ainsi comme il faut apaiser la justice ?
+Vouloir que ma vertu⁎ repare vostre vice.
+Faire ainsi toujours mal pour ce que je fais bien,
+Crere que pour cela vous ne meritez rien.
+Non non si mes vertus⁎ ont eu des recompenses,
+Il faut un chatiment pour toutes vos ofences.
+À punir son dessein⁎ sur la vertu⁎ d'autruy,
+Ozer me procurer un si funeste ennüi⁎,
+Vous perdez le chemin que je vous facilite,
+Et vous pouvez manquer en voyant mon merite ?
+Aprenez que le peuple aura juste raison
+De nous punir un jour de cette trahison.
+
+He quoy vous croiez donc que je l'aille entreprendre⁎,
+Que je m'oste la vie afin de nous la rendre ?
+«  Le peuple qui reçoit et qui défait nos loix,
+« Se fait le plus souvent craindre autant que les Rois.
+«  Les sujets irritez treuvent tout legitime,
+« Et du plus juste Prince ils en font leur victime.
+Allez ne tardez plus c'est trop long-temps parler,
+Celuy qui vous banit sçaura vous rapeler.
+
+« Toujours l'ombre parest aupres de la clarté,
+« Et le mal-heur se mesle à la prosperité !
+« Les objets⁎ les plus beaux à la fin sont funebres,
+« Et le jour le plus clair est suivi des tenebres,
+« Il semble apres un bien⁎qu'il faille soupirer⁎,
+« Et le méme œil qui rit est sujet à pleurer.
+N'importe, il faut tourner les malheurs en coutume, 
+Voions si nos douçeurs auront plus d'amertume.
+
+Quoy vous me bannissez ? O Dieux quelle insolence !
+Vous pouvez- vous porter à cette violence ?
+
+Quelles extremitez⁎ où la rage les porte,
+Et je soufre⁎ qu'un peuple en use de la sorte.
+A quel crime odieux le porte la fureur,
+Un peuple me banit, et je suis Empereur !
+Vous commettez Romains ce crime épouventable,
+En sçavez-vous quelqu'un qui soit plus detestable ?
+Rapelez moy Romains, banissez vôtre erreur,
+Mais je ne suis plus rien, et j'etois Empereur.
+Helas ! faut-il qu'un fils par l'horreur de ses crimes
+M'ait mis du plus haut ciel au plus creux des abimes ?
+Un peuple trop heureux de reçevoir ma loy,
+M'a rendu son esclave, et je vivois en Roy.
+O Cieux ! d'où viendroient bien tant de metamorphoses ?
+On m'a veu reposer dessus des lits de roses.
+Chacun m'obeïssoit ; tous me rompent la foy.
+Je ne suis qu'un sujet, et je me suis veu Roy.
+L'ennemi me craignoit à l'égal du tonnerre,
+Et mon peuple s'obstine à me faire la guerre !
+Pendant que je regnois, il avoit trop d'honneur⁎,    
+Dans l'eclat de ma gloire⁎ il voioit son bon-heur.
+Mon cœur⁎ luy promettoit le reste de la terre,
+Et le peuple s'obstine à me faire la guerre !
+Les grandeurs ont toujours un dangereux apas⁎,
+Naistre ainsi dans l'honneur⁎ si nous n'y mourons pas
+Reçevoir des faveurs si le Ciel nous en prive,
+Soufrir⁎ cent deplaisirs quand un bien nous arive,
+A quoy nous peut servir un tel contentement
+S'il vient comme un éclair et passe en un moment ?
+Rois, Princes, Potentats, qui portez les couronnes,
+Qui pensez gouverner les cœurs et les personnes,
+Considerez Tarquin pour voir un malheureux,
+A qui jamais le Ciel ne fut plus rigoureux.
+N'agueres ma vertu⁎ se promettoit un temple
+Aujourd'huy mon malheur nous doit estre un exemple.
+Dans un tel changement que je suis étonné⁎ !
+Que nostoi-je le jour à qui je l'ay donné ?
+Fils, peuple, desespoir, exil, Empire, fame
+Vous portez à tous coups la mort dedans mon ame⁎.
+Romains vostre salut consiste à me ravoir
+Et votre seureté depend de mon pouvoir.
+Mais funeste malheur où mon ame⁎ est reduitte
+Toute ma seureté doit estre dans ma fuitte.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colatin
+
+Grand Roy qui ne pouvez ny monter, ny descendre
+Nous attendons de vous tout ce qu'on peut atendre,
+Et pour vostre sujet, en voyant leur trépas
+Nous plaignons leur malheur, et ne le craignons pas.
+Nous n'apprehendons point leur misere commune,
+Vous sçavez comme il faut gouverner la fortune⁎ :
+Nous craignons seulement dans ce camp glorieux⁎
+Quand nous voyons vos mains plus prontes que vos yeux.
+Toutefois, ce danger est trop digne d'envie⁎,
+Et si nous n'avons pas l'honneur⁎ de votre vie,
+Chacun sçaura bien-tost, que nous sommes jaloux
+D'avoir au moins l'honneur⁎ de mourir comme vous.
+Forcez⁎ des legions, attaquez des murailles,
+Nous aurons mesme ardeur⁎, et mesmes funerailles :
+En un mot, nos desseins⁎ se vont tous limiter
+À l'honneur⁎ de vous suivre et de vous imiter.
+
+Misene retournez, et dites à Lucresse
+Qu'elle a trop de sujet de banir sa tristesse⁎.
+Est-elle à Colatie ?
+
+Elle en pourroit partir si j'estois de retour ?
+
+Retourne à Colatie, et rasseure ma fâme,
+Preuve-luy par mes soins les transports⁎ de mon ame⁎.
+Dy luy que sans manquer je la verray demain
+Quand on verroit perir tout le peuple Romain.
+Mais j'enten le combat où la gloire⁎ m'apelle,
+Adieu, cours à Lucresse et sois toujours fidelle.
+
 Il faut le confesser ; vostre gloire⁎ est trop ample,
 Il ne nous reste plus qu'à vous bastir un temple.
 Les maus qu'on nous donnoit n'auront plus de resfus !
 Paressons desormais, l'ennemi ne vit plus.
 
--*who_brute
-Rome qui vous attend avec impatience
-Recueillera les fruitz de vôtre experience.
-
--*who_tarquin
-Nous tardons trop long temps ; allons peuple Romain.
-
--*who_colatin
 Je vais à Colasie, adieu jusqu'à demain.
 
--*who_brute
-C'est là que vous pourez finir vôtre tristesse⁎,
-Servez donc vôtre humeur⁎, et contentez Lucresse.
-
-**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau 
-
--*who_sexte
-Madame, Colatin n'a plus aucun souci,
-Sçachez qu'en peu de temps vous le verrez icy.
-Benissez le bonheur que le Ciel vous envoie,
-Et par mille baisers preuvez-luy vôtre joye.
-Que ne puis-je un moment gouverner le destin !
-Que ne suis-je moins pour estre Colatin !
-Madame, il n'est plus temps d'user d'aucune feinte,
-Pour avoir tant d'amour mon ame⁎ a trop de crainte,
-Et quand je vous mettrois dans un juste courous
-Pardonnés si je dis que je brûle pour vous.
-
--*who_lucresse
-Pour moy ; Dieus vôtre amour me rendroit malheureuse :
-Ayez à mon esgard l'ame⁎ plus genereuse⁎,
-Ne me cotraignez point, pour en venir à bout,
-Et pour me bien aymer, ne m'aymez point du tout.
-
--*who_sexte
-Cent fois vôtre vertu⁎ m'en a voulu distraire,
-Et cent fois mon amour a voulu le contraire,
-Jamais, pas un moyen ne m'a pû secourir,
-J'ay paru dans la guerre à dessein d'y mourir.
-J'ay cherché dans la paix le repos qu'on y treuve,
-Et pour m'en divertir j'ay tout mis à l'espreuve.
-J'ay voulu m'absenter, me voila revenu,
-Plus je brise de fers, plus je suis retenu.
-Mon ame⁎ là dedans sçait garder vôtre image,
-Quand vous la punissez elle vous rend hommage.
-Si j'arrache du cœur ce portraict glorieux⁎,
-Il y rentre, aussi-tost qu'il disparoist aux yeux.
-De grace pardonnez à l'excès de ma flamme,
-Ce portraict est trop beau pour l'oster de mon ame⁎.
-Et le sort⁎ qui se plaist à me voir endurer
-Me crie incessamment ; Sexte il faut l'adorer.
-
--*who_lucresse
-Mais vostre guerison n'est pas dans ma puissance,
-Vos desseins⁎ pour Lucresse ont trop peu d'innocence.
-
--*who_sexte
-Madame, accordez- moy ce que j'ay merité,
-Ne me reduisez point à d'autre extremité⁎.
-Pour me rendre aujourd'huy le destin plus prospere
-Je veux tuêr Tullie, et massacrer mon pere.
-Vous serez absoluë, et cette qualité
-A la fin changera vôtre incredulité.
-Vous marcherez en Reine, et le sort⁎ qui vous brave,
-Mal-gré vos ennemis se rendra vostre esclave.
-Vostre esprit vainement se void trop combatu,
-Souvent pour prendre un Sceptre on quitte la vertu⁎.
-Usez de ce bon-heur quand le Ciel vous le donne,
-La gloire⁎ quelquefois vaut moins qu'une couronne :
-C'est trop me retenir, ne balancez⁎ plus tant,
-Rendez-vous miserable, ou me rendez contant.
-Car si je ne suis point dans ce cœur plein de glace,
-Sçachez que ce poignard s'y doit faire une place.
-
--*who_lucresse
-Je sçay bien que ce bras ne t'en peut empescher,
-Mais tu ne sçaurois pas me contraindre à pecher.
-De quelque grand mal-heur qu'on menace ma vie,
-Je croiray que ma mort sera digne d'enuie⁎,
-Massacre donc ce corps, et ne retarde pas,
-Je crains plus ton amour que l'horreur du trépas.
-Vouloir tuër le Roy pour assouvir ta rage ?
-Est-ce avoir de l'amour ? Ou monstrer du courage ?
-Pour gaigner mon esprit faire un double attentat,
-Et pour me ruyner, ruyner tout l'Etat !
-Quel crime épouventable oze attaquer vostre ame⁎ ?
-Vous vivez donc de sang aussi bien que de flame ?
-Monstre de cruauté, barbare que fais-tu ?
-Voudrois-tu par un crime acheter la vertu⁎ ?
-
--*who_sexte
-Apres ces traitz d'amour le despit me surmonte,
-Je sçaurai desormais publier vôtre honte.
-Tout le monde apres moy la viendra publier.
-On ne vous fuira plus que pour vous oublier,
-Et tous ceus qui sçauront d'où vient cette colere
-Trahiront vostre amour pour tâcher de me plaire.
-Je prendray cet esclave, et cette propre main
-Produira sur son corps un efét inhumain,
-Vous causerez sa mort pour m'estre trop farouche,
-Et son sang innocent soüillera cette couche.
-Apres, je le mettray moy-mesme entre vos draps,
-Je diray qu'il est mort au milieu de vos bras ;
-J'auray mille tesmoins comme on vint vous surprendre.
-Lors vous pourez crier, et non pas vous deffendre,
-Lors vous souhetterez l'exces de mon amour,
-Lors aussi vous perdrez et l'honneur⁎ et le jour.
-
--*who_lucresse
-Quoy Prince, je perdrois l'honneur⁎ de cette sorte,
-Votre amour est bien grand, mais la haine est plus forte.
-Toute-fois ce moyen ne sçauroit m'attirer.
-N'importe !
-
--*who_sexte
-      J'en ay cent pour vous desesperer.
-Mais vous resistez trop ; et j'ay trop d'inocence,
-Il se faut au besoin servir de violence.
-
--*who_lucresse
-Hé sauvez mon honneur⁎.
-
--*who_sexte
-      Nous en viendrons à bout !
-
--*who_lucresse
-Que voulez vous de moy, puis que vous m'ôtez tout ?
-Au secours Cecilie…
-
--*who_sexte
-      Ah ! J'ay trop eu de crainte
-J'estime tout en vous, mais je hay vostre plainte.
-
--*who_lucresse
-Cecilie au secours ? createurs de ces lieus,
-Helas ! si vous m'aimez jettez icy les yeus.
-
-**** *book_ *id_argument4 *date_1637 *creator_chevreau
-
-ARGUMENT DU QUATRIESME ACTE. 
-
-Lucresse ne croyant pas devoir conserver sa vie, apres avoir perdu son honneur⁎ ; se fait des armes de tout pour se faciliter la mort : mais elle en est empeschée par Cécilie, qui pour la flatter⁎ dans son mal-heur luy veut persuader que la force⁎ rend son peché excusable.
-Mal-gré les sentiments de Cécilie elle envoye une lettre dans laquelle son regret est assez visible ; mais où elle ne se blâme pas tout à fait, aiant esté violée, et où elle ne veut pas s'excuser estant adultere.
-Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mouvements du Peuple Romain, deliberent d'aller à Tarquin, pour obtenir le pardon d'une telle faute.
-Cependant qu'ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s'estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir.
-Ayant sçeu l'autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l'heure vont esmouvoir tout le peuple et Brute principalement, qui n'attendoit que l'occasion de s'exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.
-
-**** *book_ *id_acte401 *act_acte4 *date_1637 *creator_chevreau 
-
--*who_lucresse
-Et tu veux que je vive apres sa perfidie,
-Par la fin de mes jours finis la Tragedie.
-La mort est mon remede ; et je ne puis guerir,
-Pour ce que ta bonté m'empesche de mourir.
-Ta main qui doit servir à me donner de l'aide
-M'empesche donc ainsi de choisir mon remede,
-Soufre⁎ que je t'embrasse, et que je meure ici.
-Et qu'àpres mon honneur⁎ je perde mon souci.
-
--*who_cecilie
-Ce dessein⁎ ne peut-il vous donner de la crainte ?
-Estimez vous qu'on peche en pechant par contrainte
-Madame il en faut faire un autre jugement,
-Et le peché ne vient que du consentement.
-La mort est effroiable, et vous la voulez prendre
-C'est une complesance, où je ne puis me rendre.
-Je sçai bien que ma gloire⁎ est de vous obeir,
-Mais je ne la mettrai jamais à vous trahir.
-Cherchez d'autres desseins⁎ et mon ame⁎ vous jure
-De vous aider par tout à vanger cette injure.
-
--*who_lucresse
-Que ne venois-tu donc empescher sa rigueur ?
-
--*who_cecilie
-J'étois lors insensible à l'egal de son cœur.
-Eussai-je crù jamais vôtre perte certene ?
-Je prenois le repos au fort de vôtre peine,
-Et comme, si le Ciel eut conclu ma douleur,
-Il vint en mon absence achever ce maleur.
-Eut on dit que le Prince eut eu l'ame si noire
-Que de venir la nuit pour ternir vôtre gloire⁎ ?
-Il faloit le sçavoir nous l'eussions empesché,
-Mais s'il eust eté Prince eut-il ainsi peché ?
-Nous voions toutefois par cette experience,
-Que vous estes sans blâme, et luy sans conscience.
-
--*who_lucresse
-Dy tout pour m'obliger⁎ ; mais je ne pense pas
-Que mon crime ressent ne merite un trépas.
-Allons-nous retirer dans un lieu solitére,
-Fay moy ce que tu veux, mais je suis adultere,
-Nostre couche est polluë et ce Prince odieux
-N'a point craint d'irriter la colere des Dieux.
-
--*who_cecilie
-Il est vray, mais tous ceux qui connoistront sa rage,
-Plaignant vostre mal-heur loüeront vostre courage,
-Cette infortune est grande, et vous devez juger
-Que vous estes à plaindre, et qu'on vous doit vanger.
-Peut-estre verrons-nous la fortune⁎ changée,
-On punira le Prince, et vous serez vangée.
-
--*who_lucresse
-Ah ! c'est ma seule mort qui me peut secourir,
-Vange donc mon injure⁎ en me faisant mourir.
-Cache par mon trépas ma derniere infortune :
-Je souffre⁎ mille morts pour n'en souffrir⁎ pas une.
-
--*who_cecilie
-Que j'oblige⁎ par là vostre esprit abatu,
-On diroit que ma main fit mourir la vertu⁎.
-
--*who_lucresse
-La vertu⁎ Cecilie ? ah pauvre mal-heureuse !
-Lucresse que tu voy n'est plus si vertueuse⁎.
-Si la force⁎ de Sexte a causé cet affront
-Je n'en porte pas moins la honte sur le front.
-Peut-estre qu'on le sçait partoute la Province ;
-Et qu'on me croit desja la maitresse⁎ du Prince.
-Va treuver Colatin, s'il n'a perdu le jour,
-Dy luy qu'a ma priere il haste son retour.
-Fais voir qu'une fureur justement me transporte⁎,
-Que s'il ne vient bien-tost, il me treuvera morte :
-Porte luy ce papier, je t'ay trop retenu
-Cours, tu n'avances point, n'es-tu pas revenu.
-
--*who_cecilie
-Madame vostre escrit pourroit bien le surprendre,
-Cachons si bien ce mal qu'il ne le puisse apprendre.
-
--*who_lucresse
-Mais toy qui croy bien faire en m'empeschant d'agir
-Instrui-moy du moyen de le voir sans rougir :
-Il verra sa moitié, sans en faire du conte,
-Il ne pourra m'aymer et conêtre ma honte,
-Esperay-je de luy quelque traict de pitié ?
-Ay-je pû conserver nostre saincte amitié⁎ ?
-Colatin me voyant verra son infamie,
-Il croira que l'amour m'a fait son ennemie.
-Et peut-estre qu'au lieu de pleurer comme nous,
-Il nous viendra punir et monstrer son couroux.
-Et tu veux t'étonner⁎ voyant que je soupire⁎.
-
--*who_cecilie
-Mais apres ce mal-heur en craignez-vous un pire ?
-Madame qu'il demeure, et qu'il n'en sçache rien,
-Il apprendroit sa honte.
-
--*who_lucresse
-      O Dieux quel entretien⁎ !
-Une telle action seroit-elle impunie ?
-Colatin doit vanger ma douleur infinie.
-Ne m'en parle jamais !
-
--*who_cecilie
-      Je prevoy des mal-heur,
-Qui vous feront verser et du sang et des pleurs ;
-Sexte ne peut jamais eviter sa colere,
-Il ira le tuër dans les bras de son père
-Le peuple avecque luy rabatra tous leurs coups,
-Et puis si vous mourrez, il mourra comme vous.
-
--*who_lucresse
-Ah ! que si tu m'aymois, tu romprois, Cecilie,
-Par un coup genereux⁎ l'amitié⁎ qui nous lie.
-Tu perdrois ta maitresse et ne la perdrois pas,
-Tu luy ferois un bien luy donnant le trépas.
-Ton ame⁎ pitoyable a trop de retenuë,
-Dépesche, acheve moy, me voila toute nuë.
-Rends moy si tu le peux cét office d'amour,
-Quiconque perd l'honneur⁎ doit bien perdre le jour.
-Je t'en donne un moyen, et ton ame⁎ resiste,
-Quoy depuis mon malheur je te voy toute triste⁎.
-Tu plains mon desespoir, et ton cœur ne veut pas
-Cacher mon deshonneur⁎ en causant mon trépas.
-Tu m'enten soupirer⁎, ta pauvre ame⁎ soupire⁎,
-Mon bras me peut guerir, et le tien le retire.
-Fais ce que tu voudras, mais il faut que la mort
-Succede au desespoir que me livre le sort⁎.
-
-**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau 
-
--*who_maxime
-J'entendois vos debats, et je n'osois parétre,
-Je m'eusse fait complice, en me faisant conétre :
-J'y voulu bien aller pour faire un autre éfort,
-Mais je me ressouviens que je vous faisois tort.
-Plus elle resistois, plus vous faisiez d'approches,
-Je pesois vos discours, j'entendois ses reproches.
-Et quand vous avanciez l'effet de vos desirs
-Pour vaincre vostre amour, elle avoit des soûpirs⁎.
-Vostre ame⁎ se picquoit dans cette resistance,
-Vous la vouliez changer en voyant sa constance,
-Et la force⁎ à la fin mit dans l'extremité⁎
-L'exemple des vertus⁎ et de pudicité.
-Mais lors que je luy vis le desespoir dans l'ame⁎,
-Mon esprit affligé censura vostre flame.
-Je blamois avec elle une telle rigueur,
-Et vostre cruauté me perça jusqu'au cœur.
-Je disois en moy-mesme : Ah, Sexte, est-il possible !
-Helas si vous l'aimez, soyez donc plus sensible !
-Menagez autrement un telle beauté,
-Pour aymer son merite aymez sa chasteté.
-N'usez en son endroict d'aucune violence,
-Et pour l'amour des Dieux aymer son innocence.
-Toutefois mes souhaits n'eurent aucun éfet,
-La force⁎ vous acquit un objet⁎ si parfet.
-Vous treuvâtes moyen d'appaiser vostre flame,
-Lucresse vous servit comme la plus infame.
-Sa priere jamais ne vous peut émouvoir,
-Sa foiblesse parut pres de vostre pouvoir.
-Et cette beauté chaste au lieu d'estre adorée,
-Pour aimer trop l'honneur⁎, se vit deshonorée⁎.
-Qu'elle fit des soûpirs⁎ ! qu'elle versa de pleurs
-Dessus la mesme couche où vous treuviés des fleurs !
-Et je disois de vous il faut pour son merite
-Que la pitié le prenne, et que l'amour le quitte.
-Mais nous parlons en vain tandis qu'elle se plaint,
-Et puis vous avez fait tout ce que j'avois craint.
-
--*who_sexte
-Il est vray que mon crime a fini mon supplice,
-Mais c'est avoir trop d'heur que d'en estre complice.
-Maxime on ne sçauroit juger de mon plaisir,
-Pour te le raconter j'ay trop peut de loisir.
-Qu'elle m'ait fait heureus par amour, ou par crainte ;
-Cependant j'ay finy le sujet de ma plainte ;
-Et si le repentir me rend triste⁎ ou confus,
-C'est d'avoir eu de l'heur, et ne n'en avoir plus.
-
--*who_maxime 
-Toutefois confessez.
-
--*who_sexte
-      Que j'ay failli sans doute ;
-Mais confessez aussi que l'amour ne voit goute,
-Et que bien rarement on s'entretient⁎ des Dieux
-Quand un objet⁎ si beau se presente à nos yeux.
-
--*who_maxime
-Que l'objet⁎ soit infame, ou qu'il soit adorable,
-C'est un crime pourtant dont vous estes coupable.
-Lucresse est violee, et par droit d'amitié⁎,
-Colatin doit vanger cette chere moitié.
-Que sçait-on si le Roy se doit mettre en colere ?
-Si la mort quelque jour en sera le salere :
-Et si le desespoir forcera les Romains,
-De porter sur vous deux et leur haine et leurs mains.
-Le Senat irrité, le peuple dans sa rage,
-Viendront bien-tost à bout de vôtre grand courage,
-Et dé-ja Colatin n'a que trop de pouvoir
-Ni que trop de sujet de l'aller émouvoir.
-
--*who_sexte
-Maxime apres le Roy, qu'est-ce qui nous peut nuire ?
-Dans un si grand mal-heur je me sçauray conduire.
-Mais allons audevant, il me pardonnera,
-Personne apres cecy ne me condannera.
-Ne m'abandonne point dans ce danger visible,
-Et fais pour mon salut ce qui sera possible.
-
-**** *book_ *id_acte403 *act_acte4 *date_1637 *creator_chevreau
-
--*who_misene
-Je n'en fais que sortir, je vous allois treuver,
-Mais sans doute il est temps, vous devez ariver.
-
--*who_colatin
 Pourquoy viens tu d'abord m'afliger de la sorte ?
 Ay-je quelque malheur ? Lucrese est elle morte ?
 Tu portes sur le front un visible danger,
@@ -1524,13 +296,6 @@ Parle, il faut aussi bien le sçavoir tôt ou tard,
 Apren moy ton ennüi⁎ que j'y prenne ma part ;
 Quelque reçent maleur parêt sur ton visage.
 
--*who_misene
-Dieux ! je ne me sçaurois retenir davantage.
-J'en apporte un écrit, à l'entendre parler
-On diroit que pas un ne la peut consoler.
-Je crains quelque accident.
-
--*who_colatin
       Que viens-tu de me dire ?
 Dois-je le déchirer ou si je le doy lire ?
 S'il cache mon mal-heur, à quoy bon de le voir,
@@ -1589,13 +354,6 @@ S'il evite la foudre il craindra mon épee.
 Ne t'en aflige point nous serons soulagez,
 Les Dieux et Colatin doivent estre vangez.
 
--*who_misene
-Que n'estois-je muet, la fureur le transporte⁎,
-Et pour y resiter sa douleur est trop forte,
-A combien d'accidens nous trouvons nous reduits !
-Et pour si peu de jours, que nous souffrons⁎ de nuits !
-
--*who_colatin
 Vous cherchez le fer et la flame.
 Pour mourir dans un lit d'honneur⁎.
 Le votre n'en a plus, et vostre pauvre femme
@@ -1623,29 +381,9 @@ Pourquoy venois-tu donc prononcer mon trépas ?
 Ny vice, ny vertu⁎ j'ay trop d'impatience,
 Et ce retardement noircit ma conscience.
 
--*who_misene
-J'ay trop esté muët, il est temps de parler,
-Ce poinct le touche trop, il faut le reveler.
-Sexte a faict vostre mal, il n'est plus temps de feindre,
-Il a forcé⁎Lucresse, et nous force⁎ à vous plaindre.
-
--*who_colatin
 Il a forcé⁎ Lucresse, et ce Prince brutal
 A contenté ses sens d'un plaisir si fatal ?
 
-**** *book_ *id_acte404 *act_acte4 *date_1637 *creator_chevreau 
-
--*who_lucretie
-Mon fils, quel nouveau bruit trouble nostre esperance ?
-Vous en a-t'on donné de meilleure asseurance.
-Le peuple maintenant m'a rendu tout confus,
-Ah ! que je ne suis pas ce qu'autrefois je fus.
-J'enten qu'un chacun dit ce que je n'ose dire,
-Nous sommes tous les jours esclave de l'Empire.
-Ma fille est violee ; un tyran nous retient ;
-Alors qu'un mal nous passe un autre nous revient.
-
--*who_colatin
 C'est trop, c'est trop parler ! monstrons nostre courage,
 Que le pere et le fils ressentent nostre rage.
 Allons, mon père, allons ; c'est trop nous retenir,
@@ -1656,15 +394,6 @@ Dieux qui sçavez l'autheur de cèt injuste éfort !
 Le pouvez vous bien voir sans luy donner la mort ?
 Sexte a fait nos mal-heurs.
 
--*who_lucretie 
-      Il faut tout entreprendre⁎,
-Viste ne craignons rien, tachons de nous defendre.
-Tel que soit le tyran qui nous ôte l'honneur⁎,
-Il se ressouvient trop de son premier honneur⁎.
-Il faudra reparer mon injure⁎ et la vôtre,
-Et repousser de mesme un crime par un autre.
-
--*who_colatin
 Je vangeray Lucresse avant que de la voir,
 C'est par là que je veux luy preuver mon devoir.
 Il attire sur luy des fureurs legitimes
@@ -1676,98 +405,444 @@ L'ame⁎ la plus cruelle est la plus innoncente.
 Aions pour nous vanger un dessein⁎ genereux⁎,
 Et faisons d'un grand Prince un pauvre malheureux.
 
-**** *book_ *id_argument5 *date_1637 *creator_chevreau
+Ha Brute genereux⁎, je beniray ta gloire⁎,
+S'ils sont loing de ces lieux comme de ta memoire.
 
-ARGUMENT DU CINQUIESME ACTE. 
+Helas ! ce n'est pas tout ; l'Empereur est bani,
+Mais son fils est absent qui demeure impuny.
 
-Tarquin pensant joindre la joye à son triomphe, se treuve surpris du pardon que Sexte veut exiger de luy : apres avoir apris la nouvelle d'une action où il s'attendoit le moins ; il commande à son fils de se retirer ; ce que Sexte ne pùt refuser dans la crainte qu'ils avoient, que les ressentimens du peuple irritez par sa presence, ne se convertissent en fureur.
-Il s'en alla avec Maxime dans une petite colonie où il fut tüé un an apres.
-Tullie ayant veu dans la passion du Prince, le commencement de son mal-heur, apprend que le peuple cherche Tarquin, et que Brute en ce rencontre fait tout ce qui n'estoit pas impossible pour se delivrer de sa tyrannie.
-L'éfet succede à la crainte ; car Lucretie, Colatin, Brute et quelques autres, donnent la fuitte à leur Roy, et chassent toute la race des Tarquins.
-Apres avoir contenté, leurs desirs, Colatin et Lucretie vont voir Lucresse, qui ne pouvant survivre à son deshonneur⁎, apres avoir prié Colatin de vanger son injure, tire secretement de son sein un poignard et se tüe voulant laisser par sa mort la mémoire de sa vie et de sa vertu⁎ aux nations les plus reculées.
+Helas que veux-tu faire ? appaise ta rigueur,
+Tu me veux massacrer en massacrant ton cœur.
+Lucresse que fais-tu ? console toy mon ame⁎,
+Est-ce pour Colatin que tu manques de flame ?
+Ne crains rien mon souci, nous le pourrons vanger,
+Bons Dieux comme la mort commence à la changer !
+Ne vis tu plus Lucresse ? il est trop veritable,
+Nôtre commun mal-heur se treuve inévitable.
+Lucresse répond moy, je ne veux qu'un soupir,
+Au moins avant ta mort contente mon desir.
+Respond moy donc mon ame⁎. Ah ! la douleur l'emporte
+Je n'en ay qu'un soupir ; la voila dé-jà morte.
+Mon pere il n'en faut plus esperer d'entretien⁎,
+Sa mort fait icy voir son malheur et le mien.
 
-**** *book_ *id_acte501 *act_acte5 *date_1637 *creator_chevreau
+Ah ! mon pere aprenez que ce corps que j'honore,
+Tout pâle comme il est me doit bien plere encore.
+Delices de mes yeux faut-il que le trépas
+T'ait montré des rigueurs et ne m'en montre pas.
+Ma Lucresse ton cœur est percé de la sorte,
+Mais si ton corps est mort, ta vertu⁎ n'est pas morte.
+Propos extravagans, entretiens⁎ superflus,
+La vertu⁎ ne peut estre où Lucresse n'est plus.
+Belle ame⁎ dont ce corps avoit reçeu la vie
+Atten, je te vais suivre apreuve mon enuie⁎.
+Je tarde trop long-temps, il faut bien t'aller voir.
+Je veux par mon trépas te montrer mon devoir.
+Soufrez⁎, soufrez⁎ ma mort, pour finir ma tristesse⁎,
+C'est suivre la vertu⁎ que de suivre Lucresse.
 
--*who_tarquin
-Romains, c'est comme il faut honorer ma conqueste,
-Vos lauriers semblent beaux quand ils son sur ma teste.
-Les sujets dont les Roys procurent le bon-heur,
-Sont obligez⁎ du moins de leur rendre l'honneur⁎ ;
-Et les Rois qu'on doit craindre, et qu'on doit reconetre,
-En rendent grace aux Dieux dont ils tiennent leur être.
-Il ne faut que me plere ; et vos moindres desirs,
-Seront toujours suivis de semblables plesirs.
-Romule est dans le Ciel ; mais à la moindre guerre,
-Il verra son Empire aussi grand que la terre.
-Si les hommes l'ont mis au rang des immortels,
-Je veux que ma vertu⁎ batisse mes autels,
-Et qu'à la fin le peuple en signe de victoire,
-Me juge estre immotel considerant ma gloire⁎.
-Les hommes ne font pas les biens que je vous fais,
-Il n'apartient qu'aux Dieux à montrer ces éfets.
-Aussi voiez-vous bien que l'éclat de ma vie,
-Donne l'estre à l'Empire, et la mort à l'enuie⁎.
-Jugez que nos desseins⁎ ne sont point superflus,
-Les Dieux sont nos seconds⁎ quand nous n'en pouvons plus.
-Ils sont tous obligez⁎ de prendre ma defence,
-Car vouloir m'ofenser c'est leur faire une ofence.
-Mais parmi les plaisirs que me donnent les Dieux,
-Je ne sçai ce qui trouble et mon ame⁎ et mes yeux.
-Dans ce puissant bon-heur que le Ciel nous envoye,
-Mille pensers confus importunent ma joye.
+Lucresse est morte en fame, et je meurs en mari.
+ 
+La vengeance est trop douce, ah ne retardons pas,
+S'il a plus d'une vie, il a plus d'un trépas.
+Quand il sera puni, je suivray ta belle ombre,
+J'iray te voir là bas dans le lieu le plus sombre.
+Mais qu'icy nos desseins⁎ ne sont-ils tous égaux,
+Car la mort n'est qu'un mal qui finit tous les maux.
+Pour avoir elevé ce monstre abominable,
+Que Rome desormais devienne épouventable.
+Que tous ceux qui l'ont vu patissent à leur rang,
+Que leur Tybre à jamais soit un fleuve de sang :
+Que les vents les plus doux y causent des orages,
+Dont les moindres éfets soient de tristes⁎ naufrages :
+Que les plus fortunez s'y treuvent mal-heureux,
+Et que le Ciel enfin soit un enfer pour eux.
+Que leurs temples détruits soient des objets⁎ funebres,
+Que jamais le Soleil n'en chasse les tenebres :
+Que ses tours qu'on regarde avec étonnement
+Nous fassent voir leur pointe où fut leur fondement,
+Que ces lieux qu'on revere, et que rien ne seconde⁎
+Se treuvent aussi bas que le centre du monde.
+Et que Rome en un mot dans ce mal-heur nouveau
+Pour bien s'ensevelir soit son propre tombeau.
 
--*who_brute
-Je sçay bien comme il faut rabatre ton orgueil,
-Pren garde que ce char ne te soit un cercueil.
 
-**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau 
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sexte
 
--*who_maxime
-Allez ne craignez rien ; tout vous sera prospere,
-Je sçay, s'il est bon Roy, qu'il n'est pas mauvais père.
+Seigneur, nous voici prests, il ne faut que poursuivre,
+On voit que ces mutins n'ont qu'un moment à vivre :
+Et comme vous sçavez prevenir sagement
+Ce delay pouroit faire un triste⁎ changement.
+Meslons-nous au combat où l'honneur⁎ nous engage,
+Combatons seulement sans parler davantage ;
+Notre esprit s'entretient en discours superflus,
+Ils prennent tout le temps et ne m'en laissent plus.
+Ne nous arrestons pas à des choses frivoles,
+Témoignons des effets et non pas des paroles.
+Nostre courage est mort, ou du moins endormy,
+Etoufons la pitié qui plaint un ennemy.
+N'avons-nous plus de cœur⁎, manquons-nous de constance,
+Pource que tous ces gens n'ont plus de resistance ?
+Il faut leur faire voir sans les entretenir⁎
+Qu'ils sçavent offenser ; mais qu'on sçait bien punir ;
+ « Pardonner aux mutins dans un danger extréme
+« C'est ayder à leur faute et s'offenser soy-méme.
+Souffrir⁎ nos ennemis !
 
--*who_sexte
+Quoy Seigneur, ay-je fait une action si noire,
+Qu'on m'oste du combat pour m'en oster la gloire⁎ ?
+
+Quoy, Maxime, le Roy seroit-il en colere ?
+Je me rendois bien-tost dans l'estat de luy plere,
+J'allois dans le combat étonner⁎ l'ennemy,
+Et je voy que mon bras n'a rien fait qu'à demy !
+Je n'ay fait que semer ce qu'un autre moissonne,    
+Et ma valeur⁎ soûtient le poids de la Couronne :
+Ces mutins étoient morts, tout nous étoit ouvert,
+Et de toute la ville on faisoit un desert ;
+Je les avois reduits à s'aider de leurs larmes,
+Et l'on vient s'opposer à l'effort de mes armes.
+Au moins juges-tu bien que leur molle vertu⁎
+Ne suit plus qu'un chemin que je leur ay battu ?
+Qu'ils vont seuls triompher aux despens de ma gloire⁎ ?
+Et qu'on taira mon nom parlant de la victoire ?
+Qu'ils vont prendre l'honneur⁎ que je devois avoir ?
+Qu'Ardee en mon absence aymera leur pouvoir ?
+Que s'ils combattent bien ce n'est qu'à mon exemple ?
+Et qu'ils vont en un mot me demolir un temple ?
+Le peuple veut cacher les biens⁎ que je luy fis,
+Et le pere est rival de l'honneur⁎ de son fils !
+Ils vont en mon absence, achever ma conqueste,
+Ils prennent mes lauriers dont ils ornent leur teste ;
+Ah ! Maxime, tu voy qu'on me fait un refus
+Qui devroit en éfet les rendre tous confus.
+
+Ne me flatte⁎ jamais de si vaines loüanges,
+Maxime ; ces façons me semblent trop estranges.
+Le Roy doit-il ainsi procurer mon bon-heur ?
+Il m'a donné la vie, et veut m'oster l'honneur⁎.
+Tu dis qu'il m'ayme trop ; et son ame⁎ soupire⁎,
+Quand je veux affermir ou crétre son Empire.
+Est-ce par ce moyen qu'il devroit se vanger ?
+Pour le mettre à couvert je m'expose au danger,
+Et pour ce qu'il me voit un trop bon Capiténe    
+Il veut tirer les fruits qu'on devroit à ma péne;
+Il veut que j'aille voir Tullie à mesme temps
+Qu'un si juste combat les rendra tous contents :
+L'honneur⁎ que je luy rends ne plaist pas à mon ame⁎,
+Je treuve son amour un peu digne de blâme,
+Il n'ayme point ma vie en craignant mon trépas,
+Et pensant me cherir il ne me cherit pas.
+
+Maxime, c'est par là que je perdray le jour,
+J'allois mourir de rage, et je mourray d'amour.
+Je me sens consumer d'un feu qui me fait craindre,
+Mon cœur est à la gêne, et je n'ose me plaindre.
+J'en efface un portrait que l'amour a tracé,
+Mais il revient toujours quand il est effacé :
+La crainte, le respect, l'amour, la tyranie
+Me font toujours sentir une peine⁎ infinie,
+Et mon mal-heur est tel que je n'oze penser
+A cet objet⁎ divin de peur de l'ofenser.
+Helas ! Si tu sçavois le nom de cette belle,
+Tu me crérois un traitre en me croyant fidelle.
+Cette fidelité qui me rend suborneur
+Blesse ma conscience attaquant son honneur⁎.
+Je sçay que c'est un sort⁎ qui ne se veut point rendre,
+Pour en venir à bout il faudroit le surprendre.
+La priere, la force⁎, et l'amour, et les pleurs
+Ne donneront jamais de trefve à mes douleurs ;
+La crainte que j'en ay me comble de tristesse⁎,
+J'ayme une beauté chaste, en un mot, c'est Lucresse.
+
+Ha qu'un homme content flatte⁎ bien un ennui⁎ !
+Et qu'il est bien aysé de conseiller autrui,
+Si Maxime sentoit le mal qui me possede !
+Il choisiroit la mort plutost que ce remede,
+Il aymeroit en luy, ce qu'il condamne en moy,
+Et jamais la raison ne luy seroit de loy.
+Cher amy, pour juger d'un mal de cette sorte,
+Regarde seulement l'amour que je luy porte,
+Et puis en mesme temps tache à considerer
+Qu'elle me doit haïr, si je veux l'adorer.
+
+La plaisante raison dont ton ame⁎ est surprise,
+Un mary seulement romproit mon entreprise⁎.
+Je croy que tes conseils ne sont gueres suivis,
+Et qu'on en voit bien peu qui soient de ton avis.
+Beaucoup feignent souvent sans attirer du blâme
+De servir le mary pour visiter la fâme.
+
+Ah ! que cette victoire est d'une longue peine,
+« Les Princes, comme vous, ont la nature humaine,
+« Ils sont sujets aux maux qu'on vous peut reprocher,
+« Leur ame⁎ est comme une autre, et leur corps est de chair.
+
+Use de cent raisons pour deffendre à mes sens
+D'entretenir⁎ ainsi leurs plaisirs innocens,
+Blâme les mouvemens de mon ame insensée,
+Estouffe mon ardeur⁎, accuse ma pensée,
+Represente à mes yeux la crainte et le respect,
+Fay voir que mon amour luy doit estre suspect :
+Mais souffre⁎ que j'adore une telle Maitresse⁎,
+Ne m'oste point du cœur le portrait de Lucresse ;
+Maxime, cher Amy, mon plus ferme support,
+Helas ! si tu poursuis tu me donnes la mort.
+
+Dans le juste sujet que j'avois de me plaindre
+J'avois blâmé le Roy que mon cœur⁎ faisoit craindre ;
+Et depuis, j'ay songé, qu'il me donnoit loisir
+De goûter tous les biens que l'esprit peut choisir.    
+Et toy qui me deffend de parler à Lucresse
+Tu m'as bien conseillé d'avoir une Maitresse⁎,
+De quitter les combats pour mon contentement,
+Et de vivre avec elle en qualité d'Amant⁎.
+
+Fay ce que tu voudras pour empescher mon ame⁎
+De brûler desormais d'une si belle flâme,
+Apren qu'un repentir ne me peut affliger ;
+Censurer mon dessein⁎ c'est me des-obliger⁎.
+De grace, cher Amy, dont je fais tant de conte,
+Ne me propose point ny la mort, ny la honte ;
+Parais, si tu me veux monstrer quelque douceur,
+Le témoin de mon crime, et non pas le censeur.
+Va-t'en dire à Lucresse, en qui seule j'espere,
+Que pour la visiter j'abandonne mon pere,
+Qu'on a veu ses amis mourir par leur valeur⁎,
+Et qu'un jour je doy seul reparer ce mal-heur :
+Pour augmenter bien-tost mon plaisir et ma gloire⁎,
+Cherche dans ton esprit de quoy lui faire croire,
+Dy luy qu'on la va perdre au lieu de la sauver,
+Que je ne suis icy que pour la conserver,
+Et que dans le dessein⁎ d'estre un jour nostre maistre    
+Son mary s'est aquis l'infame nom de traistre,
+Qu'il trahit sa Patrie, et que les ennemis
+Ne luy peuvent donner ce qu'ils avoient promis.
+Bref, ne sçaurois-tu pas pour achever ma peine⁎
+De cét objet⁎ d'amour faire un objet⁎ de haine ?
+
+Maxime qu'à propos elle s'en vient icy,
+Mon discours va bien-tost la tirer de soucy.
+
+Madame tout va bien ; vostre cœur qui soupire⁎
+Ne doit s'entretenir⁎ que de sujets de rire.
+Le Ciel à tous moments seconde⁎ nos projets,
+Nos plus grands ennemis sont enfin nos sujets.
+Le Roy viendra bien-tost, chacun benit sa gloire⁎,
+Et veut que le triomphe acheve la victoire.
+
+Maxime gueris moy, fais ce que je t'ay dit.
+
+Madame, croyez-moy, tout rit à nos desirs,
+L'ennemy dans sa honte étouffe ses plaisirs.
+Le Roy vient de forcer⁎ cette ville rebelle,
+Et nous vous en venons apporter la nouvelle.
+Tous les mutins sont morts, vôtre peuple est vainqueur
+Maxime, fui d'icy, va parler à mon cœur⁎.
+Dy luy tout ce qu'il faut, que mon ame⁎ soupire⁎,
+Et que pour l'honorer, je méprise l'Empire.
+
+Tu voy bien que la Reine est triste⁎ à ton sujet,
+Ta presence m'aflige, acheve mon projet.
+
+Madame, quand le Roy s'aprocha de la ville,
+Et qu'il n'y put treuver un accez si facille,
+Il jura sa ruïne, il mit des gens par tout,                      24
+Il conclut de mourir, ou d'en venir à bout.
+Ses gens sont disposez ; la bataille s'appreste,
+Pour nous donner exemple il se met à la teste,
+Il nous regarde tous, et sa langue et sa main,
+Estonnant⁎ le rebelle enhardit le Romain.
+Dans le premier combat notre cœur⁎ s'évertue,
+Nous poussons tous nos gens, on tire, on frappe, on tuë,
+Il tasche à resister, on le met à l'écart,
+On attaque une porte, on surprend un rempart,
+On monte à la muraille, on y fait mille breches,
+Pas-un n'y peut entrer, il n'en sort que des fleches :
+Nous poursuivons toujours ; l'ennemy cependant
+Veut n'esperant plus rien se perdre en nous perdant ;    
+Un triste⁎ desespoir succede à son courage,
+Jugeant de sa foiblesse, il recourt à la rage,
+On treuve du plaisir dans un combat si beau,
+Chaque arbre est un gibet, et chaque homme un bourreau,
+Et le sort⁎ ennuyé⁎ de troubler nostre joye,
+Nous fit faire d'Ardee une ville de Troye.
+L'ennemy dans l'éfet qu'eut un si juste vœu
+Ne pouvoit plus rien voir que du sang et du feu ;
+Les enfans, les vieillards, les soldats et les femmes,
+Bruloient également dans le milieu des flammes,
+Bref nous allions si bien les mettre à la raison
+Que leur Temple bruloit comme une autre maison.
+Alors que peu de gens n'ayant plus rien à craindre
+Cherchent voyant ce feu les moyens de l'éteindre,
+Nos gens estant espars, le desir du butin
+Les empeschoit d'y mettre une derniere fin.
+Le reste cependant tasche de nous surprendre,
+Et nous oblige⁎ tous alors de nous deffendre ;
+Si bien qu'en un moment chacun fut estonné⁎,
+De luy remettre un bien qu'il nous avoit donné.
+Toutefois aujourd'huy cette ville est perduë,
+Dans le temps que je vins on la croyoit renduë,
+Et sans en discourir, j'ose vous asseurer
+Que le Roy n'y sçauroit plus long-temps demeurer.
+J'en suis venu moy-mesme apporter la nouvelle,
+Le Roy m'en a chargé ; vous me treuvez fidelle.
+
+Quoy souffrir⁎ des mutins sans punir leur offence,
+Lors qu'on est attaqué n'aymer pas sa défence,
+Voir crêtre leur orgueil sans le diminuër,
+C'est forcer⁎ leur esprit à le continuër.
+« Ceux qui sçavent regner pour vivre sans contrainte
+« Donnent également et l'amour et la crainte.
+C'est par ce moyen seul qu'il faut s'entretenir⁎,
+« Le pardon est injuste alors qu'on doit punir ;
+Et dans un tel dessein⁎ que le monde contemple.
+« On ne punit jamais sans donner un exemple :
+« Si bien que nous voyons aussi clair que le jour
+« Que la crainte fait tout au defaut de l'Amour.
+
+Je voudrois de bon cœur excuser sa licence⁎ :
+Mais le Roy le retient, et l'a dans sa puissance ;
+S'il en vouloit pourtant rapporter à ma voix,
+J'en ferois aujourd'huy vivre deux à la fois.
+
+Je ne veux seulement pour me recompenser                    42
+Que la moindre faveur que vous pouvez penser.
+Adoucissez ma peine, et flattez⁎ mon enuie⁎,
+Colatin reprendra son bon-heur et sa vie.
+Efforcez-vous d'aymer ce Prince mal-heureux,
+Qui s'est rendu sujet se rendant amoureux⁎.
+
+Madame, Colatin doit s'asseurer de vivre,
+Si voyant mon dessein⁎ vous tâchez de le suivre.
+J'accompliray bien-tost ce que je vous promets,
+Le Roy l'aymera plus qu'il ne l'ayma jamais.
+Je sçauray déguiser son ame⁎ criminelle,
+On n'en parlera point comme on fait d'un rebelle,
+Il aura des moyens pour se faire obeyr
+De sorte que pas un ne le pourra trahyr.
+
+Mais faites seulement qu'il vous rende amoureuse.
+
+Ha ! Madame, il est vray, vostre vertu⁎ me touche,
+Mon amour seulement paroissoit dans ma bouche,
+Dormez donc en repos ; je m'en vais de ce pas
+À dessein que le Roy retarde son trepas.
+Cher Maxime, le jour a fait place aux tenebres,
+Et nous ne voyons plus que des objets⁎ funebres.
+Lucresse va dormir ; de peur de l'offenser
+J'ay voulu taire expres ce que tu peux penser.
+La nuit forçons sa porte, usons de violence,
+Tu sçais que mon amour excuse ma licence⁎,
+Je voy bien que son cœur me refusera tout,
+Et qu'il faut la forcer⁎ pour en venir à bout.
+Allons ne craignons rien ; la force⁎ ou la priere
+De toutes les faveurs m'obtiendront la derniere,
+Prenons garde en un point, retenons un secret
+Qu'on ne peut eventer qu'avecque du regret.
+Conduisons-nous si bien apres l'avoir surprise
+Que pas un du logis ne rompe l'entreprise⁎.
+
+Madame, Colatin n'a plus aucun souci,
+Sçachez qu'en peu de temps vous le verrez icy.
+Benissez le bonheur que le Ciel vous envoie,
+Et par mille baisers preuvez-luy vôtre joye.
+Que ne puis-je un moment gouverner le destin !
+Que ne suis-je moins pour estre Colatin !
+Madame, il n'est plus temps d'user d'aucune feinte,
+Pour avoir tant d'amour mon ame⁎ a trop de crainte,
+Et quand je vous mettrois dans un juste courous
+Pardonnés si je dis que je brûle pour vous.
+
+Cent fois vôtre vertu⁎ m'en a voulu distraire,
+Et cent fois mon amour a voulu le contraire,
+Jamais, pas un moyen ne m'a pû secourir,
+J'ay paru dans la guerre à dessein d'y mourir.
+J'ay cherché dans la paix le repos qu'on y treuve,
+Et pour m'en divertir j'ay tout mis à l'espreuve.
+J'ay voulu m'absenter, me voila revenu,
+Plus je brise de fers, plus je suis retenu.
+Mon ame⁎ là dedans sçait garder vôtre image,
+Quand vous la punissez elle vous rend hommage.
+Si j'arrache du cœur ce portraict glorieux⁎,
+Il y rentre, aussi-tost qu'il disparoist aux yeux.
+De grace pardonnez à l'excès de ma flamme,
+Ce portraict est trop beau pour l'oster de mon ame⁎.
+Et le sort⁎ qui se plaist à me voir endurer
+Me crie incessamment ; Sexte il faut l'adorer.
+
+Madame, accordez- moy ce que j'ay merité,
+Ne me reduisez point à d'autre extremité⁎.
+Pour me rendre aujourd'huy le destin plus prospere
+Je veux tuêr Tullie, et massacrer mon pere.
+Vous serez absoluë, et cette qualité
+A la fin changera vôtre incredulité.
+Vous marcherez en Reine, et le sort⁎ qui vous brave,
+Mal-gré vos ennemis se rendra vostre esclave.
+Vostre esprit vainement se void trop combatu,
+Souvent pour prendre un Sceptre on quitte la vertu⁎.
+Usez de ce bon-heur quand le Ciel vous le donne,
+La gloire⁎ quelquefois vaut moins qu'une couronne :
+C'est trop me retenir, ne balancez⁎ plus tant,
+Rendez-vous miserable, ou me rendez contant.
+Car si je ne suis point dans ce cœur plein de glace,
+Sçachez que ce poignard s'y doit faire une place.
+
+Apres ces traitz d'amour le despit me surmonte,
+Je sçaurai desormais publier vôtre honte.
+Tout le monde apres moy la viendra publier.
+On ne vous fuira plus que pour vous oublier,
+Et tous ceus qui sçauront d'où vient cette colere
+Trahiront vostre amour pour tâcher de me plaire.
+Je prendray cet esclave, et cette propre main
+Produira sur son corps un efét inhumain,
+Vous causerez sa mort pour m'estre trop farouche,
+Et son sang innocent soüillera cette couche.
+Apres, je le mettray moy-mesme entre vos draps,
+Je diray qu'il est mort au milieu de vos bras ;
+J'auray mille tesmoins comme on vint vous surprendre.
+Lors vous pourez crier, et non pas vous deffendre,
+Lors vous souhetterez l'exces de mon amour,
+Lors aussi vous perdrez et l'honneur⁎ et le jour.
+
+      J'en ay cent pour vous desesperer.
+Mais vous resistez trop ; et j'ay trop d'inocence,
+Il se faut au besoin servir de violence.
+
+      Nous en viendrons à bout !
+
+      Ah ! J'ay trop eu de crainte
+J'estime tout en vous, mais je hay vostre plainte.
+
+Il est vray que mon crime a fini mon supplice,
+Mais c'est avoir trop d'heur que d'en estre complice.
+Maxime on ne sçauroit juger de mon plaisir,
+Pour te le raconter j'ay trop peut de loisir.
+Qu'elle m'ait fait heureus par amour, ou par crainte ;
+Cependant j'ay finy le sujet de ma plainte ;
+Et si le repentir me rend triste⁎ ou confus,
+C'est d'avoir eu de l'heur, et ne n'en avoir plus.
+
+      Que j'ay failli sans doute ;
+Mais confessez aussi que l'amour ne voit goute,
+Et que bien rarement on s'entretient⁎ des Dieux
+Quand un objet⁎ si beau se presente à nos yeux.
+
+Maxime apres le Roy, qu'est-ce qui nous peut nuire ?
+Dans un si grand mal-heur je me sçauray conduire.
+Mais allons audevant, il me pardonnera,
+Personne apres cecy ne me condannera.
+Ne m'abandonne point dans ce danger visible,
+Et fais pour mon salut ce qui sera possible.
+
 Tu m'as toujours aymé, sui moy jusques à la mort,
 Dieux je crains le naufrage, où j'avois crû le port.
 La honte me devroit empescher de paretre,
 Seigneur pardonnez moy je viens me reconnetre.
 J'ay violé Lucresse.
 
--*who_brute
-      O Lâche suborneur !
-Nous avons cent moiens pour finir ton bon-heur.
-Qu'une telle action demeurât impunie,
-Brute que tardes tu dans cette tyrannie ?
-
--*who_tarquin
-Lucresse est violee : et Sexte en est l'autheur ?
-Sexte pour violer a-t'il assez de cœur ?
-Si vous estiez mon fils pouriez-vous faire un crime ?
-Mais vous peut-on donner un pardon legitime ?
-Quoy Sexte vôtre vice a de si beaux objets⁎ ?
-Et vous pouvez trahir mes plus nobles sujets.
-Je devois toujours vivre et mourir dans la gloire⁎,
-Et vous avez commis une action si noire.
-Fuiez d'icy mon fils, fuiez pour vôtre bien,
-Je crains trop vôtre mal, et plains trop peu le mien.
-
--*who_sexte
 Quoy vous me bannissez ? c'est vous en qui j'espere.
-
--*who_tarquin
-Le crime vous banit, et non pas vôtre père.
-Il falloit se resoudre à me bien imiter,
-C'eust esté dequoy vivre et dequoy meriter.
-J'avois toujours predit que votre promtitude,
-Ne vous feroit regner que dans la solitude.
-« Pour vivre comme il faut, faites vous une loy,
-Vous estes crû trop pront pour estre estimé Roy.
-« Un Roy qui brave tout et que pas un ne brave,
-« Ne se commendant point ne vit plus qu'en esclave ;
-« Et celuy que les sens veulent parfois trahir,
-« Doit estre estimé Roy s'il s'en fait obeïr.
-
--*who_sexte 
+ 
 Si bien qu'il faut sortir, et que votre puissance,
 Ne me deffendroit pas de la moindre insolence ?
 Verrai-je où vous serez tout un peuple irrité ?
@@ -1781,53 +856,401 @@ Vous estes bien mon Roy, mais vous estes mon père.
 Vous pouvez m'exiler ou bien me retenir,
 Vous me pouvez enfin pardonner ou punir.
 
--*who_tarquin
-Est-ce ainsi comme il faut apaiser la justice ?
-Vouloir que ma vertu⁎ repare vostre vice.
-Faire ainsi toujours mal pour ce que je fais bien,
-Crere que pour cela vous ne meritez rien.
-Non non si mes vertus⁎ ont eu des recompenses,
-Il faut un chatiment pour toutes vos ofences.
-À punir son dessein⁎ sur la vertu⁎ d'autruy,
-Ozer me procurer un si funeste ennüi⁎,
-Vous perdez le chemin que je vous facilite,
-Et vous pouvez manquer en voyant mon merite ?
-Aprenez que le peuple aura juste raison
-De nous punir un jour de cette trahison.
-
--*who_sexte
 Mon crime est le sujet d'une juste colere,
 Et je mourray bien-tôt si ma mort vous doit plére.
 Mais faites moy revivre, et veuillez m'assiter :
 « Les Rois comme les Dieux sçavent ressusciter.
 
--*who_tarquin
-He quoy vous croiez donc que je l'aille entreprendre⁎,
-Que je m'oste la vie afin de nous la rendre ?
-«  Le peuple qui reçoit et qui défait nos loix,
-« Se fait le plus souvent craindre autant que les Rois.
-«  Les sujets irritez treuvent tout legitime,
-« Et du plus juste Prince ils en font leur victime.
-Allez ne tardez plus c'est trop long-temps parler,
-Celuy qui vous banit sçaura vous rapeler.
-
--*who_sexte
 Maxime, cher ami, que mon mal importune,
 Sui moy dans ce mal-heur comme dans ma fortune⁎.
 
--*who_tarquin
-« Toujours l'ombre parest aupres de la clarté,
-« Et le mal-heur se mesle à la prosperité !
-« Les objets⁎ les plus beaux à la fin sont funebres,
-« Et le jour le plus clair est suivi des tenebres,
-« Il semble apres un bien⁎qu'il faille soupirer⁎,
-« Et le méme œil qui rit est sujet à pleurer.
-N'importe, il faut tourner les malheurs en coutume, 
-Voions si nos douçeurs auront plus d'amertume.
 
-**** *book_ *id_acte503 *act_acte5 *date_1637 *creator_chevreau
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maxime
 
--*who_tullie
+Non, tous ceux qu'on a veu sous vostre obeïssance,
+Preuveront aux Romains vostre extréme puissance ;
+Rome depuis un temps connêt vostre valeur⁎,
+Et Rome en vous ayant s'exente du maleur.
+Vous n'avez pas ainsi du sujet de vous plaindre.
+Vivez Prince, vivez, Rome n'a rien à craindre ;
+Mais si quelqu'un venoit à troubler votre sort⁎,
+Rome ne seroit plus quand Sexte seroit mort.
+Aujourd'huy les Romains plaignent vostre courage,
+Qui nous met trop souvent au milieu de l'orage,
+Et le peuple ravi d'estre seul au combat
+Veut bien vous conserver pour conserver l'Etat.
+
+Le Roy par ce moyen croit obliger⁎ la Reine,
+Il étoufe sa crainte en vous ostant de peine⁎.
+Mais puis que le combat ne vous peut arrester ;
+Pourquoy vous plaindrez-vous qu'il vous en veuille oster ?
+Méprisez les combats où la gloire⁎ est commune,
+Vos gens n'auront jamais de mauvaise fortune⁎,
+Ils ne peuvent manquer, leur bon-heur est parfait,
+Ils ne font qu'imiter ce que vous avez fait.
+Apres tous vos travaux⁎ ils vont treuver des roses,
+Gardez votre valeur⁎ à de plus grandes choses :
+Vous donnez à connétre aux plus nobles esprits
+Que vous avez tout fait ce qu'ils ont entrepris.
+Pourveu que vostre adresse ait causé la victoire,
+Qu'importe si quelqu'un refuse de la croire.
+Entretenez⁎ ailleurs un facile desir,
+Apres ce grand combat donnez-vous du plaisir ;
+Perdez les sentimens de l'honneur⁎ qui vous presse⁎,
+Et ne mourez jamais qu'aux bras d'une maitresse⁎.
+
+Lucresse n'estoit pas l'objet⁎ de mon discours,
+Vostre mal n'en doit pas esperer du secours.
+Quoy vous aymez Lucresse ? ô Prince miserable
+N'atendez rien du sort qui vous soit favorable !
+Vous aymez donc Lucresse ? ô Sexte malheureux !
+Vostre propre mal-heur vous en rend amoureux⁎.
+Elle est belle, il est vray, mais son ame⁎ pudique
+Ne sçauroit endurer une amour si lubrique
+Vous ne pouvez aymer un plus parfet objet⁎
+Ny faire en mesme temps un plus triste projet.
+Perdez, perdez ce feu dont la force⁎ vous presse⁎,
+Et ressouvenez-vous que vous aymez Lucresse.
+
+Voyant dans vostre amour vostre perte aparente,
+Vous la devez aymer comme une indifferente,
+Non, non, n'esperez point d'estre son favory⁎,
+Oubliez cette femme en songeant au mary.
+Pensez-bien qu'il vous sert, que vous estes son maitre,
+Et qu'en continuant vous devenez un traitre,
+Et que leur couche mesme où s'exerce leur Foy
+Seroit déshonorée⁎ en recevant un Roy.
+
+Ce n'est donc que ce point qui vous peut arréter,
+S'il trahit votre ami voulez-vous l'imiter ?
+Suivrez-vous une amour dont la rage est extresme ?
+Et s'il brûle un autel, en ferez-vous de mesme ?
+Quoy l'exemple d'autruy vous porte à cet éfet,
+Et vous faites un mal quand un autre le fait.
+« Le Prince, à votre avis, est-il ce que nous sommes ;
+« Il a je ne sçay quoy de plus grand que les hommes.
+« Ce que la loy permet il peut le demander,
+« Et pour estre bon Prince il se doit commander.
+
+Faites que desormais vostre esprit se repose,
+Et pour guerir vos maux n'en voyez point la cause.
+Travaillez⁎ de vous-mesme à votre guerison,
+Et ne vous jettez pas ainsi dans la prison.
+Vous estes ennemy de vostre propre vie,
+Vous desirez par là qu'elle vous soit ravie.
+Un si mauvais dessein⁎ fait-il vostre bon-heur ?
+Et pour le conserver perdrez-vous vostre honneur⁎ ?
+Un chacun vous estime, et cette renommée
+Apres un tel éclat doit aller en fumée.
+Vous eussiez bien mieux fait de n'avoir point quitté,
+Et de servir le Roy contre sa volonté.
+
+J'enten de ces beautez dont l'humeur est docile,
+Et qui voyant un Prince auroient l'esprit facile.
+Mais jamais celle-cy ne faussera sa Foy
+Quand mesme Colatin en deviendroit un Roy.
+Brulant pour sa beauté votre ame est criminelle,
+Si vous l'aimez, Lucresse est plus chaste que belle ;
+Et si vous poursuivez à luy faire ce tort,
+Esperez seulement ou la honte, ou la mort.
+
+Enfin vous me portez à cette extremité⁎,    
+Et mon cœur se resoult à cette lascheté.
+Mais choisissons une heure à finir vostre peine⁎,
+Et prenons celle-cy pour visiter la Reine.
+
+Ah Prince, vostre amour est sans comparaison !
+Vous avez tout perdu jusques à la raison.
+
+« Madame, il est bien vray que celuy qui surmonte
+« N'emporte point l'honneur qu'il ne laisse la honte.
+Toutefois Colatin…
+
+Celuy pour qui vostre ame⁎ a de l'idolatrie
+A trahy son honneur⁎ avecque sa Patrie.
+Lors qu'au dernier combat ont fut prest à donner,
+Sa noire lâcheté (nous fit tous étonner⁎)
+Au lieu de nous servir, le traistre se retire,
+Il attaque Tarquin pour attaquer l'Empire.
+Il anime ses gens qui devoient estre à nous,
+Et monstre son mal-heur en monstrant son courroux.
+Tarquin le reconnoist qui le veut entreprendre⁎,
+Chacun veut l'offenser, Sexte le veut deffendre,
+Et quoy qu'il deust punir un crime si reçent,
+Il vid presque trahy son desir innoçent.
+L'infame nous poursuit pour s'emparer de Rome,
+Il veut tuër le Roy comme on fait un autre homme.
+Sexte le veut servir, bref ce triste⁎ rapport
+Qui vous doit affliger…
+
+Madame il n'est pas mort, mais je croy qu'il est pris,
+Que le Roy doit punir cét injuste mépris.
+Et que pour empescher une pareille enuie⁎,
+Il pourra la finir par celle de sa vie.
+
+Madame, un seul moyen reste à nous secourir.
+
+Quand mesme Colatin reconnoitroit son crime,
+Et qu'il seroit puny d'un trépas legitime,
+Il vous faut à la fin resoudre à le quitter ;
+Vos pleurs n'auront pas l'art de le ressusciter.
+Et si quelque devoir oblige⁎ vostre flamme
+De regretter un peu la moitié de vostre ame⁎,
+Songez en mesme temps qu'il nous voulut trahir,
+Et qu'étant criminel vous devez le hayr.
+
+Comment, cette action merite vostre estime,
+Et vous nommez vertu⁎ ce qu'on appelle un crime.
+La trahison vous plait : ozez-vous bien penser
+Qu'un Roy soit obligé⁎ de la recompenser ?
+
+Dans l'état qu'on l'a mis chaque objet⁎ l'importune,
+Et Sexte seulement peut changer sa fortune⁎.
+Mais taschez seulement de recourir aux pleurs,
+Proposez par ce bien⁎ la fin de vos mal-heurs.
+Usez de cent moyens afin qu'il vous entende,
+Et promettez-luy tout afin qu'il vous le rende.
+
+Je croy qu'il ne faut point mediter de harangue,
+Vos yeux feront du moins autant que vostre langue.
+Pleurez pour le gaigner, et luy faites la cour.
+Bref vous luy promettrez jusques à votre amour.
+
+Cet avis seulement doit vous donner de l'ayde,
+Autrement vostre mal est loing de son remede ;
+C'est par ce moyen seul qu'il doit estre guery,
+Vous obligez⁎ un Prince, et sauvez un mary.
+
+J'entendois vos debats, et je n'osois parétre,
+Je m'eusse fait complice, en me faisant conétre :
+J'y voulu bien aller pour faire un autre éfort,
+Mais je me ressouviens que je vous faisois tort.
+Plus elle resistois, plus vous faisiez d'approches,
+Je pesois vos discours, j'entendois ses reproches.
+Et quand vous avanciez l'effet de vos desirs
+Pour vaincre vostre amour, elle avoit des soûpirs⁎.
+Vostre ame⁎ se picquoit dans cette resistance,
+Vous la vouliez changer en voyant sa constance,
+Et la force⁎ à la fin mit dans l'extremité⁎
+L'exemple des vertus⁎ et de pudicité.
+Mais lors que je luy vis le desespoir dans l'ame⁎,
+Mon esprit affligé censura vostre flame.
+Je blamois avec elle une telle rigueur,
+Et vostre cruauté me perça jusqu'au cœur.
+Je disois en moy-mesme : Ah, Sexte, est-il possible !
+Helas si vous l'aimez, soyez donc plus sensible !
+Menagez autrement un telle beauté,
+Pour aymer son merite aymez sa chasteté.
+N'usez en son endroict d'aucune violence,
+Et pour l'amour des Dieux aymer son innocence.
+Toutefois mes souhaits n'eurent aucun éfet,
+La force⁎ vous acquit un objet⁎ si parfet.
+Vous treuvâtes moyen d'appaiser vostre flame,
+Lucresse vous servit comme la plus infame.
+Sa priere jamais ne vous peut émouvoir,
+Sa foiblesse parut pres de vostre pouvoir.
+Et cette beauté chaste au lieu d'estre adorée,
+Pour aimer trop l'honneur⁎, se vit deshonorée⁎.
+Qu'elle fit des soûpirs⁎ ! qu'elle versa de pleurs
+Dessus la mesme couche où vous treuviés des fleurs !
+Et je disois de vous il faut pour son merite
+Que la pitié le prenne, et que l'amour le quitte.
+Mais nous parlons en vain tandis qu'elle se plaint,
+Et puis vous avez fait tout ce que j'avois craint.
+ 
+Toutefois confessez.
+
+Que l'objet⁎ soit infame, ou qu'il soit adorable,
+C'est un crime pourtant dont vous estes coupable.
+Lucresse est violee, et par droit d'amitié⁎,
+Colatin doit vanger cette chere moitié.
+Que sçait-on si le Roy se doit mettre en colere ?
+Si la mort quelque jour en sera le salere :
+Et si le desespoir forcera les Romains,
+De porter sur vous deux et leur haine et leurs mains.
+Le Senat irrité, le peuple dans sa rage,
+Viendront bien-tost à bout de vôtre grand courage,
+Et dé-ja Colatin n'a que trop de pouvoir
+Ni que trop de sujet de l'aller émouvoir.
+
+Allez ne craignez rien ; tout vous sera prospere,
+Je sçay, s'il est bon Roy, qu'il n'est pas mauvais père.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_misene
+
+      Elle y fait son séjour.
+
+Il n'en faut point douter, mais en ma conscience
+Elle a pour ce retour assez d'impatience,
+Et si jamais la peur nous peut faire mourir
+Vous n'estes que trop lent à l'aller secourir.
+
+Ouy bien s'il y faisoit de plus longue demeure,
+Mais demain vous pourrez le voir d'assés bonne heure.
+
+Je n'en fais que sortir, je vous allois treuver,
+Mais sans doute il est temps, vous devez ariver.
+
+Dieux ! je ne me sçaurois retenir davantage.
+J'en apporte un écrit, à l'entendre parler
+On diroit que pas un ne la peut consoler.
+Je crains quelque accident.
+
+Que n'estois-je muet, la fureur le transporte⁎,
+Et pour y resiter sa douleur est trop forte,
+A combien d'accidens nous trouvons nous reduits !
+Et pour si peu de jours, que nous souffrons⁎ de nuits !
+
+J'ay trop esté muët, il est temps de parler,
+Ce poinct le touche trop, il faut le reveler.
+Sexte a faict vostre mal, il n'est plus temps de feindre,
+Il a forcé⁎Lucresse, et nous force⁎ à vous plaindre.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_tullie
+
+Ah ! Mon fils, que mon cœur estoit dans la contrainte,
+Que vous revenez bien pour en oster la crainte !
+J'avois trop peu d'espoir, pour avoir trop de peur,
+Mais elle disparoist ainsi qu'une vapeur.
+A vostre seul abord ma douleur est finie,
+Et j'ay tout esperé de votre compagnie.
+Mais que fait donc le Roy ? que ne s'est-il rendu  ?
+Vous estes-vous sauvé ? Tarquin s'est-il perdu ?
+La ville des mutins est-elle asservie ?
+Helas nos gens sont morts ! Le Roy n'a plus de vie !
+Dites à quel malheur nostre destin s'est joint,
+Je devois avoir peur, car il n'en avoit point.
+
+Ha, Sexte, ce bon-heur rend mon cœur interdit⁎ !
+
+Ces mots interrompus surprennent ma pensée,
+O Dieux, mon esperance est aussi-tost passée !
+Sans doute l'ennemy nous vient de reculer ;
+Mon fils il n'est plus temps de le dissimuler.
+Parlez, ne craignez rien, l'ennemy nous surmonte,
+Enfin nostre projet est suivy de la honte.
+Les Dieux dans ce combat ont pris leur favori⁎ ;
+Rome n'a plus de Roy, je n'ay plus de mari,
+Tout nous afflige icy, rien ne vous est prospere,
+L'armée est sans conduitte, et vous estes sans pere.
+
+Vos secrets entretiens⁎ me font bien reconêtre,
+Que vous cachez un mal que le sort⁎ m'a fait naître.
+
+Mais, doy-je donc finir ou commencer ma plainte ?
+Mon fils si vous m'aimez faites cesser ma crainte.
+Dites-moy pour troubler, ou pour flechir mon sort⁎,
+Comment Tarquin peut vivre, ou comment il est mort.
+
+Que nostre sort⁎ est dous ! que j'ay versé de pleurs !
+Et qu'apres mes soucis je rencontre de fleurs !
+Nous avons toutefois du sujet de nous plaindre :
+Car le Roy craint trop peu ce que nous devons craindre.
+Il doit aymer l'honneur⁎, mais Dieux il ne voit pas
+Qu'il luy couste bien cher, s'il cause son trépas.
+Il recherche la gloire⁎ aux dépens de sa vie,
+Et que feray-je apres en luy voyant ravie  ?
+Perdray-je davantage ayant perdu ce bien⁎ ?
+Ne craindray-je pas tout, pour ne craindre plus rien ?
+Il pense bien mourir en mourant dans la gloire⁎,
+Il croit par ses exploits exercer la memoire ;
+Mais, helas ! Ces honneurs⁎ sont des biens⁎ superflus,
+Et c'est en faire à ceux qui n'en jouyssent plus.
+Nous entendons parler de Romule et d'Ænée,
+La memoire aujourd'huy vante leur destinée,
+Et nous remarquons tous leur sort⁎ si glorieux⁎
+Qu'on parle de ces gens comme on parle des Dieux,
+Ils vivent dans nos cœurs, on vante leur merite,
+Mais apres le trépas pas un ne ressuscite ;
+Que leur sert donc l'honneur⁎ qu'ils poursuivent si fort
+Si pas-un n'en jouit aussi-tost qu'il est mort ?
+Ah ! Mon fils croyez-moy, tirons-en vostre pere,
+Je sçay bien que la guerre est un mal necessaire,
+Qu'une belle action donne beaucoup de bruit,
+Et qu'il faut se deffendre alors qu'on nous poursuit ;
+Mais, helas ! méprisons un si triste⁎ avantage,
+Pour avoir plus de vie, ayons moins de courage ;
+Ne faisons rien aussi qui nous puisse tacher,    
+Mais d'entrer au combat quand on peut l'empescher.
+« Non, Sexte, le malheur vous pourra bien apprendre
+Qu'il arrive assez-tost sans qu'on le doive attendre,
+Et que sans rechercher le mal, ou le trépas,
+Ils viennent bien souvent quand on n'y songe pas.
+
+« Quand un Roy veut user de ce remede extréme
+« En donnant de la crainte il s'en donne à soy-mesme.
+Mais qu'il est mal-aysé de servir les Romains !
+« Et qu'un Sceptre parfois est pesant dans les mains !
+
+Mais n'as-tu point connu que depuis son retour
+Il a des sentimens ou de haine ou d'amour ?
+Il n'a point rapporté, son humeur⁎ ordinaire,
+Sans doute il se propose un bien imaginaire.
+Je voy que mon amour ne sçauroit l'attirer,
+Parfois dans l'entretien⁎ je l'entens soûpirer⁎,
+Les plus doux passe-temps luy causent un martyre,
+Il se fasche aussi-tost qu'on lui parle de rire.
+Melixene, le Prince endure quelque ennuy⁎,
+Il ne vous parle plus, il ne songe qu'à luy,
+Il resve⁎ trop souvent, je m'en tiens offençée,
+Maxime seulement gouverne sa pensée ;
+Et de quelque moyen qu'il faille me servir,
+Mon humeur⁎ n'aura rien qui le puisse ravir.
+Il porte sur son front la colere ou la honte,
+Il voit mille beautez et n'en fait plus de conte,
+O Dieux qu'il a changé ! Tout fait mal à ses yeux,
+Reservé son amy tout luy semble odieux.
+Jamais homme en un rien ne devint si farouche,
+Il paroist insensible et plus froid qu'une souche :
+J'en suis toute confuse, et Sexte me deplaist
+En sçachant comme il fut de le voir comme il est.
+
+Melixene il est vray ; mais qui l'a pû surprendre ?
+Nous le sçaurons bien-tost si tu veux l'entreprendre⁎.
+Songe à l'entretenir⁎, veille de tous costez,
+Parle secrettement aux plus jeunes beautez,
+Use de ton esprit, et tasche à faire en sorte
+Qu'on connoisse l'objet⁎ d'une flâme si forte :
+Et nous verrons apres !
+
+Non, non, ne jugons point du corps ny du visage ;
+La beauté pour l'amour est un grand avantage.
+Elle n'a pas aussi toujours un mesme effet,
+« On ayme bien souvent un objet⁎ imparfait :
+Tel en fait son idole, et l'autre son supplice,
+« La vertu⁎ plaist souvent beaucoup moins que le vice.
+Le plus aymable objet⁎ qui soit dessous les Cieux
+N'a jamais treuvé l'art de charmer⁎ tous les yeux.
+Si le Prince resvoit⁎ à faire une maitresse⁎,
+Et qu'il en d'eust aymer, il aymeroit Lucresse :
+Mais quoy que sa beauté, le doive assez charmer⁎,
+Sa vertu⁎ toutefois l'empesche de l'aymer.
+Il ny faut point songer : Lucresse est plus qu'humaine,
+Tout amant⁎ y doit perdre et ses vœux et sa peine :
+Et si quelqu'un pouvoit y soulager ses maux,
+Il fascheroit les Dieux qui seroient ses rivaux.
+
+Si bien qu'à ton advis, Lucresse peut faillir.
+
+Arreste, Melixene, et ne blâme personne,
+Et dis que sa vertu⁎ merite une couronne.
+Car quiconque sçait bien comme Lucresse fait,
+Croira qu'elle produit toujours un mesme effet.
+Son esprit est exent d'une amoureuse flâme,
+La vertu⁎ seulement regne dedans son ame⁎.
+Pas un n'y peut entrer, si ce n'est Colatin,
+Ses desseins⁎ ont l'honneur⁎ pour leur derniere fin :
+Et je croy que tous ceux qui voudront l'entreprendre⁎,
+Ne croiront pas d'abord qu'elle se puisse rendre.
+Mais peut estre que Sexte ayme une autre beauté,
+Et que c'est autre part qu'il perd sa liberté.
+N'importe quelque objet⁎ que son ame⁎ revere,
+Quelque fille qu'il ayme ou facile, ou severe,
+Et de quelque costé, que vienne son malheur,
+Il faut à tout le moins divertir sa douleur.
+
 Je te l'avois bien-dit qu'il estoit amoureux⁎,
 Et qu'enfin son amour le rendroit malheureux.
 Eust on crû que le Prince en usât de la sorte ?
@@ -1839,29 +1262,9 @@ A recevoir du Ciel quelque grand coup de foudre.
 Sexte a connu ce crime, et Sexte en est taché,
 A-t'il pû s'y porter sans en estre empeché ?
 
--*who_melixene
-C'est au Prince à patir, c'est à nous à le plaindre,
-Son crime toutefois nous doit faire un peu craindre.
-Si le peuple Romain venoit à s'émouvoir,
-Il nous feroit sentir sa haine et son pouvoir.
-Chacun voudroit punir ce detestable crime
-« Un peuple est dangereux quand la rage l'anime.
-Il va de tous cotez, il se moque de tout,
-Et ne voit pres-que rien dont il ne vienne à bout.
-Il met dessous ces pieds sans que pas un l'arréte,
-Ce que les plus grands Rois mettent dessus leur téte.
-
--*who_tullie
 Ne t'imagine pas que nous devions perir.
 Le peuple est retenu par la peur de mourir.
 
--*who_melixene
-Le peuple ayant soufert⁎ une telle contrainte
-Peut faire un desespoir de l'excez de sa crainte.
-Et les desespperez ont toujours ce bon-heur
-Que s'ils font nôtre perte ils achevent la leur.
-
--*who_tullie
 Je ne crains point pour moy, mais je crains pour un autre,
 On ne peut commencer ton malheur ny le nôtre.
 Mais Sexte ayant manqué, je crains à tous momens,
@@ -1869,115 +1272,281 @@ Qu'un repentir succede à ses contentemens.
 Voyons donc où le Ciel tâche de nous conduire
 Et s'il nous veut aider ou bien s'il nous veut nuire.
 
--*who_melixene
-Les Dieux nous ayment trop pour changer notre sort⁎,
-Et les Dieux sont trop bons pour nous donner la mort.
 
-**** *book_ *id_acte504 *act_acte5 *date_1637 *creator_chevreau
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucresse
 
--*who_tarquin
-Quoy vous me bannissez ? O Dieux quelle insolence !
-Vous pouvez- vous porter à cette violence ?
+Comment l'as-tu pû voir au milieu de l'armée ?
+Tu ne m'en parles point que par la renommée.
+On t'a peut-estre dit qu'il devoit revenir,
+Et que ces insolens n'estoient pas à punir.
+Parle, ne viens-tu point me conter une fable ?
+Dy moy si ton discours est feint ou veritable.
+Le desir de le voir m'inquiette si fort
+Qu'il me semble toujours que je le verray mort ;
+Et pource que le Ciel veut bien que je le voye
+Mon esprit n'oze creire à l'excés de ma joye.
+Mais le moindre moment peut changer leur dessein⁎,
+« Et tel meurt aujourd'huy qui n'aguere estoit sain.
 
--*who_brute
-Vous demeurez encore, achevons tout, Romains,
-Poursuivons ce tyran, qu'il meure par nos mains.
-Ah qu'avecque raison ; ce lâche se retire !
-De sa perte depend le salut de l'Empire.
-Pas un ne doit blâmer un si juste attentat,
-Sa mort ou son exil peut changer nôtre état.
-Le père dès long-temps cause nôtre tristesse⁎,
-Et depuis peu le fils a violé Lucresse :
-Le peuple pour le père est sans aucun bon-heur,
-Colatin pour le fils semble estre sans honneur⁎ ;
-Bref, le père et le fils n'ont qu'une mesme enuie⁎
-L'un nous prive d'honneur⁎, et l'autre de la vie.
-Ils nous font malheureux, leurs desseins⁎ sont egaux,
-Ils mettent leur plaisir à procurer nos maux,
-Ils nous donnent toujours une peine infinie,
-Ils font également sentir leur tyranie.
-Pour nous donner un bien⁎ ils nous en ôtent deux,
-Et nous pourons nous voir si long-temps malheureux ?
-Nous devons tous punir leur noire perfidie,
-Je veux estre l'autheur de cette tragedie.
-Romains je veux apprendre à la posterité,
-Que je vous ay servis dans vôtre liberté.
-Que vous estiez perdus, que Rome étoit detruitte,
-Qu'elle doit son bon-heur à ma sage conduitte.
-Qu'en un mot j'ay sauvé l'Empire des Latins,
-Et que Brute a chassé la race des Tarquins.
+Il courut au combat si tost qu'il t'eust quitté,
+Que sçait-on si depuis le sort s'est irrité ?
+Il ne faut pas long-temps pour voir mourir un homme,
+Un moment peut suffire à la perte de Rome.
 
--*who_colatin
-Ha Brute genereux⁎, je beniray ta gloire⁎,
-S'ils sont loing de ces lieux comme de ta memoire.
+      Ma chere Cecilie,
+« On ne se peut aymer dans sa melancolie.
+Helas une beauté dans l'état où je suis
+Conserve rarement sa force⁎ et ses ennuis⁎ ;
+« Et quand la peur a mis nostre ame⁎ à la torture,
+« L'ennui⁎ défait souvent ce qu'a fait la nature.
+Je croy quand mon visage auroit tous les appas⁎,
+Que je n'en puis avoir où Colatin n'est pas :
+Mais quand il est present je n'ay plus de martire,
+Et mes yeux et mon ame⁎ ont ce que je desire :
+C'est de luy seulement que dépend mon plaisir,
+Il fait toute ma peur comme il fait mon desir.
+Pourveu qu'il vienne icy je suis trop à mon ayse,
+Et je croy plaire assez pourveu que je luy plaise.
+Mais un soupçon me tuë, un songe à ce matin
+M'a fait voir clairement ce que veut mon destin.
+J'ay veu dans mon sommeil la chose la plus noire
+Qui puisse à mon avis entrer dans la mémoire.
+Le moindre souvenir donne de la terreur,
+Et je n'ose en parler tant il est plein d'horreur.
+D'un coup inopiné j'ay crû voir consumée
+La Deesse d'honneur⁎ dont j'estois tant aymée,
+L'image que le Temple en gardoit cherement,
+Aussi-tost m'a semblé regarder fixement,
+Et me tendant les bras, par un autre miracle,
+Saignant de tous costez m'a rendu cét Oracle :
+Sors du Temple, Lucresse, et d'un pas assez pront
+Repare par ta mort un detestable affront.
+Fais ce que tu pourras, tu seras poursuivie,
+Et tu perdras l'honneur⁎ aussi bien que la vie.
+Mais ne crains point la mort que craignent les mortels,
+Car c'est elle qui doit remettre mes Autels.
+Lors elle a fait silence, et d'un coup de tonnerre
+J'ay veu l'Autel à bas, et le Temple par terre.
+Un ombre incontinent s'est offert à mes yeux,
+Dont l'abord n'avoit rien qui ne fût odieux :
+Par là j'ay crû ma mort ou ma perte arrestée,
+J'ay veu qu'à mon mal-heur j'estois sollicitée ;
+Fuyant j'ay crû tromper et ses yeux et ses bras,
+Mais j'ay fait une chutte en pensant faire un pas.
+Alors tout à cet ombre a semblé legitime
+Et ma seule foiblesse a commencé mon crime.
+La peur m'a reveillée apres tant de malheurs,
+Et j'ay treuvé mon lit que je baignois de pleurs.
+J'ay voulu m'escrier ; mais une extréme crainte
+En étouffant ma voix ma deffendu la plainte,
+Et pensant me lever pour aller jusqu'à toy,
+J'ay veu deux gros serpens qui siffloient contre moy.
+J'ay regaigné mon lit, et de cette avanture
+Il m'a fallu de force⁎ accuser la nature.
+Mais comme justement Maxime vient à nous,
+Nous sçaurons si le sort⁎ nous est contraire ou dous.
 
--*who_lucretie
-Poursuivons les Romains, c'est trop s'entretenir⁎ :
-Nous commençons fort bien, mais il faut mieux finir.
+Si bien que nous jugeons par la fin de la guerre
+Qu'on estendra l'Empire aux deux bouts de la terre ?
+Et que nostre ennemy ressent également
+La honte et le dépit avec le chastiment ?
 
-**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau 
+      Quoi vous estes au port ?
+Et je vous entretiens⁎ cependant qu'il est mort.
 
--*who_tarquin
-Quelles extremitez⁎ où la rage les porte,
-Et je soufre⁎ qu'un peuple en use de la sorte.
-A quel crime odieux le porte la fureur,
-Un peuple me banit, et je suis Empereur !
-Vous commettez Romains ce crime épouventable,
-En sçavez-vous quelqu'un qui soit plus detestable ?
-Rapelez moy Romains, banissez vôtre erreur,
-Mais je ne suis plus rien, et j'etois Empereur.
-Helas ! faut-il qu'un fils par l'horreur de ses crimes
-M'ait mis du plus haut ciel au plus creux des abimes ?
-Un peuple trop heureux de reçevoir ma loy,
-M'a rendu son esclave, et je vivois en Roy.
-O Cieux ! d'où viendroient bien tant de metamorphoses ?
-On m'a veu reposer dessus des lits de roses.
-Chacun m'obeïssoit ; tous me rompent la foy.
-Je ne suis qu'un sujet, et je me suis veu Roy.
-L'ennemi me craignoit à l'égal du tonnerre,
-Et mon peuple s'obstine à me faire la guerre !
-Pendant que je regnois, il avoit trop d'honneur⁎,    
-Dans l'eclat de ma gloire⁎ il voioit son bon-heur.
-Mon cœur⁎ luy promettoit le reste de la terre,
-Et le peuple s'obstine à me faire la guerre !
-Les grandeurs ont toujours un dangereux apas⁎,
-Naistre ainsi dans l'honneur⁎ si nous n'y mourons pas
-Reçevoir des faveurs si le Ciel nous en prive,
-Soufrir⁎ cent deplaisirs quand un bien nous arive,
-A quoy nous peut servir un tel contentement
-S'il vient comme un éclair et passe en un moment ?
-Rois, Princes, Potentats, qui portez les couronnes,
-Qui pensez gouverner les cœurs et les personnes,
-Considerez Tarquin pour voir un malheureux,
-A qui jamais le Ciel ne fut plus rigoureux.
-N'agueres ma vertu⁎ se promettoit un temple
-Aujourd'huy mon malheur nous doit estre un exemple.
-Dans un tel changement que je suis étonné⁎ !
-Que nostoi-je le jour à qui je l'ay donné ?
-Fils, peuple, desespoir, exil, Empire, fame
-Vous portez à tous coups la mort dedans mon ame⁎.
-Romains vostre salut consiste à me ravoir
-Et votre seureté depend de mon pouvoir.
-Mais funeste malheur où mon ame⁎ est reduitte
-Toute ma seureté doit estre dans ma fuitte.
+      Je voy bien qu'il est mort.
+Ah ! pauvre Colatin, ta femme ne peut croire,
+Qu'un dessein⁎ de regner ait obscurcy ta gloire⁎.
 
-**** *book_ *id_acte506 *act_acte5 *date_1637 *creator_chevreau 
+Adieu, Maxime, adieu ; je sçauray bien mourir.
 
--*who_colatin
-Helas ! ce n'est pas tout ; l'Empereur est bani,
-Mais son fils est absent qui demeure impuny.
+Juste Ciel ! Colatin ne doit plus rien attendre :
+Il n'est plus en estat de se pouvoir defendre :
+Le Roy s'en est saisi, Colatin ne vit plus ;
+Nous ne faisons pour luy que des vœux superflus,
+C'est dequoy seulement, nostre esprit est capable,
+Car procurer son bien⁎ c'est se rendre coupable.
+« Les Roys ont leurs desseins⁎ dont ils viennent à bout
+« Mais pour en bien parler n'en parlons point du tout.
 
--*who_lucretie
-Nos mains leur donneront des sujets de se plaindre,
-Et nous avons des pieds qui les pourront atteindre.
-Allons treuver le Prince, et luy faisons sentir
-Que l'effet d'un grand crime est un grand repentir.
-Mais allons plus avant, et qu'une mort cruelle
-Acheve de toucher cette ame⁎ criminelle.
+Ce crime par mal-heur est suivy de sa peine⁎ :
+Mais il ne sçauroit pas me porter dans la haine.
+Le croire criminel, c'est qu'il est mal-heureux :
+Je l'ayme, et si je plains son destin rigoureux
+En tous lieux la vertu⁎ merite sa loüange,
+« Elle a mesme son prix au milieu de la fange
+Et tous les accidens qui peuvent affliger
+Ne font rien en eux qui la puissent changer.
 
-**** *book_ *id_acte507 *act_acte5 *date_1637 *creator_chevreau 
+Non, non je ne vais pas jusques à la couronne :
+Je deteste son crime, et j'ayme sa personne.
+Tel que soit un mary, sa femme doit l'aymer,
+Ce titre seulement suffit pour la charmer⁎.
+Quand mesme sa rigueur passeroit dans l'extresme,
+On doit toujours l'aymer et le servir de mesme :
+En quelque état qu'il soit apprenez qu'il me plaist,
+Et me plaira toujours en m'étant ce qu'il est.
 
--*who_lucresse
+Maxime, dis-tu vray ? Je luy promettray bien,
+Mais dans ce triste⁎ état je ne possede rien.
+Dy-moy dans ce mal-heur ce qu'il faut que je fasse ?
+Comment faut-il parler pour obtenir sa grace ?
+Empesche maintenant un remord éternel,
+Et dy-moy comme on peut absoudre un criminel.
+
+Promettre mon amour ! Que dites-vous, Maxime ?
+Faudroit-il assurer Colatin par un crime ?
+Repousser son injure, et luy faire ce tort,                40
+Il vaut mieux le resoudre aux rigueurs de la mort.
+J'ayme bien Colatin, mais il faut que l'on sçache,
+Que l'honneur⁎ m'est trop cher pour luy faire une tache.
+Pour sauver Colatin perdre ainsi mon honneur⁎,
+Et trahir nostre foy pour faire son bon-heur.
+Que je rompe le nœud dont nostre ame⁎ est étreinte,
+Que ma honte commence en achevant sa crainte.
+Que nostre chaste couche endure un favory⁎
+Et que Sexte à la fin me serve de mary.
+Maxime, ta pensée est trop injurieuse,    
+Il vaut bien mieux souffrir⁎ une mort glorieuse⁎.
+Donne un autre conseil, et tâche à secourir
+Celle que ton remede oblige⁎ de mourir.
+Je demande un advis qui m'exempt de blame,
+Qui preuve à Colatin que Lucresse est sa fame.
+Et que pour le sauver tout luy semble à mépris,
+Pourveu que son honneur⁎ ne perde point son pris.
+
+Vous de qui la bonté console une affligée,
+Et pour qui seulement je me sens obligée⁎,
+Grand Prince, exercez vous à fléchir mon destin,
+Venez m'oster la vie ou rendre Colatin :
+N'éteignez pas si tost une flame si belle,
+Ne vous en servez plus s'il vous est infidelle ;
+Tachez de pardonner plutost que de punir,
+Et me rendez le bien qu'on me veut retenir.
+
+Ha ! Que c'est m'obliger⁎, l'esperance me flatte⁎,
+En me faisant ce bien, vous me rendez ingratte.
+
+O Ciel c'est à ce coup ; mon malheur est extréme !
+Grand Prince, le devoir veut bien que je vous ayme,
+Je parle d'un amour où rien n'est vicieux,
+Et qui n'offense point Colatin ny les Dieux ;
+En un mot d'une amour qui ne soit jamais feinte,
+Où chacun puisse voir le respect et la crainte ;
+D'une amour qui s'entende avecque mon honneur⁎,
+Et telle qu'un sujet doit rendre à son seigneur.
+
+Un sort⁎ si glorieux⁎ me rendroit trop heureuse.
+
+Voicy l'effect du songe ; il n'en faut plus douter,
+Mais je ne suis plus chaste, en voulant l'escouter.
+
+Pour moy ; Dieus vôtre amour me rendroit malheureuse :
+Ayez à mon esgard l'ame⁎ plus genereuse⁎,
+Ne me cotraignez point, pour en venir à bout,
+Et pour me bien aymer, ne m'aymez point du tout.
+
+Mais vostre guerison n'est pas dans ma puissance,
+Vos desseins⁎ pour Lucresse ont trop peu d'innocence.
+
+Je sçay bien que ce bras ne t'en peut empescher,
+Mais tu ne sçaurois pas me contraindre à pecher.
+De quelque grand mal-heur qu'on menace ma vie,
+Je croiray que ma mort sera digne d'enuie⁎,
+Massacre donc ce corps, et ne retarde pas,
+Je crains plus ton amour que l'horreur du trépas.
+Vouloir tuër le Roy pour assouvir ta rage ?
+Est-ce avoir de l'amour ? Ou monstrer du courage ?
+Pour gaigner mon esprit faire un double attentat,
+Et pour me ruyner, ruyner tout l'Etat !
+Quel crime épouventable oze attaquer vostre ame⁎ ?
+Vous vivez donc de sang aussi bien que de flame ?
+Monstre de cruauté, barbare que fais-tu ?
+Voudrois-tu par un crime acheter la vertu⁎ ?
+
+Quoy Prince, je perdrois l'honneur⁎ de cette sorte,
+Votre amour est bien grand, mais la haine est plus forte.
+Toute-fois ce moyen ne sçauroit m'attirer.
+N'importe !
+
+Hé sauvez mon honneur⁎.
+
+Que voulez vous de moy, puis que vous m'ôtez tout ?
+Au secours Cecilie…
+
+Cecilie au secours ? createurs de ces lieus,
+Helas ! si vous m'aimez jettez icy les yeus.
+
+Et tu veux que je vive apres sa perfidie,
+Par la fin de mes jours finis la Tragedie.
+La mort est mon remede ; et je ne puis guerir,
+Pour ce que ta bonté m'empesche de mourir.
+Ta main qui doit servir à me donner de l'aide
+M'empesche donc ainsi de choisir mon remede,
+Soufre⁎ que je t'embrasse, et que je meure ici.
+Et qu'àpres mon honneur⁎ je perde mon souci.
+
+Que ne venois-tu donc empescher sa rigueur ?
+
+Dy tout pour m'obliger⁎ ; mais je ne pense pas
+Que mon crime ressent ne merite un trépas.
+Allons-nous retirer dans un lieu solitére,
+Fay moy ce que tu veux, mais je suis adultere,
+Nostre couche est polluë et ce Prince odieux
+N'a point craint d'irriter la colere des Dieux.
+
+Ah ! c'est ma seule mort qui me peut secourir,
+Vange donc mon injure⁎ en me faisant mourir.
+Cache par mon trépas ma derniere infortune :
+Je souffre⁎ mille morts pour n'en souffrir⁎ pas une.
+
+La vertu⁎ Cecilie ? ah pauvre mal-heureuse !
+Lucresse que tu voy n'est plus si vertueuse⁎.
+Si la force⁎ de Sexte a causé cet affront
+Je n'en porte pas moins la honte sur le front.
+Peut-estre qu'on le sçait partoute la Province ;
+Et qu'on me croit desja la maitresse⁎ du Prince.
+Va treuver Colatin, s'il n'a perdu le jour,
+Dy luy qu'a ma priere il haste son retour.
+Fais voir qu'une fureur justement me transporte⁎,
+Que s'il ne vient bien-tost, il me treuvera morte :
+Porte luy ce papier, je t'ay trop retenu
+Cours, tu n'avances point, n'es-tu pas revenu.
+
+Mais toy qui croy bien faire en m'empeschant d'agir
+Instrui-moy du moyen de le voir sans rougir :
+Il verra sa moitié, sans en faire du conte,
+Il ne pourra m'aymer et conêtre ma honte,
+Esperay-je de luy quelque traict de pitié ?
+Ay-je pû conserver nostre saincte amitié⁎ ?
+Colatin me voyant verra son infamie,
+Il croira que l'amour m'a fait son ennemie.
+Et peut-estre qu'au lieu de pleurer comme nous,
+Il nous viendra punir et monstrer son couroux.
+Et tu veux t'étonner⁎ voyant que je soupire⁎.
+
+      O Dieux quel entretien⁎ !
+Une telle action seroit-elle impunie ?
+Colatin doit vanger ma douleur infinie.
+Ne m'en parle jamais !
+
+Ah ! que si tu m'aymois, tu romprois, Cecilie,
+Par un coup genereux⁎ l'amitié⁎ qui nous lie.
+Tu perdrois ta maitresse et ne la perdrois pas,
+Tu luy ferois un bien luy donnant le trépas.
+Ton ame⁎ pitoyable a trop de retenuë,
+Dépesche, acheve moy, me voila toute nuë.
+Rends moy si tu le peux cét office d'amour,
+Quiconque perd l'honneur⁎ doit bien perdre le jour.
+Je t'en donne un moyen, et ton ame⁎ resiste,
+Quoy depuis mon malheur je te voy toute triste⁎.
+Tu plains mon desespoir, et ton cœur ne veut pas
+Cacher mon deshonneur⁎ en causant mon trépas.
+Tu m'enten soupirer⁎, ta pauvre ame⁎ soupire⁎,
+Mon bras me peut guerir, et le tien le retire.
+Fais ce que tu voudras, mais il faut que la mort
+Succede au desespoir que me livre le sort⁎.
+
 Comment les puis-je voir sans mourir à leurs yeux ?
 Tout ce que je diray leur doit estre odieux :
 Mon père vostre fille est devenuë infame,
@@ -2011,51 +1580,218 @@ Car en le regardant je voy mon desespoir.
 Je ne puis détourner le desir qui le presse⁎,
 Sexte vit en infame, et je meurs en Lucresse.
 
--*who_colatin
-Helas que veux-tu faire ? appaise ta rigueur,
-Tu me veux massacrer en massacrant ton cœur.
-Lucresse que fais-tu ? console toy mon ame⁎,
-Est-ce pour Colatin que tu manques de flame ?
-Ne crains rien mon souci, nous le pourrons vanger,
-Bons Dieux comme la mort commence à la changer !
-Ne vis tu plus Lucresse ? il est trop veritable,
-Nôtre commun mal-heur se treuve inévitable.
-Lucresse répond moy, je ne veux qu'un soupir,
-Au moins avant ta mort contente mon desir.
-Respond moy donc mon ame⁎. Ah ! la douleur l'emporte
-Je n'en ay qu'un soupir ; la voila dé-jà morte.
-Mon pere il n'en faut plus esperer d'entretien⁎,
-Sa mort fait icy voir son malheur et le mien.
 
--*who_lucretie
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cecilie
+
+Ah ! Madame, esperez que demain du matin    
+Vous finirez vos maux en voyant Colatin.
+Dans un si pront retour tenez-vous toute preste,
+Il tiendra vos plaisirs plus chers que sa conqueste,
+Son cœur entre vos bras viendra se reposer,
+Et c'est là que sans crainte il pourra tout oser.
+Entretenez⁎ donc bien la beauté qui le touche,
+Et perdez le desir de nous estre farouche :
+Il est temps de guerir vostre extréme douleur,
+Il faut que vostre teint prenne une autre couleur,
+Ranimez vos appas⁎ ; faites que ce visage
+Luy montre à son retour son premier avantage :
+De grace que vos yeux témoignent leur vigueur,
+N'exercez pas sur vous une telle rigueur,
+Mettez dans vos regards une plus grande flamme,
+Ne donnez pas au corps ce qu'endure vostre ame⁎,
+Témoignez que Lucresse apres un tel retour
+Fait naistre en mesme temps et l'enuie⁎, et l'amour,
+Et qu'apres ce combat…
+
+Ce dessein⁎ ne peut-il vous donner de la crainte ?
+Estimez vous qu'on peche en pechant par contrainte
+Madame il en faut faire un autre jugement,
+Et le peché ne vient que du consentement.
+La mort est effroiable, et vous la voulez prendre
+C'est une complesance, où je ne puis me rendre.
+Je sçai bien que ma gloire⁎ est de vous obeir,
+Mais je ne la mettrai jamais à vous trahir.
+Cherchez d'autres desseins⁎ et mon ame⁎ vous jure
+De vous aider par tout à vanger cette injure.
+
+J'étois lors insensible à l'egal de son cœur.
+Eussai-je crù jamais vôtre perte certene ?
+Je prenois le repos au fort de vôtre peine,
+Et comme, si le Ciel eut conclu ma douleur,
+Il vint en mon absence achever ce maleur.
+Eut on dit que le Prince eut eu l'ame si noire
+Que de venir la nuit pour ternir vôtre gloire⁎ ?
+Il faloit le sçavoir nous l'eussions empesché,
+Mais s'il eust eté Prince eut-il ainsi peché ?
+Nous voions toutefois par cette experience,
+Que vous estes sans blâme, et luy sans conscience.
+
+Il est vray, mais tous ceux qui connoistront sa rage,
+Plaignant vostre mal-heur loüeront vostre courage,
+Cette infortune est grande, et vous devez juger
+Que vous estes à plaindre, et qu'on vous doit vanger.
+Peut-estre verrons-nous la fortune⁎ changée,
+On punira le Prince, et vous serez vangée.
+
+Que j'oblige⁎ par là vostre esprit abatu,
+On diroit que ma main fit mourir la vertu⁎.
+
+Madame vostre escrit pourroit bien le surprendre,
+Cachons si bien ce mal qu'il ne le puisse apprendre.
+
+Mais apres ce mal-heur en craignez-vous un pire ?
+Madame qu'il demeure, et qu'il n'en sçache rien,
+Il apprendroit sa honte.
+
+      Je prevoy des mal-heur,
+Qui vous feront verser et du sang et des pleurs ;
+Sexte ne peut jamais eviter sa colere,
+Il ira le tuër dans les bras de son père
+Le peuple avecque luy rabatra tous leurs coups,
+Et puis si vous mourrez, il mourra comme vous.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_melixene
+
+Sans doute que l'amour qu'il retient dans son ame⁎
+Doit tirer son malheur de l'excez de sa flame.
+C'est un Prince vaillant, mais les plus genereux⁎
+Soûpirent⁎ quelquefois quand ils sont amoureux⁎.
+Aussi-tost que l'amour a fait sentir ses armes
+Nous voyons qu'il instruit de soûpirs⁎ et de larmes,
+Et Sexte à mon avis ne vient dans vostre cour
+Qu'à dessein d'y treuver dequoy faire l'amour.
+Il a des qualitez qui ne sont pas communes,
+Il se peut acquerir, d'assez bonnes fortunes⁎,
+« La naissance, l'humeur⁎, la jeunesse ; et le bien⁎
+« Font qu'on passe parfois plus loing que l'entretien⁎.
+
+      À parler sainement,
+Je croy qu'on n'en peut faire un ferme jugement.
+Toutefois nous pouvons remarquer la plus belle,
+Et dire qu'il a droit de soûpirer⁎ pour elle,
+Qu'il s'en rendra maistre, et qu'apres son plaisir,
+La guerre entretiendra⁎ seulement son desir.
+
+O que sa chasteté romproit son entreprise⁎ !
+« Mais parfois la plus chaste est la plutost surprise.
+Il ne faut qu'un moment pour s'emparer d'un cœur,
+Dont on se rend apres le maistre et le vainqueur.
+« Combien en voyons nous qui sont toujours au Temple
+« Et qui sont en effet de tres mauvais exemples ?
+Qu'on vive comme il faut, ou qu'on vive autrement ;
+Il est bien malaisé d'en juger sainement,
+Nostre ame se fait voir, mais d'un tel artifice⁎,
+Qu'on la voit rarement sous les habits du vice.
+
+On peut beaucoup gaigner quand on veut assaillir.
+
+C'est au Prince à patir, c'est à nous à le plaindre,
+Son crime toutefois nous doit faire un peu craindre.
+Si le peuple Romain venoit à s'émouvoir,
+Il nous feroit sentir sa haine et son pouvoir.
+Chacun voudroit punir ce detestable crime
+« Un peuple est dangereux quand la rage l'anime.
+Il va de tous cotez, il se moque de tout,
+Et ne voit pres-que rien dont il ne vienne à bout.
+Il met dessous ces pieds sans que pas un l'arréte,
+Ce que les plus grands Rois mettent dessus leur téte.
+
+Le peuple ayant soufert⁎ une telle contrainte
+Peut faire un desespoir de l'excez de sa crainte.
+Et les desespperez ont toujours ce bon-heur
+Que s'ils font nôtre perte ils achevent la leur.
+
+Les Dieux nous ayment trop pour changer notre sort⁎,
+Et les Dieux sont trop bons pour nous donner la mort.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+
+Rome qui vous attend avec impatience
+Recueillera les fruitz de vôtre experience.
+
+C'est là que vous pourez finir vôtre tristesse⁎,
+Servez donc vôtre humeur⁎, et contentez Lucresse.
+
+Je sçay bien comme il faut rabatre ton orgueil,
+Pren garde que ce char ne te soit un cercueil.
+
+      O Lâche suborneur !
+Nous avons cent moiens pour finir ton bon-heur.
+Qu'une telle action demeurât impunie,
+Brute que tardes tu dans cette tyrannie ?
+
+Vous demeurez encore, achevons tout, Romains,
+Poursuivons ce tyran, qu'il meure par nos mains.
+Ah qu'avecque raison ; ce lâche se retire !
+De sa perte depend le salut de l'Empire.
+Pas un ne doit blâmer un si juste attentat,
+Sa mort ou son exil peut changer nôtre état.
+Le père dès long-temps cause nôtre tristesse⁎,
+Et depuis peu le fils a violé Lucresse :
+Le peuple pour le père est sans aucun bon-heur,
+Colatin pour le fils semble estre sans honneur⁎ ;
+Bref, le père et le fils n'ont qu'une mesme enuie⁎
+L'un nous prive d'honneur⁎, et l'autre de la vie.
+Ils nous font malheureux, leurs desseins⁎ sont egaux,
+Ils mettent leur plaisir à procurer nos maux,
+Ils nous donnent toujours une peine infinie,
+Ils font également sentir leur tyranie.
+Pour nous donner un bien⁎ ils nous en ôtent deux,
+Et nous pourons nous voir si long-temps malheureux ?
+Nous devons tous punir leur noire perfidie,
+Je veux estre l'autheur de cette tragedie.
+Romains je veux apprendre à la posterité,
+Que je vous ay servis dans vôtre liberté.
+Que vous estiez perdus, que Rome étoit detruitte,
+Qu'elle doit son bon-heur à ma sage conduitte.
+Qu'en un mot j'ay sauvé l'Empire des Latins,
+Et que Brute a chassé la race des Tarquins.
+
+Ne donnons point de temps à des propos si vains,
+Et n'ayons point de langue où nous avons des mains
+Colatin, c'est trop peu que de banir le père,                1555
+Allons chercher le fils, vangeons nous sur la mere,
+Par leur banissement ou leur commune mort,
+Rome sera sauvee, et nous serons au port.
+
+
+**** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lucretie
+
+Mon fils, quel nouveau bruit trouble nostre esperance ?
+Vous en a-t'on donné de meilleure asseurance.
+Le peuple maintenant m'a rendu tout confus,
+Ah ! que je ne suis pas ce qu'autrefois je fus.
+J'enten qu'un chacun dit ce que je n'ose dire,
+Nous sommes tous les jours esclave de l'Empire.
+Ma fille est violee ; un tyran nous retient ;
+Alors qu'un mal nous passe un autre nous revient.
+ 
+      Il faut tout entreprendre⁎,
+Viste ne craignons rien, tachons de nous defendre.
+Tel que soit le tyran qui nous ôte l'honneur⁎,
+Il se ressouvient trop de son premier honneur⁎.
+Il faudra reparer mon injure⁎ et la vôtre,
+Et repousser de mesme un crime par un autre.
+
+Poursuivons les Romains, c'est trop s'entretenir⁎ :
+Nous commençons fort bien, mais il faut mieux finir.
+
+Nos mains leur donneront des sujets de se plaindre,
+Et nous avons des pieds qui les pourront atteindre.
+Allons treuver le Prince, et luy faisons sentir
+Que l'effet d'un grand crime est un grand repentir.
+Mais allons plus avant, et qu'une mort cruelle
+Acheve de toucher cette ame⁎ criminelle.
+
 Atten ma chere fille, atten que je te voie
 Si tu finis tes jours tu finiras ma joie.
 Mais nous faisons icy d'inutiles éfors
 Nos cris ne peuvent rien pour ranimer ce corps.
 
--*who_colatin
-Ah ! mon pere aprenez que ce corps que j'honore,
-Tout pâle comme il est me doit bien plere encore.
-Delices de mes yeux faut-il que le trépas
-T'ait montré des rigueurs et ne m'en montre pas.
-Ma Lucresse ton cœur est percé de la sorte,
-Mais si ton corps est mort, ta vertu⁎ n'est pas morte.
-Propos extravagans, entretiens⁎ superflus,
-La vertu⁎ ne peut estre où Lucresse n'est plus.
-Belle ame⁎ dont ce corps avoit reçeu la vie
-Atten, je te vais suivre apreuve mon enuie⁎.
-Je tarde trop long-temps, il faut bien t'aller voir.
-Je veux par mon trépas te montrer mon devoir.
-Soufrez⁎, soufrez⁎ ma mort, pour finir ma tristesse⁎,
-C'est suivre la vertu⁎ que de suivre Lucresse.
-
--*who_lucretie
 O Dieux ! sans mon secours, je voiois tout peri.
 
--*who_colatin
-Lucresse est morte en fame, et je meurs en mari.
-
--*who_lucretie
 Il faut vanger Lucresse, et suivre son enuie⁎,
 L'imiter dans sa mort c'est acretre sa vie.
 Je ne retarde point : une semblable mort
@@ -2067,34 +1803,3 @@ Cherchons nostre homicide, il nous faut l'arrester.
 Lucresse par sa mort doit estre soulagee,
 Et nous mourrons contents apres l'avoir vangee.
 
--*who_brute
-Ne donnons point de temps à des propos si vains,
-Et n'ayons point de langue où nous avons des mains
-Colatin, c'est trop peu que de banir le père,                1555
-Allons chercher le fils, vangeons nous sur la mere,
-Par leur banissement ou leur commune mort,
-Rome sera sauvee, et nous serons au port.
-
--*who_colatin 
-La vengeance est trop douce, ah ne retardons pas,
-S'il a plus d'une vie, il a plus d'un trépas.
-Quand il sera puni, je suivray ta belle ombre,
-J'iray te voir là bas dans le lieu le plus sombre.
-Mais qu'icy nos desseins⁎ ne sont-ils tous égaux,
-Car la mort n'est qu'un mal qui finit tous les maux.
-Pour avoir elevé ce monstre abominable,
-Que Rome desormais devienne épouventable.
-Que tous ceux qui l'ont vu patissent à leur rang,
-Que leur Tybre à jamais soit un fleuve de sang :
-Que les vents les plus doux y causent des orages,
-Dont les moindres éfets soient de tristes⁎ naufrages :
-Que les plus fortunez s'y treuvent mal-heureux,
-Et que le Ciel enfin soit un enfer pour eux.
-Que leurs temples détruits soient des objets⁎ funebres,
-Que jamais le Soleil n'en chasse les tenebres :
-Que ses tours qu'on regarde avec étonnement
-Nous fassent voir leur pointe où fut leur fondement,
-Que ces lieux qu'on revere, et que rien ne seconde⁎
-Se treuvent aussi bas que le centre du monde.
-Et que Rome en un mot dans ce mal-heur nouveau
-Pour bien s'ensevelir soit son propre tombeau.

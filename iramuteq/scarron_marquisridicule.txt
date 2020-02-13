@@ -1,911 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1646
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donblaize
 
--*who_louise
-Madame excusez-moi, si je vous interromps ;
-Mais le soleil ici donne sur nous à plomb,
-Sans parasol, sans mante, au Soleil, à telle heure,
-Être au cours, c'est jouer à se perdre, ou je meure,
-Voulez-vous faire ici de l'astre radieux,
-Et de votre bel oeil morguer celui des cieux ?
-Sauf l'honneur que je dois à votre noble essence,
-Ce dessein romanesque a de l'extravagance.
-
--*who_stefanie
-Tu me parles toujours avecque liberté.
-
--*who_louise
-Mais Madame après tout, je dis la vérité ;
-Car au cours, à midi, que voulez-vous donc faire ?
-
--*who_stefanie
-Ignorant mon dessein, tu n'as rien qu'à te taire.
-
--*who_louise
-Au moins m'avouerez-vous que l'on y vient que tard,
-Et qu'on n'y laisse point son carrosse à l'écart.
-
--*who_stefanie
-Tais-toi. Je te disais tout à l'heure Louise  !
-Qu'à moins que d'un Seigneur, je ne puis être éprise.
-Je hais le petit noble à l'égal du bourgeois ;
-L'écu seul à couronne est l'objet de mon choix :
-Enfin, nul, quel qu'il soit, n'aura sur moi d'empire,
-Si dans ses qualités il n'entre du Messire.
-
--*who_louise
-Et Don Sanche, Madame, est-il un grand Seigneur,
-À qui si franchement vous donnez votre coeur ?
-Ma foi ; d'un grand Seigneur, il n'a pas l'équipage,
-Et son train jusqu'ici, ne pèche pas en page.
-
--*who_stefanie
-Si tu voyais bien clair, tu connaîtrais qu'il est,
-Quoique avec peu de train, autre qu'il ne paraît.
-
--*who_louise
-Et sur quoi fondez-vous pareille conjecture ?
-
--*who_stefanie
-Sur ce qu'il a l'air grand, et de fort bon augure ;
-Sur ce qu'en l'approchant mon âme m'avertit
-Qu'il est né grand Seigneur ; mais qu'il se travestit.
-Je ne me suis jamais d'un Seigneur approchée,
-Que d'un instinct secret je n'aie été touchée ;
-Mais je me pique aussi d'être de mon côté,
-Le véritable aimant des gens de qualité,
-Titre, que je préfère au beau titre de Reine.
-
--*who_louise
-Vous êtes Portugaise ?
-
--*who_stefanie
-      Il est vrai, je suis vaine.
-
--*who_louise
-Mais par l'ordre du ciel à qui tout est sujet,
-Si Don Sanche n'est pas un Seigneur contrefait,
-Lui ferez-vous encor, de l'humeur dont vous êtes,
-La mine, et les doux yeux, que partout vous lui faites ?
-
--*who_stefanie
-Il est vrai que je dis ce que je ne fais pas ;
-Il est vrai qu'à le voir, je trouve trop d'appas ;
-Et bien qu'il ne m'ait pas par mon faible attaquée,
-Qu'il m'a pourtant vaincue.
-
--*who_louise
-      Ou du moins détraquée.
-Pour moi, si je brûlais, je cacherais mon feu,
-Ou je n'en ferais voir que quelquefois un peu :
-Car s'il voit, fin qu'il est, en pareille matière,
-Que vous en ayez tant, il n'en recevra guère.
-Il est doux, complaisant, fort civil, grand flatteur,
-Avec ces qualités, on peut être imposteur ;
-Avec ces qualités, on trompe dans le monde,
-Et si c'est là-dessus que votre esprit se fonde,
-Pour croire que le sien vous est assujetti,
-J'ai peur que votre amour n'en est le démenti.
-Ou je sais peu de chose en l'amoureux martyre,
-Ou c'est modestement que pour vous il soupire,
-Et je n'ai pas grand peur que sa famille un jour,
-Vous plaide à son sujet pour un meurtre d'amour.
-Fût-il Comte, ou Marquis, étant ce que vous êtes,
-Il ferait pour le moins le chemin que vous faites,
-Votre rare beauté fait tout pour l'acquérir,
-Voit-on sur votre amour, son amour enchérir ?
-
--*who_stefanie
-Oui, même avec excès.
-
--*who_louise
-      Chacun en croit de même,
-Chacun croit aisément qu'on l'aime autant qu'il aime,
-Vous autres déités, vous avez l'esprit vain :
-Ha ! Sortez vitement de ce doute incertain ;
-Qu'il décline son nom, son pays, sa naissance ;
-Il est temps qu'à son tour, il fasse quelque avance.
-S'il a ce qu'il vous faut, un Notaire, un Curé ;
-S'il n'est pas ce qu'on croit, fît-il bien l'éploré,
-Fermez-lui votre porte, et m'en cherchez un autre,
-Dont vous serez le fait, comme il sera le vôtre.
-
--*who_stefanie
-Je sais que bien souvent, il se promène ici.
-Et c'est pour ce sujet, que je m'y trouve aussi.
-Afin qu'en m'y voyant, seule, à pied, sans livrée,
-Il s'aille figurer ma conquête assurée,
-Et que pour me connaître, il vienne m'approcher.
-
--*who_louise
-Qu'espérez-vous par là ?
-
--*who_stefanie
-      Je lui veux reprocher,
-Qu'il donne à tout.
-
--*who_louise
-      Ma foi, ce n'est pas gain de cause,
-Pour vos nobles desseins, il faut bien autre chose.
-
--*who_stefanie
-Cela me peut servir à le faire expliquer ;
-À connaître s'il m'aime, ou s'il se veut moquer,
-Car puisque tout mon bien est ma seule industrie,
-Je redoute surtout la contrefourberie.
-
--*who_louise
-Par ma foi, je le tiens aussi fourbe que nous.
-
--*who_stefanie
-Mais il n'est pas aussi le seul but de mes coups.
-
--*who_louise
-Ce financier coquet, que vous couchiez en joue,
-Et qui ne vous hait pas, le valait bien.
-
--*who_stefanie
-      Il joue ;
-Son humeur m'est suspecte ; on croit qu'il doit au Roi,
-Et n'est pas dans Madrid cru pour homme de foi.
-
--*who_louise
-Et ce beau courtisan, qui vous suit à la piste ?
-
--*who_stefanie
-Le madré veut savoir en quoi mon bien consiste,
-Ne t'imagine pas à voir ma vanité,
-Que je m'attache tant aux gens de qualité :
-Si je trouve ou Bourgeois, ou vieillard qui soit riche,
-Par d'honnêtes faveurs dont je ne suis pas chiche,
-Je saurai le gagner ; lors ma condition
-Se pourra bien passer de mon invention,
-Et lors avec honneur, sans faire de bassesse,
-Je pourrai soutenir l'éclat de ma noblesse :
-Pour cet effet, je vole aux oiseaux passagers,
-Et notre politique en veut aux étrangers.
-J'ai de bons espions dans les hôtelleries,
-Dans les postes, bureaux, coches, messageries,
-Tu m'es un bon second, et notre Olivares,
-Pour nos nobles desseins est comme fait exprès,
-Aux yeux de cent jaloux, il sait faire un message.
-
--*who_louise
-Bref votre Olivares est un grand personnage.
-
--*who_stefanie
-Il a su découvrir, qu'un certain vrai Marquis,
-Arrive dans Madrid, et sait bien son logis.
-Ce Seigneur étranger, si j'ai bonne mémoire,
-A nom Don Blaize Pol marquis de la Victoire ?
-
--*who_louise
-La peste que de noms !
-
--*who_stefanie
-      Cela sent son Seigneur.
-
--*who_louise
-Madame j'aperçois votre écuyer d'honneur.
-
--*who_stefanie
-Il nous apprendra quelques bonnes nouvelles.
-
--*who_louise
-C'est le Phénix, l'extrait, des écuyers fidèles.
-
--*who_stefanie
-Dis-moi la vérité que tu ne le hais pas ?
-
--*who_louise
-Je pense aussi pour lui ne manquer pas d'appas.
-Hé bien ! Surintendant des dépêches secrètes !
-Qu'as-tu de bon ?
-
-**** *book_ *id_I02 *act_I *date_1646
-
--*who_olivares
-      Tais-toi, Sultane des coquettes !
-Je me suis informé comme vous m'aviez dit
-Du logis de Don Sanche, et je sais comme il vit,
-Et que pour le servir, il n'a qu'une personne.
-Mais on m'a dit de plus, et c'est ce qui m'étonne,
-Que son appartement, dont je me suis enquis,
-Était l'appartement de même Marquis,
-De ce Don Blaize Pol qu'on attend de Castille,
-
--*who_stefanie
-Hé bien ! C'est un Matois, un petit noble, un drille,
-Vois-tu ! Je me connais en gens de qualité.
-
--*who_olivares
-En sortant de chez lui, je l'ai trouvé botté.
-
--*who_louise
-Et moi je l'aperçois.
-
--*who_stefanie
-      Mon bonheur me l'amène.
-
--*who_louise
-Où vient-il si matin ?
-
--*who_stefanie
-      Il faut que je l'apprenne,
-Cachons-nous.
-
-**** *book_ *id_I03 *act_I *date_1646
-
--*who_donsanche
-      Tu dis donc, que mon frère est venu ?
-
--*who_merlin
-Oui Monsieur, craignant fort d'être un animal cornu,
-Et que cette beauté qu'ici l'on lui destine,
-Ne sois pour son repos trop aimable, et trop fine.
-
--*who_donsanche
-Comment se porte-t-il ?
-
--*who_merlin
-      Ma foi, trop bien pour vous,
-Au reste, avant l'hymen le Seigneur est jaloux,
-Sa lettre qu'il m'a lue, et que je vous apporte,
-Vous fera voir comment son Marquisat se porte,
-Il prétend se cacher quelque temps dans Madrid,
-Faisant la guerre à l'oeil, s'éclaircissant l'esprit
-Du renom, et des moeurs de l'épouse promise,
-Qui payera bien cher le titre de Marquise.
-
--*who_donsanche
-La femme qu'il prendra, doit bien se préparer
-À mal passer son temps, et beaucoup endurer.
-J'avais comme tu vois aujourd'hui pris la botte,
-Pour aller au-devant de ce franc Don Quichotte.
-
--*who_merlin
-Vous l'avez mieux nommé que vous n'avez pensé.
-Il n'est pas dans le monde un homme moins sensé,
-Vous ne croiriez jamais le chagrin, et la peine,
-Que je souffre à servir une tête mal saine.
-
--*who_donsanche
-Que les Pères ont tort de tenir leurs enfants,
-Éloignés de la Cour, à se rouiller aux champs.
-
--*who_merlin
-Et vos lettres Monsieur ?
-
--*who_donsanche
-      Gardez-les ; qu'ai-je à faire,
-De lire les fatras d'un impertinent frère ?
-Puisqu'il est dans Madrid, et que je le vais voir ;
-Mais dis-tu vrai Merlin, que tu n'as pu savoir
-Le nom, ni le logis de sa femme future ?
-
--*who_merlin
-Vous savez comme il est défiant de nature,
-Qu'il fait secret de tout, et de rien bien souvent,
-Et qu'il n'a pour conseil que son chef plein de vent :
-Mais vous, mon cher Seigneur, qu'il ne vous en déplaise,
-Comment vont vos amours avec la Portugaise ?
-
--*who_donsanche
-Stéfanie ?
-
--*who_merlin
-      Elle-même.
-
--*who_donsanche
-      Elles vont assez bien ;
-Car elle me caresse, et ne demande rien.
-
--*who_merlin
-Tant mieux.
-
--*who_donsanche
-      Je la vais voir, parce que sa demeure
-Est proche de la mienne, et qu'on m'ouvre à toute heure ;
-Et l'on m'y voit souvent n'ayant que faire ailleurs,
-Et manque aussi d'avoir des passe-temps meilleurs ;
-J'y demeure parfois pour changer moins de place ;
-J'en sors pour en changer, quand la mienne me lasse ;
-J'y rêvai par coutume, et jamais par amour ;
-Ma paresse souvent m'y retient tout un jour.
-Quand j'y rêve, elle croit, comme elle est vaine et belle,
-Que je ne puis rêver pour autre que pour elle,
-Et lorsque je me tais par taciturnité,
-Que c'est par le respect que j'ai pour sa beauté.
-Je lui dis des douceurs, qui ne me coûtent guère,
-Et souvent je me plais de lui rompre en visière
-Pour diversifier la conversation,
-Ou faisant le jaloux par ostentation,
-J'ai le plaisir de voir comment elle s'efforce,
-D'apaiser un amant, qui parle de divorce.
-Je paye ses faveurs de vers bien ou mal faits
-Et nous aimons ainsi tous deux à peu de frais.
-Juge si mon amour me rend fort misérable.
-
--*who_merlin
-Votre relation me la rend toute aimable,
-N'avez-vous point appris à sa rare beauté
-Votre nom ?
-
--*who_donsanche
-      Oui Merlin, non pas ma qualité,
-Non plus que mon pays : mais elle s'imagine
-Que je suis pour le moins de Royale origine.
-Un infant d'Aragon, ou bien de Portugal ;
-Car cette Portugaise, un franc original,
-Ne reçoit dans ses fers que des gens de la sorte,
-À tous autres galants elle ferme la porte,
-Elle en souffre parfois par maxime d'État,
-Ou pour rendre jaloux quelque gros Potentat,
-Ou bien pour faire voir qu'à ses yeux rien n'échappe
-Et qu'indifféremment tout le monde elle attrape.
-
--*who_merlin
-La Dame, ou je me trompe, est faible de cerveau.
-
--*who_donsanche
-À cela près, elle est aimable ; a l'esprit beau,
-Et mille en cette Cour avecque moins de charmes,
-Se font rendre tribut de soupirs, et de larmes.
-
--*who_merlin
-Elle est fort mal en meuble, et je gagerais bien
-Qu'elle est franche friponne, et qu'elle ne vaut rien,
-L'autre jour sa suivante, en colère contre elle,
-Disait tout haut qu'à peine elle était Damoiselle.
-
--*who_stefanie
-Nous ne pouvons ouïr ce qu'ils disent d'ici.
-
--*who_donsanche
-Mais, nous avons manqué, dont j'ai bien du souci,
-Cette jeune beauté que nous avions suivie,
-Pour la revoir encor, si tu chéris ma vie,
-Avançons jusqu'au pont.
-
--*who_merlin
-      C'est autant de perdu,
-
--*who_donsanche
-Viens. Qu'importe ?
-
--*who_louise
-      Il s'en va le Marquis prétendu.
-
--*who_stefanie
-Appelle son valet, si tu m'aimes, Louise.
-
--*who_louise
-Cavalier ?
-
--*who_merlin
-      Que me veut l'écueil de ma franchise ?
-
--*who_louise
-Converser un moment.
-
--*who_merlin
-      Beau magasin d'attraits,
-Mon Maître est déjà loin, il faut que j'aille après,
-Sans cela, croyez-moi, ma chère Impératrice,
-Qu'il n'est rien ici-bas pour vous que je ne fisse.
-
--*who_louise
-Demeure ici, Merlin.
-
--*who_merlin
-      Je n'en n'ai pas le temps,
-Adieu, moule adorable à faire des enfants.
-
--*who_stefanie
-Je l'arrêterai bien. Dis-moi mon cher de grâce,
-Le pays de Don Sanche, et son bien et sa race,
-Et quelle est la beauté qu'il adore à la cour ?
-
--*who_merlin
-On vous a donc appris l'objet de son amour ?
-Je viens de lui donner du martel.
-
--*who_stefanie
-      Ha le traître !
-
--*who_merlin
-Mon Maître n'est pas tel qu'il tâche de paraître.
-
--*who_stefanie
-Dis-moi donc son pays, sa qualité, son bien.
-Tiens.
-
--*who_merlin
-      Vous m'avez charmé par ce doux mot de Tiens,
-Le diamant est bon ?
-
--*who_stefanie
-      Fort bon.
-
--*who_merlin
-      Un peu jaunâtre.
-Bas de Bizot ?
-
--*who_louise
-      Vois-tu, l'on te bat comme plâtre,
-Si tu ne parles vite.
-
--*who_merlin
-      Encore faut-il bien
-Savoir, si ce qu'on donne est quelque chose ou rien.
-
--*who_stefanie
-Dis-moi donc son pays, son bien et sa naissance.
-
--*who_merlin
-Vous me demandez-là des choses d'importance.
-Et dont jusques ici, mon Maître homme discret,
-Et sage au dernier point m'a toujours fait secret ;
-Mais comme les Valets ont l'âme curieuse,
-Et que je vous connais Dame très généreuse,
-Je veux vous avouer avec sincérité,
-Que quant à son pays, son bien, sa qualité,
-Quoique votre présent j'aye bien voulu prendre.
-Je n'en sais rien du tout, et n'en puis rien apprendre.
-
--*who_stefanie
-Le coquin m'a jouée, il faut aller après.
-
--*who_olivares
-Mon bras est impuissant, où le sont vos attraits.
-
--*who_stefanie
-Il a laissé tomber en fuyant quelque chose,
-Va-t'en le ramasser.
-
--*who_olivares
-      C'est une lettre close.
-
--*who_stefanie
-Apporte.
-
--*who_olivares
-      Ou c'en sont deux en un même paquet.
-
--*who_stefanie
-Il faut voir ce que c'est, romps vite le cachet,
-La date est d'aujourd'hui, la lettre est fraîche faite,
-Nous allons découvrir quelque affaire secrète,
-Mon frère,
-Je suis dans Madrid, et qui pis est, j'y suis pour me marier.
-J'ai grand peur, qu'un bourreau de beau-père ne m'aille tromper, et ne m'est promis plus de beurre que de pain.
-Je ne me mouche pas sur ma manche, comme vous savez, et il en faudrait venir au coupe-gorge.
-Je vais donc faire la guerre à l'oeil ; car de deux accidents il faut éviter le pire.
-Informez-vous de ses vie et moeurs de votre côté, comme je ferai du mien, et me sachez bon gré de la confidence.
-Je vous adresse une lettre que j'écris à ma future épouse, afin qu'elle ne me soupçonne pas d'être à Madrid.
-Le dessus de la lettre vous apprendra sa demeure.
-
--*who_louise
-A-t-on jamais écrit plus extravagamment ;
-En des termes plus bas, avec moins d'agrément ?
-Le style répond mal à l'esprit de Don Sanche.
-Avez-vous remarqué CE MOUCHE SUR LA MANCHE ?
-
--*who_stefanie
-On écrit mal parfois, quoique l'on parle bien.
-
--*who_louise
-Et tous ces quolibets qui ne servent de rien ?
-
--*who_stefanie
-Qu'importe. Mais hélas ! Il importe qu'un traître
-M'ait donné de l'amour sans se faire connaître,
-Il est Marquis le Fourbe, et d'une qualité,
-Qui peut à mon souhait borner ma vanité,
-Il traite cependant d'un autre mariage,
-Et me fait le jouet de son esprit volage.
-
--*who_louise
-Je n'eusse jamais cru qu'il eût écrit si mal,
-Il nous déguisait bien son esprit de cheval,
-
--*who_stefanie
-Personne n'est exempt d'avoir quelque faiblesse,
-Quelque tendre, où d'abord qu'on le touche, on le blesse,
-Il est jaloux sans doute, et quand son mal le prend
-D'agréable qu'il est ridicule il se rend.
-Il verra si je suis de mon côté jalouse.
-Voyons comment il parle à sa divine Épouse.
-L'adresse est À MADRID POUR BLANCHE DE VARGAS
-DONT LA MAISON CONTIENT UN APPARTEMENT BAS,
-PEINT DE NEUF, ET GRILLÉ, QUI DONNE EN LA GRAND RUE.
-
--*who_louise
-Vraiment l'adresse est rare, et de grande étendue.
-
--*who_olivares
-J'irais les yeux bandés. Je connais la maison.
-
--*who_stefanie
-Tant mieux. Vérifions sa noire trahison.
-Ma chère Épouse,
-Quelques affaires m'empêchent de vous appeler de plus près de ce doux nom.
-Recevez-le d'où vous êtes, je vous le donne d'où je puis, et cependant je consens, et ma volonté est que cette lettre ait la force d'une promesse de mariage, en attendant que nous le consommions dans Madrid après la bénédiction du Prêtre.
-Don BLAIZE POL, Marquis de la Victoire.
-
--*who_louise
-Il entre, ce me semble, ici quelque mystère ;
-Car Madame il écrit de Madrid à son frère,
-Son frère apparemment est aussi dans Madrid,
-
--*who_stefanie
-Il n'est pas question de se lasser l'esprit,
-À deviner le sens, dont la lettre est écrite :
-Mais il est question que mon âme s'irrite ;
-Qu'on se moque de moi ; qu'on me fait enrager,
-Et que je veux tout faire, afin de me venger.
-Oui perfide, oui méchant, j'irai chez ta Maîtresse,
-Lui faire le récit de ta fausse finesse.
-Louise, Olivares, il faut me seconder,
-À rompre cet hymen, ou bien le retarder :
-Mais ce n'est pas assez de rompre un hyménée
-Il faut bien davantage à ma rage obstinée,
-Je veux après avoir fait manquer cet hymen,
-Qu'il en meure le traître.
-
--*who_louise
-      Oui qu'il meure.
-
--*who_olivares
-      Amen.
-
--*who_stefanie
-Perdons le scélérat qui s'attaque à ma gloire.
-
--*who_olivares
-Soyons victorieux de la même victoire.
-
--*who_stefanie
-L'allusion me plaît, elle est pleine d'esprit.
-Tantôt pour cela seul, je te donne un habit.
-
--*who_louise
-À moi Madame ?
-
--*who_stefanie
-      À toi ! Je te donne une jupe.
-
--*who_louise
-Malheur sur le Marquis qui nous a pris pour dupe.
-
-**** *book_ *id_II01 *act_II *date_1646
-
--*who_lisette
-Pour moi quand vos chevaux s'emporteront si fort,
-Je dis mon in manus, et j'attendis la mort.
-Si je ne l'avais vu, je croirais impossible
-Que la peur fît en nous un effet si terrible ;
-Car vous chutes sur moi, sans pouls, sans sentiment,
-Et j'en suis pâle encor d'y songer seulement.
-
--*who_blanche
-Notre libérateur me vit-il de la sorte ?
-
--*who_lisette
-Et craignit comme moi que vous ne fussiez morte.
-Pourquoi garder aussi des chevaux si fringants ?
-Et des chiens de cochers tous les jours s'enivrant ?
-
--*who_blanche
-Comment se trouva-t-il en ce lieu solitaire,
-Ce jeune cavalier, cet ange tutélaire ?
-
--*who_lisette
-Je ne sais pas comment, mais je bénirai Dieu,
-Qui nous le fit trouver à telle heure, en tel lieu.
-
--*who_blanche
-Qu'il me parut civil ! Qu'il est bien fait, Lizette ?
-
--*who_lisette
-Je croirais bien aussi qu'il vous trouva bien faite.
-
--*who_blanche
-Comme j'étais Lizette ?
-
--*who_lisette
-      Oui, comme vous étiez
-Toute pâle, à ses yeux autant vous éclatiez,
-Qu'il éclatait alors aux vôtres par sa mine.
-
--*who_blanche
-Mais de cet accident, qui fut donc l'origine ?
-
--*who_lisette
-Votre malheur, le mien, un bourreau de cocher
-Toujours saoul, des laquais qu'il faudrait écorcher,
-Écoutez comme quoi nous l'échappâmes belle,
-Dont, ma foi, nous devons une belle chandelle.
-Nous passions sur le pont, sans beaucoup nous hâter,
-Et sans avoir dessein de nous précipiter.
-Votre cocher était comme vous savez ivre,
-Et vos laquais s'étaient dispensés de vous suivre.
-Nous regardions les eaux du clair Mansanarez,
-Quand un chien, l'on eût dit qu'il l'eût fait tout exprès,
-Fit peur à vos chevaux, dont l'ivrogne de guide
-Accablé de sommeil ne tenait plus la bride.
-Du chien effarouchés, ils galopaient fougueux,
-Vers où le bord du fleuve à voir même est affreux,
-Lorsque ce Cavalier, ou plutôt ce bon Ange
-Vola vers vos chevaux d'une vitesse étrange,
-Et coupa leur harnois de son acier tranchant,
-Sur le point qu'ils s'allaient jeter dans le penchant.
-Nous étions cependant, vous, dans mes bras pâmée,
-Moi, de vous voir ainsi toute à fait alarmée.
-Vous revîntes après votre pâmoison,
-Et lors vos yeux ingrats par grande trahison,
-Firent au Cavalier une amoureuse plaie.
-Voilà de l'accident la relation vraie.
-
--*who_blanche
-Folle plains-moi plutôt, et ne me raille point.
-Le plaisir qu'on m'a fait, m'inquiète à tel point,
-Par la crainte que j'ai de ne le pouvoir rendre,
-Que de m'en attrister je ne me puis défendre.
-
--*who_lisette
-Je crois cette tristesse une naissante amour,
-Qui paraît dans vos yeux claire comme le jour.
-
--*who_blanche
-Amour ? Moi ?
-
--*who_lisette
-      Vous ? Amour ? Êtes-vous une souche ?
-
--*who_blanche
-Non : mais j'ai de l'honneur.
-
--*who_lisette
-      Qui vous rend bien farouche.
-
--*who_blanche
-Quand j'aurais répugnance à vivre sous ses lois,
-Une fille prend-elle un Époux à son choix ?
-N'attends-je pas le mien aujourd'hui ?
-
--*who_lisette
-      Mais Madame !
-S'il est mal fait de corps aussi bien que de l'âme ?
-
--*who_blanche
-Si mon père me donne un Époux odieux,
-Pour de mieux faits que lui je fermerai les yeux.
-
--*who_lisette
-Si quelque amour secret l'oblige à la dépense ?
-
--*who_blanche
-Je réglerai la mienne, et prendrai patience.
-
--*who_lisette
-S'il est jaloux, avare, impertinent, railleur ?
-S'il est fâcheux, malpropre, ivrogne, ou grand parleur ?
-S'il est joueur, s'il perd ses terres et les vôtres ?
-Si cagot, pour et nuit il dit ses patenôtres ?
-S'il est chauve, gaucher, rousseau, louche, ou cagneux ?
-
--*who_blanche
-Le Ciel ne sera pas pour moi si rigoureux :
-Mais quand il serait tel que le fait ta peinture,
-L'ennemi du bon sens, l'horreur de la nature,
-Un injuste tyran, de son ombre jaloux,
-Pour l'aimer, il suffit qu'il serait mon époux.
-
--*who_lisette
-Madame, si l'Époux que le ciel vous destine,
-A de ce Cavalier le visage et la mine,
-S'il est d'esprit, de biens et de vertus pourvu.
-On peut tout espérer devant que l'avoir vu.
-Que sait-on ?
-
--*who_blanche
-      Ha Lizette ! Il faudrait être heureuse.
-
--*who_lisette
-Ha ! Madame, ma foi vous êtes amoureuse.
-
--*who_blanche
-Tais-toi, je vois mon père.
-
-**** *book_ *id_II02 *act_II *date_1646
-
--*who_doncosme
-      Hé bien ! Votre accident,
-De la faveur du Ciel est un signe évident.
-
--*who_blanche
-Si vous saviez Monsieur, par quel bonheur étrange
-Sans le secours d'un homme, ou plutôt d'un bon Ange...
-
--*who_doncosme
-L'on m'a de point en point conté ce grand malheur,
-Dont je vous voie sauvée, et quitte pour la peur.
-Comment vous portez-vous ?
-
--*who_blanche
-      De ma peur étourdie,
-Je me sens faible encor ; mais c'est sans maladie.
-
-**** *book_ *id_II03 *act_II *date_1646
-
--*who_merlin
-Madame de la part. Mais...
-
--*who_doncosme
-      Que demandez-vous ?
-
--*who_merlin
-Je suis pris. Un laquais était venu chez nous.
-Demander un juillep pour votre fille morte,
-Je suis apothicaire, et c'est ce que j'apporte.
-
--*who_doncosme
-On n'en a pas besoin.
-
--*who_lisette
-      Peste de l'étourdi.
-
--*who_blanche
-Mon ami ! Je vous trouve à mentir bien hardi.
-Vous feriez soupçonner surpris comme vous êtes,
-Qu'il se passe entre nous des affaires secrètes.
-Monsieur, c'est le valet, ou je me trompe fort,
-Du Cavalier sans qui vous pleureriez ma mort ?
-
--*who_lisette
-Je ne suis pas à lui ; mais je suis à son frère.
-
--*who_doncosme
-Comment s'appelle-t-il ?
-
--*who_merlin
-      Ô le curieux Père !
-Puisqu'il vous faut parler dans feintise, et sans dol,
-Mon Maître est un Seigneur nommé Don Blaize Pol.
-
--*who_doncosme
-Marquis de la Victoire ?
-
--*who_merlin
-      Oui Monsieur.
-
--*who_doncosme
-      C'est mon gendre.
-Est-il ici ?
-
--*who_merlin
-      Lui-même.
-
--*who_doncosme
-      Et me veut-il surprendre ?
-Que ne m'écrivait-il qu'il venait et pourquoi,
-A-t-il voulu descendre autre part que chez moi ?
-
--*who_merlin
-Il est d'un naturel surprenant.
-
--*who_lisette
-      Ha Madame !
-Vous allez donc bientôt être Marquise, et femme ?
-
--*who_doncosme
-Tu sais où le trouver ?
-
--*who_merlin
-      Oui, Monsieur ?
-
--*who_doncosme
-      C'est assez.
-Ajustez-vous ma fille, et vous réjouissez,
-Je prétends dès ce soir achever votre noce.
-Qu'on mette vivement les chevaux au carrosse.
-Lizette, et vous ma fille obtenez dessus vous,
-De paraître plus gaie aux yeux de votre époux.
-
--*who_blanche
-Notre aventure hélas ! m'a bien moins étonnée,
-Que ne fait le penser de mon proche Hyménée.
-
--*who_lisette
-Passer de fille à femme est sans doute un grand saut ;
-Mais quelque grand qu'il soit, on le franchit bientôt.
-
--*who_blanche
-Ô Dieu ! Que vois-je encore ?
-
-**** *book_ *id_II04 *act_II *date_1646
-
--*who_donsanche
-      Après vous avoir vue,
-De tant de dons du Ciel si richement pourvue,
-Je ne puis m'empêcher de revoir vos beaux yeux
-Pour leur offrir encor mon coeur comme à mes Dieux.
-Déjà de leurs regards la menace sévère
-Fait craindre à mon amour leur injuste colère ;
-Leur dédain redoutable est prêt de châtier,
-Un crime que ma mort seule peut expier ;
-Mais que leur cruauté contre moi tout emploie ;
-Tout supplice m'est doux pourvu que je les voie.
-
--*who_blanche
-Quand mon père m'amène un Époux que j'attends,
-Me venir voir encor, c'est mal prendre son temps.
-
--*who_donsanche
-Je venais m'informer de l'état où vous êtes.
-
--*who_blanche
-Si vous saviez Monsieur, la peur que vous me faites,
-Ou plutôt à quel mal vous m'exposez ici,
-Vous ne me viendriez pas rendre visite ainsi.
-Il est vrai, je vous dois la vie, et je le confesse,
-Que mon coeur généreux me le redit sans cesse ;
-Mais dans le même temps qu'il m'apprend mon devoir,
-Il m'avertit aussi que j'ai tort de vous voir.
-
--*who_donsanche
-Vous ne m'avez rien du, dont vous ne soyez quitte,
-Mais j'ai cru vous devoir au moins une visite,
-Ou plutôt je l'ai cru devoir à mon repos,
-Puisque éloigné de vous j'endure mille maux.
-
--*who_blanche
-Bien que j'aye pour vous toute sorte d'estime,
-Je ne puis plus longtemps vous écouter sans crime,
-Vous revoir, c'est manquer à ce que je me dois,
-Et peu faire pour vous ; mais beaucoup contre moi.
-Emmenez-le Lizette.
-
--*who_lisette
-      Allons, allons, mon brave !
-Et si vous devenez notre amoureux esclave,
-Comme vous en avez tout à fait la façon,
-Sachez qu'un jeune coeur n'est pas toujours glaçon,
-Que Lizette vous peut servir, et que Lizette
-A pour vous dans son âme une estime parfaite.
-
--*who_donsanche
-Si c'était l'offenser que l'aimer, ardemment,
-Elle m'aurait traité trop peu cruellement ;
-Mais si c'est de l'amour que les Dieux nous demandent,
-Si c'est par nos respects, qu'à nos voeux ils se rendent
-Doit elle recevoir d'un oeil si rigoureux,
-Et mes respects soumis, et mes soins amoureux ?
-
--*who_blanche
-Lizette ! Hâte-toi, veux-tu donc que mon père
-Le trouve ?
-
--*who_lisette
-      Allons Monsieur.
-
--*who_donsanche
-      Ô Dieu qu'elle est sévère !
-
--*who_lisette
-J'entends Monsieur qui vient, vite cachez-vous là.
-
--*who_blanche
-Lizette ! Quel malheur !
-
--*who_lisette
-      Ne craignez rien.
-
-**** *book_ *id_II05 *act_II *date_1646
-
--*who_donblaize
       Holà !
 Ne vous dispensez pas ma sotte valetaille,
 En un jour important comme un jour de bataille,
@@ -919,11 +15,6 @@ Afin que la Déesse à qui mon coeur encense
 Juge de mon esprit par votre obéissance.
 M'entendez-vous ?
 
--*who_doncosme
-      Monsieur, vous commandez ici
-Comme Maître absolu.
-
--*who_donblaize
       Je l'entends bien ainsi.
 Mon beau-père, notez, que vous avez la draitte,
 Notez de la façon qu'avecque vous je traite :
@@ -937,44 +28,12 @@ Vous méritiez un Roi merveille sans égale,
 Vous n'aurez qu'un Marquis sous la loi conjugale.
 Ordugno ! Que dis-tu de l'application ?
 
--*who_ordugno
-Qu'elle est digne de vous.
-
--*who_donblaize
       Elle est d'invention,
 Et sans doute elle aura la donzelle attendrie.
 
--*who_ordugno
-Il n'en faut point douter.
-
--*who_lisette
-      Quelle pédanterie !
-Madame !
-
--*who_blanche
-      Ha tais-toi donc, Lizette !
-
--*who_doncosme
-      Avec le temps
-La Cour pourra changer le style, et l'air des champs.
-
--*who_donblaize
 Vous êtes un long temps, me semble, à me répondre,
 Devrait-on là-dessus avoir à vous semondre ?
 
--*who_blanche
-Quand bien on m'offrirait ce qui ne se peut pas,
-Un Époux plus que vous à mes yeux plein d'appas
-Et dont la qualité fût plus considérable,
-Ce qui n'est pas possible, encore moins croyable ;
-Quand au lieu de Marquis, vous seriez un grand Roi,
-Le pouvoir qu'a mon père a toujours eu sur moi,
-Qui n'ai jamais songé qu'à l'aimer, à lui plaire,
-M'aurait fait consentir au bon choix de mon père,
-Ainsi pour deux raisons j'aime un si digne Époux,
-Et parce qu'il le veut, et parce que c'est vous.
-
--*who_donblaize
 Ordugno ! Qu'ente dis-tu ? La Sibylle Gomée,
 M'eût moins par son discours l'âme enthousiasmée.
 Ordugno ! L'artisan qui peignit son portrait
@@ -983,16 +42,8 @@ Ordugno ! J'ai grand peur qu'une femme si belle
 De moi son papillon deviendra la chandelle,
 Ordugno !
 
--*who_ordugno
-      Quoi, Monsieur ?
-
--*who_donblaize
       Elle en tient.
 
--*who_ordugno
-      Sûrement !
-
--*who_donblaize
 Mais à bon chat bon rat, j'en tiens pareillement.
 Ordugno ! La maison me choque en sa structure,
 Il en faudrait changer toute l'architecture,
@@ -1000,30 +51,18 @@ La chambre est en bicoin, tout au moins il faudrait
 Abattre l'angle aigu, pour en faire un droit.
 Ordugno !
 
--*who_ordugno
-      Monseigneur !
-
--*who_donblaize
       Quelle façon maudite
 De répondre ! Est-ce point que le faquin s'irrite
 D'entendre si souvent Ordugno répéter.
 Sais-tu que c'est ainsi qu'on se fait maltraité ?
 Sais-tu que qui t'as fait, te pourra bien défaire ?
 
--*who_ordugno
-Je crois n'avoir rien fait qui puisse vous déplaire.
-
--*who_donblaize
 Je l'ai fait favori de Page fort galeux,
 Dont un meilleur que lui se tiendrait fort heureux,
 Et le gredin qu'il est, se fait tirer l'oreille.
 À cause que parfois à lui je me conseille,
 Tous valets sont valets.
 
--*who_ordugno
-      Mais Seigneur...
-
--*who_donblaize
       Il suffit.
 Ne me va point chercher dans ton mauvais esprit
 De mauvaises raisons, ou nous aurons querelle,
@@ -1031,18 +70,8 @@ Viens à moi sans gronder alors que je t'appelle ;
 Ne me parle jamais qu'étant interrogé,
 Et jamais sans respect, ou bien prends ton congé.
 
--*who_doncosme
-Ne trouvez-vous pas bon, Monsieur, que j'aille faire
-Préparer une chambre à Monsieur votre frère ?
-Car je ne prends pas qu'il loge hors de chez moi.
-
--*who_donblaize
 C'est fort mal prétendu, mon beau-père.
 
--*who_doncosme
-Et pourquoi ?
-
--*who_donblaize
       Parce qu'en un logis où dormira ma femme,
 De mon consentement ne dormira corps d'âme ;
 Par corps d'âme, j'entends tous parents, tous amis,
@@ -1052,10 +81,6 @@ Qui représente au vif masculine figure.
 Sans doute, vous direz, et vous dires bien vrai,
 Que je suis fort jaloux ; mais je m'en sait bon gré.
 
--*who_doncosme
-On ne saurait faillir par trop de prévoyance.
-
--*who_donblaize
 Vous me parlez ainsi par pure complaisance.
 Vous êtes un adroit, Don Cosme, et je vois bien
 Que vous accordez tout, et ne contester rien.
@@ -1063,152 +88,34 @@ Ces maudits esprits doux sont personnes à craindre ;
 Mais jusqu'ici de vous je n'ai pas à me plaindre.
 Ordugno !
 
--*who_ordugno
-      Monseigneur.
-
--*who_donblaize
       Dis-moi quelle heure il est ?
 
--*who_ordugno
-Il est déjà bien tard.
-
--*who_donblaize
       Le dîner est-il prêt ?
 
--*who_ordugno
-Il le sera bientôt.
-
--*who_donblaize
       Qu'om me mène à ma chambre ;
 Qu'on ne m'y brûle point de pastilles à l'ambre ;
 Que le repas aussi soit sobre, et limité ;
 Car je ne puis souffrir la superfluité.
 Ordugno !
 
--*who_ordugno
-      Monseigneur.
-
--*who_donblaize
       Fais bien la sentinelle.
 Furette bien partout.
 
--*who_ordugno
-      Je vous serai fidèle.
-
--*who_donblaize
 Allons, Don Cosme, allons, montrez-moi le chemin.
 Adieu jusqu'au souper belle au teint de jasmin !
 
--*who_blanche
-Ha Lizette !
-
--*who_lisette
-      Ha Madame ! À quelle destinée
-Vous réduit votre père avec son hyménée.
-Avait-il de bons yeux quand il vous a choisi
-Ce Marquis campagnard, fantasque en cramoisi ?
-
--*who_blanche
-Ha ! Ne m'en parle point qu'avec respect Lizette,
-Je te l'ai déjà dit, encor qu'il me maltraite,
-Quelques cruels tourments qu'il me fasse endurer,
-Il ne m'est pas permis même d'en murmurer.
-Fais vitement sortir ce cavalier. Je tremble
-Que quelqu'un du logis ne vous rencontre ensemble ;
-Dis-lui que je l'estime autant que je le dois,
-Et que de l'Action qu'il a faite pour moi,
-La mémoire en mon coeur par le devoir tracée,
-Par la longueur du temps ne peut être effacée ;
-Et que je n'aurais pas refusé de le voir,
-Si je l'avais pu faire, et suivre mon devoir.
-
--*who_lisette
-On va bientôt souper. Tous nos gens vont et viennent,
-Et ceux de ce Marquis tous les passages tiennent,
-Je crois qu'ils sont payés pour en user ainsi :
-Mais je prendrai mon temps, et pour vous hors d'ici,
-Allez dans votre chambre, et cependant Lizette
-Tirera le captif de sa noire cachette.
-
-**** *book_ *id_III01 *act_III *date_1646
-
--*who_lisette
-Les valets du Marquis à leur Maître fidèles,
-Avaient si bien partout placé leurs sentinelles,
-Que durant le souper même, je n'ai pas pu,
-Tirer hors de son trou notre amant morfondu.
-Il me fait grand pitié ; car il est fort aimable :
-Mais, ma foi, le Marquis ne sera pas traitable,
-Et je me trompe fort, s'il est moins diligent,
-À garder sa moitié qu'à garder son argent.
-Sortez mon Cavalier, sortez en diligence :
-Vous m'avez aujourd'hui coûté plus d'une transe,
-Nous avons un mari jaloux comme un damné.
-
--*who_donsanche
-Hélas ! Il est mon frère, et de plus mon aîné.
-
--*who_lisette
-Dites-vous ?
-
--*who_donsanche
-      Et de plus, c'est le dernier des hommes.
-
--*who_lisette
-Nous sommes bien à plaindre en l'état où nous sommes ;
-Moi d'avoir un tel Maître, et vous un frère tel.
-J'en fais dès aujourd'hui mon ennemi mortel ;
-Il ne méritait pas une femme si belle.
-
--*who_donsanche
-Ni moi de l'éprouver si fière, et si cruelle.
-
--*who_lisette
-Vous l'avez obligée, et vous êtes bien fait ;
-Espérez : son esprit est sensible au bienfait ;
-Et quoique par vertu sa peine il dissimule,
-Je sais qu'il est choqué d'un mari ridicule.
-Si peu qu'un sot Époux à nos yeux fasse mal
-Le temps change en mépris le respect conjugal,
-Et si peu qu'un Mari de rende méprisable,
-Il ne manque au Galant qu'une heure favorable.
-
-**** *book_ *id_III02 *act_III *date_1646
-
--*who_donblaize
 Ordugno !
 
--*who_lisette
-      Le voici, mon Dieu, que ferons-nous ?
-
--*who_donblaize
 Et viens donc, Ordugno ?
 
--*who_lisette
-      Vite, recachez-vous,
-Maudit soit, l'Ordugno, je tremble en chaque membre
-
--*who_donblaize
 Ordugno !
 
--*who_ordugno
-      Pourquoi donc sortir de votre chambre ?
-
--*who_donblaize
 Mes amoureux soupirs en ont échauffé l'air,
 Et pourraient à la fin moi-même m'y brûler.
 
--*who_ordugno
-Que ne reposez-vous votre personne lasse ?
-
--*who_donblaize
 Je ne puis demeurer longtemps en une place,
 Triste comme je suis.
 
--*who_ordugno
-      Pourquoi triste ?
-
--*who_donblaize
       Pourquoi ?
 Quel mortel ici-bas doit l'être plus que moi ?
 Je veux absolument me cacher d'un beau-père,
@@ -1220,10 +127,6 @@ De ne révéler pas à personne qui vive
 Que je suis dans Madrid, a d'abord découvert
 L'infaillible moyen de me prendre sans vert.
 
--*who_ordugno
-Et qu'ordonniez-vous à Don Sanche ?
-
--*who_donblaize
       De faire
 Investigation de Blanche, et de son père,
 Savoir ce qu'on en dit dans la Cour de Madrid,
@@ -1243,27 +146,12 @@ Qui sur tout, en tout temps sont d'accord avec vous ;
 Qui ne quittent jamais leur douce procédure,
 Et qui rient au nez quand on leur fait injure.
 
--*who_donsanche
-Le fantasque qu'il est m'aurait pris en défaut,
-S'il n'eût ainsi parlé de sa lettre tout haut ;
-Mais je puis maintenant dire que je l'ai lue.
-Quoique à vrai dire son valet l'ait perdue.
-
--*who_donblaize
 Mais épluchons un peu la future moitié,
 Qu'en dis-tu ?
 
--*who_ordugno
-      Qu'elle est belle !
-
--*who_donblaize
       Et trop de la moitié,
 Et de cette suivante un peu trop familière ?
 
--*who_ordugno
-Qu'elle me plaît beaucoup.
-
--*who_donblaize
       Elle ne me plaît guère.
 Comment ! À sa maîtresse ; à la barbe des gens,
 Elle parle à l'oreille, à toute heure, en tout temps.
@@ -1278,96 +166,41 @@ Si j'allais y trouver le malheur que je crains,
 Quelque Galant caché, je ferais rumeur telle
 Que mon maudit hymen se romprait par querelle.
 
--*who_donsanche
-Si cet extravagant cherche partout ainsi,
-Il ne faut point douter qu'il ne me trouve ici,
-Mais je me puis sauver tandis qu'il ne voit goutte.
-
--*who_donblaize
 J'entends marcher quelqu'un auprès de moi sans doute,
 Qui va-là ?
 
--*who_donsanche
-      Qui va-là toi-même !
-
--*who_donblaize
       Es-tu mortel,
 Ou fantôme ?
 
--*who_donsanche
-      Je suis homme vivant, et tel,
-Que pour avoir osé profaner la demeure
-Et l'honneur d'un Marquis, je t'étrangle sur l'heure.
-
--*who_donblaize
 Tu me serres la gorge homme trop ponctuel !
 Mais je t'étranglerai d'un effort mutuel.
 Démon ! Car tu ne peux être un homme ordinaire
 Après le mal cruel que tu me viens de faire,
 Que cherches-tu céans ?
 
--*who_donsanche
-      J'y cherche à t'y punir.
-
--*who_donblaize
 Et d'où prends-tu l'audace, et le droit d'y venir ?
 Ordugno ! L'étourdi m'a brûlé le visage.
 
--*who_ordugno
-Qui Diable vous croyait aussi dans mon passage ?
-
--*who_donsanche
-Ha, mon frère ! Est-ce vous ? À la voix d'Ordugno,
-Je vous ai reconnu.
-
--*who_donblaize
       Frère ou plutôt bourreau,
 À quoi bon m'étrangler ?
 
--*who_donsanche
-      À dessein de vous plaire.
-
--*who_donblaize
 La belle invention pour hériter d'un frère !
 
--*who_donsanche
-Vous me l'aviez écrit.
-
--*who_donblaize
       Oui de vous informer
 De Blanche, et de ses moeurs, non de vous enfermer
 Dans son logis de nuit : mon cadet ! C'est trop faire,
 C'est transgresser mon ordre, enfin c'est me déplaire.
 
--*who_donsanche
-Je n'ai point eu dessein que de vous obéir.
-
--*who_donblaize
 Mais n'avez-vous point eu celui de me trahir.
 
--*who_donsanche
-Votre lettre en mes mains, ne fut pas plutôt mise,
-Qu'afin d'exécuter vos ordres sans remise,
-J'entrai dans ce logis.
-
--*who_donblaize
       Où je vous vois caché.
 Qui vous y fit entrer ?
 
--*who_donsanche
-      Je suis bien empêché.
-
--*who_donblaize
 Parlez donc : Qu'avez-vous à vous gratter la tête ?
 Eûtes-vous pour cela quelque prétexte honnête !
 Car on n'introduit pas pour rien, et sans sujet
 Dans un logis d'honneur, un cavalier suspect.
 
--*who_donsanche
-Je priai, je promis, je gagnai sa suivante,
-Feignant pour sa Maîtresse une amour violente,
-
--*who_donblaize
 N'avais-je pas bien dis ? La friponne qu'elle est
 À la fidélité préfère l'intérêt :
 Je m'en veux éclaircir, puisqu'il y va du nôtre.
@@ -1379,11 +212,6 @@ Elle croira venir tirer de sa cachette
 Mon frère, et me prendra pour ce larron d'honneur,
 Et je découvre ainsi ce qu'elle a sur le coeur.
 
--*who_donsanche
-Il va tout découvrir, ô la sotte défaite
-Dont je me suis servi !
-
--*who_donblaize
       La maudite soubrette
 Sur la foi des manteaux truqués si prudemment,
 Pour Don Sanche aura pris dom Blaize assurément.
@@ -1392,45 +220,16 @@ Et lors, je ne dis pas que sur sa tendre épaule
 Coups orbes, et pesants par moi ne soient donnés :
 Mais je lui veux devant tirer les vers du nez.
 
--*who_lisette
-Le sot homme est sorti.
-
--*who_donblaize
       Peste ! Comme on me nomme.
 
--*who_lisette
-Ha ! Que n'est-il déjà doublement un sot homme.
-
--*who_donblaize
 Bon. Du plaisir reçu je me revancherai.
 
--*who_lisette
-Je n'ai rien fait au prix de ce que je ferai.
-Sortez donc. Ce Marquis nous fera de la peine,
-Fantasque comme il est.
-
--*who_donblaize
       Ha ! La double vilaine.
 
--*who_lisette
-Dieu me veuille assister ! Ne le voilà-t-il pas ?
-Songez à vous, pour moi je me sauve à grand pas.
-
--*who_donblaize
 Ha ! C'est vous, pourquoi donc venir sitôt mon frère.
 
--*who_donsanche
-Le désir de savoir le secret d'une affaire,
-Où notre honneur commun peut-être intéressé
-En est cause.
-
--*who_donblaize
       Ma foi, vous étiez bien pressé.
 
--*who_donsanche
-Qu'avez-vous donc appris ?
-
--*who_donblaize
       Trop. D'abord la traîtresse.
 M'a promis sa faveur auprès de sa maîtresse,
 Puis m'a donné du sot, et du fantasque aussi :
@@ -1447,92 +246,43 @@ L'adresse à ce dessein n'est pas peu nécessaire,
 N'y faites pourtant pas tout ce qui s'y peut faire,
 Que votre feint amour n'ait rien d'incontinent.
 
--*who_donsanche
-Ce Mari curieux, qu'on nomme impertinent,
-N'en a jamais tant fait.
-
--*who_donblaize
       Vous me voulez instruire,
 Vous malheureux cadet qu'un aîné peut détruire,
 Vous m'osez conseiller ; vous me traitez de sot,
 Moi tous sens, tout esprit, moi Don Blaize en un mot.
 
--*who_donsanche
-Mais que peut-on penser d'un homme qui s'ingère
-D'aimer une beauté destinée à son frère ?
-Et quelle opinion aurait-elle de moi ?
-Qui ferait un tel crime.
-
--*who_donblaize
       Et n'est-ce pas de quoi
 Donner une couleur à pareille entreprise,
 Que feindre que votre âme est dès longtemps éprise ?
 
--*who_donsanche
-Je ne l'ai jamais vue.
-
--*who_donblaize
       Et suis-je donc un fou ?
 Et n'avez-vous pas vu son portrait à mon cou ?
 N'est-il pas digne assez de votre idolâtrie ?
 Mais foin, je l'ai laissé dans notre hôtellerie,
 Je m'en vais le quérir.
 
--*who_donsanche
-      J'irai bien.
-
--*who_donblaize
       Volontiers,
 Vous iriez fureter ma male et mes papiers.
 Rengainez, rengainez votre offre officieuse,
 Que ces frères cadets ont l'âme curieuse !
 Je suis des curieux l'ennemi capital.
 
--*who_donsanche
-La belle occasion que m'offre ce brutal !
-
--*who_donblaize
 Que dites-vous tout bas.
 
--*who_donsanche
-      Que je suis prêt de faire
-Tout ce qu'il vous plaira.
-
--*who_donblaize
       M'obéir c'est me plaire.
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
 Faut-il pour mes péchés qu'un valet soit dormeur ?
 Ordugno ?
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Dieu te puisse confondre,
 Monseigneur, Monseigneur, ce n'est là que répondre ;
 Mais ce n'est pas venir.
 
--*who_ordugno
-      Hé bien que voulez-vous ?
-
--*who_donblaize
 Sortir.
 
--*who_ordugno
-      Sortir si tard, c'est à faire à des fous.
-
--*who_donblaize
 Parle pour toi croquant. Sais-tu bien ce qu'engendre
 L'indulgence d'un Maître au valet bon à pendre ?
 Certaines libertés, qui lassent à la fin.
@@ -1540,145 +290,11 @@ Et qui font tôt ou tard qu'on le traite en faquin :
 Va quérir mon épée, et prends aussi la tienne,
 Et lanterne, et poignard.
 
--*who_ordugno
-      Faut-il que Merlin vienne ?
-
--*who_donblaize
 Non. Qu'on m'ouvre, aussitôt qu'on m'entendra siffler,
 Je reviens à l'instant.
 
--*who_merlin
-      Où veut-il donc aller
-Si tard ?
-
--*who_donsanche
-      Tu le sauras devant que la nuit passe,
-D'où viens-tu toi ?
-
--*who_merlin
-      Je viens de perdre à tope et masse
-Un petit diamant, dont m'avait fait régal
-La belle Stéfanie honneur de Portugal :
-Il n'en est pas au monde une plus folle qu'elle,
-Je la viens de trouver avec sa séquelle,
-C'est-à-dire Louise, et son Olivares,
-Assiégeant ce logis, et de loin et de près.
-Elle, ou quelqu'un des siens, n'en quitte pas la porte
-Guignant les gens au nez, soit qu'on entre ou qu'on sorte.
-Dans ses mains par malheur je suis tantôt tombé.
-Et sous ses questions j'ai quasi succombé.
-Elle m'a fait sur vous mille et mille demandes,
-Quand elle m'aurait fait autant de réprimandes,
-Je crois sur mon honneur, qu'elle m'eût moins pesé,
-Quelqu'un dans son esprit vous a démarquisé,
-Je l'en trouve pour vous un peu moins échauffée,
-Et même je la tiens de Don Blaize coiffée,
-Et que c'est pour lui seul qu'elle bat le pavé.
-
--*who_donsanche
-Je voudrais de bon coeur qu'elle l'eut enlevé.
-
--*who_merlin
-Le Marquisat sans doute a donné dans son tendre,
-Un Marquisat aussi n'est pas mauvais à prendre.
-
--*who_donsanche
-Plût à Dieu que ses yeux fissent un même effet
-Sur ce cher frère aîné, qui serait bien son fait,
-Et que d'elle amoureux, il me cédât mon ange.
-
--*who_merlin
-Qui ne pleurerait pas peut-être d'un tel change :
-Mais songez vous encore à la prise d'un coeur
-Si régulièrement retranché dans l'honneur,
-Un coeur, qu'on peut nommer la plus dure des roches,
-Qui ne peut pas souffrir seulement des approches.
-Vous m'allez alléguer ses yeux astres jumeaux.
-D'accord ; mais c'est tirer votre poudre aux moineaux.
-
--*who_donsanche
-À peine croiras-tu Merlin ! Par quelle voie,
-Un espoir surprenant ressuscite ma joie.
-
--*who_merlin
-Dites-la, vous verrez si je la crois ou non.
-
--*who_donsanche
-Aussi jaloux que fou, mon frère tout de bon,
-Veut que... mais quelqu'un vient ; je te dirai le reste
-Tantôt.
-
-**** *book_ *id_III03 *act_III *date_1646
-
--*who_lisette
-      Mon cher Monsieur, notre Maîtresse peste
-D'une étrange façon contre vous.
-
--*who_donsanche
-      Et pourquoi ?
-
--*who_lisette
-Que sait-elle ? Elle peste encore plus contre moi.
-Mais si près du Marquis vous êtes bien tranquille,
-Que fait-il donc ? Dort-il ?
-
--*who_donsanche
-      Le Marquis est en ville
-À l'heure que je parle.
-
--*who_lisette
-      Et qu'y fait-il si tard,
-Cet ennemi commun ?
-
--*who_donsanche
-      C'est une affaire à part.
-Vous saurez seulement, que Don Blaize, et Don Sanche
-Sont fort bien. Que ne suis-je aussi bien avec Blanche ?
-
--*who_lisette
-Si vous étiez sorti, vous y seriez fort bien.
-Jamais esprit ne fut moins ferme que le sien.
-Ô le sot animal qu'une fille timide !
-À force de pleurer, elle a la tête vide :
-Mais lorsque la pauvrette a su qui vous étiez
-D'aise elle m'a baisée, et fait cent amitiés.
-
--*who_donsanche
-Sait-elle que je suis le déplorable frère
-Du trop heureux Marquis ?
-
--*who_lisette
-      Elle se désespère
-De n'avoir pas le choix de Don Blaize, et de vous,
-Et de se voir réduite à prendre un tel époux.
-
--*who_donsanche
-Merlin ! On a sifflé. C'est mon frère va vite
-Ouvrir la porte.
-
--*who_lisette
-      Et moi je regagne mon gîte.
-
--*who_donsanche
-Ne m'abandonnez pas au besoin.
-
--*who_lisette
-      Je ferai
-Des merveilles pour vous, ou bien j'y périrai :
-Parce que je crois faire une oeuvre charitable,
-En faisant réussir une amitié sortable ;
-Outre que j'ai pour vous autant d'affection
-Que j'ai pour le Marquis de juste aversion.
-
-**** *book_ *id_III04 *act_III *date_1646
-
--*who_donblaize
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Que je périsse infâme,
 Si le prend dans Madrid belle ni laide femme.
 Comment ! Un étranger y paraît-il, soudain
@@ -1722,22 +338,10 @@ Don Blaize en cent morceaux se verrait déchiré ?
 Ordugno ! Notre noce, ou je me trompe, est faite,
 Je veux dès ce matin déloger sans trompette.
 
--*who_ordugno
-Et tous vos beaux habits ?
-
--*who_donblaize
       Nous nous en servirons.
 
--*who_ordugno
-Et ceux de votre train ?
-
--*who_donblaize
       Nous nous en déferons.
 
--*who_ordugno
-On ne se défait pas de tels habits sans perte ?
-
--*who_donblaize
 Veux-tu que je me jette en une fosse ouverte ?
 Et qu'étant marié, je sois encornaillé ?
 Mais d'un bien plus grand soin je me sens travaillé,
@@ -1761,40 +365,20 @@ Mais la Lune est fort claire, approchons la fenêtre,
 Ici comme en plein jour il ne saurait paraître,
 Mais...
 
--*who_stefanie
-      Donne.
-
--*who_donblaize
       Hay ! Bon Dieu comme on me l'a ravi :
 C'est le même dragon qui m'a tantôt suivi.
 
--*who_donsanche
-Qu'avez-vous ?
-
--*who_donblaize
       Ce que j'ai ? La demande est plaisante !
 Et n'avez-vous pas vu l'action violente
 Que l'on me vient de faire, et comme on m'a grippé
 Mon portrait de la rue, après m'avoir frappé ?
 
--*who_donsanche
-Vous me surprenez fort.
-
--*who_donblaize
       Ha par ma foi c'est elle.
 
--*who_donsanche
-Et qui ?
-
--*who_donblaize
       La même Dame avec sa séquelle,
 Qui me courrait tantôt. Peste ! Qu'elle m'a fait
 Une grande écorchure en prenant mon portrait.
 
--*who_donsanche
-On peut aller après.
-
--*who_donblaize
       Ma foi, la larronnesse,
 En vitesse de pieds surpasse une Tigresse,
 Aussi bien qu'un portrait, on y perdrait ses pas.
@@ -1804,356 +388,8 @@ Coucher avec quelqu'un n'est pas mon ordinaire,
 Passe pour une fois. Ô Don Cosme ! Ô Madrid !
 Ô maudit mariage ! Ô Marquis sans esprit !
 
--*who_donsanche
-Ô destin ! Ô amour ! Ô toute aimable Blanche !
-Pourrez-vous rendre heureux un autre que dom Sanche !
-
--*who_merlin
-Ô Don Blaize ! Ô Don Sanche ! Ô cher couple de fous !
-Que le pauvre Merlin va souffrir avec vous.
-
--*who_ordugno
-Ô cher ami Merlin ! Que les fièvres quartaines,
-Puissent serrer bien fort ces deux têtes malsaines.
-
-**** *book_ *id_IV01 *act_IV *date_1646
-
--*who_blanche
-Il ne savait donc pas mon futur Hyménée
-Et qu'à son frère aîné l'on m'avait destinée ?
-
--*who_lisette
-Il ne le savait pas : vous n'auriez jamais cru
-Quelle fut sa douleur aussitôt qu'il l'a su.
-Si vous eussiez ouï ses amoureuses plaintes,
-Votre coeur en eût eu de sensibles atteintes.
-Jamais un malheureux au fort de son tourment,
-N'a maudit son destin plus pitoyablement.
-Je n'ai pas pour autrui le coeur autrement tendre :
-Mais quand je songe en lui, je sens le mien se fendre.
-Son frère est bienheureux.
-
--*who_blanche
-      Son frère est ce qu'il est,
-Puisqu'il est approuvé par mon père, il me plaît,
-Mais j'entends un carrosse.
-
--*who_lisette
-      Il est vrai, qui s'arrête
-Chez nous.
-
--*who_blanche
-      Est-ce pour moi ?
-
--*who_lisette
-      Feignez un mal de tête,
-Si ce sont des fâcheux : je vais les recevoir,
-Et vous irai quérir si ce sont des gens à voir.
-Cette Dame ici viendrait-elle à la noce ?
-
-**** *book_ *id_IV02 *act_IV *date_1646
-
--*who_stefanie
-Olivares !
-
--*who_olivares
-      Madame ?
-
--*who_stefanie
-      Envoyez le carrosse.
-Pourrais-je dire un mot à Blanche de Vargas ?
-
--*who_lisette
-Je m'en vais l'avertir de descendre ici bas.
-
--*who_stefanie
-Il était de mon train, et de ma bonne mine,
-De ne pas faire ici ma visite en gredine :
-Quelque mauvais que soit un carrosse emprunté,
-Il nous donne toujours beaucoup d'autorité.
-
--*who_olivares
-Mais quel noble dessein allez-vous entreprendre ?
-
--*who_stefanie
-Digne de mon esprit.
-
--*who_olivares
-      J'ai peine à le comprendre.
-
--*who_stefanie
-Tu me verras Marquise, ou bien je périrai.
-
--*who_olivares
-Ma foi, vous le serez comme je volerai.
-
--*who_stefanie
-N'ai-je pas plaisamment attrapé la peinture,
-L'aimable marmouset de l'épouse future ?
-
--*who_olivares
-Quel bien vous viendra-t-il d'avoir pris un portrait ?
-
--*who_stefanie
-J'en aurai du plaisir.
-
--*who_olivares
-      J'en aurai du cotret.
-
--*who_stefanie
-Homme de peu de foi !
-
--*who_olivares
-      Sans beaucoup d'apparence,
-Je ne me flatte point d'une vaine espérance.
-
--*who_stefanie
-Et je m'en flatte moi : mais n'as-tu pu savoir
-Où le Marquis allait si vite hier au soir ?
-
--*who_olivares
-J'ai fait ce que j'ai pu pour le pouvoir apprendre.
-
--*who_stefanie
-Il fut couru des mieux.
-
--*who_olivares
-      Courir, ce n'est pas prendre.
-
-**** *book_ *id_IV03 *act_IV *date_1646
-
--*who_lisette
-Madame va venir dans un petit moment.
-
--*who_stefanie
-N'aurais-je point troublé son divertissement ?
-Ne lui ferais-je point de visite importune ?
-Mais je la vois venir : sa beauté non commune
-Est encore au-dessus du grand bruit qu'on en fait,
-Et pour tout dire enfin, efface son portrait.
-Madame, trouvez bon devant que vous rien dire,
-Que je vous considère, et que je vous admire
-Je n'ai jamais rien vu de si charmant que vous.
-
--*who_blanche
-Je n'attendais pas moins d'un visage si doux,
-Que des civilités et des cajoleries.
-
--*who_stefanie
-Qui ne vous en ferait ?
-
--*who_blanche
-      Trêve de railleries.
-
--*who_stefanie
-Je rends ce que je dois à ce que vous valez.
-
--*who_blanche
-Apprenez-moi plutôt ce que vous me voulez.
-De vous pouvoir servir, je me tiendrais heureuse.
-
--*who_stefanie
-Louise ! Qu'en dis-tu ?
-
--*who_louise
-      J'en serais amoureuse.
-
--*who_stefanie
-Et déjà je la suis, et j'en hais doublement
-Le méchant qui la veut, tromper si lâchement !
-
--*who_louise
-Comment peut-il tromper cette belle personne ?
-
--*who_stefanie
-Comment me trompe-t-il ?
-
--*who_blanche
-      Ce langage m'étonne.
-Savez-vous qui je suis ?
-
--*who_stefanie
-      Non, je ne le sais pas !
-Ce n'est pas votre nom que Blanche de Vargas ?
-
--*who_blanche
-Je l'avoue.
-
--*who_stefanie
-      Et j'ignore aussi qu'on vous marie !
-Mais vous savez-vous bien la noire perfidie,
-Qu'un Traître, qu'un Marquis Don Blaize...
-
--*who_blanche
-      Ha taisez-vous,
-Ne venez point ici décrier mon époux.
-
--*who_stefanie
-Il est donc votre époux ?
-
--*who_blanche
-      Au moins il le doit être.
-
--*who_stefanie
-Elle me fait pitié Louise !
-
--*who_louise
-      Ô le grand traître !
-
--*who_blanche
-Ces discours surprenants, et pleins d'obscurité,
-M'empêchent de répondre à vos civilités.
-
--*who_stefanie
-Je m'expliquerai mieux, quelque mal qu'il m'arrive ;
-Mais qu'on ne dise point à personne qui vive,
-Et surtout au Marquis, que l'on m'ait vu ici :
-Ce n'est pas sans raison que je vous parle ainsi.
-Je veux bien l'avouer : il y va de ma vie ;
-Mais pour avoir le bien de vous avoir servie,
-Je hasarderais tout, excepté mon honneur.
-Vous gagnez à tel point mon estime, et mon coeur,
-Que je ferais pour vous de même ardeur zélée,
-Quand dans vos intérêts je serais moins mêlée.
-
--*who_blanche
-Mon estime et mon coeur ne sont pas moins à vous :
-Mais si vos intérêts sont communs, entre nous,
-Contentez le désir, que j'ai de les apprendre.
-
--*who_stefanie
-J'ai toujours dans l'esprit que l'on nous peut surprendre.
-Madame encore un coup, suis-je ici sûrement.
-
--*who_blanche
-Ne craignez rien Madame, et parler seulement.
-
--*who_stefanie
-Faites donc s'il vous plaît sortir votre suivante.
-
--*who_blanche
-Je ne lui cache rien.
-
--*who_stefanie
-      Elle est pourtant servante.
-
--*who_blanche
-Oui : mais elle a le don de garder un secret.
-
--*who_stefanie
-Vous reconnaissez bien cet aimable portrait ?
-
--*who_blanche
-Et qui vous l'a donné ?
-
--*who_stefanie
-      C'est la personne même
-À qui vous avez fait cette faveur extrême.
-
--*who_blanche
-Mais pourquoi le Marquis l'a-t-il mis dans vos mains ?
-
--*who_stefanie
-Don Blaize est, en un mot, le dernier des humains.
-Quand vous mariez-vous ?
-
--*who_blanche
-      Aujourd'hui.
-
--*who_stefanie
-      L'infidèle !
-
--*who_louise
-Il n'est pas dans le monde une plus fourbe qu'elle.
-
--*who_olivares
-Fourbissime.
-
--*who_stefanie
-      Et Don Blaize a signé le contrat ?
-
--*who_blanche
-Dès longtemps.
-
--*who_stefanie
-      Ô bon Dieu ! Pardonne au scélérat,
-Il n'en peut accomplir la principale clause,
-Ni vous donner la main.
-
--*who_blanche
-      Puisque tout s'y dispose,
-Que mon père le veut, que j'en ai convenu ;
-Et que c'est pour cela que Don Blaize est venu.
-Qui l'en peut empêcher ?
-
--*who_stefanie
-      Hélas ! C'est moi Madame !
-Moi qui l'ai fait régner dès longtemps dans mon âme,
-Sa qualité, son bien, ses serments et ses pleurs,
-Son langage flatteur, et ses feintes douleurs.
-Ma jeunesse crédule, et mon âme trop tendre,
-Ma folle vanité trop aisée à surprendre.
-Enfin tout ce que peut d'ennemis assembler
-La rigueur d'un destin qui voulait m'accabler,
-Favorisa si bien les desseins de ce traître,
-Que je ne puis l'haïr quelque ingrat qu'il puisse être,
-Qu'il obtint... mais hélas ma rougeur, et mes pleurs
-Vous déclarent assez jusqu'où vont mes malheurs :
-Mais aussi, je vous suis encor si peu connue,
-Que vous pourriez douter, si je suis ingénue,
-Et sans me faire tort, mettre en doute ma foi,
-Si j'étais sans témoins qui parlassent pour moi,
-Deux enfants malheureux d'un infidèle père,
-Joindraient leur faible voix à celle de leur mère,
-Et ces deux innocents auront bien le crédit
-De vous persuader tout ce qu'elle vous dit.
-
--*who_blanche
-Si mon coeur vous pouvait aussi bien que ma bouche,
-Témoigner à quel point votre malheur me touche,
-Vous ne douteriez pas de la juste douleur,
-Que me fait ressentir votre cruel malheur.
-
--*who_lisette
-Tout est perdu.
-
--*who_blanche
-      Quoi donc ?
-
--*who_lisette
-      Ils vont venir Madame.
-
--*who_blanche
-Qui ?
-
--*who_lisette
-      Don Blaize, et Don Cosme.
-
--*who_stefanie
-      Ô malheureuse femme !
-Et que ferai-je donc en cet accablement ?
-
--*who_lisette
-Vous pouvez vous cacher en son appartement ?
-La clef tient à la porte.
-
--*who_donsanche
-      Ouvre vite, Lizette.
-
--*who_lisette
-Sauvez-vous vite Dame, Écuyer, Soubrette ?
-Et vous défendez bien si l'on vous veut forcer.
-
-**** *book_ *id_IV04 *act_IV *date_1646
-
--*who_donblaize
 Et je soutiens encor qu'il ne faut rien presser.
 
--*who_doncosme
-Et je soutiens aussi qu'une semblable affaire
-Se hasarde beaucoup, alors qu'on la diffère.
-
--*who_donblaize
 Et moi je resoutiens qu'on ne hasarde rien,
 Quand on diffère un peu ce qu'on retrouve bien.
 Si les grands de la Cour n'étaient pas ma noce
@@ -2175,194 +411,61 @@ Carrousels, et combats de barrière aux flambeaux,
 Fassent parler en Cour de ma magnificence :
 Je différerai donc avec votre licence.
 
--*who_doncosme
-Il faut donc différer, je ne conteste plus ;
-Mais bals, festins, tournois sont des frais superflus,
-À la cour aujourd'hui, l'on ne s'en pique guère,
-Il n'est donc pas besoin pour cela qu'on diffère.
-
--*who_donblaize
 Cet homme me fera bientôt désespérer.
 Il ne conteste plus, il veut bien différer,
 Et dans le même temps qu'il accorde la chose,
 Le drôle la refuse, et même en dit la cause.
 
--*who_doncosme
-Je ne refuse rien.
-
--*who_donblaize
       Nous différerons donc ?
 
--*who_doncosme
-Ha non.
-
--*who_donblaize
       Ô mal plaisant vieillard, s'il en fut onc ?
 Voulez-vous différer ou non ?
 
--*who_doncosme
-      Je ne veux faire
-Que ce que vous voudrez.
-
--*who_donblaize
       Hé bien donc qu'on diffère.
 
--*who_doncosme
-Mais si nous différons, qu'est-ce que l'on dira ?
-
--*who_donblaize
 Rien, sauf, hormis, sinon, que l'on différera.
 Je veux absolument différer l'hyménée,
 Dussiez-vous enrager en votre âme obstinée.
 
--*who_doncosme
-Je ne puis différer.
-
--*who_donblaize
       Et pour moi, je le puis.
 
--*who_doncosme
-Je ne puis différer.
-
--*who_donblaize
       Étant ce que je suis
 Il faut que je diffère, et j'en ai dit la cause.
 
--*who_doncosme
-Je ne puis différer.
-
--*who_donblaize
       Ha parlons d'autre chose,
 Ou nous nous brouillerons.
 
--*who_doncosme
-      Je ne puis différer.
-
--*who_donblaize
 Messieurs ! Sur mon honneur, il le faut séparer.
 Ne voyez-vous pas bien qu'il n'est déjà pas sage ?
 Et que sera-ce donc, si jamais il enrage ?
 
--*who_blanche
-On peut bien différer les noces pour un temps,
-J'ai reçu là-dessus des avis importants.
-
--*who_doncosme
-Je ne puis différer.
-
--*who_donblaize
       Quel détestable flegme !
 Ha dites-moi plutôt quelque vieil apophtegme,
 De ceux dont vous m'avez tantôt assassiné.
 
--*who_doncosme
-Je ne puis différer.
-
--*who_donblaize
       Maudit soit l'obstiné.
 
--*who_donsanche
-Puisqu'il vous presse tant, c'est un fort mauvais signe.
-
--*who_donblaize
 C'en est un très certain qu'il est un fourbe insigne,
 Mais allons faire un tour, pour rafraîchir un peu
 Mes esprits échauffés, et mon visage en feu.
 
--*who_blanche
-Ce n'est pas sans raison que je vous dis, mon père,
-Que vous devez aussi souhaiter qu'on diffère.
-Je sais que le Marquis aime depuis deux ans,
-Une Dame, et de plus qu'il en a deux enfants.
-
--*who_doncosme
-Tous les gens comme lui n'en font-ils pas de même ?
-Étant en Portugal, par un bonheur extrême,
-Je pus gagner le coeur d'une jeune beauté,
-Aimable pour l'esprit, riche, et de qualité.
-Je déguisé mon nom, à cause qu'en Castille
-J'avais l'inimitié de toute une famille,
-Pour avoir fait périr à mes pieds un Rival,
-Dont la mort me retint deux ans au Portugal.
-Cette belle avait nom Elvire de Pacheque,
-Moi, j'avais pris celui de Don Juan Palomeque,
-Nous nous aimions tous deux avecque passion,
-Mais ayant obtenu mon abolition,
-Je sortis de Lisbonne, et revins en Castille.
-Laissant vire en pleurs, et grosse d'une fille.
-Je devais retourner l'épouser ; mais la Cour
-Bannit de mon esprit Elvire et mon amour.
-À quelque temps de là, j'épousai votre mère.
-
--*who_stefanie
-Dans la relation que je viens d'ouïr faire,
-Je trouve assurément l'infaillible moyen,
-D'obtenir si je veux, et Don Blaize, et son bien.
-
--*who_doncosme
-Le voici qui revient.
-
-**** *book_ *id_IV05 *act_IV *date_1646
-
--*who_donblaize
       Je vous croirai, Don Sanche ?
 Mais allez de ce pas parler d'amour à Blanche
 J'entretiens cependant cet ennuyeux vieillard.
 Don Cosme ! Pourrait-on vous parler à l'écart ?
 
--*who_doncosme
-Je suis à vous.
-
--*who_donblaize
       Hé bien ! Notre aimable beau-père ?
 Consentez-vous enfin que l'hymen se diffère ?
 Ou m'entendrai-je encor l'oreille pénétrer
 Par cet impertinent, je ne puis différer ?
 
--*who_doncosme
-Je n'eusse pas usé de paroles pareilles,
-Pour peu que j'eusse cru vous blesser les oreilles.
-Je ne ferai jamais que ce que vous voudrez.
-
--*who_donblaize
 Ô que les hommes doux sont souples, et madrés !
 
--*who_doncosme
-Mais Monsieur, vous disiez tantôt, ou je me trompe,
-Que vous haïssiez fort le vain luxe, et la pompe,
-Et ce qui peut passer pour superfluité :
-À quelque bourgeois riche, et né sans qualité,
-On pourrait pardonner une folle dépense ;
-Mais elle est condamnée en l'homme de naissance.
-
--*who_donblaize
 Ce qu'il me vient de dire, a quelque fondement.
 
--*who_donsanche
-Je ne puis plus tenir contre tant de tourment.
-Ou vous serez bientôt de mes larmes fléchie,
-Ou bien votre orgueil verra finir ma vie.
-
--*who_blanche
-Êtes-vous furieux, Don Sanche, et croyez-vous,
-Que je puisse longtemps retenir mon courroux ?
-
--*who_donsanche
-Ne la retenez pas point cette juste colère,
-Perdez un misérable ; aimez son heureux frère.
-Avancez mon trépas par vos dédains cruels,
-J'en sortirai plutôt de mes maux éternels.
-
--*who_donblaize
 Mon frère ! À mon secours. Il me tourne, il me vire,
 Il me fait enrager, et ne fait que sourire.
 
--*who_stefanie
-Le frère aîné m'échappe, et le cadet trompeur
-De mon esprit jaloux augmente la fureur.
-Louise ! Olivares ! Écoutez...
-
--*who_donblaize
       Ô Don Cosme !
 Dans Madrid, ou plutôt dans tout ce grand Royaume,
 Trouvez-vous quelquefois quelqu'un fait comme vous ?
@@ -2378,124 +481,52 @@ Mais que vois-je ?
 Mais je sais le moyen d'en avoir la raison.
 Éloignons ce méchant.
 
--*who_doncosme
-      Et quelles gens peut-ce être,
-Qui se cachent chez moi sans se faire connaître !
-
--*who_donblaize
 Quel escadron en deuil vient me choquer ici ?
 Pourquoi diable, à moi seul s'adresse-t-il ainsi ?
 Connaissez-vous quelqu'un de cette noire bande,
 Dites-le moi Don Cosme ?
 
--*who_doncosme
-      Et je vous le demande.
-Qui le sais mieux que vous ?
-
--*who_donblaize
       Je n'en sais rien ma foi :
 Je les ai d'abord pris pour les gens d'un convoi.
 
--*who_blanche
-Monsieur, c'est cette Dame, Épouse de Don Blaize,
-Dont il a des enfants.
-
--*who_doncosme
-      Il en use à son aise.
-Je n'ai jamais été choqué si rudement,
-J'en suis quasi tombé par terre lourdement.
-Mais le savez-vous bien ?
-
--*who_blanche
-      Oui Monsieur, c'est la même.
-
--*who_doncosme
-Ha ! C'est nous mépriser d'une insolence extrême,
-Je me plains justement de votre procédé,
-Don Blaize.
-
--*who_donblaize
       Et parbleu bon, je suis réprimandé,
 Je n'eusse jamais cru qu'un doux à triple étage,
 De se mettre en colère eût jamais le courage.
 
--*who_doncosme
-Il n'entre point chez moi de semblable gibier,
-C'est me faire une offense, et c'est me décrier.
-
--*who_donblaize
 Mais que je sache donc, Don Cosme, je vous prie,
 Et ce qui vous offense, et ce qui me décrie ?
 
--*who_doncosme
-Vous manquer de respect à ma fille.
-
--*who_donblaize
       Êtes-vous
 Parfois capricieux, vous autres esprits doux ?
 
--*who_blanche
-Mon père a grand sujet de trouver fort étrange.
-
--*who_donblaize
 Quand est du temps présent, vous vous tairez, bel ange !
 Et quand est du futur, bel ange, vous saurez
 Que vous me plairez fort, lorsque vous vous tairez,
 Mais enfin, sachons donc ce que vous voulez dire ?
 
--*who_doncosme
-Que lorsque vous aurez un légitime empire
-Sur Blanche, qu'elle aura bien souvent à souffrir
-De pareils déplaisirs.
-
--*who_donblaize
       Que je puisse mourir,
 Si Don Cosme ne croit que j'ai fait entrer en cachette
 Entrer dans sa maison quelque amitié secrète,
 Mon frère allez après.
 
--*who_donsanche
-      J'y cours.
-
--*who_donblaize
       Mais à grand pas.
 
--*who_donsanche
-Ô Amour ! Si l'hymen par là ne se fait pas.
-
--*who_donblaize
 Allez donc ! Qu'avez-vous à regarder les nues.
 Quand des cornes seraient à mes tempes venues,
 Je n'aurais pas été davantage étonné :
 C'est quelque Dame à qui j'ai de l'amour donné,
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       En sais-tu quelque chose ?
 
--*who_ordugno
-Rien du tout.
-
--*who_donblaize
       Avais-tu tenu ma chambre close ?
 
--*who_ordugno
-À double tour.
-
--*who_donblaize
       Ma foi je n'y connais donc rien.
 Vous vous coulez, Don Cosme, allez vous faites bien.
 Et vous l'astre d'amour qui suivez votre père,
 Empêchez l'esprit doux de se mettre en colère.
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Il faut assurément,
 Que le Ciel m'ait donné de ses biens largement.
 Ô les rares talents que je laisse détruire !
@@ -2513,162 +544,26 @@ Et quoi que j'eusse dit, et quoi que j'eusse fait.
 Allons voir là-dessus ce qu'aura fait mon frère,
 Encore un coup, beauté, que tu m'es salutaire !
 
-**** *book_ *id_V01 *act_V *date_1646
-
--*who_donsanche
-Tout est perdu pour moi, puisque Blanche est perdue,
-Ne m'en parlez donc plus, ma mort est résolue.
-
--*who_merlin
-Quand vous parlez de mort, parlez-vous tout de bon ?
-Si j'étais, comme vous, beau comme Cupidon ;
-Si j'avais, comme vous, un satyre pour frère ;
-Si j'avais, comme vous, des qualités à plaire ;
-Si Blanche, comme à vous, me faisait les doux yeux,
-Si l'amour, comme vous, me rendait furieux ;
-Je pousserais ma pointe, il n'est frère qui tienne,
-Tant que je verrais Blanche en espoir d'être mienne,
-Et lorsque je verrais la belle en d'autre bras,
-J'en serais bien fâché ; mais je n'en mourrais pas.
-
--*who_donsanche
-Je suis ce que tu dis : mon frère est méprisable ;
-Mais mon frère est heureux, et je suis misérable,
-Et pour faire fortune en l'empire amoureux,
-Il faut être à la fois aimable, et bien heureux.
-Blanche m'a foudroyé des traits de sa colère ;
-Blanche sera bientôt dans les bras de mon frère.
-Quand d'un bien d'où dépend notre félicité,
-Par haine, ou par mépris l'espoir nous est ôté,
-Les timides conseils ne sont plus bons à suivre,
-Qui n'a pu plaire à Blanche, est indigne de vivre.
-Contentons sa rigueur, et délivrons ses yeux
-D'un Esclave inutile aussi bien qu'odieux.
-
--*who_merlin
-Mais Monsieur, sauf l'honneur de votre noble envie,
-Savez-vous ce que c'est que de perdre la vie ?
-Il n'est rien tel que vivre.
-
--*who_donsanche
-      Il n'est rien tel pour toi ?
-Mais la vie est à charge aux amants comme à moi,
-Que l'amour n'a flatté d'une vaine espérance,
-N'a trompé par l'éclat d'une belle apparence,
-Qu'afin que le penser d'avoir pu vivre heureux,
-Accrût le désespoir de son coeur amoureux.
-Mais ce frère odieux à mon repos funeste,
-Ne vient-il pas m'ôter le seul bien qui me reste ?
-Ne vient-il pas encor mon trépas empêcher,
-Après m'avoir ravi ce qui me fut plus cher ?
-Hélas ! Si je lui dis que Blanche est vertueuse,
-N'est-ce pas augmenter son ardeur amoureuse ?
-Si je lui dis que Blanche ne l'est pas,
-N'est-ce pas offenser un Ange plein d'appas ?
-Et ne sera-ce point par une action lâche,
-À l'honnêteté même avoir fait une tache ?
-Ha ! N'offensons jamais cette Divinité,
-Et jusqu'au dernier jour disons la vérité.
-
-**** *book_ *id_V02 *act_V *date_1646
-
--*who_donblaize
 Que disiez-vous tout seul mon frère ?
 
--*who_donsanche
-      Que vous êtes
-Le plus heureux du monde en tout ce que vous faites.
-Et que le Ciel vous donne une chère moitié,
-Digne de votre choix, et de votre amitié.
-Mes plaintes, mes serments, mes prières, mes larmes
-Contre elle n'ont été que d'inutiles armes,
-N'ont fait que m'attirer les traits de son courroux.
-Et je n'espère pas de l'apaiser sans vous.
-Va-t'en m'a-t-elle dit de colère embrasée ;
-Va-t-en chercher ailleurs une conquête aisée ;
-Va-t'en corrompre ailleurs les innocents esprits,
-Et n'attend plus de moi que haine, et que mépris.
-
--*who_donblaize
 Ne me trompez-vous point mon dissimulé frère ?
 
--*who_donsanche
-Envoyez-la quérir de la part de son père,
-Et vous tenez caché quand elle passera,
-Vous verrez de quel air elle me parlera.
-
--*who_donblaize
 L'invention me plaît : ça, ça, que je me gîte.
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Va la quérir, va vite.
 J'y vais.
 
--*who_donsanche
-      Mortel eut-il jamais pire destin ?
-
--*who_donblaize
 À qui parlez-vous là ?
 
--*who_donsanche
-      Je parlais à Merlin.
-
--*who_donblaize
 Mais s'il arrive aussi que la Donzelle tarde ;
 Si Lizette hardie autant que babillarde
 De discours superflus me la va retenir,
 Je pourrai m'ennuyer.
 
--*who_donsanche
-      Je l'aperçois venir,
-Retire-toi Merlin !
-
-**** *book_ *id_V03 *act_V *date_1646
-
--*who_blanche
-      Ô Dieu ! Je vois Don Sanche.
-
--*who_donsanche
-Je vous obéirai, trop inhumaine Blanche !
-Vous n'aurez pas plutôt rendu mon frère heureux,
-Que j'exécuterai votre arrêt rigoureux :
-Oui, je contenterai votre cruelle envie,
-J'irai loin de vos yeux, les astres de ma vie :
-Mes véritables Dieux, mais des Dieux ennemis.
-Qui me vont tout ôter, et m'avaient tout promis.
-
--*who_donblaize
 Il la presse un peu trop le fripon, et je gage,
 Qu'après un autre assaut, la Dame n'est plus sage.
 
--*who_blanche
-Don Sanche ! Ô ma vertu que vais-je dire ici ?
-Qui vous oblige donc à nous quitter ainsi ?
-
--*who_donsanche
-Qui le sais mieux que vous trop cruelle personne !
-Qui le peut mieux savoir que celle qui l'ordonne ?
-
--*who_blanche
-Celle dont la rigueur vous afflige si fort,
-N'a guère moins que vous à se plaindre du sort.
-Elle n'empêche point, que Don Sanche n'espère,
-Elle le saura bien distinguer de son frère,
-Quand par un juste choix, d'où dépend son honneur,
-Sa bouche publiera ce que cache son coeur,
-Elle veut bien encor qu'il sache qu'une absence
-Peut nuire à ses desseins beaucoup plus qu'il ne pense,
-Nous nous verrons Don Sanche.
-
--*who_donsanche
-      Ô Dieu ! Tout est perdu.
-Blanche m'aime, et Don Blaize aura tout entendu.
-
--*who_donblaize
 Ha, ha petit cadet, vous l'avez débauchée,
 Cette jeune beauté de vertu non tachée,
 Ce riche don du Ciel, cette chère moitié,
@@ -2679,11 +574,6 @@ Qui vous a fait sentir les traits de son courroux ;
 Que vous n'espérez pas de rapaiser sans nous.
 Vous courez donc ainsi sur le marché d'un frère ?
 
--*who_donsanche
-Et ne m'avez-vous pas commandé de le faire ?
-De lui porter dans l'âme un sentiment d'amour ?
-
--*who_donblaize
 Et c'est dont je me plains, Godelureau de Cour !
 Je vous avais bien dit, de lui parler de flamme,
 Afin de découvrir ce qu'elle avait dans l'âme ;
@@ -2696,10 +586,6 @@ La plus laide guenon qui m'en dirait autant,
 Triompherait bientôt de notre continence.
 Ordugno !
 
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
       Va-t'en en diligence,
 Arrêter des chevaux, et les tiens prêts sans bruit,
 Je ne veux pas coucher à Madrid cette nuit :
@@ -2708,13 +594,6 @@ L'homme le plus fâcheux qui soit dans le Royaume
 Je lui rends sa parole, et je reprends aussi
 La mienne, et cela fait, éloignons-nous d'ici.
 
--*who_donsanche
-Je suis bien malheureux d'avoir fait pour vous plaire,
-Ce qu'un autre que vous ne m'eût jamais fait faire ;
-Et d'avoir réussi dans mon dessein si mal,
-Que vous me soupçonnez d'être votre Rival.
-
--*who_donblaize
 Si vous me dites vrai, la chose est pardonnable ;
 Mais vous l'avez rendue un peu trop vraisemblable.
 Car vous la cajoliez de si bonne façon,
@@ -2737,7 +616,431 @@ Allons chercher Don Cosme et cependant, cadet,
 Puisque je le permets, poussez votre bidet.
 J'ai d'étranges soupçons de ce cher petit frère.
 
--*who_donsanche
+Qu'en dites-vous cadet ? Blanche et vous, ce me semble
+Quoi qu'aimable tous deux, n'êtes pas bien ensemble.
+Ordugno !
+
+      Et c'est parler cela ;
+C'est comme il faut traiter un coquet Quinola,
+Ô la Maîtresse fille ! Et Porcie, et Lucrèce,
+Ne l'ont jamais value avecque leur prouesse :
+Lucrèce avec Tarquin se donna du bon temps,
+Et l'autre se brûla la gorge à contretemps.
+Dieu ! Qu'elle est raisonnable et qu'elle est forte en bouche,
+Celle que je croyais une sainte N'y touche.
+Ma foi je me marie au son de maint rebec,
+Et Don Sanche n'aura qu'à s'en torcher le bec,
+Je veux dès cette nuit avec grande énergie,
+Ébaucher en draps blancs ma généalogie ;
+Et cependant cadet, vous ferez là-dessus,
+Des stances, ou du moins des regrets superflus.
+
+      Ordugno !
+
+Je veux absolument qu'on batte mon tailleur,
+Mon habit est mal fait. Hé bien mon cher beau-père,
+Je ne suis plus d'avis que l'hymen se diffère.
+
+      Ceci serait plaisant.
+
+      Cet esprit malfaisant
+Sait parfaitement bien faire enrager le monde.
+Civil beau-père en qui toute douceur abonde,
+Expliquez-nous un peu vos desseins ambigus !
+Vous voulez une chose, et ne la voulez plus.
+Savez-vous, si l'hymen ne se fait dans une heure,
+Il ne sera pas de six mois, ou je meurs ?
+
+J'avais toujours bien dit que son grand sérieux
+Pourrait dégénérer à la fin en folie,
+Et je répète encor qu'il faudra qu'on le lie.
+
+      Sa nouvelle manie
+Me fait peur, où prend-il cet étrange Comté,
+Dont le nom sent si fort son esprit démonté ?
+
+Vous êtes fou Don Cosme, et de plus, fou fâcheux,
+Et de plus, incurable, et nous en serions deux,
+Si j'allais me fâcher de vos folles boutades,
+Que je veux désormais recevoir en gambades.
+
+      Oui-da :
+Mais je ne connais point la dame d'Alcalca.
+J'écrivis cette lettre à votre fille Blanche,
+Je l'avais adressée à mon frère Don Sanche.
+C'est toi qui la portas Merlin ?
+
+Ha voici ma Maîtresse, et mon cadet. Mon frère !
+Et vous Blanche, venez songez à votre père.
+
+La Dame est assez belle.
+
+Et qu'est-ce qu'elle a donc à s'affliger ainsi ?
+Et celui qui la mène, et sa suivante aussi.
+
+      S'ils pleurent davantage,
+Il faudra bien aussi humecter son visage.
+Peste soit des pleureurs.
+
+Belle qui pleureux tant, inconnue à mes yeux,
+Voudriez-vous pleurer moins, ou vous expliquer mieux ?
+
+Haye, Haye, Haye, Ordugno ! Mon cher frère ! Merlin
+Venez me délivrer de cet esprit malin.
+
+      Seigneur en qui j'espère ?
+N'était-ce pas assez de ce maudit beau-père,
+Sans lâcher contre moi la Dame d'Angola ?
+
+D'Angola, d'Alcalca, Malacca, que m'importe
+De bien dire son nom, que le Diable m'emporte,
+Si je t'ai jamais vue, et si je crois jamais
+Te voir.
+
+      Ha cher beau-père !
+De bon coeur. Venez donc ma belle.
+
+Et vous y consentez ?
+
+Et vous Don Cosme ?
+
+Je le veux.
+
+      Grand dieu que je réclame,
+Est-ce pour mes péchés, que je suis à Madrid !
+
+      Ha diantre ! Elle est trop belle,
+Et c'est pour cela seul que je ne veux point d'elle.
+Mon front serait gâté s'il devenait cornu,
+Et je n'épouse point de visage inconnu.
+Don Blaize, il faut quitter cette maudite terre,
+Où tout le genre humain me déclare la guerre ;
+Où l'on voit tant de fous ; où l'on force les gens
+Au fâcheux joug d'hymen, même malgré leurs dents.
+Don Cosme pour t'avoir ma maudite promesse,
+Et pour n'épouser pas ta fille, ou ta Comtesse,
+Un dangereux dragon, qui m'a pris au gosier,
+Et qui me dérobant certain portrait hier,
+M'égratigna les mains (je reconnais sa taille,)
+Et je gagerais bien, que ce n'est rien qui vaille :
+Pour m'en délivrer donc, et partir à l'instant,
+Je veux bien qu'il m'en coûte un peu d'argent comptant.
+
+Et pour me délivrer de mon faquin de frère,
+Je veux le partager, même grossir son fait,
+Ainsi je me verrai sans femme et sans cadet.
+
+Plus que vous n'en donnez à votre fille Blanche,
+Et pour ne vous voir plus, Comtesse d'Alcalca,
+Apprenez que j'irais plus loin que Malacca.
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
+
+      Tu dis donc, que mon frère est venu ?
+
+Comment se porte-t-il ?
+
+La femme qu'il prendra, doit bien se préparer
+À mal passer son temps, et beaucoup endurer.
+J'avais comme tu vois aujourd'hui pris la botte,
+Pour aller au-devant de ce franc Don Quichotte.
+
+Que les Pères ont tort de tenir leurs enfants,
+Éloignés de la Cour, à se rouiller aux champs.
+
+      Gardez-les ; qu'ai-je à faire,
+De lire les fatras d'un impertinent frère ?
+Puisqu'il est dans Madrid, et que je le vais voir ;
+Mais dis-tu vrai Merlin, que tu n'as pu savoir
+Le nom, ni le logis de sa femme future ?
+
+Stéfanie ?
+
+      Elles vont assez bien ;
+Car elle me caresse, et ne demande rien.
+
+      Je la vais voir, parce que sa demeure
+Est proche de la mienne, et qu'on m'ouvre à toute heure ;
+Et l'on m'y voit souvent n'ayant que faire ailleurs,
+Et manque aussi d'avoir des passe-temps meilleurs ;
+J'y demeure parfois pour changer moins de place ;
+J'en sors pour en changer, quand la mienne me lasse ;
+J'y rêvai par coutume, et jamais par amour ;
+Ma paresse souvent m'y retient tout un jour.
+Quand j'y rêve, elle croit, comme elle est vaine et belle,
+Que je ne puis rêver pour autre que pour elle,
+Et lorsque je me tais par taciturnité,
+Que c'est par le respect que j'ai pour sa beauté.
+Je lui dis des douceurs, qui ne me coûtent guère,
+Et souvent je me plais de lui rompre en visière
+Pour diversifier la conversation,
+Ou faisant le jaloux par ostentation,
+J'ai le plaisir de voir comment elle s'efforce,
+D'apaiser un amant, qui parle de divorce.
+Je paye ses faveurs de vers bien ou mal faits
+Et nous aimons ainsi tous deux à peu de frais.
+Juge si mon amour me rend fort misérable.
+
+      Oui Merlin, non pas ma qualité,
+Non plus que mon pays : mais elle s'imagine
+Que je suis pour le moins de Royale origine.
+Un infant d'Aragon, ou bien de Portugal ;
+Car cette Portugaise, un franc original,
+Ne reçoit dans ses fers que des gens de la sorte,
+À tous autres galants elle ferme la porte,
+Elle en souffre parfois par maxime d'État,
+Ou pour rendre jaloux quelque gros Potentat,
+Ou bien pour faire voir qu'à ses yeux rien n'échappe
+Et qu'indifféremment tout le monde elle attrape.
+
+À cela près, elle est aimable ; a l'esprit beau,
+Et mille en cette Cour avecque moins de charmes,
+Se font rendre tribut de soupirs, et de larmes.
+
+Mais, nous avons manqué, dont j'ai bien du souci,
+Cette jeune beauté que nous avions suivie,
+Pour la revoir encor, si tu chéris ma vie,
+Avançons jusqu'au pont.
+
+Viens. Qu'importe ?
+
+      Après vous avoir vue,
+De tant de dons du Ciel si richement pourvue,
+Je ne puis m'empêcher de revoir vos beaux yeux
+Pour leur offrir encor mon coeur comme à mes Dieux.
+Déjà de leurs regards la menace sévère
+Fait craindre à mon amour leur injuste colère ;
+Leur dédain redoutable est prêt de châtier,
+Un crime que ma mort seule peut expier ;
+Mais que leur cruauté contre moi tout emploie ;
+Tout supplice m'est doux pourvu que je les voie.
+
+Je venais m'informer de l'état où vous êtes.
+
+Vous ne m'avez rien du, dont vous ne soyez quitte,
+Mais j'ai cru vous devoir au moins une visite,
+Ou plutôt je l'ai cru devoir à mon repos,
+Puisque éloigné de vous j'endure mille maux.
+
+Si c'était l'offenser que l'aimer, ardemment,
+Elle m'aurait traité trop peu cruellement ;
+Mais si c'est de l'amour que les Dieux nous demandent,
+Si c'est par nos respects, qu'à nos voeux ils se rendent
+Doit elle recevoir d'un oeil si rigoureux,
+Et mes respects soumis, et mes soins amoureux ?
+
+      Ô Dieu qu'elle est sévère !
+
+Hélas ! Il est mon frère, et de plus mon aîné.
+
+      Et de plus, c'est le dernier des hommes.
+
+Ni moi de l'éprouver si fière, et si cruelle.
+
+Le fantasque qu'il est m'aurait pris en défaut,
+S'il n'eût ainsi parlé de sa lettre tout haut ;
+Mais je puis maintenant dire que je l'ai lue.
+Quoique à vrai dire son valet l'ait perdue.
+
+Si cet extravagant cherche partout ainsi,
+Il ne faut point douter qu'il ne me trouve ici,
+Mais je me puis sauver tandis qu'il ne voit goutte.
+
+      Qui va-là toi-même !
+
+      Je suis homme vivant, et tel,
+Que pour avoir osé profaner la demeure
+Et l'honneur d'un Marquis, je t'étrangle sur l'heure.
+
+      J'y cherche à t'y punir.
+
+Ha, mon frère ! Est-ce vous ? À la voix d'Ordugno,
+Je vous ai reconnu.
+
+      À dessein de vous plaire.
+
+Vous me l'aviez écrit.
+
+Je n'ai point eu dessein que de vous obéir.
+
+Votre lettre en mes mains, ne fut pas plutôt mise,
+Qu'afin d'exécuter vos ordres sans remise,
+J'entrai dans ce logis.
+
+      Je suis bien empêché.
+
+Je priai, je promis, je gagnai sa suivante,
+Feignant pour sa Maîtresse une amour violente,
+
+Il va tout découvrir, ô la sotte défaite
+Dont je me suis servi !
+
+Le désir de savoir le secret d'une affaire,
+Où notre honneur commun peut-être intéressé
+En est cause.
+
+Qu'avez-vous donc appris ?
+
+Ce Mari curieux, qu'on nomme impertinent,
+N'en a jamais tant fait.
+
+Mais que peut-on penser d'un homme qui s'ingère
+D'aimer une beauté destinée à son frère ?
+Et quelle opinion aurait-elle de moi ?
+Qui ferait un tel crime.
+
+Je ne l'ai jamais vue.
+
+      J'irai bien.
+
+La belle occasion que m'offre ce brutal !
+
+      Que je suis prêt de faire
+Tout ce qu'il vous plaira.
+
+      Tu le sauras devant que la nuit passe,
+D'où viens-tu toi ?
+
+Je voudrais de bon coeur qu'elle l'eut enlevé.
+
+Plût à Dieu que ses yeux fissent un même effet
+Sur ce cher frère aîné, qui serait bien son fait,
+Et que d'elle amoureux, il me cédât mon ange.
+
+À peine croiras-tu Merlin ! Par quelle voie,
+Un espoir surprenant ressuscite ma joie.
+
+Aussi jaloux que fou, mon frère tout de bon,
+Veut que... mais quelqu'un vient ; je te dirai le reste
+Tantôt.
+
+      Et pourquoi ?
+
+      Le Marquis est en ville
+À l'heure que je parle.
+
+      C'est une affaire à part.
+Vous saurez seulement, que Don Blaize, et Don Sanche
+Sont fort bien. Que ne suis-je aussi bien avec Blanche ?
+
+Sait-elle que je suis le déplorable frère
+Du trop heureux Marquis ?
+
+Merlin ! On a sifflé. C'est mon frère va vite
+Ouvrir la porte.
+
+Ne m'abandonnez pas au besoin.
+
+Qu'avez-vous ?
+
+Vous me surprenez fort.
+
+Et qui ?
+
+On peut aller après.
+
+Ô destin ! Ô amour ! Ô toute aimable Blanche !
+Pourrez-vous rendre heureux un autre que dom Sanche !
+
+      Ouvre vite, Lizette.
+
+Puisqu'il vous presse tant, c'est un fort mauvais signe.
+
+Je ne puis plus tenir contre tant de tourment.
+Ou vous serez bientôt de mes larmes fléchie,
+Ou bien votre orgueil verra finir ma vie.
+
+Ne la retenez pas point cette juste colère,
+Perdez un misérable ; aimez son heureux frère.
+Avancez mon trépas par vos dédains cruels,
+J'en sortirai plutôt de mes maux éternels.
+
+      J'y cours.
+
+Ô Amour ! Si l'hymen par là ne se fait pas.
+
+Tout est perdu pour moi, puisque Blanche est perdue,
+Ne m'en parlez donc plus, ma mort est résolue.
+
+Je suis ce que tu dis : mon frère est méprisable ;
+Mais mon frère est heureux, et je suis misérable,
+Et pour faire fortune en l'empire amoureux,
+Il faut être à la fois aimable, et bien heureux.
+Blanche m'a foudroyé des traits de sa colère ;
+Blanche sera bientôt dans les bras de mon frère.
+Quand d'un bien d'où dépend notre félicité,
+Par haine, ou par mépris l'espoir nous est ôté,
+Les timides conseils ne sont plus bons à suivre,
+Qui n'a pu plaire à Blanche, est indigne de vivre.
+Contentons sa rigueur, et délivrons ses yeux
+D'un Esclave inutile aussi bien qu'odieux.
+
+      Il n'est rien tel pour toi ?
+Mais la vie est à charge aux amants comme à moi,
+Que l'amour n'a flatté d'une vaine espérance,
+N'a trompé par l'éclat d'une belle apparence,
+Qu'afin que le penser d'avoir pu vivre heureux,
+Accrût le désespoir de son coeur amoureux.
+Mais ce frère odieux à mon repos funeste,
+Ne vient-il pas m'ôter le seul bien qui me reste ?
+Ne vient-il pas encor mon trépas empêcher,
+Après m'avoir ravi ce qui me fut plus cher ?
+Hélas ! Si je lui dis que Blanche est vertueuse,
+N'est-ce pas augmenter son ardeur amoureuse ?
+Si je lui dis que Blanche ne l'est pas,
+N'est-ce pas offenser un Ange plein d'appas ?
+Et ne sera-ce point par une action lâche,
+À l'honnêteté même avoir fait une tache ?
+Ha ! N'offensons jamais cette Divinité,
+Et jusqu'au dernier jour disons la vérité.
+
+      Que vous êtes
+Le plus heureux du monde en tout ce que vous faites.
+Et que le Ciel vous donne une chère moitié,
+Digne de votre choix, et de votre amitié.
+Mes plaintes, mes serments, mes prières, mes larmes
+Contre elle n'ont été que d'inutiles armes,
+N'ont fait que m'attirer les traits de son courroux.
+Et je n'espère pas de l'apaiser sans vous.
+Va-t'en m'a-t-elle dit de colère embrasée ;
+Va-t-en chercher ailleurs une conquête aisée ;
+Va-t'en corrompre ailleurs les innocents esprits,
+Et n'attend plus de moi que haine, et que mépris.
+
+Envoyez-la quérir de la part de son père,
+Et vous tenez caché quand elle passera,
+Vous verrez de quel air elle me parlera.
+
+      Mortel eut-il jamais pire destin ?
+
+      Je parlais à Merlin.
+
+      Je l'aperçois venir,
+Retire-toi Merlin !
+
+Je vous obéirai, trop inhumaine Blanche !
+Vous n'aurez pas plutôt rendu mon frère heureux,
+Que j'exécuterai votre arrêt rigoureux :
+Oui, je contenterai votre cruelle envie,
+J'irai loin de vos yeux, les astres de ma vie :
+Mes véritables Dieux, mais des Dieux ennemis.
+Qui me vont tout ôter, et m'avaient tout promis.
+
+Qui le sais mieux que vous trop cruelle personne !
+Qui le peut mieux savoir que celle qui l'ordonne ?
+
+      Ô Dieu ! Tout est perdu.
+Blanche m'aime, et Don Blaize aura tout entendu.
+
+Et ne m'avez-vous pas commandé de le faire ?
+De lui porter dans l'âme un sentiment d'amour ?
+
+Je suis bien malheureux d'avoir fait pour vous plaire,
+Ce qu'un autre que vous ne m'eût jamais fait faire ;
+Et d'avoir réussi dans mon dessein si mal,
+Que vous me soupçonnez d'être votre Rival.
+
 Blanche approuve ma flamme, et veut bien que j'espère.
 Quel plaisir est pareil à celui d'un amant
 Qui reçoit de son Ange un tel consentement ?
@@ -2748,9 +1051,464 @@ Vous voulez donc encor différer mon trépas ?
 Et satisfaire enfin d'une injuste souffrance,
 Vous me permettez donc d'avoir de l'espérance,
 
-**** *book_ *id_V04 *act_V *date_1646
+Ce froid bouffon vient-il m'importuner encore ?
+Ô Blanche ! Vous aimer, est-ce un juste sujet
+De me désespérer, comme vous avez fait ?
+Et que puis-je penser d'une fille inconstante ?
+Qui tantôt rigoureuse, et tantôt obligeante,
+Prend en moins d'un moment deux sentiments divers,
+M'élève sur le trône, et me met dans les fers.
+Ha Lizette...
 
--*who_blanche
+Vous m'abandonnez donc ô fille trop cruelle ?
+
+Moi Lizette ?
+
+Il est vrai, ce les sont ; mais voulez-vous m'entendre ?
+
+      Si je crois les avoir offensés
+Ces yeux injustement contre moi courroucés ;
+Que puissé-je à jamais leur être détestable,
+Si je ne vous fais pas un récit véritable,
+Et si vous n'avouez que je n'ai point de tort,
+Que puissé-je tomber à vos pieds raide mort.
+
+      Et c'est la Portugaise.
+Merlin !
+
+Tant mieux ami Merlin ?
+
+      Non mon frère,
+Blanche n'est plus à vous, Blanche n'est plus qu'à moi,
+En matière d'amour nul ne me fait la loi.
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncosme
+
+      Hé bien ! Votre accident,
+De la faveur du Ciel est un signe évident.
+
+L'on m'a de point en point conté ce grand malheur,
+Dont je vous voie sauvée, et quitte pour la peur.
+Comment vous portez-vous ?
+
+      Que demandez-vous ?
+
+On n'en a pas besoin.
+
+Comment s'appelle-t-il ?
+
+Marquis de la Victoire ?
+
+      C'est mon gendre.
+Est-il ici ?
+
+      Et me veut-il surprendre ?
+Que ne m'écrivait-il qu'il venait et pourquoi,
+A-t-il voulu descendre autre part que chez moi ?
+
+Tu sais où le trouver ?
+
+      C'est assez.
+Ajustez-vous ma fille, et vous réjouissez,
+Je prétends dès ce soir achever votre noce.
+Qu'on mette vivement les chevaux au carrosse.
+Lizette, et vous ma fille obtenez dessus vous,
+De paraître plus gaie aux yeux de votre époux.
+
+      Monsieur, vous commandez ici
+Comme Maître absolu.
+
+      Avec le temps
+La Cour pourra changer le style, et l'air des champs.
+
+Ne trouvez-vous pas bon, Monsieur, que j'aille faire
+Préparer une chambre à Monsieur votre frère ?
+Car je ne prends pas qu'il loge hors de chez moi.
+
+Et pourquoi ?
+
+On ne saurait faillir par trop de prévoyance.
+
+Et je soutiens aussi qu'une semblable affaire
+Se hasarde beaucoup, alors qu'on la diffère.
+
+Il faut donc différer, je ne conteste plus ;
+Mais bals, festins, tournois sont des frais superflus,
+À la cour aujourd'hui, l'on ne s'en pique guère,
+Il n'est donc pas besoin pour cela qu'on diffère.
+
+Je ne refuse rien.
+
+Ha non.
+
+      Je ne veux faire
+Que ce que vous voudrez.
+
+Mais si nous différons, qu'est-ce que l'on dira ?
+
+Je ne puis différer.
+
+Je ne puis différer.
+
+Je ne puis différer.
+
+      Je ne puis différer.
+
+Je ne puis différer.
+
+Je ne puis différer.
+
+Tous les gens comme lui n'en font-ils pas de même ?
+Étant en Portugal, par un bonheur extrême,
+Je pus gagner le coeur d'une jeune beauté,
+Aimable pour l'esprit, riche, et de qualité.
+Je déguisé mon nom, à cause qu'en Castille
+J'avais l'inimitié de toute une famille,
+Pour avoir fait périr à mes pieds un Rival,
+Dont la mort me retint deux ans au Portugal.
+Cette belle avait nom Elvire de Pacheque,
+Moi, j'avais pris celui de Don Juan Palomeque,
+Nous nous aimions tous deux avecque passion,
+Mais ayant obtenu mon abolition,
+Je sortis de Lisbonne, et revins en Castille.
+Laissant vire en pleurs, et grosse d'une fille.
+Je devais retourner l'épouser ; mais la Cour
+Bannit de mon esprit Elvire et mon amour.
+À quelque temps de là, j'épousai votre mère.
+
+Le voici qui revient.
+
+Je suis à vous.
+
+Je n'eusse pas usé de paroles pareilles,
+Pour peu que j'eusse cru vous blesser les oreilles.
+Je ne ferai jamais que ce que vous voudrez.
+
+Mais Monsieur, vous disiez tantôt, ou je me trompe,
+Que vous haïssiez fort le vain luxe, et la pompe,
+Et ce qui peut passer pour superfluité :
+À quelque bourgeois riche, et né sans qualité,
+On pourrait pardonner une folle dépense ;
+Mais elle est condamnée en l'homme de naissance.
+
+      Et quelles gens peut-ce être,
+Qui se cachent chez moi sans se faire connaître !
+
+      Et je vous le demande.
+Qui le sais mieux que vous ?
+
+      Il en use à son aise.
+Je n'ai jamais été choqué si rudement,
+J'en suis quasi tombé par terre lourdement.
+Mais le savez-vous bien ?
+
+Ha ! C'est nous mépriser d'une insolence extrême,
+Je me plains justement de votre procédé,
+Don Blaize.
+
+Il n'entre point chez moi de semblable gibier,
+C'est me faire une offense, et c'est me décrier.
+
+Vous manquer de respect à ma fille.
+
+Que lorsque vous aurez un légitime empire
+Sur Blanche, qu'elle aura bien souvent à souffrir
+De pareils déplaisirs.
+
+      J'ai de votre disgrâce
+Beaucoup de déplaisir, et suis fort étonné,
+De l'important avis que vous m'avez donné.
+
+Donnez.
+
+C'est une lettre écrite en termes fort plaisants.
+Il veut qu'elle ait, dit-il, force d'une promesse,
+J'y reconnais sa main partout, fors dans l'adresse.
+Vous vous appelez donc Comtesse d'Alcalca ?
+
+Il faut que le Marquis soit un très méchant homme,
+Oui bien que vous soyez plus méchante que lui :
+Quant à sa lettre, elle est pour vous de peu d'appui,
+J'y vois des nullités qui sont peu recevables.
+Vous avez deux enfants ?
+
+      Vous aurez à faire de grands frais
+Contre un homme puissant.
+
+Homme de qualité ?
+
+Et s'appelle ?
+
+      Est-ce moi ?
+Bons Dieux ! Et votre mère ?
+
+Ha ma fille ! Je suis ce Don Juan Palomeque.
+Qui déguisais mon nom dans Lisbonne, ô bon Dieu !
+Que je reçois de joie à vous voir en ce lieu,
+Et que je suis fâché, de vous voir de la sorte :
+Mais apprenez-moi donc, comment elle se porte,
+Cette aimable beauté, de qui l'oeil mon vainqueur,
+Malgré l'éloignement, règne encor dans mon coeur.
+
+Sa perte m'est sensible avec juste raison ;
+Mais ici les regrets ne sont pas de saison.
+Travaillons maintenant comme au plus nécessaire,
+À vous tirer de peine, aussi bien que d'affaire.
+
+Mettez-vous en repos, votre honneur est le mien,
+Je ne suis pas d'avis qu'on vous fasse paraître,
+Qu'on ne soit éclairci du dessein de ce traître ;
+Entrez donc dans ma chambre.
+
+Et moi j'en suis d'avis.
+
+Il est pourtant ainsi.
+
+Si vous disiez jamais, je vous en croirais mieux.
+
+Don Blaize il n'est plus temps de vous rien déguiser,
+Vous êtes découvert ; c'est pourquoi sans ruser,
+Achever votre hymen avecque Stéfanie
+Comtesse d'Alcalca.
+
+Ma fille est votre femme, elle a votre promesse,
+Et de plus, deux enfants, de plus elle est Comtesse.
+
+Reconnaissez-vous bien cette écriture ?
+
+Sortez, sortez, Madame ; il n'est plus de saison
+De ménager l'esprit d'un homme sans raison.
+
+      Don Blaize, vous voyez,
+Que je ne suis pas fou, comme vous le croyez.
+Pouvez-vous bien trahir cet objet plein de charmes ?
+
+Ils me font grand pitié.
+
+      Ha ma fille ! Vos pleurs,
+Au lieu de vous servir, aigrissent vos douleurs.
+
+      Vous ne pouvez refuser désormais
+D'épouser en public ma fille.
+
+      Et moi je vous dirai qu'il faut
+Que vous donniez la main à ma fille au plutôt.
+
+      Mais ma fille est cette belle Dame
+Comtesse d'Alcalca.
+
+Mais peut-on contester contre son propre écrit,
+Ma fille étant bien faite ?
+
+Il le faut prendre au mot, vous ne sauriez mieux faire.
+
+Je veux savoir quel bien, vous donnez à Don Sanche.
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
+
+Notre libérateur me vit-il de la sorte ?
+
+Comment se trouva-t-il en ce lieu solitaire,
+Ce jeune cavalier, cet ange tutélaire ?
+
+Qu'il me parut civil ! Qu'il est bien fait, Lizette ?
+
+Comme j'étais Lizette ?
+
+Mais de cet accident, qui fut donc l'origine ?
+
+Folle plains-moi plutôt, et ne me raille point.
+Le plaisir qu'on m'a fait, m'inquiète à tel point,
+Par la crainte que j'ai de ne le pouvoir rendre,
+Que de m'en attrister je ne me puis défendre.
+
+Amour ? Moi ?
+
+Non : mais j'ai de l'honneur.
+
+Quand j'aurais répugnance à vivre sous ses lois,
+Une fille prend-elle un Époux à son choix ?
+N'attends-je pas le mien aujourd'hui ?
+
+Si mon père me donne un Époux odieux,
+Pour de mieux faits que lui je fermerai les yeux.
+
+Je réglerai la mienne, et prendrai patience.
+
+Le Ciel ne sera pas pour moi si rigoureux :
+Mais quand il serait tel que le fait ta peinture,
+L'ennemi du bon sens, l'horreur de la nature,
+Un injuste tyran, de son ombre jaloux,
+Pour l'aimer, il suffit qu'il serait mon époux.
+
+      Ha Lizette ! Il faudrait être heureuse.
+
+Tais-toi, je vois mon père.
+
+Si vous saviez Monsieur, par quel bonheur étrange
+Sans le secours d'un homme, ou plutôt d'un bon Ange...
+
+      De ma peur étourdie,
+Je me sens faible encor ; mais c'est sans maladie.
+
+Mon ami ! Je vous trouve à mentir bien hardi.
+Vous feriez soupçonner surpris comme vous êtes,
+Qu'il se passe entre nous des affaires secrètes.
+Monsieur, c'est le valet, ou je me trompe fort,
+Du Cavalier sans qui vous pleureriez ma mort ?
+
+Notre aventure hélas ! m'a bien moins étonnée,
+Que ne fait le penser de mon proche Hyménée.
+
+Ô Dieu ! Que vois-je encore ?
+
+Quand mon père m'amène un Époux que j'attends,
+Me venir voir encor, c'est mal prendre son temps.
+
+Si vous saviez Monsieur, la peur que vous me faites,
+Ou plutôt à quel mal vous m'exposez ici,
+Vous ne me viendriez pas rendre visite ainsi.
+Il est vrai, je vous dois la vie, et je le confesse,
+Que mon coeur généreux me le redit sans cesse ;
+Mais dans le même temps qu'il m'apprend mon devoir,
+Il m'avertit aussi que j'ai tort de vous voir.
+
+Bien que j'aye pour vous toute sorte d'estime,
+Je ne puis plus longtemps vous écouter sans crime,
+Vous revoir, c'est manquer à ce que je me dois,
+Et peu faire pour vous ; mais beaucoup contre moi.
+Emmenez-le Lizette.
+
+Lizette ! Hâte-toi, veux-tu donc que mon père
+Le trouve ?
+
+Lizette ! Quel malheur !
+
+      Ha tais-toi donc, Lizette !
+
+Quand bien on m'offrirait ce qui ne se peut pas,
+Un Époux plus que vous à mes yeux plein d'appas
+Et dont la qualité fût plus considérable,
+Ce qui n'est pas possible, encore moins croyable ;
+Quand au lieu de Marquis, vous seriez un grand Roi,
+Le pouvoir qu'a mon père a toujours eu sur moi,
+Qui n'ai jamais songé qu'à l'aimer, à lui plaire,
+M'aurait fait consentir au bon choix de mon père,
+Ainsi pour deux raisons j'aime un si digne Époux,
+Et parce qu'il le veut, et parce que c'est vous.
+
+Ha Lizette !
+
+Ha ! Ne m'en parle point qu'avec respect Lizette,
+Je te l'ai déjà dit, encor qu'il me maltraite,
+Quelques cruels tourments qu'il me fasse endurer,
+Il ne m'est pas permis même d'en murmurer.
+Fais vitement sortir ce cavalier. Je tremble
+Que quelqu'un du logis ne vous rencontre ensemble ;
+Dis-lui que je l'estime autant que je le dois,
+Et que de l'Action qu'il a faite pour moi,
+La mémoire en mon coeur par le devoir tracée,
+Par la longueur du temps ne peut être effacée ;
+Et que je n'aurais pas refusé de le voir,
+Si je l'avais pu faire, et suivre mon devoir.
+
+Il ne savait donc pas mon futur Hyménée
+Et qu'à son frère aîné l'on m'avait destinée ?
+
+      Son frère est ce qu'il est,
+Puisqu'il est approuvé par mon père, il me plaît,
+Mais j'entends un carrosse.
+
+      Est-ce pour moi ?
+
+Je n'attendais pas moins d'un visage si doux,
+Que des civilités et des cajoleries.
+
+      Trêve de railleries.
+
+Apprenez-moi plutôt ce que vous me voulez.
+De vous pouvoir servir, je me tiendrais heureuse.
+
+      Ce langage m'étonne.
+Savez-vous qui je suis ?
+
+Je l'avoue.
+
+      Ha taisez-vous,
+Ne venez point ici décrier mon époux.
+
+      Au moins il le doit être.
+
+Ces discours surprenants, et pleins d'obscurité,
+M'empêchent de répondre à vos civilités.
+
+Mon estime et mon coeur ne sont pas moins à vous :
+Mais si vos intérêts sont communs, entre nous,
+Contentez le désir, que j'ai de les apprendre.
+
+Ne craignez rien Madame, et parler seulement.
+
+Je ne lui cache rien.
+
+Oui : mais elle a le don de garder un secret.
+
+Et qui vous l'a donné ?
+
+Mais pourquoi le Marquis l'a-t-il mis dans vos mains ?
+
+      Aujourd'hui.
+
+Dès longtemps.
+
+      Puisque tout s'y dispose,
+Que mon père le veut, que j'en ai convenu ;
+Et que c'est pour cela que Don Blaize est venu.
+Qui l'en peut empêcher ?
+
+Si mon coeur vous pouvait aussi bien que ma bouche,
+Témoigner à quel point votre malheur me touche,
+Vous ne douteriez pas de la juste douleur,
+Que me fait ressentir votre cruel malheur.
+
+      Quoi donc ?
+
+Qui ?
+
+On peut bien différer les noces pour un temps,
+J'ai reçu là-dessus des avis importants.
+
+Ce n'est pas sans raison que je vous dis, mon père,
+Que vous devez aussi souhaiter qu'on diffère.
+Je sais que le Marquis aime depuis deux ans,
+Une Dame, et de plus qu'il en a deux enfants.
+
+Êtes-vous furieux, Don Sanche, et croyez-vous,
+Que je puisse longtemps retenir mon courroux ?
+
+Monsieur, c'est cette Dame, Épouse de Don Blaize,
+Dont il a des enfants.
+
+      Oui Monsieur, c'est la même.
+
+Mon père a grand sujet de trouver fort étrange.
+
+      Ô Dieu ! Je vois Don Sanche.
+
+Don Sanche ! Ô ma vertu que vais-je dire ici ?
+Qui vous oblige donc à nous quitter ainsi ?
+
+Celle dont la rigueur vous afflige si fort,
+N'a guère moins que vous à se plaindre du sort.
+Elle n'empêche point, que Don Sanche n'espère,
+Elle le saura bien distinguer de son frère,
+Quand par un juste choix, d'où dépend son honneur,
+Sa bouche publiera ce que cache son coeur,
+Elle veut bien encor qu'il sache qu'une absence
+Peut nuire à ses desseins beaucoup plus qu'il ne pense,
+Nous nous verrons Don Sanche.
+
 Oses-tu bien tenir de semblables discours
 À qui te voudrait voir à la fin de tes jours ?
 Oses-tu m'éprouver par de lâches atteintes,
@@ -2774,61 +1532,236 @@ Qu'il ne serait jamais à ton amour sensible.
 Sache qu'il chérira ton frère tendrement,
 Et qu'il te haïra toujours mortellement.
 
--*who_donblaize
-Qu'en dites-vous cadet ? Blanche et vous, ce me semble
-Quoi qu'aimable tous deux, n'êtes pas bien ensemble.
-Ordugno !
+      Que mon père y consente,
+Et je m'estime heureuse, honorée et contente.
 
--*who_ordugno
-      Monseigneur ?
 
--*who_donblaize
-      Et c'est parler cela ;
-C'est comme il faut traiter un coquet Quinola,
-Ô la Maîtresse fille ! Et Porcie, et Lucrèce,
-Ne l'ont jamais value avecque leur prouesse :
-Lucrèce avec Tarquin se donna du bon temps,
-Et l'autre se brûla la gorge à contretemps.
-Dieu ! Qu'elle est raisonnable et qu'elle est forte en bouche,
-Celle que je croyais une sainte N'y touche.
-Ma foi je me marie au son de maint rebec,
-Et Don Sanche n'aura qu'à s'en torcher le bec,
-Je veux dès cette nuit avec grande énergie,
-Ébaucher en draps blancs ma généalogie ;
-Et cependant cadet, vous ferez là-dessus,
-Des stances, ou du moins des regrets superflus.
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
--*who_merlin
-Que Don Sanche est heureux ! Sa Maîtresse l'adore.
+Pour moi quand vos chevaux s'emporteront si fort,
+Je dis mon in manus, et j'attendis la mort.
+Si je ne l'avais vu, je croirais impossible
+Que la peur fît en nous un effet si terrible ;
+Car vous chutes sur moi, sans pouls, sans sentiment,
+Et j'en suis pâle encor d'y songer seulement.
 
--*who_donsanche
-Ce froid bouffon vient-il m'importuner encore ?
-Ô Blanche ! Vous aimer, est-ce un juste sujet
-De me désespérer, comme vous avez fait ?
-Et que puis-je penser d'une fille inconstante ?
-Qui tantôt rigoureuse, et tantôt obligeante,
-Prend en moins d'un moment deux sentiments divers,
-M'élève sur le trône, et me met dans les fers.
-Ha Lizette...
+Et craignit comme moi que vous ne fussiez morte.
+Pourquoi garder aussi des chevaux si fringants ?
+Et des chiens de cochers tous les jours s'enivrant ?
 
-**** *book_ *id_V05 *act_V *date_1646
+Je ne sais pas comment, mais je bénirai Dieu,
+Qui nous le fit trouver à telle heure, en tel lieu.
 
--*who_lisette
+Je croirais bien aussi qu'il vous trouva bien faite.
+
+      Oui, comme vous étiez
+Toute pâle, à ses yeux autant vous éclatiez,
+Qu'il éclatait alors aux vôtres par sa mine.
+
+Votre malheur, le mien, un bourreau de cocher
+Toujours saoul, des laquais qu'il faudrait écorcher,
+Écoutez comme quoi nous l'échappâmes belle,
+Dont, ma foi, nous devons une belle chandelle.
+Nous passions sur le pont, sans beaucoup nous hâter,
+Et sans avoir dessein de nous précipiter.
+Votre cocher était comme vous savez ivre,
+Et vos laquais s'étaient dispensés de vous suivre.
+Nous regardions les eaux du clair Mansanarez,
+Quand un chien, l'on eût dit qu'il l'eût fait tout exprès,
+Fit peur à vos chevaux, dont l'ivrogne de guide
+Accablé de sommeil ne tenait plus la bride.
+Du chien effarouchés, ils galopaient fougueux,
+Vers où le bord du fleuve à voir même est affreux,
+Lorsque ce Cavalier, ou plutôt ce bon Ange
+Vola vers vos chevaux d'une vitesse étrange,
+Et coupa leur harnois de son acier tranchant,
+Sur le point qu'ils s'allaient jeter dans le penchant.
+Nous étions cependant, vous, dans mes bras pâmée,
+Moi, de vous voir ainsi toute à fait alarmée.
+Vous revîntes après votre pâmoison,
+Et lors vos yeux ingrats par grande trahison,
+Firent au Cavalier une amoureuse plaie.
+Voilà de l'accident la relation vraie.
+
+Je crois cette tristesse une naissante amour,
+Qui paraît dans vos yeux claire comme le jour.
+
+      Vous ? Amour ? Êtes-vous une souche ?
+
+      Qui vous rend bien farouche.
+
+      Mais Madame !
+S'il est mal fait de corps aussi bien que de l'âme ?
+
+Si quelque amour secret l'oblige à la dépense ?
+
+S'il est jaloux, avare, impertinent, railleur ?
+S'il est fâcheux, malpropre, ivrogne, ou grand parleur ?
+S'il est joueur, s'il perd ses terres et les vôtres ?
+Si cagot, pour et nuit il dit ses patenôtres ?
+S'il est chauve, gaucher, rousseau, louche, ou cagneux ?
+
+Madame, si l'Époux que le ciel vous destine,
+A de ce Cavalier le visage et la mine,
+S'il est d'esprit, de biens et de vertus pourvu.
+On peut tout espérer devant que l'avoir vu.
+Que sait-on ?
+
+Ha ! Madame, ma foi vous êtes amoureuse.
+
+      Peste de l'étourdi.
+
+Je ne suis pas à lui ; mais je suis à son frère.
+
+      Ha Madame !
+Vous allez donc bientôt être Marquise, et femme ?
+
+Passer de fille à femme est sans doute un grand saut ;
+Mais quelque grand qu'il soit, on le franchit bientôt.
+
+      Allons, allons, mon brave !
+Et si vous devenez notre amoureux esclave,
+Comme vous en avez tout à fait la façon,
+Sachez qu'un jeune coeur n'est pas toujours glaçon,
+Que Lizette vous peut servir, et que Lizette
+A pour vous dans son âme une estime parfaite.
+
+      Allons Monsieur.
+
+J'entends Monsieur qui vient, vite cachez-vous là.
+
+      Ne craignez rien.
+
+      Quelle pédanterie !
+Madame !
+
+      Ha Madame ! À quelle destinée
+Vous réduit votre père avec son hyménée.
+Avait-il de bons yeux quand il vous a choisi
+Ce Marquis campagnard, fantasque en cramoisi ?
+
+On va bientôt souper. Tous nos gens vont et viennent,
+Et ceux de ce Marquis tous les passages tiennent,
+Je crois qu'ils sont payés pour en user ainsi :
+Mais je prendrai mon temps, et pour vous hors d'ici,
+Allez dans votre chambre, et cependant Lizette
+Tirera le captif de sa noire cachette.
+
+Les valets du Marquis à leur Maître fidèles,
+Avaient si bien partout placé leurs sentinelles,
+Que durant le souper même, je n'ai pas pu,
+Tirer hors de son trou notre amant morfondu.
+Il me fait grand pitié ; car il est fort aimable :
+Mais, ma foi, le Marquis ne sera pas traitable,
+Et je me trompe fort, s'il est moins diligent,
+À garder sa moitié qu'à garder son argent.
+Sortez mon Cavalier, sortez en diligence :
+Vous m'avez aujourd'hui coûté plus d'une transe,
+Nous avons un mari jaloux comme un damné.
+
+Dites-vous ?
+
+Nous sommes bien à plaindre en l'état où nous sommes ;
+Moi d'avoir un tel Maître, et vous un frère tel.
+J'en fais dès aujourd'hui mon ennemi mortel ;
+Il ne méritait pas une femme si belle.
+
+Vous l'avez obligée, et vous êtes bien fait ;
+Espérez : son esprit est sensible au bienfait ;
+Et quoique par vertu sa peine il dissimule,
+Je sais qu'il est choqué d'un mari ridicule.
+Si peu qu'un sot Époux à nos yeux fasse mal
+Le temps change en mépris le respect conjugal,
+Et si peu qu'un Mari de rende méprisable,
+Il ne manque au Galant qu'une heure favorable.
+
+      Le voici, mon Dieu, que ferons-nous ?
+
+      Vite, recachez-vous,
+Maudit soit, l'Ordugno, je tremble en chaque membre
+
+Le sot homme est sorti.
+
+Ha ! Que n'est-il déjà doublement un sot homme.
+
+Je n'ai rien fait au prix de ce que je ferai.
+Sortez donc. Ce Marquis nous fera de la peine,
+Fantasque comme il est.
+
+Dieu me veuille assister ! Ne le voilà-t-il pas ?
+Songez à vous, pour moi je me sauve à grand pas.
+
+      Mon cher Monsieur, notre Maîtresse peste
+D'une étrange façon contre vous.
+
+Que sait-elle ? Elle peste encore plus contre moi.
+Mais si près du Marquis vous êtes bien tranquille,
+Que fait-il donc ? Dort-il ?
+
+      Et qu'y fait-il si tard,
+Cet ennemi commun ?
+
+Si vous étiez sorti, vous y seriez fort bien.
+Jamais esprit ne fut moins ferme que le sien.
+Ô le sot animal qu'une fille timide !
+À force de pleurer, elle a la tête vide :
+Mais lorsque la pauvrette a su qui vous étiez
+D'aise elle m'a baisée, et fait cent amitiés.
+
+      Elle se désespère
+De n'avoir pas le choix de Don Blaize, et de vous,
+Et de se voir réduite à prendre un tel époux.
+
+      Et moi je regagne mon gîte.
+
+      Je ferai
+Des merveilles pour vous, ou bien j'y périrai :
+Parce que je crois faire une oeuvre charitable,
+En faisant réussir une amitié sortable ;
+Outre que j'ai pour vous autant d'affection
+Que j'ai pour le Marquis de juste aversion.
+
+Il ne le savait pas : vous n'auriez jamais cru
+Quelle fut sa douleur aussitôt qu'il l'a su.
+Si vous eussiez ouï ses amoureuses plaintes,
+Votre coeur en eût eu de sensibles atteintes.
+Jamais un malheureux au fort de son tourment,
+N'a maudit son destin plus pitoyablement.
+Je n'ai pas pour autrui le coeur autrement tendre :
+Mais quand je songe en lui, je sens le mien se fendre.
+Son frère est bienheureux.
+
+      Il est vrai, qui s'arrête
+Chez nous.
+
+      Feignez un mal de tête,
+Si ce sont des fâcheux : je vais les recevoir,
+Et vous irai quérir si ce sont des gens à voir.
+Cette Dame ici viendrait-elle à la noce ?
+
+Je m'en vais l'avertir de descendre ici bas.
+
+Madame va venir dans un petit moment.
+
+Tout est perdu.
+
+      Ils vont venir Madame.
+
+      Don Blaize, et Don Cosme.
+
+Vous pouvez vous cacher en son appartement ?
+La clef tient à la porte.
+
+Sauvez-vous vite Dame, Écuyer, Soubrette ?
+Et vous défendez bien si l'on vous veut forcer.
+
       Je sais ce que vous m'allez dire :
 Mais quand bien on aurait d'un plus cruel martyre
 Punit votre malice, et votre trahison,
 Vous auriez toujours tort, et Blanche aurait raison.
 
--*who_donsanche
-Vous m'abandonnez donc ô fille trop cruelle ?
-
--*who_lisette
 J'abandonne un amant que je crois infidèle.
 
--*who_donsanche
-Moi Lizette ?
-
--*who_lisette
       Oui vous ; car mon beau cavalier !
 Puisqu'il vous faut convaincre, oserez-vous nier
 Que par un feint amour, une lâche finesse,
@@ -2845,21 +1778,8 @@ Vous m'avez commandé de feindre, je feignais ;
 Mais mon coeur n'était pas d'accord avec ma voix.
 Ce sont vos mêmes mots, on me les vient d'apprendre.
 
--*who_donsanche
-Il est vrai, ce les sont ; mais voulez-vous m'entendre ?
-
--*who_lisette
 De bon coeur.
 
--*who_donsanche
-      Si je crois les avoir offensés
-Ces yeux injustement contre moi courroucés ;
-Que puissé-je à jamais leur être détestable,
-Si je ne vous fais pas un récit véritable,
-Et si vous n'avouez que je n'ai point de tort,
-Que puissé-je tomber à vos pieds raide mort.
-
--*who_lisette
 Il, faut que Dieu m'ait fait le naturel bien tendre,
 Quand je vois quelque amant qui parle de se pendre,
 Ou bien de se donner un grand coup de poignard.
@@ -2875,48 +1795,306 @@ Pleurez, et soupirez, et laissez faire à nous,
 Aussi bien, il nous faut déguerpir de la place ;
 Voici notre vieillard.
 
-**** *book_ *id_V06 *act_V *date_1646
 
--*who_doncosme
-      J'ai de votre disgrâce
-Beaucoup de déplaisir, et suis fort étonné,
-De l'important avis que vous m'avez donné.
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stefanie
 
--*who_stefanie
+Tu me parles toujours avecque liberté.
+
+Ignorant mon dessein, tu n'as rien qu'à te taire.
+
+Tais-toi. Je te disais tout à l'heure Louise  !
+Qu'à moins que d'un Seigneur, je ne puis être éprise.
+Je hais le petit noble à l'égal du bourgeois ;
+L'écu seul à couronne est l'objet de mon choix :
+Enfin, nul, quel qu'il soit, n'aura sur moi d'empire,
+Si dans ses qualités il n'entre du Messire.
+
+Si tu voyais bien clair, tu connaîtrais qu'il est,
+Quoique avec peu de train, autre qu'il ne paraît.
+
+Sur ce qu'il a l'air grand, et de fort bon augure ;
+Sur ce qu'en l'approchant mon âme m'avertit
+Qu'il est né grand Seigneur ; mais qu'il se travestit.
+Je ne me suis jamais d'un Seigneur approchée,
+Que d'un instinct secret je n'aie été touchée ;
+Mais je me pique aussi d'être de mon côté,
+Le véritable aimant des gens de qualité,
+Titre, que je préfère au beau titre de Reine.
+
+      Il est vrai, je suis vaine.
+
+Il est vrai que je dis ce que je ne fais pas ;
+Il est vrai qu'à le voir, je trouve trop d'appas ;
+Et bien qu'il ne m'ait pas par mon faible attaquée,
+Qu'il m'a pourtant vaincue.
+
+Oui, même avec excès.
+
+Je sais que bien souvent, il se promène ici.
+Et c'est pour ce sujet, que je m'y trouve aussi.
+Afin qu'en m'y voyant, seule, à pied, sans livrée,
+Il s'aille figurer ma conquête assurée,
+Et que pour me connaître, il vienne m'approcher.
+
+      Je lui veux reprocher,
+Qu'il donne à tout.
+
+Cela me peut servir à le faire expliquer ;
+À connaître s'il m'aime, ou s'il se veut moquer,
+Car puisque tout mon bien est ma seule industrie,
+Je redoute surtout la contrefourberie.
+
+Mais il n'est pas aussi le seul but de mes coups.
+
+      Il joue ;
+Son humeur m'est suspecte ; on croit qu'il doit au Roi,
+Et n'est pas dans Madrid cru pour homme de foi.
+
+Le madré veut savoir en quoi mon bien consiste,
+Ne t'imagine pas à voir ma vanité,
+Que je m'attache tant aux gens de qualité :
+Si je trouve ou Bourgeois, ou vieillard qui soit riche,
+Par d'honnêtes faveurs dont je ne suis pas chiche,
+Je saurai le gagner ; lors ma condition
+Se pourra bien passer de mon invention,
+Et lors avec honneur, sans faire de bassesse,
+Je pourrai soutenir l'éclat de ma noblesse :
+Pour cet effet, je vole aux oiseaux passagers,
+Et notre politique en veut aux étrangers.
+J'ai de bons espions dans les hôtelleries,
+Dans les postes, bureaux, coches, messageries,
+Tu m'es un bon second, et notre Olivares,
+Pour nos nobles desseins est comme fait exprès,
+Aux yeux de cent jaloux, il sait faire un message.
+
+Il a su découvrir, qu'un certain vrai Marquis,
+Arrive dans Madrid, et sait bien son logis.
+Ce Seigneur étranger, si j'ai bonne mémoire,
+A nom Don Blaize Pol marquis de la Victoire ?
+
+      Cela sent son Seigneur.
+
+Il nous apprendra quelques bonnes nouvelles.
+
+Dis-moi la vérité que tu ne le hais pas ?
+
+Hé bien ! C'est un Matois, un petit noble, un drille,
+Vois-tu ! Je me connais en gens de qualité.
+
+      Mon bonheur me l'amène.
+
+      Il faut que je l'apprenne,
+Cachons-nous.
+
+Nous ne pouvons ouïr ce qu'ils disent d'ici.
+
+Appelle son valet, si tu m'aimes, Louise.
+
+Je l'arrêterai bien. Dis-moi mon cher de grâce,
+Le pays de Don Sanche, et son bien et sa race,
+Et quelle est la beauté qu'il adore à la cour ?
+
+      Ha le traître !
+
+Dis-moi donc son pays, sa qualité, son bien.
+Tiens.
+
+      Fort bon.
+
+Dis-moi donc son pays, son bien et sa naissance.
+
+Le coquin m'a jouée, il faut aller après.
+
+Il a laissé tomber en fuyant quelque chose,
+Va-t'en le ramasser.
+
+Apporte.
+
+Il faut voir ce que c'est, romps vite le cachet,
+La date est d'aujourd'hui, la lettre est fraîche faite,
+Nous allons découvrir quelque affaire secrète,
+Mon frère,
+Je suis dans Madrid, et qui pis est, j'y suis pour me marier. J'ai grand peur, qu'un bourreau de beau-père ne m'aille tromper, et ne m'est promis plus de beurre que de pain. Je ne me mouche pas sur ma manche, comme vous savez, et il en faudrait venir au coupe-gorge. Je vais donc faire la guerre à l'oeil ; car de deux accidents il faut éviter le pire. Informez-vous de ses vie et moeurs de votre côté, comme je ferai du mien, et me sachez bon gré de la confidence. Je vous adresse une lettre que j'écris à ma future épouse, afin qu'elle ne me soupçonne pas d'être à Madrid. Le dessus de la lettre vous apprendra sa demeure.
+
+On écrit mal parfois, quoique l'on parle bien.
+
+Qu'importe. Mais hélas ! Il importe qu'un traître
+M'ait donné de l'amour sans se faire connaître,
+Il est Marquis le Fourbe, et d'une qualité,
+Qui peut à mon souhait borner ma vanité,
+Il traite cependant d'un autre mariage,
+Et me fait le jouet de son esprit volage.
+
+Personne n'est exempt d'avoir quelque faiblesse,
+Quelque tendre, où d'abord qu'on le touche, on le blesse,
+Il est jaloux sans doute, et quand son mal le prend
+D'agréable qu'il est ridicule il se rend.
+Il verra si je suis de mon côté jalouse.
+Voyons comment il parle à sa divine Épouse.
+L'adresse est À MADRID POUR BLANCHE DE VARGAS
+DONT LA MAISON CONTIENT UN APPARTEMENT BAS,
+PEINT DE NEUF, ET GRILLÉ, QUI DONNE EN LA GRAND RUE.
+
+Tant mieux. Vérifions sa noire trahison.
+Ma chère Épouse,
+Quelques affaires m'empêchent de vous appeler de plus près de ce doux nom. Recevez-le d'où vous êtes, je vous le donne d'où je puis, et cependant je consens, et ma volonté est que cette lettre ait la force d'une promesse de mariage, en attendant que nous le consommions dans Madrid après la bénédiction du Prêtre.
+Don BLAIZE POL, Marquis de la Victoire.
+
+Il n'est pas question de se lasser l'esprit,
+À deviner le sens, dont la lettre est écrite :
+Mais il est question que mon âme s'irrite ;
+Qu'on se moque de moi ; qu'on me fait enrager,
+Et que je veux tout faire, afin de me venger.
+Oui perfide, oui méchant, j'irai chez ta Maîtresse,
+Lui faire le récit de ta fausse finesse.
+Louise, Olivares, il faut me seconder,
+À rompre cet hymen, ou bien le retarder :
+Mais ce n'est pas assez de rompre un hyménée
+Il faut bien davantage à ma rage obstinée,
+Je veux après avoir fait manquer cet hymen,
+Qu'il en meure le traître.
+
+Perdons le scélérat qui s'attaque à ma gloire.
+
+L'allusion me plaît, elle est pleine d'esprit.
+Tantôt pour cela seul, je te donne un habit.
+
+      À toi ! Je te donne une jupe.
+
+      Donne.
+
+Olivares !
+
+      Envoyez le carrosse.
+Pourrais-je dire un mot à Blanche de Vargas ?
+
+Il était de mon train, et de ma bonne mine,
+De ne pas faire ici ma visite en gredine :
+Quelque mauvais que soit un carrosse emprunté,
+Il nous donne toujours beaucoup d'autorité.
+
+Digne de mon esprit.
+
+Tu me verras Marquise, ou bien je périrai.
+
+N'ai-je pas plaisamment attrapé la peinture,
+L'aimable marmouset de l'épouse future ?
+
+J'en aurai du plaisir.
+
+Homme de peu de foi !
+
+Et je m'en flatte moi : mais n'as-tu pu savoir
+Où le Marquis allait si vite hier au soir ?
+
+Il fut couru des mieux.
+
+N'aurais-je point troublé son divertissement ?
+Ne lui ferais-je point de visite importune ?
+Mais je la vois venir : sa beauté non commune
+Est encore au-dessus du grand bruit qu'on en fait,
+Et pour tout dire enfin, efface son portrait.
+Madame, trouvez bon devant que vous rien dire,
+Que je vous considère, et que je vous admire
+Je n'ai jamais rien vu de si charmant que vous.
+
+Qui ne vous en ferait ?
+
+Je rends ce que je dois à ce que vous valez.
+
+Louise ! Qu'en dis-tu ?
+
+Et déjà je la suis, et j'en hais doublement
+Le méchant qui la veut, tromper si lâchement !
+
+Comment me trompe-t-il ?
+
+      Non, je ne le sais pas !
+Ce n'est pas votre nom que Blanche de Vargas ?
+
+      Et j'ignore aussi qu'on vous marie !
+Mais vous savez-vous bien la noire perfidie,
+Qu'un Traître, qu'un Marquis Don Blaize...
+
+Il est donc votre époux ?
+
+Elle me fait pitié Louise !
+
+Je m'expliquerai mieux, quelque mal qu'il m'arrive ;
+Mais qu'on ne dise point à personne qui vive,
+Et surtout au Marquis, que l'on m'ait vu ici :
+Ce n'est pas sans raison que je vous parle ainsi.
+Je veux bien l'avouer : il y va de ma vie ;
+Mais pour avoir le bien de vous avoir servie,
+Je hasarderais tout, excepté mon honneur.
+Vous gagnez à tel point mon estime, et mon coeur,
+Que je ferais pour vous de même ardeur zélée,
+Quand dans vos intérêts je serais moins mêlée.
+
+J'ai toujours dans l'esprit que l'on nous peut surprendre.
+Madame encore un coup, suis-je ici sûrement.
+
+Faites donc s'il vous plaît sortir votre suivante.
+
+      Elle est pourtant servante.
+
+Vous reconnaissez bien cet aimable portrait ?
+
+      C'est la personne même
+À qui vous avez fait cette faveur extrême.
+
+Don Blaize est, en un mot, le dernier des humains.
+Quand vous mariez-vous ?
+
+      L'infidèle !
+
+      Et Don Blaize a signé le contrat ?
+
+      Ô bon Dieu ! Pardonne au scélérat,
+Il n'en peut accomplir la principale clause,
+Ni vous donner la main.
+
+      Hélas ! C'est moi Madame !
+Moi qui l'ai fait régner dès longtemps dans mon âme,
+Sa qualité, son bien, ses serments et ses pleurs,
+Son langage flatteur, et ses feintes douleurs.
+Ma jeunesse crédule, et mon âme trop tendre,
+Ma folle vanité trop aisée à surprendre.
+Enfin tout ce que peut d'ennemis assembler
+La rigueur d'un destin qui voulait m'accabler,
+Favorisa si bien les desseins de ce traître,
+Que je ne puis l'haïr quelque ingrat qu'il puisse être,
+Qu'il obtint... mais hélas ma rougeur, et mes pleurs
+Vous déclarent assez jusqu'où vont mes malheurs :
+Mais aussi, je vous suis encor si peu connue,
+Que vous pourriez douter, si je suis ingénue,
+Et sans me faire tort, mettre en doute ma foi,
+Si j'étais sans témoins qui parlassent pour moi,
+Deux enfants malheureux d'un infidèle père,
+Joindraient leur faible voix à celle de leur mère,
+Et ces deux innocents auront bien le crédit
+De vous persuader tout ce qu'elle vous dit.
+
+      Ô malheureuse femme !
+Et que ferai-je donc en cet accablement ?
+
+Dans la relation que je viens d'ouïr faire,
+Je trouve assurément l'infaillible moyen,
+D'obtenir si je veux, et Don Blaize, et son bien.
+
+Le frère aîné m'échappe, et le cadet trompeur
+De mon esprit jaloux augmente la fureur.
+Louise ! Olivares ! Écoutez...
+
 Je vous apporte ici sa trompeuse promesse :
 Dans l'oubli de moi-même, où me met ma tristesse,
 Je ne m'avisais pas de vous la faire voir.
 
--*who_doncosme
-Donnez.
-
--*who_louise
-      C'est le papier que Merlin laissa choir.
-Le valet de Don Sanche.
-
--*who_stefanie
       Et c'est par là, Louise ,
 Que tu verras bientôt ta Maîtresse Marquise.
 
--*who_louise
-Mais si l'on va savoir que vous ne soyez pas
-La fille du vieillard, la machine est à bas ;
-C'est à vous d'y penser.
-
--*who_stefanie
       Mon Dieu, laisse-moi faire.
 
--*who_olivares
-Elle va s'attirer quelque méchante affaire,
-Et nous faire donner quelques mauvais présents.
-
--*who_doncosme
-C'est une lettre écrite en termes fort plaisants.
-Il veut qu'elle ait, dit-il, force d'une promesse,
-J'y reconnais sa main partout, fors dans l'adresse.
-Vous vous appelez donc Comtesse d'Alcalca ?
-
--*who_stefanie
 C'est le nom d'une ville auprès de Malacca :
 Quand le Mars Portugais, Albuquerque en fût Maître,
 De cette récompense il daigna reconnaître
@@ -2924,23 +2102,10 @@ Les services rendus par défunt mon Mari.
 Hélas ! Son souvenir m'a le coeur attendri.
 Je ne puis retenir mes pleurs, quand je le nomme.
 
--*who_doncosme
-Il faut que le Marquis soit un très méchant homme,
-Oui bien que vous soyez plus méchante que lui :
-Quant à sa lettre, elle est pour vous de peu d'appui,
-J'y vois des nullités qui sont peu recevables.
-Vous avez deux enfants ?
-
--*who_stefanie
       Deux petits misérables.
 Tous deux des plus jolis, et les vivants portraits
 Du père.
 
--*who_doncosme
-      Vous aurez à faire de grands frais
-Contre un homme puissant.
-
--*who_stefanie
       Quoique pauvre étrangère,
 Mon père fait ici sa demeure ordinaire ;
 Il ne laissera pas une fille au besoin :
@@ -2952,287 +2117,460 @@ Fille d'un Castillan homme de qualité :
 Il devint de Lisbonne amoureux de ma mère,
 Qui n'a point eu depuis nouvelles de mon père.
 
--*who_doncosme
-Homme de qualité ?
-
--*who_stefanie
       Noble comme le Roi.
 
--*who_doncosme
-Et s'appelle ?
-
--*who_stefanie
       Don Juan Palomeque.
 
--*who_doncosme
-      Est-ce moi ?
-Bons Dieux ! Et votre mère ?
-
--*who_stefanie
       Elvire de Pacheque.
 
--*who_doncosme
-Ha ma fille ! Je suis ce Don Juan Palomeque.
-Qui déguisais mon nom dans Lisbonne, ô bon Dieu !
-Que je reçois de joie à vous voir en ce lieu,
-Et que je suis fâché, de vous voir de la sorte :
-Mais apprenez-moi donc, comment elle se porte,
-Cette aimable beauté, de qui l'oeil mon vainqueur,
-Malgré l'éloignement, règne encor dans mon coeur.
-
--*who_stefanie
 Hélas ! Un sort cruel me l'a trop rôt ravie,
 Et depuis, le malheur m'a toujours poursuivie.
 
--*who_doncosme
-Sa perte m'est sensible avec juste raison ;
-Mais ici les regrets ne sont pas de saison.
-Travaillons maintenant comme au plus nécessaire,
-À vous tirer de peine, aussi bien que d'affaire.
-
--*who_stefanie
 Vous avez dans vos mains mon honneur, et mon bien.
 
--*who_doncosme
-Mettez-vous en repos, votre honneur est le mien,
-Je ne suis pas d'avis qu'on vous fasse paraître,
-Qu'on ne soit éclairci du dessein de ce traître ;
-Entrez donc dans ma chambre.
-
-**** *book_ *id_V07 *act_V *date_1646
-
--*who_donblaize
-      Ordugno !
-
--*who_ordugno
-      Monseigneur ?
-
--*who_donblaize
-Je veux absolument qu'on batte mon tailleur,
-Mon habit est mal fait. Hé bien mon cher beau-père,
-Je ne suis plus d'avis que l'hymen se diffère.
-
--*who_doncosme
-Et moi j'en suis d'avis.
-
--*who_donblaize
-      Ceci serait plaisant.
-
--*who_doncosme
-Il est pourtant ainsi.
-
--*who_donblaize
-      Cet esprit malfaisant
-Sait parfaitement bien faire enrager le monde.
-Civil beau-père en qui toute douceur abonde,
-Expliquez-nous un peu vos desseins ambigus !
-Vous voulez une chose, et ne la voulez plus.
-Savez-vous, si l'hymen ne se fait dans une heure,
-Il ne sera pas de six mois, ou je meurs ?
-
--*who_doncosme
-Si vous disiez jamais, je vous en croirais mieux.
-
--*who_donblaize
-J'avais toujours bien dit que son grand sérieux
-Pourrait dégénérer à la fin en folie,
-Et je répète encor qu'il faudra qu'on le lie.
-
--*who_doncosme
-Don Blaize il n'est plus temps de vous rien déguiser,
-Vous êtes découvert ; c'est pourquoi sans ruser,
-Achever votre hymen avecque Stéfanie
-Comtesse d'Alcalca.
-
--*who_donblaize
-      Sa nouvelle manie
-Me fait peur, où prend-il cet étrange Comté,
-Dont le nom sent si fort son esprit démonté ?
-
--*who_doncosme
-Ma fille est votre femme, elle a votre promesse,
-Et de plus, deux enfants, de plus elle est Comtesse.
-
--*who_donblaize
-Vous êtes fou Don Cosme, et de plus, fou fâcheux,
-Et de plus, incurable, et nous en serions deux,
-Si j'allais me fâcher de vos folles boutades,
-Que je veux désormais recevoir en gambades.
-
--*who_doncosme
-Reconnaissez-vous bien cette écriture ?
-
--*who_donblaize
-      Oui-da :
-Mais je ne connais point la dame d'Alcalca.
-J'écrivis cette lettre à votre fille Blanche,
-Je l'avais adressée à mon frère Don Sanche.
-C'est toi qui la portas Merlin ?
-
--*who_merlin
-      Je n'en sais rien,
-Je n'ai point de mémoire, et vous le savez bien.
-
--*who_donblaize
-Ha voici ma Maîtresse, et mon cadet. Mon frère !
-Et vous Blanche, venez songez à votre père.
-
--*who_doncosme
-Sortez, sortez, Madame ; il n'est plus de saison
-De ménager l'esprit d'un homme sans raison.
-
--*who_donblaize
-La Dame est assez belle.
-
--*who_donsanche
-      Et c'est la Portugaise.
-Merlin !
-
--*who_merlin
-      Sur mon honneur, on en veut à Don Blaize.
-
--*who_donsanche
-Tant mieux ami Merlin ?
-
--*who_doncosme
-      Don Blaize, vous voyez,
-Que je ne suis pas fou, comme vous le croyez.
-Pouvez-vous bien trahir cet objet plein de charmes ?
-
--*who_stefanie
 Je ne puis retenir mes sanglots et mes larmes.
 
--*who_olivares
-Madame ! Voulez-vous incessamment pleurer ?
-
--*who_louise
-Quel plaisir prenez-vous à vous désespérer ?
-
--*who_stefanie
 Ha mes amis pleurons un malheur sans remède ;
 Ayons recours aux pleurs, quand la constance cède.
 
--*who_donblaize
-Et qu'est-ce qu'elle a donc à s'affliger ainsi ?
-Et celui qui la mène, et sa suivante aussi.
-
--*who_doncosme
-Ils me font grand pitié.
-
--*who_donblaize
-      S'ils pleurent davantage,
-Il faudra bien aussi humecter son visage.
-Peste soit des pleureurs.
-
--*who_doncosme
-      Ha ma fille ! Vos pleurs,
-Au lieu de vous servir, aigrissent vos douleurs.
-
--*who_stefanie
 Adorable ennemi ! Que je hais ; que j'adore,
 Tes injustes rigueurs durent-elles encore ?
 
--*who_donblaize
-Belle qui pleureux tant, inconnue à mes yeux,
-Voudriez-vous pleurer moins, ou vous expliquer mieux ?
-
--*who_stefanie
 Tu ne me connais pas ingrat ? Ha ! Tout à l'heure.
 Il faut que je t'étrangle, ou qu'un de nous deux meure.
 
--*who_donblaize
-Haye, Haye, Haye, Ordugno ! Mon cher frère ! Merlin
-Venez me délivrer de cet esprit malin.
-
--*who_stefanie
 Perfide ! Scélérat !
 
--*who_donblaize
-      Seigneur en qui j'espère ?
-N'était-ce pas assez de ce maudit beau-père,
-Sans lâcher contre moi la Dame d'Angola ?
-
--*who_stefanie
 Dis d'Alcalca, méchant, auprès de Malacca.
 
--*who_donblaize
-D'Angola, d'Alcalca, Malacca, que m'importe
-De bien dire son nom, que le Diable m'emporte,
-Si je t'ai jamais vue, et si je crois jamais
-Te voir.
 
--*who_doncosme
-      Vous ne pouvez refuser désormais
-D'épouser en public ma fille.
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louise
 
--*who_donblaize
-      Ha cher beau-père !
-De bon coeur. Venez donc ma belle.
+Madame excusez-moi, si je vous interromps ;
+Mais le soleil ici donne sur nous à plomb,
+Sans parasol, sans mante, au Soleil, à telle heure,
+Être au cours, c'est jouer à se perdre, ou je meure,
+Voulez-vous faire ici de l'astre radieux,
+Et de votre bel oeil morguer celui des cieux ?
+Sauf l'honneur que je dois à votre noble essence,
+Ce dessein romanesque a de l'extravagance.
 
--*who_donsanche
-      Non mon frère,
-Blanche n'est plus à vous, Blanche n'est plus qu'à moi,
-En matière d'amour nul ne me fait la loi.
+Mais Madame après tout, je dis la vérité ;
+Car au cours, à midi, que voulez-vous donc faire ?
 
--*who_donblaize
-Et vous y consentez ?
+Au moins m'avouerez-vous que l'on y vient que tard,
+Et qu'on n'y laisse point son carrosse à l'écart.
 
--*who_blanche
-      Que mon père y consente,
-Et je m'estime heureuse, honorée et contente.
+Et Don Sanche, Madame, est-il un grand Seigneur,
+À qui si franchement vous donnez votre coeur ?
+Ma foi ; d'un grand Seigneur, il n'a pas l'équipage,
+Et son train jusqu'ici, ne pèche pas en page.
 
--*who_donblaize
-Et vous Don Cosme ?
+Et sur quoi fondez-vous pareille conjecture ?
 
--*who_doncosme
-      Et moi je vous dirai qu'il faut
-Que vous donniez la main à ma fille au plutôt.
+Vous êtes Portugaise ?
 
--*who_donblaize
-Je le veux.
+Mais par l'ordre du ciel à qui tout est sujet,
+Si Don Sanche n'est pas un Seigneur contrefait,
+Lui ferez-vous encor, de l'humeur dont vous êtes,
+La mine, et les doux yeux, que partout vous lui faites ?
 
--*who_doncosme
-      Mais ma fille est cette belle Dame
-Comtesse d'Alcalca.
+      Ou du moins détraquée.
+Pour moi, si je brûlais, je cacherais mon feu,
+Ou je n'en ferais voir que quelquefois un peu :
+Car s'il voit, fin qu'il est, en pareille matière,
+Que vous en ayez tant, il n'en recevra guère.
+Il est doux, complaisant, fort civil, grand flatteur,
+Avec ces qualités, on peut être imposteur ;
+Avec ces qualités, on trompe dans le monde,
+Et si c'est là-dessus que votre esprit se fonde,
+Pour croire que le sien vous est assujetti,
+J'ai peur que votre amour n'en est le démenti.
+Ou je sais peu de chose en l'amoureux martyre,
+Ou c'est modestement que pour vous il soupire,
+Et je n'ai pas grand peur que sa famille un jour,
+Vous plaide à son sujet pour un meurtre d'amour.
+Fût-il Comte, ou Marquis, étant ce que vous êtes,
+Il ferait pour le moins le chemin que vous faites,
+Votre rare beauté fait tout pour l'acquérir,
+Voit-on sur votre amour, son amour enchérir ?
 
--*who_donblaize
-      Grand dieu que je réclame,
-Est-ce pour mes péchés, que je suis à Madrid !
+      Chacun en croit de même,
+Chacun croit aisément qu'on l'aime autant qu'il aime,
+Vous autres déités, vous avez l'esprit vain :
+Ha ! Sortez vitement de ce doute incertain ;
+Qu'il décline son nom, son pays, sa naissance ;
+Il est temps qu'à son tour, il fasse quelque avance.
+S'il a ce qu'il vous faut, un Notaire, un Curé ;
+S'il n'est pas ce qu'on croit, fît-il bien l'éploré,
+Fermez-lui votre porte, et m'en cherchez un autre,
+Dont vous serez le fait, comme il sera le vôtre.
 
--*who_doncosme
-Mais peut-on contester contre son propre écrit,
-Ma fille étant bien faite ?
+Qu'espérez-vous par là ?
 
--*who_donblaize
-      Ha diantre ! Elle est trop belle,
-Et c'est pour cela seul que je ne veux point d'elle.
-Mon front serait gâté s'il devenait cornu,
-Et je n'épouse point de visage inconnu.
-Don Blaize, il faut quitter cette maudite terre,
-Où tout le genre humain me déclare la guerre ;
-Où l'on voit tant de fous ; où l'on force les gens
-Au fâcheux joug d'hymen, même malgré leurs dents.
-Don Cosme pour t'avoir ma maudite promesse,
-Et pour n'épouser pas ta fille, ou ta Comtesse,
-Un dangereux dragon, qui m'a pris au gosier,
-Et qui me dérobant certain portrait hier,
-M'égratigna les mains (je reconnais sa taille,)
-Et je gagerais bien, que ce n'est rien qui vaille :
-Pour m'en délivrer donc, et partir à l'instant,
-Je veux bien qu'il m'en coûte un peu d'argent comptant.
+      Ma foi, ce n'est pas gain de cause,
+Pour vos nobles desseins, il faut bien autre chose.
 
--*who_doncosme
-Il le faut prendre au mot, vous ne sauriez mieux faire.
+Par ma foi, je le tiens aussi fourbe que nous.
 
--*who_donblaize
-Et pour me délivrer de mon faquin de frère,
-Je veux le partager, même grossir son fait,
-Ainsi je me verrai sans femme et sans cadet.
+Ce financier coquet, que vous couchiez en joue,
+Et qui ne vous hait pas, le valait bien.
 
--*who_doncosme
-Je veux savoir quel bien, vous donnez à Don Sanche.
+Et ce beau courtisan, qui vous suit à la piste ?
 
--*who_donblaize
-Plus que vous n'en donnez à votre fille Blanche,
-Et pour ne vous voir plus, Comtesse d'Alcalca,
-Apprenez que j'irais plus loin que Malacca.
+Bref votre Olivares est un grand personnage.
+
+La peste que de noms !
+
+Madame j'aperçois votre écuyer d'honneur.
+
+C'est le Phénix, l'extrait, des écuyers fidèles.
+
+Je pense aussi pour lui ne manquer pas d'appas.
+Hé bien ! Surintendant des dépêches secrètes !
+Qu'as-tu de bon ?
+
+Et moi je l'aperçois.
+
+Où vient-il si matin ?
+
+      Il s'en va le Marquis prétendu.
+
+Cavalier ?
+
+Converser un moment.
+
+Demeure ici, Merlin.
+
+      Vois-tu, l'on te bat comme plâtre,
+Si tu ne parles vite.
+
+A-t-on jamais écrit plus extravagamment ;
+En des termes plus bas, avec moins d'agrément ?
+Le style répond mal à l'esprit de Don Sanche.
+Avez-vous remarqué CE MOUCHE SUR LA MANCHE ?
+
+Et tous ces quolibets qui ne servent de rien ?
+
+Je n'eusse jamais cru qu'il eût écrit si mal,
+Il nous déguisait bien son esprit de cheval,
+
+Vraiment l'adresse est rare, et de grande étendue.
+
+Il entre, ce me semble, ici quelque mystère ;
+Car Madame il écrit de Madrid à son frère,
+Son frère apparemment est aussi dans Madrid,
+
+      Oui qu'il meure.
+
+À moi Madame ?
+
+Malheur sur le Marquis qui nous a pris pour dupe.
+
+      J'en serais amoureuse.
+
+Comment peut-il tromper cette belle personne ?
+
+      Ô le grand traître !
+
+Il n'est pas dans le monde une plus fourbe qu'elle.
+
+      C'est le papier que Merlin laissa choir.
+Le valet de Don Sanche.
+
+Mais si l'on va savoir que vous ne soyez pas
+La fille du vieillard, la machine est à bas ;
+C'est à vous d'y penser.
+
+Quel plaisir prenez-vous à vous désespérer ?
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olivares
+
+      Tais-toi, Sultane des coquettes !
+Je me suis informé comme vous m'aviez dit
+Du logis de Don Sanche, et je sais comme il vit,
+Et que pour le servir, il n'a qu'une personne.
+Mais on m'a dit de plus, et c'est ce qui m'étonne,
+Que son appartement, dont je me suis enquis,
+Était l'appartement de même Marquis,
+De ce Don Blaize Pol qu'on attend de Castille,
+
+En sortant de chez lui, je l'ai trouvé botté.
+
+Mon bras est impuissant, où le sont vos attraits.
+
+      C'est une lettre close.
+
+      Ou c'en sont deux en un même paquet.
+
+J'irais les yeux bandés. Je connais la maison.
+
+      Amen.
+
+Soyons victorieux de la même victoire.
+
+      Madame ?
+
+Mais quel noble dessein allez-vous entreprendre ?
+
+      J'ai peine à le comprendre.
+
+Ma foi, vous le serez comme je volerai.
+
+Quel bien vous viendra-t-il d'avoir pris un portrait ?
+
+      J'en aurai du cotret.
+
+      Sans beaucoup d'apparence,
+Je ne me flatte point d'une vaine espérance.
+
+J'ai fait ce que j'ai pu pour le pouvoir apprendre.
+
+      Courir, ce n'est pas prendre.
+
+Fourbissime.
+
+Elle va s'attirer quelque méchante affaire,
+Et nous faire donner quelques mauvais présents.
+
+Madame ! Voulez-vous incessamment pleurer ?
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ordugno
+
+Qu'elle est digne de vous.
+
+Il n'en faut point douter.
+
+      Quoi, Monsieur ?
+
+      Sûrement !
+
+      Monseigneur !
+
+Je crois n'avoir rien fait qui puisse vous déplaire.
+
+      Mais Seigneur...
+
+      Monseigneur.
+
+Il est déjà bien tard.
+
+Il le sera bientôt.
+
+      Monseigneur.
+
+      Je vous serai fidèle.
+
+      Pourquoi donc sortir de votre chambre ?
+
+Que ne reposez-vous votre personne lasse ?
+
+      Pourquoi triste ?
+
+Et qu'ordonniez-vous à Don Sanche ?
+
+      Qu'elle est belle !
+
+Qu'elle me plaît beaucoup.
+
+Qui Diable vous croyait aussi dans mon passage ?
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+      Hé bien que voulez-vous ?
+
+      Sortir si tard, c'est à faire à des fous.
+
+      Faut-il que Merlin vienne ?
+
+      Monseigneur ?
+
+Et tous vos beaux habits ?
+
+Et ceux de votre train ?
+
+On ne se défait pas de tels habits sans perte ?
+
+Ô cher ami Merlin ! Que les fièvres quartaines,
+Puissent serrer bien fort ces deux têtes malsaines.
+
+      Monseigneur ?
+
+Rien du tout.
+
+À double tour.
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+      Monseigneur ?
+
+
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
+Oui Monsieur, craignant fort d'être un animal cornu,
+Et que cette beauté qu'ici l'on lui destine,
+Ne sois pour son repos trop aimable, et trop fine.
+
+      Ma foi, trop bien pour vous,
+Au reste, avant l'hymen le Seigneur est jaloux,
+Sa lettre qu'il m'a lue, et que je vous apporte,
+Vous fera voir comment son Marquisat se porte,
+Il prétend se cacher quelque temps dans Madrid,
+Faisant la guerre à l'oeil, s'éclaircissant l'esprit
+Du renom, et des moeurs de l'épouse promise,
+Qui payera bien cher le titre de Marquise.
+
+Vous l'avez mieux nommé que vous n'avez pensé.
+Il n'est pas dans le monde un homme moins sensé,
+Vous ne croiriez jamais le chagrin, et la peine,
+Que je souffre à servir une tête mal saine.
+
+Et vos lettres Monsieur ?
+
+Vous savez comme il est défiant de nature,
+Qu'il fait secret de tout, et de rien bien souvent,
+Et qu'il n'a pour conseil que son chef plein de vent :
+Mais vous, mon cher Seigneur, qu'il ne vous en déplaise,
+Comment vont vos amours avec la Portugaise ?
+
+      Elle-même.
+
+Tant mieux.
+
+Votre relation me la rend toute aimable,
+N'avez-vous point appris à sa rare beauté
+Votre nom ?
+
+La Dame, ou je me trompe, est faible de cerveau.
+
+Elle est fort mal en meuble, et je gagerais bien
+Qu'elle est franche friponne, et qu'elle ne vaut rien,
+L'autre jour sa suivante, en colère contre elle,
+Disait tout haut qu'à peine elle était Damoiselle.
+
+      C'est autant de perdu,
+
+      Que me veut l'écueil de ma franchise ?
+
+      Beau magasin d'attraits,
+Mon Maître est déjà loin, il faut que j'aille après,
+Sans cela, croyez-moi, ma chère Impératrice,
+Qu'il n'est rien ici-bas pour vous que je ne fisse.
+
+      Je n'en n'ai pas le temps,
+Adieu, moule adorable à faire des enfants.
+
+On vous a donc appris l'objet de son amour ?
+Je viens de lui donner du martel.
+
+Mon Maître n'est pas tel qu'il tâche de paraître.
+
+      Vous m'avez charmé par ce doux mot de Tiens,
+Le diamant est bon ?
+
+      Un peu jaunâtre.
+Bas de Bizot ?
+
+      Encore faut-il bien
+Savoir, si ce qu'on donne est quelque chose ou rien.
+
+Vous me demandez-là des choses d'importance.
+Et dont jusques ici, mon Maître homme discret,
+Et sage au dernier point m'a toujours fait secret ;
+Mais comme les Valets ont l'âme curieuse,
+Et que je vous connais Dame très généreuse,
+Je veux vous avouer avec sincérité,
+Que quant à son pays, son bien, sa qualité,
+Quoique votre présent j'aye bien voulu prendre.
+Je n'en sais rien du tout, et n'en puis rien apprendre.
+
+Madame de la part. Mais...
+
+Je suis pris. Un laquais était venu chez nous.
+Demander un juillep pour votre fille morte,
+Je suis apothicaire, et c'est ce que j'apporte.
+
+      Ô le curieux Père !
+Puisqu'il vous faut parler dans feintise, et sans dol,
+Mon Maître est un Seigneur nommé Don Blaize Pol.
+
+      Oui Monsieur.
+
+      Lui-même.
+
+Il est d'un naturel surprenant.
+
+      Oui, Monsieur ?
+
+      Où veut-il donc aller
+Si tard ?
+
+      Je viens de perdre à tope et masse
+Un petit diamant, dont m'avait fait régal
+La belle Stéfanie honneur de Portugal :
+Il n'en est pas au monde une plus folle qu'elle,
+Je la viens de trouver avec sa séquelle,
+C'est-à-dire Louise, et son Olivares,
+Assiégeant ce logis, et de loin et de près.
+Elle, ou quelqu'un des siens, n'en quitte pas la porte
+Guignant les gens au nez, soit qu'on entre ou qu'on sorte.
+Dans ses mains par malheur je suis tantôt tombé.
+Et sous ses questions j'ai quasi succombé.
+Elle m'a fait sur vous mille et mille demandes,
+Quand elle m'aurait fait autant de réprimandes,
+Je crois sur mon honneur, qu'elle m'eût moins pesé,
+Quelqu'un dans son esprit vous a démarquisé,
+Je l'en trouve pour vous un peu moins échauffée,
+Et même je la tiens de Don Blaize coiffée,
+Et que c'est pour lui seul qu'elle bat le pavé.
+
+Le Marquisat sans doute a donné dans son tendre,
+Un Marquisat aussi n'est pas mauvais à prendre.
+
+Qui ne pleurerait pas peut-être d'un tel change :
+Mais songez vous encore à la prise d'un coeur
+Si régulièrement retranché dans l'honneur,
+Un coeur, qu'on peut nommer la plus dure des roches,
+Qui ne peut pas souffrir seulement des approches.
+Vous m'allez alléguer ses yeux astres jumeaux.
+D'accord ; mais c'est tirer votre poudre aux moineaux.
+
+Dites-la, vous verrez si je la crois ou non.
+
+Ô Don Blaize ! Ô Don Sanche ! Ô cher couple de fous !
+Que le pauvre Merlin va souffrir avec vous.
+
+Quand vous parlez de mort, parlez-vous tout de bon ?
+Si j'étais, comme vous, beau comme Cupidon ;
+Si j'avais, comme vous, un satyre pour frère ;
+Si j'avais, comme vous, des qualités à plaire ;
+Si Blanche, comme à vous, me faisait les doux yeux,
+Si l'amour, comme vous, me rendait furieux ;
+Je pousserais ma pointe, il n'est frère qui tienne,
+Tant que je verrais Blanche en espoir d'être mienne,
+Et lorsque je verrais la belle en d'autre bras,
+J'en serais bien fâché ; mais je n'en mourrais pas.
+
+Mais Monsieur, sauf l'honneur de votre noble envie,
+Savez-vous ce que c'est que de perdre la vie ?
+Il n'est rien tel que vivre.
+
+Que Don Sanche est heureux ! Sa Maîtresse l'adore.
+
+      Je n'en sais rien,
+Je n'ai point de mémoire, et vous le savez bien.
+
+      Sur mon honneur, on en veut à Don Blaize.
+

@@ -1,438 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1760
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cydalise
 
--*who_damis
-Non, je ne reviens pas d'un semblable vertige.
-Rompre un hymen conclu !
-
--*who_marton
-      Tout est changé, vous dis-je.
-
--*who_damis
-Mais encor ?
-
--*who_marton
-      Mais encor, vous êtes officier ;
-Notre projet n'est pas de nous mésallier.
-Nous voulons un mari taillé d'une autre étoffe ;
-En un mot, nous prenons un mari philosophe.
-
--*who_damis
-Que me dis-tu, Marton ?
-
--*who_marton
-      Je vous étonne fort ;
-Mais ne savez-vous pas que les absents ont tort ?
-Trois mois ont opéré bien des métamorphoses :
-Peut-être dans trois mois verrons-nous d'autres choses.
-Vous pourrez reparaître alors avec succès ;
-Mais jusques-là, néant. En dépit du procès
-Qui devait se finir par votre mariage,
-Sans appel aujourd'hui la pomme est pour le sage.
-
--*who_damis
-Le moyen que l'on change ainsi dans un moment !
-
--*who_marton
-Toute femme est, monsieur, un animal changeant.
-On pourrait calculer les jours de Cydalise
-Par les différents goûts dont son âme est éprise :
-Quelquefois étourdie, enjouée à l'excès,
-D'autres fois sérieuse, et boudant par accès ;
-Coquette, s'il en fut, en sauvant le scandale,
-Prude à nous étourdir de son aigre morale ;
-Courant le bal la nuit, et le jour les sermons ;
-Tantôt les directeurs, et tantôt les bouffons.
-C'était là le bon temps. Mais aujourd'hui que l'âge
-Fait place à d'autres moeurs, et veut un ton plus sage,
-Madame a depuis peu réformé sa maison.
-Nous n'extravaguons plus qu'à force de raison.
-D'abord on a banni cette gaieté grossière,
-Délices des traitants, aliment du vulgaire ;
-À nos soupers décents tout au plus on sourit.
-Si l'on s'ennuie, au moins c'est avec de l'esprit.
-Quelquefois on admet, au lieu de Vaudevilles,
-De savants concerto, de grands airs difficiles ;
-Car il faut bien encore un peu d'amusement.
-Mais notre fort, monsieur, c'est le raisonnement.
-Quelque tems, dans le cercle, on parla politique ;
-Enfin tout disparut sous la métaphysique.
-
--*who_damis
-Quelque chargé que soit ce bizarre tableau,
-Je livre Cydalise aux traits de ton pinceau ;
-Je m'en rapporte à toi. Mais que fait Rosalie ?
-
--*who_marton
-Ce que nous faisons tous, monsieur ; elle s'ennuie.
-
--*who_damis
-Aux voeux de mon rival son coeur s'est-il rendu ?
-
--*who_marton
-Non, ce coeur est à vous. L'amour l'a défendu
-Contre tous les projets d'un rival téméraire ;
-Mais votre sort dépend de l'aveu d'une mère,
-Ensorcelée au point que je n'ai plus d'espoir.
-Pardonnez-moi ce mot ; je vois comme il faut voir.
-
--*who_damis
-Elle fut mon amie, et je me flatte encore...
-
--*who_marton
-Le bel esprit, monsieur, est tout ce qu'elle adore.
-C'est une maladie inconnue à vingt ans ;
-Mais bien forte à cinquante. Encore avec le temps,
-On pourrait espérer un retour de sagesse,
-S'il en était quelqu'un contre cette faiblesse,
-Quand à certains degrés elle a fait des progrès.
-Dans les commencements, moi-même j'espérais ;
-Mais sachez tous nos maux et ceux qui vont les suivre.
-Entre nous...
-
--*who_damis
-      Hé bien ? Quoi ?
-
--*who_marton
-      Madame a fait un livre.
-
--*who_damis
-Bon !
-
--*who_marton
-      Qui même à présent s'imprime incognito.
-
--*who_damis
-Quelque brochure ?
-
--*who_marton
-      Non : un volume in-quarto.
-
--*who_damis
-Je lui conseille fort de garder l'anonyme.
-Mais, dans ces beaux esprits que Cydalise estime,
-N'en est-il donc aucun assez droit, assez franc,
-Pour lui montrer l'excès d'un travers aussi grand ;
-Pour la désabuser ?
-
--*who_marton
-      Eux ! Ils se moquent d'elle ;
-Ils ont tous conspiré de gâter sa cervelle ;
-Surtout votre rival. Comme il connaît son goût,
-Il ne se borne pas à l'applaudir en tout ;
-Il la fait admirer par messieurs ses semblables,
-Tous charlatans adroits, et flatteurs agréables,
-Ravis de présider dans sa société,
-D'y porter leurs erreurs, et faisant vanité
-De dominer ici sur un esprit crédule,
-Qu'ils ont l'art d'aguerrir contre le ridicule.
-
--*who_damis
-Et ce sont-là, dis-tu, des philosophes ?
-
--*who_marton
-      Oui ;
-Du plus grand air encor. Paris en est rempli.
-Mais pour établir mieux leur crédit chez madame,
-Et pour mieux pénétrer jusqu'au fond de son âme,
-Ils nomment aux emplois vacants dans la maison.
-Leur choix, toujours guidé par la saine raison,
-Quel qu'il soit, à madame est toujours sûr de plaire.
-Je soupçonne pourtant un certain secrétaire,
-Reçu par Cydalise à titre de savant,
-De n'avoir d'autre emploi que celui d'intrigant,
-De recéler un fourbe, et d'être ici pour cause ;
-Mais enfin, tôt ou tard, j'éclaircirai la chose.
-
--*who_damis
-Quel motif as-tu donc pour en juger si mal ?
-
--*who_marton
-Ou je me trompe fort, ou c'est votre rival
-Qui pour servir ses feux ici l'impatronise.
-
--*who_damis
-Quel homme est-ce ?
-
--*who_marton
-      Un fripon affectant la franchise,
-Et pourtant, m'a-t-on dit, natif de Pézenas,
-Titré du nom pompeux de Monsieur Carondas,
-Reconnu pour savant, du moins sur sa parole,
-Tout hérissé de grec et de termes d'école,
-Plaçant à tout propos ce bizarre jargon,
-Et nous citant sans cesse Homère ou Lycophron .
-
--*who_damis
-Ha, ha, ha, ha, ha, ha.
-
--*who_marton
-      Je peins d'après nature.
-
--*who_damis
-Ce Monsieur Carondas est de mauvais augure ;
-Mais avec ton secours et celui de Crispin...
-
--*who_marton
-Quoi ! Crispin est ici ?
-
--*who_damis
-      Vraiment oui. Mon dessein
-Était de vous unir ; tu le sais, et j'espère
-Que tu me serviras de ton mieux.
-
--*who_marton
-      Laissez faire.
-Crispin est fort adroit ; j'en tirerai parti.
-
--*who_damis
-Je compte sur tes soins.
-
--*who_marton
-      Oh ! Monsieur, comptez-y.
-Je déclare la guerre à la philosophie.
-
--*who_damis
-Je te devrai, Marton, le bonheur de ma vie.
-Mais... Ne puis-je un moment ? ...
-
--*who_marton
-      Ah ! Je vous vois venir.
-Tenez, monsieur ; l'amour a su vous prévenir :
-On vient ; c'est Rosalie.
-
-**** *book_ *id_I02 *act_I *date_1760
-
--*who_damis
-      Après trois mois d'absence,
-Quand je reviens ici, guidé par l'espérance,
-Réclamer une foi promise à mon ardeur,
-On m'apprend qu'un rival, jaloux de mon bonheur,
-Ose me disputer le seul bien où j'aspire,
-Qu'avec lui, contre moi, votre mère conspire.
-Ah ! Rassurez du moins mon coeur désespéré.
-
--*who_rosalie
-Doutez-vous que le mien en soit moins pénétré ?
-Je vois avec douleur ce changement extrême,
-Je souffre autant que vous ; mais enfin je vous aime.
-À ce titre du moins quelque espoir m'est permis.
-Qui pourrait résister à deux amants unis ?
-Ma mère vous aimait. En vous voyant, peut-être,
-Dans son coeur combattu, l'amitié va renaître.
-Sur ce coeur autrefois j'avais plus de pouvoir,
-Je le sais ! C'est à vous, Damis, de l'émouvoir ;
-Allez, et pour combler le bonheur que j'espère,
-Que je vous doive encor les bontés de ma mère.
-
--*who_marton
-Beaux sentiments ! Mais moi je ne m'y fierais pas.
-
--*who_rosalie
-Laisse-moi mon erreur.
-
--*who_marton
-      Non : c'est par des combats
-Qu'il faut à la raison ramener Cydalise.
-
--*who_damis
-Encore est-il permis de tenter l'entreprise.
-
--*who_marton
-Oui ; c'est un beau moyen, des soupirs et des pleurs !
-Oh ! La philosophie endurcit trop les coeurs.
-
--*who_rosalie
-Je ne l'aurais pas cru ! Mais pourtant, si ma mère
-M'immolait sans retour aux desseins de Valère,
-Si ce projet enfin était bien avéré,
-Pourquoi jusqu'à présent n'est-il pas déclaré ?
-Qui peut la retenir ?
-
--*who_marton
-      J'entrerais en colère.
-Elle n'a pas encor fait venir le notaire,
-Il est vrai ; les témoins ne sont pas invités,
-D'accord ; il manque aussi quelques formalités,
-J'y consens ; il se peut d'ailleurs que la journée
-Ne soit pas fixement encor déterminée ;
-J'en conviens. Cependant ne souffre-t-elle pas
-L'hommage assez public qu'il rend à vos appas ?
-N'en êtes-vous pas même à toute heure obsédée ?
-Mais non ; je me trompais : ce n'était qu'une idée.
-
--*who_rosalie
-Hélas ! Peux-tu, Marton, me désoler ainsi ?
-
--*who_marton
-J'avais rêvé.
-
--*who_damis
-      Marton...
-
--*who_marton
-      Contes que tout ceci,
-Propos en l'air.
-
--*who_damis
-      Marton...
-
--*who_marton
-      Vision chimérique,
-Absurde.
-
--*who_rosalie
-      Mais, Marton...
-
--*who_marton
-      Non, c'est terreur panique,
-Illusion, vous dis-je.
-
--*who_rosalie
-      En vérité, Marton,
-Ce cruel badinage est bien peu de saison.
-
--*who_marton
-J'avais tort.
-
--*who_rosalie
-      Tu poursuis ? Hé bien ! Je...
-
--*who_damis
-      Rosalie.
-
--*who_rosalie
-Non, monsieur, c'en est trop.
-
--*who_damis
-      Demeurez, je vous prie.
-
--*who_marton
-Ah ! Vous vous fâchez donc ? Vraiment, c'est très bien fait.
-Mais raisonnons un peu. Dites-moi, s'il vous plaît,
-Fallait-il vous tromper ? Je sais bien que le doute
-Suspend l'impression des maux que l'on redoute,
-Qu'il est très naturel d'éloigner le danger,
-Et de rendre toujours son fardeau plus léger.
-Moi-même à vous flatter je serais la première.
-J'aurais soin de fermer les yeux à la lumière,
-Sans l'intérêt pressant qui me parle pour vous.
-Pardonnez ; mais, ma foi, les amants sont des fous.
-Tranquilles sans raison, désespérés sans cause,
-Dans un juste équilibre aucun ne se repose,
-Et le sang froid souvent les conseille bien mieux,
-Que cet amour qu'on peint un bandeau sur les yeux.
-
--*who_damis
-Comment ! Voilà, parbleu, de la philosophie !
-
--*who_marton
-On apprend à hurler, dit-on, de compagnie,
-En fréquentant les loups. Le proverbe a raison.
-C'est un mal répandu dans toute la maison,
-Mais perdons un moment cette idée importune.
-çà, faisons notre paix. Vous serez sans rancune ?
-Vous me le promettez ?
-
--*who_rosalie
-      Oh ! Je te le promets.
-
--*who_marton
-Et moi d'être attentive à tous vos intérêts.
-Vous, monsieur, qui sans soins et sans trouble dans l'âme,
-Passeriez votre vie à regarder madame,
-Il faut battre en retraite, et même promptement.
-Songez qu'il est grand jour dans cet appartement,
-Que nous pourrions ici risquer quelque surprise,
-Et qu'il faut vous montrer d'abord à Cydalise,
-Avant que de penser à d'autres rendez-vous.
-
--*who_damis
-Je cours m'y disposer, dans un espoir si doux.
-Je remets en tes mains le bonheur de ma vie.
-Vous que j'adore, adieu, ma chère Rosalie.
-
-**** *book_ *id_I03 *act_I *date_1760
-
--*who_marton
-Vous, soyez sans faiblesse. Allons, point de langueur.
-La fermeté, madame, en impose au malheur.
-
--*who_rosalie
-Si tu pouvais sentir combien je hais Valère !
-
--*who_marton
-Oui : Damis sort d'ici. Mais c'est à votre mère
-Qu'il importe surtout de parler avec feu.
-Si vous aimez Damis, ce fut de son aveu ;
-Je le suppose au moins.
-
--*who_rosalie
-      Certainement.
-
--*who_marton
-      Les filles
-Ne font rien, comme on sait, sans l'avis des familles,
-C'est la règle. Il faut donc déclarer sans détour
-Pour l'un tous vos mépris, pour l'autre votre amour.
-
--*who_rosalie
-Oh ! Oui.
-
--*who_marton
-      Vous sentez-vous cette fermeté d'âme ?
-
--*who_rosalie
-Assurément, Marton.
-
--*who_marton
-      Allons, j'entends madame.
-
--*who_rosalie
-Ah ! Marton...
-
--*who_marton
-      Comment donc ! C'est très bien débuter.
-Cela promet.
-
--*who_rosalie
-      Aussi, pourquoi m'épouvanter ?
-L'amour dans le besoin me rendra du courage.
-
--*who_marton
-L'amour ! Oui vous ferez tous deux de bel ouvrage.
-Il y parait vraiment, à cet air d'embarras,
-Qu'un mot dit au hasard...
-
--*who_rosalie
-      Mais enfin tu verras.
-
--*who_marton
-Ce n'est point à l'amour à vous tirer de peine,
-Il est trop mal adroit. Pensez à votre haine ;
-Voilà le sentiment qui doit vous inspirer,
-Dont il est important de vous bien pénétrer.
-Je ne sais si l'amour, que d'ailleurs je révère,
-Est de nos passions en effet la plus chère ;
-Mais ce n'est que faiblesse, et que timidité.
-La haine n'est qu'ardeur et que vivacité.
-L'un abat, l'autre anime, et dans un coeoeur femelle,
-Ma foi, je la croirais beaucoup plus naturelle.
-Vous ne connaissez pas encor ce sentiment.
-Que votre coeur l'éprouve aujourd'hui seulement.
-Tenez, j'aime Crispin, et je sens pour Valère...
-Mais, ce n'est plus un jeu, j'aperçois votre mère.
-
--*who_rosalie
-Tu me soutiendras ?
-
--*who_marton
-      Oui.
-
-**** *book_ *id_I04 *act_I *date_1760
-
--*who_cydalise
       Retirez-vous, Marton.
 Prenez mes clés, allez renfermer mon Platon .
 De son monde idéal j'ai la tête engourdie.
@@ -441,15 +10,8 @@ Ce livre ne doit plus quitter mon cabinet.
 Vous, demeurez ; je veux vous parler en secret.
 Laissez-nous.
 
--*who_marton
-      Allons, ferme, et montrez du courage.
-
--*who_cydalise
 Obéissez, Marton.
 
-**** *book_ *id_I05 *act_I *date_1760
-
--*who_cydalise
       Vous êtes belle et sage,
 Rosalie, et pour vous j'eus toujours des bontés.
 Je vais connaître enfin si vous les méritez.
@@ -459,17 +21,6 @@ Que l'on croit émané du sang qui parle en nous,
 Et qui n'est, dans le fond, qu'un mensonge assez doux,
 Une faiblesse...
 
--*who_rosalie
-      Hé quoi ! La voix de la nature,
-Quoi ! Cette impression si touchante et si pure,
-Ce premier des devoirs, cet auguste lien,
-(je définirai mal ce que je sens si bien,)
-N'importe, se peut-il que le coeur de ma mère
-Méconnaisse aujourd'hui ce sacré caractère ?
-Ah ! Rappelez pour moi vos sentiments passés.
-En les analysant, vous les affaiblissez.
-
--*who_cydalise
 J'ai cru, tout comme une autre, à ces vaines chimères,
 Dignes du gros bon sens qui conduisait nos pères.
 Crédule, heureuse même en mon aveuglement,
@@ -479,14 +30,6 @@ Si je vous aime enfin, c'est en qualité d'être :
 Mais vous concevez bien qu'un autre individu
 N'aurait à mes bontés qu'un droit moins étendu.
 
--*who_rosalie
-Vous déchirez mon coeur. Ah ! Permettez, madame,
-Souffrez qu'à vos genoux votre fille réclame
-Un droit plus légitime et des titres plus doux.
-Pourquoi briser les noeuds qui m'attachaient à vous ?
-Jugez de leur pouvoir à mon trouble, à mes larmes.
-
--*who_cydalise
 Ma fille !... hé quoi ! Pour vous l'erreur a tant de charmes !
 Vous me faites pitié. Consultez la raison.
 Ces puérilités ne sont plus de saison.
@@ -495,14 +38,6 @@ Mais je les anoblis, et si je vous suis chère,
 Si j'ai sur vous aussi quelques droits à mon tour
 J'en exclus le hasard, qui vous donna le jour.
 
--*who_rosalie
-Je ne puis soutenir ce funeste langage.
-Il fait à toutes deux un trop sensible outrage.
-Qui ? Moi ! Le pensez-vous, que je puisse jamais
-Oublier que ma vie est un de vos bienfaits ?
-Non...
-
--*who_cydalise
       Le soin que j'ai pris de votre intelligence
 Doit mériter, surtout, votre reconnaissance ;
 Voilà le digne objet où tendent tous mes voeux.
@@ -531,11 +66,6 @@ Valère a ce qu'il faut pour plaire et pour séduire,
 C'est peu de vous aimer, il saura vous instruire ;
 En un mot, c'est de lui que mon coeur a fait choix.
 
--*who_rosalie
-Ainsi, vous oubliez que Damis autrefois
-Eut votre aveu, madame, et celui de mon père ?
-
--*who_cydalise
 Votre père ! Il est vrai que je n'y songeais guère.
 Plaisante autorité que la sienne en effet !
 L'être le plus borné que la nature ait fait.
@@ -553,23 +83,10 @@ Hors de son tribunal, aurait cru déroger ;
 Ayant, comme Dandin, la fureur de juger.
 Mais il est mort enfin, laissons en paix sa cendre.
 
--*who_rosalie
-Ah ! Madame, songez...
-
--*who_cydalise
       Allez-vous le défendre ?
 Un père n'est qu'un homme, et l'on peut sensément
 Remarquer ses défauts, en parler librement.
 
--*who_rosalie
-Si ce sont-là les droits de la philosophie,
-Souffrez que j'y renonce, et pour toute ma vie.
-Je perdrais trop, madame, à m'éclairer ainsi ;
-J'ose vous l'avouer. Daignez permettre aussi
-Qu'en faveur de Damis je vous rappelle encore
-Vos premières bontés que votre fille implore.
-
--*who_cydalise
 Non, Valère est l'amant que j'ai choisi pour vous,
 Ma fille, et dès ce soir il sera votre époux.
 Ces noeuds embelliront le cours de votre vie.
@@ -595,350 +112,6 @@ Un jour vous connaîtrez ce que je fais pour vous ;
 Vous m'en remercierez. Adieu, mademoiselle,
 Songez à m'obéir.
 
-**** *book_ *id_I06 *act_I *date_1760
-
--*who_rosalie
-      Quelle douleur mortelle !
-Que résoudre ? Que faire ? Ah ! Te voilà, Marton.
-
--*who_marton
-Oui, j'ai tout entendu. Mais quelle déraison !
-Quel travers !
-
--*who_rosalie
-      Je n'ai plus qu'à mourir.
-
--*who_marton
-      Badinage :
-Mourir ! Vous vous moquez, et ce n'est plus l'usage.
-On ne le souffre pas même dans les romans.
-
--*who_rosalie
-Mais enfin...
-
--*who_marton
-      Calmez-vous, et reprenez vos sens.
-Cette crise, après tout, vous l'aviez attendue ?
-
--*who_rosalie
-Mon âme en ce moment n'en est pas moins émue.
-
--*who_marton
-Présumez vous si peu du succès de mes soins ?
-
--*who_rosalie
-Ah ! Marton...
-
--*who_marton
-      Commencez par vous affliger moins.
-Si vos voeux sont comblés, dites-moi, je vous prie,
-À quoi ce beau chagrin vous aura-t-il servie ?
-
--*who_rosalie
-Oui, si tu réussis ; mais qui m'en répondra ?
-
--*who_marton
-Vous pleurerez alors autant qu'il vous plaira,
-Je vous aiderai même, et n'aurai rien à dire ;
-Mais jusqu'à ce moment, qui vous défend de rire ?
-À tout évènement, c'est toujours fort bien fait,
-Et quand tout irait mal, je crois qu'il le faudrait.
-Du moins c'est mon humeur. Le chagrin m'incommode.
-Je le crois inutile, et j'en suis l'antipode.
-C'est à quoi dans la vie il faut le moins songer,
-Et l'on a toujours tort, quand on veut s'affliger.
-Mais allons concerter quelque heureuse saillie,
-Venez, et nous verrons si la philosophie,
-Quelque soit son crédit, pourra dans ce grand jour
-Tenir contre Marton, et Crispin, et l'amour.
-
-**** *book_ *id_II01 *act_II *date_1760
-
--*who_valere
-Frontin.
-
--*who_monsieurcarondas
-      Ce maudit nom fera quelque méprise,
-Je vous l'ai déjà dit, et devant Cydalise
-Il vous arrivera de me nommer ainsi.
-Frontin ! Pour un savant le beau nom ! Songez-y,
-Monsieur, il ne faudrait que cette étourderie
-Pour donner du dessous à la philosophie.
-
--*who_valere
-D'accord.
-
--*who_monsieurcarondas
-      Il faut d'ailleurs supprimer entre nous
-Les tons trop familiers, puisqu'enfin, selon vous,
-Les hommes sont égaux par le droit de nature,
-Je suis, quoique Frontin, votre égal.
-
--*who_valere
-      Je te jure
-Que c'est mon sentiment.
-
--*who_monsieurcarondas
-      Moi, je l'approuve fort.
-J'avais toujours pensé que les lois avaient tort ;
-Et même Cydalise, en un certain chapitre,
-Ne prouve point trop mal à mon gré...
-
--*who_valere
-      Le beau titre
-Que l'avis d'une folle à qui dans un moment
-On ferait adopter tout autre sentiment ;
-Qui ne sait que des mots, et n'a rien dans la tête.
-
--*who_monsieurcarondas
-Mais entre nous, monsieur, son livre est-il si bête ?
-
--*who_valere
-Pitoyable.
-
--*who_monsieurcarondas
-      Le style...
-
--*who_valere
-      Ennuyeux à l'excès.
-
--*who_monsieurcarondas
-Vous la flattez pourtant du plus brillant succès.
-
--*who_valere
-Sans doute.
-
--*who_monsieurcarondas
-      Et le public ?
-
--*who_valere
-      Nous savons lui prescrire
-Comment il faut penser, parler, juger, écrire ;
-Nous le déciderons aisément.
-
--*who_monsieurcarondas
-      D'accord ; mais
-Il faut l'apprivoiser, le flatter.
-
--*who_valere
-      Non, jamais.
-Il est, pour le gagner, des méthodes plus sûres.
-
--*who_monsieurcarondas
-Le moyen ?
-
--*who_valere
-      Par exemple, on lui dit des injures.
-C'est un expédient par nos sages trouvé ;
-Le secret est certain, nous l'avons éprouvé.
-Dans peu, tu le verras toi-même avec surprise,
-Nous porterons aux cieux le nom de Cydalise ;
-Cinq ou six traits hardis, révoltants, scandaleux,
-Produiront dans son livre un effet merveilleux.
-Il faut les ajouter.
-
--*who_monsieurcarondas
-      Bon ! La ruse est nouvelle !
-Et comment lui prouver que ces traits-là sont d'elle.
-
--*who_valere
-Et le reste en est-il ? D'abord avec pudeur
-Elle s'en défendra, puis s'en croira l'auteur.
-
--*who_monsieurcarondas
-Je ne sais ; mais pour moi, je rougirais dans l'âme...
-
--*who_valere
-As-tu donc oublié que Cydalise est femme ?
-Crois-moi, suppose encore un piège plus grossier,
-L'amour propre est crédule, et l'on peut s'y fier.
-Les femmes sur ce point sont même assez sincères.
-
--*who_monsieurcarondas
-Messieurs les beaux esprits ne leur en doivent guère.
-Mais enfin vous croyez qu'avec cinq ou six traits
-Nous devons nous attendre au plus heureux succès ?
-
--*who_valere
-Sans doute, et cette idée, entre nous, n'est pas neuve.
-Le livre de Cratès n'en est-il pas la preuve ?
-Jamais production ne prit un tel essor.
-Chacun se l'arrachait, on se l'arrache encor :
-Pour livre dangereux partout on le renomme,
-Et pourtant nous savons que Cratès est bon homme.
-
--*who_monsieurcarondas
-Il est vrai.
-
--*who_valere
-      Cydalise aura plus de faveur.
-On ne juge jamais son sexe à la rigueur.
-Quelques-uns de ces traits qu'on se dit à l'oreille,
-Au public hébété feront crier merveille !
-Je veux que Cratès même en devienne jaloux,
-Et rien n'est plus aisé, nous la protégeons tous.
-
--*who_monsieurcarondas
-Hé bien, quoique nourri, monsieur, à votre école,
-J'avais, tout bonnement, admiré sur parole
-Et l'ouvrage et l'auteur. Car enfin, mot à mot
-Elle n'a rien écrit que d'après vous.
-
--*who_valere
-      Le sot !
-Mais pour ces beaux endroits ajoutés à son livre,
-Si les lois s'avisaient, monsieur, de nous poursuivre.
-
--*who_valere
-Elle aurait le plaisir de s'entendre louer ;
-N'est-ce rien ? Quitte après à tout désavouer.
-D'ailleurs l'amour du vrai va jusqu'à l'héroïsme.
-Ces grands mots imposants d'erreur , de fanatisme ,
-De persécution , viendraient à son secours.
-C'est un ressort usé qui réussit toujours.
-N'avons-nous pas encor l'exemple de Socrate
-Opprimé, condamné par sa patrie ingrate ?
-Tous nos admirateurs parleraient à la fois.
-
--*who_monsieurcarondas
-Mais, monsieur, ce Socrate obéissait aux lois.
-
--*who_valere
-Oui, la philosophie encor dans son enfance
-Des préjugés du moins conservait l'apparence ;
-Mais nous n'en voulons plus.
-
--*who_monsieurcarondas
-      Tout devient donc permis ?
-
--*who_valere
-Excepté contre nous et contre nos amis.
-
--*who_monsieurcarondas
-Vive le bel esprit et la philosophie !
-Rien n'est mieux inventé pour adoucir la vie.
-
--*who_valere
-Comment ! Sur des rochers on plaçait la vertu ?
-Y grimpait qui pouvait. L'homme était méconnu.
-Ce roi des animaux, sans guide et sans boussole,
-Sur l'océan du monde errait au gré d'Éole ;
-Mais enfin nous savons quel est son vrai moteur.
-L'homme est toujours conduit par l'attrait du bonheur,
-C'est dans ses passions qu'il en trouve la source.
-Sans elles, le mobile arrêté dans sa course
-Languirait tristement à la terre attaché.
-Ce pouvoir inconnu, ce principe caché,
-N'a pu se dérober à la philosophie,
-Et la morale enfin est soumise au génie.
-Du globe où nous vivons despote universel,
-Il n'est qu'un seul ressort, l'intérêt personnel ;
-À tous nos sentiments, c'est lui seul qui préside ;
-C'est lui qui dans nos choix nous éclaire et nous guide.
-Libre de préjugés ; mais docile à sa voix,
-Le sauvage attentif le suit au fond des bois.
-L'homme civilisé reconnaît son empire ;
-Il commande en un mot à tout ce qui respire.
-
--*who_monsieurcarondas
-Quoi ! Monsieur, l'intérêt doit seul être écouté ?
-
--*who_valere
-La nature en a fait une nécessité.
-
--*who_monsieurcarondas
-J'avais quelque regret à tromper Cydalise ;
-Mais je vois clairement que la chose est permise.
-
--*who_valere
-La fortune t'appelle, il faut la prendre au mot.
-
--*who_monsieurcarondas
-Oui, monsieur.
-
--*who_valere
-      La franchise est la vertu d'un sot.
-
--*who_monsieurcarondas
-Oui, Monsieur... mais toujours je sens quelque scrupule
-Qui voudrait m'arrêter.
-
--*who_valere
-      Préjugé ridicule,
-Dont il faut s'affranchir !
-
--*who_monsieurcarondas
-      Quoi ! Véritablement ?
-
--*who_valere
-Il s'agit d'être heureux, il n'importe comment.
-
--*who_monsieurcarondas
-Tout de bon ?
-
--*who_valere
-      Mais sans doute, en flattant Cydalise,
-Tu remplis un devoir que l'usage autorise.
-Ne faut-il pas flatter quand on veut plaire aux gens ?
-Bien voir ses intérêts, c'est être de bon sens.
-Le superflu des sots est notre patrimoine.
-Ce que dit un corsaire au roi de Macédoine,
-Est très vrai dans le fond.
-      Oui, monsieur.
-
--*who_valere
-      Tous les biens,
-Devraient être communs ; mais il est des moyens
-De se venger du sort. On peut avec adresse
-Corriger son étoile, et c'est une faiblesse
-Que de se tourmenter d'un scrupule éternel.
-Mais que fais-tu donc là ?
-
--*who_monsieurcarondas
-      L'intérêt personnel...
-Ce principe caché... Monsieur... qui nous inspire,
-Et qui commande enfin à tout ce qui respire...
-
--*who_valere
-Quoi ! Traître, me voler !
-
--*who_monsieurcarondas
-      Non. J'use de mon droit,
-Tous les biens sont communs.
-
--*who_valere
-      Oui, mais sois plus adroit.
-Il est certains malheurs auxquels on se hasarde,
-Lorsque l'on est surpris.
-
--*who_monsieurcarondas
-      Monsieur, j'y prendrai garde.
-
--*who_valere
-Ceci, Monsieur Frontin, doit être une leçon ;
-Mais puisqu'il ne faut plus vous nommer de ce nom,
-Songez à me servir auprès de Cydalise.
-Jusqu'ici, tout va bien ; sa fille m'est promise.
-Vous savez là-dessus quels sont mes sentiments,
-Ainsi continuez de flatter ses talents.
-Vos termes de collège ont produit des merveilles ;
-Il faut de plus en plus étourdir ses oreilles,
-De ce jargon savant qui vous a réussi.
-Vous êtes sans fortune, et vous pouvez ici
-Vous faire un petit sort que j'aurai soin d'étendre,
-Si mes voeux ont l'effet que j'ai droit d'en attendre.
-Adieu, soyez discret, je serai généreux.
-
-**** *book_ *id_II02 *act_II *date_1760
-
--*who_monsieurcarondas
-Mon premier coup d'essai n'est pas des plus heureux.
-Je suis encor trop loin d'atteindre mon modèle,
-Et c'est au second rang que le destin m'appelle.
-
-**** *book_ *id_II03 *act_II *date_1760
-
--*who_cydalise
 Me voilà parvenue à m'en débarrasser.
 Que l'oisiveté pèse alors qu'on veut penser !
 Parmi tous ces fâcheux dont j'étais obsédée,
@@ -950,107 +123,37 @@ Mon livre va paraître, on attend la préface,
 Il faut y travailler. J'aurais voulu pourtant
 Que nous eussions Valère.
 
--*who_monsieurcarondas
-      Il me quitte à l'instant,
-Et nous parlions de vous, madame, avec ivresse.
-
--*who_cydalise
 Vous parliez de mon livre ?
 
--*who_monsieurcarondas
-      Il en parle sans cesse.
-C'est, dit-il, un brevet pour l'immortalité ;
-Vous allez éclipser la docte antiquité.
-Je n'ose avec le sien mesurer mon suffrage ;
-Mais l'admiration me prend à chaque page.
-
--*who_cydalise
 Vous en êtes content ?
 
--*who_monsieurcarondas
-      Mon esprit s'y confond.
-Votre livre est nourri d'un savoir si profond
-Que vous me feriez croire au démon de Socrate.
-
--*who_cydalise
 Vous vous y connaissez.
 
--*who_monsieurcarondas
-      Oui, madame, on m'en flatte.
-Mais apprenez-moi donc comment cela se fit ?
-Il faut que vous sachiez tout ce qui s'est écrit.
-
--*who_cydalise
 Avec nombre de gens je me suis rencontrée,
 Et c'est un pur hasard.
 
--*who_monsieurcarondas
-      Vous étiez inspirée.
-Quoi ! Vous n'avez pas lu le savant Vossius ?
-
--*who_cydalise
 Non, jamais.
 
--*who_monsieurcarondas
-      Casaubon ?
-
--*who_cydalise
       Encor moins.
 
--*who_monsieurcarondas
-      Grotius ?
-
--*who_cydalise
 Point du tout. Sont-ce là les livres d'une femme ?
 
--*who_monsieurcarondas
-Ma foi, de plus en plus vous m'étonnez, madame,
-Quoi ! Rien de tout cela ?
-
--*who_cydalise
       Non, rien, vous dis-je, rien.
 
--*who_monsieurcarondas
-Mais vous parlez des lois mieux que Tribonien.
-Oh ! Pour Tribonien , convenez...
-
--*who_cydalise
       Je l'ignore.
 
--*who_monsieurcarondas
-Vous connaissez du moins Thalès, Anaxagore ?
-
--*who_cydalise
 Non.
 
--*who_monsieurcarondas
-      Le fils naturel ?
-
--*who_cydalise
       Pour celui-là, d'accord.
 Ce sont de ces écrits qu'il faut citer d'abord.
 
--*who_monsieurcarondas
-Je ne veux point ici m'ériger en arbitre ;
-Mais j'en aurais jugé, comme vous, sur le titre.
-
--*who_cydalise
 C'est aussi mon avis, et je crois qu'en effet
 Un ouvrage excellent s'annonce au moindre trait.
 C'est un je ne sais quoi... dont notre âme est saisie...
 Cela se sent... enfin c'est l'attrait du génie.
 
--*who_monsieurcarondas
-J'entends. C'est à peu près la vapeur d'un ragoût
-Qui réveille à la fois l'odorat et le goût.
-
--*who_cydalise
 Oui ; la comparaison est pourtant trop vulgaire.
 
--*who_monsieurcarondas
-Elle est de Lycophron .
-
--*who_cydalise
       Ah ! C'est une autre affaire.
 Venons à ma préface. Allons, je vais dicter.
 Écrivez. "J'ai vécu". Non, c'est mal débuter.
@@ -1058,18 +161,9 @@ Effacez, "J'ai vécu" . Mettez-vous à votre aise.
 Ah ! Monsieur Carondas, votre plume est mauvaise.
 "J'ai vécu" ne vaut rien.
 
--*who_monsieurcarondas
-      Je m'en contenterais.
-"J'ai vécu", dit beaucoup !
-
--*who_cydalise
       Non, monsieur, je voudrais
 Un début plus pompeux et plus philosophique.
 
--*who_monsieurcarondas
-Cette simplicité, madame, est énergique.
-
--*who_cydalise
 Non, non, je cherche un tour qui soit moins familier.
 On n'a jamais écrit sur de pareil papier.
 Effacez donc, monsieur ; votre encre est détestable.
@@ -1078,12 +172,6 @@ Ah ! Valère, après tout, devrait bien être ici.
 Je ne me sens jamais tant d'esprit qu'avec lui.
 Quoi ! Pas même une idée ? Ah ! Je suis au supplice.
 
--*who_monsieurcarondas
-Madame, le génie a ses jours de caprice,
-Et ceci me rappelle un mot de Suidas,
-Qui dit élégamment...
-
--*who_cydalise
       Hé ! Monsieur Carondas,
 Laissez les morts en paix. J'avais un trait sublime,
 Qui m'échappe. Attendez... mais, oui ; ce tour exprime...
@@ -1096,68 +184,22 @@ Vite, écrivez, monsieur : "jeune homme, prends et lis".
 "Jeune homme prends et lis". le tour est-il unique ?
 Qu'en pensez-vous, monsieur ?
 
--*who_monsieurcarondas
-      Sublime, magnifique !
-C'est le ton du génie et de la vérité.
-
--*who_cydalise
 J'oublie en le lisant tout ce qu'il m'a coûté.
 "Jeune homme prends et lis" ! Il est inimitable,
 Et Valère en sera d'une joie incroyable.
 
--*who_monsieurcarondas
-D'un doux frémissement vous vous sentez troubler.
-"Jeune homme, prends et lis". l'oracle va parler ;
-La nature à tes yeux ici se manifeste.
-Non, rien n'est si sublime, et pourtant si modeste.
-
--*who_cydalise
 Mais que nous veut Marton ?
 
-**** *book_ *id_II04 *act_II *date_1760
-
--*who_marton
-      Madame, c'est Damis,
-Qui demande à vous voir.
-
--*who_cydalise
       Que son temps est mal pris !
 J'allais finir sans lui. L'importun personnage !
 On ne me permet pas d'achever un ouvrage.
 
--*who_marton
-Valère achèvera.
-
--*who_monsieurcarondas
-      Qu'appelez-vous finir ?
-L'ouvrage est fait, madame, à n'y plus revenir.
-Je le donne en dix ans à nos plus grands génies.
-
--*who_cydalise
 Oui, vous avez raison. Faites-en vingt copies.
 Ah ! Je respire enfin, et j'ai su m'en tirer.
 "Jeune homme, prends et lis". Oui, Damis peut entrer.
 
-**** *book_ *id_II05 *act_II *date_1760
-
--*who_cydalise
 Vous voilà de retour ?
 
--*who_damis
-      Oui, je reviens, madame,
-Pour me plaindre de vous et vous ouvrir mon âme.
-Je n'aperçois que trop, et c'est avec douleur,
-Que j'ai perdu mes droits au fond de votre coeur,
-Et que votre amitié s'est enfin ralentie ;
-Mais la mienne jamais ne s'étant démentie,
-Souffrez que je rappelle à votre souvenir
-Un espoir que le temps ne dut pas en bannir.
-Vous savez à quel point votre fille m'est chère ;
-C'est votre aveu, du moins, c'est celui de son père,
-Qu'en faveur de mes feux je réclame aujourd'hui,
-Puisqu'enfin près de vous j'ai besoin d'un appui.
-
--*who_cydalise
 Le titre, je l'avoue, est assez légitime ;
 Je conviens de mes torts, non pas que mon estime,
 Ni que cette amitié qui m'attachait à vous,
@@ -1177,48 +219,14 @@ Cette heureuse union doit combler mon espoir,
 C'est à vous de juger si, quoique votre amie,
 Je dois vous immoler le bonheur de ma vie.
 
--*who_damis
-Non, pour votre bonheur je donnerais mes jours,
-Et la même amitié m'inspirera toujours.
-Mais quels sont donc enfin ces rares avantages
-Attachés, dites-vous, au commerce des sages.
-Je ne prends point pour tels un tas de charlatans,
-Qu'on voit sur des tréteaux ameuter les passants,
-Qui mettent une enseigne à leur philosophie :
-De tous ces importants ma raison se défie.
-De ce vain appareil le vulgaire est séduit.
-Moi, je suis de ces gens qui font peu cas du bruit,
-Et je distingue fort l'ami de la sagesse,
-Du pédant qui s'enroue à la prêcher sans cesse.
-
--*who_cydalise
 Je sais tout le mépris que l'on doit aux pédants,
 Et ne les confonds pas avec les vrais savants.
 Épargnez-vous, monsieur, cette satyre amère,
 Ceux que je peux nommer, Théophraste, Valère,
 Dortidius enfin, sont tous assez connus...
 
--*who_damis
-Je ne connais entr'eux que ce Dortidius .
-Quoi ! Madame, il en est ?
-
--*who_cydalise
       D'où vient cette surprise ?
 
--*who_damis
-Je l'ai connu, vous dis-je ; excusez ma franchise :
-Apparemment qu'alors il cachait bien son jeu ;
-Mais ce n'était qu'un sot, presque de son aveu.
-Quelqu'un me le fit voir, et malgré sa grimace,
-Et les plats compliments qu'il vous adresse en face,
-Et le sucre apprêté de ses propos mielleux,
-Ma foi, je n'y vis rien de si miraculeux.
-Malgré son ton capable, et son air hypocrite,
-Je ne fus point tenté de croire à son mérite,
-Et je ne lui trouvai pour le peindre en deux mots,
-Qu'un froid enthousiasme imposant pour les sots.
-
--*who_cydalise
 Ce jugement fait tort à votre intelligence,
 Et ce Dortidius fait honneur à la France ;
 Son nom chez les savants fut toujours en crédit,
@@ -1252,7 +260,405 @@ Vit l'univers en grand, l'adopta pour patrie,
 Et mettant à profit ma sensibilité,
 Je ne m'attendris plus que sur l'humanité.
 
--*who_damis
+Vous en voulez beaucoup à cette humanité.
+
+En vérité, monsieur, les sages sont à plaindre,
+Et vous êtes pour eux un adversaire à craindre.
+Le siècle et la patrie ont beau s'en applaudir,
+Sur le bien qu'ils ont fait il vaut mieux s'étourdir,
+Et servir d'interprète et d'organe à l'envie.
+
+J'admire vos raisons, elles sont d'un grand poids ;
+Et vous me citez-là des exemples de choix,
+Bien dignes en effet d'appuyer votre cause.
+Mais un abus jamais prouva-t-il quelque chose ?
+Faudrait-il renoncer pour quelques importuns ? ...
+
+Restez, monsieur, restez dans votre opinion.
+Il n'est point de remède à la prévention ;
+À penser autrement vous auriez du scrupule,
+Hé ! Que peut la raison sur un esprit crédule !
+
+Voilà parler en sage, et je vous applaudis ;
+C'est très bien fait à vous que d'avoir un avis.
+Mais, sans nous égarer dans ces hautes matières,
+Je sais ce que je dois aux talents, aux lumières,
+De ces hommes de bien que vous persécutez.
+
+Vous avez donc tout dit ? J'admire le bon sens,
+Et la solidité de vos raisonnements.
+Dans un très haut éclat votre mérite y brille ;
+Mais j'ai pris mon parti. Vous n'aurez point ma fille.
+Adieu, monsieur.
+
+Pardon, si j'ai tardé ; je m'occupais de vous,
+Et ce sont-là toujours mes moments les plus doux.
+Asseyons-nous, messieurs : ah ! Vous voilà, Valère !
+On vient de m'apporter le projet du notaire,
+Vous en serez content.
+
+Je vous dois le bonheur répandu sur ma vie,
+Je m'acquitte envers vous. Mais, messieurs, à l'instant
+Vous parliez avec feu. Quel sujet important
+Pouvait vous diviser ? J'ai cru du moins entendre
+Que l'on se disputait.
+
+      Puis-je apprendre
+Sur quoi vous dissertiez avec tant d'intérêt ?
+
+Moi ?
+
+Quoi donc ?
+
+N'allez pas là-dessus demander mon avis ;
+Je sais trop...
+
+      Ah ! C'est la vérité.
+
+Je devrais le gronder, son esprit me désarme ;
+On ne peut y tenir, et je suis sous le charme .
+
+Monsieur Dortidius, dit-on quelques nouvelles ?
+
+On ne trouve jamais son esprit en défaut.
+
+Oui, véritablement, ce sont-là des misères.
+
+Je n'appellerai pas de votre autorité.
+À propos, parle-t-on de quelque nouveauté ?
+
+      Un chef-d'oeuvre, sans doute.
+
+Une tragédie ?
+
+      Je craindrais la critique ;
+Contre les nouveautés elle a toujours raison ;
+Et le public...
+
+Je ne sais, le vieux goût tient encore au parterre.
+
+Oui ; je n'y songeais pas, et vous me détrompez.
+
+Et ce chef-d'oeuvre enfin l'attendrons-nous longtemps ?
+
+Quoi donc ?
+
+      L'entreprise est hardie.
+
+Ah ! Le public entier...
+
+Ah ! Tous les magistrats élèveraient la voix.
+
+Mais la cour...
+
+      C'est bien dit : qui le brave est son maître.
+Mais notre colporteur tarde bien à venir.
+Il devrait être ici : qui peut le retenir ?
+
+      Il faut qu'on l'avertisse.
+
+      Entrez, Monsieur Propice.
+Avez-vous du nouveau ?
+
+      L'idée en est comique ;
+Mais cela n'est plus neuf.
+
+Passons.
+
+L'auteur m'en fit présent.
+
+Voyons. Je les connais. Est-ce tout ?
+
+      Bon.
+C'est un livre excellent !
+
+Je le garde ; quelqu'un m'a pris mon exemplaire.
+
+Ah ! Je vais le relire avec avidité.
+Quel est cet autre écrit... Là... Que je vois en tête ?
+
+Ah ! Ah ! Je m'en souviens ; il est très amusant.
+
+Non. Je retiens ceci. Bonjour, Monsieur Propice.
+
+Ah ! Je relirai donc mon livre favori.
+
+Pour moi, je goûterais une volupté pure
+À nous voir tous rentrer dans l'état de nature.
+
+Mais que nous veut Marton ?
+
+      Il se nomme ?
+
+Le nom est singulier.
+
+      Mais enfin.
+Les noms ne prouvent rien : ah ! Ciel ! Quelle surprise !
+
+Il est original du moins dans son système.
+
+Savez-vous qu'on démêle, à travers sa folie,
+De l'esprit ?
+
+Dans le fond, ce serait un homme à respecter ;
+Mais par les préjugés on se sent arrêter.
+
+Vous donnez, à vrai dire, un exemple bien rare ;
+Mais votre empressement ne peut qu'être flatteur ;
+Vous êtes philosophe, et même à la rigueur.
+
+Mais qui peut nous venir ?
+
+Qu'avez-vous ?
+
+C'est un grand philosophe, il sera de la fête.
+
+      Quel est donc ce mystère ?
+
+      Je connais l'écriture ;
+C'est la vôtre, monsieur.
+
+Je te renvoie, mon cher Frontin, ce recueil d'impertinences que Cydalise appelle son livre. Continue de flatter cette folle, à qui ton nom savant en impose. Théophraste et Dortidius viennent de me communiquer un projet excellent qui achèvera de lui tourner la tête, et pour lequel tu nous seras nécessaire. Ses ridicules, ses travers, ses...
+
+      Lisez, Monsieur, lisez ;
+Et justifiez-vous après, si vous l'osez.
+De vos séductions j'étais donc la victime !
+Et mes yeux sont ouverts sur le bord de l'abîme !
+Que vous avais-je fait pour me traiter ainsi ?
+Allez, et de vos jours ne paraissez ici.
+Votre confusion suffit à ma vengeance.
+Ingrats ; d'autres peut-être auront moins d'indulgence.
+C'est le dernier espoir de mon coeur outragé : partez.
+
+Les cruels, à quel point ils m'avaient prévenue.
+
+Venez, Damis, venez, je sens que votre vue
+Me rappelle l'excès de mon aveuglement.
+
+À ces hommes pervers j'avais sacrifié
+Les devoirs les plus saints, et même l'amitié.
+Vous êtes bien vengé ! Ma chère Rosalie,
+Je reconnais mes torts, que ton coeur les oublie ;
+Je les répare tous en te donnant Damis.
+
+
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalie
+
+Doutez-vous que le mien en soit moins pénétré ?
+Je vois avec douleur ce changement extrême,
+Je souffre autant que vous ; mais enfin je vous aime.
+À ce titre du moins quelque espoir m'est permis.
+Qui pourrait résister à deux amants unis ?
+Ma mère vous aimait. En vous voyant, peut-être,
+Dans son coeur combattu, l'amitié va renaître.
+Sur ce coeur autrefois j'avais plus de pouvoir,
+Je le sais ! C'est à vous, Damis, de l'émouvoir ;
+Allez, et pour combler le bonheur que j'espère,
+Que je vous doive encor les bontés de ma mère.
+
+Laisse-moi mon erreur.
+
+Je ne l'aurais pas cru ! Mais pourtant, si ma mère
+M'immolait sans retour aux desseins de Valère,
+Si ce projet enfin était bien avéré,
+Pourquoi jusqu'à présent n'est-il pas déclaré ?
+Qui peut la retenir ?
+
+Hélas ! Peux-tu, Marton, me désoler ainsi ?
+
+      Mais, Marton...
+
+      En vérité, Marton,
+Ce cruel badinage est bien peu de saison.
+
+      Tu poursuis ? Hé bien ! Je...
+
+Non, monsieur, c'en est trop.
+
+      Oh ! Je te le promets.
+
+Si tu pouvais sentir combien je hais Valère !
+
+      Certainement.
+
+Oh ! Oui.
+
+Assurément, Marton.
+
+Ah ! Marton...
+
+      Aussi, pourquoi m'épouvanter ?
+L'amour dans le besoin me rendra du courage.
+
+      Mais enfin tu verras.
+
+Tu me soutiendras ?
+
+      Hé quoi ! La voix de la nature,
+Quoi ! Cette impression si touchante et si pure,
+Ce premier des devoirs, cet auguste lien,
+(je définirai mal ce que je sens si bien,)
+N'importe, se peut-il que le coeur de ma mère
+Méconnaisse aujourd'hui ce sacré caractère ?
+Ah ! Rappelez pour moi vos sentiments passés.
+En les analysant, vous les affaiblissez.
+
+Vous déchirez mon coeur. Ah ! Permettez, madame,
+Souffrez qu'à vos genoux votre fille réclame
+Un droit plus légitime et des titres plus doux.
+Pourquoi briser les noeuds qui m'attachaient à vous ?
+Jugez de leur pouvoir à mon trouble, à mes larmes.
+
+Je ne puis soutenir ce funeste langage.
+Il fait à toutes deux un trop sensible outrage.
+Qui ? Moi ! Le pensez-vous, que je puisse jamais
+Oublier que ma vie est un de vos bienfaits ?
+Non...
+
+Ainsi, vous oubliez que Damis autrefois
+Eut votre aveu, madame, et celui de mon père ?
+
+Ah ! Madame, songez...
+
+Si ce sont-là les droits de la philosophie,
+Souffrez que j'y renonce, et pour toute ma vie.
+Je perdrais trop, madame, à m'éclairer ainsi ;
+J'ose vous l'avouer. Daignez permettre aussi
+Qu'en faveur de Damis je vous rappelle encore
+Vos premières bontés que votre fille implore.
+
+      Quelle douleur mortelle !
+Que résoudre ? Que faire ? Ah ! Te voilà, Marton.
+
+      Je n'ai plus qu'à mourir.
+
+Mais enfin...
+
+Mon âme en ce moment n'en est pas moins émue.
+
+Ah ! Marton...
+
+Oui, si tu réussis ; mais qui m'en répondra ?
+
+Tous mes voeux sont remplis, le ciel me rend ma mère.
+
+
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
+Non, je ne reviens pas d'un semblable vertige.
+Rompre un hymen conclu !
+
+Mais encor ?
+
+Que me dis-tu, Marton ?
+
+Le moyen que l'on change ainsi dans un moment !
+
+Quelque chargé que soit ce bizarre tableau,
+Je livre Cydalise aux traits de ton pinceau ;
+Je m'en rapporte à toi. Mais que fait Rosalie ?
+
+Aux voeux de mon rival son coeur s'est-il rendu ?
+
+Elle fut mon amie, et je me flatte encore...
+
+      Hé bien ? Quoi ?
+
+Bon !
+
+Quelque brochure ?
+
+Je lui conseille fort de garder l'anonyme.
+Mais, dans ces beaux esprits que Cydalise estime,
+N'en est-il donc aucun assez droit, assez franc,
+Pour lui montrer l'excès d'un travers aussi grand ;
+Pour la désabuser ?
+
+Et ce sont-là, dis-tu, des philosophes ?
+
+Quel motif as-tu donc pour en juger si mal ?
+
+Quel homme est-ce ?
+
+Ha, ha, ha, ha, ha, ha.
+
+Ce Monsieur Carondas est de mauvais augure ;
+Mais avec ton secours et celui de Crispin...
+
+      Vraiment oui. Mon dessein
+Était de vous unir ; tu le sais, et j'espère
+Que tu me serviras de ton mieux.
+
+Je compte sur tes soins.
+
+Je te devrai, Marton, le bonheur de ma vie.
+Mais... Ne puis-je un moment ? ...
+
+      Après trois mois d'absence,
+Quand je reviens ici, guidé par l'espérance,
+Réclamer une foi promise à mon ardeur,
+On m'apprend qu'un rival, jaloux de mon bonheur,
+Ose me disputer le seul bien où j'aspire,
+Qu'avec lui, contre moi, votre mère conspire.
+Ah ! Rassurez du moins mon coeur désespéré.
+
+Encore est-il permis de tenter l'entreprise.
+
+      Marton...
+
+      Marton...
+
+      Rosalie.
+
+      Demeurez, je vous prie.
+
+Comment ! Voilà, parbleu, de la philosophie !
+
+Je cours m'y disposer, dans un espoir si doux.
+Je remets en tes mains le bonheur de ma vie.
+Vous que j'adore, adieu, ma chère Rosalie.
+
+      Oui, je reviens, madame,
+Pour me plaindre de vous et vous ouvrir mon âme.
+Je n'aperçois que trop, et c'est avec douleur,
+Que j'ai perdu mes droits au fond de votre coeur,
+Et que votre amitié s'est enfin ralentie ;
+Mais la mienne jamais ne s'étant démentie,
+Souffrez que je rappelle à votre souvenir
+Un espoir que le temps ne dut pas en bannir.
+Vous savez à quel point votre fille m'est chère ;
+C'est votre aveu, du moins, c'est celui de son père,
+Qu'en faveur de mes feux je réclame aujourd'hui,
+Puisqu'enfin près de vous j'ai besoin d'un appui.
+
+Non, pour votre bonheur je donnerais mes jours,
+Et la même amitié m'inspirera toujours.
+Mais quels sont donc enfin ces rares avantages
+Attachés, dites-vous, au commerce des sages.
+Je ne prends point pour tels un tas de charlatans,
+Qu'on voit sur des tréteaux ameuter les passants,
+Qui mettent une enseigne à leur philosophie :
+De tous ces importants ma raison se défie.
+De ce vain appareil le vulgaire est séduit.
+Moi, je suis de ces gens qui font peu cas du bruit,
+Et je distingue fort l'ami de la sagesse,
+Du pédant qui s'enroue à la prêcher sans cesse.
+
+Je ne connais entr'eux que ce Dortidius .
+Quoi ! Madame, il en est ?
+
+Je l'ai connu, vous dis-je ; excusez ma franchise :
+Apparemment qu'alors il cachait bien son jeu ;
+Mais ce n'était qu'un sot, presque de son aveu.
+Quelqu'un me le fit voir, et malgré sa grimace,
+Et les plats compliments qu'il vous adresse en face,
+Et le sucre apprêté de ses propos mielleux,
+Ma foi, je n'y vis rien de si miraculeux.
+Malgré son ton capable, et son air hypocrite,
+Je ne fus point tenté de croire à son mérite,
+Et je ne lui trouvai pour le peindre en deux mots,
+Qu'un froid enthousiasme imposant pour les sots.
+
 Je ne sais, mais enfin dussé-je vous déplaire,
 Ce mot "d'humanité" ne m'en impose guère,
 Et par tant de fripons je l'entends répéter,
@@ -1272,24 +678,12 @@ Devenir, en un mot, de meilleurs citoyens ;
 Et pour en parler vrai, ma foi, je les soupçonne
 D'aimer le genre humain, mais pour n'aimer personne.
 
--*who_cydalise
-Vous en voulez beaucoup à cette humanité.
-
--*who_damis
 On en abuse trop, et j'en suis révolté.
 C'est pour le coeur de l'homme un sentiment trop vaste,
 Et j'ai vu quelquefois, par un plaisant contraste,
 De ce système outré les plus chauds partisans,
 Chérir tout l'univers, excepté leurs enfants.
 
--*who_cydalise
-En vérité, monsieur, les sages sont à plaindre,
-Et vous êtes pour eux un adversaire à craindre.
-Le siècle et la patrie ont beau s'en applaudir,
-Sur le bien qu'ils ont fait il vaut mieux s'étourdir,
-Et servir d'interprète et d'organe à l'envie.
-
--*who_damis
 Hé ! Quel bien a produit cette philosophie ?
 Je ne découvre pas ces succès éclatants.
 Je vois autour de moi de petits importants,
@@ -1304,25 +698,10 @@ Louant, admirant tout dans les autres pays,
 Et se faisant honneur d'avilir leur patrie :
 Sont-ce là les succès sur lesquels on s'écrie ?
 
--*who_cydalise
-J'admire vos raisons, elles sont d'un grand poids ;
-Et vous me citez-là des exemples de choix,
-Bien dignes en effet d'appuyer votre cause.
-Mais un abus jamais prouva-t-il quelque chose ?
-Faudrait-il renoncer pour quelques importuns ? ...
-
--*who_damis
 Madame, ces abus deviennent trop communs.
 J'en prévois pour les moeurs d'étranges catastrophes,
 Et je suis alarmé de tant de philosophes.
 
--*who_cydalise
-Restez, monsieur, restez dans votre opinion.
-Il n'est point de remède à la prévention ;
-À penser autrement vous auriez du scrupule,
-Hé ! Que peut la raison sur un esprit crédule !
-
--*who_damis
 On croit avoir tout dit, madame, avec ce mot.
 Crédule est devenu l'équivalent de sot :
 Aux yeux de bien des gens, du moins la chose est claire.
@@ -1336,14 +715,6 @@ Il faut bien leur laisser le droit de s'égayer.
 Mais moi, j'ose à mon tour les trouver ridicules,
 Et souvent la bêtise a fait des incrédules.
 
--*who_cydalise
-Voilà parler en sage, et je vous applaudis ;
-C'est très bien fait à vous que d'avoir un avis.
-Mais, sans nous égarer dans ces hautes matières,
-Je sais ce que je dois aux talents, aux lumières,
-De ces hommes de bien que vous persécutez.
-
--*who_damis
 Ils vous ont donc appris de grandes vérités.
 Je ne le croyais pas. Ils ont l'art de détruire,
 Mais ils n'élèvent rien, et ce n'est pas instruire.
@@ -1356,538 +727,292 @@ Ce sont eux que l'on doit nommer persécuteurs.
 Abjurez une erreur qui vous est étrangère,
 Et reprenez enfin votre vrai caractère.
 
--*who_cydalise
-Vous avez donc tout dit ? J'admire le bon sens,
-Et la solidité de vos raisonnements.
-Dans un très haut éclat votre mérite y brille ;
-Mais j'ai pris mon parti. Vous n'aurez point ma fille.
-Adieu, monsieur.
-
--*who_damis
       Ah ! Ciel ! Je ne sais où j'en suis !
 
-**** *book_ *id_II06 *act_II *date_1760
-
--*who_crispin
-Hé ! Bien, cette démarche a-t-elle eu d'heureux fruits ?
-Épousons-nous, Monsieur ? Cydalise, sans doute...
-
--*who_damis
 Je viens de lui parler, Crispin : mais qu'il m'en coûte !
 Il me faut renoncer à cet hymen.
 
--*who_crispin
-      Comment ?
-
--*who_damis
 Je suis congédié.
 
--*who_crispin
-      Quoi ! La... formellement ?
-
--*who_damis
 Oui, très formellement, Crispin.
 
--*who_crispin
-      Nous savons plaire,
-Monsieur, et nous serions éconduits par Valère !
-N'est-il point de remède ?
-
--*who_damis
       Oh ! Je n'en vois aucun.
 
--*who_crispin
-Bon ! Vous n'y pensez pas : moi, j'en vois cent pour un.
-Il faut tout simplement enlever Rosalie.
-C'est le plus court.
-
--*who_damis
       Crispin, quel excès de folie !
 Crois-tu qu'elle y consente, et la connais-tu bien
 Pour me parler ainsi ?
 
--*who_crispin
-      Je goutais ce moyen ;
-Mais puisqu'il vous déplaît, il faut dans cette affaire
-Recourir au plus sûr. J'irais trouver Valère,
-Et je voudrais, morbleu, lui parler sur un ton
-À lui faire ce soir déserter la maison.
-
--*who_damis
 Ce serait en effet le parti le plus sage ;
 Mais Cydalise.
 
--*who_crispin
-      Hé ! Bien ?
-
--*who_damis
       N'y verra qu'un outrage,
 Et c'est précisément le moyen de l'aigrir,
 Le secret de me perdre, à n'en plus revenir.
 
--*who_crispin
-Allons, c'est donc à moi par une heureuse audace,
-D'éclairer Cydalise, et de donner la chasse
-À tous ces discoureurs qui lui gâtent l'esprit.
-Auprès d'elle, à mon tour, j'aurai quelque crédit,
-Et pour peu que Marton seconde l'entreprise,
-À la raison bientôt vous la verrez soumise.
-
--*who_damis
 Ah ! Crispin... mais comment s'en reposer sur toi ?
 
--*who_crispin
-Je veux qu'elle balance entre Valère et moi.
-Vous ne connaissez pas encor tout mon mérite ;
-Vous voyez le Strabon d'un nouveau Démocrite.
-
--*who_damis
 Toi ?
 
--*who_crispin
-      Moi-même, monsieur ; j'ai fait plus d'un métier :
-Un sage à ses travaux daigna m'associer ;
-Et quelque jour mon nom eût été sur la liste,
-Du moins il m'en flattait, quand j'étais son copiste.
-
--*who_damis
 Comment ?
 
--*who_crispin
-      J'avais déjà quelques admirateurs ;
-Ah ! Qu'il m'a fait de tort en fuyant les honneurs,
-Pour vivre dans les bois ! Je lui dois la justice
-Qu'il ne connut jamais la brigue, l'artifice.
-De sa philosophie il était entêté,
-Au fond plein de droiture et de sincérité.
-Animal à la fois misanthrope et cynique,
-C'était vraiment un fou dans son espèce unique.
-
--*who_damis
 Ah ! Puis-je t'écouter dans le trouble où je suis ?
 
-**** *book_ *id_II07 *act_II *date_1760
-
--*who_marton
-Allons, monsieur, il faut éclaircir ces ennuis ;
-Vite, de la gaité.
-
--*who_damis
       Comment ! Que veux-tu dire !
 
--*who_marton
-Il faut d'abord, monsieur, commencer par en rire.
-
--*who_crispin
-Oui, rions, c'est bien dit.
-
--*who_damis
       Je suis au désespoir !
 
--*who_marton
-Bon ! Vous n'y pensez pas, et vous voyez trop noir.
-
--*who_crispin
-Mais je crois qu'en effet elle a quelque vertige.
-
--*who_marton
-Consolez-vous.
-
--*who_damis
       Marton...
 
--*who_marton
-      Consolez-vous, vous dis-je.
-
--*who_damis
 Qu'est-il donc arrivé ?
 
--*who_marton
-      Vous l'apprendrez ; venez.
-Oui, je vous mets au rang des amants fortunés.
-
-**** *book_ *id_III01 *act_III *date_1760
-
--*who_damis
 Je ne peux revenir encor de ma surprise !
 C'est donc ainsi, Marton, qu'ils trompaient
 Cydalise ?
 
--*who_marton
-      J'espère qu'à la fin elle entendra raison.
-
--*who_damis
 Oh ! Je n'en doute plus, ce billet est trop bon !
 Que ne te dois-je pas pour cette découverte ?
 
--*who_marton
-L'heureux hasard, monsieur, que cette porte ouverte !
-Ma foi, je le guettais, et depuis fort longtemps ;
-J'avais toujours bien dit qu'il était de leurs gens.
-Je l'aurais affirmé.
-
--*who_crispin
-      C'est Frontin qu'il se nomme :
-À ce nom-là d'abord j'aurais reconnu l'homme.
-
--*who_marton
-Mais qui se chargera de rendre cet écrit ?
-
--*who_damis
 Toi.
 
--*who_marton
-      Moi ? Je me perdrais, monsieur, dans son esprit.
-Je n'oserai jamais.
-
--*who_damis
       Marton...
 
--*who_marton
-      À ma maîtresse,
-Un billet de ce style ! Oh ! Non : point de faiblesse,
-Il m'en coûterait trop.
-
--*who_damis
       Mais...
 
--*who_marton
-      Propos superflus,
-Je ne le ferai pas.
-
--*who_damis
       Ni moi.
 
--*who_crispin
-      Ni moi non plus.
-
--*who_marton
-C'est que d'ailleurs il faut le rendre en leur présence,
-Ou nous ne tenons rien.
-
--*who_damis
       Certainement.
 
--*who_crispin
-      Silence.
-Cydalise, je crois, ne m'a jamais vû ?
-
--*who_marton
-      Non.
-
--*who_crispin
-Et je suis inconnu dans toute la maison ?
-
--*who_marton
-Oui.
-
--*who_crispin
-      Je veux à la fois m'introduire et lui plaire.
-Donnez-moi ce billet, je prends sur moi l'affaire.
-Allez, monsieur, allez, je saurai vous servir.
-
--*who_marton
-Mais vraiment j'entrevois qu'il pourra réussir.
-
--*who_crispin
-Je ne veux que Marton pour prix de mes services.
-Que n'oserai-je pas sous de pareils auspices ?
-
--*who_marton
-On vient, c'est l'assemblée, éloignez-vous tous deux.
-
--*who_damis
 Je me fie à tes soins du succès de mes voeux.
 
--*who_marton
-Hé ! Vite, éloignez-vous, de crainte de surprise.
+Les voilà démasqués, l'erreur n'a qu'un moment.
+Ils sont assez punis de n'être plus à craindre,
+Et ce n'est plus à vous, madame, de vous plaindre.
 
-**** *book_ *id_III02 *act_III *date_1760
+Vous trouverez en moi les sentimens d'un fils.
 
--*who_marton
-Je vais vous annoncer, messieurs, à Cydalise.
 
-**** *book_ *id_III03 *act_III *date_1760
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
--*who_theophraste
-Hé ! Bien, le mariage est enfin décidé ?
+Frontin.
 
--*who_valere
+D'accord.
+
+      Je te jure
+Que c'est mon sentiment.
+
+      Le beau titre
+Que l'avis d'une folle à qui dans un moment
+On ferait adopter tout autre sentiment ;
+Qui ne sait que des mots, et n'a rien dans la tête.
+
+Pitoyable.
+
+      Ennuyeux à l'excès.
+
+Sans doute.
+
+      Nous savons lui prescrire
+Comment il faut penser, parler, juger, écrire ;
+Nous le déciderons aisément.
+
+      Non, jamais.
+Il est, pour le gagner, des méthodes plus sûres.
+
+      Par exemple, on lui dit des injures.
+C'est un expédient par nos sages trouvé ;
+Le secret est certain, nous l'avons éprouvé.
+Dans peu, tu le verras toi-même avec surprise,
+Nous porterons aux cieux le nom de Cydalise ;
+Cinq ou six traits hardis, révoltants, scandaleux,
+Produiront dans son livre un effet merveilleux.
+Il faut les ajouter.
+
+Et le reste en est-il ? D'abord avec pudeur
+Elle s'en défendra, puis s'en croira l'auteur.
+
+As-tu donc oublié que Cydalise est femme ?
+Crois-moi, suppose encore un piège plus grossier,
+L'amour propre est crédule, et l'on peut s'y fier.
+Les femmes sur ce point sont même assez sincères.
+
+Sans doute, et cette idée, entre nous, n'est pas neuve.
+Le livre de Cratès n'en est-il pas la preuve ?
+Jamais production ne prit un tel essor.
+Chacun se l'arrachait, on se l'arrache encor :
+Pour livre dangereux partout on le renomme,
+Et pourtant nous savons que Cratès est bon homme.
+
+      Cydalise aura plus de faveur.
+On ne juge jamais son sexe à la rigueur.
+Quelques-uns de ces traits qu'on se dit à l'oreille,
+Au public hébété feront crier merveille !
+Je veux que Cratès même en devienne jaloux,
+Et rien n'est plus aisé, nous la protégeons tous.
+
+      Le sot !
+Mais pour ces beaux endroits ajoutés à son livre,
+Si les lois s'avisaient, monsieur, de nous poursuivre.
+
+Elle aurait le plaisir de s'entendre louer ;
+N'est-ce rien ? Quitte après à tout désavouer.
+D'ailleurs l'amour du vrai va jusqu'à l'héroïsme.
+Ces grands mots imposants d'erreur , de fanatisme ,
+De persécution , viendraient à son secours.
+C'est un ressort usé qui réussit toujours.
+N'avons-nous pas encor l'exemple de Socrate
+Opprimé, condamné par sa patrie ingrate ?
+Tous nos admirateurs parleraient à la fois.
+
+Oui, la philosophie encor dans son enfance
+Des préjugés du moins conservait l'apparence ;
+Mais nous n'en voulons plus.
+
+Excepté contre nous et contre nos amis.
+
+Comment ! Sur des rochers on plaçait la vertu ?
+Y grimpait qui pouvait. L'homme était méconnu.
+Ce roi des animaux, sans guide et sans boussole,
+Sur l'océan du monde errait au gré d'Éole ;
+Mais enfin nous savons quel est son vrai moteur.
+L'homme est toujours conduit par l'attrait du bonheur,
+C'est dans ses passions qu'il en trouve la source.
+Sans elles, le mobile arrêté dans sa course
+Languirait tristement à la terre attaché.
+Ce pouvoir inconnu, ce principe caché,
+N'a pu se dérober à la philosophie,
+Et la morale enfin est soumise au génie.
+Du globe où nous vivons despote universel,
+Il n'est qu'un seul ressort, l'intérêt personnel ;
+À tous nos sentiments, c'est lui seul qui préside ;
+C'est lui qui dans nos choix nous éclaire et nous guide.
+Libre de préjugés ; mais docile à sa voix,
+Le sauvage attentif le suit au fond des bois.
+L'homme civilisé reconnaît son empire ;
+Il commande en un mot à tout ce qui respire.
+
+La nature en a fait une nécessité.
+
+La fortune t'appelle, il faut la prendre au mot.
+
+      La franchise est la vertu d'un sot.
+
+      Préjugé ridicule,
+Dont il faut s'affranchir !
+
+Il s'agit d'être heureux, il n'importe comment.
+
+      Mais sans doute, en flattant Cydalise,
+Tu remplis un devoir que l'usage autorise.
+Ne faut-il pas flatter quand on veut plaire aux gens ?
+Bien voir ses intérêts, c'est être de bon sens.
+Le superflu des sots est notre patrimoine.
+Ce que dit un corsaire au roi de Macédoine,
+Est très vrai dans le fond.
+      Oui, monsieur.
+
+      Tous les biens,
+Devraient être communs ; mais il est des moyens
+De se venger du sort. On peut avec adresse
+Corriger son étoile, et c'est une faiblesse
+Que de se tourmenter d'un scrupule éternel.
+Mais que fais-tu donc là ?
+
+Quoi ! Traître, me voler !
+
+      Oui, mais sois plus adroit.
+Il est certains malheurs auxquels on se hasarde,
+Lorsque l'on est surpris.
+
+Ceci, Monsieur Frontin, doit être une leçon ;
+Mais puisqu'il ne faut plus vous nommer de ce nom,
+Songez à me servir auprès de Cydalise.
+Jusqu'ici, tout va bien ; sa fille m'est promise.
+Vous savez là-dessus quels sont mes sentiments,
+Ainsi continuez de flatter ses talents.
+Vos termes de collège ont produit des merveilles ;
+Il faut de plus en plus étourdir ses oreilles,
+De ce jargon savant qui vous a réussi.
+Vous êtes sans fortune, et vous pouvez ici
+Vous faire un petit sort que j'aurai soin d'étendre,
+Si mes voeux ont l'effet que j'ai droit d'en attendre.
+Adieu, soyez discret, je serai généreux.
+
 Oui, j'épouse ce soir. Le notaire est mandé.
 
--*who_dortidius
-Parbleu, j'en suis ravi.
-
--*who_theophraste
-      Que je t'en félicite !
-
--*who_dortidius
-Ma foi, cette fortune est due à ton mérite.
-
--*who_theophraste
-Oui, malgré le dépit de tous les envieux.
-
--*who_dortidius
-Dans le fond, tu pouvais espérer beaucoup mieux.
-
--*who_valere
 Messieurs.
 
--*who_dortidius
-      Non je le pense, et c'est sans flatterie.
-
--*who_valere
 Vous voulez...
 
--*who_dortidius
-      Nous savons honorer ton génie.
-Ah ! Tu me rends confus avec ces compliments.
-
--*who_dortidius
-Mais c'est la vérité.
-
--*who_valere
       Si j'avais tes talents,
 Si je réunissais tes qualités sublimes,
 Ces éloges alors deviendraient légitimes.
 
--*who_theophraste
-Et la future enfin consent donc ?
-
--*who_valere
       À regret ;
 Mais que me fait à moi son déplaisir secret ?
 
--*who_theophraste
-Sans doute, avec le temps tu la rendras docile.
-
--*who_dortidius
-Il faut que Rosalie ait le goût difficile.
-
--*who_valere
 Je ne sais quel rival me dispute son coeur ;
 Mais Cydalise au fond n'en a que plus d'ardeur.
 
--*who_dortidius
-Cydalise... conviens que la dupe est bien bonne.
-
--*who_valere
 Que mon hymen s'achève, et je te l'abandonne.
 Je mourais, si l'affaire eût traîné plus longtemps,
 Et jamais à ce point on n'excéda les gens.
 
--*who_dortidius
-Moi, ton hymen conclu, d'honneur, je me retire.
-
--*who_theophraste
-Ma foi, je quitte aussi ; le moyen d'y suffire !
-Toi du moins, tu pouvais, animé par l'espoir,
-Te faire une raison, t'ennuyer par devoir,
-Et l'amour...
-
--*who_valere
       Oui, l'amour ! C'est bien ce qui me tente !
 
--*who_dortidius
-Il épouse parbleu dix mille écus de rente.
-
--*who_valere
 Quoi donc ! Me trouves-tu le ton d'un amoureux ?
 Ce serait à mon âge un ridicule affreux.
 On revient aujourd'hui de cette erreur commune,
 Et l'on songe au plaisir, mais après la fortune.
 
--*who_theophraste
-Il a vraiment raison.
-
--*who_dortidius
-      Je pense comme lui.
-
--*who_valere
 Aurais-je sans cela pu supporter l'ennui
 Qui m'obsédait sans cesse auprès de cette folle ?
 Eût-elle été Venus, j'aurais quitté l'idole.
 Oh ! Je ne donne pas dans de pareils travers.
 
--*who_theophraste
-On devrait l'avertir de réformer ses airs ;
-Elle était autrefois moins difficile à vivre,
-D'où vient qu'elle a changé ?
-
--*who_valere
       Mais c'est depuis son livre.
 
--*who_theophraste
-Quoi ! Sérieusement le fait-elle imprimer ?
-
--*who_valere
 Oui.
 
--*who_theophraste
-      Si l'on n'y met ordre, il faudra l'enfermer.
-
--*who_dortidius
-Sais-tu bien qu'au besoin ce trait pourrait suffire,
-Si tu pensais jamais à la faire interdire.
-
--*who_theophraste
-Connais-tu son discours sur "Les devoirs des Rois" ?
-
--*who_valere
 Ah ! Ne m'en parle pas, je l'ai relu vingt fois ;
 Il fallait, à toute heure, essuyer cet orage.
 
--*who_dortidius
-Entre nous, cependant, c'est son meilleur ouvrage.
-Le crois-tu de sa main ?
-
--*who_valere
       Bon ! Tu veux plaisanter.
 
--*who_dortidius
-Non, d'honneur ; il me plaît.
-
--*who_valere
       Et tu peux t'en vanter !
 
--*who_dortidius
-Je te dis qu'il est bien ; mais très bien.
-
--*who_valere
       Tu veux rire.
 C'est une absurdité qui va jusqu'au délire.
 
--*who_dortidius
-Si j'en pensais ainsi, je le dirais très bas.
-
--*who_valere
 Va, ton air sérieux ne m'en impose pas.
 
--*who_dortidius
-Enfin, monsieur décide, et chacun doit se taire.
-
--*who_valere
 Mais au ton que tu prends, je t'en croirais le père.
 
--*who_dortidius
-Hé ! Bien, s'il était vrai...
-
--*who_valere
       Ma foi, tant pis pour toi.
 
--*who_dortidius
-Mais, mon petit monsieur.
-
--*who_valere
       Je suis de bonne foi.
 
--*who_dortidius
-Je pourrais en venir à des vérités dures.
-
--*who_valere
 Toujours, quand on a tort, on en vient aux injures.
 
--*who_dortidius
-Vous me poussez à bout !
-
--*who_valere
       Et j'en ris, qui plus est.
 
--*who_dortidius
-Ah ! C'en est trop enfin.
-
--*who_theophraste
-      Hé ! Messieurs, s'il vous plaît...
-
--*who_dortidius
-Plaisant original, pour me rompre en visière !
-
--*who_theophraste
-Messieurs, n'imitons pas les pédants de Molière.
-Permettez-moi tous deux de vous mettre d'accord.
-
--*who_valere
 Moi, j'ai raison.
 
--*who_theophraste
-      Sans doute.
-
--*who_dortidius
-      Et moi, je n'ai pas tort.
-
--*who_theophraste
-Vraiment non. Mais enfin on pourrait vous entendre,
-Et déjà Cydalise aurait pu nous surprendre.
-
--*who_dortidius
-L'estime qui toujours devrait nous animer...
-
--*who_theophraste
-Il n'est pas question, messieurs, de s'estimer ;
-Nous nous connaissons tous : mais du moins la prudence
-Veut que de l'amitié nous gardions l'apparence.
-C'est par ces beaux dehors que nous en imposons,
-Et nous sommes perdus, si nous nous divisons.
-Il faut bien se passer certaines bagatelles.
-Tenez, on vient à nous. Oubliez vos querelles.
-
-**** *book_ *id_III04 *act_III *date_1760
-
--*who_cydalise
-Pardon, si j'ai tardé ; je m'occupais de vous,
-Et ce sont-là toujours mes moments les plus doux.
-Asseyons-nous, messieurs : ah ! Vous voilà, Valère !
-On vient de m'apporter le projet du notaire,
-Vous en serez content.
-
--*who_valere
       Le plus cher de mes voeux,
 Vous le savez, madame, en formant ces beaux noeuds,
 C'est d'affermir encor l'amitié qui nous lie.
 
--*who_cydalise
-Je vous dois le bonheur répandu sur ma vie,
-Je m'acquitte envers vous. Mais, messieurs, à l'instant
-Vous parliez avec feu. Quel sujet important
-Pouvait vous diviser ? J'ai cru du moins entendre
-Que l'on se disputait.
-
--*who_valere
       Il est vrai.
 
--*who_cydalise
-      Puis-je apprendre
-Sur quoi vous dissertiez avec tant d'intérêt ?
-
--*who_valere
 Puisqu'il faut l'avouer, vous en étiez l'objet.
 
--*who_cydalise
-Moi ?
-
--*who_valere
       Vous. Cette chaleur en est le témoignage.
 
--*who_cydalise
-Quoi donc ?
-
--*who_valere
       Ah ! Je ne puis en dire davantage.
 Je ne sais point louer en présence des gens.
 Parlez, messieurs, parlez.
 
--*who_theophraste
-      Tu permets ?
-
--*who_valere
       J'y consens.
 
--*who_theophraste
-Dans les siècles passés on cherchait un génie
-Qu'on pût vous comparer. Je citais Aspasie,
-Et monsieur se fâchait de la comparaison.
-
--*who_valere
 Je la trouve choquante, et voici ma raison.
 Aspasie autrefois put briller dans Athènes ;
 Mais la philosophie y fleurissait à peine.
@@ -1903,69 +1028,14 @@ Que je ne puis souffrir, sans me mettre en courroux,
 Que l'on balance encore entre Aspasie et vous.
 Comparez donc les temps, et voyez où vous êtes.
 
--*who_theophraste
-Mais les comparaisons ne sont jamais parfaites.
-
--*who_valere
 Allons, vous aviez tort.
 
--*who_theophraste
-      Je le sens, j'en rougis.
-
--*who_cydalise
-N'allez pas là-dessus demander mon avis ;
-Je sais trop...
-
--*who_valere
       Nous savons que vous êtes sublime.
 
--*who_dortidius
-Ce sont nos sentiments ; mais comme il les exprime !
-Il sait tout embellir.
-
--*who_cydalise
-      Ah ! C'est la vérité.
-
--*who_valere
 Vous me pardonnez donc cette vivacité ?
 
--*who_cydalise
-Je devrais le gronder, son esprit me désarme ;
-On ne peut y tenir, et je suis sous le charme .
-
--*who_dortidius
-Personne ne sait mieux se rendre intéressant.
-
--*who_valere
 Je vois que le génie est toujours indulgent.
 
--*who_cydalise
-Monsieur Dortidius, dit-on quelques nouvelles ?
-
--*who_dortidius
-Je ne m'occupe point des rois, de leurs querelles :
-Que me fait le succès d'un siège ou d'un combat ?
-Je laisse à nos oisifs ces affaires d'état.
-Je m'embarrasse peu du pays que j'habite,
-Le véritable sage est un cosmopolite.
-On tient à la patrie, et c'est le seul lien...
-
--*who_dortidius
-Fi donc ! C'est se borner que d'être citoyen.
-Loin de ces grands revers qui désolent le monde,
-Le sage vit chez lui dans une paix profonde ;
-Il détourne les yeux de ces objets d'horreur ;
-Il est son seul monarque et son législateur ;
-Rien ne peut altérer le bonheur de son être :
-C'est aux grands à calmer les troubles qu'ils font naître.
-
--*who_theophraste
-Il voit en philosophe, et c'est voir comme il faut.
-
--*who_cydalise
-On ne trouve jamais son esprit en défaut.
-
--*who_valere
 Madame, il a raison. L'esprit philosophique
 Ne doit point déroger jusqu'à la politique.
 Ces guerres, ces traités, tous ces riens importants,
@@ -1975,118 +1045,41 @@ Et si l'on peut parler sans fausse modestie,
 Excepté vous, et nous, je ne découvre rien
 Qui puisse être l'objet d'un honnête entretien.
 
--*who_cydalise
-Oui, véritablement, ce sont-là des misères.
-
--*who_theophraste
-Qu'il faut abandonner à des esprits vulgaires.
-
--*who_cydalise
-Je n'appellerai pas de votre autorité.
-À propos, parle-t-on de quelque nouveauté ?
-
--*who_valere
 Nous n'en protégeons qu'une.
 
--*who_cydalise
-      Un chef-d'oeuvre, sans doute.
-
--*who_valere
 C'est une découverte, une nouvelle route,
 Que l'un de nous, madame, entreprend de trace,
 Un genre où le génie a de quoi s'exercer.
 
--*who_cydalise
-Une tragédie ?
-
--*who_valere
       Oui, purement domestique,
 Comme nous les voulons.
 
--*who_cydalise
-      Je craindrais la critique ;
-Contre les nouveautés elle a toujours raison ;
-Et le public...
-
--*who_valere
       Vraiment, il décide en oison ;
 Nous savons bien cela : mais nous ferons la guerre.
 
--*who_cydalise
-Je ne sais, le vieux goût tient encore au parterre.
-
--*who_valere
 Nous risquons, il est vrai, surtout les premiers jours ;
 Mais nous ferons un bruit à rendre les gens sourds.
 Nous avons des amis, qui de loges en loges,
 Vont crier au miracle, et forcer les éloges ;
 N'avons-nous pas d'ailleurs le succès des soupers ?
 
--*who_cydalise
-Oui ; je n'y songeais pas, et vous me détrompez.
-
--*who_valere
 Nous avons tant de gens qui pour nous se dévouent
 Tant de petits auteurs qui par orgueil nous louent
 Que je suis assuré qu'avec un peu d'encens,
 Nous leur ferions à tous abjurer le bon sens.
 
--*who_theophraste
-Ha, ha, ha, ha, ha, ha, c'est la vérité pure.
-
--*who_valere
 Mais non, sans plaisanter, j'en ferais la gageure.
 
--*who_cydalise
-Et ce chef-d'oeuvre enfin l'attendrons-nous longtemps ?
-
--*who_valere
 Nous sommes occupés de soins plus importants.
 
--*who_cydalise
-Quoi donc ?
-
--*who_valere
       Certain auteur dans une comédie
 Veut, dit-on, nous jouer.
 
--*who_cydalise
-      L'entreprise est hardie.
-
--*who_dortidius
-Nous jouer ! Mais vraiment, c'est un crime d'état ;
-Nous jouer !
-
--*who_valere
       Nous saurons parer cet attentat.
 
--*who_cydalise
-Ah ! Le public entier...
-
--*who_dortidius
-      Nous pourrions nous méprendre,
-Nous l'avons malmené ; s'il allait nous le rendre.
-
--*who_cydalise
-Ah ! Tous les magistrats élèveraient la voix.
-
--*who_theophraste
-Nous nous sommes brouillés avec ces gens de lois.
-
--*who_cydalise
-Mais la cour...
-
--*who_valere
       Ne prendra jamais notre querelle ;
 Nous en avons agi lestement avec elle.
 
--*who_dortidius
-Vous verrez qu'il faudra dire un mot à l'auteur.
-
--*who_theophraste
-Oui, du moins on pourrait essayer s'il a peur.
-
--*who_valere
 Le pis aller, messieurs, c'est d'attendre l'orage,
 Jusques-là, diffamons et l'auteur et l'ouvrage ;
 Armons la main des sots pour nous venger de lui ;
@@ -2098,155 +1091,596 @@ Nous montrer, même en loge, aux yeux des spectateurs.
 Je connais le public, nous n'avons qu'à paraître :
 Il nous craint.
 
--*who_cydalise
-      C'est bien dit : qui le brave est son maître.
-Mais notre colporteur tarde bien à venir.
-Il devrait être ici : qui peut le retenir ?
-
--*who_dortidius
-Peut-être qu'il attend.
-
--*who_cydalise
-      Il faut qu'on l'avertisse.
-
--*who_theophraste
-Le voici justement.
-
-**** *book_ *id_III05 *act_III *date_1760
-
--*who_cydalise
-      Entrez, Monsieur Propice.
-Avez-vous du nouveau ?
-
--*who_monsieurpropice
-      Je ne cours pas après,
-Madame. Avez-vous lû les "Bijoux indiscrets" ?
-C'est une gaillardise assez philosophique,
-Du moins à ce qu'on dit.
-
--*who_cydalise
-      L'idée en est comique ;
-Mais cela n'est plus neuf.
-
--*who_monsieurpropice
-      Cela se vend toujours.
-
--*who_cydalise
-Passons.
-
--*who_monsieurpropice
-      Connaissez-vous la "Lettre sur les sourds" ?
-
--*who_cydalise
-L'auteur m'en fit présent.
-
--*who_dortidius
-      Tout son mérite y brille.
-
--*who_monsieurpropice
-Vous ne voudriez pas du père de famille ?
-Cela n'est pas trop bon.
-
--*who_dortidius
-      Vous vous y connaissez.
-
--*who_monsieurpropice
-Mais le public le dit, et je l'en crois assez.
-Pour "Le Livre des moeurs" , je me souviens, madame,
-De vous l'avoir vendu.
-      "Réfléxions sur l'âme".
-
--*who_cydalise
-Voyons. Je les connais. Est-ce tout ?
-
--*who_monsieurpropice
-      Vraiment, non.
-"L'interprétation de la nature".
-
--*who_cydalise
-      Bon.
-C'est un livre excellent !
-
--*who_dortidius
-      Sublime !
-
--*who_theophraste
-      Nécessaire !
-
--*who_cydalise
-Je le garde ; quelqu'un m'a pris mon exemplaire.
-
--*who_monsieurpropice
-Ceci, c'est le "Discours sur l'inégalité".
-
--*who_cydalise
-Ah ! Je vais le relire avec avidité.
-Quel est cet autre écrit... Là... Que je vois en tête ?
-
--*who_monsieurpropice
-Madame, ce n'est rien ; c'est le petit prophète .
-
--*who_cydalise
-Ah ! Ah ! Je m'en souviens ; il est très amusant.
-
--*who_monsieurpropice
-Oui, c'est un badinage infiniment plaisant.
-N'attendez-vous plus rien de mon petit service ?
-
--*who_cydalise
-Non. Je retiens ceci. Bonjour, Monsieur Propice.
-
-**** *book_ *id_III06 *act_III *date_1760
-
--*who_cydalise
-Ah ! Je relirai donc mon livre favori.
-
--*who_valere
 Quoi ! "L'inégalité" ? C'est bien le mien aussi.
 
--*who_theophraste
+Mais il est fort plaisant.
+
+      Hé ! Comment ?
+
+Ah ! Nous sommes perdus !
+
+      Quelle disgrâce affreuse !
+Que lui dire ? Sortons.
+
+Ah ! Malheureux !
+
+
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theophraste
+
+Hé ! Bien, le mariage est enfin décidé ?
+
+      Que je t'en félicite !
+
+Oui, malgré le dépit de tous les envieux.
+
+Et la future enfin consent donc ?
+
+Sans doute, avec le temps tu la rendras docile.
+
+Ma foi, je quitte aussi ; le moyen d'y suffire !
+Toi du moins, tu pouvais, animé par l'espoir,
+Te faire une raison, t'ennuyer par devoir,
+Et l'amour...
+
+Il a vraiment raison.
+
+On devrait l'avertir de réformer ses airs ;
+Elle était autrefois moins difficile à vivre,
+D'où vient qu'elle a changé ?
+
+Quoi ! Sérieusement le fait-elle imprimer ?
+
+      Si l'on n'y met ordre, il faudra l'enfermer.
+
+Connais-tu son discours sur "Les devoirs des Rois" ?
+
+      Hé ! Messieurs, s'il vous plaît...
+
+Messieurs, n'imitons pas les pédants de Molière.
+Permettez-moi tous deux de vous mettre d'accord.
+
+      Sans doute.
+
+Vraiment non. Mais enfin on pourrait vous entendre,
+Et déjà Cydalise aurait pu nous surprendre.
+
+Il n'est pas question, messieurs, de s'estimer ;
+Nous nous connaissons tous : mais du moins la prudence
+Veut que de l'amitié nous gardions l'apparence.
+C'est par ces beaux dehors que nous en imposons,
+Et nous sommes perdus, si nous nous divisons.
+Il faut bien se passer certaines bagatelles.
+Tenez, on vient à nous. Oubliez vos querelles.
+
+      Tu permets ?
+
+Dans les siècles passés on cherchait un génie
+Qu'on pût vous comparer. Je citais Aspasie,
+Et monsieur se fâchait de la comparaison.
+
+Mais les comparaisons ne sont jamais parfaites.
+
+      Je le sens, j'en rougis.
+
+Il voit en philosophe, et c'est voir comme il faut.
+
+Qu'il faut abandonner à des esprits vulgaires.
+
+Ha, ha, ha, ha, ha, ha, c'est la vérité pure.
+
+Nous nous sommes brouillés avec ces gens de lois.
+
+Oui, du moins on pourrait essayer s'il a peur.
+
+Le voici justement.
+
+      Nécessaire !
+
 Ce livre est un trésor ; il réduit tous les hommes
 Au rang des animaux, et c'est ce que nous sommes.
 L'homme s'est fait esclave en se donnant des lois,
 Et tout n'irait que mieux s'il vivait dans les bois.
 
--*who_cydalise
-Pour moi, je goûterais une volupté pure
-À nous voir tous rentrer dans l'état de nature.
-
--*who_theophraste
 Les esprits dans l'erreur sont encor trop plongés,
 Et l'on est retenu par tant de préjugés... !
 Il est tant de savants qui n'en ont pas l'étoffe... !
 
--*who_cydalise
-Mais que nous veut Marton ?
+C'est ce que nous cherchions ; un homme convaincu,
+Qui plein de son système, et bravant la critique,
+Aux spéculations veut joindre la pratique.
 
-**** *book_ *id_III07 *act_III *date_1760
+On juge ici, monsieur, l'homme par ce qu'il vaut,
+Et non par les habits.
 
--*who_marton
+
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dortidius
+
+Parbleu, j'en suis ravi.
+
+Ma foi, cette fortune est due à ton mérite.
+
+Dans le fond, tu pouvais espérer beaucoup mieux.
+
+      Non je le pense, et c'est sans flatterie.
+
+      Nous savons honorer ton génie.
+Ah ! Tu me rends confus avec ces compliments.
+
+Mais c'est la vérité.
+
+Il faut que Rosalie ait le goût difficile.
+
+Cydalise... conviens que la dupe est bien bonne.
+
+Moi, ton hymen conclu, d'honneur, je me retire.
+
+Il épouse parbleu dix mille écus de rente.
+
+      Je pense comme lui.
+
+Sais-tu bien qu'au besoin ce trait pourrait suffire,
+Si tu pensais jamais à la faire interdire.
+
+Entre nous, cependant, c'est son meilleur ouvrage.
+Le crois-tu de sa main ?
+
+Non, d'honneur ; il me plaît.
+
+Je te dis qu'il est bien ; mais très bien.
+
+Si j'en pensais ainsi, je le dirais très bas.
+
+Enfin, monsieur décide, et chacun doit se taire.
+
+Hé ! Bien, s'il était vrai...
+
+Mais, mon petit monsieur.
+
+Je pourrais en venir à des vérités dures.
+
+Vous me poussez à bout !
+
+Ah ! C'en est trop enfin.
+
+Plaisant original, pour me rompre en visière !
+
+      Et moi, je n'ai pas tort.
+
+L'estime qui toujours devrait nous animer...
+
+Ce sont nos sentiments ; mais comme il les exprime !
+Il sait tout embellir.
+
+Personne ne sait mieux se rendre intéressant.
+
+Je ne m'occupe point des rois, de leurs querelles :
+Que me fait le succès d'un siège ou d'un combat ?
+Je laisse à nos oisifs ces affaires d'état.
+Je m'embarrasse peu du pays que j'habite,
+Le véritable sage est un cosmopolite.
+On tient à la patrie, et c'est le seul lien...
+
+Fi donc ! C'est se borner que d'être citoyen.
+Loin de ces grands revers qui désolent le monde,
+Le sage vit chez lui dans une paix profonde ;
+Il détourne les yeux de ces objets d'horreur ;
+Il est son seul monarque et son législateur ;
+Rien ne peut altérer le bonheur de son être :
+C'est aux grands à calmer les troubles qu'ils font naître.
+
+Nous jouer ! Mais vraiment, c'est un crime d'état ;
+Nous jouer !
+
+      Nous pourrions nous méprendre,
+Nous l'avons malmené ; s'il allait nous le rendre.
+
+Vous verrez qu'il faudra dire un mot à l'auteur.
+
+Peut-être qu'il attend.
+
+      Tout son mérite y brille.
+
+      Vous vous y connaissez.
+
+      Sublime !
+
+      Oui, parbleu !
+
+      Mais beaucoup.
+
+      L'aventure est fâcheuse,
+Mais nous y sommes faits.
+
+
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
+      Tout est changé, vous dis-je.
+
+      Mais encor, vous êtes officier ;
+Notre projet n'est pas de nous mésallier.
+Nous voulons un mari taillé d'une autre étoffe ;
+En un mot, nous prenons un mari philosophe.
+
+      Je vous étonne fort ;
+Mais ne savez-vous pas que les absents ont tort ?
+Trois mois ont opéré bien des métamorphoses :
+Peut-être dans trois mois verrons-nous d'autres choses.
+Vous pourrez reparaître alors avec succès ;
+Mais jusques-là, néant. En dépit du procès
+Qui devait se finir par votre mariage,
+Sans appel aujourd'hui la pomme est pour le sage.
+
+Toute femme est, monsieur, un animal changeant.
+On pourrait calculer les jours de Cydalise
+Par les différents goûts dont son âme est éprise :
+Quelquefois étourdie, enjouée à l'excès,
+D'autres fois sérieuse, et boudant par accès ;
+Coquette, s'il en fut, en sauvant le scandale,
+Prude à nous étourdir de son aigre morale ;
+Courant le bal la nuit, et le jour les sermons ;
+Tantôt les directeurs, et tantôt les bouffons.
+C'était là le bon temps. Mais aujourd'hui que l'âge
+Fait place à d'autres moeurs, et veut un ton plus sage,
+Madame a depuis peu réformé sa maison.
+Nous n'extravaguons plus qu'à force de raison.
+D'abord on a banni cette gaieté grossière,
+Délices des traitants, aliment du vulgaire ;
+À nos soupers décents tout au plus on sourit.
+Si l'on s'ennuie, au moins c'est avec de l'esprit.
+Quelquefois on admet, au lieu de Vaudevilles,
+De savants concerto, de grands airs difficiles ;
+Car il faut bien encore un peu d'amusement.
+Mais notre fort, monsieur, c'est le raisonnement.
+Quelque tems, dans le cercle, on parla politique ;
+Enfin tout disparut sous la métaphysique.
+
+Ce que nous faisons tous, monsieur ; elle s'ennuie.
+
+Non, ce coeur est à vous. L'amour l'a défendu
+Contre tous les projets d'un rival téméraire ;
+Mais votre sort dépend de l'aveu d'une mère,
+Ensorcelée au point que je n'ai plus d'espoir.
+Pardonnez-moi ce mot ; je vois comme il faut voir.
+
+Le bel esprit, monsieur, est tout ce qu'elle adore.
+C'est une maladie inconnue à vingt ans ;
+Mais bien forte à cinquante. Encore avec le temps,
+On pourrait espérer un retour de sagesse,
+S'il en était quelqu'un contre cette faiblesse,
+Quand à certains degrés elle a fait des progrès.
+Dans les commencements, moi-même j'espérais ;
+Mais sachez tous nos maux et ceux qui vont les suivre.
+Entre nous...
+
+      Madame a fait un livre.
+
+      Qui même à présent s'imprime incognito.
+
+      Non : un volume in-quarto.
+
+      Eux ! Ils se moquent d'elle ;
+Ils ont tous conspiré de gâter sa cervelle ;
+Surtout votre rival. Comme il connaît son goût,
+Il ne se borne pas à l'applaudir en tout ;
+Il la fait admirer par messieurs ses semblables,
+Tous charlatans adroits, et flatteurs agréables,
+Ravis de présider dans sa société,
+D'y porter leurs erreurs, et faisant vanité
+De dominer ici sur un esprit crédule,
+Qu'ils ont l'art d'aguerrir contre le ridicule.
+
+      Oui ;
+Du plus grand air encor. Paris en est rempli.
+Mais pour établir mieux leur crédit chez madame,
+Et pour mieux pénétrer jusqu'au fond de son âme,
+Ils nomment aux emplois vacants dans la maison.
+Leur choix, toujours guidé par la saine raison,
+Quel qu'il soit, à madame est toujours sûr de plaire.
+Je soupçonne pourtant un certain secrétaire,
+Reçu par Cydalise à titre de savant,
+De n'avoir d'autre emploi que celui d'intrigant,
+De recéler un fourbe, et d'être ici pour cause ;
+Mais enfin, tôt ou tard, j'éclaircirai la chose.
+
+Ou je me trompe fort, ou c'est votre rival
+Qui pour servir ses feux ici l'impatronise.
+
+      Un fripon affectant la franchise,
+Et pourtant, m'a-t-on dit, natif de Pézenas,
+Titré du nom pompeux de Monsieur Carondas,
+Reconnu pour savant, du moins sur sa parole,
+Tout hérissé de grec et de termes d'école,
+Plaçant à tout propos ce bizarre jargon,
+Et nous citant sans cesse Homère ou Lycophron .
+
+      Je peins d'après nature.
+
+Quoi ! Crispin est ici ?
+
+      Laissez faire.
+Crispin est fort adroit ; j'en tirerai parti.
+
+      Oh ! Monsieur, comptez-y.
+Je déclare la guerre à la philosophie.
+
+      Ah ! Je vous vois venir.
+Tenez, monsieur ; l'amour a su vous prévenir :
+On vient ; c'est Rosalie.
+
+Beaux sentiments ! Mais moi je ne m'y fierais pas.
+
+      Non : c'est par des combats
+Qu'il faut à la raison ramener Cydalise.
+
+Oui ; c'est un beau moyen, des soupirs et des pleurs !
+Oh ! La philosophie endurcit trop les coeurs.
+
+      J'entrerais en colère.
+Elle n'a pas encor fait venir le notaire,
+Il est vrai ; les témoins ne sont pas invités,
+D'accord ; il manque aussi quelques formalités,
+J'y consens ; il se peut d'ailleurs que la journée
+Ne soit pas fixement encor déterminée ;
+J'en conviens. Cependant ne souffre-t-elle pas
+L'hommage assez public qu'il rend à vos appas ?
+N'en êtes-vous pas même à toute heure obsédée ?
+Mais non ; je me trompais : ce n'était qu'une idée.
+
+J'avais rêvé.
+
+      Contes que tout ceci,
+Propos en l'air.
+
+      Vision chimérique,
+Absurde.
+
+      Non, c'est terreur panique,
+Illusion, vous dis-je.
+
+J'avais tort.
+
+Ah ! Vous vous fâchez donc ? Vraiment, c'est très bien fait.
+Mais raisonnons un peu. Dites-moi, s'il vous plaît,
+Fallait-il vous tromper ? Je sais bien que le doute
+Suspend l'impression des maux que l'on redoute,
+Qu'il est très naturel d'éloigner le danger,
+Et de rendre toujours son fardeau plus léger.
+Moi-même à vous flatter je serais la première.
+J'aurais soin de fermer les yeux à la lumière,
+Sans l'intérêt pressant qui me parle pour vous.
+Pardonnez ; mais, ma foi, les amants sont des fous.
+Tranquilles sans raison, désespérés sans cause,
+Dans un juste équilibre aucun ne se repose,
+Et le sang froid souvent les conseille bien mieux,
+Que cet amour qu'on peint un bandeau sur les yeux.
+
+On apprend à hurler, dit-on, de compagnie,
+En fréquentant les loups. Le proverbe a raison.
+C'est un mal répandu dans toute la maison,
+Mais perdons un moment cette idée importune.
+çà, faisons notre paix. Vous serez sans rancune ?
+Vous me le promettez ?
+
+Et moi d'être attentive à tous vos intérêts.
+Vous, monsieur, qui sans soins et sans trouble dans l'âme,
+Passeriez votre vie à regarder madame,
+Il faut battre en retraite, et même promptement.
+Songez qu'il est grand jour dans cet appartement,
+Que nous pourrions ici risquer quelque surprise,
+Et qu'il faut vous montrer d'abord à Cydalise,
+Avant que de penser à d'autres rendez-vous.
+
+Vous, soyez sans faiblesse. Allons, point de langueur.
+La fermeté, madame, en impose au malheur.
+
+Oui : Damis sort d'ici. Mais c'est à votre mère
+Qu'il importe surtout de parler avec feu.
+Si vous aimez Damis, ce fut de son aveu ;
+Je le suppose au moins.
+
+      Les filles
+Ne font rien, comme on sait, sans l'avis des familles,
+C'est la règle. Il faut donc déclarer sans détour
+Pour l'un tous vos mépris, pour l'autre votre amour.
+
+      Vous sentez-vous cette fermeté d'âme ?
+
+      Allons, j'entends madame.
+
+      Comment donc ! C'est très bien débuter.
+Cela promet.
+
+L'amour ! Oui vous ferez tous deux de bel ouvrage.
+Il y parait vraiment, à cet air d'embarras,
+Qu'un mot dit au hasard...
+
+Ce n'est point à l'amour à vous tirer de peine,
+Il est trop mal adroit. Pensez à votre haine ;
+Voilà le sentiment qui doit vous inspirer,
+Dont il est important de vous bien pénétrer.
+Je ne sais si l'amour, que d'ailleurs je révère,
+Est de nos passions en effet la plus chère ;
+Mais ce n'est que faiblesse, et que timidité.
+La haine n'est qu'ardeur et que vivacité.
+L'un abat, l'autre anime, et dans un coeoeur femelle,
+Ma foi, je la croirais beaucoup plus naturelle.
+Vous ne connaissez pas encor ce sentiment.
+Que votre coeur l'éprouve aujourd'hui seulement.
+Tenez, j'aime Crispin, et je sens pour Valère...
+Mais, ce n'est plus un jeu, j'aperçois votre mère.
+
+      Oui.
+
+      Allons, ferme, et montrez du courage.
+
+Oui, j'ai tout entendu. Mais quelle déraison !
+Quel travers !
+
+      Badinage :
+Mourir ! Vous vous moquez, et ce n'est plus l'usage.
+On ne le souffre pas même dans les romans.
+
+      Calmez-vous, et reprenez vos sens.
+Cette crise, après tout, vous l'aviez attendue ?
+
+Présumez vous si peu du succès de mes soins ?
+
+      Commencez par vous affliger moins.
+Si vos voeux sont comblés, dites-moi, je vous prie,
+À quoi ce beau chagrin vous aura-t-il servie ?
+
+Vous pleurerez alors autant qu'il vous plaira,
+Je vous aiderai même, et n'aurai rien à dire ;
+Mais jusqu'à ce moment, qui vous défend de rire ?
+À tout évènement, c'est toujours fort bien fait,
+Et quand tout irait mal, je crois qu'il le faudrait.
+Du moins c'est mon humeur. Le chagrin m'incommode.
+Je le crois inutile, et j'en suis l'antipode.
+C'est à quoi dans la vie il faut le moins songer,
+Et l'on a toujours tort, quand on veut s'affliger.
+Mais allons concerter quelque heureuse saillie,
+Venez, et nous verrons si la philosophie,
+Quelque soit son crédit, pourra dans ce grand jour
+Tenir contre Marton, et Crispin, et l'amour.
+
+      Madame, c'est Damis,
+Qui demande à vous voir.
+
+Valère achèvera.
+
+Allons, monsieur, il faut éclaircir ces ennuis ;
+Vite, de la gaité.
+
+Il faut d'abord, monsieur, commencer par en rire.
+
+Bon ! Vous n'y pensez pas, et vous voyez trop noir.
+
+Consolez-vous.
+
+      Consolez-vous, vous dis-je.
+
+      Vous l'apprendrez ; venez.
+Oui, je vous mets au rang des amants fortunés.
+
+      J'espère qu'à la fin elle entendra raison.
+
+L'heureux hasard, monsieur, que cette porte ouverte !
+Ma foi, je le guettais, et depuis fort longtemps ;
+J'avais toujours bien dit qu'il était de leurs gens.
+Je l'aurais affirmé.
+
+Mais qui se chargera de rendre cet écrit ?
+
+      Moi ? Je me perdrais, monsieur, dans son esprit.
+Je n'oserai jamais.
+
+      À ma maîtresse,
+Un billet de ce style ! Oh ! Non : point de faiblesse,
+Il m'en coûterait trop.
+
+      Propos superflus,
+Je ne le ferai pas.
+
+C'est que d'ailleurs il faut le rendre en leur présence,
+Ou nous ne tenons rien.
+
+      Non.
+
+Oui.
+
+Mais vraiment j'entrevois qu'il pourra réussir.
+
+On vient, c'est l'assemblée, éloignez-vous tous deux.
+
+Hé ! Vite, éloignez-vous, de crainte de surprise.
+
+Je vais vous annoncer, messieurs, à Cydalise.
+
       Madame, un philosophe
 Demande à vous parler.
 
--*who_cydalise
-      Il se nomme ?
-
--*who_marton
       Crispin.
 
--*who_cydalise
-Le nom est singulier.
+      Moi, je sens que je l'aime.
 
--*who_dortidius
-      Oui, parbleu !
+      Je dirais du génie ;
+Et jamais philosophe à ce point ne m'a plu.
 
--*who_cydalise
-      Mais enfin.
-Les noms ne prouvent rien : ah ! Ciel ! Quelle surprise !
+Des sages de nos jours nous distinguons les traits :
+Nous démasquons les faux, et respectons les vrais.
 
-**** *book_ *id_III08 *act_III *date_1760
 
--*who_crispin
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
+Hé ! Bien, cette démarche a-t-elle eu d'heureux fruits ?
+Épousons-nous, Monsieur ? Cydalise, sans doute...
+
+      Comment ?
+
+      Quoi ! La... formellement ?
+
+      Nous savons plaire,
+Monsieur, et nous serions éconduits par Valère !
+N'est-il point de remède ?
+
+Bon ! Vous n'y pensez pas : moi, j'en vois cent pour un.
+Il faut tout simplement enlever Rosalie.
+C'est le plus court.
+
+      Je goutais ce moyen ;
+Mais puisqu'il vous déplaît, il faut dans cette affaire
+Recourir au plus sûr. J'irais trouver Valère,
+Et je voudrais, morbleu, lui parler sur un ton
+À lui faire ce soir déserter la maison.
+
+      Hé ! Bien ?
+
+Allons, c'est donc à moi par une heureuse audace,
+D'éclairer Cydalise, et de donner la chasse
+À tous ces discoureurs qui lui gâtent l'esprit.
+Auprès d'elle, à mon tour, j'aurai quelque crédit,
+Et pour peu que Marton seconde l'entreprise,
+À la raison bientôt vous la verrez soumise.
+
+Je veux qu'elle balance entre Valère et moi.
+Vous ne connaissez pas encor tout mon mérite ;
+Vous voyez le Strabon d'un nouveau Démocrite.
+
+      Moi-même, monsieur ; j'ai fait plus d'un métier :
+Un sage à ses travaux daigna m'associer ;
+Et quelque jour mon nom eût été sur la liste,
+Du moins il m'en flattait, quand j'étais son copiste.
+
+      J'avais déjà quelques admirateurs ;
+Ah ! Qu'il m'a fait de tort en fuyant les honneurs,
+Pour vivre dans les bois ! Je lui dois la justice
+Qu'il ne connut jamais la brigue, l'artifice.
+De sa philosophie il était entêté,
+Au fond plein de droiture et de sincérité.
+Animal à la fois misanthrope et cynique,
+C'était vraiment un fou dans son espèce unique.
+
+Oui, rions, c'est bien dit.
+
+Mais je crois qu'en effet elle a quelque vertige.
+
+      C'est Frontin qu'il se nomme :
+À ce nom-là d'abord j'aurais reconnu l'homme.
+
+      Ni moi non plus.
+
+      Silence.
+Cydalise, je crois, ne m'a jamais vû ?
+
+Et je suis inconnu dans toute la maison ?
+
+      Je veux à la fois m'introduire et lui plaire.
+Donnez-moi ce billet, je prends sur moi l'affaire.
+Allez, monsieur, allez, je saurai vous servir.
+
+Je ne veux que Marton pour prix de mes services.
+Que n'oserai-je pas sous de pareils auspices ?
+
 Madame, elle n'a rien dont je me formalise.
 Je ne me règle plus sur les opinions,
 Et c'est-là l'heureux fruit de mes réflexions.
@@ -2255,16 +1689,6 @@ M'a fait choisir exprès l'état de quadrupède :
 Sur ces quatre piliers mon corps se soutient mieux,
 Et je vois moins de sots qui me blessent les yeux.
 
--*who_cydalise
-Il est original du moins dans son système.
-
--*who_valere
-Mais il est fort plaisant.
-
--*who_marton
-      Moi, je sens que je l'aime.
-
--*who_crispin
 En nous civilisant, nous avons tout perdu,
 La santé, le bonheur, et même la vertu.
 Je me renferme donc dans la vie animale ;
@@ -2280,169 +1704,28 @@ Madame, je venais vous rendre mes hommages,
 Inviter ces messieurs, peut-être à m'imiter,
 Du moins si mon exemple a de quoi les tenter.
 
--*who_cydalise
-Savez-vous qu'on démêle, à travers sa folie,
-De l'esprit ?
-
--*who_dortidius
-      Mais beaucoup.
-
--*who_marton
-      Je dirais du génie ;
-Et jamais philosophe à ce point ne m'a plu.
-
--*who_theophraste
-C'est ce que nous cherchions ; un homme convaincu,
-Qui plein de son système, et bravant la critique,
-Aux spéculations veut joindre la pratique.
-
--*who_cydalise
-Dans le fond, ce serait un homme à respecter ;
-Mais par les préjugés on se sent arrêter.
-
--*who_crispin
 Ma résolution peut vous sembler bizarre.
 
--*who_cydalise
-Vous donnez, à vrai dire, un exemple bien rare ;
-Mais votre empressement ne peut qu'être flatteur ;
-Vous êtes philosophe, et même à la rigueur.
-
--*who_crispin
 Je me suis interdit de consulter les modes,
 J'ai cru que des habits devaient être commodes,
 Et rien de plus. Encor dans un climat bien chaud...
 
--*who_theophraste
-On juge ici, monsieur, l'homme par ce qu'il vaut,
-Et non par les habits.
-
--*who_crispin
       C'est penser en vrai sage.
 
--*who_cydalise
-Mais qui peut nous venir ?
-
-**** *book_ *id_III09 *act_III *date_1760
-
--*who_monsieurcarondas
-      J'ai rempli mon message,
-Madame... et le notaire... arrive en un moment.
-
--*who_cydalise
-Qu'avez-vous ?
-
--*who_monsieurcarondas
-      Quel est donc cet animal plaisant ?
-
--*who_cydalise
-C'est un grand philosophe, il sera de la fête.
-
--*who_crispin
 En vérité... Madame...
 
--*who_monsieurcarondas
-      Ah ! La maudite bête !
-Nous sommes découverts.
-
--*who_valere
-      Hé ! Comment ?
-
--*who_monsieurcarondas
-      C'est Crispin,
-Le valet de Damis.
-
--*who_crispin
       Hé ! Oui, Monsieur Frontin :
 Parlez haut ; oui, c'est lui.
 
--*who_cydalise
-      Quel est donc ce mystère ?
-
--*who_crispin
 Le valet de monsieur est votre secrétaire,
 Et je me suis servi de ce déguisement,
 Pour remettre en vos mains un billet important,
 Surpris chez ce fripon.
 
--*who_cydalise
-      Je connais l'écriture ;
-C'est la vôtre, monsieur.
-
--*who_crispin
       Lisez, je vous conjure.
 
--*who_valere
-Ah ! Nous sommes perdus !
-
--*who_cydalise
-Je te renvoie, mon cher Frontin, ce recueil d'impertinences que Cydalise appelle son livre.
-Continue de flatter cette folle, à qui ton nom savant en impose.
-Théophraste et Dortidius viennent de me communiquer un projet excellent qui achèvera de lui tourner la tête, et pour lequel tu nous seras nécessaire.
-Ses ridicules, ses travers, ses...
-
--*who_crispin
       Elle baisse la voix,
 Et n'ira pas plus loin, à ce que je prévois.
 
--*who_monsieurcarondas
-Ah ! Traître de Crispin !
-
--*who_dortidius
-      L'aventure est fâcheuse,
-Mais nous y sommes faits.
-
--*who_valere
-      Quelle disgrâce affreuse !
-Que lui dire ? Sortons.
-
--*who_cydalise
-      Lisez, Monsieur, lisez ;
-Et justifiez-vous après, si vous l'osez.
-De vos séductions j'étais donc la victime !
-Et mes yeux sont ouverts sur le bord de l'abîme !
-Que vous avais-je fait pour me traiter ainsi ?
-Allez, et de vos jours ne paraissez ici.
-Votre confusion suffit à ma vengeance.
-Ingrats ; d'autres peut-être auront moins d'indulgence.
-C'est le dernier espoir de mon coeur outragé : partez.
-
--*who_valere
-Ah ! Malheureux !
-
--*who_monsieurcarondas
-      Voilà notre congé.
-
--*who_cydalise
-Les cruels, à quel point ils m'avaient prévenue.
-
-**** *book_ *id_III10 *act_III *date_1760
-
--*who_cydalise
-Venez, Damis, venez, je sens que votre vue
-Me rappelle l'excès de mon aveuglement.
-
--*who_damis
-Les voilà démasqués, l'erreur n'a qu'un moment.
-Ils sont assez punis de n'être plus à craindre,
-Et ce n'est plus à vous, madame, de vous plaindre.
-
--*who_cydalise
-À ces hommes pervers j'avais sacrifié
-Les devoirs les plus saints, et même l'amitié.
-Vous êtes bien vengé ! Ma chère Rosalie,
-Je reconnais mes torts, que ton coeur les oublie ;
-Je les répare tous en te donnant Damis.
-
--*who_damis
-Vous trouverez en moi les sentimens d'un fils.
-
--*who_rosalie
-Tous mes voeux sont remplis, le ciel me rend ma mère.
-
--*who_crispin
 Moi, j'épouse Marton pour terminer l'affaire.
 
--*who_marton
-Des sages de nos jours nous distinguons les traits :
-Nous démasquons les faux, et respectons les vrais.

@@ -1,6 +1,6 @@
 ---
 identifier: hardy_meleagre  
-creator: Hardy, Alexandre  
+creator: Hardy, Alexandre ; Georges Forestier.  
 date: 1624  
 title: Méléagre. Tragédie  
 ---

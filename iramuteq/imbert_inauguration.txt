@@ -1,152 +1,9 @@
 
 
-**** *book_ *id_I01 *act_I *date_1782
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
--*who_mercure
-Thalie et Melpomène arrivent en ces lieux ;
-Dans ce Temple nouveau qu'on destine à leurs jeux.
-Or maintenant, jeunes et vieux Génies,
-C'est pour les recevoir qu'ici je vous conduis ;
-Et de par Apollon, je suis
-Le maître des cérémonies.
-Que ces lauriers en couronnes tressés
-Par ordre en tous lieux soient places;
-C'est le digne ornement de l'enceinte où nous sommes:
-Le laurier fut toujours le luxe des grands hommes.
-
-**** *book_ *id_I02 *act_I *date_1782
-
--*who_mercure
-Pour moi qui fus toujours instruit
-À priser l'arbre par son fruit,
-Ce n'est pas-là le mien ; et je sais m'y connaître.
-Je préfère, pour être heureux,
-Tout arbre qui nourrit son maître,
-À celui qui le rend fameux.
-Mais quel est donc ce personnage ?
-
--*who_lacabale
-Seigneur Mercure, agréez mon hommage.
-J'ai l'air étranger à vos yeux?
-Cela doit être ; on connaît beaucoup mieux
-Mes actions que ma figure.
-J'habite le parterre, et j'en suis, je vous jure,
-Une colonne, un des soutiens.
-
--*who_mercure
-Une telle colonne annonce, j'en conviens,
-Une solide architecture.
-
--*who_lacabale
-Comme on en veut à mon talent,
-Je prends pour l'exercer cette forme étrangère ;
-Et vous voyez ici mon costume ordinaire.
-
--*who_mercure
-Sans doute qu'au Spectacle on vous trouve souvent?
-
--*who_lacabale
-Souvent ? Toujours. D'autres en font autant ;
-Mais d'eux en un point je diffère :
-Ils y vont par plaisir, moi, j'y vais pour affaire.
-J'y vais pour applaudir ou pour siffler.
-
--*who_mercure
-      Ah ! bon.
-Et vous applaudissez suivant la pièce ?
-
--*who_lacabale
-      Non ;
-Suivant l'auteur. Tel est mon ministère.
-Bref, je suis la Cabale, à vous servir.
-
--*who_mercure
-      Ma foi,
-La visite m'étonne. Eh quoi!
-A peine la porte est ouverte,
-Et vous voilà déjà !
-
--*who_lacabale
-      Vraiment oui, me voici.
-
--*who_mercure
-Par le Styx, vous êtes alerte.
-
--*who_lacabale
-Il le faut bien; je viens ici
-Reconnaître les lieux en profond politique ;
-Et pour faire éclater ou pour cacher mes soins,
-Lever des coins et des recoins
-Une carte topographique.
-On peut, je pense, avec les battoirs que voilà,
-Se flatter d'assourdir la scène ;
-Je crois qu'on est en fonds avec ces poumons-là,
-Pour fournir aux sifflets une bruyante haleine,
-Ou faire retentir les bravo, les paix-là.
-Mais quoi ! Nous devrions être assez bien ensemble;
-Vous fûtes toujours, ce me semble,
-D'un naturel à la malice enclin.
-
--*who_mercure
-Il est vrai ; je suis même un peu plus que malin.
-Mais, mon ami, si de l'antique Rome
-Tu parcours le code divin,
-Tu conviendras, j'en suis certain,
-Que l'on peut être un Dieu, sans être un honnête homme.
-Mais comment feras-tu désormais ? Autrefois,
-Le Spectateur, dans les flots du parterre,
-Entendait sans te voir et tes mains et ta voix ;
-Tu pouvais te cacher, en y faisant la guerre.
-Tes voisins maintenant assis, en plein repos,
-Vont nuire aux élans de ton zèle,
-Gêner tes mouvements, dévoiler tes complots.
-
--*who_lacabale
-Je n'en suis pas plus gai. Par des efforts nouveaux
-Il me faut conquérir une gloire nouvelle ;
-Il faudra former d'autres plans
-Plus subtilises, plus savants.
-C'est pour cela qu'ici d'avance
-Je viens observer le terrain.
-
--*who_mercure
-Observe ; mais après, sors et fais diligence ;
-Apollon doit ici me rejoindre soudain ;
-Et je ne vous crois pas en bonne intelligence.
-
--*who_lacabale
-Ô temps ! ô moeurs ! Ainsi donc tout me nuit !
-On a détruit mon poste, on m'insulte, on m'offense,
-Et pour comble de maux Apollon me poursuit !
-Est-ce ainsi que les Arts sont protégés en France ?
-
-**** *book_ *id_I03 *act_I *date_1782
-
--*who_mercure
-Oui, les beaux Arts. Il est original !
-En effet on le traite mal.
-Son talent fait grand bruit, et n'est connu qu'à peine,
-N'est pas encouragé, se trouve sans Mécène.
-Mais je vois Apollon.
-
-**** *book_ *id_I04 *act_I *date_1782
-
--*who_mercure
-      Mon message est rempli ;
-Voilà, de vos lauriers, le théâtre embelli.
-Mais qui les cueillera ?
-
--*who_apollon
       Qui ? Les Auteurs sublimes.
 
--*who_mercure
-C'est payer dignement leurs efforts magnanimes.
-Mais si le seul Génie a désormais des droits
-Aux Lauriers dont j'ai fait investir ces colonnes,
-Tout franc, vous trouverez, je crois,
-Moins de têtes que de couronnes.
-
--*who_apollon
 Pourquoi donc cet effroi triste et décourageant ?
 Si le Pinde a perdu plus d'un rare talent,
 Nature, en Mère tendre et pleine de prudence,
@@ -166,183 +23,27 @@ Qu'elle en peut enfanter un autre.
 Enfin croyons toujours, instruits par le passé,
 Que ce qu'on voit périr peut être remplacé.
 
--*who_mercure
-En amour, soit.
-
--*who_apollon
       Oh ! Dans ce style
 Vous êtes, je l'avoue, un maître plus fameux.
 
--*who_mercure
-Et vous un railleur merveilleux.
-Mais s'il vous en souvient, à ce jeu quoique habile,
-Vous n'êtes pas toujours heureux.
-Autrefois, au bruit du tonnerre,
-Pour un bon mot de sa façon,
-Très lestement, le Seigneur Apollon
-Ne fit qu'un saut du ciel en terre.
-
--*who_apollon
 Oui, mon frère ; et c'est-là qu'en mainte occasion
 De plusieurs de vos tours il fut témoin fidèle.
 Votre adresse est un peu sujette à caution.
 Du bien d'autrui souvent...
 
--*who_mercure
-      Oui, c'est ce que j'appelle
-Une épigramme en action.
-
--*who_apollon
 C'est parler poliment. On vient. Que nous veut-on ?
 
-**** *book_ *id_I05 *act_I *date_1782
-
--*who_lauteurcomique
-Nous sommes tous les deux, quoique l'envie en gronde,
-Favoris d'Apollon.
-
--*who_apollon
       Soyez les bienvenus.
 Oui : c'est ainsi que j'ai de par le monde
 Des favoris que je n'ai jamais vus.
 Ne nous découvrons point.
 
--*who_mercure
-      Bigarrure complète ;
-L'un tient de l'ours, et l'autre a l'air d'une coquette.
-
--*who_lauteurtragique
-Je viens voir si la scène où l'on veut m'établir
-Est digne du fruit de mes veilles ;
-Si je peux, sans les avilir,
-Y laisser voir mes tragiques merveilles ;
-Si le Théâtre est vaste, élargi dans ses flancs ;
-Si l'on peut, sous les yeux des mères alarmées,
-Sous les yeux des vieillards, des citoyens tremblants,
-Y faire battre à l'aise deux armées ;
-Si l'on peut sans tumulte, en ordre solennel,
-Y faire défiler des convois mortuaires ;
-Si de mainte poulie on a garni le ciel,
-Pour accrocher des lampes funéraires ;
-Si l'on a préparé, pour l'endroit éclatant,
-Des toiles d'un beau noir, qui, sans bruit à l'instant,
-Couchent sur la coulisse un vernis de ténèbres ;
-Enfin, si l'on a su, dans un goût neuf, charmant,
-Y ménager adroitement
-Des échos pour les cris funèbres.
-
--*who_mercure
-Monsieur nous laisse apercevoir
-Qu'il est riche en moyens pour égayer la scène.
-
--*who_lauteurcomique
-Même désir m'amène : en moi vous devez voir
-Un auteur, mais comique.
-
--*who_mercure
-      Oui, je le crois sans peine.
-
--*who_lauteurcomique
-La Salle me paraît un peu vaste pour moi.
-Mes vers ont un, je ne sais quoi,
-Une harmonie et douce et tendre ;
-Sans les crier, il faut les faire entendre.
-Mon style aisé, plein de douceur,
-Ne fatigue jamais, (car c'est à quoi je veille)
-Ni la poitrine de l'acteur,
-Ni l'oreille du spectateur;
-Mon vers... c'est du miel pour l'oreille.
-Je viens donc voir si les décorateurs,
-Si les peintres pourront assortir leurs couleurs
-Aux tirades que je compose,
-Imiter la fraîcheur qui distingue, je crois,
-Mes madrigaux ; il me faudrait, à moi,
-Une Salle... couleur de rose.
-
--*who_mercure
-Ils sont fous.
-
--*who_lauteurtragique
-      On verra (j'en jure mon honneur)
-Que l'on ne connaît pas la Tragédie en France.
-On y sut quelquefois inspirer la terreur;
-Mais l'horreur... De notre art, c'est-la la quintessence.
-Heureux qui, par l'amas de tragiques horreurs,
-Porte la pâmoison, le spasme en tous les coeurs !
-Qui confond par un art digne de nos éloges,
-L'accent convulsif de l'acteur,
-Le cri mourant du spectateur !
-Quel tableau ! Le parquet, le théâtre et les loges,
-Tout est spectacle alors : c'est ainsi que je crois
-Avoir traité la Tragédie.
-
--*who_mercure
-Oh ! Votre muse est faite, je le vois,
-Pour adoucir les moeurs de sa patrie.
-
--*who_lauteurcomique
-Moi, par d'heureux tableaux avec art préparés,
-Je guérirai les coeurs qu'il aura déchirés.
-Mes pièces détruiraient le plus sombre prestige :
-On dirait d'un jardin qu'aucun hiver n'afflige ;
-On n'y voit promener que l'essaim des plaisirs ;
-On n'y marche pas, on voltige ;
-Tous les vents y sont des zéphyrs.
-Je crois voir chaque Belle, à ma douce éloquence,
-S'embellir encor à nos yeux ;
-Sur leurs lèvres circule un souris gracieux,
-Sans que jamais le rire en trouble le silence.
-
--*who_apollon
 Sur les Théâtres de Paris
 Aurait-on déjà vu vos sublimes écrits ?
 
--*who_lauteurcomique
-Pas encor. Notre but est d'y paraître ensemble.
-Comme nous avons pris des genres opposés,
-Nos coeurs ne sont pas divisés ;
-Avec des noeuds de fleurs l'amitié les rassemble.
-Aussi, je dis partout que du sein du trépas,
-Si le ciel rappelait Corneille à la lumière,
-Il baiserait la trace de ses pas.
-
--*who_lauteurtragique
-Moi, je mets à ses pieds Molière.
-
--*who_lauteurcomique
-Si j'eusse à Melpomène offert mes premiers voeux,
-J'imiterais sa touche au sombre accoutumée.
-
--*who_lauteurtragique
-Si Thalie inspirait ma Muse désarmée,
-Je prendrais son pince au moelleux ;
-J'emploierais son carmin.
-
--*who_lauteurcomique
-      Moi, son noir de fumée.
-Sur un seul point nos avis sont divers.
-
--*who_mercure
-Et sur quoi ?
-
--*who_lauteurcomique
-      Dans Corneille il ne voit que des scènes.
-
--*who_lauteurtragique
-Et dans Racine, il ne voit que des vers.
-Corneille n'a bien peint que les âmes romaines.
-
--*who_lauteurcomique
-Et Racine, l'amour.
-
--*who_apollon
       Messieurs, laissons cela ;
 Apollon pourrait vous entendre.
 
--*who_lauteurtragique
-Où donc est-il, Apollon ?
-
--*who_apollon
       Le voilà :
 Lui qui semble un peu vous surprendre ;
 Avec qui, soit dit entre nous,
@@ -371,91 +72,21 @@ Elles pourraient fort bien, sans respecter les droits
 Du noeud de fleurs qui vous enchaîne,
 Siffler vos madrigaux, bâiller à vos convois.
 
--*who_lauteurtragique
-Je présume mieux de Thalie.
-
--*who_lauteurcomique
-Pour un tel procédé, je crois
-Melpomène un peu trop polie.
-
--*who_apollon
 Bon ! La Critique, justement !
 
-**** *book_ *id_I06 *act_I *date_1782
-
--*who_lauteurtragique
-Quel trouble !
-
--*who_lauteurcomique
-      Quel malaise !
-
--*who_apollon
       Qu'est-ce ?
 Qu'avez-vous donc ?
 
--*who_lauteurtragique
-      Une faiblesse...
-
--*who_lauteurcomique
-D'où me vient ce saisissement ?
-Dieux ! la Critique.
-
--*who_lauteurtragique
-      Ô ciel ! Ma faiblesse est extrême,
-Et mes genoux tremblants...
-
--*who_mercure
-      Qu'ont-ils ?
-
--*who_apollon
       Ma foi, voilà
 Nos deux auteurs prêts à tomber... eux-mêmes.
 
--*who_mercure
-Il faut pourtant les secourir.
-
--*who_apollon
       Hola !
 Venez : soutenez-les, Génies;
 C'est l'unique bienfait, le seul que de leurs vies
 Auront reçu de vous ces Messieurs-là.
 
-**** *book_ *id_I07 *act_I *date_1782
-
--*who_apollon
 C'est vous dont la présence a su nous en défaire.
 
--*who_mercure
-Pour les favoris de mon frère
-Vous êtes donc un objet de frayeur ?
-
--*who_lacritique
-Oui : j'ai souvent le don de leur déplaire ;
-Mais c'est surtout aux sots que je fais peur.
-Aux bons auteurs souvent je plais, quoique sévère.
-Hé ! Quel succès pourrait flatter,
-Si je n'avais soin d'habiter
-Dans le parterre, ou de m'asseoir en loge ?
-Il faut savoir discerner les défauts,
-Pour pouvoir aux beautés donner un digne éloge ;
-Le sot peut seul prétendre aux louanges des sots.
-
--*who_mercure
-Oui : mais pourtant on vous déchire
-En plus d'un lieu. La Critique, dit-on,
-Déraisonne souvent, et se plaît à médire.
-Est-ce-là votre portrait ?
-
--*who_lacritique
-      Non.
-Et si l'on déraisonne, ou si l'on cherche à nuire,
-Ce n'est pas moi ; c'est sous mon nom
-Ou l'ignorance, ou la satire.
-Mais, souffrez une question.
-Est-ce-là l'essaim des Génies,
-Qui forme en tout temps votre cour ?
-
--*who_apollon
 Oui, c'est par eux que je sais tour-à-tour
 Ranimer des talents les palmes défleuries.
 C'est à moi de les protéger ;
@@ -476,51 +107,74 @@ Cet espiègle joyeux à l'oeil vif et malin,
 A le district du vaudeville.
 Mais j'entends mes soeurs : les voilà.
 
--*who_lacritique
-Je me sauve.
-
--*who_apollon
       Non : restez-là.
 Votre aspect ne peut leur déplaire.
 Honnête et sage, avec cela
 Vous leur serez utile et chère.
 
--*who_lacritique
-Quel est cet écuyer qui conduit gravement
-Melpomène ?
-
--*who_apollon
       C'est un Génie :
 Celui du grand Corneille. Avec cérémonie,
 D'Auguste il a choisi l'air et le vêtement.
 
--*who_lacritique
-Je m'en doutais. On doit le reconnaître
-À ses cheveux blanchis sous le laurier,
-À son air vénérable, à son front noble, altier ;
-L'oeil croit voir Corneille renaître.
-C'est un Génie encor que vers nous si gaîment
-Mène Thalie ?
-
--*who_apollon
       Oui, justement.
 C'est celui de Molière : à ses mânes fidèle,
 Il a voulu garder les traits de Sganarelle.
 
--*who_lacritique
-Oui, c'est lui-même. Assurément
-Je n'aurais pas du m'y méprendre.
-Ce front exprime bien ce que sa plume écrit !
-Si son oeil sut scruter les travers de l'esprit,
-Oh ! comme sa figure est propre à nous les rendre !
-
-**** *book_ *id_I08 *act_I *date_1782
-
--*who_apollon
 J'ai cru qu'au défaut de mes soeurs
 C'était à moi de faire les honneurs.
 
--*who_melpomene
+Ah ! Vous l'avez voulu, mon frère.
+Mais de ce nouveau Temple où l'on va s'installer,
+Que pensez-vous ? Qu'est-ce qu'il vous inspire ?
+
+      On peut vous en défaire.
+Voici mon talisman. Nous en viendrons à bout.
+
+      Que la même disgrâce
+Le suive dans tous les climats !
+S'il reparaît ici, qu'aussitôt il s'efface,
+Et que l'oeil cherche en vain la trace de ses pas.
+
+Son habit est toujours trop large ou trop étroit.
+
+Consacrons ce grand jour par de justes hommages.
+Découvrez-nous ces bustes glorieux.
+Que des Lauriers religieux
+Couronnent par vos mains ces augustes Images!
+Allez ? Ces marbres vivants,
+Allez tous rallumer le flambeau des talents.
+
+
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+C'est trop d'honneur que l'on nous fait.
+Dès qu'un nouvel auteur sur la scène s'élance,
+C'est nous qui l'inspirons ; et l'on nous fait d'avance
+Complices de chaque forfait,
+Lorsque sur tout cela nous sommes en effet
+De la plus parfaite innocence !
+
+      Je n'y vois rien à dire.
+
+Oh ! Comme j'y vais faire rire !
+
+      Mon Frère,
+À l'aide !
+
+Comme il a disparu !
+
+      Son corps n'est jamais droit.
+Il boite.
+
+Il louche.
+
+      Vous, le glaive de Crispin.
+
+Vous, le don de les essuyer.
+
+
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 Je vous en sais bon gré, mon frère.
 Vous n'êtes pas en ces lieux étrangers.
 Prêtez à l'art un secourable appui ;
@@ -530,157 +184,16 @@ Compter sur nos coeurs généreux.
 Vous le voyez : chacune de nous deux
 Est fidèle à son vieux Génie.
 
--*who_lacritique
-Ce n'est pas-là ce qu'on pense à Paris :
-Pardon, si je me fais ici son interprète ;
-Mais s'il faut vous juger d'après vos favoris,
-Vous avez bien changé d'esprit et de toilette !
-
--*who_thalie
-C'est trop d'honneur que l'on nous fait.
-Dès qu'un nouvel auteur sur la scène s'élance,
-C'est nous qui l'inspirons ; et l'on nous fait d'avance
-Complices de chaque forfait,
-Lorsque sur tout cela nous sommes en effet
-De la plus parfaite innocence !
-
--*who_mercure
-Mais pardon, illustres Rivaux,
-Qui jadis inspiriez et Corneille et Molière ;
-Si l'on en croit certains propos,
-Vous vous dédommagez par un bien long repos
-De votre fatigue première.
-
--*who_legeniedecorneille
-Après avoir conduit à l'immortalité
-Corneille, dont le nom doit fleurir d'âge en âge,
-Mon repos a-t-il donc été
-Inutile ? Racine ? Il eut pour apanage
-Le sentiment, l'urbanité ;
-En sa faveur j'adoucis ma fierté.
-Peut-être moins nerveux, plus élégant, plus sage,
-Il fit parler au coeur un plus tendre langage.
-Crébillon méconnut la parure et le fard ;
-Trop fier pour obéir même aux règles de l'art,
-Il adopta pour loi l'instinct et la nature ;
-Il traça des forfaits l'énergique peinture,
-Et fit par la terreur aiguiser mon poignard.
-Après ces trois héros, qu'adore le Permesse,
-On m'eût permis peut-être, au sein de la mollesse,
-De sommeiller jusqu'aujourd'hui.
-Mais j'adoptai Voltaire ; il sut, dès sa jeunesse,
-Des trois genres connus en créer un pour lui,
-Et de jeunes lauriers j'honorai sa vieillesse :
-Sans ressembler, il sut, par des efforts nouveaux,
-Manier tour-à-tour, avec la même adresse,
-Les trois poignards de ses rivaux.
-
--*who_legeniedemoliere
-Pour moi, je l'avouerai, quand on eut vu Molière
-Tomber sous le ciseau fatal,
-Je voulus, pour garder sa gloire toute entière,
-Qu'il eût des successeurs, et n'eût pas un rival.
-C'était de ses travaux la digne récompense.
-Mais, ne m'a-t-on pas vu depuis
-Régénérer souvent la gloire de la France,
-Et par d'autres essais consoler ses ennuis ?
-Regnard vif et brillant, armé de la saillie,
-A fait rire, en peignant le Joueur furieux ;
-Destouches, sur la scène un peu trop ennoblie,
-A corrigé le Glorieux.
-Dufrény, dont j'aimai la verve originale ;
-Dancourt gai, naturel, quelquefois emporté
-Par son humeur... trop joviale ;
-Le tendre La Chaussée, un peu sobre en gaîté ;
-Et Lesage, qui plus caustique
-Du sel de l'épigramme anima ses tableaux ;
-Et d'autres, dont ma main dirigea les pinceaux,
-Ont encore agrandi le domaine comique.
-Et n'ai-je pas naguère enrichi l'Hélicon
-De la Métromanie, ouvrage que Molière
-Avouerait, j'en suis caution,
-Enfant cher à Thalie, et si beau que Piron
-Fut surpris d'en être le père ?
-Voilà tous nos forfaits que nous vous dévoilons.
-Quant à Mercure, il peut railler sans nous déplaire ;
-On doit, lorsqu'on a des ailes aux talons,
-Avoir la tête un peu légère.
-
--*who_apollon
-Ah ! Vous l'avez voulu, mon frère.
-Mais de ce nouveau Temple où l'on va s'installer,
-Que pensez-vous ? Qu'est-ce qu'il vous inspire ?
-
--*who_melpomene
 Je le trouve fort bien.
 
--*who_thalie
-      Je n'y vois rien à dire.
-
--*who_melpomene
 Que de larmes y vont couler !
 
--*who_thalie
-Oh ! Comme j'y vais faire rire !
-
--*who_lacritique
-Le Mauvais Goût !
-      Le Mauvais Goût !
-Le Mauvais Goût ! Le Mauvais Goût !
-
--*who_thalie
-      Mon Frère,
-À l'aide !
-
--*who_apollon
-      On peut vous en défaire.
-Voici mon talisman. Nous en viendrons à bout.
-
--*who_thalie
-Comme il a disparu !
-
--*who_apollon
-      Que la même disgrâce
-Le suive dans tous les climats !
-S'il reparaît ici, qu'aussitôt il s'efface,
-Et que l'oeil cherche en vain la trace de ses pas.
-
--*who_mercure
-Mais comme de sa cendre il se plaît à renaître,
-À la porte il faudrait, je crois, le consigner.
-
--*who_lacritique
-Sans peine on peut le désigner ;
-Il est facile à reconnaître.
-
--*who_melpomene
 Toujours sec, ou gonflé.
 
--*who_thalie
-      Son corps n'est jamais droit.
-Il boite.
-
--*who_lacritique
-      Sa toilette est une bigarrure ;
-Chaque couleur y trouve une couleur qui jure.
-
--*who_apollon
-Son habit est toujours trop large ou trop étroit.
-
--*who_thalie
-Il louche.
-
--*who_lacritique
-      Il met du blanc.
-
--*who_melpomene
       N'importe, quoiqu'il fasse...
 Mais deux de nos Acteurs viennent pour prendre place;
 Il faut les installer.
 
-**** *book_ *id_I09 *act_I *date_1782
-
--*who_melpomene
       Venez, l'un des enfants
 D'une Famille qui m'est chère,
 Qui fut de ma gloire en tout temps
@@ -688,33 +201,233 @@ L'organe et le dépositaire.
 Approchez-vous, et de ma main,
 Prenez mon poignard.
 
--*who_thalie
-      Vous, le glaive de Crispin.
-
--*who_melpomene
 Portez dans tous les coeurs les plus tendres alarmes ;
 Et recevez avec ce noble acier
 Le pouvoir d'arracher des larmes.
 
--*who_thalie
-Vous, le don de les essuyer.
 
--*who_lacteurtragique
-Grâce vous soit rendue, auguste Melpomène !
-Vous pouvez seule nous donner
-Le droit de disputer les lauriers de la scène;
-Une autre main doit nous les décerner.
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
--*who_lacteurcomique
-Me voilà donc sous les armes comiques !
-Mais aidez-moi, vous le pouvez,
-À faire enregistrer mes Lettres Dramatiques
-Au Tribunal que vous savez.
+Thalie et Melpomène arrivent en ces lieux ;
+Dans ce Temple nouveau qu'on destine à leurs jeux.
+Or maintenant, jeunes et vieux Génies,
+C'est pour les recevoir qu'ici je vous conduis ;
+Et de par Apollon, je suis
+Le maître des cérémonies.
+Que ces lauriers en couronnes tressés
+Par ordre en tous lieux soient places;
+C'est le digne ornement de l'enceinte où nous sommes:
+Le laurier fut toujours le luxe des grands hommes.
 
--*who_apollon
-Consacrons ce grand jour par de justes hommages.
-Découvrez-nous ces bustes glorieux.
-Que des Lauriers religieux
-Couronnent par vos mains ces augustes Images!
-Allez ? Ces marbres vivants,
-Allez tous rallumer le flambeau des talents.
+Pour moi qui fus toujours instruit
+À priser l'arbre par son fruit,
+Ce n'est pas-là le mien ; et je sais m'y connaître.
+Je préfère, pour être heureux,
+Tout arbre qui nourrit son maître,
+À celui qui le rend fameux.
+Mais quel est donc ce personnage ?
+
+Une telle colonne annonce, j'en conviens,
+Une solide architecture.
+
+Sans doute qu'au Spectacle on vous trouve souvent?
+
+      Ah ! bon.
+Et vous applaudissez suivant la pièce ?
+
+      Ma foi,
+La visite m'étonne. Eh quoi!
+A peine la porte est ouverte,
+Et vous voilà déjà !
+
+Par le Styx, vous êtes alerte.
+
+Il est vrai ; je suis même un peu plus que malin.
+Mais, mon ami, si de l'antique Rome
+Tu parcours le code divin,
+Tu conviendras, j'en suis certain,
+Que l'on peut être un Dieu, sans être un honnête homme.
+Mais comment feras-tu désormais ? Autrefois,
+Le Spectateur, dans les flots du parterre,
+Entendait sans te voir et tes mains et ta voix ;
+Tu pouvais te cacher, en y faisant la guerre.
+Tes voisins maintenant assis, en plein repos,
+Vont nuire aux élans de ton zèle,
+Gêner tes mouvements, dévoiler tes complots.
+
+Observe ; mais après, sors et fais diligence ;
+Apollon doit ici me rejoindre soudain ;
+Et je ne vous crois pas en bonne intelligence.
+
+Oui, les beaux Arts. Il est original !
+En effet on le traite mal.
+Son talent fait grand bruit, et n'est connu qu'à peine,
+N'est pas encouragé, se trouve sans Mécène.
+Mais je vois Apollon.
+
+      Mon message est rempli ;
+Voilà, de vos lauriers, le théâtre embelli.
+Mais qui les cueillera ?
+
+C'est payer dignement leurs efforts magnanimes.
+Mais si le seul Génie a désormais des droits
+Aux Lauriers dont j'ai fait investir ces colonnes,
+Tout franc, vous trouverez, je crois,
+Moins de têtes que de couronnes.
+
+En amour, soit.
+
+Et vous un railleur merveilleux.
+Mais s'il vous en souvient, à ce jeu quoique habile,
+Vous n'êtes pas toujours heureux.
+Autrefois, au bruit du tonnerre,
+Pour un bon mot de sa façon,
+Très lestement, le Seigneur Apollon
+Ne fit qu'un saut du ciel en terre.
+
+      Oui, c'est ce que j'appelle
+Une épigramme en action.
+
+      Bigarrure complète ;
+L'un tient de l'ours, et l'autre a l'air d'une coquette.
+
+Monsieur nous laisse apercevoir
+Qu'il est riche en moyens pour égayer la scène.
+
+      Oui, je le crois sans peine.
+
+Ils sont fous.
+
+Oh ! Votre muse est faite, je le vois,
+Pour adoucir les moeurs de sa patrie.
+
+Et sur quoi ?
+
+      Qu'ont-ils ?
+
+Il faut pourtant les secourir.
+
+Pour les favoris de mon frère
+Vous êtes donc un objet de frayeur ?
+
+Oui : mais pourtant on vous déchire
+En plus d'un lieu. La Critique, dit-on,
+Déraisonne souvent, et se plaît à médire.
+Est-ce-là votre portrait ?
+
+Mais pardon, illustres Rivaux,
+Qui jadis inspiriez et Corneille et Molière ;
+Si l'on en croit certains propos,
+Vous vous dédommagez par un bien long repos
+De votre fatigue première.
+
+Mais comme de sa cendre il se plaît à renaître,
+À la porte il faudrait, je crois, le consigner.
+
+
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
+
+Seigneur Mercure, agréez mon hommage.
+J'ai l'air étranger à vos yeux?
+Cela doit être ; on connaît beaucoup mieux
+Mes actions que ma figure.
+J'habite le parterre, et j'en suis, je vous jure,
+Une colonne, un des soutiens.
+
+Comme on en veut à mon talent,
+Je prends pour l'exercer cette forme étrangère ;
+Et vous voyez ici mon costume ordinaire.
+
+Souvent ? Toujours. D'autres en font autant ;
+Mais d'eux en un point je diffère :
+Ils y vont par plaisir, moi, j'y vais pour affaire.
+J'y vais pour applaudir ou pour siffler.
+
+      Non ;
+Suivant l'auteur. Tel est mon ministère.
+Bref, je suis la Cabale, à vous servir.
+
+      Vraiment oui, me voici.
+
+Il le faut bien; je viens ici
+Reconnaître les lieux en profond politique ;
+Et pour faire éclater ou pour cacher mes soins,
+Lever des coins et des recoins
+Une carte topographique.
+On peut, je pense, avec les battoirs que voilà,
+Se flatter d'assourdir la scène ;
+Je crois qu'on est en fonds avec ces poumons-là,
+Pour fournir aux sifflets une bruyante haleine,
+Ou faire retentir les bravo, les paix-là.
+Mais quoi ! Nous devrions être assez bien ensemble;
+Vous fûtes toujours, ce me semble,
+D'un naturel à la malice enclin.
+
+Je n'en suis pas plus gai. Par des efforts nouveaux
+Il me faut conquérir une gloire nouvelle ;
+Il faudra former d'autres plans
+Plus subtilises, plus savants.
+C'est pour cela qu'ici d'avance
+Je viens observer le terrain.
+
+Ô temps ! ô moeurs ! Ainsi donc tout me nuit !
+On a détruit mon poste, on m'insulte, on m'offense,
+Et pour comble de maux Apollon me poursuit !
+Est-ce ainsi que les Arts sont protégés en France ?
+
+
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
+
+Oui : j'ai souvent le don de leur déplaire ;
+Mais c'est surtout aux sots que je fais peur.
+Aux bons auteurs souvent je plais, quoique sévère.
+Hé ! Quel succès pourrait flatter,
+Si je n'avais soin d'habiter
+Dans le parterre, ou de m'asseoir en loge ?
+Il faut savoir discerner les défauts,
+Pour pouvoir aux beautés donner un digne éloge ;
+Le sot peut seul prétendre aux louanges des sots.
+
+      Non.
+Et si l'on déraisonne, ou si l'on cherche à nuire,
+Ce n'est pas moi ; c'est sous mon nom
+Ou l'ignorance, ou la satire.
+Mais, souffrez une question.
+Est-ce-là l'essaim des Génies,
+Qui forme en tout temps votre cour ?
+
+Je me sauve.
+
+Quel est cet écuyer qui conduit gravement
+Melpomène ?
+
+Je m'en doutais. On doit le reconnaître
+À ses cheveux blanchis sous le laurier,
+À son air vénérable, à son front noble, altier ;
+L'oeil croit voir Corneille renaître.
+C'est un Génie encor que vers nous si gaîment
+Mène Thalie ?
+
+Oui, c'est lui-même. Assurément
+Je n'aurais pas du m'y méprendre.
+Ce front exprime bien ce que sa plume écrit !
+Si son oeil sut scruter les travers de l'esprit,
+Oh ! comme sa figure est propre à nous les rendre !
+
+Ce n'est pas-là ce qu'on pense à Paris :
+Pardon, si je me fais ici son interprète ;
+Mais s'il faut vous juger d'après vos favoris,
+Vous avez bien changé d'esprit et de toilette !
+
+Le Mauvais Goût !
+      Le Mauvais Goût !
+Le Mauvais Goût ! Le Mauvais Goût !
+
+Sans peine on peut le désigner ;
+Il est facile à reconnaître.
+
+      Sa toilette est une bigarrure ;
+Chaque couleur y trouve une couleur qui jure.
+
+      Il met du blanc.
+

@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1637
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artabaze
 
--*who_artabaze
 Je suis l'amour du Ciel, et l'effroi de la Terre ;
 L'ennemi de la paix, le foudre de la guerre ;
 Des Dames le désir, des maris la terreur ;
@@ -62,28 +61,369 @@ Quelque horrible Géant, ou quelque monstre affreux ;
 S'il faut que ma valeur manque un jour de matière,
 Je vais faire du monde un vaste cimetière.
 
-**** *book_ *id_I02 *act_I *date_1637
+Quel prodige est-ce ci ? Je suis saisi d'horreur.
 
--*who_amidor
+      La rage le possède :
+Contre les furieux la fuite est le remède.
+
+Pauvre homme, je t'entends sans cesse soupirer.
+Tu ne fais que te plaindre et te désespérer.
+Je suis l'effroi de ceux qui semblent redoutables,
+Mais sache que je suis l'espoir des misérables.
+Est-ce quelque tyran qui triomphe de toi ?
+Et qui te fait servir sous son injuste loi ?
+Jupiter dans les cieux peut garder son tonnerre :
+Je dompte ces marauds et j'en purge la terre
+Est-ce quelque brigand qui t'emporte ton bien ?
+Quelque part qu'il se cache, il ne lui sert de rien.
+J'escalade les monts, je descends aux abîmes,
+Il n'est point contre moi d'asile pour les crimes.
+
+      Quelque accident fatal
+T'a-t-il fait exiler de ton pays natal ?
+Je veux te redonner la grâce de ton Prince.
+Ou mon juste courroux détruira sa province.
+
+Regrettes-tu quelqu'un de tes plus chers parents ?
+Si c'est qu'après sa mort il te fâche de vivre.
+Je vais jusqu'aux enfers et je te le délivre.
+
+Est-ce une maladie ?
+
+C'est une maladie ? Ah ! Qu'elle est attrapée.
+J'extermine les maux du vent de mon épée.
+Mais il faut en user en diverses façons,
+Ou feindre une estocade, ou des estramaçons,
+Selon les maux divers.
+
+Quel est donc votre mal ?
+
+Tout cela pris en poudre a causé votre mal.
+N'avait-on point mêlé quelque jus de racine
+Pour donner le passage à cette médecine ?
+
+Ce titre me plaît fort.
+
+Vraiment vous me contez une étrange merveille,
+Un philtre par l'oreille ?
+
+      Ah Dieux ! Il me fait rire.
+C'est de l'azur des yeux que vous me voulez dire,
+Du coral d'une bouche.
+
+      Ah ! Vous êtes amant
+De quelques yeux d'azur, de quelque teint d'ivoire ?
+
+Sans doute il veut parler de la Nymphe qui m'aime.
+
+      Ah ! Si je la connais ?
+Cette Nymphe m'adore, elle vit sous mes lois.
+
+J'en pourrai bien ranger d'autres sous mon pouvoir,
+Je me suis engagé de vous donner remède,
+J'ai pitié de vos maux, allez, je vous la cède.
+
+      Allez, je vous la donne.
+
+Cet homme est furieux, retirons-nous d'ici.
+
+Quand je l'ai vu tantôt il s'est mis en furie.
+
+Toutefois il crachait du creux de ses poumons,
+L'Épode, l'Antistrophe, et cent autres démons.
+
+C'est là mon seul défaut, je crains les furieux.
+
+Je m'enfuis.
+
+      Voyez comme il médite.
+
+      Je crains que sa rage s'irrite.
+
+M'assurez-vous de lui ?
+
+Il a, comme je vois, quelques bons intervalles.
+Dites, votre fureur vous prend-elle souvent ?
+Faites-nous quelque signe au moins auparavant.
+
+Pour mes faits valeureux je veux bien vous en dire.
+Mais trêve de fureur.
+
+Sachez que j'ai pour nom l'effroyable Artabaze,
+Qui monté quelquefois sur le cheval Pégase,
+Vais jusques sur la rue oeillader l'univers.
+Pour chercher de l'emploi dans les climats divers.
+Puis pour me divertir je vole et je revole
+En deux heures ou trois de l'un à l'autre pôle.
+
+Un jour du haut de l'air j'aperçus deux armées,
+D'une chaleur pareille au combat animées,
+Quand assez à les voir je me fus diverti,
+Attendant de me joindre au plus faible parti ;
+Toujours volait entre eux la victoire douteuse :
+Enfin de cet ébat ma valeur fut honteuse ;
+L'impatiente ardeur me fait fondre sur eux,
+Comme un Aigle vaillant sur des Cygnes peureux :
+Je fends de tous côtés, bras, jambes, cuisses, têtes :
+Mes grands coups se font craindre ainsi que des tempêtes :
+J'attire sur moi seul mille traits opposés :
+Mais d'un de mes regards j'abats les plus osés :
+Enfin je fis alors, ce qu'à peine on peut croire,
+De deux camps ennemis une seule victoire.
+
+Comment décririez-vous ce combat périlleux ?
+
+Fuyons, cette fureur le va reprendre encore.
+
+      Il parle à ses démons,
+Son oeil n'est plus si doux, il fait mille grimaces,
+Et mâche entre ses dents de certaines menaces,
+Voyez comme il nous lance un regard de travers ?
+
+Faut-il être en fureur ? Ce métier est étrange.
+J'aime mieux pour ce coup me passer de louange,
+Pour voir faire des vers je n'y prends pas plaisir.
+
+Je vous ferai faveur.
+
+Où courez-vous, ami, ne m'abandonnez pas.
+
+Adieu donc, pauvre amant, que le ciel vous console.
+
+Il est vrai.
+
+Oui, je l'entreprendrai, s'il est digne de moi.
+
+      Oui, puisque ce grand Roi,
+Par qui se vit l'Asie autrefois possédée,
+Avait de ma valeur quelque légère idée.
+
+C'est donc quelque démon, quelque bête effroyable,
+Ah ! Ne le tirez point.
+
+      Quoi, qui donne la mort ?
+Vous êtes donc Sorcier ?
+
+Ah Dieux ! Je suis perdu, ma valeur ni mes armes
+Ne sont point par malheur à l'épreuve des charmes.
+
+      C'est ce qui me fait peur.
+
+Je le veux.
+
+Je suis cet Alexandre.
+
+Ce titre m'appartient.
+
+Je ne suis pas si sot qu'en dire davantage,
+Je me condamnerais en tenant ce langage,
+
+      Ce trait est captieux,
+Afin que j'abandonne un titre glorieux :
+Le donnant, je perdrais le pouvoir d'y prétendre.
+Je dirai seulement, je suis cet Alexandre.
+
+      Il faut bien sur ma foi,
+Donner le titre à dire à quelque autre qu'à moi :
+Puis je pourrai poursuivre.
+
+Comme vous l'entendrez, je ne puis autrement.
+
+Quoi ? Vous me menacez, frénétique caboche.
+
+Ô Dieux à mon secours, sauvez-moi du Sorcier.
+
+      Quelle est cette beauté,
+Qui parle d'Alexandre ? Elle paraît hardie.
+Ma foi vous le verrez, c'est cette Tragédie
+Dont parlait ce fantasque, elle en dit quelques vers.
+
+Il faut lui répartir : Je suis cet Alexandre.
+
+Cette fille à mon gré fait bien son personnage.
+
+      Je ne suis pas si sot.
+
+Je suis cet Alexandre, et cela vous suffise.
+
+Est-ce pour moi ce titre, ou bien pour Alexandre ?
+
+      Si ce titre est pour moi,
+Comme m'appartenant aussi je le reçois :
+Mais je le maintiens faux, si c'est pour Alexandre.
+
+C'est par moi qu'Alexandre a souffert le trépas.
+
+Laissons la Tragédie, on m'appelle Artabaze,
+Plus craint que le tonnerre, et l'orage et les vents.
+
+Artabaze est le nom du plus grand des guerriers,
+Dont le front est chargé de cent mille lauriers.
+
+Quoi ? Vous dites aussi des mots de ce Sorcier
+Qui fit la Tragédie ?
+
+Il est vrai que de peur j'en ai pensé mourir.
+Vous a-t-on dit l'effroi qui m'a tant fait courir.
+
+Il m'a fait disparaître aux yeux de tout le monde.
+
+Par des mots qui pouvaient en effrayer un cent.
+Par un certain Démon qu'il portait dans sa poche.
+
+      Nul de sa mort ne fut jamais si proche.
+
+Quels combats se sont faits ?
+
+On s'est battu sans moi ? Je déteste, j'enrage.
+
+Je les ferai tous pendre : Où sont-ils ces marauds ?
+Ils partagent mon bien ?
+
+Les Dieux pour les sauver de mon juste courroux
+Ont mis assurément cet espace entre nous.
+
+      Ce Sorcier me veut prendre.
+
+Ô Dieux ! Quelle pitié ! Je suis couru des Dames,
+Mais je ne puis tout seul soulager tant de flammes.
+
+J'ai trop d'amour ailleurs, je ne puis vous entendre.
+
+Bon homme, approchez-vous, venez me rendre hommage.
+
+Il me gagne le coeur, l'humilité me charme :
+C'est ce qui m'adoucit, c'est ce qui me désarme.
+Vous avez une fille ?
+
+J'eusse été, s'il m'eût plu, le gendre de cent Rois.
+Je veux vous combler d'heur, il m'en prend fantaisie :
+En dussent tous ces Rois crever de jalousie.
+
+Quoi ? J'en poursuis quelqu'une ? Ah ! Quelle rêverie !
+
+Quelle est cette Hespérie ? Ô Dieux ! Cette beauté
+Se mêle d'attenter à cette vanité ?
+Vanité téméraire, et digne de supplice,
+Qu'à peine souffrirais-je dans une Impératrice.
+Moi que mille beautés pourchassent à l'envi ?
+Que je suis d'elles partout à toute heure suivi ;
+Qui n'ai qu'à regarder celle qui me peut plaire.
+Pour dire, allez, c'est vous que je veux satisfaire.
+Entre autres la constance, et l'ardente amitié
+D'une qui me poursuit, vous ferait bien pitié,
+Qui me nomme son tout, et son cher Alexandre.
+
+      Il est vrai, l'on vient de me l'apprendre.
+Certes, elle ne cède à nulle de ces lieux,
+Et peut bien mériter un regard de mes yeux :
+Mais jugez de combien elle s'était trompée :
+Ayant su les pays conquis par mon épée ?
+Ayant ouï parler de mes faits glorieux,
+Qui m'ont de l'Univers rendu victorieux,
+Son esprit se bornait à ne pouvoir comprendre
+Sinon qu'elle voyait un second Alexandre.
+Ce nom me fâchait fort, comme indigne de moi.
+Car bien qu'il fût vaillant, bien qu'il fût un grand Roi.
+Peut-être au quart du monde il fit jadis la guerre,
+Et pour moi j'ai conquis tout le rond de la terre.
+
+      Il ne parut jamais.
+L'auteur qui me suivit en ce fameux voyage,
+Avec tous écrits périt par un naufrage.
+De votre fille enfin j'ai détrompé l'esprit,
+Qu'on me nomme Artabaze, et quelle se méprit
+Alors qu'elle pensa que j'étais Alexandre.
+J'ai bien eu quelque peine à lui faire comprendre,
+Tant elle était brouillée en son entendement.
+Mais elle a fait alors un coup de jugement.
+Pour gagner mon amour par un beau stratagème,
+Elle feint sur le champ une colère extrême :
+Mêmes elle ose bien passer jusqu'au mépris :
+Son dessein réussit, soudain j'en suis épris :
+Mon coeur lui fait présent de sa noble franchise,
+Car je fuis qui me suit, j'aime qui me méprise.
+Nul ne saurait plus haut porter l'ambition
+Que d'oser renvier sur ma présomption :
+C'est un trait généreux, et d'un hardi courage ;
+Aussi pour ce sujet je l'aime davantage.
+Je veux croire qu'un jour il naîtra de nous deux,
+Un des plus grands guerriers et des plus hasardeux,
+Un qui se fera voir sur la terre et l'onde
+Mon digne successeur à l'Empire du monde.
+
+      Je le suis en pouvoir.
+
+Couvrez-vous, ces respects ne sont que tyrannies,
+Je ne m'amuse pas à ces cérémonies.
+
+      Ce n'est que vanité :
+À garder mes États ma suite est occupée.
+Je suis, il me suffit, suivi de mon épée.
+
+Non, je leur ai fait grâce, ils sont dans leurs Provinces :
+Mais ils sont seulement déchus de leurs honneurs :
+Car au lieu d'être Rois, ce sont des Gouverneurs.
+
+En un mois à peu près j'achevai cette guerre.
+Je pris, s'il m'en souvient, l'Europe en quatre jours :
+Et sans de ma victoire interrompre le cours,
+Je fis voile en Asie, et passant le Bosphore
+En six jours je domptai les peuples de l'Aurore.
+En deux jours je revins de ces lieux reculés,
+Je passai la Mer Rouge, et les sablons brûlés,
+Puis en moins de huit jours je pris toute l'Afrique.
+De là passant les flots de la mer Atlantique
+Je conquis les climats de nouveau découverts,
+Et fus au bout du monde maître de l'Univers.
+
+Il est vrai, la valeur est la haute vertu
+Par qui rien n'est si grand qui ne soit abattu.
+
+Je vous veux rendre heureux.
+
+Vous savez plaire aux Grands.
+
+Elle me plaît assez en l'habit ordinaire,
+Mais j'ai peur qu'elle craigne une humeur sanguinaire,
+Un homme de carnage, et de meurtre, et d'horreur,
+Et dont les fiers regards donnent de la terreur.
+
+Bien donc, Adieu, bon homme.
+
+Hé bien, mes bons amis, vous êtes assemblés :
+C'est pour me recevoir : je crois que vous tremblez :
+À peine souffrez-vous mes regards effroyables :
+Je veux pour vous parler les rendre supportables :
+Car je ne pourrais pas sans cet ajustement,
+Avec nul des mortels converser un moment.
+
+      Elle n'est pas commune.
+Souffrez donc, mes amis un revers de fortune :
+Vous allez trébucher du faîte du bonheur.
+Je vous ai fait, bon homme, espérer un honneur,
+Honneur que Jupiter ose à peine prétendre,
+De me loger chez vous, et de m'avoir pour gendre.
+Je viens vous avertir que c'est mon passe-temps
+De rendre quelquefois des pères bien contents,
+Leur faisant concevoir cette haute espérance.
+Mais j'ai pitié de vous, et de votre innocence.
+Sans vous faire languir dans l'espoir d'être heureux,
+De vos filles jamais je ne fus amoureux :
+Bon homme, supportez cette douleur extrême,
+Car je suis seulement amoureux de moi-même.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amidor
+
 Je sors des antres noirs du mont Parnassien,
 Où le fils poil-doré du grand Saturnien
 Dans l'esprit forge-vers plante le Dithyrambe,
 L'Épode, l'Antistrophe, et le tragique Iambe.
 
--*who_artabaze
-Quel prodige est-ce ci ? Je suis saisi d'horreur.
-
--*who_amidor
 Profane ; éloigne-toi, j'entre dans ma fureur.
 Iacch Iacch Évohé.
 
--*who_artabaze
-      La rage le possède :
-Contre les furieux la fuite est le remède.
-
-**** *book_ *id_I03 *act_I *date_1637
-
--*who_amidor
 Que de descriptions montent en mon cerveau,
 Ainsi que les vapeurs d'un fumeux vin nouveau !
 Sus donc, représentons une fête Bachique,
@@ -117,20 +457,9 @@ Jupin de l'univers sape les fondements ;
 Ce coup jusqu'à Tenare a fait une ouverture.
 Et fera pour le moins avorter la nature.
 
-**** *book_ *id_I04 *act_I *date_1637
-
--*who_filidan
-Voici ce cher ami, cet esprit merveilleux.
-
--*who_amidor
 Mettons-nous à l'abri d'un rocher sourcilleux :
 Évitons la tempête.
 
--*who_filidan
-      Ah ! Sans doute il compose,
-Ou parle à quelque Dieu de la Métamorphose.
-
--*who_amidor
 Je vois l'adorateur de tous mes nobles vers :
 Mais dont les jugements sont toujours de travers.
 Tout ce qu'il n'entend pas aussitôt il l'admire.
@@ -142,11 +471,6 @@ Chasse le pâle effroi des faces nautonnières ;
 Le nuage s'enfuit, le Ciel se fait plus pur,
 Et joyeux se revêt de sa robe d'azur.
 
--*who_filidan
-Oserait-on sans crime, au moins sans mille excuses,
-Vous faire abandonner l'entretien de nos Muses ?
-
--*who_amidor
 Filidan, laisse-moi dans ces divins transports
 Décrire la beauté que j'aperçus alors.
 Je m'en vais l'attraper. Une beauté céleste
@@ -164,13 +488,6 @@ Ses deux cuisses sans chair, ou plutôt deux roseaux,
 La grandeur de ses pieds, et sa petite taille,
 Livrèrent à mon coeur une horrible bataille.
 
--*who_filidan
-Ah Dieux ! Qu'elle était belle ! Ô Roi des beaux esprits,
-Vis-tu tant de beautés ? Ah ! Que j'en suis épris.
-Dis-moi ce qu'elle fit, et contente mon âme
-Qui sent déjà pour elle une secrète flamme.
-
--*who_amidor
 Inventons un discours qui n'aura point de sens.
 Elle me dit ces mots pleins de charmes puissants,
 Favori d'Apollon, dont la verve extatique
@@ -180,46 +497,445 @@ Qui charment la vigueur des plus nobles désirs ;
 Apprends à révérer par un fatal augure
 De ma pudicité l'adorable figure.
 
--*who_filidan
+Elle me dit Adieu, puis elle s'en alla.
+
+      Peut-être sur le soir :
+Quand la brunette nuit développant ses voiles,
+Conduira par le ciel le grand bal des étoiles.
+
+Adieu, sur ce sujet je vais faire des vers.
+
+      Je salue humblement
+L'honneur des triples soeurs, les trois belles Charites.
+
+De quoi s'entretenait votre esprit aime-Vers ?
+
+Ce grand Roi qui cent Rois enfanta de sa cendre ?
+Cet enfant putatif du grand Dieu foudroyant ?
+Ce torrent de la guerre, orgueilleux, ondoyant ?
+Ce Mars plus redouté que cent mille tempêtes ?
+Ce bras qui fracassa cent millions de têtes ?
+
+Donc je la nommerais Cyprine dompte-coeur,
+Qui d'un trait doux-poignant subtilement vainqueur,
+Et du poison sucré d'une friande oeillade
+Rendrait des regardants la poitrine malade.
+
+Je ne puis, sans de deux encourir le courroux.
+Pour un tel jugement le beau pasteur de Troie
+Aux Argives flambeaux donna sa ville en proie.
+Il ne faut point juger des grandes déités.
+Je puis nommer ainsi vos célestes beautés.
+
+      C'est le charme du temps :
+Mais le nombre est petit des auteurs importants
+Qui sachent entonner un carme magnifique,
+Pour faire bien valoir le cothurne tragique.
+Pour moi je sens ma verve aimer les grands sujets.
+Je cède le Comique à ces esprits abjects.
+Ces Muses sans vigueur qui s'efforcent de plaire
+Au grossier appétit d'une âme populaire :
+Puis je vois qu'un intrigue embrouille le cerveau.
+On trouve rarement quelque sujet nouveau :
+Il faut les inventer, et c'est là l'impossible.
+C'est tenter sur Neptune un naufrage visible.
+Mais un esprit hardi ; savant et vigoureux,
+D'un tragique accident est toujours amoureux ;
+Et sans avoir recours à l'onde Aganipide,
+Il puise dans Sophocle, ou dedans Euripide.
+
+Cette sévérité n'est qu'une illusion.
+Pourquoi s'assujettir aux grotesques chimères
+De ces emmaillotés dans leurs règles austères ?
+Qui n'osent de Phébus attendre le retour,
+Et n'aiment que des fleurs qui ne durent qu'un jour ?
+Il faudrait tout quitter ; car en traitant les fables,
+Ou certains accidents d'histoires véritables,
+Comment représenter en observant ces lois,
+Un sujet en un jour qui se passe en un mois ?
+Comment fera-t-on voir en une même Scène,
+La ville de Corinthe avec celle d'Athène ?
+Pour la troisième loi, la belle invention !
+Il ne faudrait qu'un acte avec une action.
+
+L'esprit avec ces lois n'embrasse rien de grand.
+La diversité plaît, c'est ce qui nous surprend
+Dans un même sujet cent beautés amassées,
+Fournissent un essaim de diverses pensées.
+Par exemple, un Rival sur l'humide élément
+Qui ravit une Infante aux yeux de son amant :
+Un père en son palais qui regrette sa perte :
+La belle qui soupire en une île déserte :
+L'Amant en terre ferme, au plus profond d'un bois,
+Qui conte sa douleur d'une mourante voix ;
+Puis arme cent vaisseaux, délivre sa Princesse,
+Et triomphant ramène et Rival et Maîtresse :
+Cependant le Roi meurt, on le met au tombeau,
+Et ce malheur s'apprend au sortir du vaisseau :
+Le Royaume est vacant, la Province est troublée,
+Des plus grands du Pays la troupe est assemblée,
+La discorde est entre eux, tout bruit dans le Palais,
+La Princesse survient, qui les remet en paix,
+Et ressuyant ses yeux comme Reine elle ordonne
+Que son fidèle amant obtienne la Couronne.
+Voyez si cet amas de grands événements,
+Capables d'employer les plus beaux ornements.
+Trois voyages sur mer, les combats d'une guerre,
+Un Roi mort de regret que l'on a mis en terre,
+Un retour au pays, l'appareil d'un tombeau,
+Les États assemblés pour faire un Roi nouveau.
+Et la Princesse en deuil qui les y vient surprendre,
+En un jour, en un lieu, se pourraient bien étendre ?
+Voudriez-vous perdre un seul de ces riches objets ?
+
+Dites, je l'entreprends s'il a l'heur de me plaire.
+
+Ce sujet est fort beau, grave-doux, magnifique ;
+Et si je le comprends, il est tragi-comique.
+
+      Nommez-le Lisimant,
+La Princesse Cloris, pour plus d'intelligence.
+
+      Sa rencontre est moleste.
+
+Il faut faire l'amant de l'une de ces belles.
+
+Ce mont si merveilleux en Sicile placé,
+Sous qui gémit le corps d'Encelade oppressé,
+Vomissant des brasiers de sa brûlante gorge,
+Ce tombeau d'Empédocle, où Vulcain fait sa forge,
+Où Bronte le nerveux, cet enfumé démon,
+Travaille avec Stérope, et le nud Pyracmon,
+Dans son ventre ensouffré n'eût jamais tant de flamme,
+Qu'une de ces beautés en versa dans son âme.
+
+C'est ce Dieu génitif, par qui l'on voit le jour,
+Qui perça l'embarras de la masse première,
+Débrouilla le Chaos, fit sortir la lumière,
+Ordonna le manoir à chacun élément,
+Aux globes azurins donna le mouvement,
+Remplit les végétaux de semence féconde,
+Et par les embryons éternisa le monde.
+
+Adieu, grand producteur de trois rares beautés.
+Le Ciel donne à vos jours mille félicités.
+Clothon d'or et de soie en compose la trame,
+Et la fierté d'Atropos de longtemps ne l'entame.
+
+Je vous salue, effroi de tous les combattants,
+Qui donnez jalousie à cent têtes royales.
+
+Ma phébique fureur sert aux héros illustres
+Pour prolonger leurs jours d'un million de lustres.
+Elle donne aux vaillants les plus beaux de ses traits.
+Par exemple, alléguez quelques-uns de vos faits :
+Vous verrez ma fureur qui vous les va décrire.
+
+Jamais cette fureur ne causa de trépas.
+
+Son discours trasonic me plaît extrêmement.
+Il aime l'Hyperbole, et parle gravement.
+
+Cet exploit gigantesque est certes merveilleux.
+
+Au secours Polymnie, Érato, Terpsichore.
+
+J'en ferai donc pour vous avec plus de loisir.
+Je vous veux présenter des enfants de ma Muse.
+
+Guerrier, ne craignez rien parmi les vertueux.
+Je vois que vous marchez d'un pas majestueux.
+Vous avez le regard d'un grand homme de guerre.
+Et tel que Mars l'aurait s'il était sur la terre.
+Vous avez le parler grave, sec, résonnant,
+Digne de la grandeur d'un Jupiter tonnant.
+
+      J'ai produit une pièce hardie,
+Un grand effort d'esprit, c'est une tragédie,
+Dont on verra bientôt cent Poètes jaloux.
+Mais j'aurais grand besoin qu'un homme tel que vous,
+Pour faire bien valoir cet excellent ouvrage,
+Voulût représenter le premier personnage.
+
+C'est le grand Alexandre.
+
+J'ai le rôle en ma poche, il est fort furieux,
+Car je lui fais tuer ceux qu'il aime le mieux.
+
+      Ce n'est rien de semblable.
+Cela n'est qu'un écrit.
+
+      Ne craignez point si fort.
+
+Ce ne sont que des Vers.
+
+Si vous craignez l'écrit, je les dirai par coeur.
+Voyons si sur le champ vous les pourriez apprendre.
+
+      Dites donc, je suis cet Alexandre.
+
+      Effroi de l'Univers.
+
+      Ah Dieux ! Dites vos Vers.
+
+Quelle bizarre humeur ?
+
+Et qui dira le reste ?
+
+      Ô Dieux ! Quel badinage ?
+On verrait deux acteurs pour un seul personnage.
+
+Ma foi, vous le direz, j'en ai fait le serment.
+
+Je ferai donc sortir le rôle de ma poche.
+
+Adieu vaillant courage, Adieu franc Chevalier.
+
+      C'est de ce Capitaine.
+
+Si c'est une beauté qui chérisse les Vers,
+J'en ai de composés sur des sujets divers :
+J'en ai sur un refus, j'en ai sur une absence,
+J'en ai sur un mépris, sur une médisance.
+J'en ai sur un courroux, sur des yeux, sur un ris,
+Un retour de Silvie, un Adieu pour Cloris,
+Un songe à Bérénice, une plainte à Cassandre,
+Car on choisit le nom tel que l'on le veut prendre.
+
+Cette pièce est savante, et d'un style fort haut.
+
+      Au reste ce sont Stances,
+Pleines de riches mots, de grandes doléances.
+
+Serais-je assez heureux pour les avoir ici ?
+
+      Non.
+
+      Une Ode Pindarique.
+
+      Ce sont vers qu'on va mettre en Musique.
+
+      C'est l'Adieu pour Cloris.
+
+      Ce sont les pleurs de la bergère Iris.
+
+      C'est une Anagramme en tous les hémistiches.
+
+      C'est un sonnet en lettres acrostiches.
+Ah ! Non ce ne l'est pas, c'est un voeu pour Phyllis.
+
+      C'est sur une reine de lys.
+
+      C'est une Hymne.
+
+      C'est une églogue.
+
+      C'est une épitaphe.
+
+      C'est un Prologue.
+
+      Je crois que la voici.
+
+      Non, c'est sur un Souci.
+
+      Non, c'est une Épigramme.
+
+      C'est une Épithalame.
+
+      À la fin je la vois.
+
+      Plainte à Cassandre.
+
+Vous ne les liriez pas avec assez d'emphase.
+Doncques rigoureuse Cassandre,
+Tes yeux entre doux et hagards,
+Par l'optique de leurs regards
+Me vont pulvériser en cendre.
+Toutefois parmi ces ardeurs,
+Tes hétéroclites froideurs
+Causent une antipéristase :
+Ainsi mourant, ne mourant pas,
+Je me sens ravir en extase
+Entre la vie et le trépas.
+Mon coeur devint pusillanime
+Au prime aspect de ta beauté,
+Et ta Scythique cruauté
+Rendit mon esprit cacochyme
+Tantôt dans l'Euripe amoureux
+Je me crois le plus malheureux
+Des individus sublunaires :
+Tantôt je me crois transporté
+Aux espaces imaginaires
+D'une excentrique volupté.
+Aussi ton humeur apocryphe
+Fait que l'on te nomme en ce temps
+Des Hypocondres inconstants
+Le véritable hiéroglyphe.
+Les grotesques illusions
+Des fanatiques visions
+Te prennent pour leur hypothèse.
+Et dedans mes calamités
+Je n'attends que la syndérèse
+De ses froides neutralités.
+Autrement la métamorphose ;
+De mon bonheur en tant de maux,
+Fait que l'espoir de mes travaux
+N'est plus qu'en la métempsychose.
+La catastrophe d'un amant
+Ne trouve point de sentiment
+Dans ton âme paralytique.
+Faut-il, lunatique beauté,
+Que tu sois le pôle antarctique
+De l'amoureuse humanité ?
+Chante donc la Palinodie,
+Cher paradoxe de mes sens,
+Et des symptômes que je sens
+Débrouille l'Encyclopédie.
+Ainsi les célestes brandons
+Versent sur son chef mille dons
+En lignes perpendiculaires ;
+Et devant ton terme fatal,
+Cent révolutions solaires
+Éclairent sur ton vertical.
+
+Que vous semble du style ?
+
+Elle est donc lunatique ?
+
+      Ah ! Quelle absurdité.
+Quoi du grand Alexandre ? Elle est donc chimérique ?
+Voilà ce que produit la lecture historique,
+Et celle des romans dans les jeunes esprits,
+Qui de fantômes vains sentent leurs coeurs épris.
+Alors que fraîchement ils ont lu quelque histoire :
+Cette humeur changera.
+
+Donc, au lieu de ces mots, rigoureuse Cassandre,
+Mettez au premiers vers, amante d'Alexandre ?
+Ce trait la piquera.
+
+      C'est là notre talent.
+
+Je m'en vais cependant méditer un Poème
+Ces vers valent cent francs, à vingt francs le couplet.
+
+      As-tu vu cette belle ?
+
+Je rêvais au malheur des hommes de vertu.
+Qu'en ce siècle ignorant les Auteurs d'importance
+Languissent sans estime, et sans reconnaissance.
+
+Siècle ingrat ! Autrefois Sophocle eut cet honneur
+Qu'en l'Île de Samos on le mit Gouverneur
+Pour une Tragédie, ainsi qu'on le raconte :
+Je devrais être un Roi pour le moins à ce compte.
+
+Quel homme enfla jamais comme moi sa parole ?
+Et qui jamais plus haut a porté l'hyperbole ?
+
+Les grands peuvent donner les soutiens d'une vie,
+Qui par mille accidents nous peut-être ravie :
+Mais par un vers puissant comme la déité
+Je puis leur faire don de l'immortalité.
+
+Ah ! Que pour les savants la saison est cruelle !
+
+Siècle, si tu pouvais savoir ce que je vaux !
+
+J'aurais une statue en la place publique.
+
+Quel don puis-je espérer digne de sa grandeur ?
+
+Hélas ! Sur quoi veut-on que cet espoir se fonde ?
+
+Ô Dieux ! Les voyageurs sur les Indiques bords
+N'amassèrent jamais de si riches trésors.
+Quels beaux champs triomphaux, et quels Panégyriques
+Mériteront de moi ses bontés héroïques ?
+
+J'aurai plus de loisir, Sestiane, au contraire,
+J'en ferai pour ma gloire et pour me satisfaire.
+Mais s'il faut que les biens m'arrivent à foison.
+Il faut donc que je loue une grande maison :
+Car ma chambre est petite, à peine suffit-elle
+Pour un lit, une table, avec une escabelle.
+
+Commander seulement.
+
+Oui, je vous le promets ; ce sujet me plaît fort :
+Et mérite un esprit qui puisse faire effort.
+L'invention m'en charme, et sa belle conduite.
+Je me meurs du désir d'en apprendre la suite.
+Nous étions demeurés sur ces petits gémeaux
+Que Cloris élevait.
+
+Vraiment vous l'entendez.
+
+Il parle d'un objet qu'il adore en idée,
+Et sur mon seul discours cette amour est fondée.
+C'est un fantasque objet que ma Muse a produit ;
+En vain ce pauvre Amant le cherche et le poursuit.
+
+Je viens rendre, Alcidon, votre esprit éclairci.
+Tantôt étant troublé d'une surprise grande.
+D'une de ces beautés j'ai tenté la demande,
+Ne sachant que vous dire en cet étonnement !
+Puis un faiseur de vers feint toujours d'être amant.
+Mais, pour dire le vrai, nulle amoureuse flamme
+Depuis que je suis né n'est entrée en mon âme.
+D'Hélicon seulement j'aime le noble val,
+Et l'eau fille du pied de l'emplumé cheval :
+J'aime les bois, les prés, et les grottes obscures,
+J'aime la Poésie, et ses doctes figures.
+Dans mon commencement, en l'Avril de mes jours,
+La riche Métaphore occupa mes amours :
+Puis j'aimai l'Antithèse au sortir de l'École :
+Maintenant je me meurs pour la haute Hyperbole :
+C'est le grand ornement des magnifiques vers :
+C'est elle qui sans peine embrasse l'Univers ;
+Au ciel en un moment on la voit élancée ;
+C'est elle qui remplit la bouche et la pensée.
+Ô ma chère Hyperbole, Hyperbole mon coeur,
+C'est toi qui d'Atropos me rendras le vainqueur.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filidan
+
+Voici ce cher ami, cet esprit merveilleux.
+
+      Ah ! Sans doute il compose,
+Ou parle à quelque Dieu de la Métamorphose.
+
+Oserait-on sans crime, au moins sans mille excuses,
+Vous faire abandonner l'entretien de nos Muses ?
+
+Ah Dieux ! Qu'elle était belle ! Ô Roi des beaux esprits,
+Vis-tu tant de beautés ? Ah ! Que j'en suis épris.
+Dis-moi ce qu'elle fit, et contente mon âme
+Qui sent déjà pour elle une secrète flamme.
+
 Ô merveilleux discours, ô mots sentencieux ;
 Capables d'arrêter les plus audacieux.
 Dieux ! Qu'en toutes façons cette belle est charmante ;
 Et que je sens pour elle une ardeur véhémente.
 Ami, que te dit-elle encore outre cela ?
 
--*who_amidor
-Elle me dit Adieu, puis elle s'en alla.
-
--*who_filidan
 J'adore en mon esprit cette beauté divine.
 Qui sans doute du ciel tire son origine.
 Je me meurs, Amidor, du désir de la voir.
 Quand aurai-je cet heur ?
 
--*who_amidor
-      Peut-être sur le soir :
-Quand la brunette nuit développant ses voiles,
-Conduira par le ciel le grand bal des étoiles.
-
--*who_filidan
 Ô merveilleux effet de ses rares beautés !
 Incomparable amas de nobles qualités !
 Déjà de liberté mon âme est dépourvue :
 Le récit m'a blessé, je mourrai de sa vue.
 Prépare-toi mon coeur à mille maux divers.
 
--*who_amidor
-Adieu, sur ce sujet je vais faire des vers.
-
--*who_filidan
 Que tu m'obligeras, Amidor, je t'en prie,
 Tandis pour soulager l'excès de ma furie,
 Je m'en vais soupirer l'ardeur de mon amour,
 Et toucher de pitié tous ces lieux d'alentour.
 
-**** *book_ *id_I05 *act_I *date_1637
-
--*who_filidan
 Ô Dieux ! Qu'une beauté parfaitement décrite
 De désirs amoureux en nos âmes excite !
 Et que la Poésie a des charmes puissants
@@ -273,142 +989,12 @@ Mon désir violent se va tourner en rage :
 Je pâme, je me meurs : Ô céleste beauté
 En quels excès de maux m'as-tu précipité ?
 
-**** *book_ *id_I06 *act_I *date_1637
-
--*who_hesperie
-Cet amant s'est pâmé dès l'heure qu'il m'a vue ;
-De quels traits, ma beauté, le ciel t'a-t-il pourvue ?
-En sortant du logis je ne puis faire un pas
-Que mes yeux aussitôt ne causent un trépas.
-Pour moi je ne sais plus quel conseil je dois suivre :
-Le monde va périr, si l'on me laisse vivre,
-Dieux ! Que je suis à craindre ! Est-il rien sous les cieux
-Au genre des humains plus fatal que mes yeux ?
-Quand je fus mise au jour, la Nature peu fine
-Pensant faire un chef-d'oeuvre avançait sa ruine.
-On compterait plutôt les feuilles des forêts,
-Les sablons de la mer, les épis de Cérès,
-Les fleurs dont au printemps la terre se couronne,
-Les glaçons de l'Hiver, les raisins de l'Automne,
-Et les feux qui des nuits assistent le flambeau,
-Que le nombre d'amants que j'ai mis au tombeau.
-Celui-ci va mourir, lui rendrai-je la vie ?
-Je le puis d'un seul mot, la pitié m'y convie.
-
--*who_filidan
 Bel azur, beau coral, aimables qualités.
 
--*who_hesperie
-Il n'est pas mort encore, il rêve à mes beautés.
-Le dois-je secourir ? J'en ai la fantaisie.
-Mais ceux qui me verraient, mourraient de jalousie.
-Que mon sort est cruel ! Je ne fais que du mal ;
-Et ne puis faire un bien sans tuer un rival,
-Je ne puis ouvrir l'oeil sans faire une blessure,
-Ni faire un pas sans voir une âme à la torture.
-Si fuyant ces malheureux je rentre à la maison,
-Ceux qui servent chez nous tombent en pâmoison.
-Ils cèdent aux rigueurs d'une flamme contrainte,
-Et tremblent devant moi de respect et de crainte.
-Ils ne sauraient me voir sinon en m'adorant,
-Ni me dire un seul mot sinon en soupirant.
-Ils baissent aussitôt leur amoureuse bouche,
-Pour donner un baiser aux choses que je touche.
-Toutefois ma beauté les sait si bien ravir,
-Qu'ils s'estiment des Rois dans l'heur de me servir.
-À table je redoute un breuvage de charmes ;
-Ou qu'un d'eux ne me donne à boire de ses larmes.
-Je crains que quelque amant n'ait avant son trépas
-Ordonné que son coeur servit à mes repas.
-Souvent sur ce penser en mangeant je frissonne :
-Croyant qu'on le déguise, et qu'on me l'assaisonne :
-Pour mettre dans mon sein par ce trait décevant,
-Au moins après la mort ce qu'il ne put vivant.
-Les amants sont bien fins au plus fort de leur rage,
-Et sont ingénieux mêmes à leur dommage.
-On dresse pour m'avoir cent pièges tous les jours.
-Mon père aussi me veille, et craint tous ces amours
-Glorieux de m'avoir aux Dieux il se compare,
-Et quelquefois ravi d'un miracle si rare,
-Doute s'il me fit naître, ou si je vins des cieux.
-Dans la maison sans cesse on a sur moi les yeux,
-Lui plein d'étonnement, mes soeurs pleines d'envie,
-Les autres pleins d'amour, belle, mais triste vie !
-Une beauté si grande est-elle à désirer ?
-Mais j'aperçois mon père, il me faut retirer.
-
-**** *book_ *id_I07 *act_I *date_1637
-
--*who_lysandre
-Il est vrai qu'il est temps de penser à vos filles.
-Elles sont toutes trois vertueuses, gentilles.
-D'âge à les marier, puis vous avez du bien ;
-Ne différez donc plus, la garde n'en vaut rien.
-
--*who_alcidon
-Lysandre, il est certain : mais pour choisir un gendre,
-Il s'en présente tant, qu'on ne sait lequel prendre.
-Puis-je suis d'une humeur que tout peut contenter.
-Pas un d'eux à mon gré ne se doit rejeter.
-S'il est vieux il rendra sa famille opulente ;
-S'il est jeune, ma fille en sera plus contente ;
-S'il est beau, je dis lors, beauté n'a point de prix ;
-S'il a de la laideur, la nuit tous chats sont gris ;
-S'il est gai, qu'il pourra réjouir ma vieillesse :
-Et s'il est sérieux, qu'il a de la sagesse ;
-S'il est courtois, sans doute il vient d'un noble sang ;
-S'il est présomptueux, il sait tenir son rang ;
-S'il est entreprenant, c'est qu'il a du courage ;
-S'il se tient à couvert, il redoute l'orage ;
-S'il est prompt, on perd tout souvent pour différer ;
-S'il est lent, pour bien faire il faut considérer,
-S'il révère les Dieux, ils lui seront prospères ;
-S'il trompe pour gagner, il fera ses affaires ;
-Enfin quelque parti qui s'ose présenter,
-Toujours je trouve en lui de quoi me contenter.
-
--*who_lysandre
-Que sert donc, Alcidon, une plus longue attente,
-Si vous trouvez partout quelqu'un qui vous contente ?
-
--*who_alcidon
-Quand je choisis un gendre, un qui va survenir
-Me plaît, et du premier m'ôte le souvenir ;
-Si pour s'offrir à moi quelque troisième arrive,
-Je trouve quelque chose en lui qui me captive.
-
--*who_lysandre
-Mais pour en bien juger, et pour faire un bon choix,
-Il faut dans la balance en mettre deux ou trois ;
-Ceux de qui le talent plus solide vous semble,
-Les peser mûrement, les comparer ensemble.
-
--*who_alcidon
-C'est ce que je ne puis ; que sert de le nier ?
-Je conclus sans faillir toujours pour le dernier.
-
--*who_lysandre
-Votre esprit est étrange.
-
--*who_filidan
 Objet de mon martyre.
 
--*who_alcidon
-      Dieux ! Qu'est-ce que j'entends.
-
--*who_lysandre
-Quelque Amant qui soupire.
-
--*who_alcidon
-      Sa prunelle mourante à peine voit le jour.
-
--*who_filidan
 Est-ce toi, cher ami, père de mon amour ?
 
--*who_alcidon
-Sans doute il est épris de l'une de mes filles.
-
--*who_filidan
 Merveille de nos jours, Astre luisant qui brilles
 Dans le Ciel des beautés, viens te montrer à moi :
 Regarde si je manque ou d'ardeur ou de foi :
@@ -418,175 +1004,200 @@ Prends pitié de mon mal, tu ne l'ignores pas,
 Les Dieux n'ignorent rien du moins vois mon trépas :
 Doutes-tu de mes feux ? Apprends-les de ma bouche.
 
--*who_alcidon
-Lysandre, en vérité sa passion me touche.
-Son amour m'a rendu tout saisi de pitié.
-Aussi n'est-il rien tel qu'une belle amitié.
-
--*who_lysandre
-Il est déjà vaincu.
-
--*who_alcidon
-      J'aimerais mieux un gendre
-Qui chérit sa moitié d'une amour aussi tendre,
-Qu'un qui posséderait les plus riches trésors,
-Et toutes les beautés de l'esprit et du corps.
-Le savoir et les biens, sans la flamme amoureuse,
-Ne peuvent jamais rendre une alliance heureuse.
-
--*who_filidan
 Cessez, mes chers amis de flatter mon malheur :
 Ou bien de quelque espoir soulagez ma douleur.
 
--*who_alcidon
-Consolez-vous, mon fils, ayez bonne espérance,
-Je veux récompenser cette rare constance.
-J'entreprends de guérir vos désirs enflammés.
-Vous aurez aujourd'hui celle que vous aimez.
-
--*who_filidan
 Puis-je obtenir de vous le bonheur que j'espère ?
 Ah ! Je vous nommerai mon salut et mon père.
 
--*who_alcidon
-Croyez que dans ce soir je vous rendrai content.
-
--*who_lysandre
-Quand un autre viendra vous en direz autant.
-
--*who_alcidon
-Je veux dedans ce jour, sans prendre un plus long terme
-Choisir ceux qu'il me faut, d'une volonté ferme.
-
--*who_lysandre
-C'est beaucoup pour un jour.
-
--*who_filidan
       Me la ferez-vous voir ?
 
--*who_alcidon
-Oui, prenez bon courage. Adieu jusqu'à ce soir.
-
--*who_filidan
 Que ce retardement pour voir ces divins charmes,
 Me doit coûter encor de soupirs et de larmes.
 
-**** *book_ *id_II01 *act_II *date_1637
+Quand te pourrai-je voir, ô beauté que j'adore ?
+Hélas ! Que ce désir me pique et me dévore !
 
--*who_phalante
+Ce n'est point ma douleur.
+
+Ce n'est point là mon mal, mes ennuis sont plus grands.
+
+Ma douleur est bien autre, ô merveilleux vainqueur.
+
+      Oui qui me tient au coeur.
+
+      Ce pouvoir est étrange.
+
+      Mon mal vient d'un mélange
+D'ébène, d'or, d'argent, d'azur et de coral.
+
+Hélas ! Roi des vaillants, vous ne m'entendez pas.
+
+      Je suis près du trépas,
+Pour un philtre amoureux que j'ai pris par l'oreille.
+
+      Écoutez-moi, bons Dieux ;
+J'entends un doux récit du coral de deux yeux,
+De l'azur d'une bouche.
+
+      Attendez un moment.
+C'est doncques l'un ou l'autre.
+
+L'ivoire n'en est pas, si j'ai bonne mémoire.
+Mais c'est un tel amas de parfaites beautés,
+De trésors infinis, de rares qualités,
+Que je suis, pour les voir, dans un désir extrême.
+
+Quoi, vous la connaissez ?
+
+Quelle vive douleur a mon âme saisie ?
+Fallait-il à mes maux joindre la jalousie ?
+Ne suffisait-il pas de languir sans la voir ?
+
+Ô Prince généreux, courtois et libéral,
+Donc j'obtiendrai par vous cet azur, ce coral ?
+De gloire et de bonheur le ciel vous environne,
+Que j'embrasse vos pieds.
+
+Pour quelle occasion le craignez-vous ainsi ?
+
+Il n'est rien de plus doux, c'est une rêverie.
+
+Bannissez cette peur de votre fantaisie.
+Cela doit s'appeler fureur de Poésie.
+
+Quoi ? Craindre ayant ce bras toujours victorieux ?
+
+      Demeurez.
+
+Que craignez-vous ?
+
+Rassurez votre esprit, il médite des vers
+Pour semer votre nom par tout cet univers,
+Quittez, cher Amidor, vos muses bien aimées ;
+Et venez rendre hommage à ce dompteur d'armées.
+
+      C'est le héros du temps.
+
+      Ah ! Ne le craignez pas.
+
+Demeurez, grand guerrier, ignorez-vous les noms
+Des Muses qu'il invoque ?
+
+C'est de cette façon que l'on fait de bons vers.
+
+      Mais à quoi le m'amuse.
+Cherchons, mes yeux, cherchons ces aimables appas.
+
+Ne craignez rien de lui, croyez en ma parole.
+
+Je la vois cette belle ; à ce coup je la vois.
+Cruelle, impitoyable, où fuyez-vous de moi ?
+La mauvaise qu'elle est, je l'avais aperçue,
+Mais l'ingrate aussitôt s'est soustraite à ma vue,
+Elle a privé mes yeux d'un si divin plaisir.
+Pour augmenter en moi la fureur du désir.
+Amidor, je l'ai vue.
+
+J'ai vu comme un éclair cette beauté cruelle.
+Mais ne l'as-tu point vue ? À quoi donc rêvais-tu ?
+
+C'est ainsi que parfois en des lieux écartés
+S'offrent aux yeux humains les célestes beautés :
+On les voit sans les voir ? Ces belles immortelles
+Sont en même moment et douces et cruelles.
+
+Dieux ! Qu'elle m'a laissé dans un ardent désir
+De voir son beau visage avec plus de loisir.
+
+Comme de sa beauté tu connais la grandeur,
+Crois-tu, cher confident de ma nouvelle ardeur,
+Que ma fidélité puisse être assez heureuse
+Pour fléchir quelque jour cette humeur rigoureuse ?
+
+Ah ! Qu'elle est rigoureuse à son Amant fidèle !
+
+Beauté, si tu pouvais savoir tous mes travaux !
+
+J'aurais en ton amour une place authentique.
+
+Si c'est quelque pitié naissante en votre coeur
+Qui vous fasse enquérir quel trait fut mon vainqueur,
+Sachez qu'il vint d'un oeil que j'adore en mon âme.
+
+C'est celle que j'ai vue en ce même moment.
+
+Non.
+
+Ô doux soulagement d'un esprit abattu !
+Que je baise vos mains pour l'heureuse nouvelle
+Que ma Déesse envoie à son Amant fidèle.
+
+Il est vrai que c'est lui qui causa mon ardeur.
+
+Dieux ! Qu'elle est magnifique ! Et que cette beauté
+Exerce heureusement la libéralité !
+
+Cet éclair de beauté vient de paraître ici,
+Arrête, ma cruelle, arrête mon souci.
+
+Enfin c'est à ce coup, mes yeux seront ravis.
+
+      Jamais je ne la vis,
+Je ne sais quelle elle est.
+
+Mais faites-moi donc voir cette rare beauté,
+De qui le seul récit m'a l'esprit enchanté :
+Vous me l'avez promis, ce désir me dévore.
+Faites-la-moi donc voir, la beauté que j'adore.
+M'aviez-vous pas remis à la fin de ce jour
+
+Non, je ne vois point là cet objet adorable.
+
+C'est se moquer de moi : faites-moi voir cet or,
+Cet azur, ce coral, cet aimable trésor.
+
+Il ne m'importe donc, mon âme en est ravie.
+Je te veux, belle Idée, aimer toute ma vie.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
+
 Rigoureuse Mélisse, à qui réservez-vous
 Ce coeur si plein d'orgueil, si rempli de courroux ?
 
--*who_melisse
-Phalante, à nul de ceux que l'on voit sur la terre.
-
--*who_phalante
 Voulez-vous à l'Amours toujours faire la guerre ?
 
--*who_melisse
-Non, mais quand je verrais le plus beau des humains,
-Il ne peut en m'aimant avoir que des dédains.
-
--*who_phalante
 D'où vous vient cette humeur ?
 
--*who_melisse
-      Je veux bien vous l'apprendre.
-Après ce que j'ai lu de ce grand Alexandre,
-Ce Dieu de la valeur, vainqueur de l'Univers,
-Qui dans si peu de temps fit tant d'exploit divers,
-Beau, courtois, libéral, adroit, savant et sage,
-Qui trouva tout danger moindre que son courage ;
-Qui borna son Empire où commence le jour,
-Je ne puis rien trouver digne de mon amour.
-C'est lui dont le mérite a captivé mon âme,
-C'est lui pour qui je sens une amoureuse flamme,
-Et doit-on s'étonner si ce puissant vainqueur
-Ayant dompté la terre, a su dompter mon coeur ?
-
--*who_phalante
 Mais c'est une chimère où votre amour se fonde :
 Car que vous sert d'aimer ce qui n'est plus au monde ?
 
--*who_melisse
-Nommer une chimère un Héros indompté ?
-Ô Dieux ! Puis-je souffrir cette témérité ?
-
--*who_phalante
 Mélisse mon désir, n'entrez pas en colère.
 Mais au moins dites-moi, comment se peut-il faire
 D'aimer un inconnu, que vous ne pouvez voir,
 Et dont se peut l'idée à peine concevoir ?
 
--*who_melisse
-Appeler inconnu, celui de qui l'histoire
-A décrit les beaux faits tous rayonnants de gloire,
-De qui la renommée épandue en tous lieux
-Couvre la terre, et s'étend jusqu'aux cieux ?
-Ce manque de raison n'est pas compréhensible.
-
--*who_phalante
 Mais j'appelle inconnu ce qui n'est pas visible.
 
--*who_melisse
-Je le connais assez, je le vois tous les jours,
-Je lui rends mes devoirs, et lui dis mes amours.
-
--*who_phalante
 Quoi ? Vous parlez à lui ?
 
--*who_melisse
-      Je parle à son image,
-Qui garde tous les traits de son charmant visage.
-
--*who_phalante
 Une image à mon gré ne charme point les yeux.
 
--*who_melisse
-Toutefois en image on adore les Dieux.
-
--*who_phalante
 Où l'avez-vous trouvée ?
 
--*who_melisse
-      Un tome de Plutarque
-M'a fourni le portrait de ce divin Monarque.
-Et pour le mieux chérir je le porte en mon sein.
-
--*who_phalante
 Quittez, belle, quittez cet étrange dessein.
 Ce vaillant Alexandre, agréable Mélisse,
 N'a plus aucun pouvoir de vous rendre service.
 
--*who_melisse
-Quoi ? Pour mon serviteur voudrais-je un si grand Roi ?
-De qui l'univers a révéré la loi ?
-Phalante, il était né pour commander au monde.
-
--*who_phalante
 Vous aimez d'une amour qui n'a point de seconde.
 Mais vous feriez bien mieux de choisir un amant
 Qui pourrait en effet vous chérir constamment ;
 Un homme comme moi, dont l'extrême richesse
 Peut de mille plaisirs combler votre jeunesse.
 
--*who_melisse
-Pensez-vous par ce charme abuser mes esprits ?
-Quittez ce vain espoir, j'ai vos biens à mépris.
-Osez-vous comparer quelque pauvre héritage,
-Quelque champ malheureux qui vous vint en partage.
-Aux trésors infinis de ce grand Conquérant ?
-Qui prodiguait les biens du pays odorant.
-De la Perse, et de l'Inde, et souvent à des Princes
-Comme présents légers a donné des provinces ?
-
--*who_phalante
 Mais où sont ces trésors ? Les avez-vous ici ?
 
--*who_melisse
-Comme il les méprisait, je les méprise aussi.
-
--*who_phalante
 Je perds ici le temps, elle est préoccupée
 Par cette folle amour dont sa tête est frappée.
 Je vais voir ses parents, ils me recevront mieux :
@@ -594,1156 +1205,85 @@ Mes grands biens me rendront agréable à leurs yeux.
 De la guérir sans eux je n'ose l'entreprendre.
 Adieu jusqu'au revoir, l'amante d'Alexandre.
 
--*who_melisse
-Adieu mortel chétif, qui t'oses comparer
-À ce vaillant Héros que tu dois adorer.
-
-**** *book_ *id_II02 *act_II *date_1637
-
--*who_hesperie
-Ma Soeur, dites le vrai, que vous disait Phalante ?
-
--*who_melisse
-Il me parlait d'amour.
-
--*who_hesperie
-      Ô la ruse excellente !
-Donc il s'adresse à vous, n'osant pas m'aborder ;
-Pour vous donner le soin de me persuader ?
-
--*who_melisse
-Ne flattez point, ma soeur, votre esprit de la sorte,
-Phalante me parlait de l'amour qu'il me porte :
-Que si je veux fléchir mon coeur trop rigoureux,
-Ses biens me pourront mettre en un état heureux.
-Mais quoi ? Jugez, ma soeur, quel conseil je dois prendre ;
-Et si je puis l'aimer, aimant un Alexandre.
-
--*who_hesperie
-Vous pensez m'abuser d'un entretien moqueur,
-Pour prendre mieux le temps de le mettre en mon coeur.
-Mais, ma soeur, croyez-moi, n'en prenez point la peine.
-En vain vous me direz que je suis inhumaine :
-Que je dois par pitié soulager ses amours :
-Cent fois le jour j'entends de semblables discours,
-Je suis de mille amants sans cesse importunée,
-Et crois qu'à ce tourment le ciel m'a destinée.
-L'on me vient rapporter, Lysis s'en va mourir :
-D'un regard pour le moins venez le secourir :
-Eurylas s'est plongé dans la mélancolie.
-L'amour de Licidas s'est tournée en folie.
-Périandre a dessein de vous faire enlever.
-Une flotte d'amants vient de vous arriver.
-Si Cotylas n'en meurt il sera bien malade.
-Un Roi pour vous avoir envoie une ambassade.
-Thirsis vous idolâtre et vous dresse un autel
-C'est pour vous ce matin que c'est fait un duel.
-Aussi de mon portrait chacun veut la copie.
-C'est pour moi qu'est venu le Roi d'Éthiopie.
-Hier j'en blessai trois d'un regard innocent.
-D'un autre plus cruel j'en fis mourir un cent.
-Je sens, quand on me parle, une haleine de flamme.
-Ceux qui n'osent parler m'adorent en leur âme.
-Mille viennent par jour se soumettre à ma loi,
-Je sens toujours des coeurs voler autour de moi
-Sans cesse des soupirs, sifflent à mes oreilles.
-Mille voeux élancés m'entourent comme abeilles.
-Les pleurs près de mes pieds courent comme torrents,
-Toujours je pense ouïr la plainte des mourants ;
-Un regret, un sanglot, une voix languissante,
-Un cri désespéré d'une douleur pressante,
-Un je brûle d'amour, un hélas je me meurs :
-La nuit je n'en dors point, je n'entends que clameurs
-Qui d'un trait de piété, s'efforcent de m'atteindre :
-Voyez, ma chère soeur, suis-je pas bien à plaindre ?
-
--*who_melisse
-Il faut vous détromper : il n'en est pas ainsi.
-Ce nouvel amoureux qui me parlait ici,
-Qui se promet de rendre une fille opulente.
-
--*who_hesperie
-Quoi ? Voulez-vous encor me parler de Phalante ?
-Que vous êtes cruelle.
-
--*who_melisse
-      Écoutez un moment
-Je veux vous annoncer que ce nouvel amant.
-
--*who_hesperie
-Ah ! Bons Dieux que d'amants ! Qu'un peu je me repose :
-N'entendrai-je jamais discourir d'autre chose ?
-
--*who_melisse
-Mais laissez-moi donc dire.
-
--*who_hesperie
-      Ah ! Dieux quelle pitié !
-Si vous avez pour moi tant soit peu d'amitié :
-Ne parlons plus d'amour, souffrez que je respire.
-
--*who_melisse
-Vous ignorez, ma soeur, ce que je veux vous dire.
-
--*who_hesperie
-Je sais tous les discours de tous ces amoureux.
-Qu'il brûle, qu'il se meurt, qu'il est tout langoureux,
-Que jamais d'un seul coup âme ne fut atteinte,
-Que pour avoir secours il vous refait sa plainte,
-Que vous me suppliez d'avoir pitié de lui,
-Et qu'au moins d'un regard j'allège son ennui.
-
--*who_melisse
-Ce n'est point tout cela.
-
--*who_hesperie
-      Quelque chose de même.
-
--*who_melisse
-Qu'il ne vous aime point, mais que c'est moi qu'il aime.
-
--*who_hesperie
-Ah ! Ma soeur, qu'elle ruse afin de m'attraper ?
-
--*who_melisse
-Comment par ce discours pourrais-je vous tromper ?
-
--*who_hesperie
-Par cette habileté vous pensez me séduire ;
-Et dessous votre nom me conter son martyre.
-
-**** *book_ *id_II03 *act_II *date_1637
-
--*who_sestiane
-Quels sont vos différents ? Les pourraient-on savoir ?
-
--*who_melisse
-Vous saurez que Phalante était venu me voir,
-Il m'a parlé d'amour, et ma soeur trop crédule
-Dit que c'était pour elle, et que je dissimule.
-
--*who_hesperie
-Que vous sert de parler contre la vérité ?
-Et de chercher pour lui cette subtilité ?
-
--*who_melisse
-Vous aimez votre erreur quelque chose qu'on die.
-
--*who_sestiane
-Vraiment c'est un sujet pour une Comédie :
-Et si l'on le donnait aux esprits d'à présent,
-Je pense que l'intrigue en serait bien plaisant.
-Souvent ces beaux esprits ont faute de matière.
-
--*who_melisse
-Mais pourrait-il fournir pour une pièce entière ?
-
--*who_sestiane
-Il ne faudrait qu'y coudre un morceau de roman,
-Ou trouver dans l'histoire un bel événement,
-Pour rendre de tout point cette pièce remplie,
-Afin qu'elle eût l'honneur de paraître accomplie.
-
--*who_melisse
-Qui voudrait anoblir le théâtre Français,
-Et former une pièce avec toutes ses lois,
-Divine, magnifique, il faudrait entreprendre
-D'assembler en un jour tous les faits d'Alexandre.
-
--*who_sestiane
-Vous verriez cent combats avec trop peu d'amour.
-Je me moque pour moi de la règle d'un jour.
-
--*who_hesperie
-On ferait de ma vie une pièce admirable,
-S'il faut beaucoup d'amour pour la rendre agréable.
-Car vous autres, jugez, qui savez les Romans,
-Si la belle Angélique eut jamais tant d'amants
-
--*who_sestiane
-Voici ce bel esprit dont la veine est hardie.
-Nous pourrons avec lui parler de Comédie.
-
-**** *book_ *id_II04 *act_II *date_1637
-
--*who_sestiane
-J'ai ce matin appris un nouveau compliment,
-Laissez-moi repartir.
-
--*who_amidor
-      Je salue humblement
-L'honneur des triples soeurs, les trois belles Charites.
-
--*who_sestiane
-Nous mettons nos beautés aux pieds de vos mérites.
-
--*who_amidor
-De quoi s'entretenait votre esprit aime-Vers ?
-
--*who_sestiane
-Nous discutions ici sur des sujets divers.
-
--*who_melisse
-Nous parlions des exploits du vaillant Alexandre.
-
--*who_amidor
-Ce grand Roi qui cent Rois enfanta de sa cendre ?
-Cet enfant putatif du grand Dieu foudroyant ?
-Ce torrent de la guerre, orgueilleux, ondoyant ?
-Ce Mars plus redouté que cent mille tempêtes ?
-Ce bras qui fracassa cent millions de têtes ?
-
--*who_melisse
-Je vous aime, Amidor, de le louer ainsi.
-
--*who_hesperie
-Savez-vous un sujet dont nous parlions aussi.
-D'une dont la beauté peut aisément prétendre
-D'avoir plus de captifs que n'en fit Alexandre.
-
--*who_amidor
-Donc je la nommerais Cyprine dompte-coeur,
-Qui d'un trait doux-poignant subtilement vainqueur,
-Et du poison sucré d'une friande oeillade
-Rendrait des regardants la poitrine malade.
-
--*who_sestiane
-Jugez en vérité, laquelle est-ce de nous ?
-
--*who_amidor
-Je ne puis, sans de deux encourir le courroux.
-Pour un tel jugement le beau pasteur de Troie
-Aux Argives flambeaux donna sa ville en proie.
-Il ne faut point juger des grandes déités.
-Je puis nommer ainsi vos célestes beautés.
-
--*who_sestiane
-Ô Dieux ! Qu'il a d'esprit, mais il faut que je die
-Que nous parlions aussi touchant la comédie ;
-Car c'est ma passion.
-
--*who_amidor
-      C'est le charme du temps :
-Mais le nombre est petit des auteurs importants
-Qui sachent entonner un carme magnifique,
-Pour faire bien valoir le cothurne tragique.
-Pour moi je sens ma verve aimer les grands sujets.
-Je cède le Comique à ces esprits abjects.
-Ces Muses sans vigueur qui s'efforcent de plaire
-Au grossier appétit d'une âme populaire :
-Puis je vois qu'un intrigue embrouille le cerveau.
-On trouve rarement quelque sujet nouveau :
-Il faut les inventer, et c'est là l'impossible.
-C'est tenter sur Neptune un naufrage visible.
-Mais un esprit hardi ; savant et vigoureux,
-D'un tragique accident est toujours amoureux ;
-Et sans avoir recours à l'onde Aganipide,
-Il puise dans Sophocle, ou dedans Euripide.
-
--*who_sestiane
-Toutefois le Comique étant bien inventé,
-Peut-être ravissant quand il est bien traité.
-Dites, approuvez-vous ces règles de critiques,
-Dont ils ont pour garants tous les auteurs antiques,
-Cette unité de jour, de scène, d'action ?
-
--*who_amidor
-Cette sévérité n'est qu'une illusion.
-Pourquoi s'assujettir aux grotesques chimères
-De ces emmaillotés dans leurs règles austères ?
-Qui n'osent de Phébus attendre le retour,
-Et n'aiment que des fleurs qui ne durent qu'un jour ?
-Il faudrait tout quitter ; car en traitant les fables,
-Ou certains accidents d'histoires véritables,
-Comment représenter en observant ces lois,
-Un sujet en un jour qui se passe en un mois ?
-Comment fera-t-on voir en une même Scène,
-La ville de Corinthe avec celle d'Athène ?
-Pour la troisième loi, la belle invention !
-Il ne faudrait qu'un acte avec une action.
-
--*who_sestiane
-Toutefois ces esprits critiques, et sévères,
-Ont leurs raisons à part qui ne sont pas légères.
-Qu'il faut poser le jour, le lieu qu'on veut choisir.
-Ce qui vous interrompt ôte tout le plaisir :
-Tout changement détruit cette agréable Idée,
-Et le fil délicat dont votre âme est guidée.
-Si l'on voit qu'un sujet se passe en plus d'un jour,
-L'auteur, dit-on alors, m'a fait un mauvais tour,
-Il m'a fait sans dormir passer des nuits entières,
-Excusez le pauvre homme, il a trop de matières.
-L'esprit est séparé : le plaisir dit Adieu.
-De même arrive-t-il si l'on change de lieu.
-On se plaint de l'auteur : il m'a fait un outrage :
-Je pensais être à Rome, il m'enlève à Carthage.
-Vous avez beau chanter, et tirer le rideau :
-Vous ne m'y trompez pas, je n'ai point passé l'eau.
-Ils désirent aussi que d'une haleine égale
-On traite sans détour l'action principale.
-En mêlant deux sujets, l'un pour l'autre nous fuit ;
-Comme on voit s'échapper deux lièvres que l'on suit.
-Ce sont là leurs raisons, si j'ai bonne mémoire.
-Je me rapporte à vous de ce qu'on en doit croire.
-
--*who_amidor
-L'esprit avec ces lois n'embrasse rien de grand.
-La diversité plaît, c'est ce qui nous surprend
-Dans un même sujet cent beautés amassées,
-Fournissent un essaim de diverses pensées.
-Par exemple, un Rival sur l'humide élément
-Qui ravit une Infante aux yeux de son amant :
-Un père en son palais qui regrette sa perte :
-La belle qui soupire en une île déserte :
-L'Amant en terre ferme, au plus profond d'un bois,
-Qui conte sa douleur d'une mourante voix ;
-Puis arme cent vaisseaux, délivre sa Princesse,
-Et triomphant ramène et Rival et Maîtresse :
-Cependant le Roi meurt, on le met au tombeau,
-Et ce malheur s'apprend au sortir du vaisseau :
-Le Royaume est vacant, la Province est troublée,
-Des plus grands du Pays la troupe est assemblée,
-La discorde est entre eux, tout bruit dans le Palais,
-La Princesse survient, qui les remet en paix,
-Et ressuyant ses yeux comme Reine elle ordonne
-Que son fidèle amant obtienne la Couronne.
-Voyez si cet amas de grands événements,
-Capables d'employer les plus beaux ornements.
-Trois voyages sur mer, les combats d'une guerre,
-Un Roi mort de regret que l'on a mis en terre,
-Un retour au pays, l'appareil d'un tombeau,
-Les États assemblés pour faire un Roi nouveau.
-Et la Princesse en deuil qui les y vient surprendre,
-En un jour, en un lieu, se pourraient bien étendre ?
-Voudriez-vous perdre un seul de ces riches objets ?
-
--*who_sestiane
-Vous n'auriez autrement que fort peu de sujets.
-Je veux vous en dire un que vous pourriez bien faire.
-
--*who_amidor
-Dites, je l'entreprends s'il a l'heur de me plaire.
-
--*who_sestiane
-On expose un enfant dans un bois écarté,
-Qui par une tigresse est un temps allaité :
-La tigresse s'éloigne, on la blesse à la chasse,
-Elle perd tout son sang, on la suit à la trace,
-On la trouve, et l'enfant que l'on apporte au Roi,
-Beau, d'un fixe regard, incapable d'effroi.
-Le roi l'aime, il l'élève, il en fait ses délices,
-On le voit réussir à tous ses exercices.
-Voilà le premier acte : et dans l'autre suivant
-Il s'échappe, et se met à la merci du vent :
-Il aborde en une île, où l'on faisait la guerre :
-Au milieu d'un combat il vient comme un tonnerre :
-Prend le faible parti, relève son espoir :
-Un Roi lui doit son sceptre, et désire le voir :
-Il veut en sa faveur partager sa couronne :
-Sa fille en le voyant à l'amour s'abandonne :
-Un horrible Géant du contraire parti
-Fait semer un cartel, il en est averti,
-Il se présente au champ, il se bat, il le tue ;
-Voilà des ennemis la fortune abattue.
-Enfin dedans cet acte, il faudrait de beaux vers
-Pour dire ses amours et ses combats divers.
-
--*who_amidor
-Ce sujet est fort beau, grave-doux, magnifique ;
-Et si je le comprends, il est tragi-comique.
-
--*who_sestiane
-La Princesse en l'autre acte, avec son cher amant
-Se trouve au fond d'un bois.
-
--*who_amidor
-      Nommez-le Lisimant,
-La Princesse Cloris, pour plus d'intelligence.
-
--*who_sestiane
-Cloris donc en ce bois cède à sa violence :
-Elle en a deux jumeaux qu'elle élève en secret.
-
--*who_melisse
-Ma soeur, voici mon père.
-
--*who_sestiane
-      Ah ! Que j'ai de regret :
-C'était là le plus beau.
-
--*who_amidor
-      Sa rencontre est moleste.
-
--*who_sestiane
-Quelque jour, Amidor, je vous dirai le reste.
-
-**** *book_ *id_II05 *act_II *date_1637
-
--*who_alcidon
-Je vous cherchais partout, mes filles, qu'est-ce ci ?
-Dieux ! Quelle liberté ? Retirez-vous d'ici.
-Ce n'est pas votre fait de parler à des hommes.
-
--*who_sestiane
-Au moins regardez bien l'endroit où nous en sommes.
-
--*who_alcidon
-C'est à moi de les voir, et d'en faire le choix,
-Allez, je veux bientôt vous pourvoir toutes trois.
-
-**** *book_ *id_II06 *act_II *date_1637
-
--*who_amidor
-Il faut faire l'amant de l'une de ces belles.
-
--*who_alcidon
-Est-ce que vous ayez quelque dessein pour elles ?
-
--*who_amidor
-Ce mont si merveilleux en Sicile placé,
-Sous qui gémit le corps d'Encelade oppressé,
-Vomissant des brasiers de sa brûlante gorge,
-Ce tombeau d'Empédocle, où Vulcain fait sa forge,
-Où Bronte le nerveux, cet enfumé démon,
-Travaille avec Stérope, et le nud Pyracmon,
-Dans son ventre ensouffré n'eût jamais tant de flamme,
-Qu'une de ces beautés en versa dans son âme.
-
--*who_alcidon
-Que cet homme est savant dedans l'antiquité !
-Il sait mêler la fable avec la vérité :
-Il connaît les secrets de la Philosophie ;
-Et même est entendu dans la Cosmographie.
-Vous êtes amoureux ? Et qu'est-ce que l'amour ?
-
--*who_amidor
-C'est ce Dieu génitif, par qui l'on voit le jour,
-Qui perça l'embarras de la masse première,
-Débrouilla le Chaos, fit sortir la lumière,
-Ordonna le manoir à chacun élément,
-Aux globes azurins donna le mouvement,
-Remplit les végétaux de semence féconde,
-Et par les embryons éternisa le monde.
-
--*who_alcidon
-Son esprit me ravit, son savoir me confond.
-Ô Dieux ! Qu'il est subtil, et solide, et profond,
-Je ne vois rien de si beau qu'un savoir admirable,
-C'est un riche trésor à tous biens préférable :
-C'est un flambeau divin que l'on doit respecter.
-Allez, je vous estime, et vous veux contenter.
-Venez ici ce soir, je vous donne ma fille.
-Vous ferez quelque jour l'honneur de ma famille.
-
--*who_amidor
-Adieu, grand producteur de trois rares beautés.
-Le Ciel donne à vos jours mille félicités.
-Clothon d'or et de soie en compose la trame,
-Et la fierté d'Atropos de longtemps ne l'entame.
-
-**** *book_ *id_III01 *act_III *date_1637
-
--*who_filidan
-Quand te pourrai-je voir, ô beauté que j'adore ?
-Hélas ! Que ce désir me pique et me dévore !
-
--*who_artabaze
-Pauvre homme, je t'entends sans cesse soupirer.
-Tu ne fais que te plaindre et te désespérer.
-Je suis l'effroi de ceux qui semblent redoutables,
-Mais sache que je suis l'espoir des misérables.
-Est-ce quelque tyran qui triomphe de toi ?
-Et qui te fait servir sous son injuste loi ?
-Jupiter dans les cieux peut garder son tonnerre :
-Je dompte ces marauds et j'en purge la terre
-Est-ce quelque brigand qui t'emporte ton bien ?
-Quelque part qu'il se cache, il ne lui sert de rien.
-J'escalade les monts, je descends aux abîmes,
-Il n'est point contre moi d'asile pour les crimes.
-
--*who_filidan
-Ce n'est point ma douleur.
-
--*who_artabaze
-      Quelque accident fatal
-T'a-t-il fait exiler de ton pays natal ?
-Je veux te redonner la grâce de ton Prince.
-Ou mon juste courroux détruira sa province.
-
--*who_filidan
-Ce n'est point là mon mal, mes ennuis sont plus grands.
-
--*who_artabaze
-Regrettes-tu quelqu'un de tes plus chers parents ?
-Si c'est qu'après sa mort il te fâche de vivre.
-Je vais jusqu'aux enfers et je te le délivre.
-
--*who_filidan
-Ma douleur est bien autre, ô merveilleux vainqueur.
-
--*who_artabaze
-Est-ce une maladie ?
-
--*who_filidan
-      Oui qui me tient au coeur.
-
--*who_artabaze
-C'est une maladie ? Ah ! Qu'elle est attrapée.
-J'extermine les maux du vent de mon épée.
-Mais il faut en user en diverses façons,
-Ou feindre une estocade, ou des estramaçons,
-Selon les maux divers.
-
--*who_filidan
-      Ce pouvoir est étrange.
-
--*who_artabaze
-Quel est donc votre mal ?
-
--*who_filidan
-      Mon mal vient d'un mélange
-D'ébène, d'or, d'argent, d'azur et de coral.
-
--*who_artabaze
-Tout cela pris en poudre a causé votre mal.
-N'avait-on point mêlé quelque jus de racine
-Pour donner le passage à cette médecine ?
-
--*who_filidan
-Hélas ! Roi des vaillants, vous ne m'entendez pas.
-
--*who_artabaze
-Ce titre me plaît fort.
-
--*who_filidan
-      Je suis près du trépas,
-Pour un philtre amoureux que j'ai pris par l'oreille.
-
--*who_artabaze
-Vraiment vous me contez une étrange merveille,
-Un philtre par l'oreille ?
-
--*who_filidan
-      Écoutez-moi, bons Dieux ;
-J'entends un doux récit du coral de deux yeux,
-De l'azur d'une bouche.
-
--*who_artabaze
-      Ah Dieux ! Il me fait rire.
-C'est de l'azur des yeux que vous me voulez dire,
-Du coral d'une bouche.
-
--*who_filidan
-      Attendez un moment.
-C'est doncques l'un ou l'autre.
-
--*who_artabaze
-      Ah ! Vous êtes amant
-De quelques yeux d'azur, de quelque teint d'ivoire ?
-
--*who_filidan
-L'ivoire n'en est pas, si j'ai bonne mémoire.
-Mais c'est un tel amas de parfaites beautés,
-De trésors infinis, de rares qualités,
-Que je suis, pour les voir, dans un désir extrême.
-
--*who_artabaze
-Sans doute il veut parler de la Nymphe qui m'aime.
-
--*who_filidan
-Quoi, vous la connaissez ?
-
--*who_artabaze
-      Ah ! Si je la connais ?
-Cette Nymphe m'adore, elle vit sous mes lois.
-
--*who_filidan
-Quelle vive douleur a mon âme saisie ?
-Fallait-il à mes maux joindre la jalousie ?
-Ne suffisait-il pas de languir sans la voir ?
-
--*who_artabaze
-J'en pourrai bien ranger d'autres sous mon pouvoir,
-Je me suis engagé de vous donner remède,
-J'ai pitié de vos maux, allez, je vous la cède.
-
--*who_filidan
-Ô Prince généreux, courtois et libéral,
-Donc j'obtiendrai par vous cet azur, ce coral ?
-De gloire et de bonheur le ciel vous environne,
-Que j'embrasse vos pieds.
-
--*who_artabaze
-      Allez, je vous la donne.
-
-**** *book_ *id_III02 *act_III *date_1637
-
--*who_artabaze
-Cet homme est furieux, retirons-nous d'ici.
-
--*who_filidan
-Pour quelle occasion le craignez-vous ainsi ?
-
--*who_artabaze
-Quand je l'ai vu tantôt il s'est mis en furie.
-
--*who_filidan
-Il n'est rien de plus doux, c'est une rêverie.
-
--*who_artabaze
-Toutefois il crachait du creux de ses poumons,
-L'Épode, l'Antistrophe, et cent autres démons.
-
--*who_filidan
-Bannissez cette peur de votre fantaisie.
-Cela doit s'appeler fureur de Poésie.
-
--*who_artabaze
-C'est là mon seul défaut, je crains les furieux.
-
--*who_filidan
-Quoi ? Craindre ayant ce bras toujours victorieux ?
-
--*who_artabaze
-Je m'enfuis.
-
--*who_filidan
-      Demeurez.
-
--*who_artabaze
-      Voyez comme il médite.
-
--*who_filidan
-Que craignez-vous ?
-
--*who_artabaze
-      Je crains que sa rage s'irrite.
-
--*who_filidan
-Rassurez votre esprit, il médite des vers
-Pour semer votre nom par tout cet univers,
-Quittez, cher Amidor, vos muses bien aimées ;
-Et venez rendre hommage à ce dompteur d'armées.
-
--*who_artabaze
-M'assurez-vous de lui ?
-
--*who_filidan
-      C'est le héros du temps.
-
--*who_amidor
-Je vous salue, effroi de tous les combattants,
-Qui donnez jalousie à cent têtes royales.
-
--*who_artabaze
-Il a, comme je vois, quelques bons intervalles.
-Dites, votre fureur vous prend-elle souvent ?
-Faites-nous quelque signe au moins auparavant.
-
--*who_amidor
-Ma phébique fureur sert aux héros illustres
-Pour prolonger leurs jours d'un million de lustres.
-Elle donne aux vaillants les plus beaux de ses traits.
-Par exemple, alléguez quelques-uns de vos faits :
-Vous verrez ma fureur qui vous les va décrire.
-
--*who_artabaze
-Pour mes faits valeureux je veux bien vous en dire.
-Mais trêve de fureur.
-
--*who_filidan
-      Ah ! Ne le craignez pas.
-
--*who_amidor
-Jamais cette fureur ne causa de trépas.
-
--*who_artabaze
-Sachez que j'ai pour nom l'effroyable Artabaze,
-Qui monté quelquefois sur le cheval Pégase,
-Vais jusques sur la rue oeillader l'univers.
-Pour chercher de l'emploi dans les climats divers.
-Puis pour me divertir je vole et je revole
-En deux heures ou trois de l'un à l'autre pôle.
-
--*who_amidor
-Son discours trasonic me plaît extrêmement.
-Il aime l'Hyperbole, et parle gravement.
-
--*who_artabaze
-Un jour du haut de l'air j'aperçus deux armées,
-D'une chaleur pareille au combat animées,
-Quand assez à les voir je me fus diverti,
-Attendant de me joindre au plus faible parti ;
-Toujours volait entre eux la victoire douteuse :
-Enfin de cet ébat ma valeur fut honteuse ;
-L'impatiente ardeur me fait fondre sur eux,
-Comme un Aigle vaillant sur des Cygnes peureux :
-Je fends de tous côtés, bras, jambes, cuisses, têtes :
-Mes grands coups se font craindre ainsi que des tempêtes :
-J'attire sur moi seul mille traits opposés :
-Mais d'un de mes regards j'abats les plus osés :
-Enfin je fis alors, ce qu'à peine on peut croire,
-De deux camps ennemis une seule victoire.
-
--*who_amidor
-Cet exploit gigantesque est certes merveilleux.
-
--*who_artabaze
-Comment décririez-vous ce combat périlleux ?
-
--*who_amidor
-Au secours Polymnie, Érato, Terpsichore.
-
--*who_artabaze
-Fuyons, cette fureur le va reprendre encore.
-
--*who_filidan
-Demeurez, grand guerrier, ignorez-vous les noms
-Des Muses qu'il invoque ?
-
--*who_artabaze
-      Il parle à ses démons,
-Son oeil n'est plus si doux, il fait mille grimaces,
-Et mâche entre ses dents de certaines menaces,
-Voyez comme il nous lance un regard de travers ?
-
--*who_filidan
-C'est de cette façon que l'on fait de bons vers.
-
--*who_artabaze
-Faut-il être en fureur ? Ce métier est étrange.
-J'aime mieux pour ce coup me passer de louange,
-Pour voir faire des vers je n'y prends pas plaisir.
-
--*who_amidor
-J'en ferai donc pour vous avec plus de loisir.
-Je vous veux présenter des enfants de ma Muse.
-
--*who_artabaze
-Je vous ferai faveur.
-
--*who_filidan
-      Mais à quoi le m'amuse.
-Cherchons, mes yeux, cherchons ces aimables appas.
-
--*who_artabaze
-Où courez-vous, ami, ne m'abandonnez pas.
-
--*who_filidan
-Ne craignez rien de lui, croyez en ma parole.
-
--*who_artabaze
-Adieu donc, pauvre amant, que le ciel vous console.
-
-**** *book_ *id_III03 *act_III *date_1637
-
--*who_amidor
-Guerrier, ne craignez rien parmi les vertueux.
-Je vois que vous marchez d'un pas majestueux.
-Vous avez le regard d'un grand homme de guerre.
-Et tel que Mars l'aurait s'il était sur la terre.
-Vous avez le parler grave, sec, résonnant,
-Digne de la grandeur d'un Jupiter tonnant.
-
--*who_artabaze
-Il est vrai.
-
--*who_amidor
-      J'ai produit une pièce hardie,
-Un grand effort d'esprit, c'est une tragédie,
-Dont on verra bientôt cent Poètes jaloux.
-Mais j'aurais grand besoin qu'un homme tel que vous,
-Pour faire bien valoir cet excellent ouvrage,
-Voulût représenter le premier personnage.
-
--*who_artabaze
-Oui, je l'entreprendrai, s'il est digne de moi.
-
--*who_amidor
-C'est le grand Alexandre.
-
--*who_artabaze
-      Oui, puisque ce grand Roi,
-Par qui se vit l'Asie autrefois possédée,
-Avait de ma valeur quelque légère idée.
-
--*who_amidor
-J'ai le rôle en ma poche, il est fort furieux,
-Car je lui fais tuer ceux qu'il aime le mieux.
-
--*who_artabaze
-C'est donc quelque démon, quelque bête effroyable,
-Ah ! Ne le tirez point.
-
--*who_amidor
-      Ce n'est rien de semblable.
-Cela n'est qu'un écrit.
-
--*who_artabaze
-      Quoi, qui donne la mort ?
-Vous êtes donc Sorcier ?
-
--*who_amidor
-      Ne craignez point si fort.
-
--*who_artabaze
-Ah Dieux ! Je suis perdu, ma valeur ni mes armes
-Ne sont point par malheur à l'épreuve des charmes.
-
--*who_amidor
-Ce ne sont que des Vers.
-
--*who_artabaze
-      C'est ce qui me fait peur.
-
--*who_amidor
-Si vous craignez l'écrit, je les dirai par coeur.
-Voyons si sur le champ vous les pourriez apprendre.
-
--*who_artabaze
-Je le veux.
-
--*who_amidor
-      Dites donc, je suis cet Alexandre.
-
--*who_artabaze
-Je suis cet Alexandre.
-
--*who_amidor
-      Effroi de l'Univers.
-
--*who_artabaze
-Ce titre m'appartient.
-
--*who_amidor
-      Ah Dieux ! Dites vos Vers.
-
--*who_artabaze
-Je ne suis pas si sot qu'en dire davantage,
-Je me condamnerais en tenant ce langage,
-
--*who_amidor
-Quelle bizarre humeur ?
-
--*who_artabaze
-      Ce trait est captieux,
-Afin que j'abandonne un titre glorieux :
-Le donnant, je perdrais le pouvoir d'y prétendre.
-Je dirai seulement, je suis cet Alexandre.
-
--*who_amidor
-Et qui dira le reste ?
-
--*who_artabaze
-      Il faut bien sur ma foi,
-Donner le titre à dire à quelque autre qu'à moi :
-Puis je pourrai poursuivre.
-
--*who_amidor
-      Ô Dieux ! Quel badinage ?
-On verrait deux acteurs pour un seul personnage.
-
--*who_artabaze
-Comme vous l'entendrez, je ne puis autrement.
-
--*who_amidor
-Ma foi, vous le direz, j'en ai fait le serment.
-
--*who_artabaze
-Quoi ? Vous me menacez, frénétique caboche.
-
--*who_amidor
-Je ferai donc sortir le rôle de ma poche.
-
--*who_artabaze
-Ô Dieux à mon secours, sauvez-moi du Sorcier.
-
--*who_amidor
-Adieu vaillant courage, Adieu franc Chevalier.
-
-**** *book_ *id_III04 *act_III *date_1637
-
--*who_phalante
 De quoi rit Amidor ?
 
--*who_amidor
-      C'est de ce Capitaine.
-
--*who_phalante
 Ami, je te cherchais, j'ai besoin de ta veine,
 Pour vaincre une beauté dont mon coeur est épris :
 Mais pour se faire aimer, vivent les bons esprits.
 Rien ne saurait fléchir une humeur rigoureuse
 Comme un Vers qui sait plaindre une peine amoureuse.
 
--*who_amidor
-Si c'est une beauté qui chérisse les Vers,
-J'en ai de composés sur des sujets divers :
-J'en ai sur un refus, j'en ai sur une absence,
-J'en ai sur un mépris, sur une médisance.
-J'en ai sur un courroux, sur des yeux, sur un ris,
-Un retour de Silvie, un Adieu pour Cloris,
-Un songe à Bérénice, une plainte à Cassandre,
-Car on choisit le nom tel que l'on le veut prendre.
-
--*who_phalante
 Cette plainte à Cassandre est bien ce qu'il me faut.
 
--*who_amidor
-Cette pièce est savante, et d'un style fort haut.
-
--*who_phalante
 C'est comme je la veux.
 
--*who_amidor
-      Au reste ce sont Stances,
-Pleines de riches mots, de grandes doléances.
-
--*who_phalante
 Si le style en est riche, on me tient riche aussi.
 
--*who_amidor
-Serais-je assez heureux pour les avoir ici ?
-
--*who_phalante
 L'est-ce là ?
 
--*who_amidor
-      Non.
-
--*who_phalante
       Quoi donc ?
 
--*who_amidor
-      Une Ode Pindarique.
-
--*who_phalante
 Et cela ?
 
--*who_amidor
-      Ce sont vers qu'on va mettre en Musique.
-
--*who_phalante
 Ce l'est peut-être ici.
 
--*who_amidor
-      C'est l'Adieu pour Cloris.
-
--*who_phalante
 Et là ?
 
--*who_amidor
-      Ce sont les pleurs de la bergère Iris.
-
--*who_phalante
 Là ?
 
--*who_amidor
-      C'est une Anagramme en tous les hémistiches.
-
--*who_phalante
 Et là ?
 
--*who_amidor
-      C'est un sonnet en lettres acrostiches.
-Ah ! Non ce ne l'est pas, c'est un voeu pour Phyllis.
-
--*who_phalante
 Ne l'est-ce point ici ?
 
--*who_amidor
-      C'est sur une reine de lys.
-
--*who_phalante
 L'est-ce là ?
 
--*who_amidor
-      C'est une Hymne.
-
--*who_phalante
       Et là ?
 
--*who_amidor
-      C'est une églogue.
-
--*who_phalante
 Là ?
 
--*who_amidor
-      C'est une épitaphe.
-
--*who_phalante
       Et là ?
 
--*who_amidor
-      C'est un Prologue.
-
--*who_phalante
 Nous sommes malheureux.
 
--*who_amidor
-      Je crois que la voici.
-
--*who_phalante
 Que les Dieux soient loués.
 
--*who_amidor
-      Non, c'est sur un Souci.
-
--*who_phalante
 Ce l'est doncques ici.
 
--*who_amidor
-      Non, c'est une Épigramme.
-
--*who_phalante
 Ce la sera donc là.
 
--*who_amidor
-      C'est une Épithalame.
-
--*who_phalante
 Ce sera la dernière.
 
--*who_amidor
-      À la fin je la vois.
-
--*who_phalante
 Ô Dieux !
 
--*who_amidor
-      Plainte à Cassandre.
-
--*who_phalante
       Ami donne-la-moi :
 J'aime à lire les Vers, je suis tout en extase.
 
--*who_amidor
-Vous ne les liriez pas avec assez d'emphase.
-Doncques rigoureuse Cassandre,
-Tes yeux entre doux et hagards,
-Par l'optique de leurs regards
-Me vont pulvériser en cendre.
-Toutefois parmi ces ardeurs,
-Tes hétéroclites froideurs
-Causent une antipéristase :
-Ainsi mourant, ne mourant pas,
-Je me sens ravir en extase
-Entre la vie et le trépas.
-Mon coeur devint pusillanime
-Au prime aspect de ta beauté,
-Et ta Scythique cruauté
-Rendit mon esprit cacochyme
-Tantôt dans l'Euripe amoureux
-Je me crois le plus malheureux
-Des individus sublunaires :
-Tantôt je me crois transporté
-Aux espaces imaginaires
-D'une excentrique volupté.
-Aussi ton humeur apocryphe
-Fait que l'on te nomme en ce temps
-Des Hypocondres inconstants
-Le véritable hiéroglyphe.
-Les grotesques illusions
-Des fanatiques visions
-Te prennent pour leur hypothèse.
-Et dedans mes calamités
-Je n'attends que la syndérèse
-De ses froides neutralités.
-Autrement la métamorphose ;
-De mon bonheur en tant de maux,
-Fait que l'espoir de mes travaux
-N'est plus qu'en la métempsychose.
-La catastrophe d'un amant
-Ne trouve point de sentiment
-Dans ton âme paralytique.
-Faut-il, lunatique beauté,
-Que tu sois le pôle antarctique
-De l'amoureuse humanité ?
-Chante donc la Palinodie,
-Cher paradoxe de mes sens,
-Et des symptômes que je sens
-Débrouille l'Encyclopédie.
-Ainsi les célestes brandons
-Versent sur son chef mille dons
-En lignes perpendiculaires ;
-Et devant ton terme fatal,
-Cent révolutions solaires
-Éclairent sur ton vertical.
-
--*who_phalante
 Ah ! Que je suis ravi, quelle Muse admirable ?
 
--*who_amidor
-Que vous semble du style ?
-
--*who_phalante
       Il est incomparable.
 Mais mon étonnement est sur tes visions,
 Cette humeur apocryphe, et ces illusions.
 Dont ces vers sont remplis, qui me font croire encore
 Qu'on les a faits exprès pour celle que j'adore.
 
--*who_amidor
-Elle est donc lunatique ?
-
--*who_phalante
       Elle a l'esprit gâté
 D'une amour d'Alexandre.
 
--*who_amidor
-      Ah ! Quelle absurdité.
-Quoi du grand Alexandre ? Elle est donc chimérique ?
-Voilà ce que produit la lecture historique,
-Et celle des romans dans les jeunes esprits,
-Qui de fantômes vains sentent leurs coeurs épris.
-Alors que fraîchement ils ont lu quelque histoire :
-Cette humeur changera.
-
--*who_phalante
       Je le pourrais bien croire ;
 Et mêmes ces beaux vers ont des charmes puissants
 Pour lui bien reprocher qu'elle a perdu le sens.
 
--*who_amidor
-Donc, au lieu de ces mots, rigoureuse Cassandre,
-Mettez au premiers vers, amante d'Alexandre ?
-Ce trait la piquera.
-
--*who_phalante
       L'avis est excellent.
 J'admire cet esprit.
 
--*who_amidor
-      C'est là notre talent.
-
--*who_phalante
 Je la pourrais bien vaincre à force de largesses,
 Si les biens lui plaisaient, j'ai de grandes richesses ;
 Mais ce charme est plus propre à gagner ses parents,
 En voici, ce me semble, un des plus apparents :
 Il m'a promis secours, je vois Alcidon même.
 
--*who_amidor
-Je m'en vais cependant méditer un Poème
-Ces vers valent cent francs, à vingt francs le couplet.
-
--*who_phalante
 Allez, je vous promets un habit tout complet.
 
-**** *book_ *id_III05 *act_III *date_1637
-
--*who_lysandre
-Vénérable Alcidon, je vous offre Phalante,
-Pour digne serviteur de ma belle parente,
-Mélisse votre fille, ayant un revenu
-Qui passe tous nos biens.
-
--*who_alcidon
-      Soyez le bienvenu.
-Êtes-vous possesseur d'une grande richesse ?
-
--*who_phalante
 Grâce aux Dieux j'ai des biens dignes de ma noblesse.
 J'en ai dedans la ville, et j'en ai dans les champs :
 Je fais fendre la terre à cent coutres tranchants :
@@ -1752,19 +1292,10 @@ Des troupeaux, des haras, des forges, des minières,
 Des bourgs et des châteaux, des meubles à foison,
 Des sacs d'or et d'argent roulent par ma maison.
 
--*who_alcidon
-Quelle richesse au monde à la vôtre est égale ?
-De toutes vos maisons quelle est la principale ?
-
--*who_phalante
 C'est un lieu de plaisir, séjour de mes aïeux,
 À mon gré le plus beau qui soit dessous les cieux.
 Si vous le désirez, je vous le vais décrire.
 
--*who_alcidon
-Vous me ferez plaisir, c'est ce que je désire.
-
--*who_phalante
 Ce lieu se peut nommer séjour des voluptés,
 Où l'Art et la Nature étalent leurs beautés ;
 On rencontre à l'abord une longue avenue
@@ -1774,14 +1305,6 @@ Qui parent leurs tapis de cent vives couleurs ;
 Et cent petits ruisseaux coulent d'un doux murmure,
 Qui d'un oeil plus riant font briller la verdure.
 
--*who_alcidon
-L'abord est agréable.
-
--*who_lysandre
-      On peut avec raison
-Se promettre de là quelque belle maison.
-
--*who_phalante
 De loin l'on aperçoit un portail magnifique.
 De près l'ordre est Toscan, et l'ouvrage rustique ;
 Ce portail donne entrée en une grande cour,
@@ -1805,10 +1328,6 @@ Net, profond, poissonneux, entoure le château,
 Pour rendre ce lieu sûr contre les escalades ;
 Et l'appui d'alentour ce sont des balustrades.
 
--*who_alcidon
-Cette entrée est fort belle.
-
--*who_phalante
       Au bout du pont-levis
 Se présente un objet dont les yeux sont ravis,
 Trois portes de porphyre, et de jaspe étoffées,
@@ -1822,10 +1341,6 @@ De quatre pavillons flanquent leurs quatre coins :
 Et pour l'étage bas cent colonnes Doriques
 Séparent d'ordre égal cent figures antiques.
 
--*who_alcidon
-Ô Dieux !
-
--*who_phalante
       Une fontaine au milieu de la cour
 Représente Aréthuse, il semble qu'elle court,
 Qu'elle emporte d'un Dieu le coeur et la franchise :
@@ -1847,13 +1362,6 @@ Feraient croire à vos yeux que de tout l'Univers
 On a fait apporter les plus riches ouvrages,
 Pour rendre à ce beau lieu de signalés hommages.
 
--*who_alcidon
-Vous nous contez sans doute un palais enchanté.
-
--*who_lysandre
-Écoutons.
-
--*who_phalante
       Les jardins n'ont pas moins de beauté,
 D'abord on aperçoit un parterre s'étendre.
 Où de ravissement l'oeil se laisse surprendre,
@@ -1868,10 +1376,6 @@ Qui retombe avec bruit en parcelles menues :
 Le Dieu voit des sa barbe, et de son grand trident
 Dégoutter mille flots, et n'est pas moins ardent.
 
--*who_alcidon
-J'aime toutes ces eaux.
-
--*who_phalante
       Quatre belles Sirènes
 Dans les coins du jardin forment quatre fontaines.
 Dont les bassins pareils ont les bouillons égaux :
@@ -1901,10 +1405,6 @@ Font sortir pour du sang un jet d'eau de leurs plaies ;
 L'étang dont le sein vaste engouffre ses canaux,
 D'un bruit continuel semble plaindre leurs maux.
 
--*who_alcidon
-Ce rond d'eau me plaît fort.
-
--*who_phalante
       Autour des palissades
 Cent niches en leurs creux ont autant de Naïades,
 Qui d'un vase de marbre élancent un trait d'eau,
@@ -1912,10 +1412,6 @@ Qui se rend comme un arc dans le large vaisseau,
 Et les admirateurs de ces beaux lieux humides
 Se promènent autour sous des voûtes liquides
 
--*who_alcidon
-Quel plaisirs, ô bons Dieux !
-
--*who_phalante
       Loin de là s'aperçoit
 Un jardin que l'on sent plutôt qu'on ne le voit :
 Mille grands orangers en égale distance
@@ -1925,10 +1421,6 @@ Que leurs fleurs sont d'argent et que leur fruit est d'or :
 Et pour se distinguer chacun d'eux s'accompagne
 Ou d'un myrte amoureux, ou d'un jasmin d'Espagne.
 
--*who_alcidon
-Que tous ces beaux jardins ont de charmants appas !
-
--*who_phalante
 Ensuite est un grand lieu large de mille pas.
 Dans les quatre côtés sont vingt grottes humides,
 Et l'on voit au milieu le lac des Danaïdes.
@@ -1959,40 +1451,138 @@ Pourquoi souffré-je tant, moi qui suis innocente ?
 Ce bruit et ce travail charment tant les esprits,
 Qu'on perd tout souvenir tant l'on en est épris.
 
--*who_alcidon
-Ô Dieux ! N'en dites plus, je suis plein de merveilles ;
-Vous m'avez en ce lieu charmé par les oreilles.
-
--*who_lysandre
-J'entendrais ce récit volontiers tout un jour.
-
--*who_alcidon
-Je me promène encor dedans ce beau séjour.
-Il est vrai, la richesse est une belle chose :
-Toute félicité dedans elle est enclose.
-Un pauvre n'est qu'un sot. Allez, je vous reçois :
-Venez devers le soir vous présenter à moi.
-Je vous donne ma fille, et veux qu'elle vous aime.
-Cette offre de vos voeux m'est une gloire extrême.
-
--*who_phalante
 Effacez de son coeur quelques impressions,
 Qui pourraient faire tort à mes affections.
 
--*who_alcidon
-Mélisse ferait-elle une faute si grande ?
-Phalante, il vous suffit, j'en reçois la demande.
-
--*who_lysandre
-Au moins dans ce beau lieu, quand je vous irai voir,
-J'aurai mon logement ?
-
--*who_phalante
       Vous aurez tout pouvoir.
 
-**** *book_ *id_IV01 *act_IV *date_1637
+Il est mort, et ma mère.
 
--*who_melisse
+Non, de biens j'en ai peu, mes oncles m'entretiennent.
+
+D'enfants ? Ils en ont tous en quelques quantités ;
+Mais ils sont tous mal saints, les uns son pulmoniques,
+Les autres caterreux, les autres hydropiques ;
+Ils ont la mine au moins de tomber en ces maux :
+Puis à quoi sont sujets les mortels animaux ?
+Il ne faut qu'un malheur, une peste, une guerre,
+Pour mettre en un moment tous ces parents par terre :
+Alors me voilà riche, et ne savez-vous pas
+Qu'on voit en peu de jours tant de têtes à bas ?
+
+Cela peut arriver de moment en moment.
+
+      Elle appartient à quatre.
+
+      Ils ont tous des enfants.
+
+Avec mes biens d'espoir je me ris des malheurs.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+
+Phalante, à nul de ceux que l'on voit sur la terre.
+
+Non, mais quand je verrais le plus beau des humains,
+Il ne peut en m'aimant avoir que des dédains.
+
+      Je veux bien vous l'apprendre.
+Après ce que j'ai lu de ce grand Alexandre,
+Ce Dieu de la valeur, vainqueur de l'Univers,
+Qui dans si peu de temps fit tant d'exploit divers,
+Beau, courtois, libéral, adroit, savant et sage,
+Qui trouva tout danger moindre que son courage ;
+Qui borna son Empire où commence le jour,
+Je ne puis rien trouver digne de mon amour.
+C'est lui dont le mérite a captivé mon âme,
+C'est lui pour qui je sens une amoureuse flamme,
+Et doit-on s'étonner si ce puissant vainqueur
+Ayant dompté la terre, a su dompter mon coeur ?
+
+Nommer une chimère un Héros indompté ?
+Ô Dieux ! Puis-je souffrir cette témérité ?
+
+Appeler inconnu, celui de qui l'histoire
+A décrit les beaux faits tous rayonnants de gloire,
+De qui la renommée épandue en tous lieux
+Couvre la terre, et s'étend jusqu'aux cieux ?
+Ce manque de raison n'est pas compréhensible.
+
+Je le connais assez, je le vois tous les jours,
+Je lui rends mes devoirs, et lui dis mes amours.
+
+      Je parle à son image,
+Qui garde tous les traits de son charmant visage.
+
+Toutefois en image on adore les Dieux.
+
+      Un tome de Plutarque
+M'a fourni le portrait de ce divin Monarque.
+Et pour le mieux chérir je le porte en mon sein.
+
+Quoi ? Pour mon serviteur voudrais-je un si grand Roi ?
+De qui l'univers a révéré la loi ?
+Phalante, il était né pour commander au monde.
+
+Pensez-vous par ce charme abuser mes esprits ?
+Quittez ce vain espoir, j'ai vos biens à mépris.
+Osez-vous comparer quelque pauvre héritage,
+Quelque champ malheureux qui vous vint en partage.
+Aux trésors infinis de ce grand Conquérant ?
+Qui prodiguait les biens du pays odorant.
+De la Perse, et de l'Inde, et souvent à des Princes
+Comme présents légers a donné des provinces ?
+
+Comme il les méprisait, je les méprise aussi.
+
+Adieu mortel chétif, qui t'oses comparer
+À ce vaillant Héros que tu dois adorer.
+
+Il me parlait d'amour.
+
+Ne flattez point, ma soeur, votre esprit de la sorte,
+Phalante me parlait de l'amour qu'il me porte :
+Que si je veux fléchir mon coeur trop rigoureux,
+Ses biens me pourront mettre en un état heureux.
+Mais quoi ? Jugez, ma soeur, quel conseil je dois prendre ;
+Et si je puis l'aimer, aimant un Alexandre.
+
+Il faut vous détromper : il n'en est pas ainsi.
+Ce nouvel amoureux qui me parlait ici,
+Qui se promet de rendre une fille opulente.
+
+      Écoutez un moment
+Je veux vous annoncer que ce nouvel amant.
+
+Mais laissez-moi donc dire.
+
+Vous ignorez, ma soeur, ce que je veux vous dire.
+
+Ce n'est point tout cela.
+
+Qu'il ne vous aime point, mais que c'est moi qu'il aime.
+
+Comment par ce discours pourrais-je vous tromper ?
+
+Vous saurez que Phalante était venu me voir,
+Il m'a parlé d'amour, et ma soeur trop crédule
+Dit que c'était pour elle, et que je dissimule.
+
+Vous aimez votre erreur quelque chose qu'on die.
+
+Mais pourrait-il fournir pour une pièce entière ?
+
+Qui voudrait anoblir le théâtre Français,
+Et former une pièce avec toutes ses lois,
+Divine, magnifique, il faudrait entreprendre
+D'assembler en un jour tous les faits d'Alexandre.
+
+Nous parlions des exploits du vaillant Alexandre.
+
+Je vous aime, Amidor, de le louer ainsi.
+
+Ma soeur, voici mon père.
+
 Vainqueur de l'Orient, guerrier infatigable,
 À qui des Conquérants nul ne fut comparable,
 Foudre qui si soudain ravagea l'Univers.
@@ -2064,26 +1654,12 @@ Voudrais-tu bien pour moi t'arrêter quelques jours,
 Pour produire un enfant de race valeureuse ?
 Car je sens en t'aimant que je suis généreuse.
 
-**** *book_ *id_IV02 *act_IV *date_1637
-
--*who_melisse
 Quand pourrai-je goûter tant de félicité,
 Alexandre, mon coeur ?
 
--*who_artabaze
-      Quelle est cette beauté,
-Qui parle d'Alexandre ? Elle paraît hardie.
-Ma foi vous le verrez, c'est cette Tragédie
-Dont parlait ce fantasque, elle en dit quelques vers.
-
--*who_melisse
 Oui, je le veux chercher par tout cet Univers.
 Mais quel brave guerrier me vient ici surprendre ?
 
--*who_artabaze
-Il faut lui répartir : Je suis cet Alexandre.
-
--*who_melisse
 Vous êtes Alexandre ? Ô mes yeux bienheureux,
 Vous voyez donc l'objet de mes voeux amoureux ;
 Que j'embrasse vos pieds, grand Prince que j'adore.
@@ -2092,250 +1668,246 @@ Je le vois, ce grand Roi, ce Héros nonpareil,
 Le plus grand que jamais éclaira le Soleil,
 Ce fils de Jupiter, ce prodige en courage.
 
--*who_artabaze
-Cette fille à mon gré fait bien son personnage.
-
--*who_melisse
 Vous êtes Alexandre ? Au moins encore un mot :
 Poursuivez de parler.
 
--*who_artabaze
-      Je ne suis pas si sot.
-
--*who_melisse
 Parlez donc cher objet, dont mon âme est éprise.
 
--*who_artabaze
-Je suis cet Alexandre, et cela vous suffise.
-
--*who_melisse
 Il me suffit, de vrai, d'avoir l'heur de vous voir.
 Vous forcer de parler, c'est passer mon devoir :
 Effroi de l'Univers, c'est par trop entreprendre.
 
--*who_artabaze
-Est-ce pour moi ce titre, ou bien pour Alexandre ?
-
--*who_melisse
 Comment l'entendez-vous ?
 
--*who_artabaze
-      Si ce titre est pour moi,
-Comme m'appartenant aussi je le reçois :
-Mais je le maintiens faux, si c'est pour Alexandre.
-
--*who_melisse
 Vous tenez un discours que je ne puis comprendre.
 Vous êtes Alexandre, et vous ne l'êtes pas ?
 
--*who_artabaze
-C'est par moi qu'Alexandre a souffert le trépas.
-
--*who_melisse
 Vous l'êtes donc sans l'être ? À présent Alexandre
 Est comme le Phoenix qui renaît de sa cendre ?
 Car c'est lui qui revit, et si ce ne l'est plus ?
 À peine j'entendais ces propos ambigus.
 Mais, ô cher Alexandre, ô Prince qui m'embrase.
 
--*who_artabaze
-Laissons la Tragédie, on m'appelle Artabaze,
-Plus craint que le tonnerre, et l'orage et les vents.
-
--*who_melisse
 Artabaze est le nom de l'un de vos suivants,
 Qui le fut de Darie ; ah ! Le voudriez-vous prendre ?
 Ô Dieux ! Ne quittez point ce beau nom d'Alexandre.
 
--*who_artabaze
-Artabaze est le nom du plus grand des guerriers,
-Dont le front est chargé de cent mille lauriers.
-
--*who_melisse
 Faites-moi donc entendre ; est-ce métamorphose
 Qui vous fait Artabaze, ou bien métempsychose ?
 
--*who_artabaze
-Quoi ? Vous dites aussi des mots de ce Sorcier
-Qui fit la Tragédie ?
-
--*who_melisse
       Invincible guerrier,
 Alors qu'on vous crut mort par charme ou maladie,
 Ce fut donc un Sorcier qui fit la Tragédie ?
 
--*who_artabaze
-Il est vrai que de peur j'en ai pensé mourir.
-Vous a-t-on dit l'effroi qui m'a tant fait courir.
-
--*who_melisse
 Quoi donc ? Il vous fit si peur, ô Valeur sans seconde.
 
--*who_artabaze
-Il m'a fait disparaître aux yeux de tout le monde.
-
--*who_melisse
 Vous disparûtes donc par un charme puissant ?
 
--*who_artabaze
-Par des mots qui pouvaient en effrayer un cent.
-Par un certain Démon qu'il portait dans sa poche.
-
--*who_melisse
 Ô Dieux !
 
--*who_artabaze
-      Nul de sa mort ne fut jamais si proche.
-
--*who_melisse
 Depuis cet accident qu'il s'est fait de combats !
 
--*who_artabaze
-Quels combats se sont faits ?
-
--*who_melisse
       Ne les savez-vous pas ?
 
--*who_artabaze
-On s'est battu sans moi ? Je déteste, j'enrage.
-
--*who_melisse
 Ce fut lors que vos chefs eurent fait le partage
 De tous ces grands pays conquis par vos travaux.
 
--*who_artabaze
-Je les ferai tous pendre : Où sont-ils ces marauds ?
-Ils partagent mon bien ?
-
--*who_melisse
       Depuis leurs destinées
 On pourrait bien compter près de deux mille années.
 
--*who_artabaze
-Les Dieux pour les sauver de mon juste courroux
-Ont mis assurément cet espace entre nous.
-
--*who_melisse
 Hélas ! Où courez-vous ?
 
--*who_artabaze
-      Ce Sorcier me veut prendre.
-
--*who_melisse
 Je vous suivrai partout, ô mon cher Alexandre.
 
-**** *book_ *id_IV03 *act_IV *date_1637
+Ô mon cher Alexandre, hélas ! Me fuyez-vous ?
+Alexandre Artabaze, apaisez ce courroux.
 
--*who_filidan
-Je la vois cette belle ; à ce coup je la vois.
-Cruelle, impitoyable, où fuyez-vous de moi ?
-La mauvaise qu'elle est, je l'avais aperçue,
-Mais l'ingrate aussitôt s'est soustraite à ma vue,
-Elle a privé mes yeux d'un si divin plaisir.
-Pour augmenter en moi la fureur du désir.
-Amidor, je l'ai vue.
+Je vous suivrai partout, ô mon cher Alexandre.
 
--*who_amidor
-      As-tu vu cette belle ?
+Je ne sais.
 
--*who_filidan
-J'ai vu comme un éclair cette beauté cruelle.
-Mais ne l'as-tu point vue ? À quoi donc rêvais-tu ?
+      Hélas ! Que dites-vous ?
+Je veux plutôt la mort.
 
--*who_amidor
-Je rêvais au malheur des hommes de vertu.
-Qu'en ce siècle ignorant les Auteurs d'importance
-Languissent sans estime, et sans reconnaissance.
+Je souffrirais qu'en moi quelqu'un osât prétendre,
+Après ce que j'ai lu du vaillant Alexandre ?
+Mon coeur qui dès longtemps adore sa grandeur,
+Pourrait se voir épris d'une plus vile ardeur :
+Mille coups perceraient ce coeur traître et volage,
+S'il avait entrepris d'effacer son image.
 
--*who_filidan
-C'est ainsi que parfois en des lieux écartés
-S'offrent aux yeux humains les célestes beautés :
-On les voit sans les voir ? Ces belles immortelles
-Sont en même moment et douces et cruelles.
+      Ah ! Je ne la suis point.
+Qu'on me donne un mari valeureux à ce point :
+Un qui devant trente ans ait gagné cent batailles,
+Qui seul se soit lancé du plus haut des murailles
+Dans un bourg assiégé parmi tant d'ennemis :
+Et qui dessous ses lois ait cent peuples soumis.
 
--*who_amidor
-Siècle ingrat ! Autrefois Sophocle eut cet honneur
-Qu'en l'Île de Samos on le mit Gouverneur
-Pour une Tragédie, ainsi qu'on le raconte :
-Je devrais être un Roi pour le moins à ce compte.
+      En est-il sur la terre ?
 
--*who_filidan
-Dieux ! Qu'elle m'a laissé dans un ardent désir
-De voir son beau visage avec plus de loisir.
+N'est-ce point Artabaze ?
 
--*who_amidor
-Quel homme enfla jamais comme moi sa parole ?
-Et qui jamais plus haut a porté l'hyperbole ?
+      Ce maître des fous ?
+Pourrait-on rencontrer un plus lâche courage ?
+Mais, mon père, que sert de parler davantage ?
+Rien ne peut me résoudre au lien conjugal
+Si ce n'est Alexandre, ou du moins son égal.
 
-**** *book_ *id_IV04 *act_IV *date_1637
 
--*who_filidan
-Comme de sa beauté tu connais la grandeur,
-Crois-tu, cher confident de ma nouvelle ardeur,
-Que ma fidélité puisse être assez heureuse
-Pour fléchir quelque jour cette humeur rigoureuse ?
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesperie
 
--*who_hesperie
+Cet amant s'est pâmé dès l'heure qu'il m'a vue ;
+De quels traits, ma beauté, le ciel t'a-t-il pourvue ?
+En sortant du logis je ne puis faire un pas
+Que mes yeux aussitôt ne causent un trépas.
+Pour moi je ne sais plus quel conseil je dois suivre :
+Le monde va périr, si l'on me laisse vivre,
+Dieux ! Que je suis à craindre ! Est-il rien sous les cieux
+Au genre des humains plus fatal que mes yeux ?
+Quand je fus mise au jour, la Nature peu fine
+Pensant faire un chef-d'oeuvre avançait sa ruine.
+On compterait plutôt les feuilles des forêts,
+Les sablons de la mer, les épis de Cérès,
+Les fleurs dont au printemps la terre se couronne,
+Les glaçons de l'Hiver, les raisins de l'Automne,
+Et les feux qui des nuits assistent le flambeau,
+Que le nombre d'amants que j'ai mis au tombeau.
+Celui-ci va mourir, lui rendrai-je la vie ?
+Je le puis d'un seul mot, la pitié m'y convie.
+
+Il n'est pas mort encore, il rêve à mes beautés.
+Le dois-je secourir ? J'en ai la fantaisie.
+Mais ceux qui me verraient, mourraient de jalousie.
+Que mon sort est cruel ! Je ne fais que du mal ;
+Et ne puis faire un bien sans tuer un rival,
+Je ne puis ouvrir l'oeil sans faire une blessure,
+Ni faire un pas sans voir une âme à la torture.
+Si fuyant ces malheureux je rentre à la maison,
+Ceux qui servent chez nous tombent en pâmoison.
+Ils cèdent aux rigueurs d'une flamme contrainte,
+Et tremblent devant moi de respect et de crainte.
+Ils ne sauraient me voir sinon en m'adorant,
+Ni me dire un seul mot sinon en soupirant.
+Ils baissent aussitôt leur amoureuse bouche,
+Pour donner un baiser aux choses que je touche.
+Toutefois ma beauté les sait si bien ravir,
+Qu'ils s'estiment des Rois dans l'heur de me servir.
+À table je redoute un breuvage de charmes ;
+Ou qu'un d'eux ne me donne à boire de ses larmes.
+Je crains que quelque amant n'ait avant son trépas
+Ordonné que son coeur servit à mes repas.
+Souvent sur ce penser en mangeant je frissonne :
+Croyant qu'on le déguise, et qu'on me l'assaisonne :
+Pour mettre dans mon sein par ce trait décevant,
+Au moins après la mort ce qu'il ne put vivant.
+Les amants sont bien fins au plus fort de leur rage,
+Et sont ingénieux mêmes à leur dommage.
+On dresse pour m'avoir cent pièges tous les jours.
+Mon père aussi me veille, et craint tous ces amours
+Glorieux de m'avoir aux Dieux il se compare,
+Et quelquefois ravi d'un miracle si rare,
+Doute s'il me fit naître, ou si je vins des cieux.
+Dans la maison sans cesse on a sur moi les yeux,
+Lui plein d'étonnement, mes soeurs pleines d'envie,
+Les autres pleins d'amour, belle, mais triste vie !
+Une beauté si grande est-elle à désirer ?
+Mais j'aperçois mon père, il me faut retirer.
+
+Ma Soeur, dites le vrai, que vous disait Phalante ?
+
+      Ô la ruse excellente !
+Donc il s'adresse à vous, n'osant pas m'aborder ;
+Pour vous donner le soin de me persuader ?
+
+Vous pensez m'abuser d'un entretien moqueur,
+Pour prendre mieux le temps de le mettre en mon coeur.
+Mais, ma soeur, croyez-moi, n'en prenez point la peine.
+En vain vous me direz que je suis inhumaine :
+Que je dois par pitié soulager ses amours :
+Cent fois le jour j'entends de semblables discours,
+Je suis de mille amants sans cesse importunée,
+Et crois qu'à ce tourment le ciel m'a destinée.
+L'on me vient rapporter, Lysis s'en va mourir :
+D'un regard pour le moins venez le secourir :
+Eurylas s'est plongé dans la mélancolie.
+L'amour de Licidas s'est tournée en folie.
+Périandre a dessein de vous faire enlever.
+Une flotte d'amants vient de vous arriver.
+Si Cotylas n'en meurt il sera bien malade.
+Un Roi pour vous avoir envoie une ambassade.
+Thirsis vous idolâtre et vous dresse un autel
+C'est pour vous ce matin que c'est fait un duel.
+Aussi de mon portrait chacun veut la copie.
+C'est pour moi qu'est venu le Roi d'Éthiopie.
+Hier j'en blessai trois d'un regard innocent.
+D'un autre plus cruel j'en fis mourir un cent.
+Je sens, quand on me parle, une haleine de flamme.
+Ceux qui n'osent parler m'adorent en leur âme.
+Mille viennent par jour se soumettre à ma loi,
+Je sens toujours des coeurs voler autour de moi
+Sans cesse des soupirs, sifflent à mes oreilles.
+Mille voeux élancés m'entourent comme abeilles.
+Les pleurs près de mes pieds courent comme torrents,
+Toujours je pense ouïr la plainte des mourants ;
+Un regret, un sanglot, une voix languissante,
+Un cri désespéré d'une douleur pressante,
+Un je brûle d'amour, un hélas je me meurs :
+La nuit je n'en dors point, je n'entends que clameurs
+Qui d'un trait de piété, s'efforcent de m'atteindre :
+Voyez, ma chère soeur, suis-je pas bien à plaindre ?
+
+Quoi ? Voulez-vous encor me parler de Phalante ?
+Que vous êtes cruelle.
+
+Ah ! Bons Dieux que d'amants ! Qu'un peu je me repose :
+N'entendrai-je jamais discourir d'autre chose ?
+
+      Ah ! Dieux quelle pitié !
+Si vous avez pour moi tant soit peu d'amitié :
+Ne parlons plus d'amour, souffrez que je respire.
+
+Je sais tous les discours de tous ces amoureux.
+Qu'il brûle, qu'il se meurt, qu'il est tout langoureux,
+Que jamais d'un seul coup âme ne fut atteinte,
+Que pour avoir secours il vous refait sa plainte,
+Que vous me suppliez d'avoir pitié de lui,
+Et qu'au moins d'un regard j'allège son ennui.
+
+      Quelque chose de même.
+
+Ah ! Ma soeur, qu'elle ruse afin de m'attraper ?
+
+Par cette habileté vous pensez me séduire ;
+Et dessous votre nom me conter son martyre.
+
+Que vous sert de parler contre la vérité ?
+Et de chercher pour lui cette subtilité ?
+
+On ferait de ma vie une pièce admirable,
+S'il faut beaucoup d'amour pour la rendre agréable.
+Car vous autres, jugez, qui savez les Romans,
+Si la belle Angélique eut jamais tant d'amants
+
+Savez-vous un sujet dont nous parlions aussi.
+D'une dont la beauté peut aisément prétendre
+D'avoir plus de captifs que n'en fit Alexandre.
+
 Écoute, chère soeur, ce misérable Amant
 Qui feint ne me point voir pour dire son tourment.
 
--*who_amidor
-Les grands peuvent donner les soutiens d'une vie,
-Qui par mille accidents nous peut-être ravie :
-Mais par un vers puissant comme la déité
-Je puis leur faire don de l'immortalité.
-
--*who_filidan
-Ah ! Qu'elle est rigoureuse à son Amant fidèle !
-
--*who_amidor
-Ah ! Que pour les savants la saison est cruelle !
-
--*who_filidan
-Beauté, si tu pouvais savoir tous mes travaux !
-
--*who_amidor
-Siècle, si tu pouvais savoir ce que je vaux !
-
--*who_filidan
-J'aurais en ton amour une place authentique.
-
--*who_amidor
-J'aurais une statue en la place publique.
-
--*who_hesperie
 J'ai pitié de les voir en cette égalité
 L'un se plaindre du temps, l'autre de ma beauté.
 
--*who_sestiane
-Non, c'est un Dialogue : Amidor l'étudie
-Pour en faire une Scène en quelque Comédie.
-
--*who_hesperie
 Ah ! Ne le croyez pas, l'un et l'autre en effet
 Ont du temps et de moi l'esprit mal satisfait.
 Voyez qu'ils sont rêveurs : sachons-le avec adresse.
 Doncques vous vous plaignez d'une ingrate maîtresse ?
 
--*who_filidan
-Si c'est quelque pitié naissante en votre coeur
-Qui vous fasse enquérir quel trait fut mon vainqueur,
-Sachez qu'il vint d'un oeil que j'adore en mon âme.
-
--*who_hesperie
 Voyez qu'il est adroit à me conter sa flamme.
 Quelle est donc la beauté d'où vient votre tourment ?
 
--*who_filidan
-C'est celle que j'ai vue en ce même moment.
-
--*who_hesperie
 C'est doncques pour ma soeur que votre coeur soupire ?
 
--*who_filidan
-Non.
-
--*who_hesperie
       Ma soeur, pouvait-il plus adroitement dire
 Que c'est moi qu'il chérit, car c'est l'une des deux.
 Respectueux amant, on accepte vos voeux ?
@@ -2343,30 +1915,13 @@ Celle que vous aimez, de ma part vous assure
 Qu'elle a pitié des maux que votre coeur endure,
 Mais sans rien désirer adorez sa vertu.
 
--*who_filidan
-Ô doux soulagement d'un esprit abattu !
-Que je baise vos mains pour l'heureuse nouvelle
-Que ma Déesse envoie à son Amant fidèle.
-
--*who_hesperie
 Mais vous de qui l'esprit par tant de nobles vers
 Du bruit de cette Nymphe a rempli l'Univers,
 Quittez vos déplaisirs, car pour reconnaissance
 Sachez qu'elle vous donne une ample récompense.
 
--*who_filidan
-Il est vrai que c'est lui qui causa mon ardeur.
-
--*who_amidor
-Quel don puis-je espérer digne de sa grandeur ?
-
--*who_hesperie
 Vous allez devenir le plus riche du monde.
 
--*who_amidor
-Hélas ! Sur quoi veut-on que cet espoir se fonde ?
-
--*who_hesperie
 Elle peut pour le moins compter cent mille amants
 Qui vivant sous ses lois souffrent mille tourments.
 Elle va publier, pour soulager leur peine
@@ -2376,159 +1931,28 @@ Ces pauvres languissants pour avoir de vos vers,
 Vous offrir des présents, des innombrables sommes :
 Vous voilà dans un mois le plus riche des hommes.
 
--*who_amidor
-Ô Dieux ! Les voyageurs sur les Indiques bords
-N'amassèrent jamais de si riches trésors.
-Quels beaux champs triomphaux, et quels Panégyriques
-Mériteront de moi ses bontés héroïques ?
-
--*who_filidan
-Dieux ! Qu'elle est magnifique ! Et que cette beauté
-Exerce heureusement la libéralité !
-
--*who_sestiane
-J'aime bien Amidor, mais il faut que je die
-Que s'il devient si riche, Adieu la Comédie.
-Car il ne voudra plus s'embrouiller le cerveau,
-Que pour une Épigramme, ou pour un air nouveau.
-
--*who_amidor
-J'aurai plus de loisir, Sestiane, au contraire,
-J'en ferai pour ma gloire et pour me satisfaire.
-Mais s'il faut que les biens m'arrivent à foison.
-Il faut donc que je loue une grande maison :
-Car ma chambre est petite, à peine suffit-elle
-Pour un lit, une table, avec une escabelle.
-
--*who_sestiane
-Avant que voir chez vous la richesse venir,
-Je veux de votre Muse une grâce obtenir.
-
--*who_amidor
-Commander seulement.
-
--*who_sestiane
-      Qu'elle veuille décrire
-Ce sujet que tantôt je commençais à dire.
-
--*who_amidor
-Oui, je vous le promets ; ce sujet me plaît fort :
-Et mérite un esprit qui puisse faire effort.
-L'invention m'en charme, et sa belle conduite.
-Je me meurs du désir d'en apprendre la suite.
-Nous étions demeurés sur ces petits gémeaux
-Que Cloris élevait.
-
--*who_sestiane
-      Tous deux étaient fort beaux.
-L'on admirait en eux surtout la ressemblance :
-Le père de Cloris n'en eut point connaissance :
-On les faisait nourrir en des lieux écartés ;
-Enfin les voilà grands, aimés de cent beautés.
-Le visage de l'un tout à l'autre semblable
-Fait naître tous les jours quelque intrigue agréable.
-Cet acte serait plein de plaisantes erreurs ;
-Même on y peut mêler quelques douces fureurs.
-
--*who_amidor
-Vraiment vous l'entendez.
-
--*who_sestiane
-      J'entends un peu ces choses.
-Car j'ai lu les Romans et les Métamorphoses.
-Dedans l'acte quatrième. Ô Dieux ! Cher Amidor ;
-J'entends quelqu'un venir pour nous troubler encor ;
-Tirons-nous à l'écart. Cependant, Hespérie,
-Si quelqu'un survenait, parlez-lui je vous prie.
-Je lui dirai le reste ici dans quelque lieu.
-
--*who_hesperie
 Allons, ma Melpomène, et vous ma Nymphe, adieu.
 
--*who_sestiane
-Vous verrez si la fin eut jamais son égale.
-
--*who_hesperie
 Quoi ? Seule avec lui ?
 
--*who_sestiane
-      Ce sera sans scandale.
-Nous ne sommes qu'esprit, et pour être à l'écart,
-Le corps en nos amours ne prend aucune part.
-
-**** *book_ *id_IV05 *act_IV *date_1637
-
--*who_artabaze
-Ô Dieux ! Quelle pitié ! Je suis couru des Dames,
-Mais je ne puis tout seul soulager tant de flammes.
-
--*who_melisse
-Ô mon cher Alexandre, hélas ! Me fuyez-vous ?
-Alexandre Artabaze, apaisez ce courroux.
-
--*who_artabaze
-J'ai trop d'amour ailleurs, je ne puis vous entendre.
-
--*who_melisse
-Je vous suivrai partout, ô mon cher Alexandre.
-
--*who_filidan
-Cet éclair de beauté vient de paraître ici,
-Arrête, ma cruelle, arrête mon souci.
-
-**** *book_ *id_IV06 *act_IV *date_1637
-
--*who_alcidon
-Quel bruit-je ai entendu ?
-
--*who_hesperie
       Que je suis misérable !
 
--*who_alcidon
-Qu'avez-vous à pleurer ?
-
--*who_hesperie
       Ah ! Que je suis coupable !
 
--*who_alcidon
-Quoi donc, elle s'accuse ? Hélas je suis perdu.
-J'ai pour la marier un peu trop attendu.
-Je savais que la garde en était dangereuse.
-Quel mal avez-vous fait ?
-
--*who_hesperie
       Ô beauté malheureuse !
 
--*who_alcidon
-La méchante a forfait sans doute à son honneur.
-Mais je veux étrangler le traître suborneur.
-Quel mal as-tu donc fait ?
-
--*who_hesperie
       Ah ! Le pourrez-vous croire ?
 Je pensais de vos jours être l'heur et la gloire :
 Mais je suis votre honte et le fatal tison
 Qui remplira de feu toute votre maison.
 
--*who_alcidon
-Et de crainte et d'horreur tout le corps me chancelle.
-
--*who_hesperie
 Ah ! Qu'à votre malheur vous me fîtes si belle.
 
--*who_alcidon
-Rends donc de mon malheur mon esprit éclairci.
-
--*who_hesperie
 Quel spectacle, dons Dieux, je viens de voir ici ?
 Ô mes yeux criminels, versez, versez des larmes
 Sur ce cruel amas de beautés et de charmes,
 C'est vous, mes chers trésors, qui causez ces malheurs.
 
--*who_alcidon
-Au moins pour me parler, apaise tes douleurs.
-
--*who_hesperie
 Puisque vous le voulez, j'ai honte, je l'avoue :
 Mais pour dire nos maux, il faut que je me loue.
 Dès que j'ouvris les yeux pour regarder le jour,
@@ -2560,10 +1984,6 @@ Pour offrir son encens ne cherche un autre Autel.
 Ainsi mes pauvres soeurs : ah ! De douleurs je crève.
 La parole me manque.
 
--*who_alcidon
-      Hélas ! Ma fille, achève.
-
--*who_hesperie
 Doncques mes pauvres soeurs se voyant sans Amant,
 Qu'elles jettent sur tous leurs regards vainement,
 Sont réduites enfin à ces malheurs extrêmes
@@ -2575,10 +1995,6 @@ L'autre se voit réduire à cette honte infâme
 De suivre un Capitaine, à tout heure, en tous lieux
 Aux yeux de tout le monde.
 
--*who_alcidon
-      Est-il possible ? Ô Dieux !
-
--*who_hesperie
 En le nommant son coeur, et son cher Alexandre.
 Mais jugez quel secours elles peuvent attendre.
 C'est pour moi seulement que l'un fait tant de vers ;
@@ -2590,168 +2006,409 @@ D'accuser ma beauté, source de nos malheurs,
 Qui cause au lieu de gloire une honte éternelle.
 Ah ! Mon père, pourquoi me fîtes-vous si belle ?
 
--*who_alcidon
+Si j'avais moins d'amants, nous serions plus heureux.
+
+Vous le pourrez savoir, voilà le Capitaine.
+
+Hélas ! Je le sais bien c'est tout mon déplaisir :
+De vrai je puis choisir entre près de cent mille :
+Mais funeste richesse ! Abondance inutile !
+Si j'en vais choisir un, quel barbare dessein ?
+Je mets à tout le reste un poignard dans le sein.
+
+Ah ! Quel aveuglement ? En doutez-vous encore ?
+Voulez-vous publier que je vais faire un choix,
+Pour voir combien d'Amants vivent dessous mes lois ?
+Ah ! Mon père, l'épreuve en serait trop cruelle.
+Voudriez-vous à ce point me rendre criminelle ?
+Soudain que l'on verrait l'heureux choix de mes yeux,
+Ce glorieux Amant, ce favori des cieux,
+Les autres hors d'espoir, tristes et misérables
+Feraient tout retentir de cris épouvantables :
+Les uns se noieraient aux plus prochaines eaux ;
+D'autres iraient chercher le secours des corbeaux :
+Les uns se lanceraient du haut des précipices :
+Je verrais devant moi les sanglants sacrifices
+Des autres dont la main finirait le malheur :
+Et le reste mourrait de sa propre douleur.
+Mon âme ferait bien en cruauté féconde,
+D'exterminer pour un, tout le reste du monde.
+
+      Ah ! Pour l'heur d'un amant,
+Voudriez-vous que le reste entrât au monument ?
+Non, je n'en ferai rien, je n'ai pas ce courage :
+Je me veux pour jamais privé du mariage.
+
+Que plutôt que mourir ils vivent malheureux.
+
+Il n'ose me nommer, ô respect admirable !
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sestiane
+
+Quels sont vos différents ? Les pourraient-on savoir ?
+
+Vraiment c'est un sujet pour une Comédie :
+Et si l'on le donnait aux esprits d'à présent,
+Je pense que l'intrigue en serait bien plaisant.
+Souvent ces beaux esprits ont faute de matière.
+
+Il ne faudrait qu'y coudre un morceau de roman,
+Ou trouver dans l'histoire un bel événement,
+Pour rendre de tout point cette pièce remplie,
+Afin qu'elle eût l'honneur de paraître accomplie.
+
+Vous verriez cent combats avec trop peu d'amour.
+Je me moque pour moi de la règle d'un jour.
+
+Voici ce bel esprit dont la veine est hardie.
+Nous pourrons avec lui parler de Comédie.
+
+J'ai ce matin appris un nouveau compliment,
+Laissez-moi repartir.
+
+Nous mettons nos beautés aux pieds de vos mérites.
+
+Nous discutions ici sur des sujets divers.
+
+Jugez en vérité, laquelle est-ce de nous ?
+
+Ô Dieux ! Qu'il a d'esprit, mais il faut que je die
+Que nous parlions aussi touchant la comédie ;
+Car c'est ma passion.
+
+Toutefois le Comique étant bien inventé,
+Peut-être ravissant quand il est bien traité.
+Dites, approuvez-vous ces règles de critiques,
+Dont ils ont pour garants tous les auteurs antiques,
+Cette unité de jour, de scène, d'action ?
+
+Toutefois ces esprits critiques, et sévères,
+Ont leurs raisons à part qui ne sont pas légères.
+Qu'il faut poser le jour, le lieu qu'on veut choisir.
+Ce qui vous interrompt ôte tout le plaisir :
+Tout changement détruit cette agréable Idée,
+Et le fil délicat dont votre âme est guidée.
+Si l'on voit qu'un sujet se passe en plus d'un jour,
+L'auteur, dit-on alors, m'a fait un mauvais tour,
+Il m'a fait sans dormir passer des nuits entières,
+Excusez le pauvre homme, il a trop de matières.
+L'esprit est séparé : le plaisir dit Adieu.
+De même arrive-t-il si l'on change de lieu.
+On se plaint de l'auteur : il m'a fait un outrage :
+Je pensais être à Rome, il m'enlève à Carthage.
+Vous avez beau chanter, et tirer le rideau :
+Vous ne m'y trompez pas, je n'ai point passé l'eau.
+Ils désirent aussi que d'une haleine égale
+On traite sans détour l'action principale.
+En mêlant deux sujets, l'un pour l'autre nous fuit ;
+Comme on voit s'échapper deux lièvres que l'on suit.
+Ce sont là leurs raisons, si j'ai bonne mémoire.
+Je me rapporte à vous de ce qu'on en doit croire.
+
+Vous n'auriez autrement que fort peu de sujets.
+Je veux vous en dire un que vous pourriez bien faire.
+
+On expose un enfant dans un bois écarté,
+Qui par une tigresse est un temps allaité :
+La tigresse s'éloigne, on la blesse à la chasse,
+Elle perd tout son sang, on la suit à la trace,
+On la trouve, et l'enfant que l'on apporte au Roi,
+Beau, d'un fixe regard, incapable d'effroi.
+Le roi l'aime, il l'élève, il en fait ses délices,
+On le voit réussir à tous ses exercices.
+Voilà le premier acte : et dans l'autre suivant
+Il s'échappe, et se met à la merci du vent :
+Il aborde en une île, où l'on faisait la guerre :
+Au milieu d'un combat il vient comme un tonnerre :
+Prend le faible parti, relève son espoir :
+Un Roi lui doit son sceptre, et désire le voir :
+Il veut en sa faveur partager sa couronne :
+Sa fille en le voyant à l'amour s'abandonne :
+Un horrible Géant du contraire parti
+Fait semer un cartel, il en est averti,
+Il se présente au champ, il se bat, il le tue ;
+Voilà des ennemis la fortune abattue.
+Enfin dedans cet acte, il faudrait de beaux vers
+Pour dire ses amours et ses combats divers.
+
+La Princesse en l'autre acte, avec son cher amant
+Se trouve au fond d'un bois.
+
+Cloris donc en ce bois cède à sa violence :
+Elle en a deux jumeaux qu'elle élève en secret.
+
+      Ah ! Que j'ai de regret :
+C'était là le plus beau.
+
+Quelque jour, Amidor, je vous dirai le reste.
+
+Au moins regardez bien l'endroit où nous en sommes.
+
+Non, c'est un Dialogue : Amidor l'étudie
+Pour en faire une Scène en quelque Comédie.
+
+J'aime bien Amidor, mais il faut que je die
+Que s'il devient si riche, Adieu la Comédie.
+Car il ne voudra plus s'embrouiller le cerveau,
+Que pour une Épigramme, ou pour un air nouveau.
+
+Avant que voir chez vous la richesse venir,
+Je veux de votre Muse une grâce obtenir.
+
+      Qu'elle veuille décrire
+Ce sujet que tantôt je commençais à dire.
+
+      Tous deux étaient fort beaux.
+L'on admirait en eux surtout la ressemblance :
+Le père de Cloris n'en eut point connaissance :
+On les faisait nourrir en des lieux écartés ;
+Enfin les voilà grands, aimés de cent beautés.
+Le visage de l'un tout à l'autre semblable
+Fait naître tous les jours quelque intrigue agréable.
+Cet acte serait plein de plaisantes erreurs ;
+Même on y peut mêler quelques douces fureurs.
+
+      J'entends un peu ces choses.
+Car j'ai lu les Romans et les Métamorphoses.
+Dedans l'acte quatrième. Ô Dieux ! Cher Amidor ;
+J'entends quelqu'un venir pour nous troubler encor ;
+Tirons-nous à l'écart. Cependant, Hespérie,
+Si quelqu'un survenait, parlez-lui je vous prie.
+Je lui dirai le reste ici dans quelque lieu.
+
+Vous verrez si la fin eut jamais son égale.
+
+      Ce sera sans scandale.
+Nous ne sommes qu'esprit, et pour être à l'écart,
+Le corps en nos amours ne prend aucune part.
+
+Pour moi, n'en parlons point : mais je viens vous prier,
+Si l'une de mes soeurs aujourd'hui se marie,
+Au moins après souper ayons la Comédie.
+Sans en avoir le soin, laissez-la-moi choisir,
+J'en sais une nouvelle où vous prendrez plaisir.
+
+Il ne faut point pour moi vous mettre en ce souci.
+Je ne veux de ma vie entrer en mariage,
+Ne pouvant pas porter les soucis d'un ménage.
+Puis je rencontrerais quelque bizarre humeur,
+Qui dedans la maison ferait une rumeur
+Quand je voudrais aller à quelque Comédie :
+Pour moi qui ne veux pas que l'on me contredie :
+Quand il le défendrait, je dirais, je le veux ?
+Et s'il donnait un coup, j'en pourrais rendre deux.
+Si l'on doit se trouver en quelques assemblées,
+Aussitôt des maris les têtes sont troublées :
+Ils pensent que c'est là que se voit le Galant ;
+Que se donne l'oeillade, et le poulet coulant :
+Les pièces que l'on joue en ces nuits bienheureuses
+Ne parlant que d'amour, leur semblent dangereuses :
+Pensez-vous, disent-ils, qu'on vous veuille souffrir
+À dormir tout le jour, et la nuit à courir ?
+Mais leur plus grand dépit est facile à connaître,
+C'est que dedans ces lieux ils n'oseraient paraître :
+Car on dit aussitôt Voyez-vous le jaloux ?
+Il suit partout sa femme ; et comme à des Hiboux
+Qui des gentils oiseaux sont la haine et la crainte.
+Chacun veut de son bec leur donner une atteinte.
+Je ne veux point, mon père, épouser un censeur.
+Puisque vous me souffrez recevoir la douceur.
+Des plaisirs innocents que le théâtre apporte,
+Prendrais-je le hasard de vivre d'autre sorte ?
+Puis on a des enfants qui vous sont sur les bras :
+Les mener au théâtre, ô Dieux ! Quel embarras
+Tantôt couche, ou grossesse, ou quelque maladie
+Pour jamais vous font dire, Adieu la Comédie :
+Je ne suis pas si sotte ; aussi je vous promets
+Pour toutes ces raisons d'être fille à jamais.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
+
+Lysandre, il est certain : mais pour choisir un gendre,
+Il s'en présente tant, qu'on ne sait lequel prendre.
+Puis-je suis d'une humeur que tout peut contenter.
+Pas un d'eux à mon gré ne se doit rejeter.
+S'il est vieux il rendra sa famille opulente ;
+S'il est jeune, ma fille en sera plus contente ;
+S'il est beau, je dis lors, beauté n'a point de prix ;
+S'il a de la laideur, la nuit tous chats sont gris ;
+S'il est gai, qu'il pourra réjouir ma vieillesse :
+Et s'il est sérieux, qu'il a de la sagesse ;
+S'il est courtois, sans doute il vient d'un noble sang ;
+S'il est présomptueux, il sait tenir son rang ;
+S'il est entreprenant, c'est qu'il a du courage ;
+S'il se tient à couvert, il redoute l'orage ;
+S'il est prompt, on perd tout souvent pour différer ;
+S'il est lent, pour bien faire il faut considérer,
+S'il révère les Dieux, ils lui seront prospères ;
+S'il trompe pour gagner, il fera ses affaires ;
+Enfin quelque parti qui s'ose présenter,
+Toujours je trouve en lui de quoi me contenter.
+
+Quand je choisis un gendre, un qui va survenir
+Me plaît, et du premier m'ôte le souvenir ;
+Si pour s'offrir à moi quelque troisième arrive,
+Je trouve quelque chose en lui qui me captive.
+
+C'est ce que je ne puis ; que sert de le nier ?
+Je conclus sans faillir toujours pour le dernier.
+
+      Dieux ! Qu'est-ce que j'entends.
+
+      Sa prunelle mourante à peine voit le jour.
+
+Sans doute il est épris de l'une de mes filles.
+
+Lysandre, en vérité sa passion me touche.
+Son amour m'a rendu tout saisi de pitié.
+Aussi n'est-il rien tel qu'une belle amitié.
+
+      J'aimerais mieux un gendre
+Qui chérit sa moitié d'une amour aussi tendre,
+Qu'un qui posséderait les plus riches trésors,
+Et toutes les beautés de l'esprit et du corps.
+Le savoir et les biens, sans la flamme amoureuse,
+Ne peuvent jamais rendre une alliance heureuse.
+
+Consolez-vous, mon fils, ayez bonne espérance,
+Je veux récompenser cette rare constance.
+J'entreprends de guérir vos désirs enflammés.
+Vous aurez aujourd'hui celle que vous aimez.
+
+Croyez que dans ce soir je vous rendrai content.
+
+Je veux dedans ce jour, sans prendre un plus long terme
+Choisir ceux qu'il me faut, d'une volonté ferme.
+
+Oui, prenez bon courage. Adieu jusqu'à ce soir.
+
+Je vous cherchais partout, mes filles, qu'est-ce ci ?
+Dieux ! Quelle liberté ? Retirez-vous d'ici.
+Ce n'est pas votre fait de parler à des hommes.
+
+C'est à moi de les voir, et d'en faire le choix,
+Allez, je veux bientôt vous pourvoir toutes trois.
+
+Est-ce que vous ayez quelque dessein pour elles ?
+
+Que cet homme est savant dedans l'antiquité !
+Il sait mêler la fable avec la vérité :
+Il connaît les secrets de la Philosophie ;
+Et même est entendu dans la Cosmographie.
+Vous êtes amoureux ? Et qu'est-ce que l'amour ?
+
+Son esprit me ravit, son savoir me confond.
+Ô Dieux ! Qu'il est subtil, et solide, et profond,
+Je ne vois rien de si beau qu'un savoir admirable,
+C'est un riche trésor à tous biens préférable :
+C'est un flambeau divin que l'on doit respecter.
+Allez, je vous estime, et vous veux contenter.
+Venez ici ce soir, je vous donne ma fille.
+Vous ferez quelque jour l'honneur de ma famille.
+
+      Soyez le bienvenu.
+Êtes-vous possesseur d'une grande richesse ?
+
+Quelle richesse au monde à la vôtre est égale ?
+De toutes vos maisons quelle est la principale ?
+
+Vous me ferez plaisir, c'est ce que je désire.
+
+L'abord est agréable.
+
+Cette entrée est fort belle.
+
+Ô Dieux !
+
+Vous nous contez sans doute un palais enchanté.
+
+J'aime toutes ces eaux.
+
+Ce rond d'eau me plaît fort.
+
+Quel plaisirs, ô bons Dieux !
+
+Que tous ces beaux jardins ont de charmants appas !
+
+Ô Dieux ! N'en dites plus, je suis plein de merveilles ;
+Vous m'avez en ce lieu charmé par les oreilles.
+
+Je me promène encor dedans ce beau séjour.
+Il est vrai, la richesse est une belle chose :
+Toute félicité dedans elle est enclose.
+Un pauvre n'est qu'un sot. Allez, je vous reçois :
+Venez devers le soir vous présenter à moi.
+Je vous donne ma fille, et veux qu'elle vous aime.
+Cette offre de vos voeux m'est une gloire extrême.
+
+Mélisse ferait-elle une faute si grande ?
+Phalante, il vous suffit, j'en reçois la demande.
+
+Quel bruit-je ai entendu ?
+
+Qu'avez-vous à pleurer ?
+
+Quoi donc, elle s'accuse ? Hélas je suis perdu.
+J'ai pour la marier un peu trop attendu.
+Je savais que la garde en était dangereuse.
+Quel mal avez-vous fait ?
+
+La méchante a forfait sans doute à son honneur.
+Mais je veux étrangler le traître suborneur.
+Quel mal as-tu donc fait ?
+
+Et de crainte et d'horreur tout le corps me chancelle.
+
+Rends donc de mon malheur mon esprit éclairci.
+
+Au moins pour me parler, apaise tes douleurs.
+
+      Hélas ! Ma fille, achève.
+
+      Est-il possible ? Ô Dieux !
+
 Osent-elles, bons Dieux, témoigner leur ardeur ?
 À ce compte vos soeurs ont perdu la pudeur.
 Mais n'est-ce point aussi trop d'amour de vous-même,
 Qui vous fait quelquefois rêver que l'on vous aime ?
 Je n'entends point parler de tous ces amoureux.
 
--*who_hesperie
-Si j'avais moins d'amants, nous serions plus heureux.
-
--*who_alcidon
 Mais l'amour de vos soeurs est-ce chose certaine ?
 
--*who_hesperie
-Vous le pourrez savoir, voilà le Capitaine.
-
--*who_alcidon
 Je veux l'entretenir, retirez-vous d'ici.
 J'aurai sur ce sujet mon esprit éclairci.
 
-**** *book_ *id_IV07 *act_IV *date_1637
-
--*who_artabaze
-Bon homme, approchez-vous, venez me rendre hommage.
-
--*who_alcidon
 Valeureux fils de Mars, et sa vivante image,
 J'adore avec respect votre illustre grandeur,
 Et de vos faits guerriers j'admire la splendeur.
 
--*who_artabaze
-Il me gagne le coeur, l'humilité me charme :
-C'est ce qui m'adoucit, c'est ce qui me désarme.
-Vous avez une fille ?
-
--*who_alcidon
       Oui, Guerrier, j'en ai trois.
 
--*who_artabaze
-J'eusse été, s'il m'eût plu, le gendre de cent Rois.
-Je veux vous combler d'heur, il m'en prend fantaisie :
-En dussent tous ces Rois crever de jalousie.
-
--*who_alcidon
 De deux filles que j'ai, si l'on m'a bien instruit,
 Vous en poursuivez l'une, et l'autre vous poursuit.
 
--*who_artabaze
-Quoi ? J'en poursuis quelqu'une ? Ah ! Quelle rêverie !
-
--*who_alcidon
 N'êtes-vous pas Amant de ma fille Hespérie ?
 
--*who_artabaze
-Quelle est cette Hespérie ? Ô Dieux ! Cette beauté
-Se mêle d'attenter à cette vanité ?
-Vanité téméraire, et digne de supplice,
-Qu'à peine souffrirais-je dans une Impératrice.
-Moi que mille beautés pourchassent à l'envi ?
-Que je suis d'elles partout à toute heure suivi ;
-Qui n'ai qu'à regarder celle qui me peut plaire.
-Pour dire, allez, c'est vous que je veux satisfaire.
-Entre autres la constance, et l'ardente amitié
-D'une qui me poursuit, vous ferait bien pitié,
-Qui me nomme son tout, et son cher Alexandre.
-
--*who_alcidon
 C'est ma fille.
 
--*who_artabaze
-      Il est vrai, l'on vient de me l'apprendre.
-Certes, elle ne cède à nulle de ces lieux,
-Et peut bien mériter un regard de mes yeux :
-Mais jugez de combien elle s'était trompée :
-Ayant su les pays conquis par mon épée ?
-Ayant ouï parler de mes faits glorieux,
-Qui m'ont de l'Univers rendu victorieux,
-Son esprit se bornait à ne pouvoir comprendre
-Sinon qu'elle voyait un second Alexandre.
-Ce nom me fâchait fort, comme indigne de moi.
-Car bien qu'il fût vaillant, bien qu'il fût un grand Roi.
-Peut-être au quart du monde il fit jadis la guerre,
-Et pour moi j'ai conquis tout le rond de la terre.
-
--*who_alcidon
 Hé quoi ? Je n'ai point lu l'histoire de vos faits :
 Où vend-on ce beau livre ?
 
--*who_artabaze
-      Il ne parut jamais.
-L'auteur qui me suivit en ce fameux voyage,
-Avec tous écrits périt par un naufrage.
-De votre fille enfin j'ai détrompé l'esprit,
-Qu'on me nomme Artabaze, et quelle se méprit
-Alors qu'elle pensa que j'étais Alexandre.
-J'ai bien eu quelque peine à lui faire comprendre,
-Tant elle était brouillée en son entendement.
-Mais elle a fait alors un coup de jugement.
-Pour gagner mon amour par un beau stratagème,
-Elle feint sur le champ une colère extrême :
-Mêmes elle ose bien passer jusqu'au mépris :
-Son dessein réussit, soudain j'en suis épris :
-Mon coeur lui fait présent de sa noble franchise,
-Car je fuis qui me suit, j'aime qui me méprise.
-Nul ne saurait plus haut porter l'ambition
-Que d'oser renvier sur ma présomption :
-C'est un trait généreux, et d'un hardi courage ;
-Aussi pour ce sujet je l'aime davantage.
-Je veux croire qu'un jour il naîtra de nous deux,
-Un des plus grands guerriers et des plus hasardeux,
-Un qui se fera voir sur la terre et l'onde
-Mon digne successeur à l'Empire du monde.
-
--*who_alcidon
 Vous êtes Empereur ?
 
--*who_artabaze
-      Je le suis en pouvoir.
-
--*who_alcidon
 Il faut donc devant vous être dans son devoir.
 
--*who_artabaze
-Couvrez-vous, ces respects ne sont que tyrannies,
-Je ne m'amuse pas à ces cérémonies.
-
--*who_alcidon
 Vous devriez donc avoir en cette qualité
 Grand nombre de suivants.
 
--*who_artabaze
-      Ce n'est que vanité :
-À garder mes États ma suite est occupée.
-Je suis, il me suffit, suivi de mon épée.
-
--*who_alcidon
 Vous me ferez faveur si vous me racontez
 Où sont ceux maintenant que vous avez domptés.
 Sont-ils morts ou captifs tous ces Rois et ces Princes ?
 
--*who_artabaze
-Non, je leur ai fait grâce, ils sont dans leurs Provinces :
-Mais ils sont seulement déchus de leurs honneurs :
-Car au lieu d'être Rois, ce sont des Gouverneurs.
-
--*who_alcidon
 Quel temps avez-vous mis à conquérir la terre ?
 
--*who_artabaze
-En un mois à peu près j'achevai cette guerre.
-Je pris, s'il m'en souvient, l'Europe en quatre jours :
-Et sans de ma victoire interrompre le cours,
-Je fis voile en Asie, et passant le Bosphore
-En six jours je domptai les peuples de l'Aurore.
-En deux jours je revins de ces lieux reculés,
-Je passai la Mer Rouge, et les sablons brûlés,
-Puis en moins de huit jours je pris toute l'Afrique.
-De là passant les flots de la mer Atlantique
-Je conquis les climats de nouveau découverts,
-Et fus au bout du monde maître de l'Univers.
-
--*who_alcidon
 Ô Dieux ! Que la valeur est chose merveilleuse !
 Quelle vertu peut-être à ce point glorieuse ?
 Elle porte partout l'épouvante et la mort :
@@ -2759,11 +2416,6 @@ Tout fléchit sous ses lois, tout cède à son effort :
 Elle donne ou ravit et les biens et la vie,
 Et rend sous son pouvoir toute chose asservie.
 
--*who_artabaze
-Il est vrai, la valeur est la haute vertu
-Par qui rien n'est si grand qui ne soit abattu.
-
--*who_alcidon
 D'elle nous vient la paix, d'elle vient la richesse,
 D'elle vient la grandeur, d'elle vient la noblesse :
 C'est l'appui du pays, le lustre des maisons.
@@ -2771,40 +2423,18 @@ Elle est utile enfin pour cent mille raisons.
 Je tiens à grand honneur de vous avoir pour gendre.
 À peine à cette gloire eussé-je osé prétendre.
 
--*who_artabaze
-Je vous veux rendre heureux.
-
--*who_alcidon
       Ô l'excès de bonté
 Qui part de la grandeur de votre Majesté !
 
--*who_artabaze
-Vous savez plaire aux Grands.
-
--*who_alcidon
       Vous voyez ma demeure.
 Vous pourrez vous y rendre au plus tard dans une heure.
 Je m'en vais voir ma fille, afin de l'avertir
 Que de ses beaux habits elle doit se vêtir.
 
--*who_artabaze
-Elle me plaît assez en l'habit ordinaire,
-Mais j'ai peur qu'elle craigne une humeur sanguinaire,
-Un homme de carnage, et de meurtre, et d'horreur,
-Et dont les fiers regards donnent de la terreur.
-
--*who_alcidon
 Adoucissez un peu cette mine hautaine.
 
--*who_artabaze
-Bien donc, Adieu, bon homme.
-
--*who_alcidon
       Adieu, grand Capitaine.
 
-**** *book_ *id_V01 *act_V *date_1637
-
--*who_alcidon
 La Richesse, l'Amour, le Savoir, la Vaillance.
 La Richesse, l'Amour, la Valeur, la Science.
 Je crois que ce sont quatre, il ne m'en faut que trois.
@@ -2868,12 +2498,143 @@ Sur ce cruel mépris saccager ma maison.
 À quoi suis-je réduit ? Quel conseil dois-je prendre ?
 Tout me plaît et me nuit : mais j'aperçois Lysandre.
 
-**** *book_ *id_V02 *act_V *date_1637
-
--*who_alcidon
 De votre gaieté le sujet est-il grand ?
 
--*who_lysandre
+Pussiez-vous aussi bien soulager mes ennuis,
+Et me débarrasser de la peine où je suis.
+
+      Ah ! Vous allez l'entendre.
+La peine où je me trouve est d'avoir trop d'un gendre.
+
+Je n'en voulais que trois, mais je me suis mépris.
+Ma parole est à quatre à présent engagée ;
+Et c'est là le tourment de mon âme affligée :
+Ils s'en vont tous ici paraître en un moment.
+
+      Vous savez ce misérable Amant,
+Et celui qui possède une grande Richesse,
+À qui j'ai fait tantôt devant vous ma promesse :
+Quand j'ai trouvé ce riche, une heure auparavant
+Je m'étais engagé pour un homme Savant ;
+Depuis, sur quelque bruit faisant ici la ronde
+Je n'ai pu refuser au plus Vaillant du monde :
+Voilà doncques les quatre à qui tous j'ai promis ;
+Et si je manque aux uns, j'en fais des ennemis.
+Chacun également me semble désirable,
+Et nul dans le mépris ne sera supportable.
+
+Lysandre, quel conseil me pourriez-vous donner ?
+Pour moi, je suis confus.
+
+Pour moi je n'entends point tant de subtilité.
+Vous êtes mon conseil, vous êtes mon refuge,
+Je mets tout en vos mains, et vous en fais le Juge.
+
+Dieux ! Que vous me rendez un charitable office
+Je m'en vais l'appeler : venez ici, Mélisse.
+
+Elle suit mon vouloir, je n'en ai point douté.
+
+Hélas ! Ma fille est folle.
+
+Oui, j'ai trouvé ton homme.
+
+J'ai celui qu'il te faut, un grand homme de guerre,
+Un plus grand qu'Alexandre, un qui dedans un mois
+A fait à l'Univers reconnaître ses lois.
+
+Non, lui-même tantôt m'a conté son histoire.
+
+      Oui.
+
+Ô Dieux !
+
+      Hélas ! Quelles douleurs ?
+J'entre par sa folie en de nouveaux malheurs.
+
+Vous croyez un peu trop que chacun vous adore.
+
+Bons Dieux ! Quelle folie ?
+
+Est-ce ainsi que l'on suit mon vouloir absolu ?
+
+Ma douleur qui s'accroît, rend mon âme saisie.
+Dieux ! Que pourrai-je dire à tous ces Amoureux ?
+
+Toujours dans son erreur cette folle s'engage,
+Mais voici Sestiane, elle sera plus sage.
+
+Mais je veux dès ce soir vous marier aussi.
+
+      Ô mon choix inutile
+De ces rares partis qu'il faut congédier.
+Si pas une à présent ne se veut marier.
+Naguères je croyais n'avoir trop que d'un gendre ;
+Mais, bons Dieux ! Maintenant j'en ai quatre à revendre.
+Mes filles est-ce là le respect qui m'est dû ?
+
+Que lui pourrai-je dire ? Ah ! Tout le corps me tremble.
+
+De mes filles voyez laquelle a votre amour.
+
+Ô Dieux ! Quelle folie ?
+
+Mais c'est là ce savant.
+
+      Ah ! Bons Dieux, c'est Phalante.
+Celui dont la richesse est sans comparaison.
+Surtout je suis épris de sa belle maison.
+Mélisse à son bonheur aurait l'esprit contraire
+Ne trouvant point en lui de quoi se satisfaire.
+
+La mort de vos parents est donc votre espérance ?
+
+Nous vous remercions, ô Riche imaginaire,
+De l'honneur excessif qu'il vous plaisait nous faire.
+
+Mais je crains celui-ci.
+
+
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+
+Il est vrai qu'il est temps de penser à vos filles.
+Elles sont toutes trois vertueuses, gentilles.
+D'âge à les marier, puis vous avez du bien ;
+Ne différez donc plus, la garde n'en vaut rien.
+
+Que sert donc, Alcidon, une plus longue attente,
+Si vous trouvez partout quelqu'un qui vous contente ?
+
+Mais pour en bien juger, et pour faire un bon choix,
+Il faut dans la balance en mettre deux ou trois ;
+Ceux de qui le talent plus solide vous semble,
+Les peser mûrement, les comparer ensemble.
+
+Votre esprit est étrange.
+
+Quelque Amant qui soupire.
+
+Il est déjà vaincu.
+
+Quand un autre viendra vous en direz autant.
+
+C'est beaucoup pour un jour.
+
+Vénérable Alcidon, je vous offre Phalante,
+Pour digne serviteur de ma belle parente,
+Mélisse votre fille, ayant un revenu
+Qui passe tous nos biens.
+
+      On peut avec raison
+Se promettre de là quelque belle maison.
+
+Écoutons.
+
+J'entendrais ce récit volontiers tout un jour.
+
+Au moins dans ce beau lieu, quand je vous irai voir,
+J'aurai mon logement ?
+
 Je viens d'accommoder un plaisant différend.
 J'ai vu de toutes parts une troupe accourue
 Au bruit d'une querelle en la prochaine rue,
@@ -2894,446 +2655,90 @@ Vous nous ensorcelez, vous enchantez nos sens,
 C'est ainsi qu'il entend que vous faites des charmes.
 J'ai mis ainsi d'accord les Muses et les Armes.
 
--*who_alcidon
-Pussiez-vous aussi bien soulager mes ennuis,
-Et me débarrasser de la peine où je suis.
-
--*who_lysandre
 Quel tourment avez-vous ?
 
--*who_alcidon
-      Ah ! Vous allez l'entendre.
-La peine où je me trouve est d'avoir trop d'un gendre.
-
--*who_lysandre
 Quoi ? Vous en avez trop ? Où les avez-vous pris ?
 
--*who_alcidon
-Je n'en voulais que trois, mais je me suis mépris.
-Ma parole est à quatre à présent engagée ;
-Et c'est là le tourment de mon âme affligée :
-Ils s'en vont tous ici paraître en un moment.
-
--*who_lysandre
 Qui sont-ils ?
 
--*who_alcidon
-      Vous savez ce misérable Amant,
-Et celui qui possède une grande Richesse,
-À qui j'ai fait tantôt devant vous ma promesse :
-Quand j'ai trouvé ce riche, une heure auparavant
-Je m'étais engagé pour un homme Savant ;
-Depuis, sur quelque bruit faisant ici la ronde
-Je n'ai pu refuser au plus Vaillant du monde :
-Voilà doncques les quatre à qui tous j'ai promis ;
-Et si je manque aux uns, j'en fais des ennemis.
-Chacun également me semble désirable,
-Et nul dans le mépris ne sera supportable.
-
--*who_lysandre
 Hé quoi ? Pour ce malheur se faut-il étonner ?
 
--*who_alcidon
-Lysandre, quel conseil me pourriez-vous donner ?
-Pour moi, je suis confus.
-
--*who_lysandre
       Pauvre homme que vous êtes ;
 On peut dans les accords trouver mille défaites.
 L'un d'eux peut être exclus sans en être irrité.
 
--*who_alcidon
-Pour moi je n'entends point tant de subtilité.
-Vous êtes mon conseil, vous êtes mon refuge,
-Je mets tout en vos mains, et vous en fais le Juge.
-
--*who_lysandre
 Puisque vous le voulez, laissez-les donc venir.
 Tandis voyons Mélisse, il faut l'entretenir.
 
--*who_alcidon
-Dieux ! Que vous me rendez un charitable office
-Je m'en vais l'appeler : venez ici, Mélisse.
-
--*who_lysandre
 Il faut auparavant savoir sa volonté.
 
--*who_alcidon
-Elle suit mon vouloir, je n'en ai point douté.
-
-**** *book_ *id_V03 *act_V *date_1637
-
--*who_lysandre
 Mélisse, savez-vous pourquoi l'on vous appelle ?
 
--*who_melisse
-Je ne sais.
-
--*who_lysandre
       Pour vous dire une bonne nouvelle.
 Alcidon vous marie.
 
--*who_melisse
-      Hélas ! Que dites-vous ?
-Je veux plutôt la mort.
-
--*who_lysandre
       Modérez ce courroux.
 
--*who_melisse
-Je souffrirais qu'en moi quelqu'un osât prétendre,
-Après ce que j'ai lu du vaillant Alexandre ?
-Mon coeur qui dès longtemps adore sa grandeur,
-Pourrait se voir épris d'une plus vile ardeur :
-Mille coups perceraient ce coeur traître et volage,
-S'il avait entrepris d'effacer son image.
-
--*who_alcidon
-Hélas ! Ma fille est folle.
-
--*who_melisse
-      Ah ! Je ne la suis point.
-Qu'on me donne un mari valeureux à ce point :
-Un qui devant trente ans ait gagné cent batailles,
-Qui seul se soit lancé du plus haut des murailles
-Dans un bourg assiégé parmi tant d'ennemis :
-Et qui dessous ses lois ait cent peuples soumis.
-
--*who_alcidon
-Oui, j'ai trouvé ton homme.
-
--*who_melisse
-      En est-il sur la terre ?
-
--*who_alcidon
-J'ai celui qu'il te faut, un grand homme de guerre,
-Un plus grand qu'Alexandre, un qui dedans un mois
-A fait à l'Univers reconnaître ses lois.
-
--*who_lysandre
 Quel est ce grand guerrier ? C'est pour lui faire accroire.
 
--*who_alcidon
-Non, lui-même tantôt m'a conté son histoire.
-
--*who_lysandre
 Vous êtes fol vous-même, ô Dieux ! Le croyez-vous ?
 
--*who_melisse
-N'est-ce point Artabaze ?
-
--*who_alcidon
-      Oui.
-
--*who_melisse
-      Ce maître des fous ?
-Pourrait-on rencontrer un plus lâche courage ?
-Mais, mon père, que sert de parler davantage ?
-Rien ne peut me résoudre au lien conjugal
-Si ce n'est Alexandre, ou du moins son égal.
-
--*who_alcidon
-Ô Dieux !
-
--*who_lysandre
       Que voulez-vous, c'est là sa rêverie.
 Mais sans perdre de temps appelez Hespérie :
 Elle sera plus sage.
 
--*who_alcidon
-      Hélas ! Quelles douleurs ?
-J'entre par sa folie en de nouveaux malheurs.
-
-**** *book_ *id_V04 *act_V *date_1637
-
--*who_lysandre
 Hé bien, belle Hespérie, Alcidon ce bon père
 Vous marie aujourd'hui : c'est de vous qu'il espère
 Un coeur obéissant : Vous auriez à choisir.
 
--*who_hesperie
-Hélas ! Je le sais bien c'est tout mon déplaisir :
-De vrai je puis choisir entre près de cent mille :
-Mais funeste richesse ! Abondance inutile !
-Si j'en vais choisir un, quel barbare dessein ?
-Je mets à tout le reste un poignard dans le sein.
-
--*who_alcidon
-Vous croyez un peu trop que chacun vous adore.
-
--*who_hesperie
-Ah ! Quel aveuglement ? En doutez-vous encore ?
-Voulez-vous publier que je vais faire un choix,
-Pour voir combien d'Amants vivent dessous mes lois ?
-Ah ! Mon père, l'épreuve en serait trop cruelle.
-Voudriez-vous à ce point me rendre criminelle ?
-Soudain que l'on verrait l'heureux choix de mes yeux,
-Ce glorieux Amant, ce favori des cieux,
-Les autres hors d'espoir, tristes et misérables
-Feraient tout retentir de cris épouvantables :
-Les uns se noieraient aux plus prochaines eaux ;
-D'autres iraient chercher le secours des corbeaux :
-Les uns se lanceraient du haut des précipices :
-Je verrais devant moi les sanglants sacrifices
-Des autres dont la main finirait le malheur :
-Et le reste mourrait de sa propre douleur.
-Mon âme ferait bien en cruauté féconde,
-D'exterminer pour un, tout le reste du monde.
-
--*who_alcidon
-Bons Dieux ! Quelle folie ?
-
--*who_hesperie
-      Ah ! Pour l'heur d'un amant,
-Voudriez-vous que le reste entrât au monument ?
-Non, je n'en ferai rien, je n'ai pas ce courage :
-Je me veux pour jamais privé du mariage.
-
--*who_alcidon
-Est-ce ainsi que l'on suit mon vouloir absolu ?
-
--*who_lysandre
 Vous voyez, Alcidon, ce qu'elle a résolu.
 Nous ne lui ferons pas changer de fantaisie.
 
--*who_alcidon
-Ma douleur qui s'accroît, rend mon âme saisie.
-Dieux ! Que pourrai-je dire à tous ces Amoureux ?
-
--*who_hesperie
-Que plutôt que mourir ils vivent malheureux.
-
--*who_alcidon
-Toujours dans son erreur cette folle s'engage,
-Mais voici Sestiane, elle sera plus sage.
-
-**** *book_ *id_V05 *act_V *date_1637
-
--*who_lysandre
 Venez, belle parente, on vous veut marier.
 
--*who_sestiane
-Pour moi, n'en parlons point : mais je viens vous prier,
-Si l'une de mes soeurs aujourd'hui se marie,
-Au moins après souper ayons la Comédie.
-Sans en avoir le soin, laissez-la-moi choisir,
-J'en sais une nouvelle où vous prendrez plaisir.
-
--*who_lysandre
 Pour moi, je prévois bien, si l'on n'y remédie
 Que ces noces pourront finir en Comédie.
 
--*who_alcidon
-Mais je veux dès ce soir vous marier aussi.
-
--*who_sestiane
-Il ne faut point pour moi vous mettre en ce souci.
-Je ne veux de ma vie entrer en mariage,
-Ne pouvant pas porter les soucis d'un ménage.
-Puis je rencontrerais quelque bizarre humeur,
-Qui dedans la maison ferait une rumeur
-Quand je voudrais aller à quelque Comédie :
-Pour moi qui ne veux pas que l'on me contredie :
-Quand il le défendrait, je dirais, je le veux ?
-Et s'il donnait un coup, j'en pourrais rendre deux.
-Si l'on doit se trouver en quelques assemblées,
-Aussitôt des maris les têtes sont troublées :
-Ils pensent que c'est là que se voit le Galant ;
-Que se donne l'oeillade, et le poulet coulant :
-Les pièces que l'on joue en ces nuits bienheureuses
-Ne parlant que d'amour, leur semblent dangereuses :
-Pensez-vous, disent-ils, qu'on vous veuille souffrir
-À dormir tout le jour, et la nuit à courir ?
-Mais leur plus grand dépit est facile à connaître,
-C'est que dedans ces lieux ils n'oseraient paraître :
-Car on dit aussitôt Voyez-vous le jaloux ?
-Il suit partout sa femme ; et comme à des Hiboux
-Qui des gentils oiseaux sont la haine et la crainte.
-Chacun veut de son bec leur donner une atteinte.
-Je ne veux point, mon père, épouser un censeur.
-Puisque vous me souffrez recevoir la douceur.
-Des plaisirs innocents que le théâtre apporte,
-Prendrais-je le hasard de vivre d'autre sorte ?
-Puis on a des enfants qui vous sont sur les bras :
-Les mener au théâtre, ô Dieux ! Quel embarras
-Tantôt couche, ou grossesse, ou quelque maladie
-Pour jamais vous font dire, Adieu la Comédie :
-Je ne suis pas si sotte ; aussi je vous promets
-Pour toutes ces raisons d'être fille à jamais.
-
--*who_lysandre
 À voir comme elle parle, un homme bien habile
 Aurait peine à la vaincre.
 
--*who_alcidon
-      Ô mon choix inutile
-De ces rares partis qu'il faut congédier.
-Si pas une à présent ne se veut marier.
-Naguères je croyais n'avoir trop que d'un gendre ;
-Mais, bons Dieux ! Maintenant j'en ai quatre à revendre.
-Mes filles est-ce là le respect qui m'est dû ?
-
--*who_lysandre
 Je vois déjà venir un gendre prétendu.
 Prenez garde, Alcidon, c'est l'amant ce me semble.
 
--*who_alcidon
-Que lui pourrai-je dire ? Ah ! Tout le corps me tremble.
-
-**** *book_ *id_V06 *act_V *date_1637
-
--*who_filidan
-Enfin c'est à ce coup, mes yeux seront ravis.
-
--*who_lysandre
 Laquelle aimez-vous donc ?
 
--*who_filidan
-      Jamais je ne la vis,
-Je ne sais quelle elle est.
-
--*who_lysandre
       Ô Dieux ! Est-il possible ?
 Est-ce là cette amour qui vous rend si sensible ?
 
--*who_filidan
-Mais faites-moi donc voir cette rare beauté,
-De qui le seul récit m'a l'esprit enchanté :
-Vous me l'avez promis, ce désir me dévore.
-Faites-la-moi donc voir, la beauté que j'adore.
-M'aviez-vous pas remis à la fin de ce jour
-
--*who_alcidon
-De mes filles voyez laquelle a votre amour.
-
--*who_filidan
-Non, je ne vois point là cet objet adorable.
-
--*who_hesperie
-Il n'ose me nommer, ô respect admirable !
-
-**** *book_ *id_V07 *act_V *date_1637
-
--*who_filidan
-C'est se moquer de moi : faites-moi voir cet or,
-Cet azur, ce coral, cet aimable trésor.
-
--*who_amidor
-Il parle d'un objet qu'il adore en idée,
-Et sur mon seul discours cette amour est fondée.
-C'est un fantasque objet que ma Muse a produit ;
-En vain ce pauvre Amant le cherche et le poursuit.
-
--*who_filidan
-Il ne m'importe donc, mon âme en est ravie.
-Je te veux, belle Idée, aimer toute ma vie.
-
--*who_alcidon
-Ô Dieux ! Quelle folie ?
-
--*who_lysandre
       Il est fort satisfait.
 Courage, c'en est un dont vous voilà défait.
 
--*who_alcidon
-Mais c'est là ce savant.
-
--*who_lysandre
       Hé quoi ! C'est mon Poète.
 Pour lui je vais bientôt trouver une défaite.
 Et vous, grand Apollon, que cherchez-vous ici ?
 
--*who_amidor
-Je viens rendre, Alcidon, votre esprit éclairci.
-Tantôt étant troublé d'une surprise grande.
-D'une de ces beautés j'ai tenté la demande,
-Ne sachant que vous dire en cet étonnement !
-Puis un faiseur de vers feint toujours d'être amant.
-Mais, pour dire le vrai, nulle amoureuse flamme
-Depuis que je suis né n'est entrée en mon âme.
-D'Hélicon seulement j'aime le noble val,
-Et l'eau fille du pied de l'emplumé cheval :
-J'aime les bois, les prés, et les grottes obscures,
-J'aime la Poésie, et ses doctes figures.
-Dans mon commencement, en l'Avril de mes jours,
-La riche Métaphore occupa mes amours :
-Puis j'aimai l'Antithèse au sortir de l'École :
-Maintenant je me meurs pour la haute Hyperbole :
-C'est le grand ornement des magnifiques vers :
-C'est elle qui sans peine embrasse l'Univers ;
-Au ciel en un moment on la voit élancée ;
-C'est elle qui remplit la bouche et la pensée.
-Ô ma chère Hyperbole, Hyperbole mon coeur,
-C'est toi qui d'Atropos me rendras le vainqueur.
-
-**** *book_ *id_V08 *act_V *date_1637
-
--*who_lysandre
 Vous voilà bien satisfait c'est ce qui nous contente.
 Mais en voici quelque autre.
 
--*who_alcidon
-      Ah ! Bons Dieux, c'est Phalante.
-Celui dont la richesse est sans comparaison.
-Surtout je suis épris de sa belle maison.
-Mélisse à son bonheur aurait l'esprit contraire
-Ne trouvant point en lui de quoi se satisfaire.
-
--*who_lysandre
 Au récit de ses biens je m'en vais l'engager ;
 Et l'humeur de mélisse en pourrait bien changer.
 Pour passer avec vous l'accord du mariage.
 Il faut voir votre père avant que l'on s'engage.
 
--*who_phalante
-Il est mort, et ma mère.
-
--*who_lysandre
       Ô Dieux ! Quelle douceur !
 Déjà de tous ces biens vous êtes possesseur ?
 
--*who_phalante
-Non, de biens j'en ai peu, mes oncles m'entretiennent.
-
--*who_lysandre
 Ceux à qui tous ces biens maintenant appartiennent,
 N'ont point doncques d'enfants ? Et vous en héritez ?
 
--*who_phalante
-D'enfants ? Ils en ont tous en quelques quantités ;
-Mais ils sont tous mal saints, les uns son pulmoniques,
-Les autres caterreux, les autres hydropiques ;
-Ils ont la mine au moins de tomber en ces maux :
-Puis à quoi sont sujets les mortels animaux ?
-Il ne faut qu'un malheur, une peste, une guerre,
-Pour mettre en un moment tous ces parents par terre :
-Alors me voilà riche, et ne savez-vous pas
-Qu'on voit en peu de jours tant de têtes à bas ?
-
--*who_lysandre
 Ce sont là vos trésors ? C'est là cette abondance ?
 
--*who_alcidon
-La mort de vos parents est donc votre espérance ?
-
--*who_phalante
-Cela peut arriver de moment en moment.
-
--*who_lysandre
 Et je m'étais promis un si beau logement
 Dedans cette maison où je pensais m'ébattre.
 Mais donc qui la possède.
 
--*who_phalante
-      Elle appartient à quatre.
-
--*who_lysandre
 N'ont-ils point de lignée ?
 
--*who_phalante
-      Ils ont tous des enfants.
-
--*who_lysandre
 Adieu, belle maison, et beaux arcs triomphants,
 Adieu cours, anticours, Adieu belle avenue,
 Vous, fontaines, Adieu, qui touchiez à la nue,
@@ -3348,53 +2753,13 @@ Adieu beaux orangers, Adieu les Danaïdes :
 Beau lieu de qui l'espoir nous avait réjouis,
 Vos miracles soudain se sont évanouis.
 
--*who_alcidon
-Nous vous remercions, ô Riche imaginaire,
-De l'honneur excessif qu'il vous plaisait nous faire.
-
--*who_phalante
-Avec mes biens d'espoir je me ris des malheurs.
-
--*who_lysandre
 Vous en pouvez jouir sans craindre les voleurs.
 
--*who_alcidon
-Mais je crains celui-ci.
-
--*who_lysandre
       Quoi ? C'est mon Capitaine.
 Je connais sa valeur, n'en soyez pas en peine.
 
-**** *book_ *id_V09 *act_V *date_1637
-
--*who_artabaze
-Hé bien, mes bons amis, vous êtes assemblés :
-C'est pour me recevoir : je crois que vous tremblez :
-À peine souffrez-vous mes regards effroyables :
-Je veux pour vous parler les rendre supportables :
-Car je ne pourrais pas sans cet ajustement,
-Avec nul des mortels converser un moment.
-
--*who_lysandre
 Cette faveur est grande.
 
--*who_artabaze
-      Elle n'est pas commune.
-Souffrez donc, mes amis un revers de fortune :
-Vous allez trébucher du faîte du bonheur.
-Je vous ai fait, bon homme, espérer un honneur,
-Honneur que Jupiter ose à peine prétendre,
-De me loger chez vous, et de m'avoir pour gendre.
-Je viens vous avertir que c'est mon passe-temps
-De rendre quelquefois des pères bien contents,
-Leur faisant concevoir cette haute espérance.
-Mais j'ai pitié de vous, et de votre innocence.
-Sans vous faire languir dans l'espoir d'être heureux,
-De vos filles jamais je ne fus amoureux :
-Bon homme, supportez cette douleur extrême,
-Car je suis seulement amoureux de moi-même.
-
--*who_lysandre
 Tant s'en faut, grand Guerrier, si vous êtes content,
 Je n'en vois point ici qui ne le soit autant.
 Doncques peu d'entre vous veulent du mariage :
@@ -3415,3 +2780,4 @@ L'un attend toujours la mort de ses parents :
 Et l'autre plus heureux que tous les Conquérants,
 Demeure satisfait de sa valeur extrême,
 Et soit jusqu'au trépas amoureux de lui-même.
+

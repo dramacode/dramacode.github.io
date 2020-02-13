@@ -1,45 +1,893 @@
 
 
-**** *book_ *id_I01 *act_I *date_1665
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laurette
 
--*who_laurette
 Tu n'es donc pas content ? Vraiment c'est une honte.
 Je t'ai baisé deux fois.
 
--*who_champagne
-      Quoi ! Tu baises par compte ?
-Après un an d'absence, au retour d'un amant,
-Tu crois que deux baisers ce soit contentement ?
-
--*who_laurette
 Eh, mon Dieu, patience ! un de ces jours j'espère
 Que de moi sur ce point tu ne te plaindras guère.
 Mais parlons de mon maître, et sans déguisement.
 
--*who_champagne
-N'ai-je pas là-dessus écrit bien amplement ?
-
--*who_laurette
 Oui, qu'on t'avait fait faire en vain un grand voyage.
 Pour chercher ce bon homme et l'ôter d'esclavage,
 Et que n'en ayant pu trouver nulle clarté,
 Tu revenais enfin sans l'avoir racheté :
 À ce compte il est mort ?
 
--*who_champagne
+Comment rire ?
+
+      Qu'est-ce donc que tu crois ?
+
+      Le mieux du monde.
+
+C'est ta faute.
+
+      Oui, je te le proteste.
+
+      Va, je t'aime de reste.
+
+Tu ne saurais rien taire, et tu veux tout savoir ?
+Crois-tu que quand je garde avec toi le silence,
+Je ne me fasse pas beaucoup de violence ?
+Je suis fille, je t'aime, et me tais à regret.
+Ce m'est un grand fardeau, que le moindre secret :
+Mais j'ai trop éprouvé ton caquet invincible,
+Et ne m'y puis fier sans être incorrigible.
+
+Qui ? moi ?
+
+      Encor, quel secret pourrait-ce être ?
+
+Je ne puis donc prétendre à savoir ce mystère.
+
+Point, cela nest pour moi d'aucune conséquence.
+
+Point du tout, je croirai tout ce que tu voudras.
+
+C'est que le sang me bout, franchement, à t'entendre ;
+Si je sais tout cela, que sert de me l'apprendre ?
+
+Conte-moi simplement ce que je ne sais point.
+
+      Oui, dis donc.
+
+Comment ?
+
+      Laisse là ma maîtresse.
+Si l'on t'interrogeait...
+
+      Moi ! puis-je m'y connaître ?
+
+      Quelqu'un vient : c'est Acante ton maître.
+
+Vous nous trouvez causant, monsieur, Champagne et moi.
+
+      Avec même tendresse.
+
+On ne peut voir madame encor de quelque temps.
+Elle est à sa toilette.
+
+Ne retiendras-tu point ta langue babillard e ?
+
+Que la mère en ces lieux n'attire point vos pas ;
+Que la fille plutôt...
+
+C'est traiter un peu mal notre sexe à mes yeux.
+Les hommes, par ma foi, ne valent guère mieux;
+Et tel qui nous impute une inconstance extrême
+Souvent cherche querelle, et veut changer lui-même;
+Quand les traîtres sont las, messieurs font les jaloux.
+
+      Ce que j'en dis, monsieur, n'est pas pour vous.
+Isabelle, sans doute, agit d'une manière
+Qui fait voir qu'avec vous elle rompt la première;
+Et malgré ses mépris, malgré tous ses rebuts,
+Je ne jurerais pas que vous ne l'aimiez plus.
+
+      Oui, monsieur, qui s'habille :
+Un homme y vient d'entrer.
+
+      Qui vous craint fort peu ;
+Beau, jeune...
+
+      Déjà vous voilà tout en feu ?
+Il n'a que soixante ans, c'est monsieur votre père.
+
+      Eh ! Que pourrait-il faire ?
+Courbé sur son bâton, le bon petit vieillard
+Tousse, crache, se mouche, et fait le goguenard;
+Des contes du vieux temps étourdit Isabelle :
+C'est tout ce que je crois qu'il peut faire auprès d'elle.
+
+      Je le crois bien,
+Mais pour dire qui c'est, monsieur, je n'en sais rien.
+
+Il est vrai : ce cousin, respect la parenté,
+Est un jeune étourdi bouffi de vanité.
+Qui cache dans le faste, et sous l'énorme enflure
+D'une grosse perruque et d'une garniture.
+Le plus badin marquis qui vit jamais le jour,
+Et, pour tout dire enfin, un sot suivant la cour.
+
+Ah ! vous êtes, monsieur, encor bien amoureux !
+
+Quand on l'est malgré soi l'on l'est bien davantage;
+On ne m'y trompe pas, je m'y connais trop bien.
+
+Vraiment sans lui rien dire, elle en triomphe assez,
+Et vous raille en secret plus que vous ne pensez,
+Elle ne croit que trop que vous l'aimez encore.
+
+Ma foi, j'aurai beau dire, elle n'en croira rien :
+Elle tient votre coeur trop sûr sous son empire.
+
+Monsieur Champagne encore a deux mots à me dire.
+
+      Ah monsieur, avec moi, je vous prie.
+Trêve de compliment, et de cérémonie.
+
+Madame, en vérité, cette rigueur m'étonne;
+Quoi ! Vous, pour tout le monde et si douce et si bonne.
+Pour votre fille seule être rude à ce point ?
+
+      Je ne les conçois point :
+J'ignore d'où vous vient tant de haine pour elle;
+C'est une fille aimable...
+
+Est-ce là tout l'outrage ?...
+
+Il est vrai que le monde est plein de médisants ;
+Mais on peut être belle encore à quarante ans.
+
+Vous êtes trop bien faite, et c'est une chimère.
+
+Elle a tort en effet, je l'avoue avec vous :
+Mais on sait à ce mal le remède ordinaire;
+Faites-la d'un couvent au moins pensionnaire.
+Quoi ! vous hochez la tête ? Est-ce que vous doutez
+Qu'lsabelle ose rien contre vos volontés ?
+
+Elle ne vous fait pas tant de tort qu'il vous semble,
+On vous prend pour deux soeurs quand on vous voit ensemble.
+
+      Je vous parle avec sincérité.
+
+Vous ne fûtes jamais plus jeune ni plus belle;
+Surtout votre beauté paraît fort naturelle.
+
+      Il n'est rien plus certain.
+
+Vous savez, sans mentir, donner de bonne grâce :
+Votre fille, après tout, ne vous vaudra jamais.
+
+Elle est jeune, il est vrai ; mais, à faute de l'être,
+On peut s'en consoler quand on la sait paraitre :
+Votre fille n'a point vos secrets pour charmer.
+
+Les premières amours tiennent terriblement.
+Nous pouvons toutefois avoir quelque espérance :
+Mes ruses ont entre eux rompu l'intelligence.
+Et tous les faux rapports que j'ai faits jusqu'ici
+Nous ont, grâces au ciel, assez bien réussi.
+Ils ne se parlent plus.
+
+Vous avez le goût bon, on ne le peut nier,
+Et ce second époux vaudrait bien le premier;
+Mais c'est un grand dessein.
+
+      J'y ferai mon effort :
+Mais je trouve un obstacle à surmonter d'abord ;
+Touchant votre veuvage un scrupule peut naître.
+Vous êtes fort bien veuve, et l'on ne peut mieux l'être ;
+Votre mari, sans doute, est défunt, autant vaut ;
+Vous avez attendu plus de temps qu'il n'en faut :
+Après huit ans passés, sans qu'un mari se trouve,
+Une femme au besoin est même plus que veuvev;
+Il n'est rien de plus sûr, votre avocat l'a dit :
+Mais il est bon d'ôter tout soupçon de l'esprit.
+Toute peur d'un retour, et d'un remue-ménage,
+Si vous voulez qu'on pense à vous pour mariage.
+
+Champagne m'a promis d'être bientôt ici :
+Il faut voir si l'on peut gagner son témoignage.
+Et celui d'un vieillard qui sort de l'esclavage.
+
+C'est comme je l'entends, fiez- vous à mes soins :
+Afin de vous laisser garder la bienséance,
+Je ferai du dessein seule toute l'avance.
+Mais l'argent pour corrompre est un puissant moyen.
+
+Laissez-nous un peu seuls, vous reviendrez ensuite.
+
+Elle avait oublié de serrer quelque chose;
+Elle va l'enfermer, et doit sortir bientôt.
+
+      Brisons là, je te prie.
+Elle hait là-dessus à mort la raillerie;
+Elle est étrangement délicate en cela.
+Et ne croit nul outrage égal à celui-là.
+Je veux t'entretenir d'affaires d'importance.
+L'homme que tu m'as dit avoir conduit en France,
+Quel homme est-ce ?
+
+      Au fond,
+Est-ce un homme d'esprit ?
+
+Cela n'importe rien pour ce que j'en veux faire.
+Ma maîtresse a sans doute, à parler tout de bon.
+De se remarier grande démangeaison;
+Mais quoiqu'elle prétende être veuve à bon titre,
+Elle a quelque scrupule encor sur ce chapitre ;
+Et pour l'en délivrer, on l'obligerait fort,
+Si quelqu'un témoignait que sou mari fût mort.
+Crois-tu que ton vieillard pût rendre cet office ?
+Nous ferions bien valoir le prix d'un tel service.
+
+      Et surtout étant instruit par toi.
+
+Quoi, pour mentir un peu, te troubles-tu si fort ?
+Et serais-tu bien homme à si faible cervelle,
+Que de t'embarrasser pour une bagatelle ?
+Crois-moi, le plus grand vice est celui d'être gueux,
+Et ce n'est pas à nous d'être si scrupuleux;
+Un soin si délicat n'est pas à notre usage.
+La fourbe qui nous sert est notre vrai partage;
+Elle est pour nous sans honte, et jusqu'ici jamais
+La probité ne fut la vertu des valets :
+Les gens d'esprit surtout ont leur profit en tête.
+
+Pour un homme d'esprit peu de chose t'étonne.
+Tu diras que d'abord ne doutant point du choix
+Que ton maître avait fait d'Isabelle autrefois,
+Tu cachais cette mort, pour détourner la mère
+De donner à sa fille un importun beau-père;
+Mais, ton maître pour elle étant sans intérêt,
+Que tu dis franchement la chose comme elle est.
+
+Mon dieu ! Point: il est mort.
+
+Il n'a garde, crois-moi.
+
+Ma maîtresse revient, songe à ton personnage.
+
+Es-tu si simple encor ? Que rien ne t'inquiète.
+
+Quelle nouvelle ! Ah ! Ah !
+
+Je pleure, mais, hélas ! quand vous saurez de quoi.
+Vous pleurerez, madame, encor bien plus que moi.
+
+      Ah ! ma bonne maîtresse .
+C'est... Je ne puis parler, tant la douleur me presse.
+Monsieur Champagne... Hé là, faites-lui ce récit.
+Dites-lui tout.
+
+      Ce que vous m'avez dit.
+
+      À quoi bon ce mystère ?
+C'est par discrétion qu'il s'obstine à se taire.
+Il est vrai que d'abord un si cruel malheur
+Doit causer à madame une extrême douleur ;
+Mais puisque tôt ou tard il faut qu'elle l'apprenne.
+Le plus tôt vaut le mieux pour la tirer de peine :
+A la laisser languir, quel plaisir prenez-vous ?
+Que sert de lui cacher qu'elle n'a plus d'époux ?
+
+Ce coup assurément pour madame est sensible.
+La pauvre femme ! Hélas, sans doute elle perd bien !
+
+      Voyez quel est son zélé !
+Il voudrait vous cacher cette triste nouvelle.
+Vous devez à ses soins beaucoup certainement,
+Et vous m'aviez parlé d'un certain diamant...
+
+      La, prenez, sans façon.
+Son époux est-il mort ?
+
+      Parlez tout de bon ;
+Madame le souhaite, et n'a pas l'âme ingrate :
+Mais elle ne veut pas surtout que l'on la flatte ;
+De son mari, sans feinte, apprenez-lui le sort.
+
+      Comme la douleur l'accable et la possède,
+Un peu de solitude est son meilleur remède ;
+Laissons-la revenir, et va prendre le soin
+D'instruire le vieillard dont nous avons besoin.
+
+      Bon ? Tu te railles :
+C'est du pauvre défunt un présent d'épousailles.
+
+      Eh ! Mon maître, et tu doutes à tort..
+
+Je t'assure de tout; va, tu n'as rien à craindre.
+
+Madame, il est sorti, cessez de vous contraindre;
+Rendez grâces au ciel, tout va bien, tout nous rit.
+
+On n'en peut plus douter, à moins d'être incrédule.
+
+C'est sans difficulté : si c'est peu d'un témoin,
+Nous en aurons encore un second au besoin;
+Les dons faits à propos produisent des miracles.
+
+Quel ?
+
+      Eh ! Qu'appréhendons-nous ?
+Le bon homme vous aime, et tout lui plaît de vous.
+
+Ce dessein nous pourrait, sans doute, embarrasser;
+Mais pourrait-il bien être en état d'y penser,
+À son âge ?
+
+Qui, lui vous épouser ? Ce serait conscience :
+Vieil, usé comme il est, et déjà demi-mort,
+Pourrait-il bien vouloir vous faire un si grand tort ?
+Après d'un vieux mari la longue et triste épreuve,
+Puisqu'en très bonne forme enfin vous voila veuve.
+C'est bien le moins, vraiment, que vous puissiez pour vous.
+Que d'oser faire aussi le choix d'un jeune époux,
+Et de connaître un peu, par votre expérience,
+Du jeune et dit vieillard quelle est la différence.
+
+      Mon dieu, non.
+Mais voici le bonhomme, il faut changer de ton.
+
+Venez m'aider, monsieur, à consoler madame.
+
+      La douleur la perce jusqu'à l'âme.
+
+La mort de son mari.
+
+Champagne, qui l'assure, est homme irréprochable.
+
+      Au seul nom d'époux son mal semble s'aigrir.
+
+Si ce n'est que cela, vous pourriez bien lui dire...
+
+Je sais l'art de fourber assez bien, Dieu merci.
+Mais dans le cabinet vous seriez mieux qu'ici.
+
+Eh bien ! Que voulez-vous ? Si vous perdez un père,
+Ce n'est pas d'aujourd'hui, vous n'y sauriez que faire;
+Des regrets des vivants les morts ne sont pas mieux :
+Parlons donc d'autre chose, et ressayez vos yeux.
+
+      Fort longtemps.
+
+      Lui ! Pense-t-il à vous ?
+
+      Rien que de votre mère ;
+Il m'a fait voir pour elle un grand empressement.
+
+      Pas un mot seulement;
+De votre mère seule il m'a parlé sans cesse.
+J'ai tourné le discours sur vous avec adresse,
+Dit vingt fois votre nom.
+
+Il n'a pas fait semblant d'avoir rien entendu.
+
+Beaucoup d'argent comptant, un bien considérable,
+C'est un charme bien doux aux yeux de bien des gens.
+Vous ne serez en âge encor de très longtemps;
+Votre père étant mort, tout est en sa puissance :
+Comme je vous l'ai dit, elle en a l'assurance;
+Et, de l'humeur qu'elle est, vous devez peu douter
+Qu'un jeune époux s'offrant n'ait de quoi la tenter.
+
+      Que fait cela pour vous ?
+Si vous ne l'aimez plus, quel soin vous inquiète ?
+
+Comment ! auriez-vous bien assez de lâcheté
+Pour ne vous venger pas de sa légèreté ?
+Quoi ! vous constante encor pour un homme qui change ?
+Aurait-on vu jamais faiblesse plus étrange ?
+Un homme changerait; et vous, pleine d'appas,
+Fière, vous fille enfin, vous ne changeriez pas ?
+Laisser sur notre sexe avoir cet avantage ?
+
+C'est cela qui le rend encore avec raison
+Plus coupable envers vous après sa trahison ;
+C'est ce qui doit pour lui redoubler votre haine.
+
+Quoi ! vous flatteriez-vous assez pour en douter ?
+
+Vous pourriez vous flatter d'une erreur si honteuse ?
+Son infidélité pour vous n'est plus douteuse :
+Tout ce qu'on vous a dit vous en doit assurer.
+
+Mon dieu ! jusqu'où l'amour séduit un jeune coeur !
+Je m'étais bien de vous promis plus de courage.
+
+Quoi ! le voir ?
+
+Je rougis de vous voir faible encore à ce point.
+
+Ce serait vous trahir que de les excuser.
+
+Je veux prendre ce soin encor par charité ;
+Ne confiez hors moi ce billet à personne.
+
+      Eh ! oui, je suis trop bonne ;
+Vous me persuadez toujours ce qu'il vous plaît,
+Et si, vous le savez, c'est sans nul intérêt.
+
+      Est-ce là cette lettre ?
+
+      Ah ! gardez bien d'en mettre.
+Votre ingrat peut montrer ce billet aujourd'hui,
+Vous pourriez au besoin nier qu'il fut pour lui :
+Nous ne saurions chercher, dans le siècle où nous sommes.
+Trop de précautions contre les traîtres hommes j
+Ils sont si vains !
+
+Ah ! Croyez-moi, j'en sais là-dessus plus que vous;
+Vous n'avez pas encore assez d'expérience.
+Rentrez, laissez-moi faire.
+
+Oui, j'aurai bientôt fait, n'ayez aucun souci.
+
+      J'entends.
+
+      Vous m'arrêtez vous-même.
+
+      Encor ? Rentrez. Qu'on est sot quand on aime !
+
+Eh bien ?
+
+Mille écus ?
+
+Le scrupule est fort bon; mais il faut aujourd'hui.
+Quoi qu'il coûte pourtant, nous assurer de lui :
+Tu n'as qu'à l'amener, je prendrai soin du reste-
+Dis-moi, que fait ton maître ?
+
+Il peste ! Et contre qui ?
+
+Eh ! N'a-t-il point de honte ?
+
+      Les amants sont bien lâches !
+
+      Moi ! Qu'aurais-je ?
+
+Mon dieu ! Que tu vois clair !
+
+      Oh !
+
+Ah ! Que les gens si fins sont quelquefois fâcheux !
+
+      Tu devines.
+
+      Sans contredit.
+
+      Voici ton jeune maître.
+
+Le trouble de son coeur parait jusqu'en ses yeux.
+
+Savez-vous les ennuis où madame est plongée,
+Monsieur ?
+
+      Elle est bien affligée.
+
+      Vous êtes des amis,
+Et je crois que pour vous, monsieur, tout est permis.
+Vous la consolerez.
+
+Non, non, ne craignez point d'y trouver Isabelle ;
+De son défunt mari c'est un vivant portrait.
+Qui renouvelle trop la perte qu'elle fait :
+Madame, en la voyant, d'ennuis est trop outrée ;
+Seule en son cabinet elle s'est retirée.
+
+      Nullement.
+
+Eh ! monsieur, croyez-moi, parlez-nous sans finesse;
+Vous cherchez Isabelle, et non pas ma maîtresse :
+Avouez sans façon ce qu'aisément je vois.
+
+Moi ! Qu'aurais-je à vous dire ? Il ne m'importe guère ;
+Chacun peut en ce monde aimer à sa manière,
+Et je n'ai pas dessein, par mes raisonnements,
+De vouloir réformer les erreurs des amants.
+
+Je ne me mêle plus de conseiller personne :
+Les plus sages conseils, les meilleures leçons,
+À gens bien amoureux, monsieur, sont des chansons.
+
+Il parle sans savoir.
+
+      Eh ! monsieur, il se raille,
+
+      Qui ! Moi ? c'est que je bâille.
+
+      Que sait-il ce qu'il dit ?
+Il s'est mis, malgré moi, cette erreur dans l'esprit :
+Croyez sur mon honneur...
+
+J'aurais pour le marquis un billet ?
+
+      Eh ! que voulez- vous ?
+
+      Comment...
+
+Tu me trahis ainsi !
+
+Ne croyez pas, monsieur, que jamais je permette...
+
+Je ne suis que trop sotte, et tu le sais trop bien.
+
+      Eh ! que veux-tu qu'il die ?
+Il est tout interdit de cette perfidie.
+
+D'ordinaire en amour, Monsieur, l'esprit s'égare,
+Et le goût d'une fille est quelquefois bizarre :
+Souvent le vrai mérite, avec tous ses appas,
+Lui plaît moins que l'éclat, le faste, et le fracas :
+Un marquisat enfin est un charme admirable.
+
+      Il n'importe, ou vrai marquis, ou non,
+S'il épouse Isabelle, elle aura ce grand nom,
+Un grand train, et surtout, comme c'est la coutume,
+Un page à lui porter la queue en grand volume.
+
+Tâchez d'aimer ailleurs, c'en est le vrai moyen.
+
+Ce n'est pas là de vous ce que l'on craint le plus.
+Et si j'osais vous dire un secret là-dessus...
+
+Peut-être que son père aussi l'enterrera;
+Je ne fais pas grand fond sur la foi d'un peut-être.
+Mais pour l'amour de toi je veux servir ton maître.
+Je connais Isabelle, et jusqu'au fond du coeur;
+La crainte d'un beau-père est sa mortelle peur,
+Et le plus grand dépit que vous lui pourriez faire
+Serait de témoigner d'en vouloir à sa mère :
+Si rien peut la piquer, ce doit être cela.
+
+Peut-être : le dépit fait quelquefois miracle.
+Du moins à son amour vous pourriez mettre obstacle.
+Et, comme son beau-père, il dépendrait de vous
+D'empêcher le marquis de se voir son époux.
+
+      Où ?
+
+Ah ! si vous m'en croyiez, vous ne la verriez pas.
+
+      Pour vous encor j'appréhende sa vue.
+
+En fait d'amour, monsieur, ne répondons de rien.
+
+Mais l'incivilité, monsieur, serait extrême
+De vouloir l'outrager jusqu'en sa chambre même
+Aussi bien vous pourriez le vouloir vainement ;
+Elle n'y sera pas pour vous assurément.
+
+      Attendez, j'espère agir de sorte,
+Que sans aucun soupçon je ferai qu'elle sorte.
+
+      Et son billet, ne le rendez- vous pas ?
+
+      Tu vois, à ma honte.
+Ce que je fais pour toi.
+
+Je viens vous avertir que voici votre père.
+
+      Il vient ici, je crois, dix fois par jour.
+Il ne veut point du tout approuver votre amour ;
+Il vous a défendu l'entretien d'Isabelle,
+Et vous ferait beau bruit, vous trouvant avec elle.
+Sans doute, en lui parlant, il vous eût rencontré.
+
+Ne faites point, monsieur, là-dessus votre compte :
+C'est par cet escalier que d'ordinaire il monte;
+Il le trouve commode, et l'autre lui déplaît.
+
+Songez à votre père, il monte.
+
+C'est dommage, il est vrai, qu'elle soit infidèle.
+Mais qu'attendez-vous tant ? Qu'on vous vienne gronder ?
+
+      Et le billet, voulez-vous le garder ?
+
+      Cachez bien vos faiblesses,
+On vous observe, au moins.
+
+      Fort bien, en vingt pièces.
+
+Vous voyez.
+
+Que vous avais-je dit ?
+
+Pourquoi ? Vous le vouliez.
+
+Le remède est facile, après tout.
+
+D'un billet sans adresse on se sauve aisément ;
+Dites, pour réparer et ma faute et la vôtre.
+Que vous aviez écrit ce billet à quelque autre.
+
+      À qui ? N'importe.
+
+      Au premier venu, par exemple, au marquis.
+
+      Ah ! Monsieur, laissez-la;
+La pauvre fille est mal.
+
+Le plus grand mal de coeur qu'elle ait eu de sa vie :
+Entre nous, tout répond, monsieur, à notre envie.
+
+Je viens de leur jouer un tour de ma façon ;
+Mais pour les brouiller mieux, je veux encor plus faire;
+Le marquis pour cela nous serait nécessaire.
+
+Allons trouver madame, et je vous dirai tout.
+
+Au moins n'en dis rien.
+
+C'est lui qui le dernier en doit être éclairci :
+Je suis bien simple encor de te tout dire ainsi.
+
+      Ton babil est terrible.
+Ne dis donc rien.
+
+À propos, dis-moi donc, quand viendra ton vieillard ?
+
+Vous riez ?
+
+Chacun n'en a pas ri.
+
+Isabelle est encor si faible qu'elle l'aime :
+Mais j'ai tout de nouveau si bien su l'éblouir.
+Que cet excès d'amour ne sert qu'à la trahir.
+Au lieu qu'à son déçu j'ai crû vous introduire.
+Elle y consent.
+
+      Je vais vous en instruire :
+J'ai voulu la revoir pour souder son courroux;
+J'ai feint que vous aviez querelle Acante et vous,
+Que vous deviez vous battre, et dès ce soir peut-être;
+Que ce combat pourrait la venger de son traître;
+Qu'elle en devait attendre ou sa fuite ou sa mort.
+Je l'ai vue à ces mots interdite d'abord :
+Son âme, où la tendresse est soudain revenue,
+De son nouveau dépit ne s'est plus souvenue,
+Et, quoi que la vengeance ait pu lui conseiller,
+L'amour, qui semblait mort, n'a fait que s'éveiller.
+La voyant à ce point de ce combat émue.
+J'ai voulu profiter du trouble où je l'ai vue;
+J'ai ménagé sa peur.
+
+      Écoutez jusqu'au bout :
+J'ai dit qu'un sûr moyen d'accorder la querelle,
+Ce serait d'essayer de vous mener chez elle,
+Afin qu'elle vous pût amuser quelque temps
+Pour me donner loisir d'avertir vos parents.
+Dans le panneau d'abord elle a donné sans peine :
+Ainsi de son aveu chez elle je vous mène.
+De savoir nos desseins ne faites pas semblant.
+
+C'est à votre cousin surtout qu'il faut songer.
+
+Mais...
+
+      Pour l'aigrir davantage...
+
+      Eh ! je sais bien que vous avez un page.
+
+      Quel est cet équipage ?
+Pourquoi s'envelopper de ce grand manteau gris ?
+
+Quel prix ?
+
+      Champagne en prendra soin,
+c'est un valet zélé, mais à tromper facile,
+Et dupe d'autant plus, qu'il se tient fort habile.
+Et qu'il croit m'attraper lors même qu'il me sert,
+Bien mieux que s'il était avec moi de concert :
+Son faible est de l'humeur dont je l'ai su connaître.
+De se faire de fête en faveur de son maître ;
+Il cherche à lui conter toujours quelque secret,
+Et le trahit souvent par un zèle indiscret.
+Il prétend qu'il n'est rien que je ne lui confie,
+Et j'ai pris soin qu'il sût ce que je veux qu'il die;
+J'ai feint de craindre fort que son maître en sût rien.
+Exprès .. Voyez, monsieur, si je le connais bien.
+
+      Qui heurte ici ?
+
+      Vous, monsieur ? Excusez, s'il vous plaît ;
+J'ai charge, si c'est vous, de refermer la porte.
+
+Quel galant ?
+
+Voici de notre ami quelque pièce nouvelle.
+
+Qu'aurait-il pu savoir de ton babil extrême ?
+
+      Quoi ?
+
+Quel rendez-vous ? Comment ! qu'oses-tu supposer ?
+
+En bonne foi, monsieur, c'est lui qui vous abuse.
+
+      Que ne parles-tu mieux
+D'une fille d'honneur ?
+
+Qu'auriez-vous vu, monsieur ?
+
+C'est... J'ai... Je...
+
+      Eh, Monsieur ! Ne soyez pas si prompt ;
+Quelle gloire aurez-vous de lui faire un affront ?
+De faire un tort mortel à l'honneur d'une fille.
+Si sage jusqu'ici, de si bonne famille;
+De plus, qui vous fut chère ? Enfin, songez-y bien,
+Vous êtes honnête homme, et vous n'en ferez rien :
+Un mépris généreux, s'il vous était possible,
+Serait pour vous plus beau, pour elle plus sensible.
+
+      C'est monsieur qui m'arrête en ces lieux.
+
+Tandis que j'aurai soin d'amuser sa colère,
+Vous ferez bien d'aller avertir votre mère.
+
+Elle a hâte, monsieur, et madame l'attend.
+
+Non, monsieur. Souffrez-vous qu'ainsi l'on vous amuse ?
+
+Mon dieu ! Vous vous ferez crier par votre mère ;
+D'un éclaircissement vous vous passerez bien.
+
+Te prendrai soin, monsieur, sitôt qu'il sera nuit,
+De le faire sortir sans scandale et sans bruit.
+Fût-il déjà bien loin ! Si l'on m'en avait crue,
+Isabelle en secret n'eût point souffert sa vue,
+N'eût jamais accordé ce rendez-vous maudit.
+Enfin pour l'empêcher, Dieu sait ce que j'ai dit;
+Mais elle m'a parlé d'une façon si tendre.
+Que ma sotte bonté ne s'en est pu défendre :
+Je suis trop complaisante, et je m'en veux du mal.
+
+Tout comme il vous plaira; j'y consens : mais de grâce,
+Que la chose entre vous avec douceur se passe.
+Jugez ce qu'on croirait, si vous faisiez éclat :
+Le monde est si méchant, l'honneur si délicat.
+De ce qui s'est passé la moindre connaissance
+Peut faire étrangement parler la médisance :
+Les méchants bruits surtout ont cela de mauvais,
+Que les taches qu'ils font ne s'effacent jamais;
+Et si vous épousiez quelque jour Isabelle...
+
+Si je puis vous servir pour épouser sa mère,
+Je vous offre mes soins, et sans déguisement...'
+
+Non, monsieur, que je sache. Il est vrai, ma maîtresse
+Tente moins que sa fille, et n'a pas sa jeunesse,
+Son éclat, sa beauté : mais, au lieu de cela,
+Si vous saviez, monsieur, les beaux louis qu'elle a,
+Les écus d'or mignons, et le nombre innombrable
+De grands sacs déçus blancs.
+
+Monsieur sait tout, madame, et chérit la famille;
+Il a fait compliment pour vous à votre fille ;
+Vous l'a-t-elle pas dit ?
+
+Si ces noeuds sont rompus, il en est de plus doux
+Qui pourraient renouer l'alliance entre vous.
+Monsieur peut rencontrer dans la même famille
+De quoi se consoler des mépris de la fille;
+Et madame, voyant monsieur mal satisfait,
+Peut réparer le tort que sa fille lui fait :
+Vous êtes en état tous deux de mariage.
+
+Sage ou non, croyez-moi tous deux à cela près :
+Pour monsieur, j'en réponds, je sais ses voeux secrets;
+Il souhaite ardemment une union si belle.
+C'est vous qu'il veut aimer, c'est vous...
+
+Non : c'est lui faire tort; cela n'est pas croyable.
+Quoi que lui fasse dire un transport de courroux.
+Monsieur assurément ne veut songer qu'à vous.
+
+      C'est fort bien fait à vous.
+
+Par où donc allez-vous ?
+
+      Vous, du même moment,
+Tâchez de profiter d'un premier mouvement ;
+Pour le père d'Acante engagez Isabelle.
+
+      Je l'attends.
+Et vous verrez bientôt tous vos désirs contents.
+
+      Comment hélas ! Pour vous rendre contente,
+Que vous faut-il de plus que d'épouser Acante ?
+
+      Prenez-vous garde à cela de si près ?
+Épousez-le toujours.
+
+Rien n'est encore fait, et c'est à vous à voir :
+Si vous voulez tout rompre, un mot pourra suffire;
+Vous n'avez...
+
+Tâchons donc d'achever ; tout commence assez bien.
+
+L'avez-vous vu, monsieur ?
+
+L'ami Champagne au guet pour avertir sou maître.
+Il veut vous voir sortir : souvenez-vous donc bien,
+S'il vient à vous parler...
+
+J'entends quelqu'un, adieu.
+
+Que me donnerez-vous pour l'avis que j'apporte ?
+
+Est-ce ainsi qu'on reçoit qui vient vous rendre heureux ?
+
+      Je n'en fais plus mystère,
+J'ai fait pour vous brouiller tout ce que j'ai pu faire,
+Mis le marquis en jeu pour y mieux réussir;
+Mais qui vous a brouillés veut bien vous éclaircir.
+
+      Eh pourquoi, je vous prie ?
+Est-ce une honte à moi qu'un peu de fourberie ?
+N'est-ce pas mon devoir ?
+
+      En effet,
+Que pouvez-vous blâmer en tout ce que j'ai fait ?
+Je n'ai qu'exécuté l'ordre de votre mère :
+Votre amant, par malheur, avait trop su lui plaire.
+Sans doute elle avait tort de vous l'oser ravir;
+Mais c'était ma maîtresse, et j'ai dû la servir.
+
+Allez, le mal n'est pas si grand que vous le faites;
+L'amour n'est que plus doux après ces démêlés,
+Et l'on s'en cdme mieux, de s'être un peu brouillés.
+
+Je viens faire cesser et sa peine et la vôtre.
+Mais il faut composer pour un avis si doux:
+J'entends qu'il me remette en grâce auprès de vous.
+
+      J'entends qu'aussi monsieur soit sans colère
+Pour notre ami Champagne.
+
+Le vieillard que Champagne avait conduit en France,
+Que ma maîtresse avait fait pratiquer par nous,
+Pour venir assurer la mort de son époux,
+Pour ses péchés, sans doute, et pour sa honte extrême,
+Au lieu d'un faux témoin, est son époux lui-même.
+
+      Oui, c'est mon maître : il est fort irrité
+De l'oubli de madame en sa captivité.
+De se faire connaître il a su se défendre.
+Exprès pour la confondre, et pour la mieux surprendre :
+Votre bonheur est sûr par cet heureux retour.
+
+Un amour de vieillard aisément se surmonte :
+Mon maître là-dessus l'a tant comblé de honte,
+L'a si bien chapitré, qu'au point qu'il est confus.
+Quand il voudrait vous nuire, il ne l'oserait plus;
+Il faut qu'il tienne enfin sa parole donnée,
+Et mon maître au plus tôt veut voir votre hyménée.
+
+      Eu transports ne perdez point de temps ;
+Venez trouver celui qui vous rendra contents.
+Il brûle de vous voir, et lui-même m'envoie...
+
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
+
+      Quoi ! Tu baises par compte ?
+Après un an d'absence, au retour d'un amant,
+Tu crois que deux baisers ce soit contentement ?
+
+N'ai-je pas là-dessus écrit bien amplement ?
+
       Cela ne veut rien dire,
 Et ta maîtresse encor n'a que faire de rire.
 
--*who_laurette
-Comment rire ?
-
--*who_champagne
       Oh ! que non.
 
--*who_laurette
-      Qu'est-ce donc que tu crois ?
-
--*who_champagne
 Mais toi, tu me crois donc un sot comme autrefois ?
 Je ne l'étais pas tant que tu l'aurais pu croire.
 Quand je te dis adieu... si j'ai bonne mémoire,
@@ -48,10 +896,6 @@ Comme je te faisais mon petit compliment,
 T'assurais de mon mieux d'une ardeur sans seconde,
 Eh ! Je m'en acquittai, je crois...
 
--*who_laurette
-      Le mieux du monde.
-
--*who_champagne
 Ta maîtresse survint, qui nous fit séparer,
 Avec elle en sa chambre elle te fit entrer;
 Et, chagrin de nous voir séparés de la sorte,
@@ -71,34 +915,12 @@ Mais ou vint à sortir de la chambre prochaine ;
 J'eus peur d'être surpris, et je vois à regret
 Que tu n'as pas voulu m'avouer ce secret.
 
--*who_laurette
-C'est ta faute.
-
--*who_champagne
       Ma faute ?
 
--*who_laurette
-      Oui, je te le proteste.
-
--*who_champagne
 Si tu m'aimais assez. . .
 
--*who_laurette
-      Va, je t'aime de reste.
-
--*who_champagne
 Quel secret entre amants doit-on jamais avoir ?
 
--*who_laurette
-Tu ne saurais rien taire, et tu veux tout savoir ?
-Crois-tu que quand je garde avec toi le silence,
-Je ne me fasse pas beaucoup de violence ?
-Je suis fille, je t'aime, et me tais à regret.
-Ce m'est un grand fardeau, que le moindre secret :
-Mais j'ai trop éprouvé ton caquet invincible,
-Et ne m'y puis fier sans être incorrigible.
-
--*who_champagne
 Va, va, j'ai vu le monde, et je suis bien changé;
 Si j'eus quelque défaut, je m'en suis corrigé.
 Je sais comme il faut vivre, et vivre avec adresse :
@@ -106,39 +928,19 @@ Je reviens du pays des sept sages de Grèce;
 Et pour te faire voir que je me tais fort bien.
 Je sais un grand secret dont tu ne sauras rien.
 
--*who_laurette
-Qui ? moi ?
-
--*who_champagne
       Toi-même.
 
--*who_laurette
-      Encor, quel secret pourrait-ce être ?
-
--*who_champagne
 Un secret qui me perd, s'il est su de mon maître :
 Son vieux père, surtout, fâcheux au dernier point,
 Est homme là-dessus à ne pardonner point.
 
--*who_laurette
-Je ne puis donc prétendre à savoir ce mystère.
-
--*who_champagne
 N'était que tu croirais que je ne me puis taire,
 Vois-tu, je t'aime assez pour ne te rien celer;
 Mais tu m'accuserais encor de trop parler.
 
--*who_laurette
-Point, cela nest pour moi d'aucune conséquence.
-
--*who_champagne
 Je yeux savoir garder désormais le silence;
 Et si je te dis tout, peut-être tu croiras...
 
--*who_laurette
-Point du tout, je croirai tout ce que tu voudras.
-
--*who_champagne
 Tu sais quelle amitié de tout temps fit paraître
 L'époux de ta maîtresse au père de mon maître;
 Qu'ils étaient grands amis, n'étant encor qu'enfants.
@@ -156,39 +958,17 @@ Pour chercher et tirer son ami d'esclavage.
 Je fus, comme tu sais, m'embarquer pour cela :
 Tu sais enfin. Comment ! Quels gestes fais-tu là ?
 
--*who_laurette
-C'est que le sang me bout, franchement, à t'entendre ;
-Si je sais tout cela, que sert de me l'apprendre ?
-
--*who_champagne
 Je t'ai voulu conter le tout de point en point.
 
--*who_laurette
-Conte-moi simplement ce que je ne sais point.
-
--*who_champagne
 Donc... au moins.
 
--*who_laurette
-      Oui, dis donc.
-
--*who_champagne
       Veux-tu que je te die ?
 Je n'ai, ma foi, jamais été jusqu'en Turquie.
 
--*who_laurette
-Comment ?
-
--*who_champagne
       Un vent fâcheux à Malte nous jeta,
 Où d'un certain vin grec le charme m'arrêta :
 Ta maîtresse aussi bien...
 
--*who_laurette
-      Laisse là ma maîtresse.
-Si l'on t'interrogeait...
-
--*who_champagne
       Me crois-tu sans adresse ?
 Un vaisseau turc fut pris, un esclave chrétien,
 Français, et pas trop sot pour un Parisien,
@@ -198,56 +978,261 @@ Je l'ai par charité jusqu'à Paris conduit,
 Et du pays des Turcs il m'a fort bien instruit.
 Veux-tu voir si je sais...
 
--*who_laurette
-      Moi ! puis-je m'y connaître ?
-
--*who_champagne
 N'importe.
 
--*who_laurette
-      Quelqu'un vient : c'est Acante ton maître.
-
-**** *book_ *id_I02 *act_I *date_1665
-
--*who_laurette
-Vous nous trouvez causant, monsieur, Champagne et moi.
-
--*who_acante
-Vous vous aimez tous deux à ce que je connais.
-
--*who_champagne
 Eh ! Pourquoi non, monsieur ?
 
--*who_laurette
-      Avec même tendresse.
-
--*who_acante
-Que vous êtes heureux ! Mais voit-on ta maîtresse ?
-
--*who_laurette
-On ne peut voir madame encor de quelque temps.
-Elle est à sa toilette.
-
--*who_acante
-      Il suffit, et j'attends.
-
--*who_champagne
 C'est-à-dire, entre nous, que madame se farde.
 
--*who_laurette
-Ne retiendras-tu point ta langue babillard e ?
-
--*who_champagne
 Eh ! ce n'est qu'entre nous.
 
--*who_acante
+      Là, dis.
+
+Serait-ce point...
+
+      Attendez, que j'y pense..
+Le marquis ?
+
+N'importe, il est marquis; c'est ainsi qu'on le nomme,
+Et ce titre parfois rajuste bien un homme.
+
+Ni vous non plus, monsieur, lorsque vous étiez page.
+
+      Vous l'étiez plus que moi.
+
+      Ouf ! Vous m'étranglez, ma foi.
+
+D'où vient que ta maîtresse évite de me voir ?
+Va-t-elle dire encor deux mots à son miroir ?
+De ses ingrédients grossir un peu la dose ?
+
+Son visage de jour est donc fait comme il faut ?
+Et sa beauté d'emprunt...
+
+      Un vieillard assez chagrin.
+
+      D'esprit, je t'en répond.
+Mais touchant sa famille, il s'obstine à se taire...
+
+Oui, je le tiens, s'il veut, fort propre à cet emploi;
+C'est sans doute...
+
+À gagner ce témoin aisément je m'engage.
+Si tu voulais y joindre aussi ton témoignage,
+Ce serait encor mieux.
+
+      Moi ! faire un faux rapport ?
+
+Le scrupule n'est pas aussi ce qui m'arrête.
+Hier, lorsque j'arrivai, quand j'y songe d'abord,
+Je dis que j'ignorais si ton maître était mort;
+Comment dire autrement sans que l'on me soupçonne ?
+
+Cela m'est comme à toi venu dans la pensée;
+Mais d'un autre souci j'ai l'âme embarrassée :
+Si ton maître à la fin revenait du Levant ?
+
+      Mais s'il était vivant ?
+
+      Je songe où je m'engage.
+
+J'y vois trop de péril, et tu m'obligeras
+De ne me point mêler dans tout cet embarras.
+
+      Quoi ! tout ?
+
+Moi ! Je n'ai rien à dire.
+
+Ne vous fâchez pas tant, madame, il n'en est rien.
+
+      Eh !
+
+Puisque vous le voulez, madame, il est donc mort.
+
+Le diamant est bon, au moins ?
+
+Quel défunt ?
+
+Enfin, s'il n'est pas bon, le défunt n'est pas mort.
+
+Je sors d'avec notre homme, et d'un long entretien.
+
+      D'abord le traître a fait l'homme de bien,
+M'a prêché la vertu, l'honneur à toute outrance,
+Et contre ta maîtresse a pesté d'importance :
+Mais enfin mes raisons ont si bien réussi,
+Que mille écus offerts l'ont un peu radouci.
+
+      Il veut même avoir l'argent d avance,
+Et de mentir à moins il ferait conscience.
+
+      Il se tourmente, il peste.
+
+      Contre un amour maudit.
+Qui lui fera, je crois, bientôt tourner l'esprit.
+Il ne peut, quoi qu'il fasse, oublier Isabelle :
+Il a beau s'efforcer d'être inconstant comme elle;
+Plus il y tâche, et moins il en a le pouvoir.
+
+      Il est au désespoir ;
+Il aime avec regret, sa honte en est extrême;
+Il s'en blâme, il s'en dit cent pouilles à lui-même,
+Se battrait volontiers de rage qu'il en a ;
+Mais il ne laisse pas d'aimer pour tout cela :
+Il est ensorcelé.
+
+Qu'as-tu là ?
+
+      Un billet que tu caches.
+
+      Je suis dépaysé;
+Vois-tu ? J'ai de bons yeux, et suis un peu rusé.
+J'ai vu, comme j'entrais, retirer Isabelle,
+Et je gagerais bien que ce billet est d'elle,
+Qu'au rival de mon maître...
+
+      Gageons, si tu veux.
+
+Ce poulet va sans doute au marquis ?
+
+Nous démêlons un peu les ruses les plus fines;
+Les voyages font bien les gens.
+
+Mais surtout le vin grec ouvre bien un esprit :
+Dès que j'en eus tâté je le sus bien connaître.
+Aussi je m'en donnais...
+
+Qu'ai-je dit ? son amour le ramène en ces lieux.
+
+Si vous saviez quel est votre rival indigne !
+
+      Laurette me fait signe.
+
+      Je sais tout, et fort bien ;
+Mais elle ne veut pas que je vous dise rien.
+
+Pourquoi ne veux-tu pas me laisser découvrir
+Ce qui pourrait aider monsieur à se guérir ?
+N'aura-t-il pas sujet de haïr Isabelle,
+S'il sait que le marquis tient sa place auprès d'elle ?
+
+      Penses-tu qu'on te croie ?
+Et certain billet doux qu'au marquis elle envoie,
+Que tu portes toi-même, est-ce erreur que cela ?
+
+Le voilà.
+
+      Il ne veut que le lire,
+Laisse faire monsieur.
+
+      Laissez-la dire.
+
+      Le grand tort qu'on te fait !
+
+Eh ! pour l'amour de moi, si tu m'aimes, Laurette...
+Elle consent, monsieur, puisqu'elle ne dit rien.
+
+Oui, tu m'aimes beaucoup, je n'en suis point en doute :
+Aussi de mon côté... Mais il va lire, écoute.
+
+      Eh bien ! Qu'en dites-vous,
+Monsieur ?
+
+      Le style est assez doux.
+Vous ne nous dites rien ?
+
+Monsieur est libéral, mais il n'a pas le double :
+Peut-être quelque jour que son père mourra.
+
+      Va.
+
+      Va, je t'en tiendrai compte.
+Sans vanité, monsieur, nous avons réussi ;
+Vous voilà par mes soins assez bien éclairci.
+
+Jusque-là du marquis Isabelle est éprise !
+Je ne l'aurais pas cru, j'avouerai ma surprise.
+Tu dis que dans sa chambre, et sans témoins, ce soir
+Ce galant a reçu rendez-vous pour la voir ?
+
+      Moi ? Tu me sais mal connaître ;
+Je meure, si jamais j'en dis rien qu'à mon maître.
+
+Eh ! Ne te fâche pas.
+
+      Bien, va, j'y ferai mon possible.
+
+Il viendra, sans manquer, dans une heure au plus tard.
+Mais voici le marquis ; adieu, je me retire.
+
+C'est lui : nous arrivons, monsieur, à la bonne heure.
+
+      Monsieur, que voulez-vous ?
+
+Mais, monsieur.
+
+      Ils ont peut-être affaire :
+Les mystères d'amour doivent être cachés.
+
+      C'est qu'ils sont empêchés.
+Voyez par le trou. Bon.
+
+Vous n'avez donc rien vu qui vous plaise, à ce compte ?
+
+      Quoi donc ? qui peut tant vous troubler ?
+
+Vous avez douc, monsieur, vu chose bien terrible ?
+
+Où ?
+
+Voyez-vous la rusée avec son innocence !
+Diable !
+
+      Un peu de patience.
+On vient.
+
+      Ne vois-tu pas qui c'est ?
+
+Je n'ai pu m'en tenir, j'ai tout dit. Que veux-tu ?
+J'aurais trahi monsieur, s'il n'en avait rien su.
+
+Eh...
+
+      Le rendez-vous que j'ai su de toi-même.
+
+Tu me démentirais ?
+
+      Que dis-tu de cela ?
+Explique-nous un peu quelle affaire il a là.
+Avec ton bel esprit tu ne sais que répondre.
+
+      Tu ne fais, ma foi, que te confondre.
+Crois-moi, fais mieux; avoue.
+
+Elle est au désespoir. Laurette l'a bien dit :
+Vous ne lui pouviez pas faire un plus grand dépit j
+Elle sort tout outrée, et l'atteinte est cruelle.
+
+      Peste ! Qu'elle est aimable !
+Épousez-la, monsieur, s'il se peut, dès ce soir.
+
+Moquez-vous d'Isabelle, et de son inconstance.
+
+      Monsieur !
+
+On aurait là-dedans quelque chose à vous dire.
+
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acante
+
+Vous vous aimez tous deux à ce que je connais.
+
+Que vous êtes heureux ! Mais voit-on ta maîtresse ?
+
+      Il suffit, et j'attends.
+
       Que dites-vous tout bas ?
 
--*who_laurette
-Que la mère en ces lieux n'attire point vos pas ;
-Que la fille plutôt...
-
--*who_acante
       Quoi ! L'ingrate Isabelle ?
 Je l'aimais, je l'avoue, et d'une ardeur fidèle :
 Dès mes plus jeunes ans je m'en sentis charmé.
@@ -263,247 +1248,65 @@ Du penchant naturel qu'a son sexe à changer;
 Mais l'ingrate, au mépris d'un feu tel que le nôtre.
 Est changeante, sans foi, fille enfin comme une autre.
 
--*who_laurette
-C'est traiter un peu mal notre sexe à mes yeux.
-Les hommes, par ma foi, ne valent guère mieux;
-Et tel qui nous impute une inconstance extrême
-Souvent cherche querelle, et veut changer lui-même;
-Quand les traîtres sont las, messieurs font les jaloux.
-
--*who_acante
 Crois-tu...
 
--*who_laurette
-      Ce que j'en dis, monsieur, n'est pas pour vous.
-Isabelle, sans doute, agit d'une manière
-Qui fait voir qu'avec vous elle rompt la première;
-Et malgré ses mépris, malgré tous ses rebuts,
-Je ne jurerais pas que vous ne l'aimiez plus.
-
--*who_acante
 Moi ! que j'aime une ingrate ! une inconstante fille !...
 Mais est-elle en sa chambre ?
 
--*who_laurette
-      Oui, monsieur, qui s'habille :
-Un homme y vient d'entrer.
-
--*who_acante
       Qui ?
 
--*who_laurette
-      Qui vous craint fort peu ;
-Beau, jeune...
-
--*who_acante
       Et c'est ?
 
--*who_laurette
-      Déjà vous voilà tout en feu ?
-Il n'a que soixante ans, c'est monsieur votre père.
-
--*who_acante
 Mon père ? Eh ! que fait-il ?
 
--*who_laurette
-      Eh ! Que pourrait-il faire ?
-Courbé sur son bâton, le bon petit vieillard
-Tousse, crache, se mouche, et fait le goguenard;
-Des contes du vieux temps étourdit Isabelle :
-C'est tout ce que je crois qu'il peut faire auprès d'elle.
-
--*who_acante
 Crois-tu qu'elle aime ailleurs ?
 
--*who_champagne
-      Là, dis.
-
--*who_laurette
-      Je le crois bien,
-Mais pour dire qui c'est, monsieur, je n'en sais rien.
-
--*who_champagne
-Serait-ce point...
-
--*who_acante
       Qui donc ?
 
--*who_champagne
-      Attendez, que j'y pense..
-Le marquis ?
-
--*who_acante
       Mon cousin ? J'y vois peu d'apparence.
 
--*who_laurette
-Il est vrai : ce cousin, respect la parenté,
-Est un jeune étourdi bouffi de vanité.
-Qui cache dans le faste, et sous l'énorme enflure
-D'une grosse perruque et d'une garniture.
-Le plus badin marquis qui vit jamais le jour,
-Et, pour tout dire enfin, un sot suivant la cour.
-
--*who_champagne
-N'importe, il est marquis; c'est ainsi qu'on le nomme,
-Et ce titre parfois rajuste bien un homme.
-
--*who_acante
 Ah ! Si c'était pour lui... Non, je ne le crois pas,
 Isabelle n'a point des sentiments si bas :
 Quelque juste dépit qui contre elle m'aigrisse,
 Je ne lui saurais faire encor cette injustice.
 Mais si je connaissais mon rival trop heureux...
 
--*who_laurette
-Ah ! vous êtes, monsieur, encor bien amoureux !
-
--*who_acante
 Non, je neveux plus l'être après an tel outrage
 
--*who_laurette
-Quand on l'est malgré soi l'on l'est bien davantage;
-On ne m'y trompe pas, je m'y connais trop bien.
-
--*who_acante
 Hélas ! que l'orgueilleuse au moins n'en sache rien :
 Si l'ingrate qu'elle est connaissait ma tendresse.
 Elle triompherait encor de ma faiblesse.
 
--*who_laurette
-Vraiment sans lui rien dire, elle en triomphe assez,
-Et vous raille en secret plus que vous ne pensez,
-Elle ne croit que trop que vous l'aimez encore.
-
--*who_acante
 L'ingrate me méprise, et croit que je l'adore.
 Dis-lui qu'elle s'abuse; oui: mais dis-lui si bien...
 
--*who_laurette
-Ma foi, j'aurai beau dire, elle n'en croira rien :
-Elle tient votre coeur trop sûr sous son empire.
-
--*who_acante
 Je l'empêcherai bien de m'en oser dédire,
 Ce coeur, ce lâche coeur...
 
-**** *book_ *id_I03 *act_I *date_1665
-
--*who_lemarquis
-      Ah ! Cousin, te voilà ?
-Bonjour. Que je t'embrasse ; encor cette fois-là.
-
--*who_acante
 Ah ! vous me meurtrissez ! Laurette se retire ?
 
--*who_laurette
-Monsieur Champagne encore a deux mots à me dire.
-
--*who_lemarquis
-Comment, monsieur Champagne ! Il est donc revenu ?
-Il sent son honnête homme, et je l'ai méconnu:
-Lorsqu'il était laquais, il n'était pas si sage.
-
--*who_champagne
-Ni vous non plus, monsieur, lorsque vous étiez page.
-
--*who_lemarquis
-Nous étions grands fripons.
-
--*who_champagne
-      Vous l'étiez plus que moi.
-
--*who_lemarquis
-Je te veux servir.
-
--*who_champagne
-      Ouf ! Vous m'étranglez, ma foi.
-
--*who_lemarquis
-Eh, Laurette !
-
--*who_laurette
-      Ah monsieur, avec moi, je vous prie.
-Trêve de compliment, et de cérémonie.
-
--*who_acante
 Estimez-vous beaucoup l'air dont vous affectez
 D'estropier les gens par vos civilités,
 Ces compliments de main, ces rudes embrassades,
 Ces saluts qui font peur, ces bonjours à gourmades
 Ne reviendrez-vous point de toutes ces façons ?
 
--*who_lemarquis
-Oh ! Oh ! Voudrais-tu bien me donner des leçons,
-À moi, cousin, à moi ?
-
--*who_acante
       C'est un avis sincère,
 Et ce que je vous suis me défend de me taire :
 On peut plus sagement exprimer l'amitié.
 
--*who_lemarquis
-Eh ! mon pauvre cousin, que tu me fais pitié !
-Tu veux donc faire prendre un air modeste et sage
-Aux gens de ma volée, aux marquis de mon âge ?
-Va, tu sais peu le monde, et la cour, si tu crois
-Qu'on peut être marquis, jeune, et sage à la fois.
-Il faut être à la mode, ou l'on est ridicule :
-On n'est point regardé, si l'on ne gesticule,
-Si, dans les jeux de main ne cédant à pas un,
-On ne se fait un peu distinguer du commun.
-La sagesse est niaise, et n'est plus en usage,
-Et la galanterie est dans le badinage.
-c'est ce qu'on nomme adresse, esprit, vivacité.
-Et le véritable air des gens de qualité.
-
--*who_acante
 On peut voir toutefois, pour peu que l'on raisonne ..
 
--*who_lemarquis
-Où l'usage prévaut, nulle raison n'est bonne.
-
--*who_acante
 Mais...
 
--*who_lemarquis
-      Ne t'érige point, de grâce, en raisonneur;
-Morbleu, c'est un défaut à te perdre d'honneur:
-Tâche à t'en corriger, et changeons de matière.
-Je viens chercher ici ton père à ta prière;
-Je veux en ta faveur lui parler comme il faut.
-
--*who_acante
 Il est dans cette chambre, et sortira bientôt.
 Surtout...
 
--*who_lemarquis
-      Tu me dis hier tout ce qu'il lui faut dire,
-Laisse-moi seulement.
-
--*who_acante
       Quoi ! Que je me retire.
 Sans m'informer de lui, du moins de sa santé ?
 
--*who_lemarquis
-Eh ! Ne te pique point de tant d'honnêteté :
-Dans un fils tel que toi, crois-moi, l'on n'aime guère
-Ces soins si curieux de la santé d'un père.
-Le bon homme pour toi ne mourra que trop tard.
-
--*who_acante
 Vous croyez...
 
--*who_lemarquis
-      Avec moi, cousin, finesse à part,
-Nous savons ce que c'est que la perte d'un père :
-Jamais de ce malheur fils ne se désespère ;
-Et l'on trouve toujours aux douceurs d'hériter,
-Des consolations qu'on ne peut rejeter.
-Quelque honnête grimace qu'enfin on puisse faire,
-Tout père qui vit trop court danger de déplaire.
-Ton chagrin pour le tien n'a que trop éclaté.
-
--*who_acante
 Si j'ai quelque chagrin, c'est de sa dureté,
 De lui voir chaque jour retrancher ma dépense,
 Et d'un air dont pour lui je rougis quand j'y pense :
@@ -518,99 +1321,795 @@ Il la nomma folie, aveuglement, faiblesse,
 Et paya mes raisons, sans en être adouci.
 D'un « Je suis votre père », et je le veux ainsi.
 
--*who_lemarquis
+      On m'a tout dit.
+
+Mais ne la voit-on pas ?
+
+      Sa fille est avec elle ?
+
+Puisqu'elle est seule, il faut la laisser...
+
+Je l'incommoderais, Laurette, assurément.
+
+Ah ! Si je l'avouais, que dirais-tu de moi ?
+
+Sont-ce là les conseils que Laurette me donne ?
+
+Qui serait-ce ? dis donc.
+
+Souffre au moins qu'il achève.
+
+Tu lui fais signe encor.
+
+C'est mon cousin, dis-tu ?
+
+      Donne
+
+Laurette à mon rival porte donc ce poulet ?
+
+« Je voudrais vous parler, et nous voir seuls tous deux ;
+Je ne conçois pas bien pourquoi je le désire;
+Je ne sais ce que je vous veux,
+Mais n'auriez-vous rien à me dire ? »
+Eh ! c'est pour le marquis ?
+
+      Pour le marquis ?
+
+L'ingrate ! Ah ! Si jamais cette fille sans foi
+Pouvoir écrire ainsi, devait-ce être qu'à moi ?
+Encor si mon rival avait quelque mérite !
+Mais que pour le marquis Isabelle me quitte.
+Que son esprit volage, ébloui d'un faux jour.
+S'égare jusqu'au choix d'un si honteux amour...
+
+Mais tout son marquisat n'est qu'une vaine fable,
+Un faux titre.
+
+Ah ! Si je ne me venge, et si j'épargne rien...
+
+C'est bien aussi, Laurette, à quoi je me prépare,
+Et je veux faire choix d'une beauté si rare...
+
+Espère tout de moi, prends pitié de mon trouble.
+
+Mais pourrais-je espérer qu'elle revînt par-là ?
+
+Il n'est, pour l'empêcher, effort que je ne tente,
+Et je vais de ce pas...
+
+      Voir cette inconstante,
+Lui dire que sa mère a pour moi tant d'appas...
+
+Pourquoi ?
+
+Ne crains rien de mon âme, elle est trop résolue;
+Tout mon amour est mort, je t'en répondrai bien.
+
+Après sa trahison, quelque soin que j'emploie,
+Tu peux douter... Non, non, il faut que je la voie.
+Ne fût-ce seulement que pour te faire voir
+Que l'ingrate sur moi n'a plus aucun pouvoir.
+
+La perfide !
+
+Va donc.
+
+Oui, je te le rendrai dès que tu reviendras ;
+Je le veux lire encor.
+
+Ah ! Que trop bien ! C'est là ce qui me désespère.
+
+Mon père !
+
+Mais s'il pouvait passer par le petit degré...
+
+Au moins dis à l'ingrate... Ô ciel ! elle paraît.
+
+      Qu'elle est belle !
+
+Sortons.
+
+Le voilà ce billet.
+
+      Tiens.
+
+Ah ! c'en est trop, je veux...
+
+Je ne veux croire ici que mes transports jaloux.
+
+      Laisse-moi, si tu crains ma colère.
+Ils ont fermé la porte.
+
+Heurtons. On n'ouvre pas ?
+
+      Qu'elle ait si peu de honte !
+
+Qui l'eût pensé ?
+
+L'ingrate ! Ô ciel ! J'ai vu... Je ne saurais parler.
+
+Je l'ai vue elle-même, ah ! Qui l'eût cru possible ?
+Enfermer le galant d'un air tout interdit.
+
+      Dans son cabinet, à côté de son lit.
+
+      Il faut redoubler.
+
+Oui, c'est moi.
+
+Isabelle ose ainsi... Mais à tort je m'emporte.
+Non, non ; elle a raison de me traiter ainsi :
+Je l'incommoderais, et le galant aussi.
+
+      Le galant qu'elle enferme chez elle.
+
+Et tu prétends qu'ainsi je me laisse abuser ?
+Tu veux chercher en vain une méchante ruse.
+
+      Démens aussi mes yeux.
+
+      J'ai trop vu pour sa gloire,
+J'ai vu... Non, sans le voir, je ne l'aurais pu croire;
+J'ai vu le digne objet dont son coeur est épris,
+Se couler doucement chez elle en manteau gris.
+Je n'ai point vu Laurette en prendre la conduite ?
+Le faire entrer sans bruit ? Fermer la porte ensuite ?
+Avoir soin du galant et de sa sûreté ?
+Enfin par la serrure, après avoir heurté,
+Je n'ai point vu l'ingrate avec un trouble extrême
+À côté de son lit l'enfermer elle-même ?
+Ose, ose le nier.
+
+      En cette occasion,
+Faut-il quelque autre aveu que sa confusion ?
+Son silence en dit plus qu'on n'en veut savoir d'elle.
+Il faut que j'aille aussi confondre l'infidèle,
+Que j'éclate.. -
+
+La voici.
+
+Elle est tout interdite.
+
+Quoi ! Sans rien dire, ainsi passer en m'évitant ?
+
+      Je serais mal reçu.
+Je cherche mon cousin ; ne l'auriez-vous point vu ?
+
+Eh quoi ! Vous paraissez et surprise et confuse.
+D'où naît cette rougeur ?
+
+Enfin donc, mon cousin n'est pas venu chez vous ?
+
+C'était pour mon cousin ?
+
+Auprès de votre mère, au moins, sans trop d'audace,
+Pourrais-je encor de vous espérer une grâce ?
+Votre mère étant veuve avec tant de beautés,
+On va venir briguer son choix de tous côtés :
+Votre suffrage y peut être considérable,
+Et j'ose vous prier qu'il me soit favorable.
+Nul ne peut mieux que vous parler en ma faveur:
+Vous avez fait l'essai vous-même de mon coeur ;
+Vous savez comme il aime, il fut sous votre empire;
+Vous savez...
+
+Cependant le marquis est enfermé chez elle.
+
+Mais je veux voir sortir moi-même ce rival.
+
+Moi, l'épouser, après ce que j'ai connu d'elle !
+Après la trahison dont je suis éclairci !
+Après l'indigne amour dont son coeur s'est noirci !
+Je cherche à m'en venger, c'est tout ce que j'espère.
+
+Mais ne pourrais-je pas m'en venger autrement ?
+
+Qu'Isabelle ait ainsi pu trahir mon espoir !
+
+Oui... Mais sa mère sort.
+
+La peur d'être importun me faisait détourner.
+
+Elle me fait plaisir : injuste comme elle est,
+Sa colère m'oblige, et sa haine me plaît :
+Je me tiens honoré du mépris qu'elle exprime,
+Et j'aurais à rougir, si j'avais son estime.
+
+      Ah ! L'infidèle !
+
+Moi, madame, y songer ! J'aurais le coeur si bas !
+De cette lâcheté vous me croiriez capable ?
+
+Madame, il est certain, jamais, je le confesse,
+L'amour n'a fait aimer avec tant de tendresse,
+N'a jamais inspiré dans le coeur d'un amant
+Rien qui fût comparable à mon empressement,
+Bien d'égal à l'ardeur pure, vive, fidèle,
+Dont mon âme charmée adorait Isabelle.
+Vous voyez cependant comme j'en suis traité.
+
+Mais, madame, après tout, qui l'eût cru d'Isabelle ?
+Isabelle inconstante ! Isabelle infidèle !
+Isabelle perfide ; et sans se soucier...
+
+      Ah ! c'est pour l'oublier.
+Et je veux, s'il se peut, dans mon dépit extrême,
+Arracher de mon coeur jusques à son nom même.
+Je veux n'y laisser rien de ce qui me fut doux :
+Grâce au ciel, c'en est fait.
+
+J'en fais juge madame, et veux bien qu'elle die
+S'il est rien de si noir que cette perfidie.
+Après tant de serments, et si tendrement faits,
+De nous aimer toujours, de ne changer jamais,
+Isabelle aujourd'hui, cette même Isabelle...
+Madame, obligez-moi, ne me parlez plus d'elle.
+
+      Ce sont tous ces endroits
+Où l'ingrate a promis de m'aimer tant de fois.
+Ces lieux témoins des noeuds dont son coeur se dégage.
+De qui l'objet encor m'en rappelle l'image;
+Et pour marquer l'ardeur que j'ai d'y refoncer.
+Je ne veux plus rien voir qui m'y fasse penser :
+Tout me parle ici d'elle, il vaut mieux que je sorte.
+
+      Je ne sais, mais n'importe :
+Par le petit degré l'on descend aussi-bien.
+
+      Ah ! je m'en ressouviens.
+Il n'est pas en effet à propos que j'y passe :
+Sans vous je l'oubliais, et vous m'avez fait grâce.
+
+      Laisse-nous, je le vois.
+Non, non, ne croyez pas m'échapper de la sorte.
+
+Écoutez quatre mots, vous sortirez après.
+
+Mais le coeur d'Isabelle est-il aussi farouche ?
+
+      Vous l'ignorez ?
+
+Vos nouvelles amours.
+
+Ne me déguisez rien, j'ai tout appris d'ailleurs.
+
+Non. Je puis sans chagrin savoir votre bonheur;
+Isabelle à présent ne me tient plus au coeur;
+Je vois son changement avec indifférence,
+Et vous pouvez enfin m'en faire confidence :
+Je me sens bien guéri, ne craignez rien pour moi.
+
+      Tout de bon.
+
+Avez-vous, pour lui plaire, employé bien des soins ?
+
+Vous voyez toutefois en secret Isabelle ?
+
+Mais enfin dans l'ardeur dont elle est possédée,
+Quelle marque d'amour vous a-t-elle accordée ?
+Comment en use-t-elle avec vous en secret ?
+
+      Hem ?
+
+C'est pour moi trop d'honneur, et je cède la place.
+Mais pourrais-je de vous attendre une autre grâce ?
+
+Fallait-il pour cela m'arracher ce bouton ?
+
+Au moins, je ne puis pas reculer davantage.
+
+      Pourrait-on seul vous voir
+En quelque endroit, demain...
+
+      Vous n'avez là qu'un couteau, que je pense ?
+
+      Prenez une épée et bonne et de défense.
+
+      Oui, qu'il faudra vider.
+
+Non, il n'est point d'accord pour de pareils outrages.
+
+Vous n'avez pas compris à quoi je me résous :
+Je veux me battre seul.
+
+      Mais contre vous.
+
+Eh bien, soit ! Descendons à l'instant dans la rue.
+
+Quoi qu'il en soit, il faut que je me satisfasse;
+Nous nous battrons là-bas, si vous avez du coeur.
+
+L'honneur vous touche ainsi ?
+
+Si vous ne me suivez...
+
+Venez, ou je vous tiens pour le dernier des hommes.
+
+Ah ! si vous étiez brave !
+
+      Venez donc, je vous prie.
+
+      Je cède enfin à ma colère.
+
+      Défends-toi. Quelqu'un sort : c'est mou père.
+
+Vous témoignez, sans doute, un courage fort grand.
+
+Moi ! Je ferais, monsieur, excuse à qui m'offense ?
+
+Se marier, monsieur ?
+
+Et ce sera bientôt ?
+
+      Mais à qui donc ?
+
+À vous ?
+
+      Vous ?
+
+      Épouser Isabelle,
+Vous qui condamniez tant mon hymen avec elle,
+Qui blâmiez ce parti lorsqu'il m'était si doux !
+
+Vous oublieriez ainsi la parole donnée ?
+
+Si vous connaissiez bien ce que c'est qu'Isabelle,
+Soapeade foi...
+
+Si j'y prends intérêt, ce n'est que pour mon père.
+
+Ah ! Si je n'avais point autre reproche à faire î
+
+      Je me tais. Mais si j'osais parler,
+Si vous saviez, monsieur...
+
+Je ne dirai plus rien, monsieur, qui vous déplaise.
+
+Je n'ai que trop de lieu de vous pouvoir confondre.
+
+      Je ne dis rien, je ne fais que répondre.
+
+      Elle ma belle-mère !
+
+      Excusez.
+Est-ce à l'endroit ?...
+
+      Je me retire;
+N'en doutez point, monsieur.
+
+      L'ingrate encor ne s'est pas retirée.
+
+      Vous n'êtes pas rentrée ?
+Qui vous peut retenir ?
+
+Moi ! rien ; je vais sortir
+
+Quoi ! vous me fuyez donc avec un soin extrême ?
+
+c'est vous faire plaisir; au moins, je l'ai pensé.
+
+Vous allez donc enfin être ma belle-mère ?
+
+Si j'ai changé, du moins, mon coeur, quoique inconstant,
+Ne s'est guère éloigné de vous en vous quittant >
+N'a passé qu'à la mère, échappé de la fille,
+Et n'a pas même osé sortir de la famille.
+
+Mais vous obéirez sans un effort bien grand.
+
+Il me devrait bien l'être, après l'injuste flamme
+Qu'un indigne rival a surpris dans votre âme.
+Le marquis...
+
+      Eh ! quel moyen de ne le croire pas ?
+
+Vous voulez m'abuser en parlant de la sorte :
+Eh bien, ingrate ! eh bien ! Abusez-moi, n'importe;
+Trompez-moi, s'il se peut ; l'abus m'en sera doux;
+Mon coeur même est tout prêt de s'entendre avec vous :
+Mais faites que ce coeur, dont je ne suis plus maître,
+Soit si bien abusé qu'il ne pense pas l'être.
+J'ai peine à croire encor tout ce que j'ai pu voir.
+
+      Le marquis caché chez vous ce soir,
+Enfermé par vous-même.
+
+      Ah ! c'est mal vous défendre.
+Mais le billet rompu, pour le marquis, si doux...
+
+Pour moi ? N'avez-vous pas avoué le contraire ?
+
+      Hélas ! si je la crois.
+Vous aimez le marquis, vous me manquez de foi.
+
+      Fourbe !
+
+Tu ne meurs pas de honte !
+
+Tu nous as cependant engagés l'un et l'autre.
+
+      Oui, quoi qu'il ait pu faire,
+Si tu veux l'épouser, je lui ferai du bien :
+Hâte notre bonheur, nous aurons soin du tien ;
+Instruis-nous du succès qui nous rend l'espérance.
+
+Nous devons craindre encor mon père et son amour.
+
+Se peut-il...
+
+      Allons enfin voir combler notre joie.
+
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lemarquis
+
+      Ah ! Cousin, te voilà ?
+Bonjour. Que je t'embrasse ; encor cette fois-là.
+
+Comment, monsieur Champagne ! Il est donc revenu ?
+Il sent son honnête homme, et je l'ai méconnu:
+Lorsqu'il était laquais, il n'était pas si sage.
+
+Nous étions grands fripons.
+
+Je te veux servir.
+
+Eh, Laurette !
+
+Oh ! Oh ! Voudrais-tu bien me donner des leçons,
+À moi, cousin, à moi ?
+
+Eh ! mon pauvre cousin, que tu me fais pitié !
+Tu veux donc faire prendre un air modeste et sage
+Aux gens de ma volée, aux marquis de mon âge ?
+Va, tu sais peu le monde, et la cour, si tu crois
+Qu'on peut être marquis, jeune, et sage à la fois.
+Il faut être à la mode, ou l'on est ridicule :
+On n'est point regardé, si l'on ne gesticule,
+Si, dans les jeux de main ne cédant à pas un,
+On ne se fait un peu distinguer du commun.
+La sagesse est niaise, et n'est plus en usage,
+Et la galanterie est dans le badinage.
+c'est ce qu'on nomme adresse, esprit, vivacité.
+Et le véritable air des gens de qualité.
+
+Où l'usage prévaut, nulle raison n'est bonne.
+
+      Ne t'érige point, de grâce, en raisonneur;
+Morbleu, c'est un défaut à te perdre d'honneur:
+Tâche à t'en corriger, et changeons de matière.
+Je viens chercher ici ton père à ta prière;
+Je veux en ta faveur lui parler comme il faut.
+
+      Tu me dis hier tout ce qu'il lui faut dire,
+Laisse-moi seulement.
+
+Eh ! Ne te pique point de tant d'honnêteté :
+Dans un fils tel que toi, crois-moi, l'on n'aime guère
+Ces soins si curieux de la santé d'un père.
+Le bon homme pour toi ne mourra que trop tard.
+
+      Avec moi, cousin, finesse à part,
+Nous savons ce que c'est que la perte d'un père :
+Jamais de ce malheur fils ne se désespère ;
+Et l'on trouve toujours aux douceurs d'hériter,
+Des consolations qu'on ne peut rejeter.
+Quelque honnête grimace qu'enfin on puisse faire,
+Tout père qui vit trop court danger de déplaire.
+Ton chagrin pour le tien n'a que trop éclaté.
+
 Laissons l'amour à part, parlons pour ta dépense.
 Mais sors, j'entends tousser, et le bon homme avance.
 
-**** *book_ *id_I04 *act_I *date_1665
-
--*who_cremante
-C'est vous, mon cher neveu ? Qui vous croyait si près ?
-
--*who_lemarquis
 Achevez de tousser, vous parlerez après.
 Vous allez étouffer, ce n'est point raillerie :
 Quelques coups sur le dos...
 
--*who_cremante
-      Doucement, je vous prie.
-La moindre émotion me fait tousser d'abord.
-
--*who_lemarquis
 Eh ! qui peut si matin vous émouvoir si fort ?
 
--*who_cremante
-Je vais vous tout conter sans feinte et sans grimace.
-Pour vous...
-
--*who_lemarquis
       Sans compliment.
 
--*who_cremante
-      Couvrons-nous donc, de grâce.
-
--*who_lemarquis
 Mettez.
 
--*who_cremante
-      Eh !
-
--*who_lemarquis
       Laissez-moi.
 
--*who_cremante
-      Quoi ! Ne vous couvrir pas ?
-
--*who_lemarquis
 Non.
 
--*who_cremante
-      Quoi ! vous...
-
--*who_lemarquis
       Morbleu, non.
 
--*who_cremante
-      Vous laisser chapeau bas !
-Moi, souffrir d'un marquis ce respect !
-
--*who_lemarquis
       Non, je jure :
 C'est moins respect pour vous que soin pour ma coiffure ?
 Celui de se couvrir n'est bon qu'aux vieilles gens.
 
--*who_cremante
-Eh ! l'on n'est pas si vieux encore à soixante ans.
-
--*who_lemarquis
 Non-da, vous êtes sain.
 
--*who_cremante
+      Ah ! Tout cela n'est rien.
+
+      Vous prenez le récit d'un peu haut.
+
+Vous m'avez dit cela vingt fois sans celle-ci.
+
+Les gens de cour ont bien autre chose eu l'esprit :
+L'amour leur est honteux, à moins d'un grand trophée.
+Poursuivez donc.
+
+Votre toux reviendra, changeons donc de langage.
+Aussi bien mon cousin à vous parler m'engage :
+Il voudrait quelque argent.
+
+Non, non, ne changez point votre façon de vivre,
+Tenez-lui les rigueurs des pères d'aujourd'hui.
+Dites-lui bien pourtant que j'ai parlé pour lui.
+Mais que c'est pour son bien.
+
+Vous me prêterez bien, que je crois, cent louis :
+J'en reçus hier deux cents qui sont évanouis;
+Mais vous saurez comment, et m'en louerez sans doute.
+Quand il s'agit d'honneur, il faut que rien ne coûte ;
+Et je puis sur ce point dire, sans vanité.
+Qu'aucun argent jamais n'a si bien profité.
+
+      Admirez l'industrie :
+L'honneur vient de bravoure et de galanterie,
+Et j'ai su trouver l'art d'être ensemble estimé,
+Et galant de fortune, et brave confirmé.
+Moyennant cent louis que j'ai donnés d'avance.
+Un marquis des plus gueux, mais brave à toute outrance,
+M'a feint une querelle, et d'abord prenant feu.
+M'a donné sur la joue un coup plus fort que jeu.
+
+      Point du tout.
+
+Ce n'est qu'un coup de poing, et lui-même l'avoue.
+J'ai fait rage aussitôt, j'ai ferraillé, paré,
+Et me suis fait tenir pour être séparé.
+Voilà qui m'établit pour brave sans conteste.
+Je n'ai pas mis plus mal mes cent louis de reste.
+Avec une comtesse en crédit à la cour.
+J'ai seul passé le soir, et joué jusqu'au jour.
+J'ai perdu mon argent, mais ma perte est légère.
+Et ce qu'elle me vaut me la doit rendre chère.
+
+Non ; je la crois fort sage, à dire vérité.
+Mais comme je sortais sans suite que mon page.
+Car c'est une maison de notre voisinage,
+J'ai trouvé deux marquis, et des plus médisants,
+Qui pour chasser ensemble allaient sans doute aux champs.
+Tous deux m'ont reconnu dès qu'ils m'ont vu paraître :
+J'ai feint, me détournant, de ne les pas connaître.
+Et d'un grand manteau gris me suis couvert le nez.
+Comme font en tel cas les galants fortunés.
+Jugez en quel honneur me mettra cette histoire,
+Et pour fort peu d'argent combien j'aurai de gloire.
+
+Bon ! c'est du vieil honneur dont vous nous parlez là.
+
+      Sans perdre temps en des raisons frivoles,
+De grâce, allons chez vous pour prendre cent pistoles.
+
+Mon crédit à la cour vous est-il nécessaire ?
+
+Fussent-ils plus unis, que rien ne vous étonne;
+Je sais l'art de brouiller les gens mieux que personne.
+C'est là mon vrai talent, et mon soin le plus doux.
+
+      Allons résoudre tout chez vous
+
+      Là-dedans on vient de me tout dire ;
+Je ris de ton adresse, et du tour du billet.
+
+      Morbleu, que c'est bien fait !
+Surtout pour mon cousin ma joie en est extrême.
+
+      Comment ?
+
+      Fort bien, mais après tout,
+À quoi bon ce combat ?
+
+Non, non : tu m'introduis à titre de galant;
+C'est un pur rendez-vous qu'Isabelle me donne.
+Et j'aurais bien regret d'en détromper personne.
+
+Que j'aurai de plaisir à le faire enrager !
+
+      Mon père est longtemps.
+
+Mon page...
+
+Le voici, ce fripon s'arrête à chaque pas.
+
+Donnez, Page ?
+
+      Ma calèche est là-bas ?
+
+      Écoutez, la nuit étant venue,
+Qu'on la tienne à l'écart vers le bout de la rue,
+Et de dire où je suis qu'on sache se garder.
+Page ?
+
+      En cas qu'on me vînt demander,
+Qu'on dise, et que surtout mon suisse s'en souvienne,
+Qu'on ne croit pas ce soir que chez moi je revienne.
+Que j'ai dit que j'irais coucher peut-être ailleurs;
+Et si l'on demande où, dites, Chez les Baigneurs.
+Page ? Et cela d'un ton... Vous m'entendez bien, page ?
+Bon, il suffit, allez.
+
+Ah ! Si de ce manteau tu savais tout le prix...
+
+      C'est, quoique simple et d'étoffe commune.
+Un manteau de mystère et de bonne fortune.
+Manteau pour un galant utile en cent façons,
+Manteau propre surtout à donner des soupçons;
+Et c'est assez qu'Acante en cet état me voie
+Pour lui persuader tout ce qu'on veut qu'il croie.
+Mais par quelque artifice il serait donc besoin
+De l'attirer ici.
+
+Entrons, l'occasion ne peut être meilleure.
+
+      Quoi ? Qu'as-tu vu paraître ?
+
+      Va, je n'oublierai rien :
+Jamais homme à la cour, sans trop m'en faire accroire,
+N'a su si bien que moi tourner tout à sa gloire,
+De rien faire mystère, et de peu fort grand cas.
+Et triompher enfin des faveurs qu'il n'a pas.
+Si je parle au cousin, crois qu'il n'est peine égale
+Aux couleuvres, morbleu, que je veux qu'il avale.
+C'est ma félicité de faire des jaloux ;
+Je tiens que dans la vie il n'est rien de si doux;
+Le triomphe, à mon gré, vaut mieux que la victoire.
+Et l'on n'a de bonheur qu'autant qu'on en fait croire :
+Le cousin passera mal le temps avec moi.
+
+C'est moi, cousin; permets de grâce que je sorte:
+Pour n'être point connu, j'ai certains intérêts...
+
+Je vois bien que tu veux me parler de ton père :
+Mon soin est inutile, il est toujours sévère.
+J'ai prié de mon mieux en vain en ta faveur;
+Je ne sais ce qui peut endurcir tant son coeur :
+Je n'ai pu l'émouvoir, il n'est rien qui le touche.
+
+Comment ?
+
+      Qu'entends-tu donc par-là ?
+
+      Cousin, laissons cela :
+Là-dessus, en ami, tout ce que je puis faire
+De mieux pour ton repos, crois-moi, c'est de me taire.
+
+N'importe, je craindrais d'irriter tes douleurs:
+Je vois trop quel chagrin en secret te dévore;
+Adieu, dispense-moi de t' affliger encore.
+
+Tout de bon ?
+
+      Tu fais fort bien, ma foi :
+Mépriser les mépris, rendre haine pour haine,
+Est le parti qu'il faut qu'un honnête homme prenne.
+Isabelle, après tout, n'a rien fait d'étonnant :
+Tu lui plus autrefois, je lui plais maintenant.
+Durant quatre ou cinq ans son coeur fut ta conquête;
+Du sexe dont elle est, le terme est bien honnête :
+Tu ne dois pas t'en plaindre, et je la quitte à moins.
+
+Moi ! des soins pour lui plaire ? Un tel soupçon m'offense ;
+Mes soins sont pour des choix de plus grande importance ;
+A moins d'être duchesse, on ne peut m'engager,
+Et le coeur que tu perds me vient sans y songer.
+
+Elle m'en a prié, je n'ai pu moins pour elle :
+On doit être civil, si l'on n'est pas amant;
+Peut-on en galant homme en user autrement ?
+
+Tu peux croire...
+
+      Cousin, il faut être discret.
+Tu t'émeus; parle-moi franchement, je te prie.
+Tout ce que j'en ai fait n'est que galanterie :
+Je suis trop ton ami pour te rien refuser ;
+Et si le coeur t'en dit, tu la peux épouser.
+
+Parle, je suis à toi ; mais, morbleu, tout de bon.
+
+C'est pour mieux t'exprimer, cousin, de quel courage..⁎
+
+Là, reprends du terrain.
+
+      Si tu veux, dès ce soir.
+Pourquoi ?
+
+Non.
+
+As-tu quelque querelle ?
+
+Mais est-ce un différent qu'on ne puisse accorder ?
+
+Apprends-moi donc au moins contre qui tu m'engages.
+
+      Fort bien.
+
+Pour moi, je ne me bats qu'en rencontre imprévue.
+
+Mais quel tort t'ai-je fait ? examinons en quoi :
+Si ta maîtresse m'aime, est-ce ma faute à moi ?
+Un homme recherché peut-il de bonne grâce...
+
+Quoi qu'il en soit, cousin, je suis ton serviteur.
+Je n'ai point prétendu te faire aucune injure,
+Et ne me battrai point contre toi, je te jure,
+
+      Pour être décrié,
+Mon honneur dans le monde est sur un trop bon pié ;
+Et j'ai fait assez voir de marques de courage,
+Pour n'avoir pas besoin d'en donner davantage.
+
+      Cousin, en vérité.
+Tu pourrais voir enfin rabattre ta fierté.
+
+Ah ! si nous n'étions pas cousins comme nous sommes !
+
+      Encore un coup, cousin,
+Quand on me presse trop, je m'échauffe à la fin;
+Et si tu me fais mettre une fois en furie,
+J'irai, vois-tu, j'irai...
+
+Eh bien donc ! puisque ainsi tu me pousses à bout,
+J'irai trouver ton père, et je lui dirai tout.
+Il est ici.
+
+Eh ! cousin.
+
+Maintenant...
+
+Ou ne prend garde à rien quand on a du courage.
+
+Pour Isabelle encore il s'émeut, il s'emporte.
+
+S'il n'avait point été mon cousin, votre fils...
+
+      Non, non ; je l'en dispense :
+Et, de peur contre lui de me mettre en courroux,
+Je vais me retirer, et le laisse avec vous.
+
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cremante
+
+C'est vous, mon cher neveu ? Qui vous croyait si près ?
+
+      Doucement, je vous prie.
+La moindre émotion me fait tousser d'abord.
+
+Je vais vous tout conter sans feinte et sans grimace.
+Pour vous...
+
+      Couvrons-nous donc, de grâce.
+
+      Eh !
+
+      Quoi ! Ne vous couvrir pas ?
+
+      Quoi ! vous...
+
+      Vous laisser chapeau bas !
+Moi, souffrir d'un marquis ce respect !
+
+Eh ! l'on n'est pas si vieux encore à soixante ans.
+
       Oui, je le suis, sans doute,
 Hors quelques petits maux, comme atteinte de goutte,
 Catarrhes, rhumatisme.
 
--*who_lemarquis
-      Ah ! Tout cela n'est rien.
-
--*who_cremante
 Enfin, à cela près, je me porte assez bien.
 Tout vieux que je parois, l'âge encore me laisse
 Des restes de chaleur, des regains de jeunesse;
 Mon poil blanc couvre encore un sang subtil et chaud.
 Tel qu'au temps...
 
--*who_lemarquis
-      Vous prenez le récit d'un peu haut.
-
--*who_cremante
 Je ne vous dis donc point enfin qu'en secret j'aime,
 Que je suis depuis peu rival de mon fils même.
 
--*who_lemarquis
-Vous m'avez dit cela vingt fois sans celle-ci.
-
--*who_cremante
 Vraiment je n'entends pas vous en rien dire aussi.
 Enfin donc par un feu dont tout mon sang s'allume,
 Éveillé ce matin plus tôt que de coutume,
@@ -632,12 +2131,6 @@ En se chaussant j'ai vu... Rien n'est mieux fait au monde ;
 J'ai vu certain morceau de jambe blanche, ronde...
 Mais n'allez point l'aimer au moins sur mon récit...
 
--*who_lemarquis
-Les gens de cour ont bien autre chose eu l'esprit :
-L'amour leur est honteux, à moins d'un grand trophée.
-Poursuivez donc.
-
--*who_cremante
       Ensuite elle s'est donc coiffée :
 J'ai goûté le plaisir de voir ses cheveux blonds
 Tomber à flots épais jusque sur ses talons,
@@ -650,655 +2143,41 @@ Qui tenait sur son sein sa chemise attachée,
 M'a laissé voir à nu l'objet le plus charmant...
 Ouf ! j'en suis tout ému d'y penser seulement.
 
--*who_lemarquis
-Votre toux reviendra, changeons donc de langage.
-Aussi bien mon cousin à vous parler m'engage :
-Il voudrait quelque argent.
-
--*who_cremante
       Là-dessus je suis sourd ;
 La jeunesse a besoin qu'on la tienne de court :
 Vos conseils toutefois sont ceux que je veux suivre.
 
--*who_lemarquis
-Non, non, ne changez point votre façon de vivre,
-Tenez-lui les rigueurs des pères d'aujourd'hui.
-Dites-lui bien pourtant que j'ai parlé pour lui.
-Mais que c'est pour son bien.
-
--*who_cremante
       Allez, laissez-moi faire,
 Je sais faire valoir l'autorité de père.
 
--*who_lemarquis
-Vous me prêterez bien, que je crois, cent louis :
-J'en reçus hier deux cents qui sont évanouis;
-Mais vous saurez comment, et m'en louerez sans doute.
-Quand il s'agit d'honneur, il faut que rien ne coûte ;
-Et je puis sur ce point dire, sans vanité.
-Qu'aucun argent jamais n'a si bien profité.
-
--*who_cremante
 Oui, l'honneur vaut beaucoup.
 
--*who_lemarquis
-      Admirez l'industrie :
-L'honneur vient de bravoure et de galanterie,
-Et j'ai su trouver l'art d'être ensemble estimé,
-Et galant de fortune, et brave confirmé.
-Moyennant cent louis que j'ai donnés d'avance.
-Un marquis des plus gueux, mais brave à toute outrance,
-M'a feint une querelle, et d'abord prenant feu.
-M'a donné sur la joue un coup plus fort que jeu.
-
--*who_cremante
 Un soufflet ?
 
--*who_lemarquis
-      Point du tout.
-
--*who_cremante
       Mais un coup sur la joue.
 
--*who_lemarquis
-Ce n'est qu'un coup de poing, et lui-même l'avoue.
-J'ai fait rage aussitôt, j'ai ferraillé, paré,
-Et me suis fait tenir pour être séparé.
-Voilà qui m'établit pour brave sans conteste.
-Je n'ai pas mis plus mal mes cent louis de reste.
-Avec une comtesse en crédit à la cour.
-J'ai seul passé le soir, et joué jusqu'au jour.
-J'ai perdu mon argent, mais ma perte est légère.
-Et ce qu'elle me vaut me la doit rendre chère.
-
--*who_cremante
 Quoi ! la dame en faveurs vous aurait racquitté ?
 
--*who_lemarquis
-Non ; je la crois fort sage, à dire vérité.
-Mais comme je sortais sans suite que mon page.
-Car c'est une maison de notre voisinage,
-J'ai trouvé deux marquis, et des plus médisants,
-Qui pour chasser ensemble allaient sans doute aux champs.
-Tous deux m'ont reconnu dès qu'ils m'ont vu paraître :
-J'ai feint, me détournant, de ne les pas connaître.
-Et d'un grand manteau gris me suis couvert le nez.
-Comme font en tel cas les galants fortunés.
-Jugez en quel honneur me mettra cette histoire,
-Et pour fort peu d'argent combien j'aurai de gloire.
-
--*who_cremante
 Mais l'honneur, ce me semble, au fond n'est point cela.
 
--*who_lemarquis
-Bon ! c'est du vieil honneur dont vous nous parlez là.
-
--*who_cremante
 Jadis...
 
--*who_lemarquis
-      Sans perdre temps en des raisons frivoles,
-De grâce, allons chez vous pour prendre cent pistoles.
-
--*who_cremante
 Quoique l'argent soit rare, allons, j'en suis content;
 Mais j'espère eu revanche un service important.
 
--*who_lemarquis
-Mon crédit à la cour vous est-il nécessaire ?
-
--*who_cremante
 Non ; l'amour maintenant est mon unique affaire :
 Mon fils aime Isabelle, et c'est tout mon espoir
 De les brouiller ensemble et de m'en prévaloir.
 
--*who_lemarquis
-Fussent-ils plus unis, que rien ne vous étonne;
-Je sais l'art de brouiller les gens mieux que personne.
-C'est là mon vrai talent, et mon soin le plus doux.
-
--*who_cremante
 Il faudrait donc...
 
--*who_lemarquis
-      Allons résoudre tout chez vous
-
-**** *book_ *id_II01 *act_II *date_1665
-
--*who_isabelle
-Jallais à votre chambre.
-
--*who_ismene
-      Et qu'y veniez- vous faire ?
-
--*who_isabelle
-Vous rendre ce que doit une fille à sa mère,
-M'informer s'il vous plaît que je suive vos pas
-Au temple ce matin.
-
--*who_ismene
-      Non, il ne me plaît pas.
-
--*who_isabelle
-Chaque jour rend pour moi votre humeur plus sévère.
-Ne saurais-je jamais d'où vient votre colère ?
-J'essayerais, madame...
-
--*who_ismene
-      Ah ! C'est trop discourir.
-Allez, retirez-vous, je ne vous puis souffrir.
-
-**** *book_ *id_II02 *act_II *date_1665
-
--*who_laurette
-Madame, en vérité, cette rigueur m'étonne;
-Quoi ! Vous, pour tout le monde et si douce et si bonne.
-Pour votre fille seule être rude à ce point ?
-
--*who_ismene
-J'en ai trop de raisons.
-
--*who_laurette
-      Je ne les conçois point :
-J'ignore d'où vous vient tant de haine pour elle;
-C'est une fille aimable...
-
--*who_ismene
-      Elle n'est que trop belle;
-Je sais trop sur les coeurs quel empire elle prend.
-
--*who_laurette
-Est-ce là tout l'outrage ?...
-
--*who_ismene
-      En est-il un plus grand ?
-De quel oeil puis-je voir, moi qui, par mon adresse.
-Crois pouvoir, si j'osais, me piquer de jeunesse,
-Une fille adorée, et qui, malgré mes soins.
-M'oblige d'avouer que j'ai trente ans au moins ?
-Et comme à mal juger on n'a que trop de pente,
-De trente ans avoués n'en crois-t-on pas quarante ?
-
--*who_laurette
-Il est vrai que le monde est plein de médisants ;
-Mais on peut être belle encore à quarante ans.
-
--*who_ismene
-Ou le peut, mais enfin c'est l'âge de retraite ,
-La beauté perd ses droits, fut-elle encor parfaite;
-Et la galanterie, au moment qu'on vieillit,
-Ne peut se retrancher qu'à la beauté d'esprit.
-
--*who_laurette
-Vous êtes trop bien faite, et c'est une chimère.
-
--*who_ismene
-Une fille à seize ans défait bien une mère.
-J'ai beau par mille soins tâcher de rétablir
-Ce que de mes appas l'âge peut affaiblir,
-Et d'arrêter par art la beauté naturelle
-Qui vient de la jeunesse, et qui passe avec elle.
-Ma fille détruit tout dès qu'elle est près de moi :
-Je me sens enlaidir sitôt que je la vois.
-Et la jeunesse en elle, et la simple nature,
-Font plus que tout mon art, mes soins et ma parure.
-Fut-il jamais sujet d'un plus juste courroux ?
-
--*who_laurette
-Elle a tort en effet, je l'avoue avec vous :
-Mais on sait à ce mal le remède ordinaire;
-Faites-la d'un couvent au moins pensionnaire.
-Quoi ! vous hochez la tête ? Est-ce que vous doutez
-Qu'lsabelle ose rien contre vos volontés ?
-
--*who_ismene
-Non : je puis m'assurer de son obéissance;
-Elle suit mes désirs toujours sans résistance;
-Je la trouve soumise à tout ce que je veux,
-Et c'est ce que j'y trouve encor de plus fâcheux,
-Puisqu'elle m'ôte ainsi tout prétexte de plainte.
-Pour couvrir le dépit dont je me sens atteinte.
-Pour l'éloigner de moi, je n'ai qu'à le vouloir;
-Mais, Laurette, quels maux n'en dois-je pas prévoir ?
-C'est dans l'état de veuve, où je dois me réduire,
-Un prétexte aux plaisirs, qu'une fille à conduire.
-Je puis, sous la couleur d'un soin si spécieux,
-Prétendre sans scrupule à paraître eu tous lieux,
-À jouir des douceurs du Cours, des promenades,
-À voir les jeux publics, bals, ballets, mascarades;
-Et n'ayant plus de fille à mener avec moi,
-Je dois vivre autrement, et c'est là mon effroi.
-Le grand monde me plaît, je hais la solitude,
-Il n'est point à mon gré de supplice plus rude.
-Et j'aime encore mieux voir ma fille à regret.
-Qu'éviter à ce prix le tort qu'elle me fait.
-
--*who_laurette
-Elle ne vous fait pas tant de tort qu'il vous semble,
-On vous prend pour deux soeurs quand on vous voit ensemble.
-
--*who_ismene
-Sans mentir ?
-
--*who_laurette
-      Je vous parle avec sincérité.
-
--*who_ismene
-Comment suis-je aujourd'hui ? Mais dis la vérité.
-
--*who_laurette
-Vous ne fûtes jamais plus jeune ni plus belle;
-Surtout votre beauté paraît fort naturelle.
-
--*who_ismene
-Est-il bien vrai, Laurette ?
-
--*who_laurette
-      Il n'est rien plus certain.
-
--*who_ismene
-Tu peux prendre pour toi cette jupe demain ;
-Je viens d'apercevoir que la tienne se passe.
-
--*who_laurette
-Vous savez, sans mentir, donner de bonne grâce :
-Votre fille, après tout, ne vous vaudra jamais.
-
--*who_ismene
-La jeunesse, Laurette, a de puissants attraits.
-
--*who_laurette
-Elle est jeune, il est vrai ; mais, à faute de l'être,
-On peut s'en consoler quand on la sait paraitre :
-Votre fille n'a point vos secrets pour charmer.
-
--*who_ismene
-Acante cependant l'aime et ne peut m'aimer;
-Ni tout ce que j'ai d'art, ni toute ton adresse.
-N'ont pu déraciner sa première tendresse;
-Je ne puis à ma fille arracher cet amant.
-
--*who_laurette
-Les premières amours tiennent terriblement.
-Nous pouvons toutefois avoir quelque espérance :
-Mes ruses ont entre eux rompu l'intelligence.
-Et tous les faux rapports que j'ai faits jusqu'ici
-Nous ont, grâces au ciel, assez bien réussi.
-Ils ne se parlent plus.
-
--*who_ismene
-      C'est beaucoup ; mais Laurette,
-Ce n'est pas, tu le sais, tout ce que je souhaite :
-Avant de mes appas le déclin déclaré,
-Il serait bon que j'eusse un époux assuré,
-Un parti qui me plût, et qui me fût sortable,
-Et je trouve à mon goût Acante fort aimable.
-
--*who_laurette
-Vous avez le goût bon, on ne le peut nier,
-Et ce second époux vaudrait bien le premier;
-Mais c'est un grand dessein.
-
--*who_ismene
-      N'épargne soin ni peine.
-Si tu peux réussir, ta fortune est certaine ;
-Tu n'en dois point douter.
-
--*who_laurette
-      J'y ferai mon effort :
-Mais je trouve un obstacle à surmonter d'abord ;
-Touchant votre veuvage un scrupule peut naître.
-Vous êtes fort bien veuve, et l'on ne peut mieux l'être ;
-Votre mari, sans doute, est défunt, autant vaut ;
-Vous avez attendu plus de temps qu'il n'en faut :
-Après huit ans passés, sans qu'un mari se trouve,
-Une femme au besoin est même plus que veuvev;
-Il n'est rien de plus sûr, votre avocat l'a dit :
-Mais il est bon d'ôter tout soupçon de l'esprit.
-Toute peur d'un retour, et d'un remue-ménage,
-Si vous voulez qu'on pense à vous pour mariage.
-
--*who_ismene
-Laurette, à dire vrai, c'est mon plus grand souci.
-
--*who_laurette
-Champagne m'a promis d'être bientôt ici :
-Il faut voir si l'on peut gagner son témoignage.
-Et celui d'un vieillard qui sort de l'esclavage.
-
--*who_ismene
-Il faudrait que ce fût sans me commettre, au moins.
-
--*who_laurette
-C'est comme je l'entends, fiez- vous à mes soins :
-Afin de vous laisser garder la bienséance,
-Je ferai du dessein seule toute l'avance.
-Mais l'argent pour corrompre est un puissant moyen.
-
--*who_ismene
-Dispose, agis, promets, je n'épargnerai rien.
-On vient, je remets tout enfin à ta conduite.
-
--*who_laurette
-Laissez-nous un peu seuls, vous reviendrez ensuite.
-
-**** *book_ *id_II03 *act_II *date_1665
-
--*who_champagne
-D'où vient que ta maîtresse évite de me voir ?
-Va-t-elle dire encor deux mots à son miroir ?
-De ses ingrédients grossir un peu la dose ?
-
--*who_laurette
-Elle avait oublié de serrer quelque chose;
-Elle va l'enfermer, et doit sortir bientôt.
-
--*who_champagne
-Son visage de jour est donc fait comme il faut ?
-Et sa beauté d'emprunt...
-
--*who_laurette
-      Brisons là, je te prie.
-Elle hait là-dessus à mort la raillerie;
-Elle est étrangement délicate en cela.
-Et ne croit nul outrage égal à celui-là.
-Je veux t'entretenir d'affaires d'importance.
-L'homme que tu m'as dit avoir conduit en France,
-Quel homme est-ce ?
-
--*who_champagne
-      Un vieillard assez chagrin.
-
--*who_laurette
-      Au fond,
-Est-ce un homme d'esprit ?
-
--*who_champagne
-      D'esprit, je t'en répond.
-Mais touchant sa famille, il s'obstine à se taire...
-
--*who_laurette
-Cela n'importe rien pour ce que j'en veux faire.
-Ma maîtresse a sans doute, à parler tout de bon.
-De se remarier grande démangeaison;
-Mais quoiqu'elle prétende être veuve à bon titre,
-Elle a quelque scrupule encor sur ce chapitre ;
-Et pour l'en délivrer, on l'obligerait fort,
-Si quelqu'un témoignait que sou mari fût mort.
-Crois-tu que ton vieillard pût rendre cet office ?
-Nous ferions bien valoir le prix d'un tel service.
-
--*who_champagne
-Oui, je le tiens, s'il veut, fort propre à cet emploi;
-C'est sans doute...
-
--*who_laurette
-      Et surtout étant instruit par toi.
-
--*who_champagne
-À gagner ce témoin aisément je m'engage.
-Si tu voulais y joindre aussi ton témoignage,
-Ce serait encor mieux.
-
--*who_champagne
-      Moi ! faire un faux rapport ?
-
--*who_laurette
-Quoi, pour mentir un peu, te troubles-tu si fort ?
-Et serais-tu bien homme à si faible cervelle,
-Que de t'embarrasser pour une bagatelle ?
-Crois-moi, le plus grand vice est celui d'être gueux,
-Et ce n'est pas à nous d'être si scrupuleux;
-Un soin si délicat n'est pas à notre usage.
-La fourbe qui nous sert est notre vrai partage;
-Elle est pour nous sans honte, et jusqu'ici jamais
-La probité ne fut la vertu des valets :
-Les gens d'esprit surtout ont leur profit en tête.
-
--*who_champagne
-Le scrupule n'est pas aussi ce qui m'arrête.
-Hier, lorsque j'arrivai, quand j'y songe d'abord,
-Je dis que j'ignorais si ton maître était mort;
-Comment dire autrement sans que l'on me soupçonne ?
-
--*who_laurette
-Pour un homme d'esprit peu de chose t'étonne.
-Tu diras que d'abord ne doutant point du choix
-Que ton maître avait fait d'Isabelle autrefois,
-Tu cachais cette mort, pour détourner la mère
-De donner à sa fille un importun beau-père;
-Mais, ton maître pour elle étant sans intérêt,
-Que tu dis franchement la chose comme elle est.
-
--*who_champagne
-Cela m'est comme à toi venu dans la pensée;
-Mais d'un autre souci j'ai l'âme embarrassée :
-Si ton maître à la fin revenait du Levant ?
-
--*who_laurette
-Mon dieu ! Point: il est mort.
-
--*who_champagne
-      Mais s'il était vivant ?
-
--*who_laurette
-Il n'a garde, crois-moi.
-
--*who_champagne
-      Je songe où je m'engage.
-
--*who_laurette
-Ma maîtresse revient, songe à ton personnage.
-
--*who_champagne
-J'y vois trop de péril, et tu m'obligeras
-De ne me point mêler dans tout cet embarras.
-
--*who_laurette
-Es-tu si simple encor ? Que rien ne t'inquiète.
-
-**** *book_ *id_II04 *act_II *date_1665
-
--*who_laurette
-Quelle nouvelle ! Ah ! Ah !
-
--*who_ismene
-      De quoi pleure Laurette ?
-
--*who_laurette
-Je pleure, mais, hélas ! quand vous saurez de quoi.
-Vous pleurerez, madame, encor bien plus que moi.
-
--*who_ismene
-N'importe, expliquez-vous.
-
--*who_laurette
-      Ah ! ma bonne maîtresse .
-C'est... Je ne puis parler, tant la douleur me presse.
-Monsieur Champagne... Hé là, faites-lui ce récit.
-Dites-lui tout.
-
--*who_champagne
-      Quoi ! tout ?
-
--*who_laurette
-      Ce que vous m'avez dit.
-
--*who_champagne
-Moi ! Je n'ai rien à dire.
-
--*who_laurette
-      À quoi bon ce mystère ?
-C'est par discrétion qu'il s'obstine à se taire.
-Il est vrai que d'abord un si cruel malheur
-Doit causer à madame une extrême douleur ;
-Mais puisque tôt ou tard il faut qu'elle l'apprenne.
-Le plus tôt vaut le mieux pour la tirer de peine :
-A la laisser languir, quel plaisir prenez-vous ?
-Que sert de lui cacher qu'elle n'a plus d'époux ?
-
--*who_ismene
-Je n'aurais plus d'époux ! Serait-il bien possible ?
-
--*who_laurette
-Ce coup assurément pour madame est sensible.
-La pauvre femme ! Hélas, sans doute elle perd bien !
-
--*who_champagne
-Ne vous fâchez pas tant, madame, il n'en est rien.
-
--*who_ismene
-Ah ! Ne me flattez pas.
-
--*who_laurette
-      Voyez quel est son zélé !
-Il voudrait vous cacher cette triste nouvelle.
-Vous devez à ses soins beaucoup certainement,
-Et vous m'aviez parlé d'un certain diamant...
-
--*who_ismene
-La douleur m'en avait fait perdre la mémoire :
-Je ferai plus pour vous, et vous le pouvez croire;
-Prenez toujours ceci.
-
--*who_laurette
-      La, prenez, sans façon.
-Son époux est-il mort ?
-
--*who_champagne
-      Eh !
-
--*who_laurette
-      Parlez tout de bon ;
-Madame le souhaite, et n'a pas l'âme ingrate :
-Mais elle ne veut pas surtout que l'on la flatte ;
-De son mari, sans feinte, apprenez-lui le sort.
-
--*who_champagne
-Puisque vous le voulez, madame, il est donc mort.
-
--*who_ismene
-Ciel !
-
--*who_laurette
-      Comme la douleur l'accable et la possède,
-Un peu de solitude est son meilleur remède ;
-Laissons-la revenir, et va prendre le soin
-D'instruire le vieillard dont nous avons besoin.
-
--*who_champagne
-Le diamant est bon, au moins ?
-
--*who_laurette
-      Bon ? Tu te railles :
-C'est du pauvre défunt un présent d'épousailles.
-
--*who_champagne
-Quel défunt ?
-
--*who_laurette
-      Eh ! Mon maître, et tu doutes à tort..
-
--*who_champagne
-Enfin, s'il n'est pas bon, le défunt n'est pas mort.
-
--*who_laurette
-Je t'assure de tout; va, tu n'as rien à craindre.
-
-**** *book_ *id_II05 *act_II *date_1665
-
--*who_laurette
-Madame, il est sorti, cessez de vous contraindre;
-Rendez grâces au ciel, tout va bien, tout nous rit.
-
--*who_ismene
-Me voilà donc enfin veuve sans contredit ?
-
--*who_laurette
-On n'en peut plus douter, à moins d'être incrédule.
-
--*who_ismene
-Acante pourrait donc m'épouser sans scrupule ?
-
--*who_laurette
-C'est sans difficulté : si c'est peu d'un témoin,
-Nous en aurons encore un second au besoin;
-Les dons faits à propos produisent des miracles.
-
--*who_ismene
-Nous oublions peut-être un des plus grands obstacles-
-
--*who_laurette
-Quel ?
-
--*who_ismene
-      Le père d'Acante.
-
--*who_laurette
-      Eh ! Qu'appréhendons-nous ?
-Le bon homme vous aime, et tout lui plaît de vous.
-
--*who_ismene
-Peut-être il m'aime trop ; c'est ce que j'appréhende :
-J'ai peur qu'à m'épouser lui-même il ne prétende.
-
--*who_laurette
-Ce dessein nous pourrait, sans doute, embarrasser;
-Mais pourrait-il bien être en état d'y penser,
-À son âge ?
-
--*who_ismene
-      Il n'importe, et je crains qu'il n'y pense.
-
--*who_laurette
-Qui, lui vous épouser ? Ce serait conscience :
-Vieil, usé comme il est, et déjà demi-mort,
-Pourrait-il bien vouloir vous faire un si grand tort ?
-Après d'un vieux mari la longue et triste épreuve,
-Puisqu'en très bonne forme enfin vous voila veuve.
-C'est bien le moins, vraiment, que vous puissiez pour vous.
-Que d'oser faire aussi le choix d'un jeune époux,
-Et de connaître un peu, par votre expérience,
-Du jeune et dit vieillard quelle est la différence.
-
--*who_ismene
-Ce n'est point pour cela, Laurette.
-
--*who_laurette
-      Mon dieu, non.
-Mais voici le bonhomme, il faut changer de ton.
-
-**** *book_ *id_II06 *act_II *date_1665
-
--*who_laurette
-Venez m'aider, monsieur, à consoler madame.
-
--*who_cremante
 Qu'a-t-elle ?
 
--*who_ismene
-      Oh !
-
--*who_laurette
-      La douleur la perce jusqu'à l'âme.
-
--*who_cremante
 Quel accident l'expose au trouble où la voilà ?
 
--*who_laurette
-La mort de son mari.
-
--*who_cremante
       Quoi ! ce n'est que cela ?
 Il n'est pas mort peut-être.
 
--*who_ismene
-      Il est trop véritable !
-
--*who_laurette
-Champagne, qui l'assure, est homme irréprochable.
-
--*who_cremante
 Sa mort m'ôte un ami, vous ôtant un époux,
 Et j'y crois perdre au moins, madame, autant que vous.
 Le regret que j'en ai ne cède en rien au vôtre,
@@ -1310,1978 +2189,81 @@ Quelque autre du défunt peut occuper la place :
 Vous n'aurez rien perdu, prenant un autre époux;
 J'en sais un.
 
--*who_ismene
-      Hé ! Monsieur, de quoi me parlez-vous ?
-
--*who_cremante
 Je veux que dans l'effort de vos premières larmes.
 Pour vous le mariage ait d'abord peu de charmes ;
 Je veux qu'il vous soit même odieux en effet :
 Mais enfin, si l'époux était bien votre fait,
 Si vous pouviez en lui trouver de quoi vous plaire...
 
--*who_ismene
-Cela ne se peut pas.
-
--*who_cremante
       Mon dieu ! tout se peut faire :
 Si vous saviez l'époux que je veux vous offrir...
 
--*who_ismene
-Ah !
-
--*who_laurette
-      Au seul nom d'époux son mal semble s'aigrir.
-
--*who_cremante
 Il est vrai, j'aurais tort d'en plus ouvrir la bouche:
 Le désir de lui plaire est le seul qui me touche ;
 Et j'ai cru que mon fils, jeune, adroit, plein d'appas,
 Pour un second époux ne lui déplairqit pas.
 
--*who_laurette
-Si ce n'est que cela, vous pourriez bien lui dire...
-
--*who_cremante
 Je m'en garderai bien, non, non, je me retire;
 Je la laisse en repos, ce sera le meilleur.
 
--*who_ismene
-Laissez-vous vos amis ainsi dans la douleur ?
-
--*who_cremante
 Je vois que tout le soin où l'amitié m'engage,
 Loin de vous consoler, vous trouble davantage.
 
--*who_ismene
-Hélas ! Qui pourrait mieux me consoler que vous ?
-Vous étiez tant ami de mon défunt époux !
-Tout votre soin ne peut métré que salutaire,
-Et rien, venant de vous, ne me saurait déplaire.
-
--*who_cremante
 Ce que j'ai dit pourtant vous a déplu d'abord.
 
--*who_ismene
-Sait-on ce que l'on fait dans un premier transport ?
-D'abord, il est certain, c'était bien mon envie
-De n'entendre parler d'autre époux de ma vie;
-J'en rejetais l'espoir, quoiqu'il me fût permis :
-Mais que ne peuvent point les conseils des amis ?
-
--*who_cremante
 Je voulais vous parler de mon fils; mais, madame,
 Ne faites rien pour moi qui contraigne votre âme,
 Prenez plutôt du temps pour examiner bien...
 
--*who_ismene
-Ah ! Monsieur, après vous, je n'examine rien.
-
--*who_cremante
 Il est jeune, bien fait, voyez s'il peut vous plaire.
 
--*who_ismene
-Vous savez mieux que moi ce qui m'est nécessaire.
-Acante vaut beaucoup; mais, quel qu'en soit le prix,
-Si rien me plaît en lui, c'est qu'il est votre fils.
-
--*who_cremante
 Vous nous honorez trop,
 
--*who_ismene
-      Au moins c'est une affaire
-Que vous trouverez bon, monsieur, que je diffère.
-Ce n'est pas qu'en effet ce soin importe fort;
-Feu mon mari déjà depuis longtemps est mort
-J'en ai porté le deuil, et j'ai toute licence :
-Mais j'aime extrêmement l'exacte bienséance;
-Et pour sécher mes pleurs, pour en finir le cours,
-Je vous demande encore au moins huit ou dix jours.
-
--*who_cremante
 Ce n'est qu'avec le temps qu'un grand ennui se passe,
 Il est vrai. Mais j'espère à mon tour une grâce.
 
--*who_ismene
-Ce que je vous dois être unit nos intérêts.
-
--*who_cremante
 Votre fille pourrait les unir de plus près.
 
--*who_ismene
-Ma fille, dites-vous ?
-
--*who_cremante
       Pour elle je soupire.
 
--*who_ismene
-Vous, monsieur ?
-
--*who_cremante
       Pourquoi, non ? Qu'y trouvez-vous à dire ?
 
--*who_ismene
-Eh rien ! Mais vous pourriez peut-être choisir mieux :
-Elle est si jeune encor !
-
--*who_cremante
       Me trouvez-vous si vieux ?
 
--*who_ismene
-Point du tout ; mais j'ai peur, quelque soin que je prenne
-Que ma fille en ce choix m'obéisse avec peine.
-
--*who_cremante
 À ne vous rien celer, j'ai peur, s'il est ainsi,
 Qu'à m'obéir mon fils n'ait de la peine ai\ssi.
 
--*who_ismene
-Sur ma fille, après tout, j'ai pourtant trop d'empire,
-Pour craindre absolument qu'elle m'ose dédire :
-Elle me fut toujours soumise au dernier point.
-
--*who_cremante
 Mon fils, je pense, aussi ne me dédira point :
 Je ne crains qu'un retour de cette intelligence
 Que l'amour mit entre eux dès leur plus tendre enfance;
 Et je doute qu'on puisse aisément parvenir
 À diviser deux coeurs qui sont nés pour s'unir.
 
--*who_ismene
-Ainsi que vous, monsieur, c'est ce qui m'inquiète;
-Mais j'ai grande espérance aux ruses de Laurette.
-
--*who_laurette
-Je sais l'art de fourber assez bien, Dieu merci.
-Mais dans le cabinet vous seriez mieux qu'ici.
-
--*who_cremante
 Elle a raison, aucun n'y viendra nous distraire;
 Allons-y consulter ce que nous devons faire,
 Et voir par quels moyens nous pourrons sans retour
 Séparer deux amants en dépit de l'amour.
 
-**** *book_ *id_III01 *act_III *date_1665
-
--*who_laurette
-Eh bien ! Que voulez-vous ? Si vous perdez un père,
-Ce n'est pas d'aujourd'hui, vous n'y sauriez que faire;
-Des regrets des vivants les morts ne sont pas mieux :
-Parlons donc d'autre chose, et ressayez vos yeux.
-
--*who_isabelle
-Tu dis donc que l'ingrat qui m'avait tant su plaire,
-Acante, ce volage à qui je fus si chère,
-T'a parlé ce matin ?
-
--*who_laurette
-      Fort longtemps.
-
--*who_isabelle
-      Entre nous,
-Que pense-t-il de moi ?
-
--*who_laurette
-      Lui ! Pense-t-il à vous ?
-
--*who_isabelle
-Mais quel si long discours encor t'a-t-il pu faire ?
-De quoi t'a-t-il parlé ?
-
--*who_laurette
-      Rien que de votre mère ;
-Il m'a fait voir pour elle un grand empressement.
-
--*who_isabelle
-Et n'a rien dit de moi ?
-
--*who_laurette
-      Pas un mot seulement;
-De votre mère seule il m'a parlé sans cesse.
-J'ai tourné le discours sur vous avec adresse,
-Dit vingt fois votre nom.
-
--*who_isabelle
-      Et qu'a-t-il répondu ?
-
--*who_laurette
-Il n'a pas fait semblant d'avoir rien entendu.
-
--*who_isabelle
-Mais dans ma mère enfin que peut-il voir d'aimable ?
-
--*who_laurette
-Beaucoup d'argent comptant, un bien considérable,
-C'est un charme bien doux aux yeux de bien des gens.
-Vous ne serez en âge encor de très longtemps;
-Votre père étant mort, tout est en sa puissance :
-Comme je vous l'ai dit, elle en a l'assurance;
-Et, de l'humeur qu'elle est, vous devez peu douter
-Qu'un jeune époux s'offrant n'ait de quoi la tenter.
-
--*who_isabelle
-Le soin qu'elle a de plaire et de cacher son âge
-M'a bien fait prévoir d'elle un second mariage;
-Mais voir mon amant même en devenir l'époux !
-Voir mon beau-père en lui !
-
--*who_laurette
-      Que fait cela pour vous ?
-Si vous ne l'aimez plus, quel soin vous inquiète ?
-
--*who_isabelle
-Si je ne l'aime plus ! Que n'est-il vrai, Laurette ?
-
--*who_laurette
-Comment ! auriez-vous bien assez de lâcheté
-Pour ne vous venger pas de sa légèreté ?
-Quoi ! vous constante encor pour un homme qui change ?
-Aurait-on vu jamais faiblesse plus étrange ?
-Un homme changerait; et vous, pleine d'appas,
-Fière, vous fille enfin, vous ne changeriez pas ?
-Laisser sur notre sexe avoir cet avantage ?
-
--*who_isabelle
-Notre sexe à son gré n'est pas toujours volage;
-Et comme par pudeur une fille d'abord
-N'aime ordinairement qu'après beaucoup d'effort.
-Quand l'amour une fois lui fait prendre une chaîne.
-Elle n'en sort aussi qu'avec beaucoup de peine.
-Surtout les premiers feux sont toujours les plus doux.
-Ceux d'Acante et les miens sont nés presque avec nous;
-Nos pères qui s'aimaient semblaient dès la naissance
-Avoir fait pour s'aimer nos coeurs d'intelligence :
-Tout enfant que j'étais, sans nul discernement.
-Je songeais à lui plaire avec empressement;
-Cent petits soins aussi m'exprimaient sa tendresse.
-Nous nous voyions souvent, et nous cherchions sans cesse;
-Sans lui j'étais chagrine, ainsi que lui sans moi;
-Parfois nous soupirions sans savoir bien pourquoi;
-Et nos coeurs, ignorant quel mal ce pouvait être,
-Surent sentir l'amour plus tôt que le connaître.
-
--*who_laurette
-C'est cela qui le rend encore avec raison
-Plus coupable envers vous après sa trahison ;
-C'est ce qui doit pour lui redoubler votre haine.
-
--*who_isabelle
-Sans doute, et si je vois sa trahison certaine...
-
--*who_laurette
-Quoi ! vous flatteriez-vous assez pour en douter ?
-
--*who_isabelle
-Ah ! s'il se peut encor, laisse-moi m'en flatter.
-
--*who_laurette
-Vous pourriez vous flatter d'une erreur si honteuse ?
-Son infidélité pour vous n'est plus douteuse :
-Tout ce qu'on vous a dit vous en doit assurer.
-
--*who_isabelle
-On m'en a dit assez pour me désespérer :
-Cependant en secret un pouvoir que j'admire
-Me fait presque oublier tout ce qu'on m'a pu dire;
-Je ne sais quoi toujours me parle en sa faveur.
-
--*who_laurette
-Mon dieu ! jusqu'où l'amour séduit un jeune coeur !
-Je m'étais bien de vous promis plus de courage.
-
--*who_isabelle
-Tu te peux tout promettre encor, s'il est volage;
-Mais mon coeur par lui-même en veut être éclairci.
-
--*who_laurette
-Quoi ! le voir ?
-
--*who_isabelle
-      Je t'ai crue, et l'ai fui jusqu'ici.
-Redevable à tes soins dès ma tendre jeunesse,
-J'ai suivi tes conseils, j'ai contraint ma tendresse;
-J'ai tâché de te croire autant que je l'ai pu :
-Souffre au moins une fois que mou coeur en soit cru;
-Qu'il puisse s'éclaircir ainsi qu'il le souhaite;
-Qu'un aveu de l'ingrat... Mais tu rougis, Laurette ?
-
--*who_laurette
-Je rougis de vous voir faible encore à ce point.
-
--*who_isabelle
-Je ne le suis que trop, je ne m'en défends point :
-Mais pardonne aux abois d'une première flamme,
-Ces restes de faiblesse où tombe encor mon âme.
-
--*who_laurette
-Ce serait vous trahir que de les excuser.
-
--*who_isabelle
-J'ai cru qu'à ce dessein tu pourrais t'opposer;
-Et si de m'y servir la prière te gêne,
-Je me suis préparée à t'en sauver la peine :
-Un billet de ma main par quelque autre porté...
-
--*who_laurette
-Je veux prendre ce soin encor par charité ;
-Ne confiez hors moi ce billet à personne.
-
--*who_isabelle
-Es-tu si bonne encore ?
-
--*who_laurette
-      Eh ! oui, je suis trop bonne ;
-Vous me persuadez toujours ce qu'il vous plaît,
-Et si, vous le savez, c'est sans nul intérêt.
-
--*who_isabelle
-Va, tu n'y perdras rien.
-
--*who_laurette
-      Est-ce là cette lettre ?
-
--*who_isabelle
-L'adresse encore y manque.
-
--*who_laurette
-      Ah ! gardez bien d'en mettre.
-Votre ingrat peut montrer ce billet aujourd'hui,
-Vous pourriez au besoin nier qu'il fut pour lui :
-Nous ne saurions chercher, dans le siècle où nous sommes.
-Trop de précautions contre les traîtres hommes j
-Ils sont si vains !
-
--*who_isabelle
-      J'ai cru qu'ils ne l'étaient pas tous.
-
--*who_laurette
-Ah ! Croyez-moi, j'en sais là-dessus plus que vous;
-Vous n'avez pas encore assez d'expérience.
-Rentrez, laissez-moi faire.
-
--*who_isabelle
-      Au moins fais diligence,
-
--*who_laurette
-Oui, j'aurai bientôt fait, n'ayez aucun souci.
-
--*who_isabelle
-Ne rends qu'à lui.
-
--*who_laurette
-      J'entends.
-
--*who_isabelle
-      Champagne vient ici.
-Qu'il ne t'arrête pas.
-
--*who_laurette
-      Vous m'arrêtez vous-même.
-
--*who_isabelle
-Surtout...
-
--*who_laurette
-      Encor ? Rentrez. Qu'on est sot quand on aime !
-
-**** *book_ *id_III02 *act_III *date_1665
-
--*who_champagne
-Je sors d'avec notre homme, et d'un long entretien.
-
--*who_laurette
-Eh bien ?
-
--*who_champagne
-      D'abord le traître a fait l'homme de bien,
-M'a prêché la vertu, l'honneur à toute outrance,
-Et contre ta maîtresse a pesté d'importance :
-Mais enfin mes raisons ont si bien réussi,
-Que mille écus offerts l'ont un peu radouci.
-
--*who_laurette
-Mille écus ?
-
--*who_champagne
-      Il veut même avoir l'argent d avance,
-Et de mentir à moins il ferait conscience.
-
--*who_laurette
-Le scrupule est fort bon; mais il faut aujourd'hui.
-Quoi qu'il coûte pourtant, nous assurer de lui :
-Tu n'as qu'à l'amener, je prendrai soin du reste-
-Dis-moi, que fait ton maître ?
-
--*who_champagne
-      Il se tourmente, il peste.
-
--*who_laurette
-Il peste ! Et contre qui ?
-
--*who_champagne
-      Contre un amour maudit.
-Qui lui fera, je crois, bientôt tourner l'esprit.
-Il ne peut, quoi qu'il fasse, oublier Isabelle :
-Il a beau s'efforcer d'être inconstant comme elle;
-Plus il y tâche, et moins il en a le pouvoir.
-
--*who_laurette
-Eh ! N'a-t-il point de honte ?
-
--*who_champagne
-      Il est au désespoir ;
-Il aime avec regret, sa honte en est extrême;
-Il s'en blâme, il s'en dit cent pouilles à lui-même,
-Se battrait volontiers de rage qu'il en a ;
-Mais il ne laisse pas d'aimer pour tout cela :
-Il est ensorcelé.
-
--*who_laurette
-      Les amants sont bien lâches !
-
--*who_champagne
-Qu'as-tu là ?
-
--*who_laurette
-      Moi ! Qu'aurais-je ?
-
--*who_champagne
-      Un billet que tu caches.
-
--*who_laurette
-Mon dieu ! Que tu vois clair !
-
--*who_champagne
-      Je suis dépaysé;
-Vois-tu ? J'ai de bons yeux, et suis un peu rusé.
-J'ai vu, comme j'entrais, retirer Isabelle,
-Et je gagerais bien que ce billet est d'elle,
-Qu'au rival de mon maître...
-
--*who_laurette
-      Oh !
-
--*who_champagne
-      Gageons, si tu veux.
-
--*who_laurette
-Ah ! Que les gens si fins sont quelquefois fâcheux !
-
--*who_champagne
-Ce poulet va sans doute au marquis ?
-
--*who_laurette
-      Tu devines.
-
--*who_champagne
-Nous démêlons un peu les ruses les plus fines;
-Les voyages font bien les gens.
-
--*who_laurette
-      Sans contredit.
-
--*who_champagne
-Mais surtout le vin grec ouvre bien un esprit :
-Dès que j'en eus tâté je le sus bien connaître.
-Aussi je m'en donnais...
-
--*who_laurette
-      Voici ton jeune maître.
-
--*who_champagne
-Qu'ai-je dit ? son amour le ramène en ces lieux.
-
--*who_laurette
-Le trouble de son coeur parait jusqu'en ses yeux.
-
-**** *book_ *id_III03 *act_III *date_1665
-
--*who_laurette
-Savez-vous les ennuis où madame est plongée,
-Monsieur ?
-
--*who_acante
-      On m'a tout dit.
-
--*who_laurette
-      Elle est bien affligée.
-
--*who_acante
-Mais ne la voit-on pas ?
-
--*who_laurette
-      Vous êtes des amis,
-Et je crois que pour vous, monsieur, tout est permis.
-Vous la consolerez.
-
--*who_acante
-      Sa fille est avec elle ?
-
--*who_laurette
-Non, non, ne craignez point d'y trouver Isabelle ;
-De son défunt mari c'est un vivant portrait.
-Qui renouvelle trop la perte qu'elle fait :
-Madame, en la voyant, d'ennuis est trop outrée ;
-Seule en son cabinet elle s'est retirée.
-
--*who_acante
-Puisqu'elle est seule, il faut la laisser...
-
--*who_laurette
-      Nullement.
-
--*who_acante
-Je l'incommoderais, Laurette, assurément.
-
--*who_laurette
-Eh ! monsieur, croyez-moi, parlez-nous sans finesse;
-Vous cherchez Isabelle, et non pas ma maîtresse :
-Avouez sans façon ce qu'aisément je vois.
-
--*who_acante
-Ah ! Si je l'avouais, que dirais-tu de moi ?
-
--*who_laurette
-Moi ! Qu'aurais-je à vous dire ? Il ne m'importe guère ;
-Chacun peut en ce monde aimer à sa manière,
-Et je n'ai pas dessein, par mes raisonnements,
-De vouloir réformer les erreurs des amants.
-
--*who_acante
-Sont-ce là les conseils que Laurette me donne ?
-
--*who_laurette
-Je ne me mêle plus de conseiller personne :
-Les plus sages conseils, les meilleures leçons,
-À gens bien amoureux, monsieur, sont des chansons.
-
--*who_champagne
-Si vous saviez quel est votre rival indigne !
-
--*who_acante
-Qui serait-ce ? dis donc.
-
--*who_champagne
-      Laurette me fait signe.
-
--*who_laurette
-Il parle sans savoir.
-
--*who_champagne
-      Je sais tout, et fort bien ;
-Mais elle ne veut pas que je vous dise rien.
-
--*who_acante
-Souffre au moins qu'il achève.
-
--*who_laurette
-      Eh ! monsieur, il se raille,
-
--*who_acante
-Tu lui fais signe encor.
-
--*who_laurette
-      Qui ! Moi ? c'est que je bâille.
-
--*who_champagne
-Pourquoi ne veux-tu pas me laisser découvrir
-Ce qui pourrait aider monsieur à se guérir ?
-N'aura-t-il pas sujet de haïr Isabelle,
-S'il sait que le marquis tient sa place auprès d'elle ?
-
--*who_acante
-C'est mon cousin, dis-tu ?
-
--*who_laurette
-      Que sait-il ce qu'il dit ?
-Il s'est mis, malgré moi, cette erreur dans l'esprit :
-Croyez sur mon honneur...
-
--*who_champagne
-      Penses-tu qu'on te croie ?
-Et certain billet doux qu'au marquis elle envoie,
-Que tu portes toi-même, est-ce erreur que cela ?
-
--*who_laurette
-J'aurais pour le marquis un billet ?
-
--*who_champagne
-Le voilà.
-
--*who_acante
-      Donne
-
--*who_laurette
-      Eh ! que voulez- vous ?
-
--*who_champagne
-      Il ne veut que le lire,
-Laisse faire monsieur.
-
--*who_laurette
-      Comment...
-
--*who_champagne
-      Laissez-la dire.
-
--*who_acante
-Laurette à mon rival porte donc ce poulet ?
-
--*who_laurette
-Tu me trahis ainsi !
-
--*who_champagne
-      Le grand tort qu'on te fait !
-
--*who_laurette
-Ne croyez pas, monsieur, que jamais je permette...
-
--*who_champagne
-Eh ! pour l'amour de moi, si tu m'aimes, Laurette...
-Elle consent, monsieur, puisqu'elle ne dit rien.
-
--*who_laurette
-Je ne suis que trop sotte, et tu le sais trop bien.
-
--*who_champagne
-Oui, tu m'aimes beaucoup, je n'en suis point en doute :
-Aussi de mon côté... Mais il va lire, écoute.
-
--*who_acante
-« Je voudrais vous parler, et nous voir seuls tous deux ;
-Je ne conçois pas bien pourquoi je le désire;
-Je ne sais ce que je vous veux,
-Mais n'auriez-vous rien à me dire ? »
-Eh ! c'est pour le marquis ?
-
--*who_champagne
-      Eh bien ! Qu'en dites-vous,
-Monsieur ?
-
--*who_acante
-      Pour le marquis ?
-
--*who_champagne
-      Le style est assez doux.
-Vous ne nous dites rien ?
-
--*who_laurette
-      Eh ! que veux-tu qu'il die ?
-Il est tout interdit de cette perfidie.
-
--*who_acante
-L'ingrate ! Ah ! Si jamais cette fille sans foi
-Pouvoir écrire ainsi, devait-ce être qu'à moi ?
-Encor si mon rival avait quelque mérite !
-Mais que pour le marquis Isabelle me quitte.
-Que son esprit volage, ébloui d'un faux jour.
-S'égare jusqu'au choix d'un si honteux amour...
-
--*who_laurette
-D'ordinaire en amour, Monsieur, l'esprit s'égare,
-Et le goût d'une fille est quelquefois bizarre :
-Souvent le vrai mérite, avec tous ses appas,
-Lui plaît moins que l'éclat, le faste, et le fracas :
-Un marquisat enfin est un charme admirable.
-
--*who_acante
-Mais tout son marquisat n'est qu'une vaine fable,
-Un faux titre.
-
--*who_laurette
-      Il n'importe, ou vrai marquis, ou non,
-S'il épouse Isabelle, elle aura ce grand nom,
-Un grand train, et surtout, comme c'est la coutume,
-Un page à lui porter la queue en grand volume.
-
--*who_acante
-Ah ! Si je ne me venge, et si j'épargne rien...
-
--*who_laurette
-Tâchez d'aimer ailleurs, c'en est le vrai moyen.
-
--*who_acante
-C'est bien aussi, Laurette, à quoi je me prépare,
-Et je veux faire choix d'une beauté si rare...
-
--*who_laurette
-Ce n'est pas là de vous ce que l'on craint le plus.
-Et si j'osais vous dire un secret là-dessus...
-
--*who_acante
-Espère tout de moi, prends pitié de mon trouble.
-
--*who_champagne
-Monsieur est libéral, mais il n'a pas le double :
-Peut-être quelque jour que son père mourra.
-
--*who_laurette
-Peut-être que son père aussi l'enterrera;
-Je ne fais pas grand fond sur la foi d'un peut-être.
-Mais pour l'amour de toi je veux servir ton maître.
-Je connais Isabelle, et jusqu'au fond du coeur;
-La crainte d'un beau-père est sa mortelle peur,
-Et le plus grand dépit que vous lui pourriez faire
-Serait de témoigner d'en vouloir à sa mère :
-Si rien peut la piquer, ce doit être cela.
-
--*who_acante
-Mais pourrais-je espérer qu'elle revînt par-là ?
-
--*who_laurette
-Peut-être : le dépit fait quelquefois miracle.
-Du moins à son amour vous pourriez mettre obstacle.
-Et, comme son beau-père, il dépendrait de vous
-D'empêcher le marquis de se voir son époux.
-
--*who_acante
-Il n'est, pour l'empêcher, effort que je ne tente,
-Et je vais de ce pas...
-
--*who_laurette
-      Où ?
-
--*who_acante
-      Voir cette inconstante,
-Lui dire que sa mère a pour moi tant d'appas...
-
--*who_laurette
-Ah ! si vous m'en croyiez, vous ne la verriez pas.
-
--*who_acante
-Pourquoi ?
-
--*who_laurette
-      Pour vous encor j'appréhende sa vue.
-
--*who_acante
-Ne crains rien de mon âme, elle est trop résolue;
-Tout mon amour est mort, je t'en répondrai bien.
-
--*who_laurette
-En fait d'amour, monsieur, ne répondons de rien.
-
--*who_acante
-Après sa trahison, quelque soin que j'emploie,
-Tu peux douter... Non, non, il faut que je la voie.
-Ne fût-ce seulement que pour te faire voir
-Que l'ingrate sur moi n'a plus aucun pouvoir.
-
--*who_laurette
-Mais l'incivilité, monsieur, serait extrême
-De vouloir l'outrager jusqu'en sa chambre même
-Aussi bien vous pourriez le vouloir vainement ;
-Elle n'y sera pas pour vous assurément.
-
--*who_acante
-La perfide !
-
--*who_laurette
-      Attendez, j'espère agir de sorte,
-Que sans aucun soupçon je ferai qu'elle sorte.
-
--*who_acante
-Va donc.
-
--*who_laurette
-      Et son billet, ne le rendez- vous pas ?
-
--*who_acante
-Oui, je te le rendrai dès que tu reviendras ;
-Je le veux lire encor.
-
--*who_champagne
-      Va.
-
--*who_laurette
-      Tu vois, à ma honte.
-Ce que je fais pour toi.
-
--*who_champagne
-      Va, je t'en tiendrai compte.
-Sans vanité, monsieur, nous avons réussi ;
-Vous voilà par mes soins assez bien éclairci.
-
--*who_acante
-Ah ! Que trop bien ! C'est là ce qui me désespère.
-
--*who_laurette
-Je viens vous avertir que voici votre père.
-
--*who_acante
-Mon père !
-
--*who_laurette
-      Il vient ici, je crois, dix fois par jour.
-Il ne veut point du tout approuver votre amour ;
-Il vous a défendu l'entretien d'Isabelle,
-Et vous ferait beau bruit, vous trouvant avec elle.
-Sans doute, en lui parlant, il vous eût rencontré.
-
--*who_acante
-Mais s'il pouvait passer par le petit degré...
-
--*who_laurette
-Ne faites point, monsieur, là-dessus votre compte :
-C'est par cet escalier que d'ordinaire il monte;
-Il le trouve commode, et l'autre lui déplaît.
-
--*who_acante
-Au moins dis à l'ingrate... Ô ciel ! elle paraît.
-
--*who_laurette
-Songez à votre père, il monte.
-
--*who_acante
-      Qu'elle est belle !
-
--*who_laurette
-C'est dommage, il est vrai, qu'elle soit infidèle.
-Mais qu'attendez-vous tant ? Qu'on vous vienne gronder ?
-
--*who_acante
-Sortons.
-
--*who_laurette
-      Et le billet, voulez-vous le garder ?
-
--*who_acante
-Le voilà ce billet.
-
--*who_laurette
-      Cachez bien vos faiblesses,
-On vous observe, au moins.
-
--*who_acante
-      Tiens.
-
--*who_laurette
-      Fort bien, en vingt pièces.
-
-**** *book_ *id_III04 *act_III *date_1665
-
--*who_isabelle
-L'ingrat déchire ainsi mon billet à mes yeux !
-
--*who_laurette
-Vous voyez.
-
--*who_isabelle
-      Est-il rien de plus injurieux ?
-Qu'ainsi de ma faiblesse il triomphe à ma vue !
-
--*who_laurette
-Que vous avais-je dit ?
-
--*who_isabelle
-      Ah ! Pourquoi m'as-tu crue ?
-Pourquoi lui rendais-tu ce billet trop honteux ?
-
--*who_laurette
-Pourquoi ? Vous le vouliez.
-
--*who_isabelle
-      Sais-je ce que je veux ?
-Toi qui voyais la honte où s'exposait ma flamme,
-Que ne trahissais-tu le faible de mou âme ?
-Fallait-il, pour en croire un lâche emportement,
-Abandonner mon coeur à son aveuglement ?
-Et ne devais-tu pas, avec un zélé extrême,
-Prendre soin de ma gloire en dépit de moi-même ?
-
--*who_laurette
-Le remède est facile, après tout.
-
--*who_isabelle
-      Eh ! comment ?
-
--*who_laurette
-D'un billet sans adresse on se sauve aisément ;
-Dites, pour réparer et ma faute et la vôtre.
-Que vous aviez écrit ce billet à quelque autre.
-
--*who_isabelle
-Mais à qui donc ?
-
--*who_laurette
-      À qui ? N'importe.
-
--*who_isabelle
-      À ton avis,
-Dis.
-
--*who_laurette
-      Au premier venu, par exemple, au marquis.
-
--*who_isabelle
-À tes soins désormais mon âme s'abandonne :
-Mais quelqu'un vient ici, je ne puis voir personne.
-
-**** *book_ *id_III05 *act_III *date_1665
-
--*who_cremante
 Ah ! notre belle enfant !
 
--*who_laurette
-      Ah ! Monsieur, laissez-la;
-La pauvre fille est mal.
-
--*who_cremante
       Quel mal est-ce qu'elle a ?
 
--*who_laurette
-Le plus grand mal de coeur qu'elle ait eu de sa vie :
-Entre nous, tout répond, monsieur, à notre envie.
-
--*who_cremante
 As-tu des deux amants augmenté le soupçon ?
 
--*who_laurette
-Je viens de leur jouer un tour de ma façon ;
-Mais pour les brouiller mieux, je veux encor plus faire;
-Le marquis pour cela nous serait nécessaire.
-
--*who_cremante
 Je n'ai qu'à le mander : mais viendrons-nous à bout...
 
--*who_laurette
-Allons trouver madame, et je vous dirai tout.
-
-**** *book_ *id_IV01 *act_IV *date_1665
-
--*who_champagne
-Jusque-là du marquis Isabelle est éprise !
-Je ne l'aurais pas cru, j'avouerai ma surprise.
-Tu dis que dans sa chambre, et sans témoins, ce soir
-Ce galant a reçu rendez-vous pour la voir ?
-
--*who_laurette
-Au moins n'en dis rien.
-
--*who_champagne
-      Moi ? Tu me sais mal connaître ;
-Je meure, si jamais j'en dis rien qu'à mon maître.
-
--*who_laurette
-C'est lui qui le dernier en doit être éclairci :
-Je suis bien simple encor de te tout dire ainsi.
-
--*who_champagne
-Eh ! Ne te fâche pas.
-
--*who_laurette
-      Ton babil est terrible.
-Ne dis donc rien.
-
--*who_champagne
-      Bien, va, j'y ferai mon possible.
-
--*who_laurette
-À propos, dis-moi donc, quand viendra ton vieillard ?
-
--*who_champagne
-Il viendra, sans manquer, dans une heure au plus tard.
-Mais voici le marquis ; adieu, je me retire.
-
-**** *book_ *id_IV02 *act_IV *date_1665
-
--*who_laurette
-Vous riez ?
-
--*who_lemarquis
-      Là-dedans on vient de me tout dire ;
-Je ris de ton adresse, et du tour du billet.
-
--*who_laurette
-Chacun n'en a pas ri.
-
--*who_lemarquis
-      Morbleu, que c'est bien fait !
-Surtout pour mon cousin ma joie en est extrême.
-
--*who_laurette
-Isabelle est encor si faible qu'elle l'aime :
-Mais j'ai tout de nouveau si bien su l'éblouir.
-Que cet excès d'amour ne sert qu'à la trahir.
-Au lieu qu'à son déçu j'ai crû vous introduire.
-Elle y consent.
-
--*who_lemarquis
-      Comment ?
-
--*who_laurette
-      Je vais vous en instruire :
-J'ai voulu la revoir pour souder son courroux;
-J'ai feint que vous aviez querelle Acante et vous,
-Que vous deviez vous battre, et dès ce soir peut-être;
-Que ce combat pourrait la venger de son traître;
-Qu'elle en devait attendre ou sa fuite ou sa mort.
-Je l'ai vue à ces mots interdite d'abord :
-Son âme, où la tendresse est soudain revenue,
-De son nouveau dépit ne s'est plus souvenue,
-Et, quoi que la vengeance ait pu lui conseiller,
-L'amour, qui semblait mort, n'a fait que s'éveiller.
-La voyant à ce point de ce combat émue.
-J'ai voulu profiter du trouble où je l'ai vue;
-J'ai ménagé sa peur.
-
--*who_lemarquis
-      Fort bien, mais après tout,
-À quoi bon ce combat ?
-
--*who_laurette
-      Écoutez jusqu'au bout :
-J'ai dit qu'un sûr moyen d'accorder la querelle,
-Ce serait d'essayer de vous mener chez elle,
-Afin qu'elle vous pût amuser quelque temps
-Pour me donner loisir d'avertir vos parents.
-Dans le panneau d'abord elle a donné sans peine :
-Ainsi de son aveu chez elle je vous mène.
-De savoir nos desseins ne faites pas semblant.
-
--*who_lemarquis
-Non, non : tu m'introduis à titre de galant;
-C'est un pur rendez-vous qu'Isabelle me donne.
-Et j'aurais bien regret d'en détromper personne.
-
--*who_laurette
-C'est à votre cousin surtout qu'il faut songer.
-
--*who_lemarquis
-Que j'aurai de plaisir à le faire enrager !
-
--*who_laurette
-Mais...
-
--*who_lemarquis
-      Mon père est longtemps.
-
--*who_laurette
-      Pour l'aigrir davantage...
-
--*who_lemarquis
-Mon page...
-
--*who_laurette
-      Eh ! je sais bien que vous avez un page.
-
--*who_lemarquis
-Le voici, ce fripon s'arrête à chaque pas.
-
-**** *book_ *id_IV03 *act_IV *date_1665
-
--*who_lemarquis
-Donnez, Page ?
-
--*who_page
-      Monsieur ?
-
--*who_lemarquis
-      Ma calèche est là-bas ?
-
--*who_page
-Oui, monsieur.
-
--*who_lemarquis
-      Écoutez, la nuit étant venue,
-Qu'on la tienne à l'écart vers le bout de la rue,
-Et de dire où je suis qu'on sache se garder.
-Page ?
-
--*who_page
-      Monsieur ?
-
--*who_lemarquis
-      En cas qu'on me vînt demander,
-Qu'on dise, et que surtout mon suisse s'en souvienne,
-Qu'on ne croit pas ce soir que chez moi je revienne.
-Que j'ai dit que j'irais coucher peut-être ailleurs;
-Et si l'on demande où, dites, Chez les Baigneurs.
-Page ? Et cela d'un ton... Vous m'entendez bien, page ?
-Bon, il suffit, allez.
-
--*who_laurette
-      Quel est cet équipage ?
-Pourquoi s'envelopper de ce grand manteau gris ?
-
--*who_lemarquis
-Ah ! Si de ce manteau tu savais tout le prix...
-
--*who_laurette
-Quel prix ?
-
--*who_lemarquis
-      C'est, quoique simple et d'étoffe commune.
-Un manteau de mystère et de bonne fortune.
-Manteau pour un galant utile en cent façons,
-Manteau propre surtout à donner des soupçons;
-Et c'est assez qu'Acante en cet état me voie
-Pour lui persuader tout ce qu'on veut qu'il croie.
-Mais par quelque artifice il serait donc besoin
-De l'attirer ici.
-
--*who_laurette
-      Champagne en prendra soin,
-c'est un valet zélé, mais à tromper facile,
-Et dupe d'autant plus, qu'il se tient fort habile.
-Et qu'il croit m'attraper lors même qu'il me sert,
-Bien mieux que s'il était avec moi de concert :
-Son faible est de l'humeur dont je l'ai su connaître.
-De se faire de fête en faveur de son maître ;
-Il cherche à lui conter toujours quelque secret,
-Et le trahit souvent par un zèle indiscret.
-Il prétend qu'il n'est rien que je ne lui confie,
-Et j'ai pris soin qu'il sût ce que je veux qu'il die;
-J'ai feint de craindre fort que son maître en sût rien.
-Exprès .. Voyez, monsieur, si je le connais bien.
-
--*who_lemarquis
-Entrons, l'occasion ne peut être meilleure.
-
-**** *book_ *id_IV04 *act_IV *date_1665
-
--*who_champagne
-C'est lui : nous arrivons, monsieur, à la bonne heure.
-
--*who_acante
-Ah ! c'en est trop, je veux...
-
--*who_champagne
-      Monsieur, que voulez-vous ?
-
--*who_acante
-Je ne veux croire ici que mes transports jaloux.
-
--*who_champagne
-Mais, monsieur.
-
--*who_acante
-      Laisse-moi, si tu crains ma colère.
-Ils ont fermé la porte.
-
--*who_champagne
-      Ils ont peut-être affaire :
-Les mystères d'amour doivent être cachés.
-
--*who_acante
-Heurtons. On n'ouvre pas ?
-
--*who_champagne
-      C'est qu'ils sont empêchés.
-Voyez par le trou. Bon.
-
--*who_acante
-      Qu'elle ait si peu de honte !
-
--*who_champagne
-Vous n'avez donc rien vu qui vous plaise, à ce compte ?
-
--*who_acante
-Qui l'eût pensé ?
-
--*who_champagne
-      Quoi donc ? qui peut tant vous troubler ?
-
--*who_acante
-L'ingrate ! Ô ciel ! J'ai vu... Je ne saurais parler.
-
--*who_champagne
-Vous avez douc, monsieur, vu chose bien terrible ?
-
--*who_acante
-Je l'ai vue elle-même, ah ! Qui l'eût cru possible ?
-Enfermer le galant d'un air tout interdit.
-
--*who_champagne
-Où ?
-
--*who_acante
-      Dans son cabinet, à côté de son lit.
-
--*who_champagne
-Voyez-vous la rusée avec son innocence !
-Diable !
-
--*who_acante
-      Il faut redoubler.
-
--*who_champagne
-      Un peu de patience.
-On vient.
-
-**** *book_ *id_IV05 *act_IV *date_1665
-
--*who_laurette
-      Qui heurte ici ?
-
--*who_champagne
-      Ne vois-tu pas qui c'est ?
-
--*who_acante
-Oui, c'est moi.
-
--*who_laurette
-      Vous, monsieur ? Excusez, s'il vous plaît ;
-J'ai charge, si c'est vous, de refermer la porte.
-
--*who_acante
-Isabelle ose ainsi... Mais à tort je m'emporte.
-Non, non ; elle a raison de me traiter ainsi :
-Je l'incommoderais, et le galant aussi.
-
--*who_laurette
-Quel galant ?
-
--*who_acante
-      Le galant qu'elle enferme chez elle.
-
--*who_laurette
-Voici de notre ami quelque pièce nouvelle.
-
--*who_champagne
-Je n'ai pu m'en tenir, j'ai tout dit. Que veux-tu ?
-J'aurais trahi monsieur, s'il n'en avait rien su.
-
--*who_laurette
-Qu'aurait-il pu savoir de ton babil extrême ?
-
--*who_champagne
-Eh...
-
--*who_laurette
-      Quoi ?
-
--*who_champagne
-      Le rendez-vous que j'ai su de toi-même.
-
--*who_laurette
-Quel rendez-vous ? Comment ! qu'oses-tu supposer ?
-
--*who_acante
-Et tu prétends qu'ainsi je me laisse abuser ?
-Tu veux chercher en vain une méchante ruse.
-
--*who_laurette
-En bonne foi, monsieur, c'est lui qui vous abuse.
-
--*who_champagne
-Tu me démentirais ?
-
--*who_laurette
-      Que ne parles-tu mieux
-D'une fille d'honneur ?
-
--*who_acante
-      Démens aussi mes yeux.
-
--*who_laurette
-Qu'auriez-vous vu, monsieur ?
-
--*who_acante
-      J'ai trop vu pour sa gloire,
-J'ai vu... Non, sans le voir, je ne l'aurais pu croire;
-J'ai vu le digne objet dont son coeur est épris,
-Se couler doucement chez elle en manteau gris.
-Je n'ai point vu Laurette en prendre la conduite ?
-Le faire entrer sans bruit ? Fermer la porte ensuite ?
-Avoir soin du galant et de sa sûreté ?
-Enfin par la serrure, après avoir heurté,
-Je n'ai point vu l'ingrate avec un trouble extrême
-À côté de son lit l'enfermer elle-même ?
-Ose, ose le nier.
-
--*who_champagne
-      Que dis-tu de cela ?
-Explique-nous un peu quelle affaire il a là.
-Avec ton bel esprit tu ne sais que répondre.
-
--*who_laurette
-C'est... J'ai... Je...
-
--*who_champagne
-      Tu ne fais, ma foi, que te confondre.
-Crois-moi, fais mieux; avoue.
-
--*who_acante
-      En cette occasion,
-Faut-il quelque autre aveu que sa confusion ?
-Son silence en dit plus qu'on n'en veut savoir d'elle.
-Il faut que j'aille aussi confondre l'infidèle,
-Que j'éclate.. -
-
--*who_laurette
-      Eh, Monsieur ! Ne soyez pas si prompt ;
-Quelle gloire aurez-vous de lui faire un affront ?
-De faire un tort mortel à l'honneur d'une fille.
-Si sage jusqu'ici, de si bonne famille;
-De plus, qui vous fut chère ? Enfin, songez-y bien,
-Vous êtes honnête homme, et vous n'en ferez rien :
-Un mépris généreux, s'il vous était possible,
-Serait pour vous plus beau, pour elle plus sensible.
-
--*who_acante
-La voici.
-
-**** *book_ *id_IV06 *act_IV *date_1665
-
--*who_laurette
-      C'est monsieur qui m'arrête en ces lieux.
-
--*who_acante
-Elle est tout interdite.
-
--*who_isabelle
-      Il paraît furieux.
-
--*who_laurette
-Tandis que j'aurai soin d'amuser sa colère,
-Vous ferez bien d'aller avertir votre mère.
-
--*who_acante
-Quoi ! Sans rien dire, ainsi passer en m'évitant ?
-
--*who_laurette
-Elle a hâte, monsieur, et madame l'attend.
-
--*who_isabelle
-Il vous importe peu qu'ainsi je me retire ;
-Nous n'avons, que je crois, monsieur, rien à nous dire :
-Vous ne me cherchez pas.
-
--*who_acante
-      Je serais mal reçu.
-Je cherche mon cousin ; ne l'auriez-vous point vu ?
-
--*who_laurette
-Non, monsieur. Souffrez-vous qu'ainsi l'on vous amuse ?
-
--*who_acante
-Eh quoi ! Vous paraissez et surprise et confuse.
-D'où naît cette rougeur ?
-
--*who_isabelle
-      C'est d'un juste courroux.
-
--*who_acante
-Enfin donc, mon cousin n'est pas venu chez vous ?
-
--*who_isabelle
-Il y pouvait venir, s'il vous eût plu permettre
-Que jusqu'entre ses mains on eût porté ma lettre;
-Mais l'ayant déchirée, il n'en a rien appris.
-
--*who_acante
-C'était pour mon cousin ?
-
--*who_isabelle
-      Vous en semblez surpris :
-Laurette n'a pas dû vous en faire un mystère.
-
--*who_laurette
-Mon dieu ! Vous vous ferez crier par votre mère ;
-D'un éclaircissement vous vous passerez bien.
-
--*who_isabelle
-C'est un soin en effet qui n'est plus bon à rien.
-
--*who_acante
-Auprès de votre mère, au moins, sans trop d'audace,
-Pourrais-je encor de vous espérer une grâce ?
-Votre mère étant veuve avec tant de beautés,
-On va venir briguer son choix de tous côtés :
-Votre suffrage y peut être considérable,
-Et j'ose vous prier qu'il me soit favorable.
-Nul ne peut mieux que vous parler en ma faveur:
-Vous avez fait l'essai vous-même de mon coeur ;
-Vous savez comme il aime, il fut sous votre empire;
-Vous savez...
-
--*who_isabelle
-      Oui, monsieur, je sais ce qu'il faut dire.
-
-**** *book_ *id_IV07 *act_IV *date_1665
-
--*who_champagne
-Elle est au désespoir. Laurette l'a bien dit :
-Vous ne lui pouviez pas faire un plus grand dépit j
-Elle sort tout outrée, et l'atteinte est cruelle.
-
--*who_acante
-Cependant le marquis est enfermé chez elle.
-
--*who_laurette
-Te prendrai soin, monsieur, sitôt qu'il sera nuit,
-De le faire sortir sans scandale et sans bruit.
-Fût-il déjà bien loin ! Si l'on m'en avait crue,
-Isabelle en secret n'eût point souffert sa vue,
-N'eût jamais accordé ce rendez-vous maudit.
-Enfin pour l'empêcher, Dieu sait ce que j'ai dit;
-Mais elle m'a parlé d'une façon si tendre.
-Que ma sotte bonté ne s'en est pu défendre :
-Je suis trop complaisante, et je m'en veux du mal.
-
--*who_acante
-Mais je veux voir sortir moi-même ce rival.
-
--*who_laurette
-Tout comme il vous plaira; j'y consens : mais de grâce,
-Que la chose entre vous avec douceur se passe.
-Jugez ce qu'on croirait, si vous faisiez éclat :
-Le monde est si méchant, l'honneur si délicat.
-De ce qui s'est passé la moindre connaissance
-Peut faire étrangement parler la médisance :
-Les méchants bruits surtout ont cela de mauvais,
-Que les taches qu'ils font ne s'effacent jamais;
-Et si vous épousiez quelque jour Isabelle...
-
--*who_acante
-Moi, l'épouser, après ce que j'ai connu d'elle !
-Après la trahison dont je suis éclairci !
-Après l'indigne amour dont son coeur s'est noirci !
-Je cherche à m'en venger, c'est tout ce que j'espère.
-
--*who_laurette
-Si je puis vous servir pour épouser sa mère,
-Je vous offre mes soins, et sans déguisement...'
-
--*who_acante
-Mais ne pourrais-je pas m'en venger autrement ?
-
--*who_laurette
-Non, monsieur, que je sache. Il est vrai, ma maîtresse
-Tente moins que sa fille, et n'a pas sa jeunesse,
-Son éclat, sa beauté : mais, au lieu de cela,
-Si vous saviez, monsieur, les beaux louis qu'elle a,
-Les écus d'or mignons, et le nombre innombrable
-De grands sacs déçus blancs.
-
--*who_champagne
-      Peste ! Qu'elle est aimable !
-Épousez-la, monsieur, s'il se peut, dès ce soir.
-
--*who_acante
-Qu'Isabelle ait ainsi pu trahir mon espoir !
-
--*who_champagne
-Moquez-vous d'Isabelle, et de son inconstance.
-
--*who_acante
-Oui... Mais sa mère sort.
-
-**** *book_ *id_IV08 *act_IV *date_1665
-
--*who_ismene
-      Craignez- vous ma présence ?
-
--*who_acante
-La peur d'être importun me faisait détourner.
-
--*who_ismene
-Vous ne sauriez, monsieur, jamais importuner ;
-Des soins de mes amis je me tiens obligée :
-Mais on fuit volontiers une veuve affligée ;
-Car, puisqu'il plaît au ciel trop contraire à mes voeux,
-Mon veuvage à présent n'a plus rien de douteux.
-
--*who_laurette
-Monsieur sait tout, madame, et chérit la famille;
-Il a fait compliment pour vous à votre fille ;
-Vous l'a-t-elle pas dit ?
-
--*who_ismene
-      Quel esprit déloyal !
-Ma fille, de Monsieur, ne m'a dit que du mal :
-Je n'ai jamais tant vu de colère et de haine.
-Et ne l'ai même enfin fait taire qu'avec peine.
-
--*who_acante
-Elle me fait plaisir : injuste comme elle est,
-Sa colère m'oblige, et sa haine me plaît :
-Je me tiens honoré du mépris qu'elle exprime,
-Et j'aurais à rougir, si j'avais son estime.
-
--*who_ismene
-J'ai regret de vous voir tous deux si désunis,
-Je vous aime toujours autant et plus qu'un fils ;
-Le ciel m'en est témoin, et que votre alliance
-A fait jusques ici ma plus chère espérance.
-
--*who_laurette
-Si ces noeuds sont rompus, il en est de plus doux
-Qui pourraient renouer l'alliance entre vous.
-Monsieur peut rencontrer dans la même famille
-De quoi se consoler des mépris de la fille;
-Et madame, voyant monsieur mal satisfait,
-Peut réparer le tort que sa fille lui fait :
-Vous êtes en état tous deux de mariage.
-
--*who_ismene
-Laurette, en vérité, vous n'êtes guère sage.
-
--*who_laurette
-Sage ou non, croyez-moi tous deux à cela près :
-Pour monsieur, j'en réponds, je sais ses voeux secrets;
-Il souhaite ardemment une union si belle.
-C'est vous qu'il veut aimer, c'est vous...
-
--*who_acante
-      Ah ! L'infidèle !
-
--*who_ismene
-Monsieur songe à ma fille, et n'y renonce pas.
-
--*who_acante
-Moi, madame, y songer ! J'aurais le coeur si bas !
-De cette lâcheté vous me croiriez capable ?
-
--*who_laurette
-Non : c'est lui faire tort; cela n'est pas croyable.
-Quoi que lui fasse dire un transport de courroux.
-Monsieur assurément ne veut songer qu'à vous.
-
--*who_acante
-Madame, il est certain, jamais, je le confesse,
-L'amour n'a fait aimer avec tant de tendresse,
-N'a jamais inspiré dans le coeur d'un amant
-Rien qui fût comparable à mon empressement,
-Bien d'égal à l'ardeur pure, vive, fidèle,
-Dont mon âme charmée adorait Isabelle.
-Vous voyez cependant comme j'en suis traité.
-
--*who_ismene
-La jeunesse, monsieur, n'est que légèreté :
-Au sortir de l'enfance, une âme est peu capable
-De la solidité d'un amour raisonnable;
-Un coeur n'est pas encore assez fait à seize ans.
-Et le grand art d'aimer veut un peu plus de temps.
-C'est après les erreurs où la jeunesse engage,
-Vers trente ans, c'est-à-dire, environ à mon âge,
-Lorsqu'on est de retour des vains amusements
-Qui détournent l'esprit des vrais attachements;
-C'est alors qu'on peut faire un choix en assurance,
-Et c'est là proprement l'âge de la constance.
-Un esprit jusque-là n'est pas bien arrêté,
-Et les coeurs pour aimer ont leur maturité.
-
--*who_acante
-Mais, madame, après tout, qui l'eût cru d'Isabelle ?
-Isabelle inconstante ! Isabelle infidèle !
-Isabelle perfide ; et sans se soucier...
-
--*who_ismene
-Quoi ! toujours Isabelle ?
-
--*who_acante
-      Ah ! c'est pour l'oublier.
-Et je veux, s'il se peut, dans mon dépit extrême,
-Arracher de mon coeur jusques à son nom même.
-Je veux n'y laisser rien de ce qui me fut doux :
-Grâce au ciel, c'en est fait.
-
--*who_laurette
-      C'est fort bien fait à vous.
-
--*who_acante
-J'en fais juge madame, et veux bien qu'elle die
-S'il est rien de si noir que cette perfidie.
-Après tant de serments, et si tendrement faits,
-De nous aimer toujours, de ne changer jamais,
-Isabelle aujourd'hui, cette même Isabelle...
-Madame, obligez-moi, ne me parlez plus d'elle.
-
--*who_ismene
-C'est vous qui m'en parlez.
-
--*who_acante
-      Ce sont tous ces endroits
-Où l'ingrate a promis de m'aimer tant de fois.
-Ces lieux témoins des noeuds dont son coeur se dégage.
-De qui l'objet encor m'en rappelle l'image;
-Et pour marquer l'ardeur que j'ai d'y refoncer.
-Je ne veux plus rien voir qui m'y fasse penser :
-Tout me parle ici d'elle, il vaut mieux que je sorte.
-
--*who_laurette
-Par où donc allez-vous ?
-
--*who_acante
-      Je ne sais, mais n'importe :
-Par le petit degré l'on descend aussi-bien.
-
--*who_ismene
-Ma fille est là-dedans.
-
--*who_acante
-      Ah ! je m'en ressouviens.
-Il n'est pas en effet à propos que j'y passe :
-Sans vous je l'oubliais, et vous m'avez fait grâce.
-
-**** *book_ *id_IV09 *act_IV *date_1665
-
--*who_ismene
-Fais sortir le marquis.
-
--*who_laurette
-      Vous, du même moment,
-Tâchez de profiter d'un premier mouvement ;
-Pour le père d'Acante engagez Isabelle.
-
--*who_ismene
-J'y vais; je l'ai laissé dans ma chambre avec elle.
-Mais tu m'avais parlé d'un vieillard...
-
--*who_laurette
-      Je l'attends.
-Et vous verrez bientôt tous vos désirs contents.
-
--*who_ismene
-Hélas !
-
--*who_laurette
-      Comment hélas ! Pour vous rendre contente,
-Que vous faut-il de plus que d'épouser Acante ?
-
--*who_ismene
-Qu'il m'aimât, que ma fille eût pour lui moins d'attraits :
-Tu vois...
-
--*who_laurette
-      Prenez-vous garde à cela de si près ?
-Épousez-le toujours.
-
--*who_ismene
-      Quoi ! qu'un coeur m'appartienne.
-Qu'il faille que ma fille à ma honte retienne !
-Crois-tu qu'il soit au monde un plus grand désespoir ?
-
--*who_laurette
-Rien n'est encore fait, et c'est à vous à voir :
-Si vous voulez tout rompre, un mot pourra suffire;
-Vous n'avez...
-
--*who_ismene
-      Ce n'est pas ce que je veux te dire.
-Acante, tel qu'il est, n'est pas à négliger;
-Et quand ce ne serait qu'afin de me venger,
-Que pour punir ma fille, épousant ce qu'elle aime.
-Cet hymen m'est toujours d'une importance extrême.
-
--*who_laurette
-Tâchons donc d'achever ; tout commence assez bien.
-
--*who_ismene
-Agis de ton côté, je vais agir du mien.
-
-**** *book_ *id_V01 *act_V *date_1665
-
--*who_laurette
-L'avez-vous vu, monsieur ?
-
--*who_lemarquis
-      Quoi ? Qu'as-tu vu paraître ?
-
--*who_laurette
-L'ami Champagne au guet pour avertir sou maître.
-Il veut vous voir sortir : souvenez-vous donc bien,
-S'il vient à vous parler...
-
--*who_lemarquis
-      Va, je n'oublierai rien :
-Jamais homme à la cour, sans trop m'en faire accroire,
-N'a su si bien que moi tourner tout à sa gloire,
-De rien faire mystère, et de peu fort grand cas.
-Et triompher enfin des faveurs qu'il n'a pas.
-Si je parle au cousin, crois qu'il n'est peine égale
-Aux couleuvres, morbleu, que je veux qu'il avale.
-C'est ma félicité de faire des jaloux ;
-Je tiens que dans la vie il n'est rien de si doux;
-Le triomphe, à mon gré, vaut mieux que la victoire.
-Et l'on n'a de bonheur qu'autant qu'on en fait croire :
-Le cousin passera mal le temps avec moi.
-
--*who_laurette
-J'entends quelqu'un, adieu.
-
-**** *book_ *id_V02 *act_V *date_1665
-
--*who_acante
-      Laisse-nous, je le vois.
-Non, non, ne croyez pas m'échapper de la sorte.
-
--*who_lemarquis
-C'est moi, cousin; permets de grâce que je sorte:
-Pour n'être point connu, j'ai certains intérêts...
-
--*who_acante
-Écoutez quatre mots, vous sortirez après.
-
--*who_lemarquis
-Je vois bien que tu veux me parler de ton père :
-Mon soin est inutile, il est toujours sévère.
-J'ai prié de mon mieux en vain en ta faveur;
-Je ne sais ce qui peut endurcir tant son coeur :
-Je n'ai pu l'émouvoir, il n'est rien qui le touche.
-
--*who_acante
-Mais le coeur d'Isabelle est-il aussi farouche ?
-
--*who_lemarquis
-Comment ?
-
--*who_acante
-      Vous l'ignorez ?
-
--*who_lemarquis
-      Qu'entends-tu donc par-là ?
-
--*who_acante
-Vos nouvelles amours.
-
--*who_lemarquis
-      Cousin, laissons cela :
-Là-dessus, en ami, tout ce que je puis faire
-De mieux pour ton repos, crois-moi, c'est de me taire.
-
--*who_acante
-Ne me déguisez rien, j'ai tout appris d'ailleurs.
-
--*who_lemarquis
-N'importe, je craindrais d'irriter tes douleurs:
-Je vois trop quel chagrin en secret te dévore;
-Adieu, dispense-moi de t' affliger encore.
-
--*who_acante
-Non. Je puis sans chagrin savoir votre bonheur;
-Isabelle à présent ne me tient plus au coeur;
-Je vois son changement avec indifférence,
-Et vous pouvez enfin m'en faire confidence :
-Je me sens bien guéri, ne craignez rien pour moi.
-
--*who_lemarquis
-Tout de bon ?
-
--*who_acante
-      Tout de bon.
-
--*who_lemarquis
-      Tu fais fort bien, ma foi :
-Mépriser les mépris, rendre haine pour haine,
-Est le parti qu'il faut qu'un honnête homme prenne.
-Isabelle, après tout, n'a rien fait d'étonnant :
-Tu lui plus autrefois, je lui plais maintenant.
-Durant quatre ou cinq ans son coeur fut ta conquête;
-Du sexe dont elle est, le terme est bien honnête :
-Tu ne dois pas t'en plaindre, et je la quitte à moins.
-
--*who_acante
-Avez-vous, pour lui plaire, employé bien des soins ?
-
--*who_lemarquis
-Moi ! des soins pour lui plaire ? Un tel soupçon m'offense ;
-Mes soins sont pour des choix de plus grande importance ;
-A moins d'être duchesse, on ne peut m'engager,
-Et le coeur que tu perds me vient sans y songer.
-
--*who_acante
-Vous voyez toutefois en secret Isabelle ?
-
--*who_lemarquis
-Elle m'en a prié, je n'ai pu moins pour elle :
-On doit être civil, si l'on n'est pas amant;
-Peut-on en galant homme en user autrement ?
-
--*who_acante
-Mais enfin dans l'ardeur dont elle est possédée,
-Quelle marque d'amour vous a-t-elle accordée ?
-Comment en use-t-elle avec vous en secret ?
-
--*who_lemarquis
-Tu peux croire...
-
--*who_acante
-      Hem ?
-
--*who_lemarquis
-      Cousin, il faut être discret.
-Tu t'émeus; parle-moi franchement, je te prie.
-Tout ce que j'en ai fait n'est que galanterie :
-Je suis trop ton ami pour te rien refuser ;
-Et si le coeur t'en dit, tu la peux épouser.
-
--*who_acante
-C'est pour moi trop d'honneur, et je cède la place.
-Mais pourrais-je de vous attendre une autre grâce ?
-
--*who_lemarquis
-Parle, je suis à toi ; mais, morbleu, tout de bon.
-
--*who_acante
-Fallait-il pour cela m'arracher ce bouton ?
-
--*who_lemarquis
-C'est pour mieux t'exprimer, cousin, de quel courage..⁎
-
--*who_acante
-Au moins, je ne puis pas reculer davantage.
-
--*who_lemarquis
-Là, reprends du terrain.
-
--*who_acante
-      Pourrait-on seul vous voir
-En quelque endroit, demain...
-
--*who_lemarquis
-      Si tu veux, dès ce soir.
-Pourquoi ?
-
--*who_acante
-      Vous n'avez là qu'un couteau, que je pense ?
-
--*who_lemarquis
-Non.
-
--*who_acante
-      Prenez une épée et bonne et de défense.
-
--*who_lemarquis
-As-tu quelque querelle ?
-
--*who_acante
-      Oui, qu'il faudra vider.
-
--*who_lemarquis
-Mais est-ce un différent qu'on ne puisse accorder ?
-
--*who_acante
-Non, il n'est point d'accord pour de pareils outrages.
-
--*who_lemarquis
-Apprends-moi donc au moins contre qui tu m'engages.
-
--*who_acante
-Vous n'avez pas compris à quoi je me résous :
-Je veux me battre seul.
-
--*who_lemarquis
-      Fort bien.
-
--*who_acante
-      Mais contre vous.
-
--*who_lemarquis
-Pour moi, je ne me bats qu'en rencontre imprévue.
-
--*who_acante
-Eh bien, soit ! Descendons à l'instant dans la rue.
-
--*who_lemarquis
-Mais quel tort t'ai-je fait ? examinons en quoi :
-Si ta maîtresse m'aime, est-ce ma faute à moi ?
-Un homme recherché peut-il de bonne grâce...
-
--*who_acante
-Quoi qu'il en soit, il faut que je me satisfasse;
-Nous nous battrons là-bas, si vous avez du coeur.
-
--*who_lemarquis
-Quoi qu'il en soit, cousin, je suis ton serviteur.
-Je n'ai point prétendu te faire aucune injure,
-Et ne me battrai point contre toi, je te jure,
-
--*who_acante
-L'honneur vous touche ainsi ?
-
--*who_lemarquis
-      Pour être décrié,
-Mon honneur dans le monde est sur un trop bon pié ;
-Et j'ai fait assez voir de marques de courage,
-Pour n'avoir pas besoin d'en donner davantage.
-
--*who_acante
-Si vous ne me suivez...
-
--*who_lemarquis
-      Cousin, en vérité.
-Tu pourrais voir enfin rabattre ta fierté.
-
--*who_acante
-Venez, ou je vous tiens pour le dernier des hommes.
-
--*who_lemarquis
-Ah ! si nous n'étions pas cousins comme nous sommes !
-
--*who_acante
-Ah ! si vous étiez brave !
-
--*who_lemarquis
-      Encore un coup, cousin,
-Quand on me presse trop, je m'échauffe à la fin;
-Et si tu me fais mettre une fois en furie,
-J'irai, vois-tu, j'irai...
-
--*who_acante
-      Venez donc, je vous prie.
-
--*who_lemarquis
-Eh bien donc ! puisque ainsi tu me pousses à bout,
-J'irai trouver ton père, et je lui dirai tout.
-Il est ici.
-
--*who_acante
-      Je cède enfin à ma colère.
-
--*who_lemarquis
-Eh ! cousin.
-
--*who_acante
-      Défends-toi. Quelqu'un sort : c'est mou père.
-
-**** *book_ *id_V03 *act_V *date_1665
-
--*who_lemarquis
-Maintenant...
-
--*who_cremante
       Qu'est-ce ici ! Quel désordre nouveau !
 Une brette à la main contre un petit couteau !
 Lâche ! Attaquer monsieur avec cet avantage !
 
--*who_lemarquis
-Ou ne prend garde à rien quand on a du courage.
-
--*who_acante
-Vous témoignez, sans doute, un courage fort grand.
-
--*who_cremante
 Taisez-vous. Mais, monsieur, quel est ce différent ?
 
--*who_lemarquis
-Pour Isabelle encore il s'émeut, il s'emporte.
-
--*who_cremante
 Pour Isabelle ! Il suit mes ordres de la sorte !
 
--*who_lemarquis
-S'il n'avait point été mon cousin, votre fils...
-
--*who_cremante
 Vite, qu'on fasse excuse à monsieur le Marquis.
 
--*who_acante
-Moi ! Je ferais, monsieur, excuse à qui m'offense ?
-
--*who_cremante
 N'importe ; je le veux.
 
--*who_lemarquis
-      Non, non ; je l'en dispense :
-Et, de peur contre lui de me mettre en courroux,
-Je vais me retirer, et le laisse avec vous.
-
-**** *book_ *id_V04 *act_V *date_1665
-
--*who_cremante
 Quoi ! Le joli garçon ! Avoir l'impertinence
 De choquer un parent de cette conséquence,
 Et, pour comble d'audace et de crime aujourd'hui.
@@ -3291,50 +2273,20 @@ Pour qui le moindre soin de votre part m'irrite !
 Que je vous ai cent fois ordonné d'oublier !
 Une fille, en un mot, qui se va marier !
 
--*who_acante
-Se marier, monsieur ?
-
--*who_cremante
       C'est une affaire faite :
 La fille eu est d'accord, la mère le souhaite.
 
--*who_acante
-Et ce sera bientôt ?
-
--*who_cremante
       Ce sera, que je crois,
 Dans huit jours au plus tard.
 
--*who_acante
-      Mais à qui donc ?
-
--*who_cremante
       À moi.
 
--*who_acante
-À vous ?
-
--*who_cremante
       Oui.
 
--*who_acante
-      Vous ?
-
--*who_cremante
       Moi-même.
 
--*who_acante
-      Épouser Isabelle,
-Vous qui condamniez tant mon hymen avec elle,
-Qui blâmiez ce parti lorsqu'il m'était si doux !
-
--*who_cremante
 Je l'ai trouvé pour moi plus propre que pour vous.
 
--*who_acante
-Vous oublieriez ainsi la parole donnée ?
-
--*who_cremante
 Isabelle, il est vrai, vous était destinée :
 Jadis son père et moi, comme amis dès longtemps,
 Nous nous étions promis d'unir nos deux enfants.
@@ -3367,146 +2319,54 @@ Mais enfin je suis libre, et de plus votre père:
 Je n'ai pas, dieu merci, besoin de votre aveu,
 Et que je l'aie ou non, cela m'importe peu.
 
--*who_acante
-Si vous connaissiez bien ce que c'est qu'Isabelle,
-Soapeade foi...
-
--*who_cremante
       Gardez d'oser parler mal d'elle :
 Elle est presque ma femme, et déjà m'appartient;
 Et si vous l'offensez... Mais la voici qui vient.
 
-**** *book_ *id_V05 *act_V *date_1665
-
--*who_cremante
 Vous quittez donc déjà madame votre mère ?
 
--*who_isabelle
-Un vieillard l'entretient d'une secrète affaire ;
-Champagne l'a conduit par le petit degré.
-Et l'on m'a fait sortir sitôt qu'il est entré.
-
--*who_cremante
 Vous me trouvez outré d'une juste colère.
 
--*who_isabelle
-Contre qui donc, monsieur ?
-
--*who_cremante
       Contre un fils téméraire.
 
--*who_isabelle
-Quel sujet contre lui vous peut mettre en courroux ?
-
--*who_cremante
 Quel sujet ? L'insolent veut médire de vous;
 Il voudrait empêcher notre heureux mariage :
 Mais mon coeur à ce choix trop fortement s'engage...
 
--*who_isabelle
-Se peut-il que monsieur, engagé comme il est,
-Prenne en ce qui me touche encor quelque intérêt ?
-
--*who_cremante
 C'est malice ou dépit. Mais vous m'êtes si chère...
 
--*who_acante
-Si j'y prends intérêt, ce n'est que pour mon père.
-
--*who_cremante
 De quoi vous mêlez-vous, vous qui parlez si haut ?
 Pensez-vous mieux que moi savoir ce qu'il me faut ?
 Allez, ma belle enfant, malgré lui je désire...
 
--*who_isabelle
-Mais, monsieur, mais encor, qu'est-ce qu'il pourrait dire ?
-
--*who_cremante
 Je n'en veux rien savoir, et déjà comme époux
 J'ai tant d'affection, tant d'estime pour vous...
 
--*who_isabelle
-Je mets au pis, monsieur, toute sa médisance :
-S'il me peut accuser, c'est de trop d'innocence.
-D'avoir un coeur trop tendre, et qu'il sut trop toucher;
-C'est tout ce que je crois qu'il me peut reprocher.
-
--*who_acante
-Ah ! Si je n'avais point autre reproche à faire î
-
--*who_cremante
 Où je parle, où je suis, mêlez-vous de vous taire,
 Autrement...
 
--*who_acante
-      Je me tais. Mais si j'osais parler,
-Si vous saviez, monsieur...
-
--*who_cremante
       Quoi ! toujours nous troubler ?
 Vous pouvez là dehors jaser tout à votre aise.
 
--*who_acante
-Je ne dirai plus rien, monsieur, qui vous déplaise.
-
--*who_cremante
 Je lui défends de dire un seul mot contre vous :
 L'ingrat mérite assez déjà votre courroux ;
 Vous le haïriez trop.
 
--*who_isabelle
-      Non, non, laissez-le dire.
-Ma haine encor n'est pas au point que je désire;
-Laissez-le de nouveau m'outrager, me trahir;
-Laissez-le enfin, monsieur, m'aider à le haïr.
-
--*who_acante
-Je n'ai que trop de lieu de vous pouvoir confondre.
-
--*who_cremante
 Plaît-il ?
 
--*who_acante
-      Je ne dis rien, je ne fais que répondre.
-
--*who_cremante
 On ne vous parle pas. Pour la dernière fois,
 Taisez-vous, ou sortez ; je vous laisse le choix.
 
--*who_isabelle
-Il se taira, monsieur.
-
--*who_cremante
       J'entends qu'il considère
 Sa belle-mère en vous.
 
--*who_acante
-      Elle ma belle-mère !
-
--*who_cremante
 Vous voyez à ce nom comme il est irrité.
 
--*who_isabelle
-Je ne l'aurais pas eu, s'il l'avait souhaité :
-Il sait bien à quel point il avait su me plaire.
-
--*who_cremante
 Ne vous amusez pas à vous mettre en colère;
 Il n'en vaut pas la peine.
 
--*who_isabelle
-      Oui, l'ingrat aujourd'hui
-Ne vaut pas en effet qu'on pense encore à lui.
-
--*who_cremante
 C'est un impertinent.
 
--*who_isabelle
-      Cependant je confesse
-Qu'il fut l'unique objet de toute ma tendresse,
-Qu'il avait tous mes voeux pour être mon époux.
-
--*who_cremante
 Ah ! quel meurtre, bon dieu, c'aurait été pour vous !
 Si pour votre malheur il vous eût épousée,
 Il vous eût peu chérie, il vous eût méprisée;
@@ -3521,116 +2381,225 @@ Je me sens rajeunir par l'amour qui me presse,
 Par des yeux si puissants, par des charmes si doux.
 Huui !
 
--*who_isabelle
-      Je vous plains d'avoir cette méchante toux.
-
--*who_cremante
 Point, point: c'est une toux dont la cause m'est douce,
 C'est de transport, enfin c'est d'amour que je tousse.
 J'ai tant d'émotion...
 
-**** *book_ *id_V06 *act_V *date_1665
-
--*who_champagne
-      Monsieur !
-
--*who_cremante
       Aie !
 
--*who_acante
-      Excusez.
-Est-ce à l'endroit ?...
-
--*who_cremante
       Lourdaud, si vous ne vous taisez...
 
--*who_champagne
-On aurait là-dedans quelque chose à vous dire.
-
--*who_cremante
 J'y vais. Allez devant. Et vous ?
 
--*who_acante
-      Je me retire;
-N'en doutez point, monsieur.
+Bonsoir.
 
--*who_isabelle
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
+Jallais à votre chambre.
+
+Vous rendre ce que doit une fille à sa mère,
+M'informer s'il vous plaît que je suive vos pas
+Au temple ce matin.
+
+Chaque jour rend pour moi votre humeur plus sévère.
+Ne saurais-je jamais d'où vient votre colère ?
+J'essayerais, madame...
+
+Tu dis donc que l'ingrat qui m'avait tant su plaire,
+Acante, ce volage à qui je fus si chère,
+T'a parlé ce matin ?
+
+      Entre nous,
+Que pense-t-il de moi ?
+
+Mais quel si long discours encor t'a-t-il pu faire ?
+De quoi t'a-t-il parlé ?
+
+Et n'a rien dit de moi ?
+
+      Et qu'a-t-il répondu ?
+
+Mais dans ma mère enfin que peut-il voir d'aimable ?
+
+Le soin qu'elle a de plaire et de cacher son âge
+M'a bien fait prévoir d'elle un second mariage;
+Mais voir mon amant même en devenir l'époux !
+Voir mon beau-père en lui !
+
+Si je ne l'aime plus ! Que n'est-il vrai, Laurette ?
+
+Notre sexe à son gré n'est pas toujours volage;
+Et comme par pudeur une fille d'abord
+N'aime ordinairement qu'après beaucoup d'effort.
+Quand l'amour une fois lui fait prendre une chaîne.
+Elle n'en sort aussi qu'avec beaucoup de peine.
+Surtout les premiers feux sont toujours les plus doux.
+Ceux d'Acante et les miens sont nés presque avec nous;
+Nos pères qui s'aimaient semblaient dès la naissance
+Avoir fait pour s'aimer nos coeurs d'intelligence :
+Tout enfant que j'étais, sans nul discernement.
+Je songeais à lui plaire avec empressement;
+Cent petits soins aussi m'exprimaient sa tendresse.
+Nous nous voyions souvent, et nous cherchions sans cesse;
+Sans lui j'étais chagrine, ainsi que lui sans moi;
+Parfois nous soupirions sans savoir bien pourquoi;
+Et nos coeurs, ignorant quel mal ce pouvait être,
+Surent sentir l'amour plus tôt que le connaître.
+
+Sans doute, et si je vois sa trahison certaine...
+
+Ah ! s'il se peut encor, laisse-moi m'en flatter.
+
+On m'en a dit assez pour me désespérer :
+Cependant en secret un pouvoir que j'admire
+Me fait presque oublier tout ce qu'on m'a pu dire;
+Je ne sais quoi toujours me parle en sa faveur.
+
+Tu te peux tout promettre encor, s'il est volage;
+Mais mon coeur par lui-même en veut être éclairci.
+
+      Je t'ai crue, et l'ai fui jusqu'ici.
+Redevable à tes soins dès ma tendre jeunesse,
+J'ai suivi tes conseils, j'ai contraint ma tendresse;
+J'ai tâché de te croire autant que je l'ai pu :
+Souffre au moins une fois que mou coeur en soit cru;
+Qu'il puisse s'éclaircir ainsi qu'il le souhaite;
+Qu'un aveu de l'ingrat... Mais tu rougis, Laurette ?
+
+Je ne le suis que trop, je ne m'en défends point :
+Mais pardonne aux abois d'une première flamme,
+Ces restes de faiblesse où tombe encor mon âme.
+
+J'ai cru qu'à ce dessein tu pourrais t'opposer;
+Et si de m'y servir la prière te gêne,
+Je me suis préparée à t'en sauver la peine :
+Un billet de ma main par quelque autre porté...
+
+Es-tu si bonne encore ?
+
+Va, tu n'y perdras rien.
+
+L'adresse encore y manque.
+
+      J'ai cru qu'ils ne l'étaient pas tous.
+
+      Au moins fais diligence,
+
+Ne rends qu'à lui.
+
+      Champagne vient ici.
+Qu'il ne t'arrête pas.
+
+Surtout...
+
+L'ingrat déchire ainsi mon billet à mes yeux !
+
+      Est-il rien de plus injurieux ?
+Qu'ainsi de ma faiblesse il triomphe à ma vue !
+
+      Ah ! Pourquoi m'as-tu crue ?
+Pourquoi lui rendais-tu ce billet trop honteux ?
+
+      Sais-je ce que je veux ?
+Toi qui voyais la honte où s'exposait ma flamme,
+Que ne trahissais-tu le faible de mou âme ?
+Fallait-il, pour en croire un lâche emportement,
+Abandonner mon coeur à son aveuglement ?
+Et ne devais-tu pas, avec un zélé extrême,
+Prendre soin de ma gloire en dépit de moi-même ?
+
+      Eh ! comment ?
+
+Mais à qui donc ?
+
+      À ton avis,
+Dis.
+
+À tes soins désormais mon âme s'abandonne :
+Mais quelqu'un vient ici, je ne puis voir personne.
+
+      Il paraît furieux.
+
+Il vous importe peu qu'ainsi je me retire ;
+Nous n'avons, que je crois, monsieur, rien à nous dire :
+Vous ne me cherchez pas.
+
+      C'est d'un juste courroux.
+
+Il y pouvait venir, s'il vous eût plu permettre
+Que jusqu'entre ses mains on eût porté ma lettre;
+Mais l'ayant déchirée, il n'en a rien appris.
+
+      Vous en semblez surpris :
+Laurette n'a pas dû vous en faire un mystère.
+
+C'est un soin en effet qui n'est plus bon à rien.
+
+      Oui, monsieur, je sais ce qu'il faut dire.
+
+Un vieillard l'entretient d'une secrète affaire ;
+Champagne l'a conduit par le petit degré.
+Et l'on m'a fait sortir sitôt qu'il est entré.
+
+Contre qui donc, monsieur ?
+
+Quel sujet contre lui vous peut mettre en courroux ?
+
+Se peut-il que monsieur, engagé comme il est,
+Prenne en ce qui me touche encor quelque intérêt ?
+
+Mais, monsieur, mais encor, qu'est-ce qu'il pourrait dire ?
+
+Je mets au pis, monsieur, toute sa médisance :
+S'il me peut accuser, c'est de trop d'innocence.
+D'avoir un coeur trop tendre, et qu'il sut trop toucher;
+C'est tout ce que je crois qu'il me peut reprocher.
+
+      Non, non, laissez-le dire.
+Ma haine encor n'est pas au point que je désire;
+Laissez-le de nouveau m'outrager, me trahir;
+Laissez-le enfin, monsieur, m'aider à le haïr.
+
+Il se taira, monsieur.
+
+Je ne l'aurais pas eu, s'il l'avait souhaité :
+Il sait bien à quel point il avait su me plaire.
+
+      Oui, l'ingrat aujourd'hui
+Ne vaut pas en effet qu'on pense encore à lui.
+
+      Cependant je confesse
+Qu'il fut l'unique objet de toute ma tendresse,
+Qu'il avait tous mes voeux pour être mon époux.
+
+      Je vous plains d'avoir cette méchante toux.
+
       Monsieur peut croire aussi.
 Que je n'ai pas dessein de demeurer ici.
 
--*who_cremante
-Bonsoir.
-
-**** *book_ *id_V07 *act_V *date_1665
-
--*who_acante
-      L'ingrate encor ne s'est pas retirée.
-
--*who_isabelle
 Vous n'êtes pas sorti ?
 
--*who_acante
-      Vous n'êtes pas rentrée ?
-Qui vous peut retenir ?
-
--*who_isabelle
       Qui vous fait demeurer ?
 
--*who_acante
-Moi ! rien ; je vais sortir
-
--*who_isabelle
       Je vais aussi rentrer.
 
--*who_acante
-Quoi ! vous me fuyez donc avec un soin extrême ?
-
--*who_isabelle
 Moi ! point : c'est vous, monsieur, qui nie fuyez vous-même,
 
--*who_acante
-c'est vous faire plaisir; au moins, je l'ai pensé.
-
--*who_isabelle
 Vous savez qu'autrefois... Mais laissons le passé.
 
--*who_acante
-Vous allez donc enfin être ma belle-mère ?
-
--*who_isabelle
 Vous allez donc aussi devenir mon beau-père ?
 
--*who_acante
-Si j'ai changé, du moins, mon coeur, quoique inconstant,
-Ne s'est guère éloigné de vous en vous quittant >
-N'a passé qu'à la mère, échappé de la fille,
-Et n'a pas même osé sortir de la famille.
-
--*who_isabelle
 Vous voyez bien qu'aussi, prenant un autre époux,
 Je tâche, en changeant même, à m'approcher de vous:
 Il est vrai qu'on y peut voir cette différence,
 Que vous changez par choix, moi par obéissance.
 
--*who_acante
-Mais vous obéirez sans un effort bien grand.
-
--*who_isabelle
 Cela vous est, je pense, assez indifférent.
 
--*who_acante
-Il me devrait bien l'être, après l'injuste flamme
-Qu'un indigne rival a surpris dans votre âme.
-Le marquis...
-
--*who_isabelle
       Vous pourriez croire mon coeur si bas,
 Si lâche...
 
--*who_acante
-      Eh ! quel moyen de ne le croire pas ?
-
--*who_isabelle
 Il ne fallait avoir pour moi qu'un peu d'estime.
 Suivez, monsieur, suivez l'ardeur qui vous anime;
 Rompez l'attachement dont nous fûmes charmés,
@@ -3644,159 +2613,275 @@ La voit rompre à regret, et n'en sort qu'avec peine ;
 Un coeur trop faible encor pour qui l'ose trahir,
 Et qui n'était pas fait enfin pour vous haïr.
 
--*who_acante
-Vous voulez m'abuser en parlant de la sorte :
-Eh bien, ingrate ! eh bien ! Abusez-moi, n'importe;
-Trompez-moi, s'il se peut ; l'abus m'en sera doux;
-Mon coeur même est tout prêt de s'entendre avec vous :
-Mais faites que ce coeur, dont je ne suis plus maître,
-Soit si bien abusé qu'il ne pense pas l'être.
-J'ai peine à croire encor tout ce que j'ai pu voir.
-
--*who_isabelle
 Mais quoi donc ?
 
--*who_acante
-      Le marquis caché chez vous ce soir,
-Enfermé par vous-même.
-
--*who_isabelle
       On m'avait fait entendre
 Que vous aviez querelle.
 
--*who_acante
-      Ah ! c'est mal vous défendre.
-Mais le billet rompu, pour le marquis, si doux...
-
--*who_isabelle
 Vous ne savez que trop qu'il n'était que pour vous.
 
--*who_acante
-Pour moi ? N'avez-vous pas avoué le contraire ?
-
--*who_isabelle
 Doit-on croire un aveu que le dépit fait faire ?
 Croyez plutôt Laurette.
 
--*who_acante
-      Hélas ! si je la crois.
-Vous aimez le marquis, vous me manquez de foi.
-
--*who_isabelle
 Laurette aurait bien pu me trahir de la sorte ?
 
-**** *book_ *id_V08 *act_V *date_1665
-
--*who_laurette
-Que me donnerez-vous pour l'avis que j'apporte ?
-
--*who_isabelle
 Perfide, te voilà !
 
--*who_acante
-      Fourbe !
-
--*who_isabelle
       Esprit dangereux !
 
--*who_laurette
-Est-ce ainsi qu'on reçoit qui vient vous rendre heureux ?
-
--*who_isabelle
 Toi qui nous as trahis !
 
--*who_laurette
-      Je n'en fais plus mystère,
-J'ai fait pour vous brouiller tout ce que j'ai pu faire,
-Mis le marquis en jeu pour y mieux réussir;
-Mais qui vous a brouillés veut bien vous éclaircir.
-
--*who_acante
-Tu ne meurs pas de honte !
-
--*who_laurette
-      Eh pourquoi, je vous prie ?
-Est-ce une honte à moi qu'un peu de fourberie ?
-N'est-ce pas mon devoir ?
-
--*who_isabelle
       Ton devoir !
 
--*who_laurette
-      En effet,
-Que pouvez-vous blâmer en tout ce que j'ai fait ?
-Je n'ai qu'exécuté l'ordre de votre mère :
-Votre amant, par malheur, avait trop su lui plaire.
-Sans doute elle avait tort de vous l'oser ravir;
-Mais c'était ma maîtresse, et j'ai dû la servir.
-
--*who_isabelle
 Tu n'as point eu pitié du trouble où tu nous jettes ?
 
--*who_laurette
-Allez, le mal n'est pas si grand que vous le faites;
-L'amour n'est que plus doux après ces démêlés,
-Et l'on s'en cdme mieux, de s'être un peu brouillés.
-
--*who_acante
-Tu nous as cependant engagés l'un et l'autre.
-
--*who_laurette
-Je viens faire cesser et sa peine et la vôtre.
-Mais il faut composer pour un avis si doux:
-J'entends qu'il me remette en grâce auprès de vous.
-
--*who_isabelle
 Oui, dis.
 
--*who_laurette
-      J'entends qu'aussi monsieur soit sans colère
-Pour notre ami Champagne.
-
--*who_acante
-      Oui, quoi qu'il ait pu faire,
-Si tu veux l'épouser, je lui ferai du bien :
-Hâte notre bonheur, nous aurons soin du tien ;
-Instruis-nous du succès qui nous rend l'espérance.
-
--*who_laurette
-Le vieillard que Champagne avait conduit en France,
-Que ma maîtresse avait fait pratiquer par nous,
-Pour venir assurer la mort de son époux,
-Pour ses péchés, sans doute, et pour sa honte extrême,
-Au lieu d'un faux témoin, est son époux lui-même.
-
--*who_isabelle
 Mon père ?
 
--*who_laurette
-      Oui, c'est mon maître : il est fort irrité
-De l'oubli de madame en sa captivité.
-De se faire connaître il a su se défendre.
-Exprès pour la confondre, et pour la mieux surprendre :
-Votre bonheur est sûr par cet heureux retour.
-
--*who_acante
-Nous devons craindre encor mon père et son amour.
-
--*who_laurette
-Un amour de vieillard aisément se surmonte :
-Mon maître là-dessus l'a tant comblé de honte,
-L'a si bien chapitré, qu'au point qu'il est confus.
-Quand il voudrait vous nuire, il ne l'oserait plus;
-Il faut qu'il tienne enfin sa parole donnée,
-Et mon maître au plus tôt veut voir votre hyménée.
-
--*who_acante
-Se peut-il...
-
--*who_laurette
-      Eu transports ne perdez point de temps ;
-Venez trouver celui qui vous rendra contents.
-Il brûle de vous voir, et lui-même m'envoie...
-
--*who_isabelle
 Allons.
 
--*who_acante
-      Allons enfin voir combler notre joie.
+
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
+      Et qu'y veniez- vous faire ?
+
+      Non, il ne me plaît pas.
+
+      Ah ! C'est trop discourir.
+Allez, retirez-vous, je ne vous puis souffrir.
+
+J'en ai trop de raisons.
+
+      Elle n'est que trop belle;
+Je sais trop sur les coeurs quel empire elle prend.
+
+      En est-il un plus grand ?
+De quel oeil puis-je voir, moi qui, par mon adresse.
+Crois pouvoir, si j'osais, me piquer de jeunesse,
+Une fille adorée, et qui, malgré mes soins.
+M'oblige d'avouer que j'ai trente ans au moins ?
+Et comme à mal juger on n'a que trop de pente,
+De trente ans avoués n'en crois-t-on pas quarante ?
+
+Ou le peut, mais enfin c'est l'âge de retraite ,
+La beauté perd ses droits, fut-elle encor parfaite;
+Et la galanterie, au moment qu'on vieillit,
+Ne peut se retrancher qu'à la beauté d'esprit.
+
+Une fille à seize ans défait bien une mère.
+J'ai beau par mille soins tâcher de rétablir
+Ce que de mes appas l'âge peut affaiblir,
+Et d'arrêter par art la beauté naturelle
+Qui vient de la jeunesse, et qui passe avec elle.
+Ma fille détruit tout dès qu'elle est près de moi :
+Je me sens enlaidir sitôt que je la vois.
+Et la jeunesse en elle, et la simple nature,
+Font plus que tout mon art, mes soins et ma parure.
+Fut-il jamais sujet d'un plus juste courroux ?
+
+Non : je puis m'assurer de son obéissance;
+Elle suit mes désirs toujours sans résistance;
+Je la trouve soumise à tout ce que je veux,
+Et c'est ce que j'y trouve encor de plus fâcheux,
+Puisqu'elle m'ôte ainsi tout prétexte de plainte.
+Pour couvrir le dépit dont je me sens atteinte.
+Pour l'éloigner de moi, je n'ai qu'à le vouloir;
+Mais, Laurette, quels maux n'en dois-je pas prévoir ?
+C'est dans l'état de veuve, où je dois me réduire,
+Un prétexte aux plaisirs, qu'une fille à conduire.
+Je puis, sous la couleur d'un soin si spécieux,
+Prétendre sans scrupule à paraître eu tous lieux,
+À jouir des douceurs du Cours, des promenades,
+À voir les jeux publics, bals, ballets, mascarades;
+Et n'ayant plus de fille à mener avec moi,
+Je dois vivre autrement, et c'est là mon effroi.
+Le grand monde me plaît, je hais la solitude,
+Il n'est point à mon gré de supplice plus rude.
+Et j'aime encore mieux voir ma fille à regret.
+Qu'éviter à ce prix le tort qu'elle me fait.
+
+Sans mentir ?
+
+Comment suis-je aujourd'hui ? Mais dis la vérité.
+
+Est-il bien vrai, Laurette ?
+
+Tu peux prendre pour toi cette jupe demain ;
+Je viens d'apercevoir que la tienne se passe.
+
+La jeunesse, Laurette, a de puissants attraits.
+
+Acante cependant l'aime et ne peut m'aimer;
+Ni tout ce que j'ai d'art, ni toute ton adresse.
+N'ont pu déraciner sa première tendresse;
+Je ne puis à ma fille arracher cet amant.
+
+      C'est beaucoup ; mais Laurette,
+Ce n'est pas, tu le sais, tout ce que je souhaite :
+Avant de mes appas le déclin déclaré,
+Il serait bon que j'eusse un époux assuré,
+Un parti qui me plût, et qui me fût sortable,
+Et je trouve à mon goût Acante fort aimable.
+
+      N'épargne soin ni peine.
+Si tu peux réussir, ta fortune est certaine ;
+Tu n'en dois point douter.
+
+Laurette, à dire vrai, c'est mon plus grand souci.
+
+Il faudrait que ce fût sans me commettre, au moins.
+
+Dispose, agis, promets, je n'épargnerai rien.
+On vient, je remets tout enfin à ta conduite.
+
+      De quoi pleure Laurette ?
+
+N'importe, expliquez-vous.
+
+Je n'aurais plus d'époux ! Serait-il bien possible ?
+
+Ah ! Ne me flattez pas.
+
+La douleur m'en avait fait perdre la mémoire :
+Je ferai plus pour vous, et vous le pouvez croire;
+Prenez toujours ceci.
+
+Ciel !
+
+Me voilà donc enfin veuve sans contredit ?
+
+Acante pourrait donc m'épouser sans scrupule ?
+
+Nous oublions peut-être un des plus grands obstacles-
+
+      Le père d'Acante.
+
+Peut-être il m'aime trop ; c'est ce que j'appréhende :
+J'ai peur qu'à m'épouser lui-même il ne prétende.
+
+      Il n'importe, et je crains qu'il n'y pense.
+
+Ce n'est point pour cela, Laurette.
+
+      Oh !
+
+      Il est trop véritable !
+
+      Hé ! Monsieur, de quoi me parlez-vous ?
+
+Cela ne se peut pas.
+
+Ah !
+
+Laissez-vous vos amis ainsi dans la douleur ?
+
+Hélas ! Qui pourrait mieux me consoler que vous ?
+Vous étiez tant ami de mon défunt époux !
+Tout votre soin ne peut métré que salutaire,
+Et rien, venant de vous, ne me saurait déplaire.
+
+Sait-on ce que l'on fait dans un premier transport ?
+D'abord, il est certain, c'était bien mon envie
+De n'entendre parler d'autre époux de ma vie;
+J'en rejetais l'espoir, quoiqu'il me fût permis :
+Mais que ne peuvent point les conseils des amis ?
+
+Ah ! Monsieur, après vous, je n'examine rien.
+
+Vous savez mieux que moi ce qui m'est nécessaire.
+Acante vaut beaucoup; mais, quel qu'en soit le prix,
+Si rien me plaît en lui, c'est qu'il est votre fils.
+
+      Au moins c'est une affaire
+Que vous trouverez bon, monsieur, que je diffère.
+Ce n'est pas qu'en effet ce soin importe fort;
+Feu mon mari déjà depuis longtemps est mort
+J'en ai porté le deuil, et j'ai toute licence :
+Mais j'aime extrêmement l'exacte bienséance;
+Et pour sécher mes pleurs, pour en finir le cours,
+Je vous demande encore au moins huit ou dix jours.
+
+Ce que je vous dois être unit nos intérêts.
+
+Ma fille, dites-vous ?
+
+Vous, monsieur ?
+
+Eh rien ! Mais vous pourriez peut-être choisir mieux :
+Elle est si jeune encor !
+
+Point du tout ; mais j'ai peur, quelque soin que je prenne
+Que ma fille en ce choix m'obéisse avec peine.
+
+Sur ma fille, après tout, j'ai pourtant trop d'empire,
+Pour craindre absolument qu'elle m'ose dédire :
+Elle me fut toujours soumise au dernier point.
+
+Ainsi que vous, monsieur, c'est ce qui m'inquiète;
+Mais j'ai grande espérance aux ruses de Laurette.
+
+      Craignez- vous ma présence ?
+
+Vous ne sauriez, monsieur, jamais importuner ;
+Des soins de mes amis je me tiens obligée :
+Mais on fuit volontiers une veuve affligée ;
+Car, puisqu'il plaît au ciel trop contraire à mes voeux,
+Mon veuvage à présent n'a plus rien de douteux.
+
+      Quel esprit déloyal !
+Ma fille, de Monsieur, ne m'a dit que du mal :
+Je n'ai jamais tant vu de colère et de haine.
+Et ne l'ai même enfin fait taire qu'avec peine.
+
+J'ai regret de vous voir tous deux si désunis,
+Je vous aime toujours autant et plus qu'un fils ;
+Le ciel m'en est témoin, et que votre alliance
+A fait jusques ici ma plus chère espérance.
+
+Laurette, en vérité, vous n'êtes guère sage.
+
+Monsieur songe à ma fille, et n'y renonce pas.
+
+La jeunesse, monsieur, n'est que légèreté :
+Au sortir de l'enfance, une âme est peu capable
+De la solidité d'un amour raisonnable;
+Un coeur n'est pas encore assez fait à seize ans.
+Et le grand art d'aimer veut un peu plus de temps.
+C'est après les erreurs où la jeunesse engage,
+Vers trente ans, c'est-à-dire, environ à mon âge,
+Lorsqu'on est de retour des vains amusements
+Qui détournent l'esprit des vrais attachements;
+C'est alors qu'on peut faire un choix en assurance,
+Et c'est là proprement l'âge de la constance.
+Un esprit jusque-là n'est pas bien arrêté,
+Et les coeurs pour aimer ont leur maturité.
+
+Quoi ! toujours Isabelle ?
+
+C'est vous qui m'en parlez.
+
+Ma fille est là-dedans.
+
+Fais sortir le marquis.
+
+J'y vais; je l'ai laissé dans ma chambre avec elle.
+Mais tu m'avais parlé d'un vieillard...
+
+Hélas !
+
+Qu'il m'aimât, que ma fille eût pour lui moins d'attraits :
+Tu vois...
+
+      Quoi ! qu'un coeur m'appartienne.
+Qu'il faille que ma fille à ma honte retienne !
+Crois-tu qu'il soit au monde un plus grand désespoir ?
+
+      Ce n'est pas ce que je veux te dire.
+Acante, tel qu'il est, n'est pas à négliger;
+Et quand ce ne serait qu'afin de me venger,
+Que pour punir ma fille, épousant ce qu'elle aime.
+Cet hymen m'est toujours d'une importance extrême.
+
+Agis de ton côté, je vais agir du mien.
+

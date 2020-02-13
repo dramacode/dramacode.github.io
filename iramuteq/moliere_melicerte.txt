@@ -1,102 +1,83 @@
 
 
-**** *book_ *id_I01 *act_I *date_1682 *creator_moliere
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acante
 
-
-
--*who_acante
 Ah ! charmante Daphné.
 
--*who_tyrene
-      Trop aimable Éroxène.
-
--*who_daphne
-Acante, laisse-moi.
-
--*who_eroxene
-      Ne me suis point, Tyrène.
-
--*who_acante
 Pourquoi me chasses-tu ?
 
--*who_tyrene
-      Pourquoi fuis-tu mes pas ?
-
--*who_daphne
-Tu me plais loin de moi.
-
--*who_eroxene
-      Je m'aime où tu n'es pas.
-
--*who_acante
 Ne cesseras-tu point cette rigueur mortelle ?
 
--*who_tyrene
-Ne cesseras-tu point de m'être si cruelle ?
-
--*who_daphne
-Ne cesseras-tu point tes inutiles vœux ?
-
--*who_eroxene
-Ne cesseras-tu point de m'être si fâcheux ?
-
--*who_acante
 Si tu n'en prends pitié, je succombe à ma peine.
 
--*who_tyrene
-Si tu ne me secours, ma mort est trop certaine.
-
--*who_daphne
-Si tu ne veux partir, je vais quitter ce lieu.
-
--*who_eroxene
-Si tu veux demeurer, je te vais dire adieu.
-
--*who_acante
 Hé bien en m'éloignant, je te vais satisfaire.
 
--*who_tyrene
-Mon départ va t'ôter ce qui peut te déplaire.
-
--*who_acante
 Généreuse Éroxène, en faveur de mes feux
 Daigne au moins par pitié lui dire un mot ou deux.
 
--*who_tyrene
+Ah ! Myrtil, vous avez du Ciel reçu des charmes,
+Qui nous ont préparé des matières de larmes,
+Et leur naissant éclat fatal à nos ardeurs,
+De ce que nous aimons nous enlève les cœurs.
+
+Ne faites point languir deux Amants davantage,
+Et nous dites quel sort votre cœur nous partage.
+
+Ah, Myrtil, se peut-il que deux tristes Amants…
+
+Ah, que cette aventure est un charmant miracle,
+Et qu'à notre poursuite elle ôte un grand obstacle.
+
+Suivons aussi ses pas, afin de tout apprendre.
+
+
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_tyrene
+
+      Trop aimable Éroxène.
+
+      Pourquoi fuis-tu mes pas ?
+
+Ne cesseras-tu point de m'être si cruelle ?
+
+Si tu ne me secours, ma mort est trop certaine.
+
+Mon départ va t'ôter ce qui peut te déplaire.
+
 Obligeante Daphné, parle à cette inhumaine.
 Et sache d'où pour moi procède tant de haine.
 
-**** *book_ *id_I02 *act_I *date_1682 *creator_moliere
+Peut-on savoir, Myrtil, vers qui de ces deux Belles
+Vous tournerez ce choix dont courent les nouvelles,
+Et sur qui doit de nous tomber ce coup affreux,
+Dont se voit foudroyé tout l'espoir de nos vœux ?
+
+Il vaut mieux quand on craint ces malheurs éclatants,
+En mourir tout d'un coup que traîner si longtemps.
+
+Est-il vrai que le Ciel sensible à nos tourments…
+
+Elle peut renvoyer ces Nymphes à nos vœux,
+Et nous donner moyen d'être contents tous deux.
 
 
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_daphne
 
--*who_eroxene
-Acante a du mérite, et t'aime tendrement.
-D'où vient que tu lui fais un si dur traitement ?
+Acante, laisse-moi.
 
--*who_daphne
+Tu me plais loin de moi.
+
+Ne cesseras-tu point tes inutiles vœux ?
+
+Si tu ne veux partir, je vais quitter ce lieu.
+
 Tyrène vaut beaucoup, et languit pour tes charmes.
 D'où vient que sans pitié tu vois couler ses larmes ?
 
--*who_eroxene
-Puisque j'ai fait ici la demande avant toi,
-La raison te condamne à répondre avant moi.
-
--*who_daphne
 Pour tous les soins d'Acante, on me voit inflexible,
 Parce qu'à d'autres vœux je me trouve sensible.
 
--*who_eroxene
-Je ne fais pour Tyrène éclater que rigueur,
-Parce qu'un autre choix est maître de mon cœur.
-
--*who_daphne
 Puis-je savoir de toi ce choix qu'on te voit taire ?
 
--*who_eroxene
-Oui, si tu veux du tien m'apprendre le mystère.
-
--*who_daphne
 Sans te nommer celui qu'Amour m'a fait choisir,
 Je puis facilement contenter ton désir,
 Et de la main d'Atis, ce Peintre inimitable,
@@ -104,99 +85,36 @@ J'en garde dans ma poche un portrait admirable,
 Qui jusques au moindre trait lui ressemble si fort,
 Qu'il est sûr que tes yeux le connaîtront d'abord.
 
--*who_eroxene
-Je puis te contenter par une même voie,
-Et payer ton secret en pareille monnaie.
-J'ai de la main aussi de ce Peintre fameux,
-Un aimable Portrait de l'objet de mes vœux,
-Si plein de tous ses traits et de sa grâce extrême,
-Que tu pourras d'abord te le nommer toi-même.
-
--*who_daphne
 La boîte que le Peintre a fait faire pour moi,
 Est tout à fait semblable à celle que je vois.
 
--*who_eroxene
-Il est vrai, l'une à l'autre entièrement ressemble,
-Et certes, il faut qu'Atis les ait fait faire ensemble.
-
--*who_daphne
 Faisons en même temps par un peu de couleurs,
 Confidence à nos yeux du secret de nos cœurs.
 
--*who_eroxene
-Voyons à qui plus vite entendra ce langage,
-Et qui parle le mieux, de l'un ou l'autre ouvrage.
-
--*who_daphne
 La méprise est plaisante, et tu te brouilles bien,
 Au lieu de ton portrait, tu m'as rendu le mien.
 
--*who_eroxene
-Il est vrai, je ne sais comme j'ai fait la chose.
-
--*who_daphne
 Donne. De cette erreur ta rêverie est cause.
 
--*who_eroxene
-Que veut dire ceci ? Nous nous jouons, je crois.
-Tu fais de ces Portraits même chose que moi.
-
--*who_daphne
 Certes, c'est pour en rire, et tu peux me le rendre.
 
--*who_eroxene
-Voici le vrai moyen de ne se point méprendre.
-
--*who_daphne
 De mes sens prévenus est-ce une illusion ?
 
--*who_eroxene
-Mon âme sur mes yeux fait-elle impression ?
-
--*who_daphne
 Myrtil à mes regards s'offre dans cet ouvrage.
 
--*who_eroxene
-De Myrtil dans ces traits je rencontre l'Image.
-
--*who_daphne
 C'est le jeune Myrtil qui fait naître mes feux.
 
--*who_eroxene
-C'est au jeune Myrtil que tendent tous mes vœux.
-
--*who_daphne
 Je venais aujourd'hui te prier de lui dire,
 Les soins que pour son sort son mérite m'inspire.
 
--*who_eroxene
-Je venais te chercher pour servir mon ardeur,
-Dans le dessein que j'ai de m'assurer son cœur.
-
--*who_daphne
 Cette ardeur qu'il t'inspire est-elle si puissante ?
 
--*who_eroxene
-L'aimes-tu d'une amour qui soit si violente ?
-
--*who_daphne
 Il n'est point de froideur qu'il ne puisse enflammer,
 Et sa grâce naissante a de quoi tout charmer.
 
--*who_eroxene
-Il n'est Nymphe en l'aimant qui ne se tînt heureuse,
-Et Diane sans honte en serait amoureuse.
-
--*who_daphne
 Rien que son air charmant ne me touche aujourd'hui ;
 Et si j'avais cent cœurs, ils seraient tous pour lui.
 
--*who_eroxene
-Il efface à mes yeux tout ce qu'on voit paraître,
-Et si j'avais un Sceptre, il en serait le Maître.
-
--*who_daphne
 Ce serait donc en vain qu'à chacune, en ce jour,
 On nous voudrait du sein arracher cet amour.
 Nos âmes dans leurs vœux sont trop bien affermies,
@@ -208,7 +126,120 @@ Ne prenons l'une et l'autre aucun lâche avantage,
 Et courons nous ouvrir ensemble à Lycarsis,
 Des tendres sentiments où nous jette son fils.
 
--*who_eroxene
+Soit, je vois Lycarsis avec Mopse et Nicandre,
+Ils pourront le quitter, cachons-nous pour attendre.
+
+Le Ciel tienne, Pasteur, vos brebis toujours saines.
+
+Ah ! Lycarsis, nos vœux à même but aspirent.
+
+Et l'amour, cet Enfant qui cause nos langueurs,
+A pris chez vous le trait dont il blesse nos cœurs.
+
+      Pour ce bien seul nous poussons des soupirs.
+
+C'est un peu librement expliquer sa pensée.
+
+      Mais quand le cœur brûle d'un noble feu,
+On peut sans nulle honte en faire un libre aveu.
+
+Enfin tout notre bien est en votre puissance.
+
+Trouverons-nous en vous quelques difficultés ?
+
+Accordez donc Myrtil à notre amoureux zèle.
+
+      Oui, c'est Myrtil que de vous nous voulons.
+
+Son mérite naissant peut frapper d'autres yeux,
+Et l'on veut s'engager un bien si précieux,
+Prévenir d'autres cœurs, et braver la fortune
+Sous les fermes liens d'une chaîne commune.
+
+Il n'est point tant enfant, qu'à le voir chaque jour,
+Je ne le croie atteint déjà d'un peu d'amour,
+Et plus d'une aventure à mes yeux s'est offerte,
+Où j'ai connu qu'il suit la jeune Mélicerte.
+
+Enfin nous désirons par le nœud d'hyménée,
+Attacher sa fortune à notre destinée.
+
+Nous vous laissons, Myrtil, pour l'avis le meilleur,
+Consulter sur ce choix vos yeux et votre cœur,
+Et nous n'en voulons point prévenir les suffrages
+Par un récit paré de tous nos avantages.
+
+Non, ne descendez point dans ces humilités,
+Et laissez-nous juger ce que vous méritez.
+
+Puisque nous consentons à l'arrêt qu'on peut rendre,
+Ces raisons ne font rien à vouloir s'en défendre.
+
+      Ne vous mettez point en courroux, je vous prie.
+
+Traitons, de grâce, ici les choses sans colère.
+
+Le choix d'elle et de nous est assez inégal.
+
+
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eroxene
+
+      Ne me suis point, Tyrène.
+
+      Je m'aime où tu n'es pas.
+
+Ne cesseras-tu point de m'être si fâcheux ?
+
+Si tu veux demeurer, je te vais dire adieu.
+
+Acante a du mérite, et t'aime tendrement.
+D'où vient que tu lui fais un si dur traitement ?
+
+Puisque j'ai fait ici la demande avant toi,
+La raison te condamne à répondre avant moi.
+
+Je ne fais pour Tyrène éclater que rigueur,
+Parce qu'un autre choix est maître de mon cœur.
+
+Oui, si tu veux du tien m'apprendre le mystère.
+
+Je puis te contenter par une même voie,
+Et payer ton secret en pareille monnaie.
+J'ai de la main aussi de ce Peintre fameux,
+Un aimable Portrait de l'objet de mes vœux,
+Si plein de tous ses traits et de sa grâce extrême,
+Que tu pourras d'abord te le nommer toi-même.
+
+Il est vrai, l'une à l'autre entièrement ressemble,
+Et certes, il faut qu'Atis les ait fait faire ensemble.
+
+Voyons à qui plus vite entendra ce langage,
+Et qui parle le mieux, de l'un ou l'autre ouvrage.
+
+Il est vrai, je ne sais comme j'ai fait la chose.
+
+Que veut dire ceci ? Nous nous jouons, je crois.
+Tu fais de ces Portraits même chose que moi.
+
+Voici le vrai moyen de ne se point méprendre.
+
+Mon âme sur mes yeux fait-elle impression ?
+
+De Myrtil dans ces traits je rencontre l'Image.
+
+C'est au jeune Myrtil que tendent tous mes vœux.
+
+Je venais te chercher pour servir mon ardeur,
+Dans le dessein que j'ai de m'assurer son cœur.
+
+L'aimes-tu d'une amour qui soit si violente ?
+
+Il n'est Nymphe en l'aimant qui ne se tînt heureuse,
+Et Diane sans honte en serait amoureuse.
+
+Il efface à mes yeux tout ce qu'on voit paraître,
+Et si j'avais un Sceptre, il en serait le Maître.
+
 J'ai peine à concevoir, tant la surprise est forte,
 Comme un tel fils est né d'un père de la sorte,
 Et sa taille, son air, sa parole et ses yeux,
@@ -218,77 +249,80 @@ Allons-lui de nos cœurs découvrir le mystère,
 Et consentons qu'après Myrtil, entre nous deux,
 Décide par son choix ce combat de nos vœux.
 
--*who_daphne
-Soit, je vois Lycarsis avec Mopse et Nicandre,
-Ils pourront le quitter, cachons-nous pour attendre.
+Cérès tienne de grains vos granges toujours pleines.
 
-**** *book_ *id_I03 *act_I *date_1682 *creator_moliere
+C'est pour le même objet que nos deux cœurs soupirent.
+
+Et nous venons ici chercher votre alliance,
+Et voir qui de nous deux aura la préférence.
+
+      À ce bonheur tendent tous nos désirs.
+
+      La bienséance y semble un peu blessée.
+
+      Cette liberté nous peut être permise,
+Et du choix de nos cœurs la beauté l'autorise.
+
+Non, non, n'affectez point de modestie ici.
+
+C'est de vous que dépend notre unique espérance.
+
+      Nos vœux, dites-moi, seront-ils rejetés ?
+
+Et souffrez que son choix règle notre querelle.
+
+De qui pensez-vous donc qu'ici nous vous parlons ?
+
+Comme par son esprit et ses autres brillants,
+Il rompt l'ordre commun et devance le temps,
+Notre flamme pour lui veut en faire de même,
+Et régler tous ses vœux sur son mérite extrême.
+
+Ils pourraient bien s'aimer, et je vois…
+
+Nous voulons l'une et l'autre avec pareille ardeur,
+Nous assurer de loin l'empire de son cœur.
+
+Malgré cette fierté qui règne parmi nous,
+Deux Nymphes, ô Myrtil, viennent s'offrir à vous,
+Et de vos qualités les merveilles écloses,
+Font que nous renversons ici l'ordre des choses.
+
+Contentez nos désirs, quoi qu'on en puisse croire,
+Et ne vous chargez point du soin de notre gloire.
+
+Mais en faisant refus de répondre à nos vœux,
+Au lieu d'une, Myrtil, vous en outragez deux.
+
+Peut-on savoir de vous cet objet si charmant,
+Dont la beauté, Myrtil, vous a fait son Amant ?
+
+Vous comparez, Myrtil, ses qualités aux nôtres ?
 
 
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycarsis
 
--*who_nicandre
-Dis-nous donc ta nouvelle.
-
--*who_lycarsis
       Ah ! que vous me pressez !
 Cela ne se dit pas comme vous le pensez.
 
--*who_mopse
-Que de sottes façons, et que de badinage,
-Ménalque pour chanter n'en fait pas davantage.
-
--*who_lycarsis
 Parmi les curieux des affaires d'État,
 Une nouvelle à dire est d'un puissant éclat.
 Je me veux mettre un peu sur l'homme d'importance,
 Et jouir quelque temps de votre impatience.
 
--*who_nicandre
-Veux-tu par tes délais nous fatiguer tous deux ?
-
--*who_mopse
-Prends-tu quelque plaisir à te rendre fâcheux ?
-
--*who_nicandre
-De grâce, parle, et mets ces mines en arrière.
-
--*who_lycarsis
 Priez-moi donc tous deux de la bonne manière,
 Et me dites chacun quel don vous me ferez,
 Pour obtenir de moi ce que vous désirez.
 
--*who_mopse
-La peste soit du fat, laissons-le là, Nicandre,
-Il brûle de parler, bien plus que nous d'entendre.
-Sa nouvelle lui pèse, il veut s'en décharger,
-Et ne l'écouter pas, est le faire enrager.
-
--*who_lycarsis
 Eh.
 
--*who_nicandre
-      Te voilà puni de tes façons de faire.
-
--*who_lycarsis
 Je m'en vais vous le dire, écoutez.
 
--*who_mopse
-      Point d'affaire.
-
--*who_lycarsis
 Quoi vous ne voulez pas m'entendre ?
 
--*who_nicandre
-      Non.
-
--*who_lycarsis
       Eh bien
 Je ne dirai donc mot, et vous ne saurez rien.
 
--*who_mopse
-Soit.
-
--*who_lycarsis
       Vous ne saurez pas qu'avec magnificence,
 Le Roi vient d'honorer Tempé de sa présence :
 Qu'il entra dans Larisse hier sur le haut du jour :
@@ -296,10 +330,6 @@ Qu'à l'aise je l'y vis avec toute sa Cour.
 Que ces bois vont jouir aujourd'hui de sa vue,
 Et qu'on raisonne fort touchant cette venue.
 
--*who_nicandre
-Nous n'avons pas envie aussi de rien savoir.
-
--*who_lycarsis
 Je vis cent choses là ravissantes à voir.
 Ce ne sont que Seigneurs, qui des pieds à la tête,
 Sont brillants et parés comme au jour d'une fête,
@@ -322,141 +352,38 @@ Auprès de ce spectacle est une gueuserie :
 Mais puisque sur le fier vous vous tenez si bien,
 Je garde ma nouvelle, et ne veux dire rien.
 
--*who_mopse
-Et nous ne te voulons aucunement entendre.
-
--*who_lycarsis
 Allez vous promener.
 
--*who_mopse
-      Va-t'en te faire pendre.
-
-**** *book_ *id_I04 *act_I *date_1682 *creator_moliere
-
-
-
--*who_lycarsis
 C'est de cette façon que l'on punit les gens,
 Quand ils font les benêts et les impertinents.
 
--*who_daphne
-Le Ciel tienne, Pasteur, vos brebis toujours saines.
-
--*who_eroxene
-Cérès tienne de grains vos granges toujours pleines.
-
--*who_lycarsis
 Et le grand Pan vous donne à chacune un Époux
 Qui vous aime beaucoup, et soit digne de vous.
 
--*who_daphne
-Ah ! Lycarsis, nos vœux à même but aspirent.
-
--*who_eroxene
-C'est pour le même objet que nos deux cœurs soupirent.
-
--*who_daphne
-Et l'amour, cet Enfant qui cause nos langueurs,
-A pris chez vous le trait dont il blesse nos cœurs.
-
--*who_eroxene
-Et nous venons ici chercher votre alliance,
-Et voir qui de nous deux aura la préférence.
-
--*who_lycarsis
 Nymphes…
 
--*who_daphne
-      Pour ce bien seul nous poussons des soupirs.
-
--*who_lycarsis
 Je suis…
 
--*who_eroxene
-      À ce bonheur tendent tous nos désirs.
-
--*who_daphne
-C'est un peu librement expliquer sa pensée.
-
--*who_lycarsis
 Pourquoi.
 
--*who_eroxene
-      La bienséance y semble un peu blessée.
-
--*who_lycarsis
 Ah point.
 
--*who_daphne
-      Mais quand le cœur brûle d'un noble feu,
-On peut sans nulle honte en faire un libre aveu.
-
--*who_lycarsis
 Je…
 
--*who_eroxene
-      Cette liberté nous peut être permise,
-Et du choix de nos cœurs la beauté l'autorise.
-
--*who_lycarsis
 C'est blesser ma pudeur que me flatter ainsi.
 
--*who_eroxene
-Non, non, n'affectez point de modestie ici.
-
--*who_daphne
-Enfin tout notre bien est en votre puissance.
-
--*who_eroxene
-C'est de vous que dépend notre unique espérance.
-
--*who_daphne
-Trouverons-nous en vous quelques difficultés ?
-
--*who_lycarsis
 Ah.
 
--*who_eroxene
-      Nos vœux, dites-moi, seront-ils rejetés ?
-
--*who_lycarsis
 Non, j'ai reçu du Ciel une âme peu cruelle ;
 Je tiens de feu ma femme, et je me sens comme elle
 Pour les désirs d'autrui beaucoup d'humanité,
 Et je ne suis point homme à garder de fierté.
 
--*who_daphne
-Accordez donc Myrtil à notre amoureux zèle.
-
--*who_eroxene
-Et souffrez que son choix règle notre querelle.
-
--*who_lycarsis
 Myrtil ?
 
--*who_daphne
-      Oui, c'est Myrtil que de vous nous voulons.
-
--*who_eroxene
-De qui pensez-vous donc qu'ici nous vous parlons ?
-
--*who_lycarsis
 Je ne sais, mais Myrtil n'est guère dans un âge
 Qui soit propre à ranger au joug du mariage.
 
--*who_daphne
-Son mérite naissant peut frapper d'autres yeux,
-Et l'on veut s'engager un bien si précieux,
-Prévenir d'autres cœurs, et braver la fortune
-Sous les fermes liens d'une chaîne commune.
-
--*who_eroxene
-Comme par son esprit et ses autres brillants,
-Il rompt l'ordre commun et devance le temps,
-Notre flamme pour lui veut en faire de même,
-Et régler tous ses vœux sur son mérite extrême.
-
--*who_lycarsis
 Il est vrai qu'à son âge, il surprend quelquefois.
 Et cet Athénien qui fut chez moi vingt mois,
 Qui le trouvant joli, se mit en fantaisie
@@ -466,16 +393,6 @@ Que tout grand que je suis, souvent il me confond.
 Mais, avec tout cela, ce n'est encore qu'enfance,
 Et son fait est mêlé de beaucoup d'innocence.
 
--*who_daphne
-Il n'est point tant enfant, qu'à le voir chaque jour,
-Je ne le croie atteint déjà d'un peu d'amour,
-Et plus d'une aventure à mes yeux s'est offerte,
-Où j'ai connu qu'il suit la jeune Mélicerte.
-
--*who_eroxene
-Ils pourraient bien s'aimer, et je vois…
-
--*who_lycarsis
       Franc abus.
 Pour elle passe encore, elle a deux ans de plus,
 Et deux ans dans son sexe est une grande avance.
@@ -483,15 +400,6 @@ Mais pour lui, le jeu seul l'occupe tout, je pense,
 Et les petits désirs de se voir ajusté
 Ainsi que les Bergers de haute qualité.
 
--*who_daphne
-Enfin nous désirons par le nœud d'hyménée,
-Attacher sa fortune à notre destinée.
-
--*who_eroxene
-Nous voulons l'une et l'autre avec pareille ardeur,
-Nous assurer de loin l'empire de son cœur.
-
--*who_lycarsis
 Je m'en tiens honoré autant qu'on saurait croire.
 Je suis un pauvre Pâtre, et ce m'est trop de gloire,
 Que deux Nymphes d'un rang le plus haut du pays,
@@ -505,11 +413,91 @@ Mais le voici, souffrez qu'un peu je le dispose,
 Il tient quelque moineau qu'il a pris fraîchement.
 Et voilà ses amours et son attachement.
 
-**** *book_ *id_I05 *act_I *date_1682 *creator_moliere
+Myrtil, Myrtil, un mot, laissons là ces joyaux,
+Il s'agit d'autre chose ici que de moineaux.
+Ces deux Nymphes, Myrtil, à la fois te prétendent,
+Et tout jeune déjà pour époux te demandent.
+Je dois par un Hymen t'engager à leurs vœux,
+Et c'est toi que l'on veut qui choisisse des deux.
+
+      Oui ; des deux tu peux en choisir une ;
+Vois quel est ton bonheur, et bénis la fortune.
+
+Enfin, qu'on le reçoive, et que sans se confondre,
+A l'honneur qu'elles font, on songe à bien répondre.
+
+Comment donc ? qu'est-ce ci ? qui l'eût pu présumer ?
+Et savez-vous, morveux, ce que c'est que d'aimer ?
+
+Mais cet amour me choque, et n'est pas nécessaire.
+
+Mais ce cœur que j'ai fait, me doit obéissance.
+
+Mais enfin, sans mon ordre, il ne doit point aimer.
+
+Eh bien, je vous défends que cela continue.
+
+Quoi, les pères n'ont pas des droits supérieurs ?
+
+Les Dieux… Paix, petit sot, cette philosophie
+Me…
+
+Non, je veux qu'il se donne à l'une pour époux,
+Ou je vais lui donner le fouet tout devant vous :
+Ah, ah, je vous ferai sentir que je suis père.
+
+Myrtil, holà, Myrtil, veux-tu revenir, traître.
+Il fuit, mais on verra qui de nous est le maître.
+Ne vous effrayez point de tous ces vains transports,
+Vous l'aurez pour époux, j'en réponds corps pour corps.
+
+Ne vous contraignez pas pour moi.
+
+Cela ne va pas mal, continuez tous deux.
+Peste, mon petit fils, que vous avez l'air tendre,
+Et qu'en maître déjà vous savez vous y prendre.
+Vous a-t-il, ce savant, qu'Athènes exila,
+Dans sa Philosophie appris ces choses-là :
+Et vous qui lui donnez de si douce manière
+Votre main à baiser, la gentille Bergère,
+L'honneur vous apprend-il ces mignardes douceurs,
+Par qui vous débauchez ainsi les jeunes cœurs ?
+
+Je veux lui parler moi, toutes ces amitiés…
+
+Comment, à quel orgueil, fripon, vous vois-je aller ?
+Est-ce de la façon que l'on me doit parler ?
+
+Aux douleurs de son âme il me fait prendre part.
+Qui l'aurait jamais cru de ce petit pendard ?
+Quel amour, quels transports, quels discours pour son âge :
+J'en suis confus, et sens que cet amour m'engage.
+
+Je ne puis plus tenir, il m'arrache des larmes,
+Et ces tendres propos me font rendre les armes.
+
+Lève-toi.
+
+Oui.
+
+Oui.
+
+      Oui, lève-toi, te dis-je.
+
+Ah, que pour ses enfants un père a de faiblesse !
+Peut-on rien refuser à leurs mots de tendresse,
+Et ne se sent-on pas certains mouvements doux,
+Quand on vient à songer que cela sort de vous ?
+
+Non.
+
+      Oui. Ha, nature ! nature,
+Je m'en vais trouver Mopse, et lui faire ouverture
+De l'amour que sa Nièce, et toi, vous vous portez.
 
 
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_myrtil
 
--*who_myrtil
 
 Innocente petite bête,
 Qui contre ce qui vous arrête,
@@ -525,42 +513,11 @@ Est-il un sort au monde et plus doux et plus beau ?
 Et qui des Rois, hélas, heureux petit moineau,
 Ne voudrait être en votre place ?
 
--*who_lycarsis
-Myrtil, Myrtil, un mot, laissons là ces joyaux,
-Il s'agit d'autre chose ici que de moineaux.
-Ces deux Nymphes, Myrtil, à la fois te prétendent,
-Et tout jeune déjà pour époux te demandent.
-Je dois par un Hymen t'engager à leurs vœux,
-Et c'est toi que l'on veut qui choisisse des deux.
-
--*who_myrtil
 Ces Nymphes…
 
--*who_lycarsis
-      Oui ; des deux tu peux en choisir une ;
-Vois quel est ton bonheur, et bénis la fortune.
-
--*who_myrtil
 Ce choix qui m'est offert, peut-il m'être un bonheur,
 S'il n'est aucunement souhaité de mon cœur ?
 
--*who_lycarsis
-Enfin, qu'on le reçoive, et que sans se confondre,
-A l'honneur qu'elles font, on songe à bien répondre.
-
--*who_eroxene
-Malgré cette fierté qui règne parmi nous,
-Deux Nymphes, ô Myrtil, viennent s'offrir à vous,
-Et de vos qualités les merveilles écloses,
-Font que nous renversons ici l'ordre des choses.
-
--*who_daphne
-Nous vous laissons, Myrtil, pour l'avis le meilleur,
-Consulter sur ce choix vos yeux et votre cœur,
-Et nous n'en voulons point prévenir les suffrages
-Par un récit paré de tous nos avantages.
-
--*who_myrtil
 C'est me faire un honneur dont l'éclat me surprend ;
 Mais cet honneur pour moi, je l'avoue, est trop grand.
 À vos rares bontés, il faut que je m'oppose,
@@ -568,15 +525,6 @@ Pour mériter ce sort, je suis trop peu de chose :
 Et je serais fâché, quels qu'en soient les appas,
 Qu'on vous blâmât pour moi de faire un choix trop bas.
 
--*who_eroxene
-Contentez nos désirs, quoi qu'on en puisse croire,
-Et ne vous chargez point du soin de notre gloire.
-
--*who_daphne
-Non, ne descendez point dans ces humilités,
-Et laissez-nous juger ce que vous méritez.
-
--*who_myrtil
 Le choix qui m'est offert s'oppose à votre attente,
 Et peut seul empêcher que mon cœur vous contente.
 Le moyen de choisir de deux grandes beautés,
@@ -584,87 +532,26 @@ Le moyen de choisir de deux grandes beautés,
 Rejeter l'une ou l'autre est un crime effroyable ;
 Et n'en choisir aucune est bien plus raisonnable.
 
--*who_eroxene
-Mais en faisant refus de répondre à nos vœux,
-Au lieu d'une, Myrtil, vous en outragez deux.
-
--*who_daphne
-Puisque nous consentons à l'arrêt qu'on peut rendre,
-Ces raisons ne font rien à vouloir s'en défendre.
-
--*who_myrtil
 Eh bien, si ces raisons ne vous satisfont pas,
 Celle-ci le fera, j'aime d'autres appas,
 Et je sens bien qu'un cœur, qu'un bel objet engage,
 Est insensible et sourd à tout autre avantage.
 
--*who_lycarsis
-Comment donc ? qu'est-ce ci ? qui l'eût pu présumer ?
-Et savez-vous, morveux, ce que c'est que d'aimer ?
-
--*who_myrtil
 Sans savoir ce que c'est, mon cœur a su le faire.
 
--*who_lycarsis
-Mais cet amour me choque, et n'est pas nécessaire.
-
--*who_myrtil
 Vous ne deviez donc pas, si cela vous déplaît,
 Me faire un cœur sensible et tendre comme il est.
 
--*who_lycarsis
-Mais ce cœur que j'ai fait, me doit obéissance.
-
--*who_myrtil
 Oui, lorsque d'obéir il est en sa puissance.
 
--*who_lycarsis
-Mais enfin, sans mon ordre, il ne doit point aimer.
-
--*who_myrtil
 Que n'empêchiez-vous donc que l'on pût le charmer ?
 
--*who_lycarsis
-Eh bien, je vous défends que cela continue.
-
--*who_myrtil
 La défense, j'ai peur, sera trop tard venue.
 
--*who_lycarsis
-Quoi, les pères n'ont pas des droits supérieurs ?
-
--*who_myrtil
 Les Dieux qui sont bien plus ne forcent point les cœurs.
 
--*who_lycarsis
-Les Dieux… Paix, petit sot, cette philosophie
-Me…
-
--*who_daphne
-      Ne vous mettez point en courroux, je vous prie.
-
--*who_lycarsis
-Non, je veux qu'il se donne à l'une pour époux,
-Ou je vais lui donner le fouet tout devant vous :
-Ah, ah, je vous ferai sentir que je suis père.
-
--*who_daphne
-Traitons, de grâce, ici les choses sans colère.
-
--*who_eroxene
-Peut-on savoir de vous cet objet si charmant,
-Dont la beauté, Myrtil, vous a fait son Amant ?
-
--*who_myrtil
 Mélicerte, Madame, elle en peut faire d'autres.
 
--*who_eroxene
-Vous comparez, Myrtil, ses qualités aux nôtres ?
-
--*who_daphne
-Le choix d'elle et de nous est assez inégal.
-
--*who_myrtil
 Nymphes, au nom des Dieux, n'en dites point de mal,
 Daignez considérer, de grâce, que je l'aime,
 Et ne me jetez point dans un désordre extrême.
@@ -683,31 +570,167 @@ Ce qui peut le blesser par l'endroit le plus tendre :
 Et pour me dérober à de semblables coups,
 Nymphes, j'aime bien mieux prendre congé de vous.
 
--*who_lycarsis
-Myrtil, holà, Myrtil, veux-tu revenir, traître.
-Il fuit, mais on verra qui de nous est le maître.
-Ne vous effrayez point de tous ces vains transports,
-Vous l'aurez pour époux, j'en réponds corps pour corps.
+      J'ai fait tantôt, charmante Mélicerte,
+Un petit prisonnier que je garde pour vous,
+Et dont peut-être un jour je deviendrai jaloux.
+C'est un jeune Moineau, qu'avec un soin extrême
+Je veux pour vous l'offrir apprivoiser moi-même.
+Le présent n'est pas grand ; mais les divinités
+Ne jettent leurs regards que sur les volontés.
+C'est le cœur qui fait tout, et jamais la richesse
+Des présents que… Mais, Ciel, d'où vient cette tristesse ?
+Qu'avez-vous, Mélicerte, et quel sombre chagrin
+Serait dans vos beaux yeux répandu ce matin ?
+Vous ne répondez point ? et ce morne silence
+Redouble encor ma peine et mon impatience.
+Parlez, de quel ennui ressentez-vous les coups ?
+Qu'est-ce donc ?
 
-**** *book_ *id_II01 *act_ *date_1682 *creator_moliere
+      Ce n'est rien, dites-vous ?
+Et je vois cependant vos yeux couverts de larmes,
+Cela s'accorde-t-il, beauté pleine de charmes ?
+Ah, ne me faites point un secret dont je meurs,
+Et m'expliquez, hélas ! ce que disent ces pleurs.
+
+Devez-vous rien avoir que je ne doive apprendre,
+Et ne blessez-vous pas notre amour aujourd'hui,
+De vouloir me voler ma part de votre ennui ?
+Ah, ne le cachez point à l'ardeur qui m'inspire.
+
+Et vous pouvez l'avoir, cette injuste tristesse,
+Vous pouvez soupçonner mon amour de faiblesse,
+Et croire qu'engagé par des charmes si doux,
+Je puisse être jamais à quelque autre qu'à vous ?
+Que je puisse accepter une autre main offerte ?
+Hé ! que vous ai-je fait, cruelle Mélicerte,
+Pour traiter ma tendresse avec tant de rigueur,
+Et faire un jugement si mauvais de mon cœur ?
+Quoi, faut-il que de lui vous ayez quelque crainte,
+Je suis bien malheureux de souffrir cette atteinte :
+Et que me sert d'aimer comme je fais, hélas,
+Si vous êtes si prête à ne le croire pas.
+
+Ah, leur rang de mon cœur ne viendra point à bout,
+Et vos divins appas vous tiennent lieu de tout.
+Je vous aime, il suffit, et dans votre personne,
+Je vois Rang, Biens, Trésors, États, Sceptres, Couronne,
+Et des Rois les plus grands m'offrît-on le pouvoir,
+Je n'y changerais pas le bien de vous avoir.
+C'est une vérité toute sincère et pure,
+Et pouvoir en douter est me faire une injure.
+
+Non, chère Mélicerte, il n'est père ni Dieux
+Qui me puissent forcer à quitter vos beaux yeux,
+Et toujours de mes vœux, Reine comme vous êtes…
+
+Quoi, faut-il des serments appeler le secours,
+Lorsque l'on vous promet de vous aimer toujours ?
+Que vous vous faites tort par de telles alarmes,
+Et connaissez bien peu le pouvoir de vos charmes.
+Hé bien, puisqu'il le faut, je jure par les Dieux,
+Et si ce n'est assez, je jure par vos yeux,
+Qu'on me tuera plutôt que je vous abandonne,
+Recevez-en ici la foi que je vous donne,
+Et souffrez que ma bouche avec ravissement,
+Sur cette belle main en signe le serment.
+
+Est-il rien… Mais, ô Ciel, on vient troubler ma joie.
+
+Ah, quittez de ces mots l'outrageante bassesse,
+Et ne m'accablez point d'un discours qui la blesse.
+
+Je ne souffrirai point que vous la maltraitiez.
+À du respect pour vous la naissance m'engage,
+Mais je saurai sur moi vous punir de l'outrage :
+Oui, j'atteste le Ciel, que si contre mes vœux,
+Vous lui dites encor le moindre mot fâcheux,
+Je vais avec ce fer, qui m'en fera justice,
+Au milieu de mon sein vous chercher un supplice,
+Et par mon sang versé lui marquer promptement
+L'éclatant désaveu de votre emportement.
+
+Eh bien, vous triomphez avec cette retraite,
+Et dans ces mots votre âme a ce qu'elle souhaite :
+Mais apprenez qu'en vain vous vous réjouissez,
+Que vous serez trompé dans ce que vous pensez,
+Et qu'avec tous vos soins, toute votre puissance,
+Vous ne gagnerez rien sur ma persévérance.
+
+Oui, j'ai tort, il est vrai, mon transport n'est pas sage :
+Pour rentrer au devoir, je change de langage,
+Et je vous prie ici, mon Père, au nom des Dieux,
+Et par tout ce qui peut vous être précieux,
+De ne vous point servir dans cette conjoncture,
+Des fiers droits que sur moi vous donne la nature,
+Ne m'empoisonnez point vos bienfaits les plus doux,
+Le jour est un présent que j'ai reçu de vous :
+Mais de quoi vous serai-je aujourd'hui redevable,
+Si vous me l'allez rendre, hélas ! insupportable ?
+Il est sans Mélicerte un supplice à mes yeux :
+Sans ses divins appas, rien ne m'est précieux,
+Ils font tout mon bonheur, et toute mon envie,
+Et si vous me l'ôtez, vous m'arrachez la vie.
+
+Voyez, me voulez-vous ordonner de mourir ?
+Vous n'avez qu'à parler, je suis prêt d'obéir.
+
+Que si dans votre cœur un reste d'amitié,
+Vous peut de mon destin donner quelque pitié,
+Accordez Mélicerte à mon ardente envie,
+Et vous ferez bien plus que me donner la vie.
+
+      Serez-vous sensible à mes soupirs ?
+
+      J'obtiendrai de vous l'objet de mes désirs ?
+
+      Vous ferez pour moi que son Oncle l'oblige
+À me donner sa main ?
+
+Ô Père, le meilleur qui jamais ait été,
+Que je baise vos mains, après tant de bonté.
+
+Me tiendrez-vous au moins la parole avancée.
+Ne changerez-vous point, dites-moi, de pensée ?
+
+      Me permettez-vous de vous désobéir,
+Si de ces sentiments on vous fait revenir :
+Prononcez le mot.
+
+Ah, que ne dois-je point à vos rares bontés !
+Quelle heureuse nouvelle à dire à Mélicerte,
+Je n'accepterais pas une Couronne offerte,
+Pour le plaisir que j'ai de courir lui porter,
+Ce merveilleux succès qui la doit contenter.
+
+Rendez, Nobles Bergers, le calme à votre flamme,
+La Belle Mélicerte a captivé mon âme :
+Auprès de cet objet mon sort est assez doux,
+Pour ne pas consentir à rien prendre sur vous.
+Et si vos vœux enfin n'ont que les miens à craindre,
+Vous n'aurez l'un ni l'autre aucun lieu de vous plaindre.
+
+Oui, content de mes fers comme d'une victoire,
+Je me suis excusé de ce choix plein de gloire :
+J'ai de mon Père encore changé les volontés,
+Et l'ai fait consentir à mes félicités.
+
+Comment ?
+
+Et pourquoi ?
+
+Ô Ciel, expliquez-moi ce discours, je vous prie.
+
+Ah, Dieux, quelle rigueur ! hé Nicandre, Nicandre.
 
 
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_melicerte
 
--*who_melicerte
 Ah, Corinne, tu viens de l'apprendre de Stelle,
 Et c'est de Lycarsis qu'elle tient la nouvelle.
 
--*who_corinne
-Oui.
-
--*who_melicerte
       Que les qualités, dont Myrtil est orné,
 Ont su toucher d'amour Éroxène et Daphné.
 
--*who_corinne
-Oui.
-
--*who_melicerte
       Que pour l'obtenir leur ardeur est si grande,
 Qu'ensemble elles en ont déjà fait la demande,
 Et que dans ce débat elles ont fait dessein
@@ -715,56 +738,27 @@ De passer dès cette heure à recevoir sa main.
 Ah, que tes mots ont peine à sortir de ta bouche,
 Et que c'est faiblement que mon souci te touche.
 
--*who_corinne
-Mais quoi, que voulez-vous, c'est là la vérité,
-Et vous redites tout, comme je l'ai conté.
-
--*who_melicerte
 Mais comment Lycarsis reçoit-il cette affaire ?
 
--*who_corinne
-Comme un honneur, je crois, qui doit beaucoup lui plaire.
-
--*who_melicerte
 Et ne vois-tu pas bien, toi qui sais mon ardeur,
 Qu'avec ce mot, hélas ! tu me perces le cœur.
 
--*who_corinne
-Comment ?
-
--*who_melicerte
       Me mettre aux yeux que le sort implacable
 Auprès d'elles me rend trop peu considérable,
 Et qu'à moi par leur rang on les va préférer,
 N'est-ce pas une idée à me désespérer ?
 
--*who_corinne
-Mais quoi ? je vous réponds et dis ce que je pense.
-
--*who_melicerte
 Ah, tu me fais mourir par ton indifférence.
 Mais dis, quels sentiments Myrtil a-t-il fait voir ?
 
--*who_corinne
-Je ne sais.
-
--*who_melicerte
       Et c'est là ce qu'il fallait savoir,
 Cruelle.
 
--*who_corinne
-      En vérité, je ne sais comment faire,
-Et de tous les côtés je trouve à vous déplaire.
-
--*who_melicerte
 C'est que tu n'entres point dans tous les mouvements
 D'un cœur, hélas rempli de tendres sentiments.
 Va-t'en, laisse-moi seule en cette solitude
 Passer quelques moments de mon inquiétude.
 
-**** *book_ *id_II02 *act_ *date_1682 *creator_moliere
-
--*who_melicerte
 Vous le voyez, mon cœur, ce que c'est que d'aimer,
 Et Bélise avait su trop bien m'en informer.
 Cette charmante mère avant sa destinée,
@@ -790,47 +784,10 @@ Ah, mon cœur ! ah, mon cœur ! je vous l'avais bien dit :
 Mais tenons, s'il se peut, notre douleur couverte.
 Voici…
 
-**** *book_ *id_II03 *act_ *date_1682 *creator_moliere
-
-
-
--*who_myrtil
-      J'ai fait tantôt, charmante Mélicerte,
-Un petit prisonnier que je garde pour vous,
-Et dont peut-être un jour je deviendrai jaloux.
-C'est un jeune Moineau, qu'avec un soin extrême
-Je veux pour vous l'offrir apprivoiser moi-même.
-Le présent n'est pas grand ; mais les divinités
-Ne jettent leurs regards que sur les volontés.
-C'est le cœur qui fait tout, et jamais la richesse
-Des présents que… Mais, Ciel, d'où vient cette tristesse ?
-Qu'avez-vous, Mélicerte, et quel sombre chagrin
-Serait dans vos beaux yeux répandu ce matin ?
-Vous ne répondez point ? et ce morne silence
-Redouble encor ma peine et mon impatience.
-Parlez, de quel ennui ressentez-vous les coups ?
-Qu'est-ce donc ?
-
--*who_melicerte
       Ce n'est rien.
 
--*who_myrtil
-      Ce n'est rien, dites-vous ?
-Et je vois cependant vos yeux couverts de larmes,
-Cela s'accorde-t-il, beauté pleine de charmes ?
-Ah, ne me faites point un secret dont je meurs,
-Et m'expliquez, hélas ! ce que disent ces pleurs.
-
--*who_melicerte
 Rien ne me servirait de vous le faire entendre.
 
--*who_myrtil
-Devez-vous rien avoir que je ne doive apprendre,
-Et ne blessez-vous pas notre amour aujourd'hui,
-De vouloir me voler ma part de votre ennui ?
-Ah, ne le cachez point à l'ardeur qui m'inspire.
-
--*who_melicerte
 Hé bien, Myrtil, hé bien, il faut donc vous le dire :
 J'ai su que par un choix plein de gloire pour vous,
 Éroxène et Daphné vous veulent pour Époux :
@@ -839,21 +796,6 @@ De n'avoir pu, Myrtil, le savoir sans tristesse,
 Sans accuser du sort la rigoureuse loi,
 Qui les rend dans leurs vœux préférables à moi.
 
--*who_myrtil
-Et vous pouvez l'avoir, cette injuste tristesse,
-Vous pouvez soupçonner mon amour de faiblesse,
-Et croire qu'engagé par des charmes si doux,
-Je puisse être jamais à quelque autre qu'à vous ?
-Que je puisse accepter une autre main offerte ?
-Hé ! que vous ai-je fait, cruelle Mélicerte,
-Pour traiter ma tendresse avec tant de rigueur,
-Et faire un jugement si mauvais de mon cœur ?
-Quoi, faut-il que de lui vous ayez quelque crainte,
-Je suis bien malheureux de souffrir cette atteinte :
-Et que me sert d'aimer comme je fais, hélas,
-Si vous êtes si prête à ne le croire pas.
-
--*who_melicerte
 Je pourrais moins, Myrtil, redouter ces Rivales,
 Si les choses étaient de part et d'autre égales.
 Et dans un rang pareil j'oserais espérer,
@@ -861,17 +803,6 @@ Que peut-être l'Amour me ferait préférer :
 Mais l'inégalité de bien et de naissance,
 Qui peut d'elles à moi faire la différence…
 
--*who_myrtil
-Ah, leur rang de mon cœur ne viendra point à bout,
-Et vos divins appas vous tiennent lieu de tout.
-Je vous aime, il suffit, et dans votre personne,
-Je vois Rang, Biens, Trésors, États, Sceptres, Couronne,
-Et des Rois les plus grands m'offrît-on le pouvoir,
-Je n'y changerais pas le bien de vous avoir.
-C'est une vérité toute sincère et pure,
-Et pouvoir en douter est me faire une injure.
-
--*who_melicerte
 Hé bien, je crois, Myrtil, puisque vous le voulez,
 Que vos vœux par leur rang ne sont point ébranlés,
 Et que bien qu'elles soient Nobles, riches et belles,
@@ -881,76 +812,16 @@ Votre père, Myrtil, réglera votre choix,
 Et de même qu'à vous je ne lui suis pas chère,
 Pour préférer à tout une simple Bergère.
 
--*who_myrtil
-Non, chère Mélicerte, il n'est père ni Dieux
-Qui me puissent forcer à quitter vos beaux yeux,
-Et toujours de mes vœux, Reine comme vous êtes…
-
--*who_melicerte
 Ah, Myrtil, prenez garde à ce qu'ici vous faites,
 N'allez point présenter un espoir à mon cœur,
 Qu'il recevrait peut-être avec trop de douceur,
 Et qui tombant après comme un éclair qui passe,
 Me rendrait plus cruel le coup de ma disgrâce.
 
--*who_myrtil
-Quoi, faut-il des serments appeler le secours,
-Lorsque l'on vous promet de vous aimer toujours ?
-Que vous vous faites tort par de telles alarmes,
-Et connaissez bien peu le pouvoir de vos charmes.
-Hé bien, puisqu'il le faut, je jure par les Dieux,
-Et si ce n'est assez, je jure par vos yeux,
-Qu'on me tuera plutôt que je vous abandonne,
-Recevez-en ici la foi que je vous donne,
-Et souffrez que ma bouche avec ravissement,
-Sur cette belle main en signe le serment.
-
--*who_melicerte
 Ah, Myrtil, levez-vous, de peur qu'on ne vous voie.
 
--*who_myrtil
-Est-il rien… Mais, ô Ciel, on vient troubler ma joie.
-
-**** *book_ *id_II04 *act_ *date_1682 *creator_moliere
-
-
-
--*who_lycarsis
-Ne vous contraignez pas pour moi.
-
--*who_melicerte
       Quel sort fâcheux.
 
--*who_lycarsis
-Cela ne va pas mal, continuez tous deux.
-Peste, mon petit fils, que vous avez l'air tendre,
-Et qu'en maître déjà vous savez vous y prendre.
-Vous a-t-il, ce savant, qu'Athènes exila,
-Dans sa Philosophie appris ces choses-là :
-Et vous qui lui donnez de si douce manière
-Votre main à baiser, la gentille Bergère,
-L'honneur vous apprend-il ces mignardes douceurs,
-Par qui vous débauchez ainsi les jeunes cœurs ?
-
--*who_myrtil
-Ah, quittez de ces mots l'outrageante bassesse,
-Et ne m'accablez point d'un discours qui la blesse.
-
--*who_lycarsis
-Je veux lui parler moi, toutes ces amitiés…
-
--*who_myrtil
-Je ne souffrirai point que vous la maltraitiez.
-À du respect pour vous la naissance m'engage,
-Mais je saurai sur moi vous punir de l'outrage :
-Oui, j'atteste le Ciel, que si contre mes vœux,
-Vous lui dites encor le moindre mot fâcheux,
-Je vais avec ce fer, qui m'en fera justice,
-Au milieu de mon sein vous chercher un supplice,
-Et par mon sang versé lui marquer promptement
-L'éclatant désaveu de votre emportement.
-
--*who_melicerte
 Non, non, ne croyez pas qu'avec art je l'enflamme,
 Et que mon dessein soit de séduire son âme :
 S'il s'attache à me voir, et me veut quelque bien,
@@ -964,191 +835,50 @@ Je vous promets ici d'éviter sa présence ;
 De faire place au choix où vous vous résoudrez,
 Et ne souffrir ses vœux que quand vous le voudrez.
 
-**** *book_ *id_II05 *act_ *date_1682 *creator_moliere
 
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_corinne
 
-
--*who_myrtil
-Eh bien, vous triomphez avec cette retraite,
-Et dans ces mots votre âme a ce qu'elle souhaite :
-Mais apprenez qu'en vain vous vous réjouissez,
-Que vous serez trompé dans ce que vous pensez,
-Et qu'avec tous vos soins, toute votre puissance,
-Vous ne gagnerez rien sur ma persévérance.
-
--*who_lycarsis
-Comment, à quel orgueil, fripon, vous vois-je aller ?
-Est-ce de la façon que l'on me doit parler ?
-
--*who_myrtil
-Oui, j'ai tort, il est vrai, mon transport n'est pas sage :
-Pour rentrer au devoir, je change de langage,
-Et je vous prie ici, mon Père, au nom des Dieux,
-Et par tout ce qui peut vous être précieux,
-De ne vous point servir dans cette conjoncture,
-Des fiers droits que sur moi vous donne la nature,
-Ne m'empoisonnez point vos bienfaits les plus doux,
-Le jour est un présent que j'ai reçu de vous :
-Mais de quoi vous serai-je aujourd'hui redevable,
-Si vous me l'allez rendre, hélas ! insupportable ?
-Il est sans Mélicerte un supplice à mes yeux :
-Sans ses divins appas, rien ne m'est précieux,
-Ils font tout mon bonheur, et toute mon envie,
-Et si vous me l'ôtez, vous m'arrachez la vie.
-
--*who_lycarsis
-Aux douleurs de son âme il me fait prendre part.
-Qui l'aurait jamais cru de ce petit pendard ?
-Quel amour, quels transports, quels discours pour son âge :
-J'en suis confus, et sens que cet amour m'engage.
-
--*who_myrtil
-Voyez, me voulez-vous ordonner de mourir ?
-Vous n'avez qu'à parler, je suis prêt d'obéir.
-
--*who_lycarsis
-Je ne puis plus tenir, il m'arrache des larmes,
-Et ces tendres propos me font rendre les armes.
-
--*who_myrtil
-Que si dans votre cœur un reste d'amitié,
-Vous peut de mon destin donner quelque pitié,
-Accordez Mélicerte à mon ardente envie,
-Et vous ferez bien plus que me donner la vie.
-
--*who_lycarsis
-Lève-toi.
-
--*who_myrtil
-      Serez-vous sensible à mes soupirs ?
-
--*who_lycarsis
 Oui.
 
--*who_myrtil
-      J'obtiendrai de vous l'objet de mes désirs ?
-
--*who_lycarsis
 Oui.
 
--*who_myrtil
-      Vous ferez pour moi que son Oncle l'oblige
-À me donner sa main ?
+Mais quoi, que voulez-vous, c'est là la vérité,
+Et vous redites tout, comme je l'ai conté.
 
--*who_lycarsis
-      Oui, lève-toi, te dis-je.
+Comme un honneur, je crois, qui doit beaucoup lui plaire.
 
--*who_myrtil
-Ô Père, le meilleur qui jamais ait été,
-Que je baise vos mains, après tant de bonté.
-
--*who_lycarsis
-Ah, que pour ses enfants un père a de faiblesse !
-Peut-on rien refuser à leurs mots de tendresse,
-Et ne se sent-on pas certains mouvements doux,
-Quand on vient à songer que cela sort de vous ?
-
--*who_myrtil
-Me tiendrez-vous au moins la parole avancée.
-Ne changerez-vous point, dites-moi, de pensée ?
-
--*who_lycarsis
-Non.
-
--*who_myrtil
-      Me permettez-vous de vous désobéir,
-Si de ces sentiments on vous fait revenir :
-Prononcez le mot.
-
--*who_lycarsis
-      Oui. Ha, nature ! nature,
-Je m'en vais trouver Mopse, et lui faire ouverture
-De l'amour que sa Nièce, et toi, vous vous portez.
-
--*who_myrtil
-Ah, que ne dois-je point à vos rares bontés !
-Quelle heureuse nouvelle à dire à Mélicerte,
-Je n'accepterais pas une Couronne offerte,
-Pour le plaisir que j'ai de courir lui porter,
-Ce merveilleux succès qui la doit contenter.
-
-**** *book_ *id_II06 *act_ *date_1682 *creator_moliere
-
-
-
--*who_acante
-Ah ! Myrtil, vous avez du Ciel reçu des charmes,
-Qui nous ont préparé des matières de larmes,
-Et leur naissant éclat fatal à nos ardeurs,
-De ce que nous aimons nous enlève les cœurs.
-
--*who_tyrene
-Peut-on savoir, Myrtil, vers qui de ces deux Belles
-Vous tournerez ce choix dont courent les nouvelles,
-Et sur qui doit de nous tomber ce coup affreux,
-Dont se voit foudroyé tout l'espoir de nos vœux ?
-
--*who_acante
-Ne faites point languir deux Amants davantage,
-Et nous dites quel sort votre cœur nous partage.
-
--*who_tyrene
-Il vaut mieux quand on craint ces malheurs éclatants,
-En mourir tout d'un coup que traîner si longtemps.
-
--*who_myrtil
-Rendez, Nobles Bergers, le calme à votre flamme,
-La Belle Mélicerte a captivé mon âme :
-Auprès de cet objet mon sort est assez doux,
-Pour ne pas consentir à rien prendre sur vous.
-Et si vos vœux enfin n'ont que les miens à craindre,
-Vous n'aurez l'un ni l'autre aucun lieu de vous plaindre.
-
--*who_acante
-Ah, Myrtil, se peut-il que deux tristes Amants…
-
--*who_tyrene
-Est-il vrai que le Ciel sensible à nos tourments…
-
--*who_myrtil
-Oui, content de mes fers comme d'une victoire,
-Je me suis excusé de ce choix plein de gloire :
-J'ai de mon Père encore changé les volontés,
-Et l'ai fait consentir à mes félicités.
-
--*who_acante
-Ah, que cette aventure est un charmant miracle,
-Et qu'à notre poursuite elle ôte un grand obstacle.
-
--*who_tyrene
-Elle peut renvoyer ces Nymphes à nos vœux,
-Et nous donner moyen d'être contents tous deux.
-
-**** *book_ *id_II07 *act_ *date_1682 *creator_moliere
-
-
-
--*who_nicandre
-Savez-vous en quel lieu Mélicerte est cachée ?
-
--*who_myrtil
 Comment ?
 
--*who_nicandre
+Mais quoi ? je vous réponds et dis ce que je pense.
+
+Je ne sais.
+
+      En vérité, je ne sais comment faire,
+Et de tous les côtés je trouve à vous déplaire.
+
+
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+
+Dis-nous donc ta nouvelle.
+
+Veux-tu par tes délais nous fatiguer tous deux ?
+
+De grâce, parle, et mets ces mines en arrière.
+
+      Te voilà puni de tes façons de faire.
+
+      Non.
+
+Nous n'avons pas envie aussi de rien savoir.
+
+Savez-vous en quel lieu Mélicerte est cachée ?
+
       En diligence elle est partout cherchée.
 
--*who_myrtil
-Et pourquoi ?
-
--*who_nicandre
       Nous allons perdre cette beauté.
 C'est pour elle qu'ici le Roi s'est transporté,
 Avec un grand Seigneur on dit qu'il la marie.
 
--*who_myrtil
-Ô Ciel, expliquez-moi ce discours, je vous prie.
-
--*who_nicandre
 Ce sont des incidents grands et mystérieux :
 Oui, le Roi vient chercher Mélicerte en ces lieux ;
 Et l'on dit qu'autrefois feu Bélise sa mère,
@@ -1156,8 +886,24 @@ Dont tout Tempé croyait que Mopse était le frère…
 Mais je me suis chargé de la chercher partout,
 Vous saurez tout cela tantôt de bout en bout.
 
--*who_myrtil
-Ah, Dieux, quelle rigueur ! hé Nicandre, Nicandre.
 
--*who_acante
-Suivons aussi ses pas, afin de tout apprendre.
+**** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mopse
+
+Que de sottes façons, et que de badinage,
+Ménalque pour chanter n'en fait pas davantage.
+
+Prends-tu quelque plaisir à te rendre fâcheux ?
+
+La peste soit du fat, laissons-le là, Nicandre,
+Il brûle de parler, bien plus que nous d'entendre.
+Sa nouvelle lui pèse, il veut s'en décharger,
+Et ne l'écouter pas, est le faire enrager.
+
+      Point d'affaire.
+
+Soit.
+
+Et nous ne te voulons aucunement entendre.
+
+      Va-t'en te faire pendre.
+

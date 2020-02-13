@@ -1,1444 +1,767 @@
 
 
-**** *book_ *id_I01 *act_I *date_1779
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeleurmont
 
--*who_monsieurdesaintival
-Tu dis que Monsieur de Leurmont va arriver de Paris ?
+Oui, je suis assez content de mon jardin : mais, Laurent, je voudrais... Eh bien, où est-il donc ? Laurent.
 
--*who_labrie
-Oui, Monsieur, avec Mademoiselle Agathe ; le carrosse était à leur porte lorsque je suis parti, et suis venu au grand galop : mais vous savez que de Paris à Pantin il n'y a que cinq quarts de lieue.
+Il aura trouvé quelques branches qui passent sans doute. Ah çà, voyons un peu... Eh bien, où est donc mon Abbé ? Je ne le vois pas ; est-ce qu'on me l'aurait volé ? Laurent, Laurent ?
 
--*who_monsieurdesaintival
-Nous avons du temps.
-
--*who_labrie
-Oui ; et s'il me trouvait ici avec vous, je serais fort embarrassé.
-Je vous assure que ce que vous allez faire est d'une grande folie.
-
--*who_monsieurdesaintival
-Bon, folie !
-
--*who_labrie
-Ma foi, vous vous en tirerez comme vous pourrez, pourvu que je ne m'en mêle pas davantage.
-Et si Laurent le jardinier vous surprenait ?
-
--*who_monsieurdesaintival
-Il est aussi à Paris ; il ne reviendra pas avant son maître ; et puis tu sais comme il est.
-
--*who_labrie
-Comme tous les Domestiques, qui dédaignent toujours tout ce qu'on aime le plus dans une maison.
-
--*who_monsieurdesaintival
-C'est pour cela qu'il ne prendra pas garde à moi, en me voyant ici en Abbé de Plâtre.
-
--*who_labrie
-Oui ; mais Monsieur de Leurmont ?
-Je suis sûr qu'il en est enchanté, de son Abbé de Plâtre, lui qui croit son jardin plus beau que tous ceux de ses voisins, qui y passe sa vie, qui n'a pas d'autre occupation que celle de le parcourir sans cesse, examiner chaque arbre, chaque plante, chaque fleur, et avec la plus grande attention.
-
--*who_monsieurdesaintival
-Comment crois-tu qu'il puisse s'amuser de tout cela, avec sa mauvaise vue ?
-
--*who_labrie
-Monsieur, de même que les boiteux veulent toujours marcher, les gens à mauvaise vue veulent toujours tout voir.
-N'ont-ils pas des cabinets de tableaux, d'estampes, d'histoire naturelle ?
-Je parirais que depuis que Monsieur de Leurmont a mis cet Abbé dans son jardin, il est continuellement à l'admirer.
-
--*who_monsieurdesaintival
-À propos, il me semble que c'est là l'endroit où il étoit placé.
-
--*who_labrie
-Justement, c'était ici.
-Nous avons bien fait de l'enterrer cette nuit dans le petit bois, afin qu'on ne le trouve pas ailleurs.
-Je ne croyais pas que tous ces Abbés, qu'on voit sur les Boulevards, chez les Sculpteurs, fussent si pesants.
-
--*who_monsieurdesaintival
-C'est pourtant là que Monsieur de Leurmont a acheté le sien ; je m'en suis informé, pour y envoyer mon Tailleur, afin que mon habillement fût tout pareil.
-
--*who_labrie
-Nous perdons du temps : si vous vouliez vous habiller.
-
--*who_monsieurdesaintival
-Allons, tu as raison : dépêchons-nous.
-
--*who_labrie
-Tenez, voilà l'habit.
-
--*who_monsieurdesaintival
-Donne.
-
--*who_labrie
-Il ne faut pas le boutonner.
-Là, fort bien !
-Voilà le chapeau.
-
--*who_monsieurdesaintival
-Et le livre ?
-
--*who_labrie
-Le voilà.
-Placez-vous un peu pour voir.
-Monsieur de Saint Ival se tient assis comme un Abbé de Plâtre.
-À merveille !
-C'est cela même.
-
--*who_monsieurdesaintival
-Tu trouves donc qu'on pourra s'y tromper ?
-
--*who_labrie
-Sûrement, surtout Monsieur de Leurmont.
-Ah çà, Monsieur, combien comptez-vous rester ici de tems en statue ?
-Apparemment que Mademoiselle Agathe vous nourrira, puisque vous ne me demandez rien à manger.
-
--*who_monsieurdesaintival
-Comment, coquin !
-Oserais-tu la soupçonner.....
-
--*who_labrie
-Ma foi, Monsieur...
-
--*who_monsieurdesaintival
-Tais-toi, et apprends à respecter ce que j'aime.
-
--*who_labrie
-Et que voulez-vous donc faire ici ?
-
--*who_monsieurdesaintival
-Savoir si je pourrai être aimé.
-
--*who_labrie
-Quoi !
-Vous n'en êtes encore que là ?
-
--*who_monsieurdesaintival
-J'ignore ce qu'elle peut penser de mon amour : je lui ai écrit plusieurs fois pour le savoir, et elle ne m'a fait aucune réponse.
-
--*who_labrie
-Et vous croyez qu'elle vous aime ?
-
--*who_monsieurdesaintival
-Je n'en sais rien, te dis-je : je sais seulement qu'elle a reçu mes lettres ; et quoiqu'elle ne m'ait pas répondu, elle paroît me voir sans peine.
-Peut-être la timidité et la pudeur la retiennent.
-Enfin, je veux savoir mon sort, et pour cela, être à portée de lui parler et de la faire expliquer.
-
--*who_labrie
-Et si vous ne réussissez pas et qu'on vous découvre, Monsieur de Saint Ival sera furieux contre vous, s'il apprend tout ceci.
-
--*who_monsieurdesaintival
-Je ne saurois le croire ; mon pere m'aime, il a connu l'amour, il excusera mon imprudence ; et si j'ai le bonheur d'être aimé, il sollicitera Monsieur de Leurmont, pour qu'il me donne....
-
--*who_labrie
-Sa fille, Mademoiselle Agathe ?
-
--*who_monsieurdesaintival
-Voilà ce que je désire, et ce que je n'ose espérer.
-
--*who_labrie
-N'est-ce pas dans ce pavillon qu'elle demeure ?
-
--*who_monsieurdesaintival
-Oui.
-
--*who_labrie
-Vous ne seriez pas mal là pour....
-
--*who_monsieurdesaintival
-J'entends quelqu'un.
-
--*who_labrie
-C'est Monsieur de Leurmont : je m'enfuis.
-
--*who_monsieurdesaintival
-Et le livre, où est-il ?
-Je ne puis pas me placer sans le livre.
-Je vais me cacher, en attendant, derrière ces arbres ; il ne pensera peut-être pas à l'Abbé.
-
-**** *book_ *id_I02 *act_I *date_1779
-
--*who_monsieurdeleurmont
-Oui, je suis assez content de mon jardin : mais, Laurent, je voudrais...
-Eh bien, où est-il donc ?
-Laurent.
-
--*who_laurent
-Monsieur, je suis à vous tout-à-l'heure.
-
--*who_monsieurdeleurmont
-Il aura trouvé quelques branches qui passent sans doute.
-Ah çà, voyons un peu...
-Eh bien, où est donc mon Abbé ?
-Je ne le vois pas ; est-ce qu'on me l'aurait volé ?
-Laurent, Laurent ?
-
--*who_laurent
-Je ne vous demande qu'un moment.
-
--*who_monsieurdeleurmont
 Quitte tout, et viens tout de suite.
 
--*who_laurent
-Allons, allons, cela est bon.
-
--*who_monsieurdeleurmont
 Laurent, je te dis de venir.
 
--*who_laurent
-Oui, oui.
-
--*who_monsieurdeleurmont
 Il faut que j'aille le chercher.
 
--*who_monsieurdesaintival
-Ah !
-Voilà le livre.
-Je vais me remettre en place.
-
--*who_monsieurdeleurmont
 Je te dis qu'il n'y est pas.
 
--*who_laurent
-Ah !
-Pardi, je ne crois pas celui-là.
+Tu vas voir. Regarde.
 
--*who_monsieurdeleurmont
-Tu vas voir.
-Regarde.
-
--*who_laurent
-Que voulez-vous que je regarde ?
-Est-ce que ne le voilà pas votre Abbé ?
-
--*who_monsieurdeleurmont
 Oui ; tu as raison, le voilà !
 
--*who_laurent
-Sûrement, le voilà.
-
--*who_monsieurdeleurmont
 Cela est singulier !
 
--*who_laurent
-Oui, singulier !
-Je le trouve, moi, très ordinaire : voilà comme vous croyez toujours qu'on vous prend tout.
-
--*who_monsieurdeleurmont
 Allons, ne gronde pas, et écoute-moi.
 
--*who_laurent
-Croire qu'on va lui prendre son Abbé !
-Voilà encore quelque chose de beau !
-
--*who_monsieurdeleurmont
 Sûrement, et moi je l'aime beaucoup.
 
--*who_laurent
-Oui ; c'est une chose bien rare !
-On en voit par-tout, et cela n'attrape seulement pas les chiens ; car ils y vont...
-
--*who_monsieurdeleurmont
 Tiens, écoute mon projet.
 
--*who_laurent
-Vous n'avez qu'à toujours parler, pendant que je travaille.
-
--*who_monsieurdeleurmont
 Je veux faire faire une niche à mon Abbé.
 
--*who_monsieurdesaintival
-Me faire une niche.
-
--*who_monsieurdeleurmont
 Oui, une niche en treillage, et le Treillageur va venir tout-à-l'heure, pour en prendre la mesure.
 
--*who_monsieurdesaintival
-Ah !
-Je suis perdu !
-
--*who_monsieurdeleurmont
 Qu'est-ce que tu dis ?
 
--*who_laurent
-Moi ?
-Rien.
-
--*who_monsieurdeleurmont
 Tu as dit que c'était autant d'argent perdu.
 
--*who_laurent
-Ma foi, il me paraît que vous entendez comme vous voyez.
+Oh ! Je sais bien que tu n'aimes pas mon treillageur ; mais c'est un habile homme.
 
--*who_monsieurdeleurmont
-Oh !
-Je sais bien que tu n'aimes pas mon treillageur ; mais c'est un habile homme.
-
--*who_laurent
-Oui, parce qu'il voudrait mettre tout votre jardin en bois et en copeaux peints en verd ; mais....
-
--*who_monsieurdeleurmont
 Eh bien , où vas-tu ?
 
--*who_laurent
-À mes affaires.
-
--*who_monsieurdeleurmont
 Attends le Treillageur, et viens me trouver avec lui dans mon cabinet, nous reviendrons ici tous trois ensemble.
 
--*who_laurent
-Oui, oui.
+Sûrement une niche fera bien au-dessus de mon Abbé : oui, mon cher Abbé, vous serez à couvert. Mais nous verrons cela avec le Treillageur. Adieu, cher Abbé, à tantôt.
 
--*who_monsieurdeleurmont
-Sûrement une niche fera bien au-dessus de mon Abbé : oui, mon cher Abbé, vous serez à couvert.
-Mais nous verrons cela avec le Treillageur.
-Adieu, cher Abbé, à tantôt.
+Eh bien ! Qu'as-tu donc ? Bon ! Mon Abbé est tombé à terre !
 
-**** *book_ *id_I03 *act_I *date_1779
+Mais aussi pourquoi toucher à cet Abbé ? Il faut le relever. Laurent, Laurent. Reste-là, je vais le chercher.
 
--*who_monsieurdesaintival
-Labrie, Labrie.
+Je te dis que c'est ma fille, qui a touché l'Abbé et qui l'a fait tomber.
 
--*who_labrie
-Me voilà , me voilà.
-
--*who_monsieurdesaintival
-Je suis perdu, Labrie !
-
--*who_labrie
-Comment donc ?
-
--*who_monsieurdesaintival
-Il faut que je renonce à mon projet.
-
--*who_labrie
-Pourquoi cela ?
-
--*who_monsieurdesaintival
-Monsieur de Leurmont attend son Treillageur pour me faire une niche.
-
--*who_labrie
-Ah !
-Celle-là sera bien véritable, par exemple.
-
--*who_monsieurdesaintival
-Peux-tu rire dans l'embarras où je suis ?
-
--*who_labrie
 Sûrement.
 
--*who_monsieurdesaintival
-Mais si ce Treillageur vient ici, en prenant ses mesures, il tournera autour de moi, et il ne s'y méprendra pas.
+Comment, il n'est pas tombé ?
 
--*who_labrie
-Je l'empêcherai d'arriver.
+Cela est vrai.
 
--*who_monsieurdesaintival
-Comment feras-tu ?
+Mais c'est qu'il m'avait semblé.... Tu y étais toi, ma fille, et tu l'as va comme moi.
 
--*who_labrie
-Je le connais, il s'appelle l'Échalas ; c'est un ivrogne ; je viens de le voir entrer dans un cabaret ; je vais le trouver, je vous réponds qu'il n'en sortira pas si-tôt, et que lorsque je l'en laisserai sortir, il sera ivre à ne pas distinguer les objets.
+Moi, je vais aller attendre le Treillageur. Ah çà tu restes ici, toi ma fille ?
 
--*who_monsieurdesaintival
-Va donc promptement.
+Non, mon enfant, je t'en prie, reste-là : je veux que tu gardes mon Abbé, et tu me diras si quelqu'un vient le déranger de sa place ; car je ne crois pas m'être trompé deux fois, cela n'est pas possible.
 
--*who_labrie
-Je pars.
-Mais qu'est-ce que j'entends-là ?
+Allons, allons, je t'en prie, par complaisance pour moi, fais-moi le plaisir de rester ici.
 
--*who_monsieurdesaintival
-Où ?
+Je te dis que je t'en prie. Adieu.
 
--*who_labrie
-Là-dedans ?
+Tenez, asseyons-nous ici ; ma fille n'est pas chez elle, et personne ne nous entendra.
 
--*who_monsieurdesaintival
+Qu'est-ce qui peut donc vous occuper aujourd'hui, Monsieur de Saint Ival ? Je vous trouve l'air bien sérieux.
+
+Pourquoi donc ? Je ne trouve pas cela, moi, et je serais très-fâché de n'avoir pas ma fille. A nos âges qui aimera-t-on, si l'on n'a pas d'enfants ?
+
+Comment ici ?
+
+Non.
+
+Comment, pas capable ?
+
+Dites donc ce que c'est ?
+
+Eh bien, quoi ?
+
+Pourquoi cela ?
+
+Mais, que vous a-t-on dit ?
+
+Chez moi ?
+
+Eh bien, qu'a-t-on fait ?
+
+Un mort dans mon jardin ! Cela ne se peut pas.
+
+Quel est-il ?
+
+Mais quoi donc ?
+
+Un Abbé !
+
+Un Abbé !
+
+Attendez, attendez.
+
+C'est que je pense que cet Abbé qui changeait de place tantôt....
+
+Croyez-vous aux esprits, vous ?
+
+Eh bien, je suis certain que tout ce qu'on vous a dit n'est pas vrai.
+
+Et est-il sauvé ?
+
+Tant mieux, s'il n'est pas sauvé.
+
+Oui, parce que ce seroit s'avouer coupable.
+
+Je vous dis qu'il ne peut pas l'être. Tenez, j'ai toujours été une manière d'esprit fort, moi , et je ne crois les choses que quand je les vois.
+
+Mort ?
+
+Je n'en crois rien.
+
+Mais...
+
+Qu'appelez-vous, Monsieur, que je ne suis plus si ferme ?
+
+Monsieur, l'on ne trouvera ici d'autre Abbé, que mon Abbé de Plâtre que voilà, et que j'aime beaucoup.
+
+Oui, vraiment. Voyez comme il est bien fait !
+
+II remue ?
+
+Je n'avais donc pas tort tantôt.
+
+Votre fils ?
+
+Vous n'avez donc pas assassiné cet Abbé ?
+
+Haï, méprisé ! Je te réponds bien que non , et je ferai bien voir à ton pere que je suis ferme : je lui avois promis de te donner Agathe en mariage, et je te la donnerai.
+
+Comment, comment donc !
+
+Ah ! voilà un bon tour !
+
+Mon ami, ils ne trouveront sûrement rien.
+
+Ils seront bien attrapés !
+
+C'est moi, Monsieur. Que voulez-vous ?
+
+Non, pour vous.
+
+Je ne crois pas cela.
+
+Je ne saurois être complice d'une chose qui n'est pas ; vos recherches seront inutiles, et je vous conseille de ne pas perdre votre tems ici davantage.
+
+Mais n'avez-vous pas cassé mon Abbé en fouillant ?
+
+Monsieur l'Échalas, vous reviendrez pour faire la niche que je vous ai demandé ?
+
+Laurent, va donc voir en quel état est mon pauvre Abbé.
+
+Il ne sera jamais si bien fait.
+
+Ah ! Voilà ma fille.
+
+Quoi donc ?
+
+Laissez-moi répondre, et cachez-le.
+
+Oui, voilà qu'on l'emmène.
+
+Achevé donc ?
+
+Mais, Agathe, qui peut donc t'alarmer ? Tu n'aimais pas Saint-Ival, tu vas être vengée.
+
+Il faudrait l'épouser, ma fille.
+
+Eh bien, te crois-tu encore haï, méprisé ?
+
+Oui, oui ; et pour réparer le temps perdu, envoyons chercher un Notaire ; et en l'attendant, allons revoir mon pauvre Abbé. Mais pourquoi donc l'avoir enterré ?
+
+Ah ! Fort bien ! Mon ami, dans notre jeunesse, nous en aurions fait autant. Allons, allons, je pardonne à ma fille de mieux aimer la copie que l'original.
+
+
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselleagathe
+
 Ah !
-C'est sans doute Mademoiselle Agathe.
 
--*who_labrie
-Allons, profitez du moment, et comptez sur moi.
-
--*who_monsieurdesaintival
-C'est elle-même qui va sortir.
-Va-t-en.
-
-**** *book_ *id_I04 *act_I *date_1779
-
--*who_mademoiselleagathe
-Ah !
-
--*who_monsieurdesaintival
-Ô Dieux !
-Que lit-elle là ?
-
--*who_mademoiselleagathe
 Quel bonheur si...
 
--*who_monsieurdesaintival
-Si c'était ma lettre !
-Chantons pour la faire tourner de mon côté.
+Je croyais entendre quelque chose. Ah ! Si c'étoit lui !
 
--*who_mademoiselleagathe
-Je croyais entendre quelque chose.
+Quelle douce voix !
+
+Ô ciel !
+
+Mon père...
+
+Monsieur, retirez-vous promptement.
+
+Vous me perdrez.
+
+Voici mon père.
+
+Moi, mon père.
+
+Mais, Laurent.....
+
+Mon pere, je vais aller avec vous.
+
+Mais, mon pere, c'est que je voudrais aller...
+
+Puisque vous le voulez.....
+
+Rentrons.
+
+Non, Mondieur, je ne le puis : dois-je vous aider à tromper mon pere ?
+
+Croyez-vous que je puisse approuver les moyens que vous avez tenté pour me surprendre ?
+
+Que voulez-vous donc que je croie ?
+
+Si vous m'aimiez, vous me respecteriez davantage.
+
+Je croyais qu'il devait vous suffire que je ne vous eusse pas répondu.
+
+Je ne dois point faire de choix.
+
+Je vous aimerais, qu'après ce que vous venez de faire, l'honneur et la vertu me forceraient d'étouffer mon amour.
+
+Oui, Monsieur. Voyez à quoi vous m'exposez : votre démarche ne peut être toujours ignorée, et ma réputation...
+
+Un moment suffit pour vous dévoiler à mes yeux ; cette hardiesse est impardonnable.
+
+Que faites-vous encore ?
+
 Ah !
-Si c'étoit lui !
 
--*who_monsieurdesaintival
+On vient, levez-vous.
+
+Non, je ne puis plus rien entendre ; je ne vous ai que trop écouté. Fuyons.
+
+Ah ! Mon père ! Est-il bien vrai ?
+
+Monsieur de Saint-Ival ?
+
+On dit qu'on va arrêter Monsieur votre fils.
+
+Dites donc, je vous prie ?
+
+Ô Dieux ! Quoi, il serait vrai....
+
+Qu'il a tué un homme. Mon père !..... Ah ! Le malheureux Saint-Ival !
+
+Moi, vengée ! Que dites-vous ?
+
+Si je l'aimais !.... Eh ! Que pourrais-je faire pour lui sauver la vie ?
+
+Il ne dépendrait que de moi....
+
+Que vois je ? Quoi, c'est bien vous, Saint-Ival ?
+
+Ah ! Je respire !
+
+Ah ! Mon père !... Quoi, Monsieur, il serait bien vrai ?
+
+
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdesaintival
+
+Tu dis que Monsieur de Leurmont va arriver de Paris ?
+
+Nous avons du temps.
+
+Bon, folie !
+
+Il est aussi à Paris ; il ne reviendra pas avant son maître ; et puis tu sais comme il est.
+
+C'est pour cela qu'il ne prendra pas garde à moi, en me voyant ici en Abbé de Plâtre.
+
+Comment crois-tu qu'il puisse s'amuser de tout cela, avec sa mauvaise vue ?
+
+À propos, il me semble que c'est là l'endroit où il étoit placé.
+
+C'est pourtant là que Monsieur de Leurmont a acheté le sien ; je m'en suis informé, pour y envoyer mon Tailleur, afin que mon habillement fût tout pareil.
+
+Allons, tu as raison : dépêchons-nous.
+
+Donne.
+
+Et le livre ?
+
+Tu trouves donc qu'on pourra s'y tromper ?
+
+Comment, coquin ! Oserais-tu la soupçonner.....
+
+Tais-toi, et apprends à respecter ce que j'aime.
+
+Savoir si je pourrai être aimé.
+
+J'ignore ce qu'elle peut penser de mon amour : je lui ai écrit plusieurs fois pour le savoir, et elle ne m'a fait aucune réponse.
+
+Je n'en sais rien, te dis-je : je sais seulement qu'elle a reçu mes lettres ; et quoiqu'elle ne m'ait pas répondu, elle paroît me voir sans peine. Peut-être la timidité et la pudeur la retiennent. Enfin, je veux savoir mon sort, et pour cela, être à portée de lui parler et de la faire expliquer.
+
+Je ne saurois le croire ; mon pere m'aime, il a connu l'amour, il excusera mon imprudence ; et si j'ai le bonheur d'être aimé, il sollicitera Monsieur de Leurmont, pour qu'il me donne....
+
+Voilà ce que je désire, et ce que je n'ose espérer.
+
+Oui.
+
+J'entends quelqu'un.
+
+Et le livre, où est-il ? Je ne puis pas me placer sans le livre. Je vais me cacher, en attendant, derrière ces arbres ; il ne pensera peut-être pas à l'Abbé.
+
+Ah ! Voilà le livre.
+Je vais me remettre en place.
+
+Me faire une niche.
+
+Ah ! Je suis perdu !
+
+Labrie, Labrie.
+
+Je suis perdu, Labrie !
+
+Il faut que je renonce à mon projet.
+
+Monsieur de Leurmont attend son Treillageur pour me faire une niche.
+
+Peux-tu rire dans l'embarras où je suis ?
+
+Mais si ce Treillageur vient ici, en prenant ses mesures, il tournera autour de moi, et il ne s'y méprendra pas.
+
+Comment feras-tu ?
+
+Va donc promptement.
+
+Où ?
+
+Ah ! C'est sans doute Mademoiselle Agathe.
+
+C'est elle-même qui va sortir. Va-t-en.
+
+Ô Dieux ! Que lit-elle là ?
+
+Si c'était ma lettre ! Chantons pour la faire tourner de mon côté.
+
 Tout reconnaît votre charmant empire,
 Vous inspirez l'amour le plus constant.
 Auprès de vous, que mon coeur est content,
 Si c'est pour moi que le vôtre soupire.
 
--*who_mademoiselleagathe
-Quelle douce voix !
-
--*who_monsieurdesaintival
 Seroit-ce en vain que mon amour se flatte ?
 Ah ! Répondez, daignez combler mes voux :
 Vous me rendrez l'Amant le plus heureux !
 À vos genoux, voyez-moi chère Agathe.
 
--*who_mademoiselleagathe
-Ô ciel !
-
-**** *book_ *id_I05 *act_I *date_1779
-
--*who_monsieurdeleurmont
-Eh bien !
-Qu'as-tu donc ?
-Bon !
-Mon Abbé est tombé à terre !
-
--*who_mademoiselleagathe
-Mon père...
-
--*who_monsieurdeleurmont
-Mais aussi pourquoi toucher à cet Abbé ?
-Il faut le relever.
-Laurent, Laurent.
-Reste-là, je vais le chercher.
-
-**** *book_ *id_I06 *act_I *date_1779
-
--*who_mademoiselleagathe
-Monsieur, retirez-vous promptement.
-
--*who_monsieurdesaintival
 Cela m'est impossible.
 
--*who_mademoiselleagathe
-Vous me perdrez.
-
--*who_monsieurdesaintival
 Ne craignez rien ; je vais me remettre à ma place.
 
--*who_mademoiselleagathe
-Voici mon père.
-
-**** *book_ *id_I07 *act_I *date_1779
-
--*who_monsieurdeleurmont
-Je te dis que c'est ma fille, qui a touché l'Abbé et qui l'a fait tomber.
-
--*who_mademoiselleagathe
-Moi, mon père.
-
--*who_monsieurdeleurmont
-Sûrement.
-
--*who_laurent
-Eh !
-Monsieur, que voulez-vous qu'elle fasse d'un homme de plâtre ?...
-Mais, il n'est pas tombé.
-
--*who_monsieurdeleurmont
-Comment, il n'est pas tombé ?
-
--*who_laurent
-Parbleu non ; regardez-le.
-
--*who_monsieurdeleurmont
-Cela est vrai.
-
--*who_laurent
-Si je vous croyais, je perdrais ici tout mon temps.
-
--*who_monsieurdeleurmont
-Mais c'est qu'il m'avait semblé....
-Tu y étais toi, ma fille, et tu l'as va comme moi.
-
--*who_laurent
-Je parierais bien que non, que Mademoiselle ne l'a pas vu comme vous.
-N'est-ce pas, Mademoiselle ?
-
--*who_mademoiselleagathe
-Mais, Laurent.....
-
--*who_laurent
-Vous ne voulez pas démentir Monsieur votre père ; il a beau aimer son Abbé , je suis sûr que vous ne l'aimez pas comme lui.
-Mais je perds ici mon temps, et mon ouvrage ne se fait pas.
-Je m'en vas : vous aurez beau m'appeler, je ne reviendrai plus.
-
--*who_monsieurdeleurmont
-Moi, je vais aller attendre le Treillageur.
-Ah çà tu restes ici, toi ma fille ?
-
--*who_mademoiselleagathe
-Mon pere, je vais aller avec vous.
-
--*who_monsieurdeleurmont
-Non, mon enfant, je t'en prie, reste-là : je veux que tu gardes mon Abbé, et tu me diras si quelqu'un vient le déranger de sa place ; car je ne crois pas m'être trompé deux fois, cela n'est pas possible.
-
--*who_mademoiselleagathe
-Mais, mon pere, c'est que je voudrais aller...
-
--*who_monsieurdeleurmont
-Allons, allons, je t'en prie, par complaisance pour moi, fais-moi le plaisir de rester ici.
-
--*who_mademoiselleagathe
-Puisque vous le voulez.....
-
--*who_monsieurdeleurmont
-Je te dis que je t'en prie.
-Adieu.
-
-**** *book_ *id_I08 *act_I *date_1779
-
--*who_mademoiselleagathe
-Rentrons.
-
--*who_monsieurdesaintival
 Ah Mademoiselle, arrêtez, je vous en supplie, et daignez m'entendre.
 
--*who_mademoiselleagathe
-Non, Mondieur, je ne le puis : dois-je vous aider à tromper mon pere ?
-
--*who_monsieurdesaintival
 Je ne veux tromper personne.
 
--*who_mademoiselleagathe
-Croyez-vous que je puisse approuver les moyens que vous avez tenté pour me surprendre ?
+Moi ? Ah ! Je me punirais ; si j'avais eu le dessein de vous déplaire, d'attenter à rien qui pût vous donner une opinion désavantageuse de moi, de mon amour.
 
--*who_monsieurdesaintival
-Moi ?
-Ah !
-Je me punirais ; si j'avais eu le dessein de vous déplaire, d'attenter à rien qui pût vous donner une opinion désavantageuse de moi, de mon amour.
-
--*who_mademoiselleagathe
-Que voulez-vous donc que je croie ?
-
--*who_monsieurdesaintival
 Que je vous aime, que je vous adore....
 
--*who_mademoiselleagathe
-Si vous m'aimiez, vous me respecteriez davantage.
+Je suis bien éloigné de vouloir manquer au respect que tout l'amour que j'ai pour vous m'inspire ! Pardonnez à un malheureux qu'il a rendu coupable : oui, c'est le désespoir où m'a réduit votre silence, qui m'a fait tout hasarder, pour apprendre mon sort de votre bouche.
 
--*who_monsieurdesaintival
-Je suis bien éloigné de vouloir manquer au respect que tout l'amour que j'ai pour vous m'inspire !
-Pardonnez à un malheureux qu'il a rendu coupable : oui, c'est le désespoir où m'a réduit votre silence, qui m'a fait tout hasarder, pour apprendre mon sort de votre bouche.
+Que dites-vous ? Serais-je assez malheureux...
 
--*who_mademoiselleagathe
-Je croyais qu'il devait vous suffire que je ne vous eusse pas répondu.
+Ah ! Tôt ou tard, si vous en aimez un autre, je ne le saurai que trop !
 
--*who_monsieurdesaintival
-Que dites-vous ?
-Serais-je assez malheureux...
-
--*who_mademoiselleagathe
-Je ne dois point faire de choix.
-
--*who_monsieurdesaintival
-Ah !
-Tôt ou tard, si vous en aimez un autre, je ne le saurai que trop !
-
--*who_mademoiselleagathe
-Je vous aimerais, qu'après ce que vous venez de faire, l'honneur et la vertu me forceraient d'étouffer mon amour.
-
--*who_monsieurdesaintival
 Ô ciel !
 
--*who_mademoiselleagathe
-Oui, Monsieur.
-Voyez à quoi vous m'exposez : votre démarche ne peut être toujours ignorée, et ma réputation...
+Moi, je pourrais hasarder de vous nuire, j'en aurais le projet ? Non, Mademoiselle, vous ne le croyez pas. Depuis que je vous aime, qu'elle a été ma conduite, et qu'ai-je fait qui ait pu mériter tant de rigueur ?
 
--*who_monsieurdesaintival
-Moi, je pourrais hasarder de vous nuire, j'en aurais le projet ?
-Non, Mademoiselle, vous ne le croyez pas.
-Depuis que je vous aime, qu'elle a été ma conduite, et qu'ai-je fait qui ait pu mériter tant de rigueur ?
-
--*who_mademoiselleagathe
-Un moment suffit pour vous dévoiler à mes yeux ; cette hardiesse est impardonnable.
-
--*who_monsieurdesaintival
 Ah ! voyez mon repentir, il doit me rendre digne de votre pitié.
-Ah !
-Mademoiselle, je vous en supplie, daignez me regarder !
+Ah ! Mademoiselle, je vous en supplie, daignez me regarder !
 
--*who_mademoiselleagathe
-Que faites-vous encore ?
-
--*who_monsieurdesaintival
 Si vous ne me pardonnez, je meurs à vos pieds.
 
--*who_mademoiselleagathe
-Ah !
+Vous soupirez ? Dieux !.... Mais, non....
 
--*who_monsieurdesaintival
-Vous soupirez ?
-Dieux !....
-Mais, non....
-
--*who_mademoiselleagathe
-On vient, levez-vous.
-
--*who_monsieurdesaintival
 Un mot, seulement ?
 
--*who_mademoiselleagathe
-Non, je ne puis plus rien entendre ; je ne vous ai que trop écouté.
-Fuyons.
-
--*who_monsieurdesaintival
 Remettons-nous encore : peut-être trouverai-je un autre moment.
 
-**** *book_ *id_I09 *act_I *date_1779
+Ah ! C'est le Treillageur ! Que devenir ?
 
--*who_monsieurlechalas
-Eh bien, je ne le trouve nulle part, ce Monsieur de Leurmont.
-
--*who_monsieurdesaintival
-Ah !
-C'est le Treillageur !
-Que devenir ?
-
--*who_monsieurlechalas
-Je frappe à toutes les portes, à toutes les fenêtres, visage de bois partout ; personne ne me répond.
-
--*who_monsieurdesaintival
 Voyez un peu ce coquin de Labrie qui le laisse échapper !
 
--*who_monsieurlechalas
-On ne sait plus à présent par où entrer dans les maisons ; on ne trouve que des fausses portes, des fausses fenêtres...
+Comment faire ? M'en irai-je ? Écoutons ; puisqu'il parle seul.
 
--*who_monsieurdesaintival
-Comment faire ?
-M'en irai-je ?
-Écoutons ; puisqu'il parle seul.
-
--*who_monsieurlechalas
-Oui, c'est toujours de la peinture par-ci, de la peinture par-là ; et avec toutes ces chiennes de décorations d'à présent, on vous fait casser le nez contre les murailles.
-
--*who_monsieurdesaintival
 Il me paraît assez ivre.
 
--*who_monsieurlechalas
-Si je n'y avais été attrapé qu'une fois, à la bonne-heure ; mais c'est que cela m'arrive tous les jours, encore hier.
-
--*who_monsieurdesaintival
 Je crois que j'en tirerai parti.
 
--*who_monsieurlechalas
-Qu'est-ce qui dit que j'en ai menti ?
-C'était le soir ; ma foi, la nuit tous chats sont gris.
-
--*who_monsieurdesaintival
 Il était ivre comme aujourd'hui.
 
--*who_monsieurlechalas
-Sûrement on fait comme l'on puis.
-Mais où est donc ce diable d'Abbé ? j'ai parcouru tout le jardin, et je ne le trouve nulle part.
-Cherchons encore, puisque c'est pour lui que je suis venu ici.
-
--*who_monsieurdesaintival
 Si tu me trouves, il t'en souviendra.
 
--*who_monsieurlechalas
-Qu'est-ce qui dit que cela n'est pas ?
-J'ai la lettre de Monsieur de Leurmont dans ma poche.
-La voilà, et je vais la lire.
-Cela est singulier !
-Je la lisais bien ce matin et ce soir....
-Mais je la sais par cour.
-Oui, par cour, vous allez voir.
-Comment donc est-ce qu'elle disait ?...
-Ah ! je m'en souviens.
-Je vous prie, Monsieur l'Échalas...
+Il est bien honnête. Monsieur l'Échalas !
 
--*who_monsieurdesaintival
-Il est bien honnête.
-Monsieur l'Échalas !
-
--*who_monsieurlechalas
-Oui, Monsieur l'Échalas.
-Ah, ah, ah.
-Je m'étonnais d'entendre répéter mon nom c'est qu'il y a un écho sans doute ici.
-Je vous prie, Monsieur l'Échalas.....
-
--*who_monsieurdesaintival
 L'Échalas.
 
--*who_monsieurlechalas
-Ah, ah, ah !
-Le drôle de corps que cet écho !
-Je vous prie, Monsieur l'Échalas.
-Il ne dit plus rien.
-De venir prendre la mesure de mon Abbé de Plâtre, pour lui faire une niche en treillage.
-La voilà la lettre.
-
--*who_monsieurdesaintival
 Nous verrons s'il approchera.
 
--*who_monsieurlechalas
-Mais où diable est-il donc fourré encore une fois, ce chien d'Abbé ?
-Ah ! voilà un Monsieur il faut que je lui demande s'il ne sait pas où on l'a mis.
-Bon !
-Eh !
-Le voilà lui-même.
-Ah, ah, ah ! cela est plaisant !
-Moi qui en ai tant vu, j'y ai été pris comme un autre.
-Allons, voyons, prenons nos mesures.
-Ah !
-Mais ne badinons pas.
-
--*who_monsieurdesaintival
 Sors d'ici tout-à-l'heure.
 
--*who_monsieurlechalas
-Comment !
-Qui est-ce donc qui me parle ?
-
--*who_monsieurdesaintival
 Moi.
 
--*who_monsieurlechalas
-Et qui m'a tant rossé ?
-
--*who_monsieurdesaintival
 Moi.
 
--*who_monsieurlechalas
-Je ne vois personne.
-Il faut que je rêve apparemment.
-
--*who_monsieurdesaintival
 Je te dis, va-t-en.
 
--*who_monsieurlechalas
-Oh !
-Je ne rêve pas assurément.
-Mais qui a donc pu me frapper ?
-Je ne conçois pas cela, et si pourtant je suis de sang-froid.
-Continuons.
+Ah ! Tu y reviens.
 
--*who_monsieurdesaintival
-Ah !
-Tu y reviens.
-
--*who_monsieurlechalas
-Pour le coup, c'est l'Abbé lui-même ; je l'ai bien vu ; je n'en puis plus douter.
-Est-ce que ce serait un esprit de pierre que cet Abbé de Plâtre ?
-
--*who_monsieurdesaintival
 Oui, je suis un esprit, et je vais te tordre le cou, si tu m'approches encore.
 
--*who_monsieurlechalas
-Ah !
-Je l'ai deviné.
+Malheureux ! Tu m'as laissé surprendre par cet ivrogne.
 
-**** *book_ *id_I10 *act_I *date_1779
-
--*who_labrie
-Eh bien, Monsieur l'Échalas, que venez-vous donc faire ici ?
-
--*who_monsieurlechalas
-J'y suis venu....
-Ah !
-J'y suis venu pour recevoir cent coups de règle, un coup de pied au cul, et un soufflet.
-
--*who_labrie
-Et qui vous a donné tout cela ?
-
--*who_monsieurlechalas
-Qui ?
-
--*who_labrie
-Oui.
-
--*who_monsieurlechalas
-Eh !
-C'est ce diable d'Abbé là, qui dit qu'il est un esprit, et qu'il me tordra le cou, si je m'en approche davantage.
-
--*who_labrie
-Eh bien, sauvez-vous.
-
--*who_monsieurlechalas
-Par où ?
-
--*who_labrie
-Tenez, par cette petite porte que vous voyez.
-
--*who_monsieurlechalas
-Allons, en vous remerciant, Monsieur de Labrie.
-Je vais chercher Monsieur de Leurmont pour me plaindre à lui, de m'avoir fait rouer de coups moi-même, dans son jardin.
-
--*who_labrie
-Allez plutôt boire un verre de vin pour vous remettre.
-
--*who_monsieurlechalas
-Un verre de vin ?
-
--*who_labrie
-Ou deux.
-
--*who_monsieurlechalas
-Je crois que vous avez raison ; vous me donnez là un bon conseil, un conseil d'ami, et je vais le suivre.
-
--*who_labrie
-Attendez-moi, j'irai vous retrouver.
-
--*who_monsieurlechalas
-Je vous attendrai le verre à la main.
-
--*who_labrie
-Fort bien, fort bien.
-
-**** *book_ *id_I11 *act_I *date_1779
-
--*who_monsieurdesaintival
-Malheureux !
-Tu m'as laissé surprendre par cet ivrogne.
-
--*who_labrie
-Ah !
-Monsieur, il est question de choses bien plus sérieuses !
-
--*who_monsieurdesaintival
 Comment ! le Treillageur.....
 
--*who_labrie
-Je le croyois endormi ; mais nous n'avons pas un moment à perdre.
-
--*who_monsieurdesaintival
 Quoi donc ?
 
--*who_labrie
-Vos chevaux sont sellés ; il faut partir à l'instant.
-
--*who_monsieurdesaintival
 Que veux-tu dire.
 
--*who_labrie
-Quoique nous ne soyons pas coupables, il vaut mieux avoir affaire à la Justice de loin que de près.
+Qu'est-ce que cela signifie ? Es-tu ivre ?
 
--*who_monsieurdesaintival
-Qu'est-ce que cela signifie ?
-Es-tu ivre ?
+Mais quoi encore ? Parle donc ?
 
--*who_labrie
-Non , Monsieur, je suis de sang-froid, et ce qu'on vient de me dire m'aurait désenivré, si je m'étais laissé surprendre par le vin.
-
--*who_monsieurdesaintival
-Mais quoi encore ?
-Parle donc ?
-
--*who_labrie
-J'étais au cabaret à enivrer le Treillageur comme je vous l'avais promis, lorsqu'un de mes amis, Clerc d'un Commissaire, est venu me trouver pour me dire : Je vous conseille, vous et Monsieur de Saint Ival, de vous sauver promptement : on vous accuse tous les deux d'avoir tué un homme , et vraisemblablement, nous allons avoir ordre de vous faire arrêter.
-
--*who_monsieurdesaintival
 Mais tu sais bien que cela, n'est pas vrai.
 
--*who_labrie
-Sans doute ; cependant nous n'en serions pas moins en prison longtemps ; et après, qui sait....
-
--*who_monsieurdesaintival
 Allons, je ne crains rien.
 
--*who_labrie
-En vérité, Monsieur....
+Ce soir nous verrons cela. A présent, je ne veux point sortir d'ici que je ne sois sûr d'être aimé d'Agathe.
 
--*who_monsieurdesaintival
-Ce soir nous verrons cela.
-A présent, je ne veux point sortir d'ici que je ne sois sûr d'être aimé d'Agathe.
+Allons, laisse-moi attendre le moment de la revoir. J'entends quelqu'un ; va-t-en, te dis-je.
 
--*who_labrie
-Mais si vous l'étiez, vous n'en auriez que plus de regrets de mourir.
-
--*who_monsieurdesaintival
-Allons, laisse-moi attendre le moment de la revoir.
-J'entends quelqu'un ; va-t-en, te dis-je.
-
--*who_labrie
-Je ne fuirai pas seul, et vous serez cause de notre perte à tous deux.
-
--*who_monsieurdesaintival
 J'entends Monsieur de Leurmont.
 
--*who_labrie
-Et je vois Monsieur votre pere avec lui.
-
--*who_monsieurdesaintival
 Mon père.
 
--*who_labrie
-Oui, je vais les écouter.
+Ah ! Je respire.
 
-**** *book_ *id_I12 *act_I *date_1779
-
--*who_monsieurdeleurmont
-Tenez, asseyons-nous ici ; ma fille n'est pas chez elle, et personne ne nous entendra.
-
--*who_monsieurdesaintivalpere
-Je le veux bien.
-
--*who_monsieurdeleurmont
-Qu'est-ce qui peut donc vous occuper aujourd'hui, Monsieur de Saint Ival ?
-Je vous trouve l'air bien sérieux.
-
--*who_monsieurdesaintivalpere
-Mon ami, on est quelquefois bien à plaindre d'avoir des enfans !
-
--*who_monsieurdeleurmont
-Pourquoi donc ?
-Je ne trouve pas cela, moi, et je serais très-fâché de n'avoir pas ma fille.
-A nos âges qui aimera-t-on, si l'on n'a pas d'enfants ?
-
--*who_monsieurdesaintivalpere
-Vous avez raison ; mais si tout ce qu'on m'a dit qui s'était passé ici, cette nuit, était vrai.
-
--*who_monsieurdeleurmont
-Comment ici ?
-
--*who_monsieurdesaintivalpere
-Oui.
-Vous n'en savez rien ?
-
--*who_monsieurdeleurmont
-Non.
-
--*who_monsieurdesaintivalpere
-C'est sûrement un conte, et mon fils n'est pas capable....
-
--*who_monsieurdeleurmont
-Comment, pas capable ?
-
--*who_monsieurdesaintivalpere
-De ce dont on l'accuse.
-Non, cela ne saurait être.
-
--*who_monsieurdeleurmont
-Dites donc ce que c'est ?
-
--*who_monsieurdesaintivalpere
-On m'a dit que c'était ici.
-
--*who_monsieurdeleurmont
-Eh bien, quoi ?
-
--*who_monsieurdesaintivalpere
-Je vous dis, vous vous moqueriez de moi.
-
--*who_monsieurdeleurmont
-Pourquoi cela ?
-
--*who_monsieurdesaintivalpere
-Si je croyais ce qu'on m'a dit.
-Sûrement....
-
--*who_monsieurdeleurmont
-Mais, que vous a-t-on dit ?
-
--*who_monsieurdesaintivalpere
-Que c'est chez, vous.
-
--*who_monsieurdeleurmont
-Chez moi ?
-
--*who_monsieurdesaintivalpere
-Oui, dans votre jardin.
-
--*who_monsieurdeleurmont
-Eh bien, qu'a-t-on fait ?
-
--*who_monsieurdesaintivalpere
-Qu'on a enterré le mort.
-
--*who_monsieurdeleurmont
-Un mort dans mon jardin !
-Cela ne se peut pas.
-
--*who_monsieurdesaintivalpere
-Il y a pourtant un témoin.
-
--*who_monsieurdeleurmont
-Quel est-il ?
-
--*who_monsieurdesaintivalpere
-Un paysan, qui prétend avoir tout vu.
-
--*who_monsieurdeleurmont
-Mais quoi donc ?
-
--*who_monsieurdesaintivalpere
-C'est un Abbé.
-
--*who_monsieurdeleurmont
-Un Abbé !
-
--*who_monsieurdesaintivalpere
-Oui, qu'il dit que mon fils et son laquais ont enterré dans votre bois, après l'avoir tué.
-
--*who_monsieurdesaintival
-Ah !
-Je respire.
-
--*who_monsieurdeleurmont
-Un Abbé !
-
--*who_monsieurdesaintivalpere
-Eh bien, vous ne répondez pas ?
-Vous m'alarmez !
-
--*who_monsieurdeleurmont
-Attendez, attendez.
-
--*who_monsieurdesaintivalpere
-Comment ?
-
--*who_monsieurdeleurmont
-C'est que je pense que cet Abbé qui changeait de place tantôt....
-
--*who_monsieurdesaintivalpere
-Que dites-vous donc ?
-
--*who_monsieurdeleurmont
-Croyez-vous aux esprits, vous ?
-
--*who_monsieurdesaintivalpere
-Non, assûrément.
-
--*who_monsieurdeleurmont
-Eh bien, je suis certain que tout ce qu'on vous a dit n'est pas vrai.
-
--*who_monsieurdesaintivalpere
-Cependant, c'est le Commandant de la Maréchaussée, qui est de mes amis, qui m'a conseillé de faire sauver mon fils : vous voyez bien qu'il croit l'affaire sérieuse.
-
--*who_monsieurdeleurmont
-Et est-il sauvé ?
-
--*who_monsieurdesaintivalpere
-Je ne sais pas seulement s'il se doute de tout ceci.
-
--*who_monsieurdeleurmont
-Tant mieux, s'il n'est pas sauvé.
-
--*who_monsieurdesaintivalpere
-Comment, tant mieux ?
-
--*who_monsieurdeleurmont
-Oui, parce que ce seroit s'avouer coupable.
-
--*who_monsieurdesaintivalpere
-Et si on le croit ?
-
--*who_monsieurdeleurmont
-Je vous dis qu'il ne peut pas l'être.
-Tenez, j'ai toujours été une manière d'esprit fort, moi , et je ne crois les choses que quand je les vois.
-
--*who_monsieurdesaintivalpere
-Mais supposons que l'on trouve cet Abbé chez vous.
-
--*who_monsieurdeleurmont
-Mort ?
-
--*who_monsieurdesaintivalpere
-Oui mort, et enterré ?
-
--*who_monsieurdeleurmont
-Je n'en crois rien.
-
--*who_monsieurdesaintivalpere
-Eh bien, pour lors, donnerez-vous toujours votre fille à mon fils ?
-
--*who_monsieurdesaintival
 À moi !
 
--*who_monsieurdeleurmont
-Mais...
-
--*who_monsieurdesaintivalpere
-Vous voyez bien, quand la chose vous touche de près, que vous n'êtes plus si ferme.
-
--*who_monsieurdeleurmont
-Qu'appelez-vous, Monsieur, que je ne suis plus si ferme ?
-
--*who_monsieurdesaintivalpere
-Ne vous fâchez pas, et cherchons ensemble l'endroit ou ce paysan a dit qu'ils ont mis cet Abbé.
-
--*who_monsieurdeleurmont
-Monsieur, l'on ne trouvera ici d'autre Abbé, que mon Abbé de Plâtre que voilà, et que j'aime beaucoup.
-
--*who_monsieurdesaintivalpere
-Comment votre Abbé de Plâtre ?
-
--*who_monsieurdeleurmont
-Oui, vraiment.
-Voyez comme il est bien fait !
-
--*who_monsieurdesaintivalpere
-Mais, il remue, votre Abbé !
-
--*who_monsieurdeleurmont
-II remue ?
-
--*who_monsieurdesaintivalpere
-Oui , il vient de tourner la tête.
-
--*who_monsieurdeleurmont
-Je n'avais donc pas tort tantôt.
-
--*who_monsieurdesaintivalpere
-Eh !
-C'est mon fils !
-
--*who_monsieurdeleurmont
-Votre fils ?
-
--*who_monsieurdesaintival
 Oui, mon père, oui Monsieur ; je vous demande pardon à tous deux.
 
--*who_monsieurdesaintivalpere
-Quelle est cette folie ?
-Qu'as-tu donc fait ?
-
--*who_monsieurdesaintival
 Vous avez bien raison ; c'en est une, et dont je ne suis que trop puni !
 
--*who_monsieurdesaintivalpere
-Comment ?
-
--*who_monsieurdesaintival
 Je vous ai causé des alarmes, et je n'ai pas réussi dans mon projet.
 
--*who_monsieurdeleurmont
-Vous n'avez donc pas assassiné cet Abbé ?
+Moi, Monsieur ; quelle horreur ! Mais je n'en mourrai pas moins de douleur ! Je suis haï, méprisé....
 
--*who_monsieurdesaintival
-Moi, Monsieur ; quelle horreur !
-Mais je n'en mourrai pas moins de douleur !
-Je suis haï, méprisé....
+Eh ! Monsieur, que me serviront vos bontés, si j'ai le malheur de lui déplaire, si elle ne peut pas m'aimer ?
 
--*who_monsieurdeleurmont
-Haï, méprisé !
-Je te réponds bien que non , et je ferai bien voir à ton pere que je suis ferme : je lui avois promis de te donner Agathe en mariage, et je te la donnerai.
-
--*who_monsieurdesaintival
-Eh !
-Monsieur, que me serviront vos bontés, si j'ai le malheur de lui déplaire, si elle ne peut pas m'aimer ?
-
-**** *book_ *id_I13 *act_I *date_1779
-
--*who_laurent
-Eh !
-Monsieur de Leurmont, venez donc ; venez donc vite.
-Voilà un Commissaire et des gens de justice qui saccagent tout votre jardin.
-
--*who_monsieurdeleurmont
-Comment, comment donc !
-
--*who_laurent
-Ils prétendent qu'on y a enterré quelqu'un, et il y a un paysan qui les conduit, qui dit qu'il en a été témoin.
-
--*who_monsieurdeleurmont
-Ah ! voilà un bon tour !
-
--*who_laurent
-Oui, riez, riez ; il sont à présent à fouiller dans le petit bois.
-
--*who_monsieurdeleurmont
-Mon ami, ils ne trouveront sûrement rien.
-
--*who_laurent
-Mais que diable a-t-il donc aujourd'hui, lui qui aime tant son jardin ?
-
--*who_monsieurdeleurmont
-Ils seront bien attrapés !
-
-**** *book_ *id_I14 *act_I *date_1779
-
--*who_unarcher
-Monsieur le Commissaire, le paysan qui nous conduisait s'est enfui, dès qu'il a vu cette statue que je vous ai dit qu'on avait trouvé.
-
--*who_lecommissaire
-Cela ne fait rien ; il faut parler au maître de la maison.
-Lequel de vous deux, Messieurs, est Monsieur de Leurmont ?
-
--*who_monsieurdeleurmont
-C'est moi, Monsieur.
-Que voulez-vous ?
-
--*who_lecommissaire
-Je ne sais pas pourquoi vous riez, Monsieur ; mais vous verrez qu'il n'y a rien de plaisant dans ce qui m'amène.
-
--*who_monsieurdeleurmont
-Non, pour vous.
-
--*who_lecommissaire
-C'est pour vous-même, Monsieur, et l'on ne se moque pas de la Justice : en un mot, il y a un homme enterré ici.
-
--*who_monsieurdeleurmont
-Je ne crois pas cela.
-
--*who_lecommissaire
-Vous niez le fait ?
-Il faut sûrement que vous soyez complice de ce délit.
-
--*who_monsieurdeleurmont
-Je ne saurois être complice d'une chose qui n'est pas ; vos recherches seront inutiles, et je vous conseille de ne pas perdre votre tems ici davantage.
-
--*who_lecommissaire
-Monsieur, Monsieur, je n'ai que faire de vos conseils, et je ne m'en irai point que je n'aie trouvé ce que je cherche.
-
-**** *book_ *id_I15 *act_I *date_1779
-
--*who_monsieurlechalas
-Monsieur le Commissaire ?
-
--*who_lecommissaire
-Qu'est-ce qu'il y a ?
-
--*who_labrie
-Taisez-vous donc.
-
--*who_monsieurlechalas
-Je vous dis que je suis au fait.
-
--*who_lecommissaire
-Laissez-le parler.
-
--*who_monsieurlechalas
-Monsieur le Commissaire, vous cherchez un Abbé qui est mort ?
-
--*who_lecommissaire
-Oui, mon ami.
-
--*who_monsieurlechalas
-Eh bien, Monsieur le Commissaire, je l'ai trouvé ici tantôt, moi.
-
--*who_lecommissaire
-Vous ?
-
--*who_monsieurlechalas
-Oui, moi.
-
--*who_lecommissaire
-Où cela ?
-
--*who_monsieurlechalas
-Il était là....
-Quelque part.
-
--*who_lecommissaire
-Vous verrez qu'on l'a fait enlever.
-
--*who_monsieurlechalas
-Eh tenez, parbleu, le voilà.
-
--*who_lecommissaire
-Qu'est-ce que vous dites-donc ?
-
--*who_monsieurlechalas
-Oui, Monsieur le Commissaire.
-Quand je dis que c'est lui....
-C'est-à-dire que c'est son esprit.
-
--*who_lecommissaire
-Son esprit ?
-
--*who_monsieurlechalas
-Oui, l'esprit de l'Abbé que vous cherchez.
-Oh !
-Rien n'est plus vrai, et je ne vous conseille pas de vous en trop approcher car il pourrait bien....
-
--*who_lecommissaire
-Quoi donc ?
-
--*who_monsieurlechalas
-Il pourrait bien....
-Vous rosser comme tous les diables, comme il m'a fait tantôt.
-Demandez-lui, et s'il ne m'a pas assuré qu'il me tordrait le cou, si je ne m'en allais pas bien vite ; aussi je n'ai pas demandé mon reste.
-
--*who_lecommissaire
-Expliquez-nous ce que cela signifie, Monsieur l'Abbé ; répondez, je vous prie.
-
--*who_monsieurdesaintival
 Monsieur, cela est fort aisé ; je ne suis point Abbé, et je sais ce qui a causé l'erreur de celui qui vous a conduit ici.
 
--*who_lecommissaire
-Comment l'erreur ?
+Oui, Monsieur, j'ai voulu faire une plaisanterie à Monsieur de Leurmont, et pour cela j'ai enterré, cette nuit, un Abbé de Plâtre qui était dans ce jardin, afin de pouvoir me mettre aujourd'hui à sa place. Voilà ce que le paysan qui vous a amené a vu. Si vous voulez faire fouiller.....
 
--*who_monsieurdesaintival
-Oui, Monsieur, j'ai voulu faire une plaisanterie à Monsieur de Leurmont, et pour cela j'ai enterré, cette nuit, un Abbé de Plâtre qui était dans ce jardin, afin de pouvoir me mettre aujourd'hui à sa place.
-Voilà ce que le paysan qui vous a amené a vu.
-Si vous voulez faire fouiller.....
+Ah ! Labrie, je suis sans aucun espoir !
 
--*who_lecommissaire
-Eh !
-Si ce n'est que cela, nous l'avons déjà trouvé.
-Voilà une plaisanterie dont nous nous serions bien passez.
-Messieurs , je vous souhaite bien le bonjour.
-Allons, allons-nous-en.
+Qu'entends-je ! Elle me plaindrait !
 
--*who_monsieurdeleurmont
-Mais n'avez-vous pas cassé mon Abbé en fouillant ?
-
--*who_lecommissaire
-Monsieur, je n'en sais rien.
-
-**** *book_ *id_I16 *act_I *date_1779
-
--*who_monsieurlechalas
-Je savais bien, moi, qu'il n'oserait pas approcher de l'Abbé.
-
--*who_monsieurdeleurmont
-Monsieur l'Échalas, vous reviendrez pour faire la niche que je vous ai demandé ?
-
--*who_monsieurlechalas
-Oui, pour me faire rosser encore.
-Je ne crois pas que vous m'y rattrapiez, Monsieur de Leurmont , et je ne veux plus travailler pour vous, premièrement et d'un, et je m'en vas.
-
--*who_monsieurdeleurmont
-Laurent, va donc voir en quel état est mon pauvre Abbé.
-
--*who_laurent
-Je vais plutôt voir comme on a abîmé le jardin.
-
-**** *book_ *id_I17 *act_I *date_1779
-
--*who_monsieurdesaintivalpere
-NE vous embarrassez pas, Monsieur de Leurmont ; si votre Abbé est cassé, je vous en donnerai un autre.
-
--*who_monsieurdeleurmont
-Il ne sera jamais si bien fait.
-
--*who_labrie
-Eh bien, Monsieur, avez-vous réussi ?
-
--*who_monsieurdesaintival
-Ah !
-Labrie, je suis sans aucun espoir !
-
--*who_monsieurdeleurmont
-Ah !
-Voilà ma fille.
-
-**** *book_ *id_I18 *act_I *date_1779
-
--*who_mademoiselleagathe
-Ah !
-Mon père !
-Est-il bien vrai ?
-
--*who_monsieurdeleurmont
-Quoi donc ?
-
--*who_mademoiselleagathe
-Monsieur de Saint-Ival ?
-
--*who_monsieurdesaintivalpere
-Eh bien, Mademoiselle ?
-
--*who_mademoiselleagathe
-On dit qu'on va arrêter Monsieur votre fils.
-
--*who_monsieurdeleurmont
-Laissez-moi répondre, et cachez-le.
-
--*who_mademoiselleagathe
-Dites donc, je vous prie ?
-
--*who_monsieurdeleurmont
-Oui, voilà qu'on l'emmène.
-
--*who_mademoiselleagathe
-Ô Dieux !
-Quoi, il serait vrai....
-
--*who_monsieurdeleurmont
-Achevé donc ?
-
--*who_mademoiselleagathe
-Qu'il a tué un homme.
-Mon père !.....
-Ah !
-Le malheureux Saint-Ival !
-
--*who_monsieurdesaintival
-Qu'entends-je !
-Elle me plaindrait !
-
--*who_labrie
-Ne vous montrez pas encore.
-
--*who_monsieurdeleurmont
-Mais, Agathe, qui peut donc t'alarmer ?
-Tu n'aimais pas Saint-Ival, tu vas être vengée.
-
--*who_mademoiselleagathe
-Moi, vengée !
-Que dites-vous ?
-
--*who_monsieurdesaintivalpere
-Que si vous l'aimiez, Mademoiselle, sa grâce lui serait bientôt accordée.
-
--*who_mademoiselleagathe
-Si je l'aimais !....
-Eh !
-Que pourrais-je faire pour lui sauver la vie ?
-
--*who_monsieurdeleurmont
-Il faudrait l'épouser, ma fille.
-
--*who_mademoiselleagathe
-Il ne dépendrait que de moi....
-
--*who_monsieurdesaintival
 De faire mon bonheur, Mademoiselle !
 
--*who_mademoiselleagathe
-Que vois je ?
-Quoi, c'est bien vous, Saint-Ival ?
-
--*who_monsieurdesaintival
 Oui, c'est moi, qui ne cesserai jamais de vous adorer.
 
--*who_mademoiselleagathe
-Ah !
-Je respire !
-
--*who_monsieurdeleurmont
-Eh bien, te crois-tu encore haï, méprisé ?
-
--*who_monsieurdesaintival
 Non, rien ne peut égaler l'excès de ma joie !
 
--*who_monsieurdesaintivalpere
-Nous n'avons jamais eu d'autre projet que celui de vous unir.
 
--*who_mademoiselleagathe
-Ah !
-Mon père !...
-Quoi, Monsieur, il serait bien vrai ?
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
 
--*who_monsieurdesaintivalpere
-Sans doute.
-Oubliez tous les maux que nous vous avons causés en vous laissant ignorer nos intentions.
+Oui, Monsieur, avec Mademoiselle Agathe ; le carrosse était à leur porte lorsque je suis parti, et suis venu au grand galop : mais vous savez que de Paris à Pantin il n'y a que cinq quarts de lieue.
 
--*who_monsieurdeleurmont
-Oui, oui ; et pour réparer le temps perdu, envoyons chercher un Notaire ; et en l'attendant, allons revoir mon pauvre Abbé.
-Mais pourquoi donc l'avoir enterré ?
+Oui ; et s'il me trouvait ici avec vous, je serais fort embarrassé. Je vous assure que ce que vous allez faire est d'une grande folie.
 
--*who_labrie
+Ma foi, vous vous en tirerez comme vous pourrez, pourvu que je ne m'en mêle pas davantage. Et si Laurent le jardinier vous surprenait ?
+
+Comme tous les Domestiques, qui dédaignent toujours tout ce qu'on aime le plus dans une maison.
+
+Oui ; mais Monsieur de Leurmont ? Je suis sûr qu'il en est enchanté, de son Abbé de Plâtre, lui qui croit son jardin plus beau que tous ceux de ses voisins, qui y passe sa vie, qui n'a pas d'autre occupation que celle de le parcourir sans cesse, examiner chaque arbre, chaque plante, chaque fleur, et avec la plus grande attention.
+
+Monsieur, de même que les boiteux veulent toujours marcher, les gens à mauvaise vue veulent toujours tout voir. N'ont-ils pas des cabinets de tableaux, d'estampes, d'histoire naturelle ? Je parirais que depuis que Monsieur de Leurmont a mis cet Abbé dans son jardin, il est continuellement à l'admirer.
+
+Justement, c'était ici. Nous avons bien fait de l'enterrer cette nuit dans le petit bois, afin qu'on ne le trouve pas ailleurs. Je ne croyais pas que tous ces Abbés, qu'on voit sur les Boulevards, chez les Sculpteurs, fussent si pesants.
+
+Nous perdons du temps : si vous vouliez vous habiller.
+
+Tenez, voilà l'habit.
+
+Il ne faut pas le boutonner. Là, fort bien ! Voilà le chapeau.
+
+Le voilà.
+Placez-vous un peu pour voir.
+Monsieur de Saint Ival se tient assis comme un Abbé de Plâtre.
+À merveille ! C'est cela même.
+
+Sûrement, surtout Monsieur de Leurmont. Ah çà, Monsieur, combien comptez-vous rester ici de tems en statue ? Apparemment que Mademoiselle Agathe vous nourrira, puisque vous ne me demandez rien à manger.
+
+Ma foi, Monsieur...
+
+Et que voulez-vous donc faire ici ?
+
+Quoi ! Vous n'en êtes encore que là ?
+
+Et vous croyez qu'elle vous aime ?
+
+Et si vous ne réussissez pas et qu'on vous découvre, Monsieur de Saint Ival sera furieux contre vous, s'il apprend tout ceci.
+
+Sa fille, Mademoiselle Agathe ?
+
+N'est-ce pas dans ce pavillon qu'elle demeure ?
+
+Vous ne seriez pas mal là pour....
+
+C'est Monsieur de Leurmont : je m'enfuis.
+
+Me voilà , me voilà.
+
+Comment donc ?
+
+Pourquoi cela ?
+
+Ah ! Celle-là sera bien véritable, par exemple.
+
+Sûrement.
+
+Je l'empêcherai d'arriver.
+
+Je le connais, il s'appelle l'Échalas ; c'est un ivrogne ; je viens de le voir entrer dans un cabaret ; je vais le trouver, je vous réponds qu'il n'en sortira pas si-tôt, et que lorsque je l'en laisserai sortir, il sera ivre à ne pas distinguer les objets.
+
+Je pars. Mais qu'est-ce que j'entends-là ?
+
+Là-dedans ?
+
+Allons, profitez du moment, et comptez sur moi.
+
+Eh bien, Monsieur l'Échalas, que venez-vous donc faire ici ?
+
+Et qui vous a donné tout cela ?
+
+Oui.
+
+Eh bien, sauvez-vous.
+
+Tenez, par cette petite porte que vous voyez.
+
+Allez plutôt boire un verre de vin pour vous remettre.
+
+Ou deux.
+
+Attendez-moi, j'irai vous retrouver.
+
+Fort bien, fort bien.
+
+Ah ! Monsieur, il est question de choses bien plus sérieuses !
+
+Je le croyois endormi ; mais nous n'avons pas un moment à perdre.
+
+Vos chevaux sont sellés ; il faut partir à l'instant.
+
+Quoique nous ne soyons pas coupables, il vaut mieux avoir affaire à la Justice de loin que de près.
+
+Non , Monsieur, je suis de sang-froid, et ce qu'on vient de me dire m'aurait désenivré, si je m'étais laissé surprendre par le vin.
+
+J'étais au cabaret à enivrer le Treillageur comme je vous l'avais promis, lorsqu'un de mes amis, Clerc d'un Commissaire, est venu me trouver pour me dire : Je vous conseille, vous et Monsieur de Saint Ival, de vous sauver promptement : on vous accuse tous les deux d'avoir tué un homme , et vraisemblablement, nous allons avoir ordre de vous faire arrêter.
+
+Sans doute ; cependant nous n'en serions pas moins en prison longtemps ; et après, qui sait....
+
+En vérité, Monsieur....
+
+Mais si vous l'étiez, vous n'en auriez que plus de regrets de mourir.
+
+Je ne fuirai pas seul, et vous serez cause de notre perte à tous deux.
+
+Et je vois Monsieur votre pere avec lui.
+
+Oui, je vais les écouter.
+
+Taisez-vous donc.
+
+Eh bien, Monsieur, avez-vous réussi ?
+
+Ne vous montrez pas encore.
+
 Pour le cacher, afin que vous crussiez que celui-ci était le vôtre, et qu'il pût savoir de Mademoiselle s'il en était aimé.
 
--*who_monsieurdeleurmont
-Ah !
-Fort bien !
-Mon ami, dans notre jeunesse, nous en aurions fait autant.
-Allons, allons, je pardonne à ma fille de mieux aimer la copie que l'original.
+
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laurent
+
+Monsieur, je suis à vous tout-à-l'heure.
+
+Je ne vous demande qu'un moment.
+
+Allons, allons, cela est bon.
+
+Oui, oui.
+
+Ah ! Pardi, je ne crois pas celui-là.
+
+Que voulez-vous que je regarde ? Est-ce que ne le voilà pas votre Abbé ?
+
+Sûrement, le voilà.
+
+Oui, singulier ! Je le trouve, moi, très ordinaire : voilà comme vous croyez toujours qu'on vous prend tout.
+
+Croire qu'on va lui prendre son Abbé ! Voilà encore quelque chose de beau !
+
+Oui ; c'est une chose bien rare ! On en voit par-tout, et cela n'attrape seulement pas les chiens ; car ils y vont...
+
+Vous n'avez qu'à toujours parler, pendant que je travaille.
+
+Moi ? Rien.
+
+Ma foi, il me paraît que vous entendez comme vous voyez.
+
+Oui, parce qu'il voudrait mettre tout votre jardin en bois et en copeaux peints en verd ; mais....
+
+À mes affaires.
+
+Oui, oui.
+
+Eh ! Monsieur, que voulez-vous qu'elle fasse d'un homme de plâtre ?... Mais, il n'est pas tombé.
+
+Parbleu non ; regardez-le.
+
+Si je vous croyais, je perdrais ici tout mon temps.
+
+Je parierais bien que non, que Mademoiselle ne l'a pas vu comme vous. N'est-ce pas, Mademoiselle ?
+
+Vous ne voulez pas démentir Monsieur votre père ; il a beau aimer son Abbé , je suis sûr que vous ne l'aimez pas comme lui. Mais je perds ici mon temps, et mon ouvrage ne se fait pas. Je m'en vas : vous aurez beau m'appeler, je ne reviendrai plus.
+
+Eh ! Monsieur de Leurmont, venez donc ; venez donc vite. Voilà un Commissaire et des gens de justice qui saccagent tout votre jardin.
+
+Ils prétendent qu'on y a enterré quelqu'un, et il y a un paysan qui les conduit, qui dit qu'il en a été témoin.
+
+Oui, riez, riez ; il sont à présent à fouiller dans le petit bois.
+
+Mais que diable a-t-il donc aujourd'hui, lui qui aime tant son jardin ?
+
+Je vais plutôt voir comme on a abîmé le jardin.
+
+
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlechalas
+
+Eh bien, je ne le trouve nulle part, ce Monsieur de Leurmont.
+
+Je frappe à toutes les portes, à toutes les fenêtres, visage de bois partout ; personne ne me répond.
+
+On ne sait plus à présent par où entrer dans les maisons ; on ne trouve que des fausses portes, des fausses fenêtres...
+
+Oui, c'est toujours de la peinture par-ci, de la peinture par-là ; et avec toutes ces chiennes de décorations d'à présent, on vous fait casser le nez contre les murailles.
+
+Si je n'y avais été attrapé qu'une fois, à la bonne-heure ; mais c'est que cela m'arrive tous les jours, encore hier.
+
+Qu'est-ce qui dit que j'en ai menti ? C'était le soir ; ma foi, la nuit tous chats sont gris.
+
+Sûrement on fait comme l'on puis. Mais où est donc ce diable d'Abbé ? j'ai parcouru tout le jardin, et je ne le trouve nulle part. Cherchons encore, puisque c'est pour lui que je suis venu ici.
+
+Qu'est-ce qui dit que cela n'est pas ? J'ai la lettre de Monsieur de Leurmont dans ma poche. La voilà, et je vais la lire.
+Cela est singulier ! Je la lisais bien ce matin et ce soir.... Mais je la sais par cour. Oui, par cour, vous allez voir. Comment donc est-ce qu'elle disait ?... Ah ! je m'en souviens. Je vous prie, Monsieur l'Échalas...
+
+Oui, Monsieur l'Échalas.
+Ah, ah, ah. Je m'étonnais d'entendre répéter mon nom c'est qu'il y a un écho sans doute ici. Je vous prie, Monsieur l'Échalas.....
+
+Ah, ah, ah ! Le drôle de corps que cet écho ! Je vous prie, Monsieur l'Échalas.
+Il ne dit plus rien. De venir prendre la mesure de mon Abbé de Plâtre, pour lui faire une niche en treillage. La voilà la lettre.
+
+Mais où diable est-il donc fourré encore une fois, ce chien d'Abbé ? Ah ! voilà un Monsieur il faut que je lui demande s'il ne sait pas où on l'a mis.
+Bon ! Eh ! Le voilà lui-même.
+Ah, ah, ah ! cela est plaisant ! Moi qui en ai tant vu, j'y ai été pris comme un autre. Allons, voyons, prenons nos mesures.
+Ah ! Mais ne badinons pas.
+
+Comment ! Qui est-ce donc qui me parle ?
+
+Et qui m'a tant rossé ?
+
+Je ne vois personne. Il faut que je rêve apparemment.
+
+Oh ! Je ne rêve pas assurément. Mais qui a donc pu me frapper ? Je ne conçois pas cela, et si pourtant je suis de sang-froid. Continuons.
+
+Pour le coup, c'est l'Abbé lui-même ; je l'ai bien vu ; je n'en puis plus douter. Est-ce que ce serait un esprit de pierre que cet Abbé de Plâtre ?
+
+Ah ! Je l'ai deviné.
+
+J'y suis venu.... Ah ! J'y suis venu pour recevoir cent coups de règle, un coup de pied au cul, et un soufflet.
+
+Qui ?
+
+Eh ! C'est ce diable d'Abbé là, qui dit qu'il est un esprit, et qu'il me tordra le cou, si je m'en approche davantage.
+
+Par où ?
+
+Allons, en vous remerciant, Monsieur de Labrie. Je vais chercher Monsieur de Leurmont pour me plaindre à lui, de m'avoir fait rouer de coups moi-même, dans son jardin.
+
+Un verre de vin ?
+
+Je crois que vous avez raison ; vous me donnez là un bon conseil, un conseil d'ami, et je vais le suivre.
+
+Je vous attendrai le verre à la main.
+
+Monsieur le Commissaire ?
+
+Je vous dis que je suis au fait.
+
+Monsieur le Commissaire, vous cherchez un Abbé qui est mort ?
+
+Eh bien, Monsieur le Commissaire, je l'ai trouvé ici tantôt, moi.
+
+Oui, moi.
+
+Il était là.... Quelque part.
+
+Eh tenez, parbleu, le voilà.
+
+Oui, Monsieur le Commissaire. Quand je dis que c'est lui.... C'est-à-dire que c'est son esprit.
+
+Oui, l'esprit de l'Abbé que vous cherchez. Oh ! Rien n'est plus vrai, et je ne vous conseille pas de vous en trop approcher car il pourrait bien....
+
+Il pourrait bien.... Vous rosser comme tous les diables, comme il m'a fait tantôt. Demandez-lui, et s'il ne m'a pas assuré qu'il me tordrait le cou, si je ne m'en allais pas bien vite ; aussi je n'ai pas demandé mon reste.
+
+Je savais bien, moi, qu'il n'oserait pas approcher de l'Abbé.
+
+Oui, pour me faire rosser encore. Je ne crois pas que vous m'y rattrapiez, Monsieur de Leurmont , et je ne veux plus travailler pour vous, premièrement et d'un, et je m'en vas.
+
+
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
+
+Cela ne fait rien ; il faut parler au maître de la maison. Lequel de vous deux, Messieurs, est Monsieur de Leurmont ?
+
+Je ne sais pas pourquoi vous riez, Monsieur ; mais vous verrez qu'il n'y a rien de plaisant dans ce qui m'amène.
+
+C'est pour vous-même, Monsieur, et l'on ne se moque pas de la Justice : en un mot, il y a un homme enterré ici.
+
+Vous niez le fait ? Il faut sûrement que vous soyez complice de ce délit.
+
+Monsieur, Monsieur, je n'ai que faire de vos conseils, et je ne m'en irai point que je n'aie trouvé ce que je cherche.
+
+Qu'est-ce qu'il y a ?
+
+Laissez-le parler.
+
+Oui, mon ami.
+
+Vous ?
+
+Où cela ?
+
+Vous verrez qu'on l'a fait enlever.
+
+Qu'est-ce que vous dites-donc ?
+
+Son esprit ?
+
+Quoi donc ?
+
+Expliquez-nous ce que cela signifie, Monsieur l'Abbé ; répondez, je vous prie.
+
+Comment l'erreur ?
+
+Eh ! Si ce n'est que cela, nous l'avons déjà trouvé. Voilà une plaisanterie dont nous nous serions bien passez. Messieurs , je vous souhaite bien le bonjour. Allons, allons-nous-en.
+
+Monsieur, je n'en sais rien.
+

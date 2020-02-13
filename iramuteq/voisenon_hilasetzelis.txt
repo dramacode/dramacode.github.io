@@ -1,63 +1,80 @@
 
 
-**** *book_ *id_I01 *act_I *date_1762
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
--*who_zelis
-Vous, qui soumettez les Dieux et les Mortels,
-Dieu du bonheur, âme de la nature,
-Amour, je n'offrirai des voeux qu'à vos autels ;
-C'est Hilas qui vous les assure.
-
--*who_lamour
 Hilas peut-il inspirer de l'amour ?
 Dès le moment de sa naissance
 Ses yeux furent fermés à la clarté du jour ;
 Comment de la beauté connaît-il la puissance ?
 
--*who_zelis
+De son supplice il vous devra la fin ;
+Il va tenir de vous l'éclat de la lumière.
+Hilas pourra jouir d'un jour pur et serein,
+Puisqu'en aimant il a su plaire.
+
+Zélis, un don si précieux
+Peut-être de son coeur vous ravira l'hommage :
+Lorsque mille beautés paraîtront à ses yeux,
+S'il allait devenir volage ?
+
+Évitez sa présence,
+Si vous perdiez son coeur, quand il verra le jour,
+Vous seriez sans retour
+Victime de son inconstance.
+
+Pour être heureux, jouis de là clarté ;
+Vois tous ces objets, nés pour plaire :
+C'est le plaisir d'admirer la beauté
+Qui fait le prix du jour qui nous éclaire.
+
+Si c'était elle ?
+
+La constance d'Hilas fera votre destin.
+Montez sur cet autel, sans vous faire connaître.
+
+Il faut s'adresser à Vénus.
+
+Tu ne vois la clarté que pour être inconstant ;
+La lumière des Cieux pour toi va disparaître,
+Je vais t'en priver à l'instant.
+
+Goûtez une si tendre ardeur,
+Vivez dans ce séjour tranquille ;
+Je vous le donne pour asile,
+Et je choisis le mien dans votre cœur.
+
+Que leurs transports animent vos désirs,
+Chantez, célébrez ma victoire ;
+Goûtez tous leurs plaisirs :
+Aimez ; c'est en aimant qu'on célèbre ma gloire.
+
+
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zelis
+
+Vous, qui soumettez les Dieux et les Mortels,
+Dieu du bonheur, âme de la nature,
+Amour, je n'offrirai des voeux qu'à vos autels ;
+C'est Hilas qui vous les assure.
+
 Mes premiers sentiments sont nés de son malheur,
 Il déplorait son sort, je me plus à l'entendre ;
 D'un intérêt trop cher je ne pus me défendre ;
 La pitié séduisit mon coeur,
 Et le rendit sensible et tendre.
 
--*who_lamour
-De son supplice il vous devra la fin ;
-Il va tenir de vous l'éclat de la lumière.
-Hilas pourra jouir d'un jour pur et serein,
-Puisqu'en aimant il a su plaire.
-
--*who_zelis
 Pour ses yeux étonnés quel spectacle enchanteur !
 Quoi, sa félicité deviendrait mon ouvrage ?
 Le plaisir de voir son bonheur
 M'en fera goûter le partage.
 
--*who_lamour
-Zélis, un don si précieux
-Peut-être de son coeur vous ravira l'hommage :
-Lorsque mille beautés paraîtront à ses yeux,
-S'il allait devenir volage ?
-
--*who_zelis
 Ce serait un malheur affreux ;
 Mais au moins j'aurai l'avantage
 De l'avoir rendu plus heureux.
 
--*who_lamour
-Évitez sa présence,
-Si vous perdiez son coeur, quand il verra le jour,
-Vous seriez sans retour
-Victime de son inconstance.
-
--*who_zelis
 J'espère tout de mon amour.
 Il verra donc les transports de mon âme,
 Et ses yeux animez exprimeront sa flamme.
 
-**** *book_ *id_I02 *act_I *date_1762
-
--*who_zelis
 Témoins de nos premiers serments ;
 Paisibles lieux, riant boccage,
 Qu'Hilas trouve partout l'image
@@ -69,29 +86,60 @@ Mais cachez-lui que vous êtes volages.
 Dieux ! J'aperçois Hilas,
 Allons au devant de ses pas.
 
-**** *book_ *id_I03 *act_I *date_1762
-
--*who_zelis
 Hilas, je dois parler sans feinte ;
 Nous nous aimons, je sens notre félicité ;
 Mais l'amour n'est jamais sans crainte ;
 Le temps peut amener votre légèreté.
 
--*who_hilas
-Pour rendre ma tendresse extrême
-Ai-je besoin d'admirer vos appas ?
-C'est un bonheur que je ne connais pas ;
-Mais vous parlez, et j'aime.
-
--*who_zelis
 Hilas, vos yeux vont être ouverts ;
 Vous allez admirer l'éclat de la nature :
 Puissiez-vous n'être pas parjure
 Au milieu des plaisirs qui vous seront offerts !
 
-**** *book_ *id_I04 *act_I *date_1762
+Malgré moi-même, hélas ! J'allais paraître ;
+Je ne puis plus longtemps voir mon sort incertain.
 
--*who_hilas
+Arrête l'Amour !
+
+Que ce trouble est flatteur ! Que Zélis le partage !
+
+Triomphe Amour, jouis de notre hommage :
+Tu lances dans ces lieux un trait toujours vainqueur.
+Les Dieux n'ont rien dans leur grandeur
+Du prix de ton esclavage ;
+L'Univers leur doit son bonheur ;
+Celui des Dieux est ton ouvrage.
+Triomphe Amour, jouis de notre hommage :
+Tu lances dans ces lieux un trait toujours vainqueur.
+
+Ne quitte plus, Amour, notre boccage ;
+On n'est heureux qu'en suivant tes lois.
+Daigne toujours, sous ce riant ombrage,
+De nos coeurs déterminer le choix.
+
+Un volage
+Te fait outrage ;
+Un tendre coeur
+Fait son bonheur
+De la constance.
+
+Bannis des coeurs
+Les soupirs trompeurs.
+Ne quitte plus, Amour, notre boccage ;
+On n'est heureux qu'en suivant tes lois.
+
+Je fais gloire.
+De ta victoire :
+Toi seul remplis mes vœux.
+
+
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hilas
+
+Pour rendre ma tendresse extrême
+Ai-je besoin d'admirer vos appas ?
+C'est un bonheur que je ne connais pas ;
+Mais vous parlez, et j'aime.
+
 De ce vaste Univers je verrais le spectacle ?
 Peut-être c'est un vain espoir.
 Mais quel Dieu bienfaisant, quel souverain pouvoir
@@ -105,24 +153,11 @@ Porte le caractère
 De leur suprême Auteur.
 Quels sons font retentir ce séjour solitaire ?
 
-**** *book_ *id_I05 *act_I *date_1762
-
--*who_lamour
-Pour être heureux, jouis de là clarté ;
-Vois tous ces objets, nés pour plaire :
-C'est le plaisir d'admirer la beauté
-Qui fait le prix du jour qui nous éclaire.
-
--*who_hilas
 Que tout ce que je vois me surprend et m'enchante !
 Dieux, que de grâces, que d'appas !
 Oui, cette Nymphe exprime dans ses pas
 Ce que je sens quand Zélis chante.
 
--*who_lamour
-Si c'était elle ?
-
--*who_hilas
       Non, je ne m'y méprends pas ;
 J'éprouverais un trouble extrême,
 Je la reconnaîtrais :
@@ -130,119 +165,13 @@ Tout décèle l'Amour, tout en porte les traits.
 Je vais chercher Zélis, je veux voir ce que j'aime :
 Grands Dieux ! Sans ce plaisir, reprenez vos bienfaits.
 
-**** *book_ *id_I06 *act_I *date_1762
-
--*who_zelis
-Malgré moi-même, hélas ! J'allais paraître ;
-Je ne puis plus longtemps voir mon sort incertain.
-
--*who_lamour
-La constance d'Hilas fera votre destin.
-Montez sur cet autel, sans vous faire connaître.
-
-**** *book_ *id_I07 *act_I *date_1762
-
--*who_hilas
 Dieux, pour trouver Zélis mes soins sont superflus.
 
--*who_lamour
-Il faut s'adresser à Vénus.
-
--*who_hilas
 Que vois-je ? Quel objet me séduit et m'engage?
 Soleil, voici l'instant où je te rends hommage !
 
--*who_lamour
-Tu ne vois la clarté que pour être inconstant ;
-La lumière des Cieux pour toi va disparaître,
-Je vais t'en priver à l'instant.
-
--*who_zelis
-Arrête l'Amour !
-
--*who_hilas
       Mon coeur n'a pu la méconnaître;
 C'est elle ! C'est Zélis ! Quel transport ! Quel moment !
 Ah, quel bonheur pour un amant
 Quand le coeur et les yeux confondent leur hommage.
 
--*who_zelis
-Que ce trouble est flatteur ! Que Zélis le partage !
-
--*who_lamour
-Goûtez une si tendre ardeur,
-Vivez dans ce séjour tranquille ;
-Je vous le donne pour asile,
-Et je choisis le mien dans votre cœur.
-
--*who_zelisethilas
-Formons des chaînes éternelles :
-Règne, Amour, lance tous tes feux !
-Tous nos moments seront heureux,
-Ton flambeau nous rendra fidèles.
-
--*who_lamour
-Que leurs transports animent vos désirs,
-Chantez, célébrez ma victoire ;
-Goûtez tous leurs plaisirs :
-Aimez ; c'est en aimant qu'on célèbre ma gloire.
-
--*who_lechoeur
-Que leurs transports animent nos désirs;
-Chantons, etc.
-
--*who_zelis
-Triomphe Amour, jouis de notre hommage :
-Tu lances dans ces lieux un trait toujours vainqueur.
-Les Dieux n'ont rien dans leur grandeur
-Du prix de ton esclavage ;
-L'Univers leur doit son bonheur ;
-Celui des Dieux est ton ouvrage.
-Triomphe Amour, jouis de notre hommage :
-Tu lances dans ces lieux un trait toujours vainqueur.
-
--*who_zelis
-Ne quitte plus, Amour, notre boccage ;
-On n'est heureux qu'en suivant tes lois.
-Daigne toujours, sous ce riant ombrage,
-De nos coeurs déterminer le choix.
-
--*who_zelis
-Un volage
-Te fait outrage ;
-Un tendre coeur
-Fait son bonheur
-De la constance.
-
--*who_lechoeur
-Dieu des amants, signale ta puissance.
-
--*who_zelis
-Bannis des coeurs
-Les soupirs trompeurs.
-Ne quitte plus, Amour, notre boccage ;
-On n'est heureux qu'en suivant tes lois.
-
--*who_lechoeur
-Daigne toujours, sous ce riant ombrage ;
-De nos coeurs déterminer le choix.
-
--*who_zelis
-Je fais gloire.
-De ta victoire :
-Toi seul remplis mes vœux.
-
--*who_lepetitchoeur
-Lance, Amour, tes feux.
-
--*who_legrandchoeur
-Fais de ces beaux lieux
-Le séjour des ris et des jeux.
-
--*who_zelisetleschoeurs
-Par tes bienfaits,
-Règne à jamais.
-Ne quitte plus, Amour, notre boccage ;
-On n'est heureux qu'en suivant tes lois.
-Daigne toujours, sous ce riant ombrage,
-De nos coeurs déterminer le choix.

@@ -1,34 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1732
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_temire
 
--*who_fatime
-Je ne m'attendis pas, jeune et belle Thémire,
-Vous qui pleuriez toujours, à vous voir jamais rire !
-Quoi ! Vous ne tournez plus les yeux vers ces climats,
-Où ce vaillant Français devait guider nos pas ?
-Vous ne me parlez plus des plaisirs que la France
-Permet a notre sexe avec tant de licence ?
-Vous ne l'ignorez point, c'est là que les maris,
-Vivent d'intelligence avec les favoris,
-Que la femme, y bravant la contrainte fatale,
-Est prude avec renom, coquette sans scandale.
-Ne soupirez-vous plus pour cette liberté ?
-
--*who_temire
 Le Sérail aujourd'hui fait ma félicité.
 Chez les Mahométans dès l'enfance enfermée,
 À leur façon d'agir ils m'ont accoutumée.
 Tout le monde en convient, le Roi de Tripoli
 Est, malgré sa moustache, un Seigneur très poli.
 
--*who_fatime
-Mais ce jeune officier va donc perdre sa peine ?
-Lui qu'on a vu partir pour briser notre chaîne,
-Qui reviendra bientôt payer notre rançon,
-Qui nous l'a tant promis.
-
--*who_temire
       Tu sais qu'il est gascon,
 Peut-être sa promesse a passé sa puissance.
 Des fils de la Garonne on connaît l'opulence :
@@ -36,17 +15,9 @@ Des fils de la Garonne on connaît l'opulence :
 Ils croient tout certain quand ils ont dit : Sandìs.
 Il n'y faut plus penser.
 
--*who_fatime
-      Mais s'il était fidèle ?
-
--*who_temire
 Que serait un peu tard qu'il prouverait son zèle,
 Et j'ai trop réfléchi depuis que je l'attends...
 
--*who_fatime
-Quel est-donc ce discours ?
-
--*who_temire
       Fatime, il n'est plus temps :
 Je suis l'unique objet des voeux de Diaphane,
 Il m'adore... je vois que ton coeur me condamne ;
@@ -61,18 +32,6 @@ De ses intentions la pureté l'engage
 Tu verras sur son coeur, jusqu'où va mon pouvoir,
 Je n'ai qu'à dire un mot, il m'épouse ce soir.
 
--*who_fatime
-Que vos félicités, s'il se peut, soient parfaites.
-Je voudrais bien me voir à la place où vous êtes...
-Mais ce coeur qui se livre à de si doux transports,
-En épousant un Turc nVt-il point de remords ?
-Carabin vous a dit cent fois par la fenêtre
-Que le sang d'un Français, vous avait donné l'être ;
-Que vous et vos parents, dans un combat fatal
-Aviez subi le joug d'un corsaire brutal ;
-Ne vous souvient-il plus que dans une galère...
-
--*who_temire
 Ma foi, s'il m'en souvient, il ne m'en souvient guère,
 J'étais trop jeune alors pour m'en ressouvenir,
 Et tu perdais ton temps à m'en entretenir.
@@ -93,19 +52,222 @@ Si l'Afrique à mes lois se voyait asservie,
 Ou mon amour me trompe, ou Temire aujourd'hui
 Pour l'élever à soi descendrait jusqu'à lui.
 
--*who_fatime
+Absent depuis deux jours, on l'attend aujourd'hui.
+
+      Oui Seigneur, je ne veux rien de plus,
+Voilà de quoi fixer des voeux irrésolus ;
+Et si vous n'aspirez qu'à des ardeurs parfaites,
+Jamais Sultan ne fut plus heureux que vous l'êtes.
+
+Oh Ciel !
+
+Pourquoi le retenir ?
+
+Seigneur, je fuis confuse, et ne sais que vous dire :
+Vous croyez de ces lieux partir avec Temire,
+Mais comme de l'amour mon coeur subit la loi,
+Vous voyez clairement qu'il faut partir sans moi ;
+Cependant, Carabin, comptez qu'en votre absence,
+J'aurai pour les Français beaucoup de déférence :
+Sur l'esprit du Sultan si j'ai quelque pouvoir,
+Pour soulager leurs maux, je le ferai valoir :
+Je deviendrai leur mère auprès de Diaphane.
+
+C'est à ce cavalier, dont l'entreprise heureuse
+Excite du Sultan la pitié généreuse ;
+Pour votre délivrance il offrait un grand prix ;
+Mais le Roi n'en veut point et vous partez gratis.
+
+Il est vrai ; je ne puis concevoir ce mystère,
+Suivant ce qu'on m'a dit, votre province entière
+Aurait peine à payer une telle rançon.
+
+Qu'entends je ?
+
+      J'en ai dix-huit.
+
+Quoi,vous êtes mon père, et dans cet équipage...
+
+Je ne puis vous tromper, l'amoureux Diaphane
+Dans une heure au plus tard doit me faire Sultane.
+
+Oui mon père, je sens ma vertu revenir,
+Vous parlez si longtemps qu'on ne peut y tenir.
+
+Non, vous devez compter sur mon obéissance,
+Et je veux suivre en tout les coutumes de France ;
+Daignez-m'en éclaircir , car je prétends savoir
+Pourquoi je m'écartais ainsi de mon devoir,
+Et pourquoi cet hymen est au nombre des crimes ?
+
+Expliquez-les moi-donc...
+
+Ah ! Cruel poursuivez, vous ne connaissez pas
+Mon secret, mes tourments, mes voeux, mes attentats.
+
+Voici le fait : je suis retenue en ces lieux,
+Le Sultan est frappé de l'éclat de mes yeux ,
+Il est, vous le savez, maître de ma personne,
+Et l'on doit l'épouser aussitôt qu'il ordonne ;
+Mais, me voyant forcée à suivre son désir,
+Si mon coeur y cédait avec quelque plaisir ?
+
+      Frappe-donc,car je l'aime.
+
+Arrête, mon cher frère, arrête, et connais moi,
+Peut-être que Temire est digne encor de toi?
+Du pouvoir de l'amour la vertu me délivre :
+Fais-moi sortir d'ici ; je suis prête à te suivre.
+Ah ! mon cher Diaphane il faut donc te quitter !
+Que de pleurs ce départ à mes yeux va coûter ;
+Pardonne, ton courroux, mon père, ma tendresse,
+Mes serments, mon devoir, mes remords,ma faiblesse,
+Mon trouble, ma douleur, mes chagrins, mon ennui...
+
+      Oui, je te le promets,
+Mon frère rends-moi libre, à tout je me soumets.
+Mais tu devrais du moins aller voir notre père ;
+Nous le laissons mourir d'une étrange manière.
+
+Me voila seule, hélas ! Que vais-je devenir ?
+II faut avec moi-même ici m'entretenir :
+Examinons-nous bien, voyons de quelle espèce
+Doit me rendre aujourd'hui l'honneur ou la faiblesse.
+Suis-je Turque, ou Française ? Hélas ! Je n'en sais rien,
+Et mon état présent ne se conçoit pas bien,
+Suivrai-je mon devoir, ou m'en écarterai-je ?
+N'épouserai-je pas, ou bien épouserai-je ?
+Que dis-je ? Ai-je oublié les serments que j'ai faits ?I
+Mon père, mon pays, vous serez satisfaits.
+Plus je veux l'étouffer, plus mon feu se rallume ;
+J'aime toujours, malgré la France et sa coutume.
+Ah ! Puisque tu devais m'épouser dès ce soir,
+Pourquoi m'apprenait-on aujourd'hui mon devoir !
+Frère trop rigoureux, du moins pour me rapprendre
+Jusqu'à demain matin tu devais bien attendre ?
+
+À ces apprêts flatteurs pourrais-je résister ?
+II le faut bien pourtant.
+
+      Où me cacher.
+
+      Je n'ose.
+
+      Non Seigneur.
+
+      Pour cause.
+
+Non, ce n'est point cela, vous vous trompez, Seigneur.
+
+      Ciel !
+
+      Cet hyménée
+Par son éclat pompeux ne n'a point étonnée ;
+Je n'ai point recherché les biens et les grandeurs,
+Un plus noble intérêt fit naître mes ardeurs :
+Mon coeur tendre et sincère aux trônes de l'Afrique,
+Eût préféré l'abri du toit le plus rustique :
+Seule, et dans ces déserts auprès de mon époux...
+
+D'accord, mais Carabin....
+
+Alcidor va mourir...
+
+Cet hymen dont l'idée à mon coeur est si chère,
+Cet hymen si charmant, souffrez qu'on le diffère.
+
+      Je frémis de son emportement.
+
+      Il m'est affreux, Seigneur, de vous déplaire,
+Laissez-moi vous quitter, je ne saurais mieux faire.
+
+      Je les dirai tantôt.
+
+Ma vertu ne saurait tenir contre mes larmes,
+Et l'amour sur l'honneur prend toujours le dessus ;
+Est-il bien assuré que vous ne m'aimiez plus,
+Seigneur ?
+
+Seigneur qui ne rirait de tout ce badinage ?
+De mon incertitude et de voue langage ?
+
+Moi coquette, Seigneur ! Et vous m'en soupçonnez ?
+Non, non, au simple amour tous mes voeux sont bornés.
+
+      J'en aurais grande envie ;
+Mais...
+
+      Ah ! Seigneur...
+
+      Souffrez qu'à vos genoux
+Je demande en tremblant une grâce de vous ?
+
+      Permettez que je sorte.
+
+Demain tous mes secrets vous seront révélés.
+
+J'exige ce délai de votre complaisance.
+
+En me parlant ainsi vous me percez le coeur.
+
+      Oui Seigneur.
+
+Est-ce ici le chemin ?
+
+Est-ce vous Carabin ?
+
+Que vois-je ? Le Sultan...
+
+C'est que je vous aimais, et voulais me sauver.
+
+      La coutume de France
+Me l'ordonnait, Seigneur.
+
+
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
+
+Je ne m'attendis pas, jeune et belle Thémire,
+Vous qui pleuriez toujours, à vous voir jamais rire !
+Quoi ! Vous ne tournez plus les yeux vers ces climats,
+Où ce vaillant Français devait guider nos pas ?
+Vous ne me parlez plus des plaisirs que la France
+Permet a notre sexe avec tant de licence ?
+Vous ne l'ignorez point, c'est là que les maris,
+Vivent d'intelligence avec les favoris,
+Que la femme, y bravant la contrainte fatale,
+Est prude avec renom, coquette sans scandale.
+Ne soupirez-vous plus pour cette liberté ?
+
+Mais ce jeune officier va donc perdre sa peine ?
+Lui qu'on a vu partir pour briser notre chaîne,
+Qui reviendra bientôt payer notre rançon,
+Qui nous l'a tant promis.
+
+      Mais s'il était fidèle ?
+
+Quel est-donc ce discours ?
+
+Que vos félicités, s'il se peut, soient parfaites.
+Je voudrais bien me voir à la place où vous êtes...
+Mais ce coeur qui se livre à de si doux transports,
+En épousant un Turc nVt-il point de remords ?
+Carabin vous a dit cent fois par la fenêtre
+Que le sang d'un Français, vous avait donné l'être ;
+Que vous et vos parents, dans un combat fatal
+Aviez subi le joug d'un corsaire brutal ;
+Ne vous souvient-il plus que dans une galère...
+
 Il le faut avouer, cette pensée est belle,
 Mais convenez aussi qu'elle n'est pas nouvelle.
 
--*who_temire
-Absent depuis deux jours, on l'attend aujourd'hui.
-
--*who_fatime
 La grande porte s'ouvre, et sans doute c'est lui.
 
-**** *book_ *id_I02 *act_I *date_1732
+      Oui, Madame, courage ;
+Carabin va venir.
 
--*who_diaphane
+
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diaphane
+
 Madame, un long discours me serait nécessaire,
 Pour dire comment j'aime, et comment je veux plaire :
 Je vous pourrais ici nommer tous mes aïeux,
@@ -126,64 +288,21 @@ J'atteste vos beaux yeux, et l'amour qui m'enflamme
 De ne prendre que vous pour maîtresse et pour femme,
 Est-ce assez ?
 
--*who_temire
-      Oui Seigneur, je ne veux rien de plus,
-Voilà de quoi fixer des voeux irrésolus ;
-Et si vous n'aspirez qu'à des ardeurs parfaites,
-Jamais Sultan ne fut plus heureux que vous l'êtes.
-
--*who_diaphane
 Si vous me dites vrai... que me veux-tu ; Jasmin ?
 
-**** *book_ *id_I03 *act_I *date_1732
-
--*who_jasmin
-Dans la première cour, un nommé Carabin,
-Qui sur sa foi gasconne a passé dans la France,
-Attend pour vous parler, et demande audience.
-
--*who_temire
-Oh Ciel !
-
--*who_diaphane
       Il peut monter, pourquoi ne vient-il pas ?
 
--*who_jasmin
-Au bas de l'escalier on arrête ses pas,
-Vous savez que toujours votre porte est fermée.
-
--*who_diaphane
 Oui, c'était autrefois la règle accoutumée,
 Mais il faut que d'entrer on ait permission
 Si tu veux qu'au sérail se passe l'action,
 D'ailleurs à tous venants ma présence est offerte,
 Chacun me rend visite, et je tiens table ouverte.
 
-**** *book_ *id_I04 *act_I *date_1732
-
--*who_carabin
-Respectable ennemi, que j'estime beaucoup,
-Hé donc, je viens tenir parole. Pour le coup
-J'ai de l'argent comptant, que j'apporte de France ;
-Allons sans différer qu'on me fasse quittance.
-À ne te pas mentir pour trouver cet argent,
-II fallait être heureux autant que diligent :
-Grâce au Ciel, c'en est fait, et la somme est complète.
-Commence par lâcher la fille et la soubrette,
-Nous choisirons après dix autres prisonniers :
-Quant à moi je demeure, étant court de deniers,
-Qu'ils partent sur le champ, je resterai pour gage.
-
--*who_diaphane
 N'en rachète que neuf, et mets toi du voyage ;
 Mais ne crois pas me vaincre en générosité,
 Remporte ton argent, reprends ta liberté,
 Je puis même au besoin te prêter une somme.
 
--*who_carabin
-Cadedis, pour un Turc vous êtes honnête homme !
-
--*who_diaphane
 Embarque cent captifs que je te rends encor,
 Mais je veux de ce nombre excepter Alcidor.
 Sa funeste valeur à nous nuire obstinée
@@ -197,92 +316,422 @@ De ses peuples armés y joindrait les efforts,
 Ce serait vainement qu'il combattrait pour elle,
 Rien ne peut m'arracher une esclave si belle.
 
--*who_carabin
-Qu'entends-je ! Est-ce la mode en ce maudit pays
-De manquer de parole après avoir promis ?
-
--*who_diaphane
 Lorsque je te promis d'accorder ta demande,
 Ce n'était qu'un enfant, à présent elle est grande :
 Tu peux partir.
 
--*who_carabin
-      D'accord ; mais avant mon départ
-Ne me refusez pas ce malheureux vieillard.
-
--*who_temire
-Pourquoi le retenir ?
-
--*who_carabin
-      II ne vivra qu'une heure.
-
--*who_diaphane
 Je consens à remplir tes voeux pourvu qu'il meure.
 Je vous quitte, Temire, adieu pour un moment,
 Nous nous verrons bientôt dans mon appartement.
 
-**** *book_ *id_I05 *act_I *date_1732
+Je n'y puis plus tenir, Madame paraissez,
+Venez, venez répondre à mes voeux empressés ;
+La Mosquée est ornée, et les flambeaux s'allument
+Le Mufti vous attend, déjà les parfums fument...
 
--*who_temire
-Seigneur, je fuis confuse, et ne sais que vous dire :
-Vous croyez de ces lieux partir avec Temire,
-Mais comme de l'amour mon coeur subit la loi,
-Vous voyez clairement qu'il faut partir sans moi ;
-Cependant, Carabin, comptez qu'en votre absence,
-J'aurai pour les Français beaucoup de déférence :
-Sur l'esprit du Sultan si j'ai quelque pouvoir,
-Pour soulager leurs maux, je le ferai valoir :
-Je deviendrai leur mère auprès de Diaphane.
+      C'est trop vous arrêter,
+Venez.
 
--*who_carabin
+      Que dites vous ?
+
+Vous n'osez ?
+
+      Et pourquoi donc ?
+
+Ah ! Je vois ce que c'est, sans doute la pudeur...
+
+Expliquez-vous donc mieux.
+
+      Quoi ?
+
+Hé bien, nous serons seuls, de quoi vous plaignez-vous ?
+
+      Que dites-vous, Madame ?
+Qu'auraient-donc de commun Carabin, et ma flamme ?
+
+      Que m'importe sa mort ?
+Et quel vif intérêt prenez-vous à son sorts ?
+
+Je ne m'attendais pas à pareil compliment,
+Temire.
+
+Temire...
+
+Je n'y comprends plus rien, pourquoi partir sitôt ?
+Dites-moi vos raisons....
+
+Je demeure immobile et ma langue glacée
+Autant que mon esprit se trouve embarrassée ;
+La situation pour le coup m'interdit :
+Que faut-il que je dise, et que m'a-t-elle dit ?
+Cher Jasmin, quel est-donc ce changement extrême ?
+Je ne la connais plus, je m'ignore moi-même,
+Je la laisse échapper !
+
+Pourquoi se dérober à des moments si doux ?
+
+Si ce petit Gascon m'avait ravi son coeur...
+Elle m'en a parlé : quel soupçon ! Quelle horreur!
+Il n'en faut point douter, le perfide l'adore,
+Il voulait l'emmener et le désire encore.
+Quelle honte pour moi, qu'un jeune audacieux.
+Sur l'objet de ma flamme ose lever les yeux !
+
+Je ne le ferai plus.
+
+Elle revient ; mon coeur fais bonne contenance ;
+Vizir, sois le témoin de mon indifférence.
+Madame, il fut un temps, mais ce temps-là n'est plus,
+Et de m'en souvenir je suis même confus ;
+Il fut un temps, vous dis-je, où mon âme insensée,
+S'applaudissait du trait dont vous l'aviez blessée.
+Je croyais être aimé, je devais l'être aussi ;
+Mais de ne l'être pas je ne prends nul souci,
+Et je puis en perdant un coeur comme le vôtre,
+Sans soupirer longtemps, en retrouver un autre :
+Je m'en flatte du moins ; une autre aura des yeux
+Qui de ce que je vaux jugeront beaucoup mieux.
+II pourra m'en coûter, je l'avoue à ma honte,
+Mais à me consoler cette autre sera prompte ;
+Et j'aime cent fois mieux briser des noeuds si doux,
+Que de passer pour sot en soupirant pour vous ;
+Allez, mes yeux jamais ne rêveront vos charmes.
+
+      Il est trop vrai que l'honneur me l'ordonne,
+Que je vous aimai trop, que je vous abandonne :
+Que mes voeux, que mon coeur, que mes yeux éclairés...
+Que j'aimai, que je hais... Temire vous riez ?
+
+Ne crois pas que mon coeur soit d'accord avec moi,
+Quand je parle d'aimer un autre objet que toi ;
+Cesse de t'affliger, adorable Temire,
+Va, tout ce que j'ai dit ce n'était que pour rire.
+Mais toi qui refusais la main de ton amant,
+Était-ce par caprice, ou par raffinement ?
+L'amour ne veut point d'art quand la fille est jolie,
+Et je ne hais rien tant que la coquetterie.
+
+Hé bien, épousons-nous.
+
+      Hé bien...
+
+      Que de cérémonie !
+Vous m'impatientez.
+
+Et de quoi s'agit-il ?
+
+Quoi toujours me quitter, et de la même forte ?
+
+Pourquoi pas aujourd'hui ? Qui vous retient ? Parlez.
+
+Je saurai la raison qui vous force au silence ;
+Et l'examinerai. J'attends jusqu'à demain ;
+Pour un Turc, avouez que je suis trop humain,
+Tout autre en vous aimant voudrait de votre bouche
+Apprendre ce secret, qui sans doute me touche.
+
+C'est dommage ; adieu donc : vous partez ?
+
+Je défie au plus fin d'y pouvoir rien comprendre ;
+Et voilà de ces coups qui sont faits pour surprendre.
+Je fuis bien indigné ; mais elle a ses raisons :
+Je devrais les savoir... faisons trêve aux soupçons.
+On m'aime, c'est assez, on le dit, on le jure,
+Une femme n'est pas capable d'imposture ;
+Un grand coeur à la croire est toujours engagé.
+
+Que veux-tu ?
+
+Donne, qui le portait ?
+
+Lisons... la main me tremble et j'aurai peine à lire.
+
+
+Je vous attends, chère Temire ;
+Il est vers la Mosquée un sentier très obscur
+Qui vers le port peut vous conduire ;
+Si vous vous y rendez note départ est sûr.
+Qu'en dis-tu, cher Jasmin.
+
+Tu vois comme on me traite.
+
+Cours chez elle à l'instant, montre-lui ce billet
+Et perce-la soudain de cent coups de stylet ;
+Marche-donc, obéis, non, arrête, demeure...
+Quoi tu n'es pas parti, malheureux ?...
+
+Attends ; Ciel ! Que résoudre en un tel embarras ?
+
+Je n'en sais rien.
+
+      La perfide !
+
+Je prétends lui parler ; qu'on la fasse venir.
+
+      C'est pour finir.
+
+Ah ! Ne négligeons pas cet avis important ;
+Va chercher un esclave intelligent, alerte
+Qui ne lui dise pas que nous savons ouverte.
+
+Oui, Jasmin a raison ; et de cette manière
+La conduite sera beaucoup plus régulière,
+Car si je la voyais, il faudrait lui prouver
+Qu'elle n'est infidèle, et cherche à se sauver,
+Mais je n'en ferais rien, et n'osant lui répondre,
+J'oublierais les moyens que j'ai de la confondre,
+Je connais ma faiblesse, et sans les employer,
+On me verrait sans fruit encor la renvoyer.
+
+Nous les verrons venir, et déjà la nuit sombre
+Aux furtives amours semble prêter son ombre.
+Écoute, cher Jasmin, n'entends-tu pas des cris ?
+
+      Le scélérat, le traître !
+
+Hélas lorsque tout dort, le crime est éveillé.
+
+Un Héros peut pleurer une fois en sa vie.
+Ah ! pour le coup on vient, je ne me trompe pas.
+
+      Je frissonne, j'enrage,
+Mais je vais dans son sang éteindre son sortait.
+L'infidèle !
+
+J'entends encor du bruit, et j'aperçois le traître,
+La lanterne qu'il tient me le fait reconnaître ;
+Je vais les immoler à ma juste fureur.
+
+Sa soeur ! Ah ! J'allais faire une belle sottise !
+Cet éclaircissement m'épargne une méprise.
+
+Est-elle bien ta soeur ?
+
+Et pourquoi souffrais-tu qu'il osât t'enlever ?
+
+Mais par quelles raisons ?
+
+      Oh quelle extravagance !
+Puisqu'un pareil motif avait su te guider,
+Je suis trop délicat pour vouloir te garder.
+
+Moi, dont tu connaissais les vertus, les bontés,
+Qui n'ai jamais agi que par tes volontés...
+Ah ! Si dans ton pays tu désirais de vivre,
+Je t'adorais assez, cruelle, pour t'y suivre,
+Et changeant tout-à-coup le turban en plumet,
+J'aurais en petit-maître habillé Mahomet ;
+Mais je fuis trop piqué. Jasmin, je veux qu'ils partent,
+Et que de ce rivage à jamais ils s'écartent.
+Pour que le spectateur se sente remuer,
+II faut que quelqu'un meure, et je vais me tuer.
+
+Hé bien, je me tuerai quand vous serez partis.
+
+
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+
+      J'entends parler Français :
+Où suis-je, mes amis ? Ma vue est si troublée ,
+Et de tant de malheurs mon âme est accablée,⁎⁎⁎⁎
+	
+Que je ne puis, hélas ! Parler, marcher, ni voir.
+
+Suis-je libre en effet ?
+
+À qui dois-je un bonheur que je n'espérais plus ?
+
+Des Chevaliers gascons je reconnais l'ardeur,
+S'ils n'ont pas de grands biens ils ont tous de l'honneur.
+
+Oh sort ! Dont la faveur me rend à la lumière,
+Que ne peux-tu la rendre à ma famille entière ?
+Deux enfants me sent morts, il m'en reste encore deux :
+Ne me direz-vous point quelque nouvelle d'eux ?
+J'avais un beau garçon, une plus belle fille,
+Qui devait faire un jour l'honneur de ma famille ;
+Mais qui dans le Sérail, recueil de la pudeur,
+Peut-être en ce moment en fait le déshonneur.
+Mon fils fut fait esclave, et sa soeur plus petite
+Au sérail avec lui par les Turcs fut conduite.
+
+      Ce minois, cet air vif et coquet,
+De ma défunte femme est le vivant portrait :
+Même, à ce que je crois, ce garçon me ressemble.
+Dans quel temps, s'il vous plaît, fûtes-vous pris ensemble ?
+Je ne prétends ici rien décider en l'air ;
+Surtout en fait d'enfants on ne peut voir trop clair.
+
+Époque trop heureuse, et qui me comble d'aise ;
+Et quel âge avez-vous à présent ?
+
+Et vous ?
+
+      Baisez-moi, mes enfants.
+
+      Et pourquoi ?
+
+N'as-tu pas dans le sein la blessure fâcheuse
+Que te fit à mes yeux une main furieuse ?
+
+      Ah je n'en puis douter,
+Vous êtes mes enfants, j'ose vous l'attester.
+
+Mon fils, cher héritier...
+
+J'en ai beaucoup en France.
+
+Je vous revois enfin, famille si chérie,
+Que je vais ramener au sein de ma patrie !
+Mais d'un soupçon fatal mes sens sont agités,
+Je crains de dévoiler d'affreuses vérités ;
+Quand je songe en quels lieux je la vois retenue>
+Je n'ose sur ma fille encor jeter la vue.
+Oh ! Jour qui me la rends, comment me la rends-tu ?
+Tu pleures ? Je t'entends, tu n'as plus de vertu.
+
+Que la foudre en éclats ne tombe point sur moi,
+Car je ne vois ici de coupables que toi.
+Vivre dans un Sérail ! Ah fille déloyale,
+Ne comptes-tu pour rien le mépris, le scandale ?
+Ose-tu sens rougir t'applaudir de ce choix,
+Et former un hymen que condamnent nos loix ?
+MaisJe te vois pleurer, ma fille, c'est bon signe,
+Ce vertueux retour de ton sang te rend digne.
+
+Ouï je m'en aperçois, déjà je perds haleine,
+Je vais m'évanouir, vite qu'on me ramène.
+Ah ! Malgré nos efforts, qu'en ce siècle malin
+Fille mal aisément reprend le bon chemin !
+
+
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
+Dans la première cour, un nommé Carabin,
+Qui sur sa foi gasconne a passé dans la France,
+Attend pour vous parler, et demande audience.
+
+Au bas de l'escalier on arrête ses pas,
+Vous savez que toujours votre porte est fermée.
+
+      Que ne l'arrêtiez-vous ?
+
+Ayez-vous oublié les grimaces des filles ?
+Elles se font valoir quand elles sont gentilles.
+
+Preniez-vous ce Gascon, Seigneur, pour une bête ?
+Vous les avez laissés ensemble tête à tête.
+
+      Vous aurez bien raison ;
+Ah ! Que la prévoyance est ici de saison :
+Mais il doit revenir.
+
+      Qu'il revienne, le traître...
+Qu'on l'assomme à l'instant s'il ose reparaître.
+Excuse les transports de ce coeur offensé :
+Je suis un étourdi, j'ai le cerveau blessé ;
+Mais je sais quelques fois agir avec prudence,
+Et ne puis accuser Temire d'inconstance.
+Non, son coeur n'est point fait pour une trahison,
+Ni le mien pour sentir l'atteinte d'un soupçon.
+Ne crois pas cependant qu'un Sultan s'avilisse,
+À se voir le jouet d'un amoureux caprice ;
+À souffrir des rebuts, dérober des faveurs,
+Combattre des mépris, respecter des rigueurs :
+Je veux même oublier qu'une fois en ma vie,
+J'eus d'aimer constamment la ridicule envie.
+Que désormais à tous le Sérail soit fermé
+Et que tout rentre ici dans l'ordre accoutumé.
+
+Par ma foi le Sultan n'a guère voyagé.
+
+Je n'en dis rien de bon ;
+On se moque de vous d'une étrange façon.
+
+      Ô trahison horrible !
+Tromper un si bonhomme, hélas est-il possible !
+
+      Tout à l'heure.
+
+Hé bien, Seigneur, irai-je, ou bien n'irai-je pas ?
+
+      Ni moi.
+
+      L'ingrate !
+D'être aimé constamment, en vain l'homme se flatte.
+
+Encor un entretien, Seigneur ?
+
+Finissez sans cela ; vous savez que la belle
+Ne conviendra jamais qu'elle soit infidèle ;
+Épargnez-vous l'ennui d'un éclaircissement ;
+L'Amant y fait le sot, la fille y pleure, et ment.
+Attendez... il me vient une belle pensée :
+II faut que cette lettre à Temire adressée
+En ces perfides mains soit remise à l'instant.
+
+Bagatelle, je vais la lui faire porter
+Et je prendrai le sein de la recacheter.
+
+Seigneur, l'affaire est faite, et ma course est heureuse,
+Le billet est rendu par certaine coiffeuse ;
+Temire a fait réponse, et d'un air aigre-doux
+Au Gascon, dans ces lieux a donné rendez-vous.
+
+Ils iront doucement de peur d'être surpris ;
+Fille que l'on enlève, et qui consent à l'être,
+N'a garde de crier.
+
+Tout dort, et votre esprit de soupçons travaillé...
+
+Quoi, Seigneur, de pleurer vous faites la folie ?
+
+Oui, vous avez raison, on marche à petits pas.
+
+      Pour moi, je me cache... est-ce fait ?
+
+C'est fort bien fait, Seigneur ; renvoyez la matoise,
+Qu'elle fasse à Paris l'amour à la Française.
+
+
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carabin
+
+Respectable ennemi, que j'estime beaucoup,
+Hé donc, je viens tenir parole. Pour le coup
+J'ai de l'argent comptant, que j'apporte de France ;
+Allons sans différer qu'on me fasse quittance.
+À ne te pas mentir pour trouver cet argent,
+II fallait être heureux autant que diligent :
+Grâce au Ciel, c'en est fait, et la somme est complète.
+Commence par lâcher la fille et la soubrette,
+Nous choisirons après dix autres prisonniers :
+Quant à moi je demeure, étant court de deniers,
+Qu'ils partent sur le champ, je resterai pour gage.
+
+Cadedis, pour un Turc vous êtes honnête homme !
+
+Qu'entends-je ! Est-ce la mode en ce maudit pays
+De manquer de parole après avoir promis ?
+
+      D'accord ; mais avant mon départ
+Ne me refusez pas ce malheureux vieillard.
+
+      II ne vivra qu'une heure.
+
 Que vous auriez d'honneur si vous n'étiez Sultane !
 
-**** *book_ *id_I06 *act_I *date_1732
-
--*who_carabin
 Mais quel est ce vieillard qui paraît aux abois ?
 N'est-ce point Alcidor ?
 
--*who_alcidor
-      J'entends parler Français :
-Où suis-je, mes amis ? Ma vue est si troublée ,
-Et de tant de malheurs mon âme est accablée,
-Que je ne puis, hélas ! Parler, marcher, ni voir.
-
--*who_carabin
 S'il est ainsi, bonhomme, il faut donc vous asseoir.
 
--*who_alcidor
-Suis-je libre en effet ?
-
--*who_carabin
       N'en faites aucun doute ;
 Nous allons de Toulon bientôt prendre la route,
 Vous vous y remettrez de vos membres perclus.
 
--*who_alcidor
-À qui dois-je un bonheur que je n'espérais plus ?
-
--*who_temire
-C'est à ce cavalier, dont l'entreprise heureuse
-Excite du Sultan la pitié généreuse ;
-Pour votre délivrance il offrait un grand prix ;
-Mais le Roi n'en veut point et vous partez gratis.
-
--*who_carabin
 Entre gens du métier c'est ainsi qu'on en use,
 On s'oblige l'un l'autre, et l'argent se refuse.
 
--*who_alcidor
-Des Chevaliers gascons je reconnais l'ardeur,
-S'ils n'ont pas de grands biens ils ont tous de l'honneur.
-
--*who_temire
-Il est vrai ; je ne puis concevoir ce mystère,
-Suivant ce qu'on m'a dit, votre province entière
-Aurait peine à payer une telle rançon.
-
--*who_carabin
 Je n'avais pas le sol, lorsque j'étais garçon :
 Mais je vais en deux mots vous conter mon histoire.
 Échappé de mes fers, chose assez dure à croire
@@ -309,180 +758,48 @@ Qui mourut en avril, je ne sais le quantième.
 Héritier de leurs biens, et plus content qu'un Roi,
 J'ai vendu trois châteaux, qui n'étaient point à moi.
 
--*who_alcidor
-Oh sort ! Dont la faveur me rend à la lumière,
-Que ne peux-tu la rendre à ma famille entière ?
-Deux enfants me sent morts, il m'en reste encore deux :
-Ne me direz-vous point quelque nouvelle d'eux ?
-J'avais un beau garçon, une plus belle fille,
-Qui devait faire un jour l'honneur de ma famille ;
-Mais qui dans le Sérail, recueil de la pudeur,
-Peut-être en ce moment en fait le déshonneur.
-Mon fils fut fait esclave, et sa soeur plus petite
-Au sérail avec lui par les Turcs fut conduite.
-
--*who_carabin
 Comment ! Il m'arriva même chose jadis ;
 A 1'âge de quatre ans par les Turcs je fus pris,
 Mené dans le Sérail avec cette personne,
 Et d'être tant soit peu ma saur, je la soupçonne.
 
--*who_temire
-Qu'entends je ?
-
--*who_alcidor
-      Ce minois, cet air vif et coquet,
-De ma défunte femme est le vivant portrait :
-Même, à ce que je crois, ce garçon me ressemble.
-Dans quel temps, s'il vous plaît, fûtes-vous pris ensemble ?
-Je ne prétends ici rien décider en l'air ;
-Surtout en fait d'enfants on ne peut voir trop clair.
-
--*who_carabin
 Je fus, il m'en souvient pris en mil sept cens seize.
 
--*who_alcidor
-Époque trop heureuse, et qui me comble d'aise ;
-Et quel âge avez-vous à présent ?
-
--*who_carabin
       J'ai vingt ans.
 
--*who_alcidor
-Et vous ?
-
--*who_temire
-      J'en ai dix-huit.
-
--*who_alcidor
-      Baisez-moi, mes enfants.
-
--*who_carabin
 Cela ne se peut pas.
 
--*who_alcidor
-      Et pourquoi ?
-
--*who_carabin
       Non, vous dis-je !
 De tels événements tiennent trop du prodige.
 Je fus pris à quatre ans, à cet âge un garçon
 De son père du moins devrait savoir le nom.
 
--*who_alcidor
-N'as-tu pas dans le sein la blessure fâcheuse
-Que te fit à mes yeux une main furieuse ?
-
--*who_carabin
 J'en ai trente, Sandis.
 
--*who_alcidor
-      Ah je n'en puis douter,
-Vous êtes mes enfants, j'ose vous l'attester.
-
--*who_temire
-Quoi,vous êtes mon père, et dans cet équipage...
-
--*who_carabin
 Mais vous en croirons, nous sans autre témoignage ?
 
--*who_alcidor
-Mon fils, cher héritier...
-
--*who_carabin
       Avez-vous de gros biens ?
 
--*who_alcidor
-J'en ai beaucoup en France.
-
--*who_carabin
       Allons, je m'en souviens.
 
--*who_alcidor
-Je vous revois enfin, famille si chérie,
-Que je vais ramener au sein de ma patrie !
-Mais d'un soupçon fatal mes sens sont agités,
-Je crains de dévoiler d'affreuses vérités ;
-Quand je songe en quels lieux je la vois retenue>
-Je n'ose sur ma fille encor jeter la vue.
-Oh ! Jour qui me la rends, comment me la rends-tu ?
-Tu pleures ? Je t'entends, tu n'as plus de vertu.
-
--*who_temire
-Je ne puis vous tromper, l'amoureux Diaphane
-Dans une heure au plus tard doit me faire Sultane.
-
--*who_alcidor
-Que la foudre en éclats ne tombe point sur moi,
-Car je ne vois ici de coupables que toi.
-Vivre dans un Sérail ! Ah fille déloyale,
-Ne comptes-tu pour rien le mépris, le scandale ?
-Ose-tu sens rougir t'applaudir de ce choix,
-Et former un hymen que condamnent nos loix ?
-MaisJe te vois pleurer, ma fille, c'est bon signe,
-Ce vertueux retour de ton sang te rend digne.
-
--*who_temire
-Oui mon père, je sens ma vertu revenir,
-Vous parlez si longtemps qu'on ne peut y tenir.
-
--*who_alcidor
-Ouï je m'en aperçois, déjà je perds haleine,
-Je vais m'évanouir, vite qu'on me ramène.
-Ah ! Malgré nos efforts, qu'en ce siècle malin
-Fille mal aisément reprend le bon chemin !
-
-**** *book_ *id_I07 *act_I *date_1732
-
--*who_carabin
 Le papa touche presque à son heure dernière,
 Et va dans le soupçon achever sa carrière ;
 Et n'est pas encor sûr du retour de ton coeur
 Et je ne sais qu'en croire aussi, ma chère soeur.
 
--*who_temire
-Non, vous devez compter sur mon obéissance,
-Et je veux suivre en tout les coutumes de France ;
-Daignez-m'en éclaircir , car je prétends savoir
-Pourquoi je m'écartais ainsi de mon devoir,
-Et pourquoi cet hymen est au nombre des crimes ?
-
--*who_carabin
 Cadedis, c'est qu'il est contraire à nos maximes.
 
--*who_temire
-Expliquez-les moi-donc...
-
--*who_carabin
       Je m'en tirerais mal ;
 Ma lecture se borne au parfait Maréchal,
 Et je sais seulement qu'un pareil mariage
 Vous m'entendez, je n'ose en dire d'avantage.
 
--*who_temire
-Ah ! Cruel poursuivez, vous ne connaissez pas
-Mon secret, mes tourments, mes voeux, mes attentats.
-
--*who_carabin
 Non vraiment ; et qui diable y pourrait rien connaître ?
 Parlez-moi sans énigme, et j'entendrai peut-être.
 
--*who_temire
-Voici le fait : je suis retenue en ces lieux,
-Le Sultan est frappé de l'éclat de mes yeux ,
-Il est, vous le savez, maître de ma personne,
-Et l'on doit l'épouser aussitôt qu'il ordonne ;
-Mais, me voyant forcée à suivre son désir,
-Si mon coeur y cédait avec quelque plaisir ?
-
--*who_carabin
 Qu'entends-je ? Ce serait une impudence extrême,
 Digne de vingt soufflets.
 
--*who_temire
-      Frappe-donc,car je l'aime.
-
--*who_carabin
 Opprobre malheureux du sang de Carabin,
 Il ne te manque plus que d'aimer un Rabbin.
 Oui, si je n'écoutais que mon bouillant courage,
@@ -492,564 +809,25 @@ Ferais un abatis de tous les Marabouts,
 À ce fat de Sultan arrachant la moustache...
 Mais non, à mon honneur ce serait une tâche.
 
--*who_temire
-Arrête, mon cher frère, arrête, et connais moi,
-Peut-être que Temire est digne encor de toi?
-Du pouvoir de l'amour la vertu me délivre :
-Fais-moi sortir d'ici ; je suis prête à te suivre.
-Ah ! mon cher Diaphane il faut donc te quitter !
-Que de pleurs ce départ à mes yeux va coûter ;
-Pardonne, ton courroux, mon père, ma tendresse,
-Mes serments, mon devoir, mes remords,ma faiblesse,
-Mon trouble, ma douleur, mes chagrins, mon ennui...
-
--*who_carabin
 Elle ne finira je pense d'aujourd'hui.
 De mots sans liaison quelle ample kyrielle !
 Conclusion, ton âme enfin se résout-elle t
 Promets-tu de venir ?
 
--*who_temire
-      Oui, je te le promets,
-Mon frère rends-moi libre, à tout je me soumets.
-Mais tu devrais du moins aller voir notre père ;
-Nous le laissons mourir d'une étrange manière.
-
--*who_carabin
 Je le compte pour mort, et j'y perdrais mes pas :
 Au moins, dans vos projets ne vous démentez pas.
 À tout événement, ma soeur, tenez vous prête,
 Vous allez voir bientôt quelque coup de ma tête.
 
-**** *book_ *id_I08 *act_I *date_1732
-
--*who_temire
-Me voila seule, hélas ! Que vais-je devenir ?
-II faut avec moi-même ici m'entretenir :
-Examinons-nous bien, voyons de quelle espèce
-Doit me rendre aujourd'hui l'honneur ou la faiblesse.
-Suis-je Turque, ou Française ? Hélas ! Je n'en sais rien,
-Et mon état présent ne se conçoit pas bien,
-Suivrai-je mon devoir, ou m'en écarterai-je ?
-N'épouserai-je pas, ou bien épouserai-je ?
-Que dis-je ? Ai-je oublié les serments que j'ai faits ?I
-Mon père, mon pays, vous serez satisfaits.
-Plus je veux l'étouffer, plus mon feu se rallume ;
-J'aime toujours, malgré la France et sa coutume.
-Ah ! Puisque tu devais m'épouser dès ce soir,
-Pourquoi m'apprenait-on aujourd'hui mon devoir !
-Frère trop rigoureux, du moins pour me rapprendre
-Jusqu'à demain matin tu devais bien attendre ?
-
-**** *book_ *id_I09 *act_I *date_1732
-
--*who_diaphane
-Je n'y puis plus tenir, Madame paraissez,
-Venez, venez répondre à mes voeux empressés ;
-La Mosquée est ornée, et les flambeaux s'allument
-Le Mufti vous attend, déjà les parfums fument...
-
--*who_temire
-À ces apprêts flatteurs pourrais-je résister ?
-II le faut bien pourtant.
-
--*who_diaphane
-      C'est trop vous arrêter,
-Venez.
-
--*who_temire
-      Où me cacher.
-
--*who_diaphane
-      Que dites vous ?
-
--*who_temire
-      Je n'ose.
-
--*who_diaphane
-Vous n'osez ?
-
--*who_temire
-      Non Seigneur.
-
--*who_diaphane
-      Et pourquoi donc ?
-
--*who_temire
-      Pour cause.
-
--*who_diaphane
-Ah ! Je vois ce que c'est, sans doute la pudeur...
-
--*who_temire
-Non, ce n'est point cela, vous vous trompez, Seigneur.
-
--*who_diaphane
-Expliquez-vous donc mieux.
-
--*who_temire
-      Ciel !
-
--*who_diaphane
-      Quoi ?
-
--*who_temire
-      Cet hyménée
-Par son éclat pompeux ne n'a point étonnée ;
-Je n'ai point recherché les biens et les grandeurs,
-Un plus noble intérêt fit naître mes ardeurs :
-Mon coeur tendre et sincère aux trônes de l'Afrique,
-Eût préféré l'abri du toit le plus rustique :
-Seule, et dans ces déserts auprès de mon époux...
-
--*who_diaphane
-Hé bien, nous serons seuls, de quoi vous plaignez-vous ?
-
--*who_temire
-D'accord, mais Carabin....
-
--*who_diaphane
-      Que dites-vous, Madame ?
-Qu'auraient-donc de commun Carabin, et ma flamme ?
-
--*who_temire
-Alcidor va mourir...
-
--*who_diaphane
-      Que m'importe sa mort ?
-Et quel vif intérêt prenez-vous à son sorts ?
-
--*who_temire
-Cet hymen dont l'idée à mon coeur est si chère,
-Cet hymen si charmant, souffrez qu'on le diffère.
-
--*who_diaphane
-Je ne m'attendais pas à pareil compliment,
-Temire.
-
--*who_temire
-      Je frémis de son emportement.
-
--*who_diaphane
-Temire...
-
--*who_temire
-      Il m'est affreux, Seigneur, de vous déplaire,
-Laissez-moi vous quitter, je ne saurais mieux faire.
-
--*who_diaphane
-Je n'y comprends plus rien, pourquoi partir sitôt ?
-Dites-moi vos raisons....
-
--*who_temire
-      Je les dirai tantôt.
-
-**** *book_ *id_I10 *act_I *date_1732
-
--*who_diaphane
-Je demeure immobile et ma langue glacée
-Autant que mon esprit se trouve embarrassée ;
-La situation pour le coup m'interdit :
-Que faut-il que je dise, et que m'a-t-elle dit ?
-Cher Jasmin, quel est-donc ce changement extrême ?
-Je ne la connais plus, je m'ignore moi-même,
-Je la laisse échapper !
-
--*who_jasmin
-      Que ne l'arrêtiez-vous ?
-
--*who_diaphane
-Pourquoi se dérober à des moments si doux ?
-
--*who_jasmin
-Ayez-vous oublié les grimaces des filles ?
-Elles se font valoir quand elles sont gentilles.
-
--*who_diaphane
-Si ce petit Gascon m'avait ravi son coeur...
-Elle m'en a parlé : quel soupçon ! Quelle horreur!
-Il n'en faut point douter, le perfide l'adore,
-Il voulait l'emmener et le désire encore.
-Quelle honte pour moi, qu'un jeune audacieux.
-Sur l'objet de ma flamme ose lever les yeux !
-
--*who_jasmin
-Preniez-vous ce Gascon, Seigneur, pour une bête ?
-Vous les avez laissés ensemble tête à tête.
-
--*who_diaphane
-Je ne le ferai plus.
-
--*who_jasmin
-      Vous aurez bien raison ;
-Ah ! Que la prévoyance est ici de saison :
-Mais il doit revenir.
-
--*who_jasmin
-      Qu'il revienne, le traître...
-Qu'on l'assomme à l'instant s'il ose reparaître.
-Excuse les transports de ce coeur offensé :
-Je suis un étourdi, j'ai le cerveau blessé ;
-Mais je sais quelques fois agir avec prudence,
-Et ne puis accuser Temire d'inconstance.
-Non, son coeur n'est point fait pour une trahison,
-Ni le mien pour sentir l'atteinte d'un soupçon.
-Ne crois pas cependant qu'un Sultan s'avilisse,
-À se voir le jouet d'un amoureux caprice ;
-À souffrir des rebuts, dérober des faveurs,
-Combattre des mépris, respecter des rigueurs :
-Je veux même oublier qu'une fois en ma vie,
-J'eus d'aimer constamment la ridicule envie.
-Que désormais à tous le Sérail soit fermé
-Et que tout rentre ici dans l'ordre accoutumé.
-
-**** *book_ *id_I11 *act_I *date_1732
-
--*who_diaphane
-Elle revient ; mon coeur fais bonne contenance ;
-Vizir, sois le témoin de mon indifférence.
-Madame, il fut un temps, mais ce temps-là n'est plus,
-Et de m'en souvenir je suis même confus ;
-Il fut un temps, vous dis-je, où mon âme insensée,
-S'applaudissait du trait dont vous l'aviez blessée.
-Je croyais être aimé, je devais l'être aussi ;
-Mais de ne l'être pas je ne prends nul souci,
-Et je puis en perdant un coeur comme le vôtre,
-Sans soupirer longtemps, en retrouver un autre :
-Je m'en flatte du moins ; une autre aura des yeux
-Qui de ce que je vaux jugeront beaucoup mieux.
-II pourra m'en coûter, je l'avoue à ma honte,
-Mais à me consoler cette autre sera prompte ;
-Et j'aime cent fois mieux briser des noeuds si doux,
-Que de passer pour sot en soupirant pour vous ;
-Allez, mes yeux jamais ne rêveront vos charmes.
-
--*who_temire
-Ma vertu ne saurait tenir contre mes larmes,
-Et l'amour sur l'honneur prend toujours le dessus ;
-Est-il bien assuré que vous ne m'aimiez plus,
-Seigneur ?
-
--*who_diaphane
-      Il est trop vrai que l'honneur me l'ordonne,
-Que je vous aimai trop, que je vous abandonne :
-Que mes voeux, que mon coeur, que mes yeux éclairés...
-Que j'aimai, que je hais... Temire vous riez ?
-
--*who_temire
-Seigneur qui ne rirait de tout ce badinage ?
-De mon incertitude et de voue langage ?
-
--*who_diaphane
-Ne crois pas que mon coeur soit d'accord avec moi,
-Quand je parle d'aimer un autre objet que toi ;
-Cesse de t'affliger, adorable Temire,
-Va, tout ce que j'ai dit ce n'était que pour rire.
-Mais toi qui refusais la main de ton amant,
-Était-ce par caprice, ou par raffinement ?
-L'amour ne veut point d'art quand la fille est jolie,
-Et je ne hais rien tant que la coquetterie.
-
--*who_temire
-Moi coquette, Seigneur ! Et vous m'en soupçonnez ?
-Non, non, au simple amour tous mes voeux sont bornés.
-
--*who_diaphane
-Hé bien, épousons-nous.
-
--*who_temire
-      J'en aurais grande envie ;
-Mais...
-
--*who_diaphane
-      Hé bien...
-
--*who_temire
-      Ah ! Seigneur...
-
--*who_diaphane
-      Que de cérémonie !
-Vous m'impatientez.
-
--*who_temire
-      Souffrez qu'à vos genoux
-Je demande en tremblant une grâce de vous ?
-
--*who_diaphane
-Et de quoi s'agit-il ?
-
--*who_temire
-      Permettez que je sorte.
-
--*who_diaphane
-Quoi toujours me quitter, et de la même forte ?
-
--*who_temire
-Demain tous mes secrets vous seront révélés.
-
--*who_diaphane
-Pourquoi pas aujourd'hui ? Qui vous retient ? Parlez.
-
--*who_temire
-J'exige ce délai de votre complaisance.
-
--*who_diaphane
-Je saurai la raison qui vous force au silence ;
-Et l'examinerai. J'attends jusqu'à demain ;
-Pour un Turc, avouez que je suis trop humain,
-Tout autre en vous aimant voudrait de votre bouche
-Apprendre ce secret, qui sans doute me touche.
-
--*who_temire
-En me parlant ainsi vous me percez le coeur.
-
--*who_diaphane
-C'est dommage ; adieu donc : vous partez ?
-
--*who_temire
-      Oui Seigneur.
-
-**** *book_ *id_I12 *act_I *date_1732
-
--*who_diaphane
-Je défie au plus fin d'y pouvoir rien comprendre ;
-Et voilà de ces coups qui sont faits pour surprendre.
-Je fuis bien indigné ; mais elle a ses raisons :
-Je devrais les savoir... faisons trêve aux soupçons.
-On m'aime, c'est assez, on le dit, on le jure,
-Une femme n'est pas capable d'imposture ;
-Un grand coeur à la croire est toujours engagé.
-
--*who_jasmin
-Par ma foi le Sultan n'a guère voyagé.
-
-**** *book_ *id_I13 *act_I *date_1732
-
--*who_diaphane
-Que veux-tu ?
-
--*who_matador
-      Ce billet à Temire s'adresse ;
-Vos Gardes surveillants l'ont surpris par adresse.
-
--*who_diaphane
-Donne, qui le portait ?
-
--*who_matador
-      Un des Galériens
-Dont vos bontés, Seigneur, ont brisé les liens.
-
--*who_diaphane
-Lisons... la main me tremble et j'aurai peine à lire.
-
-
-Je vous attends, chère Temire ;
-Il est vers la Mosquée un sentier très obscur
-Qui vers le port peut vous conduire ;
-Si vous vous y rendez note départ est sûr.
-Qu'en dis-tu, cher Jasmin.
-
--*who_jasmin
-Je n'en dis rien de bon ;
-On se moque de vous d'une étrange façon.
-
--*who_diaphane
-Tu vois comme on me traite.
-
--*who_jasmin
-      Ô trahison horrible !
-Tromper un si bonhomme, hélas est-il possible !
-
--*who_diaphane
-Cours chez elle à l'instant, montre-lui ce billet
-Et perce-la soudain de cent coups de stylet ;
-Marche-donc, obéis, non, arrête, demeure...
-Quoi tu n'es pas parti, malheureux ?...
-
--*who_jasmin
-      Tout à l'heure.
-
--*who_diaphane
-Attends ; Ciel ! Que résoudre en un tel embarras ?
-
--*who_jasmin
-Hé bien, Seigneur, irai-je, ou bien n'irai-je pas ?
-
--*who_diaphane
-Je n'en sais rien.
-
--*who_jasmin
-      Ni moi.
-
--*who_diaphane
-      La perfide !
-
--*who_jasmin
-      L'ingrate !
-D'être aimé constamment, en vain l'homme se flatte.
-
--*who_diaphane
-Je prétends lui parler ; qu'on la fasse venir.
-
--*who_jasmin
-Encor un entretien, Seigneur ?
-
--*who_diaphane
-      C'est pour finir.
-
--*who_jasmin
-Finissez sans cela ; vous savez que la belle
-Ne conviendra jamais qu'elle soit infidèle ;
-Épargnez-vous l'ennui d'un éclaircissement ;
-L'Amant y fait le sot, la fille y pleure, et ment.
-Attendez... il me vient une belle pensée :
-II faut que cette lettre à Temire adressée
-En ces perfides mains soit remise à l'instant.
-
--*who_diaphane
-Ah ! Ne négligeons pas cet avis important ;
-Va chercher un esclave intelligent, alerte
-Qui ne lui dise pas que nous savons ouverte.
-
--*who_jasmin
-Bagatelle, je vais la lui faire porter
-Et je prendrai le sein de la recacheter.
-
-**** *book_ *id_I14 *act_I *date_1732
-
--*who_diaphane
-Oui, Jasmin a raison ; et de cette manière
-La conduite sera beaucoup plus régulière,
-Car si je la voyais, il faudrait lui prouver
-Qu'elle n'est infidèle, et cherche à se sauver,
-Mais je n'en ferais rien, et n'osant lui répondre,
-J'oublierais les moyens que j'ai de la confondre,
-Je connais ma faiblesse, et sans les employer,
-On me verrait sans fruit encor la renvoyer.
-
-**** *book_ *id_I15 *act_I *date_1732
-
--*who_jasmin
-Seigneur, l'affaire est faite, et ma course est heureuse,
-Le billet est rendu par certaine coiffeuse ;
-Temire a fait réponse, et d'un air aigre-doux
-Au Gascon, dans ces lieux a donné rendez-vous.
-
--*who_diaphane
-Nous les verrons venir, et déjà la nuit sombre
-Aux furtives amours semble prêter son ombre.
-Écoute, cher Jasmin, n'entends-tu pas des cris ?
-
--*who_jasmin
-Ils iront doucement de peur d'être surpris ;
-Fille que l'on enlève, et qui consent à l'être,
-N'a garde de crier.
-
--*who_diaphane
-      Le scélérat, le traître !
-
--*who_jasmin
-Tout dort, et votre esprit de soupçons travaillé...
-
--*who_diaphane
-Hélas lorsque tout dort, le crime est éveillé.
-
--*who_jasmin
-Quoi, Seigneur, de pleurer vous faites la folie ?
-
--*who_diaphane
-Un Héros peut pleurer une fois en sa vie.
-Ah ! pour le coup on vient, je ne me trompe pas.
-
--*who_jasmin
-Oui, vous avez raison, on marche à petits pas.
-
-**** *book_ *id_I16 *act_I *date_1732
-
--*who_temire
-Est-ce ici le chemin ?
-
--*who_fatime
-      Oui, Madame, courage ;
-Carabin va venir.
-
--*who_diaphane
-      Je frissonne, j'enrage,
-Mais je vais dans son sang éteindre son sortait.
-L'infidèle !
-
--*who_jasmin
-      Pour moi, je me cache... est-ce fait ?
-
--*who_diaphane
-J'entends encor du bruit, et j'aperçois le traître,
-La lanterne qu'il tient me le fait reconnaître ;
-Je vais les immoler à ma juste fureur.
-
--*who_temire
-Est-ce vous Carabin ?
-
-**** *book_ *id_I17 *act_I *date_1732
-
--*who_carabin
       Êtes vous là, ma soeur ?
 
--*who_diaphane
-Sa soeur ! Ah ! J'allais faire une belle sottise !
-Cet éclaircissement m'épargne une méprise.
-
--*who_temire
-Que vois-je ? Le Sultan...
-
--*who_carabin
       Nous sommes découverts.
 Ah sandis, nous allons retomber dans les fers.
 
--*who_diaphane
-Est-elle bien ta soeur ?
-
--*who_carabin
       Alcidor est son père,
 Je suis fils d'Alcidor, ergo, je suis son frère.
 
--*who_diaphane
-Et pourquoi souffrais-tu qu'il osât t'enlever ?
-
--*who_temire
-C'est que je vous aimais, et voulais me sauver.
-
--*who_diaphane
-Mais par quelles raisons ?
-
--*who_temire
-      La coutume de France
-Me l'ordonnait, Seigneur.
-
--*who_diaphane
-      Oh quelle extravagance !
-Puisqu'un pareil motif avait su te guider,
-Je suis trop délicat pour vouloir te garder.
-
--*who_jasmin
-C'est fort bien fait, Seigneur ; renvoyez la matoise,
-Qu'elle fasse à Paris l'amour à la Française.
-
--*who_diaphane
-Moi, dont tu connaissais les vertus, les bontés,
-Qui n'ai jamais agi que par tes volontés...
-Ah ! Si dans ton pays tu désirais de vivre,
-Je t'adorais assez, cruelle, pour t'y suivre,
-Et changeant tout-à-coup le turban en plumet,
-J'aurais en petit-maître habillé Mahomet ;
-Mais je fuis trop piqué. Jasmin, je veux qu'ils partent,
-Et que de ce rivage à jamais ils s'écartent.
-Pour que le spectateur se sente remuer,
-II faut que quelqu'un meure, et je vais me tuer.
-
--*who_carabin
 Ah ! Ne vous tuez pas avant notre voyage ;
 Car si vous expirez, on nous remet en cage :
 Que de la mort au moins nous soyons garantis.
 
--*who_diaphane
-Hé bien, je me tuerai quand vous serez partis.

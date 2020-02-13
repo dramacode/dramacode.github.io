@@ -1,1538 +1,887 @@
 
 
-**** *book_ *id_I01 *act_I *date_1693
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillemin
 
--*who_lesergent
-C'est temps perdu, Monsieur, J'ai cherché dans tous les Fours de Paris, et je n'ai pu trouver ce qu'il vous faut.
-Les hommes sont chers par le temps qu'il fait, et comme vous les demandez surtout.
-
--*who_clitandre
-Comment donc faire, Monsieur de la Rose ?
-
--*who_lesergent
-Morbleu, j'enrage.
-Il y a quinze jours que je devrais avoir mené la recrue au Régiment, et nous n'avons pas encore la moitié de nos gens.
-
--*who_clitandre
-Il faut en trouver à quelque prix que ce soit.f
-
--*who_lesergent
-On m'a fait voir deux petits malingres d'assez bonne mine à la vérité : mais on veut les vendre huit pistoles pièce.
-
--*who_clitandre
-Huit pistoles !
-
--*who_lesergent
-Oui, Monsieur : mais il n'y a rien à perdre, ce sont des enfants de famille, dont on retirera plus que son argent.
-
--*who_clitandre
-Nous en serions bien plus avancés.
-Le beau commerce !
-Je ne veux point de cela.
-
--*who_lesergent
-Oh, par ma foi, Monsieur, vous êtes trop scrupuleux pour un Officier d'Infanterie, il n'y a pas moyen de s'y sauver.
-À quoi vous en tenez-vous donc, et comment vous plaît-il que nous finissions ?
-
--*who_clitandre
-Oh, finis comme tu l'entendras.
-
--*who_lesergent
-Je me donne au diable, il me prend envie de faire un four de votre appartement, autant de gens qu'il y viendra, je vous les enrôle.
-
--*who_clitandre
-Fort bien.
-
--*who_lesergent
-Vous avez un tas de créanciers, surtout, que j'aurais bien envie de mener à notre bataillon.
-Je ferais plaisir à bien d'honnêtes gens.
-
--*who_clitandre
-Assurément.
-
--*who_lesergent
-Nous sommes déjà convenus, votre Crispin et moi, qu'il m'adresserait quelqu'un de ses amis : et quand quelque drôle un peu bien tourné viendra me demander de sa part, je saurai bien ce que cela voudra dire.
-
--*who_clitandre
-J'abandonne tout à votre conduite.
-
--*who_lesergent
-Il aurait bien mieux valu faire vos affaires de bonne heure, que vous amuser pendant tout l'hiver à troubler, comme vous avez fait, la paix de deux ou trois ménages.
-
--*who_clitandre
-Il faut bien se délasser à Paris des fatigues de la campagne.
-
--*who_lesergent
-D'honnêtes Bourgeois ont bien affaire que ce soit chez eux que vous veniez vous délasser.
-
--*who_clitandre
-Ils sont bien en droit de se plaindre, vraiment !
-On défend l'été leurs frontières, peuvent-ils trop payer l'hiver toutes les peines que se donnent les gens de qualités ?
-
--*who_lesergent
-Je ne sais, Monsieur : mais depuis quelques jours vous venez bien souvent au Palais.
-Vous y traitez quelque affaire sérieuse, puisque vous ne m'en dites mot ?
-
--*who_clitandre
-Voici Crispin, laisse-nous, et va m'attendre au logis : va vite.
-
--*who_lesergent
-Vous me chassez, vous êtes amoureux tout de bon ; s'il n'y avait que du libertinage, vous m'en auriez fait confidence.
-
-**** *book_ *id_I02 *act_I *date_1693
-
--*who_clitandre
-Hé bien, Crispin ?
-
--*who_crispin
-Son père est avec elle, Monsieur, il n'y a rien à faire.
-
--*who_clitandre
-Le fâcheux contretemps !
-J'étais bien résolu de lui parler cette fois-ci, je t'assure.
-
--*who_crispin
-Cela est admirable !
-Quand elle est seule, la timidité vous prend : quand le père y est, vous vous croyez de la résolution.
-
--*who_clitandre
-Il faut pourtant me déclarer.
-Jamais passion ne fut égale à la mienne ; et s'il est vrai qu'on la marie, je ne sais ce que je deviendrai.
-
--*who_crispin
-Par ma foi, Monsieur, je ne vous comprends point.
-Vous êtes un fort joli homme de qualité, fort jeune et fort connu de quantité de coquettes, que vous n'aimez que... comme il faut aimer des coquettes.
-Dans toutes vos intrigues de l'hiver, vous n'avez employé que Monsieur de la Rose, votre Sergent, et vous m'employez à présent, moi.
-Vous devenez sérieusement amoureux d'une grisette : la petite fille d'un Libraire triomphe de votre insensibilité, vous négligez pour elle toutes vos affaires, vous oubliez votre devoir : il vous manque quatre ou cinq soldats, que Monsieur de la Rose et moi, nous trouverions pourtant moyen de faire.
-Il y a quinze jours que nous devrions être au Régiment, et vous ne songez point à tout cela.
-
--*who_clitandre
-Je suis amoureux de bonne foi, je te l'avoue, et mon amour m'occupe préférablement à toute autre chose.
-
--*who_crispin
-Hé, pourquoi donc ne pas parler ?
-Que craignez-vous ?
-Les petites filles du Palais entendent le français, Monsieur, je vous en réponds.
-
--*who_clitandre
-Je ne sais ce qui me retient.
-
--*who_crispin
-Hé, que diable, un Capitaine doit-il être aussi bourgeoisement amoureux que vous l'êtes ?
-
--*who_clitandre
-Je t'assure, Crispin, que quand son père sera sorti, je n'hésiterai point à lui faire un sincère aveu de la tendresse que j'ai pour elle.
-
--*who_crispin
-Nous verrons : mais en attendant pour ne point demeurer inutile, allez-vous-en prendre chez votre usurier cinq cents écus qu'on vous fait passer pour mille ; peut-être que demain il ne voudrait plus vous donner que cent pistoles.
-
--*who_clitandre
-Demeure donc ici, toi, et prends bien garde...
-
--*who_crispin
-J'aurai l'oeil au guet, et prendrai soin de vous avertir, adieu.
-
-**** *book_ *id_I03 *act_I *date_1693
-
--*who_crispin
-Par ma foi les jeunes gens vraiment amoureux, sont aussi sots qu'ils sont indolents quand ils n'aiment que par manière de conversation.
-Mais voici notre jeune maîtresse, et son vieux bonhomme de père.
-
-**** *book_ *id_I04 *act_I *date_1693
-
--*who_guillemin
 Angélique ?
 
--*who_angelique
-Mon père ?
-
--*who_guillemin
 Ce n'est que par moi qu'on met les nouvelles de Paris dans la gazette d'Hollande ; qui diantre peut avoir fait mettre dans celle-ci que je vous marie ?
 
--*who_angelique
-Je ne sais.
-
--*who_guillemin
 Ce n'est nullement mon dessein, au moins, et si je savais...
 
--*who_angelique
-On veut vous avertir peut-être que vous feriez bien de me marier.
+Qu'est-ce à dire ? On veut m'avertir. Je sais bien ce que j'ai à faire, et je n'ai point d'avis à prendre.
 
--*who_guillemin
-Qu'est-ce à dire ?
-On veut m'avertir.
-Je sais bien ce que j'ai à faire, et je n'ai point d'avis à prendre.
-
--*who_angelique
-Je ne me mêle pas de vous en donner, mais vous voyez ce qu'on en pense.
-
--*who_guillemin
 On pensera ce qu'on voudra, mais je veux que vous pensiez comme moi, vous.
 
--*who_angelique
-Hom.
-
--*who_guillemin
 Je vais sortir, il n'y a aucun de mes garçons à la boutique, prenez-y bien garde, et ne vous amusez pas, je vous prie, à babiller avec un tas de godelureaux qui rôdent toujours autour d'ici.
 
--*who_angelique
-Je me soucie bien d'eux, vraiment.
-
--*who_guillemin
 Écrivez bien les noms de ceux qui viendront me demander ; tenez surtout un mémoire fidèle des nouvelles qu'on m'apportera, entendez-vous ?
 
--*who_angelique
-Oui, mon père.
-
--*who_guillemin
 Je ne tarderai pas à revenir.
 
--*who_crispin
-Bon, le voilà parti ; courons après mon maître, l'occasion ne saurait être meilleure pour son dessein.
 
-**** *book_ *id_I05 *act_I *date_1693
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_angelique
-N'est-ce pas là le valet de chambre de Clitandre ?
-Je voudrais bien que son maître eût déjà lu la gazette d'aujourd'hui.
+Mon père ?
+
+Je ne sais.
+
+On veut vous avertir peut-être que vous feriez bien de me marier.
+
+Je ne me mêle pas de vous en donner, mais vous voyez ce qu'on en pense.
+
+Hom.
+
+Je me soucie bien d'eux, vraiment.
+
+Oui, mon père.
+
+N'est-ce pas là le valet de chambre de Clitandre ? Je voudrais bien que son maître eût déjà lu la gazette d'aujourd'hui.
 Hé bonjour, ma chère bonne, que je te sais bon gré de venir causer avec moi.
 
--*who_fillon
-Ma mère est sortie.
-Je me suis lassée d'ourler des coiffes, et de montrer des rubans : je suis accourue pour te féliciter de ton mariage.
+De mon mariage ! Je te suis obligée, vraiment.
 
--*who_angelique
-De mon mariage !
-Je te suis obligée, vraiment.
-
--*who_fillon
-Ah !
-Que tu es heureuse, mon enfant, tu vas te marier !
-
--*who_angelique
 C'est une plaisanterie qu'on a voulu faire.
 
--*who_fillon
-C'est donc ton père qui l'a faite ?
-Car il est, je crois, le seul à Paris, qui ait correspondance avec le Gazetier d'Hollande ; et je viens de voir cette nouvelle dans la gazette.
-
--*who_angelique
 Quelqu'un aura entrepris sur ses droits, apparemment.
 
--*who_fillon
-Tu ris, je pense.
-
--*who_angelique
 Je n'en suis point trop fâchée, cela mettra quelques personnes en mouvement.
 
--*who_fillon
-Ah ; je commence à démêler la chose.
-
--*who_angelique
 Et que démêles-tu ?
 
--*who_fillon
-Que la nouvelle est de ta façon.
-
--*who_angelique
 Fort bien.
 
--*who_fillon
-Que c'est toi-même qui l'as envoyée au Gazetier.
-
--*who_angelique
 Cela pourrait être.
 
--*who_fillon
-Et que par là tu veux obliger quelqu'un de tes amants à se déclarer.
-
--*who_angelique
 Tu me crois donc de l'esprit, à ce compte ?
 
--*who_fillon
-Je te crois de l'amour, cela ne suffit-il pas pour rendre ingénieuse ?
-L'esprit ne m'est jamais venu que par là.
-
--*who_angelique
 Oh bien, pour moi, je te l'avoue, j'ai plus de curiosité que d'amour.
 
--*who_fillon
-La curiosité d'être mariée ; n'est-ce pas ?
-La même curiosité me tient, mon enfant.
-
--*who_angelique
 Que tu es extravagante !
 
--*who_fillon
-Explique-moi donc...
-
--*who_angelique
 Paix, voici ma tante.
 
-**** *book_ *id_I06 *act_I *date_1693
-
--*who_madamepernelle
-Qu'est-ce que c'est donc que tout ceci, ma nièce ?
-J'apprends de belles nouvelles vraiment.
-
--*who_angelique
 Quoi, ma tante ?
 
--*who_madamepernelle
-Votre père a-t-il perdu l'esprit, dites-moi, de vous faire mettre dans la Gazette ?
-
--*who_angelique
 Ma tante...
 
--*who_madamepernelle
-Le bel endroit pour faire parler de soi !
-Mort de ma vie, que cela part d'une cervelle bien sensée !
-
--*who_angelique
 Ce n'est pas lui, ma tante, qui...
 
--*who_madamepernelle
-Le vieux fou !
-Mais ce n'est rien encore que cette gazette : je voudrais bien savoir de quel droit il prétend vous marier sans m'en avoir parlé ?
-
--*who_angelique
 C'est une chose en l'air que ce mariage, et je n'en ai pas ouï parler moi-même.
 
--*who_madamepernelle
-Une chose en l'air !
-Ah, le ladre !
-Oh je devine ce que c'est, moi, ma nièce.
-Votre père est un vilain, un avare, qui, de peur de se défaire de son bien, ne veut point se défaire de sa fille.
-
--*who_fillon
-Ah !
-Que vous le connaissez bien, Madame.
-
--*who_madamepernelle
-Si je le connais !
-Pour écarter les prétendants, il veut faire courir le bruit que vous êtes mariée.
-
--*who_angelique
 Que vous avez d'esprit, ma tante, de deviner cela !
 
--*who_madamepernelle
-Mais pour contrecarrer sa gazette, je ferai afficher que vous êtes à marier, moi.
-
--*who_fillon
-La bonne tante que voilà !
-
--*who_madamepernelle
-Vraiment, il n'a pas affaire à une sotte.
-Il n'y a plus que lui et moi de la famille, je n'ai point d'enfants, il n'a que vous, et il ne vous marierait pas !
-Mort de ma vie, avant que de mourir, je veux voir des rejetons de notre tige, moi, ma nièce.
-
--*who_fillon
-Oh, vous en verrez, Madame, laissez faire.
-
--*who_madamepernelle
-Votre grand-père était tout aussi ridicule que votre père, il voulait que je mourusse fille.
-Mais zeste, je me mariai toute seule en mon petit particulier, et je m'en suis fort bien trouvée, au moins.
-
--*who_angelique
 Je le crois bien, ma tante.
 
--*who_madamepernelle
-Voilà comme on attrape les pères, mes enfants, voilà comme on les attrape.
-Je ne vous donne pas de conseils, le Ciel m'en préserve : mais les exemples d'une tante ne sont quelquefois pas mauvais à suivre.
-
--*who_fillon
-Assurément, il n'y arien à risquer, puisque vous vous en êtres bien trouvée.
-
--*who_madamepernelle
-Hé bien donc, parle-moi confidemment, là.
-N'y a-t-il point quelque jeune homme dans le monde que tu affectionnes plus qu'un autre ?
-
--*who_angelique
 Non, ma tante, je vous en assure.
 
--*who_madamepernelle
-Comment, non ?
-Mais tant pis, ma nièce, il faut pourtant bien prendre un parti, mon enfant.
+Hé ! Mais...
 
--*who_fillon
-Cela viendra, Madame, ne vous mettez pas en peine.
-
--*who_madamepernelle
-Veux-tu que je mêle de tes petites affaires, dis ?
-Je ne serai pas longtemps à trouver ce qu'il te faut, et un Contrat sera bientôt bâti.
-
--*who_fillon
-Cela n'est pas de refus, voyez.
-
--*who_madamepernelle
-Qu'en dis-tu, parle ?
-
--*who_angelique
-Hé !
-Mais...
-
--*who_madamepernelle
-Quoi, mais !
-
--*who_angelique
 J'irai vous voir tantôt, ma tante.
 
--*who_madamepernelle
-Viens, mon enfant, tu me feras plaisir ; j'entre de tout mon coeur dans toutes les petites bagatelles de la jeunesse, il me semble que cela me rajeunit.
-
--*who_fillon
-Le bon naturel !
-
--*who_madamepernelle
-Adieu, je vais faire un tour au banc de mon Procureur, et je repasserai peut-être par ici ; car je veux laver la tête à Monsieur mon frère.
-
-**** *book_ *id_I07 *act_I *date_1693
-
--*who_fillon
-La bonne pâte de tante que voilà.
-Si j'avais seulement une arrière-cousine de la même humeur, je ne bougerais de chez elle, sut ma parole.
-
--*who_angelique
 Ma tante m'a toujours tendrement aimée.
 
--*who_fillon
-Hé !
-Que ne profites-tu de cette amitié, pour faire consentir ton père à te donner un mari ?
+Ah ! Ma chère Fillon, que je suis malheureuse !
 
--*who_angelique
-Ah !
-Ma chère Fillon, que je suis malheureuse !
+Ah ! Que tu es extravagante avec tes plaisanteries ?
 
--*who_fillon
-Comment, est-ce le choix d'un amant qui t'embarrasse ?
-Et parmi le grand nombre de tes soupirants, as-tu peine à te déterminer en faveur de quelqu'un ?
-Montre-moi ta liste, voyons.
+Qu'il a de complaisance et de respect pour moi, ma chère ! Avec quelle discrétion il me rend des soins ! Que je remarque de retenue dans toutes ses assiduités ! Je ne sais point encore comme on prend de l'amour pour un homme : mais il me semble que celui-ci a tout ce qu'il faut pour en faire naître.
 
--*who_angelique
-Ah !
-Que tu es extravagante avec tes plaisanteries ?
+Ah ! Les empressements de celui-là me font encore plus de plaisir, que les tendres égards de l'autre. Il n'est occupé que de moi, c'est sa passion qui le rend étourdi comme il est. Il jure qu'il m'aime à l'adoration ; et la violence de son amour mérite assez qu'on y réponde.
 
--*who_fillon
-Quoi, tu ne tiens pas registre de tes conquêtes !
-Vraiment je suis bien plus coquette que toi : mais il m'importe, je connais à peu près tous ceux qui t'en veulent ; et pour moi, si j'étais à ta place, j'aurais plus de penchant pour le petit Avocat, que pour un autre.
+Ah, si tu savais qu'il a de l'esprit ! C'est un grand charme pour moi que l'esprit. Dans tout ce qu'il dit, dans tout ce qu'il fait, on remarque un air de délicatesse que personne n'a comme lui.
 
--*who_angelique
-Qu'il a de complaisance et de respect pour moi, ma chère !
-Avec quelle discrétion il me rend des soins !
-Que je remarque de retenue dans toutes ses assiduités !
-Je ne sais point encore comme on prend de l'amour pour un homme : mais il me semble que celui-ci a tout ce qu'il faut pour en faire naître.
-
--*who_fillon
-Assurément, il n'y a nulle comparaison à faire de lui avec ce petit étourdi de Chevalier, qui...
-
--*who_angelique
-Ah !
-Les empressements de celui-là me font encore plus de plaisir, que les tendres égards de l'autre.
-Il n'est occupé que de moi, c'est sa passion qui le rend étourdi comme il est.
-Il jure qu'il m'aime à l'adoration ; et la violence de son amour mérite assez qu'on y réponde.
-
--*who_fillon
-Ah !
-J'entends, voilà le fortuné.
-Il faut s'en tenir au petit Académiste : car pour cet apprentif Partisan, je ne crois pas...
-
--*who_angelique
-Ah, si tu savais qu'il a de l'esprit !
-C'est un grand charme pour moi que l'esprit.
-Dans tout ce qu'il dit, dans tout ce qu'il fait, on remarque un air de délicatesse que personne n'a comme lui.
-
--*who_fillon
-Mais, si tu aimes ainsi la discrétion de l'un, la violente passion de l'autre, et la délicatesse d'esprit du troisième, comment faire ?
-Tu ne peux pas les épouser tous trois ensemble.
-L'un après l'autre encore, quand on a du bonheur, il n'y a rien qui ne se puisse faite.
-
--*who_angelique
 Quelque sensible que je sois à leurs bonnes qualités, il n'y en a pas un des trois que j'aime véritablement.
 
--*who_fillon
-Quoi, y en aurait-il un quatrième au-dessus de ceux-là ?
-
--*who_angelique
 Il n'a peut-être pas tant de mérite que les autres : mais il me semble que mon coeur s'intéresse pour lui davantage.
 
--*who_fillon
-Je le connais apparemment.
+Ma chère Fillon, le voici. Je ne me suis jamais sentie si troublée.
 
-**** *book_ *id_I08 *act_I *date_1693
-
--*who_angelique
-Ma chère Fillon, le voici.
-Je ne me suis jamais sentie si troublée.
-
--*who_fillon
-La présence d'un joli homme remue terriblement les humeurs.
-
--*who_crispin
-Allons, courage, Monsieur, la voilà.
-
--*who_angelique
 Il ne viendra point nous aborder ?
 
--*who_fillon
-Je vais engager la conversation, laisse-moi faire.
-Que demandez-vous, Monsieur, des Livres nouveaux ?
-Voyez ici les affaires du temps ?
-L'amour à la mode ?
-
--*who_clitandre
-Que je sens d'émotion !
-
--*who_fillon
-Nous avons ce que vous cherchez, Monsieur, et l'on serait bien malheureux de ne pouvoir vous accommoder.
-
--*who_clitandre
-Il faudrait être étrangement difficile, et la seule conversation d'une si aimable personne...
-
--*who_angelique
 Voulez-vous voir, Monsieur, des réflexions nouvelles que l'on a faites sur les bonnes qualités des Dames ?
 
--*who_clitandre
-Je verrai tout ce qu'il vous plaira.
-
--*who_crispin
-Voilà un titre qui promet beaucoup.
-
--*who_fillon
-Pas trop, et je m'étonne, pour moi, qu'on en ait pu faire un volume.
-
--*who_clitandre
-Je ne suis pas de ce sentiment.
-Le mérite des Dames est un sujet qui me paraît inépuisable.
-Et l'Auteur de vos réflexions...
-
--*who_angelique
 C'est un jeune Abbé qui les a faites.
 
--*who_clitandre
-Un Abbé !
-Vous me surprenez, est-ce à ces Messieurs-là de réfléchir sur les manières d'un sexe, qu'il ne devraient pas regarder seulement ?
-
--*who_fillon
-Qu'ils ne devraient pas regarder !
-Ce sont ceux qui le connaissent le mieux, et qui s'attachent le plus à le connaître.
-Ils n'ont que cela à faire à la vérité.
-Comme ils n'épousent point, ils ne nous voient que du bon côté, et ne réfléchissent qu'à notre avantage.
-
--*who_clitandre
-Tout le monde réfléchit comme eux, et le mariage...
-
--*who_fillon
-Je ne sais ; mais, j'ai ouï dire que les maris et les Abbés ne réfléchissent pas de même, il y a bien de la différence.
-
--*who_angelique
 Je crois, pour moi...
 
--*who_fillon
-Tu m'en diras bientôt des nouvelles.
+Comment ! Expliquez-vous, Monsieur, quel intérêt...
 
--*who_clitandre
-Il est donc vrai qu'on la marie ?
-
--*who_fillon
-C'est une nouvelle si publique, qu'il serait inutile de vouloir en faire un mystère.
-
--*who_clitandre
-C'est une nouvelle bien terrible pour moi, je vous l'avoue.
-
--*who_angelique
-Comment !
-Expliquez-vous, Monsieur, quel intérêt...
-
--*who_crispin
-Il est extrêmement sensible à la moindre idée de mariage, et il prend les choses fort à coeur.
-
--*who_clitandre
-On vous marie, et je vous aime : jugez de l'état où je suis.
-
--*who_angelique
 Vous m'aimez, moi ?
 
--*who_clitandre
-Je vous adore, et je mourrai de désespoir.
+Si vous ne me parlez que par simple galanterie, je vous répondrai bien moi-même. Si vous parlez sérieusement, il faut s'adresser à mon père.
 
--*who_crispin
-Ho, Monsieur !
-Ne nous désespérons point avant les noces, et tâchons d'en être seulement.
-Il arrive quelquefois des choses qui font changer les résolutions désespérées.
-
--*who_fillon
-Il a raison, ne vous hâtez point tant de mourir, vous aurez toujours pour cela du temps de reste.
-La nouvelle qui vous alarme n'est encore que dans la Gazette, et la Gazette est souvent menteuse.
-
--*who_clitandre
-Et vous me confirmez vous-même...
-
--*who_fillon
-Hé !
-Vraiment ; oui.
-Les filles n'ont-elles pas aussi le même Privilège que la Gazette ?
-
--*who_clitandre
-Serait-il possible que...
-
--*who_fillon
-Croyez-moi, si le coeur vous en dit tout de bon, pour le premier ordinaire, on tâchera de lui faire dire la vérité.
-
--*who_clitandre
-Vous ne dites point ce que vous pensez là-dessus, belle Angélique ?
-
--*who_angelique
-Si vous ne me parlez que par simple galanterie, je vous répondrai bien moi-même.
-Si vous parlez sérieusement, il faut s'adresser à mon père.
-
--*who_fillon
-Es-tu folle ?
-C'est bien à un père à se mêler de cela.
-Quand on a une tante comme la tienne, c'est elle qu'il faut consulter par préférence ; et une femme se connaît toujours mieux en maris, que le plus habile homme du monde.
-
--*who_angelique
 Tu me donnes des conseils qui me font plaisir, et tu n'as pas de peine à me persuader.
 
--*who_clitandre
-Ah !
-Que mon bonheur est extrême, de vous trouver dans les dispositions...
+Mais, comment faire ? Je suis seule ; il vient ici du monde à tout moment, pour cette Gazette surtout ; s'ils ne trouvent personne ?
 
--*who_fillon
-Ho !
-Faites trêve à tous ces transports, s'il vous plaît.
-Nous sommes ici trop en vue, passons là-dedans, vous aurez tout le loisir de vous entretenir ensemble.
-On en sera quitte pour marchander quelque Livre, et pour l'acheter plus cher qu'il ne vaudra.
+Ma chère tante, vous m'avez promis...
 
--*who_crispin
-Voilà une petite personne qui parviendra, elle n'en fait mal à son âge.
 
--*who_angelique
-Mais, comment faire ?
-Je suis seule ; il vient ici du monde à tout moment, pour cette Gazette surtout ; s'ils ne trouvent personne ?
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
 
--*who_clitandre
-Crispin n'a qu'à demeurer, il nous rendra compte.
+Qu'est-ce que c'est donc que tout ceci, ma nièce ? J'apprends de belles nouvelles vraiment.
 
--*who_crispin
-Moi, Monsieur ?
-Vous savez que j'ai mess affaires.
+Votre père a-t-il perdu l'esprit, dites-moi, de vous faire mettre dans la Gazette ?
 
--*who_clitandre
-Comment, maraud ?
+Le bel endroit pour faire parler de soi ! Mort de ma vie, que cela part d'une cervelle bien sensée !
 
--*who_crispin
-Hé bien, voilà qui est fait, vous n'avez qu'à dire : n'êtes-vous pas le maître ?
+Le vieux fou ! Mais ce n'est rien encore que cette gazette : je voudrais bien savoir de quel droit il prétend vous marier sans m'en avoir parlé ?
 
--*who_fillon
+Une chose en l'air ! Ah, le ladre ! Oh je devine ce que c'est, moi, ma nièce. Votre père est un vilain, un avare, qui, de peur de se défaire de son bien, ne veut point se défaire de sa fille.
+
+Si je le connais ! Pour écarter les prétendants, il veut faire courir le bruit que vous êtes mariée.
+
+Mais pour contrecarrer sa gazette, je ferai afficher que vous êtes à marier, moi.
+
+Vraiment, il n'a pas affaire à une sotte. Il n'y a plus que lui et moi de la famille, je n'ai point d'enfants, il n'a que vous, et il ne vous marierait pas ! Mort de ma vie, avant que de mourir, je veux voir des rejetons de notre tige, moi, ma nièce.
+
+Votre grand-père était tout aussi ridicule que votre père, il voulait que je mourusse fille. Mais zeste, je me mariai toute seule en mon petit particulier, et je m'en suis fort bien trouvée, au moins.
+
+Voilà comme on attrape les pères, mes enfants, voilà comme on les attrape. Je ne vous donne pas de conseils, le Ciel m'en préserve : mais les exemples d'une tante ne sont quelquefois pas mauvais à suivre.
+
+Hé bien donc, parle-moi confidemment, là. N'y a-t-il point quelque jeune homme dans le monde que tu affectionnes plus qu'un autre ?
+
+Comment, non ? Mais tant pis, ma nièce, il faut pourtant bien prendre un parti, mon enfant.
+
+Veux-tu que je mêle de tes petites affaires, dis ? Je ne serai pas longtemps à trouver ce qu'il te faut, et un Contrat sera bientôt bâti.
+
+Qu'en dis-tu, parle ?
+
+Quoi, mais !
+
+Viens, mon enfant, tu me feras plaisir ; j'entre de tout mon coeur dans toutes les petites bagatelles de la jeunesse, il me semble que cela me rajeunit.
+
+Adieu, je vais faire un tour au banc de mon Procureur, et je repasserai peut-être par ici ; car je veux laver la tête à Monsieur mon frère.
+
+Je vous dis, mon frère, que je suis sa tante et que je prétends qu'on la marie, moi.
+
+Quoi, ma nièce se marie comme ça toute seule ?
+
+Est-il possible ?
+
+Les pauvres enfants !
+
+Paix, mon frère, vous ne savez ce que vous dites.
+
+Taisez-vous, vous dis-je, faites-les moi venir.
+
+Assurément.
+
+À la bonne heure, on n'en a que faire, je leur donnerai tout le mien, moi ; gardez votre argent, vieux ladre.
+
+On lui a bien de l'obligation.
+
+Venez, çà, ma nièce : approchez, Monsieur. Elle ne choisit pas trop mal, vraiment.
+
+Si je le veux ! Vous aimez ma nièce, ma nièce vous aime. Il n'y a rien de si dangereux que de ne vouloir pas ce que de jeunes filles veulent, mon Frère.
+
+Je te tiendrai parole.
+
+Vous voyez bien que c'est un homme de qualité, mon frère.
+
+Vous le voyez, mon frère, on ne pouvait pas mieux choisir. Allons, venez chez moi, Monsieur, et dépêchez-vous d'être mon neveu, je me charge d'y faire consentir mon frère.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fillon
+
+Ma mère est sortie. Je me suis lassée d'ourler des coiffes, et de montrer des rubans : je suis accourue pour te féliciter de ton mariage.
+
+Ah ! Que tu es heureuse, mon enfant, tu vas te marier !
+
+C'est donc ton père qui l'a faite ? Car il est, je crois, le seul à Paris, qui ait correspondance avec le Gazetier d'Hollande ; et je viens de voir cette nouvelle dans la gazette.
+
+Tu ris, je pense.
+
+Ah ; je commence à démêler la chose.
+
+Que la nouvelle est de ta façon.
+
+Que c'est toi-même qui l'as envoyée au Gazetier.
+
+Et que par là tu veux obliger quelqu'un de tes amants à se déclarer.
+
+Je te crois de l'amour, cela ne suffit-il pas pour rendre ingénieuse ? L'esprit ne m'est jamais venu que par là.
+
+La curiosité d'être mariée ; n'est-ce pas ? La même curiosité me tient, mon enfant.
+
+Explique-moi donc...
+
+Ah ! Que vous le connaissez bien, Madame.
+
+La bonne tante que voilà !
+
+Oh, vous en verrez, Madame, laissez faire.
+
+Assurément, il n'y arien à risquer, puisque vous vous en êtres bien trouvée.
+
+Cela viendra, Madame, ne vous mettez pas en peine.
+
+Cela n'est pas de refus, voyez.
+
+Le bon naturel !
+
+La bonne pâte de tante que voilà. Si j'avais seulement une arrière-cousine de la même humeur, je ne bougerais de chez elle, sut ma parole.
+
+Hé ! Que ne profites-tu de cette amitié, pour faire consentir ton père à te donner un mari ?
+
+Comment, est-ce le choix d'un amant qui t'embarrasse ? Et parmi le grand nombre de tes soupirants, as-tu peine à te déterminer en faveur de quelqu'un ? Montre-moi ta liste, voyons.
+
+Quoi, tu ne tiens pas registre de tes conquêtes ! Vraiment je suis bien plus coquette que toi : mais il m'importe, je connais à peu près tous ceux qui t'en veulent ; et pour moi, si j'étais à ta place, j'aurais plus de penchant pour le petit Avocat, que pour un autre.
+
+Assurément, il n'y a nulle comparaison à faire de lui avec ce petit étourdi de Chevalier, qui...
+
+Ah ! J'entends, voilà le fortuné. Il faut s'en tenir au petit Académiste : car pour cet apprentif Partisan, je ne crois pas...
+
+Mais, si tu aimes ainsi la discrétion de l'un, la violente passion de l'autre, et la délicatesse d'esprit du troisième, comment faire ? Tu ne peux pas les épouser tous trois ensemble. L'un après l'autre encore, quand on a du bonheur, il n'y a rien qui ne se puisse faite.
+
+Quoi, y en aurait-il un quatrième au-dessus de ceux-là ?
+
+Je le connais apparemment.
+
+La présence d'un joli homme remue terriblement les humeurs.
+
+Je vais engager la conversation, laisse-moi faire. Que demandez-vous, Monsieur, des Livres nouveaux ? Voyez ici les affaires du temps ? L'amour à la mode ?
+
+Nous avons ce que vous cherchez, Monsieur, et l'on serait bien malheureux de ne pouvoir vous accommoder.
+
+Pas trop, et je m'étonne, pour moi, qu'on en ait pu faire un volume.
+
+Qu'ils ne devraient pas regarder ! Ce sont ceux qui le connaissent le mieux, et qui s'attachent le plus à le connaître. Ils n'ont que cela à faire à la vérité. Comme ils n'épousent point, ils ne nous voient que du bon côté, et ne réfléchissent qu'à notre avantage.
+
+Je ne sais ; mais, j'ai ouï dire que les maris et les Abbés ne réfléchissent pas de même, il y a bien de la différence.
+
+Tu m'en diras bientôt des nouvelles.
+
+C'est une nouvelle si publique, qu'il serait inutile de vouloir en faire un mystère.
+
+Il a raison, ne vous hâtez point tant de mourir, vous aurez toujours pour cela du temps de reste. La nouvelle qui vous alarme n'est encore que dans la Gazette, et la Gazette est souvent menteuse.
+
+Hé ! Vraiment ; oui. Les filles n'ont-elles pas aussi le même Privilège que la Gazette ?
+
+Croyez-moi, si le coeur vous en dit tout de bon, pour le premier ordinaire, on tâchera de lui faire dire la vérité.
+
+Es-tu folle ? C'est bien à un père à se mêler de cela. Quand on a une tante comme la tienne, c'est elle qu'il faut consulter par préférence ; et une femme se connaît toujours mieux en maris, que le plus habile homme du monde.
+
+Ho ! Faites trêve à tous ces transports, s'il vous plaît. Nous sommes ici trop en vue, passons là-dedans, vous aurez tout le loisir de vous entretenir ensemble. On en sera quitte pour marchander quelque Livre, et pour l'acheter plus cher qu'il ne vaudra.
+
 Ne perdons point de temps, entrons.
 
-**** *book_ *id_I09 *act_I *date_1693
+Que vois-je ! Notre petit brutal de Chevalier ?
 
--*who_crispin
-La bonne chienne de commission qu'on me donne là !
-J'ai de mon côté aussi une maîtresse qui m'attend ; car, dans le Printemps, chacun est amoureux.
-Ah, que les valets sont misérables !
-Me voilà donc garçon Libraire malgré que j'en aie.
-Baste, les Marchands n'ont qu'à venir, je leur ferai bon marché : mais, je profiterai seul du débit, sur ma parole.
+Hé ! Monsieur le Chevalier, que faites-vous, vous n'y pensez pas.
 
-**** *book_ *id_I10 *act_I *date_1693
+C'est un des parents de Monsieur Guillemin, qui est ici depuis quelques jours pour ce mariage, apparemment.
 
--*who_crassin
-À ce que je puis juger, Monsieur, vous êtes Monsieur Guillemin, apparemment ?
+Paix, ne dites mot, son père le veut, mais cela n'est point encore fait. Elle est là avec un tas de cousins et de cousines qui sont d'ennuyeux personnages, et vous ne pouvez la voir à présent.
 
--*who_crispin
+Allez-vous-en chez sa tante, vous savez où elle demeure, dans une heure ou deux nous irons vous trouver ensemble.
+
+Je vous en assure.
+
+Ne vous mettez point en peine, et me laissez faire.
+
+Je serais bien fâchée que ce petit brutal eût trouvé là-dedans votre maître.
+
+Non, non, nous en voilà débarrassés.
+
+S'il vient quelque incommode, vous n'aurez qu'à m'appeler.
+
+Qu'est-ce qu'il y a ?
+
+Ah, ah !
+
+Je viens de la laisser là-dedans avec un jeune Monsieur, qui voudrait bien faire mettre dans la Gazette qu'il se marie.
+
+Oh, pardonnez-moi, Monsieur, c'est avec elle qu'il se veut marier.
+
+Oui, Madame, comme vous, en son petit particulier. C'est ce petit homme qu'elle affectionne plus qu'un autre ; qui est avec elle.
+
+Ils s'aiment tous deux à la folie.
+
+Si vous pouviez persuader cette maxime à ma mère, je vous aurais bien de l'obligation.
+
+Et la gazette aura dit vrai, tu seras mariée.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Comment donc faire, Monsieur de la Rose ?
+
+Il faut en trouver à quelque prix que ce soit.f
+
+Huit pistoles !
+
+Nous en serions bien plus avancés. Le beau commerce ! Je ne veux point de cela.
+
+Oh, finis comme tu l'entendras.
+
+Fort bien.
+
+Assurément.
+
+J'abandonne tout à votre conduite.
+
+Il faut bien se délasser à Paris des fatigues de la campagne.
+
+Ils sont bien en droit de se plaindre, vraiment ! On défend l'été leurs frontières, peuvent-ils trop payer l'hiver toutes les peines que se donnent les gens de qualités ?
+
+Voici Crispin, laisse-nous, et va m'attendre au logis : va vite.
+
+Hé bien, Crispin ?
+
+Le fâcheux contretemps ! J'étais bien résolu de lui parler cette fois-ci, je t'assure.
+
+Il faut pourtant me déclarer. Jamais passion ne fut égale à la mienne ; et s'il est vrai qu'on la marie, je ne sais ce que je deviendrai.
+
+Je suis amoureux de bonne foi, je te l'avoue, et mon amour m'occupe préférablement à toute autre chose.
+
+Je ne sais ce qui me retient.
+
+Je t'assure, Crispin, que quand son père sera sorti, je n'hésiterai point à lui faire un sincère aveu de la tendresse que j'ai pour elle.
+
+Demeure donc ici, toi, et prends bien garde...
+
+Que je sens d'émotion !
+
+Il faudrait être étrangement difficile, et la seule conversation d'une si aimable personne...
+
+Je verrai tout ce qu'il vous plaira.
+
+Je ne suis pas de ce sentiment. Le mérite des Dames est un sujet qui me paraît inépuisable. Et l'Auteur de vos réflexions...
+
+Un Abbé ! Vous me surprenez, est-ce à ces Messieurs-là de réfléchir sur les manières d'un sexe, qu'il ne devraient pas regarder seulement ?
+
+Tout le monde réfléchit comme eux, et le mariage...
+
+Il est donc vrai qu'on la marie ?
+
+C'est une nouvelle bien terrible pour moi, je vous l'avoue.
+
+On vous marie, et je vous aime : jugez de l'état où je suis.
+
+Je vous adore, et je mourrai de désespoir.
+
+Et vous me confirmez vous-même...
+
+Serait-il possible que...
+
+Vous ne dites point ce que vous pensez là-dessus, belle Angélique ?
+
+Ah ! Que mon bonheur est extrême, de vous trouver dans les dispositions...
+
+Crispin n'a qu'à demeurer, il nous rendra compte.
+
+Comment, maraud ?
+
+Si j'étais assez heureux, Monsieur, pour vous faire approuver le dessein...
+
+Puisque c'est à vous qu'il faut s'adresser, Madame...
+
+Que veux dire ceci ? Crispin ?
+
+Que veut donc dire cette mascarade ?
+
+Crispin, veux-tu parler ?
+
+Comment, coquin...
+
+Je ne prétends pas y mener personne par force. Otez-leur, cet équipage, Monsieur de la Rose.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
+Son père est avec elle, Monsieur, il n'y a rien à faire.
+
+Cela est admirable ! Quand elle est seule, la timidité vous prend : quand le père y est, vous vous croyez de la résolution.
+
+Par ma foi, Monsieur, je ne vous comprends point. Vous êtes un fort joli homme de qualité, fort jeune et fort connu de quantité de coquettes, que vous n'aimez que... comme il faut aimer des coquettes. Dans toutes vos intrigues de l'hiver, vous n'avez employé que Monsieur de la Rose, votre Sergent, et vous m'employez à présent, moi. Vous devenez sérieusement amoureux d'une grisette : la petite fille d'un Libraire triomphe de votre insensibilité, vous négligez pour elle toutes vos affaires, vous oubliez votre devoir : il vous manque quatre ou cinq soldats, que Monsieur de la Rose et moi, nous trouverions pourtant moyen de faire. Il y a quinze jours que nous devrions être au Régiment, et vous ne songez point à tout cela.
+
+Hé, pourquoi donc ne pas parler ? Que craignez-vous ? Les petites filles du Palais entendent le français, Monsieur, je vous en réponds.
+
+Hé, que diable, un Capitaine doit-il être aussi bourgeoisement amoureux que vous l'êtes ?
+
+Nous verrons : mais en attendant pour ne point demeurer inutile, allez-vous-en prendre chez votre usurier cinq cents écus qu'on vous fait passer pour mille ; peut-être que demain il ne voudrait plus vous donner que cent pistoles.
+
+J'aurai l'oeil au guet, et prendrai soin de vous avertir, adieu.
+
+Par ma foi les jeunes gens vraiment amoureux, sont aussi sots qu'ils sont indolents quand ils n'aiment que par manière de conversation. Mais voici notre jeune maîtresse, et son vieux bonhomme de père.
+
+Bon, le voilà parti ; courons après mon maître, l'occasion ne saurait être meilleure pour son dessein.
+
+Allons, courage, Monsieur, la voilà.
+
+Voilà un titre qui promet beaucoup.
+
+Il est extrêmement sensible à la moindre idée de mariage, et il prend les choses fort à coeur.
+
+Ho, Monsieur ! Ne nous désespérons point avant les noces, et tâchons d'en être seulement. Il arrive quelquefois des choses qui font changer les résolutions désespérées.
+
+Voilà une petite personne qui parviendra, elle n'en fait mal à son âge.
+
+Moi, Monsieur ? Vous savez que j'ai mess affaires.
+
+Hé bien, voilà qui est fait, vous n'avez qu'à dire : n'êtes-vous pas le maître ?
+
+La bonne chienne de commission qu'on me donne là ! J'ai de mon côté aussi une maîtresse qui m'attend ; car, dans le Printemps, chacun est amoureux. Ah, que les valets sont misérables ! Me voilà donc garçon Libraire malgré que j'en aie. Baste, les Marchands n'ont qu'à venir, je leur ferai bon marché : mais, je profiterai seul du débit, sur ma parole.
+
 Que lui voulez-vous, à Monsieur Guillemin ?
 
--*who_crassin
-Je lui apporte un trésor, Monsieur.
-
--*who_crispin
 Hé bien, je suis Monsieur Guillemin, sans contredit.
 
--*who_crassin
-On m'a adressé à vous, Monsieur, comme au plus habile homme qu'il y ait dans toute la République des Lettres.
-
--*who_crispin
 Je passe pour cela.
 
--*who_crassin
-Comme au meilleur connaisseur de tous les Auteurs anciens et modernes.
-
--*who_crispin
 On ne vous a pas trompé.
 
--*who_crassin
-Comme à un homme qui sait parfaitement le prix des ouvrages, et qui les achète toujours plus qu'un autre.
+Comment acheter ! Que voulez-vous dire ? Vous vous méprenez, assurément ; je suis le Monsieur Guillemin qui vend, je ne suis point celui qui achète.
 
--*who_crispin
-Comment acheter !
-Que voulez-vous dire ?
-Vous vous méprenez, assurément ; je suis le Monsieur Guillemin qui vend, je ne suis point celui qui achète.
+Qu'est-ce à dire, lisez ? Parbleu, lisez vous-même.
 
--*who_crassin
-Ah, Monsieur !
-Vous perdez une fortune, si vous refusez le manuscrit que je vous apporte.
-Le titre seul vaut deux cents pistoles, lisez.
-
--*who_crispin
-Qu'est-ce à dire, lisez ?
-Parbleu, lisez vous-même.
-
--*who_crassin
-Sans colère, Monsieur.
-
--*who_crispin
-Sans colère !
-Lisez, lisez, il croit parler à son valet.
+Sans colère ! Lisez, lisez, il croit parler à son valet.
 Voilà un drôle assez bien bâti, il nous faut des soldats.
 Je prendrai votre Livre.
 
--*who_crassin
-Il faut que vous en entendiez la lecture, et que...
+Non, Monsieur, quoique je m'y connaisse, j'ai un commis pour ces sortes de choses à qui je vais vous adresser. Dites-moi votre nom auparavant.
 
--*who_crispin
-Non, Monsieur, quoique je m'y connaisse, j'ai un commis pour ces sortes de choses à qui je vais vous adresser.
-Dites-moi votre nom auparavant.
-
--*who_crassin
-Eustache Crassin, pour vous rendre service.
-
--*who_crispin
 Vos qualités ?
 
--*who_crassin
-Docteur en droit, Maître ès Arts, et Répétiteur général des humanités.
-
--*who_crispin
 Hé bien, Monsieur Eustache Crassin, allez-vous-en ici près, rue du Coeur-Volant, à l'Hôtel de Normandie, et demandez Monsieur de la Rose ; je me donne au diable, s'il vous quitte que vous n'ayez fait affaire ensemble.
 
--*who_crassin
-Mais, pour convenir du prix, il faudrait...
+Il vous donnera de l'argent d'avance ? Ne perdez point de temps, allez vite. Oh, par ma foi, Monsieur le Docteur, vous aurez la bonté se porter le mousquet dans le Régiment de Champagne.
 
--*who_crispin
-Il vous donnera de l'argent d'avance ?
-Ne perdez point de temps, allez vite.
-Oh, par ma foi, Monsieur le Docteur, vous aurez la bonté se porter le mousquet dans le Régiment de Champagne.
-
-**** *book_ *id_I11 *act_I *date_1693
-
--*who_lacomtesse
-La boutique de Monsieur Guillemin ?
-Enseignez-moi, Monsieur, le Bureau d'adresse de la Gazette, je vous prie.
-
--*who_crispin
 C'est ici, Madame.
 
--*who_lacomtesse
-Mais, vous n'êtes pas Monsieur Guillemin, vous, Monsieur ?
-Car je le connais de vue.
-
--*who_crispin
 Vous le connaissez ?
 
--*who_lacomtesse
-Oui vraiment.
-
--*who_crispin
 En ce cas-là, je ne suis pas lui, je ne suis que son Commis.
 
--*who_lacomtesse
-Il n'importe, vous ferez mon affaire.
+De quoi s'agit-il ? Voyons.
 
--*who_crispin
-De quoi s'agit-il ?
-Voyons.
-
--*who_lacomtesse
-Je veux faire mettre dans la Gazette une chose qui n'est pas encore : mais qui sera bientôt, si j'en suis crue.
-
--*who_crispin
 Vous n'avez qu'à parler, Madame.
 
--*who_lacomtesse
-Voici le fait, mon cher Monsieur ; pour faire enrager des parents mal intentionnés qui comptent trop sur ma succession, je me suis mariée depuis trois mois incognito.
-
--*who_crispin
 Vous voulez qu'on mette votre mariage dans la Gazette, peut-être ?
 
--*who_lacomtesse
-Non, Monsieur, ce sont les suites du mariage qu'il y faut mettre.
-
--*who_crispin
 Comment les suites !
 
--*who_lacomtesse
-Oui vraiment les suites : ma famille ne craint rien tant, que de me voir un petit héritier, et je fais tout mon possible pour leur donner ce chagrin-là.
-
--*who_crispin
 Ah, que vous êtes mièvre, Madame !
 
--*who_lacomtesse
-J'y réussirai, je vous en donne ma parole : mais je viens, comme je vous ai dit, vous prier d'avance par un heureux présage, de faire mettre dans votre gazette que c'est une chose faite, et que j'ai des indices de grossesse.
+Voilà une nouvelle fort importante, et qui tiendra bien son coin dans l'article de Paris, je vous en réponds. Votre nom, Madame, s'il vous plaît ?
 
--*who_crispin
-Voilà une nouvelle fort importante, et qui tiendra bien son coin dans l'article de Paris, je vous en réponds.
-Votre nom, Madame, s'il vous plaît ?
-
--*who_lacomtesse
-Ma famille est la Garoussière, Monsieur ; le nom de mon mari, le Vicomte de Mirebalais.
-Marquez bien tout cela, je vous prie.
-
--*who_crispin
 Vous savez, Madame...
 
--*who_lacomtesse
-Oui, Monsieur, et voilà déjà deux pistoles pour cette prétendue grossesse.
+Deux pistoles ! Ce n'est guère, et voilà un enfant qu'on vous fait à bon marché : mettez-en quatre, nous ferons venir le petit Mirebalais au monde, ce sera toujours autant de fait.
 
--*who_crispin
-Deux pistoles !
-Ce n'est guère, et voilà un enfant qu'on vous fait à bon marché : mettez-en quatre, nous ferons venir le petit Mirebalais au monde, ce sera toujours autant de fait.
+Qu'est-ce que cela fait ? Oh, il arrive tous les jours des choses plus extraordinaires.
 
--*who_lacomtesse
-Cela ne se pourrait pas vraiment, il n'y a pas un mois que je suis mariée.
+Je ne suis plus si fâché de garder la boutique ; nous ferons notre recrue, et j'aurai de l'argent de reste. Qu'est-ce encore que ceci ? Voilà un espèce de Procureur d'assez bonne façon.
 
--*who_crispin
-Qu'est-ce que cela fait ?
-Oh, il arrive tous les jours des choses plus extraordinaires.
-
--*who_lacomtesse
-Non, Monsieur, commençons par un bout, et nous finirons par l'autre.
-Adieu, Monsieur, si la nouvelle fait mourir de chagrin quelqu'un de mes parents, je ne serai point ingrate d'un si bon office.
-
-**** *book_ *id_I12 *act_I *date_1693
-
--*who_crispin
-Je ne suis plus si fâché de garder la boutique ; nous ferons notre recrue, et j'aurai de l'argent de reste.
-Qu'est-ce encore que ceci ?
-Voilà un espèce de Procureur d'assez bonne façon.
-
-**** *book_ *id_I13 *act_I *date_1693
-
--*who_robichon
-Monsieur Guillemin n'est pas ici Monsieur ?
-
--*who_crispin
 Non, Monsieur : mais je tiens sa place, et je suis comme lui à votre service, vous n'avez qu'à me dire votre affaire.
 
--*who_robichon
-Il me connaît, au moins, je m'appelle Monsieur Robichon.
+Monsieur Robichon ! Hé parbleu, c'est justement le mari d'une des maîtresses que mon maître avait cet hiver.
+En vérité, Monsieur, je suis ravi d'avoir l'honneur de saluer un homme d'un aussi grand mérite. Nous ne nous étions jamais vus, et je ne vous connaissais que de réputation.
 
--*who_crispin
-Monsieur Robichon !
-Hé parbleu, c'est justement le mari d'une des maîtresses que mon maître avait cet hiver.
-En vérité, Monsieur, je suis ravi d'avoir l'honneur de saluer un homme d'un aussi grand mérite.
-Nous ne nous étions jamais vus, et je ne vous connaissais que de réputation.
-
--*who_robichon
-Monsieur, je suis votre serviteur.
-
--*who_crispin
 Vous avez quelque chose à faire mettre dans la Gazette apparemment ?
 
--*who_robichon
-Oui, Monsieur, une affaire d'honneur.
-J'ai eu le bonheur de prouver la mauvaise conduite de ma femme, et le crédit de la faire enfermer.
-Je viens de la mettre dans un Couvent.
+C'est justement notre homme. Nous vengerons Madame Robichon, sur ma parole.
 
--*who_crispin
-C'est justement notre homme.
-Nous vengerons Madame Robichon, sur ma parole.
-
--*who_robichon
-Comment, que dites-vous, Monsieur ?
-
--*who_crispin
 Je dis que vous vous êtes glorieusement tiré d'affaire.
 
--*who_robichon
-Voilà, Dieu merci, la quatrième femme contre qui je gagne un semblable procès, cela n'est pas malheureux, n'est-il pas vrai ?
-
--*who_crispin
 Assurément.
 
--*who_robichon
-Nous avons de l'honneur dans nitre famille ; et je suis bien aise que toute la terre sache de quel bois les Robichons se chauffent.
-
--*who_crispin
 La peste !
 
--*who_robichon
-Il m'est important qu'on soit informé que j'ai de bonnes raisons pour cloîtrer ma femme.
-Je ne prétends point passer pour un visionnaire, moi.
-
--*who_crispin
 C'est prendre la chose comme il faut ; et de quels termes nous servirons-nous, s'il vous plaît ?
 
--*who_robichon
-Il faudra mettre tout simplement que Maître Claude Robichon, Procureur, a fait enfermer Madame sa femme, pour des causes... bien et dûment vérifiées en pleine audience : qu'en dites-vous ?
-Cela justifiera ma conduite.
-
--*who_crispin
 Assurément : laissez-moi faire, je vais vous enseigner un homme dont je me sers ordinairement pour tourner galamment les choses ; on n'a qu'à lui dire son affaire, et l'on envoie l'article tout dressé au Gazetier, il ne vous en coûtera pas davantage.
 
--*who_robichon
-Voilà un louis d'or neuf.
-
--*who_crispin
 Non, Monsieur Robichon, je suis votre serviteur, et je ferais conscience de prendre votre argent.
 
--*who_robichon
-Mais, Monsieur...
-
--*who_crispin
 Non, vous dis-je, je n'en prendrai point ; allez-vous-en de ce pas à l'Hôtel de Normandie.
 
--*who_robichon
-Rue du Coeur-Volant, n'est-ce pas ?
-Je vois cela d'ici.
-
--*who_crispin
 De ma part Monsieur de la Rose, et dites-lui seulement que c'est Monsieur de la Crispinière qui vous envoie.
 
--*who_robichon
-Monsieur de la Crispinière ?
-
--*who_crispin
 Oui, Crispin de la Crispinière, tout comme vous voudrez ; il entendra bien ce que cela veut dire, et il vous expédiera sur-le-champ, je vous en réponds.
 
--*who_robichon
-Au moins, Monsieur, que je sois dans le premier ordinaire.
-
--*who_crispin
 Si vous n'y êtes pas, ce ne sera pas ma faute.
 
--*who_robichon
-Monsieur, je vous baise les mains de tout mon coeur.
-
--*who_crispin
 Votre valet, Monsieur Robichon.
 
-**** *book_ *id_I14 *act_I *date_1693
+Oh, par ma foi vous viendrez en Flandre. Vous faites enfermer les gens pour des bagatelles : je me donne au diable si vous avez votre congé, qu'en nous donnant celui de votre femme.
 
--*who_crispin
-Oh, par ma foi vous viendrez en Flandre.
-Vous faites enfermer les gens pour des bagatelles : je me donne au diable si vous avez votre congé, qu'en nous donnant celui de votre femme.
+Ah, ah ! En voici un que je n'enrôlerai point, sur ma parole.
 
-**** *book_ *id_I15 *act_I *date_1693
-
--*who_lechevalier
-Je m'alarme mal à propos.
-Ce mariage est sans apparence.
-
--*who_crispin
-Ah, ah !
-En voici un que je n'enrôlerai point, sur ma parole.
-
--*who_lechevalier
-Angélique m'en aurait parlé.
-
--*who_crispin
 Il m'a tout l'air d'enrôler les autres.
 
--*who_lechevalier
-Qui est cet homme-là ?
-Il me semble que je l'ai vu souvent rôder autour d'ici.
-
--*who_crispin
 Il m'examine diablement.
 
--*who_lechevalier
-Que fait-il seul dans la boutique de Monsieur Guillemin ?
+Je le reconnais, c'est un des soupirants de la petite fille à qui en veut mon maître. Il ne faut pas qu'il aille troubler la conversation.
 
--*who_crispin
-Je le reconnais, c'est un des soupirants de la petite fille à qui en veut mon maître.
-Il ne faut pas qu'il aille troubler la conversation.
-
--*who_lechevalier
-Depuis que j'ai lu cette malheureuse gazette, je suis le plus bourru des hommes, et tout le monde m'est suspect d'avoir part au mariage qui me chagrine.
-Qui êtes-vous ?
-Demandez-vous ici quelque chose ?
-
--*who_crispin
 Non vraiment, c'est vous qui demandez, au contraire.
 
--*who_lacomtesse
-C'est moi, dites-vous, qui ?...
-
--*who_crispin
 Oui, Monsieur, ne demandez-vous pas qui je suis ?
 
--*who_lacomtesse
-Ah, ah !
-Vous attendez quelqu'un, apparemment ?
-
--*who_crispin
 Oui, Monsieur.
 
--*who_lacomtesse
-Et qui encore ?
+Le premier venu. Je ne vous attendais pas, et vous voilà pourtant.
 
--*who_crispin
-Le premier venu.
-Je ne vous attendais pas, et vous voilà pourtant.
-
--*who_lacomtesse
-Vous connaissez Mademoiselle Angélique ?
-
--*who_crispin
 Je ne m'étais pas trompé, c'est un de nos rivaux, ceci ne finira pas bien.
 
--*who_lacomtesse
-Plaît-il ?
-
--*who_crispin
 Si je la connais, je ne la connais guère.
 
--*who_lacomtesse
-Hé !
-Que faites-vous donc seul ici ?
+Ce que j'y fais ? Hé parbleu, je réponds à vos questions.
 
--*who_crispin
-Ce que j'y fais ?
-Hé parbleu, je réponds à vos questions.
-
--*who_lacomtesse
-Ouais, voici un maroufle qui me paraît bien raisonneur.
-
--*who_crispin
 Voilà un jeune drôle bien interrogeant à ce qu'il me semble.
 
--*who_lacomtesse
-Savez-vous bien, mon cher, que vos réponses me déplaisent ?
-
--*who_crispin
 Voulez-vous bien, Monsieur, que je vous dise que vos questions me fatiguent.
 
--*who_lacomtesse
-Je veux absolument savoir qui vous êtes, et ce que vous faites ici.
-
--*who_crispin
 Monsieur, Monsieur, point de bruit enfin, car voyez-vous, cela suffit.
 
-**** *book_ *id_I16 *act_I *date_1693
-
--*who_fillon
-Que vois-je !
-Notre petit brutal de Chevalier ?
-
--*who_lacomtesse
-Oh, si vous ne parlez...
-
--*who_fillon
-Hé !
-Monsieur le Chevalier, que faites-vous, vous n'y pensez pas.
-
--*who_lacomtesse
-Ah, ma chère Fillon, j'enrage !
-Qui est cet homme-là ?
-Dites-le moi, je vous prie.
-Soit par raison, ou par caprice, sa présence me fait une peine horrible.
-
--*who_crispin
 Par ma foi, la vôtre ne me plaît guère.
 
--*who_fillon
-C'est un des parents de Monsieur Guillemin, qui est ici depuis quelques jours pour ce mariage, apparemment.
-
--*who_lacomtesse
-Comment ?
-Il est donc vrai qu'Angélique se marie ?
-
--*who_fillon
-Paix, ne dites mot, son père le veut, mais cela n'est point encore fait.
-Elle est là avec un tas de cousins et de cousines qui sont d'ennuyeux personnages, et vous ne pouvez la voir à présent.
-
--*who_lacomtesse
-Il faut pourtant que je lui parle.
-
--*who_fillon
-Allez-vous-en chez sa tante, vous savez où elle demeure, dans une heure ou deux nous irons vous trouver ensemble.
-
--*who_lacomtesse
-Vous me le promettez ?
-
--*who_fillon
-Je vous en assure.
-
--*who_lacomtesse
-Dites-lui bien que si elle obéit à son père, elle me mettra au désespoir, et que je ne vaux rien à désespérer.
-
--*who_fillon
-Ne vous mettez point en peine, et me laissez faire.
-
--*who_lacomtesse
-Qu'elle y songe.
-Je vais vous attendre.
-
-**** *book_ *id_I17 *act_I *date_1693
-
--*who_crispin
 Par ma foi, vous avez bien fait de venir ; j'aurais tout avoué de peur d'être battu.
 
--*who_fillon
-Je serais bien fâchée que ce petit brutal eût trouvé là-dedans votre maître.
+Vous avez raison, deux brutaux ensemble ne se font guère de civilité. En viendra-t-il encore quelqu'un de ce caractère-là ?
 
--*who_crispin
-Vous avez raison, deux brutaux ensemble ne se font guère de civilité.
-En viendra-t-il encore quelqu'un de ce caractère-là ?
-
--*who_fillon
-Non, non, nous en voilà débarrassés.
-
--*who_crispin
 Je laisserais tout là, le diable m'emporte.
 
--*who_fillon
-S'il vient quelque incommode, vous n'aurez qu'à m'appeler.
+Cela vaut fait. Qui est ce grand benêt-ci ?
 
--*who_crispin
-Cela vaut fait.
-Qui est ce grand benêt-ci ?
-
-**** *book_ *id_I18 *act_I *date_1693
-
--*who_chonchon
-Bonjour, Monsieur, comment vous portez-vous ?
-
--*who_crispin
 Il ne sera pas si méchant que l'autre.
 
--*who_chonchon
-Comme vous me regardez !
-Vous ne me connaissez pas ?
-
--*who_crispin
 Non pas que je sache.
 
--*who_chonchon
-Je ne vous connais pas non plus : mais je sais pourtant bien qui vous êtes.
-
--*who_crispin
 À la bonne heure.
 
--*who_chonchon
-Voilà deux écus que je vous apporte pour mettre quelque chose dans la gazette.
-Vous êtes Monsieur Guillemin, n'est-ce pas ?
-
--*who_crispin
 Oui vraiment, je le suis, donnez.
 
--*who_chonchon
-Pour vous expliquez la chose, c'est que mon père est un Huissier à Verge, qui s'appelle Nicolas le Goinfre ; et moi, qui ne suis qu'apprentif Procureur, je m'appelle Jacob le Goinfre, à votre service.
-
--*who_crispin
 Vous êtes le fils de Monsieur le Goinfre, l'Huissier à Verge ?
 
--*who_chonchon
-Oui, justement, il est mon père ; et de là je conclus que je suis son fils, comme vous dites.
+J'en suis bien aise. De quoi s'agit-il ? Dépêchons.
 
--*who_crispin
-J'en suis bien aise.
-De quoi s'agit-il ?
-Dépêchons.
-
--*who_chonchon
-De faire enrager mon père et ma mère, je vous ai choisi pour m'aider à cela.
-
--*who_crispin
 Oui, mais cela vaut plus de deux écus, au moins.
 
--*who_chonchon
-Point du tout, il n'y a rien de plus facile.
-Il ne faut que mettre dans la gazette que mon oncle le paysan, qui est le frère de mon père, est arrivé ces jours-ci chez nous, et que ma mère, qui veut être jeune, est fâchée qu'il soit venu, parce qu'il sait par coeur son baptistaire.
-
--*who_crispin
 Cela y sera.
 
--*who_chonchon
-On m'a fait une friponnerie dont on se repentira.
-
--*who_crispin
 Une friponnerie ?
 
--*who_chonchon
-Oh, dame oui, une friponnerie, mon père est un maître Sergent, je vous en avertis.
-J'ai un frère qu'on aime mieux que moi ; Je suis pourtant plus beau garçon que lui, je suis plus grand : mais ils disent que je n'ai pas d'intelligence.
-Qu'est-ce que cela fait ?
-Je n'ai que vingt-huit ans, cela me viendra, n'est-il pas vrai, Monsieur Guillemin ?
+Assurément. Votre frère est un garçon d'esprit apparemment ?
 
--*who_crispin
-Assurément.
-Votre frère est un garçon d'esprit apparemment ?
-
--*who_chonchon
-Je vous en réponds, il fait des ouvrages...
-
--*who_crispin
 Comment, des ouvrages...
 
--*who_chonchon
-Oui, pour se gausser des uns et des autres, il invente je ne sais combien de sottises qui font rire.
-
--*who_crispin
 Cela est fort agréable, vraiment.
 
--*who_chonchon
-Oui, mais comme tout le monde n'aime pas à rire, il y a eu un petit mutin qui m'a donné des coups de bâtons, à moi, à cause de l'esprit de mon frère.
-
--*who_crispin
 Cela ne vaut pas le diable.
 
--*who_chonchon
-Il a été bien attrapé ; car il a pris l'un pour l'autre, voyez-vous.
-
--*who_crispin
 Et vous avez pâti de la méprise ?
 
--*who_chonchon
-Oui, vraiment, et je n'en ai pas eu le profit.
-
--*who_crispin
 Et comment le profit !
 
--*who_chonchon
-C'est là le hic, Monsieur Guillemin.
-Comme mon père est du métier, il a poussé cette affaire.
-Oh dame !
-On ne nous rosse pas comme çà, nous autres, qu'on n'ait la bonté de le bien payer.
-
--*who_crispin
 Hé bien ?
 
--*who_chonchon
-Hé bien, en vertu des coups que j'ai reçus, moi, on a baillé de l'argent à mon frère, cela n'est pas juste, comme vous voyez.
-
--*who_crispin
 Non vraiment.
 
--*who_chonchon
-Aussi j'appelle de cet accommodement-là : et malgré mon père et ma mère qui m'en veulent, je prétends bien intervenir.
-
--*who_crispin
 Vous avez raison.
 
--*who_chonchon
-Par la morbleu, Monsieur Guillemin, si l'on ne me fait justice, je m'enrôlerai, et puis après nous verrons beau jeu.
-Je suis plus propre à la guerre qu'à toute autre chose, moi.
+Assurément, et c'est le bon parti que la guerre. Où voudriez-vous servir ? Vous n'avez qu'à dire, dans l'Infanterie ? Dans la Cavalerie, ou dans les Dragons ?
 
--*who_crispin
-Assurément, et c'est le bon parti que la guerre.
-Où voudriez-vous servir ?
-Vous n'avez qu'à dire, dans l'Infanterie ?
-Dans la Cavalerie, ou dans les Dragons ?
-
--*who_chonchon
-Oh non, Monsieur Guillemin, je veux servit dans les Capitaines.
-
--*who_crispin
 Dans les Capitaines, soit, je ferai votre affaire.
 
--*who_chonchon
-Hé je vous prie.
-Si vous connaissez quelque Seigneur de la Cour, qui lève un Régiment de Capitaines, parlez-lui de moi, je suis son homme.
-
--*who_crispin
 Cela vaut fait, allez-vous-en seulement trouver de ma part Monsieur de la Rose.
 
--*who_chonchon
-Monsieur de la Rose ?
-Voilà un nom qui me réjouit.
-
--*who_crispin
 C'est un fort galant homme, diable ; il demeure ici près, rue du Coeur-Volant, à l'Hôtel de Normandie ; il vous fera Capitaine en moins d'un moment, je vous en réponds.
 
--*who_chonchon
-Je lui aurai bien de l'obligation ; et quand je le serai une fois, si mon frère ne me baille pas ma part de l'argent, je lui baillerai sa part des coups de bâton, moi.
-Oh, je suis un petit drôle qui n'entend point de raillerie.
-Serviteur, Monsieur Guillemin, je vais faire vos compliments à Monsieur de la Rose.
-
--*who_crispin
 Adieu, Monsieur Jacob le Goinfre.
 
-**** *book_ *id_I19 *act_I *date_1693
+Nous ferons un assez bon Piquier de Monsieur le Capitaine. Avec tout cela, mon Maître n'est pas malheureux, il fait l'amour ; et moi, je fais sa Compagnie.
 
--*who_crispin
-Nous ferons un assez bon Piquier de Monsieur le Capitaine.
-Avec tout cela, mon Maître n'est pas malheureux, il fait l'amour ; et moi, je fais sa Compagnie.
-
-**** *book_ *id_I20 *act_I *date_1693
-
--*who_lamarquise
-Mon cher Monsieur, je n'ai recours qu'à vous, donnez-moi la santé, le repos de la vie.
-
--*who_crispin
 Nous ne vendons point de cela, Madame.
 
--*who_lamarquise
-Comment, n'êtes-vous pas, Monsieur, le correspondant de la Gazette ?
-
--*who_crispin
 Oui, Madame, mais...
 
--*who_lamarquise
-Hé !
-Mon bonheur, ma tranquillité, tout dépend de vous, mon cher Monsieur.
+Voilà une recrue qui accommoderait assez le Régiment. Voyons, Madame, de quoi s'agit-il ?
 
--*who_crispin
-Voilà une recrue qui accommoderait assez le Régiment.
-Voyons, Madame, de quoi s'agit-il ?
+Ah, ah ! Et qu'est-ce que la Gazette peut pour votre service ?
 
--*who_lamarquise
-D'un volage, d'un perfide, d'un scélérat que j'aime à la fureur, et qui depuis trous mois, ne m'a pas écrit ce qu'il est devenu, seulement.
+Vous n'avez qu'à faire afficher, Madame, Amant perdu. Trente pistoles à gagner. Vous retrouverez votre homme sur ma parole.
 
--*who_crispin
-Ah, ah !
-Et qu'est-ce que la Gazette peut pour votre service ?
-
--*who_lamarquise
-Je m'en vais vous le dire.
-Faites-y mettre, je vous en conjure, que la Marquise d'Ormesec donnera trente pistoles à qui pourra lui dire des nouvelles certaines du Chevalier de Dubartas son amant.
-
--*who_crispin
-Vous n'avez qu'à faire afficher, Madame, Amant perdu.
-Trente pistoles à gagner.
-Vous retrouverez votre homme sur ma parole.
-
--*who_lamarquise
-Non, Monsieur, il n'y a que le peuple qui lit les affiches, et mon Chevalier m'a été volé par quelque femme de con séquence.
-
--*who_crispin
 C'est donc un joli homme, apparemment ?
 
--*who_lamarquise
-C'est le plus beau brun qu'il y ait au monde.
-
--*who_crispin
 Et de quelle profession est-il, Madame ?
 
--*who_lamarquise
-Il est Gascon, c'est tout ce que j'en sais.
+La peste ! C'est un bon métier ; mais, que fait-il ordinairement ?
 
--*who_crispin
-La peste !
-C'est un bon métier ; mais, que fait-il ordinairement ?
-
--*who_lamarquise
-Il ne fait rien, Monsieur, il vit de mes rentes.
-
--*who_crispin
 Comment de vos rentes ?
 
--*who_lamarquise
-Oui vraiment.
-Dans l'espérance de l'épouser, je lui ai donné un bon Contrat de mille écus de revenus ; et voyez le malheur, je ne l'ai pas revu depuis.
-
--*who_crispin
 Oh, je vous le ferai retrouver, ne vous mettez pas en peine.
 
--*who_lamarquise
-Que je vous aurai d'obligation !
-Voilà déjà quatre pistoles que je vous donne.
-Si je retrouve mon Chevalier, je vous donnerai tout ce qu'il vous plaira.
+La pauvre Dame, elle a fait une grosse perte ! En été, les chevaliers sont rares à Paris, les meilleurs sont sur la frontière. Malepeste, c'est le bonhomme, st, st.
 
-**** *book_ *id_I21 *act_I *date_1693
-
--*who_crispin
-La pauvre Dame, elle a fait une grosse perte !
-En été, les chevaliers sont rares à Paris, les meilleurs sont sur la frontière.
-Malepeste, c'est le bonhomme, st, st.
-
-**** *book_ *id_I22 *act_I *date_1693
-
--*who_monsieurguillemin
-Je vous dis, ma soeur, que je suis son père, et je ne veux point la marier.
-
--*who_madamepernelle
-Je vous dis, mon frère, que je suis sa tante et que je prétends qu'on la marie, moi.
-
--*who_crispin
 Parbleu, venez donc si vous voulez.
 
-**** *book_ *id_I23 *act_I *date_1693
-
--*who_fillon
-Qu'est-ce qu'il y a ?
-
--*who_crispin
 Ne voyez-vous pas que c'est un incommode ?
 
--*who_fillon
-Ah, ah !
-
--*who_monsieurguillemin
-Ouais, ma fille n'est point ici.
-Que veut cet homme ?
-Mademoiselle Fillon, où est Angélique ?
-
--*who_fillon
-Je viens de la laisser là-dedans avec un jeune Monsieur, qui voudrait bien faire mettre dans la Gazette qu'il se marie.
-
--*who_monsieurguillemin
-Cela n'est pas bien difficile, et ce n'est pas là-dedans qu'il faut être pour cela.
-
--*who_fillon
-Oh, pardonnez-moi, Monsieur, c'est avec elle qu'il se veut marier.
-
--*who_monsieurguillemin
-Avec elle, sans mon consentement !
-Qu'est-ce à dire ?
-
--*who_crispin
 Voilà une affaire qui ne traîne point.
 
--*who_madamepernelle
-Quoi, ma nièce se marie comme ça toute seule ?
-
--*who_fillon
-Oui, Madame, comme vous, en son petit particulier.
-C'est ce petit homme qu'elle affectionne plus qu'un autre ; qui est avec elle.
-
--*who_madamepernelle
-Est-il possible ?
-
--*who_fillon
-Ils s'aiment tous deux à la folie.
-
--*who_madamepernelle
-Les pauvres enfants !
-
--*who_monsieurguillemin
-Mais je vous dis que je n'entends point cela, ma soeur.
-
--*who_madamepernelle
-Paix, mon frère, vous ne savez ce que vous dites.
-
--*who_monsieurguillemin
-J'enrage.
-Quoi, vous prétendez...
-
--*who_madamepernelle
-Taisez-vous, vous dis-je, faites-les moi venir.
-
--*who_monsieurguillemin
-Si je consens à ce mariage, je veux que...
-
--*who_crispin
 Et fi, Monsieur, puisqu'il est déjà dans la Gazette, si la chose ne se faisait point, on se moquerait de vous.
 
--*who_madamepernelle
-Assurément.
-
--*who_monsieurguillemin
-Je ne donnerai pas un sou de mon bien.
-
--*who_madamepernelle
-À la bonne heure, on n'en a que faire, je leur donnerai tout le mien, moi ; gardez votre argent, vieux ladre.
-
--*who_monsieurguillemin
-En ce cas-là, faites ce que vous voudrez, vous êtes la maîtresse.
-
--*who_madamepernelle
-On lui a bien de l'obligation.
-
-**** *book_ *id_I24 *act_I *date_1693
-
--*who_madamepernelle
-Venez, çà, ma nièce : approchez, Monsieur.
-Elle ne choisit pas trop mal, vraiment.
-
--*who_clitandre
-Si j'étais assez heureux, Monsieur, pour vous faire approuver le dessein...
-
--*who_monsieurguillemin
-Je ne mêle point de cela, Monsieur, si ma soeur le veut.
-
--*who_madamepernelle
-Si je le veux !
-Vous aimez ma nièce, ma nièce vous aime.
-Il n'y a rien de si dangereux que de ne vouloir pas ce que de jeunes filles veulent, mon Frère.
-
--*who_fillon
-Si vous pouviez persuader cette maxime à ma mère, je vous aurais bien de l'obligation.
-
--*who_angelique
-Ma chère tante, vous m'avez promis...
-
--*who_madamepernelle
-Je te tiendrai parole.
-
--*who_clitandre
-Puisque c'est à vous qu'il faut s'adresser, Madame...
-
-**** *book_ *id_I25 *act_I *date_1693
-
--*who_chonchon
-Hé bien, qu'est-ce, Monsieur Guillemin ?
-Me voilà déjà Capitaine, je ne barguigne point, moi, comme vous voyez.
-
--*who_monsieurguillemin
-Que me veut cet homme-là ?
-
--*who_crispin
 Il ne vous veut rien, c'est à moi qu'il parle.
 
--*who_clitandre
-Que veux dire ceci ?
-Crispin ?
-
--*who_crispin
 Rien, Monsieur, c'est un petit échantillon d'une recrue que Monsieur de la Rose, et moi, nous avons faite.
 
--*who_chonchon
-Oui, Monsieur, ces Messieurs m'ont choisi pour être un de vos Capitaines, et j'ai bien de la joie...
+Ma foi, Monsieur, j'en demande pardon à Monsieur Guillemin. Mais ces Messieurs sont venus pour se faire mettre dans la gazette, et je les ai mis dans votre Régiment.
 
--*who_madamepernelle
-Vous voyez bien que c'est un homme de qualité, mon frère.
 
--*who_chonchon
-Monsieur de la Rose vous amène encore deux autres Capitaines qui ne veulent pas venir ; mais nous les ferons bien marcher ; et tenez, les voilà.
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crassin
 
-**** *book_ *id_I26 *act_I *date_1693
+À ce que je puis juger, Monsieur, vous êtes Monsieur Guillemin, apparemment ?
 
--*who_crassin
+Je lui apporte un trésor, Monsieur.
+
+On m'a adressé à vous, Monsieur, comme au plus habile homme qu'il y ait dans toute la République des Lettres.
+
+Comme au meilleur connaisseur de tous les Auteurs anciens et modernes.
+
+Comme à un homme qui sait parfaitement le prix des ouvrages, et qui les achète toujours plus qu'un autre.
+
+Ah, Monsieur ! Vous perdez une fortune, si vous refusez le manuscrit que je vous apporte. Le titre seul vaut deux cents pistoles, lisez.
+
+Sans colère, Monsieur.
+
+Il faut que vous en entendiez la lecture, et que...
+
+Eustache Crassin, pour vous rendre service.
+
+Docteur en droit, Maître ès Arts, et Répétiteur général des humanités.
+
+Mais, pour convenir du prix, il faudrait...
+
 Monsieur, c'est une friponnerie qu'on m'a faite, et je n'allais point chez vous pour m'enrôler.
 
--*who_robichon
-Monsieur de la Rose, j'airai raison de la violence que vous me faites.
-
--*who_lesergent
-Vous direz tout cela quand nous serons en Flandres.
-
--*who_clitandre
-Que veut donc dire cette mascarade ?
-
--*who_chonchon
-Voilà de jolies filles, Monsieur de la Rose, si nous en enrôlions quelques-unes.
-
--*who_lesergent
-Paix, taisez-vous, Monsieur le Capitaine.
-
--*who_clitandre
-Crispin, veux-tu parler ?
-
--*who_crispin
-Ma foi, Monsieur, j'en demande pardon à Monsieur Guillemin.
-Mais ces Messieurs sont venus pour se faire mettre dans la gazette, et je les ai mis dans votre Régiment.
-
--*who_clitandre
-Comment, coquin...
-
--*who_crassin
 C'est la vérité, Monsieur, je ne veux point aller à la guerre.
 
--*who_robichon
-Vous voyez bien que ce n'est pas mon métier.
-
--*who_clitandre
-Je ne prétends pas y mener personne par force.
-Otez-leur, cet équipage, Monsieur de la Rose.
-
--*who_crassin
 Par ma foi, voilà un honnête homme.
 
--*who_madamepernelle
-Vous le voyez, mon frère, on ne pouvait pas mieux choisir.
-Allons, venez chez moi, Monsieur, et dépêchez-vous d'être mon neveu, je me charge d'y faire consentir mon frère.
 
--*who_fillon
-Et la gazette aura dit vrai, tu seras mariée.
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robichon
+
+Monsieur Guillemin n'est pas ici Monsieur ?
+
+Il me connaît, au moins, je m'appelle Monsieur Robichon.
+
+Monsieur, je suis votre serviteur.
+
+Oui, Monsieur, une affaire d'honneur. J'ai eu le bonheur de prouver la mauvaise conduite de ma femme, et le crédit de la faire enfermer. Je viens de la mettre dans un Couvent.
+
+Comment, que dites-vous, Monsieur ?
+
+Voilà, Dieu merci, la quatrième femme contre qui je gagne un semblable procès, cela n'est pas malheureux, n'est-il pas vrai ?
+
+Nous avons de l'honneur dans nitre famille ; et je suis bien aise que toute la terre sache de quel bois les Robichons se chauffent.
+
+Il m'est important qu'on soit informé que j'ai de bonnes raisons pour cloîtrer ma femme. Je ne prétends point passer pour un visionnaire, moi.
+
+Il faudra mettre tout simplement que Maître Claude Robichon, Procureur, a fait enfermer Madame sa femme, pour des causes... bien et dûment vérifiées en pleine audience : qu'en dites-vous ? Cela justifiera ma conduite.
+
+Voilà un louis d'or neuf.
+
+Mais, Monsieur...
+
+Rue du Coeur-Volant, n'est-ce pas ? Je vois cela d'ici.
+
+Monsieur de la Crispinière ?
+
+Au moins, Monsieur, que je sois dans le premier ordinaire.
+
+Monsieur, je vous baise les mains de tout mon coeur.
+
+Monsieur de la Rose, j'airai raison de la violence que vous me faites.
+
+Vous voyez bien que ce n'est pas mon métier.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+Je m'alarme mal à propos. Ce mariage est sans apparence.
+
+Angélique m'en aurait parlé.
+
+Qui est cet homme-là ? Il me semble que je l'ai vu souvent rôder autour d'ici.
+
+Que fait-il seul dans la boutique de Monsieur Guillemin ?
+
+Depuis que j'ai lu cette malheureuse gazette, je suis le plus bourru des hommes, et tout le monde m'est suspect d'avoir part au mariage qui me chagrine.
+Qui êtes-vous ? Demandez-vous ici quelque chose ?
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesergent
+
+C'est temps perdu, Monsieur, J'ai cherché dans tous les Fours de Paris, et je n'ai pu trouver ce qu'il vous faut. Les hommes sont chers par le temps qu'il fait, et comme vous les demandez surtout.
+
+Morbleu, j'enrage. Il y a quinze jours que je devrais avoir mené la recrue au Régiment, et nous n'avons pas encore la moitié de nos gens.
+
+On m'a fait voir deux petits malingres d'assez bonne mine à la vérité : mais on veut les vendre huit pistoles pièce.
+
+Oui, Monsieur : mais il n'y a rien à perdre, ce sont des enfants de famille, dont on retirera plus que son argent.
+
+Oh, par ma foi, Monsieur, vous êtes trop scrupuleux pour un Officier d'Infanterie, il n'y a pas moyen de s'y sauver. À quoi vous en tenez-vous donc, et comment vous plaît-il que nous finissions ?
+
+Je me donne au diable, il me prend envie de faire un four de votre appartement, autant de gens qu'il y viendra, je vous les enrôle.
+
+Vous avez un tas de créanciers, surtout, que j'aurais bien envie de mener à notre bataillon. Je ferais plaisir à bien d'honnêtes gens.
+
+Nous sommes déjà convenus, votre Crispin et moi, qu'il m'adresserait quelqu'un de ses amis : et quand quelque drôle un peu bien tourné viendra me demander de sa part, je saurai bien ce que cela voudra dire.
+
+Il aurait bien mieux valu faire vos affaires de bonne heure, que vous amuser pendant tout l'hiver à troubler, comme vous avez fait, la paix de deux ou trois ménages.
+
+D'honnêtes Bourgeois ont bien affaire que ce soit chez eux que vous veniez vous délasser.
+
+Je ne sais, Monsieur : mais depuis quelques jours vous venez bien souvent au Palais. Vous y traitez quelque affaire sérieuse, puisque vous ne m'en dites mot ?
+
+Vous me chassez, vous êtes amoureux tout de bon ; s'il n'y avait que du libertinage, vous m'en auriez fait confidence.
+
+Vous direz tout cela quand nous serons en Flandres.
+
+Paix, taisez-vous, Monsieur le Capitaine.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
+Mon cher Monsieur, je n'ai recours qu'à vous, donnez-moi la santé, le repos de la vie.
+
+Comment, n'êtes-vous pas, Monsieur, le correspondant de la Gazette ?
+
+Hé ! Mon bonheur, ma tranquillité, tout dépend de vous, mon cher Monsieur.
+
+D'un volage, d'un perfide, d'un scélérat que j'aime à la fureur, et qui depuis trous mois, ne m'a pas écrit ce qu'il est devenu, seulement.
+
+Je m'en vais vous le dire. Faites-y mettre, je vous en conjure, que la Marquise d'Ormesec donnera trente pistoles à qui pourra lui dire des nouvelles certaines du Chevalier de Dubartas son amant.
+
+Non, Monsieur, il n'y a que le peuple qui lit les affiches, et mon Chevalier m'a été volé par quelque femme de con séquence.
+
+C'est le plus beau brun qu'il y ait au monde.
+
+Il est Gascon, c'est tout ce que j'en sais.
+
+Il ne fait rien, Monsieur, il vit de mes rentes.
+
+Oui vraiment. Dans l'espérance de l'épouser, je lui ai donné un bon Contrat de mille écus de revenus ; et voyez le malheur, je ne l'ai pas revu depuis.
+
+Que je vous aurai d'obligation ! Voilà déjà quatre pistoles que je vous donne. Si je retrouve mon Chevalier, je vous donnerai tout ce qu'il vous plaira.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+La boutique de Monsieur Guillemin ? Enseignez-moi, Monsieur, le Bureau d'adresse de la Gazette, je vous prie.
+
+Mais, vous n'êtes pas Monsieur Guillemin, vous, Monsieur ? Car je le connais de vue.
+
+Oui vraiment.
+
+Il n'importe, vous ferez mon affaire.
+
+Je veux faire mettre dans la Gazette une chose qui n'est pas encore : mais qui sera bientôt, si j'en suis crue.
+
+Voici le fait, mon cher Monsieur ; pour faire enrager des parents mal intentionnés qui comptent trop sur ma succession, je me suis mariée depuis trois mois incognito.
+
+Non, Monsieur, ce sont les suites du mariage qu'il y faut mettre.
+
+Oui vraiment les suites : ma famille ne craint rien tant, que de me voir un petit héritier, et je fais tout mon possible pour leur donner ce chagrin-là.
+
+J'y réussirai, je vous en donne ma parole : mais je viens, comme je vous ai dit, vous prier d'avance par un heureux présage, de faire mettre dans votre gazette que c'est une chose faite, et que j'ai des indices de grossesse.
+
+Ma famille est la Garoussière, Monsieur ; le nom de mon mari, le Vicomte de Mirebalais. Marquez bien tout cela, je vous prie.
+
+Oui, Monsieur, et voilà déjà deux pistoles pour cette prétendue grossesse.
+
+Cela ne se pourrait pas vraiment, il n'y a pas un mois que je suis mariée.
+
+Non, Monsieur, commençons par un bout, et nous finirons par l'autre. Adieu, Monsieur, si la nouvelle fait mourir de chagrin quelqu'un de mes parents, je ne serai point ingrate d'un si bon office.
+
+C'est moi, dites-vous, qui ?...
+
+Ah, ah ! Vous attendez quelqu'un, apparemment ?
+
+Et qui encore ?
+
+Vous connaissez Mademoiselle Angélique ?
+
+Plaît-il ?
+
+Hé ! Que faites-vous donc seul ici ?
+
+Ouais, voici un maroufle qui me paraît bien raisonneur.
+
+Savez-vous bien, mon cher, que vos réponses me déplaisent ?
+
+Je veux absolument savoir qui vous êtes, et ce que vous faites ici.
+
+Oh, si vous ne parlez...
+
+Ah, ma chère Fillon, j'enrage ! Qui est cet homme-là ? Dites-le moi, je vous prie. Soit par raison, ou par caprice, sa présence me fait une peine horrible.
+
+Comment ? Il est donc vrai qu'Angélique se marie ?
+
+Il faut pourtant que je lui parle.
+
+Vous me le promettez ?
+
+Dites-lui bien que si elle obéit à son père, elle me mettra au désespoir, et que je ne vaux rien à désespérer.
+
+Qu'elle y songe. Je vais vous attendre.
+
+
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chonchon
+
+Bonjour, Monsieur, comment vous portez-vous ?
+
+Comme vous me regardez ! Vous ne me connaissez pas ?
+
+Je ne vous connais pas non plus : mais je sais pourtant bien qui vous êtes.
+
+Voilà deux écus que je vous apporte pour mettre quelque chose dans la gazette. Vous êtes Monsieur Guillemin, n'est-ce pas ?
+
+Pour vous expliquez la chose, c'est que mon père est un Huissier à Verge, qui s'appelle Nicolas le Goinfre ; et moi, qui ne suis qu'apprentif Procureur, je m'appelle Jacob le Goinfre, à votre service.
+
+Oui, justement, il est mon père ; et de là je conclus que je suis son fils, comme vous dites.
+
+De faire enrager mon père et ma mère, je vous ai choisi pour m'aider à cela.
+
+Point du tout, il n'y a rien de plus facile. Il ne faut que mettre dans la gazette que mon oncle le paysan, qui est le frère de mon père, est arrivé ces jours-ci chez nous, et que ma mère, qui veut être jeune, est fâchée qu'il soit venu, parce qu'il sait par coeur son baptistaire.
+
+On m'a fait une friponnerie dont on se repentira.
+
+Oh, dame oui, une friponnerie, mon père est un maître Sergent, je vous en avertis. J'ai un frère qu'on aime mieux que moi ; Je suis pourtant plus beau garçon que lui, je suis plus grand : mais ils disent que je n'ai pas d'intelligence. Qu'est-ce que cela fait ? Je n'ai que vingt-huit ans, cela me viendra, n'est-il pas vrai, Monsieur Guillemin ?
+
+Je vous en réponds, il fait des ouvrages...
+
+Oui, pour se gausser des uns et des autres, il invente je ne sais combien de sottises qui font rire.
+
+Oui, mais comme tout le monde n'aime pas à rire, il y a eu un petit mutin qui m'a donné des coups de bâtons, à moi, à cause de l'esprit de mon frère.
+
+Il a été bien attrapé ; car il a pris l'un pour l'autre, voyez-vous.
+
+Oui, vraiment, et je n'en ai pas eu le profit.
+
+C'est là le hic, Monsieur Guillemin. Comme mon père est du métier, il a poussé cette affaire. Oh dame ! On ne nous rosse pas comme çà, nous autres, qu'on n'ait la bonté de le bien payer.
+
+Hé bien, en vertu des coups que j'ai reçus, moi, on a baillé de l'argent à mon frère, cela n'est pas juste, comme vous voyez.
+
+Aussi j'appelle de cet accommodement-là : et malgré mon père et ma mère qui m'en veulent, je prétends bien intervenir.
+
+Par la morbleu, Monsieur Guillemin, si l'on ne me fait justice, je m'enrôlerai, et puis après nous verrons beau jeu. Je suis plus propre à la guerre qu'à toute autre chose, moi.
+
+Oh non, Monsieur Guillemin, je veux servit dans les Capitaines.
+
+Hé je vous prie. Si vous connaissez quelque Seigneur de la Cour, qui lève un Régiment de Capitaines, parlez-lui de moi, je suis son homme.
+
+Monsieur de la Rose ? Voilà un nom qui me réjouit.
+
+Je lui aurai bien de l'obligation ; et quand je le serai une fois, si mon frère ne me baille pas ma part de l'argent, je lui baillerai sa part des coups de bâton, moi. Oh, je suis un petit drôle qui n'entend point de raillerie. Serviteur, Monsieur Guillemin, je vais faire vos compliments à Monsieur de la Rose.
+
+Hé bien, qu'est-ce, Monsieur Guillemin ? Me voilà déjà Capitaine, je ne barguigne point, moi, comme vous voyez.
+
+Oui, Monsieur, ces Messieurs m'ont choisi pour être un de vos Capitaines, et j'ai bien de la joie...
+
+Monsieur de la Rose vous amène encore deux autres Capitaines qui ne veulent pas venir ; mais nous les ferons bien marcher ; et tenez, les voilà.
+
+Voilà de jolies filles, Monsieur de la Rose, si nous en enrôlions quelques-unes.
+

@@ -1,947 +1,479 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_anonyme *book_anonyme_matineecomedienfrancais *style_prose *genre_proverbe *dist1_anonyme_prose_proverbe_matineecomedienfrancais *dist2_anonyme_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belval
 
--*who_belval
-Comment !
-Il est dix heures et ma robe de chambre n'est point arrivée ; ce maraud de tailleur est cause que je me lève une heure plutôt qu'à l'ordinaire ; vous verrez que ce sera inutilement ; cependant il n'a point à se plaindre: il est mieux payé qu'aucun de mes fournisseurs ; je ne lui dois pas mille écus, le fat !
-En vérité, cela me met hors de moi.
-La Fleur !...
-Oh, je le quitterai...
-Moi qui le mets à la mode...
-La Fleur ?
-Je suis plus mal servi que le dernier Bourgeois ; La Fleur, viendras-tu ?
+Comment ! Il est dix heures et ma robe de chambre n'est point arrivée ; ce maraud de tailleur est cause que je me lève une heure plutôt qu'à l'ordinaire ; vous verrez que ce sera inutilement ; cependant il n'a point à se plaindre: il est mieux payé qu'aucun de mes fournisseurs ; je ne lui dois pas mille écus, le fat ! En vérité, cela me met hors de moi. La Fleur !... Oh, je le quitterai... Moi qui le mets à la mode... La Fleur ? Je suis plus mal servi que le dernier Bourgeois ; La Fleur, viendras-tu ?
 
-**** *book_ *id_I02 *act_I *date_(inc
+Que devenez-vous donc ? Il faut crier pour vous avoir.
 
--*who_lafleur
-Monsieur ?
-
--*who_belval
-Que devenez-vous donc ?
-Il faut crier pour vous avoir.
-
--*who_lafleur
-J'étais à écouter les instances de ce jeune homme que Monsieur veut bien protéger dans son début.
-
--*who_belval
 Mais ne se souvient-t-il pas que je lui ai promis de le faire avertir quand il en sera temps ; qu'il ait la bonté de ne pas me fatiguer, car cela me lasserait.
 
--*who_lafleur
-C'est ce que je lui ai observé ; cependant il a tant d'inquiétude, tant de véritable admiration pour Monsieur, que je me suis engagé à une audience pour aujourd'hui.
+Comment ! Cela ne se peut pas ; vous êtes toujours d'un zèle ?... Vous vendez mon temps.
 
--*who_belval
-Comment !
-Cela ne se peut pas ; vous êtes toujours d'un zèle ?...
-Vous vendez mon temps.
-
--*who_lafleur
-Tranquillisez-vous ; suivant nos conventions il ne doit rester qu'un demi-quart d'heure ; ce déjeuner galant que vous m'avez fait préparer, signifie des projets, et rien ne sera troublé.
-
--*who_belval
 Hé bien, à la bonne heure ; ah ça, je t'appelais pour quelque chose...Ah, pour cette robe de chambre ; conçois-tu ce petit Fraquet qui ose me faire attendre ; cours chez lui, et avertis-le de sa ruine, s'il n'est pas plus exact.
 
--*who_lafleur
-Ah !
-Monsieur.
+Non ; que j'en mettrai un autre en vogue. Signifie-lui mes intentions très sérieusement, et en t'en allant fais donc entrer ce jeune homme que tu me forces de recevoir.
 
--*who_belval
-Non ; que j'en mettrai un autre en vogue.
-Signifie-lui mes intentions très sérieusement, et en t'en allant fais donc entrer ce jeune homme que tu me forces de recevoir.
+Il est bien médiocre ! Ah, ah, ah, je rirai bien si cela réussit ; quand ce ne serait que pour me venger de cet autre qui prétend voler de ses propres ailes, qui ne s'informe pas même si j'existe pour se présenter ; c'est d'un orgueil...Vous avez du talent, dit-on, tans pis pour vous ; mon protégé n'en a pas, il aura la préférence, il donnera du relief à mon mérite, il apprendra au Public tout ce que je vaux. Vraiment, Monsieur le hautain, je vous remercie de votre impertinence.
 
--*who_lafleur
-Oui, Monsieur.
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_belval
-Il est bien médiocre !
-Ah, ah, ah, je rirai bien si cela réussit ; quand ce ne serait que pour me venger de cet autre qui prétend voler de ses propres ailes, qui ne s'informe pas même si j'existe pour se présenter ; c'est d'un orgueil...Vous avez du talent, dit-on, tans pis pour vous ; mon protégé n'en a pas, il aura la préférence, il donnera du relief à mon mérite, il apprendra au Public tout ce que je vaux.
-Vraiment, Monsieur le hautain, je vous remercie de votre impertinence.
-
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_belval
 Entrez, mon cher ami, entrez ; rassurez-vous, je vous veux du bien.
 
--*who_verville
-Pardon, Monsieur, si j'ai osé insister pour avoir l'honneur de vous voir, mais je me trouve forcé de partir dans quinze jours d'après une lettre que j'ai reçue hier, sinon je manque une place très sûre pour une autre qui est encore très incertaine.
-
--*who_belval
 Comment donc, incertaine ?
 
--*who_verville
-Sans doute.
-Je connais combien votre nom a de poids ; cependant daignez réfléchir au peu de temps qui me reste, surtout avec trois Débuts à passer avant moi.
+Qu'est-ce que tout cela fait ? Trois Débuts, dites-vous ?
 
--*who_belval
-Qu'est-ce que tout cela fait ?
-Trois Débuts, dites-vous ?
-
--*who_verville
-Trois ; oui, Monsieur.
-
--*who_belval
 Dans douze jours vos trois Rivaux seront coulés à fond.
 
--*who_verville
-Quoi !
+Le premier, dans trois jours ; le second, quatre jours après ; le troisième, n'en exigera pas davantage. Oui, dans douze jours ce sera une affaire faite.
 
--*who_belval
-Le premier, dans trois jours ; le second, quatre jours après ; le troisième, n'en exigera pas davantage.
-Oui, dans douze jours ce sera une affaire faite.
+Que d'inquiétude ? Mais je veux bien vous mettre hors de peine ; ne conviendrez-vous pas que si je vous recevais avec un air froid, que je vous forçasse par l'ascendant que nous avons sur vous autres Messieurs, à choisir des Pièces où je suis supérieur et qui vous soient peu favorables, il me serait facile de vous écraser par la force de mon jeu et de vous exposer dans un jour peu séduisant.
 
--*who_verville
-Mais si l'un d'eux allait plaire.
-
--*who_belval
-Que d'inquiétude ?
-Mais je veux bien vous mettre hors de peine ; ne conviendrez-vous pas que si je vous recevais avec un air froid, que je vous forçasse par l'ascendant que nous avons sur vous autres Messieurs, à choisir des Pièces où je suis supérieur et qui vous soient peu favorables, il me serait facile de vous écraser par la force de mon jeu et de vous exposer dans un jour peu séduisant.
-
--*who_verville
-J'en conviens.
-
--*who_belval
 Je ne vous parle pas encore de toutes les menées que je pourrais mettre en œuvre ; elles demanderaient beaucoup de détails ; jugez seulement si de nouveaux venus, rebutés des uns, fatigués des autres, ruinés par leur séjour, par les frais d'un début, dédaignés même par nos valets, peuvent échapper au naufrage ?
 
--*who_verville
-Vous me persuadez plus que jamais.
-
--*who_belval
 Ils arrivent sur la scène accablés d'inquiétudes ; la mémoire leur manque ; le Public murmure, en vain le Souffleur se consume en efforts, la tête n'y est plus, pendant tout le spectacle, ils sont dans le même état ; personne qui les rassure, et vous pouvez croire que le lendemain ils sont peu tentés de reparaître ; aussi quand je vous dis douze jours avant vous, c'est beaucoup.
 
--*who_verville
-Il est vrai que si j'avais à craindre le même sort, je renoncerais bientôt.
+Je conviendrai avec vous, si vous voulez, que tout cela n'est pas trop régulier, que des rigoristes regarderaient cette conduite comme une espèce de cabale, mais c'est pourtant le seul moyen de faire voir la gradation des talents. Hé puis, d'ailleurs, pourquoi cette police suscite-t-elle parmi nous ? En voici la raison : c'est que ce serait agir contre soi-même que de souffrir un concurrent en état par ses talents d'enlever à un ancien, ou même de balancer la faveur du Public dont il est en possession.
 
--*who_belval
-Je conviendrai avec vous, si vous voulez, que tout cela n'est pas trop régulier, que des rigoristes regarderaient cette conduite comme une espèce de cabale, mais c'est pourtant le seul moyen de faire voir la gradation des talents.
-Hé puis, d'ailleurs, pourquoi cette police suscite-t-elle parmi nous ?
-En voici la raison : c'est que ce serait agir contre soi-même que de souffrir un concurrent en état par ses talents d'enlever à un ancien, ou même de balancer la faveur du Public dont il est en possession.
-
--*who_verville
-Il est vrai que cela est embarrassant, et que les spectateurs sont obligés d'entrer dans ces intérêts particuliers.
-
--*who_belval
 À n'en point douter.
 
--*who_verville
-Mais oserais-je vous demander pourquoi vous voulez que je ne débute que le dernier ?
+Pour votre avantage. Écoutez-moi bien, nous devons faite croire que nous faisons tous les efforts possibles pour remplacer les sujets qui nous manquent.
 
--*who_belval
-Pour votre avantage.
-Écoutez-moi bien, nous devons faite croire que nous faisons tous les efforts possibles pour remplacer les sujets qui nous manquent.
-
--*who_verville
-Cela paraît naturel.
-
--*who_belval
 Voilà trois débutants dont vous connaissez le sort futur, on en sera dégoûté.
 
--*who_verville
-Cela est probable.
+C'est charmant, comme vous voyez. Vous succéderez à ces trois victimes ; mais comment ? Soutenu, dirigé par moi d'abord, sûr de la bonne volonté de mes camarades que je vous obtiendrai, prôné adroitement quelques jours d'avance, tout se réunira pour vous, un certain nombre de billets distribués à des gens dont je vous donnerai la liste, assurera votre succès ; vous paraîtrez avec confiance ; votre mémoire ne vous trahissant pas, on jugera que vous avez une connaissance parfaite de la scène ; vous serez applaudi unanimement par le Public, et par là vous remporterez le prix auquel vous aspirez, et voilà, en un mot, Monsieur, pourquoi il est essentiel que vous ne débutiez que le dernier.
 
--*who_belval
-C'est charmant, comme vous voyez.
-Vous succéderez à ces trois victimes ; mais comment ?
-Soutenu, dirigé par moi d'abord, sûr de la bonne volonté de mes camarades que je vous obtiendrai, prôné adroitement quelques jours d'avance, tout se réunira pour vous, un certain nombre de billets distribués à des gens dont je vous donnerai la liste, assurera votre succès ; vous paraîtrez avec confiance ; votre mémoire ne vous trahissant pas, on jugera que vous avez une connaissance parfaite de la scène ; vous serez applaudi unanimement par le Public, et par là vous remporterez le prix auquel vous aspirez, et voilà, en un mot, Monsieur, pourquoi il est essentiel que vous ne débutiez que le dernier.
-
--*who_verville
-Et si un jour les spectateurs, s'apercevaient de leur méprise !...
-
--*who_belval
 Alors, Monsieur, alors avec mille louis de rente vous vous consoleriez de leur mauvaise humeur ; d'ailleurs, on s'y habitue, et beaucoup de mes camarades m'ont avoué qu'à peine si cela faisait sur eux la moindre impression.
 
--*who_verville
-Il vous fera toujours facile de trouver des gens qui valent moins que vous ; mais moi comment par la suite pourrais-je...
+J'ai quelquefois réfléchi sur les conséquences de cette habitude, mais, pour votre tranquillité, sachez que quand vous aurez été quelque temps parmi nous, vous ne douterez plus de votre mérite. C'est à la lettre ; tenez, j'ai vu des gens maigres comme des os, grimaciers à l'excès, petits, mal faits, qui avoient à peine le souffle, jouer des rôles d'Hercule ; des gens sans aucun talent réel, n'ayant tout au plus que deux ou trois grimaces, parasites, impertinents au dernier point, dignes tout au plus des tréteaux, ils étaient applaudis ; des barbouilleurs, déclamer avec emphase ce qu'ils ne sentaient pas, ils étaient supportés ; des gens enfin qui savaient à peine lire, juger des Pièces, présentés, donner hardiment,et de bonne-foi même, des leçons à un auteur qui avait travaillé trente ans ; voilà, je crois pour vous, des motifs de consolation et de courage.
 
--*who_belval
-J'ai quelquefois réfléchi sur les conséquences de cette habitude, mais, pour votre tranquillité, sachez que quand vous aurez été quelque temps parmi nous, vous ne douterez plus de votre mérite.
-C'est à la lettre ; tenez, j'ai vu des gens maigres comme des os, grimaciers à l'excès, petits, mal faits, qui avoient à peine le souffle, jouer des rôles d'Hercule ; des gens sans aucun talent réel, n'ayant tout au plus que deux ou trois grimaces, parasites, impertinents au dernier point, dignes tout au plus des tréteaux, ils étaient applaudis ; des barbouilleurs, déclamer avec emphase ce qu'ils ne sentaient pas, ils étaient supportés ; des gens enfin qui savaient à peine lire, juger des Pièces, présentés, donner hardiment,et de bonne-foi même, des leçons à un auteur qui avait travaillé trente ans ; voilà, je crois pour vous, des motifs de consolation et de courage.
-
--*who_verville
-Tout ce que vous me dites me rassure extrêmement !
-Cependant il me reste des remords par rapport à ces pauvres diables qui me seront sacrifiés...
-
--*who_belval
 Adieu ; je voudrais vous retenir plus longtemps, mais persuadez vous que vous faites corps avec nous ; ces jours-ci nous ferons les visites nécessaires, adieu.
 
--*who_verville
-Comment vous exprimer tout ce que je vous dois ?
-
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_belval
-Me voilà engagé ; allons, il n'y a pas à reculer ; arrive ce qui voudra, je ne peux plus m'en dédire.
-Au reste, il est docile,et c'est ce qu'il me faut à moi.
+Me voilà engagé ; allons, il n'y a pas à reculer ; arrive ce qui voudra, je ne peux plus m'en dédire. Au reste, il est docile,et c'est ce qu'il me faut à moi.
 Ah, te voilà avec ce que j'attendais ; allons vite, essayons-la.
 
--*who_lafleur
-Elle est superbe, magnifique ; la couleur est charmante.
-Ce qu'il y a de plaisant, c'est que des coupons, Fraquet a fait à son petit bonhomme un habit de matelot très joli et sans couture.
+Sans couture ? Plaisants coupons ; écoute, n'oublie pas de me faire déduire cet habit de Matelot sur le mémoire. Ce fripon ! Nous verrons cela dans un autre moment. Laisse-moi, j'ai besoin d'être seul, et tiens-toi dans l'antichambre pour recevoir une personne qui doit arriver dans peu.
 
--*who_belval
-Sans couture ?
-Plaisants coupons ; écoute, n'oublie pas de me faire déduire cet habit de Matelot sur le mémoire.
-Ce fripon !
-Nous verrons cela dans un autre moment.
-Laisse-moi, j'ai besoin d'être seul, et tiens-toi dans l'antichambre pour recevoir une personne qui doit arriver dans peu.
+Ma foi, de telle manière que je me mette, je suis toujours bien. C'est une folie pourtant que cette robe de chambre ; mais il serait si ridicule d'être surpris sans une certaine élégance... Elle me va très-bien ; mes cheveux, quoique retroussés, flottent avec grâce ; le col agréable, du linge fin, parfumé délicieusement, bien chaussé : qu'une femme vous surprenne dans cet état, elle n'y tient pas. Sophie vient déjeuner avec moi ; je veux qu'elle s'en aille subjuguée. C'est une petite écervelée qui ne croit pas à ces goûts subits et charmants, qui ont fait les délices de nos femmes aimables. Nous verrons.... Ah çà, récapitulons ma journée. Premièrement, Sophie, tout-à-l'heure, dans l'instant ; à midi, rendez-vous chez Monsieur le Duc de Volnay ; ensuite dîner chez ce Prince étranger : à quatre heures et demi, je m'évade et cours dans ma loge m'écraser la tête de mon rôle dans cette Pièce nouvelle. C'est le déplaisant. Pourquoi ne s'en pas tenir à ce que nous avons ? Ce n'est pas ma faute ; je fais tout ce que je puis pour faire renoncer aux Nouveautés. Mais mes camarades se laissent entraîner,et moi je suis la victime de ces complaisances mal entendues. Ce qu'il y a de cruel, c'est que ne pouvant mal jouer, je soutiens seul l'ouvrage auquel je donne un mérite dont le pauvre Auteur ne s'était pas douté... J'entends du bruit ; c'est ma belle et mutine Sophie : ne songeons qu'au plaisir de la voir.
 
--*who_lafleur
-Oui Monsieur.
-
-**** *book_ *id_I06 *act_I *date_(inc
-
--*who_belval
-Ma foi, de telle manière que je me mette, je suis toujours bien.
-C'est une folie pourtant que cette robe de chambre ; mais il serait si ridicule d'être surpris sans une certaine élégance...
-Elle me va très-bien ; mes cheveux, quoique retroussés, flottent avec grâce ; le col agréable, du linge fin, parfumé délicieusement, bien chaussé : qu'une femme vous surprenne dans cet état, elle n'y tient pas.
-Sophie vient déjeuner avec moi ; je veux qu'elle s'en aille subjuguée.
-C'est une petite écervelée qui ne croit pas à ces goûts subits et charmants, qui ont fait les délices de nos femmes aimables.
-Nous verrons....
-Ah çà, récapitulons ma journée.
-Premièrement, Sophie, tout-à-l'heure, dans l'instant ; à midi, rendez-vous chez Monsieur le Duc de Volnay ; ensuite dîner chez ce Prince étranger : à quatre heures et demi, je m'évade et cours dans ma loge m'écraser la tête de mon rôle dans cette Pièce nouvelle.
-C'est le déplaisant.
-Pourquoi ne s'en pas tenir à ce que nous avons ?
-Ce n'est pas ma faute ; je fais tout ce que je puis pour faire renoncer aux Nouveautés.
-Mais mes camarades se laissent entraîner,et moi je suis la victime de ces complaisances mal entendues.
-Ce qu'il y a de cruel, c'est que ne pouvant mal jouer, je soutiens seul l'ouvrage auquel je donne un mérite dont le pauvre Auteur ne s'était pas douté...
-J'entends du bruit ; c'est ma belle et mutine Sophie : ne songeons qu'au plaisir de la voir.
-
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_sophie
-En vérité, Belval, il faut que je sois la complaisance même pour venir chez vous au milieu de la pluie, du tonnerre et des éclairs, par le temps le plus affreux.
-
--*who_belval
 À voir vos célestes appas, on a dû vous prendre pour une immortelle, qui marche suivie du brillant cortège de la Divinité.
 
--*who_sophie
-Oh !
-Trêve de galanterie !
+Non. Regardez-vous ;et ne me croyez pas assez simple pour louer une femme quand elle ne le mérite pas.
 
--*who_belval
-Non.
-Regardez-vous ;et ne me croyez pas assez simple pour louer une femme quand elle ne le mérite pas.
-
--*who_sophie
-Ah !...
-Savez vous que vous me ferez tourner la tête, si vous continuez.
-
--*who_belval
 J'aimerais bien autant vous la voir perdre.
 
--*who_sophie
-Vous êtes logé avec une magnificence...
-
--*who_belval
 Assez bien ; mais il faut que je quitte malgré moi cet appartement.
 
--*who_sophie
-Pourquoi donc ?
-Il est peut être trop cher.
-
--*who_belval
 Non, je n'en ai que pour cent louis ; mais je n'ai pas de salon d'été, de cabinet de bains, ni de boudoir.
 
--*who_sophie
-Ni de boudoir ?
-Oh !
-Il faut avoir un boudoir.
-
--*who_belval
 Vous m'excuserez donc de ne pouvoir vous en présenter un.
 
--*who_sophie
-Pour moi, il n'en faut pas.
+Ah ! Nous n'en sommes pas encore là. Je vois bien que vous voulez me mettre dans la longue liste de vos conquêtes ; mais, mon cher ami, je ne succomberai pas. Élégance, propos aimables, figure intéressante ; vous avez tout, j'en conviens ;et moi, je suis insensible. Voilà bien des choses perdues, n'est-ce-pas ?
 
--*who_belval
-Ah !
-Nous n'en sommes pas encore là.
-Je vois bien que vous voulez me mettre dans la longue liste de vos conquêtes ; mais, mon cher ami, je ne succomberai pas.
-Élégance, propos aimables, figure intéressante ; vous avez tout, j'en conviens ;et moi, je suis insensible.
-Voilà bien des choses perdues, n'est-ce-pas ?
+Comment, vous me supposez des apprêts. Non, je vous jure, mon coeur n'a pas de détours. Jugez par d'autres. Est-il un seul homme qui, vous possédant comme moi en tête-à-tête, ne soit tombé à vos pieds.
 
--*who_belval
-Comment, vous me supposez des apprêts.
-Non, je vous jure, mon coeur n'a pas de détours.
-Jugez par d'autres.
-Est-il un seul homme qui, vous possédant comme moi en tête-à-tête, ne soit tombé à vos pieds.
+Ah ! Sophie, ne m'accablez pas de votre disgrâce.
 
--*who_sophie
-Je ne l'ai jamais souffert.
-Et où prenez-vous, Monsieur, que ces soit un tête-à-tête que je vous accorde...
+Quel petit démon de vertu ! En vérité, Sophie, je vous croyais plus de conduite ; une femme charmante, belle comme vous êtes... Ah ! Profitez de vos beaux jours.
 
--*who_belval
-Ah !
-Sophie, ne m'accablez pas de votre disgrâce.
-
--*who_sophie
-Eh bien !
-Quittez donc ce ton déjà conquérant que vous prenez avec moi.
-
--*who_belval
-Quel petit démon de vertu !
-En vérité, Sophie, je vous croyais plus de conduite ; une femme charmante, belle comme vous êtes...
-Ah !
-Profitez de vos beaux jours.
-
--*who_sophie
-Vous verrez que je passerai mes beaux jours à aimer Monsieur ; cela serait fort réjouissant.
-Non, je vous le répète, laissons à nos tragédies cet amour romanesque.
-Je n'y crois pas,et n'y croirai de ma vie : tenez-vous le pour dit.
-
--*who_belval
 Non ; vous reviendrez de cette erreur ;et vous verrez qu'un jour...
 
--*who_sophie
-Encore.
-Ah !
-Vous m'impatientez.
-Brisons là dessus, ou je pars.
+Ah ! Trop charmante incrédule ! Allons, sot, je me tais.
 
--*who_belval
-Ah !
-Trop charmante incrédule !
-Allons, sot, je me tais.
-
--*who_sophie
-Oui, parlons de choses plus sérieuses.
-
--*who_belval
-Heureuse tranquillité !
-Vous faites de l'amour un joujou.
+Heureuse tranquillité ! Vous faites de l'amour un joujou.
 Parlons donc de choses sérieuses avec vous, Sophie.
 
--*who_sophie
-Vous partez dans quinze jours pour Londres.
-
--*who_belval
 Oui, j'ai obtenu un mois de vacances.
 
--*who_sophie
-Eh bien !
-J'ai la même permission.
+Ô Ciel ! Est-il possible ? Ma belle amie : nous ferons route ensemble. Que de triomphes nous allons avoir ! Que de joie nous allons répandre ! Que d'argent nous gagnerons réunis. Ah qu'ils seront heureux ces pauvres Anglais, la tête va leur tourner.
 
--*who_belval
-Ô Ciel !
-Est-il possible ?
-Ma belle amie : nous ferons route ensemble.
-Que de triomphes nous allons avoir !
-Que de joie nous allons répandre !
-Que d'argent nous gagnerons réunis.
-Ah qu'ils seront heureux ces pauvres Anglais, la tête va leur tourner.
-
--*who_sophie
-On dit pourtant qu'elle ne leur tourne pas aisément, c'est une nation froide, sérieuse.
-
--*who_belval
 Eh bien, tant mieux : ce sera le plus beau de notre triomphe ; croyez vous, de bonne foi, ma tendre amie, que je sois bien flatté des applaudissements ridicules qu'on nous accorde souvent en France, pour les choses qui le méritent le moins ? engouement pour tout ce qui a un air de nouveauté, voilé le vrai motif de la plus grande partie des éloges que nous recevons, car les ouvrages que nous offrons au public depuis long temps ne sont par faits pour les mériter, c'est donc nous, nous seuls à qui ces pauvres auteurs ont toute l'obligation de leurs succès, et je pourrais dire encore que c'est plus à notre réputation qu'à nous mêmes ; car souvent, ma chère Sophie, je me néglige, je joue d'une manière réellement pitoyable : c'est au point que je le fais quelque fois exprès, pour essayer jusqu'où peut aller la prévention du public, et je suis touté tonné de me voir applaudi à tout rompre, lorsque je pourrais moi les siffler des applaudissements qu'ils me donnent.
 
--*who_sophie
-Il est certain que leurs transports sont le plus souvent bien mal placés ; mais c'est un secret qu'il ne faut par leur dire.
+Non certainement ; il nous est trop avantageux, mais voila pourquoi je serais bien plus flatté d'être applaudi en Angleterre, faire rire ces braves, roast-beefs, ces John Bulls, comme on les appelle. Pour un comédien Français qu'elle victoire : ce sera le plus beau fleuron de ma couronne.
 
--*who_belval
-Non certainement ; il nous est trop avantageux, mais voila pourquoi je serais bien plus flatté d'être applaudi en Angleterre, faire rire ces braves, roast-beefs, ces John Bulls, comme on les appelle.
-Pour un comédien Français qu'elle victoire : ce sera le plus beau fleuron de ma couronne.
-
--*who_sophie
-Je ne suis pas tout à fait aussi tranquille que vous, mon cher Belval.
-
--*who_belval
 Que pourriez-vous craindre, ma bonne amie, ce sont des gens de goût qui se connaissent parfaitement aux bonnes choses et qui par conséquent, nous trouveront charmants vous et moi.
 
--*who_sophie
-Oui je sais qu'ils jugent à merveille ; mais j'aime mieux les voir me juger à Paris qu'à Londres.
-
--*who_belval
 Et pourquoi ?
 
--*who_sophie
-Pourquoi...
-Les Anglais qui voyagent en France savent comme tous les étrangers possibles qu'ils doivent se soumettre aux moeurs nationales, à nos usages, à nos amusements ; soit qu'ils leur plaisent, soit qu'ils ne leur plaisent pas, mais aller chez eux pour leur faire croire que nous devons leur plaire, c'est avoir la prétention de leur prouver que nos spectacles valent mieux que les leurs, et voilà, je crois, ce que nous aurons quelque peine à leur persuader.
-
--*who_belval
 C'est pourtant très vrai.
 
--*who_sophie
-D'accord...
-Que vous et moi pensions comme cela, rien de plus naturel ; mais d'exiger que la nation anglaise préfère notre langue à la sienne, les moeurs, les usages, l'uniformité souvent ennuyeuse de notre théâtre aux libertés, à la licence même qui règne quelquefois sur le sien, nos grands et longs vers sont si difficiles à comprendre, notre ennuyeuse rime est si fatigante pour des oreilles qui n'y sont par faites : en un mot, mon cher ami.
-Je crois qu'il y a de la présomption à nous croire si sûrs des avantages que nous espérons retirer de ce voyage.
-
--*who_belval
 Point du tout, ma chère, on me mande par les dernières lettres que j'ai reçues qu'il y a déjà une souscription remplie de deux ou trois mille guinées, sans un bon bénéfice que nous aurons chacun suivant l'usage charmant de cet excellent pays, je vous dis, ma chère Sophie, nous reviendrons cousus d'or et comblés des applaudissements des trois royaumes.
 
--*who_sophie
-Oui je crois bien que pas curiosité les gens comme il faut voudront bien se réunir pour nous entendre, mais ce n'est pas là ce que j'appelle la nation, et je sais qu'elle est sévère pour les novateurs.
-
--*who_belval
 Bon, bon, que craignez vous ?
 
--*who_sophie
-Ce que je crains...
-Les pommes cuites, et les oranges...
+Ah... La bonne folie... Et moi je les aime de passion, ne craignez rien, ma chère Sophie, notre tournure seule en imposera, vous êtes jeune et jolie, je ne suis... pas mal... Tous les hommes seront pour vous, les femmes voudront bien me témoigner quelques bontés, d'après cette réunion d'intérêts vous voyez clairement que nous voilà à l'abri de toute catastrophe, et que nous ne pouvons mieux faire que de partir : mais comment, mon bel ange, avez-vous pu obtenir ?...
 
--*who_belval
-Ah...
-La bonne folie...
-Et moi je les aime de passion, ne craignez rien, ma chère Sophie, notre tournure seule en imposera, vous êtes jeune et jolie, je ne suis... pas mal...
-Tous les hommes seront pour vous, les femmes voudront bien me témoigner quelques bontés, d'après cette réunion d'intérêts vous voyez clairement que nous voilà à l'abri de toute catastrophe, et que nous ne pouvons mieux faire que de partir : mais comment, mon bel ange, avez-vous pu obtenir ?...
+Que peut-on vous refuser ? Vous conviendrez que le Spectacle sera fort ennuyeux pendant votre absence.
 
--*who_sophie
-Prétexte de santé.
-Vous savez, il y a trois jours, que nous nous quittâmes à sept heures du matin, après avoir passé la nuit à faire mille folies.
-Le soir, je ne pus jouer ; ce qui hâta par hasard le début de cette nouvelle Actrice qui, je vous réponds, n'eut point parue devant six semaines.
-Vous me trouvâtes la physionomie d'une langueur assez intéressante : ma glace me dit que vous aviez raison.
-Je fis mettre sur le champ mes chevaux à la voiture.
-La crainte de ne pas réussir ajouta à ma pâleur.
-On me plaignit ; mais je revins vive, animée ; car j'obtins ce que je demandai.
-
--*who_belval
-Que peut-on vous refuser ?
-Vous conviendrez que le Spectacle sera fort ennuyeux pendant votre absence.
-
--*who_sophie
-Ah !
-Dites pendant la nôtre, Monsieur Belval ; je suis juste.
-
--*who_belval
 Julie doit être au désespoir.
 
--*who_sophie
-Elle ne le sait pas encore ; j'aurai le plaisir de lui dire ce soir.
-
--*who_belval
 Vous jouez, sans doute.
 
--*who_sophie
-Non sûrement.
-On ne me verra qu'après mon retour ; c'est le seul moyen de se faire désirer.
-
--*who_belval
 C'est une assez bonne méthode : il y a déjà quelque temps que vous vous en servez ; car cette année-ci...
 
--*who_sophie
-Cette année...
-Mais j'ai joué dix à douze fois au moins.
+Cela est différent. Aujourd'hui, cependant, je comptais bien sur vous. Je vous avertis que je serai d'un maussade ; prenez garde avec qui vous me laissez... Il me vient une idée.
 
--*who_belval
-Cela est différent.
-Aujourd'hui, cependant, je comptais bien sur vous.
-Je vous avertis que je serai d'un maussade ; prenez garde avec qui vous me laissez...
-Il me vient une idée.
-
--*who_sophie
-Quoi ?
-
--*who_belval
 Vous ne connaissez pas ma petite campagne.
 
--*who_sophie
-Qui vous coûte tant d'argent.
-
--*who_belval
 Précisément.
 
--*who_sophie
-Non, je ne la connais pas.
+Eh bien ! Allons-y ce soir : c'est un bijou dont vous serez enchantée.
 
--*who_belval
-Eh bien !
-Allons-y ce soir : c'est un bijou dont vous serez enchantée.
-
--*who_sophie
-Avec vous seul ?
-
--*who_belval
 Oui ; vous me craignez si peu.
 
--*who_sophie
-Soit ; à condition que vous ne vous en vanterez pas.
-
--*who_belval
 Je vous le proteste.
 
--*who_sophie
-Allons, j'y consens donc ; je le veux bien.
-
--*who_belval
 Que de grâces !
 
--*who_sophie
-Ainsi vous ne jouerez pas non plus : Fierville sera détestable dans votre rôle.
+Je l'imagine bien ; mais vous ne sauriez croire comme le pauvre garçon aime à se faire siffler. Il n'en est que plus ferme : il semble que cela le réjouit, il sera pour moi d'une reconnaissance...
 
--*who_belval
-Je l'imagine bien ; mais vous ne sauriez croire comme le pauvre garçon aime à se faire siffler.
-Il n'en est que plus ferme : il semble que cela le réjouit, il sera pour moi d'une reconnaissance...
-
--*who_sophie
-Eh bien !
-Vous avez vos fantaisies, j'ai les miennes aussi.
-J'ai celle, d'aller voir comment nos doubles seront reçus, de voir la grosse humeur du Public ; cela sera très réjouissant.
-
--*who_belval
 Mais notre partie.
 
--*who_sophie
-Bon, ne croyez-vous pas que je me donne la douleur de voir toute la Pièce : les trois premières Scènes, à la bonne heure ; dans le moment de la grosse crise, voilà tout.
-
--*who_belval
 Mais si on nous voyait.
 
--*who_sophie
-Eh !
-N'ai-je pas cette loge grillée qu'on me prête quand je veux.
-J'irai bien empaquetée ; vous, le mouchoir sur les dents, chapeau détroussé, costume étranger.
-
--*who_belval
 Vous êtes miraculeuse.
 
--*who_sophie
-Pour qui donc ces préparatifs ?
-
--*who_belval
 Pour vous, pour votre déjeuner.
 
--*who_sophie
-Tant pis, car je ne déjeunerai pas.
-
--*who_belval
 Pourquoi donc ?
 
--*who_sophie
-Je prends les eaux de Vichy.
+Je ne vous savais pas malade. Depuis quand ?
 
--*who_belval
-Je ne vous savais pas malade.
-Depuis quand ?
-
--*who_sophie
-Depuis quinze jours.
-Je retournais chez moi avec assez de rapidité : ma voiture écrasa le plus joli petit épagneul possible tout pareil à mon bibi.
-Cette ressemblance, les cris de douleur de ce charmant animal...
-
--*who_belval
 Vous ont causé une révolution.
 
--*who_sophie
-Oui, très violente.
+Ce sera donc pour le premier survenant. Voici justement la Fleur qui vient annoncer quelqu'un. Qui est-ce, La Fleur ?
 
--*who_belval
-Ce sera donc pour le premier survenant.
-Voici justement la Fleur qui vient annoncer quelqu'un.
-Qui est-ce, La Fleur ?
-
-**** *book_ *id_I08 *act_I *date_(inc
-
--*who_lafleur
-C'est un Monsieur qui revient au moins pour la sixième fois.
-
--*who_belval
 Le connais-tu ?
 
--*who_lafleur
-Non, Monsieur.
+Eh bien ! Dis lui que j'y suis. Non, non, que je n'y suis pas.
 
--*who_belval
-Eh bien !
-Dis lui que j'y suis.
-Non, non, que je n'y suis pas.
-
--*who_sophie
-Il faut croire qu'il ne vient pas inutilement.
-
--*who_belval
-Ah !
-Si vous plaidez pour lui, vous obtiendrez tout.
+Ah ! Si vous plaidez pour lui, vous obtiendrez tout.
 A-t-il paru s'impatienter dans les différentes fois ?
 
--*who_lafleur
-Il a toujours été d'une patience comme Monsieur l'exige ; et il s'en est allé bien souvent, sachant que vous y étiez, sans marquer la moindre humeur.
+À la bonne heure... Fais-le entrer.
 
--*who_belval
-À la bonne heure...
-Fais-le entrer.
-
--*who_lafleur
-Oui, Monsieur.
-
--*who_belval
 À propos, écoute ; quelle tournure a-t-il ?
 
--*who_lafleur
-Il n'en a pas.
-
--*who_belval
 Il ne t'a pas dit son nom.
 
--*who_lafleur
-Non, Monsieur.
-
--*who_sophie
-Il faut croire qu'il en a un.
-
--*who_lafleur
-Mais, Monsieur, oserais-je vous prier de le recevoir dans votre antichambre.
-
--*who_belval
 Pourquoi ?
 
--*who_lafleur
-Ah !
-C'est qu'il est si crotté !...
-
--*who_belval
 Là, bien crotté.
 
--*who_lafleur
-Il est venu à pied par le temps qu'il fait.
-
--*who_belval
-Ah !
-C'est un auteur.
+Ah ! C'est un auteur.
 Qu'importe ; fais ce que je te dis.
 C'est à cause de cela qu'il faut le recevoir.
 
--*who_sophie
-Vous êtes un peu méchant.
-Voyez quelle comparaison ce pauvre malheureux sera obligé de faire.
+Bon ! Il fera une satyre ; c'est dans l'ordre ; chacun son rôle... Mais le voici ; taisons-nous.
 
--*who_belval
-Bon !
-Il fera une satyre ; c'est dans l'ordre ; chacun son rôle...
-Mais le voici ; taisons-nous.
+Voilà plusieurs fois, Monsieur, que vous m'avez fait l'honneur de venir chez moi. Je suis désespéré de ne m'y être pas trouvé. Pourrais-je savoir à quoi je puis vous être utile ?
 
-**** *book_ *id_I09 *act_I *date_(inc
+Une Pièce... Ah ! Pardonnez-moi... Vous l'appelez.
 
--*who_belval
-Voilà plusieurs fois, Monsieur, que vous m'avez fait l'honneur de venir chez moi.
-Je suis désespéré de ne m'y être pas trouvé.
-Pourrais-je savoir à quoi je puis vous être utile ?
-
--*who_lecomte
-Différents billets que je vous ai laissés ont pu vous rappeler que vous avez daigné me promettre vos soins, pour une Pièce que je vous ai remise, il y a à peu près trois mois.
-
--*who_belval
-Une Pièce...
-Ah !
-Pardonnez-moi...
-Vous l'appelez.
-
--*who_lecomte
-L'Oubli de soi-même.
-
--*who_belval
 Daignez donc vous seoir ; je ne faisais pas attention...
 
--*who_sophie
-C'est un caractère qui promet.
+Oui, je crois que je l'ai lu... Je m'en souviens très bien. Mais je vous l'avouerai franchement : elle ne vous convient pas. Ce n'est pas qu'elle ne soit fort bien écrite : au contraire, elle montre aussi que vous avez infiniment d'esprit ; mais le sujet de Morale...
 
--*who_lecomte
-Oui, Madame ; on ne manque pas d'originaux.
+Eh bien ! Je ne vous le cache pas.
 
--*who_belval
-Oui, je crois que je l'ai lu...
-Je m'en souviens très bien.
-Mais je vous l'avouerai franchement : elle ne vous convient pas.
-Ce n'est pas qu'elle ne soit fort bien écrite : au contraire, elle montre aussi que vous avez infiniment d'esprit ; mais le sujet de Morale...
-
--*who_lecomte
-Déplaît.
-
--*who_belval
-Eh bien !
-Je ne vous le cache pas.
-
--*who_lecomte
-Je l'ai toujours craint.
-
--*who_belval
 Ne m'en voulez pas de ma franchise.
 
--*who_lecomte
-Je l'ai toujours trop estimé, pour qu'elle me fit quelque peine.
-
--*who_belval
 Cette résignation annonce des talents peu communs : exercez-les, Monsieur, sur un autre sujet, et vous verrez avec combien de zèle je m'emploierai.
 
--*who_lecomte
-Ah !
-Combien de reconnaissance !Je vous quitte, Monsieur ; et ne veux point abuser de vos moments.
-
--*who_belval
 Quoi ?Par un temps aussi mauvais.
 
--*who_lecomte
-Je le prends comme il vient, et sais me faire à tout.
+Ah ! Je ne souffrirai pas que vous retourniez à pied : mes chevaux sont à ma voiture ; daignez les accepter.
 
--*who_belval
-Ah !
-Je ne souffrirai pas que vous retourniez à pied : mes chevaux sont à ma voiture ; daignez les accepter.
-
--*who_lecomte
-Mille obligations, Monsieur ; je ne puis ni ne dois accepter ces offres obligeantes.
-
-**** *book_ *id_I10 *act_I *date_(inc
-
--*who_lafleur
-Monsieur a sonné.
-
--*who_belval
 Monsieur veut bien prendre ma voiture.
 
--*who_lecomte
-En vérité, Monsieur.....
-
--*who_belval
 Daignez ne pas me refuser...
 
--*who_lecomte
-J'accepte donc, puisque vous le voulez,et sors pénétré de tout ce que vous faites pour moi.
-Adieu, Monsieur : Madame, je vous présente mon respect.
+Est-il sorti donc ? Oui. Il doit être furieux, il va sécher de jalousie.
 
-**** *book_ *id_I11 *act_I *date_(inc
+La mine qu'il fait dans mon équipage ! Ah ! la Fleur m'en rendra bon compte. Fiez-vous à lui ; il est bon Peintre ; il a le mérite de la description.
 
--*who_belval
-Est-il sorti donc ?
-Oui.
-Il doit être furieux, il va sécher de jalousie.
-
--*who_sophie
-Ah !
-Je serais curieuse de voir la mine qu'il fait maintenant dans votre équipage.
-
--*who_belval
-La mine qu'il fait dans mon équipage !
-Ah ! la Fleur m'en rendra bon compte.
-Fiez-vous à lui ; il est bon Peintre ; il a le mérite de la description.
-
--*who_sophie
-À propos, avez-vous remarqué qu'à travers la simplicité de sa mise, il a un certain air d'assurance,et qu'il est d'une figure assez distinguée.
-
--*who_belval
 Comment, vous avez fait cette remarque ?
 Oui, oui, il est assez bien, pas mal.
 
--*who_sophie
-Mais, le connaissez-vous un peu ce Monsieur l'Auteur ?
-
--*who_belval
 Ma foi non, pas plus que son ouvrage.
 
--*who_sophie
-Comment, vous ne l'auriez pas lu ?
+Ah ! Je vous le proteste. Je l'ai jeté avec une vingtaine d'autres qui ont eu le même sort.
 
--*who_belval
-Ah !
-Je vous le proteste.
-Je l'ai jeté avec une vingtaine d'autres qui ont eu le même sort.
+Il fallait bien dire quelque chose. Je me rappelle qu'il y a trois mois, le jour de cette pièce où nous fûmes l'un et l'autre tant applaudis, je fus entouré après le spectacle d'une trentaine de personnes qui venaient me réitérer les remerciements du plaisir que je leur avais fait éprouver. Dans le nombre était ce Monsieur qui me suivit jusqu'à ma loge. Il m'accabla de nouveaux compliments que je fis semblant de ne pas entendre, parce que je voulais être tranquille : enfin il me remit cette Pièce en question que je fus obligé de prendre. Je lui promis tout ce qu'il voulut ; mais, d'honneur, je n'y ai plus pensé. La Fleur m'a dit qu'il était déjà venu plusieurs fois, et ce n'est que d'aujourd'hui que j'ai consenti à le recevoir, encore en connaissez-vous le motif ?
 
--*who_sophie
-Ah !
-Ah !
-Ah !
-Rien n'est plus plaisant, en vérité.
-Comment, ces conseils, cet air de persuasion avec lequel vous l'engagiez ?
+Mais vos beaux yeux se rembrunissent. Quoi ! Une plaisanterie qui, dans le fait, nous délivre d'un mauvais ouvrage ?
 
--*who_belval
-Il fallait bien dire quelque chose.
-Je me rappelle qu'il y a trois mois, le jour de cette pièce où nous fûmes l'un et l'autre tant applaudis, je fus entouré après le spectacle d'une trentaine de personnes qui venaient me réitérer les remerciements du plaisir que je leur avais fait éprouver.
-Dans le nombre était ce Monsieur qui me suivit jusqu'à ma loge.
-Il m'accabla de nouveaux compliments que je fis semblant de ne pas entendre, parce que je voulais être tranquille : enfin il me remit cette Pièce en question que je fus obligé de prendre.
-Je lui promis tout ce qu'il voulut ; mais, d'honneur, je n'y ai plus pensé.
-La Fleur m'a dit qu'il était déjà venu plusieurs fois, et ce n'est que d'aujourd'hui que j'ai consenti à le recevoir, encore en connaissez-vous le motif ?
+Ah ! Je m'aperçois de ce que c'est : vous lui trouvez des qualités que je n'ai pas aperçues : d'ailleurs, il est assez bien fait. Ah, Sophie ! Sous mes yeux un nouveau penchant ; convenez donc que c'est humiliant pour moi.
 
--*who_sophie
-Oui, j'en suis édifiée.
-
--*who_belval
-Mais vos beaux yeux se rembrunissent.
-Quoi !
-Une plaisanterie qui, dans le fait, nous délivre d'un mauvais ouvrage ?
-
--*who_sophie
-Mauvais !
-Il fallait le lire au moins.
-
--*who_belval
-Ah !
-Je m'aperçois de ce que c'est : vous lui trouvez des qualités que je n'ai pas aperçues : d'ailleurs, il est assez bien fait.
-Ah, Sophie !
-Sous mes yeux un nouveau penchant ; convenez donc que c'est humiliant pour moi.
-
--*who_sophie
-Ne vous guérirez-vous pas de ce persiflage ridicule.
-Je vous répète que votre conduite envers ce Monsieur, est très leste, l'est beaucoup trop.
-
--*who_belval
 Mais, réfléchissez donc, ma belle amie ; que s'il fallait lire tout ce qu'on nous présente, nous n'aurions pas le temps d'exister.
 
--*who_sophie
-Quand on connaît l'homme pour un méchant auteur, c'est fort bien ; mais quand vous ne pouvez savoir quel est son mérite, pourquoi donc le rebuter aussi durement ?...Je parirais qu'il se doute que vous n'avez pas lu sa pièce.
+Oh ! Vous le faites bien pénétrant. Allons, faisons la paix : je vous promets de me faire rendre compte de cette production : j'entre dans vos raisons... Oui, je conçois ce que vous me dites.
 
--*who_belval
-Oh !
-Vous le faites bien pénétrant.
-Allons, faisons la paix : je vous promets de me faire rendre compte de cette production : j'entre dans vos raisons...
-Oui, je conçois ce que vous me dites.
+En vérité, ce sont des vapeurs au moins que vous avez. Ne parlons plus de cela, Sophie,et pensons à notre voyage, où nous devons moissonner de l'or et des lauriers. Que cette idée là vous réjouisse : car, je vous l'avouerai, vingt-mille francs ne me suffisent pas : j'avais réellement besoin de ce congé pour arranger mes affaires ; cette campagne, ces meubles, ma voiture et mille autres folies.
 
--*who_sophie
-Ah !
-Belval, Belval, votre conduite est bien légère !
-Si elle n'est pas...
-
--*who_belval
-En vérité, ce sont des vapeurs au moins que vous avez.
-Ne parlons plus de cela, Sophie,et pensons à notre voyage, où nous devons moissonner de l'or et des lauriers.
-Que cette idée là vous réjouisse : car, je vous l'avouerai, vingt-mille francs ne me suffisent pas : j'avais réellement besoin de ce congé pour arranger mes affaires ; cette campagne, ces meubles, ma voiture et mille autres folies.
-
--*who_sophie
-Il est vrai que l'argent me fond dans les mains : je ne sais comment ; une femme est pillée par tout le monde.
-Eh puis !
-N'ai je pas ma famille entière à nourrir.
-Je suis bien loin de regretter cette dépense ; mais elle abuse un peu de ma complaisance.
-Que faire à cela ?
-
--*who_belval
 Renvoyez-moi la dans la province avec une petite pension, où en leur faisant obtenir quelque place, rien ne vous sera plus facile.
 
--*who_sophie
-Vous avez raison.
-Je garderai seulement ma pauvre mère, car je mourrais, je crois, de douleur, d'en agir avec elle comme tant d'autres femmes.
-Cette ingratitude, cet orgueil m'inspirent pour elles le mépris et la haine la plus violente.
+Cœur excellent ! Combien vous vous attachez ceux qui vous connaissent à fond ? Mais voilà déjà la Fleur de retour.
 
--*who_belval
-Cœur excellent !
-Combien vous vous attachez ceux qui vous connaissent à fond ?
-Mais voilà déjà la Fleur de retour.
+Eh bien, La Fleur ! Ce Monsieur l'as tu conduit à son cinquième ?
 
-**** *book_ *id_I12 *act_I *date_(inc
-
--*who_belval
-Eh bien, La Fleur !
-Ce Monsieur l'as tu conduit à son cinquième ?
-
--*who_lafleur
-À son cinquième, Monsieur ?
-C'est, je vous assure, quelqu'un de grande importance.
-
--*who_belval
 Bon !
 
--*who_sophie
-Eh bien !
-Ne m'en étais-je pas douté ?
-
--*who_lafleur
-D'ici à votre voiture il m'a suivi en ricanant.
-
--*who_belval
 Comment, faquin, en ricanant.
 
--*who_lafleur
-Eh !
-Oui, ma foi, je vous dis la vérité.
-
--*who_belval
 Ensuite.
 
--*who_lafleur
-Arrivé à votre voiture, je lui en ai ouvert la portière ; il l'a regardé avec admiration.
-
--*who_belval
 Ah !
 
--*who_lafleur
-C'est-à-dire, en haussant les épaules.
-
--*who_belval
 Que dis-tu ?
 
--*who_lafleur
-Ah !
-Rien, Monsieur...
-Je toussais.
-
--*who_belval
 Oui...
 
--*who_lafleur
-Oui, Monsieur.
-
--*who_belval
 Achève.
 
--*who_lafleur
-Enfin il est monté,et s'est fait conduire à deux pas d'ici dans un hôtel superbe ;et la preuve qu'il en est le maître, c'est que le Suisse est venu avec son baudrier lui remettre des lettres.
-Comme il m'avait dit d'attendre, j'ai vu tout cela : ensuite il en a tiré une de sa poche qu'il a ouverte,et à laquelle il a ajouté quelque chose, il m'a recommandé de vous la donner, avec deux louis qu'il m'a prié d'accepter, vous sentez, Monsieur, avec quel plaisir je m'acquitte de cette commission.
-
--*who_belval
-Que peut-il me dire ?
-Voyons.
+Que peut-il me dire ? Voyons.
 Elle était écrite avant de se rendre chez moi...
 
--*who_sophie
-Oui, c'est à quoi je réfléchis ; je suis bien curieuse...
-
--*who_belval
 Vous allez le savoir.
 "Il semble, Monsieur, que vous devriez vous défaire de l'habitude d'offrir des services que secrètement vous vous promettez bien de ne pas rendre." Ce n'est que du verbiage que tout cela ; je l'achèverai dans un autre moment.
 
--*who_sophie
-Non pas, s'il vous plaît, je veux l'entendre entièrement.
-
--*who_belval
 Mais...
 
--*who_sophie
-Je le veux absolument.
-
--*who_belval
 Vous le voulez, à la bonne heure.
 "Ne me croyez pas votre dupe ; vous n'avez pas lu " ma Pièce." Ah j'aime bien qu'il doute.
 
--*who_sophie
-Mais, achevez.
+"Car je ne vous en ai point remise. C'est un cahier blanc sous enveloppe que vous avez reçu de moi."
 
--*who_belval
-"Car je ne vous en ai point remise.
-C'est un cahier blanc sous enveloppe que vous avez reçu de moi."
+Quoi ! Je serais...
+Je continue. " J'ai voulu vérifier si les plaintes que j'ai entendu faire à un jeune homme de ma connaissance avoient quelques fondements. Vous devez croire que je n'ai pas besoin d'autres preuves que les conseils que vous avez bien voulu me donner ce matin, sur ce qui n'existe pas, pour être convaincu qu'il a raison. Comme ma lettre était écrite avant de me rendre chez vous, sachant à point nommé votre réception, et mon dessein étant de la laisser en sortant. Je n'ajouterai que deux mots. Je vous remercie de votre voiture qui est fort douce et plus élégante qu'aucune des miennes : je vous dois cet aveu pour vous prouver ma reconnaissance" Le Comte DE MOEURSEVILLE. Ô Dieu ! C'est moi qui suis complètement sa dupe. Ah, Sophie ! Combien je suis piqué, son persiflage m'accable.
 
--*who_sophie
-Eh bien !...
-Voyons, voyons la fin.
+S'il allait répandre cette aventure, que je serais humilié ! Un homme de son rang sera cru. Oui, je ne sens que trop que ce caractère léger auquel je me suis abandonné conduit insensiblement à la fatuité et à l'oubli de soi-même. Et je me le rappelle ; c'est le reproche qu'il m'a fait. Je veux désormais qu'on n'ait plus à se plaindre de moi : Je profiterai de mon congé, parce que je ne veux pas passer pour inconséquent ; mais une fois de retour, cabales, intrigues, jalousies, j'oublie tout pour me livrer à mon état. Je n'abuserai plus de mes talents pour accabler mes camarades, étant bien convaincu que la modestie et la franchise me procureront plus de satisfaction que les défauts que je me reconnais ne m'ont donné de plaisirs.
 
--*who_belval
-Quoi !
-Je serais...
-Je continue. " J'ai voulu vérifier si les plaintes que j'ai entendu faire à un jeune homme de ma connaissance avoient quelques fondements.
-Vous devez croire que je n'ai pas besoin d'autres preuves que les conseils que vous avez bien voulu me donner ce matin, sur ce qui n'existe pas, pour être convaincu qu'il a raison.
-Comme ma lettre était écrite avant de me rendre chez vous, sachant à point nommé votre réception, et mon dessein étant de la laisser en sortant.
-Je n'ajouterai que deux mots.
-Je vous remercie de votre voiture qui est fort douce et plus élégante qu'aucune des miennes : je vous dois cet aveu pour vous prouver ma reconnaissance" Le Comte DE MOEURSEVILLE. Ô Dieu !
-C'est moi qui suis complètement sa dupe.
-Ah, Sophie !
-Combien je suis piqué, son persiflage m'accable.
-
--*who_sophie
-En vérité, Belval, on le serait à moins : vous avez cru le jouer,et c'est lui qui s'est donné ce plaisir.
-
--*who_belval
-S'il allait répandre cette aventure, que je serais humilié !
-Un homme de son rang sera cru.
-Oui, je ne sens que trop que ce caractère léger auquel je me suis abandonné conduit insensiblement à la fatuité et à l'oubli de soi-même.
-Et je me le rappelle ; c'est le reproche qu'il m'a fait.
-Je veux désormais qu'on n'ait plus à se plaindre de moi : Je profiterai de mon congé, parce que je ne veux pas passer pour inconséquent ; mais une fois de retour, cabales, intrigues, jalousies, j'oublie tout pour me livrer à mon état.
-Je n'abuserai plus de mes talents pour accabler mes camarades, étant bien convaincu que la modestie et la franchise me procureront plus de satisfaction que les défauts que je me reconnais ne m'ont donné de plaisirs.
-
--*who_sophie
-Votre exemple m'entraîne ; ce retour sur vous-même achève ma conquête ;et réellement ne sentez-vous pas, Belval, qu'il vaut mieux la devoir au sentiment, qu'à ce luxe et à cette coquetterie ridicule qui n'auraient pu me séduire.
-
--*who_belval
 Oui, Sophie, oui, vous avez raison.
 
--*who_lafleur
-Le voilà revenu à lui-même.
-Cela paraissait assez difficile : on voit qu'il ne faut jurer de rien.
-Les Auteurs ont eu bien souvent la bonhomie de se faire jouer par les Comédiens.
-Quand ceux-ci se joueraient eux-mêmes à leur tour, quel mal y aurait-il ?
+
+**** *creator_anonyme *book_anonyme_matineecomedienfrancais *style_prose *genre_proverbe *dist1_anonyme_prose_proverbe_matineecomedienfrancais *dist2_anonyme_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+
+En vérité, Belval, il faut que je sois la complaisance même pour venir chez vous au milieu de la pluie, du tonnerre et des éclairs, par le temps le plus affreux.
+
+Oh ! Trêve de galanterie !
+
+Ah !... Savez vous que vous me ferez tourner la tête, si vous continuez.
+
+Vous êtes logé avec une magnificence...
+
+Pourquoi donc ? Il est peut être trop cher.
+
+Ni de boudoir ? Oh ! Il faut avoir un boudoir.
+
+Pour moi, il n'en faut pas.
+
+Je ne l'ai jamais souffert. Et où prenez-vous, Monsieur, que ces soit un tête-à-tête que je vous accorde...
+
+Eh bien ! Quittez donc ce ton déjà conquérant que vous prenez avec moi.
+
+Vous verrez que je passerai mes beaux jours à aimer Monsieur ; cela serait fort réjouissant. Non, je vous le répète, laissons à nos tragédies cet amour romanesque. Je n'y crois pas,et n'y croirai de ma vie : tenez-vous le pour dit.
+
+Encore. Ah ! Vous m'impatientez. Brisons là dessus, ou je pars.
+
+Oui, parlons de choses plus sérieuses.
+
+Vous partez dans quinze jours pour Londres.
+
+Eh bien ! J'ai la même permission.
+
+On dit pourtant qu'elle ne leur tourne pas aisément, c'est une nation froide, sérieuse.
+
+Il est certain que leurs transports sont le plus souvent bien mal placés ; mais c'est un secret qu'il ne faut par leur dire.
+
+Je ne suis pas tout à fait aussi tranquille que vous, mon cher Belval.
+
+Oui je sais qu'ils jugent à merveille ; mais j'aime mieux les voir me juger à Paris qu'à Londres.
+
+Pourquoi... Les Anglais qui voyagent en France savent comme tous les étrangers possibles qu'ils doivent se soumettre aux moeurs nationales, à nos usages, à nos amusements ; soit qu'ils leur plaisent, soit qu'ils ne leur plaisent pas, mais aller chez eux pour leur faire croire que nous devons leur plaire, c'est avoir la prétention de leur prouver que nos spectacles valent mieux que les leurs, et voilà, je crois, ce que nous aurons quelque peine à leur persuader.
+
+D'accord... Que vous et moi pensions comme cela, rien de plus naturel ; mais d'exiger que la nation anglaise préfère notre langue à la sienne, les moeurs, les usages, l'uniformité souvent ennuyeuse de notre théâtre aux libertés, à la licence même qui règne quelquefois sur le sien, nos grands et longs vers sont si difficiles à comprendre, notre ennuyeuse rime est si fatigante pour des oreilles qui n'y sont par faites : en un mot, mon cher ami. Je crois qu'il y a de la présomption à nous croire si sûrs des avantages que nous espérons retirer de ce voyage.
+
+Oui je crois bien que pas curiosité les gens comme il faut voudront bien se réunir pour nous entendre, mais ce n'est pas là ce que j'appelle la nation, et je sais qu'elle est sévère pour les novateurs.
+
+Ce que je crains... Les pommes cuites, et les oranges...
+
+Prétexte de santé. Vous savez, il y a trois jours, que nous nous quittâmes à sept heures du matin, après avoir passé la nuit à faire mille folies. Le soir, je ne pus jouer ; ce qui hâta par hasard le début de cette nouvelle Actrice qui, je vous réponds, n'eut point parue devant six semaines. Vous me trouvâtes la physionomie d'une langueur assez intéressante : ma glace me dit que vous aviez raison. Je fis mettre sur le champ mes chevaux à la voiture. La crainte de ne pas réussir ajouta à ma pâleur. On me plaignit ; mais je revins vive, animée ; car j'obtins ce que je demandai.
+
+Ah ! Dites pendant la nôtre, Monsieur Belval ; je suis juste.
+
+Elle ne le sait pas encore ; j'aurai le plaisir de lui dire ce soir.
+
+Non sûrement. On ne me verra qu'après mon retour ; c'est le seul moyen de se faire désirer.
+
+Cette année... Mais j'ai joué dix à douze fois au moins.
+
+Quoi ?
+
+Qui vous coûte tant d'argent.
+
+Non, je ne la connais pas.
+
+Avec vous seul ?
+
+Soit ; à condition que vous ne vous en vanterez pas.
+
+Allons, j'y consens donc ; je le veux bien.
+
+Ainsi vous ne jouerez pas non plus : Fierville sera détestable dans votre rôle.
+
+Eh bien ! Vous avez vos fantaisies, j'ai les miennes aussi. J'ai celle, d'aller voir comment nos doubles seront reçus, de voir la grosse humeur du Public ; cela sera très réjouissant.
+
+Bon, ne croyez-vous pas que je me donne la douleur de voir toute la Pièce : les trois premières Scènes, à la bonne heure ; dans le moment de la grosse crise, voilà tout.
+
+Eh ! N'ai-je pas cette loge grillée qu'on me prête quand je veux. J'irai bien empaquetée ; vous, le mouchoir sur les dents, chapeau détroussé, costume étranger.
+
+Pour qui donc ces préparatifs ?
+
+Tant pis, car je ne déjeunerai pas.
+
+Je prends les eaux de Vichy.
+
+Depuis quinze jours. Je retournais chez moi avec assez de rapidité : ma voiture écrasa le plus joli petit épagneul possible tout pareil à mon bibi. Cette ressemblance, les cris de douleur de ce charmant animal...
+
+Oui, très violente.
+
+Il faut croire qu'il ne vient pas inutilement.
+
+Il faut croire qu'il en a un.
+
+Vous êtes un peu méchant. Voyez quelle comparaison ce pauvre malheureux sera obligé de faire.
+
+C'est un caractère qui promet.
+
+Ah ! Je serais curieuse de voir la mine qu'il fait maintenant dans votre équipage.
+
+À propos, avez-vous remarqué qu'à travers la simplicité de sa mise, il a un certain air d'assurance,et qu'il est d'une figure assez distinguée.
+
+Mais, le connaissez-vous un peu ce Monsieur l'Auteur ?
+
+Comment, vous ne l'auriez pas lu ?
+
+Ah ! Ah ! Ah ! Rien n'est plus plaisant, en vérité. Comment, ces conseils, cet air de persuasion avec lequel vous l'engagiez ?
+
+Oui, j'en suis édifiée.
+
+Mauvais ! Il fallait le lire au moins.
+
+Ne vous guérirez-vous pas de ce persiflage ridicule. Je vous répète que votre conduite envers ce Monsieur, est très leste, l'est beaucoup trop.
+
+Quand on connaît l'homme pour un méchant auteur, c'est fort bien ; mais quand vous ne pouvez savoir quel est son mérite, pourquoi donc le rebuter aussi durement ?...Je parirais qu'il se doute que vous n'avez pas lu sa pièce.
+
+Ah ! Belval, Belval, votre conduite est bien légère ! Si elle n'est pas...
+
+Il est vrai que l'argent me fond dans les mains : je ne sais comment ; une femme est pillée par tout le monde. Eh puis ! N'ai je pas ma famille entière à nourrir. Je suis bien loin de regretter cette dépense ; mais elle abuse un peu de ma complaisance. Que faire à cela ?
+
+Vous avez raison. Je garderai seulement ma pauvre mère, car je mourrais, je crois, de douleur, d'en agir avec elle comme tant d'autres femmes. Cette ingratitude, cet orgueil m'inspirent pour elles le mépris et la haine la plus violente.
+
+Eh bien ! Ne m'en étais-je pas douté ?
+
+Oui, c'est à quoi je réfléchis ; je suis bien curieuse...
+
+Non pas, s'il vous plaît, je veux l'entendre entièrement.
+
+Je le veux absolument.
+
+Mais, achevez.
+
+Eh bien !... Voyons, voyons la fin.
+
+En vérité, Belval, on le serait à moins : vous avez cru le jouer,et c'est lui qui s'est donné ce plaisir.
+
+Votre exemple m'entraîne ; ce retour sur vous-même achève ma conquête ;et réellement ne sentez-vous pas, Belval, qu'il vaut mieux la devoir au sentiment, qu'à ce luxe et à cette coquetterie ridicule qui n'auraient pu me séduire.
+
+
+**** *creator_anonyme *book_anonyme_matineecomedienfrancais *style_prose *genre_proverbe *dist1_anonyme_prose_proverbe_matineecomedienfrancais *dist2_anonyme_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_verville
+
+Pardon, Monsieur, si j'ai osé insister pour avoir l'honneur de vous voir, mais je me trouve forcé de partir dans quinze jours d'après une lettre que j'ai reçue hier, sinon je manque une place très sûre pour une autre qui est encore très incertaine.
+
+Sans doute. Je connais combien votre nom a de poids ; cependant daignez réfléchir au peu de temps qui me reste, surtout avec trois Débuts à passer avant moi.
+
+Trois ; oui, Monsieur.
+
+Quoi !
+
+Mais si l'un d'eux allait plaire.
+
+J'en conviens.
+
+Vous me persuadez plus que jamais.
+
+Il est vrai que si j'avais à craindre le même sort, je renoncerais bientôt.
+
+Il est vrai que cela est embarrassant, et que les spectateurs sont obligés d'entrer dans ces intérêts particuliers.
+
+Mais oserais-je vous demander pourquoi vous voulez que je ne débute que le dernier ?
+
+Cela paraît naturel.
+
+Cela est probable.
+
+Et si un jour les spectateurs, s'apercevaient de leur méprise !...
+
+Il vous fera toujours facile de trouver des gens qui valent moins que vous ; mais moi comment par la suite pourrais-je...
+
+Tout ce que vous me dites me rassure extrêmement ! Cependant il me reste des remords par rapport à ces pauvres diables qui me seront sacrifiés...
+
+Comment vous exprimer tout ce que je vous dois ?
+
+
+**** *creator_anonyme *book_anonyme_matineecomedienfrancais *style_prose *genre_proverbe *dist1_anonyme_prose_proverbe_matineecomedienfrancais *dist2_anonyme_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
+Monsieur ?
+
+J'étais à écouter les instances de ce jeune homme que Monsieur veut bien protéger dans son début.
+
+C'est ce que je lui ai observé ; cependant il a tant d'inquiétude, tant de véritable admiration pour Monsieur, que je me suis engagé à une audience pour aujourd'hui.
+
+Tranquillisez-vous ; suivant nos conventions il ne doit rester qu'un demi-quart d'heure ; ce déjeuner galant que vous m'avez fait préparer, signifie des projets, et rien ne sera troublé.
+
+Ah ! Monsieur.
+
+Oui, Monsieur.
+
+Elle est superbe, magnifique ; la couleur est charmante. Ce qu'il y a de plaisant, c'est que des coupons, Fraquet a fait à son petit bonhomme un habit de matelot très joli et sans couture.
+
+Oui Monsieur.
+
+C'est un Monsieur qui revient au moins pour la sixième fois.
+
+Non, Monsieur.
+
+Il a toujours été d'une patience comme Monsieur l'exige ; et il s'en est allé bien souvent, sachant que vous y étiez, sans marquer la moindre humeur.
+
+Oui, Monsieur.
+
+Il n'en a pas.
+
+Non, Monsieur.
+
+Mais, Monsieur, oserais-je vous prier de le recevoir dans votre antichambre.
+
+Ah ! C'est qu'il est si crotté !...
+
+Il est venu à pied par le temps qu'il fait.
+
+Monsieur a sonné.
+
+À son cinquième, Monsieur ? C'est, je vous assure, quelqu'un de grande importance.
+
+D'ici à votre voiture il m'a suivi en ricanant.
+
+Eh ! Oui, ma foi, je vous dis la vérité.
+
+Arrivé à votre voiture, je lui en ai ouvert la portière ; il l'a regardé avec admiration.
+
+C'est-à-dire, en haussant les épaules.
+
+Ah ! Rien, Monsieur... Je toussais.
+
+Oui, Monsieur.
+
+Enfin il est monté,et s'est fait conduire à deux pas d'ici dans un hôtel superbe ;et la preuve qu'il en est le maître, c'est que le Suisse est venu avec son baudrier lui remettre des lettres. Comme il m'avait dit d'attendre, j'ai vu tout cela : ensuite il en a tiré une de sa poche qu'il a ouverte,et à laquelle il a ajouté quelque chose, il m'a recommandé de vous la donner, avec deux louis qu'il m'a prié d'accepter, vous sentez, Monsieur, avec quel plaisir je m'acquitte de cette commission.
+
+Le voilà revenu à lui-même. Cela paraissait assez difficile : on voit qu'il ne faut jurer de rien. Les Auteurs ont eu bien souvent la bonhomie de se faire jouer par les Comédiens. Quand ceux-ci se joueraient eux-mêmes à leur tour, quel mal y aurait-il ?
+

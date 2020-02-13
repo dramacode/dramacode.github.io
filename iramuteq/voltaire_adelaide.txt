@@ -1,8 +1,980 @@
 
 
-**** *book_ *id_I01 *act_I *date_1734
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vendome
 
--*who_coucy
+      J'oublie à vos genoux, charmante Adélaïde,
+Le trouble et les horreurs où mon destin me guide ;
+Vous seule adoucissez les maux que nous souffrons,
+Vous nous rendez plus pur l'air que nous respirons.
+La discorde sanglante afflige ici la terre ;
+Vos jours sont entourés des pièges de la guerre.
+J'ignore à quel destin le ciel veut me livrer ;
+Mais si d'un peu de gloire il daigne m'honorer,
+Cette gloire, sans vous obscure et languissante,
+Des flambeaux de l'hymen deviendra plus brillante.
+Souffrez que mes lauriers, attachés par vos mains,
+Écartent le tonnerre et bravent les destins ;
+Ou, si le ciel jaloux a conjuré ma perte,
+Souffrez que de nos noms ma tombe au moins couverte,
+Apprenne à l'avenir que Vendôme amoureux
+Expira votre époux, et périt trop heureux.
+
+Non, madame... D'où vient que votre coeur troublé
+Répond en frémissant à ma tendresse extrême ?
+Vous parlez de Coucy, quand Vendôme vous aime !
+
+Ah ! je jure par vous, vous qui m'êtes si chère,
+Par les doux noms d'amants, par le saint nom de frère,
+Que Nemours, après vous, fut toujours à mes yeux
+Le plus cher des mortels, et le plus précieux.
+Lorsqu'à mes ennemis sa valeur fut livrée,
+Ma tendresse en souffrit, sans en être altérée.
+Sa mort m'accablerait des plus horribles coups ;
+Et pour m'en consoler, mon coeur n'aurait que vous.
+Mais on croit trop ici l'aveugle renommée,
+Son infidèle voix vous a mal informée :
+Si mon frère était mort, doutez-vous que son roi,
+Pour m'apprendre sa perte, eût dépêché vers moi ?
+Ceux que le ciel forma d'une race si pure,
+Au milieu de la guerre écoutant la nature,
+Et protecteurs des lois que l'honneur doit dicter,
+Même en se combattant, savent se respecter.
+À sa perte, en un mot, donnons moins de créance.
+Un bruit plus vraisemblable, et m'afflige, et m'offense :
+On dit que vers ces lieux il a porté ses pas.
+
+      Je lui pardonne, hélas !
+Qu'au parti de son roi son intérêt le range ;
+Qu'il le défende ailleurs, et qu'ailleurs il le venge ;
+Qu'il triomphe pour lui, je le veux, j'y consens :
+Mais se mêler ici parmi les assiégeants,
+Me chercher, m'attaquer, moi, son ami, son frère...
+
+      Ah ! destin trop contraire !
+Se pourrait-il qu'un frère, élevé dans mon sein,
+Pour mieux servir son roi levât sur moi sa main ?
+Lui qui devrait plutôt, témoin de cette fête,
+Partager, augmenter, mon bonheur qui s'apprête.
+
+      C'est trop d'amertume en des moments si doux.
+Malheureux par un frère, et fortuné par vous,
+Tout entier à vous seule, et bravant tant d'alarmes,
+Je ne veux voir que vous, mon hymen, et vos charmes.
+Qu'attendez-vous ? donnez à mon coeur éperdu
+Ce coeur que j'idolâtre, et qui m'est si bien dû.
+
+      Comment ! ô ciel ! qui vous arrête ?
+
+      Ah ! courons dans l'ardeur qui me presse,
+Quoi ! vous n'osez d'un mot rassurer ma tendresse ?
+Vous détournez les veux ! vous tremblez ! et je voi
+Que vous cachez des pleurs qui ne sont pas pour moi.
+
+      Il est temps que Vendôme périsse :
+Il n'est point de Français que l'amour avilisse :
+Amants aimés, heureux, ils cherchent les combats,
+Ils courent à la gloire ; et je vole au trépas.
+Allons, brave Coucy, la mort la plus cruelle,
+La mort, que je désire, est moins barbare qu'elle.
+
+Ah ! Que vous savez bien le chemin de mon coeur ?
+Que vous savez mêler la douceur à l'injure !
+Un seul mot m'accablait, un seul mot me rassure.
+Content, rempli de vous, j'abandonne ces lieux,
+Et crois voir ma victoire écrite dans vos yeux.
+
+Nous périssions sans vous, Coucy, je le confesse.
+Vos conseils ont guidé ma fougueuse jeunesse ;
+C'est vous dont l'esprit ferme et les yeux pénétrants
+M'ont porté des secours en cent lieux différents.
+Que n'ai-je, comme vous, ce tranquille courage,
+Si froid dans le danger, si calme dans l'orage !
+Coucy m'est nécessaire aux conseils, aux combats ;
+Et c'est à sa grande âme à diriger mon bras.
+
+D'où vient donc, cher Coucy, que cet audacieux,
+Sous son casque fermé, se cachait à mes veux ?
+D'où vient qu'en le prenant, qu'en saisissant ses armes,
+J'ai senti, malgré moi, de nouvelles alarmes ?
+Un je ne sais quel trouble en moi s'est élevé ;
+Soit que ce triste amour, dont je suis captivé,
+Sur mes sens égarés répandant sa tendresse,
+Jusqu'au sein des combats m'ait prêté sa faiblesse,
+Qu'il ait voulu marquer toutes mes actions
+Par la molle douceur de ses impressions ;
+Soit plutôt que la voix de ma triste patrie
+Parle encore en secret au coeur qui l'a trahie ;
+Qu'elle condamne encor mes funestes succès,
+Et ce bras qui n'est teint que du sang des Français.
+
+Ah ! voilà ce guerrier qu'on amène à ma vue.
+
+Il soupire, il paraît accablé de regrets.
+
+      Devant votre vainqueur,
+Qui sait d'un ennemi respecter la valeur.
+Venez, ne craignez rien.
+
+Quelle voix, quels accents ont frappé mes esprits ?
+
+      Ah, Nemours ! ah, mon frère !
+
+Tu n'es plus que mon frère. Ah ! moment plein de charmes !
+Ah ! laisse-moi laver ton sang avec mes larmes.
+Avez-vous par vos soins ?...
+
+Ne te détourne point, ne crains point mon reproche.
+Mon coeur te fut connu ; peux-tu t'en défier ?
+Le bonheur de te voir me fait tout oublier.
+J'eusse aimé contre un autre à montrer mon courage.
+Hélas ! que je te plains !
+
+Arrête : épargne-moi l'infâme nom de traître ;
+À cet indigne mot je m'oublierais peut-être.
+Frémis d'empoisonner la joie et les douceurs
+Que ce tendre moment doit verser dans nos coeurs.
+Dans ce jour malheureux que l'amitié l'emporte.
+
+      Je le bénis.
+
+      N'importe ;
+Tu vis, je te revois, et je suis trop heureux.
+Ô ciel ! de tous côtés vous remplissez mes voeux !
+
+J'aime ; oui, la renommée a pu le publier ;
+Oui, j'aime avec fureur une telle alliance
+Semblait pour mon bonheur attendre ta présence ;
+Oui, mes ressentiments, mes droits, mes alliés,
+Gloire, amis, ennemis, je mets tout à ses pieds.
+Allez, et dites-lui que deux malheureux frères,
+Jetés par le destin dans des partis contraires,
+Pour marcher désormais sous le même étendard,
+De ses yeux souverains n'attendent qu'un regard.
+Ne blâme point l'amour où ton frère est en proie ;
+Pour me justifier il suffit qu'on la voie.
+
+      Elle le doit, du moins ;
+Il n'était qu'un obstacle au succès de mes soins ;
+Il n'en est plus ; je veux que rien ne nous sépare.
+
+Oublions ces sujets de discorde et de haine.
+
+Madame, vous voyez que du sein du malheur,
+Le ciel qui nous protège a tiré mon bonheur.
+J'ai vaincu, je vous aime, et je retrouve un frère ;
+Sa présence à mon coeur vous rend encor plus chère.
+
+Que vois-je ! Sa blessure à l'instant s'est rouverte !
+Son sang coule !
+
+Ah ! mon frère !
+
+      Je ne te quitte pas.
+
+Madame, par mes mains son sang est arrêté.
+Il a repris sa force et sa tranquillité.
+Je suis le seul à plaindre, et le seul en alarmes ;
+Je mouille en frémissant mes lauriers de mes larmes ;
+Et je hais ma victoire et mes prospérités,
+Si je n'ai par mes soins vaincu vos cruautés :
+Si votre incertitude, alarmant mes tendresses,
+Ose encor démentir la foi de vos promesses.
+
+Quoi ! lorsque de ma main je vous offrais l'hommage !.
+
+Je suis, je l'avouerai, surpris de ce langage ;
+Je ne m'attendais pas à ce nouvel outrage,
+Et n'avais pas prévu que le sort en courroux,
+Pour m'accabler d'affronts, dût se servir de vous.
+Vous avez fait, madame, une secrète étude
+Du mépris, de l'insulte, et de l'ingratitude ;
+Et votre coeur enfin, lent à se déployer,
+Hardi par ma faiblesse, a paru tout entier.
+Je ne connaissais pas tout ce zèle héroïque,
+Tant d'amour pour vos rois, ou tant de politique.
+Mais, vous qui m'outragez, me connaissez-vous bien ?
+Vous reste-t-il ici de parti que le mien ?
+Vous qui me devez tout, vous qui, sans ma défense,
+Auriez de ces Français assouvi la vengeance,
+De ces mêmes Français, à qui vous vous vantez
+De conserver la foi d'un coeur que vous m'ôtez !
+Est-ce donc là le prix de vous avoir servie ?
+
+Je deviendrai tyran, mais moins que vous, cruelle ;
+Mes yeux lisent trop bien dans votre âme rebelle ;
+Tous vos prétextes faux m'apprennent vos raisons :
+Je vois mon déshonneur, je vois vos trahisons.
+Quel que soit l'insolent que ce coeur me préfère,
+Redoutez mon amour, tremblez de ma colère ;
+C'est lui seul désormais que mon bras va chercher ;
+De son coeur tout sanglant j'irai vous arracher ;
+Et si, dans les horreurs du sort qui nous accable,
+De quelque joie encor ma fureur est capable,
+Je la mettrai, perfide, à vous désespérer.
+
+Arrêtez ; pardonnez aux transports égarés,
+Aux fureurs d'un amant que vous désespérez.
+Je vois trop qu'avec vous Coucy d'intelligence,
+D'une cour qui me hait embrasse la défense ;
+Que vous voulez tous deux m'unir à votre roi,
+Et de mon sort enfin disposer malgré moi.
+Vos discours sont les siens. Ah ! parmi tant d'alarmes,
+Pourquoi recourez-vous à ces nouvelles armes ?
+Pour gouverner mon coeur, l'asservir, le changer,
+Aviez-vous donc besoin d'un secours étranger ?
+Aimez, il suffira d'un mot de votre bouche.
+
+Le seul Coucy, sans doute, a votre confiance ;
+Mon outrage est connu ; je sais vos sentiments.
+
+Eh bien ! C'en est donc fait ! L'ingrate, la parjure,
+À mes yeux sans rougir étale mon injure :
+De tant de trahison l'abîme est découvert ;
+Je n'avais qu'un ami, c'est lui seul qui me perd.
+Amitié, vain fantôme, ombre que j'ai chérie,
+Toi qui me consolais des malheurs de ma vie,
+Bien que j'ai trop aimé, que j'ai trop méconnu,
+Trésor cherché sans cesse, et jamais obtenu !
+Tu m'as trompé, cruelle, autant que l'amour même ;
+Et maintenant, pour prix de mon erreur extrême,
+Détrompé des faux biens, trop faits pour me charmer,
+Mon destin me condamne à ne plus rien aimer.
+Le voilà cet ingrat qui, fier de son parjure,
+Vient encor de ses mains déchirer ma blessure.
+
+Je suis désespéré, je suis haï, jaloux.
+
+      Vous,
+Vous, dis-je ; et du refus qui vient de me confondre,
+C'est vous, ingrat ami, qui devez me répondre.
+Je sais qu'Adélaïde ici vous a parlé ;
+En vous nommant à moi, la perfide a tremblé ;
+Vous affectez sur elle un odieux silence,
+Interprète muet de votre intelligence :
+Elle cherche à me fuir, et vous à me quitter.
+Je crains tout, je crois tout.
+
+Je le veux.
+
+Oui, jusqu'à ce moment je vous crus vertueux ;
+Je vous crus mon ami.
+
+Ah ! généreux ami, qu'il faut que je révère,
+Oui, le destin dans toi me donne un second frère ;
+Je n'en étais pas digne, il le faut avouer :
+Mon coeur?
+
+Brave et prudent Coucy, crois-tu qu'Adélaïde
+Dans son coeur amolli partagerait mes feux,
+Si le même parti nous unissait tous deux ?
+Penses-tu qu'à m'aimer je pourrais la réduire ?
+
+Le sort en est jeté, je ferai tout pour elle ;
+Il faut bien à la fin désarmer la cruelle ;
+Ses lois seront mes lois, son roi sera le mien ;
+Je n'aurai de parti, de maître que le sien.
+Possesseur d'un trésor où s'attache ma vie,
+Avec mes ennemis je me réconcilie ;
+Je lirai dans ses yeux mon sort et mon devoir ;
+Mon coeur est enivré de cet heureux espoir.
+Enfin, plus de prétexte à ses refus injustes :
+Raison, gloire, intérêt, et tous ces droits augustes
+Des princes de mon sang et de mes souverains,
+Sont des liens sacrés resserrés par ses mains.
+Du roi, puisqu'il le faut, soutenons la couronne ;
+La vertu le conseille, et la beauté l'ordonne.
+Je veux entre tes mains, en ce fortuné jour,
+Sceller tous les serments que je fais à l'amour :
+Quant à mes intérêts, que toi seul en décide.
+
+Connaissez donc enfin jusqu'où va ma tendresse,
+Et tout votre pouvoir, et toute ma faiblesse :
+Et vous, mon frère, et vous, soyez ici témoin
+Si l'excès de l'amour peut emporter plus loin.
+Ce que votre amitié, ce que votre prière,
+Les conseils de Coucy, le roi, la France entière,
+Exigeaient de Vendôme, et qu'ils n'obtenaient pas,
+Soumis et subjugué, je l'offre à ses appas.
+L'amour, qui malgré vous nous a faits l'un pour l'autre,
+Ne me laisse de choix, de parti, que le vôtre.
+Je prends mes lois de vous ; votre maître est le mien :
+De mon frère et de moi soyez l'heureux lien ;
+Soyez-le de l'État, et que ce jour commence
+Mon bonheur et le vôtre, et la paix de la France.
+Vous, courez, mon cher frère, allez dès ce moment
+Annoncer à la cour un si grand changement.
+Moi, sans perdre de temps, dans ce jour d'allégresse,
+Qui m'a rendu mon roi, mon frère, et ma maîtresse,
+D'un bras vraiment français, je vais, dans nos remparts,
+Sous nos lis triomphants briser les léopards.
+Soyez libre, partez, et de mes sacrifices
+Allez offrir au roi les heureuses prémices.
+Puissé-je à ses genoux présenter aujourd'hui
+Celle qui m'a dompté, qui me ramène à lui,
+Qui d'un prince ennemi fait un sujet fidèle,
+Changé par ses regards, et vertueux par elle !
+
+Eh quoi ! Vous demeurez interdite et muette ?
+De mes soumissions êtes-vous satisfaite ?
+Est-ce assez qu'un vainqueur vous implore à genoux ?
+Faut-il encor ma vie, ingrate ? elle est à vous.
+Vous n'avez qu'à parler, j'abandonne sans peine
+Ce sang infortuné, proscrit par votre haine.
+
+L'amour seul a tout fait, et c'est là mon malheur ;
+Sur tout autre intérêt ce triste amour l'emporte.
+Accablez-moi de honte, accusez-moi, n'importe !
+Dussé-je vous déplaire et forcer votre coeur,
+L'autel est prêt ; venez.
+
+      Nemours... Ingrate... Ah ciel !
+C'en est donc fait... Mais non... Mon coeur sait se contraindre :
+Vous ne méritez pas que je daigne m'en plaindre.
+Vous auriez dû peut-être, avec moins de détour,
+Dans ses premiers transports étouffer mon amour,
+Et par un prompt aveu, qui m'eût guéri sans doute,
+M'épargner les affronts que ma bonté me coûte.
+Mais je vous rends justice ; et ces séductions,
+Qui vont au fond des coeurs chercher nos passions,
+L'espoir qu'on donne à peine afin qu'on le saisisse,
+Ce poison préparé des mains de l'artifice,
+Sont les armes d'un sexe aussi trompeur que vain,
+Que l'oeil de la raison regarde avec dédain.
+Je suis libre par vous : cet art que je déteste,
+Cet art qui m'enchaîna brise un joug si funeste ;
+Et je ne prétends pas, indignement épris,
+Rougir devant mon frère, et souffrir des mépris.
+Montrez-moi seulement ce rival qui se cache ;
+Je lui cède avec joie un poison qu'il m'arrache ;
+Je vous dédaigne assez tous deux pour vous unir,
+Perfide ! et c'est ainsi que je dois vous punir.
+
+Je vous dois ma colère, et sachez qu'elle égale
+Tous les emportements de mon amour fatale.
+Quoi donc ! Vous attendiez, pour oser m'accabler,
+Que Nemours fût présent, et me vît immoler ?
+Vous vouliez ce témoin de l'affront que j'endure ?
+Allez, je le croirais l'auteur de mon injure,
+Si... Mais il n'a point vu vos funestes appas ;
+Mon frère trop heureux ne vous connaissait pas.
+Nommez donc mon rival : mais gardez-vous de croire
+Que mon lâche dépit lui cède la victoire.
+Je vous trompais, mon coeur ne peut feindre longtemps :
+Je vous traîne à l'autel, à ses yeux expirants ;
+Et ma main, sur sa cendre, à votre main donnée,
+Va tremper dans le sang les flambeaux d'hyménée.
+Je sais trop qu'on a vu, lâchement abusés,
+Pour des mortels obscurs, des princes méprisés ;
+Et mes yeux perceront, dans la foule inconnue,
+Jusqu'à ce vil objet qui se cache à ma vue.
+
+Et pourquoi, vous, mon frère, osez-vous l'excuser ?
+Est-il vrai que de vous elle était ignorée ?
+Ciel ! À ce piège affreux ma foi serait livrée !
+Tremblez.
+
+Toi, cruel ! toi, Nemours !
+
+      Traître, c'en est assez.
+Qu'on l'ôte de mes yeux : soldats, obéissez.
+
+Qu'on m'en réponde,
+      Allez. Madame, levez-vous.
+Vos prières, vos pleurs, en faveur d'un parjure,
+Sont un nouveau poison versé sur ma blessure :
+Vous avez mis la mort dans ce coeur outragé ;
+Mais, perfide, croyez que je mourrai vengé.
+Adieu : si vous voyez les effets de ma rage,
+N'en accusez que vous ; nos maux sont votre ouvrage.
+
+Eh bien ! Achevez donc de déchirer mon coeur :
+Parlez.
+
+Allez, cruelle, allez ; vous ne jouirez pas
+Du fruit de votre haine et de vos attentais ;
+Rentrez. Aux factieux je vais montrer leur maître.
+Qu'on la garde. Courons.
+      Vous, veillez sur ce traître.
+
+Je l'entends, c'est lui-même : arrête, malheureux !
+Lâche qui me trahis, rival indigne, arrête !
+
+Il pourra te venger, mais non te secourir ;
+Et ton sang...
+
+Plus vous le défendez, plus il devient coupable ;
+C'est vous qui le perdez, vous qui l'assassinez ;
+Vous par qui tous nos jours étaient empoisonnés ;
+Vous qui, pour leur malheur, armiez des mains si chères,
+Puisse tomber sur vous tout le sang des deux frères !
+Vous pleurez ! mais vos pleurs ne peuvent me tromper :
+Je suis prêt à mourir, et prêt à le frapper.
+Mon malheur est au comble, ainsi que ma faiblesse.
+Oui, je vous aime encor, le temps, le péril presse ;
+Vous pouvez à l'instant parer le coup mortel ;
+Voilà ma main, venez : sa grâce est à l'autel.
+
+      C'est assez.
+
+Arrêtez... répondez...
+
+      Qu'il périsse !
+
+Qu'on l'entraîne à la tour allez ; qu'on m'obéisse !
+
+      Je veux vous haïr et mourir,
+Vous rendre malheureuse encor plus que moi-même,
+Répandre devant vous tout le sang qui vous aime,
+Et vous laisser des jours plus cruels mille fois
+Que le jour où l'amour nous a perdus tous trois.
+Laissez-moi : votre vue augmente mon supplice.
+
+Garde-toi de l'entendre, ou tu vas me trahir.
+
+      Qu'on l'ôte de ma vue.
+Ami, délivre-moi d'un objet qui me tue.
+
+Oui, cruelle ennemie, et plus que moi farouche,
+Oui, j'accepte l'arrêt prononcé par ta bouche ;
+Que la main de la haine et que les mêmes coups
+Dans l'horreur du tombeau nous réunissent tous !
+
+Eh bien ! Souffriras-tu ma honte et mon outrage ?
+Le temps presse ; veux-tu qu'un rival odieux
+Enlève la perfide, et l'épouse à mes yeux ?
+Tu crains de me répondre ! Attends-tu que le traître
+Ait soulevé mon peuple, et me livre à son maître ?
+
+C'est Nemours qui l'allume, il nous a trahis tous.
+
+      Eh bien ! Que faut-il faire ?
+
+Ami, dans le tombeau laisse-moi seul descendre ;
+Vis pour servir ma cause, et pour venger ma cendre ;
+Mon destin s'accomplit, et je cours l'achever :
+Qui ne veut que la mort est sûr de la trouver ;
+Mais je la veux terrible, et lorsque je succombe,
+Je veux voir mon rival entraîné dans ma tombe.
+
+Il est dans cette tour où vous seul commandez
+Et vous m'aviez promis que contre un téméraire...
+
+Non, je parle d'un traître et d'un lâche ennemi,
+D'un rival qui m'abhorre, et qui m'a tout ravi.
+L'Anglais attend de moi la tête du parjure.
+
+Dès longtemps du perfide ils ont proscrit le sang.
+
+Non, je n'obéis point à leur haine étrangère ;
+J'obéis à ma rage, et veux la satisfaire.
+Que m'importent l'État et mes vains alliés ?
+
+Je n'attends pas de vous cette prompte justice.
+Je suis bien malheureux ! Bien digne de pitié !
+Trahi dans mon amour, trahi dans l'amitié !
+Ah ! trop heureux dauphin, c'est ton sort que j'envie ;
+Ton amitié, du moins, n'a point été trahie
+Et Tanguy du Châtel, quand tu fus offensé,
+T'a servi sans scrupule, et n'a pas balancé.
+Allez ; Vendôme encor, dans le sort qui le presse,
+Trouvera des amis qui tiendront leur promesse ;
+D'autres me serviront, et n'allégueront pas
+Cette triste vertu, l'excuse des ingrats.
+
+Je revois mon ami... Vengeons-nous, vole... attend...
+Non, va, te dis-je, frappe, et je mourrai content.
+Qu'à l'instant de sa mort, à mon impatience
+Le canon des remparts annonce ma vengeance !
+J'irai, je l'apprendrai, sans trouble et sans effroi,
+À l'objet odieux qui l'immole par moi.
+Allons.
+
+Parle.
+
+Pourvu qu'Adélaïde, au désespoir réduite,
+Pleure en larmes de sang l'amant qui l'a séduite ;
+Pourvu que de l'horreur de ses gémissements
+Mon courroux se repaisse à mes derniers moments,
+Tout le reste est égal, et je te l'abandonne ;
+Prépare le combat, agis, dispose, ordonne.
+Ce n'est plus la victoire où ma fureur prétend ;
+Je ne cherche pas même un trépas éclatant.
+Aux coeurs désespérés qu'importe un peu de gloire ?
+Périsse ainsi que moi ma funeste mémoire !
+Périsse avec mon nom le souvenir fatal
+D'une indigne maîtresse et d'un lâche rival !
+
+Ô ciel ! Me faudra-t-il, de moments en moments,
+Voir et des trahisons et des soulèvements ?
+Eh bien ! De ces mutins l'audace est terrassée ?
+
+L'ingrat de tous côtés m'opprimait aujourd'hui ;
+Mon malheur est parfait, tous les coeurs sont à lui.
+Dangeste est-il puni de sa fourbe cruelle ?
+
+Ce soldat qu'en secret vous m'avez amené,
+Va-t-il exécuter l'ordre que j'ai donné ?
+
+Je vais donc à la fin jouir de ma vengeance !
+Sur l'incertain Coucy mon coeur a trop compté ;
+Il a vu ma fureur avec tranquillité.
+On ne soulage point des douleurs qu'on méprise ;
+Il faut qu'en d'autres mains ma vengeance soit mise.
+Vous, que sur nos remparts on porte nos drapeaux ;
+Allez, qu'on se prépare à des périls nouveaux.
+Vous sortez d'un combat, un autre vous appelle ;
+Ayez la même audace avec le même zèle ;
+Imitez votre maître, et, s'il vous faut périr,
+Vous recevrez de moi l'exemple de mourir.
+
+Le sang, l'indigne sang qu'a demandé ma rage,
+Sera du moins pour moi le signal du carnage.
+Un bras vulgaire et sûr va punir mon rival ;
+Je vais être servi ; j'attends l'heureux signal.
+Nemours, tu vas périr, mon bonheur se prépare...
+Un frère assassiné ! Quel bonheur ! Ah, barbare !
+S'il est doux d'accabler ses cruels ennemis,
+Si ton coeur est content, d'où vient que tu frémis ?
+Allons... Mais quelle voix gémissante et sévère
+Crie au fond de mon coeur : Arrête, il est ton frère !
+Ah ! prince infortuné ! dans ta haine affermi,
+Songe à des droits plus saints ; Nemours fut ton ami !
+Ô jours de notre enfance ! Ô tendresses passées !
+Il fut le confident de toutes mes pensées.
+Avec quelle innocence et quels épanchements
+Nos coeurs se sont appris leurs premiers sentiments !
+Que de fois, partageant mes naissantes alarmes,
+D'une main fraternelle essuya-t-il mes larmes !
+Et c'est moi qui l'immole ! Et cette même main
+D'un frère que j'aimai déchirerait le sein !
+Ô passion funeste ! Ô douleur qui m'égare !
+Non, je n'étais point né pour devenir barbare.
+Je sens combien le crime est un fardeau cruel...
+Mais, que dis-je ? Nemours est le seul criminel.
+Je reconnais mon sang, mais c'est à sa furie ;
+Il m'enlève l'objet dont dépendait ma vie ;
+Il aime Adélaïde... Ah ! trop jaloux transport !
+Il l'aime ; est-ce un forfait qui mérite la mort ?
+Hélas ! malgré le temps, et la guerre, et l'absence,
+Leur tranquille union croissait dans le silence ;
+Ils nourrissaient en paix leur innocente ardeur,
+Avant qu'un fol amour empoisonnât mon coeur.
+Mais lui-même il m'attaque, il brave ma colère,
+Il me trompe, il me hait ; n'importe, il est mon frère !
+Il ne périra point. Nature, je me rends ;
+Je ne veux point marcher sur les pas des tyrans.
+Je n'ai point entendu le signal homicide,
+L'organe des forfaits, la voix du parricide ;
+Il en est encor temps.
+
+      Que l'on sauve Nemours ;
+Portez mon ordre, allez ; répondez de ses jours.
+
+Quoi ! Déjà !... Dieu, qu'entends-je ! Ah ciel ! Mon frère est mort !
+Il est mort, et je vis ! Et la terre entr'ouverte,
+Et la foudre en éclats n'ont point vengé sa perte
+Ennemi de l'État, factieux, inhumain,
+Frère dénaturé, ravisseur, assassin,
+Voilà quel est Vendôme ! Ah ! vérité funeste !
+Je vois ce que je suis, et ce que je déteste !
+Le voile est déchiré, je m'étais mal connu.
+Au comble des forfaits je suis donc parvenu !
+Ah, Nemours ! ah, mon frère ! ah, jour de ma ruine
+Je sens que je t'aimais, et mon bras t'assassine,
+Mon frère !
+
+Chers amis, empêchez que la cruelle avance ;
+Je ne puis soutenir ni souffrir sa présence.
+Mais non. D'un parricide elle doit se venger ;
+Dans mon coupable sang sa main doit se plonger ;
+Qu'elle entre... Ah ! je succombe, et ne vis plus qu'à peine.
+
+Mon frère ?
+
+Vous demandez sa vie...
+
+      Madame, il n'est plus temps.
+
+      Il est trop vrai, cruelle !
+Oui, vous avez dicté sa sentence mortelle.
+Coucy pour nos malheurs a trop su m'obéir.
+Ah ! revenez à vous, vivez pour me punir ;
+Frappez : que votre main, contre moi ranimée,
+Perce un coeur inhumain qui vous a trop aimée,
+Un coeur dénaturé qui n'attend que vos coups !
+Oui, j'ai tué mon frère, et l'ai tué pour vous.
+Vengez sur un amant coupable et sanguinaire
+Tous les crimes affreux que vous m'avez fait faire.
+
+      Oui ; mais c'est de ta main
+Que son sang veut ici le sang de l'assassin.
+
+      Ton reproche...
+
+Ton horreur est trop juste. Eh bien ! Adélaïde,
+Prends ce fer, arme-toi, mais contre un parricide :
+Je ne mérite pas de mourir de tes coups ;
+Que ma main les conduise.
+
+Laisse-moi me punir et me rendre justice.
+
+Ministre de mon crime, as-tu pu m'obéir ?
+
+Malheureux que je suis ! Ta sévère rudesse
+A cent fois de mes sens combattu la faiblesse :
+Ne devais-tu te rendre à mes tristes souhaits
+Que quand ma passion t'ordonnait des forfaits ?
+Tu ne m'as obéi que pour perdre mon frère !
+
+L'amour, le seul amour, de mes sens toujours maître,
+En m'ôtant ma raison, m'eût excusé peut-être :
+Mais toi, dont la sagesse et les réflexions
+Ont calmé dans ton sein toutes les passions,
+Toi, dont j'avais tant craint l'esprit ferme et rigide,
+Avec tranquillité permettre un parricide !
+
+      Mon frère !
+
+      Qui l'aurait pu penser ?
+
+Mon crime en est plus grand, puisque ton coeur l'oublie.
+
+Il la donne à tous trois.
+
+Après ce grand exemple et ce service insigne,
+Le prix que je t'en dois, c'est de m'en rendre digne.
+Le fardeau de mon crime est trop pesant pour moi ;
+Mes yeux, couverts d'un voile et baissés devant toi,
+Craignent de rencontrer, et les regards d'un frère,
+Et la beauté fatale, à tous les deux trop chère.
+
+      De me punir,
+De nous rendre à tous trois une égale justice,
+D'expier devant vous, par le plus grand supplice,
+Le plus grand des forfaits où la fatalité,
+L'amour et le courroux m'avaient précipité.
+J'aimais Adélaïde, et ma flamme cruelle,
+Dans mon coeur désolé, s'irrite encor pour elle.
+Coucy sait à quel point j'adorais ses appas
+Quand ma jalouse rage ordonnait ton trépas ;
+Dévoré, malgré moi, du feu qui me possède,
+Je l'adore encor plus... et mon amour la cède.
+Je m'arrache le coeur, je la mets dans tes bras ;
+Aimez-vous : mais au moins ne me haïssez pas.
+
+Ah ! C'est trop me montrer mes malheurs et ma perte !
+Mais vous m'apprenez tous à suivre la vertu.
+Ce n'est point à demi que mon coeur est rendu.
+Trop fortunés époux, oui, mon âme attendrie
+Imite votre exemple, et chérit sa patrie.
+Allez apprendre au roi, pour qui vous combattez,
+Mon crime, mes remords, et vos félicités.
+Allez ; ainsi que vous, je vais le reconnaître.
+Sur nos remparts soumis amenez votre maître ;
+Il est déjà le mien : nous allons à ses pieds
+Abaisser sans regret nos fronts humiliés.
+J'égalerai pour lui votre intrépide zèle ;
+Bon Français, meilleur frère, ami, sujet fidèle ;
+Es-tu content, Coucy ?
+
+
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
+
+      Entreprise funeste
+Qui de ma triste vie arrachera le reste !
+Où me conduisez-vous ?
+
+      Je ne crains que de vivre ;
+Sa présence m'accable, et je ne puis poursuivre.
+Il ne me connaît plus, et mes sens attendris...
+
+M'as-tu pu méconnaître ?
+
+Ce nom jadis si cher, ce nom me désespère.
+Je ne le suis que trop, ce frère infortuné,
+Ton ennemi vaincu, ton captif enchaîné.
+
+      Oui, leurs cruels secours
+Ont arrêté mon sang, ont veillé sur mes jours,
+De la mort que je cherche ont écarté l'approche.
+
+      Je te plains davantage
+De haïr ton pays, de trahir sans remords
+Et le roi qui t'aimait, et le sang dont tu sors.
+
+Quel jour !
+
+      Il est affreux.
+
+Je te crois. On disait que d'un amour extrême,
+Violent, effréné (car c'est ainsi qu'on aime),
+Ton coeur, depuis trois mois s'occupait tout entier ?
+
+Ô ciel !... elle vous aime !...
+
+Quels effroyables coups le cruel me prépare !
+Écoute ; à ma douleur ne veux-tu qu'insulter ?
+Me connais-tu ? sais-tu ce que j'ose attenter ?
+Dans ces funestes lieux sais-tu ce qui m'amène ?
+
+Adélaïde... ô ciel !... c'en est fait, je me meurs.
+
+      Est-ce à toi de prévenir ma perte ?
+
+      Ote-toi, je chéris mon trépas.
+
+      Laisse-moi.
+
+Combat infortuné, destin qui me poursuis !
+Ô mort, mon seul recours, douce mort qui me fuis !
+Ciel ! N'as-tu conservé la trame de ma vie
+Que pour tant de malheurs et tant d'ignominie ?
+Adélaïde, au moins, pourrai-je la revoir ?
+
+      Ah ! mortel désespoir !
+Elle ose me parler, et moi, je le souhaite !
+
+Mes déplorables jours sont trop en sûreté ;
+Ma blessure est légère, elle m'est insensible :
+Que celle de mon coeur est profonde et terrible !
+
+Mon frère ! Ah ! Malheureux !
+
+Sa fureur m'eût flatté ; son amitié m'accable.
+
+      Je l'aime, et je me hais ;
+Et, dans les passions de mon âme éperdue,
+La voix de la nature est encore entendue.
+
+Non, ma défaite, ami, ne fait point mon malheur.
+Du Guesclin, des Français l'amour et le modèle,
+Aux Anglais si terrible, à son roi si fidèle,
+Vit ses honneurs flétris par de plus grands revers :
+Deux fois sa main puissante a langui dans les fers :
+Il n'en fut que plus grand, plus fier, et plus à craindre ;
+Et son vainqueur tremblant fut bientôt seul à plaindre.
+Du Guesclin, nom sacré, nom toujours précieux !
+Quoi ! Ta coupable nièce évite encor mes yeux !
+Ah ! Sans doute, elle a dû redouter mes reproches ;
+Ainsi donc, cher Dangeste, elle fuit tes approches ?
+Tu n'as pu lui parler ?
+
+      Ah ! Pardonne à mon coeur interdit.
+Trop chère Adélaïde ! Eh bien ! Quand tu l'as vue,
+Parle, à mon nom du moins paraissait-elle émue ?
+
+Elle pleure et m'outrage ! Elle pleure et m'opprime !
+Son coeur, je le vois bien, n'est pas né pour le crime.
+Pour me sacrifier elle aura combattu :
+La trahison la gêne, et pèse à sa vertu :
+Faible soulagement à ma fureur jalouse !
+T'a-t-on dit en effet que mon frère l'épouse ?
+
+Il l'épouse ! À ma honte elle vient insulter !
+Ah Dieu !
+
+L'intérêt qu'à mes jours vos bontés daignent prendre,
+Est d'un coeur généreux ; mais il doit me surprendre.
+Vous aviez en effet besoin de mon trépas :
+Mon rival plus tranquille eût passé dans vos bras.
+Libre dans vos amours, et sans inquiétude,
+Vous jouiriez en paix de votre ingratitude ;
+Et les remords honteux qu'elle traîne après soi,
+S'il peut vous en rester, périssaient avec moi.
+
+Non, votre changement n'est pas ce qui m'irrite.
+
+      À vous seule asservi,
+Je vous aimais trop bien pour n'être point trahi :
+C'est le sort des amants, et ma honte est commune ;
+Mais que vous insultiez vous-même à ma fortune !
+Qu'en ces murs, où vos yeux ont vu couler mon sang,
+Vous acceptiez la main qui m'a percé le flanc,
+Et que vous osiez joindre à l'horreur qui m'accable,
+D'une fausse pitié l'affront insupportable !
+Qu'à mes yeux...
+
+Vous me plaignez, cruelle, et vous m'abandonnez !
+
+Vous m'aimeriez ? Qui, vous ? Et Vendôme à l'instant
+Entoure de flambeaux l'autel qui vous attend !
+Lui-même il m'a vanté sa gloire et sa conquête.
+Le barbare ! Il m'invite à cette horrible fête !
+Que plutôt...
+
+Mais mon frère vous aime ?
+
+Il sauva vos beaux jours !
+
+C'en est trop... pardonnez... voyez mon âme en proie
+À l'amour, aux remords, à l'excès de ma joie.
+Digne et charmant objet d'amour et de douleur,
+Ce jour infortuné, ce jour fait mon bonheur.
+Glorieux, satisfait, dans un sort si contraire,
+Tout captif que je suis, j'ai pitié de mon frère.
+Il est le seul à plaindre avec votre courroux ;
+Et je suis son vainqueur, étant aimé de vous.
+
+Il fait ce que je veux, et c'est pour m'accabler !
+Prononcez notre arrêt, Madame ; il faut parler.
+
+      Vous osez ?...
+
+Pourquoi d'un choix indigne osez-vous l'accuser ?
+
+      Moi ! Que je tremble ! Ah ! J'ai trop dévoré
+L'inexprimable horreur où toi seul m'as livré ;
+J'ai forcé trop longtemps mes transports au silence :
+Connais-moi donc, barbare, et remplis ta vengeance !
+Connais un désespoir à tes fureurs égal ;
+Frappe, voilà mon coeur, et voilà ton rival !
+
+      Oui, depuis deux années,
+L'amour la plus secrète a joint nos destinées.
+C'est toi dont les fureurs ont voulu m'arracher
+Le seul bien sur la terre où j'ai pu m'attacher.
+Tu fais depuis trois mois les horreurs de ma vie ;
+Les maux que j'éprouvais passaient ta jalousie :
+Par tes égarements juge de mes transports.
+Nous puisâmes tous deux dans ce sang dont je sors
+L'excès des passions qui dévorent une âme ;
+La nature à tous deux fit un coeur tout de flamme.
+Mon frère est mon rival, et je l'ai combattu ;
+J'ai fait taire le sang, peut-être la vertu.
+Furieux, aveuglé, plus jaloux que toi-même,
+J'ai couru, j'ai volé, pour t'ôter ce que j'aime ;
+Rien ne m'a retenu, ni tes superbes tours,
+Ni le peu de soldats que j'avais pour secours.
+Ni le lieu, ni le temps, ni surtout ton courage ;
+Je n'ai vu que ma flamme, et ton feu qui m'outrage.
+L'amour fut dans mon coeur plus fort que l'amitié ;
+Sois cruel comme moi, punis-moi sans pitié :
+Aussi bien tu ne peux t'assurer ta conquête,
+Tu ne peux l'épouser qu'aux dépens de ma tête.
+À la face des cieux je lui donne ma foi ;
+Je te fais de nos voeux le témoin malgré toi.
+Frappe, et qu'après ce coup, ta cruauté jalouse
+Traîne au pied des autels ta soeur et mon épouse.
+Frappe, dis-je : oses-tu ?
+
+      Vous, le prier ? plaignez-le plus que moi.
+Plaignez-le : il vous offense, il a trahi son roi.
+Va, je suis dans ces lieux plus puissant que toi-même ;
+Je suis vengé de toi : l'on te hait, et l'on m'aime.
+
+Non ; mais suis-je réduit à me justifier ?
+Coucy, ce peuple est juste, il t'apprend à connaître
+Que mon frère est rebelle, et que Charles est son maître.
+
+Ne vous en flattez pas ; vos soins sont inutiles.
+Si la discorde seule avait armé mon bras,
+Si là guerre et la haine avaient conduit mes pas,
+Vous pourriez espérer de réunir deux frères,
+L'un de l'autre écartés dans des partis contraires.
+Un obstacle plus grand s'oppose à ce retour.
+
+      Ah ! Reconnais l'amour ;
+Reconnais la fureur qui de nous deux s'empare,
+Qui m'a fait téméraire, et qui le rend barbare.
+
+      Je vous la donne.
+
+Non, non, ce peuple en vain s'armait pour ma défense :
+Mon frère, teint de sang, enivré de vengeance,
+Devenu plus jaloux, plus fier, et plus cruel,
+Va traîner à mes yeux sa victime à l'autel.
+Je ne suis donc venu disputer ma conquête
+Que pour être témoin de cette horrible fête !
+Et, dans le désespoir d'un impuissant courroux,
+Je ne puis me venger qu'en me privant de vous !
+Partez, Adélaïde.
+
+Il le faut : chaque instant est un péril fatal ;
+Vous êtes une esclave aux mains de mon rival.
+Remercions le ciel, dont la bonté propice
+Nous suscite un secours au bord du précipice.
+Vous voyez cet ami qui doit guider vos pas ;
+Sa vigilance adroite a séduit des soldats.
+Dangeste, ses malheurs ont droit à tes services ;
+Je suis loin d'exiger d'injustes sacrifices ;
+Je respecte mon frère, et je ne prétends pas
+Conspirer contre lui dans ses propres États.
+Écoute seulement la pitié qui le guide ;
+Écoute un vrai devoir, et sauve Adélaïde.
+
+Privez-moi par pitié d'une si chère vue ;
+Tantôt à ce départ vous étiez résolue,
+Le dessein était pris : n'osez-vous l'achever ?
+
+Prisonnier sur ma foi, dans l'horreur qui me presse.
+Je suis plus enchaîné par ma seule promesse
+Que si de cet État les tyrans inhumains
+Des fers les plus pesants avaient chargé mes mains.
+Au pouvoir de mon frère ici l'honneur me livre ;
+Je peux mourir pour vous, mais je ne peux vous suivre ;
+Vous suivrez cet ami par des détours obscurs,
+Qui vous rendront bientôt sous ces coupables murs.
+De la Flandre à sa voix on doit ouvrir la porte ;
+Du roi sous les remparts il trouvera l'escorte.
+Le temps presse, évitez un ennemi jaloux.
+
+L'amour nous a rejoints, que l'amour nous sépare.
+
+Il n'oserait.
+
+Il tremblera bientôt : le roi vient et nous venge :
+La moitié de ce peuple à ses drapeaux se range.
+Allez : si vous m'aimez, dérobez-vous aux coups
+Des foudres allumés, grondant autour de nous ;
+Au tumulte, au carnage, au désordre effroyable,
+Dans des murs pris d'assaut malheur inévitable :
+Mais craignez encor plus mon rival furieux ;
+Craignez l'amour jaloux qui veille dans ses veux.
+Je frémis de vous voir encor sous sa puissance ;
+Redoutez son amour autant que sa vengeance ;
+Cédez à mes douleurs ; qu'il vous perde : partez.
+
+Ne craignant rien pour vous, je craindrai peu mon frère ;
+Et bientôt mon appui lui devient nécessaire.
+
+Partez avec ce nom. La pompe des autels,
+Ces voiles, ces flambeaux, ces témoins solennels,
+Inutiles garants d'une foi si sacrée,
+La rendront plus connue, et non plus assurée.
+Vous, mânes des Bourbons, princes, rois mes aïeux,
+Du séjour des héros tournez ici les yeux.
+J'ajoute à votre gloire en la prenant pour femme ;
+Confirmez mes serments, ma tendresse et ma flamme :
+Adoptez-la pour fille, et puisse son époux
+Se montrer à jamais digne d'elle et de vous !
+
+      Quoi ! vous versez des larmes !
+C'est trop tarder, adieu... Ciel, quel tumulte affreux !
+
+Il ne te trahit point ; mais il t'offre sa tête.
+Porte à tous les excès ta haine et ta fureur ;
+Va, ne perds point de temps, le ciel arme un vengeur.
+Tremble ; ton roi s'approche, il vient, il va paraître.
+Tu n'as vaincu que moi, redoute encor ton maître.
+
+Ne vous laissez pas vaincre en ces affreux combats,
+Osez m'aimer assez pour vouloir mon trépas ;
+Abandonnez mon sort au coup qu'il me prépare.
+Je mourrai triomphant des coups de ce barbare ;
+Et si vous succombiez à son lâche courroux,
+Je n'en mourrais pas moins, mais je mourrais par vous.
+
+J'ose encor te revoir, te plaindre, et t'embrasser.
+
+Tous deux auprès du roi nous voulions te servir.
+Quel est donc ton dessein ? Parle.
+
+Moi, vous haïr jamais ! Vendôme, mon cher frère !
+J'osai vous outrager... vous me servez de père.
+
+
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coucy
+
 Digne sang de Guesclin, vous qu'on voit aujourd'hui
 Le charme des Français dont il était l'appui,
 Souffrez qu'en arrivant dans ce séjour d'alarmes,
@@ -12,12 +984,6 @@ Les desseins, la conduite et le coeur de Coucy ;
 Et que votre vertu cesse de méconnaître
 L'âme d'un vrai soldat, digne de vous peut-être.
 
--*who_adelaide
-Je sais quel est Coucy ; sa noble intégrité
-Sur ses lèvres toujours plaça la vérité.
-Quoi que vous m'annonciez, je vous croirai sans peine.
-
--*who_coucy
 Sachez que si ma foi dans Lille me ramène,
 Si, du duc de Vendôme embrassant le parti,
 Mon zèle en sa faveur ne s'est pas démenti,
@@ -45,11 +1011,6 @@ Tout mon sang est à lui ; mais enfin cette épée
 Dans celui des Français à regret s'est trempée ;
 Ce fils de Charles Six...
 
--*who_adelaide
-      Osez le nommer roi,
-Il l'est, il le mérite.
-
--*who_coucy
       Il ne l'est pas pour moi.
 Je voudrais, il est vrai, lui porter mon hommage ;
 Tous mes voeux sont pour lui ; mais l'amitié m'engage.
@@ -108,7 +1069,346 @@ L'amitié me l'ordonne, et surtout la patrie.
 Songez que si l'hymen vous range sous sa loi,
 Si ce prince est à vous, il est à votre roi.
 
--*who_adelaide
+Vos ordres sont sacrés : que faut-il que je fasse ?
+
+Vous pouvez l'expliquer au prince qui vous aime,
+Et de tous vos secrets l'entretenir vous-même :
+Il va venir, madame, et peut-être vos voeux...
+
+Je plains cette douleur où votre âme est en proie ;
+Et, loin de la gêner d'un regard curieux,
+Je baisse devant elle un oeil respectueux :
+Mais quel que soit l'ennui dont votre coeur soupire,
+Je vous ai déjà dit ce que j'ai dû vous dire ;
+Je ne puis rien de plus : le prince est soupçonneux ;
+Je lui serais suspect en expliquant vos voeux.
+Je sais à quel excès irait sa jalousie,
+Quel poison mes discours répandraient sur sa vie :
+Je vous perdrais peut-être ; et mon soin dangereux,
+Madame, avec un mot, ferait trois malheureux.
+Vous, à vos intérêts rendez-vous moins contraire,
+Pesez sans passion l'honneur qu'il veut vous faire.
+Moi, libre entre vous deux, souffrez que, dès ce jour,
+Oubliant à jamais le langage d'amour,
+Tout entier à la guerre, et maître de mon âme,
+J'abandonne à leur sort et vos voeux et sa flamme.
+Je crains de l'affliger, je crains de vous trahir ;
+Et ce n'est qu'aux combats que je dois le servir.
+Laissez-moi d'un soldat garder le caractère,
+Madame ; et puisque enfin la France vous est chère.
+Rendez-lui ce héros qui serait son appui
+Je vous laisse y penser, et je cours près de lui.
+Adieu, madame...
+
+      Prince, il est temps, marchez à notre tête.
+Déjà les ennemis sont au pied des remparts.
+Échauffez nos guerriers du feu de vos regards :
+Venez vaincre.
+
+Le temps presse.
+
+Ce courage brillant, qu'en vous on voit paraître,
+Sera maître de tout quand vous en serez maître :
+Vous l'avez su régler, et vous avez vaincu.
+Ayez dans tous les temps cette utile vertu
+Qui sait se posséder peut commander au monde.
+Pour moi, de qui le bras faiblement vous seconde,
+Je connais mon devoir, et je vous ai suivi.
+Dans l'ardeur du combat je vous ai peu servi ;
+Nos guerriers sur vos pas marchaient à la victoire,
+Et suivre les Bourbons, c'est voler à la gloire.
+Vous seul, seigneur, vous seul avez fait prisonnier
+Ce chef des assaillants, ce superbe guerrier.
+Vous l'avez pris vous-même, et, maître de sa vie,
+Vos secours l'ont sauvé de sa propre furie.
+
+Je prévois que bientôt cette guerre fatale,
+Ces troubles intestins de la maison royale,
+Ces tristes factions, céderont au danger
+D'abandonner la France au fils de l'étranger.
+Je vois que de l'Anglais la race est peu chérie,
+Que leur joug est pesant, qu'on aime la patrie,
+Que le sang des Capets est toujours adoré.
+Tôt ou tard il faudra que de ce tronc sacré
+Les rameaux divisés et courbés par l'orage,
+Plus unis et plus beaux, soient notre unique ombrage.
+Nous, seigneur, n'avons-nous rien à nous reprocher ?
+Le sort au prince anglais voulut vous attacher ;
+De votre sang, du sien, la querelle est commune :
+Vous suivez son parti, je suis votre fortune.
+Comme vous aux Anglais le destin m'a lié :
+Vous, par le droit du sang ; moi, par notre amitié :
+Permettez-moi ce mot... Eh quoi ! votre âme émue...
+
+Son sang sur son visage a confondu ses traits ;
+Il est blessé sans doute.
+
+Prince, me voilà prêt disposez de mon bras...
+Mais d'où naît à mes yeux cet étrange embarras ?
+Quand vous avez vaincu, quand vous sauvez un frère,
+Heureux de tous côtés, qui peut donc vous déplaire ?
+
+Eh bien ! De vos soupçons quel est l'objet, qui ?
+
+      Voulez-vous m'écouter ?
+
+      Pensez-vous que j'aime encor la gloire ?
+M'estimez-vous encore, et pourrez-vous me croire ?
+
+      Ces titres glorieux
+Furent toujours pour moi l'honneur le plus insigne ;
+Et vous allez juger si mon âme en est digne.
+Sachez qu'Adélaïde avait touché mon coeur
+Avant que, de sa vie heureux libérateur,
+Vous eussiez par vos soins, par cet amour sincère,
+Surtout par vos bienfaits, tant de droits de lui plaire.
+Moi, plus soldat que tendre, et dédaignant toujours
+Ce grand art de séduire inventé dans les cours,
+Ce langage flatteur, et souvent si perfide,
+Peu fait pour mon esprit peut-être trop rigide,
+Je lui parlai d'hymen ; et ce noeud respecté,
+Resserré par l'estime et par l'égalité,
+Pouvait lui préparer des destins plus propices
+Qu'un rang plus élevé mais sur des précipices.
+Hier avec la nuit je vins dans vos remparts ;
+Tout votre coeur parut à mes premiers regards.
+De cet ardent amour la nouvelle semée,
+Par vos emportements me fut trop confirmée.
+Je vis de vos chagrins les funestes accès ;
+J'en approuvai la cause, et j'en blâmai l'excès.
+Aujourd'hui j'ai revu cet objet de vos larmes ;
+D'un oeil indifférent j'ai regardé ses charmes.
+Libre et juste auprès d'elle, à vous seul attaché,
+J'ai fait valoir les feux dont vous êtes touché ;
+J'ai de tous vos bienfaits rappelé la mémoire,
+L'éclat de votre rang, celui de votre gloire,
+Sans cacher vos défauts vantant votre vertu,
+Et pour vous contre moi j'ai fait ce que j'ai dû.
+Je m'immole à vous seul, et je me rends justice ;
+Et, si ce n'est assez d'un si grand sacrifice,
+S'il est quelque rival qui vous ose outrager,
+Tout mon sang est à vous, et je cours vous venger.
+
+      Aimez-moi, prince, au lieu de me louer ;
+Et si vous me devez quelque reconnaissance,
+Faites votre bonheur, il est ma récompense.
+Vous voyez quelle ardente et fière inimitié
+Votre frère nourrit contre votre allié.
+Sur ce grand intérêt souffrez que je m'explique.
+Vous m'avez soupçonné de trop de politique,
+Quand j'ai dit que bientôt on verrait réunis
+Les débris dispersés de l'empire des lis.
+Je vous le dis encore au sein de votre gloire ;
+Et vos lauriers brillants, cueillis par la victoire,
+Pourront sur votre front se flétrir désormais
+S'ils n'y sont soutenus de l'olive de paix.
+Tous les chefs de l'État, lassés de ces ravages,
+Cherchent un port tranquille après tant de naufrages ;
+Gardez d'être réduit au hasard dangereux
+De vous voir, ou trahir, ou prévenir par eux.
+Passez-les en prudence, aussi bien qu'en courage.
+De cet heureux moment prenez tout l'avantage ;
+Gouvernez la fortune, et sachez l'asservir :
+C'est perdre ses faveurs que tarder d'en jouir :
+Ses retours sont fréquents, vous devez les connaître.
+Il est beau de donner la paix à votre maître.
+Son égal aujourd'hui, demain dans l'abandon,
+Vous vous verrez réduit à demander pardon.
+La gloire vous conduit : que la raison vous guide.
+
+Dans le fond de son coeur je n'ai point voulu lire :
+Mais qu'importe pour vous ses voeux et ses desseins ?
+Faut-il que l'amour seul fasse ici nos destins ?
+Lorsque Philippe-Auguste, aux plaines de Bovines,
+De l'État déchiré répara les ruines,
+Quand seul il arrêta, dans nos champs inondés,
+De l'empire germain les torrents débordés ;
+Tant d'honneurs étaient-ils l'effet de sa tendresse ?
+Sauva-t-il son pays pour plaire à sa maîtresse ?
+Verrai-je un si grand coeur à ce point s'avilir ?
+Le salut de l'État dépend-il d'un soupir ?
+Aimez, mais en héros qui maîtrise son âme,
+Qui gouverne à la fois ses États et sa flamme.
+Mon bras contre un rival est prêt à vous servir ;
+Je voudrais faire plus, je voudrais vous guérir.
+On connaît peu l'amour, on craint trop son amorce ;
+C'est sur nos lâchetés qu'il a fondé sa force ;
+C'est nous qui sous son nom troublons notre repos ;
+Il est tyran du faible, esclave du héros.
+Puisque je l'ai vaincu, puisque je le dédaigne,
+Dans l'âme d'un Bourbon souffrirez-vous qu'il règne ?
+Vos autres ennemis par vous sont abattus,
+Et vous devez en tout l'exemple des vertus.
+
+Souffrez donc près du roi que mon zèle me guide ;
+Peut-être il eût fallu que ce grand changement
+Ne fût dû qu'au héros, et non pas à l'amant ;
+Mais si d'un si grand coeur une femme dispose,
+L'effet en est trop beau pour en blâmer la cause ;
+Et mon coeur, tout rempli de cet heureux retour,
+Bénit votre faiblesse, et rend grâce à l'amour.
+
+      J'allais partir : un peuple téméraire
+Se soulève en tumulte au nom de votre frère.
+Le désordre est partout : vos soldats consternés
+Désertent les drapeaux de leurs chefs étonnés ;
+Et, pour comble de maux, vers la ville alarmée,
+L'ennemi rassemblé fait marcher son armée.
+
+Le seriez-vous, seigneur ? Auriez-vous démenti
+Le sang de ces héros dont vous êtes sorti ?
+Auriez-vous violé, par cette lâche injure,
+Et les droits de la guerre, et ceux de la nature ?
+Un prince à cet excès pourrait-il s'oublier ?
+
+Écoutez : ce serait le comble de mes voeux,
+De pouvoir aujourd'hui vous réunir tous deux.
+Je vois avec regret la France désolée,
+À nos dissensions la nature immolée,
+Sur nos communs débris l'Anglais trop élevé,
+Menaçant cet État par nous-même énervé.
+Si vous avez un coeur digne de votre race,
+Faites au bien public servir votre disgrâce.
+Rapprochez les partis : unissez-vous à moi
+Pour calmer votre frère, et fléchir votre roi,
+Pour éteindre le feu de nos guerres civiles.
+
+Et quel est-il, Seigneur ?
+
+Ciel ! faut-il voir ainsi, par des caprices vains,
+Anéantir le fruit des plus nobles desseins ?
+L'amour subjuguer tout ? ses cruelles faiblesses
+Du sang qui se révolte étouffer les tendresses ?
+Des frères se haïr, et naître, en tous climats,
+Des passions des grands le malheur des États ?
+Prince, de vos amours laissons là le mystère.
+Je vous plains tous les deux ; mais je sers votre frère.
+Je vais le seconder ; je vais me joindre à lui
+Contre un peuple insolent qui se fait votre appui.
+Le plus pressant danger est celui qui m'appelle.
+Je vois qu'il peut avoir une fin bien cruelle :
+Je vois les passions plus puissantes que moi ;
+Et l'amour seul ici me fait frémir d'effroi.
+Mon devoir a parlé ; je vous laisse, et j'y vole,
+Soyez mon prisonnier, mais sur votre parole ;
+Elle me suffira.
+
+      Et moi
+Je voudrais de ce pas porter la sienne au roi ;
+Je voudrais cimenter, dans l'ardeur de lui plaire,
+Du sang de nos tyrans une union si chère.
+Mais ces fiers ennemis sont bien moins dangereux
+Que ce fatal amour qui vous perdra tous deux.
+
+Il ne se connaît plus, il succombe à sa rage.
+
+Je vois trop, en effet, que le parti du roi
+Du peuple fatigué fait chanceler la foi.
+De la sédition la flamme réprimée
+Vit encor dans les coeurs, en secret rallumée.
+
+Je suis loin d'excuser ses crimes envers vous ;
+La suite en est funeste, et me remplit d'alarmes.
+Dans la plaine déjà les Français sont en armes,
+Et vous êtes perdu, si le peuple excité
+Croit dans la trahison trouver sa sûreté.
+Vos dangers sont accrus.
+
+Les prévenir, dompter l'amour et la colère.
+Ayons encor, mon prince, en cette extrémité,
+Pour prendre un parti sur, assez de fermeté.
+Nous pouvons conjurer ou braver la tempête ;
+Quoi que vous décidiez, ma main est toute prête.
+Vous vouliez ce matin, par un heureux traité,
+Apaiser avec gloire un monarque irrité ;
+Ne vous rebutez pas : ordonnez, et j'espère
+Signer en votre nom cette paix salutaire :
+Mais s'il vous faut combattre, et courir au trépas,
+Vous savez qu'un ami ne vous survivra pas.
+
+Comment ! de quelle horreur vos sens sont possédés !
+
+De qui me parlez-vous, seigneur ? de votre frère ?
+
+Vous leur avez promis de trahir la nature ?
+
+Et pour leur obéir vous lui percez le flanc ?
+
+Ainsi donc à l'amour vous le sacrifiez ?
+Et vous me chargez, moi, du soin de son supplice !
+
+Non ; j'ai pris mon parti. Soit crime, soit justice,
+Vous ne vous plaindrez pas que Coucy vous trahisse.
+Je ne souffrirai pas que d'un autre que moi,
+Dans de pareils moments, vous éprouviez la foi.
+Quand un ami se perd, il faut qu'on l'avertisse,
+Il faut qu'on le retienne au bord du précipice ;
+Je l'ai dû, je l'ai fait malgré votre courroux ;
+Vous y voulez tomber, je m'y jette avec vous ;
+Et vous reconnaîtrez, au succès de mon zèle,
+Si Coucy vous aimait, et s'il vous fut fidèle.
+
+      En vous rendant ce malheureux service,
+Prince, je vous demande un autre sacrifice.
+
+      Je ne veux pas que l'Anglais en ces lieux,
+Protecteur insolent, commande sous mes yeux ;
+Je ne veux pas servir un tyran qui nous brave.
+Ne puis-je vous venger sans être son esclave ?
+Si vous voulez tomber, pourquoi prendre un appui ?
+Pour mourir avec vous ai-je besoin de lui ?
+Du sort de ce grand jour laissez-moi la conduite ;
+Ce que je fais pour vous peut-être le mérite.
+Les Anglais avec moi pourraient mal s'accorder ;
+Jusqu'au dernier moment je veux seul commander.
+
+Je l'avoue avec vous ; une nuit éternelle
+Doit couvrir, s'il se peut, une fin si cruelle ;
+C'était avant ce coup qu'il nous fallait mourir ;
+Mais je tiendrai parole, et je vais vous servir.
+
+      Ah ciel ! que faites-vous ?
+
+Je vous avais promis, seigneur, de vous servir.
+
+Lorsque j'ai refusé ce sanglant ministère,
+Votre aveugle courroux n'allait-il pas soudain
+Du soin de vous venger charger une autre main ?
+
+Eh bien ! puisque la honte avec le repentir,
+Par qui la vertu parle à qui peut la trahir,
+D'un si juste remords ont pénétré votre âme ;
+Puisque, malgré l'excès de votre aveugle flamme,
+Au prix de votre sang vous voudriez sauver
+Ce sang dont vos fureurs ont voulu vous priver ;
+Je peux donc m'expliquer, je peux donc vous apprendre
+Que de vous-même enfin Coucy sait vous défendre.
+Connaissez-moi, madame, et calmez vos douleurs.
+Vous, gardez vos remords ;
+      Et vous, séchez vos pleurs.
+Que ce jour à tous trois soit un jour salutaire.
+Venez, paraissez, prince, embrassez votre frère.
+
+      Un indigne assassin
+Sur Nemours à mes yeux avait levé la main ;
+J'ai frappé le barbare ; et, prévenant encore
+Les aveugles fureurs du feu qui vous dévore,
+J'ai fait donner soudain le signal odieux,
+Sûr que le repentir vous ouvrirait les yeux.
+
+      J'ai le prix de mes soins,
+Et du sang des Bourbons je n'attendais pas moins.
+
+
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
+
+Je sais quel est Coucy ; sa noble intégrité
+Sur ses lèvres toujours plaça la vérité.
+Quoi que vous m'annonciez, je vous croirai sans peine.
+
+      Osez le nommer roi,
+Il l'est, il le mérite.
+
 Qu'avec étonnement, seigneur, je vous contemple !
 Que vous donnez au monde un rare et grand exemple !
 Quoi ! ce coeur (je le crois sans feinte et sans détour)
@@ -119,10 +1419,6 @@ Un coeur si généreux doit penser comme moi :
 Tous ceux de votre sang sont l'appui de leur roi.
 Eh bien ! de vos vertus je demande une grâce.
 
--*who_coucy
-Vos ordres sont sacrés : que faut-il que je fasse ?
-
--*who_adelaide
 Vos conseils généreux me pressent d'accepter
 Ce rang, dont un grand prince a daigné me flatter.
 Je n'oublierai jamais combien son choix m'honore ;
@@ -158,12 +1454,6 @@ Seigneur, au sang des rois il fut toujours fidèle.
 S'il est vrai que sa mort... Excusez mes ennuis,
 Mon amour pour mes rois, et le trouble où je suis.
 
--*who_coucy
-Vous pouvez l'expliquer au prince qui vous aime,
-Et de tous vos secrets l'entretenir vous-même :
-Il va venir, madame, et peut-être vos voeux...
-
--*who_adelaide
 Ah ! Coucy, prévenez le malheur de tous deux.
 Si vous aimez ce prince, et si, dans mes alarmes,
 Avec quelque pitié vous regardez mes larmes,
@@ -171,87 +1461,25 @@ Sauvez-le, sauvez-moi, de ce triste embarras ;
 Daignez tourner ailleurs ses desseins et ses pas.
 Pleurante et désolée empêchez qu'il me voie.
 
--*who_coucy
-Je plains cette douleur où votre âme est en proie ;
-Et, loin de la gêner d'un regard curieux,
-Je baisse devant elle un oeil respectueux :
-Mais quel que soit l'ennui dont votre coeur soupire,
-Je vous ai déjà dit ce que j'ai dû vous dire ;
-Je ne puis rien de plus : le prince est soupçonneux ;
-Je lui serais suspect en expliquant vos voeux.
-Je sais à quel excès irait sa jalousie,
-Quel poison mes discours répandraient sur sa vie :
-Je vous perdrais peut-être ; et mon soin dangereux,
-Madame, avec un mot, ferait trois malheureux.
-Vous, à vos intérêts rendez-vous moins contraire,
-Pesez sans passion l'honneur qu'il veut vous faire.
-Moi, libre entre vous deux, souffrez que, dès ce jour,
-Oubliant à jamais le langage d'amour,
-Tout entier à la guerre, et maître de mon âme,
-J'abandonne à leur sort et vos voeux et sa flamme.
-Je crains de l'affliger, je crains de vous trahir ;
-Et ce n'est qu'aux combats que je dois le servir.
-Laissez-moi d'un soldat garder le caractère,
-Madame ; et puisque enfin la France vous est chère.
-Rendez-lui ce héros qui serait son appui
-Je vous laisse y penser, et je cours près de lui.
-Adieu, madame...
-
-**** *book_ *id_I02 *act_I *date_1734
-
--*who_adelaide
       Où suis-je ? Hélas ! Tout m'abandonne.
 Nemours... de tous côtés le malheur m'environne.
 Ciel ! qui m'arrachera de ce cruel séjour ?
 
--*who_taise
-Quoi ! Du duc de Vendôme et le choix et l'amour,
-Quoi ! Ce rang qui ferait le bonheur ou l'envie
-De toutes les beautés dont la France est remplie,
-Ce rang qui touche au trône, et qu'on met à vos pieds,
-Ferait couler les pleurs dont vos yeux sont noyés ?
-
--*who_adelaide
 Ici, du haut des cieux, du Guesclin me contemple ;
 De la fidélité ce héros fut l'exemple :
 Je trahirais le sang qu'il versa pour nos lois,
 Si j'acceptais la main du vainqueur de nos rois.
 
--*who_taise
-Quoi dans ces tristes temps de ligues et de haines,
-Qui confondent des droits les bornes incertaines,
-Où le meilleur parti semble encor si douteux,
-Où les enfants des rois sont divisés entre eux ;
-Vous, qu'un astre plus doux semblait avoir formée
-Pour unir tous les coeurs et pour en être aimée ;
-Vous refusez l'honneur qu'on offre à vos appas,
-Pour l'intérêt d'un roi qui ne l'exige pas ?
-
--*who_adelaide
 Mon devoir me rangeait du parti de ses armes.
 
--*who_taise
-Ah ! le devoir tout seul fait-il verser des larmes ?
-Si Vendôme vous aime, et si, par son secours...
-
--*who_adelaide
 Laisse là ses bienfaits, et parle de Nemours.
 N'en as-tu rien appris ? Sait-on s'il vit encore ?
 
--*who_taise
-Voilà donc en effet le soin qui vous dévore,
-Madame ?
-
--*who_adelaide
       Il est trop vrai : je l'avoue, et mon coeur
 Ne peut plus soutenir le poids de sa douleur.
 Elle échappe, elle éclate, elle se justifie ;
 Et si Nemours n'est plus, sa mort finit ma vie.
 
--*who_taise
-Et vous pouviez cacher ce secret à ma foi ?
-
--*who_adelaide
 Le secret de Nemours dépendait-il de moi ?
 Nos feux, toujours brûlant dans l'ombre du silence,
 Trompaient de tous les yeux la triste vigilance.
@@ -287,48 +1515,12 @@ Tout ce que j'entrevois conspire à m'alarmer ;
 Et mon amant est mort, ou cesse de m'aimer !
 Et pour comble de maux, je dois tout à son frère !
 
--*who_taise
-Cachez bien à ses yeux ce dangereux mystère :
-Pour vous, pour votre amant, redoutez son courroux.
-Quelqu'un vient.
-
--*who_adelaide
       C'est lui-même, ô ciel !
 
--*who_taise
-Contraignez-vous.
-
-**** *book_ *id_I03 *act_I *date_1734
-
--*who_vendome
-      J'oublie à vos genoux, charmante Adélaïde,
-Le trouble et les horreurs où mon destin me guide ;
-Vous seule adoucissez les maux que nous souffrons,
-Vous nous rendez plus pur l'air que nous respirons.
-La discorde sanglante afflige ici la terre ;
-Vos jours sont entourés des pièges de la guerre.
-J'ignore à quel destin le ciel veut me livrer ;
-Mais si d'un peu de gloire il daigne m'honorer,
-Cette gloire, sans vous obscure et languissante,
-Des flambeaux de l'hymen deviendra plus brillante.
-Souffrez que mes lauriers, attachés par vos mains,
-Écartent le tonnerre et bravent les destins ;
-Ou, si le ciel jaloux a conjuré ma perte,
-Souffrez que de nos noms ma tombe au moins couverte,
-Apprenne à l'avenir que Vendôme amoureux
-Expira votre époux, et périt trop heureux.
-
--*who_adelaide
 Tant d'honneurs, tant d'amour, servent à me confondre.
 Prince... Que lui dirai-je ? et comment lui répondre ?
 Ainsi, Seigneur... Coucy ne vous a point parlé ?
 
--*who_vendome
-Non, madame... D'où vient que votre coeur troublé
-Répond en frémissant à ma tendresse extrême ?
-Vous parlez de Coucy, quand Vendôme vous aime !
-
--*who_adelaide
 Prince, s'il était vrai que ce brave Nemours
 De ses ans pleins de gloire eût terminé le cours,
 Vous qui le chérissiez d'une amitié si tendre,
@@ -336,350 +1528,36 @@ Vous qui devez au moins des larmes à sa cendre,
 Au milieu des combats, et près de son tombeau,
 Pourriez-vous de l'hymen allumer le flambeau ?
 
--*who_vendome
-Ah ! je jure par vous, vous qui m'êtes si chère,
-Par les doux noms d'amants, par le saint nom de frère,
-Que Nemours, après vous, fut toujours à mes yeux
-Le plus cher des mortels, et le plus précieux.
-Lorsqu'à mes ennemis sa valeur fut livrée,
-Ma tendresse en souffrit, sans en être altérée.
-Sa mort m'accablerait des plus horribles coups ;
-Et pour m'en consoler, mon coeur n'aurait que vous.
-Mais on croit trop ici l'aveugle renommée,
-Son infidèle voix vous a mal informée :
-Si mon frère était mort, doutez-vous que son roi,
-Pour m'apprendre sa perte, eût dépêché vers moi ?
-Ceux que le ciel forma d'une race si pure,
-Au milieu de la guerre écoutant la nature,
-Et protecteurs des lois que l'honneur doit dicter,
-Même en se combattant, savent se respecter.
-À sa perte, en un mot, donnons moins de créance.
-Un bruit plus vraisemblable, et m'afflige, et m'offense :
-On dit que vers ces lieux il a porté ses pas.
-
--*who_adelaide
 Seigneur, il est vivant ?
 
--*who_vendome
-      Je lui pardonne, hélas !
-Qu'au parti de son roi son intérêt le range ;
-Qu'il le défende ailleurs, et qu'ailleurs il le venge ;
-Qu'il triomphe pour lui, je le veux, j'y consens :
-Mais se mêler ici parmi les assiégeants,
-Me chercher, m'attaquer, moi, son ami, son frère...
-
--*who_adelaide
 Le roi le veut, sans doute.
 
--*who_vendome
-      Ah ! destin trop contraire !
-Se pourrait-il qu'un frère, élevé dans mon sein,
-Pour mieux servir son roi levât sur moi sa main ?
-Lui qui devrait plutôt, témoin de cette fête,
-Partager, augmenter, mon bonheur qui s'apprête.
-
--*who_adelaide
 Lui ?
 
--*who_vendome
-      C'est trop d'amertume en des moments si doux.
-Malheureux par un frère, et fortuné par vous,
-Tout entier à vous seule, et bravant tant d'alarmes,
-Je ne veux voir que vous, mon hymen, et vos charmes.
-Qu'attendez-vous ? donnez à mon coeur éperdu
-Ce coeur que j'idolâtre, et qui m'est si bien dû.
-
--*who_adelaide
 Seigneur, de vos bienfaits mon âme est pénétrée ;
 La mémoire à jamais m'en est chère et sacrée ;
 Mais c'est trop prodiguer vos augustes bontés,
 C'est mêler trop de gloire à mes calamités ;
 Et cet honneur...
 
--*who_vendome
-      Comment ! ô ciel ! qui vous arrête ?
-
--*who_adelaide
 Je dois...
 
-**** *book_ *id_I04 *act_I *date_1734
-
--*who_coucy
-      Prince, il est temps, marchez à notre tête.
-Déjà les ennemis sont au pied des remparts.
-Échauffez nos guerriers du feu de vos regards :
-Venez vaincre.
-
--*who_vendome
-      Ah ! courons dans l'ardeur qui me presse,
-Quoi ! vous n'osez d'un mot rassurer ma tendresse ?
-Vous détournez les veux ! vous tremblez ! et je voi
-Que vous cachez des pleurs qui ne sont pas pour moi.
-
--*who_coucy
-Le temps presse.
-
--*who_vendome
-      Il est temps que Vendôme périsse :
-Il n'est point de Français que l'amour avilisse :
-Amants aimés, heureux, ils cherchent les combats,
-Ils courent à la gloire ; et je vole au trépas.
-Allons, brave Coucy, la mort la plus cruelle,
-La mort, que je désire, est moins barbare qu'elle.
-
--*who_adelaide
 Ah ! seigneur, modérez cet injuste courroux ;
 Autant que je le dois je m'intéresse à vous.
 J'ai payé vos bienfaits, mes jours, ma délivrance,
 Par tous les sentiments qui sont en ma puissance ;
 Sensible à vos dangers, je plains votre valeur.
 
--*who_vendome
-Ah ! Que vous savez bien le chemin de mon coeur ?
-Que vous savez mêler la douceur à l'injure !
-Un seul mot m'accablait, un seul mot me rassure.
-Content, rempli de vous, j'abandonne ces lieux,
-Et crois voir ma victoire écrite dans vos yeux.
-
-**** *book_ *id_I05 *act_I *date_1734
-
--*who_taise
-Vous voyez sans pitié sa tendresse alarmée.
-
--*who_adelaide
 Est-il bien vrai ? Nemours serait-il dans l'armée ?
 Ô discorde fatale ! Amour plus dangereux !
 Que vous coûterez cher à ce coeur malheureux !
 
-**** *book_ *id_II01 *act_II *date_1734
-
--*who_vendome
-Nous périssions sans vous, Coucy, je le confesse.
-Vos conseils ont guidé ma fougueuse jeunesse ;
-C'est vous dont l'esprit ferme et les yeux pénétrants
-M'ont porté des secours en cent lieux différents.
-Que n'ai-je, comme vous, ce tranquille courage,
-Si froid dans le danger, si calme dans l'orage !
-Coucy m'est nécessaire aux conseils, aux combats ;
-Et c'est à sa grande âme à diriger mon bras.
-
--*who_coucy
-Ce courage brillant, qu'en vous on voit paraître,
-Sera maître de tout quand vous en serez maître :
-Vous l'avez su régler, et vous avez vaincu.
-Ayez dans tous les temps cette utile vertu
-Qui sait se posséder peut commander au monde.
-Pour moi, de qui le bras faiblement vous seconde,
-Je connais mon devoir, et je vous ai suivi.
-Dans l'ardeur du combat je vous ai peu servi ;
-Nos guerriers sur vos pas marchaient à la victoire,
-Et suivre les Bourbons, c'est voler à la gloire.
-Vous seul, seigneur, vous seul avez fait prisonnier
-Ce chef des assaillants, ce superbe guerrier.
-Vous l'avez pris vous-même, et, maître de sa vie,
-Vos secours l'ont sauvé de sa propre furie.
-
--*who_vendome
-D'où vient donc, cher Coucy, que cet audacieux,
-Sous son casque fermé, se cachait à mes veux ?
-D'où vient qu'en le prenant, qu'en saisissant ses armes,
-J'ai senti, malgré moi, de nouvelles alarmes ?
-Un je ne sais quel trouble en moi s'est élevé ;
-Soit que ce triste amour, dont je suis captivé,
-Sur mes sens égarés répandant sa tendresse,
-Jusqu'au sein des combats m'ait prêté sa faiblesse,
-Qu'il ait voulu marquer toutes mes actions
-Par la molle douceur de ses impressions ;
-Soit plutôt que la voix de ma triste patrie
-Parle encore en secret au coeur qui l'a trahie ;
-Qu'elle condamne encor mes funestes succès,
-Et ce bras qui n'est teint que du sang des Français.
-
--*who_coucy
-Je prévois que bientôt cette guerre fatale,
-Ces troubles intestins de la maison royale,
-Ces tristes factions, céderont au danger
-D'abandonner la France au fils de l'étranger.
-Je vois que de l'Anglais la race est peu chérie,
-Que leur joug est pesant, qu'on aime la patrie,
-Que le sang des Capets est toujours adoré.
-Tôt ou tard il faudra que de ce tronc sacré
-Les rameaux divisés et courbés par l'orage,
-Plus unis et plus beaux, soient notre unique ombrage.
-Nous, seigneur, n'avons-nous rien à nous reprocher ?
-Le sort au prince anglais voulut vous attacher ;
-De votre sang, du sien, la querelle est commune :
-Vous suivez son parti, je suis votre fortune.
-Comme vous aux Anglais le destin m'a lié :
-Vous, par le droit du sang ; moi, par notre amitié :
-Permettez-moi ce mot... Eh quoi ! votre âme émue...
-
--*who_vendome
-Ah ! voilà ce guerrier qu'on amène à ma vue.
-
-**** *book_ *id_II02 *act_II *date_1734
-
--*who_vendome
-Il soupire, il paraît accablé de regrets.
-
--*who_coucy
-Son sang sur son visage a confondu ses traits ;
-Il est blessé sans doute.
-
--*who_nemours
-      Entreprise funeste
-Qui de ma triste vie arrachera le reste !
-Où me conduisez-vous ?
-
--*who_vendome
-      Devant votre vainqueur,
-Qui sait d'un ennemi respecter la valeur.
-Venez, ne craignez rien.
-
--*who_nemours
-      Je ne crains que de vivre ;
-Sa présence m'accable, et je ne puis poursuivre.
-Il ne me connaît plus, et mes sens attendris...
-
--*who_vendome
-Quelle voix, quels accents ont frappé mes esprits ?
-
--*who_nemours
-M'as-tu pu méconnaître ?
-
--*who_vendome
-      Ah, Nemours ! ah, mon frère !
-
--*who_nemours
-Ce nom jadis si cher, ce nom me désespère.
-Je ne le suis que trop, ce frère infortuné,
-Ton ennemi vaincu, ton captif enchaîné.
-
--*who_vendome
-Tu n'es plus que mon frère. Ah ! moment plein de charmes !
-Ah ! laisse-moi laver ton sang avec mes larmes.
-Avez-vous par vos soins ?...
-
--*who_nemours
-      Oui, leurs cruels secours
-Ont arrêté mon sang, ont veillé sur mes jours,
-De la mort que je cherche ont écarté l'approche.
-
--*who_vendome
-Ne te détourne point, ne crains point mon reproche.
-Mon coeur te fut connu ; peux-tu t'en défier ?
-Le bonheur de te voir me fait tout oublier.
-J'eusse aimé contre un autre à montrer mon courage.
-Hélas ! que je te plains !
-
--*who_nemours
-      Je te plains davantage
-De haïr ton pays, de trahir sans remords
-Et le roi qui t'aimait, et le sang dont tu sors.
-
--*who_vendome
-Arrête : épargne-moi l'infâme nom de traître ;
-À cet indigne mot je m'oublierais peut-être.
-Frémis d'empoisonner la joie et les douceurs
-Que ce tendre moment doit verser dans nos coeurs.
-Dans ce jour malheureux que l'amitié l'emporte.
-
--*who_nemours
-Quel jour !
-
--*who_vendome
-      Je le bénis.
-
--*who_nemours
-      Il est affreux.
-
--*who_vendome
-      N'importe ;
-Tu vis, je te revois, et je suis trop heureux.
-Ô ciel ! de tous côtés vous remplissez mes voeux !
-
--*who_nemours
-Je te crois. On disait que d'un amour extrême,
-Violent, effréné (car c'est ainsi qu'on aime),
-Ton coeur, depuis trois mois s'occupait tout entier ?
-
--*who_vendome
-J'aime ; oui, la renommée a pu le publier ;
-Oui, j'aime avec fureur une telle alliance
-Semblait pour mon bonheur attendre ta présence ;
-Oui, mes ressentiments, mes droits, mes alliés,
-Gloire, amis, ennemis, je mets tout à ses pieds.
-Allez, et dites-lui que deux malheureux frères,
-Jetés par le destin dans des partis contraires,
-Pour marcher désormais sous le même étendard,
-De ses yeux souverains n'attendent qu'un regard.
-Ne blâme point l'amour où ton frère est en proie ;
-Pour me justifier il suffit qu'on la voie.
-
--*who_nemours
-Ô ciel !... elle vous aime !...
-
--*who_vendome
-      Elle le doit, du moins ;
-Il n'était qu'un obstacle au succès de mes soins ;
-Il n'en est plus ; je veux que rien ne nous sépare.
-
--*who_nemours
-Quels effroyables coups le cruel me prépare !
-Écoute ; à ma douleur ne veux-tu qu'insulter ?
-Me connais-tu ? sais-tu ce que j'ose attenter ?
-Dans ces funestes lieux sais-tu ce qui m'amène ?
-
--*who_vendome
-Oublions ces sujets de discorde et de haine.
-
-**** *book_ *id_II03 *act_II *date_1734
-
--*who_vendome
-Madame, vous voyez que du sein du malheur,
-Le ciel qui nous protège a tiré mon bonheur.
-J'ai vaincu, je vous aime, et je retrouve un frère ;
-Sa présence à mon coeur vous rend encor plus chère.
-
--*who_adelaide
 Le voici ! malheureuse ! ah ! cache au moins tes pleurs
 
--*who_nemours
-Adélaïde... ô ciel !... c'en est fait, je me meurs.
-
--*who_vendome
-Que vois-je ! Sa blessure à l'instant s'est rouverte !
-Son sang coule !
-
--*who_nemours
-      Est-ce à toi de prévenir ma perte ?
-
--*who_vendome
-Ah ! mon frère !
-
--*who_nemours
-      Ote-toi, je chéris mon trépas.
-
--*who_adelaide
 Ciel !... Nemours !
 
--*who_nemours
-      Laisse-moi.
-
--*who_vendome
-      Je ne te quitte pas.
-
-**** *book_ *id_II04 *act_II *date_1734
-
--*who_adelaide
 On l'emporte : il expire : il faut que je le suive.
 
--*who_taise
-Ah ! que cette douleur se taise et se captive.
-Plus vous l'aimez, madame, et plus il faut songer
-Qu'un rival violent...
-
--*who_adelaide
       Je songe à son danger.
 Voilà ce que l'amour et mon malheur lui coûte.
 Taïse, c'est pour moi qu'il combattait, sans doute ;
@@ -693,12 +1571,6 @@ Ces lieux sont teints du sang qu'il versait à ma vue.
 Ah ! Taïse, est-ce ainsi que je lui suis rendue ?
 Va le trouver ; va, cours auprès de mon amant.
 
--*who_taise
-Eh ! Ne craignez-vous pas que tant d'empressement
-N'ouvre les yeux jaloux d'un prince qui vous aime ?
-Tremblez de découvrir...
-
--*who_adelaide
       J'y volerai moi-même.
 D'une autre main, Taïse, il reçoit des secours :
 Un autre a le bonheur d'avoir soin de ses jours :
@@ -706,36 +1578,13 @@ Il faut que je le voie, et que de son amante
 La faible main s'unisse à sa main défaillante.
 Hélas ! des mêmes coups nos deux coeurs pénétrés..
 
--*who_taise
-Au nom de cet amour, arrêtez, demeurez ;
-Reprenez vos esprits.
-
--*who_adelaide
       Rien ne m'en peut distraire.
 
-**** *book_ *id_II05 *act_II *date_1734
-
--*who_adelaide
 Ah ! prince, en quel état laissez-vous votre frère ?
 
--*who_vendome
-Madame, par mes mains son sang est arrêté.
-Il a repris sa force et sa tranquillité.
-Je suis le seul à plaindre, et le seul en alarmes ;
-Je mouille en frémissant mes lauriers de mes larmes ;
-Et je hais ma victoire et mes prospérités,
-Si je n'ai par mes soins vaincu vos cruautés :
-Si votre incertitude, alarmant mes tendresses,
-Ose encor démentir la foi de vos promesses.
-
--*who_adelaide
 Je ne vous promis rien : vous n'avez point ma foi ;
 Et la reconnaissance est tout ce que je dois.
 
--*who_vendome
-Quoi ! lorsque de ma main je vous offrais l'hommage !.
-
--*who_adelaide
 D'un si noble présent j'ai vu tout l'avantage ;
 Et sans chercher ce rang qui ne m'était pas dû,
 Par de justes respects je vous ai répondu.
@@ -756,44 +1605,10 @@ L'allié des Anglais, quelque grand qu'il puisse être.
 Voilà les sentiments que son sang m'a tracés,
 Et s'ils vous font rougir, c'est vous qui m'y forcez.
 
--*who_vendome
-Je suis, je l'avouerai, surpris de ce langage ;
-Je ne m'attendais pas à ce nouvel outrage,
-Et n'avais pas prévu que le sort en courroux,
-Pour m'accabler d'affronts, dût se servir de vous.
-Vous avez fait, madame, une secrète étude
-Du mépris, de l'insulte, et de l'ingratitude ;
-Et votre coeur enfin, lent à se déployer,
-Hardi par ma faiblesse, a paru tout entier.
-Je ne connaissais pas tout ce zèle héroïque,
-Tant d'amour pour vos rois, ou tant de politique.
-Mais, vous qui m'outragez, me connaissez-vous bien ?
-Vous reste-t-il ici de parti que le mien ?
-Vous qui me devez tout, vous qui, sans ma défense,
-Auriez de ces Français assouvi la vengeance,
-De ces mêmes Français, à qui vous vous vantez
-De conserver la foi d'un coeur que vous m'ôtez !
-Est-ce donc là le prix de vous avoir servie ?
-
--*who_adelaide
 Oui, vous m'avez sauvée ; oui, je vous dois la vie ;
 Mais, seigneur, mais, hélas ! n'en puis-je disposer ?
 Me la conserviez-vous pour la tyranniser ?
 
--*who_vendome
-Je deviendrai tyran, mais moins que vous, cruelle ;
-Mes yeux lisent trop bien dans votre âme rebelle ;
-Tous vos prétextes faux m'apprennent vos raisons :
-Je vois mon déshonneur, je vois vos trahisons.
-Quel que soit l'insolent que ce coeur me préfère,
-Redoutez mon amour, tremblez de ma colère ;
-C'est lui seul désormais que mon bras va chercher ;
-De son coeur tout sanglant j'irai vous arracher ;
-Et si, dans les horreurs du sort qui nous accable,
-De quelque joie encor ma fureur est capable,
-Je la mettrai, perfide, à vous désespérer.
-
--*who_adelaide
 Non, seigneur, la raison saura vous éclairer.
 Non, votre âme est trop noble, elle est trop élevée,
 Pour opprimer ma vie après l'avoir sauvée.
@@ -806,20 +1621,6 @@ Je vous ferai rougir de me persécuter ;
 Et je conserverai, malgré votre menace,
 Une âme sans courroux, sans crainte, et sans audace.
 
--*who_vendome
-Arrêtez ; pardonnez aux transports égarés,
-Aux fureurs d'un amant que vous désespérez.
-Je vois trop qu'avec vous Coucy d'intelligence,
-D'une cour qui me hait embrasse la défense ;
-Que vous voulez tous deux m'unir à votre roi,
-Et de mon sort enfin disposer malgré moi.
-Vos discours sont les siens. Ah ! parmi tant d'alarmes,
-Pourquoi recourez-vous à ces nouvelles armes ?
-Pour gouverner mon coeur, l'asservir, le changer,
-Aviez-vous donc besoin d'un secours étranger ?
-Aimez, il suffira d'un mot de votre bouche.
-
--*who_adelaide
 Je ne vous cache point que du soin qui me touche,
 À votre ami, seigneur, mon coeur s'était remis ;
 Je vois qu'il a plus fait qu'il ne m'avait promis.
@@ -829,366 +1630,30 @@ Devenez assez grand pour apprendre à dompter
 Des feux que mon devoir me force à rejeter.
 Laissez-moi tout entière à la reconnaissance.
 
--*who_vendome
-Le seul Coucy, sans doute, a votre confiance ;
-Mon outrage est connu ; je sais vos sentiments.
-
--*who_adelaide
 Vous les pourrez, seigneur, connaître avec le temps ;
 Mais vous n'aurez jamais le droit de les contraindre,
 Ni de les condamner, ni même de vous plaindre.
 D'un guerrier généreux j'ai recherché l'appui ;
 Imitez sa grande âme, et pensez comme lui.
 
-**** *book_ *id_II06 *act_II *date_1734
-
--*who_vendome
-Eh bien ! C'en est donc fait ! L'ingrate, la parjure,
-À mes yeux sans rougir étale mon injure :
-De tant de trahison l'abîme est découvert ;
-Je n'avais qu'un ami, c'est lui seul qui me perd.
-Amitié, vain fantôme, ombre que j'ai chérie,
-Toi qui me consolais des malheurs de ma vie,
-Bien que j'ai trop aimé, que j'ai trop méconnu,
-Trésor cherché sans cesse, et jamais obtenu !
-Tu m'as trompé, cruelle, autant que l'amour même ;
-Et maintenant, pour prix de mon erreur extrême,
-Détrompé des faux biens, trop faits pour me charmer,
-Mon destin me condamne à ne plus rien aimer.
-Le voilà cet ingrat qui, fier de son parjure,
-Vient encor de ses mains déchirer ma blessure.
-
-**** *book_ *id_II07 *act_II *date_1734
-
--*who_coucy
-Prince, me voilà prêt disposez de mon bras...
-Mais d'où naît à mes yeux cet étrange embarras ?
-Quand vous avez vaincu, quand vous sauvez un frère,
-Heureux de tous côtés, qui peut donc vous déplaire ?
-
--*who_vendome
-Je suis désespéré, je suis haï, jaloux.
-
--*who_coucy
-Eh bien ! De vos soupçons quel est l'objet, qui ?
-
--*who_vendome
-      Vous,
-Vous, dis-je ; et du refus qui vient de me confondre,
-C'est vous, ingrat ami, qui devez me répondre.
-Je sais qu'Adélaïde ici vous a parlé ;
-En vous nommant à moi, la perfide a tremblé ;
-Vous affectez sur elle un odieux silence,
-Interprète muet de votre intelligence :
-Elle cherche à me fuir, et vous à me quitter.
-Je crains tout, je crois tout.
-
--*who_coucy
-      Voulez-vous m'écouter ?
-
--*who_vendome
-Je le veux.
-
--*who_coucy
-      Pensez-vous que j'aime encor la gloire ?
-M'estimez-vous encore, et pourrez-vous me croire ?
-
--*who_vendome
-Oui, jusqu'à ce moment je vous crus vertueux ;
-Je vous crus mon ami.
-
--*who_coucy
-      Ces titres glorieux
-Furent toujours pour moi l'honneur le plus insigne ;
-Et vous allez juger si mon âme en est digne.
-Sachez qu'Adélaïde avait touché mon coeur
-Avant que, de sa vie heureux libérateur,
-Vous eussiez par vos soins, par cet amour sincère,
-Surtout par vos bienfaits, tant de droits de lui plaire.
-Moi, plus soldat que tendre, et dédaignant toujours
-Ce grand art de séduire inventé dans les cours,
-Ce langage flatteur, et souvent si perfide,
-Peu fait pour mon esprit peut-être trop rigide,
-Je lui parlai d'hymen ; et ce noeud respecté,
-Resserré par l'estime et par l'égalité,
-Pouvait lui préparer des destins plus propices
-Qu'un rang plus élevé mais sur des précipices.
-Hier avec la nuit je vins dans vos remparts ;
-Tout votre coeur parut à mes premiers regards.
-De cet ardent amour la nouvelle semée,
-Par vos emportements me fut trop confirmée.
-Je vis de vos chagrins les funestes accès ;
-J'en approuvai la cause, et j'en blâmai l'excès.
-Aujourd'hui j'ai revu cet objet de vos larmes ;
-D'un oeil indifférent j'ai regardé ses charmes.
-Libre et juste auprès d'elle, à vous seul attaché,
-J'ai fait valoir les feux dont vous êtes touché ;
-J'ai de tous vos bienfaits rappelé la mémoire,
-L'éclat de votre rang, celui de votre gloire,
-Sans cacher vos défauts vantant votre vertu,
-Et pour vous contre moi j'ai fait ce que j'ai dû.
-Je m'immole à vous seul, et je me rends justice ;
-Et, si ce n'est assez d'un si grand sacrifice,
-S'il est quelque rival qui vous ose outrager,
-Tout mon sang est à vous, et je cours vous venger.
-
--*who_vendome
-Ah ! généreux ami, qu'il faut que je révère,
-Oui, le destin dans toi me donne un second frère ;
-Je n'en étais pas digne, il le faut avouer :
-Mon coeur?
-
--*who_coucy
-      Aimez-moi, prince, au lieu de me louer ;
-Et si vous me devez quelque reconnaissance,
-Faites votre bonheur, il est ma récompense.
-Vous voyez quelle ardente et fière inimitié
-Votre frère nourrit contre votre allié.
-Sur ce grand intérêt souffrez que je m'explique.
-Vous m'avez soupçonné de trop de politique,
-Quand j'ai dit que bientôt on verrait réunis
-Les débris dispersés de l'empire des lis.
-Je vous le dis encore au sein de votre gloire ;
-Et vos lauriers brillants, cueillis par la victoire,
-Pourront sur votre front se flétrir désormais
-S'ils n'y sont soutenus de l'olive de paix.
-Tous les chefs de l'État, lassés de ces ravages,
-Cherchent un port tranquille après tant de naufrages ;
-Gardez d'être réduit au hasard dangereux
-De vous voir, ou trahir, ou prévenir par eux.
-Passez-les en prudence, aussi bien qu'en courage.
-De cet heureux moment prenez tout l'avantage ;
-Gouvernez la fortune, et sachez l'asservir :
-C'est perdre ses faveurs que tarder d'en jouir :
-Ses retours sont fréquents, vous devez les connaître.
-Il est beau de donner la paix à votre maître.
-Son égal aujourd'hui, demain dans l'abandon,
-Vous vous verrez réduit à demander pardon.
-La gloire vous conduit : que la raison vous guide.
-
--*who_vendome
-Brave et prudent Coucy, crois-tu qu'Adélaïde
-Dans son coeur amolli partagerait mes feux,
-Si le même parti nous unissait tous deux ?
-Penses-tu qu'à m'aimer je pourrais la réduire ?
-
--*who_coucy
-Dans le fond de son coeur je n'ai point voulu lire :
-Mais qu'importe pour vous ses voeux et ses desseins ?
-Faut-il que l'amour seul fasse ici nos destins ?
-Lorsque Philippe-Auguste, aux plaines de Bovines,
-De l'État déchiré répara les ruines,
-Quand seul il arrêta, dans nos champs inondés,
-De l'empire germain les torrents débordés ;
-Tant d'honneurs étaient-ils l'effet de sa tendresse ?
-Sauva-t-il son pays pour plaire à sa maîtresse ?
-Verrai-je un si grand coeur à ce point s'avilir ?
-Le salut de l'État dépend-il d'un soupir ?
-Aimez, mais en héros qui maîtrise son âme,
-Qui gouverne à la fois ses États et sa flamme.
-Mon bras contre un rival est prêt à vous servir ;
-Je voudrais faire plus, je voudrais vous guérir.
-On connaît peu l'amour, on craint trop son amorce ;
-C'est sur nos lâchetés qu'il a fondé sa force ;
-C'est nous qui sous son nom troublons notre repos ;
-Il est tyran du faible, esclave du héros.
-Puisque je l'ai vaincu, puisque je le dédaigne,
-Dans l'âme d'un Bourbon souffrirez-vous qu'il règne ?
-Vos autres ennemis par vous sont abattus,
-Et vous devez en tout l'exemple des vertus.
-
--*who_vendome
-Le sort en est jeté, je ferai tout pour elle ;
-Il faut bien à la fin désarmer la cruelle ;
-Ses lois seront mes lois, son roi sera le mien ;
-Je n'aurai de parti, de maître que le sien.
-Possesseur d'un trésor où s'attache ma vie,
-Avec mes ennemis je me réconcilie ;
-Je lirai dans ses yeux mon sort et mon devoir ;
-Mon coeur est enivré de cet heureux espoir.
-Enfin, plus de prétexte à ses refus injustes :
-Raison, gloire, intérêt, et tous ces droits augustes
-Des princes de mon sang et de mes souverains,
-Sont des liens sacrés resserrés par ses mains.
-Du roi, puisqu'il le faut, soutenons la couronne ;
-La vertu le conseille, et la beauté l'ordonne.
-Je veux entre tes mains, en ce fortuné jour,
-Sceller tous les serments que je fais à l'amour :
-Quant à mes intérêts, que toi seul en décide.
-
--*who_coucy
-Souffrez donc près du roi que mon zèle me guide ;
-Peut-être il eût fallu que ce grand changement
-Ne fût dû qu'au héros, et non pas à l'amant ;
-Mais si d'un si grand coeur une femme dispose,
-L'effet en est trop beau pour en blâmer la cause ;
-Et mon coeur, tout rempli de cet heureux retour,
-Bénit votre faiblesse, et rend grâce à l'amour.
-
-**** *book_ *id_III01 *act_III *date_1734
-
--*who_nemours
-Combat infortuné, destin qui me poursuis !
-Ô mort, mon seul recours, douce mort qui me fuis !
-Ciel ! N'as-tu conservé la trame de ma vie
-Que pour tant de malheurs et tant d'ignominie ?
-Adélaïde, au moins, pourrai-je la revoir ?
-
--*who_dangeste
-Vous la verrez, seigneur.
-
--*who_nemours
-      Ah ! mortel désespoir !
-Elle ose me parler, et moi, je le souhaite !
-
--*who_dangeste
-Seigneur, en quel état votre douleur vous jette !
-Vos jours sont en péril, et ce sang agité...
-
--*who_nemours
-Mes déplorables jours sont trop en sûreté ;
-Ma blessure est légère, elle m'est insensible :
-Que celle de mon coeur est profonde et terrible !
-
--*who_dangeste
-Remerciez les cieux de ce qu'ils ont permis
-Que vous ayez trouvé de si chers ennemis.
-Il est dur de tomber dans des mains étrangères :
-Vous êtes prisonnier du plus tendre des frères.
-
--*who_nemours
-Mon frère ! Ah ! Malheureux !
-
--*who_dangeste
-      Il vous était lié
-Par les noeuds les plus saints d'une pure amitié.
-Que n'éprouvez-vous point de sa main secourable !
-
--*who_nemours
-Sa fureur m'eût flatté ; son amitié m'accable.
-
--*who_dangeste
-Quoi ! Pour être engagé dans d'autres intérêts,
-Le haïssez-vous tant ?
-
--*who_nemours
-      Je l'aime, et je me hais ;
-Et, dans les passions de mon âme éperdue,
-La voix de la nature est encore entendue.
-
--*who_dangeste
-Si contre un frère aimé vous avez combattu,
-J'en ai vu quelque temps frémir votre vertu :
-Mais le roi l'ordonnait, et tout vous justifie.
-L'entreprise était juste, aussi bien que hardie.
-Je vous ai vu remplir, dans cet affreux combat,
-Tous les devoirs d'un chef et tous ceux d'un soldat ;
-Et vous avez rendu, par des faits incroyables,
-Votre défaite illustre, et vos fers honorables.
-On a perdu bien peu quand on garde l'honneur.
-
--*who_nemours
-Non, ma défaite, ami, ne fait point mon malheur.
-Du Guesclin, des Français l'amour et le modèle,
-Aux Anglais si terrible, à son roi si fidèle,
-Vit ses honneurs flétris par de plus grands revers :
-Deux fois sa main puissante a langui dans les fers :
-Il n'en fut que plus grand, plus fier, et plus à craindre ;
-Et son vainqueur tremblant fut bientôt seul à plaindre.
-Du Guesclin, nom sacré, nom toujours précieux !
-Quoi ! Ta coupable nièce évite encor mes yeux !
-Ah ! Sans doute, elle a dû redouter mes reproches ;
-Ainsi donc, cher Dangeste, elle fuit tes approches ?
-Tu n'as pu lui parler ?
-
--*who_dangeste
-      Seigneur, je vous ai dit
-Que bientôt...
-
--*who_nemours
-      Ah ! Pardonne à mon coeur interdit.
-Trop chère Adélaïde ! Eh bien ! Quand tu l'as vue,
-Parle, à mon nom du moins paraissait-elle émue ?
-
--*who_dangeste
-Votre sort en secret paraissait la toucher ;
-Elle versait des pleurs, et voulait les cacher.
-
--*who_nemours
-Elle pleure et m'outrage ! Elle pleure et m'opprime !
-Son coeur, je le vois bien, n'est pas né pour le crime.
-Pour me sacrifier elle aura combattu :
-La trahison la gêne, et pèse à sa vertu :
-Faible soulagement à ma fureur jalouse !
-T'a-t-on dit en effet que mon frère l'épouse ?
-
--*who_dangeste
-S'il s'en vantait lui-même, en pouvez-vous douter ?
-
--*who_nemours
-Il l'épouse ! À ma honte elle vient insulter !
-Ah Dieu !
-
-**** *book_ *id_III02 *act_III *date_1734
-
--*who_adelaide
       Le ciel vous rend à mon âme attendrie ;
 En veillant sur vos jours il conserva ma vie.
 Je vous revois, cher prince, et mon coeur empressé...
 Juste ciel ! quels regards, et quel accueil glacé !
 
--*who_nemours
-L'intérêt qu'à mes jours vos bontés daignent prendre,
-Est d'un coeur généreux ; mais il doit me surprendre.
-Vous aviez en effet besoin de mon trépas :
-Mon rival plus tranquille eût passé dans vos bras.
-Libre dans vos amours, et sans inquiétude,
-Vous jouiriez en paix de votre ingratitude ;
-Et les remords honteux qu'elle traîne après soi,
-S'il peut vous en rester, périssaient avec moi.
-
--*who_adelaide
 Hélas ! Que dites-vous ? Quelle fureur subite...
 
--*who_nemours
-Non, votre changement n'est pas ce qui m'irrite.
-
--*who_adelaide
 Mon changement ? Nemours !
 
--*who_nemours
-      À vous seule asservi,
-Je vous aimais trop bien pour n'être point trahi :
-C'est le sort des amants, et ma honte est commune ;
-Mais que vous insultiez vous-même à ma fortune !
-Qu'en ces murs, où vos yeux ont vu couler mon sang,
-Vous acceptiez la main qui m'a percé le flanc,
-Et que vous osiez joindre à l'horreur qui m'accable,
-D'une fausse pitié l'affront insupportable !
-Qu'à mes yeux...
-
--*who_adelaide
       Ah ! Plutôt donnez-moi le trépas.
 Immolez votre amante, et ne l'accusez pas.
 Mon coeur n'est point armé contre votre colère,
 Cruel, et vos soupçons manquaient à ma misère.
 Ah ! Nemours, de quels maux nos jours empoisonnés...
 
--*who_nemours
-Vous me plaignez, cruelle, et vous m'abandonnez !
-
--*who_adelaide
 Je vous pardonne, hélas ! cette fureur extrême,
 Tout, jusqu'à vos soupçons ; jugez si je vous aime.
 
--*who_nemours
-Vous m'aimeriez ? Qui, vous ? Et Vendôme à l'instant
-Entoure de flambeaux l'autel qui vous attend !
-Lui-même il m'a vanté sa gloire et sa conquête.
-Le barbare ! Il m'invite à cette horrible fête !
-Que plutôt...
-
--*who_adelaide
       Ah ! Cruel, me faut-il employer
 Les moments de vous voir à me justifier ?
 Votre frère, il est vrai, persécute ma vie,
@@ -1202,16 +1667,8 @@ Au secours inutile et honteux des serments !
 Non, non ; vous connaissez le coeur d'Adélaïde ;
 C'est vous qui conduisez ce coeur faible et timide.
 
--*who_nemours
-Mais mon frère vous aime ?
-
--*who_adelaide
       Ah ! N'en redoutez rien.
 
--*who_nemours
-Il sauva vos beaux jours !
-
--*who_adelaide
       Il sauva votre bien.
 Dans Cambrai, je l'avoue, il daigna me défendre.
 Au roi que nous servons il promit de me rendre :
@@ -1234,59 +1691,6 @@ Lui, par sa passion ; vous, par votre injustice ;
 Vous, Nemours, vous, ingrat, que je vois aujourd'hui,
 Moins amoureux, peut-être, et plus cruel que lui.
 
--*who_nemours
-C'en est trop... pardonnez... voyez mon âme en proie
-À l'amour, aux remords, à l'excès de ma joie.
-Digne et charmant objet d'amour et de douleur,
-Ce jour infortuné, ce jour fait mon bonheur.
-Glorieux, satisfait, dans un sort si contraire,
-Tout captif que je suis, j'ai pitié de mon frère.
-Il est le seul à plaindre avec votre courroux ;
-Et je suis son vainqueur, étant aimé de vous.
-
-**** *book_ *id_III03 *act_III *date_1734
-
--*who_vendome
-Connaissez donc enfin jusqu'où va ma tendresse,
-Et tout votre pouvoir, et toute ma faiblesse :
-Et vous, mon frère, et vous, soyez ici témoin
-Si l'excès de l'amour peut emporter plus loin.
-Ce que votre amitié, ce que votre prière,
-Les conseils de Coucy, le roi, la France entière,
-Exigeaient de Vendôme, et qu'ils n'obtenaient pas,
-Soumis et subjugué, je l'offre à ses appas.
-L'amour, qui malgré vous nous a faits l'un pour l'autre,
-Ne me laisse de choix, de parti, que le vôtre.
-Je prends mes lois de vous ; votre maître est le mien :
-De mon frère et de moi soyez l'heureux lien ;
-Soyez-le de l'État, et que ce jour commence
-Mon bonheur et le vôtre, et la paix de la France.
-Vous, courez, mon cher frère, allez dès ce moment
-Annoncer à la cour un si grand changement.
-Moi, sans perdre de temps, dans ce jour d'allégresse,
-Qui m'a rendu mon roi, mon frère, et ma maîtresse,
-D'un bras vraiment français, je vais, dans nos remparts,
-Sous nos lis triomphants briser les léopards.
-Soyez libre, partez, et de mes sacrifices
-Allez offrir au roi les heureuses prémices.
-Puissé-je à ses genoux présenter aujourd'hui
-Celle qui m'a dompté, qui me ramène à lui,
-Qui d'un prince ennemi fait un sujet fidèle,
-Changé par ses regards, et vertueux par elle !
-
--*who_nemours
-Il fait ce que je veux, et c'est pour m'accabler !
-Prononcez notre arrêt, Madame ; il faut parler.
-
--*who_vendome
-Eh quoi ! Vous demeurez interdite et muette ?
-De mes soumissions êtes-vous satisfaite ?
-Est-ce assez qu'un vainqueur vous implore à genoux ?
-Faut-il encor ma vie, ingrate ? elle est à vous.
-Vous n'avez qu'à parler, j'abandonne sans peine
-Ce sang infortuné, proscrit par votre haine.
-
--*who_adelaide
 Seigneur, mon coeur est juste ; on ne m'a vu jamais
 Mépriser vos bontés, et haïr vos bienfaits ;
 Mais je ne puis penser qu'à mon peu de puissance
@@ -1297,47 +1701,12 @@ Vos desseins ont sans doute une source plus pure :
 Vous avez consulté le devoir, la nature ;
 L'amour a peu de part où doit régner l'honneur.
 
--*who_vendome
-L'amour seul a tout fait, et c'est là mon malheur ;
-Sur tout autre intérêt ce triste amour l'emporte.
-Accablez-moi de honte, accusez-moi, n'importe !
-Dussé-je vous déplaire et forcer votre coeur,
-L'autel est prêt ; venez.
-
--*who_nemours
-      Vous osez ?...
-
--*who_adelaide
       Non, Seigneur.
 Avant que je vous cède, et que l'hymen nous lie,
 Aux yeux de votre frère arrachez-moi la vie.
 Le sort met entre nous un obstacle éternel.
 Je ne puis être à vous.
 
--*who_vendome
-      Nemours... Ingrate... Ah ciel !
-C'en est donc fait... Mais non... Mon coeur sait se contraindre :
-Vous ne méritez pas que je daigne m'en plaindre.
-Vous auriez dû peut-être, avec moins de détour,
-Dans ses premiers transports étouffer mon amour,
-Et par un prompt aveu, qui m'eût guéri sans doute,
-M'épargner les affronts que ma bonté me coûte.
-Mais je vous rends justice ; et ces séductions,
-Qui vont au fond des coeurs chercher nos passions,
-L'espoir qu'on donne à peine afin qu'on le saisisse,
-Ce poison préparé des mains de l'artifice,
-Sont les armes d'un sexe aussi trompeur que vain,
-Que l'oeil de la raison regarde avec dédain.
-Je suis libre par vous : cet art que je déteste,
-Cet art qui m'enchaîna brise un joug si funeste ;
-Et je ne prétends pas, indignement épris,
-Rougir devant mon frère, et souffrir des mépris.
-Montrez-moi seulement ce rival qui se cache ;
-Je lui cède avec joie un poison qu'il m'arrache ;
-Je vous dédaigne assez tous deux pour vous unir,
-Perfide ! et c'est ainsi que je dois vous punir.
-
--*who_adelaide
 Je devrais seulement vous quitter et me taire ;
 Mais je suis accusée, et ma gloire m'est chère.
 Votre frère est présent, et mon honneur blessé
@@ -1359,341 +1728,44 @@ Mais, après ma pitié, n'attirez point ma haine.
 J'ai rejeté vos voeux, que je n'ai point bravés ;
 J'ai voulu votre estime, et vous me la devez.
 
--*who_vendome
-Je vous dois ma colère, et sachez qu'elle égale
-Tous les emportements de mon amour fatale.
-Quoi donc ! Vous attendiez, pour oser m'accabler,
-Que Nemours fût présent, et me vît immoler ?
-Vous vouliez ce témoin de l'affront que j'endure ?
-Allez, je le croirais l'auteur de mon injure,
-Si... Mais il n'a point vu vos funestes appas ;
-Mon frère trop heureux ne vous connaissait pas.
-Nommez donc mon rival : mais gardez-vous de croire
-Que mon lâche dépit lui cède la victoire.
-Je vous trompais, mon coeur ne peut feindre longtemps :
-Je vous traîne à l'autel, à ses yeux expirants ;
-Et ma main, sur sa cendre, à votre main donnée,
-Va tremper dans le sang les flambeaux d'hyménée.
-Je sais trop qu'on a vu, lâchement abusés,
-Pour des mortels obscurs, des princes méprisés ;
-Et mes yeux perceront, dans la foule inconnue,
-Jusqu'à ce vil objet qui se cache à ma vue.
-
--*who_nemours
-Pourquoi d'un choix indigne osez-vous l'accuser ?
-
--*who_vendome
-Et pourquoi, vous, mon frère, osez-vous l'excuser ?
-Est-il vrai que de vous elle était ignorée ?
-Ciel ! À ce piège affreux ma foi serait livrée !
-Tremblez.
-
--*who_nemours
-      Moi ! Que je tremble ! Ah ! J'ai trop dévoré
-L'inexprimable horreur où toi seul m'as livré ;
-J'ai forcé trop longtemps mes transports au silence :
-Connais-moi donc, barbare, et remplis ta vengeance !
-Connais un désespoir à tes fureurs égal ;
-Frappe, voilà mon coeur, et voilà ton rival !
-
--*who_vendome
-Toi, cruel ! toi, Nemours !
-
--*who_nemours
-      Oui, depuis deux années,
-L'amour la plus secrète a joint nos destinées.
-C'est toi dont les fureurs ont voulu m'arracher
-Le seul bien sur la terre où j'ai pu m'attacher.
-Tu fais depuis trois mois les horreurs de ma vie ;
-Les maux que j'éprouvais passaient ta jalousie :
-Par tes égarements juge de mes transports.
-Nous puisâmes tous deux dans ce sang dont je sors
-L'excès des passions qui dévorent une âme ;
-La nature à tous deux fit un coeur tout de flamme.
-Mon frère est mon rival, et je l'ai combattu ;
-J'ai fait taire le sang, peut-être la vertu.
-Furieux, aveuglé, plus jaloux que toi-même,
-J'ai couru, j'ai volé, pour t'ôter ce que j'aime ;
-Rien ne m'a retenu, ni tes superbes tours,
-Ni le peu de soldats que j'avais pour secours.
-Ni le lieu, ni le temps, ni surtout ton courage ;
-Je n'ai vu que ma flamme, et ton feu qui m'outrage.
-L'amour fut dans mon coeur plus fort que l'amitié ;
-Sois cruel comme moi, punis-moi sans pitié :
-Aussi bien tu ne peux t'assurer ta conquête,
-Tu ne peux l'épouser qu'aux dépens de ma tête.
-À la face des cieux je lui donne ma foi ;
-Je te fais de nos voeux le témoin malgré toi.
-Frappe, et qu'après ce coup, ta cruauté jalouse
-Traîne au pied des autels ta soeur et mon épouse.
-Frappe, dis-je : oses-tu ?
-
--*who_vendome
-      Traître, c'en est assez.
-Qu'on l'ôte de mes yeux : soldats, obéissez.
-
--*who_adelaide
 Non : demeurez, cruels... Ah ! prince, est-il possible
 Que la nature en vous trouve une âme inflexible ?
 Seigneur !
 
--*who_nemours
-      Vous, le prier ? plaignez-le plus que moi.
-Plaignez-le : il vous offense, il a trahi son roi.
-Va, je suis dans ces lieux plus puissant que toi-même ;
-Je suis vengé de toi : l'on te hait, et l'on m'aime.
-
--*who_adelaide
 Ah, cher prince !...
       Ah, seigneur ! voyez à vos genoux...
 
--*who_vendome
-Qu'on m'en réponde,
-      Allez. Madame, levez-vous.
-Vos prières, vos pleurs, en faveur d'un parjure,
-Sont un nouveau poison versé sur ma blessure :
-Vous avez mis la mort dans ce coeur outragé ;
-Mais, perfide, croyez que je mourrai vengé.
-Adieu : si vous voyez les effets de ma rage,
-N'en accusez que vous ; nos maux sont votre ouvrage.
-
--*who_adelaide
 Je ne vous quitte pas : écoutez-moi, seigneur.
 
--*who_vendome
-Eh bien ! Achevez donc de déchirer mon coeur :
-Parlez.
-
-**** *book_ *id_III04 *act_III *date_1734
-
--*who_coucy
-      J'allais partir : un peuple téméraire
-Se soulève en tumulte au nom de votre frère.
-Le désordre est partout : vos soldats consternés
-Désertent les drapeaux de leurs chefs étonnés ;
-Et, pour comble de maux, vers la ville alarmée,
-L'ennemi rassemblé fait marcher son armée.
-
--*who_vendome
-Allez, cruelle, allez ; vous ne jouirez pas
-Du fruit de votre haine et de vos attentais ;
-Rentrez. Aux factieux je vais montrer leur maître.
-Qu'on la garde. Courons.
-      Vous, veillez sur ce traître.
-
-**** *book_ *id_III05 *act_III *date_1734
-
--*who_coucy
-Le seriez-vous, seigneur ? Auriez-vous démenti
-Le sang de ces héros dont vous êtes sorti ?
-Auriez-vous violé, par cette lâche injure,
-Et les droits de la guerre, et ceux de la nature ?
-Un prince à cet excès pourrait-il s'oublier ?
-
--*who_nemours
-Non ; mais suis-je réduit à me justifier ?
-Coucy, ce peuple est juste, il t'apprend à connaître
-Que mon frère est rebelle, et que Charles est son maître.
-
--*who_coucy
-Écoutez : ce serait le comble de mes voeux,
-De pouvoir aujourd'hui vous réunir tous deux.
-Je vois avec regret la France désolée,
-À nos dissensions la nature immolée,
-Sur nos communs débris l'Anglais trop élevé,
-Menaçant cet État par nous-même énervé.
-Si vous avez un coeur digne de votre race,
-Faites au bien public servir votre disgrâce.
-Rapprochez les partis : unissez-vous à moi
-Pour calmer votre frère, et fléchir votre roi,
-Pour éteindre le feu de nos guerres civiles.
-
--*who_nemours
-Ne vous en flattez pas ; vos soins sont inutiles.
-Si la discorde seule avait armé mon bras,
-Si là guerre et la haine avaient conduit mes pas,
-Vous pourriez espérer de réunir deux frères,
-L'un de l'autre écartés dans des partis contraires.
-Un obstacle plus grand s'oppose à ce retour.
-
--*who_coucy
-Et quel est-il, Seigneur ?
-
--*who_nemours
-      Ah ! Reconnais l'amour ;
-Reconnais la fureur qui de nous deux s'empare,
-Qui m'a fait téméraire, et qui le rend barbare.
-
--*who_coucy
-Ciel ! faut-il voir ainsi, par des caprices vains,
-Anéantir le fruit des plus nobles desseins ?
-L'amour subjuguer tout ? ses cruelles faiblesses
-Du sang qui se révolte étouffer les tendresses ?
-Des frères se haïr, et naître, en tous climats,
-Des passions des grands le malheur des États ?
-Prince, de vos amours laissons là le mystère.
-Je vous plains tous les deux ; mais je sers votre frère.
-Je vais le seconder ; je vais me joindre à lui
-Contre un peuple insolent qui se fait votre appui.
-Le plus pressant danger est celui qui m'appelle.
-Je vois qu'il peut avoir une fin bien cruelle :
-Je vois les passions plus puissantes que moi ;
-Et l'amour seul ici me fait frémir d'effroi.
-Mon devoir a parlé ; je vous laisse, et j'y vole,
-Soyez mon prisonnier, mais sur votre parole ;
-Elle me suffira.
-
--*who_nemours
-      Je vous la donne.
-
--*who_coucy
-      Et moi
-Je voudrais de ce pas porter la sienne au roi ;
-Je voudrais cimenter, dans l'ardeur de lui plaire,
-Du sang de nos tyrans une union si chère.
-Mais ces fiers ennemis sont bien moins dangereux
-Que ce fatal amour qui vous perdra tous deux.
-
-**** *book_ *id_IV01 *act_IV *date_1734
-
--*who_nemours
-Non, non, ce peuple en vain s'armait pour ma défense :
-Mon frère, teint de sang, enivré de vengeance,
-Devenu plus jaloux, plus fier, et plus cruel,
-Va traîner à mes yeux sa victime à l'autel.
-Je ne suis donc venu disputer ma conquête
-Que pour être témoin de cette horrible fête !
-Et, dans le désespoir d'un impuissant courroux,
-Je ne puis me venger qu'en me privant de vous !
-Partez, Adélaïde.
-
--*who_adelaide
       Il faut que je vous quitte !...
 Quoi ! vous m'abandonnez !... vous ordonnez ma fuite !
 
--*who_nemours
-Il le faut : chaque instant est un péril fatal ;
-Vous êtes une esclave aux mains de mon rival.
-Remercions le ciel, dont la bonté propice
-Nous suscite un secours au bord du précipice.
-Vous voyez cet ami qui doit guider vos pas ;
-Sa vigilance adroite a séduit des soldats.
-Dangeste, ses malheurs ont droit à tes services ;
-Je suis loin d'exiger d'injustes sacrifices ;
-Je respecte mon frère, et je ne prétends pas
-Conspirer contre lui dans ses propres États.
-Écoute seulement la pitié qui le guide ;
-Écoute un vrai devoir, et sauve Adélaïde.
-
--*who_adelaide
 Hélas ! ma délivrance augmente mon malheur.
 Je détestais ces lieux, j'en sors avec terreur.
 
--*who_nemours
-Privez-moi par pitié d'une si chère vue ;
-Tantôt à ce départ vous étiez résolue,
-Le dessein était pris : n'osez-vous l'achever ?
-
--*who_adelaide
 Ah ! quand j'ai voulu fuir, j'espérais vous trouver.
 
--*who_nemours
-Prisonnier sur ma foi, dans l'horreur qui me presse.
-Je suis plus enchaîné par ma seule promesse
-Que si de cet État les tyrans inhumains
-Des fers les plus pesants avaient chargé mes mains.
-Au pouvoir de mon frère ici l'honneur me livre ;
-Je peux mourir pour vous, mais je ne peux vous suivre ;
-Vous suivrez cet ami par des détours obscurs,
-Qui vous rendront bientôt sous ces coupables murs.
-De la Flandre à sa voix on doit ouvrir la porte ;
-Du roi sous les remparts il trouvera l'escorte.
-Le temps presse, évitez un ennemi jaloux.
-
--*who_adelaide
 Je vois qu'il faut partir... cher Nemours, et sans vous !
 
--*who_nemours
-L'amour nous a rejoints, que l'amour nous sépare.
-
--*who_adelaide
 Qui ! moi ? que je vous laisse au pouvoir d'un barbare ?
 Seigneur, de votre sang l'Anglais est altéré :
 Ce sang à votre frère est-il donc si sacré ?
 Craindra-t-il d'accorder, dans son courroux funeste,
 Aux alliés qu'il aime, un rival qu'il déteste ?
 
--*who_nemours
-Il n'oserait.
-
--*who_adelaide
       Son coeur ne connaît point de frein ;
 Il vous a menacé, menace-t-il en vain ?
 
--*who_nemours
-Il tremblera bientôt : le roi vient et nous venge :
-La moitié de ce peuple à ses drapeaux se range.
-Allez : si vous m'aimez, dérobez-vous aux coups
-Des foudres allumés, grondant autour de nous ;
-Au tumulte, au carnage, au désordre effroyable,
-Dans des murs pris d'assaut malheur inévitable :
-Mais craignez encor plus mon rival furieux ;
-Craignez l'amour jaloux qui veille dans ses veux.
-Je frémis de vous voir encor sous sa puissance ;
-Redoutez son amour autant que sa vengeance ;
-Cédez à mes douleurs ; qu'il vous perde : partez.
-
--*who_adelaide
 Et vous vous exposez seul à ses cruautés !
 
--*who_nemours
-Ne craignant rien pour vous, je craindrai peu mon frère ;
-Et bientôt mon appui lui devient nécessaire.
-
--*who_adelaide
 Aussi bien que mon coeur mes pas vous sont soumis.
 Eh bien ! vous l'ordonnez, je pars, et je frémis !
 Je ne sais... mais enfin, la fortune jalouse,
 M'a toujours envié le nom de votre épouse.
 
--*who_nemours
-Partez avec ce nom. La pompe des autels,
-Ces voiles, ces flambeaux, ces témoins solennels,
-Inutiles garants d'une foi si sacrée,
-La rendront plus connue, et non plus assurée.
-Vous, mânes des Bourbons, princes, rois mes aïeux,
-Du séjour des héros tournez ici les yeux.
-J'ajoute à votre gloire en la prenant pour femme ;
-Confirmez mes serments, ma tendresse et ma flamme :
-Adoptez-la pour fille, et puisse son époux
-Se montrer à jamais digne d'elle et de vous !
-
--*who_adelaide
 Rempli de vos bontés, mon coeur n'a plus d'alarmes,
 Cher époux, cher amant...
 
--*who_nemours
-      Quoi ! vous versez des larmes !
-C'est trop tarder, adieu... Ciel, quel tumulte affreux !
-
-**** *book_ *id_IV02 *act_IV *date_1734
-
--*who_vendome
-Je l'entends, c'est lui-même : arrête, malheureux !
-Lâche qui me trahis, rival indigne, arrête !
-
--*who_nemours
-Il ne te trahit point ; mais il t'offre sa tête.
-Porte à tous les excès ta haine et ta fureur ;
-Va, ne perds point de temps, le ciel arme un vengeur.
-Tremble ; ton roi s'approche, il vient, il va paraître.
-Tu n'as vaincu que moi, redoute encor ton maître.
-
--*who_vendome
-Il pourra te venger, mais non te secourir ;
-Et ton sang...
-
--*who_adelaide
       Non, cruel ! c'est à moi de mourir.
 J'ai tout fait ; c'est par moi que ta garde est séduite ;
 J'ai gagné tes soldats, j'ai préparé ma fuite :
@@ -1705,80 +1777,21 @@ Il voulait te servir, quand tu veux l'opprimer.
 Quel crime a-t-il commis, cruel, que de m'aimer ?
 L'amour n'est-il en toi qu'un juge inexorable ?
 
--*who_vendome
-Plus vous le défendez, plus il devient coupable ;
-C'est vous qui le perdez, vous qui l'assassinez ;
-Vous par qui tous nos jours étaient empoisonnés ;
-Vous qui, pour leur malheur, armiez des mains si chères,
-Puisse tomber sur vous tout le sang des deux frères !
-Vous pleurez ! mais vos pleurs ne peuvent me tromper :
-Je suis prêt à mourir, et prêt à le frapper.
-Mon malheur est au comble, ainsi que ma faiblesse.
-Oui, je vous aime encor, le temps, le péril presse ;
-Vous pouvez à l'instant parer le coup mortel ;
-Voilà ma main, venez : sa grâce est à l'autel.
-
--*who_adelaide
 Moi, seigneur ?
 
--*who_vendome
-      C'est assez.
-
--*who_adelaide
       Moi, que je le trahisse !
 
--*who_vendome
-Arrêtez... répondez...
-
--*who_adelaide
       Je ne puis.
 
--*who_vendome
-      Qu'il périsse !
-
--*who_nemours
-Ne vous laissez pas vaincre en ces affreux combats,
-Osez m'aimer assez pour vouloir mon trépas ;
-Abandonnez mon sort au coup qu'il me prépare.
-Je mourrai triomphant des coups de ce barbare ;
-Et si vous succombiez à son lâche courroux,
-Je n'en mourrais pas moins, mais je mourrais par vous.
-
--*who_vendome
-Qu'on l'entraîne à la tour allez ; qu'on m'obéisse !
-
-**** *book_ *id_IV03 *act_IV *date_1734
-
--*who_adelaide
 Vous, cruel ! vous feriez cet affreux sacrifice !
 De son vertueux sang vous pourriez vous couvrir !
 Quoi ! voulez-vous...
 
--*who_vendome
-      Je veux vous haïr et mourir,
-Vous rendre malheureuse encor plus que moi-même,
-Répandre devant vous tout le sang qui vous aime,
-Et vous laisser des jours plus cruels mille fois
-Que le jour où l'amour nous a perdus tous trois.
-Laissez-moi : votre vue augmente mon supplice.
-
-**** *book_ *id_IV04 *act_IV *date_1734
-
--*who_adelaide
 Ah ! Je n'attends plus rien que de votre justice ;
 Coucy, contre un cruel osez me secourir,
 
--*who_vendome
-Garde-toi de l'entendre, ou tu vas me trahir.
-
--*who_adelaide
 J'atteste ici le ciel...
 
--*who_vendome
-      Qu'on l'ôte de ma vue.
-Ami, délivre-moi d'un objet qui me tue.
-
--*who_adelaide
 Va, tyran, c'en est trop ; va, dans mon désespoir,
 J'ai combattu l'horreur que je sens à te voir ;
 J'ai cru, malgré ta rage à ce point emportée,
@@ -1794,291 +1807,6 @@ Meurs, et que l'avenir prodigue à ta mémoire,
 À tes feux, à ton nom, justement abhorrés,
 La haine et le mépris que tu m'as inspirés !
 
-**** *book_ *id_IV05 *act_IV *date_1734
-
--*who_vendome
-Oui, cruelle ennemie, et plus que moi farouche,
-Oui, j'accepte l'arrêt prononcé par ta bouche ;
-Que la main de la haine et que les mêmes coups
-Dans l'horreur du tombeau nous réunissent tous !
-
--*who_coucy
-Il ne se connaît plus, il succombe à sa rage.
-
--*who_vendome
-Eh bien ! Souffriras-tu ma honte et mon outrage ?
-Le temps presse ; veux-tu qu'un rival odieux
-Enlève la perfide, et l'épouse à mes yeux ?
-Tu crains de me répondre ! Attends-tu que le traître
-Ait soulevé mon peuple, et me livre à son maître ?
-
--*who_coucy
-Je vois trop, en effet, que le parti du roi
-Du peuple fatigué fait chanceler la foi.
-De la sédition la flamme réprimée
-Vit encor dans les coeurs, en secret rallumée.
-
--*who_vendome
-C'est Nemours qui l'allume, il nous a trahis tous.
-
--*who_coucy
-Je suis loin d'excuser ses crimes envers vous ;
-La suite en est funeste, et me remplit d'alarmes.
-Dans la plaine déjà les Français sont en armes,
-Et vous êtes perdu, si le peuple excité
-Croit dans la trahison trouver sa sûreté.
-Vos dangers sont accrus.
-
--*who_vendome
-      Eh bien ! Que faut-il faire ?
-
--*who_coucy
-Les prévenir, dompter l'amour et la colère.
-Ayons encor, mon prince, en cette extrémité,
-Pour prendre un parti sur, assez de fermeté.
-Nous pouvons conjurer ou braver la tempête ;
-Quoi que vous décidiez, ma main est toute prête.
-Vous vouliez ce matin, par un heureux traité,
-Apaiser avec gloire un monarque irrité ;
-Ne vous rebutez pas : ordonnez, et j'espère
-Signer en votre nom cette paix salutaire :
-Mais s'il vous faut combattre, et courir au trépas,
-Vous savez qu'un ami ne vous survivra pas.
-
--*who_vendome
-Ami, dans le tombeau laisse-moi seul descendre ;
-Vis pour servir ma cause, et pour venger ma cendre ;
-Mon destin s'accomplit, et je cours l'achever :
-Qui ne veut que la mort est sûr de la trouver ;
-Mais je la veux terrible, et lorsque je succombe,
-Je veux voir mon rival entraîné dans ma tombe.
-
--*who_coucy
-Comment ! de quelle horreur vos sens sont possédés !
-
--*who_vendome
-Il est dans cette tour où vous seul commandez
-Et vous m'aviez promis que contre un téméraire...
-
--*who_coucy
-De qui me parlez-vous, seigneur ? de votre frère ?
-
--*who_vendome
-Non, je parle d'un traître et d'un lâche ennemi,
-D'un rival qui m'abhorre, et qui m'a tout ravi.
-L'Anglais attend de moi la tête du parjure.
-
--*who_coucy
-Vous leur avez promis de trahir la nature ?
-
--*who_vendome
-Dès longtemps du perfide ils ont proscrit le sang.
-
--*who_coucy
-Et pour leur obéir vous lui percez le flanc ?
-
--*who_vendome
-Non, je n'obéis point à leur haine étrangère ;
-J'obéis à ma rage, et veux la satisfaire.
-Que m'importent l'État et mes vains alliés ?
-
--*who_coucy
-Ainsi donc à l'amour vous le sacrifiez ?
-Et vous me chargez, moi, du soin de son supplice !
-
--*who_vendome
-Je n'attends pas de vous cette prompte justice.
-Je suis bien malheureux ! Bien digne de pitié !
-Trahi dans mon amour, trahi dans l'amitié !
-Ah ! trop heureux dauphin, c'est ton sort que j'envie ;
-Ton amitié, du moins, n'a point été trahie
-Et Tanguy du Châtel, quand tu fus offensé,
-T'a servi sans scrupule, et n'a pas balancé.
-Allez ; Vendôme encor, dans le sort qui le presse,
-Trouvera des amis qui tiendront leur promesse ;
-D'autres me serviront, et n'allégueront pas
-Cette triste vertu, l'excuse des ingrats.
-
--*who_coucy
-Non ; j'ai pris mon parti. Soit crime, soit justice,
-Vous ne vous plaindrez pas que Coucy vous trahisse.
-Je ne souffrirai pas que d'un autre que moi,
-Dans de pareils moments, vous éprouviez la foi.
-Quand un ami se perd, il faut qu'on l'avertisse,
-Il faut qu'on le retienne au bord du précipice ;
-Je l'ai dû, je l'ai fait malgré votre courroux ;
-Vous y voulez tomber, je m'y jette avec vous ;
-Et vous reconnaîtrez, au succès de mon zèle,
-Si Coucy vous aimait, et s'il vous fut fidèle.
-
--*who_vendome
-Je revois mon ami... Vengeons-nous, vole... attend...
-Non, va, te dis-je, frappe, et je mourrai content.
-Qu'à l'instant de sa mort, à mon impatience
-Le canon des remparts annonce ma vengeance !
-J'irai, je l'apprendrai, sans trouble et sans effroi,
-À l'objet odieux qui l'immole par moi.
-Allons.
-
--*who_coucy
-      En vous rendant ce malheureux service,
-Prince, je vous demande un autre sacrifice.
-
--*who_vendome
-Parle.
-
--*who_coucy
-      Je ne veux pas que l'Anglais en ces lieux,
-Protecteur insolent, commande sous mes yeux ;
-Je ne veux pas servir un tyran qui nous brave.
-Ne puis-je vous venger sans être son esclave ?
-Si vous voulez tomber, pourquoi prendre un appui ?
-Pour mourir avec vous ai-je besoin de lui ?
-Du sort de ce grand jour laissez-moi la conduite ;
-Ce que je fais pour vous peut-être le mérite.
-Les Anglais avec moi pourraient mal s'accorder ;
-Jusqu'au dernier moment je veux seul commander.
-
--*who_vendome
-Pourvu qu'Adélaïde, au désespoir réduite,
-Pleure en larmes de sang l'amant qui l'a séduite ;
-Pourvu que de l'horreur de ses gémissements
-Mon courroux se repaisse à mes derniers moments,
-Tout le reste est égal, et je te l'abandonne ;
-Prépare le combat, agis, dispose, ordonne.
-Ce n'est plus la victoire où ma fureur prétend ;
-Je ne cherche pas même un trépas éclatant.
-Aux coeurs désespérés qu'importe un peu de gloire ?
-Périsse ainsi que moi ma funeste mémoire !
-Périsse avec mon nom le souvenir fatal
-D'une indigne maîtresse et d'un lâche rival !
-
--*who_coucy
-Je l'avoue avec vous ; une nuit éternelle
-Doit couvrir, s'il se peut, une fin si cruelle ;
-C'était avant ce coup qu'il nous fallait mourir ;
-Mais je tiendrai parole, et je vais vous servir.
-
-**** *book_ *id_V01 *act_V *date_1734
-
--*who_vendome
-Ô ciel ! Me faudra-t-il, de moments en moments,
-Voir et des trahisons et des soulèvements ?
-Eh bien ! De ces mutins l'audace est terrassée ?
-
--*who_officier
-Seigneur, ils vous ont vu : leur foule est dispersée.
-
--*who_vendome
-L'ingrat de tous côtés m'opprimait aujourd'hui ;
-Mon malheur est parfait, tous les coeurs sont à lui.
-Dangeste est-il puni de sa fourbe cruelle ?
-
--*who_officier
-Le glaive a fait couler le sang de l'infidèle.
-
--*who_vendome
-Ce soldat qu'en secret vous m'avez amené,
-Va-t-il exécuter l'ordre que j'ai donné ?
-
--*who_officier
-Oui, seigneur, et déjà vers la tour il s'avance.
-
--*who_vendome
-Je vais donc à la fin jouir de ma vengeance !
-Sur l'incertain Coucy mon coeur a trop compté ;
-Il a vu ma fureur avec tranquillité.
-On ne soulage point des douleurs qu'on méprise ;
-Il faut qu'en d'autres mains ma vengeance soit mise.
-Vous, que sur nos remparts on porte nos drapeaux ;
-Allez, qu'on se prépare à des périls nouveaux.
-Vous sortez d'un combat, un autre vous appelle ;
-Ayez la même audace avec le même zèle ;
-Imitez votre maître, et, s'il vous faut périr,
-Vous recevrez de moi l'exemple de mourir.
-
-**** *book_ *id_V02 *act_V *date_1734
-
--*who_vendome
-Le sang, l'indigne sang qu'a demandé ma rage,
-Sera du moins pour moi le signal du carnage.
-Un bras vulgaire et sûr va punir mon rival ;
-Je vais être servi ; j'attends l'heureux signal.
-Nemours, tu vas périr, mon bonheur se prépare...
-Un frère assassiné ! Quel bonheur ! Ah, barbare !
-S'il est doux d'accabler ses cruels ennemis,
-Si ton coeur est content, d'où vient que tu frémis ?
-Allons... Mais quelle voix gémissante et sévère
-Crie au fond de mon coeur : Arrête, il est ton frère !
-Ah ! prince infortuné ! dans ta haine affermi,
-Songe à des droits plus saints ; Nemours fut ton ami !
-Ô jours de notre enfance ! Ô tendresses passées !
-Il fut le confident de toutes mes pensées.
-Avec quelle innocence et quels épanchements
-Nos coeurs se sont appris leurs premiers sentiments !
-Que de fois, partageant mes naissantes alarmes,
-D'une main fraternelle essuya-t-il mes larmes !
-Et c'est moi qui l'immole ! Et cette même main
-D'un frère que j'aimai déchirerait le sein !
-Ô passion funeste ! Ô douleur qui m'égare !
-Non, je n'étais point né pour devenir barbare.
-Je sens combien le crime est un fardeau cruel...
-Mais, que dis-je ? Nemours est le seul criminel.
-Je reconnais mon sang, mais c'est à sa furie ;
-Il m'enlève l'objet dont dépendait ma vie ;
-Il aime Adélaïde... Ah ! trop jaloux transport !
-Il l'aime ; est-ce un forfait qui mérite la mort ?
-Hélas ! malgré le temps, et la guerre, et l'absence,
-Leur tranquille union croissait dans le silence ;
-Ils nourrissaient en paix leur innocente ardeur,
-Avant qu'un fol amour empoisonnât mon coeur.
-Mais lui-même il m'attaque, il brave ma colère,
-Il me trompe, il me hait ; n'importe, il est mon frère !
-Il ne périra point. Nature, je me rends ;
-Je ne veux point marcher sur les pas des tyrans.
-Je n'ai point entendu le signal homicide,
-L'organe des forfaits, la voix du parricide ;
-Il en est encor temps.
-
-**** *book_ *id_V03 *act_V *date_1734
-
--*who_vendome
-      Que l'on sauve Nemours ;
-Portez mon ordre, allez ; répondez de ses jours.
-
--*who_officier
-Hélas ! seigneur, j'ai vu, non loin de cette porte,
-Un corps souillé de sang, qu'en secret on emporte ;
-C'est Coucy qui l'ordonne, et je crains que le sort...
-
--*who_vendome
-Quoi ! Déjà !... Dieu, qu'entends-je ! Ah ciel ! Mon frère est mort !
-Il est mort, et je vis ! Et la terre entr'ouverte,
-Et la foudre en éclats n'ont point vengé sa perte
-Ennemi de l'État, factieux, inhumain,
-Frère dénaturé, ravisseur, assassin,
-Voilà quel est Vendôme ! Ah ! vérité funeste !
-Je vois ce que je suis, et ce que je déteste !
-Le voile est déchiré, je m'étais mal connu.
-Au comble des forfaits je suis donc parvenu !
-Ah, Nemours ! ah, mon frère ! ah, jour de ma ruine
-Je sens que je t'aimais, et mon bras t'assassine,
-Mon frère !
-
--*who_officier
-      Adélaïde, avec empressement,
-Veut, seigneur, en secret vous parler un moment.
-
--*who_vendome
-Chers amis, empêchez que la cruelle avance ;
-Je ne puis soutenir ni souffrir sa présence.
-Mais non. D'un parricide elle doit se venger ;
-Dans mon coupable sang sa main doit se plonger ;
-Qu'elle entre... Ah ! je succombe, et ne vis plus qu'à peine.
-
-**** *book_ *id_V04 *act_V *date_1734
-
--*who_adelaide
 Vous l'emportez, seigneur, et puisque votre haine
 (Comment puis-je autrement appeler en ce jour
 Ces affreux sentiments que vous nommez amour ?)
@@ -2103,201 +1831,131 @@ Mais vous voulez ma foi, ma foi doit vous suffire.
 Allons... Eh quoi ! d'où vient ce silence affecté ?
 Quoi ! votre frère encor n'est point en liberté ?
 
--*who_vendome
-Mon frère ?
-
--*who_adelaide
       Dieu puissant ! dissipez mes alarmes !
 Ciel ! de vos yeux cruels je vois tomber des larmes !
 
--*who_vendome
-Vous demandez sa vie...
-
--*who_adelaide
       Ah ! qu'est-ce que j'entends ?
 Vous qui m'aviez promis...
 
--*who_vendome
-      Madame, il n'est plus temps.
-
--*who_adelaide
 Il n'est plus temps ! Nemours...
 
--*who_vendome
-      Il est trop vrai, cruelle !
-Oui, vous avez dicté sa sentence mortelle.
-Coucy pour nos malheurs a trop su m'obéir.
-Ah ! revenez à vous, vivez pour me punir ;
-Frappez : que votre main, contre moi ranimée,
-Perce un coeur inhumain qui vous a trop aimée,
-Un coeur dénaturé qui n'attend que vos coups !
-Oui, j'ai tué mon frère, et l'ai tué pour vous.
-Vengez sur un amant coupable et sanguinaire
-Tous les crimes affreux que vous m'avez fait faire.
-
--*who_adelaide
 Nemours est mort ? barbare !...
 
--*who_vendome
-      Oui ; mais c'est de ta main
-Que son sang veut ici le sang de l'assassin.
-
--*who_adelaide
 Il est mort !
 
--*who_vendome
-      Ton reproche...
-
--*who_adelaide
       Épargne ma misère :
 Laisse-moi, je n'ai plus de reproche à te faire.
 Va, porte ailleurs ton crime et ton vain repentir.
 Je veux encor le voir, l'embrasser, et mourir.
 
--*who_vendome
-Ton horreur est trop juste. Eh bien ! Adélaïde,
-Prends ce fer, arme-toi, mais contre un parricide :
-Je ne mérite pas de mourir de tes coups ;
-Que ma main les conduise.
-
-**** *book_ *id_V05 *act_V *date_1734
-
--*who_coucy
-      Ah ciel ! que faites-vous ?
-
--*who_vendome
-Laisse-moi me punir et me rendre justice.
-
--*who_adelaide
 Vous, d'un assassinat vous êtes le complice ?
 
--*who_vendome
-Ministre de mon crime, as-tu pu m'obéir ?
-
--*who_coucy
-Je vous avais promis, seigneur, de vous servir.
-
--*who_vendome
-Malheureux que je suis ! Ta sévère rudesse
-A cent fois de mes sens combattu la faiblesse :
-Ne devais-tu te rendre à mes tristes souhaits
-Que quand ma passion t'ordonnait des forfaits ?
-Tu ne m'as obéi que pour perdre mon frère !
-
--*who_coucy
-Lorsque j'ai refusé ce sanglant ministère,
-Votre aveugle courroux n'allait-il pas soudain
-Du soin de vous venger charger une autre main ?
-
--*who_vendome
-L'amour, le seul amour, de mes sens toujours maître,
-En m'ôtant ma raison, m'eût excusé peut-être :
-Mais toi, dont la sagesse et les réflexions
-Ont calmé dans ton sein toutes les passions,
-Toi, dont j'avais tant craint l'esprit ferme et rigide,
-Avec tranquillité permettre un parricide !
-
--*who_coucy
-Eh bien ! puisque la honte avec le repentir,
-Par qui la vertu parle à qui peut la trahir,
-D'un si juste remords ont pénétré votre âme ;
-Puisque, malgré l'excès de votre aveugle flamme,
-Au prix de votre sang vous voudriez sauver
-Ce sang dont vos fureurs ont voulu vous priver ;
-Je peux donc m'expliquer, je peux donc vous apprendre
-Que de vous-même enfin Coucy sait vous défendre.
-Connaissez-moi, madame, et calmez vos douleurs.
-Vous, gardez vos remords ;
-      Et vous, séchez vos pleurs.
-Que ce jour à tous trois soit un jour salutaire.
-Venez, paraissez, prince, embrassez votre frère.
-
-**** *book_ *id_V06 *act_V *date_1734
-
--*who_adelaide
 Nemours !
 
--*who_vendome
-      Mon frère !
-
--*who_adelaide
       Ah, ciel !
 
--*who_vendome
-      Qui l'aurait pu penser ?
-
--*who_nemours
-J'ose encor te revoir, te plaindre, et t'embrasser.
-
--*who_vendome
-Mon crime en est plus grand, puisque ton coeur l'oublie.
-
--*who_adelaide
 Coucy, digne héros, qui me donnez la vie !
 
--*who_vendome
-Il la donne à tous trois.
-
--*who_coucy
-      Un indigne assassin
-Sur Nemours à mes yeux avait levé la main ;
-J'ai frappé le barbare ; et, prévenant encore
-Les aveugles fureurs du feu qui vous dévore,
-J'ai fait donner soudain le signal odieux,
-Sûr que le repentir vous ouvrirait les yeux.
-
--*who_vendome
-Après ce grand exemple et ce service insigne,
-Le prix que je t'en dois, c'est de m'en rendre digne.
-Le fardeau de mon crime est trop pesant pour moi ;
-Mes yeux, couverts d'un voile et baissés devant toi,
-Craignent de rencontrer, et les regards d'un frère,
-Et la beauté fatale, à tous les deux trop chère.
-
--*who_nemours
-Tous deux auprès du roi nous voulions te servir.
-Quel est donc ton dessein ? Parle.
-
--*who_vendome
-      De me punir,
-De nous rendre à tous trois une égale justice,
-D'expier devant vous, par le plus grand supplice,
-Le plus grand des forfaits où la fatalité,
-L'amour et le courroux m'avaient précipité.
-J'aimais Adélaïde, et ma flamme cruelle,
-Dans mon coeur désolé, s'irrite encor pour elle.
-Coucy sait à quel point j'adorais ses appas
-Quand ma jalouse rage ordonnait ton trépas ;
-Dévoré, malgré moi, du feu qui me possède,
-Je l'adore encor plus... et mon amour la cède.
-Je m'arrache le coeur, je la mets dans tes bras ;
-Aimez-vous : mais au moins ne me haïssez pas.
-
--*who_nemours
-Moi, vous haïr jamais ! Vendôme, mon cher frère !
-J'osai vous outrager... vous me servez de père.
-
--*who_adelaide
 Oui, Seigneur, avec lui j'embrasse vos genoux ;
 La plus tendre amitié va me rejoindre à vous.
 Vous me payez trop bien de ma douleur soufferte.
 
--*who_vendome
-Ah ! C'est trop me montrer mes malheurs et ma perte !
-Mais vous m'apprenez tous à suivre la vertu.
-Ce n'est point à demi que mon coeur est rendu.
-Trop fortunés époux, oui, mon âme attendrie
-Imite votre exemple, et chérit sa patrie.
-Allez apprendre au roi, pour qui vous combattez,
-Mon crime, mes remords, et vos félicités.
-Allez ; ainsi que vous, je vais le reconnaître.
-Sur nos remparts soumis amenez votre maître ;
-Il est déjà le mien : nous allons à ses pieds
-Abaisser sans regret nos fronts humiliés.
-J'égalerai pour lui votre intrépide zèle ;
-Bon Français, meilleur frère, ami, sujet fidèle ;
-Es-tu content, Coucy ?
 
--*who_coucy
-      J'ai le prix de mes soins,
-Et du sang des Bourbons je n'attendais pas moins.
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_taise
+
+Quoi ! Du duc de Vendôme et le choix et l'amour,
+Quoi ! Ce rang qui ferait le bonheur ou l'envie
+De toutes les beautés dont la France est remplie,
+Ce rang qui touche au trône, et qu'on met à vos pieds,
+Ferait couler les pleurs dont vos yeux sont noyés ?
+
+Quoi dans ces tristes temps de ligues et de haines,
+Qui confondent des droits les bornes incertaines,
+Où le meilleur parti semble encor si douteux,
+Où les enfants des rois sont divisés entre eux ;
+Vous, qu'un astre plus doux semblait avoir formée
+Pour unir tous les coeurs et pour en être aimée ;
+Vous refusez l'honneur qu'on offre à vos appas,
+Pour l'intérêt d'un roi qui ne l'exige pas ?
+
+Ah ! le devoir tout seul fait-il verser des larmes ?
+Si Vendôme vous aime, et si, par son secours...
+
+Voilà donc en effet le soin qui vous dévore,
+Madame ?
+
+Et vous pouviez cacher ce secret à ma foi ?
+
+Cachez bien à ses yeux ce dangereux mystère :
+Pour vous, pour votre amant, redoutez son courroux.
+Quelqu'un vient.
+
+Contraignez-vous.
+
+Vous voyez sans pitié sa tendresse alarmée.
+
+Ah ! que cette douleur se taise et se captive.
+Plus vous l'aimez, madame, et plus il faut songer
+Qu'un rival violent...
+
+Eh ! Ne craignez-vous pas que tant d'empressement
+N'ouvre les yeux jaloux d'un prince qui vous aime ?
+Tremblez de découvrir...
+
+Au nom de cet amour, arrêtez, demeurez ;
+Reprenez vos esprits.
+
+
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
+
+Vous la verrez, seigneur.
+
+Seigneur, en quel état votre douleur vous jette !
+Vos jours sont en péril, et ce sang agité...
+
+Remerciez les cieux de ce qu'ils ont permis
+Que vous ayez trouvé de si chers ennemis.
+Il est dur de tomber dans des mains étrangères :
+Vous êtes prisonnier du plus tendre des frères.
+
+      Il vous était lié
+Par les noeuds les plus saints d'une pure amitié.
+Que n'éprouvez-vous point de sa main secourable !
+
+Quoi ! Pour être engagé dans d'autres intérêts,
+Le haïssez-vous tant ?
+
+Si contre un frère aimé vous avez combattu,
+J'en ai vu quelque temps frémir votre vertu :
+Mais le roi l'ordonnait, et tout vous justifie.
+L'entreprise était juste, aussi bien que hardie.
+Je vous ai vu remplir, dans cet affreux combat,
+Tous les devoirs d'un chef et tous ceux d'un soldat ;
+Et vous avez rendu, par des faits incroyables,
+Votre défaite illustre, et vos fers honorables.
+On a perdu bien peu quand on garde l'honneur.
+
+      Seigneur, je vous ai dit
+Que bientôt...
+
+Votre sort en secret paraissait la toucher ;
+Elle versait des pleurs, et voulait les cacher.
+
+S'il s'en vantait lui-même, en pouvez-vous douter ?
+
+
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_officier
+
+Seigneur, ils vous ont vu : leur foule est dispersée.
+
+Le glaive a fait couler le sang de l'infidèle.
+
+Oui, seigneur, et déjà vers la tour il s'avance.
+
+Hélas ! seigneur, j'ai vu, non loin de cette porte,
+Un corps souillé de sang, qu'en secret on emporte ;
+C'est Coucy qui l'ordonne, et je crains que le sort...
+
+      Adélaïde, avec empressement,
+Veut, seigneur, en secret vous parler un moment.
+

@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
--*who_pyrrhus
 Ô Troie, ô murs tombés sous mes mains triomphantes,
 D'une ville fameuse ô ruines sanglantes,
 Voyez sur vos débris gémir votre vainqueur.
@@ -26,35 +25,8 @@ Où repose mon père aux autels massacré,
 N'offre donc à mes yeux qu'un exemple inutile !
 Suis-je encore Pyrrhus ? Suis-je le fils d'Achille ?
 
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_phenix
-Enfin Pâris, sous vous tombant avec vingt rois,
-Ménélas et l'hymen vengés par vos exploits,
-Les murailles de Troie aux feux abandonnées,
-Et de ses défenseurs les veuves enchaînées,
-Permettent que les Grecs, à la Grèce rendus,
-Retrouvent leurs foyers, depuis dix ans perdus.
-Déjà pour le départ la flotte est rassemblée,
-Et la voile frémit, par d'heureux vents enflée.
-Des richesses de Troie augmentant vos trésors,
-De l'Épire bientôt vous revoyez les bords.
-Mais c'est peu ; vous devez y traîner Polixène,
-Une des soeurs d'Hector, cette esclave troyenne,
-Dont jadis, pour sa perte, Achille fut épris :
-Les Grecs de vos travaux vous accordent ce prix.
-D'un père assassiné vengeant les tristes restes,
-Vous pourrez la punir de ses attraits funestes...
-Mais, parmi les faveurs dont vous êtes comblé,
-Qui vous donne cet air inquiet et troublé ?
-
--*who_pyrrhus
 L'amour.
 
--*who_phenix
-      Seigneur...
-
--*who_pyrrhus
       Tu dois t'en étonner : peut-être
 Je ne semblais pas né, Phénix, pour le connaître.
 Petit-fils de Thétis, rejeton des guerriers,
@@ -66,20 +38,12 @@ Mon sort était de vaincre, et non de soupirer.
 Ce coeur fier se devait aux seuls soin» de la guerre,
 Insensible à l'amour, fait pour un coeur vulgaire.
 
--*who_phenix
-Quelle beauté, Seigneur, a donc su voue charmer ?
-
--*who_pyrrhus
 Sois plus surpris encor. Tu viens de me nommer
 Cette esclave, à mon sang si fatale et si chère,
 Qui, conduite aux autels pour s'unir à mon père,
 Le vit tomber sanglant sous les coups de Pâris,
 Et qui doit dans les fers suivre aujourd'hui son fils...
 
--*who_phenix
-Polixène !...
-
--*who_pyrrhus
       Oui, Phénix. Quand, pressant mes cohortes,
 Une hache à la main, je renversai les portes
 Du palais, où, pour fuir nos soldats triomphants,
@@ -109,26 +73,6 @@ Je promène avec moi ces funestes images,
 Et les remords du sang où mon bras s'est trempé,
 Et le trait enflammé dont mon coeur est frappé.
 
--*who_phenix
-Je vous plains. Se peut-il qu'un penchant téméraire,
-Trahissant la mémoire et les mânes d'un père,
-Vous fasse soupirer, Seigneur, pour les appas
-Qui d'Achille lui-même ont hâté le trépas ?
-Vous serez malheureux, et c'est là sa vengeance.
-Lorsqu'Achille à ses pieds déposa sa puissance,
-J'ai connu cet objet, trop dangereux pour vous.
-Son coeur est aussi pur que ses regards sont doux :
-Dans son âme, agrandie aux exploits de son frère,
-L'âme du fier Hector respire tout entière :
-Son génie a les traits des héros, ses aïeux.
-Sans doute ses refus constants, injurieux,
-À son vainqueur dompté coûtant de vaines larmes,
-La vengeront des maux qu'elle doit à vos armes,
-Et vos bienfaits eux-mêmes, à ses yeux prévenus,
-Peut-être ne seront que des crimes de plus.
-Ah ! Deviez-vous l'aimer ? Mais l'avez-vous revue ?
-
--*who_pyrrhus
 Non, je n'ai point osé reparaître à sa vue ;
 J'ai craint de lui montrer un visage odieux.
 Toi, Phénix, dont l'aspect doit moins blesser ses yeux,
@@ -144,100 +88,20 @@ Va, cours.
       Elle verra, pour gagner sa tendresse,
 Ce que mon coeur... Ulysse ! Eh ! Quel motif ?...
 
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_ulysse
-      La Grèce
-Demande encor, Seigneur, votre vaillante main ;
-Un prodige des mers nous ferme le chemin.
-
--*who_pyrrhus
 Un prodige !
 
--*who_ulysse
-      Les Grecs, sur la rive où fut Troie,
-Hâtaient tous du départ les apprêts avec joie ;
-Et, voyant leurs vaisseaux par les vents agités,
-Ils appelaient de loin les bords qu'ils ont quittés,
-Tout-à-coup un grand cri sort des vagues profondes ;
-La mer tremble, mugit, s'entr'ouvre, et, sur les ondes
-Monte et s'élève Achille au milieu des éclairs,
-De la foudre, et des vents qui grondent dans les airs :
-Il semble être un des dieux que l'univers adore ;
-Le fer brille en sa main. Il paraît tel encore
-Qu'aux jours, où, renversant les Troyens sous ses pas,
-Il portait dans leurs rangs la terreur, le trépas,
-Du Xanthe soulevé combattait l'onde altière,
-Ou traînait, à grands cris, Hector sur la poussière.
-Il s'avance vers nous, et nous lance un coup d'oeil
-Plein de dépit, de rage, et de haine, et d'orgueil ;
-Et terrible, en ces mots sa voix se fait entendre :
-« Grecs, vous allez partir sans honorer ma cendre !
-Il faut, pour que les mers vous ouvrent leur chemin,
-Que l'armée aujourd'hui répande
-Sur mon tombeau le sang humain :
-Calchas vous nommera ce sang que je demande,
-Et des mains de mon fils j'en exige l'offrande. »
-....................................
-Il dit : déjà muets, les airs ne soufflent plus,
-Les vents sont enchaînés, et les flots abattus ;
-La mer tombe, et son onde aplanie et tranquille,
-Semble, aux yeux étonnés, une glace immobile.
-Les chefs, que ce spectacle a tous saisis d'effroi,
-S'assemblent éperdus sous la tente du roi ;
-Et Calchas, que des dieux le souffle saint anime,
-S'avance au milieu d'eux pour nommer la victime.
-
--*who_pyrrhus
 Quelle est-elle, Seigneur ?
 
--*who_ulysse
-      Le ciel interrogé
-Sur un autel, d'encens et d'offrandes chargé,
-Par la voix du grand-prêtre a nommé Polixène.
-
--*who_pyrrhus
 Polixène!
 
--*who_ulysse
-      Et bientôt, pour désarmer sa haine,
-Calchas va vous donner le fer, que votre main
-Doit, au tombeau d'Achille, enfoncer dans son sein.
-
--*who_pyrrhus
 Dans son sein ! Moi ! Grands dieux !
 
--*who_ulysse
-      Le ciel et votre père
-Veulent ce sacrifice affreux, mais nécessaire.
-
--*who_pyrrhus
 Il n'est pas encor fait, Ulysse !
 
--*who_ulysse
-      En ce séjour,
-Seigneur, il doit se faire avant la fin du jour.
-
--*who_pyrrhus
 J'en doute.
 
--*who_ulysse
-      Ce vain doute est fait pour me surprendre.
-Qui l'empêchera ?
-
--*who_pyrrhus
       Moi !
 
--*who_ulysse
-      Vous ! Que viens-je d'entendre,
-Seigneur ? Est-ce Pyrrhus, un Grec, qui m'a parlé ?
-D'où vient l'indigne effroi dont vous êtes troublé ?
-Moi, je croyais vous voir, heureux, plein d'alégresse,
-Fier d'honorer un père, et de servir la Grèce,
-Hâter avec transport un important trépas ;...
-Et vous balancez...
-
--*who_pyrrhus
       Non, je ne balance pas.
 Vous voulez, qu'abaissant la grandeur de mon âme
 J'ose plonger ma main dans le sang d'une femme,
@@ -256,38 +120,6 @@ Mais, de ma propre main, immoler Polixène !...
 C'est un crime, Seigneur; il me suffit : mon bras
 Ne fut jamais instruit à des assassinats.
 
--*who_ulysse
-Seigneur, je reconnais à ce refus sublime,
-Cette austère vertu qui craint l'ombre d'un crime ;
-Mais l'État aujourd'hui défend de l'écouter ;
-Le sang est nécessaire, et ne doit rien coûter :
-De ce sang seul enfin le retour doit dépendre,
-Et vous pouvez, seigneur, rougir de le répandre !
-Où donc est l'infamie ? Où donc est l'attentat ?
-Vous servez votre père, et les dieux, et l'État ;
-Je n'y vois rien, seigneur, qui ne soit légitime ;
-Et le ciel, qui l'ordonne, est seul chargé du crime.
-Ilion est tombé sous vos généreux coups :
-Mais ce n'est point assez ; d'un autre honneur jaloux,
-Il vous faut achever votre illustre victoire ;
-Le ciel met dans vos mains cette nouvelle gloire :
-Voudriez-vous laisser vos exploits imparfaits,
-Et d'un triomphe heureux nous ravir les bienfaits ?
-Faudra-t-il que les Grecs, dont vous aimez l'hommage,
-Changeant l'amour en haine, et l'éloge en outrage,
-Détruisent les autels qu'ils vous avaient dressés,
-Maudissent vos exploits qu'ils avaient encensés,
-Flétrissent vos lauriers, et, pleurant leur victoire,
-Rougissent à vos yeux de vous devoir leur gloire ?
-Eh ! Pour qui ? Pour quel sang voulez-vous nous trahir ?
-C'est un sang ennemi que vous devez haïr ;
-C'est Polixène enfin, dont la beauté traîtresse
-Causa la mort d'Achille, et mit en deuil la Grèce :
-Non, vous ne pouvez pas la soustraire à nos coups,
-Et ce sang criminel est tout entier à nous.
-Il faut nous rendre aux champs de Sparte et de Mycène.
-
--*who_pyrrhus
 Il est trop vrai qu'Achille, épris de Polixène,
 Lorsque, pour l'épouser, il volait à l'autel,
 À ses côtés tomba, frappé d'un coup mortel.
@@ -341,55 +173,23 @@ J'ai rempli de carnage Ilion renversé,
 Ma fureur en est lasse, et mon glaive émoussé.
 Enfin, mon père a-t-il demandé Polixène ?
 
--*who_ulysse
-Mais Calchas l'a nommée ; et notre juste haine...
-
--*who_pyrrhus
 Vous croyez Calchas ? Vous ?
 
--*who_ulysse
-      Interprète des Dieux,
-Il lit dans leurs secrets, qu'ils ouvrent à ses yeux.
-
--*who_pyrrhus
 Leurs secrets de leur sein ne daignent point descendre
 À la voix d'un mortel peu fait pour les entendre;
 Les Dieux n'abaissent point leur sainte majesté
 Jusqu'à remplir son coeur de leur divinité ;
 Leurs secrets à leurs pieds restent avec la foudre.
 
--*who_ulysse
-Je ne dis plus qu'un mot. Que pensez-vous résoudre ?
-Nous accorderez-vous aujourd'hui votre bras ?
-
--*who_pyrrhus
 Non.
 
--*who_ulysse
-      Ainsi Polixène....
-
--*who_pyrrhus
       Elle ne mourra pas.
 
--*who_ulysse
-Vous l'adorez sans doute : une chaleur si vive...
-
--*who_pyrrhus
 Que je l'adore ou non, je prétends qu'elle vive.
 
--*who_ulysse
-La patrie à vos yeux n'est donc plus rien, Seigneur ?
-
--*who_pyrrhus
 Elle est toujours beaucoup, mais bien moins que l'honneur :
 L'honneur, au vrai héros, doit parler plus haut qu'elle.
 
--*who_ulysse
-Mais ne craignez-vous point que ce refus rebelle
-Des Grecs, contre Pyrrhus, n'arme ici tous les rois,
-Jaloux de vous punir du mépris de leurs droits ?
-
--*who_pyrrhus
 Je ne suis point surpris de cette ingratitude,
 Seigneur ; c'est chez les Grecs une vieille habitude.
 Mon père l'éprouva, je l'éprouve aujourd'hui ;
@@ -398,9 +198,343 @@ Et, si les Grecs dix ans demandèrent Hélène,
 Ils pourront plus longtemps demander Polixène.
 Adieu.
 
-**** *book_ *id_I04 *act_I *date_(inc
+      Madame, demeurez,
+Je conçois la terreur où vos sens sont livrés ;
+En m'offrant à vos yeux, je l'avais bien prévue :
+Je vous épargnerais mon indiscrète vue,
+Si je ne croyais pas devoir vous annoncer
+Que d'autres maux encor peuvent vous menacer.
+Ne croyez pas pourtant que le vainqueur de Troie,
+Un Grec, un ennemi, vous l'apprenne avec joie ;
+C'est dans un autre esprit que je viens devant vous.
 
--*who_ulysse
+Ce séjour est encor tout plein de sa colère :
+Achille, dont Pâris osa trancher les jours,
+A paru sur les flots arrêtés dans leur cours,
+Pour ordonner aux Grecs que sa tombe jalouse
+Fume aujourd'hui du sang de sa dernière épouse.
+
+      Oui, madame ; et ma main
+Est celle qu'il attend pour ce coup inhumain.
+
+Non, je viens vous servir dans ce péril pressant ;
+Votre intérêt, le sien est le seul qui me touche ;
+Ne me regardez plus comme un vainqueur farouche ;
+Voyez un protecteur, un vengeur, un ami
+Plus grand que d'Ilion je ne fus l'ennemi.
+Je jure par les Dieux du Xanthe et du Scamandre,
+Par ces murs que Pyrrhus vient de réduire en cendre,
+Par les mânes d'Hector, et surtout par mon bras,
+D'arracher votre fille à la Grèce, au trépas,
+De conserver ses jours, que le ciel me demande,
+Et de sauver ce sang qu'on veut que je répande.
+
+      Ah ! Madame,
+Qu'un plus noble dessein est entré dans mon âme !
+Vous, recevoir des lois ! C'est à vous d'en donner.
+Je vous aime, Madame, et vais vous couronner.
+Que n'ai-je à vous offrir une seconde Troie !
+Vous m'aviez mal connu. Tout mon peuple, avec joie,
+Va, fier de vous servir, tomber à vos genoux :
+Je vous offre le sceptre et la main d'un époux.
+Le front de Polixène est né pour la couronne.
+Vos Phrygiens, captifs du roi qui vous la donne,
+Le soin de replacer au rang dont vous sortez
+Les rois et les héros que vous représentez,
+Tout vous dit de vous rendre à mon amour extrême.
+Recevez donc ma main, mon coeur, mon diadème :
+Vous verrez si les Grecs, que vous ne craindrez plus,
+Oseront attaquer l'épouse de Pyrrhus !
+
+      Voilà votre réponse!
+C'est un refus qu'ici votre haine prononce !
+Eh bien, je le reçois, ce refus trop ingrat ;
+Il me rend à ma gloire, à mon père, à l'État.
+Je m'oubliais ; j'allais, dans ma lâche tendresse,
+Pour la première fois connaître une faiblesse.
+Je foulais tout aux pieds... Vous ne concevez pas
+Ce que j'aurais tenté pour plaire à vos appas.
+S'il eût fallu d'Argos embraser les murailles,
+Ou, détruisant le fruit de dix ans de batailles,
+Relever ces remparts, dont, avant cent hivers,
+On cherchera la place en ces climats déserts,
+Je l'aurais fait pour vous... Vous insultez un maître !
+Mes offres et mes feux ont mérité peut-être,
+Si ce n'est du retour, quelque ménagement.
+Vous ne m'aurez pas fait rougir impunément :
+Aux Grecs, à vos destins, à la mort, je vous livre.
+Je n'examine pas si j'y pourrai survivre.
+Fidèle à ma patrie, et plein de vos attraits,
+Je puis percer ce coeur ; tremblez, je me connais.
+Oui, oui, je vais aux Grecs promettre leur offrande.
+
+      Je frapperai, j'en jure votre haine ;
+Quand il en sera temps, vous sentirez les coups ;
+Je pourrai les porter sur d'autres que sur vous ;
+Il est quelques captifs que peut frapper ma rage.
+Je redeviens cruel, et c'est là votre ouvrage.
+
+      Vous me priez en vain :
+Je vous le dis, Madame, ou sa mort ou sa main.
+
+Je venais d'essuyer ses refus, ses mépris,
+Phénix, quand tous les Grecs, éclatant en murmures
+M'offrant leur sein couvert de nombreuses blessures,
+Invoquant mon honneur, attestant mes succès,
+M'ont demandé les vents, dernier de mes bienfaits :
+Dans un premier moment de dépit et de haine,
+J'ai promis de verser le sang de Polixène,
+J'ai juré son trépas ; mais, cet instant passé,
+J'ai, Phénix, entendu gémir l'amour blessé,
+Et, ne voyant plus rien que la mort d'une amante
+Ce coeur redemander sa promesse imprudente.
+
+Qui veux-tu que j'immole ? Une femme adorée,
+Que son malheur surtout doit me rendre sacrée,
+Que, malgré les dédains dont son coeur est armé,
+J'aime, comme peut-être on n'a jamais aimé.
+Qui ? Moi ! Qu'aux yeux des Grecs, complice de leur crime,
+Tranquille, et mesurant mes coups sur ma victime...
+Non, Phénix, non jamais je n'aurai ce pouvoir.
+
+      Il ne l'a pas lui-même poignardée.
+
+      Ulysse ! Ô Dieux trop inhumains,
+Combien vous vendez cher quelque gloire aux humains !
+
+Hélas ! Phénix !
+
+      J'ai donné ma parole....
+Je la tiendrai, Seigneur.
+
+      Il suffit, je l'attends ;
+Vous pouvez l'amener.
+
+      Eh bien, es-tu content ?
+Suis-je assez inhumain ? Suis-je assez sanguinaire ?
+Ai-je bien fait, Phénix, ce que je devais faire ?
+Dieux !
+
+      Moi, je ne le suis pas :
+Je sens déjà trembler mon courage et mon bras.
+Ô ciel ! Lorsque amenée à cette horrible fête,
+Polixène au couteau présentera sa tête,
+Ce front majestueux dont les charmes puissants
+Égarent ma raison, et séduisent mes sens,
+Pourrai-je, quel que soit le devoir qui me guide,
+Laisser tomber sur elle un poignard homicide ?
+
+Je vais, seul de ces bords, partir sur mes vaisseaux
+Qui devaient avec moi la porter sur les eaux !
+Son urne est le seul bien où je pouvais prétendre,
+Et je ne devais donc emporter que sa cendre !
+
+C'en est fait, me voilà pour toujours malheureux.
+Toujours je croirai voir ces bords que je déteste,
+Ce tombeau, ce poignard, cette pompe funeste,
+Cet objet tout sanglant que devait protéger
+Ce bras, ce même bras armé pour l'égorger.
+Je n'oserai jamais me regarder moi-même,
+Malheureux ! Tout couvert du sang de ce que j'aime.
+Qu'ai-je promis ?
+
+Eh bien ! Dieux du trépas, ô vengeance, ô colère,
+Affermissez ce bras qui s'arme pour un père.
+Et toi, grande ombre, au gré de ton cruel courroux,
+Viens, toi-même, marquer la place de mes coups.
+Regarde-la, Phénix. Quel homme assez barbare
+Peut jamais égorger une beauté si rare ?
+
+      Tout mon sang s'est glacé,
+J'ai cru que dans mon sein il l'avait enfoncé.
+
+      Affermis ma main, ombre qui veux ce crime.
+Conduis-moi, Phénix.... Non, je ne le pourrai pas.
+
+      Allons ;... la terre a tremblé sous mes pas ;
+Je me meurs.
+
+Où suis-je ? Mes regards sont couverts d'un nuage.
+Polixène... Les Grecs... Ô forfaits !... Ô remords !...
+J'erre, seul et tremblant, sur la rive des morts.
+Un poignard !... Ah ! Grands Dieux !
+
+C'est vous !... Eh bien !... Il faut...
+
+      Non, non, vous ne mourrez pas.
+C'en est fait, vos regards ont désarmé mon bras.
+Un moment a changé mes desseins sanguinaires.
+Ne craignez rien, vos jours me sont trop nécessaires ;
+Loin de trancher leur cours, je veux les conserver ;
+Je prétends malgré vous, vous servir, vous sauver.
+La haine peut rester dans votre ame irritée,
+Je n'en murmure point, je l'ai trop méritée.
+Mon sceptre, et les doux noeuds, dont se flattait mon coeur,
+Je cesse d'en parler, puisqu'ils vous font horreur
+Je ne prétendrai plus qu'au droit de vous défendre.
+Ô tombe d'un héros, grande ombre, auguste cendre,
+Ô toi qui fut Achille, ô mânes paternels,
+Ces transports, à vos yeux, ne sont point criminels.
+Vous n'avez pu vouloir la vertu pour victime.
+Je vous honore mieux, en vous sauvant un crime.
+Achille, en te prêtant un homicide voeu,
+Ils te font homme encor, moi, je te fais un dieu.
+Madame, allons, je vais vous rendre à votre mère.
+
+Mes amis, suivez-moi, sans craindre leur courroux.
+Votre appui, votre roi, Pyrrhus est avec vous.
+
+      Je vous la rends, cessez de vous troubler.
+
+Non ; tant que je verrai la clarté qui nous luit,
+C'est en vain que la Grèce et le sort la poursuit :
+De la Grèce et du sort je brave la furie ;
+Je mourrai, s'il le faut, pour défendre sa vie.
+Déja, pour l'immoler, j'avais levé le bras :
+Son front calme et tranquille à l'aspect du trépas,
+Son âge, ses vertus, sa beauté que j'adore,
+Et que sa mort prochaine embellissait encore,
+Ont arraché, Madame, à ce bras égaré,
+L'homicide couteau qu'ils appellent sacré.
+Plein d'un zèle plus fait pour un coeur magnanime,
+Au lieu de l'immoler, j'ai sauvé la victime ;
+Je l'ai ravie aux Grecs, que j'ai fait tous trembler
+En saisissant ce fer qui peut les accabler,
+Et vous l'amène, encor la tête couronnée
+Des festons dont les Grecs, pour sa mort, l'ont ornée.
+
+      Votre crainte m'outrage.
+Sa fermeté qui flatte en secret mon courage
+De mes soins, à mes yeux, la rend plus digne encor,
+Et mon sang doit en tout vaincre le sang d'Hector.
+Je ne trahirai point ce qui m'est cher.
+
+      Épargnez-vous un stérile entretien :
+Quels que soient vos efforts, vous ne gagnerez rien.
+
+Qu'ils viennent m'attaquer, Seigneur, je les attends.
+
+Ils le veulent, je vais les combattre, je cours,
+Plein de votre intérêt, à qui cède tout autre,
+Me venger dans leur sang d'avoir versé le vôtre.
+La servir, la sauver est mon premier devoir.
+Demeurez dans ces lieux, où vous m'allez revoir.
+Trop heureux, si je puis, légitimant ma gloire,
+Forcer sa haine enfin d'absoudre ma victoire !
+
+
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
+      La Grèce
+Demande encor, Seigneur, votre vaillante main ;
+Un prodige des mers nous ferme le chemin.
+
+      Les Grecs, sur la rive où fut Troie,
+Hâtaient tous du départ les apprêts avec joie ;
+Et, voyant leurs vaisseaux par les vents agités,
+Ils appelaient de loin les bords qu'ils ont quittés,
+Tout-à-coup un grand cri sort des vagues profondes ;
+La mer tremble, mugit, s'entr'ouvre, et, sur les ondes
+Monte et s'élève Achille au milieu des éclairs,
+De la foudre, et des vents qui grondent dans les airs :
+Il semble être un des dieux que l'univers adore ;
+Le fer brille en sa main. Il paraît tel encore
+Qu'aux jours, où, renversant les Troyens sous ses pas,
+Il portait dans leurs rangs la terreur, le trépas,
+Du Xanthe soulevé combattait l'onde altière,
+Ou traînait, à grands cris, Hector sur la poussière.
+Il s'avance vers nous, et nous lance un coup d'oeil
+Plein de dépit, de rage, et de haine, et d'orgueil ;
+Et terrible, en ces mots sa voix se fait entendre :
+« Grecs, vous allez partir sans honorer ma cendre !
+Il faut, pour que les mers vous ouvrent leur chemin,
+Que l'armée aujourd'hui répande
+Sur mon tombeau le sang humain :
+Calchas vous nommera ce sang que je demande,
+Et des mains de mon fils j'en exige l'offrande. »
+....................................
+Il dit : déjà muets, les airs ne soufflent plus,
+Les vents sont enchaînés, et les flots abattus ;
+La mer tombe, et son onde aplanie et tranquille,
+Semble, aux yeux étonnés, une glace immobile.
+Les chefs, que ce spectacle a tous saisis d'effroi,
+S'assemblent éperdus sous la tente du roi ;
+Et Calchas, que des dieux le souffle saint anime,
+S'avance au milieu d'eux pour nommer la victime.
+
+      Le ciel interrogé
+Sur un autel, d'encens et d'offrandes chargé,
+Par la voix du grand-prêtre a nommé Polixène.
+
+      Et bientôt, pour désarmer sa haine,
+Calchas va vous donner le fer, que votre main
+Doit, au tombeau d'Achille, enfoncer dans son sein.
+
+      Le ciel et votre père
+Veulent ce sacrifice affreux, mais nécessaire.
+
+      En ce séjour,
+Seigneur, il doit se faire avant la fin du jour.
+
+      Ce vain doute est fait pour me surprendre.
+Qui l'empêchera ?
+
+      Vous ! Que viens-je d'entendre,
+Seigneur ? Est-ce Pyrrhus, un Grec, qui m'a parlé ?
+D'où vient l'indigne effroi dont vous êtes troublé ?
+Moi, je croyais vous voir, heureux, plein d'alégresse,
+Fier d'honorer un père, et de servir la Grèce,
+Hâter avec transport un important trépas ;...
+Et vous balancez...
+
+Seigneur, je reconnais à ce refus sublime,
+Cette austère vertu qui craint l'ombre d'un crime ;
+Mais l'État aujourd'hui défend de l'écouter ;
+Le sang est nécessaire, et ne doit rien coûter :
+De ce sang seul enfin le retour doit dépendre,
+Et vous pouvez, seigneur, rougir de le répandre !
+Où donc est l'infamie ? Où donc est l'attentat ?
+Vous servez votre père, et les dieux, et l'État ;
+Je n'y vois rien, seigneur, qui ne soit légitime ;
+Et le ciel, qui l'ordonne, est seul chargé du crime.
+Ilion est tombé sous vos généreux coups :
+Mais ce n'est point assez ; d'un autre honneur jaloux,
+Il vous faut achever votre illustre victoire ;
+Le ciel met dans vos mains cette nouvelle gloire :
+Voudriez-vous laisser vos exploits imparfaits,
+Et d'un triomphe heureux nous ravir les bienfaits ?
+Faudra-t-il que les Grecs, dont vous aimez l'hommage,
+Changeant l'amour en haine, et l'éloge en outrage,
+Détruisent les autels qu'ils vous avaient dressés,
+Maudissent vos exploits qu'ils avaient encensés,
+Flétrissent vos lauriers, et, pleurant leur victoire,
+Rougissent à vos yeux de vous devoir leur gloire ?
+Eh ! Pour qui ? Pour quel sang voulez-vous nous trahir ?
+C'est un sang ennemi que vous devez haïr ;
+C'est Polixène enfin, dont la beauté traîtresse
+Causa la mort d'Achille, et mit en deuil la Grèce :
+Non, vous ne pouvez pas la soustraire à nos coups,
+Et ce sang criminel est tout entier à nous.
+Il faut nous rendre aux champs de Sparte et de Mycène.
+
+Mais Calchas l'a nommée ; et notre juste haine...
+
+      Interprète des Dieux,
+Il lit dans leurs secrets, qu'ils ouvrent à ses yeux.
+
+Je ne dis plus qu'un mot. Que pensez-vous résoudre ?
+Nous accorderez-vous aujourd'hui votre bras ?
+
+      Ainsi Polixène....
+
+Vous l'adorez sans doute : une chaleur si vive...
+
+La patrie à vos yeux n'est donc plus rien, Seigneur ?
+
+Mais ne craignez-vous point que ce refus rebelle
+Des Grecs, contre Pyrrhus, n'arme ici tous les rois,
+Jaloux de vous punir du mépris de leurs droits ?
+
       C'est tout Achille ! Il revit dans Pyrrhus !
 Nous voilà donc encor sur ce bord retenus.
 Pyrrhus a-t-il cru fuir les yeux perçants d'Ulysse ?
@@ -422,9 +556,225 @@ Annoncer au Conseil les superbes refus,
 Et voir comment aux Grecs, que perdrait sa colère,
 Nous pourrons rendre un bras qui leur est nécessaire.
 
-**** *book_ *id_II01 *act_II *date_(inc
+      Tu dis
+Qu'Hécube l'a cachée en ces sanglants débris ?
 
--*who_hecube
+Je remplis à regret des ordres inhumains,
+Madame ; remettez Polixène en mes mains.
+
+Oui, pour prix du retour, et des vents qu'il arrête,
+Achille veut son sang ; il est le fils des Dieux,
+Il parle, il faut céder. Dites-moi dans quels lieux...
+
+Grecs, entrez dans ces murs.
+
+Demeurez, Grecs. Eh bien ?
+
+      Ah ! Gardez-vous de croire
+Que d'un si grand bienfait je perde la mémoire.
+
+Madame, je gémis que mon devoir austère
+Ne me permette pas, d'accord avec mes voeux,
+De payer aujourd'hui vos secours généreux ;
+Mais la Grèce a besoin du sang de la princesse.
+Si j'osais la sauver, je trahirais la Grèce,
+Et je ne puis, rompant un si sacré lien,
+Pour n'être point ingrat, n'être plus citoyen.
+D'ailleurs trahirons-nous Achille et sa mémoire ?
+Ce héros, immolé dans les bras de la gloire,
+En rompant sous ses coups vos escadrons épars,
+En frappant les héros, soutiens de vos remparts,
+Et surtout le plus grand qui marchait à leur tête,
+D'Ilion ébranlé prépara la conquête....
+Et nous refuserions à son ombre en courroux,
+Vainqueurs par lui, le sang dont il paraît jaloux !
+Vous craignez de pleurer une fille immolée !
+Hélas ! Comme llion, la Grèce est désolée.
+Que de veuves en deuil y pleurent un époux !
+Que de mères, un fils qu'Hector perça de coups !
+Hécube, abandonnez votre fille à la Grèce.
+Vous qui m'avez sauvé, dont le sort m'intéresse,
+Suivez-moi dans ma cour, venez dans mon palais ;
+C'est là que vous attend le prix de vos bienfaits.
+Pénélope saura vous y traiter en reine.
+Auprès de moi, soldats, amenez Polixène.
+
+Amenez Polixène.
+
+Des jours de Polixène Achille veut l'offrande.
+
+Sa mort est déjà trop sans y joindre le vôtre ;
+Que ne m'est-il permis de sauver l'une et l'autre !
+
+Madame....
+
+      Ô grandeur, que je ne conçois pas !
+En répandant des pleurs, je vous mène au trépas.
+
+Polixène, à sa mère à l'instant dérobée,
+Par mes soins vigilants en nos mains est tombée, Seigneur.
+
+      Ces augustes mortels,
+Ministres consacrés au culte des autels,
+L'environnent : leurs mains, qui portent nos offrandes
+Étendent sur son front ces festons, ces guirlandes,
+Ce bandeau, du supplice odieux ornements,
+Et lui font de la mort prendre les vêtements.
+Il faut, vous le savez, que votre main l'immole.
+Ou n'attend plus que vous.
+
+      Je vais la faire entrer.
+Songez qu'à cette tombe elle doit expirer,
+Seigneur : n'écoutez plus une pitié funeste,
+Et d'un sang nécessaire accordez-nous le reste.
+Nous osons y compter.
+
+      Organe auguste
+Des célestes secrets, à vos yeux déployés,
+Loin de vous ce soupçon que les Grecs effrayés
+Craignent du fier Pyrrhus les transports redoutables.
+D'un long siège douteux les travaux innombrables
+Nous ont accoutumés à braver le trépas,
+Et de nos coeurs guerriers l'effroi n'approche pas.
+Mais, quoique ses refus trahissent la patrie,
+Nous devons des égards au vainqueur de l'Asie.
+Faut-il, quand nos succès ne sont dûs qu'à son bras,
+Trop prompts à le punir, nous hâter d'être ingrats ?
+L'espoir n'est point perdu, j'ose du moins le croire.
+Il se souvient toujours d'Achille et de la gloire ;
+Attendons son retour, il ne faut que du temps.
+Il nous sera rendu par les mépris constants
+De cet objet si fier, qui le fuit et l'abhorre ;
+Et s'il a pu changer, il peut changer encore.
+Mais s'il n'abjure enfin ses coupables refus,
+Levons sur lui le glaive, et ne l'épargnons plus.
+Vengeur des opprimés, le ciel fera le reste.
+
+      Un nouveau sacrifice,
+Sur vos cruels refus, aux autels couronnés,
+Vient d'être offert, Seigneur, par les Grecs consternés
+À peine au ciel l'encens a porté leur demande,
+Le ciel parle, et Calchas, en son nom, leur commande
+De voler au combat et de venger leurs droits.
+Tout le camp, qui des Dieux croit entendre la voix,
+Rempli d'un saint transport, s'arme et vers vous s'avance ;
+Pour les Grecs et pour vous, j'accours, je les devance,
+Songez...
+
+Répandrez-vous le sang que vous avez fait vaincre ?
+Verserons-nous le vôtre afin de vous convaincre ?
+Cédez, cédez aux Grecs, il en est encor temps.
+
+Toi qui, dans ce tombeau, dois frémir de l'entendre,
+Tu vois, ce n'est point nous qui volons à ta cendre
+Ces tributs, ces honneurs demandés par tes cris,
+Achille, c'est Pyrrhus, ton fils, ton propre fils !
+Nous allons contre lui défendre ta mémoire.
+Sors donc de ce tombeau dont il trahit la gloire ;
+Viens guider tes vengeurs ; et, conduisant nos coups,
+Fais marcher la victoire, avec toi, devant nous.
+
+Amour, où conduis-tu le coeur qui suit ta loi ?
+Dois-je m'en étonner, près d'Ilion en cendre ?
+Mais déjà du combat le bruit se fait entendre.
+Allons donc, près des Grecs que je dois secourir,
+Et combattre Pyrrhus, et le vaincre, ou mourir.
+Que vois-je ? Vous, Calchas !
+
+
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenix
+
+Enfin Pâris, sous vous tombant avec vingt rois,
+Ménélas et l'hymen vengés par vos exploits,
+Les murailles de Troie aux feux abandonnées,
+Et de ses défenseurs les veuves enchaînées,
+Permettent que les Grecs, à la Grèce rendus,
+Retrouvent leurs foyers, depuis dix ans perdus.
+Déjà pour le départ la flotte est rassemblée,
+Et la voile frémit, par d'heureux vents enflée.
+Des richesses de Troie augmentant vos trésors,
+De l'Épire bientôt vous revoyez les bords.
+Mais c'est peu ; vous devez y traîner Polixène,
+Une des soeurs d'Hector, cette esclave troyenne,
+Dont jadis, pour sa perte, Achille fut épris :
+Les Grecs de vos travaux vous accordent ce prix.
+D'un père assassiné vengeant les tristes restes,
+Vous pourrez la punir de ses attraits funestes...
+Mais, parmi les faveurs dont vous êtes comblé,
+Qui vous donne cet air inquiet et troublé ?
+
+      Seigneur...
+
+Quelle beauté, Seigneur, a donc su voue charmer ?
+
+Polixène !...
+
+Je vous plains. Se peut-il qu'un penchant téméraire,
+Trahissant la mémoire et les mânes d'un père,
+Vous fasse soupirer, Seigneur, pour les appas
+Qui d'Achille lui-même ont hâté le trépas ?
+Vous serez malheureux, et c'est là sa vengeance.
+Lorsqu'Achille à ses pieds déposa sa puissance,
+J'ai connu cet objet, trop dangereux pour vous.
+Son coeur est aussi pur que ses regards sont doux :
+Dans son âme, agrandie aux exploits de son frère,
+L'âme du fier Hector respire tout entière :
+Son génie a les traits des héros, ses aïeux.
+Sans doute ses refus constants, injurieux,
+À son vainqueur dompté coûtant de vaines larmes,
+La vengeront des maux qu'elle doit à vos armes,
+Et vos bienfaits eux-mêmes, à ses yeux prévenus,
+Peut-être ne seront que des crimes de plus.
+Ah ! Deviez-vous l'aimer ? Mais l'avez-vous revue ?
+
+Le sang de Polixène aux Grecs est donc promis ?
+
+Non, vous ne la pourrez retirer désormais :
+Le serment est un joug qui ne se rompt jamais.
+
+Croyez-moi, vous l'aurez si vous voulez l'avoir,
+Seigneur. Si vous n'osez immoler une amante,
+Vous perdez la patrie, à vos pieds suppliante ;
+Vous plongez, pour sauver un objet adoré,
+Au sein qui vous fit naître, un bras dénaturé ;
+Et, hasardant nos jours pour défendre sa vie,
+Sur le front de vingt rois levez un glaive impie.
+Que dis-je ? Dérobant aux mânes paternels
+Ces funèbres honneurs, ces tributs solennels,
+Qui consolent les morts sur le rivage sombre,
+D'Achille, en son tombeau, vous laissez gémir l'ombre.
+Agamemnon, pour nous, d'un coeur obéissant,
+Donna sa fille aux Dieux qui demandaient son sang...
+Et vous...
+
+Il l'eût fait, si sa main eût été demandée.
+Ulysse vient.
+
+      J'étais sûr de vous.
+
+L'honneur vous applaudit, laissez gémir l'amour.
+Ne voyez que les Grecs, qui vont, dans leur retour.
+Remplir les vastes mers, du Sigée au Bosphore,
+Du bruit de ce grand nom que l'univers honore.
+
+Écartez loin de vous ces pensers douloureux.
+
+      On vient, Seigneur, on vient : pensez
+Que tous les Grecs sur vous ont leurs regards fixés.
+
+Seigneur...
+
+      De ses sens il a perdu l'usage.
+
+Que faites-vous ? Des Grecs redoutez la colère.
+
+Seigneur, les Grecs armés ici se précipitent ;
+Agamemnon, Calchas, les guident, les excitent ;
+Votre nom remplit l'air, je vole, et mon secours...
+
+
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hecube
+
 Ô fille de Priam, ô soeur du grand Hector,
 Ma fille, je puis donc t'entretenir encor.
 Nous voilà toutes deux au nombre des captives :
@@ -440,21 +790,9 @@ Vous, mon unique espoir dans un sort si funeste,
 Vous, qui ne me laissez qu'une fille et des fers,
 Dieux ! Sauvez-la du moins, j'oublierai mes revers.
 
--*who_polixene
-Abjurez ce souhait à mes désirs contraire.
-Ah ! Puisque je survis à ma famille entière,
-J'ai vécu trop longtemps. Heureux et plus heureux
-Ceux que frappa la guerre avant ces temps affreux !
-Ma mère, ils n'ont pas vu tomber les murs de Troie.
-
--*who_hecube
 Des flammes et des Grecs la voilà donc la proie !
 Ah ! Pâris, qu'as-tu fait !
 
--*who_polixene
-      Il nous perd sans retour.
-
--*who_hecube
 Le ciel m'en avertit, lorsqu'il reçut le jour.
 Oui, ma fille, au moment où, pour nos maux féconde,
 J'enfantai ce fléau d'Ilion et du Monde,
@@ -467,81 +805,32 @@ Que ne l'ai-je étouffé soudain dans son berceau !
 Je vous verrais debout, murs que le feu dévore ;
 Époux, enfants, sujets, je vous verrais encore.
 
--*who_polixene
-Il était votre fils.
-
--*who_hecube
       Vois-tu ces murs sanglants,
 Ces temples embrasés, ces portiques croulants,
 Et cet amas de morts, de cendre et de poussière ?
 
--*who_polixene
-Hélas !
-
--*who_hecube
       C'est Ilion.
 
--*who_polixene
-      En vain, Priam mon père,
-Lorsque Hercule irrité renversa ses remparts,
-Releva ses palais sur la poussière épars.
-Où sont ces murs, ces tours, cette ville puissante ?
-Mon oeil cherche Ilion sur les rives du Xanthe.
-
--*who_hecube
 Là fut un temple.
 
--*who_polixene
-      Ici fut le palais des rois.
-
--*who_hecube
 Là, la porte de Scée, où je gémis cent fois.
 
--*who_polixene
-Plus loin, contre les Grecs Hector guidait l'Asie.
-
--*who_hecube
 Ilion !
 
--*who_polixene
-      Ilion !
-
--*who_hecube
       Ô désastre !
 
--*who_polixene
-      Ô patrie !
-
--*who_hecube
 Où couleront tes eaux, ô divin Simoïs ?
 
--*who_polixene
-Sous les débris des murs qu'il arrosait jadis.
-Ma mère, croyez-moi, ne parlons plus de Troie.
-
--*who_hecube
 Pourquoi n'en plus parler ? C'est notre seule joie,
 Ma fille : hélas ! Sa chute, et mon sort, et le tien
 De l'univers entier vont être l'entretien.
 
--*who_polixene
-Que ne m'est-il permis de calmer vos alarmes !
-
--*who_hecube
 Ma fille, ton aspect redouble encor mes larmes.
 
--*who_polixene
-Moi ?
-
--*who_hecube
       Si jeune, déjà tu connais le malheur !
 Quoi ! Tes vertus, ton âge en sa première fleur ;...
 Devais-tu naître à Troie ?
 
--*who_polixene
-      Ah ! Ma mère !
-
--*who_hecube
       Ah ! Ma fille !
 Tu n'es plus, dans le sein d'une illustre famille,
 Cette princesse, objet des soupirs de vingt rois,
@@ -554,7 +843,331 @@ Tu vas, suivant sur l'onde un vainqueur sanguinaire,
 Essuyer les mépris d'une cour étrangère :
 Tel est ton sort affreux.
 
--*who_polixene
+Voilà Pyrrhus, le fils du bourreau de ton frère,
+Le vainqueur d'Ilion, l'assassin de ton père :
+Évitons ses regards.
+
+Ciel ! Quels nouveaux malheurs peuvent tomber sur nous !
+Tant de sang, tant de morts ont dû te satisfaire.
+
+Du sang de Polixène ?
+
+Pyrrhus obéira ! L'auteur de ma misère
+N'hésite pas sans doute à verser notre sang ?
+
+Ah ! J'embrasse vos pieds, Seigneur.
+
+Ayez pitié, Seigneur...
+
+Captive de Pyrrhus, pourquoi contre ta tête
+Irriter, dans ses mains, la foudre toujours prête ?
+N'est-il pas maître, hélas ! De tes jours et des miens ?
+La fierté convient mal dans nos honteux liens.
+Loin, loin tout souvenir de notre antique gloire ;
+Dût ton orgueil, ma fille, en garder la mémoire,
+Il fallait écarter de tes jours condamnés
+Les coups par nos vainqueurs et les Dieux ordonnés ;
+Il fallait épargner des larmes à ta mère.
+Que ne pouvais-tu point, puisque tu sais lui plaire !
+Sans répondre à ses feux, mais sans les outrager,
+Tu pouvais, Polixène, au moins le ménager.
+Et ses secours peut-être....
+
+      Quels discours ! Quel langage !
+Ton courage, à la fin, me rend tout mon courage.
+N'allons plus de Pyrrhus embrasser les genoux ;
+Ne devons mon repos et ton salut qu'à nous ;
+Disparaissons des lieux que le trépas habite :
+Dérobons-nous aux Grecs par une prompte fuite...
+
+Cruelle, dans mes bras tu peux me refuser !
+Tu ne m'aimes donc plus, Polixène ?...
+
+      Ah ! Par cette tendresse,
+Dont toujours les doux noeuds ont lié nos deux coeurs,
+Par mes genoux tremblants, par mon âge et mes pleurs,
+Ne me refuse pas. Excuse ma faiblesse ;
+Je n'ai pas ta vertu, je n'ai pas ta noblesse,
+Mais je suis mère, hélas ! Mais je n'ai plus que toi ;
+La force est dans ton coeur, la nature est en moi.
+Laisse-moi te sauver : tes jours sont à ta mère ;
+Que deviens-je sans toi qui soutiens ma misère ?
+Devais-je, dans ces jours, marqués par les revers,
+Craindre de nouveaux coups de ceux qui me sont chers ?
+Veux-tu donc aujourd'hui me causer plus d'alarmes
+Que l'ennemi vainqueur, et la fureur des armes ?
+
+      Écoute-moi. Prix du retour, tes pas
+Sont sans doute observés, les miens ne le sont pas.
+De ce séjour pour moi l'issue est plus facile ;
+Je vole te chercher des secours, un asile.
+Je sais qu'au mont Ida, loin des traits ennemis,
+Énée a rassemblé son père et ses amis,
+Et qu'il doit transporter sur des mers étrangères
+Les restes d'Ilion, ses Dieux, et ses misères.
+Je cours vers lui : d'Ida je connais le chemin,
+Je compte sur son coeur ; le malheur rend humain.
+Né du sang de Priam, il est de ma famille ;
+Il ne peut rejeter et sa veuve et sa fille.
+Dans ces lieux avec lui je reviens te chercher.
+Toi, jusqu'à mon retour, consens à te cacher ;
+Pour abuser les Grecs c'est la plus sûre voie.
+Mais tu n'as qu'un asile...
+
+      Aux murs de Troie.
+Dans sa vaste ruine entre sans t'étonner:
+Les Grecs, cherchant en vain, ne sauraient soupçonner
+Qu'aux restes d'Ilion j'ai commis ta fortune ;
+Je n'y crains point pour toi leur recherche importune.
+Lorsque dans le sommeil les Grecs seront plongés,
+Ce soir, Énée et moi, par l'ombre protégés,
+Nous viendrons de ces lieux t'arracher avec joie,
+Et rendrons aux Troyens un des restes de Troie.
+Viens....
+
+Suis-moi donc...
+
+J'ai caché Polixène en ces ruines sombres.
+Gardez-la, Phrygiens descendus chez les ombres,
+Vous tous, rois, demi-dieux, et Dieux dont elle sort ;
+C'est à tous ses aïeux que je remets son sort.
+Sauvez, mânes des rois, et Dieux de nos provinces,
+Le dernier rejeton qui reste de leurs princes.
+Allons trouver Énée. Ulysse ! Ah Dieux !
+
+Tu veux qu'aux meurtriers de ma famille entière,
+De mes filles encor je livre la dernière ;
+Que moi-même, mettant son front sous le couteau,
+Hécube de son sang devienne le bourreau !
+Je sais qu'au nom d'Achille on a proscrit sa tête.
+
+En quels lieux sont Hector, Priam, et ma famille ?
+Où sont tous les Troyens ? Tu demandes ma fille !
+Et moi, mon peuple entier, mes fils, et mon époux.
+
+      J'embrasse vos genoux,
+Écoutez ; c'est du moins la grâce que j'implore.
+
+      Vous souvient-il encore,
+Ulysse, de ce jour où, surpris, enchaîné,
+À mes pieds, pour mourir, vous fûtes amené ?
+J'étais reine, et tenais dans mes mains votre vie ;
+Je n'avais qu'à parler, un mot vous l'eût ravie.
+Vos exploits, nos revers, que j'aurais pu prévoir,
+Tout de votre trépas me faisait un devoir.
+Vous demandâtes grâce, et soudain vous l'obtîntes ;
+La générosité l'emporta sur mes craintes ;
+Je vous fis échapper des remparts des Troyens,
+Pour leurs malheurs, hélas ! Et surtout pour les miens.
+Vous en souvenez-vous ?
+
+Vous vous en souvenez ! Vous l'avouez, cruel !
+Et, ravissant ma fille à mon coeur maternel,
+Vous pouvez me montrer autant d'ingratitude !
+Vous me portez un coup si sensible et si rude,
+Vous à qui, par mes soins, le jour fut conservé !
+Vous me donnez la mort, quand je vous ai sauvé.
+Non, ne me l'ôtez point ; son nom est-il un crime ?
+Si la tombe d'Achille exige une victime,
+Sacrifiez Hélène, auteur de tous les maux,
+Qui causa le trépas d'Achille et des héros,
+Furie, ainsi qu'à Troie, à la Grèce funeste.
+Mais pourquoi de mon sang me demander le reste ?
+Ma fille n'a rien fait que pleurer son pays.
+Ulysse, tu me vois ainsi que je te vis,
+À des pieds ennemis prosternée et tremblante,
+Tendre, au milieu des fers, une main suppliante :
+Tu pressas mes genoux, et je presse les tiens ;
+J'eus pitié de tes maux, prends donc pitié des miens.
+Comme je t'ai sauvé, sauve aussi Polixène.
+Je dois bien rester mère, en cessant d'être reine.
+J'ai besoin de ma fille : elle me rend mes fils,
+Mon trône, mon époux, et nos remparts détruits ;
+Je ne demande point qu'ils sortent de leur cendre :
+Je n'ai plus un Hector, hélas ! Pour les défendre;
+Je n'ai plus que ma fille, et ne veux qu'elle enfin.
+Souffre, qu'auprès de moi prolongeant son destin,
+Elle ferme mes yeux à mon heure suprême.
+Que dis-je ? En elle, en moi respecte-toi toi-même ;
+Respecte ta couronne, et montre à l'univers
+Ce qu'on doit à des rois, même au sein des revers.
+Ta voix de l'éloquence étale tous les charmes :
+Va parler à l'armée en faveur de mes larmes ;
+Fais révoquer aux Grecs leurs odieux arrêts.
+D'une mère, en tes mains, je mets les intérêts :
+Ulysse est père, il doit secourir une mère.
+
+Ah ! Seigneur !... Ah ! Cruels, vous n'obéirez pas ;
+Arrêtez, je me jette au-devant de vos pas :
+C'est moi qu'il faut frapper ; dans le sang d'une mère
+Contentez, épuisez une soif sanguinaire.
+
+Ma fille, que fais-tu ? Dois-tu paraître ici ?
+Viens-tu t'offrir toi-même à ta mort qui s'apprête ?
+
+      Ah ! Grecs, si du fils de Thétis
+Vous vengez le trépas que causa seul Pâris,
+Présentez à son ombre une offrande plus chère.
+De Pâris, sur sa tombe, immolez donc la mère.
+Enfoncez le couteau dans ce coupable sein
+Qui de Troie et d'Achille a formé l'assassin.
+Frappez : c'est mon sang seul qu'il faut que l'on répande.
+
+Eh bien ! Joignez mon sang à son sang malheureux.
+Au lieu d'une victime Achille en aura deux.
+
+Il faudra nous unir par des noeuds éternels :
+Venez donc l'arracher de mes bras maternels.
+
+      Hélas, je vais bientôt cesser de l'être !
+Ô gage le plus cher des feux qui t'ont fait naître,
+Tu meurs !
+
+Dans des lieux où son coeur ne pourra plus t'entendre.
+
+Qu'Hécube a perdu tout, et qu'elle vit encor.
+Ô reste malheureux de toute ma famille !
+
+      Eh bien, tu me quittes, ma fille !
+
+On l'entraîne ! Et des Grecs toi-même, hélas ! Complice,
+Ma fille, tu me fuis pour courir au supplice !
+Je perds donc le dernier de mes nombreux enfants,
+Le seul que j'ai sauvé, l'appui de mes vieux ans !
+Mais que dis-je ? Son sang ne coule point encore ;
+Courons encor parler pour ce sang que j'adore.
+D'Agamemnon lui-même osons briguer l'appui,
+D'Agamemnon !... Ô ciel ! Et qu'attendre de lui ?
+Il leva sur sa fille une main sanguinaire ;
+Pourra-t-il être ému des douleurs d'une mère ?
+N'importe, à ses genoux il faut tomber soudain,
+Il faut prier Calchas, et tous les Grecs enfin :
+Au dernier des soldats il faut porter mes larmes.
+Dieux ! Si votre courroux a protégé leurs armes,
+En faveur d'une mère amollissez leurs coeurs ;
+Faites, faites près d'eux trouver grâce à mes pleurs.
+Perdant ma liberté, mon sceptre, et ma famille,
+Je mérite qu'au moins vous me laissiez ma fille.
+
+Où donc est Polixène, et ces Grecs homicides ?
+J'ai volé sous leur tente, auprès des fiers Atrides ;
+J'espérais, qu'attendris par mes pleurs répandus,
+Ils retiendraient leurs bras sur ma fille étendus.
+Leur tente était déserte; encor plus éplorée,
+J'accours dans cette enceinte à sa mort consacrée,
+Et ma fille et les Grecs n'y frappent point mes yeux !
+Serait-il consommé ce sacrifice affreux ?
+De son trépas du moins je ne suis pas certaine !
+Tombe, où l'ordre d'Achille immole Polixène,
+As-tu déjà reçu l'offrande de sa mort ?
+Mais, lorsqu'à ce tombeau je demande son sort,
+Peut-être, ô coup affreux ! Ô mère infortunée!
+De ses mânes plaintifs je marche environnée,
+Je suis près de son ombre, et mes pas ont foulé
+La place criminelle où son sang a coulé.
+Mais que vois-je, grands Dieux ? Pyrrhus avec ma fille !
+Un cortège les suit ; dans sa main le fer brille.
+Voici l'instant si craint de mon coeur maternel !
+Ma fille vient périr à ce tombeau cruel !
+Nature, droits du sang, soutenez mon courage ;
+Que mon corps du tombeau leur ferme le passage.
+Sous les yeux d'une mère oses-tu l'immoler,
+Tigre ?
+
+Vous !... Ma fille !... Épargnez ce coeur qui vous implore :
+Me la rendriez-vous pour me l'ôter encore ?
+
+Tombez, voiles de mort, ornements inhumains,
+Tombez tous, déchirés par mes tremblantes mains.
+Viens, Polixène, viens dans les bras de ta mère.
+Vous montrez bien, Seigneur, qu'Achille est votre père,
+Achille, né du sang de Thétis et des Dieux,
+Qui, comme eux invincible, et pardonnant comme eux,
+Fléchi par mon époux, à sa main suppliante,
+Rendit d'Hector meurtri la dépouille sanglante.
+Vous, vous rendez ma fille à mes sens désolés.
+Pardonnez-lui, Troyens, sous son bras immolés;
+Vos rois, dans leur vainqueur, ne trouvent plus qu'un père.
+
+Ah ! Seigneur, excusez cet imprudent langage,
+Cet orgueil, pardonnable, hélas ! Aux malheureux,
+Reste de la fierté qu'inspire un sang fameux,
+Je crains que vos bontés...
+
+      Ulysse !
+Je crains toujours sa vue.
+
+Non, cruels, contre vous je saurai le défendre.
+
+      Dieux !
+
+Hélas ! Mes vains efforts n'ont pu sauver ma fille !
+Elle meurt ! De ma triste et nombreuse famille,
+Il ne reste plus rien à mon coeur attendri ;
+Ilion, Ilion tout entier a péri.
+Elle meurt ! Sous mes yeux ! Dans les bras de sa mère !
+Et son sang malheureux me couvre tout entière !
+Venge une mère, ô ciel ! D'un vainqueur odieux !
+Je le suis.... l'avenir se découvre à mes yeux.
+Je vois de tous côtés les vents et les tempêtes,
+Et la foudre, grondant sur leurs coupables têtes,
+Disperser leurs vaisseaux sur les flots mutinés.
+Je vois l'impie Ajax, dans les airs étonnés,
+Enlevé palpitant, et les roches fumantes
+Recevoir de son corps les dépouilles sanglantes ;
+Le bras d'Idoménée au sein d'un fils plongé.
+Je vois Agamemnon dans Argos égorgé,
+Des adultères mains d'une épouse égarée ;
+Et dans des noeuds sanglants au supplice livrée,
+Hélène, qui de Troie a causé le revers,
+Expier sa beauté, fatale à l'univers.
+Et toi, perfide Ulysse, après avoir sur l'onde
+Traîné, dix ans entiers, ta flotte vagabonde,
+À travers les dangers, rendu dans ton pays,
+Va présenter ta tête au glaive de ton fils.
+Ô Dieux, ne trompez pas une si douce attente.
+Je meurs, dans cet espoir, et tranquille, et contente.
+C'en est fait, et j'attends au séjour du trépas
+Tous les Grecs, qui bientôt y viendront sur mes pas.
+
+
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
+
+Abjurez ce souhait à mes désirs contraire.
+Ah ! Puisque je survis à ma famille entière,
+J'ai vécu trop longtemps. Heureux et plus heureux
+Ceux que frappa la guerre avant ces temps affreux !
+Ma mère, ils n'ont pas vu tomber les murs de Troie.
+
+      Il nous perd sans retour.
+
+Il était votre fils.
+
+Hélas !
+
+      En vain, Priam mon père,
+Lorsque Hercule irrité renversa ses remparts,
+Releva ses palais sur la poussière épars.
+Où sont ces murs, ces tours, cette ville puissante ?
+Mon oeil cherche Ilion sur les rives du Xanthe.
+
+      Ici fut le palais des rois.
+
+Plus loin, contre les Grecs Hector guidait l'Asie.
+
+      Ilion !
+
+      Ô patrie !
+
+Sous les débris des murs qu'il arrosait jadis.
+Ma mère, croyez-moi, ne parlons plus de Troie.
+
+Que ne m'est-il permis de calmer vos alarmes !
+
+Moi ?
+
+      Ah ! Ma mère !
+
       J'en sens toute l'horreur.
 Voilà donc cet espoir d'hymen et de grandeur !
 Qu'ai-je fait pour armer la colère céleste ?
@@ -578,66 +1191,8 @@ Entendre dire aux Grecs, dans leur barbare joie :
 Écrasait nos soldats, faisait fuir tous nos rois !
 Elle est esclave !... » Ô mort, mort, accours à ma voix !
 
--*who_hecube
-Voilà Pyrrhus, le fils du bourreau de ton frère,
-Le vainqueur d'Ilion, l'assassin de ton père :
-Évitons ses regards.
-
-**** *book_ *id_II02 *act_II *date_(inc
-
--*who_pyrrhus
-      Madame, demeurez,
-Je conçois la terreur où vos sens sont livrés ;
-En m'offrant à vos yeux, je l'avais bien prévue :
-Je vous épargnerais mon indiscrète vue,
-Si je ne croyais pas devoir vous annoncer
-Que d'autres maux encor peuvent vous menacer.
-Ne croyez pas pourtant que le vainqueur de Troie,
-Un Grec, un ennemi, vous l'apprenne avec joie ;
-C'est dans un autre esprit que je viens devant vous.
-
--*who_hecube
-Ciel ! Quels nouveaux malheurs peuvent tomber sur nous !
-Tant de sang, tant de morts ont dû te satisfaire.
-
--*who_pyrrhus
-Ce séjour est encor tout plein de sa colère :
-Achille, dont Pâris osa trancher les jours,
-A paru sur les flots arrêtés dans leur cours,
-Pour ordonner aux Grecs que sa tombe jalouse
-Fume aujourd'hui du sang de sa dernière épouse.
-
--*who_hecube
-Du sang de Polixène ?
-
--*who_pyrrhus
-      Oui, madame ; et ma main
-Est celle qu'il attend pour ce coup inhumain.
-
--*who_polixene
 Dieux ! Vous avez enfin exaucé ma prière.
 
--*who_hecube
-Pyrrhus obéira ! L'auteur de ma misère
-N'hésite pas sans doute à verser notre sang ?
-
--*who_pyrrhus
-Non, je viens vous servir dans ce péril pressant ;
-Votre intérêt, le sien est le seul qui me touche ;
-Ne me regardez plus comme un vainqueur farouche ;
-Voyez un protecteur, un vengeur, un ami
-Plus grand que d'Ilion je ne fus l'ennemi.
-Je jure par les Dieux du Xanthe et du Scamandre,
-Par ces murs que Pyrrhus vient de réduire en cendre,
-Par les mânes d'Hector, et surtout par mon bras,
-D'arracher votre fille à la Grèce, au trépas,
-De conserver ses jours, que le ciel me demande,
-Et de sauver ce sang qu'on veut que je répande.
-
--*who_hecube
-Ah ! J'embrasse vos pieds, Seigneur.
-
--*who_polixene
       Que faites-vous?
 La veuve de Priam, ma mère à ses genoux ?
 L'abaissement est fait pour une âme commune ;
@@ -658,25 +1213,6 @@ Insulter à mon sort, jouir de mes douleurs,
 Et dans mon oeil humide interroger mes pleurs ?
 Peut-être formes-tu d'autres voeux ?
 
--*who_pyrrhus
-      Ah ! Madame,
-Qu'un plus noble dessein est entré dans mon âme !
-Vous, recevoir des lois ! C'est à vous d'en donner.
-Je vous aime, Madame, et vais vous couronner.
-Que n'ai-je à vous offrir une seconde Troie !
-Vous m'aviez mal connu. Tout mon peuple, avec joie,
-Va, fier de vous servir, tomber à vos genoux :
-Je vous offre le sceptre et la main d'un époux.
-Le front de Polixène est né pour la couronne.
-Vos Phrygiens, captifs du roi qui vous la donne,
-Le soin de replacer au rang dont vous sortez
-Les rois et les héros que vous représentez,
-Tout vous dit de vous rendre à mon amour extrême.
-Recevez donc ma main, mon coeur, mon diadème :
-Vous verrez si les Grecs, que vous ne craindrez plus,
-Oseront attaquer l'épouse de Pyrrhus !
-
--*who_polixene
 À ce comble d'affront je reste confondue.
 Quand Troie est par tes mains sur la poudre étendue,
 Quand mes frères sont morts, par tes coups terrassés.
@@ -719,68 +1255,12 @@ Avant de le souffrir, ô Dieux, écrasez-moi.
 Et toi, fuis ; je ne veux ni tes secours, ni toi ;
 Je ne veux que la mort.
 
--*who_pyrrhus
-      Voilà votre réponse!
-C'est un refus qu'ici votre haine prononce !
-Eh bien, je le reçois, ce refus trop ingrat ;
-Il me rend à ma gloire, à mon père, à l'État.
-Je m'oubliais ; j'allais, dans ma lâche tendresse,
-Pour la première fois connaître une faiblesse.
-Je foulais tout aux pieds... Vous ne concevez pas
-Ce que j'aurais tenté pour plaire à vos appas.
-S'il eût fallu d'Argos embraser les murailles,
-Ou, détruisant le fruit de dix ans de batailles,
-Relever ces remparts, dont, avant cent hivers,
-On cherchera la place en ces climats déserts,
-Je l'aurais fait pour vous... Vous insultez un maître !
-Mes offres et mes feux ont mérité peut-être,
-Si ce n'est du retour, quelque ménagement.
-Vous ne m'aurez pas fait rougir impunément :
-Aux Grecs, à vos destins, à la mort, je vous livre.
-Je n'examine pas si j'y pourrai survivre.
-Fidèle à ma patrie, et plein de vos attraits,
-Je puis percer ce coeur ; tremblez, je me connais.
-Oui, oui, je vais aux Grecs promettre leur offrande.
-
--*who_polixene
 Eh ! Barbare, voilà ce que je te demande ;
 Polixène de toi ne veut que ce présent.
 Est-ce à toi d'hésiter à répandre mon sang ?
 Il sied bien à Pyrrhus d'immoler Polixène.
 Frappe...
 
--*who_pyrrhus
-      Je frapperai, j'en jure votre haine ;
-Quand il en sera temps, vous sentirez les coups ;
-Je pourrai les porter sur d'autres que sur vous ;
-Il est quelques captifs que peut frapper ma rage.
-Je redeviens cruel, et c'est là votre ouvrage.
-
--*who_hecube
-Ayez pitié, Seigneur...
-
--*who_pyrrhus
-      Vous me priez en vain :
-Je vous le dis, Madame, ou sa mort ou sa main.
-
-**** *book_ *id_II03 *act_II *date_(inc
-
--*who_hecube
-Captive de Pyrrhus, pourquoi contre ta tête
-Irriter, dans ses mains, la foudre toujours prête ?
-N'est-il pas maître, hélas ! De tes jours et des miens ?
-La fierté convient mal dans nos honteux liens.
-Loin, loin tout souvenir de notre antique gloire ;
-Dût ton orgueil, ma fille, en garder la mémoire,
-Il fallait écarter de tes jours condamnés
-Les coups par nos vainqueurs et les Dieux ordonnés ;
-Il fallait épargner des larmes à ta mère.
-Que ne pouvais-tu point, puisque tu sais lui plaire !
-Sans répondre à ses feux, mais sans les outrager,
-Tu pouvais, Polixène, au moins le ménager.
-Et ses secours peut-être....
-
--*who_polixene
       Ah ! Ses secours, ma mère,
 Feraient rougir la cendre et d'Hector et d'un père.
 Dois-je, acceptant de lui ce présent détesté,
@@ -791,22 +1271,8 @@ Et laisser après moi, des humains abhorré,
 Un nom que le malheur peut leur rendre sacré ?
 Non, laissez-moi mourir.
 
--*who_hecube
-      Quels discours ! Quel langage !
-Ton courage, à la fin, me rend tout mon courage.
-N'allons plus de Pyrrhus embrasser les genoux ;
-Ne devons mon repos et ton salut qu'à nous ;
-Disparaissons des lieux que le trépas habite :
-Dérobons-nous aux Grecs par une prompte fuite...
-
--*who_polixene
 Moi, ma mère; moi, fuir ! Je pourrais m'exposer...
 
--*who_hecube
-Cruelle, dans mes bras tu peux me refuser !
-Tu ne m'aimes donc plus, Polixène ?...
-
--*who_polixene
       Ah ! Ma mère,
 À ce coeur déchiré vous êtes toujours chère.
 Je n'oublierai jamais ces soins intéressants,
@@ -830,65 +1296,13 @@ Sous les regards du ciel et sous la main des Dieux.
 Ma mère, abandonnez votre fille à la Grèce ;
 Voici son dernier jour.
 
--*who_hecube
-      Ah ! Par cette tendresse,
-Dont toujours les doux noeuds ont lié nos deux coeurs,
-Par mes genoux tremblants, par mon âge et mes pleurs,
-Ne me refuse pas. Excuse ma faiblesse ;
-Je n'ai pas ta vertu, je n'ai pas ta noblesse,
-Mais je suis mère, hélas ! Mais je n'ai plus que toi ;
-La force est dans ton coeur, la nature est en moi.
-Laisse-moi te sauver : tes jours sont à ta mère ;
-Que deviens-je sans toi qui soutiens ma misère ?
-Devais-je, dans ces jours, marqués par les revers,
-Craindre de nouveaux coups de ceux qui me sont chers ?
-Veux-tu donc aujourd'hui me causer plus d'alarmes
-Que l'ennemi vainqueur, et la fureur des armes ?
-
--*who_polixene
 Ma mère...
 
--*who_hecube
-      Écoute-moi. Prix du retour, tes pas
-Sont sans doute observés, les miens ne le sont pas.
-De ce séjour pour moi l'issue est plus facile ;
-Je vole te chercher des secours, un asile.
-Je sais qu'au mont Ida, loin des traits ennemis,
-Énée a rassemblé son père et ses amis,
-Et qu'il doit transporter sur des mers étrangères
-Les restes d'Ilion, ses Dieux, et ses misères.
-Je cours vers lui : d'Ida je connais le chemin,
-Je compte sur son coeur ; le malheur rend humain.
-Né du sang de Priam, il est de ma famille ;
-Il ne peut rejeter et sa veuve et sa fille.
-Dans ces lieux avec lui je reviens te chercher.
-Toi, jusqu'à mon retour, consens à te cacher ;
-Pour abuser les Grecs c'est la plus sûre voie.
-Mais tu n'as qu'un asile...
-
--*who_polixene
       Où donc ?
 
--*who_hecube
-      Aux murs de Troie.
-Dans sa vaste ruine entre sans t'étonner:
-Les Grecs, cherchant en vain, ne sauraient soupçonner
-Qu'aux restes d'Ilion j'ai commis ta fortune ;
-Je n'y crains point pour toi leur recherche importune.
-Lorsque dans le sommeil les Grecs seront plongés,
-Ce soir, Énée et moi, par l'ombre protégés,
-Nous viendrons de ces lieux t'arracher avec joie,
-Et rendrons aux Troyens un des restes de Troie.
-Viens....
-
--*who_polixene
       Sans ma mère, Dieux, soyez-en tous témoins,
 Je ne descendrais pas à ces indignes soins.
 
--*who_hecube
-Suis-moi donc...
-
--*who_polixene
       En entrant dans ces vastes décombres,
 Il me semble marcher dans le séjour des ombres.
 Je n'y peux faire un pas, sans que ces grands débris
@@ -898,161 +1312,8 @@ De ma faiblesse, hélas ! Peut-être elle s'indigne ;
 Peut-être en rougissant elle guide nos pas :
 Convient-il à son sang d'éviter le trépas ?
 
-**** *book_ *id_III01 *act_III *date_(inc
-
--*who_hecube
-J'ai caché Polixène en ces ruines sombres.
-Gardez-la, Phrygiens descendus chez les ombres,
-Vous tous, rois, demi-dieux, et Dieux dont elle sort ;
-C'est à tous ses aïeux que je remets son sort.
-Sauvez, mânes des rois, et Dieux de nos provinces,
-Le dernier rejeton qui reste de leurs princes.
-Allons trouver Énée. Ulysse ! Ah Dieux !
-
-**** *book_ *id_III02 *act_III *date_(inc
-
--*who_ulysse
-      Tu dis
-Qu'Hécube l'a cachée en ces sanglants débris ?
-
--*who_idas
-Oui, veillant sur leurs pas, je l'ai vu l'y conduire,
-Seigneur, et j'ai volé soudain vous en instruire.
-
-**** *book_ *id_III03 *act_III *date_(inc
-
--*who_ulysse
-Je remplis à regret des ordres inhumains,
-Madame ; remettez Polixène en mes mains.
-
--*who_hecube
-Tu veux qu'aux meurtriers de ma famille entière,
-De mes filles encor je livre la dernière ;
-Que moi-même, mettant son front sous le couteau,
-Hécube de son sang devienne le bourreau !
-Je sais qu'au nom d'Achille on a proscrit sa tête.
-
--*who_ulysse
-Oui, pour prix du retour, et des vents qu'il arrête,
-Achille veut son sang ; il est le fils des Dieux,
-Il parle, il faut céder. Dites-moi dans quels lieux...
-
--*who_hecube
-En quels lieux sont Hector, Priam, et ma famille ?
-Où sont tous les Troyens ? Tu demandes ma fille !
-Et moi, mon peuple entier, mes fils, et mon époux.
-
--*who_ulysse
-Grecs, entrez dans ces murs.
-
--*who_hecube
-      J'embrasse vos genoux,
-Écoutez ; c'est du moins la grâce que j'implore.
-
--*who_ulysse
-Demeurez, Grecs. Eh bien ?
-
--*who_hecube
-      Vous souvient-il encore,
-Ulysse, de ce jour où, surpris, enchaîné,
-À mes pieds, pour mourir, vous fûtes amené ?
-J'étais reine, et tenais dans mes mains votre vie ;
-Je n'avais qu'à parler, un mot vous l'eût ravie.
-Vos exploits, nos revers, que j'aurais pu prévoir,
-Tout de votre trépas me faisait un devoir.
-Vous demandâtes grâce, et soudain vous l'obtîntes ;
-La générosité l'emporta sur mes craintes ;
-Je vous fis échapper des remparts des Troyens,
-Pour leurs malheurs, hélas ! Et surtout pour les miens.
-Vous en souvenez-vous ?
-
--*who_ulysse
-      Ah ! Gardez-vous de croire
-Que d'un si grand bienfait je perde la mémoire.
-
--*who_hecube
-Vous vous en souvenez ! Vous l'avouez, cruel !
-Et, ravissant ma fille à mon coeur maternel,
-Vous pouvez me montrer autant d'ingratitude !
-Vous me portez un coup si sensible et si rude,
-Vous à qui, par mes soins, le jour fut conservé !
-Vous me donnez la mort, quand je vous ai sauvé.
-Non, ne me l'ôtez point ; son nom est-il un crime ?
-Si la tombe d'Achille exige une victime,
-Sacrifiez Hélène, auteur de tous les maux,
-Qui causa le trépas d'Achille et des héros,
-Furie, ainsi qu'à Troie, à la Grèce funeste.
-Mais pourquoi de mon sang me demander le reste ?
-Ma fille n'a rien fait que pleurer son pays.
-Ulysse, tu me vois ainsi que je te vis,
-À des pieds ennemis prosternée et tremblante,
-Tendre, au milieu des fers, une main suppliante :
-Tu pressas mes genoux, et je presse les tiens ;
-J'eus pitié de tes maux, prends donc pitié des miens.
-Comme je t'ai sauvé, sauve aussi Polixène.
-Je dois bien rester mère, en cessant d'être reine.
-J'ai besoin de ma fille : elle me rend mes fils,
-Mon trône, mon époux, et nos remparts détruits ;
-Je ne demande point qu'ils sortent de leur cendre :
-Je n'ai plus un Hector, hélas ! Pour les défendre;
-Je n'ai plus que ma fille, et ne veux qu'elle enfin.
-Souffre, qu'auprès de moi prolongeant son destin,
-Elle ferme mes yeux à mon heure suprême.
-Que dis-je ? En elle, en moi respecte-toi toi-même ;
-Respecte ta couronne, et montre à l'univers
-Ce qu'on doit à des rois, même au sein des revers.
-Ta voix de l'éloquence étale tous les charmes :
-Va parler à l'armée en faveur de mes larmes ;
-Fais révoquer aux Grecs leurs odieux arrêts.
-D'une mère, en tes mains, je mets les intérêts :
-Ulysse est père, il doit secourir une mère.
-
--*who_ulysse
-Madame, je gémis que mon devoir austère
-Ne me permette pas, d'accord avec mes voeux,
-De payer aujourd'hui vos secours généreux ;
-Mais la Grèce a besoin du sang de la princesse.
-Si j'osais la sauver, je trahirais la Grèce,
-Et je ne puis, rompant un si sacré lien,
-Pour n'être point ingrat, n'être plus citoyen.
-D'ailleurs trahirons-nous Achille et sa mémoire ?
-Ce héros, immolé dans les bras de la gloire,
-En rompant sous ses coups vos escadrons épars,
-En frappant les héros, soutiens de vos remparts,
-Et surtout le plus grand qui marchait à leur tête,
-D'Ilion ébranlé prépara la conquête....
-Et nous refuserions à son ombre en courroux,
-Vainqueurs par lui, le sang dont il paraît jaloux !
-Vous craignez de pleurer une fille immolée !
-Hélas ! Comme llion, la Grèce est désolée.
-Que de veuves en deuil y pleurent un époux !
-Que de mères, un fils qu'Hector perça de coups !
-Hécube, abandonnez votre fille à la Grèce.
-Vous qui m'avez sauvé, dont le sort m'intéresse,
-Suivez-moi dans ma cour, venez dans mon palais ;
-C'est là que vous attend le prix de vos bienfaits.
-Pénélope saura vous y traiter en reine.
-Auprès de moi, soldats, amenez Polixène.
-
--*who_hecube
-Ah ! Seigneur !... Ah ! Cruels, vous n'obéirez pas ;
-Arrêtez, je me jette au-devant de vos pas :
-C'est moi qu'il faut frapper ; dans le sang d'une mère
-Contentez, épuisez une soif sanguinaire.
-
--*who_ulysse
-Amenez Polixène.
-
-**** *book_ *id_III04 *act_III *date_(inc
-
--*who_polixene
       Ulysse, la voici.
 
--*who_hecube
-Ma fille, que fais-tu ? Dois-tu paraître ici ?
-Viens-tu t'offrir toi-même à ta mort qui s'apprête ?
-
--*who_polixene
 Oui, Seigneur, en vos mains je remets cette tête
 À qui les Dieux, des Grecs attachent le retour.
 Je ne vous prierai pas de me sauver le jour.
@@ -1076,34 +1337,6 @@ Vous devez préférer mon honneur à ma vie :
 J'appris toujours de vous à craindre l'infamie.
 Adieu, ma mère.
 
--*who_hecube
-      Ah ! Grecs, si du fils de Thétis
-Vous vengez le trépas que causa seul Pâris,
-Présentez à son ombre une offrande plus chère.
-De Pâris, sur sa tombe, immolez donc la mère.
-Enfoncez le couteau dans ce coupable sein
-Qui de Troie et d'Achille a formé l'assassin.
-Frappez : c'est mon sang seul qu'il faut que l'on répande.
-
--*who_ulysse
-Des jours de Polixène Achille veut l'offrande.
-
--*who_hecube
-Eh bien ! Joignez mon sang à son sang malheureux.
-Au lieu d'une victime Achille en aura deux.
-
--*who_ulysse
-Sa mort est déjà trop sans y joindre le vôtre ;
-Que ne m'est-il permis de sauver l'une et l'autre !
-
--*who_hecube
-Il faudra nous unir par des noeuds éternels :
-Venez donc l'arracher de mes bras maternels.
-
--*who_ulysse
-Madame....
-
--*who_polixene
       Ménagez une mère éplorée,
 Prince. Et vous, n'allez point, d'une ardeur égarée,
 Combattant les désirs de nos cruels vainqueurs,
@@ -1118,237 +1351,20 @@ Ma mère, embrassons-nous : permettez que ma voix
 Vous donne encor ce nom pour la dernière fois.
 Ma mère !
 
--*who_hecube
-      Hélas, je vais bientôt cesser de l'être !
-Ô gage le plus cher des feux qui t'ont fait naître,
-Tu meurs !
-
--*who_polixene
       Vous connaissez mes sentiments secrets ;
 Vous savez, en mourant, pour qui sont mes regrets.
 Où laissé-je après moi la mère la plus tendre ?
 
--*who_hecube
-Dans des lieux où son coeur ne pourra plus t'entendre.
-
--*who_polixene
 Que dirai-je à Priam, à votre fils Hector ?
 
--*who_hecube
-Qu'Hécube a perdu tout, et qu'elle vit encor.
-Ô reste malheureux de toute ma famille !
-
--*who_polixene
 Adieu, ma mère...
 
--*who_hecube
-      Eh bien, tu me quittes, ma fille !
-
--*who_polixene
 Il m'en coûte. Sortons, Ulysse, de ces lieux.
 Je sens que ses douleurs, et ses derniers adieux
 Dans mon âme étonnée éveillent les alarmes :
 Je vois la mort sans crainte, et ne puis voir ses larmes.
 Partons, prince.
 
--*who_ulysse
-      Ô grandeur, que je ne conçois pas !
-En répandant des pleurs, je vous mène au trépas.
-
-**** *book_ *id_III05 *act_III *date_(inc
-
--*who_hecube
-On l'entraîne ! Et des Grecs toi-même, hélas ! Complice,
-Ma fille, tu me fuis pour courir au supplice !
-Je perds donc le dernier de mes nombreux enfants,
-Le seul que j'ai sauvé, l'appui de mes vieux ans !
-Mais que dis-je ? Son sang ne coule point encore ;
-Courons encor parler pour ce sang que j'adore.
-D'Agamemnon lui-même osons briguer l'appui,
-D'Agamemnon !... Ô ciel ! Et qu'attendre de lui ?
-Il leva sur sa fille une main sanguinaire ;
-Pourra-t-il être ému des douleurs d'une mère ?
-N'importe, à ses genoux il faut tomber soudain,
-Il faut prier Calchas, et tous les Grecs enfin :
-Au dernier des soldats il faut porter mes larmes.
-Dieux ! Si votre courroux a protégé leurs armes,
-En faveur d'une mère amollissez leurs coeurs ;
-Faites, faites près d'eux trouver grâce à mes pleurs.
-Perdant ma liberté, mon sceptre, et ma famille,
-Je mérite qu'au moins vous me laissiez ma fille.
-
-**** *book_ *id_IV01 *act_IV *date_(inc
-
--*who_phenix
-Le sang de Polixène aux Grecs est donc promis ?
-
--*who_pyrrhus
-Je venais d'essuyer ses refus, ses mépris,
-Phénix, quand tous les Grecs, éclatant en murmures
-M'offrant leur sein couvert de nombreuses blessures,
-Invoquant mon honneur, attestant mes succès,
-M'ont demandé les vents, dernier de mes bienfaits :
-Dans un premier moment de dépit et de haine,
-J'ai promis de verser le sang de Polixène,
-J'ai juré son trépas ; mais, cet instant passé,
-J'ai, Phénix, entendu gémir l'amour blessé,
-Et, ne voyant plus rien que la mort d'une amante
-Ce coeur redemander sa promesse imprudente.
-
--*who_phenix
-Non, vous ne la pourrez retirer désormais :
-Le serment est un joug qui ne se rompt jamais.
-
--*who_pyrrhus
-Qui veux-tu que j'immole ? Une femme adorée,
-Que son malheur surtout doit me rendre sacrée,
-Que, malgré les dédains dont son coeur est armé,
-J'aime, comme peut-être on n'a jamais aimé.
-Qui ? Moi ! Qu'aux yeux des Grecs, complice de leur crime,
-Tranquille, et mesurant mes coups sur ma victime...
-Non, Phénix, non jamais je n'aurai ce pouvoir.
-
--*who_phenix
-Croyez-moi, vous l'aurez si vous voulez l'avoir,
-Seigneur. Si vous n'osez immoler une amante,
-Vous perdez la patrie, à vos pieds suppliante ;
-Vous plongez, pour sauver un objet adoré,
-Au sein qui vous fit naître, un bras dénaturé ;
-Et, hasardant nos jours pour défendre sa vie,
-Sur le front de vingt rois levez un glaive impie.
-Que dis-je ? Dérobant aux mânes paternels
-Ces funèbres honneurs, ces tributs solennels,
-Qui consolent les morts sur le rivage sombre,
-D'Achille, en son tombeau, vous laissez gémir l'ombre.
-Agamemnon, pour nous, d'un coeur obéissant,
-Donna sa fille aux Dieux qui demandaient son sang...
-Et vous...
-
--*who_pyrrhus
-      Il ne l'a pas lui-même poignardée.
-
--*who_phenix
-Il l'eût fait, si sa main eût été demandée.
-Ulysse vient.
-
--*who_pyrrhus
-      Ulysse ! Ô Dieux trop inhumains,
-Combien vous vendez cher quelque gloire aux humains !
-
-**** *book_ *id_IV02 *act_IV *date_(inc
-
--*who_ulysse
-Polixène, à sa mère à l'instant dérobée,
-Par mes soins vigilants en nos mains est tombée, Seigneur.
-
--*who_pyrrhus
-Hélas ! Phénix !
-
--*who_ulysse
-      Ces augustes mortels,
-Ministres consacrés au culte des autels,
-L'environnent : leurs mains, qui portent nos offrandes
-Étendent sur son front ces festons, ces guirlandes,
-Ce bandeau, du supplice odieux ornements,
-Et lui font de la mort prendre les vêtements.
-Il faut, vous le savez, que votre main l'immole.
-Ou n'attend plus que vous.
-
--*who_pyrrhus
-      J'ai donné ma parole....
-Je la tiendrai, Seigneur.
-
--*who_ulysse
-      Je vais la faire entrer.
-Songez qu'à cette tombe elle doit expirer,
-Seigneur : n'écoutez plus une pitié funeste,
-Et d'un sang nécessaire accordez-nous le reste.
-Nous osons y compter.
-
--*who_pyrrhus
-      Il suffit, je l'attends ;
-Vous pouvez l'amener.
-
-**** *book_ *id_IV03 *act_IV *date_(inc
-
--*who_pyrrhus
-      Eh bien, es-tu content ?
-Suis-je assez inhumain ? Suis-je assez sanguinaire ?
-Ai-je bien fait, Phénix, ce que je devais faire ?
-Dieux !
-
--*who_phenix
-      J'étais sûr de vous.
-
--*who_pyrrhus
-      Moi, je ne le suis pas :
-Je sens déjà trembler mon courage et mon bras.
-Ô ciel ! Lorsque amenée à cette horrible fête,
-Polixène au couteau présentera sa tête,
-Ce front majestueux dont les charmes puissants
-Égarent ma raison, et séduisent mes sens,
-Pourrai-je, quel que soit le devoir qui me guide,
-Laisser tomber sur elle un poignard homicide ?
-
--*who_phenix
-L'honneur vous applaudit, laissez gémir l'amour.
-Ne voyez que les Grecs, qui vont, dans leur retour.
-Remplir les vastes mers, du Sigée au Bosphore,
-Du bruit de ce grand nom que l'univers honore.
-
--*who_pyrrhus
-Je vais, seul de ces bords, partir sur mes vaisseaux
-Qui devaient avec moi la porter sur les eaux !
-Son urne est le seul bien où je pouvais prétendre,
-Et je ne devais donc emporter que sa cendre !
-
--*who_phenix
-Écartez loin de vous ces pensers douloureux.
-
--*who_pyrrhus
-C'en est fait, me voilà pour toujours malheureux.
-Toujours je croirai voir ces bords que je déteste,
-Ce tombeau, ce poignard, cette pompe funeste,
-Cet objet tout sanglant que devait protéger
-Ce bras, ce même bras armé pour l'égorger.
-Je n'oserai jamais me regarder moi-même,
-Malheureux ! Tout couvert du sang de ce que j'aime.
-Qu'ai-je promis ?
-
--*who_phenix
-      On vient, Seigneur, on vient : pensez
-Que tous les Grecs sur vous ont leurs regards fixés.
-
--*who_pyrrhus
-Eh bien ! Dieux du trépas, ô vengeance, ô colère,
-Affermissez ce bras qui s'arme pour un père.
-Et toi, grande ombre, au gré de ton cruel courroux,
-Viens, toi-même, marquer la place de mes coups.
-Regarde-la, Phénix. Quel homme assez barbare
-Peut jamais égorger une beauté si rare ?
-
-**** *book_ *id_IV04 *act_IV *date_(inc
-
--*who_calchas
-Rois, vainqueurs d'Ilion aux feux abandonné,
-Fiers vengeurs de l'hymen par Pâris profané,
-je ne vous trompe point. Polixène est l'offrande
-Qu'élevé sur les flots, Achille vous demande.
-Dès que sur son tombeau son sang aura coulé,
-Je vous promets le vent par vos voeux appelé.
-Prix de votre retour, lui seul peut vous le rendre.
-Vous donc, jeune Pyrrhus, chargé de le répandre.
-Prenez ce fer, frappez.
-
--*who_pyrrhus
-      Tout mon sang s'est glacé,
-J'ai cru que dans mon sein il l'avait enfoncé.
-
--*who_calchas
-Vous, ministres des Dieux, votre victime est prête.
-Saisissez Polixène, et vers la tombe....
-
--*who_polixene
       Arrête.
 Sur la fille des rois ne porte pas la main :
 Elle-même au couteau va présenter son sein.
@@ -1387,67 +1403,39 @@ Je vous fais mes adieux du bord de mon tombeau,
 Je suis prête : Pyrrhus, viens frapper ta victime.
 Viens...
 
--*who_pyrrhus
-      Affermis ma main, ombre qui veux ce crime.
-Conduis-moi, Phénix.... Non, je ne le pourrai pas.
-
--*who_phenix
-Seigneur...
-
--*who_pyrrhus
-      Allons ;... la terre a tremblé sous mes pas ;
-Je me meurs.
-
--*who_phenix
-      De ses sens il a perdu l'usage.
-
--*who_pyrrhus
-Où suis-je ? Mes regards sont couverts d'un nuage.
-Polixène... Les Grecs... Ô forfaits !... Ô remords !...
-J'erre, seul et tremblant, sur la rive des morts.
-Un poignard !... Ah ! Grands Dieux !
-
--*who_polixene
       Frappe, voilà ma tête.
 
--*who_pyrrhus
-C'est vous !... Eh bien !... Il faut...
-
--*who_polixene
       Frappe donc: qui t'arrête ?
 Ta main chancelle....
 
--*who_pyrrhus
-      Non, non, vous ne mourrez pas.
-C'en est fait, vos regards ont désarmé mon bras.
-Un moment a changé mes desseins sanguinaires.
-Ne craignez rien, vos jours me sont trop nécessaires ;
-Loin de trancher leur cours, je veux les conserver ;
-Je prétends malgré vous, vous servir, vous sauver.
-La haine peut rester dans votre ame irritée,
-Je n'en murmure point, je l'ai trop méritée.
-Mon sceptre, et les doux noeuds, dont se flattait mon coeur,
-Je cesse d'en parler, puisqu'ils vous font horreur
-Je ne prétendrai plus qu'au droit de vous défendre.
-Ô tombe d'un héros, grande ombre, auguste cendre,
-Ô toi qui fut Achille, ô mânes paternels,
-Ces transports, à vos yeux, ne sont point criminels.
-Vous n'avez pu vouloir la vertu pour victime.
-Je vous honore mieux, en vous sauvant un crime.
-Achille, en te prêtant un homicide voeu,
-Ils te font homme encor, moi, je te fais un dieu.
-Madame, allons, je vais vous rendre à votre mère.
+Le meurtrier du mien ! Respectez ma misère.
+La force, et non le soin d'éviter le trépas,
+M'a contrainte à l'affront de marcher sur ses pas.
+J'attends ici les Grecs, la mort est mon partage.
 
--*who_phenix
-Que faites-vous ? Des Grecs redoutez la colère.
+Ciel ! Où me réduis-tu ! Quelle honte pour moi !
 
--*who_pyrrhus
-Mes amis, suivez-moi, sans craindre leur courroux.
-Votre appui, votre roi, Pyrrhus est avec vous.
+Donne le fer, je meurs.
 
-**** *book_ *id_IV05 *act_IV *date_(inc
+      Ne me plaignez pas,
+Ma mère, je meurs libre, et je meurs dans vos bras.
 
--*who_calchas
+
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_calchas
+
+Rois, vainqueurs d'Ilion aux feux abandonné,
+Fiers vengeurs de l'hymen par Pâris profané,
+je ne vous trompe point. Polixène est l'offrande
+Qu'élevé sur les flots, Achille vous demande.
+Dès que sur son tombeau son sang aura coulé,
+Je vous promets le vent par vos voeux appelé.
+Prix de votre retour, lui seul peut vous le rendre.
+Vous donc, jeune Pyrrhus, chargé de le répandre.
+Prenez ce fer, frappez.
+
+Vous, ministres des Dieux, votre victime est prête.
+Saisissez Polixène, et vers la tombe....
+
 Lâches Grecs, vous laissez échapper la victime !
 Vous souffrez que Pyrrhus insolemment opprime,
 Vous, vos droits, les autels, et brave, sans remords,
@@ -1491,31 +1479,6 @@ Arracher avec moi la victime à Pyrrhus.
 Mars ne trahira point la cause la plus juste.
 La victoire est à vous ; venez...
 
--*who_ulysse
-      Organe auguste
-Des célestes secrets, à vos yeux déployés,
-Loin de vous ce soupçon que les Grecs effrayés
-Craignent du fier Pyrrhus les transports redoutables.
-D'un long siège douteux les travaux innombrables
-Nous ont accoutumés à braver le trépas,
-Et de nos coeurs guerriers l'effroi n'approche pas.
-Mais, quoique ses refus trahissent la patrie,
-Nous devons des égards au vainqueur de l'Asie.
-Faut-il, quand nos succès ne sont dûs qu'à son bras,
-Trop prompts à le punir, nous hâter d'être ingrats ?
-L'espoir n'est point perdu, j'ose du moins le croire.
-Il se souvient toujours d'Achille et de la gloire ;
-Attendons son retour, il ne faut que du temps.
-Il nous sera rendu par les mépris constants
-De cet objet si fier, qui le fuit et l'abhorre ;
-Et s'il a pu changer, il peut changer encore.
-Mais s'il n'abjure enfin ses coupables refus,
-Levons sur lui le glaive, et ne l'épargnons plus.
-Vengeur des opprimés, le ciel fera le reste.
-
-**** *book_ *id_IV06 *act_IV *date_(inc
-
--*who_calchas
 Oui, mais pour consulter la volonté céleste,
 Qu'aux autels, dans le camp, l'encens religieux
 En un prompt sacrifice interroge les Dieux.
@@ -1524,165 +1487,6 @@ S'ils se taisaient, osons inventer leur réponse.
 Le trône est triomphant, et l'autel perd ses droits,
 Si le prêtre toujours n'épouvante les rois.
 
-**** *book_ *id_V01 *act_V *date_(inc
-
--*who_hecube
-Où donc est Polixène, et ces Grecs homicides ?
-J'ai volé sous leur tente, auprès des fiers Atrides ;
-J'espérais, qu'attendris par mes pleurs répandus,
-Ils retiendraient leurs bras sur ma fille étendus.
-Leur tente était déserte; encor plus éplorée,
-J'accours dans cette enceinte à sa mort consacrée,
-Et ma fille et les Grecs n'y frappent point mes yeux !
-Serait-il consommé ce sacrifice affreux ?
-De son trépas du moins je ne suis pas certaine !
-Tombe, où l'ordre d'Achille immole Polixène,
-As-tu déjà reçu l'offrande de sa mort ?
-Mais, lorsqu'à ce tombeau je demande son sort,
-Peut-être, ô coup affreux ! Ô mère infortunée!
-De ses mânes plaintifs je marche environnée,
-Je suis près de son ombre, et mes pas ont foulé
-La place criminelle où son sang a coulé.
-Mais que vois-je, grands Dieux ? Pyrrhus avec ma fille !
-Un cortège les suit ; dans sa main le fer brille.
-Voici l'instant si craint de mon coeur maternel !
-Ma fille vient périr à ce tombeau cruel !
-Nature, droits du sang, soutenez mon courage ;
-Que mon corps du tombeau leur ferme le passage.
-Sous les yeux d'une mère oses-tu l'immoler,
-Tigre ?
-
-**** *book_ *id_V02 *act_V *date_(inc
-
--*who_pyrrhus
-      Je vous la rends, cessez de vous troubler.
-
--*who_hecube
-Vous !... Ma fille !... Épargnez ce coeur qui vous implore :
-Me la rendriez-vous pour me l'ôter encore ?
-
--*who_pyrrhus
-Non ; tant que je verrai la clarté qui nous luit,
-C'est en vain que la Grèce et le sort la poursuit :
-De la Grèce et du sort je brave la furie ;
-Je mourrai, s'il le faut, pour défendre sa vie.
-Déja, pour l'immoler, j'avais levé le bras :
-Son front calme et tranquille à l'aspect du trépas,
-Son âge, ses vertus, sa beauté que j'adore,
-Et que sa mort prochaine embellissait encore,
-Ont arraché, Madame, à ce bras égaré,
-L'homicide couteau qu'ils appellent sacré.
-Plein d'un zèle plus fait pour un coeur magnanime,
-Au lieu de l'immoler, j'ai sauvé la victime ;
-Je l'ai ravie aux Grecs, que j'ai fait tous trembler
-En saisissant ce fer qui peut les accabler,
-Et vous l'amène, encor la tête couronnée
-Des festons dont les Grecs, pour sa mort, l'ont ornée.
-
--*who_hecube
-Tombez, voiles de mort, ornements inhumains,
-Tombez tous, déchirés par mes tremblantes mains.
-Viens, Polixène, viens dans les bras de ta mère.
-Vous montrez bien, Seigneur, qu'Achille est votre père,
-Achille, né du sang de Thétis et des Dieux,
-Qui, comme eux invincible, et pardonnant comme eux,
-Fléchi par mon époux, à sa main suppliante,
-Rendit d'Hector meurtri la dépouille sanglante.
-Vous, vous rendez ma fille à mes sens désolés.
-Pardonnez-lui, Troyens, sous son bras immolés;
-Vos rois, dans leur vainqueur, ne trouvent plus qu'un père.
-
--*who_polixene
-Le meurtrier du mien ! Respectez ma misère.
-La force, et non le soin d'éviter le trépas,
-M'a contrainte à l'affront de marcher sur ses pas.
-J'attends ici les Grecs, la mort est mon partage.
-
--*who_hecube
-Ah ! Seigneur, excusez cet imprudent langage,
-Cet orgueil, pardonnable, hélas ! Aux malheureux,
-Reste de la fierté qu'inspire un sang fameux,
-Je crains que vos bontés...
-
--*who_pyrrhus
-      Votre crainte m'outrage.
-Sa fermeté qui flatte en secret mon courage
-De mes soins, à mes yeux, la rend plus digne encor,
-Et mon sang doit en tout vaincre le sang d'Hector.
-Je ne trahirai point ce qui m'est cher.
-
--*who_hecube
-      Ulysse !
-Je crains toujours sa vue.
-
-**** *book_ *id_V03 *act_V *date_(inc
-
--*who_ulysse
-      Un nouveau sacrifice,
-Sur vos cruels refus, aux autels couronnés,
-Vient d'être offert, Seigneur, par les Grecs consternés
-À peine au ciel l'encens a porté leur demande,
-Le ciel parle, et Calchas, en son nom, leur commande
-De voler au combat et de venger leurs droits.
-Tout le camp, qui des Dieux croit entendre la voix,
-Rempli d'un saint transport, s'arme et vers vous s'avance ;
-Pour les Grecs et pour vous, j'accours, je les devance,
-Songez...
-
--*who_pyrrhus
-      Épargnez-vous un stérile entretien :
-Quels que soient vos efforts, vous ne gagnerez rien.
-
--*who_ulysse
-Répandrez-vous le sang que vous avez fait vaincre ?
-Verserons-nous le vôtre afin de vous convaincre ?
-Cédez, cédez aux Grecs, il en est encor temps.
-
--*who_pyrrhus
-Qu'ils viennent m'attaquer, Seigneur, je les attends.
-
--*who_ulysse
-Toi qui, dans ce tombeau, dois frémir de l'entendre,
-Tu vois, ce n'est point nous qui volons à ta cendre
-Ces tributs, ces honneurs demandés par tes cris,
-Achille, c'est Pyrrhus, ton fils, ton propre fils !
-Nous allons contre lui défendre ta mémoire.
-Sors donc de ce tombeau dont il trahit la gloire ;
-Viens guider tes vengeurs ; et, conduisant nos coups,
-Fais marcher la victoire, avec toi, devant nous.
-
-**** *book_ *id_V04 *act_V *date_(inc
-
--*who_phenix
-Seigneur, les Grecs armés ici se précipitent ;
-Agamemnon, Calchas, les guident, les excitent ;
-Votre nom remplit l'air, je vole, et mon secours...
-
--*who_pyrrhus
-Ils le veulent, je vais les combattre, je cours,
-Plein de votre intérêt, à qui cède tout autre,
-Me venger dans leur sang d'avoir versé le vôtre.
-La servir, la sauver est mon premier devoir.
-Demeurez dans ces lieux, où vous m'allez revoir.
-Trop heureux, si je puis, légitimant ma gloire,
-Forcer sa haine enfin d'absoudre ma victoire !
-
--*who_polixene
-Ciel ! Où me réduis-tu ! Quelle honte pour moi !
-
-**** *book_ *id_V05 *act_V *date_(inc
-
--*who_ulysse
-Amour, où conduis-tu le coeur qui suit ta loi ?
-Dois-je m'en étonner, près d'Ilion en cendre ?
-Mais déjà du combat le bruit se fait entendre.
-Allons donc, près des Grecs que je dois secourir,
-Et combattre Pyrrhus, et le vaincre, ou mourir.
-Que vois-je ? Vous, Calchas !
-
-**** *book_ *id_V06 *act_V *date_(inc
-
--*who_calchas
       Nul espoir ne nous reste.
 Pyrrhus combat les Grecs dans ce moment funeste.
 Il combat et son père, et les Dieux ; le Destin
@@ -1701,51 +1505,8 @@ J'ose espérer qu'Achille, au rivage des morts,
 Dans ce désordre affreux, content de nos efforts,
 Acceptera ce sang que Pyrrhus dut répandre.
 
--*who_hecube
-Non, cruels, contre vous je saurai le défendre.
-
--*who_polixene
-Donne le fer, je meurs.
-
--*who_hecube
-      Dieux !
-
--*who_polixene
-      Ne me plaignez pas,
-Ma mère, je meurs libre, et je meurs dans vos bras.
-
--*who_hecube
-Hélas ! Mes vains efforts n'ont pu sauver ma fille !
-Elle meurt ! De ma triste et nombreuse famille,
-Il ne reste plus rien à mon coeur attendri ;
-Ilion, Ilion tout entier a péri.
-Elle meurt ! Sous mes yeux ! Dans les bras de sa mère !
-Et son sang malheureux me couvre tout entière !
-Venge une mère, ô ciel ! D'un vainqueur odieux !
-Je le suis.... l'avenir se découvre à mes yeux.
-Je vois de tous côtés les vents et les tempêtes,
-Et la foudre, grondant sur leurs coupables têtes,
-Disperser leurs vaisseaux sur les flots mutinés.
-Je vois l'impie Ajax, dans les airs étonnés,
-Enlevé palpitant, et les roches fumantes
-Recevoir de son corps les dépouilles sanglantes ;
-Le bras d'Idoménée au sein d'un fils plongé.
-Je vois Agamemnon dans Argos égorgé,
-Des adultères mains d'une épouse égarée ;
-Et dans des noeuds sanglants au supplice livrée,
-Hélène, qui de Troie a causé le revers,
-Expier sa beauté, fatale à l'univers.
-Et toi, perfide Ulysse, après avoir sur l'onde
-Traîné, dix ans entiers, ta flotte vagabonde,
-À travers les dangers, rendu dans ton pays,
-Va présenter ta tête au glaive de ton fils.
-Ô Dieux, ne trompez pas une si douce attente.
-Je meurs, dans cet espoir, et tranquille, et contente.
-C'en est fait, et j'attends au séjour du trépas
-Tous les Grecs, qui bientôt y viendront sur mes pas.
-
--*who_calchas
 Achille est satisfait, et sa tombe est calmée.
 J'entends souffler les vents sur la mer ranimée ;
 Allons donc à Pyrrhus épargner des forfaits,
 Et d'un départ trop lent achever les apprêts.
+

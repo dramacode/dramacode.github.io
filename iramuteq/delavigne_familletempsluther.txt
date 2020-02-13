@@ -1,969 +1,93 @@
 
 
-**** *book_ *id_I01 *act_I
+**** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paolo
 
--*who_luigi
-Bible, manne céleste, adorable parole,
-Livre qu'on peut nommer le livre qui console,
-OEuvre de vérité, dont chaque mot guérit
-Une douleur de l'âme, une erreur de l'esprit,
-Je jure d'accomplir tes préceptes austères
-Et baise avec ardeur tes sacrés caractères !
-
--*who_thecla
-Bien ! Gloire à Dieu, Luigi ! Du moins mon premier-né
-Suit l'exemple pieux qu'à deux fils j'ai donné.
-Puissé-je voir ton frère entrer dans cette voie,
-Et comme Siméon je mourrai de ma joie.
-
--*who_luigi
-Cher Paolo !
-
--*who_thecla
-      Rougis de son aveuglement.
-
--*who_luigi
-J'en gémis.
-
--*who_thecla
-      Il s'y plaît, s'attache obstinément
-À Rome, à ce cadavre, à cette chair impure
-Qu'un souffle de Luther a mise en pourriture.
-
--*who_luigi
-Triste erreur !
-
--*who_thecla
-      Crime horrible envers le Dieu jaloux !
-
--*who_luigi
-Ce Dieu repousse-t-il Montalte, votre époux,
-Mon père, qui, les yeux fermés à la lumière,
-Mourut dans les liens de votre foi première ?
-Lui, si tendre, si bon §
-
--*who_thecla
-      Mais catholique !
-
--*who_luigi
-      Aimé
-Du pauvre qu'il aimait.
-
--*who_thecla
-      Catholique ?
-
--*who_luigi
-      Estimé,
-Béni, pleuré de tous.
-
--*who_thecla
-      Et digne qu'on le pleure,
-Que je regretterai jusqu'à ma dernière heure ;
-Mais catholique, enfin!
-
--*who_luigi
-      Et ne l'étiez-vous pas
-Quand un voyage heureux porta vers vous ses pas ?
-Gentilhomme romain, dans cette métairie
-Il oublia pour vous sa brillante patrie.
-C'est un prêtre romain qui vous unit tous deux ;
-Une église d'Augsbourg fut témoin de vos noeuds.
-
--*who_thecla
-Église alors, mon fils ; mais nos ardents hommages
-Au ciel, en holocauste, ont offert ses images,
-Ses marbres, ses tableaux, jusqu'à ce Raphaël,
-Dont les lambeaux brûlants sont tombés sur l'autel.
-
--*who_luigi
-Hélas !
-
--*who_thecla
-      Point de soupir ! Laissez à l'Italie
-D'un culte qui se meurt l'idolâtre folie.
-Le courroux des élus fit oeuvre de raison
-Lorsqu'on brûlant un meuble il sauva la maison,
-Et, sans votre séjour dans une autre Gomorrhe,
-Vous n'auriez pas, mon fils, pour des arts que j'abhorre,
-Des simulacres vains, sans vie et sans pouvoir,
-Ces mollesses de coeur que j'ai honte à vous voir.
-
--*who_luigi
-Il est vrai, j'admirai dans mon adolescence
-Et Rome, et son soleil, et sa magnificence /
-Par Montalte avec moi mon frère y fut conduit ;
-Quel oeil de ses splendeurs n'eût pas été séduit ?
-
--*who_thecla
-Ce fut alors qu'au sein de son humble servante
-Descendit du Seigneur la parole vivante ;
-Mais par vous aux faux dieux Paolo confié
-Ne suça point ce lait qui l'eût purifié.
-
--*who_luigi
-Un prélat lui promit honneurs, crédit, richesse...
-
--*who_thecla
-Et, prélat ! Qu'il était, ne tint pas sa promesse.
-L'Ecclesiaste a dit : « Tout n'est que vanité. »
-Paolo se crut riche, et pauvre il est resté.
-
--*who_luigi
-Nous revinmes sans lui.
-
--*who_thecla
-      Confiance imprudente !
-
--*who_thecla
-Qui l'excuse du moins. Son humeur sombre, ardente,
-Ses désirs excités et jamais assouvis,
-S'irritaient, s'ennammaientau fond des saints parvis :
-Son coeur s'y consumait en extases mystiques,
-Comme les pâles feux mourant sous leurs portiques,
-Et dans les flots d'encens de leurs solennités
-Vers les cieux s'exhalait, ivre de voluptés ;
-Mais quels attraits divins lui paraient son idole ;
-Pompe auguste, rayons d'une triple auréole,
-Gloiremorteet vivante, oeuvre des arts, beauxjours...
-Ah ! Quand on les a vus, on y rêve toujours.
-
--*who_thecla
-Au moment d'abjurer la loi qu'on y professe,
-Vers sa fange, mon fils, quel regret vous rabaisse ?
-
--*who_luigi
-Non, de Rome pour moi craignez peu le poison :
-Ce qui charme mes sens y blesse ma raison.
-
--*who_thecla
-Et vous la détestez en secouant sa chaine ?
-
--*who_luigi
-J'abjure sans regret, mais j'abjure sans haine.
-
--*who_thecla
-De la robe du Christ qui revêt la blancheur
-Doit haïr le péché.
-
--*who_luigi
-      Mais non pas le pécheur.
-
--*who_thecla
-Jusqu'au pécheur lui-même, alors qu'il persévère,
-Fût-ce un frère, le vôtre ; oui, votre propre frère.
-
--*who_luigi
-Paolo !
-
--*who_thecla
-      De mon coeur je le chasse aujourd'hui.
-
--*who_luigi
-Qui ? Vous ?
-
--*who_thecla
-      Je l'en arrache, et je ne vois en lui
-Qu'une âme par l'orgueil de lèpre dévorée,
-Qu'une impure brebis d'Israël séparée,
-Loin du bercail céleste errant à l'abandon,
-Et pour qui je n'ai plus ni baisers ni pardon.
-
--*who_luigi
-Une mère !
-
--*who_thecla
-      Qui ? moi ! redevenir la sienne !
-Jamais ! Et c'est ainsi qu'une mère est chrétienne.
-
--*who_luigi
-Mais s'il vous tend les bras...
-
--*who_thecla
-      Je ferai mon devoir :
-Jamais !
-
--*who_luigi
-      Et cependant vous allez le revoir.
-
--*who_thecla
-Qu'entends-je ?... Il cède enfin à vos longues prières?
-
--*who_luigi
-De lui-mème il revient.
-
--*who_thecla
-      Pour fermer mes paupières ?
-
--*who_luigi
-Pour réjouir vos yeux.
-
--*who_thecla
-      L'absent revient à nous !
-Ta servante, ô mon Dieu, t'en rend grâce à genoux.
-
--*who_luigi
-Ah ! Je vous reconnais.
-
--*who_thecla
-      Suis-je donc insensible ?
-Étouffer la nature, est-ce un effort possible ?
-Le voir après quinze ans ! Mon fils !... Il m'est rendu !
-Je puis mourir : le fils que je croyais perdu
-De sa vieille Thécla suivra les funérailles ;
-Lui, dont le doux fardeau fit frémir mes entrailles ;
-Lui, le sang de mon sang, le fruit de mes douleurs ;
-Ma voix expire et s'éteint dans mes pleurs.
-
--*who_luigi
-Les siens vont s'y mêler.
-
--*who_thecla
-      Me le cacher !
-
--*who_luigi
-      Sans doute
-J'eus tort ; mais.
-
--*who_thecla
-      Il arrive ! Et quand ? Par quelle route ?
-Comment ?
-
--*who_luigi
-      C'est aujourd'hui que nous l'embrasserons.
-
--*who_thecla
-Et peut-être, Luigi, nous le convertirons.
-
--*who_luigi
-N'y pensons que plus tard.
-
--*who_thecla
-      Ô joie inespérée !
-Sa chambre d'autrefois est-elle préparée,
-Celle où vos lits voisins se touchaient tous les deux ?
-
--*who_luigi
-Je la lui destinais.
-
--*who_thecla
-      Il faut encor... je veux....
-Marco ! M'entendra-t-il ? Marco !
-
-**** *book_ *id_I02 *act_I
-
--*who_marco
-      J'accours, maîtresse.
-
--*who_thecla
-Retrouve tes vingt ans, rajeunis d'allégresse :
-Mon Paolo revient.
-
--*who_luigi
-      Il le sait.
-
--*who_marco
-      Tout est prêt.
-
--*who_thecla
-Quoi ! La maison entière était dans le secret ?
-
--*who_luigi
-Jusqu'à ma fille Elci ; sans la connaître, il l'aime.
-
--*who_marco
-Nous serons donc céans deux à penser de même.
-
--*who_thecla
-Oui, catholique aussi !
-
--*who_luigi
-      Mais sage.
-
--*who_thecla
-      Ne va pas
-Prendre avec lui les airs de nous blâmer tout bas.
-
--*who_marco
-Que chacun suive en paix le culte qu'il préfère ;
-Choisir entre les deux n'est pas petite affaire.
-Le tisserand d'Augsbourg, Frantz, qui s'en est mêlé.
-En a l'esprit malade et le cerveau fêlé :
-Le mien tient bon ; je fais ce que faisait mon père,
-Et chrétien comme lui, je crois, j'aime et j'espère.
-
--*who_thecla
-C'est bien mais à quoi bon vos hymnes, votre encens,
-Vos cloches dont le branle assourdit les passants,
-Vos saints qu'un cierge éclaire et que votre oeil adore
-Sur la toile enfumée où le ver les dévore ?
-
--*who_luigi
-Est-ce donc le moment de prêcher un vieillard?'
-
--*who_thecla
-Pour corriger un fou jamais il n'est trop tard.
-
--*who_marco
-Fou ! Tant qu'il vous plaira ! Sans crier anathème,
-J'entends le son joyeux qui fêta mon baptême ;
-Je sens comme un besoin d'être meilleur encor
-Quand mon patron me luit dans son grand cadre d'or :
-Mains jointes devant moi, ce saint que je contemple
-M'encourage à prier en me donnant l'exemple.
-Un bel alleluia m'épanouit le coeur,
-Et je me fais plaisir quand je me mêle au choeur.
-Ma voix chevrote un peu, mais son timbre résonne,
-Et je ne vois pas, moi, sinon que je détonne,
-Quel grand mal je commets lorsque dans le saint lieu
-Je chante à plein gosier les louanges de Dieu.
-
--*who_thecla
-Mais le jour du repos, vous le passez en fête.
-
--*who_luigi
-Assez !
-
--*who_thecla
-      De vos refrains vous nous brisez la tête.
-
--*who_marco
-Je crois très fermement qu'au mépris de l'autel,
-Travailler le dimanche est un péché mortel :
-Et puissent me punir Rome et son saint collége,
-Si j'ai quelque accointance avec ce sacrilège !
-Mais des actes permis le rire est-il exclus?
-Vous et les dissidents.
-
--*who_thecla
-      Marco !
-
--*who_marco
-      Non ! Les élus :
-Froids, recueillis, muets, vous craignez, je suppose,
-D'éveiller de si loin Dieu quand il se repose.
-Dieu vous approuve, soit; mais en chantre zélé,
-Pour sa gloire au lutrin lorsqu'on s'est signalé,
-Défend-il de noyer au fond de quelque tonne
-La soif qu'il nous causa dans le vin qu'il nous donne ?
-Le refrain vient de source et chez maître Martin,
-Les coudes sur la table, autour du broc d'étain
-Qui passe en se vidant et repasse à la ronde,
-Nous célébrons celui qui fit l'homme et le monde,
-Et croyons qu'en buvant, qu'en chantant le vin vieux,
-Nous le glorifions dans ce qu'il fit de mieux.
-
--*who_thecla
-Ai-je mis à l'entendre assez de patience ?
-
--*who_luigi
-Montrez pour Paolo cette même indulgence.
-
--*who_thecla
-En aurai-je besoin ?
-
--*who_luigi
-      Cachez-lui qu'avant peu
-Je fais de mes erreurs l'éclatant désaveu.
-
--*who_thecla
-Le cacher !
-
--*who_luigi
-      S'il repart, ce coup toujours pénible,
-Mais reçu loin de nous, lui sera moin sensible :
-S'il reste, laissez-moi par mes ménagements
-D'un coeur qui va saigner adoucir les tourments.
-
--*who_thecla
-Peur terrestre, Luigi ! La vérité qui blesse,
-Je l'entends sans colère et la dis sans faiblesse.
-
--*who_marco
-Et s'il vous disait, lui... Ce que je ne dis point...
-
--*who_thecla
-Quoi ?
-
--*who_marco
-      Que mon maître et vous errez sur plus d'un point ?
-
--*who_thecla
-Merci de Dieu ! Marco, voulez-vous qu'on vous chasse?
-
--*who_marco
-Voilà comme elle entend la vérité.
-
--*who_luigi
-      De grâce,
-N'allez pas sur un mot prendre feu sans sujet ;
-Le pieux Mélanchton approuve mon projet :
-« Au fiel de ces débats qu'en famille on agite,
-L'amitié perd, dit-il, sans que la foi profite. »
-
--*who_thecla
-De notre grand Luther l'apôtre préféré
-Des lumières du siècle est sans doute éclairé ;
-Mais ne demandez pas à sa science humaine
-Ce courroux vigoureux, cette ferveur de haine
-Où son maître puisa l'àcre sincérité.
-Qui débordait en lui contre l'iniquité,
-Quand pour l'aveugle même il a rendu visible
-Jusqu'où pouvait faillir la parole infaillible,
-Et qu'il a mis à nu, de ses viriles mains,
-Tout ce ramas honteux de mensonges romains.
-Mélanchton, qui n'a point cette franchise amère,
-Eût-il pu rien détruire ?
-
--*who_luigi
-      Il peut fonder, ma mère :
-Dieu réserve à chacun l'oeuvre qu'il accomplit ;
-La violence abat, la douceur établit.
-Mais de vos deux enfants si l'intérêt vous touche,
-Par pitié, par amour, qu'il vous ferme la bouche.
-
--*who_thecla
-Ah ! Faible que je suis !
-
--*who_luigi
-      Cédez.
-
--*who_thecla
-      Pénible effort !
-
--*who_luigi
-Vous vous l'imposerez.
-
--*who_thecla
-      Si je puis ; mais j'ai tort.
-À ta langue, Marco, tu feras violence !
-
--*who_marco
-Mon amour pour la paix garantit mon silence.
-L'anneau de Salomon me répondrait du sien,
-Je ne m'y fierais pas.
-
--*who_thecla
-      Que murmurez-vous ?
-
--*who_marco
-      Rien.
-Mais j'aperçois Elci.
-
-**** *book_ *id_I03 *act_I
-
--*who_thecla
-      Venez, petite fille :
-Vous étiez contre moi du complot de famille.
-
--*who_elci
-Contre vous, bonne mère ! Ah ! Dites mieux, pour vous.
-Un plaisir qui surprend n'en est-il pas plus doux ?
-
--*who_luigi
-Avec l'aube naissante elle s'était levée.
-
--*who_marco
-Pour aller de son oncle épier l'arrivée.
-
--*who_elci
-Comment ne pas l'aimer ? Il m'aime, et tous les ans
-Je reçois de sa part quelques nouveaux présents.
-
--*who_luigi
-Oui, pauvre, il donne encor.
-
--*who_thecla
-      Ces cadeaux d'Italie,
-Je les crains.
-
--*who_elci
-      Et moi pas ; ils me rendent jolie.
-
--*who_thecla
-Aussi, pour votre bien, je vous dis sans détours
-Qu'un peu de vanité se sent dans vos atours.
-
--*who_elci
-Rien qu'un peu ?
-
--*who_luigi
-      C'est permis.
-
--*who_marco
-      L'Église, qu'elle imite,
-En parure de fête à se parer l'invite.
-
--*who_thecla
-Pas aujourd'hui Marco.
-
--*who_marco
-      Mais le jour du Seigneur.
-Chacun s'ajuste au mieux, et je m'en fais honneur
-Je tire l'habit neuf de l'armoire d'ébène,
-Et suis beau sans remords une fois par semaine.
-
--*who_elci
-Et ces atours d'ailleurs, qui les rend plus mondains ?
-Vous.
-
--*who_thecla
-      Moi ?
-
--*who_elci
-      Ces bijoux d'or sont un don de vos mains :
-Reprenez-les.
-
--*who_thecla
-      Prends garde.
-
--*who_elci
-      Osez.
-
--*who_thecla
-      Tu ris, friponne.
-
--*who_elci
-Vous n'oseriez.
-
--*who_luigi
-      Eh bien ! Tu n'as donc vu personne ?
-
--*who_elci
-Hélas ! Pas lui, du moins.
-
--*who_luigi
-      Mais, mon Elci, comment
-L'aurais-tu reconnu ?
-
--*who_elci
-      D'instinct, de sentiment :
-Mon coeur m'eût dit : c'est lui ! De plaisir transportée,
-En trois bonds dans ses bras je me serais jetée.
-
--*who_marco
-Au risque d'embrasser un passant tout surpris
-D'un bonheur imprévu qu'il n'aurait pas compris.
-
--*who_elci
-Lasse d'attendre enfin, j'ai fait comme l'abeille,
-Qui retourne au travail sitôt qu'elle s'éveille,
-Et, parfumée encor des courses du matin,
-Dans sa ruche en rentrant rapporte son butin.
-Je n'ai pas épargné les blés du voisinage ;
-Ces touffes de bluets en rendent témoignage ;
-Mon oncle aimait ces fleurs.
-
--*who_thecla
-      Il est vrai, quand jadis
-Le long des épis verts je suivais mes deux fils.
-
--*who_luigi
-Beaux jours !
-
--*who_elci
-      Prends pour orner la chambre qu'il préfère.
-
--*who_marco
-Voilà de quoi fleurir une chapelle entière.
-
--*who_luigi
-Aimable enfant, qui, tendre et folâtre à la fois,
-Chante, saute et s'ébat comme l'oiseau des bois.
-
--*who_elci
-La gaîté vous plaît tant !
-
--*who_thecla
-      Souvent je la vois grave.
-
--*who_elci
-Vous aimez qu'on le soit.
-
--*who_luigi
-      De tous nos goûts esclave.
-
--*who_thecla
-Devinant tous nos voeux !
-
--*who_marco
-      Écoutant sans dédain
-Les contes que je fais, quand elle est au jardin.
-
--*who_elci
-Mais du pauvre conteur les fruits sont au pillage.
-
--*who_marco
-Cueillez, coupez, pillez ; il en vient davantage :
-C'est bénédiction.
-
--*who_luigi
-      Ange, qu'il faut chérir ;
-Oui, sa main bénit tout et fait tout refleurir.
-Le bonjour dans les yeux, le souris sur la bouche,
-Quand elle ouvre à demi les rideaux de ma couche,
-De sa joie innocente elle vient m'égayer
-Comme un reflet du ciel qui rit sur mon foyer.
-
--*who_thecla
-Il ne lui manque plus que d'aller dans le temple
-Honorer ma vieillesse en suivant votre exemple.
-
--*who_elci
-Ordonnez.
-
--*who_luigi
-      J'aurais tort d'exprimer un désir.
-N'obéis pas, choisis ; mais attends pour choisir,
-Attends, pour abjurer le culte que j'abjure ;
-Ce qu'il faut consulter, quand ton âme plus mûre
-Aura pu s'éclairer par la comparaison,
-Ce n'est pas mon exemple, Elci, c'est ta raison.
-
--*who_elci
-Ma résolution ne peut rester douteuse :
-Je veux être avec vous heureuse ou malheureuse.
-
--*who_luigi
-Ma fille !
-
--*who_thecla
-      Tu l'entends ?
-
--*who_marco
-      Fait-elle bien ou mal ?
-Dieu le sait mais son culte est l'amour filial.
-
--*who_luigi
-Brisons là.
-
--*who_thecla
-      Voici l'heure où, dans leur conférence,
-Luther et Mélanchton font assaut d'éloquence :
-De leur présence auguste ils veulent honorer
-La fête qui bientôt doit vous régénérer :
-Venez puiser d'avance une nouvelle vie
-À ce banquet de l'âme où leur voix vous convie.
-
--*who_luigi
-C'est un devoir.
-
--*who_thecla
-      Au temple ils prêcheront demain ;
-Y viendras-tu ?
-
--*who_elci
-      Peut-être.
-
--*who_marco
-      À l'office prochain
-Je suivrai le bon oncle ; irez-vous ?
-
--*who_elci
-      C'est possible.
-
--*who_elci
-Chacun veut la gagner.
-
--*who_thecla
-      Ce bras-là pour ma Bible.
-L'autre pour moi ! Partons.
-
--*who_luigi
-      Garde-toi de sortir,
-Et de son arrivée accours nous avertir.
-
-**** *book_ *id_I04 *act_I
-
--*who_elci
-Adieu, Marco !
-
--*who_marco
-      Déjà ?
-
--*who_elci
-      Ma tâche est commencée :
-J'habille du voisin la pauvre fiancée.
-J'achèverai trop tard si je perds un moment,
-Et donner à propos c'est donner doublement.
-
--*who_marco
-Hâtez-vous. Je descends jusqu'au bord de la source.
-Pour voir si du ruisseau rien n'arrête la course :
-Quand il suit son chemin il fait un bruit si doux !
-Je veux que les amis, bras dessus, bras dessous,
-Épanchent leurs deux coeurs près de ses ondes fraîches,
-En caressant de l'oeil le duvet de mes pêches.
-
--*who_elci
-Dieu bénisse, Marco, tes soins industrieux
-Va,qui travaille prie.
-
--*who_marco
-      Et qui donne fait mieux,
-Ange de charité !
-
-**** *book_ *id_I05 *act_I
-
--*who_marco
-      Protestante ou fidèle,
-Elle ira droit aux cieux ; mais pour s'emparer d'elle
-Et l'y mener tous deux par différents chemins,
-La messe avec le prêche ici vont être aux mains.
-Non, ce cher Paolo par respect doit se taire
-II était à cinq ans quelque peu volontaire.
-Mon préféré, mon fils, ce petit révolté
-Qu'à l'école autrefois malgré lui j'ai porté,
-Je vais donc le revoir aujourd'hui, tout à l'heure,
-L'embrasser le premier !... On vient... Allons, je pleur !e
-Tout ému que je suis, restons maître de moi :
-Avant que de pleurer il faut savoir pourquoi.
-Quel air sombre ! Est-ce lui ?
-
-**** *book_ *id_I06 *act_I
-
--*who_paolo
       Dieu vengeur, je t'offense,
 Mais, à l'aspect des lieux témoins de notre enfance,
 Je me sens défaillir sous l'horrible dessein
 Que, depuis mon départ, je porte dans mon sein.
 
--*who_marco
-Mon ancienne amitié ne peut le méconnaître;
-Non, c'est toi, c'est bien toi !...
-
--*who_paolo
       Marco!
 
--*who_marco
-      C'est vous, mon maître !
-
--*who_paolo
 Dans mes bras !
 
--*who_marco
-      Je n'osais.
-
--*who_paolo
       Encor !
 
--*who_marco
-      Jamais assez !
-
--*who_paolo
 Mon bon, mon digne ami !
 
--*who_marco
-      Vous me reconnaissez ?
-
--*who_paolo
 Malgré tes cheveux blancs.
 
--*who_marco
-      J'ai vieilli.
-
--*who_paolo
       Mon visage
 Plus pâle que le tien a vieilli davantage.
 
--*who_marco
-Qu'est-ce qu'un peu de fatigue ?
-
--*who_paolo
       Un mal plus grand.
 
--*who_marco
-      L'ennui
-Qu'un triste pèlerin traine en route avec lui ?
-
--*who_paolo
 Non ; les veilles, Marco, le jeûne, une pensée.
 Elle est là.
 
--*who_marco
-      Pourquoi donc ne l'avoir pas chassée ?
-
--*who_paolo
 Mais toi, toujours dispos, l'oeil vif, le teint fleuri,
 Satisfait de ton sort !
 
--*who_marco
-      Bien vêtu, bien nourri,
-Je suffis, sans fatigue, aux soins du jardinage.
-L'hiver j'ai du loisir ; l'été je me ménage.
-Si mes melons ont soif, je suis leur sommelier ;
-Mais quand j'ai soif aussi, je me sers le premier.
-
--*who_paolo
 Et ta religion ?
 
--*who_marco
-      Je la suis.
-
--*who_paolo
       En fidèle ?
 
--*who_marco
-Mais en vieillard.
-
--*who_paolo
       Comment ?
 
--*who_marco
-      À ma façon.
-
--*who_paolo
       Laquelle ?
 
--*who_marco
-Vous jeûnez ; moi, je tiens que, passé soixanteans,
-On peut en prendre à l'aise avec les Quatre-Temps.
-Pour les veilles, néant ; hors si Noël arrive,
-Vu que le réveillon me met sur le qui-vive.
-Quant à mon confesseur, ses avis sont ma loi ;
-Mais le vieux que j'ai pris dit toujours comme moi ;
-Et si, par grand hasard, il me prêche abstinence,
-C'est chose de santé plus que de continence.
-Je ne blâme personne et ne m'émeus de rien ;
-Doux pour moi, bon pour tous, je ris et mène à bien,
-Sans faire l'esprit fort, ni trancher de l'apôtre,
-Ma joie en ce bas monde et mon salut dans l'autre.
-
--*who_paolo
 Et tu vis d'un oeil froid nos autels profanés ?2
 
--*who_marco
-Non.
-
--*who_paolo
       Leurs trésors détruits ?
 
--*who_marco
-      Non pas.
-
--*who_paolo
       Abandonnés
 Au pillage, aux fureurs d'un peuple frénétique ?
 
--*who_marco
-Et que pouvait contre eux un pauvre domestique ?
-J'ai crié, mais tout bas ; car, à ne point mentir,
-Je n'eus jamais en moi l'étoffe d'un martyr.
-
--*who_paolo
 Je devais donc trouver cette tiédeur de zèle
 Dans le vieil héritier de la foi paternelle
 Et de ces insensés il n'est pas le plus grand
 Le moindre crime ici, c'est d'être indifférent.
 Luigi ?...
 
--*who_marco
-      Vous hésitez!
-
--*who_paolo
       Mon bon frère.
 
--*who_marco
-      Il vous aime.
-
--*who_paolo
 Comme autrefois, oui; mais...
 
--*who_marco
-      Il est toujours le même.
-
--*who_paolo
 Oui, pour moi ; mais... pour Rome ?
 
--*who_marco
-      Expliquez-vous.
-
--*who_paolo
       Eh bien !
 On assure, et je crois... non, non, je ne crois rien.
 S'il était vrai !
 
--*who_marco
-      Parlez.
-
--*who_paolo
       Je ne le puis ; je tremble.
 Oh ! non ; je maudirais le jour qui nous rassemble :
 Luigi, traître à son Dieu !
 
--*who_marco
-      Qui répand ce bruit-là ?
-
--*who_paolo
 C'est faux ?
 
--*who_marco
-      Quelque ennemi !
-
--*who_paolo
       Tu l'affirmes ?
 
--*who_marco
-      Voilà
-Comme on brouille les gens !
-
--*who_paolo
       Achève je t'écoute.
 J'arrivais convaincu ; tu m'as parlé, je doute :
 Je doute ; ah ! sois béni !... Mais puis-je croire en toi ?
 
--*who_marco
-Eh ! Pourquoi pas ?
-
--*who_paolo
       Chrétien incertain dans ta foi !
 
--*who_marco
-Incertain !
-
--*who_paolo
       Coeur glacé !
 
--*who_marco
-      Souffrez que je m'explique.
-
--*who_paolo
 Tu te souviens encor que tu fus catholique ;
 Tu ne l'es plus.
 
--*who_marco
-      Si fait.
-
--*who_paolo
       Tu ne l'es plus ; va, fuis.
 
--*who_marco
-Je le suis trop pour elle et pas assez pour lui.
-
--*who_paolo
 J'ai besoin d'être seul ; chez moi conduis cet homme :
 Je veux lui confier une lettre pour Rome ;
 Je vais l'écrire.
 
--*who_marco
-      Au moins...
-
--*who_paolo
       Qu'il la prenne en partant.
 
--*who_marco
-Au moins voyez la chambre où vous vous plaisiez tant.
-
--*who_paolo
 Non, sors !
 
--*who_marco
-      Des deux côtés voilà qu'on me soupçonne
-Soyez donc modéré, pour ne plaire à personne.
-Montez.
-
-**** *book_ *id_I07 *act_I
-
--*who_paolo
       Dieu me l'a dit ; Dieu m'a dit « Je le veux. »
 J'ai senti sur mon front se dresser mes cheveux ;
 Il m'a répété : « Marche ! » et, plein d'un saint courage,
@@ -978,396 +102,112 @@ Je ne puis me lier par des noeuds assez forts
 « Au révérend frère Anastasio pénitencier de Sainte-Marie-Majeure.
 Mon père, »
       Ma main tremble.
-« Peut-être le bruit répandu sur l'apostasie de mon frère n'est qu'une oeuvre de mensonge, ou, du moins, je pourrai par mes paroles raffermir sa foi chancelante.
-Tel est le devoir que je me suis imposé en m'éclairant de vos conseils, et qu'il me sera donne de remplir si votre pieuse inspiration m'anime. »
+« Peut-être le bruit répandu sur l'apostasie de mon frère n'est qu'une oeuvre de mensonge, ou, du moins, je pourrai par mes paroles raffermir sa foi chancelante. Tel est le devoir que je me suis imposé en m'éclairant de vos conseils, et qu'il me sera donne de remplir si votre pieuse inspiration m'anime. »
       Inexprimable ivresse
 Mon coeur se rouvrirait, et des pleurs de tendresse,
 Des pleurs rafraîchissants, par la joie arrachés,
 Jailliraient vers mon Dieu de mes yeux desséchés !
-« Mais il est une autre mission connue de moi seul et que j'ai reçue d'un plus grand, d'un plus saint que vous, du Tout-Puissant, qui ne veut pas que je sois séparé de mon frère durant cette vie dont les joies ou les tourments seront sans fin.
-Priez donc, oh ! priez à genoux, pour qu'il ne se fasse pas, en s'obstinant à se perdre, une vertu de l'endurcissement ; car, je l'ai juré à Dieu, et je vous l'écris pour vous le jurer à vous-même, la veille de son abjuration. »
+« Mais il est une autre mission connue de moi seul et que j'ai reçue d'un plus grand, d'un plus saint que vous, du Tout-Puissant, qui ne veut pas que je sois séparé de mon frère durant cette vie dont les joies ou les tourments seront sans fin. Priez donc, oh ! priez à genoux, pour qu'il ne se fasse pas, en s'obstinant à se perdre, une vertu de l'endurcissement ; car, je l'ai juré à Dieu, et je vous l'écris pour vous le jurer à vous-même, la veille de son abjuration. »
 La veille ! Et si demain... Ah ! qu'il cède, qu'il vive,
 Qu'il vive, et que jamais cette veille n'arrive !
 « La veille de son abjuration, je supplierai le ciel, les mains jointes et le front contre terre, de répandre sur lui les grâces d'un dernier repentir, et, dût mon âme se déchirer..., je sauverai la sienne. »
 
-**** *book_ *id_I08 *act_I
-
--*who_marco
-Je cours vers votre frère.
-
--*who_paolo
       Hein ! Quoi ? Qui m'a parlé ?
 Où vas-tu ? Que veux-tu ? T'avais-je rappelé ?
 Que m'as-tu dit ?
 
--*who_marco
-      Pardon !
-
--*who_paolo
       Vers mon frère
 
--*who_marco
-      Sans doute,
-Et je vais, j'en suis sùr, le trouver sur ma route,
-Qui, les deux bras tendus, et de larmes baigné.
-
--*who_paolo
 Va, Marco !
 
--*who_marco
-      Je m'y perds.
-
-**** *book_ *id_I09 *act_I
-
--*who_paolo
       Achevons.
-« Si je reviens parjure, montrez-moi cette lettre, et que la malédiction de mon souverain juge pèse sur moi dans ce monde et dans l'autre je l'accepte.
-En signant ce que je vous écris, je mets mon nom au bas de mon éternelle condamnation. »
+« Si je reviens parjure, montrez-moi cette lettre, et que la malédiction de mon souverain juge pèse sur moi dans ce monde et dans l'autre je l'accepte. En signant ce que je vous écris, je mets mon nom au bas de mon éternelle condamnation. »
       J'ai signé.
 Piétro, rends cette lettre à celui qui m'envoie.
 J'aurai consommé l'oeuvre avant qu'il me revoie.
 
--*who_thecla
-Il est ici !
-
--*who_luigi
-      Mon frère ?
-
--*who_paolo
       Ah ! qu'entends-je ? À ce cri,
 Ce cri qui m'est si doux, frissonnant, attendri,
 De joie et de douleur je sens mon coeur se fondre :
 Nos bras vont s'enlacer, nos sanglots se confondre,
 Et j'ai signé !...
 
-**** *book_ *id_I10 *act_I
-
--*who_thecla
-      Mon fils !
-
--*who_luigi
-      Ah ! Mon frère !
-
--*who_thecla
-      Seul bien
-Qu'au ciel je demandais !
-
--*who_luigi
-      Mon Paolo !
-
--*who_thecla
-      Le mien,
-Le mien, qui m'est rendu !
-
--*who_luigi
-      Doux retour ! Que de charmes
-Je goûte à te revoir !
-
--*who_paolo
       Où suis-je ?
 
--*who_thecla
-      Sous les larmes,
-Les baisers maternels.
-
--*who_luigi
-      Sur le sein d'un ami.
-
--*who_thecla
-Parle-moi.
-
--*who_luigi
-      Réponds-nous.
-
--*who_paolo
       Ne vivant qu'à demi,
 Chancelant sous le poids d'unbonheurqui m'oppresse,
 Puis-je trouver des mots pour en peindre l'ivresse !
 
--*who_luigi
-Nous te regrettions tant !
-
--*who_thecla
-      J'ai tant gémi sur toi !
-
--*who_paolo
 Moi, sur vous!
 
--*who_thecla
-      Je n'étais que malheureuse.
-
--*who_paolo
       Et moi,
 J'étais coupable ?
 
--*who_luigi
-      Non.
-
--*who_thecla
-      Vous plaindre, est-ce une offense ?
-
--*who_paolo
 Je vous plaignais de même est-ce un crime ?
 
--*who_luigi
-      Je pense
-Que nous avions raison de nous plaindre tous trois ;
-L'absence est si cruelle !
-
--*who_thecla
-      Ah ! C'est vrai.
-
--*who_marco
-      Cette fois,
-Il a paré le coup.
-
--*who_thecla
-      Grâce à la Providence,
-Tu trouveras ici la gaîté, l'abondance,
-L'union.
-
--*who_marco
-      Qu'elle y reste !
-
--*who_luigi
-      Oui, tout m'a réussi,
-Frère, j'ai prospéré.
-
--*who_thecla
-      Mais c'était juste aussi ;
-Dieu protège les siens.
-
--*who_paolo
       Comment les siens ?
 
--*who_luigi
-      En père,
-Il nous protège tous.
-
--*who_thecla
-      Cependant l'un prospère ;
-Mais l'autre...
-
--*who_paolo
       On le châtie.
 
--*who_luigi
-      Eh ! De quels torts ?
-
--*who_paolo
       Pourquoi ?
 
--*who_thecla
-Je m'entends.
-
--*who_paolo
       L'un et l'autre ils ont la même foi.
 
--*who_thecla
-Qu'à l'esprit qui s'obstine un jour le ciel pardonne !
-C'est mon voeu.
-
--*who_paolo
       Comme un jour au coeur qui l'abandonne !
 C'est le mien.
 
--*who_thecla
-      Pour l'aveugle à quoi sert la clarté ?
-
--*who_paolo
 À qui poursuit l'erreur que fait la vérité ?
 
--*who_thecla
-L'erreur !
-
--*who_paolo
       L'aveuglement !
 
--*who_marco
-      Ah ! La voilà partie !
-Le démon de Luther se met de la partie.
-
--*who_luigi
-Ma mère, Paolo, ne pensons qu'au bonheur
-D'être unis tous les trois dans la paix du Seigneur.
-
--*who_thecla
-Unis, toujours unis, en priant l'un pour l'autre !
-Oublions tout. Ta main !
-
--*who_luigi
-      Elle cherchait la vôtre.
-
--*who_thecla
-Embrassons-nous, mon fils, et de bonne amitié.
-Je vous quitte ; Marco ne fait rien qu'à moitié.
-J'aurai du soin pour deux. Que le foyer pétille ;
-Grand feu ! Fête au logis et banquet de famille !
-Après un si long deuil que la joie ait son tour,
-Puisque l'enfant prodigue est enfin de retour.
-
--*who_marco
-Fausse comparaison, maîtresse ; car j'estime
-Qu'il n'a pu, n'ayant rien, manger sa légitime.
-
--*who_thecla
-Respect à l'Écriture ! En rire, c'est pécher.
-
--*who_marco
-Bon ! Dieu fera le sourd pour ne s'en pas fâcher.
-
--*who_thecla
-Silence ! Et suivez-moi.
-
--*who_marco
-      Le premier choc fut rude;
-Mais quand de disputer ils auront l'habitude...
-
-**** *book_ *id_I11 *act_I
-
--*who_luigi
-Ménageons sa faiblesse.
-
--*who_paolo
       Un coeur prêt à faillir
 Avec cet abandon n'aurait pu m'accueillir :
 On m'a trompé.
       Luigi.
 
--*who_luigi
-      Frère !
-
--*who_paolo
       Je crois renaître ;
 Une ineffable paix se répand dans mon être.
 Ah ! Mon ami !
 
--*who_luigi
-      C'est là que, se penchant vers nous,
-Celui qui manque ici nous prit sur ses genoux.
-Frère, tu t'en souviens ?
-
--*who_paolo
       C'est là qu'à ma demande,
 De quelque saint martyr il contait la légende,
 Et que ma mère... alors elle invoquait les saints ;
 Ma mère, pour prier, joignait nos jeunes mains.
 Tu t'en souviens, Luigi?
 
--*who_luigi
-      L'été, sous la feuillée,
-Rappelle-toi nos jeux.
-
--*who_paolo
       Comme de la veillée
 Les heures fuyaient vite à ces pieux récits !
 
--*who_luigi
-Quels plaisirs nous goûtions l'un près de l'autre assis !
-
--*who_paolo
 Qu'ils étaient purs !
 
--*who_luigi
-      Ces jours reviendront, car tu restes ?
-
--*who_paolo
 Nous connaîtrons encor ces voluptés célestes...
 Car tu n'es pas changé ?
 
--*who_luigi
-      Regarde.
-
--*who_paolo
       Où donc ?
 
--*who_luigi
-      Là-bas,
-Près du pommier, témoin de nos joyeux combats...
-
--*who_paolo
 Lorsque ses fruits vermeils, qui pendaient jusqu'à terre,
 Présentaient aux deux camps des armes pour la guerre.
 
--*who_luigi
-Une maison s'élève.
-
--*who_paolo
       Oui.
 
--*who_luigi
-      Bâtie à mon goût ;
-Bien modeste.
-
--*who_paolo
       À la tienne elle ressemble en tout.
 
--*who_luigi
-Dis-moi quelle est des deux celle que tu préfères ?
-
--*who_paolo
 Elles sont soeurs, Luigi.
 
--*who_luigi
-      Comme nous sommes frères.
-
--*who_paolo
 Qui l'habite ?
 
--*who_luigi
-      Un ami va bientôt l'habiter,
-Et tu le connaîtrais si tu devais rester.
-
--*who_paolo
 C'est ton voeu ?
 
--*who_luigi
-      Le plus cher.
-
--*who_paolo
       Il craindrait ma présence,
 S'il n'était devant moi fort de son innocence
 On m'a trompé.
 
--*who_luigi
-      Consens !
-
--*who_paolo
       Me promets-tu qu'un jour,
 Comme à seize ans, pour Rome épris d'un pur amour,
 à celui qui de Dieu sur la terre est l'image...
 
--*who_luigi
-Tu consens ?
-
--*who_paolo
       Nous irons rendre un dernier hommage .
 
--*who_luigi
-Eh ! comment ferais-tu pour ne pas consentir?
-Tu verrais sur le seuil, si tu voulais partir,
-Les souvenirs vivants de notre premier âge,
-En te tendant les bras, t'arrêter au passage.
-Reste ! Ton ciel natal, Paolo, le voici !
-Ce toit, c'est ton berceau ; ce vieux foyer noirci,
-Où nos tremblantes mains se réchauffaientensemble,
-Nous réunit enfants, vieillards, qu'il nous rassemble.
-Nos deux chiffres, c'est là que tu les as laissés ;
-Comme d'anciens amis se tenant embrassés,
-II sont unis encor ; pourrions-nous ne plus l'être ?
-Reste ! Eh ! Par où nous fuir? Dans cet enclos champêtre
-Tu ne peux faire un pas, regarder, respirer,
-Sans qu'un parfum connu qui revient t'enivrer,
-L'allée où, chancelant, tu courais sur ma trace,
-Le fleuve où de la mort tu m'as sauvé, la place
-Où, plus âgé que toi, je vengeai ton affront,
-La croix qui si souvent vit s'incliner ton front,
-L'eau qui fuit, l'air qui passe ou le vent qui soupire,
-Emprunte, en s'animant, une voix pour te dire :
-« Reste! aime encor ton frère aux lieux où tu l'aimais ;
-Es-tu sûr, si tu pars, de le revoir jamais ? »
-
--*who_paolo
 Et toi, si tu me suis dans la ville éternelle,
 Pourras-tu l'admirer sans oublier pour elle
 De ton pays natal le soleil éclipsé,
@@ -1395,10 +235,6 @@ Pleins de la même foi, brûlés des mêmes feux
 Qu'il versait par torrents dans votre âme embrasée,
 De ses divins pardons recueillir la rosée ! »
 
--*who_luigi
-Paolo !
-
--*who_paolo
       Tu viendras ! Et quand nous sentirons
 La grâce à flots sacrés s'épancher sur nos fronts,
 Puissent nos coeurs noyés dans cette joie intime,
@@ -1411,79 +247,22 @@ Me punisse du moins de t'avoir soupçonné.
 Toi que je jugeais mal, toi que j'ai condamné,
 Apprends.
 
-**** *book_ *id_I12 *act_I
-
--*who_marco
-      Mon maître.
-
--*who_luigi
-      Eh bien !
-
--*who_marco
-      Un mot !
-
--*who_paolo
       Quelque surprise
 Qu'on veut me ménager !
 
--*who_marco
-      Cet homme à barbe grise,
-Ce moine, qui jamais ne parle sans prêcher,
-Et même quand il prie a l'air de se fâcher,
-Il est en bas.
-
--*who_luigi
-      Luther !
-
--*who_marco
-      La diète, qui l'exile,
-Entend que sous deux jours il cherche un autre asile ;
-Mais il veut en partant vous bénir de sa main,
-Et la cérémonie est fixée à demain.
-
--*who_luigi
-Ciel ! Que m'annonces-tu, Marco ?
-
--*who_marco
-      Ce qui se passe,
-Et ce qu'à ma maîtresse il contait à voix basse.
-Mais s'il allait monter.
-
--*who_luigi
-      Je sors et je reviens :
-Tu le permets ?
-
--*who_paolo
       Va, frère ; avant cet entretien
 Pour moi la solitude était un long supplice ;
 Seul, je puis maintenant rêver avec délice.
 Va, je suis sûr de toi.
 
--*who_luigi
-      Cours chercher mon Elci.
-
--*who_marco
-Je viens de l'avertir.
-
--*who_paolo
       Ta fille, elle est ici ?
 Et je l'attends encor ! Loin de moi que fait-elle ?
 
--*who_luigi
-Tu vas la voir.
-
-**** *book_ *id_I13 *act_I
-
--*who_paolo
       Elle a de la Vierge immortelle
 L'angélique douceur, l'aimable pureté !
 Le moindre de ses dons, Marco, c'est la beauté,
 N'est-ce pas ?
 
--*who_marco
-      Sur ce point m'en croirez-vous ?
-
--*who_paolo
       Pardonne.
 Qui peut douter d'un frère a-t-il foi dans personne ?
 J'étais bien malheureux ; car j'aurais mieux aimé
@@ -1491,309 +270,109 @@ Le trouver au retour sanglant, inanimé,
 Mort, que traître à son culte et frappé d'anathème ;
 Oui, mort.
 
--*who_marco
-      C'est d'un bon frère.
-
--*who_paolo
       Et toi, Marco, toi-même,
 Si tu sentais fléchir ton zèle chancelant,
 N'aimerais-tu pas mieux qu'un ami, t'immolant,
 Dans ta bouche entr'ouverte arrêtât ton parjure
 Que de le proférer ?
 
--*who_marco
-      L'alternative est dure.
-
--*who_paolo
 Quoi ! Tu balancerais ?
 
--*who_marco
-      Je ne dis pas cela ;
-Mais je n'ai pas d'ami qui m'aime à ce point-là.
-Heureusement !
-
--*who_paolo
       Peut-être.
 
--*who_marco
-      En tout cas je proclame
-Que je suis bon chrétien, chrétien de coeur et d'âme,
-Pour que vous le sachiez et le fassiez savoir
-Aux amis trop ardents que je pourrais avoir.
-Mais votre nièce accourt ; je vous laisse avec elle.
-
-**** *book_ *id_I14 *act_I
-
--*who_paolo
 Venez, vous que ma voix, vous que mon coeur appelle.
 
--*who_elci
-Mon oncle en m'écrivant ne me disait pas : vous.
-
--*who_paolo
 Non, toi, chère Elci, toi !
 
--*who_marco
-      Dans ces sentiments doux
-Qu'elle inspire si bien, que le ciel vous maintienne !
-Adieu ! Comme il entend la charité chrétienne!
-Quel homme !
-
-**** *book_ *id_I15 *act_I
-
--*who_paolo
       Toi, ma fille !
 
--*who_elci
-      À ta bonne heure ; au moins
-Vous me donnez mon nom.
-
--*who_paolo
       Oui, ton nom.
 
--*who_elci
-      Par mes soins
-Je veux vous retenir en cherchant à vous plaire ;
-Je veux vous enchaîner.
-
--*who_paolo
       Je me laisserai faire.
 
--*who_elci
-Pour toujours !
-
--*who_paolo
       Son regard, ses traits, ses blonds cheveux,
 Rappellent la madone à qui j'offrais mes voeux.
 
--*who_elci
-Dont vos mains sur l'ivoire ont reproduit l'image ?
-
--*who_paolo
 Que je te destinais.
 
--*who_elci
-      Admirant votre ouvrage,
-Pour vous, soir et matin, je priais.
-
--*who_paolo
       Comme moi,
 J'admirais le modèle et je priais pour toi.
 
--*who_elci
-Je disais : qu'il revienne et me chérisse en père !
-
--*who_paolo
 Moi : Quelle soit heureuse autant qu'elle m'est chère,
 Belle, pure, adorable !
 
--*who_elci
-      Et j'obtiens...
-
--*who_paolo
       J'ai trouvé.
 
--*who_elci
-Plus que je n'espérais.
-
--*who_paolo
       Mieux que je n'ai rêvé.
 Quoi ! Tu ne craignais pas ma piété sévère,
 Qui peut blesser ici quelqu'un que je révère ?
 
--*who_elci
-Non, car je comptais bien mettre la paix ici
-Entre vous et quelqu'un que je révère aussi.
-
--*who_paolo
 Sois donc par ta douceur l'ange qui nous rapproche ;
 Sois mon conseil.
 
--*who_elci
-      Comment ?
-
--*who_paolo
       Veux-tu ?
 
--*who_elci
-      Jusqu'au reproche
-Vous écouterez tout ?
-
--*who_paolo
       Avec humilité
 Des lèvres d'un enfant descend la vérité.
 
--*who_elci
-Alors je vais remplir mon grave ministère.
-
--*who_paolo
 Déjà ?
 
--*who_elci
-      Vous avez peur ?
-
--*who_paolo
       Moins que toi.
 
--*who_elci
-      Si ma mère
-Traite certain sujet avec un peu d'aigreur,
-Vous serez indulgent ?
-
--*who_paolo
       Comme on l'est pour l'erreur.
 
--*who_elci
-Sans répondre ?
-
--*who_paolo
       Pourtant.
 
--*who_elci
-      Sans répondre.
-
--*who_paolo
       Sa grâce
 Me désarme d'avance.
 
--*who_elci
-      Et c'est convenu ?
-
--*who_paolo
       Passe
 Je saurai me contraindre.
 
--*who_elci
-      En cercle, quand le soir
-Tous quatre autour du feu nous viendrons nous asseoir,
-Ne vous offensez pas si je prends soin moi-même
-De placer sous ses yeux le seul livre qu'elle aime.
-
--*who_paolo
 Lequel ?
 
--*who_elci
-      La Bible.
-
--*who_paolo
       Elci, c'est un livre sacré.
 
--*who_elci
-La Bible... de Luther.
-
--*who_paolo
       Qu'entends-je ? Et je verrai
 Sans le mettre en lambeaux.
 
--*who_elci
-      Pendant cette lecture,
-Vous me regarderez.
-
--*who_paolo
       Charmante créature !
 
--*who_elci
-Mous causerons de Rome.
-
--*who_paolo
       Oui.
 
--*who_elci
-      Nous lirons tous deux.
-
--*who_paolo
 Saintement.
 
--*who_elci
-      Mais bien bas, sans nous occuper d'eux.
-
--*who_paolo
 D'eux ! Comment ? Que dis-tu ?
 
--*who_elci
-      C'est chose naturelle
-Qu'il ait sa liberté, s'il veut lire avec elle.
-
--*who_paolo
 Qui donc, Elci ?
 
--*who_elci
-      Mon père.
-
--*who_paolo
       Eh quoi ?...
 
--*who_elci
-      Ne craignez rien :
-Il respecte mon culte en pratiquant le sien.
-
--*who_paolo
 Le sien !
 
--*who_elci
-      Bon comme lui, vous suivrez son exemple,
-Et le jour du Seigneur, quand ils iront au temple.
-
--*who_paolo
 Au temple !
 
--*who_elci
-      Qu'avez-vous ?
-
--*who_paolo
       Aurait-il abjuré ?
 
--*who_elci
-Pas encor.
-
--*who_paolo
       Mais cet acte, il n'est que différé ?
 
--*who_elci
-De quelques jours.
-
--*who_paolo
       Mon frère !... Au temple !... Est-il possible ?
 
--*who_elci
-Ne me regardez pas avec cet oeil terrible.
-
--*who_paolo
 Affirmer qu'il abjure, et c'est vous qui l'osez!
 
--*who_elci
-Je tremble.
-
--*who_paolo
       Savez-vous de quoi vous l'accusez ?
 
--*who_elci
-Moi !
-
--*who_paolo
       D'un crime.
 
--*who_elci
-      Qui ? Moi !
-
--*who_paolo
       C'est faux : j'en ai pour gage
 Sa voix, ses traits émus et son touchant langage,
 Ses pleurs que sur mon front je crois encor sentir ;
 C'est faux, c'est un mensonge.
 
--*who_elci
-      Aurais-je pu mentir ?
-
--*who_paolo
 Ah ! Cet accent si vrai, qui m'éclaire et me tue,
 Anéantit l'espoir de mon âme abattue.
 Malheureux !
 
--*who_elci
-      Et par moi !
-
--*who_paolo
       Mais il ne le peut pas ;
 Mais je me jetterais au-devant de ses pas ;
 Mais je mettrais ma main sur sa bouche infidèle ;
@@ -1803,433 +382,145 @@ Lui comprimant le coeur dans un dernier adieu,
 Il ne le peut pas ; non, renier sa croyance,
 Non, renier son Dieu n'est pas en sa puissance.
 
-**** *book_ *id_I16 *act_I
-
--*who_tecla
-Et qui vous rend ici l'arbitre de sa foi ?
-
--*who_paolo
 Celui dont vos leçons m'ont enseigné la loi.
 
--*who_thecla
-Que dit-elle ?
-
--*who_paolo
       D'aimer, de secourir son frère.
 
--*who_thecla
-Mais, avant tout, mon fils de respecter sa mère.
-
--*who_paolo
 Je n'en ai plus.
 
--*who_thecla
-      Sortez.
-
--*who_elci
-      De grâce !
-
--*who_thecla
-      Faites voir
-Que ce respect pour vous est encore un devoir.
-
--*who_elci
-J'obéis.
-
-**** *book_ *id_I17 *act_I
-
--*who_paolo
       Mon retour ne me l'a pas rendue.
 Perdue en cette vie, et pour jamais perdue,
 Celle qui nous disait : Enfants, restez unis ;
 Croyez ce que je crois, et vous serez bénis.
 
--*who_thecla
-Vain souvenir d'un temps où je fus idolâtre !
-
--*who_paolo
 Fidèle.
 
--*who_thecla
-      Nuit d'erreur !
-
--*who_paolo
       Jour pur !
 
--*who_thecla
-      J'étais marâtre.
-
--*who_paolo
 Vous étiez mère.
 
--*who_thecla
-      Alors, les égarant tous deux,
-Je perdais mes enfants.
-
--*who_paolo
       Vous les sauviez.
 
--*who_thecla
-      L'un d'eux
-Va se rouvrir le ciel.
-
--*who_paolo
       L'un n'ira pas sans l'autre.
 
--*who_thecla
-Quittez donc votre culte.
-
--*who_paolo
       Abandonnez le vôtre.
 
--*who_thecla
-Il est fatal.
-
--*who_paolo
       Plus bas !
 
--*who_thecla
-      Sacrilège.
-
--*who_paolo
       Plus bas !
 Mon père vous entend.
 
--*who_thecla
-      Et ne vous voit-il pas ?
-
--*who_paolo
 Il m'approuve du moins.
 
--*who_thecla
-      Est-ce de faire outrage
-À tous les droits sacrés qu'avec lui je partage ?
-
--*who_paolo
 L'Éternel qui m'envoie, et Rome d'où je viens,
 Font céder au devoir les terrestres liens.
 
--*who_thecla
-Retournez donc à Rome, où l'esprit d'imposture
-Triomphe et foule aux pieds les lois de la nature.
-
--*who_paolo
 J'irai, mais non pas seul.
 
--*who_thecla
-      Lui, vous suivre ?
-
--*who_paolo
       Priez.
 Priez pour qu'il me suive.
 
--*who_thecla
-      Ah ! Plutôt à mes pieds
-Que le courroux du ciel !
-
--*who_paolo
       Arrêtez ! Voeu funeste,
 Que vous ne formez pas, que votre coeur déteste,
 Il appelle la mort, il tue... Ah ! Gardez-vous
 De tenter par ce voeu le céleste courroux.
 
--*who_thecla
-Ne l'as-tu pas toi-même arraché de ma bouche ?
-Va donc ; fuis, porte ailleurs ta piété farouche.
-Rome te tend les bras ; fuis les miens, fuis ces lieux ;
-Mère, frère, pays, fuis tout ; dans ses adieux,
-Celle qu'un fils ingrat traite ici d'étrangère
-N'a plus de fils en lui, puisqu'il n'a plus de mère.
-
-**** *book_ *id_I18 *act_I
-
--*who_luigi
-Que dites-vous ? Grand Dieu !
-
--*who_thecla
-      Vous avez entendu.
-Qu'au plus saint des devoirs par vous il soit rendu ;
-Qu'il dompte son orgueil ; qu'il force sa colère
-À respecter en moi ce qu'en lui je tolère ;
-N'exiger rien de plus, c'est me contraindre assez ;
-S'il ne le peut, qu'il parte, ou je pars choisissez.
-
-**** *book_ *id_I19 *act_I
-
--*who_luigi
-Condamné dans ton coeur, j'ai droit de me défendre,
-Paolo.
-
--*who_paolo
       Laissez-moi.
 
--*who_luigi
-      Demeure ; il faut m'entendre.
-Maintenant ou jamais.
-
--*who_paolo
       Jamais.
 
--*who_luigi
-      Séparons-nous.
-
--*who_paolo
 Qu'avez-vous à me dire et que me voulez-vous ?
 
--*who_luigi
-Plaise au ciel que ma voix jusqu'à ton âme arrive !
-Car pour notre amitié cette heure est décisive.
-
--*who_paolo
 Parlez.
 
--*who_luigi
-      En ennemi tu détournes les yeux :
-Regarde-moi, mon frère, et tu m'entendras mieux.
-
--*who_paolo
 Ah ! Luigi ! Ta croyance est-elle encor la mienne ?
 
--*who_luigi
-Je ne te répondrai que ma main dans la tienne.
-
--*who_paolo
 Réponds.
 
--*who_luigi
-      Instruit de tout, devrais-tu l'exiger,
-Cet aveu qui me coûte et qui va t'affliger ?
-
--*who_paolo
 Tu l'as donc résolu ? C'est vrai ? Tu me déclares
 Que pour l'éternité de moi tu te sépares ?
 
--*who_luigi
-Calme-toi.
-
--*who_paolo
       Je le veux : rien encor n'est perdu.
 
--*who_luigi
-On supporte avec peine un coup inattendu...
-
--*who_paolo
 Puis, l'espoir qui renaît nous le rend moins sensible.
 
--*who_luigi
-Le temps adoucit tout.
-
--*who_paolo
       Dieu tout est possible.
 
--*who_luigi
-Indulgents l'un pour l'autre, on s'apaise en sentant
-Que, sans penser de même, on peut s'aimer autant.
-
--*who_paolo
 L'opinion de l'un, l'autre enfin la partage,
 Et l'on est étonné de s'aimer davantage.
 Un de nous doit errer.
 
--*who_luigi
-      Qu'importe ?
-
--*who_paolo
       Si j'ai tort,
 J'en conviendrai, Luigi.
 
--*who_luigi
-      Pour vivre en bon accord,
-N'est-il pas des sujets qu'il faut nous interdire ?
-
--*who_paolo
 Aucun.
 
--*who_luigi
-      Tu crois ?
-
--*who_paolo
       C'est sûr.
 
--*who_luigi
-      Quoi que nous puissions dire,
-Nous resterons amis ?
-
--*who_paolo
       Toujours !
 
--*who_luigi
-      De quel fardeau
-Tu soulages mon coeur !
-
--*who_paolo
       Amis jusqu'au tombeau.
 Parlons donc franchement. Cher Luigi, je m'étonne,
 Mais sans m'en irriter, que mon frère abandonne
 L'humble paix du chrétien qui n'a jamais douté
 Pour l'orgueilleux plaisir de l'incrédulité.
 
--*who_luigi
-Moi, ce qui me surprend, sans que je m'en offense,
-C'est qu'un esprit si droit par habitude encense,
-Avec un vieux respect qui n'est plus de saison,
-Des abus avérés que proscrit la raison.
-
--*who_paolo
 Triste fruit des discours, des livres d'un sectaire !
 
--*who_luigi
-Les as-tu lus ?
-
--*who_paolo
       Moi ! non.
 
--*who_luigi
-      Fais-le donc.
-
--*who_paolo
       Pour le faire,
 Je les méprise trop.
 
--*who_luigi
-      Avant de condamner,
-Tu conviendras pourtant qu'il faut examiner.
-
--*who_paolo
 Quoi ? Les rêves d'un fou ?
 
--*who_luigi
-      Que plus d'un sage écoute.
-
--*who_paolo
 Le lire ou l'écouter, c'est admettre qu'on doute.
 
--*who_luigi
-Douter, c'est faire un pas.
-
--*who_paolo
       Vers le mal.
 
--*who_luigi
-      Vers le bien.
-
--*who_paolo
 Nous différons d'avis.
 
--*who_luigi
-      Tu crois tout.
-
--*who_paolo
       Et toi, rien.
 
--*who_luigi
-Je crois sans fanatisme.
-
--*who_paolo
       On est donc fanatique
 En ne se traînant pas aux pieds d'un hérétique ?
 
--*who_luigi
-Voilà votre grand mot !
-
--*who_paolo
       C'est le mot juste.
 
--*who_luigi
-      Non.
-
--*who_paolo
 Eh bien ! D'un apostat, pour lui donner son nom.
 
--*who_luigi
-Luther ! Tu vas trop loin.
-
--*who_paolo
       Pas assez je proclame
 Que c'est un être vil.
 
--*who_luigi
-      Ah ! Prends garde !
-
--*who_paolo
 Un infâme !
 
--*who_luigi
-      Lui !
-
--*who_paolo
       Le dernier de tous.
 
--*who_luigi
-      C'est un prêtre inspiré.
-
--*who_paolo
 Par l'enfer.
 
--*who_luigi
-      Par le ciel.
-
--*who_paolo
       Pour qui rien n'est sacré.
 
--*who_luigi
-Mais...
-
--*who_paolo
       S'il écrit il ment, et s'il parle il blasphème.
 
--*who_luigi
-Mais l'insulter chez moi, c'est m'insulter moi-même.
-
--*who_paolo
 Chez toi ! Comme ta mère es-tu las de m'y voir ?
 
--*who_luigi
-Le droit de m'y braver, penses-tu donc l'avoir ?
-
--*who_paolo
 J'ai le droit d'accabler, d'écraser sous l'injure
 L'imposteur déhonté qui te pousse au parjure ;
 Le misérable !...
 
--*who_luigi
-      Arrête, ou...
-
--*who_paolo
       Quoi ?
 
--*who_luigi
-      Je me contiens.
-
--*who_paolo
 Quoi tu me chasserais ? Ose le dire ?
 
--*who_luigi
-      Eh bien !
-Admets que je l'ai dit.
-
--*who_paolo
       Je m'y devais attendre.
 Luther te saura gré d'une amitié si tendre.
 
--*who_luigi
-Encor !
-
--*who_paolo
       Mon Dieu je pars ; mais j'ai la liberté
 De reprendre chez toi ce peu que j'apportai.
 Tu m'en laisses le temps ?
 
--*who_luigi
-      Voici la nuit.
-
--*who_paolo
       Qu'importe ?
 
--*who_luigi
-Le ciel est orageux.
-
--*who_paolo
       En refermant ta porte,
 Sous ce toit fraternel, où je n'ai pas dormi,
 Tu te riras des vents ; et qui sait ? un ami,
@@ -2238,10 +529,6 @@ Mais que ton frère absent dehors marche sans guide,
 Trouve un gîte dans l'ombre ou doive s'en passer,
 Le bienvenuLuther t'en voudrait d'y penser.
 
--*who_luigi
-Toujours !
-
--*who_paolo
       De l'eau du ciel, des coups de la tempête,
 Quelque portait d'église abritera ma tête,
 Et sur la froide couche où tu m'auras jeté,
@@ -2251,10 +538,6 @@ Où cet hôte divin fermera ma paupière
 On est sûr de l'abri qu'on cherche dans ses bras ;
 Lui vous reçoit toujours et ne vous chasse pas.
 
--*who_luigi
-Tu peux jusqu'à demain retarder ton voyage.
-
--*who_paolo
 Comment ! Le coeur te manque ? Allons, reprends courage.
 Au reste, près d'ici prolongeant mon séjour,
 Je veux de ton triomphe attendre le grand jour :
@@ -2262,425 +545,57 @@ Il est fixé sans doute, et la veille... Pardonne,
 Car j'abuse du temps que ta pitié me donne.
 Adieu, parjure !
 
--*who_luigi
-      Adieu.
-
-**** *book_ *id_I20 *act_I
-
--*who_luigi
-      Des hauteurs de sa foi
-Doit-il fouler aux pieds la vertu devant moi,
-Étouffer la raison sous l'erreur qu'il préfère ?
-Non, certes ; j'ai bien fait je ne pouvais mieux faire.
-Qu'il parte ! Ah ! Dans nos jeux, lorsque nous nous quittions,
-C'était pour revenir, enfants que nous étions :
-Point de torts qu'à douze ans ne répare un sourire.
-Ce temps n'est plus ; le mot que je viens de lui dire
-Au coeur d'un vieil ami n'entre pas à moitié,
-Et reste dans la plaie en tuant l'amitié :
-Elle est morte.
-
-**** *book_ *id_I21 *act_I
-
--*who_thecla
-      À mon fils dois-je céder la place ?
-
--*who_luigi
-Ma mère, demeurez.
-
--*who_thecla
-      Il met bas son audace ?
-
--*who_luigi
-N'en redoutez plus rien.
-
--*who_thecla
-      Son orgueil a fléchi ?
-
--*who_luigi
-Du joug qu'il m'imposait je me suis affranchi.
-
--*who_thecla
-Gloire à vous !
-
--*who_luigi
-      Diffamer une vie exemplaire !
-Flétrir l'élu du ciel dont la raison m'éclaire !
-
--*who_thecla
-Et sous votre courroux vous l'avez terrassé ?
-Et vous l'avez fait taire ? Et vous...
-
--*who_luigi
-      Je l'ai chassé.
-
--*who_thecla
-Chassé !
-
--*who_elci
-      Qui ? Votre frère !
-
--*who_marco
-      Après quinze ans d'absence !
-
--*who_luigi
-Pas un mot, ou sortez !
-
--*who_elci
-      Ah ! C'est cruel.
-
--*who_luigi
-      Silence !
-Pour me blâmer ici tout le monde est d'accord.
-
--*who_elci
-On le plaint.
-
--*who_luigi
-      On m'offense.
-
--*who_marco
-      Allez, qui n'a pas tort
-Sans s'offenser de rien souffre qu'on lui réponde :
-Mécontent de soi-même on l'est de tout le monde.
-
--*who_elci
-Vous ne m'avez jamais parlé si durement.
-
--*who_luigi
-C'est qu'on n'a jamais vu pareil aveuglement ;
-C'est que chacun s'obstine à me trouver coupable ;
-Prend parti contre moi, me méconnaît, m'accable ;
-Excepté vous, ma mère.
-
--*who_thecla
-      Et vous ne l'avez pas,
-Quand il a dit « Je pars, » retenu dans vos bras !
-
--*who_luigi
-Vous aussi !
-
--*who_thecla
-      Le chasser des lieux qui l'ont vu naître!
-De chez vous, de chez lui Sous ce toit dont le maître
-À cette heure de paix nous bénit tant de fois,
-Nous devions une nuit reposer tous les trois.
-
--*who_luigi
-Indigne pour Luther, j'eus tort de le défendre ?
-
--*who_thecla
-Non ; je ne dis plus rien.
-
--*who_luigi
-      Paolo va descendre.
-
--*who_elci
-Il est encore ici ?
-
--*who_luigi
-      Qu'il me tende la main,
-Je fais pour l'embrasser la moitié du chemin ;
-Sinon, il partira.
-
--*who_elci
-      Quoi ! Le jour qu'il arrive ?
-
--*who_thecla
-Sans qu'une fois du moins il soit notre convive ?
-
--*who_marco
-Adieu ! Puisqu'à choisir le ciel me réserva,
-Je suis le serviteur de celui qui s'en va.
-
--*who_luigi
-Libre à toi.
-
-**** *book_ *id_I22 *act_I
-
--*who_elci
-      Le voici.
-
--*who_thecla
-      Je me tais et je pleure.
-
--*who_elci
-Vous lui direz un mot !
-
--*who_luigi
-      Non.
-
--*who_marco
-      Faites qu'il demeure,
-Ou vos nuits sans repos commencent aujourd'hui,
-Et vous aurez chasse le sommeil avec lui.
-
--*who_luigi
-M'honorer d'un adieu lui semble une bassesse.
-
--*who_thecla
-Il est vrai.
-
--*who_luigi
-      Puis-je alors l'aborder sans faiblesse ?
-
--*who_elci
-Vous ne le verrez plus.
-
--*who_luigi
-      C'est lui donner raison ;
-Et je ne puis pas, moi, lui demander pardon !...
-
--*who_marco
-Il part.
-
--*who_thecla
-      Tout est fini !
-
--*who_luigi
-      Tout !
-
--*who_elci
-      Pardon pour mon père !
-
--*who_paolo
 Elci !
 
--*who_elci
-      Vous resterez.
-
--*who_paolo
       Laisse-moi ma colère
 Il a rompu les noeuds dont Dieu nous a liés.
 
--*who_elci
-Rien ne pouvait les rompre.
-
--*who_paolo
       Il m'a dit.
 
--*who_elci
-      Oubliez !
-
--*who_luigi
-Mon frère !
-
--*who_thecla
-      Mes enfants !
-
--*who_paolo
       Oui, j'oublierai, j'oublie ;
 Mais, par pitié pour toi, pour moi, qui t'en supplie,
 Cesse de m'arrêter; je veux fuir dans ce iieu
 Je vois planer sur nous les vengeances de Dieu ;
 La foudre gronde.
 
--*who_luigi
-      Ah ! Viens.
-
--*who_paolo
       C'est le deuil que j'apporte.
 
--*who_thecla
-Le bonheur.
-
--*who_marco
-      S'il le faut, je garderai la porte.
-
--*who_elci
-Et moi, mon prisonnier.
-
--*who_paolo
       Que fais-tu, chère Elci ?
 J'aurais dû résister.
 
--*who_thecla
-      Toi, là ; ton frère, ici ;
-Votre mère entre vous.
-
--*who_elci
-      Près de vous votre fille !
-
--*who_marco
-Et personne d'absent au banquet de famine !
-
--*who_luigi
-Grâce au ciel!
-
--*who_thecla
-      Un de moins, tous étaient malheureux.
-
--*who_paolo
 Tu ne penses qu'à moi.
 
--*who_elci
-      C'est penser à nous deux.
-
--*who_marco
-Laissez-la vous choyer ; je vous dis à l'oreille
-Que vous pourrez chez vous lui rendre la pareille.
-
--*who_paolo
 Ai-je un chez moi ?
 
--*who_luigi
-      Marco, tu trahis mon secret.
-
--*who_paolo
 Comment ?...
 
--*who_luigi
-      Cette maison que mon frère admirait,
-C'est la sienne.
-
--*who_paolo
       De grâce !...
 
--*who_luigi
-      Ou tu m'en veux encore,
-Ou tu l'accepteras.
-
--*who_paolo
       Dieu, que pour lui j'implore,
 Tu l'entends !
 
--*who_thecla
-      Prends, mon fils.
-
--*who_elci
-      Ces fruits, ils sont à vous ;
-Car dans votre verger je les ai cueillis tous.
-
--*who_paolo
 Toi !
 
--*who_marco
-      Quand mettrai-je à bas vos blés qui sont superbes ?
-Je suis prêt.
-
--*who_luigi
-      De mes mains j'irai lier tes gerbes.
-
--*who_thecla
-Moi, les compter.
-
--*who_elci
-      Et moi, me mêlant aux glaneurs,
-De vos épis tombés leur faire les honneurs.
-
--*who_paolo
 Mon coeur est inondé d'une ivresse inconnue.
 
--*who_luigi
-Tu permets qu'un vieillard boive à ta bienvenue ?
-
--*who_marco
-Jusqu'aux bords !
-
--*who_luigi
-      À l'ami qui s'est fait désirer,
-Mais dont rien désormais ne peut nous séparer !
-
--*who_thecla
-Par qui de mes beaux ans la verdeur va renaître !
-
--*who_elci
-Que j'appris à chérir avant de le connaître !
-
--*who_marco
-À l'enfant bien-aimé pour qui j'ai fait des voeux,
-Lorsque l'eau du baptême a mouillé ses cheveux !
-
--*who_paolo
 Qu'à son banquet céleste ainsi Dieu nous rassemble!
 
--*who_marco
-Oui, tous les braves gens y trinqueront ensemble :
-Vous et lui.
-
--*who_paolo
       Tu le crois ?
 
--*who_marco
-      Quand je me porte bien ;
-Indisposé, j'ai peur et n'affirme plus rien.
-Mais un beau jour d'octobre, où la récolte donne,
-Vient-il me ranimer, plus gaillard, je raisonne ;
-Comment ? En jardinier. Je me dis : Les humains
-Ressemblent aux fruits mûrs qui tombent dans nos mains,
-Nous jetons les mauvais ; pour les bons, qui s'informe
-S'ils diffèrent de goût, de couleur et de forme ?
-Ainsi de nous, le jour où comme eux nous tombons,
-Dieu ne fait que deux parts : les mauvais et les bons.
-
--*who_paolo
 Ta morale, Marco, me semble peu sévère.
 
--*who_elci
-La faute en est au vin dont j'ai rempli son verre.
-
--*who_thecla
-Soit ; mais.
-
--*who_luigi
-      Un voyageur a besoin de sommeil :
-Va reposer, mon frère.
-
--*who_thecla
-      Adieu jusqu'au réveil.
-
--*who_elci
-Ici pour vous revoir je serai la première.
-
--*who_thecla
-J'y viendrai, cette nuit, le front dans la poussière,
-Conjurer le Seigneur d'être avec toi demain.
-
--*who_paolo
 Demain, grand Dieu !
 
--*who_marco
-      Faut-il vous montrer le chemin ?
-
--*who_paolo
 Je le sais ; va dormir.
 
--*who_marco
-      De grand coeur ; jamais homme,
-Si l'homme heureux dort bien, n'aura fait meilleur somme.
-
-**** *book_ *id_I23 *act_I
-
--*who_paolo
 Luigi !...
 
--*who_luigi
-      Que veux-tu, frère ?
-
--*who_paolo
       Un dernier entretien.
 
--*who_luigi
-Crois-moi ; pour mon repos autant que pour le tien,
-Il vaut mieux l'ajourner.
-
--*who_paolo
       Non, car je le redoute.
 
--*who_luigi
-Tu me pardonneras un refus qui me coûte :
-Je ne dois sur mon lit me jeter qu'un instant ;
-À minuit je me lève, et c'est en méditant
-Que j'attendrai le jour.
-
--*who_paolo
       Pourquoi ?
 
--*who_luigi
-      De te l'apprendre
-Le temps n'est pas venu.
-
--*who_paolo
       Reste ; un mot peut me rendre
 La paix dont j'ai besoin pour que du haut des cieux
 Le sommeil qui me fuit descende sur mes yeux.
@@ -2689,34 +604,15 @@ Passer toute une nuit si voisin de ta couche,
 Je ne le puis j'ai peur d'y faire un rêve affreux :
 Je sortirai d'ici ; j'y serais.
 
--*who_luigi
-      Malheureux ?
-Peux-tu l'être avec nous ?
-
--*who_paolo
       Bien malheureux, sans doute,
 Désespéré, Luigi.
 
--*who_luigi
-      Ta main est froide.
-
--*who_paolo
       Écoute !...
 N'as-tu rien entendu ?
 
--*who_luigi
-      Rien qui m'alarme.
-
--*who_paolo
       Eh ! Quoi !
 Aucun avis du ciel n'est venu jusqu'à toi ?
 
--*who_luigi
-J'entends les vents gémir dans la cime des hêtres,
-La pluie à coups pressés bat contre les fenêtres ;
-Un orage en passant trouble la paix des nuits.
-
--*who_paolo
 Rien d'étrange pour toi ne se mêle à ces bruits ?
 Mais les vents,quand leur souffle, autour des sépultures,
 Prête à l'arbre des morts de si tristes murmures ;
@@ -2725,10 +621,6 @@ Blanchissent les tombeaux de leurs pâles éclairs ;
 Non, la foudre et les vents, dans l'horreur des ténèbres,
 Sans un ordre de Dieu, n'ont pas ces voix funèbres.
 
--*who_luigi
-Rappelle ta raison.
-
--*who_paolo
       Ma raison ! Devant lui
 Qui peut mettre sa force en un si frêle appui ?
 La foi nous soutient seule ; et tu trahis la tienne.
@@ -2738,10 +630,6 @@ Que sous l'oeil irrité de ce Dieu dont le bras,
 En suspens pour frapper, choisit déjà la place,
 Tu sens s'évanouir ta sacrilège audace.
 
--*who_luigi
-Ce serait t'abuser.
-
--*who_paolo
       Réponds, jure qu'au moins
 Ce jour où du forfait les cieux seraient témoins,
 Ce jour, déjà mortel même avant qu'il arrive,
@@ -2749,10 +637,6 @@ Qui soulève mon sein d'une horreur convulsive,
 Décolore mon front, fait fléchir mes genoux,
 Ce jour de désespoir est encor loin de nous.
 
--*who_luigi
-Il est prochain.
-
--*who_paolo
       Qu'il n'ait ni lendemain, ni veille ;
 Qu'il ne soit pas, ce jour ! Si sa clarté m'éveille,
 Ce sera pour gémir, pour te pleurer absent.
@@ -2771,51 +655,16 @@ Et, laissant choir le coup que sa pitié retient,
 Dise à l'Éternité : Prends ce qui t'appartient !
 Ah ! Repens-toi, Luigi.
 
--*who_luigi
-      Ton espoir n'est qu'un songe ;
-Dois-je, en le confirmant, m'abaisser au mensonge ?
-Je n'y descendrai pas.
-
--*who_paolo
       Tu te perds.
 
--*who_luigi
-      Mon erreur,
-Je la désavouerai sans remords, sans terreur.
-
--*who_paolo
 Mais tu te perds, te dis-je !
 
--*who_luigi
-      Et ce grand sacrifice,
-Qu'impose à ma raison la céleste justice,
-Que ne peut retarder aucun effort humain.
-
--*who_paolo
 Tais-toi.
 
--*who_luigi
-      Je t'offrirai.
-
--*who_paolo
       Ne dis pas quand !
 
--*who_luigi
-      Demain.
-
--*who_paolo
 C'est demain !
 
--*who_luigi
-      Tu sais tout. S'il est vrai que tu m'aimes,
-Après l'acte accompli, nous resterons les mêmes :
-Si je te fais horreur, j'aimerai seul, et Dieu
-Jugera qui de nous suit son précepte. Adieu,
-Ou plutôt à revoir !
-
-**** *book_ *id_I24 *act_I
-
--*who_paolo
       Demain ! Ce mot funeste
 A de ma vie éteinte anéanti le reste,
 Et, brisé sous le coup, mon coeur sans battement
@@ -2865,18 +714,762 @@ Mais, un signe ! Un seul mot !... Si l'ordre est répété,
 Je ne le verrai plus que dans l'éternité.
 Ciel ! ma mère.
 
-**** *book_ *id_I25 *act_I
+Que dit-elle ?
 
--*who_thecla
+J'écoute.
+
+J'obéis.
+
+      Je succombe.
+
+      Ombre de mon vieux père,
+Murmure à son chevet des mots de repentir,
+Et sauve en l'assistant l'âme qui va partir !
+Je ne le puis.
+      Où fuir cette voix déchirante ?
+
+      Encor vous !
+
+C'est Dieu qui l'a voulu.
+
+      C'est vous sur le seuil
+Ne vous ai-je pas dit que j'apportais le deuil ?
+
+      La mort !
+
+      Sans crime ;
+Par devoir.
+
+      Priez !
+
+      Pour la victime.
+
+      Un pécheur qui lutte près de nous
+Entre l'Enfer et Dieu.
+
+      À genoux !
+Priez, enfant, priez ; l'éternelle clémence
+Ne repoussera pas les voeux de l'innocence.
+
+Mon ami !
+
+Ah ! Luigi !
+
+Crains ton juge et reviens à la foi véritable !
+
+      Crois et sois enfanté
+Par une mort chrétienne à l'immortalité !
+
+      Perdu !
+
+      Dieu, tu m'as donc trompé ?
+
+      Non, vous l'avez maudit !
+
+
+**** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marco
+
+      J'accours, maîtresse.
+
+      Tout est prêt.
+
+Nous serons donc céans deux à penser de même.
+
+Que chacun suive en paix le culte qu'il préfère ;
+Choisir entre les deux n'est pas petite affaire.
+Le tisserand d'Augsbourg, Frantz, qui s'en est mêlé.
+En a l'esprit malade et le cerveau fêlé :
+Le mien tient bon ; je fais ce que faisait mon père,
+Et chrétien comme lui, je crois, j'aime et j'espère.
+
+Fou ! Tant qu'il vous plaira ! Sans crier anathème,
+J'entends le son joyeux qui fêta mon baptême ;
+Je sens comme un besoin d'être meilleur encor
+Quand mon patron me luit dans son grand cadre d'or :
+Mains jointes devant moi, ce saint que je contemple
+M'encourage à prier en me donnant l'exemple.
+Un bel alleluia m'épanouit le coeur,
+Et je me fais plaisir quand je me mêle au choeur.
+Ma voix chevrote un peu, mais son timbre résonne,
+Et je ne vois pas, moi, sinon que je détonne,
+Quel grand mal je commets lorsque dans le saint lieu
+Je chante à plein gosier les louanges de Dieu.
+
+Je crois très fermement qu'au mépris de l'autel,
+Travailler le dimanche est un péché mortel :
+Et puissent me punir Rome et son saint collége,
+Si j'ai quelque accointance avec ce sacrilège !
+Mais des actes permis le rire est-il exclus?
+Vous et les dissidents.
+
+      Non ! Les élus :
+Froids, recueillis, muets, vous craignez, je suppose,
+D'éveiller de si loin Dieu quand il se repose.
+Dieu vous approuve, soit; mais en chantre zélé,
+Pour sa gloire au lutrin lorsqu'on s'est signalé,
+Défend-il de noyer au fond de quelque tonne
+La soif qu'il nous causa dans le vin qu'il nous donne ?
+Le refrain vient de source et chez maître Martin,
+Les coudes sur la table, autour du broc d'étain
+Qui passe en se vidant et repasse à la ronde,
+Nous célébrons celui qui fit l'homme et le monde,
+Et croyons qu'en buvant, qu'en chantant le vin vieux,
+Nous le glorifions dans ce qu'il fit de mieux.
+
+Et s'il vous disait, lui... Ce que je ne dis point...
+
+      Que mon maître et vous errez sur plus d'un point ?
+
+Voilà comme elle entend la vérité.
+
+Mon amour pour la paix garantit mon silence.
+L'anneau de Salomon me répondrait du sien,
+Je ne m'y fierais pas.
+
+      Rien.
+Mais j'aperçois Elci.
+
+Pour aller de son oncle épier l'arrivée.
+
+      L'Église, qu'elle imite,
+En parure de fête à se parer l'invite.
+
+      Mais le jour du Seigneur.
+Chacun s'ajuste au mieux, et je m'en fais honneur
+Je tire l'habit neuf de l'armoire d'ébène,
+Et suis beau sans remords une fois par semaine.
+
+Au risque d'embrasser un passant tout surpris
+D'un bonheur imprévu qu'il n'aurait pas compris.
+
+Voilà de quoi fleurir une chapelle entière.
+
+      Écoutant sans dédain
+Les contes que je fais, quand elle est au jardin.
+
+Cueillez, coupez, pillez ; il en vient davantage :
+C'est bénédiction.
+
+      Fait-elle bien ou mal ?
+Dieu le sait mais son culte est l'amour filial.
+
+      À l'office prochain
+Je suivrai le bon oncle ; irez-vous ?
+
+      Déjà ?
+
+Hâtez-vous. Je descends jusqu'au bord de la source.
+Pour voir si du ruisseau rien n'arrête la course :
+Quand il suit son chemin il fait un bruit si doux !
+Je veux que les amis, bras dessus, bras dessous,
+Épanchent leurs deux coeurs près de ses ondes fraîches,
+En caressant de l'oeil le duvet de mes pêches.
+
+      Et qui donne fait mieux,
+Ange de charité !
+
+      Protestante ou fidèle,
+Elle ira droit aux cieux ; mais pour s'emparer d'elle
+Et l'y mener tous deux par différents chemins,
+La messe avec le prêche ici vont être aux mains.
+Non, ce cher Paolo par respect doit se taire
+II était à cinq ans quelque peu volontaire.
+Mon préféré, mon fils, ce petit révolté
+Qu'à l'école autrefois malgré lui j'ai porté,
+Je vais donc le revoir aujourd'hui, tout à l'heure,
+L'embrasser le premier !... On vient... Allons, je pleur !e
+Tout ému que je suis, restons maître de moi :
+Avant que de pleurer il faut savoir pourquoi.
+Quel air sombre ! Est-ce lui ?
+
+Mon ancienne amitié ne peut le méconnaître;
+Non, c'est toi, c'est bien toi !...
+
+      C'est vous, mon maître !
+
+      Je n'osais.
+
+      Jamais assez !
+
+      Vous me reconnaissez ?
+
+      J'ai vieilli.
+
+Qu'est-ce qu'un peu de fatigue ?
+
+      L'ennui
+Qu'un triste pèlerin traine en route avec lui ?
+
+      Pourquoi donc ne l'avoir pas chassée ?
+
+      Bien vêtu, bien nourri,
+Je suffis, sans fatigue, aux soins du jardinage.
+L'hiver j'ai du loisir ; l'été je me ménage.
+Si mes melons ont soif, je suis leur sommelier ;
+Mais quand j'ai soif aussi, je me sers le premier.
+
+      Je la suis.
+
+Mais en vieillard.
+
+      À ma façon.
+
+Vous jeûnez ; moi, je tiens que, passé soixanteans,
+On peut en prendre à l'aise avec les Quatre-Temps.
+Pour les veilles, néant ; hors si Noël arrive,
+Vu que le réveillon me met sur le qui-vive.
+Quant à mon confesseur, ses avis sont ma loi ;
+Mais le vieux que j'ai pris dit toujours comme moi ;
+Et si, par grand hasard, il me prêche abstinence,
+C'est chose de santé plus que de continence.
+Je ne blâme personne et ne m'émeus de rien ;
+Doux pour moi, bon pour tous, je ris et mène à bien,
+Sans faire l'esprit fort, ni trancher de l'apôtre,
+Ma joie en ce bas monde et mon salut dans l'autre.
+
+Non.
+
+      Non pas.
+
+Et que pouvait contre eux un pauvre domestique ?
+J'ai crié, mais tout bas ; car, à ne point mentir,
+Je n'eus jamais en moi l'étoffe d'un martyr.
+
+      Vous hésitez!
+
+      Il vous aime.
+
+      Il est toujours le même.
+
+      Expliquez-vous.
+
+      Parlez.
+
+      Qui répand ce bruit-là ?
+
+      Quelque ennemi !
+
+      Voilà
+Comme on brouille les gens !
+
+Eh ! Pourquoi pas ?
+
+Incertain !
+
+      Souffrez que je m'explique.
+
+      Si fait.
+
+Je le suis trop pour elle et pas assez pour lui.
+
+      Au moins...
+
+Au moins voyez la chambre où vous vous plaisiez tant.
+
+      Des deux côtés voilà qu'on me soupçonne
+Soyez donc modéré, pour ne plaire à personne.
+Montez.
+
+Je cours vers votre frère.
+
+      Pardon !
+
+      Sans doute,
+Et je vais, j'en suis sùr, le trouver sur ma route,
+Qui, les deux bras tendus, et de larmes baigné.
+
+      Je m'y perds.
+
+      Cette fois,
+Il a paré le coup.
+
+      Qu'elle y reste !
+
+      Ah ! La voilà partie !
+Le démon de Luther se met de la partie.
+
+Fausse comparaison, maîtresse ; car j'estime
+Qu'il n'a pu, n'ayant rien, manger sa légitime.
+
+Bon ! Dieu fera le sourd pour ne s'en pas fâcher.
+
+      Le premier choc fut rude;
+Mais quand de disputer ils auront l'habitude...
+
+      Mon maître.
+
+      Un mot !
+
+      Cet homme à barbe grise,
+Ce moine, qui jamais ne parle sans prêcher,
+Et même quand il prie a l'air de se fâcher,
+Il est en bas.
+
+      La diète, qui l'exile,
+Entend que sous deux jours il cherche un autre asile ;
+Mais il veut en partant vous bénir de sa main,
+Et la cérémonie est fixée à demain.
+
+      Ce qui se passe,
+Et ce qu'à ma maîtresse il contait à voix basse.
+Mais s'il allait monter.
+
+Je viens de l'avertir.
+
+      Sur ce point m'en croirez-vous ?
+
+      C'est d'un bon frère.
+
+      L'alternative est dure.
+
+      Je ne dis pas cela ;
+Mais je n'ai pas d'ami qui m'aime à ce point-là.
+Heureusement !
+
+      En tout cas je proclame
+Que je suis bon chrétien, chrétien de coeur et d'âme,
+Pour que vous le sachiez et le fassiez savoir
+Aux amis trop ardents que je pourrais avoir.
+Mais votre nièce accourt ; je vous laisse avec elle.
+
+      Dans ces sentiments doux
+Qu'elle inspire si bien, que le ciel vous maintienne !
+Adieu ! Comme il entend la charité chrétienne!
+Quel homme !
+
+      Après quinze ans d'absence !
+
+      Allez, qui n'a pas tort
+Sans s'offenser de rien souffre qu'on lui réponde :
+Mécontent de soi-même on l'est de tout le monde.
+
+Adieu ! Puisqu'à choisir le ciel me réserva,
+Je suis le serviteur de celui qui s'en va.
+
+      Faites qu'il demeure,
+Ou vos nuits sans repos commencent aujourd'hui,
+Et vous aurez chasse le sommeil avec lui.
+
+Il part.
+
+      S'il le faut, je garderai la porte.
+
+Et personne d'absent au banquet de famine !
+
+Laissez-la vous choyer ; je vous dis à l'oreille
+Que vous pourrez chez vous lui rendre la pareille.
+
+      Quand mettrai-je à bas vos blés qui sont superbes ?
+Je suis prêt.
+
+Jusqu'aux bords !
+
+À l'enfant bien-aimé pour qui j'ai fait des voeux,
+Lorsque l'eau du baptême a mouillé ses cheveux !
+
+Oui, tous les braves gens y trinqueront ensemble :
+Vous et lui.
+
+      Quand je me porte bien ;
+Indisposé, j'ai peur et n'affirme plus rien.
+Mais un beau jour d'octobre, où la récolte donne,
+Vient-il me ranimer, plus gaillard, je raisonne ;
+Comment ? En jardinier. Je me dis : Les humains
+Ressemblent aux fruits mûrs qui tombent dans nos mains,
+Nous jetons les mauvais ; pour les bons, qui s'informe
+S'ils diffèrent de goût, de couleur et de forme ?
+Ainsi de nous, le jour où comme eux nous tombons,
+Dieu ne fait que deux parts : les mauvais et les bons.
+
+      Faut-il vous montrer le chemin ?
+
+      De grand coeur ; jamais homme,
+Si l'homme heureux dort bien, n'aura fait meilleur somme.
+
+
+**** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thecla
+
+Bien ! Gloire à Dieu, Luigi ! Du moins mon premier-né
+Suit l'exemple pieux qu'à deux fils j'ai donné.
+Puissé-je voir ton frère entrer dans cette voie,
+Et comme Siméon je mourrai de ma joie.
+
+      Rougis de son aveuglement.
+
+      Il s'y plaît, s'attache obstinément
+À Rome, à ce cadavre, à cette chair impure
+Qu'un souffle de Luther a mise en pourriture.
+
+      Crime horrible envers le Dieu jaloux !
+
+      Mais catholique !
+
+      Catholique ?
+
+      Et digne qu'on le pleure,
+Que je regretterai jusqu'à ma dernière heure ;
+Mais catholique, enfin!
+
+Église alors, mon fils ; mais nos ardents hommages
+Au ciel, en holocauste, ont offert ses images,
+Ses marbres, ses tableaux, jusqu'à ce Raphaël,
+Dont les lambeaux brûlants sont tombés sur l'autel.
+
+      Point de soupir ! Laissez à l'Italie
+D'un culte qui se meurt l'idolâtre folie.
+Le courroux des élus fit oeuvre de raison
+Lorsqu'on brûlant un meuble il sauva la maison,
+Et, sans votre séjour dans une autre Gomorrhe,
+Vous n'auriez pas, mon fils, pour des arts que j'abhorre,
+Des simulacres vains, sans vie et sans pouvoir,
+Ces mollesses de coeur que j'ai honte à vous voir.
+
+Ce fut alors qu'au sein de son humble servante
+Descendit du Seigneur la parole vivante ;
+Mais par vous aux faux dieux Paolo confié
+Ne suça point ce lait qui l'eût purifié.
+
+Et, prélat ! Qu'il était, ne tint pas sa promesse.
+L'Ecclesiaste a dit : « Tout n'est que vanité. »
+Paolo se crut riche, et pauvre il est resté.
+
+      Confiance imprudente !
+
+Qui l'excuse du moins. Son humeur sombre, ardente,
+Ses désirs excités et jamais assouvis,
+S'irritaient, s'ennammaientau fond des saints parvis :
+Son coeur s'y consumait en extases mystiques,
+Comme les pâles feux mourant sous leurs portiques,
+Et dans les flots d'encens de leurs solennités
+Vers les cieux s'exhalait, ivre de voluptés ;
+Mais quels attraits divins lui paraient son idole ;
+Pompe auguste, rayons d'une triple auréole,
+Gloiremorteet vivante, oeuvre des arts, beauxjours...
+Ah ! Quand on les a vus, on y rêve toujours.
+
+Au moment d'abjurer la loi qu'on y professe,
+Vers sa fange, mon fils, quel regret vous rabaisse ?
+
+Et vous la détestez en secouant sa chaine ?
+
+De la robe du Christ qui revêt la blancheur
+Doit haïr le péché.
+
+Jusqu'au pécheur lui-même, alors qu'il persévère,
+Fût-ce un frère, le vôtre ; oui, votre propre frère.
+
+      De mon coeur je le chasse aujourd'hui.
+
+      Je l'en arrache, et je ne vois en lui
+Qu'une âme par l'orgueil de lèpre dévorée,
+Qu'une impure brebis d'Israël séparée,
+Loin du bercail céleste errant à l'abandon,
+Et pour qui je n'ai plus ni baisers ni pardon.
+
+      Qui ? moi ! redevenir la sienne !
+Jamais ! Et c'est ainsi qu'une mère est chrétienne.
+
+      Je ferai mon devoir :
+Jamais !
+
+Qu'entends-je ?... Il cède enfin à vos longues prières?
+
+      Pour fermer mes paupières ?
+
+      L'absent revient à nous !
+Ta servante, ô mon Dieu, t'en rend grâce à genoux.
+
+      Suis-je donc insensible ?
+Étouffer la nature, est-ce un effort possible ?
+Le voir après quinze ans ! Mon fils !... Il m'est rendu !
+Je puis mourir : le fils que je croyais perdu
+De sa vieille Thécla suivra les funérailles ;
+Lui, dont le doux fardeau fit frémir mes entrailles ;
+Lui, le sang de mon sang, le fruit de mes douleurs ;
+Ma voix expire et s'éteint dans mes pleurs.
+
+      Me le cacher !
+
+      Il arrive ! Et quand ? Par quelle route ?
+Comment ?
+
+Et peut-être, Luigi, nous le convertirons.
+
+      Ô joie inespérée !
+Sa chambre d'autrefois est-elle préparée,
+Celle où vos lits voisins se touchaient tous les deux ?
+
+      Il faut encor... je veux....
+Marco ! M'entendra-t-il ? Marco !
+
+Retrouve tes vingt ans, rajeunis d'allégresse :
+Mon Paolo revient.
+
+Quoi ! La maison entière était dans le secret ?
+
+Oui, catholique aussi !
+
+      Ne va pas
+Prendre avec lui les airs de nous blâmer tout bas.
+
+C'est bien mais à quoi bon vos hymnes, votre encens,
+Vos cloches dont le branle assourdit les passants,
+Vos saints qu'un cierge éclaire et que votre oeil adore
+Sur la toile enfumée où le ver les dévore ?
+
+Pour corriger un fou jamais il n'est trop tard.
+
+Mais le jour du repos, vous le passez en fête.
+
+      De vos refrains vous nous brisez la tête.
+
+      Marco !
+
+Ai-je mis à l'entendre assez de patience ?
+
+En aurai-je besoin ?
+
+Le cacher !
+
+Peur terrestre, Luigi ! La vérité qui blesse,
+Je l'entends sans colère et la dis sans faiblesse.
+
+Quoi ?
+
+Merci de Dieu ! Marco, voulez-vous qu'on vous chasse?
+
+De notre grand Luther l'apôtre préféré
+Des lumières du siècle est sans doute éclairé ;
+Mais ne demandez pas à sa science humaine
+Ce courroux vigoureux, cette ferveur de haine
+Où son maître puisa l'àcre sincérité.
+Qui débordait en lui contre l'iniquité,
+Quand pour l'aveugle même il a rendu visible
+Jusqu'où pouvait faillir la parole infaillible,
+Et qu'il a mis à nu, de ses viriles mains,
+Tout ce ramas honteux de mensonges romains.
+Mélanchton, qui n'a point cette franchise amère,
+Eût-il pu rien détruire ?
+
+Ah ! Faible que je suis !
+
+      Pénible effort !
+
+      Si je puis ; mais j'ai tort.
+À ta langue, Marco, tu feras violence !
+
+      Que murmurez-vous ?
+
+      Venez, petite fille :
+Vous étiez contre moi du complot de famille.
+
+      Ces cadeaux d'Italie,
+Je les crains.
+
+Aussi, pour votre bien, je vous dis sans détours
+Qu'un peu de vanité se sent dans vos atours.
+
+Pas aujourd'hui Marco.
+
+      Moi ?
+
+      Prends garde.
+
+      Tu ris, friponne.
+
+      Il est vrai, quand jadis
+Le long des épis verts je suivais mes deux fils.
+
+      Souvent je la vois grave.
+
+Devinant tous nos voeux !
+
+Il ne lui manque plus que d'aller dans le temple
+Honorer ma vieillesse en suivant votre exemple.
+
+      Tu l'entends ?
+
+      Voici l'heure où, dans leur conférence,
+Luther et Mélanchton font assaut d'éloquence :
+De leur présence auguste ils veulent honorer
+La fête qui bientôt doit vous régénérer :
+Venez puiser d'avance une nouvelle vie
+À ce banquet de l'âme où leur voix vous convie.
+
+      Au temple ils prêcheront demain ;
+Y viendras-tu ?
+
+      Ce bras-là pour ma Bible.
+L'autre pour moi ! Partons.
+
+Il est ici !
+
+      Mon fils !
+
+      Seul bien
+Qu'au ciel je demandais !
+
+      Le mien,
+Le mien, qui m'est rendu !
+
+      Sous les larmes,
+Les baisers maternels.
+
+Parle-moi.
+
+      J'ai tant gémi sur toi !
+
+      Je n'étais que malheureuse.
+
+      Vous plaindre, est-ce une offense ?
+
+      Ah ! C'est vrai.
+
+      Grâce à la Providence,
+Tu trouveras ici la gaîté, l'abondance,
+L'union.
+
+      Mais c'était juste aussi ;
+Dieu protège les siens.
+
+      Cependant l'un prospère ;
+Mais l'autre...
+
+Je m'entends.
+
+Qu'à l'esprit qui s'obstine un jour le ciel pardonne !
+C'est mon voeu.
+
+      Pour l'aveugle à quoi sert la clarté ?
+
+L'erreur !
+
+Unis, toujours unis, en priant l'un pour l'autre !
+Oublions tout. Ta main !
+
+Embrassons-nous, mon fils, et de bonne amitié.
+Je vous quitte ; Marco ne fait rien qu'à moitié.
+J'aurai du soin pour deux. Que le foyer pétille ;
+Grand feu ! Fête au logis et banquet de famille !
+Après un si long deuil que la joie ait son tour,
+Puisque l'enfant prodigue est enfin de retour.
+
+Respect à l'Écriture ! En rire, c'est pécher.
+
+Silence ! Et suivez-moi.
+
+Que dit-elle ?
+
+Mais, avant tout, mon fils de respecter sa mère.
+
+      Sortez.
+
+      Faites voir
+Que ce respect pour vous est encore un devoir.
+
+Vain souvenir d'un temps où je fus idolâtre !
+
+      Nuit d'erreur !
+
+      J'étais marâtre.
+
+      Alors, les égarant tous deux,
+Je perdais mes enfants.
+
+      L'un d'eux
+Va se rouvrir le ciel.
+
+Quittez donc votre culte.
+
+Il est fatal.
+
+      Sacrilège.
+
+      Et ne vous voit-il pas ?
+
+      Est-ce de faire outrage
+À tous les droits sacrés qu'avec lui je partage ?
+
+Retournez donc à Rome, où l'esprit d'imposture
+Triomphe et foule aux pieds les lois de la nature.
+
+      Lui, vous suivre ?
+
+      Ah ! Plutôt à mes pieds
+Que le courroux du ciel !
+
+Ne l'as-tu pas toi-même arraché de ma bouche ?
+Va donc ; fuis, porte ailleurs ta piété farouche.
+Rome te tend les bras ; fuis les miens, fuis ces lieux ;
+Mère, frère, pays, fuis tout ; dans ses adieux,
+Celle qu'un fils ingrat traite ici d'étrangère
+N'a plus de fils en lui, puisqu'il n'a plus de mère.
+
+      Vous avez entendu.
+Qu'au plus saint des devoirs par vous il soit rendu ;
+Qu'il dompte son orgueil ; qu'il force sa colère
+À respecter en moi ce qu'en lui je tolère ;
+N'exiger rien de plus, c'est me contraindre assez ;
+S'il ne le peut, qu'il parte, ou je pars choisissez.
+
+      À mon fils dois-je céder la place ?
+
+      Il met bas son audace ?
+
+      Son orgueil a fléchi ?
+
+Gloire à vous !
+
+Et sous votre courroux vous l'avez terrassé ?
+Et vous l'avez fait taire ? Et vous...
+
+Chassé !
+
+      Et vous ne l'avez pas,
+Quand il a dit « Je pars, » retenu dans vos bras !
+
+      Le chasser des lieux qui l'ont vu naître!
+De chez vous, de chez lui Sous ce toit dont le maître
+À cette heure de paix nous bénit tant de fois,
+Nous devions une nuit reposer tous les trois.
+
+Non ; je ne dis plus rien.
+
+Sans qu'une fois du moins il soit notre convive ?
+
+      Je me tais et je pleure.
+
+Il est vrai.
+
+      Tout est fini !
+
+      Mes enfants !
+
+Le bonheur.
+
+      Toi, là ; ton frère, ici ;
+Votre mère entre vous.
+
+      Un de moins, tous étaient malheureux.
+
+      Prends, mon fils.
+
+Moi, les compter.
+
+Par qui de mes beaux ans la verdeur va renaître !
+
+Soit ; mais.
+
+      Adieu jusqu'au réveil.
+
+J'y viendrai, cette nuit, le front dans la poussière,
+Conjurer le Seigneur d'être avec toi demain.
+
       Prions pour Luigi qui sommeille.
 Du sacrifice enfin c'est aujourd'hui la veille :
 Dieu, de t'offrir mon fils le moment est venu.
 Meure en lui le pécheur qui t'avait méconnu.
 
--*who_paolo
-Que dit-elle ?
-
--*who_thecla
       Et vers toi que le chrétien s'élance !
 Tu l'entends ton oracle a rompu le silence.
 Oui, ce livre inspiré, je l'ouvris au hasard,
@@ -2884,17 +1477,9 @@ Et le verset du texte où tomba mon regard
 Me dit qu'en l'acceptant tu bénirais l'offrande ;
 Car voici, Saint des saints, ce que ta voix commande :
 
--*who_paolo
-J'écoute.
-
--*who_thecla
       « Prends celui que tu aimes, ton unique sur la terre,
 Et va me l'offrir en holocauste ! »
 
--*who_paolo
-J'obéis.
-
--*who_thecla
       Couronnant mes efforts,
 Achève, Dieu vainqueur, fais-moi boire à pleins bords
 Les pures voluptés dont ta coupe est remplie :
@@ -2906,185 +1491,28 @@ D'une ardente ferveur l'émotion l'agite,
 Et ces sons étouffés qui me glaçaient d'effroi...
 Non, des gémissements arrivent jusqu'à moi.
 
--*who_luigi
-Paolo !
-
--*who_paolo
-      Je succombe.
-
--*who_thecla
       Il appelle son frère.
 Ah courons ; je frémis.
 
-**** *book_ *id_I26 *act_I
-
--*who_paolo
-      Ombre de mon vieux père,
-Murmure à son chevet des mots de repentir,
-Et sauve en l'assistant l'âme qui va partir !
-Je ne le puis.
-      Où fuir cette voix déchirante ?
-
-**** *book_ *id_I27 *act_I
-
--*who_elci
-Arrêtez !
-
--*who_paolo
-      Encor vous !
-
--*who_elci
-      Calmez mon épouvante.
-
--*who_paolo
-C'est Dieu qui l'a voulu.
-
--*who_elci
-      Quoi ?
-
--*who_paolo
-      C'est vous sur le seuil
-Ne vous ai-je pas dit que j'apportais le deuil ?
-
--*who_elci
-Il est ici !
-
--*who_paolo
-      La mort !
-
--*who_elci
-      Elle a frappé !
-
--*who_paolo
-      Sans crime ;
-Par devoir.
-
--*who_elci
-      Qui ?
-
--*who_paolo
-      Priez !
-
--*who_elci
-      Pour qui ?
-
--*who_paolo
-      Pour la victime.
-
--*who_elci
-Quelle est-elle ?
-
--*who_paolo
-      Un pécheur qui lutte près de nous
-Entre l'Enfer et Dieu.
-
--*who_elci
-      Je frissonne.
-
--*who_paolo
-      À genoux !
-Priez, enfant, priez ; l'éternelle clémence
-Ne repoussera pas les voeux de l'innocence.
-
-**** *book_ *id_I28 *act_I
-
--*who_thecla
 Sanglant ! Frappé dans l'ombre !... Un meurtre !... Des secours !
 Des secours !... Non !... Mort !
 
--*who_elci
-      Mon père !
-
--*who_thecla
       Elci, viens, cours !
 Viens, mon fils, courons tous ; qu'il rouvre sa paupière
 Sous les embrassements de sa famille entière !
 
--*who_elci
-Ah ! Que vois-je ? C'est lui !
-
--*who_thecla
       Ton père assassiné !
 
--*who_luigi
-Paolo ton ami jusqu'à toi s'est traîné.
-
--*who_paolo
-Mon ami !
-
--*who_elci
-      Mes baisers vous rendront à la vie ;
-Ils vont vous ranimer.
-
--*who_luigi
-      La force m'est ravie.
-
--*who_thecla
 Vois mes pleurs, vois le sang qui coule de son sein !
 Cours, Paolo ; poursuis, punis son assassin ;
 Venge-nous tous.
 
--*who_luigi
-      Demeure ; un mourant te l'ordonne ;
-Pardonne à l'assassin comme je lui pardonne.
-
--*who_paolo
-Ah ! Luigi !
-
--*who_luigi
-      Dans tes bras presse-moi, mon Elci !
-Des ombres du tombeau mon regard obscurci,
-Sur ces traits adorés que la douleur altère,
-Cherche encore un rayon du bonheur de la terre.
-Enfant, je vais dormir de mon dernier sommeil,
-Je ne te verrai plus me sourire au réveil.
-
--*who_thecla
 Pense au ciel et renie un culte abominable !
 
--*who_paolo
-Crains ton juge et reviens à la foi véritable !
-
--*who_thecla
 Abjure et sois chrétien !
 
--*who_paolo
-      Crois et sois enfanté
-Par une mort chrétienne à l'immortalité !
-
--*who_elci
-Non, ne me quittez pas !
-
--*who_luigi
-      La peur de ta colère
-N'affaiblit point, Seigneur, la raison qui m'éclaire ;
-Et ce que j'aurais fait pour vivre sous ta loi,
-Je le fais en mourant pour me rejoindre à toi :
-J'abjure.
-
--*who_thecla
       Il est sauvé !
 
--*who_paolo
-      Perdu !
-
--*who_elci
-      Votre croyance,
-Je l'embrasse, ô mon père ! Elle est mon espérance :
-Je vous suivrai du moins.
-
--*who_paolo
-      Dieu, tu m'as donc trompé ?
-
--*who_luigi
-Nous devons nous revoir le coup qui m'a frappé
-N'a pu rompre les noeuds d'une amitié si tendre...
-Je vous quitte ici-bas... mais... je vais vous attendre !
-
--*who_elci
-Il expire !
-
--*who_thecla
       Mon fils !...
       Ah ! que le meurtrier,
 Rebut des siens, horreur de son propre foyer,
@@ -3102,5 +1530,241 @@ Moi, qui n'ai plus de fils !
       Ah ! Pardon ! Qu'ai-je dit ?
 Il m'en reste un encor.
 
--*who_paolo
-      Non, vous l'avez maudit !
+
+**** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elci
+
+Contre vous, bonne mère ! Ah ! Dites mieux, pour vous.
+Un plaisir qui surprend n'en est-il pas plus doux ?
+
+Comment ne pas l'aimer ? Il m'aime, et tous les ans
+Je reçois de sa part quelques nouveaux présents.
+
+      Et moi pas ; ils me rendent jolie.
+
+Rien qu'un peu ?
+
+Et ces atours d'ailleurs, qui les rend plus mondains ?
+Vous.
+
+      Ces bijoux d'or sont un don de vos mains :
+Reprenez-les.
+
+      Osez.
+
+Vous n'oseriez.
+
+Hélas ! Pas lui, du moins.
+
+      D'instinct, de sentiment :
+Mon coeur m'eût dit : c'est lui ! De plaisir transportée,
+En trois bonds dans ses bras je me serais jetée.
+
+Lasse d'attendre enfin, j'ai fait comme l'abeille,
+Qui retourne au travail sitôt qu'elle s'éveille,
+Et, parfumée encor des courses du matin,
+Dans sa ruche en rentrant rapporte son butin.
+Je n'ai pas épargné les blés du voisinage ;
+Ces touffes de bluets en rendent témoignage ;
+Mon oncle aimait ces fleurs.
+
+      Prends pour orner la chambre qu'il préfère.
+
+La gaîté vous plaît tant !
+
+Vous aimez qu'on le soit.
+
+Mais du pauvre conteur les fruits sont au pillage.
+
+Ordonnez.
+
+Ma résolution ne peut rester douteuse :
+Je veux être avec vous heureuse ou malheureuse.
+
+      Peut-être.
+
+      C'est possible.
+
+Chacun veut la gagner.
+
+Adieu, Marco !
+
+      Ma tâche est commencée :
+J'habille du voisin la pauvre fiancée.
+J'achèverai trop tard si je perds un moment,
+Et donner à propos c'est donner doublement.
+
+Dieu bénisse, Marco, tes soins industrieux
+Va,qui travaille prie.
+
+Mon oncle en m'écrivant ne me disait pas : vous.
+
+      À ta bonne heure ; au moins
+Vous me donnez mon nom.
+
+      Par mes soins
+Je veux vous retenir en cherchant à vous plaire ;
+Je veux vous enchaîner.
+
+Pour toujours !
+
+Dont vos mains sur l'ivoire ont reproduit l'image ?
+
+      Admirant votre ouvrage,
+Pour vous, soir et matin, je priais.
+
+Je disais : qu'il revienne et me chérisse en père !
+
+      Et j'obtiens...
+
+Plus que je n'espérais.
+
+Non, car je comptais bien mettre la paix ici
+Entre vous et quelqu'un que je révère aussi.
+
+      Comment ?
+
+      Jusqu'au reproche
+Vous écouterez tout ?
+
+Alors je vais remplir mon grave ministère.
+
+      Vous avez peur ?
+
+      Si ma mère
+Traite certain sujet avec un peu d'aigreur,
+Vous serez indulgent ?
+
+Sans répondre ?
+
+      Sans répondre.
+
+      Et c'est convenu ?
+
+      En cercle, quand le soir
+Tous quatre autour du feu nous viendrons nous asseoir,
+Ne vous offensez pas si je prends soin moi-même
+De placer sous ses yeux le seul livre qu'elle aime.
+
+      La Bible.
+
+La Bible... de Luther.
+
+      Pendant cette lecture,
+Vous me regarderez.
+
+Mous causerons de Rome.
+
+      Nous lirons tous deux.
+
+      Mais bien bas, sans nous occuper d'eux.
+
+      C'est chose naturelle
+Qu'il ait sa liberté, s'il veut lire avec elle.
+
+      Mon père.
+
+      Ne craignez rien :
+Il respecte mon culte en pratiquant le sien.
+
+      Bon comme lui, vous suivrez son exemple,
+Et le jour du Seigneur, quand ils iront au temple.
+
+      Qu'avez-vous ?
+
+Pas encor.
+
+De quelques jours.
+
+Ne me regardez pas avec cet oeil terrible.
+
+Je tremble.
+
+Moi !
+
+      Qui ? Moi !
+
+      Aurais-je pu mentir ?
+
+      Et par moi !
+
+      De grâce !
+
+J'obéis.
+
+      Qui ? Votre frère !
+
+      Ah ! C'est cruel.
+
+On le plaint.
+
+Vous ne m'avez jamais parlé si durement.
+
+Il est encore ici ?
+
+      Quoi ! Le jour qu'il arrive ?
+
+      Le voici.
+
+Vous lui direz un mot !
+
+Vous ne le verrez plus.
+
+      Pardon pour mon père !
+
+      Vous resterez.
+
+Rien ne pouvait les rompre.
+
+      Oubliez !
+
+Et moi, mon prisonnier.
+
+      Près de vous votre fille !
+
+      C'est penser à nous deux.
+
+      Ces fruits, ils sont à vous ;
+Car dans votre verger je les ai cueillis tous.
+
+      Et moi, me mêlant aux glaneurs,
+De vos épis tombés leur faire les honneurs.
+
+Que j'appris à chérir avant de le connaître !
+
+La faute en est au vin dont j'ai rempli son verre.
+
+Ici pour vous revoir je serai la première.
+
+Arrêtez !
+
+      Calmez mon épouvante.
+
+      Quoi ?
+
+Il est ici !
+
+      Elle a frappé !
+
+      Qui ?
+
+      Pour qui ?
+
+Quelle est-elle ?
+
+      Je frissonne.
+
+      Mon père !
+
+Ah ! Que vois-je ? C'est lui !
+
+      Mes baisers vous rendront à la vie ;
+Ils vont vous ranimer.
+
+Non, ne me quittez pas !
+
+      Votre croyance,
+Je l'embrasse, ô mon père ! Elle est mon espérance :
+Je vous suivrai du moins.
+
+Il expire !
+

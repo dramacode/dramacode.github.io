@@ -1,75 +1,455 @@
 
 
-**** *book_ *id_I01 *act_I *date_1681 *creator_abeille
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
 
--*who_iphis
-Non, Madame, ma mort ou celle de Lyncée,
-Je dois ou l'une ou l'autre à ma gloire⁎ offencée,
-A mon espoir eteint , à mon amour trahy,
-J'ay trop cru vos conseils et trop bien obei.
+Que ne puis je à vos yeux deguiser ma foiblesse !
+Si pres de ce moment si long-temps souhaité,
+Des chagrins les plus noirs je me sens agité :
+Mille spectres affreux, mille craintes funebres,
+Ces serments violez, ces cruelles tenebres,
+Tant de sang repandu Dieux et par quelles mains,
+Tout trouble, tout confond mes esprits incertains .
+Hipermestre sur tout est ma plus rude peine,
+Sa vertu me fait peur et son amour me gesne⁎,
+Et puis qu'il n'est plus temps de rien dissimuler,
+Je n'ay pû me resoudre encore à luy parler.
 
--*who_erigone
+Que voulez vous ? cent fois rallumant ma colere,
+Affectant devant elle un air sombre et severe,
+Je me suis veu tout prest d'exiger de sa foy,
+Un effort où ses soeurs se hazardent pour moy ;
+Mais quoy je la voyois au seul nom de Lyncée,
+Rapeller sur son front sa tendresse passée,
+Et la subite ardeur de ses yeux languissants,
+Rabattoit aussitost mes regards menaçans .
+J'ayme. Au maux des amans l'amour m'a fait sensible,
+Quoy ? disois je , troubler un amour si paisible ?
+Ses soeurs d'un tel amour n'ont point senty les coups,
+Et leurs epoux enfin ne sont que leurs epoux .
+Mais que la raison veuille ou que l'amour consente,
+Qu'au meurtre de l'amant je contraigne l'amante,
+Mon coeur à ses fureurs peut il s'abandonner,
+Et l'amour se resoudre à me le pardonner ?
+
+L'oracle n'en veut qu'un Madame je l'avoüe,
+Mais des perils d'un homme un Dieu souvent se joue,
+Et ne luy donne avis qu'il peut y succomber,
+Qu'afin que l'oeil ouvert il s'y laisse tomber.
+Combien dans l'univers ont fait naistre des troubles
+Ces oracles tissus de mots confus et doubles,
+Qui de vastes horreurs et de perils affreux,
+N'envelopoient souvent que d'inutiles jeux,
+Qui me dit qu'aujourd'huy touchez de mes miseres,
+Ces Dieux en ma faveur sont devenus sinceres ?
+Tu crois, me disent ils , n'avoir plus d'ennemis,
+Pour avoir fuy ton frere et quitté ta patris,
+Evite si tu peux le fer d'un de ses fils,
+Qui te doit arracher la vie.
+Et par ces mots cruels et peut estre ambigus ,
+Neveux infortunez , vous estes tous perdus.
+
+Ah Madame voyez où vous m'allez reduire !
+Je sens qu'à vos soupirs je me laisse seduire,
+L'horreur de mon Peril ne m'a point abatu,
+Mais l'Image du vostre emporte ma vertu .
+N'en doutez plus, je veux qu'Hipermestre obeisse,
+Qu'elle offre à mon destin Lyncée en sacrifice,
+Qu'elle reçoive Iphis aujourd'huy pour epoux,
+Et que vous connoissiez que je n'ayme que vous.
+
+      Je trouble vostre Joye,
+Mais il faut qu'à vos yeux la mienne se deploye,
+Il faut que je la mesle à vos communs plaisirs,
+Prince n'opposez point d'obstacle à mes desirs.
+
+      D'aucun Rival ne craignez plus l'envie,
+Iphis qui se vouloit absenter de la cour,
+Qui seul par ses chagrins troubloit un si beau jour,
+S'est enfin laissé vaincre aux avis de sa mere,    
+Et prests à vous jurer une amitié sincere,
+Tous deux vont de ce pas chez vous pour vous l'offrir .
+
+Ma fille je connois l'ardeur de vostre flâme,
+Mais enfin il est temps de vous ouvrir mon ame .
+L'amour que vous inspire un époux pretendu,                17
+Ne fait il point de tort à celuy qui m'est dû ?
+Ne l'a t'il point eteint ?
+
+Je le sçay mais les miens sont ils bien aseurez ?    
+Quand je songe combien depuis vostre naissance,
+Entre vos soeurs et vous j'ay mis de difference,
+Que pour vous faire un sort digne de vostre choix,
+De l'aisnesse pour vous je violay les Droits,
+Que dispersant vos soeurs dans le fond de la Grece,
+De mes plus chers Etats je vous fais la metresse,
+Et que par le plaisir d'estre plus pres de vous,
+Je quitte pour Argos les plaisirs les plus doux,
+Lors que je me souviens que fuyant de Libye,
+Ma plus sensible crainte estoit pour vostre vie,    
+De pareils sentimans suivis de tant d'honneurs,
+Ma fille attandent plus de vous que de vos sœurs .
+
+      Ah ma fille !
+ 
+      Aussy n'est ce qu'à toy,
+Qu'un Roy persecuté, qu'un Pere miserable,
+Ose ouvrir le secret du tourment qui l'accable⁎ :
+On en veut à mes jours.
+
+      Un assassin,
+Peut estre avant la nuit tranchera mon destin,
+Peut estre...
+
+Ouy pour porter sur moy plus seurement ses coups.
+
+Luy, ses freres, ses chefs, ses amis, ses soldats,
+Sa flotte, tous , ma fille ont juré mon trepas.
+ 
+      N'accusez point Iphis.
+Accusez s'il le faut un oracle celeste,
+Qui m'explique en ces mots leur pratique funeste,
+En vain tu crois n'avoir plus d'ennemis,
+Pour avoir fuy ton frere et quitté ta patrie,
+Evite si tu peux le fer d'un de ses fils,
+Qui te doit arracher la vie .
+Consultez là dessus la nature et l'amour,    
+Pour sauver vostre amant trouvez y quelque jour .
+Ce n'est point un effet des complots d'Erigone,
+Argos ne m'avoit point encor veu sur son trone,
+Mon nom estoit encore inconnu dans ces lieux,
+Quand je fus averty par l'oracle des Dieux .
+Trois ans pour mon repos refusant de le croire,
+J'ay tâché vainement d'en perdre la mémoire,
+J'ay fait pour me tromper mille efforts impuissans,
+J'ay cherché des detours pour en troubler le sens,
+Mais le Ciel m'a donné des reponses trop claires :
+S'il ne marque pas Lyncée il marque un de ses freres,
+Et s'il faut dans leur sort ne point l'envelopper,
+Montrez moy l'assassin sur qui je dois fraper.
+
+Non vous l'epouserez. La Pompe⁎ est déja preste,
+Et vostre seul hymen⁎ peut garantir ma teste ;
+Mais alors consultant l'amour et le devoir,
+Songez que mes destins sont en vostre pouvoir.
+
+      Alors prevenant⁎ le barbare⁎,
+Vous tournerez sur luy le coup qu'il me prepare .
+
+      Non remplissez l'oracle,
+Voyez avec plaisir le barbare⁎ spectacle,
+D'un Pere massacré par la main d'un époux,
+Dont vostre cruauté veut seconder les coups .
+Laissez laissez , perfide , à des mains plus fidelles,
+Le soin⁎ de m'affranchir de mes craintes mortelles .
+Joignez vos coups à ceux d'un époux assassin,
+Pour me percer le coeur prestez luy vostre main,
+Vos soeurs seront sans vous…
+
+Je les crains ; et je veux prevenir⁎ la tempeste,
+Trancher à ce grand corps sa principale teste,
+Tous periront ; je veux qu'une juste fureur,
+M'oste avec l'assassin la crainte du vangeur,
+L'oracle les a tous livrez à ma vangeance,
+Quand il n'a sur aucun fixé ma deffiance .
+Si nous faisons un crime en prevenant⁎ leur coup,
+Le Ciel qui m'avertit en est chargé pour nous .
+Pourquoy donc quand les Dieux me livrent ma victime,
+Le soin⁎ de l'immoler vous semble t'il un crime ?
+Parmy tant d'ennemis envieux de mon rang,
+Est-il de seures mains pour verser tant de sang ?
+Si mesme parmy vous qui me devez la vie,
+Infortuné je trouve une fille ennemie,
+Qui fuit pour me sauver l'exemple de ses soeurs,
+Que ne devais je pas aprehender ailleurs ?
+Hipermestre est ce assez de me donner des larmes ?
+
+Eh bien vostre pitié n'ose me secourir,
+Cruelle , poursuivez, et me laissez mourir.
+
+Qu'on nous laisse. Madame admirez mon bonheur,
+De l'amour d'Hipermestre enfin je suis vainqueur .
+De la grandeur du coup d'abord épouvantée,
+Contre un ordre si dur elle s'est revoltée,
+Je sortois en fureur, elle a suivy mes pas,
+Et s'est renduë apres quelques legers combats .
+La grace que j'accorde à sa vertu timide⁎,
+Pour luy sauver le nom d'épouse parricide,
+C'est qu'avant qu'à Lyncée elle ait donné la main,
+Elle executera cet important dessein ;
+Ainsy sans outrager les Dieux de l'Hymenée⁎,
+Elle doit à l'instant fixer ma destinée .
+Mais quoy ce changement allarme vostre esprit ?
+
+Eh j'en recule expres la pompe⁎ dans la nuit .
+Contre la peur du bruit qui pourroit se repandre,
+La distance des Lieux suffit pour nous deffendre,
+Ses freres écartez sans secours, sans support⁎
+Pourroient ils profiter de l'avis de sa mort ?
+Leurs amis sont loin d'eux epars dans cette ville,
+S'ils osent resister leur deffaite est facile,
+Et la flotte sans chef aysée à repousser,
+Est toute en proye aux feux que j'y feray lancer ;
+Par honneur à present mes soldats sous les armes,
+Se trouveront tous prests aux premieres allarmes,
+La teste de Lyncée en sera le signal,
+Tout depend d'oprimer cet ennemy fatal .
+Vous aux soins⁎ de ma fille unissez vostre zele,
+On les attend au Temple et son amant fidelle,
+La viendra bientost prendre en cet apartement ;
+Opposez quelque obstacle à son empressement,
+Madame, en attendant qu'Hipermestre affermie,
+Y vienne ayder les Dieux à conserver ma vie .
+C'est pour vous obéïr que je prens tous ces soins⁎,
+Et sans vous mes perils m'epouvanteroient moins .
+Adieu ; je vay donner le peu de temps qui reste,
+Aux derniers apareils⁎ de cet hymen funeste.
+
+Faites venir ma fille ; entrons: c'est trop attendre .
+Le coup est fait Iphis, je te reçoy pour gendre .
+J'attendois ce moment pour te le declarer :
+Hipermestre est à toy.
+
+      A son sort ne porte plus d'envie,
+Cet Insolent Rival vient de perdre la vie.
+
+      Calme ce vain effroy,
+Et songe à meriter ce que je fais pour toy .
+Lyncée est mort ; avant que le bruit en eclate,
+Cours t'asseurer des chefs de cette race ingrate,
+Tous entrez apres luy l'attendent icy pres,
+J'ay fait fermer sur eux les portes du Palais ;
+Ces traistres mis aux fers je suis icy le maistre .
+Pour faire tout plyer nous n'avons qu'à parestre,    
+Et qu'à montrer aux yeux des soldats etonnez,
+La teste de leur Prince et leurs chefs enchaisnez .
+Cours, et vien recevoir icy ta recompense.
+
+Voyons ma fille et loin d'un objet plein d'effroy,
+Detournons ses regards... Mais elle vient à moy .
+
+Ma fille c'en est fait je voy sur ton visage,
+Briller encor le feu de ce masle courage,
+Qui t'a fait immoler un amant couronné,
+Et Rendre à Danaus le jour qu'il t'a donné .
+Sur le bord du tombeau je commence à revivre,
+J'y voy cet assassin dont ta main me delivre,
+Et libre des chagrins qui m'alloient consumer,
+Je n'ay plus aucun soin⁎ que celuy de t'aymer.
+
+      Trop heureux Danaus !
+Allez gardes qu'au peuple on en montre la teste.
+
+      Je pardonne à ce tendre retour,
+Quelque pitié peut bien survivre à tant d'amour.
+Allez.
+
+Je tremble, je fremis, c'est trop de resistance ;
+Non ma fille je veux jouir de ma vangeance,
+Voir si malgré l'amour vous m'avez obeï .
+Vous vous troublez perfide, ah vous m'avez trahy,
+Que l'on cherche, qu'on coure, et que la ville entière…
+Parlez ! qu'avez vous fait de l'assassin d'un Pere ?
+D'un assassin ! luy, moy, mes secrets, mes destins,
+D'un trosne, j'ay tout mis en vos perfides mains,
+Rendez, rendez moy tout.
+
+      Perissent à ce prix,
+Pere , soeurs et parents , objets de ses mepris,
+Pourveu que l'assassin se derobe à sa peine,
+Qu'il survive à ma mort , qu'importe à l'inhumaine ?
+Montre le moy que j'aille m'offrant à ses coups,
+Avancer un moment qui doit t'estre si doux .
+De quel endroit caché me viendra t'il surprendre ?
+Ingrate où l'as tu mis ?
+
+Ses sermens! vains appuis d'une mourante vie,
+Qu'à finir par sa main les Dieux ont asservie,
+Dy que pour garantir la foy de ton amant,
+Les Dieux de m'epargner t'ont fait aussy serment ;
+Dy que de mon repos rompant tous les obstacles,
+Ils ont en ma faveur dementy leurs Oracles ;
+Que mes jours par un frere autrefois traversez⁎,
+Du fer de ses enfans ne sont point menacez ;
+Et pour mieux éluder la celeste menace,
+Vien toy mesme à l'instant m'immoler en leur place,
+Derobe à ton amant l'honneur de mon trépas,
+Et cours digne de luy te jetter dans ses bras.
+
+Ouy , selon tes desirs j'ay trop longtemps vescu,
+Cruelle, il faut mourir j'en suis bien convaincu .
+Oracles trop obscurs il n'est plus temps de feindre,
+Enfin j'ouvre les yeux je voy qui je dois craindre :
+Tant de bras à mes loix ailleurs obeissans,
+Ne m'ont donc immolé que des coeurs innocens ?
+Le seul qui se derobe estoit le seul coupable,
+Sa fureur⁎ n'en devient que plus inevitable,
+Et tant de sang versé ne sert qu'à luy fournir,
+De plus justes raisons pour oser m'en punir .
+Parricide est ce là l'effet de tes promesses,
+Le fruit de tes amours, le prix de mes tendresses  ?
+Ah tu pretens un jour fidelle à ton serment,
+Venir sur mon tombeau couronner ton amant !
+Mais je sçauray briser vos noeuds illegitimes,
+Tu m'as trahy, c'est là le dernier de tes crimes.
+
+Qu'avons nous fait ? il fuit , il m'echape, il me brave,
+
+      Le Rival dont tu deviens l'esclave,
+L'assassin que les Dieux font maistre de mon sort .
+
+Et pouvois je penser qu'une fille ennemie,
+En faveur d'un amant dust hazarder ma vie,
+Le soustraire à mes coups pour me livrer aux siens ?
+Iphis , n'y pense plus, romps ces honteux liens,
+Arrache pour jamais l'ingrate de ton ame,
+Indigne de la vie elle l'est de ta flame .
+Attens un autre prix de ta fidelité .
+Et toy , lache , celuy de ton impieté.
+
+Que me dit elle , Iphis ?
+
+Perfide c'est trop loin pousser la cruauté.
+
+O Dieux!
+ 
+      Je ne crois ny n'accuse personne .
+Iphis laissez moy seul... Je veux voir Erigone :
+Vous sçavez , si mon coeur vous fut jamais connu,
+Qu'il n'est en sa faveur que trop bien prevenu⁎.
+
+O vous , par mes hauts faits si long temps soutenuës,
+Grandeur , gloire⁎, vertu , qu'estes vous devenuës ?
+Barbare⁎ Danaus , où me vois je reduit ?
+Vois je le jour apres cette sanglante nuit ?
+Tyran couvert du sang des plus nobles familles,
+Bourreau de mes neveux , seducteur de mes filles,
+Criminel tant de fois hay dans tous les coeurs,
+Et ce qui de mes jours va combler les horreurs,
+Apres tant d'attentats , de coups illegitimes ,
+Malheureux, et privé du fruit de tous mes crimes,
+Qu'ay je fait, et quel prix me suis je proposé ?
+Un seul coeur qu'à aymer je croyois disposé ;
+L'ardeur de cet amour m'a fait aymer la vie,
+C'est à cet amour seul que je vous sacrifie :
+Filles, neveux, sujets , grandeur , gloire⁎, vertu .
+Amour , cruel amour , m'abandonnerois tu ?
+Erigone oubliant sa conduite passée,
+Auroit elle tourné ses regards vers Lyncée ?
+Et par quelle autre voye auroit il donc apris,
+Que c'est par ses conseils que j'ay tout entrepris,    
+Qu'hier mesme à l'aspect de cette nuit sanglante,
+Elle enhardit au coup mon ame chancelante ?
+La perfide a tout dit, son crime est trop certain,
+Roy, Pere , amant , je hais et j'ayme donc en vain .
+Je hais; mon ennemy prest à subir sa peine,
+Par une fille impie , est soustrait à ma haine ;
+J'ayme ; Et l'objet fatal dont je me crois vainqueur,
+Offre à mon ennemy l'empire de son cœur .
+Qui de vous , fille ingrate et maitresse infidelle,
+Ou me fut la plus chere ou m'est la plus cruelle .
+Vains oracles à qui je me suis trop soumis,
+Pourquoy me cachiez vous mes plus grans ennemis ?
+Je fuis des assassins dont la mer me separe,
+Et tiens à mes costes une fille barbare⁎,
+Une amante perfide et je vois en un jour,
+S'elever contre moy la nature et l'amour .
+Et bien bravons aussy l'amour et la nature,
+Etouffons pour jamais leur insolent murmure,
+Je ne veux plus chez moy de Tyrans absolus,
+J'etois amant et Pere et je ne le suis plus.    
+
+Venez, venez pleurer nos communes disgraces,
+Venez de vostre amant reconnoistre les traces,
+Voir ces lieux imprimez de ses pas fugitifs,
+Ces marbres attendris par vos soupirs craintifs,
+Fidelles à cacher la honte de ma vie,
+Et temoins eternels de vostre perfidie .
+C'est icy que tantost vos feux ont eclaté :
+Vous avez d'un heros eprouvé la fierté⁎,
+L'ingrat a disparu par le secours d'une autre,
+Sans vous laisser son coeur il emporte le vostre ;
+Sur un coeur prodigue⁎ je ne pretens plus rien,
+Laissez le luy , perfide , et me rendez le mien.
+
+Ah juste Ciel ! jamais je ne la connus mieux,
+Je sens à vostre aspect mes premieres allarmes,
+Je voy, j'admire en vous la force de vos charmes,
+Ces discours si puissants à calmer mes douleurs,
+Et ces yeux si sçavants à repandre des pleurs ;
+Mais ce que vous cachiez à mon amour timide⁎,    
+Sous tant d'appas si doux je vois un coeur perfide,
+Ouy , vous m'avez trahy vous aymez en secret,
+Un Prince que pour vous j'immolay à regret ;
+Vous m'avez arraché l'aveu de son suplice,
+Pour acheter son coeur par ce lache artifice⁎,
+Pour le sauver apres me l'avoir fait trahir .
+Si vous l'aymiez pourquoy me le faire hair ?
+Vous n'aviez pres de moi qu'à prendre sa deffence,
+Qu'à blamer à propos ma juste deffiance,
+Il eut eu le loisir de mesurer ses coups,    1215
+Et j'aurois expiré sans me plaindre de vous ;
+Vous vouliez de ces coups vous reserver la joye,
+Eh bien vous en aviez une plus seure voye,
+Sans qu'il vous fut besoin d'employer le forfait :
+Ce qui vous couste un crime un dedain l'auroit fait,
+Un mepris, je mourois et vous estiez vangée .
+Qu'ay je donc fait depuis et qui vous a changée ?
+Parlez, ou seure encore du pouvoir de vos yeux,
+Faites parler vos pleurs, ils me seduiront mieux.
+
+Erigone un moment, le coup que je redoute,
+N'est pas…
+
+Elle fuit, qu'ay je dit! avecque quelle imprudence,
+Ay je si fierement attaqué sa confiance,
+Mes soupçons estoient ils assez bien asseurez ?
+Suivons ses pas, allons…
+
+Que dis tu?
+ 
+Vain pretexte! et mes gens ont quitté le Rivage,
+Ils ont cedé. Destins , achevez vos ouvrages,
+Et puisque vainement je m'oppose à vos coups,
+Frapez de tous costez je m'abandonne à vous.
+
+      Ouy Madame,
+J'entens les tristes cris des peuples pleins d'effroy,
+J'entens la voix des Dieux irritez contre moy,
+Je voy qu'à l'assasin leur fureur⁎ m'abandonne,
+Et je viens...
+
+Et je viens à vos yeux accomplir mon destin,
+A de cruels soupçons mon ame s'est livrée,
+Plus que jamais encore elle en est dechirée ;
+Mais quoy de vos parens j'occupe icy le rang,
+La pourpre qui me couvre est teinte de leur sang,
+Me perdre et me haïr n'est pas pour vous un crime,
+C'est le mien seul qui rend mon soupçon legitime .
+Ouy vangez vous , joignez ma fille à mes destins,
+Et mon coeur et le sien , tout est entre vos mains.
+
+J'y cours puisque mes jours vous sont si precieux,
+Je les disputeray mesme contre les Dieux.
+
+Demeurez.
+
+
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erigone
+
 Mon fils à votre amour je ne mets plus d'obstacles,
 Le Ciel mesme pour vous fait parler ses oracles,
 Hypermestre bien tost aura moins de rigueur,
 Aymez. Lyncée en vain se repond de son coeur.
 
--*who_iphis
-Eh Madame est ce ainsy que Danaus s'explique ?
-Ses neveux appellez des Rivages d'Affrique,
-Par son ordre à vos yeux au mesprix de mes droits
-Deviennent aujourd'huy ses gendres et nos Rois .
-Il vient de les placer sur les trosnes de Grece,
-Chacun d'eux dans sa ville aupres de sa Princesse,
-D'un espoir asseuré nourrissant son amour,
-Pour estre epoux et Roy n'attend plus que ce jour.
-Nauplis est le sejour qu'on destine à Lyncée,
-Nous y voicy Madame et la faveur passée,
-Mes services, mes soins⁎, les promesses du Roy,
-Rien ne peut conserver Hypermestre à ma foy ;
-Et dans ce mesme temps suspendant ma colere,
-Vous me dites encore que j'ayme, que j'espere .
-
--*who_erigone
 Ouy ; de Lyncée Iphis ne soyez point Jaloux,
 D'Hypermestre Jamais il ne sera l'Epoux.
 
--*who_iphis 
-Dites , dites aussy , pour endormir ma hayne,
-Qu' Hipermestre consent à soulager ma peine.
-Que pour elle Lyncée est un objet d'horreur,
-Que ces grans appareils⁎ se font en ma faveur;
-Que ce n'est que pour moy que le Temple s'apreste⁎,
-Et tantost quand l'hymen⁎ pour couronner la feste,
-Livrera ma Princesse aux bras de mon Rival …
-Non ! je n'attendray point un moment si fatal !
-En vain de ce malheur ma flâme est menacée !
-Vous dites vray, Jamais je ne verray Lyncée,
-Maistre ou Tyran d'un coeur qu'il ne merite pas .
-J'espere, et mon espoir est ce fer et ce bras .
-Adieu Madame.
-
--*who_erigone
       Iphis c'est moi qui vous l'ordonne,
 Arrestez et craignez le Courroux d'Erigone .
 Je veux fermer les yeux à vostre emportement,
 Pour attendrir le fils en suportant⁎ l'amant,
 Mais si vous ne quittez ce dessein téméraire…
 
--*who_iphis
-Eh regardez l'amant avec des yeux de Mere,
-Et voyez à quel point vous portez son ennuy⁎,
-Prestant à son Rival tous vos soins⁎ contre luy  ;
-Le Roy le veut, pour estre à ses desirs contraire,
-L'amour vous a rendu sa volonté trop chere,
-S'il parvient à partager la Grece à ses neveux,
-Il vous reserve Argos et vous offre ses voeux,
-Mais de quelques rayons que brille une couronne,
-Vous devriez songer quelle main vous la donne,
-La voir fumante encor du sang de vos Parens,
-Et Soeur de Stenelus moins aymer ses Tyrans.
-
--*who_erigone
 J'aymerois Danaus ! ingrat, peux tu le croire ?
 D'un frere massacré je perdrois la memoire !
 Je pourrois épouser son barbare⁎ assassin !
@@ -93,12 +473,6 @@ Où le plonge la peur d'un secret assassin,
 Un oracle a parlé , si l'oracle est sincere,
 Cet assassin doit estre un des fils de son frere.
 
--*who_iphis
-Quel abisme de maux s'ouvre devant mes yeux !
-Ces Princes par la paix attirez en ces lieux,
-Chargez de tant d'honneurs…
-
--*who_erigone
       Sont autant de victimes,
 Sur qui de Danaus je vay punir les crimes !
 C'est trop peu de borner ma vangeance à sa mort,
@@ -114,10 +488,6 @@ Par la crainte d'un seul on les immole tous .
 Cette nuit est enfin celle de leur suplice,
 Et le lit nuptial l'autel du sacrifice.
 
--*who_iphis
-Madame...
-
--*who_erigone
       Tu fremis, il n'est pas encor temps,
 Il faut , il faut des coups encor plus éclattans .
 Pour un si grand dessein pour tant de morts cruelles,
@@ -131,38 +501,11 @@ Ont promis de leurs mains l'infallible secours .
 Parle, reproche moy ma lache complaisance,
 Et cherche une plus noble et plus seure vangeance,
 
--*who_iphis
-Madame pardonnez à mon étonnement,
-Hipermestre perfide ingrate à son amant,
-Dementant aujourd'huy tant de vertus charmantes,
-Au milieu de ses soeurs du meurtre encor sanglantes,
-Me viendra…
-
--*who_erigone
       Lache amant et plus lache vangeur,
 Tu veux perdre un Rival et son sang te fait peur !
 Feins tu de le poursuivre afin qu'on te retienne,
 Et l'aveu de ma haine a t -il eteint la tienne  ?
-
--*who_iphis
-J'ayme, je hais , je veux me vanger ou mourir .
-Je sçais par quels chemins vous m'allez secourir,
-Je vois par vos conseils deux familles eteintes,
-Au meurtre des Epoux les Epouses contraintes,
-Danaus accablé d'oprobres eternels,
-Luy, ses filles en bute à l'horreur des mortels,
-Tant de braves soldats épars dans nos Provinces,
-En estat de vanger le trepas de leurs Princes ;
-Je n'ay pour terrasser le Tyran plein d'effroy,
-Qu'à marcher à leur teste, et la Grece est à moy .
-Ma main sur Danaus accomplira l'oracle,
-Mais pourrez vous souffrir ce barbare⁎ spectacle :
-Hipermestre m'offrant la teste d'un époux,
-Moy du sang de son Pere arrosant ses genoux  ?
-Ah serons nous apres cette action cruelle,
-Elle digne de moy, moy mesme digne d'elle ?
-
--*who_erigone 
+ 
 Non mon fils, je veux bien épargner sa vertu,    
 D'une si vaine peur ne sois pas combatu .
 Mais ne t'empresse point d'en sçavoir davantage ;
@@ -170,39 +513,14 @@ J'en dis trop. Laisse moy poursuivre mon ouvrage
 Et sois seur de gouster avant la fin du jour,
 Le fruit de la victoire et celuy de l'amour.
 
--*who_iphis
-Je me tais, et je crois vos promesses sinceres,
-Je n'examine point quels en sont les misteres ;
-Mais souffrez que demain si je n'en voy l'effet,
-Je me fasse raison du tort qu'on m'aura fait.
-
-**** *book_ *id_I02 *act_I *date_1681 *creator_abeille
-
--*who_erigone
 Venez Dircé.
 
--*who_dirce
-      Qu'Iphis est devenu traittable⁎,
-Madame, et qu'à vos soins⁎ Lyncée est redevable !
-Pouvez vous témoigner un soin⁎ plus aparent,
-Pour un Prince qui doit vous estre indifferent ?    
-
--*who_erigone
 Helas que ne l'est il !
 
--*who_dirce
-      Ne l'est il pas Madame  ?
-
--*who_erigone
 Reconnois dans mes yeux le trouble de mon ame :
 Lyncée à mon devoir m'empesche d'obeïr,
 Et J'ay mille raisons qui me le font haïr .
 
--*who_dirce
-Quoy vous voyez d'Iphis la flame traversée⁎.
-Et quand vous le souffrez⁎ vous haïssez Lyncée !
-
--*who_erigone
 Je le hais . Pour monter au rang de mes ayeux,
 Des Rivages d'Affrique il accourt en ces lieux,
 Il porte sur son front nos depouilles sanglantes .
@@ -214,28 +532,15 @@ Je le hais. Mais enfin ce qui comble ma hayne,
 C'est que Rival d'un fils, barbare⁎, Usurpateur,
 Le cruel a surpris tout l'amour de mon coeur.
 
--*who_dirce
-Ce coeur dont Danaus croit posseder l'Empire.
-
--*who_erigone
 Il le croit, ce plaisir , Dircé , luy doit suffire,
 Et si j'obtiens du Ciel la faveur que j'attens,
 Il n'aura pas celuy de s'en flatter longtemps.
 
--*who_dirce
-Et Lyncée?
-
--*who_erigone
       Ose encor en douter pour ma gloire⁎,
 Depuis un mois je l'ayme et je n'ose le croire,
 Et je ne reconnois l'exces de mes ardeurs,
 Qu'à l'horreur que pour luy m'inspirent ses froideurs.
 
--*who_dirce
-Quoy Madame peut il vous faire cet outrage ?
-Est-il si peu sensible ?
-
--*who_erigone
       Hipermestre l'engage,
 Dircé . Peut il en moy rien voir que d'ennuyeux,
 Et l'amour aux amans laisse t'il de bons yeux ?
@@ -278,61 +583,20 @@ Moy mesme je le livre à ses cruels destins .
 C'est là Dircé qu'il faut signaler ta prudence,
 L'aller trouver…
 
--*who_dirce
-      Je voy Danaus qui s'avance,
-Il est triste, ses yeux accablez⁎ de langueur...
-
--*who_erigone
 Laisse moy penetrer le trouble de son coeur,
 Dircé retire toy.
 
-**** *book_ *id_I03 *act_I *date_1681 *creator_abeille 
-
--*who_erigone
       Quel funeste nuage,
 Seigneur, à contre temps vous couvre le visage ?
 L'aproche d'une nuit de qui l'heureux secours,
 Va si bien asseurer le repos de vos jours,
 Ne devroit elle pas bannir cette tristesse ?
 
--*who_danaus
-Que ne puis je à vos yeux deguiser ma foiblesse !
-Si pres de ce moment si long-temps souhaité,
-Des chagrins les plus noirs je me sens agité :
-Mille spectres affreux, mille craintes funebres,
-Ces serments violez, ces cruelles tenebres,
-Tant de sang repandu Dieux et par quelles mains,
-Tout trouble, tout confond mes esprits incertains .
-Hipermestre sur tout est ma plus rude peine,
-Sa vertu me fait peur et son amour me gesne⁎,
-Et puis qu'il n'est plus temps de rien dissimuler,
-Je n'ay pû me resoudre encore à luy parler.
-
--*who_erigone
 Que dites vous Seigneur, l'ennuy⁎ qui vous devore,
 L'oracle, l'Entreprise⁎, Hipermestre l'ignore ?
 Tant de bras loin d'icy s'arment pour vous vanger,
 Et le seul pres de vous vous reste à menager ?
 
--*who_danaus
-Que voulez vous ? cent fois rallumant ma colere,
-Affectant devant elle un air sombre et severe,
-Je me suis veu tout prest d'exiger de sa foy,
-Un effort où ses soeurs se hazardent pour moy ;
-Mais quoy je la voyois au seul nom de Lyncée,
-Rapeller sur son front sa tendresse passée,
-Et la subite ardeur de ses yeux languissants,
-Rabattoit aussitost mes regards menaçans .
-J'ayme. Au maux des amans l'amour m'a fait sensible,
-Quoy ? disois je , troubler un amour si paisible ?
-Ses soeurs d'un tel amour n'ont point senty les coups,
-Et leurs epoux enfin ne sont que leurs epoux .
-Mais que la raison veuille ou que l'amour consente,
-Qu'au meurtre de l'amant je contraigne l'amante,
-Mon coeur à ses fureurs peut il s'abandonner,
-Et l'amour se resoudre à me le pardonner ?
-
--*who_erigone
 Et croyez vous Seigneur que l'amour vous pardonne,
 Les douloureux assauts que vostre coeur me donne,
 Quand je le voy , saisy d'un frivole chagrin,
@@ -346,25 +610,6 @@ Ou nul d'eux n'en est digne, ou tous, l'ont meritée,
 Vostre trepas est seur s'il en échape aucun,
 Et pour vous perdre enfin l'oracle n'en veut qu'un.
 
--*who_danaus
-L'oracle n'en veut qu'un Madame je l'avoüe,
-Mais des perils d'un homme un Dieu souvent se joue,
-Et ne luy donne avis qu'il peut y succomber,
-Qu'afin que l'oeil ouvert il s'y laisse tomber.
-Combien dans l'univers ont fait naistre des troubles
-Ces oracles tissus de mots confus et doubles,
-Qui de vastes horreurs et de perils affreux,
-N'envelopoient souvent que d'inutiles jeux,
-Qui me dit qu'aujourd'huy touchez de mes miseres,
-Ces Dieux en ma faveur sont devenus sinceres ?
-Tu crois, me disent ils , n'avoir plus d'ennemis,
-Pour avoir fuy ton frere et quitté ta patris,
-Evite si tu peux le fer d'un de ses fils,
-Qui te doit arracher la vie.
-Et par ces mots cruels et peut estre ambigus ,
-Neveux infortunez , vous estes tous perdus.
-
--*who_erigone
 Eh bien Seigneur quittez une lache entreprise⁎,
 Un genereux depit jamais ne se deguise .
 Lyncée est en ces lieux, meprisez mes douleurs,
@@ -378,17 +623,6 @@ Implorer tous les Dieux en faveur de vos armes …
 Mais apres tous ces Dieux vainement implorez,
 A qui me laissez vous Seigneur si vous mourez ?
 
--*who_danaus
-Ah Madame voyez où vous m'allez reduire !
-Je sens qu'à vos soupirs je me laisse seduire,
-L'horreur de mon Peril ne m'a point abatu,
-Mais l'Image du vostre emporte ma vertu .
-N'en doutez plus, je veux qu'Hipermestre obeisse,
-Qu'elle offre à mon destin Lyncée en sacrifice,
-Qu'elle reçoive Iphis aujourd'huy pour epoux,
-Et que vous connoissiez que je n'ayme que vous.
-
--*who_erigone
 Va, cours de tous les tiens achever le suplice !
 Enfin je tiens Lyncée au bord du precipice :
 Ma hayne et mon amour ont de quoy le braver ,
@@ -398,9 +632,455 @@ Tristes parens prenez ces victimes sanglantes,
 Mais si l'amour encore est connu parmy vous,
 Souffrez qu'il en derobe une seule à mes coups.
 
-**** *book_ *id_II01 *act_II *date_1681 *creator_abeille
+Dircé , que Danaus me fait souffrir de peine !
+J'avais calmé les flots de son ame incertaine,
+Il m'avoit tout promis et tout peut estre en vain …
+Je ne le trouve plus . Le jour tend à sa fin .
+Hipermestre sans doute a fléchi sa colere,
+S'il est ainsy , Dircé , que faut il que j'espere ?
+Par où mon triste amour pourra t'il eclatter ?
 
--*who_lyncee
+      Dircé je dois trop à ton zele,
+Va de ce triste hymen⁎ troubler les vains aprests⁎,
+Mais ne decouvre point mes sentiments secrets .
+Dy luy de quels perils sa teste est menacée ;
+Le reste languiroit sur ta langue glacée :
+Pour peindre des amans les douloureux combats,
+Il faut un coeur bien tendre et le tien ne l'est pas .
+Eh quoy ! toûjours Iphis !
+
+      Je ne le puis Iphis .
+Mais que vostre recit m'epargne de soucis ;
+Vous estes trop heureux c'est assez vous en dire,
+Et jusques à demain ce mot vous doit suffire.
+
+C'est prevenir⁎ le temps que vous aviez prescrit,
+Et pour peu que ses soeurs à vous servir trop lentes,
+Different le moment de leurs noces sanglantes,
+Du trépas de Lyncée on semera le bruit.
+
+Trop cruelle Hipermestre à quoy te resous tu ?
+Qu'avec peu de raison je craignois ta vertu,
+Quoy le sang d'un amant ne couste à ta constance,
+Que quelques vains efforts de feinte resistance ?
+Un merite si grand devoit bien te toucher,
+Perfide ton courroux te l'a t'il pû cacher ?
+Ah quand ta lache main s'arme pour son suplice,
+L'amour pour le sauver veut que je te trahisse !
+Tu l'attens comme époux mais tes barbares⁎ yeux,
+Ne le reverront plus qu'en vainqueur furieux,
+Te reprochans l'horreur de ces sanglans misteres,
+Et se faisant raison du meurtre de ses freres.
+C'est alors qu'unissant mes sentimens aux siens,
+Je me feray raison du sang de tous les miens,
+Que Danaus objet d'une commune hayne,
+Nous verra…Vien Dircé vien me tirer de ma peine,
+Qu'a t'il dit ?
+
+Qu'entens-je?
+
+      Quel succes de tant d'empressement,
+Ah si j'avois parlé , sans doute il m'auroit cruë .
+Tu n'estois du peril que foiblement emeuë .
+Je te l'avois bien dit. L'espoir que je concois,
+Eut donné plus de grace et de force à ma voix .
+Le voicy.
+ 
+Lyncée , où courez vous ?
+
+Non, mais au nom des Dieux Prince… Que dois je dire ?,
+J'ay trahy des secrets confiez à ma foy,
+Le trône , Danaus , tout est perdu pour moy .
+Je mets la Grece entiere et l'univers en flame,
+Mais pour y consentir le crime est trop infame,
+Il faut mieux du Tyran meriter le courroux ;
+Je veux vous sauver , Prince , ou me perdre avec vous,
+Sortez de ce Palais : vostre mort est concluë,
+Danaus, Hipermestre enfin l'a resoluë.
+
+      A ce nom vous demeurez confus,
+Elle mesme ; en un mot vos freres ne sont plus,
+Ils ont en cet instant receu le coup funeste .
+Fuyez et profitez du peu de temps qui reste,
+Vous seul estes encor maistre de vostre sort,
+Mais si vous ne fuyez , Prince , vous estes mort.
+
+Non vous n'y trouverez qu'une mort asseurée,
+A la face des Dieux Danaus l'a jurée .
+Averty par la voix d'un oracle inhumain,
+Que d'un fils d'Oegiptus il doit craindre la main,
+Il vous fait tous perir et ses filles cruelles,
+Sont de ses attentats les ministres fidelles .
+Hipermestre...
+
+      Ouy Seigneur je le voy,
+C'est donc moy qui me trompe et vous trompe apres moy .
+Je sçay tout, du secret seule depositaire,
+Pour vous persuader je n'aurois qu'à me taire ;
+Je parle, je vous dis quels sont vos assassins,
+A vostre fuite enfin j'ouvre tous les chemins .
+Je fais plus. Suivez moy rejoignons vostre armée,
+Sauvez moy des frayeurs dont je suis allarmée :
+Je voy déja le sang couler de toutes parts,
+Je ne puis sur personne arrester mes regards,
+Sur des sujets sans foy , sur un tyran qui m'ayme,
+Sauvons nous , par pitié pour vous ou pour moy mesme,
+Montons sur vos vaisseaux : allons loin de ces bords,
+Elever des autels à tant d'Illustres morts,
+D'un Pere abandonné charmer l'inquietude,
+Et de sa triste cour remplir la solitude ;
+Vous luy direz Seigneur me presentant à luy,
+Que j'ay de ses vieux jours sauvé l'unique appuy,
+Qu'on l'auroit veu sans moy survivre à sa famille,
+Que je luy tiendray lieu d'Hipermestre et de fille,
+Et qu'apres tant d'efforts un coeur comme le mien,
+Merite assez... Ingrat vous ne me dites rien !
+
+C'en est trop; et je sens ma pitié dissipée,
+Qu'ay je dit, ma vertu m'auroit-elle trompée  ?
+A travers la pitié , l'amour s'est il fait voir  ?
+Lache , t'aurois- je aymé sans m'en apercevoir  ?
+Puisque par mon bienfait tu refuses de vivre,
+Meurs, et voy dans ta mort que c'est moy qui te livre .
+Je regne enfin , ce jour va vanger mes parens,
+Dans tes freres dans toy je poursuis les Tyrans,
+Je veux que Danaus pour victoire derniere,
+Se baigne dans le sang de sa famille entiere,
+Qu'il s'y noye, hier encor il vouloit t'epargner,
+Mais de ce sentiment j'ay bien sçu l'esloigner,
+J'ay choisy pour te perdre Hipermestre elle mesme,
+Tu mourras , c'est ainsy , Barbare⁎, que je t'ayme .
+Mais de quelque fureur que mon coeur soit armé,
+Il n'a tenu qu'à toy d'estre autrement aymé.
+
+Seigneur je ressens bien la douleur qui vous presse,
+Et mon dessein n'est pas d'excuser la Princesse,
+Vous trouverez le temps de luy parler ainsy ;
+Mais Seigneur songez vous qu'elle n'est pas icy !
+A trop de grans eclats vostre ame s'abandonne :
+Apaisez vous, voyez, connoissez Erigone,
+L'exces de la douleur a t'il fermé vos yeux ?
+
+Non Danaus c'est trop temoigner ma foiblesse,
+Vos reproches cruels ont eteint ma tendresse,
+N'attendez plus de moy que ce que je vous dois,    
+Vous avez veu mes pleurs pour la derniere fois ;
+Apres ce grand éclat de vostre jalousie,
+Vous ne meritez pas que je me justifie,
+Et si l'amour n'a pu dissiper vos soupçons,
+Pour vous en delivrer je n'ay point de raisons;
+Allez soyez en proye à vostre juste crainte,
+Croyez qu'à vous trahir la hayne m'a contrainte,
+Croyez vostre ennemy maistre de mon coeur,
+Croyez tout sur la foy d'une fille en fureur⁎ .
+Allez enfin cedant à vostre destinée,
+Resserrer les liens de son triste hymenée⁎,
+Rapellez en ces lieux son epoux assassin,
+Et courez à ses coups presenter vostre sein.
+
+      Depuis deux ans , ingrat , je vous ecoute,
+Vous payez mes bontez d'un caprice jaloux .
+Laissez moy, je n'ay plus aucun moment pour vous.
+
+Non , si de mon tyran la teste est menacée,
+Il ne doit point perir par la main de Lyncée .
+De ce fer, seul laissé dans son apartement,
+J'attens de Danaüs le juste chastiment .
+Enfin de son destin j'ay percé le mistere :
+En vain , luy dit l'oracle , en vain tu fuis ton frere,
+Evite si tu peux le fer de ses fils,
+Et c'est ce mesme fer qu'en tes mains j'ay remis .
+Aux soupçons du tyran tu me vois asservie,
+Je pers et son amour et peut estre la vie,
+Previens⁎ le, du succes j'ay les Dieux pour garant,
+Vange ta mere enfin ton amour, tes parens.
+
+Punis son Pere au moins de ses propres forfaits,
+Et n'abandonne pas le fruit de tes souhaits ;
+Souvien toy du moment que je t'ay fait attendre ,
+Le voicy. C'est par là que tu peux tout pretendre,
+Hipermestre est à toy si tu me sers.
+
+Le perdre, et par l'aspect de la fatale épée,
+Rendre l'amant suspect à l'amante trompée ,
+Sur Lyncée en un mot en detourner l'horreur,
+De la fiere⁎ Hipermestre amuser la douleur,
+La flatter d'un espoir de vangeance frivole…
+
+Et de m'abandonner aux barbares⁎ transports,
+D'un Roy dont tu soutiens l'injurieux caprice,
+Tandis que sa fureur merite mon suplice !
+Je ne te retiens plus, va, cours le secourir,
+Renonce à la vangeance et me laisse mourir ;
+Ou plutost puny moy prevenant⁎ son envie,
+Du crime que j'ay fait d'attenter sur sa vie,
+Qu'est ce qui te retient ?
+ 
+      Que veux tu ?
+Esclave scrupuleux d'une fausse vertu,
+Indigne protecteur d'un tyran qui m'oprime,
+Et d'un honteux amour malheureuse victime,
+Rends moy Rends moy ce fer inutile en tes mains ;
+J'iray sans ton secours poursuivre mes desseins,
+Et mon bras plus fidelle à servir ma colere,
+A tes yeux fils ingrat joindra la fille au Pere .
+Nous verrons si l'ardeur de deffendre leurs jours,
+Te fera contre moy courir à leur secours,
+Car ne te flattes pas d'une vaine esperance,
+C'est par ma mort qu'il faut que ton bonheur commence,
+Et je ne veux traisner ma vie et mes douleurs,
+Que pour te voir en proye à d'eternels malheurs.
+
+Il menace je croy. N'importe, qu'il acheve,
+Et qu'apres contre moy sa vertu se souleve ;
+Pour sortir de ces lieux j'ay les chemins ouverts,
+Et de quoy m'attirer les yeux de l'univers .
+Mais je veux voir icy ma vangeance asseurée,
+Danaus mort, sa fille entre mes mains livrée,
+Aux yeux de ses amans la trainer dans Argos,
+Et là par ses perils asseurer mon repos .
+Helas !Il n'est plus temps.
+
+      Quoy la ville est en flame,
+Le Palais assiégé , tout un peuple...
+
+      Vous venez vous vanger d'Erigone,
+A vos laches soupçons mettre une digne fin.
+
+Seigneur , plus de soupirs ; courez, courez aux armes,
+Et ne vous laissez point attendrir par les larmes,
+Vos perils ont tary leur source dans mon coeur,
+Je tremble, et ne suis plus sensible qu'à la peur,
+C'est là de mon amour le plus seur temoignage .
+Courez de vos soldats relever le courage,
+Vous trouverez mon fils, vous sçaurez là de luy,
+Comment de vos soupçons je me vange aujourd'huy,
+Pour vous convaincre enfin combien j'en suis blessée
+Allez, aportez moy la teste de Lyncée.
+
+Laissez ce soin⁎ , Princesse , au malheureux Iphis,
+Ne luy derobez point cette derniere joye,
+Pour gagner vostre amour il n'a que cette voye,
+Il y court.
+
+Non , Princesse , le Ciel sera plus favorable,
+Au zele genereux qui vous a fait coupable,
+Les Dieux auront egard à vos voeux innocens ;
+Leur oracle toûjours enferme un double sens,    
+Et si l'effet repond à mes heureux presages,    
+Vous verrez du milieu de ces sombres nuages,
+Qui font dans vostre coeur naistre tant de combats,
+Sortir quelque clarté que vous n'attendez pas .
+Laissons combattre Iphis autour de vostre Pere,    
+Allons attendre ailleurs le succes que j'espere ;    
+Tout aigrit en ces lieux nostre commun soucy,
+Nous serons dans Argos plus tranquiles qu'icy.
+
+      O mon fils !
+
+Le Traistre!
+
+Il est mort. Mais sa mort acheve mon ouvrage,
+De mes parens vaincus j'ay vangé le carnage,
+Les oracles des Dieux enfin sont accomplis,
+Je ne leur ay presté que le bras de mon fils,
+Lyncée a fait le reste il a sa part au crime,
+Et c'est son fer qui vient d'immoler la victime .
+Je m'attens à mourir et ne crains point la mort,
+Je me suis preparée à ce dernier effort :
+Je vay de mon trepas luy derober la gloire⁎,
+Allez , heureux époux , gouster vostre victoire,
+Et montez sur un trosne où je ne pretens rien,
+Couvert de vostre sang encor plus que du mien .
+Dircé , je voy Lyncée , ostons nous de sa veue .
+
+
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_iphis
+
+Non, Madame, ma mort ou celle de Lyncée,
+Je dois ou l'une ou l'autre à ma gloire⁎ offencée,
+A mon espoir eteint , à mon amour trahy,
+J'ay trop cru vos conseils et trop bien obei.
+
+Eh Madame est ce ainsy que Danaus s'explique ?
+Ses neveux appellez des Rivages d'Affrique,
+Par son ordre à vos yeux au mesprix de mes droits
+Deviennent aujourd'huy ses gendres et nos Rois .
+Il vient de les placer sur les trosnes de Grece,
+Chacun d'eux dans sa ville aupres de sa Princesse,
+D'un espoir asseuré nourrissant son amour,
+Pour estre epoux et Roy n'attend plus que ce jour.
+Nauplis est le sejour qu'on destine à Lyncée,
+Nous y voicy Madame et la faveur passée,
+Mes services, mes soins⁎, les promesses du Roy,
+Rien ne peut conserver Hypermestre à ma foy ;
+Et dans ce mesme temps suspendant ma colere,
+Vous me dites encore que j'ayme, que j'espere .
+ 
+Dites , dites aussy , pour endormir ma hayne,
+Qu' Hipermestre consent à soulager ma peine.
+Que pour elle Lyncée est un objet d'horreur,
+Que ces grans appareils⁎ se font en ma faveur;
+Que ce n'est que pour moy que le Temple s'apreste⁎,
+Et tantost quand l'hymen⁎ pour couronner la feste,
+Livrera ma Princesse aux bras de mon Rival …
+Non ! je n'attendray point un moment si fatal !
+En vain de ce malheur ma flâme est menacée !
+Vous dites vray, Jamais je ne verray Lyncée,
+Maistre ou Tyran d'un coeur qu'il ne merite pas .
+J'espere, et mon espoir est ce fer et ce bras .
+Adieu Madame.
+
+Eh regardez l'amant avec des yeux de Mere,
+Et voyez à quel point vous portez son ennuy⁎,
+Prestant à son Rival tous vos soins⁎ contre luy  ;
+Le Roy le veut, pour estre à ses desirs contraire,
+L'amour vous a rendu sa volonté trop chere,
+S'il parvient à partager la Grece à ses neveux,
+Il vous reserve Argos et vous offre ses voeux,
+Mais de quelques rayons que brille une couronne,
+Vous devriez songer quelle main vous la donne,
+La voir fumante encor du sang de vos Parens,
+Et Soeur de Stenelus moins aymer ses Tyrans.
+
+Quel abisme de maux s'ouvre devant mes yeux !
+Ces Princes par la paix attirez en ces lieux,
+Chargez de tant d'honneurs…
+
+Madame...
+
+Madame pardonnez à mon étonnement,
+Hipermestre perfide ingrate à son amant,
+Dementant aujourd'huy tant de vertus charmantes,
+Au milieu de ses soeurs du meurtre encor sanglantes,
+Me viendra…
+
+J'ayme, je hais , je veux me vanger ou mourir .
+Je sçais par quels chemins vous m'allez secourir,
+Je vois par vos conseils deux familles eteintes,
+Au meurtre des Epoux les Epouses contraintes,
+Danaus accablé d'oprobres eternels,
+Luy, ses filles en bute à l'horreur des mortels,
+Tant de braves soldats épars dans nos Provinces,
+En estat de vanger le trepas de leurs Princes ;
+Je n'ay pour terrasser le Tyran plein d'effroy,
+Qu'à marcher à leur teste, et la Grece est à moy .
+Ma main sur Danaus accomplira l'oracle,
+Mais pourrez vous souffrir ce barbare⁎ spectacle :
+Hipermestre m'offrant la teste d'un époux,
+Moy du sang de son Pere arrosant ses genoux  ?
+Ah serons nous apres cette action cruelle,
+Elle digne de moy, moy mesme digne d'elle ?
+
+Je me tais, et je crois vos promesses sinceres,
+Je n'examine point quels en sont les misteres ;
+Mais souffrez que demain si je n'en voy l'effet,
+Je me fasse raison du tort qu'on m'aura fait.
+
+      Mon coeur s'ouvre à la joye,
+Madame et je voy bien que mon sort se deploye,
+Je ne puis en comprendre encor tous les secrets,
+Mais déja de vos soins⁎ je prevoy⁎ les effets .
+Du bonheur que j'attens tout flate mon Idée :
+De ce fatal hymen⁎ la Pompe⁎ est retardée,
+Les Prestres dans le temple attendant les époux,
+Lisent sur les autels le celeste courroux,
+Et le peuple qui court les attendre au passage,
+Tire de la nuit mesme un funeste presage .
+Que vous diray je enfin cette heureuse lenteur,
+Fait la crainte publique et l'espoir de mon cœur .
+Tantost d'un noir chagrin Hipermestre occupée,
+Sortoit de chez le Roy de pleurs encor trempée ;
+Confus de ses dedains, les yeux humiliez,
+J'ay voulu la voyant me jetter à ses piez,
+Elle m'a retenu. Mon coeur toûjours fidelle,
+S'est en mille soupirs repandu devant elle,
+Je n'ay pû dire un mot. Mais d'un air douloureux :
+Helas ! m'a t-elle dit , que vous estes heureux .
+Puis sans vouloir m'entendre et de mes cris emeuë,
+Elle s'est à l'instant derobée à ma veuë .
+Ah puisque ma fortune est toute entre vos mains,
+Madame au nom de Dieux avancez mes destins,
+Arrestez en rompant cet ennuyeux silence,
+Le combat de ma crainte et de mon esperance .
+Dites moy le secret.
+
+      L'oseray je esperer  ?
+Quoy Lyncée…
+
+Luy Seigneur, se peut il  ?
+
+Attandez tout Seigneur de ma recognoissance.
+
+Tout est calme Seigneur, les chefs sont arrestez
+Vos soldats par la ville épars de tous costez...
+
+Qui Seigneur ?
+
+Vous m'aviez dit Seigneur, que Lyncée estoit mort !
+
+Et quoy ! dans ce moment je me crois vostre gendre,
+Vous mesme vous venez Seigneur de me l'aprendre,
+Charmé de voir enfin tous mes voeux couronnez,
+Je cours executer ce que vous m'ordonnez ;
+Je reviens à vos piez, à ceux de ma Princesse ,
+J'attens le prompt effet d'une juste promesse,
+Et vous me condamnez à la perdre, à mourir,
+Ah Seigneur est ce ainsy qu'on vouloit nous unir ?
+
+      Eh quoy ! Seigneur , ma vertu depend elle,
+De l'aveugle fureur⁎ d'une amante cruelle ?
+Vostre bonté pour nous peut elle chanceler ?
+Doutez vous quel dessein la fait ainsy parler ?
+Croyez vous…
+
+Ouy je vois à quel coup vous devez vous attendre,
+Danaus vous accuse : il peut tout entreprendre,
+Il est inexorable, et ses soupçons jaloux,
+Sont pour luy des raisons et des crimes pour vous .
+Je sens bien qu'Hipermestre a merité ma hayne,
+Que loin de mon espoir vostre dessein m'entraine,
+Mais de quelque depit dont je sois animé,
+Pour hair à ce point j'ay trop longtemps aymé,
+Je ne puniray point , quoy qu'elle m'ait pu faire,
+La fierté⁎ de son coeur sur le coeur de son Pere,
+
+      Eh quoy,
+Perdre son Pere ô Dieux! et pretendre à sa foy.
+
+Ah Madame est ce ainsy que l'on me tient parole ?
+L'assassinat, la fourbe, et l'infidelite,
+Sont ce là les secours dont vous m'aviez flatté ?
+Non, j'ay d'autres moyens de sauver vostre vie,
+De ravir Hipermestre à qui me l'a ravie,
+De vous justifier aupres d'un Roy jaloux ;
+C'est sur Lyncée enfin qu'il faut tourner mes coups .
+Maistre dans un instant du port et de la ville,
+Il croit de ce palais l'acces aussy facile,
+Il accourt, c'est à moy d'arrester ses efforts.
+
+      Madame...
+
+Vous l'avez déja fait vivez, vivez contente,
+L'exces de mes malheurs doit remplir vostre attente ,
+Je ne puis me sauver d'un oprobre eternel,
+Ny devenir heureux sans estre criminel .
+A vous, à ma Princesse egalement fidelle,
+J'ay du respect pour vous, j'eus de l'amour pour elle,
+Fils zelé, tendre amant j'esperois en ce jour,
+Accorder la vertu , la nature et l'amour,
+Vous me le deffendez . Vous serez obeïe,
+Je sacrifieray tout pour sauver vostre vie,
+Je perdray Danaus, j'eteindray dans mon coeur,
+Cet amour dont vous mesme entreteniez l'ardeur,
+Mais apres avoir fait ce que j'auray dû faire
+Pour vanger mes parens, pour sauver une mere,
+Infortuné vangeur, amant desesperé,
+Triste vertu c'est vous que je sacrifieray.
+
+
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lyncee
+
 Madame est il donc vray qu'apres tant de miseres,
 Le Ciel ait arresté les fureurs de nos Peres,
 Que de tant de perils nostre amour soit sauvé,
@@ -411,13 +1091,6 @@ Et mon coeur à vous plaire attachant tous ses soins⁎,
 Pour s'expliquer à vous ne fuit plus les temoins .
 Parlez, quels Dieux Madame, ont rompu tant d'obstacles ?
 
--*who_hipermestre
-Ceux par qui vostre bras produit tant de miracles,
-Ceux de qui vous tenez cette illustre valeur  
-Qui jusques dans ces lieux a porté la terreur,
-A forcé Danaus à craindre vostre gloire⁎.
-
--*who_lyncee
 Eh laissons loin de nous cette foible victoire !
 Celle de mon amour m'occupe tout entier,
 Et l'amour pres de vous me fait tout oublier .
@@ -426,7 +1099,194 @@ Quels peuples j'ay soumis à mon obeissance …
 Dans mes plus grans succes soupirant en secret,
 Aymer sans esperance est tout ce que j'ay fait.
 
--*who_hipermestre
+Ah Princesse! au moment qu'il fallut nous quitter,
+D'un espoir si charmant vous deviez me flatter :
+Un mot eut prevenu⁎ le sujet de mes plaintes,
+Malgré tous mes Rivaux calmé mes justes craintes,
+Pourquoy me laissiez vous privé de ce secours ?
+
+Madame, et mon attente a t'elle esté trompée ?
+Quoy vos pleurs n'ont ils pas consacré cette epée ?
+Et par tout où depuis j'en ai porté les coups,
+N'ay je pas tout vaincu pour m'aprocher de vous ?
+En effet, si la paix n'eut finy nos querelles,
+Vous m'auriez veu suivy de mes troupes fidelles,    
+Les armes à la main sur mes vaisseaux vainqueurs,
+Vous disputer en Grece à vos adorateurs …
+Mais quoy ce souvenir rapelle vos allarmes ?
+
+Madame sentez vous que cette affreuse Image,
+Nous fait du sort present mieux gouster l'avantage,
+Et que les justes Dieux par de si grans malheurs,
+A de plus doux plaisirs ont disposé nos cœurs ?
+Apres trois ans entiers de chagrins et d'absence,
+Nous voyons couronner vostre perseverence,
+Et le Ciel adoucy va rendre des ce jour,    
+Nos plaisirs eternels ainsy que nostre amour.
+
+Moy Seigneur, à l'autheur du repos de ma vie,
+J'irois...
+
+Seigneur au devant d'eux vous me voyez courir,
+Pour meriter Madame une amitié si rare,
+Souffrez pour un moment qu'un Rival nous separe .
+
+      C'est donc vous à qui le Ciel m'adresse,
+Madame, et de vos mains j'obtiendray ma Princesse,
+Vous voyez que l'amour a bien conduit mes pas,
+Je vis encor, je viens, entrons, ne tardons pas.
+
+      Eh quoy la nuit s'avance,
+Et vous vous etonnez de mon impatience !
+Mes freres dans la Grece en ce moment heureux,
+Sont déja parvenus au comble de leurs vœux .
+Voulez vous retarder le bonheur où j'aspire ?
+
+Hipermestre.
+
+Moy contre Danaus qu'aurois je pu commettre ?
+Quel fruit de nostre mort se pourroit il promettre ?
+Se repend il des biens qu'il vient de nous donner ?
+Et nous a t'il fait Rois pour nous assassiner ?
+Non de pareils soupçons n'entrent point dans mon ame ?
+Je ne le sçaurois croire , on vous trompe Madame .
+Je reconnois assez à ce subit effroy,
+Jusqu'où vont les bontez que vous avez pour moy .
+Un autre vous diroit qu'une jalouse envie,
+Fait prendre à quelques gens trop de soin⁎ de ma vie,
+Qu'on veut en m'inspirant une vaine terreur,
+Me faire renoncer moy mesme à mon bonheur,
+M'engager à quitter la beauté que j'adore,
+M'irriter contre un Roy qui m'ayme, que j'honore,
+Des differens passez aigrir le souvenir,
+Et separer deux coeurs qui sont prests de s'unir .
+L'artifice⁎ est trop bas , cessez donc de me plaindre .
+En l'estat où je suis l'amour ne sçait rien craindre,
+Et j'ay contre le coup que l'on m'a preparé,
+Dans les bras d'Hipermestre un azile asseuré.
+
+      Ah ! c'est là que j'ouvre enfin les yeux,
+Que je voy les ressorts d'un complot furieux .
+Je croy, malgré le sang qui joint nos deux familles,
+L'artifice⁎ du Roy, la hayne de ses filles ;
+Je croy mes freres morts et si vous le voulez,
+Ils meritoient les coups qui les ont accablez⁎ ;
+Je les merite mesme il faut que je perisse,
+Le cruel Danaus ordonne mon suplice ;
+Je dois m'y preparer, apres tant d'attentats,
+Sa criminelle main ne m'epargnera pas .
+Mais qu'Hipermestre ait part au malheur qui m'accable⁎,
+Non c'est ce qui me rend tout le reste incroyable,
+On vous trompe Madame .
+
+Madame , qu'à ma mort Hipermestre consente,
+Je ne la fuiray point elle sera contente ;
+J'auray du moins l'honneur de repandre à ses yeux,
+Un sang infortuné qui leur est odieux.
+Loin de parer ses coups, d'éviter sa presence,
+Je n'y paroistray point en estat de deffence,
+Et le fer qu'autre fois je receu de ses mains,
+Ne mettra nul obstacle à ses justes desseins .
+Je l'ay quitté je vais deplorable victime,
+Subir à ses genoux la peine de mon crime .
+Vous Madame gardez à ce barbare⁎ Roy,
+Un coeur dont son amour a merité la foy ;
+Pour moy puisqu'à la mort ma Princesse me livre,
+Je suis trop criminel pour meriter de vivre,
+Et quoy que d'un beau feu tendrement animé,
+Je suis d'elle et de vous indigne d'estre aymé .
+Faites donc à l'amour succeder la vangeance,
+Punissez un ingrat de son indifference,
+Et rebutant un coeur qu'Hipermestre me rend,
+Livrez un malheureux à la mort qui l'attend.
+
+      Ah ma Princesse,
+Me soupçonneriez vous d'une telle faiblesse ?
+Je ne fuis point la mort puisqu'elle vient de vous,
+Et mon coeur desarmé vient s'offrir à vos coups.
+ 
+Eh Madame cessez de differer ma peine,
+Sauvez moy par ma mort de l'amour de la Reyne,
+Elle m'ayme: j'ay pu l'ecouter un moment,
+Est il pour un tel crime un trop rude tourment ?
+
+Non puisque vostre amour me rend ainsy la vie,
+Je sçauray la deffendre et je cours de ce pas,
+Par un chemin sanglant rejoindre mes soldats.
+ 
+Non vous ne serez point funeste à vostre Pere .
+Dissipez vos frayeurs ma promesse est sincere :
+Je ne voy plus en luy l'ennemi qui me perd,
+Vostre seule vertu met son crime à couvert ;
+Et lorsque la raison semble exiger sa peine,
+Mon amour dans mon coeur est plus fort que ma hayne:
+J'oublieray que ma vie attira son courroux,
+Quand je me souviendray que je la tiens de vous .
+Si ma presence allarme icy vostre tendresse,
+Madame je consens à sortir de la Grece :
+Allons passer en paix nos jours hors de ces lieux,
+Dont les tristes horreurs doivent blesser vos yeux .
+Derobons la vertu de deux coeurs deplorables,
+Au sort qui malgré nous, nous veut rendre coupables .
+Marchons ; et s'il faut perdre un empire à ce prix,
+Au moins sauvons l'amour de ces cruels debris.
+
+Et moy timide⁎ amant sans craindre vostre Pere,    
+Tandis que vous serez en proye à sa colere,
+Me cherchant un azile aux climats etrangers,
+J'iray gouster en paix le fruit de vos dangers ?
+
+Aymez moy. Mais au moins pour finir vostre peine,
+Tarissez dans mon sang la source de sa hayne,
+Repandez le Madame il me sera plus doux,
+De mourir à vos yeux que de vivre sans vous .
+Ainsy libre à jamais des chagrins de l'absence,
+Jusqu'au dernier soupir vous verrez ma constance,
+Et sans vous consumer en regrets superflus,
+Vous m'aymerez toujours et ne me craindrez plus.
+
+Eh quoy ! dans le moment que la paix nous rassemble,
+Que l'hymen se prepare à nous unir ensemble,
+Que mon coeur fatigué de tant de vains desirs,
+Semble déja toucher l'ombre de ses plaisirs,
+Vous mesme de douleur et d'amour eperduë,
+Vous venez m'ordonner d'eviter vostre vueuë ?
+Que dis je ? dans mon coeur etouffant tout espoir,
+Vous osez m'ordonner de ne vous plus revoir ?
+
+L'horreur de m'eloigner de tout ce que j'adore .
+Je n'y puis consentir.
+
+      J'obeï ma Princesse,
+Je ne resiste plus à l'ordre qui me presse,
+Vous le voulez, je pars ; vostre absence et l'amour,
+Sont des maux assez grands pour me priver du jour .
+De tous mes deplaisirs cet espoir me console :
+De peu de jours au Roy vous manquez de parole,
+Vous promettiez ma mort à ses soupçons jaloux .
+Adieu. Bientost le bruit en viendra jusqu'à vous.
+
+Helas ! j'ay tout promis dans l'ardeur de vous plaire,
+Je vous ay fait serment d'epargner vostre Pere,
+De ne vous plus revoir , d'aymer et de souffrir,
+Mais ay je fait serment de vous laisser mourir ?
+Je vous laissois icy sans appuy , sans deffence,
+Je viens de vos tyrans calmer la violence,
+Pour sauver Danaus je fais un vain effort,
+Quand je luy rens la vie on luy donne la mort .
+Si vous vous repentez d'avoir sauvé ma vie,
+Rendez moy donc la mort que vous m'avez ravie,
+Achevez, prononcez l'arrest de mon trepas,
+Mais en le prononçant ne me haissez pas.
+
+
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hipermestre
+
+Ceux par qui vostre bras produit tant de miracles,
+Ceux de qui vous tenez cette illustre valeur  
+Qui jusques dans ces lieux a porté la terreur,
+A forcé Danaus à craindre vostre gloire⁎.
+
 C'est beaucoup mais Seigneur j'ay bien fait davantage,
 Et l'aveu que j'en fais ne me fait point d'outrage .
 Puis qu'un Pere aujourd'huy m'attache à votre sort
@@ -450,14 +1310,6 @@ Je me disois tout bas, non ma timide⁎ foy  
 A s'engager ailleur peut bien estre forcée,
 Mais ce coeur malheureux n'est fait que pour Lyncée .
 
--*who_lyncee
-Ah Princesse! au moment qu'il fallut nous quitter,
-D'un espoir si charmant vous deviez me flatter :
-Un mot eut prevenu⁎ le sujet de mes plaintes,
-Malgré tous mes Rivaux calmé mes justes craintes,
-Pourquoy me laissiez vous privé de ce secours ?
-
--*who_hipermestre
 Helas croyois je alors vous quitter pour toujours ?
 Vous me laissiez paisible au sein de ma patrie,
 ..........................................................................
@@ -472,18 +1324,6 @@ Fis je de vains efforts pour retenir mes larmes !
 Et quand mes tristes pleurs intimidoient mes voeux,
 Vostre amour en tiroit des presages heureux.
 
--*who_lyncee
-Madame, et mon attente a t'elle esté trompée ?
-Quoy vos pleurs n'ont ils pas consacré cette epée ?
-Et par tout où depuis j'en ai porté les coups,
-N'ay je pas tout vaincu pour m'aprocher de vous ?
-En effet, si la paix n'eut finy nos querelles,
-Vous m'auriez veu suivy de mes troupes fidelles,    
-Les armes à la main sur mes vaisseaux vainqueurs,
-Vous disputer en Grece à vos adorateurs …
-Mais quoy ce souvenir rapelle vos allarmes ?
-
--*who_hipermestre
 Ah Prince si ces pleurs dont j'arrosay vos armes,
 D'augures fortunez flattoient vostre valeur,    
 Qu'ils devinrent helas funestes à mon cœur !
@@ -500,78 +1340,15 @@ Ah je sentis mon coeur s'arracher de moy mesme,
 Et maudissant les vents de mon bonheur jaloux,
 Faire de vains efforts pour se rejoindre à vous.
 
--*who_lyncee
-Madame sentez vous que cette affreuse Image,
-Nous fait du sort present mieux gouster l'avantage,
-Et que les justes Dieux par de si grans malheurs,
-A de plus doux plaisirs ont disposé nos cœurs ?
-Apres trois ans entiers de chagrins et d'absence,
-Nous voyons couronner vostre perseverence,
-Et le Ciel adoucy va rendre des ce jour,    
-Nos plaisirs eternels ainsy que nostre amour.
-
--*who_hipermestre
 Prince voicy le Roy.
 
-**** *book_ *id_II02 *act_II *date_1681 *creator_abeille 
-
--*who_danaus
-      Je trouble vostre Joye,
-Mais il faut qu'à vos yeux la mienne se deploye,
-Il faut que je la mesle à vos communs plaisirs,
-Prince n'opposez point d'obstacle à mes desirs.
-
--*who_lyncee
-Moy Seigneur, à l'autheur du repos de ma vie,
-J'irois...
-
--*who_danaus
-      D'aucun Rival ne craignez plus l'envie,
-Iphis qui se vouloit absenter de la cour,
-Qui seul par ses chagrins troubloit un si beau jour,
-S'est enfin laissé vaincre aux avis de sa mere,    
-Et prests à vous jurer une amitié sincere,
-Tous deux vont de ce pas chez vous pour vous l'offrir .
-
--*who_lyncee
-Seigneur au devant d'eux vous me voyez courir,
-Pour meriter Madame une amitié si rare,
-Souffrez pour un moment qu'un Rival nous separe .
-
--*who_hipermestre
 Allez Prince, l'amour ne sera point jaloux,
 Des droits que l'amitié peut exiger de vous.
 
-**** *book_ *id_II03 *act_II *date_1681 *creator_abeille
-
--*who_danaus
-Ma fille je connois l'ardeur de vostre flâme,
-Mais enfin il est temps de vous ouvrir mon ame .
-L'amour que vous inspire un époux pretendu,                17
-Ne fait il point de tort à celuy qui m'est dû ?
-Ne l'a t'il point eteint ?
-
--*who_hipermestre
       Seigneur quel avantage,
 Pretendez vous tirer d'un doute qui m'outrage ?
 La nature et l'amour ont leurs droits separez .
 
--*who_danaus
-Je le sçay mais les miens sont ils bien aseurez ?    
-Quand je songe combien depuis vostre naissance,
-Entre vos soeurs et vous j'ay mis de difference,
-Que pour vous faire un sort digne de vostre choix,
-De l'aisnesse pour vous je violay les Droits,
-Que dispersant vos soeurs dans le fond de la Grece,
-De mes plus chers Etats je vous fais la metresse,
-Et que par le plaisir d'estre plus pres de vous,
-Je quitte pour Argos les plaisirs les plus doux,
-Lors que je me souviens que fuyant de Libye,
-Ma plus sensible crainte estoit pour vostre vie,    
-De pareils sentimans suivis de tant d'honneurs,
-Ma fille attandent plus de vous que de vos sœurs .
-
--*who_hipermestre
 Ouy Seigneur ouy de moy vous devez tout attendre,
 Et mon amour pour vous ne peut estre assez tendre .
 Mais vous joignez mon sort à celuy d'un époux,
@@ -579,10 +1356,6 @@ Qui sçaura par ses soins⁎ m'aquiter envers vous,
 Vous sçavez à quel point cet époux vous revere,
 Qu'il voudroit de son sang...
 
--*who_danaus
-      Ah ma fille !
-
--*who_hipermestre
       Mon Pere !
 Que vois je ? juste Ciel! qu'un chagrin si profond,
 Dans un jour si serain me trouble et me confond .
@@ -591,21 +1364,8 @@ Que sans crainte à vos yeux la mienne se deploye,
 Vostre coeur malgré vous se trahit devant moy,
 Et des soupirs contraints…
 
--*who_danaus 
-      Aussy n'est ce qu'à toy,
-Qu'un Roy persecuté, qu'un Pere miserable,
-Ose ouvrir le secret du tourment qui l'accable⁎ :
-On en veut à mes jours.
-
--*who_hipermestre
       O Dieux!
 
--*who_danaus
-      Un assassin,
-Peut estre avant la nuit tranchera mon destin,
-Peut estre...
-
--*who_hipermestre
       Et vous parlez d'hymenée⁎ et de feste,
 Au moment que le Ciel menace vostre teste !
 Songeons à vos Perils, prevenons l'attentat,
@@ -618,18 +1378,9 @@ Ses braves chefs épars au palais, dans la ville,
 Rendent de l'assassin l'entreprise⁎ inutile ;
 Lyncée à tous moments luy mesme aupres de vous …
 
--*who_danaus
-Ouy pour porter sur moy plus seurement ses coups.
-
--*who_hipermestre
 Luy sur vous, justes Dieux! l'effroyable pensée,
 Pouvez vous sans horreur en acuser Lyncée ?
 
--*who_danaus
-Luy, ses freres, ses chefs, ses amis, ses soldats,
-Sa flotte, tous , ma fille ont juré mon trepas.
-
--*who_hipermestre
 Que dites vous Lyncée auroit l'ame assez noire,
 Pour former un dessein ...Non je ne le puis croire .
 Je prevoy⁎ l'artifice⁎ et j'en connois l'autheur,
@@ -639,30 +1390,6 @@ Tandis que loin de moy... vous verrez l'imposture
 Allons Seigneur, voyons Erigone et son fils,
 Qu'ils parlent c'est assez.
 
--*who_danaus 
-      N'accusez point Iphis.
-Accusez s'il le faut un oracle celeste,
-Qui m'explique en ces mots leur pratique funeste,
-En vain tu crois n'avoir plus d'ennemis,
-Pour avoir fuy ton frere et quitté ta patrie,
-Evite si tu peux le fer d'un de ses fils,
-Qui te doit arracher la vie .
-Consultez là dessus la nature et l'amour,    
-Pour sauver vostre amant trouvez y quelque jour .
-Ce n'est point un effet des complots d'Erigone,
-Argos ne m'avoit point encor veu sur son trone,
-Mon nom estoit encore inconnu dans ces lieux,
-Quand je fus averty par l'oracle des Dieux .
-Trois ans pour mon repos refusant de le croire,
-J'ay tâché vainement d'en perdre la mémoire,
-J'ay fait pour me tromper mille efforts impuissans,
-J'ay cherché des detours pour en troubler le sens,
-Mais le Ciel m'a donné des reponses trop claires :
-S'il ne marque pas Lyncée il marque un de ses freres,
-Et s'il faut dans leur sort ne point l'envelopper,
-Montrez moy l'assassin sur qui je dois fraper.
-
--*who_hipermestre
 Ah le Ciel vous rendra sensible à ma prière .
 Mais puisqu'il vous parloit avec tant de lumière,
 Dites moy falloit il rapeller pres de vous,    
@@ -692,20 +1419,8 @@ J'en veux perdre à jamais jusques à la pensée .
 Il ne recevra point mes adieux en partant,
 Qu'il parte ; vostre amour mon Pere est il contant  ?
 
--*who_danaus
-Non vous l'epouserez. La Pompe⁎ est déja preste,
-Et vostre seul hymen⁎ peut garantir ma teste ;
-Mais alors consultant l'amour et le devoir,
-Songez que mes destins sont en vostre pouvoir.
-
--*who_hipermestre
 Eh bien Seigneur ?
 
--*who_danaus
-      Alors prevenant⁎ le barbare⁎,
-Vous tournerez sur luy le coup qu'il me prepare .
-
--*who_hipermestre
 Moy sur luy Justes Dieux! Seigneur qu'ordonnez vous ?
 Que je trempe ma main dans le sang d'un époux ?
 Cette perfide main qui jointe avec la sienne,
@@ -714,18 +1429,6 @@ Va recevoir sa foy, luy va donner la mienne ?    
 Pouvez vous en souffrir l'Image sans horreur ?
 Pouvez vous m'ordonner...
 
--*who_danaus
-      Non remplissez l'oracle,
-Voyez avec plaisir le barbare⁎ spectacle,
-D'un Pere massacré par la main d'un époux,
-Dont vostre cruauté veut seconder les coups .
-Laissez laissez , perfide , à des mains plus fidelles,
-Le soin⁎ de m'affranchir de mes craintes mortelles .
-Joignez vos coups à ceux d'un époux assassin,
-Pour me percer le coeur prestez luy vostre main,
-Vos soeurs seront sans vous…
-
--*who_hipermestre
       O mes sœurs ! o mon Pere !
 Si vostre amour pour nous fut toujours si sincere,
 Hélas n'avez vous pû choisir d'autre secours,
@@ -739,26 +1442,6 @@ Le fidelle Lyncée à ses malheureux freres ?
 Mais ne craignez vous point ses chefs et ses soldats,
 Qui sont icy touts prests pour vanger son trepas ?
 
--*who_danaus
-Je les crains ; et je veux prevenir⁎ la tempeste,
-Trancher à ce grand corps sa principale teste,
-Tous periront ; je veux qu'une juste fureur,
-M'oste avec l'assassin la crainte du vangeur,
-L'oracle les a tous livrez à ma vangeance,
-Quand il n'a sur aucun fixé ma deffiance .
-Si nous faisons un crime en prevenant⁎ leur coup,
-Le Ciel qui m'avertit en est chargé pour nous .
-Pourquoy donc quand les Dieux me livrent ma victime,
-Le soin⁎ de l'immoler vous semble t'il un crime ?
-Parmy tant d'ennemis envieux de mon rang,
-Est-il de seures mains pour verser tant de sang ?
-Si mesme parmy vous qui me devez la vie,
-Infortuné je trouve une fille ennemie,
-Qui fuit pour me sauver l'exemple de ses soeurs,
-Que ne devais je pas aprehender ailleurs ?
-Hipermestre est ce assez de me donner des larmes ?
-
--*who_hipermestre
 Helas ces foibles pleurs sont mes uniques armes,
 Elles ne peuvent rien contre vostre courroux,
 Mais elles pourront tout sur le coeur d'un époux .
@@ -769,13 +1452,6 @@ Je n'ay qu'un coeur à mettre au devant de ses coups ;
 Mais si jamais ma main à la sienne est unie,
 Non je n'ay plus de main pour attaquer sa vie.
 
--*who_danaus
-Eh bien vostre pitié n'ose me secourir,
-Cruelle , poursuivez, et me laissez mourir.
-
-**** *book_ *id_II04 *act_II *date_1681 *creator_abeille
-
--*who_hipermestre
 Mourir , dit il , et moy denaturée , Impie,
 Au bruit de son trepas je demeure assoupie⁎ ;
 Et mesme à ce trepas si plein de cruauté,
@@ -797,347 +1473,13 @@ Du Pere pour l'époux , de l'époux pour le Pere ?
 Juste Ciel qui semblez encourager mes voeux,
 Montrez moy les moyens de les sauver tous deux.
 
-**** *book_ *id_III01 *act_III *date_1681 *creator_abeille
-
--*who_erigone
-Dircé , que Danaus me fait souffrir de peine !
-J'avais calmé les flots de son ame incertaine,
-Il m'avoit tout promis et tout peut estre en vain …
-Je ne le trouve plus . Le jour tend à sa fin .
-Hipermestre sans doute a fléchi sa colere,
-S'il est ainsy , Dircé , que faut il que j'espere ?
-Par où mon triste amour pourra t'il eclatter ?
-
--*who_dirce
-Eh Madame pourquoy vous tant inquieter ?
-Vous en sçavez, au point que l'affaire est conduite,
-Assez pour obliger son amant à la fuite .
-Laissez moy luy parler, pour troubler leurs amours,
-Je luy diray quels soins⁎ vous prenez de ses jours,
-Quels pieges on luy tend quelles mains on employe .
-Qu'il fuye, ou que du moins il recule sa joye,
-Qu'il differe l'hymen⁎; demain ses freres morts,
-Justifieront vos soins⁎, changeront ses transports,
-Hipermestre à ses yeux paroistra criminelle,
-Vous parlerez...
-
--*who_erigone
-      Dircé je dois trop à ton zele,
-Va de ce triste hymen⁎ troubler les vains aprests⁎,
-Mais ne decouvre point mes sentiments secrets .
-Dy luy de quels perils sa teste est menacée ;
-Le reste languiroit sur ta langue glacée :
-Pour peindre des amans les douloureux combats,
-Il faut un coeur bien tendre et le tien ne l'est pas .
-Eh quoy ! toûjours Iphis !
-
-**** *book_ *id_III02 *act_III *date_1681 *creator_abeille 
-
--*who_iphis
-      Mon coeur s'ouvre à la joye,
-Madame et je voy bien que mon sort se deploye,
-Je ne puis en comprendre encor tous les secrets,
-Mais déja de vos soins⁎ je prevoy⁎ les effets .
-Du bonheur que j'attens tout flate mon Idée :
-De ce fatal hymen⁎ la Pompe⁎ est retardée,
-Les Prestres dans le temple attendant les époux,
-Lisent sur les autels le celeste courroux,
-Et le peuple qui court les attendre au passage,
-Tire de la nuit mesme un funeste presage .
-Que vous diray je enfin cette heureuse lenteur,
-Fait la crainte publique et l'espoir de mon cœur .
-Tantost d'un noir chagrin Hipermestre occupée,
-Sortoit de chez le Roy de pleurs encor trempée ;
-Confus de ses dedains, les yeux humiliez,
-J'ay voulu la voyant me jetter à ses piez,
-Elle m'a retenu. Mon coeur toûjours fidelle,
-S'est en mille soupirs repandu devant elle,
-Je n'ay pû dire un mot. Mais d'un air douloureux :
-Helas ! m'a t-elle dit , que vous estes heureux .
-Puis sans vouloir m'entendre et de mes cris emeuë,
-Elle s'est à l'instant derobée à ma veuë .
-Ah puisque ma fortune est toute entre vos mains,
-Madame au nom de Dieux avancez mes destins,
-Arrestez en rompant cet ennuyeux silence,
-Le combat de ma crainte et de mon esperance .
-Dites moy le secret.
-
--*who_erigone
-      Je ne le puis Iphis .
-Mais que vostre recit m'epargne de soucis ;
-Vous estes trop heureux c'est assez vous en dire,
-Et jusques à demain ce mot vous doit suffire.
-
-**** *book_ *id_III03 *act_III *date_1681 *creator_abeille 
-
--*who_danaus
-Qu'on nous laisse. Madame admirez mon bonheur,
-De l'amour d'Hipermestre enfin je suis vainqueur .
-De la grandeur du coup d'abord épouvantée,
-Contre un ordre si dur elle s'est revoltée,
-Je sortois en fureur, elle a suivy mes pas,
-Et s'est renduë apres quelques legers combats .
-La grace que j'accorde à sa vertu timide⁎,
-Pour luy sauver le nom d'épouse parricide,
-C'est qu'avant qu'à Lyncée elle ait donné la main,
-Elle executera cet important dessein ;
-Ainsy sans outrager les Dieux de l'Hymenée⁎,
-Elle doit à l'instant fixer ma destinée .
-Mais quoy ce changement allarme vostre esprit ?
-
--*who_erigone
-C'est prevenir⁎ le temps que vous aviez prescrit,
-Et pour peu que ses soeurs à vous servir trop lentes,
-Different le moment de leurs noces sanglantes,
-Du trépas de Lyncée on semera le bruit.
-
--*who_danaus
-Eh j'en recule expres la pompe⁎ dans la nuit .
-Contre la peur du bruit qui pourroit se repandre,
-La distance des Lieux suffit pour nous deffendre,
-Ses freres écartez sans secours, sans support⁎
-Pourroient ils profiter de l'avis de sa mort ?
-Leurs amis sont loin d'eux epars dans cette ville,
-S'ils osent resister leur deffaite est facile,
-Et la flotte sans chef aysée à repousser,
-Est toute en proye aux feux que j'y feray lancer ;
-Par honneur à present mes soldats sous les armes,
-Se trouveront tous prests aux premieres allarmes,
-La teste de Lyncée en sera le signal,
-Tout depend d'oprimer cet ennemy fatal .
-Vous aux soins⁎ de ma fille unissez vostre zele,
-On les attend au Temple et son amant fidelle,
-La viendra bientost prendre en cet apartement ;
-Opposez quelque obstacle à son empressement,
-Madame, en attendant qu'Hipermestre affermie,
-Y vienne ayder les Dieux à conserver ma vie .
-C'est pour vous obéïr que je prens tous ces soins⁎,
-Et sans vous mes perils m'epouvanteroient moins .
-Adieu ; je vay donner le peu de temps qui reste,
-Aux derniers apareils⁎ de cet hymen funeste.
-
-**** *book_ *id_III04 *act_III *date_1681 *creator_abeille
-
--*who_erigone
-Trop cruelle Hipermestre à quoy te resous tu ?
-Qu'avec peu de raison je craignois ta vertu,
-Quoy le sang d'un amant ne couste à ta constance,
-Que quelques vains efforts de feinte resistance ?
-Un merite si grand devoit bien te toucher,
-Perfide ton courroux te l'a t'il pû cacher ?
-Ah quand ta lache main s'arme pour son suplice,
-L'amour pour le sauver veut que je te trahisse !
-Tu l'attens comme époux mais tes barbares⁎ yeux,
-Ne le reverront plus qu'en vainqueur furieux,
-Te reprochans l'horreur de ces sanglans misteres,
-Et se faisant raison du meurtre de ses freres.
-C'est alors qu'unissant mes sentimens aux siens,
-Je me feray raison du sang de tous les miens,
-Que Danaus objet d'une commune hayne,
-Nous verra…Vien Dircé vien me tirer de ma peine,
-Qu'a t'il dit ?
-
-**** *book_ *id_III05 *act_III *date_1681 *creator_abeille 
-
--*who_dirce
-      Ah Madame il marche sur mes pas,
-Je l'ay veu, j'ay parlé : l'ingrat ne me croit pas .
-Il vous soupçonne, il croit qu'un fils vous a seduite,
-Et qu'en faveur d'Iphis on luy parle de fuite.
-
--*who_erigone
-Qu'entens-je?
-
--*who_dirce
-      A peine a t'il ecouté mes discours,
-Enyvré du succes de ses tendres amours,
-Affectant à mes yeux une folle asseurance,
-Il a voulu sortir sans armes, sans defence,
-Il a laissé sa suitte en son apartement.
-Il vient seul.
-
--*who_erigone
-      Quel succes de tant d'empressement,
-Ah si j'avois parlé , sans doute il m'auroit cruë .
-Tu n'estois du peril que foiblement emeuë .
-Je te l'avois bien dit. L'espoir que je concois,
-Eut donné plus de grace et de force à ma voix .
-Le voicy.
-
-**** *book_ *id_III06 *act_III *date_1681 *creator_abeille
-
--*who_lyncee
-      C'est donc vous à qui le Ciel m'adresse,
-Madame, et de vos mains j'obtiendray ma Princesse,
-Vous voyez que l'amour a bien conduit mes pas,
-Je vis encor, je viens, entrons, ne tardons pas.
-
--*who_erigone 
-Lyncée , où courez vous ?
-
--*who_lyncee
-      Eh quoy la nuit s'avance,
-Et vous vous etonnez de mon impatience !
-Mes freres dans la Grece en ce moment heureux,
-Sont déja parvenus au comble de leurs vœux .
-Voulez vous retarder le bonheur où j'aspire ?
-
--*who_erigone
-Non, mais au nom des Dieux Prince… Que dois je dire ?,
-J'ay trahy des secrets confiez à ma foy,
-Le trône , Danaus , tout est perdu pour moy .
-Je mets la Grece entiere et l'univers en flame,
-Mais pour y consentir le crime est trop infame,
-Il faut mieux du Tyran meriter le courroux ;
-Je veux vous sauver , Prince , ou me perdre avec vous,
-Sortez de ce Palais : vostre mort est concluë,
-Danaus, Hipermestre enfin l'a resoluë.
-
--*who_lyncee
-Hipermestre.
-
--*who_erigone
-      A ce nom vous demeurez confus,
-Elle mesme ; en un mot vos freres ne sont plus,
-Ils ont en cet instant receu le coup funeste .
-Fuyez et profitez du peu de temps qui reste,
-Vous seul estes encor maistre de vostre sort,
-Mais si vous ne fuyez , Prince , vous estes mort.
-
--*who_lyncee
-Moy contre Danaus qu'aurois je pu commettre ?
-Quel fruit de nostre mort se pourroit il promettre ?
-Se repend il des biens qu'il vient de nous donner ?
-Et nous a t'il fait Rois pour nous assassiner ?
-Non de pareils soupçons n'entrent point dans mon ame ?
-Je ne le sçaurois croire , on vous trompe Madame .
-Je reconnois assez à ce subit effroy,
-Jusqu'où vont les bontez que vous avez pour moy .
-Un autre vous diroit qu'une jalouse envie,
-Fait prendre à quelques gens trop de soin⁎ de ma vie,
-Qu'on veut en m'inspirant une vaine terreur,
-Me faire renoncer moy mesme à mon bonheur,
-M'engager à quitter la beauté que j'adore,
-M'irriter contre un Roy qui m'ayme, que j'honore,
-Des differens passez aigrir le souvenir,
-Et separer deux coeurs qui sont prests de s'unir .
-L'artifice⁎ est trop bas , cessez donc de me plaindre .
-En l'estat où je suis l'amour ne sçait rien craindre,
-Et j'ay contre le coup que l'on m'a preparé,
-Dans les bras d'Hipermestre un azile asseuré.
-
--*who_erigone
-Non vous n'y trouverez qu'une mort asseurée,
-A la face des Dieux Danaus l'a jurée .
-Averty par la voix d'un oracle inhumain,
-Que d'un fils d'Oegiptus il doit craindre la main,
-Il vous fait tous perir et ses filles cruelles,
-Sont de ses attentats les ministres fidelles .
-Hipermestre...
-
--*who_lyncee
-      Ah ! c'est là que j'ouvre enfin les yeux,
-Que je voy les ressorts d'un complot furieux .
-Je croy, malgré le sang qui joint nos deux familles,
-L'artifice⁎ du Roy, la hayne de ses filles ;
-Je croy mes freres morts et si vous le voulez,
-Ils meritoient les coups qui les ont accablez⁎ ;
-Je les merite mesme il faut que je perisse,
-Le cruel Danaus ordonne mon suplice ;
-Je dois m'y preparer, apres tant d'attentats,
-Sa criminelle main ne m'epargnera pas .
-Mais qu'Hipermestre ait part au malheur qui m'accable⁎,
-Non c'est ce qui me rend tout le reste incroyable,
-On vous trompe Madame .
-
--*who_erigone
-      Ouy Seigneur je le voy,
-C'est donc moy qui me trompe et vous trompe apres moy .
-Je sçay tout, du secret seule depositaire,
-Pour vous persuader je n'aurois qu'à me taire ;
-Je parle, je vous dis quels sont vos assassins,
-A vostre fuite enfin j'ouvre tous les chemins .
-Je fais plus. Suivez moy rejoignons vostre armée,
-Sauvez moy des frayeurs dont je suis allarmée :
-Je voy déja le sang couler de toutes parts,
-Je ne puis sur personne arrester mes regards,
-Sur des sujets sans foy , sur un tyran qui m'ayme,
-Sauvons nous , par pitié pour vous ou pour moy mesme,
-Montons sur vos vaisseaux : allons loin de ces bords,
-Elever des autels à tant d'Illustres morts,
-D'un Pere abandonné charmer l'inquietude,
-Et de sa triste cour remplir la solitude ;
-Vous luy direz Seigneur me presentant à luy,
-Que j'ay de ses vieux jours sauvé l'unique appuy,
-Qu'on l'auroit veu sans moy survivre à sa famille,
-Que je luy tiendray lieu d'Hipermestre et de fille,
-Et qu'apres tant d'efforts un coeur comme le mien,
-Merite assez... Ingrat vous ne me dites rien !
-
--*who_lyncee
-Madame , qu'à ma mort Hipermestre consente,
-Je ne la fuiray point elle sera contente ;
-J'auray du moins l'honneur de repandre à ses yeux,
-Un sang infortuné qui leur est odieux.
-Loin de parer ses coups, d'éviter sa presence,
-Je n'y paroistray point en estat de deffence,
-Et le fer qu'autre fois je receu de ses mains,
-Ne mettra nul obstacle à ses justes desseins .
-Je l'ay quitté je vais deplorable victime,
-Subir à ses genoux la peine de mon crime .
-Vous Madame gardez à ce barbare⁎ Roy,
-Un coeur dont son amour a merité la foy ;
-Pour moy puisqu'à la mort ma Princesse me livre,
-Je suis trop criminel pour meriter de vivre,
-Et quoy que d'un beau feu tendrement animé,
-Je suis d'elle et de vous indigne d'estre aymé .
-Faites donc à l'amour succeder la vangeance,
-Punissez un ingrat de son indifference,
-Et rebutant un coeur qu'Hipermestre me rend,
-Livrez un malheureux à la mort qui l'attend.
-
--*who_erigone
-C'en est trop; et je sens ma pitié dissipée,
-Qu'ay je dit, ma vertu m'auroit-elle trompée  ?
-A travers la pitié , l'amour s'est il fait voir  ?
-Lache , t'aurois- je aymé sans m'en apercevoir  ?
-Puisque par mon bienfait tu refuses de vivre,
-Meurs, et voy dans ta mort que c'est moy qui te livre .
-Je regne enfin , ce jour va vanger mes parens,
-Dans tes freres dans toy je poursuis les Tyrans,
-Je veux que Danaus pour victoire derniere,
-Se baigne dans le sang de sa famille entiere,
-Qu'il s'y noye, hier encor il vouloit t'epargner,
-Mais de ce sentiment j'ay bien sçu l'esloigner,
-J'ay choisy pour te perdre Hipermestre elle mesme,
-Tu mourras , c'est ainsy , Barbare⁎, que je t'ayme .
-Mais de quelque fureur que mon coeur soit armé,
-Il n'a tenu qu'à toy d'estre autrement aymé.
-
-**** *book_ *id_III07 *act_III *date_1681 *creator_abeille
-
--*who_hipermestre
 Eh quoy vous me fuyez Lyncée ?
 
--*who_lyncee
-      Ah ma Princesse,
-Me soupçonneriez vous d'une telle faiblesse ?
-Je ne fuis point la mort puisqu'elle vient de vous,
-Et mon coeur desarmé vient s'offrir à vos coups.
-
--*who_hipermestre
 Ah que me dites vous ! c'est moy qui suis coupable,
 Puisque d'un tel forfait vous me croyez capable,
 Et que plus empressée à vous sauver le jour,
 Une autre a prevenu⁎ les soins⁎ de mon amour.
 
--*who_lyncee 
-Eh Madame cessez de differer ma peine,
-Sauvez moy par ma mort de l'amour de la Reyne,
-Elle m'ayme: j'ay pu l'ecouter un moment,
-Est il pour un tel crime un trop rude tourment ?
-
--*who_hipermestre
 Que ne la croyiez vous ? dans cette nuit funeste,
 Vos freres ont pery , vous sçavez tout le reste,
 Mon Pere à votre mort attache mon bonheur,
@@ -1152,12 +1494,6 @@ Je ne puis plus icy vous parler sans effroy,
 Venez Seigneur l'amour vous parlera pour moy,
 Mais sans plus differer contentez mon envie.
 
--*who_lyncee
-Non puisque vostre amour me rend ainsy la vie,
-Je sçauray la deffendre et je cours de ce pas,
-Par un chemin sanglant rejoindre mes soldats.
-
--*who_hipermestre
 Eh de quel sang Seigneur , de celuy de mon Pere,
 Est ce là le dessein que l'amour vous suggere  ?
 O Ciel que dites vous, mon Pere, moy, mes soeurs,
@@ -1171,25 +1507,6 @@ N'auray je à vos bourreaux arraché leur victime,
 Pour conserver vos jours abandonné des miens,
 Que pour oster la vie à ceux dont je la tiens ?
 
--*who_lyncee 
-Non vous ne serez point funeste à vostre Pere .
-Dissipez vos frayeurs ma promesse est sincere :
-Je ne voy plus en luy l'ennemi qui me perd,
-Vostre seule vertu met son crime à couvert ;
-Et lorsque la raison semble exiger sa peine,
-Mon amour dans mon coeur est plus fort que ma hayne:
-J'oublieray que ma vie attira son courroux,
-Quand je me souviendray que je la tiens de vous .
-Si ma presence allarme icy vostre tendresse,
-Madame je consens à sortir de la Grece :
-Allons passer en paix nos jours hors de ces lieux,
-Dont les tristes horreurs doivent blesser vos yeux .
-Derobons la vertu de deux coeurs deplorables,
-Au sort qui malgré nous, nous veut rendre coupables .
-Marchons ; et s'il faut perdre un empire à ce prix,
-Au moins sauvons l'amour de ces cruels debris.
-
--*who_hipermestre
 Eh quoy ! tant d'yeux jalous ouverts sur ma conduite,
 Me verroient d'un amant accompagner la fuite,
 Et les siecles futurs m'accuseroient un jour,
@@ -1199,13 +1516,6 @@ Et puisqu'à ses fureurs j'arrache vostre vie,
 Je veux pour l'empescher de redouter vos coups,
 Demeurer dans ses mains en ostage pour vous.
 
--*who_lyncee
-Et moy timide⁎ amant sans craindre vostre Pere,    
-Tandis que vous serez en proye à sa colere,
-Me cherchant un azile aux climats etrangers,
-J'iray gouster en paix le fruit de vos dangers ?
-
--*who_hipermestre
 Lyncée à cet effort il faut bien vous resoudre,
 Jamais le Ciel sur vous ne suspendra sa foudre,
 De vos freres trahis les manes negligez,
@@ -1215,33 +1525,11 @@ Je ne voudray quitter mon Pere pour vous suivre ;
 Jamais mon Pere enfin n'eteindra son courroux,
 Et jamais...et jamais je n'aymeray que vous.
 
--*who_lyncee
-Aymez moy. Mais au moins pour finir vostre peine,
-Tarissez dans mon sang la source de sa hayne,
-Repandez le Madame il me sera plus doux,
-De mourir à vos yeux que de vivre sans vous .
-Ainsy libre à jamais des chagrins de l'absence,
-Jusqu'au dernier soupir vous verrez ma constance,
-Et sans vous consumer en regrets superflus,
-Vous m'aymerez toujours et ne me craindrez plus.
-
--*who_hipermestre
 Et moy je vous demande un plus grand sacrifice,
 La mort pour nostre sort est un trop doux suplice ,
 Vivez, partez, fuyez, et sans tant de discours,
 Ne nous voyons jamais et nous aymons toûjours.
 
--*who_lyncee
-Eh quoy ! dans le moment que la paix nous rassemble,
-Que l'hymen se prepare à nous unir ensemble,
-Que mon coeur fatigué de tant de vains desirs,
-Semble déja toucher l'ombre de ses plaisirs,
-Vous mesme de douleur et d'amour eperduë,
-Vous venez m'ordonner d'eviter vostre vueuë ?
-Que dis je ? dans mon coeur etouffant tout espoir,
-Vous osez m'ordonner de ne vous plus revoir ?
-
--*who_hipermestre
 Ah que vous sçavez bien prendre vostre avantage !
 Cruel, au lieu d'armer mon timide⁎ courage,
 Vostre douleur m'accable⁎ et ne fait qu'irriter,
@@ -1256,96 +1544,18 @@ Je tremble qu'à mes yeux Seigneur, entre mes bras,
 Mille soldats en foule...Allons suivez mes pas,
 Ne tardez point, helas qui vous retient encore ?
 
--*who_lyncee
-L'horreur de m'eloigner de tout ce que j'adore .
-Je n'y puis consentir.
-
--*who_hipermestre
       Je l'ay trop dit, partez !
 Iphis me vangera si vous y resistez,
 Je ne vous dis plus rien .
 
--*who_lyncee
-      J'obeï ma Princesse,
-Je ne resiste plus à l'ordre qui me presse,
-Vous le voulez, je pars ; vostre absence et l'amour,
-Sont des maux assez grands pour me priver du jour .
-De tous mes deplaisirs cet espoir me console :
-De peu de jours au Roy vous manquez de parole,
-Vous promettiez ma mort à ses soupçons jaloux .
-Adieu. Bientost le bruit en viendra jusqu'à vous.
-
-**** *book_ *id_IV01 *act_IV *date_1681 *creator_abeille
-
--*who_danaus
-Faites venir ma fille ; entrons: c'est trop attendre .
-Le coup est fait Iphis, je te reçoy pour gendre .
-J'attendois ce moment pour te le declarer :
-Hipermestre est à toy.
-
--*who_iphis
-      L'oseray je esperer  ?
-Quoy Lyncée…
-
--*who_danaus
-      A son sort ne porte plus d'envie,
-Cet Insolent Rival vient de perdre la vie.
-
--*who_iphis
-Luy Seigneur, se peut il  ?
-
--*who_danaus
-      Calme ce vain effroy,
-Et songe à meriter ce que je fais pour toy .
-Lyncée est mort ; avant que le bruit en eclate,
-Cours t'asseurer des chefs de cette race ingrate,
-Tous entrez apres luy l'attendent icy pres,
-J'ay fait fermer sur eux les portes du Palais ;
-Ces traistres mis aux fers je suis icy le maistre .
-Pour faire tout plyer nous n'avons qu'à parestre,    
-Et qu'à montrer aux yeux des soldats etonnez,
-La teste de leur Prince et leurs chefs enchaisnez .
-Cours, et vien recevoir icy ta recompense.
-
--*who_iphis
-Attandez tout Seigneur de ma recognoissance.
-
--*who_danaus
-Voyons ma fille et loin d'un objet plein d'effroy,
-Detournons ses regards... Mais elle vient à moy .
-
-**** *book_ *id_IV02 *act_IV *date_1681 *creator_abeille
-
--*who_danaus
-Ma fille c'en est fait je voy sur ton visage,
-Briller encor le feu de ce masle courage,
-Qui t'a fait immoler un amant couronné,
-Et Rendre à Danaus le jour qu'il t'a donné .
-Sur le bord du tombeau je commence à revivre,
-J'y voy cet assassin dont ta main me delivre,
-Et libre des chagrins qui m'alloient consumer,
-Je n'ay plus aucun soin⁎ que celuy de t'aymer.
-
--*who_hipermestre
 Je suis par amour trop bien recompensée,
 Des pleurs que m'a cousté la perte de Lyncée .    
 Seigneur ny vous ny moy nous ne le verrons plus,
 Vivez regnez en paix.
 
--*who_danaus
-      Trop heureux Danaus !
-Allez gardes qu'au peuple on en montre la teste.
-
--*who_hipermestre
 Ah Seigneur, songez vous... gardes , que l'on arreste !
 Mon Pere…
 
--*who_danaus
-      Je pardonne à ce tendre retour,
-Quelque pitié peut bien survivre à tant d'amour.
-Allez.
-
--*who_hipermestre
       Pour cet amour ayez quelque indulgence,
 A l'effort que j'ay fait bornez vostre vangeance,
 Voulez vous insulter aux restes tous fumans,
@@ -1355,18 +1565,6 @@ Et ne me pensez pas forcer à plus d'un crime .
 Cruelle à ses beaux jours je ne le seray pas,
 Jusqu'à porter l'outrage au delà du trepas.
 
--*who_danaus
-Je tremble, je fremis, c'est trop de resistance ;
-Non ma fille je veux jouir de ma vangeance,
-Voir si malgré l'amour vous m'avez obeï .
-Vous vous troublez perfide, ah vous m'avez trahy,
-Que l'on cherche, qu'on coure, et que la ville entière…
-Parlez ! qu'avez vous fait de l'assassin d'un Pere ?
-D'un assassin ! luy, moy, mes secrets, mes destins,
-D'un trosne, j'ay tout mis en vos perfides mains,
-Rendez, rendez moy tout.
-
--*who_hipermestre
       C'est trop longtemps me taire,
 Et d'une douleur feinte emprunter le mistere .
 Je vous rens plus Seigneur que vous ne pretendiez,
@@ -1375,17 +1573,6 @@ En sauvant mon amant j'ay sauvé l'un et l'autre,
 Et perisse à ce prix ma grandeur et la vostre,
 Mon amour , mon repos.
 
--*who_danaus
-      Perissent à ce prix,
-Pere , soeurs et parents , objets de ses mepris,
-Pourveu que l'assassin se derobe à sa peine,
-Qu'il survive à ma mort , qu'importe à l'inhumaine ?
-Montre le moy que j'aille m'offrant à ses coups,
-Avancer un moment qui doit t'estre si doux .
-De quel endroit caché me viendra t'il surprendre ?
-Ingrate où l'as tu mis ?
-
--*who_hipermestre
       Seigneur daignez m'entendre .
 Ny vos yeux ny les miens jamais ne le verront :
 Bientost loin de ces bords les vents le porteront,
@@ -1394,21 +1581,6 @@ Le vaste sein des mers servira de barriere,
 C'est pour toûjours ; mais plus que les mers et les vents,
 Croyez en sa vertu, croyez en ses sermens.
 
--*who_danaus
-Ses sermens! vains appuis d'une mourante vie,
-Qu'à finir par sa main les Dieux ont asservie,
-Dy que pour garantir la foy de ton amant,
-Les Dieux de m'epargner t'ont fait aussy serment ;
-Dy que de mon repos rompant tous les obstacles,
-Ils ont en ma faveur dementy leurs Oracles ;
-Que mes jours par un frere autrefois traversez⁎,
-Du fer de ses enfans ne sont point menacez ;
-Et pour mieux éluder la celeste menace,
-Vien toy mesme à l'instant m'immoler en leur place,
-Derobe à ton amant l'honneur de mon trépas,
-Et cours digne de luy te jetter dans ses bras.
-
--*who_hipermestre
 Je suis entre vos mains ; disposez de ma vie,
 Ou selon mon merite, ou selon vostre envie .
 Ouy ma teste à vos piez est preste de tomber,    
@@ -1428,64 +1600,6 @@ Voulut au prix d'un crime en prolonger le cours,
 Et de quelques moments honteux à sa memoire,
 Reculer son trepas pour survivre à sa gloire⁎.
 
--*who_danaus
-Ouy , selon tes desirs j'ay trop longtemps vescu,
-Cruelle, il faut mourir j'en suis bien convaincu .
-Oracles trop obscurs il n'est plus temps de feindre,
-Enfin j'ouvre les yeux je voy qui je dois craindre :
-Tant de bras à mes loix ailleurs obeissans,
-Ne m'ont donc immolé que des coeurs innocens ?
-Le seul qui se derobe estoit le seul coupable,
-Sa fureur⁎ n'en devient que plus inevitable,
-Et tant de sang versé ne sert qu'à luy fournir,
-De plus justes raisons pour oser m'en punir .
-Parricide est ce là l'effet de tes promesses,
-Le fruit de tes amours, le prix de mes tendresses  ?
-Ah tu pretens un jour fidelle à ton serment,
-Venir sur mon tombeau couronner ton amant !
-Mais je sçauray briser vos noeuds illegitimes,
-Tu m'as trahy, c'est là le dernier de tes crimes.
-
-**** *book_ *id_IV03 *act_IV *date_1681 *creator_abeille
-
--*who_iphis
-Tout est calme Seigneur, les chefs sont arrestez
-Vos soldats par la ville épars de tous costez...
-
--*who_danaus
-Qu'avons nous fait ? il fuit , il m'echape, il me brave,
-
--*who_iphis
-Qui Seigneur ?
-
--*who_danaus
-      Le Rival dont tu deviens l'esclave,
-L'assassin que les Dieux font maistre de mon sort .
-
--*who_iphis
-Vous m'aviez dit Seigneur, que Lyncée estoit mort !
-
--*who_danaus
-Et pouvois je penser qu'une fille ennemie,
-En faveur d'un amant dust hazarder ma vie,
-Le soustraire à mes coups pour me livrer aux siens ?
-Iphis , n'y pense plus, romps ces honteux liens,
-Arrache pour jamais l'ingrate de ton ame,
-Indigne de la vie elle l'est de ta flame .
-Attens un autre prix de ta fidelité .
-Et toy , lache , celuy de ton impieté.
-
--*who_iphis
-Et quoy ! dans ce moment je me crois vostre gendre,
-Vous mesme vous venez Seigneur de me l'aprendre,
-Charmé de voir enfin tous mes voeux couronnez,
-Je cours executer ce que vous m'ordonnez ;
-Je reviens à vos piez, à ceux de ma Princesse ,
-J'attens le prompt effet d'une juste promesse,
-Et vous me condamnez à la perdre, à mourir,
-Ah Seigneur est ce ainsy qu'on vouloit nous unir ?
-
--*who_hipermestre
 Iphis vous ne sçauriez prodiguer⁎ qu'avec honte,
 Des jours dont mon amour ne vous tiendroit pas conte .
 Vivez vous n'avez point de part à mon forfait,
@@ -1494,11 +1608,7 @@ Non Seigneur, puisqu'il faut justifier ma hayne,
 Je n'aymeray jamais le fils d'une inhumaine,
 Dont le perfide amour vostre unique assassin,
 S'apreste⁎ à vous porter un poignard dans le sein.
-
--*who_danaus
-Que me dit elle , Iphis ?
-
--*who_hipermestre 
+ 
       Que la fiere⁎ Erigone  
 Par des meurtres sans fin veut remonter au trône,
 Qu'immolant vos neveux par les mains de mes soeurs,
@@ -1506,10 +1616,6 @@ Elle veut avant vous , detruire vos vangeurs,
 Qu'hier mesme en voyant flotter vostre pensée,
 Elle vous fit resoudre à la mort de Lyncée,
 
--*who_danaus
-Perfide c'est trop loin pousser la cruauté.
-
--*who_hipermestre
 Encore un mot Seigneur pour vostre seureté .
 On vous trompe : Lyncée est aymé d'Erigone .
 Au mepris de la foy que l'ingrate vous donne,
@@ -1528,356 +1634,11 @@ Ce qu'à vous decouvrir mon devoir m'a forcée .
 Ce n'est que par ma mort que je puis le prouver,
 Punissez moy , Seigneur , mais daignez vous sauver.
 
--*who_danaus
-O Dieux!
-
--*who_iphis
-      Eh quoy ! Seigneur , ma vertu depend elle,
-De l'aveugle fureur⁎ d'une amante cruelle ?
-Vostre bonté pour nous peut elle chanceler ?
-Doutez vous quel dessein la fait ainsy parler ?
-Croyez vous…
-
--*who_danaus 
-      Je ne crois ny n'accuse personne .
-Iphis laissez moy seul... Je veux voir Erigone :
-Vous sçavez , si mon coeur vous fut jamais connu,
-Qu'il n'est en sa faveur que trop bien prevenu⁎.
-
-**** *book_ *id_IV04 *act_IV *date_1681 *creator_abeille
-
--*who_danaus
-O vous , par mes hauts faits si long temps soutenuës,
-Grandeur , gloire⁎, vertu , qu'estes vous devenuës ?
-Barbare⁎ Danaus , où me vois je reduit ?
-Vois je le jour apres cette sanglante nuit ?
-Tyran couvert du sang des plus nobles familles,
-Bourreau de mes neveux , seducteur de mes filles,
-Criminel tant de fois hay dans tous les coeurs,
-Et ce qui de mes jours va combler les horreurs,
-Apres tant d'attentats , de coups illegitimes ,
-Malheureux, et privé du fruit de tous mes crimes,
-Qu'ay je fait, et quel prix me suis je proposé ?
-Un seul coeur qu'à aymer je croyois disposé ;
-L'ardeur de cet amour m'a fait aymer la vie,
-C'est à cet amour seul que je vous sacrifie :
-Filles, neveux, sujets , grandeur , gloire⁎, vertu .
-Amour , cruel amour , m'abandonnerois tu ?
-Erigone oubliant sa conduite passée,
-Auroit elle tourné ses regards vers Lyncée ?
-Et par quelle autre voye auroit il donc apris,
-Que c'est par ses conseils que j'ay tout entrepris,    
-Qu'hier mesme à l'aspect de cette nuit sanglante,
-Elle enhardit au coup mon ame chancelante ?
-La perfide a tout dit, son crime est trop certain,
-Roy, Pere , amant , je hais et j'ayme donc en vain .
-Je hais; mon ennemy prest à subir sa peine,
-Par une fille impie , est soustrait à ma haine ;
-J'ayme ; Et l'objet fatal dont je me crois vainqueur,
-Offre à mon ennemy l'empire de son cœur .
-Qui de vous , fille ingrate et maitresse infidelle,
-Ou me fut la plus chere ou m'est la plus cruelle .
-Vains oracles à qui je me suis trop soumis,
-Pourquoy me cachiez vous mes plus grans ennemis ?
-Je fuis des assassins dont la mer me separe,
-Et tiens à mes costes une fille barbare⁎,
-Une amante perfide et je vois en un jour,
-S'elever contre moy la nature et l'amour .
-Et bien bravons aussy l'amour et la nature,
-Etouffons pour jamais leur insolent murmure,
-Je ne veux plus chez moy de Tyrans absolus,
-J'etois amant et Pere et je ne le suis plus.    
-
-**** *book_ *id_IV05 *act_IV *date_1681 *creator_abeille
-
--*who_danaus
-Venez, venez pleurer nos communes disgraces,
-Venez de vostre amant reconnoistre les traces,
-Voir ces lieux imprimez de ses pas fugitifs,
-Ces marbres attendris par vos soupirs craintifs,
-Fidelles à cacher la honte de ma vie,
-Et temoins eternels de vostre perfidie .
-C'est icy que tantost vos feux ont eclaté :
-Vous avez d'un heros eprouvé la fierté⁎,
-L'ingrat a disparu par le secours d'une autre,
-Sans vous laisser son coeur il emporte le vostre ;
-Sur un coeur prodigue⁎ je ne pretens plus rien,
-Laissez le luy , perfide , et me rendez le mien.
-
--*who_erigone
-Seigneur je ressens bien la douleur qui vous presse,
-Et mon dessein n'est pas d'excuser la Princesse,
-Vous trouverez le temps de luy parler ainsy ;
-Mais Seigneur songez vous qu'elle n'est pas icy !
-A trop de grans eclats vostre ame s'abandonne :
-Apaisez vous, voyez, connoissez Erigone,
-L'exces de la douleur a t'il fermé vos yeux ?
-
--*who_danaus
-Ah juste Ciel ! jamais je ne la connus mieux,
-Je sens à vostre aspect mes premieres allarmes,
-Je voy, j'admire en vous la force de vos charmes,
-Ces discours si puissants à calmer mes douleurs,
-Et ces yeux si sçavants à repandre des pleurs ;
-Mais ce que vous cachiez à mon amour timide⁎,    
-Sous tant d'appas si doux je vois un coeur perfide,
-Ouy , vous m'avez trahy vous aymez en secret,
-Un Prince que pour vous j'immolay à regret ;
-Vous m'avez arraché l'aveu de son suplice,
-Pour acheter son coeur par ce lache artifice⁎,
-Pour le sauver apres me l'avoir fait trahir .
-Si vous l'aymiez pourquoy me le faire hair ?
-Vous n'aviez pres de moi qu'à prendre sa deffence,
-Qu'à blamer à propos ma juste deffiance,
-Il eut eu le loisir de mesurer ses coups,    1215
-Et j'aurois expiré sans me plaindre de vous ;
-Vous vouliez de ces coups vous reserver la joye,
-Eh bien vous en aviez une plus seure voye,
-Sans qu'il vous fut besoin d'employer le forfait :
-Ce qui vous couste un crime un dedain l'auroit fait,
-Un mepris, je mourois et vous estiez vangée .
-Qu'ay je donc fait depuis et qui vous a changée ?
-Parlez, ou seure encore du pouvoir de vos yeux,
-Faites parler vos pleurs, ils me seduiront mieux.
-
--*who_erigone
-Non Danaus c'est trop temoigner ma foiblesse,
-Vos reproches cruels ont eteint ma tendresse,
-N'attendez plus de moy que ce que je vous dois,    
-Vous avez veu mes pleurs pour la derniere fois ;
-Apres ce grand éclat de vostre jalousie,
-Vous ne meritez pas que je me justifie,
-Et si l'amour n'a pu dissiper vos soupçons,
-Pour vous en delivrer je n'ay point de raisons;
-Allez soyez en proye à vostre juste crainte,
-Croyez qu'à vous trahir la hayne m'a contrainte,
-Croyez vostre ennemy maistre de mon coeur,
-Croyez tout sur la foy d'une fille en fureur⁎ .
-Allez enfin cedant à vostre destinée,
-Resserrer les liens de son triste hymenée⁎,
-Rapellez en ces lieux son epoux assassin,
-Et courez à ses coups presenter vostre sein.
-
--*who_danaus
-Erigone un moment, le coup que je redoute,
-N'est pas…
-
--*who_erigone
-      Depuis deux ans , ingrat , je vous ecoute,
-Vous payez mes bontez d'un caprice jaloux .
-Laissez moy, je n'ay plus aucun moment pour vous.
-
--*who_danaus
-Elle fuit, qu'ay je dit! avecque quelle imprudence,
-Ay je si fierement attaqué sa confiance,
-Mes soupçons estoient ils assez bien asseurez ?
-Suivons ses pas, allons…
-
-**** *book_ *id_IV06 *act_IV *date_1681 *creator_abeille
-
--*who_lycaste
-      Ah Seigneur accourez,
-Du dernier des malheurs la ville est menacée.
-
--*who_danaus
-Que dis tu?
-
--*who_lycaste
-      Tout est plein des vaisseaux de Lyncée,
-Ils sembloient s'eloigner lorsqu'un nouvel effort,
-Les a soudainement ramenez dans le port ;
-Ils abordent. Leurs cris de tous costez s'entendent,
-Hipermestre, Hipermestre est tout ce qu'ils demandent,
-Ils sont prests , disent ils , s'ils peuvent l'obtenir,
-D'abandonner nos bords pour n'y plus revenir.
-
--*who_danaus 
-Vain pretexte! et mes gens ont quitté le Rivage,
-Ils ont cedé. Destins , achevez vos ouvrages,
-Et puisque vainement je m'oppose à vos coups,
-Frapez de tous costez je m'abandonne à vous.
-
-**** *book_ *id_V01 *act_V *date_1681 *creator_abeille
-
--*who_erigone
-Non , si de mon tyran la teste est menacée,
-Il ne doit point perir par la main de Lyncée .
-De ce fer, seul laissé dans son apartement,
-J'attens de Danaüs le juste chastiment .
-Enfin de son destin j'ay percé le mistere :
-En vain , luy dit l'oracle , en vain tu fuis ton frere,
-Evite si tu peux le fer de ses fils,
-Et c'est ce mesme fer qu'en tes mains j'ay remis .
-Aux soupçons du tyran tu me vois asservie,
-Je pers et son amour et peut estre la vie,
-Previens⁎ le, du succes j'ay les Dieux pour garant,
-Vange ta mere enfin ton amour, tes parens.
-
--*who_iphis
-Ouy je vois à quel coup vous devez vous attendre,
-Danaus vous accuse : il peut tout entreprendre,
-Il est inexorable, et ses soupçons jaloux,
-Sont pour luy des raisons et des crimes pour vous .
-Je sens bien qu'Hipermestre a merité ma hayne,
-Que loin de mon espoir vostre dessein m'entraine,
-Mais de quelque depit dont je sois animé,
-Pour hair à ce point j'ay trop longtemps aymé,
-Je ne puniray point , quoy qu'elle m'ait pu faire,
-La fierté⁎ de son coeur sur le coeur de son Pere,
-
--*who_erigone
-Punis son Pere au moins de ses propres forfaits,
-Et n'abandonne pas le fruit de tes souhaits ;
-Souvien toy du moment que je t'ay fait attendre ,
-Le voicy. C'est par là que tu peux tout pretendre,
-Hipermestre est à toy si tu me sers.
-
--*who_iphis
-      Eh quoy,
-Perdre son Pere ô Dieux! et pretendre à sa foy.
-
--*who_erigone
-Le perdre, et par l'aspect de la fatale épée,
-Rendre l'amant suspect à l'amante trompée ,
-Sur Lyncée en un mot en detourner l'horreur,
-De la fiere⁎ Hipermestre amuser la douleur,
-La flatter d'un espoir de vangeance frivole…
-
--*who_iphis
-Ah Madame est ce ainsy que l'on me tient parole ?
-L'assassinat, la fourbe, et l'infidelite,
-Sont ce là les secours dont vous m'aviez flatté ?
-Non, j'ay d'autres moyens de sauver vostre vie,
-De ravir Hipermestre à qui me l'a ravie,
-De vous justifier aupres d'un Roy jaloux ;
-C'est sur Lyncée enfin qu'il faut tourner mes coups .
-Maistre dans un instant du port et de la ville,
-Il croit de ce palais l'acces aussy facile,
-Il accourt, c'est à moy d'arrester ses efforts.
-
--*who_erigone
-Et de m'abandonner aux barbares⁎ transports,
-D'un Roy dont tu soutiens l'injurieux caprice,
-Tandis que sa fureur merite mon suplice !
-Je ne te retiens plus, va, cours le secourir,
-Renonce à la vangeance et me laisse mourir ;
-Ou plutost puny moy prevenant⁎ son envie,
-Du crime que j'ay fait d'attenter sur sa vie,
-Qu'est ce qui te retient ?
-
--*who_iphis
-      Madame...
-
--*who_erigone 
-      Que veux tu ?
-Esclave scrupuleux d'une fausse vertu,
-Indigne protecteur d'un tyran qui m'oprime,
-Et d'un honteux amour malheureuse victime,
-Rends moy Rends moy ce fer inutile en tes mains ;
-J'iray sans ton secours poursuivre mes desseins,
-Et mon bras plus fidelle à servir ma colere,
-A tes yeux fils ingrat joindra la fille au Pere .
-Nous verrons si l'ardeur de deffendre leurs jours,
-Te fera contre moy courir à leur secours,
-Car ne te flattes pas d'une vaine esperance,
-C'est par ma mort qu'il faut que ton bonheur commence,
-Et je ne veux traisner ma vie et mes douleurs,
-Que pour te voir en proye à d'eternels malheurs.
-
--*who_iphis
-Vous l'avez déja fait vivez, vivez contente,
-L'exces de mes malheurs doit remplir vostre attente ,
-Je ne puis me sauver d'un oprobre eternel,
-Ny devenir heureux sans estre criminel .
-A vous, à ma Princesse egalement fidelle,
-J'ay du respect pour vous, j'eus de l'amour pour elle,
-Fils zelé, tendre amant j'esperois en ce jour,
-Accorder la vertu , la nature et l'amour,
-Vous me le deffendez . Vous serez obeïe,
-Je sacrifieray tout pour sauver vostre vie,
-Je perdray Danaus, j'eteindray dans mon coeur,
-Cet amour dont vous mesme entreteniez l'ardeur,
-Mais apres avoir fait ce que j'auray dû faire
-Pour vanger mes parens, pour sauver une mere,
-Infortuné vangeur, amant desesperé,
-Triste vertu c'est vous que je sacrifieray.
-
-**** *book_ *id_V02 *act_V *date_1681 *creator_abeille 
-
--*who_erigone
-Il menace je croy. N'importe, qu'il acheve,
-Et qu'apres contre moy sa vertu se souleve ;
-Pour sortir de ces lieux j'ay les chemins ouverts,
-Et de quoy m'attirer les yeux de l'univers .
-Mais je veux voir icy ma vangeance asseurée,
-Danaus mort, sa fille entre mes mains livrée,
-Aux yeux de ses amans la trainer dans Argos,
-Et là par ses perils asseurer mon repos .
-Helas !Il n'est plus temps.
-
-**** *book_ *id_V03 *act_V *date_1681 *creator_abeille
-
--*who_erigone
-      Quoy la ville est en flame,
-Le Palais assiégé , tout un peuple...
-
--*who_danaus
-      Ouy Madame,
-J'entens les tristes cris des peuples pleins d'effroy,
-J'entens la voix des Dieux irritez contre moy,
-Je voy qu'à l'assasin leur fureur⁎ m'abandonne,
-Et je viens...
-
--*who_erigone
-      Vous venez vous vanger d'Erigone,
-A vos laches soupçons mettre une digne fin.
-
--*who_danaus
-Et je viens à vos yeux accomplir mon destin,
-A de cruels soupçons mon ame s'est livrée,
-Plus que jamais encore elle en est dechirée ;
-Mais quoy de vos parens j'occupe icy le rang,
-La pourpre qui me couvre est teinte de leur sang,
-Me perdre et me haïr n'est pas pour vous un crime,
-C'est le mien seul qui rend mon soupçon legitime .
-Ouy vangez vous , joignez ma fille à mes destins,
-Et mon coeur et le sien , tout est entre vos mains.
-
--*who_erigone
-Seigneur , plus de soupirs ; courez, courez aux armes,
-Et ne vous laissez point attendrir par les larmes,
-Vos perils ont tary leur source dans mon coeur,
-Je tremble, et ne suis plus sensible qu'à la peur,
-C'est là de mon amour le plus seur temoignage .
-Courez de vos soldats relever le courage,
-Vous trouverez mon fils, vous sçaurez là de luy,
-Comment de vos soupçons je me vange aujourd'huy,
-Pour vous convaincre enfin combien j'en suis blessée
-Allez, aportez moy la teste de Lyncée.
-
--*who_danaus
-J'y cours puisque mes jours vous sont si precieux,
-Je les disputeray mesme contre les Dieux.
-
--*who_hipermestre
 Seigneur , que je vous suive et que je vous deffende.    
 
--*who_danaus
-Demeurez.
-
-**** *book_ *id_V04 *act_V *date_1681 *creator_abeille
-
--*who_hipermestre
       Et c'est moy que l'assassin demande,
 Livrez moy seule aux coups de ces fiers⁎ ennemis.
 
--*who_erigone
-Laissez ce soin⁎ , Princesse , au malheureux Iphis,
-Ne luy derobez point cette derniere joye,
-Pour gagner vostre amour il n'a que cette voye,
-Il y court.
-
--*who_hipermestre
       Triste amour source de mon malheur,
 C'en est fait , pour jamais je t'ay fermé mon coeur,
 Ne parlons plus d'aymer, parlons de mon suplice,
@@ -1904,22 +1665,7 @@ Qu'ay je fait ? faux serment oracle trop sincere,
 J'ay sauvé mon amant, sans songer à mon Pere,
 Et pour me preserver d'un forfait incertain,
 D'un amant vertueux j'ay fait un assassin.
-
--*who_erigone
-Non , Princesse , le Ciel sera plus favorable,
-Au zele genereux qui vous a fait coupable,
-Les Dieux auront egard à vos voeux innocens ;
-Leur oracle toûjours enferme un double sens,    
-Et si l'effet repond à mes heureux presages,    
-Vous verrez du milieu de ces sombres nuages,
-Qui font dans vostre coeur naistre tant de combats,
-Sortir quelque clarté que vous n'attendez pas .
-Laissons combattre Iphis autour de vostre Pere,    
-Allons attendre ailleurs le succes que j'espere ;    
-Tout aigrit en ces lieux nostre commun soucy,
-Nous serons dans Argos plus tranquiles qu'icy.
-
--*who_hipermestre 
+ 
 Ah ! mon Pere mourroit de ce depart funeste,
 Il croit que vostre coeur est le seul qui luy reste,
 Ne l'abandonnez pas. Son plus ferme secours,
@@ -1929,26 +1675,45 @@ Apres luy , vous et moy ne pensons plus à vivre,
 Ajoustons cet exemple à l'horreur de ce jour,
 Moy de mon repentir et vous de vostre amour.
 
-**** *book_ *id_V05 *act_V *date_1681 *creator_abeille
-
--*who_lycaste
-Ah Princesses fuyez ! il n'est plus d'esperance,
-Rien ne resiste !
-
--*who_hipermestre
       Eh quoy ! mon Pere est sans deffence,
 Est ce là le secours que j'attendois d'Iphis ?
 
--*who_lycaste
-Iphis n'est plus.
-
--*who_hipermestre
       O Ciel! et mon Pere ?
 
--*who_erigone
-      O mon fils !
+Juste Ciel!
 
--*who_lycaste
+Ah cruelle ! est ce ainsy que vous m'avez trompé ?
+
+Suivez ses pas Lycaste
+
+      O Lumiere impreveuë,
+O depart, ô retour cause de mes tourmens,
+Ah Lyncée ! est ce là l'effet de vos sermens ?
+ 
+Vous hair je ne puis, vous aymer je ne l'ose,
+Vous voyez mes soupirs, vous en estes la cause .
+Il suffit . Laissez moy dans ce malheureux jour,
+Douter au moins s'ils sont de douleur ou d'amour.
+
+
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycaste
+
+      Ah Seigneur accourez,
+Du dernier des malheurs la ville est menacée.
+
+      Tout est plein des vaisseaux de Lyncée,
+Ils sembloient s'eloigner lorsqu'un nouvel effort,
+Les a soudainement ramenez dans le port ;
+Ils abordent. Leurs cris de tous costez s'entendent,
+Hipermestre, Hipermestre est tout ce qu'ils demandent,
+Ils sont prests , disent ils , s'ils peuvent l'obtenir,
+D'abandonner nos bords pour n'y plus revenir.
+
+Ah Princesses fuyez ! il n'est plus d'esperance,
+Rien ne resiste !
+
+Iphis n'est plus.
+
 Avant qu'il eut paru la porte estoit forcée,
 Nos soldats confondus avec ceux de Lyncée,
 La surprise , l'horreur , le desespoir , les cris,
@@ -1968,10 +1733,6 @@ Dit il , reconnoissez mon amour et ma foy,
 Ne me refusez point ce que le Ciel ordonne,
 Le pardon d'Hipermestre et la mort d'Erigone.
 
--*who_erigone
-Le Traistre!
-
--*who_lycaste
       Iphis se trouble, et Danaus Jaloux,
 Tremble à ce que Lyncée ajouste contre vous,
 Il paslit, il partage entre Iphis et Lyncée,
@@ -1982,61 +1743,56 @@ Quand Iphis (je fremis au recit de son crime)
 Non non, vous n'aurez point ma mere pour victime,
 Leur dit il , et les Dieux ne seront point trompeurs.
 
--*who_hipermestre
-Juste Ciel!
-
--*who_lycaste
       A ces mots deployant ses fureurs,
 Au sein de Danaus il plonge son épée.
 
--*who_hipermestre
-Ah cruelle ! est ce ainsy que vous m'avez trompé ?
-
--*who_lycaste
 Et fumante qu'elle est de cet illustre sang,
 D'un second coup luy mesme il s'en perce le flanc.
 
--*who_erigone
-Il est mort. Mais sa mort acheve mon ouvrage,
-De mes parens vaincus j'ay vangé le carnage,
-Les oracles des Dieux enfin sont accomplis,
-Je ne leur ay presté que le bras de mon fils,
-Lyncée a fait le reste il a sa part au crime,
-Et c'est son fer qui vient d'immoler la victime .
-Je m'attens à mourir et ne crains point la mort,
-Je me suis preparée à ce dernier effort :
-Je vay de mon trepas luy derober la gloire⁎,
-Allez , heureux époux , gouster vostre victoire,
-Et montez sur un trosne où je ne pretens rien,
-Couvert de vostre sang encor plus que du mien .
-Dircé , je voy Lyncée , ostons nous de sa veue .
 
--*who_hipermestre
-Suivez ses pas Lycaste
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
 
-**** *book_ *id_V06 *act_V *date_1681 *creator_abeille
+      Qu'Iphis est devenu traittable⁎,
+Madame, et qu'à vos soins⁎ Lyncée est redevable !
+Pouvez vous témoigner un soin⁎ plus aparent,
+Pour un Prince qui doit vous estre indifferent ?    
 
--*who_hipermestre
-      O Lumiere impreveuë,
-O depart, ô retour cause de mes tourmens,
-Ah Lyncée ! est ce là l'effet de vos sermens ?
+      Ne l'est il pas Madame  ?
 
--*who_lyncee
-Helas ! j'ay tout promis dans l'ardeur de vous plaire,
-Je vous ay fait serment d'epargner vostre Pere,
-De ne vous plus revoir , d'aymer et de souffrir,
-Mais ay je fait serment de vous laisser mourir ?
-Je vous laissois icy sans appuy , sans deffence,
-Je viens de vos tyrans calmer la violence,
-Pour sauver Danaus je fais un vain effort,
-Quand je luy rens la vie on luy donne la mort .
-Si vous vous repentez d'avoir sauvé ma vie,
-Rendez moy donc la mort que vous m'avez ravie,
-Achevez, prononcez l'arrest de mon trepas,
-Mais en le prononçant ne me haissez pas.
+Quoy vous voyez d'Iphis la flame traversée⁎.
+Et quand vous le souffrez⁎ vous haïssez Lyncée !
 
--*who_hipermestre 
-Vous hair je ne puis, vous aymer je ne l'ose,
-Vous voyez mes soupirs, vous en estes la cause .
-Il suffit . Laissez moy dans ce malheureux jour,
-Douter au moins s'ils sont de douleur ou d'amour.
+Ce coeur dont Danaus croit posseder l'Empire.
+
+Et Lyncée?
+
+Quoy Madame peut il vous faire cet outrage ?
+Est-il si peu sensible ?
+
+      Je voy Danaus qui s'avance,
+Il est triste, ses yeux accablez⁎ de langueur...
+
+Eh Madame pourquoy vous tant inquieter ?
+Vous en sçavez, au point que l'affaire est conduite,
+Assez pour obliger son amant à la fuite .
+Laissez moy luy parler, pour troubler leurs amours,
+Je luy diray quels soins⁎ vous prenez de ses jours,
+Quels pieges on luy tend quelles mains on employe .
+Qu'il fuye, ou que du moins il recule sa joye,
+Qu'il differe l'hymen⁎; demain ses freres morts,
+Justifieront vos soins⁎, changeront ses transports,
+Hipermestre à ses yeux paroistra criminelle,
+Vous parlerez...
+
+      Ah Madame il marche sur mes pas,
+Je l'ay veu, j'ay parlé : l'ingrat ne me croit pas .
+Il vous soupçonne, il croit qu'un fils vous a seduite,
+Et qu'en faveur d'Iphis on luy parle de fuite.
+
+      A peine a t'il ecouté mes discours,
+Enyvré du succes de ses tendres amours,
+Affectant à mes yeux une folle asseurance,
+Il a voulu sortir sans armes, sans defence,
+Il a laissé sa suitte en son apartement.
+Il vient seul.
+

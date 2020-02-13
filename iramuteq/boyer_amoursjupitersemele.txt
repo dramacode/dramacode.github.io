@@ -1,31 +1,744 @@
 
 
-**** *book_ *id_body-1 *date_1666 *creator_boyer
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
 
-Epistre. AU ROY.
+Ouy j'attens Semelé sous ce nouveau visage :
+C'est l'amour qui m'a fait ce galant équipage⁎ :
+Mais si tu vois un Dieu sous l'habit d'un Berger,
+Ce n'est pas d'aujourd'huy que tu m'as veu changer,
+Et de mes feux⁎ secrets cacher les avantures,
+Sous les traits differents de cent autres figures.
 
-SIRE,
+Momus, veux-tu tousjours censurer & medire ?
+N'as-tu jamais connu le souverain Empire,
+Qui force au changement le plus puissant des Dieux ?
+Voy comme c'est en nous un deffaut glorieux.
+Quand j'aime une beauté, d'abord je vois en elle
+Tout ce qu'a de charmant une beauté mortelle ;
+La lumiere d'un Dieu descouvre en ce moment
+Tout ce qui peut toucher les desirs d'un amant⁎.
+Un mortel a besoin de temps & de lumiere,
+Pour faire à son amour une digne matiere ;
+Mais un Dieu pour ce chois n'a pas besoin de temps :
+Il voit tout d'un coup d'œil & dehors & dedans ;
+Son esprit convaincu d'un merite adorable,
+Aime d'abord autant, que l'objet⁎ est aimable⁎,
+Et par un feu⁎ divin qui peut tout enflammer,
+Il embrase l'objet⁎ qui vient de le charmer.
+Ce violent Amour vient à peine de naistre,
+Qu'il est victorieux, autant qu'il le peut estre,
+Et deslors qu'il joüit⁎ avecque tant d'ardeur⁎,
+Sa flame⁎ à son objet⁎ applique tout son cœur,
+Qu'au mesme instant qu'un Dieu possede une maistresse⁎,
+Il espuise sa joye & toute sa tendresse :
+Ainsi le cœur d'un Dieu presque en un seul moment,
+Aime, se fait aimer, & cesse d'estre Amant⁎.
+Toy qui n'aimas jamais, tu sçais mal comme on aime.
 
-Ceux qui verront à la teste de mon Ouvrage Vostre Auguste Nom avec celuy de Jupiter, s'imagineront sans doute, que je veux m'attacher à ces belles comparaisons qu'on peut faire du plus grand des Rois avec le plus puissant des Dieux, & que cherchant la verité dans la fable j'en veux tirer un grand fonds de loüanges pour la gloire de Vostre Majesté ; mais ce n'est pas mon dessein, de m'engager dans une carriere si vaste & si difficile : une matiere si importante ne peut estre dignement expliquée qu'avec le langage des Dieux, & par les bouches immortelles de l'Histoire & de la Renommée.
-D'ailleurs, SIRE , & je veux bien l'advoüer à Vostre Majesté, le seul interest de mon Ouvrage m'a inspiré la hardiesse de vous le consacrer ; j'ay crû que je n'avois que ce moyen pour achever sa gloire, & pour asseurer sa reputation, & que pour faire valoir mon present, je pourrois publier⁎ hautement qu'il a eu l'honneur de plaire à Vostre Majesté ; quoy que la plus illustre Cour de l'Europe puisse rendre ce témoignage, je n'ay garde de perdre une si belle occasion d‘en parler.
-Puis-je laisser à la Postérité une idée plus avantageuse de la bonne fortune⁎ de ma Piece, que celle d'avoir amusé agreablement le plus grand Roy du monde, d'avoir suspendu trois heures de suitte ces glorieux soins & cette Royale inquietude qu'il donne à la conduite de la premiere Monarchie de la terre, & d'avoir enfin occupé l'attention d'un esprit, dont les vastes pensées embrassent toutes les parties de l'Europe, & s'estendent jusques aux deux bouts de l'Univers ?
-Mais, SIRE, l'oseray-je dire à Vostre Majesté ?
-Il n'en falloit pas moins pour une Muse aussi ambitieuse que la mienne : elle ne compte le succés de son ouvrage que du jour de vostre approbation.
-Je diray bien davantage, la gloire de plaire à Vostre Majesté donne une joye si precieuse & si delicate, que je sens pour elle une avidité qui n'a point de bornes ; rien ne peut arrester cette ambition déreglée, pour la satisfaire je ne voyrien au dessus de mon courage & de mes forces, & j'oze esperer qu'elles pourront égaller le zele ardent & le profond respect avec lequel je suis,
+Nous nous broüillons exprés pour estre mieux ensemble.
+Si l'amour avec moy s'entendoit tous les jours,
+Quelle gloire de vaincre avec ce grand secours ?
+Je me fais de l'amour un combat volontaire,
+Un doux empressement, une agreable affaire :
+Sous l'habit d'un Berger je me deguise exprés,
+Pour affoiblir ainsi la force de mes traits,    
+Et par quelques combats achetant la victoire,
+Pour croistre mes plaisirs, j'y mesle un peu de gloire.
 
-SIRE,
+Ouy mais de mon amour apprens tout le mystere⁎.
+Quelque glorieux chois, qu'un Dieu se puisse faire,
+Sçache qu'il ne sçauroit remplir tous ses desirs :
+Son cœur qui veut par tout le comble de plaisirs,
+Repare le deffaut de ces beautez mortelles,
+Par un enchaisnement de conquestes nouvelles.
 
-De Vostre Majesté,
+L'Amour n'a pas au Ciel son veritable empire :
+C'est icy seulement qu'on brusle⁎ & qu'on soûpire⁎ ;
+Dans le sejour⁎ des Dieux l'on y vit sans desirs,
+Et sans desirs l'Amour a-t'il de vrais plaisirs ?
 
-Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
+J'en trouve dans l'amour qui sont bien plus charmans :
+Quand l'amour dans un cœur met toute la tendresse…
 
-**** *book_ *id_body-2 *date_1666 *creator_boyer
+S'il est quelque foiblesse à se laisser charmer,
+Que ne suis-je plus foible afin de mieux aymer ?
+Ou s'il faut souhaiter une chose impossible,
+Que ne suis-je moins Dieu pour estre plus sensible ?
+Mais j'ay tort de parler à qui n'ayma jamais :
+Ne combats plus ma flâme⁎ & sers la desormais ;
+Momus tu tiens icy la place de Mercure.
 
-ACTEURS.
+C'est pour tromper Junon qu'aujourd'huy je t'employe,
+Tu sçays qu'incessamment elle trouble ma joye,
+Et du subtil Mercure aprehendant l'employ,
+Il luy seroit suspect s'il estoit pres de moy.
+Ainsi…Mais j'aperçois Semelé.
 
-**** *book_ *id_A01 *act_A *date_1666 *creator_boyer
+Ma Princesse est ce vous ?
 
--*who_melpomene 
+Me méconnoissez-vous sous ce déguisement ?
+Avez vous oublié le discours de l'aurore ?
+
+Je trompe ainsi Junon & me cache à ses yeux :
+De son jaloux esprit la triste inquietude
+A m'épier sans cesse applique son estude ;
+Mais voulant m'assurer mes plaisirs les plus doux…
+ 
+Moy craindre pour ma gloire un choix si glorieux ?
+Moy qui pour vous servir, abandonne les cieux ?
+Moy qui bruslant⁎ pour vous d'une ardeur⁎ sans seconde
+Neglige sans rougir la conduite du monde ?
+Moy qui montre à vos yeux un amant⁎ si charmé,
+Qu'il cesse d'estre Dieu pour estre plus aymé ?
+
+Ne craignez rien ; Amour pour finir vostre peine⁎,
+Et par mon ordre expres envoyé vers la Reyne,
+Luy deffend d'écouter un desir indiscret⁎,
+Qui veut de vostre flâme⁎ arracher le secret.
+Et par un autre choix tiranniser vostre ame.
+
+Et n'est ce pas assez qu'il paroisse à nos yeux ?
+Un témoin comme moy suffit pour vostre gloire.
+
+Hé bien que tout le monde aprenne ma deffaite :
+Il faut bien satisfaire à vostre ambition ;
+Que mon amour éclatte aussi loin que mon nom.
+
+Il faut voir le rival, qu'on donne à Jupiter.
+
+Mes ordres sçauront bien rompre cet Himenée⁎.
+
+Ce conseil quel qu'il soit nous fera peu de mal.
+
+      Non j'aurois peu de gloire,
+De braver un rival quand il pert la victoire.
+
+Des bergers comme moy le peuvent sans danger.
+
+On m'ayme & ce seul mot suffit pour vous l'apprendre.
+
+Que vous sert cet adveu, quand son cœur est à moy ?
+Quand on a comme moy la gloire de lui plaire…
+
+Je ne sçay qui l'est plus du berger ou de vous.
+
+      Calmez ce dangereux courroux.
+
+      Je répons icy de sa clemence.
+
+      Ne craignez rien Princesse.
+
+Pouvez-vous pour un Dieu craindre quelque danger ?
+
+Ouy Prince, c'est luy mesme, & le charme est passé :
+J'ay pitié de l'estat, où vous met trop d'audace :
+Amant⁎ de Semelé vous meritez ma grace.
+Au moins par cet essay connoissez mon pouvoir.
+
+      J'ay pitié de l'erreur qui l'abuse⁎.
+
+Quel changement soudain excite la tempeste ?
+Quand je suis sur la terre, il tonne dans les cieux,
+
+Junon quand il luy plaist peut former le tonnerre,
+Elle est Reyne des airs.
+
+Sans doute que Junon en veut à ma Princesse,
+
+Quoy vous doutez ?
+
+Junon descend en terre ; évitons sa fureur.
+Nuages descendez, & qu'une épaisse nuë
+La derobe à sa rage & nous cache à sa veuë.
+
+Vous n'avez rien à craindre icy belle Princesse.
+Toy, tasche d'observer la jalouse Deesse ;
+Sur tout cache luy bien cet azile secret.
+
+Hé bien ces grands essais d'amour & de puissance
+Vous laissent-ils encor dans quelque defiance ?
+Doutez-vous de mon nom ? ce merveilleux sejour⁎,
+Et ces lieux enchantez qu'a produit mon amour,
+Sont-ils de ma grandeur un foible tesmoignage ?
+Vous voyez au milieu d'une forest sauvage,
+Naistre par un miracle aussi rare que beau,
+D'un amas de beautez le spectacle nouveau.
+Ces lieux quand vous voudrez vous offrent un azile,
+Pour vous comme l'accez l'issuë en est facile.
+Icy loin de Junon, & loin de vostre Cour,
+Et sans autres tesmoins que les yeux de l'Amour,
+Nous gousterons tous deux tout ce que dans les ames    
+Respandent de douceurs les plus heureuses flames⁎,
+Tout ce que font sentir de joye & de plaisirs,
+Le commerce⁎ amoureux des yeux & des souspirs,
+Les combats d'amitié⁎, de soins⁎, de deferences,
+Les flatteurs entretiens, les tendres confidences,    
+Ces beaux emportemens de l'esprit & du cœur,
+Ces charmes composez de flame⁎, & de langueur,
+Les doux égaremens, les aimables⁎ foiblesses,
+Les extases d'amour, les transports⁎, les tendresses,
+Tout ce qui peut enfin nous flatter tour à tour,    
+Quand on se donne tout au pouvoir de l'Amour.
+
+Si ma divinité vous paroist si presente,
+Je dois vous en donner une marque esclatante.
+Je veux que dans ces lieux le comble des plaisirs,
+Par un charme eternel remplisse vos desirs ;
+Le Ciel respectera ce precieux azile ;                         47
+Vous y respirerez un air pur & tranquile,
+Que rien ne troublera que vos tendres souspirs,    
+Et le soufle amoureux des aimables⁎ Zephirs⁎ ;
+Icy chaque saison nous donnera des roses,
+Les plus charmantes fleurs, & les plus belles choses,
+Et pour n'y rendre pas nos plaisirs limitez
+Chaque jour produira de nouvelles beautez ;
+La Mere des Plaisirs vous y suivra sans cesse,
+Cette source d'appas⁎, la brillante Jeunesse,
+Respandra sur vos jours un eternel printemps,
+Et les affranchira de la fureur des ans ;
+Mille Ris, mille Jeux, & leur charmante Mere,
+N'y prendront d'autre soin que celuy de vous plaire ;
+Vous y verrez tousjours les plus jeunes Amours,
+Et tout ce qu'avec eux amenent les beaux jours ;
+C'est icy que nos cœurs aimeront sans contrainte,
+Joüiront⁎ sans degoust, possederont sans crainte,
+Et ce qui plus que tout doit flatter⁎ vos desirs,
+C'est un Dieu tout-puissant qui promet ces plaisirs.
+
+Que vous connoissez mal le cœur de vostre amant⁎ !
+Son ardeur⁎ pour s'esteindre est trop grande & trop belle ;
+Dans un cœur immortel l'amour est immortelle,
+Et ce feu⁎ dont vos yeux sont la source & l'appuy,
+Doit s'il enflâme un Dieu durer autant que luy.
+Souffrez⁎ pour un moment qu'en ces lieux je vous laisse ;
+Mon destin me l'ordonne & mon devoir me presse⁎ ;
+Mais songez quand je rends mes soins à l'univers,
+Qu'un Empire si beau me plaist moins que vos fers⁎.
+
+Je dois à l'univers les soins de ma sagesse,
+Et ceux de mon amour sont tous à ma Princesse.
+Mais avant que quitter ce jardin enchanté
+Je vay voir si Momus pour vostre seureté
+Veille sur la Deesse, & le prier encore
+D'éloigner ses regards de celle que j'adore.
+Ah ! que je veux de mal Princesse à ma grandeur !
+Helas si j'en croyois & mes yeux & mon cœur,
+Je laisserois le Ciel sans maistre & sans conduite :
+Ma gloire ne se peut sauver que par la fuite.
+Vous cependant⁎, Venus, plaisirs jeunesse amour
+Venez prendre ma place attendant mon retour.
+
+Roy de Thebes en vain en faveur de ta fille,
+J'ay pressé le grand Jupiter ;
+Ce Dieu ne veut plus m'écouter,
+Pour l'interest de ta famille :
+Ta des-obeyssance irrite son courroux.
+Roy, Reyne, Prince, allez, retirez-vous,
+Dérobez la Princesse à ce triste Himenée⁎ :
+C'est trop peu que le thrône il luy faut des Autels ;
+La hauteur de sa destinée
+La rend inaccessible aux soûpirs des mortels.
+
+Sortez donc de ces lieux qu'un chacun se retire.
+Vous Princesse arrestez, j'ay beaucoup à vous dire.
+
+Princesse pouvez-vous separer l'un de l'autre ?
+ 
+Momus m'a tout appris touchant cette imposture :
+Junon vous a parlé sous l'habit de Mercure,
+Et pour vous abuser⁎ me traittant d'imposteur…
+
+Hé ! ne voyez-vous pas, Princesse avec quel zele,
+Je m'oppose aux desirs d'un pere & d'un amant⁎ :
+Je fais dans vostre Temple un affreux⁎ changement ;
+Je sousleve l'Enfer, je descens sur la terre ;
+J'abandonne le Ciel, ma gloire & mon tonnerre,    
+Et sçachant qu'en ces lieux Minerve a tout pouvoir,
+Sous l'habit de Minerve icy je me fais voir.
+
+Que faut-il faire enfin pour me faire connoistre ?
+J'atteste du destin le pouvoir glorieux,
+Que s'il est un moyen pour me connoistre mieux…
+
+Que me demandez-vous trop aveugle Princesse ?
+Ah ! c'est là le conseil de la grande Deesse.
+Gardez-vous d'escouter ce conseil dangereux ;
+Contentez-vous de voir Jupiter amoureux,
+Jupiter desarmé de ces clartez terribles⁎,
+Qui rendent aux mortels les Dieux inaccessibles.
+
+      Ah ! cachez-moy ces larmes.
+Helas ! sçavez-vous bien ce que vous demandez ?
+
+Je l'ay juré, Princesse, & mon cœur en souspire ;
+Mais songez aux perils qui menacent vos jours.
+
+Je ne sçay si je puis vous sauver de moy-mesme ;
+On s'oublie aisement aupres de ce qu'on aime.
+Un rayon échappé de cette majesté,
+De cet éclat qui sort d'une divinité,    
+Peut embrazer le monde & mettre tout en cendre.
+
+Faut-il vous le monstrer en perdant ce que j'aime ?
+
+Il n'est rien de si seur, croyez-en ces frayeurs ;
+Croyez un Dieu, qui tremble, & qui verse des pleurs.
+
+Ce Dieu-là devenir si fier & si terrible⁎…
+
+L'amour dans cet estat est un foible secours.
+Je vous feray perir en dépit de moy-mesme.
+
+Vous devez craindre tout, je vous laisse y penser.
+
+Au nom de nostre amour…
+
+Vous le voulez, Princesse, il faut vous contenter.
+
+Tu ne vois qu'un essay de cét éclat terrible⁎,
+Qui doit rendre à ses yeux tout Jupiter visible :
+De peur d'offrir icy ma gloire à d'autres yeux,
+J'affoiblis tous les traits du grand maistre des Dieux ;
+Ils sont pour ma Princesse, & ce n'est qu'aupres d'elle
+Que je veux estaller cette pompe immortelle.
+Tu l'as veuë, & tu sçais jusqu'où va cette ardeur⁎,
+De voir toute ma gloire, & toute ma grandeur.
+
+Je connoy le peril, il n'en faut point douter :
+Mais Jupiter l'a dit, il faut l'executer.
+Contre un serment lasché tout respect est frivole,
+Et le destin n'est pas plus seur que ma parole.
+Tout le sort des mortels est trop à negliger,
+Quand pour eux nostre gloire est en quelque danger.
+J'aime, mais j'aime en Dieu, sans honte & sans foiblesse,
+La gloire fut tousjours ma premiere maistresse ;
+Si je preste à l'amour ma gloire & mon pouvoir,
+Je sçay sacrifier l'amour à mon devoir.
+J'adore Semelé, le peril est extreme ;
+Monstrant ce que je suis j'expose ce que j'aime ;
+Sa curiosité luy va couster le jour ;
+Je le voy, tout mon cœur tremble pour mon amour.
+Je voudrois retenir cette foudre, & ces flames,
+Mais quand l'amour a mis son trouble dans nos ames,
+Tout eschappe au milieu de ces charmants transports⁎,
+Et le dedans troublé respond mal au dehors.
+Cependant ma parole a sur moy tant d'empire…
+
+Tu respens ton venin sur tout ce que je fais ;
+Mais voyons Semelé, contentons ses souhaits.
+Tu vois ce que je fais en dépit de moy-mesme ;
+Amour sauve de moy si tu peux ce que j'aime.
+Toy garde icy mon aigle attendant mon retour.
+
+Roy de Thebes, je viens consoler ta douleur ;
+Cesse de t'affliger du trespas de ta fille,
+Et rends graces au Ciel, d'un illustre malheur,
+Qui consacre⁎ à jamais l'honneur de ta famille.
+Mais pour ne pas douter d'un sort si glorieux,
+Qui la rend par sa mort plus brillante & plus belle,
+Nuages ouvrez-vous, & monstrez à ses yeux,
+Ce qu'a fait pour sa fille une main immortelle.
+Voy quel est le beau coup qui l'arrache aux mortels
+Pour le pris d'un trespas que j'ay causé moy-mesme,
+Je la rends immortelle & digne des autels ;
+C'est comme⁎ Jupiter fait perir ce qu'il aime.
+
+Mais ce n'est pas assez pour vanger ton honneur
+Que les Dieux soient tesmoins d'une illustre avanture ;
+Je veux que tout le monde apprenne ton bonheur,
+Venez icy venez, Renommée & Mercure.
+Voy ces divinitez fidelles à mes loix,
+Tu les verras tousjours fidelles à ta gloire,
+Par cét éclat qui suit leur immortelle voix,
+Consacrer⁎ à jamais ton nom & ta memoire.
+
+Vous, allez publier⁎ ce que j'ay fait pour elle ;
+Allez vanter par tout la gloire de son sort,
+Mais avec tant d'éclat, que toute autre mortelle,
+Porte envie aux honneurs d'une si belle mort.    
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_junon
+
+Tu me vois Alcmeon au milieu des nüages
+Par un soin inutile exciter des orages,
+Et pour des vains efforts prester à mon courroux,
+Ces traits que j'ay surpris à mon perfide époux.
+Jupiter à mes yeux dérobe son amante⁎ ;    
+Son amour tout puissant, rend ma haine impuissante.
+Vents, tempestes, esclairs, enfans de ma fureur,
+Qui ne semez icy qu'une vaine terreur,
+Evanouyssez-vous : l'artifice⁎ & l'adresse
+Vangeront mieux que vous ma gloire & ma foiblesse.
+Prince d'Argos approche & n'apprehende rien,
+Nos mal-heurs sont communs & ton sort est le mien :
+Une ingrate Princesse à ta flâme⁎ infidelle⁎,
+Triomphe d'un mortel, & brave une immortelle,
+Et sa fiere beauté par un mal-heur fatal
+Rend Jupiter perfide, & le fait ton rival.
+
+Mais Prince le moyen que ma beauté l'arreste
+Ce Dieu qui va tousjours de conqueste en conqueste.
+Rien ne sçauroit borner ses glorieux soûpirs,
+Quel objet⁎ peut borner de si vastes desirs ?
+Pour consoler ma gloire & toute ma tendresse,
+Tâchons adroitement de perdre⁎ sa Maistresse⁎ ;
+Sur sa fiere beauté par de secrets moyens
+Je m'apreste à vanger tes feux⁎ comme les miens.
+Jusqu'icy j'ay voulu par une guerre ouverte,
+Par de honteux éclats, entreprendre sa perte ;
+Mais le grand Jupiter est plus puissant que moy.
+Pour la perdre⁎ en secret…d'où te vient cet effroy ?
+Trembles-tu des perils d'une ingrate Princesse ?
+
+J'ay donc tort de venir avec tant d'imprudence,
+Te fier⁎ le secret d'une juste vengeance.
+Gardant pour ma rivale un sentiment si doux,
+Ta foiblesse contre elle augmente mon courroux.
+
+Sous ces belles couleurs couvre ton infamie,
+Pour meriter ma haine ayme mon ennemie.
+
+Tu seras satisfait & c'est-là mon employ.    
+Je sçay l'art de haïr sans remors & sans peine⁎ :
+Si l'amour a ses Dieux je le suis pour la haine.
+Pour faire agir la mienne avec plus de bon-heur,
+Et mettre en seureté mon nom & mon honneur,
+Sous des traits déguisez abusant⁎ ta Princesse…    
+Mais je t'en dirois trop & je crains ta foiblesse :
+Je t'instruiray de tout avant la fin du jour.
+Adieu je vay vanger ma gloire & ton amour.
+
+Ouy je viens de sa part vous tirer d'une erreur,
+Qui vous livre aux desirs d'un infame imposteur.
+Un amant⁎ qui se cache & qui n'oze paroistre
+Se nomme Jupiter & se vante de l'estre ;
+L'Enfer preste à sa flâme⁎ un merveilleux pouvoir,
+Et tout ce qu'en ces lieux ces charmes vous font voir
+N'est qu'une illusion d'images empruntées,
+Et le pompeux amas de beautez enchantées.
+
+Non non n'en croyez pas le fils de Jupiter,
+De cette douce erreur vous devez vous flatter ;
+Mettez dans vostre esprit cette belle chimere ;
+Dites, pour vous tromper que je trompe mon pere :
+Puisque Europe autrefois eust dequoy le charmer,
+Vous estes de son sang, il peut bien vous aymer ;
+Ce n'est pas d'aujourd'huy qu'il ayme des mortelles,
+Et l'on peut vous compter au nombre des plus belles ;
+Tout le Ciel a-t'il rien, qu'on vous peust comparer ?
+Jupiter à Junon vous a deu preferer :
+Elle est Reyne du monde, elle est belle & deesse ;
+Mais enfin elle est femme & vous estes maistresse⁎ :
+Ce beau nom vous suffit & c'est assez pour vous
+De vaincre une Deesse aux yeux de son espoux.
+J'ay pitié d'un orguëil si foible & si credule,
+Et pour destruire enfin une erreur ridicule,
+Qui du grand Jupiter merite le courroux,
+Fantômes decevans évanouyssez-vous.    
+Hé bien m'en croirez-vous ?
+
+Voila de vostre orguëil la vaine illusion.
+
+Princesse en doutez-vous ?
+
+L'en croyez-vous si-tost qu'il se vante de l'estre ?
+Ces yeux à qui l'amour doit le nom de vainqueur
+N'ont garde de douter d'un si charmant honneur ;
+Vous pourriez toutesfois, sçachant ce que vous estes
+Prendre d'autres garands pour de telles conquestes.
+Mais n'en croyez icy Mercure ny l'amour,
+Et dans ces lieux suspects craignez quelque faux jour.
+Que ce Dieu supposé si grand en apparence
+Vous fasse un digne essay de sa toute puissance ;
+Qu'il descende du Ciel avec la foudre en main,
+Avec tout l'appareil du pouvoir souverain,
+Et tel qu'il est enfin quand pour plaire à sa femme,
+Il s'offre tout brillant de lumiere & de flâme.
+C'est comme⁎ cet amant⁎ se doit montrer à vous ;
+
+Va ce fatal essay te coustera la vie ;
+Tu mourras ma rivalle & ma rage assouvie…
+Mais j'apperçoy Momus.
+
+Ah ! Momus connois mieux sous ces traits supposez,
+Celle qui se déguise à tes yeux abusez⁎ ;
+Tu vois icy Junon sous ce nouveau visage.
+
+Toy qui sçays les transports⁎ de cette frenesie,
+Pourquoy m'as tu fait voir en amy peu discret,
+(Par zele ou par chagrin) cet azile secret,
+Que Jupiter expres a fait pour sa maistresse⁎ ?
+
+Et j'ay sçeu profiter d'un secret éventé,
+Faisant évanoüir le jardin enchanté,
+Et trompant Semelé dessous cette apparence ;
+Elle croit mes advis, les suit sans deffiance,
+Et de ces faux conseils ignorant le danger…
+
+Verray-je sans courroux ces amours infidelles⁎,
+Et tout mon bien en proye à des beautez mortelles ?
+
+Quoy le censeur des Dieux excuse un infidelle⁎ ?
+
+En effet je rougis de l'ardeur⁎ qui m'emporte ;
+Va dire à Jupiter que ma fureur est morte :
+Mais cache luy l'estat où tu trouves Junon ;
+Adieu je vais reprendre & mon char & mon nom.
+
+Arreste & ne perds pas le fruit de ta vengeance ;
+Ma rivalle a bravé ma haine & ta confiance,
+Et ma haine a fait son devoir.
+Ce feu qui me servit contre elle,
+Quand tu veux suivre une infidelle⁎,
+S'esteint & ne veut pas servir ton desespoir.
+
+Va mourir, Prince ingrat, indigne de ma grace.
+Toy Reine, vante encor la gloire de ta race :
+Dans ce palais bruslé, voy comme en son cercueil,
+La folle ambition d'une fille trop vaine ;
+Voy la peine⁎ de ton orgueil,
+Et le triomphe de ma haine.
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_momus
+
+C'est donc l'Amour qui fait tous ces beaux changemens.
+J'admire Jupiter sous ces déguisemens,
+Et si-tost qu'il s'agit de faire une conqueste,
+Il fait beau voir un Dieu faire l'homme ou la beste.
+On sçait sous quelle forme on vous vit sur le dos,
+Ravir la belle Europe & traverser les flots.
+Vous en voulez tousjours à celles de sa race :
+Et desja Semelé vient de prendre sa place.
+Dans le sang d'Agenor vous trouvez des appas⁎,
+Que dans un autre sang vos yeux ne trouvent pas.
+On vous voit tous les jours courir de belle en belle,
+Aymez-vous ces beaux noms d'inconstant, d'infidelle⁎ ?
+N'est-il point de beauté qui vous puisse arrester,
+Les Dieux n'ont-ils point honte de coqueter⁎ ?
+
+Peut-estre Jupiter, l'ignorez-vous vous mesme :
+Car enfin Semelé vous couste plus d'un jour,
+Et je ne vous croy pas trop bien avec l'Amour ;
+Vous vous broüillez souvent avec luy ce me semble.
+
+Quelques-fois en un jour on vous voit demander,
+Attaquer, emporter la place, & la ceder.
+
+Pourquoy vous attacher aux beautez d'icy bas ?
+Nos Deesses pour vous sont elles sans appas⁎ ?
+
+Est-il d'autres plaisirs pour le Dieu du tonnerre
+Que celuy quand il veut de foudroyer la terre ?
+Rire des beaux desseins d'un fol ambitieux,
+Et preparer sa cheute en l'élevant aux Cieux ;
+Tout remply de nectar dans une paix profonde,
+D'un branlement de teste ébranler tout le monde ;
+Faire de ses desirs sa raison & ses loix ;
+Se joüer à son gré des peuples & des Roys ;
+Voir les mortels broüillés dans toutes leurs prieres ;
+Leur voir pousser des vœux l'un à l'autre contraires ;
+Confondre⁎ leurs projets & d'une mesme main,
+Aujourd'huy les flatter & les punir demain ;
+Et sur cette conduite inégale, incertaine
+Ouyr les sots discours de la prudence humaine ;
+Voila de Jupiter les doux amusemens.
+
+C'est avec ce beau nom qu'on cache sa foiblesse.
+
+Ouy grace à vos bontez & ma gloire en murmure ;
+Vostre ordre malgré moy m'employant en ce jour,
+Fait d'un censeur des Dieux un confident d'amour.
+
+      Je vous laisse ;
+Un tiers est incommode aupres d'une maistresse⁎.
+
+J'obeiray fort mal s'il faut estre discret.
+
+      Ah ! Mercure est-ce toy ?
+Viens-tu pour mon honneur reprendre ton employ ?
+Tu sçais quelles raisons m'ont fait prendre ta place ;
+Mais j'ayme mon mestier, & le tien m'embarrasse.
+Il faut pour ce commerce⁎ un confident discret,
+Et je suis fort mal propre à garder un secret.
+De l'employ de censeur, je ne puis me defaire :
+Mon metier vaut celuy de Jupiter ton pere :
+Qu'il dispose de tout, qu'il regne dans les Cieux,
+Qu'il gouverne à son gré les hommes & les Dieux,
+Il a droit de tout faire, & j'ay droit de tout dire ;    
+Il est armé de foudre, & moy de la satire :
+L'empire d'un censeur va plus loin que le sien ;
+Il épargne les Dieux, & je n'épargne rien :
+Quand je puis censurer selon ma fantaisie,
+C'est un plaisir qui vaut toute nostre ambrosie⁎.
+Toy qui fais vanité de plaire & de flatter ;
+Toy qui trahis Junon pour servir Jupiter…
+Mais tu resves, d'où vient un si morne silence
+A l'orateur des Dieux ; au Dieu de l'éloquence ?
+
+Je viens de vous laisser dans un autre équipage⁎,
+La maistresse des Dieux se déguiser ainsi ?
+Je blâmois Jupiter & je vous blâme aussi.    
+C'est sans doute un effet de vostre jalousie.
+
+Je ne puis rien cacher, c'est mon foible, Déesse.
+D'ailleurs si de ce Dieu j'évante le secret,
+C'est un juste despit qui me rend indiscret⁎ ;
+Quand pour servir sa flâme⁎ je m'erige en Mercure,
+Je trahis son amour pour vanger mon injure,
+
+Quoy tousjours dans l'esprit le soin⁎ de vous vanger ?
+
+Et ne sçavez-vous pas Déesse qu'un grand Dieu
+Ne sçauroit s'empescher d'aymer en plus d'un lieu ?
+Qu'ayant un riche fonds de tendresse & de flâme⁎,
+Il en peut dérober quelque part à sa femme.
+Voulez-vous tout pour vous, tout son temps, tout ses soins ?
+Pour estre un peu galand vous en ayme-t'il moins ?
+Croyez-moy, laissez-luy ces ardeur⁎ passageres,    
+Cette courte inconstance, & ces flâmes⁎ legeres :
+Les beautez de la terre avec tous leurs appas⁎
+Amusent Jupiter, & ne l'arrestent pas.
+
+Je me lasse d'ouïr cette vieille querelle,
+Ce courroux importun qui trouble tous les Cieux,
+Et dont vous fatiguez les hommes & les Dieux.
+
+Je vous seray fidelle, & je sçauray me taire,
+Elle a beau déguiser sa haine & sa colere ;
+Elle m'en a trop dit pour cacher son courroux.
+Allons de sa vengeance advertir son époux :    
+Sy j'offence Junon, que ne se souvient-elle
+Que j'ay pour le secret une haine mortelle ?
+
+Non, non, vous le verrez.
+
+Pour vous du haut des Cieux il s'appreste à descendre :
+Mais un Dieu tel qu'il est peut bien se faire attendre.
+Quoy qu'il donne à l'amour ses momens les plus doux,
+Les soins de Jupiter ne sont pas tous pour vous.
+Vous le voulez donc voir avec toute sa pompe ;
+Vous vous abandonnez à l'orgueil qui vous trompe,
+Et sans considerer le peril qui le suit,
+Vous suivez follement l'amour, qui vous conduit.
+Vous aimez mieux le voir d'une ardeur⁎ indiscrette⁎
+Avec la foudre en main, qu'avec une houlette⁎ :
+Cet ornement sied mal au grand Maistre des Dieux ;
+Les feux & les esclairs le pareront bien mieux.
+Ah ! que vous estes femme, & que pour estre aimée :
+Du souverain des Dieux dont vous estes charmée,
+Vous avez dans la teste un orgueil dangereux !
+Voir sans bruit en secret Jupiter amoureux,
+C'est trop peu pour l'honneur d'une amante⁎ orgueilleuse ;
+Sa flame⁎ est une flame⁎ illustre, ambitieuse ;
+Alors qu'un Dieu nous aime on peut estre indiscret⁎,
+Et l'orgueil d'un tel choix ne veut pas le secret.
+En effet ce seroit perdre toute sa gloire,
+De vaincre un si grand Dieu, sans vanter sa victoire,
+Estre aimé selon vous n'est pas le plus grand bien :
+Un triomphe ignoré vous le comptez pour rien.
+Il faut s'accommoder à l'esprit d'une femme ;
+Vous demandez du bruit, vous en aurez, Madame ;
+Jupiter quand il veut en sçait faire beaucoup ;
+Il tonnera pour vous, mais gardez-vous du coup.
+
+C'est à dire forcer sa grandeur pour vous plaire,
+Et n'apporter chez vous qu'une foudre legere,
+Où son amour meslant ce qu'il a de plus doux,
+Y laissera bien moins de force & de courroux.
+Vous voulez de la pompe, & la voulez commode,
+Et qu'à vostre foiblesse un grand Dieu s'accommode.
+Vous beautez d'icy bas vous croyez follement
+Qu'on doit tout immoler quand on est vostre amant⁎,
+Et qu'on peut d'un Dieu mesme exiger sans scrupule,
+L'effet le plus bizarre & le plus ridicule.
+Jupiter a pour vous le cœur fort radoucy ;
+Mais ce n'est pas un Dieu qui se gouverne ainsi.
+Vous le verrez ce Dieu, tel qu'un Dieu doit paroistre,
+Et tel qu'il l'a juré pour se faire connoistre.
+
+Dans vostre appartement vous le pouvez attendre.
+Ce tumulte m'apprend qu'il s'appreste à descendre.
+
+Quoy pour une mortelle apporter icy bas
+Cette affreuse⁎ beauté, ces dangereux appas⁎ !
+
+Ouy, mais quand vous venez contenter son envie,
+Songez-vous bien au moins au peril de sa vie ?
+
+En effet un grand Dieu ne doit pas se dédire⁎ :
+Il fait de sa parole une eternelle loy,
+Perisse tout plustost que manquer à sa foy⁎.
+Depuis quand avez-vous ce scrupule dans l'ame ?
+Cette fidelité qui trahit vostre flame⁎,
+N'est-ce point un pretexte à quelque changement ?
+Vous vantez un peu trop le pouvoir d'un serment ;
+Je crois qu'à Semelé vous n'estes si fidelle,
+Que par le seul espoir de vous deffaire d'elle.
+
+Je garderay vostre aigle, & vous ferez l'amour⁎.
+
+Fiez⁎-vous à ce Dieu, qui malgré sa tendresse,
+Au respect d'un serment immole sa maistresse⁎.
+Vantez vostre pouvoir, vous allez voir enfin,
+Orgueilleuse beauté quel est vostre destin.
+Durant que Jupiter demeure sur la terre,
+Au gré de mon chagrin gouvernons son tonnerre,
+Apprenons aux mortels à nous mieux respecter,
+Et monstrons à la terre un autre Jupiter.
+Mais quoy je voy desja des flames allumées,
+Des gens espouventez, des femmes allarmées ;
+Le palais est en feu, Jupiter dans les airs
+S'enfuit enveloppé de flammes & d'éclairs.
+Quelqu'un vient, en ces lieux je ne doy plus paroistre.
+Aigle remonte au Ciel, & vole apres ton maistre.
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_apollon
+
+Je sçay de toutes trois le merite & l'employ :
+Je suis le Dieu des vers comme de la lumiere,
+Et puis que l'on s'adresse à moy,
+Pour sçavoir qui des trois doit estre la premiere,
+J'useray du pouvoir que vous m'avez donné.
+Je ne veux écouter ny faveur ny caprice,
+Et vous verrez par ma justice
+Le seul merite couronné.
+ 
+Melpomene, ces chants si charmans & si doux
+Semblent à vostre sœur promettre la victoire.
+
+Deesse, l'une & l'autre ont charmé mes oreilles.
+
+Que puis-je prononcer, alors qu'également⁎
+Je me trouve surpris entre tant de merveilles ?
+Le prix est incertain pour des beautez pareilles,
+Et cette égalité suspend mon jugement.
+Aussi ne voulant pas qu'une ait tout l'avantage,
+Par un art qui vous mesle & ne vous détruit pas,
+Le theatre aujourd'huy va produire un ouvrage ;
+Qui doit unir tous vos appas⁎,
+Et sans juger sur qui doit tomber la victoire,
+Par un meslange heureux confonde⁎ vostre gloire.
+Vivez sans jalousie & n'ayez d'autre soin⁎
+Que de plaire à Loüis & d'avoir son suffrage :
+Travaillez à l'envy⁎ pour ce grand avantage ;
+Qu'il soit de vos travaux le juge & le témoin.
+Sur ses soins genereux tout vostre espoir se fonde ;
+Par luy vos differents cesseront desormais,
+Et pour comble de ses bien-faits,
+Son equitable arrest vous va donner la paix,
+Qu'il a donnée à tout le monde.
+
+Suspendez vostre espoir ; attendez son oracle.
+Cependant⁎ faisons place à ce rare spectacle,
+Venez en avec moy contempler la beauté,
+Et prendre vostre part de cette nouveauté.
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melpomene
+ 
 Superbes⁎ demy-Dieux dont les noms esclatans
 Triomphent de l'oubly, de la mort & du temps,
 Vous que je fais revivre avecque tant de gloire,
@@ -43,38 +756,15 @@ Dans tout ce que ma main entreprendra pour luy ?
 De ce fond infiny de gloire & de merveilles…
 Mais quel bruit importun a frappé mes oreilles.
 
--*who_melpomene
 C'est une de mes sœurs qui pour quelque succez
 Dans un siecle enjoüé se flatte avec excez.
 Elle vient m'insulter avec cét avantage.
 
-**** *book_ *id_A02 *act_A *date_1666 *creator_boyer 
-
--*who_thalie
-Hé bien tousjours ma sœur sur quelque grand ouvrage,
-J'ai tort d'ozer ainsi troubler vostre repos :
-Je voy bien qu'au milieu de ces fameux Heros
-Vostre esprit se remplit de sentimens tragiques ;
-Vous n'aimez que les vers enflez⁎ & magnifiques.
-
--*who_melpomene
 La pompe vous déplaist & vous fait mal aux yeux :
 Vous descriez par tout le langage des Dieux.
 C'est sçavoir se connoistre, & c'est par cette adresse
 Qu'estant foible on se fait honneur de sa foiblesse.
 
--*who_thalie
-Selon vous tout est foible, à moins d'estre en fureur⁎.
-Guerissez vostre esprit d'une si longue erreur :
-Je viens vous détromper & non pas vous combattre :
-Ne me disputez plus la gloire du Théatre ;
-Vostre Regne est passé, le mien vient à son tour ;
-Vous estes du vieux temps & de la vieille Cour ;
-Tout le monde ayme à rire, & j'en scay la methode :
-Vos tristes entretiens ne sont plus à la mode ;
-Loüis m'ayme en un mot, j'ai pour luy des appas⁎.
-
--*who_melpomene
 Il vous ayme il est vray, mais il ne me hait pas,
 Et pour dire tout haut ce que j'en oze croire,
 Loüis me doit aymer puisqu'il ayme la gloire.
@@ -98,24 +788,7 @@ L'art de porter un Sceptre & de le maintenir ?
 L'art de recompenser & celuy de punir ?
 Ce que vous enseignez n'est que pour le vulgaire⁎ ;
 Ainsi contentez vous de la gloire de plaire.
-
--*who_thalie
-Et n'est-ce pas assez de pouvoir quelque fois
-Divertir le plus sage & le plus grand des Roys ?
-Aprés que tous les jours sa sagesse profonde
-A sçeu dans son Conseil regler le sort du monde,
-Est-ce peu que l'honneur de délasser un Roy
-De ses soins⁎ assidus, de ce penible employ,
-Pour le mettre en estat de reprandre avec joye
-Cette noble fatigue où son zele l'employe ?
-Mais c'est trop peu pour vous, vostre orguëil aujourd'huy
-Fait de vostre Théatre une escolle pour luy ;
-Pour luy qui pour regner n'a besoin de personne,
-Et qui soustient luy seul le poids de sa Couronne.
-Vantez vous de l'instruire, il en sçait plus que vous :
-Ma gloire est de luy plaire & c'est assez pour nous.
-
--*who_melpomene 
+ 
 Ne puis-je pas ma sœur, ne m'est il pas facile
 De joindre quand je veux l'agreable à l'utile ?
 Est il rien de si beau qu'un transport⁎ glorieux
@@ -134,7 +807,112 @@ Le ris, l'emportement, n'ont qu'un charme trompeur,
 Les sensibles⁎ plaisirs sont dans le fond du cœur,    
 Et ce sont là ma sœur les plaisirs que je donne.
 
--*who_thalie
+Ce sont là des secrets dont je fais peu de cas,
+Mais au moins mesnagez cette source d'appas⁎,
+Ce tresor de venin, ce fonds de médisance,
+Ne le prodiguez pas avec tant de licence⁎.
+Comme le ridicule est court & limité,
+On craint pour vos sujets quelque sterilité.
+
+Non ; mais adressons nous à celle de nos sœurs,
+Qui connoist comme nous les graces de la scene ;
+Qu'elle regle entre nous une palme incertaine.
+Elle vient ; je l'entens ; ces sons melodieux
+Font parler hautement les echos de ces lieux.
+
+Aprochons.
+
+Je voy que vous songez ma sœur à la corrompre.
+
+On vous flate ma sœur, mais vous estes fidelle.
+Vous venez à propos finir nostre querelle :
+Vous sçavez le Theatre, & c'est là vostre employ ;
+Sa vanité pretend de l'emporter sur moy,
+Et croit que sur la scene, elle a tout l'avantage.
+
+Hé quoy ma sœur de Juge on vous voit ma partie⁎,
+De vos pretentions j'estois mal advertie.
+Vous disputez le prix ? vous dont la foible voix
+Ne sçait representer que les plaisirs des bois,
+Les amours des Bergers, & cette vie obscure
+Qui ne sçauroit fournir une illustre avanture ?
+Vous pretendre à mon rang avec tant de fierté ?
+Vostre exemple ma sœur a fait sa vanité,
+Et vous voyant pretendre un pareil avantage,
+Vostre presomption vient d'enfler⁎ son courage.
+
+Ma gloire entre ses mains ne court pas grand danger.
+Divin dispensateur de la plus belle gloire
+Venez par vostre arrest asseurer ma victoire,
+Venez donner le prix à qui l'a merité.
+Il vient & nous fait voir toute sa majesté.
+
+Arbitre souverain des filles du Parnasse,
+Le croirez-vous ! on veut me contester ma place :
+Mes sœurs fieres d'avoir l'honneur d'un mesme sang,
+Me veulent disputer celuy du premier rang,
+Et mettant devant vous leur adresse en usage,
+Par de nouveaux efforts briguer vostre suffrage.
+
+Non, non vous n'avez rien à craindre pour ma gloire,
+Grand Dieu, vous estes juste & c'est assez pour nous.
+Foibles esprits, ames vulgaires,
+Qui des biens les plus ordinaires
+Faites vos solides⁎ plaisirs,
+Ce n'est pas vous que je veux croire :
+De plus dignes objets⁎ occupent mes desirs,
+Et si je pousse des soûpirs,
+C'est pour le throsne ou pour la gloire.
+
+C'est trop c'est trop languir dans cette inquietude.
+
+Tout ce qui va paroistre aux yeux de ce grand Roy,
+Le resoudra bien-tost à prononcer pour moy.
+
+Allez & flattez⁎-vous d'un bien imaginaire,
+Ma presence en ces lieux est encore necessaire.
+
+Vous spectacles pompeux venez parler pour moy.
+Venez justifier l'honneur de mon employ.
+Venez me seconder, vous sçavantes fureurs ;
+Vous, qui communiquez ces divines chaleurs,    
+Ces glorieux transports⁎ ; dont le pouvoir supréme,
+Peut élever l'esprit au delà de luy-méme.
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_thalie
+
+Hé bien tousjours ma sœur sur quelque grand ouvrage,
+J'ai tort d'ozer ainsi troubler vostre repos :
+Je voy bien qu'au milieu de ces fameux Heros
+Vostre esprit se remplit de sentimens tragiques ;
+Vous n'aimez que les vers enflez⁎ & magnifiques.
+
+Selon vous tout est foible, à moins d'estre en fureur⁎.
+Guerissez vostre esprit d'une si longue erreur :
+Je viens vous détromper & non pas vous combattre :
+Ne me disputez plus la gloire du Théatre ;
+Vostre Regne est passé, le mien vient à son tour ;
+Vous estes du vieux temps & de la vieille Cour ;
+Tout le monde ayme à rire, & j'en scay la methode :
+Vos tristes entretiens ne sont plus à la mode ;
+Loüis m'ayme en un mot, j'ai pour luy des appas⁎.
+
+Et n'est-ce pas assez de pouvoir quelque fois
+Divertir le plus sage & le plus grand des Roys ?
+Aprés que tous les jours sa sagesse profonde
+A sçeu dans son Conseil regler le sort du monde,
+Est-ce peu que l'honneur de délasser un Roy
+De ses soins⁎ assidus, de ce penible employ,
+Pour le mettre en estat de reprandre avec joye
+Cette noble fatigue où son zele l'employe ?
+Mais c'est trop peu pour vous, vostre orguëil aujourd'huy
+Fait de vostre Théatre une escolle pour luy ;
+Pour luy qui pour regner n'a besoin de personne,
+Et qui soustient luy seul le poids de sa Couronne.
+Vantez vous de l'instruire, il en sçait plus que vous :
+Ma gloire est de luy plaire & c'est assez pour nous.
+
 Vos charmes sont puissans, mais on vous abandonne,
 On ne veut plus de vous, tout le monde est pour moy.
 Et pour vous en parler icy de bonne foy,
@@ -149,15 +927,6 @@ Surtout en desguisant sa malice & ses coups
 Sous une delicate & fine raillerie.
 Pour mordre impunément il suffit qu'on en rie.
 
--*who_melpomene
-Ce sont là des secrets dont je fais peu de cas,
-Mais au moins mesnagez cette source d'appas⁎,
-Ce tresor de venin, ce fonds de médisance,
-Ne le prodiguez pas avec tant de licence⁎.
-Comme le ridicule est court & limité,
-On craint pour vos sujets quelque sterilité.
-
--*who_thalie
 Que vous connoissez mal le fons de ma satyre !
 Je prens de tous costez la matiere de rire ;
 L'univers m'en fournit de l'un à l'autre bout,
@@ -166,36 +935,35 @@ Ne vous flattez⁎ donc point d'une vaine esperance,
 Et quand d'un monde entier j'obtiens la preference.
 En voulez vous juger ? vos yeux sont ils meilleurs…
 
--*who_melpomene
-Non ; mais adressons nous à celle de nos sœurs,
-Qui connoist comme nous les graces de la scene ;
-Qu'elle regle entre nous une palme incertaine.
-Elle vient ; je l'entens ; ces sons melodieux
-Font parler hautement les echos de ces lieux.
-
-**** *book_ *id_A03 *act_A *date_1666 *creator_boyer
-
--*who_melpomene
-Aprochons.
-
--*who_thalie
       Ah ma sœur gardez de l'interrompre.
 
--*who_melpomene
-Je voy que vous songez ma sœur à la corrompre.
-
--*who_thalie
 Que vous m'avez charmée avec un air si doux !
 Nostre grand Apollon n'en sçayt pas plus que vous.
 
--*who_melpomene
-On vous flate ma sœur, mais vous estes fidelle.
-Vous venez à propos finir nostre querelle :
-Vous sçavez le Theatre, & c'est là vostre employ ;
-Sa vanité pretend de l'emporter sur moy,
-Et croit que sur la scene, elle a tout l'avantage.
+En vain à mon orguëil vous imputez le sien ;
+Vous confondez⁎ nos droits pour détruire le mien :
+Mais pour mieux distinguer son merite & le nostre,
+Deffions nous, ma sœur, doutons l'une de l'autre,
+Cherchons un autre Juge, allons luy faire voir    
+Par quelque grand essay quel est nostre sçavoir :
+Consultons Apollon, & qu'un Dieu si fidelle
+Decide entre nous trois cette grande querelle.
 
--*who_euterpe
+C'est sur ce digne espoir grand Dieu que je commence,
+Et je prends pour ma gloire une entiere asseurance.
+Sur le lut ou sur la musette⁎,
+Pour le sceptre ou la houlette⁎,
+Chantez, mes sœurs, chantez de toutes les façons :
+Pour moy je n'aime qu'à médire,
+Et la gloire de faire rire
+Vaut bien celle de vos chansons.
+
+Prononcez vostre arrest, grand Dieu qu'attendez-vous ?
+Est-il si mal aisé de juger entre nous ?
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_euterpe
+
 Quoy mes sœurs vostre honneur depend de mon suffrage !
 Donc le prix n'est icy disputé qu'entre vous :
 J'admire entre vous deux ce mouvement jaloux,    
@@ -280,87 +1048,8 @@ Nostre grand Apolon a porté la houlette⁎,
 Et ma voix pour les Roys n'est pas à negliger,
 Si les Dieux ont paru sous l'habit de Berger.
 
--*who_melpomene
-Hé quoy ma sœur de Juge on vous voit ma partie⁎,
-De vos pretentions j'estois mal advertie.
-Vous disputez le prix ? vous dont la foible voix
-Ne sçait representer que les plaisirs des bois,
-Les amours des Bergers, & cette vie obscure
-Qui ne sçauroit fournir une illustre avanture ?
-Vous pretendre à mon rang avec tant de fierté ?
-Vostre exemple ma sœur a fait sa vanité,
-Et vous voyant pretendre un pareil avantage,
-Vostre presomption vient d'enfler⁎ son courage.
-
--*who_thalie
-En vain à mon orguëil vous imputez le sien ;
-Vous confondez⁎ nos droits pour détruire le mien :
-Mais pour mieux distinguer son merite & le nostre,
-Deffions nous, ma sœur, doutons l'une de l'autre,
-Cherchons un autre Juge, allons luy faire voir    
-Par quelque grand essay quel est nostre sçavoir :
-Consultons Apollon, & qu'un Dieu si fidelle
-Decide entre nous trois cette grande querelle.
-
--*who_euterpe
 C'est le Dieu du Theatre il peut seul nous juger.
 
--*who_melpomene
-Ma gloire entre ses mains ne court pas grand danger.
-Divin dispensateur de la plus belle gloire
-Venez par vostre arrest asseurer ma victoire,
-Venez donner le prix à qui l'a merité.
-Il vient & nous fait voir toute sa majesté.
-
-**** *book_ *id_A04 *act_A *date_1666 *creator_boyer 
-
--*who_melpomene
-Arbitre souverain des filles du Parnasse,
-Le croirez-vous ! on veut me contester ma place :
-Mes sœurs fieres d'avoir l'honneur d'un mesme sang,
-Me veulent disputer celuy du premier rang,
-Et mettant devant vous leur adresse en usage,
-Par de nouveaux efforts briguer vostre suffrage.
-
--*who_apollon
-Je sçay de toutes trois le merite & l'employ :
-Je suis le Dieu des vers comme de la lumiere,
-Et puis que l'on s'adresse à moy,
-Pour sçavoir qui des trois doit estre la premiere,
-J'useray du pouvoir que vous m'avez donné.
-Je ne veux écouter ny faveur ny caprice,
-Et vous verrez par ma justice
-Le seul merite couronné.
-
--*who_thalie
-C'est sur ce digne espoir grand Dieu que je commence,
-Et je prends pour ma gloire une entiere asseurance.
-Sur le lut ou sur la musette⁎,
-Pour le sceptre ou la houlette⁎,
-Chantez, mes sœurs, chantez de toutes les façons :
-Pour moy je n'aime qu'à médire,
-Et la gloire de faire rire
-Vaut bien celle de vos chansons.
-
--*who_apollon 
-Melpomene, ces chants si charmans & si doux
-Semblent à vostre sœur promettre la victoire.
-
--*who_melpomene
-Non, non vous n'avez rien à craindre pour ma gloire,
-Grand Dieu, vous estes juste & c'est assez pour nous.
-Foibles esprits, ames vulgaires,
-Qui des biens les plus ordinaires
-Faites vos solides⁎ plaisirs,
-Ce n'est pas vous que je veux croire :
-De plus dignes objets⁎ occupent mes desirs,
-Et si je pousse des soûpirs,
-C'est pour le throsne ou pour la gloire.
-
--*who_apollon
-Deesse, l'une & l'autre ont charmé mes oreilles.
-
--*who_euterpe
 Attendez de ma voix de plus grandes merveilles.
 Venez pasteurs, venez, & des chants les plus beaux,
 Des plaintes de l'Echo, du bruit de vos ruisseaux,
@@ -369,94 +1058,308 @@ Faites voir à mes sœurs par des charmes si doux,
 Que tout ce qu'elles ont d'aimable⁎,
 Ne l'est pas tant que nous.
 
--*who_thalie
-Prononcez vostre arrest, grand Dieu qu'attendez-vous ?
-Est-il si mal aisé de juger entre nous ?
-
--*who_melpomene
-C'est trop c'est trop languir dans cette inquietude.
-
--*who_euterpe
 Tirez-nous promptement de cette incertitude.
 
--*who_apollon
-Que puis-je prononcer, alors qu'également⁎
-Je me trouve surpris entre tant de merveilles ?
-Le prix est incertain pour des beautez pareilles,
-Et cette égalité suspend mon jugement.
-Aussi ne voulant pas qu'une ait tout l'avantage,
-Par un art qui vous mesle & ne vous détruit pas,
-Le theatre aujourd'huy va produire un ouvrage ;
-Qui doit unir tous vos appas⁎,
-Et sans juger sur qui doit tomber la victoire,
-Par un meslange heureux confonde⁎ vostre gloire.
-Vivez sans jalousie & n'ayez d'autre soin⁎
-Que de plaire à Loüis & d'avoir son suffrage :
-Travaillez à l'envy⁎ pour ce grand avantage ;
-Qu'il soit de vos travaux le juge & le témoin.
-Sur ses soins genereux tout vostre espoir se fonde ;
-Par luy vos differents cesseront desormais,
-Et pour comble de ses bien-faits,
-Son equitable arrest vous va donner la paix,
-Qu'il a donnée à tout le monde.
 
--*who_melpomene
-Tout ce qui va paroistre aux yeux de ce grand Roy,
-Le resoudra bien-tost à prononcer pour moy.
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cadmus
 
--*who_apollon
-Suspendez vostre espoir ; attendez son oracle.
-Cependant⁎ faisons place à ce rare spectacle,
-Venez en avec moy contempler la beauté,
-Et prendre vostre part de cette nouveauté.
+Ah ! Prince ce soupçon marque trop de foiblesse.
 
--*who_melpomene
-Allez & flattez⁎-vous d'un bien imaginaire,
-Ma presence en ces lieux est encore necessaire.
+Quoy vous pourriez avoir un rival dans ma Cour ?
+Ma fille veut sans doute esprouver vostre amour,
+Ou plustost l'augmenter par ces fausses allarmes.
 
--*who_melpomene
-Vous spectacles pompeux venez parler pour moy.
-Venez justifier l'honneur de mon employ.
-Venez me seconder, vous sçavantes fureurs ;
-Vous, qui communiquez ces divines chaleurs,    
-Ces glorieux transports⁎ ; dont le pouvoir supréme,
-Peut élever l'esprit au delà de luy-méme.
+La fiere Semelé ne fera point de choix
+Qui puisse estre au dessous des Princes & des Roys.
 
-**** *book_ *id_I01 *act_I *date_1666 *creator_boyer
+Il faut donc que ma cour à mes yeux abusez⁎
+Cache sous des sujets des Heros déguisez.
+Mais en fut-il quelqu'un caché dans cet Empire,
+Voudroit-il traverser⁎ l'hymen⁎ que je desire ?    
+On sçait, pour faire à Thebes un solide⁎ repos,
+Que voulant allier ce Trône avec Argos,
+Il faut qu'avecque vous, par un Hymen⁎ fidelle,
+Semelé nous assure une paix immortelle :
+Un si grand interest ne peut estre ignoré.
 
--*who_heure
-Voicy la brillante Deesse,
-Qui vient nous annoncer la naissance du jour.
-Princesse un jeune cœur tout enflammé d'amour,
-Peut-il avoir tant de paresse ?
-Le grand maistre des Dieux presse vostre réveil ;
-Il languit en secret d'un amoureux martyre⁎ :
-Le repos vous sied mal quand Jupiter soûpire⁎,
-Et l'amour est un Dieu plus doux que le sommeil.
+Je sçay bien que ma fille au moins en apparence,
+Dans ses premiers desirs marque quelque inconstance ;
+Mais parmy les amans⁎ cette ombre de froideur
+Peut changer le dehors sans aller jusqu'au cœur.
 
--*who_aurore
-Belles Heures allez éveiller la Princesse ;
-La douceur de vos chants peut moins que sa paresse.
-Monstrez-luy promptement ce spectacle nouveau.    
-Allez sans tarder davantage,
-Et que l'ombre de ce rideau
-Ne luy dérobe plus ma voix & mon visage.
+Madame vous devez connoistre vostre fille ;
+Elle tient plus à vous que toute ma famille.
+Plus belle que ses sœurs elle a le premier rang,
+Et vous fait negliger le reste de mon sang.
+Par cette aveugle ardeur⁎ qui possede les meres,
+N'avez-vous point remply sa teste de chimeres ?
+Vous fille de Venus, ne la flattez⁎-vous pas
+De l'espoir de gagner un Dieu par tant d'appas⁎,
+Et qu'un Heros mortel n'est pas assez pour elle ?
+Vous me vantez souvent vostre race immortelle,
+Et Semelé sans doute, au point où je la voy,
+Prent pour luy tout l'orguëil, que vous avez pour moy.
 
--*who_semele
+Je veux bien à vous seule abandonner ce soin ;
+Je sçauray faire agir mon pouvoir au besoin⁎.
+Mais quel est cét amant⁎ dont on fait un mystere⁎ ?
+ 
+Madame il faudra donc employer mon pouvoir.
+
+Prince defaites-vous de ce respect frivolle ;
+La Princesse est à vous, je tiendray ma parolle.
+Vous, voyez vostre fille, & faites-luy sçavoir,
+Qu'elle doit s'expliquer ou craindre mon pouvoir.
+
+      Hé bien se rendra-t'elle,
+Cette ame ambitieuse à mes loix si rebelle !
+Croit-elle que le nom de souverain des Dieux,
+Que ce nom éclatant ait esblouy mes yeux ?
+Je n'examine point si c'est histoire ou fable,
+Et si son Jupiter est feint ou veritable.
+Quoy qu'il en soit, il peut uzer de son pouvoir ;
+Mais non pas m'empescher de faire mon devoir.
+Venez, Seigneur, suivez, & vous aussi Princesse ;
+Allons dedans ce Temple accomplir ma promesse.
+
+Esprits ambitieux que vous connoissez mal,
+Le peril d'un amour qui vous sera fatal !    
+Et ne sçavez-vous pas que les Dieux infidelles⁎,
+Au gré de leurs desirs, se joüent des mortelles,
+Et que l'illusion d'un orgueil abusé⁎,
+D'un mortel quelquesfois fait un Dieu supposé ?
+Allons sans plus tarder au temple d'Hymenée,
+De ce Prince à la vostre unir la destinée.
+
+Que vois-je, justes Dieux, quel est ce grand courroux ?
+Et le temple, & le Dieu, tout s'enfuit devant nous.
+Et je vois à leur place un horrible spectacle.
+Dieux que m'annoncez-vous par cet affreux⁎ miracle !
+
+Je crains peu ces horreurs, & je suis sans foiblesse.
+Jupiter à son gré, ce fameux ravisseur,
+Peut enlever ma fille aussi-bien que ma sœur ;
+Mais que d'un Dieu tyran la fureur obstinée,
+S'oppose incessamment à ce juste hymenée⁎,
+Je tiendray ma parole, & j'iray jusqu'au bout.
+
+      Fuyons, allons en d'autres lieux,
+Achever cet hymen⁎, & chercher d'autres Dieux.
+
+Non non, & tous les Dieux ne sont pas contre nous ;
+C'est de son imposteur le dernier artifice⁎ ;
+De ces illusions l'enfer est le complice.
+Qu'il arme encor s'il peut le Ciel contre mon choix :    
+La parole & l'honneur sont les Dieux des grands Roys.
+Mais il nous reste encore nostre grande Déesse.
+C'est à toy seule enfin Pallas, que je m'adresse,
+Pour unir ces amans⁎ preste nous tes Autels,
+Et redouble l'ardeur⁎ de tes soins immortels.     
+Nous sommes exaucez, malgré ces noirs presages,
+Madame je la vois au travers ces nuages ;
+La Déesse descend, & sa divinité
+Fait plus qu'à l'ordinaire éclatter sa fierté.
+
+Déesse, j'obeis, toute ma resistance
+Ne sçauroit plus tenir contre vostre presence :
+Vous pouvez tout sur nous, & vostre seule voix
+Fait rompre sans remors la parolle des Roys.
+
+Vous voyez nos malheurs, & voilà vostre ouvrage :
+Voila comme⁎ les Dieux sçavent faire l'amour⁎.
+Vous me l'aviez bien dit que je verrois un jour,
+Par la faveur d'un Dieu ma grandeur sans seconde,
+Et que Thebes seroit la maistresse du monde.
+C'est-là le digne sort que j'avois attendu.
+La honte de mon sang, tout mon espoir perdu,
+Mon throsne & mon palais embrazez par la foudre,
+Ma fille aneantie, & son corps mis en poudre,
+Et les justes horreurs qu'attireront sur nous
+Ces effets esclattans du celeste courroux.
+
+Je vous pardonnerois cette horrible disgrace,
+Si tout ce que j'en crains se bornoit à ma race ;
+Mais le Prince accablé de ce dernier malheur
+Abandonne son ame à toute sa douleur.
+J'ay veu son desespoir, & sa funeste envie :
+C'est par mon ordre en vain, qu'on prend soin de sa vie ;
+L'ingratte, à qui le Ciel vient de ravir le jour,
+Trop digne de sa peine⁎, & non de tant d'amour,
+Entraisne par sa mort un amant⁎ trop fidelle ;
+Il vivoit pour ma fille, il va mourir pour elle.
+Helas ! le Roy d'Argos, ce pere infortuné,
+Envoya dans ma cour un amant⁎ couronné,
+Un heros plein d'honneur, de gloire & d'esperance,
+Et je luy rends…ô Dieux ! c'est Atys qui s'avance,
+Et je voy dans ses pleurs le mal-heur que je crains.
+
+Hé bien le Prince est mort.
+
+Voila le dernier coup d'un malheur sans égal.
+
+Dieux quelle surprenante & nouvelle tempeste,
+Agite tous les airs & descend sur ma teste ?
+Quel épais tourbillon se leve autour de nous ?
+C'est le grand Jupiter ; est-ce grace ou courroux ?
+Il semble que le Ciel est tombé sur la terre.    
+Peuples rendez hommage au maistre du tonnerre.
+Ne craignez plus ce Dieu, dont l'éclat dangereux
+Vient d'embrazer un objet⁎ plein de charmes,
+Jupiter n'aura plus de clartez ny de feux,
+Que pour tarir la source de vos larmes.
+ 
+Pardonnez-moy grand Dieu cette aveugle douleur,
+Qui du plus grand des biens se faisoit un malheur.
+J'adore cette main puissante & favorable,
+Qui rend les maux heureux, & la honte honorable.
+
+Quels encens, quels presens offerts sur tes autels,
+Payeront dignement ces honneurs immortels ?
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_hermione
+ 
+Je n'ay rien fait, Seigneur, qui vous oblige à croire,
+Que le sang de Venus, dont je tire ma gloire,
+Me fasse negliger mon Espoux & mon Roy :
+Je sçay ce que je suis, & ce que je vous doy.
+Cet imprudent orgüeil qui n'est qu'extravagance,
+Vient aux simples mortels d'une simple naissance :
+Mais cet orgueil qui suit ceux qui sortent des Dieux,
+Est un orgüeil illustre, innocent, glorieux.
+C'est celuy que j'ay mis dans l'esprit de ma fille,
+Et si je la prefere à toute ma famille,    
+Je ne puis le nier, dés qu'elle vit le jour,
+Elle eut mes premiers soins & mon premier amour ;
+Mais tout ce grand amour & cette preference
+N'ont rien mis dans son cœur plus haut que sa naissance.
+Elle a choisi ce Prince & j'ay loüé son choix ;
+Et si le sang des Dieux avec celuy des Rois,
+Est entre vous & moy joint par nostre hymenée⁎,
+Ce grand exemple instruit une fille bien née.
+Quoy qu'il semble aujourd'huy, que pour ce digne amant⁎,
+Semelé se dispose à quelque changement,
+Je luy rendray bien-tost sa première tendresse :
+Mais il faut mesnager son ame avec adresse ;
+N'y meslez pas, Seigneur, l'aigreur & le courroux ;
+Il faut pour la gagner des traittemens plus doux ;
+Elle doit obeir, mais d'une obeissance,
+Qui n'ait rien de l'indigne & basse dépendance.
+
+Pour de pareils secrets choisit-on une mere ?
+
+Je sçauray l'obliger à faire son devoir.
+
+Tu vois l'ordre du Roy, Dircé par ton adresse
+Descouvre⁎ promptement l'amant⁎ de ta Maitresse⁎ :
+Ou plustost ouvre moy cet important secret ;
+Ma fille l'aura mis dans un sein si discret ;
+Il n'en faut pas douter.
+
+S'il est ainsi, pourquoy s'obstiner à se taire ?
+Puis-je pas, s'il le faut, cacher ce grand mystere⁎ ?
+Ah ! que je crains de l'air, dont je te vois agir,
+Que tu caches un choix qui nous fera rougir.
+Quel que soit cet Amant⁎, il faut que je l'apprenne.
+
+      Faites-la donc venir.
+Mais que vient m'annoncer ce merveilleux spectacle ?
+Viens-tu nous esclaircir, Amour, par ce miracle ?
+
+Je le vois avec joye, & l'ordre qu'ils me donnent,
+Monstre, combien au Ciel mon sang est precieux,
+Quand ce sang jusqu'icy fait descendre les Dieux.
+Allons apprendre au Roy cette grande nouvelle,
+Et l'ordre souverain d'une bouche immortelle :    
+Qu'il respecte un secret qu'une divine voix
+Commande de la part du grand maistre des Rois.
+Toy, dis à Semelé que sans crainte de blasme,
+Elle peut conserver son secret & sa flame⁎,
+Et que malgré l'ardeur⁎ d'un desir indiscret⁎,
+Je renonce au pouvoir d'arracher ce secret.
+
+En vain aupres du Roy ma tendresse obstinée,
+A tasché de combattre un hymen⁎ resolu ;
+Il faut aller au temple, & l'ordre est absolu.
+Esclave de sa foy⁎, dont il fait son idole,
+Il croit devoir aux Dieux bien moins que sa parolle,
+Et sans considerer un Dieu fier & jaloux,
+Pour tenir sa promesse, il brave son courroux.
+Mais que pretendez-vous, Alcmeon ?
+
+Perdez, Prince, perdez cette funeste envie ;
+Conservez pour le throsne une si belle vie ;
+Souffrez⁎ que Jupiter…
+
+Prince vous la voyez pleine de cette idée,
+De l'orgüeil de son choix tellement possedée,
+Qu'il n'est point de mortel, qu'elle veüille escouter,
+Ny peut-estre de Dieu s'il n'est pas Jupiter.
+Laissez à sa fierté ces biens imaginaires,
+Ces nobles visions, ces brillantes chimeres.
+Vous, portez autre part vos amoureux desirs,
+L'ingratte ne veut pas l'honneur de vos souspirs ;
+Retirez vostre cœur des mains d'une infidelle⁎.
+
+C'est tout perdre, Seigneur, & j'en tremble pour vous.
+
+Luy prefererez-vous un amant⁎ de la terre ?
+
+Un Dieu peut dégager la parolle d'un Roy.
+
+Par luy Thebes sera la maistresse du monde.
+
+Vous obstinerez-vous contre un Dieu qui peut tout ?
+Voyez encor l'enfer pour rompre vostre envie,
+De ce fonds tenebreux vomir une furie,
+Fuyons Seigneur.
+
+Vous le voyez Seigneur tout parle contre vous.
+
+Joüis de ta fortune⁎ & soustiens dignement,
+L'illustre choix d'un Dieu, qui s'est fait ton amant⁎.
+
+Ah ! Seigneur, rien ne peut esteindre cette flamme.
+
+Ouy sans doute, Seigneur, & par vostre hymenée⁎
+Elle seroit vivante, heureuse & couronnée :
+Son orgueil l'a perduë⁎, & je l'ay trop flatté
+Ce malheureux orgueil qu'enfante la beauté.
+
+Je ne connois que trop vostre divin pouvoir.
+Triomphez de ma fille & de mon desespoir :
+Mais pourquoy la punir du crime de sa mere ;
+J'avois mis dans son cœur cet orgueil temeraire,
+Et c'est par mes leçons qu'elle osa se flatter,
+D'arracher à Junon le cœur de Jupiter.
+Mais le Roy vient. Le feu⁎ qui brille en son visage…
+
+Pardonnez ma foiblesse à cet amour de mere,
+Qu'alluma dans mon cœur une fille si chere :
+Toute mere est aveugle, & je seray tousjours,
+Un exemple esclattant de leurs folles amours.
+
+Que vous avons-nous fait pour nous traitter si mal,
+Jupiter ? Quoy mon sang pour estre trop aimable⁎,
+Pour estre trop aimé s'est-il rendu coupable ?
+Pourquoy d'un Prince illustre & rival & jaloux
+Enlever la maistresse⁎, ou la choisir chez nous,
+Si ce fatal honneur fait ma honte & ma peine⁎ ?
+Vostre amour est-il donc pire que vostre haine ?
+Helas ! puisqu'il produit de si cruels⁎ trespas,
+Grand Dieu haissez nous, ou ne nous aimez pas.
+
+Ah grand Dieu pardonnez aux douleurs d'une mere
+Un insolent murmure, un éclat temeraire ;
+Je vous connoissois mal, & ne prevoyois pas
+Les biens que Semelé tire de son trespas.    
+
+
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_semele
+
 Quel éclat, quelle voix force agreablement
 Un repos si profond, un sommeil si charmant ?
 
--*who_aurore
-Princesse nous entrons avec cette licence⁎
-Que nous donne aujourd'huy le souverain des Dieux.     
-Par son divin pouvoir nous penetrons ces lieux,
-Où sa discretion desrobe sa presence.
-Jupiter sans vous voir, ne peut estre content :
-Dans ce parc amoureux, en ces sombres retraittes,
-De vos premiers soûpirs confidentes discrettes,
-Sous l'habit d'un berger Jupiter vous attend.
-
--*who_semele
 L'image d'un beau songe, un fantosme agreable
 Rend envers Jupiter ma paresse excusable ;
 Luy-mesme estoit l'objet⁎ d'un songe si charmant.
@@ -466,66 +1369,27 @@ Mais aussi dites-luy qu'il faut par bienseance,
 Pour sortir du palais, attendre un plus grand jour,
 Et voler malgré moy ce temps à son amour.
 
--*who_aurore
-Semelé je ne puis paraistre davantage :
-Une de ces Heures pour moy,
-Peut aller faire ce message,
-Le grand jour qui s'avance a finy mon employ ;
-Je dois quitter la place au Dieu de la lumiere,
-Il a commencé sa carriere.
-Filles de Jupiter tesmoins de ses ardeurs⁎,
-Vous allez satisfaire à son impatience ;
-Vous pour ce grand secret gardez-bien le silence,
-Et remontez au Ciel pour rejoindre vos sœurs.
-
-**** *book_ *id_I02 *act_I *date_1666 *creator_boyer
-
--*who_semele
 En est-ce assez, Dircé, pour te faire connaistre
 L'amour, qu'au cœur d'un Dieu mes appas⁎ ont fait naistre ?
 L'Aurore en ma faveur viendroit-elle en ces lieux,
 Sans l'ordre de ce Dieu, qui commande les Dieux ?
 
--*who_dirce
-Non, je n'en doute plus, & j'en tremble, Madame.
-Quoy le Prince Alcmeon, qui regnoit dans vostre ame,
-Ce grand Prince d'Argos, qui depuis si long-temps
-Vous offre sa Couronne & des vœux si constants,
-Va perdre tout l'espoir de son amour fidelle ?
-
--*who_semele
 J'ay crû brusler⁎ pour luy d'une flamme⁎ immortelle :
 Mais puis-je guarantir un feu⁎ si glorieux
 Contre l'ordre eternel du Destin & des Dieux ?
 
--*who_dirce
-Mais le Roy qui du Prince estime l'alliance,
-Et voit que vostre cœur panche à quelque inconstance,
-Veut sans plus differer le faire vostre Espoux ;
-Vous devez obeir ou craindre son courroux.
-
--*who_semele
 Ah Dircé, son courroux ne seroit pas à craindre ;
 Si pour vaincre un pouvoir, qui voudra me contraindre,
 J'osois luy découvrir⁎ la glorieuse ardeur⁎,
 Que le grand Jupiter allume dans mon cœur :
 Mais l'ordre de ce Dieu me condamne au silence.
 
--*who_dirce
-Mais l'amour de ce Dieu fait seul vostre deffence :
-Pour vous justifier, il doit paroistre au jour,
-
--*who_semele
 J'obtiendray de ce Dieu l'aveu de son amour.
 Aussi bien il est temps que son rival aprenne
 Que l'ardeur⁎, dont je brusle⁎ est fatale à la sienne,
 Et qu'un mortel me cede à ce nouvel amant⁎,
 Puis qu'enfin c'est un Dieu qui fait mon changement.
 
--*who_dirce
-De cet amant⁎ plustost songez à vous deffaire.
-
--*who_semele
 Se defait-on d'un Dieu qui fait tout pour nous plaire ?
 Est-il quelque constance, est-il quelque devoir,
 Qui puisse resister contre tant de pouvoir ?
@@ -536,11 +1400,6 @@ Se saisit aisement d'un cœur ambitieux ;
 Car enfin je veux bien t'avoüer ma foiblesse,
 L'orgueil fait dans mon cœur autant que ma tendresse.
 
--*who_dirce
-Vous m'avez confié le nom de vostre amant⁎ :
-Contez-moy vostre amour & son commencement.
-
--*who_semele
 Ah ! que l'amour des Dieux est fort en sa naissance !
 Il peut tout, il triomphe au moment qu'il commence.
 J'estois dans ce beau parc où Jupiter m'attend,
@@ -581,11 +1440,6 @@ S'il falloit t'expliquer tout ce que j'en doy croire…
 Mais Jupiter m'attend & je perds la memoire :
 J'en diray davantage un jour plus à loisir.
 
--*who_dirce 
-Contentez sur un point mon curieux desir,
-Dites-moy, si les Dieux aiment comme les hommes.
-
--*who_semele
 Quand il s'agit d'aimer, ils sont ce que nous sommes.
 Pour estre plus que nous aiment-ils autrement ?
 Ils different de nous en ce point seulement,
@@ -597,66 +1451,18 @@ Mais c'est trop s'arrester, Jupiter s'en offence.
 Au moins n'abuse pas de cette confidence,
 Et crain de mon amant⁎ le souverain pouvoir.
 
-**** *book_ *id_I03 *act_I *date_1666 *creator_boyer
-
--*who_dimas
-Le Prince est là, Madame, & demande à vous voir.
-
--*who_alcmeon
-Madame pardonnez à mon impatience.
-
--*who_semele
 Quoy, Seigneur, si matin prendre cette licence⁎.
 
--*who_alcmeon
-Par un doute cruel⁎ mon cœur est si pressé⁎,
-Qu'il veut sçavoir le coup dont il est menacé :
-Je meurs à tout moment dans cette incertitude,
-Prenez quelque pitié de mon inquietude ;
-De grace apprenez moy quelle ingratte froideur
-Change l'heureux destin de ma fidelle ardeur⁎.
-On vient de m'asseurer qu'on voit naistre en vostre ame
-Le remors d'un adveu favorable à ma flâme⁎ :
-Depuis que mon amour me retient dans ces lieux
-N'ay je pas fait pour vous ce qu'on fait pour les Dieux ?
-C'est de vous aussi bien que du Roy vostre pere,
-Que j'ay receu l'adveu d'une flâme⁎ si chere.
-Ay je arraché ce cœur ? vous me l'avez donné
-Ce cœur, pour qui le mien eust tout abandonné,
-Que si pour meriter un don si favorable
-J'ignore l'art d'aymer, & de se rendre aymable⁎,
-Au moins j'ay dans mon cœur, dequoy vous enflammer,
-Si pour se rendre aymable⁎ il ne falloit qu'aymer.
-Les plus profons respects, la plus forte tendresse…
-Mais je vous parle en vain infidelle⁎ Princesse ;
-Au desordre⁎ inquiet, qui trouble vos appas⁎,
-Ingratte je voy bien qu'on ne m'écoute pas.
-
--*who_semele
 Que me sert d'écouter n'ayant rien à respondre ?
 Vos reproches sans doute ont dequoy me confondre⁎ ;
 Je ne puis le nier, je vous aimay Seigneur,
 Cependant…
 
--*who_alcmeon
-      Achevez, dites moy quel mal-heur,
-Quel rival me dérobe une amitié⁎ si tendre ?
-
--*who_semele
 Prenons un autre temps Seigneur pour vous l'apprendre
 Un devoir si pressant…
 
--*who_alcmeon
-      Je ne vous quitte point
-A moins…
-
--*who_semele
       Faut-il Seigneur m'expliquer sur ce point ?
-
--*who_alcmeon
-Helas je le voy bien, vous en aymez un autre.
-
--*who_semele 
+ 
 Ouy Seigneur ; & ce n'est ma faute ny la vostre
 Je plains vostre mal-heur, & ce cœur innocent
 Vous trahit par l'effort d'un charme tout puissant.
@@ -664,34 +1470,14 @@ Mesme je vous dirois, si j'ozois vous le dire,
 Que de son premier feu⁎ ce cœur encor soûpire⁎,
 Et sent aupres de vous, quand il vous faut quitter…
 
--*who_alcmeon
-Ah Princesse…
-
--*who_semele
       Ah Seigneur gardez de vous flatter.
 Si vostre fier rival sçavoit que ma foiblesse
 Laisse échaper pour vous une ombre de tendresse,
 Ce reste de pitié vous deviendroit fatal ;
 
--*who_alcmeon
-C'est peu de me trahir, on vante mon rival,
-On veut que sa puissance estonne⁎ ma colere,
-Quel est donc ce rival ?
-
--*who_semele
       Seigneur c'est un mystere⁎ ;
 Les Dieux seuls, & mon cœur ont droit de le sçavoir.
 
--*who_alcmeon
-Et vous voulez ainsi flatter⁎ mon desespoir.
-Helas je le voy bien, ce rival qui se cache,
-Pour ma honte & la vostre est un perfide, un lâche ;
-Pour vous justifier il paroistroit au jour,
-S'il avoit merité l'honneur de vostre amour :
-Mais par un sort fatal qui comble ma disgrace,
-Un indigne rival vient de prendre ma place.
-
--*who_semele
 Tout beau Seigneur, craignez ce dangereux rival.
 Mais vous vous faites tort en le traittant si mal,
 Vous devez presumer, qu'alors que je vous quitte,
@@ -703,15 +1489,6 @@ Jugez de ce qu'il vaut, s'il vous est preferable :
 Blâmez si vous voulez mon cœur de trahison,
 Mais faites sur ce choix justice à ma raison.
 
--*who_alcmeon
-Quel qu'il soit, ce rival triomphe dans vostre ame,
-C'est là qu'il peut braver mon courroux & ma flâme⁎ :
-Mais nous le connoistrons ce rival si charmant.
-Cependant dites luy que je suis vostre amant⁎,
-Et qu'on n'enleve point, sans couster bien des testes,
-A des gens comme nous de semblables conquestes.
-
--*who_semele
 Quand vous le connoistrez vous perdrez ce courroux :
 Il sied mal avec luy de faire le jaloux,
 Et si vous me croyez, sçachant ce qu'il faut craindre,
@@ -724,371 +1501,15 @@ Et qu'un rival qui peut du moindre de ses coups…
 Le Roy vient : échapons à son premier courroux.
 Toy demeure ; je cours où mon amour m'appelle.
 
-**** *book_ *id_I04 *act_I *date_1666 *creator_boyer 
-
--*who_alcmeon
-Vous me voyez frappé d'une atteinte mortelle,
-Seigneur, on me trahit ; je viens de tout sçavoir ;
-Un rival en secret m'oste tout mon espoir.
-
--*who_cadmus
-Ah ! Prince ce soupçon marque trop de foiblesse.
-
--*who_alcmeon
-Je viens de le sçavoir, Seigneur, de la Princesse.
-
--*who_cadmus
-Quoy vous pourriez avoir un rival dans ma Cour ?
-Ma fille veut sans doute esprouver vostre amour,
-Ou plustost l'augmenter par ces fausses allarmes.
-
--*who_alcmeon
-Helas c'est bien assez du pouvoir de ses charmes,
-
--*who_cadmus
-La fiere Semelé ne fera point de choix
-Qui puisse estre au dessous des Princes & des Roys.
-
--*who_alcmeon
-A l'entendre parler du choix qu'elle se donne,
-Son merite est d'un pris plus haut que la Couronne.
-
--*who_cadmus
-Il faut donc que ma cour à mes yeux abusez⁎
-Cache sous des sujets des Heros déguisez.
-Mais en fut-il quelqu'un caché dans cet Empire,
-Voudroit-il traverser⁎ l'hymen⁎ que je desire ?    
-On sçait, pour faire à Thebes un solide⁎ repos,
-Que voulant allier ce Trône avec Argos,
-Il faut qu'avecque vous, par un Hymen⁎ fidelle,
-Semelé nous assure une paix immortelle :
-Un si grand interest ne peut estre ignoré.
-
--*who_alcmeon
-Cependant mon mal-heur, n'est que trop assuré.
-
--*who_cadmus
-Je sçay bien que ma fille au moins en apparence,
-Dans ses premiers desirs marque quelque inconstance ;
-Mais parmy les amans⁎ cette ombre de froideur
-Peut changer le dehors sans aller jusqu'au cœur.
-
--*who_alcmeon
-Seigneur tout est changé ; la Princesse elle mesme
-D'un air si transporté⁎ m'a vanté ce qu'elle ayme,
-Qu'il n'est mortel ny Dieu qui lui puisse estre égal.
-Elle veut que je tremble au nom de ce rival,
-Et sa fausse pitié qui craint pour ma foiblesse,    
-Veut que sans murmurer je cede la Princesse ;
-Qu'une lâche terreur estouffe mes desirs,
-Et cache au fonds du cœur jusqu'aux moindres soupirs.
-
--*who_cadmus
-Madame vous devez connoistre vostre fille ;
-Elle tient plus à vous que toute ma famille.
-Plus belle que ses sœurs elle a le premier rang,
-Et vous fait negliger le reste de mon sang.
-Par cette aveugle ardeur⁎ qui possede les meres,
-N'avez-vous point remply sa teste de chimeres ?
-Vous fille de Venus, ne la flattez⁎-vous pas
-De l'espoir de gagner un Dieu par tant d'appas⁎,
-Et qu'un Heros mortel n'est pas assez pour elle ?
-Vous me vantez souvent vostre race immortelle,
-Et Semelé sans doute, au point où je la voy,
-Prent pour luy tout l'orguëil, que vous avez pour moy.
-
--*who_hermione 
-Je n'ay rien fait, Seigneur, qui vous oblige à croire,
-Que le sang de Venus, dont je tire ma gloire,
-Me fasse negliger mon Espoux & mon Roy :
-Je sçay ce que je suis, & ce que je vous doy.
-Cet imprudent orgüeil qui n'est qu'extravagance,
-Vient aux simples mortels d'une simple naissance :
-Mais cet orgueil qui suit ceux qui sortent des Dieux,
-Est un orgüeil illustre, innocent, glorieux.
-C'est celuy que j'ay mis dans l'esprit de ma fille,
-Et si je la prefere à toute ma famille,    
-Je ne puis le nier, dés qu'elle vit le jour,
-Elle eut mes premiers soins & mon premier amour ;
-Mais tout ce grand amour & cette preference
-N'ont rien mis dans son cœur plus haut que sa naissance.
-Elle a choisi ce Prince & j'ay loüé son choix ;
-Et si le sang des Dieux avec celuy des Rois,
-Est entre vous & moy joint par nostre hymenée⁎,
-Ce grand exemple instruit une fille bien née.
-Quoy qu'il semble aujourd'huy, que pour ce digne amant⁎,
-Semelé se dispose à quelque changement,
-Je luy rendray bien-tost sa première tendresse :
-Mais il faut mesnager son ame avec adresse ;
-N'y meslez pas, Seigneur, l'aigreur & le courroux ;
-Il faut pour la gagner des traittemens plus doux ;
-Elle doit obeir, mais d'une obeissance,
-Qui n'ait rien de l'indigne & basse dépendance.
-
--*who_cadmus
-Je veux bien à vous seule abandonner ce soin ;
-Je sçauray faire agir mon pouvoir au besoin⁎.
-Mais quel est cét amant⁎ dont on fait un mystere⁎ ?
-
--*who_hermione
-Pour de pareils secrets choisit-on une mere ?
-
--*who_cadmus 
-Madame il faudra donc employer mon pouvoir.
-
--*who_hermione
-Je sçauray l'obliger à faire son devoir.
-
--*who_alcmeon
-Ah ! Madame, ah ! Seigneur, sans forcer ma Princesse,
-Laissez-la disposer de toute sa tendresse :
-Mes maux sont trop cruels⁎ pour les pouvoir guerir :
-C'est assez de l'aimer, l'adorer, & mourir.
-
--*who_cadmus
-Prince defaites-vous de ce respect frivolle ;
-La Princesse est à vous, je tiendray ma parolle.
-Vous, voyez vostre fille, & faites-luy sçavoir,
-Qu'elle doit s'expliquer ou craindre mon pouvoir.
-
-**** *book_ *id_I05 *act_I *date_1666 *creator_boyer
-
--*who_hermione
-Tu vois l'ordre du Roy, Dircé par ton adresse
-Descouvre⁎ promptement l'amant⁎ de ta Maitresse⁎ :
-Ou plustost ouvre moy cet important secret ;
-Ma fille l'aura mis dans un sein si discret ;
-Il n'en faut pas douter.
-
--*who_dirce
-      Ah ! de grace, Madame,
-Ne me demandez pas le secret de sa flame⁎ ;
-Ce secret revelé me cousteroit le jour.
-L'ordre qui me deffend d'expliquer cet amour,
-Vient d'un Amant⁎ si fier, si puissant, si terrible⁎,
-Qu'en vous le descouvrant⁎ ma perte est infaillible.
-Contentez-vous enfin d'apprendre que ce choix
-Vous fera plus d'honneur, que le plus grand des Rois.
-
--*who_hermione
-S'il est ainsi, pourquoy s'obstiner à se taire ?
-Puis-je pas, s'il le faut, cacher ce grand mystere⁎ ?
-Ah ! que je crains de l'air, dont je te vois agir,
-Que tu caches un choix qui nous fera rougir.
-Quel que soit cet Amant⁎, il faut que je l'apprenne.
-
--*who_dirce
-Pourquoy par cet adveu m'exposer à sa haine ?
-Puisque de Semelé vous pouvez l'obtenir,
-Ne me contraignez point…
-
--*who_hermione
-      Faites-la donc venir.
-Mais que vient m'annoncer ce merveilleux spectacle ?
-Viens-tu nous esclaircir, Amour, par ce miracle ?
-
--*who_amours
-Non Reine, à qui je puis donner le nom de sœur,
-Puisque Venus est nostre mere.
-Loin d'aller de ta fille esclaircir le mystere⁎,
-Garde toy de forcer le secret de son cœur ;
-Commande luy plustost d'aimer & de se taire.
-L'aigle sur qui je viens t'imposer cette loy,
-T'apprend, qu'elle te vient d'un Dieu plus grand que moy.
-
--*who_dirce
-Madame vous voyez ce que les Dieux ordonnent.
-
--*who_hermione
-Je le vois avec joye, & l'ordre qu'ils me donnent,
-Monstre, combien au Ciel mon sang est precieux,
-Quand ce sang jusqu'icy fait descendre les Dieux.
-Allons apprendre au Roy cette grande nouvelle,
-Et l'ordre souverain d'une bouche immortelle :    
-Qu'il respecte un secret qu'une divine voix
-Commande de la part du grand maistre des Rois.
-Toy, dis à Semelé que sans crainte de blasme,
-Elle peut conserver son secret & sa flame⁎,
-Et que malgré l'ardeur⁎ d'un desir indiscret⁎,
-Je renonce au pouvoir d'arracher ce secret.
-
-**** *book_ *id_II01 *act_II *date_1666 *creator_boyer
-
--*who_jupiter
-Ouy j'attens Semelé sous ce nouveau visage :
-C'est l'amour qui m'a fait ce galant équipage⁎ :
-Mais si tu vois un Dieu sous l'habit d'un Berger,
-Ce n'est pas d'aujourd'huy que tu m'as veu changer,
-Et de mes feux⁎ secrets cacher les avantures,
-Sous les traits differents de cent autres figures.
-
--*who_momus
-C'est donc l'Amour qui fait tous ces beaux changemens.
-J'admire Jupiter sous ces déguisemens,
-Et si-tost qu'il s'agit de faire une conqueste,
-Il fait beau voir un Dieu faire l'homme ou la beste.
-On sçait sous quelle forme on vous vit sur le dos,
-Ravir la belle Europe & traverser les flots.
-Vous en voulez tousjours à celles de sa race :
-Et desja Semelé vient de prendre sa place.
-Dans le sang d'Agenor vous trouvez des appas⁎,
-Que dans un autre sang vos yeux ne trouvent pas.
-On vous voit tous les jours courir de belle en belle,
-Aymez-vous ces beaux noms d'inconstant, d'infidelle⁎ ?
-N'est-il point de beauté qui vous puisse arrester,
-Les Dieux n'ont-ils point honte de coqueter⁎ ?
-
--*who_jupiter
-Momus, veux-tu tousjours censurer & medire ?
-N'as-tu jamais connu le souverain Empire,
-Qui force au changement le plus puissant des Dieux ?
-Voy comme c'est en nous un deffaut glorieux.
-Quand j'aime une beauté, d'abord je vois en elle
-Tout ce qu'a de charmant une beauté mortelle ;
-La lumiere d'un Dieu descouvre en ce moment
-Tout ce qui peut toucher les desirs d'un amant⁎.
-Un mortel a besoin de temps & de lumiere,
-Pour faire à son amour une digne matiere ;
-Mais un Dieu pour ce chois n'a pas besoin de temps :
-Il voit tout d'un coup d'œil & dehors & dedans ;
-Son esprit convaincu d'un merite adorable,
-Aime d'abord autant, que l'objet⁎ est aimable⁎,
-Et par un feu⁎ divin qui peut tout enflammer,
-Il embrase l'objet⁎ qui vient de le charmer.
-Ce violent Amour vient à peine de naistre,
-Qu'il est victorieux, autant qu'il le peut estre,
-Et deslors qu'il joüit⁎ avecque tant d'ardeur⁎,
-Sa flame⁎ à son objet⁎ applique tout son cœur,
-Qu'au mesme instant qu'un Dieu possede une maistresse⁎,
-Il espuise sa joye & toute sa tendresse :
-Ainsi le cœur d'un Dieu presque en un seul moment,
-Aime, se fait aimer, & cesse d'estre Amant⁎.
-Toy qui n'aimas jamais, tu sçais mal comme on aime.
-
--*who_momus
-Peut-estre Jupiter, l'ignorez-vous vous mesme :
-Car enfin Semelé vous couste plus d'un jour,
-Et je ne vous croy pas trop bien avec l'Amour ;
-Vous vous broüillez souvent avec luy ce me semble.
-
--*who_jupiter
-Nous nous broüillons exprés pour estre mieux ensemble.
-Si l'amour avec moy s'entendoit tous les jours,
-Quelle gloire de vaincre avec ce grand secours ?
-Je me fais de l'amour un combat volontaire,
-Un doux empressement, une agreable affaire :
-Sous l'habit d'un Berger je me deguise exprés,
-Pour affoiblir ainsi la force de mes traits,    
-Et par quelques combats achetant la victoire,
-Pour croistre mes plaisirs, j'y mesle un peu de gloire.
-
--*who_momus
-Quelques-fois en un jour on vous voit demander,
-Attaquer, emporter la place, & la ceder.
-
--*who_jupiter
-Ouy mais de mon amour apprens tout le mystere⁎.
-Quelque glorieux chois, qu'un Dieu se puisse faire,
-Sçache qu'il ne sçauroit remplir tous ses desirs :
-Son cœur qui veut par tout le comble de plaisirs,
-Repare le deffaut de ces beautez mortelles,
-Par un enchaisnement de conquestes nouvelles.
-
--*who_momus
-Pourquoy vous attacher aux beautez d'icy bas ?
-Nos Deesses pour vous sont elles sans appas⁎ ?
-
--*who_jupiter
-L'Amour n'a pas au Ciel son veritable empire :
-C'est icy seulement qu'on brusle⁎ & qu'on soûpire⁎ ;
-Dans le sejour⁎ des Dieux l'on y vit sans desirs,
-Et sans desirs l'Amour a-t'il de vrais plaisirs ?
-
--*who_momus
-Est-il d'autres plaisirs pour le Dieu du tonnerre
-Que celuy quand il veut de foudroyer la terre ?
-Rire des beaux desseins d'un fol ambitieux,
-Et preparer sa cheute en l'élevant aux Cieux ;
-Tout remply de nectar dans une paix profonde,
-D'un branlement de teste ébranler tout le monde ;
-Faire de ses desirs sa raison & ses loix ;
-Se joüer à son gré des peuples & des Roys ;
-Voir les mortels broüillés dans toutes leurs prieres ;
-Leur voir pousser des vœux l'un à l'autre contraires ;
-Confondre⁎ leurs projets & d'une mesme main,
-Aujourd'huy les flatter & les punir demain ;
-Et sur cette conduite inégale, incertaine
-Ouyr les sots discours de la prudence humaine ;
-Voila de Jupiter les doux amusemens.
-
--*who_jupiter
-J'en trouve dans l'amour qui sont bien plus charmans :
-Quand l'amour dans un cœur met toute la tendresse…
-
--*who_momus
-C'est avec ce beau nom qu'on cache sa foiblesse.
-
--*who_jupiter
-S'il est quelque foiblesse à se laisser charmer,
-Que ne suis-je plus foible afin de mieux aymer ?
-Ou s'il faut souhaiter une chose impossible,
-Que ne suis-je moins Dieu pour estre plus sensible ?
-Mais j'ay tort de parler à qui n'ayma jamais :
-Ne combats plus ma flâme⁎ & sers la desormais ;
-Momus tu tiens icy la place de Mercure.
-
--*who_momus
-Ouy grace à vos bontez & ma gloire en murmure ;
-Vostre ordre malgré moy m'employant en ce jour,
-Fait d'un censeur des Dieux un confident d'amour.
-
--*who_jupiter
-C'est pour tromper Junon qu'aujourd'huy je t'employe,
-Tu sçays qu'incessamment elle trouble ma joye,
-Et du subtil Mercure aprehendant l'employ,
-Il luy seroit suspect s'il estoit pres de moy.
-Ainsi…Mais j'aperçois Semelé.
-
--*who_momus
-      Je vous laisse ;
-Un tiers est incommode aupres d'une maistresse⁎.
-
-**** *book_ *id_II02 *act_II *date_1666 *creator_boyer
-
--*who_jupiter
-Ma Princesse est ce vous ?
-
--*who_semele
       Est-ce là mon amant⁎ ?
 
--*who_jupiter
-Me méconnoissez-vous sous ce déguisement ?
-Avez vous oublié le discours de l'aurore ?
-
--*who_semele
 Non, non, il m'en souvient, c'est le Dieu que j'adore ;
 Sous l'habit d'un berger, il m'attend en ces lieux.
 
--*who_jupiter
-Je trompe ainsi Junon & me cache à ses yeux :
-De son jaloux esprit la triste inquietude
-A m'épier sans cesse applique son estude ;
-Mais voulant m'assurer mes plaisirs les plus doux…
-
--*who_semele
 Ah vous vous cachez moins pour Junon que pour vous :
 Vous aymez vostre gloire, & vous craignez pour elle,
 Qu'on sçache ce qu'un Dieu fait pour une mortelle.
 
--*who_jupiter 
-Moy craindre pour ma gloire un choix si glorieux ?
-Moy qui pour vous servir, abandonne les cieux ?
-Moy qui bruslant⁎ pour vous d'une ardeur⁎ sans seconde
-Neglige sans rougir la conduite du monde ?
-Moy qui montre à vos yeux un amant⁎ si charmé,
-Qu'il cesse d'estre Dieu pour estre plus aymé ?
-
--*who_semele
 Hé bien si vostre amour est à couvert du blâme,
 Si vous prisez si fort l'honneur de vostre flâme⁎ ;
 Jupiter il est temps qu'elle paroisse au jour ;
@@ -1102,14 +1523,6 @@ Au sentiment de tous cache une indigne flâme⁎,
 Et tandis que ce feu⁎ n'ozera voir le jour,
 Ma gloire est en peril ainsi que mon amour.
 
--*who_jupiter
-Ne craignez rien ; Amour pour finir vostre peine⁎,
-Et par mon ordre expres envoyé vers la Reyne,
-Luy deffend d'écouter un desir indiscret⁎,
-Qui veut de vostre flâme⁎ arracher le secret.
-Et par un autre choix tiranniser vostre ame.
-
--*who_semele
 Tant de precautions à cacher vostre flâme⁎,
 Le respect de Junon, tous vos déguisemens
 Ne m'apprennent pas trop quels sont vos sentimens.
@@ -1137,366 +1550,45 @@ Ainsi loin de cacher cette flâme⁎ divine ;
 J'en veux vanter par tout l'adorable origine,
 Et faire voir par tout un feu⁎ si glorieux.
 
--*who_jupiter
-Et n'est ce pas assez qu'il paroisse à nos yeux ?
-Un témoin comme moy suffit pour vostre gloire.
-
--*who_semele
 Je veux que tout le monde apprenne ma victoire,
 Et ne croiray jamais qu'on m'ayme tendrement,
 Si le grand Jupiter rougit du nom d'amant⁎ :
 Ma gloire en cet estat est tousjours imparfaite.
 
--*who_jupiter
-Hé bien que tout le monde aprenne ma deffaite :
-Il faut bien satisfaire à vostre ambition ;
-Que mon amour éclatte aussi loin que mon nom.
-
--*who_semele
 Apres un tel adveu je brave la colere
 Des hommes & des Dieux, d'un amant⁎ & d'un pere.
 Mais Alcmeon paroist, tâchons de l'éviter ;
 
--*who_jupiter
-Il faut voir le rival, qu'on donne à Jupiter.
-
-**** *book_ *id_II03 *act_II *date_1666 *creator_boyer
-
--*who_alcmeon
-Ce beau berger est-il de vostre confidence ?
-
--*who_semele
 Comment ?
 
--*who_alcmeon
-      Je vous apporte un advis d'importance,
-Et n'oze devant luy…
-
--*who_semele
       Parlez ne craignez rien,
 Ou gardez vostre advis, s'il rompt nostre entretien.
-
--*who_alcmeon
-J'ay tort de l'interrompre ; & je voy bien Madame,
-Puis que vous luy fiez⁎ le secret de vostre ame,
-Que c'est luy qui souvent vous attire en ces lieux.
-C'est donc là ce rival si fier, si glorieux ;
-Puis donc qu'on ne craint rien d'un témoin si fidelle,
-Apprenez le sujet d'une douleur mortelle.
-Malgré tous mes conseils, contre vostre dessein,
-Le Roy vous veut contraindre à me donner la main,
-Et pour ce coup fatal marque cette journée.
-
--*who_jupiter
-Mes ordres sçauront bien rompre cet Himenée⁎.
-
--*who_semele 
+ 
 Que me conseillez-vous sur cet ordre absolu ?
 Ou vous mesme plustost qu'avez-vous resolu ?
 Mon sort dépend de vous, faut-il que j'obeysse ?
-
--*who_alcmeon
-C'est à ce digne amant⁎ faire trop d'injustice,
-De prendre en ce besoin⁎ conseil de son rival.
-
--*who_jupiter
-Ce conseil quel qu'il soit nous fera peu de mal.
-
--*who_alcmeon
-Hé quoy vous me bravez ?
-
--*who_jupiter
-      Non j'aurois peu de gloire,
-De braver un rival quand il pert la victoire.
-
--*who_alcmeon
-C'est parler devant moy bien haut pour un berger.
-
--*who_jupiter
-Des bergers comme moy le peuvent sans danger.
-
--*who_alcmeon
-Cette fierté m'étonne⁎ & je ne puis comprendre…
-
--*who_jupiter
-On m'ayme & ce seul mot suffit pour vous l'apprendre.
-
--*who_alcmeon
-Que vous sert cet amour quand j'ay l'adveu du Roy ?
-
--*who_jupiter
-Que vous sert cet adveu, quand son cœur est à moy ?
-Quand on a comme moy la gloire de lui plaire…
-
--*who_alcmeon
-Quand on n'a qu'à combattre un berger temeraire…
-
--*who_jupiter
-Je ne sçay qui l'est plus du berger ou de vous.
-
--*who_alcmeon
-Ah c'en est trop.
-
--*who_jupiter
-      Calmez ce dangereux courroux.
-
--*who_semele 
+ 
 Hé quoy contre un berger & mesme en ma presence
 Un Prince…
 
--*who_jupiter
-      Je répons icy de sa clemence.
-
--*who_alcmeon
-Vous voyez qu'un berger me brave impunement,
-Et vous vous offensez de mon ressentiment ?
-C'est trop souffrir⁎.
-
--*who_semele
       O Dieux !
 
--*who_jupiter
-      Ne craignez rien Princesse.
-
--*who_alcmeon
-Quel charme sur mes bras jette tant de foiblesse ?
-
--*who_jupiter
-Pouvez-vous pour un Dieu craindre quelque danger ?
-
--*who_semele
 Ma tendresse d'abord n'a rien veu qu'un berger.
 
--*who_alcmeon
-Ce prompt enchantement & ce charme invisible
-Me fait connoistre enfin cet amant⁎ si terrible⁎.
-Ce rival dont tantost vous m'avez menacé.
-
--*who_jupiter
-Ouy Prince, c'est luy mesme, & le charme est passé :
-J'ay pitié de l'estat, où vous met trop d'audace :
-Amant⁎ de Semelé vous meritez ma grace.
-Au moins par cet essay connoissez mon pouvoir.
-
--*who_alcmeon
-Va ta pitié ne fait qu'aigrir mon desespoir,
-Injurieux rival, laisse moy ma foiblesse ;
-Accable un mal-heureux, ou me rend ma Princesse ;
-Tu me l'ostes ; cruel⁎ ; & ton charme trompeur
-Ainsi que sur mon bras a passé dans son cœur.
-Princesse ouvrez les yeux & voyez l'imposture
-D'un art affreux⁎ & noir, qui force la nature.
-Vous laissez vous surprendre aux charmes d'un trompeur ?
-
--*who_semele
 Vous mesme connoissez ce divin enchanteur⁎,
 Qui sous les foibles traits d'un enfant de la terre,
 Cache le puissant Dieu qui lance le tonnerre.
 Admirez quel rival vous fait mon changement.
 
--*who_alcmeon
-Jupiter mon rival ! Dieux quel aveuglement !
-
--*who_semele
 Vous voyez…
 
--*who_jupiter
-      J'ay pitié de l'erreur qui l'abuse⁎.
-
--*who_alcmeon
-Vostre infidelité⁎ cherche en vain cette excuse.
-
--*who_semele
 Sans doute, & je rougis qu'un changement fatal
 Donne au Prince d'Argos un berger pour rival,
 Si la bonté d'un Dieu ne daigne vous absoudre,
 Craignez de le connoistre à l'éclat de sa foudre.
 
--*who_alcmeon
-Pleut au Ciel, qu'il voulut découvrir à mes yeux
-Par un coup de tonnerre, un choix si glorieux.
-Du moins en connoissant le Dieu qui me surmonte⁎,
-Je mourrois avec joye, & vous perdrois sans honte ;
-Mais las ! ce n'est pas luy, mais c'est vous que je crains :
-La foudre est dans vos yeux, & non pas dans ses mains.
-Mais quoy l'air s'obscurcit & l'orage s'appreste…
-
--*who_jupiter
-Quel changement soudain excite la tempeste ?
-Quand je suis sur la terre, il tonne dans les cieux,
-
--*who_alcmeon
-Il tonne, & c'est icy le grand maistre des Dieux.
-C'est à cet imposteur qu'il declare la guerre.
-
--*who_jupiter
-Junon quand il luy plaist peut former le tonnerre,
-Elle est Reyne des airs.
-
--*who_alcmeon
-      Foudre tombe en ce lieu ;
-Ta gloire est de punir le fantôme d'un Dieu.
-
--*who_jupiter
-Sans doute que Junon en veut à ma Princesse,
-
--*who_semele
 Sans doute qu'un faux charme abuse⁎ ma tendresse.
 
--*who_jupiter
-Quoy vous doutez ?
-
--*who_alcmeon
-      Voyez quelle estoit vostre erreur.
-
--*who_jupiter
-Junon descend en terre ; évitons sa fureur.
-Nuages descendez, & qu'une épaisse nuë
-La derobe à sa rage & nous cache à sa veuë.
-
-**** *book_ *id_II04 *act_II *date_1666 *creator_boyer
-
--*who_alcmeon
-Dissipez ce nüage, il est temps d'éclater,
-Tombez foudres, tombez sur un faux Jupiter.
-Grand Dieu vange ton nom usurpé par un traistre.
-Mais quel est ce prodige, & que vois je paroistre ?
-C'est Junon elle-mesme avec la foudre en main.
-Pourquoy cet équipage⁎, & quel est son dessein ?    
-De ce faux Jupiter qui m'oste ce que j'ayme,
-Me vient-elle vanger, ou se vanger soy-mesme ?
-Bergers qui la voyez descendre dans ce bois,
-Pour haster son secours, prestez-moy vostre voix.
-Reyne des vents Maistresse des tempestes
-Espargnez nos champs & nos testes,
-Et sur ce ravisseur tournez ce grand courroux,
-A ce triste mortel il ravit ce qu'il ayme :
-Vous voyez sa douleur, vous sçavez par vous-mesme,
-Tout ce que souffre⁎ un cœur amoureux & jaloux.
-
--*who_junon
-Tu me vois Alcmeon au milieu des nüages
-Par un soin inutile exciter des orages,
-Et pour des vains efforts prester à mon courroux,
-Ces traits que j'ay surpris à mon perfide époux.
-Jupiter à mes yeux dérobe son amante⁎ ;    
-Son amour tout puissant, rend ma haine impuissante.
-Vents, tempestes, esclairs, enfans de ma fureur,
-Qui ne semez icy qu'une vaine terreur,
-Evanouyssez-vous : l'artifice⁎ & l'adresse
-Vangeront mieux que vous ma gloire & ma foiblesse.
-Prince d'Argos approche & n'apprehende rien,
-Nos mal-heurs sont communs & ton sort est le mien :
-Une ingrate Princesse à ta flâme⁎ infidelle⁎,
-Triomphe d'un mortel, & brave une immortelle,
-Et sa fiere beauté par un mal-heur fatal
-Rend Jupiter perfide, & le fait ton rival.
-
--*who_alcmeon
-Jupiter mon rival ? que dites vous Deesse ?
-Le rival dont j'osois mépriser la foiblesse,
-Luy qui comme un berger se montroit à mes yeux,
-Ce rival est un Dieu le plus puissant des Dieux ?
-J'esperois esclaircir cette estrange avanture,
-Pour convaincre un rival d'une lâche imposture,
-C'estoit là tout l'espoir dont j'ozois me flatter⁎,
-Et dans cet imposteur je trouve Jupiter ?
-Vous deviez prevenir⁎ ces mortelles allarmes :    
-Avec tant de puissance, avecque tant de charmes,
-Deesse ignorez-vous l'art de vous faire aymer ?
-Et que vous manque t-il pour plaire & pour charmer ?
-
--*who_junon
-Mais Prince le moyen que ma beauté l'arreste
-Ce Dieu qui va tousjours de conqueste en conqueste.
-Rien ne sçauroit borner ses glorieux soûpirs,
-Quel objet⁎ peut borner de si vastes desirs ?
-Pour consoler ma gloire & toute ma tendresse,
-Tâchons adroitement de perdre⁎ sa Maistresse⁎ ;
-Sur sa fiere beauté par de secrets moyens
-Je m'apreste à vanger tes feux⁎ comme les miens.
-Jusqu'icy j'ay voulu par une guerre ouverte,
-Par de honteux éclats, entreprendre sa perte ;
-Mais le grand Jupiter est plus puissant que moy.
-Pour la perdre⁎ en secret…d'où te vient cet effroy ?
-Trembles-tu des perils d'une ingrate Princesse ?
-
--*who_alcmeon
-Toute ingrate qu'elle est excusez ma foiblesse :
-J'ay pour sa trahison une secrette horreur,
-Et l'amour toutesfois regne encor dans mon cœur.
-
--*who_junon
-J'ay donc tort de venir avec tant d'imprudence,
-Te fier⁎ le secret d'une juste vengeance.
-Gardant pour ma rivale un sentiment si doux,
-Ta foiblesse contre elle augmente mon courroux.
-
--*who_alcmeon
-Regardez ma Princesse avec moins de colere :
-Qu'a t'elle fait enfin qui puisse vous déplaire ?
-Aux tendresses d'un Dieu peut-elle resister ?
-Que suis-je, helas que suis-je aupres de Jupiter ?
-
--*who_junon
-Sous ces belles couleurs couvre ton infamie,
-Pour meriter ma haine ayme mon ennemie.
-
--*who_alcmeon
-Hé bien sauvez mon cœur de cette lâcheté :
-Je voudrois bien haïr cette ingrate beauté ;
-Mais puis que sur mes sens elle est trop souveraine,
-Pour vanger mon amour, prestez-moy vostre haine ;
-Si je ne sçay qu'aymer, hayssez-là pour moy.
-
--*who_junon
-Tu seras satisfait & c'est-là mon employ.    
-Je sçay l'art de haïr sans remors & sans peine⁎ :
-Si l'amour a ses Dieux je le suis pour la haine.
-Pour faire agir la mienne avec plus de bon-heur,
-Et mettre en seureté mon nom & mon honneur,
-Sous des traits déguisez abusant⁎ ta Princesse…    
-Mais je t'en dirois trop & je crains ta foiblesse :
-Je t'instruiray de tout avant la fin du jour.
-Adieu je vay vanger ma gloire & ton amour.
-
-**** *book_ *id_III01 *act_III *date_1666 *creator_boyer
-
--*who_jupiter
-Vous n'avez rien à craindre icy belle Princesse.
-Toy, tasche d'observer la jalouse Deesse ;
-Sur tout cache luy bien cet azile secret.
-
--*who_momus
-J'obeiray fort mal s'il faut estre discret.
-
--*who_jupiter
-Hé bien ces grands essais d'amour & de puissance
-Vous laissent-ils encor dans quelque defiance ?
-Doutez-vous de mon nom ? ce merveilleux sejour⁎,
-Et ces lieux enchantez qu'a produit mon amour,
-Sont-ils de ma grandeur un foible tesmoignage ?
-Vous voyez au milieu d'une forest sauvage,
-Naistre par un miracle aussi rare que beau,
-D'un amas de beautez le spectacle nouveau.
-Ces lieux quand vous voudrez vous offrent un azile,
-Pour vous comme l'accez l'issuë en est facile.
-Icy loin de Junon, & loin de vostre Cour,
-Et sans autres tesmoins que les yeux de l'Amour,
-Nous gousterons tous deux tout ce que dans les ames    
-Respandent de douceurs les plus heureuses flames⁎,
-Tout ce que font sentir de joye & de plaisirs,
-Le commerce⁎ amoureux des yeux & des souspirs,
-Les combats d'amitié⁎, de soins⁎, de deferences,
-Les flatteurs entretiens, les tendres confidences,    
-Ces beaux emportemens de l'esprit & du cœur,
-Ces charmes composez de flame⁎, & de langueur,
-Les doux égaremens, les aimables⁎ foiblesses,
-Les extases d'amour, les transports⁎, les tendresses,
-Tout ce qui peut enfin nous flatter tour à tour,    
-Quand on se donne tout au pouvoir de l'Amour.
-
--*who_semele
 Ah ! que de ces discours la divine eloquence,
 Du Dieu dont je doutois me fait voir la presence !
 Vous estes Jupiter, mon doute est esclaircy,
@@ -1510,33 +1602,6 @@ De vos divines mains le present & l'ouvrage,
 Pour entrer dans vos fers⁎ trouve un panchant si doux,
 Qu'on voit bien que nos cœurs s'entendent avec vous.
 
--*who_jupiter
-Si ma divinité vous paroist si presente,
-Je dois vous en donner une marque esclatante.
-Je veux que dans ces lieux le comble des plaisirs,
-Par un charme eternel remplisse vos desirs ;
-Le Ciel respectera ce precieux azile ;                         47
-Vous y respirerez un air pur & tranquile,
-Que rien ne troublera que vos tendres souspirs,    
-Et le soufle amoureux des aimables⁎ Zephirs⁎ ;
-Icy chaque saison nous donnera des roses,
-Les plus charmantes fleurs, & les plus belles choses,
-Et pour n'y rendre pas nos plaisirs limitez
-Chaque jour produira de nouvelles beautez ;
-La Mere des Plaisirs vous y suivra sans cesse,
-Cette source d'appas⁎, la brillante Jeunesse,
-Respandra sur vos jours un eternel printemps,
-Et les affranchira de la fureur des ans ;
-Mille Ris, mille Jeux, & leur charmante Mere,
-N'y prendront d'autre soin que celuy de vous plaire ;
-Vous y verrez tousjours les plus jeunes Amours,
-Et tout ce qu'avec eux amenent les beaux jours ;
-C'est icy que nos cœurs aimeront sans contrainte,
-Joüiront⁎ sans degoust, possederont sans crainte,
-Et ce qui plus que tout doit flatter⁎ vos desirs,
-C'est un Dieu tout-puissant qui promet ces plaisirs.
-
--*who_semele
 Que de biens à la fois ! mais helas ! leur durée
 N'en sera-t'elle point courte & mal asseurée ?
 Ces plaisirs qui seront les fruits de vostre amour,    
@@ -1549,112 +1614,19 @@ Pardonnez-moy de grace, un peu de défiance ;
 Tant de biens pour jamais ont si peu d'apparence,
 Que j'ay trop de sujet de craindre un changement.
 
--*who_jupiter
-Que vous connoissez mal le cœur de vostre amant⁎ !
-Son ardeur⁎ pour s'esteindre est trop grande & trop belle ;
-Dans un cœur immortel l'amour est immortelle,
-Et ce feu⁎ dont vos yeux sont la source & l'appuy,
-Doit s'il enflâme un Dieu durer autant que luy.
-Souffrez⁎ pour un moment qu'en ces lieux je vous laisse ;
-Mon destin me l'ordonne & mon devoir me presse⁎ ;
-Mais songez quand je rends mes soins à l'univers,
-Qu'un Empire si beau me plaist moins que vos fers⁎.
-
--*who_semele
 Faites vostre devoir, grand Dieu vous devez croire
 Que je vous ayme trop pour trahir vostre gloire.
 Mais du plus haut des cieux dans ce divin employ
 Laissez tomber au moins quelque regard sur moy.
 
--*who_jupiter
-Je dois à l'univers les soins de ma sagesse,
-Et ceux de mon amour sont tous à ma Princesse.
-Mais avant que quitter ce jardin enchanté
-Je vay voir si Momus pour vostre seureté
-Veille sur la Deesse, & le prier encore
-D'éloigner ses regards de celle que j'adore.
-Ah ! que je veux de mal Princesse à ma grandeur !
-Helas si j'en croyois & mes yeux & mon cœur,
-Je laisserois le Ciel sans maistre & sans conduite :
-Ma gloire ne se peut sauver que par la fuite.
-Vous cependant⁎, Venus, plaisirs jeunesse amour
-Venez prendre ma place attendant mon retour.
-
-**** *book_ *id_III02 *act_III *date_1666 *creator_boyer 
-
--*who_venus
-Princesse on ne voit rien de charmant & de doux,
-Qui ne se rende aupres de vous :
-Rien ne peut égaller vostre bon-heur extreme ;
-Un Dieu prend soin de vos plaisirs,
-Que ne fera-t'il point pour remplir vos desirs ?
-Il peut tout & vous ayme.
-
--*who_semele
 Que de beautez ensemble & de rares merveilles
 Enchantent à la fois mes yeux & mes oreilles !
 C'est la mere d'amour qui descend en ce lieu,
 Et me vient consoler de l'absence d'un Dieu.
 
--*who_venus
-Digne sang de ma fille, & digne de la pomme,
-Que je receus jadis de la faveur d'un homme,
-Je viens à tant d'appas⁎ joindre un nouveau secours :
-Jupiter est volage & je crains pour ta gloire,
-Pour t'assurer cette grande victoire,
-Je viens à ta beauté prester ces deux amours.
-Ils ont ordre tous deux de t'obeïr sans cesse :
-L'un comme estant un Dieu de flâme⁎ & de tendresse,
-Doit d'un amour constant embraser ton vainqueur ;
-L'autre te doit armer d'un charme inévitable ;
-L'un fait aymer, & l'autre rend aymable⁎,
-L'un ira dans tes yeux, & l'autre dans son cœur.
-
--*who_semele
 Ah ! que de vostre part tant d'heur⁎ & de puissance,
 Preuve bien clairement l'honneur de ma naissance :
 
--*who_venus
-Mais ce n'est pas assez du glorieux secours
-Que te promettent ces amours ;
-Tu vas voir dans ces lieux la charmante deesse,
-La mere des amours l'immortelle jeunesse,
-Te suivre incessamment dans cet heureux sejour⁎.
-Elle vient, c'est assez, d'elle je me retire :
-Je laisse aupres de toy, ma fille & c'est tout dire,
-Je laisse aupres de toy la jeunesse & l'amour.
-
-**** *book_ *id_III03 *act_III *date_1666 *creator_boyer
-
--*who_jeunesse
-Par ce mesme pouvoir, que vient de faire naistre
-Tout ce que dans ces lieux Jupiter fait paraistre,
-Je viens icy Princesse executer ses loix.
-C'est par son ordre expres & par son propre choix,
-Que ma main de ces fleurs a fait une Couronne,    
-C'est par son ordre aussi que ma main vous la donne.
-Tout ce que sur ce teint le Ciel a mis de fleurs,
-Et tout ce que j'y mets de brillantes couleurs,
-Conservera tousjours ces graces naturelles
-A l'ombre & sous l'abry de ces fleurs immortelles.
-Le temps ce vieux tiran de toutes les beautés
-N'eust jamais droit d'entrer dans ces lieux respectez,
-Et s'il regne par tout sur tout ce qui respire,
-Il perdra pres de vous ses droicts & son Empire :
-Sans cesse malgré luy je veux suivre vos pas.
-Vous venez rendre hommage à ses divins appas⁎,
-Plaisirs, venez icy mes compagnons fidelles,
-Et faites vostre Cour à la Reyne des belles.
-
--*who_jeunesse
-Voilà le foible essay de vos contentemens ;
-Vous aurez dans tous les momens
-Ou de nouveaux plaisirs ou des beautez pareilles.
-Commandez ; vous avez un plain pouvoir sur nous :
-Mais attendés encor de plus grandes merveilles
-De ces puissans amours, que je laisse avec vous.
-
--*who_semele
 Vous donc divins enfans, dont la seule puissance
 Peut d'un bon-heur sans borne affermir l'esperance,
 Pour élever ma gloire au comble de mes voeux,
@@ -1662,53 +1634,14 @@ Rendez un Dieu constant, comme il est amoureux.
 Mais quel nouvel éclat vient augmenter ma joye ?
 C'est Mercure, c'est luy que Jupiter m'envoye.
 
-**** *book_ *id_III04 *act_III *date_1666 *creator_boyer 
-
--*who_junon
-Ouy je viens de sa part vous tirer d'une erreur,
-Qui vous livre aux desirs d'un infame imposteur.
-Un amant⁎ qui se cache & qui n'oze paroistre
-Se nomme Jupiter & se vante de l'estre ;
-L'Enfer preste à sa flâme⁎ un merveilleux pouvoir,
-Et tout ce qu'en ces lieux ces charmes vous font voir
-N'est qu'une illusion d'images empruntées,
-Et le pompeux amas de beautez enchantées.
-
--*who_semele
 Est-ce vous que j'entens, Mercure ? quoy Venus
 L'Aurore, & d'autres Dieux si grands & si connus,
 Ont ils authorisé cette lâche imposture ?
 Contre leur témoignage en croiray-je Mercure ?
 
--*who_junon
-Non non n'en croyez pas le fils de Jupiter,
-De cette douce erreur vous devez vous flatter ;
-Mettez dans vostre esprit cette belle chimere ;
-Dites, pour vous tromper que je trompe mon pere :
-Puisque Europe autrefois eust dequoy le charmer,
-Vous estes de son sang, il peut bien vous aymer ;
-Ce n'est pas d'aujourd'huy qu'il ayme des mortelles,
-Et l'on peut vous compter au nombre des plus belles ;
-Tout le Ciel a-t'il rien, qu'on vous peust comparer ?
-Jupiter à Junon vous a deu preferer :
-Elle est Reyne du monde, elle est belle & deesse ;
-Mais enfin elle est femme & vous estes maistresse⁎ :
-Ce beau nom vous suffit & c'est assez pour vous
-De vaincre une Deesse aux yeux de son espoux.
-J'ay pitié d'un orguëil si foible & si credule,
-Et pour destruire enfin une erreur ridicule,
-Qui du grand Jupiter merite le courroux,
-Fantômes decevans évanouyssez-vous.    
-Hé bien m'en croirez-vous ?
-
--*who_semele
       Ah surprise mortelle.
 J'ay pris pour Jupiter un fourbe un infidelle⁎.
 
--*who_junon
-Voila de vostre orguëil la vaine illusion.
-
--*who_semele
 Vous me couvrez de honte & de confusion⁎.
 Quoy cet amour d'un Dieu, cette illustre avanture,
 Quoy tout ce que j'ay veu n'estoit qu'une imposture ?
@@ -1721,47 +1654,13 @@ Contre un faux Jupiter ridicule secours,
 Allez qu'à d'autres soins vostre pouvoir s'applique ;
 Enfans d'une Venus trompeuse & chimerique.
 
--*who_amours
-Nous t'alons obeïr, mais s'il faut te quitter
-Princesse écoute au moins ce fidelle⁎ langage.
-Cet envoyé de Jupiter
-T'abuze par un faux message :
-Ce feint ou vray Mercure est luy-mesme un trompeur ;
-Sçache que ce n'est point un imposteur qui t'ayme,
-C'est Jupiter luy-mesme.
-Nul ne sçayt mieux que moy le secret de son cœur.
-
-**** *book_ *id_III05 *act_III *date_1666 *creator_boyer 
-
--*who_semele
 Quelle est cette estonnante⁎ & bizarre avanture ?
 Et qui croiray-je enfin d'amour ou de Mercure ?
 
--*who_junon
-Princesse en doutez-vous ?
-
--*who_semele
       Puis-je n'en pas douter ?
 Vous estes confident & fils de Jupiter,
 Mais peut-estre qu'amour son vainqueur & son Maistre…
 
--*who_junon
-L'en croyez-vous si-tost qu'il se vante de l'estre ?
-Ces yeux à qui l'amour doit le nom de vainqueur
-N'ont garde de douter d'un si charmant honneur ;
-Vous pourriez toutesfois, sçachant ce que vous estes
-Prendre d'autres garands pour de telles conquestes.
-Mais n'en croyez icy Mercure ny l'amour,
-Et dans ces lieux suspects craignez quelque faux jour.
-Que ce Dieu supposé si grand en apparence
-Vous fasse un digne essay de sa toute puissance ;
-Qu'il descende du Ciel avec la foudre en main,
-Avec tout l'appareil du pouvoir souverain,
-Et tel qu'il est enfin quand pour plaire à sa femme,
-Il s'offre tout brillant de lumiere & de flâme.
-C'est comme⁎ cet amant⁎ se doit montrer à vous ;
-
--*who_semele
 Ouy sans doute il me doit un spectacle si doux :
 C'est ainsi qu'à mes yeux cet amant⁎ doit paroistre ;
 S'il n'est pas Jupiter, il est digne de l'estre.
@@ -1776,112 +1675,6 @@ Vostre nom vos discours m'obligent de vous croire ;
 Mais il faut que l'essay, dont vous estes l'autheur
 Me montre clairement que j'ayme un imposteur.
 
-**** *book_ *id_III06 *act_III *date_1666 *creator_boyer
-
--*who_junon
-Va ce fatal essay te coustera la vie ;
-Tu mourras ma rivalle & ma rage assouvie…
-Mais j'apperçoy Momus.
-
-**** *book_ *id_III07 *act_III *date_1666 *creator_boyer 
-
--*who_momus
-      Ah ! Mercure est-ce toy ?
-Viens-tu pour mon honneur reprendre ton employ ?
-Tu sçais quelles raisons m'ont fait prendre ta place ;
-Mais j'ayme mon mestier, & le tien m'embarrasse.
-Il faut pour ce commerce⁎ un confident discret,
-Et je suis fort mal propre à garder un secret.
-De l'employ de censeur, je ne puis me defaire :
-Mon metier vaut celuy de Jupiter ton pere :
-Qu'il dispose de tout, qu'il regne dans les Cieux,
-Qu'il gouverne à son gré les hommes & les Dieux,
-Il a droit de tout faire, & j'ay droit de tout dire ;    
-Il est armé de foudre, & moy de la satire :
-L'empire d'un censeur va plus loin que le sien ;
-Il épargne les Dieux, & je n'épargne rien :
-Quand je puis censurer selon ma fantaisie,
-C'est un plaisir qui vaut toute nostre ambrosie⁎.
-Toy qui fais vanité de plaire & de flatter ;
-Toy qui trahis Junon pour servir Jupiter…
-Mais tu resves, d'où vient un si morne silence
-A l'orateur des Dieux ; au Dieu de l'éloquence ?
-
--*who_junon
-Ah ! Momus connois mieux sous ces traits supposez,
-Celle qui se déguise à tes yeux abusez⁎ ;
-Tu vois icy Junon sous ce nouveau visage.
-
--*who_momus
-Je viens de vous laisser dans un autre équipage⁎,
-La maistresse des Dieux se déguiser ainsi ?
-Je blâmois Jupiter & je vous blâme aussi.    
-C'est sans doute un effet de vostre jalousie.
-
--*who_junon
-Toy qui sçays les transports⁎ de cette frenesie,
-Pourquoy m'as tu fait voir en amy peu discret,
-(Par zele ou par chagrin) cet azile secret,
-Que Jupiter expres a fait pour sa maistresse⁎ ?
-
--*who_momus
-Je ne puis rien cacher, c'est mon foible, Déesse.
-D'ailleurs si de ce Dieu j'évante le secret,
-C'est un juste despit qui me rend indiscret⁎ ;
-Quand pour servir sa flâme⁎ je m'erige en Mercure,
-Je trahis son amour pour vanger mon injure,
-
--*who_junon
-Et j'ay sçeu profiter d'un secret éventé,
-Faisant évanoüir le jardin enchanté,
-Et trompant Semelé dessous cette apparence ;
-Elle croit mes advis, les suit sans deffiance,
-Et de ces faux conseils ignorant le danger…
-
--*who_momus
-Quoy tousjours dans l'esprit le soin⁎ de vous vanger ?
-
--*who_junon
-Verray-je sans courroux ces amours infidelles⁎,
-Et tout mon bien en proye à des beautez mortelles ?
-
--*who_momus
-Et ne sçavez-vous pas Déesse qu'un grand Dieu
-Ne sçauroit s'empescher d'aymer en plus d'un lieu ?
-Qu'ayant un riche fonds de tendresse & de flâme⁎,
-Il en peut dérober quelque part à sa femme.
-Voulez-vous tout pour vous, tout son temps, tout ses soins ?
-Pour estre un peu galand vous en ayme-t'il moins ?
-Croyez-moy, laissez-luy ces ardeur⁎ passageres,    
-Cette courte inconstance, & ces flâmes⁎ legeres :
-Les beautez de la terre avec tous leurs appas⁎
-Amusent Jupiter, & ne l'arrestent pas.
-
--*who_junon
-Quoy le censeur des Dieux excuse un infidelle⁎ ?
-
--*who_momus
-Je me lasse d'ouïr cette vieille querelle,
-Ce courroux importun qui trouble tous les Cieux,
-Et dont vous fatiguez les hommes & les Dieux.
-
--*who_junon
-En effet je rougis de l'ardeur⁎ qui m'emporte ;
-Va dire à Jupiter que ma fureur est morte :
-Mais cache luy l'estat où tu trouves Junon ;
-Adieu je vais reprendre & mon char & mon nom.
-
--*who_momus
-Je vous seray fidelle, & je sçauray me taire,
-Elle a beau déguiser sa haine & sa colere ;
-Elle m'en a trop dit pour cacher son courroux.
-Allons de sa vengeance advertir son époux :    
-Sy j'offence Junon, que ne se souvient-elle
-Que j'ay pour le secret une haine mortelle ?
-
-**** *book_ *id_IV01 *act_IV *date_1666 *creator_boyer
-
--*who_semele
 Cesse de m'abuser⁎ esperance orgueilleuse ;
 Je ne voy plus le Dieu qui regne dans mon cœur,
 Il se cache cet imposteur,
@@ -1927,9 +1720,6 @@ Et pour ne laisser plus balancer⁎ la victoire,
 Ne laisse plus parler la gloire,
 Je l'ay presque oubliée en faveur de l'amour.
 
-**** *book_ *id_IV02 *act_IV *date_1666 *creator_boyer 
-
--*who_semele
 Vien, Dircé, vien calmer le trouble de mon ame ;
 Je consultois icy mon orgüeil & ma flame⁎,
 Et mon cœur partagé combatoit tour à tour,
@@ -1942,24 +1732,12 @@ Ce cœur tout indigné me presse de le rendre ;
 Mais ma gloire aussi-tost semble me le deffendre,
 Et je sens de l'orgueil l'imperieuse loy,
 Prendre, malgré l'amour, trop de pouvoir sur moy.
-
--*who_dirce
-Quel est donc cét orgüeil, Madame, qu'il s'explique,
-Luy, qui parle si fort pour un Dieu chimerique.
-La gloire defend-elle à ce cœur abusé⁎,
-De preferer un Prince à ce Dieu supposé ?
-
--*who_semele 
+ 
 La gloire permet-elle à ma flame⁎ trompée,
 Qui de l'espoir d'un Dieu s'estoit preoccupée,
 D'accepter un mortel, & par ce changement,
 Faire éclater ma honte & mon aveuglement ?
 
--*who_dirce
-Mais d'un scrupule vain vostre gloire est gesnée⁎ :
-On vient d'ouvrir pour vous le temple d'Hymenée.
-
--*who_semele
 Ah ! Dircé, c'est icy qu'un scrupule si fort,    
 Pour revolter mon cœur redouble son effort.
 Quoy j'aurois dit par tout que c'est un Dieu que j'aime,
@@ -1975,25 +1753,6 @@ Ramassez vostre force, on vient pour vous combattre ;
 Ne vous desmentez point, espargnez à mon front,
 La honte qui suivroit un changement si prompt.
 
-**** *book_ *id_IV03 *act_IV *date_1666 *creator_boyer
-
--*who_alcmeon
-Madame vous sçavez l'ordre de vostre pere :
-Pardonnez, si l'ardeur⁎ d'un amour temeraire,
-Se laissant emporter au dernier desespoir,
-Abuse contre vous du souverain pouvoir.
-Je me suis dis cent fois en secret, à moy-mesme,
-Qu'il faut cesser d'aimer quand Jupiter vous aime,
-Et que d'un foible amant⁎ le sort trop inégal,    
-Doit trembler prés d'un Dieu qui s'est fait mon rival.
-Toutesfois je ne puis luy ceder ma Princesse,
-Et quand trop de puissance estonne⁎ ma foiblesse,
-A ma flame⁎ en secret je preste cét appuy,
-Il peut tout, il est Dieu, mais j'aime plus que luy,    
-Et s'il faut à son rang ceder tout l'avantage,
-Quiconque a plus d'amour merite davantage.
-
--*who_semele
 Qui vous fait presumer qu'il aime moins que vous ?
 Mais je veux que son cœur ne soit pas tout à nous,
 Je veux que d'autres soins⁎ occupent sa memoire ;
@@ -2001,18 +1760,9 @@ Un regard que pour nous il desrobe à sa gloire,
 Un penser⁎ destourné des soins⁎ de sa grandeur,
 Un seul souspir vaut plus que toute vostre ardeur⁎.
 
--*who_alcmeon
-Ah ! Princesse, l'amour parle un autre langage ;
-La seule ambition touche vostre courage.
-
--*who_semele
 Quoy le grand Jupiter, un si parfait amant⁎,
 Ne peut-il d'un cœur tendre estre aimé tendrement ?
 
--*who_alcmeon
-Peut-on l'aimer ainsi si son cœur est volage ?
-
--*who_semele
 Il suffit un moment d'avoir cét avantage :
 Ce moment glorieux respand sur l'advenir
 L'eternelle douceur d'un si beau souvenir.
@@ -2021,90 +1771,14 @@ Je sçay que vostre hymen⁎ me promet un Empire ;
 Mais l'hommage d'un Dieu, fust-il d'un seul moment,
 Vaut cent throsnes offerts des mains d'un autre amant⁎.
 
--*who_alcmeon
-Poussez jusques au bout cette belle maxime :
-Ce digne emportement rend le mien legitime :
-Mesprisez le pouvoir & d'un pere & d'un Roy ;
-Faites tout pour ce Dieu, je feray tout pour moy.
-
--*who_semele
 Quoy ne voyez-vous pas, le Dieu qui vous menace ?
 
--*who_alcmeon
-Je crains peu son courroux, si vous me faites grace.
-
--*who_semele
 C'est vous perdre⁎, Seigneur, que de vous secourir.
 
--*who_alcmeon
-N'importe, je ne veux que vous seule & mourir.
-Que Jupiter esclate & me reduise en poudre,
-Que je tombe à vos pieds, & par un coup de foudre.
-Puis-je me reserver pour un plus digne autel ?
-Dois-je eschaper aux coups de ce bras immortel ?
-Pour le moins, puis qu'enfin il faut que je perisse,
-Je puis faire à vos yeux un si grand sacrifice,
-Que le plus grand des Dieux en doit estre jaloux.
-
--*who_semele
 Que pouvez-vous pour moy ?
 
--*who_alcmeon
-      Je puis mourir pour vous,
-Et rien ne vaut aux yeux de mon amour fidelle,
-La gloire d'une mort dont la cause est si belle :
-Ce Dieu pour qui je voy qu'on veut m'abandonner,
-A-t'il du sang à perdre, une vie à donner ?
-Et si vous demandez & son sang & sa vie,
-Vostre Dieu pourroit-il contenter vostre envie ?
-
--*who_semele
 Vivez, Prince, vivez, & peut-estre qu'un jour…
 
--*who_alcmeon
-Et peut-estre est-ce là l'espoir de mon amour ?
-Apres que Jupiter à vos vœux infidelle⁎,
-Aura mis dans son cœur une flame⁎ nouvelle,
-Peut-estre alors vos vœux ne seront que pour moy.
-Non, non cruelle⁎, il faut suivre l'ordre du Roy ;
-Je veux absolument achever l'hymenée⁎.
-
-**** *book_ *id_IV04 *act_IV *date_1666 *creator_boyer 
-
--*who_hermione
-En vain aupres du Roy ma tendresse obstinée,
-A tasché de combattre un hymen⁎ resolu ;
-Il faut aller au temple, & l'ordre est absolu.
-Esclave de sa foy⁎, dont il fait son idole,
-Il croit devoir aux Dieux bien moins que sa parolle,
-Et sans considerer un Dieu fier & jaloux,
-Pour tenir sa promesse, il brave son courroux.
-Mais que pretendez-vous, Alcmeon ?
-
--*who_alcmeon
-      Ah ! Madame,
-Je connoy tout entier le mal-heur de ma flame⁎:
-Mais dans mon desespoir contre la trahison,
-Je ne connois ny Dieux, ny conseil, ny raison.
-Resister contre un Dieu c'est une audace extreme ;
-Mais enfin qu'ay-je à craindre en perdant ce que j'aime ?
-Si je luy cedois tout, par la peur de perir,    
-Il me laisseroit vivre, & je cherche à mourir.
-
--*who_hermione
-Perdez, Prince, perdez cette funeste envie ;
-Conservez pour le throsne une si belle vie ;
-Souffrez⁎ que Jupiter…
-
--*who_alcmeon
-      Que me demandez-vous ?
-En gardant Semelé sera-t'il son espoux ?
-Je sçay bien que ce Dieu consacre⁎ ce qu'il aime,
-Qu'au sang de vostre fille il s'attache luy-mesme ;
-Mais prefererez-vous de legeres amours,
-Aux ardeurs⁎ d'un mortel qui dureront tousjours ?
-
--*who_semele
 Mais enfin que ce Dieu soit constant ou volage,
 Je l'aime, je l'adore, en faut-il davantage ?
 Je le repete encor', n'aimast-il qu'un moment,
@@ -2114,189 +1788,14 @@ Je sçay plus d'un moyen pour conserver ma gloire,
 Et c'est trop pour vanger mes vœux humiliez,
 De voir un seul moment Jupiter à mes pieds.
 
--*who_hermione
-Prince vous la voyez pleine de cette idée,
-De l'orgüeil de son choix tellement possedée,
-Qu'il n'est point de mortel, qu'elle veüille escouter,
-Ny peut-estre de Dieu s'il n'est pas Jupiter.
-Laissez à sa fierté ces biens imaginaires,
-Ces nobles visions, ces brillantes chimeres.
-Vous, portez autre part vos amoureux desirs,
-L'ingratte ne veut pas l'honneur de vos souspirs ;
-Retirez vostre cœur des mains d'une infidelle⁎.
-
--*who_alcmeon
-Je voy dans vos conseils plus d'orgueil que de zelle.
-Vostre fille n'agit que par vos mouvemens,
-Elle a tout vostre cœur, & tous vos sentimens.
-Vous croyez que le sang d'une race divine,
-A droit de remonter jusqu'à son origine,
-Et que sans voir l'abysme, où l'orgüeil la conduit,
-Il est beau de tomber, quand on tombe avec bruit.
-Le Roy…mais il s'avance.
-
-**** *book_ *id_IV05 *act_IV *date_1666 *creator_boyer 
-
--*who_cadmus
-      Hé bien se rendra-t'elle,
-Cette ame ambitieuse à mes loix si rebelle !
-Croit-elle que le nom de souverain des Dieux,
-Que ce nom éclatant ait esblouy mes yeux ?
-Je n'examine point si c'est histoire ou fable,
-Et si son Jupiter est feint ou veritable.
-Quoy qu'il en soit, il peut uzer de son pouvoir ;
-Mais non pas m'empescher de faire mon devoir.
-Venez, Seigneur, suivez, & vous aussi Princesse ;
-Allons dedans ce Temple accomplir ma promesse.
-
--*who_semele
 Que faites-vous, Seigneur ; j'embrasse vos genoux.
 
--*who_hermione
-C'est tout perdre, Seigneur, & j'en tremble pour vous.
-
--*who_semele
 Voulez-vous irriter le maistre du tonnerre ?
 
--*who_hermione
-Luy prefererez-vous un amant⁎ de la terre ?
-
--*who_semele
 Vous devez à ses loix bien plus qu'à vostre foy⁎.
-
--*who_hermione
-Un Dieu peut dégager la parolle d'un Roy.
-
--*who_semele 
+ 
 Par luy vostre grandeur doit estre sans seconde.
 
--*who_hermione
-Par luy Thebes sera la maistresse du monde.
-
--*who_cadmus
-Esprits ambitieux que vous connoissez mal,
-Le peril d'un amour qui vous sera fatal !    
-Et ne sçavez-vous pas que les Dieux infidelles⁎,
-Au gré de leurs desirs, se joüent des mortelles,
-Et que l'illusion d'un orgueil abusé⁎,
-D'un mortel quelquesfois fait un Dieu supposé ?
-Allons sans plus tarder au temple d'Hymenée,
-De ce Prince à la vostre unir la destinée.
-
-**** *book_ *id_IV06 *act_IV *date_1666 *creator_boyer
-
--*who_hymenee
-N'attend rien de l'Hymen, ny du reste des Dieux,
-Le Ciel a pour toy tant de haine,
-Que je me voy forcé d'abandonner ces lieux,
-Par le commendement d'une loy souveraine.
-
--*who_cadmus
-Que vois-je, justes Dieux, quel est ce grand courroux ?
-Et le temple, & le Dieu, tout s'enfuit devant nous.
-Et je vois à leur place un horrible spectacle.
-Dieux que m'annoncez-vous par cet affreux⁎ miracle !
-
--*who_alcmeon
-Vostre perte & la mienne, il n'en faut plus douter :
-Des coups si surprenans partent de Jupiter.
-Je vous l'ay desja dit, c'est Jupiter luy-mesme,
-Qui veut par ses efforts m'arracher ce que j'aime.
-Sortons, Seigneur, sortons de ces lieux pleins d'effroy ;
-Helas ! je ne vaux pas le trouble où je vous voy.
-De plus heureux destins attendent la Princesse.
-
--*who_cadmus
-Je crains peu ces horreurs, & je suis sans foiblesse.
-Jupiter à son gré, ce fameux ravisseur,
-Peut enlever ma fille aussi-bien que ma sœur ;
-Mais que d'un Dieu tyran la fureur obstinée,
-S'oppose incessamment à ce juste hymenée⁎,
-Je tiendray ma parole, & j'iray jusqu'au bout.
-
--*who_hermione
-Vous obstinerez-vous contre un Dieu qui peut tout ?
-Voyez encor l'enfer pour rompre vostre envie,
-De ce fonds tenebreux vomir une furie,
-Fuyons Seigneur.
-
--*who_cadmus
-      Fuyons, allons en d'autres lieux,
-Achever cet hymen⁎, & chercher d'autres Dieux.
-
-**** *book_ *id_IV07 *act_IV *date_1666 *creator_boyer 
-
--*who_jalousie
-Arreste, pere aveugle, ou menes-tu ta fille ?
-Ce mal-heureux hymen⁎ va perdre⁎ ta famille.
-Au lieu de l'Amitié⁎, de l'Honneur, de la Foy,
-Qui doivent assister à l'heureux hymenée⁎,
-Pour unir cét amant⁎ à cette infortunée,
-Tu n'auras d'autres Dieux que moy.
-Je suis la noire Jalouzie,
-Qui puis quand je le veux par un poison fatal,
-Des plus heureux amans⁎ broüiller la fantaisie :
-Crain pour tous deux le fleau de l'amour conjugal.
-Adieu, je vais semer mille & mille querelles,
-Chez les amans⁎ les plus fideles.
-
-**** *book_ *id_IV08 *act_IV *date_1666 *creator_boyer 
-
--*who_hermione
-Vous le voyez Seigneur tout parle contre vous.
-
--*who_cadmus
-Non non, & tous les Dieux ne sont pas contre nous ;
-C'est de son imposteur le dernier artifice⁎ ;
-De ces illusions l'enfer est le complice.
-Qu'il arme encor s'il peut le Ciel contre mon choix :    
-La parole & l'honneur sont les Dieux des grands Roys.
-Mais il nous reste encore nostre grande Déesse.
-C'est à toy seule enfin Pallas, que je m'adresse,
-Pour unir ces amans⁎ preste nous tes Autels,
-Et redouble l'ardeur⁎ de tes soins immortels.     
-Nous sommes exaucez, malgré ces noirs presages,
-Madame je la vois au travers ces nuages ;
-La Déesse descend, & sa divinité
-Fait plus qu'à l'ordinaire éclatter sa fierté.
-
-**** *book_ *id_IV09 *act_IV *date_1666 *creator_boyer 
-
--*who_jupiter
-Roy de Thebes en vain en faveur de ta fille,
-J'ay pressé le grand Jupiter ;
-Ce Dieu ne veut plus m'écouter,
-Pour l'interest de ta famille :
-Ta des-obeyssance irrite son courroux.
-Roy, Reyne, Prince, allez, retirez-vous,
-Dérobez la Princesse à ce triste Himenée⁎ :
-C'est trop peu que le thrône il luy faut des Autels ;
-La hauteur de sa destinée
-La rend inaccessible aux soûpirs des mortels.
-
--*who_cadmus
-Déesse, j'obeis, toute ma resistance
-Ne sçauroit plus tenir contre vostre presence :
-Vous pouvez tout sur nous, & vostre seule voix
-Fait rompre sans remors la parolle des Roys.
-
--*who_jupiter
-Sortez donc de ces lieux qu'un chacun se retire.
-Vous Princesse arrestez, j'ay beaucoup à vous dire.
-
--*who_alcmeon
-Les Dieux ont secondé vostre injuste rigueur
-Cruelle⁎, ils devoient seuls achever mon mal-heur,
-Et j'avois merité de perdre ce que j'aime,
-Pour la haine des Dieux, & non pas par vous mesme.
-
--*who_hermione
-Joüis de ta fortune⁎ & soustiens dignement,
-L'illustre choix d'un Dieu, qui s'est fait ton amant⁎.
-
-**** *book_ *id_IV10 *act_IV *date_1666 *creator_boyer
-
--*who_semele
 Ah ! Deesse sans vous par un ordre severe…
 Mais que vois-je ? est-ce vous, Minerve ou vostre pere ?
 D'où me vient tout d'un coup un trouble si puissant ?
@@ -2306,10 +1805,6 @@ Ils ne sont pas de ceux qu'une Deesse inspire.
 Ces traits me sont conneus sous ce déguisement :
 C'est Jupiter luy-mesme, ou du moins mon amant⁎.
 
--*who_jupiter
-Princesse pouvez-vous separer l'un de l'autre ?
-
--*who_semele
 Mon amour est trop grand pour soupçonner le vostre.
 Les surprenans effets d'un merveilleux pouvoir,
 Cent miracles d'amour me le font assez voir.
@@ -2318,12 +1813,6 @@ Et je puis opposer Jupiter à luy-mesme,
 Puisqu'un Dieu de sa part, dont je ne puis douter,
 M'apprend qu'un imposteur s'erige en Jupiter.
 
--*who_jupiter 
-Momus m'a tout appris touchant cette imposture :
-Junon vous a parlé sous l'habit de Mercure,
-Et pour vous abuser⁎ me traittant d'imposteur…
-
--*who_semele
 S'il est ainsi, pourquoy connoissant mon erreur,
 Me laisser si long-temps dans cette incertitude,
 Et livrer mon amour à tant d'inquietude ?
@@ -2335,128 +1824,51 @@ Suspendre un seul moment vostre divin employ ;
 Quand on n'a rien à faire alors on pense à moy :
 C'est le sort malheureux d'une foible mortelle.
 
--*who_jupiter
-Hé ! ne voyez-vous pas, Princesse avec quel zele,
-Je m'oppose aux desirs d'un pere & d'un amant⁎ :
-Je fais dans vostre Temple un affreux⁎ changement ;
-Je sousleve l'Enfer, je descens sur la terre ;
-J'abandonne le Ciel, ma gloire & mon tonnerre,    
-Et sçachant qu'en ces lieux Minerve a tout pouvoir,
-Sous l'habit de Minerve icy je me fais voir.
-
--*who_semele
 N'avez-vous pas par tout une égalle puissance ?
 Pourquoy vous desguiser sous une autre apparence ?
 Jupiter doit rougir sous un nom estranger :
 Un Dieu quand il peut tout n'a rien à ménager.
 Ah ! vous ne l'estes pas, ou n'ozez le paroistre.
-
--*who_jupiter
-Que faut-il faire enfin pour me faire connoistre ?
-J'atteste du destin le pouvoir glorieux,
-Que s'il est un moyen pour me connoistre mieux…
-
--*who_semele 
+ 
 Il en est, & j'en sçay qui seront infaillibles,
 Monstrez de Jupiter des marques plus sensibles⁎.
 Vous devez autrement vous monstrer en ce lieu ;
 Pour vous faire connoistre il faut paroistre en Dieu.
 
--*who_jupiter
-Que me demandez-vous trop aveugle Princesse ?
-Ah ! c'est là le conseil de la grande Deesse.
-Gardez-vous d'escouter ce conseil dangereux ;
-Contentez-vous de voir Jupiter amoureux,
-Jupiter desarmé de ces clartez terribles⁎,
-Qui rendent aux mortels les Dieux inaccessibles.
-
--*who_semele
 Est-ce trop de le voir une fois glorieux ?
 Ah ! ne refusez pas ce plaisir à mes yeux ;
 Monstrez-moy mon amant⁎ avecque tous ses charmes.
 Ah ! vous ne m'aimez point…
 
--*who_jupiter
-      Ah ! cachez-moy ces larmes.
-Helas ! sçavez-vous bien ce que vous demandez ?
-
--*who_semele
 Tout me semblera doux si vous me l'accordez ;
 Vous me l'avez juré, Jupiter c'est tout dire.
 
--*who_jupiter
-Je l'ay juré, Princesse, & mon cœur en souspire ;
-Mais songez aux perils qui menacent vos jours.
-
--*who_semele
 Quels perils ay-je à craindre avec vostre secours ?
-
--*who_jupiter
-Je ne sçay si je puis vous sauver de moy-mesme ;
-On s'oublie aisement aupres de ce qu'on aime.
-Un rayon échappé de cette majesté,
-De cet éclat qui sort d'une divinité,    
-Peut embrazer le monde & mettre tout en cendre.
-
--*who_semele 
+ 
 Plus contre mes desirs vous vous voulez defendre,
 Plus mon soupçon revient, plus j'ay lieu d'en douter,
 Si l'amant⁎ que j'adore est le vray Jupiter.
 
--*who_jupiter
-Faut-il vous le monstrer en perdant ce que j'aime ?
-
--*who_semele
 Vous me faire perir, c'est douter de vous-mesme.
 
--*who_jupiter
-Il n'est rien de si seur, croyez-en ces frayeurs ;
-Croyez un Dieu, qui tremble, & qui verse des pleurs.
-
--*who_semele
 Qu'ay-je à craindre d'un Dieu si tendre & si sensible ?
 
--*who_jupiter
-Ce Dieu-là devenir si fier & si terrible⁎…
-
--*who_semele
 Dans quelque estat qu'il soit il m'aimera tousjours.
 
--*who_jupiter
-L'amour dans cet estat est un foible secours.
-Je vous feray perir en dépit de moy-mesme.
-
--*who_semele
 Je ne crains rien d'un Dieu qui peut tout & qui m'aime.
 
--*who_jupiter
-Vous devez craindre tout, je vous laisse y penser.
-
--*who_semele
 Mon esprit sur ce point n'a rien à balancer⁎ ;
 Ne laissez plus languir cette douce esperance,
 Espargnez ce tourment à mon impatience.
 
--*who_jupiter
-Au nom de nostre amour…
-
--*who_semele
       Ah ! c'est trop contester !
 
--*who_jupiter
-Vous le voulez, Princesse, il faut vous contenter.
-
--*who_semele
 Que vois-je juste Ciel ! quel Dieu me les envoye,
 Ces fantômes affreux⁎ au milieu de ma joye ?
 
--*who_semele
 En vain par ces horreurs on veut m'épouventer,
 Quel qu'en soit le succés, je veux voir Jupiter.
 
-**** *book_ *id_V01 *act_V *date_1666 *creator_boyer
-
--*who_semele
 Que d'un superbe⁎ espoir mon ame possedée,
 Se fait de mon amant⁎ une agreable idée !
 Que j'auray de plaisir de le voir en ces lieux,
@@ -2474,58 +1886,14 @@ Veut-il faire mourir ce cœur d'impatience ?
 Te diray-je, Dircé, que j'oze encore douter,
 Si c'est un imposteur ou le vray Jupiter ?
 
--*who_dirce 
-Vostre doute, Madame, est assez raisonnable,
-Et quand vous trahissez un heros adorable,
-Peut-estre que le Ciel pour vanger vostre amant⁎…
-
--*who_semele
 Ah ! cruelle⁎ veux-tu redoubler mon tourment ?
 Mais j'aperçoy Momus, & je tremble à sa veüe.
 
-**** *book_ *id_V02 *act_V *date_1666 *creator_boyer
-
--*who_semele
 Viens-tu de Jupiter m'annoncer la venüe,
 Ou d'une vaine excuse amuser⁎ mon espoir ?
 
--*who_momus
-Non, non, vous le verrez.
-
--*who_semele
       Je brusle⁎ de le voir.
 
--*who_momus
-Pour vous du haut des Cieux il s'appreste à descendre :
-Mais un Dieu tel qu'il est peut bien se faire attendre.
-Quoy qu'il donne à l'amour ses momens les plus doux,
-Les soins de Jupiter ne sont pas tous pour vous.
-Vous le voulez donc voir avec toute sa pompe ;
-Vous vous abandonnez à l'orgueil qui vous trompe,
-Et sans considerer le peril qui le suit,
-Vous suivez follement l'amour, qui vous conduit.
-Vous aimez mieux le voir d'une ardeur⁎ indiscrette⁎
-Avec la foudre en main, qu'avec une houlette⁎ :
-Cet ornement sied mal au grand Maistre des Dieux ;
-Les feux & les esclairs le pareront bien mieux.
-Ah ! que vous estes femme, & que pour estre aimée :
-Du souverain des Dieux dont vous estes charmée,
-Vous avez dans la teste un orgueil dangereux !
-Voir sans bruit en secret Jupiter amoureux,
-C'est trop peu pour l'honneur d'une amante⁎ orgueilleuse ;
-Sa flame⁎ est une flame⁎ illustre, ambitieuse ;
-Alors qu'un Dieu nous aime on peut estre indiscret⁎,
-Et l'orgueil d'un tel choix ne veut pas le secret.
-En effet ce seroit perdre toute sa gloire,
-De vaincre un si grand Dieu, sans vanter sa victoire,
-Estre aimé selon vous n'est pas le plus grand bien :
-Un triomphe ignoré vous le comptez pour rien.
-Il faut s'accommoder à l'esprit d'une femme ;
-Vous demandez du bruit, vous en aurez, Madame ;
-Jupiter quand il veut en sçait faire beaucoup ;
-Il tonnera pour vous, mais gardez-vous du coup.
-
--*who_semele
 Qu'il esclaire, qu'il tonne au peril de ma vie ;
 Voyons tout Jupiter, c'est toute mon envie :
 Qu'on m'accuse d'orgueil, de trop d'ambition,
@@ -2535,23 +1903,6 @@ Comme Jupiter m'aime, il peut me faire grace :
 Il peut en ma faveur suspendre pour un temps,
 Tout ce qu'ont de mortel des feux trop éclattans.
 
--*who_momus
-C'est à dire forcer sa grandeur pour vous plaire,
-Et n'apporter chez vous qu'une foudre legere,
-Où son amour meslant ce qu'il a de plus doux,
-Y laissera bien moins de force & de courroux.
-Vous voulez de la pompe, & la voulez commode,
-Et qu'à vostre foiblesse un grand Dieu s'accommode.
-Vous beautez d'icy bas vous croyez follement
-Qu'on doit tout immoler quand on est vostre amant⁎,
-Et qu'on peut d'un Dieu mesme exiger sans scrupule,
-L'effet le plus bizarre & le plus ridicule.
-Jupiter a pour vous le cœur fort radoucy ;
-Mais ce n'est pas un Dieu qui se gouverne ainsi.
-Vous le verrez ce Dieu, tel qu'un Dieu doit paroistre,
-Et tel qu'il l'a juré pour se faire connoistre.
-
--*who_semele
 C'est comme je le veux, il ne me plairoit pas,
 S'il n'apportoit chez moy tous ses divins appas⁎ :
 Ces foudres, ces esclairs, cette pompe terrible⁎,
@@ -2559,120 +1910,301 @@ Me rendront de ce Dieu la presence sensible⁎ :
 Je ne douteray plus, & pour ne plus douter,
 M'embraze de ses feux le puissant Jupiter.
 
--*who_momus
-Dans vostre appartement vous le pouvez attendre.
-Ce tumulte m'apprend qu'il s'appreste à descendre.
-
--*who_semele
 Ce tumulte agreable a passé dans mon cœur.
 Grand Dieu, venez, hastez ma gloire & mon bon-heur.
 
-**** *book_ *id_V03 *act_V *date_1666 *creator_boyer
-Je descends sur la terre avec toutes mes armes,
-Avec tout ce que j'ay de puissance & de charmes ;
-Mais parmy tant d'éclat quel destin est le mien ?
-Je crains pour Semelé cette pompe mortelle :
-Ainsi dans cet estat, Amour tu le sçais bien,
-Quand je fais tout trembler, mon cœur tremble pour elle
 
--*who_momus
-Quoy pour une mortelle apporter icy bas
-Cette affreuse⁎ beauté, ces dangereux appas⁎ !
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alcmeon
 
--*who_jupiter
-Tu ne vois qu'un essay de cét éclat terrible⁎,
-Qui doit rendre à ses yeux tout Jupiter visible :
-De peur d'offrir icy ma gloire à d'autres yeux,
-J'affoiblis tous les traits du grand maistre des Dieux ;
-Ils sont pour ma Princesse, & ce n'est qu'aupres d'elle
-Que je veux estaller cette pompe immortelle.
-Tu l'as veuë, & tu sçais jusqu'où va cette ardeur⁎,
-De voir toute ma gloire, & toute ma grandeur.
+Madame pardonnez à mon impatience.
 
--*who_momus
-Ouy, mais quand vous venez contenter son envie,
-Songez-vous bien au moins au peril de sa vie ?
+Par un doute cruel⁎ mon cœur est si pressé⁎,
+Qu'il veut sçavoir le coup dont il est menacé :
+Je meurs à tout moment dans cette incertitude,
+Prenez quelque pitié de mon inquietude ;
+De grace apprenez moy quelle ingratte froideur
+Change l'heureux destin de ma fidelle ardeur⁎.
+On vient de m'asseurer qu'on voit naistre en vostre ame
+Le remors d'un adveu favorable à ma flâme⁎ :
+Depuis que mon amour me retient dans ces lieux
+N'ay je pas fait pour vous ce qu'on fait pour les Dieux ?
+C'est de vous aussi bien que du Roy vostre pere,
+Que j'ay receu l'adveu d'une flâme⁎ si chere.
+Ay je arraché ce cœur ? vous me l'avez donné
+Ce cœur, pour qui le mien eust tout abandonné,
+Que si pour meriter un don si favorable
+J'ignore l'art d'aymer, & de se rendre aymable⁎,
+Au moins j'ay dans mon cœur, dequoy vous enflammer,
+Si pour se rendre aymable⁎ il ne falloit qu'aymer.
+Les plus profons respects, la plus forte tendresse…
+Mais je vous parle en vain infidelle⁎ Princesse ;
+Au desordre⁎ inquiet, qui trouble vos appas⁎,
+Ingratte je voy bien qu'on ne m'écoute pas.
 
--*who_jupiter
-Je connoy le peril, il n'en faut point douter :
-Mais Jupiter l'a dit, il faut l'executer.
-Contre un serment lasché tout respect est frivole,
-Et le destin n'est pas plus seur que ma parole.
-Tout le sort des mortels est trop à negliger,
-Quand pour eux nostre gloire est en quelque danger.
-J'aime, mais j'aime en Dieu, sans honte & sans foiblesse,
-La gloire fut tousjours ma premiere maistresse ;
-Si je preste à l'amour ma gloire & mon pouvoir,
-Je sçay sacrifier l'amour à mon devoir.
-J'adore Semelé, le peril est extreme ;
-Monstrant ce que je suis j'expose ce que j'aime ;
-Sa curiosité luy va couster le jour ;
-Je le voy, tout mon cœur tremble pour mon amour.
-Je voudrois retenir cette foudre, & ces flames,
-Mais quand l'amour a mis son trouble dans nos ames,
-Tout eschappe au milieu de ces charmants transports⁎,
-Et le dedans troublé respond mal au dehors.
-Cependant ma parole a sur moy tant d'empire…
+      Achevez, dites moy quel mal-heur,
+Quel rival me dérobe une amitié⁎ si tendre ?
 
--*who_momus
-En effet un grand Dieu ne doit pas se dédire⁎ :
-Il fait de sa parole une eternelle loy,
-Perisse tout plustost que manquer à sa foy⁎.
-Depuis quand avez-vous ce scrupule dans l'ame ?
-Cette fidelité qui trahit vostre flame⁎,
-N'est-ce point un pretexte à quelque changement ?
-Vous vantez un peu trop le pouvoir d'un serment ;
-Je crois qu'à Semelé vous n'estes si fidelle,
-Que par le seul espoir de vous deffaire d'elle.
+      Je ne vous quitte point
+A moins…
 
--*who_jupiter
-Tu respens ton venin sur tout ce que je fais ;
-Mais voyons Semelé, contentons ses souhaits.
-Tu vois ce que je fais en dépit de moy-mesme ;
-Amour sauve de moy si tu peux ce que j'aime.
-Toy garde icy mon aigle attendant mon retour.
+Helas je le voy bien, vous en aymez un autre.
 
--*who_momus
-Je garderay vostre aigle, & vous ferez l'amour⁎.
+Ah Princesse…
 
-**** *book_ *id_V04 *act_V *date_1666 *creator_boyer 
+C'est peu de me trahir, on vante mon rival,
+On veut que sa puissance estonne⁎ ma colere,
+Quel est donc ce rival ?
 
--*who_momus
-Fiez⁎-vous à ce Dieu, qui malgré sa tendresse,
-Au respect d'un serment immole sa maistresse⁎.
-Vantez vostre pouvoir, vous allez voir enfin,
-Orgueilleuse beauté quel est vostre destin.
-Durant que Jupiter demeure sur la terre,
-Au gré de mon chagrin gouvernons son tonnerre,
-Apprenons aux mortels à nous mieux respecter,
-Et monstrons à la terre un autre Jupiter.
-Mais quoy je voy desja des flames allumées,
-Des gens espouventez, des femmes allarmées ;
-Le palais est en feu, Jupiter dans les airs
-S'enfuit enveloppé de flammes & d'éclairs.
-Quelqu'un vient, en ces lieux je ne doy plus paroistre.
-Aigle remonte au Ciel, & vole apres ton maistre.
+Et vous voulez ainsi flatter⁎ mon desespoir.
+Helas je le voy bien, ce rival qui se cache,
+Pour ma honte & la vostre est un perfide, un lâche ;
+Pour vous justifier il paroistroit au jour,
+S'il avoit merité l'honneur de vostre amour :
+Mais par un sort fatal qui comble ma disgrace,
+Un indigne rival vient de prendre ma place.
 
-**** *book_ *id_V05 *act_V *date_1666 *creator_boyer 
+Quel qu'il soit, ce rival triomphe dans vostre ame,
+C'est là qu'il peut braver mon courroux & ma flâme⁎ :
+Mais nous le connoistrons ce rival si charmant.
+Cependant dites luy que je suis vostre amant⁎,
+Et qu'on n'enleve point, sans couster bien des testes,
+A des gens comme nous de semblables conquestes.
 
--*who_dimas
-Ah ! Seigneur.
+Vous me voyez frappé d'une atteinte mortelle,
+Seigneur, on me trahit ; je viens de tout sçavoir ;
+Un rival en secret m'oste tout mon espoir.
 
--*who_alcmeon
+Je viens de le sçavoir, Seigneur, de la Princesse.
+
+Helas c'est bien assez du pouvoir de ses charmes,
+
+A l'entendre parler du choix qu'elle se donne,
+Son merite est d'un pris plus haut que la Couronne.
+
+Cependant mon mal-heur, n'est que trop assuré.
+
+Seigneur tout est changé ; la Princesse elle mesme
+D'un air si transporté⁎ m'a vanté ce qu'elle ayme,
+Qu'il n'est mortel ny Dieu qui lui puisse estre égal.
+Elle veut que je tremble au nom de ce rival,
+Et sa fausse pitié qui craint pour ma foiblesse,    
+Veut que sans murmurer je cede la Princesse ;
+Qu'une lâche terreur estouffe mes desirs,
+Et cache au fonds du cœur jusqu'aux moindres soupirs.
+
+Ah ! Madame, ah ! Seigneur, sans forcer ma Princesse,
+Laissez-la disposer de toute sa tendresse :
+Mes maux sont trop cruels⁎ pour les pouvoir guerir :
+C'est assez de l'aimer, l'adorer, & mourir.
+
+Ce beau berger est-il de vostre confidence ?
+
+      Je vous apporte un advis d'importance,
+Et n'oze devant luy…
+
+J'ay tort de l'interrompre ; & je voy bien Madame,
+Puis que vous luy fiez⁎ le secret de vostre ame,
+Que c'est luy qui souvent vous attire en ces lieux.
+C'est donc là ce rival si fier, si glorieux ;
+Puis donc qu'on ne craint rien d'un témoin si fidelle,
+Apprenez le sujet d'une douleur mortelle.
+Malgré tous mes conseils, contre vostre dessein,
+Le Roy vous veut contraindre à me donner la main,
+Et pour ce coup fatal marque cette journée.
+
+C'est à ce digne amant⁎ faire trop d'injustice,
+De prendre en ce besoin⁎ conseil de son rival.
+
+Hé quoy vous me bravez ?
+
+C'est parler devant moy bien haut pour un berger.
+
+Cette fierté m'étonne⁎ & je ne puis comprendre…
+
+Que vous sert cet amour quand j'ay l'adveu du Roy ?
+
+Quand on n'a qu'à combattre un berger temeraire…
+
+Ah c'en est trop.
+
+Vous voyez qu'un berger me brave impunement,
+Et vous vous offensez de mon ressentiment ?
+C'est trop souffrir⁎.
+
+Quel charme sur mes bras jette tant de foiblesse ?
+
+Ce prompt enchantement & ce charme invisible
+Me fait connoistre enfin cet amant⁎ si terrible⁎.
+Ce rival dont tantost vous m'avez menacé.
+
+Va ta pitié ne fait qu'aigrir mon desespoir,
+Injurieux rival, laisse moy ma foiblesse ;
+Accable un mal-heureux, ou me rend ma Princesse ;
+Tu me l'ostes ; cruel⁎ ; & ton charme trompeur
+Ainsi que sur mon bras a passé dans son cœur.
+Princesse ouvrez les yeux & voyez l'imposture
+D'un art affreux⁎ & noir, qui force la nature.
+Vous laissez vous surprendre aux charmes d'un trompeur ?
+
+Jupiter mon rival ! Dieux quel aveuglement !
+
+Vostre infidelité⁎ cherche en vain cette excuse.
+
+Pleut au Ciel, qu'il voulut découvrir à mes yeux
+Par un coup de tonnerre, un choix si glorieux.
+Du moins en connoissant le Dieu qui me surmonte⁎,
+Je mourrois avec joye, & vous perdrois sans honte ;
+Mais las ! ce n'est pas luy, mais c'est vous que je crains :
+La foudre est dans vos yeux, & non pas dans ses mains.
+Mais quoy l'air s'obscurcit & l'orage s'appreste…
+
+Il tonne, & c'est icy le grand maistre des Dieux.
+C'est à cet imposteur qu'il declare la guerre.
+
+      Foudre tombe en ce lieu ;
+Ta gloire est de punir le fantôme d'un Dieu.
+
+      Voyez quelle estoit vostre erreur.
+
+Dissipez ce nüage, il est temps d'éclater,
+Tombez foudres, tombez sur un faux Jupiter.
+Grand Dieu vange ton nom usurpé par un traistre.
+Mais quel est ce prodige, & que vois je paroistre ?
+C'est Junon elle-mesme avec la foudre en main.
+Pourquoy cet équipage⁎, & quel est son dessein ?    
+De ce faux Jupiter qui m'oste ce que j'ayme,
+Me vient-elle vanger, ou se vanger soy-mesme ?
+Bergers qui la voyez descendre dans ce bois,
+Pour haster son secours, prestez-moy vostre voix.
+Reyne des vents Maistresse des tempestes
+Espargnez nos champs & nos testes,
+Et sur ce ravisseur tournez ce grand courroux,
+A ce triste mortel il ravit ce qu'il ayme :
+Vous voyez sa douleur, vous sçavez par vous-mesme,
+Tout ce que souffre⁎ un cœur amoureux & jaloux.
+
+Jupiter mon rival ? que dites vous Deesse ?
+Le rival dont j'osois mépriser la foiblesse,
+Luy qui comme un berger se montroit à mes yeux,
+Ce rival est un Dieu le plus puissant des Dieux ?
+J'esperois esclaircir cette estrange avanture,
+Pour convaincre un rival d'une lâche imposture,
+C'estoit là tout l'espoir dont j'ozois me flatter⁎,
+Et dans cet imposteur je trouve Jupiter ?
+Vous deviez prevenir⁎ ces mortelles allarmes :    
+Avec tant de puissance, avecque tant de charmes,
+Deesse ignorez-vous l'art de vous faire aymer ?
+Et que vous manque t-il pour plaire & pour charmer ?
+
+Toute ingrate qu'elle est excusez ma foiblesse :
+J'ay pour sa trahison une secrette horreur,
+Et l'amour toutesfois regne encor dans mon cœur.
+
+Regardez ma Princesse avec moins de colere :
+Qu'a t'elle fait enfin qui puisse vous déplaire ?
+Aux tendresses d'un Dieu peut-elle resister ?
+Que suis-je, helas que suis-je aupres de Jupiter ?
+
+Hé bien sauvez mon cœur de cette lâcheté :
+Je voudrois bien haïr cette ingrate beauté ;
+Mais puis que sur mes sens elle est trop souveraine,
+Pour vanger mon amour, prestez-moy vostre haine ;
+Si je ne sçay qu'aymer, hayssez-là pour moy.
+
+Madame vous sçavez l'ordre de vostre pere :
+Pardonnez, si l'ardeur⁎ d'un amour temeraire,
+Se laissant emporter au dernier desespoir,
+Abuse contre vous du souverain pouvoir.
+Je me suis dis cent fois en secret, à moy-mesme,
+Qu'il faut cesser d'aimer quand Jupiter vous aime,
+Et que d'un foible amant⁎ le sort trop inégal,    
+Doit trembler prés d'un Dieu qui s'est fait mon rival.
+Toutesfois je ne puis luy ceder ma Princesse,
+Et quand trop de puissance estonne⁎ ma foiblesse,
+A ma flame⁎ en secret je preste cét appuy,
+Il peut tout, il est Dieu, mais j'aime plus que luy,    
+Et s'il faut à son rang ceder tout l'avantage,
+Quiconque a plus d'amour merite davantage.
+
+Ah ! Princesse, l'amour parle un autre langage ;
+La seule ambition touche vostre courage.
+
+Peut-on l'aimer ainsi si son cœur est volage ?
+
+Poussez jusques au bout cette belle maxime :
+Ce digne emportement rend le mien legitime :
+Mesprisez le pouvoir & d'un pere & d'un Roy ;
+Faites tout pour ce Dieu, je feray tout pour moy.
+
+Je crains peu son courroux, si vous me faites grace.
+
+N'importe, je ne veux que vous seule & mourir.
+Que Jupiter esclate & me reduise en poudre,
+Que je tombe à vos pieds, & par un coup de foudre.
+Puis-je me reserver pour un plus digne autel ?
+Dois-je eschaper aux coups de ce bras immortel ?
+Pour le moins, puis qu'enfin il faut que je perisse,
+Je puis faire à vos yeux un si grand sacrifice,
+Que le plus grand des Dieux en doit estre jaloux.
+
+      Je puis mourir pour vous,
+Et rien ne vaut aux yeux de mon amour fidelle,
+La gloire d'une mort dont la cause est si belle :
+Ce Dieu pour qui je voy qu'on veut m'abandonner,
+A-t'il du sang à perdre, une vie à donner ?
+Et si vous demandez & son sang & sa vie,
+Vostre Dieu pourroit-il contenter vostre envie ?
+
+Et peut-estre est-ce là l'espoir de mon amour ?
+Apres que Jupiter à vos vœux infidelle⁎,
+Aura mis dans son cœur une flame⁎ nouvelle,
+Peut-estre alors vos vœux ne seront que pour moy.
+Non, non cruelle⁎, il faut suivre l'ordre du Roy ;
+Je veux absolument achever l'hymenée⁎.
+
+      Ah ! Madame,
+Je connoy tout entier le mal-heur de ma flame⁎:
+Mais dans mon desespoir contre la trahison,
+Je ne connois ny Dieux, ny conseil, ny raison.
+Resister contre un Dieu c'est une audace extreme ;
+Mais enfin qu'ay-je à craindre en perdant ce que j'aime ?
+Si je luy cedois tout, par la peur de perir,    
+Il me laisseroit vivre, & je cherche à mourir.
+
+      Que me demandez-vous ?
+En gardant Semelé sera-t'il son espoux ?
+Je sçay bien que ce Dieu consacre⁎ ce qu'il aime,
+Qu'au sang de vostre fille il s'attache luy-mesme ;
+Mais prefererez-vous de legeres amours,
+Aux ardeurs⁎ d'un mortel qui dureront tousjours ?
+
+Je voy dans vos conseils plus d'orgueil que de zelle.
+Vostre fille n'agit que par vos mouvemens,
+Elle a tout vostre cœur, & tous vos sentimens.
+Vous croyez que le sang d'une race divine,
+A droit de remonter jusqu'à son origine,
+Et que sans voir l'abysme, où l'orgüeil la conduit,
+Il est beau de tomber, quand on tombe avec bruit.
+Le Roy…mais il s'avance.
+
+Vostre perte & la mienne, il n'en faut plus douter :
+Des coups si surprenans partent de Jupiter.
+Je vous l'ay desja dit, c'est Jupiter luy-mesme,
+Qui veut par ses efforts m'arracher ce que j'aime.
+Sortons, Seigneur, sortons de ces lieux pleins d'effroy ;
+Helas ! je ne vaux pas le trouble où je vous voy.
+De plus heureux destins attendent la Princesse.
+
+Les Dieux ont secondé vostre injuste rigueur
+Cruelle⁎, ils devoient seuls achever mon mal-heur,
+Et j'avois merité de perdre ce que j'aime,
+Pour la haine des Dieux, & non pas par vous mesme.
+
       Ah ! Dimas, quel est nostre mal-heur ?
 Secourons la Princesse.
 
--*who_dimas
-      Il n'est plus temps, Seigneur.
-
--*who_alcmeon
 Quoy desja…
 
--*who_dimas
-      C'en est fait, une flamme cruelle,
-A vengé vostre amour d'une amante⁎ infidelle⁎.
-
--*who_alcmeon
 Helas ! c'est trop punir son infidelité⁎ :
 Malgré sa trahison j'adorois sa beauté.
 Je la plains cette ingratte, & la plaindray sans cesse,
@@ -2686,35 +2218,15 @@ Perit donc par la flamme, & perit à leur yeux !
 Quoy ce Dieu qui l'aimoit souffre⁎ qu'elle perisse !
 Est-ce orgueil, jalouzie, inconstance, ou caprice ?
 
--*who_dimas
-Admirez & plaignez la rigueur de son sort ;
-Ce grand Dieu, qui l'aimoit, est l'autheur de sa mort.
-
--*who_alcmeon
 Quoy luy-mesme ?
 
--*who_dimas
-      Ouy Seigneur, cet amant⁎ adorable,
-Aux vœux de sa Princesse un peu trop favorable,
-Est descendu du Ciel, pour s'offrir à ses yeux,
-Tel qu'il est, quand il regne, & tonne dans les Cieux.
-De ce Dieu tout en feu la fatale presence…
-
--*who_alcmeon
 Quoy ce Dieu plein d'amour manque-t'il de puissance ?
 Ou plustost ce grand Dieu, pour luy sauver le jour,
 Avec tant de puissance a-t'il manqué d'amour ?
 Mais j'apperçoy la Reine.
 
-**** *book_ *id_V06 *act_V *date_1666 *creator_boyer 
-
--*who_alcmeon
       Ou fuyez-vous Madame ?
 
--*who_hermione
-Ah ! Seigneur, rien ne peut esteindre cette flamme.
-
--*who_alcmeon
 Voila de vostre orgueil le juste chastiment :
 Vous avez allumé ce triste embrazement.
 Je vous le disois bien que les beautez mortelles
@@ -2722,13 +2234,6 @@ Ne trouvoient dans les Dieux que des cœurs infidelles⁎.
 Si vous aviez voulu consentir à mes vœux,
 Vostre fille vivroit, & je serois heureux.
 
--*who_hermione
-Ouy sans doute, Seigneur, & par vostre hymenée⁎
-Elle seroit vivante, heureuse & couronnée :
-Son orgueil l'a perduë⁎, & je l'ay trop flatté
-Ce malheureux orgueil qu'enfante la beauté.
-
--*who_alcmeon
 Quelque aveugle amitié⁎ que vous eussiez pour elle,
 Je ne m'en prends qu'aux Dieux, qui la firent trop belle.
 Jupiter qui la fit pour le charme des yeux,
@@ -2746,17 +2251,6 @@ Dans cet embrazement allons mourir pour elle.
 Mais j'apperçoy Junon, qui semble de sa main,
 Opposer à ma mort un ordre souverain.    
 
-**** *book_ *id_V07 *act_V *date_1666 *creator_boyer
-
--*who_junon
-Arreste & ne perds pas le fruit de ta vengeance ;
-Ma rivalle a bravé ma haine & ta confiance,
-Et ma haine a fait son devoir.
-Ce feu qui me servit contre elle,
-Quand tu veux suivre une infidelle⁎,
-S'esteint & ne veut pas servir ton desespoir.
-
--*who_alcmeon
 Gardez vostre secours trop jalouze Deesse.
 Quel secours m'offrez-vous quand je perds ma Princesse ?
 Ce feu, qui luy ravit la lumiere du jour,
@@ -2766,185 +2260,76 @@ En vain ce feu s'esteint pour me forcer de vivre :
 Cruelle⁎ pour finir ma peine⁎ & mon malheur,
 Helas ! c'est bien assez de ma seule douleur.
 
--*who_junon
-Va mourir, Prince ingrat, indigne de ma grace.
-Toy Reine, vante encor la gloire de ta race :
-Dans ce palais bruslé, voy comme en son cercueil,
-La folle ambition d'une fille trop vaine ;
-Voy la peine⁎ de ton orgueil,
-Et le triomphe de ma haine.
 
--*who_hermione
-Je ne connois que trop vostre divin pouvoir.
-Triomphez de ma fille & de mon desespoir :
-Mais pourquoy la punir du crime de sa mere ;
-J'avois mis dans son cœur cet orgueil temeraire,
-Et c'est par mes leçons qu'elle osa se flatter,
-D'arracher à Junon le cœur de Jupiter.
-Mais le Roy vient. Le feu⁎ qui brille en son visage…
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dimas
 
-**** *book_ *id_V08 *act_V *date_1666 *creator_boyer 
+Le Prince est là, Madame, & demande à vous voir.
 
--*who_cadmus
-Vous voyez nos malheurs, & voilà vostre ouvrage :
-Voila comme⁎ les Dieux sçavent faire l'amour⁎.
-Vous me l'aviez bien dit que je verrois un jour,
-Par la faveur d'un Dieu ma grandeur sans seconde,
-Et que Thebes seroit la maistresse du monde.
-C'est-là le digne sort que j'avois attendu.
-La honte de mon sang, tout mon espoir perdu,
-Mon throsne & mon palais embrazez par la foudre,
-Ma fille aneantie, & son corps mis en poudre,
-Et les justes horreurs qu'attireront sur nous
-Ces effets esclattans du celeste courroux.
+Ah ! Seigneur.
 
--*who_hermione
-Pardonnez ma foiblesse à cet amour de mere,
-Qu'alluma dans mon cœur une fille si chere :
-Toute mere est aveugle, & je seray tousjours,
-Un exemple esclattant de leurs folles amours.
+      Il n'est plus temps, Seigneur.
 
--*who_cadmus
-Je vous pardonnerois cette horrible disgrace,
-Si tout ce que j'en crains se bornoit à ma race ;
-Mais le Prince accablé de ce dernier malheur
-Abandonne son ame à toute sa douleur.
-J'ay veu son desespoir, & sa funeste envie :
-C'est par mon ordre en vain, qu'on prend soin de sa vie ;
-L'ingratte, à qui le Ciel vient de ravir le jour,
-Trop digne de sa peine⁎, & non de tant d'amour,
-Entraisne par sa mort un amant⁎ trop fidelle ;
-Il vivoit pour ma fille, il va mourir pour elle.
-Helas ! le Roy d'Argos, ce pere infortuné,
-Envoya dans ma cour un amant⁎ couronné,
-Un heros plein d'honneur, de gloire & d'esperance,
-Et je luy rends…ô Dieux ! c'est Atys qui s'avance,
-Et je voy dans ses pleurs le mal-heur que je crains.
+      C'en est fait, une flamme cruelle,
+A vengé vostre amour d'une amante⁎ infidelle⁎.
 
-**** *book_ *id_V09 *act_V *date_1666 *creator_boyer
+Admirez & plaignez la rigueur de son sort ;
+Ce grand Dieu, qui l'aimoit, est l'autheur de sa mort.
 
--*who_cadmus
-Hé bien le Prince est mort.
+      Ouy Seigneur, cet amant⁎ adorable,
+Aux vœux de sa Princesse un peu trop favorable,
+Est descendu du Ciel, pour s'offrir à ses yeux,
+Tel qu'il est, quand il regne, & tonne dans les Cieux.
+De ce Dieu tout en feu la fatale presence…
 
--*who_atys
-      Nos soins ont esté vains.
-Voyant que par vostre ordre, on s'obstine à le suivre ;
-Quoy (nous dit-il) veut-on me contraindre de vivre ?
-Quelle pitié barbare, & quel injuste effort
-Me condamne à la vie, & m'arrache à la mort !
-Mais que tout l'univers s'oppose à mon envie,
-Je sçay mille chemins pour sortir de la vie.
-Là tirant son espée, & par un coup pressé,
-De son fer racourcy, dans son sein enfoncé,
-Il previent⁎ mon dessein, & trompant nostre zelle,
-Il tombe dans son sang d'une cheute mortelle.
-Puis donnant à l'objet⁎ de ses tendres desirs,
-Et ses derniers momens, & ses derniers souspirs,
-Il cherche autour de luy dans ces debris funestes,
-D'un objet⁎ trop aimé les pitoyables restes :
-Mais son œil vainement jetté de toutes parts,
-Sur un monceau de cendre arrestant ses regards,
-Ne seroit-ce point vous, reliques precieuses,
-Cendres, où j'allumeray mes flammes⁎ amoureuses ?
-Recevez tout mon sang, avec ces tristes pleurs,
-Que je donne à mes maux bien moins qu'à vos malheurs.
-Voyez de vos amants⁎ quel fut le plus fidelle ;
-L'un destruit ma Princesse, & j'expire pour elle.
-Il fut aimé l'ingrat, & je ne l'estois pas,
-A ces mots sa douleur acheve son trespas,
-Et tirant de son cœur un soupir tout de flâme⁎,
-Elle emporte avec luy le reste de son ame.
 
--*who_cadmus
-Voila le dernier coup d'un malheur sans égal.
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
 
--*who_hermione
-Que vous avons-nous fait pour nous traitter si mal,
-Jupiter ? Quoy mon sang pour estre trop aimable⁎,
-Pour estre trop aimé s'est-il rendu coupable ?
-Pourquoy d'un Prince illustre & rival & jaloux
-Enlever la maistresse⁎, ou la choisir chez nous,
-Si ce fatal honneur fait ma honte & ma peine⁎ ?
-Vostre amour est-il donc pire que vostre haine ?
-Helas ! puisqu'il produit de si cruels⁎ trespas,
-Grand Dieu haissez nous, ou ne nous aimez pas.
+Non, je n'en doute plus, & j'en tremble, Madame.
+Quoy le Prince Alcmeon, qui regnoit dans vostre ame,
+Ce grand Prince d'Argos, qui depuis si long-temps
+Vous offre sa Couronne & des vœux si constants,
+Va perdre tout l'espoir de son amour fidelle ?
 
--*who_cadmus
-Dieux quelle surprenante & nouvelle tempeste,
-Agite tous les airs & descend sur ma teste ?
-Quel épais tourbillon se leve autour de nous ?
-C'est le grand Jupiter ; est-ce grace ou courroux ?
-Il semble que le Ciel est tombé sur la terre.    
-Peuples rendez hommage au maistre du tonnerre.
-Ne craignez plus ce Dieu, dont l'éclat dangereux
-Vient d'embrazer un objet⁎ plein de charmes,
-Jupiter n'aura plus de clartez ny de feux,
-Que pour tarir la source de vos larmes.
+Mais le Roy qui du Prince estime l'alliance,
+Et voit que vostre cœur panche à quelque inconstance,
+Veut sans plus differer le faire vostre Espoux ;
+Vous devez obeir ou craindre son courroux.
 
-**** *book_ *id_V10 *act_V *date_1666 *creator_boyer
+Mais l'amour de ce Dieu fait seul vostre deffence :
+Pour vous justifier, il doit paroistre au jour,
 
--*who_jupiter
-Roy de Thebes, je viens consoler ta douleur ;
-Cesse de t'affliger du trespas de ta fille,
-Et rends graces au Ciel, d'un illustre malheur,
-Qui consacre⁎ à jamais l'honneur de ta famille.
-Mais pour ne pas douter d'un sort si glorieux,
-Qui la rend par sa mort plus brillante & plus belle,
-Nuages ouvrez-vous, & monstrez à ses yeux,
-Ce qu'a fait pour sa fille une main immortelle.
-Voy quel est le beau coup qui l'arrache aux mortels
-Pour le pris d'un trespas que j'ay causé moy-mesme,
-Je la rends immortelle & digne des autels ;
-C'est comme⁎ Jupiter fait perir ce qu'il aime.
+De cet amant⁎ plustost songez à vous deffaire.
 
--*who_cadmus 
-Pardonnez-moy grand Dieu cette aveugle douleur,
-Qui du plus grand des biens se faisoit un malheur.
-J'adore cette main puissante & favorable,
-Qui rend les maux heureux, & la honte honorable.
+Vous m'avez confié le nom de vostre amant⁎ :
+Contez-moy vostre amour & son commencement.
+ 
+Contentez sur un point mon curieux desir,
+Dites-moy, si les Dieux aiment comme les hommes.
 
--*who_jupiter
-Mais ce n'est pas assez pour vanger ton honneur
-Que les Dieux soient tesmoins d'une illustre avanture ;
-Je veux que tout le monde apprenne ton bonheur,
-Venez icy venez, Renommée & Mercure.
-Voy ces divinitez fidelles à mes loix,
-Tu les verras tousjours fidelles à ta gloire,
-Par cét éclat qui suit leur immortelle voix,
-Consacrer⁎ à jamais ton nom & ta memoire.
+      Ah ! de grace, Madame,
+Ne me demandez pas le secret de sa flame⁎ ;
+Ce secret revelé me cousteroit le jour.
+L'ordre qui me deffend d'expliquer cet amour,
+Vient d'un Amant⁎ si fier, si puissant, si terrible⁎,
+Qu'en vous le descouvrant⁎ ma perte est infaillible.
+Contentez-vous enfin d'apprendre que ce choix
+Vous fera plus d'honneur, que le plus grand des Rois.
 
--*who_cadmus
-Quels encens, quels presens offerts sur tes autels,
-Payeront dignement ces honneurs immortels ?
+Pourquoy par cet adveu m'exposer à sa haine ?
+Puisque de Semelé vous pouvez l'obtenir,
+Ne me contraignez point…
 
--*who_hermione
-Ah grand Dieu pardonnez aux douleurs d'une mere
-Un insolent murmure, un éclat temeraire ;
-Je vous connoissois mal, & ne prevoyois pas
-Les biens que Semelé tire de son trespas.    
+Madame vous voyez ce que les Dieux ordonnent.
 
--*who_jupiter
-Vous, allez publier⁎ ce que j'ay fait pour elle ;
-Allez vanter par tout la gloire de son sort,
-Mais avec tant d'éclat, que toute autre mortelle,
-Porte envie aux honneurs d'une si belle mort.    
+Quel est donc cét orgüeil, Madame, qu'il s'explique,
+Luy, qui parle si fort pour un Dieu chimerique.
+La gloire defend-elle à ce cœur abusé⁎,
+De preferer un Prince à ce Dieu supposé ?
 
-**** *book_ *id_body-9 *date_1666 *creator_boyer
+Mais d'un scrupule vain vostre gloire est gesnée⁎ :
+On vient d'ouvrir pour vous le temple d'Hymenée.
+ 
+Vostre doute, Madame, est assez raisonnable,
+Et quand vous trahissez un heros adorable,
+Peut-estre que le Ciel pour vanger vostre amant⁎…
 
-Privilege du Roy.
-
-LOUIS par la grace de Dieu Roy de France & de Navarre, à nos amez & feaux Conseillers les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, & autres nos Justiciers & Officiers qu'il appartiendra, Salut ; Nostre cher & bien amé GUILLAUME DE LUYNE Marchand Libraire en nostre ville de Paris nous a fait remonstrer⁎ qu'il a recouvré⁎ un Poëme intitulé, Les Amours de Jupiter & de Semelé Tragédie de la composition du sieur BOYER, qu'il desireroit faire imprimer s'il avoit nos Lettres à ce necessaires : A ces causes voulant le favorablement traiter, luy avons permis & octroyé, permettons & octroyons par ces presentes d'imprimer ledit Poeme, & iceluy vendre & debiter durant cinq ans, pendant lesquels faisons deffences à tous autres Imprimeurs & Libraires de l'imprimer sans son consentement, ou de ceux qui auront droit de luy, à peine de confiscation des exemplaires, de deux mil livres d'amende, despens, dommages & interests de l'exposant, à la charge d'en mettre deux Exemplaires en nos Bibliotheques publiques & Chasteau du Louvre, & un en celle de nostre tres-cher & feal Chevalier Chancelier de France, avant que de les exposer en vente ; comme aussi de faire registrer⁎ ces presentes au registre du Syndic de la Communauté des Libraires & Imprimeurs de nostredite ville de Paris à peine de nullité d'icelles, du contenu desquelles vous mandons faire joüir l'Exposant pleinement & paisiblement, sans permettre qu'il y soit contrevenu en aucune maniere que ce soit.
-Si voulons qu'en mettant au commencement ou à la fin de chacun Exemplaire un Extrait des presentes, qu'elles soient tenües pour deüement signifiées, & que foy y soit adjoustée comme au present original.
-Mandons en outre au premier nostre Huissier ou Sergent de faire en execution tous exploits dont il sera requis, sans autre permission ; nonobstant Clameur de Haro, Chartre Normande & autres Lettres à ce contraires : Car tel est nostre plaisir.
-DONNE à Paris le dernier jour de Janvier l'an de grace mil six cent soixante-six, & de nostre regne le vingt-troisiéme.
-Par le Roy en son Conseil.
-GUITONNEAU. Et scelé.
-
-Et ledit de Luyne a fait part du present Privilege à Thomas Jolly, Estienne Loyson & Gabriel Quinet, pour en jouyr suivant l'accord fait entr'eux.
-
-Registré sur le livre de la Communauté le 2.
-Mars 1666.
-Signé PIGET Syndic.
-
-Achevé d'imprimer le 15.
-Mars 1666.

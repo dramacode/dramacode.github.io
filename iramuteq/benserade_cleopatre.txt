@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1635
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
 
--*who_antoine
 Trouves-tu ma misère à quelque autre commune ?
 Ne puis-je pas sans peur défier la fortune ?
 Peut-elle être plus rude, et peut-elle inventer
@@ -21,10 +20,6 @@ Que ces coeurs généreux dans un commun malheur,
 Pour éviter mon bras ont eu recours au leur ?
 Hélas leur désespoir vaut mieux que mon attente !
 
--*who_lucile
-Ce sont traits de fortune.
-
--*who_antoine
       Ha qu'elle est inconstante !
 Vois comme elle a changé, tout vivait sous ma loi,
 Je pensais que le ciel fut au dessous de moi,
@@ -41,10 +36,6 @@ Tu hais qui me trahit, tu fuis qui m'abandonne,
 Tu ne t'éloignes point de mon sort rigoureux,
 Sans toi je me dirais tout à fait malheureux.
 
--*who_lucile
-Je serais bien ingrat.
-
--*who_antoine
       Moins que cette inhumaine
 Qui trahit ma fortune, et qui cause ma peine,
 Cruel ressouvenir de mes vieilles douleurs !
@@ -70,18 +61,6 @@ Le plus lâche aima mieux mourir que de me suivre,
 Et la mer sous nos pieds rougit de toutes parts
 De la honte du chef, et du sang des soldats.
 
--*who_lucile
-Si depuis qu'à ses yeux votre âme est asservie
-Tous vos faits ont terni l'honneur de votre vie,
-Si votre sort changea quand son oeil vous surprit,
-Accusez son visage, et non pas son esprit,
-Quand le subtil appas d'une beauté nous blesse
-Nous ne sommes vaincus que par notre faiblesse :
-Chassez de votre esprit ces injustes soupçons,
-Le sort vous persécuté en assez de façons ;
-La reine vous trahit ?
-
--*who_antoine
       Oui me trahit, Lucile,
 De tous mes ennemis elle est la plus subtile,
 Bien que ceux qui m'aimaient se retirent de moi,
@@ -93,10 +72,6 @@ J'ai dans mon infortune exercé la vertu ;
 Mais me voir lâchement trahi de Cléopâtre,
 C'était là le seul coup qui me pouvait abattre.
 
--*who_lucile
-Trahi d'elle ? Et comment ?
-
--*who_antoine
       Par des voeux complaisants,
 S'entendre avec César, lui faire des présents,
 Lui prêter contre moi le secours de mes armes,
@@ -121,27 +96,11 @@ J'espère que sur l'un de ces deux éléments
 Mes armes trouveront d'heureux événements,
 Il faut que je succombe, ou que César recule.
 
--*who_lucile
-Ce beau dessein vous rend digne du sang d'Hercule.
-
--*who_antoine
 Enfin je veux, Lucile, en ce dernier effort
 Ou gagner, ou me perdre, être vainqueur, ou mort,
 Si le sort me poursuit je pourrai me réduire
 Au point où sa rigueur ne me saura plus nuire.
 
--*who_lucile
-Je vous suivrai partout, les hommes généreux
-Savent bien n'être plus quand ils sont malheureux.
-
--*who_dircet
-En ce noble dessein où l'honneur vous engage,
-Nous ferons voir aussi des effets de courage,
-Et quoi que tout vous quitte en ce malheur commun,
-Cent se perdront encor pour en conserver un.
-Mais j'aperçois la reine.
-
--*who_antoine
       À l'aspect de ses charmes
 Quel juste désespoir ne mettrait bas les armes ?
 Quand je vois sa beauté qui trouble ma raison,
@@ -149,23 +108,6 @@ Je ne puis soupçonner son coeur de trahison,
 Je ne saurais penser qu'il me soit infidèle,
 Et je crois qu'elle m'aime, à cause qu'elle est belle.
 
-**** *book_ *id_I02 *act_I *date_1635
-
--*who_cleopatre
-Avez-vous résolu de sortir aujourd'hui
-Pour combler tous mes sens de frayeur, et d'ennui ?
-Seigneur, considérez les dangers de Bellonne,
-Songez que sa fureur ne respecte personne,
-Que sa rage est aveugle au milieu du combat,
-Et qu'elle traite un roi comme un simple soldat,
-Ne servez point d'objet à sa brutale envie,
-Demeurez en repos, conservez votre vie,
-Et qu'un autre que vous, prodigue de son sang,
-Dans les occasions occupe votre rang,
-Qu'il combatte sans vous, s'il gagne la victoire
-Il en aura la peine, et vous aurez la gloire.
-
--*who_antoine
 La guerre est l'exercice où mes bras sont vieillis,
 Et je hais les lauriers que je n'ai pas cueillis,
 Il faut vaincre aujourd'hui l'ennemi qui s'obstine,
@@ -193,31 +135,9 @@ S'il n'a pas tant d'amour il a plus de mérite,
 Son bonheur, et le mien naîtra de mon trépas,
 Il vous possédera, je ne le verrai pas.
 
--*who_cleopatre
-Es-tu las de ma vie, et quand je serai morte
-Verras-tu mieux, cruel, l'amour que je te porte ?
-Contre nos ennemis irai-je me jeter ?
-Suivrai-je le dessein que je te veux ôter ?
-Tu verras si je t'aime, et si je te respecte,
-Oui je veux cesser d'être, ou de t'être suspecte.
-
--*who_antoine
 Vivez, et que le ciel change vos maux en biens,
 Que vos jours soient heureux, et plus longs que les miens.
 
--*who_cleopatre
-Votre soupçon injuste est contraire à l'envie
-Que vous semblez avoir de prolonger ma vie,
-Et c'est là m'imposer une trop rude loi
-De vouloir que je vive, et douter de ma foi.
-Quoi donc vous présumez qu'une ardeur déloyale
-S'allume comme ailleurs dans une âme royale ?
-Quoi les maux que je souffre, et ceux que j'ai soufferts,
-L'honneur que j'ai perdu, le sceptre que je perds
-Ne vous assurent pas que je suis demeurée
-Dans la fidélité que je vous ai jurée ?
-
--*who_antoine
 Ha ce discours me donne un remords éternel !
 Ici l'accusateur est le plus criminel,
 Je souffre justement ce reproche homicide,
@@ -241,28 +161,11 @@ D'un mal que notre amour dût m'empêcher de craindre,
 Et puis quand mon malheur viendrait de vos appas,
 Je serais malheureux, si je ne l'étais pas.
 
--*who_lucile
-Nous tardons bien longtemps.
-
--*who_antoine
       Mais votre foi m'assure,
 Mon soupçon vous offense, et lui fait une injure,
 Et quand je souffrirais un tourment infini,
 Ma peine serait douce, et mon crime impuni.
 
--*who_lucile
-Qu'une femme aisément le séduit, et l'abuse !
-Absente, elle est coupable, et présente, il s'accuse.
-
--*who_cleopatre
-Puisqu'un juste remords vous réduit à ce point,
-Pour votre châtiment ne m'abandonnez point,
-Ne voyez le combat que des tours de la ville,
-Et laissez au fourreau votre fer inutile,
-Que sans vous notre armée achève son dessein,
-Et soyez en le chef sans en être la main.
-
--*who_antoine
 S'il est vrai qu'un grand coeur quand sa faute est punie
 Souffre moins dans le mal que dans l'ignominie,
 Si pour la seule honte un supplice est affreux,
@@ -278,11 +181,6 @@ Ma dernière action soit une lâcheté ?
 Mon coeur n'affecte plus cette grandeur suprême,
 Ma honte c'est ma gloire, et pour tout dire, j'aime.
 
--*who_lucile
-Qu'amour en peu de temps rend un coeur abattu,
-Et que ce puissant vice affaiblit la vertu !
-
--*who_antoine
 Tu vois que mes projets sont réduits en fumée,
 Lucile, prends le soin de conduire l'armée,
 Puisque cette beauté qui me tient sous sa loi
@@ -294,292 +192,14 @@ Qu'ils soient victorieux pour leur propre intérêt,
 Antoine absolument possède Cléopâtre,
 N'ayant plus à gagner, il n'a plus à combattre.
 
--*who_lucile
-Est-ce là le moyen de disputer sa mort ?
-Sans vous pourrons-nous faire un généreux effort ?
-Comment soutiendrons-nous le coup de la tempête ?
-Que pourra faire un corps qui n'aura point de tête ?
-Vous me pardonnerez, si mon coeur librement
-Dans nos pressants malheurs vous dit son sentiment,
-Quoi voulez-vous encore aux yeux de tout le monde
-Être oisif sur la terre, et fugitif sur l'onde ?
-Continuez l'honneur de vos premiers exploits,
-Votre seul nom jadis fit trembler tant de rois,
-Vous avez attaqué celui qui vous affronte,
-Et vous avez vaincu celui qui vous surmonte ;
-Suivez vos grands desseins, tâchez de résister,
-Dans votre malheur même on vous peut redouter :
-Si madame est l'objet dont votre âme est ravie,
-Vous devez conserver son sceptre, et votre vie,
-Vous voyez que César l'assiège avec ardeur,
-Faut-il que sa beauté ruine sa grandeur ?
-Et lui pouvez-vous dire en votre amour extrême,
-Je ne vous défends point, parce que je vous aime ?
-Que ce coeur où la gloire établit son séjour
-Fasse d'une mollesse un généreux amour :
-Une mort au combat peut borner votre peine
-Belle pour un amant, digne d'un capitaine,
-Nous mourrons à vos pieds devant que le destin
-Fasse de votre vie un glorieux butin,
-Et pour moi je mourrai plus content que tout autre,
-Si mon sang à l'honneur de se mêler au vôtre.
-
--*who_antoine
 Un discours prononcé si généreusement
 Ne peut-il révoquer votre commandement ?
 Ma reine, permettez sans ternir ma louange,
 Que ce bras vous défende, et que ce bras me venge.
 
--*who_cleopatre
-Malgré moi j'y consens, à la charge, Seigneur,
-Que vous refroidirez cette bouillante ardeur ;
-Ne vous engagez point dans le péril des armes,
-Épargnez votre sang pour épargner mes larmes.
-
--*who_antoine
 Ce baiser secondé d'un seul de vos regards
 Me peut faire aujourd'hui vaincre mille Césars.
 
-**** *book_ *id_I03 *act_I *date_1635
-
--*who_cleopatre
-Doux appui de mes jours, fidèles confidentes,
-À qui mes passions sont toutes évidentes,
-Et de qui l'amitié partage mes ennuis,
-Hélas que dois-je faire en l'état où je suis !
-Ma couronne chancelle, et César ne respire
-Que de voir mes états unis à son empire,
-Le Tibre est sur le point de commander au Nil,
-Si mon fidèle amant n'empêche ce péril,
-Mais c'est là le surcroît de ma peine soufferte,
-Je crains plus son danger que je ne crains ma perte,
-Et je me vois réduite à cet étrange point
-Que je veux résister ne me défendant point ;
-Et cependant il croit que je lui suis traîtresse,
-Et que son ennemi lui ravit sa maîtresse,
-Son esprit défiant se peut l'imaginer.
-
--*who_eras
-Madame, il a raison de vous en soupçonner.
-
--*who_cleopatre
-Que dites-vous ?
-
--*who_eras
-      Il sait que sa maîtresse l'aime,
-Mais croit-il votre coeur ennemi de soi-même ?
-Que sans le soulager vous puissiez vous trahir,
-Et que pour trop l'aimer, vous deviez vous haïr ?
-Dans ce juste soupçon quelque mal qu'il ressente,
-Il blâme sa fortune, il vous juge innocente,
-Et ce grand coeur reçoit votre infidélité
-Comme une dure loi de la nécessité.
-À suivre notre bien nature nous oblige,
-Croira-t-il qu'en vous seule elle ait fait un prodige ?
-Ce mal tiendra toujours son esprit occupé,
-Et toujours il croira que vous l'aurez trompé :
-Donc puisqu'injustement il croit votre esprit traître,
-Puisqu'il vous croit perfide, à cause qu'il faut l'être,
-Et qu'il est naturel de trahir en ce point,
-Trahissez le, Madame, et ne le trompez point.
-
--*who_cleopatre
-Je n'attendais de vous qu'une amitié fidèle
-Qui me fit supporter ma fortune cruelle,
-Mais je vois que mon mal n'en devient pas plus doux,
-Et que mes ennemis m'aiment autant que vous,
-Je tire également le sujet de mes larmes
-De vous par vos conseils, de César par ses armes :
-Je quitterais Antoine, et ce perfide coeur
-Trahirait le mérite à cause du malheur ?
-Mon amour périrait comme une amour commune
-Au naufrage fatal de sa bonne fortune ?
-Et la postérité dirait à nos neveux,
-Antoine fut aimé tandis qu'il fut heureux ?
-Ha que plutôt les dieux avec le foudre même
-Arrachent de mon front le royal diadème,
-Et qu'ils donnent plutôt cent maîtres inhumains
-Au sceptre malheureux qui tombe de mes mains !
-Que César triomphant brûle, saccage, pille,
-Qu'il soit victorieux jusques sur ma famille,
-Qu'il prenne, qu'il usurpe, et qu'il ravisse aux miens
-La puissance, et l'espoir de rentrer dans leurs biens.
-
--*who_charmion
-Que votre majesté pense au doux nom de mère,
-Songez à vos enfants.
-
--*who_cleopatre
-      Oublierai-je leur père ?
-
--*who_charmion
-Mais si le pauvre Antoine est sensible à son mal,
-Doit-il pas souhaiter d'avoir un tel rival ?
-Ce qu'il ne saurait faire avec toutes ses armes
-Votre beauté le peut du moindre de ses charmes,
-Punissez donc celui dont il est outragé,
-Qu'il soit un peu jaloux, mais tout à fait vengé,
-Que César soit vaincu, que vos pays soient calmes,
-D'une oeillade amoureuse arrachez lui ses palmes,
-Et que vos chers enfants, ce trésor précieux,
-Puissent devoir la vie, et le sceptre à vos yeux.
-
--*who_cleopatre
-En vain tous vos discours assaillent ma constance,
-Ils ne pourront jamais forcer ma résistance ;
-Vains, et faibles attraits, qui n'avez rien de doux,
-Faites des malheureux plutôt que des jaloux.
-
-**** *book_ *id_II01 *act_II *date_1635
-
--*who_cesar
-Rome, il faut obéir, cette grandeur suprême
-Qui t'élevait au ciel te rabaisse elle-même,
-Je suis fort de ta force, on ne craint plus que moi,
-Et je suis triomphant de toi, même par toi :
-Tu n'es plus absolue, et la terre servile
-Aime mieux adorer un homme qu'une ville,
-Les dieux tremblants t'ont vue au dessus des humains,
-Et je tiens ton pouvoir dans mes superbes mains,
-Vois par dessus ton nom ma renommée errante,
-Et pleure pour jamais ta liberté mourante :
-Je ne suis point jaloux de ton repos commun,
-Mais la reine des rois en doit respecter un,
-Il faut que je commande aux lieux qu'un Tibre lave,
-Et qu'un superbe enfant tienne sa mère esclave,
-Que ce vaste univers n'obéisse qu'à moi,
-Que le ciel ait des dieux, mais la terre un seul roi,
-Et je veux dans ces murs élevés par Romule
-Voir en moi le succès des grands desseins de Jule :
-Agripe, dont l'avis n'est jamais rejeté,
-Fais-je en ce projet noble une témérité ?
-
--*who_agripe
-En de plus hauts desseins vous n'en pourriez pas faire,
-Qui peut autant que vous n'est jamais téméraire,
-Vos plus forts ennemis en vain ont essayé
-De suivre le chemin que César a frayé,
-Ils ont tous éprouvé dans leur injuste guerre
-Qu'il n'appartient qu'à vous de gouverner la terre,
-Et ces ambitieux qui suivaient vos projets
-S'ils n'étaient morts vaincus, ne vivraient que sujets :
-Antoine est le dernier de qui l'orgueil s'obstine,
-Et qui veut subsister même dans sa ruine,
-Mais ce nouveau succès lui fera confesser
-Qu'il vaut mieux n'être point que de vous offenser,
-Son espoir est à bas, sa dernière déroute
-Assure vos desseins dans leur superbe route.
-
--*who_cesar
-Quelque avantage heureux que nous ayons sur lui,
-Je ne fais point de cas du succès d'aujourd'hui.
-
--*who_agripe
-Qu'un homme soit chéri de la bonne fortune,
-Sa faveur la plus rare il l'estime commune,
-Et qui n'a jamais vu la mer sans Alcyon
-N'en goûte point le calme avec affection :
-Toutes vos actions sont si pleines de gloire,
-Qu'alors que votre bras vous gagne une victoire,
-Cette félicité ne vous touche pas fort,
-Et vous la recevez comme un tribut du sort :
-Qui d'un si beau destin ne serait idolâtre ?
-Gagner tout sans rien perdre, et vaincre sans combattre.
-
--*who_cesar
-Mets-tu cette victoire en un illustre rang ?
-Je l'estimerais plus m'ayant coûté du sang,
-Antoine reste seul, que peut-il entreprendre ?
-Je surmonte celui qu'on ne veut pas défendre,
-Je n'eusse rien gagné, s'il n'eût été haï,
-Je suis victorieux, parce qu'il est trahi,
-La lâcheté, le vice a fait que je dispose
-D'un fruit de ma valeur, et du droit de ma cause,
-L'on ne me vit jamais depuis que j'ai vécu
-Devoir une victoire au malheur du vaincu,
-J'ai regret dans la peine où nous le voyons vivre
-De voir des serviteurs le quitter pour me suivre,
-J'accuse malgré moi leur défaut d'amitié,
-Près d'eux, il m'est suspect, sans eux, j'en ai pitié,
-Dans sa condition je plains le sort des maîtres,
-Ceux qu'il a fait ingrats, ma vertu les fait traîtres.
-
--*who_agripe
-Ce n'est point ressentir un courage abattu
-De trahir le péché pour suivre la vertu :
-Devant qu'une mollesse eut fait leur maître infâme,
-Quand il aimait la gloire, et non pas une femme,
-Lors qu'Antoine piqué d'un désir généreux
-Faisait le capitaine, et non pas l'amoureux,
-Sa vaillance eut rendu leur fuite illégitime,
-Le trahir en ce temps c'eut été faire un crime :
-Mais depuis qu'oubliant ses générosités
-Ce grand coeur s'est perdu dedans les voluptés,
-Pas un d'eux n'a voulu paraître son complice,
-Suivre ses pas honteux c'était suivre le vice,
-Quand ils servaient Antoine il en était loué,
-Ils servaient la vertu dont il était doué :
-Depuis l'ayant bannie en l'ardeur qui le presse
-Ces dignes serviteurs ont suivi leur maîtresse,
-Ils ont vu qu'à vous seul leur service était dû,
-Qu'ils retrouvaient en vous ce qu'Antoine a perdu,
-Ils savent que le ciel ne peut souffrir un traître,
-Mais pour ne l'être plus ils sont contraints de l'être,
-Et n'ont pas cru commettre une infidélité
-Abandonnant celui que les dieux ont quitté.
-
--*who_cesar
-Le sort qui d'une palme absolument dispose
-Ne favorise guère une mauvaise cause,
-Et quelque différent qu'en ce point on ait eu,
-La fortune s'entend avec la vertu :
-Aussi son changement qui cause tant de larmes
-Ne fut jamais contraire au succès de mes armes
-Dans le juste dessein qui m'anime le coeur
-De punir ce superbe, et de venger ma soeur.
-
--*who_agripe
-Puisque sa bonne humeur travaille à votre gloire,
-Il faut jusqu'à la fin poursuivre la victoire,
-Antoine est abattu, mais ce fier ennemi
-Puisqu'il respire encor, n'est défait qu'à demi,
-C'est un cerf aux abois qu'un grand coup doit atteindre,
-C'est dans son désespoir qu'il est le plus à craindre,
-La fortune relève, et la force, et le coeur,
-Et d'un désespéré souvent fait un vainqueur,
-Ceux qui sentent du sort la dernière tempête
-Montent par un effort du précipice au faîte,
-Et souvent que le sort favorise leur jeu,
-Ils hasardent beaucoup, et ne gagnent pas peu.
-Assurez votre gloire, elle en sera moins belle,
-Si de ces feux éteints il reste une étincelle,
-Un ennemi, César, nous est toujours fatal,
-Quelque faible qu'il soit il peut faire du mal,
-Antoine est en ce rang, vous le devez détruire,
-Ou le mettre en état de ne vous pouvoir nuire.
-
--*who_cesar
-J'approuve ce conseil dont l'exécution
-Est un des plus grands points de ta commission.
-
--*who_agripe
-Vous m'honorez beaucoup.
-
--*who_cesar
-      Presse, et force à se rendre
-Cette ville en état de ne se plus défendre,
-Si son peuple affaibli veut faire le mutin,
-Signale de son sang ton glorieux butin,
-Rase les beaux palais de ces riches monarques
-Qui sont de leur grandeur les plus superbes marques,
-Que cette nation ressente mon courroux,
-Le vainqueur soit cruel, si le vaincu n'est doux,
-Que rien de mes soldats n'échappe la furie,
-Et qu'on cherche la place où fut Alexandrie.
-
-**** *book_ *id_II02 *act_II *date_1635
-
--*who_antoine
 Perfide, coeur ingrat, par ce dernier effort
 Enfin ta trahison a conspiré ma mort,
 Enfin mon désespoir contente ton envie,
@@ -609,14 +229,6 @@ L'honneur de ma défaite aux pompes de son char,
 Dans la fin de mes jours son triomphe s'achève,
 Ma mort borne sa gloire, et ma chute l'élève.
 
--*who_lucile
-La fortune est contraire aux projets les plus saints,
-Et puisqu'elle n'a pas secondé vos desseins,
-Dans la condition qui vous rend déplorable
-Une honteuse paix vous serait honorable,
-Qu'on en parle à César.
-
--*who_antoine
       Ha jour infortuné !
 Recevrais-je d'autrui ce que j'ai tant donné !
 Je me suis vu, Lucile, en ces degrés suprêmes,
@@ -636,48 +248,13 @@ Afin de n'en pas rendre une ingrate jalouse,
 Le mauvais traitement qu'il voit que je lui fais
 Est un juste prétexte à refuser la paix.
 
--*who_lucile
-Il sait bien appliquer l'honneur d'une victoire,
-Moins il en usera, plus il aura de gloire.
-
--*who_antoine
 Il veut régner tout seul.
 
--*who_lucile
-      Qu'il en ait le plaisir,
-Et vengez-vous de lui par son propre désir,
-Renoncez à la part d'une grande fortune,
-Et que deux portions se réduisent en une :
-Il vous prive d'un bien que vous devez quitter,
-Il vous ôte un fardeau qu'il ne pourra porter,
-Pour vous rendre innocent il se noircit d'un crime,
-Et son ambition vous décharge, et l'opprime :
-Qu'il règne seul, qu'au monde il serve seul d'appui,
-Et voyez le gémir d'un lieu plus bas que lui,
-Qu'il soit tout seul en butte aux coups de la tempête,
-Et que le sort pour deux ne frappe qu'une tête,
-Qu'on dise, abandonnant un bien qui vous est dû,
-Il a quitté l'Empire, et ne l'a pas perdu ;
-Disposez en ainsi cependant qu'il est vôtre,
-Dérobez cette gloire au triomphe d'un autre,
-Il n'est rien plus honteux qu'un sceptre que l'on perd,
-Qui le quitte est plus roi que celui qui s'en sert.
-
--*who_antoine
 Et bien quand de deux maux j'éviterai le pire,
 Quand j'aurai dépouillé ce vénérable Empire
 Qui fait qu'en mille endroits mon nom est respecté,
 Où trouverai-je après un lieu de sûreté ?
 
--*who_lucile
-Partout où l'on verra luire votre présence,
-Ne possédant plus rien vivez en assurance,
-Tel à qui votre nom fut jadis en horreur,
-Dira plein de respect, il fut notre empereur,
-César sera contraint de ne vous plus poursuivre,
-Ne lui pouvant plus nuire, il vous laissera vivre,
-
--*who_antoine
 Ne crois point que César m'exemptât du trépas,
 Tandis que je vivrais il ne régnerait pas,
 Crois plutôt qu'il suivrait l'ordinaire maxime
@@ -685,10 +262,6 @@ Qui fait pour s'établir une vertu d'un crime,
 Et donnant à sa gloire un solide soutien
 Troublerait mon repos pour assurer le sien.
 
--*who_lucile
-Rendez-vous donc à lui.
-
--*who_antoine
       Je savais bien, Lucile,
 Que tu ne m'offrirais qu'un remède inutile,
 Et que j'attirerais ton jugement bien sain
@@ -716,97 +289,6 @@ Et je fais aujourd'hui ce qu'il fera demain.
 Allons finir mes maux, ne pleure point, Lucile,
 Pour une seule mort tes pleurs m'en donnent mille.
 
-**** *book_ *id_II03 *act_II *date_1635
-
--*who_cleopatre
-Comment, on la trahi ?
-
--*who_dircet
-      Que votre majesté
-Apprenne le succès de cette lâcheté.
-Aussitôt que le peuple assemblé dans la ville
-A vu sortir Antoine, assisté de Lucile,
-On l'a vu sans dessein courir de toutes parts,
-Les femmes, les enfants, les plus faibles vieillards
-Ont monté sur les tours afin de voir combattre,
-Et du toit des maisons il s'est fait un théâtre.
-
--*who_cleopatre
-Nous étions lors au temple, où je priais les dieux
-De nous favoriser d'un succès glorieux.
-
--*who_dircet
-De ces lieux élevés le peuple voit sans peine
-Le combat préparé sur l'une, et l'autre plaine,
-La terre avec horreur couverte d'escadrons,
-Le vaste front des eaux tout coupé d'avirons,
-La poussière s'élève en épaisse fumée
-Qui couvre tout le gros de l'une, et l'autre armée,
-Et sous mille vaisseaux qui crèvent de soldats
-L'onde paraît superbe, en ne paraissant pas.
-Antoine se voyant une si belle flotte
-Du rivage l'anime, et lui sert de pilote,
-Puis se réjouissant de sa fidélité,
-Tout le monde, dit-il, ne nous a pas quitté,
-Mais ses yeux pour un peu flattaient son infortune,
-La trahison des siens met deux flottes en une,
-On les voit toutes deux lentement s'approcher,
-L'une, et l'autre s'embrasse, au lieu de s'accrocher.
-
--*who_cleopatre
-Dieux quelle perfidie !
-
--*who_dircet
-      En ce puissant orage
-Antoine reste ferme, il ne perd point courage,
-Et sous un front constant, et plein de gravité
-Cache le désespoir de cette lâcheté.
-Compagnons (il parlait au reste de l'armée)
-C'est par ici qu'il faut chercher la renommée,
-C'est ici qu'il faut vaincre, ayant bien combattu,
-Et qu'il faut que le vice anime la vertu,
-Vous voyez les effets d'un élément perfide,
-Mais votre coeur est ferme, et la terre est solide.
-Il tient à des poltrons ces généreux propos,
-Et devant qu'il achève on lui tourne le dos ;
-Il rentre dans la ville, et c'est là qu'il éclate,
-Qu'il déteste le sort, qu'il vous appelle ingrate ;
-Car dans son désespoir qui se fait craindre à tous
-Son esprit furieux n'en accuse que vous.
-Je m'en vais le trouver.
-
--*who_cleopatre
-      De tout je suis la cause,
-Quoique d'un vain bonheur la fortune dispose,
-On ne s'en prend qu'à moi quand l'on en est haï,
-J'aime toujours César lors qu'Antoine est trahi,
-De tant de perfidie on m'estime capable,
-Et parce que je souffre on me juge coupable.
-
--*who_eras
-Vous n'êtes pas, Madame, ici trop sûrement,
-Sa fureur pourrait bien pêcher innocemment.
-
--*who_charmion
-Il faudrait s'éloigner.
-
--*who_cleopatre
-      Envoyons Diomède
-L'avertir que la mort est mon dernier remède,
-Et que mon coeur n'a pu souffrir son déplaisir,
-Je mourrai sans regret s'il en jette un soupir,
-Ou bien s'il a pour moi quelque flamme de reste,
-Qu'il compte ses soupirs, qu'il observe son geste,
-Et s'il me trouve morte à son heureux retour,
-Un si charmant récit me peut rendre le jour.
-Que le bruit de ma mort court toute la ville,
-Ces superbes tombeaux nous serviront d'asile,
-Et nous transporterons dans ces funestes lieux
-Ce que j'ai plus de riche, et de plus précieux.
-
-**** *book_ *id_III01 *act_III *date_1635
-
--*who_antoine
 Armes, brillants éclairs des foudres de la guerre,
 Dont l'éclat redoutable a fait pâlir la terre,
 Ce n'est plus à ce corps qu'il faut que vous serviez,
@@ -840,27 +322,6 @@ Qu'il te faut sur ma vie accomplir ta promesse,
 Tu m'as promis la mort en ma nécessité,
 C'est le prix dont tu dois payer ta liberté.
 
--*who_eros
-Ma liberté me sert de légitime excuse,
-Reprenez ma franchise, ou souffrez que j'en use,
-Captif, je vous promis de vous donner la mort,
-Libre, je m'en rétracte, et ne vous fais point tort ;
-Vous m'avez fait un bien de m'ôter d'esclavage,
-Si vous me le laissez je le mets en usage,
-Et si vous me l'ôtez je suis comme j'étais
-Déchargé du secours que je vous promettais ;
-Vous voulez que ma main dans votre sang se lave,
-Si vous me contraignez je suis encore esclave,
-L'étant je ne dois point vous payer du trépas,
-Et je n'achète point ce qu'on ne me vend pas.
-Je ne serai jamais homicide, ni traître
-Pour faire mon bonheur du malheur de mon maître,
-Que mon corps dans les fers traîne un sort languissant,
-J'y serai bienheureux si j'y suis innocent,
-Qu'à vos sévérités je serve de victime,
-Je souffre sans regret, si je souffre sans crime.
-
--*who_antoine
 Que de ton aide, ami, je suis mal assisté,
 Et que je suis trahi de ta fidélité,
 La plupart de mes gens ont quitté mon service,
@@ -880,22 +341,6 @@ Qu'à peine seulement suis-je encore ton maître,
 Ces vains titres passés causent-ils ton refus ?
 Et dois-je toujours être à cause que je fus ?
 
--*who_eros
-Prenez d'autres que moi pour vous être homicides,
-Un seul vous est fidèle, et cent vous sont perfides :
-Qu'un d'entre eux vous oblige en ce désir pressant,
-Il est déjà coupable, et je suis innocent,
-Qu'il répare sur vous ma désobéissance,
-Que son crime une fois sauve mon innocence,
-Qu'il vous donne un trépas qui ne vous est point dû,
-Et qu'il verse le sang qu'il a mal défendu.
-Hélas ! C'est bien assez que mon empereur meure,
-C'est assez que je vive afin que je le pleure,
-Sans que ces lâches mains lui creusent un tombeau,
-Que je sois son esclave, et non pas son bourreau,
-J'embrasse ses genoux.
-
--*who_antoine
       Contente mon envie,
 C'est me donner beaucoup que de m'ôter la vie,
 Ta molle affection m'afflige au dernier point,
@@ -913,41 +358,16 @@ A fait durer l'empire aussi longtemps que l'être,
 Que ton coeur s'amollisse à mon funeste aspect,
 Et donne à la pitié ce qu'il nie au respect.
 
--*who_eros
-Vous voulez donc mourir ?
-
--*who_antoine
       Cléopâtre m'appelle,
 Dans son teint plus hideux la mort me semble belle,
 Et je veux à ce triste, et déplorable jour
 Faire voir un triomphe, et d'honneur, et d'amour.
 
--*who_eros
-Et de plus par ma main ?
-
--*who_antoine
       Oui si j'ai la puissance
 D'obtenir cet effet de ton obéissance.
 
--*who_eros
-Réduit malgré moi-même à cette extrémité,
-Mon coeur, obéissons à la nécessité,
-Faisons devant le ciel un acte illégitime,
-Et tâchons d'éviter un crime par un crime,
-Étonnons l'avenir de cet acte important,
-S'il ne peut l'approuver, qu'il en parle pourtant,
-Puisque vous demandez une cruelle marque
-Des horreurs que l'on voit sur le front de la Parque
-Quand d'un oeil menaçant elle nous vient saisir,
-Je m'en vais contenter votre sanglant désir.
-
--*who_antoine
 Ô rare serviteur !
 
--*who_eros
-      Donnez-moi votre épée.
-
--*who_antoine
 Ami, jamais ta main ne fut mieux occupée,
 Frappe, et souffre au dessein où mon coeur se résout,
 Empereur que je suis que je meure debout,
@@ -956,23 +376,8 @@ D'un front toujours égal nous la devons attendre ;
 Frappe, sans prolonger mon trépas d'un moment,
 Et que mon dernier mot soit un commandement.
 
--*who_eros
-Vous voulez que ce fer vous ôte la lumière ?
-Vous attendez la mort de ma main meurtrière ?
-Je dois être conforme à vos tristes souhaits,
-Octroyez un pardon au crime que je fais.
-
--*who_antoine
 Frappe, je te pardonne une si belle offense.
 
--*who_eros
-Vous me pardonnez donc ma désobéissance,
-Ou ma main, si j'ai dû vous donner le trépas,
-Me l'offrant me punit de ne vous l'offrir pas.
-
-**** *book_ *id_III02 *act_III *date_1635
-
--*who_antoine
 Que fais-tu ? Mais déjà de ce noble courage
 Dans les flots de son sang la vie a fait naufrage.
 Eros, tu fais ton mal de ce qui fait mon bien,
@@ -1022,89 +427,29 @@ La gloire de mes jours ne fut pas si tôt morte,
 L'on ne m'eût vu jamais amoureux, ni vaincu,
 Et j'aurais vécu plus, si j'eusse moins vécu.
 
-**** *book_ *id_III03 *act_III *date_1635
-
--*who_dircet
-Ô tragique spectacle !
-
--*who_antoine
       Ha douleur violente !
 Amis, rendez ma mort, ou plus douce, ou moins lente,
 Exercez sur ce corps un effet d'amitié,
 Et faites par un meurtre un acte de pitié.
 
--*who_dircet
-Hélas ! Notre empereur, quel désespoir vous porte
-À ce cruel dessein ? La reine n'est pas morte.
-
--*who_antoine
 Est-il possible, ô dieux, que ne puis-je guérir,
 Ha je meurs maintenant du regret de mourir !
 Puisque selon mes voeux respire cette belle,
 Que devant mon trépas l'on me porte vers elle,
 Pour jouir des douceurs de nos derniers propos.
 
--*who_dircet
-Quel est ce corps sanglant ?
-
--*who_antoine
       Celui du brave Eros,
 Il a plongé pour moi ce fer dans ses entrailles,
 Rendez-lui les devoirs.
 
--*who_dircet
-      Dieux que de funérailles !
-
-**** *book_ *id_III04 *act_III *date_1635
-
--*who_lucile
-La ville est à César, les habitants troublés
-Se vont rendre au vainqueur, et lui portent les clés,
-Faut-il que je l'annonce, et me dois-je résoudre
-À lancer par ma voix ce dernier coup de foudre ?
-Déplorable empereur, dont le nom m'est si cher,
-J'avance ton trépas au lieu de l'empêcher :
-Ce dernier accident trop puissamment te touche,
-Et l'arrêt de ta mort va sortir de ma bouche.
-Hélas que le soleil te donne un triste jour,
-Et que le sort te hait à cause de l'amour !
-Entrons dans son palais, ô dieux quelle harangue !
-Juste ciel que ne suis-je ou sans vie, ou sans langue !
-
-**** *book_ *id_III05 *act_III *date_1635
-
--*who_antoine
 Ne verse point sur moi tant d'inutiles pleurs,
 Par ton affliction n'accrois point mes douleurs,
 De la fin de mes jours mon bonheur doit éclore,
 Et je meurs satisfait puisque tu vis encore,
 Ajoute la constance à tes autres vertus.
 
--*who_cleopatre
-Où l'irai-je chercher quand tu ne seras plus ?
-Mes seules cruautés ont ouvert cette plaie,
-Et par ma feinte mort je t'en cause une vraie,
-Mes pleurs, ni mes soupirs ne te peuvent guérir,
-Et tu meurs en effet quand je feins de mourir.
-
--*who_antoine
 Console-toi, mon coeur.
 
--*who_cleopatre
-      Sévères destinées,
-Retranchez-vous si tôt le fil de ses années !
-Et vous mes ennemis, dieux inhumains, et sourds,
-Me privez-vous si tôt de l'âme de mes jours !
-Ma voix peut contre vous proférer des blasphèmes,
-Et je puis bien pêcher si vous pêchez vous-mêmes.
-Tu meurs à ce funeste, et déplorable instant,
-Antoine m'est fidèle, et me quitte pourtant,
-Ha trop cruel excès d'une amitié si rare !
-La même nous joignit, la même nous sépare,
-Tu dois cette blessure au bruit d'un faux trépas,
-Et je te vois mourant, et ne t'imite pas.
-
--*who_antoine
 La mort que je me donne égale une victoire,
 Ne suis donc point mes pas pour partager ma gloire,
 Que tout seul je subisse une commune loi,
@@ -1128,24 +473,12 @@ Et désirant ton bien je souhaite un rival,
 Je veux que de tes yeux son âme soit atteinte,
 Et je fais mon désir de ce qui fut ma crainte.
 
--*who_cleopatre
-Qu'un autre amant reçut des gages de ma foi ?
-Perds ce cruel soupçon, qu'il meure devant toi,
-Crois que ma passion est pure, et généreuse,
-Et que je suis fidèle autant que malheureuse,
-Que toi seul es l'objet qui cause mon souci.
-
--*who_antoine
 Pour mourir doucement je le veux croire ainsi.
 Adieu je n'en puis plus, les forces me défaillent,
 Mes dernières douleurs trop vivement m'assaillent,
 C'est en vain que mes sens tâchent de résister,
 Heureux qui d'un tel coup se laisse surmonter !
 
--*who_cleopatre
-Ô dieux !
-
--*who_antoine
       Puisque le ciel veut que je t'abandonne,
 Chéris Antoine, et suis les avis qu'il te donne,
 Ne plains point mon désastre, et conserve tes jours
@@ -1157,288 +490,179 @@ Qu'ils imitent leur père, et n'en rougissent pas.
 C'en est fait, je me sens réduit au dernier terme,
 L'amour m'ouvre les yeux, mais la mort les referme.
 
--*who_cleopatre
-Ô sensible douleur ! Quoi je perds mon appui ?
-Dieux ma vigueur me laisse, et je meurs comme lui.
 
-**** *book_ *id_III06 *act_III *date_1635
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
 
--*who_eras
-Elle va rendre l'âme, ha cruelle infortuné !
-Que nos pleurs soient communs, notre perte est commune.
+Ce sont traits de fortune.
 
--*who_charmion
-Pouvons-nous par des pleurs rendre le sort plus doux,
-Et soulager un mort, une mourante, et nous ?
-Ce mal veut un secours plus puissant que le nôtre,
-Pour faire vivre l'une, il faut ranimer l'autre,
-Comme une seule vie anime deux amants,
-Un seul trépas aussi termine leurs tourments.
+Je serais bien ingrat.
 
--*who_eras
-Madame, elle revient.
+Si depuis qu'à ses yeux votre âme est asservie
+Tous vos faits ont terni l'honneur de votre vie,
+Si votre sort changea quand son oeil vous surprit,
+Accusez son visage, et non pas son esprit,
+Quand le subtil appas d'une beauté nous blesse
+Nous ne sommes vaincus que par notre faiblesse :
+Chassez de votre esprit ces injustes soupçons,
+Le sort vous persécuté en assez de façons ;
+La reine vous trahit ?
 
--*who_cleopatre
-      Qui m'a rendu la vie,
-Et les tristes douleurs dont elle était suivie ?
-Ce corps a succombé sous l'effort du trépas,
-Mais je reviens, Antoine, et tu ne reviens pas,
-J'ai perdu pour jamais cet objet que j'adore,
-Je suis dans un sépulcre, et si je vis encore :
-Ciel, puisque vous m'ôtez ce trésor précieux,
-Que n'ôtez-vous aussi la lumière à mes yeux,
-Pourquoi dans les malheurs dont je suis affligée
-De ce frivole don vous serai-je obligée ?
-Que ferai-je des biens qui me sont superflus,
-Et qu'ai-je plus à voir si je ne le vois plus ?
-Que notre sort est bas, qu'il sert d'un triste exemple,
-Et donne peu d'envie à l'oeil qui nous contemple !
-Qu'une frêle grandeur se perd facilement !
-Que l'on monte avec peine, et qu'on tombe aisément !
-Que nous devons haïr l'éclat des diadèmes,
-Et que ses amateurs sont ennemis d'eux-mêmes !
-Que l'heure est différent d'un prince, et d'un sujet,
-Et que l'ambition connaît mal son objet !
-Le ciel m'aimait, ma gloire en était une preuve,
-J'étais femme d'Antoine, et n'en suis plus que veuve,
-J'avais des qualités, des titres absolus,
-Je n'ai que le regret de ne les avoir plus,
-Et de tous ces grands biens dont le destin me prive,
-Un seul tombeau me reste, encore y suis-je vive.
-Ô changement funeste, et digne de pitié !
-Reçois, mon coeur, ces pleurs de ta chère moitié,
-Réponds à ces baisers que je donne à ta cendre,
-Et reçois les pourtant, si tu ne les peux rendre,
-Accepte ces cheveux que je confonds aux tiens,
-Je t'en fais un hommage, ils furent tes liens,
-Permets que je diffère un trépas plein de charmes,
-Et que devant mon sang je répande mes larmes.
+Trahi d'elle ? Et comment ?
 
--*who_eras
-Que votre majesté modère ses ennuis,
-Consolez-vous, madame.
+Ce beau dessein vous rend digne du sang d'Hercule.
 
--*who_cleopatre
-      En l'état où je suis ?
+Je vous suivrai partout, les hommes généreux
+Savent bien n'être plus quand ils sont malheureux.
 
--*who_eras
-Mais, Madame, songez que la mort est commune,
-Tout ce que voit le ciel subit cette fortune,
-Le trépas est un but où l'on nous voit courir,
-Mourant l'on a vécu, vivant on doit mourir :
-Cette loi qui nous rend mortels comme nous sommes
-Fut faite pour Antoine, et pour les autres hommes,
-Pourquoi vous fâchez-vous qu'il se donne aujourd'hui
-Ce qu'un lâche attendrait d'un autre que de lui,
-Il donne à votre amour le nom d'ingratitude,
-Sa mort lui semble douce, elle vous semble rude,
-Et fâché des regrets dont vous l'accompagnez,
-Quoique mort il vous plaint comme vous le plaignez :
-Il faut voir son destin avec un oeil d'envie,
-Il eût perdu l'honneur, il ne perd que la vie,
-Rome qui ne le vit aux triomphes divers
-Que chargé de lauriers, l'eût vu chargé de fers,
-Confus, l'oeil bas, le front sur qui la rougeur monte,
-Suivre un vainqueur superbe honoré par sa honte,
-Lors vous eussiez loué sa générosité,
-Et ce que vous pleurez vous l'eussiez souhaité.
+Nous tardons bien longtemps.
 
--*who_cleopatre
-Il est vrai.
+Qu'une femme aisément le séduit, et l'abuse !
+Absente, elle est coupable, et présente, il s'accuse.
 
--*who_charmion
-      Cessez donc de le plaindre, Madame,
-Puisqu'il meurt généreux pour ne pas vivre infâme :
-Cessez de le pleurer, et n'entreprenez plus
-De troubler son repos par des cris superflus,
-Soyez pour votre bien propice à sa prière,
-Tâchez d'exécuter sa volonté dernière,
-S'il obtient un rival ce n'est point le trahir,
-Si vous suivez ses pas c'est lui désobéir,
-Que César à vos yeux soumette sa victoire,
-Qu'il soit dans votre coeur, lui dans votre mémoire,
-Ne demeurez point ferme en ce frivole ennui,
-Et sauvez ce qui reste, et de vous et de lui
-Vos chers enfants.
+Qu'amour en peu de temps rend un coeur abattu,
+Et que ce puissant vice affaiblit la vertu !
 
--*who_cleopatre
-      Non, non, sois plus femme que mère,
-Ils te doivent la vie, et tu la dois au père,
-Change donc cette vie en un juste trépas,
-Elle te rend ingrate, et ne leur aide pas :
-Qu'ils ne regardent point l'honneur de leurs ancêtres,
-Nous eûmes des sujets, mais ils auront des maîtres,
-Ils n'auront point l'éclat que leurs parents ont eu,
-S'ils n'en ont pas les biens, qu'ils en aient la vertu,
-Qu'ils sachent qu'au malheur le plus superbe plie,
-Qu'il faut étant vaincu que soi-même on s'oublie,
-Qu'il faut lors être souple, et que l'humilité
-Est un enseignement de la nécessité.
-Mais puis que leur espoir ne dépend point d'un autre,
-Sauvons leur vie avant que de perdre la nôtre,
-Et puisqu'un long trépas rendra nos voeux contents,
-Vivons encore un peu pour mourir plus longtemps.
+Est-ce là le moyen de disputer sa mort ?
+Sans vous pourrons-nous faire un généreux effort ?
+Comment soutiendrons-nous le coup de la tempête ?
+Que pourra faire un corps qui n'aura point de tête ?
+Vous me pardonnerez, si mon coeur librement
+Dans nos pressants malheurs vous dit son sentiment,
+Quoi voulez-vous encore aux yeux de tout le monde
+Être oisif sur la terre, et fugitif sur l'onde ?
+Continuez l'honneur de vos premiers exploits,
+Votre seul nom jadis fit trembler tant de rois,
+Vous avez attaqué celui qui vous affronte,
+Et vous avez vaincu celui qui vous surmonte ;
+Suivez vos grands desseins, tâchez de résister,
+Dans votre malheur même on vous peut redouter :
+Si madame est l'objet dont votre âme est ravie,
+Vous devez conserver son sceptre, et votre vie,
+Vous voyez que César l'assiège avec ardeur,
+Faut-il que sa beauté ruine sa grandeur ?
+Et lui pouvez-vous dire en votre amour extrême,
+Je ne vous défends point, parce que je vous aime ?
+Que ce coeur où la gloire établit son séjour
+Fasse d'une mollesse un généreux amour :
+Une mort au combat peut borner votre peine
+Belle pour un amant, digne d'un capitaine,
+Nous mourrons à vos pieds devant que le destin
+Fasse de votre vie un glorieux butin,
+Et pour moi je mourrai plus content que tout autre,
+Si mon sang à l'honneur de se mêler au vôtre.
 
-**** *book_ *id_IV01 *act_IV *date_1635
+La fortune est contraire aux projets les plus saints,
+Et puisqu'elle n'a pas secondé vos desseins,
+Dans la condition qui vous rend déplorable
+Une honteuse paix vous serait honorable,
+Qu'on en parle à César.
 
--*who_cesar
-J'élève qui s'abaisse, et quoi qu'on se propose
-Devant moi l'on n'est rien pour être quelque chose :
-Vous voyant en état d'obtenir un pardon
-Ma générosité vous accorde ce don.
-Je ne m'emporte point à la vengeance prompte,
-Je me règle aux humeurs de celui que je dompte,
-Je prends sur le vaincu l'exemple que je suis,
-Et s'il est fier, ou doux, César l'est comme lui :
-Je ne désire point d'ensanglanter ma gloire,
-Des vaincus à genoux honorent ma victoire,
-Mon courage est content de la honte qu'ils ont,
-Et leur sang me plaît moins à ce fer qu'à leur front.
-Quand des plus factieux je rends les esprits calmes,
-Ce n'est point leur trépas qui me couvre de palmes,
-C'est leur confusion à qui je dois ce bien,
-Et quand leur front rougit, il couronne le mien.
-Vivez, je suis fâché qu'Antoine votre maître
-Ait été généreux pour m'empêcher de l'être,
-Ma plus belle vertu perd son lustre en sa mort,
-Son bras désespéré le tuant m'a fait tort,
-J'eusse par son bonheur châtié son offense,
-Et je plains son trépas qui l'ôte à ma clémence,
-J'eusse été satisfait de l'avoir convaincu,
-Et le parent m'eût fait oublier le vaincu.
-Mais il s'est fait mourir avec ses propres armes,
-Sa dernière infortune est digne de nos larmes,
-Je plains son désespoir qui la mis à ce point,
-Et j'ai pitié de lui parce qu'il n'en eût point.
-Levez-vous, mes amis, visitez votre reine,
-Elle souffre beaucoup, adoucissez sa peine,
-Qu'elle vive en repos, quelle ne craigne rien,
-Et par votre bonheur qu'elle juge du sien.
-Je lui viens d'envoyer le sage Proculée,
-Afin que de ma part elle soit consolée,
-Et qu'il la persuade à sortir des tombeaux
-Où toujours sa tristesse à des objets nouveaux,
-Quelle ait toujours les droits d'une grande princesse,
-Que son ennui se passe, et que sa crainte cesse,
-Bref qu'elle espère tout d'un vainqueur indulgent,
-Elle est reine, et César triomphe en l'obligeant.
+Il sait bien appliquer l'honneur d'une victoire,
+Moins il en usera, plus il aura de gloire.
 
--*who_deputes
-Redoutable empereur, notre ville est ravie,
-Et vous prenez nos coeurs en nous donnant la vie,
-Trop heureux, si le ciel nous avait destinés
-À perdre en vous servant ce que vous nous donnez.
+      Qu'il en ait le plaisir,
+Et vengez-vous de lui par son propre désir,
+Renoncez à la part d'une grande fortune,
+Et que deux portions se réduisent en une :
+Il vous prive d'un bien que vous devez quitter,
+Il vous ôte un fardeau qu'il ne pourra porter,
+Pour vous rendre innocent il se noircit d'un crime,
+Et son ambition vous décharge, et l'opprime :
+Qu'il règne seul, qu'au monde il serve seul d'appui,
+Et voyez le gémir d'un lieu plus bas que lui,
+Qu'il soit tout seul en butte aux coups de la tempête,
+Et que le sort pour deux ne frappe qu'une tête,
+Qu'on dise, abandonnant un bien qui vous est dû,
+Il a quitté l'Empire, et ne l'a pas perdu ;
+Disposez en ainsi cependant qu'il est vôtre,
+Dérobez cette gloire au triomphe d'un autre,
+Il n'est rien plus honteux qu'un sceptre que l'on perd,
+Qui le quitte est plus roi que celui qui s'en sert.
 
-**** *book_ *id_IV02 *act_IV *date_1635
+Partout où l'on verra luire votre présence,
+Ne possédant plus rien vivez en assurance,
+Tel à qui votre nom fut jadis en horreur,
+Dira plein de respect, il fut notre empereur,
+César sera contraint de ne vous plus poursuivre,
+Ne lui pouvant plus nuire, il vous laissera vivre,
 
--*who_epaphrodite
-Faut-il goûter si peu le fruit d'une victoire,
-Et pour cacher leur honte obscurcir votre gloire ?
-Un coeur est bien peu fort quand la pitié le fend,
-Quoi serez-vous vainqueur sans être triomphant ?
-Vous êtes donc sensible au souci de leur honte,
-Et quand vous surmontez, c'est lors qu'on vous surmonte ?
-La victoire en son prix ne se doit refuser,
-Et qui sait l'acquérir doit savoir en user :
-Ce n'est pas la raison que des soupirs, des larmes,
-Interrompent le cours de l'honneur de vos armes,
-Il faut être inflexible, et c'est un grand abus
-De faire ses vainqueurs de ceux qu'on a vaincus ;
-Qui voyant l'ennemi dont il a la victoire
-A pitié de sa honte, est cruel à sa gloire,
-Et si ce mouvement ne s'altère, ô César !
-Rome en verra bien peu derrière votre char.
+Rendez-vous donc à lui.
 
--*who_cesar
-De quoi m'accuses-tu ?
+La ville est à César, les habitants troublés
+Se vont rendre au vainqueur, et lui portent les clés,
+Faut-il que je l'annonce, et me dois-je résoudre
+À lancer par ma voix ce dernier coup de foudre ?
+Déplorable empereur, dont le nom m'est si cher,
+J'avance ton trépas au lieu de l'empêcher :
+Ce dernier accident trop puissamment te touche,
+Et l'arrêt de ta mort va sortir de ma bouche.
+Hélas que le soleil te donne un triste jour,
+Et que le sort te hait à cause de l'amour !
+Entrons dans son palais, ô dieux quelle harangue !
+Juste ciel que ne suis-je ou sans vie, ou sans langue !
 
--*who_epaphrodite
-      D'avoir trop de clémence,
-Aux grands cette vertu nuit dans son abondance,
-Étouffe la justice en un sévère coeur,
-Oblige le vaincu, mais fait tort au vainqueur,
-Cette lâche vertu n'en peut souffrir aucune,
-Et vous en cachez cent pour n'en faire voir qu'une,
-Par elle vous quittez le prix de vos combats,
-Vous ne châtiez point, vous ne triomphez pas :
-Antoine librement s'est privé d'une vie
-Qu'avait à votre honneur la fortune asservie,
-Et se voyant forcé de vous suivre aujourd'hui,
-Il ne l'a pu souffrir, ni vous non plus que lui,
-De sorte que pour voir ce triomphe équitable,
-L'un fut trop généreux, l'autre est trop pitoyable.
-Usez de ce qui reste, et pour votre bonheur
-Dans Rome promenez leur honte, et votre honneur.
 
--*who_cesar
-Estimes-tu César si peu jaloux de gloire
-Qu'il refusât le prix d'une telle victoire ?
-Je serais ennemi de mon contentement,
-Non, non, je flatte ainsi pour vaincre doublement,
-Je les mène en triomphe avec moins de pompe,
-Mon bras les a soumis, ma clémence les trompe,
-Et déjà le vaincu par un trait sans égal
-Honore ma fortune, et ne sent pas son mal,
-Je mets tant d'artifice à déguiser sa peine
-Que même il se croit libre alors que je l'enchaîne,
-Je fais que tous ses maux lui passent pour des biens,
-Et pour mieux l'éblouir je dore ses liens.
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dircet
 
--*who_epaphrodite
-Ce noble stratagème, et cette douce amorce
-Font voir que votre esprit égale votre force,
-Et qu'on est téméraire en un degré pareil,
-Ou tenant contre vous, ou vous donnant conseil.
+En ce noble dessein où l'honneur vous engage,
+Nous ferons voir aussi des effets de courage,
+Et quoi que tout vous quitte en ce malheur commun,
+Cent se perdront encor pour en conserver un.
+Mais j'aperçois la reine.
 
--*who_cesar
-Suivant ton beau conseil j'oubliais ma victoire,
-Je perdais Cléopâtre, et le prix de ma gloire,
-Car lui donnant avis de sa captivité,
-Rome n'eut jamais vu qui j'avais surmonté ;
-Que sert de l'avertir, quand sa fortune change,
-De l'état misérable où son destin la range ?
-C'est vainement pour nous irriter sa douleur,
-Quiconque est malheureux sait assez son malheur,
-Le sort est reconnu de ceux qu'il persécute,
-Et qui tombe d'un trône en ressent bien la chute.
-Je veux traiter la reine avec un grand honneur,
-Je veux que sa misère ait face de bonheur,
-Qu'on la respecte ailleurs comme dans sa patrie,
-Et qu'elle trouve à Rome une autre Alexandrie,
-Le respect sera tel quand on l'y recevra,
-Qu'elle croira mener le char qu'elle suivra,
-C'est comme il faut traiter ceux qui sont dans ce gouffre,
-Le vainqueur est content sans que le vaincu souffre,
-Un semblable triomphe est digne de nos soins,
-Et pour être secret il n'éclate pas moins.
-J'en veux faire un spectacle aux yeux de mes armées,
-Tandis je la repais de ces vaines fumées,
-Titre, honneur, dignité, couronne, sceptre, bien,
-Et je lui laisse tout pour ne lui laisser rien.
+      Que votre majesté
+Apprenne le succès de cette lâcheté.
+Aussitôt que le peuple assemblé dans la ville
+A vu sortir Antoine, assisté de Lucile,
+On l'a vu sans dessein courir de toutes parts,
+Les femmes, les enfants, les plus faibles vieillards
+Ont monté sur les tours afin de voir combattre,
+Et du toit des maisons il s'est fait un théâtre.
 
--*who_agripe
-Ainsi de belles fleurs l'hostie est couronnée,
-Alors qu'au sacrifice en pompe elle est menée,
-Ainsi la main qui prend les sens en trahison
-Dans une coupe d'or présente le poison.
-Mais quel homme s'avance ? On voit sur son visage
-Des signes évidents d'un sinistre message,
-Ses soupirs sont témoins d'un regret violent.
+De ces lieux élevés le peuple voit sans peine
+Le combat préparé sur l'une, et l'autre plaine,
+La terre avec horreur couverte d'escadrons,
+Le vaste front des eaux tout coupé d'avirons,
+La poussière s'élève en épaisse fumée
+Qui couvre tout le gros de l'une, et l'autre armée,
+Et sous mille vaisseaux qui crèvent de soldats
+L'onde paraît superbe, en ne paraissant pas.
+Antoine se voyant une si belle flotte
+Du rivage l'anime, et lui sert de pilote,
+Puis se réjouissant de sa fidélité,
+Tout le monde, dit-il, ne nous a pas quitté,
+Mais ses yeux pour un peu flattaient son infortune,
+La trahison des siens met deux flottes en une,
+On les voit toutes deux lentement s'approcher,
+L'une, et l'autre s'embrasse, au lieu de s'accrocher.
 
--*who_epaphrodite
-Il porte, ce me semble, un coutelas sanglant.
+      En ce puissant orage
+Antoine reste ferme, il ne perd point courage,
+Et sous un front constant, et plein de gravité
+Cache le désespoir de cette lâcheté.
+Compagnons (il parlait au reste de l'armée)
+C'est par ici qu'il faut chercher la renommée,
+C'est ici qu'il faut vaincre, ayant bien combattu,
+Et qu'il faut que le vice anime la vertu,
+Vous voyez les effets d'un élément perfide,
+Mais votre coeur est ferme, et la terre est solide.
+Il tient à des poltrons ces généreux propos,
+Et devant qu'il achève on lui tourne le dos ;
+Il rentre dans la ville, et c'est là qu'il éclate,
+Qu'il déteste le sort, qu'il vous appelle ingrate ;
+Car dans son désespoir qui se fait craindre à tous
+Son esprit furieux n'en accuse que vous.
+Je m'en vais le trouver.
 
--*who_cesar
-Dieux c'est celui d'Antoine, ha funeste spectacle !
-Que la constance ici trouve un puissant obstacle,
-Je ne puis m'empêcher de plaindre ses malheurs,
-Ce sang d'un rocher même attirerait des pleurs,
-Ce triste objet me donne une sensible atteinte,
-Et change en vérité ce qui n'était que feinte.
+Ô tragique spectacle !
 
-**** *book_ *id_IV03 *act_IV *date_1635
+Hélas ! Notre empereur, quel désespoir vous porte
+À ce cruel dessein ? La reine n'est pas morte.
 
--*who_dircet
+Quel est ce corps sanglant ?
+
+      Dieux que de funérailles !
+
 Voila cet ennemi de notre commun bien,
 L'homicide cruel de son maître, et du mien,
 Ce sang, ce coutelas d'une mort lamentable,
@@ -1446,19 +670,6 @@ La marque trop certaine, et l'auteur détestable,
 L'inhumain à vos yeux se montre sans besoin,
 Et sert contre soi-même à vos yeux de témoin.
 
--*who_cesar
-Objet triste, et funeste ! Ici je le confesse,
-Mon coeur ne peut cacher la douleur qui le presse,
-Je verserais des pleurs, mais mon oeil le peut,
-La honte l'en empêche, et la pitié le veut,
-Antoine est déplorable, ha forçons toute honte !
-Je l'ai vaincu vivant, et mort il me surmonte.
-Soldat, contente nous d'un funeste récit,
-Sachons comme il est mort, dis nous ce qu'il a dit.
-Je n'ai su l'accident que par la voix commune
-Qui ne pénètre pas une telle infortune.
-
--*who_dircet
 Sans hommes, sans vaisseaux, sans armes, et sans biens,
 Attaqué par vos gens, et trahi par les siens
 Antoine retourné dans la ville asservie
@@ -1512,10 +723,6 @@ Sachant qu'elle respire, il ne veut plus mourir.
 Enfin nous le portons au sépulcre où la reine
 S'efforçait d'abréger et sa vie, et sa peine.
 
--*who_cesar
-Vous laissa-t-elle entrer ?
-
--*who_dircet
       Non, du haut du tombeau
 Ses filles d'une corde attiraient ce fardeau,
 La reine même aidait en ce vil exercice,
@@ -1527,10 +734,6 @@ Pour y contribuer avec sa faiblesse
 Tendait ses bras mourants, les raidissait exprès,
 Se soulevait un peu, mais retombait après.
 
--*who_cesar
-Son coeur aimait encore ?
-
--*who_dircet
       Il conservait sa flamme,
 La blessure du corps n'avait pas guéri l'âme,
 Ses yeux étaient ardents quand ils perdaient le jour,
@@ -1546,55 +749,211 @@ Applique sur son mal un premier appareil.
 Par son commandement j'apporte cette épée
 Au sang d'un empereur tout fraîchement trempée.
 
--*who_cesar
-Elle honore César d'un présent sans égal,
-Dis-lui qu'elle m'oblige, et que je plains son mal.
 
-**** *book_ *id_IV04 *act_IV *date_1635
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
 
--*who_cesar
-Dieux par ce triste exemple où le malheur préside,
-La fortune me rend, et superbe, et timide !
-Antoine, je te plains, c'est l'orgueil, et l'amour
-Qui t'ont ravi l'empire, et te privent du jour :
-Devant l'injuste effort de ta haine ancienne,
-Quand nous étions amis ma gloire était la tienne,
-Tu partageais l'honneur que les mortels me font,
-Et tes lauriers de même allaient jusqu'à mon front,
-Nous étions compagnons d'une même fortune,
-Rome se divisait, et n'était pourtant qu'une,
-L'on ne distinguait point Antoine de César,
-Pour un double triomphe il ne fallait qu'un char :
-Aussi tout nous offrait des conquêtes aisées,
-Aussi nos légions n'étaient pas opposées,
-Nos communes grandeurs n'avaient aucun défaut,
-Jamais l'aigle romain n'avait volé si haut.
-Faut-il que cette épée aux ennemis fatale,
-Qui se rendit fameuse aux plaines de Pharsale,
-Qui de tant de vaincus avait borné les jours,
-Des tiens par ta main propre ait retranché le cours ?
-Ton ennemi te plaint, oui César te déplore,
-Rome te pleurera, quoiqu'elle saigne encore,
-Le mal qu'elle a reçu de ton ambition
-Lui laisse encor pour toi de l'inclination.
+Avez-vous résolu de sortir aujourd'hui
+Pour combler tous mes sens de frayeur, et d'ennui ?
+Seigneur, considérez les dangers de Bellonne,
+Songez que sa fureur ne respecte personne,
+Que sa rage est aveugle au milieu du combat,
+Et qu'elle traite un roi comme un simple soldat,
+Ne servez point d'objet à sa brutale envie,
+Demeurez en repos, conservez votre vie,
+Et qu'un autre que vous, prodigue de son sang,
+Dans les occasions occupe votre rang,
+Qu'il combatte sans vous, s'il gagne la victoire
+Il en aura la peine, et vous aurez la gloire.
 
--*who_agripe
-Que vous sert cette plainte injuste autant que vaine ?
-Entrons dedans la ville, et visitez la reine :
-Il ne faut pas douter que son nouveau malheur
-Ne la rende subtile à gagner votre coeur,
-Et que pour vous fléchir il ne mette en usage
-Ce qu'elle a dans l'esprit, et dessus le visage :
-Soyez toujours César contre ses forts appas.
+Es-tu las de ma vie, et quand je serai morte
+Verras-tu mieux, cruel, l'amour que je te porte ?
+Contre nos ennemis irai-je me jeter ?
+Suivrai-je le dessein que je te veux ôter ?
+Tu verras si je t'aime, et si je te respecte,
+Oui je veux cesser d'être, ou de t'être suspecte.
 
--*who_cesar
-Ces faibles ennemis ne m'épouvantent pas,
-Et ne peuvent ôter un ornement si rare
-Au triomphe pompeux que Rome nous prépare.
+Votre soupçon injuste est contraire à l'envie
+Que vous semblez avoir de prolonger ma vie,
+Et c'est là m'imposer une trop rude loi
+De vouloir que je vive, et douter de ma foi.
+Quoi donc vous présumez qu'une ardeur déloyale
+S'allume comme ailleurs dans une âme royale ?
+Quoi les maux que je souffre, et ceux que j'ai soufferts,
+L'honneur que j'ai perdu, le sceptre que je perds
+Ne vous assurent pas que je suis demeurée
+Dans la fidélité que je vous ai jurée ?
 
-**** *book_ *id_IV05 *act_IV *date_1635
+Puisqu'un juste remords vous réduit à ce point,
+Pour votre châtiment ne m'abandonnez point,
+Ne voyez le combat que des tours de la ville,
+Et laissez au fourreau votre fer inutile,
+Que sans vous notre armée achève son dessein,
+Et soyez en le chef sans en être la main.
 
--*who_cleopatre
+Malgré moi j'y consens, à la charge, Seigneur,
+Que vous refroidirez cette bouillante ardeur ;
+Ne vous engagez point dans le péril des armes,
+Épargnez votre sang pour épargner mes larmes.
+
+Doux appui de mes jours, fidèles confidentes,
+À qui mes passions sont toutes évidentes,
+Et de qui l'amitié partage mes ennuis,
+Hélas que dois-je faire en l'état où je suis !
+Ma couronne chancelle, et César ne respire
+Que de voir mes états unis à son empire,
+Le Tibre est sur le point de commander au Nil,
+Si mon fidèle amant n'empêche ce péril,
+Mais c'est là le surcroît de ma peine soufferte,
+Je crains plus son danger que je ne crains ma perte,
+Et je me vois réduite à cet étrange point
+Que je veux résister ne me défendant point ;
+Et cependant il croit que je lui suis traîtresse,
+Et que son ennemi lui ravit sa maîtresse,
+Son esprit défiant se peut l'imaginer.
+
+Que dites-vous ?
+
+Je n'attendais de vous qu'une amitié fidèle
+Qui me fit supporter ma fortune cruelle,
+Mais je vois que mon mal n'en devient pas plus doux,
+Et que mes ennemis m'aiment autant que vous,
+Je tire également le sujet de mes larmes
+De vous par vos conseils, de César par ses armes :
+Je quitterais Antoine, et ce perfide coeur
+Trahirait le mérite à cause du malheur ?
+Mon amour périrait comme une amour commune
+Au naufrage fatal de sa bonne fortune ?
+Et la postérité dirait à nos neveux,
+Antoine fut aimé tandis qu'il fut heureux ?
+Ha que plutôt les dieux avec le foudre même
+Arrachent de mon front le royal diadème,
+Et qu'ils donnent plutôt cent maîtres inhumains
+Au sceptre malheureux qui tombe de mes mains !
+Que César triomphant brûle, saccage, pille,
+Qu'il soit victorieux jusques sur ma famille,
+Qu'il prenne, qu'il usurpe, et qu'il ravisse aux miens
+La puissance, et l'espoir de rentrer dans leurs biens.
+
+      Oublierai-je leur père ?
+
+En vain tous vos discours assaillent ma constance,
+Ils ne pourront jamais forcer ma résistance ;
+Vains, et faibles attraits, qui n'avez rien de doux,
+Faites des malheureux plutôt que des jaloux.
+
+Comment, on la trahi ?
+
+Nous étions lors au temple, où je priais les dieux
+De nous favoriser d'un succès glorieux.
+
+Dieux quelle perfidie !
+
+      De tout je suis la cause,
+Quoique d'un vain bonheur la fortune dispose,
+On ne s'en prend qu'à moi quand l'on en est haï,
+J'aime toujours César lors qu'Antoine est trahi,
+De tant de perfidie on m'estime capable,
+Et parce que je souffre on me juge coupable.
+
+      Envoyons Diomède
+L'avertir que la mort est mon dernier remède,
+Et que mon coeur n'a pu souffrir son déplaisir,
+Je mourrai sans regret s'il en jette un soupir,
+Ou bien s'il a pour moi quelque flamme de reste,
+Qu'il compte ses soupirs, qu'il observe son geste,
+Et s'il me trouve morte à son heureux retour,
+Un si charmant récit me peut rendre le jour.
+Que le bruit de ma mort court toute la ville,
+Ces superbes tombeaux nous serviront d'asile,
+Et nous transporterons dans ces funestes lieux
+Ce que j'ai plus de riche, et de plus précieux.
+
+Où l'irai-je chercher quand tu ne seras plus ?
+Mes seules cruautés ont ouvert cette plaie,
+Et par ma feinte mort je t'en cause une vraie,
+Mes pleurs, ni mes soupirs ne te peuvent guérir,
+Et tu meurs en effet quand je feins de mourir.
+
+      Sévères destinées,
+Retranchez-vous si tôt le fil de ses années !
+Et vous mes ennemis, dieux inhumains, et sourds,
+Me privez-vous si tôt de l'âme de mes jours !
+Ma voix peut contre vous proférer des blasphèmes,
+Et je puis bien pêcher si vous pêchez vous-mêmes.
+Tu meurs à ce funeste, et déplorable instant,
+Antoine m'est fidèle, et me quitte pourtant,
+Ha trop cruel excès d'une amitié si rare !
+La même nous joignit, la même nous sépare,
+Tu dois cette blessure au bruit d'un faux trépas,
+Et je te vois mourant, et ne t'imite pas.
+
+Qu'un autre amant reçut des gages de ma foi ?
+Perds ce cruel soupçon, qu'il meure devant toi,
+Crois que ma passion est pure, et généreuse,
+Et que je suis fidèle autant que malheureuse,
+Que toi seul es l'objet qui cause mon souci.
+
+Ô dieux !
+
+Ô sensible douleur ! Quoi je perds mon appui ?
+Dieux ma vigueur me laisse, et je meurs comme lui.
+
+      Qui m'a rendu la vie,
+Et les tristes douleurs dont elle était suivie ?
+Ce corps a succombé sous l'effort du trépas,
+Mais je reviens, Antoine, et tu ne reviens pas,
+J'ai perdu pour jamais cet objet que j'adore,
+Je suis dans un sépulcre, et si je vis encore :
+Ciel, puisque vous m'ôtez ce trésor précieux,
+Que n'ôtez-vous aussi la lumière à mes yeux,
+Pourquoi dans les malheurs dont je suis affligée
+De ce frivole don vous serai-je obligée ?
+Que ferai-je des biens qui me sont superflus,
+Et qu'ai-je plus à voir si je ne le vois plus ?
+Que notre sort est bas, qu'il sert d'un triste exemple,
+Et donne peu d'envie à l'oeil qui nous contemple !
+Qu'une frêle grandeur se perd facilement !
+Que l'on monte avec peine, et qu'on tombe aisément !
+Que nous devons haïr l'éclat des diadèmes,
+Et que ses amateurs sont ennemis d'eux-mêmes !
+Que l'heure est différent d'un prince, et d'un sujet,
+Et que l'ambition connaît mal son objet !
+Le ciel m'aimait, ma gloire en était une preuve,
+J'étais femme d'Antoine, et n'en suis plus que veuve,
+J'avais des qualités, des titres absolus,
+Je n'ai que le regret de ne les avoir plus,
+Et de tous ces grands biens dont le destin me prive,
+Un seul tombeau me reste, encore y suis-je vive.
+Ô changement funeste, et digne de pitié !
+Reçois, mon coeur, ces pleurs de ta chère moitié,
+Réponds à ces baisers que je donne à ta cendre,
+Et reçois les pourtant, si tu ne les peux rendre,
+Accepte ces cheveux que je confonds aux tiens,
+Je t'en fais un hommage, ils furent tes liens,
+Permets que je diffère un trépas plein de charmes,
+Et que devant mon sang je répande mes larmes.
+
+      En l'état où je suis ?
+
+Il est vrai.
+
+      Non, non, sois plus femme que mère,
+Ils te doivent la vie, et tu la dois au père,
+Change donc cette vie en un juste trépas,
+Elle te rend ingrate, et ne leur aide pas :
+Qu'ils ne regardent point l'honneur de leurs ancêtres,
+Nous eûmes des sujets, mais ils auront des maîtres,
+Ils n'auront point l'éclat que leurs parents ont eu,
+S'ils n'en ont pas les biens, qu'ils en aient la vertu,
+Qu'ils sachent qu'au malheur le plus superbe plie,
+Qu'il faut étant vaincu que soi-même on s'oublie,
+Qu'il faut lors être souple, et que l'humilité
+Est un enseignement de la nécessité.
+Mais puis que leur espoir ne dépend point d'un autre,
+Sauvons leur vie avant que de perdre la nôtre,
+Et puisqu'un long trépas rendra nos voeux contents,
+Vivons encore un peu pour mourir plus longtemps.
+
 Diadèmes, grandeurs, rangs, titres absolus,
 Puisque vous me quittez ne m'importunez plus,
 Sceptres, qui m'éleviez avec tant de gloire,
@@ -1638,20 +997,8 @@ Antoine ne vit plus, sa mort m'en donne mille,
 C'est mon fer, mon poison, ma flamme, et mon serpent,
 Tout ce qu'ils m'ont ôté son trépas me rend.
 
-**** *book_ *id_IV06 *act_IV *date_1635
-
--*who_eras
-César est ici bas.
-
--*who_cleopatre
       Que venez-vous m'apprendre ?
 
--*who_eras
-Que le vainqueur, madame, au vaincu se vient rendre,
-Qu'il ne tient qu'aux attraits de votre majesté
-De conserver son sceptre, et notre liberté.
-
--*who_cleopatre
 Espoir faux, et flatteur des âmes affligées !
 Les plus grandes beautés sont ici négligées,
 Eras, tous nos efforts sont vains, et superflus,
@@ -1661,12 +1008,6 @@ Et le tombeau d'Antoine est celui de mes charmes,
 Il ne m'en reste pas pour le rendre adouci,
 Ni pour vaincre un vainqueur.
 
--*who_eras
-      Madame, le voici.
-
-**** *book_ *id_IV07 *act_IV *date_1635
-
--*who_cleopatre
 Seigneur (car vous portez cette qualité haute,
 Le ciel qui vous chérit vous la donne, et me l'ôte)
 Vous voyez, ô César ! Une reine à vos pieds
@@ -1680,25 +1021,6 @@ Parce que vous foulez jugez de votre gloire,
 Soyez content, songez remerciant les dieux
 Que vous seriez cruel étant plus glorieux.
 
--*who_cesar
-Si vous ne saviez pas de quelle douceur j'use
-Vers ceux que je surmonte, et que la guerre abuse,
-Et si de mon côté j'ignorais de quel front
-Vous recevez les coups que les malheurs vous font,
-Si votre esprit plus grand que le mal qui l'outrage,
-Ignorait ma clémence, et moi votre courage,
-Je vous croirais soumise à de plus rudes lois,
-Mais vous me connaissez, comme je vous connais.
-N'espérez pas qu'ici ma bouche vous console,
-La mort que vous plaignez m'interdit la parole,
-Tout le monde en commun pleure Antoine au cercueil,
-Son trépas comme vous met la victoire en deuil.
-Si vous souffrez des maux l'injuste violence,
-C'est plus un trait du sort qu'un trait de ma vaillance,
-Le hasard fait toujours le succès des combats,
-Ne m'en accusez point, ni ne m'en louez pas.
-
--*who_cleopatre
 La louange s'applique en une telle sorte
 Que moins l'on en désire, et plus on en remporte,
 Elle se plaît à rendre un modeste confus,
@@ -1716,11 +1038,6 @@ Antoine comme moi le devait reconnaître,
 Il devait seconder tes desseins généreux,
 Mais quoi s'il fut coupable, il était amoureux.
 
--*who_cesar
-Excusez si mes faits vous ont coûté des larmes,
-On ne peut réprimer l'insolence des armes.
-
--*who_cleopatre
 L'amour, divin César, est un puissant démon,
 Qui n'en ressent la force en respecte le nom,
 Nul ne peut s'exempter de son pouvoir suprême,
@@ -1734,11 +1051,6 @@ Perdit la liberté qu'il ôtait aux romains,
 Je captivai son âme, il me fit sa maîtresse
 Par un aveuglement plutôt que par faiblesse.
 
--*who_cesar
-S'il eut eu ce défaut, sa gloire, et vos appas
-Au temple de l'estime auraient un lieu plus bas.
-
--*who_cleopatre
 Sa puissante vertu justement animée
 Au dessein de punir mon frère Ptolemée,
 L'emmena dans ces lieux où notre amour naquit,
@@ -1764,20 +1076,12 @@ Puisque vous me semblez sa plus vivante image,
 Renouvelle (mon coeur) ce qu'autrefois tu fis,
 Et laissez-moi chercher le père dans le fils.
 
--*who_cesar
-Espérez tout de moi.
-
--*who_cleopatre
       Je veux dans ma misère
 Obtenir deux faveurs, c'est tout ce que j'espère,
 L'une que vous souffriez pour borner mon ennui
 Que je retrouve Antoine en mourant comme lui,
 C'est la moindre faveur que vous me puissiez faire.
 
--*who_cesar
-Je vous ferai, madame, éprouver le contraire.
-
--*who_cleopatre
 L'autre que mes enfants soient moins infortunés,
 Et qu'à votre triomphe ils ne soient point menés,
 Privés les des grandeurs, et des biens de leur père,
@@ -1791,19 +1095,11 @@ L'obéissance aveugle, et l'empire discret,
 Fasse voir sans flétrir vos lauriers, ni vos palmes,
 Votre vie assurée, et vos provinces calmes.
 
--*who_cesar
-Espérez de vous voir dans vos adversités,
-Et vous, et vos enfants royalement traités.
-
--*who_cleopatre
 Ce cruel ne m'a pas seulement regardée,
 Dieux de quelles fureurs me sens-je possédée !
 Je vois bien qu'il faut faire avec le trépas
 Ce que je n'ai pu faire avec tous mes appas.
 
-**** *book_ *id_V01 *act_V *date_1635
-
--*who_cleopatre
 Ton esprit, je l'avoue, ô sage Epaphrodite,
 Change par ses raisons ce que le mien médite,
 Ton conseil salutaire à l'ennui que je sens,
@@ -1817,19 +1113,6 @@ Tu m'ôtes cette crainte, et m'en laisses la honte,
 Si mon oeil baigne encor ce teint défiguré,
 Il pleure seulement de ce qu'il a pleuré.
 
--*who_epaphrodite
-Ce changement soudain m'étonnerait, Madame,
-Si je méconnaissais les forces de votre âme
-Votre esprit ne tient point d'un esprit abattu
-Dont la nature faible étouffe la vertu,
-Le ciel vous a vu faire une sensible perte,
-Vous en avez pleuré, mais vous l'avez soufferte,
-Et même vous avez par un rare pouvoir
-Marié la raison avec le désespoir,
-Et rendu par vos pleurs la nature contente,
-Antoine satisfait, la vertu triomphante.
-
--*who_cleopatre
 Le ciel qui fit mon coeur propre à lui résister
 Pour avoir plus d'honneur à me persécuter,
 De crainte que sa gloire en fut moins estimée,
@@ -1851,15 +1134,6 @@ S'étende son pouvoir du couchant au matin,
 Je veux vivre ou mourir si mon vainqueur l'ordonne,
 Et je mets à ses pieds ma vie, et ma couronne.
 
--*who_epaphrodite
-L'on ne se peut servir d'un charme plus puissant,
-Et votre majesté s'élève en s'abaissant ;
-Quoiqu'en ce triste jour le sort vous importune,
-L'amour peut relever ce qu'abat la fortune,
-César peut n'user pas d'un titre glorieux,
-Il porte un coeur, Madame, et vous avez des yeux.
-
--*who_cleopatre
 Pour faire ce beau coup dont mon bien se limite
 J'ai trop d'adversités, et trop peu de mérite,
 Non, non, je suis moins vaine, et j'espère autrement.
@@ -1873,22 +1147,8 @@ Immoler à sa gloire, et la mienne, et ma vie,
 Que je lui sacrifie un sceptre, et mes enfants,
 Et suis ses pas vainqueurs, ou même triomphants.
 
--*who_epaphrodite
-Madame, j'obéis.
-
--*who_cleopatre
       Le ciel soit ton salaire.
 
--*who_epaphrodite
-Je n'en recherche point que l'honneur de vous plaire.
-
-**** *book_ *id_V02 *act_V *date_1635
-
--*who_charmion
-Il est sorti, Madame, et son éloignement
-Vous donne le moyen de parler librement.
-
--*who_cleopatre
 Aidons-nous du secours dont les dieux nous obligent,
 Et vengeons-nous sur nous de ceux qui nous affligent,
 Puisque nous éloignons celui de qui l'abord
@@ -1906,28 +1166,8 @@ Une semblable feinte endort la vigilance
 De l'argus importun que je viens d'éloigner,
 Et lui cache mon deuil pour te le témoigner.
 
--*who_eras
-Puisque César, Madame, a de si fortes armes
-Qu'il résiste à vos yeux aussi bien qu'à vos larmes,
-Qu'amour, et la pitié chez lui n'ont point d'autels,
-Qu'il surmonte les dieux comme il fait les mortels,
-Puisqu'il est si cruel, et que rien ne le touche,
-Pour n'être plus en proie à ce tigre farouche,
-Il faut d'un beau trépas limiter notre ennui,
-Et triompher de nous pour triompher de lui.
-
--*who_cleopatre
 N'est-ce pas mon dessein ?
 
--*who_charmion
-      Que tardons-nous, Madame ?
-Suivons un empereur, et dégageons notre âme,
-Que l'horreur du trépas ne nous puisse empêcher,
-La liberté vaut mieux quand elle coûte cher :
-Mourons quelque douleur qui nous puisse être offerte,
-Et cherchons le salut où l'on trouve la perte.
-
--*who_cleopatre
 Je ne puis trop louer vos généreux propos,
 Mais leurs tristes effets blesseraient mon repos.
 N'irritez point le ciel, n'avancez point votre heure,
@@ -1935,14 +1175,6 @@ Ne suivez point mes pas, c'est assez que je meure,
 Usez heureusement le fil de vos beaux jours,
 Vivez après ma mort.
 
--*who_eras
-      Nous vous suivrons toujours.
-
--*who_charmion
-Non, non, notre destin sera conforme au vôtre,
-Arrêtant votre mort vous concluez la nôtre.
-
--*who_cleopatre
 Donc le ciel adorable en ses faits merveilleux,
 Qui m'avait mis en main cet empire orgueilleux,
 Quoiqu'il m'en ait ôté la marque souveraine,
@@ -1954,19 +1186,6 @@ Je vivais avec vous, et nous mourrons ensemble,
 Nos pas nous vont conduire en un séjour de biens,
 Je suivrai ceux d'Antoine, et vous suivrez les miens.
 
--*who_eras
-De quel genre de mort choisirons nous la peine ?
-Je veux servir d'exemple à notre grande reine,
-Et je veux qu'elle juge en me voyant souffrir,
-Si je meurs à regret quand elle veut mourir :
-Nous suffoquerons-nous ? Ou bien rendrons-nous l'âme
-Comme cette romaine avalant de la flamme ?
-
--*who_charmion
-On nous ôte les fers, les poisons, et les feux,
-Mais il nous reste encor des mains et des cheveux.
-
--*who_cleopatre
 Le ciel veut que la mort doucement nous saisisse,
 Sa haine à cette fois nous l'a rendu propice,
 Un paysan m'apportant un aspic sous des fruits
@@ -1978,151 +1197,6 @@ Puisque j'y vais dormir d'un éternel sommeil,
 Si la mort ne peut être à nos yeux moins affreuse,
 Qu'elle paraisse au moins noble, riche, et pompeuse.
 
-**** *book_ *id_V03 *act_V *date_1635
-
--*who_cesar
-Agrippe, elle est à nous, rien ne m'a surmonté,
-J'ai fait céder la force à la subtilité,
-Et j'ai fait voir trompant cette fine adversaire
-Qu'à la vertu souvent le vice est nécessaire.
-
--*who_agripe
-Avoir pu résister à de si forts appas ?
-Ce combat est plus grand que vos autres combats ?
-Avoir paré les traits d'une reine si belle ?
-Vaincre Antoine était moins que se défendre d'elle,
-Se détourner d'un feu si subtil, et si prompt,
-C'est le plus beau laurier qui ceigne votre front.
-
--*who_cesar
-Mon coeur dans ces attraits où le plus fort s'engage
-Est un rocher battu des vents, et de l'orage :
-Des soupirs affectés, mille amoureux hélas,
-Que pour ne point aimer je ne comprenais pas,
-Tout ce qu'à d'artifice une femme captive
-Voulait me dérober le bien dont je la prive,
-Elle devenait pâle, et changeait de couleur,
-Pleurait par bienséance autant que par douleur,
-Voit de ces regards qui surprennent les âmes,
-Et de ses yeux mouillez faisait sortir des flammes,
-Pour me le faire voir voulait meurtrir son sein,
-Et parmi tout cela j'ignorais son dessein,
-Elle ne s'efforçait en se faisant plus belle,
-Qu'à me rendre vaincu, moi qu'à triompher d'elle.
-
--*who_agripe
-Aux combats où l'amour attaque, et presse un coeur,
-La palme est au plus lâche, et qui fuit est vainqueur,
-De cent divers moyens ce rusé peut surprendre,
-Et le voulant combattre on médite à se rendre.
-Suivez donc le chemin qu'on voit que vous tenez,
-Sans détourner vos pas, sans voir qui vous menés :
-Ayant derrière vous ce superbe trophée,
-Quand elle vous suivra n'imitez pas Orphée,
-Il perdit Eurydice ayant tourné les yeux,
-Et César pourrait perdre un bien plus précieux ;
-Il fallait toutefois pour mieux sécher ses larmes
-Vous feindre habilement esclave de ses charmes.
-
--*who_cesar
-Elle qui sait qu'amour ne m'a jamais atteint,
-Connaissant mon humeur eut vu que j'eusse feint,
-Seulement ai-je dit, pour adoucir sa peine,
-En prenant congé d'elle, espérez, belle reine,
-Et j'ai lu dans ses yeux le vrai contentement
-Que son âme a goûté d'un si doux compliment.
-
--*who_agripe
-Vous l'avez bien trompée.
-
--*who_cesar
-      Une telle visite.
-Mais quelle occasion amène Epaphrodite ?
-
-**** *book_ *id_V04 *act_V *date_1635
-
--*who_epaphrodite
-J'avais charge, ô César ! D'adoucir des malheurs,
-De consoler la reine, et de sécher ses pleurs,
-Mais les pleurs ne sont pas son plus triste exercice,
-Aussi vous me deviez donner un autre office,
-Et m'envoyer plutôt vers un objet si beau
-Pour éteindre du feu que pour tarir de l'eau.
-Je crois que de sa part ce billet vous va dire
-Que vous gagnez un coeur aussi bien qu'un empire.
-
--*who_cesar
-Deviez-vous l'éloigner ?
-
--*who_epaphrodite
-      Ne la soupçonnez pas,
-Allez jusques dans Rome elle suivra vos pas,
-Son amour aveuglé préfère à sa couronne
-Le superbe renom que sa honte vous donne,
-Vous plaisant elle règne, et son ambition
-Se termine en l'honneur de votre affection.
-
--*who_cesar
-Étrange passion que l'on ne peut contraindre !
-Agripe, en vérité je commence à la plaindre
-La perte de son sceptre est l'effet de mon heurt,
-Mais je déplore un mal quand je m'en sens l'auteur :
-Aussi je recevrais une honteuse tâche,
-Et j'aime encore mieux être inhumain que lâche,
-J'ai bien su résister aux charmes de sa voix,
-Elle m'écrit en vain, mais voyons toutefois.
-César, je suis lasse de vivre,
-Antoine est mort, je le veux suivre,
-Juge que mon dessein est généreux et beau,
-Et pour favoriser Cléopâtre asservie,
-Comme en vivant tous deux nous n'eûmes qu'une vie,
-Fais que nous n'ayons qu'un tombeau.
-Pour un sujet d'amour voilà des mots bien fermes,
-Dans ce mouvement lâche use-t-on de ces termes ?
-Sans doute en cet écrit où j'ai l'oeil attaché
-C'est la vertu qui parle, et non pas le pêché,
-C'est le ressentiment d'une âme généreuse
-Des beautés du trépas seulement amoureuse.
-
--*who_agripe
-Cette femme est subtile, et les traits de sa main
-Témoignent que son coeur brasse un mauvais dessein.
-
--*who_epaphrodite
-Son âme à la douleur ne se met plus en proie,
-Et son front est le siège où préside la joie.
-
--*who_agripe
-Croyez que le visage en déguise l'esprit,
-Il se faut défier d'un affligé qui rit,
-Souvent le désespoir tâche de se contraindre,
-Et le flambeau luit mieux étant prêt de s'éteindre.
-Cette prompte allégresse a la mort pour objet,
-Et l'espoir qu'on lui donne est moins que son projet,
-Quoiqu'un tel changement montre qu'elle ait envie
-De vous plaire, ô César ! Et de chérir sa vie,
-Peut-être qu'elle trame un dessein différent,
-Et qu'imitant le cygne elle chante en mourant.
-
--*who_epaphrodite
-Quand elle suspendrait sa tristesse, et ses larmes,
-Que peut contre sa vie un désespoir sans armes ?
-
--*who_cesar
-Ôtez le fer, la flamme, éloignez de ses yeux
-Tout ce que la nature a de pernicieux,
-Et qui d'un misérable accourcit la misère,
-Les poisons, les venins, elle se peut défaire,
-Si vous n'en arrachez le projet de son sein,
-Et vous lui laissez tout lui laissant le dessein.
-Le désespoir est fort dans l'esprit d'une femme,
-Empêchons qu'il n'agisse, et retenons son âme,
-Qu'elle ne cède pas à ses puissants efforts,
-C'est l'âme de ma gloire ainsi que de son corps.
-
-**** *book_ *id_V05 *act_V *date_1635
-
--*who_cleopatre
 Que nos destins sont doux ! Que la mort a de charmes !
 Je n'ai point de soupirs, je ne vois point de larmes,
 Nous ne redoutons point l'approche du trépas,
@@ -2168,31 +1242,6 @@ Après cette action dois-je avoir peur de Rome ?
 Non, non, d'ailleurs la honte augmente mon ennui,
 Je n'ai peur que d'Antoine, et pourtant je le suis.
 
--*who_eras
-Ce n'est pas mon dessein comme lâche, et peureuse,
-De vous dissuader une mort généreuse,
-Au contraire, Madame, en cette extrémité
-Je servirais d'exemple à votre majesté,
-Et je croirais lui rendre un service fidèle
-Me faisant homicide, et de moi-même, et d'elle,
-Aussi ne faut-il pas qu'un peu d'émotion
-Déshonore en ce lieu notre belle action,
-Action qui s'imprime au front de la mémoire,
-Dont une seule larme effacerait la gloire.
-Permettez donc qu'ici je devance vos pas,
-Ainsi quand vous mourrez je ne pleurerai pas,
-Souffrez que je sois ferme, et que ma vertu brille,
-En vous voyant mourir j'aurais peur d'être fille.
-
--*who_charmion
-Que ce soit moi, Madame, ou le bras de la mort,
-Exerce la rigueur de son premier effort,
-Si jamais vous servant j'eus l'honneur de vous plaire,
-Accordez-moi ce bien, que ce soit mon salaire,
-Les dieux ne sont en vain si longtemps suppliés,
-Voyez moi de ce pas tomber morte à vos pieds.
-
--*who_cleopatre
 Quoi pour voir ces bas lieux où tout mortel dévale,
 L'ordre en est différent, et la suite inégale ?
 Quoi qui meurt le premier est le plus glorieux,
@@ -2214,19 +1263,6 @@ Attaque, et mords ce bras, il ne m'a pu défendre,
 S'il eut eu plus de force, il me serait plus cher,
 Et la nature ailleurs le devait attacher.
 
--*who_eras
-Madame, qu'avec vous je quitte la lumière,
-Non, non, je veux, ma soeur, la suivre la première,
-Et c'est à moi l'honneur de ce second trépas,
-Ô mort ! Dépêche-toi que je ne pleure pas.
-
--*who_charmion
-Je verrai la vertu dont vous êtes pourvue,
-La mienne va paraître, et ne sera point vue,
-Ma constance fera des efforts superflus,
-Et sera sans témoins en paressant le plus ?
-
--*who_cleopatre
 Que César est trompé, qu'il perd dans sa victoire,
 Que sa froideur sûre est fatale à sa gloire,
 Voyez qu'en refusant l'honneur de mes liens
@@ -2242,56 +1278,178 @@ Mes filles, je vous dis un éternel adieu.
 Je sens bien que la mort achève mon martyre,
 Portez-moi sur mon lit qu'à mon aise j'expire.
 
--*who_eras
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eras
+
+Madame, il a raison de vous en soupçonner.
+
+      Il sait que sa maîtresse l'aime,
+Mais croit-il votre coeur ennemi de soi-même ?
+Que sans le soulager vous puissiez vous trahir,
+Et que pour trop l'aimer, vous deviez vous haïr ?
+Dans ce juste soupçon quelque mal qu'il ressente,
+Il blâme sa fortune, il vous juge innocente,
+Et ce grand coeur reçoit votre infidélité
+Comme une dure loi de la nécessité.
+À suivre notre bien nature nous oblige,
+Croira-t-il qu'en vous seule elle ait fait un prodige ?
+Ce mal tiendra toujours son esprit occupé,
+Et toujours il croira que vous l'aurez trompé :
+Donc puisqu'injustement il croit votre esprit traître,
+Puisqu'il vous croit perfide, à cause qu'il faut l'être,
+Et qu'il est naturel de trahir en ce point,
+Trahissez le, Madame, et ne le trompez point.
+
+Vous n'êtes pas, Madame, ici trop sûrement,
+Sa fureur pourrait bien pêcher innocemment.
+
+Elle va rendre l'âme, ha cruelle infortuné !
+Que nos pleurs soient communs, notre perte est commune.
+
+Madame, elle revient.
+
+Que votre majesté modère ses ennuis,
+Consolez-vous, madame.
+
+Mais, Madame, songez que la mort est commune,
+Tout ce que voit le ciel subit cette fortune,
+Le trépas est un but où l'on nous voit courir,
+Mourant l'on a vécu, vivant on doit mourir :
+Cette loi qui nous rend mortels comme nous sommes
+Fut faite pour Antoine, et pour les autres hommes,
+Pourquoi vous fâchez-vous qu'il se donne aujourd'hui
+Ce qu'un lâche attendrait d'un autre que de lui,
+Il donne à votre amour le nom d'ingratitude,
+Sa mort lui semble douce, elle vous semble rude,
+Et fâché des regrets dont vous l'accompagnez,
+Quoique mort il vous plaint comme vous le plaignez :
+Il faut voir son destin avec un oeil d'envie,
+Il eût perdu l'honneur, il ne perd que la vie,
+Rome qui ne le vit aux triomphes divers
+Que chargé de lauriers, l'eût vu chargé de fers,
+Confus, l'oeil bas, le front sur qui la rougeur monte,
+Suivre un vainqueur superbe honoré par sa honte,
+Lors vous eussiez loué sa générosité,
+Et ce que vous pleurez vous l'eussiez souhaité.
+
+César est ici bas.
+
+Que le vainqueur, madame, au vaincu se vient rendre,
+Qu'il ne tient qu'aux attraits de votre majesté
+De conserver son sceptre, et notre liberté.
+
+      Madame, le voici.
+
+Puisque César, Madame, a de si fortes armes
+Qu'il résiste à vos yeux aussi bien qu'à vos larmes,
+Qu'amour, et la pitié chez lui n'ont point d'autels,
+Qu'il surmonte les dieux comme il fait les mortels,
+Puisqu'il est si cruel, et que rien ne le touche,
+Pour n'être plus en proie à ce tigre farouche,
+Il faut d'un beau trépas limiter notre ennui,
+Et triompher de nous pour triompher de lui.
+
+      Nous vous suivrons toujours.
+
+De quel genre de mort choisirons nous la peine ?
+Je veux servir d'exemple à notre grande reine,
+Et je veux qu'elle juge en me voyant souffrir,
+Si je meurs à regret quand elle veut mourir :
+Nous suffoquerons-nous ? Ou bien rendrons-nous l'âme
+Comme cette romaine avalant de la flamme ?
+
+Ce n'est pas mon dessein comme lâche, et peureuse,
+De vous dissuader une mort généreuse,
+Au contraire, Madame, en cette extrémité
+Je servirais d'exemple à votre majesté,
+Et je croirais lui rendre un service fidèle
+Me faisant homicide, et de moi-même, et d'elle,
+Aussi ne faut-il pas qu'un peu d'émotion
+Déshonore en ce lieu notre belle action,
+Action qui s'imprime au front de la mémoire,
+Dont une seule larme effacerait la gloire.
+Permettez donc qu'ici je devance vos pas,
+Ainsi quand vous mourrez je ne pleurerai pas,
+Souffrez que je sois ferme, et que ma vertu brille,
+En vous voyant mourir j'aurais peur d'être fille.
+
+Madame, qu'avec vous je quitte la lumière,
+Non, non, je veux, ma soeur, la suivre la première,
+Et c'est à moi l'honneur de ce second trépas,
+Ô mort ! Dépêche-toi que je ne pleure pas.
+
 Je vous suis au chemin que vous allez tenir ?
 
--*who_charmion
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
+
+Que votre majesté pense au doux nom de mère,
+Songez à vos enfants.
+
+Mais si le pauvre Antoine est sensible à son mal,
+Doit-il pas souhaiter d'avoir un tel rival ?
+Ce qu'il ne saurait faire avec toutes ses armes
+Votre beauté le peut du moindre de ses charmes,
+Punissez donc celui dont il est outragé,
+Qu'il soit un peu jaloux, mais tout à fait vengé,
+Que César soit vaincu, que vos pays soient calmes,
+D'une oeillade amoureuse arrachez lui ses palmes,
+Et que vos chers enfants, ce trésor précieux,
+Puissent devoir la vie, et le sceptre à vos yeux.
+
+Il faudrait s'éloigner.
+
+Pouvons-nous par des pleurs rendre le sort plus doux,
+Et soulager un mort, une mourante, et nous ?
+Ce mal veut un secours plus puissant que le nôtre,
+Pour faire vivre l'une, il faut ranimer l'autre,
+Comme une seule vie anime deux amants,
+Un seul trépas aussi termine leurs tourments.
+
+      Cessez donc de le plaindre, Madame,
+Puisqu'il meurt généreux pour ne pas vivre infâme :
+Cessez de le pleurer, et n'entreprenez plus
+De troubler son repos par des cris superflus,
+Soyez pour votre bien propice à sa prière,
+Tâchez d'exécuter sa volonté dernière,
+S'il obtient un rival ce n'est point le trahir,
+Si vous suivez ses pas c'est lui désobéir,
+Que César à vos yeux soumette sa victoire,
+Qu'il soit dans votre coeur, lui dans votre mémoire,
+Ne demeurez point ferme en ce frivole ennui,
+Et sauvez ce qui reste, et de vous et de lui
+Vos chers enfants.
+
+Il est sorti, Madame, et son éloignement
+Vous donne le moyen de parler librement.
+
+      Que tardons-nous, Madame ?
+Suivons un empereur, et dégageons notre âme,
+Que l'horreur du trépas ne nous puisse empêcher,
+La liberté vaut mieux quand elle coûte cher :
+Mourons quelque douleur qui nous puisse être offerte,
+Et cherchons le salut où l'on trouve la perte.
+
+Non, non, notre destin sera conforme au vôtre,
+Arrêtant votre mort vous concluez la nôtre.
+
+On nous ôte les fers, les poisons, et les feux,
+Mais il nous reste encor des mains et des cheveux.
+
+Que ce soit moi, Madame, ou le bras de la mort,
+Exerce la rigueur de son premier effort,
+Si jamais vous servant j'eus l'honneur de vous plaire,
+Accordez-moi ce bien, que ce soit mon salaire,
+Les dieux ne sont en vain si longtemps suppliés,
+Voyez moi de ce pas tomber morte à vos pieds.
+
+Je verrai la vertu dont vous êtes pourvue,
+La mienne va paraître, et ne sera point vue,
+Ma constance fera des efforts superflus,
+Et sera sans témoins en paressant le plus ?
+
 J'ai bien peur que mon rang ne soit long à venir.
 
-**** *book_ *id_V06 *act_V *date_1635
-
--*who_cesar
-Courez y promptement, qu'est-ce qui vous retarde ?
-Voyez ce qu'elle fait, et renforcez sa garde,
-Précipitez vos pas, faites ce qu'il me plaît,
-Et me revenez dire en qu'elle état elle est.
-Quelque sens que je donne à ce qu'elle me mande,
-J'y trouve des sujets qui font que j'appréhende.
-Ô dieux ! Aurais-je vu tant de peuples soumis ?
-Aurais-je surmonté tant de rois ennemis,
-Pour tâcher mon honneur de cette honte infâme ?
-Quoi César n'aurait pu triompher d'une femme ?
-J'aurais fait peu d'ouvrage, et j'attendrais en vain
-Des honneurs du Sénat, et du peuple romain,
-Rome serait injuste, et ma gloire frivole,
-Oui je serais honteux de voir le Capitole,
-On ne croirait jamais ce que mon bras a fait,
-Et l'on pourrait douter qu'Antoine fut défait.
-
--*who_agripe
-Vous pensez qu'une femme est faible, et ne peut nuire,
-Et qui fut le plus fort Hercule ou Déjanire ?
-Le pouvoir de ce sexe est par tout reconnu,
-Car, mais Epaphrodite est bien tôt revenu.
-
--*who_epaphrodite
-Accourez, ô César ! Tout le monde est en peine,
-On ne saurait ni voir, ni parler à la reine,
-Elle n'a point de fer, ni de poison sur soi,
-Mais sa chambre est fermée, et je ne sais pourquoi,
-L'on n'y saurait entrer qu'on n'en rompe la porte,
-Et nous n'oserions pas en user de la sorte,
-Craignant de profaner par ce peu de respect
-La majesté du lieu.
-
--*who_cesar
-      Tout ceci m'est suspect,
-Allons tout de ce pas contenter notre envie,
-Et regretter sa mort, ou conserver sa vie.
-
-**** *book_ *id_V07 *act_V *date_1635
-
--*who_charmion
 Enfin j'aurai le bien qu'elles ont obtenu,
 Enfin je reste seule, et mon rang est venu :
 Devant que je vous suive, et que mon âme sorte
@@ -2315,9 +1473,325 @@ C'est un chemin plus beau que le chemin de Rome.
 Mais d'où vient ce grand bruit ? La porte va s'ouvrir,
 N'importe, on ne peut plus m'empêcher de mourir.
 
-**** *book_ *id_V08 *act_V *date_1635
+Il est digne de nous, et de sa majesté.
 
--*who_cesar
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
+
+Rome, il faut obéir, cette grandeur suprême
+Qui t'élevait au ciel te rabaisse elle-même,
+Je suis fort de ta force, on ne craint plus que moi,
+Et je suis triomphant de toi, même par toi :
+Tu n'es plus absolue, et la terre servile
+Aime mieux adorer un homme qu'une ville,
+Les dieux tremblants t'ont vue au dessus des humains,
+Et je tiens ton pouvoir dans mes superbes mains,
+Vois par dessus ton nom ma renommée errante,
+Et pleure pour jamais ta liberté mourante :
+Je ne suis point jaloux de ton repos commun,
+Mais la reine des rois en doit respecter un,
+Il faut que je commande aux lieux qu'un Tibre lave,
+Et qu'un superbe enfant tienne sa mère esclave,
+Que ce vaste univers n'obéisse qu'à moi,
+Que le ciel ait des dieux, mais la terre un seul roi,
+Et je veux dans ces murs élevés par Romule
+Voir en moi le succès des grands desseins de Jule :
+Agripe, dont l'avis n'est jamais rejeté,
+Fais-je en ce projet noble une témérité ?
+
+Quelque avantage heureux que nous ayons sur lui,
+Je ne fais point de cas du succès d'aujourd'hui.
+
+Mets-tu cette victoire en un illustre rang ?
+Je l'estimerais plus m'ayant coûté du sang,
+Antoine reste seul, que peut-il entreprendre ?
+Je surmonte celui qu'on ne veut pas défendre,
+Je n'eusse rien gagné, s'il n'eût été haï,
+Je suis victorieux, parce qu'il est trahi,
+La lâcheté, le vice a fait que je dispose
+D'un fruit de ma valeur, et du droit de ma cause,
+L'on ne me vit jamais depuis que j'ai vécu
+Devoir une victoire au malheur du vaincu,
+J'ai regret dans la peine où nous le voyons vivre
+De voir des serviteurs le quitter pour me suivre,
+J'accuse malgré moi leur défaut d'amitié,
+Près d'eux, il m'est suspect, sans eux, j'en ai pitié,
+Dans sa condition je plains le sort des maîtres,
+Ceux qu'il a fait ingrats, ma vertu les fait traîtres.
+
+Le sort qui d'une palme absolument dispose
+Ne favorise guère une mauvaise cause,
+Et quelque différent qu'en ce point on ait eu,
+La fortune s'entend avec la vertu :
+Aussi son changement qui cause tant de larmes
+Ne fut jamais contraire au succès de mes armes
+Dans le juste dessein qui m'anime le coeur
+De punir ce superbe, et de venger ma soeur.
+
+J'approuve ce conseil dont l'exécution
+Est un des plus grands points de ta commission.
+
+      Presse, et force à se rendre
+Cette ville en état de ne se plus défendre,
+Si son peuple affaibli veut faire le mutin,
+Signale de son sang ton glorieux butin,
+Rase les beaux palais de ces riches monarques
+Qui sont de leur grandeur les plus superbes marques,
+Que cette nation ressente mon courroux,
+Le vainqueur soit cruel, si le vaincu n'est doux,
+Que rien de mes soldats n'échappe la furie,
+Et qu'on cherche la place où fut Alexandrie.
+
+J'élève qui s'abaisse, et quoi qu'on se propose
+Devant moi l'on n'est rien pour être quelque chose :
+Vous voyant en état d'obtenir un pardon
+Ma générosité vous accorde ce don.
+Je ne m'emporte point à la vengeance prompte,
+Je me règle aux humeurs de celui que je dompte,
+Je prends sur le vaincu l'exemple que je suis,
+Et s'il est fier, ou doux, César l'est comme lui :
+Je ne désire point d'ensanglanter ma gloire,
+Des vaincus à genoux honorent ma victoire,
+Mon courage est content de la honte qu'ils ont,
+Et leur sang me plaît moins à ce fer qu'à leur front.
+Quand des plus factieux je rends les esprits calmes,
+Ce n'est point leur trépas qui me couvre de palmes,
+C'est leur confusion à qui je dois ce bien,
+Et quand leur front rougit, il couronne le mien.
+Vivez, je suis fâché qu'Antoine votre maître
+Ait été généreux pour m'empêcher de l'être,
+Ma plus belle vertu perd son lustre en sa mort,
+Son bras désespéré le tuant m'a fait tort,
+J'eusse par son bonheur châtié son offense,
+Et je plains son trépas qui l'ôte à ma clémence,
+J'eusse été satisfait de l'avoir convaincu,
+Et le parent m'eût fait oublier le vaincu.
+Mais il s'est fait mourir avec ses propres armes,
+Sa dernière infortune est digne de nos larmes,
+Je plains son désespoir qui la mis à ce point,
+Et j'ai pitié de lui parce qu'il n'en eût point.
+Levez-vous, mes amis, visitez votre reine,
+Elle souffre beaucoup, adoucissez sa peine,
+Qu'elle vive en repos, quelle ne craigne rien,
+Et par votre bonheur qu'elle juge du sien.
+Je lui viens d'envoyer le sage Proculée,
+Afin que de ma part elle soit consolée,
+Et qu'il la persuade à sortir des tombeaux
+Où toujours sa tristesse à des objets nouveaux,
+Quelle ait toujours les droits d'une grande princesse,
+Que son ennui se passe, et que sa crainte cesse,
+Bref qu'elle espère tout d'un vainqueur indulgent,
+Elle est reine, et César triomphe en l'obligeant.
+
+De quoi m'accuses-tu ?
+
+Estimes-tu César si peu jaloux de gloire
+Qu'il refusât le prix d'une telle victoire ?
+Je serais ennemi de mon contentement,
+Non, non, je flatte ainsi pour vaincre doublement,
+Je les mène en triomphe avec moins de pompe,
+Mon bras les a soumis, ma clémence les trompe,
+Et déjà le vaincu par un trait sans égal
+Honore ma fortune, et ne sent pas son mal,
+Je mets tant d'artifice à déguiser sa peine
+Que même il se croit libre alors que je l'enchaîne,
+Je fais que tous ses maux lui passent pour des biens,
+Et pour mieux l'éblouir je dore ses liens.
+
+Suivant ton beau conseil j'oubliais ma victoire,
+Je perdais Cléopâtre, et le prix de ma gloire,
+Car lui donnant avis de sa captivité,
+Rome n'eut jamais vu qui j'avais surmonté ;
+Que sert de l'avertir, quand sa fortune change,
+De l'état misérable où son destin la range ?
+C'est vainement pour nous irriter sa douleur,
+Quiconque est malheureux sait assez son malheur,
+Le sort est reconnu de ceux qu'il persécute,
+Et qui tombe d'un trône en ressent bien la chute.
+Je veux traiter la reine avec un grand honneur,
+Je veux que sa misère ait face de bonheur,
+Qu'on la respecte ailleurs comme dans sa patrie,
+Et qu'elle trouve à Rome une autre Alexandrie,
+Le respect sera tel quand on l'y recevra,
+Qu'elle croira mener le char qu'elle suivra,
+C'est comme il faut traiter ceux qui sont dans ce gouffre,
+Le vainqueur est content sans que le vaincu souffre,
+Un semblable triomphe est digne de nos soins,
+Et pour être secret il n'éclate pas moins.
+J'en veux faire un spectacle aux yeux de mes armées,
+Tandis je la repais de ces vaines fumées,
+Titre, honneur, dignité, couronne, sceptre, bien,
+Et je lui laisse tout pour ne lui laisser rien.
+
+Dieux c'est celui d'Antoine, ha funeste spectacle !
+Que la constance ici trouve un puissant obstacle,
+Je ne puis m'empêcher de plaindre ses malheurs,
+Ce sang d'un rocher même attirerait des pleurs,
+Ce triste objet me donne une sensible atteinte,
+Et change en vérité ce qui n'était que feinte.
+
+Objet triste, et funeste ! Ici je le confesse,
+Mon coeur ne peut cacher la douleur qui le presse,
+Je verserais des pleurs, mais mon oeil le peut,
+La honte l'en empêche, et la pitié le veut,
+Antoine est déplorable, ha forçons toute honte !
+Je l'ai vaincu vivant, et mort il me surmonte.
+Soldat, contente nous d'un funeste récit,
+Sachons comme il est mort, dis nous ce qu'il a dit.
+Je n'ai su l'accident que par la voix commune
+Qui ne pénètre pas une telle infortune.
+
+Vous laissa-t-elle entrer ?
+
+Son coeur aimait encore ?
+
+Elle honore César d'un présent sans égal,
+Dis-lui qu'elle m'oblige, et que je plains son mal.
+
+Dieux par ce triste exemple où le malheur préside,
+La fortune me rend, et superbe, et timide !
+Antoine, je te plains, c'est l'orgueil, et l'amour
+Qui t'ont ravi l'empire, et te privent du jour :
+Devant l'injuste effort de ta haine ancienne,
+Quand nous étions amis ma gloire était la tienne,
+Tu partageais l'honneur que les mortels me font,
+Et tes lauriers de même allaient jusqu'à mon front,
+Nous étions compagnons d'une même fortune,
+Rome se divisait, et n'était pourtant qu'une,
+L'on ne distinguait point Antoine de César,
+Pour un double triomphe il ne fallait qu'un char :
+Aussi tout nous offrait des conquêtes aisées,
+Aussi nos légions n'étaient pas opposées,
+Nos communes grandeurs n'avaient aucun défaut,
+Jamais l'aigle romain n'avait volé si haut.
+Faut-il que cette épée aux ennemis fatale,
+Qui se rendit fameuse aux plaines de Pharsale,
+Qui de tant de vaincus avait borné les jours,
+Des tiens par ta main propre ait retranché le cours ?
+Ton ennemi te plaint, oui César te déplore,
+Rome te pleurera, quoiqu'elle saigne encore,
+Le mal qu'elle a reçu de ton ambition
+Lui laisse encor pour toi de l'inclination.
+
+Ces faibles ennemis ne m'épouvantent pas,
+Et ne peuvent ôter un ornement si rare
+Au triomphe pompeux que Rome nous prépare.
+
+Si vous ne saviez pas de quelle douceur j'use
+Vers ceux que je surmonte, et que la guerre abuse,
+Et si de mon côté j'ignorais de quel front
+Vous recevez les coups que les malheurs vous font,
+Si votre esprit plus grand que le mal qui l'outrage,
+Ignorait ma clémence, et moi votre courage,
+Je vous croirais soumise à de plus rudes lois,
+Mais vous me connaissez, comme je vous connais.
+N'espérez pas qu'ici ma bouche vous console,
+La mort que vous plaignez m'interdit la parole,
+Tout le monde en commun pleure Antoine au cercueil,
+Son trépas comme vous met la victoire en deuil.
+Si vous souffrez des maux l'injuste violence,
+C'est plus un trait du sort qu'un trait de ma vaillance,
+Le hasard fait toujours le succès des combats,
+Ne m'en accusez point, ni ne m'en louez pas.
+
+Excusez si mes faits vous ont coûté des larmes,
+On ne peut réprimer l'insolence des armes.
+
+S'il eut eu ce défaut, sa gloire, et vos appas
+Au temple de l'estime auraient un lieu plus bas.
+
+Espérez tout de moi.
+
+Je vous ferai, madame, éprouver le contraire.
+
+Espérez de vous voir dans vos adversités,
+Et vous, et vos enfants royalement traités.
+
+Agrippe, elle est à nous, rien ne m'a surmonté,
+J'ai fait céder la force à la subtilité,
+Et j'ai fait voir trompant cette fine adversaire
+Qu'à la vertu souvent le vice est nécessaire.
+
+Mon coeur dans ces attraits où le plus fort s'engage
+Est un rocher battu des vents, et de l'orage :
+Des soupirs affectés, mille amoureux hélas,
+Que pour ne point aimer je ne comprenais pas,
+Tout ce qu'à d'artifice une femme captive
+Voulait me dérober le bien dont je la prive,
+Elle devenait pâle, et changeait de couleur,
+Pleurait par bienséance autant que par douleur,
+Voit de ces regards qui surprennent les âmes,
+Et de ses yeux mouillez faisait sortir des flammes,
+Pour me le faire voir voulait meurtrir son sein,
+Et parmi tout cela j'ignorais son dessein,
+Elle ne s'efforçait en se faisant plus belle,
+Qu'à me rendre vaincu, moi qu'à triompher d'elle.
+
+Elle qui sait qu'amour ne m'a jamais atteint,
+Connaissant mon humeur eut vu que j'eusse feint,
+Seulement ai-je dit, pour adoucir sa peine,
+En prenant congé d'elle, espérez, belle reine,
+Et j'ai lu dans ses yeux le vrai contentement
+Que son âme a goûté d'un si doux compliment.
+
+      Une telle visite.
+Mais quelle occasion amène Epaphrodite ?
+
+Deviez-vous l'éloigner ?
+
+Étrange passion que l'on ne peut contraindre !
+Agripe, en vérité je commence à la plaindre
+La perte de son sceptre est l'effet de mon heurt,
+Mais je déplore un mal quand je m'en sens l'auteur :
+Aussi je recevrais une honteuse tâche,
+Et j'aime encore mieux être inhumain que lâche,
+J'ai bien su résister aux charmes de sa voix,
+Elle m'écrit en vain, mais voyons toutefois.
+César, je suis lasse de vivre,
+Antoine est mort, je le veux suivre,
+Juge que mon dessein est généreux et beau,
+Et pour favoriser Cléopâtre asservie,
+Comme en vivant tous deux nous n'eûmes qu'une vie,
+Fais que nous n'ayons qu'un tombeau.
+Pour un sujet d'amour voilà des mots bien fermes,
+Dans ce mouvement lâche use-t-on de ces termes ?
+Sans doute en cet écrit où j'ai l'oeil attaché
+C'est la vertu qui parle, et non pas le pêché,
+C'est le ressentiment d'une âme généreuse
+Des beautés du trépas seulement amoureuse.
+
+Ôtez le fer, la flamme, éloignez de ses yeux
+Tout ce que la nature a de pernicieux,
+Et qui d'un misérable accourcit la misère,
+Les poisons, les venins, elle se peut défaire,
+Si vous n'en arrachez le projet de son sein,
+Et vous lui laissez tout lui laissant le dessein.
+Le désespoir est fort dans l'esprit d'une femme,
+Empêchons qu'il n'agisse, et retenons son âme,
+Qu'elle ne cède pas à ses puissants efforts,
+C'est l'âme de ma gloire ainsi que de son corps.
+
+Courez y promptement, qu'est-ce qui vous retarde ?
+Voyez ce qu'elle fait, et renforcez sa garde,
+Précipitez vos pas, faites ce qu'il me plaît,
+Et me revenez dire en qu'elle état elle est.
+Quelque sens que je donne à ce qu'elle me mande,
+J'y trouve des sujets qui font que j'appréhende.
+Ô dieux ! Aurais-je vu tant de peuples soumis ?
+Aurais-je surmonté tant de rois ennemis,
+Pour tâcher mon honneur de cette honte infâme ?
+Quoi César n'aurait pu triompher d'une femme ?
+J'aurais fait peu d'ouvrage, et j'attendrais en vain
+Des honneurs du Sénat, et du peuple romain,
+Rome serait injuste, et ma gloire frivole,
+Oui je serais honteux de voir le Capitole,
+On ne croirait jamais ce que mon bras a fait,
+Et l'on pourrait douter qu'Antoine fut défait.
+
+      Tout ceci m'est suspect,
+Allons tout de ce pas contenter notre envie,
+Et regretter sa mort, ou conserver sa vie.
+
 Dort-elle, ou si la parque a fini sa misère ?
 Je ne puis discerner la soeur d'avec le frère,
 Ses yeux ont-ils encor les charmes qu'ils ont eus ?
@@ -2326,10 +1800,6 @@ Que n'aviez vous le soin de retenir son âme,
 Faut-il prêter main forte à ce projet infâme ?
 Pourquoi n'empêchiez-vous qu'il fut exécuté.
 
--*who_charmion
-Il est digne de nous, et de sa majesté.
-
--*who_cesar
 La superbe réponse ! Elle tombe expirée,
 Ô généreuse fille ! ô chose inespérée !
 Ha qu'une mort injuste en ce fatal moment
@@ -2343,28 +1813,11 @@ Ce n'est pas la raison que Rome soit parée,
 Je refuse l'honneur que vous me décernés,
 Et vous me faites tort si vous me couronnez.
 
--*who_agripe
-Permettez que votre âme ait des transports contraires ?
-Et quoi des ennemis sont-ils si nécessaires ?
-Rome sera contente, et ravie en son coeur
-Du tableau des vaincus, et du front du vainqueur,
-C'est ce qu'elle demande.
-
--*who_cesar
       Ô la noble aventure !
 Que vainqueur en effet je triomphe en peinture,
 J'eusse été glorieux si la reine eut vécu,
 Mais les romains diront, il dit qu'il a vaincu.
 
--*who_agripe
-Souffrez cet accident, votre honneur n'eut pu croître,
-Vos ennemis sont morts, vous demeurez le maître,
-Nous verrons dans vos mains l'empire florissant,
-Le ciel s'étonnera de vous voir si puissant,
-Et de voir élevé si haut l'aigle de Rome,
-Quoi qu'il ne soit posé que sur le front d'un homme.
-
--*who_cesar
 Je sais bien que ma gloire est en son plus haut point,
 Mais ce bel ornement y devait être joint :
 Je la plains toutefois, mon coeur n'est pas de roche
@@ -2383,3 +1836,306 @@ Mais, ne regrettons plus un malheur sans remède,
 Ne montrons point au sort que mon pouvoir lui cède,
 Inhumons ce beau corps, pâle, immobile, froid,
 Et rendons des honneurs à qui m'en préparait.
+
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agripe
+
+En de plus hauts desseins vous n'en pourriez pas faire,
+Qui peut autant que vous n'est jamais téméraire,
+Vos plus forts ennemis en vain ont essayé
+De suivre le chemin que César a frayé,
+Ils ont tous éprouvé dans leur injuste guerre
+Qu'il n'appartient qu'à vous de gouverner la terre,
+Et ces ambitieux qui suivaient vos projets
+S'ils n'étaient morts vaincus, ne vivraient que sujets :
+Antoine est le dernier de qui l'orgueil s'obstine,
+Et qui veut subsister même dans sa ruine,
+Mais ce nouveau succès lui fera confesser
+Qu'il vaut mieux n'être point que de vous offenser,
+Son espoir est à bas, sa dernière déroute
+Assure vos desseins dans leur superbe route.
+
+Qu'un homme soit chéri de la bonne fortune,
+Sa faveur la plus rare il l'estime commune,
+Et qui n'a jamais vu la mer sans Alcyon
+N'en goûte point le calme avec affection :
+Toutes vos actions sont si pleines de gloire,
+Qu'alors que votre bras vous gagne une victoire,
+Cette félicité ne vous touche pas fort,
+Et vous la recevez comme un tribut du sort :
+Qui d'un si beau destin ne serait idolâtre ?
+Gagner tout sans rien perdre, et vaincre sans combattre.
+
+Ce n'est point ressentir un courage abattu
+De trahir le péché pour suivre la vertu :
+Devant qu'une mollesse eut fait leur maître infâme,
+Quand il aimait la gloire, et non pas une femme,
+Lors qu'Antoine piqué d'un désir généreux
+Faisait le capitaine, et non pas l'amoureux,
+Sa vaillance eut rendu leur fuite illégitime,
+Le trahir en ce temps c'eut été faire un crime :
+Mais depuis qu'oubliant ses générosités
+Ce grand coeur s'est perdu dedans les voluptés,
+Pas un d'eux n'a voulu paraître son complice,
+Suivre ses pas honteux c'était suivre le vice,
+Quand ils servaient Antoine il en était loué,
+Ils servaient la vertu dont il était doué :
+Depuis l'ayant bannie en l'ardeur qui le presse
+Ces dignes serviteurs ont suivi leur maîtresse,
+Ils ont vu qu'à vous seul leur service était dû,
+Qu'ils retrouvaient en vous ce qu'Antoine a perdu,
+Ils savent que le ciel ne peut souffrir un traître,
+Mais pour ne l'être plus ils sont contraints de l'être,
+Et n'ont pas cru commettre une infidélité
+Abandonnant celui que les dieux ont quitté.
+
+Puisque sa bonne humeur travaille à votre gloire,
+Il faut jusqu'à la fin poursuivre la victoire,
+Antoine est abattu, mais ce fier ennemi
+Puisqu'il respire encor, n'est défait qu'à demi,
+C'est un cerf aux abois qu'un grand coup doit atteindre,
+C'est dans son désespoir qu'il est le plus à craindre,
+La fortune relève, et la force, et le coeur,
+Et d'un désespéré souvent fait un vainqueur,
+Ceux qui sentent du sort la dernière tempête
+Montent par un effort du précipice au faîte,
+Et souvent que le sort favorise leur jeu,
+Ils hasardent beaucoup, et ne gagnent pas peu.
+Assurez votre gloire, elle en sera moins belle,
+Si de ces feux éteints il reste une étincelle,
+Un ennemi, César, nous est toujours fatal,
+Quelque faible qu'il soit il peut faire du mal,
+Antoine est en ce rang, vous le devez détruire,
+Ou le mettre en état de ne vous pouvoir nuire.
+
+Vous m'honorez beaucoup.
+
+Ainsi de belles fleurs l'hostie est couronnée,
+Alors qu'au sacrifice en pompe elle est menée,
+Ainsi la main qui prend les sens en trahison
+Dans une coupe d'or présente le poison.
+Mais quel homme s'avance ? On voit sur son visage
+Des signes évidents d'un sinistre message,
+Ses soupirs sont témoins d'un regret violent.
+
+Que vous sert cette plainte injuste autant que vaine ?
+Entrons dedans la ville, et visitez la reine :
+Il ne faut pas douter que son nouveau malheur
+Ne la rende subtile à gagner votre coeur,
+Et que pour vous fléchir il ne mette en usage
+Ce qu'elle a dans l'esprit, et dessus le visage :
+Soyez toujours César contre ses forts appas.
+
+Avoir pu résister à de si forts appas ?
+Ce combat est plus grand que vos autres combats ?
+Avoir paré les traits d'une reine si belle ?
+Vaincre Antoine était moins que se défendre d'elle,
+Se détourner d'un feu si subtil, et si prompt,
+C'est le plus beau laurier qui ceigne votre front.
+
+Aux combats où l'amour attaque, et presse un coeur,
+La palme est au plus lâche, et qui fuit est vainqueur,
+De cent divers moyens ce rusé peut surprendre,
+Et le voulant combattre on médite à se rendre.
+Suivez donc le chemin qu'on voit que vous tenez,
+Sans détourner vos pas, sans voir qui vous menés :
+Ayant derrière vous ce superbe trophée,
+Quand elle vous suivra n'imitez pas Orphée,
+Il perdit Eurydice ayant tourné les yeux,
+Et César pourrait perdre un bien plus précieux ;
+Il fallait toutefois pour mieux sécher ses larmes
+Vous feindre habilement esclave de ses charmes.
+
+Vous l'avez bien trompée.
+
+Cette femme est subtile, et les traits de sa main
+Témoignent que son coeur brasse un mauvais dessein.
+
+Croyez que le visage en déguise l'esprit,
+Il se faut défier d'un affligé qui rit,
+Souvent le désespoir tâche de se contraindre,
+Et le flambeau luit mieux étant prêt de s'éteindre.
+Cette prompte allégresse a la mort pour objet,
+Et l'espoir qu'on lui donne est moins que son projet,
+Quoiqu'un tel changement montre qu'elle ait envie
+De vous plaire, ô César ! Et de chérir sa vie,
+Peut-être qu'elle trame un dessein différent,
+Et qu'imitant le cygne elle chante en mourant.
+
+Vous pensez qu'une femme est faible, et ne peut nuire,
+Et qui fut le plus fort Hercule ou Déjanire ?
+Le pouvoir de ce sexe est par tout reconnu,
+Car, mais Epaphrodite est bien tôt revenu.
+
+Permettez que votre âme ait des transports contraires ?
+Et quoi des ennemis sont-ils si nécessaires ?
+Rome sera contente, et ravie en son coeur
+Du tableau des vaincus, et du front du vainqueur,
+C'est ce qu'elle demande.
+
+Souffrez cet accident, votre honneur n'eut pu croître,
+Vos ennemis sont morts, vous demeurez le maître,
+Nous verrons dans vos mains l'empire florissant,
+Le ciel s'étonnera de vous voir si puissant,
+Et de voir élevé si haut l'aigle de Rome,
+Quoi qu'il ne soit posé que sur le front d'un homme.
+
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eros
+
+Ma liberté me sert de légitime excuse,
+Reprenez ma franchise, ou souffrez que j'en use,
+Captif, je vous promis de vous donner la mort,
+Libre, je m'en rétracte, et ne vous fais point tort ;
+Vous m'avez fait un bien de m'ôter d'esclavage,
+Si vous me le laissez je le mets en usage,
+Et si vous me l'ôtez je suis comme j'étais
+Déchargé du secours que je vous promettais ;
+Vous voulez que ma main dans votre sang se lave,
+Si vous me contraignez je suis encore esclave,
+L'étant je ne dois point vous payer du trépas,
+Et je n'achète point ce qu'on ne me vend pas.
+Je ne serai jamais homicide, ni traître
+Pour faire mon bonheur du malheur de mon maître,
+Que mon corps dans les fers traîne un sort languissant,
+J'y serai bienheureux si j'y suis innocent,
+Qu'à vos sévérités je serve de victime,
+Je souffre sans regret, si je souffre sans crime.
+
+Prenez d'autres que moi pour vous être homicides,
+Un seul vous est fidèle, et cent vous sont perfides :
+Qu'un d'entre eux vous oblige en ce désir pressant,
+Il est déjà coupable, et je suis innocent,
+Qu'il répare sur vous ma désobéissance,
+Que son crime une fois sauve mon innocence,
+Qu'il vous donne un trépas qui ne vous est point dû,
+Et qu'il verse le sang qu'il a mal défendu.
+Hélas ! C'est bien assez que mon empereur meure,
+C'est assez que je vive afin que je le pleure,
+Sans que ces lâches mains lui creusent un tombeau,
+Que je sois son esclave, et non pas son bourreau,
+J'embrasse ses genoux.
+
+Vous voulez donc mourir ?
+
+Et de plus par ma main ?
+
+Réduit malgré moi-même à cette extrémité,
+Mon coeur, obéissons à la nécessité,
+Faisons devant le ciel un acte illégitime,
+Et tâchons d'éviter un crime par un crime,
+Étonnons l'avenir de cet acte important,
+S'il ne peut l'approuver, qu'il en parle pourtant,
+Puisque vous demandez une cruelle marque
+Des horreurs que l'on voit sur le front de la Parque
+Quand d'un oeil menaçant elle nous vient saisir,
+Je m'en vais contenter votre sanglant désir.
+
+      Donnez-moi votre épée.
+
+Vous voulez que ce fer vous ôte la lumière ?
+Vous attendez la mort de ma main meurtrière ?
+Je dois être conforme à vos tristes souhaits,
+Octroyez un pardon au crime que je fais.
+
+Vous me pardonnez donc ma désobéissance,
+Ou ma main, si j'ai dû vous donner le trépas,
+Me l'offrant me punit de ne vous l'offrir pas.
+
+
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_epaphrodite
+
+Faut-il goûter si peu le fruit d'une victoire,
+Et pour cacher leur honte obscurcir votre gloire ?
+Un coeur est bien peu fort quand la pitié le fend,
+Quoi serez-vous vainqueur sans être triomphant ?
+Vous êtes donc sensible au souci de leur honte,
+Et quand vous surmontez, c'est lors qu'on vous surmonte ?
+La victoire en son prix ne se doit refuser,
+Et qui sait l'acquérir doit savoir en user :
+Ce n'est pas la raison que des soupirs, des larmes,
+Interrompent le cours de l'honneur de vos armes,
+Il faut être inflexible, et c'est un grand abus
+De faire ses vainqueurs de ceux qu'on a vaincus ;
+Qui voyant l'ennemi dont il a la victoire
+A pitié de sa honte, est cruel à sa gloire,
+Et si ce mouvement ne s'altère, ô César !
+Rome en verra bien peu derrière votre char.
+
+      D'avoir trop de clémence,
+Aux grands cette vertu nuit dans son abondance,
+Étouffe la justice en un sévère coeur,
+Oblige le vaincu, mais fait tort au vainqueur,
+Cette lâche vertu n'en peut souffrir aucune,
+Et vous en cachez cent pour n'en faire voir qu'une,
+Par elle vous quittez le prix de vos combats,
+Vous ne châtiez point, vous ne triomphez pas :
+Antoine librement s'est privé d'une vie
+Qu'avait à votre honneur la fortune asservie,
+Et se voyant forcé de vous suivre aujourd'hui,
+Il ne l'a pu souffrir, ni vous non plus que lui,
+De sorte que pour voir ce triomphe équitable,
+L'un fut trop généreux, l'autre est trop pitoyable.
+Usez de ce qui reste, et pour votre bonheur
+Dans Rome promenez leur honte, et votre honneur.
+
+Ce noble stratagème, et cette douce amorce
+Font voir que votre esprit égale votre force,
+Et qu'on est téméraire en un degré pareil,
+Ou tenant contre vous, ou vous donnant conseil.
+
+Il porte, ce me semble, un coutelas sanglant.
+
+Ce changement soudain m'étonnerait, Madame,
+Si je méconnaissais les forces de votre âme
+Votre esprit ne tient point d'un esprit abattu
+Dont la nature faible étouffe la vertu,
+Le ciel vous a vu faire une sensible perte,
+Vous en avez pleuré, mais vous l'avez soufferte,
+Et même vous avez par un rare pouvoir
+Marié la raison avec le désespoir,
+Et rendu par vos pleurs la nature contente,
+Antoine satisfait, la vertu triomphante.
+
+L'on ne se peut servir d'un charme plus puissant,
+Et votre majesté s'élève en s'abaissant ;
+Quoiqu'en ce triste jour le sort vous importune,
+L'amour peut relever ce qu'abat la fortune,
+César peut n'user pas d'un titre glorieux,
+Il porte un coeur, Madame, et vous avez des yeux.
+
+Madame, j'obéis.
+
+Je n'en recherche point que l'honneur de vous plaire.
+
+J'avais charge, ô César ! D'adoucir des malheurs,
+De consoler la reine, et de sécher ses pleurs,
+Mais les pleurs ne sont pas son plus triste exercice,
+Aussi vous me deviez donner un autre office,
+Et m'envoyer plutôt vers un objet si beau
+Pour éteindre du feu que pour tarir de l'eau.
+Je crois que de sa part ce billet vous va dire
+Que vous gagnez un coeur aussi bien qu'un empire.
+
+      Ne la soupçonnez pas,
+Allez jusques dans Rome elle suivra vos pas,
+Son amour aveuglé préfère à sa couronne
+Le superbe renom que sa honte vous donne,
+Vous plaisant elle règne, et son ambition
+Se termine en l'honneur de votre affection.
+
+Son âme à la douleur ne se met plus en proie,
+Et son front est le siège où préside la joie.
+
+Quand elle suspendrait sa tristesse, et ses larmes,
+Que peut contre sa vie un désespoir sans armes ?
+
+Accourez, ô César ! Tout le monde est en peine,
+On ne saurait ni voir, ni parler à la reine,
+Elle n'a point de fer, ni de poison sur soi,
+Mais sa chambre est fermée, et je ne sais pourquoi,
+L'on n'y saurait entrer qu'on n'en rompe la porte,
+Et nous n'oserions pas en user de la sorte,
+Craignant de profaner par ce peu de respect
+La majesté du lieu.
+

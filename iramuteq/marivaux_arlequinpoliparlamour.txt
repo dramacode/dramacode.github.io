@@ -1,1110 +1,430 @@
 
 
-**** *book_ *id_I01 *act_I *date_1720
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
--*who_trivelin
 Vous soupirez, Madame, et malheureusement pour vous, vous risquez de soupirer longtemps si votre raison n'y met ordre ; me permettrez-vous de vous dire ici mon petit sentiment ?
 
--*who_lafee
-Parle.
-
--*who_trivelin
 Le jeune homme que vous avez enlevé à ses parents est un beau brun, bien fait ; c'est la figure la plus charmante du monde ; il dormait dans un bois quand vous le vîtes, et c'était assurément voir l'Amour endormi ; je ne suis donc point surpris du penchant subit qui vous a pris pour lui.
 
--*who_lafee
-Est-il rien de plus naturel que d'aimer ce qui est aimable ?
-
--*who_trivelin
 Oh sans doute ; cependant avant cette aventure, vous aimiez assez le grand enchanteur Merlin.
 
--*who_lafee
-Eh bien, l'un me fait oublier l'autre : cela est encore fort naturel.
+C'est la pure nature ; mais il reste une petite observation à faire : c'est que vous enlevez le jeune homme endormi, quand peu de jours après vous allez épouser le même Merlin qui en a votre parole. Oh ! Cela devient sérieux ; et entre nous, c'est prendre la nature un peu trop à la lettre ; cependant passe encore ; le pis qu'il en pouvait arriver, c'était d'être infidèle ; cela serait très vilain dans un homme, mais dans une femme, cela est plus supportable : quand une femme est fidèle, on l'admire ; mais il y a des femmes modestes qui n'ont pas la vanité de vouloir être admirées ; vous êtes de celles-là, moins de gloire, et plus de plaisir, à la bonne heure.
 
--*who_trivelin
-C'est la pure nature ; mais il reste une petite observation à faire : c'est que vous enlevez le jeune homme endormi, quand peu de jours après vous allez épouser le même Merlin qui en a votre parole.
-Oh !
-Cela devient sérieux ; et entre nous, c'est prendre la nature un peu trop à la lettre ; cependant passe encore ; le pis qu'il en pouvait arriver, c'était d'être infidèle ; cela serait très vilain dans un homme, mais dans une femme, cela est plus supportable : quand une femme est fidèle, on l'admire ; mais il y a des femmes modestes qui n'ont pas la vanité de vouloir être admirées ; vous êtes de celles-là, moins de gloire, et plus de plaisir, à la bonne heure.
+C'est bien dit, poursuivons : vous portez le jeune homme endormi dans votre palais, et vous voilà à guetter le moment de son réveil ; vous êtes en habit de conquête, et dans un attirail digne du mépris généreux que vous avez pour la gloire, vous vous attendiez de la part du beau garçon à la surprise la plus amoureuse ; il s'éveille, et vous salue du regard le plus imbécile que jamais nigaud ait porté : vous vous approchez, il bâille deux ou trois fois de toutes ses forces, s'allonge, se retourne et se rendort : voilà l'histoire curieuse d'un réveil qui promettait une scène si intéressante. Vous sortez en soupirant de dépit, et peut-être chassée par un ronflement de basse-taille, aussi nourri qu'il en soit ; une heure se passe, il se réveille encore, et ne voyant personne auprès de lui, il crie : eh ! À ce cri galant, vous rentrez ; l'Amour se frottait les yeux : que voulez-vous, beau jeune homme, lui dites-vous ? Je veux goûter, moi, répond-il. Mais n'êtes-vous point surpris de me voir, ajoutez-vous ? Eh ! Mais oui, repart-il. Depuis quinze jours qu'il est ici, sa conversation a toujours été de la même force ; cependant vous l'aimez, et qui pis est, vous laissez penser à Merlin qu'il va vous épouser, et votre dessein, m'avez-vous dit, est, s'il est possible, d'épouser le jeune homme ; franchement, si vous les prenez tous deux, suivant toutes les règles, le second mari doit gâter le premier.
 
--*who_lafee
-De la gloire à la place où je suis, je serais une grande dupe de me gêner pour si peu de chose.
-
--*who_trivelin
-C'est bien dit, poursuivons : vous portez le jeune homme endormi dans votre palais, et vous voilà à guetter le moment de son réveil ; vous êtes en habit de conquête, et dans un attirail digne du mépris généreux que vous avez pour la gloire, vous vous attendiez de la part du beau garçon à la surprise la plus amoureuse ; il s'éveille, et vous salue du regard le plus imbécile que jamais nigaud ait porté : vous vous approchez, il bâille deux ou trois fois de toutes ses forces, s'allonge, se retourne et se rendort : voilà l'histoire curieuse d'un réveil qui promettait une scène si intéressante.
-Vous sortez en soupirant de dépit, et peut-être chassée par un ronflement de basse-taille, aussi nourri qu'il en soit ; une heure se passe, il se réveille encore, et ne voyant personne auprès de lui, il crie : eh !
-À ce cri galant, vous rentrez ; l'Amour se frottait les yeux : que voulez-vous, beau jeune homme, lui dites-vous ?
-Je veux goûter, moi, répond-il.
-Mais n'êtes-vous point surpris de me voir, ajoutez-vous ?
-Eh !
-Mais oui, repart-il.
-Depuis quinze jours qu'il est ici, sa conversation a toujours été de la même force ; cependant vous l'aimez, et qui pis est, vous laissez penser à Merlin qu'il va vous épouser, et votre dessein, m'avez-vous dit, est, s'il est possible, d'épouser le jeune homme ; franchement, si vous les prenez tous deux, suivant toutes les règles, le second mari doit gâter le premier.
-
--*who_lafee
-Je vais te répondre en deux mots : la figure du jeune homme en question m'enchante ; j'ignorais qu'il eût si peu d'esprit quand je l'ai enlevé.
-Pour moi, sa bêtise ne me rebute point : j'aime, avec les grâces qu'il a déjà, celles que lui prêtera l'esprit quand il en aura.
-Quelle volupté de voir un homme aussi charmant me dire à mes pieds : je vous aime !
-Il est déjà le plus beau brun du monde, mais sa bouche, ses yeux, tous ses traits seront adorables, quand un peu d'amour les aura retouchés, mes soins réussiront peut-être à lui en inspirer.
-Souvent il me regarde ; et tous les jours je touche au moment où il peut me sentir et se sentir lui-même : si cela lui arrive, sur-le-champ j'en fais mon mari ; cette qualité le mettra alors à l'abri des fureurs de Merlin; mais avant cela, je n'ose mécontenter cet enchanteur, aussi puissant que moi, et avec qui je différerai le plus longtemps que je pourrai.
-
--*who_trivelin
 Mais si le jeune homme n'est jamais, ni plus amoureux, ni plus spirituel, si l'éducation que vous tâchez de lui donner ne réussit pas, vous épouserez donc Merlin ?
 
--*who_lafee
-Non ; car en l'épousant même je ne pourrais me déterminer à perdre de vue l'autre, et si jamais il venait à m'aimer, toute mariée que je serais, je veux bien te l'avouer, je ne me fierais pas à moi.
+Oh, je m'en serais bien douté, sans que vous me l'eussiez dit : femme tentée, et femme vaincue, c'est tout un. Mais je vois notre bel imbécile qui vient avec son maître à danser.
 
--*who_trivelin
-Oh, je m'en serais bien douté, sans que vous me l'eussiez dit : femme tentée, et femme vaincue, c'est tout un.
-Mais je vois notre bel imbécile qui vient avec son maître à danser.
-
-**** *book_ *id_I02 *act_I *date_1720
-
--*who_lafee
-Eh bien, aimable enfant, vous me paraissez triste : y a-t-il quelque chose ici qui vous déplaise ?
-
--*who_arlequin
-Moi, je n'en sais rien.
-
--*who_lafee
-Oh ! je vous prie, ne riez pas, cela me fait injure, je l'aime, cela vous suffit pour le respecter.
-Voulez-vous bien prendre votre leçon, mon cher enfant ?
-
--*who_arlequin
-Hem.
-
--*who_lafee
-Voulez-vous prendre votre leçon, pour l'amour de moi ?
-
--*who_arlequin
-Non.
-
--*who_lafee
-Quoi !
-Vous me refusez si peu de chose, à moi qui vous aime ?
-
--*who_lafee
-Voulez-vous que je vous la donne ?
-
--*who_arlequin
-Oui-dà.
-
--*who_lafee
-Mon cher Arlequin, un beau garçon comme vous, quand une dame lui présente quelque chose, doit baiser la main en le recevant.
-
--*who_lafee
-Il ne m'entend pas, mais du moins sa méprise m'a fait plaisir.
-Baisez la vôtre à présent.
-La voilà, en revanche, recevez votre leçon.
-
--*who_arlequin
-Je m'ennuie.
-
--*who_lafee
-En voilà donc assez : nous allons tâcher de vous divertir.
-
--*who_arlequin
-Divertir, divertir.
-
-**** *book_ *id_I03 *act_I *date_1720
-
--*who_chanteur
-Beau brunet, l'Amour vous appelle.
-
--*who_arlequin
-Je ne l'entends pas, où est-il ?
-Hé !
-Hé !
-
--*who_chanteur
-Beau brunet, l'Amour vous appelle.
-
--*who_arlequin
-Qu'il crie donc plus haut.
-
--*who_chanteur
-Voyez-vous cet objet charmant,
-Ces yeux dont l'ardeur étincelle,
-Vous répètent à tout moment :
-Beau brunet, l'Amour vous appelle.
-
--*who_arlequin
-Dame, cela est drôle !
-
--*who_chanteuse
-Aimez, aimez, rien n'est si doux.
-
--*who_arlequin
-Apprenez, apprenez-moi cela.
-
--*who_chanteuse
-Ah ! Que je plains votre ignorance.
-Quel bonheur pour moi, quand j'y pense,
-Qu'Atys en sache plus que vous !
-
--*who_lafee
-Cher Arlequin, ces tendres chansons ne vous inspirent-elles rien ?
-Que sentez-vous ?
-
--*who_arlequin
-Je sens un grand appétit.
-
--*who_trivelin
 C'est-à-dire qu'il soupire après sa collation ; mais voici un paysan qui veut vous donner le plaisir d'une danse de village, après quoi nous irons manger.
 
--*who_lafee
-Quand la danse finit, la Fée le tire par le bras, et lui dit en se levant.Vous vous endormez, que faut-il donc faire pour vous amuser ?
+Oui, goûté comme quatre : il excelle en fait d'appétit.
 
--*who_arlequin
-Hi, hi, hi, mon père, eh !
-Je ne vois point ma mère !
+Je crois qu'il joue au volant dans les prairies ; mais j'ai une nouvelle à vous apprendre.
 
--*who_lafee
-Emmenez-le, il se distraira peut-être, en mangeant, du chagrin qui le prend ; je sors d'ici pour quelques moments ; quand il aura fait collation, laissez-le se promener où il voudra.
+Merlin est venu pour vous voir.
 
-**** *book_ *id_I04 *act_I *date_1720
+En vérité, Madame, c'est bien dommage que ce petit innocent l'ait chassé de votre coeur ! Merlin est au comble de la joie, il croit vous épouser incessamment. Imagines-tu quelque chose d'aussi beau qu'elle ? me disait-il tantôt, en regardant votre portrait. Ah ! Trivelin, que de plaisirs m'attendent ! Mais je vois bien que de ces plaisirs-là il n'en tâtera qu'en idée, et cela est d'une triste ressource, quand on s'en est promis la belle et bonne réalité. Il reviendra, comment vous tirerez-vous d'affaire avec lui ?
 
--*who_leberger
-Vous me fuyez, belle Silvia ?
+Eh ! N'en sentez-vous pas quelque remords de conscience ?
 
--*who_silvia
-Que voulez-vous que je fasse, vous m'entretenez d'une chose qui m'ennuie, vous me parlez toujours d'amour.
+Voilà ce qui s'appelle un coeur de femme complet.
 
--*who_leberger
-Je vous parle de ce que je sens.
+Je gagerais moi que c'est un linge qui sent le musc.
 
--*who_silvia
-Oui, mais je ne sens rien, moi.
+Il jase vraiment !
 
--*who_leberger
-Voilà ce qui me désespère.
+Je vous avoue, Madame, que voici une aventure où je ne comprends rien, que serait-il donc arrivé à ce petit peste-là ?
 
--*who_silvia
-Ce n'est pas ma faute, je sais bien que toutes nos bergères ont chacune un berger qui ne les quitte point ; elles me disent qu'elles aiment, qu'elles soupirent ; elles y trouvent leur plaisir.
-Pour moi, je suis bien malheureuse : depuis que vous dites que vous soupirez pour moi, j'ai fait ce que j'ai pu pour soupirer aussi, car j'aimerais autant qu'une autre à être bien aise ; s'il y avait quelque secret pour cela, tenez, je vous rendrais heureux tout d'un coup, car je suis naturellement bonne.
+Que voulez-vous, Madame ?
 
--*who_leberger
-Hélas ! pour de secret, je n'en sais point d'autre que celui de vous aimer moi-même.
+Oui, Madame.
 
--*who_silvia
-Apparemment que ce secret-là ne vaut rien ; car je ne vous aime point encore, et j'en suis bien fâchée ; comment avez-vous fait pour m'aimer, vous ?
+Non, mes enfants, ce n'est pas la Fée ; mais elle m'a donné son anneau, afin que je vous écoutasse sans être vu. Ce serait bien dommage d'abandonner de si tendres amants à sa fureur : aussi bien ne mérite-t-elle pas qu'on la serve, puisqu'elle est infidèle au plus généreux magicien du monde, à qui je suis dévoué : soyez en repos, je vais vous donner un moyen d'assurer votre bonheur. Il faut qu'Arlequin paraisse mécontent de vous, Silvia ; et que de votre côté vous feigniez de le quitter en le raillant. Je vais chercher la Fée qui m'attend, à qui je dirai que vous vous êtes parfaitement acquittée de ce qu'elle vous avait ordonné : elle sera témoin de votre retraite. Pour vous, Arlequin, quand Silvia sera sortie, vous resterez avec la Fée, et alors en l'assurant que vous ne songez plus à Silvia infidèle, vous jurerez de vous attacher à elle, et tâcherez par quelque tour d'adresse, et comme en badinant, de lui prendre sa baguette ; je vous avertis que dès qu'elle sera dans vos mains, la Fée n'aura plus aucun pouvoir sur vous deux ; et qu'en la touchant elle-même d'un coup de la baguette, vous en serez absolument le maître. Pour lors, vous pourrez sortir d'ici et vous faire telle destinée qu'il vous plaira.
 
--*who_leberger
-Moi, je vous ai vue : voilà tout.
+Préparez-vous, je vais amener ici la Fée.
 
--*who_silvia
-Voyez quelle différence ; et moi, plus je vous vois et moins je vous aime.
-N'importe, allez, allez, cela viendra peut-être, mais ne me gênez point.
-Par exemple, à présent, je vous haïrais si vous restiez ici.
+Je crois, Madame, que vous aurez lieu d'être contente.
 
--*who_leberger
-Je me retirerai donc, puisque c'est vous plaire, mais pour me consoler, donnez-moi votre main, que je la baise.
 
--*who_silvia
-Oh non !
-On dit que c'est une faveur, et qu'il n'est pas honnête d'en faire, et cela est vrai, car je sais bien que les bergères se cachent de cela.
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
--*who_leberger
-Personne ne nous voit.
+Moi, je n'en sais rien.
 
--*who_silvia
-Oui ; mais puisque c'est une faute, je ne veux point la faire qu'elle ne me donne du plaisir comme aux autres.
+Hem.
 
--*who_leberger
-Adieu donc, belle Silvia, songez quelquefois à moi.
+Non.
 
--*who_silvia
-Oui, oui.
+Oui-dà.
 
-**** *book_ *id_I05 *act_I *date_1720
+Je m'ennuie.
 
--*who_silvia
-Que ce berger me déplaît avec son amour !
-Toutes les fois qu'il me parle, je suis toute de méchante humeur.
-Mais qui est-ce qui vient là ?
-Ah mon Dieu le beau garçon !
+Divertir, divertir.
 
--*who_arlequin
+Je ne l'entends pas, où est-il ?
+Hé ! Hé !
+
+Qu'il crie donc plus haut.
+
+Dame, cela est drôle !
+
+Apprenez, apprenez-moi cela.
+
+Je sens un grand appétit.
+
+Hi, hi, hi, mon père, eh ! Je ne vois point ma mère !
+
 Vous êtes bien pressée ?
 
--*who_silvia
-Je me retire, car je ne vous connais pas.
+Vous ne me connaissez pas ? Tant pis ; faisons connaissance, voulez-vous ?
 
--*who_arlequin
-Vous ne me connaissez pas ?
-Tant pis ; faisons connaissance, voulez-vous ?
-
--*who_silvia
-Je le veux bien.
-
--*who_arlequin
 Que vous êtes jolie !
 
--*who_silvia
-Vous êtes bien obligeant.
-
--*who_arlequin
 Oh point, je dis la vérité.!
 
--*who_silvia
-Vous êtes bien joli aussi, vous.
+Tant mieux : où demeurez-vous ? Je vous irai voir.
 
--*who_arlequin
-Tant mieux : où demeurez-vous ?
-Je vous irai voir.
-
--*who_silvia
-Je demeure tout près ; mais il ne faut pas venir; il vaut mieux nous voir toujours ici, parce qu'il y a un berger qui m'aime ; il serait jaloux, et il nous suivrait.
-
--*who_arlequin
 Ce berger-là vous aime ?
 
--*who_silvia
-Oui.
+Voyez donc cet impertinent ! Je ne le veux pas, moi. Est-ce que vous l'aimez, vous ?
 
--*who_arlequin
-Voyez donc cet impertinent !
-Je ne le veux pas, moi.
-Est-ce que vous l'aimez, vous ?
-
--*who_silvia
-Non, je n'en ai jamais pu venir à bout.
-
--*who_arlequin
 C'est bien fait, il faut n'aimer personne que nous deux ; voyez si vous le pouvez ?
 
--*who_silvia
-Oh !
-De reste, je ne trouve rien de si aisé.
-
--*who_arlequin
 Tout de bon ?
 
--*who_silvia
-Oh !
-Je ne mens jamais, mais où demeurez-vous aussi ?
-
--*who_arlequin
 Dans cette grande maison.
 
--*who_silvia
-Quoi !
-Chez la Fée ?
-
--*who_arlequin
 Oui.
 
--*who_silvia
-J'ai toujours eu du malheur.
-
--*who_arlequin
 Qu'est-ce que vous avez, ma chère amie ?
 
--*who_silvia
-C'est que cette Fée est plus belle que moi, et j'ai peur que notre amitié ne tienne pas.
-
--*who_arlequin
 J'aimerais mieux mourir.
 Allez, ne vous affligez pas, mon petit coeur.
 
--*who_silvia
-Vous m'aimerez donc toujours ?
-
--*who_arlequin
 Tant que je serai en vie.
 
--*who_silvia
-Ce serait bien dommage de me tromper, car je suis si simple.
-Mais mes moutons s'écartent, on me gronderait s'il s'en perdait quelqu'un : il faut que je m'en aille.
-Quand reviendrez-vous ?
+Oh ! Que ces moutons me fâchent !
 
--*who_arlequin
-Oh !
-Que ces moutons me fâchent !
-
--*who_silvia
-Et moi aussi, mais que faire ?
-Serez-vous ici sur le soir ?
-
--*who_arlequin
 Sans faute.
 Oh les jolis petits doigts !
 Je n'ai jamais eu de bonbon si bon que cela.
 
--*who_silvia
-Adieu donc.
-Voilà que je soupire, et je n'ai point eu de secret pour cela.
-
--*who_arlequin
 Mon amie !
 
--*who_silvia
-Que voulez-vous, mon amant ?
-Ah !
-C'est mon mouchoir, donnez.
+Non, je veux le garder, il me tiendra compagnie. Qu'est-ce que vous en faites ?
 
--*who_arlequin
-Non, je veux le garder, il me tiendra compagnie.
-Qu'est-ce que vous en faites ?
-
--*who_silvia
-Je me lave quelquefois le visage, et je m'essuie avec.
-
--*who_arlequin
 Et par où vous sert-il, afin que je le baise par là ?
 
--*who_silvia
-Partout, mais j'ai hâte, je ne vois plus mes moutons ; adieu, jusqu'à tantôt.
-
-**** *book_ *id_I06 *act_I *date_1720
-
--*who_lafee
-Eh bien !
-Notre jeune homme, a-t-il goûté ?
-
--*who_trivelin
-Oui, goûté comme quatre : il excelle en fait d'appétit.
-
--*who_lafee
-Où est-il à présent ?
-
--*who_trivelin
-Je crois qu'il joue au volant dans les prairies ; mais j'ai une nouvelle à vous apprendre.
-
--*who_lafee
-Quoi, qu'est-ce que c'est ?
-
--*who_trivelin
-Merlin est venu pour vous voir.
-
--*who_lafee
-Je suis ravie de ne m'y être point rencontrée ; car c'est une grande peine que de feindre de l'amour pour qui l'on n'en sent plus.
-
--*who_trivelin
-En vérité, Madame, c'est bien dommage que ce petit innocent l'ait chassé de votre coeur !
-Merlin est au comble de la joie, il croit vous épouser incessamment.
-Imagines-tu quelque chose d'aussi beau qu'elle ? me disait-il tantôt, en regardant votre portrait.
-Ah !
-Trivelin, que de plaisirs m'attendent !
-Mais je vois bien que de ces plaisirs-là il n'en tâtera qu'en idée, et cela est d'une triste ressource, quand on s'en est promis la belle et bonne réalité.
-Il reviendra, comment vous tirerez-vous d'affaire avec lui ?
-
--*who_lafee
-Jusqu'ici je n'ai point encore d'autre parti à prendre que de le tromper.
-
--*who_trivelin
-Eh !
-N'en sentez-vous pas quelque remords de conscience ?
-
--*who_lafee
-Oh !
-J'ai bien d'autres choses en tête, qu'à m'amuser à consulter ma conscience sur une bagatelle..
-
--*who_trivelin
-Voilà ce qui s'appelle un coeur de femme complet.
-
--*who_lafee
-Je m'ennuie de ne point voir Arlequin ; je vais le chercher ; mais le voilà qui vient à nous : qu'en dis-tu, Trivelin ?
-Il me semble qu'il se tient mieux qu'à l'ordinaire ?
-
-**** *book_ *id_I07 *act_I *date_1720
-
--*who_lafee
-Je suis curieuse de voir ce qu'il fera tout seul, mets-toi à côté de moi, je vais tourner mon anneau qui nous rendra invisibles.
-Qu'est-ce que cela veut dire ?
-Cela me paraît singulier.
-Où a-t-il pris ce mouchoir ?
-Ne serait-ce pas un des miens qu'il aurait trouvé ?
-Ah !
-Si cela était, Trivelin, toutes ces postures-là seraient peut-être de bon augure.
-
--*who_trivelin
-Je gagerais moi que c'est un linge qui sent le musc.
-
--*who_lafee
-Oh non !
-Je veux lui parler, mais éloignons-nous un peu pour feindre que nous arrivons.
-
--*who_arlequin
 Ter li ta ta li ta.
 
--*who_lafee
-Bonjour, Arlequin.
-
--*who_arlequin
 Je suis votre très humble serviteur.
 
--*who_lafee
-Comment !
-Voilà des manières !
-Il ne m'en a jamais tant dit depuis qu'il est ici.
-
--*who_arlequin
 Madame, voulez-vous avoir la bonté de vouloir bien me dire comment on est quand on aime bien une personne ?
 
--*who_lafee
-Trivelin, entends-tu ?
-Quand on aime, mon cher enfant, on souhaite toujours de voir les gens, on ne peut se séparer d'eux, on les perd de vue avec chagrin : enfin on sent des transports, des impatiences et souvent des désirs.
-
--*who_arlequin
 M'y voilà.
 
--*who_lafee
-Est-ce que vous sentez tout ce que je dis là ?
-
--*who_arlequin
 Non, c'est une curiosité que j'ai.
 
--*who_trivelin
-Il jase vraiment !
+Oh ! Je ne suis pas un niais, je ne dis pas ce que je pense.
 
--*who_lafee
-Il jase, il est vrai, mais sa réponse ne me plaît pas : mon cher Arlequin, ce n'est donc pas de moi que vous parlez ?
-
--*who_arlequin
-Oh !
-Je ne suis pas un niais, je ne dis pas ce que je pense.
-
--*who_lafee
-Qu'est-ce que cela signifie ?
-Où avez-vous pris ce mouchoir ?
-
--*who_arlequin
 Je l'ai pris à terre.
 
--*who_lafee
-À qui est-il ?
-
--*who_arlequin
 Il est à...
 Je n'en sais rien.
 
--*who_lafee
-Il y a quelque mystère désolant là-dessous !
-Donnez-moi ce mouchoir !
-Il n'est pas à moi et il le baisait ; n'importe, cachons-lui mes soupçons, et ne l'intimidons pas ; car il ne me découvrirait rien.
-
--*who_arlequin
 Ayez la charité de me rendre le mouchoir.
 
--*who_lafee
-Tenez, Arlequin, je ne veux pas vous l'ôter, puisqu'il vous fait plaisir.
-Vous me quittez ; où allez-vous ?
-
--*who_arlequin
 Dormir sous un arbre.
 
--*who_lafee
-Allez, allez.
-
-**** *book_ *id_I08 *act_I *date_1720
-
--*who_lafee
-Ah !
-Trivelin, je suis perdue.
-
--*who_trivelin
-Je vous avoue, Madame, que voici une aventure où je ne comprends rien, que serait-il donc arrivé à ce petit peste-là ?
-
--*who_lafee
-Il a de l'esprit, Trivelin, il en a, et je n'en suis pas mieux, je suis plus folle que jamais.
-Ah !
-Quel coup pour moi, que le petit ingrat vient de me paraître aimable !
-As-tu vu comme il est changé ?
-As-tu remarqué de quel air il me parlait ?
-Combien sa physionomie était devenue fine ?
-Et ce n'est pas de moi qu'il tient toutes ces grâces-là !
-Il a déjà de la délicatesse de sentiment, il s'est retenu, il n'ose me dire à qui appartient le mouchoir, il devine que j'en serais jalouse ; ah !
-Qu'il faut qu'il ait pris d'amour pour avoir déjà tant d'esprit !
-Que je suis malheureuse !
-Une autre lui entendra dire ce je vous aime que j'ai tant désiré, et je sens qu'il méritera d'être adoré ; je suis au désespoir.
-Sortons, Trivelin ; il s'agit ici de découvrir ma rivale, je vais le suivre et parcourir tous les lieux où ils pourront se voir.
-Cherche de ton côté, va vite, je me meurs.
-
-**** *book_ *id_I09 *act_I *date_1720
-
--*who_silvia
-Arrête-toi un moment, ma cousine ; je t'aurai bientôt conté mon histoire, et tu me donneras quelque avis.
-Tiens, j'étais ici quand il est venu ; dès qu'il s'est approché, le coeur m'a dit que je l'aimais ; cela est admirable !
-Il s'est approché aussi, il m'a parlé ; sais-tu ce qu'il m'a dit ?
-Qu'il m'aimait aussi.
-J'étais plus contente que si on m'avait donné tous les moutons du hameau : vraiment je ne m'étonne pas si toutes nos bergères sont si aises d'aimer ; je voudrais n'avoir fait que cela depuis que je suis au monde, tant je le trouve charmant ; mais ce n'est pas tout, il doit revenir ici bientôt ; il m'a déjà baisé la main, et je vois bien qu'il voudra me la baiser encore.
-Donne-moi conseil, toi qui as eu tant d'amants ; dois-je le laisser faire ?
-
--*who_lacousine
-Garde-t'en bien, ma cousine, sois bien sévère, cela entretient l'amour d'un amant.
-
--*who_silvia
-Quoi, il n'y a point de moyen plus aisé que cela pour l'entretenir ?
-
--*who_lacousine
-Non ; il ne faut point aussi lui dire tant que tu l'aimes.
-
--*who_silvia
-Eh ! comment s'en empêcher ?
-Je suis encore trop jeune pour pouvoir me gêner.
-
--*who_lacousine
-Fais comme tu pourras, mais on m'attend, je ne puis rester plus longtemps, adieu, ma cousine.
-
-**** *book_ *id_I10 *act_I *date_1720
-
--*who_silvia
-Que je suis inquiète !
-J'aimerais autant ne point aimer que d'être obligée d'être sévère ; cependant elle dit que cela entretient l'amour, voilà qui est étrange ; on devrait bien changer une manière si incommode ; ceux qui l'on inventée n'aimaient pas tant que moi.
-
-**** *book_ *id_I11 *act_I *date_1720
-
--*who_silvia
-Voici mon amant ; que j'aurai de peine à me retenir !
-
--*who_arlequin
 Vous voilà donc, mon petit coeur ?
 
--*who_silvia
-Oui, mon amant.
-
--*who_arlequin
 Êtes-vous bien aise de me voir ?
 
--*who_silvia
-Assez.
-
--*who_arlequin
 Assez, ce n'est pas assez.
 
--*who_silvia
-Oh si fait, il n'en faut pas davantage.
-
--*who_arlequin
 Et moi, je ne veux pas que vous disiez comme cela.Il veut alors lui baiser la main, en disant ces derniers mots.
 
--*who_silvia
-Ne me baisez pas la main au moins.
+Ne voilà-t-il pas encore ? Allez, vous êtes une trompeuse.
 
--*who_arlequin
-Ne voilà-t-il pas encore ?
-Allez, vous êtes une trompeuse.
-
--*who_silvia
-Hélas !
-Mon petit amant, ne pleurez pas.
-
--*who_arlequin
 Vous m'aviez promis votre amitié.
 
--*who_silvia
-Eh !
-Je vous l'ai donnée.
-
--*who_arlequin
 Non : quand on aime les gens, on ne les empêche pas de baiser sa main.
 Tenez, voilà la mienne ; voyez si je ferai comme vous.
 
--*who_silvia
-Oh !
-Ma cousine dira ce qu'elle voudra, mais je ne puis y tenir.
-Là, là, consolez-vous, mon amant, et baisez ma main puisque vous en avez envie ; baisez, mais écoutez, n'allez pas me demander combien je vous aime, car je vous en dirais toujours la moitié moins qu'il n'y en a.
-Cela n'empêchera pas que, dans le fond, je ne vous aime de tout mon coeur ; mais vous ne devez pas le savoir, parce que cela vous ôterait votre amitié, on me l'a dit.
+Tous ceux qui vous ont dit cela ont fait un mensonge : ce sont des causeurs qui n'entendent rien à notre affaire. Le coeur me bat quand je baise votre main et que vous dites que vous m'aimez, et c'est marque que ces choses-là sont bonnes à mon amitié.
 
--*who_arlequin
-Tous ceux qui vous ont dit cela ont fait un mensonge : ce sont des causeurs qui n'entendent rien à notre affaire.
-Le coeur me bat quand je baise votre main et que vous dites que vous m'aimez, et c'est marque que ces choses-là sont bonnes à mon amitié.
+Eh ! Eh ! Cela sera drôle ! Je le veux bien ; mais avant ce marché-là, laissez-moi baiser votre main à mon aise, cela ne sera pas du jeu.
 
--*who_silvia
-Cela se peut bien, car la mienne en va de mieux en mieux aussi ; mais n'importe, puisqu'on dit que cela ne vaut rien, faisons un marché de peur d'accident : toutes les fois que vous me demanderez si j'ai beaucoup d'amitié pour vous, je vous répondrai que je n'en ai guère, et cela ne sera pourtant pas vrai ; et quand vous voudrez me baiser la main, je ne le voudrai pas, et pourtant j'en aurai envie.
-
--*who_arlequin
-Eh !
-Eh !
-Cela sera drôle !
-Je le veux bien ; mais avant ce marché-là, laissez-moi baiser votre main à mon aise, cela ne sera pas du jeu.
-
--*who_silvia
-Baisez, cela est juste.
-
--*who_arlequin
 Oh ! mais, mon amie, peut-être que le marché nous fâchera tous deux.
 
--*who_silvia
-Eh ! quand cela nous fâchera tout de bon, ne sommes-nous pas les maîtres ?
-
--*who_arlequin
 Il est vrai, mon amie ; cela est donc arrêté ?
 
--*who_silvia
-Oui.
-
--*who_arlequin
 Cela sera tout divertissant : voyons pour voir.
 M'aimez-vous beaucoup ?
 
--*who_silvia
-Pas beaucoup.
-
--*who_arlequin
 Ce n'est que pour rire au moins, autrement...
 
--*who_silvia
-Eh ! sans doute.
-
--*who_arlequin
-Ah !
-Ah !
-Ah !
+Ah ! Ah ! Ah !
 Donnez-moi votre main, ma mignonne.
 
--*who_silvia
-Je ne le veux pas.
-
--*who_arlequin
 Je sais pourtant que vous le voudriez bien.
 
--*who_silvia
-Plus que vous ; mais je ne veux pas le dire.
-
--*who_arlequin
 Je veux la baiser, ou je serai fâché.
 
--*who_silvia
-Vous badinez, mon amant ?
-
--*who_arlequin
 Non.
 
--*who_silvia
-Quoi !
-C'est tout de bon ?
-
--*who_arlequin
 Tout de bon.
 
--*who_silvia
-Tenez donc.
+Dame ! Je badinais.
 
-**** *book_ *id_I12 *act_I *date_1720
-
--*who_lafee
-Ah !
-Je vois mon malheur !
-
--*who_arlequin
-Dame !
-Je badinais.
-
--*who_silvia
-Je vois bien que vous m'avez attrapée, mais j'en profite aussi.
-
--*who_arlequin
 Voilà un petit mot qui me plaît comme tout.
 
--*who_lafee
-Ah ! juste ciel, quel langage !
-Paraissons.
-
--*who_silvia
-Ah !
-
--*who_arlequin
 Ouf !
 
--*who_lafee
-Vous en savez déjà beaucoup !
+Eh ! Eh ! Je ne savais pourtant pas que vous étiez là.
 
--*who_arlequin
-Eh !
-Eh !
-Je ne savais pourtant pas que vous étiez là.
-
--*who_lafee
-Ingrat !
-Suivez-moi.
-
--*who_silvia
-Miséricorde !
-
-**** *book_ *id_I13 *act_I *date_1720
-
--*who_silvia
-Ah !
-La méchante femme, je tremble encore de peur.
-Hélas !
-Peut-être qu'elle va tuer mon amant, elle ne lui pardonnera jamais de m'aimer, mais je sais bien comment je ferai ; je m'en vais assembler tous les bergers du hameau, et les mener chez elle : allons.
-Qu'est-ce que j'ai donc ?
-Je ne puis me remuer.
-Ah !
-Cette magicienne m'a jeté un sortilège aux jambes.
-Ahi !
-Ahi !
-Messieurs, ayez pitié de moi, au secours, au secours !
-
--*who_lutin
-Suivez-nous, suivez-nous.
-
--*who_silvia
-Je ne veux pas, je veux retourner au logis.
-
--*who_secondlutin
-Marchons.
-
-**** *book_ *id_I14 *act_I *date_1720
-
--*who_lafee
-Fourbe que tu es !
-Je n'ai pu paraître aimable à tes yeux, je n'ai pu t'inspirer le moindre sentiment, malgré tous les soins et toute la tendresse que tu m'as vue ; et ton changement est l'ouvrage d'une misérable bergère !
-Réponds, ingrat, que lui trouves-tu de si charmant ?
-Parle.
-
--*who_arlequin
 Qu'est-ce que vous voulez ?
 
--*who_lafee
-Je ne te conseille pas d'affecter une stupidité que tu n'as plus, et si tu ne te montres tel que tu es, tu vas me voir poignarder l'indigne objet de ton choix.
+Eh ! Non, non ; je vous promets que j'aurai de l'esprit autant que vous le voudrez.
 
--*who_arlequin
-Eh !
-Non, non ; je vous promets que j'aurai de l'esprit autant que vous le voudrez.
-
--*who_lafee
-Tu trembles pour elle.
-
--*who_arlequin
 C'est que je n'aime à voir mourir personne.
 
--*who_lafee
-Tu me verras mourir, moi, si tu ne m'aimes.
-
--*who_arlequin
 Ne soyez donc point en colère contre nous.
 
--*who_lafee
-Ah !
-Mon cher Arlequin, regarde-moi, repens-toi de m'avoir désespérée, j'oublierai de quelle part t'est venu ton esprit ; mais puisque tu en as, qu'il te serve à connaître les avantages que je t'offre.
-
--*who_arlequin
 Tenez, dans le fond, je vois bien que j'ai tort ; vous êtes belle et brave cent fois plus que l'autre, mais j'enrage.
 
--*who_lafee
-Eh !
-De quoi ?
-
--*who_arlequin
 C'est que j'ai laissé prendre mon coeur par cette petite friponne qui est plus laide que vous.
 
--*who_lafee
-Arlequin, voudrais-tu aimer une personne qui te trompe, qui a voulu badiner avec toi, et qui ne t'aime pas ?
+Oh ! Pour cela si fait, elle m'aime à la folie.
 
--*who_arlequin
-Oh !
-Pour cela si fait, elle m'aime à la folie.
-
--*who_lafee
-Elle t'abusait, je le sais bien, puisqu'elle doit épouser un berger du village qui est son amant : si tu veux, je m'en vais l'envoyer chercher, et elle te le dira elle-même.
-
--*who_arlequin
 Tic, tac, tic, tac, ouf voilà des paroles qui me rendent malade.
 Allons, allons, je veux savoir cela ; car si elle me trompe, jarni, je vous caresserai, je vous épouserai devant ses deux yeux pour la punir.
 
--*who_lafee
-Eh bien ! je vais donc l'envoyer chercher.
-
--*who_arlequin
 Oui ; mais vous êtes bien fine, si vous êtes là quand elle me parlera, vous lui ferez la grimace, elle vous craindra, et elle n'osera me dire rondement sa pensée.
 
--*who_lafee
-Je me retirerai.
+La peste ! Vous êtes une sorcière, vous nous jouerez un tour comme tantôt, et elle s'en doutera : vous êtes au milieu du monde, et on ne voit rien. Oh ! je ne veux point que vous trichiez ; faites un serment que vous n'y serez pas en cachette.
 
--*who_arlequin
-La peste !
-Vous êtes une sorcière, vous nous jouerez un tour comme tantôt, et elle s'en doutera : vous êtes au milieu du monde, et on ne voit rien.
-Oh ! je ne veux point que vous trichiez ; faites un serment que vous n'y serez pas en cachette.
-
--*who_lafee
-Je te le jure, foi de fée.
-
--*who_arlequin
 Je ne sais point si ce juron-là est bon ; mais je me souviens à cette heure, quand on me lisait des histoires, d'avoir vu qu'on jurait par le six, le tix, oui le Styx.
 
--*who_lafee
-C'est la même chose.
-
--*who_arlequin
 N'importe, jurez toujours ; dame, puisque vous craignez, c'est que c'est le meilleur.
 
--*who_lafee
-Eh bien !
-Je n'y serai point, je t'en jure par le Styx, et je vais donner ordre qu'on l'amène ici.
-
--*who_arlequin
 Et moi en attendant je m'en vais gémir en me promenant.
 
-**** *book_ *id_I15 *act_I *date_1720
-
--*who_lafee
-Mon serment me lie, mais je n'en sais pas moins le moyen d'épouvanter la bergère sans être présente, et il me reste une ressource ; je donnerai mon anneau à Trivelin qui les écoutera invisible, et qui me rapportera ce qu'ils auront dit.
-Appelons-le : Trivelin !
-Trivelin !
-
-**** *book_ *id_I16 *act_I *date_1720
-
--*who_trivelin
-Que voulez-vous, Madame ?
-
--*who_lafee
-Faites venir ici cette bergère, je veux lui parler ; et vous, prenez cette bague.
-Quand j'aurai quitté cette fille, vous avertirez Arlequin de lui venir parler, et vous le suivrez sans qu'il le sache pour venir écouter leur entretien, avec la précaution de retourner la bague, pour n'être point vu d'eux ; après quoi, vous me redirez leur discours : entendez-vous ?
-Soyez exact, je vous prie.
-
--*who_trivelin
-Oui, Madame.
-
-**** *book_ *id_I17 *act_I *date_1720
-
--*who_lafee
-Est-il d'aventure plus triste que la mienne ?
-Je n'ai lieu d'aimer plus que je n'aimais, que pour en souffrir davantage ; cependant il me reste encore quelque espérance ; mais voici ma rivale.
-Approchez, approchez.
-
--*who_silvia
-Madame, est-ce que vous voulez toujours me retenir de force ici ?
-Si ce beau garçon m'aime, est-ce ma faute ?
-Il dit que je suis belle, dame, je ne puis pas m'empêcher de l'être.
-
--*who_lafee
-Oh ! si je ne craignais de tout perdre, je la déchirerais.
-Écoutez-moi, petite fille, mille tourments vous sont préparés, si vous ne m'obéissez.
-
--*who_silvia
-Hélas ! vous n'avez qu'à dire.
-
--*who_lafee
-Arlequin va paraître ici : je vous ordonne de lui dire que vous n'avez voulu que vous divertir avec lui, que vous ne l'aimez point, et qu'on va vous marier avec un berger du village ; je ne paraîtrai point dans votre conversation, mais je serai à vos côtés sans que vous me voyiez, et si vous n'observez mes ordres avec la dernière rigueur, s'il vous échappe le moindre mot qui lui fasse deviner que je vous aie forcée à lui parler comme je le veux, tout est prêt pour votre supplice.
-
--*who_silvia
-Moi, lui dire que j'ai voulu me moquer de lui ?
-Cela est-il raisonnable ?
-Il se mettra à pleurer, et je me mettrai à pleurer aussi : vous savez bien que cela est immanquable.
-
--*who_lafee
-Vous osez me résister !
-Paraissez, esprits infernaux, enchaînez-la, et n'oubliez rien pour la tourmenter.
-
--*who_silvia
-N'avez-vous pas de conscience de me demander une chose impossible ?
-
--*who_lafee
-Ce n'est pas tout; allez prendre l'ingrat qu'elle aime, et donnez-lui la mort à ses yeux.
-
--*who_silvia
-La mort !
-Ah !
-Madame la Fée, vous n'avez qu'à le faire venir ; je m'en vais lui dire que je le hais, et je vous promets de ne point pleurer du tout ; je l'aime trop pour cela.
-
--*who_lafee
-Si vous versez une larme, si vous ne paraissez tranquille, il est perdu, et vous aussi.
-Ôtez-lui ses fers.
-Quand vous lui aurez parlé, je vous ferai reconduire chez vous, si j'ai lieu d'être contente : il va venir, attendez ici.
-
-**** *book_ *id_I18 *act_I *date_1720
-
--*who_silvia
-Achevons vite de pleurer, afin que mon amant ne croie pas que je l'aime, le pauvre enfant, ce serait le tuer moi-même.
-Ah !
-Maudite fée !
-Mais essuyons mes yeux, le voilà qui vient.
-
--*who_arlequin
 Mon amie !
 
--*who_silvia
-Eh bien ?
-
--*who_arlequin
 Regardez-moi.
 
--*who_silvia
-À quoi sert tout cela ?
-On m'a fait venir ici pour vous parler ; j'ai hâte, qu'est-ce que vous voulez ?
-
--*who_arlequin
 Est-ce vrai que vous m'avez fourbé ?
 
--*who_silvia
-Oui, tout ce que j'ai fait, ce n'était que pour me donner du plaisir.
-
--*who_arlequin
 Mon amie, dites franchement, cette coquine de fée n'est point ici, car elle en a juré.
-Là, là, remettez-vous, mon petit coeur : dites, êtes-vous une perfide ?
-Allez-vous être la femme d'un vilain berger ?
+Là, là, remettez-vous, mon petit coeur : dites, êtes-vous une perfide ? Allez-vous être la femme d'un vilain berger ?
 
--*who_silvia
-Oui, encore une fois, tout cela est vrai.
-
--*who_arlequin
 Hi, hi, hi.
 
--*who_silvia
-Le courage me manque.
-
--*who_silvia
-Qu'allez-vous donc faire ?
-
--*who_silvia
-Ah !
-Il va se tuer; arrêtez-vous, mon amant !
-J'ai été obligée de vous dire des menteries.
-Madame la Fée, pardonnez-moi en quelque endroit que vous soyez ici, vous voyez bien ce qui en est.
-
--*who_arlequin
-Ah !
-Quel plaisir !
-Soutenez-moi, m'amour, je m'évanouis d'aise.
+Ah ! Quel plaisir ! Soutenez-moi, m'amour, je m'évanouis d'aise.
 Trivelin, alors, paraît tout d'un coup à leurs yeux.
 
--*who_silvia
-Ah !
-Voilà la Fée.
+Oh ! Quel honnête homme ! Quand j'aurai la baguette, je vous donnerai votre plein chapeau de liards.
 
--*who_trivelin
-Non, mes enfants, ce n'est pas la Fée ; mais elle m'a donné son anneau, afin que je vous écoutasse sans être vu.
-Ce serait bien dommage d'abandonner de si tendres amants à sa fureur : aussi bien ne mérite-t-elle pas qu'on la serve, puisqu'elle est infidèle au plus généreux magicien du monde, à qui je suis dévoué : soyez en repos, je vais vous donner un moyen d'assurer votre bonheur.
-Il faut qu'Arlequin paraisse mécontent de vous, Silvia ; et que de votre côté vous feigniez de le quitter en le raillant.
-Je vais chercher la Fée qui m'attend, à qui je dirai que vous vous êtes parfaitement acquittée de ce qu'elle vous avait ordonné : elle sera témoin de votre retraite.
-Pour vous, Arlequin, quand Silvia sera sortie, vous resterez avec la Fée, et alors en l'assurant que vous ne songez plus à Silvia infidèle, vous jurerez de vous attacher à elle, et tâcherez par quelque tour d'adresse, et comme en badinant, de lui prendre sa baguette ; je vous avertis que dès qu'elle sera dans vos mains, la Fée n'aura plus aucun pouvoir sur vous deux ; et qu'en la touchant elle-même d'un coup de la baguette, vous en serez absolument le maître.
-Pour lors, vous pourrez sortir d'ici et vous faire telle destinée qu'il vous plaira.
-
--*who_silvia
-Je prie le ciel qu'il vous récompense.
-
--*who_arlequin
-Oh !
-Quel honnête homme !
-Quand j'aurai la baguette, je vous donnerai votre plein chapeau de liards.
-
--*who_trivelin
-Préparez-vous, je vais amener ici la Fée.
-
-**** *book_ *id_I19 *act_I *date_1720
-
--*who_arlequin
 Ma chère amie, la joie me court dans le corps ; il faut que je vous baise, nous avons bien le temps de cela.
 
--*who_silvia
-Taisez-vous donc, mon ami, ne nous caressons pas à cette heure, afin de pouvoir nous caresser toujours : on vient, dites-moi bien des injures, pour avoir la baguette.
-
--*who_arlequin
 Allons, petite coquine.
 
-**** *book_ *id_I20 *act_I *date_1720
+Sortez d'ici, friponne; voyez cette petite effrontée ! Sortez d'ici, mort de ma vie !
 
--*who_trivelin
-Je crois, Madame, que vous aurez lieu d'être contente.
+Oh ! Je me soucie bien de cela : c'est une petite laide qui ne vous vaut pas. Allez, allez, à présent je vois bien que vous êtes une bonne personne. Fi ! Que j'étais sot ; laissez faire, nous l'attraperons bien, quand nous serons mari et femme.
 
--*who_arlequin
-Sortez d'ici, friponne; voyez cette petite effrontée !
-Sortez d'ici, mort de ma vie !
-
--*who_silvia
-Ah !
-Ah !
-Qu'il est drôle !
-Adieu, adieu, je m'en vais épouser mon amant : une autre fois ne croyez pas tout ce qu'on vous dit, petit garçon.
-Madame, voulez-vous que je m'en aille ?
-
--*who_lafee
-Faites-la sortir, Trivelin.
-
-**** *book_ *id_I21 *act_I *date_1720
-
--*who_lafee
-Je vous avais dit la vérité, comme vous voyez
-
--*who_arlequin
-Oh !
-Je me soucie bien de cela : c'est une petite laide qui ne vous vaut pas.
-Allez, allez, à présent je vois bien que vous êtes une bonne personne.
-Fi !
-Que j'étais sot ; laissez faire, nous l'attraperons bien, quand nous serons mari et femme.
-
--*who_lafee
-Quoi !
-Mon cher Arlequin, vous m'aimerez donc ?
-
--*who_arlequin
-Eh, qui donc ?
-J'avais assurément la vue trouble.
-Tenez, cela m'avait fâché d'abord, mais à présent je donnerais toutes les bergères des champs pour une mauvaise épingle.
+Eh, qui donc ? J'avais assurément la vue trouble. Tenez, cela m'avait fâché d'abord, mais à présent je donnerais toutes les bergères des champs pour une mauvaise épingle.
 Mais vous n'avez peut-être plus envie de moi, à cause que j'ai été si bête ?
 
--*who_lafee
-Mon cher Arlequin, je te fais mon maître, mon mari ; oui, je t'épouse ; je te donne mon coeur, mes richesses, ma puissance.
-Es-tu content ?
-
--*who_arlequin
-Ah !
-Ma mie, que vous me plaisez !
+Ah ! Ma mie, que vous me plaisez !
 Moi, je vous donne ma personne, et puis cela encore.
 Et puis encore cela.
 Et je m'en vais mettre ce bâton à mon côté.
 
--*who_lafee
-Donnez, donnez-moi cette baguette, mon fils ; vous la casserez.
-
--*who_arlequin
 Tout doucement, tout doucement!
 
--*who_lafee
-Donnez donc vite, j'en ai besoin.
-
--*who_arlequin
 Tout beau, asseyez-vous là ; et soyez sage.
 
--*who_lafee
-Ah!
-Je suis perdue, je suis trahie.
-
--*who_arlequin
-Et moi, je suis on ne peut pas mieux.
-Oh !
-Oh !
-Vous me grondiez tantôt parce que je n'avais pas d'esprit ; j'en ai pourtant plus que vous.
+Et moi, je suis on ne peut pas mieux. Oh ! Oh ! Vous me grondiez tantôt parce que je n'avais pas d'esprit ; j'en ai pourtant plus que vous.
 Soyez bien sage, madame la sorcière, car voyez bien cela !
-Allons, qu'on m'apporte ici mon petit coeur.
-Trivelin où sont mes valets et tous les diables aussi ?
-Vite, j'ordonne, je commande, ou par la sambleu...
+Allons, qu'on m'apporte ici mon petit coeur. Trivelin où sont mes valets et tous les diables aussi ? Vite, j'ordonne, je commande, ou par la sambleu...
 
-**** *book_ *id_I22 *act_I *date_1720
-
--*who_arlequin
 Ma chère amie, voilà la machine ; je suis sorcier à cette heure ; tenez, prenez, prenez ; il faut que vous soyez sorcière aussi.
 
--*who_silvia
-Oh !
-Mon amant, nous n'aurons plus d'envieux.
-
--*who_esprit
-Vous êtes notre maîtresse, que voulez-vous de nous ?
-
--*who_silvia
-Voilà encore ces vilains hommes qui me font peur.
-
--*who_arlequin
 Jarni, je vous apprendrai à vivre.
 Donnez-moi ce bâton, afin que je les rosse.
 
--*who_silvia
-En voilà assez, mon ami.
-
--*who_silvia
-Bonjour, Madame, comment vous portez-vous ?
-Vous n'êtes donc plus si méchante ?
-
--*who_silvia
-Oh !
-Qu'elle est en colère.
-
--*who_arlequin
 Tout doux, je suis le maître ; allons, qu'on nous regarde tout à l'heure agréablement.
 
--*who_silvia
+Je lui pardonne, mais je veux qu'on chante, qu'on danse, et puis après nous irons nous faire roi quelque part.
+
+
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+
+Que voulez-vous que je fasse, vous m'entretenez d'une chose qui m'ennuie, vous me parlez toujours d'amour.
+
+Oui, mais je ne sens rien, moi.
+
+Ce n'est pas ma faute, je sais bien que toutes nos bergères ont chacune un berger qui ne les quitte point ; elles me disent qu'elles aiment, qu'elles soupirent ; elles y trouvent leur plaisir. Pour moi, je suis bien malheureuse : depuis que vous dites que vous soupirez pour moi, j'ai fait ce que j'ai pu pour soupirer aussi, car j'aimerais autant qu'une autre à être bien aise ; s'il y avait quelque secret pour cela, tenez, je vous rendrais heureux tout d'un coup, car je suis naturellement bonne.
+
+Apparemment que ce secret-là ne vaut rien ; car je ne vous aime point encore, et j'en suis bien fâchée ; comment avez-vous fait pour m'aimer, vous ?
+
+Voyez quelle différence ; et moi, plus je vous vois et moins je vous aime. N'importe, allez, allez, cela viendra peut-être, mais ne me gênez point. Par exemple, à présent, je vous haïrais si vous restiez ici.
+
+Oh non ! On dit que c'est une faveur, et qu'il n'est pas honnête d'en faire, et cela est vrai, car je sais bien que les bergères se cachent de cela.
+
+Oui ; mais puisque c'est une faute, je ne veux point la faire qu'elle ne me donne du plaisir comme aux autres.
+
+Oui, oui.
+
+Que ce berger me déplaît avec son amour ! Toutes les fois qu'il me parle, je suis toute de méchante humeur.
+Mais qui est-ce qui vient là ? Ah mon Dieu le beau garçon !
+
+Je me retire, car je ne vous connais pas.
+
+Je le veux bien.
+
+Vous êtes bien obligeant.
+
+Vous êtes bien joli aussi, vous.
+
+Je demeure tout près ; mais il ne faut pas venir; il vaut mieux nous voir toujours ici, parce qu'il y a un berger qui m'aime ; il serait jaloux, et il nous suivrait.
+
+Oui.
+
+Non, je n'en ai jamais pu venir à bout.
+
+Oh ! De reste, je ne trouve rien de si aisé.
+
+Oh ! Je ne mens jamais, mais où demeurez-vous aussi ?
+
+Quoi ! Chez la Fée ?
+
+J'ai toujours eu du malheur.
+
+C'est que cette Fée est plus belle que moi, et j'ai peur que notre amitié ne tienne pas.
+
+Vous m'aimerez donc toujours ?
+
+Ce serait bien dommage de me tromper, car je suis si simple. Mais mes moutons s'écartent, on me gronderait s'il s'en perdait quelqu'un : il faut que je m'en aille. Quand reviendrez-vous ?
+
+Et moi aussi, mais que faire ? Serez-vous ici sur le soir ?
+
+Adieu donc.
+Voilà que je soupire, et je n'ai point eu de secret pour cela.
+
+Que voulez-vous, mon amant ?
+Ah ! C'est mon mouchoir, donnez.
+
+Je me lave quelquefois le visage, et je m'essuie avec.
+
+Partout, mais j'ai hâte, je ne vois plus mes moutons ; adieu, jusqu'à tantôt.
+
+Arrête-toi un moment, ma cousine ; je t'aurai bientôt conté mon histoire, et tu me donneras quelque avis. Tiens, j'étais ici quand il est venu ; dès qu'il s'est approché, le coeur m'a dit que je l'aimais ; cela est admirable ! Il s'est approché aussi, il m'a parlé ; sais-tu ce qu'il m'a dit ? Qu'il m'aimait aussi. J'étais plus contente que si on m'avait donné tous les moutons du hameau : vraiment je ne m'étonne pas si toutes nos bergères sont si aises d'aimer ; je voudrais n'avoir fait que cela depuis que je suis au monde, tant je le trouve charmant ; mais ce n'est pas tout, il doit revenir ici bientôt ; il m'a déjà baisé la main, et je vois bien qu'il voudra me la baiser encore. Donne-moi conseil, toi qui as eu tant d'amants ; dois-je le laisser faire ?
+
+Quoi, il n'y a point de moyen plus aisé que cela pour l'entretenir ?
+
+Eh ! comment s'en empêcher ? Je suis encore trop jeune pour pouvoir me gêner.
+
+Que je suis inquiète ! J'aimerais autant ne point aimer que d'être obligée d'être sévère ; cependant elle dit que cela entretient l'amour, voilà qui est étrange ; on devrait bien changer une manière si incommode ; ceux qui l'on inventée n'aimaient pas tant que moi.
+
+Voici mon amant ; que j'aurai de peine à me retenir !
+
+Oui, mon amant.
+
+Assez.
+
+Oh si fait, il n'en faut pas davantage.
+
+Ne me baisez pas la main au moins.
+
+Hélas ! Mon petit amant, ne pleurez pas.
+
+Eh ! Je vous l'ai donnée.
+
+Oh ! Ma cousine dira ce qu'elle voudra, mais je ne puis y tenir. Là, là, consolez-vous, mon amant, et baisez ma main puisque vous en avez envie ; baisez, mais écoutez, n'allez pas me demander combien je vous aime, car je vous en dirais toujours la moitié moins qu'il n'y en a. Cela n'empêchera pas que, dans le fond, je ne vous aime de tout mon coeur ; mais vous ne devez pas le savoir, parce que cela vous ôterait votre amitié, on me l'a dit.
+
+Cela se peut bien, car la mienne en va de mieux en mieux aussi ; mais n'importe, puisqu'on dit que cela ne vaut rien, faisons un marché de peur d'accident : toutes les fois que vous me demanderez si j'ai beaucoup d'amitié pour vous, je vous répondrai que je n'en ai guère, et cela ne sera pourtant pas vrai ; et quand vous voudrez me baiser la main, je ne le voudrai pas, et pourtant j'en aurai envie.
+
+Baisez, cela est juste.
+
+Eh ! quand cela nous fâchera tout de bon, ne sommes-nous pas les maîtres ?
+
+Oui.
+
+Pas beaucoup.
+
+Eh ! sans doute.
+
+Je ne le veux pas.
+
+Plus que vous ; mais je ne veux pas le dire.
+
+Vous badinez, mon amant ?
+
+Quoi ! C'est tout de bon ?
+
+Tenez donc.
+
+Je vois bien que vous m'avez attrapée, mais j'en profite aussi.
+
+Ah !
+
+Miséricorde !
+
+Ah ! La méchante femme, je tremble encore de peur. Hélas ! Peut-être qu'elle va tuer mon amant, elle ne lui pardonnera jamais de m'aimer, mais je sais bien comment je ferai ; je m'en vais assembler tous les bergers du hameau, et les mener chez elle : allons.
+Qu'est-ce que j'ai donc ? Je ne puis me remuer.
+Ah ! Cette magicienne m'a jeté un sortilège aux jambes.
+Ahi ! Ahi ! Messieurs, ayez pitié de moi, au secours, au secours !
+
+Je ne veux pas, je veux retourner au logis.
+
+Madame, est-ce que vous voulez toujours me retenir de force ici ? Si ce beau garçon m'aime, est-ce ma faute ? Il dit que je suis belle, dame, je ne puis pas m'empêcher de l'être.
+
+Hélas ! vous n'avez qu'à dire.
+
+Moi, lui dire que j'ai voulu me moquer de lui ? Cela est-il raisonnable ? Il se mettra à pleurer, et je me mettrai à pleurer aussi : vous savez bien que cela est immanquable.
+
+N'avez-vous pas de conscience de me demander une chose impossible ?
+
+La mort ! Ah ! Madame la Fée, vous n'avez qu'à le faire venir ; je m'en vais lui dire que je le hais, et je vous promets de ne point pleurer du tout ; je l'aime trop pour cela.
+
+Achevons vite de pleurer, afin que mon amant ne croie pas que je l'aime, le pauvre enfant, ce serait le tuer moi-même. Ah ! Maudite fée ! Mais essuyons mes yeux, le voilà qui vient.
+
+Eh bien ?
+
+À quoi sert tout cela ? On m'a fait venir ici pour vous parler ; j'ai hâte, qu'est-ce que vous voulez ?
+
+Oui, tout ce que j'ai fait, ce n'était que pour me donner du plaisir.
+
+Oui, encore une fois, tout cela est vrai.
+
+Le courage me manque.
+
+Qu'allez-vous donc faire ?
+
+Ah ! Il va se tuer; arrêtez-vous, mon amant ! J'ai été obligée de vous dire des menteries.
+Madame la Fée, pardonnez-moi en quelque endroit que vous soyez ici, vous voyez bien ce qui en est.
+
+Ah ! Voilà la Fée.
+
+Je prie le ciel qu'il vous récompense.
+
+Taisez-vous donc, mon ami, ne nous caressons pas à cette heure, afin de pouvoir nous caresser toujours : on vient, dites-moi bien des injures, pour avoir la baguette.
+
+Ah ! Ah ! Qu'il est drôle ! Adieu, adieu, je m'en vais épouser mon amant : une autre fois ne croyez pas tout ce qu'on vous dit, petit garçon.
+Madame, voulez-vous que je m'en aille ?
+
+Oh ! Mon amant, nous n'aurons plus d'envieux.
+
+Voilà encore ces vilains hommes qui me font peur.
+
+En voilà assez, mon ami.
+
+Bonjour, Madame, comment vous portez-vous ? Vous n'êtes donc plus si méchante ?
+
+Oh ! Qu'elle est en colère.
+
 Laissons-la, mon ami, soyons généreux : la compassion est une belle chose.
 
--*who_arlequin
-Je lui pardonne, mais je veux qu'on chante, qu'on danse, et puis après nous irons nous faire roi quelque part.

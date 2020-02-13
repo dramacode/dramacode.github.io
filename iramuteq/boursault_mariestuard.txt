@@ -1,109 +1,671 @@
 
 
-**** *book_ *id_dedicace *date_1691 *creator_boursault
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariestuard
 
-A MONSEIGNEUR LE DUC DE ST AIGNAN, PAIR DE FRANCE, Chevalier des Ordres du Roy, Premier Gentilhomme de la Chambre, Gouverneur et Lieutenant General pour sa Majesté de la Ville, Citadelle et Province du Havre.
+      Ah ! Duc que j'apprehende
+De vous rendre funeste une bonté si grande !
+Si la Reine en secret fait observer nos pas,
+En voulant me sauver ne vous perdez-vous pas ?
 
-MONSEIGNEUR,
+Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.
+ 
+Qui, moy, vostre ennemie ! Eh, Madame...
 
-Je ne sçay point imiter ces Ecrivains qui par d'ingenieux mensonges accablent de loüanges
+Songez-vous aux remors que vous vous preparez ?
 
-des Personnes qui ne les meritent pas.
-Je ne diray rien icy à vostre Gloire que /I a ij/ ce que la Verité a pris soin de m'en apprendre : mais les Vertus qu'on ne peut vous contester vaudront bien aux yeux de la Postérité celles qu'on invente pour les autres.
-Se fasse qui voudra des Heros de ces Favoris de la Fortune, qui élevez par son caprice ne manquent jamais de tomber par ses revolutions.
-Je sçay, MONSEIGNEUR, ce que Vous estes par le Sang dont Vous sortez : Comme il en est peu de plus illustre, il en est peu aussi qui soit dans une plus grande élevation ; mais dans quelque rang que Vous soyez, Vous n'en estes point redevable à la Fortune ; et s'il n'estoit attaché à vostre Naissance, l'Equité en auroit fait le prix de vostre Merite.
-La distinction dont Vous honore un Monarque, qui par ses Vertus se fait distinguer de tous les autres Rois de la Terre, dit bien mieux que je ne le pourrois faire quelles Qualitez Vous devez avoir pour la meriter : Il y a peu de personnes à sa Cour pour qui son Estime se soit plus hautement déclarée ; Et si elle peut s'acquérir par le Zele le plus pur qui ait jamais esté, & par la Fidélité la plus incorruptible qui sera jamais, il n'y en a point dans tous ses Estats à qui elle soit mieux deüe qu'à Vous.
-Toûjours infatigable pour le service de sa Majesté, vostre Vigilance Vous fait trouver par tout, & ne /II/ rencontre aucun obstacle qu'elle n'applanisse.
-Faut-il faire succeder les vertueux Plaisirs à ses Occupations héroiques, vostre Esprit, dont les lumières sont si étendües, ajoûte des beautez à ce que font de plus achevé les plus sçavans Maistres : Faut-il travailler pour sa Gloire, vostre Valeur ne peut souffrir que Vous Vous reposiez sur les Lauriers que Vous avez cueillis tant que Vous trouvez à en cueillir de nouveaux ; Et jamais homme n'a mieux justifié que Vous que le grand Génie & le grand Courage ne sont pas incompatibles.
-Que la Medisance & l'Envie examinent avec tant de severité qu'il leur plaira ce que je prens la liberté de dire de Vous, & qu'elles m'accusent de flaterie si elles l'osent.
-A quelque insolence que leur inclination les porte, il est des Veritez qu'elles sont contraintes de respecter ; & vostre Nom prononcé doit suffire pour leur imposer silence.
-C'est en vain, MONSEIGNEUR, qu'elles se sont déchainées avec tant d'impetuosité contre la Tragédie que je Vous presente : Les témoignages que Vous avez eu la bonté de rendre en sa faveur luy ont acquis une reputation à l'épreuve de leur traits les plus empoisonnez ; Et s'il m'est permis de rappeller le plaisir le plus sensible que j'aye eu de ma vie, les Larmes que Vous ne pûtes Vous /III a iij/ empêcher de répandre à la premiere lecture que j'en fis m'estoient d'illustres garens du succez qu'elle devoit avoir à la seconde.
-J'aurois assez de modestie pour ne pas Vous faire ressouvenir que Vous fustes témoin des applaudissemens que je receus, si le respect & la reconnoissance ne m'obligeoient à deffendre les suffrages de tant de Personnes de la plus haute Qualité, & du plus sublime Merite, qui ayant écouté mon Ouvrage sans prévention en dirent leur sentiment sans injustice.
-Il est vray,
+He bien, Duc, vos bontez augmentent mes malheurs.
+Quelle fatalité vous inspira l'envie
+De prodiguer vos jours pour conserver ma vie ?
+J'ay fait ce que j'ay pû pour vous en empêcher ;
+Et tout ce que j'ay fait ne vous a pû toucher.
 
-MONSEIGNEUR, que ce n'est pas d'aujourd'huy que les plus honnestes gens de l'Europe se sont declarez pour Marie Stuard contre l'Oppression & la Calomnie: ce n'est pas d'aujourd'huy qu'elle a esté persecutée par l'Erreur & par l'Ignorance : son sort est d'estre éternellement condamnée par des Juges corrompus, & de conserver éternellement sa gloire malgré les efforts qu'on a toûjours faits pour la détruire.
-Aprés tous les avantages que Vous luy avez procurez, la Générosité qui vous est si naturelle Vous sollicite à luy donner un Azile, plus sacré & plus inviolable que celuy qu'elle receut autrefois d'une Teste couronnée.
-L'Histoire remarque que la Reine Elizabeth en luy envoyant offrir une retraite dans ses Etats, luy fit presenter un Coeur de Diamant, qui fut moins une mar-/IV/-que de son amitié qu'un présage de la dureté du sien.
-Ce n'est point, MONSEIGNEUR, un Coeur de Diamant que Marie Stuard Vous demande : c'est ce Coeur sensible ; ce Coeur bienfaisant ; ce Coeur qui en captive tant d'autres par sa bonté, qu'elle veut s'efforcer de meriter par un respect aussi profond que celuy avec lequel je suis,
+Si le Ciel équitable à ma fuite s'oppose
+De son juste courroux je suis la seule cause :
+Innocente à vos yeux de meurtres, d'attentats,
+Il est d'autres forfaits dont je ne le suis pas .
+Pour vous, qui renoncez au rang le plus auguste
+Lors qu'il faut y monter par une voye injuste ;
+Vous, qui de la faveur si long-temps revétu
+N'eûtes pour ennemis que ceux de la vertu ;
+Qui de tous les bienfaits dispensateur fidele,
+Des Ministres d'Etat devinstes le modele ;
+Et laissâtes à tous l'exemple genereux
+De répandre les dons qu'ils retiennent pour eux :
+Vous, enfin, qui sans fraude ayant esté mon Juge
+Vouliez à l'innocence asseurer un refuge,
+Quel crime avez-vous fait pour souffrir le trépas ?
 
-MONSEIGNEUR,
+Moy des mépris ! Ah Duc, qu'un tel soupçon m'offence !
+Je puis manquer de tout, hors de reconnoissance.
+C'est moy qui vous expose aux mouvemens jaloux...
 
-Vostre tres-humble, tres-obeïssant, & tres-obligé Serviteur, BOURSAULT.
+O Ciel !
 
-**** *book_ *id_privilege *date_1691 *creator_boursault
+A quelque ignominie où l'on m'ait condamnée
+Je n'ay point oublié de quel sang je suis née :
+Pour en trouver la source en mes premiers Ayeux
+Il faudroit remonter jusqu'au temps des faux Dieux.
+Et le reste d'un Sang dont la source feconde
+A depuis deux mille ans donné des Rois au monde,
+Au rang le plus sublime a d'assez justes droits
+Pour devoir n'écouter que les soûpirs des Rois.
+Je ne m'attendois pas, pour surcroît de misere,
+Au surprenant aveu que vous venez de faire :
+Pour essuyer du sort les plus rigoureux coups
+Il ne me restoit plus qu'à me plaindre de vous.
+Si vostre coeur sensible au malheur qui m'opprime
+A pris en ma faveur des sentiments d'estime ;
+Si des attraits proscrits vous ont fait soûpirer ;
+Quel moment prenez-vous pour me le declarer !
+Si d'un feu qui me perd j'eusse esté mieux instruite
+Me serois-je avec vous exposée à la fuite ?
+Ce que la médisance osera publier
+Chez tous les Rois voisins va me calomnier.
+On dira que le Juge épris de la Coupable
+A l'objet de ses feux s'est montré favorable ;
+Et que dans un Arrest qu'un tel Juge a dicté
+L' Amour eut plus de part que n'en eut l'Equité.
+Ah Duc, qui dans mes maux avez veu ma constance,
+Quel indice⁎ cruel contre mon innocence !
+Quelque juste envers moy qu'ait esté vostre Arrest
+L'amour auprés d'un Juge est un grand interest.
+Que ne chassiez-vous, Duc, cet amour de vostre ame ?
+Que ne bannissiez-vous...
 
-Extrait du Privilege du Roy
+Puisse du juste Ciel la sagesse profonde
+Qui vous oste avant moy des miseres du monde ,
+Pour remplir mon attente, & mes voeux les plus doux,
+M'appeller à la mort un moment aprés vous.
 
-Par Lettres Patentes du Roy, données à Paris le deuxiéme jour de Decembre 1690.
-Signé BOUCHER, Il est permis au Sieur BOURSAULT, de faire imprimer par tel Libraire ou Imprimeur qu'il voudra choisir, une Piece de sa composition intitulée Marie Stuard Reine d'Ecosse,Tragedie, pendant le temps & espace de huit années, à compter du jour qu'elle sera achevée d'imprimer : Avec deffences à tous Libraires, Imprimeurs & autres, d'imprimer, faire imprimer, vendre ny debiter ladite Tragedie sous quelque pretexte que se soit, même d'impression étrangere sans le consentement dudit Exposant ou de ses ayant cause, à peine de confiscation des exemplaires contrefaits, de trois mille livres d'amende, & de tous dépens, dommages & interests, ainsi qu'il est plus au long porté par lesdites Lettres.
+Quand il faudra partir je n'ay rien qui m'arreste.
+Allez dire à vos Pairs que leur Victime est preste ,
+Et qu'à leur premier ordre ils seront obeïs ;
+Quoy que par mon trépas tous les droits soient trahis.
+Le Comte de Morray viendra-t-il ?
 
-Registré sur le Livre de la Communauté des Libraires & Imprimeurs de Paris, le 27.
-Mars 1691.
+Vostre zele, Melvin, est gravé dans mon ame.
+Vous avez de mon sort partagé le courroux,
+Et je vais au trépas sans rien faire pour vous.
+Je meurs, vous le sçavez, Femme, Sœur, Fille & Mere
+Des plus augustes Rois que l'Europe revere ;
+Et dans ce rang suprême il ne m'est pas resté
+Dequoy recompenser vostre fidelité.
+Victime d'un Arrest qu'a dicté l'injustice,
+L'état où je vous laisse augmente mon supplice :
+Aprés un sort si rude il m'eût esté bien doux
+De combler de bienfaits…Et quoy, vous pleurez tous !
+Témoins infortunez des malheurs de ma vie,
+En voyez-vous la fin avec un œil d'envie ?
+Dans un si long orage ay-je trop peu souffert ?
+Faut-il verser des pleurs quand un port m'est offert ?
+Si vous aimez ma gloire épargnez ma foiblesse,
+Et ne m'accablez point à force de tendresse.
 
-Signé, AUBOUYN.
+      Quelqu'un vient. Contraignez vos douleurs.
 
-Et ledit sieur Boursault a cedé au sieur J. Guignard le droit qu'il a au present Privilege, suivant l'accord fait entr'eux.
+Approche, ingrat Sujet, dont la haine m'accable,
+Viens me dire du moins dequoy je suis coupable.
+Apprens-moy quel outrage & quels maux je t'ay faits.
+Cruel, mon souvenir n'est plein que de bienfaits.
+Quoy que l'on doute encor de qui tu receus l'estre,
+Pour Enfant du feu Roy je t'ay fait reconnoistre ;
+Et sans approfondir si tu sors de son sang
+Je t'ay fait dans ma Cour tenir le premier rang.
+Tu ne fais que trop voir que tu n'es pas mon Frere
+Par les soins que tu prends à m'estre si contraire.
+Si le sang qui t'anime estoit le sang d'un Roy,
+Serois-tu sans honneur, sans tendresse, sans foy ?
+Elevé dans ma Cour, ta criminelle audace
+Entre le Trône & toy ne put souffrir d'espace :
+Pour m'en faire tomber par de sanglans effets⁎
+La mort de mon Epoux fut un de tes forfaits :
+Mais, ce qui de l'Enfer est le plus noir ouvrage,
+Tu me fis imputer ce qu'avoit fait ta rage ;
+Et par des trahisons, conduites avec art,
+J'expire pour un crime où je n'ay point de part.
+Tu sçais, toy qui l'as fait, que j'en suis innocente.
 
-Achevé d'imprimer le 20.
-Novembre 1691.
+Si ta Religion t'acquiert le privilege
+D'estre envers une Sœur perfide & sacrilege,
+La mienne, si contraire à celle où tu t'es mis,
+M'apprend à pardonner à tous mes ennemis.
+On me vient avertir qu'il faut quitter la vie.
+Separons-nous en paix, c'est moy qui t'en convie.
+Insensible aux affrons où l'on m'expose icy,
+Je pardonne à la Reine , & te pardonne aussi.
+Puisse mon sang versé par vos brigues⁎ secrettes
+Vous retirer bien-tost de l'erreur où vous estes !
+Si par le juste Ciel mes vœux sont écoutez
+J'en vais faire pour vous qui me persecutez.
+Adieu.
 
-**** *book_ *id_I01 *act_I *date_1691 *creator_boursault
 
--*who_le_comte_de_neucastel
-Euric, dans ce Palais ne m'accompagnez pas.
-Un Ordre exprés⁎ du Duc conduit icy mes pas.
-Son coeur brûle en secret d'une nouvelle flâme ;
-Ou quelque grand dessein doit roûler dans son ame.
-Pour me le confier il m'a mandé⁎ trois fois :
-Mais toûjours quelque obstacle a retenu sa voix.
-Quoy que l'Ambition ou l'Amour entreprenne
-Ce secret de son coeur n'échape qu'avec peine.
-Il me rappelle encor avec empressement ;
-Et je veux profiter de cet heureux moment.
-S'il me parle en ce lieu, quoy qu'il puisse m'apprendre,
-Le Comte de Morray peut aisément l'entendre :
-Dans l'endroit concerté⁎ j'ay déja pris le soin
-De conduire moy-même un fidele témoin.
-Pour le bien de l'Etat le Comte y devroit estre.
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
--*who_euric
-Seigneur, en ce moment il nous entend peut-estre.
-Je viens vous repeter les sermens qu'il a faits
-De porter⁎ vostre sort plus loin que vos souhaits.
-Si jusqu'à son hymen Elizabeth l'éleve,
-Si par la mort du Duc cette union s'acheve,
-Sans cesse de son Trône infatigable appuy
-Vous douterez qui regne ou de vous ou de luy.
+Auriez-vous jamais crû qu'insensible à mes graces,
+De tant de Conjurez il eût suivy les traces ?
+Luy que j'ay tant de fois comblé d'honneurs, de biens,
+Prodigue de ses jours, attente sur les miens !
+En quelque rang qu'il soit je luy feray connoistre
+Que je sçay de plus haut precipiter un Traistre ;
+Que jamais un Sujet qui viole sa foy
+Ne dérobe sa vie aux rigueurs de la loy ;
+Que plus à mes bontez il estoit redevable
+Plus son crime est énorme & ma haine équitable :
+Et qu'aprés l'injustice où l'Ingrat se resout,
+Ma tendresse irritée est capable de tout.
 
--*who_le_comte_de_neucastel
-Je me fie à sa foy⁎. Qu'il se fie à mon zele⁎.
-Vaincu par ses raisons⁎, je luy seray fidelle.
-Un serment solemnel, aprés de grands combats⁎,
-Vient de m'associer à tous ses attentats.
-Je vous l'ay déja dit, c'est avec violence
-Que j'embrasse le crime, & quitte l'innocence :
-Mais en vain ma vertu revolte⁎ ma raison ;
-Les remors desormais ne sont plus de saison.
-Le Duc dont la conduite est suspecte à la Reine,
-Se creuse un precipice où j'ay peur qu'il m'entraîne :
-Quoy que de ma fortune il ait esté l'appuy
-J'aime mieux l'y pousser qu'y tomber avec luy.
-Pour essay⁎ d'injustice, insensible à la gloire,
-Déja de cent bien faits j'ay perdu la memoire ;
-Et lors qu'on est ingrat, ne sçavez-vous pas bien
-Que les autres forfaits ne coutent presque rien ?
-Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire
-Allez prester l'oreille à ce qu'il va me dire.
+Ses amours ! Juste Ciel, que m'apprend-on encore ?
+Et pour qui ?
 
-**** *book_ *id_I02 *act_I *date_1691 *creator_boursault 
+      L'aime-t'il ?
 
--*who_le_duc_de_norfolc
+Il l'adore ! Qu'entens-je ?
+
+Quoy, pour mon Ennemie il a l'ame obsedée !
+Eh faut-il que si tard j'en sois persuadée⁎ !
+Depuis plus de six mois confus, sombre, interdit,
+Son infidele coeur m'en avoit assez dit :
+Mais le mien, trop facile à se laisser surprendre⁎,
+A ce langage obscur ne vouloit rien comprendre.
+Enfin, voyant l'Ingrat m'éviter tous les jours,
+De ma faveur pour luy j'interrompis le cours.
+Si d'un coup si cruel il eût senti l'atteinte,
+Il l'auroit recouvrée à sa premiere plainte.
+A ceux qui la briguoient ne pouvant l'accorder,
+Je luy laissois le temps de la redemander.
+Dans la crainte où j'estois de le trouver coupable
+Tout ce qui l'excusoit me sembloit veritable ;
+Et mon coeur de concert⁎ avec sa trahison
+Du party de mes sens avoit mis ma raison.
+A moins que cette nuit sa fureur me previenne
+Je jure que sa mort devancera la mienne ;
+Et que pour luy porter de plus sensibles coups
+Mes yeux se repaistront d'un spectacle si doux.
+J'auray plus de rigueur qu'il n'eut d'ingratitude.
+
+Et les Rois sçavent-ils quand on leur est fidele ?
+Environnez par tout de gens interessez
+Ils n'ont point de deffauts qui ne soient encensez :
+A tous leurs mouvemens une foule importune
+D'un pas precipité court aprés la fortune ;
+Et ceux qui devant eux se presentent le plus
+Le font moins pour les voir que pour en estre vûs.
+Si je choisis quelqu'un j'éprouveray⁎ peut-estre
+Qu'au lieu du plus zelé ce sera le plus traistre.
+De ce devoir, vous-même, acquittez-vous si bien
+Que de la part du Duc il ne m'arrive rien.
+Je vous en donne l'ordre, & ce soin vous regarde.
+Hola.
+
+      Euric, pour commander ma Garde
+Du Comte de Morray je viens de faire choix :
+Ayez soin cette nuit d'obeïr à sa voix.
+Je l'ordonne.
+
+Comte, pour cet Ingrat la mort aura des charmes,
+Des yeux qui l'ont seduit il obtiendra des larmes.
+Pour luy faire un destin qui soit plus rigoureux
+Ne donnons le trépas qu'à l'objet de ses feux.
+Ce sera pour ce Traistre une douleur mortelle
+D'adorer vostre Soeur & de vivre sans elle :
+Et ce qu'aura d'horrible un si funeste sort,
+Luy seul de ce qu'il aime aura hasté la mort.
+Ainsi, ma cruauté, sans permettre qu'il meure,
+Forcera le perfide à mourir à toute heure.
+Et je l'accableray par l'horreur de me voir
+Joüir de ma vengeance & de son desespoir .
+
+He bien, Lancastre, hé bien, tu vois ce qui se passe :
+Diroit-on que le Duc eût une ame si basse ?
+Parle sans me flatter ; je te fais le témoin
+Si mes bontez pour luy pouvoient aller plus loin.
+Je croyois sur son coeur ma puissance absoluë.
+Le Traistre !
+
+A quoy, Lancastre ? Apprens que plus j'eus de bonté,
+Plus je luy dois de haine & de severité.
+Je ne luy devois pas tant de marques d'estime,
+Qui sans doute en secret luy reprochent son crime ;
+Et plus de mes bienfaits il fut favorisé,
+Plus il est criminel d'en avoir abusé.
+Je sçay quelle justice à ses forfaits est deuë ;
+Je la luy rendray mieux qu'il ne me l'a renduë ;
+Et doublement coupable il me fera raison
+De son ingratitude & de sa trahison.
+
+Non, Lancastre, ma haine est deuë à son outrage.
+Il fait de ma tendresse un trop mauvais usage.
+Plus je luy fais de bien, plus je m'en fais haïr ;
+Et ce qu'il tient de moy luy sert à me trahir.
+Te representes-tu combien de fois le Traistre
+Que de mon lâche⁎ coeur j'avois rendu le maistre,
+S'est avec ma Rivale insolemment joüé
+De l'indiscret amour que j'avois avoüé ?
+Combien d'heureux momens, dont je leur tiendray compte,
+Ont-ils passé tous deux à joüir de ma honte⁎ ?
+Et tous deux de concert abusant de ma foy,
+Combien de fois le jour triomphoient-ils de moy ?
+Mais je merite assez le tourment qui me gesne :
+J'ay moy seule en ces lieux attiré cette Reine ;
+Chacun pour la sauver faisant des voeux secrets,
+Je la voulus moy-même observer de plus prés :
+Je la fis amener, seure d'en mieux répondre
+Plûtost dans ce Palais que dans la Tour de Londre ;
+Et c'est là que le Duc la voyant chaque jour,
+Pour ses yeux criminels a conceu tant d'amour.
+Prisonniere, c'est peu : coupable, condamnée,
+Qui croiroit que pour elle on m'eût abandonnée ?
+Et qui, Lancastre, & qui ? Tu le sçais, un Ingrat,
+Preferé par moy-même à plus d'un Potentat.
+
+      Arreste.
+Mes charmes ne font point de honteuse conqueste...
+S'il osoit me tenir les discours que tu tiens
+Je luy vendrois bien cher de pareils entretiens.
+Ton soupçon est injuste, & cela ne peut estre.
+Il sçait trop quel il est pour s'oser méconnoistre.
+
+Voicy le Duc. Euric, demeurez avec moy.
+Ma vie aux mains d'un Traistre est trop mal asseurée.
+
+L'interest de l'Etat m'impose cette loy.
+Je me dois toute à luy puis qu'il est tout à moy.
+Quelque soin que je prenne, il est toûjours des Traistres
+Qui suivent à grands pas leurs coupables Ancêtres.
+Vous qui ne craignez point qu'on vous manque de foy,
+Sans avoir mes raisons, vous veillez comme moy.
+Avez-vous eu du Ciel un plus grand privilege ?
+
+      C'est assez, Duc. Vostre zele est si grand
+Qu'on ne peut resister à ce qu'il entreprend.
+Je viens de reconnoistre à ce conseil sincere
+Que malgré mes soupçons je vous suis toûjours chere :
+Et que je ne pouvois pour mon propre bon-heur
+En de plus dignes mains déposer ma faveur.
+Je vous la rends. Demain, pour joüir de ma grace
+Reprenez au Conseil la principale place.
+Je vous fais aprés moy le premier en tout lieu.
+Meritez mes bienfaits par vostre zele. Adieu.
+Le Perfide est contraint, ma presence le gesne⁎.
+
+Quel desordre, si tard, ose-t-on faire icy ?
+C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !
+
+      Ah le Traistre !
+Enfin, Ingrat, enfin, tu t'es donc fait connoistre ?
+A démentir mes yeux ose appliquer tes soins.
+Ce sont, pour ton malheur, de fideles témoins.
+Ils ont veu ton faux zele ; & combien ma presence
+Coûtoit d'inquietude à ton impatience :
+Ces yeux qui pour les tiens n'ont jamais eu d'appas,
+Ont veu ta perfidie, & verront ton trépas.
+Je t'avois averty que je sçavois des Traistres
+Qui suivoient à grands pas leurs coupables Ancêtres :
+Et c'en estoit assez pour te faire sentir
+Que je voulois ta mort moins que ton repentir.
+Gardes, sans balancer, entraînez ce Perfide.
+Il faut que de son sort ma vengeance decide.
+
+Qu'on les mette tous deux en des lieux separez.
+Ces coupables Amans trouveroient trop de charmes
+A pouvoir l'un de l'autre adoucir les alarmes :
+Jusqu'au moment fatal où l'on doit les punir
+Laissons au desespoir à les entretenir.
+Vous, dont le zele ardent vient icy de paroistre,
+Qui pour m'estre fidele avez trahy ce Traistre,
+Ayez soin d'assembler demain à mon réveil
+Les Pairs accoûtumez à tenir mon Conseil.
+
+A-t-on donné mon Ordre ? Amene-t-on le Traistre ?
+
+Et les Comtes ?
+
+Pour immoler le Duc je veux m'asseurer d'eux.
+Ils ont pour ce Perfide une haine mortelle .
+
+Comtes, depuis long-temps je connois vostre zele.
+Vos voeux les plus ardents vont au bien de l'Etat ;
+Et d'un ingrat Sujet vous sçavez l'attentat.
+Contente de vos soins, & Princesse équitable,
+Je vous fais tous deux Pairs, & Juges du Coupable.
+Il vient. Souvenez-vous que ce Billet fatal
+L'accuse, le convainc⁎ d'un crime capital :
+Et que Traistre, une fois, il est de la justice
+D'empêcher desormais que l'Ingrat me trahisse.
+Allez.
+
+      Approchez, Duc. Si le Ciel l'eût permis
+Vous alliez contre nous servir nos Ennemis.
+Si le Duc de Norfolc nous declaroit la guerre,
+Contre un Heros si grand que feroit l'Angleterre ?
+Qui prendroit son party dans un pareil malheur,
+La voyant attaquée avec tant de valeur ?
+Le Ciel, qui des Etats prend toûjours la conduite,
+A veu trop de peril à souffrir vostre fuite.
+Il a mis un obstacle avec juste raison...
+
+Et qu'as-tu fait, Ingrat, qu'un autre n'eût pû faire ?
+Quel autre encor plus loin n'eût porté ses exploits
+Si je l'eusse honoré de tes mêmes Emplois ?
+Ne me reproche point quelque foible Victoire
+Dont je faisois du bruit pour te combler de gloire,
+Tant je goûtois de joye à trouver un moyen
+De t'acquerir un nom qui fut digne du mien.
+Tout autre que toy, lâche, auroit plus fait, peut-estre ;
+Et n'auroit pas acquis l'infame nom de Traistre.
+
+Et quand d'une Princesse odieuse, coupable,
+Je te nommay le Juge, & te crûs équitable,
+Séduit par le pouvoir de ses honteux appas ;
+Pour luy sauver le jour ne me trahis-tu pas ?
+Les Pairs qui depuis toy l'ont mieux examinée ;
+D'une commune voix l'ont d'abord condamnée.
+En donnant cet Arrest n'ont-ils pas consulté...
+
+Va, tu noircis en vain des Juges équitables.
+Jamais de perfidie ils n'ont esté coupables.
+Animez d'un pur zele ils periroient pour moy
+Si j'avois fait pour eux ce que j'ay fait pour toy.
+Est-il quelque grandeur que je t'aye interdite ?
+Jusques dans tes deffauts je trouvois du merite.
+Si le Trône à tes yeux eût offert des appas
+Pour t'y faire monter je te tendois les bras.
+Mon coeur que tu charmois, avide de te plaire,
+Te montroit le chemin qui te restoit à faire.
+Je t'aimay : Je fis plus, je t'en fis un aveu
+Qui me coûta beaucoup, & qui te toucha peu.
+Voy maintenant, voy, lâche, où tu te precipites :
+Voy quel estoit ton choix, & voy ce tu quittes :
+Envisage de prés, pour t'accabler d'ennuis,
+L'Echaffaut qui t'attend & le Trône où je suis.
+Quelle indigne Beauté vient de te rendre traistre !
+Proscrite, abandonnée...
+
+Laisse-là mon devoir & songe au tien, Perfide :
+Ton trépas...
+
+Du plus énorme crime avoir esté capable
+C'est donc envers l'Etat ne pas estre coupable ?
+Et de mon coeur tranquile avoir troublé la paix,
+Ce n'est pas à ton gré le plus noir des forfaits ?
+De ton sang odieux tu me vois plus avide
+Que tu ne fus Ingrat, que tu ne fus Perfide ;
+Deux fois digne de mort que n'est-il à mon choix
+De te faire à mes yeux mourir autant de fois !
+Au moins ma volonté, qu'il faut qu'on accomplisse,
+Est que pour chaque crime on invente un suplice ;
+Et que par des tourmens dont tu n'expires pas
+Tu sentes à loisir les horreurs du trépas.
+
+C'est tout ce qu'à ta foy je puis reprocher, Traître !
+Voy cette Lettre, voy. Peux-tu la meconnoistre?
+Sauvez le sang de tant de Rois
+Que s'appreste à répandre une main odieuse :
+Pour s'immortaliser on ne peut faire choix
+D'une action plus glorieuse.
+Resolus de prester la main
+A vostre genereux dessein,
+De nos meilleurs Vaisseaux la mer sera couverte :
+Et s'il faut dans la suite un plus puissant secours,
+Nous finirons la paix, & ferons guerre ouverte,
+Pour asseurer de si beaux jours .
+Tu pâlis, malheureux, & ton crime t'allarme
+Cette coupable Lettre est du Prince de Parme.
+Ridolf, ce Confident par toy-même choisi,
+Arresté de ma part s'en est trouvé saisi.
+Que peux-tu m'opposer pour détruire ce crime ?
+
+      Les Pairs l'examineront mieux :
+Ils doivent s'assembler dans la Salle prochaine.
+Comme ta trahison ma vangeance est certaine.
+Pour en joüir plûtost je veux dés ce moment
+Exposer ma Rivale au plus cruel tourment.
+Hola ? Faites venir la Reine prisonniere.
+Ma joye en t'accablant ne seroit pas entiere
+Si le même courroux qui termine ton sort
+Luy laissoit ignorer ma vangeance & ta mort.
+C'est un plaisir pour moy qu'aucun autre n'égale
+De trouver cette voye à punir ma Rivale ;
+Et puis qu'on ne peut rompre un si honteux lien,
+De te percer le coeur pour mieux trouver le sien.
+Je sçay que ton malheur luy va coûter des larmes ;
+Que c'est à ton amour offrir de nouveaux charmes ;
+Mais de ma cruauté ce sont les derniers traits :
+Plus tu seras sensible à ce qu'elle a d'attraits,
+Plus au gré de mes voeux la mort qui t'en separe
+A ton coeur attendry va paroistre barbare.
+Voicy cette Beauté si digne de ton choix :
+Montre-luy ton amour pour la derniere fois.
+Gardes, laissez-les seuls ; & maistres de la porte,
+Empêchez seulement qu'aucun n'entre ou ne sorte.
+Il y va de vos jours à répondre des leurs .
+
+Ne vous opposez pas au penchant qui m'entraîne,
+Comtes. Quelque fierté que m'inspire mon sang
+Le repos de mon coeur m'est plus cher que mon rang.
+Pour éteindre une ardeur que j'ay laissé trop croître,
+A de nouveaux mépris je veux forcer un Traistre.
+Faites venir le Duc, Gardes.
+
+      Obeïssez, ou craignez mon courroux.
+
+      S'il l'obtient, vous sçaurez à quel prix,
+Et peut-estre tous deux en serez-vous surpris.
+Jamais contre l'ingrat je ne fus plus émeuë.
+Je demande à le voir, & j'abhorre sa veuë.
+Tantôt à ma douleur ne pouvant resister
+De son coupable amour je cherchois à douter :
+Je l'ay joint à l'objet pour qui son coeur soûpire,
+Dans l'espoir que la mort l'alloit faire dédire ;
+Ou que dans un Palais plein d'un nom redouté,
+L'Infidelle, du moins, craindroit d'estre écouté.
+Mais, méprisant la mort, & bravant ma puissance,
+Rien n'a pû le contraindre à garder le silence.
+De l'air tendre & touchant dont il s'est exprimé ,
+Jamais de plus d'amour on ne fut enflâmé.
+L'Ingrat, qui me prefere une indigne Rivale,
+Trouvoit-il dans ses fers une fortune égale ?
+Elle le fait mourir : & je l'aurois fait Roy,
+Si ce qu'il sent pour elle il l'eût senty pour moy.
+Le voicy . Demeurez. Quoy que son air menace,
+Je veux de ce Perfide humilier l'audace :
+Et pour peu qu'il s'échape à braver mon courroux,
+Pour me vanger de luy j'auray besoin de vous.
+
+Un reste de bonté dont s'indigne mon ame,
+Me fait faire des pas⁎ que j'ay peur qu'on ne blâme.
+Ceux que noircit le crime, & qu'ont proscrit les loix
+Soüillent de leur aspect la Majesté des Rois.
+Je passe en ta faveur pardessus ces maximes,
+Quelque horreur que pour toy m'ayent inspiré tes crimes :
+Et pour recompenser d'assez foibles Exploits
+Je veux fermer les yeux sur ce que je me dois.
+Conçois-tu, malheureux, une infamie égale
+A l'ardeur criminelle où ton coeur se ravale ?
+Comblé par mes bontez & de gloire & de biens
+Pouvois-tu te choisir de plus honteux liens ?
+Depuis deux mois entiers que des loix legitimes
+Dans la Reine d'Ecosse ont puny tant de crimes,
+Qu'offroit-elle à tes yeux que d'indignes attraits ?
+Le jour qu'elle respire est un de mes bienfaits.
+J'ay pû deux mois plûtost trancher sa destinée ;
+Et tu n'ignores pas qu'elle estoit condamnée.
+
+D'avoir fait lâchement massacrer son Epoux.
+D'avoir dans mes Etats, où tout estoit tranquile,
+Attenté sur mes jours, violé son azile,
+Attiré l'Etranger, corrompu mes Sujets.
+Voila quelle est ma plainte, & quels sont ses forfaits.
+
+C'est un desesperé qui ne sçait où se prendre.
+Pour se vanger de vous, qui l'avez condamné,
+Il voudroit avec luy vous avoir entraîné.
+Effrayé du peril que son crime luy montre
+Il s'attache en coupable à tout ce qu'il rencontre ;
+Et loin que le Perfide implore ma pitié
+Il croit par un mensonge estre justifié.
+
+Je les veux suivre, Traistre, & mépriser les tiens.
+Si je prends leur conseil, j'en connois la justice.
+Ils m'animent⁎ tous deux à haster ton supplice :
+Leur zele impatient en presse l'appareil ;
+Et je n'hesite point à suivre ce conseil.
+Va, lâche, va perir par une main infame :
+Va prouver ta constance à l'objet qui t'enflâme ;
+Et te precipitant du degré le plus haut,
+Va de ton sang impur rougir un Echaffaut.
+Ce sang qu'en divers temps ont noircy tant de crimes,
+Ce sang toûjours rebelle à ses Rois legitimes,
+S'est veu pour ses forfaits par l'acier d'un Bourreau
+Privé plus d'une fois des honneurs du Tombeau
+Tu serois le premier de ta race odieuse
+Qu'eût rendu memorable une mort glorieuse :
+Ton Pere & ton Ayeul, dont tu sçais le destin,
+De la honte où tu cours t'ont frayé le chemin :
+C'est sur un Echaffaut qu'ils ont cessé de vîvre ;
+Tu degenererois en manquant à les suivre ;
+Et le remors vangeur qui suit la trahison
+Fut toûjours insensible à ceux de ta Maison.
+
+      Oüy, Traistre : Et tu ne peux jamais
+Faire aller plus avant ma haine & tes forfaits.
+Je ne sçay rien en moy susceptible d'outrage
+Qui de ton lâche coeur n'ait éprouvé la rage.
+Quand j'aurois oublié tes autres attentats,
+Ta derniere insolence est digne du trépas :
+Mais, Perfide, ta Reine est assez magnanime
+Pour porter sa clemence aussi loin que ton crime :
+T'en laisser malgré toy le honteux souvenir
+C'est le tourment affreux dont je veux te punir.
+Ma bonté fatiguée autant qu'elle doit l'estre,
+Pour la derniere fois va parler, va paroistre ;
+Si tu peux concevoir quel effort je me fais
+Par un effort pareil merite mes bienfaits.
+Prest à voir par ta mort ma vengeance assouvie,
+Veux-tu ta grace ?
+
+Et qui me répondra que tu me sois fidelle ?
+Pour me justifier que ton zele soit gran
+Une foy violée est un mauvais garent.
+C'est par un grand effort qu'un grand crime s'efface ;
+Et j'en veux un de toy qui merite ta grace ;
+Je ne te la promets qu'à ce prix.
+ 
+Les Pairs, dont l'Equité s'est acquis tant d'estime,
+Eux, qui dans aucun rang n'autorisent le crime,
+Pour rendre à l'Angleterre un plus tranquile sort
+De la Reine d'Ecosse ont tous signé la mort.
+Ton nom manque à l'Arrest qu'on a donné contr'elle :
+Et je ne croiray point que tu me sois fidelle
+Qu'en qualité de Pair, zelé pour mes Etats,
+Tu ne signes comme eux l'Arrest de son trépas.
+Un refus échapé⁎ rend ta perte certaine.
+Reponds, sans balancer.
+
+      Ah Ciel ! l'Ingrat n'hesite pas !
+Ma Rivale à la mort va devancer tes pas,
+Traistre. Dés ce moment pour contenter ma haine
+Allez y preparer cette coupable Reine.
+Tant que ma lâcheté luy laissera le jour
+L'Ingrat qu'elle a charmé gardera son amour.
+Dût sa Teste en tombant armer toute la terre
+Pour venir à grands pas fondre sur l'Angleterre,
+Comte de Neucastel, ne me revoyez pas
+Que vous n'ayez esté témoin de son trépas.
+
+Comte, j'allois vous voir. Malgré toute ma haine
+Je ne puis resister au remors qui me gêne⁎.
+En vain ma politique en veut rompre le cours :
+Quelque effort que je fasse il me revient toûjours.
+Je croy de toutes parts entendre le tonnerre ;
+Je croy voir contre moy tous les Rois de la terre ;
+De qui la Majesté, violée à mes yeux,
+Rendroit mon Nom infame, & mon Regne odieux.
+Quoy qu'ait fait vostre Sœur je luy donne sa grace.
+
+Et peut-on approuver l'implacable fureur
+Qui vous fait avec joye immoler vostre Sœur ?
+Est-ce l'injuste espoir de regner aprés elle
+Qui vous rend Frere ingrat, & Sujet infidele ?
+Quand j'impose silence à mon juste courroux
+Si je suis à blâmer, devroit-ce estre par vous ?
+
+Comte, je me suis dit tout ce que vous me dites.
+Si ma main secourable ose briser ses fers
+Sa haine pour me perdre armera l'Univers :
+Mais pour vanger sa mort, honteuse aux Diadêmes,
+Tous les Rois offencez m'accableront eux-mêmes ;
+Et pour le bien commun oubliant leurs debats⁎
+Viendront d'intelligence envahir mes Etats.
+
+Vos dernieres raisons ont dissipé ma crainte.
+Qu'elle meure. Et pouquoy me ferois-je un effort
+Pour conserver la vie à qui cherche ma mort ?
+Qu'elle meure. Le Duc, qui me fut si fidele,
+Si je luy rends le jour me rendra tout son zele.
+
+      Tout coupable qu'il est,
+Il est assez puny de sçavoir son Arrest :
+Et s'il faut m'expliquer, quoy qu'ait fait son audace,
+Ce qu'a fait sa valeur sollicite sa grace.
+Un pardon genereux me l'acquiert pour jamais.
+
+Insolent ! Vous sçauriez jusqu'où va mon courroux
+Si je pouvois sans honte éclater contre vous.
+Si je laisse impuni l'affront que vous me faites,
+Comte, remerciez la bassesse où vous estes :
+L'intervale est plus grand, quoy qu'il manque de foy,
+Entre vous & le Duc, qu'entre le Duc & moy.
+Pour joindre à ce mépris de plus sensibles peines,
+D'un Criminel si cher allez rompre les chaines :
+Je luy cause des maux où je prends trop de part.
+Portez-luy le pardon…
+
+      Il est mort ! Ah, perfide, qu'entens-je !
+
+      Hay !
+Ah Traistre ! Dans mon cœur tu sçais ce qui se passe.
+A la Reine d'Ecosse allez porter sa grace,
+Lancastre. Ce Perfide, ennemy de sa Sœur,
+M'a peut-estre engagée à servir sa fureur.
+Qu'on la ramene. Et toy je veux que tu perisses.
+
+Quel sujet vous anime à tenir ce discours ?
+
+Vous, ô Ciel !
+
+Hola, Gardes.
+
+      Asseurez-vous de luy.
+Traistre, qui de mon Trône as fait tomber l'appuy,
+Ton sang, pour le vanger, répandu goute à goute…
+
+      Qu'on le suive, & que l'on m'en réponde.
+
+He bien, sens-tu, méchant, que ton cœur te confonde ?
+Te sens-tu dans le crime assez bien affermy,
+Monstre, que dans ces lieux les Enfers ont vomy ?
+De tes lâches projets la fortune se jouë.
+
+Faites tous vos efforts pour tromper⁎ ses projets.
+Il est trop peu puny pour de si grands forfaits.
+Il merite, le Traistre, une plus longue peine.
+
+      Juste Ciel ! quelle suite de crimes !
+Que la haine & l'amour ont d'injustes maximes⁎ !
+Et qu'un cœur déreglé, qui suit leurs mouvemens
+Se condamne soy-même à de cruels tourmens !
+Heros trop malheureux ! trop malheureuse Reine !
+Victimes tout ensemble & d'amour & de haine,
+Ne me reprochez point vostre injuste trépas :
+Vous goûtez un repos dont je ne joüis pas.
+
+
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorfolc
+
 Comte.
 
--*who_le_comte_de_neucastel
-      Seigneur ?
-
--*who_le_duc_de_norfolc
       De grace employez tous vos soins
 A voir si dans ce lieu nous sommes sans témoins.
 Haï d'Elizabeth, je ne fais point de doute
@@ -115,10 +677,6 @@ Jusqu'icy tout mon crime est de n'avoir pû l'estre ;
 Mais puis que de mon zele⁎ on s'ose défier
 Il faut l'estre une fois pour me justifier.
 
--*who_le_comte_de_neucastel
-Seigneur, nous sommes seuls. Tout paroist favorable...
-
--*who_le_duc_de_norfolc
 D'un effort genereux vous sentez-vous capable ?
 Avant que de répondre interrogez-vous bien,
 Et si vous hesitez ne me promettez rien.
@@ -128,28 +686,8 @@ Et pour tout privilege, en un degré⁎ si haut,
 Je vous traîne avec moy sur un même Echaffaut.
 Un coeur tel que le mien n'a point l'art de surprendre.
 
--*who_le_comte_de_neucastel
-Seigneur, me voila prest. Que faut-il entreprendre ?
-Quel que soit le péril où je dois m'exposer
-Mon zele, & vos bienfaits me le font mépriser.
-Que le sort à son gré vous flate ou vous outrage,
-Je n'oubliray jamais que je suis vostre ouvrage ;
-Et que par vos bontez je me voy dans un rang
-Digne d'un plus grand homme, & d'un plus noble sang.
-Je n'examine point quelle main vous opprime :
-Pour deffendre vos droits je croy tout legitime :
-Rien ne m'est plus sacré que ce que je vous doy ;
-Et la reconnoissance est ma premiere loy.
-Ainsi que vos bontez mon zele est sans limites.
-
--*who_le_duc_de_norfolc
 Puis-je me reposer sur ce que vous me dites ?
 
--*who_le_comte_de_neucastel
-Oüy, Seigneur : Et bien-tost par mes soins empressez
-Vous connoistrez vous-même à quel point...
-
--*who_le_duc_de_norfolc
       C'est assez.
 Comte de Neucastel, je vous ouvre mon ame.
 Je suis las d'obeïr aux ordres d'une femme.
@@ -162,23 +700,6 @@ Pour le prix de son zele elle eut soif de son sang ;
 Et d'un si ferme appuy priva son Diadême,
 Si tost que sur sa teste il l'eut posé luy-même.
 
--*who_le_comte_de_neucastel
-Seigneur, des maux passez perdons le souvenir ;
-Il en est de presens, & qu'il faut prevenir⁎.
-Depuis combien de temps une Reine innocente
-Dans les fers, dans l'opprobre est-elle gemissante ?
-Verrons-nous sans horreur un ouvrage⁎ si beau
-Achever ses destins par la main d'un Bourreau ?
-La fiere Elisabeth, Princesse illegitime,
-Qui n'eût point veu le jour sans le secours d'un crime,
-Peut-elle assujetir la Majesté des Rois
-A l'indigne rigueur de ses injustes loix ?
-Que dira l'Avenir d'une audace si grande ?
-Donnons à la Vertu l'appuy qu'elle demande.
-Des maux dont on l'accable interrompons le cours.
-C'est de nostre valeur qu'elle attend du secours.
-
--*who_le_duc_de_norfolc
 J'aurois moins tardé, Comte, à luy montrer mon zele
 Si j'avois crû trouver un Amy si fidelle :
 Mais dans une occurrence⁎ où tout doit m'effrayer,
@@ -188,26 +709,6 @@ Il n'est point là d'amy qui n'ait plus d'un visage :
 Tel qui m'offroit son sang me refuse son bras ;
 Et mes plus grands bienfaits n'ont fait que des ingrats.
 
--*who_le_comte_de_neucastel
-Suivons les mouvemens⁎ que le Ciel nous inspire.
-D'une Reine odieuse il veut finir l'Empire.
-Injuste aux Etrangers, cruelle à ses Sujets,
-Elle est d'intelligence⁎ à remplir nos projets :
-Et pour nous dérober au joug qui nous opprime
-S'il faut que malgré nous il nous échape un crime,
-De quoy que nostre esprit puisse estre combattu,
-C'est un crime forcé qu'approuve la Vertu.
-S'il vous manque, Seigneur, un bras pour le commettre,
-Pour le bien de l'Etat je puis tout me permettre ;
-Ne laissez point languir mon zele impatient.
-L'esprit d'Elizabeth, inquiet, défiant,
-Tend des pieges secrets que jamais on n'évite
-A moins qu'on n'entreprenne aussi-tost qu'on médite⁎ .
-En de plus dignes mains transmettons son pouvoir,
-Avant qu'elle ait le temps de s'en apercevoir.
-Enfin prescrivez-moy ce qu'il faut que je fasse.
-
--*who_le_duc_de_norfolc
 Non, non, je ne veux point meriter ma disgrace.
 Les plus heureux forfaits ne sçauroient me tenter.
 Si de vostre secours j'ose icy me flatter,
@@ -224,22 +725,8 @@ Que je n'ose à ses yeux étaler mon audace ;
 Et n'estoit le secours que j'attends de vos soins
 Jamais un feu si pur n'auroit eu de témoins.
 
--*who_le_comte_de_neucastel
-Vous ne pouviez, Seigneur, dans un sein plus fidèle
-Deposer le secret d'une flâme si belle.
-Tout mon sang répandu pour vous prouver ma foy
-Ne m'acquiteroit pas de ce que je vous doy.
-Offrez-moy le moyen de vous faire paroistre…
-
--*who_le_duc_de_norfolc
 Gouverneur des Cinq-ports, vous en estes le maître.
 
--*who_le_comte_de_neucastel
-Oüy, Seigneur, je le suis ; Et c'est par vostre choix
-Que la Mer Britânique obéït à mes loix.
-Que puis-je ? Commandez. Et quoy que je hazarde...
-
--*who_le_duc_de_norfolc
 De l'Illustre Stuard j'ay corrompu la Garde.
 Et seur du prompt secours que vous m'avez offert
 J'attends que pour sa fuite un Port me soit ouvert.
@@ -249,19 +736,6 @@ Avec tant de bonté, tant d'ardeur, tant de foy,
 Mes déplorables jours vous sont plus chers qu'à moy.
 Je ne les risque point quand je vous les confie.
 
--*who_le_comte_de_neucastel
-Je ne puis condamner une si noble envie :
-Mais de ce grand dessein l'évenement⁎ douteux⁎
-Expose vostre teste au sort le plus honteux.
-Souvent de tels projets ont des suites cruelles ;
-Des Soldats corrompus sont rarement fideles ;
-Et vous n'ignorez pas, Seigneur, que sur ce point
-La Reine est inflexible & ne pardonne point.
-A la Cour, où la foy⁎ n'ose presque paroistre,
-L'espoir de s'agrandir⁎ fait aisément un traitre.
-Si vous estes surpris vous vous perdez.
-
--*who_le_duc_de_norfolc
       Helas!
 Tout est perdu pour moy si je ne me perds pas.
 Des Juges dévoüez, sans honneur, sans naissance,
@@ -271,14 +745,6 @@ Dans ses cruelles mains tient l'Arrest de sa mort.
 Dés demain la clarté luy peut estre ravie :
 Le temps presse. Un moment decide de sa vie.
 
--*who_le_comte_de_neucastel
-Seigneur, à ces raisons⁎ je n'ose m'opposer :
-La grandeur du peril les doit autoriser.
-Pour dérober sa vie au sort qui la menace
-Dites-moy quel effort vous voulez que je fasse.
-Encor un coup, Seigneur, je suis prest...
-
--*who_le_duc_de_norfolc
       Qu'il m'est doux
 D'avoir dans mon malheur un amy tel que vous !
 Comte, puis que pour moy vostre ardeur est si grande,
@@ -308,466 +774,12 @@ A son ambition il immole sa sœur.
 Le criminel amour dont il a receu l'estre
 Le condamne...
 
--*who_le_comte_de_neucastel
-      Seigneur, je croy le voir paroistre :
-Laissez-moy de son coeur penetrer les secrets.
-Pour remplir vos desirs je vous suivray de prés.
-
-**** *book_ *id_I03 *act_I *date_1691 *creator_boursault 
-
--*who_le_comte_de_neucastel
-He bien, Seigneur...
-
--*who_le_comte_de_morray
-      Souffrez que mon coeur se déploye,
-Et que j'étale icy la grandeur de ma joye.
-Rien ne s'oppose plus au succez de mes feux :
-Mon plus grand Ennemy met le comble à mes vœux.
-A l'Hymen où j'aspire une voye est ouverte :
-Et mon Rival luy-même aide à hâter sa perte.
-Un sincere temoin de tout ce qu'il a dit
-En va faire à la Reine un fidele recit.
-Nous triomphons.
-
--*who_le_comte_de_neucastel
-      Seigneur, j'ay toûjours même zele :
-Mais prestez de la force à mon coeur qui chancelle ;
-Et puisque le silence est encor à mon choix,
-Laissez-moy vous parler pour la derniere fois.
-J'entreprens une route où j'ay peu d'habitude :
-J'y marcheray, Seigneur, avec incertitude.
-Au milieu du chemin que vous m'avez tracé
-Je puis me repentir de l'avoir commencé.
-Quand je songe à l'horreur qui suit le nom de Traistre,
-Des retours de vertu me font craindre de l'estre.
-Quoy que par vos conseils vous m'ayez inspiré
-J'ay peur d'avoir promis plus que je ne feray.
-Mon ame chancelante, incertaine, confuse,
-Tantost s'offre à la honte, & tantost s'y refuse ;
-Et je voy trop de risque à vous y confier
-Si je n'ay vostre appuy pour me fortifier.
-Avez-vous vers le crime un penchant si rapide
-Que rien ne vous arreste, ou ne vous intimide ?
-Vostre Soeur immolée il ne sera plus temps
-D'honorer sa vertu de regrets impuissans.
-Quoy que de sa rigueur Elisabeth l'accable,
-Nous sçavons, vous & moy, qu'elle n'est point coupable ;
-Et si quelque tendresse excitoit vos remors
-Jugez en quel peril je me verrois alors.
-Il faudroit que mon sang...
-
--*who_le_comte_de_morray
-      Moy des remors ! moy, Comte !
-D'un soupçon qui m'outrage épargnez-moy la honte.
-Quelle peur vous allarme ? Et par quel sort fatal
-Ay-je pû meriter qu'on me traite si mal ?
-Depuis qu'à mes desseins j'ay veu le crime utile
-J'ay secoüé le joug de la vertu sterile.
-Pour acquerir un Trône il n'est point de forfaits
-Qui ne changent de nom, quand ils ont du succez.
-Tant qu'un lâche devoir a reglé ma conduite
-En quel rang ma fortune a-t-elle esté réduite ?
-Et lors que sans effroy je m'en suis écarté
-A quel degré d'honneur suis-je d'abord monté ?
-Pour m'exclure à jamais de la Toute-puissance,
-Ma Soeur m'oppose en vain les droits de sa naissance.
-L' Angleterre exceptée en tous les autres lieux
-Le regne d'une femme est un regne odieux :
-La plus ferme Couronne un moment sur sa teste
-Dans l'Estat le plus calme excite une tempeste :
-Un Sceptre ne sied bien que dans la main des Rois ;
-Et le Trône chancelle à moins qu'il n'ait son poids.
-
--*who_le_comte_de_neucastel
-Seigneur, d'Elle & de Vous la naissance inégale
-Decide en sa faveur de la grandeur Royale :
-Et si j'ose, entre-nous, vous le dire tout bas
-La vostre a des deffauts que la sienne n'a pas.
-
--*who_le_comte_de_morray
-Et quels deffauts ? Allez, ce n'est qu'une manie⁎.
-Il y manque, il est vray, quelque ceremonie ;
-Mais un Roy m'a fait naistre ; & pour l'estre aujourd'huy
-Il suffit que je sois, & que je sois de luy.
-De quelque doux espoir dont ma Soeur s'entretienne
-S'il épousa sa mere, il adoroit la mienne ;
-Et par l'ordre du Ciel il nous donna le jour
-A l'une par devoir, à l'autre par amour.
-
--*who_le_comte_de_neucastel
-Il est vray : Mais, Seigneur, par une loy severe
-Aucun de vos pareils ne succede à son pere.
-Et d'ailleurs, le feu Roy, quoy qu'on ait entrepris,
-N'a jamais avoüé que vous fussiez son fils.
-Qui justifiera...
-
--*who_le_comte_de_morray
-      Qui ? Ma valeur, mon audace :
-Mon ardeur de regner & de remplir sa place :
-Si le Ciel m'eût fait naistre en un degré plus bas,
-De si beaux mouvemens ne me dureroient pas.
-Pour m'en convaincre mieux, s'il faut encor plus faire,
-J'en croy jusqu'à l'amour que je n'ay pû vous taire :
-Si j'estois né d'un sang qui fût moins glorieux
-Aurois-je sur la Reine osé porter les yeux ?
-Non que vers ses appas un fol amour m'entraîne ;
-Ce qui m'est plus sensible Elisabeth est Reine ;
-A tous les Rois voisins elle impose des loix ;
-Etonne⁎ l'Univers du bruit de ses Exploits ;
-L'Ecosse où je commande, unie à l'Angleterre,
-Je ne craindrois au plus qu'un éclat du Tonnerre,
-Et lors que sur le Trône on se trouve monté
-Qui ne craint que la Foudre est bien en seureté.
-Vos fideles conseils à qui je m'abandonne,
-Ne peuvent balancer l'amour qu'elle me donne :
-Et je ne répons pas qu'avant la fin du jour
-Je ne trouve le temps d'expliquer mon amour.
-Ne m'en détournez point si vous me voulez plaire.
-
--*who_le_comte_de_neucastel
-Et concevez-vous bien ce que vous allez faire ?
-D'un amour qui luy plut son coeur encor frappé,
-Pour écouter le vostre est trop préoccupé.
-Pour faire de son Trône une heureuse conqueste
-Attendez que du Duc elle ait proscrit la teste ;
-Et gardez-vous, Seigneur, de laisser entre-voir...
-
--*who_le_comte_de_morray
-Et pourquoy plus long-temps differer mon espoir ?
-Si l'union des coeurs naist de la ressemblance
-Quel party sous le Ciel a moins de difference ?
-Elle n'épargna rien dans l'espoir de regner ;
-Et qu'est-ce qu'à mon tour on me voit épargner ?
-Pour affermir son Trosne, & luy donner du lustre,
-Elle le cimenta du sang le plus illustre ;
-Moy du Sceptre d'Ecosse avide Ravisseur,
-Je cherche à l'acquerir par la mort de ma Sœur.
-Outre l'appas flateur de cette ressemblance,
-Pour rendre necessaire une telle Alliance
-Le sort d'intelligence⁎ avec nos attentats
-A déja pris le soin de joindre nos Etats.
-Quel Prince dans l'Europe a le même aventage ?
-
--*who_le_comte_de_neucastel
-Mais l'Ecosse, Seigneur, n'est pas vostre heritage.
-Le Roy, vostre Neveu, quoy que jeune & soumis...
-
--*who_le_comte_de_morray 
-Et si je perds la mere auray-je soin du fils ?
-Je luy laisse le jour tant qu'il m'est necessaire ;
-Mais enfin, ce fut moy qui m'immolay son pere :
-Et lors qu'au premier crime on s'est autorisé
-Un second à commettre est beaucoup plus aisé.
-On va plus hardiment affronter l'infamie :
-La main déja coupable en est plus affermie ;
-Et je n'ignore pas ce precepte si beau
-Que l'azile d'un crime est un crime nouveau.
-
--*who_le_comte_de_neucastel
-Seigneur, c'en est assez. Surpris de vous entendre
-Je ne consulte plus quel party je dois prendre.
-Quoy que fasse le sang, il faudra peu d'efforts
-Pour mettre un si grand coeur au dessus des remors.
-Je vais trouver le Duc, & servir vostre haine.
-Vous, pour haster sa perte allez trouver la Reine :
-Et faites avec art entrer dans vos discours
-Que de ses jours sacrez il veut borner le cours.
-Enfin, pour la contraindre à la reconnoissance
-Du zele le plus pur empruntez l'apparence.
-Accoûtumez son cœur…
-
-**** *book_ *id_I04 *act_I *date_1691 *creator_boursault
-
--*who_lancastre
-      Ah, Seigneur, hâtez-vous,
-Et venez de la Reine appaiser le courroux.
-Je ne puis deviner qui conspire contr'elle ;
-Mais elle est resoluë à punir un rebelle,
-Un perfide, un ingrat digne de sa fureur,
-Et pour qui son estime est changée en horreur.
-Venez par vos conseils dissiper les allarmes
-Qui d'un si beau destin empoisonnent les charmes :
-Pour détourner l'orage, ou pour le prévenir,
-Elle vous fait chercher pour vous entretenir.
-Dans cette occasion montrez-luy vostre zele.
-
--*who_le_comte_de_morray
-Et quelle ame assez basse ose estre encor rebelle?
-Vous a-t'-on dit le nom du coupable ?
-
--*who_lancastre
-      Seigneur,
-Je n'ose en soupçonner la Reine vostre Sœur.
-Mais un des Officiers qui doit répondre d'elle
-A sans doute à la Reine appris quelque nouvelle.
-Il l'a veüe en secret ; & même en ce moment
-Elle luy parle encor en son Appartement.
-Vostre avis est le seul que la Reine veut suivre.
-
--*who_le_comte_de_morray
-Qui trouble son repos est indigne de vivre.
-Voila mon sentiment que rien ne peut changer.
-De quelque part qu'il vienne écartons le danger.
-Allons trouver la Reine, & luy faisons entendre
-Qu'il faut executer l'Arrest qu'elle a fait rendre.
-La nature outragée a beau s'en émouvoir,
-Sa voix est impuissante où parle mon devoir.
-
-**** *book_ *id_II01 *act_II *date_1691 *creator_boursault
-
--*who_elisabeth
-Auriez-vous jamais crû qu'insensible à mes graces,
-De tant de Conjurez il eût suivy les traces ?
-Luy que j'ay tant de fois comblé d'honneurs, de biens,
-Prodigue de ses jours, attente sur les miens !
-En quelque rang qu'il soit je luy feray connoistre
-Que je sçay de plus haut precipiter un Traistre ;
-Que jamais un Sujet qui viole sa foy
-Ne dérobe sa vie aux rigueurs de la loy ;
-Que plus à mes bontez il estoit redevable
-Plus son crime est énorme & ma haine équitable :
-Et qu'aprés l'injustice où l'Ingrat se resout,
-Ma tendresse irritée est capable de tout.
-
--*who_le_comte_de_morray
-Madame, quelque horreur que le Duc vous imprime,
-Elle n'égale pas la grandeur de son crime.
-Il vouloit, le perfide, attenter à vos jours
-Pour faire réüssir ses nouvelles amours.
-
--*who_elisabeth
-Ses amours ! Juste Ciel, que m'apprend-on encore ?
-Et pour qui ?
-
--*who_le_comte_de_morray
-      Pour ma Sœur.
-
--*who_elisabeth
-      L'aime-t'il ?
-
--*who_le_comte_de_morray
-      Il l'adore.
-
--*who_elisabeth
-Il l'adore ! Qu'entens-je ?
-
--*who_le_comte_de_morray
-      Et quel autre motif
-D'un Ministre d'Estat feroit un fugitif ?
-
--*who_elisabeth
-Quoy, pour mon Ennemie il a l'ame obsedée !
-Eh faut-il que si tard j'en sois persuadée⁎ !
-Depuis plus de six mois confus, sombre, interdit,
-Son infidele coeur m'en avoit assez dit :
-Mais le mien, trop facile à se laisser surprendre⁎,
-A ce langage obscur ne vouloit rien comprendre.
-Enfin, voyant l'Ingrat m'éviter tous les jours,
-De ma faveur pour luy j'interrompis le cours.
-Si d'un coup si cruel il eût senti l'atteinte,
-Il l'auroit recouvrée à sa premiere plainte.
-A ceux qui la briguoient ne pouvant l'accorder,
-Je luy laissois le temps de la redemander.
-Dans la crainte où j'estois de le trouver coupable
-Tout ce qui l'excusoit me sembloit veritable ;
-Et mon coeur de concert⁎ avec sa trahison
-Du party de mes sens avoit mis ma raison.
-A moins que cette nuit sa fureur me previenne
-Je jure que sa mort devancera la mienne ;
-Et que pour luy porter de plus sensibles coups
-Mes yeux se repaistront d'un spectacle si doux.
-J'auray plus de rigueur qu'il n'eut d'ingratitude.
-
--*who_le_comte_de_morray
-On ne peut luy trouver un supplice trop rude.
-Par un crime si grand il viole à la fois
-Tout ce qu'ont de plus saint les plus augustes loix.
-Il trahit son devoir, vos bien-faits, sa naissance ;
-Il est sans foy, sans zele, & sans reconnoissance :
-Et l'on ne peut, Madame, en cette occasion
-Prendre contre un ingrat trop de précaution.
-Ne souffrez prés de vous que ceux dont le pur zele...
-
--*who_elisabeth
-Et les Rois sçavent-ils quand on leur est fidele ?
-Environnez par tout de gens interessez
-Ils n'ont point de deffauts qui ne soient encensez :
-A tous leurs mouvemens une foule importune
-D'un pas precipité court aprés la fortune ;
-Et ceux qui devant eux se presentent le plus
-Le font moins pour les voir que pour en estre vûs.
-Si je choisis quelqu'un j'éprouveray⁎ peut-estre
-Qu'au lieu du plus zelé ce sera le plus traistre.
-De ce devoir, vous-même, acquittez-vous si bien
-Que de la part du Duc il ne m'arrive rien.
-Je vous en donne l'ordre, & ce soin vous regarde.
-Hola.
-
--*who_euric
-      Madame ?
-
--*who_elisabeth
-      Euric, pour commander ma Garde
-Du Comte de Morray je viens de faire choix :
-Ayez soin cette nuit d'obeïr à sa voix.
-Je l'ordonne.
-
--*who_le_comte_de_morray
-      Charmé de cette confiance
-Je jure que vos jours sont en pleine asseurance,
-Et que vos ennemis n'iront point jusqu'à vous
-Qu'on ne m'ait veu, Madame, expirer sous leurs coups.
-Si l'on ne m'a trompé, nous touchons presqu'à l'heure
-Que pour sa trahison le Duc croit la meilleure.
-Pour flatter ses desirs Neucastel est d'accord
-De luy faire en secret ouvrir le premier Port ;
-Et moy, pour découvrir ses injustes pratiques,
-Je me dois asseurer de tous ses Domestiques.
-Je vais pourvoir à tout. Pour vous, qui tant de fois
-Parûtes consommée⁎ en l'étude des Rois ;
-Qui dés vos jeunes ans réduite à vous contraindre,
-Avec tant de succez apprîtes l'art de feindre ;
-Jusqu'à ce que du Duc le sort soit éclaircy
-Songez que le silence est necessaire icy.
-
--*who_elisabeth
-Comte, pour cet Ingrat la mort aura des charmes,
-Des yeux qui l'ont seduit il obtiendra des larmes.
-Pour luy faire un destin qui soit plus rigoureux
-Ne donnons le trépas qu'à l'objet de ses feux.
-Ce sera pour ce Traistre une douleur mortelle
-D'adorer vostre Soeur & de vivre sans elle :
-Et ce qu'aura d'horrible un si funeste sort,
-Luy seul de ce qu'il aime aura hasté la mort.
-Ainsi, ma cruauté, sans permettre qu'il meure,
-Forcera le perfide à mourir à toute heure.
-Et je l'accableray par l'horreur de me voir
-Joüir de ma vengeance & de son desespoir .
-
--*who_le_comte_de_morray
-A languir dans la honte on pourroit le contraindre
-Si de sa perfidie on n'avoit rien à craindre.
-Pour nous rendre le joug & le culte Romain
-La Flandre est toute preste à luy tendre la main.
-Peut-estre est-ce pour luy que le Prince de Parme
-Aux rivages d'Ostende a cent Voiles qu'on arme :
-Et vous n'ignorez pas que pendant une nuit
-Un peu de vent en poupe en ce lieu les conduit.
-Pour éteindre en son sang la fureur qui l'anime
-Laissez-moy le surprendre en commettant son crime :
-Vous n'hesiterez plus à vouloir son trépas
-Quand de sa trahison vous ne douterez pas.
-
-**** *book_ *id_II02 *act_II *date_1691 *creator_boursault
-
--*who_elisabeth
-He bien, Lancastre, hé bien, tu vois ce qui se passe :
-Diroit-on que le Duc eût une ame si basse ?
-Parle sans me flatter ; je te fais le témoin
-Si mes bontez pour luy pouvoient aller plus loin.
-Je croyois sur son coeur ma puissance absoluë.
-Le Traistre !
-
--*who_lancastre
-      A quoy, Madame, estes-vous resoluë ?
-
--*who_elisabeth
-A quoy, Lancastre ? Apprens que plus j'eus de bonté,
-Plus je luy dois de haine & de severité.
-Je ne luy devois pas tant de marques d'estime,
-Qui sans doute en secret luy reprochent son crime ;
-Et plus de mes bienfaits il fut favorisé,
-Plus il est criminel d'en avoir abusé.
-Je sçay quelle justice à ses forfaits est deuë ;
-Je la luy rendray mieux qu'il ne me l'a renduë ;
-Et doublement coupable il me fera raison
-De son ingratitude & de sa trahison.
-
--*who_lancastre
-Croyez-vous de vostre ame estre assez la maistresse,
-Pour en bannir d'abord ce qu'elle eut de tendresse ?
-Et pour peu qu'il en reste à vous parler pour luy,
-Pour fléchir vostre coeur est-ce trop foible appuy ?
-Quand vous la sentirez vous demander sa grace,
-Prompte à le garentir du sort qui le menace,
-La main qui l'éleva le soûtiendra toûjours :
-Il vous doit sa fortune, & vous devra les jours.
-
--*who_elisabeth
-Non, Lancastre, ma haine est deuë à son outrage.
-Il fait de ma tendresse un trop mauvais usage.
-Plus je luy fais de bien, plus je m'en fais haïr ;
-Et ce qu'il tient de moy luy sert à me trahir.
-Te representes-tu combien de fois le Traistre
-Que de mon lâche⁎ coeur j'avois rendu le maistre,
-S'est avec ma Rivale insolemment joüé
-De l'indiscret amour que j'avois avoüé ?
-Combien d'heureux momens, dont je leur tiendray compte,
-Ont-ils passé tous deux à joüir de ma honte⁎ ?
-Et tous deux de concert abusant de ma foy,
-Combien de fois le jour triomphoient-ils de moy ?
-Mais je merite assez le tourment qui me gesne :
-J'ay moy seule en ces lieux attiré cette Reine ;
-Chacun pour la sauver faisant des voeux secrets,
-Je la voulus moy-même observer de plus prés :
-Je la fis amener, seure d'en mieux répondre
-Plûtost dans ce Palais que dans la Tour de Londre ;
-Et c'est là que le Duc la voyant chaque jour,
-Pour ses yeux criminels a conceu tant d'amour.
-Prisonniere, c'est peu : coupable, condamnée,
-Qui croiroit que pour elle on m'eût abandonnée ?
-Et qui, Lancastre, & qui ? Tu le sçais, un Ingrat,
-Preferé par moy-même à plus d'un Potentat.
-
--*who_lancastre
-Si le Duc de Norfolc, que peut-estre on opprime,
-N'est coupable envers vous que de ce dernier crime,
-Jamais aucune loy n'a fixé de tourmens
-Dont on ait veu punir les crimes des Amans.
-Cependant pour sa mort j'apperçoy qu'on affecte
-Une si grande ardeur qu'elle est un peu suspecte.
-Quand d'un crime d'Etat on se croit asseuré,
-On a fait son devoir dés qu'on l'a declaré :
-Empescher qu'au coupable on ne laisse la vie
-C'est trop montrer, Madame, ou de haine ou d'envie ;
-Et pour sauver le Duc si les remors sont vains,
-Vous verrez que le Comte a de plus hauts desseins.
-Il est jeune & sensible : & vos charmes...
-
--*who_elisabeth
-      Arreste.
-Mes charmes ne font point de honteuse conqueste...
-S'il osoit me tenir les discours que tu tiens
-Je luy vendrois bien cher de pareils entretiens.
-Ton soupçon est injuste, & cela ne peut estre.
-Il sçait trop quel il est pour s'oser méconnoistre.
-
--*who_lancastre
-Madame, pardonnez si j'ay crû que sa foy...
-
--*who_elisabeth
-Voicy le Duc. Euric, demeurez avec moy.
-Ma vie aux mains d'un Traistre est trop mal asseurée.
-
-**** *book_ *id_II03 *act_II *date_1691 *creator_boursault 
-
--*who_le_duc_de_norfolc
 Quoy, Madame, si tard n'estre pas retirée ?
 Pendant qu'un plein repos regne dans vos Etats,
 Vous qui le procurez, vous n'en joüissez pas !
 Donnez quelque relâche au soin⁎ qui vous devore.
 Vous exposez des jours que l'Univers adore.
 
--*who_elisabeth
-L'interest de l'Etat m'impose cette loy.
-Je me dois toute à luy puis qu'il est tout à moy.
-Quelque soin que je prenne, il est toûjours des Traistres
-Qui suivent à grands pas leurs coupables Ancêtres.
-Vous qui ne craignez point qu'on vous manque de foy,
-Sans avoir mes raisons, vous veillez comme moy.
-Avez-vous eu du Ciel un plus grand privilege ?
-
--*who_le_duc_de_norfolc
 Aux rigueurs du destin quelle vie exposay-je,
 Madame ? Et que m'importe, enfin, par quel secours,
 Du malheur qui me suit je termine le cours ?
@@ -791,22 +803,6 @@ Preferez le repos à vos soins politiques.
 Demain vous vous rendrez aux affaires publiques.
 Demain…
 
--*who_elisabeth
-      C'est assez, Duc. Vostre zele est si grand
-Qu'on ne peut resister à ce qu'il entreprend.
-Je viens de reconnoistre à ce conseil sincere
-Que malgré mes soupçons je vous suis toûjours chere :
-Et que je ne pouvois pour mon propre bon-heur
-En de plus dignes mains déposer ma faveur.
-Je vous la rends. Demain, pour joüir de ma grace
-Reprenez au Conseil la principale place.
-Je vous fais aprés moy le premier en tout lieu.
-Meritez mes bienfaits par vostre zele. Adieu.
-Le Perfide est contraint, ma presence le gesne⁎.
-
-**** *book_ *id_II04 *act_II *date_1691 *creator_boursault 
-
--*who_le_duc_de_norfolc
 Me trompez-vous mes sens ! Ay-je entendu la Reine !
 Quelle profusion⁎ fait-elle en ma faveur !
 Et que luy reste-t-il à m'offrir que son cœur ?
@@ -819,24 +815,10 @@ Avant que de souffrir qu'elle vous fût ravie ?
 Je vous tiendray parole, ou mon sang répandu
 Aura fait pour le moins tout ce qu'il aura dû.
 Heureux si par ma mort la vostre differée...
-
-**** *book_ *id_II05 *act_II *date_1691 *creator_boursault
-
--*who_euric
-Dans son Appartement la Reine est retirée,
-Seigneur ; & tout conspire à remplir vos souhaits.
-Nous sommes asseurez des portes du Palais.
-D' Ecossois genereux une Troupe intrepide
-Doit servir à sa Reine & d'escorte & de guide.
-Ces momens fortunez ne se retrouvent pas.
-
--*who_le_duc_de_norfolc 
+ 
 De la Reine captive allez haster les pas.
 Je vous attends.
 
-**** *book_ *id_II06 *act_II *date_1691 *creator_boursault
-
--*who_le_duc_de_norfolc
       O Ciel ! voy pour qui je t'implore.
 Avant que dans ce lieu tu rameines l'aurore
 Attends qu'un long espace entre la Reine & nous
@@ -844,144 +826,20 @@ Ait mis ce que j'adore à couvert de ses coups.
 Sauve de sa fureur une Reine si belle.
 Je suis trahy, sans doute, Euric revient sans elle.
 
-**** *book_ *id_II07 *act_II *date_1691 *creator_boursault
-
--*who_le_duc_de_norfolc
 A la Reine d'Ecosse a-t-on manqué de foy ?
 Parlez, Euric.
 
--*who_euric
-      Seigneur, elle vient aprés moy.
-Touché de la frayeur dont son ame est atteinte,
-Je devance ses pas pour dissiper sa crainte.
-Un peu d'émotion meslée à ses attraits
-Vous la va faire voir plus belle que jamais.
-
-**** *book_ *id_II08 *act_II *date_1691 *creator_boursault 
-
--*who_le_duc_de_norfolc
 Venez, venez, Madame...
 
--*who_marie_stuard
-      Ah ! Duc que j'apprehende
-De vous rendre funeste une bonté si grande !
-Si la Reine en secret fait observer nos pas,
-En voulant me sauver ne vous perdez-vous pas ?
-
--*who_le_duc_de_norfolc
 Vos jours en seureté, quoy que je puisse craindre,
 Mon sort sera trop beau pour chercher à m'en plaindre.
 Profitons du secours que nous offre la nuit.
 Sortons, Madame...O Ciel ! d'où vient un si grand bruit ?
 
--*who_marie_stuard
-Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.
-
-**** *book_ *id_II09 *act_II *date_1691 *creator_boursault 
-
--*who_killegre
-Hola, Gardes ? A moy : l'on veut trahir la Reine.
-
--*who_le_duc_de_norfolc
 Ouvre les yeux, de grace, & voy ce que tu fais.
 Le bras que tu saisis t'a comblé de bienfaits.
 C'est le Duc de Norfolc, qui cent fois...
 
--*who_killegre
-      Il n'importe.
-Je suis Sujet, Seigneur, & ce devoir l'emporte.
-
-**** *book_ *id_II10 *act_II *date_1691 *creator_boursault
-
--*who_elisabeth
-Quel desordre, si tard, ose-t-on faire icy ?
-C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !
-
--*who_marie_stuard 
-Qui, moy, vostre ennemie ! Eh, Madame...
-
--*who_elisabeth
-      Ah le Traistre !
-Enfin, Ingrat, enfin, tu t'es donc fait connoistre ?
-A démentir mes yeux ose appliquer tes soins.
-Ce sont, pour ton malheur, de fideles témoins.
-Ils ont veu ton faux zele ; & combien ma presence
-Coûtoit d'inquietude à ton impatience :
-Ces yeux qui pour les tiens n'ont jamais eu d'appas,
-Ont veu ta perfidie, & verront ton trépas.
-Je t'avois averty que je sçavois des Traistres
-Qui suivoient à grands pas leurs coupables Ancêtres :
-Et c'en estoit assez pour te faire sentir
-Que je voulois ta mort moins que ton repentir.
-Gardes, sans balancer, entraînez ce Perfide.
-Il faut que de son sort ma vengeance decide.
-
--*who_marie_stuard
-Songez-vous aux remors que vous vous preparez ?
-
--*who_elisabeth
-Qu'on les mette tous deux en des lieux separez.
-Ces coupables Amans trouveroient trop de charmes
-A pouvoir l'un de l'autre adoucir les alarmes :
-Jusqu'au moment fatal où l'on doit les punir
-Laissons au desespoir à les entretenir.
-Vous, dont le zele ardent vient icy de paroistre,
-Qui pour m'estre fidele avez trahy ce Traistre,
-Ayez soin d'assembler demain à mon réveil
-Les Pairs accoûtumez à tenir mon Conseil.
-
-**** *book_ *id_III01 *act_III *date_1691 *creator_boursault
-
--*who_lancastre
-Non, Madame, les Pairs ne viennent point encore.
-Vous vous estes levée aussi-tost que l'Aurore.
-Tant qu'a duré la nuit vostre esprit agité
-N'a laissé nul repos à vostre Majesté.
-
--*who_elisabeth
-A-t-on donné mon Ordre ? Amene-t-on le Traistre ?
-
--*who_lancastre
-Oüy, Madame, à l'instant vous l'allez voir paroître.
-
--*who_elisabeth
-Et les Comtes ?
-
--*who_lancastre
-      Madame, ils vont entrer tous deux.
-
--*who_elisabeth
-Pour immoler le Duc je veux m'asseurer d'eux.
-Ils ont pour ce Perfide une haine mortelle .
-
-**** *book_ *id_III02 *act_III *date_1691 *creator_boursault 
-
--*who_elisabeth
-Comtes, depuis long-temps je connois vostre zele.
-Vos voeux les plus ardents vont au bien de l'Etat ;
-Et d'un ingrat Sujet vous sçavez l'attentat.
-Contente de vos soins, & Princesse équitable,
-Je vous fais tous deux Pairs, & Juges du Coupable.
-Il vient. Souvenez-vous que ce Billet fatal
-L'accuse, le convainc⁎ d'un crime capital :
-Et que Traistre, une fois, il est de la justice
-D'empêcher desormais que l'Ingrat me trahisse.
-Allez.
-
-**** *book_ *id_III03 *act_III *date_1691 *creator_boursault
-
--*who_elisabeth
-      Approchez, Duc. Si le Ciel l'eût permis
-Vous alliez contre nous servir nos Ennemis.
-Si le Duc de Norfolc nous declaroit la guerre,
-Contre un Heros si grand que feroit l'Angleterre ?
-Qui prendroit son party dans un pareil malheur,
-La voyant attaquée avec tant de valeur ?
-Le Ciel, qui des Etats prend toûjours la conduite,
-A veu trop de peril à souffrir vostre fuite.
-Il a mis un obstacle avec juste raison...
-
--*who_le_duc_de_norfolc
 Madame, un tel discours n'est guere de saison.
 Cette foible valeur dont je voy qu'on se jouë
 N'a rien fait jusqu'icy que la gloire n'avouë ;
@@ -989,18 +847,6 @@ Et pour nous épargner des discours superflus,
 Vostre Etat chancelloit, & ne chancelle plus.
 La mort qu'on me prepare est le digne salaire...
 
--*who_elisabeth
-Et qu'as-tu fait, Ingrat, qu'un autre n'eût pû faire ?
-Quel autre encor plus loin n'eût porté ses exploits
-Si je l'eusse honoré de tes mêmes Emplois ?
-Ne me reproche point quelque foible Victoire
-Dont je faisois du bruit pour te combler de gloire,
-Tant je goûtois de joye à trouver un moyen
-De t'acquerir un nom qui fut digne du mien.
-Tout autre que toy, lâche, auroit plus fait, peut-estre ;
-Et n'auroit pas acquis l'infame nom de Traistre.
-
--*who_le_duc_de_norfolc
 Au gré de vostre haine avancez mon trépas ;
 Mais de noms odieux ne me noircissez pas.
 En quelque lieu du monde où l'on m'ait veu paroître
@@ -1008,16 +854,6 @@ Jamais à mon devoir on ne m'a trouvé Traître :
 C'est un crime trop bas au rang où je me voy,
 Pour tenter la vertu d'un homme tel que moy.
 
--*who_elisabeth
-Et quand d'une Princesse odieuse, coupable,
-Je te nommay le Juge, & te crûs équitable,
-Séduit par le pouvoir de ses honteux appas ;
-Pour luy sauver le jour ne me trahis-tu pas ?
-Les Pairs qui depuis toy l'ont mieux examinée ;
-D'une commune voix l'ont d'abord condamnée.
-En donnant cet Arrest n'ont-ils pas consulté...
-
--*who_le_duc_de_norfolc
 Oüy, Madame, vos vœux, & non pas l'Equité.
 Pour moy qui ne cherchois qu'à vous montrer mon zele
 Dans le funeste employ que je receus contr'elle,
@@ -1063,28 +899,7 @@ Assassins d'une Reine, à la moindre querelle,
 Ils feront contre vous ce qu'ils ont fait contr'elle :
 Et ce crime impuni va suffire aux Anglois
 Pour les autoriser à proscrire leurs Rois.
-
--*who_elisabeth
-Va, tu noircis en vain des Juges équitables.
-Jamais de perfidie ils n'ont esté coupables.
-Animez d'un pur zele ils periroient pour moy
-Si j'avois fait pour eux ce que j'ay fait pour toy.
-Est-il quelque grandeur que je t'aye interdite ?
-Jusques dans tes deffauts je trouvois du merite.
-Si le Trône à tes yeux eût offert des appas
-Pour t'y faire monter je te tendois les bras.
-Mon coeur que tu charmois, avide de te plaire,
-Te montroit le chemin qui te restoit à faire.
-Je t'aimay : Je fis plus, je t'en fis un aveu
-Qui me coûta beaucoup, & qui te toucha peu.
-Voy maintenant, voy, lâche, où tu te precipites :
-Voy quel estoit ton choix, & voy ce tu quittes :
-Envisage de prés, pour t'accabler d'ennuis,
-L'Echaffaut qui t'attend & le Trône où je suis.
-Quelle indigne Beauté vient de te rendre traistre !
-Proscrite, abandonnée...
-
--*who_le_duc_de_norfolc 
+ 
       Et devroit-elle l'estre ?
 Quel spectacle à nos yeux allez-vous étaller,
 Madame ? Et que de droits faites-vous violer ?
@@ -1105,11 +920,6 @@ Pour le malheur du monde en estoit exilée,
 Il faudroit qu'en tout temps par un glorieux choix
 Elle se retrouvât dans la bouche des Rois.
 
--*who_elisabeth
-Laisse-là mon devoir & songe au tien, Perfide :
-Ton trépas...
-
--*who_le_duc_de_norfolc
       Son aspect⁎ n'a rien qui m'intimide :
 Souvent pour vostre gloire ou pour vos interests
 Contre vos Ennemis je l'ay veu d'assez prés ;
@@ -1130,21 +940,6 @@ N'a fait connoistre au sien qu'il cherchât à luy plaire :
 Que mon respect pour elle égale ses appas ;
 Et qu'enfin si je l'aime elle ne le sçait pas .
 
--*who_elisabeth
-Du plus énorme crime avoir esté capable
-C'est donc envers l'Etat ne pas estre coupable ?
-Et de mon coeur tranquile avoir troublé la paix,
-Ce n'est pas à ton gré le plus noir des forfaits ?
-De ton sang odieux tu me vois plus avide
-Que tu ne fus Ingrat, que tu ne fus Perfide ;
-Deux fois digne de mort que n'est-il à mon choix
-De te faire à mes yeux mourir autant de fois !
-Au moins ma volonté, qu'il faut qu'on accomplisse,
-Est que pour chaque crime on invente un suplice ;
-Et que par des tourmens dont tu n'expires pas
-Tu sentes à loisir les horreurs du trépas.
-
--*who_le_duc_de_norfolc
 Hé bien, assouvissez vostre cruelle envie.
 Au lieu des tourmens laissez durer ma vie.
 Par l'espoir du salaire animez vos Bourreaux
@@ -1162,26 +957,6 @@ A vos tendres bontez n'a pû si bien répondre ;
 Si par d'autres attraits il s'est laissé toucher,
 C'est tout ce qu'à ma foy vous pouvez reprocher.
 
--*who_elisabeth
-C'est tout ce qu'à ta foy je puis reprocher, Traître !
-Voy cette Lettre, voy. Peux-tu la meconnoistre?
-Sauvez le sang de tant de Rois
-Que s'appreste à répandre une main odieuse :
-Pour s'immortaliser on ne peut faire choix
-D'une action plus glorieuse.
-Resolus de prester la main
-A vostre genereux dessein,
-De nos meilleurs Vaisseaux la mer sera couverte :
-Et s'il faut dans la suite un plus puissant secours,
-Nous finirons la paix, & ferons guerre ouverte,
-Pour asseurer de si beaux jours .
-Tu pâlis, malheureux, & ton crime t'allarme
-Cette coupable Lettre est du Prince de Parme.
-Ridolf, ce Confident par toy-même choisi,
-Arresté de ma part s'en est trouvé saisi.
-Que peux-tu m'opposer pour détruire ce crime ?
-
--*who_le_duc_de_norfolc
 Rien. Ce Billet surpris rend ma mort legitime.
 Non que prest à mourir en Victime d'Etat
 Je puisse estre accusé d'aucun autre attentat
@@ -1190,42 +965,6 @@ Où la Reine d'Ecosse eût un abry tranquile ;
 Examinez l'Ecrit qui paroît à vos yeux :
 Examinez...
 
--*who_elisabeth
-      Les Pairs l'examineront mieux :
-Ils doivent s'assembler dans la Salle prochaine.
-Comme ta trahison ma vangeance est certaine.
-Pour en joüir plûtost je veux dés ce moment
-Exposer ma Rivale au plus cruel tourment.
-Hola ? Faites venir la Reine prisonniere.
-Ma joye en t'accablant ne seroit pas entiere
-Si le même courroux qui termine ton sort
-Luy laissoit ignorer ma vangeance & ta mort.
-C'est un plaisir pour moy qu'aucun autre n'égale
-De trouver cette voye à punir ma Rivale ;
-Et puis qu'on ne peut rompre un si honteux lien,
-De te percer le coeur pour mieux trouver le sien.
-Je sçay que ton malheur luy va coûter des larmes ;
-Que c'est à ton amour offrir de nouveaux charmes ;
-Mais de ma cruauté ce sont les derniers traits :
-Plus tu seras sensible à ce qu'elle a d'attraits,
-Plus au gré de mes voeux la mort qui t'en separe
-A ton coeur attendry va paroistre barbare.
-Voicy cette Beauté si digne de ton choix :
-Montre-luy ton amour pour la derniere fois.
-Gardes, laissez-les seuls ; & maistres de la porte,
-Empêchez seulement qu'aucun n'entre ou ne sorte.
-Il y va de vos jours à répondre des leurs .
-
-**** *book_ *id_III04 *act_III *date_1691 *creator_boursault
-
--*who_marie_stuard
-He bien, Duc, vos bontez augmentent mes malheurs.
-Quelle fatalité vous inspira l'envie
-De prodiguer vos jours pour conserver ma vie ?
-J'ay fait ce que j'ay pû pour vous en empêcher ;
-Et tout ce que j'ay fait ne vous a pû toucher.
-
--*who_le_duc_de_norfolc
 J'attendrois le trepas, l'ame ferme & tranquile,
 Si mon sang répandu vous devenoit utile ;
 Mais tel est de mon sort⁎ l'inflexible courroux
@@ -1239,24 +978,6 @@ Du zele qui m'anime a condamné l'audace ;
 Et n'a pû consentir que vous dûssiez vos jours
 Aux efforts impuissans d'un si foible secours.
 
--*who_marie_stuard
-Si le Ciel équitable à ma fuite s'oppose
-De son juste courroux je suis la seule cause :
-Innocente à vos yeux de meurtres, d'attentats,
-Il est d'autres forfaits dont je ne le suis pas .
-Pour vous, qui renoncez au rang le plus auguste
-Lors qu'il faut y monter par une voye injuste ;
-Vous, qui de la faveur si long-temps revétu
-N'eûtes pour ennemis que ceux de la vertu ;
-Qui de tous les bienfaits dispensateur fidele,
-Des Ministres d'Etat devinstes le modele ;
-Et laissâtes à tous l'exemple genereux
-De répandre les dons qu'ils retiennent pour eux :
-Vous, enfin, qui sans fraude ayant esté mon Juge
-Vouliez à l'innocence asseurer un refuge,
-Quel crime avez-vous fait pour souffrir le trépas ?
-
--*who_le_duc_de_norfolc
 Madame, j'en sçais un que je ne vous dis pas.
 Si vous aviez appris ce crime qui vous touche
 Il seroit condamné de vostre propre bouche :
@@ -1267,12 +988,6 @@ Je me flatte en mourant d'emporter vostre estime ;
 Et si j'avois parlé, vos mépris éclatans
 Joindroient trop d'amertume au trépas que j'attens.
 
--*who_marie_stuard
-Moy des mépris ! Ah Duc, qu'un tel soupçon m'offence !
-Je puis manquer de tout, hors de reconnoissance.
-C'est moy qui vous expose aux mouvemens jaloux...
-
--*who_le_duc_de_norfolc
 Et qu'est-il de plus beau que de mourir pour vous,
 Madame ? A quelque affront qu'Elisabeth me livre,
 Pour un plus grand Sujet puis-je cesser de vivre ?
@@ -1283,10 +998,6 @@ Quand de mes tristes jours je fais un sacrifice,
 Me peut faire expier par un trépas si doux
 Le crime que j'ay fait de soûpirer pour vous.
 
--*who_marie_stuard
-O Ciel !
-
--*who_le_duc_de_norfolc
       Vous jugez bien qu'il m'eût esté facile
 De supprimer l'aveu d'une ardeur inutile,
 Si je n'eusse esperé que d'un crime si grand
@@ -1300,39 +1011,6 @@ Cet amour malheureux, ce crime involontaire ;
 Et j'attens par respect à vous le faire voir
 Qu'un trépas asseuré m'interdise l'espoir.
 
--*who_marie_stuard
-A quelque ignominie où l'on m'ait condamnée
-Je n'ay point oublié de quel sang je suis née :
-Pour en trouver la source en mes premiers Ayeux
-Il faudroit remonter jusqu'au temps des faux Dieux.
-Et le reste d'un Sang dont la source feconde
-A depuis deux mille ans donné des Rois au monde,
-Au rang le plus sublime a d'assez justes droits
-Pour devoir n'écouter que les soûpirs des Rois.
-Je ne m'attendois pas, pour surcroît de misere,
-Au surprenant aveu que vous venez de faire :
-Pour essuyer du sort les plus rigoureux coups
-Il ne me restoit plus qu'à me plaindre de vous.
-Si vostre coeur sensible au malheur qui m'opprime
-A pris en ma faveur des sentiments d'estime ;
-Si des attraits proscrits vous ont fait soûpirer ;
-Quel moment prenez-vous pour me le declarer !
-Si d'un feu qui me perd j'eusse esté mieux instruite
-Me serois-je avec vous exposée à la fuite ?
-Ce que la médisance osera publier
-Chez tous les Rois voisins va me calomnier.
-On dira que le Juge épris de la Coupable
-A l'objet de ses feux s'est montré favorable ;
-Et que dans un Arrest qu'un tel Juge a dicté
-L' Amour eut plus de part que n'en eut l'Equité.
-Ah Duc, qui dans mes maux avez veu ma constance,
-Quel indice⁎ cruel contre mon innocence !
-Quelque juste envers moy qu'ait esté vostre Arrest
-L'amour auprés d'un Juge est un grand interest.
-Que ne chassiez-vous, Duc, cet amour de vostre ame ?
-Que ne bannissiez-vous...
-
--*who_le_duc_de_norfolc
       Et l'ay-je pû, Madame ?
 Si les hautes vertus ont droit de tout charmer
 Estoit-il à mon choix de ne pas vous aimer ?
@@ -1362,15 +1040,6 @@ Et j'ignorois, Madame, en prenant ce party,
 L'amour le plus puissant qu'on ait jamais senty.
 Tout pur qu'est cet amour mes desirs ne prétendent...
 
-**** *book_ *id_III05 *act_III *date_1691 *creator_boursault 
-
--*who_killegre
-Les Pairs sont assemblez, Seigneur, & vous attendent.
-On me vient d'ordonner dans le même moment
-De vous faire rentrer dans vostre Appartement,
-Madame.
-
--*who_le_duc_de_norfolc
       Adieu, Madame. Une autre destinée
 Termine de vos jours la course infortunée.
 Quels que soient les tourmens qui me sont preparez
@@ -1388,29 +1057,9 @@ De vos jours precieux épargnera le reste.
 Puisse le juste Ciel en finissant les miens
 Vous affranchir de maux & vous combler de biens.
 
--*who_marie_stuard
-Puisse du juste Ciel la sagesse profonde
-Qui vous oste avant moy des miseres du monde ,
-Pour remplir mon attente, & mes voeux les plus doux,
-M'appeller à la mort un moment aprés vous.
-
-**** *book_ *id_IV01 *act_IV *date_1691 *creator_boursault
-
--*who_le_comte_de_neucastel
-Oüy, Seigneur, je vous plains, une cheute si prompte...
-
--*who_le_duc_de_norfolc
 D'un homme tel que toy la pitié me fait honte.
 Retire-toy.
 
--*who_le_comte_de_neucastel
-      La Reine attend l'Ordre sacré
-Dont sa main autrefois vous avoit honoré.
-Cette pompeuse Marque, en ce lieu si cherie,
-Sous le fer d'un Bourreau luy sembleroit flétrie.
-Elle m'envoye exprés pour vous la demander.
-
--*who_le_duc_de_norfolc
 Mon sort est d'obeïr, le sien de commander.
 Pour en faire un present que l'avenir abhorre,
 De cette illustre Marque il faut qu'elle t'honore :
@@ -1437,133 +1086,6 @@ Pouvoir quelques momens refléchir sur moy-même.
 Dans un lieu plus tranquile accompagnez mes pas.
 Sa presence est pour moy pire que le trépas.
 
--*who_le_comte_de_neucastel
-O Ciel ! à quelle honte aujourd'huy je m'expose !
-
-**** *book_ *id_IV02 *act_IV *date_1691 *creator_boursault 
-
--*who_le_comte_de_morray
-A prevenir⁎ nos voeux la Reine se dispose.
-Tantôt dans la chaleur d'un aveugle courroux,
-Pour condamner le Duc elle a fait choix de nous :
-Seure que nostre voix à ses desirs propice
-Suivroit sa passion plûtost que la justice.
-Quatre austeres Vieillards, consommez dans les Loix,
-Dont jamais la faveur n'a corrompu la voix,
-Auroient pû le soustraire à ce destin funeste
-Si je n'avois eu l'art de seduire le reste ;
-Et de leur arracher leurs suffrages douteux
-Par de legers bienfaits que j'ay versé sur eux.
-
--*who_le_comte_de_neucastel
-Je ne puis plus, Seigneur, faire un pas en arriere
-Il faut que malgré moy j'acheve ma carriere.
-Aprés mille bienfaits honteusement déceus⁎,
-J'assassine un Heros dont je les ay receus.
-Avant que de vous voir je détestois le crime ;
-Vous m'avez fait braver la honte qu'il imprime ;
-Un appas de grandeur a corrompu ma foy :
-Et si vous l'oubliez lors que vous serez Roy,
-De Mechant à Mechant, quoy que l'on se promette,
-L'union la plus forte est toûjours imparfaite ;
-Et jusques sur le Trône où vous serez assis
-Vous me feriez raison de mes forfaits trahis.
-Une belle action offre au moins pour salaire
-A celuy qui la fait, le plaisir de la faire :
-Mais des crimes perdus ne laissent aprés eux
-A qui les a commis qu'un desespoir affreux.
-
--*who_le_comte_de_morray
-Quelle indigne pitié vous émeut, vous allarme ?
-Quoy dés le premier crime un remors vous desarme !
-Est-ce un prix trop abject pour vous encourager
-Que l'espoir glorieux d'un Trône à partager ?
-Ne donnons pas le temps à l'amour de la Reine
-D'examiner l'Arrest qu'a fait rendre sa haine .
-Pendant que son courroux l'aveugle, & la séduit,
-Asseurons nostre crime, & cueïllons-en le fruit.
-Pour immoler le Duc la hache est déja preste.
-Allez secrettement faire tomber sa teste ;
-Pendant que de ma Sœur, sujette aux mêmes loix,
-J'iray sonder l'esprit pour la derniere fois.
-Quand je perds mon Rival, une fureur égale
-Semble animer la Reine à perdre sa Rivale ;
-Et peut-estre ce jour ne se passera pas
-Sans estre signalé par un double trépas.
-J'ay déja fait...
-
--*who_le_comte_de_neucastel
-      Seigneur, je voy venir la Reine.
-
-**** *book_ *id_IV03 *act_IV *date_1691 *creator_boursault 
-
--*who_elisabeth
-Ne vous opposez pas au penchant qui m'entraîne,
-Comtes. Quelque fierté que m'inspire mon sang
-Le repos de mon coeur m'est plus cher que mon rang.
-Pour éteindre une ardeur que j'ay laissé trop croître,
-A de nouveaux mépris je veux forcer un Traistre.
-Faites venir le Duc, Gardes.
-
--*who_le_comte_de_morray
-      Que faites-vous,
-Madame ?
-
--*who_elisabeth
-      Obeïssez, ou craignez mon courroux.
-
--*who_le_comte_de_morray
-Vous fremissez pour luy du sort qui le menace :
-Et s'il pousse un soûpir il obtiendra sa grace,
-Madame.
-
--*who_elisabeth
-      S'il l'obtient, vous sçaurez à quel prix,
-Et peut-estre tous deux en serez-vous surpris.
-Jamais contre l'ingrat je ne fus plus émeuë.
-Je demande à le voir, & j'abhorre sa veuë.
-Tantôt à ma douleur ne pouvant resister
-De son coupable amour je cherchois à douter :
-Je l'ay joint à l'objet pour qui son coeur soûpire,
-Dans l'espoir que la mort l'alloit faire dédire ;
-Ou que dans un Palais plein d'un nom redouté,
-L'Infidelle, du moins, craindroit d'estre écouté.
-Mais, méprisant la mort, & bravant ma puissance,
-Rien n'a pû le contraindre à garder le silence.
-De l'air tendre & touchant dont il s'est exprimé ,
-Jamais de plus d'amour on ne fut enflâmé.
-L'Ingrat, qui me prefere une indigne Rivale,
-Trouvoit-il dans ses fers une fortune égale ?
-Elle le fait mourir : & je l'aurois fait Roy,
-Si ce qu'il sent pour elle il l'eût senty pour moy.
-Le voicy . Demeurez. Quoy que son air menace,
-Je veux de ce Perfide humilier l'audace :
-Et pour peu qu'il s'échape à braver mon courroux,
-Pour me vanger de luy j'auray besoin de vous.
-
-**** *book_ *id_IV04 *act_IV *date_1691 *creator_boursault
-
--*who_elisabeth
-Un reste de bonté dont s'indigne mon ame,
-Me fait faire des pas⁎ que j'ay peur qu'on ne blâme.
-Ceux que noircit le crime, & qu'ont proscrit les loix
-Soüillent de leur aspect la Majesté des Rois.
-Je passe en ta faveur pardessus ces maximes,
-Quelque horreur que pour toy m'ayent inspiré tes crimes :
-Et pour recompenser d'assez foibles Exploits
-Je veux fermer les yeux sur ce que je me dois.
-Conçois-tu, malheureux, une infamie égale
-A l'ardeur criminelle où ton coeur se ravale ?
-Comblé par mes bontez & de gloire & de biens
-Pouvois-tu te choisir de plus honteux liens ?
-Depuis deux mois entiers que des loix legitimes
-Dans la Reine d'Ecosse ont puny tant de crimes,
-Qu'offroit-elle à tes yeux que d'indignes attraits ?
-Le jour qu'elle respire est un de mes bienfaits.
-J'ay pû deux mois plûtost trancher sa destinée ;
-Et tu n'ignores pas qu'elle estoit condamnée.
-
--*who_le_duc_de_norfolc
 Condamnée ! Eh Madame, ayez soin de⁎ vos droits ;
 Ce mot injurieux n'est point fait pour les Rois.
 Dans la gloire suprême où le Ciel les fait naistre,
@@ -1574,14 +1096,6 @@ Mais fût-elle Sujette, & non Reine absoluë,
 De quels crimes, Madame, est-elle convaincuë ?
 Pour noircir sa memoire apprenez-les-moy tous.
 
--*who_elisabeth
-D'avoir fait lâchement massacrer son Epoux.
-D'avoir dans mes Etats, où tout estoit tranquile,
-Attenté sur mes jours, violé son azile,
-Attiré l'Etranger, corrompu mes Sujets.
-Voila quelle est ma plainte, & quels sont ses forfaits.
-
--*who_le_duc_de_norfolc
 On vous trompe, Madame, elle a l'ame trop belle :
 Son plus austere⁎ Juge est plus coupable qu'elle.
 Vous souffrez, cependant, qu'on l'envoye au trépas
@@ -1607,19 +1121,6 @@ Et non sur le rapport que vous en fait un Traistre,
 Qui pour essay de crime a conceu sans effroy
 L'execrable dessein d'assassiner son Roy...
 
--*who_le_comte_de_morray
-Imposteur ! Le respect qu'icy vous devez rendre...
-
--*who_elisabeth
-C'est un desesperé qui ne sçait où se prendre.
-Pour se vanger de vous, qui l'avez condamné,
-Il voudroit avec luy vous avoir entraîné.
-Effrayé du peril que son crime luy montre
-Il s'attache en coupable à tout ce qu'il rencontre ;
-Et loin que le Perfide implore ma pitié
-Il croit par un mensonge estre justifié.
-
--*who_le_duc_de_norfolc
 Et de quelle pitié vous croiray-je capable
 En faveur d'un Sujet que vous trouvez coupable,
 Si d'une Reine auguste, à qui le sang vous joint,
@@ -1644,30 +1145,6 @@ Méprisez les conseils de ces petites Ames
 Que le courroux du Ciel a voulu rendre Infames :
 Le soin de s'aggrandir⁎ par d'injustes moyens...
 
--*who_elisabeth
-Je les veux suivre, Traistre, & mépriser les tiens.
-Si je prends leur conseil, j'en connois la justice.
-Ils m'animent⁎ tous deux à haster ton supplice :
-Leur zele impatient en presse l'appareil ;
-Et je n'hesite point à suivre ce conseil.
-Va, lâche, va perir par une main infame :
-Va prouver ta constance à l'objet qui t'enflâme ;
-Et te precipitant du degré le plus haut,
-Va de ton sang impur rougir un Echaffaut.
-Ce sang qu'en divers temps ont noircy tant de crimes,
-Ce sang toûjours rebelle à ses Rois legitimes,
-S'est veu pour ses forfaits par l'acier d'un Bourreau
-Privé plus d'une fois des honneurs du Tombeau
-Tu serois le premier de ta race odieuse
-Qu'eût rendu memorable une mort glorieuse :
-Ton Pere & ton Ayeul, dont tu sçais le destin,
-De la honte où tu cours t'ont frayé le chemin :
-C'est sur un Echaffaut qu'ils ont cessé de vîvre ;
-Tu degenererois en manquant à les suivre ;
-Et le remors vangeur qui suit la trahison
-Fut toûjours insensible à ceux de ta Maison.
-
--*who_le_duc_de_norfolc
 Madame, je ne puis, à ce torrent d'injures ,
 De mon coeur qu'on déchire étouffer les murmures :
 Tant que vostre courroux m'a pris seul pour objet
@@ -1688,42 +1165,11 @@ Qui voudroit d'aussi prés examiner les choses
 Trouveroit des Proscrits pour de plus justes causes.
 Vous m'entendez.
 
--*who_elisabeth
-      Oüy, Traistre : Et tu ne peux jamais
-Faire aller plus avant ma haine & tes forfaits.
-Je ne sçay rien en moy susceptible d'outrage
-Qui de ton lâche coeur n'ait éprouvé la rage.
-Quand j'aurois oublié tes autres attentats,
-Ta derniere insolence est digne du trépas :
-Mais, Perfide, ta Reine est assez magnanime
-Pour porter sa clemence aussi loin que ton crime :
-T'en laisser malgré toy le honteux souvenir
-C'est le tourment affreux dont je veux te punir.
-Ma bonté fatiguée autant qu'elle doit l'estre,
-Pour la derniere fois va parler, va paroistre ;
-Si tu peux concevoir quel effort je me fais
-Par un effort pareil merite mes bienfaits.
-Prest à voir par ta mort ma vengeance assouvie,
-Veux-tu ta grace ?
-
--*who_le_comte_de_morray
-      O Ciel !
-
--*who_le_duc_de_norfolc
       Je ne hais point la vie.
 Si vous me la laissez il me sera bien doux
 De pouvoir de nouveau la prodiguer pour vous.
 D'un fidele Sujet l'infatigable zele...
 
--*who_elisabeth
-Et qui me répondra que tu me sois fidelle ?
-Pour me justifier que ton zele soit gran
-Une foy violée est un mauvais garent.
-C'est par un grand effort qu'un grand crime s'efface ;
-Et j'en veux un de toy qui merite ta grace ;
-Je ne te la promets qu'à ce prix.
-
--*who_le_duc_de_norfolc
       Commandez.
 Je puis faire encor plus que vous ne demandez.
 Rien ne m'est impossible, où je voy de la gloire.
@@ -1731,39 +1177,202 @@ Rien ne m'est impossible, où je voy de la gloire.
 Que vous me commandiez pour éprouver ma foy
 Rien d'indigne de vous, ny d'indigne de moy.)
 
--*who_elisabeth 
-Les Pairs, dont l'Equité s'est acquis tant d'estime,
-Eux, qui dans aucun rang n'autorisent le crime,
-Pour rendre à l'Angleterre un plus tranquile sort
-De la Reine d'Ecosse ont tous signé la mort.
-Ton nom manque à l'Arrest qu'on a donné contr'elle :
-Et je ne croiray point que tu me sois fidelle
-Qu'en qualité de Pair, zelé pour mes Etats,
-Tu ne signes comme eux l'Arrest de son trépas.
-Un refus échapé⁎ rend ta perte certaine.
-Reponds, sans balancer.
-
--*who_le_duc_de_norfolc
       Gardes, qu'on me rameine.
 C'est ma réponse.
 
-**** *book_ *id_IV05 *act_IV *date_1691 *creator_boursault
 
--*who_elisabeth
-      Ah Ciel ! l'Ingrat n'hesite pas !
-Ma Rivale à la mort va devancer tes pas,
-Traistre. Dés ce moment pour contenter ma haine
-Allez y preparer cette coupable Reine.
-Tant que ma lâcheté luy laissera le jour
-L'Ingrat qu'elle a charmé gardera son amour.
-Dût sa Teste en tombant armer toute la terre
-Pour venir à grands pas fondre sur l'Angleterre,
-Comte de Neucastel, ne me revoyez pas
-Que vous n'ayez esté témoin de son trépas.
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedemorray
 
-**** *book_ *id_IV06 *act_IV *date_1691 *creator_boursault 
+      Souffrez que mon coeur se déploye,
+Et que j'étale icy la grandeur de ma joye.
+Rien ne s'oppose plus au succez de mes feux :
+Mon plus grand Ennemy met le comble à mes vœux.
+A l'Hymen où j'aspire une voye est ouverte :
+Et mon Rival luy-même aide à hâter sa perte.
+Un sincere temoin de tout ce qu'il a dit
+En va faire à la Reine un fidele recit.
+Nous triomphons.
 
--*who_le_comte_de_morray
+      Moy des remors ! moy, Comte !
+D'un soupçon qui m'outrage épargnez-moy la honte.
+Quelle peur vous allarme ? Et par quel sort fatal
+Ay-je pû meriter qu'on me traite si mal ?
+Depuis qu'à mes desseins j'ay veu le crime utile
+J'ay secoüé le joug de la vertu sterile.
+Pour acquerir un Trône il n'est point de forfaits
+Qui ne changent de nom, quand ils ont du succez.
+Tant qu'un lâche devoir a reglé ma conduite
+En quel rang ma fortune a-t-elle esté réduite ?
+Et lors que sans effroy je m'en suis écarté
+A quel degré d'honneur suis-je d'abord monté ?
+Pour m'exclure à jamais de la Toute-puissance,
+Ma Soeur m'oppose en vain les droits de sa naissance.
+L' Angleterre exceptée en tous les autres lieux
+Le regne d'une femme est un regne odieux :
+La plus ferme Couronne un moment sur sa teste
+Dans l'Estat le plus calme excite une tempeste :
+Un Sceptre ne sied bien que dans la main des Rois ;
+Et le Trône chancelle à moins qu'il n'ait son poids.
+
+Et quels deffauts ? Allez, ce n'est qu'une manie⁎.
+Il y manque, il est vray, quelque ceremonie ;
+Mais un Roy m'a fait naistre ; & pour l'estre aujourd'huy
+Il suffit que je sois, & que je sois de luy.
+De quelque doux espoir dont ma Soeur s'entretienne
+S'il épousa sa mere, il adoroit la mienne ;
+Et par l'ordre du Ciel il nous donna le jour
+A l'une par devoir, à l'autre par amour.
+
+      Qui ? Ma valeur, mon audace :
+Mon ardeur de regner & de remplir sa place :
+Si le Ciel m'eût fait naistre en un degré plus bas,
+De si beaux mouvemens ne me dureroient pas.
+Pour m'en convaincre mieux, s'il faut encor plus faire,
+J'en croy jusqu'à l'amour que je n'ay pû vous taire :
+Si j'estois né d'un sang qui fût moins glorieux
+Aurois-je sur la Reine osé porter les yeux ?
+Non que vers ses appas un fol amour m'entraîne ;
+Ce qui m'est plus sensible Elisabeth est Reine ;
+A tous les Rois voisins elle impose des loix ;
+Etonne⁎ l'Univers du bruit de ses Exploits ;
+L'Ecosse où je commande, unie à l'Angleterre,
+Je ne craindrois au plus qu'un éclat du Tonnerre,
+Et lors que sur le Trône on se trouve monté
+Qui ne craint que la Foudre est bien en seureté.
+Vos fideles conseils à qui je m'abandonne,
+Ne peuvent balancer l'amour qu'elle me donne :
+Et je ne répons pas qu'avant la fin du jour
+Je ne trouve le temps d'expliquer mon amour.
+Ne m'en détournez point si vous me voulez plaire.
+
+Et pourquoy plus long-temps differer mon espoir ?
+Si l'union des coeurs naist de la ressemblance
+Quel party sous le Ciel a moins de difference ?
+Elle n'épargna rien dans l'espoir de regner ;
+Et qu'est-ce qu'à mon tour on me voit épargner ?
+Pour affermir son Trosne, & luy donner du lustre,
+Elle le cimenta du sang le plus illustre ;
+Moy du Sceptre d'Ecosse avide Ravisseur,
+Je cherche à l'acquerir par la mort de ma Sœur.
+Outre l'appas flateur de cette ressemblance,
+Pour rendre necessaire une telle Alliance
+Le sort d'intelligence⁎ avec nos attentats
+A déja pris le soin de joindre nos Etats.
+Quel Prince dans l'Europe a le même aventage ?
+ 
+Et si je perds la mere auray-je soin du fils ?
+Je luy laisse le jour tant qu'il m'est necessaire ;
+Mais enfin, ce fut moy qui m'immolay son pere :
+Et lors qu'au premier crime on s'est autorisé
+Un second à commettre est beaucoup plus aisé.
+On va plus hardiment affronter l'infamie :
+La main déja coupable en est plus affermie ;
+Et je n'ignore pas ce precepte si beau
+Que l'azile d'un crime est un crime nouveau.
+
+Et quelle ame assez basse ose estre encor rebelle?
+Vous a-t'-on dit le nom du coupable ?
+
+Qui trouble son repos est indigne de vivre.
+Voila mon sentiment que rien ne peut changer.
+De quelque part qu'il vienne écartons le danger.
+Allons trouver la Reine, & luy faisons entendre
+Qu'il faut executer l'Arrest qu'elle a fait rendre.
+La nature outragée a beau s'en émouvoir,
+Sa voix est impuissante où parle mon devoir.
+
+Madame, quelque horreur que le Duc vous imprime,
+Elle n'égale pas la grandeur de son crime.
+Il vouloit, le perfide, attenter à vos jours
+Pour faire réüssir ses nouvelles amours.
+
+      Pour ma Sœur.
+
+      Il l'adore.
+
+      Et quel autre motif
+D'un Ministre d'Estat feroit un fugitif ?
+
+On ne peut luy trouver un supplice trop rude.
+Par un crime si grand il viole à la fois
+Tout ce qu'ont de plus saint les plus augustes loix.
+Il trahit son devoir, vos bien-faits, sa naissance ;
+Il est sans foy, sans zele, & sans reconnoissance :
+Et l'on ne peut, Madame, en cette occasion
+Prendre contre un ingrat trop de précaution.
+Ne souffrez prés de vous que ceux dont le pur zele...
+
+      Charmé de cette confiance
+Je jure que vos jours sont en pleine asseurance,
+Et que vos ennemis n'iront point jusqu'à vous
+Qu'on ne m'ait veu, Madame, expirer sous leurs coups.
+Si l'on ne m'a trompé, nous touchons presqu'à l'heure
+Que pour sa trahison le Duc croit la meilleure.
+Pour flatter ses desirs Neucastel est d'accord
+De luy faire en secret ouvrir le premier Port ;
+Et moy, pour découvrir ses injustes pratiques,
+Je me dois asseurer de tous ses Domestiques.
+Je vais pourvoir à tout. Pour vous, qui tant de fois
+Parûtes consommée⁎ en l'étude des Rois ;
+Qui dés vos jeunes ans réduite à vous contraindre,
+Avec tant de succez apprîtes l'art de feindre ;
+Jusqu'à ce que du Duc le sort soit éclaircy
+Songez que le silence est necessaire icy.
+
+A languir dans la honte on pourroit le contraindre
+Si de sa perfidie on n'avoit rien à craindre.
+Pour nous rendre le joug & le culte Romain
+La Flandre est toute preste à luy tendre la main.
+Peut-estre est-ce pour luy que le Prince de Parme
+Aux rivages d'Ostende a cent Voiles qu'on arme :
+Et vous n'ignorez pas que pendant une nuit
+Un peu de vent en poupe en ce lieu les conduit.
+Pour éteindre en son sang la fureur qui l'anime
+Laissez-moy le surprendre en commettant son crime :
+Vous n'hesiterez plus à vouloir son trépas
+Quand de sa trahison vous ne douterez pas.
+
+A prevenir⁎ nos voeux la Reine se dispose.
+Tantôt dans la chaleur d'un aveugle courroux,
+Pour condamner le Duc elle a fait choix de nous :
+Seure que nostre voix à ses desirs propice
+Suivroit sa passion plûtost que la justice.
+Quatre austeres Vieillards, consommez dans les Loix,
+Dont jamais la faveur n'a corrompu la voix,
+Auroient pû le soustraire à ce destin funeste
+Si je n'avois eu l'art de seduire le reste ;
+Et de leur arracher leurs suffrages douteux
+Par de legers bienfaits que j'ay versé sur eux.
+
+Quelle indigne pitié vous émeut, vous allarme ?
+Quoy dés le premier crime un remors vous desarme !
+Est-ce un prix trop abject pour vous encourager
+Que l'espoir glorieux d'un Trône à partager ?
+Ne donnons pas le temps à l'amour de la Reine
+D'examiner l'Arrest qu'a fait rendre sa haine .
+Pendant que son courroux l'aveugle, & la séduit,
+Asseurons nostre crime, & cueïllons-en le fruit.
+Pour immoler le Duc la hache est déja preste.
+Allez secrettement faire tomber sa teste ;
+Pendant que de ma Sœur, sujette aux mêmes loix,
+J'iray sonder l'esprit pour la derniere fois.
+Quand je perds mon Rival, une fureur égale
+Semble animer la Reine à perdre sa Rivale ;
+Et peut-estre ce jour ne se passera pas
+Sans estre signalé par un double trépas.
+J'ay déja fait...
+
+      Que faites-vous,
+Madame ?
+
+Vous fremissez pour luy du sort qui le menace :
+Et s'il pousse un soûpir il obtiendra sa grace,
+Madame.
+
+Imposteur ! Le respect qu'icy vous devez rendre...
+
+      O Ciel !
+
 Ses ordres sont précis pour perdre sa Rivale,
 Mais sa haine pour l'autre en paroles s'exhale :
 Elle veut faire grace à l'objet de ses feux ;
@@ -1773,16 +1382,6 @@ Sa Maistresse en mourrant fera mourir sa flâme ;
 Et l'ayant condamné, s'il échappe au trépas
 A son ressentiment nous n'échapperons pas.
 
--*who_le_comte_de_neucastel
-Ainsi, Seigneur, ainsi pour toute recompense
-Nous aurons la douleur d'opprimer l'Innocence.
-Ne vaudroit-il pas mieux faire un plus noble effort,
-Et chercher des moyens pour détourner leur mort ?
-Le Duc avec plaisir épouseroit la Reine
-S'il voyoit vostre Sœur à couvert de sa haine :
-Et dans leurs interests les nostres confondus…
-
--*who_le_comte_de_morray
 Ah ! perdons-les, vous dis-je, ou nous sommes perdus.
 Aprés de tels affronts, quelque effort qu'on se fasse,
 Il en reste une horreur qui jamais ne s'efface :
@@ -1797,74 +1396,6 @@ Il faut que de ma haine il devienne la proye ;
 Et dût-elle sur moy le vanger aujourd'huy,
 Je mourray sans regret si je meurs aprés luy.
 
-**** *book_ *id_V01 *act_V *date_1691 *creator_boursault
-
--*who_marie_stuard
-Quand il faudra partir je n'ay rien qui m'arreste.
-Allez dire à vos Pairs que leur Victime est preste ,
-Et qu'à leur premier ordre ils seront obeïs ;
-Quoy que par mon trépas tous les droits soient trahis.
-Le Comte de Morray viendra-t-il ?
-
--*who_melvin
-      Oüy, Madame.
-
--*who_marie_stuard
-Vostre zele, Melvin, est gravé dans mon ame.
-Vous avez de mon sort partagé le courroux,
-Et je vais au trépas sans rien faire pour vous.
-Je meurs, vous le sçavez, Femme, Sœur, Fille & Mere
-Des plus augustes Rois que l'Europe revere ;
-Et dans ce rang suprême il ne m'est pas resté
-Dequoy recompenser vostre fidelité.
-Victime d'un Arrest qu'a dicté l'injustice,
-L'état où je vous laisse augmente mon supplice :
-Aprés un sort si rude il m'eût esté bien doux
-De combler de bienfaits…Et quoy, vous pleurez tous !
-Témoins infortunez des malheurs de ma vie,
-En voyez-vous la fin avec un œil d'envie ?
-Dans un si long orage ay-je trop peu souffert ?
-Faut-il verser des pleurs quand un port m'est offert ?
-Si vous aimez ma gloire épargnez ma foiblesse,
-Et ne m'accablez point à force de tendresse.
-
--*who_melvin
-Madame, vos bontez, mon devoir, vostre rang,
-Ne demandent icy que des larmes de sang.
-Plût au Ciel que le mien, plus ardent que tout autre,
-A vos Persecuteurs pût arracher le vostre !
-Que vostre injuste mort nous va coûter de pleurs !
-Et qu'un jour…
-
--*who_marie_stuard
-      Quelqu'un vient. Contraignez vos douleurs.
-
-**** *book_ *id_V02 *act_V *date_1691 *creator_boursault
-
--*who_marie_stuard
-Approche, ingrat Sujet, dont la haine m'accable,
-Viens me dire du moins dequoy je suis coupable.
-Apprens-moy quel outrage & quels maux je t'ay faits.
-Cruel, mon souvenir n'est plein que de bienfaits.
-Quoy que l'on doute encor de qui tu receus l'estre,
-Pour Enfant du feu Roy je t'ay fait reconnoistre ;
-Et sans approfondir si tu sors de son sang
-Je t'ay fait dans ma Cour tenir le premier rang.
-Tu ne fais que trop voir que tu n'es pas mon Frere
-Par les soins que tu prends à m'estre si contraire.
-Si le sang qui t'anime estoit le sang d'un Roy,
-Serois-tu sans honneur, sans tendresse, sans foy ?
-Elevé dans ma Cour, ta criminelle audace
-Entre le Trône & toy ne put souffrir d'espace :
-Pour m'en faire tomber par de sanglans effets⁎
-La mort de mon Epoux fut un de tes forfaits :
-Mais, ce qui de l'Enfer est le plus noir ouvrage,
-Tu me fis imputer ce qu'avoit fait ta rage ;
-Et par des trahisons, conduites avec art,
-J'expire pour un crime où je n'ay point de part.
-Tu sçais, toy qui l'as fait, que j'en suis innocente.
-
--*who_le_comte_de_morray
 Un Trône prest à choir n'offre rien qui me tente.
 Du Ciel qui le foudroye appuyant le courroux
 C'est son interest seul que je prends contre vous.
@@ -1873,24 +1404,6 @@ Les liens les plus doux n'ont rien que je consulte :
 Et ce que vostre haine appelle ambition
 Est un zele épuré pour la Religion.
 
--*who_marie_stuard
-Si ta Religion t'acquiert le privilege
-D'estre envers une Sœur perfide & sacrilege,
-La mienne, si contraire à celle où tu t'es mis,
-M'apprend à pardonner à tous mes ennemis.
-On me vient avertir qu'il faut quitter la vie.
-Separons-nous en paix, c'est moy qui t'en convie.
-Insensible aux affrons où l'on m'expose icy,
-Je pardonne à la Reine , & te pardonne aussi.
-Puisse mon sang versé par vos brigues⁎ secrettes
-Vous retirer bien-tost de l'erreur où vous estes !
-Si par le juste Ciel mes vœux sont écoutez
-J'en vais faire pour vous qui me persecutez.
-Adieu.
-
-**** *book_ *id_V03 *act_V *date_1691 *creator_boursault
-
--*who_le_comte_de_morray
       Je sens mon cœur qui s'émeut, qui chancelle :
 La voix de la nature au repentir m'appelle.
 Silence, indigne voix, qui me veux attendrir :
@@ -1900,35 +1413,12 @@ Doit faire une vertu d'un crime necessaire ;
 Et preferer toûjours, sans en estre confus,
 Les utiles forfaits aux ingrates vertus.
 
-**** *book_ *id_V04 *act_V *date_1691 *creator_boursault
-
--*who_elisabeth
-Comte, j'allois vous voir. Malgré toute ma haine
-Je ne puis resister au remors qui me gêne⁎.
-En vain ma politique en veut rompre le cours :
-Quelque effort que je fasse il me revient toûjours.
-Je croy de toutes parts entendre le tonnerre ;
-Je croy voir contre moy tous les Rois de la terre ;
-De qui la Majesté, violée à mes yeux,
-Rendroit mon Nom infame, & mon Regne odieux.
-Quoy qu'ait fait vostre Sœur je luy donne sa grace.
-
--*who_le_comte_de_morray
 La clemence sied bien à qui tient vostre place.
 Cette grande vertu, la plus digne des Rois,
 Est le plus glorieux, le plus saint de leurs droits.
 Mais je doute, Madame, & ne puis vous le taire,
 Qu'on approuve jamais ce que vous allez faire.
 
--*who_elisabeth
-Et peut-on approuver l'implacable fureur
-Qui vous fait avec joye immoler vostre Sœur ?
-Est-ce l'injuste espoir de regner aprés elle
-Qui vous rend Frere ingrat, & Sujet infidele ?
-Quand j'impose silence à mon juste courroux
-Si je suis à blâmer, devroit-ce estre par vous ?
-
--*who_le_comte_de_morray
 Pour peu qu'à mon devoir je demeure fidele
 Quels sacrileges vœux puis-je faire pour elle ?
 C'est ma Sœur, il est vray ; mais perisse ma Sœur
@@ -1955,16 +1445,6 @@ Mais si de ses desseins elle venoit à bout
 Le carnage & l'horreur triompheroient par tout.
 Je prevoy des malheurs qui seroient sans limites.
 
--*who_elisabeth
-Comte, je me suis dit tout ce que vous me dites.
-Si ma main secourable ose briser ses fers
-Sa haine pour me perdre armera l'Univers :
-Mais pour vanger sa mort, honteuse aux Diadêmes,
-Tous les Rois offencez m'accableront eux-mêmes ;
-Et pour le bien commun oubliant leurs debats⁎
-Viendront d'intelligence envahir mes Etats.
-
--*who_le_comte_de_morray
 Ma crainte sur ce point égaleroit la vostre,
 Si les Princes voisins se fioient l'un à l'autre.
 Un Roy qui s'affoiblit offre une occasion
@@ -1979,24 +1459,8 @@ Ma Sœur touche à son terme, & dans quelques instans
 On voudroit la sauver qu'il ne seroit plus temps.
 Suivez vostre panchant sans aucune contrainte.
 
--*who_elisabeth
-Vos dernieres raisons ont dissipé ma crainte.
-Qu'elle meure. Et pouquoy me ferois-je un effort
-Pour conserver la vie à qui cherche ma mort ?
-Qu'elle meure. Le Duc, qui me fut si fidele,
-Si je luy rends le jour me rendra tout son zele.
-
--*who_le_comte_de_morray
 Le Duc, Madame ? O Ciel !
 
--*who_elisabeth
-      Tout coupable qu'il est,
-Il est assez puny de sçavoir son Arrest :
-Et s'il faut m'expliquer, quoy qu'ait fait son audace,
-Ce qu'a fait sa valeur sollicite sa grace.
-Un pardon genereux me l'acquiert pour jamais.
-
--*who_le_comte_de_morray
 Madame, croyez-moy, placez mieux vos bienfaits.
 Plus fidele que luy, s'il faut prendre les armes,
 Je mettray vostre Trône à l'abry des allarmes.
@@ -2005,41 +1469,264 @@ Ingrat à vostre amour vous a manqué de foy.
 Que tout autre que luy vous eût montré de zele !
 Aimé comme il l'estoit, que j'eusse esté fidele !
 
--*who_elisabeth
-Insolent ! Vous sçauriez jusqu'où va mon courroux
-Si je pouvois sans honte éclater contre vous.
-Si je laisse impuni l'affront que vous me faites,
-Comte, remerciez la bassesse où vous estes :
-L'intervale est plus grand, quoy qu'il manque de foy,
-Entre vous & le Duc, qu'entre le Duc & moy.
-Pour joindre à ce mépris de plus sensibles peines,
-D'un Criminel si cher allez rompre les chaines :
-Je luy cause des maux où je prends trop de part.
-Portez-luy le pardon…
-
--*who_le_comte_de_morray
       Madame, il est trop tard.
 Il est mort.
 
--*who_elisabeth
-      Il est mort ! Ah, perfide, qu'entens-je !
-
--*who_le_comte_de_morray
 Un si juste trépas le punit & vous vange.
 Coupable envers l'Etat si lâchement trahy,
 Condamné par les Pairs, hay de vous…
 
--*who_elisabeth
-      Hay !
-Ah Traistre ! Dans mon cœur tu sçais ce qui se passe.
-A la Reine d'Ecosse allez porter sa grace,
-Lancastre. Ce Perfide, ennemy de sa Sœur,
-M'a peut-estre engagée à servir sa fureur.
-Qu'on la ramene. Et toy je veux que tu perisses.
+On ne vous a rien dit que mon cœur desavouë.
+A qui veut que le crime éternise ses ans
+Les forfaits les plus noirs sont les plus éclatans.
+Le Roy que fit ma Sœur par son hymen funeste,
+A pery par mon bras, & vous sçavez le reste.
+Fier de ce premier crime, & seur de vostre appuy,
+Je n'ay rien oublié pour la perdre aprés luy.
+La mort qu'elle a soufferte est mon dernier ouvrage ;
+Et son Fils, à son tour eût assouvy ma rage :
+J'en avois donné l'ordre, & j'allois estre Roy
+Si le sort inconstant ne m'eust manqué de foy.
+Vos droits à l'Angleterre estant peu legitimes,
+Et les miens à l'Ecosse estant crimes sur crimes,
+Pour les mieux affermir je cherchois les moyens
+D'unir mon Sceptre au vostre, & vos crimes aux miens.
+Le Ciel cruel aux uns, & favorable aux autres
+S'oppose à mes desseins, & seconde les vostres :
+Tous deux enfans de Rois par un semblable sort
+Il vous éleve au Trône, & me livre à la mort.
+Mais s'il croit la choisir son attente est trompée.
+Quoy qu'on m'ait par son ordre arraché mon épée,
+Son aveugle colere a manqué de prévoir
+Que j'avois, malgré luy, ma mort en mon pouvoir.
+Lors qu'on tombe d'un Trône où l'on a dû pretendre,
+Voila sans balancer le party qu'on doit prendre.
 
-**** *book_ *id_V05 *act_V *date_1691 *creator_boursault
+L'endroit où j'ay frappé rend vostre attente vaine :
+Et j'ay la gloire, au moins dans un sort si fatal,
+De mourir autrement que n'est mort mon Rival.
+J'expire.
 
--*who_le_comte_de_neucastel
+
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeneucastel
+
+Euric, dans ce Palais ne m'accompagnez pas.
+Un Ordre exprés⁎ du Duc conduit icy mes pas.
+Son coeur brûle en secret d'une nouvelle flâme ;
+Ou quelque grand dessein doit roûler dans son ame.
+Pour me le confier il m'a mandé⁎ trois fois :
+Mais toûjours quelque obstacle a retenu sa voix.
+Quoy que l'Ambition ou l'Amour entreprenne
+Ce secret de son coeur n'échape qu'avec peine.
+Il me rappelle encor avec empressement ;
+Et je veux profiter de cet heureux moment.
+S'il me parle en ce lieu, quoy qu'il puisse m'apprendre,
+Le Comte de Morray peut aisément l'entendre :
+Dans l'endroit concerté⁎ j'ay déja pris le soin
+De conduire moy-même un fidele témoin.
+Pour le bien de l'Etat le Comte y devroit estre.
+
+Je me fie à sa foy⁎. Qu'il se fie à mon zele⁎.
+Vaincu par ses raisons⁎, je luy seray fidelle.
+Un serment solemnel, aprés de grands combats⁎,
+Vient de m'associer à tous ses attentats.
+Je vous l'ay déja dit, c'est avec violence
+Que j'embrasse le crime, & quitte l'innocence :
+Mais en vain ma vertu revolte⁎ ma raison ;
+Les remors desormais ne sont plus de saison.
+Le Duc dont la conduite est suspecte à la Reine,
+Se creuse un precipice où j'ay peur qu'il m'entraîne :
+Quoy que de ma fortune il ait esté l'appuy
+J'aime mieux l'y pousser qu'y tomber avec luy.
+Pour essay⁎ d'injustice, insensible à la gloire,
+Déja de cent bien faits j'ay perdu la memoire ;
+Et lors qu'on est ingrat, ne sçavez-vous pas bien
+Que les autres forfaits ne coutent presque rien ?
+Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire
+Allez prester l'oreille à ce qu'il va me dire.
+
+      Seigneur ?
+
+Seigneur, nous sommes seuls. Tout paroist favorable...
+
+Seigneur, me voila prest. Que faut-il entreprendre ?
+Quel que soit le péril où je dois m'exposer
+Mon zele, & vos bienfaits me le font mépriser.
+Que le sort à son gré vous flate ou vous outrage,
+Je n'oubliray jamais que je suis vostre ouvrage ;
+Et que par vos bontez je me voy dans un rang
+Digne d'un plus grand homme, & d'un plus noble sang.
+Je n'examine point quelle main vous opprime :
+Pour deffendre vos droits je croy tout legitime :
+Rien ne m'est plus sacré que ce que je vous doy ;
+Et la reconnoissance est ma premiere loy.
+Ainsi que vos bontez mon zele est sans limites.
+
+Oüy, Seigneur : Et bien-tost par mes soins empressez
+Vous connoistrez vous-même à quel point...
+
+Seigneur, des maux passez perdons le souvenir ;
+Il en est de presens, & qu'il faut prevenir⁎.
+Depuis combien de temps une Reine innocente
+Dans les fers, dans l'opprobre est-elle gemissante ?
+Verrons-nous sans horreur un ouvrage⁎ si beau
+Achever ses destins par la main d'un Bourreau ?
+La fiere Elisabeth, Princesse illegitime,
+Qui n'eût point veu le jour sans le secours d'un crime,
+Peut-elle assujetir la Majesté des Rois
+A l'indigne rigueur de ses injustes loix ?
+Que dira l'Avenir d'une audace si grande ?
+Donnons à la Vertu l'appuy qu'elle demande.
+Des maux dont on l'accable interrompons le cours.
+C'est de nostre valeur qu'elle attend du secours.
+
+Suivons les mouvemens⁎ que le Ciel nous inspire.
+D'une Reine odieuse il veut finir l'Empire.
+Injuste aux Etrangers, cruelle à ses Sujets,
+Elle est d'intelligence⁎ à remplir nos projets :
+Et pour nous dérober au joug qui nous opprime
+S'il faut que malgré nous il nous échape un crime,
+De quoy que nostre esprit puisse estre combattu,
+C'est un crime forcé qu'approuve la Vertu.
+S'il vous manque, Seigneur, un bras pour le commettre,
+Pour le bien de l'Etat je puis tout me permettre ;
+Ne laissez point languir mon zele impatient.
+L'esprit d'Elizabeth, inquiet, défiant,
+Tend des pieges secrets que jamais on n'évite
+A moins qu'on n'entreprenne aussi-tost qu'on médite⁎ .
+En de plus dignes mains transmettons son pouvoir,
+Avant qu'elle ait le temps de s'en apercevoir.
+Enfin prescrivez-moy ce qu'il faut que je fasse.
+
+Vous ne pouviez, Seigneur, dans un sein plus fidèle
+Deposer le secret d'une flâme si belle.
+Tout mon sang répandu pour vous prouver ma foy
+Ne m'acquiteroit pas de ce que je vous doy.
+Offrez-moy le moyen de vous faire paroistre…
+
+Oüy, Seigneur, je le suis ; Et c'est par vostre choix
+Que la Mer Britânique obéït à mes loix.
+Que puis-je ? Commandez. Et quoy que je hazarde...
+
+Je ne puis condamner une si noble envie :
+Mais de ce grand dessein l'évenement⁎ douteux⁎
+Expose vostre teste au sort le plus honteux.
+Souvent de tels projets ont des suites cruelles ;
+Des Soldats corrompus sont rarement fideles ;
+Et vous n'ignorez pas, Seigneur, que sur ce point
+La Reine est inflexible & ne pardonne point.
+A la Cour, où la foy⁎ n'ose presque paroistre,
+L'espoir de s'agrandir⁎ fait aisément un traitre.
+Si vous estes surpris vous vous perdez.
+
+Seigneur, à ces raisons⁎ je n'ose m'opposer :
+La grandeur du peril les doit autoriser.
+Pour dérober sa vie au sort qui la menace
+Dites-moy quel effort vous voulez que je fasse.
+Encor un coup, Seigneur, je suis prest...
+
+      Seigneur, je croy le voir paroistre :
+Laissez-moy de son coeur penetrer les secrets.
+Pour remplir vos desirs je vous suivray de prés.
+
+He bien, Seigneur...
+
+      Seigneur, j'ay toûjours même zele :
+Mais prestez de la force à mon coeur qui chancelle ;
+Et puisque le silence est encor à mon choix,
+Laissez-moy vous parler pour la derniere fois.
+J'entreprens une route où j'ay peu d'habitude :
+J'y marcheray, Seigneur, avec incertitude.
+Au milieu du chemin que vous m'avez tracé
+Je puis me repentir de l'avoir commencé.
+Quand je songe à l'horreur qui suit le nom de Traistre,
+Des retours de vertu me font craindre de l'estre.
+Quoy que par vos conseils vous m'ayez inspiré
+J'ay peur d'avoir promis plus que je ne feray.
+Mon ame chancelante, incertaine, confuse,
+Tantost s'offre à la honte, & tantost s'y refuse ;
+Et je voy trop de risque à vous y confier
+Si je n'ay vostre appuy pour me fortifier.
+Avez-vous vers le crime un penchant si rapide
+Que rien ne vous arreste, ou ne vous intimide ?
+Vostre Soeur immolée il ne sera plus temps
+D'honorer sa vertu de regrets impuissans.
+Quoy que de sa rigueur Elisabeth l'accable,
+Nous sçavons, vous & moy, qu'elle n'est point coupable ;
+Et si quelque tendresse excitoit vos remors
+Jugez en quel peril je me verrois alors.
+Il faudroit que mon sang...
+
+Seigneur, d'Elle & de Vous la naissance inégale
+Decide en sa faveur de la grandeur Royale :
+Et si j'ose, entre-nous, vous le dire tout bas
+La vostre a des deffauts que la sienne n'a pas.
+
+Il est vray : Mais, Seigneur, par une loy severe
+Aucun de vos pareils ne succede à son pere.
+Et d'ailleurs, le feu Roy, quoy qu'on ait entrepris,
+N'a jamais avoüé que vous fussiez son fils.
+Qui justifiera...
+
+Et concevez-vous bien ce que vous allez faire ?
+D'un amour qui luy plut son coeur encor frappé,
+Pour écouter le vostre est trop préoccupé.
+Pour faire de son Trône une heureuse conqueste
+Attendez que du Duc elle ait proscrit la teste ;
+Et gardez-vous, Seigneur, de laisser entre-voir...
+
+Mais l'Ecosse, Seigneur, n'est pas vostre heritage.
+Le Roy, vostre Neveu, quoy que jeune & soumis...
+
+Seigneur, c'en est assez. Surpris de vous entendre
+Je ne consulte plus quel party je dois prendre.
+Quoy que fasse le sang, il faudra peu d'efforts
+Pour mettre un si grand coeur au dessus des remors.
+Je vais trouver le Duc, & servir vostre haine.
+Vous, pour haster sa perte allez trouver la Reine :
+Et faites avec art entrer dans vos discours
+Que de ses jours sacrez il veut borner le cours.
+Enfin, pour la contraindre à la reconnoissance
+Du zele le plus pur empruntez l'apparence.
+Accoûtumez son cœur…
+
+Oüy, Seigneur, je vous plains, une cheute si prompte...
+
+      La Reine attend l'Ordre sacré
+Dont sa main autrefois vous avoit honoré.
+Cette pompeuse Marque, en ce lieu si cherie,
+Sous le fer d'un Bourreau luy sembleroit flétrie.
+Elle m'envoye exprés pour vous la demander.
+
+O Ciel ! à quelle honte aujourd'huy je m'expose !
+
+Je ne puis plus, Seigneur, faire un pas en arriere
+Il faut que malgré moy j'acheve ma carriere.
+Aprés mille bienfaits honteusement déceus⁎,
+J'assassine un Heros dont je les ay receus.
+Avant que de vous voir je détestois le crime ;
+Vous m'avez fait braver la honte qu'il imprime ;
+Un appas de grandeur a corrompu ma foy :
+Et si vous l'oubliez lors que vous serez Roy,
+De Mechant à Mechant, quoy que l'on se promette,
+L'union la plus forte est toûjours imparfaite ;
+Et jusques sur le Trône où vous serez assis
+Vous me feriez raison de mes forfaits trahis.
+Une belle action offre au moins pour salaire
+A celuy qui la fait, le plaisir de la faire :
+Mais des crimes perdus ne laissent aprés eux
+A qui les a commis qu'un desespoir affreux.
+
+      Seigneur, je voy venir la Reine.
+
+Ainsi, Seigneur, ainsi pour toute recompense
+Nous aurons la douleur d'opprimer l'Innocence.
+Ne vaudroit-il pas mieux faire un plus noble effort,
+Et chercher des moyens pour détourner leur mort ?
+Le Duc avec plaisir épouseroit la Reine
+S'il voyoit vostre Sœur à couvert de sa haine :
+Et dans leurs interests les nostres confondus…
+
 Madame, à mes forfaits preparez des supplices.
 Interdit, penetré d'une juste douleur,
 Je ne parois icy que pour vous faire horreur.
@@ -2050,10 +1737,6 @@ L'exemple que je dois auroit esté perdu ;
 Et pour voir avec fruit ma trahison punie,
 Il faut que je perisse avec ignominie.
 
--*who_elisabeth
-Quel sujet vous anime à tenir ce discours ?
-
--*who_le_comte_de_neucastel
 D'une Reine innocente on a tranché les jours.
 Par les crimes d'autruy la vertu malheureuse
 A de toutes les morts souffert la plus affreuse.
@@ -2066,10 +1749,6 @@ Ma main à m'en punir ne balanceroit pas :
 Jugez, par cette loy que l'équité m'impose,
 Ce que je dois souffrir puis que j'en suis la cause.
 
--*who_elisabeth
-Vous, ô Ciel !
-
--*who_le_comte_de_neucastel
       Moy, Madame. Un aveu si honteux
 Vous anime à ma perte ; & c'est ce que je veux.
 J'offre à vostre justice une digne matiere.
@@ -2087,18 +1766,6 @@ A par une autre voye assassiné sa Sœur ;
 Et si l'on ne previent sa detestable envie
 Leur Fils en son pouvoir doit trembler pour sa vie.
 
--*who_elisabeth
-Hola, Gardes.
-
--*who_euric
-      Madame.
-
--*who_elisabeth
-      Asseurez-vous de luy.
-Traistre, qui de mon Trône as fait tomber l'appuy,
-Ton sang, pour le vanger, répandu goute à goute…
-
--*who_le_comte_de_neucastel
 Pour commencer sa peine ordonnez qu'il m'écoute.
 La douloureuse mort de son auguste Sœur,
 Tout barbare qu'il est, va luy percer le cœur.
@@ -2184,63 +1851,90 @@ Et pour mieux me punir, s'ils épargnent mes jours,
 C'est à vostre justice où sera mon recours.
 Je l'attends.
 
--*who_elisabeth
-      Qu'on le suive, & que l'on m'en réponde.
 
-**** *book_ *id_V06 *act_V *date_1691 *creator_boursault 
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lancastre
 
--*who_elisabeth
-He bien, sens-tu, méchant, que ton cœur te confonde ?
-Te sens-tu dans le crime assez bien affermy,
-Monstre, que dans ces lieux les Enfers ont vomy ?
-De tes lâches projets la fortune se jouë.
+      Ah, Seigneur, hâtez-vous,
+Et venez de la Reine appaiser le courroux.
+Je ne puis deviner qui conspire contr'elle ;
+Mais elle est resoluë à punir un rebelle,
+Un perfide, un ingrat digne de sa fureur,
+Et pour qui son estime est changée en horreur.
+Venez par vos conseils dissiper les allarmes
+Qui d'un si beau destin empoisonnent les charmes :
+Pour détourner l'orage, ou pour le prévenir,
+Elle vous fait chercher pour vous entretenir.
+Dans cette occasion montrez-luy vostre zele.
 
--*who_le_comte_de_morray
-On ne vous a rien dit que mon cœur desavouë.
-A qui veut que le crime éternise ses ans
-Les forfaits les plus noirs sont les plus éclatans.
-Le Roy que fit ma Sœur par son hymen funeste,
-A pery par mon bras, & vous sçavez le reste.
-Fier de ce premier crime, & seur de vostre appuy,
-Je n'ay rien oublié pour la perdre aprés luy.
-La mort qu'elle a soufferte est mon dernier ouvrage ;
-Et son Fils, à son tour eût assouvy ma rage :
-J'en avois donné l'ordre, & j'allois estre Roy
-Si le sort inconstant ne m'eust manqué de foy.
-Vos droits à l'Angleterre estant peu legitimes,
-Et les miens à l'Ecosse estant crimes sur crimes,
-Pour les mieux affermir je cherchois les moyens
-D'unir mon Sceptre au vostre, & vos crimes aux miens.
-Le Ciel cruel aux uns, & favorable aux autres
-S'oppose à mes desseins, & seconde les vostres :
-Tous deux enfans de Rois par un semblable sort
-Il vous éleve au Trône, & me livre à la mort.
-Mais s'il croit la choisir son attente est trompée.
-Quoy qu'on m'ait par son ordre arraché mon épée,
-Son aveugle colere a manqué de prévoir
-Que j'avois, malgré luy, ma mort en mon pouvoir.
-Lors qu'on tombe d'un Trône où l'on a dû pretendre,
-Voila sans balancer le party qu'on doit prendre.
+      Seigneur,
+Je n'ose en soupçonner la Reine vostre Sœur.
+Mais un des Officiers qui doit répondre d'elle
+A sans doute à la Reine appris quelque nouvelle.
+Il l'a veüe en secret ; & même en ce moment
+Elle luy parle encor en son Appartement.
+Vostre avis est le seul que la Reine veut suivre.
 
--*who_elisabeth
-Faites tous vos efforts pour tromper⁎ ses projets.
-Il est trop peu puny pour de si grands forfaits.
-Il merite, le Traistre, une plus longue peine.
+      A quoy, Madame, estes-vous resoluë ?
 
--*who_le_comte_de_morray
-L'endroit où j'ay frappé rend vostre attente vaine :
-Et j'ay la gloire, au moins dans un sort si fatal,
-De mourir autrement que n'est mort mon Rival.
-J'expire.
+Croyez-vous de vostre ame estre assez la maistresse,
+Pour en bannir d'abord ce qu'elle eut de tendresse ?
+Et pour peu qu'il en reste à vous parler pour luy,
+Pour fléchir vostre coeur est-ce trop foible appuy ?
+Quand vous la sentirez vous demander sa grace,
+Prompte à le garentir du sort qui le menace,
+La main qui l'éleva le soûtiendra toûjours :
+Il vous doit sa fortune, & vous devra les jours.
 
-**** *book_ *id_V07 *act_V *date_1691 *creator_boursault
+Si le Duc de Norfolc, que peut-estre on opprime,
+N'est coupable envers vous que de ce dernier crime,
+Jamais aucune loy n'a fixé de tourmens
+Dont on ait veu punir les crimes des Amans.
+Cependant pour sa mort j'apperçoy qu'on affecte
+Une si grande ardeur qu'elle est un peu suspecte.
+Quand d'un crime d'Etat on se croit asseuré,
+On a fait son devoir dés qu'on l'a declaré :
+Empescher qu'au coupable on ne laisse la vie
+C'est trop montrer, Madame, ou de haine ou d'envie ;
+Et pour sauver le Duc si les remors sont vains,
+Vous verrez que le Comte a de plus hauts desseins.
+Il est jeune & sensible : & vos charmes...
 
--*who_elisabeth
-      Juste Ciel ! quelle suite de crimes !
-Que la haine & l'amour ont d'injustes maximes⁎ !
-Et qu'un cœur déreglé, qui suit leurs mouvemens
-Se condamne soy-même à de cruels tourmens !
-Heros trop malheureux ! trop malheureuse Reine !
-Victimes tout ensemble & d'amour & de haine,
-Ne me reprochez point vostre injuste trépas :
-Vous goûtez un repos dont je ne joüis pas.
+Madame, pardonnez si j'ay crû que sa foy...
+
+Non, Madame, les Pairs ne viennent point encore.
+Vous vous estes levée aussi-tost que l'Aurore.
+Tant qu'a duré la nuit vostre esprit agité
+N'a laissé nul repos à vostre Majesté.
+
+Oüy, Madame, à l'instant vous l'allez voir paroître.
+
+      Madame, ils vont entrer tous deux.
+
+
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euric
+
+Seigneur, en ce moment il nous entend peut-estre.
+Je viens vous repeter les sermens qu'il a faits
+De porter⁎ vostre sort plus loin que vos souhaits.
+Si jusqu'à son hymen Elizabeth l'éleve,
+Si par la mort du Duc cette union s'acheve,
+Sans cesse de son Trône infatigable appuy
+Vous douterez qui regne ou de vous ou de luy.
+
+      Madame ?
+
+Dans son Appartement la Reine est retirée,
+Seigneur ; & tout conspire à remplir vos souhaits.
+Nous sommes asseurez des portes du Palais.
+D' Ecossois genereux une Troupe intrepide
+Doit servir à sa Reine & d'escorte & de guide.
+Ces momens fortunez ne se retrouvent pas.
+
+      Seigneur, elle vient aprés moy.
+Touché de la frayeur dont son ame est atteinte,
+Je devance ses pas pour dissiper sa crainte.
+Un peu d'émotion meslée à ses attraits
+Vous la va faire voir plus belle que jamais.
+
+      Madame.
+

@@ -1,29 +1,758 @@
 
 
-**** *book_ *id_I01 *act_I *date_1685
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
 
--*who_pharnabaze
+Enfin, grâces aux dieux, nous sommes dans Sardis,
+Ma fille mille soins occupent mes esprits ;
+Souffrez que de ces soins la suite nécessaire
+Pour quelque temps ici vous cache votre père,
+Allez vous reposer dans votre appartement,
+Je veux entretenir Artémise un moment,
+L'instruire d'un secret où son coeur s'intéresse.
+
+      Oui, Madame, et vous que l'on nous laisse.
+
+Voici le jour fatal que j'ai tant souhaité.
+Madame, où ce dessein si longtemps concerté
+D'emporter sur la Grèce une entière victoire,
+Doit marquer à jamais ou ma honte ou ma gloire,
+Mes soldats sont tout prêts, et les vents et les eaux
+Semblent pour me conduire attendre mes vaisseaux ;
+Un mouvement secret vers la Grèce m'appelle,
+Mais parmi tous les soins que ce jour renouvelle,
+Alcibiade seul fait mon plus grand ennui,
+Près de moi dans ma Cour vous fûtes son appui ;
+C'est pour cette raison que j'ai voulu, Madame,
+Vous confier son sort, et vous ouvrir mon âme.
+
+Je n'ai rien fait alors que ce que j'ai dû faire ;
+La Perse jouissait d'une profonde paix,
+Mais la guerre aujourd'hui change tous nos projets :
+Sera-t-il dans ces murs l'espion de la Grèce :
+Lorsqu'elle servira ma fureur vengeresse,
+Que j'irai l'attaquer, laisserai-je à Sardis
+Un Grec pour lui donner mille secrets avis ?
+Ne nous assurons point sur le sanglant outrage
+Dont les Athéniens ont payé le courage,
+Nous voyons tous les coeurs que la Grèce a nourris,
+Du soin de sa grandeur si vivement épris,
+Que bannis de son sein, accablez d'injustices,
+Ils lui font chaque jour de nouveaux sacrifices,
+Trop heureux de pouvoir partout leur sang versé
+Servir un seul moment leur pays menacé.
+
+Ah ! S'il le faut avec moi le mener dans la Grèce,
+Ne sentira-t-il point encore quelque tendresse
+À l'aspect de ces lieux, de sa gloire témoins,
+Qui furent si longtemps l'objet de tous ses soins ;
+Insensible et fidèle à nos mortelles haines,
+Verra-t-il d'un oeil sec tomber les murs d'Athènes
+Et refusera-t-il son bras victorieux
+À la Grèce mourante, et mourante à ses yeux ?
+Ah ! Sans trop l'accuser d'une humeur inconstante,
+La haine céderait à la pitié présente ;
+Ainsi soit qu'il demeure, ou qu'il vienne avec moi,
+Il me gêne partout, partout je crains sa foi ;
+Ce n'est pas tout. Des Grecs la pompeuse ambassade
+N'est que pour demander la mort d'Alcibiade.
+
+Non, je n'ai point, Madame, encore conclu sa perte ;
+Et puisque de son sort je confère avec vous,
+Croyez que je lui garde un traitement plus doux ;
+J'estime sa valeur, sa gloire me fut chère,
+Il a mile vertus que mon âme révère ;
+J'ai conservé sa vie, et veux même aujourd'hui
+Si le sort y consent, faire encore plus pour lui ;
+Mais il faut que l'État, que la raison conspire
+Avec l'heureux penchant qui vers ce Grec m'attire,
+Et que la politique approuvant sa grandeur
+Me mette en liberté d'augmenter sa faveur.
+Si les ambassadeurs que la Grèce m'envoie
+Obtiennent qu'en leurs mains je remette leur proie,
+La Grèce cède Ephèse, et demande la paix ;
+Mais si par un refus je confonds leurs projets,
+Ils n'épargneront rien dans l'ardeur qui les presse,
+Pour calmer ces chagrins et l'attirer en Grèce
+Un homme comme lui n'est pas à dédaigner,
+Il faut absolument le perdre ou le gagner,
+Vous-même concevez par le pressante envie
+Que marquent tous les Grecs de s'immoler sa vie
+Par les soins dont leur haine achète son trépas.
+Combien ils craignent tous les efforts de son bras ?
+
+Faites dont plus, Madame, et puisque dans ma Cour
+Vous m'assurez pour lui d'un éternel séjour,
+Rendez-lui pour jamais ce séjour nécessaire,
+En redoublant des Grecs la haine et la colère,
+Et joignez de si près Alcibiade à moi,
+Qu'ils ne puissent jamais se fier à sa foi ;
+Pour lui vous avez pris une si forte estime,
+À conserver ses jours tant d'ardeur vous anime :
+Ah ! S'il faut sans détour m'expliquer avec vous
+Je serais sûr de lui s'il était votre époux,
+Je ne vous prescris point encore cette hyménée,
+Il pourrait seul pourtant fixer sa destinée,
+Faire taire les Grecs, venger tous ses malheurs,
+Assurer sa fortune, et finir mes frayeurs.
+Surtout ne croyez point qu'ici ma politique,
+Immole votre sort à la grandeur publique,
+Et vous faisant pour nous cet effort glorieux,
+vous ne descendrez point du rang de vos aïeux :
+Vous verrez votre époux si chéri d'Artaxerce,
+Qu'il sera le premier après moi dans le Perse,
+Et que toute ma Cour tombant à vos genoux,
+Partagera ses soins et son zèle entre nous.
+Adieu je ne veux point presser votre réponse,
+Consultez à loisir ce que je vous annonce :
+Je vous verrai dans peu, songez qu'en votre main
+De ce fameux proscrit vous tenez le destin.
+
+Artémise m'évite et s'éloigne d'ici.
+
+Qu'on cherche Alcibiade, il faut lui faire entendre
+Quels bienfaits, quels honneurs l'attendent en ces lieux,
+J'ai caché mes soupçons et son sort à vos yeux,
+Pharnabaze, j'ai craint votre amitié fidèle,
+Et je n'ai pas voulu commettre votre zèle
+Avec les intérêts d'un ami tel que lui ;
+Mais enfin ses malheurs finiront aujourd'hui,
+J'espère que charmé du prix dont je l'honore,
+Il sera le premier à passer le Bosphore,
+Et qu'au bruit de son nom tous les Grecs étonnés
+Livreront aux Persans leurs ports abandonnés ;
+Mais cependant parlez, vous avez vu l'armée,
+À remplir mes désirs paraît-elle animée ?
+
+Vous versez dans mon coeur les plaisirs les plus doux,
+J'irai dans un moment, mais on vient, laissez-nous.
+
+Approchez, il est temps de finir l'un et l'autre
+Les importuns soupçons de mon coeur et du vôtre,
+Oublions les raisons qui vous firent quitter
+Des lieux où tout semblait vous devoir arrêter,
+Je ne m'attendais pas de vous voir disparaître
+Dans un temps... Mais enfin vous en étiez le maître
+Par votre éloignement vous n'aurez rien perdu,
+Reprenez près de moi le rang qui vous est dû.
+
+      Pour répondre à ma faveur nouvelle,
+Il ne faut que vos soins, vos conseils, votre zèle.
+Enfin, j'en ai besoin encore plus que jamais,
+Et pour les obtenir j'y joins vos intérêts.
+Vous savez qu'en ces lieux une nombreuse armée
+Sous moi depuis longtemps à vaincre accoutumée
+Attend l'ordre fatal qui doit la faire agir,
+Et ne sait de quel rang ses traits doivent rougir ;
+C'est du sang de la Grèce. Oui, c'est votre patrie
+Qui doit de cette armée éprouver la furie,
+Les Grecs vous ont banni, nous sommes outragés
+Mais j'ose me flatter que nous serons vengés.
+
+      Finissez un discours trop flatteur,
+Et ne présumez pas que plein de ma grandeur
+Ébloui de l'éclat de cet empire immense,
+Dont cent peuples divers composent la puissance,
+Je pense sans péril dompter des ennemis
+Que tant d'illustres rois n'ont jamais vu soumis ;
+Ainsi, sans me flatter avec toute la terre,
+Parlez ? Comment faut-il conduire cette guerre ?
+Quel succès croyez-vous que j'en doive espérer ?
+En quels lieux, en quel temps, par où faut-il entrer ?
+
+Je ne m'attendais pas à ce libre discours,
+Cependant sans chagrin j'en ai permis le cours :
+Vous honorez les Grecs d'une trop haute estime,
+De ma juste colère ils seront la victime ;
+Non que je les méprise, et veuille me cacher,
+Que la pure vertu chez eux se doit chercher ;
+Mais il est chez ces Grecs des brigues et des haines,
+Et des peuples jaloux et de Sparte et d'Athènes ;
+Ces peuples m'ouvriront leurs chemins et leurs ports,
+Ils viendront avec joie appuyer mes efforts,
+Pour détruire l'orgueil de ces villes trop fières,
+Et les faire sous moi succomber les premières ;
+D'ailleurs quels chefs ont-ils qui puissent m'arrêter ?
+Si jadis à Xerxes on les vit résister ;
+Il avaient Thémistocle, ils avaient Miltiade,
+Plus que tous ces guerriers j'ai craint Alcibiade ;
+Mais il est parmi nous, et ces peuples ingrats
+On engagé son coeur à me prêter son bras ;
+Oui, j'attends de vous seul cet illustre conquête,
+Ah ! Lorsque mes soldats vous verront à leur tête
+Que n'oseront-ils point sous un chef tel que vous ?
+Vengez donc votre exil en servant mon courroux.
+
+      Oui, vous-même, il est temps que la Grèce
+Ressente par vos mains ma fureur vengeresse,
+N'allez point m'opposer par un subtil détour
+Que ce pays ingrat vous a donné le jour,
+Qu'il est toujours honteux d'accabler sa patrie ;
+Enfin souvenez-vous qu'Artaxerce vous prie,
+Ou plutôt qu'il commande, et c'est assez pour vous ;
+Mais pour vous engager par des moyens plus doux
+Avant que de tenter cette grande entreprise
+Je vous offre le coeur et la main d'Artémise.
+Le flambeau de l'hymen pour vous doit s'allumer,
+J'ai fait ce choix, son coeur l'a daigné confirmer,
+Épousez-la. Voyez quel honneur vous prépare,
+Malgré les Grecs jaloux, une faveur si rare.
+Hâtez-vous d'y répondre, allez sur nos autels
+Pour témoins de vos feux prenant les immortels
+Jurer en même temps la perte de la Grèce,
+Confondre des serments de haine et de tendresse,
+Et sans vous arrêter à de communs succès
+Portez votre valeur plus loin que mes souhaits.
+
+      Oui, ma vengeance
+Ne peut être remise en de meilleures mains
+Qu'en celles d'un guerrier que mille affreux dédains,
+Mille sanglants affronts ont chassé de la Grèce ;
+Mais je vois dans vos yeux des marques de tristesse
+Vous recevez mes dons avec tant de froideurs ?
+
+Vous ne répondez rien ? Quel trouble ?
+
+Faibles déguisements, impuissantes raisons !
+Je sens plus que jamais renaître mes soupçons,
+Je sais ce qu'il faut croire, et toute votre adresse
+Ne saurait me cacher votre amour pour la Grèce.
+
+Mais vous souvenez-vous qu'abandonné, proscrit,
+Enfin, c'est par moi qu'Alcibiade vit ?
+
+      Je ne veux rien, perfide,
+Je connais ta pensée et le soin qui te guide,
+C'en est fait. Indigné de tes lâches refus
+À protéger tes jours rien ne m'engage plus ;
+Apprends donc que les Grecs me demandent ta tête ;
+Qu'elle leur tiendra lieu d'une illustre conquête,
+Que leurs ambassadeurs arrivent sur mes pas,
+Prêts à tout m'accorder pour hâter ton trépas,
+Aux yeux de l'univers tu seras la victime,
+Je pourrais dans leur mains te remettre sans crime ;
+Cependant fuis leurs coups, sauve-toi malheureux,
+Cours loin de mes États te cacher si tu peux ;
+Mais grâce au destin tu vois toute le terre
+Attaché à te faire une mortelle guerre
+Entouré d'ennemis et de persécuteurs
+Si tu sors de mes mains tu tombes dans les leurs,
+Le ciel même ne peut t'affranchir de l'orage,
+Ingrat, dans ce moment rappelle ton courage,
+Ton coeur en a besoin, ne t'en prends point à moi,
+Et n'impute ta honte et ta perte qu'à toi.
+
+J'ai prononcé, Madame, et vous serez vengée
+À punir un ingrat ma gloire est engagée,
+Ma pitié désormais ne saurait l'épargner
+Sans rompre la traité que je viens de signer,
+Ce jour éclairera cette mort légitime.
+Les Grecs impatients poursuivent leur victime,
+Et dans ces mêmes lieux témoins de ses mépris
+Cet infidèle coeur en recevra le prix,
+Son adresse ne peut le cacher à leur vue,
+Ici de tous côtés leur troupe est répandue,
+Il n'est point de passage, il n'est point détour
+Que leurs yeux irrités n'observent tour à tour
+Jamais contre un tyran des peuples en furie
+N'ont montré tant de haine, et tant de barbarie,
+Que contre ce proscrit autrefois leur appui.
+Ces mortels ennemis en font voir aujourd'hui :
+Mais quoi vous frémissez, craignez-vous de m'entendre ?
+
+Ô ciel ! De ce discours que faut-il que je pense ?
+J'ai cru voir dans vos yeux les plus vives fureurs,
+Cependant je n'y vois que les plus tendres pleurs.
+Un banni de la Grèce ose braver la Perse.
+Il méprise les dons, l'amitié d'Artaxerce,
+Il refuse la main que vous lui présentez;
+Et pour ses jours encore vous vous inquiétez ?
+Quel mouvement secret, quel force invincible
+À tant d'affronts reçus peut vous rendre insensible ?
+Avez-vous oublié l'orgueil de votre sang,
+Et tous les fiers devoirs qu'exige votre rang ?
+Mais quoi tous mes efforts, tant de raisons pressantes
+Contre un lâche ennemi deviennent impuissantes ?
+
+      Qu'entends-je ? Justes dieux,
+Qu'il entre, que mon âme est ici combattue ?
+Puis-je ? Mais quel objet se présente à ma vue ?
+
+Ah ! Que m'apprenez-vous ?
+
+      Je vois que ce coup vous accable
+Mais loin de condamner de si justes douleurs
+Je suis prêt avec vous de répandre des pleurs.
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_palmis
+
+Je vous cherche Madame, un désir curieux
+Précipite mes pas et m'amène en ces lieux ;
+Sans offenser le Roi, me pourrez-vous apprendre
+Les desseins, les secrets qu'il vous a fait entendre ?
+Madame, oserez-vous les fier à ma foi ?
+
+      Qu'a-t-il donc pu vous dire ?
+
+Non, non, à son bonheur je ne puis consentir.
+
+      Je ne prétends point vous cacher ma surprise,
+Ni mes chagrins secrets sur l'hymen d'Artémise,
+Dès mes plus jeunes ans soumise à vos avis,
+Je ne me repens point de les avoir suivis ;
+Mais je sens qu'aujourd'hui toute votre sagesse
+Aura peine à calmer la douleur qui me presse.
+
+Cependant, c'est vous seule, ô ma chère Amestris,
+Qui pouvez redonner le calme à mes esprits,
+Et par ces mêmes soins à qui ma douleur cède,
+Suspendre ou soulager l'ennui qui me possède.
+
+Je ne sais si l'on doit donner le nom de flamme
+Aux mouvements confus qui déchirent mon âme ;
+Mais je ne peux souffrir les traits injurieux
+Dont vous osez noircir un héros glorieux,
+Pouvez-vous ignorer la gloire de sa vie ?
+Ah ! Ce vil étranger digne objet de l'envie,
+Ce banni, ce proscrit que vous me reprochez,
+Du monde entier sur lui tient les yeux attachés ;
+C'est lui dont la valeur tant de fois couronnée
+Ranima la vertu de la Grèce étonnée,
+Qui forçant la fortune à seconder son bras,
+Vainquit autant de fois qu'il donna de combats ;
+C'est lui dont les regards, et dont le front auguste
+Font naître une tendresse aussi prompte que juste,
+Et s'il faut encore plus pour le combler d'honneur
+Lui seul a pu troubler le repos de mon coeur.
+
+Pouvez-vous ignorer ce funeste secret ?
+Je ne vous celai point ma première surprise,
+Je la sens réveillée par l'espoir d'Artémise
+Il me trouble, il me gêne, il déchire mon coeur,
+Et ses heureux transports irritent ma douleur.
+
+Je n'ai point oublié le rang où je suis né ;
+Je sais combien du sang l'impérieuse loi
+A mis de différence entre Artémise et moi,
+Qu'Alcibiade enfin peut s'unir avec elle,
+Qu'à l'hymen d'un grand roi ma naissance m'appelle,
+Je le sais. Mais les lois et ces pompeux discours,
+Conte un charme puissant sont d'un faible secours :
+Lorsqu'on trouve un héros d'un mérite suprême,
+Qu'il fait en sa faveur parler la vertu même,
+Qu'il paraît seul aimable et seul digne de vous,
+De ces occasions que le penchant est doux ?
+Qu'un coeur en cet état qui se fait violence
+Pleure souvent l'honneur d'une illustre naissance ?
+
+Non, j'ose défier tous les traits de l'envie,
+Plus par ces mouvements mon coeur est combattu,
+Et plus vous connaîtrez ce que peut ma vertu,
+Quand ce même guerrier n'eut cherché qu'à me plaire,
+Il eut reçu de moi des mépris pour salaire.
+Cependant, et telle est l'injustice d'un coeur
+Dont l'amour en secret s'est rendu le vainqueur,
+Je ne saurais souffrir qu'un autre eut l'avantage
+D'arrêter dans ses fers ce superbe courage ;
+Mais c'est trop prolonger d'inutiles discours ;
+Observons avec soin leur sort et leurs amours,
+Puisque je perds ce coeur à qui ma fierté cède,
+Dieux puissants, empêchez qu'un autre le possède.
+
+Je vois malgré vos soins qu'en secret agitée,
+Vous sentez les transports d'une amante irritée,
+L'indifférence enfin que vous me faites voir
+Est l'infaillible effet d'un mortel désespoir,
+Que dis-je de vos yeux le trouble vous accuse.
+
+Vous ne l'aimez donc plus ? Mais vous l'avez aimé,
+Ce penchant par vos soins nous fut trop confirmé ;
+Pourrez-vous sans frémir vous faire une victime
+D'un coeur qui vous parut digne de votre estime ?
+Pour moi, vous le savez, insensible à l'amour
+Mon coeur est libre encore, mais s'il aimait un jour,
+Quelque injuste que fut l'auteur de mes alarmes,
+Je sens que contre lui je n'aurais que des larmes,
+Quand il me haïrait je l'aimerais toujours,
+Dans les moindres périls ardente à son secours
+J'y veillerais sans cesse, et ma plus chère envie
+Serait de le sauver aux dépends de ma vie :
+Ah ! Quand vers quelque objet on a porté ses voeux
+Est-il rien de plus bas que d'éteindre ses feux ?
+Mais qu'il est peu d'amours longues et violentes ?
+Surtout que l'on voit peu de ces femmes constantes,
+Qui jusques au tombeau fidèles à leurs choix,
+N'ont aimé, n'ont brûlé, ne l'ont dit qu'une fois,
+Madame, écartez-vous de la route commune,
+D'Alcibiade enfin détournez l'infortune,
+Ne vous assurez point sur un dépit trompeur,
+Et craignez un retour mortel à votre coeur.
+
+Que me demandez-vous, que pouvez-vous attendre
+D'une faible pitié qui ne peut vous défendre ?
+Artémise et le roi brûlent d'un fier courroux,
+Contre eux, vous le savez, je ne puis rien pour vous.
+
+Je ne puis rassurer mon esprit confondu,
+Quel discours ? Quelle audace ? Ai-je bien entendu ?
+Un banni de la Grèce à mes yeux se déclare ?
+Il ne se souvient plus du rang qui nous sépare,
+Et sans aucun égard trahissant ma bonté,
+Abuse lâchement de ma crédulité ;
+Comment prétendez-vous expier cette offense ?
+Un autre avec éclat marquerait sa vengeance,
+Mais un juste mépris vous en punirai mieux,
+C'est une peine due aux coeurs audacieux :
+Il me suffit des maux où le destin vous livre,
+Sans que je prenne encore le soin de vous poursuivre ;
+Allez donc, étouffez des soupirs indiscrets,
+Et surtout à mes yeux ne vous montrez jamais.
+
+Alcibiade, hélas ! Me quitte et va mourir ;
+Ô gloire de mon sang ! Ô devoir trop barbare !
+Que de maux ! Que de pleurs ta rigueur me prépare ?
+Qu'il m'en coûtera cher d'avoir cru ma fierté ?
+Mais n'ai-je pas trop loin poussé la cruauté ?
+Injuste que je suis ? Ma bouche désespère
+Un coeur que l'amour même a choisi pour me plaire,
+Quand le mien s'applaudit et triomphe en secret,
+Je feins de m'offenser de l'aveu qu'on me fait,
+Quand toute ma raison ne me défend qu'à peine,
+La peur de me trahir me rend plus inhumaine,
+C'est à vous seuls conseils trop barbare Amestris,
+Qu'Alcibiade doit un si funeste prix,
+Sans vos cruels avis, loin de votre présence
+J'aurais eu moins de force et moins de violence,
+Avez-vous remarqué lorsque je lui parlais,
+Quel désespoir ? Mais quoi si je le rappelais ?
+Si par des mots plus doux je lui faisais comprendre...
+
+      Laissez-moi, je ne veux rien entendre,
+Ne vous opposez plus au penchant de mon coeur,
+Je veux de ce héros prévenir le malheur ;
+Rompons, rompons le cours de son destin funeste
+Qu'il vive, c'est assez, que m'importe du reste,
+Sauvons-le, s'il se peut qu'il apprenne du moins
+Par mes tristes soupirs, par mes plus tendres soins,
+Qu'en le désespérant je m'immole moi-même,
+Qu'enfin s'il meurt pour moi, s'il m'adore, je l'aime,
+Pensez-vous qu'un amour qui soutient la vertu,
+Avec tant de rigueur doive être combattu,
+Qu'un tendre mouvement inspiré par l'estime
+Puisse être avec raison regardé comme un crime ?
+Ah ! Loin qu'un tel amour ait rien de criminel,
+Qu'il serait glorieux s'il était criminel,
+Si...
+
+Je ne sais, mais quel trouble éclate dans vos yeux ?
+Pourquoi le cherchez-vous ? Enfin de quelle criante
+De quel frémissement votre âme est-elle atteinte ?
+
+      Ah ! Courons le trouver ;
+Suivez-moi, Pharnabaze, il faut...
+
+      Le sauver.
+
+      C'est trop attendre.
+Craignez-vous avec moi d'oser trop entreprendre ?
+L'abandonnerez-vous à ces Grecs furieux ?
+
+Finissons les périls d'un coeur si magnanime,
+Regarde qui voudra mon dessein comme un crime,
+Si je puis arracher ce héros du trépas,
+De mon empressement je ne rougirai pas.
+
+      Je viens assure votre vie,
+Je viens vous dérober aux fureurs de l'envie,
+Cet ami généreux s'intéresse pour vous,
+Jusqu'à braver du Roi l'inflexible courroux.
+Ne vous informez point quel mouvement m'inspire ;
+Adieu, fuyez, Palmis, n'a plus rien à vous dire.
+
+Obéissez, craignez de m'irriter encore.
+
+Finissez ce discours. On vous attend : Partez.
+Contraignez un amour qu'il faut que je déteste,
+Et qui ne peut avoir qu'une suite funeste,
+Ma gloire m'en prescrit l'indispensable loi,
+Artaxerce est mon père, et vous n'êtes pas Roi ;
+Ce vous doit être assez dans ce moment terrible
+De voir qu'à vos périls je me montre sensible ;
+Je vous dirai bien plus, pour flatter vos douleurs,
+L'état où je vous vois me coûtera des pleurs,
+Et malgré les efforts de ma gloire offensée,
+J'en garderai longtemps la funeste pensée.
+
+      Rassurez mes esprits alarmés
+Ne me répliquez point, fuyez si vous m'aimez.
+
+      Ciel prends-en soin ! Où me vois-je réduite ?
+Je ne puis partager les périls de sa fuite,
+Cruel devoir ! Je suis tes ordres absolus.
+Magnanime héros je ne te verrai plus ;
+Tu cours au gré du sort des flots et de Neptune
+Traîner l'affreux débris d'une illustre fortune,
+Les vents vont pour jamais t'emporter loin de moi,
+Je te jure du moins de ne penser qu'à toi ?
+Fatigué de la Cour du plus grand roi du monde
+Mon coeur impatient va te suivre sur l'onde,
+Mes soupirs enflammés après toi vont voler
+Jusqu'à l'heureux instant, ou prompte à m'accabler,
+Une mort favorable à mes désirs offerte
+Arrêtera les pleurs que je donne à ta perte.
+
+Madame, je n'ai point de sujet de tristesse.
+
+Moi, Madame !
+
+      Fortune impitoyable.
+Il expire.
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_artemise
+
+Moi, Seigneur ?
+
+Eh quoi ! N'avez-vous pas assuré son destin ?
+Par vous de ses malheurs n'a-t-il pas vu la fin ?
+C'est vous qui dans ces lieux réparant sa misère.
+
+Ah ! Seigneur, à ce Grec vous faites trop d'injure,
+Contre ces sentiments sa vertu vous rassure,
+Sa fuite de la Cour, et l'éclat de son nom
+Le mettent à couvert de ce honteux soupçon,
+Les Grecs ne l'ont-ils pas chassé de sa patrie ?
+Il conserve contre eux une juste furie ;
+Mais qu'il aille avec vous, vous ne craindrez plus rien,
+Seigneur, et sa valeur le justifiera bien.
+
+Aux horreurs se son sort dérobez dont sa tête,
+Avec lui de la Grèce achevez la conquête,
+Contre tant d'ennemis sûr de votre secours
+Ne l'engagez-vous pas à vous servir toujours ?
+Ira-t-il vous devant et l'honneur et la vie
+De ses persécuteurs tenter encore l'envie,
+Et se déshonorant par un retour ingrat
+De tant d'exploits fameux diminuer l'éclat ;
+Oui si vous l'engagez à la reconnaissance,
+Seigneur je vous réponds de son obéissance.
+
+Quel trouble me saisit, et me rend si timide ?
+Aux tendresses du roi je demeure stupide ?
+Il m'assure un hymen où je n'osais penser ?
+Et ma bouche n'a pas un mot à prononcer ;
+Inévitable effet d'une joie imprévue !
+Transports impétueux dont mon âme est émue,
+Espoir flatteur ! Je cède à vos efforts puissants.
+
+Ah ! Barsine, prends part au plaisir que je sens,
+Artaxerce s'apprête à couronner ma flamme,
+À remplir ses désirs il exhorte mon âme,
+Et me demande enfin comme un effort heureux
+De souffrir qu'il m'unisse à l'objet de mes voeux.
+
+Oui, Barsine, le Roi me donne à ce que j'aime.
+Cet amour si longtemps dans mon coeur retenu,
+Nourri de tant de pleurs, à toi seule connu,
+Que l'orgueil de mon sang regardait comme un crime,
+Peut paraître sans honte, et devient légitime,
+Où plutôt il arrive au comble de ces voeux,
+Au moment qu'il n'attend qu'un succès malheureux ;
+Et pour croître la joie où mon coeur s'abandonne,
+Barsine, Mon bonheur n'est connu de personne.
+
+Madame, ces secrets ne regardent que moi :
+Sans blesser mon devoir je puis vous en instruire ;
+Cependant je rougis.
+
+Le Roi d'Alcibiade a réglé le destin,
+Il veut que dès ce jour je lui donne la main ?
+Je ne vous cèle point que mon coeur le préfère
+Au plus illustre choix qu'Artaxerce eut pu faire,
+Et j'ose me flatter qu'une tendre amitié
+Vous fait de mon bonheur ressentir la moitié.
+Madame, pardonnez, je vous laisse avec peine,
+Mais je veux que du camp Pharnabaze revienne,
+Je vous quitte un moment pour le faire avertir.
+
+Oui du plus grand péril votre ami menacé
+Ignore comme vous tout ce qui s'est passé ;
+La Grèce s'humilie, et par son ambassade
+Nous demande aujourd'hui la mort d'Alcibiade :
+Artaxerce rempli des soins de sa grandeur
+De ce Grec malheureux honore la valeur,
+Estime sa vertu, mais craignant pour la Grèce
+Quelque jour dans son coeur un retour de tendresse,
+Sans pouvoir démêler si ses vrais intérêts
+Demandaient qu'à ce prix il conclut cette paix,
+Surtout ne croyant point sa perte légitime,
+Mais des plus noirs soupçons malgré lui la victime
+Il m'a fait voir les soins qui troublaient son repos,
+Et m'a fait mille fois trembler pour ce héros.
+
+      Écoutez le reste.
+Il est enfin sorti de ce trouble funeste ;
+L'amour d'Alcibiade a repris le dessus,
+Et la Grèce bientôt entendra ses refus,
+Aux horreurs de son sort, aux rigueurs de l'envie,
+Il dérobe à jamais une si belle vie ;
+Mais il veut l'attacher au destin des Persans,
+Par des droits si sacrés, par des noeuds si puissants,
+Qu'assurés désormais, et contents l'un de l'autre,
+Le bonheur de ses jours soit fondé sur le nôtre ?
+Enfin pour s'assurer de lui le croirez-vous ?
+
+      En ce jour il en fait mon époux,
+Il ne m'a point pourtant prescrit cet hyménée,
+Et même ma réponse encore n'est pas donnée ;
+C'est vous que j'ai choisi pour la porter au roi,
+Vous serez plus tranquille et plus libre que moi ;
+Dites-lui que mon âme à ses lois est soumise,
+Et qu'il peut à son gré disposer d'Artémise.
+
+On vient. Parlez au roi : Seigneur je me retire.
+
+Madame, c'en est fait. Qu'il vive ou qu'il périsse,
+Que de son sang aux Grecs on fasse un sacrifice ;
+Je ne m'informe plus de l'état de son sort,
+Je verrai d'un même oeil ou sa vie ou sa mort.
+
+Eh bien, Madame, il faut que je vous désabuse,
+Pour rétablir ma gloire et finir votre erreur
+Des ambassadeurs Grecs j'appuierai la fureur,
+Il arrivent, le Roi s'apprête à les entendre,
+Je vais lui faire voir la parti qu'il doit prendre,
+Je vais le disposer à servir leurs desseins,
+À livrer la victime à leurs barbares mains,
+À voir périr l'ingrat que j'ai sauvé moi-même,
+Madame, après cela croirez-vous que je l'aime ?
+
+Non, non, je ne crains point ce retour de tendresse
+Des infidèles coeurs cruelle vengeresse,
+Lorsqu'à ce Grec enfin j'ai conservé le jour,
+La pitié dans mon coeur a plus fait que l'amour,
+Du bruit de sa vertu mon âme fut séduite,
+De ses persécuteurs j'arrêtai la poursuite,
+Je fus d'un malheureux l'inébranlable appui,
+Je prodiguais mes soins. J'ai fait plus aujourd'hui,
+Pour arracher l'ingrat aux fureurs de la Grèce,
+J'ai presque de mon sang oublié la noblesse,
+Je n'ai pas dédaigné de l'unir à mon sort,
+Le Roi l'a su, c'était un assez grand effort,
+Mais après son refus à lui seul trop funeste,
+La seule indifférence est tout ce qui me reste,
+De ses périls mon coeur ne sent aucun effroi
+Et croit que la colère est indigne de moi,
+Pour vous convaincre mieux de tout ce que je pense,
+Je voudrais que soigneux d'expier son offense
+Prodigue de soupirs, de pleurs et de serments
+Il vint me consacrer ses voeux, tous ses moments.
+Je voudrais qu'inspiré par l'amour le plus tendre ?
+Mais il vient, que veut-il ? Quel parti dois-je prendre ?
+Daignez nous écouter, et par cet entretien,
+Madame, connaissez et son coeur et le mien.
+
+      Je ne veux rien apprendre,
+J'aurai trop de regret si ma lâche bonté
+Un seul moment encore vous avait écouté,
+Pour un indigne coeur ce serait trop de gloire,
+De vos égarements j'ai perdu la mémoire,
+Et j'aime mieux cent fois ne m'en plus souvenir,
+Que de me voir enfin forcée à les punir ;
+Vous ne verrez en moi ni fureur ni faiblesse,
+Mais cependant songez au péril qui vous presse ;
+Les ambassadeurs Grecs dans ce même moment
+Poursuivent votre mort avec empressement,
+Tout seconde aujourd'hui leur cruelle entreprise,
+Et vous avez perdu le secours d'Artémise :
+Adieu.
+
+Je la vois, pénétrons les secrets de son coeur,
+Puis-je vous demander quelle injuste douleur,
+Quel transport imprévu, quelles vives alarmes,
+Madame, de vos yeux ont fait couler des larmes ?
+Fille du plus puissant, du plus juste des rois,
+Cent monarques jaloux attendent votre choix ;
+Unique et digne objet de l'amour d'un tel père,
+Une superbe Cour vous sert et vous révère,
+Quand tout conspire ensemble à vos voeux les plus doux,
+Est-il quelque chagrin qui passe jusqu'à vous ?
+
+Pourquoi me cachez-vous la douleur qui vous presse ?
+Jusques à ce moment vous ne me celiez rien,
+Et l'amitié joignait votre sort et le mien,
+Aujourd'hui de vos pleurs vous faites un mystère,
+Je ne vous presse plus, c'est à moi de me taire ;
+Mais, Madame, souffrez que j'ose m'informer
+D'un proscrit dont le sort peu encore m'alarmer ?
+Tantôt quand je l'ai fuit vous êtes demeurée,
+Comment vous êtes-vous d'avec lui séparée ?
+Quels étaient ses discours ? A-t-il justifié
+Les criminels refus qui l'ont sacrifié ?
+On dit même qu'ici vous venez de l'entendre ;
+Vous vous troublez : voilà ce que je veux apprendre,
+Et sans chercher encore de nouvelles raisons,
+Ce trouble où je vous vois éclaircit mes soupçons.
+De l'orgueil de mon sang reprenons les maximes,
+D'un perfide étranger punissons tous les crimes :
+C'est est un que la mort ne saurait réparer,
+D'avoir pu sans amour me faire soupirer,
+Que me sert qu'à la Grèce Artaxerce le livre ?
+C'est pour mes intérêts qu'il doit cesser de vivre ;
+Vous, Madame, craignez l'impatient courroux
+D'un père justement irrité contre vous.
+
+      Courons. Ô ciel que vais-je faire ?
+Quoi donc en un moment à moi-même contraire
+Je vais perdre un héros que j'ai tant protégé
+De tant d'autres malheurs par le sort affligé ?
+Par un motif honteux je deviens inhumaine ;
+Et jusques sur Palmis je veux porter ma haine ;
+S'ils n'ont pu résister au penchant de leur coeur,
+Quel crime ont-ils commis digne de ma fureur ?
+Et quoi qu'un fol amour encore me persuade,
+M'était-il plus permis d'aimer Alcibiade ?
+Ouvre les yeux enfin faible Artémise, vois
+Quel opprobre à jamais va rejaillir sur toi ?
+Hein encore tes jours coulaient dans l'innocence,
+Ton coeur ne connaissait ni courroux ni vengeance,
+Tu n'aurais pu former sans tressaillir d'horreur
+Un seul de ces projets qu'enfante ta fureur,
+Regarde où te conduit l'ardeur d'être vengée,
+Malheureuse et combien un jour seul t'a changée ?
+Madame pardonnez à mon égarement,
+Ma honte, ma douleur suffit pour mon tourment :
+Et toi perfide amour qu'à jamais je déteste,
+Terrible passion, penchant vraiment funeste ?
+Ne faut-il qu'un moment à ton cruel poison
+Pour bannir la vertu, pour troubler la raison ?
+Laisse-moi. Je reprends l'empire de mon âme ;
+Si j'ai pu m'égarer par une indigne flamme,
+Je montrerai bientôt par des soins éclatants
+Que du moins mon erreur n'a pas duré longtemps.
+
+Au prix de tout mon sang je voudrais le défendre,
+Oui, Seigneur, révoquez un ordre trop cruel.
+Sauvez Alcibiade, il n'est point criminel,
+Vous apprendrez un jour toute sa destinée,
+Elle est, n'en doutez point, assez infortunée
+Pour mériter de vous un reste de pitié,
+Au nom de mes aïeux, et de votre amitié,
+Hâtez-vous et des Grecs prévenez la vengeance.
+
+Quel malheur, justes dieux !
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnabaze
+
 Venez, Memnon, venez, dans mon impatience,
 J'osais vous soupçonner d'un peu de négligence.
 
--*who_memnon
-Eh pouvais-je prévoir que votre prompt réveil,
-Seigneur devancerait le retour du soleil,
-Que sans être lassé d'une course rapide,
-Pharnabase fidèle à l'ardeur qui le guide,
-Arrivant à Sardis après mille travaux,
-Refuserait d'y prendre un moment de repos ?
-
--*who_pharnabaze
 Hélas ! Depuis le jour où le grand Artaxerce
 Daigna me confier le destin de la Perse,
 Attaché sans relâche à ce pénible emploi,
 J'ai vu que le repos n'était plus fait pour moi.
 
--*who_memnon
-Quoi, Seigneur ?
-
--*who_pharnabaze
       Dans l'éclat où je passe ma vie,
 Je redoute à la fois l'imposture et l'envie,
 Leurs traits également m'attaquent chaque jour,
@@ -53,23 +782,6 @@ Mais du bonheur public je deviens la victime,
 Et mon coeur accablé des efforts que je fais
 Donne à tous un repos qu'il ne goûte jamais.
 
--*who_memnon
-Eh ! Pourquoi vous gêner d'une crainte importune ?
-Seigneur, tant de vertu soutient votre fortune.
-Que personne n'osant y prétendre après vous,
-Ce rang que vous tenez ne fait point de jaloux ;
-Alcibiade seul pouvait mieux qu'un autre
-Égaler dans l'État sa puissance à la vôtre,
-Et partager du roi l'estime et la faveur,
-Mais l'éclat de ce rang n'a point flatté son coeur,
-Et ce héros cherchant un séjour plus tranquille.
-Dans les murs de Sardis a choisi son asile,
-Où depuis plus d'un an son sort enseveli
-Demeurerait peut-être en un profond oubli,
-Si l'univers entier occupé de sa gloire
-Pouvait un seul moment en perdre la mémoire.
-
--*who_pharnabaze
 Ah ! Que n'est-il encore engagé près du roi ?
 Que ne partage-t-il son coeur et mon emploi ?
 Ce fut par mes avis que proscrit de la Grèce
@@ -104,30 +816,9 @@ Vous qui depuis un mois le voyez à toute heure,
 Dites-moi, que fait-il dans sa triste demeure ?
 Quels sont ses sentiments ? Que pense-t-il ?
 
--*who_memnon
-      Seigneur,
-Puis-je vous informer de l'état de son coeur ?
-Tous mes efforts n'ont pu le découvrir encore,
-Je ne vous dirai point quel chagrin le dévore ?
-Mais les dehors trompeurs de la tranquillité
-Nous cachent mille soins dont il est agité ;
-Ce mépris de la Cour, cet exil volontaire
-Fut trop précipité pour être sans mystère.
-Il n'en faut point douter, Alcibiade feint,
-Dans tous nos entretiens il m'a paru contraint,
-Et dans ses sentiments qu'il étale sans cesse,
-Son coeur a moins de part, Seigneur, que son adresse.
-
--*who_pharnabaze
 Mais ses yeux et son coeur ne sont-ils point troublés,
 De l'aspect des soldats en ces lieux assemblés ?
 
--*who_memnon
-Vous l'apprendrez, Seigneur, et dans votre entrevue
-Il vous découvrira son âme toute nue,
-Son secret avec vous ne peut longtemps durer.
-
--*who_pharnabaze
 Puissai-je le contraindre à me le déclarer !
 Mais allons voir l'armée, il est temps d'y paraître,
 Et déjà disposer à recevoir son maître ;
@@ -138,25 +829,9 @@ Et chercher désormais au-delà du Bosphore
 Confondant avec eux et son rang et son sort
 L'honneur de la victoire, ou celui de la mort.
 
--*who_memnon
-Du bruit de votre nom l'armée est prévenue,
-Seigneur, et chaque jour attend votre vue.
-
--*who_pharnabaze
 Courons donc vers le camp : mais il faut m'arrêter,
 Alcibiade vient, je le dois écouter.
 
-**** *book_ *id_I02 *act_I *date_1685
-
--*who_alcibiade
-Grâce aux bontés du ciel, je puis enfin vous rendre
-Seigneur, tous les devoirs que vous pouvez attendre
-D'un coeur reconnaissant d'un ami généreux,
-Persécuté du sort, et toutefois heureux,
-Si le temps, et les Grecs, dont je suis la victime
-N'ont point détruit pour moi votre première estime.
-
--*who_pharnabaze
 Le croiriez-vous, Seigneur, que les Grecs, ou le temps
 Eussent changé pour vous mes justes sentiments ?
 C'est moi qui vous doit tout ; sans cesse ma mémoire
@@ -188,7 +863,118 @@ Quel chagrin dans ces lieux cause votre retraite ?
 Qui vous rend insensible aux faveurs d'un grand roi ?
 Parlez, Seigneur, parlez : fiez-vous à ma foi.
 
--*who_alcibiade
+Je le vois bien, Seigneur, je deviens indiscret,
+Je ne vous presse plus, gardez votre secret,
+Mais ne m'abusez point par une indigne feinte.
+
+Eh ! Sur quoi fondez-vous un si triste présage ?
+Vous offensez le roi, vous connaissez son coeur,
+Magnanime, constant.
+
+Artaxerce, Seigneur, domptera ce caprice,
+Et vous deviez lui rendre un peu plus de justice ;
+Il vient, vous le verrez ; mon zèle et mon devoir
+Me pressent à l'envi de l'aller recevoir.
+
+      C'est assez, Seigneur, je me retire,
+On m'attend dans le camp, soyez prêt à partir,
+Memnon dans un moment viendra vous avertir.
+
+Ah ! Que m'apprenez-vous ! Ciel !
+
+Quoi ! Madame.
+
+Qu'Alcibiade ici trouve un sort glorieux ?
+Il l'ignore, Madame, ah ! Souffrez qu'en ces lieux
+Pharnabaze l'amène, et qu'il puisse l'instruire.
+
+De ses desseins par moi vous serez éclairci,
+À vos ordres, Seigneur, elle est prête à se rendre.
+
+Instruite de l'approche et des voeux de son Roi,
+Elle n'épargne rien pour lui prouver sa foi,
+Déjà chaque soldat s'applaudit et s'empresse
+De redoubler encore sa force et son adresse ;
+On voit au gré des vents voler les étendards.
+Le fer étincelant brille de toutes parts,
+Sans attendre des chefs l'ordre ni la menace,
+Chacun cherche son rang, le démêle et s'y place
+Parmi tant de guerriers nés sous tant de climats,
+Il n'est soupçons jaloux, trahisons ni débats,
+Opposés dans leurs moeurs, ils semblent ne plus l'être,
+Pour répondre encore mieux à l'espoir de leur maître,
+Enflammez et remplis de pareils mouvements,
+Ils ont mêmes désirs et même sentiments,
+Et d'instant en instant chacun d'eux renouvelle
+Le serment de voler où son pince l'appelle.
+
+Qu'avez-vous fait, Seigneur ! Quel est votre caprice ?
+De la rage des Grecs vous rendez-vous complice ?
+Pourquoi par des refus offensez-vous le Roi ?
+Il vient de me parler, j'en tremble encore d'effroi,
+Ses yeux ne m'ont jamais marqué tant de colère,
+Dieux ! À quoi pensiez-vous ?
+
+Mais fallait-il, Seigneur, pour cette ingrate Grèce
+Accabler de mépris une illustre princesse ?
+Ah ! Vous deviez, Seigneur, un peu mieux ménager...
+
+Ne l'abandonnons point dans ce mortel ennui
+Et s'il se peut sauvons ce héros malgré lui.
+
+      Obtenez votre grâce,
+N'épargnez ni soupirs, ni prières, ni pleurs,
+Il ne tiendra qu'à vous de finir vos malheurs.
+
+      Daignez pardonner à l'ardeur qui m'enflamme,
+Je cherche Alcibiade, il est sorti Madame,
+Quel chemin a-t-il pris ? Il était en ces lieux.
+
+Madame, il va périr. Dans ce moment le Roi
+Aux ambassadeurs Grecs vient de donner sa foi,
+Il vient de leur donner le sang qu'ils lui demandent
+Prêtes à le verser leurs mains déjà l'attendent.
+Ces cruels ennemis partout vont le chercher,
+Et contre leur fureur rien ne peut le cacher,
+Jusques dans ce palais, sans attente, sans crime,
+Par l'ordre d'Artaxerce ils prendront leur victime.
+Madame, c'en est fait.
+
+      Quoi !
+
+Vous, le sauver, Madame ? Ô ciel.
+
+Moi, Madame, ah ! Plutôt que j'expire à vos yeux.
+
+Moi, Seigneur, je le puis du moins pour cet ouvrage,
+Quels que soient mes périls, j'ai tout mis en usage,
+Déjà sur le Pactole un vaisseau préparé
+Vous offre sur les eaux un chemin assuré,
+Confiez votre vie au vent qui vous appelle,
+Montrez-vous chaque jour à quelque mer nouvelle,
+Sans chercher un asile auprès d'un autre roi,
+Que les Grecs forceraient de vous manquer de foi,
+Cachez-leur votre sort, nos soins dans votre absence
+Agiront près du Roi, prendront votre défense,
+Et peut-être qu'un jour vous reverrez ces lieux
+Triomphant et chargé de noms plus glorieux ;
+Vous savez vers le port une secrète issue,
+Dont la route à vos Grecs n'est pas encore connue ;
+Je vais vous devancer, vous suivi d'Amintas,
+Secondez mon projet, et marchez sur mes pas,
+Ne vous étonnez point si l'on vient vous surprendre,
+Vous me verrez bientôt voler pour vous défendre.
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcibiade
+
+Grâce aux bontés du ciel, je puis enfin vous rendre
+Seigneur, tous les devoirs que vous pouvez attendre
+D'un coeur reconnaissant d'un ami généreux,
+Persécuté du sort, et toutefois heureux,
+Si le temps, et les Grecs, dont je suis la victime
+N'ont point détruit pour moi votre première estime.
+
 Pouvez-vous l'ignorer ? La fureur de la Grèce,
 La colère d'Agis qui me poursuit sans cesse,
 D'un peuple athénien l'injuste cruauté,
@@ -216,12 +1002,6 @@ Au succès attendu conduire ses projets,
 Au comble du bonheur porter ses destinées,
 Et prolonger ses jours, au prix de mes années.
 
--*who_pharnabaze
-Je le vois bien, Seigneur, je deviens indiscret,
-Je ne vous presse plus, gardez votre secret,
-Mais ne m'abusez point par une indigne feinte.
-
--*who_alcibiade
 Eh bien, Seigneur, s'il faut m'expliquer sans contrainte,
 J'ai cru que je devais être éloigné du roi.
 Tandis que dans la Grèce il va porter l'effroi :
@@ -231,12 +1011,6 @@ Et cru que j'aurais pu par des avis secrets
 Pour sauver mon pays trahir ses intérêts :
 Voilà quelle pensée à m'éloigner m'engage.
 
--*who_pharnabaze
-Eh ! Sur quoi fondez-vous un si triste présage ?
-Vous offensez le roi, vous connaissez son coeur,
-Magnanime, constant.
-
--*who_alcibiade
       Je le connais, Seigneur,
 Il a mille vertus dignes du diadème,
 Mais avec ses vertus, je le sais de vous-même,
@@ -263,41 +1037,13 @@ Je veux pouvoir goûter cette douceur extrême,
 Que mon trépas alors soit au moins imputé
 À ma vertu plutôt qu'à la nécessité.
 
--*who_pharnabaze
-Artaxerce, Seigneur, domptera ce caprice,
-Et vous deviez lui rendre un peu plus de justice ;
-Il vient, vous le verrez ; mon zèle et mon devoir
-Me pressent à l'envi de l'aller recevoir.
-
--*who_alcibiade
 Je vous suivrai, Seigneur, j'allais pour vous le dire
 Vous chercher...
 
--*who_pharnabaze
-      C'est assez, Seigneur, je me retire,
-On m'attend dans le camp, soyez prêt à partir,
-Memnon dans un moment viendra vous avertir.
-
-**** *book_ *id_I03 *act_I *date_1685
-
--*who_amintas
-Après un tel aveu nous vous verrons reprendre
-Le rang dont vos soupçons vous avaient fait descendre.
-Artaxerce, Seigneur, entendra vos discours,
-Et d'un scrupule vain arrêtera le cours :
-Allez, et qu'une fois encore la Grèce admire
-Le pouvoir d'un proscrit dans cet auguste Empire,
-Qu'à son tour votre nom la force de trembler.
-
--*who_alcibiade
 Enfin voici le jour qui me doit accabler,
 Où malgré mes efforts, ma fuite, et mon adresse
 L'univers apprendra ma dernière faiblesse.
 
--*who_amintas
-Que dites-vous,Seigneur ?
-
--*who_alcibiade
       Le roi vient, Amintas,
 Artémise, Palmis accompagnent ses pas.
 J'ai fuit de la Cour, leur approche m'étonne,
@@ -305,28 +1051,6 @@ J'ai fuit de la Cour, leur approche m'étonne,
 Tu connais mon penchant, tu vois couler mes pleurs,
 Et l'état où je suis t'apprend tous mes malheurs.
 
--*who_amintas
-Je vous entends, Seigneur, j'en pénètre la cause,
-Faut-il que de vos jours encore l'amour dispose ?
-Après tant de périls avec peine évités
-Osez-vous vous lier au joug dont vous sortez ?
-Ne vous souvient-il plus, quelle fuite cruelle
-D'embarras, de remords, de contrainte mortelle,
-Quel funeste poison a versé sur vos jours
-De vos attachements le déplorable cours ?
-Pardonnez-moi, Seigneur, je ne saurais me taire,
-Et je vous trahirais si j'étais moins sincère ;
-De vos travaux l'amour vous a ravi le fruit,
-Et de votre nom même a profane le bruit.
-Quel guerrier couronné dans mains de la victoire
-Porta jamais si loin sa valeur et sa gloire ?
-Quel héros avec vous aurait-on comparé ?
-Si votre coeur jamais ne se fût égaré,
-Et n'eut fait voir souvent par un mélange injuste,
-Des faiblesses d'amour dans une vie auguste :
-Ah ! Seigneur, rappelez ce fatal souvenir.
-
--*who_alcibiade
 Hélas ! Qu'est-il besoin de m'en entretenir ?
 Mon penchant à l'amour, je l'avouerai sans peine,
 Fut de tous mes malheurs la cause trop certaine ;
@@ -345,10 +1069,6 @@ La mienne a pris encore une force nouvelle ;
 Dans ses tendres instants j'ai toujours éprouvé
 Qu'un mortel peut sentir un bonheur achevé.
 
--*who_amintas
-Ah ! Quel indigne aveu, Seigneur, osez-vous faire.
-
--*who_alcibiade
 Je le fais, Amintas, sans honte et sans mystère ;
 Ah ! Si j'ai succombé dans mes premiers transports
 Toute la Grèce a vu les fruits de mes remords ;
@@ -375,12 +1095,6 @@ Mais sache qu'un grand coeur ne se fâche jamais ;
 Et veut sans se parer d'un indigne artifice,
 Qu'à son nom l'univers puisse rendre justice.
 
--*who_amintas
-Par tant d'illustres faits votre nom consacré
-Seigneur, dans l'avenir doit être révéré ;
-Nos neveux...
-
--*who_alcibiade
       Est-il temps de tenir ce langage
 Quand mon dernier malheur accable mon courage ?
 Par tes sages conseils aide à le ranimer,
@@ -424,13 +1138,6 @@ Cependant de son coeur la modeste fierté
 Semble de ses appas ignorer la puissance,
 Et jouit sans orgueil des droits de sa naissance.
 
--*who_amintas
-En vain vous m'étalez des charmes de Palmis,
-Seigneur, tout l'univers en célèbre le prix ;
-Mais de les adorer il fallait vous défendre,
-D'un amour si fatal que pouvez-vous attendre ?
-
--*who_alcibiade
 Le sort le plus cruel, mille tourments affreux,
 Et que sais-je, peut-être un trépas rigoureux ;
 Car enfin malgré moi quelque éclat de ma flamme
@@ -453,21 +1160,9 @@ Contre elle désormais quel parti doit-je prendre ?
 Je ne puis fuir plus loin, et je n'ose l'attendre :
 Ciel, de cet embarras ne pourrai-je sortir ?
 
-**** *book_ *id_I04 *act_I *date_1685
-
--*who_memnon
-Pharnabaze, Seigneur, vous attend pour partir.
-
--*who_alcibiade
 Allons donc, suspendons une crainte importune
 Et remettons aux dieux le soin de ma fortune.
 
-**** *book_ *id_II01 *act_II *date_1685
-
--*who_amintas
-Où courez-vous, Seigneur ; quoi, fuyez-vous le roi?
-
--*who_alcibiade
 Je ne sais où je suis, Amintas laisse-moi.
 Je fuis tous les objets dans ma douleur extrême,
 Et je voudrais pouvoir me cacher à moi-même.
@@ -481,13 +1176,6 @@ Je songe seulement à mon sort déplorable,
 Je songe à m'affranchis d'une fardeau qui m'accable,
 À rompre ce silence indigne d'un grand coeur.
 
--*who_amintas
-Juste Ciel ! Quel dessein ? Contraignez-vous, Seigneur,
-De ce fatal secret vous savez l'importance,
-Souffrez plutôt encore en gardant le silence,
-Que de vous exposer à des malheurs plus grands.
-
--*who_alcibiade
 Qu'est-il de plus affreux que les maux que je sens ?
 J'éprouve en ce moment tout ce qu'à de funeste
 Pour accabler un coeur la colère céleste ;
@@ -522,112 +1210,6 @@ Quoi, dépend-il de nous d'être d'un sang illustre ?
 Enfin est-il des prix qu'on puisse mériter
 Que la seule vertu ne doive souhaiter ?
 
--*who_amintas
-Dans la Grèce, Seigneur, la vertu toute nue
-Par son mérite seul est assez soutenue,
-Et sans parer son nom de titres fastueux,
-On est grand parmi nous quand on est vertueux.
-Mais ici nos décrets, nos moeurs et nos maximes,
-Perdent toute leur force, et passent pour des crimes.
-Une crainte servile est le premier devoir
-Qu'imprime dans les coeurs un absolu pouvoir :
-Tout tremble, tout fléchit sous la grandeur suprême,
-Heureux dans ces climats qui porte un diadème,
-Ou qui peut se vanter d'être sorti d'un sang
-Qui le peut quelque jour élever à ce rang.
-Cessez donc de poursuivre un projet inutile,
-Ne perdez point en vain votre dernier asile ;
-Ces rois qui d'Artaxerce accompagnent les pas,
-Qui lui font un tribut d'armes et de soldats ;
-Les princes ses voisins, et ceux de sa famille
-Ont des yeux comme vous, et brûlent pour sa fille ;
-Sans doute quelqu'un d'eux s'est déjà déclaré,
-Et du coeur de Palmis s'est peut-être emparé ;
-Votre amour fait lui seul les maux qui vous arrivent :
-Cessez... mais le roi vient, les princesses le suivent.
-
-**** *book_ *id_II02 *act_II *date_1685
-
--*who_artaxerce
-Enfin, grâces aux dieux, nous sommes dans Sardis,
-Ma fille mille soins occupent mes esprits ;
-Souffrez que de ces soins la suite nécessaire
-Pour quelque temps ici vous cache votre père,
-Allez vous reposer dans votre appartement,
-Je veux entretenir Artémise un moment,
-L'instruire d'un secret où son coeur s'intéresse.
-
--*who_artemise
-Moi, Seigneur ?
-
--*who_artaxerce
-      Oui, Madame, et vous que l'on nous laisse.
-
-**** *book_ *id_II03 *act_II *date_1685
-
--*who_artaxerce
-Voici le jour fatal que j'ai tant souhaité.
-Madame, où ce dessein si longtemps concerté
-D'emporter sur la Grèce une entière victoire,
-Doit marquer à jamais ou ma honte ou ma gloire,
-Mes soldats sont tout prêts, et les vents et les eaux
-Semblent pour me conduire attendre mes vaisseaux ;
-Un mouvement secret vers la Grèce m'appelle,
-Mais parmi tous les soins que ce jour renouvelle,
-Alcibiade seul fait mon plus grand ennui,
-Près de moi dans ma Cour vous fûtes son appui ;
-C'est pour cette raison que j'ai voulu, Madame,
-Vous confier son sort, et vous ouvrir mon âme.
-
--*who_artemise
-Eh quoi ! N'avez-vous pas assuré son destin ?
-Par vous de ses malheurs n'a-t-il pas vu la fin ?
-C'est vous qui dans ces lieux réparant sa misère.
-
--*who_artaxerce
-Je n'ai rien fait alors que ce que j'ai dû faire ;
-La Perse jouissait d'une profonde paix,
-Mais la guerre aujourd'hui change tous nos projets :
-Sera-t-il dans ces murs l'espion de la Grèce :
-Lorsqu'elle servira ma fureur vengeresse,
-Que j'irai l'attaquer, laisserai-je à Sardis
-Un Grec pour lui donner mille secrets avis ?
-Ne nous assurons point sur le sanglant outrage
-Dont les Athéniens ont payé le courage,
-Nous voyons tous les coeurs que la Grèce a nourris,
-Du soin de sa grandeur si vivement épris,
-Que bannis de son sein, accablez d'injustices,
-Ils lui font chaque jour de nouveaux sacrifices,
-Trop heureux de pouvoir partout leur sang versé
-Servir un seul moment leur pays menacé.
-
--*who_artemise
-Ah ! Seigneur, à ce Grec vous faites trop d'injure,
-Contre ces sentiments sa vertu vous rassure,
-Sa fuite de la Cour, et l'éclat de son nom
-Le mettent à couvert de ce honteux soupçon,
-Les Grecs ne l'ont-ils pas chassé de sa patrie ?
-Il conserve contre eux une juste furie ;
-Mais qu'il aille avec vous, vous ne craindrez plus rien,
-Seigneur, et sa valeur le justifiera bien.
-
--*who_artaxerce
-Ah ! S'il le faut avec moi le mener dans la Grèce,
-Ne sentira-t-il point encore quelque tendresse
-À l'aspect de ces lieux, de sa gloire témoins,
-Qui furent si longtemps l'objet de tous ses soins ;
-Insensible et fidèle à nos mortelles haines,
-Verra-t-il d'un oeil sec tomber les murs d'Athènes
-Et refusera-t-il son bras victorieux
-À la Grèce mourante, et mourante à ses yeux ?
-Ah ! Sans trop l'accuser d'une humeur inconstante,
-La haine céderait à la pitié présente ;
-Ainsi soit qu'il demeure, ou qu'il vienne avec moi,
-Il me gêne partout, partout je crains sa foi ;
-Ce n'est pas tout. Des Grecs la pompeuse ambassade
-N'est que pour demander la mort d'Alcibiade.
-
--*who_alcibiade
 La mort d'Alcibiade ? Ah ! Pouvez-vous, Seigneur,
 Souffrir qu'on vous propose un projet plein d'horreur ?
 Ce héros sur la foi de ce fameux asile
@@ -636,388 +1218,12 @@ Et que par vos bontés, plus heureux désormais,
 Il jouirait ici d'une éternelle paix,
 Quoi ! La mort par vos mains lui serait donc offerte.
 
--*who_artaxerce
-Non, je n'ai point, Madame, encore conclu sa perte ;
-Et puisque de son sort je confère avec vous,
-Croyez que je lui garde un traitement plus doux ;
-J'estime sa valeur, sa gloire me fut chère,
-Il a mile vertus que mon âme révère ;
-J'ai conservé sa vie, et veux même aujourd'hui
-Si le sort y consent, faire encore plus pour lui ;
-Mais il faut que l'État, que la raison conspire
-Avec l'heureux penchant qui vers ce Grec m'attire,
-Et que la politique approuvant sa grandeur
-Me mette en liberté d'augmenter sa faveur.
-Si les ambassadeurs que la Grèce m'envoie
-Obtiennent qu'en leurs mains je remette leur proie,
-La Grèce cède Ephèse, et demande la paix ;
-Mais si par un refus je confonds leurs projets,
-Ils n'épargneront rien dans l'ardeur qui les presse,
-Pour calmer ces chagrins et l'attirer en Grèce
-Un homme comme lui n'est pas à dédaigner,
-Il faut absolument le perdre ou le gagner,
-Vous-même concevez par le pressante envie
-Que marquent tous les Grecs de s'immoler sa vie
-Par les soins dont leur haine achète son trépas.
-Combien ils craignent tous les efforts de son bras ?
-
--*who_artemise
-Aux horreurs se son sort dérobez dont sa tête,
-Avec lui de la Grèce achevez la conquête,
-Contre tant d'ennemis sûr de votre secours
-Ne l'engagez-vous pas à vous servir toujours ?
-Ira-t-il vous devant et l'honneur et la vie
-De ses persécuteurs tenter encore l'envie,
-Et se déshonorant par un retour ingrat
-De tant d'exploits fameux diminuer l'éclat ;
-Oui si vous l'engagez à la reconnaissance,
-Seigneur je vous réponds de son obéissance.
-
--*who_artaxerce
-Faites dont plus, Madame, et puisque dans ma Cour
-Vous m'assurez pour lui d'un éternel séjour,
-Rendez-lui pour jamais ce séjour nécessaire,
-En redoublant des Grecs la haine et la colère,
-Et joignez de si près Alcibiade à moi,
-Qu'ils ne puissent jamais se fier à sa foi ;
-Pour lui vous avez pris une si forte estime,
-À conserver ses jours tant d'ardeur vous anime :
-Ah ! S'il faut sans détour m'expliquer avec vous
-Je serais sûr de lui s'il était votre époux,
-Je ne vous prescris point encore cette hyménée,
-Il pourrait seul pourtant fixer sa destinée,
-Faire taire les Grecs, venger tous ses malheurs,
-Assurer sa fortune, et finir mes frayeurs.
-Surtout ne croyez point qu'ici ma politique,
-Immole votre sort à la grandeur publique,
-Et vous faisant pour nous cet effort glorieux,
-vous ne descendrez point du rang de vos aïeux :
-Vous verrez votre époux si chéri d'Artaxerce,
-Qu'il sera le premier après moi dans le Perse,
-Et que toute ma Cour tombant à vos genoux,
-Partagera ses soins et son zèle entre nous.
-Adieu je ne veux point presser votre réponse,
-Consultez à loisir ce que je vous annonce :
-Je vous verrai dans peu, songez qu'en votre main
-De ce fameux proscrit vous tenez le destin.
-
-**** *book_ *id_II04 *act_II *date_1685
-
--*who_artemise
-Quel trouble me saisit, et me rend si timide ?
-Aux tendresses du roi je demeure stupide ?
-Il m'assure un hymen où je n'osais penser ?
-Et ma bouche n'a pas un mot à prononcer ;
-Inévitable effet d'une joie imprévue !
-Transports impétueux dont mon âme est émue,
-Espoir flatteur ! Je cède à vos efforts puissants.
-
-**** *book_ *id_II05 *act_II *date_1685
-
--*who_artemise
-Ah ! Barsine, prends part au plaisir que je sens,
-Artaxerce s'apprête à couronner ma flamme,
-À remplir ses désirs il exhorte mon âme,
-Et me demande enfin comme un effort heureux
-De souffrir qu'il m'unisse à l'objet de mes voeux.
-
--*who_barsine
-Quoi, Madame, le Roi vous propose lui-même ?
-
--*who_artemise
-Oui, Barsine, le Roi me donne à ce que j'aime.
-Cet amour si longtemps dans mon coeur retenu,
-Nourri de tant de pleurs, à toi seule connu,
-Que l'orgueil de mon sang regardait comme un crime,
-Peut paraître sans honte, et devient légitime,
-Où plutôt il arrive au comble de ces voeux,
-Au moment qu'il n'attend qu'un succès malheureux ;
-Et pour croître la joie où mon coeur s'abandonne,
-Barsine, Mon bonheur n'est connu de personne.
-
-**** *book_ *id_II06 *act_II *date_1685
-
--*who_palmis
-Je vous cherche Madame, un désir curieux
-Précipite mes pas et m'amène en ces lieux ;
-Sans offenser le Roi, me pourrez-vous apprendre
-Les desseins, les secrets qu'il vous a fait entendre ?
-Madame, oserez-vous les fier à ma foi ?
-
--*who_artemise
-Madame, ces secrets ne regardent que moi :
-Sans blesser mon devoir je puis vous en instruire ;
-Cependant je rougis.
-
--*who_palmis
-      Qu'a-t-il donc pu vous dire ?
-
--*who_artemise
-Le Roi d'Alcibiade a réglé le destin,
-Il veut que dès ce jour je lui donne la main ?
-Je ne vous cèle point que mon coeur le préfère
-Au plus illustre choix qu'Artaxerce eut pu faire,
-Et j'ose me flatter qu'une tendre amitié
-Vous fait de mon bonheur ressentir la moitié.
-Madame, pardonnez, je vous laisse avec peine,
-Mais je veux que du camp Pharnabaze revienne,
-Je vous quitte un moment pour le faire avertir.
-
-**** *book_ *id_II07 *act_II *date_1685
-
--*who_palmis
-Non, non, à son bonheur je ne puis consentir.
-
--*who_amestris
-Ciel !
-
--*who_palmis
-      Je ne prétends point vous cacher ma surprise,
-Ni mes chagrins secrets sur l'hymen d'Artémise,
-Dès mes plus jeunes ans soumise à vos avis,
-Je ne me repens point de les avoir suivis ;
-Mais je sens qu'aujourd'hui toute votre sagesse
-Aura peine à calmer la douleur qui me presse.
-
--*who_amestris
-Madame au nom des dieux finissez ce discours,
-Gardez-vous à jamais d'en reprendre le cours,
-Et ne m'affligez point par une confidence
-Indigne de mes soins et de ma naissance.
-
--*who_palmis
-Cependant, c'est vous seule, ô ma chère Amestris,
-Qui pouvez redonner le calme à mes esprits,
-Et par ces mêmes soins à qui ma douleur cède,
-Suspendre ou soulager l'ennui qui me possède.
-
--*who_amestris
-C'en est donc fait, grands dieux votre esprit confondu
-D'un poison dangereux ne s'est point défendu :
-Insensible au bonheur que goûte un coeur tranquille
-Aveugle aux longs tourments d'une flamme inutile
-Pour un vil étranger le fille d'un grand roi
-Brûle d'un feu secret sans honte et sans effroi.
-
--*who_palmis
-Je ne sais si l'on doit donner le nom de flamme
-Aux mouvements confus qui déchirent mon âme ;
-Mais je ne peux souffrir les traits injurieux
-Dont vous osez noircir un héros glorieux,
-Pouvez-vous ignorer la gloire de sa vie ?
-Ah ! Ce vil étranger digne objet de l'envie,
-Ce banni, ce proscrit que vous me reprochez,
-Du monde entier sur lui tient les yeux attachés ;
-C'est lui dont la valeur tant de fois couronnée
-Ranima la vertu de la Grèce étonnée,
-Qui forçant la fortune à seconder son bras,
-Vainquit autant de fois qu'il donna de combats ;
-C'est lui dont les regards, et dont le front auguste
-Font naître une tendresse aussi prompte que juste,
-Et s'il faut encore plus pour le combler d'honneur
-Lui seul a pu troubler le repos de mon coeur.
-
--*who_amestris
-Et depuis quand ce coeur s'est-il rendu sensible ?
-Lui qui dans ses devoirs paraissait inflexible,
-Qui les remplissait tous sans trouble et sans regret.
-
--*who_palmis
-Pouvez-vous ignorer ce funeste secret ?
-Je ne vous celai point ma première surprise,
-Je la sens réveillée par l'espoir d'Artémise
-Il me trouble, il me gêne, il déchire mon coeur,
-Et ses heureux transports irritent ma douleur.
-
--*who_amestris
-Ah ! Que me dites-vous, quoi votre âme agitée
-Par tant d'égard pressants ne peut être arrêtée ?
-D'Artémise en secret vous condamnez l'espoir ?
-Et quel projet contre elle osez-vous concevoir ?
-Quoi ! Vous flatteriez-vous qu'un honteux hyménée,
-
--*who_palmis
-Je n'ai point oublié le rang où je suis né ;
-Je sais combien du sang l'impérieuse loi
-A mis de différence entre Artémise et moi,
-Qu'Alcibiade enfin peut s'unir avec elle,
-Qu'à l'hymen d'un grand roi ma naissance m'appelle,
-Je le sais. Mais les lois et ces pompeux discours,
-Conte un charme puissant sont d'un faible secours :
-Lorsqu'on trouve un héros d'un mérite suprême,
-Qu'il fait en sa faveur parler la vertu même,
-Qu'il paraît seul aimable et seul digne de vous,
-De ces occasions que le penchant est doux ?
-Qu'un coeur en cet état qui se fait violence
-Pleure souvent l'honneur d'une illustre naissance ?
-
--*who_amestris
-Madame, c'en est trop, redoublez vos efforts,
-Étouffez ou calmez ces indignes transports,
-Je crains que votre gloire, et que sur votre vie.
-
--*who_palmis
-Non, j'ose défier tous les traits de l'envie,
-Plus par ces mouvements mon coeur est combattu,
-Et plus vous connaîtrez ce que peut ma vertu,
-Quand ce même guerrier n'eut cherché qu'à me plaire,
-Il eut reçu de moi des mépris pour salaire.
-Cependant, et telle est l'injustice d'un coeur
-Dont l'amour en secret s'est rendu le vainqueur,
-Je ne saurais souffrir qu'un autre eut l'avantage
-D'arrêter dans ses fers ce superbe courage ;
-Mais c'est trop prolonger d'inutiles discours ;
-Observons avec soin leur sort et leurs amours,
-Puisque je perds ce coeur à qui ma fierté cède,
-Dieux puissants, empêchez qu'un autre le possède.
-
-**** *book_ *id_III01 *act_III *date_1685
-
--*who_artemise
-Oui du plus grand péril votre ami menacé
-Ignore comme vous tout ce qui s'est passé ;
-La Grèce s'humilie, et par son ambassade
-Nous demande aujourd'hui la mort d'Alcibiade :
-Artaxerce rempli des soins de sa grandeur
-De ce Grec malheureux honore la valeur,
-Estime sa vertu, mais craignant pour la Grèce
-Quelque jour dans son coeur un retour de tendresse,
-Sans pouvoir démêler si ses vrais intérêts
-Demandaient qu'à ce prix il conclut cette paix,
-Surtout ne croyant point sa perte légitime,
-Mais des plus noirs soupçons malgré lui la victime
-Il m'a fait voir les soins qui troublaient son repos,
-Et m'a fait mille fois trembler pour ce héros.
-
--*who_pharnabaze
-Ah ! Que m'apprenez-vous ! Ciel !
-
--*who_artemise
-      Écoutez le reste.
-Il est enfin sorti de ce trouble funeste ;
-L'amour d'Alcibiade a repris le dessus,
-Et la Grèce bientôt entendra ses refus,
-Aux horreurs de son sort, aux rigueurs de l'envie,
-Il dérobe à jamais une si belle vie ;
-Mais il veut l'attacher au destin des Persans,
-Par des droits si sacrés, par des noeuds si puissants,
-Qu'assurés désormais, et contents l'un de l'autre,
-Le bonheur de ses jours soit fondé sur le nôtre ?
-Enfin pour s'assurer de lui le croirez-vous ?
-
--*who_pharnabaze
-Quoi ! Madame.
-
--*who_artemise
-      En ce jour il en fait mon époux,
-Il ne m'a point pourtant prescrit cet hyménée,
-Et même ma réponse encore n'est pas donnée ;
-C'est vous que j'ai choisi pour la porter au roi,
-Vous serez plus tranquille et plus libre que moi ;
-Dites-lui que mon âme à ses lois est soumise,
-Et qu'il peut à son gré disposer d'Artémise.
-
--*who_pharnabaze
-Qu'Alcibiade ici trouve un sort glorieux ?
-Il l'ignore, Madame, ah ! Souffrez qu'en ces lieux
-Pharnabaze l'amène, et qu'il puisse l'instruire.
-
--*who_artemise
-On vient. Parlez au roi : Seigneur je me retire.
-
-**** *book_ *id_III02 *act_III *date_1685
-
--*who_artaxerce
-Artémise m'évite et s'éloigne d'ici.
-
--*who_pharnabaze
-De ses desseins par moi vous serez éclairci,
-À vos ordres, Seigneur, elle est prête à se rendre.
-
--*who_artaxerce
-Qu'on cherche Alcibiade, il faut lui faire entendre
-Quels bienfaits, quels honneurs l'attendent en ces lieux,
-J'ai caché mes soupçons et son sort à vos yeux,
-Pharnabaze, j'ai craint votre amitié fidèle,
-Et je n'ai pas voulu commettre votre zèle
-Avec les intérêts d'un ami tel que lui ;
-Mais enfin ses malheurs finiront aujourd'hui,
-J'espère que charmé du prix dont je l'honore,
-Il sera le premier à passer le Bosphore,
-Et qu'au bruit de son nom tous les Grecs étonnés
-Livreront aux Persans leurs ports abandonnés ;
-Mais cependant parlez, vous avez vu l'armée,
-À remplir mes désirs paraît-elle animée ?
-
--*who_pharnabaze
-Instruite de l'approche et des voeux de son Roi,
-Elle n'épargne rien pour lui prouver sa foi,
-Déjà chaque soldat s'applaudit et s'empresse
-De redoubler encore sa force et son adresse ;
-On voit au gré des vents voler les étendards.
-Le fer étincelant brille de toutes parts,
-Sans attendre des chefs l'ordre ni la menace,
-Chacun cherche son rang, le démêle et s'y place
-Parmi tant de guerriers nés sous tant de climats,
-Il n'est soupçons jaloux, trahisons ni débats,
-Opposés dans leurs moeurs, ils semblent ne plus l'être,
-Pour répondre encore mieux à l'espoir de leur maître,
-Enflammez et remplis de pareils mouvements,
-Ils ont mêmes désirs et même sentiments,
-Et d'instant en instant chacun d'eux renouvelle
-Le serment de voler où son pince l'appelle.
-
--*who_artaxerce
-Vous versez dans mon coeur les plaisirs les plus doux,
-J'irai dans un moment, mais on vient, laissez-nous.
-
-**** *book_ *id_III03 *act_III *date_1685
-
--*who_artaxerce
-Approchez, il est temps de finir l'un et l'autre
-Les importuns soupçons de mon coeur et du vôtre,
-Oublions les raisons qui vous firent quitter
-Des lieux où tout semblait vous devoir arrêter,
-Je ne m'attendais pas de vous voir disparaître
-Dans un temps... Mais enfin vous en étiez le maître
-Par votre éloignement vous n'aurez rien perdu,
-Reprenez près de moi le rang qui vous est dû.
-
--*who_alcibiade
 Ah ! Puis-je...
 
--*who_artaxerce
-      Pour répondre à ma faveur nouvelle,
-Il ne faut que vos soins, vos conseils, votre zèle.
-Enfin, j'en ai besoin encore plus que jamais,
-Et pour les obtenir j'y joins vos intérêts.
-Vous savez qu'en ces lieux une nombreuse armée
-Sous moi depuis longtemps à vaincre accoutumée
-Attend l'ordre fatal qui doit la faire agir,
-Et ne sait de quel rang ses traits doivent rougir ;
-C'est du sang de la Grèce. Oui, c'est votre patrie
-Qui doit de cette armée éprouver la furie,
-Les Grecs vous ont banni, nous sommes outragés
-Mais j'ose me flatter que nous serons vengés.
-
--*who_alcibiade
 Rien ne peut résister à l'effort de vos armes,
 Toute l'Europe en tremble, et la Grèce en alarmes
 Croit déjà...
 
--*who_artaxerce
-      Finissez un discours trop flatteur,
-Et ne présumez pas que plein de ma grandeur
-Ébloui de l'éclat de cet empire immense,
-Dont cent peuples divers composent la puissance,
-Je pense sans péril dompter des ennemis
-Que tant d'illustres rois n'ont jamais vu soumis ;
-Ainsi, sans me flatter avec toute la terre,
-Parlez ? Comment faut-il conduire cette guerre ?
-Quel succès croyez-vous que j'en doive espérer ?
-En quels lieux, en quel temps, par où faut-il entrer ?
-
--*who_alcibiade
 Puisque vous l'ordonnez, et que sans vous déplaire,
 Puissant roi désormais je ne puis plus me taire,
 Je parlerai du moins avec la liberté
@@ -1065,74 +1271,13 @@ Abandonner leurs murs, que d'attendre sous ses lois;
 J'ignore le succès que le ciel vous destine ;
 Mais, Seigneur, regardez Platée et Salamine.
 
--*who_artaxerce
-Je ne m'attendais pas à ce libre discours,
-Cependant sans chagrin j'en ai permis le cours :
-Vous honorez les Grecs d'une trop haute estime,
-De ma juste colère ils seront la victime ;
-Non que je les méprise, et veuille me cacher,
-Que la pure vertu chez eux se doit chercher ;
-Mais il est chez ces Grecs des brigues et des haines,
-Et des peuples jaloux et de Sparte et d'Athènes ;
-Ces peuples m'ouvriront leurs chemins et leurs ports,
-Ils viendront avec joie appuyer mes efforts,
-Pour détruire l'orgueil de ces villes trop fières,
-Et les faire sous moi succomber les premières ;
-D'ailleurs quels chefs ont-ils qui puissent m'arrêter ?
-Si jadis à Xerxes on les vit résister ;
-Il avaient Thémistocle, ils avaient Miltiade,
-Plus que tous ces guerriers j'ai craint Alcibiade ;
-Mais il est parmi nous, et ces peuples ingrats
-On engagé son coeur à me prêter son bras ;
-Oui, j'attends de vous seul cet illustre conquête,
-Ah ! Lorsque mes soldats vous verront à leur tête
-Que n'oseront-ils point sous un chef tel que vous ?
-Vengez donc votre exil en servant mon courroux.
-
--*who_alcibiade
 Moi, Seigneur ?
 
--*who_artaxerce
-      Oui, vous-même, il est temps que la Grèce
-Ressente par vos mains ma fureur vengeresse,
-N'allez point m'opposer par un subtil détour
-Que ce pays ingrat vous a donné le jour,
-Qu'il est toujours honteux d'accabler sa patrie ;
-Enfin souvenez-vous qu'Artaxerce vous prie,
-Ou plutôt qu'il commande, et c'est assez pour vous ;
-Mais pour vous engager par des moyens plus doux
-Avant que de tenter cette grande entreprise
-Je vous offre le coeur et la main d'Artémise.
-Le flambeau de l'hymen pour vous doit s'allumer,
-J'ai fait ce choix, son coeur l'a daigné confirmer,
-Épousez-la. Voyez quel honneur vous prépare,
-Malgré les Grecs jaloux, une faveur si rare.
-Hâtez-vous d'y répondre, allez sur nos autels
-Pour témoins de vos feux prenant les immortels
-Jurer en même temps la perte de la Grèce,
-Confondre des serments de haine et de tendresse,
-Et sans vous arrêter à de communs succès
-Portez votre valeur plus loin que mes souhaits.
-
--*who_alcibiade
 Mais quoi, la politique et la saine prudence,
 Peuvent-elles souffrir qu'un Grec...
 
--*who_artaxerce
-      Oui, ma vengeance
-Ne peut être remise en de meilleures mains
-Qu'en celles d'un guerrier que mille affreux dédains,
-Mille sanglants affronts ont chassé de la Grèce ;
-Mais je vois dans vos yeux des marques de tristesse
-Vous recevez mes dons avec tant de froideurs ?
-
--*who_alcibiade
 Ah ! Que ne pouvez-vous lire au fond de mon coeur ?
 
--*who_artaxerce
-Vous ne répondez rien ? Quel trouble ?
-
--*who_alcibiade
       Mon silence,
 Seigneur, vous dit assez tout ce que mon coeur pense,
 De vos dons les plus chers vous voulez m'accabler ?
@@ -1156,54 +1301,17 @@ Qu'il vous fallut un Grec, Seigneur, pour la punir,
 Et qu'elle aurait joui d'un gloire immortelle
 Si l'un de ses enfants n'eut conspiré contre elle ?
 
--*who_artaxerce
-Faibles déguisements, impuissantes raisons !
-Je sens plus que jamais renaître mes soupçons,
-Je sais ce qu'il faut croire, et toute votre adresse
-Ne saurait me cacher votre amour pour la Grèce.
-
--*who_alcibiade
 Eh bien, Seigneur, eh bien je ne le cèle pas,
 J'aurais peine contre elle à vous offrir mon bras,
 Pouvez-vous condamner un amour légitime
 Qu'un instinct noble et saint dans tous nos coeurs imprime ?
 
--*who_artaxerce
-Mais vous souvenez-vous qu'abandonné, proscrit,
-Enfin, c'est par moi qu'Alcibiade vit ?
-
--*who_alcibiade
 Oui je ne dois qu'à vous le jour que l'on me laisse,
 Ce souvenir m'occupe et m'anime sans cesse,
 Et j'atteste les dieux que mes voeux les plus doux
 Seraient que tout mon sang fut répandu pour vous,
 Mais, Seigneur, Voulez-vous...
 
--*who_artaxerce
-      Je ne veux rien, perfide,
-Je connais ta pensée et le soin qui te guide,
-C'en est fait. Indigné de tes lâches refus
-À protéger tes jours rien ne m'engage plus ;
-Apprends donc que les Grecs me demandent ta tête ;
-Qu'elle leur tiendra lieu d'une illustre conquête,
-Que leurs ambassadeurs arrivent sur mes pas,
-Prêts à tout m'accorder pour hâter ton trépas,
-Aux yeux de l'univers tu seras la victime,
-Je pourrais dans leur mains te remettre sans crime ;
-Cependant fuis leurs coups, sauve-toi malheureux,
-Cours loin de mes États te cacher si tu peux ;
-Mais grâce au destin tu vois toute le terre
-Attaché à te faire une mortelle guerre
-Entouré d'ennemis et de persécuteurs
-Si tu sors de mes mains tu tombes dans les leurs,
-Le ciel même ne peut t'affranchir de l'orage,
-Ingrat, dans ce moment rappelle ton courage,
-Ton coeur en a besoin, ne t'en prends point à moi,
-Et n'impute ta honte et ta perte qu'à toi.
-
-**** *book_ *id_III04 *act_III *date_1685
-
--*who_alcibiade
 Qu'a-t-il dit ! Qu'ai-je fait, et quelle est ma disgrâce,
 Justes dieux ! Quel péril, quel destin me menace ?
 Hélas ! Qui l'aurait cru qu'après tous mes malheurs
@@ -1229,17 +1337,6 @@ Suspect à tous les Grecs ; ingrat en apparence,
 Je meurs pour mon pays qui poursuit mon trépas,
 Et je meurs pour Palmis qui ne le saura pas.
 
-**** *book_ *id_III05 *act_III *date_1685
-
--*who_pharnabaze
-Qu'avez-vous fait, Seigneur ! Quel est votre caprice ?
-De la rage des Grecs vous rendez-vous complice ?
-Pourquoi par des refus offensez-vous le Roi ?
-Il vient de me parler, j'en tremble encore d'effroi,
-Ses yeux ne m'ont jamais marqué tant de colère,
-Dieux ! À quoi pensiez-vous ?
-
--*who_alcibiade
       Et que pouvais-je faire ?
 Je ne m'attendais pas à recevoir la mort ;
 Mais quand j'aurais prévu la rigueur de mon sort,
@@ -1260,12 +1357,6 @@ On prétendrait de moi de criminels services,
 Non, on ne dira point dans la postérité
 Que la Grèce par moi perdit la liberté.
 
--*who_pharnabaze
-Mais fallait-il, Seigneur, pour cette ingrate Grèce
-Accabler de mépris une illustre princesse ?
-Ah ! Vous deviez, Seigneur, un peu mieux ménager...
-
--*who_alcibiade
 Quoi, Pharnabaze encore conspire à m'affliger ?
 Seigneur, depuis longtemps vous devez me connaître,
 J'ai fait ce que j'ai pu, le ciel le sait. Peut-être
@@ -1278,100 +1369,9 @@ C'est faire mal sa Cour que de parler pour moi,
 Adieu. Que pour jamais ce moment nous sépare,
 Je vais attendre seul la mort qu'on me prépare.
 
--*who_pharnabaze
-Ne l'abandonnons point dans ce mortel ennui
-Et s'il se peut sauvons ce héros malgré lui.
-
-**** *book_ *id_IV01 *act_IV *date_1685
-
--*who_artemise
-Madame, c'en est fait. Qu'il vive ou qu'il périsse,
-Que de son sang aux Grecs on fasse un sacrifice ;
-Je ne m'informe plus de l'état de son sort,
-Je verrai d'un même oeil ou sa vie ou sa mort.
-
--*who_palmis
-Je vois malgré vos soins qu'en secret agitée,
-Vous sentez les transports d'une amante irritée,
-L'indifférence enfin que vous me faites voir
-Est l'infaillible effet d'un mortel désespoir,
-Que dis-je de vos yeux le trouble vous accuse.
-
--*who_artemise
-Eh bien, Madame, il faut que je vous désabuse,
-Pour rétablir ma gloire et finir votre erreur
-Des ambassadeurs Grecs j'appuierai la fureur,
-Il arrivent, le Roi s'apprête à les entendre,
-Je vais lui faire voir la parti qu'il doit prendre,
-Je vais le disposer à servir leurs desseins,
-À livrer la victime à leurs barbares mains,
-À voir périr l'ingrat que j'ai sauvé moi-même,
-Madame, après cela croirez-vous que je l'aime ?
-
--*who_palmis
-Vous ne l'aimez donc plus ? Mais vous l'avez aimé,
-Ce penchant par vos soins nous fut trop confirmé ;
-Pourrez-vous sans frémir vous faire une victime
-D'un coeur qui vous parut digne de votre estime ?
-Pour moi, vous le savez, insensible à l'amour
-Mon coeur est libre encore, mais s'il aimait un jour,
-Quelque injuste que fut l'auteur de mes alarmes,
-Je sens que contre lui je n'aurais que des larmes,
-Quand il me haïrait je l'aimerais toujours,
-Dans les moindres périls ardente à son secours
-J'y veillerais sans cesse, et ma plus chère envie
-Serait de le sauver aux dépends de ma vie :
-Ah ! Quand vers quelque objet on a porté ses voeux
-Est-il rien de plus bas que d'éteindre ses feux ?
-Mais qu'il est peu d'amours longues et violentes ?
-Surtout que l'on voit peu de ces femmes constantes,
-Qui jusques au tombeau fidèles à leurs choix,
-N'ont aimé, n'ont brûlé, ne l'ont dit qu'une fois,
-Madame, écartez-vous de la route commune,
-D'Alcibiade enfin détournez l'infortune,
-Ne vous assurez point sur un dépit trompeur,
-Et craignez un retour mortel à votre coeur.
-
--*who_artemise
-Non, non, je ne crains point ce retour de tendresse
-Des infidèles coeurs cruelle vengeresse,
-Lorsqu'à ce Grec enfin j'ai conservé le jour,
-La pitié dans mon coeur a plus fait que l'amour,
-Du bruit de sa vertu mon âme fut séduite,
-De ses persécuteurs j'arrêtai la poursuite,
-Je fus d'un malheureux l'inébranlable appui,
-Je prodiguais mes soins. J'ai fait plus aujourd'hui,
-Pour arracher l'ingrat aux fureurs de la Grèce,
-J'ai presque de mon sang oublié la noblesse,
-Je n'ai pas dédaigné de l'unir à mon sort,
-Le Roi l'a su, c'était un assez grand effort,
-Mais après son refus à lui seul trop funeste,
-La seule indifférence est tout ce qui me reste,
-De ses périls mon coeur ne sent aucun effroi
-Et croit que la colère est indigne de moi,
-Pour vous convaincre mieux de tout ce que je pense,
-Je voudrais que soigneux d'expier son offense
-Prodigue de soupirs, de pleurs et de serments
-Il vint me consacrer ses voeux, tous ses moments.
-Je voudrais qu'inspiré par l'amour le plus tendre ?
-Mais il vient, que veut-il ? Quel parti dois-je prendre ?
-Daignez nous écouter, et par cet entretien,
-Madame, connaissez et son coeur et le mien.
-
-**** *book_ *id_IV02 *act_IV *date_1685
-
--*who_alcibiade
 Que vois-je, juste ciel ! Que faut-il que je fasse ?
 Où m'avez-vous conduit ?
 
--*who_pharnabaze
-      Obtenez votre grâce,
-N'épargnez ni soupirs, ni prières, ni pleurs,
-Il ne tiendra qu'à vous de finir vos malheurs.
-
-**** *book_ *id_IV03 *act_IV *date_1685
-
--*who_alcibiade
 Il fuit, dans quel état cette fuite me laisse ;
 Parlons, puisqu'il le faut, surmontons ma faiblesse.
 Madame, vous voyez qu'interdit, étonné,
@@ -1383,25 +1383,6 @@ Sur tout ce que j'ai fait voulait être éclairci,
 S'il pouvait sans chagrins consentir à m'entendre,
 Peut-être par mes soins...
 
--*who_artemise
-      Je ne veux rien apprendre,
-J'aurai trop de regret si ma lâche bonté
-Un seul moment encore vous avait écouté,
-Pour un indigne coeur ce serait trop de gloire,
-De vos égarements j'ai perdu la mémoire,
-Et j'aime mieux cent fois ne m'en plus souvenir,
-Que de me voir enfin forcée à les punir ;
-Vous ne verrez en moi ni fureur ni faiblesse,
-Mais cependant songez au péril qui vous presse ;
-Les ambassadeurs Grecs dans ce même moment
-Poursuivent votre mort avec empressement,
-Tout seconde aujourd'hui leur cruelle entreprise,
-Et vous avez perdu le secours d'Artémise :
-Adieu.
-
-**** *book_ *id_IV04 *act_IV *date_1685
-
--*who_alcibiade
       Quelle fierté, j'ai dû la pressentir ;
 Mais Palmis suit ses pas, et je la vois sortir,
 Avec le même honneur vous me voyez, Madame ;
@@ -1409,13 +1390,6 @@ Juste ciel ! N'est-il plus de pitié dans votre âme ?
 Ne verrai-je personne en ces moments affreux
 Prendre quelque intérêt au sort d'un malheureux ?
 
--*who_palmis
-Que me demandez-vous, que pouvez-vous attendre
-D'une faible pitié qui ne peut vous défendre ?
-Artémise et le roi brûlent d'un fier courroux,
-Contre eux, vous le savez, je ne puis rien pour vous.
-
--*who_alcibiade
 Non, vous ne pouvez rien contre elle, et contre un père,
 Moi-même je ne puis condamner leur colère ;
 Elle est juste, Madame, et bientôt l'univers
@@ -1430,6 +1404,8 @@ Qu'un objet que les dieux ont formé de leurs mains
 Pour attirer lui seul tous les voeux des humains,
 Qui confond d'un regard la raison, la prudence,
 Que tant d'infortunés aiment sans espérance
+⁎⁎⁎⁎⁎⁎ Mae
+	
 Mae contraint de mourir pour ses divins appas.
 Madame, en cet état ne me plaignez vous pas ?
 Vous détournez vos yeux, je commence à comprendre
@@ -1459,23 +1435,6 @@ Dont les autres amants recherchent leur bonheur,
 Mon coeur en vous aimant n'eut jamais d'autre envie,
 Et se plaint de n'avoir donner qu'une vie.
 
--*who_palmis
-Je ne puis rassurer mon esprit confondu,
-Quel discours ? Quelle audace ? Ai-je bien entendu ?
-Un banni de la Grèce à mes yeux se déclare ?
-Il ne se souvient plus du rang qui nous sépare,
-Et sans aucun égard trahissant ma bonté,
-Abuse lâchement de ma crédulité ;
-Comment prétendez-vous expier cette offense ?
-Un autre avec éclat marquerait sa vengeance,
-Mais un juste mépris vous en punirai mieux,
-C'est une peine due aux coeurs audacieux :
-Il me suffit des maux où le destin vous livre,
-Sans que je prenne encore le soin de vous poursuivre ;
-Allez donc, étouffez des soupirs indiscrets,
-Et surtout à mes yeux ne vous montrez jamais.
-
--*who_alcibiade
 Non, j'atteste des dieux la grandeur souveraine
 Que vous ne verrez plus cet objet qui vous gêne ;
 Il faut vous le cacher, je vais prendre ce soin,
@@ -1493,107 +1452,6 @@ Jamais ma passion ne fut si violente ;
 Mais malgré l'amour dont mon coeur est épris,
 Je sens qu'il n'est point fait pour souffrir des mépris.
 
-**** *book_ *id_IV05 *act_IV *date_1685
-
--*who_amestris
-J'admire cet effort, il me charme, Madame,
-Achevez, triomphez d'une honteuse flamme ;
-Mais quoi vous soupirez, faut-il vous attendrir ?
-
--*who_palmis
-Alcibiade, hélas ! Me quitte et va mourir ;
-Ô gloire de mon sang ! Ô devoir trop barbare !
-Que de maux ! Que de pleurs ta rigueur me prépare ?
-Qu'il m'en coûtera cher d'avoir cru ma fierté ?
-Mais n'ai-je pas trop loin poussé la cruauté ?
-Injuste que je suis ? Ma bouche désespère
-Un coeur que l'amour même a choisi pour me plaire,
-Quand le mien s'applaudit et triomphe en secret,
-Je feins de m'offenser de l'aveu qu'on me fait,
-Quand toute ma raison ne me défend qu'à peine,
-La peur de me trahir me rend plus inhumaine,
-C'est à vous seuls conseils trop barbare Amestris,
-Qu'Alcibiade doit un si funeste prix,
-Sans vos cruels avis, loin de votre présence
-J'aurais eu moins de force et moins de violence,
-Avez-vous remarqué lorsque je lui parlais,
-Quel désespoir ? Mais quoi si je le rappelais ?
-Si par des mots plus doux je lui faisais comprendre...
-
--*who_amestris
-Madame...
-
--*who_palmis
-      Laissez-moi, je ne veux rien entendre,
-Ne vous opposez plus au penchant de mon coeur,
-Je veux de ce héros prévenir le malheur ;
-Rompons, rompons le cours de son destin funeste
-Qu'il vive, c'est assez, que m'importe du reste,
-Sauvons-le, s'il se peut qu'il apprenne du moins
-Par mes tristes soupirs, par mes plus tendres soins,
-Qu'en le désespérant je m'immole moi-même,
-Qu'enfin s'il meurt pour moi, s'il m'adore, je l'aime,
-Pensez-vous qu'un amour qui soutient la vertu,
-Avec tant de rigueur doive être combattu,
-Qu'un tendre mouvement inspiré par l'estime
-Puisse être avec raison regardé comme un crime ?
-Ah ! Loin qu'un tel amour ait rien de criminel,
-Qu'il serait glorieux s'il était criminel,
-Si...
-
-**** *book_ *id_IV06 *act_IV *date_1685
-
--*who_pharnabaze
-      Daignez pardonner à l'ardeur qui m'enflamme,
-Je cherche Alcibiade, il est sorti Madame,
-Quel chemin a-t-il pris ? Il était en ces lieux.
-
--*who_palmis
-Je ne sais, mais quel trouble éclate dans vos yeux ?
-Pourquoi le cherchez-vous ? Enfin de quelle criante
-De quel frémissement votre âme est-elle atteinte ?
-
--*who_pharnabaze
-Madame, il va périr. Dans ce moment le Roi
-Aux ambassadeurs Grecs vient de donner sa foi,
-Il vient de leur donner le sang qu'ils lui demandent
-Prêtes à le verser leurs mains déjà l'attendent.
-Ces cruels ennemis partout vont le chercher,
-Et contre leur fureur rien ne peut le cacher,
-Jusques dans ce palais, sans attente, sans crime,
-Par l'ordre d'Artaxerce ils prendront leur victime.
-Madame, c'en est fait.
-
--*who_palmis
-      Ah ! Courons le trouver ;
-Suivez-moi, Pharnabaze, il faut...
-
--*who_pharnabaze
-      Quoi !
-
--*who_palmis
-      Le sauver.
-
--*who_pharnabaze
-Vous, le sauver, Madame ? Ô ciel.
-
--*who_palmis
-      C'est trop attendre.
-Craignez-vous avec moi d'oser trop entreprendre ?
-L'abandonnerez-vous à ces Grecs furieux ?
-
--*who_pharnabaze
-Moi, Madame, ah ! Plutôt que j'expire à vos yeux.
-
--*who_palmis
-Finissons les périls d'un coeur si magnanime,
-Regarde qui voudra mon dessein comme un crime,
-Si je puis arracher ce héros du trépas,
-De mon empressement je ne rougirai pas.
-
-**** *book_ *id_V01 *act_V *date_1685
-
--*who_alcibiade
 Ne pourrai-je assouvir la fureur qui m'entraîne ?
 Je cours de tous côtés, et ma recherche est vaine :
 Où sont-ils les cruels contre moi conjurés,
@@ -1622,33 +1480,8 @@ Qui croira que du ciel l'arrêt irrévocable,
 Ait fait pour un seul homme un sort si peu semblable ?
 Mais que veut Amintas ?
 
-**** *book_ *id_V02 *act_V *date_1685
-
--*who_amintas
-      Je vous trouve en ces lieux,
-Je vous revois enfin, j'en rends grâce aux dieux,
-Nous vous cherchions, Seigneur, avec un soin extrême,
-Pharnabaze me suit, et Palmis elle-même.
-
--*who_alcibiade
 Palmis ! Qu'entends-je : ah ciel !
 
--*who_amintas
-      Seigneur dans un moment,
-Vos yeux seront témoins de son empressement ;
-Mais la voici.
-
-**** *book_ *id_V03 *act_V *date_1685
-
--*who_palmis
-      Je viens assure votre vie,
-Je viens vous dérober aux fureurs de l'envie,
-Cet ami généreux s'intéresse pour vous,
-Jusqu'à braver du Roi l'inflexible courroux.
-Ne vous informez point quel mouvement m'inspire ;
-Adieu, fuyez, Palmis, n'a plus rien à vous dire.
-
--*who_alcibiade
 Moi fuir ? Je ne puis pour de malheureux jours
 D'une fuite honteuse emprunter le secours ;
 Laissez-moi près de vous malgré le sort contraire
@@ -1656,37 +1489,10 @@ M'applaudir du bonheur de vous voir sans colère,
 Quel transport imprévu succède à mon effroi ?
 Je puis vous voir sans crime ; ah ! C'en est trop pour moi.
 
--*who_palmis
-Obéissez, craignez de m'irriter encore.
-
--*who_alcibiade
 Cet ordre m'est sacré, Madame, je l'adore ;
 Mais ne me pressez plus, c'est un secours trop vain,
 Qui pourrait de ma fuite assurer le chemin ?
 
--*who_pharnabaze
-Moi, Seigneur, je le puis du moins pour cet ouvrage,
-Quels que soient mes périls, j'ai tout mis en usage,
-Déjà sur le Pactole un vaisseau préparé
-Vous offre sur les eaux un chemin assuré,
-Confiez votre vie au vent qui vous appelle,
-Montrez-vous chaque jour à quelque mer nouvelle,
-Sans chercher un asile auprès d'un autre roi,
-Que les Grecs forceraient de vous manquer de foi,
-Cachez-leur votre sort, nos soins dans votre absence
-Agiront près du Roi, prendront votre défense,
-Et peut-être qu'un jour vous reverrez ces lieux
-Triomphant et chargé de noms plus glorieux ;
-Vous savez vers le port une secrète issue,
-Dont la route à vos Grecs n'est pas encore connue ;
-Je vais vous devancer, vous suivi d'Amintas,
-Secondez mon projet, et marchez sur mes pas,
-Ne vous étonnez point si l'on vient vous surprendre,
-Vous me verrez bientôt voler pour vous défendre.
-
-**** *book_ *id_V04 *act_V *date_1685
-
--*who_alcibiade
 Arrêtez, il me laisse, ami trop généreux
 Pourquoi vous chargez-vous du sort d'un malheureux ?
 Madame, permettez que je désobéisse,
@@ -1701,182 +1507,10 @@ Ne peut porter ailleurs le feu qui le dévore,
 Ne vous souvient-il plus que ce coeur vous adore ?
 Que sans cesse vers vous tous mes voeux emportez...
 
--*who_palmis
-Finissez ce discours. On vous attend : Partez.
-Contraignez un amour qu'il faut que je déteste,
-Et qui ne peut avoir qu'une suite funeste,
-Ma gloire m'en prescrit l'indispensable loi,
-Artaxerce est mon père, et vous n'êtes pas Roi ;
-Ce vous doit être assez dans ce moment terrible
-De voir qu'à vos périls je me montre sensible ;
-Je vous dirai bien plus, pour flatter vos douleurs,
-L'état où je vous vois me coûtera des pleurs,
-Et malgré les efforts de ma gloire offensée,
-J'en garderai longtemps la funeste pensée.
-
--*who_alcibiade
 Madame,
 
--*who_palmis
-      Rassurez mes esprits alarmés
-Ne me répliquez point, fuyez si vous m'aimez.
-
--*who_alcibiade
 Hélas !
 
-**** *book_ *id_V05 *act_V *date_1685
-
--*who_palmis
-      Ciel prends-en soin ! Où me vois-je réduite ?
-Je ne puis partager les périls de sa fuite,
-Cruel devoir ! Je suis tes ordres absolus.
-Magnanime héros je ne te verrai plus ;
-Tu cours au gré du sort des flots et de Neptune
-Traîner l'affreux débris d'une illustre fortune,
-Les vents vont pour jamais t'emporter loin de moi,
-Je te jure du moins de ne penser qu'à toi ?
-Fatigué de la Cour du plus grand roi du monde
-Mon coeur impatient va te suivre sur l'onde,
-Mes soupirs enflammés après toi vont voler
-Jusqu'à l'heureux instant, ou prompte à m'accabler,
-Une mort favorable à mes désirs offerte
-Arrêtera les pleurs que je donne à ta perte.
-
-**** *book_ *id_V06 *act_V *date_1685
-
--*who_artemise
-Je la vois, pénétrons les secrets de son coeur,
-Puis-je vous demander quelle injuste douleur,
-Quel transport imprévu, quelles vives alarmes,
-Madame, de vos yeux ont fait couler des larmes ?
-Fille du plus puissant, du plus juste des rois,
-Cent monarques jaloux attendent votre choix ;
-Unique et digne objet de l'amour d'un tel père,
-Une superbe Cour vous sert et vous révère,
-Quand tout conspire ensemble à vos voeux les plus doux,
-Est-il quelque chagrin qui passe jusqu'à vous ?
-
--*who_palmis
-Madame, je n'ai point de sujet de tristesse.
-
--*who_artemise
-Pourquoi me cachez-vous la douleur qui vous presse ?
-Jusques à ce moment vous ne me celiez rien,
-Et l'amitié joignait votre sort et le mien,
-Aujourd'hui de vos pleurs vous faites un mystère,
-Je ne vous presse plus, c'est à moi de me taire ;
-Mais, Madame, souffrez que j'ose m'informer
-D'un proscrit dont le sort peu encore m'alarmer ?
-Tantôt quand je l'ai fuit vous êtes demeurée,
-Comment vous êtes-vous d'avec lui séparée ?
-Quels étaient ses discours ? A-t-il justifié
-Les criminels refus qui l'ont sacrifié ?
-On dit même qu'ici vous venez de l'entendre ;
-Vous vous troublez : voilà ce que je veux apprendre,
-Et sans chercher encore de nouvelles raisons,
-Ce trouble où je vous vois éclaircit mes soupçons.
-De l'orgueil de mon sang reprenons les maximes,
-D'un perfide étranger punissons tous les crimes :
-C'est est un que la mort ne saurait réparer,
-D'avoir pu sans amour me faire soupirer,
-Que me sert qu'à la Grèce Artaxerce le livre ?
-C'est pour mes intérêts qu'il doit cesser de vivre ;
-Vous, Madame, craignez l'impatient courroux
-D'un père justement irrité contre vous.
-
--*who_palmis
-Moi, Madame !
-
--*who_artemise
-      Courons. Ô ciel que vais-je faire ?
-Quoi donc en un moment à moi-même contraire
-Je vais perdre un héros que j'ai tant protégé
-De tant d'autres malheurs par le sort affligé ?
-Par un motif honteux je deviens inhumaine ;
-Et jusques sur Palmis je veux porter ma haine ;
-S'ils n'ont pu résister au penchant de leur coeur,
-Quel crime ont-ils commis digne de ma fureur ?
-Et quoi qu'un fol amour encore me persuade,
-M'était-il plus permis d'aimer Alcibiade ?
-Ouvre les yeux enfin faible Artémise, vois
-Quel opprobre à jamais va rejaillir sur toi ?
-Hein encore tes jours coulaient dans l'innocence,
-Ton coeur ne connaissait ni courroux ni vengeance,
-Tu n'aurais pu former sans tressaillir d'horreur
-Un seul de ces projets qu'enfante ta fureur,
-Regarde où te conduit l'ardeur d'être vengée,
-Malheureuse et combien un jour seul t'a changée ?
-Madame pardonnez à mon égarement,
-Ma honte, ma douleur suffit pour mon tourment :
-Et toi perfide amour qu'à jamais je déteste,
-Terrible passion, penchant vraiment funeste ?
-Ne faut-il qu'un moment à ton cruel poison
-Pour bannir la vertu, pour troubler la raison ?
-Laisse-moi. Je reprends l'empire de mon âme ;
-Si j'ai pu m'égarer par une indigne flamme,
-Je montrerai bientôt par des soins éclatants
-Que du moins mon erreur n'a pas duré longtemps.
-
-**** *book_ *id_V07 *act_V *date_1685
-
--*who_artaxerce
-J'ai prononcé, Madame, et vous serez vengée
-À punir un ingrat ma gloire est engagée,
-Ma pitié désormais ne saurait l'épargner
-Sans rompre la traité que je viens de signer,
-Ce jour éclairera cette mort légitime.
-Les Grecs impatients poursuivent leur victime,
-Et dans ces mêmes lieux témoins de ses mépris
-Cet infidèle coeur en recevra le prix,
-Son adresse ne peut le cacher à leur vue,
-Ici de tous côtés leur troupe est répandue,
-Il n'est point de passage, il n'est point détour
-Que leurs yeux irrités n'observent tour à tour
-Jamais contre un tyran des peuples en furie
-N'ont montré tant de haine, et tant de barbarie,
-Que contre ce proscrit autrefois leur appui.
-Ces mortels ennemis en font voir aujourd'hui :
-Mais quoi vous frémissez, craignez-vous de m'entendre ?
-
--*who_artemise
-Au prix de tout mon sang je voudrais le défendre,
-Oui, Seigneur, révoquez un ordre trop cruel.
-Sauvez Alcibiade, il n'est point criminel,
-Vous apprendrez un jour toute sa destinée,
-Elle est, n'en doutez point, assez infortunée
-Pour mériter de vous un reste de pitié,
-Au nom de mes aïeux, et de votre amitié,
-Hâtez-vous et des Grecs prévenez la vengeance.
-
--*who_artaxerce
-Ô ciel ! De ce discours que faut-il que je pense ?
-J'ai cru voir dans vos yeux les plus vives fureurs,
-Cependant je n'y vois que les plus tendres pleurs.
-Un banni de la Grèce ose braver la Perse.
-Il méprise les dons, l'amitié d'Artaxerce,
-Il refuse la main que vous lui présentez;
-Et pour ses jours encore vous vous inquiétez ?
-Quel mouvement secret, quel force invincible
-À tant d'affronts reçus peut vous rendre insensible ?
-Avez-vous oublié l'orgueil de votre sang,
-Et tous les fiers devoirs qu'exige votre rang ?
-Mais quoi tous mes efforts, tant de raisons pressantes
-Contre un lâche ennemi deviennent impuissantes ?
-
-**** *book_ *id_V08 *act_V *date_1685
-
--*who_memnon
-Seigneur, Alcibiade attend près de ces lieux,
-Il demande à vous voir.
-
--*who_artaxerce
-      Qu'entends-je ? Justes dieux,
-Qu'il entre, que mon âme est ici combattue ?
-Puis-je ? Mais quel objet se présente à ma vue ?
-
-**** *book_ *id_V09 *act_V *date_1685
-
--*who_alcibiade
 Laissez-moi, Pharnabaze, en vain vous me priez,
 Je veux voir Artaxerce, et mourir à ses pieds,
 Ah ! Seigneur, vous voyez au gré de votre envie
@@ -1900,10 +1534,6 @@ Voyez quel est le prix qu'a reçu ma tendresse,
 D'un amour sans espoir le tyrannique effort
 A plus fait contre moi que les Grecs ni le sort.
 
--*who_artaxerce
-Ah ! Que m'apprenez-vous ?
-
--*who_alcibiade
       Je parlai. Sa colère
 Fut le prix malheureux d'un amour téméraire,
 Si je n'ai pu prétendre à recevoir sa foi,
@@ -1925,14 +1555,175 @@ Elle craint ces objets, et cède à leur présence.
 Pour remplir mon destin sans en être abattu,
 Je sens que j'ai besoin de toute ma vertu.
 
--*who_artemise
-Quel malheur, justes dieux !
 
--*who_palmis
-      Fortune impitoyable.
-Il expire.
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
 
--*who_artaxerce
-      Je vois que ce coup vous accable
-Mais loin de condamner de si justes douleurs
-Je suis prêt avec vous de répandre des pleurs.
+Ciel !
+
+Madame au nom des dieux finissez ce discours,
+Gardez-vous à jamais d'en reprendre le cours,
+Et ne m'affligez point par une confidence
+Indigne de mes soins et de ma naissance.
+
+C'en est donc fait, grands dieux votre esprit confondu
+D'un poison dangereux ne s'est point défendu :
+Insensible au bonheur que goûte un coeur tranquille
+Aveugle aux longs tourments d'une flamme inutile
+Pour un vil étranger le fille d'un grand roi
+Brûle d'un feu secret sans honte et sans effroi.
+
+Et depuis quand ce coeur s'est-il rendu sensible ?
+Lui qui dans ses devoirs paraissait inflexible,
+Qui les remplissait tous sans trouble et sans regret.
+
+Ah ! Que me dites-vous, quoi votre âme agitée
+Par tant d'égard pressants ne peut être arrêtée ?
+D'Artémise en secret vous condamnez l'espoir ?
+Et quel projet contre elle osez-vous concevoir ?
+Quoi ! Vous flatteriez-vous qu'un honteux hyménée,
+
+Madame, c'en est trop, redoublez vos efforts,
+Étouffez ou calmez ces indignes transports,
+Je crains que votre gloire, et que sur votre vie.
+
+J'admire cet effort, il me charme, Madame,
+Achevez, triomphez d'une honteuse flamme ;
+Mais quoi vous soupirez, faut-il vous attendrir ?
+
+Madame...
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintas
+
+Après un tel aveu nous vous verrons reprendre
+Le rang dont vos soupçons vous avaient fait descendre.
+Artaxerce, Seigneur, entendra vos discours,
+Et d'un scrupule vain arrêtera le cours :
+Allez, et qu'une fois encore la Grèce admire
+Le pouvoir d'un proscrit dans cet auguste Empire,
+Qu'à son tour votre nom la force de trembler.
+
+Que dites-vous,Seigneur ?
+
+Je vous entends, Seigneur, j'en pénètre la cause,
+Faut-il que de vos jours encore l'amour dispose ?
+Après tant de périls avec peine évités
+Osez-vous vous lier au joug dont vous sortez ?
+Ne vous souvient-il plus, quelle fuite cruelle
+D'embarras, de remords, de contrainte mortelle,
+Quel funeste poison a versé sur vos jours
+De vos attachements le déplorable cours ?
+Pardonnez-moi, Seigneur, je ne saurais me taire,
+Et je vous trahirais si j'étais moins sincère ;
+De vos travaux l'amour vous a ravi le fruit,
+Et de votre nom même a profane le bruit.
+Quel guerrier couronné dans mains de la victoire
+Porta jamais si loin sa valeur et sa gloire ?
+Quel héros avec vous aurait-on comparé ?
+Si votre coeur jamais ne se fût égaré,
+Et n'eut fait voir souvent par un mélange injuste,
+Des faiblesses d'amour dans une vie auguste :
+Ah ! Seigneur, rappelez ce fatal souvenir.
+
+Ah ! Quel indigne aveu, Seigneur, osez-vous faire.
+
+Par tant d'illustres faits votre nom consacré
+Seigneur, dans l'avenir doit être révéré ;
+Nos neveux...
+
+En vain vous m'étalez des charmes de Palmis,
+Seigneur, tout l'univers en célèbre le prix ;
+Mais de les adorer il fallait vous défendre,
+D'un amour si fatal que pouvez-vous attendre ?
+
+Où courez-vous, Seigneur ; quoi, fuyez-vous le roi?
+
+Juste Ciel ! Quel dessein ? Contraignez-vous, Seigneur,
+De ce fatal secret vous savez l'importance,
+Souffrez plutôt encore en gardant le silence,
+Que de vous exposer à des malheurs plus grands.
+
+Dans la Grèce, Seigneur, la vertu toute nue
+Par son mérite seul est assez soutenue,
+Et sans parer son nom de titres fastueux,
+On est grand parmi nous quand on est vertueux.
+Mais ici nos décrets, nos moeurs et nos maximes,
+Perdent toute leur force, et passent pour des crimes.
+Une crainte servile est le premier devoir
+Qu'imprime dans les coeurs un absolu pouvoir :
+Tout tremble, tout fléchit sous la grandeur suprême,
+Heureux dans ces climats qui porte un diadème,
+Ou qui peut se vanter d'être sorti d'un sang
+Qui le peut quelque jour élever à ce rang.
+Cessez donc de poursuivre un projet inutile,
+Ne perdez point en vain votre dernier asile ;
+Ces rois qui d'Artaxerce accompagnent les pas,
+Qui lui font un tribut d'armes et de soldats ;
+Les princes ses voisins, et ceux de sa famille
+Ont des yeux comme vous, et brûlent pour sa fille ;
+Sans doute quelqu'un d'eux s'est déjà déclaré,
+Et du coeur de Palmis s'est peut-être emparé ;
+Votre amour fait lui seul les maux qui vous arrivent :
+Cessez... mais le roi vient, les princesses le suivent.
+
+      Je vous trouve en ces lieux,
+Je vous revois enfin, j'en rends grâce aux dieux,
+Nous vous cherchions, Seigneur, avec un soin extrême,
+Pharnabaze me suit, et Palmis elle-même.
+
+      Seigneur dans un moment,
+Vos yeux seront témoins de son empressement ;
+Mais la voici.
+
+
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
+
+Eh pouvais-je prévoir que votre prompt réveil,
+Seigneur devancerait le retour du soleil,
+Que sans être lassé d'une course rapide,
+Pharnabase fidèle à l'ardeur qui le guide,
+Arrivant à Sardis après mille travaux,
+Refuserait d'y prendre un moment de repos ?
+
+Quoi, Seigneur ?
+
+Eh ! Pourquoi vous gêner d'une crainte importune ?
+Seigneur, tant de vertu soutient votre fortune.
+Que personne n'osant y prétendre après vous,
+Ce rang que vous tenez ne fait point de jaloux ;
+Alcibiade seul pouvait mieux qu'un autre
+Égaler dans l'État sa puissance à la vôtre,
+Et partager du roi l'estime et la faveur,
+Mais l'éclat de ce rang n'a point flatté son coeur,
+Et ce héros cherchant un séjour plus tranquille.
+Dans les murs de Sardis a choisi son asile,
+Où depuis plus d'un an son sort enseveli
+Demeurerait peut-être en un profond oubli,
+Si l'univers entier occupé de sa gloire
+Pouvait un seul moment en perdre la mémoire.
+
+      Seigneur,
+Puis-je vous informer de l'état de son coeur ?
+Tous mes efforts n'ont pu le découvrir encore,
+Je ne vous dirai point quel chagrin le dévore ?
+Mais les dehors trompeurs de la tranquillité
+Nous cachent mille soins dont il est agité ;
+Ce mépris de la Cour, cet exil volontaire
+Fut trop précipité pour être sans mystère.
+Il n'en faut point douter, Alcibiade feint,
+Dans tous nos entretiens il m'a paru contraint,
+Et dans ses sentiments qu'il étale sans cesse,
+Son coeur a moins de part, Seigneur, que son adresse.
+
+Vous l'apprendrez, Seigneur, et dans votre entrevue
+Il vous découvrira son âme toute nue,
+Son secret avec vous ne peut longtemps durer.
+
+Du bruit de votre nom l'armée est prévenue,
+Seigneur, et chaque jour attend votre vue.
+
+Pharnabaze, Seigneur, vous attend pour partir.
+
+Seigneur, Alcibiade attend près de ces lieux,
+Il demande à vous voir.
+

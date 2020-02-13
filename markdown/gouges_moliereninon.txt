@@ -1,6 +1,6 @@
 ---
 identifier: gouges_moliereninon  
-creator: Gouges, Olympe de  
+creator: Gouges, Olympe de ; Georges Forestier.  
 date: 1788  
 title: Molière chez Ninon ou Le siècle des grands hommes. Pièce épisodique en prose et en cinq actes.  
 ---

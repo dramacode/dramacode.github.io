@@ -1,6 +1,6 @@
 ---
 identifier: gougenot_fideletromperie  
-creator: Gougenot, Nicolas  
+creator: Gougenot, Nicolas ; Georges Forestier.  
 date: 1633  
 title: La Fidelle Tromperie. Tragi-comédie  
 ---
@@ -4758,7 +4758,7 @@ Je ne sçay quel effect produira tout cecy.
 Allons à la rencontre.  
 
     CLIDAME.
-        Ah ! monsieur, le voicy.  
+        Ah ! monsieur, le voicy.   
 
 
 ### SCENE SEPTIESME.

@@ -1,6 +1,6 @@
 ---
 identifier: boisrobert_cassandre  
-creator: Boisrobert, François Le Métel de  
+creator: Boisrobert, François Le Métel de ; Georges Forestier.  
 date: 1654  
 title: Cassandre, comtesse de Barcelone. Trage-comédie  
 ---

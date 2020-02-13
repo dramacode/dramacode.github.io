@@ -1,498 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1802
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
--*who_chapelle
-Messieurs, dans un instant vous allez voir Ninon.
-
--*who_unseigneur
-Vous semblez bien ému....
-
--*who_chapelle
-      Je le suis.
-
--*who_unseigneur
-      Tout de bon.
-
--*who_chapelle
-Vous ne devinez pas ?
-
--*who_unseigneur
-      Mais je crois vous comprendre ;
-Ninon vous a séduit.
-
--*who_chapelle
-      Je ne puis m'en défendre.
-Je mettrais mon bonheur à vivre sous ses lois.
-Sa figure, un regard, jusqu'au son de sa voix,
-Tout me charme, m'anime, et porte dans mon âme
-Le pénible embarras d'une secrète flamme.
-
--*who_unseigneur
-Chapelle n'est-il pas surpris de son amour,
-Lui, dont le coeur jamais n'a brûlé plus d'un jour ?
-
--*who_chapelle
-Eh bien Ninon, je crois, change mon caractère.
-Solide en amitié, dans ses amours légère,
-Je trouve à l'adorer un invincible attrait ;
-Plaire est son habitude, et charmer son secret.
-Pour l'esprit, quelle femme ! Autour d'elle, sans cesse,
-Le talent, le génie accourt, vole, s'empresse.
-Savante sans orgueil, belle sans vanité,
-Tout en elle est parfait, et rien n'est emprunté ;
-Elle sait attirer, grâce à ses doubles armes,
-Des amis pour son coeur, des amants pour ses charmes
-Eu un mot, la beauté, l'esprit et la raison,
-On voit tout réuni, lorsque l'on voit Ninon.
-La voici.
-
-**** *book_ *id_I02 *act_I *date_1802
-
--*who_ninon
-      Pardonnez si je n'ai pu me rendre...
-
--*who_chapelle
-Quand l'espoir nous soutient, sans peine on peut attendre.
-
--*who_ninon
-Messieurs, j'ai pour ce soir quelques desseins sur vous.
-
--*who_chapelle
-Quelques desseins ? Madame, ah ! disposez de nous.
-
--*who_ninon
-Êtes-vous libres ?
-
--*who_unseigneur
-      Mais....
-
--*who_ninon
-      Allons, de la franchise :
-Quelque projet galant ?
-
--*who_unseigneur
-      S'il faut que je le dise,
-Un certain rendez-vous ...
-
--*who_ninon
-      Vous vous y trouverez ?
-
--*who_unseigneur
-Mais oui.
-
--*who_ninon
-      Mais non...
-
--*who_unseigneur
-      Comment ?
-
--*who_ninon
-      Vous le différerez.
-
--*who_unseigneur
-Nous avons bien promis.
-
--*who_ninon
-      Manquer à sa promesse
-En amour, c'est un jeu... fausse délicatesse !
-Je puis compter sur vous pour ce soir, n'est-ce pas ?
-Vous hésitez... Vraiment !... Vous vous parlez tout bas ?
-
--*who_chapelle
-Peut-on vous résister ?...
-
--*who_ninon
-      Eh grands dieux ! Que de peine !
-Ce n'est que pour un soir, messieurs, qu'on vous enchaîne.
-
--*who_chapelle
-Que ce soit pour la vie !
-
--*who_ninon
-      Ah ! Le beau sentiment !
-Pour la vie !... Achevez ?... Faites vite un serment :
-D'un éternel amour donnez-moi l'assurance ;
-Moi, je vais vous jurer une égale constance,
-Nous mentirons tous deux... Mais c'est trop discourir :
-Apprenez donc pourquoi je veux vous retenir.
-Au théâtre ce soir on donne un bel ouvrage,
-Dont le but est moral, le ton vrai, le plan sage,
-Dont chaque caractère est neuf et bien tracé,
-Un ouvrage, en un mot, bien écrit, bien pensé.
-Nous devons ce chef-d'oeuvre à cet auteur facile,
-Vrai dans tous ses tableaux, naturel dans son style,
-Dont la grâce hardie et la franche gaîté
-Sont des titres sacrés à l'immortalité.
-Vous le reconnaissez, n'est-ce pas ?
-
--*who_tous
-      C'est Molière.
-
--*who_ninon
-Son Tartuffe ce soir est soumis au parterre.
-Voilà pourquoi Ninon voulait vous enchaîner.
-Hé bien, vous vous laissez aisémeut entraîner ?
-Vous quittez sans regret l'amour pour le génîe,
-Et de tristes ardeurs, pour une comédie.
-On a toujours le temps de pousser un soupir,
-Et l'on n'a pas toujours un chef-d'oeuvre à loisir.
-Enfin, si vingt beautés flattent votre espérance,
-Vous n'avez qu'un Molière à fêter dans la France.
-Venez , venez ce soir.... Vous savez mes amis,
-Que cet illustre auteur a beaucoup d'ennemis
-Même à la cour ; il faut, ligués pour sa victoire,
-Par de communs efforts , favoriser sa gloire.
-Croyez- moi : du Tartuffe en protégeant l'essor,
-À la postérité nous gardons un trésor.
-
-**** *book_ *id_I03 *act_I *date_1802
-
--*who_unvalet
-Monsieur de Saint-Alban.
-
--*who_ninon
-      L'ennemi de Molière !
-
--*who_chapelle
-Eh quoi ! Du Président l'odieux Secrétaire !
-
--*who_ninon
-Je ne l'attendais pas et je tremble...
-
--*who_chapelle
-      Comment !
-
--*who_ninon
-Cet homme qui sait feindre un zèle si fervent
-Est un saint imposteur dont la visite cache
-Un but inquiétant. Vous savea qu'il s'attache
-À perdre dans l'esprit du premier Préâident
-Molière, et du Tartuffe est l'ennemi puissant.
-Je l'entends... Vous saurez tout ce qu'il va m'apprendre ;
-Au théâtre, ce soir, songez tous à vous rendre.
-
--*who_chapelle
-Oui Ninon ; voir Tartuffe, et céder à vos voeux ,
-Au lieu d'un seul plaisir, c'est en rencontrer deux.
-
-**** *book_ *id_I04 *act_I *date_1802
-
--*who_saintalban
-Un motif important auprès de vous m'amène.
-Madame.
-
--*who_ninon
-      Je le crois, veuillez prendre la peine...
-
--*who_saintalban
-Non madame, deux mots : et je pars à l'instant.
-En vous Molière eucor trouve un appui constant,
-M'a-t'on dit ?
-
--*who_ninon
-      Il est vrai.
-
--*who_saintalban
-      Vous l'avouez sans crainte.
-
--*who_ninon
-Molière est mon ami, je le redis sans feinte...
-
--*who_saintalban
-Quel ami ! Savez-vous quel complot odieux
-Il invente aujourd'hui pour tromper tous les yeux ?
-
--*who_ninon
-J'ignore tout ; parlez ?....
-
--*who_saintalban
-      Je vais en confidence
-Vous révéler ce trait ; de votre confiance
-Vous verrez que cet homme est indigne à jamais.
-
--*who_ninon
-Mais, monsieur, parlez donc ?
-
--*who_saintalban
-      Connaissez ses forfaits.
-Vous savez qu'il répand que notre grand Monarque
-Qui, trop faible parfois, lui donna quelque marque
-D'une folle amitié, permet formellement
-Que l'on joue à Paris Tartuffe...
-
--*who_ninon
-      Eh bien ?
-
--*who_saintalban
-      Il ment.
-Moi-même, ainsi que vous, j'ai donné dans le piège :
-Mais je connais enfin son coupable manège.
-Par le courrier de Lille, à l'instant on m'écrit
-Que, par le Roi, l'ouvrage est défendu, proscrit.
-Vous voyez de quel tour Molière était capable !
-Cessez de recevoir un homme si capable
-Qui pour mieux insulter les soutiens de la foi,
-Osait nous déguiser la volonté du Roi.
-
--*who_ninon
-Non, Monsieur, je connais et j'estime Molière.
-On veut le perdre ; mais la ruse est trop grossière.
-L'ordre est vrai, bien donné ; le Tartuffe est permis ;
-Mais cet ordre est verbal : de méchants ennemis
-Le révoquent en doute et refusent d'y croire.
-Molière est innocent ; je l'aime et j'en fais gloire.
-Chez moi, vous le verrez à toute heure, en tout temps.
-J'admire sa bonté, ses vertus, ses talents.
-
--*who_saintalban
-Sa bonté ! Quand sa plume injurie et déchire :
-Ses vertus ! Quand son coeur pour mille attraits soupire :
-Ses talents !...
-
--*who_ninon
-      C'est assez ; partout ils sont connus.
-Ainsi, parlons plutôt de ses torts prétendus.
-Dans le Tartuffe enfin , que pouvez-vous reprendre ?
-
--*who_saintalban
-Ce que j'y reprends ? Dieux ! Mais faut-il vous l'apprendre ?
-Contre les vrais croyants, ses traits et ses bons mots...
-
--*who_ninon
-Vous vous trompez : bien loin d'attaquer les dévots,
-À la religion il offre son génie
-Pour armer la raison contre l'hypocrisie.
-Saint-Alban, revenez de votre injuste erreur :
-Jugez-mieux de Molière et surtout de son coeur ;
-Gardez-vous d'imiter cette foule insensée
-Qui veut tuer l'esprit, enchaîner la pensée :
-Devenez de Molière et le guide et l'appui :
-Laissez, laissez jouer son ouvrage aujourd'hui,
-Et songez que partout à bon droit on renomme
-Celui qui s'avoua protecteur d'un grand homme.
-
--*who_saintalban
-Non Madame, Tartuffe est un enfant mort-né
-Qui, dès ce jour, doit être à l'oubli condamné.
-Le Président le veut : votre ardente prière ,
-Celle des courtisans et de la France entière
-Ne me fléchiraient pas ; Tartuffe est au tombeau.
-
--*who_ninon
-Vous croyez ? Son succès n'en sera pas moins beau.
-Vainement vous voulez qu'il meure, qu'on l'oublie ;
-Car moi je ferai tout pour le rendre à la vie.
-Oui, je veux lui donner un éclat mérité.
-Sur d'illustres amis en tout temps j'ai compté ;
-Je vais les réunir, et dans nn cercle immense
-Que l'on pourra nommer l'Elite de la France,
-Molière viendra lire avec empressement
-Cet ouvrage immortel que 1'intrigne défend.
-
--*who_saintalban
-Quoi ?
-
--*who_ninon
-      Pour les rassembler, je vole leur écrire.
-Ce soir ici venez, et vous entendrez lire
-Molière ; pour Théâtre, il aura ce Salon,
-Et l'un aura joué Tartuffe chez Ninon.
-
-**** *book_ *id_I05 *act_I *date_1802
-
--*who_saintalban
-Ah ! Vous voulez braver l'antorité suprême,
-Belle Ninon ! Craignez que mon courroux extrême....
-Mais elle assemblera quelques hommes puissants
-Contre qui tous mes droits seront insuffisants.
-Tartuffe sera lu ; dès ce soir le grand monde
-Redira chaque vers, chaque mot qui nous fronde.
-À la ville, à la Cour, nous serons bafoués,
-Malgré notre pouvoir, publiquement joués...
-Ah ! Maudits soient Tartuffe, et Ninon, et Molière !
-Et puisse des auteurs, la race toute entière...
-Mais cherchons les moyens d'empêcher que ce soir...
-
-**** *book_ *id_I06 *act_I *date_1802
-
--*who_laforet
-Mademoiselle Ninon... Je désirons la voir
-Ben vite... Je venons de la part de notr' maître
-Luii dire que... Monsieur?... Va-t-elle bentôt paraître ?
-C'est que c'est du la part d'un auteur son ami
-De Molière,
-
--*who_saintalban
-      Molière ! En vérité...
-
--*who_laforet
-      Mais oui,
-Et c'est moi que partout on nomme sa servante.
-
--*who_saintalban
-C'est vous dont le public depuis si longtemps vante
-Les conseils que parfois vous donnez ?
-
--*who_laforet
-      Oui monsieur.
-C'est moi que chaque jour, sauf un avis meilleur,
-Mon cher maître consulte avant que ses ouvrages
-Reçoivent du public de beaux et bons suffrages.
-
--*who_saintalban
-Je re m'étonne plus s'ils sont aussi mauvais.
-
--*who_laforet
-Mauvais ! Vous voudriez, j'gage, les avoir faits.
-
--*who_saintalban
-Grands Dieux !
-
--*who_laforet
-      Je regrettons que sa dernière pièce
-Soit arrêtée... Oh ! Dam ! Quel plaisir ! Quelle ivresse.
-Elle eut causé ce soir !... Un maudit Saint-Alban...
-Qui mène comme il veut monsieur le Président.
-
--*who_saintalban
-Comment ?...
-
--*who_laforet
-      Ce Saint-Alban dévot, ou qui sait l'faire ,
-En secret, a dit-on , embrouillé cette affaire
-Si ben que notr' Tartuffe au moment d'etr'connu ,
-Peut-être dans l'oubli, pour jamais est perdu.
-
--*who_saintalban
-C'est dommage !...
-
--*who_laforet
-      C'était une pièce de mérite !
-Dans la France, il n'est pas un petit hypocrite
-Qui n'eut dit : Mais c'est moi... L'on prétend, je l'croyons,
-Que monsieur Saint-Alban pour de pareill' raisons
-L'a fait défendre exprès ; il a cru se r'connaître....
-Entre nous, convenons que çà pourrait ben être.
-On voit dans cette pièce un homme ben cafard.
-Sensuel par nature et dévôt avec art,
-Qui contemplant ensemble, et le Ciel et les femmes,
-Garde pour lui les corps et donne à Dieu les âmes.
-Mais pour se vendre ainsi, que cet homme est donc sot !
-On n'l'eut pas reconnu peut-êtr' s'il n'eut dit mot.
-Voilà comme souvent, par abus de puissance,
-Contre lui plus d'un Grand éveill' la médisance,
-Et ressemble au voleur qui sur le mot : coquin
-Se croyant appellé, s'empresse de dire : Hein.
-
--*who_saintalban
-Ma mie...
-
--*who_laforet
-      Eh qu'avez vous ?
-
--*who_saintalban
-      Finissez, je vous prie,
-Cette comparaison...
-
--*who_laforet
-      C'est un Grand je parie...
-C'est égal, poursuivons.
-      Vous êtes loin d' savoir
-Le tour qu'à Saint-Aiban mon maîtr' jouera ce soir.
-Pour que du Président il perd' la confiance,
-Il faut semer entr'eux la mésintelligence.
-Il faut qu'à Saint-Alban le Président demain
-Reproche avec humeur ce manèg' clandestin.
-Notre moyen est sûr.
-
--*who_saintalban
-      Voyons donc ce miracle ?
-
--*who_laforet
-Ce soir, quand le public sera dans not' spectacle,
-Il demand'ra Tartuff'. Les ouvrag's défendus
-Sont ceux que le public toujours aime le plus.
-
--*who_saintalban
-Après...
-
--*who_laforet
-      Molière dira : « Messieurs , c'est impossible.
-Un pareil contre-temps comme à vous m'est sensible ;
-Mais un ordre formel m'empêche par malheur
-De donner aujourd'hui Tartuffe ou l'Imposteur,
-Monsieur le Président ne veut pas qu'on le joue.»
-
--*who_saintalban
-Quoi ?...
-
--*who_laforet
-      C'est un bon soufflet qu'il aura sur la joue
-Le Président ?
-
--*who_saintalban
-      C'est trop...
-
--*who_laforet
-      D'abord il le rec'vra ,
-Et puis à Saint-Alban ben vite il le rendra.
-
--*who_saintalban
-Ah ! Si Molière osait !...
-
--*who_laforet
-      Sentez-vous l'équivoque ?
-Qu'on le joue.... Oh ! Je vols le public qui se moque
-Du pauvre Président, si fourbe, si cagot.
-Je vois ce Saint-Alban enrager comme un sot.
-Il pouss' le Président à venger cette offense,
-Mais sur lui, dès ce soir, tombe tout' la vengeance.
-Le Président le chasse, et dit avec courroux :
-« On se moque de moi, pour se moquer de vous. »
-
--*who_saintalban
-Que Molière !...
-
--*who_laforet
-      Il le f'ra.
-
--*who_saintalban
-      D'un semblable artifice
-Dès demain, dès ce soir, les lois me font justice.
-
-**** *book_ *id_I07 *act_I *date_1802
-
--*who_laforet
-V'la mon maîtr'...
-
--*who_saintalban
-      Molière !
-
--*who_moliere
       Ah ! Monsieur Saint-Alban !
 
--*who_laforet
-Saint Alban, quoi ? Grand Dieu ! Sauvez-vous promptement.
-
--*who_moliere
 Eh pourquoi ?
 
--*who_laforet
-      J'ai tout dit... 0h ! Quelle étourderie !
-Sauvez-vous...
-
--*who_moliere
       Laisse-moi...
 
--*who_saintalban
-      De votre effronterie
-Je suis instruit , monsieur : et je vous apprendrai
-Qu'un magistrat honnête, et sage, et révéré
-N'est pas fait pour se voir l'objet des perfidies
-D'un fol auteur qui fait de sottes comédies.
-
--*who_moliere
 Vos outrages, Monsieur, ne peuvent m'affecter ;
 Y répondre serait presque les mériter.
 L'honnête magistrat que la justice anime,
@@ -506,85 +21,24 @@ Oui, dans l'homme irrité, je crois voir cet enfant
 Qui choqué des défauts que son miroir retrace,
 Ne pouvant le changer, pleure et brise la glace.
 
--*who_saintalban
-Bien, fort bien : déclamez, monsieur le comédien ;
-Dites-nous de grands mots qui ne nous peignent rien.
-Mais je vais au fait, moi... Ce soir même, au théâtre,
-Quand vous réunirez votre foule idolâtre,
-Vous ferez demander le Tartuffe ; Voyons ,
-Là, que répondrez-vous ? Direz-vous pour raisons ?
-« Monsieur le Président ne veut pas qu'on le joue. »
-
--*who_moliere
 Pourquoi non ?
 
--*who_saintalban
-      Sans détour il l'avoue !
-Eh bien ! Mon cher monsieur, vous vous repentirez
-De ce mauvais bon mot ; vous verrez, vous verrez.
-Votre pièce n'était encor que suspendue :
-Vous pouvez dès ce jour la croire défendue.
-Il est calme...
-      Bien plus ; ce chef-d'oeuvre nouveau
-Grâce à moi, sera brûlé par le bourreau.
-Il n'est pas plus ému...
-      Vous changerez de style,
-Monsieur, il est encor des prisons dans la ville.
-Il sourit.... Pour le coup signalons mon pouvoir ,
-Et sachons empêcher sa lecture ce soir.
-Je dirai désormais à qui voudra l'entendre,
-Qu'un auteur est homme, un homme ! Un homme à pendre.
-
-**** *book_ *id_I08 *act_I *date_1802
-
--*who_moliere
 Eh bien ?
 
--*who_laforet
-      Eh bien ?
-
--*who_moliere
       Comme il se reconnaît !
 Comme il a peur de lui ! Tu l'as vu ; son portrait
 L'a fait pâlir d'horreur, écumer de colère,
 Et sortir malgré lui de son saint caractère.
 
--*who_laforet
-J'avais ben préparé ce qui vient d'arriver.
-
--*who_moliere
 Comment donc ?
 
--*who_laforet
-      J'ignorais que je dusse trouver
-Ici votre ennemi : je croyais sur mon âme
-Que ce Monsieur était un ami de Madame :
-Et j'avais critiqué sans crainte, franchement,
-La fausse piété du maudit Saint-Alban.
-
--*who_moliere
 Mais lu l'as critiqué sans lui dire d'injures.
 
--*who_laforet
-Oui, j'ai dit seulement quelques vérités dures :
-Qu'il était un cafard, un....
-
--*who_moliere
       Mais y penses-tu?
 Un homme qui peut nuire ! Et qu'a-t-il répondu ?
 
--*who_laforet
-Mais rien, il a semblé faire la sourde oreille.
-
--*who_moliere
 Va, c'est ma chère enfant le lion qui sommeille.
 
-**** *book_ *id_I09 *act_I *date_1802
-
--*who_laforet
-Mon cher maître, je crains de vous avoir fait tort.
-
--*who_moliere
 Pourquoi ? N'ai-je pas dit que jusques à la mort,
 J'attaquerais de front et le crime et le vice ?
 C'est une tâche, un but qu'il faut que je remplisse.
@@ -615,18 +69,230 @@ Peindre ce que je vois, dire ce que je pense...
 Si mon siècle me blâme et craint la vérité,
 J'aurai du moins écrit pour la postérité.
 
--*who_ninon
-Molière !
-
--*who_laforet
-      Mon cher maître !
-
--*who_moliere
       Eh quoi Ninon !....
       Madame
 Vous m'avez entendu ?....
 
--*who_ninon
+Madame...
+
+      Oui Ninon,
+Et je le garderai...
+
+      Pour raison.
+
+      Il est vrai, mais ce mot est aimable.
+Vos yeux et votre esprit ont un pouvoir semblable ;
+Un regard peint l'amour, un mot peint l'amitié.
+
+      Non.
+
+Comme vous quelquefois.
+
+      Eh comment ?
+
+Volontiers.
+
+      Eh pourquoi, je vous prie ?
+De lire chez Ninon, moi je me glorifie.
+
+Monsieur le Prince.
+
+      Sévigné, La Châtre.
+
+      Chapelle.
+
+      Encor !
+
+      Je ne puis.
+
+Corneille !
+
+Racine !
+
+Boileau !... Ciel !... Mais.
+
+      Ninon, devant tous ces modèles
+Vous voulez que ce soir....
+
+      Ces soeurs-là me font peur :
+Chez elles bien souvent l'esprit, fait tort au coeur.
+Et Corneille...
+
+Mais l'élégant Racine...
+
+Boileau va censurer plan, scènes et sujet ;
+Il dira : « Tout est mal, la pièce est détestable,
+Le caractère est faux , l'intrigue misérable. »
+
+L'amitié me suffit : ce motif est de tous,
+Celui qui me paraît le plus fort, le plus doux.
+Obéir à Ninon, c'est chercher à lui plaire,
+Lui plaire c'est remplir le désir de la terre.
+Ainsi compter sur moi, je vais de cet écrit
+Apporter à l'instant chez vous le manuscrit.
+Je suis moins inquiet du succès de l'ouvrage ;
+Car lire devant vous, déjà c'est un suffrage.
+
+      Et vous avez raison.
+Prince... C'est bien assez qu'une défense expresse
+Sans cause, sans motif, ait arrêté ma pièce,
+Qu'on m'ait injustement dépouillé de mes droits !
+Un hypocrite encor veut étouffer ma voix !
+Non.
+
+« Le Tartuffe , comédie en cinq actes et en vers. »
+
+Avant de commencer, je vais en peu de mots
+Exposer à vos yeux le but de cet ouvrage.
+D'un habile imposteur je veux peindre l'image.
+
+      Il nous écoute, bon,...
+Le héros de ma pièce a les airs et le ton
+D'un fourbe consommé, d'un adroit hypocrite,
+Vainement on le craint, on le fuit, on l'évite ;
+De se trouver partout, il a plus d'un moyen.
+Il pense toujours mal, il parle toujours bien.
+Il ment par piété, nous trompe en conscience ,
+Et sans jamais donner, prêche la bienfaisance.
+Pour lui, feindre est un art, et nuire est un besoin.
+
+Signé Louis.
+      Lisez, ce grand nom me rassure.
+
+      Et moi j'attends sans nulle émotion.
+
+Ô mon roi, je dois tout à la justice extrême.
+
+Laforêt, mon enfant , cours, cours vile chez moi.
+Que dans tous les quartiers, les carrefours, les rues,
+Dix mille affiches soient à l'instant répandues...
+Pour annoncer enfin au public de Paris
+Qu'on jouera le Tartuffe.
+
+
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
+
+      Pardonnez si je n'ai pu me rendre...
+
+Messieurs, j'ai pour ce soir quelques desseins sur vous.
+
+Êtes-vous libres ?
+
+      Allons, de la franchise :
+Quelque projet galant ?
+
+      Vous vous y trouverez ?
+
+      Mais non...
+
+      Vous le différerez.
+
+      Manquer à sa promesse
+En amour, c'est un jeu... fausse délicatesse !
+Je puis compter sur vous pour ce soir, n'est-ce pas ?
+Vous hésitez... Vraiment !... Vous vous parlez tout bas ?
+
+      Eh grands dieux ! Que de peine !
+Ce n'est que pour un soir, messieurs, qu'on vous enchaîne.
+
+      Ah ! Le beau sentiment !
+Pour la vie !... Achevez ?... Faites vite un serment :
+D'un éternel amour donnez-moi l'assurance ;
+Moi, je vais vous jurer une égale constance,
+Nous mentirons tous deux... Mais c'est trop discourir :
+Apprenez donc pourquoi je veux vous retenir.
+Au théâtre ce soir on donne un bel ouvrage,
+Dont le but est moral, le ton vrai, le plan sage,
+Dont chaque caractère est neuf et bien tracé,
+Un ouvrage, en un mot, bien écrit, bien pensé.
+Nous devons ce chef-d'oeuvre à cet auteur facile,
+Vrai dans tous ses tableaux, naturel dans son style,
+Dont la grâce hardie et la franche gaîté
+Sont des titres sacrés à l'immortalité.
+Vous le reconnaissez, n'est-ce pas ?
+
+Son Tartuffe ce soir est soumis au parterre.
+Voilà pourquoi Ninon voulait vous enchaîner.
+Hé bien, vous vous laissez aisémeut entraîner ?
+Vous quittez sans regret l'amour pour le génîe,
+Et de tristes ardeurs, pour une comédie.
+On a toujours le temps de pousser un soupir,
+Et l'on n'a pas toujours un chef-d'oeuvre à loisir.
+Enfin, si vingt beautés flattent votre espérance,
+Vous n'avez qu'un Molière à fêter dans la France.
+Venez , venez ce soir.... Vous savez mes amis,
+Que cet illustre auteur a beaucoup d'ennemis
+Même à la cour ; il faut, ligués pour sa victoire,
+Par de communs efforts , favoriser sa gloire.
+Croyez- moi : du Tartuffe en protégeant l'essor,
+À la postérité nous gardons un trésor.
+
+      L'ennemi de Molière !
+
+Je ne l'attendais pas et je tremble...
+
+Cet homme qui sait feindre un zèle si fervent
+Est un saint imposteur dont la visite cache
+Un but inquiétant. Vous savea qu'il s'attache
+À perdre dans l'esprit du premier Préâident
+Molière, et du Tartuffe est l'ennemi puissant.
+Je l'entends... Vous saurez tout ce qu'il va m'apprendre ;
+Au théâtre, ce soir, songez tous à vous rendre.
+
+      Je le crois, veuillez prendre la peine...
+
+      Il est vrai.
+
+Molière est mon ami, je le redis sans feinte...
+
+J'ignore tout ; parlez ?....
+
+Mais, monsieur, parlez donc ?
+
+      Eh bien ?
+
+Non, Monsieur, je connais et j'estime Molière.
+On veut le perdre ; mais la ruse est trop grossière.
+L'ordre est vrai, bien donné ; le Tartuffe est permis ;
+Mais cet ordre est verbal : de méchants ennemis
+Le révoquent en doute et refusent d'y croire.
+Molière est innocent ; je l'aime et j'en fais gloire.
+Chez moi, vous le verrez à toute heure, en tout temps.
+J'admire sa bonté, ses vertus, ses talents.
+
+      C'est assez ; partout ils sont connus.
+Ainsi, parlons plutôt de ses torts prétendus.
+Dans le Tartuffe enfin , que pouvez-vous reprendre ?
+
+Vous vous trompez : bien loin d'attaquer les dévots,
+À la religion il offre son génie
+Pour armer la raison contre l'hypocrisie.
+Saint-Alban, revenez de votre injuste erreur :
+Jugez-mieux de Molière et surtout de son coeur ;
+Gardez-vous d'imiter cette foule insensée
+Qui veut tuer l'esprit, enchaîner la pensée :
+Devenez de Molière et le guide et l'appui :
+Laissez, laissez jouer son ouvrage aujourd'hui,
+Et songez que partout à bon droit on renomme
+Celui qui s'avoua protecteur d'un grand homme.
+
+Vous croyez ? Son succès n'en sera pas moins beau.
+Vainement vous voulez qu'il meure, qu'on l'oublie ;
+Car moi je ferai tout pour le rendre à la vie.
+Oui, je veux lui donner un éclat mérité.
+Sur d'illustres amis en tout temps j'ai compté ;
+Je vais les réunir, et dans nn cercle immense
+Que l'on pourra nommer l'Elite de la France,
+Molière viendra lire avec empressement
+Cet ouvrage immortel que 1'intrigne défend.
+
+      Pour les rassembler, je vole leur écrire.
+Ce soir ici venez, et vous entendrez lire
+Molière ; pour Théâtre, il aura ce Salon,
+Et l'un aura joué Tartuffe chez Ninon.
+
+Molière !
+
       De coeur, d'esprit, et d'âme...
 Et je m'en applaudis. Oui, mon illustre ami,
 Entre mes plus beaux jours, je compte celui-ci.
@@ -637,169 +303,69 @@ Qui prend la vérité pour seul frein du talent.
 Quelques soient vos succès, trop peu l'on vous renomme ;
 Vous pensez, vous parlez, ami, comme un grand homme.
 
--*who_moliere
-Madame...
-
--*who_laforet
-      C'est le nom qu'un jour il obtiendra ;
-Il l'aura mérité, chacun en conviendra.
-
--*who_ninon
 Mais revenons, Molière, à la raison subite
 Qui m'a fait désirer ici voire visite.
 Car vous avez reçu mon billet.
 
--*who_moliere
-      Oui Ninon,
-Et je le garderai...
-
--*who_ninon
       Le garder !
 
--*who_moliere
-      Pour raison.
-
--*who_ninon
 C'est un mot.
 
--*who_moliere
-      Il est vrai, mais ce mot est aimable.
-Vos yeux et votre esprit ont un pouvoir semblable ;
-Un regard peint l'amour, un mot peint l'amitié.
-
--*who_ninon
 Le plus sûr est le mot... Si je vous ai prié
 De venir en ces lieux, vous doutez-vous, Molière,
 De mon secret motif ?
 
--*who_moliere
-      Non.
-
--*who_ninon
       Vous êtes sincère ?
 
--*who_moliere
-Comme vous quelquefois.
-
--*who_ninon
       Je vous entends, Monsieur,
 Puisqu'on ne peut jouer aujourd'hui l'Imposteur,
 Grâce à ce Saint-Alban, cagot et ridicule.
 Vengez-vous.
 
--*who_moliere
-      Eh comment ?
-
--*who_ninon
       Sans crainte et sans scrupule
 Venez lire ce soir votre ouvrage chez moi.
 
--*who_moliere
-Volontiers.
-
--*who_ninon
       Mon ami, dites ? De bonne foi
 Cela vous fâche-t-il ?
 
--*who_moliere
-      Eh pourquoi, je vous prie ?
-De lire chez Ninon, moi je me glorifie.
-
--*who_ninon
 Vous êtes trop aimable... Alors avec raison
 J'ai mandé pour ce soir quelques gens du bon ton,
 Des amateurs et même... Il faut que je vous laisse
 Deviner quels amis entendront votre pièce.
 
--*who_moliere
-Monsieur le Prince.
-
--*who_ninon
       Oh ! Oui, le Prince à vos talents
 Rend justice, et lui seul impose aux médisants.
 Ensuite...
 
--*who_moliere
-      Sévigné, La Châtre.
-
--*who_ninon
       Non.
 
--*who_moliere
-      Chapelle.
-
--*who_ninon
 Oui, poursuivez.
 
--*who_moliere
-      Encor !
-
--*who_ninon
       L'assemblée est très belle ;
 Devinez.
 
--*who_moliere
-      Je ne puis.
-
--*who_ninon
       Vous y verrez, ami,
 L'enfant qu'avec orgueil Melpomène a nourri.
 
--*who_moliere
-Corneille !
-
--*who_ninon
       Et l'autre fils qui moins hardi, plus tendre,
 Aux succès de Corneille un jour pourra prétendre.
 
--*who_moliere
-Racine !
-
--*who_ninon
       Un auteur froid, satyrique, malin,
 Mais homme plein d'esprit, et du goût le plus fin.
 
--*who_moliere
-Boileau !... Ciel !... Mais.
-
--*who_ninon
       Enfin cet auteur que l'on nomme
 Pour sa simplicité, sa candeur, un bonhomme ;
 Mais, qui par une fable, apprend la vérité,
 Et dans une fourmi, nous peint l'humanité.
 
--*who_laforet
-La Fontaine.
-
--*who_moliere
-      Ninon, devant tous ces modèles
-Vous voulez que ce soir....
-
--*who_ninon
       Mais les Muses entre elles
 Ne doivent pas trembler.
 
--*who_moliere
-      Ces soeurs-là me font peur :
-Chez elles bien souvent l'esprit, fait tort au coeur.
-Et Corneille...
-
--*who_ninon
       Sans vous n'aimerait pas Thalie.
 
--*who_moliere
-Mais l'élégant Racine...
-
--*who_ninon
       Aime la comédie
 D'un style naturel, donc la vôtre lui plaît.
 
--*who_moliere
-Boileau va censurer plan, scènes et sujet ;
-Il dira : « Tout est mal, la pièce est détestable,
-Le caractère est faux , l'intrigue misérable. »
-
--*who_ninon
 Boileau vous a jugé digne de ses avis,
 Peut-il vous critiquer ? Vous les avez suivis.
 La Fontaine ! Pour lui vous ne le craignez guère,
@@ -809,23 +375,6 @@ Et venez recevoir un suffrage flatteur.
 Aujourd'hui l'intérêt, l'amitié, la vengeance
 Doivent vous décider à cette complaisance.
 
--*who_moliere
-L'amitié me suffit : ce motif est de tous,
-Celui qui me paraît le plus fort, le plus doux.
-Obéir à Ninon, c'est chercher à lui plaire,
-Lui plaire c'est remplir le désir de la terre.
-Ainsi compter sur moi, je vais de cet écrit
-Apporter à l'instant chez vous le manuscrit.
-Je suis moins inquiet du succès de l'ouvrage ;
-Car lire devant vous, déjà c'est un suffrage.
-
--*who_laforet
-L'ouvrage est admirable.... Il vous plaira, je crois.
-Nous l'avons corrigé tous deux plus de vingt fois.
-
-**** *book_ *id_I10 *act_I *date_1802
-
--*who_ninon
 Eh ! Comment pour ami ne pas garder Molière ?
 Mon orgueil en jouit et mon âme en est fière.
 Oui, ma tranquillité dépend de son repos.
@@ -838,37 +387,16 @@ Ne les épargne pas, ils sont nés pour te craindre :
 Tu sauras les punir quand tu voudras les peindre. »
 Voici Chapelle... Eh bien !
 
-**** *book_ *id_I11 *act_I *date_1802
-
--*who_chapelle
-      Tous vos amis viendront ;
-À des ordres si doux, Madame, ils se rendront...
-Vous verrez tout-à-l'heure et Racine et Corneille.
-
--*who_ninon
 Le Grand Condé.
 
--*who_chapelle
-      Boileau, La Fontaine.
-
--*who_ninon
       À merveille.
 Quand Molière nous lit un chef-d'oeuvre nouveau,
 Ah ! le cercle jamais ne peut être assez beau.
 J'aime des vrais talents l'élite réunie,
 Car le génie est fait pour juger le génie.
 
--*who_chapelle
-Chaulieu seul ne pourra venir au rendez-vous ;
-Ce billet...
-
--*who_ninon
       Quelque belle aura le pas sur nous...
 
--*who_chapelle
-Voyez....
-
--*who_ninon
       Belle Ninon, une goutte ennemie
 Enchaîne mes membres perdus ;
 Je vois mal, je ne marche plus ;
@@ -886,65 +414,87 @@ Du destin je maudis les lois ;
 C'est trop souffrir que de perdre à-la-fois
 L'amitié, l'esprit...
 
--*who_chapelle
-      Et les grâces. »
-
--*who_ninon
 S'il est malade, au moins son esprit ne l'est pas.
 
--*who_chapelle
-Quel esprit le serait pour chanter vos appas ?
-
--*who_ninon
 J'entends quelqu'un.
 
-**** *book_ *id_I12 *act_I *date_1802
-
--*who_ninon
       C'est vous Corneille, La Fontaine,
 Boileau, Racine , ah bien !
 
--*who_corneille
-      Aux ordres d'une Reine...
-
--*who_ninon
 Les Rois manquent souvent.
 
--*who_lafontaine
-      Nous Rois...
-
--*who_ninon
       Par le talent.
 
--*who_lafontaine
-Je n'ai que des troupeaux dans mon Gouvernement...
-
--*who_boileau
-Et tu les mènes bien.
-
--*who_ninon
       En attendant Molière,
 Le Prince de Condé qui ne tarderont guère,
 Dites-moi la Chronique : avez-vous aujourd'hui
 Dans Paris entendu quelque nouvelle ?
 
--*who_racine
+Est-ce une pension, rente, ou faveur pareille ?
+
+      Expliquez-vous ? Parlez ?
+
+      Dites-moi, La Fontaine ?
+Celle qui court sur vous et dont l'on a tant ri.
+
+      Ce voyage à Château-Thierry.
+
+Racine ; vos débats avec le cher Boileau
+Sont-ils finis ?
+
+Prince, et de la valeur ; car la France est remplie
+Du bruit de vos exploits.
+
+      Eh ! Voilà sa servante.
+Que fais- lu là ?
+
+Que veux -tu ?
+
+      Ciel ! Que viens-tu me dire ?
+
+      Quoi ! Molière à cet ordre a cédé !
+
+Moi, je gage, écartant un injuste soupçon,
+Qu'il lira le Tartuffe.
+
+      J'étais sûre, moi, de connaître Molière.
+
+Allons, plaçons-nous tous.
+
+      Quoi ?
+
+Vous êtes dans l'erreur : nous pensions au contraire
+Que nous allions vous voir.
+
+      De lui rions tous un moment.
+
+Nous devons d'autant plus désirer de l'entendre.
+
+      De cet écrit quelle est la signature ?
+
+Je tremble....
+
+« Après avoir lu attentivement la comédie du Tartuffe, après avoir pesé les réflexions le notre premier Président qui nous peint cette pièce comme attaquant les meurs la religion, et renfermant des personnalités ; nous avons trouvé que ce chef-d'œuvre ne pouvait offenser que les hypocrites ; or, nous permettons, même nous ordonnons qu'on la représente dans toutes les villes de la France. »
+
+La lecture à présent serait de trop, je crois.
+
+      Il sera bien surpris.
+
+Molière, à ce succès nous applaudissons tous ;
+Votre triomphe est même un triomphe pour nous.
+Mais au sein du bonheur, au comble de la gloire
+De vos amis, de moi, conservez la mémoire.
+Que l'esprit, la valeur, viennent dans ce Salon
+Retrouver quelquefois Molière chez Ninon.
+
+
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_racine
+
       Oui,
 Les honneurs qu'à la Cour obtint le grand Corneille.
 
--*who_ninon
-Est-ce une pension, rente, ou faveur pareille ?
-
--*who_racine
 C'est plus cent fois.
 
--*who_lafontaine
-      Quoi donc ?
-
--*who_ninon
-      Expliquez-vous ? Parlez ?
-
--*who_racine
 Seigneurs et courtisans s'étaient tous rassemblés
 Pour entendre le Cid : même de sa présence
 Le Monarque honorait cette assemblée immense
@@ -957,40 +507,9 @@ Se lève, et devant lui s'incline avec respect.
 La Cour l'imite ; alors, quoique sans diadème,
 Corneille paraissait plus Roi que le Roi même.
 
--*who_chapelle
-Ah ! Que ce trait est beau ! Messieurs les courtisans,
-Vous apprendrez qu'il faut honorer les talents,
-Et vous serez moins fiers.
-
--*who_racine
       L'anecdote est certaine
 Car j'étais spectateur.
 
--*who_ninon
-      Dites-moi, La Fontaine ?
-Celle qui court sur vous et dont l'on a tant ri.
-
--*who_lafontaine
-Laquelle ?
-
--*who_ninon
-      Ce voyage à Château-Thierry.
-
--*who_corneille
-Oui, voulant rétablir la paix dans son ménage
-Pour aller voir sa femme, il fait un long voyage,
-Revient sans l'avoir vue. As-tu rempli ton but ?
-Lui dit-on... Non vraiment, elle était au Salut.
-
--*who_lafontaine
-J'avais garde vraiment de déranger ma femme,
-Elle avait tant besoin de prier pour son âme !
-
--*who_ninon
-Racine ; vos débats avec le cher Boileau
-Sont-ils finis ?
-
--*who_racine
       Toujours mon courroux est nouveau.
 Sans nul ménagement, sans cesse il me critique ;
 De trouver des défauts, on dirait qu'il se pique.
@@ -999,241 +518,89 @@ Il me dit aussitôt du ton d'un inspiré :
 « Vingt fois sur le métier remettez votre ouvrage, »
 J'ai toujours ses conseils et jamais son suffrage.
 
--*who_boileau
-Racine, vous croyez mes avis indiscrets.
-Je vous critique avant, pour vous louer après.
-La gloire sans effort est un bien périssable :
-Il faut la mériter quand on la veut durable..
-Les succès usurpés n'ont jamais qu'un moment.
-Les efforts concertés peuvent pour un instant
-D'un peuple enthousiaste égarer le suffrage,
-Mais bientôt du bon goût le temps vengeant l'outrage,
-Vient livrer à l'oubli la médiocrité.
-L'intrigue lutte en vain, de la postérité
-Le jour s'élève, luit ; l'ombre pâlit, s'efface ,
-Le fantôme s'éclipse, et tout reprend sa place.
-
-**** *book_ *id_I13 *act_I *date_1802
-
--*who_unvalet
-Le Prince de Condé.
-
--*who_tous
-      Monseigneur...
-
--*who_leprince
-      Mes amis,
-Il est bien doux pour moi de me trouver admis
-Dans le cercle brillant des grâces, du génie.
-
--*who_ninon
-Prince, et de la valeur ; car la France est remplie
-Du bruit de vos exploits.
-
--*who_leprince
-      Cessez de m'en parler.
-La guerre est un fléau ; Messieurs, la rappeler
-C'est m'offrir, je l'avoue, un souvenir pénible.
-Plus je montre au combat, un coeur froid, inflexible,
-Plus, après le triomphe, un sentiment secret
-M'entraîne à la douleur et me livre au regret.
-Je m'éloigne, et reviens dans le sein de nos villes
-Couler des jours plus purs, moins brillants, plus tranquilles ;
-Je rends enfin le calme à mon coeur agité,
-Et je jouis des arts auprès de la beauté.
-Mais où donc est Molière !
-
--*who_ninon
-      Eh ! Voilà sa servante.
-Que fais- lu là ?
-
--*who_laforet
-      Mais rien ; j'étais impatiente...
-
--*who_ninon
-Que veux -tu ?
-
--*who_laforet
-      J'attendais Madame que par ici
-Vous regardiez : mon maître a ben plus de souci.
-J'crois qu'il ne viendra pas.
-
--*who_ninon
-      Ciel ! Que viens-tu me dire ?
-
--*who_laforet
-Monsieur le Président lui défend de vous lire
-Tartuffe.
-
--*who_ninon
-      Quoi ! Molière à cet ordre a cédé !
-
--*who_laforet
-J'n'en sais rien ; mais ce s'rait, y m' semble ben hasardé
-De vouloir se moquer d'un' menace aussi claire :
-Il ne m'a pas encor consulté dans s' t'affaire.
-
--*who_leprince
-Quoi ! Molière pourrait lâchement effrayé ?...
-
--*who_corneille
-Que Molière par vous soit mieux apprécié !
-De céder à la peur son âme est incapable.
-
--*who_racine
 Il ne doit pas garder un silence coupable.
 
--*who_ninon
-Moi, je gage, écartant un injuste soupçon,
-Qu'il lira le Tartuffe.
 
-**** *book_ *id_I14 *act_I *date_1802
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
 
--*who_moliere
-      Et vous avez raison.
-Prince... C'est bien assez qu'une défense expresse
-Sans cause, sans motif, ait arrêté ma pièce,
-Qu'on m'ait injustement dépouillé de mes droits !
-Un hypocrite encor veut étouffer ma voix !
-Non.
+      Nous Rois...
 
--*who_ninon
-      J'étais sûre, moi, de connaître Molière.
+Je n'ai que des troupeaux dans mon Gouvernement...
 
--*who_laforet
-Nous avons toujours eu beaucoup de caractère.
+      Quoi donc ?
 
--*who_ninon
-Allons, plaçons-nous tous.
+Laquelle ?
 
--*who_laforet
-      V'là vraiment un tableau
-Dont un peintre pourrait honorer son pinceau.
-Moi, je me tiendrai là, d'abord pour mieux entendre ;
-Puis, si vous lisez mal, je pourrai vous reprendre.
+J'avais garde vraiment de déranger ma femme,
+Elle avait tant besoin de prier pour son âme !
 
--*who_moliere
-« Le Tartuffe , comédie en cinq actes et en vers. »
-
-**** *book_ *id_I15 *act_I *date_1802
-
--*who_saintalban
-Comment ?... Il va lire !... Ah ! Je viens fort à propos.
-
--*who_moliere
-Avant de commencer, je vais en peu de mots
-Exposer à vos yeux le but de cet ouvrage.
-D'un habile imposteur je veux peindre l'image.
-
--*who_laforet
-Saint-Alban nous écoute...
-
--*who_moliere
-      Il nous écoute, bon,...
-Le héros de ma pièce a les airs et le ton
-D'un fourbe consommé, d'un adroit hypocrite,
-Vainement on le craint, on le fuit, on l'évite ;
-De se trouver partout, il a plus d'un moyen.
-Il pense toujours mal, il parle toujours bien.
-Il ment par piété, nous trompe en conscience ,
-Et sans jamais donner, prêche la bienfaisance.
-Pour lui, feindre est un art, et nuire est un besoin.
-
--*who_saintalban
-Me voilà....
-
--*who_ninon
-      Quoi ?
-
--*who_saintalban
-      Messieurs, vous me croyiez bien loin.
-
--*who_ninon
-Vous êtes dans l'erreur : nous pensions au contraire
-Que nous allions vous voir.
-
--*who_saintalban
-      Cette épigramme est claire.
-
--*who_leprince
-Asseyez-vous.
-
--*who_ninon
-      De lui rions tous un moment.
-
--*who_saintalban
-Prince, vous écoutez un ouvrage imprudent
-Qui ne paraîtra pas, que le Roi va défendre.
-
--*who_ninon
-Nous devons d'autant plus désirer de l'entendre.
-
--*who_saintalban
-Si par hasard au Roi ce voeu semble indiscret !
-
--*who_leprince
-Avez-vous sur ce point reçu ?...
-
--*who_saintalban
-      L'ordre est secret.
-
--*who_leprince
-Eh bien, n'en parlez plus.
-
--*who_saintalban
-      Sans parler davantage
-De défense, parlons du sujet de l'ouvrage.
-Voilà des gens de goût, des auteurs bien connus
-Dont on cite en tous lieux les talents, les vertus.
-Je veux m'en rapporter à leur docte suffrage...
-Corneille, convenez qu'un pareil personnage...
-
--*who_corneille
-Est bas et vil...
-
--*who_saintalban
-      Eh bien ?
-
--*who_corneille
-      Mais plein de vérité.
-
--*who_saintalban
-Comment ?
-
--*who_corneille
-      C'est le fléau de la société...
-S'il n'eut par ses défauts dégradé Melpomène,
-Avant Molière, moi, je l'eusse mis en scène.
-
--*who_saintalban
-Il est fou ! Vous Boileau, dont j'aime la raison
-Qui n'avez jusqu'ici rien pu trouver de bon...
-Convenez que la pièce est au moins détestable.
-
--*who_boileau
-Mais La Fontaine hier m'a dit certaine fable
-Qui pourra réunir les avis sur ce point.
-Bonhomme, dis-nous là.
-
--*who_lafontaine
       Je ne m'en souviens point.
 
--*who_saintalban
-Bon.
 
--*who_chapelle
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+
+Messieurs, dans un instant vous allez voir Ninon.
+
+      Je le suis.
+
+Vous ne devinez pas ?
+
+      Je ne puis m'en défendre.
+Je mettrais mon bonheur à vivre sous ses lois.
+Sa figure, un regard, jusqu'au son de sa voix,
+Tout me charme, m'anime, et porte dans mon âme
+Le pénible embarras d'une secrète flamme.
+
+Eh bien Ninon, je crois, change mon caractère.
+Solide en amitié, dans ses amours légère,
+Je trouve à l'adorer un invincible attrait ;
+Plaire est son habitude, et charmer son secret.
+Pour l'esprit, quelle femme ! Autour d'elle, sans cesse,
+Le talent, le génie accourt, vole, s'empresse.
+Savante sans orgueil, belle sans vanité,
+Tout en elle est parfait, et rien n'est emprunté ;
+Elle sait attirer, grâce à ses doubles armes,
+Des amis pour son coeur, des amants pour ses charmes
+Eu un mot, la beauté, l'esprit et la raison,
+On voit tout réuni, lorsque l'on voit Ninon.
+La voici.
+
+Quand l'espoir nous soutient, sans peine on peut attendre.
+
+Quelques desseins ? Madame, ah ! disposez de nous.
+
+Peut-on vous résister ?...
+
+Que ce soit pour la vie !
+
+Eh quoi ! Du Président l'odieux Secrétaire !
+
+      Comment !
+
+Oui Ninon ; voir Tartuffe, et céder à vos voeux ,
+Au lieu d'un seul plaisir, c'est en rencontrer deux.
+
+      Tous vos amis viendront ;
+À des ordres si doux, Madame, ils se rendront...
+Vous verrez tout-à-l'heure et Racine et Corneille.
+
+      Boileau, La Fontaine.
+
+Chaulieu seul ne pourra venir au rendez-vous ;
+Ce billet...
+
+Voyez....
+
+      Et les grâces. »
+
+Quel esprit le serait pour chanter vos appas ?
+
+Ah ! Que ce trait est beau ! Messieurs les courtisans,
+Vous apprendrez qu'il faut honorer les talents,
+Et vous serez moins fiers.
+
       Je la sais.
 
--*who_saintalban
-      Messieurs...
-
--*who_leprince
-      Ferez-vous donc silence ?
-
--*who_saintalban
-Prince, soyez certain de mon obéissance.
-
--*who_chapelle
 
 
 On conte qu'un serpent voisin d'un horloger,
@@ -1256,91 +623,323 @@ Croyez-vous que vos dents impriment leurs outrages
 Sur tant de beaux ouvrages ?
 Ils sont pour vous d'airain, d'acier, de diamant.
 
--*who_saintalban
+
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalban
+
+Un motif important auprès de vous m'amène.
+Madame.
+
+Non madame, deux mots : et je pars à l'instant.
+En vous Molière eucor trouve un appui constant,
+M'a-t'on dit ?
+
+      Vous l'avouez sans crainte.
+
+Quel ami ! Savez-vous quel complot odieux
+Il invente aujourd'hui pour tromper tous les yeux ?
+
+      Je vais en confidence
+Vous révéler ce trait ; de votre confiance
+Vous verrez que cet homme est indigne à jamais.
+
+      Connaissez ses forfaits.
+Vous savez qu'il répand que notre grand Monarque
+Qui, trop faible parfois, lui donna quelque marque
+D'une folle amitié, permet formellement
+Que l'on joue à Paris Tartuffe...
+
+      Il ment.
+Moi-même, ainsi que vous, j'ai donné dans le piège :
+Mais je connais enfin son coupable manège.
+Par le courrier de Lille, à l'instant on m'écrit
+Que, par le Roi, l'ouvrage est défendu, proscrit.
+Vous voyez de quel tour Molière était capable !
+Cessez de recevoir un homme si capable
+Qui pour mieux insulter les soutiens de la foi,
+Osait nous déguiser la volonté du Roi.
+
+Sa bonté ! Quand sa plume injurie et déchire :
+Ses vertus ! Quand son coeur pour mille attraits soupire :
+Ses talents !...
+
+Ce que j'y reprends ? Dieux ! Mais faut-il vous l'apprendre ?
+Contre les vrais croyants, ses traits et ses bons mots...
+
+Non Madame, Tartuffe est un enfant mort-né
+Qui, dès ce jour, doit être à l'oubli condamné.
+Le Président le veut : votre ardente prière ,
+Celle des courtisans et de la France entière
+Ne me fléchiraient pas ; Tartuffe est au tombeau.
+
+Quoi ?
+
+Ah ! Vous voulez braver l'antorité suprême,
+Belle Ninon ! Craignez que mon courroux extrême....
+Mais elle assemblera quelques hommes puissants
+Contre qui tous mes droits seront insuffisants.
+Tartuffe sera lu ; dès ce soir le grand monde
+Redira chaque vers, chaque mot qui nous fronde.
+À la ville, à la Cour, nous serons bafoués,
+Malgré notre pouvoir, publiquement joués...
+Ah ! Maudits soient Tartuffe, et Ninon, et Molière !
+Et puisse des auteurs, la race toute entière...
+Mais cherchons les moyens d'empêcher que ce soir...
+
+      Molière ! En vérité...
+
+C'est vous dont le public depuis si longtemps vante
+Les conseils que parfois vous donnez ?
+
+Je re m'étonne plus s'ils sont aussi mauvais.
+
+Grands Dieux !
+
+Comment ?...
+
+C'est dommage !...
+
+Ma mie...
+
+      Finissez, je vous prie,
+Cette comparaison...
+
+      Voyons donc ce miracle ?
+
+Après...
+
+Quoi ?...
+
+      C'est trop...
+
+Ah ! Si Molière osait !...
+
+Que Molière !...
+
+      D'un semblable artifice
+Dès demain, dès ce soir, les lois me font justice.
+
+      Molière !
+
+      De votre effronterie
+Je suis instruit , monsieur : et je vous apprendrai
+Qu'un magistrat honnête, et sage, et révéré
+N'est pas fait pour se voir l'objet des perfidies
+D'un fol auteur qui fait de sottes comédies.
+
+Bien, fort bien : déclamez, monsieur le comédien ;
+Dites-nous de grands mots qui ne nous peignent rien.
+Mais je vais au fait, moi... Ce soir même, au théâtre,
+Quand vous réunirez votre foule idolâtre,
+Vous ferez demander le Tartuffe ; Voyons ,
+Là, que répondrez-vous ? Direz-vous pour raisons ?
+« Monsieur le Président ne veut pas qu'on le joue. »
+
+      Sans détour il l'avoue !
+Eh bien ! Mon cher monsieur, vous vous repentirez
+De ce mauvais bon mot ; vous verrez, vous verrez.
+Votre pièce n'était encor que suspendue :
+Vous pouvez dès ce jour la croire défendue.
+Il est calme...
+      Bien plus ; ce chef-d'oeuvre nouveau
+Grâce à moi, sera brûlé par le bourreau.
+Il n'est pas plus ému...
+      Vous changerez de style,
+Monsieur, il est encor des prisons dans la ville.
+Il sourit.... Pour le coup signalons mon pouvoir ,
+Et sachons empêcher sa lecture ce soir.
+Je dirai désormais à qui voudra l'entendre,
+Qu'un auteur est homme, un homme ! Un homme à pendre.
+
+Comment ?... Il va lire !... Ah ! Je viens fort à propos.
+
+Me voilà....
+
+      Messieurs, vous me croyiez bien loin.
+
+      Cette épigramme est claire.
+
+Prince, vous écoutez un ouvrage imprudent
+Qui ne paraîtra pas, que le Roi va défendre.
+
+Si par hasard au Roi ce voeu semble indiscret !
+
+      L'ordre est secret.
+
+      Sans parler davantage
+De défense, parlons du sujet de l'ouvrage.
+Voilà des gens de goût, des auteurs bien connus
+Dont on cite en tous lieux les talents, les vertus.
+Je veux m'en rapporter à leur docte suffrage...
+Corneille, convenez qu'un pareil personnage...
+
+      Eh bien ?
+
+Comment ?
+
+Il est fou ! Vous Boileau, dont j'aime la raison
+Qui n'avez jusqu'ici rien pu trouver de bon...
+Convenez que la pièce est au moins détestable.
+
+Bon.
+
+      Messieurs...
+
+Prince, soyez certain de mon obéissance.
+
 Bah ! bah...
 
-**** *book_ *id_I16 *act_I *date_1802
-
--*who_unvalet
-      Monsieur Molière, un page vous demande.
-
--*who_unpage
-J'arrive de Lille,
-
--*who_saintalban
       Oui, voyez ce qu'on vous mande.
 
--*who_unpage
-L'ordre doit concerner une pièce.
-
--*who_saintalban
       Ah ! J'entends...
 La défense... Mon cher, vous arrivez à temps.
 
--*who_tous
-Lisez...
-
--*who_ninon
-      De cet écrit quelle est la signature ?
-
--*who_moliere
-Signé Louis.
-      Lisez, ce grand nom me rassure.
-
--*who_saintalban
 Daignez lire vous-même adorable Ninon !
 
--*who_ninon
-Je tremble....
-
--*who_moliere
-      Et moi j'attends sans nulle émotion.
-
--*who_ninon
-« Après avoir lu attentivement la comédie du Tartuffe, après avoir pesé les réflexions le notre premier Président qui nous peint cette pièce comme attaquant les meurs la religion, et renfermant des personnalités ; nous avons trouvé que ce chef-d'œuvre ne pouvait offenser que les hypocrites ; or, nous permettons, même nous ordonnons qu'on la représente dans toutes les villes de la France. »
-
--*who_moliere
-Ô mon roi, je dois tout à la justice extrême.
-
--*who_leprince
-Honorer le talent, c'est s'honorer soi-même.
-Cet acte généreux vaut mieux que cent exploits ;
-Le triomphe des arts fait la gloire des Rois.
-
--*who_corneille
-Le Prince, par l'effet de cet ordre propice,
-Nous récompense tous en vous rendant justice.
-
--*who_ninon
-La lecture à présent serait de trop, je crois.
-
--*who_moliere
-Laforêt, mon enfant , cours, cours vile chez moi.
-Que dans tous les quartiers, les carrefours, les rues,
-Dix mille affiches soient à l'instant répandues...
-Pour annoncer enfin au public de Paris
-Qu'on jouera le Tartuffe.
-
--*who_ninon
-      Il sera bien surpris.
-
--*who_saintalban
 Comment faire à présent !....
 
--*who_unseigneur
-      La probité vous laisse
-Un excellent moyen, faites tomber la pièce.
 
--*who_laforet
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
+
+Mademoiselle Ninon... Je désirons la voir
+Ben vite... Je venons de la part de notr' maître
+Luii dire que... Monsieur?... Va-t-elle bentôt paraître ?
+C'est que c'est du la part d'un auteur son ami
+De Molière,
+
+      Mais oui,
+Et c'est moi que partout on nomme sa servante.
+
+      Oui monsieur.
+C'est moi que chaque jour, sauf un avis meilleur,
+Mon cher maître consulte avant que ses ouvrages
+Reçoivent du public de beaux et bons suffrages.
+
+Mauvais ! Vous voudriez, j'gage, les avoir faits.
+
+      Je regrettons que sa dernière pièce
+Soit arrêtée... Oh ! Dam ! Quel plaisir ! Quelle ivresse.
+Elle eut causé ce soir !... Un maudit Saint-Alban...
+Qui mène comme il veut monsieur le Président.
+
+      Ce Saint-Alban dévot, ou qui sait l'faire ,
+En secret, a dit-on , embrouillé cette affaire
+Si ben que notr' Tartuffe au moment d'etr'connu ,
+Peut-être dans l'oubli, pour jamais est perdu.
+
+      C'était une pièce de mérite !
+Dans la France, il n'est pas un petit hypocrite
+Qui n'eut dit : Mais c'est moi... L'on prétend, je l'croyons,
+Que monsieur Saint-Alban pour de pareill' raisons
+L'a fait défendre exprès ; il a cru se r'connaître....
+Entre nous, convenons que çà pourrait ben être.
+On voit dans cette pièce un homme ben cafard.
+Sensuel par nature et dévôt avec art,
+Qui contemplant ensemble, et le Ciel et les femmes,
+Garde pour lui les corps et donne à Dieu les âmes.
+Mais pour se vendre ainsi, que cet homme est donc sot !
+On n'l'eut pas reconnu peut-êtr' s'il n'eut dit mot.
+Voilà comme souvent, par abus de puissance,
+Contre lui plus d'un Grand éveill' la médisance,
+Et ressemble au voleur qui sur le mot : coquin
+Se croyant appellé, s'empresse de dire : Hein.
+
+      Eh qu'avez vous ?
+
+      C'est un Grand je parie...
+C'est égal, poursuivons.
+      Vous êtes loin d' savoir
+Le tour qu'à Saint-Aiban mon maîtr' jouera ce soir.
+Pour que du Président il perd' la confiance,
+Il faut semer entr'eux la mésintelligence.
+Il faut qu'à Saint-Alban le Président demain
+Reproche avec humeur ce manèg' clandestin.
+Notre moyen est sûr.
+
+Ce soir, quand le public sera dans not' spectacle,
+Il demand'ra Tartuff'. Les ouvrag's défendus
+Sont ceux que le public toujours aime le plus.
+
+      Molière dira : « Messieurs , c'est impossible.
+Un pareil contre-temps comme à vous m'est sensible ;
+Mais un ordre formel m'empêche par malheur
+De donner aujourd'hui Tartuffe ou l'Imposteur,
+Monsieur le Président ne veut pas qu'on le joue.»
+
+      C'est un bon soufflet qu'il aura sur la joue
+Le Président ?
+
+      D'abord il le rec'vra ,
+Et puis à Saint-Alban ben vite il le rendra.
+
+      Sentez-vous l'équivoque ?
+Qu'on le joue.... Oh ! Je vols le public qui se moque
+Du pauvre Président, si fourbe, si cagot.
+Je vois ce Saint-Alban enrager comme un sot.
+Il pouss' le Président à venger cette offense,
+Mais sur lui, dès ce soir, tombe tout' la vengeance.
+Le Président le chasse, et dit avec courroux :
+« On se moque de moi, pour se moquer de vous. »
+
+      Il le f'ra.
+
+V'la mon maîtr'...
+
+Saint Alban, quoi ? Grand Dieu ! Sauvez-vous promptement.
+
+      J'ai tout dit... 0h ! Quelle étourderie !
+Sauvez-vous...
+
+      Eh bien ?
+
+J'avais ben préparé ce qui vient d'arriver.
+
+      J'ignorais que je dusse trouver
+Ici votre ennemi : je croyais sur mon âme
+Que ce Monsieur était un ami de Madame :
+Et j'avais critiqué sans crainte, franchement,
+La fausse piété du maudit Saint-Alban.
+
+Oui, j'ai dit seulement quelques vérités dures :
+Qu'il était un cafard, un....
+
+Mais rien, il a semblé faire la sourde oreille.
+
+Mon cher maître, je crains de vous avoir fait tort.
+
+      Mon cher maître !
+
+      C'est le nom qu'un jour il obtiendra ;
+Il l'aura mérité, chacun en conviendra.
+
+La Fontaine.
+
+L'ouvrage est admirable.... Il vous plaira, je crois.
+Nous l'avons corrigé tous deux plus de vingt fois.
+
+      Mais rien ; j'étais impatiente...
+
+      J'attendais Madame que par ici
+Vous regardiez : mon maître a ben plus de souci.
+J'crois qu'il ne viendra pas.
+
+Monsieur le Président lui défend de vous lire
+Tartuffe.
+
+J'n'en sais rien ; mais ce s'rait, y m' semble ben hasardé
+De vouloir se moquer d'un' menace aussi claire :
+Il ne m'a pas encor consulté dans s' t'affaire.
+
+Nous avons toujours eu beaucoup de caractère.
+
+      V'là vraiment un tableau
+Dont un peintre pourrait honorer son pinceau.
+Moi, je me tiendrai là, d'abord pour mieux entendre ;
+Puis, si vous lisez mal, je pourrai vous reprendre.
+
+Saint-Alban nous écoute...
+
 Moi j' vais au paradis, si j' vois queuqu'censeur
 Je crierai, mais ben haut : À bas le cabaleur.
 Et s'il redouble encor, moi j'agirai de sorte
 Que le public se lève et lui crie : À la porte.
 
--*who_ninon
-Molière, à ce succès nous applaudissons tous ;
-Votre triomphe est même un triomphe pour nous.
-Mais au sein du bonheur, au comble de la gloire
-De vos amis, de moi, conservez la mémoire.
-Que l'esprit, la valeur, viennent dans ce Salon
-Retrouver quelquefois Molière chez Ninon.

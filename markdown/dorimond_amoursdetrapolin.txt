@@ -1,6 +1,6 @@
 ---
 identifier: dorimond_amoursdetrapolin  
-creator: Dorimond  
+creator: Dorimond ; Georges Forestier.  
 date: 1662  
 title: La comédie de la comédie et Les amours de Trapolin  
 ---

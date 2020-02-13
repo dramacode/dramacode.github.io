@@ -1,6 +1,6 @@
 ---
 identifier: montfleury_gentilhommedebeauce  
-creator: Montfleury, Antoine Jacob  
+creator: Montfleury, Antoine Jacob ; Georges Forestier.  
 date: 1670  
 title: Le Gentilhomme de Beauce. Comédie  
 ---

@@ -1,49 +1,130 @@
 
 
-**** *book_ *id_I01 *act_I *date_1664
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidamant
 
--*who_lisette
-Dans une heure, monsieur, vous verrez ma maîtresse ;
-Mais il faut accorder ce temps à sa paresse,
-Et lui permettre au moins de se faire coiffer.
-
--*who_turlupin
-Que diable ! Ta maîtresse est longue à s'attifer !
-
--*who_clidamant
 C'est se moquer du monde, et sans doute Uranie
 Ne se ressouvient pas qu'elle attend compagnie.
 Pour avoir le plaisir d'être longtemps au jeu,
 Elle m'avait promis de se presser un peu
 Cependant il est tard.
 
--*who_lisette
-      Je n'y saurais que faire
-Aussi bien comme vous j'en suis toute en colère.
-Mais, dût-on enrager, je le donne au plus fin,
-Quand on se couche au jour, de se lever matin.
-Je ne m'étonne pas, après un tel supplice,
-D'où naissent sur mon teint ces marques de jaunisse.
-Et si, devenant maigre à vous faire pitié,
-Il me faut étrecir mon corset de moitié.
-Dieu merci, nous faisons un assez beau ménage
-Mais je veux bien mourir si j'y suis davantage
-C'est trop en endurer, ma constance est à bout
-N'avoir point de repos, ne dormir point du tout,
-Sans oser dire un mot, souffrir un froid extrême,
-En dépit de ses dents jeûner plus d'un carême
-Faire du jour la nuit, et de la nuit le jour,
-Vous en êtes témoin, grâce à vôtre amour
-Ce n'est pas d'aujourd'hui que vous voyez la dame
-Passer toutes les nuits sans voir ni feu ni flamme.
-Être dans une chambre à croquer le marmot,
-Ne trouver au matin ni marmite, ni pot,
-C'est pour être joyeuse et devenir bien grasse
-Se mette qui voudra dans ma chienne de place,
-Qu'une autre que Lisette y serve de jouet :
-Si j'y demeure plus, je veux avoir le fouet.
+Mais elle ne dit pas ce que le jeu lui vaut,
+Et que les...
 
--*who_turlupin
+Eh bien, pour t'apaiser reçois cette monnaie.
+
+      Sans compliment, prends ces écus pour gage
+D'en recevoir bientôt douze fois davantage.
+
+      C'est bien fait ; mais, Lisette, à ton tour
+Tu peux...
+
+Je te suis obligé, mais au moins dis-lui bien...
+
+Tu rêves, Turlupin ; d'où vient cette surprise ?
+
+      Que veux-tu, j'adore Cléonice,
+Et n'ai qu'un seul moyen d'apaiser mon supplice :
+Uranie est joueuse ; il faut, par mon malheur,
+Ou ne point voir sa fille, ou flatter son humeur.
+Pour plaire à mon amour, je ferais davantage.
+
+De ces avis en vain ne me romps plus la tête,
+J'ai su tous leurs détours.
+
+Mais tu risques toi-même, et perds ainsi qu'un autre.
+
+Va, va, dans peu de temps nous aurons la revanche :
+J'ai pour les abuser un marquis dans ma manche.
+
+C'est un de ces marquis si connus au théâtre,
+De la façon desquels le peuple est idolâtre,
+Et qui couvrent leurs noms d'un noble marquisat
+Pour attraper la dupe, et se moquer du fat.
+La mode dans Paris en est toute commune.
+Ils savent par adresse attirer la fortune ;
+Le jeu les entretient, et la plupart du temps...
+
+Mais il faudrait avoir une intrigue de même,
+Être sûr des marchands et de tout leur crédit,
+Mentir adroitement, railler avec esprit,
+Des cartes et des dés connaître tous les pièges,
+Parler à tous moments de combats et de sièges,
+Savoir entretenir et Bacchus et l'Amour,
+Hanter l'Académie, et paraître à la Cour.
+Je deviendrais marquis aussi bien comme un autre,
+Si le nom suffisait. Mais j'aperçois le nôtre.
+
+Eh bien, mon cher marquis, que dit-on à la cour ?
+N'as-tu point découvert quelque nouvel amour ?
+Tu me sembles joyeux comment va la satire ?
+Parle.
+
+Mais quel est le sujet qui t'y convie ainsi ?
+
+On ne rit pas de même à la moindre parole,
+Sans avoir...
+
+Qu'il le joue ?
+
+Mais en si peu de temps peut-on venir à bout ?...
+
+Les personnes d'esprit en un moment font tout :
+N'as-tu point remarqué L'Impromptu de Versailles ?
+
+Fort bien, et c'est ce nom qui fait que l'on le raille
+
+Je le crois, mais enfin ne veux-tu pas me dire ?...
+
+Soit, je te le promets.
+
+Ce maître toutefois passe pour un fin homme.
+
+L'accident est heureux.
+
+La baronne ! Un tel nom doit me rendre surpris
+Il n'est plus de baronne à présent dans Paris.
+
+C'est avoir en jouant une adresse infinie.
+Prends garde toutefois aux fourbes d'Uranie :
+Elle est fine.
+
+Vous gagnâtes hier sans doute ?
+
+Et Phénice ?
+
+Quoi, Madame, mes soins n'obtiendront rien de vous ?
+Vous serez insensible à ma cruelle peine,
+Et vous me haïrez !
+
+      Ah ! N'achevez pas :
+Ce fâcheux "mais" pourrait me coûter un "hélas".
+
+      Quant à moi, cette fois,
+D'en être dispensé je demande la grâce ;
+Mais notre cher marquis occupera ma place.
+
+À celui qui peut seul apaiser nos ennuis.
+Si jamais à l'amour votre coeur fut sensible,
+Madame, sauvons-nous d'un état si terrible ;
+Finissez nos malheurs en recevant ma foi.
+
+Quoi que puisse l'envie exciter contre vous,
+On ne rougit jamais de suivre son époux,
+Et je veux à vos yeux perdre cent fois la vie,
+Si je pense jamais à forcer votre envie.
+
+Vous voyez qu'en ce point tout s'accorde à ma flamme ;
+Notre dessein est sûr. Partirons-nous, Madame ?
+
+Quittez, quittez, Monsieur, cette colère extrême :
+Je serai son époux.
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_turlupin
+
+Que diable ! Ta maîtresse est longue à s'attifer !
+
 Bon, bon, pousse toujours, et pestons de plus belle
 C'est ici que le jeu ne vaut pas la chandelle,
 Monsieur, et l'on nous doit passer pour vrais filous,
@@ -59,67 +140,9 @@ Tombent sur notre tête, et chargent notre dos.
 Jugez après cela si la fine Lisette
 A raison de songer à plier sa toilette.
 
--*who_clidamant
-Mais elle ne dit pas ce que le jeu lui vaut,
-Et que les...
-
--*who_lisette
-      Il est vrai car le gain monte haut
-Les doubles maltoutiers, avec leur monopole,
-Empêchent à présent qu'on ne gagne une obole.
-N'enragerait-on pas de voir que ces filous
-Ont voulu rehausser les cartes de deux sous ?
-Je ne suis pas ici la seule qui murmure ;
-Personne n'est exempt de leur maudite usure,
-Et je pense qu'un jour on les verra, les gueux,
-Enchérir sur les choux et tondre sur les oeufs.
-S'ils étaient tous pendus que j'en aurais de joie !
-
--*who_clidamant
-Eh bien, pour t'apaiser reçois cette monnaie.
-
--*who_lisette
-Ah ce que j'en disais n'était pas pour cela
-Dieu m'en garde, Monsieur, d'avoir ce dessein-là
-Je suis...
-
--*who_clidamant
-      Sans compliment, prends ces écus pour gage
-D'en recevoir bientôt douze fois davantage.
-
--*who_lisette
-Non, non.
-
--*who_turlupin
       Vous vous moquez, elle ne prendra rien ;
 Je la connais, Monsieur, elle est fille de bien.
 
--*who_lisette
-Voyez-vous ce railleur ! Fait-il pas beau l'entendre !
-Pour te faire dépit exprès je les veux prendre :
-Regarde.
-
--*who_clidamant
-      C'est bien fait ; mais, Lisette, à ton tour
-Tu peux...
-
--*who_lisette
-      Je vous entends, aider à votre amour
-Attendez un moment, je vais trouver la fille ;
-Il faut prendre le temps que sa mère s'habille.
-
--*who_clidamant
-Je te suis obligé, mais au moins dis-lui bien...
-
--*who_lisette
-Faites votre métier, et je ferai le mien.
-
-**** *book_ *id_I02 *act_I *date_1664
-
--*who_clidamant
-Tu rêves, Turlupin ; d'où vient cette surprise ?
-
--*who_turlupin
 Si je parais surpris, c'est de votre sottise.
 Continuez ainsi, vous ne savez pas mal
 Prendre le grand chemin qui mène à l'hôpital.
@@ -129,14 +152,6 @@ Croyez votre valet, et vous croirez un fou :
 Si vous jouez encor, nous n'aurons pas un sou,
 Et le jeu....
 
--*who_clidamant
-      Que veux-tu, j'adore Cléonice,
-Et n'ai qu'un seul moyen d'apaiser mon supplice :
-Uranie est joueuse ; il faut, par mon malheur,
-Ou ne point voir sa fille, ou flatter son humeur.
-Pour plaire à mon amour, je ferais davantage.
-
--*who_turlupin
 Mais vous ne dites pas que Turlupin enrage,
 Et que dans mon pourpoint je crève de dépit
 De ce que bien souvent notre ventre en pâtit.
@@ -169,119 +184,84 @@ Où votre sot amour vous fit faire la bête,
 Et par une renonce habilement surpris,
 Vous laissâtes manger le chat à la souris.
 
--*who_clidamant
-De ces avis en vain ne me romps plus la tête,
-J'ai su tous leurs détours.
-
--*who_turlupin
       Vous en êtes plus bête
 De souffrir que la poule attrape le renard,
 Et de laisser toujours votre argent à l'écart.
 
--*who_clidamant
-Mais tu risques toi-même, et perds ainsi qu'un autre.
-
--*who_turlupin
 Eh oui, de par le diable ! Il y va trop du nôtre,
 Et je me suis si bien avec vous contrefait,
 Que je n'en sais que trop pour y perdre mon fait.
 
--*who_clidamant
-Va, va, dans peu de temps nous aurons la revanche :
-J'ai pour les abuser un marquis dans ma manche.
-
--*who_turlupin
 Obligez-moi, Monsieur, de me dire entre nous.
 Depuis quand les marquis sont devenus filous.
 
--*who_clidamant
-C'est un de ces marquis si connus au théâtre,
-De la façon desquels le peuple est idolâtre,
-Et qui couvrent leurs noms d'un noble marquisat
-Pour attraper la dupe, et se moquer du fat.
-La mode dans Paris en est toute commune.
-Ils savent par adresse attirer la fortune ;
-Le jeu les entretient, et la plupart du temps...
-
--*who_turlupin
 Diable ! Que ces marquis sont de subtiles gens !
 De nous emmarquiser mon désir est extrême.
 
--*who_clidamant
-Mais il faudrait avoir une intrigue de même,
-Être sûr des marchands et de tout leur crédit,
-Mentir adroitement, railler avec esprit,
-Des cartes et des dés connaître tous les pièges,
-Parler à tous moments de combats et de sièges,
-Savoir entretenir et Bacchus et l'Amour,
-Hanter l'Académie, et paraître à la Cour.
-Je deviendrais marquis aussi bien comme un autre,
-Si le nom suffisait. Mais j'aperçois le nôtre.
+N'avais-tu point aussi la puce dans l'oreille,
+Lisette, cette nuit ?
 
-**** *book_ *id_I03 *act_I *date_1664
+      Je te crois un monstre de vertu ;
+Mais un sommeil trop long n'est, ma foi, rien qui vaille,
+J'en juge par moi-même, et je te vois de taille
+À mériter assez cette innocent soupçon :
+Aux filles comme toi le dormir n'est pas bon.
 
--*who_clidamant
-Eh bien, mon cher marquis, que dit-on à la cour ?
-N'as-tu point découvert quelque nouvel amour ?
-Tu me sembles joyeux comment va la satire ?
-Parle.
+Mais il n'est pas aisé de forcer vos natures,
+Et j'en sais plus de vingt d'un honnête maintien
+Qui dorment beaucoup plus qu'elles ne voudraient bien.
 
--*who_lemarquis
+Je veux aussi jouer, ma petite badine.
+
+Va, pardonne-les moi, je t'aimerai toujours :
+Pour te mieux apaiser, je vais tendre la joue,
+Frappe.
+
+Mais tu te fâches bien pour quatre pauvres mots.
+
+      Ce cas est donc bien tendre,
+Et ton honneur aussi ?
+
+Puisqu'en vain à jouer je t'invite, Lisette,
+Bonsoir et bonne nuit, je vais faire retraite
+Mon séjour en ces lieux sent les coups de bâton.
+
+Lisette encore un coup, souffre que je m'en aille :
+J'ai peur que jeu de chien ne vienne à jeu de chat.
+En seras-tu bien mieux, dis-moi, si l'on me bat ?
+
+      Laisse-moi, mon amour, mon souci.
+
+Non, non, si tu le veux, je t'offre mon service,
+Mais à condition que tu ne joueras plus
+Il suffit que je sois au nombre des cocus,
+Sans que ma bourse encor, par un usage infâme,
+Entretienne chez moi les galants de ma femme,
+Et dès ce même jour je dégage ma foi,
+Si tu prétends jouer avec d'autres que moi.
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
       Je n'en puis plus, cousin, laisse moi rire.
 
--*who_clidamant
-Mais quel est le sujet qui t'y convie ainsi ?
-
--*who_lemarquis
 Je vais te le conter, mais ris en donc aussi.
 
--*who_clidamant
-On ne rit pas de même à la moindre parole,
-Sans avoir...
-
--*who_lemarquis
       Ah ! Parbleu, cet accident est drôle !
 Je veux être pendu si le tour n'est divin,
 Jamais Italien n'en a fait un plus fin,
 Et je veux dès demain que Molière le joue.
 
--*who_clidamant
-Qu'il le joue ?
-
--*who_lemarquis
       Oui, mornon et de plus qu'on le loue.
 
--*who_clidamant
-Mais en si peu de temps peut-on venir à bout ?...
-
--*who_clidamant
-Les personnes d'esprit en un moment font tout :
-N'as-tu point remarqué L'Impromptu de Versailles ?
-
--*who_clidamant
-Fort bien, et c'est ce nom qui fait que l'on le raille
-
--*who_lemarquis
 Oui, ceux qui ne l'ont vu que les dernières fois ;
 Mais quand il me le lut, il n'avait que six mois.
 
--*who_clidamant
-Je le crois, mais enfin ne veux-tu pas me dire ?...
-
--*who_lemarquis
 Mais encore une fois promets-moi donc d'en rire.
 
--*who_clidamant
-Soit, je te le promets.
-
--*who_lemarquis
       Le tour est délicat
 Sache que j'ai dupé le maître du hoccat.
 
--*who_clidamant
-Ce maître toutefois passe pour un fin homme.
-
--*who_lemarquis
 Je l'ai trompé pourtant, et d'une bonne somme,
 De quarante louis, dont tu serais ravi ;
 Mais apprends le moyen dont je me suis servi.
@@ -310,10 +290,6 @@ J'ai quitté le hoccat en demandant à boire,
 Et laissant mon second après un gain si doux,
 Je suis venu, sur l'heure, à notre rendez-vous.
 
--*who_clidamant
-L'accident est heureux.
-
--*who_lemarquis
       Nous n'en avons point d'autres
 On ne fait point de tours comparables aux nôtres,
 Et je veux en ami t'en décrire encore un,
@@ -321,11 +297,6 @@ Que tu confesseras n'être pas du commun.
 Pour jouer l'autre jour, ne rencontrant personne,
 Il me vint en l'esprit d'aller voir la baronne.
 
--*who_clidamant
-La baronne ! Un tel nom doit me rendre surpris
-Il n'est plus de baronne à présent dans Paris.
-
--*who_lemarquis
 C'est la joueuse Aglante ; elle est demi marquise,
 Mais je me moque d'elle, et je la baronnise
 Et ne puis endurer qu'elle ose devant moi
@@ -371,103 +342,17 @@ Elle même se brouille, et me fait vingt écoles ;
 Et moi, pour la réduire avançant mon retour.
 Je fournis ma carrière et j'achevai mon tour.
 
--*who_clidamant
-C'est avoir en jouant une adresse infinie.
-Prends garde toutefois aux fourbes d'Uranie :
-Elle est fine.
-
--*who_lemarquis
       Va, va, ne t'en afflige point :
 Bien huppé qui pourra m'attraper sur ce point ;
 Nous savons au besoin comment il s'y faut prendre.
 Mais la voici qui vient.
 
-**** *book_ *id_I04 *act_I *date_1664
-
--*who_uranie
-      Je vous ai fait attendre,
-Et de quelque paresse on me doit accuser ;
-Mais de toute la nuit je n'ai pu reposer :
-Je l'ai passée entière avec un mal de tête.
-À jouer toutefois je n'en suis pas moins prête.
-
--*who_clidamant
-Vous gagnâtes hier sans doute ?
-
--*who_uranie
-      Nullement
-Je perdis vingt louis presque dans un moment.
-
--*who_clidamant
-Et Phénice ?
-
--*who_uranie
-      Ah, mon Dieu, la vilaine joueuse !
-Avec de tels esprits que je suis malheureuse !
-Eh quoi ! Tricher toujours, et sans cesse crier,
-Quand on perd une maille, ou qu'on gagne un denier !
-Je n'ai jamais connu chicaneuse pareille.
-
--*who_turlupin
-N'avais-tu point aussi la puce dans l'oreille,
-Lisette, cette nuit ?
-
--*who_lisette
-      Moi ? Pour qui me prends-tu,
-Insolent ?
-
--*who_turlupin
-      Je te crois un monstre de vertu ;
-Mais un sommeil trop long n'est, ma foi, rien qui vaille,
-J'en juge par moi-même, et je te vois de taille
-À mériter assez cette innocent soupçon :
-Aux filles comme toi le dormir n'est pas bon.
-
--*who_lisette
-Mais je me lasse enfin de souffrir tes injures.
-
--*who_turlupin
-Mais il n'est pas aisé de forcer vos natures,
-Et j'en sais plus de vingt d'un honnête maintien
-Qui dorment beaucoup plus qu'elles ne voudraient bien.
-
--*who_lemarquis
 Il est vrai que ces gens sont fâcheux dans le monde.
 
--*who_uranie
-Ah ! Ne me parlez point d'aucun joueur qui gronde,
-Et qui, sitôt qu'un autre est plus heureux que lui,
-Peste, jure, se fâche, et montre de l'ennui.
-
--*who_lemarquis
 Leur malheur cependant ne vient que de leur crainte :
 Tout le monde chez eux est soupçonné de feinte ;
 Ils tremblent à tous coups, et craignent d'échouer.
 
--*who_uranie
-Mais s'ils ont peur de perdre, il ne faut pas jouer.
-À quoi bon dans le jeu montrer leur vilenie ?
-Ce n'est pas là l'humeur de la pauvre Uranie
-La perte ni le gain, le bien ni le malheur,
-Ne sont pas assez forts pour changer sa froideur ;
-Elle sait en user avec plus de franchise,
-Et l'on m'enlèverait jusques à ma chemise,
-Que je ne dirais pas un seul mot de courroux.
-
--*who_clidamant
-Quoi, Madame, mes soins n'obtiendront rien de vous ?
-Vous serez insensible à ma cruelle peine,
-Et vous me haïrez !
-
--*who_cleonice
-      Non, je n'ai point de haine,
-J'estime vos vertus ; mais...
-
--*who_clidamant
-      Ah ! N'achevez pas :
-Ce fâcheux "mais" pourrait me coûter un "hélas".
-
--*who_lemarquis
 Ne nous accusez point dans le siècle où nous sommes,
 Les femmes sont au jeu plus fortes que les hommes ;
 En France, en Angleterre, en Espagne, et partout,
@@ -485,168 +370,20 @@ Se mettent trois ensemble à former leurs malices,
 Et trichent hardiment pour nous donner échec,
 Dans l'espoir qu'à leur sexe on rendra du respect.
 
--*who_uranie
-Je confesse entre nous qu'il en est quelques-unes
-Dont les subtilités ne sont pas trop communes ;
-Mais nous perdons le temps au lieu de l'employer,
-Et je réussis mal à vous désennuyer.
-Des cartes, des jetons, des fauteuils, une table !
-Lequel de tous les jeux vous semble plus aimable ?
-Nommez-le, car enfin nous sommes ici trois,
-Et nous pouvons choisir.
-
--*who_clidamant
-      Quant à moi, cette fois,
-D'en être dispensé je demande la grâce ;
-Mais notre cher marquis occupera ma place.
-
--*who_unlaquais
-Une dame est là-bas qui demande à vous voir.
-
--*who_uranie
-Ah ! Voilà notre fait, il faut la recevoir ;
-Qu'on la fasse monter.
-
--*who_lemarquis
       Au moins faites, Madame,
 Que vos coups n'aillent point jusques dedans mon âme,
 Que je sauve mon coeur, si je perds mon argent,
 Et que...
 
--*who_uranie
-      Ne craignez rien, le péril n'est pas grand ;
-Vous n'avez pas sujet de vous en mettre en peine,
-Et mes yeux... Mais je vois l'illustre Polixène.
-
-**** *book_ *id_I05 *act_I *date_1664
-
--*who_uranie
-Madame, quel bonheur me permet de vous voir ?
-
--*who_polixene
-Je viens auprès de vous m'acquitter d'un devoir.
-
--*who_uranie
-Vous me faites honneur. Que vous êtes bien mise !
-Que votre tour est beau c'est un point de Venise.
-Mais admirez, Marquis, que ces yeux sont charmants !
-
--*who_lemarquis
 Ce sont de vrais soleils.
 
--*who_polixene
-      Trêve de compliments.
-Votre civilité, ma chère m'assassine.
-
--*who_uranie
-Je le dis franchement, votre grâce est divine.
-Que ce corps est bien pris ! Je gage mille écus
-Qu'il est du bon tailleur.
-
--*who_polixene
-      Mais n'en parlez donc plus.
-J'ai fait une partie ; en serez-vous, ma bonne ?
-
--*who_uranie
-Si j'en serai ? Ce doute avec raison m'étonne :
-Proposez hardiment, nous suivrons vos désirs.
-
--*who_polixene
-Je vous promets au moins de sensibles plaisirs ;
-Vous n'avez jamais eu de passe-temps semblable.
-
--*who_uranie
-Il doit être charmant, s'il vous paraît aimable.
-
--*who_polixene
-Vous en allez juger, et ces Messieurs aussi.
-
--*who_lemarquis
 Volontiers.
 
--*who_polixene
-      Allons donc, mon carrosse est ici.
-
--*who_uranie
-Où, Madame ?
-
--*who_polixene
-      À l'Hôtel, chercher la comédie.
-Comment ! À ce seul nom vous semblez refroidie ?
-Est-ce au Palais-Royal que vous voulez aller ?
-
--*who_uranie
-Point du tout, c'est du jeu que j'entendais parler.
-
--*who_polixene
-Du jeu, ma chère ? Hélas ! Quel abus est le vôtre !
-Quoi, vous préféreriez ce passe-temps à l'autre !
-
--*who_uranie
-Sans doute, et je n'en fais nulle difficulté
-J'y trouve plus de gloire et plus de sûreté.
-Toutes filles d'esprit, dont l'honneur est le maître,
-Dans ces lieux de plaisir ne doivent point paraître,
-Et quand elles y vont, j'en rabats la moitié,
-Du moins.
-
--*who_polixene
-      Ah ! Sans mentir, vous me faites pitié !
-Avec quels ignorants passez-vous votre vie,
-Qui s'osent gendarmer contre la comédie,
-Qui masquent ses beautés d'un voile si trompeur,
-Et qui d'un jeu d'esprit vous font un point d'honneur ?
-Ces lieux contre lesquels votre vertu tempête,
-N'entretiennent nos coeurs que d'un plaisir honnête.
-Ignorez-vous encor que, sans aucuns soupçons,
-La femme la plus sage y trouve des leçons ;
-Que si l'on ne se tient comme une vraie idole,
-On ne peut s'empêcher d'y courir à l'école,
-Et qu'il est sûr enfin que, dans ce dessein-là,
-On en revient toujours plus contrit qu'on n'y va.
-
--*who_uranie
-Je n'irai pourtant pas, m'offrît-on des empires.
-On dit que le théâtre est rempli de satyres
-Je les connais trop bien, et j'ai lu quelquefois
-Que ces vilains forçaient les filles dans les bois.
-De tous les animaux ces bouquins sont les pires.
-
--*who_polixene
-Que vous êtes plaisante avecque vos satyres,
-Et que vous tournez bien les choses à l'envers
-Apprenez que ce sont des satires en vers,
-Des écrits instructifs, où selon la matière,
-Un chacun est drapé d'une aimable manière ;
-Et, loin que notre sexe en doive être surpris,
-C'est l'occupation de tous les beaux esprits
-À la cour maintenant on ne voit autre chose ;
-Chaque seigneur en est la matière ou la cause,
-Et la mode est venue, au lieu de se louer,
-Qu'il faut jouer un autre, ou se faire jouer.
-
--*who_uranie
-Pensez-vous me gagner avecque votre mode ?
-
--*who_polixene
-Mais quand on la méprise, on devient incommode,
-Et de plus, quel plaisir, pour un malheureux jeu,
-De ne sortir jamais des coins de notre feu ?
-C'est à la comédie où l'on voit le beau monde,
-Attiré par les vers d'une Muse féconde
-Les savants de leur art y rencontrent les lois,
-Et les Princes enfin y vont ouïr les rois.
-
--*who_lemarquis
 Attaquez notre jeu par de meilleures causes :
 Un esprit en jouant s'instruit de toutes choses ;
 Aussi bien qu'au théâtre on y trouve des lois,
 Et l'on y fait agir des Dames et des Rois.
 
--*who_polixene
-Ce ne sont en effet que des figures mortes.
-
--*who_lemarquis
 Non, mais on les anime en cent diverses sortes,
 Et si je ne craignais de paraître ennuyeux,
 Je pourrais aisément vous nommer mille jeux
@@ -662,10 +399,6 @@ Le jeu des coins du monde et de toute la terre,
 Les quatre fins de l'homme et celui de la guerre ,
 Tant d'autres jeux encore où l'on n'est point assis.
 
--*who_uranie
-Pour moi de tous ceux-là j'aime le reversis.
-
--*who_lemarquis
 Que si vous prétendez disputer de noblesse,
 Nos jeux sont descendus de l'ancienne Grèce.
 Vous nous vantez en vain un Tespis aujourd'hui,
@@ -677,44 +410,221 @@ Les Grecs étaient adroits à manier le dé,
 Et si du grand César on croit le commentaire,
 On jouait dans son camp au jardin militaire.
 
--*who_uranie
+Ne plaignez par si fort l'argent de votre bourse
+De ce qu'un jeu vous ôte un autre est la ressource,
+Et du sexe en cela l'avantage est si grand
+Que l'on joue avec vous, et même sans argent.
+
+Quoi, pour un quart d'écu vous entrez en bataille ?
+
+Accordez-vous enfin, il est temps.
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_uranie
+
+      Je vous ai fait attendre,
+Et de quelque paresse on me doit accuser ;
+Mais de toute la nuit je n'ai pu reposer :
+Je l'ai passée entière avec un mal de tête.
+À jouer toutefois je n'en suis pas moins prête.
+
+      Nullement
+Je perdis vingt louis presque dans un moment.
+
+      Ah, mon Dieu, la vilaine joueuse !
+Avec de tels esprits que je suis malheureuse !
+Eh quoi ! Tricher toujours, et sans cesse crier,
+Quand on perd une maille, ou qu'on gagne un denier !
+Je n'ai jamais connu chicaneuse pareille.
+
+Ah ! Ne me parlez point d'aucun joueur qui gronde,
+Et qui, sitôt qu'un autre est plus heureux que lui,
+Peste, jure, se fâche, et montre de l'ennui.
+
+Mais s'ils ont peur de perdre, il ne faut pas jouer.
+À quoi bon dans le jeu montrer leur vilenie ?
+Ce n'est pas là l'humeur de la pauvre Uranie
+La perte ni le gain, le bien ni le malheur,
+Ne sont pas assez forts pour changer sa froideur ;
+Elle sait en user avec plus de franchise,
+Et l'on m'enlèverait jusques à ma chemise,
+Que je ne dirais pas un seul mot de courroux.
+
+Je confesse entre nous qu'il en est quelques-unes
+Dont les subtilités ne sont pas trop communes ;
+Mais nous perdons le temps au lieu de l'employer,
+Et je réussis mal à vous désennuyer.
+Des cartes, des jetons, des fauteuils, une table !
+Lequel de tous les jeux vous semble plus aimable ?
+Nommez-le, car enfin nous sommes ici trois,
+Et nous pouvons choisir.
+
+Ah ! Voilà notre fait, il faut la recevoir ;
+Qu'on la fasse monter.
+
+      Ne craignez rien, le péril n'est pas grand ;
+Vous n'avez pas sujet de vous en mettre en peine,
+Et mes yeux... Mais je vois l'illustre Polixène.
+
+Madame, quel bonheur me permet de vous voir ?
+
+Vous me faites honneur. Que vous êtes bien mise !
+Que votre tour est beau c'est un point de Venise.
+Mais admirez, Marquis, que ces yeux sont charmants !
+
+Je le dis franchement, votre grâce est divine.
+Que ce corps est bien pris ! Je gage mille écus
+Qu'il est du bon tailleur.
+
+Si j'en serai ? Ce doute avec raison m'étonne :
+Proposez hardiment, nous suivrons vos désirs.
+
+Il doit être charmant, s'il vous paraît aimable.
+
+Où, Madame ?
+
+Point du tout, c'est du jeu que j'entendais parler.
+
+Sans doute, et je n'en fais nulle difficulté
+J'y trouve plus de gloire et plus de sûreté.
+Toutes filles d'esprit, dont l'honneur est le maître,
+Dans ces lieux de plaisir ne doivent point paraître,
+Et quand elles y vont, j'en rabats la moitié,
+Du moins.
+
+Je n'irai pourtant pas, m'offrît-on des empires.
+On dit que le théâtre est rempli de satyres
+Je les connais trop bien, et j'ai lu quelquefois
+Que ces vilains forçaient les filles dans les bois.
+De tous les animaux ces bouquins sont les pires.
+
+Pensez-vous me gagner avecque votre mode ?
+
+Pour moi de tous ceux-là j'aime le reversis.
+
 Cédez, cédez, Madame, après tant de raisons ;
 Ne vous défendez point de ce que nous faisons
 De jouer une fois accordez-nous la grâce.
 
--*who_polixene
-Vous m'épargnerez donc?
-
--*who_uranie
       Tout à fait. Prenons place.
 
--*who_lisette
-Enfin, voici te temps d'achever vos desseins :
-Nos gens embarrassés ont les cartes aux mains ;
-Consultez promptement ce que vous devez faire.
+      De l'esprit j'en ai peu ;
+Mais je me pique au moins de jouer un beau jeu.
+À l'aide, je me perds, quelle faute j'ai faite !
 
--*who_cleonice
+Ce terme me surpasse ; il est nouveau.
+
+Ah ! Vous êtes pour nous un marquis trop adroit,
+Et votre as appointé m'a prise au trébuchet.
+
+Comment ! Voilà ma carte, et c'est moi qui l'ai mise.
+
+      Et j'en jure ma foi.
+
+      C'est vous qui me fourbez, Madame.
+
+Je la suis plus que vous.
+
+      Qu'est-ce donc ? Que me voulez-vous dire ?
+Pensez-vous me railler ?
+
+Mais votre fille enfin n'a point sorti d'ici ?
+
+Vous sortez donc ainsi sans le dire, Madame ?
+
+Laisse, laisse courir ce vieillard en colère ;
+C'est un bonheur pour toi qu'il te donne un époux,
+Et nous aurons le temps de calmer son courroux.
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleonice
+
+      Non, je n'ai point de haine,
+J'estime vos vertus ; mais...
+
 Ah ! Que puis-je choisir sans l'aveu de mon père !
 À quel parti me rendre en l'état où je suis ?
 
--*who_clidamant
-À celui qui peut seul apaiser nos ennuis.
-Si jamais à l'amour votre coeur fut sensible,
-Madame, sauvons-nous d'un état si terrible ;
-Finissez nos malheurs en recevant ma foi.
-
--*who_cleonice
 Mais après un tel coup que dira-t-on de moi ?
 Qu'en pourra-t-on juger, si, perdant ma franchise,
 Je souffre qu'en secret un amant me séduise ?
 
--*who_clidamant
-Quoi que puisse l'envie exciter contre vous,
-On ne rougit jamais de suivre son époux,
-Et je veux à vos yeux perdre cent fois la vie,
-Si je pense jamais à forcer votre envie.
+Mais si dans le chemin nous rencontrons mon père ?
 
--*who_lisette
+      Nous allions à la foire.
+
+      Vraiment oui.
+
+Ah ! Mon père, excusez un amour téméraire.
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
+Dans une heure, monsieur, vous verrez ma maîtresse ;
+Mais il faut accorder ce temps à sa paresse,
+Et lui permettre au moins de se faire coiffer.
+
+      Je n'y saurais que faire
+Aussi bien comme vous j'en suis toute en colère.
+Mais, dût-on enrager, je le donne au plus fin,
+Quand on se couche au jour, de se lever matin.
+Je ne m'étonne pas, après un tel supplice,
+D'où naissent sur mon teint ces marques de jaunisse.
+Et si, devenant maigre à vous faire pitié,
+Il me faut étrecir mon corset de moitié.
+Dieu merci, nous faisons un assez beau ménage
+Mais je veux bien mourir si j'y suis davantage
+C'est trop en endurer, ma constance est à bout
+N'avoir point de repos, ne dormir point du tout,
+Sans oser dire un mot, souffrir un froid extrême,
+En dépit de ses dents jeûner plus d'un carême
+Faire du jour la nuit, et de la nuit le jour,
+Vous en êtes témoin, grâce à vôtre amour
+Ce n'est pas d'aujourd'hui que vous voyez la dame
+Passer toutes les nuits sans voir ni feu ni flamme.
+Être dans une chambre à croquer le marmot,
+Ne trouver au matin ni marmite, ni pot,
+C'est pour être joyeuse et devenir bien grasse
+Se mette qui voudra dans ma chienne de place,
+Qu'une autre que Lisette y serve de jouet :
+Si j'y demeure plus, je veux avoir le fouet.
+
+      Il est vrai car le gain monte haut
+Les doubles maltoutiers, avec leur monopole,
+Empêchent à présent qu'on ne gagne une obole.
+N'enragerait-on pas de voir que ces filous
+Ont voulu rehausser les cartes de deux sous ?
+Je ne suis pas ici la seule qui murmure ;
+Personne n'est exempt de leur maudite usure,
+Et je pense qu'un jour on les verra, les gueux,
+Enchérir sur les choux et tondre sur les oeufs.
+S'ils étaient tous pendus que j'en aurais de joie !
+
+Ah ce que j'en disais n'était pas pour cela
+Dieu m'en garde, Monsieur, d'avoir ce dessein-là
+Je suis...
+
+Non, non.
+
+Voyez-vous ce railleur ! Fait-il pas beau l'entendre !
+Pour te faire dépit exprès je les veux prendre :
+Regarde.
+
+      Je vous entends, aider à votre amour
+Attendez un moment, je vais trouver la fille ;
+Il faut prendre le temps que sa mère s'habille.
+
+Faites votre métier, et je ferai le mien.
+
+      Moi ? Pour qui me prends-tu,
+Insolent ?
+
+Mais je me lasse enfin de souffrir tes injures.
+
+Enfin, voici te temps d'achever vos desseins :
+Nos gens embarrassés ont les cartes aux mains ;
+Consultez promptement ce que vous devez faire.
+
 Quoi ! Vous vous arrêtez à ce qu'en-dira-t-on,
 Et vous doutez encore en cette occasion ?
 Allez, contre ces bruits où le peuple s'abuse,
@@ -726,155 +636,124 @@ Vous courez grand hasard de vivre et mourir fille,
 Et vous ferez très bien, bon gré malgré ses dents,
 De quitter vite un nom qui dure trop longtemps.
 
--*who_cleonice
-Mais si dans le chemin nous rencontrons mon père ?
-
--*who_lisette
 Et qu'appréhendez-vous du vieillard débonnaire ?
 Il aime trop la paix pour troubler vos amours.
 Uranie au bonhomme a bien fait d'autres tours.
 
--*who_clidamant
-Vous voyez qu'en ce point tout s'accorde à ma flamme ;
-Notre dessein est sûr. Partirons-nous, Madame ?
-
--*who_lisette
 Sortez, elle consent, puisqu'elle ne dit mot :
 Avec vos compliments c'est trop faire le sot.
 Nous allons demeurer pour faire bonne mine.
 
-**** *book_ *id_I06 *act_I *date_1664
-
--*who_turlupin
-Je veux aussi jouer, ma petite badine.
-
--*who_lisette
 Tu crois donc m'apaiser après tes beaux discours ?
 
--*who_turlupin
-Va, pardonne-les moi, je t'aimerai toujours :
-Pour te mieux apaiser, je vais tendre la joue,
-Frappe.
-
--*who_lisette
       Ne pense pas pour cela que je joue
 Je suis trop offensée, et j'ai le coeur trop gros.
 
--*who_turlupin
-Mais tu te fâches bien pour quatre pauvres mots.
-
--*who_lisette
 De tels mots en ce cas ne se peuvent entendre
 Sans blesser notre honneur.
 
--*who_turlupin
-      Ce cas est donc bien tendre,
-Et ton honneur aussi ?
+Non, demeure.
 
--*who_uranie
-      De l'esprit j'en ai peu ;
-Mais je me pique au moins de jouer un beau jeu.
-À l'aide, je me perds, quelle faute j'ai faite !
+Arrête, malheureux.
 
--*who_polixene
+Chien de poltron...
+
+Faut-il donc me résoudre à quitter Cléonice ?
+
+
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polixene
+
+Je viens auprès de vous m'acquitter d'un devoir.
+
+      Trêve de compliments.
+Votre civilité, ma chère m'assassine.
+
+      Mais n'en parlez donc plus.
+J'ai fait une partie ; en serez-vous, ma bonne ?
+
+Je vous promets au moins de sensibles plaisirs ;
+Vous n'avez jamais eu de passe-temps semblable.
+
+Vous en allez juger, et ces Messieurs aussi.
+
+      Allons donc, mon carrosse est ici.
+
+      À l'Hôtel, chercher la comédie.
+Comment ! À ce seul nom vous semblez refroidie ?
+Est-ce au Palais-Royal que vous voulez aller ?
+
+Du jeu, ma chère ? Hélas ! Quel abus est le vôtre !
+Quoi, vous préféreriez ce passe-temps à l'autre !
+
+      Ah ! Sans mentir, vous me faites pitié !
+Avec quels ignorants passez-vous votre vie,
+Qui s'osent gendarmer contre la comédie,
+Qui masquent ses beautés d'un voile si trompeur,
+Et qui d'un jeu d'esprit vous font un point d'honneur ?
+Ces lieux contre lesquels votre vertu tempête,
+N'entretiennent nos coeurs que d'un plaisir honnête.
+Ignorez-vous encor que, sans aucuns soupçons,
+La femme la plus sage y trouve des leçons ;
+Que si l'on ne se tient comme une vraie idole,
+On ne peut s'empêcher d'y courir à l'école,
+Et qu'il est sûr enfin que, dans ce dessein-là,
+On en revient toujours plus contrit qu'on n'y va.
+
+Que vous êtes plaisante avecque vos satyres,
+Et que vous tournez bien les choses à l'envers
+Apprenez que ce sont des satires en vers,
+Des écrits instructifs, où selon la matière,
+Un chacun est drapé d'une aimable manière ;
+Et, loin que notre sexe en doive être surpris,
+C'est l'occupation de tous les beaux esprits
+À la cour maintenant on ne voit autre chose ;
+Chaque seigneur en est la matière ou la cause,
+Et la mode est venue, au lieu de se louer,
+Qu'il faut jouer un autre, ou se faire jouer.
+
+Mais quand on la méprise, on devient incommode,
+Et de plus, quel plaisir, pour un malheureux jeu,
+De ne sortir jamais des coins de notre feu ?
+C'est à la comédie où l'on voit le beau monde,
+Attiré par les vers d'une Muse féconde
+Les savants de leur art y rencontrent les lois,
+Et les Princes enfin y vont ouïr les rois.
+
+Ce ne sont en effet que des figures mortes.
+
+Vous m'épargnerez donc?
+
 Cet impromptu n'est pas d'une joueuse adroite.
 
--*who_uranie
-Ce terme me surpasse ; il est nouveau.
-
--*who_polixene
       Fort peu
 On en fait au théâtre, et l'on en fait au jeu,
 Et les auteurs du temps, se mettant sur leurs gardes,
 Se servent d'impromptus comme de hallebardes.
 
--*who_uranie
-Ah ! Vous êtes pour nous un marquis trop adroit,
-Et votre as appointé m'a prise au trébuchet.
-
--*who_lemarquis
-Ne plaignez par si fort l'argent de votre bourse
-De ce qu'un jeu vous ôte un autre est la ressource,
-Et du sexe en cela l'avantage est si grand
-Que l'on joue avec vous, et même sans argent.
-
--*who_turlupin
-Puisqu'en vain à jouer je t'invite, Lisette,
-Bonsoir et bonne nuit, je vais faire retraite
-Mon séjour en ces lieux sent les coups de bâton.
-
--*who_lisette
-Non, demeure.
-
--*who_polixene
       Tout beau, laissez-là ce jeton ;
 L'argent n'est pas à vous, n'usez point de surprise.
 
--*who_uranie
-Comment ! Voilà ma carte, et c'est moi qui l'ai mise.
-
--*who_polixene
 Nullement, c'est la mienne, et le coup est à moi,
 J'en jure sur mon âme.
 
--*who_uranie
-      Et j'en jure ma foi.
-
--*who_lemarquis
-Quoi, pour un quart d'écu vous entrez en bataille ?
-
--*who_turlupin
-Lisette encore un coup, souffre que je m'en aille :
-J'ai peur que jeu de chien ne vienne à jeu de chat.
-En seras-tu bien mieux, dis-moi, si l'on me bat ?
-
--*who_lisette
-Arrête, malheureux.
-
--*who_polixene
       Fi, fi, pour une femme,
 Vous trichez trop.
 
--*who_uranie
-      C'est vous qui me fourbez, Madame.
-
--*who_lemarquis
-Accordez-vous enfin, il est temps.
-
--*who_polixene
       Mais aussi
 J'ai gagné.
 
--*who_turlupin
-      Laisse-moi, mon amour, mon souci.
-
--*who_lisette
-Chien de poltron...
-
--*who_polixene
       Voilà cette belle joueuse !
 
--*who_uranie
-Je la suis plus que vous.
 
-**** *book_ *id_I07 *act_I *date_1664
+**** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
--*who_valere
       Venez, venez, coureuse ;
 Quand je vous ai trouvée, où, de grâce, alliez-vous,
 Avec ce beau galant qui vous fait les yeux doux ?
 Répondez, s'il vous plaît.
 
--*who_cleonice
-      Nous allions à la foire.
-
--*who_valere
 À la foire, bon Dieu !
 
--*who_cleonice
-      Vraiment oui.
-
--*who_valere
       Vraiment voire ?
 Votre bonne maman vous l'avait-elle dit ?
 Et vous qui n'avez rien que le jeu dans l'esprit,
@@ -884,18 +763,9 @@ C'est ainsi que vos soins conservent mon honneur !
 Vous laissez une fille avec un suborneur,
 Et souffrez !...
 
--*who_uranie
-      Qu'est-ce donc ? Que me voulez-vous dire ?
-Pensez-vous me railler ?
-
--*who_valere
       Oui, je parle pour rire !
 J'ai grand tort, en effet, d'avoir aucun souci.
 
--*who_uranie
-Mais votre fille enfin n'a point sorti d'ici ?
-
--*who_valere
 Eh non, non, j'extravague, et j'avais la berlue,
 Quand je l'ai rencontrée au milieu de la rue !
 Ah ! Joueuse fatale au repos de mes jours,
@@ -921,10 +791,6 @@ Quand je veux m'emporter dans le moindre murmure,
 Et si je me réserve un pauvre louis d'or,
 Je crains de les contraindre à faire pis encor.
 
--*who_uranie
-Vous sortez donc ainsi sans le dire, Madame ?
-
--*who_valere
 Ne la querellez point, malencontreuse femme
 De votre attachement c'est là l'indigne effet,
 Et vous devez prévoir à tout ce qu'elle fait.
@@ -937,11 +803,6 @@ Souffrir force galants, c'est se faire à la mode,
 Et dans le monde un jour par l'usage vaincu,
 On se reprochera de n'être pas cocu.
 
--*who_clidamant
-Quittez, quittez, Monsieur, cette colère extrême :
-Je serai son époux.
-
--*who_valere
       Je l'entends bien de même,
 Et je consens à voir cet assemblage heureux
 D'une fille peu sage et d'un mari fort gueux.
@@ -954,22 +815,3 @@ Cléonice est coquette, et sa mère est joueuse :
 Je renonce à leur garde et, me laissant en paix,
 Elles m'obligeront de ne me voir jamais.
 
--*who_cleonice
-Ah ! Mon père, excusez un amour téméraire.
-
--*who_uranie
-Laisse, laisse courir ce vieillard en colère ;
-C'est un bonheur pour toi qu'il te donne un époux,
-Et nous aurons le temps de calmer son courroux.
-
--*who_lisette
-Faut-il donc me résoudre à quitter Cléonice ?
-
--*who_turlupin
-Non, non, si tu le veux, je t'offre mon service,
-Mais à condition que tu ne joueras plus
-Il suffit que je sois au nombre des cocus,
-Sans que ma bourse encor, par un usage infâme,
-Entretienne chez moi les galants de ma femme,
-Et dès ce même jour je dégage ma foi,
-Si tu prétends jouer avec d'autres que moi.

@@ -1,4 +1,4 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -199,8 +199,12 @@
           <sp xml:id="I03-3" who="lulli">
             <p>Oui, l’air doit être grave... la mesure bien marquée...<pb n="7" xml:id="p7"/> Ces médecins dans leur épaisse fourrure ; ces <ref target="#apothicaire">apothicaires*</ref> dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... <hi rend="i">Sol, mi, sol, ut, ut, ré, sol, fa...</hi> C'est cela.</p>
             <l n="34" xml:id="l34" rend="center">AIR : <hi rend="i">De la marche du malade imaginaire.</hi></l>
-            <l n="35" xml:id="l35" rend="center i">Dignus, dignus est intrare</l>
-            <l n="36" xml:id="l36" rend="center i">In nostro, in nostro</l>
+            <l n="35" xml:id="l35" rend="center">
+              <hi rend="i">Dignus, dignus est intrare</hi>
+            </l>
+            <l n="36" xml:id="l36" rend="center">
+              <hi rend="i">In nostro, in nostro</hi>
+            </l>
             <l n="37" xml:id="l37" rend="center">
               <hi rend="i">In nostro docto corporo.</hi>
             </l>
@@ -266,7 +270,9 @@
             <p><space/>C'est-il bien possible !</p>
           </sp>
           <sp xml:id="I03-18" who="lulli">
-            <l n="56" xml:id="l56" rend="center i">Même air.</l>
+            <l n="56" xml:id="l56" rend="center">
+              <hi rend="i">Même air.</hi>
+            </l>
             <l n="57" xml:id="l57" rend="center">Oui, mes amis, je l’avouerai :</l>
             <l n="58" xml:id="l58" rend="center">Voyez jusqu’où la peur nous mène ;</l>
             <l n="59" xml:id="l59" rend="center">A mon confesseur je livrai</l>
@@ -913,7 +919,9 @@
             <p>Cela nous est parfaitement égal.</p>
           </sp>
           <sp xml:id="I11-7" who="chapelle">
-            <l n="215" xml:id="l215" rend="center i"><ref target="#recitatif">Récitatif*</ref>.</l>
+            <l n="215" xml:id="l215" rend="center">
+              <hi rend="i"><ref target="#recitatif">Récitatif*</ref>.</hi>
+            </l>
             <l n="216" xml:id="l216" rend="center">Pardon, sage Lulli, pardon, sage Boileau ;</l>
             <l n="217" xml:id="l217" rend="center">Je suis, mes bons amis, plus difficile à table,</l>
             <l n="218" xml:id="l218" rend="center">Et je crois au vin blanc le rouge préférable,</l>

@@ -1,1433 +1,705 @@
 
 
-**** *book_ *id_I01 *act_I *date_1693
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
 
--*who_bertrand
-Non mordienne vous, dis-je, je ne me laisserai pas enjôler davantage.
+Ah ! Monsieur Josselin, mon pauvre Monsieur Josselin
 
--*who_lucinde
-Hé, mon pauvre garçon.
+Je suis dans le plus grand des embarras. Mon... Qui est cet homme-là ?
 
--*who_bertrand
-Je n'en ferai rien.
+Ah, vraiment de la Coupe ! J'ai bien d'autres tintouins dans la tête.
 
--*who_perrette
-Auras-tu bien le coeur si dur que...
+J'ai vu... Ouf !
 
--*who_bertrand
-Je l'aurai dur comme un caillou.
+Je viens de voir... Que fais-tu là ?
 
--*who_lucinde
-Laisse-nous ici seulement jusqu'à ce soir.
-
--*who_bertrand
-Je ne vous y laisserai pas un iota davantage, ventregoine.
-Si quelqu'un vous allait trouver enfarmées dans ma logette, et que dirait-on ?
-
--*who_perrette
-Ardé, ce qu'on en dirait, serait-il tant à ten désavantage ?
-
--*who_bertrand
-Testigué, si notre Maître qui hait les femmes, venait à vous trouver, où en serais-je ?
-
--*who_lucinde
-Quand il saura que je suis une jeune fille persécutée par une Belle-mère, abandonnée à la sollicitation et à l'inimitié de mon propre père, et qui fuit la maison paternelle, de crainte d'épouser un magot qu'elle me veut donner, parce qu'il est son neveu, mes larmes le toucheront ; il aura pitié de moi sans doute.
-
--*who_bertrand
-Morgué, je vous dis qu'il n'est point pitoyable, je le connais mieux que vous.
-
--*who_perrette
-Et moi je gage que ces larmes le débaucheront, comme elles m'ont débauchée.
-Je ne les vis pas plutôt couler que je me résolus d'abandonner mon ménage, pour aller courir les champs avec elle, quoiqu'il n'y ait que onze mois que je sois mariée à Thibaut, le Fermier de son Père, qui est le meilleur homme du monde, et de la meilleure humeur ; est-ce que ton Maître sera plus rébarbatif que moi ?
-
--*who_bertrand
-Ventredié vous me feriez enrager ; est-ce que je ne savons pas bien ce que je savons ?
-
--*who_lucinde
-Fais-moi parler à ce jeune homme que tu dis qui est son fils, je le toucherai je m'assure, et je ne doute point qu'il ne fasse quelque chose auprès de son père en notre faveur.
-
--*who_bertrand
-Hé bien, hé bien, ne voilà-t-il pas.
-Palsangoi n'an dit bian vrai, qu'il n'y a rian de si dur que la tête d'une femme.
-Ne vous ai-je pas dit, cervelle ignorante, que ce fils est le Tu Autem du sujet pourquoi on reçoit ici les femmes comme un chien dans un jeu de quille.
-Que le père ne veut point que le Fils en voie aucune, que le Fils n'en connaît non plus que s'il n'y en avait point au monde, et qu'il ne sait pas seulement comme on les appelle.
-Que le père sottement lui apprend tout cela, que le Fils croit tout cela sottement, et que, que... que Diable ne vous ai-je pas dit tout cela ?
-
--*who_perrette
-Hé bien oui ; mais d'où vient qu'il ne veut pas que son Fils connaisse des Femmes ; est-ce une si mauvaise connaissance ?
-
--*who_bertrand
-D'où vient, d'où vient...
-Eh, l'esprit bouché !
-Ne vous souvient-il pas que de fil en aiguille, je vous ai conté que le Père avait épousé une Femme qui en savait bien long, et que pour empêcher qu'il n'ait comme li le même malencombre qu'il a li, comme bien d'autres ; il a juré son grand juron, que jamais Femme ne serait de rien à ce Fils, et voilà ce qui fait justement que... mais ventreguienne que de babil, est-ce que vous ne voulez donc pas vous taire, et me tourner les talons ?
-
--*who_lucinde
-Mon ami, mon pauvre ami.
-
--*who_bertrand
-Mon ami, mon pauvre ami...
-Jarnigué ne vla-t-il pas encor la chanson du ricochet avec vos pièces d'or.
-
--*who_perrette
-Et va, va, prends toujours.
-
--*who_bertrand
-Ventregué que veux-tu que j'en fasse ?
-
--*who_lucinde
-Mon pauvre garçon.
-
--*who_bertrand
-Tastigué, n'avez-vous point de honte de me tenter comme ça.
-
--*who_perrette
-Prends, te dis-je.
-
--*who_bertrand
-Morgué, c'est être bien Satan.
-
--*who_lucinde
-Bertrand...
-
--*who_bertrand
-Jarni, cela est cause que je vous ai déjà fait passer la nuit dans ma cahute.
-
--*who_perrette
-Le grand malheur.
-
--*who_bertrand
-Morgué, cela va encore être cause que je vous y ferai passer le jour.
-
--*who_lucinde
-Mon cher Bertrand.
-
--*who_bertrand
-Mort de ma vie, que vous ai-je fait ?
-
--*who_perrette
-Eh, prends, prends.
-
--*who_bertrand
-Prends, prends, morguoi prends toi-même.
-
--*who_perrette
-Hé bien donne-le-moi je le prendrai.
-
--*who_bertrand
-Tu as bien envie de me voir frotter.
-
--*who_perrette
-La, la, prends courage ; il ne t'est point arrivé de mal cette nuit, il ne t'en arrivera pas cette journée, ramène-nous dans la logette.
-
--*who_bertrand
-Oui ; mais morgué notre petit Maître est un charcheur de midi à quatorze heures, il a toujours le nez fourré partout, s'il vient à vous trouver hem ?
-
--*who_lucinde
-Peut-être sera-t-il bien aise de nous voir et de nous parler.
-
--*who_bertrand
-Testigué ne vous y fiez pas.
-C'est un petit babillard qui ne manquerait pas de l'aller dire à son Père.
-Il vaut mieux que je vous boute dans queuque endroit où il n'aille pas vous charcher.
-Attendez, je vais voir si personne ne nous en empêche.
-
-**** *book_ *id_I02 *act_I *date_1693
-
--*who_lucinde
-Enfin, Perrette, nous resterons ici jusqu'à ce soir.
-
--*who_perrette
-Oui, mais je ne sommes guère loin du Châtiau de votre Père, j'ai peur que je ne soyons pas longtemps ici sans qu'on vienne nous y charcher.
-
--*who_lucinde
-Nous y seront bien cachées, mais en conscience, Perrette, voudrais-tu partir d'ici sans avoir la charité de tirer ce pauvre petit jeune homme de l'erreur où l'on le fait vivre ?
-
--*who_perrette
-Ouais, vous vous intéressez bien pour lui, si j'osais, je croirais quelque chose ?
-
--*who_lucinde
-Et que croirais-tu ?
-
--*who_perrette
-Je croirais que vous ne seriez pas fâchée de l'avoir pour mari.
-
--*who_lucinde
-Tu ne sais ce que tu dis.
-
--*who_perrette
-Oh par ma foi, j'ai mis le nez dessus.
-
--*who_lucinde
-Que veux-tu dire ?
-
--*who_perrette
-Mon gueu je ne suis pas si sotte que j'en ai la mine.
-Quand je vous le vis regarder hier avec tant d'attention par le trou de la sarrure, je me dis à part moi, vla notre Maîtresse Lucinde qui se prend.
-Et si ce grand dadais que n'an li venait bailler pour époux, avait eu aussi bonne mine que ce petit étourniau-ci, je ne serions pas sorties de la maison.
-
--*who_lucinde
-Tu vois plus clair que moi, Perrette.
-Je t'avoue que je formai dès hier la résolution de faire tout mon possible pour détromper ce pauvre petit homme, et que c'est à quoi j'ai pensé toute la nuit ; mais jusques à présent je ne m'aperçois pas que mon coeur agisse par un autre mouvement, que par celui de la compassion.
-
--*who_perrette
-Eh oui, oui, vous autres grosses Dames, vous n'allez point tout d'abord à la franquette.
-Vous faites toujours semblant de vous déguiser les choses ; pour moi je n'y entends point tant de façons, et quand Thibaut me prit la main la première fois pour danser, qu'il me la serrit de toute sa force, je devinai tout du premier coup c'en que chelà voulait dire.
-Mais qu'entends-je ?
-
-**** *book_ *id_I03 *act_I *date_1693
-
--*who_thibaud
-Haye, haye, haye.
-
--*who_lucinde
-Quelle voix a frappé mon oreille.
-
--*who_thibaud
-Ho, ho, ho,
-
--*who_perrette
-Ah Madame, c'est la voix de notre Mari Thibaut, nous vla perdus !
-
--*who_lucinde
-Courons promptement nous cacher.
-
-**** *book_ *id_I04 *act_I *date_1693
-
--*who_bertrand
-Où courez-vous, fuyez, fuyez de ce côté.
-
--*who_lucinde
-Thibaut le Mari de Perrette vient par ici.
-
--*who_bertrand
-Josselin le Gouverneur de notre petit Maître vient par ilà.
-
--*who_thibaud
-Holà quelqu'un, holà.
-
--*who_perrette
-Entends-tu, c'est fait de nous s'il nous trouve.
-
-**** *book_ *id_I05 *act_I *date_1693
-
--*who_josselin
-Bertrand, hé Bertrand.
-
--*who_bertrand
-Oyez-vous ?
-Nous sommes flambés s'il nous voit.
-
--*who_lucinde
-Où nous cacher ?
-
--*who_bertrand
-Rentrez dans ma logette, et n'en ouvrez point la porte à personne.
-
-**** *book_ *id_I06 *act_I *date_1693
-
--*who_josselin
-Qui est-ce donc qui crie de la sorte ?
-
--*who_bertrand
-Il faut que ce soit quelque passant qui s'est égaré, mais le vla.
-
--*who_thibaud
-Hé, parlez donc vous autres, êtes-vous muets.
-
--*who_josselin
-Non.
-
--*who_thibaud
-Vous êtes donc sourds ?
-
--*who_josselin
-Encore moins.
-
--*who_thibaud
-Et pourquoi donc ne répondez-vous pas ?
-
--*who_josselin
-Parce qu'il ne nous plaît pas.
-
--*who_thibaud
-Palsangué vous êtes trop drôle, puisque vous n'êtes ni sourds ni muets, il faut que je vous embrasse.
-Oui morgué, je sis votre serviteur.
-
--*who_josselin
-Est-ce que nous nous connaissons ?
-
--*who_thibaud
-Je ne sais pas, mais je crois que nous ne nous sommes jamais vus.
-
--*who_josselin
-C'est ce qui me semble.
-
--*who_thibaud
-Palsangué vous vla bian étonné.
-
--*who_josselin
-Et qui ne le serait pas ?
-Nous ne nous connaissons point et vous m'embrassez comme si nous nous étions vus toute notre vie.
-
--*who_thibaud
-Tastigué vous avez biau dire, je vois à votre mine que vous êtes un bon vivant, et que vous m'enseignerez ce que je charche.
-
--*who_josselin
-Et que cherchez-vous ?
-
--*who_thibaud
-Je charche ma Femme, ne l'avez-vous point vue ?
-
--*who_josselin
-Ah !
-Vraiment oui, c'est bien ici qu'il faut chercher des Femmes.
-
--*who_thibaud
-Elle a nom Parrette, elle s'en est enfouie de cheux nous, palsangué chela est bian drôle, pour courir les champs avec la Fille de Monsieur Tobie notre Maître, que l'on voulait marier maugré elle au fils de Monsieur Griffon, neveu de notre Maîtresse, je ne sais morgué comme ces masques ont fagoté tout chela ; mais la nuit Parrette se couchi auprès de moi, et pis je ne li trouvis plus le lendemain, avez-vous jamais rien vu de plus plaisant que chela ?
-
--*who_josselin
-Cela est fort plaisant.
-
--*who_thibaud
-Oh, ce qu'il y a de plus récréatif, c'est qu'elles sont toutes fines seules, et comme elles sont morguoi bian jolies, si elles allaient rencontrer quelque gaillard qui voulit en faire comme des choux de son jardin, elles seraient bien attrapées ; tout franc que je songe à chela, je n'en ris morgué que du bout des dents.
-
--*who_josselin
-Que craignez-vous ?
-
--*who_thibaud
-Je crains...
-Et que sais-je moi, je crains...
-Est-ce que vous ne savez pas ce qu'on craint quand on ne sait où diable est sa femme ?
-
--*who_josselin
-Si vous aviez envie de savoir ce qui en est, on pourrait vous donner satisfaction.
-
--*who_thibaud
-Bon, est-ce qu'on sait jamais ça ?
-Pour s'en douter passe ; mais pour en être sûr niflé, j'aurais morgué biau le demander à Parrette, elle ne l'avouerait jamais, elle est trop bien dessalée.
-
--*who_josselin
-Nous avons ici un moyen sûr pour en savoir la vérité.
-
--*who_thibaud
-Qu'est-ce encore ?
-
--*who_josselin
-C'est une Coupe qui est entre les mains du Seigneur de ce Château.
-Quand elle est pleine de vin, si la Femme de celui qui y boit lui est fidèle, il n'en perd pas une goutte ; mais si elle est infidèle, tout le vin répand à terre.
-
--*who_thibaud
-Cela est bouffon, et où diable a-t-il pêché chela ?
-
--*who_josselin
-Il l'a achetée d'un Arabe, qui, par composition ou par enchantement, y aurait attaché cette vertu.
-
--*who_thibaud
-Et pourquoi ce Monsieur acheta-t-il ce joyau-là ?
-
--*who_josselin
-Par curiosité.
-
--*who_thibaud
-Est-ce qu'il était marié ?
-
--*who_josselin
-Oui.
-
--*who_thibaud
-J'entends, j'entends ; il voulait voir si sa femme...
-N'est-ce pas ?
-
--*who_josselin
-Justement.
-
--*who_thibaud
-D'abord qu'il eut la Coupe, il y but, je gage.
-
--*who_josselin
-Vous l'avez dit.
-
--*who_thibaud
-Elle répandit.
-
--*who_josselin
-Non.
-
--*who_thibaud
-Morgué, c'est être bien plus heureux que sage.
-Il s'en tint là...
-
--*who_josselin
-Non.
-
--*who_thibaud
-Il y rebut ?
-
--*who_josselin
-Oui.
-
--*who_thibaud
-Tastigué vla un sot homme.
-
--*who_josselin
-Plus encor que vous ne le dites.
-
--*who_thibaud
-Et comment donc ?
-Contez-moi cela pour rire.
-
--*who_josselin
-Il voulut éprouver sa femme.
-
--*who_thibaud
-Le benêt.
-
--*who_josselin
-Il lui écrivit sous un nom supposé.
-
--*who_thibaud
-Le jocrisse.
-
--*who_josselin
-Il lui envoya des présents.
-
--*who_thibaud
-L'impertinent.
-
--*who_josselin
-Il lui donna un rendez-vous.
-
--*who_thibaud
-Elle y vint.
-
--*who_josselin
-Est-ce qu'on résiste aux présents ?
-
--*who_thibaud
-Et comment cela se passa-t-il ?
-
--*who_josselin
-En excuses du côté de la Dame, en soufflets de la part du Mari.
-
--*who_thibaud
-Elle les souffrit patiemment.
-
--*who_josselin
-Oui, mais quelques jours après...
-
--*who_thibaud
-Il but encore dans la Coupe.
-
--*who_josselin
-Oui.
-
--*who_thibaud
-Et que fit la Coupe ?
-
--*who_josselin
-Elle répandit
-
--*who_thibaud
-Quand on na que ce qu'on mérite, on ne s'en doit prendre qu'à soi.
-
--*who_josselin
-Il s'en prit à tout le monde, et vint de dépit se loger dans ce Château écarté, pour ne plus entendre parler de femme de sa vie.
-
--*who_thibaud
-Avec la Coupe ?
-
--*who_josselin
-Avec la Coupe.
-
--*who_thibaud
-Et de quoi, lui sert-elle ?
-
--*who_josselin
-Elle lui sert à voir qu'il a beaucoup de confrères, et cela le console.
-
--*who_thibaud
-Et comment le voit-il ?
-
--*who_josselin
-Il engage tous les passants que le hasard conduit ici, d'en faire l'épreuve.
-
--*who_thibaud
-Et depuis quand fait-il ce métier-là ?
-
--*who_josselin
-Depuis quatorze ou quinze ans.
-
--*who_thibaud
-En a-t-il bien vu depuis ce temps-là ?
-
--*who_josselin
-Oh, en quantité.
-
--*who_thibaud
-Par ma fique vla tout fin droit ce qu'il faut pour bouter notte Maîtresse et son biau-frère à la raison ; l'un est un bon Normand qui a épousé une Languedocienne, soeur de l'autre, et l'autre est un Gascon qui a épousé une Parisienne, comme ils sont logés vison visu, ils se tarabustent toujours sur le chapitre de leurs Femmes : je vais leur dire que la Coupe les mettra d'accord ; ils rodons autour de cette montagne pour apprendre des nouvelles de leur fille.
-Mais quel est ce vilain Monsieur-là ?
-
--*who_josselin
-C'est le Maître de la Coupe et le Seigneur de ce Château.
-
-**** *book_ *id_I07 *act_I *date_1693
-
--*who_anselme
-Ah !
-Monsieur Josselin, mon pauvre Monsieur Josselin
-
--*who_josselin
-Qu'y a-t-il de nouveau Monsieur ?
-
--*who_anselme
-Je suis dans le plus grand des embarras.
-Mon...
-Qui est cet homme-là ?
-
--*who_josselin
-C'est un honnête paysan qui est en quête de sa femme ; elle s'est échappée de chez lui avec une jeune fille, et pour les retrouver il est avec une paire de Messieurs qu'il va chercher pour faire l'essai de votre Coupe.
-
--*who_thibaud
-Je vais vous amener de la pratique, laissez faire.
-
-**** *book_ *id_I08 *act_I *date_1693
-
--*who_anselme
-Ah, vraiment de la Coupe !
-J'ai bien d'autres tintouins dans la tête.
-
--*who_josselin
-Qu'avez-vous donc ?
-
--*who_anselme
-J'ai vu...
-Ouf !
-
--*who_bertrand
-Aurait-il vu ces masques de Femmes ?
-Écoutons.
-
--*who_anselme
-Je viens de voir...
-Que fais-tu là ?
-
--*who_bertrand
-Rien...
-
--*who_anselme
 Va à ta besogne, et ne reviens point qu'on ne t'appelle.
 
-**** *book_ *id_I09 *act_I *date_1693
-
--*who_anselme
 Je viens de voir mon fils ; le petit pendard me fait des questions qui m'ont pensé mettre l'esprit sens dessus dessous, il lui prend des curiosités toutes contraires au chemin que je veux qu'il tienne.
 
--*who_josselin
-Ma foi, Monsieur, si vous voulez que je vous parle franchement, il vous sera bien difficile de l'élever toujours dans l'ignorance où vous voulez qu'il soit.
-Je crains bien que toutes ces précautions ne deviennent inutiles, et que cette démangeaison qui vous tient de lui vouloir cacher qu'il y a des Femmes au monde, ne porte davantage son petit génie aux connaissances du beau sexe.
-
--*who_anselme
 Et qui l'instruira qu'il y a des Femmes ?
 
--*who_josselin
-Tout, Monsieur, le bon sens premièrement.
-Oui, ce certain bon sens qui vient avec l'âge ; là cet âge qui nous retire insensiblement des bras de l'enfance, pour nous conduire à la puberté.
-L'esprit se porte à la conception de bien des choses ; la raison vient, et parmi plusieurs curiosités nous fait apercevoir que l'homme ne vient point sur la terre comme un champignon, que c'est une petite machine où il y a bien des ressorts, ces ressorts viennent à se mouvoir par le moyen du coeur, ce mouvement du coeur échauffe le cerveau.
-Cette cervelle échauffée se forme des idées qu'elle ne connaît pas bien d'abord, l'amour se met quelquefois de la partie.
-Il explique toutes ces idées, il prend le soin de les rendre intelligibles ; et voilà comme la connaissance vient aux jeunes gens ordinairement malgré qu'on en ait.
+Tous ces raisonnements sont les plus beaux du monde ; mais je m'en moque, et j'empêcherai bien que mon fils... Le voici ; je ne suis pas en état de lui parler, mon désordre paraîtrait à la vue, fortifiez-le dans mes pensées, cependant que je vais me remettre.
 
--*who_anselme
-Tous ces raisonnements sont les plus beaux du monde ; mais je m'en moque, et j'empêcherai bien que mon fils...
-Le voici ; je ne suis pas en état de lui parler, mon désordre paraîtrait à la vue, fortifiez-le dans mes pensées, cependant que je vais me remettre.
-
-**** *book_ *id_I10 *act_I *date_1693
-
--*who_lelie
-D'où vient que mon Père me fuit ?
-
--*who_josselin
-Il a des affaires en tête.
-Lui voulez-vous quelque chose ?
-
--*who_lelie
-Je ne sais.
-
--*who_josselin
-Vous ne savez ?
-
--*who_lelie
-Non, je ne sais ce que je lui veux, je ne sais ce que je me veux à moi-même, je sens que je m'ennuie et je ne sais pourquoi je m'ennuie.
-
--*who_josselin
-C'est que vous êtes un petit indolent, qui n'avez pas l'esprit de jouir des beautés qui se présentent à vous.
-
--*who_lelie
-Et quelles sont ses beautés ?
-
--*who_josselin
-Le Ciel, la terre, le feu, l'eau, l'air, le jour, la nuit, le Soleil, la Lune, les Étoiles, les arbres, les prés, les fleurs, les fruits.
-
--*who_lelie
-Oui, tout cela est fort divertissant.
-Ah !
-Mon cher Monsieur Josselin, je voudrais bien...
-
--*who_josselin
-Quoi ?
-
--*who_lelie
-Vous ne le voudrez pas, vous.
-
--*who_josselin
-Qu'est-ce encore ?
-
--*who_lelie
-Promettez-moi que vous le voudrez.
-
--*who_josselin
-Selon.
-
--*who_lelie
-Je voudrais bien aller me promener autre part qu'ici ?
-
--*who_josselin
-Plaît-il ?
-
--*who_lelie
-Ah !
-Je savais bien que vous ne le voudriez pas.
-
--*who_josselin
-Avez-vous oublié que votre Père vous l'a défendu.
-
--*who_lelie
-Et c'est parce qu'il me l'a défendu que je meurs d'envie de le faire.
-Car enfin je m'imagine qu'il y a dans le monde des choses qu'il ne veut pas que je sache, et ce sont ces choses-là que je m'imagine, que je brûle de savoir.
-
--*who_josselin
-Le petit fripon.
-
--*who_lelie
-Oh ça, Monsieur Josselin, en bonne vérité, dites-moi ce que c'est que ces choses-là ?
-
--*who_josselin
-Qu'est-ce à dire ces choses-là ?
-
--*who_lelie
-Oui.
-Qu'est-ce qu'il y a dans monde qui n'est point ici.
-
--*who_josselin
-Rien.
-
--*who_lelie
-Vous mentez, Monsieur Josselin.
-
--*who_josselin
-Point du tout.
-
--*who_lelie
-On me cache bien des choses Monsieur Josselin ; vous lisez dans les Livres, et mon Père y sait lire aussi, pourquoi ne m'a-t-on pas appris à y lire ?
-
--*who_josselin
-On vous l'apprendra, donnez-vous patience.
-
--*who_lelie
-Je ne puis plus vivre comme cela, et c'est une honte d'être si ignorant que je le suis à mon âge.
-
--*who_josselin
-Voilà un petit drôle qu'il n'y aura plus moyen de retenir.
-
--*who_lelie
-Et si mon Père venait à mourir, Monsieur Josselin : car je sais bien qu'on meurt, que deviendrai-je ?
-
--*who_josselin
-Vous deviendrez mon Fils, et je serai votre Père pour lors.
-
--*who_lelie
-Vous vous moquez de moi, Monsieur Josselin, ce n'est pas comme cela que cela se fait, et ce serait à mon tour d'être père de quelqu'un.
-
--*who_josselin
-Et bien vous seriez le mien si vous vouliez, et je serais votre Fils, moi.
-
--*who_lelie
-Oh, ce n'est pas comme cela que cela se fait, assurément vous ne voulez pas me le dire, mais je le saurai vous avez beau faire.
-
--*who_josselin
-Oh, vous saurez que vous êtes un petit sot, et que vos discoures me fatiguent.
-
--*who_lelie
-Monsieur Josselin, si vous ne me menez promener, j'irai me promener tout seul, je vous en avertis.
-
--*who_josselin
-Oui, et je vais moi tout de ce pas avertir votre Père de» vos extravagances, et vous verrez après où je vous mènerai promener.
-Oh, ho, voyez-vous le petit impudent avec ses promenades.
-
--*who_lelie
-Il a beau dire, je sortirai d'ici, quand je devrais mourir sur les pas de la porte.
-
-**** *book_ *id_I11 *act_I *date_1693
-
--*who_perrette
-Madame, le voilà tout seul.
-
--*who_lucinde
-Approchons-nous pour voir ce qu'il dira en nous voyant.
-
--*who_lelie
-Mon Père n'est pourtant pas un bon Père, de ne me pas montrer tout ce qu'il sait, et c'est ce qui fait que je n'ai pas de peine à me résoudre à le quitter
-
--*who_perrette
-Il ne faut pas lui dire d'abord qui nous sommes : mais je gage bien qu'il le devinera.
-
--*who_lelie
-Je m'imagine que tout ce qu'on ne veut pas que je sache, est cent fois plus beau que ce que je sais.
-Je pense je ne sais combien de choses toutes plus jolies les unes que les autres, et je meurs d'impatience de savoir si je pense juste.
-Mais que vois-je ?
-Voilà deux jeunes garçons joliment habillés, je n'en n'ai point encore vu comme ceux-là, je voudrais bien les aborder ; mais je suis tout hors de moi-même, et je n'ai pas presque la force de parler, ils se baissent et puis se haussent, qu'est-ce que cela signifie ?
-
--*who_lucinde
-Nous hésitons à vous aborder.
-
--*who_lelie
-Ils parlent comme moi.
-Que de questions je vais leur faire !
-
--*who_lucinde
-Vous paraissez étonné de nous voir.
-
--*who_lelie
-Oui, je n'ai jamais rien vu de si beau que vous, ni qui m'ait tant fait plaisir à voir.
-
--*who_perrette
-Oh, mort de ma vie, que la nature est une belle chose !
-
--*who_lelie
-D'où venez-vous ?
-Qui vous a conduits ici, est-ce mon Père ou moi que vous cherchez ?
-De grâce ne parlez point à mon Père, et demeurez avec moi.
-
--*who_lucinde
-À ce que je puis juger vous n'êtes point fâché de nous voir.
-
--*who_lelie
-Je n'ai jamais eu tant de joie.
-
--*who_perrette
-Cela est admirable !
-Et que croyez-vous de nous, s'il vous plaît ?
-
--*who_lelie
-Les deux plus belles créatures du monde ; je n'ai jamais rien vu, mais je ne connais rien de plus parfait que vous, et je n'ai plus de curiosité pour tout le reste.
-Demeurez toujours avec moi, je vous en conjure, je demeurerai toujours ici, et mon Père et Monsieur Josselin en seront ravis.
-
--*who_lucinde
-Vous en jugeriez autrement si vous saviez ce que nous sommes.
-
--*who_lelie
-Et n'êtes-vous pas des hommes comme nous ?
-
--*who_perrette
-Oh, vraiment non, il y a bien à dire.
-
--*who_lelie
-Hors les habits et la beauté je n'y vois point de différence.
-
--*who_perrette
-Oui da, c'est bien tout un, mais ce n'est pas de même.
-
--*who_lelie
-Il est vrai que je sens en vous voyant ce que je n'ai jamais senti.
-Ah !
-Si vous n'êtes pas des hommes, dites-moi ce que vous êtes.
-Je vous en conjure.
-
--*who_lucinde
-Votre coeur ne peut-il pas vous l'expliquer tout à fait ?
-
--*who_lelie
-Non, mais ce n'est pas la faute de mon coeur, c'est la faute de mon esprit.
-
--*who_perrette
-Eh bien, tenez mon pauvre enfant, bien loin d'être des hommes, nous en sommes tout le contraire.
-
--*who_lelie
-Je ne vous entends point.
-
--*who_perrette
-Vous nous entendrez avec le temps, mais qui aimez-vous mieux de nous deux, là, parlez franchement, n'est-ce pas moi ?
-
--*who_lelie
-Je vous aime beaucoup ; mais je l'aime infiniment davantage.
-
--*who_lucinde
-Tout de bon.
-
--*who_lelie
-Tout de bon.
-
--*who_perrette
-C'est à cause que vous êtes la plus brave.
-
--*who_lelie
-Non, non, je ne regarde point aux habits, je ne saurais vous dire ce qui fait que je l'aime plus que vous.
-
--*who_lucinde
-Vous m'aimez donc ?
-
--*who_lelie
-Plus que toutes les choses du monde.
-
--*who_perrette
-Mais que pensez-vous en l'aimant ?
-
--*who_lelie
-Mille choses que je n'ai jamais pensées.
-
--*who_lucinde
-N'en avez-vous point à me dire ?
-
--*who_perrette
-Et que seriez-vous prêt à faire pour lui prouver que vous l'aimez ?
-
--*who_lelie
-Tout.
-
--*who_lucinde
-Voudriez-vous quitter ces lieux pour me suivre ?
-
--*who_lelie
-De tout mon coeur, pourvu que je vous suive toujours.
-
-**** *book_ *id_I12 *act_I *date_1693
-
--*who_lelie
-Ah !
-Mon cher Monsieur Josselin, vous allez être ravi.
-
--*who_lucinde
-Ah, Ciel !
-
--*who_josselin
-Que vois-je ?
-Tout est perdu.
-Ah !
-Vraiment voici bien pis que la promenade.
-
--*who_lelie
-Je n'en n'avais jamais vu, et je le savais bien, moi, qu'il y avait dans le monde quelque chose qu'on ne me disait pas.
-
--*who_josselin
-Paix.
-
--*who_perrette
-Qu'il a la mine rébarbative.
-
--*who_josselin
-Et d'où diantre ces deux carognes sont-elles venues ?
-
--*who_lelie
-Monsieur Josselin.
-
--*who_josselin
-Taisez-vous.
-
--*who_perrette
-Comme il nous regarde.
-
--*who_lucinde
-Le vilain homme que voilà.
-
--*who_josselin
-Qui vous a conduites ici impudentes que vous êtes ?
-Qu'y venez-vous faire ?
-
--*who_perrette
-C'est pis qu'un loup garou.
-
--*who_lelie
-Monsieur Josselin ne les effarouchez pas.
-
--*who_josselin
-Comment petit fripon, vous osez...
-Qu'elles sont belles !
-
--*who_lucinde
-Si c'est un crime pour nous de nous trouver ici, il n'est pas difficile de le réparer, et notre dessein n'est pas d'y faire un long séjour.
-
--*who_josselin
-Le beau visage qu'a celle-là.
-
--*who_perrette
-Je n'y serions pas venues si j'ussions cru qu'on nous eût si mal reçues.
-
--*who_josselin
-Le drôle de petit air qu'à celle-ci.
-
--*who_lelie
-N'est-il pas vrai, Monsieur Josselin, qu'il n'y a rien au monde de plus beau ?
-
--*who_josselin
-Non, cela n'est pas vrai.
-Vous ne savez ce que vous dites.
-Les deux jolis bouchons que voilà.
-
--*who_perrette
-Il est enragé, comme il roule les yeux.
-
--*who_lelie
-Monsieur Josselin menons-les à mon père.
-
--*who_josselin
-Comment petit effronté, à votre Père ; tournez-moi les talons, et ne regardez pas derrière vous.
-
--*who_lelie
-Je veux demeurer ici, moi.
-
--*who_josselin
-Tournez-moi les talons, vous dis-je, et vous détalez au plus vite.
-
--*who_lelie
-Je ne veux point qu'ils s'en aillent.
-
--*who_josselin
-Et je le veux moi.
-Allez vite... allez vous cacher dans ma chambre au bout de cette allée, voilà la clef.
-
--*who_perrette
-Comme il se radoucit, ferons-je bien d'y aller ?
-
--*who_josselin
-Si vous ne dépêchez...
-Entrez dans le petit cabinet à main gauche, allez vite, allez.
-
--*who_lelie
-Demeurez ici, je vous en conjure.
-
--*who_josselin
-Je vous l'ordonne, partez promptement.
-
--*who_lelie
-Pour la dernière fois Monsieur Josselin...
-Attendez-moi, je vous prie, je cours trouver mon Père, j'obtiendrai de lui que je vous aie ici, et Monsieur Josselin se repentira de vous avoir grondé.
-Je reviendrai dans un moment.
-
-**** *book_ *id_I13 *act_I *date_1693
-
--*who_josselin
-Ah !
-Malheureuse petites femelles, savez-vous bien où vous êtes, et le malheur qui vous talonne ?
-
--*who_lucinde
-Nous savons tout ce que vous pouvez nous dire ; mais nous espérons tout de votre bonté.
-
--*who_josselin
-Que vous êtes heureuses d'être belles !
-Sans cela...
-Écoutez, n'allez pas vous entêter de ce petit vilain-là, ce serait gâter toutes vos affaires.
-
--*who_perrette
-Oh, je ne boutons rian dans la tête que de la bonne sorte
-
--*who_josselin
-Son Père veut enterrer toute sa famille avec lui, et ne consentira jamais...
-
--*who_lucinde
-Mettez-nous en lieu où nous puissions vous apprendre notre infortune, et savoir de vous le conseil que nous devons suivre.
-
--*who_josselin
-Ma chambre est l'endroit où vous puissiez être le mieux cachées dans ce Château, et j'en veux bien courir les risques pour l'amour de vous, à condition que pour l'amour de moi...
-
--*who_perrette
-Allez, mon bon Monsieur, vous voyez deux pauvres orphelines, qui ne sont nullement entichées du vice d'ingratitude.
-
--*who_josselin
-Venez suivez-moi.
-
-**** *book_ *id_I14 *act_I *date_1693
-
--*who_bertrand
-Oh, palsangué je vous prends sur le fait, je n'en suis plus que de moitié...
-
--*who_josselin
-Voilà un maroufle qui vient bien mal à propos.
-
--*who_bertrand
-Testiguenne, puisque vous voulez les fourrer dans votre chambre, je ne serai pas pendu tout seul pour les avoir boutées dans ma cahute, vous le serez avec moi, je ne m'en soucie guère.
-
--*who_josselin
-Veux-tu te taire.
-
--*who_bertrand
-Morgué, je ne me tairai point à moins que je ne retire mon épingle du jeu.
-
--*who_josselin
-Qu'entends-tu par là ?
-
--*who_bertrand
-J'entends que vous soyez pendu tout seul.
-
--*who_josselin
-Que veut dire cet animal-là ?
-
--*who_bertrand
-Je veux dire qu'à moins que vous ne disiez que c'est vous qui les avez cachées, je vais tout apprendre à notre Maître.
-
--*who_josselin
-Et bien, oui, je dirai que c'est moi.
-
--*who_perrette
-Mais morgué point de tricherie au moins.
-
--*who_josselin
-J'entends quelqu'un.
-
--*who_bertrand
-Rentrez dans ma logette, et ne vous montrez plus sur les yeux de votre tête.
-
--*who_josselin
-Chut, ou je te rendrai complice.
-
--*who_bertrand
-Motus, ou je découvrirai le pot aux roses.
-
-**** *book_ *id_I15 *act_I *date_1693
-
--*who_lelie
-Oui, mon Père, il est impossible que vous me refusiez, quand vous les aurez vus, venez seulement, où sont-ils ?
-Qu'en avez-vous fait, Monsieur Josselin ?
-
--*who_josselin
-Que veut-t-il dire ?
-
--*who_anselme
 Je ne sais ce qu'il me vient conter.
 
--*who_lelie
-Que sont-ils devenus Bertrand ?
+Quoi, qu'y a-t-il ? Que veux-tu qu'on te rende ? Te voilà bien échauffé.
 
--*who_bertrand
-À qui en veut-il donc ?
-
--*who_lelie
-Répondez-moi Monsieur Josselin, ou malgré la présence de mon Père...
-
--*who_josselin
-Doucement, petit drôle.
-
--*who_lelie
-Éclaircis-moi de ce que je veux savoir, coquin.
-
--*who_bertrand
-Haye, ahy, vous m'étranglez.
-Est-il devenu fou ?
-
--*who_lelie
-Ah, mon Père !
-Commandez qu'on me les fasse retrouver, ou j'en mourrai de désespoir.
-
--*who_anselme
-Quoi, qu'y a-t-il ?
-Que veux-tu qu'on te rende ?
-Te voilà bien échauffé.
-
--*who_lelie
-Cherchons partout.
-Si je ne les retrouve, je sais bien à qui je m'en prendrai.
-
--*who_bertrand
-Et attendez, attendez.
-Ce ne sont pas des moigniaux que vous charchez.
-
--*who_lelie
-Non traître, ce ne sont pas des moineaux.
-
--*who_bertrand
-Hé bien morgué, quoi que ce puisse être, allons les charcher nous deux, m'est avis que j'ai entendu queuque chose grouiller de ce côté-là.
-
--*who_lelie
-Courons-y.
-Mon pauvre Bertrand, ne me quitte point, Monsieur Josselin malheur à vous si je ne les retrouve.
-
-**** *book_ *id_I16 *act_I *date_1693
-
--*who_josselin
-Des menaces !
-Vous voyez comme il perd le respect.
-
--*who_anselme
 Qu'on l'arrête.
 
--*who_josselin
-Non, non ; il vaut mieux qu'en courant il aille dissiper ces vapeurs qui lui troublent l'imagination.
+Mais je crois qu'en effet il est devenu fou. Quel galimatias m'a-t-il fait ?
 
--*who_anselme
-Mais je crois qu'en effet il est devenu fou.
-Quel galimatias m'a-t-il fait ?
+Des idées de femmes ! Vous vous moquez, Monsieur Josselin ; peut-on avoir des idées de ce qu'on n'a jamais vu ?
 
--*who_josselin
-C'est justement une suite de ce que je disais tantôt ; ce sont des idées qui lui passent par la cervelle, et je ne jurerais pas trop que ce ne fussent des idées de femmes.
-
--*who_anselme
-Des idées de femmes !
-Vous vous moquez, Monsieur Josselin ; peut-on avoir des idées de ce qu'on n'a jamais vu ?
-
--*who_josselin
-Belles merveilles.
-Et ne vous est-il jamais arrivé de faire des songes ?
-
--*who_anselme
 Oui.
 
--*who_josselin
-Et de voir en dormant des choses que vous n'aviez jamais vues, et que vous ne vous seriez jamais imaginées si vous n'aviez dormi ?
-
--*who_anselme
 D'accord ; mais ce petit garçonlà ne dort pas.
 
--*who_josselin
-Non, vraiment ; au contraire, je ne l'ai jamais vu éveillé.
-
--*who_anselme
 Hé bien ?
 
--*who_josselin
-Hé bien, il rêve tout éveillé, et c'est justement ce qui fait qu'il fait des contes à dormir debout.
-
--*who_anselme
 Mais pourquoi lui vient-il des idées de femmes plutôt que d'autres ?
 
--*who_josselin
-C'est que ces animaux-là se fourrent partout malgré qu'on en ait.
-
--*who_anselme
 Cela serait bien horrible que toutes mes précautions fussent inutiles.
 
--*who_josselin
-Elles le seront à coup sûr, et dès à présent je vous en donne ma parole.
-
--*who_anselme
 Il n'importe ; et si je ne puis lui cacher absolument qu'il y ait des femmes, il ne les connaîtra du moins que pour les haïr.
 
--*who_josselin
-Il ne les haïra point.
+Il les détestera en apprenant ce qu'elles savent faire. Mais qu'est-ce ci ?
 
--*who_anselme
-Il les détestera en apprenant ce qu'elles savent faire.
-Mais qu'est-ce ci ?
-
--*who_josselin
-Et c'est ce bon Paysan qui vous amène ces deux personnes pour faire essai de votre coupe.
-
-**** *book_ *id_I17 *act_I *date_1693
-
--*who_perrette
-Le petit homme n'y est pas vous dis-je.
-
--*who_lucinde
-Il n'importe ; voyons d'ici ce qui se passe, puisque nous pouvons voir sans être vues.
-
--*who_griffon
-Oui cadédis, je bous le dis et bous le soutiens, vous êtes un von sot veau frère.
-
--*who_thibaud
-Ah !
-Ah !
-Monsieur, au mari de Madame votre soeur ?
-
--*who_perrette
-Madame, c'est Thibaut.
-
--*who_tobie
-Sot !
-Et qu'est-ce ; queu terminaison est chela ?
-
--*who_lucinde
-Mon Père et mon Oncle sont ici.
-
--*who_tobie
-Nous sommes gens de bien de notre race, je serais marri qu'elle fût entichée des reproches qu'on fait à la vôtre.
-
--*who_thibaud
-Eh, eh, Monsieur ; le Frère de Madame votre femme ?
-Vous n'y songez pas.
-
--*who_griffon
-Tu fais vien de m'appartenir.
-
--*who_tobie
-C'est le plus vilain endroit de ma vie.
-
--*who_thibaud
-Messieurs, Messieurs, venez m'aider, s'il vous plaît, à mettre le holà entre deux beaux-frères qui se vont couper la gorge.
-
--*who_anselme
 Qu'est-ce que c'est donc ; qu'avez-vous, Messieurs, qui vous oblige à en venir aux invectives ?
 
--*who_griffon
-Eh, Messieurs, serbiteur ; je bous fais Juges de ceci.
-Boici le fait.
-J'ai fait l'honneur à ce Monsieur de donner mon fils, qui est novle Monsieur comme moi, mordi, en mariage à sa fille, qui n'est qu'une simple Roturière et parce que la beille des noces, la sotte s'éclipse de la case paternelle, il a l'insolence de dire que c'est ma faute, et qu'elle a eu peur d'entrer dans mon alliance, à cause que je suis sébère dans ma famille, et que je n'en beux pas souffrir qu'aucun guodeluriau approche mon domaine de la van-lieue.
-
--*who_tobie
-Qu'est-ce ?
-Je donne ma fille qui aura dix mille livres de rentes ; au fils de su Monsieur qui est gueux comme un rat, et parce qu'elle s'en est enfuie de chez moi, pour éviter ce mariage ; il me dira en me traitant comme un je ne sais qui, que parce que je suis trop bon dans mon domestique, à cause que ma femme est toujours autour de moi à m'étouffer de caresses, et que je souffre qu'elle m'appelle son petit papa, son petit fanfan, son petit camuset, ce qui fait que ma maison est ouverte à tous les honnêtes gens.
-
--*who_josselin
-Voilà un différend qu'il est assez facile d'accommoder.
-Ces Messieurs se disent les choses de si bonne foi, qu'on ne peut s'empêcher de les croire ; mais pour savoir lequel des deux s'est le plus fait aimer de sa femme par ses manières, votre Coupe enchantée sera d'un secours merveilleux, et je suis sûr qu'elle les mettra d'accord, je vais l'apporter.
-
--*who_anselme
 Allez, Monsieur Josselin, cela finira la dispute.
 
--*who_griffon
-Cet homme nous a fait récit de cette coupe, et je serai rabi de connaître par elle lequel est le fat de nous deux, je suis sûr que ce n'est pas moi.
-
--*who_tobie
-Nous en allons voir tout à l'heure un bien penaud ; je sais bien qui ce ne sera pas.
-
--*who_anselme
 Voici la Coupe.
 
--*who_tobie
-Donnez, donnez ; je serais bien fâché de n'en pas faire essai le premier, pour vous montrer combien je suis sûr de mon fait.
-
--*who_josselin
-Ah, ah.
-
--*who_tobie
-Que vois-je ?
-Le vin est répandu je pense.
-
--*who_josselin
-Oh, par ma foi, le petit papa, le petit fanfan, le petit camuset en tient.
-
--*who_griffon
-Hé, qui de nous dus est le fat ?
-Hem cadédis mon veau frère, bous me ferez raison de la conduite de ma soeur.
-
--*who_tobie
-Voilà une méchante créature, je ne l'aurais jamais cru.
-
--*who_josselin
-Quand elle viendra vous étouffer de caresses, je vous conseille de l'étrangler par bonne amitié.
-
--*who_tobie
-C'est chez vous qu'elle a sucé ce mauvais lait-là.
-
--*who_griffon
-Oui, oui, cadédis, l'absinthe n'est pas plus amère que le lait que je leur fais sucer ; bersez, bersez, veau Ganymède, bous allez boir veau frère.
-À la santé de la compagnie.
-
--*who_josselin
-Ahy, ahy, ahy.
-
--*who_griffon
-Bouais, c'est que je ne la tiens pas droite.
-
--*who_josselin
-Prenez donc garde.
-
--*who_anselme
 Voyez, voyez.
 
--*who_griffon
-La main me tremble.
-
--*who_josselin
-Ah !
-L'on a approché de votre domaine plus près que de la ban-lieue.
-
--*who_griffon
-Ma foi, je n'y comprends plus rien.
-Monsieur est von, on le trahit ; je suis sébère et l'on me trompe ; sandis comment faut-il donc faire avec ces diantres d'animaux-là ?
-Allons, on s'en mordra les doigts.
-Sans adieu.
-
-**** *book_ *id_I18 *act_I *date_1693
-
--*who_anselme
 Jusques au revoir.
 
--*who_josselin
-Vous plaît-il boire encore un coup ?
-À ça à vous le dé, pays.
-
--*who_thibaud
-À moi ?
-
--*who_lucinde
-Perrette ton mari va boire.
-
--*who_perrette
-À quoi s'amuse-t-il ce n'est pas que je craigne rien, mais le coeur me tape.
-
--*who_josselin
-À cause que vous êtes un bon frère, en voilà rasade, buvez.
-
--*who_thibaud
-Palsangué je n'ai pas soif.
-
--*who_josselin
-Il ne s'agit pas d'avoir soif, et c'est seulement par curiosité, et pour savoir si vous êtes aimé de votre femme, buvez.
-
--*who_thibaud
-Non, morgué je ne boirai point, et si le vin allait répandre par hasard, testigué voyez-vous.
-Je suis maladroit de ma nature, quand je saurais ça en serais plus gras, en aurais-je la jambe plus droite, en dormirais-je plus que des deux yeux, en mangerais-je autrement que par la bouche, non pargué ; c'est pourquoi frère je suis votre sarviteur, je ne boirai point.
-
--*who_josselin
-Voilà un rustre d'assez bon sens.
-
--*who_anselme
 C'est ce qui me sembler, et je suis quasi fâché de n'avoir pas été de son humeur.
 
--*who_tobie
-Oh, pardi mon Fermier vous avez plus d'esprit que votre Maître.
-
--*who_thibaud
-Jarni, je ne sais pas si je fais bien, mais je sais bien que je serais fâché de faire autrement ; j'aime Parrette, elle est ma femme, quand elle serait la femme d'un autre elle ne me plairait pas davantage, je ne sais si je lui plais finfirmement, elle en fait le semblant du moins, je ne rentre de fois chez moi, que je ne la retrouve tintelle que je l'ai laissée, il n'y a pas un iota à dire.
-Elle aime à batifoler, je suis d'himeur batifolante, je batifolons sans cesse, et si je m'allais mettre dans la sarvelle tous vos engeins greignaux, adieu le batifolage, non palsanguoi, je n'en ferai rien.
-
--*who_josselin
-Voilà, comme je veux être et si je me marie...
-Mais je ne me marierai pas.
-
--*who_perrette
-Madame je suis si niaise que je ne saurais plus m'en tenir, il faut que j'aille embrasser notre homme.
-
--*who_lucinde
-Attends, Perrette, que vas-tu faire ?
-
--*who_josselin
-Voilà la perle des Maris, ami, touche-là.
-
--*who_thibaud
-Votre valet.
-
--*who_tobie
-Voilà l'exemple des honnêtes gens.
-Embrasse-moi.
-
--*who_thibaud
-Votre serviteur.
-
--*who_anselme
 Voilà le miroir de la vie paisible
 
--*who_thibaud
-Votre très-humble.
+Que vois-je ? Des Femmes ?
 
--*who_perrette
-Voilà un vrai homme à femme.
-Ah, que je te baiserai tantôt.
-
--*who_thibaud
-Hé !
-Testigué, c'est Perrette.
-
--*who_anselme
-Que vois-je ?
-Des Femmes ?
-
--*who_thibaud
-Je n'ai morgué pas voulu boire dans la Coupe, elle eut peut-être dit quelque chose qui m'aurait chagriné.
-
--*who_perrette
-Elle n'eut rien dit.
-Mais tu as bien fait, je t'en aime davantage.
-
--*who_tobie
-Perrette, qu'as-tu fait de ma Fille ?
-
--*who_lucinde
-La voilà, mon Père, qui se lette à vos genoux, pour vous demander pardon.
-
--*who_tobie
-Va, ma Fille, je te pardonne.
-
--*who_anselme
 Par quels moyens ces Femmes sont-elles entrées chez moi ?
 
--*who_josselin
-Je ne sais.
-Ce sont peut-être elles, qui ont fait naître à Monsieur votre Fils les idées...
+Où suis-je ? Que vois-je ? Qu'entends-je ?
 
-**** *book_ *id_I19 *act_I *date_1693
+C'en est fait. La Destinée et la Nature sont plus fortes que mes raisonnements, votre seule présence lui en a plus appris en un moment que je ne lui en avais caché pendant seize années.
 
--*who_bertrand
-Ce n'est pas par-là, vous dis-je ?
-
--*who_lelie
-Non, non, laisse-moi ; mais que vois-je ?
-Ah !
-C'est ce que je cherche.
-Oui, mon Père les voilà, souffrez que je les amène à ma chambre, je vous promets de n'en sortir jamais.
-
--*who_anselme
-Où suis-je ?
-Que vois-je ?
-Qu'entends-je ?
-
--*who_lelie
-Ah !
-Mon Père, n'allez pas gronder, de peur de les effaroucher encore.
-
--*who_anselme
-C'en est fait.
-La Destinée et la Nature sont plus fortes que mes raisonnements, votre seule présence lui en a plus appris en un moment que je ne lui en avais caché pendant seize années.
-
--*who_josselin
-Cela est admirable.
-
--*who_anselme
 Je commence moi-même à me rendre à la raison, et je vais changer de manière.
 
--*who_tobie
-Qu'est-ce que tout ceci ?
-
--*who_anselme
 Vous le saurez, Monsieur ; en attendant qu'on vous l'apprenne, je vous dirai seulement que mon fils a beaucoup de noblesse, et plus de bien ; et qu'il ne tient qu'à vous d'unir sa destinée à celle de Mademoiselle votre fille.
 
--*who_tobie
-Volontiers.
-J'en serai ravi, et cela fera enrager ma femme.
-
--*who_lelie
-Je ne comprends rien à tous ces discours.
-Que veulent-ils dire, Monsieur Josselin ?
-
--*who_josselin
-Cette belle vous l'apprendra.
-
--*who_anselme
 Oui, mon Fils, je vous la donne en mariage.
 
--*who_lelie
-En mariage ?
-Cela signifie-t-il qu'elle demeurera toujours avec moi, mon Père.
-
--*who_anselme
 Oui, mon Fils.
 
--*who_lelie
-Qu'elle joie !
-Ah, Mon Père, que je vous ai d'obligation.
+Qu'elle ne vous inquiète point. Je la briserai en votre présence.
 
--*who_josselin
+
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
+
+D'où vient que mon Père me fuit ?
+
+Je ne sais.
+
+Non, je ne sais ce que je lui veux, je ne sais ce que je me veux à moi-même, je sens que je m'ennuie et je ne sais pourquoi je m'ennuie.
+
+Et quelles sont ses beautés ?
+
+Oui, tout cela est fort divertissant. Ah ! Mon cher Monsieur Josselin, je voudrais bien...
+
+Vous ne le voudrez pas, vous.
+
+Promettez-moi que vous le voudrez.
+
+Je voudrais bien aller me promener autre part qu'ici ?
+
+Ah ! Je savais bien que vous ne le voudriez pas.
+
+Et c'est parce qu'il me l'a défendu que je meurs d'envie de le faire. Car enfin je m'imagine qu'il y a dans le monde des choses qu'il ne veut pas que je sache, et ce sont ces choses-là que je m'imagine, que je brûle de savoir.
+
+Oh ça, Monsieur Josselin, en bonne vérité, dites-moi ce que c'est que ces choses-là ?
+
+Oui. Qu'est-ce qu'il y a dans monde qui n'est point ici.
+
+Vous mentez, Monsieur Josselin.
+
+On me cache bien des choses Monsieur Josselin ; vous lisez dans les Livres, et mon Père y sait lire aussi, pourquoi ne m'a-t-on pas appris à y lire ?
+
+Je ne puis plus vivre comme cela, et c'est une honte d'être si ignorant que je le suis à mon âge.
+
+Et si mon Père venait à mourir, Monsieur Josselin : car je sais bien qu'on meurt, que deviendrai-je ?
+
+Vous vous moquez de moi, Monsieur Josselin, ce n'est pas comme cela que cela se fait, et ce serait à mon tour d'être père de quelqu'un.
+
+Oh, ce n'est pas comme cela que cela se fait, assurément vous ne voulez pas me le dire, mais je le saurai vous avez beau faire.
+
+Monsieur Josselin, si vous ne me menez promener, j'irai me promener tout seul, je vous en avertis.
+
+Il a beau dire, je sortirai d'ici, quand je devrais mourir sur les pas de la porte.
+
+Mon Père n'est pourtant pas un bon Père, de ne me pas montrer tout ce qu'il sait, et c'est ce qui fait que je n'ai pas de peine à me résoudre à le quitter
+
+Je m'imagine que tout ce qu'on ne veut pas que je sache, est cent fois plus beau que ce que je sais. Je pense je ne sais combien de choses toutes plus jolies les unes que les autres, et je meurs d'impatience de savoir si je pense juste. Mais que vois-je ? Voilà deux jeunes garçons joliment habillés, je n'en n'ai point encore vu comme ceux-là, je voudrais bien les aborder ; mais je suis tout hors de moi-même, et je n'ai pas presque la force de parler, ils se baissent et puis se haussent, qu'est-ce que cela signifie ?
+
+Ils parlent comme moi. Que de questions je vais leur faire !
+
+Oui, je n'ai jamais rien vu de si beau que vous, ni qui m'ait tant fait plaisir à voir.
+
+D'où venez-vous ? Qui vous a conduits ici, est-ce mon Père ou moi que vous cherchez ? De grâce ne parlez point à mon Père, et demeurez avec moi.
+
+Je n'ai jamais eu tant de joie.
+
+Les deux plus belles créatures du monde ; je n'ai jamais rien vu, mais je ne connais rien de plus parfait que vous, et je n'ai plus de curiosité pour tout le reste. Demeurez toujours avec moi, je vous en conjure, je demeurerai toujours ici, et mon Père et Monsieur Josselin en seront ravis.
+
+Et n'êtes-vous pas des hommes comme nous ?
+
+Hors les habits et la beauté je n'y vois point de différence.
+
+Il est vrai que je sens en vous voyant ce que je n'ai jamais senti. Ah ! Si vous n'êtes pas des hommes, dites-moi ce que vous êtes. Je vous en conjure.
+
+Non, mais ce n'est pas la faute de mon coeur, c'est la faute de mon esprit.
+
+Je ne vous entends point.
+
+Je vous aime beaucoup ; mais je l'aime infiniment davantage.
+
+Tout de bon.
+
+Non, non, je ne regarde point aux habits, je ne saurais vous dire ce qui fait que je l'aime plus que vous.
+
+Plus que toutes les choses du monde.
+
+Mille choses que je n'ai jamais pensées.
+
+Tout.
+
+De tout mon coeur, pourvu que je vous suive toujours.
+
+Ah ! Mon cher Monsieur Josselin, vous allez être ravi.
+
+Je n'en n'avais jamais vu, et je le savais bien, moi, qu'il y avait dans le monde quelque chose qu'on ne me disait pas.
+
+Monsieur Josselin.
+
+Monsieur Josselin ne les effarouchez pas.
+
+N'est-il pas vrai, Monsieur Josselin, qu'il n'y a rien au monde de plus beau ?
+
+Monsieur Josselin menons-les à mon père.
+
+Je veux demeurer ici, moi.
+
+Je ne veux point qu'ils s'en aillent.
+
+Demeurez ici, je vous en conjure.
+
+Pour la dernière fois Monsieur Josselin... Attendez-moi, je vous prie, je cours trouver mon Père, j'obtiendrai de lui que je vous aie ici, et Monsieur Josselin se repentira de vous avoir grondé. Je reviendrai dans un moment.
+
+Oui, mon Père, il est impossible que vous me refusiez, quand vous les aurez vus, venez seulement, où sont-ils ? Qu'en avez-vous fait, Monsieur Josselin ?
+
+Que sont-ils devenus Bertrand ?
+
+Répondez-moi Monsieur Josselin, ou malgré la présence de mon Père...
+
+Éclaircis-moi de ce que je veux savoir, coquin.
+
+Ah, mon Père ! Commandez qu'on me les fasse retrouver, ou j'en mourrai de désespoir.
+
+Cherchons partout. Si je ne les retrouve, je sais bien à qui je m'en prendrai.
+
+Non traître, ce ne sont pas des moineaux.
+
+Courons-y. Mon pauvre Bertrand, ne me quitte point, Monsieur Josselin malheur à vous si je ne les retrouve.
+
+Non, non, laisse-moi ; mais que vois-je ? Ah ! C'est ce que je cherche. Oui, mon Père les voilà, souffrez que je les amène à ma chambre, je vous promets de n'en sortir jamais.
+
+Ah ! Mon Père, n'allez pas gronder, de peur de les effaroucher encore.
+
+Je ne comprends rien à tous ces discours. Que veulent-ils dire, Monsieur Josselin ?
+
+En mariage ? Cela signifie-t-il qu'elle demeurera toujours avec moi, mon Père.
+
+Qu'elle joie ! Ah, Mon Père, que je vous ai d'obligation.
+
+
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_josselin
+
+Bertrand, hé Bertrand.
+
+Qui est-ce donc qui crie de la sorte ?
+
+Non.
+
+Encore moins.
+
+Parce qu'il ne nous plaît pas.
+
+Est-ce que nous nous connaissons ?
+
+C'est ce qui me semble.
+
+Et qui ne le serait pas ? Nous ne nous connaissons point et vous m'embrassez comme si nous nous étions vus toute notre vie.
+
+Et que cherchez-vous ?
+
+Ah ! Vraiment oui, c'est bien ici qu'il faut chercher des Femmes.
+
+Cela est fort plaisant.
+
+Que craignez-vous ?
+
+Si vous aviez envie de savoir ce qui en est, on pourrait vous donner satisfaction.
+
+Nous avons ici un moyen sûr pour en savoir la vérité.
+
+C'est une Coupe qui est entre les mains du Seigneur de ce Château. Quand elle est pleine de vin, si la Femme de celui qui y boit lui est fidèle, il n'en perd pas une goutte ; mais si elle est infidèle, tout le vin répand à terre.
+
+Il l'a achetée d'un Arabe, qui, par composition ou par enchantement, y aurait attaché cette vertu.
+
+Par curiosité.
+
+Oui.
+
+Justement.
+
+Vous l'avez dit.
+
+Non.
+
+Non.
+
+Oui.
+
+Plus encor que vous ne le dites.
+
+Il voulut éprouver sa femme.
+
+Il lui écrivit sous un nom supposé.
+
+Il lui envoya des présents.
+
+Il lui donna un rendez-vous.
+
+Est-ce qu'on résiste aux présents ?
+
+En excuses du côté de la Dame, en soufflets de la part du Mari.
+
+Oui, mais quelques jours après...
+
+Oui.
+
+Elle répandit
+
+Il s'en prit à tout le monde, et vint de dépit se loger dans ce Château écarté, pour ne plus entendre parler de femme de sa vie.
+
+Avec la Coupe.
+
+Elle lui sert à voir qu'il a beaucoup de confrères, et cela le console.
+
+Il engage tous les passants que le hasard conduit ici, d'en faire l'épreuve.
+
+Depuis quatorze ou quinze ans.
+
+Oh, en quantité.
+
+C'est le Maître de la Coupe et le Seigneur de ce Château.
+
+Qu'y a-t-il de nouveau Monsieur ?
+
+C'est un honnête paysan qui est en quête de sa femme ; elle s'est échappée de chez lui avec une jeune fille, et pour les retrouver il est avec une paire de Messieurs qu'il va chercher pour faire l'essai de votre Coupe.
+
+Qu'avez-vous donc ?
+
+Ma foi, Monsieur, si vous voulez que je vous parle franchement, il vous sera bien difficile de l'élever toujours dans l'ignorance où vous voulez qu'il soit. Je crains bien que toutes ces précautions ne deviennent inutiles, et que cette démangeaison qui vous tient de lui vouloir cacher qu'il y a des Femmes au monde, ne porte davantage son petit génie aux connaissances du beau sexe.
+
+Tout, Monsieur, le bon sens premièrement. Oui, ce certain bon sens qui vient avec l'âge ; là cet âge qui nous retire insensiblement des bras de l'enfance, pour nous conduire à la puberté. L'esprit se porte à la conception de bien des choses ; la raison vient, et parmi plusieurs curiosités nous fait apercevoir que l'homme ne vient point sur la terre comme un champignon, que c'est une petite machine où il y a bien des ressorts, ces ressorts viennent à se mouvoir par le moyen du coeur, ce mouvement du coeur échauffe le cerveau. Cette cervelle échauffée se forme des idées qu'elle ne connaît pas bien d'abord, l'amour se met quelquefois de la partie. Il explique toutes ces idées, il prend le soin de les rendre intelligibles ; et voilà comme la connaissance vient aux jeunes gens ordinairement malgré qu'on en ait.
+
+Il a des affaires en tête. Lui voulez-vous quelque chose ?
+
+Vous ne savez ?
+
+C'est que vous êtes un petit indolent, qui n'avez pas l'esprit de jouir des beautés qui se présentent à vous.
+
+Le Ciel, la terre, le feu, l'eau, l'air, le jour, la nuit, le Soleil, la Lune, les Étoiles, les arbres, les prés, les fleurs, les fruits.
+
+Quoi ?
+
+Qu'est-ce encore ?
+
+Selon.
+
+Plaît-il ?
+
+Avez-vous oublié que votre Père vous l'a défendu.
+
+Le petit fripon.
+
+Qu'est-ce à dire ces choses-là ?
+
+Rien.
+
+Point du tout.
+
+On vous l'apprendra, donnez-vous patience.
+
+Voilà un petit drôle qu'il n'y aura plus moyen de retenir.
+
+Vous deviendrez mon Fils, et je serai votre Père pour lors.
+
+Et bien vous seriez le mien si vous vouliez, et je serais votre Fils, moi.
+
+Oh, vous saurez que vous êtes un petit sot, et que vos discoures me fatiguent.
+
+Oui, et je vais moi tout de ce pas avertir votre Père de» vos extravagances, et vous verrez après où je vous mènerai promener. Oh, ho, voyez-vous le petit impudent avec ses promenades.
+
+Que vois-je ? Tout est perdu. Ah ! Vraiment voici bien pis que la promenade.
+
+Paix.
+
+Et d'où diantre ces deux carognes sont-elles venues ?
+
+Taisez-vous.
+
+Qui vous a conduites ici impudentes que vous êtes ? Qu'y venez-vous faire ?
+
+Comment petit fripon, vous osez... Qu'elles sont belles !
+
+Le beau visage qu'a celle-là.
+
+Le drôle de petit air qu'à celle-ci.
+
+Non, cela n'est pas vrai. Vous ne savez ce que vous dites. Les deux jolis bouchons que voilà.
+
+Comment petit effronté, à votre Père ; tournez-moi les talons, et ne regardez pas derrière vous.
+
+Tournez-moi les talons, vous dis-je, et vous détalez au plus vite.
+
+Et je le veux moi. Allez vite... allez vous cacher dans ma chambre au bout de cette allée, voilà la clef.
+
+Si vous ne dépêchez... Entrez dans le petit cabinet à main gauche, allez vite, allez.
+
+Je vous l'ordonne, partez promptement.
+
+Ah ! Malheureuse petites femelles, savez-vous bien où vous êtes, et le malheur qui vous talonne ?
+
+Que vous êtes heureuses d'être belles ! Sans cela... Écoutez, n'allez pas vous entêter de ce petit vilain-là, ce serait gâter toutes vos affaires.
+
+Son Père veut enterrer toute sa famille avec lui, et ne consentira jamais...
+
+Ma chambre est l'endroit où vous puissiez être le mieux cachées dans ce Château, et j'en veux bien courir les risques pour l'amour de vous, à condition que pour l'amour de moi...
+
+Venez suivez-moi.
+
+Voilà un maroufle qui vient bien mal à propos.
+
+Veux-tu te taire.
+
+Qu'entends-tu par là ?
+
+Que veut dire cet animal-là ?
+
+Et bien, oui, je dirai que c'est moi.
+
+J'entends quelqu'un.
+
+Chut, ou je te rendrai complice.
+
+Que veut-t-il dire ?
+
+Doucement, petit drôle.
+
+Des menaces ! Vous voyez comme il perd le respect.
+
+Non, non ; il vaut mieux qu'en courant il aille dissiper ces vapeurs qui lui troublent l'imagination.
+
+C'est justement une suite de ce que je disais tantôt ; ce sont des idées qui lui passent par la cervelle, et je ne jurerais pas trop que ce ne fussent des idées de femmes.
+
+Belles merveilles. Et ne vous est-il jamais arrivé de faire des songes ?
+
+Et de voir en dormant des choses que vous n'aviez jamais vues, et que vous ne vous seriez jamais imaginées si vous n'aviez dormi ?
+
+Non, vraiment ; au contraire, je ne l'ai jamais vu éveillé.
+
+Hé bien, il rêve tout éveillé, et c'est justement ce qui fait qu'il fait des contes à dormir debout.
+
+C'est que ces animaux-là se fourrent partout malgré qu'on en ait.
+
+Elles le seront à coup sûr, et dès à présent je vous en donne ma parole.
+
+Il ne les haïra point.
+
+Et c'est ce bon Paysan qui vous amène ces deux personnes pour faire essai de votre coupe.
+
+Voilà un différend qu'il est assez facile d'accommoder. Ces Messieurs se disent les choses de si bonne foi, qu'on ne peut s'empêcher de les croire ; mais pour savoir lequel des deux s'est le plus fait aimer de sa femme par ses manières, votre Coupe enchantée sera d'un secours merveilleux, et je suis sûr qu'elle les mettra d'accord, je vais l'apporter.
+
+Ah, ah.
+
+Oh, par ma foi, le petit papa, le petit fanfan, le petit camuset en tient.
+
+Quand elle viendra vous étouffer de caresses, je vous conseille de l'étrangler par bonne amitié.
+
+Ahy, ahy, ahy.
+
+Prenez donc garde.
+
+Ah ! L'on a approché de votre domaine plus près que de la ban-lieue.
+
+Vous plaît-il boire encore un coup ? À ça à vous le dé, pays.
+
+À cause que vous êtes un bon frère, en voilà rasade, buvez.
+
+Il ne s'agit pas d'avoir soif, et c'est seulement par curiosité, et pour savoir si vous êtes aimé de votre femme, buvez.
+
+Voilà un rustre d'assez bon sens.
+
+Voilà, comme je veux être et si je me marie... Mais je ne me marierai pas.
+
+Voilà la perle des Maris, ami, touche-là.
+
+Je ne sais. Ce sont peut-être elles, qui ont fait naître à Monsieur votre Fils les idées...
+
+Cela est admirable.
+
+Cette belle vous l'apprendra.
+
 Jamais le petit fripon n'a embrassé si fort.
 
--*who_thibaud
-Pargué, Perrette, tout ça est drôle.
+Quelqu'un veut-il faire essai de la Coupe ? Qu'il se dépêche ; mais franchement, je ne conseille à personne d'y boire ; et l'exemple du Paysan est, sur ma foi, le meilleur à suivre.
 
--*who_perrette
-Oui, tout cela est bel et bon.
-Mais cette chienne de Coupe, que devient-elle ?
-Qu'il n'en soit plus parlé ; car quoique je ne craignons rien, je ne dormirions point en repos, voyez-vous.
 
--*who_anselme
-Qu'elle ne vous inquiète point.
-Je la briserai en votre présence.
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bertrand
 
--*who_josselin
-Quelqu'un veut-il faire essai de la Coupe ?
-Qu'il se dépêche ; mais franchement, je ne conseille à personne d'y boire ; et l'exemple du Paysan est, sur ma foi, le meilleur à suivre.
+Non mordienne vous, dis-je, je ne me laisserai pas enjôler davantage.
+
+Je n'en ferai rien.
+
+Je l'aurai dur comme un caillou.
+
+Je ne vous y laisserai pas un iota davantage, ventregoine. Si quelqu'un vous allait trouver enfarmées dans ma logette, et que dirait-on ?
+
+Testigué, si notre Maître qui hait les femmes, venait à vous trouver, où en serais-je ?
+
+Morgué, je vous dis qu'il n'est point pitoyable, je le connais mieux que vous.
+
+Ventredié vous me feriez enrager ; est-ce que je ne savons pas bien ce que je savons ?
+
+Hé bien, hé bien, ne voilà-t-il pas. Palsangoi n'an dit bian vrai, qu'il n'y a rian de si dur que la tête d'une femme. Ne vous ai-je pas dit, cervelle ignorante, que ce fils est le Tu Autem du sujet pourquoi on reçoit ici les femmes comme un chien dans un jeu de quille. Que le père ne veut point que le Fils en voie aucune, que le Fils n'en connaît non plus que s'il n'y en avait point au monde, et qu'il ne sait pas seulement comme on les appelle. Que le père sottement lui apprend tout cela, que le Fils croit tout cela sottement, et que, que... que Diable ne vous ai-je pas dit tout cela ?
+
+D'où vient, d'où vient... Eh, l'esprit bouché ! Ne vous souvient-il pas que de fil en aiguille, je vous ai conté que le Père avait épousé une Femme qui en savait bien long, et que pour empêcher qu'il n'ait comme li le même malencombre qu'il a li, comme bien d'autres ; il a juré son grand juron, que jamais Femme ne serait de rien à ce Fils, et voilà ce qui fait justement que... mais ventreguienne que de babil, est-ce que vous ne voulez donc pas vous taire, et me tourner les talons ?
+
+Mon ami, mon pauvre ami... Jarnigué ne vla-t-il pas encor la chanson du ricochet avec vos pièces d'or.
+
+Ventregué que veux-tu que j'en fasse ?
+
+Tastigué, n'avez-vous point de honte de me tenter comme ça.
+
+Morgué, c'est être bien Satan.
+
+Jarni, cela est cause que je vous ai déjà fait passer la nuit dans ma cahute.
+
+Morgué, cela va encore être cause que je vous y ferai passer le jour.
+
+Mort de ma vie, que vous ai-je fait ?
+
+Prends, prends, morguoi prends toi-même.
+
+Tu as bien envie de me voir frotter.
+
+Oui ; mais morgué notre petit Maître est un charcheur de midi à quatorze heures, il a toujours le nez fourré partout, s'il vient à vous trouver hem ?
+
+Testigué ne vous y fiez pas. C'est un petit babillard qui ne manquerait pas de l'aller dire à son Père. Il vaut mieux que je vous boute dans queuque endroit où il n'aille pas vous charcher. Attendez, je vais voir si personne ne nous en empêche.
+
+Où courez-vous, fuyez, fuyez de ce côté.
+
+Josselin le Gouverneur de notre petit Maître vient par ilà.
+
+Oyez-vous ? Nous sommes flambés s'il nous voit.
+
+Rentrez dans ma logette, et n'en ouvrez point la porte à personne.
+
+Il faut que ce soit quelque passant qui s'est égaré, mais le vla.
+
+Aurait-il vu ces masques de Femmes ? Écoutons.
+
+Rien...
+
+Oh, palsangué je vous prends sur le fait, je n'en suis plus que de moitié...
+
+Testiguenne, puisque vous voulez les fourrer dans votre chambre, je ne serai pas pendu tout seul pour les avoir boutées dans ma cahute, vous le serez avec moi, je ne m'en soucie guère.
+
+Morgué, je ne me tairai point à moins que je ne retire mon épingle du jeu.
+
+J'entends que vous soyez pendu tout seul.
+
+Je veux dire qu'à moins que vous ne disiez que c'est vous qui les avez cachées, je vais tout apprendre à notre Maître.
+
+Rentrez dans ma logette, et ne vous montrez plus sur les yeux de votre tête.
+
+Motus, ou je découvrirai le pot aux roses.
+
+À qui en veut-il donc ?
+
+Haye, ahy, vous m'étranglez. Est-il devenu fou ?
+
+Et attendez, attendez. Ce ne sont pas des moigniaux que vous charchez.
+
+Hé bien morgué, quoi que ce puisse être, allons les charcher nous deux, m'est avis que j'ai entendu queuque chose grouiller de ce côté-là.
+
+Ce n'est pas par-là, vous dis-je ?
+
+
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
+Hé, mon pauvre garçon.
+
+Laisse-nous ici seulement jusqu'à ce soir.
+
+Quand il saura que je suis une jeune fille persécutée par une Belle-mère, abandonnée à la sollicitation et à l'inimitié de mon propre père, et qui fuit la maison paternelle, de crainte d'épouser un magot qu'elle me veut donner, parce qu'il est son neveu, mes larmes le toucheront ; il aura pitié de moi sans doute.
+
+Fais-moi parler à ce jeune homme que tu dis qui est son fils, je le toucherai je m'assure, et je ne doute point qu'il ne fasse quelque chose auprès de son père en notre faveur.
+
+Mon ami, mon pauvre ami.
+
+Mon pauvre garçon.
+
+Bertrand...
+
+Mon cher Bertrand.
+
+Peut-être sera-t-il bien aise de nous voir et de nous parler.
+
+Enfin, Perrette, nous resterons ici jusqu'à ce soir.
+
+Nous y seront bien cachées, mais en conscience, Perrette, voudrais-tu partir d'ici sans avoir la charité de tirer ce pauvre petit jeune homme de l'erreur où l'on le fait vivre ?
+
+Et que croirais-tu ?
+
+Tu ne sais ce que tu dis.
+
+Que veux-tu dire ?
+
+Tu vois plus clair que moi, Perrette. Je t'avoue que je formai dès hier la résolution de faire tout mon possible pour détromper ce pauvre petit homme, et que c'est à quoi j'ai pensé toute la nuit ; mais jusques à présent je ne m'aperçois pas que mon coeur agisse par un autre mouvement, que par celui de la compassion.
+
+Quelle voix a frappé mon oreille.
+
+Courons promptement nous cacher.
+
+Thibaut le Mari de Perrette vient par ici.
+
+Où nous cacher ?
+
+Approchons-nous pour voir ce qu'il dira en nous voyant.
+
+Nous hésitons à vous aborder.
+
+Vous paraissez étonné de nous voir.
+
+À ce que je puis juger vous n'êtes point fâché de nous voir.
+
+Vous en jugeriez autrement si vous saviez ce que nous sommes.
+
+Votre coeur ne peut-il pas vous l'expliquer tout à fait ?
+
+Tout de bon.
+
+Vous m'aimez donc ?
+
+N'en avez-vous point à me dire ?
+
+Voudriez-vous quitter ces lieux pour me suivre ?
+
+Ah, Ciel !
+
+Le vilain homme que voilà.
+
+Si c'est un crime pour nous de nous trouver ici, il n'est pas difficile de le réparer, et notre dessein n'est pas d'y faire un long séjour.
+
+Nous savons tout ce que vous pouvez nous dire ; mais nous espérons tout de votre bonté.
+
+Mettez-nous en lieu où nous puissions vous apprendre notre infortune, et savoir de vous le conseil que nous devons suivre.
+
+Il n'importe ; voyons d'ici ce qui se passe, puisque nous pouvons voir sans être vues.
+
+Mon Père et mon Oncle sont ici.
+
+Perrette ton mari va boire.
+
+Attends, Perrette, que vas-tu faire ?
+
+La voilà, mon Père, qui se lette à vos genoux, pour vous demander pardon.
+
+
+**** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+
+Auras-tu bien le coeur si dur que...
+
+Ardé, ce qu'on en dirait, serait-il tant à ten désavantage ?
+
+Et moi je gage que ces larmes le débaucheront, comme elles m'ont débauchée. Je ne les vis pas plutôt couler que je me résolus d'abandonner mon ménage, pour aller courir les champs avec elle, quoiqu'il n'y ait que onze mois que je sois mariée à Thibaut, le Fermier de son Père, qui est le meilleur homme du monde, et de la meilleure humeur ; est-ce que ton Maître sera plus rébarbatif que moi ?
+
+Hé bien oui ; mais d'où vient qu'il ne veut pas que son Fils connaisse des Femmes ; est-ce une si mauvaise connaissance ?
+
+Et va, va, prends toujours.
+
+Prends, te dis-je.
+
+Le grand malheur.
+
+Eh, prends, prends.
+
+Hé bien donne-le-moi je le prendrai.
+
+La, la, prends courage ; il ne t'est point arrivé de mal cette nuit, il ne t'en arrivera pas cette journée, ramène-nous dans la logette.
+
+Oui, mais je ne sommes guère loin du Châtiau de votre Père, j'ai peur que je ne soyons pas longtemps ici sans qu'on vienne nous y charcher.
+
+Ouais, vous vous intéressez bien pour lui, si j'osais, je croirais quelque chose ?
+
+Je croirais que vous ne seriez pas fâchée de l'avoir pour mari.
+
+Oh par ma foi, j'ai mis le nez dessus.
+
+Mon gueu je ne suis pas si sotte que j'en ai la mine. Quand je vous le vis regarder hier avec tant d'attention par le trou de la sarrure, je me dis à part moi, vla notre Maîtresse Lucinde qui se prend. Et si ce grand dadais que n'an li venait bailler pour époux, avait eu aussi bonne mine que ce petit étourniau-ci, je ne serions pas sorties de la maison.
+
+Eh oui, oui, vous autres grosses Dames, vous n'allez point tout d'abord à la franquette. Vous faites toujours semblant de vous déguiser les choses ; pour moi je n'y entends point tant de façons, et quand Thibaut me prit la main la première fois pour danser, qu'il me la serrit de toute sa force, je devinai tout du premier coup c'en que chelà voulait dire. Mais qu'entends-je ?
+
+Ah Madame, c'est la voix de notre Mari Thibaut, nous vla perdus !
+
+Entends-tu, c'est fait de nous s'il nous trouve.
+
+Madame, le voilà tout seul.
+
+Il ne faut pas lui dire d'abord qui nous sommes : mais je gage bien qu'il le devinera.
+
+Oh, mort de ma vie, que la nature est une belle chose !
+
+Cela est admirable ! Et que croyez-vous de nous, s'il vous plaît ?
+
+Oh, vraiment non, il y a bien à dire.
+
+Oui da, c'est bien tout un, mais ce n'est pas de même.
+
+Eh bien, tenez mon pauvre enfant, bien loin d'être des hommes, nous en sommes tout le contraire.
+
+Vous nous entendrez avec le temps, mais qui aimez-vous mieux de nous deux, là, parlez franchement, n'est-ce pas moi ?
+
+C'est à cause que vous êtes la plus brave.
+
+Mais que pensez-vous en l'aimant ?
+
+Et que seriez-vous prêt à faire pour lui prouver que vous l'aimez ?
+
+Qu'il a la mine rébarbative.
+
+Comme il nous regarde.
+
+C'est pis qu'un loup garou.
+
+Je n'y serions pas venues si j'ussions cru qu'on nous eût si mal reçues.
+
+Il est enragé, comme il roule les yeux.
+
+Comme il se radoucit, ferons-je bien d'y aller ?
+
+Oh, je ne boutons rian dans la tête que de la bonne sorte
+
+Allez, mon bon Monsieur, vous voyez deux pauvres orphelines, qui ne sont nullement entichées du vice d'ingratitude.
+
+Mais morgué point de tricherie au moins.
+
+Le petit homme n'y est pas vous dis-je.
+
+Madame, c'est Thibaut.
+
+À quoi s'amuse-t-il ce n'est pas que je craigne rien, mais le coeur me tape.
+
+Madame je suis si niaise que je ne saurais plus m'en tenir, il faut que j'aille embrasser notre homme.
+
+Voilà un vrai homme à femme. Ah, que je te baiserai tantôt.
+
+Elle n'eut rien dit. Mais tu as bien fait, je t'en aime davantage.
+
+Oui, tout cela est bel et bon. Mais cette chienne de Coupe, que devient-elle ? Qu'il n'en soit plus parlé ; car quoique je ne craignons rien, je ne dormirions point en repos, voyez-vous.
+

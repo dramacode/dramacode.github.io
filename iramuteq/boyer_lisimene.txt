@@ -1,18 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1695
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorilas
 
--*who_lechoeur
-Belles Fontaines,
-Aimables Plaines,
-Charmants Ruisseaux,
-Vallons, Coteaux,
-Montrez votre allégresse.
-L'Hymen assemble en ce jour
-Deux jeunes coeurs pleins de tendresse,
-Heureux, s'ils sont unis par les mains de l'Amour.
-
--*who_dorilas
 Climène, vous voyez par ces marques de joie
 Comme on sent le bonheur que le Ciel nous envoie.
 Ainsi je n'ai plus rien à demander aux Dieux,
@@ -22,17 +11,6 @@ En faveur de mon Fils, entre dans ma Famille.
 C'est ce qu'avant sa mort souhaitait votre époux.
 Ce que je perds en lui, je le retrouve en vous.
 
--*who_climene
-Ainsi notre amitié si longue et si fidèle,
-Rendra par cet Hymen sa durée immortelle,
-Qu'est-ce ci, mes enfants ? Quelle sombre froideur
-Retient les doux transports de cette jeune ardeur,
-Qu'exige de vous deux cette belle journée ?
-Nous venons d'adorer Junon et l'Hyménée ;
-Le Sacrifice heureux fait voir qu'ils sont pour nous,
-Et je ne vois ici rien de triste que vous.
-
--*who_dorilas
 L'accord précipité du noeud qui les assemble,
 Et qui leur a permis peu de commerce ensemble,
 Toutes ces nouveautés en un si jeune coeur,
@@ -45,7 +23,90 @@ Il ne produit d'abord que trouble et défiance :
 Mais un peu d'entretien sème l'intelligence.
 De peur de les gêner, Climène, éloignons-nous.
 
--*who_climene
+      Quoi, se peut-il, Bergère...
+
+      L'excès de ma colère
+M'empêche de parler, laissez-moi respirer.
+Un si mortel affront ne se peut réparer.
+Quoi, Climène, un Berger avec tant d'insolence,
+Troublent de nos Déserts la paix et l'innocence ?
+L'honneur de nos Maisons n'est plus en sûreté.
+Il ose violer un Hymen arrêté ;
+Et le traître achevant ce crime par un autre,
+Outrage en même temps et ma Fille et la vôtre !
+J'ai su qu'à Silvanire il a donné sa foi,
+Pour trahir d'un seul coup mon Fils, ma Fille, et moi.
+Je brûle dans l'ardeur de ma juste colère,
+De voir le châtiment d'un Berger téméraire.
+
+Quoi, son frère ?
+
+Quoi, l'aime-t-il encor ? Ah qu'il soit son époux.
+Je n'y résiste point, j'y consens, qu'il la prenne,
+Cette Fille enlevée, indigne de Silène.
+Je destine mon Fils à des Partis meilleurs,
+Et je rends grâce au Ciel de voir qu'il aime ailleurs.
+Mais la voici qui vient, et mon Fils avec elle.
+
+Le coeur, ainsi que l'âge est innocent en elle.
+C'est sur son Ravisseur, c'est sur cet Infidèle,
+Qui de son innocence abuse lâchement,
+Qu'il faut faire tomber notre ressentiment.
+
+Malgré tout votre amour, j'en croirai mon courroux
+Et ma vengeance enfin m'est plus chère que vous.
+Ergaste à qui l'on vient de donner Lisimène...
+Le voici.
+
+      Quoi, tout seul ?
+
+Le lâche prétend-il par ce déguisement
+Éblouir ma vengeance, et fuir son châtiment ?
+
+Climène ?
+
+Pour calmer un courroux que j'ai cru légitime,
+Son Sexe et son amour excusent tout son crime.
+
+Oui, vous l'avez, ma fille, et votre frère aussi.
+
+Allons donc célébrer l'heur de cette Journée,
+Qui par un noeud rompu, forme un triple Hyménée.
+Et vous, Divinités, qui régnez dans ces Bois,
+Joignez à nos plaisirs vos Danses et vos Voix.
+Vous allez, Bergère,
+Prendre un jeune époux ;
+C'est un mystère
+Fort caché pour vous.
+S'il faut vous instruire,
+Sans vous en rien dire,
+Voici le grand jour :
+L'Hymen rend savante
+La plus ignorante
+Des secrets d'Amour.
+Que de biens ensemble !
+Quels plaisirs charmants
+L'Hymen assemble
+Pour tous ces amants !
+Que de justes plaintes,
+De maux et de craintes,
+Meurent en un jour !
+Ô douces alarmes,
+Trop heureuses larmes,
+Que finit l'Amour !
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
+
+Ainsi notre amitié si longue et si fidèle,
+Rendra par cet Hymen sa durée immortelle,
+Qu'est-ce ci, mes enfants ? Quelle sombre froideur
+Retient les doux transports de cette jeune ardeur,
+Qu'exige de vous deux cette belle journée ?
+Nous venons d'adorer Junon et l'Hyménée ;
+Le Sacrifice heureux fait voir qu'ils sont pour nous,
+Et je ne vois ici rien de triste que vous.
+
 L'Hymen vous fait-il peur, Silène ? Approchez-vous,
 Ce que vous allez être aujourd'hui vous dispense
 À moins de retenue, et plus de confiance.
@@ -54,21 +115,135 @@ Nous, allons par avance apprêter quelques Jeux
 Vous, pour qui l'on destine une si belle Fête,
 Ajoutez plus de joie aux pompes qu'on apprête.
 
-**** *book_ *id_I02 *act_I *date_1695
+Quoi, vous voulez sans moi disposer de vous-même ?
 
--*who_silene
+Vous n'avez que l'esprit et les yeux de votre âge :
+L'époux que je vous donne a bien d'autres beautés ;
+Ses Pâturages gras, ses Troupeaux tant vantés,
+Ses fertiles Vallons, et ses riches Campagnes,
+Font l'envie et l'amour de toutes vos Compagnes.
+Lui préférez-vous un Berger inconnu,
+Que d'hier seulement en ces lieux on a vu ?
+Où sont donc ses Troupeaux, et quel est l'avantage...
+
+Taisez-vous, c'en est trop, je me lasser d'entendre...
+
+      Je me fâche d'apprendre
+Que vous aimiez ailleurs, en prenant un époux.
+
+Que dites-vous ?
+
+En vérité j'admire et plains votre ignorance :
+Mais n'affectez-vous point un peu trop d'innocence ?
+Ne nous trompez-vous point ? Tout de bon, croyez-vous
+Qu'on vous souffre un amant qui n'est pas votre époux ?
+Pour guérir une erreur qui vous rendrait coupable,
+Bannissez de vos yeux ce Berger trop aimable.
+
+Le temps démêlerait ces sentiments confus,
+Et vous ferait vouloir quelque chose de plus.
+
+Allez, ce n'est pas moi qui vous le dois apprendre ;
+L'Amour n'en dit que trop, à qui veut l'écouter,
+Et ce n'est qu'un époux qu'il vous faut consulter.
+Ne voyez plus Licaste, et songez que sa vue
+Est un poison mortel, est un charme qui tue.
+
+Vous me fatiguez trop avec votre innocence ;
+Plus de Licaste enfin.
+
+Qu'on ne m'en parle plus, je vous défends sa vue ;
+Et si votre folie encore continue,
+J'ai de quoi la punir, et j'y saurai pourvoir.
+
+C'est votre frère et vous qui nous ôtez l'honneur.
+Vous avez suscité ce lâche Ravisseur.
+Vous, qui prîtes le soin de poursuivre ce traître.
+Et qui pouviez enfin vous en rendre le maître,
+C'est vous qui m'empêchez de m'en faire raison.
+On dit que pour servir sa noire trahison,
+Vous savez en secret lui prêter un asile,
+Qui rend de nos amis la poursuite inutile.
+Damis sert votre amour, vos voeux désespérés
+Violent lâchement les droits les plus sacrés :
+Mais je saurai punir ma Fille et votre frère.
+
+Hé que me direz-vous ?
+
+Quoi, vous l'épouserez sans honneur ? Une infâme !
+
+Doutez-vous de son crime, ou de son mariage,
+Dont Damis rend lui-même un si haut témoignage ?
+Licaste en arrachant, ou recevant sa foi...
+
+Oui, je consens à tout, si vous servez ma haine.
+
+Non, j'atteste le Dieu qui nous donne le jour,
+Que ma Fille est à vous, pourvu que je me venge.
+Mais ne songez-vous point à me donner le change,
+Et que par cet Hymen mon sang joint avec vous,
+Excuse votre frère, et calme mon courroux ?
+
+Ah Berger, vous voyez...
+
+Vous serez satisfait : de cette trahison
+Un amant irrité vous va faire raison.
+Ergaste entre vos mains va livrer le coupable.
+
+      À ses yeux son crime est effroyable.
+Sans pitié pour un frère à son amour fatal,
+Il ne regarde en lui qu'un indigne Rival :
+Mais aussi savez-vous quelle est la récompense
+Qui doit payer les soins qu'il prend de ma vengeance ?
+Il demande ma Fille, y consentirez-vous ?
+
+C'est en vain qu'affectant une mine innocente,
+D'un air simple et naïf, vous faites l'ignorante.
+Quand votre âge pourrait excuser votre erreur,
+Êtes-vous sans respect, sans crainte, et sans pudeur ?
+Je vois bien que tantôt sur votre résistance
+J'ai dû me défier de votre obéissance,
+Mais je ne puis douter qu'à votre Enlèvement
+Votre coeur n'ait donné tout son consentement.
+
+Qu'osez-vous avouer, et qui vous a donnée ?
+Quel est ce ridicule et bizarre Hyménée,
+Que vous avez conclu sans moi, loin de mes yeux,
+Sans Parents, sans Témoins, sans Autels, et sans Dieux.
+
+      Que dites-vous ?
+
+Est-ce ainsi qu'on s'excuse, après ces attentats ?
+Ton âge est innocent, et ton coeur ne l'est pas.
+
+      Je vous le jure encore,
+Dorilas y consent, et permet à son Fils
+De conserver des feux que nous avions trahis.
+Livrez-nous promptement ce Ravisseur infâme.
+
+      Quoi, Berger, je ne vois qu'une Femme !
+
+      Dorilas. Quand même mon serment
+Se pourrait violer après ce changement,
+Ces objets de pitié, de tendresse, et de flamme,
+Je dois vous l'avouer, ont passé dans mon âme.
+La Nature et l'Amour, ces deux Maîtres si doux,
+Renversent nos desseins, et sont plus forts que nous.
+
+Je me rends comme vous, le Ciel le veut ainsi.
+Ergaste prendra donc la place de Silène,
+Et Télamire aura celle de Lisimène.
+Je vois bien que les Dieux n'ont fait cet embarras
+Que pour rompre des noeuds qui ne leur plaisaient pas.
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_silene
+
 Quoi, vous ne dites rien ? Cependant votre main
 S'est engagée à moi pour m'épouser demain.
 Savez-vous ce que c'est qu'une sainte Promesse
 Faite aux pieds des Autels devant notre Déesse ?
 
--*who_lisimene
-Hé quoi, n'êtes-vous pas aussi muet que moi ?
-On me marie, hé bien je vous donne ma foi.
-Mais vous qui m'épousez avec tant de contrainte,
-Vous allez obéir sans murmure et sans plainte.
-
--*who_silene
 Bergère, jugez mieux de mon étonnement.
 Quand on offre à mes voeux un objet si charmant,
 Tant de bonheur m'étonne, et j'ai bien lieu de croire
@@ -78,31 +253,6 @@ C'est de voir votre coeur, tranquille, indifférent,
 Qui condamnant tout bas l'Hymen qu'on nous propose
 Accepte comme moi le joug qu'on nous impose.
 
--*who_lisimene
-Hélas ! Suis-je d'un âge à régler mon destin ?
-Ma Mère fait un choix, que lui dirai-je enfin,
-Si lorsqu'on m'entretient d'époux, de mariage,
-À peine je comprends le sens de ce langage ?
-Quand on parle d'époux, je n'entends qu'à demi,
-Si c'est un Compagnon, un amant, un ami,
-Un Maître qui mérite ou ma haine, ou ma flamme,
-Quel nom est le plus doux ou de Fille, ou de Femme ;
-Si le joug de l'Hymen est pesant, ou léger ;
-S'il faut s'en réjouir, s'il faut s'en affliger.
-Je vois tantôt pleurer nos Femmes et nos Filles ;
-Tantôt un doux repos régner dans les Familles ;
-Pour et contre l'Hymen j'entends tout ce qu'on dit :
-Ces différents discours partagent mon esprit,
-Et rendent comme moi nos Filles incertaines.
-Chaque état a ses soins, ses douceurs, et ses peines ;
-Je vois de bons Maris, et j'en vois de fâcheux ;
-Le nom de Fille est doux, et quelquefois honteux ;
-On me dit qu'il est beau, quand la perte en est prompte ;
-Quand la garde en est longue, il fait un peu de honte :
-Ainsi n'osant choisir en de périls si grands,
-Je me laisse conduire au choix de mes Parents.
-
--*who_silene
 Je doute que votre âme ait tant d'indifférence ;
 Et quoique Lisimène ait peu d'expérience,
 Ce qu'ici ses beaux yeux font d'amants chaque jour,
@@ -119,19 +269,6 @@ Vous voyait, vous aimait sans l'ordre d'une Mère,
 Commençait, et peut-être achevait de vous plaire.
 Vous ne vous troublez point, Bergère, à ce discours ?
 
--*who_lisimene
-Non. Ergaste en effet me voyait tous les jours.
-Il a le coeur bien fait, l'esprit doux et facile ;
-J'avais pour son mérite une estime tranquille,
-Et ce n'est qu'au moment qu'on me donne un époux,
-Qu'il semble que mon coeur l'aime un peu plus que vous.
-Dans ma sincérité voyez mon innocence.
-Mais vous, si j'avais part à votre confidence,
-Vous ne cacheriez plus le mouvement secret,
-Qui vous fait accepter cet Hymen à regret.
-Télamire...
-
--*who_silene
       Il est vrai, j'aimai cette Bergère ;
 Je serais un ingrat, si j'étais moins sincère ;
 Je ne puis le celer, Bergère, et je vous dois
@@ -145,11 +282,6 @@ D'avoir à son amant arraché Lisimène ;
 Et qu'un lâche dépit me jetant dans vos bras,
 Vous force à perdre un coeur qu'un autre ne veut pas ?
 
--*who_lisimene
-Mais puis-je résister aux ordres de ma Mère ?
-Je n'aime pas assez, pour vouloir lui déplaire.
-
--*who_silene
 Vous vous imaginez de n'aimer pas assez ;
 Bergère, vous aimez plus que vous ne pensez.
 Hélas ! Si dans ces lieux où ce grand jour l'appelle,
@@ -157,98 +289,40 @@ Vous voyez à vos pieds cet amant si fidèle,
 Expirer par l'effort de sa tendre amitié,
 Vous mourriez de douleur, de honte, et de pitié.
 
--*who_lisimene
-Non, je ne mourrai point.
-
--*who_silene
       Quoi sa perte est certaine,
 Et vous obéirez ?
 
--*who_lisimene
-      Il le faut bien, Silène.
-
--*who_silene
 Vous voulez donc, Bergère, enfin vous marier ?
 
--*who_lisimene
-Peut-être, car enfin je ne le puis nier ;
-Ce galant appareil, ces Chansons, cette Fête,
-Ces fleurs...
-
--*who_silene
       C'est sur cela que votre esprit s'arrête ?
 Si vous saviez combien l'Hymen est malheureux,
 Quand il trahit l'Amour, et qu'il rompt d'autres noeuds...
 
--*who_lisimene
-Mais je suis sans amour, je vous le dis encore.
-
--*who_silene
 Mais l'amour quelquefois est un mal qu'on ignore.
 
--*who_lisimene
-Si j'aime, au moins je sens que je ne vous hais pas.
-Un Mari comme vous...
-
--*who_silene
       Si vous saviez, hélas !
 Ce que c'est qu'un époux, à quels soins vous engage...
 
--*who_lisimene
-Rompez donc, s'il se peut, ce triste mariage.
-
--*who_silene
 Dois-je rompre un Hymen qui me comble d'honneur ?
 Que j'ai pressé moi-même avec beaucoup d'ardeur ?
 Que diront nos Parents ? Que leur pourrai-je dire ?
 
--*who_lisimene
-Mais que votre coeur brûle pour Télamire.
-
--*who_silene
 Moi je dirai que j'aime une ingrate Beauté ?
 J'irai d'un faux amour flatter sa vanité ?
 Si mon Père touché d'une feinte tendresse
 Me donnait malgré moi mon ingrate Maîtresse,
 Hélas !...
 
--*who_lisimene
-      Dites-lui donc que vous me haïssez.
-
--*who_silene
 Moi, je ne vous hais point. Que vous m'embarrassez !
 Bergère, à votre amant rendez-vous plus sensible,
 Et pour moi faites-vous une haine invincible.
 
--*who_lisimene
-Je n'aime, ni ne hais, comme vous le voulez.
-
--*who_silene
 Si vous ne le pouvez, au moins dissimulez.
 
--*who_lisimene
-L'art de dissimuler, n'est pas d'une Bergère.
-
--*who_silene
 Faites donc quelque effort pour fléchir votre Mère.
 
--*who_lisimene
-Adieu, Berger ; s'il n'est d'autre secours pour vous,
-Je vous plains, et crains bien de vous voir mon époux.
-
-**** *book_ *id_I03 *act_I *date_1695
-
--*who_silene
 Qu'ai-je fait, Palémon ? Dieux !
 
--*who_palemon
-      Quel caprice étrange
-Sur un Hymen conclu vous fait prendre le change ?
-Vous laissez Télamire aux rives du Ladon ;
-Vous voulez oublier, Berger, jusqu'à son nom ;
-Vous ne la nommez plus qu'ingrate, qu'inhumaine.
-
--*who_silene
 Quoi, me conseilles-tu d'épouser Lisimène ?
 Elle qui sans amour, et sans savoir pourquoi,
 Sur la foi des Parents vient de s'offrir à moi ?
@@ -257,32 +331,10 @@ Et c'est cette beauté sans nulle expérience,
 Qui quelquefois malgré les soins les plus prudents,
 Cause pour les Maris de fâcheux accidents.
 
--*who_palemon
-Quoi, ne m'opposez-vous sur le choix d'une femme
-Qu'un défaut qui vous rend le maître de son âme ?
-Pouvez-vous condamner cette naïveté
-Où la Nature parle avec sincérité ?
-Refusez-vous un coeur jeune et plein d'innocence,
-Qui n'étant prévenu d'aucune expérience,
-Fait de son seul époux son conseil, son appui,
-Le livre à sa conduite, et n'écoute que lui ?
-Silène, croyez-moi, l'innocence de l'âge
-Serait un faible obstacle à votre mariage.
-De secrètes raisons qui n'osent voir le jour...
-
--*who_silene
 Oui, j'en ai, Palémon.
 
--*who_palemon
-      Qu'est-ce donc ?
-
--*who_silene
       Mon amour.
 
--*who_palemon
-C'est donc là le secret que vous n'osiez me dire ?
-
--*who_silene
 J'en rougis, mais enfin en quittant Télamire,
 Mon coeur ne s'était pas assez bien consulté
 Sur le remords qui suit une infidélité.
@@ -305,27 +357,14 @@ J'ai différé deux ans, deux ans j'ai résisté,
 Et toujours dans mon coeur j'ai senti ma tendresse
 Parler pour mon Ingrate, et me l'offrir sans cesse.
 
--*who_palemon
-Rompez donc votre Hymen, ne vous contraignez plus.
-
--*who_silene
 Irai-je hautement expliquer mon refus ?
 Je voudrais, Palémon, pour fuir cette Hyménée,
 Que Lisimène seule à le rompre obstinée,
 Me sauvât de l'affront de me voir soupçonné
 De rallumer un feu que j'ai tant condamné.
 
--*who_palemon
-Soyez donc, s'il se peut, d'accord avec vous-même.
-Aimez-vous Télamire ?
-
--*who_silene
       Oui, je crois que je l'aime.
 
--*who_palemon
-Servez donc votre amour.
-
--*who_silene
       Je n'ose, et je ne puis,
 Admire, et prends pitié de l'état où je suis.
 J'ai honte d'adorer une ingrate Maîtresse,
@@ -360,7 +399,1671 @@ Avant ce triste Hymen, si je vois Télamire,
 Il me semble que j'ai cent choses à lui dire,
 Qui malgré la rigueur de son coeur inhumain...
 
--*who_palemon
+      C'est là mon désespoir.
+N'importe, je l'adore, et brûle de la voir.
+
+Quoi, toujours méprisé, désespéré, confus...
+Non, non, marions-nous, je ne la verrai plus.
+Va savoir seulement si l'Ingrate est venue.
+
+      Je le veux savoir pour éviter sa vue.
+
+Mais j'aperçois Damis, il est tout éperdu.
+
+      Hé bien, qu'avez-vous vu ?
+
+      Il paraît un Berger.
+Damis, serait-ce point ce charmant Étranger,
+Dont l'éclat dans les eaux a frappé votre vue ?
+
+C'est Silvanire. Ô Dieux !
+
+      Ma Soeur.
+
+N'est-ce point Silvanire ?
+
+Ne vous y trompez point, c'est le même visage.
+C'est Silvanire enfin.
+
+      Allez. Ah ! Je vois bien
+Que son amour sera plus heureux que le mien.
+
+Hé bien, sur votre Hymen, avez-vous bien, Bergère,
+Consulté votre coeur, plutôt que votre Mère.
+
+      Vous soupirez. Ne puis-je pas savoir...
+
+J'aime une autre Beauté, l'Amour le veut ainsi :
+Mais pourquoi cet habit ?
+
+Vous avez quelque espoir, mais ma perte est certaine :
+Quand malgré moi j'accepte un Hymen sans amour,
+Je sens pour Télamire un si tendre retour,
+Que la peur de la perdre accable ma constance.
+Obligeons Lisimène à quelque résistance,
+Cherchons quelque prétexte à rompre, ou reculer
+Un Hymen, dont ma flamme a sujet de trembler.
+Vous pouvez, chère Soeur, secourir votre frère.
+Allons sans perdre temps voir la jeune Bergère :
+Ménagez avec elle un secret entretien :
+Lisimène facile, et qui n'aime encor rien,
+Vous croira moins suspecte, et votre confidence
+Trouvera plus de grâce, et moins de résistance.
+Votre esprit la trouvant sans nulle impression,
+Peut former son amour et son aversion.
+Étonnez-la, ma Soeur, par une horrible image
+Du pouvoir des Maris, des soins du mariage ;
+Mettez devant ses yeux les exemples affreux
+Du désordre qui suit un Hymen malheureux,
+Du divorce d'Acante avecque Partenice,
+Du chagrin de Damon qui rompt avec Florice,
+Du changement d'Atys, qui d'amant tendre et doux
+Est devenu Mari furieux et jaloux :
+Mais vous voyez déjà quelques jeunes Bergères
+Fuir les yeux des Maris jaloux, ou trop sévères ;
+Chercher qui les console, ou les veuille venger.
+Que de secrets ennuis semblent les affliger !
+Allez par cet exemple alarmer Lisimène.
+
+      Oui, c'est elle, ma Soeur.
+
+      Loin de m'être contraire,
+Philis servant Ergaste...
+
+Hé bien, vous avez vu notre jeune Bergère ?
+
+Se peut-il, chère Soeur...
+
+Ce Berger aime-t-il notre jeune Bergère ?
+
+Comment, que dites-vous ?
+
+D'un Hymen que je crains, je puis me dégager.
+Ce charmant Inconnu, si cher à Lisimène,
+M'offre un heureux prétexte à rompre notre chaîne.
+
+Trahirez-vous Damis votre libérateur ?
+Quoi, j'attendais de vous...
+
+Sur ce nouvel amour rompre avec la Bergère.
+
+Dois-je tout immoler à mon obéissance ?
+
+Je ne dois point souffrir que Damis soit trahi.
+
+Il faut l'aveu d'un père, il faut le mien aussi,
+Et je vais l'avertir que vous êtes ici.
+Il saura votre amour et votre ingratitude.
+
+      Me voulez-vous trahir ?
+
+Damis vous a servie, il est tendre et fidèle,
+Télamire a mon coeur.
+
+      Ayez pitié du mien.
+
+Seul, je vous la rendrai.
+
+Je vous la ferai voir.
+
+Puissiez-vous aussitôt mettre fin à ma peine.
+
+      Il s'agit de secourir le mien :
+Ergaste est en ces lieux, l'amant de Lisimène :
+Sa Soeur est avec lui, le sujet de ma peine.
+Puisque Ergaste revient, ce n'est pas sans dessein ;
+Peut-être il vient troubler les Noces de demain,
+Donnons-lui le moyen d'enlever sa Maîtresse :
+Je me sers, je le sers, Damis, par cette adresse,
+Il lui faut du secours.
+
+Voyons plutôt Ergaste, il faut qu'il favorise,
+Pour son propre intérêt, cette grande entreprise.
+
+      Elle dépend de nous.
+
+Je viens de voir Ergaste, et nos embrassements
+De deux infortunés font deux heureux amants ;
+Et pour dire en un mot ce qu'il vient de me dire,
+Il veut l'enlèvement, et m'offre Télamire.
+
+Que me dis-tu, Damis ? Chère et cruelle Soeur !
+Ingrate, qui trahis ton amant et ton frère.
+Il faut rompre ce coup : va flatter sa colère,
+Cours, et feins de t'offrir à son ressentiment :
+Pour ôter tout obstacle à cet Enlèvement,
+Avec ce faux secours éblouissons sa haine.
+Licaste est sur le point d'enlever Lisimène.
+Ergaste et moi voyant sa résolution,
+Lui répondons du reste en cette occasion.
+Sous couleur d'augmenter l'allégresse publique,
+De Pasteurs déguisés une Danse rustique
+Doit attirer ici Bergères et Bergers,
+Mêlés confusément avec les Étrangers.
+Parmi ce grand tumulte, au milieu de la joie,
+Licaste avec succès peut enlever sa proie.
+Du Bois et de la Nuit l'heureuse obscurité,
+Un Bateau préparé les met en sûreté.
+Mais voici nos Danseurs ; va, cours en diligence
+Amuser Silvanire, et tromper sa vengeance.
+
+Hé de grâce, épargnez en faveur de ma flamme,
+Un Berger dont la Soeur charme toute mon âme.
+Puisqu'un Père plus doux à mes tendres désirs,
+Vers celle que j'aimais laisse aller mes soupirs,
+Voudrait-il à mes voeux favorable et contraire,
+Me donner Télamire, en punissant son frère ?
+
+C'est Télamire. Ô Dieux, ouvrez les yeux, mon Père.
+
+Malgré tout mon dépit, malgré l'ordre d'un Père,
+Je n'ai rien oublié pour avoir ma Bergère.
+
+Me refuserez-vous, mon Père, ce que j'aime ?
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ergaste
+
+Quoi, se peut-il, ma Soeur, qu'encor je vous revoie ?
+Je sens presque mes maux suspendus par ma joie :
+Mais pourquoi cet habit, et ce déguisement ?
+
+Si l'Hymen de Silène est prêt à réussir...
+
+      Hélas ! Son jeune esprit
+Connaît si peu l'Amour...
+
+Ma Soeur, connaissez mieux le coeur de Lisimène ;
+Vous savez bien, ma Soeur, qu'en ces prochains Hameaux
+J'ai toujours eu le soin de gardez nos troupeaux,
+Lorsqu'aux bords du Ladon, étant près de ma mère,
+Vous aviez soin des biens que nous laissa mon père.
+C'est dans ce temps heureux, qu'exempt de tout amour,
+Je conduisais ici mon troupeau chaque jour.
+Un jour rêvant, les yeux baissés sur l'Érymanthe,
+Et frappé tout d'un coup par une voix charmante,
+Je relève ma vue, et mes yeux tous ravis
+Virent... Vous puis-je dire hélas ! ce que je vis ?
+Je vis un air touchant, un air plein d'innocence ;
+Sa voix m'avait charmé, j'adorai son silence ;
+Ses regards pleins de feu secondant ses appas,
+Semblaient dire à mes yeux... Que ne disaient-ils pas ?
+Je vis en Lisimène enfin tout ce qu'on aime,
+Tous les jeunes appas, ou la jeunesse même,
+Son air, ses traits, son teint, et j'en fus tout charmé ;
+Au moment je fus pris, au moment je l'aimai,
+Depuis ce jour qui fit et ma joie et ma peine,
+Ergaste n'a pu vivre un jour sans Lisimène.
+Tout flattait de mes feux la naissance et le cours,
+Elle était attentive à mes tendres discours :
+Mais, ma Soeur, j'ai bien vu que sans y rien comprendre,
+Son faible et jeune coeur aimait à les entendre ;
+Que sans jamais aller plus loin que l'amitié,
+Mes larmes ne faisaient qu'exciter sa pitié :
+Mais las ! Cette pitié, cette heureuse faiblesse,
+Qui semblait imiter l'amoureuse tendresse,
+Flattait d'un vain espoir mes regrets superflus :
+Elle plaignait mes maux, et puis n'y songeait plus.
+
+Ah ma Soeur, c'est de là que vient tout mon courroux.
+D'abord que j'eus appris la funeste nouvelle
+Qui m'ôtait tout l'espoir de ma flamme fidèle,
+Je cours à ma bergère, et tâche à l'émouvoir
+Par un torrent de pleurs, par tout mon désespoir,
+Elle à ces feux ardents laissant fondre sa glace,
+Pour vous, dit-elle, enfin que faut-il que je fasse !
+Ma mère m'a donné Silène pour époux ;
+Berger, j'aurais été plus heureuse avec vous ;
+Je compte tout le temps que vous m'avez servie,
+Comme les plus jours, les plus doux de ma vie,
+Et je ne puis permettre à mes tristes souhaits
+L'espoir de réparer la perte que je fais.
+Mais il faut obéir aux ordres de ma Mère.
+Une si tendre excuse eût pu me satisfaire ;
+Mais l'ingrate en poussant ces mots doux et flatteurs
+Ne les accompagnait de soupirs ni de pleurs.
+Elle a du tendre amour quelques faibles lumières,
+Elle en a le dehors, et toutes les manières ;
+Son silence, son air, ses yeux, son entretien,
+Tout semble plein d'amour, et son coeur ne sent rien :
+Trop jeune, et des soupirs connaissant peu l'usage,
+Elle ignore l'Amour, et parle son langage.
+Ainsi quand pour Silène elle ose me trahir,
+Elle suit son devoir, et ne fait qu'obéir.
+
+Vous aimez donc Silène ? On m'avait dit, ma Soeur,
+Que vous traitiez sa flamme avec tant de rigueur.
+
+Oui, ma Soeur, cet habit où j'ai l'heur de vous voir,
+Pour le dessein que j'ai, flatte mon désespoir.
+Puissiez-vous, chère Soeur, connaître par vous-même,
+Qu'un service en amour fait un plaisir extrême :
+Il faut donc aujourd'hui, pour nous servir tous deux,
+Ou rompre, ou retarder cet Hymen malheureux.
+Un regard vous suffit pour rappeler Silène ;
+Mais il s'agit surtout d'attendrir Lisimène.
+Déjà vous avez su, sous ce Sexe emprunté,
+La frapper en passant avec tant de beauté.
+Ma Soeur, si vous jetiez quelque amour dans son âme,
+Je puis un jour vers moi tourner toute sa flamme ;
+Son coeur rendu sensible aux amoureux désirs,
+Près de vous apprendrait à pousser des soupirs :
+Par l'ardeur qu'elle peut prendre auprès de la vôtre,
+Cette Ingrate pourrait en prendre pour un autre,
+Et son coeur une fois par l'Amour enflammé
+Comprendrait le plaisir d'aimer et d'être aimé.
+
+Qu'elle aime, c'est assez ; c'est toute mon adresse.
+De mes soins et des tiens, c'est un fruit assez doux,
+De lui voir un amant, sans en être jaloux.
+Et je crains seulement que Silène trahisse,
+En vous reconnaissant, ce galant artifice.
+
+Hâtons donc promptement l'effet que je désire.
+Pour moi qui suis réduit au secours de mes pleurs,
+Je vais lui faire voir mes dernières douleurs,
+Prévenir s'il se peut l'effet de ton adresse,
+Et ne devoir qu'à moi sa première tendresse.
+C'est elle que je vois.
+
+Ah ne me fuyez pas, quand je cherche la mort.
+Je ne viens point ici troubler votre fortune
+Par l'inutile éclat d'une plainte importune,
+N'y reprocher aux Dieux mon injuste trépas,
+Pour attirer sur vous la peine des Ingrats ;
+Je viens avant ma mort immoler à vos charmes
+Et mes derniers souhaits, et mes dernières larmes.
+Puissent les justes Dieux oublier leur courroux,
+En oubliant les maux que j'ai soufferts pour vous ;
+Et pour couler vos jours dans un bonheur extrême,
+Puissent-ils être heureux autant que je vous aime.
+Admire ces beaux yeux, regarde si j'ai tort,
+En perdant tant d'appas, de courir à la mort ;
+Je pourrais demander dans ma douleur extrême,
+Justice à tout le Monde, à l'Amour, à vous-même ;
+Cependant vous voyez si jamais on peut voir
+Un plus tendre respect suivre un grand désespoir.
+
+Vois comme on te regarde. En ce dernier moment,
+Cruelle, on ne veut pas m'écouter seulement.
+Adieu donc pour jamais, beaux yeux inexorables.
+Beaux yeux autant aimés que vous êtes aimables ;
+Vous plus que tous les Dieux par Ergaste adorés,
+Pour la dernière fois, beaux yeux, vous m'éclairez.
+
+      Oui, Philis, c'est mon frère,
+Et Licaste est son nom : a-t-il l'heur de vous plaire ?
+
+J'ai voulu ce témoin de mes derniers adieux.
+Il n'a que trop de part au malheur qui m'accable.
+C'est trop de vous offrir encore un Misérable,
+C'est trop pousser en vain de regrets superflus.
+Adieu, Bergère, adieu, je ne vous verrai plus.
+Au moins si quelquefois en passant dans nos plaines,
+En visitant nos bois, nos grottes, nos fontaines,
+Le souvenir d'Ergaste, et sa tendre amitié,
+Trouvent dans votre coeur un reste de pitié,
+Donnez quelque soupir à ma triste mémoire :
+Dites, vous le pouvez, sans blesser votre gloire,
+Dites-vous quelquefois, songeant à son malheur,
+Ergaste m'aimait tant, qu'il mourut de douleur.
+Pour la dernière fois, adieu, belle Bergère.
+
+Non, Bergère, je pars, en vain vous m'arrêtez.
+
+Pour comble de rigueur, m'ôterez-vous Licaste ?
+
+Non, non, d'un tel discours épargnez-moi l'ennui.
+Licaste fera mieux de vous parler de lui.
+Et pour rendre sa vue encor plus agréable,
+Adieu ; j'ôte à vos yeux celle d'un Misérable.
+
+      Assuré de ta foi
+J'ose te confier...
+
+La feinte a réussi ; la jeune Lisimène
+Pleine de son erreur, va rompre avec Silène...
+Mais hélas !
+
+Tu vois ce qu'a produit l'adresse de ma Soeur ;
+Un coup d'oeil d'une Fille en Berger déguisée,
+Fait plus, que tout l'effort de mon âme embrasée.
+J'ai souhaité de voir que sensible à son tour,
+Sans en être jaloux, elle prit de l'amour :
+Son erreur a produit un effet favorable,
+Mais c'est un autre enfin qui lui paraît aimable.
+Quel que soit mon espoir, je rougis quand je vois
+Que ses premiers soupirs n'ont pas été pour moi.
+Dût-elle après la Soeur soupirer pour le frère,
+Je n'ai pas le premier la gloire de lui plaire ;
+Et le premier soupir pour les coeurs délicats,
+A des douceurs, Philis, que les autres n'ont pas.
+C'est pour un Malheureux trop de délicatesse.
+Connaissant mon dessein, tu peux par ton adresse...
+
+      Confus et misérable,
+J'allais m'abandonner au chagrin qui m'accable :
+Mais le bonheur d'un frère a suspendu mon mal.
+Vous avez tant d'amour pour un si cher Rival...
+
+Donnez-moi le loisir...
+
+      Hé quoi, l'ignorez-vous ?
+Vous aimez.
+
+L'Amour mêle à ses maux tant de biens, tant de joie...
+
+Avec ce nom au moins je suis sûr de vous plaire.
+Pauvre Bergère !
+
+L'Hymen dessous ses lois vient de vous engager,
+Et je crains bien enfin que votre obéissance...
+
+Mais ne craignez-vous point le pouvoir d'une Mère ?
+
+Ah Bergère, je sais par quelle violence...
+
+Je ne viens point ici braver votre douleur ;
+Je vous plains, et connais le mal d'un jeune coeur,
+Que malgré son amour on force à l'Hyménée.
+
+Malgré toutes ces lois, il ne tiendra qu'à vous
+De rompre cet Hymen qui vous rend misérable.
+Je viens de voir Silène, et le mal qui l'accable
+À son âme troublée inspire un seul moyen
+Pour servir promptement votre amour et le sien.
+Le temps presse, et demain ce triste Hymen s'achève.
+
+      Il faut qu'on vous enlève,
+Il faut vous dérober à l'injuste pouvoir,
+Qui pour ce triste Hymen presse votre devoir.
+
+Il faut prendre Licaste, ou s'enfuir avec lui.
+
+Moi.
+
+      Qui donc ? J'entends votre surprise.
+
+Ah servons à son gré cette jeune Cruelle.
+
+Tu vas perdre Silène, et demain est le jour...
+
+Je te promets Tirsis, songe à finir ma peine,
+Et sans t'embarrasser d'un si prompt changement,
+Ne songe, chère Soeur, qu'à cet Enlèvement.
+Le jour qui va finir, oblige la Bergère
+D'aller de son Troupeau rendre compte à sa Mère.
+
+      Hé quoi, ne sais-tu pas
+Comme on punit ici ces sortes d'attentats ?
+Ton Sexe excuse en toi ce crime charitable,
+Qui me serait mortel, si j'en étais coupable.
+Daigne songer, ma Soeur, qu'en toi ce grand forfait,
+Sans en craindre la peine, aura tout son effet.
+
+Cependant je perds tout, en perdant mon amour.
+Tirsis doit excuser...
+
+      Il faut pour ce dessein
+Voir Silène, emprunter son secours et sa main.
+Toi, sans plus différer, cours après la Bergère,
+Vante-lui ton amour, et calme sa colère.
+
+      J'aurai le soin de le désabuser,
+Je ferai ce qu'il faut, va, n'en sois point en peine.
+Le temps presse, il est tard, je vais joindre Silène.
+
+De grâce, écoutez-moi ; calmez votre colère.
+
+      Que je veux aujourd'hui
+Et vous livrer mon frère, et vous venger de lui,
+Si vous voulez donner Lisimène à ma flamme.
+
+Non, non, je vous réponds encor de son honneur ;
+Je crains peu l'attentat d'un pareil Ravisseur.
+
+Quoi qu'il en soit, Climène, enfin donnez-la moi,
+Et je mets dans vos mains l'amant de Lisimène.
+
+Mais vous voulez peut-être, en flattant mon amour...
+
+Non, sitôt qu'il sera convaincu de son crime,
+À ce juste courroux je livre sa victime :
+J'abandonne Licaste aux rigueurs de la Loi.
+Un frère criminel est indigne de moi.
+Je vais vous l'amener.
+
+      Non, non, je vous l'amène
+Ce malheureux Objet d'un trop juste courroux :
+Mais pour le prix des jours que je livre à vos coups,
+Vos serments m'ont donné la Beauté que j'adore,
+Vous me l'avez juré.
+
+Le voici.
+
+      En m'épousant, vous pourrez tout savoir.
+Me pardonnerez-vous l'amoureux stratagème ?
+
+Le voilà devant vous.
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lisimene
+
+Hé quoi, n'êtes-vous pas aussi muet que moi ?
+On me marie, hé bien je vous donne ma foi.
+Mais vous qui m'épousez avec tant de contrainte,
+Vous allez obéir sans murmure et sans plainte.
+
+Hélas ! Suis-je d'un âge à régler mon destin ?
+Ma Mère fait un choix, que lui dirai-je enfin,
+Si lorsqu'on m'entretient d'époux, de mariage,
+À peine je comprends le sens de ce langage ?
+Quand on parle d'époux, je n'entends qu'à demi,
+Si c'est un Compagnon, un amant, un ami,
+Un Maître qui mérite ou ma haine, ou ma flamme,
+Quel nom est le plus doux ou de Fille, ou de Femme ;
+Si le joug de l'Hymen est pesant, ou léger ;
+S'il faut s'en réjouir, s'il faut s'en affliger.
+Je vois tantôt pleurer nos Femmes et nos Filles ;
+Tantôt un doux repos régner dans les Familles ;
+Pour et contre l'Hymen j'entends tout ce qu'on dit :
+Ces différents discours partagent mon esprit,
+Et rendent comme moi nos Filles incertaines.
+Chaque état a ses soins, ses douceurs, et ses peines ;
+Je vois de bons Maris, et j'en vois de fâcheux ;
+Le nom de Fille est doux, et quelquefois honteux ;
+On me dit qu'il est beau, quand la perte en est prompte ;
+Quand la garde en est longue, il fait un peu de honte :
+Ainsi n'osant choisir en de périls si grands,
+Je me laisse conduire au choix de mes Parents.
+
+Non. Ergaste en effet me voyait tous les jours.
+Il a le coeur bien fait, l'esprit doux et facile ;
+J'avais pour son mérite une estime tranquille,
+Et ce n'est qu'au moment qu'on me donne un époux,
+Qu'il semble que mon coeur l'aime un peu plus que vous.
+Dans ma sincérité voyez mon innocence.
+Mais vous, si j'avais part à votre confidence,
+Vous ne cacheriez plus le mouvement secret,
+Qui vous fait accepter cet Hymen à regret.
+Télamire...
+
+Mais puis-je résister aux ordres de ma Mère ?
+Je n'aime pas assez, pour vouloir lui déplaire.
+
+Non, je ne mourrai point.
+
+      Il le faut bien, Silène.
+
+Peut-être, car enfin je ne le puis nier ;
+Ce galant appareil, ces Chansons, cette Fête,
+Ces fleurs...
+
+Mais je suis sans amour, je vous le dis encore.
+
+Si j'aime, au moins je sens que je ne vous hais pas.
+Un Mari comme vous...
+
+Rompez donc, s'il se peut, ce triste mariage.
+
+Mais que votre coeur brûle pour Télamire.
+
+      Dites-lui donc que vous me haïssez.
+
+Je n'aime, ni ne hais, comme vous le voulez.
+
+L'art de dissimuler, n'est pas d'une Bergère.
+
+Adieu, Berger ; s'il n'est d'autre secours pour vous,
+Je vous plains, et crains bien de vous voir mon époux.
+
+      Qu'est-il donc devenu
+Cet aimable Étranger, ce charmant Inconnu ?
+Ne le verrai-je plus ? C'est en quittant Silène
+Que j'ai vu ce Berger sur la rive prochaine.
+
+      Évitons son abord.
+
+Voici notre Berger, Philis, j'en suis charmée.
+Ah que je l'aimerais, si j'en étais aimée !
+
+Ergaste, vous savez que le choix de ma Mère
+M'a donnée à Silène, il faut la satisfaire.
+Si Lisimène avait le choix de son époux,
+Je vous l'ai déjà dit, elle serait à vous.
+La raison et le temps vous feront voir sans peine
+Le peu que vous perdez, en perdant Lisimène.
+Je voudrais bien connaître un Berger si charmant.
+Je n'en puis détourner mes yeux un seul moment.
+
+      Je tremble
+Et n'oserais jamais... Tu peux mieux ce me semble...
+
+Ne vous verra-t-on plus ni vous, ni votre frère ?
+
+Laissez-nous votre frère au moins, si vous partez.
+
+Licaste quelquefois me parlerait d'Ergaste.
+
+Je n'en suis pas la cause, et je plains son malheur.
+Puis-je ne pas vouloir tout ce que veut ma Mère ?
+
+Moi, je ne change point, je suis toujours la même.
+
+      Oui, même encor je l'aime.
+Mais hélas ! Quel amour ! S'il le faut comparer
+À celui que vos yeux viennent de m'inspirer !
+Quelquefois près de lui je sens quelque faiblesse ;
+Mais souvent je me sens oublier ma tendresse.
+Ses larmes rarement m'excitent à pleurer ;
+Ses soupirs ne m'ont point appris à soupirer.
+Dans un de vos regards je vois plus de lumière,
+Plus d'appas que n'en ont tous ceux de votre frère.
+Vos yeux m'ont inspiré je ne sais quoi de doux
+Que mon coeur n'a jamais senti qu'auprès de vous,
+Et qu'avant que vous voir je n'avais pu comprendre.
+Un moment près de vous vient de m'en plus apprendre
+Qu'auprès de mon amant le plus long entretien.
+
+      Si je m'y connais bien,
+Je sens un mouvement si nouveau, qu'il me semble
+Jusqu'ici n'avoir rien senti qui lui ressemble.
+Vous, qui sans doute avez les yeux plus éclairés,
+Vous-même, apprenez-moi ce que vous inspirez.
+Il me souvient qu'un jour une Bergère atteinte
+D'un mal, qu'on nomme Amour, en parlait avec crainte,
+Hésitait, se troublait, en voulant s'exprimer,
+Ignorait, en aimant, ce que c'est que d'aimer.
+Voilà comme je suis, Berger, est-ce que j'aime ?
+Car enfin ne pouvant me connaître moi-même,
+Je n'ose me fier à ce coeur interdit,
+Qui vous parle en aveugle, et ne sait ce qu'il dit.
+Tout ce que je connais, ou que je crois connaître,
+C'est que plus je vous vois, et plus vous faites naître
+Un violent désir de garder près de moi,
+D'admirer, et de voir toujours ce que je vois.
+
+Non, j'aimerai toujours le plaisir que je sens,
+Je veux toujours vous voir, et mon âme ravie,
+Quoi qu'il puisse arriver, n'en peut perdre l'envie.
+On se lasse de voir les objets les plus beaux,
+Le vert de nos gazons, le cristal de nos eaux,
+Nos jeux les plus galants, et les plus belles choses ;
+On se lasse de voir le Soleil et les Roses.
+Mais lorsque je vous vois, je ne puis concevoir
+Que je puisse jamais me lasser de vous voir.
+Faites, mon cher Berger, que toujours je vous voie
+Et daignez, s'il se peut, m'assurer cette joie...
+
+Ne vous verrai-je plus, s'il devient mon époux ?
+
+Pour jamais ! Quel Hymen si cruel, si barbare ?
+Moi cesser de vous voir ! Point d'Hymen, point d'époux.
+
+      Me le conseillez-vous ?
+Vous parlez pour Ergaste, et lui seul vous engage...
+
+Pourquoi le craignez-vous ?
+
+M'aimeriez-vous, Berger ? Vous ne répondez pas.
+
+Et moi je ne crains rien, ah j'aime plus que vous.
+
+Vous me connaissez mal.
+
+Ah je jure...
+
+Mais cette différence est en votre faveur.
+Je la vois dans vos yeux, je la sens dans mon coeur.
+Mais j'aperçois Silène, ah fuyons ; il s'avance.
+
+Sa présence vous trouble, et vous met en courroux.
+
+      Il craint Silène. Ah Licaste est jaloux.
+
+Hélas !
+
+Mon Berger est si loin, que j'ai peine à le voir.
+C'est pour une autre fois. Adieu.
+
+Ah que j'aime à vous voir encore parmi nous ;
+J'ai craint de voir partir votre frère avec vous :
+J'en mourrais de douleur.
+
+Oui sans doute pour lui mon amour est extrême.
+Que fait-il ? Que dit-il ? Est-il bien vrai qu'il m'aime ?
+Vous parle-t-il de moi d'un air fort empressé ?
+Suis-je belle à ses yeux ? Où l'avez-vous laissé ?
+
+      Eh ! Quelle est mon envie
+De revoir l'ennemi du repos de ma vie ?
+Depuis que je l'ai vu, je sens je ne sais quoi,
+Un charme, un sort fatal, qu'il a jeté sur moi.
+Sans lui tout me chagrine, et loin de sa présence
+Tous les moments sont longs à mon impatience.
+Pour chasser mes ennuis, en vain de toutes parts
+Sur des objets divers je porte mes regards ;
+Tout ici de Licaste exprimant quelque image,
+Tout me le fait aussi souhaiter davantage.
+Je porte en même lieu mes désirs et mes pas,
+Et je le cherche même où je sais qu'il n'est pas.
+Et puis de lassitude, accablée, abattue,
+Je cherche le repos, et le repos me tue.
+D'où vient tout ce tourment ?
+
+      Quoi, l'Amour que je croyais si doux...
+
+Sans doute, et mon Berger, pourvu que je le voie,
+Réparera d'abord tout le mal qu'il m'a fait.
+Je verrai mon Berger, mon coeur est satisfait.
+Je sens à ce penser que mon mal diminue.
+Un regard de ses yeux, un moment de sa vue ;
+Mais que dis-je, un regard ? Déjà ce seul espoir,
+Ce souvenir me charme avant que de le voir :
+Même quand je me sens ici près de son frère...
+
+      Hé quoi, vous me plaignez, Berger ?
+
+Non, Berger, on m'a dit que l'Amour m'en dispense,
+Que l'Amour ne vit point sous le pouvoir d'autrui,
+Et rompt, quand il lui plaît, tout ce qu'on fait sans lui.
+
+Je ne crains rien depuis que j'aime votre frère.
+Licaste a des appas... Laissez-moi librement
+Seule avec ma Philis parler de mon amant.
+Adieu donc. Grâce aux Dieux, l'amour de Lisimène
+Fait un heureux obstacle à l'Hymen de Silène.
+
+Philis, n'est-il pas vrai que mon Berger est beau ?
+As-tu bien remarqué certain charme nouveau...
+Tous les autres Bergers n'en ont point de semblable,
+Une grâce touchante, un air tendre, agréable...
+
+Quel est donc ce défaut que je ne connais pas ?
+
+Tu connais mal l'Amour.
+
+Quel est cet Étranger ?
+
+      Il me sera doux
+Cet avis, quel qu'il soit, si je le tiens de vous.
+
+J'estime votre zèle, officieux Berger,
+Et je crois qu'à l'Hymen sitôt vous engager,
+Est une tyrannique et bizarre coutume.
+Mais l'Amour en pourrait corriger l'amertume ;
+Et je pense, Berger, que l'Hymen est bien doux,
+Quand l'Amour de sa main nous présente un époux.
+
+Il me semble pourtant que le blond Hyménée
+A des plus belles fleurs sa tête couronnée,
+Que la foule est toujours au pied de ses autels,
+Et qu'il est le plus doux de tous les Immortels,
+
+Vous faites de l'Hymen une image effroyable ;
+Mais joint avec l'Amour, il est plus agréable.
+Même je vous dirai que Philis vit un jour
+En songe, près de moi, l'Hymen avec l'Amour.
+Elle les vit tous deux tels qu'on nous les figure,
+Tous deux de leur rencontre admirant l'aventure,
+L'Amour semblait pleurer, l'Hymen était rêveur.
+Puis s'entreregardant d'un air doux et flatteur,
+L'un faisait à l'Hymen un présent de ses armes,
+Tandis que de l'Amour l'autre essuyait les larmes.
+Consultant sur ce songe un Berger curieux,
+L'on me dit que ce songe était mystérieux,
+Et marquait que j'aurais un jour cet avantage
+D'associer l'Amour avec le mariage.
+Je dois vous avouer, à ne vous rien celer,
+Que je connais trop peu l'Hymen pour en parler :
+Mais pour l'Amour, je pense un peu mieux le connaître,
+Quoiqu'à peine en mon coeur il commence de naître ;
+Et je sens, sans pourtant savoir bien ce que c'est,
+Qu'il me charme en naissant, que rien ne m'en déplaît.
+Il est vrai que d'abord j'ai senti dans mon âme
+Quelques troubles mêlés aux plaisirs de ma flamme ;
+J'ai soupiré, pleuré ; mais ces soupirs, ces pleurs,
+Sont suivis, ou mêlés de secrètes douceurs.
+Enfin de quelques maux dont l'Amour soit la cause,
+L'Amour semble à mon coeur une si douce chose,
+Que je ne puis jamais le craindre, ou le blâmer :
+Je sens qu'il est si beau, si naturel d'aimer,
+Et surtout quand je vois le beau Pasteur que j'aime,
+Puis-je ne pas aimer, si j'aime l'Amour même ?
+
+      Ah je vois votre erreur,
+C'est avec cet époux que l'Hymen vous fait peur.
+Ce Berger aime ailleurs, et j'ai lieu de me plaindre
+D'un Hymen sans amour où l'on veut nous contraindre.
+Le voyant prévenu, peut-être venez-vous
+Parler contre l'Amour, pour m'ôter cet époux.
+Mais quand vous connaîtrez le Berger adorable...
+Il paraît.
+
+L'Amour vous déplaît-il, en voyant ce Berger ?
+
+Venez, Berger, venez, et par votre présence
+Soutenez mon amour, et prenez sa défense.
+Ce Berger si bien fait, hélas ! Le croiriez-vous ?
+Ce Berger qui paraît si galant et si doux,
+Parle contre l'Amour, lui déclare la guerre,
+Et veut par ses discours le bannir de la terre :
+Il me dit que l'Amour est un lâche, un flatteur,
+Un Dieu qui promet tout, et n'est qu'un imposteur.
+Télamire sous le nom de Licaste, à Silvanire.
+Quoi, Berger, à l'Amour portez-vous tant de haine ?
+Je veux parler pour lui.
+
+      N'en prenez pas la peine,
+Il ne faut que vous voir pour le justifier ;
+Un seul de vos regards m'a fait tout oublier.
+
+Avouez que ses yeux, son air, tout son visage,
+Sur les plus beaux Pasteurs lui donnent l'avantage.
+Ma Mère me pressant de prendre un autre époux,
+Dois-je obéir ? Parlez, Berger, qu'en croyez-vous. ?
+Quoi, vous ne dites rien ? Parlez.
+
+Vous voulez vous dédire en faveur de Silène ?
+
+Vous blâmiez mon Hymen, vous louez mon amour.
+
+Mes larmes fléchiront le courroux de ma Mère.
+Quel est ce changement ? Quoi, vous ne dites rien ?
+Il blâme votre amour, en condamnant le mien.
+Ah cruel, vos discours ont étonné sa flamme,
+Et votre changement a passé dans son âme.
+Ne craignez rien, Berger, malgré lui, malgré tous,
+Je vais fléchir ma mère, et lui parler pour vous.
+
+Non ; mais ne m'ôtez pas, de grâce, ce que j'aime ;
+Silène est fort aimable, et je ne le hais pas :
+Mais si vous aviez vu, Licaste... Quels appas !
+Quelle douceur ! Quels yeux ! Quelle voix ! Quel langage !
+
+Je n'ai vu que Licaste, en faut-il davantage ?
+Quand on voit un Berger si charmant et si beau,
+Hélas ! Regarde-t-on ses biens et son Troupeau ?
+La terre de Silène où toute chose abonde,
+Qu'arrose l'Érymanthe, et qu'il rend si féconde,
+Serait moins précieuse, et plus à négliger,
+Qu'un petit coin de terre où serait mon Berger.
+
+Pourquoi vous fâchez-vous ?
+
+Je sais ce qui vous plaît, de quoi vous plaignez-vous ?
+J'épouserai Silène, en gardant ce que j'aime.
+
+      Silène en usera de même ;
+Et sans que par l'Hymen nos coeurs doivent changer
+Il aura sa Bergère, et j'aurai mon Berger.
+
+Me faites-vous, ma Mère, un crime de l'amour ?
+On aime innocemment les fleurs, l'astre du jour,
+Et j'ai pour mon Berger un amour de la sorte.
+Si mon ardeur pour lui me semble un peu plus forte,
+C'est que les Dieux l'ont fait, pour donner de l'amour,
+Plus charmant que les fleurs, et plus beau que le jour :
+Mais avec cet amour ne vouloir que lui plaire,
+Le voir, et lui parler, est-ce un crime, ma Mère ?
+
+A-t-on de ce qu'on aime autre chose à prétendre ?
+
+Vous vous trompez ; sitôt qu'on rencontre ses yeux,
+Ils inspirent la joie, et je m'en trouve mieux.
+
+      Quoi, m'ôter sa présence ?
+Ma Mère, qu'ai-je fait qui puisse mériter
+Qu'on m'ôte le seul bien que je puis souhaiter ?
+À tout ce que votre ordre ou mon devoir m'appelle,
+Suis-je pas tous les jours prompte, exacte, et fidèle ?
+Je charme vos ennuis par mille chants nouveaux ;
+Mon florissant troupeau passe tous les Troupeaux ;
+Nul n'entend mieux que moi le soin des Bergeries,
+Je sais déjà quelle herbe infecte nos Prairies.
+On me voit à propos, et d'un soin sans pareil,
+Partager aux brebis l'ombrage et le Soleil.
+Aussi pour m'exciter par l'espoir du salaire,
+J'ai souvent autrefois ouï dire à mon Père,
+Que j'aurais de grands biens un jour à partager.
+Je vous quitte de tout ; laissez-moi mon Berger.
+
+Il n'est rien qui me puisse empêcher de le voir.
+Mère cruelle, hélas ! Philis, quelle défense !
+Je perds tous mes plaisirs, si je perds sa présence.
+Nos Bergers par leurs chants ne cessent d'exprimer,
+Que rien n'est si permis et si doux que d'aimer ;
+Que tout ce qu'on entend d'Oiseaux dans ce Bocage
+Ne chante que d'amour, et que c'est leur langage.
+Que ne me permet-on d'aimer selon mon choix,
+Comme font chaque jour les Oiseaux dans nos Bois.
+Ont-ils reçu du Ciel cet heureux avantage
+De choisir des amants sous un sombre feuillage,
+Tandis que nos Parents, jaloux de nos plaisirs,
+Choisissent nos amants au gré de leurs désirs ?
+Vois quel sera le fruit d'un ordre si sévère.
+Rien ne m'était si doux, si sacré que ma Mère :
+Cependant aujourd'hui, s'il lui faut obéir,
+Ce nom si cher, si saint, je crains de le haïr.
+Dis-moi, pourquoi faut-il qu'une flamme si belle
+Aux yeux de mes Parents paraisse criminelle ?
+
+Est-ce un crime pour eux qu'un amour légitime ?
+Et toutes les vertus ne valent pas ce crime :
+L'amour est le seul bien que l'on doit estimer ;
+J'ai commencé de vivre, en commençant d'aimer.
+
+      Ah Philis, il n'est obéissance,
+Il n'est Dieux, ni Parents, ni respect, ni devoir,
+Qui puisse m'arracher au plaisir de le voir.
+
+      Ah contrainte inhumaine !
+Je ne puis, et vers lui je ne sais quoi m'entraîne.
+
+Mais Ergaste s'avance, il faut bien arrêter.
+
+Venez prendre, Berger, une douce vengeance
+D'une Bergère ingrate à vos tendres soupirs ;
+J'ai fait tous vos malheurs et tous vos déplaisirs ;
+J'ai payé votre amour d'une rigueur extrême ;
+Et vous voyez, Berger, qu'on m'ôte ce que j'aime.
+
+À perdre tout mon bien je me vois condamnée.
+Votre frère vous venge, il a su me charmer,
+Et c'est là le Berger qu'on me défend d'aimer.
+Quelle loi, quel devoir, quelle rigueur extrême
+Ne veut pas qu'un chacun vive avec ce qu'il aime ?
+Est-il rien de si fort que l'amour parmi nous ?
+
+Eh bien, que faut-il faire ?
+
+M'enlever ! Quoi, quitter ma Famille, ma Mère,
+Mon cher Troupeau, Philis ma Compagne si chère ?
+
+Fuyons ; qu'on me dérobe à ce mortel ennui ;
+Licaste fait lui seul le bonheur de ma vie :
+Je trouve avecque lui ma Mère et ma Patrie :
+J'abandonnerais tout pour un Berger si beau,
+Qui me tient lieu d'amis, de Parents, de Troupeau.
+Mais qui de vous voudra tenter cette entreprise ?
+
+      Vous, Berger ?
+
+Votre frère suffit pour cet Enlèvement,
+Et j'aurais moins de peine à suivre cet amant.
+Mais il ne s'offre point, et son ingrat silence...
+
+Vous me laisseriez fuir, Ingrat, avec un autre ?
+Ah ! Mon amour rougit des faiblesses du vôtre.
+Vous ne m'aimez donc point ? Votre légèreté
+M'abandonne sans peine à sa fidélité.
+Ah ! Qu'un Berger tantôt m'avait bien avertie
+Que l'Amour est cruel et plein de perfidie !
+Et que tout ce qu'il donne et promet de douceurs,
+Se change en amertume, et coûte bien des pleurs !
+Si comme toi ton frère avait l'art de me plaire...
+Mais non, je te hais trop, pour estimer ton frère,
+J'épouserai Silène, et j'en fais plus d'état
+Que de toi, que de lui, le frère d'un ingrat.
+
+Voilà les Ennemis d'une flamme si belle.
+Ah que votre rencontre est un secours bien doux,
+Pour m'aider à combattre un injuste courroux.
+
+Je l'ai donné, ma Mère, en dépit de moi-même.
+Peut-on pas se donner sans crime à ce qu'on aime ?
+En fuyant avec lui, j'ai craint de vous fâcher,
+Philis même a pris soin de me le reprocher :
+Mais un charme invincible a combattu ma Mère,
+Et m'a fait oublier que j'allais vous déplaire.
+Que j'allais vous déplaire ! Eh pourquoi m'alarmer ?
+Ne savez-vous pas bien ce que c'est que d'aimer ?
+Mais quand bien vous pourriez me traiter de coupable
+Licaste est-il haï, parce qu'il est aimable ?
+Le beau Pasteur que j'aime, et que vous haïssez,
+Se dérobe au courroux dont vous le menacez.
+Quel mal lui voulez-vous, pour menacer sa vie ?
+J'ai suivi mon amant, il ne m'a point ravie.
+Rassurez mon Berger contre tant de rigueur.
+C'est un choix que j'ai fait, non pas mon Ravisseur.
+
+Qu'on rompe cet Hymen, et que j'en sois punie,
+Si j'ai rien oublié de la cérémonie.
+J'ai vu plus d'un Hymen, ma Mère, parmi nous,
+Et sais ce qui se passe en des liens si doux.
+Les deux amants aux pieds de la chaste Immortelle
+Se donnent par leurs mains une foi mutuelle ;
+Puis au bruit des Concerts et des Chants amoureux,
+Dans le Lit nuptial on les mène tous deux.
+Voilà ce qui se passe alors qu'on se marie,
+Et comme parmi nous l'Hymen se justifie.
+Ainsi Licaste et moi suivant les mêmes Lois,
+Le hasard nous offrant un Temple dans un Bois,
+Au pied d'un vieil Autel, d'une ardeur mutuelle,
+Nous nous sommes jurés une amitié fidèle.
+Ceux qui m'accompagnaient et secondaient mes voeux,
+Ont par quelques chansons célébré ces beaux noeuds ;
+Puis la nuit survenant, une route secrète
+Sous un feuillage épais nous offre une retraite,
+Où pour se reposer, l'art de quelques Pasteurs
+Avait fait comme un Lit de gazon et de fleurs.
+Et nous couchant tous deux...
+
+      Ma Mère,
+L'Hymen le veut ainsi, pourquoi tant de colère ?
+Tout ce qui s'est passé cette nuit entre nous,
+Est digne de pitié, non de votre courroux.
+D'abord, pour m'expliquer sa joie et sa tendresse,
+Licaste m'entretient, me flatte, et me caresse ;
+Et moi, pour l'imiter, pleine de mon amour,
+Je voulais en parler, et veiller jusqu'au jour.
+Lui, bien loin de répondre à l'ardeur qui me touche,
+Il s'endort, et les mots lui meurent dans la bouche ;
+Il combat le sommeil, mais c'est si lâchement,
+Qu'il y succombe enfin, et dort tranquillement ;
+Et ce profond sommeil vous fait bien voir, ma Mère,
+Qu'il est plein d'innocence, et qu'il ne m'aime guère.
+
+C'est Licaste, c'est lui, mais c'est une Bergère.
+
+Et j'admire l'effet d'un si grand changement :
+Quand je perds tout d'un coup une erreur agréable,
+Je vous en aime moins, Ergaste est plus aimable.
+Et ne puis deviner pourquoi nous n'avons pas,
+Moi même ardeur pour vous, et vous mêmes appas.
+
+Vous dois-je moins aimer, quand vous êtes Bergère ?
+Non, non, mais vous savez rompre, à ce que je vois.
+Le sort qu'hier en passant vous jetâtes sur moi.
+Rendez-moi mon amour ou faites-moi comprendre
+Ce que vous devez être, afin de me le rendre.
+
+      Faites-moi concevoir,
+Ergaste...
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_telamire
+
+Sous le nom de Licaste, et sous ce vêtement,
+Je viens pour voir Silène auprès de Lisimène.
+Mon frère, je ne sais si c'est amour, ou haine ;
+J'ai peine à démêler encor ce que je veux.
+Tantôt en arrivant je les ai vus tous deux,
+Lisimène m'a vue, et je pense, mon frère,
+Que j'ai sous cet habit le bonheur de lui plaire.
+Nous pourrons sur ce point bientôt nous éclaircir.
+
+Croyez-vous que d'abord le volage Silène
+En sortant de mes fers, s'engage à Lisimène ?
+Pensez-vous qu'elle l'aime ?
+
+      Cependant on m'a dit
+Que la Bergère était sensible à votre peine.
+
+Mais quand vous avez su ce triste mariage,
+Vous aviez pour le rompre un puissant avantage :
+Vous saviez qu'elle aimait Silène moins que vous.
+
+Ainsi sans nul amour, l'innocence inhumaine
+Nous ôte l'espérance, et m'enlève Silène ?
+
+Oui, je le négligeais quand il était fidèle,
+Et ne puis consentir à sa flamme nouvelle ;
+Son changement m'alarme, et ce volage amant,
+Alors que je le perds, me paraît plus charmant.
+Si j'étais sans amour, une jalouse envie
+Veut ôter ma conquête à qui me l'a ravie ;
+L'Amour fait les jaloux, et peut-être à son tour
+Un peu de jalousie a fait naître l'Amour.
+J'aime enfin, et l'Amour lui seul m'a travestie
+Pour venir avec vous rompre cette partie.
+
+Mais si gardant pour moi cette vaine tendresse...
+
+Depuis plus de deux ans rappelé dans ses lieux,
+Ne pouvant s'assurer de la foi de ses yeux,
+Peut-il sous cet habit connaître Télamire ?
+
+Bergère, vous voyez jusqu'où va sa douleur.
+
+J'ai vu plus d'une fois une jeune Bergère,
+Malgré tous ses Parents, conserver son Berger,
+Et fuir plus que la mort la honte de changer.
+
+Mais vous aimiez Ergaste ?
+
+Qu'avez-vous donc appris ?
+
+D'abord de nouveaux traits votre vue est charmée ;
+Mais à ce faible éclat votre âme accoutumée,
+Se guérira bientôt de l'erreur de vos sens.
+
+Mais Silène demain se marie avec vous.
+
+Bergère, cet Hymen pour jamais nous sépare.
+
+Rompez donc cet Hymen.
+
+Je crains autant que lui ce triste mariage.
+
+      J'aime, Bergère, hélas !
+
+Que vous dirais-je enfin ? Hélas ! Si je vous aime,
+Il peut de cet amour naître un désordre extrême.
+Je crains que vos Parents, que des Rivaux jaloux...
+
+Peut-être que vous-même inconstante et légère...
+
+      Vous changerez, Bergère.
+
+      Arrêtez, et ne jurez de rien.
+Trahirez-vous mon frère ? Ah si vous saviez bien,
+Instruite par l'Amour et par l'expérience,
+Entre mon frère et moi, quelle est la différence...
+
+Le voilà, le perfide ; évitons sa présence.
+
+Fuyons.
+
+Quelle raison vous rend l'amour si condamnable ?
+Pour condamner l'Amour, vous êtes trop aimable.
+Que ce Berger est beau !
+
+      Cet amour ne me tourmente guère.
+Vous connaître, c'est là toute ma passion.
+
+Heureux cent fois les lieux où vous prîtes naissance !
+Quel sujet vous amène en ce charmant séjour ?
+La curiosité, le hasard, ou l'amour ?
+Pardon, si je ne puis, en vous voyant paraître,
+Retenir le désir que j'ai de vous connaître :
+On voit peu de Bergers qui soient faits comme vous.
+Et malheur à tous ceux que vous rendrez jaloux.
+
+Mon sort avec le temps se fera mieux connaître :
+Je ne suis rien ici de ce que je dois être.
+Où j'aime, je voudrais qu'on m'aimât à mon tour,
+Et l'on m'aime en des lieux où je suis sans amour.
+
+      Ce transport est la marque certaine
+Que vous craignez en moi le bonheur d'un Rival.
+Sans doute vous l'aimez.
+
+Ergaste est un amant pour qui je m'intéresse.
+Silène était à craindre, et c'est vous seulement
+Que doit craindre aujourd'hui ce malheureux amant.
+
+Et moi, puisqu'il vous faut expliquer ma douleur,
+Je crains peu pour Ergaste, et crains tout pour sa Soeur.
+Dès lors que dans ces lieux elle vous voit paraître...
+
+Je la plains, et je sais l'art de la secourir.
+
+Mais ma Bergère aussi peut-elle pas attendre...
+
+Mais votre amie, enfin quand pourra-t-on la voir ?
+
+Elle est belle.
+
+Vous n'en sauriez parler avec plus d'avantage.
+
+Mais si de sa beauté, je suis trop curieux,
+Vous l'êtes peu, Berger, de celle qui vous aime.
+
+La mienne n'est pas loin, faites-moi voir la vôtre.
+
+La mienne a même envie, et même défiance :
+Pour l'assurer un peu, que la vôtre commence.
+Silène vient, je crains ses yeux et son amour.
+Adieu, nous nous verrons avant la fin du jour.
+
+J'ai cru que par justice, ou par reconnaissance,
+Vous deviez pour le prix de sa fidélité
+Ne confier qu'à lui ce qu'il a mérité.
+
+Moi quitter mon Berger, pour s'enfuir avec elle ?
+
+Vous ai-je pas instruit de mon nouvel amour ?
+Tirsis prend dans mon coeur la place de Silène.
+
+Enlevez-la vous-même.
+
+Je m'embarrasse peu du péril de ce crime :
+Mais je perds de Tirsis la tendresse et l'estime :
+Nous nous devons revoir avant la fin du jour.
+
+      Ô Dieux, l'étrange peine !
+
+      C'en est fait, enlevons Lisimène.
+
+Mais vous, voyez Tirsis, et pour m'excuser,
+Tâchez...
+
+Je vous trouve à propos, je brûlais de vous voir.
+
+      Que pouvez-vous savoir !
+
+      De grâce, parlez bas,
+Pour cet enlèvement ne vous emportez pas.
+J'entreprends cet effort en faveur de mon frère.
+
+Vous vous troublez.
+
+      Quoi ?
+
+Vous fille ! Ah mon amour !
+
+Non.
+
+      Je suis surpris de mon erreur.
+
+      À dire vrai, mon amour et le vôtre...
+
+      N'est pas fait l'un pour l'autre.
+
+L'un et l'autre plutôt se ressemblent trop bien.
+Adieu. Vous en saurez quelque jour davantage.
+
+Vous voyez devant vous ce lâche Ravisseur,
+Qu'on cherche et qu'on poursuit avec tant de chaleur,
+Sous l'habit de Berger, amante infortunée,
+À perdre mon amant me voyant condamnée,
+Voyant mon frère au point d'aller perdre le jour,
+J'ai voulu secourir mon frère et mon amour :
+Du sang et de l'amour vous savez la puissance,
+Pour eux tout m'a paru juste et plein d'innocence.
+Voilà ce que l'Amour fait en votre faveur,
+Pour réparer l'effet d'une injuste rigueur.
+
+Vous voyez les raisons de mon déguisement.
+
+Je ne suis pas Berger, voilà tout le mystère.
+
+Consultez cet amant.
+
+C'est lui-même.
+
+C'est Télamire ; ainsi nous nous trompions tous deux.
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvanire
+
+      C'est mon frère.
+
+Ne me découvrez point.
+
+Berger, vous me voyez, étranger, curieux,
+Que votre mariage attire dans ces lieux.
+
+      Je rends grâce à vos civilités.
+
+Ah laissez-moi chercher l'objet le plus aimable...
+
+      Ah ne le croyez pas,
+J'ai d'autres yeux que vous, et suis d'autres appas.
+
+Un si pressant souci m'oblige à vous quitter.
+
+      Rien ne peut m'arrêter.
+Adieu, je puis tantôt vous rendre ma présence.
+
+      C'est Lisimène,
+Et vous songez à rompre une si belle chaîne.
+
+      Comme fort loin d'ici
+Auprès d'un vieux Parent, le bien que j'en espère
+M'attache malgré moi par les ordres d'un Père,
+Je me cache en ces lieux sous ce déguisement ;
+Ou plutôt je me cache aux regards d'un amant,
+À qui je dois mon coeur pour le prix de la vie,
+Qu'un extrême péril sans lui m'aurait ravie,
+Sur les bords de l'Alphée où j'allai voir un jour
+Des Jeux qu'on célébrait à l'honneur de l'Amour,
+Arrêtant dessus l'eau ma vue et ma pensée,
+Sans songer au péril dont j'étais menacée,
+Deux Chevaux qui traînaient un Char sans Conducteur,
+Vers le bord où j'étais courraient avec fureur,
+Quand Damis leur offrant le fer de sa Houlette,
+La frayeur les saisit, et d'abord les arrête,
+Et se voyant pressés par un effort nouveau,
+Pour éviter le fer, ils s'élancent dans l'eau.
+Jugez par le péril de ma reconnaissance,
+Et voulant m'acquitter, voyez mon impuissance.
+Dans l'état où j'étais, presque morte de peur,
+J'inspire à ce Berger une tendre douleur :
+Mais des Pasteurs zélés une troupe accourue,
+Pour me rendre leurs soins, m'enlevant à sa vue,
+Lui-même à même temps se dérobe à mes yeux,
+Et son Père mourant le rappelle en ces lieux.
+De plus, un beau Pasteur, qu'on m'a nommé Licaste,
+Qu'hier auprès de ces lieux je vis avec Ergaste,
+M'a donné trop d'amour pour le pouvoir cacher.
+Je me cache à Damis ardent à me chercher ;
+Cet habit me dérobe à son amour extrême,
+Mais cet habit aussi me cache à ce que j'aime.
+Je voudrais me montrer aux yeux de mon Vainqueur ;
+Je voudrais me cacher à mon Libérateur.
+Mon frère, vous voyez l'embarras et la peine...
+
+Je ferai plus encor, pour vous tirer de peine.
+
+Elle parle à Philis.
+
+      Allez, laissez-moi faire.
+
+      Au bruit de vos beautés
+Vous voyez des Bergers venir de tous côtés
+Prendre part aux plaisirs d'une grande Journée,
+Célèbre par des Jeux, et par votre Hyménée.
+Pour moi je ne viens point, Bergère, dans ces lieux
+Imiter ces Bergers flatteurs, ou curieux ;
+Et je viens seulement.... Mais peut-être, Bergère,
+Mon zèle est indiscret, et pourrait vous déplaire.
+L'avis est important, mais...
+
+Je viens avec un coeur, qui pour vous s'intéresse,
+Pleurer votre beauté, plaindre votre jeunesse,
+Qu'aux rigueurs de l'Hymen on va sacrifier.
+Je sais qu'on vous dira, pour vous justifier,
+Que si l'Hymen de soi n'est jamais fort aimable,
+La Fortune, ou l'Amour, le rend fort agréable.
+Pour voir de ce conseil toute la trahison,
+Donnez-vous le loisir d'attendre la Raison,
+Et vous verrez alors quel est cet Hyménée
+Où si jeune et si faible on vous a condamnée.
+
+Vous l'oserai-je dire ? Avec tant de jeunesse,
+L'Amour n'est bien souvent qu'erreur et que faiblesse ;
+Et l'Hymen, fut-il fait par les mains de l'Amour,
+Bergère, croyez-moi, l'Hymen n'a qu'un beau jour.
+Vous voyez dans ces lieux Atys, Darmon, Acanthe,
+Cent autres dont l'amour autrefois si constante,
+Si pleine de respect, de zèle, et de douceur,
+Devient après l'Hymen, jalousie et fureur.
+L'amant sert quelque temps pour se rendre le Maître,
+Et ne paraît soumis que pour cesser de l'être.
+Le traître promet tout, et ce lâche flatteur
+Nous montre après l'Hymen, qu'il n'est qu'un imposteur.
+Mais surtout savez-vous combien le mariage
+Coûtent de déplaisirs aux Filles de votre âge ?
+Savez-vous que ce joug souffert avant le temps,
+Ravage plus de fleurs que n'en a le Printemps,
+Qu'il fait de vos amants des Tyrans légitimes,
+De ce qu'ils adoraient, d'innocentes Victimes ;
+Et qu'enfin ces beautés, ces roses, et ces lys,
+Ces trésors sont en proie à vos cruels Maris ?
+
+Ne vous y fiez pas ; le perfide Hyménée,
+Avec toutes ces fleurs dont sa tête est ornée,
+Est le cruel tyran de votre liberté,
+Le tombeau de l'amour, le fléau de la beauté.
+
+Aimez-vous tant Silène ?
+
+      En effet, il n'a point de semblable.
+C'est lui que vous aimez.
+      Voilà mon Étranger.
+
+      Vous saurez tout un jour.
+Cependant pour vous seul je fais grâce à l'Amour.
+
+      Ah ! Lisimène.
+
+L'Hymen ne se peut rompre, et demain est le jour...
+
+Il est vrai : mais je crains que Climène en colère...
+
+Je sers mal votre amour, et j'ai pu vous déplaire.
+Pardonnez...
+
+L'Alphée est mon pays, et Tirsis est mon nom.
+Le reste de mon sort est digne du silence.
+
+À ces discours flatteurs que pourrai-je répondre ?
+Ce que je viens de voir, ne sert qu'à me confondre ;
+Et quand aux yeux de tous vous avez tant d'appas,
+Vous faites des jaloux, et vous ne l'êtes pas.
+
+Quoi, vous n'aimez donc pas la jeune Lisimène ?
+Est-il vrai ?
+
+      Berger, est-ce un grand mal ?
+Si vous ne l'aimez pas, quelle douleur vous presse ?
+
+Le mal de votre ami, Berger, n'est guère à plaindre,
+Il n'a pour son amour d'autre Rival à craindre.
+
+Je n'ai pour la guérir, qu'à me faire connaître :
+Et s'il faut comme vous m'expliquer librement,
+Je plains une autre amante encor plus justement,
+Qui tantôt en passant a pris par votre vue
+Un charme dont son âme est si fort prévenue,
+Que je sais que jamais elle ne peut guérir.
+
+Que pour elle j'aurai de grâces à vous rendre !
+
+Tout, si sa guérison dépend de mon pouvoir.
+
+Honteuse d'avouer un feu qui vient de naître,
+Elle aura quelque peine à se faire connaître.
+
+      On le dit. Je ne vous dirai pas,
+De peur de rabaisser le prix de ses appas,
+Que vous voyez en moi son air et son visage.
+
+Lorsque vous la verrez, vous en jugerez mieux.
+
+Ma Bergère a pour vous une tendresse extrême ;
+Et sans presque songer à ce qu'on fait pour moi,
+Je suis tout occupé de ce que je lui dois :
+Mais enfin il est temps de nommer l'une et l'autre.
+
+Elle se veut montrer : mais n'osant présumer
+Que vous l'aimiez autant qu'elle ose vous aimer...
+
+Oui, je viens de la voir, et près d'elle, mon frère,
+J'ai vu le beau Pasteur, dont mon coeur est charmé,
+Que je vis sur ces bords, et qu'aussitôt j'aimai.
+Lisimène l'adore, et se rend à ses charmes.
+Ainsi pour votre amour vous n'aurez plus d'alarmes.
+
+      Vos voeux sont satisfaits :
+Mais je crois que les miens ne le seront jamais.
+
+Oui sans doute, et j'en tremble. Épousez-la mon frère ?
+
+      J'adore ce Berger.
+
+Si je perds ce Berger, je perds tout mon bonheur.
+
+      Que voulez-vous, mon frère ?
+
+Rebelle à nos Parents, parjure envers nos Dieux,
+Vous voulez vous charger de ces noms odieux ?
+
+Dois-je immoler ma flamme à ma reconnaissance ?
+
+Je connais notre père, il veut être obéi.
+Votre Hymen étant fait, en dépit de vous-même,
+Je serai sans rivale, et j'aurai ce que j'aime.
+
+Et pour vous attirer un reproche plus rude,
+Il saura vos desseins.
+
+Vous pourriez-vous, mon frère, empêcher d'obéir ?
+Votre Hymen est conclu. Lisimène est si belle...
+
+      Licaste est tout mon bien !
+Secourez mon amour.
+
+Mais Damis vient, adieu ; gardez-vous de lui dire...
+
+Le voici.
+
+Qu'entends-je ? Le perfide !
+
+Non, ingrat, je sais tout.
+
+Vous deviez pour le moins, pour éviter ma haine,
+Ne parler pas si haut, d'enlever Lisimène.
+Pourquoi me flattiez-vous d'un infidèle espoir ?
+Une amante fidèle, et que vous vouliez voir,
+Venait s'offrir à vous malgré sa retenue,
+Et par un autre amour votre âme prévenue,
+Vous parlez d'enlever...
+
+Ne saurait-il lui-même enlever sa Bergère ?
+Celle pour qui je parle, et qui brûle pour vous,
+Vous pourra-t-elle voir sans un dépit jaloux...
+Mais c'est trop se gêner, sachez que c'est moi-même.
+
+      Qui suis...
+
+      Celle qui vous aime !
+
+      Est-ce un si grand malheur ?
+
+      Qu'est-ce enfin ?
+
+Dites que la beauté que je vous ai tant vantée,
+Dans mes faibles appas est mal représentée.
+Jai forcé ma pudeur, Ingrat, pour mettre au jour
+Deux importants secrets, ma feinte, et mon amour.
+Et vous...
+
+Achevez dites tout.
+
+Quoi, votre sort est-il si différent du mien ?
+
+Tu caches tes mépris sous cet obscur langage ;
+Tu cours après une autre, et tu veux l'enlever,
+Ton crime est imparfait, il le faut achever.
+Mais je t'empêcherai de jouir de ton crime.
+Allons faire à Damis un aveu légitime :
+S'il aime ma beauté, c'est à lui de venger
+Ces malheureux appas que l'on vient d'outrager.
+Le voici qui paraît. Montrons-lui sa Bergère,
+Et d'un sort qu'il ignore ouvrons tout le mystère.
+
+Que cherchez-vous, Damis ?
+
+Si je vous faisais voir ce que vous cherchez tant...
+
+De ce que vous cherchez, ces traits et ce visage
+Ne vous offrent-ils point quelque imparfaite image ?
+
+Vous ne vous trompiez point.
+
+J'avouerai, j'aimais, peut-être j'aime encore,
+Et me devant à qui m'a conservé le jour,
+Je n'osais me montrer ingrate à son amour.
+Mais je m'explique enfin quand je me vois trahie,
+Ce n'était pas assez de vous devoir la vie,
+Je prétends aujourd'hui vous devoir encor plus :
+Je veux un grand service, et je crains un refus.
+
+Le Berger que j'aimais, aime une autre Bergère,
+Il la veut enlever ; Licaste cet ingrat
+Veut joindre à ses mépris cet indigne attentat.
+Si vous m'aimez, Damis, il faut servir ma haine
+Empêcher cet amant de ravir Lisimène.
+Si je vous dois la vie, il me sera plus doux
+De jouir par vos soins de mon dépit jaloux.
+
+Berger, je suis à vous, si sans rien ménager
+Vous prenez promptement le soin de me venger.
+
+      Oui, je l'aime, et ma flamme
+Met d'autant plus avant le dépit dans mon âme :
+Ma beauté méprisée augmente ma fureur,
+Et qui la vengera, s'assure tout mon coeur.
+
+      Il ne me suffit pas
+D'aller faire avorter ses lâches attentats :
+Je veux qu'il soit coupable, et goûter mieux la joie
+De voir qu'à son amour on enlève sa proie,
+Je veux qu'avec éclat son crime mis à jour,
+Ruine pour jamais l'espoir de son amour ;
+Et qu'enfin, pour combler le plaisir de ma haine,
+Sans jouir de son crime, il en souffre la peine.
+
+Quoi, pour être Bergère, en ai-je moins de coeur ?
+Et suis-je moins sensible à l'injure mortelle
+Que fait à mes appas un Berger infidèle ?
+
+Il unit pour jamais Licaste à sa Bergère,
+Et couronne à mes yeux ses perfides amours.
+Si d'un péril mortel vous sauvâtes mes jours,
+Si j'étais toute à vous par ma reconnaissance,
+Je ne dois rien à qui néglige ma vengeance.
+Ma vengeance sans vous trouvera quelque appui.
+Mon frère vient : allez consulter avec lui,
+S'il faut tout immoler aux intérêts d'un autre,
+Et s'il vaut mieux servir sa flamme que la vôtre.
+
+Et qu'ai-je à ménager, en perdant mon amant ?
+Loin de cacher ma feinte et ma flamme à mon Père,
+J'ai tout dit ; mon dépit cherche à se satisfaire.
+
+      Le perfide Berger
+Enlève Lisimène, ou plutôt elle-même
+En fuyant avec lui, m'enlève ce que j'aime.
+
+Non. Licaste adoré de la jeune Bergère,
+L'aime, et l'enlève enfin par l'aveu de son frère.
+
+C'est cela, Palémon, qui fait tout mon courroux.
+Hier au soir le trouvant qui parlait à son frère,
+Et qui lui promettait d'enlever la Bergère,
+Je crus, pour m'opposer à cet Enlèvement,
+Qu'il fallait sur mon Sexe éclaircir mon amant.
+J'apprends tout à ce traître, et son âme informée
+De mon déguisement, en paraît alarmée.
+Frappé de cet aveu, comme d'un grand malheur,
+Il tâche en me quittant, de cacher sa douleur,
+Par un discours obscur que je ne puis comprendre.
+Depuis l'ayant surpris près de tout entreprendre,
+M'offrant sous cet habit aux yeux de cet amant,
+L'Ingrat m'a tout promis, avec un faux serment.
+Il ravit Lisimène, et ma haine surprise
+A voulu, mais trop tard, rompre son entreprise.
+J'ai cru (voyez l'espoir de mes lâches désirs)
+Que cet habit étant plus propre à mes soupirs,
+Relevait la Beauté qu'il avait négligée.
+Ah ce dernier affront... Mais je serai vengée.
+Damis, de qui l'amour me sert avec ardeur,
+Ayant malgré la nuit suivi le Ravisseur,
+A rompu l'entreprise.
+
+Qu'il meure cet Ingrat, qui ne vit pas pour moi.
+
+Si j'en fais mon époux pour lui sauver le jour,
+Ma pitié me le donne, et non pas son amour.
+
+Ah je ne plains que trop ce charmant Infidèle,
+Mon amour prend déjà trop de pouvoir sur moi.
+Mais enfin à Damis tu sais ce que je dois ;
+Il me sert, il me venge, il me sauve la vie.
+
+Non, non, je ne veux point qu'une autre me ravisse
+La gloire d'empêcher que Licaste périsse.
+
+Il faut bien pour l'Ingrat se faire quelque effort.
+Oui, je l'épouserai pour lui sauver la vie :
+Ne crois pas que je l'aime après sa perfidie.
+Non ; mais je ne veux pas qu'en me manquant de foi,
+Entre les bras d'une autre il triomphe de moi.
+Ah j'aperçois Damis.
+
+Qu'est-il donc devenu ? Votre froide poursuite...
+
+Ils sont donc mariés ?
+
+Ah s'ils sont mariés, il faut qu'ils soient punis :
+Mais cependant bien loin d'avoir servi ma haine,
+Licaste par vos soins se dérobe à sa peine.
+Démentez, ou rompez un Hymen qui me perd.
+Vous l'osez publier, après l'avoir souffert.
+Vous prétendez sans doute, après ce mariage,
+Appuyé seulement de votre témoignage,
+Me dérober Licaste, et disposer de moi.
+Je ne me défends point de ce que je vous dois :
+Mais je ne vous dois rien, si Licaste l'épouse.
+
+Je vous le dis encor, je ne serai qu'à vous.
+Mais on ne m'obtient point, qu'en servant mon courroux.
+Je vais pour notre Hymen m'assurer de mon Père.
+Climène vient, adieu. Vous, songez à vous taire.
+
+Licaste est pris : on va presser son châtiment.
+Grâce, Bergers : sauvez ce malheureux amant ;
+Je ne puis voir périr, malgré sa perfidie,
+Pour un crime d'amour, une si belle vie :
+Je viens par mon Hymen empêcher son trépas.
+Qu'est-il donc devenu ? Serait-il mort ? Hélas !
+
+      Quoi, dans cet équipage ?
+
+      Je vois ses traits et son visage.
+
+Que vous m'avez coûté de pleurs, belle Bergère.
+Damis, je suis à vous, si j'ai l'aveu d'un Père.
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philis
+
+Voici ce pauvre Ergaste.
+
+Ergaste vous dira, demandez-lui...
+
+Je vous entends. Hé bien, je vais l'interroger.
+Vous peut-on demander quel est cet Étranger ?
+Son pays et son nom ?
+
+Il doit plaire sans doute à quiconque a des yeux.
+
+Dieux, que m'apprenez-vous ?
+
+      Je vous réponds de moi.
+
+      Qu'avez-vous ? Quelle est votre douleur ?
+
+Bien plus. J'ai remarqué que parmi ces attraits
+Il a de notre Sexe et la voix et les traits,
+Et qu'ayant comme nous la douceur en partage,
+Sur les autres Bergers il a quelque avantage.
+Mais un fort grand défaut gâte bien ses appas.
+
+Je trouve que sa flamme a peu de violence,
+Moins d'ardeur que la vôtre, et moins d'impatience.
+Je vous dirai bien plus ; quand il est parmi nous,
+Il affecte des soins et quelque ardeur pour vous :
+Mais vous regarde-t-il avec ces traits de flamme,
+Avec ces yeux perçants qui pénètrent une âme ?
+Votre fidèle Ergaste aime avec une ardeur...
+
+C'est la Loi des Mortels, qui trouvent imparfait
+Un choix qu'avec leurs yeux nos Parents n'ont pas fait.
+
+Licaste vient, allons, évitez sa présence.
+Votre mère...
+
+Hé de grâce, fuyez.
+
+Et c'est ce qu'en fuyant il vous faut éviter.
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
+
+      Quel caprice étrange
+Sur un Hymen conclu vous fait prendre le change ?
+Vous laissez Télamire aux rives du Ladon ;
+Vous voulez oublier, Berger, jusqu'à son nom ;
+Vous ne la nommez plus qu'ingrate, qu'inhumaine.
+
+Quoi, ne m'opposez-vous sur le choix d'une femme
+Qu'un défaut qui vous rend le maître de son âme ?
+Pouvez-vous condamner cette naïveté
+Où la Nature parle avec sincérité ?
+Refusez-vous un coeur jeune et plein d'innocence,
+Qui n'étant prévenu d'aucune expérience,
+Fait de son seul époux son conseil, son appui,
+Le livre à sa conduite, et n'écoute que lui ?
+Silène, croyez-moi, l'innocence de l'âge
+Serait un faible obstacle à votre mariage.
+De secrètes raisons qui n'osent voir le jour...
+
+      Qu'est-ce donc ?
+
+C'est donc là le secret que vous n'osiez me dire ?
+
+Rompez donc votre Hymen, ne vous contraignez plus.
+
+Soyez donc, s'il se peut, d'accord avec vous-même.
+Aimez-vous Télamire ?
+
+Servez donc votre amour.
+
 Si votre Hymen enfin doit s'achever demain,
 Le sacrifice est fait, la parole est donnée ;
 Le bruit s'est répandu de ce grand Hyménée.
@@ -370,37 +2073,41 @@ Par l'effort du dépit, et de deux ans d'absence,
 Peut-être elle a déjà puni votre inconstance,
 Peut-être elle aime ailleurs.
 
--*who_silene
-      C'est là mon désespoir.
-N'importe, je l'adore, et brûle de la voir.
-
--*who_palemon
 Mais si cette Bergère à vous seul trop cruelle,
 Vous va sacrifier à sa flamme nouvelle...
 
--*who_silene
-Quoi, toujours méprisé, désespéré, confus...
-Non, non, marions-nous, je ne la verrai plus.
-Va savoir seulement si l'Ingrate est venue.
-
--*who_palemon
 Quoi...
 
--*who_silene
-      Je le veux savoir pour éviter sa vue.
+Vous allez donc sans crainte et sans déguisement...
 
-**** *book_ *id_I04 *act_I *date_1695
+Il le sera bientôt : vous allez vous venger ;
+Il suit le Ravisseur.
 
--*who_silene
-Mais j'aperçois Damis, il est tout éperdu.
+Mais on dit que Licaste en cette occasion,
+D'un frère malheureux servant la passion...
 
--*who_damis
+Mais sait-il votre Sexe et votre amour jaloux ?
+
+      Et votre jalousie
+S'en va faire périr une si belle vie ?
+Climène l'abandonne aux rigueurs de la Loi.
+
+Vous pouvez l'obtenir de la Loi favorable
+Qui veut qu'en l'épousant on sauve le coupable.
+
+Il s'en va donc périr, Bergère trop cruelle.
+
+Damis est trop heureux de vous avoir servie.
+Licaste va périr par votre cruauté :
+Mais quelque autre Bergère aura plus de bonté.
+
+Vous l'épouserez donc pour empêcher sa mort ?
+
+
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 Je viens de voir, ô Dieux !...
 
--*who_silene
-      Hé bien, qu'avez-vous vu ?
-
--*who_damis
 Silène, tu me vois presque tout hors d'haleine,
 Je viens de voir ici sur la rive prochaine...
 Ah ! Que n'ai-je pas vu... J'en suis tout enchanté.
@@ -449,102 +2156,38 @@ Peut-être que j'ai vu quelques traits d'un visage
 Que l'Alphée à mes yeux fit voir sur son rivage.
 Si c'était ma Bergère...
 
--*who_silene
-      Il paraît un Berger.
-Damis, serait-ce point ce charmant Étranger,
-Dont l'éclat dans les eaux a frappé votre vue ?
-
--*who_damis
 Non, j'ai vu dans le Fleuve une Bergère nue.
 
-**** *book_ *id_I05 *act_I *date_1695
-
--*who_silene
-C'est Silvanire. Ô Dieux !
-
--*who_silvanire
-      C'est mon frère.
-
--*who_silene
-      Ma Soeur.
-
--*who_silvanire
-Ne me découvrez point.
-
--*who_damis
       Par quel charme trompeur
 Cet habit semble-t-il à ma vue abusée
 Me cacher ma Bergère en Berger déguisée ?
 
--*who_silvanire
-Berger, vous me voyez, étranger, curieux,
-Que votre mariage attire dans ces lieux.
-
--*who_damis
 Mais que cherchez-vous tant ? Quel chagrin vous tourmente ?
 Votre âme inquiétée, et votre vue errante...
 Si nos soins...
 
--*who_silvanire
-      Je rends grâce à vos civilités.
-
--*who_damis
 Nous quittez-vous sitôt ? Eh de grâce, arrêtez.
 
--*who_silvanire
-Ah laissez-moi chercher l'objet le plus aimable...
-
--*who_damis
 Je cherche comme vous, un objet adorable ;
 Peut-être est-ce le même...
 
--*who_silvanire
-      Ah ne le croyez pas,
-J'ai d'autres yeux que vous, et suis d'autres appas.
-
--*who_damis
 Mon coeur auprès de vous sent des transports de joie :
 Encor quelques moments souffrez que je vous voie.
 
--*who_silvanire
-Un si pressant souci m'oblige à vous quitter.
-
--*who_damis
 Quoi, ne puis-je obtenir...
 
--*who_silvanire
-      Rien ne peut m'arrêter.
-Adieu, je puis tantôt vous rendre ma présence.
-
-**** *book_ *id_I06 *act_I *date_1695
-
--*who_damis
 Ne me trompai-je point sur quelque ressemblance ?
 Sur les bords de l'Alphée une grande Beauté
 Par de semblables traits m'ôta la liberté.
 Si celle que je cherche, ô Dieux ! Était la même...
 
--*who_silene
-N'est-ce point Silvanire ?
-
--*who_damis
       Oui, c'est celle que j'aime.
 Et j'ai cru dans ces lieux voir les mêmes attraits.
 Dieux, en un seul objet confondez mes souhaits.
 
--*who_silene
-Ne vous y trompez point, c'est le même visage.
-C'est Silvanire enfin.
-
--*who_damis
       C'est elle, ou son image.
 Souffrez que je la cherche.
 
--*who_silene
-      Allez. Ah ! Je vois bien
-Que son amour sera plus heureux que le mien.
-
--*who_damis
 Vous qui de mes désirs voyez l'ardeur extrême,
 Nymphes, si sur ces bords j'ai trouvé ce que j'aime,
 Rendez-moi ce trésor dont je suis enchanté,
@@ -561,1729 +2204,56 @@ Ne vous lassez point, Nymphes, de la chercher ;
 Elle a trop de beauté, d'éclat, et de lumière,
 Pour se pouvoir cacher.
 
-**** *book_ *id_II01 *act_II *date_1695
-
--*who_ergaste
-Quoi, se peut-il, ma Soeur, qu'encor je vous revoie ?
-Je sens presque mes maux suspendus par ma joie :
-Mais pourquoi cet habit, et ce déguisement ?
-
--*who_telamire
-Sous le nom de Licaste, et sous ce vêtement,
-Je viens pour voir Silène auprès de Lisimène.
-Mon frère, je ne sais si c'est amour, ou haine ;
-J'ai peine à démêler encor ce que je veux.
-Tantôt en arrivant je les ai vus tous deux,
-Lisimène m'a vue, et je pense, mon frère,
-Que j'ai sous cet habit le bonheur de lui plaire.
-Nous pourrons sur ce point bientôt nous éclaircir.
-
--*who_ergaste
-Si l'Hymen de Silène est prêt à réussir...
-
--*who_telamire
-Croyez-vous que d'abord le volage Silène
-En sortant de mes fers, s'engage à Lisimène ?
-Pensez-vous qu'elle l'aime ?
-
--*who_ergaste
-      Hélas ! Son jeune esprit
-Connaît si peu l'Amour...
-
--*who_telamire
-      Cependant on m'a dit
-Que la Bergère était sensible à votre peine.
-
--*who_ergaste
-Ma Soeur, connaissez mieux le coeur de Lisimène ;
-Vous savez bien, ma Soeur, qu'en ces prochains Hameaux
-J'ai toujours eu le soin de gardez nos troupeaux,
-Lorsqu'aux bords du Ladon, étant près de ma mère,
-Vous aviez soin des biens que nous laissa mon père.
-C'est dans ce temps heureux, qu'exempt de tout amour,
-Je conduisais ici mon troupeau chaque jour.
-Un jour rêvant, les yeux baissés sur l'Érymanthe,
-Et frappé tout d'un coup par une voix charmante,
-Je relève ma vue, et mes yeux tous ravis
-Virent... Vous puis-je dire hélas ! ce que je vis ?
-Je vis un air touchant, un air plein d'innocence ;
-Sa voix m'avait charmé, j'adorai son silence ;
-Ses regards pleins de feu secondant ses appas,
-Semblaient dire à mes yeux... Que ne disaient-ils pas ?
-Je vis en Lisimène enfin tout ce qu'on aime,
-Tous les jeunes appas, ou la jeunesse même,
-Son air, ses traits, son teint, et j'en fus tout charmé ;
-Au moment je fus pris, au moment je l'aimai,
-Depuis ce jour qui fit et ma joie et ma peine,
-Ergaste n'a pu vivre un jour sans Lisimène.
-Tout flattait de mes feux la naissance et le cours,
-Elle était attentive à mes tendres discours :
-Mais, ma Soeur, j'ai bien vu que sans y rien comprendre,
-Son faible et jeune coeur aimait à les entendre ;
-Que sans jamais aller plus loin que l'amitié,
-Mes larmes ne faisaient qu'exciter sa pitié :
-Mais las ! Cette pitié, cette heureuse faiblesse,
-Qui semblait imiter l'amoureuse tendresse,
-Flattait d'un vain espoir mes regrets superflus :
-Elle plaignait mes maux, et puis n'y songeait plus.
-
--*who_telamire
-Mais quand vous avez su ce triste mariage,
-Vous aviez pour le rompre un puissant avantage :
-Vous saviez qu'elle aimait Silène moins que vous.
-
--*who_ergaste
-Ah ma Soeur, c'est de là que vient tout mon courroux.
-D'abord que j'eus appris la funeste nouvelle
-Qui m'ôtait tout l'espoir de ma flamme fidèle,
-Je cours à ma bergère, et tâche à l'émouvoir
-Par un torrent de pleurs, par tout mon désespoir,
-Elle à ces feux ardents laissant fondre sa glace,
-Pour vous, dit-elle, enfin que faut-il que je fasse !
-Ma mère m'a donné Silène pour époux ;
-Berger, j'aurais été plus heureuse avec vous ;
-Je compte tout le temps que vous m'avez servie,
-Comme les plus jours, les plus doux de ma vie,
-Et je ne puis permettre à mes tristes souhaits
-L'espoir de réparer la perte que je fais.
-Mais il faut obéir aux ordres de ma Mère.
-Une si tendre excuse eût pu me satisfaire ;
-Mais l'ingrate en poussant ces mots doux et flatteurs
-Ne les accompagnait de soupirs ni de pleurs.
-Elle a du tendre amour quelques faibles lumières,
-Elle en a le dehors, et toutes les manières ;
-Son silence, son air, ses yeux, son entretien,
-Tout semble plein d'amour, et son coeur ne sent rien :
-Trop jeune, et des soupirs connaissant peu l'usage,
-Elle ignore l'Amour, et parle son langage.
-Ainsi quand pour Silène elle ose me trahir,
-Elle suit son devoir, et ne fait qu'obéir.
-
--*who_telamire
-Ainsi sans nul amour, l'innocence inhumaine
-Nous ôte l'espérance, et m'enlève Silène ?
-
--*who_ergaste
-Vous aimez donc Silène ? On m'avait dit, ma Soeur,
-Que vous traitiez sa flamme avec tant de rigueur.
-
--*who_telamire
-Oui, je le négligeais quand il était fidèle,
-Et ne puis consentir à sa flamme nouvelle ;
-Son changement m'alarme, et ce volage amant,
-Alors que je le perds, me paraît plus charmant.
-Si j'étais sans amour, une jalouse envie
-Veut ôter ma conquête à qui me l'a ravie ;
-L'Amour fait les jaloux, et peut-être à son tour
-Un peu de jalousie a fait naître l'Amour.
-J'aime enfin, et l'Amour lui seul m'a travestie
-Pour venir avec vous rompre cette partie.
-
--*who_ergaste
-Oui, ma Soeur, cet habit où j'ai l'heur de vous voir,
-Pour le dessein que j'ai, flatte mon désespoir.
-Puissiez-vous, chère Soeur, connaître par vous-même,
-Qu'un service en amour fait un plaisir extrême :
-Il faut donc aujourd'hui, pour nous servir tous deux,
-Ou rompre, ou retarder cet Hymen malheureux.
-Un regard vous suffit pour rappeler Silène ;
-Mais il s'agit surtout d'attendrir Lisimène.
-Déjà vous avez su, sous ce Sexe emprunté,
-La frapper en passant avec tant de beauté.
-Ma Soeur, si vous jetiez quelque amour dans son âme,
-Je puis un jour vers moi tourner toute sa flamme ;
-Son coeur rendu sensible aux amoureux désirs,
-Près de vous apprendrait à pousser des soupirs :
-Par l'ardeur qu'elle peut prendre auprès de la vôtre,
-Cette Ingrate pourrait en prendre pour un autre,
-Et son coeur une fois par l'Amour enflammé
-Comprendrait le plaisir d'aimer et d'être aimé.
-
--*who_telamire
-Mais si gardant pour moi cette vaine tendresse...
-
--*who_ergaste
-Qu'elle aime, c'est assez ; c'est toute mon adresse.
-De mes soins et des tiens, c'est un fruit assez doux,
-De lui voir un amant, sans en être jaloux.
-Et je crains seulement que Silène trahisse,
-En vous reconnaissant, ce galant artifice.
-
--*who_telamire
-Depuis plus de deux ans rappelé dans ses lieux,
-Ne pouvant s'assurer de la foi de ses yeux,
-Peut-il sous cet habit connaître Télamire ?
-
--*who_ergaste
-Hâtons donc promptement l'effet que je désire.
-Pour moi qui suis réduit au secours de mes pleurs,
-Je vais lui faire voir mes dernières douleurs,
-Prévenir s'il se peut l'effet de ton adresse,
-Et ne devoir qu'à moi sa première tendresse.
-C'est elle que je vois.
-
-**** *book_ *id_II02 *act_II *date_1695
-
--*who_lisimene
-      Qu'est-il donc devenu
-Cet aimable Étranger, ce charmant Inconnu ?
-Ne le verrai-je plus ? C'est en quittant Silène
-Que j'ai vu ce Berger sur la rive prochaine.
-
--*who_philis
-Voici ce pauvre Ergaste.
-
--*who_lisimene
-      Évitons son abord.
-
--*who_ergaste
-Ah ne me fuyez pas, quand je cherche la mort.
-Je ne viens point ici troubler votre fortune
-Par l'inutile éclat d'une plainte importune,
-N'y reprocher aux Dieux mon injuste trépas,
-Pour attirer sur vous la peine des Ingrats ;
-Je viens avant ma mort immoler à vos charmes
-Et mes derniers souhaits, et mes dernières larmes.
-Puissent les justes Dieux oublier leur courroux,
-En oubliant les maux que j'ai soufferts pour vous ;
-Et pour couler vos jours dans un bonheur extrême,
-Puissent-ils être heureux autant que je vous aime.
-Admire ces beaux yeux, regarde si j'ai tort,
-En perdant tant d'appas, de courir à la mort ;
-Je pourrais demander dans ma douleur extrême,
-Justice à tout le Monde, à l'Amour, à vous-même ;
-Cependant vous voyez si jamais on peut voir
-Un plus tendre respect suivre un grand désespoir.
-
--*who_lisimene
-Voici notre Berger, Philis, j'en suis charmée.
-Ah que je l'aimerais, si j'en étais aimée !
-
--*who_ergaste
-Vois comme on te regarde. En ce dernier moment,
-Cruelle, on ne veut pas m'écouter seulement.
-Adieu donc pour jamais, beaux yeux inexorables.
-Beaux yeux autant aimés que vous êtes aimables ;
-Vous plus que tous les Dieux par Ergaste adorés,
-Pour la dernière fois, beaux yeux, vous m'éclairez.
-
--*who_lisimene
-Ergaste, vous savez que le choix de ma Mère
-M'a donnée à Silène, il faut la satisfaire.
-Si Lisimène avait le choix de son époux,
-Je vous l'ai déjà dit, elle serait à vous.
-La raison et le temps vous feront voir sans peine
-Le peu que vous perdez, en perdant Lisimène.
-Je voudrais bien connaître un Berger si charmant.
-Je n'en puis détourner mes yeux un seul moment.
-
--*who_philis
-Ergaste vous dira, demandez-lui...
-
--*who_lisimene
-      Je tremble
-Et n'oserais jamais... Tu peux mieux ce me semble...
-
--*who_philis
-Je vous entends. Hé bien, je vais l'interroger.
-Vous peut-on demander quel est cet Étranger ?
-Son pays et son nom ?
-
--*who_ergaste
-      Oui, Philis, c'est mon frère,
-Et Licaste est son nom : a-t-il l'heur de vous plaire ?
-
--*who_philis
-Il doit plaire sans doute à quiconque a des yeux.
-
--*who_ergaste
-J'ai voulu ce témoin de mes derniers adieux.
-Il n'a que trop de part au malheur qui m'accable.
-C'est trop de vous offrir encore un Misérable,
-C'est trop pousser en vain de regrets superflus.
-Adieu, Bergère, adieu, je ne vous verrai plus.
-Au moins si quelquefois en passant dans nos plaines,
-En visitant nos bois, nos grottes, nos fontaines,
-Le souvenir d'Ergaste, et sa tendre amitié,
-Trouvent dans votre coeur un reste de pitié,
-Donnez quelque soupir à ma triste mémoire :
-Dites, vous le pouvez, sans blesser votre gloire,
-Dites-vous quelquefois, songeant à son malheur,
-Ergaste m'aimait tant, qu'il mourut de douleur.
-Pour la dernière fois, adieu, belle Bergère.
-
--*who_lisimene
-Ne vous verra-t-on plus ni vous, ni votre frère ?
-
--*who_ergaste
-Non, Bergère, je pars, en vain vous m'arrêtez.
-
--*who_lisimene
-Laissez-nous votre frère au moins, si vous partez.
-
--*who_ergaste
-Pour comble de rigueur, m'ôterez-vous Licaste ?
-
--*who_lisimene
-Licaste quelquefois me parlerait d'Ergaste.
-
--*who_ergaste
-Non, non, d'un tel discours épargnez-moi l'ennui.
-Licaste fera mieux de vous parler de lui.
-Et pour rendre sa vue encor plus agréable,
-Adieu ; j'ôte à vos yeux celle d'un Misérable.
-
-**** *book_ *id_II03 *act_II *date_1695
-
--*who_telamire
-Bergère, vous voyez jusqu'où va sa douleur.
-
--*who_lisimene
-Je n'en suis pas la cause, et je plains son malheur.
-Puis-je ne pas vouloir tout ce que veut ma Mère ?
-
--*who_telamire
-J'ai vu plus d'une fois une jeune Bergère,
-Malgré tous ses Parents, conserver son Berger,
-Et fuir plus que la mort la honte de changer.
-
--*who_lisimene
-Moi, je ne change point, je suis toujours la même.
-
--*who_telamire
-Mais vous aimiez Ergaste ?
-
--*who_lisimene
-      Oui, même encor je l'aime.
-Mais hélas ! Quel amour ! S'il le faut comparer
-À celui que vos yeux viennent de m'inspirer !
-Quelquefois près de lui je sens quelque faiblesse ;
-Mais souvent je me sens oublier ma tendresse.
-Ses larmes rarement m'excitent à pleurer ;
-Ses soupirs ne m'ont point appris à soupirer.
-Dans un de vos regards je vois plus de lumière,
-Plus d'appas que n'en ont tous ceux de votre frère.
-Vos yeux m'ont inspiré je ne sais quoi de doux
-Que mon coeur n'a jamais senti qu'auprès de vous,
-Et qu'avant que vous voir je n'avais pu comprendre.
-Un moment près de vous vient de m'en plus apprendre
-Qu'auprès de mon amant le plus long entretien.
-
--*who_telamire
-Qu'avez-vous donc appris ?
-
--*who_lisimene
-      Si je m'y connais bien,
-Je sens un mouvement si nouveau, qu'il me semble
-Jusqu'ici n'avoir rien senti qui lui ressemble.
-Vous, qui sans doute avez les yeux plus éclairés,
-Vous-même, apprenez-moi ce que vous inspirez.
-Il me souvient qu'un jour une Bergère atteinte
-D'un mal, qu'on nomme Amour, en parlait avec crainte,
-Hésitait, se troublait, en voulant s'exprimer,
-Ignorait, en aimant, ce que c'est que d'aimer.
-Voilà comme je suis, Berger, est-ce que j'aime ?
-Car enfin ne pouvant me connaître moi-même,
-Je n'ose me fier à ce coeur interdit,
-Qui vous parle en aveugle, et ne sait ce qu'il dit.
-Tout ce que je connais, ou que je crois connaître,
-C'est que plus je vous vois, et plus vous faites naître
-Un violent désir de garder près de moi,
-D'admirer, et de voir toujours ce que je vois.
-
--*who_telamire
-D'abord de nouveaux traits votre vue est charmée ;
-Mais à ce faible éclat votre âme accoutumée,
-Se guérira bientôt de l'erreur de vos sens.
-
--*who_lisimene
-Non, j'aimerai toujours le plaisir que je sens,
-Je veux toujours vous voir, et mon âme ravie,
-Quoi qu'il puisse arriver, n'en peut perdre l'envie.
-On se lasse de voir les objets les plus beaux,
-Le vert de nos gazons, le cristal de nos eaux,
-Nos jeux les plus galants, et les plus belles choses ;
-On se lasse de voir le Soleil et les Roses.
-Mais lorsque je vous vois, je ne puis concevoir
-Que je puisse jamais me lasser de vous voir.
-Faites, mon cher Berger, que toujours je vous voie
-Et daignez, s'il se peut, m'assurer cette joie...
-
--*who_telamire
-Mais Silène demain se marie avec vous.
-
--*who_lisimene
-Ne vous verrai-je plus, s'il devient mon époux ?
-
--*who_telamire
-Bergère, cet Hymen pour jamais nous sépare.
-
--*who_lisimene
-Pour jamais ! Quel Hymen si cruel, si barbare ?
-Moi cesser de vous voir ! Point d'Hymen, point d'époux.
-
--*who_telamire
-Rompez donc cet Hymen.
-
--*who_lisimene
-      Me le conseillez-vous ?
-Vous parlez pour Ergaste, et lui seul vous engage...
-
--*who_telamire
-Je crains autant que lui ce triste mariage.
-
--*who_lisimene
-Pourquoi le craignez-vous ?
-
--*who_telamire
-      J'aime, Bergère, hélas !
-
--*who_lisimene
-M'aimeriez-vous, Berger ? Vous ne répondez pas.
-
--*who_telamire
-Que vous dirais-je enfin ? Hélas ! Si je vous aime,
-Il peut de cet amour naître un désordre extrême.
-Je crains que vos Parents, que des Rivaux jaloux...
-
--*who_lisimene
-Et moi je ne crains rien, ah j'aime plus que vous.
-
--*who_telamire
-Peut-être que vous-même inconstante et légère...
-
--*who_lisimene
-Vous me connaissez mal.
-
--*who_telamire
-      Vous changerez, Bergère.
-
--*who_lisimene
-Ah je jure...
-
--*who_telamire
-      Arrêtez, et ne jurez de rien.
-Trahirez-vous mon frère ? Ah si vous saviez bien,
-Instruite par l'Amour et par l'expérience,
-Entre mon frère et moi, quelle est la différence...
-
--*who_lisimene
-Mais cette différence est en votre faveur.
-Je la vois dans vos yeux, je la sens dans mon coeur.
-Mais j'aperçois Silène, ah fuyons ; il s'avance.
-
--*who_telamire
-Le voilà, le perfide ; évitons sa présence.
-
--*who_lisimene
-Sa présence vous trouble, et vous met en courroux.
-
--*who_telamire
-Fuyons.
-
--*who_lisimene
-      Il craint Silène. Ah Licaste est jaloux.
-
-**** *book_ *id_II04 *act_II *date_1695
-
--*who_silene
-Hé bien, sur votre Hymen, avez-vous bien, Bergère,
-Consulté votre coeur, plutôt que votre Mère.
-
--*who_lisimene
-Hélas !
-
--*who_silene
-      Vous soupirez. Ne puis-je pas savoir...
-
--*who_lisimene
-Mon Berger est si loin, que j'ai peine à le voir.
-C'est pour une autre fois. Adieu.
-
-**** *book_ *id_II05 *act_II *date_1695
-
--*who_silvanire
-      C'est Lisimène,
-Et vous songez à rompre une si belle chaîne.
-
--*who_silene
-J'aime une autre Beauté, l'Amour le veut ainsi :
-Mais pourquoi cet habit ?
-
--*who_silvanire
-      Comme fort loin d'ici
-Auprès d'un vieux Parent, le bien que j'en espère
-M'attache malgré moi par les ordres d'un Père,
-Je me cache en ces lieux sous ce déguisement ;
-Ou plutôt je me cache aux regards d'un amant,
-À qui je dois mon coeur pour le prix de la vie,
-Qu'un extrême péril sans lui m'aurait ravie,
-Sur les bords de l'Alphée où j'allai voir un jour
-Des Jeux qu'on célébrait à l'honneur de l'Amour,
-Arrêtant dessus l'eau ma vue et ma pensée,
-Sans songer au péril dont j'étais menacée,
-Deux Chevaux qui traînaient un Char sans Conducteur,
-Vers le bord où j'étais courraient avec fureur,
-Quand Damis leur offrant le fer de sa Houlette,
-La frayeur les saisit, et d'abord les arrête,
-Et se voyant pressés par un effort nouveau,
-Pour éviter le fer, ils s'élancent dans l'eau.
-Jugez par le péril de ma reconnaissance,
-Et voulant m'acquitter, voyez mon impuissance.
-Dans l'état où j'étais, presque morte de peur,
-J'inspire à ce Berger une tendre douleur :
-Mais des Pasteurs zélés une troupe accourue,
-Pour me rendre leurs soins, m'enlevant à sa vue,
-Lui-même à même temps se dérobe à mes yeux,
-Et son Père mourant le rappelle en ces lieux.
-De plus, un beau Pasteur, qu'on m'a nommé Licaste,
-Qu'hier auprès de ces lieux je vis avec Ergaste,
-M'a donné trop d'amour pour le pouvoir cacher.
-Je me cache à Damis ardent à me chercher ;
-Cet habit me dérobe à son amour extrême,
-Mais cet habit aussi me cache à ce que j'aime.
-Je voudrais me montrer aux yeux de mon Vainqueur ;
-Je voudrais me cacher à mon Libérateur.
-Mon frère, vous voyez l'embarras et la peine...
-
--*who_silene
-Vous avez quelque espoir, mais ma perte est certaine :
-Quand malgré moi j'accepte un Hymen sans amour,
-Je sens pour Télamire un si tendre retour,
-Que la peur de la perdre accable ma constance.
-Obligeons Lisimène à quelque résistance,
-Cherchons quelque prétexte à rompre, ou reculer
-Un Hymen, dont ma flamme a sujet de trembler.
-Vous pouvez, chère Soeur, secourir votre frère.
-Allons sans perdre temps voir la jeune Bergère :
-Ménagez avec elle un secret entretien :
-Lisimène facile, et qui n'aime encor rien,
-Vous croira moins suspecte, et votre confidence
-Trouvera plus de grâce, et moins de résistance.
-Votre esprit la trouvant sans nulle impression,
-Peut former son amour et son aversion.
-Étonnez-la, ma Soeur, par une horrible image
-Du pouvoir des Maris, des soins du mariage ;
-Mettez devant ses yeux les exemples affreux
-Du désordre qui suit un Hymen malheureux,
-Du divorce d'Acante avecque Partenice,
-Du chagrin de Damon qui rompt avec Florice,
-Du changement d'Atys, qui d'amant tendre et doux
-Est devenu Mari furieux et jaloux :
-Mais vous voyez déjà quelques jeunes Bergères
-Fuir les yeux des Maris jaloux, ou trop sévères ;
-Chercher qui les console, ou les veuille venger.
-Que de secrets ennuis semblent les affliger !
-Allez par cet exemple alarmer Lisimène.
-
--*who_silvanire
-Je ferai plus encor, pour vous tirer de peine.
-
-**** *book_ *id_II06 *act_II *date_1695
-
--*who_premierebergere
-Suivons l'Amour, fuyons le mariage.
-
--*who_secondebergere
-L'un est un plaisir charmant,
-L'autre est un triste esclavage.
-Aimons seulement.
-
--*who_lesdeuxbergeres
-Suivons l'Amour, fuyons le mariage.
-
--*who_premierebergere
-Que le nom d'amant est doux !
-
--*who_secondebergere
-Qui dit Mari, dit fâcheux et jaloux.
-
--*who_premierebergere
-L'amant flatte, le Mari gronde.
-
--*who_secondebergere
-La plus grande Beauté du Monde
-Ne l'est plus pour un époux.
-
--*who_lesdeuxbergeres
-Suivons l'Amour, fuyons le mariage.
-L'un est un plaisir charmant,
-L'autre est un triste esclavage.
-Aimons seulement.
-
-**** *book_ *id_III01 *act_III *date_1695
-
--*who_philis
-Dieux, que m'apprenez-vous ?
-
--*who_ergaste
-      Assuré de ta foi
-J'ose te confier...
-
--*who_philis
-      Je vous réponds de moi.
-
--*who_ergaste
-La feinte a réussi ; la jeune Lisimène
-Pleine de son erreur, va rompre avec Silène...
-Mais hélas !
-
--*who_philis
-      Qu'avez-vous ? Quelle est votre douleur ?
-
--*who_ergaste
-Tu vois ce qu'a produit l'adresse de ma Soeur ;
-Un coup d'oeil d'une Fille en Berger déguisée,
-Fait plus, que tout l'effort de mon âme embrasée.
-J'ai souhaité de voir que sensible à son tour,
-Sans en être jaloux, elle prit de l'amour :
-Son erreur a produit un effet favorable,
-Mais c'est un autre enfin qui lui paraît aimable.
-Quel que soit mon espoir, je rougis quand je vois
-Que ses premiers soupirs n'ont pas été pour moi.
-Dût-elle après la Soeur soupirer pour le frère,
-Je n'ai pas le premier la gloire de lui plaire ;
-Et le premier soupir pour les coeurs délicats,
-A des douceurs, Philis, que les autres n'ont pas.
-C'est pour un Malheureux trop de délicatesse.
-Connaissant mon dessein, tu peux par ton adresse...
-
-**** *book_ *id_III02 *act_III *date_1695
-
--*who_lisimene
-Ah que j'aime à vous voir encore parmi nous ;
-J'ai craint de voir partir votre frère avec vous :
-J'en mourrais de douleur.
-
--*who_ergaste
-      Confus et misérable,
-J'allais m'abandonner au chagrin qui m'accable :
-Mais le bonheur d'un frère a suspendu mon mal.
-Vous avez tant d'amour pour un si cher Rival...
-
--*who_lisimene
-Oui sans doute pour lui mon amour est extrême.
-Que fait-il ? Que dit-il ? Est-il bien vrai qu'il m'aime ?
-Vous parle-t-il de moi d'un air fort empressé ?
-Suis-je belle à ses yeux ? Où l'avez-vous laissé ?
-
--*who_ergaste
-Donnez-moi le loisir...
-
--*who_lisimene
-      Eh ! Quelle est mon envie
-De revoir l'ennemi du repos de ma vie ?
-Depuis que je l'ai vu, je sens je ne sais quoi,
-Un charme, un sort fatal, qu'il a jeté sur moi.
-Sans lui tout me chagrine, et loin de sa présence
-Tous les moments sont longs à mon impatience.
-Pour chasser mes ennuis, en vain de toutes parts
-Sur des objets divers je porte mes regards ;
-Tout ici de Licaste exprimant quelque image,
-Tout me le fait aussi souhaiter davantage.
-Je porte en même lieu mes désirs et mes pas,
-Et je le cherche même où je sais qu'il n'est pas.
-Et puis de lassitude, accablée, abattue,
-Je cherche le repos, et le repos me tue.
-D'où vient tout ce tourment ?
-
--*who_ergaste
-      Hé quoi, l'ignorez-vous ?
-Vous aimez.
-
--*who_lisimene
-      Quoi, l'Amour que je croyais si doux...
-
--*who_ergaste
-L'Amour mêle à ses maux tant de biens, tant de joie...
-
--*who_lisimene
-Sans doute, et mon Berger, pourvu que je le voie,
-Réparera d'abord tout le mal qu'il m'a fait.
-Je verrai mon Berger, mon coeur est satisfait.
-Je sens à ce penser que mon mal diminue.
-Un regard de ses yeux, un moment de sa vue ;
-Mais que dis-je, un regard ? Déjà ce seul espoir,
-Ce souvenir me charme avant que de le voir :
-Même quand je me sens ici près de son frère...
-
--*who_ergaste
-Avec ce nom au moins je suis sûr de vous plaire.
-Pauvre Bergère !
-
--*who_lisimene
-      Hé quoi, vous me plaignez, Berger ?
-
--*who_ergaste
-L'Hymen dessous ses lois vient de vous engager,
-Et je crains bien enfin que votre obéissance...
-
--*who_lisimene
-Non, Berger, on m'a dit que l'Amour m'en dispense,
-Que l'Amour ne vit point sous le pouvoir d'autrui,
-Et rompt, quand il lui plaît, tout ce qu'on fait sans lui.
-
--*who_ergaste
-Mais ne craignez-vous point le pouvoir d'une Mère ?
-
--*who_lisimene
-Je ne crains rien depuis que j'aime votre frère.
-Licaste a des appas... Laissez-moi librement
-Seule avec ma Philis parler de mon amant.
-Adieu donc. Grâce aux Dieux, l'amour de Lisimène
-Fait un heureux obstacle à l'Hymen de Silène.
-
-**** *book_ *id_III03 *act_III *date_1695
-
--*who_lisimene
-Philis, n'est-il pas vrai que mon Berger est beau ?
-As-tu bien remarqué certain charme nouveau...
-Tous les autres Bergers n'en ont point de semblable,
-Une grâce touchante, un air tendre, agréable...
-
--*who_philis
-Bien plus. J'ai remarqué que parmi ces attraits
-Il a de notre Sexe et la voix et les traits,
-Et qu'ayant comme nous la douceur en partage,
-Sur les autres Bergers il a quelque avantage.
-Mais un fort grand défaut gâte bien ses appas.
-
--*who_lisimene
-Quel est donc ce défaut que je ne connais pas ?
-
--*who_philis
-Je trouve que sa flamme a peu de violence,
-Moins d'ardeur que la vôtre, et moins d'impatience.
-Je vous dirai bien plus ; quand il est parmi nous,
-Il affecte des soins et quelque ardeur pour vous :
-Mais vous regarde-t-il avec ces traits de flamme,
-Avec ces yeux perçants qui pénètrent une âme ?
-Votre fidèle Ergaste aime avec une ardeur...
-
--*who_lisimene
-Tu connais mal l'Amour.
-
-**** *book_ *id_III04 *act_III *date_1695
-
--*who_silene
-      Oui, c'est elle, ma Soeur.
-
--*who_silvanire
-Elle parle à Philis.
-
--*who_silene
-      Loin de m'être contraire,
-Philis servant Ergaste...
-
--*who_silvanire
-      Allez, laissez-moi faire.
-
-**** *book_ *id_III05 *act_III *date_1695
-
--*who_lisimene
-Quel est cet Étranger ?
-
--*who_silvanire
-      Au bruit de vos beautés
-Vous voyez des Bergers venir de tous côtés
-Prendre part aux plaisirs d'une grande Journée,
-Célèbre par des Jeux, et par votre Hyménée.
-Pour moi je ne viens point, Bergère, dans ces lieux
-Imiter ces Bergers flatteurs, ou curieux ;
-Et je viens seulement.... Mais peut-être, Bergère,
-Mon zèle est indiscret, et pourrait vous déplaire.
-L'avis est important, mais...
-
--*who_lisimene
-      Il me sera doux
-Cet avis, quel qu'il soit, si je le tiens de vous.
-
--*who_silvanire
-Je viens avec un coeur, qui pour vous s'intéresse,
-Pleurer votre beauté, plaindre votre jeunesse,
-Qu'aux rigueurs de l'Hymen on va sacrifier.
-Je sais qu'on vous dira, pour vous justifier,
-Que si l'Hymen de soi n'est jamais fort aimable,
-La Fortune, ou l'Amour, le rend fort agréable.
-Pour voir de ce conseil toute la trahison,
-Donnez-vous le loisir d'attendre la Raison,
-Et vous verrez alors quel est cet Hyménée
-Où si jeune et si faible on vous a condamnée.
-
--*who_lisimene
-J'estime votre zèle, officieux Berger,
-Et je crois qu'à l'Hymen sitôt vous engager,
-Est une tyrannique et bizarre coutume.
-Mais l'Amour en pourrait corriger l'amertume ;
-Et je pense, Berger, que l'Hymen est bien doux,
-Quand l'Amour de sa main nous présente un époux.
-
--*who_silvanire
-Vous l'oserai-je dire ? Avec tant de jeunesse,
-L'Amour n'est bien souvent qu'erreur et que faiblesse ;
-Et l'Hymen, fut-il fait par les mains de l'Amour,
-Bergère, croyez-moi, l'Hymen n'a qu'un beau jour.
-Vous voyez dans ces lieux Atys, Darmon, Acanthe,
-Cent autres dont l'amour autrefois si constante,
-Si pleine de respect, de zèle, et de douceur,
-Devient après l'Hymen, jalousie et fureur.
-L'amant sert quelque temps pour se rendre le Maître,
-Et ne paraît soumis que pour cesser de l'être.
-Le traître promet tout, et ce lâche flatteur
-Nous montre après l'Hymen, qu'il n'est qu'un imposteur.
-Mais surtout savez-vous combien le mariage
-Coûtent de déplaisirs aux Filles de votre âge ?
-Savez-vous que ce joug souffert avant le temps,
-Ravage plus de fleurs que n'en a le Printemps,
-Qu'il fait de vos amants des Tyrans légitimes,
-De ce qu'ils adoraient, d'innocentes Victimes ;
-Et qu'enfin ces beautés, ces roses, et ces lys,
-Ces trésors sont en proie à vos cruels Maris ?
-
--*who_lisimene
-Il me semble pourtant que le blond Hyménée
-A des plus belles fleurs sa tête couronnée,
-Que la foule est toujours au pied de ses autels,
-Et qu'il est le plus doux de tous les Immortels,
-
--*who_silvanire
-Ne vous y fiez pas ; le perfide Hyménée,
-Avec toutes ces fleurs dont sa tête est ornée,
-Est le cruel tyran de votre liberté,
-Le tombeau de l'amour, le fléau de la beauté.
-
--*who_lisimene
-Vous faites de l'Hymen une image effroyable ;
-Mais joint avec l'Amour, il est plus agréable.
-Même je vous dirai que Philis vit un jour
-En songe, près de moi, l'Hymen avec l'Amour.
-Elle les vit tous deux tels qu'on nous les figure,
-Tous deux de leur rencontre admirant l'aventure,
-L'Amour semblait pleurer, l'Hymen était rêveur.
-Puis s'entreregardant d'un air doux et flatteur,
-L'un faisait à l'Hymen un présent de ses armes,
-Tandis que de l'Amour l'autre essuyait les larmes.
-Consultant sur ce songe un Berger curieux,
-L'on me dit que ce songe était mystérieux,
-Et marquait que j'aurais un jour cet avantage
-D'associer l'Amour avec le mariage.
-Je dois vous avouer, à ne vous rien celer,
-Que je connais trop peu l'Hymen pour en parler :
-Mais pour l'Amour, je pense un peu mieux le connaître,
-Quoiqu'à peine en mon coeur il commence de naître ;
-Et je sens, sans pourtant savoir bien ce que c'est,
-Qu'il me charme en naissant, que rien ne m'en déplaît.
-Il est vrai que d'abord j'ai senti dans mon âme
-Quelques troubles mêlés aux plaisirs de ma flamme ;
-J'ai soupiré, pleuré ; mais ces soupirs, ces pleurs,
-Sont suivis, ou mêlés de secrètes douceurs.
-Enfin de quelques maux dont l'Amour soit la cause,
-L'Amour semble à mon coeur une si douce chose,
-Que je ne puis jamais le craindre, ou le blâmer :
-Je sens qu'il est si beau, si naturel d'aimer,
-Et surtout quand je vois le beau Pasteur que j'aime,
-Puis-je ne pas aimer, si j'aime l'Amour même ?
-
--*who_silvanire
-Aimez-vous tant Silène ?
-
--*who_lisimene
-      Ah je vois votre erreur,
-C'est avec cet époux que l'Hymen vous fait peur.
-Ce Berger aime ailleurs, et j'ai lieu de me plaindre
-D'un Hymen sans amour où l'on veut nous contraindre.
-Le voyant prévenu, peut-être venez-vous
-Parler contre l'Amour, pour m'ôter cet époux.
-Mais quand vous connaîtrez le Berger adorable...
-Il paraît.
-
--*who_silvanire
-      En effet, il n'a point de semblable.
-C'est lui que vous aimez.
-      Voilà mon Étranger.
-
--*who_lisimene
-L'Amour vous déplaît-il, en voyant ce Berger ?
-
-**** *book_ *id_III06 *act_III *date_1695
-
--*who_lisimene
-Venez, Berger, venez, et par votre présence
-Soutenez mon amour, et prenez sa défense.
-Ce Berger si bien fait, hélas ! Le croiriez-vous ?
-Ce Berger qui paraît si galant et si doux,
-Parle contre l'Amour, lui déclare la guerre,
-Et veut par ses discours le bannir de la terre :
-Il me dit que l'Amour est un lâche, un flatteur,
-Un Dieu qui promet tout, et n'est qu'un imposteur.
-Télamire sous le nom de Licaste, à Silvanire.
-Quoi, Berger, à l'Amour portez-vous tant de haine ?
-Je veux parler pour lui.
-
--*who_lisimene
-      N'en prenez pas la peine,
-Il ne faut que vous voir pour le justifier ;
-Un seul de vos regards m'a fait tout oublier.
-
--*who_telamire
-Quelle raison vous rend l'amour si condamnable ?
-Pour condamner l'Amour, vous êtes trop aimable.
-Que ce Berger est beau !
-
--*who_silvanire
-      Vous saurez tout un jour.
-Cependant pour vous seul je fais grâce à l'Amour.
-
--*who_lisimene
-Avouez que ses yeux, son air, tout son visage,
-Sur les plus beaux Pasteurs lui donnent l'avantage.
-Ma Mère me pressant de prendre un autre époux,
-Dois-je obéir ? Parlez, Berger, qu'en croyez-vous. ?
-Quoi, vous ne dites rien ? Parlez.
-
--*who_silvanire
-      Ah ! Lisimène.
-
--*who_lisimene
-Vous voulez vous dédire en faveur de Silène ?
-
--*who_silvanire
-L'Hymen ne se peut rompre, et demain est le jour...
-
--*who_lisimene
-Vous blâmiez mon Hymen, vous louez mon amour.
-
--*who_silvanire
-Il est vrai : mais je crains que Climène en colère...
-
--*who_lisimene
-Mes larmes fléchiront le courroux de ma Mère.
-Quel est ce changement ? Quoi, vous ne dites rien ?
-Il blâme votre amour, en condamnant le mien.
-Ah cruel, vos discours ont étonné sa flamme,
-Et votre changement a passé dans son âme.
-Ne craignez rien, Berger, malgré lui, malgré tous,
-Je vais fléchir ma mère, et lui parler pour vous.
-
-**** *book_ *id_III07 *act_III *date_1695
-
--*who_silvanire
-Je sers mal votre amour, et j'ai pu vous déplaire.
-Pardonnez...
-
--*who_telamire
-      Cet amour ne me tourmente guère.
-Vous connaître, c'est là toute ma passion.
-
--*who_silvanire
-L'Alphée est mon pays, et Tirsis est mon nom.
-Le reste de mon sort est digne du silence.
-
--*who_telamire
-Heureux cent fois les lieux où vous prîtes naissance !
-Quel sujet vous amène en ce charmant séjour ?
-La curiosité, le hasard, ou l'amour ?
-Pardon, si je ne puis, en vous voyant paraître,
-Retenir le désir que j'ai de vous connaître :
-On voit peu de Bergers qui soient faits comme vous.
-Et malheur à tous ceux que vous rendrez jaloux.
-
--*who_silvanire
-À ces discours flatteurs que pourrai-je répondre ?
-Ce que je viens de voir, ne sert qu'à me confondre ;
-Et quand aux yeux de tous vous avez tant d'appas,
-Vous faites des jaloux, et vous ne l'êtes pas.
-
--*who_telamire
-Mon sort avec le temps se fera mieux connaître :
-Je ne suis rien ici de ce que je dois être.
-Où j'aime, je voudrais qu'on m'aimât à mon tour,
-Et l'on m'aime en des lieux où je suis sans amour.
-
--*who_silvanire
-Quoi, vous n'aimez donc pas la jeune Lisimène ?
-Est-il vrai ?
-
--*who_telamire
-      Ce transport est la marque certaine
-Que vous craignez en moi le bonheur d'un Rival.
-Sans doute vous l'aimez.
-
--*who_silvanire
-      Berger, est-ce un grand mal ?
-Si vous ne l'aimez pas, quelle douleur vous presse ?
-
--*who_telamire
-Ergaste est un amant pour qui je m'intéresse.
-Silène était à craindre, et c'est vous seulement
-Que doit craindre aujourd'hui ce malheureux amant.
-
--*who_silvanire
-Le mal de votre ami, Berger, n'est guère à plaindre,
-Il n'a pour son amour d'autre Rival à craindre.
-
--*who_telamire
-Et moi, puisqu'il vous faut expliquer ma douleur,
-Je crains peu pour Ergaste, et crains tout pour sa Soeur.
-Dès lors que dans ces lieux elle vous voit paraître...
-
--*who_silvanire
-Je n'ai pour la guérir, qu'à me faire connaître :
-Et s'il faut comme vous m'expliquer librement,
-Je plains une autre amante encor plus justement,
-Qui tantôt en passant a pris par votre vue
-Un charme dont son âme est si fort prévenue,
-Que je sais que jamais elle ne peut guérir.
-
--*who_telamire
-Je la plains, et je sais l'art de la secourir.
-
--*who_silvanire
-Que pour elle j'aurai de grâces à vous rendre !
-
--*who_telamire
-Mais ma Bergère aussi peut-elle pas attendre...
-
--*who_silvanire
-Tout, si sa guérison dépend de mon pouvoir.
-
--*who_telamire
-Mais votre amie, enfin quand pourra-t-on la voir ?
-
--*who_silvanire
-Honteuse d'avouer un feu qui vient de naître,
-Elle aura quelque peine à se faire connaître.
-
--*who_telamire
-Elle est belle.
-
--*who_silvanire
-      On le dit. Je ne vous dirai pas,
-De peur de rabaisser le prix de ses appas,
-Que vous voyez en moi son air et son visage.
-
--*who_telamire
-Vous n'en sauriez parler avec plus d'avantage.
-
--*who_silvanire
-Lorsque vous la verrez, vous en jugerez mieux.
-
--*who_telamire
-Mais si de sa beauté, je suis trop curieux,
-Vous l'êtes peu, Berger, de celle qui vous aime.
-
--*who_silvanire
-Ma Bergère a pour vous une tendresse extrême ;
-Et sans presque songer à ce qu'on fait pour moi,
-Je suis tout occupé de ce que je lui dois :
-Mais enfin il est temps de nommer l'une et l'autre.
-
--*who_telamire
-La mienne n'est pas loin, faites-moi voir la vôtre.
-
--*who_silvanire
-Elle se veut montrer : mais n'osant présumer
-Que vous l'aimiez autant qu'elle ose vous aimer...
-
--*who_telamire
-La mienne a même envie, et même défiance :
-Pour l'assurer un peu, que la vôtre commence.
-Silène vient, je crains ses yeux et son amour.
-Adieu, nous nous verrons avant la fin du jour.
-
-**** *book_ *id_III08 *act_III *date_1695
-
--*who_silene
-Hé bien, vous avez vu notre jeune Bergère ?
-
--*who_silvanire
-Oui, je viens de la voir, et près d'elle, mon frère,
-J'ai vu le beau Pasteur, dont mon coeur est charmé,
-Que je vis sur ces bords, et qu'aussitôt j'aimai.
-Lisimène l'adore, et se rend à ses charmes.
-Ainsi pour votre amour vous n'aurez plus d'alarmes.
-
--*who_silene
-Se peut-il, chère Soeur...
-
--*who_silvanire
-      Vos voeux sont satisfaits :
-Mais je crois que les miens ne le seront jamais.
-
--*who_silene
-Ce Berger aime-t-il notre jeune Bergère ?
-
--*who_silvanire
-Oui sans doute, et j'en tremble. Épousez-la mon frère ?
-
--*who_silene
-Comment, que dites-vous ?
-
--*who_silvanire
-      J'adore ce Berger.
-
--*who_silene
-D'un Hymen que je crains, je puis me dégager.
-Ce charmant Inconnu, si cher à Lisimène,
-M'offre un heureux prétexte à rompre notre chaîne.
-
--*who_silvanire
-Si je perds ce Berger, je perds tout mon bonheur.
-
--*who_silene
-Trahirez-vous Damis votre libérateur ?
-Quoi, j'attendais de vous...
-
--*who_silvanire
-      Que voulez-vous, mon frère ?
-
--*who_silene
-Sur ce nouvel amour rompre avec la Bergère.
-
--*who_silvanire
-Rebelle à nos Parents, parjure envers nos Dieux,
-Vous voulez vous charger de ces noms odieux ?
-
--*who_silene
-Dois-je tout immoler à mon obéissance ?
-
--*who_silvanire
-Dois-je immoler ma flamme à ma reconnaissance ?
-
--*who_silene
-Je ne dois point souffrir que Damis soit trahi.
-
--*who_silvanire
-Je connais notre père, il veut être obéi.
-Votre Hymen étant fait, en dépit de vous-même,
-Je serai sans rivale, et j'aurai ce que j'aime.
-
--*who_silene
-Il faut l'aveu d'un père, il faut le mien aussi,
-Et je vais l'avertir que vous êtes ici.
-Il saura votre amour et votre ingratitude.
-
--*who_silvanire
-Et pour vous attirer un reproche plus rude,
-Il saura vos desseins.
-
--*who_silene
-      Me voulez-vous trahir ?
-
--*who_silvanire
-Vous pourriez-vous, mon frère, empêcher d'obéir ?
-Votre Hymen est conclu. Lisimène est si belle...
-
--*who_silene
-Damis vous a servie, il est tendre et fidèle,
-Télamire a mon coeur.
-
--*who_silvanire
-      Licaste est tout mon bien !
-Secourez mon amour.
-
--*who_silene
-      Ayez pitié du mien.
-
--*who_silvanire
-Mais Damis vient, adieu ; gardez-vous de lui dire...
-
-**** *book_ *id_III09 *act_III *date_1695
-
--*who_damis
 En vain, Silène, en vain je me plains, je soupire,
 Je cherche en vain l'objet de mes ardents désirs,
 Je fatigue l'Écho de mes tendres soupirs,
 Mortels, Nymphes, et Dieux, Bois, Fontaine, Rivière,
 Rien ne rend à mes yeux ma charmante Bergère.
 
--*who_silene
-Seul, je vous la rendrai.
-
--*who_damis
       Vous, Berger ? Puis-je hélas !
 Me flatter... Cher ami, ne me trompez-vous pas ?
 
--*who_silene
-Je vous la ferai voir.
-
--*who_damis
       Je la verrai, Silène.
 
--*who_silene
-Puissiez-vous aussitôt mettre fin à ma peine.
-
--*who_damis
 Pour un si grand bonheur, je ne refuse rien.
 Mon amour...
 
--*who_silene
-      Il s'agit de secourir le mien :
-Ergaste est en ces lieux, l'amant de Lisimène :
-Sa Soeur est avec lui, le sujet de ma peine.
-Puisque Ergaste revient, ce n'est pas sans dessein ;
-Peut-être il vient troubler les Noces de demain,
-Donnons-lui le moyen d'enlever sa Maîtresse :
-Je me sers, je le sers, Damis, par cette adresse,
-Il lui faut du secours.
-
--*who_damis
       Quelques Pasteurs, à moi ;
 Hardis, entreprenants, fidèles, je les vois.
 
--*who_silene
-Voyons plutôt Ergaste, il faut qu'il favorise,
-Pour son propre intérêt, cette grande entreprise.
-
--*who_damis
 Mais ma belle Maîtresse...
 
--*who_silene
-      Elle dépend de nous.
-
--*who_damis
 Tenez-vous prêts tantôt, j'aurai besoin de vous.
 
-**** *book_ *id_IV01 *act_IV *date_1695
-
--*who_climene
-Quoi, vous voulez sans moi disposer de vous-même ?
-
--*who_lisimene
-Non ; mais ne m'ôtez pas, de grâce, ce que j'aime ;
-Silène est fort aimable, et je ne le hais pas :
-Mais si vous aviez vu, Licaste... Quels appas !
-Quelle douceur ! Quels yeux ! Quelle voix ! Quel langage !
-
--*who_climene
-Vous n'avez que l'esprit et les yeux de votre âge :
-L'époux que je vous donne a bien d'autres beautés ;
-Ses Pâturages gras, ses Troupeaux tant vantés,
-Ses fertiles Vallons, et ses riches Campagnes,
-Font l'envie et l'amour de toutes vos Compagnes.
-Lui préférez-vous un Berger inconnu,
-Que d'hier seulement en ces lieux on a vu ?
-Où sont donc ses Troupeaux, et quel est l'avantage...
-
--*who_lisimene
-Je n'ai vu que Licaste, en faut-il davantage ?
-Quand on voit un Berger si charmant et si beau,
-Hélas ! Regarde-t-on ses biens et son Troupeau ?
-La terre de Silène où toute chose abonde,
-Qu'arrose l'Érymanthe, et qu'il rend si féconde,
-Serait moins précieuse, et plus à négliger,
-Qu'un petit coin de terre où serait mon Berger.
-
--*who_climene
-Taisez-vous, c'en est trop, je me lasser d'entendre...
-
--*who_lisimene
-Pourquoi vous fâchez-vous ?
-
--*who_climene
-      Je me fâche d'apprendre
-Que vous aimiez ailleurs, en prenant un époux.
-
--*who_lisimene
-Je sais ce qui vous plaît, de quoi vous plaignez-vous ?
-J'épouserai Silène, en gardant ce que j'aime.
-
--*who_climene
-Que dites-vous ?
-
--*who_lisimene
-      Silène en usera de même ;
-Et sans que par l'Hymen nos coeurs doivent changer
-Il aura sa Bergère, et j'aurai mon Berger.
-
--*who_climene
-En vérité j'admire et plains votre ignorance :
-Mais n'affectez-vous point un peu trop d'innocence ?
-Ne nous trompez-vous point ? Tout de bon, croyez-vous
-Qu'on vous souffre un amant qui n'est pas votre époux ?
-Pour guérir une erreur qui vous rendrait coupable,
-Bannissez de vos yeux ce Berger trop aimable.
-
--*who_lisimene
-Me faites-vous, ma Mère, un crime de l'amour ?
-On aime innocemment les fleurs, l'astre du jour,
-Et j'ai pour mon Berger un amour de la sorte.
-Si mon ardeur pour lui me semble un peu plus forte,
-C'est que les Dieux l'ont fait, pour donner de l'amour,
-Plus charmant que les fleurs, et plus beau que le jour :
-Mais avec cet amour ne vouloir que lui plaire,
-Le voir, et lui parler, est-ce un crime, ma Mère ?
-
--*who_climene
-Le temps démêlerait ces sentiments confus,
-Et vous ferait vouloir quelque chose de plus.
-
--*who_lisimene
-A-t-on de ce qu'on aime autre chose à prétendre ?
-
--*who_climene
-Allez, ce n'est pas moi qui vous le dois apprendre ;
-L'Amour n'en dit que trop, à qui veut l'écouter,
-Et ce n'est qu'un époux qu'il vous faut consulter.
-Ne voyez plus Licaste, et songez que sa vue
-Est un poison mortel, est un charme qui tue.
-
--*who_lisimene
-Vous vous trompez ; sitôt qu'on rencontre ses yeux,
-Ils inspirent la joie, et je m'en trouve mieux.
-
--*who_climene
-Vous me fatiguez trop avec votre innocence ;
-Plus de Licaste enfin.
-
--*who_lisimene
-      Quoi, m'ôter sa présence ?
-Ma Mère, qu'ai-je fait qui puisse mériter
-Qu'on m'ôte le seul bien que je puis souhaiter ?
-À tout ce que votre ordre ou mon devoir m'appelle,
-Suis-je pas tous les jours prompte, exacte, et fidèle ?
-Je charme vos ennuis par mille chants nouveaux ;
-Mon florissant troupeau passe tous les Troupeaux ;
-Nul n'entend mieux que moi le soin des Bergeries,
-Je sais déjà quelle herbe infecte nos Prairies.
-On me voit à propos, et d'un soin sans pareil,
-Partager aux brebis l'ombrage et le Soleil.
-Aussi pour m'exciter par l'espoir du salaire,
-J'ai souvent autrefois ouï dire à mon Père,
-Que j'aurais de grands biens un jour à partager.
-Je vous quitte de tout ; laissez-moi mon Berger.
-
--*who_climene
-Qu'on ne m'en parle plus, je vous défends sa vue ;
-Et si votre folie encore continue,
-J'ai de quoi la punir, et j'y saurai pourvoir.
-
-**** *book_ *id_IV02 *act_IV *date_1695
-
--*who_lisimene
-Il n'est rien qui me puisse empêcher de le voir.
-Mère cruelle, hélas ! Philis, quelle défense !
-Je perds tous mes plaisirs, si je perds sa présence.
-Nos Bergers par leurs chants ne cessent d'exprimer,
-Que rien n'est si permis et si doux que d'aimer ;
-Que tout ce qu'on entend d'Oiseaux dans ce Bocage
-Ne chante que d'amour, et que c'est leur langage.
-Que ne me permet-on d'aimer selon mon choix,
-Comme font chaque jour les Oiseaux dans nos Bois.
-Ont-ils reçu du Ciel cet heureux avantage
-De choisir des amants sous un sombre feuillage,
-Tandis que nos Parents, jaloux de nos plaisirs,
-Choisissent nos amants au gré de leurs désirs ?
-Vois quel sera le fruit d'un ordre si sévère.
-Rien ne m'était si doux, si sacré que ma Mère :
-Cependant aujourd'hui, s'il lui faut obéir,
-Ce nom si cher, si saint, je crains de le haïr.
-Dis-moi, pourquoi faut-il qu'une flamme si belle
-Aux yeux de mes Parents paraisse criminelle ?
-
--*who_philis
-C'est la Loi des Mortels, qui trouvent imparfait
-Un choix qu'avec leurs yeux nos Parents n'ont pas fait.
-
--*who_lisimene
-Est-ce un crime pour eux qu'un amour légitime ?
-Et toutes les vertus ne valent pas ce crime :
-L'amour est le seul bien que l'on doit estimer ;
-J'ai commencé de vivre, en commençant d'aimer.
-
--*who_philis
-Licaste vient, allons, évitez sa présence.
-Votre mère...
-
--*who_lisimene
-      Ah Philis, il n'est obéissance,
-Il n'est Dieux, ni Parents, ni respect, ni devoir,
-Qui puisse m'arracher au plaisir de le voir.
-
--*who_philis
-Hé de grâce, fuyez.
-
--*who_lisimene
-      Ah contrainte inhumaine !
-Je ne puis, et vers lui je ne sais quoi m'entraîne.
-
--*who_philis
-Et c'est ce qu'en fuyant il vous faut éviter.
-
--*who_lisimene
-Mais Ergaste s'avance, il faut bien arrêter.
-
-**** *book_ *id_IV03 *act_IV *date_1695
-
--*who_ergaste
-Ah Bergère, je sais par quelle violence...
-
--*who_lisimene
-Venez prendre, Berger, une douce vengeance
-D'une Bergère ingrate à vos tendres soupirs ;
-J'ai fait tous vos malheurs et tous vos déplaisirs ;
-J'ai payé votre amour d'une rigueur extrême ;
-Et vous voyez, Berger, qu'on m'ôte ce que j'aime.
-
--*who_ergaste
-Je ne viens point ici braver votre douleur ;
-Je vous plains, et connais le mal d'un jeune coeur,
-Que malgré son amour on force à l'Hyménée.
-
--*who_lisimene
-À perdre tout mon bien je me vois condamnée.
-Votre frère vous venge, il a su me charmer,
-Et c'est là le Berger qu'on me défend d'aimer.
-Quelle loi, quel devoir, quelle rigueur extrême
-Ne veut pas qu'un chacun vive avec ce qu'il aime ?
-Est-il rien de si fort que l'amour parmi nous ?
-
--*who_ergaste
-Malgré toutes ces lois, il ne tiendra qu'à vous
-De rompre cet Hymen qui vous rend misérable.
-Je viens de voir Silène, et le mal qui l'accable
-À son âme troublée inspire un seul moyen
-Pour servir promptement votre amour et le sien.
-Le temps presse, et demain ce triste Hymen s'achève.
-
--*who_lisimene
-Eh bien, que faut-il faire ?
-
--*who_ergaste
-      Il faut qu'on vous enlève,
-Il faut vous dérober à l'injuste pouvoir,
-Qui pour ce triste Hymen presse votre devoir.
-
--*who_lisimene
-M'enlever ! Quoi, quitter ma Famille, ma Mère,
-Mon cher Troupeau, Philis ma Compagne si chère ?
-
--*who_ergaste
-Il faut prendre Licaste, ou s'enfuir avec lui.
-
--*who_lisimene
-Fuyons ; qu'on me dérobe à ce mortel ennui ;
-Licaste fait lui seul le bonheur de ma vie :
-Je trouve avecque lui ma Mère et ma Patrie :
-J'abandonnerais tout pour un Berger si beau,
-Qui me tient lieu d'amis, de Parents, de Troupeau.
-Mais qui de vous voudra tenter cette entreprise ?
-
--*who_ergaste
-Moi.
-
--*who_lisimene
-      Vous, Berger ?
-
--*who_ergaste
-      Qui donc ? J'entends votre surprise.
-
--*who_lisimene
-Votre frère suffit pour cet Enlèvement,
-Et j'aurais moins de peine à suivre cet amant.
-Mais il ne s'offre point, et son ingrat silence...
-
--*who_telamire
-J'ai cru que par justice, ou par reconnaissance,
-Vous deviez pour le prix de sa fidélité
-Ne confier qu'à lui ce qu'il a mérité.
-
--*who_lisimene
-Vous me laisseriez fuir, Ingrat, avec un autre ?
-Ah ! Mon amour rougit des faiblesses du vôtre.
-Vous ne m'aimez donc point ? Votre légèreté
-M'abandonne sans peine à sa fidélité.
-Ah ! Qu'un Berger tantôt m'avait bien avertie
-Que l'Amour est cruel et plein de perfidie !
-Et que tout ce qu'il donne et promet de douceurs,
-Se change en amertume, et coûte bien des pleurs !
-Si comme toi ton frère avait l'art de me plaire...
-Mais non, je te hais trop, pour estimer ton frère,
-J'épouserai Silène, et j'en fais plus d'état
-Que de toi, que de lui, le frère d'un ingrat.
-
-**** *book_ *id_IV04 *act_IV *date_1695
-
--*who_ergaste
-Ah servons à son gré cette jeune Cruelle.
-
--*who_telamire
-Moi quitter mon Berger, pour s'enfuir avec elle ?
-
--*who_ergaste
-Tu vas perdre Silène, et demain est le jour...
-
--*who_telamire
-Vous ai-je pas instruit de mon nouvel amour ?
-Tirsis prend dans mon coeur la place de Silène.
-
--*who_ergaste
-Je te promets Tirsis, songe à finir ma peine,
-Et sans t'embarrasser d'un si prompt changement,
-Ne songe, chère Soeur, qu'à cet Enlèvement.
-Le jour qui va finir, oblige la Bergère
-D'aller de son Troupeau rendre compte à sa Mère.
-
--*who_telamire
-Enlevez-la vous-même.
-
--*who_ergaste
-      Hé quoi, ne sais-tu pas
-Comme on punit ici ces sortes d'attentats ?
-Ton Sexe excuse en toi ce crime charitable,
-Qui me serait mortel, si j'en étais coupable.
-Daigne songer, ma Soeur, qu'en toi ce grand forfait,
-Sans en craindre la peine, aura tout son effet.
-
--*who_telamire
-Je m'embarrasse peu du péril de ce crime :
-Mais je perds de Tirsis la tendresse et l'estime :
-Nous nous devons revoir avant la fin du jour.
-
--*who_ergaste
-Cependant je perds tout, en perdant mon amour.
-Tirsis doit excuser...
-
--*who_telamire
-      Ô Dieux, l'étrange peine !
-
-**** *book_ *id_IV05 *act_IV *date_1695
-
--*who_silvanire
-Le voici.
-
--*who_telamire
-      C'en est fait, enlevons Lisimène.
-
--*who_silvanire
-Qu'entends-je ? Le perfide !
-
--*who_ergaste
-      Il faut pour ce dessein
-Voir Silène, emprunter son secours et sa main.
-Toi, sans plus différer, cours après la Bergère,
-Vante-lui ton amour, et calme sa colère.
-
--*who_telamire
-Mais vous, voyez Tirsis, et pour m'excuser,
-Tâchez...
-
--*who_ergaste
-      J'aurai le soin de le désabuser,
-Je ferai ce qu'il faut, va, n'en sois point en peine.
-Le temps presse, il est tard, je vais joindre Silène.
-
-**** *book_ *id_IV06 *act_IV *date_1695
-
--*who_telamire
-Je vous trouve à propos, je brûlais de vous voir.
-
--*who_silvanire
-Non, ingrat, je sais tout.
-
--*who_telamire
-      Que pouvez-vous savoir !
-
--*who_silvanire
-Vous deviez pour le moins, pour éviter ma haine,
-Ne parler pas si haut, d'enlever Lisimène.
-Pourquoi me flattiez-vous d'un infidèle espoir ?
-Une amante fidèle, et que vous vouliez voir,
-Venait s'offrir à vous malgré sa retenue,
-Et par un autre amour votre âme prévenue,
-Vous parlez d'enlever...
-
--*who_telamire
-      De grâce, parlez bas,
-Pour cet enlèvement ne vous emportez pas.
-J'entreprends cet effort en faveur de mon frère.
-
--*who_silvanire
-Ne saurait-il lui-même enlever sa Bergère ?
-Celle pour qui je parle, et qui brûle pour vous,
-Vous pourra-t-elle voir sans un dépit jaloux...
-Mais c'est trop se gêner, sachez que c'est moi-même.
-
--*who_telamire
-Vous vous troublez.
-
--*who_silvanire
-      Qui suis...
-
--*who_telamire
-      Quoi ?
-
--*who_silvanire
-      Celle qui vous aime !
-
--*who_telamire
-Vous fille ! Ah mon amour !
-
--*who_silvanire
-      Est-ce un si grand malheur ?
-
--*who_telamire
-Non.
-
--*who_silvanire
-      Qu'est-ce enfin ?
-
--*who_telamire
-      Je suis surpris de mon erreur.
-
--*who_silvanire
-Dites que la beauté que je vous ai tant vantée,
-Dans mes faibles appas est mal représentée.
-Jai forcé ma pudeur, Ingrat, pour mettre au jour
-Deux importants secrets, ma feinte, et mon amour.
-Et vous...
-
--*who_telamire
-      À dire vrai, mon amour et le vôtre...
-
--*who_silvanire
-Achevez dites tout.
-
--*who_telamire
-      N'est pas fait l'un pour l'autre.
-
--*who_silvanire
-Quoi, votre sort est-il si différent du mien ?
-
--*who_telamire
-L'un et l'autre plutôt se ressemblent trop bien.
-Adieu. Vous en saurez quelque jour davantage.
-
-**** *book_ *id_IV07 *act_IV *date_1695
-
--*who_silvanire
-Tu caches tes mépris sous cet obscur langage ;
-Tu cours après une autre, et tu veux l'enlever,
-Ton crime est imparfait, il le faut achever.
-Mais je t'empêcherai de jouir de ton crime.
-Allons faire à Damis un aveu légitime :
-S'il aime ma beauté, c'est à lui de venger
-Ces malheureux appas que l'on vient d'outrager.
-Le voici qui paraît. Montrons-lui sa Bergère,
-Et d'un sort qu'il ignore ouvrons tout le mystère.
-
-**** *book_ *id_IV08 *act_IV *date_1695
-
--*who_silvanire
-Que cherchez-vous, Damis ?
-
--*who_damis
       Vous savez qu'en tous lieux
 Je cherche une Bergère apparue à mes yeux,
 Qui comme une lumière à ma vue éblouie,
 S'est montrée un moment, et s'est évanouie.
 
--*who_silvanire
-Si je vous faisais voir ce que vous cherchez tant...
-
--*who_damis
 Mes voeux seraient remplis, et mon amour content.
 
--*who_silvanire
-De ce que vous cherchez, ces traits et ce visage
-Ne vous offrent-ils point quelque imparfaite image ?
-
--*who_damis
 Je vous ai dit tantôt que sur des traits si doux...
 
--*who_silvanire
-Vous ne vous trompiez point.
-
--*who_damis
       Ma Bergère, est-ce vous ?
 Pourquoi tromper ainsi celui qui vous adore ?
 
--*who_silvanire
-J'avouerai, j'aimais, peut-être j'aime encore,
-Et me devant à qui m'a conservé le jour,
-Je n'osais me montrer ingrate à son amour.
-Mais je m'explique enfin quand je me vois trahie,
-Ce n'était pas assez de vous devoir la vie,
-Je prétends aujourd'hui vous devoir encor plus :
-Je veux un grand service, et je crains un refus.
-
--*who_damis
 Moi je refuserais... Parlez, que faut-il faire ?
 
--*who_silvanire
-Le Berger que j'aimais, aime une autre Bergère,
-Il la veut enlever ; Licaste cet ingrat
-Veut joindre à ses mépris cet indigne attentat.
-Si vous m'aimez, Damis, il faut servir ma haine
-Empêcher cet amant de ravir Lisimène.
-Si je vous dois la vie, il me sera plus doux
-De jouir par vos soins de mon dépit jaloux.
-
--*who_damis
 Je trouve ce que j'aime, et ma joie est extrême,
 Et c'est aux mains d'autrui que je vois ce que j'aime.
 
--*who_silvanire
-Berger, je suis à vous, si sans rien ménager
-Vous prenez promptement le soin de me venger.
-
--*who_damis
 Mais vous aimez Licaste.
 
--*who_silvanire
-      Oui, je l'aime, et ma flamme
-Met d'autant plus avant le dépit dans mon âme :
-Ma beauté méprisée augmente ma fureur,
-Et qui la vengera, s'assure tout mon coeur.
-
--*who_damis
 Contre lui mon secours vous est peu nécessaire :
 Allez dire aux Parents l'attentat qu'on veut faire,
 Découvrez l'entreprise.
 
--*who_silvanire
-      Il ne me suffit pas
-D'aller faire avorter ses lâches attentats :
-Je veux qu'il soit coupable, et goûter mieux la joie
-De voir qu'à son amour on enlève sa proie,
-Je veux qu'avec éclat son crime mis à jour,
-Ruine pour jamais l'espoir de son amour ;
-Et qu'enfin, pour combler le plaisir de ma haine,
-Sans jouir de son crime, il en souffre la peine.
-
--*who_damis
 L'amour d'une Bergère a-t-il tant de fureur ?
 
--*who_silvanire
-Quoi, pour être Bergère, en ai-je moins de coeur ?
-Et suis-je moins sensible à l'injure mortelle
-Que fait à mes appas un Berger infidèle ?
-
--*who_damis
 Bergère, écoutez moins votre ressentiment ;
 Voyez quel est le fruit de cet Enlèvement,
 Il va rompre un Hymen fatal à votre frère.
 
--*who_silvanire
-Il unit pour jamais Licaste à sa Bergère,
-Et couronne à mes yeux ses perfides amours.
-Si d'un péril mortel vous sauvâtes mes jours,
-Si j'étais toute à vous par ma reconnaissance,
-Je ne dois rien à qui néglige ma vengeance.
-Ma vengeance sans vous trouvera quelque appui.
-Mon frère vient : allez consulter avec lui,
-S'il faut tout immoler aux intérêts d'un autre,
-Et s'il vaut mieux servir sa flamme que la vôtre.
-
-**** *book_ *id_IV09 *act_IV *date_1695
-
--*who_silene
-Je viens de voir Ergaste, et nos embrassements
-De deux infortunés font deux heureux amants ;
-Et pour dire en un mot ce qu'il vient de me dire,
-Il veut l'enlèvement, et m'offre Télamire.
-
--*who_damis
 Suspendez votre joie, en voyant mon malheur :
 Vous m'offriez ce que j'aime, et c'était votre Soeur.
 Elle s'offre à mes yeux, elle s'offre à ma flamme,
@@ -2298,158 +2268,11 @@ Il faut donc vous trahir, et servir sa vengeance,
 Elle va de quelque autre implorer l'assistance,
 Et briguer son secours par l'offre de son coeur.
 
--*who_silene
-Que me dis-tu, Damis ? Chère et cruelle Soeur !
-Ingrate, qui trahis ton amant et ton frère.
-Il faut rompre ce coup : va flatter sa colère,
-Cours, et feins de t'offrir à son ressentiment :
-Pour ôter tout obstacle à cet Enlèvement,
-Avec ce faux secours éblouissons sa haine.
-Licaste est sur le point d'enlever Lisimène.
-Ergaste et moi voyant sa résolution,
-Lui répondons du reste en cette occasion.
-Sous couleur d'augmenter l'allégresse publique,
-De Pasteurs déguisés une Danse rustique
-Doit attirer ici Bergères et Bergers,
-Mêlés confusément avec les Étrangers.
-Parmi ce grand tumulte, au milieu de la joie,
-Licaste avec succès peut enlever sa proie.
-Du Bois et de la Nuit l'heureuse obscurité,
-Un Bateau préparé les met en sûreté.
-Mais voici nos Danseurs ; va, cours en diligence
-Amuser Silvanire, et tromper sa vengeance.
-
--*who_bergers
-Dans tous ces déguisements
-Et ces bizarres figures,
-Allez servir nos amants
-Dans leurs galantes aventures :
-Quoiqu'on blâme en ce beau séjour
-Et la ruse et la violence,
-Elles ont quelque innocence,
-Quand elles servent à l'Amour.
-Lisimène ayant été enlevée,
-une Bergère en vient avertir les Ménades.
-On vient enfin d'enlever
-Notre charmante Bergère ;
-L'Amour se plaît à braver
-Les pleurs et les cris d'une Mère :
-Quoiqu'on blâme en ce beau séjour
-Et la ruse et la violence,
-Elles ont quelque innocence,
-Quand elles servent à l'Amour.
-
-**** *book_ *id_V01 *act_V *date_1695
-
--*who_palemon
-Vous allez donc sans crainte et sans déguisement...
-
--*who_silvanire
-Et qu'ai-je à ménager, en perdant mon amant ?
-Loin de cacher ma feinte et ma flamme à mon Père,
-J'ai tout dit ; mon dépit cherche à se satisfaire.
-
--*who_palemon
-Il le sera bientôt : vous allez vous venger ;
-Il suit le Ravisseur.
-
--*who_silvanire
-      Le perfide Berger
-Enlève Lisimène, ou plutôt elle-même
-En fuyant avec lui, m'enlève ce que j'aime.
-
--*who_palemon
-Mais on dit que Licaste en cette occasion,
-D'un frère malheureux servant la passion...
-
--*who_silvanire
-Non. Licaste adoré de la jeune Bergère,
-L'aime, et l'enlève enfin par l'aveu de son frère.
-
--*who_palemon
-Mais sait-il votre Sexe et votre amour jaloux ?
-
--*who_silvanire
-C'est cela, Palémon, qui fait tout mon courroux.
-Hier au soir le trouvant qui parlait à son frère,
-Et qui lui promettait d'enlever la Bergère,
-Je crus, pour m'opposer à cet Enlèvement,
-Qu'il fallait sur mon Sexe éclaircir mon amant.
-J'apprends tout à ce traître, et son âme informée
-De mon déguisement, en paraît alarmée.
-Frappé de cet aveu, comme d'un grand malheur,
-Il tâche en me quittant, de cacher sa douleur,
-Par un discours obscur que je ne puis comprendre.
-Depuis l'ayant surpris près de tout entreprendre,
-M'offrant sous cet habit aux yeux de cet amant,
-L'Ingrat m'a tout promis, avec un faux serment.
-Il ravit Lisimène, et ma haine surprise
-A voulu, mais trop tard, rompre son entreprise.
-J'ai cru (voyez l'espoir de mes lâches désirs)
-Que cet habit étant plus propre à mes soupirs,
-Relevait la Beauté qu'il avait négligée.
-Ah ce dernier affront... Mais je serai vengée.
-Damis, de qui l'amour me sert avec ardeur,
-Ayant malgré la nuit suivi le Ravisseur,
-A rompu l'entreprise.
-
--*who_palemon
-      Et votre jalousie
-S'en va faire périr une si belle vie ?
-Climène l'abandonne aux rigueurs de la Loi.
-
--*who_silvanire
-Qu'il meure cet Ingrat, qui ne vit pas pour moi.
-
--*who_palemon
-Vous pouvez l'obtenir de la Loi favorable
-Qui veut qu'en l'épousant on sauve le coupable.
-
--*who_silvanire
-Si j'en fais mon époux pour lui sauver le jour,
-Ma pitié me le donne, et non pas son amour.
-
--*who_palemon
-Il s'en va donc périr, Bergère trop cruelle.
-
--*who_silvanire
-Ah je ne plains que trop ce charmant Infidèle,
-Mon amour prend déjà trop de pouvoir sur moi.
-Mais enfin à Damis tu sais ce que je dois ;
-Il me sert, il me venge, il me sauve la vie.
-
--*who_palemon
-Damis est trop heureux de vous avoir servie.
-Licaste va périr par votre cruauté :
-Mais quelque autre Bergère aura plus de bonté.
-
--*who_silvanire
-Non, non, je ne veux point qu'une autre me ravisse
-La gloire d'empêcher que Licaste périsse.
-
--*who_palemon
-Vous l'épouserez donc pour empêcher sa mort ?
-
--*who_silvanire
-Il faut bien pour l'Ingrat se faire quelque effort.
-Oui, je l'épouserai pour lui sauver la vie :
-Ne crois pas que je l'aime après sa perfidie.
-Non ; mais je ne veux pas qu'en me manquant de foi,
-Entre les bras d'une autre il triomphe de moi.
-Ah j'aperçois Damis.
-
-**** *book_ *id_V02 *act_V *date_1695
-
--*who_damis
       Ah ma belle Bergère,
 Je crains bien d'avoir mal servi votre colère :
 Je n'ai pu me résoudre à livrer votre amant
 À tout ce qu'exigeait votre ressentiment.
 
--*who_silvanire
-Qu'est-il donc devenu ? Votre froide poursuite...
-
--*who_damis
 Sachant que vers le Fleuve il avait pris la fuite,
 J'y vole, et cours en vain tous les lieux d'alentour.
 Je passe à l'autre bord, et sur le point du jour
@@ -2482,10 +2305,6 @@ Sont unis désormais d'une si belle chaîne,
 Par un amour si saint, par un si digne choix,
 Qu'ils peuvent défier les plus sévères Lois.
 
--*who_silvanire
-Ils sont donc mariés ?
-
--*who_damis
       À ces mots la Bergère,
 Malgré le fier aveu que Licaste ose faire,
 Se tait, baisse la vue, et sans y consentir,
@@ -2494,408 +2313,7 @@ Je ne sais si j'ai bien expliqué son silence :
 Mais dans ce qu'ils ont fait, je vois tant d'innocence,
 Que n'osant séparer deux amants bien unis...
 
--*who_silvanire
-Ah s'ils sont mariés, il faut qu'ils soient punis :
-Mais cependant bien loin d'avoir servi ma haine,
-Licaste par vos soins se dérobe à sa peine.
-Démentez, ou rompez un Hymen qui me perd.
-Vous l'osez publier, après l'avoir souffert.
-Vous prétendez sans doute, après ce mariage,
-Appuyé seulement de votre témoignage,
-Me dérober Licaste, et disposer de moi.
-Je ne me défends point de ce que je vous dois :
-Mais je ne vous dois rien, si Licaste l'épouse.
-
--*who_damis
 Tant que de ce Berger vous paraîtrez jalouse...
 
--*who_silvanire
-Je vous le dis encor, je ne serai qu'à vous.
-Mais on ne m'obtient point, qu'en servant mon courroux.
-Je vais pour notre Hymen m'assurer de mon Père.
-Climène vient, adieu. Vous, songez à vous taire.
-
-**** *book_ *id_V03 *act_V *date_1695
-
--*who_climene
-C'est votre frère et vous qui nous ôtez l'honneur.
-Vous avez suscité ce lâche Ravisseur.
-Vous, qui prîtes le soin de poursuivre ce traître.
-Et qui pouviez enfin vous en rendre le maître,
-C'est vous qui m'empêchez de m'en faire raison.
-On dit que pour servir sa noire trahison,
-Vous savez en secret lui prêter un asile,
-Qui rend de nos amis la poursuite inutile.
-Damis sert votre amour, vos voeux désespérés
-Violent lâchement les droits les plus sacrés :
-Mais je saurai punir ma Fille et votre frère.
-
--*who_ergaste
-De grâce, écoutez-moi ; calmez votre colère.
-
--*who_climene
-Hé que me direz-vous ?
-
--*who_ergaste
-      Que je veux aujourd'hui
-Et vous livrer mon frère, et vous venger de lui,
-Si vous voulez donner Lisimène à ma flamme.
-
--*who_climene
-Quoi, vous l'épouserez sans honneur ? Une infâme !
-
--*who_ergaste
-Non, non, je vous réponds encor de son honneur ;
-Je crains peu l'attentat d'un pareil Ravisseur.
-
--*who_climene
-Doutez-vous de son crime, ou de son mariage,
-Dont Damis rend lui-même un si haut témoignage ?
-Licaste en arrachant, ou recevant sa foi...
-
--*who_ergaste
-Quoi qu'il en soit, Climène, enfin donnez-la moi,
-Et je mets dans vos mains l'amant de Lisimène.
-
--*who_climene
-Oui, je consens à tout, si vous servez ma haine.
-
--*who_ergaste
-Mais vous voulez peut-être, en flattant mon amour...
-
--*who_climene
-Non, j'atteste le Dieu qui nous donne le jour,
-Que ma Fille est à vous, pourvu que je me venge.
-Mais ne songez-vous point à me donner le change,
-Et que par cet Hymen mon sang joint avec vous,
-Excuse votre frère, et calme mon courroux ?
-
--*who_ergaste
-Non, sitôt qu'il sera convaincu de son crime,
-À ce juste courroux je livre sa victime :
-J'abandonne Licaste aux rigueurs de la Loi.
-Un frère criminel est indigne de moi.
-Je vais vous l'amener.
-
-**** *book_ *id_V04 *act_V *date_1695
-
--*who_dorilas
-      Quoi, se peut-il, Bergère...
-
--*who_climene
-Ah Berger, vous voyez...
-
--*who_dorilas
-      L'excès de ma colère
-M'empêche de parler, laissez-moi respirer.
-Un si mortel affront ne se peut réparer.
-Quoi, Climène, un Berger avec tant d'insolence,
-Troublent de nos Déserts la paix et l'innocence ?
-L'honneur de nos Maisons n'est plus en sûreté.
-Il ose violer un Hymen arrêté ;
-Et le traître achevant ce crime par un autre,
-Outrage en même temps et ma Fille et la vôtre !
-J'ai su qu'à Silvanire il a donné sa foi,
-Pour trahir d'un seul coup mon Fils, ma Fille, et moi.
-Je brûle dans l'ardeur de ma juste colère,
-De voir le châtiment d'un Berger téméraire.
-
--*who_climene
-Vous serez satisfait : de cette trahison
-Un amant irrité vous va faire raison.
-Ergaste entre vos mains va livrer le coupable.
-
--*who_dorilas
-Quoi, son frère ?
-
--*who_climene
-      À ses yeux son crime est effroyable.
-Sans pitié pour un frère à son amour fatal,
-Il ne regarde en lui qu'un indigne Rival :
-Mais aussi savez-vous quelle est la récompense
-Qui doit payer les soins qu'il prend de ma vengeance ?
-Il demande ma Fille, y consentirez-vous ?
-
--*who_dorilas
-Quoi, l'aime-t-il encor ? Ah qu'il soit son époux.
-Je n'y résiste point, j'y consens, qu'il la prenne,
-Cette Fille enlevée, indigne de Silène.
-Je destine mon Fils à des Partis meilleurs,
-Et je rends grâce au Ciel de voir qu'il aime ailleurs.
-Mais la voici qui vient, et mon Fils avec elle.
-
-**** *book_ *id_V05 *act_V *date_1695
-
--*who_lisimene
-Voilà les Ennemis d'une flamme si belle.
-Ah que votre rencontre est un secours bien doux,
-Pour m'aider à combattre un injuste courroux.
-
--*who_climene
-C'est en vain qu'affectant une mine innocente,
-D'un air simple et naïf, vous faites l'ignorante.
-Quand votre âge pourrait excuser votre erreur,
-Êtes-vous sans respect, sans crainte, et sans pudeur ?
-Je vois bien que tantôt sur votre résistance
-J'ai dû me défier de votre obéissance,
-Mais je ne puis douter qu'à votre Enlèvement
-Votre coeur n'ait donné tout son consentement.
-
--*who_lisimene
-Je l'ai donné, ma Mère, en dépit de moi-même.
-Peut-on pas se donner sans crime à ce qu'on aime ?
-En fuyant avec lui, j'ai craint de vous fâcher,
-Philis même a pris soin de me le reprocher :
-Mais un charme invincible a combattu ma Mère,
-Et m'a fait oublier que j'allais vous déplaire.
-Que j'allais vous déplaire ! Eh pourquoi m'alarmer ?
-Ne savez-vous pas bien ce que c'est que d'aimer ?
-Mais quand bien vous pourriez me traiter de coupable
-Licaste est-il haï, parce qu'il est aimable ?
-Le beau Pasteur que j'aime, et que vous haïssez,
-Se dérobe au courroux dont vous le menacez.
-Quel mal lui voulez-vous, pour menacer sa vie ?
-J'ai suivi mon amant, il ne m'a point ravie.
-Rassurez mon Berger contre tant de rigueur.
-C'est un choix que j'ai fait, non pas mon Ravisseur.
-
--*who_climene
-Qu'osez-vous avouer, et qui vous a donnée ?
-Quel est ce ridicule et bizarre Hyménée,
-Que vous avez conclu sans moi, loin de mes yeux,
-Sans Parents, sans Témoins, sans Autels, et sans Dieux.
-
--*who_lisimene
-Qu'on rompe cet Hymen, et que j'en sois punie,
-Si j'ai rien oublié de la cérémonie.
-J'ai vu plus d'un Hymen, ma Mère, parmi nous,
-Et sais ce qui se passe en des liens si doux.
-Les deux amants aux pieds de la chaste Immortelle
-Se donnent par leurs mains une foi mutuelle ;
-Puis au bruit des Concerts et des Chants amoureux,
-Dans le Lit nuptial on les mène tous deux.
-Voilà ce qui se passe alors qu'on se marie,
-Et comme parmi nous l'Hymen se justifie.
-Ainsi Licaste et moi suivant les mêmes Lois,
-Le hasard nous offrant un Temple dans un Bois,
-Au pied d'un vieil Autel, d'une ardeur mutuelle,
-Nous nous sommes jurés une amitié fidèle.
-Ceux qui m'accompagnaient et secondaient mes voeux,
-Ont par quelques chansons célébré ces beaux noeuds ;
-Puis la nuit survenant, une route secrète
-Sous un feuillage épais nous offre une retraite,
-Où pour se reposer, l'art de quelques Pasteurs
-Avait fait comme un Lit de gazon et de fleurs.
-Et nous couchant tous deux...
-
--*who_climene
-      Que dites-vous ?
-
--*who_lisimene
-      Ma Mère,
-L'Hymen le veut ainsi, pourquoi tant de colère ?
-Tout ce qui s'est passé cette nuit entre nous,
-Est digne de pitié, non de votre courroux.
-D'abord, pour m'expliquer sa joie et sa tendresse,
-Licaste m'entretient, me flatte, et me caresse ;
-Et moi, pour l'imiter, pleine de mon amour,
-Je voulais en parler, et veiller jusqu'au jour.
-Lui, bien loin de répondre à l'ardeur qui me touche,
-Il s'endort, et les mots lui meurent dans la bouche ;
-Il combat le sommeil, mais c'est si lâchement,
-Qu'il y succombe enfin, et dort tranquillement ;
-Et ce profond sommeil vous fait bien voir, ma Mère,
-Qu'il est plein d'innocence, et qu'il ne m'aime guère.
-
--*who_climene
-Est-ce ainsi qu'on s'excuse, après ces attentats ?
-Ton âge est innocent, et ton coeur ne l'est pas.
-
--*who_dorilas
-Le coeur, ainsi que l'âge est innocent en elle.
-C'est sur son Ravisseur, c'est sur cet Infidèle,
-Qui de son innocence abuse lâchement,
-Qu'il faut faire tomber notre ressentiment.
-
--*who_silene
-Hé de grâce, épargnez en faveur de ma flamme,
-Un Berger dont la Soeur charme toute mon âme.
-Puisqu'un Père plus doux à mes tendres désirs,
-Vers celle que j'aimais laisse aller mes soupirs,
-Voudrait-il à mes voeux favorable et contraire,
-Me donner Télamire, en punissant son frère ?
-
--*who_dorilas
-Malgré tout votre amour, j'en croirai mon courroux
-Et ma vengeance enfin m'est plus chère que vous.
-Ergaste à qui l'on vient de donner Lisimène...
-Le voici.
-
-**** *book_ *id_V06 *act_V *date_1695
-
--*who_dorilas
-      Quoi, tout seul ?
-
--*who_ergaste
-      Non, non, je vous l'amène
-Ce malheureux Objet d'un trop juste courroux :
-Mais pour le prix des jours que je livre à vos coups,
-Vos serments m'ont donné la Beauté que j'adore,
-Vous me l'avez juré.
-
--*who_climene
-      Je vous le jure encore,
-Dorilas y consent, et permet à son Fils
-De conserver des feux que nous avions trahis.
-Livrez-nous promptement ce Ravisseur infâme.
-
-**** *book_ *id_V07 *act_V *date_1695
-
--*who_ergaste
-Le voici.
-
--*who_climene
-      Quoi, Berger, je ne vois qu'une Femme !
-
--*who_dorilas
-Le lâche prétend-il par ce déguisement
-Éblouir ma vengeance, et fuir son châtiment ?
-
--*who_silene
-C'est Télamire. Ô Dieux, ouvrez les yeux, mon Père.
-
--*who_lisimene
-C'est Licaste, c'est lui, mais c'est une Bergère.
-
--*who_telamire
-Vous voyez devant vous ce lâche Ravisseur,
-Qu'on cherche et qu'on poursuit avec tant de chaleur,
-Sous l'habit de Berger, amante infortunée,
-À perdre mon amant me voyant condamnée,
-Voyant mon frère au point d'aller perdre le jour,
-J'ai voulu secourir mon frère et mon amour :
-Du sang et de l'amour vous savez la puissance,
-Pour eux tout m'a paru juste et plein d'innocence.
-Voilà ce que l'Amour fait en votre faveur,
-Pour réparer l'effet d'une injuste rigueur.
-
--*who_silene
-Malgré tout mon dépit, malgré l'ordre d'un Père,
-Je n'ai rien oublié pour avoir ma Bergère.
-
--*who_telamire
-Vous voyez les raisons de mon déguisement.
-
--*who_lisimene
-Et j'admire l'effet d'un si grand changement :
-Quand je perds tout d'un coup une erreur agréable,
-Je vous en aime moins, Ergaste est plus aimable.
-Et ne puis deviner pourquoi nous n'avons pas,
-Moi même ardeur pour vous, et vous mêmes appas.
-
--*who_telamire
-Je ne suis pas Berger, voilà tout le mystère.
-
--*who_lisimene
-Vous dois-je moins aimer, quand vous êtes Bergère ?
-Non, non, mais vous savez rompre, à ce que je vois.
-Le sort qu'hier en passant vous jetâtes sur moi.
-Rendez-moi mon amour ou faites-moi comprendre
-Ce que vous devez être, afin de me le rendre.
-
--*who_telamire
-Consultez cet amant.
-
--*who_lisimene
-      Faites-moi concevoir,
-Ergaste...
-
--*who_ergaste
-      En m'épousant, vous pourrez tout savoir.
-Me pardonnerez-vous l'amoureux stratagème ?
-
--*who_silene
-Me refuserez-vous, mon Père, ce que j'aime ?
-
--*who_dorilas
-Climène ?
-
--*who_climene
-      Dorilas. Quand même mon serment
-Se pourrait violer après ce changement,
-Ces objets de pitié, de tendresse, et de flamme,
-Je dois vous l'avouer, ont passé dans mon âme.
-La Nature et l'Amour, ces deux Maîtres si doux,
-Renversent nos desseins, et sont plus forts que nous.
-
--*who_dorilas
-Pour calmer un courroux que j'ai cru légitime,
-Son Sexe et son amour excusent tout son crime.
-
-**** *book_ *id_V08 *act_V *date_1695
-
--*who_silvanire
-Licaste est pris : on va presser son châtiment.
-Grâce, Bergers : sauvez ce malheureux amant ;
-Je ne puis voir périr, malgré sa perfidie,
-Pour un crime d'amour, une si belle vie :
-Je viens par mon Hymen empêcher son trépas.
-Qu'est-il donc devenu ? Serait-il mort ? Hélas !
-
--*who_ergaste
-Le voilà devant vous.
-
--*who_silvanire
-      Quoi, dans cet équipage ?
-
--*who_telamire
-C'est lui-même.
-
--*who_silvanire
-      Je vois ses traits et son visage.
-
--*who_telamire
-C'est Télamire ; ainsi nous nous trompions tous deux.
-
--*who_damis
 Que ce déguisement faisait de malheureux !
 
--*who_silvanire
-Que vous m'avez coûté de pleurs, belle Bergère.
-Damis, je suis à vous, si j'ai l'aveu d'un Père.
-
--*who_dorilas
-Oui, vous l'avez, ma fille, et votre frère aussi.
-
--*who_climene
-Je me rends comme vous, le Ciel le veut ainsi.
-Ergaste prendra donc la place de Silène,
-Et Télamire aura celle de Lisimène.
-Je vois bien que les Dieux n'ont fait cet embarras
-Que pour rompre des noeuds qui ne leur plaisaient pas.
-
--*who_dorilas
-Allons donc célébrer l'heur de cette Journée,
-Qui par un noeud rompu, forme un triple Hyménée.
-Et vous, Divinités, qui régnez dans ces Bois,
-Joignez à nos plaisirs vos Danses et vos Voix.
-Vous allez, Bergère,
-Prendre un jeune époux ;
-C'est un mystère
-Fort caché pour vous.
-S'il faut vous instruire,
-Sans vous en rien dire,
-Voici le grand jour :
-L'Hymen rend savante
-La plus ignorante
-Des secrets d'Amour.
-Que de biens ensemble !
-Quels plaisirs charmants
-L'Hymen assemble
-Pour tous ces amants !
-Que de justes plaintes,
-De maux et de craintes,
-Meurent en un jour !
-Ô douces alarmes,
-Trop heureuses larmes,
-Que finit l'Amour !

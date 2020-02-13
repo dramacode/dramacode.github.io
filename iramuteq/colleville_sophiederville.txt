@@ -1,1315 +1,615 @@
 
 
-**** *book_ *id_I01 *act_I *date_1788
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorsan
 
--*who_madamedorsan
-Dans mon incertitude, je ne sais que répondre.
-Quel plus grand intérêt !
-Je traite du bonheur de ma fille !
-Lisons encore une fois la lettre que m'écrit le Chevalier de Valbelle.
-« Madame, je n'attends que vos ordres pour partir. »
-Ah !
-Qu'il ne parte point encore !
-J'ai promis la main de ma fille, mais à cette condition, que son coeur se donnerait en même temps et le coeur de Sophie se tait, que dis-je ?
-Il répugne peut-être à cette union....
-Hélas !
-Une mère pénètre plutôt le secret de sa fille qu'elle ne l'obtient.
-Il faut consulter Derville.
-En m'aidant des conseils d'un homme sage, et mon plus ancien ami, j'agirai sans doute avec plus de prudence.
+Oui, eh bien ! Quoi ? Que sais-tu ?
 
-**** *book_ *id_I02 *act_I *date_1788
-
--*who_lisette
-Je n'ai point oublié que Madame m'a demandé des instructions sur le compte de Mademoiselle.
-
--*who_madamedorsan
-Oui, eh bien !
-Quoi ?
-Que sais-tu ?
-
--*who_lisette
-Ah !
-Ces distractions, ces rêveries, cette tristesse qui nous alarmait est bien loin.
-
--*who_madamedorsan
 Comment ?
 
--*who_lisette
-Un petit ouvrage sur l'amitié, que Mademoiselle lit, et dont il m'a fallu entendre quelque chose, a opéré ce grand changement.
-
--*who_madamedorsan
 Et dis-moi, quand vous êtes ensemble, le Chevalier de Valbelle n'a point de part à vos entretiens ?
 
--*who_lisette
-Valbelle !...
-Nous ne respirons que depuis qu'il est absent.
-C'est précisément, je pense, parce qu'il est le plus joli cavalier du monde, qu'il lui déplaît davantage.
-Dans sa figure, elle ne voit que des traits, elle y cherche une âme ; dans ses grâces, elle croit apercevoir les prétentions dont elle est l'ennemie ; son âge c'est celui de l'inexpérience et de la légèreté ; son caractère, n'est point assez franc...
-
--*who_madamedorsan
 Accoutumée dès son enfance à la sincérité de Derville...
 
--*who_lisette
-Oh !
-Pour lui, c'est autre chose...
-Cette amitié-là est bien sans conséquence en vérité.
-Mais pourtant, cela n'empêche pas que je ne sois très assurée qu'elle le préfère à tous ; car, c'est assez qu'il paraisse s'apercevoir des défauts de Mademoiselle, pour qu'elle mette toute son attention à les corriger.
-Et ces défauts, quels sont-ils ?...
-Mais elle a tant de confiance en lui !...
-
--*who_madamedorsan
 En lui ?
 
--*who_lisette
-Mais, oui, je dis bien : elle a tant de confiance en lui... que les conseils qu'il lui donne, les sciences qu'il lui enseigne ; c'est tout cela, dis-je, qui attache Mademoiselle Sophie à lui.
-
--*who_madamedorsan
 Sans doute.
 
--*who_lisette
-Car, très certainement, elle n'est point éprise d'un homme de cet âge, fort sérieux, quelquefois même assez triste.
-Et pour Monsieur Derville...
-
--*who_madamedorsan
 Après.
 
--*who_lisette
-S'il était amoureux ici...
-Ce ne serait assurément point de Mademoiselle Sophie, qui n'a que quinze ans...
-Madame est bien convaincue...
-
--*who_madamedorsan
-De quoi ?
-Et qui vous parle d'amour ?
+De quoi ? Et qui vous parle d'amour ?
 Quelle mère est assez heureuse, pour que le coeur de sa fille parle au gré de ses voeux ?
 
--*who_lisette
-Qu'ai-je dit ?
-On n'apprend pas à quelqu'un son propre secret.
-
--*who_madamedorsan
 Vous aurez soin de ne laisser entrer personne dans mon cabinet, à l'exception de Derville.
 
--*who_lisette
-Ah !
-Monsieur Derville pourra entrer, lui ?
-
--*who_madamedorsan
 Oui.
 
--*who_lisette
-Chez Madame ?
-
--*who_madamedorsan
 Sans doute.
 
--*who_lisette
-Je le crois.
-Elle ne sait pas qu'il part ce soir.
-
-**** *book_ *id_I03 *act_I *date_1788
-
--*who_lisette
-Ce Monsieur Derville, s'aviser de vouloir nous quitter ?
-Lui, depuis dix ans dans cette maison, lui parent et ami de ma maîtresse, chéri de Sophie comme un père !
-Dubois !
-Je le questionnerai tant, qu'il faudra bien qu'il parle.
-Dubois !
-Mais arrive donc.
-
-**** *book_ *id_I04 *act_I *date_1788
-
--*who_dubois
-Le voilà Dubois, on ne l'appelle que pour le faire jaser ; mais vous ne voulez pas croire à ce que je vous ai dit, je ne saurais qu'y faire, moi.
-
--*who_lisette
-Derville quitter ces lieux ?
-
--*who_dubois
-Ces lieux, cette maison.
-Plus de lectures, plus de leçons à Mademoiselle Sophie ; mon maître part ce soir, c'est comme cela.
-
--*who_lisette
-Mais encore, comment ?
-Pourquoi ?
-On s'explique...
-
--*who_dubois
-Il est inexplicable lui-même.
-Enfoncé dans ses rêveries, il vous regarde, et ne vous aperçoit pas ; il est tel, qu'il en donne envie de rire.
-
--*who_lisette
-Que t'a-t-il dit ?
-
--*who_dubois
-Trois choses.
-Je pars, je le dois, que tout soit prêt.
-
--*who_lisette
-Je pars, je le dois.
-
--*who_dubois
-Que voulez-vous ?
-Le maître commande, le valet obéit ; ainsi le veut la loi, qui fit des maîtres et des serviteurs.
-Adieu, Mademoiselle.
-Gardez-moi le secret.
-
--*who_lisette
-Un moment.
-Ce voyage précipité...
-Tu n'en diras pas davantage.
-
--*who_dubois
-Là, là, parce que vous êtes fille, et curieuse, il faut que je me trouve, à point nommé, babillard et instruit.
-Je n'ai rien à dire, moi ; tout ce que je dis, c'est qu'on sait bien que Monsieur Derville n'est pas comme un autre, qu'il n'agit, lui, que quand il a bien réfléchi.
-
--*who_lisette
-Belle réflexion, qui lui fait faire une sottise, qui...
-
--*who_dubois
-Trêve à l'entretien.
-Monsieur Derville m'attend.
-Sur pied depuis cinq heures du matin, il a mis le nez, je crois, dans tous les volumes de sa bibliothèque, sans avoir jamais pu trouver ce qui lui convenait.
-Voyez-vous, c'est le cerveau qui est malade.
-Du mystère, Mademoiselle Lisette, du mystère.
-
-**** *book_ *id_I05 *act_I *date_1788
-
--*who_lisette
-J'en entrevois beaucoup, et je l'ai pénétré.
-Ma maîtresse, dont le coeur est tout à sa fille, ne veut pas entendre à un second hymen ; et Derville rebuté, prend son parti dans la fuite ; c'est clair.
-
-**** *book_ *id_I06 *act_I *date_1788
-
--*who_derville
-Ce livre est détestable.
-Malheureux pédant !
-Sois touché de nos misères, au lieu de les fronder.
-Le moraliste qui me console, c'est celui qui sait me plaindre.
-Ah !
-Te voilà.
-
--*who_lisette
-Devant vos yeux.
-Si je pouvais le faire parler.
-
--*who_derville
-L'homme est faible, très faible.
-Depuis quarante ans que j'existe, vingt années d'expérience ne me servent encore qu'a me prouver cette vérité.
-
--*who_lisette
-Heureux celui qui s'entretient avec soi-même.
-A-t-il tort, a-t-il raison, personne ne le contredit.
-
--*who_derville
-Que fais-tu donc là ?
-
--*who_lisette
-J'ai l'air de perdre mon temps, Monsieur ; je vous admire.
-
--*who_derville
-Je n'ai rien d'admirable en vérité.
-
--*who_lisette
-Oh !
-Que pardonnez-moi, l'esprit de réflexion, l'amour de l'étude, de la philosophie.
-Ah !
-Monsieur, que c'est, dit-on, une belle chose que la philosophie !
-Apprenez-moi donc au juste ce que c'est, en quoi elle consiste.
-Ma jeune maîtresse fait un si grand cas de vos leçons, et Madame elle-même...
-
--*who_derville
-Sophie !...
-Oui, elle m'écoutait.
-Tant de simplicité, l'amour du vrai.
-
--*who_lisette
-L'éloquence du maître.
-
--*who_derville
-Moi, chercher à la séduire, moi !
-
--*who_lisette
-Mon Dieu, quelle chaleur !
-Qui vous dit cela ?
-Votre honnêteté, la confiance de Madame...
-Vous êtes aujourd'hui bien pensif, Monsieur, on dirait que vous méditez secrètement quelque projet bien difficile, et que...
-
--*who_derville
-Tu disais...
-Tu demandais quelque chose, je crois.
-
--*who_lisette
-Ah !
-Je m'en souviens, je vous demandais à quoi la philosophie est bonne, et en quoi vous la faites consister.
-
--*who_derville
-Dans les sacrifices.
-
--*who_lisette
-Le secret échappe.
-De quel air vous dites cela !
-Quoi !
-Ce sont des sacrifices bien coûteux, bien pénibles, qu'elle veut de nous ?
-
--*who_derville
-Elle voudrait peut-être notre tranquillité...
-Mais qu'obtient-elle ?
-Nos regrets.
-
--*who_lisette
-Il faut qu'elle ait bien peu de crédit, bien peu d'empire.
-
--*who_derville
-Les passions, sans contredit, en ont davantage.
-
--*who_lisette
-L'amour, par exemple ?
-
--*who_derville
-Ah !
-Laisse-moi, j'ai besoin de repos.
-
--*who_lisette
-J'en sais suffisamment, Monsieur Derville.
-Vous aimez Madame Dorsan, à en perdre l'esprit, vous voudriez obtenir sa main ; j'en suis certaine.
-Ne craignez plus mes questions importunes.
-Adieu, Monsieur, je vais dire à Madame que vous êtes ici.
-
--*who_derville
-Oui, j'ai des choses essentielles à lui communiquer.
-
--*who_lisette
-Il est fou.
-Ah !
-La philosophie ne sera pas mon étude ; le sens commun vaut encore mieux.
-
-**** *book_ *id_I07 *act_I *date_1788
-
--*who_derville
-Ce départ m'occupe tout entier.
-Ne plus la voir !...
-Je ne suis point à moi, non.
-Quelqu'effort que je fasse.
-Ou la moins connaître, ou l'aimer.
-Le charme de nos entretiens, ses vertus, sa confiance, l'intérêt exprimé dans ses regards ; oui, l'intérêt qu'elle prend à moi.
-Insensé !
-Non, je partirai.
-Il faut en instruire Madame Dorsan.
-La voici.
-
-**** *book_ *id_I08 *act_I *date_1788
-
--*who_madamedorsan
 Je vous cherchais, Derville...
 
--*who_derville
-J'étais aussi dans le dessein...
+Je viens réellement pour m'entretenir avec vous, et même pour vous prier de me donner des avis. Asseyons-nous ; vous fixerez mes idées.
 
--*who_madamedorsan
-Je viens réellement pour m'entretenir avec vous, et même pour vous prier de me donner des avis.
-Asseyons-nous ; vous fixerez mes idées.
+Si je n'avais à craindre de m'abuser que sur ma propre félicité, ce serait peu sans doute ; mais risquer de me méprendre à l'égard du bonheur de ma fille, exposer son repos !... Ah ! Vous le savez, elle m'est bien chère ! C'est à son sujet, Derville, que je veux vous demander des conseils.
 
--*who_derville
-J'aurais besoin sans doute...
-Mais les vôtres, Madame, ne portant que sur des projets sensés, d'une exécution facile, ne doivent point vous trouver irrésolue.
+Sophie est bien jeune, il est vrai ; mais elle est plus formée du côté de la raison, qu'on ne l'est à son âge ; et moi, ayant cru trouver dans le chevalier de Valbelle, celui qui peut assurer son bonheur, je médite cette union. Je pèse sur l'obstacle que ma fille semble y mettre par son indifférence pour lui. Il m'écrit ; il arrive de son régiment : me trouvera-t-il encore indécise ? Craindre de forcer l'inclination de Sophie ; elle ignore son propre coeur. La contraindre, je n'ai pas ce courage. Sa mélancolie accroît chaque jour ; je me trompe peut-être ; mais une mère s'alarme de si peu !... Derville, conseillez-moi ; je le répète, ma tendresse peut m'aveugler ; au lieu que vous, plus désintéressé...
 
--*who_madamedorsan
-Si je n'avais à craindre de m'abuser que sur ma propre félicité, ce serait peu sans doute ; mais risquer de me méprendre à l'égard du bonheur de ma fille, exposer son repos !...
-Ah !
-Vous le savez, elle m'est bien chère !
-C'est à son sujet, Derville, que je veux vous demander des conseils.
+Douter, de quoi, Derville ? De l'intérêt que vous devez prendre à Sophie, qui vous chérit, et vous doit beaucoup. Douter de votre raison...
 
--*who_derville
-Des conseils, à moi, à son sujet ?
+Ma surprise est extrême, il me laisse. Quel discours, quel trouble ! D'autant mieux aperçu qu'il s'efforce de le cacher, et que je ne suis pas à reconnaître que quelque chose l'occupe, et l'afflige. Derville est courageux, mais Derville est sensible. Il renferme une peine secrète au fond de son coeur, il en est dévoré peut-être...
 
--*who_madamedorsan
-Sophie est bien jeune, il est vrai ; mais elle est plus formée du côté de la raison, qu'on ne l'est à son âge ; et moi, ayant cru trouver dans le chevalier de Valbelle, celui qui peut assurer son bonheur, je médite cette union.
-Je pèse sur l'obstacle que ma fille semble y mettre par son indifférence pour lui.
-Il m'écrit ; il arrive de son régiment : me trouvera-t-il encore indécise ?
-Craindre de forcer l'inclination de Sophie ; elle ignore son propre coeur.
-La contraindre, je n'ai pas ce courage.
-Sa mélancolie accroît chaque jour ; je me trompe peut-être ; mais une mère s'alarme de si peu !...
-Derville, conseillez-moi ; je le répète, ma tendresse peut m'aveugler ; au lieu que vous, plus désintéressé...
-
--*who_derville
-Désintéressé !...
-Et où trouvez-vous, Madame, qu'on le fut jamais ?
-En êtes-vous encore à vous en fier aux apparences, à fonder sur elles ?
-Et parce que vous verrez un front calme, croirez-vous qu'on ne puisse être agité ?
-Vous me croyez votre ami, je suis peut-être un ingrat.
-Ce soir, je puis vous paraître un ingrat, un insensé !... quand je ne serai que prudent, et votre ami.
-Trop de véhémence m'emporte ; mais croyez-moi, Madame, contenir, renfermer ses passions, ce n'est pas en être exempt.
-L'homme soumis aux passions n'est point indifférent, il n'est point désintéressé !...
-Mais l'on décide, l'on juge, l'on croit, où l'on devrait douter, où l'on devrait...
-
--*who_madamedorsan
-Douter, de quoi, Derville ?
-De l'intérêt que vous devez prendre à Sophie, qui vous chérit, et vous doit beaucoup.
-Douter de votre raison...
-
--*who_derville
-La raison faiblit à proportion des forces qu'on en exige.
-Souvent, le prétendu sage n'est qu'un fou comme un autre.
-Et sensible, à mon âge...
-Je ne puis soutenir cet entretien.
-Un autre instant me verra, peut-être, plus calme.
-Vous me connaîtrez,... vous connaîtrez mon coeur,... et s'il sait remplir les devoirs de l'amitié, se soumettre aux sacrifices qu'elle impose.
-
-**** *book_ *id_I09 *act_I *date_1788
-
--*who_madamedorsan
-Ma surprise est extrême, il me laisse.
-Quel discours, quel trouble !
-D'autant mieux aperçu qu'il s'efforce de le cacher, et que je ne suis pas à reconnaître que quelque chose l'occupe, et l'afflige.
-Derville est courageux, mais Derville est sensible.
-Il renferme une peine secrète au fond de son coeur, il en est dévoré peut-être...
-
-**** *book_ *id_I10 *act_I *date_1788
-
--*who_sophie
-Ô ma chère maman !
-Je viens de lire un traité sur l'amitié...
-Quel ouvrage, oh, dieux !
-Et quel sentiment !
-L'auteur dit que, quand on l'éprouve, on est vertueux.
-
--*who_madamedorsan
 Qui vous a prêté ce livre ?
 
--*who_sophie
-C'est mon bon ami, c'est Derville.
+Votre bon ami ? Vous entrez dans un âge, ma fille, où la pudeur avertie ne veut plus cette expression trop familière. Songez...
 
--*who_madamedorsan
-Votre bon ami ?
-Vous entrez dans un âge, ma fille, où la pudeur avertie ne veut plus cette expression trop familière.
-Songez...
-
--*who_sophie
-Vous parlez de Derville, ma chère maman ; vous trouvez à redire que je l'appelle encore mon ami.
-Eh !
-Ne l'est-il pas ?
-Quel autre, envers moi, peut avoir autant de sincérité ?
-Quel autre...
-Jugez-en vous-même.
-Comparez, et sentez la différence.
-
--*who_madamedorsan
 Voyons.
 
--*who_sophie
-Quand je me trouvais avec le Chevalier, il ne m'entretenait que des agréments, des charmes qu'il me suppose ou me prête.
-Quel homme insupportable !
-Il me dira que je suis belle ; prétend-il me séduire, qu'il veuille m'abuser ?
-Doute-t-il de ma conception, de mon entendement, pour ne me dire que des mots ?
-Doute-t-il enfin, que j'aie une âme... pour ne s'adresser qu'à ma vanité ?
-Ah Derville, Derville !
-Sur mes traits, juge de ma santé : à mon enjouement, il connaît la paix de mon âme : dans mes raisonnements, il veut de la justesse ; dans mon caractère, du naturel ; à mon coeur, de la droiture.
+Vous pensez avec sagesse, Sophie ; et pour moi quelle satisfaction ! Je vous vois assez formée maintenant pour être mariée. Valbelle m'écrit, me sollicite...
 
--*who_madamedorsan
-Vous pensez avec sagesse, Sophie ; et pour moi quelle satisfaction !
-Je vous vois assez formée maintenant pour être mariée.
-Valbelle m'écrit, me sollicite...
+C'est lui dont je fais choix. Son âge vous paraît-il celui de l'étourderie, c'est aussi celui du bonheur, des qualités aimables... L'expérience attriste l'homme. Il vous trouve jolie, et cela vous déplaît ; mais s'il vous juge avec un coeur touché, c'est un tort léger ce me semble, et que vous devez pardonner au tendre intérêt qu'il prend à vous.
 
--*who_sophie
-Valbelle !
-
--*who_madamedorsan
-C'est lui dont je fais choix.
-Son âge vous paraît-il celui de l'étourderie, c'est aussi celui du bonheur, des qualités aimables...
-L'expérience attriste l'homme.
-Il vous trouve jolie, et cela vous déplaît ; mais s'il vous juge avec un coeur touché, c'est un tort léger ce me semble, et que vous devez pardonner au tendre intérêt qu'il prend à vous.
-
--*who_sophie
-De l'intérêt, à moi, il me flatte !
-
--*who_madamedorsan
 Point du tout ; il vous voit telle qu'il vous peint.
 
--*who_sophie
-On ne voit point en beau, on n'a point de ces yeux prévenus, pour ceux qui nous inspirent un réel attachement ; on les voit tels qu'ils sont, et la perfection qu'on leur trouve, n'est pas encore celle qu'on leur souhaite.
-
--*who_madamedorsan
 Derville, par exemple ; l'amitié voit comme cela, mais l'amour...
 
--*who_sophie
-Qu'il est froid ce sentiment si vanté !
-Que j'ai peine à concevoir comment les coeurs tendres en sont si vivement touchés !...
-J'aurai de l'amour pour Valbelle, j'en aurai, si vous le voulez, maman ;... mais quelque soit mon obéissance, ma soumission à vos moindres volontés, non !...
+Quelle émotion ! Achevez.
 
--*who_madamedorsan
-Quelle émotion !
-Achevez.
+Que dit-elle ? Son innocence lui fait-elle prendre le change ?
 
--*who_sophie
-Je ne saurais avoir de l'amitié pour lui.
-
--*who_madamedorsan
-Que dit-elle ?
-Son innocence lui fait-elle prendre le change ?
-
--*who_sophie
-Pourquoi nous séparer ?
-
--*who_madamedorsan
 Et le sentiment qu'elle prend pour l'amitié, ne serait-il en effet que l'amour ?
 
--*who_sophie
-Sophie ne vous est-elle plus aussi chère ?
-Oh !
-Maman !
-Vous ne m'écoutez pas ?
+Derville aime sans doute, et son caractère me répond de sa constance ; mais, qui me répond de ma fille ? Dans un âge aussi tendre... Dois-je m'en rapporter entièrement au trouble de Sophie ? Ces premiers mouvements de la nature en elle, sont-ils bien ceux du coeur ? Et moi, pénétrant dans l'avenir, envisageant des suites qui peuvent être cruelles !...
 
--*who_dorsan
-Mais que me voulez-vous donc ?...
-Vous allez prendre votre leçon d'Italien, et vous n'étudiez pas ?...
-De l'un et de l'autre côté, je vois des rapports qui me frappent.
-Derville souffre, et ma fille aussi.
+J'ai lu dans le coeur de Sophie ; il faut l'éprouver. Il faut commencer par les observer davantage, en leur laissant plus de liberté ; sûre de Derville comme de moi-même !...
 
--*who_sophie
-Je vois...
-Je ferai tout ce que vous ordonnerez maman.
-
--*who_madamedorsan
-Derville aime sans doute, et son caractère me répond de sa constance ; mais, qui me répond de ma fille ?
-Dans un âge aussi tendre...
-Dois-je m'en rapporter entièrement au trouble de Sophie ?
-Ces premiers mouvements de la nature en elle, sont-ils bien ceux du coeur ?
-Et moi, pénétrant dans l'avenir, envisageant des suites qui peuvent être cruelles !...
-
--*who_sophie
-Je ne saurais travailler.
-
--*who_madamedorsan
-J'ai lu dans le coeur de Sophie ; il faut l'éprouver.
-Il faut commencer par les observer davantage, en leur laissant plus de liberté ; sûre de Derville comme de moi-même !...
-
--*who_sophie
-Vous parlez de lui, maman !
-
--*who_madamedorsan
 Et vous, ma fille, songez à Valbelle ; songez, que si je l'ai préféré... choisi, à cause de sa jeunesse, c'est un effet de ma prudence, et de toute ma tendresse pour vous.
 
-**** *book_ *id_I11 *act_I *date_1788
-
--*who_sophie
-J'aurai donc de l'amour pour Valbelle, il faut en avoir pour lui, ma mère me l'ordonne.
-Comme la joie disparaît promptement !
-J'étais trop heureuse, en lisant ce traité sur l'amitié, et me voilà retombée dans ma tristesse habituelle.
-Ah !
-C'est depuis que Derville, devenu plus sérieux, paraît contraint avec moi, que je ne connais plus aucun plaisir qui puisse m'attacher.
-Comme chaque jour il devient plus rêveur !...
-Et moi-même, qu'est-ce que j'éprouve ?
-Hier, pendant la leçon, quand ma mère s'absenta pour un instant, et que, seule avec Derville, j'aperçus qu'il avait les yeux fixés sur moi...
-Et que mon papier tomba de mes mains...
-Qu'est-ce donc que je sentis ?...
-L'idée seule...
-Le souvenir pénètre encore mon âme...
-
-**** *book_ *id_I12 *act_I *date_1788
-
--*who_derville
-Faisons remettre cette lettre à Madame Dorsan.
-Que vois-je ?
-Sophie est sans sa mère.
-Ah !
-Fuyons.
-
--*who_sophie
-Lui !
-Ô mon bon ami, vous voilà, enfin, vous voilà !...
-Je ne sais plus...
-Tout mon coeur en mouvement...
-Et chaque jour, cela augmente.
-Bientôt, je crois...
-Je ne pourrai plus parler, dès que je vous apercevrai.
-
--*who_derville
-La surprise sans doute, a produit cette émotion passagère.
-Qui n'en serait troublé ?
-
--*who_sophie
-Oh, non !
-Je n'ai point eu peur, c'est l'amitié qui fait cela ; et comme elle augmente sans cesse... que toute mon âme ne saurait la contenir, elle s'échappe... et... enfin, je ne sais pas, moi ; mais, Derville, j'ai bien de l'amitié pour vous.
-
--*who_derville
-Sophie !
-
--*who_sophie
-Vous n'en sauriez douter, n'est-ce pas ?
-
--*who_derville
-Non.
-
--*who_sophie
-Si vous saviez comme j'étais triste avant de vous voir !...
-Mais ce livre, ce livre !
-Malgré cela, ces deux amis ne sont pas attachés l'un à l'autre au point où nous le sommes : je sais encore les défier ; ils peuvent se passer de se voir, le pourriez vous, Derville ?
-
--*who_derville
-Quoi ?
-Que pourrais-je ?
-
--*who_sophie
-Ne plus me voir.
-
--*who_derville
-S'il était nécessaire...
-Je crois...
-
--*who_sophie
-Vous croyez ?
-
--*who_derville
-Que j'en aurais le courage.
-
--*who_sophie
-Être séparé de Sophie !
-Vous dites cela pour m'éprouver.
-Qu'avez-vous donc ?
-
--*who_derville
-Ah !
-
--*who_sophie
-N'ai-je pas le droit de sentir vos peines ?
-Vous ne pouvez m'abuser, vous avez quelque chose qui vous afflige.
-
--*who_derville
-J'ai...
-J'ai de la discrétion... de la pitié...
-Je ne questionne point...
-Je ne tourmente point (les malheureux); on ne connaît pas la faiblesse humaine, on se livre avec innocence à la bonté du coeur, on allume le feu des passions qu'on ignore ; ce feu circule...
-Il pénètre... dévore !...
-
--*who_sophie
-Eh bien, c'est dit : j'ai tort, sans le vouloir, sans m'en douter.
-Faisons la paix.
-
--*who_derville
-Cruelle !
-En est-ce assez ?
-
--*who_sophie
-Vous me fuyez !
-Est-ce vous ?
-
--*who_derville
-Sais-je en cet instant, ce que je suis ?
-Je suis trop faible.
-Oui, je l'aime trop uniquement.
-
--*who_sophie
-Je suis bien malheureuse...
-On dirait qu'il me hait.
-
--*who_derville
-Voulez-vous lire quelque chose ?
-
--*who_sophie
-Me montrer cette aversion... cette indifférence !
-
--*who_derville
-Préférez vous de traduire ?
-
--*who_sophie
-Parler tout seul, être agité, je ne sais de quoi !
-Ne pas me répondre, ne pas m'écouter, ne pas m'entendre.
-
--*who_derville
-Je vous ai entendue...
-Si j'ai craint de ne pas me découvrir davantage...
-
--*who_sophie
-Non, non, vous ne m'entendez point.
-Non, à ce que je dis, tant de froideur ne peut répondre ; ce que je dis n'est rien, mais ce que je sens, ce qui ne s'exprime pas...
-Ô ciel !
-Et je croyais qu'il lisait comme moi-même dans mon coeur, qu'un même esprit nous animait !
-Dans un ouvrage, pendant une lecture, un trait touchant, nous le sentions ensemble ; était-il ému, je pleurais, la terreur ou la pitié, les alarmes, ses peines, oh !
-Ses peines, comme je les éprouvais, quand auprès de moi, je le voyais rêveur, et poser sa main sur son front !
-Tout, tout de son coeur passait dans le mien ; et quand son air est de glace, qu'un poids m'oppresse, qu'il me fuit, me repousse !...
-Il me dira qu'il m'entend.
-
--*who_derville
-Sophie, Sophie !...
-Non, c'est vous, qui ne pouvez me comprendre, qui ne sentirez jamais à quel point vous m'êtes chère.
-Mon expérience...
-Mon âge...
-Le vôtre !
-Une séparation éternelle.
-Au moins dans ma douleur, j'aurai ce témoignage à me rendre, que je n'aurai point profité des premiers sentiments qui naissent dans votre âme, et ne pourront s'y fixer, qui naissent de l'innocence de votre coeur, de sa sensibilité, sans doute, oh !
-Je le crois !...
-Mais cette sensibilité qui vous abuse, qui peut m'abuser, moi-même ; non, elle n'est encore en vous qu'un besoin trompeur.
-
--*who_sophie
-Et l'effet ?
-Et ce que je sens ?
-Cette amitié toujours plus vive et plus forte, à mesure que je prends plus d'âge et de raison, qu'est-ce que c'est donc ?
-Là, vous qui savez définir le coeur, expliquer ses mouvements, vous ne sauriez répondre.
-On se croit bien fort en parlant d'après la raison ; le sentiment a toujours l'avantage.
-
--*who_derville
-Le sentiment, dites-vous ?
-Et de quel sentiment parlez vous, Sophie ?
-
--*who_sophie
-Mais, du nôtre, du mien.
-
--*who_derville
-Du nôtre, vous le connaissez...
-Vous l'expliqueriez ?
-
--*who_sophie
-Je l'éprouve, c'est tout !
-
--*who_derville
-Un sentiment ?...
-
--*who_sophie
-Bien vif !
-
--*who_derville
-Et réfléchi ?
-
--*who_sophie
-Bien tendre !
-
--*who_derville
-Et profond, et durable à jamais, remplit toute votre âme ?
-Vous croyez qu'il existe en vous, qu'il peut durer !
-Et... c'est votre coeur, qui prend soin chaque jour de vous le confirmer ?
-
--*who_sophie
-Oh bien !
-Comme vous m'entendez actuellement !
-
--*who_derville
-Et...
-L'objet d'une telle affection ?
-
--*who_sophie
-Il me le demande, lui ?
-
--*who_derville
-J'entends.
-
--*who_sophie
-Vous entendez, mon bon ami ?
-
--*who_derville
-Je le crois du moins (et je crains de le croire); à présent, quels désirs, quels voeux formez-vous ?
-Un attachement ne peut, ne doit point être inutile et sans fin.
-
--*who_sophie
-Il ne finira jamais, pourtant.
-
--*who_derville
-Répétez encore.
-
--*who_sophie
-Oh !
-Jamais.
-
--*who_derville
-Cependant, au bout de quelques années, si l'âge de celui qui vous entend, trop peu assorti, trop peu convenable au vôtre...
-
--*who_sophie
-Est-ce qu'on aime pour l'âge ?
-C'est lui qu'on aime.
-
--*who_derville
-Et vous aimeriez toujours Sophie ?
-Et vous ménageriez ce coeur qui vous appartient, ce coeur jaloux peut-être, trop sensible, trop délicat pour ne l'être pas...
-
--*who_sophie
-Dieux !
-
--*who_derville
-Sophie, le puis-je croire ?
-Craignez de me jeter dans une erreur qui me promet tout ce qu'on peut avoir de bonheur sur la terre.
-Vous ne connaissez pas mes voeux, mes tourments, le trouble où je suis.
-Dites, Sophie, dites que ces soins délicats, d'un coeur vraiment touché, suffiront à votre âme sensible et vertueuse ; dites qu'ils pourront remplacer auprès de vous les charmes de l'âge et ceux de la figure.
-
--*who_sophie
-Il y revient encore, et rien ne pourra le rassurer !
-
--*who_derville
-Oui, chère Sophie, oui je le suis.
-
--*who_sophie
-Mais voyez Valbelle.
-
--*who_derville
-Je ne doute plus.
-
--*who_sophie
-Valbelle peut servir ici de preuve ; il est assez jeune, est-il vrai ?
-
--*who_derville
-Sans doute.
-
--*who_sophie
-Il est beau comme un ange.
-
--*who_derville
-L'expression...
-
--*who_sophie
-On ne peut en disconvenir.
-
--*who_derville
-Que sert de nous occuper...
-
--*who_sophie
-Mais c'est que je n'aurai que de l'amour pour lui.
-
--*who_derville
-De l'amour ?
-
--*who_sophie
-Pas davantage.
-
--*who_derville
-Pour Valbelle ?
-
--*who_sophie
-Malgré sa jeunesse et ses traits.
-
--*who_derville
-Pour Valbelle ?
-
--*who_sophie
-Quand au contraire, j'aurai toujours de l'amitié pour vous ; et il ne sera que mon amant ou mon époux...
-
--*who_derville
-Qu'entends-je ?
-
--*who_sophie
-Quand vous serez toujours mon unique ami !
-
--*who_derville
-Moi...
-Ah !...
-Je serai votre ami...
-Moi.
-
--*who_sophie
-Quel regard !
-
--*who_derville
-Elle n'avait pas d'expressions assez touchantes pour me convaincre, perfide !
-
--*who_sophie
-Moi, Sophie !
-Perfide !
-Qu'ai-je dit, hélas !
-Que je n'aie pas pensé dans toute la vérité de mon coeur ?
-
--*who_derville
-Vous l'avez dit...
-Vous l'aimez donc ?
-
--*who_sophie
-Si je vous aime ?
-
--*who_derville
-Sa bouche encore...
-C'est Valbelle.
-
--*who_sophie
-Pour qui j'aurai de l'amour...
-Ma mère le veut.
-
--*who_derville
-Il suffit, soyez heureuse...
-Pour moi, dont les transports jaloux ont besoin d'éclater...
-Je vais...
-
--*who_sophie
-Derville !
-
--*who_derville
-Laissez-moi.
-
--*who_sophie
-Où courez vous ?...
-
--*who_derville
-Vous fuir à jamais.
-
-**** *book_ *id_I13 *act_I *date_1788
-
--*who_sophie
-Derville, Derville !...
-Mes cris ne l'arrêtent pas...
-Le cruel fuit et m'abandonne.
-Quel est donc mon crime, ce crime que j'ignore ?
-Ô ciel !
-Apprends-le moi, qu'ai-je fait ?
-Je suis punie.
-Je l'interroge en vain ; nul regret, nul reproche, ne s'élèvent de ma conscience...
-Et...
-Derville m'accuse...
-Et Derville ne peut être injuste ?...
-Mais, avec mon coeur, est-on coupable ?
-Ô ma mère !
-Ô ma mère !
-
-**** *book_ *id_I14 *act_I *date_1788
-
--*who_madamedorsan
 Qu'entends-je, Sophie ?
 
--*who_sophie
-Ô maman !
-J'en mourrai.
-
--*who_madamedorsan
 Quelles alarmes !
 
--*who_sophie
-Mon âme est innocente, il se plaît à la noircir.
-
--*who_madamedorsan
 Qui donc ?
 
--*who_sophie
-Derville.
-Ah !
-J'ai connu la peine.
-
--*who_madamedorsan
 Je respire.
 Confie à mon coeur...
 
--*who_sophie
-Que sais-je moi-même ?
-Quand il m'accuse, moi je le plains.
-Derville souffre, Derville est malheureux, oui, mon coeur me le dit, plus de repos pour moi.
-
--*who_madamedorsan
 Et c'est là le sujet de ton affliction profonde ?
 
--*who_sophie
-Il m'a nommée perfide.
-
--*who_madamedorsan
 Perfide !
 
--*who_sophie
-À cause de mon mariage avec Valbelle.
-
--*who_madamedorsan
 La jalousie a surmonté le courage.
 Tu lui as fait part de ton mariage avec le Chevalier ?
 
--*who_sophie
-Je lui dis tout.
+Que vois-je ? C'est de Derville.
+Je trahirais la confiance, si je ne m'imposais un sacrifice ; j'ai cet empire encore sur moi-même, je sais prendre un parti, je vous quitte ce soir. Daignez m'accorder une dernière grâce, épargnez un déplaisir à Sophie, cachez-lui mon départ. Sophie pourrait me regretter, oui, je crois, oui, je ne puis m'empêcher de croire que Sophie regrettera l'ami de sa jeunesse. Je vous verrai aujourd'hui, pour la dernière fois. Il est donc mutuel, ce penchant qui met le comble à mes voeux !
 
-**** *book_ *id_I15 *act_I *date_1788
+Oui, et vous direz que je vais... Qu'on ne décide rien avant de l'avoir reçue.
+Ah ! Tout me rassure. C'est à la vertu que le coeur de Sophie cède ; elle estime son amant au point de l'aimer ; que faut-il de plus dans une union pour le bonheur ? Et qu'ai-je à craindre de la disproportion des âges ? Dissimulons.
 
--*who_lelaquais
-Il m'est ordonné de remettre cette lettre, en secret, à Madame.
-
--*who_madamedorsan
-Que vois-je ?
-C'est de Derville.
-Je trahirais la confiance, si je ne m'imposais un sacrifice ; j'ai cet empire encore sur moi-même, je sais prendre un parti, je vous quitte ce soir.
-Daignez m'accorder une dernière grâce, épargnez un déplaisir à Sophie, cachez-lui mon départ.
-Sophie pourrait me regretter, oui, je crois, oui, je ne puis m'empêcher de croire que Sophie regrettera l'ami de sa jeunesse.
-Je vous verrai aujourd'hui, pour la dernière fois.
-Il est donc mutuel, ce penchant qui met le comble à mes voeux !
-
--*who_lelaquais
-Y a-t-il réponse ?
-
--*who_madamedorsan
-Oui, et vous direz que je vais...
-Qu'on ne décide rien avant de l'avoir reçue.
-Ah !
-Tout me rassure.
-C'est à la vertu que le coeur de Sophie cède ; elle estime son amant au point de l'aimer ; que faut-il de plus dans une union pour le bonheur ?
-Et qu'ai-je à craindre de la disproportion des âges ?
-Dissimulons.
-
-**** *book_ *id_I16 *act_I *date_1788
-
--*who_madamedorsan
 En vérité, je ne le reconnais plus, Derville.
 
--*who_sophie
-Oh !
-Maman !
-Il est bien changé !
-
--*who_madamedorsan
 Je croyais à ses vertus.
 
--*who_sophie
-Eh !
-Cesse-t-on d'en avoir ?
-Croyez, croyez-y toujours.
+Blesser ainsi les droits de l'amitié, ces droits si chers, si consolants ! Tu sais qu'il y a plus de dix ans que Derville demeure avec nous. À la mort de mon époux, voyant que Derville, sage, instruit, pouvait de concert avec moi concourir à ton éducation, nous continuâmes à demeurer ensemble ; je lui donnai sur toi les droits de l'âge, et ceux d'une confiance bien placée.
 
--*who_madamedorsan
-Blesser ainsi les droits de l'amitié, ces droits si chers, si consolants !
-Tu sais qu'il y a plus de dix ans que Derville demeure avec nous.
-À la mort de mon époux, voyant que Derville, sage, instruit, pouvait de concert avec moi concourir à ton éducation, nous continuâmes à demeurer ensemble ; je lui donnai sur toi les droits de l'âge, et ceux d'une confiance bien placée.
-
--*who_sophie
-Je sais tout cela, maman.
-
--*who_madamedorsan
 Mais tu ne sais pas que, lassé de ce commerce heureux, où tout devait l'intéresser, il se retire tout seul à la campagne, sans doute ; qu'il nous livre au regret de l'avoir connu, de l'avoir chéri, qu'enfin, il nous quitte ce soir.
 
--*who_sophie
-Quitter ?
-
--*who_madamedorsan
 Oui.
 
--*who_sophie
-Comment quitter ?
-
--*who_madamedorsan
 Je l'ai dit, il se sépare de nous.
 
--*who_sophie
-Mais, maman...
-Mais donnez...
-Mais donnez vos ordres...
-Mais allons à la campagne aussi nous.
-La vie champêtre, quoi de plus doux ?
-Il faut bien que nous allions avec Derville, il faut bien que nous soyons toujours avec lui.
+Oui, s'il le voulait. Mais dès que par ce choix, n'ayant pour nous que de l'indifférence, il se retire ; nous ne pouvons le contraindre, et suivre qui nous fuit. Je suis certaine... qu'il y a plus de trois mois qu'il médite ce voyage.
 
--*who_madamedorsan
-Oui, s'il le voulait.
-Mais dès que par ce choix, n'ayant pour nous que de l'indifférence, il se retire ; nous ne pouvons le contraindre, et suivre qui nous fuit.
-Je suis certaine... qu'il y a plus de trois mois qu'il médite ce voyage.
-
--*who_sophie
-Oui...
-Trois mois...
-Depuis qu'il est triste...
-Quelle noirceur !
-Je ne m'étonne plus de cette physionomie qu'il avait... de cet air contraint, de cet air de dissimuler le crime...
-Ô ciel !...
-Enfin, voilà donc l'expérience...
-Les peines, le désespoir, la voilà...
-Être comme une folle... égarée... ne savoir plus...
-
--*who_madamedorsan
 Tes regrets sont aussi vifs.
 
--*who_sophie
-Est-ce que je pleure, moi ?
-
--*who_madamedorsan
 Non.
-Et de même que ta faiblesse eût entraîné la mienne, ta force m'inspire du courage.
-Je sens actuellement que ma peine est adoucie.
+Et de même que ta faiblesse eût entraîné la mienne, ta force m'inspire du courage. Je sens actuellement que ma peine est adoucie.
 
--*who_sophie
-Vous avez des peines qui s'adoucissent, maman ?
-
--*who_madamedorsan
 Il n'en est pas de même...
 
--*who_sophie
-Et puisqu'il s'en va...
-Se cache à jamais, s'enfuit au bout de l'univers, et qu'on ne se verra plus de la vie, et que de ce soir, c'est fini pour toujours, n'est-ce pas ?
-
--*who_madamedorsan
 Sans doute.
 
--*who_sophie
-Je lui rendrai tout, ses livres, ses extraits.
-Je n'ai que faire de continuer ma traduction, moi ; comme il s'en va, ignorer ou savoir, tout cela devient indifférent ; et même comme il s'en va, si de notre côté nous faisions une retraite aussi, maman ?
-Là, pour être bien éloignés, mieux séparés, plus désunis ?
-
--*who_madamedorsan
 Pauvre Sophie !
 
--*who_sophie
-Que ce soupir de ma mère est consolant pour mon coeur !
-Vous qui chérissez votre enfant, qui, mieux qu'elle-même, savez lire dans son âme !...
-Je suis bien à plaindre, n'est-ce pas ?
-N'est-ce pas, maman, que je souffre beaucoup ?
-
--*who_madamedorsan
 Calme-toi, ma chère Sophie, ton amie est aussi ta mère.
 
-**** *book_ *id_I17 *act_I *date_1788
-
--*who_sophie
-Ah !...
-
--*who_lisette
-Qu'y a-t-il donc ?
-
--*who_sophie
-Tu ne sais pas.
-
--*who_lisette
-Quoi, ma belle maîtresse ?
-
--*who_sophie
-Exister...
-C'est souffrir.
-
--*who_lisette
-Une telle tristesse...
-
--*who_sophie
-Et quel autre sentiment sera donc la douleur ?
-
--*who_lisette
-La vôtre en effet me surprend.
-
--*who_sophie
-Écoute.
-Je t'aime !
-Quand tu seras à l'instant de croire à la félicité, de la croire durable à jamais...
-
--*who_lisette
-Eh bien ?
-
--*who_sophie
-Tu diras : point de bonheur pour moi...
-Est ce qu'on est heureux ?
-
--*who_lisette
-Je dirai cela, moi ?
-
--*who_sophie
-Quand un homme sage, éclairé, t'enseignera la vérité, te donnera de l'amour pour elle, quand tu croiras reconnaître aux actions de cet homme qu'il est vraiment vertueux ; tu frémiras, et tu diras : Cet homme !...
-Il est faux, il est cruel, le mensonge est dans son coeur !
-
--*who_lisette
-Ô ciel !
-Et vous pleurez presque en disant cela.
-Ce discours, assez énigmatique, n'aurait-il point de rapport au départ de Derville ?
-
--*who_sophie
-Tu sais aussi qu'il s'en va !
-Ah !
-Dis moi, dis moi bien tout.
-
--*who_lisette
-Si j'étais très sûre du secret, je vous apprendrais bien, moi, la véritable cause du départ de Derville.
-Il ne faut pas moins que cet amour extrême, que Madame a pour vous, pour qu'elle se refuse à un engagement aussi convenable ; il faut qu'elle ait un coeur comme le sien...
-Paix.
-Voici Derville lui-même ; dans un autre moment je viendrai vous retrouver.
-
--*who_sophie
-Laisse-moi.
-Qu'il n'ait à rougir qu'à mes yeux.
-Il approche, et sa vue...
-
-**** *book_ *id_I18 *act_I *date_1788
-
--*who_derville
-Eh quoi !
-Lisette vous laisse...
-Qu'avez-vous donc, chère Sophie ?
-
--*who_sophie
-Ce ton adouci, cet intérêt feint ; que d'artifice dans ce coeur !
-
--*who_derville
-Votre mère s'adressant à moi, me conjurant de ne point partir, comme si ma présence était encore chère à Sophie...
-Hélas !
-Un autre a des droits sur son coeur, Sophie détourne ses regards, elle craint de rencontrer les miens...
-
--*who_sophie
-Homme assez faible pour tromper !
-Il ne pouvait pas me dire : Sophie, je suis ingrat et non perfide.
-Sophie, je pars, je détruis en un jour tout ce que vous avez acquis de félicité depuis votre enfance ; mais ce bonheur que je vous donnais ne peut plus me suffire...
-Ne mourez point Sophie, je pourrai vous revoir, et vous serez encore heureuse.
-Il ne pouvait pas me dire cela.
-Alors il aurait vu couler mes larmes, j'aurais eu la douceur de pouvoir en répandre, d'en répandre pour lui...
-
--*who_derville
-Dieux !...
-Elle m'aime, ce n'est point une erreur.
-
--*who_sophie
-Tous mes voeux l'eussent suivi dans sa retraite...
-
--*who_derville
-Arrête, Sophie... arrête.
-Trop de joie enivre mon coeur...
-Moi, te quitter et vivre ?...
-Fallait-il donc te le dire ?
-Quoi ?
-Tu n'as pas senti que je t'adore ?...
-Ah !
-Connais l'amour...
-Connais ton amant, l'excès...
-
--*who_sophie
-C'est encore lui !
-Je le retrouve, oui, c'est encore Derville ; il m'aime.
-
--*who_derville
-Laisse-moi cette puissance, sur moi-même, de ne point tomber à tes pieds, de ne point t'exprimer mon amour et sa force...
-Laisse-moi... ton âge, ces aveux répétés, d'une tendresse éternelle, je les dois à une mère, à la tienne, ô Sophie !...
-Je vais à Madame Dorsan, je vais à l'instant même...
-Ne crains point cette expérience de l'âge, cette sévérité de caractère que l'amour adoucira pour toi.
-T'aimer, t'adorer !
-Abuse de ton empire, tu le peux, je suis le plus faible, j'aime davantage...
-Mais prends pitié de ma faiblesse.
-Ô Sophie !
-Ou mourir... ou posséder ton coeur à jamais.
-
-**** *book_ *id_I19 *act_I *date_1788
-
--*who_sophie
-Ou mourir, ou posséder ton coeur à jamais !
-Cher Derville, et j'ai pu le soupçonner !
-Connais l'amour, connais ton amant.
-Ces mots plus chers encore, qu'il ne m'avait jamais adressés, ces mots gravés dans mon âme, y portent, je ne sais quel sentiment inexprimable ; un nouveau jour me luit.
-Oh !
-Que l'amour pour Derville est différent de celui qu'on a pour Valbelle !
-
-**** *book_ *id_I20 *act_I *date_1788
-
--*who_sophie
-Oh !
-Ma chère Lisette !
-
--*who_lisette
-Quel changement heureux !
-
--*who_sophie
-Connais l'amour, connais ton amant, le bonheur...
-
--*who_lisette
-Quels transports !
-Que d'expression !
-Vous voilà donc enfin plus raisonnable.
-Car cet amant, c'est Valbelle, je pense ; cet amour, c'est le sentiment que vous avez pour lui, et le bonheur, c'est de l'épouser, est-il vrai ?
-
--*who_sophie
-Derville ne partira point, il restera toujours !
-
--*who_lisette
-Il restera toujours !
-Comment, j'ai deviné juste ?
-Et quand je viens de voir Derville aux pieds de Madame Dorsan, c'est donc bien vrai qu'il l'aime et qu'il l'épouse ?
-
--*who_sophie
-Derville aux pieds de Madame Dorsan, Derville épouser maman ?
-Mais que dites-vous donc ?
-
--*who_lisette
-Mais oui, ce me semble.
-
--*who_sophie
-Oui.
-Elle dira, oui ; elle dira que Derville épouse maman.
-
--*who_lisette
-Encore une fois, à les entendre parler d'union, aux transports qu'ils font paraître tous deux...
-
--*who_sophie
-En vérité, vous êtes barbare... extraordinaire.
-Vous ne sentez pas la force des choses, et l'on fait mourir les gens comme cela...
-Dites donc aussi que Derville trompe, qu'il est parjure, et qu'il dit à maman les mêmes choses qu'il disait à Sophie.
-Connais l'amour, connais ton amant.
-
--*who_lisette
-Je ne savais pas, moi...
-
--*who_sophie
-Mais c'est donc vrai ?...
-Mais je ne respire pas...
-Je suffoque...
-Je meurs, Mademoiselle...
-Mais dans ce moment, je ne chéris plus autant ma mère peut-être...
-Et vous voyez Sophie coupable.
-
-**** *book_ *id_I21 *act_I *date_1788
-
--*who_madamedorsan
 Elle ignore que tout s'apprête pour son union.
-Quoi donc ?
-Quelles nouvelles alarmes ?
+Quoi donc ? Quelles nouvelles alarmes ?
 
--*who_lisette
-Ayant vu Monsieur Derville aux pieds de Madame... qui lui parlait de mariage...
-
--*who_madamedorsan
 Eh bien ?
 
--*who_lisette
-J'ai dit à Mademoiselle...
-
--*who_sophie
-Elle dit !...
-Elle dit que vous allez épouser Derville, maman.
-
--*who_madamedorsan
 Retirez-vous.
 Profitons de l'erreur.
-Nous désirons toutes deux de fixer Derville auprès de nous ; il fallait l'attacher par des noeuds qu'il pût chérir.
-Lui donner ta main ?
-Mais as-tu songé à son âge, aux devoirs qu'il t'impose ?
-Tu ne connais pas les obligations d'une femme, ma chère Sophie, c'est à nous de donner le bonheur à un époux, il ne peut que nous le rendre.
-Derville est trop sensible pour n'être pas jaloux ; il lui faut donc un coeur dont il dispose, un coeur soumis, confiant, et surtout fidèle.
+Nous désirons toutes deux de fixer Derville auprès de nous ; il fallait l'attacher par des noeuds qu'il pût chérir. Lui donner ta main ? Mais as-tu songé à son âge, aux devoirs qu'il t'impose ? Tu ne connais pas les obligations d'une femme, ma chère Sophie, c'est à nous de donner le bonheur à un époux, il ne peut que nous le rendre. Derville est trop sensible pour n'être pas jaloux ; il lui faut donc un coeur dont il dispose, un coeur soumis, confiant, et surtout fidèle.
 
--*who_sophie
-Ah !
-C'est là mon coeur.
+Et moi, je déciderais, sans réflexion, de ton sort et de celui de Derville ? J'irais me promettre inconsidérément que tu ne seras point coquette, point légère, toujours tendre, à ton âge, à quinze ans ? En agissant, comme je le fais, tu n'auras point à me dire un jour dans l'amertume de ton coeur : « Ô maman ! Sans considérer mon extrême jeunesse et l'étendue des devoirs que vous m'imposiez, vous avez fait mon malheur en m'unissant à Derville. »
 
--*who_madamedorsan
-Et moi, je déciderais, sans réflexion, de ton sort et de celui de Derville ?
-J'irais me promettre inconsidérément que tu ne seras point coquette, point légère, toujours tendre, à ton âge, à quinze ans ?
-En agissant, comme je le fais, tu n'auras point à me dire un jour dans l'amertume de ton coeur :
-    « Ô maman !
-Sans considérer mon extrême jeunesse et l'étendue des devoirs que vous m'imposiez, vous avez fait mon malheur en m'unissant à Derville. »
+Tu pleures... Sophie !... Tu pleures.
 
--*who_sophie
-Malheureuse avec Derville !
-Malheureuse ?
-Vous ne le croyez pas, maman, qu'on puisse être malheureuse avec lui.
+Chère Sophie ! Pardonne à une mère les pleurs qu'elle t'a coûtés. Il fallait se convaincre de ton amour, affermir tes sentiments, s'assurer de ta constance. C'est lui, c'est Derville, c'est ton amant que je te donne pour époux.
 
--*who_madamedorsan
-Tu pleures...
-Sophie !...
-Tu pleures.
+Il devient ton époux... Qu'il soit toujours ton ami.
 
--*who_sophie
-Ce mariage était si loin de ma pensée...
-Si loin de mon coeur... (C'est donc bien vrai.) Ô ma mère !
-Ô vous qui m'avez tout donné, soins, tendresse, exemple...
-Non je ne pleurerai point du bonheur de ma mère...
-Qu'elle soit heureuse sans qu'il en coûte un coupable regret à Sophie...
-Et lui, lui !...
-Qui me promit le bonheur...
-Eh bien, je serai sa fille, sa fille tendre et soumise...
-Il ne vivra point pour Sophie...
-Mais Sophie !...
-Ô maman !
-Mon âme est bien changée !
+
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+
+Ô ma chère maman ! Je viens de lire un traité sur l'amitié... Quel ouvrage, oh, dieux ! Et quel sentiment ! L'auteur dit que, quand on l'éprouve, on est vertueux.
+
+C'est mon bon ami, c'est Derville.
+
+Vous parlez de Derville, ma chère maman ; vous trouvez à redire que je l'appelle encore mon ami. Eh ! Ne l'est-il pas ? Quel autre, envers moi, peut avoir autant de sincérité ? Quel autre... Jugez-en vous-même. Comparez, et sentez la différence.
+
+Quand je me trouvais avec le Chevalier, il ne m'entretenait que des agréments, des charmes qu'il me suppose ou me prête. Quel homme insupportable ! Il me dira que je suis belle ; prétend-il me séduire, qu'il veuille m'abuser ? Doute-t-il de ma conception, de mon entendement, pour ne me dire que des mots ? Doute-t-il enfin, que j'aie une âme... pour ne s'adresser qu'à ma vanité ? Ah Derville, Derville ! Sur mes traits, juge de ma santé : à mon enjouement, il connaît la paix de mon âme : dans mes raisonnements, il veut de la justesse ; dans mon caractère, du naturel ; à mon coeur, de la droiture.
+
+Valbelle !
+
+De l'intérêt, à moi, il me flatte !
+
+On ne voit point en beau, on n'a point de ces yeux prévenus, pour ceux qui nous inspirent un réel attachement ; on les voit tels qu'ils sont, et la perfection qu'on leur trouve, n'est pas encore celle qu'on leur souhaite.
+
+Qu'il est froid ce sentiment si vanté ! Que j'ai peine à concevoir comment les coeurs tendres en sont si vivement touchés !... J'aurai de l'amour pour Valbelle, j'en aurai, si vous le voulez, maman ;... mais quelque soit mon obéissance, ma soumission à vos moindres volontés, non !...
+
+Je ne saurais avoir de l'amitié pour lui.
+
+Pourquoi nous séparer ?
+
+Sophie ne vous est-elle plus aussi chère ? Oh ! Maman ! Vous ne m'écoutez pas ?
+
+Je vois... Je ferai tout ce que vous ordonnerez maman.
+
+Je ne saurais travailler.
+
+Vous parlez de lui, maman !
+
+J'aurai donc de l'amour pour Valbelle, il faut en avoir pour lui, ma mère me l'ordonne. Comme la joie disparaît promptement ! J'étais trop heureuse, en lisant ce traité sur l'amitié, et me voilà retombée dans ma tristesse habituelle. Ah ! C'est depuis que Derville, devenu plus sérieux, paraît contraint avec moi, que je ne connais plus aucun plaisir qui puisse m'attacher. Comme chaque jour il devient plus rêveur !... Et moi-même, qu'est-ce que j'éprouve ? Hier, pendant la leçon, quand ma mère s'absenta pour un instant, et que, seule avec Derville, j'aperçus qu'il avait les yeux fixés sur moi... Et que mon papier tomba de mes mains... Qu'est-ce donc que je sentis ?... L'idée seule... Le souvenir pénètre encore mon âme...
+
+Lui !
+Ô mon bon ami, vous voilà, enfin, vous voilà !... Je ne sais plus... Tout mon coeur en mouvement... Et chaque jour, cela augmente. Bientôt, je crois... Je ne pourrai plus parler, dès que je vous apercevrai.
+
+Oh, non ! Je n'ai point eu peur, c'est l'amitié qui fait cela ; et comme elle augmente sans cesse... que toute mon âme ne saurait la contenir, elle s'échappe... et... enfin, je ne sais pas, moi ; mais, Derville, j'ai bien de l'amitié pour vous.
+
+Vous n'en sauriez douter, n'est-ce pas ?
+
+Si vous saviez comme j'étais triste avant de vous voir !... Mais ce livre, ce livre ! Malgré cela, ces deux amis ne sont pas attachés l'un à l'autre au point où nous le sommes : je sais encore les défier ; ils peuvent se passer de se voir, le pourriez vous, Derville ?
+
+Ne plus me voir.
+
+Vous croyez ?
+
+Être séparé de Sophie !
+Vous dites cela pour m'éprouver. Qu'avez-vous donc ?
+
+N'ai-je pas le droit de sentir vos peines ? Vous ne pouvez m'abuser, vous avez quelque chose qui vous afflige.
+
+Eh bien, c'est dit : j'ai tort, sans le vouloir, sans m'en douter. Faisons la paix.
+
+Vous me fuyez ! Est-ce vous ?
+
+Je suis bien malheureuse... On dirait qu'il me hait.
+
+Me montrer cette aversion... cette indifférence !
+
+Parler tout seul, être agité, je ne sais de quoi ! Ne pas me répondre, ne pas m'écouter, ne pas m'entendre.
+
+Non, non, vous ne m'entendez point. Non, à ce que je dis, tant de froideur ne peut répondre ; ce que je dis n'est rien, mais ce que je sens, ce qui ne s'exprime pas... Ô ciel ! Et je croyais qu'il lisait comme moi-même dans mon coeur, qu'un même esprit nous animait ! Dans un ouvrage, pendant une lecture, un trait touchant, nous le sentions ensemble ; était-il ému, je pleurais, la terreur ou la pitié, les alarmes, ses peines, oh ! Ses peines, comme je les éprouvais, quand auprès de moi, je le voyais rêveur, et poser sa main sur son front ! Tout, tout de son coeur passait dans le mien ; et quand son air est de glace, qu'un poids m'oppresse, qu'il me fuit, me repousse !... Il me dira qu'il m'entend.
+
+Et l'effet ? Et ce que je sens ? Cette amitié toujours plus vive et plus forte, à mesure que je prends plus d'âge et de raison, qu'est-ce que c'est donc ? Là, vous qui savez définir le coeur, expliquer ses mouvements, vous ne sauriez répondre. On se croit bien fort en parlant d'après la raison ; le sentiment a toujours l'avantage.
+
+Mais, du nôtre, du mien.
+
+Je l'éprouve, c'est tout !
+
+Bien vif !
+
+Bien tendre !
+
+Oh bien ! Comme vous m'entendez actuellement !
+
+Il me le demande, lui ?
+
+Vous entendez, mon bon ami ?
+
+Il ne finira jamais, pourtant.
+
+Oh ! Jamais.
+
+Est-ce qu'on aime pour l'âge ? C'est lui qu'on aime.
+
+Dieux !
+
+Il y revient encore, et rien ne pourra le rassurer !
+
+Mais voyez Valbelle.
+
+Valbelle peut servir ici de preuve ; il est assez jeune, est-il vrai ?
+
+Il est beau comme un ange.
+
+On ne peut en disconvenir.
+
+Mais c'est que je n'aurai que de l'amour pour lui.
+
+Pas davantage.
+
+Malgré sa jeunesse et ses traits.
+
+Quand au contraire, j'aurai toujours de l'amitié pour vous ; et il ne sera que mon amant ou mon époux...
+
+Quand vous serez toujours mon unique ami !
+
+Quel regard !
+
+Moi, Sophie ! Perfide ! Qu'ai-je dit, hélas ! Que je n'aie pas pensé dans toute la vérité de mon coeur ?
+
+Si je vous aime ?
+
+Pour qui j'aurai de l'amour... Ma mère le veut.
+
 Derville !
 
-**** *book_ *id_I22 *act_I *date_1788
+Où courez vous ?...
 
--*who_madamedorsan
-Chère Sophie !
-Pardonne à une mère les pleurs qu'elle t'a coûtés.
-Il fallait se convaincre de ton amour, affermir tes sentiments, s'assurer de ta constance.
-C'est lui, c'est Derville, c'est ton amant que je te donne pour époux.
+Derville, Derville !... Mes cris ne l'arrêtent pas... Le cruel fuit et m'abandonne. Quel est donc mon crime, ce crime que j'ignore ? Ô ciel ! Apprends-le moi, qu'ai-je fait ? Je suis punie. Je l'interroge en vain ; nul regret, nul reproche, ne s'élèvent de ma conscience... Et... Derville m'accuse... Et Derville ne peut être injuste ?... Mais, avec mon coeur, est-on coupable ?
+Ô ma mère ! Ô ma mère !
 
--*who_derville
+Ô maman ! J'en mourrai.
+
+Mon âme est innocente, il se plaît à la noircir.
+
+Derville. Ah ! J'ai connu la peine.
+
+Que sais-je moi-même ? Quand il m'accuse, moi je le plains. Derville souffre, Derville est malheureux, oui, mon coeur me le dit, plus de repos pour moi.
+
+Il m'a nommée perfide.
+
+À cause de mon mariage avec Valbelle.
+
+Je lui dis tout.
+
+Oh ! Maman ! Il est bien changé !
+
+Eh ! Cesse-t-on d'en avoir ? Croyez, croyez-y toujours.
+
+Je sais tout cela, maman.
+
+Quitter ?
+
+Comment quitter ?
+
+Mais, maman... Mais donnez... Mais donnez vos ordres... Mais allons à la campagne aussi nous. La vie champêtre, quoi de plus doux ? Il faut bien que nous allions avec Derville, il faut bien que nous soyons toujours avec lui.
+
+Oui... Trois mois... Depuis qu'il est triste... Quelle noirceur ! Je ne m'étonne plus de cette physionomie qu'il avait... de cet air contraint, de cet air de dissimuler le crime... Ô ciel !... Enfin, voilà donc l'expérience... Les peines, le désespoir, la voilà... Être comme une folle... égarée... ne savoir plus...
+
+Est-ce que je pleure, moi ?
+
+Vous avez des peines qui s'adoucissent, maman ?
+
+Et puisqu'il s'en va... Se cache à jamais, s'enfuit au bout de l'univers, et qu'on ne se verra plus de la vie, et que de ce soir, c'est fini pour toujours, n'est-ce pas ?
+
+Je lui rendrai tout, ses livres, ses extraits. Je n'ai que faire de continuer ma traduction, moi ; comme il s'en va, ignorer ou savoir, tout cela devient indifférent ; et même comme il s'en va, si de notre côté nous faisions une retraite aussi, maman ? Là, pour être bien éloignés, mieux séparés, plus désunis ?
+
+Que ce soupir de ma mère est consolant pour mon coeur ! Vous qui chérissez votre enfant, qui, mieux qu'elle-même, savez lire dans son âme !... Je suis bien à plaindre, n'est-ce pas ? N'est-ce pas, maman, que je souffre beaucoup ?
+
+Ah !...
+
+Tu ne sais pas.
+
+Exister... C'est souffrir.
+
+Et quel autre sentiment sera donc la douleur ?
+
+Écoute. Je t'aime ! Quand tu seras à l'instant de croire à la félicité, de la croire durable à jamais...
+
+Tu diras : point de bonheur pour moi... Est ce qu'on est heureux ?
+
+Quand un homme sage, éclairé, t'enseignera la vérité, te donnera de l'amour pour elle, quand tu croiras reconnaître aux actions de cet homme qu'il est vraiment vertueux ; tu frémiras, et tu diras : Cet homme !... Il est faux, il est cruel, le mensonge est dans son coeur !
+
+Tu sais aussi qu'il s'en va ! Ah ! Dis moi, dis moi bien tout.
+
+Laisse-moi. Qu'il n'ait à rougir qu'à mes yeux.
+Il approche, et sa vue...
+
+Ce ton adouci, cet intérêt feint ; que d'artifice dans ce coeur !
+
+Homme assez faible pour tromper ! Il ne pouvait pas me dire : Sophie, je suis ingrat et non perfide. Sophie, je pars, je détruis en un jour tout ce que vous avez acquis de félicité depuis votre enfance ; mais ce bonheur que je vous donnais ne peut plus me suffire... Ne mourez point Sophie, je pourrai vous revoir, et vous serez encore heureuse. Il ne pouvait pas me dire cela. Alors il aurait vu couler mes larmes, j'aurais eu la douceur de pouvoir en répandre, d'en répandre pour lui...
+
+Tous mes voeux l'eussent suivi dans sa retraite...
+
+C'est encore lui ! Je le retrouve, oui, c'est encore Derville ; il m'aime.
+
+Ou mourir, ou posséder ton coeur à jamais ! Cher Derville, et j'ai pu le soupçonner ! Connais l'amour, connais ton amant. Ces mots plus chers encore, qu'il ne m'avait jamais adressés, ces mots gravés dans mon âme, y portent, je ne sais quel sentiment inexprimable ; un nouveau jour me luit. Oh ! Que l'amour pour Derville est différent de celui qu'on a pour Valbelle !
+
+Oh ! Ma chère Lisette !
+
+Connais l'amour, connais ton amant, le bonheur...
+
+Derville ne partira point, il restera toujours !
+
+Derville aux pieds de Madame Dorsan, Derville épouser maman ? Mais que dites-vous donc ?
+
+Oui. Elle dira, oui ; elle dira que Derville épouse maman.
+
+En vérité, vous êtes barbare... extraordinaire. Vous ne sentez pas la force des choses, et l'on fait mourir les gens comme cela... Dites donc aussi que Derville trompe, qu'il est parjure, et qu'il dit à maman les mêmes choses qu'il disait à Sophie. Connais l'amour, connais ton amant.
+
+⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎
+
+Mais c'est donc vrai ?... Mais je ne respire pas... Je suffoque... Je meurs, Mademoiselle... Mais dans ce moment, je ne chéris plus autant ma mère peut-être... Et vous voyez Sophie coupable.
+⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎
+
+
+Elle dit !... Elle dit que vous allez épouser Derville, maman.
+
+Ah ! C'est là mon coeur.
+
+Malheureuse avec Derville ! Malheureuse ? Vous ne le croyez pas, maman, qu'on puisse être malheureuse avec lui.
+
+Ce mariage était si loin de ma pensée... Si loin de mon coeur... (C'est donc bien vrai.) Ô ma mère ! Ô vous qui m'avez tout donné, soins, tendresse, exemple... Non je ne pleurerai point du bonheur de ma mère... Qu'elle soit heureuse sans qu'il en coûte un coupable regret à Sophie... Et lui, lui !... Qui me promit le bonheur... Eh bien, je serai sa fille, sa fille tendre et soumise... Il ne vivra point pour Sophie... Mais Sophie !...
+Ô maman ! Mon âme est bien changée !
+Derville !
+
+Lui... Ô maman ! Quel est votre bienfait ! J'avais de l'amour pour Derville.
+
+
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_derville
+
+Ce livre est détestable. Malheureux pédant ! Sois touché de nos misères, au lieu de les fronder. Le moraliste qui me console, c'est celui qui sait me plaindre. Ah ! Te voilà.
+
+L'homme est faible, très faible. Depuis quarante ans que j'existe, vingt années d'expérience ne me servent encore qu'a me prouver cette vérité.
+
+Que fais-tu donc là ?
+
+Je n'ai rien d'admirable en vérité.
+
+Sophie !... Oui, elle m'écoutait. Tant de simplicité, l'amour du vrai.
+
+Moi, chercher à la séduire, moi !
+
+Tu disais... Tu demandais quelque chose, je crois.
+
+Dans les sacrifices.
+
+Elle voudrait peut-être notre tranquillité... Mais qu'obtient-elle ? Nos regrets.
+
+Les passions, sans contredit, en ont davantage.
+
+Ah ! Laisse-moi, j'ai besoin de repos.
+
+Oui, j'ai des choses essentielles à lui communiquer.
+
+Ce départ m'occupe tout entier. Ne plus la voir !... Je ne suis point à moi, non. Quelqu'effort que je fasse. Ou la moins connaître, ou l'aimer. Le charme de nos entretiens, ses vertus, sa confiance, l'intérêt exprimé dans ses regards ; oui, l'intérêt qu'elle prend à moi. Insensé ! Non, je partirai. Il faut en instruire Madame Dorsan. La voici.
+
+J'étais aussi dans le dessein...
+
+J'aurais besoin sans doute... Mais les vôtres, Madame, ne portant que sur des projets sensés, d'une exécution facile, ne doivent point vous trouver irrésolue.
+
+Des conseils, à moi, à son sujet ?
+
+Désintéressé !... Et où trouvez-vous, Madame, qu'on le fut jamais ? En êtes-vous encore à vous en fier aux apparences, à fonder sur elles ? Et parce que vous verrez un front calme, croirez-vous qu'on ne puisse être agité ? Vous me croyez votre ami, je suis peut-être un ingrat. Ce soir, je puis vous paraître un ingrat, un insensé !... quand je ne serai que prudent, et votre ami. Trop de véhémence m'emporte ; mais croyez-moi, Madame, contenir, renfermer ses passions, ce n'est pas en être exempt. L'homme soumis aux passions n'est point indifférent, il n'est point désintéressé !... Mais l'on décide, l'on juge, l'on croit, où l'on devrait douter, où l'on devrait...
+
+La raison faiblit à proportion des forces qu'on en exige. Souvent, le prétendu sage n'est qu'un fou comme un autre.
+Et sensible, à mon âge... Je ne puis soutenir cet entretien. Un autre instant me verra, peut-être, plus calme.
+Vous me connaîtrez,... vous connaîtrez mon coeur,... et s'il sait remplir les devoirs de l'amitié, se soumettre aux sacrifices qu'elle impose.
+
+Faisons remettre cette lettre à Madame Dorsan.
+Que vois-je ? Sophie est sans sa mère. Ah ! Fuyons.
+
+La surprise sans doute, a produit cette émotion passagère.
+Qui n'en serait troublé ?
+
+Sophie !
+
+Non.
+
+Quoi ? Que pourrais-je ?
+
+S'il était nécessaire... Je crois...
+
+Que j'en aurais le courage.
+
+Ah !
+
+J'ai... J'ai de la discrétion... de la pitié... Je ne questionne point... Je ne tourmente point (les malheureux); on ne connaît pas la faiblesse humaine, on se livre avec innocence à la bonté du coeur, on allume le feu des passions qu'on ignore ; ce feu circule... Il pénètre... dévore !...
+
+Cruelle ! En est-ce assez ?
+
+Sais-je en cet instant, ce que je suis ?
+Je suis trop faible. Oui, je l'aime trop uniquement.
+
+Voulez-vous lire quelque chose ?
+
+Préférez vous de traduire ?
+
+Je vous ai entendue... Si j'ai craint de ne pas me découvrir davantage...
+
+Sophie, Sophie !... Non, c'est vous, qui ne pouvez me comprendre, qui ne sentirez jamais à quel point vous m'êtes chère. Mon expérience... Mon âge... Le vôtre ! Une séparation éternelle. Au moins dans ma douleur, j'aurai ce témoignage à me rendre, que je n'aurai point profité des premiers sentiments qui naissent dans votre âme, et ne pourront s'y fixer, qui naissent de l'innocence de votre coeur, de sa sensibilité, sans doute, oh ! Je le crois !... Mais cette sensibilité qui vous abuse, qui peut m'abuser, moi-même ; non, elle n'est encore en vous qu'un besoin trompeur.
+
+Le sentiment, dites-vous ? Et de quel sentiment parlez vous, Sophie ?
+
+Du nôtre, vous le connaissez... Vous l'expliqueriez ?
+
+Un sentiment ?...
+
+Et réfléchi ?
+
+Et profond, et durable à jamais, remplit toute votre âme ? Vous croyez qu'il existe en vous, qu'il peut durer ! Et... c'est votre coeur, qui prend soin chaque jour de vous le confirmer ?
+
+Et... L'objet d'une telle affection ?
+
+J'entends.
+
+Je le crois du moins (et je crains de le croire); à présent, quels désirs, quels voeux formez-vous ? Un attachement ne peut, ne doit point être inutile et sans fin.
+
+Répétez encore.
+
+Cependant, au bout de quelques années, si l'âge de celui qui vous entend, trop peu assorti, trop peu convenable au vôtre...
+
+Et vous aimeriez toujours Sophie ? Et vous ménageriez ce coeur qui vous appartient, ce coeur jaloux peut-être, trop sensible, trop délicat pour ne l'être pas...
+
+Sophie, le puis-je croire ? Craignez de me jeter dans une erreur qui me promet tout ce qu'on peut avoir de bonheur sur la terre. Vous ne connaissez pas mes voeux, mes tourments, le trouble où je suis. Dites, Sophie, dites que ces soins délicats, d'un coeur vraiment touché, suffiront à votre âme sensible et vertueuse ; dites qu'ils pourront remplacer auprès de vous les charmes de l'âge et ceux de la figure.
+
+Oui, chère Sophie, oui je le suis.
+
+Je ne doute plus.
+
+Sans doute.
+
+L'expression...
+
+Que sert de nous occuper...
+
+De l'amour ?
+
+Pour Valbelle ?
+
+Pour Valbelle ?
+
+Qu'entends-je ?
+
+Moi... Ah !... Je serai votre ami... Moi.
+
+Elle n'avait pas d'expressions assez touchantes pour me convaincre, perfide !
+
+Vous l'avez dit... Vous l'aimez donc ?
+
+Sa bouche encore... C'est Valbelle.
+
+Il suffit, soyez heureuse... Pour moi, dont les transports jaloux ont besoin d'éclater... Je vais...
+
+Laissez-moi.
+
+Vous fuir à jamais.
+
+Eh quoi ! Lisette vous laisse... Qu'avez-vous donc, chère Sophie ?
+
+Votre mère s'adressant à moi, me conjurant de ne point partir, comme si ma présence était encore chère à Sophie... Hélas ! Un autre a des droits sur son coeur, Sophie détourne ses regards, elle craint de rencontrer les miens...
+
+Dieux !... Elle m'aime, ce n'est point une erreur.
+
+Arrête, Sophie... arrête. Trop de joie enivre mon coeur... Moi, te quitter et vivre ?... Fallait-il donc te le dire ? Quoi ? Tu n'as pas senti que je t'adore ?... Ah ! Connais l'amour... Connais ton amant, l'excès...
+
+Laisse-moi cette puissance, sur moi-même, de ne point tomber à tes pieds, de ne point t'exprimer mon amour et sa force... Laisse-moi... ton âge, ces aveux répétés, d'une tendresse éternelle, je les dois à une mère, à la tienne, ô Sophie !... Je vais à Madame Dorsan, je vais à l'instant même...
+Ne crains point cette expérience de l'âge, cette sévérité de caractère que l'amour adoucira pour toi. T'aimer, t'adorer ! Abuse de ton empire, tu le peux, je suis le plus faible, j'aime davantage... Mais prends pitié de ma faiblesse. Ô Sophie ! Ou mourir... ou posséder ton coeur à jamais.
+
 C'est ton époux que tu vois à tes pieds.
 
--*who_sophie
-Lui...
-Ô maman !
-Quel est votre bienfait !
-J'avais de l'amour pour Derville.
 
--*who_madamedorsan
-Il devient ton époux...
-Qu'il soit toujours ton ami.
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Je n'ai point oublié que Madame m'a demandé des instructions sur le compte de Mademoiselle.
+
+Ah ! Ces distractions, ces rêveries, cette tristesse qui nous alarmait est bien loin.
+
+Un petit ouvrage sur l'amitié, que Mademoiselle lit, et dont il m'a fallu entendre quelque chose, a opéré ce grand changement.
+
+Valbelle !... Nous ne respirons que depuis qu'il est absent. C'est précisément, je pense, parce qu'il est le plus joli cavalier du monde, qu'il lui déplaît davantage. Dans sa figure, elle ne voit que des traits, elle y cherche une âme ; dans ses grâces, elle croit apercevoir les prétentions dont elle est l'ennemie ; son âge c'est celui de l'inexpérience et de la légèreté ; son caractère, n'est point assez franc...
+
+Oh ! Pour lui, c'est autre chose... Cette amitié-là est bien sans conséquence en vérité. Mais pourtant, cela n'empêche pas que je ne sois très assurée qu'elle le préfère à tous ; car, c'est assez qu'il paraisse s'apercevoir des défauts de Mademoiselle, pour qu'elle mette toute son attention à les corriger. Et ces défauts, quels sont-ils ?... Mais elle a tant de confiance en lui !...
+
+Mais, oui, je dis bien : elle a tant de confiance en lui... que les conseils qu'il lui donne, les sciences qu'il lui enseigne ; c'est tout cela, dis-je, qui attache Mademoiselle Sophie à lui.
+
+Car, très certainement, elle n'est point éprise d'un homme de cet âge, fort sérieux, quelquefois même assez triste. Et pour Monsieur Derville...
+
+S'il était amoureux ici... Ce ne serait assurément point de Mademoiselle Sophie, qui n'a que quinze ans... Madame est bien convaincue...
+
+Qu'ai-je dit ? On n'apprend pas à quelqu'un son propre secret.
+
+Ah ! Monsieur Derville pourra entrer, lui ?
+
+Chez Madame ?
+
+Je le crois. Elle ne sait pas qu'il part ce soir.
+
+Ce Monsieur Derville, s'aviser de vouloir nous quitter ? Lui, depuis dix ans dans cette maison, lui parent et ami de ma maîtresse, chéri de Sophie comme un père !
+Dubois ! Je le questionnerai tant, qu'il faudra bien qu'il parle. Dubois ! Mais arrive donc.
+
+Derville quitter ces lieux ?
+
+Mais encore, comment ? Pourquoi ? On s'explique...
+
+Que t'a-t-il dit ?
+
+Je pars, je le dois.
+
+Un moment. Ce voyage précipité...
+Tu n'en diras pas davantage.
+
+Belle réflexion, qui lui fait faire une sottise, qui...
+
+J'en entrevois beaucoup, et je l'ai pénétré. Ma maîtresse, dont le coeur est tout à sa fille, ne veut pas entendre à un second hymen ; et Derville rebuté, prend son parti dans la fuite ; c'est clair.
+
+Devant vos yeux.
+Si je pouvais le faire parler.
+
+Heureux celui qui s'entretient avec soi-même. A-t-il tort, a-t-il raison, personne ne le contredit.
+
+J'ai l'air de perdre mon temps, Monsieur ; je vous admire.
+
+Oh ! Que pardonnez-moi, l'esprit de réflexion, l'amour de l'étude, de la philosophie. Ah ! Monsieur, que c'est, dit-on, une belle chose que la philosophie ! Apprenez-moi donc au juste ce que c'est, en quoi elle consiste. Ma jeune maîtresse fait un si grand cas de vos leçons, et Madame elle-même...
+
+L'éloquence du maître.
+
+Mon Dieu, quelle chaleur ! Qui vous dit cela ? Votre honnêteté, la confiance de Madame... Vous êtes aujourd'hui bien pensif, Monsieur, on dirait que vous méditez secrètement quelque projet bien difficile, et que...
+
+Ah ! Je m'en souviens, je vous demandais à quoi la philosophie est bonne, et en quoi vous la faites consister.
+
+Le secret échappe.
+De quel air vous dites cela ! Quoi ! Ce sont des sacrifices bien coûteux, bien pénibles, qu'elle veut de nous ?
+
+Il faut qu'elle ait bien peu de crédit, bien peu d'empire.
+
+L'amour, par exemple ?
+
+J'en sais suffisamment, Monsieur Derville. Vous aimez Madame Dorsan, à en perdre l'esprit, vous voudriez obtenir sa main ; j'en suis certaine. Ne craignez plus mes questions importunes.
+Adieu, Monsieur, je vais dire à Madame que vous êtes ici.
+
+Il est fou. Ah ! La philosophie ne sera pas mon étude ; le sens commun vaut encore mieux.
+
+Qu'y a-t-il donc ?
+
+Quoi, ma belle maîtresse ?
+
+Une telle tristesse...
+
+La vôtre en effet me surprend.
+
+Eh bien ?
+
+Je dirai cela, moi ?
+
+Ô ciel ! Et vous pleurez presque en disant cela. Ce discours, assez énigmatique, n'aurait-il point de rapport au départ de Derville ?
+
+Si j'étais très sûre du secret, je vous apprendrais bien, moi, la véritable cause du départ de Derville. Il ne faut pas moins que cet amour extrême, que Madame a pour vous, pour qu'elle se refuse à un engagement aussi convenable ; il faut qu'elle ait un coeur comme le sien... Paix. Voici Derville lui-même ; dans un autre moment je viendrai vous retrouver.
+
+Quel changement heureux !
+
+Quels transports ! Que d'expression ! Vous voilà donc enfin plus raisonnable. Car cet amant, c'est Valbelle, je pense ; cet amour, c'est le sentiment que vous avez pour lui, et le bonheur, c'est de l'épouser, est-il vrai ?
+
+Il restera toujours ! Comment, j'ai deviné juste ? Et quand je viens de voir Derville aux pieds de Madame Dorsan, c'est donc bien vrai qu'il l'aime et qu'il l'épouse ?
+
+Mais oui, ce me semble.
+
+Encore une fois, à les entendre parler d'union, aux transports qu'ils font paraître tous deux...
+
+Je ne savais pas, moi...
+
+Ayant vu Monsieur Derville aux pieds de Madame... qui lui parlait de mariage...
+
+J'ai dit à Mademoiselle...
+
+
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+
+Le voilà Dubois, on ne l'appelle que pour le faire jaser ; mais vous ne voulez pas croire à ce que je vous ai dit, je ne saurais qu'y faire, moi.
+
+Ces lieux, cette maison. Plus de lectures, plus de leçons à Mademoiselle Sophie ; mon maître part ce soir, c'est comme cela.
+
+Il est inexplicable lui-même. Enfoncé dans ses rêveries, il vous regarde, et ne vous aperçoit pas ; il est tel, qu'il en donne envie de rire.
+
+Trois choses. Je pars, je le dois, que tout soit prêt.
+
+Que voulez-vous ? Le maître commande, le valet obéit ; ainsi le veut la loi, qui fit des maîtres et des serviteurs. Adieu, Mademoiselle. Gardez-moi le secret.
+
+Là, là, parce que vous êtes fille, et curieuse, il faut que je me trouve, à point nommé, babillard et instruit. Je n'ai rien à dire, moi ; tout ce que je dis, c'est qu'on sait bien que Monsieur Derville n'est pas comme un autre, qu'il n'agit, lui, que quand il a bien réfléchi.
+
+Trêve à l'entretien. Monsieur Derville m'attend. Sur pied depuis cinq heures du matin, il a mis le nez, je crois, dans tous les volumes de sa bibliothèque, sans avoir jamais pu trouver ce qui lui convenait.
+Voyez-vous, c'est le cerveau qui est malade. Du mystère, Mademoiselle Lisette, du mystère.
+

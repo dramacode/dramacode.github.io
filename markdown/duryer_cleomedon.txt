@@ -1,6 +1,6 @@
 ---
 identifier: duryer_cleomedon  
-creator: Du Ryer, Pierre  
+creator: Du Ryer, Pierre ; Georges Forestier.  
 date: 1636  
 title: Cléomédon. Tragi-comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: benserade_mortachille  
-creator: Benserade, Isaac de  
+creator: Benserade, Isaac de ; Georges Forestier.  
 date: 1636  
 title: La Mort d'Achille  
 ---

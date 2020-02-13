@@ -1,223 +1,92 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_durant *book_durant_quicourtdeuxlievres *style_prose *genre_proverbe *dist1_durant_prose_proverbe_quicourtdeuxlievres *dist2_durant_prose_proverbe *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_levicomte
-Quoi, Baron, la conquête d'Angélique n'est pas la seule que vous envisagiez ?
-Et vous voulez encore borner celle que je médite Sur Hortance !
-Ce trait n'est ni d'un loyal amant, ni d'un ami fidèle, comme vous voulez qu'on vous croie.
-
--*who_lebaron
-Que voulez-vous, mon pauvre vicomte ?
-Je me laisse aller à la corruption du siècle ; et comme je ne suis pas bien amoureux, j'avoue que je serais flatté de toucher deux cours par ma seule adresse, sans qu'il m'en coûtât des sentiments qui rendent toujours malheureux.
-
--*who_levicomte
-Ma foi, mon ami, je ne ferai pas en reste de confiance avec vous : je pense pour Angélique ce que vous pensez pour Hortance ; et si je rends à celle-ci des soins en public, j'ai avec l'autre un manège couvert qui pourrait bien avoir quelque petit succès.
-
--*who_lebaron
-Tant mieux ; je ne faisais donc que vous le rendre ; poussons l'un et l'autre notre fortune, mais avertissons-nous de nos progrès ; il est permis d'être fourbe en amour, c'est une liberté aussi bien établie que celle d'être trompeur en chevaux ; mais en amitié, il faut de la bonne foi.
-
--*who_levicomte
-Oh !
-Cela s'entend ; mais voici nos maîtresses, rangeons-nous à notre devoir.
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_hortance
-Que sont les deux amis aujourd'hui ?
-Vont-ils à l'opéra, ou jouer au lansquenet.
-
--*who_levicomte
-Pour moi, Madame, je n'ai point de volonté déterminée où vous êtes.
-
--*who_angelique
 Et vous, Baron, à quoi vous destinez-vous ?
 
--*who_lebaron
-Moi, Madame, je vous adhère, et ma destinée dépend de vous.
-
--*who_hortance
-Madame, ils sont trop galants et trop polis, si vous m'en croyez, nous leur donnerons congé pour les en récompenser.
-
--*who_angelique
 J'y consens, aussi bien j'ai quelque chose à vous dire.
 
--*who_levicomte
-Puisque vous nous chassez, mesdames, nous allons faire un tour par le monde, pourvu que vous nous permettiez de revenir.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_hortance
-Il faut avouer, ma bonne, que le baron vous aime furieusement ; mais vous êtes si secrète, que je n'ai pu encore découvrir si vous avez de la reconnaissance pour lui.
-
--*who_angelique
 Vous riez de si bon coeur, qu'il faut que vous soyez bien contente du vicomte ; aussi n'a-t-il des yeux que pour vous.
 
--*who_hortance
-Je voudrais bien, vraiment, qu'il en eût pour quelque autre, moi qui sans vanité ne suis ni coquette ni infidèle.
+Voilà justement mon portrait. On est bien embarrassé d'un amant ! Pourquoi voudrait-on faire tant de conquêtes ? Mais, ma petite, je voulais savoir de vous, d'où vient que vous n'avez plus pour moi ces petites manières tendres qui me faisaient tant de plaisir ; votre air est contraint, votre beauté même en souffre ; car vous savez que les yeux ne sont brillants qu'avec les personnes qui plaisent.
 
--*who_angelique
-Voilà justement mon portrait.
-On est bien embarrassé d'un amant !
-Pourquoi voudrait-on faire tant de conquêtes ?
-Mais, ma petite, je voulais savoir de vous, d'où vient que vous n'avez plus pour moi ces petites manières tendres qui me faisaient tant de plaisir ; votre air est contraint, votre beauté même en souffre ; car vous savez que les yeux ne sont brillants qu'avec les personnes qui plaisent.
+Ah ! Voilà le vicomte, à qui je veux demander ce qu'il en pense. Venez un peu nous dire si nous avons raison.
 
--*who_hortance
-Il y a une étrange conformité dans votre manière de penser !
-Je trouve en vous tout ce que vous trouvez en moi : et vous m'avez paru si changée aujourd'hui, que j'ai cru que vous étiez malade.
-
--*who_angelique
-Ah !
-Voilà le vicomte, à qui je veux demander ce qu'il en pense.
-Venez un peu nous dire si nous avons raison.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_levicomte
-Je ne déciderai point entre deux belles Dames ; mais je vous dirai, que le baron est entré au dernier acte d'une pièce française dont je suis rebattu, et que j'ai bien vite repris mon vol de ce côté-ci.
-
--*who_hortance
-Pour moi, je vais consulter mon miroir sur mon prétendu changement ; c'est un juge plus sûr que le Vicomte.
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_angelique
 Je lui disais qu'elle était changée ; elle a jugé à propos d'user de représailles.
 
--*who_levicomte
-Jamais vous ne parûtes si belle à mes yeux ; et si je ne craignais de me faire gronder, je vous dirais ce que mes regards ne vous ont déjà que trop dit.
+Et Hortance, que dirait-elle ? Ce serait bien là de quoi me faire trouver laide à faire peur.
 
--*who_angelique
-Et Hortance, que dirait-elle ?
-Ce serait bien là de quoi me faire trouver laide à faire peur.
+Que vous êtes fou, mon pauvre Vicomte ! Je ne veux pas m'embellir si vite ; mais je ne ferai point fâchée que vous preniez les soins nécessaires pour accomplir ce grand ouvrage. Et pour le baron , qu'il ne- vous épouvante pas.
 
--*who_levicomte
-Que vous importe, Madame ?
-Les jugements des femmes font suspects ; mais je sais un moyen sûr de vous embellir : dites-moi quelques choses de doux, les déesses auront moins que vous de grâces et de beautés ; mais le Baron, Madame, est un terrible obstacle !
+Ah ! Ma pauvre Hortance, les tristes nouvelles que vous a appris votre miroir ! Je le vois bien à votre mine.
 
--*who_angelique
-Que vous êtes fou, mon pauvre Vicomte !
-Je ne veux pas m'embellir si vite ; mais je ne ferai point fâchée que vous preniez les soins nécessaires pour accomplir ce grand ouvrage.
-Et pour le baron , qu'il ne- vous épouvante pas.
-
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_angelique
-Ah !
-Ma pauvre Hortance, les tristes nouvelles que vous a appris votre miroir !
-Je le vois bien à votre mine.
-
--*who_hortance
-Le vicomte vous en a dit de plus agréables ; car vous me paraissez bien vive.
-
--*who_levicomte
-Moi, Madame, j'ai parlé de choses fort indifférentes ; mais j'aperçois le Baron qui va vous conter des gentillesses.
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_lebaron
-Ma foi, je suis si ennuyé de la conversation d'un fat que j'ai trouvé à la comédie, que je viens m'en dépiquer ici.
-
--*who_angelique
 Je vais vous laisser, avec Hortance ; elle a mille remèdes contre l'ennui.
 
-**** *book_ *id_I08 *act_I *date_(non
-
--*who_hortance
-Quoi, tête à tête avec vous !
-Le vicomte et Angélique ne savent ce qu'ils font.
-
--*who_lebaron
-Ce font leurs affaires ; je ne suis pas assez charitable pour n'employer un temps si précieux qu'en vaines commisérations ; et si vous voulez, Madame, être de moitié avec moi, nous leur donnerons matière de réflexions et de soins.
-
--*who_hortance
-Vous vous moquez baron, Angélique vous tient plus au cour que vous ne pensez, et je ne suis pas assez belle pour effacer les impressions qu'elle y a faites.
-
--*who_lebaron
-Si ce n'est que cela qui nous arrête, Madame, j'aurai bientôt guéri votre esprit.
-Plût à l'amour qu'il me fut aussi aisé de toucher votre cour !
-Mais le vicomte n'y est-il point trop bien pour mon repos?
-
--*who_hortance
-Le Vicomte ?
-Ah !
-Vous êtes jaloux !
-C'est une bonne marque ; allez, faites bien votre devoir, et j'en userai à l'égard du vicomte, comme vous en userez à celui d'Angélique.
-
-**** *book_ *id_I09 *act_I *date_(non
-
--*who_angelique
 Monsieur le Baron ne vous a pas ennuyée, Madame, apparemment ; et vos yeux brillent d'un feu si vif...
 
--*who_hortance
-Oh, point, Madame, je suis si changée aujourd'hui !...
-
-**** *book_ *id_I10 *act_I *date_(non
-
--*who_angelique
 Le Vicomte rentre : ces messieurs ne savent que faire apparemment : croyez-moi, Madame, laissons-les ensemble, et allons dans mon cabinet éclaircir un doute qui me vient à l'esprit.
 
--*who_hortance
-Allons, Madame, vous me ferez plaisir de m'empêcher d'être dupe.
+Baron, vous avez de vastes desseins ! Cela est digne de votre courage ; la Macédoine est un trop petit royaume pour vous.
 
-**** *book_ *id_I11 *act_I *date_(non
-
--*who_lebaron
-Ma foi, vicomte, ce petit manège-ci ne laisse pas d'être embarrassant : qu'en dites-vous ?
-
--*who_levicomte
-Je voulais vous dire la même chose : elles sont toutes deux coquettes en diable ; mais elles ne veulent rien perdre : et quand l'une m'est gracieuse, l'autre me fait une mine horrible qui ne laisse pas de me jeter quelques remords dans l'âme.
-
--*who_lebaron
-Oh, pour du remords, je m'en moque !
-Je démêlerais cette fusée avec des femmes qui ne se verraient guère ; mais celles-ci, à quelque jalousie de beauté près, font liées d'une façon qui m'épouvante, et je crains une découverte.
-
--*who_levicomte
-Demandons pardon à nos véritables maîtresses, et tâchons du moins à ne pas tout perdre : voilà mon sentiment.
-
--*who_lebaron
-Il me vient une autre pensée : Allons chercher fortune ailleurs ; jeunes et faits comme nous sommes, nous ne demeurerons guère sur le pavé.
-Nous voici décriés comme le diable dans cette maison : faisons-leur chacun une révérence, et tirons-nous de cette intrigue en gens de cour.
-
--*who_levicomte
-Les voilà qui reviennent tout à propos, faisons notre compliment.
-
-**** *book_ *id_I12 *act_I *date_(non
-
--*who_angelique
-Baron, vous avez de vastes desseins !
-Cela est digne de votre courage ; la Macédoine est un trop petit royaume pour vous.
-
--*who_hortance
-Le même désir de conquête est en vous, Vicomte !
-Je suis fâchée pour l'amour de vous, que vos desseins soient découverts.
-
--*who_lebaron
-L'audace est extraordinaire, de nous accuser de crimes dont vous êtes coupables comme nous.
-
--*who_levicomte
-Après toutes vos coquetteries ; c'est bien à vous à nous faire des reproches !
-
--*who_angelique
 Je vous annonce pour moi, que je renonce à vous sans retour.
 
--*who_hortance
-Je ne suis pas moins fière que mon amie : le petit éclaircissement que nous venons d'avoir ensemble ne vous est pas avantageux.
-
--*who_lebaron
-Ma foi, mesdames, vous ne faites que nous prévenir ; et vous ne nous donnez notre congé, que parce que vous avez parlé les premières.
-
--*who_levicomte
-C'est la vérité ; mais l'avantage n'est pas assez grand pour que vous ne vouliez pas l'accorder au sexe : ce qui m'afflige de tout ceci, c'est qu'il y a duplicité d'action ; et cela est diablement contre les règles.
-
--*who_angelique
 Nous ne connaissons de règles que celles de notre devoir, et nous ne voulons plus avoir aucun commerce avec des gens qui nous ont jouées.
 
--*who_lebaron
+
+**** *creator_durant *book_durant_quicourtdeuxlievres *style_prose *genre_proverbe *dist1_durant_prose_proverbe_quicourtdeuxlievres *dist2_durant_prose_proverbe *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+
+Que voulez-vous, mon pauvre vicomte ? Je me laisse aller à la corruption du siècle ; et comme je ne suis pas bien amoureux, j'avoue que je serais flatté de toucher deux cours par ma seule adresse, sans qu'il m'en coûtât des sentiments qui rendent toujours malheureux.
+
+Tant mieux ; je ne faisais donc que vous le rendre ; poussons l'un et l'autre notre fortune, mais avertissons-nous de nos progrès ; il est permis d'être fourbe en amour, c'est une liberté aussi bien établie que celle d'être trompeur en chevaux ; mais en amitié, il faut de la bonne foi.
+
+Moi, Madame, je vous adhère, et ma destinée dépend de vous.
+
+Ma foi, je suis si ennuyé de la conversation d'un fat que j'ai trouvé à la comédie, que je viens m'en dépiquer ici.
+
+Ce font leurs affaires ; je ne suis pas assez charitable pour n'employer un temps si précieux qu'en vaines commisérations ; et si vous voulez, Madame, être de moitié avec moi, nous leur donnerons matière de réflexions et de soins.
+
+Si ce n'est que cela qui nous arrête, Madame, j'aurai bientôt guéri votre esprit. Plût à l'amour qu'il me fut aussi aisé de toucher votre cour ! Mais le vicomte n'y est-il point trop bien pour mon repos?
+
+Ma foi, vicomte, ce petit manège-ci ne laisse pas d'être embarrassant : qu'en dites-vous ?
+
+Oh, pour du remords, je m'en moque ! Je démêlerais cette fusée avec des femmes qui ne se verraient guère ; mais celles-ci, à quelque jalousie de beauté près, font liées d'une façon qui m'épouvante, et je crains une découverte.
+
+Il me vient une autre pensée : Allons chercher fortune ailleurs ; jeunes et faits comme nous sommes, nous ne demeurerons guère sur le pavé. Nous voici décriés comme le diable dans cette maison : faisons-leur chacun une révérence, et tirons-nous de cette intrigue en gens de cour.
+
+L'audace est extraordinaire, de nous accuser de crimes dont vous êtes coupables comme nous.
+
+Ma foi, mesdames, vous ne faites que nous prévenir ; et vous ne nous donnez notre congé, que parce que vous avez parlé les premières.
+
 Pour nous qui n'avons que la fierté des héros, et qui n'en avons ni les faiblesses, ni les fadeurs, nous abandonnons courageusement deux scélérates, qui n'avaient d'autres vues que de nous tromper.
 
--*who_hortance
-Nous voilà quatre assez désouvrés.
-Juste retour des choses d'ici bas !
-Chacun de nous voulait tromper, et a été trompé à son tour.
-Adieu, Messieurs ; allez essayer si la fidélité vous réussira mieux, et nous ferons la même épreuve.
+
+**** *creator_durant *book_durant_quicourtdeuxlievres *style_prose *genre_proverbe *dist1_durant_prose_proverbe_quicourtdeuxlievres *dist2_durant_prose_proverbe *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+
+Quoi, Baron, la conquête d'Angélique n'est pas la seule que vous envisagiez ? Et vous voulez encore borner celle que je médite Sur Hortance ! Ce trait n'est ni d'un loyal amant, ni d'un ami fidèle, comme vous voulez qu'on vous croie.
+
+Ma foi, mon ami, je ne ferai pas en reste de confiance avec vous : je pense pour Angélique ce que vous pensez pour Hortance ; et si je rends à celle-ci des soins en public, j'ai avec l'autre un manège couvert qui pourrait bien avoir quelque petit succès.
+
+Oh ! Cela s'entend ; mais voici nos maîtresses, rangeons-nous à notre devoir.
+
+Pour moi, Madame, je n'ai point de volonté déterminée où vous êtes.
+
+Puisque vous nous chassez, mesdames, nous allons faire un tour par le monde, pourvu que vous nous permettiez de revenir.
+
+Je ne déciderai point entre deux belles Dames ; mais je vous dirai, que le baron est entré au dernier acte d'une pièce française dont je suis rebattu, et que j'ai bien vite repris mon vol de ce côté-ci.
+
+Jamais vous ne parûtes si belle à mes yeux ; et si je ne craignais de me faire gronder, je vous dirais ce que mes regards ne vous ont déjà que trop dit.
+
+Que vous importe, Madame ? Les jugements des femmes font suspects ; mais je sais un moyen sûr de vous embellir : dites-moi quelques choses de doux, les déesses auront moins que vous de grâces et de beautés ; mais le Baron, Madame, est un terrible obstacle !
+
+Moi, Madame, j'ai parlé de choses fort indifférentes ; mais j'aperçois le Baron qui va vous conter des gentillesses.
+
+Je voulais vous dire la même chose : elles sont toutes deux coquettes en diable ; mais elles ne veulent rien perdre : et quand l'une m'est gracieuse, l'autre me fait une mine horrible qui ne laisse pas de me jeter quelques remords dans l'âme.
+
+Demandons pardon à nos véritables maîtresses, et tâchons du moins à ne pas tout perdre : voilà mon sentiment.
+
+Les voilà qui reviennent tout à propos, faisons notre compliment.
+
+Après toutes vos coquetteries ; c'est bien à vous à nous faire des reproches !
+
+C'est la vérité ; mais l'avantage n'est pas assez grand pour que vous ne vouliez pas l'accorder au sexe : ce qui m'afflige de tout ceci, c'est qu'il y a duplicité d'action ; et cela est diablement contre les règles.
+

@@ -1,6 +1,6 @@
 ---
 identifier: chapelle_zaide  
-creator: La Chapelle  
+creator: La Chapelle ; Georges Forestier.  
 date: 1681  
 title: Zaïde. Tragédie  
 ---

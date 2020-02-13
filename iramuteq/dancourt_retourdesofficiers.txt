@@ -1,1384 +1,577 @@
 
 
-**** *book_ *id_I01 *act_I *date_1697
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrapineau
 
--*who_monsieurrapineau
 Est-il possible que mes soins, mon amour, mes assiduités, mes empressements, les petits régals que je donne, les dépenses où je m'engage, ne toucheront point le cœur de mon inhumaine : et ne devrai-je qu'aux ordres de sa mère le bonheur de la posséder ?
 
--*who_maturin
-Morgué, vela bian de la musique pardue ; et si vous velez que je vous parle franchement, il m'est avis que vous êtes un benêt de faire tout ça.
+Comment ? Comment donc un benêt ?
 
--*who_monsieurrapineau
-Comment ?
-Comment donc un benêt ?
-
--*who_maturin
-Ne vous fâchez point, je sommes tous seuls ; et quoiqu'il soit bian plus de midi en ville, il est encore de bon matin chez Madame Thomas.
-Vous faites coucher toute la maison à trois heures après minuit, on ne s'y lève qu'à proportion ; votre musique n'a réveillé parsonne.
-On ne nous voit, ni on ne nous entend, je pouvons nous dire familièrement ce que je pensons.
-
--*who_monsieurrapineau
 Non, s'il vous plaît, point de familiarité : vous savez bien sous quelles conditions je vous ai tiré du Village, pour vous pousser dans la Finance ?
 
--*who_maturin
-Palsanguenne, oui, me voilà bian poussé, je suis rat de cave, et rat de cave de campagne encore ; et au train que vous prenez, vous, vous pourriez bian le redevenir : car vous l'avez été vous aussi, ne vous en déplaise, et c'est le premier degré de la forteune, à ce que vous dites.
+Qu'est-ce à dire ? Moi, redevenir Rat de cave ? Moi, Adjudicataire des regrats de Péronne, sous-fermier des aides de l'Élection de Saint-Quentin ? Quelle impertinence !
 
--*who_monsieurrapineau
-Qu'est-ce à dire ?
-Moi, redevenir Rat de cave ?
-Moi, Adjudicataire des regrats de Péronne, sous-fermier des aides de l'Élection de Saint-Quentin ?
-Quelle impertinence !
+Laquais, moi ? Moi, laquais ? J'étais en pension chez lui, vous ne savez ce que vous dites.
 
--*who_maturin
-Impertinence !
-Oh dame acoutez, Monsieur le Sous-farmier de Saint-Quentin, quoique vous sayez tout ça, vous êtes mon frère, oui ; et sans notre oncle le Portier de ce gros Maltoutier, qui nous fit venir tout petit, pour être laquais…
-
--*who_monsieurrapineau
-Laquais, moi ?
-Moi, laquais ?
-J'étais en pension chez lui, vous ne savez ce que vous dites.
-
--*who_maturin
-Cela est vrai, vous étiez nourri dans la maison ; mais comme vous ne payiez rien, et qu'il vous habillait encore par-dessus le marché, vous portiez la queue à Madame sa femme par reconnaissance.
-Acoutez, c'est morgué ce qui vous a fait ce que vous êtes.
-
--*who_monsieurrapineau
 Monsieur Maturin, Monsieur Maturin…
 
--*who_maturin
-Vous enragez que je vous dise tout ça ; car vous êtes glorieux, et je ne sais pas de qui vous tenez ; je ne sommes pas comme ça dans notre famille.
+Écoutez donc, il n'y a qu'un mot qui serve, je vous ai dit que je ne prétendais pas qu'on sût qui vous êtes, j'ai de bonnes raisons pour cela. Si vous faites tant qu'on vienne à le soupçonner seulement, je vous renverrai planter vos choux dans votre Village.
 
--*who_monsieurrapineau
-Écoutez donc, il n'y a qu'un mot qui serve, je vous ai dit que je ne prétendais pas qu'on sût qui vous êtes, j'ai de bonnes raisons pour cela.
-Si vous faites tant qu'on vienne à le soupçonner seulement, je vous renverrai planter vos choux dans votre Village.
-
--*who_maturin
-Oh palsangué, j'irai bian tout seul ; aussi bian j'enrage quand je vous vois faire ici toutes les sottises que vous faites.
-J'ai du naturel, moi, je ne sis pas comme vous.
-
--*who_monsieurrapineau
 Je n'ai que faire de votre naturel, taisez-vous.
 
--*who_maturin
-Si vous n'étiez pas mon frère, est-ce que je me soucierais qu'on se moquit de vous ?
-
--*who_monsieurrapineau
 Ce ne sont pas là vos affaires.
 
--*who_maturin
-Si fait, vous êtes mon frère une fois.
-
--*who_monsieurrapineau
 Encore ?
 
--*who_maturin
-Le cœur me saigne de vous voir dépenser notre bian à être amoureux d'une parsonne qui ne vous aime point.
+Qui ne m'aime point ! Qui vous a dit cela ?
 
--*who_monsieurrapineau
-Qui ne m'aime point !
-Qui vous a dit cela ?
-
--*who_maturin
-Hé, morgué, vous le disiez vous-même tout à l'heure encore, et si pourtant vous ne laissez pas de ly bailler toujours des cadeaux, des festins, de la musique.
-N'est-ce pas aujourd'hui encore que vous leur amenez des violons, et que vous leur baillez à souper ?
-
--*who_monsieurrapineau
 Je n'aime ni les frères, ni les contrôleurs, Monsieur Maturin.
 
--*who_maturin
-Ce que j'en dis, n'est pas que j'en parle : mais cet argent-là serait bian mieux employé à faire subsister notre sœur Nicole, qui garde des vaches auprès de Corbie, et le cousin Guillaume, qui n'est que le bediau d'une petite paroisse.
+Oh, finirez-vous ? Si vous me parlez jamais de ces gens-là, vous n'avez qu'à faire votre paquet, et les aller joindre, entendez-vous ? Je vous révoque. Ces gueux-là, quand cela commence à faire fortune, cela est d'une insolence…
 
--*who_monsieurrapineau
-Oh, finirez-vous ?
-Si vous me parlez jamais de ces gens-là, vous n'avez qu'à faire votre paquet, et les aller joindre, entendez-vous ?
-Je vous révoque.
-Ces gueux-là, quand cela commence à faire fortune, cela est d'une insolence…
-
-**** *book_ *id_I02 *act_I *date_1697
-
--*who_maturin
-Morgué, tope, je me tians révoqué : Il me déplaît par trop d'être le rat de cave de mon frère, et de le voir Monsieur ; j'aimerais palsanguenne mieux être le valet d'un autre.
-
-**** *book_ *id_I03 *act_I *date_1697
-
--*who_toinette
-Votre servante, Monsieur Maturin.
-
--*who_maturin
-Votre valet, Mademoiselle Toinette, comment vous en va ?
-
--*who_toinette
-Moi, je suis toute malade ; et je voudrais que le diable vous eût emporté, vous et votre Monsieur Rapineau, avec sa chienne de musique : cet animal-là nous assassine tous les soirs de grands repas, on en a des indigestions toute la nuit ; et quand on a commencé à s'endormir, il vous envoie des réveille-matin aussi désagréables…
-
--*who_maturin
-Oui, des chansons en latin, où lui-même il n'entend goutte, non plus que les autres.
-Il est bian fou de faire tout ça pour votre Mademoiselle Henriette, alle ne l'en aime pas davantage.
-
--*who_toinette
-Elle ne le hait pas tant que dans les commencements : mais voilà l'hiver qui approche, cela reviendra.
-
--*who_maturin
-Comment donc ça ?
-
--*who_toinette
-Quand il n'y a que de la robe et de la Finance dans le commerce, les Sous-fermiers brillent, on les trouvent passables : mais sitôt qu'on revoit des Officiers, ces autres Messieurs-là deviennent si laids, si laids…
-
--*who_maturin
-J'entends.
-Le nôtre aura bientôt son congé, n'est-ce pas ?
-
--*who_toinette
-Je crois qu'on doit aujourd'hui commencer à lui faire la mine, on boudera demain plus sérieusement ; dans trois ou quatre jours on lui cherchera querelle, et on lui fermera la porte au nez sur la fin de la semaine.
-
--*who_maturin
-Bon, tant mieux ; il vient de me bailler mon congé.
-
--*who_toinette
-Votre congé ?
-
--*who_maturin
-Oui, j'étais Rat de cave comme vous savez ; et par amiquié depuis qu'il est ici, je l'y sarvais parfois de valet de chambre, je ne suis rian de tout ça ; je charche condition : si vous en saviez queuque bonne où on portît la queue, par exemple, ça porte bonne chance.
-
--*who_toinette
-Vous êtes trop formé pour cela, Monsieur Maturin, cette condition-là serait difficile à trouver.
-
--*who_maturin
-Morgué point, je prendrai la première venue.
-
--*who_toinette
-À moins de vous faire cocher ou secrétaire.
-
--*who_maturin
-Non, tatigué, laquais, n'an s'en trouve bien, et si je m'en étais avisé plus jeune… Je me recommande à vous, Mademoiselle Toinette.
-Voici queuque une de vos Damoiselles.
-Sans adieu je vas charcher forteune.
-
-**** *book_ *id_I04 *act_I *date_1697
-
--*who_henriette
-Ma chère Toinette, je suis dans le dernier désespoir.
-
--*who_toinette
-Qu'y a-t-il donc ?
-Qu'est-il arrivé de nouveau ?
-
--*who_henriette
-J'en mourrai, je le sens bien, je n'y pourrai survivre.
-
--*who_toinette
-Et que diantre, à qui en avez-vous, s'il vous plaît ?
-
--*who_henriette
-Ma mère vient de me déclarer qu'elle veut absolument que je me marie.
-
--*who_toinette
-Mais cela n'est point si tragique, à ce qu'il me semble ; ce n'est point encore une chose faite.
-Et, qui est ce mortel-là qui s'expose à vous épouser sans votre permission.
-
--*who_henriette
-Ce vilain Monsieur Rapineau, qui nous a voulu suivre malgré nous en ce pays-ci, sous prétexte de ses affaires.
-
--*who_toinette
-Ah, le traître !
-Il paraissait n'avoir point d'autre but que celui de dépenser son argent, de vous régaler, en attendant mieux, et il a des vues secrètes ?
-Il s'adresse à Madame votre mère, sans vous en rien dire ?
-
--*who_henriette
-Il y a trois semaines qu'il ménage son esprit : mais ce n'est que d'hier qu'il a sa parole.
-
--*who_toinette
-Par ma foi, Madame, voilà un insolent maroufle, je ne saurais m'en taire.
-Je le regardais, moi, comme un homme sans conséquence, un oiseau de passage, que l'hiver chasserait avec les hirondelles.
-
--*who_henriette
-Que je suis malheureuse.
-
--*who_toinette
-Allez, allez, ne vous affligez point plus que de raison, il nous vient du secours, le quartier d'hiver approche.
-
--*who_henriette
-Il y a quatre jours que je n'ai pas de nouvelles d'Éraste, et ma cousine ne reçoit point de lettres de Clitandre.
-
--*who_toinette
-Tant mieux, Madame, c'est bon signe, ils vous en apporteront eux-mêmes ; ils savent bien que nous sommes à Péronne, et dès qu'ils pourront quitter l'armée, ils viendront d'abord ici, apparemment.
-
-**** *book_ *id_I05 *act_I *date_1697
-
--*who_isabelle
-Grande et réjouissante nouvelle, ma cousine.
-
--*who_toinette
-Vivat, Madame, vos amants sont arrivés, je gage.
-
--*who_henriette
-Serait-il possible ?
-
--*who_isabelle
-C'en est un qui m'arrive, à moi.
-
--*who_henriette
-Serait-ce Clitandre, ma chère cousine ?
-
--*who_isabelle
-Non, c'est Monsieur des Baliveaux.
-
--*who_toinette
-Monsieur des Baliveaux, le frère de cet imbécile d'abbé, Madame ?
-
--*who_isabelle
-C'est l'Abbé lui-même.
-Il a quitté le petit-collet, son frère est mort, il est devenu l'aîné de la famille, Conseiller au Présidial d'Abbeville ; et il vient en hâte, à ce qu'on dit, pour faire hommage à mes charmes, de sa nouvelle succession.
-
--*who_henriette
-Ah, le fatigant personnage ?
-
--*who_isabelle
-Il sera peut-être moins ridicule en Conseiller qu'en abbé : au pis aller, ce sera une nouvelle figure qui nous réjouira.
-
--*who_toinette
-Oh !
-Pour cela vous êtes furieusement fille, il n'y a point de nouveauté qui ne vous fasse plaisir.
-
--*who_isabelle
-J'en demeure d'accord, et je ne suis pas fâchée même quelquefois que le Printemps vienne, pour changer un peu de compagnie.
-
--*who_henriette
-Tu n'y songe pas, cousine, c'est le temps du départ, que le Printemps, tout le monde va à l'armée, on ne voit plus aucun Officier.
-
--*who_isabelle
-Hé qu'importe ?
-On les a vus six mois, n'est-ce pas assez ?
-C'est cette absence-là qui les fait valoir : et crois-moi, cousine, on les trouverait aussi ennuyeux que d'autres, si on les voyait toute l'année.
-
--*who_toinette
-Cela se pourrait fort bien, au moins ; et il me semble, à moi, qui en ai fait l'expérience, qu'une passion d'hiver est bien usée, et qu'elle tire diantrement sur ses fins quand le mois de mars arrive.
-
--*who_henriette
-Je suis d'un caractère bien différent : le départ d'Éraste m'a fat de la peine, j'ai trouvé son absence insupportable, et je languis après son retour.
-
--*who_toinette
-Cela ne vous a pas empêchée de vous bien réjouir pendant tout l'Été, et de faire bonne chère quand nous allions à Ivry avec Monsieur Rapineau, et que Robert apprêtait le souper à la maison de ce libraire.
-
--*who_henriette
-Tu crois que cela me faisait plaisir ?
-Ma mère le voulait, j'obéissais.
-
--*who_toinette
-Quelle complaisance !
-Cela est vrai, vous étiez de la plus mauvaise humeur du monde, et je me souviens que vous pensâtes crever de rire à cette partie que nous fîmes du temps des bains dans les îles de Charenton.
-
--*who_isabelle
-Oh !
-Pour ce jour-là tu ne peux t'en défendre, tu avais oublié l'absence d'Éraste, cousine.
-
--*who_henriette
-Oui, j'en conviens, je me divertis fort : mais par malice, je t'assure, et par la seule satisfaction de berner un ennuyeux d'été.
-
--*who_toinette
-Ce pauvre diable de Monsieur Rapineau !
-Le cœur me saigne quand j'y songe.
-C'est pourtant moi qui lui avais fait cacher sa chemise et ses habits tandis qu'il se baignait, et qui fus cause qu'il fut obligé de grelotter dans la rivière pendant tout le souper, qui se faisait à ses dépens.
-
--*who_henriette
-Je ne l'ai jamais tant aimé que ce jour-là.
-
--*who_isabelle
-Parce que nous le vîmes une heure de moins, et qu'il était dans l'eau jusqu'au cou.
-
--*who_henriette
-Je voudrais qu'il en eût aujourd'hui quatre pieds par-dessus la tête, le bourreau qu'il est.
-
--*who_isabelle
-Ah, ah !
-Cousine, et que t'a-t-il donc fait ?
-
--*who_toinette
-Rien encore, Dieu merci, Madame : mais il a de mauvaises intentions.
-Savez-vous bien qu'il prétend épouser, cet animal-là ?
-
--*who_isabelle
-Il faut le noyer, tu as raison, je suis de ton avis.
-
--*who_henriette
-Paix, taisons-nous, voici ma mère.
-
-**** *book_ *id_I06 *act_I *date_1697
-
--*who_madamethomas
-Ah, vous voilà !
-Je vous cherchais, et je suis bien aise de vous trouver toutes trois ensemble.
-
--*who_toinette
-Vous aimez la bonne compagnie, Madame, nous savons bien cela.
-
--*who_madamethomas
-J'ai quelque chose à vous dire, à quoi vous ne vous attendez pas, et qui vous fâchera.
-
--*who_isabelle
-Ne nous le dites donc point, ma tante, nous ne sommes pas curieuses.
-
--*who_madamethomas
-Je viens d'apprendre que Clitandre et Éraste sont ici.
-
--*who_isabelle
-Ah, ma chère tante !
-
--*who_henriette
-Ma pauvre Toinette ?
-
--*who_toinette
-Je vous le disais bien, voilà du secours, Madame.
-
--*who_isabelle
-Ils sont ici, ma tante, et vous croyez que cela doit nous chagriner ?
-
--*who_madamethomas
-Oui, ma nièce ; car je vous défends de les voir, entendez-vous ?
-
--*who_henriette
-Ah, ma mère !
-
--*who_madamethomas
-Je prétends être obéie, et je ne veux pas qu'ils mettent le pied chez moi, ni eux, ni toutes ces connaissances de l'année passée, que l'hiver va ramener.
-
--*who_isabelle
-Ne plus voir Clitandre, Madame ?
-
--*who_madamethomas
-Non, ma nièce.
-
--*who_henriette
-Renoncer aux visites d'Éraste ?
-
--*who_madamethomas
-Oui, ma fille.
-
--*who_toinette
-Hé, pourquoi cela, Madame, s'il vous plaît ?
-
--*who_madamethomas
-Pourquoi, coquine ?
-C'est bien à toi de me demander des raisons ?
-Mais voyez cette insolente !
-
--*who_toinette
-Je vous demande pardon, Madame : mais je suis surprise que vous vouliez troubler un commerce aussi innocent que celui de …
-
--*who_madamethomas
-Innocent tant qu'il vous plaira, je sais bien ce que je dis, et des connaissances d'Hiver ne valent rien pour l'établissement des filles.
-
--*who_toinette
-Ma foi, Madame, celles d'Été ne sont pas moins dangereuses, et les promenades d'Ivry et des îles de Charenton…
-
--*who_madamethomas
-Vous êtes une impertinente, j'avais mes vues quand j'ai donné les mains à ces parties-là.
-Oh çà, ma fille, je vous ai expliqué les sentiments où je suis pour Monsieur Rapineau, vous prendrez votre parti là-dessus, s'il vous plaît.
-
--*who_toinette
-Il est tout pris, nous n'en voulons point.
-
--*who_madamethomas
-Et pour vous, ma nièce, je vous destine à Monsieur des Baliveaux.
-
--*who_isabelle
-À Monsieur des Baliveaux, ma tante !
-Quoi, c'est pour cela qu'il vient ici ?
-
--*who_madamethomas
-Oui.
-Vous le connaissez, vous l'avez vu Abbé, il est Conseiller maintenant.
-C'est un fort honnête garçon, tout jeune, qui n'a pas plus de quarante-huit ou quarante-neuf ans, fort riche, et qui a une Terre auprès d'Amiens, où l'on vend plus de canards par an, que dans tout le reste de la Province.
-
--*who_isabelle
-Je suis bien sa très humble servante, ma tante, je n'ai que faire de lui, ni de ses canards.
-
--*who_madamethomas
-Vous y ferez vos petites réflexions, je vous en donne tout le loisir ; mais vous pouvez compter que je ne veux point voir de gens de guerre, ni dans ma maison, ni dans ma famille.
-
--*who_henriette
-Mais, ma mère…
-
--*who_madamethomas
-Je n'en veux point, vous dis-je, je connais le fort et le faible de tous les états de la vie.
-Votre père était Greffier, à vous, il m'a laissé du bien : le vôtre avait la Ferme du Tabac, il est mort riche.
-Ils avaient un frère Capitaine de cavalerie, qui mourut l'année passée aux Invalides.
-Point de disputes, Mesdemoiselles, un financier, un homme de robe, ou un couvent, et le congé à ces deux Messieurs surtout ; que je ne les voie pas davantage.
-
--*who_toinette
-Cette femme-là s'explique clairement, il n'y a pas moyen de faire semblant de ne pas l'entendre.
-
-**** *book_ *id_I07 *act_I *date_1697
-
--*who_henriette
-Moi, j'épouserais Monsieur Rapineau ?
-
--*who_isabelle
-Je serais femme de Monsieur des Baliveaux ?
-
--*who_toinette
-Vous voilà aussi mal loties l'une que l'autre, et vous n'aurez rien à vous reprocher ; mais enfin la chose n'est pas sans remède.
-
--*who_henriette
-Mais tu connais l'humeur impérieuse de ma mère : comment lui faire changer de sentiment ?
-
--*who_toinette
-Comment ?
-C'est la profession d'Éraste et de Clitandre qui l'effarouche, c'est celle de ces deux autres qui lui a gagné le cœur ?
-
--*who_isabelle
-Cela est vrai.
-
--*who_toinette
-Hé bien, ne pourrions-nous point ménager un petit troc entre ces Messieurs ?
-
--*who_henriette
-Comment ?
-
--*who_toinette
-Faire deux Officiers de vos deux benêt, et jeter les deux Officiers dans la Robe et dans la Finance.
-Je me chargerai quasi, moi, de les faire consentir tous quatre à la chose.
-
--*who_isabelle
-Clitandre, Conseiller d'Abbeville !
-
--*who_henriette
-Éraste, Sous-fermier des regrats !
-
--*who_toinette
-Pourquoi non ?
-Quel inconvénient y trouvez-vous ?
-
--*who_henriette
-Je crois que je ne l'aimerais plus, Toinette.
-
--*who_isabelle
-Je m'imagine que je ne le pourrais souffrir.
-
--*who_toinette
-Je vois bien qu'il n'y a que de l'imagination dans votre fait.
-Hé, mort de ma vie, sont-ce les emplois qui déshonorent les hommes ?
-Ce sont les hommes qui ridiculisent leurs emplois.
-Les gens d'esprit et de mérite sont toujours les mêmes dans tout ce qu'ils font ; un sot ne cesse point de l'être.
-Clitandre est un fort joli homme d'épée, ce sera un fort aimable Conseiller.
-Monsieur des Baliveaux est un Conseiller ridicule, il sera très impertinent capitaine.
-
--*who_henriette
-Il me semble qu'elle a raison, cousine.
-
--*who_toinette
-Laissez-moi faire.
-Voici déjà vos deux amants, il faut leur proposer la chose ; s'ils y topent, c'est une affaire faite.
-
-**** *book_ *id_I08 *act_I *date_1697
-
--*who_clitandre
-Hé !
-Bonjour, charmantes.
-Mesdemoiselles, quel plaisir de vous revoir après six grands mois de campagne.
-Mais vous retrouve-t-on fidèles, et sommes-nous les bienvenus ?
-
--*who_isabelle
-Vous mériteriez peu que votre retour fît plaisir, si vous doutiez de la joie qu'il nous donne.
-
--*who_henriette
-Il revient aussi écervelé qu'il est parti, cousine.
-
--*who_eraste
-Et moi plus amoureux que jamais, Madame.
-
--*who_henriette
-Je juge de votre cœur par les mouvements du mien, et je veux croire…
-
--*who_clitandre
-Je me donne au diable, c'est un Amadis que votre Éraste, pour l'amour s'entend ; je le suis pour la valeur, moi ; il n'a fait que languir,
-Soupirer, gémir toute la campagne.
-J'aime aussi fortement que lui, mais pas si sottement : nous sommes de deux sortes de caractères, tous deux bons, mais bien différents ; il est langoureux, et je suis drôle, et je suis drôle, n'est-il pas vrai ?
-Bonjour, Toinette.
-
--*who_toinette
-Votre très humble servante, Monsieur.
-
--*who_clitandre
-Nous voilà de retour.
-Hé donc, épouserons-nous cette fois ?
-Le quartier d'hiver sera long, il durera l'année, et passe.
-
--*who_henriette
-Vous ne retournerez plus à l'armée, Éraste ?
-
--*who_eraste
-Non, Madame, on dit la paix faite.
-
--*who_clitandre
-Je vous en suis caution, moi.
-Je tirai l'autre jour au fourrage le dernier coup de pistolet, je pense, et je ne tuai personne en signe de paix, j'ai fermé la guerre.
-
--*who_toinette
-Vous allez la renouveler ici, car vous y avez des rivaux, je vous en avertis.
-
--*who_clitandre
-Des rivaux ?
-Sont-ils beaucoup en nombre ?
-Jeunes ou vieux ?
-Robins ou autres gens ?
-Pacifiques ou mutins ?
-Faudra-t-il couper des oreilles ?
-Je suis expéditif ; parlez.
-
--*who_isabelle
-Il ne faudra que gagner l'esprit de ma tante, et lui faire changer les résolutions qu'elle a prises.
-
--*who_clitandre
-Quoi !
-C'est Madame Thomas qui nous fait le tour ?
-Elle n'est pas de nos amies, et j'ai tant menti pour le mériter, je lui ai dit plus de vingt fois qu'elle était et jeune et jolie.
-
--*who_toinette
-C'est ce qui vous fait tort, peut-être, elle songe à vous pour elle-même ; que sait-on ?
-
--*who_clitandre
-Ah !
-Cadedis, je le voudrais, sans conséquence au moins, Madame ; je lui ferais voir du pays.
-J'aime à ruiner les vieilles, c'est ma folie : mais je n'épouse que les jeunes.
-N'appréhendez point de me perdre.
-
--*who_eraste
-Serait-ce aussi Madame votre mère, belle Henriette, qui s'opposerait à mon bonheur.
-
--*who_henriette
-Il vaut bien mieux que les difficultés viennent de sa part que de la mienne, vous aurez moins de peine à les surmonter.
-
--*who_clitandre
-Çà, ne battons point le pays, sans compliments de part et d'autre ; parlons clair et bref.
-Nous vous aimons toujours, nous aimez-vous en continuant ?
-
--*who_isabelle
-Je suis incapable d'en aimer d'autre.
-
--*who_clitandre
-Bon, voilà bien parler.
-Et vous ?
-
--*who_henriette
-Je n'ai ni moins de constance, ni moins de résolution que ma cousine.
-
--*who_clitandre
-Hé bien donc, nous voilà d'accord, faut=-il tant de façon ?
-Épousons : qui nous en empêche ?
-
--*who_henriette
-Sans le consentement de ma mère ?
-
--*who_isabelle
-Sans l'aveu de ma tante ?
-
--*who_clitandre
-Son aveu !
-Son consentement !
-Nous sommes les parties intéressées, le nôtre ne suffit-il pas ?
-Je trouverais le sien de trop : diable emporte qui s'en soucie.
-
--*who_isabelle
-Mais la bienséance et la raison…
-
--*who_clitandre
-Je ne connais point ces animaux-là, et quand je suis auprès de vous, je n'ai que de l'amour, Madame.
-
--*who_eraste
-Je ne suis pas moins passionné que toi : mais je comprends bien cependant que si madame Thomas nous est contraire, il n'y a pas d'apparence…
-
--*who_toinette
-Voulez-vous vous en reposer sur moi ?
-Pour peu que vous vouliez me seconder, je me charge de vous la rendre favorable…
-
--*who_clitandre
-Nous peinerons dans cette affaire, la vieille est mutine.
-Mais voyons, n'importe, comment s'y prendre ?
-
--*who_toinette
-Demeurez ici avec moi, vous.
-Et vous, allez voir Madame avec ces Demoiselles ; quoique elle ait ordonné qu'on vous donnât votre congé, elle ne refusera pas votre première visite.
-
--*who_henriette
-Mais Toinette…
-
--*who_toinette
-Ne craignez rien, faites ce qu'on vous dit, et gardez-vous, surtout, de contredire votre mère, quelque chose qu'elle vous dise.
-Allez.
-
-**** *book_ *id_I09 *act_I *date_1697
-
--*who_toinette
-Pour nous, maintenant songeons un peu…
-
--*who_clitandre
-Je te vois venir ; tu vas me rendre l'intrigant de ces deux affaires, tu me crois plus d'esprit qu'à l'autre.
-
--*who_toinette
-Vous ne seriez pas de votre pays, si vous n'en aviez davantage.
-
--*who_clitandre
-Tu sais mon faible, tu me loues.
-Çà, de quoi s'agit-il ?
-Voyons.
-
--*who_toinette
-D'écartez vos rivaux, et de vous rendre heureux.
-Si vous étiez homme à quitter l'épée pour la robe ?
-
--*who_clitandre
-Comment, cadedis, volontiers.
-Autre faible par où tu me prends.
-Vive la robe en temps de paix, la guerre est finie ; plus d'ennemis à vaincre, plus de gloire à prétendre ; je pends la lame au croc, on n'a qu'à dire.
-
--*who_toinette
-C'est déjà quelque chose.
-Mais répondriez-vous bien que votre ami Éraste, de son côté, n'eût point de répugnance à se faire financier, lui ?
-
--*who_clitandre
-Financier, sandis, financier.
-Quel fat ne voudrait pas l'être ?
-Je te réponds de lui, c'est un enfant de la balle, il est né dans un grenier à sel.
-Baste, si le parti ne lui duit pas, je le prends pour moi.
-Mais tu te railles de nous, je pense.
-
--*who_toinette
-Non sérieusement, faites-vous de Robe, et lui partisan, je vous fais épouser vos maîtresses.
-
--*who_clitandre
-Mais écoute donc, ma chère Toinette, je vais te parler confidemment.
-Pour être de robe, il faut une charge, pour une charge il faut de l'argent.
-
--*who_toinette
-Et vous n'en avez guères, peut-être ?
-
--*who_clitandre
-Moins que très peu, ma pauvre enfant : il vient force noblesse de chez nous, mais point de Lettres de change.
-Tu es bonne personne, nous nous connaissons depuis longtemps, c'est toi qui m'as produit ici, le nid est bon, tu sais mes besoins, il faut me servir, je fais ta fortune.
-
--*who_toinette
-Je ne demande pas mieux, comme vous voyez.
-
--*who_clitandre
-Commençons par le mariage, ayons d'abord la nièce et l'argent, je me fais après tout ce qu'on voudra.
-
--*who_toinette
-Il faut commencer par vous faire quelque chose.
-Vous accommoderiez-vous d'être Conseiller d'un petit Présidial ?
-
--*who_clitandre
-Conseiller d'un Présidial !
-Conseiller du Diable en cas de besoin.
-Hors le Sergent et le Procureur, je ne sais rien qui me répugne.
-
--*who_toinette
-Tenez, voici un galant homme dont je veux vous faire avoir la Charge à bon marché.
-
--*who_clitandre
-La Charge de cet homme ?
-C'est un crieur d'enterrement.
-
--*who_toinette
-C'est votre rival, Monsieur des Baliveaux.
-
--*who_clitandre
-Mon rival !
-On m'encanaille de la sorte ?
-
--*who_toinette
-Paix, ne dites mot, et me laissez faire.
-
-**** *book_ *id_I10 *act_I *date_1697
-
--*who_desbaliveaux
-Oh çà, voilà qui est donc fait.
-Je vous retiens à mon service.
-Comment vous appelez-vous.
-
--*who_maturin
-Maturin, Monsieur.
-
--*who_desbaliveaux
-Maturin, bon, tant mieux ; voilà un nom qui me plaît.
-Allons donc, Maturin, ne quittez point ma queue, de peur qu'on ne me prenne pour un avocat.
-Je suis un Conseiller, entendez-vous ?
-
--*who_maturin
-Oui, Monsieur, alle ne tombera point, je l'attacherais plutôt à ma ceinture.
-
--*who_clitandre
-Mais cadedis, je suis déshonoré, Toinette, d'être en compromis avec ce visage.
-
--*who_toinette
-Que vous importe ?
-Vous serez le préféré, et lui la dupe de l'aventure.
-Éloignez-vous pour un moment sans nous perdre de vue, et réglez-vous sur le personnage que vous m'allez voir faire.
-
--*who_clitandre
-Pousse donc, allons, et chante sur quelle note tu voudras, je t'accompagnerai de merveilles.
-
-**** *book_ *id_I11 *act_I *date_1697
-
--*who_desbaliveaux
-Il faut avouer que j'ai bonne mine comme ça, c'est une belle chose qu'une charge de robe.
-
--*who_toinette
-Que vois-je ?
-Monsieur l'Abbé des Baliveaux en robe longue !
-Vous seriez-vous fait Procureur ou Commissaire, Monsieur ?
-
--*who_desbaliveaux
-Procureur ou Commissaire !
-Maturin ?
-
--*who_maturin
-Je ne lâcherai rien, Monsieur, ne vous boutez pas en peine.
-
--*who_desbaliveaux
-Je suis Conseiller, ne voyez-vous pas bien ?
-
--*who_toinette
-Ah !
-Je vous demande pardon, je n'y prenais pas garde.
-Mais vous avez là un domestique de ma connaissance, si je ne me trompe,
-
--*who_desbaliveaux
-Oui, c'est un garçon que j'ai pris en arrivant dans l'hôtellerie où je suis descendu de dessus mon cheval.
-
--*who_maturin
-J'ai pourtant trouvé condition tout du premier coup, comme vous voyez.
-
--*who_toinette
-Et vous l'avez déjà fait habiller de deuil ?
-
--*who_desbaliveaux
-Non, c'est mon justaucorps que je lui ai fait mettre en attendant ; comme j'ai pris ma Robe qui était dans ma valise, pour venir voir ces Dames en cérémonie, je n'ai affaire que du pourpoint dessous, et cela sert à deux fins ; car il me faut un laquais pour porter ma queue quand je fais des visites, et j'ai oublié d'amener le mien, parce que je n'ai qu'un cheval.
-
--*who_toinette
-On ne peut trop soutenir les prérogatives de la Charge.
-
--*who_desbaliveaux
-Oh, allez, allez, je les soutiens bien de toutes manières.
-J'ai déjà eu querelle avec notre Président, et si il n'y a que trois jours que je suis reçu.
-
--*who_toinette
-Est-il possible ?
-
--*who_desbaliveaux
-Cet animal-là veut que je ne m'asseye qu'au bout d'en bas, parce que je suis le dernier venu, et moi je suis de meilleure maison que lui.
-Oh, je lui rivai l'autre jour son clou ; il me déchira ma robe, et il m'appela sot en pleine audience devant tout le monde ; mais cela n'en demeurera pas là.
-
--*who_toinette
-Vous en aurez raison.
-
--*who_desbaliveaux
-Oh je lui revaudrai, sur ma parole.
-Le Procès est déjà commencé ; et si je n'étais pas si amoureux, je pousserais la chose bien plus vigoureusement.
-Mais l'amour me débauche, je quitte tout pour les beaux yeux de Mademoiselle Isabelle.
-
--*who_toinette
-Quoi, c'est Mademoiselle Isabelle qui vous attire en ce pays-ci ?
-C'est d'elle que vous êtes amoureux ?
-
--*who_desbaliveaux
-J'en perds l'esprit, Mademoiselle Toinette, et sa tante le sait bien : c'est elle qui m'a écrit de venir l'épouser.
-Oh dame, je suis devenu un bon parti, voyez-vous ?
-
--*who_toinette
-Je n'en doute point ; mais…
-
--*who_desbaliveaux
-Et je deviendrai bien meilleur encore.
-Tenez, depuis que je suis en train d'hériter, il me vient du bien de tous les côtés.
-Il y aura Mardi quinze jours que mon frère mourut de la colique ; le Vendredi suivant on fit l'enterrement de ma mère, qui avait rendu l'âme la veille, et cinq jours après mon oncle le Chanoine trépassa par apoplexie : cela est bienheureux au moins.
-
--*who_toinette
-Oui, vraiment.
-Que de successions !
-
--*who_desbaliveaux
-Ah, ah !
-Me voilà bientôt tout seul, Dieu merci, c'est ce qui fait que j'ai jeté mon plomb sur Mademoiselle Isabelle, pour me rengendrer de la famille.
-
--*who_toinette
-Ma foi, Monsieur des Baliveaux, vous vous y prenez mal pour l'obtenir.
-
--*who_desbaliveaux
-Comment donc ?
-
--*who_toinette
-Je vous avertis qu'elle a pour tous les gens de robe une aversion épouvantable.
-
--*who_desbaliveaux
-Que me dites-vous là ?
-
--*who_toinette
-C'est son antipathie, vous dis-je ; et si vous voulez que je vous parle franchement, je ne vois point d'autre moyen de vous en faire aimer, que de vous faire d'épée.
-
--*who_desbaliveaux
-D'épée, moi ?
-Moi aller à l'armée ?
-Non, je suis votre valet, je ne veux point me faire tuer dans le temps que j'hérite.
-
--*who_toinette
-Comment, vous faire tuer ?
-Vous moquez-vous ?
-On ne tuera plus, la paix est faite.
-
--*who_desbaliveaux
-Ah !
-Vraiment, cela est vrai, vous avez raison, je n'y songeais pas.
-Oh bien, bien, puisque la paix est faite, j'irai à la guerre.
-
--*who_toinette
-Vous prenez fort bien votre temps.
-Il vous faut d'abord acheter une Compagnie.
-
--*who_desbaliveaux
-Une Compagnie !
-Ah !
-Que je m'en vais bien faire soutenir Monsieur le Président, quand je serai Capitaine.
-
--*who_maturin
-Capitaine, morgué !
-Ça ne vaut rian.
-Il m'enrôlerait, peut-être, prenons garde à nous.
-
-**** *book_ *id_I12 *act_I *date_1697
-
--*who_clitandre
-Console-moi, ma chère Toinette : je suis le plus infortuné mortel qui soit sous la calotte du firmament.
-
--*who_toinette
-Qu'avez-vous donc, Monsieur ?
-
--*who_clitandre
-Il faudra m'y résoudre ; je changerai d'état, oui, j'en changerai.
-Mais que vois-je ?
-Ah, Ciel !
-Le joli Magistrat, l'aimable petit homme de robe !
-
--*who_desbaliveaux
-Hai, hai, hai, hai.
-
--*who_clitandre
-Il est fait au tour.
-Quelle physionomie !
-
--*who_desbaliveaux
-Hai, hai, hai, qui est ce Monsieur-là, Mademoiselle Toinette ?
-
--*who_toinette
-Un Officier, des parents de la famille.
-Tâchez de gagner les bonnes grâces de cet homme-là, c'est lui qui peut tout sur l'esprit de votre maîtresse.
-
--*who_desbaliveaux
-Laissez-moi faire, je vais lui faire un petit compliment bien troussé.
-Bonjour, Monsieur, votre serviteur, comment vous portez-vous ?
-
--*who_clitandre
-À vous rendre toutes sortes de services.
-Que je vous embrasse, mon charmant Monsieur, que je vous étouffe de caresses, s'il m'est possible.
-
--*who_desbaliveaux
-Hai, hai, hai.
-Hé bien, vous voyez, je me fais aimer de qui je veux.
-
--*who_toinette
-Cela est vrai.
-Vous avez un visage qui frappe d'abord.
-
--*who_clitandre
-Que j'envie votre sort, mon cher Monsieur, et votre profession, surtout.
-
--*who_desbaliveaux
-Ma profession ?
-Et pourquoi, s'il vous plaît ?
-
--*who_clitandre
-Me le demandez-vous ?
-Je suis épris d'une personne dont la tante a l'entêtement de la robe, et l'on me rebute, l'on me désespère, parce que je suis Capitaine.
-
--*who_desbaliveaux
-Mademoiselle Toinette ?
-
--*who_toinette
-Monsieur ?
-
--*who_desbaliveaux
-Mais voilà qui est admirable.
-
--*who_toinette
-Tout le monde n'a pas les mêmes sentiments, comme vous voyez, et cela se rencontre le plus à propos du monde : s'il y avait moyen…
-
--*who_clitandre
-Je suis un grand chien, n'est-ce pas ?
-Un grand misérable ?
-
--*who_desbaliveaux
-Allez, allez, Monsieur, consolez-vous, je suis tout de même.
-
--*who_clitandre
-Comment ?
-Comment donc ?
-Expliquez-vous, je n'entends point.
-
--*who_desbaliveaux
-Je suis amoureux de Mademoiselle Isabelle, qui a l'entêtement de l'épée, comme vous savez ?
-
--*who_clitandre
-Oui, je le sais, je vous en réponds.
-
--*who_desbaliveaux
-Et Mademoiselle Toinette dit qu'elle ne m'aimera point, si je demeure conseiller.
-
--*who_clitandre
-Comment !
-Elle vous détestera, la peste m'étouffe.
-
--*who_desbaliveaux
-Si vous vouliez, il y aurait un accommodement qui pourrait…
-
--*who_clitandre
-Un accommodement !
-Ah !
-Je vous entends, hé, de tout mon cœur, qu'à cela ne tienne : vous m'avez gagné l'âme, je ne sais par où, je me mettrais en pièces pour vous faire service.
-
--*who_desbaliveaux
-Monsieur !
-Hai, hai, hai.
-
--*who_toinette
-Vous êtes né coiffé, Monsieur des Baliveaux.
-
--*who_clitandre
-Voilà qui est fait, Monsieur, je vous donne ma Compagnie, elle est complète d'hommes, de chevaux, d'équipage, poussez votre bonne fortune : je vous la mets sur la tête, faites-en des choux et des raves.
-
--*who_desbaliveaux
-Mais Monsieur, il faudrait convenir…
-
--*who_clitandre
-Non, Monsieur, point de convention, jamais de marchés avec moi, j'agis sans intérêt : je ne vous demande que votre amitié et votre robe seulement.
-
--*who_desbaliveaux
-Que ma robe, Monsieur, que ma robe ?
-
--*who_clitandre
-Non, vous dis-je, et quelque petite charge, pour avoir droit de la porter.
-Vous en avez une, apparemment ?
-
--*who_desbaliveaux
-Oui, Monsieur.
-
--*who_clitandre
-Je la prendrai par forme de pot de vin : allons, venez chez le premier tabellion, je vais vous y signer ma démission, et vous me donnerez la robe, avec un papier pour le reste.
-
--*who_desbaliveaux
-Que je vous ai d'obligation ?
-
--*who_toinette
-Allez vite, ne perdez point de temps : voilà une bonne affaire.
-
--*who_maturin
-Avec votre parmission, Monsieur, une petite parole.
-Puisque vous allez bailler la robe, il ne faudra plus porter la queue, et vous aurez besoin de votre justaucorps.
-Que deviendrai-je donc, moi ?
-
--*who_desbaliveaux
-Mais je n'ai plus que faire de toi, tu n'as qu'à chercher condition, je te remercie.
-
--*who_maturin
-Vous n'avez plus que faire de moi ?
-
--*who_desbaliveaux
-Non.
-
--*who_maturin
-Morgué, tenez donc, vela votre peste de queue, je m'en vais vous reporter votre casaque, et rechercher la mienne.
-
--*who_clitandre
-Allons, venez, mon cher Monsieur des Baliveaux, dépêchons ; je grille de vous obliger par-devant notaire.
-
-**** *book_ *id_I13 *act_I *date_1697
-
--*who_toinette
-Votre nouvelle condition n'a pas beaucoup duré, monsieur Maturin.
-
--*who_maturin
-Pargué non, je ne sis pas chanceux : mais morgué n'importe, je ne me rebuterai point, j'ai en tête de faire forteune moi tout seul, sans avoir obligation à parsonne ; je rencontrerai mieux une autre fois.
-Jusqu'au revoir, Mademoiselle Toinette.
-
-**** *book_ *id_I14 *act_I *date_1697
-
--*who_isabelle
-Hé bien, ma chère Toinette, qu'as-tu fait de Clitandre ?
-
--*who_toinette
-Je l'ai mis aux prises avec le Seigneur des Baliveaux.
-Vos affaires sont en bon chemin.
-Mais celles de votre cousine, comment vont-elles.
-
--*who_isabelle
-La voici avec ma tante.
-
-**** *book_ *id_I15 *act_I *date_1697
-
--*who_madamethomas
-Je vous le demande en grâce, Monsieur, ne revenez pas chez moi davantage.
-
--*who_eraste
-Je vous le demande à genoux, Madame ; ne me donnez point un ordre auquel il m'est impossible d'obéir.
-
--*who_madamethomas
-Impossible, Monsieur ?
-
--*who_eraste
-Oui, Madame, suis-je le maître de cesser d'adorer la charmante Henriette ?
-
--*who_madamethomas
-Adorez-la de loin, Monsieur, et supprimez vos visites.
-
--*who_toinette
-Madame a raison, Monsieur, vous êtes de vrais gâte-filles, tout tant que vous êtes, vous autres Officiers ; et quand vous en avez fréquenté quelqu'une, on a toutes les peines du monde à lui remettre un bon vernis sur la réputation.
-
--*who_madamethomas
-Cela est vrai, mesdemoiselles : entendez-vous ?
-
--*who_toinette
-Oui, ces Messieurs-là ne songent qu'à la bagatelle.
-S'ils avaient de bonnes intentions encore, des vues pour le mariage, par exemple, Madame n'est point assez ridicule…
-
--*who_eraste
-Me soupçonne-t-on d'en avoir jamais eu d'autres ?
-L'unique but de mes désirs, ce que je souhaite le plus au monde, ce serait d'avoir l'honneur d'être le gendre de Madame.
-
--*who_toinette
-Hé que diantre ne parlez-vous ?
-Voici qui change bien la chose, Madame.
-
--*who_madamethomas
-Non, cela ne change rien, Mademoiselle Toinette, j'ai pris mon parti, et je ne veux point que ma fille épouse un homme d'épée.
-
--*who_toinette
-Un homme d'épée !
-J'entre dans vos sentiments, cela est vrai.
-De quoi sert une épée dans un ménage ?
-Le mariage est fait pour multiplier le genre humain, et des épées ne servent qu'à le détruire.
-Il faut se rendre à cela, Monsieur, qu'avez-vous à dire ?
-
--*who_eraste
-Rien, Toinette, je passe condamnation pour l'épée.
-J'ai un oncle Président d'un Grenier à Sel, qui me persécute pour me faire prendre sa charge.
-
--*who_toinette
-Président d'un Grenier à Sel !
-Quelle trouvaille, Madame !
-
--*who_madamethomas
-Président d'où il vous plaira, j'ai donné ma parole à Monsieur Rapineau, je la lui tiendrai en dépit de tout le monde ; et à Monsieur des Baliveaux aussi, ma nièce : entendez-vous ?
-
--*who_toinette
-C'est ce qu'il faudra voir.
-
-**** *book_ *id_I16 *act_I *date_1697
-
--*who_desbaliveaux
-Votre très humble valet, Mesdames.
-Vous voyez un nouvel Officier qui avait bien de l'impatience d'avoir l'honneur de posséder l'avantage de vous faire ses très humbles révérences.
-
--*who_madamethomas
-Comment, c'est Monsieur des Baliveaux ?
-
--*who_desbaliveaux
-À vous rendre mes très humbles services, Mesdames.
-
--*who_madamethomas
-Comment donc, Monsieur, quel équipage est-ce là ?
-Ne m'aviez-vous pas mandé que vous étiez Conseiller !
-
--*who_desbaliveaux
-Conseiller, moi !
-Je ne l'ai jamais été.
-Hé fi donc, Madame, ne parlez point de cela.
-
--*who_toinette
-Fort bien, Monsieur des Baliveaux.
-
--*who_madamethomas
-Vous ne vous êtes pas fait recevoir Conseiller, Monsieur ?
-
--*who_desbaliveaux
-Non, vraiment, Madame, le Ciel m'en préserve ; j'aime trop Mademoiselle votre nièce pour faire une sottise comme celle-là, et je sais bien qu'il ne lui faut que des Capitaines.
-
--*who_henriette
-Que je te trouve heureuse, ma cousine, et qu'il est gracieux dans cet habit-là ?
-
--*who_desbaliveaux
-Oh, Mademoiselle, très humble serviteur, serviteur très humble.
-
--*who_eraste
-Je n'ai jamais vu de Général qui eût cet air-là.
-
--*who_desbaliveaux
-Serviteur très humble, Monsieur, très humble serviteur.
-
--*who_isabelle
-Quel amas de mérite et de charmes !
-Il n'y a pas moyen d'y résister.
-
--*who_desbaliveaux
-Vous me confondez, vous m'extasiez, Mademoiselle.
-Ma pauvre Toinette, que je te suis redevable.
-
--*who_toinette
-Votre servante très humble, Monsieur, votre très humble servante.
-
--*who_desbaliveaux
-Oh çà, çà, Madame Thomas, procédons au contrat, j'ai une rage d'être votre neveu.
-
--*who_madamethomas
-Je vous conseille de la modérer, Monsieur, car vous ne le serez point assurément.
-
--*who_desbaliveaux
-Comme elle se moque, Toinette.
-Allons donc, je n'aime point les semblants, moi, je parle tout de bon.
-
--*who_madamethomas
-Et je vous parle sérieusement aussi : vous n'êtes pas conseiller, vous n'aurez pas ma nièce.
-
--*who_desbaliveaux
-Ah, ah !
-
-**** *book_ *id_I17 *act_I *date_1697
-
--*who_clitandre
-Et moi qui le suis, Conseiller, Madame, l'aurai-je, cette nièce ?
-Hé donc ?
-
--*who_madamethomas
-C'est votre Clitandre, ma nièce, si je ne me trompe ?
-
--*who_clitandre
-C'est l'adorateur de vos volontés, Madame, un vrai Caméléon d'amour.
-L'épée vous déplaît, je la quitte, et je la donne à ce nigaud.
-
--*who_desbaliveaux
-Qu'est-ce à dire, nigaud ?
-
--*who_clitandre
-Vous aimez la robe, et je l'endosse ; je me suis approprié la sienne et sa charge, tout pour l'honneur de vos bonnes grâces, Madame.
-Vous savez bien pour qui je brûle, ne me rendrez-vous point heureux ?
-
--*who_madamethomas
-Vous avez pris le bon parti, Monsieur ; et si ma nièce a pour vous des sentiments favorables, je vous promets de ne m'y point opposer.
-
--*who_isabelle
-Ma tante !
-
--*who_desbaliveaux
-Comment donc, Mademoiselle Toinette, c'est de ma maîtresse qu'il est amoureux ?
-Est-ce que ce n'est pas sa cousine ?
-
--*who_toinette
-Cela n'y fait rien ; ils vont être encore plus proches parents que cela, selon toutes les apparences.
-
--*who_madamethomas
-Que tardez-vous à vous expliquer, ma nièce ?
-Avez-vous de la répugnance pour ce que je vous propose ?
-Je le souhaite, et je vous le commande même.
-
--*who_isabelle
-Je vous demande pardon, ma tante, mon cœur est pour Monsieur des Baliveaux.
-
--*who_desbaliveaux
-Hai, hai, hai, hai.
-
--*who_toinette
-Je vous ai dit vrai, comme vous voyez.
-
--*who_isabelle
-Mais le respect et la raison me déterminent à vous obéir.
-
--*who_desbaliveaux
-Oh dame, Madame Thomas.
-
--*who_madamethomas
-Ôtez-vous de là, vous êtes un benêt.
-
--*who_desbaliveaux
-Comme on me traite, Mademoiselle Toinette.
-
--*who_toinette
-Laissez la faire, puisqu'elle vous aime, vous avez l'avantage, une fois.
-
--*who_desbaliveaux
-Cela est vrai, son cœur est pour moi.
-Oh bien, bien, qu'il l'épouse, je ne m'en soucie guères.
-Je suis capitaine toujours, j'y donne mon consentement aussi, je veux signer le contrat et être de la noce : nous verrons qui sera le plus sot de nous deux.
-
--*who_clitandre
-Vous nous ferez honneur, Monsieur des Baliveaux.
-
--*who_madamethomas
-Voici Monsieur Rapineau le plus à propos du monde, c'est le mari que je destine à ma fille.
-
--*who_clitandre
-Monsieur Rapineau ?
-Non, Madame, voilà mon ami, topez à lui, nous sommes deux inséparables.
-
-**** *book_ *id_I18 *act_I *date_1697
-
--*who_monsieurrapineau
 Les violons ont pensé nous manquer, Madame ; ils étaient retenus par je ne sais combien de gens de toutes façons, qui font une espèce de mascarade de Flandres, et qui se réjouissent ensemble de ce qu'on vient de leur dire que la paix est faite ; mais ce sera un surcroît de plaisir pour nous, et voici toute la bande que je vous amène.
 
--*who_madamethomas
-Nous vous sommes obligés, Monsieur Rapineau, de songer ainsi à nous désennuyer dans la Province ; et l'on reconnaîtra tous ces petits soins.
-
--*who_monsieurrapineau
 Ah, Madame !
 
--*who_clitandre
-C'est moi qu'il en faut remercier, Madame, la façon de mascarade est de mon idée.
-Quand cela sera fait, que je vous parle, Monsieur Rapineau, j'ai quelque petit compliment à vous faire.
-
--*who_monsieurrapineau
 Vous me ferez, s'il vous plaît, Monsieur, l'honneur d'être d'un souper que je donne ce soir à ces dames.
 
--*who_clitandre
-Il y a un souper encore ?
-Je ne vous parle qu'après le souper.
+Quand il vous plaira, Monsieur. Allons, enfants, avancez, et faites de votre mieux.
 
--*who_monsieurrapineau
-Quand il vous plaira, Monsieur.
-Allons, enfants, avancez, et faites de votre mieux.
-
-**** *book_ *id_I19 *act_I *date_1697
-
--*who_monsieurrapineau
 Hé bien, Madame, la mascarade ?
 
--*who_madamethomas
-Elle est gracieuse et bien imaginée.
+Ah, le bourreau ! Que vient-il faire ici ? Comment s'est-il fourré là ?
 
--*who_toinette
-La bonne figure !
-Voyez donc, Madame, Monsieur Maturin qui est le garçon de l'aveugle !
-
--*who_monsieurrapineau
-Ah, le bourreau !
-Que vient-il faire ici ?
-Comment s'est-il fourré là ?
-
--*who_desbaliveaux
-C'est le laquais que j'avais, Mademoiselle Toinette.
-
--*who_madamethomas
-Il est assez plaisamment déguisé.
-
--*who_maturin
-Déguisé, Madame, il n'y a point de déguisement là-dedans, c'est morgué tout de bon.
-
--*who_madamethomas
-Comment tout de bon ?
-
--*who_maturin
-Oui, Madame, je veux apprendre à gagner ma vie, les parents en usont trop mal, il ne faut dépendre de parsonne.
-
--*who_monsieurrapineau
 Voyons le divertissement, Madame, et laissez-là…
 
--*who_maturin
-Oui, divartissez-vous, et ne me faites pas parler, Madame.
-
--*who_toinette
-Vous avez trouvé là une mauvaise condition, Monsieur Maturin.
-
--*who_maturin
-Je voudrais morgué qu'alle fût encore plus piètre, pour ly faire plus de honte, à ce tigre-là.
-
--*who_madamethomas
-Comment donc, quel tigre ?
-Que veut-il dire ?
-
--*who_monsieurrapineau
 Vous vous amusez-là, Madame… Va, va-t'en, mon enfant.
 
--*who_maturin
-Comment va-t'en ?
-Je ne dépends plus de vous.
-Il m'a ôté ma commission : mais…
+Ah, le traître ! Je suis perdu.
 
--*who_madamethomas
-Il t'a ôté ta commission, qui ?
-
--*who_maturin
-Votre Monsieur Rapineau, Madame.
-Voyez le biau plaisir d'avoir une peste de parenté comme ça.
-
--*who_monsieurrapineau
-Ah, le traître !
-Je suis perdu.
-
--*who_madamethomas
-Tu es parent de Monsieur Rapineau ?
-
--*who_maturin
-Un tantinet, Madame ; il est le fils de mon père et de ma mère.
-
--*who_madamethomas
-Monsieur Rapineau ?
-
--*who_monsieurrapineau
 C'est un homme qui n'est bon à rien, qui ne veut rien faire, Madame, on l'abandonne à sa mauvaise destinée.
 
--*who_clitandre
-Voilà un enfant de bonne maison !
-C'est là le gendre que vous vouliez, ma tante ?
-Je serais donc le cousin d'un garçon d'aveugle ?
-Cadedis, tirez, Monsieur Rapineau, tirez.
-
--*who_monsieurrapineau
 Monsieur…
 
--*who_clitandre
-Disparaissez et promptement : mais que le souper nous demeure, et n'y venez pas.
-
--*who_monsieurrapineau
 Madame !
 
--*who_madamethomas
+Ah, malheureux ! De quoi es-tu cause ?
+
+
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamethomas
+
+Ah, vous voilà ! Je vous cherchais, et je suis bien aise de vous trouver toutes trois ensemble.
+
+J'ai quelque chose à vous dire, à quoi vous ne vous attendez pas, et qui vous fâchera.
+
+Je viens d'apprendre que Clitandre et Éraste sont ici.
+
+Oui, ma nièce ; car je vous défends de les voir, entendez-vous ?
+
+Je prétends être obéie, et je ne veux pas qu'ils mettent le pied chez moi, ni eux, ni toutes ces connaissances de l'année passée, que l'hiver va ramener.
+
+Non, ma nièce.
+
+Oui, ma fille.
+
+Pourquoi, coquine ? C'est bien à toi de me demander des raisons ? Mais voyez cette insolente !
+
+Innocent tant qu'il vous plaira, je sais bien ce que je dis, et des connaissances d'Hiver ne valent rien pour l'établissement des filles.
+
+Vous êtes une impertinente, j'avais mes vues quand j'ai donné les mains à ces parties-là. Oh çà, ma fille, je vous ai expliqué les sentiments où je suis pour Monsieur Rapineau, vous prendrez votre parti là-dessus, s'il vous plaît.
+
+Et pour vous, ma nièce, je vous destine à Monsieur des Baliveaux.
+
+Oui. Vous le connaissez, vous l'avez vu Abbé, il est Conseiller maintenant. C'est un fort honnête garçon, tout jeune, qui n'a pas plus de quarante-huit ou quarante-neuf ans, fort riche, et qui a une Terre auprès d'Amiens, où l'on vend plus de canards par an, que dans tout le reste de la Province.
+
+Vous y ferez vos petites réflexions, je vous en donne tout le loisir ; mais vous pouvez compter que je ne veux point voir de gens de guerre, ni dans ma maison, ni dans ma famille.
+
+Je n'en veux point, vous dis-je, je connais le fort et le faible de tous les états de la vie. Votre père était Greffier, à vous, il m'a laissé du bien : le vôtre avait la Ferme du Tabac, il est mort riche. Ils avaient un frère Capitaine de cavalerie, qui mourut l'année passée aux Invalides. Point de disputes, Mesdemoiselles, un financier, un homme de robe, ou un couvent, et le congé à ces deux Messieurs surtout ; que je ne les voie pas davantage.
+
+Je vous le demande en grâce, Monsieur, ne revenez pas chez moi davantage.
+
+Impossible, Monsieur ?
+
+Adorez-la de loin, Monsieur, et supprimez vos visites.
+
+Cela est vrai, mesdemoiselles : entendez-vous ?
+
+Non, cela ne change rien, Mademoiselle Toinette, j'ai pris mon parti, et je ne veux point que ma fille épouse un homme d'épée.
+
+Président d'où il vous plaira, j'ai donné ma parole à Monsieur Rapineau, je la lui tiendrai en dépit de tout le monde ; et à Monsieur des Baliveaux aussi, ma nièce : entendez-vous ?
+
+Comment, c'est Monsieur des Baliveaux ?
+
+Comment donc, Monsieur, quel équipage est-ce là ? Ne m'aviez-vous pas mandé que vous étiez Conseiller !
+
+Vous ne vous êtes pas fait recevoir Conseiller, Monsieur ?
+
+Je vous conseille de la modérer, Monsieur, car vous ne le serez point assurément.
+
+Et je vous parle sérieusement aussi : vous n'êtes pas conseiller, vous n'aurez pas ma nièce.
+
+C'est votre Clitandre, ma nièce, si je ne me trompe ?
+
+Vous avez pris le bon parti, Monsieur ; et si ma nièce a pour vous des sentiments favorables, je vous promets de ne m'y point opposer.
+
+Que tardez-vous à vous expliquer, ma nièce ? Avez-vous de la répugnance pour ce que je vous propose ? Je le souhaite, et je vous le commande même.
+
+Ôtez-vous de là, vous êtes un benêt.
+
+Voici Monsieur Rapineau le plus à propos du monde, c'est le mari que je destine à ma fille.
+
+Nous vous sommes obligés, Monsieur Rapineau, de songer ainsi à nous désennuyer dans la Province ; et l'on reconnaîtra tous ces petits soins.
+
+Elle est gracieuse et bien imaginée.
+
+Il est assez plaisamment déguisé.
+
+Comment tout de bon ?
+
+Comment donc, quel tigre ? Que veut-il dire ?
+
+Il t'a ôté ta commission, qui ?
+
+Tu es parent de Monsieur Rapineau ?
+
+Monsieur Rapineau ?
+
 Votre alliance ne peut faire honneur ni plaisir, Monsieur ; vous avez trop peu soin de votre famille.
 
--*who_monsieurrapineau
-Ah, malheureux !
-De quoi es-tu cause ?
-
--*who_maturin
-Tatigué, pourquoi m'avez-vous révoqué ?
-Vous vela révoqué, vous, j'en suis bien aise.
-
--*who_clitandre
-N'en faisons pas à deux fois.
-Vous venez de l'échapper belle ; il vous faut un gendre.
-Embrassez votre maman, cousine.
-Allons, mon ami, remercie, Madame.
-
--*who_madamethomas
 Mais, mais…
 
--*who_eraste
-Madame !
-
--*who_clitandre
-Allons de la résolution, Madame Thomas.
-
--*who_madamethomas
 Hé bien, qu'il ait la charge de son oncle, et je consens à tout.
 
--*who_eraste
-Il n'est rien que je ne fasse, Madame, pour avoir l'honneur de vous appartenir.
 
--*who_clitandre
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_henriette
+
+Ma chère Toinette, je suis dans le dernier désespoir.
+
+J'en mourrai, je le sens bien, je n'y pourrai survivre.
+
+Ma mère vient de me déclarer qu'elle veut absolument que je me marie.
+
+Ce vilain Monsieur Rapineau, qui nous a voulu suivre malgré nous en ce pays-ci, sous prétexte de ses affaires.
+
+Il y a trois semaines qu'il ménage son esprit : mais ce n'est que d'hier qu'il a sa parole.
+
+Que je suis malheureuse.
+
+Il y a quatre jours que je n'ai pas de nouvelles d'Éraste, et ma cousine ne reçoit point de lettres de Clitandre.
+
+Serait-il possible ?
+
+Serait-ce Clitandre, ma chère cousine ?
+
+Ah, le fatigant personnage ?
+
+Tu n'y songe pas, cousine, c'est le temps du départ, que le Printemps, tout le monde va à l'armée, on ne voit plus aucun Officier.
+
+Je suis d'un caractère bien différent : le départ d'Éraste m'a fat de la peine, j'ai trouvé son absence insupportable, et je languis après son retour.
+
+Tu crois que cela me faisait plaisir ? Ma mère le voulait, j'obéissais.
+
+Oui, j'en conviens, je me divertis fort : mais par malice, je t'assure, et par la seule satisfaction de berner un ennuyeux d'été.
+
+Je ne l'ai jamais tant aimé que ce jour-là.
+
+Je voudrais qu'il en eût aujourd'hui quatre pieds par-dessus la tête, le bourreau qu'il est.
+
+Paix, taisons-nous, voici ma mère.
+
+Ma pauvre Toinette ?
+
+Ah, ma mère !
+
+Renoncer aux visites d'Éraste ?
+
+Mais, ma mère…
+
+Moi, j'épouserais Monsieur Rapineau ?
+
+Mais tu connais l'humeur impérieuse de ma mère : comment lui faire changer de sentiment ?
+
+Comment ?
+
+Éraste, Sous-fermier des regrats !
+
+Je crois que je ne l'aimerais plus, Toinette.
+
+Il me semble qu'elle a raison, cousine.
+
+Il revient aussi écervelé qu'il est parti, cousine.
+
+Je juge de votre cœur par les mouvements du mien, et je veux croire…
+
+Vous ne retournerez plus à l'armée, Éraste ?
+
+Il vaut bien mieux que les difficultés viennent de sa part que de la mienne, vous aurez moins de peine à les surmonter.
+
+Je n'ai ni moins de constance, ni moins de résolution que ma cousine.
+
+Sans le consentement de ma mère ?
+
+Mais Toinette…
+
+Que je te trouve heureuse, ma cousine, et qu'il est gracieux dans cet habit-là ?
+
+
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
+Grande et réjouissante nouvelle, ma cousine.
+
+C'en est un qui m'arrive, à moi.
+
+Non, c'est Monsieur des Baliveaux.
+
+C'est l'Abbé lui-même. Il a quitté le petit-collet, son frère est mort, il est devenu l'aîné de la famille, Conseiller au Présidial d'Abbeville ; et il vient en hâte, à ce qu'on dit, pour faire hommage à mes charmes, de sa nouvelle succession.
+
+Il sera peut-être moins ridicule en Conseiller qu'en abbé : au pis aller, ce sera une nouvelle figure qui nous réjouira.
+
+J'en demeure d'accord, et je ne suis pas fâchée même quelquefois que le Printemps vienne, pour changer un peu de compagnie.
+
+Hé qu'importe ? On les a vus six mois, n'est-ce pas assez ? C'est cette absence-là qui les fait valoir : et crois-moi, cousine, on les trouverait aussi ennuyeux que d'autres, si on les voyait toute l'année.
+
+Oh ! Pour ce jour-là tu ne peux t'en défendre, tu avais oublié l'absence d'Éraste, cousine.
+
+Parce que nous le vîmes une heure de moins, et qu'il était dans l'eau jusqu'au cou.
+
+Ah, ah ! Cousine, et que t'a-t-il donc fait ?
+
+Il faut le noyer, tu as raison, je suis de ton avis.
+
+Ne nous le dites donc point, ma tante, nous ne sommes pas curieuses.
+
+Ah, ma chère tante !
+
+Ils sont ici, ma tante, et vous croyez que cela doit nous chagriner ?
+
+Ne plus voir Clitandre, Madame ?
+
+À Monsieur des Baliveaux, ma tante ! Quoi, c'est pour cela qu'il vient ici ?
+
+Je suis bien sa très humble servante, ma tante, je n'ai que faire de lui, ni de ses canards.
+
+Je serais femme de Monsieur des Baliveaux ?
+
+Cela est vrai.
+
+Clitandre, Conseiller d'Abbeville !
+
+Je m'imagine que je ne le pourrais souffrir.
+
+Vous mériteriez peu que votre retour fît plaisir, si vous doutiez de la joie qu'il nous donne.
+
+Il ne faudra que gagner l'esprit de ma tante, et lui faire changer les résolutions qu'elle a prises.
+
+Je suis incapable d'en aimer d'autre.
+
+Sans l'aveu de ma tante ?
+
+Mais la bienséance et la raison…
+
+Hé bien, ma chère Toinette, qu'as-tu fait de Clitandre ?
+
+La voici avec ma tante.
+
+Quel amas de mérite et de charmes ! Il n'y a pas moyen d'y résister.
+
+Ma tante !
+
+Je vous demande pardon, ma tante, mon cœur est pour Monsieur des Baliveaux.
+
+Mais le respect et la raison me déterminent à vous obéir.
+
+
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_toinette
+
+Votre servante, Monsieur Maturin.
+
+Moi, je suis toute malade ; et je voudrais que le diable vous eût emporté, vous et votre Monsieur Rapineau, avec sa chienne de musique : cet animal-là nous assassine tous les soirs de grands repas, on en a des indigestions toute la nuit ; et quand on a commencé à s'endormir, il vous envoie des réveille-matin aussi désagréables…
+
+Elle ne le hait pas tant que dans les commencements : mais voilà l'hiver qui approche, cela reviendra.
+
+Quand il n'y a que de la robe et de la Finance dans le commerce, les Sous-fermiers brillent, on les trouvent passables : mais sitôt qu'on revoit des Officiers, ces autres Messieurs-là deviennent si laids, si laids…
+
+Je crois qu'on doit aujourd'hui commencer à lui faire la mine, on boudera demain plus sérieusement ; dans trois ou quatre jours on lui cherchera querelle, et on lui fermera la porte au nez sur la fin de la semaine.
+
+Votre congé ?
+
+Vous êtes trop formé pour cela, Monsieur Maturin, cette condition-là serait difficile à trouver.
+
+À moins de vous faire cocher ou secrétaire.
+
+Qu'y a-t-il donc ? Qu'est-il arrivé de nouveau ?
+
+Et que diantre, à qui en avez-vous, s'il vous plaît ?
+
+Mais cela n'est point si tragique, à ce qu'il me semble ; ce n'est point encore une chose faite. Et, qui est ce mortel-là qui s'expose à vous épouser sans votre permission.
+
+Ah, le traître ! Il paraissait n'avoir point d'autre but que celui de dépenser son argent, de vous régaler, en attendant mieux, et il a des vues secrètes ? Il s'adresse à Madame votre mère, sans vous en rien dire ?
+
+Par ma foi, Madame, voilà un insolent maroufle, je ne saurais m'en taire. Je le regardais, moi, comme un homme sans conséquence, un oiseau de passage, que l'hiver chasserait avec les hirondelles.
+
+Allez, allez, ne vous affligez point plus que de raison, il nous vient du secours, le quartier d'hiver approche.
+
+Tant mieux, Madame, c'est bon signe, ils vous en apporteront eux-mêmes ; ils savent bien que nous sommes à Péronne, et dès qu'ils pourront quitter l'armée, ils viendront d'abord ici, apparemment.
+
+Vivat, Madame, vos amants sont arrivés, je gage.
+
+Monsieur des Baliveaux, le frère de cet imbécile d'abbé, Madame ?
+
+Oh ! Pour cela vous êtes furieusement fille, il n'y a point de nouveauté qui ne vous fasse plaisir.
+
+Cela se pourrait fort bien, au moins ; et il me semble, à moi, qui en ai fait l'expérience, qu'une passion d'hiver est bien usée, et qu'elle tire diantrement sur ses fins quand le mois de mars arrive.
+
+Cela ne vous a pas empêchée de vous bien réjouir pendant tout l'Été, et de faire bonne chère quand nous allions à Ivry avec Monsieur Rapineau, et que Robert apprêtait le souper à la maison de ce libraire.
+
+Quelle complaisance ! Cela est vrai, vous étiez de la plus mauvaise humeur du monde, et je me souviens que vous pensâtes crever de rire à cette partie que nous fîmes du temps des bains dans les îles de Charenton.
+
+Ce pauvre diable de Monsieur Rapineau ! Le cœur me saigne quand j'y songe. C'est pourtant moi qui lui avais fait cacher sa chemise et ses habits tandis qu'il se baignait, et qui fus cause qu'il fut obligé de grelotter dans la rivière pendant tout le souper, qui se faisait à ses dépens.
+
+Rien encore, Dieu merci, Madame : mais il a de mauvaises intentions. Savez-vous bien qu'il prétend épouser, cet animal-là ?
+
+Vous aimez la bonne compagnie, Madame, nous savons bien cela.
+
+Je vous le disais bien, voilà du secours, Madame.
+
+Hé, pourquoi cela, Madame, s'il vous plaît ?
+
+Je vous demande pardon, Madame : mais je suis surprise que vous vouliez troubler un commerce aussi innocent que celui de …
+
+Ma foi, Madame, celles d'Été ne sont pas moins dangereuses, et les promenades d'Ivry et des îles de Charenton…
+
+Il est tout pris, nous n'en voulons point.
+
+Cette femme-là s'explique clairement, il n'y a pas moyen de faire semblant de ne pas l'entendre.
+
+Vous voilà aussi mal loties l'une que l'autre, et vous n'aurez rien à vous reprocher ; mais enfin la chose n'est pas sans remède.
+
+Comment ? C'est la profession d'Éraste et de Clitandre qui l'effarouche, c'est celle de ces deux autres qui lui a gagné le cœur ?
+
+Hé bien, ne pourrions-nous point ménager un petit troc entre ces Messieurs ?
+
+Faire deux Officiers de vos deux benêt, et jeter les deux Officiers dans la Robe et dans la Finance. Je me chargerai quasi, moi, de les faire consentir tous quatre à la chose.
+
+Pourquoi non ? Quel inconvénient y trouvez-vous ?
+
+Je vois bien qu'il n'y a que de l'imagination dans votre fait. Hé, mort de ma vie, sont-ce les emplois qui déshonorent les hommes ? Ce sont les hommes qui ridiculisent leurs emplois. Les gens d'esprit et de mérite sont toujours les mêmes dans tout ce qu'ils font ; un sot ne cesse point de l'être. Clitandre est un fort joli homme d'épée, ce sera un fort aimable Conseiller. Monsieur des Baliveaux est un Conseiller ridicule, il sera très impertinent capitaine.
+
+Laissez-moi faire. Voici déjà vos deux amants, il faut leur proposer la chose ; s'ils y topent, c'est une affaire faite.
+
+Votre très humble servante, Monsieur.
+
+Vous allez la renouveler ici, car vous y avez des rivaux, je vous en avertis.
+
+C'est ce qui vous fait tort, peut-être, elle songe à vous pour elle-même ; que sait-on ?
+
+Voulez-vous vous en reposer sur moi ? Pour peu que vous vouliez me seconder, je me charge de vous la rendre favorable…
+
+Demeurez ici avec moi, vous. Et vous, allez voir Madame avec ces Demoiselles ; quoique elle ait ordonné qu'on vous donnât votre congé, elle ne refusera pas votre première visite.
+
+Ne craignez rien, faites ce qu'on vous dit, et gardez-vous, surtout, de contredire votre mère, quelque chose qu'elle vous dise. Allez.
+
+Pour nous, maintenant songeons un peu…
+
+Vous ne seriez pas de votre pays, si vous n'en aviez davantage.
+
+D'écartez vos rivaux, et de vous rendre heureux. Si vous étiez homme à quitter l'épée pour la robe ?
+
+C'est déjà quelque chose. Mais répondriez-vous bien que votre ami Éraste, de son côté, n'eût point de répugnance à se faire financier, lui ?
+
+Non sérieusement, faites-vous de Robe, et lui partisan, je vous fais épouser vos maîtresses.
+
+Et vous n'en avez guères, peut-être ?
+
+Je ne demande pas mieux, comme vous voyez.
+
+Il faut commencer par vous faire quelque chose. Vous accommoderiez-vous d'être Conseiller d'un petit Présidial ?
+
+Tenez, voici un galant homme dont je veux vous faire avoir la Charge à bon marché.
+
+C'est votre rival, Monsieur des Baliveaux.
+
+Paix, ne dites mot, et me laissez faire.
+
+Que vous importe ? Vous serez le préféré, et lui la dupe de l'aventure. Éloignez-vous pour un moment sans nous perdre de vue, et réglez-vous sur le personnage que vous m'allez voir faire.
+
+Que vois-je ? Monsieur l'Abbé des Baliveaux en robe longue ! Vous seriez-vous fait Procureur ou Commissaire, Monsieur ?
+
+Ah ! Je vous demande pardon, je n'y prenais pas garde. Mais vous avez là un domestique de ma connaissance, si je ne me trompe,
+
+Et vous l'avez déjà fait habiller de deuil ?
+
+On ne peut trop soutenir les prérogatives de la Charge.
+
+Est-il possible ?
+
+Vous en aurez raison.
+
+Quoi, c'est Mademoiselle Isabelle qui vous attire en ce pays-ci ? C'est d'elle que vous êtes amoureux ?
+
+Je n'en doute point ; mais…
+
+Oui, vraiment. Que de successions !
+
+Ma foi, Monsieur des Baliveaux, vous vous y prenez mal pour l'obtenir.
+
+Je vous avertis qu'elle a pour tous les gens de robe une aversion épouvantable.
+
+C'est son antipathie, vous dis-je ; et si vous voulez que je vous parle franchement, je ne vois point d'autre moyen de vous en faire aimer, que de vous faire d'épée.
+
+Comment, vous faire tuer ? Vous moquez-vous ? On ne tuera plus, la paix est faite.
+
+Vous prenez fort bien votre temps. Il vous faut d'abord acheter une Compagnie.
+
+Qu'avez-vous donc, Monsieur ?
+
+Un Officier, des parents de la famille. Tâchez de gagner les bonnes grâces de cet homme-là, c'est lui qui peut tout sur l'esprit de votre maîtresse.
+
+Cela est vrai. Vous avez un visage qui frappe d'abord.
+
+Monsieur ?
+
+Tout le monde n'a pas les mêmes sentiments, comme vous voyez, et cela se rencontre le plus à propos du monde : s'il y avait moyen…
+
+Vous êtes né coiffé, Monsieur des Baliveaux.
+
+Allez vite, ne perdez point de temps : voilà une bonne affaire.
+
+Votre nouvelle condition n'a pas beaucoup duré, monsieur Maturin.
+
+Je l'ai mis aux prises avec le Seigneur des Baliveaux. Vos affaires sont en bon chemin. Mais celles de votre cousine, comment vont-elles.
+
+Madame a raison, Monsieur, vous êtes de vrais gâte-filles, tout tant que vous êtes, vous autres Officiers ; et quand vous en avez fréquenté quelqu'une, on a toutes les peines du monde à lui remettre un bon vernis sur la réputation.
+
+Oui, ces Messieurs-là ne songent qu'à la bagatelle. S'ils avaient de bonnes intentions encore, des vues pour le mariage, par exemple, Madame n'est point assez ridicule…
+
+Hé que diantre ne parlez-vous ? Voici qui change bien la chose, Madame.
+
+Un homme d'épée ! J'entre dans vos sentiments, cela est vrai. De quoi sert une épée dans un ménage ? Le mariage est fait pour multiplier le genre humain, et des épées ne servent qu'à le détruire. Il faut se rendre à cela, Monsieur, qu'avez-vous à dire ?
+
+Président d'un Grenier à Sel ! Quelle trouvaille, Madame !
+
+C'est ce qu'il faudra voir.
+
+Fort bien, Monsieur des Baliveaux.
+
+Votre servante très humble, Monsieur, votre très humble servante.
+
+Cela n'y fait rien ; ils vont être encore plus proches parents que cela, selon toutes les apparences.
+
+Je vous ai dit vrai, comme vous voyez.
+
+Laissez la faire, puisqu'elle vous aime, vous avez l'avantage, une fois.
+
+La bonne figure ! Voyez donc, Madame, Monsieur Maturin qui est le garçon de l'aveugle !
+
+Vous avez trouvé là une mauvaise condition, Monsieur Maturin.
+
+
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Hé ! Bonjour, charmantes. Mesdemoiselles, quel plaisir de vous revoir après six grands mois de campagne. Mais vous retrouve-t-on fidèles, et sommes-nous les bienvenus ?
+
+Je me donne au diable, c'est un Amadis que votre Éraste, pour l'amour s'entend ; je le suis pour la valeur, moi ; il n'a fait que languir,
+Soupirer, gémir toute la campagne. J'aime aussi fortement que lui, mais pas si sottement : nous sommes de deux sortes de caractères, tous deux bons, mais bien différents ; il est langoureux, et je suis drôle, et je suis drôle, n'est-il pas vrai ? Bonjour, Toinette.
+
+Nous voilà de retour. Hé donc, épouserons-nous cette fois ? Le quartier d'hiver sera long, il durera l'année, et passe.
+
+Je vous en suis caution, moi. Je tirai l'autre jour au fourrage le dernier coup de pistolet, je pense, et je ne tuai personne en signe de paix, j'ai fermé la guerre.
+
+Des rivaux ? Sont-ils beaucoup en nombre ? Jeunes ou vieux ? Robins ou autres gens ? Pacifiques ou mutins ? Faudra-t-il couper des oreilles ? Je suis expéditif ; parlez.
+
+Quoi ! C'est Madame Thomas qui nous fait le tour ? Elle n'est pas de nos amies, et j'ai tant menti pour le mériter, je lui ai dit plus de vingt fois qu'elle était et jeune et jolie.
+
+Ah ! Cadedis, je le voudrais, sans conséquence au moins, Madame ; je lui ferais voir du pays. J'aime à ruiner les vieilles, c'est ma folie : mais je n'épouse que les jeunes. N'appréhendez point de me perdre.
+
+Çà, ne battons point le pays, sans compliments de part et d'autre ; parlons clair et bref. Nous vous aimons toujours, nous aimez-vous en continuant ?
+
+Bon, voilà bien parler. Et vous ?
+
+Hé bien donc, nous voilà d'accord, faut=-il tant de façon ? Épousons : qui nous en empêche ?
+
+Son aveu ! Son consentement ! Nous sommes les parties intéressées, le nôtre ne suffit-il pas ? Je trouverais le sien de trop : diable emporte qui s'en soucie.
+
+Je ne connais point ces animaux-là, et quand je suis auprès de vous, je n'ai que de l'amour, Madame.
+
+Nous peinerons dans cette affaire, la vieille est mutine. Mais voyons, n'importe, comment s'y prendre ?
+
+Je te vois venir ; tu vas me rendre l'intrigant de ces deux affaires, tu me crois plus d'esprit qu'à l'autre.
+
+Tu sais mon faible, tu me loues. Çà, de quoi s'agit-il ? Voyons.
+
+Comment, cadedis, volontiers. Autre faible par où tu me prends. Vive la robe en temps de paix, la guerre est finie ; plus d'ennemis à vaincre, plus de gloire à prétendre ; je pends la lame au croc, on n'a qu'à dire.
+
+Financier, sandis, financier. Quel fat ne voudrait pas l'être ? Je te réponds de lui, c'est un enfant de la balle, il est né dans un grenier à sel. Baste, si le parti ne lui duit pas, je le prends pour moi. Mais tu te railles de nous, je pense.
+
+Mais écoute donc, ma chère Toinette, je vais te parler confidemment. Pour être de robe, il faut une charge, pour une charge il faut de l'argent.
+
+Moins que très peu, ma pauvre enfant : il vient force noblesse de chez nous, mais point de Lettres de change. Tu es bonne personne, nous nous connaissons depuis longtemps, c'est toi qui m'as produit ici, le nid est bon, tu sais mes besoins, il faut me servir, je fais ta fortune.
+
+Commençons par le mariage, ayons d'abord la nièce et l'argent, je me fais après tout ce qu'on voudra.
+
+Conseiller d'un Présidial ! Conseiller du Diable en cas de besoin. Hors le Sergent et le Procureur, je ne sais rien qui me répugne.
+
+La Charge de cet homme ? C'est un crieur d'enterrement.
+
+Mon rival ! On m'encanaille de la sorte ?
+
+Mais cadedis, je suis déshonoré, Toinette, d'être en compromis avec ce visage.
+
+Pousse donc, allons, et chante sur quelle note tu voudras, je t'accompagnerai de merveilles.
+
+Console-moi, ma chère Toinette : je suis le plus infortuné mortel qui soit sous la calotte du firmament.
+
+Il faudra m'y résoudre ; je changerai d'état, oui, j'en changerai. Mais que vois-je ? Ah, Ciel ! Le joli Magistrat, l'aimable petit homme de robe !
+
+Il est fait au tour. Quelle physionomie !
+
+À vous rendre toutes sortes de services. Que je vous embrasse, mon charmant Monsieur, que je vous étouffe de caresses, s'il m'est possible.
+
+Que j'envie votre sort, mon cher Monsieur, et votre profession, surtout.
+
+Me le demandez-vous ? Je suis épris d'une personne dont la tante a l'entêtement de la robe, et l'on me rebute, l'on me désespère, parce que je suis Capitaine.
+
+Je suis un grand chien, n'est-ce pas ? Un grand misérable ?
+
+Comment ? Comment donc ? Expliquez-vous, je n'entends point.
+
+Oui, je le sais, je vous en réponds.
+
+Comment ! Elle vous détestera, la peste m'étouffe.
+
+Un accommodement ! Ah ! Je vous entends, hé, de tout mon cœur, qu'à cela ne tienne : vous m'avez gagné l'âme, je ne sais par où, je me mettrais en pièces pour vous faire service.
+
+Voilà qui est fait, Monsieur, je vous donne ma Compagnie, elle est complète d'hommes, de chevaux, d'équipage, poussez votre bonne fortune : je vous la mets sur la tête, faites-en des choux et des raves.
+
+Non, Monsieur, point de convention, jamais de marchés avec moi, j'agis sans intérêt : je ne vous demande que votre amitié et votre robe seulement.
+
+Non, vous dis-je, et quelque petite charge, pour avoir droit de la porter. Vous en avez une, apparemment ?
+
+Je la prendrai par forme de pot de vin : allons, venez chez le premier tabellion, je vais vous y signer ma démission, et vous me donnerez la robe, avec un papier pour le reste.
+
+Allons, venez, mon cher Monsieur des Baliveaux, dépêchons ; je grille de vous obliger par-devant notaire.
+
+Et moi qui le suis, Conseiller, Madame, l'aurai-je, cette nièce ? Hé donc ?
+
+C'est l'adorateur de vos volontés, Madame, un vrai Caméléon d'amour. L'épée vous déplaît, je la quitte, et je la donne à ce nigaud.
+
+Vous aimez la robe, et je l'endosse ; je me suis approprié la sienne et sa charge, tout pour l'honneur de vos bonnes grâces, Madame. Vous savez bien pour qui je brûle, ne me rendrez-vous point heureux ?
+
+Vous nous ferez honneur, Monsieur des Baliveaux.
+
+Monsieur Rapineau ? Non, Madame, voilà mon ami, topez à lui, nous sommes deux inséparables.
+
+C'est moi qu'il en faut remercier, Madame, la façon de mascarade est de mon idée. Quand cela sera fait, que je vous parle, Monsieur Rapineau, j'ai quelque petit compliment à vous faire.
+
+Il y a un souper encore ? Je ne vous parle qu'après le souper.
+
+Voilà un enfant de bonne maison ! C'est là le gendre que vous vouliez, ma tante ? Je serais donc le cousin d'un garçon d'aveugle ? Cadedis, tirez, Monsieur Rapineau, tirez.
+
+Disparaissez et promptement : mais que le souper nous demeure, et n'y venez pas.
+
+N'en faisons pas à deux fois. Vous venez de l'échapper belle ; il vous faut un gendre. Embrassez votre maman, cousine. Allons, mon ami, remercie, Madame.
+
+Allons de la résolution, Madame Thomas.
+
 Allons, enfants, de votre meilleur, nous avons tous le cœur en joie, nous prendrons tous part à la fête.
 No, no, non voglio amarti piu :
 Fingi d'amar mi,
@@ -1393,47 +586,6 @@ D'el tuo splendor non vo la face :
 E poi che m'inganni tu,
 No, no, non voglio amarti piu :
 
-**** *book_ *id_I20 *act_I *date_1697
-
--*who_monsieurtouvenel,flamand
-Accourez par monts et par vaux,
-Par bois et par plaines,
-Pour voir le joli Capitaine
-Des Baliveaux.
-Il a quitté la robe pour l'épée ;
-Salamalec à ce nouveau Pompée.
-
--*who_lechoeur
-Salamalec à ce nouveau Pompée.
-
--*who_mademoisellegodefroi,flamande
-Gens de Code et de Finance,
-Voici la paix, ne craignez plus les coups,
-Puisque l'amour n'est pas pour vous,
-Aux champs de Mars montrez votre vaillance :
-Et vous guerriers, pour cette fois,
-Pendez au croc le cimeterre ;
-Ou bien, si vous voulez encore faire la guerre,
-Empruntez de l'amour et l'arc et le carquois.
-
--*who_maturin
-Vidons encore ce pot de bière,
-Compère Piarre,
-Mon voisin,
-Je crois, Dieu merci, qu'à la fin
-Nous voilà quittes de la guarre ;
-Et l'on dit que delà l'iau,
-Il est venu plus d'un battiau,
-Tout chargé d'or et d'émeraudes,
-Dont je ferons des gorges chaudes ;
-Tout chacun va vivre content,
-J'aurons la paix et de l'argent.
-
--*who_lechoeur
-Tout chacun va vivre content,
-J'aurons la paix et de l'argent.
-
--*who_clitandre
 Cadedis, la plaisante chose,
 La drôle de métamorphose !
 Cujas est devenu Dragon ;
@@ -1453,15 +605,122 @@ Quand tout est calme sur la terre,
 Il faut songer à réparer
 Les dommages qu'a faits la guerre.
 
--*who_monsieurtouvenel
-Que l'Amour nous fasse tout faire,
-Quand une belle a su nous plaire,
-Pour cela, je le crois fort bien ;
-Mais qu'un sot changeant de figure,
-Puisse aussi changer de nature,
-Pour cela, je n'en croirai rien.
 
--*who_maturin
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+Et moi plus amoureux que jamais, Madame.
+
+Non, Madame, on dit la paix faite.
+
+Serait-ce aussi Madame votre mère, belle Henriette, qui s'opposerait à mon bonheur.
+
+Je ne suis pas moins passionné que toi : mais je comprends bien cependant que si madame Thomas nous est contraire, il n'y a pas d'apparence…
+
+Je vous le demande à genoux, Madame ; ne me donnez point un ordre auquel il m'est impossible d'obéir.
+
+Oui, Madame, suis-je le maître de cesser d'adorer la charmante Henriette ?
+
+Me soupçonne-t-on d'en avoir jamais eu d'autres ? L'unique but de mes désirs, ce que je souhaite le plus au monde, ce serait d'avoir l'honneur d'être le gendre de Madame.
+
+Rien, Toinette, je passe condamnation pour l'épée. J'ai un oncle Président d'un Grenier à Sel, qui me persécute pour me faire prendre sa charge.
+
+Je n'ai jamais vu de Général qui eût cet air-là.
+
+Madame !
+
+Il n'est rien que je ne fasse, Madame, pour avoir l'honneur de vous appartenir.
+
+
+**** *creator_dancourt *book_dancourt_retourdesofficiers *style_prose *genre_comedy *dist1_dancourt_prose_comedy_retourdesofficiers *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maturin
+
+Morgué, vela bian de la musique pardue ; et si vous velez que je vous parle franchement, il m'est avis que vous êtes un benêt de faire tout ça.
+
+Ne vous fâchez point, je sommes tous seuls ; et quoiqu'il soit bian plus de midi en ville, il est encore de bon matin chez Madame Thomas. Vous faites coucher toute la maison à trois heures après minuit, on ne s'y lève qu'à proportion ; votre musique n'a réveillé parsonne. On ne nous voit, ni on ne nous entend, je pouvons nous dire familièrement ce que je pensons.
+
+Palsanguenne, oui, me voilà bian poussé, je suis rat de cave, et rat de cave de campagne encore ; et au train que vous prenez, vous, vous pourriez bian le redevenir : car vous l'avez été vous aussi, ne vous en déplaise, et c'est le premier degré de la forteune, à ce que vous dites.
+
+Impertinence ! Oh dame acoutez, Monsieur le Sous-farmier de Saint-Quentin, quoique vous sayez tout ça, vous êtes mon frère, oui ; et sans notre oncle le Portier de ce gros Maltoutier, qui nous fit venir tout petit, pour être laquais…
+
+Cela est vrai, vous étiez nourri dans la maison ; mais comme vous ne payiez rien, et qu'il vous habillait encore par-dessus le marché, vous portiez la queue à Madame sa femme par reconnaissance. Acoutez, c'est morgué ce qui vous a fait ce que vous êtes.
+
+Vous enragez que je vous dise tout ça ; car vous êtes glorieux, et je ne sais pas de qui vous tenez ; je ne sommes pas comme ça dans notre famille.
+
+Oh palsangué, j'irai bian tout seul ; aussi bian j'enrage quand je vous vois faire ici toutes les sottises que vous faites. J'ai du naturel, moi, je ne sis pas comme vous.
+
+Si vous n'étiez pas mon frère, est-ce que je me soucierais qu'on se moquit de vous ?
+
+Si fait, vous êtes mon frère une fois.
+
+Le cœur me saigne de vous voir dépenser notre bian à être amoureux d'une parsonne qui ne vous aime point.
+
+Hé, morgué, vous le disiez vous-même tout à l'heure encore, et si pourtant vous ne laissez pas de ly bailler toujours des cadeaux, des festins, de la musique. N'est-ce pas aujourd'hui encore que vous leur amenez des violons, et que vous leur baillez à souper ?
+
+Ce que j'en dis, n'est pas que j'en parle : mais cet argent-là serait bian mieux employé à faire subsister notre sœur Nicole, qui garde des vaches auprès de Corbie, et le cousin Guillaume, qui n'est que le bediau d'une petite paroisse.
+
+Morgué, tope, je me tians révoqué : Il me déplaît par trop d'être le rat de cave de mon frère, et de le voir Monsieur ; j'aimerais palsanguenne mieux être le valet d'un autre.
+
+Votre valet, Mademoiselle Toinette, comment vous en va ?
+
+Oui, des chansons en latin, où lui-même il n'entend goutte, non plus que les autres. Il est bian fou de faire tout ça pour votre Mademoiselle Henriette, alle ne l'en aime pas davantage.
+
+Comment donc ça ?
+
+J'entends. Le nôtre aura bientôt son congé, n'est-ce pas ?
+
+Bon, tant mieux ; il vient de me bailler mon congé.
+
+Oui, j'étais Rat de cave comme vous savez ; et par amiquié depuis qu'il est ici, je l'y sarvais parfois de valet de chambre, je ne suis rian de tout ça ; je charche condition : si vous en saviez queuque bonne où on portît la queue, par exemple, ça porte bonne chance.
+
+Morgué point, je prendrai la première venue.
+
+Non, tatigué, laquais, n'an s'en trouve bien, et si je m'en étais avisé plus jeune… Je me recommande à vous, Mademoiselle Toinette. Voici queuque une de vos Damoiselles. Sans adieu je vas charcher forteune.
+
+Maturin, Monsieur.
+
+Oui, Monsieur, alle ne tombera point, je l'attacherais plutôt à ma ceinture.
+
+Je ne lâcherai rien, Monsieur, ne vous boutez pas en peine.
+
+J'ai pourtant trouvé condition tout du premier coup, comme vous voyez.
+
+Capitaine, morgué ! Ça ne vaut rian. Il m'enrôlerait, peut-être, prenons garde à nous.
+
+Avec votre parmission, Monsieur, une petite parole. Puisque vous allez bailler la robe, il ne faudra plus porter la queue, et vous aurez besoin de votre justaucorps. Que deviendrai-je donc, moi ?
+
+Vous n'avez plus que faire de moi ?
+
+Morgué, tenez donc, vela votre peste de queue, je m'en vais vous reporter votre casaque, et rechercher la mienne.
+
+Pargué non, je ne sis pas chanceux : mais morgué n'importe, je ne me rebuterai point, j'ai en tête de faire forteune moi tout seul, sans avoir obligation à parsonne ; je rencontrerai mieux une autre fois. Jusqu'au revoir, Mademoiselle Toinette.
+
+Déguisé, Madame, il n'y a point de déguisement là-dedans, c'est morgué tout de bon.
+
+Oui, Madame, je veux apprendre à gagner ma vie, les parents en usont trop mal, il ne faut dépendre de parsonne.
+
+Oui, divartissez-vous, et ne me faites pas parler, Madame.
+
+Je voudrais morgué qu'alle fût encore plus piètre, pour ly faire plus de honte, à ce tigre-là.
+
+Comment va-t'en ? Je ne dépends plus de vous. Il m'a ôté ma commission : mais…
+
+Votre Monsieur Rapineau, Madame. Voyez le biau plaisir d'avoir une peste de parenté comme ça.
+
+Un tantinet, Madame ; il est le fils de mon père et de ma mère.
+
+Tatigué, pourquoi m'avez-vous révoqué ? Vous vela révoqué, vous, j'en suis bien aise.
+
+Vidons encore ce pot de bière,
+Compère Piarre,
+Mon voisin,
+Je crois, Dieu merci, qu'à la fin
+Nous voilà quittes de la guarre ;
+Et l'on dit que delà l'iau,
+Il est venu plus d'un battiau,
+Tout chargé d'or et d'émeraudes,
+Dont je ferons des gorges chaudes ;
+Tout chacun va vivre content,
+J'aurons la paix et de l'argent.
+
 Qu'un Rat de cave inexorable,
 Soit un jour emporté du Diable,
 Pour cela, je le crois fort bien ;
@@ -1469,26 +728,3 @@ Mais qu'un Maltôtier veuille rendre
 Ce que sa griffe a su vous prendre,
 Pour cela, je n'en croirai rien.
 
--*who_mademoisellelolotte
-Qu'une Coquette aime et reprenne
-Un Amant que l'hiver ramène,
-Pour cela, je le crois fort bien ;
-Mais que pendant l'Été la Belle,
-À d'autres ait été cruelle,
-Pour cela, je n'en croirai rien.
-
--*who_desbaliveaux
-Qu'un Gascon, homme fort habile,
-Se crève quand il soupe en ville ;
-Pour cela, je le crois fort bien ;
-Mais qu'il ait des lettres de change,
-Ou bien qu'à ses dépens il mange,
-Pour cela, je n'en croirai rien.
-
--*who_mademoisellegodefroi
-Qu'un Traitant voyant l'hirondelle,
-Fasse le blocus d'une belle,
-Pour cela, je le crois fort bien ;
-Mais que malgré tout son manège,
-L'hiver il ne lève le siège,
-Pour cela, je n'en croirai rien.

@@ -1,54 +1,533 @@
 
 
-**** *book_ *id_preface *date_1681
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abderamen
 
-Préface 
+Scavez-vous qu'Alamir a quitté mon Armée,
+Qu'il revient en ces lieux sans mon ordre ?
 
-Cette Pièce est d'un caractere si singulier, qu'il y avoit lieu de craindre qu'elle ne fût pas au goust de tout le monde ; il est aisé de se perdre lors qu'on veut s'écarter des routes ordinaires : Cependant je dois estre assez content du succez de Zaïde.
+Il faut pour satisfaire à ma juste fureur,
+De ce presomptueux humilier l'audace :
+Zulemar, que l'effet devance la menace,
+Prenez ma Garde, allez l'arrester aujourd'huy,
+Qu'une obscure prison me réponde⁎ de luy.
 
-Ce n'est pas qu'on n'ait fait beaucoup de remarques tres judicieuses, & qu'il n'y ait beaucoup de fautes que j'ay connuës moy-mesme & dont je suis tombé d'accord avec les gens de bonne foy ; mais je ne pense pas que quelques legeres imperfections doivent faire condamner un ouvrage.
+      Arrestez.
+Ce n'est pas un avis qu'icy je vous demande,
+Zulemar, apprenez qu'un Roy lors qu'il commande,
+Veut de l'obeïssance, & non pas des raisons ;
+Vostre esprit va trop loin chercher de vains soupçons.
+Prenez ma garde, allez que rien ne vous étonne⁎,
+Partez, obeïssez, c'est moy qui vous l'ordonne.
 
-Quelques-uns m'ont reproché que j'ay mal suivi mon histoire, & ils n'ont pas pris garde que je n'ay point d'autre histoire que celle que j'ay voulu me faire.
-Zaïde est une pure invention, dont il n'y a aucun fondement dans l'Histoire de Grenade.
-Les noms des Zegris, & des Abencerrages, & cette haine celebre entre leurs deux familles sont les seules choses qui ont quelque apparence de verité ; tout le reste est imaginé.
-J'ay crû que je pouvais hazarder⁎ cette espece de Roman sur le Theatre, où il y a longtemps qu'on est ennuyé de ne voir que des Romains & des Grecs : J'ay choisi la Nation la plus avanturiere du monde, afin que la vraysemblance ne fut point blessée par la nouveauté d'un rôle de femme en homme qui soutient toute une piece.
+      Ah ! Zulemar, que me venez vous dire.
 
-D'autres dont le métier est fort opposé à la profession des belles lettres, & qui ont pourtant dans leurs jugemens toute la fierté qui accompagne d'ordinaire les demy sçavans, se sont élevez contre les sacrifices, les Dieux & les Prestres, expressions Poëtiques & figurées, dont j'ay voulu orner cette Piece : S'imaginent-ils que je n'aye pas sceu quelle estoit l'origine des Maures de Grenade, Peuples sortis de l'Arabie, où la premiere Religion estoit la Payene.
-Le Mahometisme succeda au culte des faux Dieux, mais il ne l'abolit pas si entierement qu'il n'en restât encore dans les derniers siecles quelques vestiges, mesme à Grenade.
-De la vient que presque tous les vieux Romanciers, qui ont parlé des Grenadins, les ont fait Payens, & leur ont donné plusieurs Dieux, dont ils en nomment mesme quelques-uns de noms assez bizares.
-J'ay crû que leur exemple m'authorisait assez dans une piece, où comme j'ay déja dit, il n'y a rien d'historique, & où les faux Dieux & l'idée des sacrifices font un assez agreable ornement.
+Gardes, qu'on se retire ; Abendax, laissez-nous.
 
-Voila les deux objections qui ont fait le plus de bruit dans le monde.
-Je pense y avoir assez bien répondu, & je croy qu'on me dispensera volontiers de faire une grande dissertation pour répondre aux autres qui m'ont paru de moindre consequence : Les Prefaces ne sont guere de mon goust, & il me semble que celle-cy est déja trop longue.
+Quoy qu'ait fait d'Alamir la valeur sans seconde⁎,
+Eust-il sauvé l'Etat, fust-il vainqueur du monde,
+Rien ne l'arracheroit aux rigueurs de la Loy,
+Si le Ciel ne m'avoit fait naistre que son Roy ;
+Mais je suis son Rival. Fatime a sceu me plaire,
+Voila ce qui suspend la mort d'un temeraire,
+Que l'on imputeroit dans la posterité
+Plûtost à mon amour qu'à la temerité :
+Mais lors que ma colere est à demy calmée,
+S'il ne va sans me voir retrouver mon Armée,
+Si ce presomptueux ne rentre en son devoir,
+Si sa presence encor vient braver mon pouvoir,
+Il n'est auprés de moy rien qui le justifie,
+Et le moindre refus luy coustera la vie ;
+Confident de mon cœur, seur de mes volontez,
+Pour instruire Alamir de mes ordres, partez.
+Songez bien quel devoir vous presse l'un & l'autre,
+Retourner est le sien, l'y resoudre est le vostre,
+Il importe à tous deux d'estre exacts : pensez y,
+C'est ce qu'ordonne un Roy qui veut estre obeï.
 
-**** *book_ *id_privilege *date_1681
+      Observez le silence,
+Alamir ; vostre orgueil demande ma presence,
+Je l'accorde, je fais ce que vous souhaitez,
+Mais avant qu'expliquer vos raisons, écoutez.
+Vous estes grand, fameux, mille exploits pleins de gloire
+Affleurent de vos jours l'éclatante memoire.
+Vous avez crû peut-estre en violant les Loix ;
+Qu'elles devoient se taire au bruit de vos exploits :
+Mais non, plus les sujets sont prés des Diadémes
+Plus un devoir exact doit regner sur eux-mesmes.
+De l'Univers entier observez ; c'est sur eux
+Que les Roys pour donner des exemples fameux
+Avec plus de splendeur signalent leurs puissances,
+Par des punitions ou par des récompenses.
+Si j'avois voulu croire un trop juste couroux,
+Vostre retour m'offroit ce grand exemple en vous ;
+Mais vos rares vertus, & ma reconnoissance
+Avoient de mes transports calmé la violence,
+Sans examiner rien je vous faisois partir,
+Il ne vous en auroit cousté qu'un repentir :
+Vous n'avez pas daigné profiter de ma grace,
+Au contraire à cet offre augmentant vostre audace,
+Vous avez demandé fierement à me voir.
+Me voicy ; vostre sort⁎ n'est plus en mon pouvoir,
+Aux Loix de mon Etat il faut que j'obeïsse,
+Que je vous récompense, ou que je vous punisse.
+Voila ce qu'ont produit vos desirs imprudens⁎,
+Il suffit ; à presant parlez, je vous entens.
 
-Extrait du Privilege du Roy 
+De ces vaines couleurs je croy peu l'apparence ;
+Mais de tous vos desseins je connois l'innocence :
+Alamir mon esprit étouffe les soupçons,
+Et cede à la bonté plûtost qu'à vos raisons ;
+Je répandray sur vous tant de biens, tant de gloire⁎
+Que de vostre disgrace on perdra la memoire :
+Mais suivy desormais du Peuple & des Soldats,
+Que vous verrez marcher en foule sur vos pas,
+Dés ce jour mesme, allez rejoindre mon Armée
+Et faites pour mon choix parler la renommée⁎.
 
-Par grace & privilege du Roy, donné à saint Germain en Laye le treiziéme de Mars 1681. signé par le Roy en son Conseil, GAMART : Il est permis au Sieur de la Chapelle de faire imprimer, vendre, & debiter par tel Libraire ou Imprimeur qu'il voudra choisir une Tragedie de sa composition, intitulée, Zaïde : Pendant le temps de six années, à compter du jour qu'elle sera achevée d'imprimer pour la premiere fois ; & défence sont faites à toutes personnes de l'imprimer ou faire imprimer, vendre ny debiter d'autre Edition que celle de l'Exposant, ou ceux qui auront droit de luy, à peine de trois mille livres d'amende, confiscation des exemplaires contre-faits, & de tous dépens⁎, dommages & interests ; ainsi qu'il est porté plus au long par lesdites lettres de privilege.
+Elle est digne de vous, vous estes digne d'elle
+Vous meritez sans doute un objet si charmant ;
+Alamir, mais le Ciel en dispose autrement,
+Et pour vous dire tout, une loy souveraine,
+Pour jamais vous separe, & la fait vostre Reine.
+ 
+      Je l'épouse étouffant vostre espoir,
+Ce n'est plus qu'en sujet que vous la devez voir.
 
-Et ledit Sieur de la Chapelle a cedé & transporté son droit de Privilege à Jean Ribou pour en joüir par luy, suivant l'accord fait entr'eux.
+J'ay preveu vos douleurs, j'en ay senty l'atteinte,
+Pour fermer contre moy vostre bouche à la plainte,
+Long-temps à mes désirs je me suis opposé :
+Mais j'aime, je suis Roy. Dieux ! qu'il est mal aisé,
+Lors que l'amour sur nous regne avec violence,
+De ne se pas servir de toute sa puissance⁎ ;
+Mais enfin pour m'oster le nom de Prince ingrat,
+Alamir disposez, de moy, de mon Etat,
+Souhaitez, demandez, épuisez ma puissance⁎,
+Il n'est rien au dessus de vostre récompense.
+ 
+Je vous entens, je voy ce que vous pouvez faire.
+Je sçauray profiter de cet aveu sincere.
+Pensez-y.
 
-Registré sur le Livre de la Communauté le dix-huitiéme jour de Mars 1681 ;
+Tandis que mes Sujets sont dans l'étonnement⁎,
+Et d'un jour si pompeux craignent l'évenement⁎ :
+Souffrez que sans témoins je vous parle, Madame,
+Et vous découvre icy les secrets de mon ame.
+Je vous aime : Mes soins, mes regards, mes soûpirs,
+Ont malgré moy sans doute expliqué mes desirs ;
+Mais jusqu'icy ma bouche auprés de vous muete,
+D'aujourd'huy seulement en devient l'interprete.
+Non qu'une crainte indigne, & de vous & de moy,
+Ait pû vous disputer⁎ l'amour de vostre Roy :
+Mais comme l'Etat doit regler nos hymenées,
+Les passions des Roys sont toûjours soupçonnées :
+Lors qu'aucun interest n'apuyant leurs projets,
+On les voit adorer le sang de leurs Sujets.
+J'ay craint qu'on n'imputast mes plus tendres hommages⁎,
+Au fol empressement de ces ardeurs volages,
+Qui ne font naistre en nous que d'injustes desirs,
+Et qui n'ont pour objet que de foibles plaisirs⁎.
+Madame à vostre Roy vostre gloire⁎ estoit chere,
+Je me suis fait pour elle une loy de me taire.
+Je parle maintenant, & veux que ce grand jour
+Par un heureux hymen, vous prouve mon amour.
 
-Achevé d'imprimer pour la premiere fois le vingtiéme de Mars 1681.
+Je penetre⁎ aisement d'où naist vostre embaras :
+Pour le sort d'Alamir dont le cœur vous adore,
+Une juste pitié vous sollicite encore.
+Vos regards attendris n'envisagent mon rang,
+Que comme un triste honneur cimenté de mon sang.
+Vous avez pû sçavoir que sa coupable audace,
+Desormais devant moy ne trouve plus de grace.
+Que la mort va l'oster du nombre des humains :
+Mais n'apprehendez rien, sa grace est en vos mains :
+Oüy, lors qu'à mon destin vous allez estre unie,
+Je veux qu'en vous perdant il vous doive la vie,
+Et qu'ainsi le pardon d'un fameux criminel,
+Attache à vostre regne un honneur éternel.
+Je vous ay reservé cette grace éclatante :
+Connoissez le bonheur que le sort vous presente.
+Combien est-il de Roys comblez d'ans & d'honneurs,
+Qui par mille bontez ont charmé tous les cœurs,
+Et n'ont pû sur le Thrône élevez dés l'enfance,
+Sur d'aussi grands sujets signaler leur clemence.
+Venez donc à l'Autel en me donnant la foy,
+Vous assurer….
 
-**** *book_ *id_I01 *act_ *date_1681 
+Quand vous allez regner, lors qu'un Roy qui vous aime,
+Remet entre vos mains avec son Diadéme,
+Le sort⁎ d'un orgueilleux qu'il a droit de punir,
+Quand tout doit vous presser, qui vous peut retenir ?
 
--*who_zulemar
+Ne vous informez point de ce qu'on pourra croire,
+C'est à moy d'avoir soin de mon rang, de ma gloire⁎ ;
+Et c'est à mes Sujets sans s'en inquieter,
+De voir mes passions, & de les respecter.
+A ce supréme honneur que je pretens vous faire,
+Madame, j'avois crû vous trouver moins contraire ;
+Si c'est trop m'abaisser, que d'estre vostre Epoux,
+Je ne m'attandois pas d'en estre instruit par vous.
+Ce conseil genereux part d'un cœur magnanime,
+Mais ce cœur, est-ce enfin la gloire⁎ qui l'anime.
+Des interests plus chers n'y sont-ils point mêlez ?
+N'envelope-t'il point d'autres secrets…Parlez,
+Madame, & sans détour que vostre cœur s'explique.
+
+      Oüy je puis perdre le temeraire,
+Qui m'ose disputer⁎ le bonheur de vous plaire.
+Le succez de mes feux decide de son sort ;
+Cet aveu, vos refus precipitent sa mort.
+Songez-y ; sur ce point c'est à vous de resoudre,
+Vous n'avez qu'un moment pour retenir la foudre.
+Gardes à moy.
+
+      Encor un coup⁎ parlez.
+Les Juges au Senat par mon ordre assemblez,
+Sur le sort d'Alamir attendent ma réponse,
+Quel Arrest voulez-vous que ma bouche prononce
+C'est de vous que dépent ou sa vie ou se mort.
+
+C'est trop par vos refus exciter mon couroux.
+Allez porter mon ordre au Senat tout à l'heure.
+Zulemar. Alamir est coupable, qu'il meure.
+
+      En sa faveur elle ose rejetter
+Le Sceptre que ma main vient de luy presenter.
+Un sujet insolent accablé de ma haine,
+Dont l'univers sans moy se souviendroit à peine⁎ :
+A mon Sceptre, à mon rang se verra preferé ;
+Ils pourront me braver, & je le souffriray ?
+D'une ingrate, d'un traistre il faut que je me venge ;
+Qu'il expire à ses yeux, je l'ordonne.
+
+Vous vous chargez trop tost du soin de le défendre,
+Pour me faire douter de ce qu'il veut m'apprendre.
+Vos yeux épouvantez, vostre front interdit,
+Ne confirment que trop ce que sa bouche a dit.
+Vous l'aimez, je le voy, Princesse trop ingrate,
+Et plus vous le niés, plus vostre amour éclate.
+Pour toy que mes bienfaits prodiguez chaque jour,
+Ingrat avoient rendu le premier de ma Cour ;
+Pour toy qui de mon cœur trahis la confidence⁎,
+N'espere pas que rien⁎ t'arrache à ma vangeance.
+Tu periras.
+
+Grands Dieux ! tout me dedaigne ainsi, tout m'abandonne !
+Le plus affreux trépas n'a rien qui les étonne⁎ :
+Quel est donc mon malheur ? Quel destin envieux
+Me rend quoy que je fasse à ce point odieux,
+Un ingrat que mon cœur de ses bontez honore,
+Une cruelle, enfin que j'aime, que j'adore,
+Conspirent l'un & l'autre à me percer le cœur :
+Mais qui vient en ces lieux ? que me veux-t'on ?
+
+      Il suffit, qu'on le fasse venir.
+
+Pensez-vous que cedant à vos lâches envies⁎,
+Je vous laisse joüir de tant de perfidies ?
+Vous n'insulterez point au malheur de mes feux.
+Qu'en leurs appartements on les garde tous deux.
+
+Rendez graces au Ciel, dont la bonté m'éclaire,
+Alamir, & dissipe une injuste colère.
+Vous n'estes point coupable, on nous trahit tous deux :
+Zulemar est le seul qui s'oppose à mes vœux ;
+Mais enfin oublions tous les sujets de plainte,
+Rentrez dans ma faveur sans retour & sans feinte :
+Amant abandonné mal-heureux comme moy.
+Excusez mes transports, & plaignez vostre Roy.
+Soyez plus que jamais l'appuy de ma Couronne.
+Vivez pour mon état, pour moy, je vous l'ordonne.
+
+Vous vivrez Alamir, & toûjours triomphant,
+Vous rendrez par vos soins mon regne florissant :
+Cependant je veux bien dans un aveu sincere,
+Exposer à vos yeux mon ame toute entiere.
+Zulemar plus que vous occupoit ma faveur,
+Il sçavoit mes secrets, il regnoit dans mon cœur,
+Il ne vous y laissoit qu'une sterile estime ;
+Qui l'eust crû ? Cependant il adoroit Fatime,
+Il s'en faisoit aimer, & mes feux offensez
+Alloient seul vous punir des maux qu'il a causez.
+Vengez-vous, vengez-moy d'une erreur si funeste,
+Il est sorti d'un sang que le vostre deteste,
+Vous auriez triomphé déjà sans ma pitié ;
+Le party des Zegris estoit humilié,
+Et j'ay craint que le sort⁎ en éteignant leur race
+A celle des vainqueurs n'inspirast trop d'audace ;
+Mais enfin, c'en est fait, je n'écoute plus rien,
+Je prens vostre party, j'abandonne le sien.
+
+Non ne me quittez pas : du destin d'un perfide.
+Je veux à vostre tour que vostre avis decide,
+Venez donc en resoudre, & contre cet ingrat,
+Faisons de nostre haine un interest d'Etat.
+Fin du quatrième Acte
+
+      Levez-vous.
+De l'amour à mon cœur la foiblesse est trop chere,
+Pour ne pas pardonner les fautes qu'il fait faire,
+Alamir à ses vœux cesse de resister ;
+Voy par où sa tendresse a sceu te meriter :
+Qu'entre vos deux partis la haine soit bannie,
+Accepte son hymen, c'est ton Roy qui t'en prie.
+
+Ne perdons point de temps, viens, suis-moy dans le Temple,
+Les Dieux t'inspireront sans doute, & mon exemple.
+Vous, Madame, quittez ce vain déguisement,
+Donnez à vostre sexe un plus digne ornement :
+Etouffez desormais une honte timide,
+Et vivez dans ma Cour sous le nom de Zaïde.
+FIN
+
+
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatime
+
+Dois-je croire, Seigneur, ce que m'apprend le Roy :
+Alamir s'est trouvé digne de vostre estime,
+Vous opposez vos soins au destin qui l'opprime ;
+Je veux bien l'avoüer, je tremblois pour ses jours ;
+Mais le Roy s'est laissé flechir à vos discours,
+Achevez, détournez le coup qui le menace.
+
+Moy, Seigneur ?
+
+Les bontez, les bien-faits, l'empressement du Roy,
+Le temps que chaque jour il passe auprés de moy :
+Ses regards, ses soûpirs, & son silence mesme,
+Tout me dit, tout m'apprend, tout confirme qu'il m'aime :
+Cependant oseray-je à vostre esprit discret,
+De mon bizare sort⁎ confier le secret ?
+Le Ciel ne m'a point fait une ame ambitieuse,
+Et l'espoir de regner ne me rend point heureuse.
+Le Roy m'accable en vain, de biens à tous momens,
+Je ne sens point pour luy ces tendres mouvemens,
+Dont les Amans se font de douces habitudes,
+Soins de plaire, transports, craintes⁎, inquietudes,
+Je souffre sans regret qu'il s'éloigne de moy ;
+Mon ame est sans plaisir lors que je le revoy,
+Distraite auprés de luy, tranquille en son absence,
+Ce qu'il dit, ce qu'il fait ne me plaist ny m'offense ;
+Non que rien⁎ ait caché son merite à mon cœur,
+L'air grand, jeune Heros, tendre Amant, Roy vainqueur ;
+Je connois tout le prix de sa personne auguste⁎,
+Et mon aveugle erreur ne me rent point injuste ;
+Mais qui peut de l'amour éviter le poison ?
+L'ame est-elle toûjours soumise à la raison ?
+Le Roy par ses bien-faits n'aspire qu'à me plaire ;
+Je le voy, je le sçay ; tout ce que je puis faire,
+C'est malgré mon penchant de voir avec ennuy⁎
+Les foiblesses d'un coeur qui n'est pas fait pour luy.
+ 
+      Oüy, Seigneur, il a sceu me toucher,
+Il m'a plû, je ne veux, je ne puis m'en cacher,
+Sa grande ame a la gloire⁎ uniquement sensible,
+Au milieu des flatteurs, constante, incorruptible,
+Cette droite vertu, cette intrepidité,
+Ce mépris des honneurs, cette sincerité :
+Enfin mille raisons me le rendoient aimable,
+Je croyois mon amour, fidelle, inviolable ;
+J'en attestois des Dieux le pouvoir absolu,
+Mes yeux, alors, mes yeux ne vous avoient pas veu.
+
+      L'aveu qu'icy je vous confie,
+Offense le devoir, blesse la modestie :
+Avant que d'en venir à cette extremité,
+Quels efforts, quels combats ne m'a-t'il point coûté.
+Croyez, lors que l'amour prend sur nous trop d'empire,
+Qu'il n'est rien qu'on ne souffre avant que de le dire ;
+Un destin rigoureux m'entraîne malgré moy.
+Mais n'en redoublez point le trouble où je vous voy :
+Si j'ai trop de mes feux⁎ montré la violence,
+Je sçauray m'en punir par une longue absence,
+Et mon cœur trop sensible à ces folles amours,
+Vous les dit une fois pour les taire toûjours.
+
+Que voy-je, est-ce Alamir, en croiray-je mes yeux ?
+Sans suite, sans éclat, quel retour, quel silence !
+Qu'est devenue enfin cette magnificence,
+Ces Lauriers, cette Cour, ce Peuple, ces Soldats,
+Dont la foule autrefois accompagnoit vos pas :
+Ah ! Seigneur, si c'est vous, apres vostre victoire !
+Où sont tous ces témoins pour me le faire croire ?
+
+Moy, Seigneur ?
+
+Mais du couroux du Roy, qui pourra vous défendre ?
+Sur son authorité vous semblez entreprendre⁎,
+Sans son ordre il vous voit revenir en ces lieux,
+Lors que vous paroistrez tantost devant ses yeux,
+Qu'à vous interroger il descendra luy-mesme :
+Que luy répondrez-vous, Seigneur ?
+
+Ne vous y fiez pas, cet amour vous perdra.
+Vous le diray-je enfin, quittez un lieu funeste ;
+De vostre vie, ailleurs allez porter le reste,
+Sous un Ciel plus serein, loin de vos envieux⁎,
+Courez mettre à l'abry des jours si precieux.
+On ne voit plus regner icy que l'injustice,
+Fuyez, abandonnez une Cour où le vice
+N'expose à vos regards que des coeurs corrompus.
+
+Que dites-vous ? quelle est l'erreur où je vous voy ?
+C'est trop vous affermir dans cette confiance,
+Icy trop de malheurs⁎ ont suivy vostre absence,
+Et je ne me sens point assez de fermeté,
+Pour cacher à vos yeux la triste verité,
+Vous avez en ces lieux, Seigneur, qui l'eust pû croire,
+Des Rivaux pour l'amour, ainsi que pour la gloire.
+Par le trouble où je suis, jugez de ma douleur,
+Et pour ne point moy-mesme affliger votre coeur,
+Souffrez que je vous cache un ennuy⁎ qui m'accable.
+
+Du destin d'Alamir, Seigneur, daignez m'instruire ;
+Vous venez de le voir, que vous a-t'il pû dire,
+Aux volontez du Roy ? s'est-t'il enfin rendu ?
+Qu'en doit-t'on esperer ?
+
+Moy ? que pour Alamir j'aille parler au Roy ?
+Si le penchant secret que ce Prince a pour moy
+Luy fait tout accorder, si j'en obtiens ce gage,
+Songez-vous bien, Seigneur, où sa bonté m'engage ?
+
+Ah ! que me dites vous ? Quoy ma bouche cruelle
+L'accableroit encor d'une douleur mortelle :
+J'irois luy reveler mon infidelité ;
+Que me demandez-vous, à quelle extremité ?
+Portez-vous de mon coeur l'innocence tendresse ?
+Ah ! de grace, Seigneur, épargnez ma foiblesse !
+Moy luy dire son sort⁎, ignorante du mien ?
+Helas ! suis-je en état de l'instruire du sien ?
+Non il vaut mieux suivant ma triste destinée,
+Aller traîner ailleurs ma vie infortunée :
+De souffrir⁎ mon départ, je vais presser le Roy,
+Venez, Seigneur, venez vous joindre avecque moy.
+Icy par mon exil tout changera de face ;
+Alamir obtiendra facilement sa grace :
+L'équitable raison éclairera le Roy,
+Chacun sera content, tout sera calme : Et moy
+Je fuiray des regards que ma presence gesne⁎,
+Et qui sur moy, Seigneur, ne tombent qu'avec peine.
+
+      Au nom des Dieux ne me resistez pas,
+Je sçay que ce dessein avance mon trépas ;
+Mais cette vie, helas ! que chacun tient si chere ,
+Ne me plaisoit qu'autant qu'elle pouvoit vous plaire ;
+Et puis que rien en vous ne flatte mon espoir,
+Je vais priver mes yeux du plaisir de vous voir.
+
+Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte.
+Le front triste, la veüe égarée, interdite,
+Ses regards menaçans où regne la fureur.
+Aux cœurs les plus hardis impriment la terreur,
+Que je crains pour vos jours, l'orage qui s'apreste
+De ces terribles coups détournez vostre teste,
+Encor un coup⁎ quittez ces détestables lieux.
+
+Seigneur, de tous les soins que l'amour vous suggere,
+Le plus pressant pour vous, & le plus salutaire,
+C'est de partir.
+
+      Où me vois-je reduite ?
+Grands Dieux ! que mon destin est affreux, est cruel ;
+Quand la honte m'impose un silence éternel,
+Le tyrannique honneur me défend de me taire,
+L'un & l'autre à mon cœur parle d'un ton severe ;
+Mais de mille malheurs⁎ dust le Ciel m'accabler,
+Le peril est trop grand, trop proche, il faut parler :
+Sortez, Seigneur, sortez de l'erreur où vous estes ;
+Apprenez qui je suis, voyez ce que vous faites :
+Cessez de fuir pour moy tant de prosperitez,
+Rebelle à vos desirs, ingrate à vos bontez ;
+Indigne pour jamais du feu qui vous anime ;
+Je ne merite plus vos vœux ny vostre estime.
+Les Dieux, les cruels Dieux jaloux de mon bonheur,
+Se sont fait un plaisir de verser dans mon cœur
+Un poison, dont soudain la funeste puissance
+A noircy de mes jours, a détruit l'innocence.
+L'état où je vous voy m'arrache cet aveu
+Oubliez tout de moy, jusqu'à mon nom : Adieu.
+
+Pour quel dessein fait-on des apprests si contraires,
+Et qui m'expliquera ces funestes misteres⁎ :
+Qui livrent mon esprit à de cruels soupçons ?
+ 
+Seigneur de vos projets, étonnée⁎, interdite,
+Je ne puis vous cacher le trouble qui m'agite,
+Tant de soins, tant d'honneurs que je n'attandois pas…
+
+      Seigneur, qu'exigez-vous de moy ?
+ 
+Si vous perdez pour moi le soin de vostre gloire⁎ ;
+Seigneur, dois-je pour vous en perdre la memoire.
+Quel est vostre dessein, lors que de toutes parts,
+Vostre hymen souhaité suspend tous les regards ;
+Quand l'Afrique vous offre avecque ses Princesses.
+Le secours de ses Roys, ses ports & ses richesses.
+De ce pompeux hymen vous voulez m'honorer,
+Moy qui de tout l'éclat dont je puis me parer,
+Ne compte que l'honneur d'estre vostre sujete,
+Pour vos seuls interests, pour vous-mesme inquiete,
+Souffrez que je m'oppose à cet aveugle amour :
+Que croiroient vos sujets, que diroit vostre Cour ?
+
+Vous me le commandez, j'obeïs sans replique,
+On ne peut rien cacher aux Roys, non plus qu'aux Dieux.
+Si le Ciel sur le thrône avoit mis mes ayeux,
+J'aurois fait mes plaisirs⁎, j'aurois fait mon envie⁎,
+D'assurer le bon-heur de vostre illustre vie :
+J'aurois tout employé pour meriter le choix,
+Seigneur, du plus parfait, & du plus grand des Roys.
+Mais dans un rang plus bas, reduite dés l'enfance,
+Mon cœur s'est fait un choix conforme à ma naissance,
+Pour un de vos Sujets. L'amour l'a sceu toucher,
+C'est en vain qu'à vos yeux je voudrois le cacher :
+Si malgré cet aveu vostre amour persevere,
+Si le don de ma main peut encore vous plaire,
+Vous n'avez qu'à parler, elle est à vous, Seigneur :
+Mais quand je ne vous puis répondre de mon cœur,
+Pourriez-vous…
+ 
+Le Ciel qui vous a fait le maistre de son sort⁎,
+Daigne de ce Heros vous prouver l'innocence,
+Mais n'attendez de moy qu'un mal-heureux silence :
+Le don de nostre cœur ne dépend point de nous.
+
+N'en croyez pas, Seigneur, un sujet trop fidelle,
+Qui voulant à l'Etat conserver un appuy,
+Se rend auprés de vous coupable au lieu de luy.
+
+      He, bien pour m'avoir trop sceu plaire,
+Seigneur, pour avoir fait un aveu trop sincere
+Des sentiments d'un cœur qui n'eust pû le trahir,
+On vous fait donc coupable, & vous allez mourir.
+
+Moy qu'à l'ambition j'abandonne mon ame ?
+Que je vous laisse en proye aux fureurs…
+
+Non, vous ne mourrez point, quittez cette pensée,
+Ma vie à vous sauver est trop interressée,
+Vostre grace, dit-on, dépend encor de moy,
+Je n'ay pour l'obtenir qu'à feindre auprés du Roy,
+Qu'à demander du temps pour l'hymen qu'il souhaite ;
+Nous choisirons après quelque seure retraite.
+Pour nous venger de luy tout nous sera permis,
+J'ay du pouvoir icy, vous avez des amis,
+Assistez d'eux sans bruit, quittant ce lieu funeste…
+C'est assez m'expliquer, vous entendez⁎ le reste.
+J'envisage en tremblant une telle action,
+Et vos yeux sont témoins de ma confusion ;
+Mais enfin pour sauver une teste si chere
+Je ne ménage rien. J'y cours.
+
+
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zulemar
+
 La princesse Fatime, Osmar, est chez le Roy ?
 Tu dis qu'en la quittant il veut parler à moy.
 Et qu'icy pour me voir il doit bientost se rendre.
 
--*who_osmar
-Oüy, Seigneur
-
--*who_zulemar
       Il suffit, Osmar, je vais l'attendre.
 
-**** *book_ *id_I02 *act_ *date_1681 
-
--*who_zulemar
 Tu t'étonnes, Amy, des honneurs qu'on me rend.
 Ma nouvelle grandeur, je le voy, te surprend.
 Quand tu quittas Grenade, où sortis de l'Afrique
@@ -80,32 +559,9 @@ As-tu sçu le tromper ; la croit-il infidelle ?
 Envoyé dans son camp par mes ordres exprés,
 Quels soins as-tu donnez à mes desseins secrets ?
 
--*who_abendax
-N'en doutez point, Seigneur, il est toûjours le mesme
-Il craint son inconstance, & cependant il l'aime,
-Des bruits que j'ay semez trop vivement frappé⁎,
-De mille soins jaloux de craintes⁎ occupé
-Il veut par son retour confondre une infidelle.
-Il revient.
-
--*who_zulemar
       Quoy sans ordre, & sans qu'on le rappelle.
 Abendax il revient, il se pert, c'en est fait.
 
--*who_abendax
-Oüy, Seigneur, vos desseins auroient eu leur effet
-Si le rare bonheur qui par tout l'accompagne,
-Ne vous le ramenoit triomphant de l'Espagne.
-En vain les Roys liguez & les peuples unis
-Armoient contre nous seuls un monde d'ennemis.
-Leurs troupes, leurs ramparts , & leurs vastes rivieres
-N'ont pû nous opposer que de foibles barrieres.
-Vaincus en cent combats, dispersez & défaits,
-Ils offrent un tribut, & demandent la paix.
-Quoy qu'ait fait Alamir, cette grande victoire
-Met trop en asseurance & ses jours & sa gloire⁎.
-
--*who_zulemar
 Non, ne croy pas que rien⁎ excuse son retour,
 Je le voy bien, amy, tu connois mal la Cour :
 Des services passez on a peu de memoire,
@@ -114,28 +570,10 @@ Plus ils sont enviez, & moins leurs grands exploits
 Les mettent à couvert de la rigueur des loix.
 Il est perdu, te dis-je.
 
--*who_abendax
-      Hé bien par sa disgrace,
-Le destin à vos vœux offre une auguste⁎ place ;
-Que la mort soit le prix de sa temerité,
-Vous l'avez souhaité.
-
--*who_zulemar
       Moy, je l'ay souhaité ?
 
--*who_abendax
-Et n'est-ce pas, Seigneur, pour servir vostre haine,
-Pour rendre d'Alamir la perte plus certaine,
-Que je fus envoyé dans son Armée ?
-
--*who_zulemar
       Helas !
 
--*who_abendax
-Vous soûpirez: Qu'entens-je ? Hé quoy n'avez vous pas
-Toûjours pour Alamir cette haine mortelle…
-
--*who_zulemar
 J'ay cent fois éprouvé ta prudence⁎ & ton zele⁎,
 Et je vais confier des secrets à ta Foy,
 Amy, qui ne sont sceus que des Dieux & de moy.
@@ -150,10 +588,6 @@ Qui semblent relever le nom de mes ayeux,
 Et soutenir l'espoir d'une illustre famille ;
 Enfin sous cet habit tu ne vois qu'une fille⁎.
 
--*who_abendax
-Quoy vous, Seigneur ?
-
--*who_zulemar
       Ecoute, & me laisse parler.
 Je penetre⁎, je voy ce qui peut te troubler :
 Ce fut toy qui pris soin d'élever mon enfance,
@@ -195,17 +629,6 @@ Son nom fameux estoit son unique ornement.
 Abendax, je le vis, je sentis dans mon ame…
 Que dis-je, en le voyant j'appris que j'estois femme.
 
--*who_abendax
-Surpris, confus, troublé de ce déguisement,
-A peine je reviens de mon étonnement.
-Qu'entens-je ! Zulemar est une fille⁎ ! elle aime !
-Hé qui ? Quel est l'objet de son amour extrême !
-Grands Dieux ! c'est Alamir l'ennemy des Zegris !
-Avez vous oublié ses injustes mépris ?
-Ne vous souvient-il plus de la haine d'un pere,
-Songez qu'elle doit estre en vous hereditaire.
-
--*who_zulemar
 Que dis-tu ? cet amour qui cause ton ennuy⁎,
 Encor plus que ma haine est funeste pour luy.
 Tu le vois, insensée, envieuse⁎, cruelle,
@@ -221,41 +644,13 @@ Mal-heureuse, & c'est moy qui l'entraîne au supplice ;
 Ce sont mes faux avis, c'est pour les avoir crus,
 Si je le haissois, pourois-je faire plus !
 
--*who_abendax
-Le Roy vient ; cachez luy vostre flâme alarmée.
-
-**** *book_ *id_I03 *act_ *date_1681 
-
--*who_abderamen
-Scavez-vous qu'Alamir a quitté mon Armée,
-Qu'il revient en ces lieux sans mon ordre ?
-
--*who_zulemar
       Oüy, Seigneur.
 
--*who_abderamen
-Il faut pour satisfaire à ma juste fureur,
-De ce presomptueux humilier l'audace :
-Zulemar, que l'effet devance la menace,
-Prenez ma Garde, allez l'arrester aujourd'huy,
-Qu'une obscure prison me réponde⁎ de luy.
-
--*who_zulemar
 Luy, Seigneur, qu'en tous lieux la victoire accompagne ;
 Son bras vient d'affermir vostre Empire en Espagne,
 L'Etat à sa valeur doit ses prosperitez,
 Adoré des Soldats & du Peuple….
 
--*who_abderamen
-      Arrestez.
-Ce n'est pas un avis qu'icy je vous demande,
-Zulemar, apprenez qu'un Roy lors qu'il commande,
-Veut de l'obeïssance, & non pas des raisons ;
-Vostre esprit va trop loin chercher de vains soupçons.
-Prenez ma garde, allez que rien ne vous étonne⁎,
-Partez, obeïssez, c'est moy qui vous l'ordonne.
-
--*who_zulemar
 Dust mon refus, Seigneur, m'exposer à la mort,
 Lors que vostre bonté daigna porter mon sort⁎,
 Du neant où j'estois, au comble de la gloire ;
@@ -280,43 +675,9 @@ L'amour sur son devoir luy fait fermer les yeux,
 Et Fatime est l'objet⁎ qui l'appelle en ces lieux.
 C'est elle….
 
--*who_abderamen
-      Ah ! Zulemar, que me venez vous dire.
-
--*who_zulemar
 Je le voy, ces raisons ne peuvent vous suffire,
 Vous n'en croirez, Seigneur, qu'un trop ardent couroux.
 
--*who_abderamen
-Gardes, qu'on se retire ; Abendax, laissez-nous.
-
-**** *book_ *id_I04 *act_ *date_1681 
-
--*who_abderamen
-Quoy qu'ait fait d'Alamir la valeur sans seconde⁎,
-Eust-il sauvé l'Etat, fust-il vainqueur du monde,
-Rien ne l'arracheroit aux rigueurs de la Loy,
-Si le Ciel ne m'avoit fait naistre que son Roy ;
-Mais je suis son Rival. Fatime a sceu me plaire,
-Voila ce qui suspend la mort d'un temeraire,
-Que l'on imputeroit dans la posterité
-Plûtost à mon amour qu'à la temerité :
-Mais lors que ma colere est à demy calmée,
-S'il ne va sans me voir retrouver mon Armée,
-Si ce presomptueux ne rentre en son devoir,
-Si sa presence encor vient braver mon pouvoir,
-Il n'est auprés de moy rien qui le justifie,
-Et le moindre refus luy coustera la vie ;
-Confident de mon cœur, seur de mes volontez,
-Pour instruire Alamir de mes ordres, partez.
-Songez bien quel devoir vous presse l'un & l'autre,
-Retourner est le sien, l'y resoudre est le vostre,
-Il importe à tous deux d'estre exacts : pensez y,
-C'est ce qu'ordonne un Roy qui veut estre obeï.
-
-**** *book_ *id_I05 *act_ *date_1681 
-
--*who_zulemar
 Qu'entens-je ! A quel employ me vois-je destinée ?
 J'aime Alamir : Pour moi sa haine est obstinée,
 C'est peu de cet amour qui pourra l'irriter ;
@@ -345,25 +706,10 @@ Oüy, pour le confirmer allons trouver Fatime ;
 Allons vanter du Roy la precieuse estime,
 L'éclat du Diadême aura….Mais je la voy.
 
-**** *book_ *id_I06 *act_ *date_1681
-
--*who_fatime
-Dois-je croire, Seigneur, ce que m'apprend le Roy :
-Alamir s'est trouvé digne de vostre estime,
-Vous opposez vos soins au destin qui l'opprime ;
-Je veux bien l'avoüer, je tremblois pour ses jours ;
-Mais le Roy s'est laissé flechir à vos discours,
-Achevez, détournez le coup qui le menace.
-
--*who_zulemar
 Et quel autre que vous peut obtenir sa grace ?
 S'il faut calmer du Roy l'implacable couroux,
 Madame, desormais qui le peut mieux que vous.
 
--*who_fatime
-Moy, Seigneur ?
-
--*who_zulemar
       Vous, le Roy ne veut plus que j'ignore
 Les secretes bontez dont son chois vous honore,
 Sa main répand sur vous, rang, titres, dignitez,
@@ -371,35 +717,6 @@ Bien-faits, moins glorieux que vous ne meritez,
 Et je viens avec joye à ces grands avantages,
 Rendre mes premiers soins, & mes premiers hommages⁎.
 
--*who_fatime
-Les bontez, les bien-faits, l'empressement du Roy,
-Le temps que chaque jour il passe auprés de moy :
-Ses regards, ses soûpirs, & son silence mesme,
-Tout me dit, tout m'apprend, tout confirme qu'il m'aime :
-Cependant oseray-je à vostre esprit discret,
-De mon bizare sort⁎ confier le secret ?
-Le Ciel ne m'a point fait une ame ambitieuse,
-Et l'espoir de regner ne me rend point heureuse.
-Le Roy m'accable en vain, de biens à tous momens,
-Je ne sens point pour luy ces tendres mouvemens,
-Dont les Amans se font de douces habitudes,
-Soins de plaire, transports, craintes⁎, inquietudes,
-Je souffre sans regret qu'il s'éloigne de moy ;
-Mon ame est sans plaisir lors que je le revoy,
-Distraite auprés de luy, tranquille en son absence,
-Ce qu'il dit, ce qu'il fait ne me plaist ny m'offense ;
-Non que rien⁎ ait caché son merite à mon cœur,
-L'air grand, jeune Heros, tendre Amant, Roy vainqueur ;
-Je connois tout le prix de sa personne auguste⁎,
-Et mon aveugle erreur ne me rent point injuste ;
-Mais qui peut de l'amour éviter le poison ?
-L'ame est-elle toûjours soumise à la raison ?
-Le Roy par ses bien-faits n'aspire qu'à me plaire ;
-Je le voy, je le sçay ; tout ce que je puis faire,
-C'est malgré mon penchant de voir avec ennuy⁎
-Les foiblesses d'un coeur qui n'est pas fait pour luy.
-
--*who_zulemar
 Quoy, Madame, un Heros que les mortels admirent,
 Pour qui mille beautez secretement soûpirent ;
 Puissant, heureux, vainqueur de cent Peuples divers,
@@ -408,58 +725,14 @@ Mais de vostre froideur je penetre⁎ la cause,
 A l'amour de ce Prince, un autre amour s'oppose
 Alamir….
 
--*who_fatime 
-      Oüy, Seigneur, il a sceu me toucher,
-Il m'a plû, je ne veux, je ne puis m'en cacher,
-Sa grande ame a la gloire⁎ uniquement sensible,
-Au milieu des flatteurs, constante, incorruptible,
-Cette droite vertu, cette intrepidité,
-Ce mépris des honneurs, cette sincerité :
-Enfin mille raisons me le rendoient aimable,
-Je croyois mon amour, fidelle, inviolable ;
-J'en attestois des Dieux le pouvoir absolu,
-Mes yeux, alors, mes yeux ne vous avoient pas veu.
-
--*who_zulemar
 Moy, Madame ?
 
--*who_fatime
-      L'aveu qu'icy je vous confie,
-Offense le devoir, blesse la modestie :
-Avant que d'en venir à cette extremité,
-Quels efforts, quels combats ne m'a-t'il point coûté.
-Croyez, lors que l'amour prend sur nous trop d'empire,
-Qu'il n'est rien qu'on ne souffre avant que de le dire ;
-Un destin rigoureux m'entraîne malgré moy.
-Mais n'en redoublez point le trouble où je vous voy :
-Si j'ai trop de mes feux⁎ montré la violence,
-Je sçauray m'en punir par une longue absence,
-Et mon cœur trop sensible à ces folles amours,
-Vous les dit une fois pour les taire toûjours.
-
-**** *book_ *id_I07 *act_ *date_1681
-
--*who_zulemar
 Elle me quitte. Où suis-je, & que viens-je d'apprendre !
 Juste Ciel….Ah ! sçais-tu ce qu'on m'a fait entendre⁎ !
 Fatime…Mais suy moy, sortons de ce Palais :
 Abendax, viens m'entendre⁎ en des lieux moins suspects.
 Heureuse si les Dieux finissent la contrainte⁎…
 
--*who_abendax
-Avant que vostre cœur s'abandonne à la plainte,
-Aprenez d'Alamir le retour en ces lieux ;
-Ce heros qu'on plaçoit au rang des demy Dieux,
-Qui voyoit autrefois retournant de l'Armée,
-Au devant de son char voler la renommée⁎  ;
-Et le zele⁎ empressé d'un Peuple adorateur
-Parfumer son chemin, exalter sa valeur,
-Accablé maintenant d'une douleur profonde,
-Sans pompe, sans honneur, & fuy de tout le monde,
-Inquiet, étonné, revient, entre sans bruit,
-A peine accompagné d'un amy qui le suit.
-
--*who_zulemar
 Ah Ciel ! ma jalousie a formé cet orage !
 C'est elle qui le pert, & voilà mon ouvrage :
 Grands Dieux ! de qui dépent le destin des humains,
@@ -469,231 +742,6 @@ Epuisez tout sur moy, je suis seule coupable,
 Mais, Abendax, sortons ; viens apprendre de moy
 Ce que m'a dit Fatime, & ce que veut le Roy.
 
-**** *book_ *id_II01 *act_ *date_1681
-
--*who_alamir
-Non, ne nous flattons point d'une vaine esperance,
-Plus mes exploits sont grands, plus mon retour l'offense ;
-J'ay vaincu, mais je viens sans son ordre en ces lieux,
-Et je ne montre enfin qu'un coupable à ses yeux,
-Je ne m'aveugle point sur ma triste conduite,
-Je sçay quel est mon crime, & j'en prevoy la suite ;
-Mais qu'il me fasse grace, ou m'envoye à la mort,
-Je verray du mesme œil & l'un & l'autre sort⁎.
-
--*who_gazul
-Pourquoy de ce retour aprés vostre victoire,
-Vous faites vous, Seigneur, une image si noire ;
-Si les Dieux & les Roys ne pardonnoient jamais,
-Les mal-heureux mortels pourroient-ils vivre en paix ?
-
--*who_alamir
-Non, le trouble où tu vois que mon cœur s'abandonne,
-N'est point d'un mal-heureux que le suplice étonne⁎ ;
-Mais de tant d'ennemis, triomphant & vainqueur,
-Puis-je me regarder moy-mesme sans douleur ?
-Lors qu'il faut qu'un pardon honteux à ma memoire,
-Soit pour sauver mes jours le prix de ma victoire,
-Vous qui prenez plaisir à former de vos mains
-Quelques mortels plus grands que les autres humains.
-A quelles passions, Dieux ! à combien d'outrages.
-Sans cesse exposez-vous vos plus nobles ouvrages.
-Gazul on nous éleve au rang des immortels,
-Par tout à nos vertus on dresse des Autels,
-Mais Helas ! tost ou tard nous détrompons les hommes,
-Et toûjours quelque foible aprend ce que nous sommes :
-De cette triste Loy, moy-mesme à nos neveux⁎,
-Cher amy, je vais estre un exemple fameux,
-J'abandonne l'Armée, & je trahis ma gloire,
-Pour des raisons qu'un jour on aura peine à croire.
-
--*who_gazul
-Je l'avoüeray, Seigneur, puis que vostre bonté
-Me donne auprés de vous entiere liberté,
-Plus sur vostre retour en secret je medite,
-Plus cherchant vos raisons, mon ame est interdite.
-Je sçay que Zulemar, jeune, presomptueux
-Des passions du Roy, flatteur, respectueux,
-Nouveau dans les secrets du grand art⁎ Militaire.
-Et pour toute vertu, sçavant en l'art⁎ de plaire ;
-Depuis six mois à peine à la Cour arrivé,
-Est déjà par la brigue⁎ aux employs élevé,
-Son credit vous irrite, & par vostre presence
-Vous venez balancer sa nouvelle puissance⁎.
-
--*who_alamir
-Tu fais à ma foiblesse encore trop d'honneur,
-L'ambition n'est pas ce qui trouble mon cœur :
-Je suis, je l'avoüeray jaloux de cette gloire⁎,
-Qui fait vivre à jamais les grands noms dans l'Histoire.
-Dés ma plus tendre enfance ennemy du repos,
-Je me suis proposé l'exemple des Heros,
-Pour la faveur des Roys qu'au gré de leurs caprices,
-Ils accordent souvent à de legers services ;
-J'en cede l'avantage aux moindres Courtisans,
-Qui sçavent mieux que moy prodiguer leurs encens :
-Je n'ay point crû flatté d'un espoir temeraire,
-Estre seul à l'Etat, & toujours necessaire
-Pour commander l'Armée, & dispenser ses Loix.
-Le Roy peut honorer Zulemar de son choix,
-On ne me verra point par de secretes brigues⁎,
-De l'heureux Favory détruire les intrigues ;
-Son credit n'aura rien de chagrinant⁎ pour moy,
-Et ma seule vertu me tiendra lieu d'employ⁎,
-Tels sont mes sentiments, telle est ma politique,
-Et je pense en effet ce que ma bouche explique.
-Cependant ce cœur plein de ces grands sentimens,
-A toutes les erreurs des plus foibles Amans ;
-Oüy, dans ces lieux, Gazul, c'est l'amour qui m'entraîne,
-Captif, trop glorieux pour une telle chaîne.
-
--*who_gazul
-Seigneur, que dites-vous ?
-
--*who_alamir
-      Non, je ne rougis pas
-D'avoir d'une Princesse adoré les appas :
-Il n'est point de vertu que l'amour ne surmonte,
-Fatime m'ecoutoit, j'ay pû l'aimer sans honte,
-Mais que l'amour sur moy prenne tant de pouvoir,
-Qu'une crainte⁎, un soupçon m'arrache à mon devoir,
-C'est-là le seul moyen que je preste à l'envie⁎,
-Pour ternir quelque jour tout l'éclat de ma vie.
-
--*who_gazul
-Seigneur, je voy Fatime, elle vient en ces lieux.
-
-**** *book_ *id_II02 *act_ *date_1681
-
--*who_fatime
-Que voy-je, est-ce Alamir, en croiray-je mes yeux ?
-Sans suite, sans éclat, quel retour, quel silence !
-Qu'est devenue enfin cette magnificence,
-Ces Lauriers, cette Cour, ce Peuple, ces Soldats,
-Dont la foule autrefois accompagnoit vos pas :
-Ah ! Seigneur, si c'est vous, apres vostre victoire !
-Où sont tous ces témoins pour me le faire croire ?
-
--*who_alamir
-Quelque affreux changement qu'aporte mon retour,
-Vous me voyez, Madame, avec le mesme amour ;
-L'honneur de vous revoir est le seul où j'aspire
-Heureux, & plus heureux que je ne vous puis dire ;
-Si de ce prompt retour vous aprouvez l'ardeur,
-Et si je vous retrouve avec le mesme cœur.
-
--*who_fatime
-Moy, Seigneur ?
-
--*who_alamir
-      Jusqu'icy j'ay tout fait pour la gloire,
-Madame, aprés avoir asseuré ma memoire :
-Cherchant à respirer, ne pourray-je un moment
-Paroistre moins vainqueur, pour estre plus Amant.
-
--*who_fatime
-Mais du couroux du Roy, qui pourra vous défendre ?
-Sur son authorité vous semblez entreprendre⁎,
-Sans son ordre il vous voit revenir en ces lieux,
-Lors que vous paroistrez tantost devant ses yeux,
-Qu'à vous interroger il descendra luy-mesme :
-Que luy répondrez-vous, Seigneur ?
-
--*who_alamir
-      Que je vous aime.
-L'Amour a fait mon crime, il me justifiera.
-
--*who_fatime
-Ne vous y fiez pas, cet amour vous perdra.
-Vous le diray-je enfin, quittez un lieu funeste ;
-De vostre vie, ailleurs allez porter le reste,
-Sous un Ciel plus serein, loin de vos envieux⁎,
-Courez mettre à l'abry des jours si precieux.
-On ne voit plus regner icy que l'injustice,
-Fuyez, abandonnez une Cour où le vice
-N'expose à vos regards que des coeurs corrompus.
-
--*who_alamir
-Le vostre ne l'est point, que voudrois-je de plus ?
-Deussay-je en cette Cour trouver la mort certaine,
-D'eust m'accabler le Roy d'une implacable haine,
-Quand je verrois pour moy tous les coeurs sans pitié,
-Rien ne m'affligeroit que votre inimitié ;
-Certain de vos bontez sur qui je me repose,
-Quoy que fasse le Ciel contre moy, quoy qu'il ose,
-J'ay tant de confiance en vous, en vostre foy :
-
--*who_fatime
-Que dites-vous ? quelle est l'erreur où je vous voy ?
-C'est trop vous affermir dans cette confiance,
-Icy trop de malheurs⁎ ont suivy vostre absence,
-Et je ne me sens point assez de fermeté,
-Pour cacher à vos yeux la triste verité,
-Vous avez en ces lieux, Seigneur, qui l'eust pû croire,
-Des Rivaux pour l'amour, ainsi que pour la gloire.
-Par le trouble où je suis, jugez de ma douleur,
-Et pour ne point moy-mesme affliger votre coeur,
-Souffrez que je vous cache un ennuy⁎ qui m'accable.
-
-**** *book_ *id_II03 *act_ *date_1681
-
--*who_alamir
-Ah! Gazul, mon soupçon n'est que trop veritable,
-Lors qu'un bruit incertain m'aprit qu'en cette Cour,
-Un Rival dangereux traversoit mon amour :
-De ses premiers transports mon ame revenuë,
-Zulemar fut le seul qui s'offrit à ma veuë ;
-Son credit prés du Roy, ses nouvelles grandeurs,
-Cette haine, Gazul, qui divise nos coeurs,
-Tout me le dit, percé d'une douleur trop vive,
-J'abandonne mon camp, ma gloire⁎, tout, j'arrive,
-Ce soupçon par Fatime est enfin confirmé,
-N'en doutons point, il l'aime.
-
--*who_gazul
-      En seroit-t'il aimé ?
-Luy, Seigneur.
-
--*who_alamir
-      De l'amour la foiblesse est commune ;
-Les yeux les mieux fermez s'ouvrent à la fortune⁎,
-D'un Favory naissant, l'éclat est seducteur,
-Mais je connois Fatime, & répons de son coeur,
-Son trouble, ses regards, ses discours, son silence,
-Tout m'apprend les combats rendus en mon absence,
-Pour me garder un cœur qu'elle sçait qui m'est dû,
-Mais allons cher Gazul, où je suis attendu :
-Quoy que de Zulemar le pouvoir soit extréme,
-Mes exploits prés du Roy parleront pour moy-méme,
-Il me rendra l'estime acquise à mon devoir.
-Entrons.
-
-**** *book_ *id_II04 *act_ *date_1681
-
--*who_osmar
-      Seigneur, le Roy vous défent de le voir.
-
--*who_alamir
-A moy ?
-
--*who_osmar
-      Votre retour sans ordre est une offense,
-Qui soustrait à vos yeux son auguste⁎ presence.
-Zulemar est chargé de ses ordres secrets,
-Pour vous en avertir, je les devance exprés.
-Ce Prince de sa part vous les doit faire entendre⁎,
-Il va se rendre icy, c'est à vous de l'attendre.
-
--*who_alamir
-A cette indignité, Dieux, me reserviez-vous ?
-Quand viendra-t'il ?
-
--*who_osmar
-      Seigneur, le voicy.
-
-**** *book_ *id_II05 *act_ *date_1681
-
--*who_zulemar
       Laissez-nous,
 Seigneur, avant qu'icy ma bouche vous explique
 Tout ce que m'a du Roy prescrit la politique,
@@ -722,27 +770,6 @@ Aux sinceres avis d'un amy plein d'ardeur ;
 Auprés du Roy pour vous je puis tout entreprendre,
 Prés de vous pour moy-mesme, à quoy puis-je m'attendre.
 
--*who_alamir
-Zulemar, car enfin éloigné de ces lieux,
-Je n'ay point encor sceu tes titres glorieux.
-Le Roy pour mon retour prevenu de colere,
-De son pouvoir sur moy t'a fait depositaire :
-Tu le dis, mais enfin pour m'offrir ton secours.
-Pour te voir en effet l'arbitre de mes jours,
-Aprens moy quels explois t'ont rendu  remarquable ?
-Et qu'a fait jusqu'icy ton bras de memorable ?
-De cent jeunes beautez qui brillent à la Cour ;
-Frivole adorateur tu sçais faire l'amour⁎ ;
-Et c'est enfin sur quoy tout ton orgueil se fonde.
-Mais puis qu'à tes bontez il faut que je réponde :
-Ecoute & suis l'avis que je vais te donner,
-A m'offrir ton appuy cesse de t'obstiner,
-Ton indigne pitié me feroit trop d'outrage,
-Montre-toi vray Zegri, contre un Abincerrage ;
-L'honneur le plus certain & le plus grand pour toy,
-C'est d'estre l'ennemy d'un homme tel que moy.
-
--*who_zulemar
 Si pour moy cette haine avoit quelque avantage,
 Rien ne m'empescheroit de le mettre en usage,
 Et mon ame si loin en porteroit l'excez,
@@ -764,27 +791,6 @@ C'est son ordre, je dois, ou m'attirer sa haine
 En rendre un compte exact de tout notre entretien
 Hé bien, Seigneur, parlez que luy diray-je ?
 
--*who_alamir
-      Rien.
-Si sçavoir mes desseins est son ordre supréme :
-Me voila prest, il peut m'interroger luy-mesme ;
-Pourquoy m'évite-t'il ? Si le sort⁎ envieux
-M'avoit fait en vaincu retourner dans ces lieux ;
-Dy moy que ferait-t'on de plus pour me confondre ?
-Enfin ce n'est qu'au Roy que je pretens répondre,
-Et je verray couler sans regret tout mon sang,
-Plûtost que de rien⁎ faire indigne de mon rang.
-Adieu.
-
-**** *book_ *id_II06 *act_ *date_1681
-
--*who_abendax
-      Vous le voyez ; une haine invincible
-A toutes vos bontez rend son coeur insensible :
-Hé bien pour vous marquer⁎, qu'il dedaigne vos soins⁎ ;
-En peut-il faire plus ?
-
--*who_zulemar
       En doit-il faire moins ?
 Quoy que de la douceur j'emprunte le langage,
 D'un ennemy toûjours il croit voir le visage,
@@ -793,19 +799,6 @@ Qu'il conservait encor la cruelle vertu ?
 Non, Abendax, il faut dévoiler ce mistere⁎ :
 Allons, il faut luy dire...
 
--*who_abendax
-      O Dieux ! qu'allez-vous faire ?
-Luy croyez-vous un coeur capable de pitié ?
-Pensez-vous triompher de son inimitié ;
-Enfin ignorez-vous qu'il adore Fatime,
-Il luy sacrifiera l'aveu de vostre estime.
-Quelle honte ! & le Roy pour comble de malheur,
-Apprenant vostre sort⁎ verra-t'il sans douleur,
-Qu'il a mis ses secrets dans le sein d'une fille⁎,
-Vous estes tout l'espoir d'une illustre famille ;
-Songez, si vous parlez dans quel triste embarras...
-
--*who_zulemar
 Mais Alamir se perd si je ne parle pas ;
 Sur son retour icy le Roy veut qu'il prononce.
 Si je vais raporter sa superbe⁎ réponse,
@@ -816,15 +809,6 @@ D'un Heros qu'elle outrage embrasser la défense...
 Elle seule, Abendax, peut calmer mon soucy :
 Viens, allons la trouver...Mais elle arrive icy.
 
-**** *book_ *id_II07 *act_ *date_1681 
-
--*who_fatime
-Du destin d'Alamir, Seigneur, daignez m'instruire ;
-Vous venez de le voir, que vous a-t'il pû dire,
-Aux volontez du Roy ? s'est-t'il enfin rendu ?
-Qu'en doit-t'on esperer ?
-
--*who_zulemar
       Madame, il est perdu.
 Et si dans ce moment vous n'obtenez sa grace,
 Rien ne peut arrester le coup qui le menace,
@@ -833,13 +817,6 @@ Parlez en sa faveur, prestez-luy vostre appuy ;
 Obtenez qu'il le voye, obtenez qu'il l'écoute,
 Privé de ce secours, il se perdra sans doute.
 
--*who_fatime
-Moy ? que pour Alamir j'aille parler au Roy ?
-Si le penchant secret que ce Prince a pour moy
-Luy fait tout accorder, si j'en obtiens ce gage,
-Songez-vous bien, Seigneur, où sa bonté m'engage ?
-
--*who_zulemar
 Rien n'est à ménager pour sauver un vainqueur,
 Dont son aveugle amour a fait tout le malheur.
 Le Ciel vous offre enfin un moyen infaillible,
@@ -851,38 +828,8 @@ Que l'amour qu'il ressent n'a plus rien qui vous touche ;
 Honteux de son erreur, privé de tout espoir,
 Alamir rentreroit bien-tost dans son devoir.
 
--*who_fatime
-Ah ! que me dites vous ? Quoy ma bouche cruelle
-L'accableroit encor d'une douleur mortelle :
-J'irois luy reveler mon infidelité ;
-Que me demandez-vous, à quelle extremité ?
-Portez-vous de mon coeur l'innocence tendresse ?
-Ah ! de grace, Seigneur, épargnez ma foiblesse !
-Moy luy dire son sort⁎, ignorante du mien ?
-Helas ! suis-je en état de l'instruire du sien ?
-Non il vaut mieux suivant ma triste destinée,
-Aller traîner ailleurs ma vie infortunée :
-De souffrir⁎ mon départ, je vais presser le Roy,
-Venez, Seigneur, venez vous joindre avecque moy.
-Icy par mon exil tout changera de face ;
-Alamir obtiendra facilement sa grace :
-L'équitable raison éclairera le Roy,
-Chacun sera content, tout sera calme : Et moy
-Je fuiray des regards que ma presence gesne⁎,
-Et qui sur moy, Seigneur, ne tombent qu'avec peine.
-
--*who_zulemar
 Madame....
 
--*who_fatime
-      Au nom des Dieux ne me resistez pas,
-Je sçay que ce dessein avance mon trépas ;
-Mais cette vie, helas ! que chacun tient si chere ,
-Ne me plaisoit qu'autant qu'elle pouvoit vous plaire ;
-Et puis que rien en vous ne flatte mon espoir,
-Je vais priver mes yeux du plaisir de vous voir.
-
--*who_zulemar
 Helas ! quelle est la fin que le sort⁎ me destine !
 Le Ciel détruit toûjours tout ce que j'imagine !
 Mais ne la quitons pas, profitons de l'erreur
@@ -893,9 +840,6 @@ Trompons-là, tout est juste, & tout est glorieux,
 Pour sauver du trépas ce qu'on aime le mieux.
 Fin du second Acte.
 
-**** *book_ *id_III01 *act_ *date_1681 
-
--*who_zulemar
 Oüy tu verras changer le destin qui m'accable;
 Fatime à mes desseins veut estre favorable,
 A flatter son amour j'ay long-temps balancé,
@@ -924,9 +868,6 @@ Fier, inflexible, exempt de honte, de bassesse,
 Et dont l'amour enfin est l'unique foiblesse :
 Mais j'entens Alamir : c'est luy, retire toy.
 
-**** *book_ *id_III02 *act_ *date_1681
-
--*who_zulemar
 Seigneur dans un moment vous allez voir le Roy,
 J'ay flechy son esprit, j'ay vaincu sa colere,
 Et s'il vous parle enfin ce n'est qu'à ma priere.
@@ -950,42 +891,380 @@ Mais les Princes, Seigneur, que l'équité soûtient,
 Veulent estre absolus, vous le sçavez. Il vient
 Je vous laisse.
 
-**** *book_ *id_III03 *act_ *date_1681
+      Arrestez.
+Osmar. Je viens, Seigneur, vous offrir vostre grace.
 
--*who_alamir
+Que vous estes injuste ! Hé ! que faut-t'il donc faire ?
+Pour vous prouver un zele⁎, une amitié⁎ sincere :
+Mais contre moy, Seigneur, avant que d'éclater,
+Voyez ce que je fais, & daignez m'écouter.
+L'amour, vous le sçavez est vostre unique crime,
+Pour vous rendre innocent, renoncez à Fatime :
+Faites plus, pour calmer tous les soupçons du Roy,
+A quelque autre Princesse engagez vostre foy.
+Il en est de mon sang une qui vous adore,
+Une que l'Univers ne connoist point encore ;
+Qui sous un autre nom élevée en ces lieux,
+Cachée à tous, n'a pû se cacher à vos yeux.
+Vous avez dans son cœur fait naistre une tendresse,
+Qui dans tous vos malheurs malgré vous l'interesse.
+Elle vous voit souvent, & preste⁎ à vous parler,
+De crainte⁎ en vous voyant, elle se sent troubler.
+Son nom haï de vous, la glace, l'épouvante,
+Et retient son aveu sur sa levre tremblante :
+Mais ses yeux attachez à vous considerer,
+Son ame en ses discours facile à s'égarer,
+Son trouble, mille soins que l'on ne peut comprendre,
+Tout vous dit son amour si vous voulez l'entendre⁎.
+Seigneur si vous sçaviez ce qu'elle sent pour vous…
+
+Ah ! Seigneur apprenez….
+
+Tu seras satisfait : Qu'on l'oste de ces lieux,
+Je ne vous retiens plus. Gardes qu'on le saisisse ;
+Vous avez l'ordre, Osmar, faites qu'on obeïsse.
+
+Va, cours, marche au devant d'un trépas asseuré
+Prince indigne du sort qui t'estoit preparé :
+Mal-heureuse, j'allois pleine de ma tendresse,
+Luy découvrir mon sexe, avoüer ma foiblesse.
+Que dis-je, tout mon sort⁎ est déjà revelé,
+Il a veu mon desordre, & mes yeux ont parlé.
+Mais enfin, Abendax, à moy-mesme renduë,
+Et d'un juste dépit desormais soûtenuë :
+J'aspire à me venger de ces cruels mépris,
+D'un mal-heureux amour seul & funeste prix :
+Je vais presser du Roy l'implacable colere,
+L'irriter, l'animer contre ce temeraire,
+Sacrifier l'ingrat à ma juste fureur :
+Dussay-je après sa mort expirer de douleur.
+Fin du troisième Acte.
+
+      Seigneur.
+
+Qu'il meure ?
+
+      Qu'entens-je ?
+Les Dieux m'en sont témoins, plus animé que vous
+Je venois en ces lieux presser vostre couroux,
+Accuser Alamir, demander son supplice,
+J'en ay trop de raisons ; mais s'il faut qu'il perisse,
+Qu'il soit mieux convaincu de ses propres forfaits,
+Ne le punissez point de ceux qu'il n'a pas faits :
+Si Fatime s'oppose à vostre ordre supréme,
+Il en est innocent, ce n'est point luy qu'elle aime ;
+Ce n'est point luy, Seigneur, qui l'enleve à son Roy.
+Connoissez le coupable, & l'accablez : C'est moy.
+Oüy, Seigneur, c'est pour moy qu'à vos desirs rebelle…
+
+      Seigneur, je n'en suis point troublé,
+Des malheurs⁎ inconnus je suis trop accablé :
+Pour voir avec frayeur une mort necessaire,
+Qui peut seule finir ma honte & ma misere,
+Je ne vous diray point que sans rendre de soins,
+On est aimé souvent lors qu'on le veut le moins,
+Qu'on aime quelquefois ce qu'il faut qu'on haïsse,
+Et que rien de l'amour ne regle le caprice :
+Je ne m'excuse point, j'ay traversé vos feux,
+J'ay fait vostre malheur sans pouvoir estre heureux.
+Seigneur, punissez-moy, perdez un miserable,
+Dans le fonds de mon cœur je suis assez coupable :
+Si vous sçaviez quel est mon destin, mon amour
+Vous avoüeriez…Seigneur, vous le sçaurez un jour.
+Je mourray de l'amour deplorable victime,
+Trop content si ma mort peut effacer mon crime,
+Calmer tous vos soupçons, enfin rendre à son Roy,
+Un Heros à l'Etat plus utile que moy.
+
+Tu le vois, Abendax, tout se détruit, tout passe,
+Il n'est point de grandeur qu'un seul revers n'efface,
+Qui t'eust dit que si-tost du comble des honneurs,
+Zulemar dût tomber dans ce gouffre d'horreurs,
+Tu ne l'aurois pas crû.
+ 
+Helas ! de tant d'amis qui tenoient tout de moy,
+Ma disgrace aujourd'huy ne me laisse que toy.
+Tout rit au favory, tout brille dans sa vie,
+Tant que sa faveur dure il fait taire l'envie ;
+Mais d'abord que la main qui luy servoit d'appuy,
+Retire les honneurs qu'elle versoit sur luy,
+Sa chute ouvre aussi-tost un chemin à l'audace,
+Pour attaquer sa vie, & disputer⁎ sa place.
+Mes honneurs, mes employs⁎ sont des biens superflus,
+Je meurs, & dans deux jours on n'y songera plus.
+
+Ne me demande point raison de ma conduite ;
+Que sçay-je dans l'état où les Dieux m'ont reduite ?
+J'aime, je voy perir ce que j'aime, il suffit,
+Je ne me repens point de tout ce que j'ay dit.
+
+      Garde-toy de découvrir mon sort⁎
+Abendax ne mets point d'obstacles à ma mort
+Veux-tu que de ma main moy-mesme miserable…
+Non laisse-moy mourir sans que j'en sois coupable.
+Hé quoy, pourrois-tu voir mon nom deshonoré,
+Par un indigne amour qui seroit averé :
+S'il te souvient encor des bontez de mon pere,
+Songe que son honneur t'ordonne de te taire ;
+Si tu m'aimes, enfin, il faut me le prouver
+En ne t'obstinant point à vouloir me sauver,
+Souffre que le tombeau cache une mal-heureuse,
+Qui ne peut étouffer une flâme honteuse.
+Puissay-je ne laisser aucun nom après moy,
+Et puisse mon secret mourir avecque toy.
+Mais, qu'est-ce qu'on nous veut ?
+
+La mort, l'affreuse mort par qui tout se fait craindre,
+Est si douce pour moy que je ne puis m'en plaindre.
+Madame elle finit des jours infortunez,
+Qu'à d'éternels ennuis⁎, les Dieux ont condamnez
+Aux volontez du Roy cessez d'estre rebelle,
+Il vous offre sa main, son thrône vous appelle,
+Sans plaindre un mal-heureux qu'on ne peut secourir :
+Allez prendre le sceptre, & laissez-moy mourir.
+
+      Oüy, Madame,
+Ce trépas justement prononcé par le Roy,
+Je vous l'ay déjà dit n'a rien d'affreux pour moy :
+Si de quelque douleur mon ame est attendrie,
+Si je verse des pleurs, ce n'est point pour ma vie :
+Helas ! c'est de me voir dans un obscur tombeau ;
+Sous une cendre froide éteindre un feu si beau.
+De mourir sans avoir exprimé la tendresse…
+Pardonnez-moy, Madame, encor cette foiblesse ;
+Au moment où je doy me taire pour jamais,
+Ma confiance n'est point au dessus des souhaits.
+Mais c'est en ma faveur obscurcir trop de charmes ;
+Je ne merite point vos precieuses larmes :
+Perdez d'un malheureux le triste souvenir ;
+Allez prendre le Sceptre, & laissez moy mourir.
+
+      Qu'allez-vous faire ?
+Elle me quitte & va reculant mon trépas,
+M'exposer par la feinte à de nouveaux combats.
+Grands Dieux ! sur mes malheurs⁎ plus je jette la veuë,
+Plus je n'y voy pour moy qu'une funeste issuë ;
+Et tel est de mes jours l'astre pernicieux…
+Mais que vois-je ? Alamir se presente à mes yeux,
+Quel sujet le conduit⁎, quel mouvement le presse :
+O Dieux, dans ce moment soûtenez ma foiblesse.
+
+Alamir, quel dessein porte vers moy tes pas,
+Viens-tu comme ennemy joüir de mon trépas,
+Etaller à mes yeux ton triomphe, & ta joye ?
+
+Je ne connois que trop où mon amour m'engage,
+Je cherche à m'en guerir, je mets tout en usage ;
+Mais pour vaincre un amour aussi fort que le mien,
+Les Dieux ne m'ont pas fait un cœur comme le tien.
+
+Helas !
+
+Sçay-tu ce que tu fais en me pressant de vivre ?
+Je vivrois pour servir d'obstacle à tes plaisirs⁎,
+Pour contraindre ton cœur, pour forcer tes desirs,
+Pour suivre les transports qu'en mon cœur tu fais naistre,
+Pour te persecuter, pour te haïr peut-estre.
+
+      Hé ! le puis-je cruel ;
+Pour m'opposer sans cesse une fierté barbare,
+En laisse-tu moins voir la vertu qui te pare :
+En es-tu moins aimable, & mon coeur mal-heureux
+S'abandonne-t'il moins à l'ardeur de ses feux :
+Car enfin ce Rival, ce chef d'une famille
+Que tu poursuis ; aprens que ce n'est qu'une fille⁎.
+Seul reste infortuné des mal-heureux Zegris,
+Qui s'offre à tes regards sous ces tristes habits.
+
+      En vain dés ma naissance,
+Instruite des raisons d'une juste vangeance,
+L'esprit plein contre-toy de projets ennemis.
+Je partis pour ces lieux, j'arrivay, je te vis,
+Tu revenois vainqueur & tout couvert de gloire⁎ :
+Ma haine en ce moment sortit de ma memoire ;
+Mon cœur sourd aux raisons qui devoient l'animer,
+Ne sceut plus en trouver, helas ! que pour t'aimer !
+Plus que tu ne me hais, ce cœur t'aime, t'adore ;
+Je ne m'en repens point, je te le dis encore :
+Une fois pour toûjours laisse moy m'enyvrer,
+Du funeste plaisir de te le declarer.
+Car enfin ne croy pas que par toy méprisée,
+Je veüille d'une Cour devenir la risée,
+Après que si long-temps cet habit mal-heureux,
+M'en a veu recevoir & l'encens & les vœux,
+Je ne souffriray point la douleur qui me tuë,
+Tu seras pour jamais délivré de ma veuë.
+Oüy, ma mort est certaine, & j'y cours sans effroy :
+Heureuse, puis qu'au moins tu sçais que c'est pour toy.
+
+Ah ! barbare est-ce là ce qui doit t'occuper,
+Au moment qu'à tes yeux étonnée⁎ & tremblante,
+Je ne puis retenir une ardeur violente :
+Quand pour te garantir je m'expose au trepas,
+Quand je t'offre mon cœur, tu ne m'écoutes pas :
+Me fais-tu voir au moins que mon malheur te touche ;
+En laisse-tu sortir un soûpir de ta bouche ?
+Tes superbes⁎ regards qui me glacent d'effroy,
+Daignent-ils par pitié s'abaisser jusqu'à moy ?
+Daigne-tu voir mes pleurs, hélas ! infortunée…
+Mais que vois-je ? déja m'auroit-on condamnée.
+
+Qu'est-ce, Osmar.
+
+Seigneur, après l'abus commis aux yeux de tous ;
+De quel front⁎ puis-je icy paroistre ?
+
+
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alamir
+
+Non, ne nous flattons point d'une vaine esperance,
+Plus mes exploits sont grands, plus mon retour l'offense ;
+J'ay vaincu, mais je viens sans son ordre en ces lieux,
+Et je ne montre enfin qu'un coupable à ses yeux,
+Je ne m'aveugle point sur ma triste conduite,
+Je sçay quel est mon crime, & j'en prevoy la suite ;
+Mais qu'il me fasse grace, ou m'envoye à la mort,
+Je verray du mesme œil & l'un & l'autre sort⁎.
+
+Non, le trouble où tu vois que mon cœur s'abandonne,
+N'est point d'un mal-heureux que le suplice étonne⁎ ;
+Mais de tant d'ennemis, triomphant & vainqueur,
+Puis-je me regarder moy-mesme sans douleur ?
+Lors qu'il faut qu'un pardon honteux à ma memoire,
+Soit pour sauver mes jours le prix de ma victoire,
+Vous qui prenez plaisir à former de vos mains
+Quelques mortels plus grands que les autres humains.
+A quelles passions, Dieux ! à combien d'outrages.
+Sans cesse exposez-vous vos plus nobles ouvrages.
+Gazul on nous éleve au rang des immortels,
+Par tout à nos vertus on dresse des Autels,
+Mais Helas ! tost ou tard nous détrompons les hommes,
+Et toûjours quelque foible aprend ce que nous sommes :
+De cette triste Loy, moy-mesme à nos neveux⁎,
+Cher amy, je vais estre un exemple fameux,
+J'abandonne l'Armée, & je trahis ma gloire,
+Pour des raisons qu'un jour on aura peine à croire.
+
+Tu fais à ma foiblesse encore trop d'honneur,
+L'ambition n'est pas ce qui trouble mon cœur :
+Je suis, je l'avoüeray jaloux de cette gloire⁎,
+Qui fait vivre à jamais les grands noms dans l'Histoire.
+Dés ma plus tendre enfance ennemy du repos,
+Je me suis proposé l'exemple des Heros,
+Pour la faveur des Roys qu'au gré de leurs caprices,
+Ils accordent souvent à de legers services ;
+J'en cede l'avantage aux moindres Courtisans,
+Qui sçavent mieux que moy prodiguer leurs encens :
+Je n'ay point crû flatté d'un espoir temeraire,
+Estre seul à l'Etat, & toujours necessaire
+Pour commander l'Armée, & dispenser ses Loix.
+Le Roy peut honorer Zulemar de son choix,
+On ne me verra point par de secretes brigues⁎,
+De l'heureux Favory détruire les intrigues ;
+Son credit n'aura rien de chagrinant⁎ pour moy,
+Et ma seule vertu me tiendra lieu d'employ⁎,
+Tels sont mes sentiments, telle est ma politique,
+Et je pense en effet ce que ma bouche explique.
+Cependant ce cœur plein de ces grands sentimens,
+A toutes les erreurs des plus foibles Amans ;
+Oüy, dans ces lieux, Gazul, c'est l'amour qui m'entraîne,
+Captif, trop glorieux pour une telle chaîne.
+
+      Non, je ne rougis pas
+D'avoir d'une Princesse adoré les appas :
+Il n'est point de vertu que l'amour ne surmonte,
+Fatime m'ecoutoit, j'ay pû l'aimer sans honte,
+Mais que l'amour sur moy prenne tant de pouvoir,
+Qu'une crainte⁎, un soupçon m'arrache à mon devoir,
+C'est-là le seul moyen que je preste à l'envie⁎,
+Pour ternir quelque jour tout l'éclat de ma vie.
+
+Quelque affreux changement qu'aporte mon retour,
+Vous me voyez, Madame, avec le mesme amour ;
+L'honneur de vous revoir est le seul où j'aspire
+Heureux, & plus heureux que je ne vous puis dire ;
+Si de ce prompt retour vous aprouvez l'ardeur,
+Et si je vous retrouve avec le mesme cœur.
+
+      Jusqu'icy j'ay tout fait pour la gloire,
+Madame, aprés avoir asseuré ma memoire :
+Cherchant à respirer, ne pourray-je un moment
+Paroistre moins vainqueur, pour estre plus Amant.
+
+      Que je vous aime.
+L'Amour a fait mon crime, il me justifiera.
+
+Le vostre ne l'est point, que voudrois-je de plus ?
+Deussay-je en cette Cour trouver la mort certaine,
+D'eust m'accabler le Roy d'une implacable haine,
+Quand je verrois pour moy tous les coeurs sans pitié,
+Rien ne m'affligeroit que votre inimitié ;
+Certain de vos bontez sur qui je me repose,
+Quoy que fasse le Ciel contre moy, quoy qu'il ose,
+J'ay tant de confiance en vous, en vostre foy :
+
+Ah! Gazul, mon soupçon n'est que trop veritable,
+Lors qu'un bruit incertain m'aprit qu'en cette Cour,
+Un Rival dangereux traversoit mon amour :
+De ses premiers transports mon ame revenuë,
+Zulemar fut le seul qui s'offrit à ma veuë ;
+Son credit prés du Roy, ses nouvelles grandeurs,
+Cette haine, Gazul, qui divise nos coeurs,
+Tout me le dit, percé d'une douleur trop vive,
+J'abandonne mon camp, ma gloire⁎, tout, j'arrive,
+Ce soupçon par Fatime est enfin confirmé,
+N'en doutons point, il l'aime.
+
+      De l'amour la foiblesse est commune ;
+Les yeux les mieux fermez s'ouvrent à la fortune⁎,
+D'un Favory naissant, l'éclat est seducteur,
+Mais je connois Fatime, & répons de son coeur,
+Son trouble, ses regards, ses discours, son silence,
+Tout m'apprend les combats rendus en mon absence,
+Pour me garder un cœur qu'elle sçait qui m'est dû,
+Mais allons cher Gazul, où je suis attendu :
+Quoy que de Zulemar le pouvoir soit extréme,
+Mes exploits prés du Roy parleront pour moy-méme,
+Il me rendra l'estime acquise à mon devoir.
+Entrons.
+
+A moy ?
+
+A cette indignité, Dieux, me reserviez-vous ?
+Quand viendra-t'il ?
+
+Zulemar, car enfin éloigné de ces lieux,
+Je n'ay point encor sceu tes titres glorieux.
+Le Roy pour mon retour prevenu de colere,
+De son pouvoir sur moy t'a fait depositaire :
+Tu le dis, mais enfin pour m'offrir ton secours.
+Pour te voir en effet l'arbitre de mes jours,
+Aprens moy quels explois t'ont rendu  remarquable ?
+Et qu'a fait jusqu'icy ton bras de memorable ?
+De cent jeunes beautez qui brillent à la Cour ;
+Frivole adorateur tu sçais faire l'amour⁎ ;
+Et c'est enfin sur quoy tout ton orgueil se fonde.
+Mais puis qu'à tes bontez il faut que je réponde :
+Ecoute & suis l'avis que je vais te donner,
+A m'offrir ton appuy cesse de t'obstiner,
+Ton indigne pitié me feroit trop d'outrage,
+Montre-toi vray Zegri, contre un Abincerrage ;
+L'honneur le plus certain & le plus grand pour toy,
+C'est d'estre l'ennemy d'un homme tel que moy.
+
+      Rien.
+Si sçavoir mes desseins est son ordre supréme :
+Me voila prest, il peut m'interroger luy-mesme ;
+Pourquoy m'évite-t'il ? Si le sort⁎ envieux
+M'avoit fait en vaincu retourner dans ces lieux ;
+Dy moy que ferait-t'on de plus pour me confondre ?
+Enfin ce n'est qu'au Roy que je pretens répondre,
+Et je verray couler sans regret tout mon sang,
+Plûtost que de rien⁎ faire indigne de mon rang.
+Adieu.
+
       Seigneur...
 
--*who_abderamen
-      Observez le silence,
-Alamir ; vostre orgueil demande ma presence,
-Je l'accorde, je fais ce que vous souhaitez,
-Mais avant qu'expliquer vos raisons, écoutez.
-Vous estes grand, fameux, mille exploits pleins de gloire
-Affleurent de vos jours l'éclatante memoire.
-Vous avez crû peut-estre en violant les Loix ;
-Qu'elles devoient se taire au bruit de vos exploits :
-Mais non, plus les sujets sont prés des Diadémes
-Plus un devoir exact doit regner sur eux-mesmes.
-De l'Univers entier observez ; c'est sur eux
-Que les Roys pour donner des exemples fameux
-Avec plus de splendeur signalent leurs puissances,
-Par des punitions ou par des récompenses.
-Si j'avois voulu croire un trop juste couroux,
-Vostre retour m'offroit ce grand exemple en vous ;
-Mais vos rares vertus, & ma reconnoissance
-Avoient de mes transports calmé la violence,
-Sans examiner rien je vous faisois partir,
-Il ne vous en auroit cousté qu'un repentir :
-Vous n'avez pas daigné profiter de ma grace,
-Au contraire à cet offre augmentant vostre audace,
-Vous avez demandé fierement à me voir.
-Me voicy ; vostre sort⁎ n'est plus en mon pouvoir,
-Aux Loix de mon Etat il faut que j'obeïsse,
-Que je vous récompense, ou que je vous punisse.
-Voila ce qu'ont produit vos desirs imprudens⁎,
-Il suffit ; à presant parlez, je vous entens.
-
--*who_alamir
 Seigneur, je ne veux point chercher pour ma défense
 Tout ce qui peut icy demander ma presence ;
 J'aurois mille raisons pour me justifier,
@@ -1023,38 +1302,12 @@ C'est vous seul, c'est son Roy qu'en nous il considere,
 Et qui d'un Favory veut bien suivre les loix,
 D'un mal-heureux banny meconnoitroit la voix.
 
--*who_abderamen
-De ces vaines couleurs je croy peu l'apparence ;
-Mais de tous vos desseins je connois l'innocence :
-Alamir mon esprit étouffe les soupçons,
-Et cede à la bonté plûtost qu'à vos raisons ;
-Je répandray sur vous tant de biens, tant de gloire⁎
-Que de vostre disgrace on perdra la memoire :
-Mais suivy desormais du Peuple & des Soldats,
-Que vous verrez marcher en foule sur vos pas,
-Dés ce jour mesme, allez rejoindre mon Armée
-Et faites pour mon choix parler la renommée⁎.
-
--*who_alamir
 Par une grace encor daignez combler mes vœux :
 La Princesse Fatime est l'objet de mes feux⁎,
 Permettez qu'à jamais une foy mutuelle...
 
--*who_abderamen
-Elle est digne de vous, vous estes digne d'elle
-Vous meritez sans doute un objet si charmant ;
-Alamir, mais le Ciel en dispose autrement,
-Et pour vous dire tout, une loy souveraine,
-Pour jamais vous separe, & la fait vostre Reine.
-
--*who_alamir
 Quoy, Seigneur…
 
--*who_abderamen 
-      Je l'épouse étouffant vostre espoir,
-Ce n'est plus qu'en sujet que vous la devez voir.
-
--*who_alamir
 Surpris, saisi, frapé⁎ de ce que j'entens dire,
 Dans mon étonnement⁎ à peine⁎ je respire :
 Vous mon Rival, c'est vous qui m'enlevez la foy…
@@ -1064,19 +1317,6 @@ Des inhumaines Loix à mon respect prescrites :
 Permettez-moy d'aller dans de sauvages lieux
 Me plaindre en liberté de mon sort⁎ et des Dieux.
 
--*who_abderamen
-J'ay preveu vos douleurs, j'en ay senty l'atteinte,
-Pour fermer contre moy vostre bouche à la plainte,
-Long-temps à mes désirs je me suis opposé :
-Mais j'aime, je suis Roy. Dieux ! qu'il est mal aisé,
-Lors que l'amour sur nous regne avec violence,
-De ne se pas servir de toute sa puissance⁎ ;
-Mais enfin pour m'oster le nom de Prince ingrat,
-Alamir disposez, de moy, de mon Etat,
-Souhaitez, demandez, épuisez ma puissance⁎,
-Il n'est rien au dessus de vostre récompense.
-
--*who_alamir
 Qu'ay-je affaire, Seigneur, de rang, de dignitez ?
 Et quel bien peut payer le cœur que vous m'ostez ?
 Fatime est l'objet seul pour qui j'aimois la vie,
@@ -1088,14 +1328,6 @@ Si je perdois aussi tout le soin de ma gloire,
 Chef de tant de Soldats, & tant de fois vainqueur,
 Qu'aisement je pourrois meriter mon malheur. 
 
--*who_abderamen 
-Je vous entens, je voy ce que vous pouvez faire.
-Je sçauray profiter de cet aveu sincere.
-Pensez-y.
-
-**** *book_ *id_III04 *act_ *date_1681
-
--*who_alamir
       Qu'ay-je à craindre en l'état où je suis :
 Est-il quelques malheurs plus grands que mes ennuys⁎ ?
 Mon maistre est mon Rival, il m'enleve Fatime :
@@ -1107,18 +1339,6 @@ De tout ce qu'elle doit à ma flâme, à sa gloire,
 Je la connois ; certain que ses vœux sont pour moy.
 Je me tiens beaucoup moins infortuné que toy.
 
-**** *book_ *id_III05 *act_ *date_1681
-
--*who_fatime
-Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte.
-Le front triste, la veüe égarée, interdite,
-Ses regards menaçans où regne la fureur.
-Aux cœurs les plus hardis impriment la terreur,
-Que je crains pour vos jours, l'orage qui s'apreste
-De ces terribles coups détournez vostre teste,
-Encor un coup⁎ quittez ces détestables lieux.
-
--*who_alamir
 Non, Madame, il m'est doux de mourir à vos yeux,
 Pour rendre à mes regards, ce sejour⁎ formidable⁎,
 Pour me faire quitter cette Cour détestable,
@@ -1129,12 +1349,6 @@ Mais tant que je seray seur de vostre tendresse,
 On ne me verra point inquieté, surpris,
 Fuir, craindre des malheurs, dont Fatime est le prix.
 
--*who_fatime
-Seigneur, de tous les soins que l'amour vous suggere,
-Le plus pressant pour vous, & le plus salutaire,
-C'est de partir.
-
--*who_alamir
       Hé bien, Madame, je vous croy ;
 Vous l'ordonnez, je parts, mais partez avec moy.
 Venez suivant l'amour que l'honneur authorise,
@@ -1148,30 +1362,6 @@ Vous suivrez un Epoux approuvé par les Dieux :
 Pourquoy craindre, pourquoy soubçonner ma conduite.
 Ma Princesse, parlez.
 
--*who_fatime
-      Où me vois-je reduite ?
-Grands Dieux ! que mon destin est affreux, est cruel ;
-Quand la honte m'impose un silence éternel,
-Le tyrannique honneur me défend de me taire,
-L'un & l'autre à mon cœur parle d'un ton severe ;
-Mais de mille malheurs⁎ dust le Ciel m'accabler,
-Le peril est trop grand, trop proche, il faut parler :
-Sortez, Seigneur, sortez de l'erreur où vous estes ;
-Apprenez qui je suis, voyez ce que vous faites :
-Cessez de fuir pour moy tant de prosperitez,
-Rebelle à vos desirs, ingrate à vos bontez ;
-Indigne pour jamais du feu qui vous anime ;
-Je ne merite plus vos vœux ny vostre estime.
-Les Dieux, les cruels Dieux jaloux de mon bonheur,
-Se sont fait un plaisir de verser dans mon cœur
-Un poison, dont soudain la funeste puissance
-A noircy de mes jours, a détruit l'innocence.
-L'état où je vous voy m'arrache cet aveu
-Oubliez tout de moy, jusqu'à mon nom : Adieu.
-
-**** *book_ *id_III06 *act_ *date_1681
-
--*who_alamir
 Où suis-je, juste Ciel ! L'ay-je bien entenduë⁎?
 Fatime se declare infidelle à ma veuë.
 Des malheurs⁎ que tâchoient de prevenir mes soins :
@@ -1179,37 +1369,14 @@ Helas ! voila celuy que je craignois le moins !
 Lors que je la croyois de moy seul occupée.
 La cruelle…
 
-**** *book_ *id_III07 *act_ *date_1681 
-
--*who_osmar
-      Seigneur, donnez moy vostre épée :
-C'est par l'ordre du Roy.
-
--*who_alamir
       Mon épée ?
 
--*who_osmar
-      Oüy, Seigneur.
-
--*who_alamir
 A quel trouble honteux s'abandonne mon cœur !
 Tenez.
 
--*who_osmar
-      C'est malgré moy qu'un ordre qui m'accable,
-Fait passer dans mes mains ce fer si redoutable.
-
--*who_alamir
 Il suffit, je rends grace, Osmar, à vos bontez.
 Marchez, conduisez⁎-moy, je vous suis.
 
-**** *book_ *id_III08 *act_ *date_1681 
-
--*who_zulemar
-      Arrestez.
-Osmar. Je viens, Seigneur, vous offrir vostre grace.
-
--*who_alamir
 Tu me braves encor : Poursuis dans cette audace.
 L'ordre de m'arrester est conduit⁎ prudemment⁎.
 Si tu l'avois osé devancer d'un moment,
@@ -1218,32 +1385,6 @@ Le soin qu'auprés du Roy tu prens de ma personne.
 Si j'estois libre enfin, ton insolente voix
 Ne m'insulteroit pas une seconde fois.
 
--*who_zulemar
-Que vous estes injuste ! Hé ! que faut-t'il donc faire ?
-Pour vous prouver un zele⁎, une amitié⁎ sincere :
-Mais contre moy, Seigneur, avant que d'éclater,
-Voyez ce que je fais, & daignez m'écouter.
-L'amour, vous le sçavez est vostre unique crime,
-Pour vous rendre innocent, renoncez à Fatime :
-Faites plus, pour calmer tous les soupçons du Roy,
-A quelque autre Princesse engagez vostre foy.
-Il en est de mon sang une qui vous adore,
-Une que l'Univers ne connoist point encore ;
-Qui sous un autre nom élevée en ces lieux,
-Cachée à tous, n'a pû se cacher à vos yeux.
-Vous avez dans son cœur fait naistre une tendresse,
-Qui dans tous vos malheurs malgré vous l'interesse.
-Elle vous voit souvent, & preste⁎ à vous parler,
-De crainte⁎ en vous voyant, elle se sent troubler.
-Son nom haï de vous, la glace, l'épouvante,
-Et retient son aveu sur sa levre tremblante :
-Mais ses yeux attachez à vous considerer,
-Son ame en ses discours facile à s'égarer,
-Son trouble, mille soins que l'on ne peut comprendre,
-Tout vous dit son amour si vous voulez l'entendre⁎.
-Seigneur si vous sçaviez ce qu'elle sent pour vous…
-
--*who_alamir
 Qui moy ? d'une Zegri je deviendrois l'époux ?
 Eust-elle à me donner tout l'Empire du monde,
 En esprit, en beauté, fust-elle sans seconde⁎ ;
@@ -1254,336 +1395,10 @@ Une haine invincible, une horreur éternelle :
 Que dis-je, en écoutant l'offre que tu m'en fais,
 Je la déteste encor plus que je ne te hais.
 
--*who_zulemar
-Ah ! Seigneur apprenez….
-
--*who_alamir
       Je ne veux rien apprendre.
 Assez, & trop long-temps j'ay souffert à t'entendre⁎.
 Gardes delivrez-moy d'un objet odieux.
-
--*who_zulemar
-Tu seras satisfait : Qu'on l'oste de ces lieux,
-Je ne vous retiens plus. Gardes qu'on le saisisse ;
-Vous avez l'ordre, Osmar, faites qu'on obeïsse.
-
-**** *book_ *id_III09 *act_ *date_1681 
-
--*who_zulemar
-Va, cours, marche au devant d'un trépas asseuré
-Prince indigne du sort qui t'estoit preparé :
-Mal-heureuse, j'allois pleine de ma tendresse,
-Luy découvrir mon sexe, avoüer ma foiblesse.
-Que dis-je, tout mon sort⁎ est déjà revelé,
-Il a veu mon desordre, & mes yeux ont parlé.
-Mais enfin, Abendax, à moy-mesme renduë,
-Et d'un juste dépit desormais soûtenuë :
-J'aspire à me venger de ces cruels mépris,
-D'un mal-heureux amour seul & funeste prix :
-Je vais presser du Roy l'implacable colere,
-L'irriter, l'animer contre ce temeraire,
-Sacrifier l'ingrat à ma juste fureur :
-Dussay-je après sa mort expirer de douleur.
-Fin du troisième Acte.
-
-**** *book_ *id_IV01 *act_ *date_1681 
-
--*who_zindarize
-Ouy, Madame, avec soin les portes sont gardées
-D'armes & de Soldats, les places sont bordées,
-Les Courtisans confus, les Ministres troublez,
-Les Princes interdits, les Juges assemblez.
-Le Roy mesme inquiet fuyant l'aspect du monde,
-Jette dans les esprits une terreur profonde.
-Il marche environné de chefs & de Soldats.
-Un gros⁎ de Senateurs accompagne ses pas,
-Tristes, épouvantez, leurs visages severes
-N'ont point de leur vertu les marques ordinaires.
-Ces mortels redoutez qui tiennent dans leurs mains,
-La puissance⁎ des Roys, & le sort des humains,
-Semblent craindre aujourd'huy l'ordre qui les assemble :
-Tout garde le silence, autour du Roy tout tremble.
-Au milieu de la place un échafault dressé,
-Attire les regards d'un grand Peuple amassé,
-Qui paslit, & qui craint de voir tomber la teste,
-Que menace aujourd'huy cette horrible tempeste.
-De ses propres employs⁎ abandonnant le soin,
-Chacun de ce grand jour veut estre le témoin.
-Tout fremit : Cependant parmi cette tristesse
-On voit encor briller des marques d'allegresse.
-Les Temples sont ouverts, les Autels sont ornez :
-Les Prestres revêtus, & de fleurs couronnez,
-Etallent l'appareil des plus celebres Festes ;
-L'encens fume par tout, les victimes sont prestes.
-D'un juste étonnement⁎ les esprits occupez,
-Sur tant d'objets divers dont les yeux sont frappez,
-En discours superflus se lassent & s'épuisent,
-Inventent des raisons qu'aussi-tost ils detruisent,
-Et plus à s'éclaircir ils veulent s'éforcer,
-Plus ils trouvent d'horreurs qu'ils ne sçauroient percer.
-
--*who_fatime
-Pour quel dessein fait-on des apprests si contraires,
-Et qui m'expliquera ces funestes misteres⁎ :
-Qui livrent mon esprit à de cruels soupçons ?
-
--*who_zindarize
-Seul de tous ses projets le Roy sçait les raisons,
-Le secret fut toûjours sa grande politique ;
-Mais il vient : Avec vous, faites qu'il s'en explique.
-
-**** *book_ *id_IV02 *act_ *date_1681 
-
--*who_abderamen
-Tandis que mes Sujets sont dans l'étonnement⁎,
-Et d'un jour si pompeux craignent l'évenement⁎ :
-Souffrez que sans témoins je vous parle, Madame,
-Et vous découvre icy les secrets de mon ame.
-Je vous aime : Mes soins, mes regards, mes soûpirs,
-Ont malgré moy sans doute expliqué mes desirs ;
-Mais jusqu'icy ma bouche auprés de vous muete,
-D'aujourd'huy seulement en devient l'interprete.
-Non qu'une crainte indigne, & de vous & de moy,
-Ait pû vous disputer⁎ l'amour de vostre Roy :
-Mais comme l'Etat doit regler nos hymenées,
-Les passions des Roys sont toûjours soupçonnées :
-Lors qu'aucun interest n'apuyant leurs projets,
-On les voit adorer le sang de leurs Sujets.
-J'ay craint qu'on n'imputast mes plus tendres hommages⁎,
-Au fol empressement de ces ardeurs volages,
-Qui ne font naistre en nous que d'injustes desirs,
-Et qui n'ont pour objet que de foibles plaisirs⁎.
-Madame à vostre Roy vostre gloire⁎ estoit chere,
-Je me suis fait pour elle une loy de me taire.
-Je parle maintenant, & veux que ce grand jour
-Par un heureux hymen, vous prouve mon amour.
-
--*who_fatime 
-Seigneur de vos projets, étonnée⁎, interdite,
-Je ne puis vous cacher le trouble qui m'agite,
-Tant de soins, tant d'honneurs que je n'attandois pas…
-
--*who_abderamen
-Je penetre⁎ aisement d'où naist vostre embaras :
-Pour le sort d'Alamir dont le cœur vous adore,
-Une juste pitié vous sollicite encore.
-Vos regards attendris n'envisagent mon rang,
-Que comme un triste honneur cimenté de mon sang.
-Vous avez pû sçavoir que sa coupable audace,
-Desormais devant moy ne trouve plus de grace.
-Que la mort va l'oster du nombre des humains :
-Mais n'apprehendez rien, sa grace est en vos mains :
-Oüy, lors qu'à mon destin vous allez estre unie,
-Je veux qu'en vous perdant il vous doive la vie,
-Et qu'ainsi le pardon d'un fameux criminel,
-Attache à vostre regne un honneur éternel.
-Je vous ay reservé cette grace éclatante :
-Connoissez le bonheur que le sort vous presente.
-Combien est-il de Roys comblez d'ans & d'honneurs,
-Qui par mille bontez ont charmé tous les cœurs,
-Et n'ont pû sur le Thrône élevez dés l'enfance,
-Sur d'aussi grands sujets signaler leur clemence.
-Venez donc à l'Autel en me donnant la foy,
-Vous assurer….
-
--*who_fatime
-      Seigneur, qu'exigez-vous de moy ?
-
--*who_abderamen
-Quand vous allez regner, lors qu'un Roy qui vous aime,
-Remet entre vos mains avec son Diadéme,
-Le sort⁎ d'un orgueilleux qu'il a droit de punir,
-Quand tout doit vous presser, qui vous peut retenir ?
-
--*who_fatime 
-Si vous perdez pour moi le soin de vostre gloire⁎ ;
-Seigneur, dois-je pour vous en perdre la memoire.
-Quel est vostre dessein, lors que de toutes parts,
-Vostre hymen souhaité suspend tous les regards ;
-Quand l'Afrique vous offre avecque ses Princesses.
-Le secours de ses Roys, ses ports & ses richesses.
-De ce pompeux hymen vous voulez m'honorer,
-Moy qui de tout l'éclat dont je puis me parer,
-Ne compte que l'honneur d'estre vostre sujete,
-Pour vos seuls interests, pour vous-mesme inquiete,
-Souffrez que je m'oppose à cet aveugle amour :
-Que croiroient vos sujets, que diroit vostre Cour ?
-
--*who_abderamen
-Ne vous informez point de ce qu'on pourra croire,
-C'est à moy d'avoir soin de mon rang, de ma gloire⁎ ;
-Et c'est à mes Sujets sans s'en inquieter,
-De voir mes passions, & de les respecter.
-A ce supréme honneur que je pretens vous faire,
-Madame, j'avois crû vous trouver moins contraire ;
-Si c'est trop m'abaisser, que d'estre vostre Epoux,
-Je ne m'attandois pas d'en estre instruit par vous.
-Ce conseil genereux part d'un cœur magnanime,
-Mais ce cœur, est-ce enfin la gloire⁎ qui l'anime.
-Des interests plus chers n'y sont-ils point mêlez ?
-N'envelope-t'il point d'autres secrets…Parlez,
-Madame, & sans détour que vostre cœur s'explique.
-
--*who_fatime
-Vous me le commandez, j'obeïs sans replique,
-On ne peut rien cacher aux Roys, non plus qu'aux Dieux.
-Si le Ciel sur le thrône avoit mis mes ayeux,
-J'aurois fait mes plaisirs⁎, j'aurois fait mon envie⁎,
-D'assurer le bon-heur de vostre illustre vie :
-J'aurois tout employé pour meriter le choix,
-Seigneur, du plus parfait, & du plus grand des Roys.
-Mais dans un rang plus bas, reduite dés l'enfance,
-Mon cœur s'est fait un choix conforme à ma naissance,
-Pour un de vos Sujets. L'amour l'a sceu toucher,
-C'est en vain qu'à vos yeux je voudrois le cacher :
-Si malgré cet aveu vostre amour persevere,
-Si le don de ma main peut encore vous plaire,
-Vous n'avez qu'à parler, elle est à vous, Seigneur :
-Mais quand je ne vous puis répondre de mon cœur,
-Pourriez-vous…
-
--*who_abderamen
-      Oüy je puis perdre le temeraire,
-Qui m'ose disputer⁎ le bonheur de vous plaire.
-Le succez de mes feux decide de son sort ;
-Cet aveu, vos refus precipitent sa mort.
-Songez-y ; sur ce point c'est à vous de resoudre,
-Vous n'avez qu'un moment pour retenir la foudre.
-Gardes à moy.
-
-**** *book_ *id_IV03 *act_ *date_1681
-
--*who_zulemar
-      Seigneur.
-
--*who_abderamen
-      Encor un coup⁎ parlez.
-Les Juges au Senat par mon ordre assemblez,
-Sur le sort d'Alamir attendent ma réponse,
-Quel Arrest voulez-vous que ma bouche prononce
-C'est de vous que dépent ou sa vie ou se mort.
-
--*who_fatime 
-Le Ciel qui vous a fait le maistre de son sort⁎,
-Daigne de ce Heros vous prouver l'innocence,
-Mais n'attendez de moy qu'un mal-heureux silence :
-Le don de nostre cœur ne dépend point de nous.
-
--*who_abderamen
-C'est trop par vos refus exciter mon couroux.
-Allez porter mon ordre au Senat tout à l'heure.
-Zulemar. Alamir est coupable, qu'il meure.
-
--*who_zulemar
-Qu'il meure ?
-
--*who_abderamen
-      En sa faveur elle ose rejetter
-Le Sceptre que ma main vient de luy presenter.
-Un sujet insolent accablé de ma haine,
-Dont l'univers sans moy se souviendroit à peine⁎ :
-A mon Sceptre, à mon rang se verra preferé ;
-Ils pourront me braver, & je le souffriray ?
-D'une ingrate, d'un traistre il faut que je me venge ;
-Qu'il expire à ses yeux, je l'ordonne.
-
--*who_zulemar
-      Qu'entens-je ?
-Les Dieux m'en sont témoins, plus animé que vous
-Je venois en ces lieux presser vostre couroux,
-Accuser Alamir, demander son supplice,
-J'en ay trop de raisons ; mais s'il faut qu'il perisse,
-Qu'il soit mieux convaincu de ses propres forfaits,
-Ne le punissez point de ceux qu'il n'a pas faits :
-Si Fatime s'oppose à vostre ordre supréme,
-Il en est innocent, ce n'est point luy qu'elle aime ;
-Ce n'est point luy, Seigneur, qui l'enleve à son Roy.
-Connoissez le coupable, & l'accablez : C'est moy.
-Oüy, Seigneur, c'est pour moy qu'à vos desirs rebelle…
-
--*who_fatime
-N'en croyez pas, Seigneur, un sujet trop fidelle,
-Qui voulant à l'Etat conserver un appuy,
-Se rend auprés de vous coupable au lieu de luy.
-
--*who_abderamen
-Vous vous chargez trop tost du soin de le défendre,
-Pour me faire douter de ce qu'il veut m'apprendre.
-Vos yeux épouvantez, vostre front interdit,
-Ne confirment que trop ce que sa bouche a dit.
-Vous l'aimez, je le voy, Princesse trop ingrate,
-Et plus vous le niés, plus vostre amour éclate.
-Pour toy que mes bienfaits prodiguez chaque jour,
-Ingrat avoient rendu le premier de ma Cour ;
-Pour toy qui de mon cœur trahis la confidence⁎,
-N'espere pas que rien⁎ t'arrache à ma vangeance.
-Tu periras.
-
--*who_zulemar
-      Seigneur, je n'en suis point troublé,
-Des malheurs⁎ inconnus je suis trop accablé :
-Pour voir avec frayeur une mort necessaire,
-Qui peut seule finir ma honte & ma misere,
-Je ne vous diray point que sans rendre de soins,
-On est aimé souvent lors qu'on le veut le moins,
-Qu'on aime quelquefois ce qu'il faut qu'on haïsse,
-Et que rien de l'amour ne regle le caprice :
-Je ne m'excuse point, j'ay traversé vos feux,
-J'ay fait vostre malheur sans pouvoir estre heureux.
-Seigneur, punissez-moy, perdez un miserable,
-Dans le fonds de mon cœur je suis assez coupable :
-Si vous sçaviez quel est mon destin, mon amour
-Vous avoüeriez…Seigneur, vous le sçaurez un jour.
-Je mourray de l'amour deplorable victime,
-Trop content si ma mort peut effacer mon crime,
-Calmer tous vos soupçons, enfin rendre à son Roy,
-Un Heros à l'Etat plus utile que moy.
-
--*who_abderamen
-Grands Dieux ! tout me dedaigne ainsi, tout m'abandonne !
-Le plus affreux trépas n'a rien qui les étonne⁎ :
-Quel est donc mon malheur ? Quel destin envieux
-Me rend quoy que je fasse à ce point odieux,
-Un ingrat que mon cœur de ses bontez honore,
-Une cruelle, enfin que j'aime, que j'adore,
-Conspirent l'un & l'autre à me percer le cœur :
-Mais qui vient en ces lieux ? que me veux-t'on ?
-
-**** *book_ *id_IV04 *act_ *date_1681
-
--*who_osmar
-      Seigneur,
-Les Juges d'Alamir ont suivant nos maximes,
-Ecouté sa défence, examiné ses crimes ;
-On n'attend plus de vous qu'un mot pour le punir
-Et je viens…
-
--*who_abderamen
-      Il suffit, qu'on le fasse venir.
-
-**** *book_ *id_IV05 *act_ *date_1681 
-
--*who_abderamen
-Pensez-vous que cedant à vos lâches envies⁎,
-Je vous laisse joüir de tant de perfidies ?
-Vous n'insulterez point au malheur de mes feux.
-Qu'en leurs appartements on les garde tous deux.
-
-**** *book_ *id_IV06 *act_ *date_1681
-
--*who_abderamen
-Rendez graces au Ciel, dont la bonté m'éclaire,
-Alamir, & dissipe une injuste colère.
-Vous n'estes point coupable, on nous trahit tous deux :
-Zulemar est le seul qui s'oppose à mes vœux ;
-Mais enfin oublions tous les sujets de plainte,
-Rentrez dans ma faveur sans retour & sans feinte :
-Amant abandonné mal-heureux comme moy.
-Excusez mes transports, & plaignez vostre Roy.
-Soyez plus que jamais l'appuy de ma Couronne.
-Vivez pour mon état, pour moy, je vous l'ordonne.
-
--*who_alamir 
+ 
 Je reçoy le pardon que vous me presentez,
 Et je veux bien devoir ma grace à vos bontez ;
 Seigneur ; non qu'en l'état où ma vie est reduite,
@@ -1613,27 +1428,6 @@ N'est pas crime, ou du moins se pardonne aisement,
 Et d'un indigne sort⁎ quelque soit le caprice,
 La honte est dans le crime, & non dans le supplice.
 
--*who_abderamen
-Vous vivrez Alamir, & toûjours triomphant,
-Vous rendrez par vos soins mon regne florissant :
-Cependant je veux bien dans un aveu sincere,
-Exposer à vos yeux mon ame toute entiere.
-Zulemar plus que vous occupoit ma faveur,
-Il sçavoit mes secrets, il regnoit dans mon cœur,
-Il ne vous y laissoit qu'une sterile estime ;
-Qui l'eust crû ? Cependant il adoroit Fatime,
-Il s'en faisoit aimer, & mes feux offensez
-Alloient seul vous punir des maux qu'il a causez.
-Vengez-vous, vengez-moy d'une erreur si funeste,
-Il est sorti d'un sang que le vostre deteste,
-Vous auriez triomphé déjà sans ma pitié ;
-Le party des Zegris estoit humilié,
-Et j'ay craint que le sort⁎ en éteignant leur race
-A celle des vainqueurs n'inspirast trop d'audace ;
-Mais enfin, c'en est fait, je n'écoute plus rien,
-Je prens vostre party, j'abandonne le sien.
-
--*who_alamir
 Ordonnez qu'à vos yeux nos haines s'assouvissent,
 Et qu'en un seul combat nos demélez finissent,
 Je sçauroy me venger : & si pour moy , Seigneur,
@@ -1643,173 +1437,6 @@ J'acheve loin de vous une vie importune,
 Et que de tous costez, trahi, desesperé,
 Je cache les ennuys⁎ dont je suis dechiré.
 
--*who_abderamen
-Non ne me quittez pas : du destin d'un perfide.
-Je veux à vostre tour que vostre avis decide,
-Venez donc en resoudre, & contre cet ingrat,
-Faisons de nostre haine un interest d'Etat.
-Fin du quatrième Acte
-
-**** *book_ *id_V01 *act_ *date_1681 
-
--*who_abendax
-Venez. Auprés de vous le Roy mesme m'envoye,
-Sans témoins en ces lieux il veut que je vous voye,
-Et je puis vous parler sur l'affreux changement,
-Que dans vostre fortune⁎ a fait un seul moment.
-
--*who_zulemar
-Tu le vois, Abendax, tout se détruit, tout passe,
-Il n'est point de grandeur qu'un seul revers n'efface,
-Qui t'eust dit que si-tost du comble des honneurs,
-Zulemar dût tomber dans ce gouffre d'horreurs,
-Tu ne l'aurois pas crû.
-
--*who_abendax
-      J'ai peine encor à croire,
-Qu'un seul instant ait pû détruire tant de gloire⁎,
-Le mesme jour vous voit dans un rang glorieux,
-Sur vous seule attirer tous les cœurs, tous les yeux,
-Et bien-tost du destin éprouvant l'injustice,
-Pour vos jours innocens craindre un cruel suplice.
-
--*who_zulemar 
-Helas ! de tant d'amis qui tenoient tout de moy,
-Ma disgrace aujourd'huy ne me laisse que toy.
-Tout rit au favory, tout brille dans sa vie,
-Tant que sa faveur dure il fait taire l'envie ;
-Mais d'abord que la main qui luy servoit d'appuy,
-Retire les honneurs qu'elle versoit sur luy,
-Sa chute ouvre aussi-tost un chemin à l'audace,
-Pour attaquer sa vie, & disputer⁎ sa place.
-Mes honneurs, mes employs⁎ sont des biens superflus,
-Je meurs, & dans deux jours on n'y songera plus.
-
--*who_abendax
-Ah Dieux ! quelle raison, quelle bonté funeste,
-Pour sauver un ingrat qui toûjours vous deteste,
-Vous fait d'un Roy severe affronter le couroux,
-Et découvrir l'amour que Fatime a pour vous ;
-Je croyois Alamir au bord du precipice,
-Vous alliez disiez-vous avancer son supplice ;
-Vous vouliez vous venger, & le perdre aujourd'huy :
-Quelle vengeance, helas ! vous vous perdez pour luy.
-
--*who_zulemar
-Ne me demande point raison de ma conduite ;
-Que sçay-je dans l'état où les Dieux m'ont reduite ?
-J'aime, je voy perir ce que j'aime, il suffit,
-Je ne me repens point de tout ce que j'ay dit.
-
--*who_abendax
-Il n'est plus d'interest, ny de raisons secretes,
-Il est temps de parler, d'avouer qui vous estes.
-Et je vais….
-
--*who_zulemar
-      Garde-toy de découvrir mon sort⁎
-Abendax ne mets point d'obstacles à ma mort
-Veux-tu que de ma main moy-mesme miserable…
-Non laisse-moy mourir sans que j'en sois coupable.
-Hé quoy, pourrois-tu voir mon nom deshonoré,
-Par un indigne amour qui seroit averé :
-S'il te souvient encor des bontez de mon pere,
-Songe que son honneur t'ordonne de te taire ;
-Si tu m'aimes, enfin, il faut me le prouver
-En ne t'obstinant point à vouloir me sauver,
-Souffre que le tombeau cache une mal-heureuse,
-Qui ne peut étouffer une flâme honteuse.
-Puissay-je ne laisser aucun nom après moy,
-Et puisse mon secret mourir avecque toy.
-Mais, qu'est-ce qu'on nous veut ?
-
-**** *book_ *id_V02 *act_ *date_1681
-
--*who_osmar
-      Si vous voulez sa grace,
-Le Roy vous la promet, il est rien qu'il ne fasse,
-Pourveu que vostre cœur propice à ses souhaits,
-Soit par un doux hymen le prix de ses bienfaits ;
-Zulemar par son ordre icy vient de se rendre.
-Le voicy, vous pouvez luy parler & l'entendre⁎ :
-Madame en joüissant d'un entretien si doux,
-Songez bien que son sort ne dépend que de vous.
-Qu'on se retire.
-
-**** *book_ *id_V03 *act_ *date_1681 
-
--*who_fatime
-      He, bien pour m'avoir trop sceu plaire,
-Seigneur, pour avoir fait un aveu trop sincere
-Des sentiments d'un cœur qui n'eust pû le trahir,
-On vous fait donc coupable, & vous allez mourir.
-
--*who_zulemar
-La mort, l'affreuse mort par qui tout se fait craindre,
-Est si douce pour moy que je ne puis m'en plaindre.
-Madame elle finit des jours infortunez,
-Qu'à d'éternels ennuis⁎, les Dieux ont condamnez
-Aux volontez du Roy cessez d'estre rebelle,
-Il vous offre sa main, son thrône vous appelle,
-Sans plaindre un mal-heureux qu'on ne peut secourir :
-Allez prendre le sceptre, & laissez-moy mourir.
-
--*who_fatime
-Moy qu'à l'ambition j'abandonne mon ame ?
-Que je vous laisse en proye aux fureurs…
-
--*who_zulemar
-      Oüy, Madame,
-Ce trépas justement prononcé par le Roy,
-Je vous l'ay déjà dit n'a rien d'affreux pour moy :
-Si de quelque douleur mon ame est attendrie,
-Si je verse des pleurs, ce n'est point pour ma vie :
-Helas ! c'est de me voir dans un obscur tombeau ;
-Sous une cendre froide éteindre un feu si beau.
-De mourir sans avoir exprimé la tendresse…
-Pardonnez-moy, Madame, encor cette foiblesse ;
-Au moment où je doy me taire pour jamais,
-Ma confiance n'est point au dessus des souhaits.
-Mais c'est en ma faveur obscurcir trop de charmes ;
-Je ne merite point vos precieuses larmes :
-Perdez d'un malheureux le triste souvenir ;
-Allez prendre le Sceptre, & laissez moy mourir.
-
--*who_fatime
-Non, vous ne mourrez point, quittez cette pensée,
-Ma vie à vous sauver est trop interressée,
-Vostre grace, dit-on, dépend encor de moy,
-Je n'ay pour l'obtenir qu'à feindre auprés du Roy,
-Qu'à demander du temps pour l'hymen qu'il souhaite ;
-Nous choisirons après quelque seure retraite.
-Pour nous venger de luy tout nous sera permis,
-J'ay du pouvoir icy, vous avez des amis,
-Assistez d'eux sans bruit, quittant ce lieu funeste…
-C'est assez m'expliquer, vous entendez⁎ le reste.
-J'envisage en tremblant une telle action,
-Et vos yeux sont témoins de ma confusion ;
-Mais enfin pour sauver une teste si chere
-Je ne ménage rien. J'y cours.
-
--*who_zulemar
-      Qu'allez-vous faire ?
-Elle me quitte & va reculant mon trépas,
-M'exposer par la feinte à de nouveaux combats.
-Grands Dieux ! sur mes malheurs⁎ plus je jette la veuë,
-Plus je n'y voy pour moy qu'une funeste issuë ;
-Et tel est de mes jours l'astre pernicieux…
-Mais que vois-je ? Alamir se presente à mes yeux,
-Quel sujet le conduit⁎, quel mouvement le presse :
-O Dieux, dans ce moment soûtenez ma foiblesse.
-
-**** *book_ *id_V04 *act_ *date_1681 
-
--*who_zulemar
-Alamir, quel dessein porte vers moy tes pas,
-Viens-tu comme ennemy joüir de mon trépas,
-Etaller à mes yeux ton triomphe, & ta joye ?
-
--*who_alamir
 Non, j'obeïs au Roy qui veut que je te voye,
 Quoy qu'il doive punir ton amour indiscret,
 Il condamne au trépas ta jeunesse à regret,
@@ -1822,13 +1449,6 @@ Croy moy, de ton amour fais luy le sacrifice,
 Dans une folle ardeur cesse de t'obstiner,
 C'est le sincere avis que je viens te donner.
 
--*who_zulemar
-Je ne connois que trop où mon amour m'engage,
-Je cherche à m'en guerir, je mets tout en usage ;
-Mais pour vaincre un amour aussi fort que le mien,
-Les Dieux ne m'ont pas fait un cœur comme le tien.
-
--*who_alamir
 Hé me crois-tu le cœur si remply de rudesse,
 Quelque fier qu'il paroisse, il n'est pas sans foiblesse.
 Ce beau feu dont Fatime avoit sceu l'animer,
@@ -1838,10 +1458,6 @@ J'en rougis, mais enfin malgré son inconstance,
 Je ne puis de Fatime oublier les attraits,
 Et je sens que je l'aime encor plus que jamais.
 
--*who_zulemar
-Helas !
-
--*who_alamir
       Je le veux bien avoüer à ma honte.
 Non, que si le retour d'une tendresse prompte,
 Forçoit en ma faveur son ame au repentir,
@@ -1860,14 +1476,6 @@ Elle te quittera toy-mesme pour regner,
 Ne t'en afflige point, vy pour la dedaigner,
 Je t'offre mes conseils, & mon exemple à suivre.
 
--*who_zulemar
-Sçay-tu ce que tu fais en me pressant de vivre ?
-Je vivrois pour servir d'obstacle à tes plaisirs⁎,
-Pour contraindre ton cœur, pour forcer tes desirs,
-Pour suivre les transports qu'en mon cœur tu fais naistre,
-Pour te persecuter, pour te haïr peut-estre.
-
--*who_alamir
 Tu feras bien : Le sang dont nous sommes formez
 Ne doit jamais verser dans nos cœurs animez,
 Que des transports d'horreur, que des desseins d'outrages.
@@ -1879,66 +1487,59 @@ Toy d'éteindre mon nom, moy d'étouffer ta race,
 Ce doit estre entre nous un devoir mutuel.
 Vy donc pour me haïr.
 
--*who_zulemar
-      Hé ! le puis-je cruel ;
-Pour m'opposer sans cesse une fierté barbare,
-En laisse-tu moins voir la vertu qui te pare :
-En es-tu moins aimable, & mon coeur mal-heureux
-S'abandonne-t'il moins à l'ardeur de ses feux :
-Car enfin ce Rival, ce chef d'une famille
-Que tu poursuis ; aprens que ce n'est qu'une fille⁎.
-Seul reste infortuné des mal-heureux Zegris,
-Qui s'offre à tes regards sous ces tristes habits.
-
--*who_alamir
 Qu'entens-je juste Ciel !
 
--*who_zulemar
-      En vain dés ma naissance,
-Instruite des raisons d'une juste vangeance,
-L'esprit plein contre-toy de projets ennemis.
-Je partis pour ces lieux, j'arrivay, je te vis,
-Tu revenois vainqueur & tout couvert de gloire⁎ :
-Ma haine en ce moment sortit de ma memoire ;
-Mon cœur sourd aux raisons qui devoient l'animer,
-Ne sceut plus en trouver, helas ! que pour t'aimer !
-Plus que tu ne me hais, ce cœur t'aime, t'adore ;
-Je ne m'en repens point, je te le dis encore :
-Une fois pour toûjours laisse moy m'enyvrer,
-Du funeste plaisir de te le declarer.
-Car enfin ne croy pas que par toy méprisée,
-Je veüille d'une Cour devenir la risée,
-Après que si long-temps cet habit mal-heureux,
-M'en a veu recevoir & l'encens & les vœux,
-Je ne souffriray point la douleur qui me tuë,
-Tu seras pour jamais délivré de ma veuë.
-Oüy, ma mort est certaine, & j'y cours sans effroy :
-Heureuse, puis qu'au moins tu sçais que c'est pour toy.
-
--*who_alamir
 Muet d'étonnement⁎, parmy tant de traverses⁎,
 J'ay peine à concevoir nos fortunes⁎ diverses,
 Je voy que du destin que l'on ne peut tromper…
 
--*who_zulemar
-Ah ! barbare est-ce là ce qui doit t'occuper,
-Au moment qu'à tes yeux étonnée⁎ & tremblante,
-Je ne puis retenir une ardeur violente :
-Quand pour te garantir je m'expose au trepas,
-Quand je t'offre mon cœur, tu ne m'écoutes pas :
-Me fais-tu voir au moins que mon malheur te touche ;
-En laisse-tu sortir un soûpir de ta bouche ?
-Tes superbes⁎ regards qui me glacent d'effroy,
-Daignent-ils par pitié s'abaisser jusqu'à moy ?
-Daigne-tu voir mes pleurs, hélas ! infortunée…
-Mais que vois-je ? déja m'auroit-on condamnée.
+Interdit, étonné⁎ de tout ce que je voy ;
+Seigneur, pour vous répondre à peine⁎ suis-je à moy.
+Madame, cependant à vos desirs rebelle,
+Mon cœur n'opose plus une fierté cruelle :
+Et si l'amour déjà ne s'y fait pas sentir,
+L'injuste haine au moins commence d'en sortir.
 
-**** *book_ *id_V05 *act_ *date_1681
 
--*who_zulemar
-Qu'est-ce, Osmar.
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_osmar
 
--*who_osmar
+Oüy, Seigneur
+
+      Seigneur, le Roy vous défent de le voir.
+
+      Votre retour sans ordre est une offense,
+Qui soustrait à vos yeux son auguste⁎ presence.
+Zulemar est chargé de ses ordres secrets,
+Pour vous en avertir, je les devance exprés.
+Ce Prince de sa part vous les doit faire entendre⁎,
+Il va se rendre icy, c'est à vous de l'attendre.
+
+      Seigneur, le voicy.
+
+      Seigneur, donnez moy vostre épée :
+C'est par l'ordre du Roy.
+
+      Oüy, Seigneur.
+
+      C'est malgré moy qu'un ordre qui m'accable,
+Fait passer dans mes mains ce fer si redoutable.
+
+      Seigneur,
+Les Juges d'Alamir ont suivant nos maximes,
+Ecouté sa défence, examiné ses crimes ;
+On n'attend plus de vous qu'un mot pour le punir
+Et je viens…
+
+      Si vous voulez sa grace,
+Le Roy vous la promet, il est rien qu'il ne fasse,
+Pourveu que vostre cœur propice à ses souhaits,
+Soit par un doux hymen le prix de ses bienfaits ;
+Zulemar par son ordre icy vient de se rendre.
+Le voicy, vous pouvez luy parler & l'entendre⁎ :
+Madame en joüissant d'un entretien si doux,
+Songez bien que son sort ne dépend que de vous.
+Qu'on se retire.
+
       Vostre sort⁎ vient d'estre revelé :
 Le Roy sçait votre sexe, Abendax a parlé.
 Il paroist tout en pleurs, il demande audiance ;
@@ -1960,34 +1561,131 @@ Le Roy sçait rasseurer sa craintive pudeur,
 Qu'à sa gloire⁎, à l'éclat de la grandeur suprême,
 Ouvrant enfin les yeux… mais le Roy vient luy-mesme.
 
-**** *book_ *id_V06 *act_ *date_1681
 
--*who_zulemar
-Seigneur, après l'abus commis aux yeux de tous ;
-De quel front⁎ puis-je icy paroistre ?
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abendax
 
--*who_abderamen
-      Levez-vous.
-De l'amour à mon cœur la foiblesse est trop chere,
-Pour ne pas pardonner les fautes qu'il fait faire,
-Alamir à ses vœux cesse de resister ;
-Voy par où sa tendresse a sceu te meriter :
-Qu'entre vos deux partis la haine soit bannie,
-Accepte son hymen, c'est ton Roy qui t'en prie.
+N'en doutez point, Seigneur, il est toûjours le mesme
+Il craint son inconstance, & cependant il l'aime,
+Des bruits que j'ay semez trop vivement frappé⁎,
+De mille soins jaloux de craintes⁎ occupé
+Il veut par son retour confondre une infidelle.
+Il revient.
 
--*who_alamir
-Interdit, étonné⁎ de tout ce que je voy ;
-Seigneur, pour vous répondre à peine⁎ suis-je à moy.
-Madame, cependant à vos desirs rebelle,
-Mon cœur n'opose plus une fierté cruelle :
-Et si l'amour déjà ne s'y fait pas sentir,
-L'injuste haine au moins commence d'en sortir.
+Oüy, Seigneur, vos desseins auroient eu leur effet
+Si le rare bonheur qui par tout l'accompagne,
+Ne vous le ramenoit triomphant de l'Espagne.
+En vain les Roys liguez & les peuples unis
+Armoient contre nous seuls un monde d'ennemis.
+Leurs troupes, leurs ramparts , & leurs vastes rivieres
+N'ont pû nous opposer que de foibles barrieres.
+Vaincus en cent combats, dispersez & défaits,
+Ils offrent un tribut, & demandent la paix.
+Quoy qu'ait fait Alamir, cette grande victoire
+Met trop en asseurance & ses jours & sa gloire⁎.
 
--*who_abderamen
-Ne perdons point de temps, viens, suis-moy dans le Temple,
-Les Dieux t'inspireront sans doute, & mon exemple.
-Vous, Madame, quittez ce vain déguisement,
-Donnez à vostre sexe un plus digne ornement :
-Etouffez desormais une honte timide,
-Et vivez dans ma Cour sous le nom de Zaïde.
-FIN
+      Hé bien par sa disgrace,
+Le destin à vos vœux offre une auguste⁎ place ;
+Que la mort soit le prix de sa temerité,
+Vous l'avez souhaité.
+
+Et n'est-ce pas, Seigneur, pour servir vostre haine,
+Pour rendre d'Alamir la perte plus certaine,
+Que je fus envoyé dans son Armée ?
+
+Vous soûpirez: Qu'entens-je ? Hé quoy n'avez vous pas
+Toûjours pour Alamir cette haine mortelle…
+
+Quoy vous, Seigneur ?
+
+Surpris, confus, troublé de ce déguisement,
+A peine je reviens de mon étonnement.
+Qu'entens-je ! Zulemar est une fille⁎ ! elle aime !
+Hé qui ? Quel est l'objet de son amour extrême !
+Grands Dieux ! c'est Alamir l'ennemy des Zegris !
+Avez vous oublié ses injustes mépris ?
+Ne vous souvient-il plus de la haine d'un pere,
+Songez qu'elle doit estre en vous hereditaire.
+
+Le Roy vient ; cachez luy vostre flâme alarmée.
+
+Avant que vostre cœur s'abandonne à la plainte,
+Aprenez d'Alamir le retour en ces lieux ;
+Ce heros qu'on plaçoit au rang des demy Dieux,
+Qui voyoit autrefois retournant de l'Armée,
+Au devant de son char voler la renommée⁎  ;
+Et le zele⁎ empressé d'un Peuple adorateur
+Parfumer son chemin, exalter sa valeur,
+Accablé maintenant d'une douleur profonde,
+Sans pompe, sans honneur, & fuy de tout le monde,
+Inquiet, étonné, revient, entre sans bruit,
+A peine accompagné d'un amy qui le suit.
+
+      Vous le voyez ; une haine invincible
+A toutes vos bontez rend son coeur insensible :
+Hé bien pour vous marquer⁎, qu'il dedaigne vos soins⁎ ;
+En peut-il faire plus ?
+
+      O Dieux ! qu'allez-vous faire ?
+Luy croyez-vous un coeur capable de pitié ?
+Pensez-vous triompher de son inimitié ;
+Enfin ignorez-vous qu'il adore Fatime,
+Il luy sacrifiera l'aveu de vostre estime.
+Quelle honte ! & le Roy pour comble de malheur,
+Apprenant vostre sort⁎ verra-t'il sans douleur,
+Qu'il a mis ses secrets dans le sein d'une fille⁎,
+Vous estes tout l'espoir d'une illustre famille ;
+Songez, si vous parlez dans quel triste embarras...
+
+Venez. Auprés de vous le Roy mesme m'envoye,
+Sans témoins en ces lieux il veut que je vous voye,
+Et je puis vous parler sur l'affreux changement,
+Que dans vostre fortune⁎ a fait un seul moment.
+
+      J'ai peine encor à croire,
+Qu'un seul instant ait pû détruire tant de gloire⁎,
+Le mesme jour vous voit dans un rang glorieux,
+Sur vous seule attirer tous les cœurs, tous les yeux,
+Et bien-tost du destin éprouvant l'injustice,
+Pour vos jours innocens craindre un cruel suplice.
+
+Ah Dieux ! quelle raison, quelle bonté funeste,
+Pour sauver un ingrat qui toûjours vous deteste,
+Vous fait d'un Roy severe affronter le couroux,
+Et découvrir l'amour que Fatime a pour vous ;
+Je croyois Alamir au bord du precipice,
+Vous alliez disiez-vous avancer son supplice ;
+Vous vouliez vous venger, & le perdre aujourd'huy :
+Quelle vengeance, helas ! vous vous perdez pour luy.
+
+Il n'est plus d'interest, ny de raisons secretes,
+Il est temps de parler, d'avouer qui vous estes.
+Et je vais….
+
+
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gazul
+
+Pourquoy de ce retour aprés vostre victoire,
+Vous faites vous, Seigneur, une image si noire ;
+Si les Dieux & les Roys ne pardonnoient jamais,
+Les mal-heureux mortels pourroient-ils vivre en paix ?
+
+Je l'avoüeray, Seigneur, puis que vostre bonté
+Me donne auprés de vous entiere liberté,
+Plus sur vostre retour en secret je medite,
+Plus cherchant vos raisons, mon ame est interdite.
+Je sçay que Zulemar, jeune, presomptueux
+Des passions du Roy, flatteur, respectueux,
+Nouveau dans les secrets du grand art⁎ Militaire.
+Et pour toute vertu, sçavant en l'art⁎ de plaire ;
+Depuis six mois à peine à la Cour arrivé,
+Est déjà par la brigue⁎ aux employs élevé,
+Son credit vous irrite, & par vostre presence
+Vous venez balancer sa nouvelle puissance⁎.
+
+Seigneur, que dites-vous ?
+
+Seigneur, je voy Fatime, elle vient en ces lieux.
+
+      En seroit-t'il aimé ?
+Luy, Seigneur.
+

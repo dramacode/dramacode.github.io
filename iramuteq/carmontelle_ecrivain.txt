@@ -1,1114 +1,482 @@
 
 
-**** *book_ *id_I01 *act_I *date_1768
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelaiguille
 
--*who_monsieurduboisfils
-Mais, Mademoiselle, si vous me faites l'honneur de m'aimer véritablement comme vous le dites, pourquoi vous affligez-vous ?
+Eh bien, qu'est-ce que tu as à pleurer ? Tenez, voyez à dix-sept ans, si on peut être comme cela.
 
--*who_mademoisellejanneton
-Ah, Monsieur Dubois, si vous saviez !...
-
--*who_monsieurduboisfils
-Comment ne me trouvez-vous pas un assez bon parti ?
-Ma place de Commis de la Barrière me vaut pourtant six cents francs par an.
-
--*who_mademoisellejanneton
-Je le sais bien ; mais ma chère mère ne vous connaît pas.
-
--*who_monsieurduboisfils
-Ce n'est pas ma faute, et si vous le vouliez elle me connaîtrait bientôt.
-
--*who_mademoisellejanneton
-Si j'étais sûre qu'elle pût penser comme moi, Monsieur, vous n'auriez rien à craindre.
-
--*who_monsieurduboisfils
-Comment, rien à craindre ?
-Croyez-vous que je puisse avoir peur ?
-Vous ne me connaissez pas.
-Vous me faites trembler, Mademoiselle Janneton.
-
--*who_mademoisellejanneton
-Mais, par exemple, si elle voulait me marier à un autre que vous.
-
--*who_monsieurduboisfils
-Ah, cela devient différent ; mais je ne le crois pas.
-
--*who_mademoisellejanneton
-Cela n'est pourtant que trop vrai.
-
--*who_monsieurduboisfils
-Comment ?
-
--*who_mademoisellejanneton
-Je ne sais si vous connaissez Monsieur Discret, l'écrivain qui demeure là , vis-à-vis de chez nous ?
-
--*who_monsieurduboisfils
-Je ne l'ai jamais vu.
-
--*who_mademoisellejanneton
-Eh bien ; c'est à lui que ma chère mère veut me marier.
-
--*who_monsieurduboisfils
-À lui ?
-Et l'aimez-vous ?
-
--*who_mademoisellejanneton
-Si je l'aimais, je ne vous aimerais pas.
-
--*who_monsieurduboisfils
-Ah, c'est vrai ; comment ferons-nous ?
-
--*who_mademoisellejanneton
-Je n'en sais rien ; car ma chère mère lui a donné sa parole, et il y compte, et voilà pourquoi je vous ai prié de me venir voir pendant qu'elle est sortie.
-
--*who_monsieurduboisfils
-Et Monsieur Discret, est-il un homme d'esprit ?
-
--*who_mademoisellejanneton
-Mais, je crois que oui ; car c'est lui qui fait tous nos Mémoires.
-Il écrit tout couramment des lettres pour tout le monde, et il est très malin.
-
--*who_monsieurduboisfils
-Il écrit des lettres ?
-Attendez, je serai aussi malin que lui, laissez-moi faire ; dans peu vous entendrez parler de moi, et vous verrez ce qui en sera ; puisqu'il écrit des lettres.
-Je suis un homme...
-Enfin je ne vous en dis pas davantage.
-
--*who_mademoisellejanneton
-Ah, je vous en prie, mon cher Monsieur Dubois, dites moi ce que vous ferez.
-
--*who_monsieurduboisfils
-Je n'ai rien à vous refuser ; mais je n'ai pas le tems de vous l'expliquer.
-Songez seulement à dire à votre chère mère que Monsieur Discret vous a fait une infidélité, et ne vous embarrassez pas du reste.
-
--*who_mademoisellejanneton
-Si vous m'aimiez bien, vous n'auriez pas de secret pour moi, et j'ai envie de me fâcher
-
--*who_monsieurduboisfils
-À quoi cela servira-t-il ?
-Écoutez plutôt ce que j'ai encore à vous dire.
-
--*who_mademoisellejanneton
-Eh bien, qu'est- ce que c'est ?
-
--*who_monsieurduboisfils
-J'ai dit à mon père, qui a un débit de tabac auprès des Quinze-vingts, que j'ai grande envie de me marier avec vous, et comme c'est le meilleur homme du monde, il doit venir aujourd'hui ici marchander une paire de chaussons, pour voir si vous êtes aussi jolie que je lui ai dit.
-Il m'a dit qu'il avait été à la noce de Madame votre mère, et il a envie de renouveler la connaissance selon ce qui en sera, et ce serait un bon acheminement à notre mariage.
-
--*who_mademoisellejanneton
-C'est très bien pensé ; mais qu'est-ce que vous ne voulez pas me dire ?
-
--*who_monsieurduboisfils
-Ah, vous en revenez toujours à vos moutons, et il faut que je m'en aille.
-
--*who_mademoisellejanneton
-Eh bien , Monsieur, allez-vous-en, et ne revenez jamais.
-
--*who_monsieurduboisfils
-Quoi, vous vous fâchez tout de bon ?
-Allons, embrassez-moi, pour faire la paix.
-
--*who_mademoisellejanneton
-Non, Monsieur, non, je ne le veux pas ; finissez donc, vous allez faire tomber mon ouvrage.
-Bon, le voilà à terre.
-Il va être tout crotté.
-
--*who_monsieurduboisfils
-Ah, ne vous fâchez pas, cela se séchera.
-Adieu , Mademoiselle, je suis votre très humble serviteur.
-
--*who_mademoisellejanneton
-Revenez bientôt.
-
--*who_monsieurduboisfils
-Oui, oui, ne vous embarrassez pas.
-
--*who_mademoisellejanneton
-Allez-vous-en vite ; car je vois revenir ma chère mère.
-
--*who_monsieurduboisfils
-Adieu donc.
-
--*who_mademoisellejanneton
-Adieu.
-Adieu.
-
-**** *book_ *id_I02 *act_I *date_1768
-
--*who_madamedelaiguille
-Eh bien, qu'est-ce que tu as à pleurer ?
-Tenez, voyez à dix-sept ans, si on peut être comme cela.
-
--*who_mademoisellejanneton
-Mais, ma chère mère, quand vous saurez à l'occasion de quoi je pleure, je crois que vous penserez comme moi.
-
--*who_madamedelaiguille
-Effectivement, je pleurerai aussi moi, ah oui, tu vas voir.
-Allons, allons, laisse-moi passer à ma place, grande nigaude.
+Effectivement, je pleurerai aussi moi, ah oui, tu vas voir. Allons, allons, laisse-moi passer à ma place, grande nigaude.
 Donne-moi un peu cette terrine, que j'épluche nos fèves.
 
--*who_mademoisellejanneton
-Tenez, la voilà.
-
--*who_madamedelaiguille
 Et le sac aux fèves ?
 Ah ça, finis de pleure-micher comme cela ; car tout cela m'ennuie.
 
--*who_mademoisellejanneton
-Mais, ma chere mère, écoutez donc la raison de cela.
-
--*who_madamedelaiguille
 Allons, voyons ; qu'est-ce qu'elle va dire ?
 
--*who_mademoisellejanneton
-Si vous vous fâchez...
+Que je me fâche ou non, ce n'est pas ton affaire. Tais-toi et parle.
 
--*who_madamedelaiguille
-Que je me fâche ou non, ce n'est pas ton affaire.
-Tais-toi et parle.
+Oui, parce que c'est un honnête homme et qui me convient ; est-ce que tu n'en veux plus ? En voici bien d'une autre ! Bon gré malgré tu l'épouseras, premièrement et d'un, voilà qui est fini , je n'écoute plus rien.
 
--*who_mademoisellejanneton
-Vous savez bien que vous m'avez accordé en mariage à Monsieur Discret.
+Et qu'est-ce que tu dis donc ? Il faut parler au lieu de pleurer.
 
--*who_madamedelaiguille
-Oui, parce que c'est un honnête homme et qui me convient ; est-ce que tu n'en veux plus ?
-En voici bien d'une autre !
-Bon gré malgré tu l'épouseras, premièrement et d'un, voilà qui est fini , je n'écoute plus rien.
-
--*who_mademoisellejanneton
-Mais je ne dis pas que je ne l'aime plus.
-
--*who_madamedelaiguille
-Et qu'est-ce que tu dis donc ?
-Il faut parler au lieu de pleurer.
-
--*who_mademoisellejanneton
-Je dis que j'ai bien peur de ne pas être sa femme.
-
--*who_madamedelaiguille
 Et pourquoi cela ?
 
--*who_mademoisellejanneton
-Parce que...
-
--*who_madamedelaiguille
 Eh bien ?
 
--*who_mademoisellejanneton
-Je n'oserais vous le dire.
-
--*who_madamedelaiguille
 Mais s'il faut que je le sache , je ne peux pas le deviner.
 
--*who_mademoisellejanneton
-Dame ; c'est qu'on m'a dit qu'il était devenu amoureux d'une autre, ce qu'il voulait me faire une infidélité.
-
--*who_madamedelaiguille
 Ah, je ne crois pas celui-là, il peut te faire toutes les infidélités qu'il voudra ; mais il faudra bien qu'il t'épouse, je n'entendrai pas raillerie là-dessus , un honnête homme n'a que sa parole.
 
--*who_mademoisellejanneton
-Mais s'il est infidèle ?
+À présent cela ne fait rien ; mais quand tu seras fa femme, je le ferai bien charrier droit. Est-ce que ton père ne voulait pas faire comme cela au bout d'un an de mariage ? Ah pardi il ne s'y est pas frotté deux fois ; il te le dirait bien, s'il n'était pas mort, le pauvre défunt !
 
--*who_madamedelaiguille
-À présent cela ne fait rien ; mais quand tu seras fa femme, je le ferai bien charrier droit.
-Est-ce que ton père ne voulait pas faire comme cela au bout d'un an de mariage ?
-Ah pardi il ne s'y est pas frotté deux fois ; il te le dirait bien, s'il n'était pas mort, le pauvre défunt !
+Oh, mais c'est lundi, il faut de la raison partout. Laisse-le venir, je lui parlerai, moi, il faudra bien qu'il réponde.
 
--*who_mademoisellejanneton
-Oui, mais si Monsieur Discret en aime une autre ; il ne voudra plus de moi.
-Il n'a pas paru encore à sa place d'aujourd'hui.
-
--*who_madamedelaiguille
-Oh, mais c'est lundi, il faut de la raison partout.
-Laisse-le venir, je lui parlerai, moi, il faudra bien qu'il réponde.
-
--*who_mademoisellejanneton
-Ah, ma chère mère, ne lui dites rien encore.
-Il faut attendre et savoir si tout cela est bien vrai.
-
--*who_madamedelaiguille
 Voilà encore un joli sujet pour être amoureux d'une autre que de ma fille.
 
--*who_mademoisellejanneton
-Nous verrons comment il se conduira.
-
--*who_madamedelaiguille
 Je veux bien ne lui pas parler ; mais c'est que s'il me fait une fois monter la moutarde au nez...
 
--*who_mademoisellejanneton
-Il ne faut pas vous emporter.
+Oh, je ne m'emporte pas ; va, va, laisse-moi faire, je sais comme il faut s'y prendre avec les hommes, tu n'as qu'à faire comme moi. Ne lui disons rien ni l'une ni l'autre, il sera bien embarrassé.
 
--*who_madamedelaiguille
-Oh, je ne m'emporte pas ; va, va, laisse-moi faire, je sais comme il faut s'y prendre avec les hommes, tu n'as qu'à faire comme moi.
-Ne lui disons rien ni l'une ni l'autre, il sera bien embarrassé.
+Monsieur, y a-t-il quelque chose pour votre service, de la toile, des manchettes ? C'est ici.
 
--*who_mademoisellejanneton
-C'est très bien dit.
-Mais voilà un Monsieur qui cherche quelque chose, il regarde bien notre enseigne.
-Je crois que c'est le père de Monsieur Dubois.
-
-**** *book_ *id_I03 *act_I *date_1768
-
--*who_madamedelaiguille
-Monsieur, y a-t-il quelque chose pour votre service, de la toile, des manchettes ?
-C'est ici.
-
--*who_monsieurduboispere
-Madame, je vous demande bien pardon, j'ai oublié mes lunettes et...
-
--*who_madamedelaiguille
 Monsieur, nous ne vendons pas de lunettes et...
 
--*who_monsieurduboispere
-Je le sais bien , Madame, mais c'est que je ne peux pas lire l'enseigne d'un quelqu'un que je cherche.
-
--*who_mademoisellejanneton
-Qu'est-ce que c'est, Monsieur ?
-
--*who_monsieurduboispere
-C'est celle de Madame de l'Aiguille.
-
--*who_madamedelaiguille
 Vous y êtes, Monsieur, c'est moi-même.
 
--*who_monsieurduboispere
-Ah, Madame, je suis bien votre serviteur.
-
--*who_madamedelaiguille
 Janneton, donne donc un tabouret à Monsieur.
 
--*who_monsieurduboispere
-En voilà un, Mademoiselle, ne vous dérangez pas.
-Et puis je serais bien resté debout, surtout autrefois ; parce que je fuis accoutumé à tout.
-Madame ; c'est que je voudrais bien acheter une ou deux paires de chaussons ; c'est selon le prix que vous me le ferez payer.
-
--*who_madamedelaiguille
 Monsieur, si vous voulez du bon, il ne faut pas épargner voulez-vous quelque chose de résistance ?
 
--*who_monsieurduboispere
-Oui, je veux du meilleur.
-
--*who_madamedelaiguille
 Janneton, donne à Monsieur de ceux marqués N.
 
--*who_mademoisellejanneton
-Les voilà justement.
-
--*who_madamedelaiguille
 Tenez, Monsieur, voilà ce qu'il vous faut.
 
--*who_monsieurduboispere
-Seront-ils assez grands ?
-Car j'ai des cors à tous les doigts des pieds.
-
--*who_madamedelaiguille
 C'est-là ce que nous vendons dans ces cas-là.
 
--*who_monsieurduboispere
-Et cela vaut, en conscience ?...
-
--*who_madamedelaiguille
 Dix sols la paire, mais je ne veux pas gagner avec vous, je vous les donnerai à neuf sols.
 
--*who_monsieurduboispere
-C'est le dernier mot ?
-
--*who_mademoisellejanneton
-Ah, ma chère mère, ne pourriez-vous pas les donner à Monsieur, à huit sols ?
-
--*who_madamedelaiguille
 Je le veux bien ; mais je n'y gagnerai rien.
 
--*who_monsieurduboispere
-Je m'en vais donc vous donner vingt-quatre fols, et vous me rendrez.
-
--*who_madamedelaiguille
 Prenez-en encore une paire, cela fera un compte rond.
 
--*who_monsieurduboispere
-Allons, je le veux bien en saveur de l'ancienne connaissance.
-Vous ne me remettez pas, Madame de l'Aiguille ?
-
--*who_madamedelaiguille
 Pardonnez-moi, je me souviens...
 
--*who_monsieurduboispere
-Vous souvenez-vous que c'est moi qui vous avais enlevée le jour de votre noce ?
+Quoi, c'est vous qui vous nommiez... J'oublie toujours les noms...
 
--*who_madamedelaiguille
-Quoi, c'est vous qui vous nommiez...
-J'oublie toujours les noms...
-
--*who_monsieurduboispere
-Lafleur, j'étais dans ce tems-là chez Monsieur Largentier, Fermier Général.
-
--*who_madamedelaiguille
 Justement.
 
--*who_monsieurduboispere
-Oui, c'est lui qui m'a fait avoir un débit de tabac auprès des Quinze-vingts, et je m'appelle Dubois à présent.
-
--*who_madamedelaiguille
 Je m'en souviens, oui, il y a longtemps dont vous parlez-là.
 
--*who_monsieurduboispere
-Ah, cela ne fait rien, vous êtes toujours tout de même.
-Est-ce là Mademoiselle votre fille.
-
--*who_madamedelaiguille
 Oui vraiment.
 
--*who_monsieurduboispere
-Ah, mauvaise herbe croît toujours, comme vous savez.
+Ah, le pauvre homme ! Il y a six ans qu'il est mort.
 
--*who_monsieurduboispere
-L'on voit bien que vous êtes sa mère.
-Et notre ami de l'Aiguille, comment se porte-t-il ?
-
--*who_madamedelaiguille
-Ah, le pauvre homme !
-Il y a six ans qu'il est mort.
-
--*who_monsieurduboispere
-Quoi, Monsieur de l'Aiguille est mort ?
-
--*who_madamedelaiguille
 Oui vraiment ; vous savez qu'il aimait un peu à boire.
 
--*who_monsieurduboispere
-C'est vrai.
+Ah, que trop ! Un jour de la Saint Martin, bon jour bonne oeuvre, est-ce que la roue d'un fiacre ne lui a pas passé fur les deux jambes, qu'il ne s'en est pas relevé, J'ai cru que je le garderais toujours comme cela ; enfin Dieu me l'a ôté, il a bien fallu se faire une raison. Il ne m'a laissé que Janneton que vous voyez là.
 
--*who_madamedelaiguille
-Ah, que trop !
-Un jour de la Saint Martin, bon jour bonne oeuvre, est-ce que la roue d'un fiacre ne lui a pas passé fur les deux jambes, qu'il ne s'en est pas relevé, J'ai cru que je le garderais toujours comme cela ; enfin Dieu me l'a ôté, il a bien fallu se faire une raison.
-Il ne m'a laissé que Janneton que vous voyez là.
-
--*who_monsieurduboispere
-Eh bien, je suis sûr qu'elle fait votre consolation ; car elle a l'air bien raisonnable.
-
--*who_madamedelaiguille
 Ah, comme cela.
 
-**** *book_ *id_I04 *act_I *date_1768
+Si vous vouliez accepter la fortune du pot ? C'est de bon coeur.
 
--*who_monsieurduboispere
-Ah ça, il se fait tard, et il est temps d'aller manger la soupe.
-
--*who_madamedelaiguille
-Si vous vouliez accepter la fortune du pot ?
-C'est de bon coeur.
-
--*who_monsieurduboisfils
-Une autre fois, je viendrai vous revoir.
-Adieu, Madame ; adieu Mademoiselle, je suis bien votre serviteur.
-
--*who_madamedelaiguille
 Adieu , Monsieur , ne nous oubliez pas ; surtout quand il vous faudra quelque chose.
 
--*who_monsieurduboispere
-Non, non, Madame, vous y pouvez compter ; je vous salue.
+Oui, oui, allons-nous-en dîner. Voilà Monsieur Discret, ne le regardons pas.
 
--*who_mademoisellejanneton
-Il est bien poli ce Monsieur-là.
-
--*who_madamedelaiguille
-Oui, oui, allons-nous-en dîner.
-Voilà Monsieur Discret, ne le regardons pas.
-
-**** *book_ *id_I05 *act_I *date_1768
-
--*who_monsieurdiscret
-Madame de l'Aiguille ne me regarde pas, non plus que Mademoiselle Janneton ; est-ce qu'elles seraient fâchées contre moi ?
-Qu'est-ce que cela veut dire ?
-C'est peut-être parce que je n'ai pas fait le mémoire qu'elle m'a demandé, pour tout ce qu'elle a vendu à ce Charcutier de la Croix Rouge.
-Dame, si elle est fâchée elle se défâchera, elle n'aura que deux peines ; mais, Mademoiselle Janneton, qu'est-ce qu'elle peut avoir contre moi ?
-C'est peut-être à cause de sa mère.
-
-**** *book_ *id_I06 *act_I *date_1768
-
--*who_monsieurduboisfils
-Monsieur, je suis bien votre serviteur ; auriez-vous le temps de m'écrire une lettre tout à l'heure ?
-
--*who_monsieurdiscret
-Oui, Monsieur, vous n'avez qu'a dire, tout ce qui est pressé avec moi a toujours la préférence.
-Voulez-vous bien vous donner la peine, de vous asseoir ?
-
--*who_monsieurduboisfils
-Ce n'est pas que je ne sache écrire au moins ; mais c'est qu'il m'est venu un mal d'aventure au pouce , qui me fait un mal de chien, de façon que je n'en peux rien faire ni le jour ni la nuit, j'ai la main grosse comme votre tête.
-
--*who_monsieurdiscret
-Ah bien, je vous donnerai un remède qui vous emportera cela comme avec un rasoir et sans douleur.
-
--*who_monsieurduboisfils
-Après la lettre.
-Voici, Monsieur, de quoi il retourne.
-Je suis amoureux d'une Demoiselle et je voulais l'épouser ; mais elle me fiche malheur depuis quelques jours, ainsi que sa mère, cela me déplaît à moi ; parce que je suis un gaillard, qu'il ne faut pas me dire en deux fois une même chose.
-Voilà la lettre qu'elle m'a écrite ce matin, à quoi je veux faire une réponse un peu salée, là , vous m'entendez bien.
-
--*who_monsieurdiscret
-Laissez, laissez-moi faire, vous serez content.
-Mais voyons la lettre.
-
--*who_monsieurduboisfils
-La voilà, lisez tout haut.
-
--*who_monsieurdiscret
-Monsieur et cher Amant.
-« J'ai l'honneur de vous écrire ces lignes pour vous faire à savoir que j'ai bien du chagrin ; parce que je crains déjà que quand je ferai votre femme vous ne m'aimez pas ; voilà pourquoi ma chère mère me défend de vous parler davantage, ce qui met mon coeur en combustion, et que je ne passe pas une nuit sans dormir en rêvant de vous ; ce n'est pourtant pas que je vous aime autant que je vous aimais, voilà ce que je ne voulais pas vous dire , quoique je croie que vous ne m'aimez plus ; mais la plume me tombe des mains pour dire que cela n'est pas vrai , et que je vous aime toujours de tout mon coeur.
-Votre très humble et très obéissante servante,
-Janneton ?
-
--*who_monsieurduboisfils
-Oui, Janneton.
-
--*who_monsieurdiscret
-C'est plaisant ; mais ce n'est pas son écriture, ainsi ce n'est pas elle.
-
--*who_monsieurduboisfils
-Je vous dis que c'est son écriture.
-Oh, elle écrit bien, ce n'est pas par-là que le pot s'enfuit.
-
--*who_monsieurdiscret
-C'est que vous ne savez pas ce que je veux dire.
-Ah ça je m'en vais vous faire une réponse, quel style voulez-vous ?
-
--*who_monsieurduboisfils
-Comme vous voudrez, je veux l'envoyer promener ainsi que sa mère surtout ; parce que c'est comme cela qu'il faut, traiter les femmes pour eu venir à bout.
-
--*who_monsieurdiscret
-C'est bien dit.
-Vous connaissez bien le beau sexe.
-
--*who_monsieurduboisfils
-Je veux faire semblant comme si je n'avais pas reçu sa lettre et que cela vienne premièrement de moi, ce que je lui dirai.
-
--*who_monsieurdiscret
-Je vous entends bien.
-Vous allez voir.
-
--*who_monsieurduboisfils
-Parlez de la mère surtout.
-
--*who_monsieurdiscret
-Ne vous embarrassez pas.
-
--*who_monsieurduboisfils
-Nous verrons.
-
--*who_monsieurdiscret
-Tenez, voilà le commencement?
-
--*who_monsieurduboisfils
-Voyons.
-
--*who_monsieurdiscret
-Mademoiselle,
-Je mets la main à la plume mais avec regret, mon coeur saigne de tous les côtés, hors du vôtre, quand il pense à Madame votre mère qui est comme un dragon toujours envers moi.
-
--*who_monsieurduboisfils
-C'est bien ; mais...
-
--*who_monsieurdiscret
-Écoutez, écoutez, vous ferez content.
-Il me vient une bonne idée dans la tête.
-Et qui ne peut vous donner que de mauvais conseils quant à l'égard de mon amour.
-
--*who_monsieurduboisfils
-C'est cela, mais il faudrait que la mère pût se fâcher, et lui dire que je ne veux plus de mariage.
-
--*who_monsieurdiscret
-Oh, je fais bien, vous allez voir.
-Tenez voyez si ce n'est pas là ce que vous vouliez dire ?
-«Et comme le piédestal de fa vertu a souvent fait des faux pas...»
-
--*who_monsieurduboisfils
-Très bien ; c'est fort bon !
-
--*who_monsieurdiscret
-«Je crains qu'il n'en arrive de même de vous.»
-
--*who_monsieurduboisfils
-On ne peut pas mieux !
-
--*who_monsieurdiscret
-«Si vous vouliez éprouver mon amour, sans mariage, je ne demanderais pas mieux dans ce cas-là que d'être de tout mon coeur, Mademoiselle.
-Votre très humble et très respectueux Serviteur.
-
--*who_monsieurduboisfils
-C'est comme si je l'avais écrit moi-même, voilà tout ce que je voulais dire ; il n'en faut pas davantage.
-
--*who_monsieurdiscret
-Je suis bien aise que vous soyez content ; dame nous autres, il nous passe tant de ces affaires-là par les mains, que j'y suis un peu Grec.
-
--*who_monsieurduboisfils
-Je le vois bien.
-
--*who_monsieurdiscret
-Avant de la cacheter, ne faut-il pas signer ?
-
--*who_monsieurduboisfils
-Oui, vraiment.
-
--*who_monsieurdiscret
-Dites-moi votre nom.
-
--*who_monsieurduboisfils
-Je m'appelle Discret.
-
--*who_monsieurdiscret
-Discret ?
-Mais c'est aussi mon nom.
-
--*who_monsieurduboisfils
-Tout de bon ?
-
--*who_monsieurdiscret
-Sûrement.
-C'est plaisant cela !
-Est-ce que vous seriez le fils de Monsieur Discret, Facteur de la petite Poste, qui a été tué à l'armée il y a bien longtemps ?
-
--*who_monsieurduboisfils
-C'est moi-même ; c'est que j'avais déserté, et voilà pourquoi on m'avait fait passer pour mort.
-
--*who_monsieurdiscret
-Cela fait une différence ; mais en ce cas-là nous sommes cousins.
-
--*who_monsieurduboisfils
-Ah, j'en fuis charmé.
-Parbleu il faudra boire chopine ensemble.
-
--*who_monsieurdiscret
-Je ne demande pas mieux, je m'en vais cacheter cette lettre, et puis je vous mènerai à un endroit où, il y a de bon vin.
-Je m'en vais mettre l'adresse à Mademoiselle Mademoiselle Janneton ?
-
--*who_monsieurduboisfils
-Sans doute.
-
--*who_monsieurdiscret
-Voilà votre affaire finie, cousin.
-Si vous voulez venir à présent...
-
--*who_monsieurduboisfils
-Mais il faut que je vous paye.
-
--*who_monsieurdiscret
-Bon, entre parents.
-Et puis vous allez payer chopine.
-Allons, je vous expliquerai ce qui m'a si fort étonné.
-
--*who_monsieurduboisfils
-Allons, venez.
-
--*who_monsieurdiscret
-C'est qu'il faut arranger ses affaires.
-Je vous suis.
-
-**** *book_ *id_I07 *act_I *date_1768
-
--*who_mademoisellejanneton
-Ma chère mère, ma chere mère ?
-
--*who_madamedelaiguille
 Eh bien, qu'est-ce que tu veux ?
 
--*who_mademoisellejanneton
-Il n'y est plus.
-
--*who_madamedelaiguille
 Apparemment qu'il est allé à ses affaires.
 
--*who_mademoisellejanneton
-C'est que si ce qu'on m'a dit est vrai...
+Ah, si tu vas me tourmenter comme cela !... Ne veux-tu pas que je le garde dans ma poche ? Je crains que tu ne sois jalouse.
 
--*who_madamedelaiguille
-Ah, si tu vas me tourmenter comme cela !...
-Ne veux-tu pas que je le garde dans ma poche ?
-Je crains que tu ne sois jalouse.
-
--*who_mademoisellejanneton
-Jalouse, non ; mais quand on aime bien...
-
--*who_madamedelaiguille
 Tiens, ma fille, ce serait tant-pis pour toi, les hommes ne se mènent pas comme cela.
 
--*who_mademoisellejanneton
-On voit bien que vous n'avez jamais aimé.
+Jamais ? Va, va, j'ai aimé plus que toi et plus que tu n'aimeras de ta vie ; en tout bien et tout honneur dà. D'abord il ne faut pas se plaindre sans raison. Tiens, écoute-moi. Un jour que...
 
--*who_madamedelaiguille
-Jamais ?
-Va, va, j'ai aimé plus que toi et plus que tu n'aimeras de ta vie ; en tout bien et tout honneur dà.
-D'abord il ne faut pas se plaindre sans raison.
-Tiens, écoute-moi.
-Un jour que...
-
-**** *book_ *id_I08 *act_I *date_1768
-
--*who_madamedelaiguille
 Qu'est-ce que celui-là cherche ?
 
--*who_nicolas
-Madame, ne pourriez-vous pas m'enseigner où demeure Mademoiselle Janneton?
-
--*who_mademoisellejanneton
-C'est moi ; qu'est-ce que c'est ?
-Elle prend la lettre et lit l'adresse Ah , ma chère mère, c'est récriture de Monsieur Discret.
-
--*who_nicolas
-Oui, c'est de sa part.
-
--*who_madamedelaiguille
 De sa part ?
 Voyons un peu ce qu'il chante.
 
--*who_mademoisellejanneton
-Je meurs de peur qu'on ne m'ait dit vrai.
-
--*who_madamedelaiguille
 Allons, tais-toi donc.
-Hum... hum... hum... hum...
-Mon coeur saigne de tous les côtés...
+Hum... hum... hum... hum... Mon coeur saigne de tous les côtés...
 
--*who_mademoisellejanneton
-Il lui est arrivé quelque malheur !
+Hum... Quand je pense à Madame votre mère, hum... Hum... hum... hum... Et comme le piédestal de sa vertu a souvent fait des faux pas... Qu'est-ce que veut dire cet animal là ? De qui parle-t-il ?
 
--*who_madamedelaiguille
-Hum...
-Quand je pense à Madame votre mère, hum...
-Hum... hum... hum...
-Et comme le piédestal de sa vertu a souvent fait des faux pas...
-Qu'est-ce que veut dire cet animal là ?
-De qui parle-t-il ?
-
--*who_mademoisellejanneton
-De vous, ma chère mère.
-
--*who_madamedelaiguille
 Voyons le reste.
 Je crains qu'il n'en arrive de même de vous.
 
--*who_mademoisellejanneton
-Comment de moi ?
-
--*who_madamedelaiguille
 Si vous vouliez pourtant éprouver mon amour sans mariage, je ne demanderais pas mieux, dans ce cas-là, que d'être de tout mon coeur,
 Mademoiselle, Votre très humble et très respectueux serviteur.
 DISCRET.
 Voilà un grand coquin, un grand gueux !
 
--*who_mademoisellejanneton
-Mais, ma chère mère, peut-être que...
-
--*who_madamedelaiguille
 Non, tu n'as que faire de me parler de lui davantage.
 
--*who_nicolas
-Madame, m'allez-vous donner la réponse ?
-
--*who_madamedelaiguille
 Oui, oui, donne-moi mon aulne, que j'étrille ce drôle-là.
 
--*who_nicolas
-Mais il m'a dit que vous me payeriez.
-
--*who_madamedelaiguille
 Eh bien, tu n'as qu'à venir.
 
--*who_nicolas
-Je m'en vais lui dire que c'est comme cela que vous recevez sa lettre.
-
--*who_madamedelaiguille
 Ah, tu n'as qu'à lui dire qu'il n'approche pas d'ici de dix lieues.
 
--*who_nicolas
-Je n'y manquerai pas.
-
-**** *book_ *id_I09 *act_I *date_1768
-
--*who_madamedelaiguille
 Ma vertu a fait des faux pas, ce ne sera pas avec lui, toujours ; s'il revient ici, je lui arracherai les yeux.
 
--*who_mademoisellejanneton
-Mais c'est peut-être un faux rapport qu'on lui aura fait.
-
--*who_madamedelaiguille
 Quand cela serait vrai, je ne veux pas qu'on me le dise, enfin je te défends de penser à lui davantage.
 
--*who_mademoisellejanneton
-Mais, ma chère mère, si je ne peux pas m'empêcher de l'aimer ?
-
--*who_madamedelaiguille
 Quoi, tu aurais ce coeur-là, d'aimer un vilain coquin comme cela qui t'insulte, qui insulte ta mère ; je te tordrais plutôt le col que de souffrir que tu l'aimes encore après cela.
 
--*who_mademoisellejanneton
-Mais, ma chère mère, comment voulez-vous que je fasse ?
-
--*who_madamedelaiguille
 Aimes-en un autre, n'importe lequel, cela m'est égal, pourvu que ce ne soit pas lui.
 
--*who_mademoisellejanneton
-Mais si je ne le peux pas.
-
--*who_madamedelaiguille
 Je te dis que je le veux, je fuis ta mère en un mot comme en cent.
 
--*who_mademoisellejanneton
-Mais c'est que moi, je ne sais si vous voudriez.
+Quoi ? Ne pleure plus, tais-toi et parle.
 
--*who_madamedelaiguille
-Quoi ?
-Ne pleure plus, tais-toi et parle.
+Oui, que tu m'as fait relever, après t'avoir attendue toute la nuit pour t'ouvrir la porte ; ah, ne me parle pas de cela. Eh bien, qu'est-ce que tu veux dire ?
 
--*who_mademoisellejanneton
-Vous savez bien, ma chère mère, ce bal où j'ai été dans la rue de la Mortellerie, avec ma cousine.
-
--*who_madamedelaiguille
-Oui, que tu m'as fait relever, après t'avoir attendue toute la nuit pour t'ouvrir la porte ; ah, ne me parle pas de cela.
-Eh bien, qu'est-ce que tu veux dire ?
-
--*who_mademoisellejanneton
-C'est qu'il y avait un ami de ma cousine, avec qui j'ai beaucoup dansé, je ne vois après Monsieur Discret que lui...
-
--*who_madamedelaiguille
 Quoi, tu m'en parles encore ?
 
--*who_mademoisellejanneton
-Ce n'est que pour vous dire qu'après lui il n'y a que ce Monsieur là que je puisse aimer ; ma cousine m'a dit que c'était un bon parti, et que si elle n'était pas accordée avec un autre, qu'elle aurait bien voulu de lui.
+Et de quel métier est-il ? Il faut savoir sa vacation.
 
--*who_madamedelaiguille
-Et de quel métier est-il ?
-Il faut savoir sa vacation.
-
--*who_mademoisellejanneton
-Il n'a point de métier, il porte l'épée.
-
--*who_madamedelaiguille
 Il porte l'épée : qu'est-ce qu'il est donc ?
 
--*who_mademoisellejanneton
-Il est Commis aux Barrières.
-
--*who_madamedelaiguille
 Et il se nomme ?
 
--*who_mademoisellejanneton
-Monsieur Dubois.
+Comment, Monsieur Dubois ? Eh, mais s'il était le fils de Monsieur De Lafleur, qui s'appelle aussi Monsieur Dubois, cela serait trop heureux.
 
--*who_madamedelaiguille
-Comment, Monsieur Dubois ?
-Eh, mais s'il était le fils de Monsieur De Lafleur, qui s'appelle aussi Monsieur Dubois, cela serait trop heureux.
+Oui, pourquoi pas ? Il s'était marié trois ans avant moi, et il doit avoir un fils assez grand à présent.
 
--*who_mademoisellejanneton
-Qui, ce Monsieur qui nous a acheté des chaussons ce matin ?
-
--*who_madamedelaiguille
-Oui, pourquoi pas ?
-Il s'était marié trois ans avant moi, et il doit avoir un fils assez grand à présent.
-
--*who_mademoisellejanneton
-Dame, écoutez donc, cela pourrait bien être ; car il m'a dit que son père avait bien de la protection, qu'il était débitant de tabac, et que pour lui il aurait bientôt un meilleur emploi.
-
--*who_madamedelaiguille
 Mais il faudrait savoir si tout cela est bien vrai, et s'il n'est pas amoureux d'une autre ; car ces chiens d'hommes, il ne faut pas trop s'y fier, après ce qui nous arrive.
 
--*who_mademoisellejanneton
-Oh, je fuis bien sûre qu'il est amoureux de moi ; car il me l'a dit ; mais je ne lui ai rien répondu, parce que je comptais épouser Monsieur Discret, cet ingrat-là.
-
--*who_madamedelaiguille
 Quoi, tu y penses encore ?
 
--*who_mademoisellejanneton
-Ah, ma chère mère, c'est pour la dernière fois.
-Et tenez, le voilà Monsieur Dubois.
+Où cela ? Celui qui vient de ce côté-ci ?
 
--*who_madamedelaiguille
-Où cela ?
-Celui qui vient de ce côté-ci ?
-
--*who_mademoisellejanneton
-Oui, justement, le voilà qui me salue.
-Il vient à nous.
-
--*who_madamedelaiguille
 Eh bien, laisse-le approcher.
 
-**** *book_ *id_I10 *act_I *date_1768
+Oui, oui, Monsieur, très volontiers. Asseyez-vous donc, s'il vous plaît.
 
--*who_monsieurduboisfils
-Mademoiselle, oserais-je prendre la liberté de m'informer de l'état de votre santé, avec la permission de Madame votre mère ?
-
--*who_madamedelaiguille
-Oui, oui, Monsieur, très volontiers.
-Asseyez-vous donc, s'il vous plaît.
-
--*who_monsieurduboisfils
-Je viens de la Barrière Saint Antoine, et je m'en vais à la Douane, et j'ai dit comme cela chemin faisant, il faut que j'aille savoir des nouvelles de Mademoiselle Janneton.
-
--*who_madamedelaiguille
 Monsieur, vous faites bien de l'honneur à ma fille, et tenez, elle me parlait de vous.
 
--*who_monsieurduboisfils
-Ah , Madame, je fuis donc plus heureux que je ne croyais ; car je ne pensais pas qu'elle pût jamais se souvenir de moi.
+Pourquoi cela, Monsieur ? Quand on a des manières honnêtes, c'est toujours bien fait ; les honnêtes gens sont si rares, surtout dans ce temps-ci.
 
--*who_madamedelaiguille
-Pourquoi cela, Monsieur ?
-Quand on a des manières honnêtes, c'est toujours bien fait ; les honnêtes gens sont si rares, surtout dans ce temps-ci.
+Oui-da volontiers. Il est bien bon ce tabac-là, où le prenez-vous ?
 
--*who_monsieurduboisfils
-Cela est bien vrai.
-Madame en use-t-elle?
+Monsieur votre père ? Serait-ce Monsieur de Lafleur, qui demeurait autrefois chez Monsieur Largentier ?
 
--*who_madamedelaiguille
-Oui-da volontiers.
-Il est bien bon ce tabac-là, où le prenez-vous ?
+Mais vraiment c'est cela tout juste, Monsieur votre père est de nos plus anciens amis. Et tenez, comme il le disait tantôt, il n'y a que cela ; car à présent on ne sait sur qui compter.
 
--*who_monsieurduboisfils
-Chez mon père, qui n'en vend que du bon ; parce qu'il y a des raisons pour cela.
+Écoutez donc, il n'y a qu'un mot qui serve, comme dit l'autre, et puisque nous avons renouvelé connaissance avec Monsieur votre père... Je suis bien fâchée qu'il n'ait pas voulu manger la soupe avec nous ; cela serait peut-être fini à présent.
 
--*who_madamedelaiguille
-Monsieur votre père ?
-Serait-ce Monsieur de Lafleur, qui demeurait autrefois chez Monsieur Largentier ?
-
--*who_monsieurduboisfils
-Oui, Madame, et c'est Monsieur Largentier, qui nous aime beaucoup, qui m'a fait avoir la place que j'ai.
-
--*who_madamedelaiguille
-Mais vraiment c'est cela tout juste, Monsieur votre père est de nos plus anciens amis.
-Et tenez, comme il le disait tantôt, il n'y a que cela ; car à présent on ne sait sur qui compter.
-
--*who_monsieurduboisfils
-C'est que l'on ne connaît pas tout le monde, mais je sais un quelqu'un qui serait bienheureux, si vous et Mademoiselle Janneton... et, elle sait bien ce que je veux dire.
-
--*who_madamedelaiguille
-Écoutez donc, il n'y a qu'un mot qui serve, comme dit l'autre, et puisque nous avons renouvelé connaissance avec Monsieur votre père...
-Je suis bien fâchée qu'il n'ait pas voulu manger la soupe avec nous ; cela serait peut-être fini à présent.
-
--*who_monsieurduboisfils
-Comment, quoi, Madame, qu'est-ce que vous voulez donc dire ?
-Serais-je assez heureux pour avoir le bonheur que de !...
-Mais ; Mademoiselle, dites donc ?...
-
--*who_mademoisellejanneton
-C'est à ma chère mère à parler.
-
--*who_madamedelaiguille
 Eh bien, parlez, vous, je parlerai après.
 
--*who_mademoisellejanneton
-C'est que je disais comme cela à ma chère mère que vous aviez envie de vous marier.
-
--*who_monsieurduboisfils
-Il est bien vrai que je n'y avais jamais pensé avant de vous avoir vu ; mais du depuis ce temps-là, je ne pense pas à autre chose.
-
--*who_madamedelaiguille
 Tenez, écoutez-moi, mes enfants ; je ne suis qu'une femme, et je ne vais point par quatre chemins ; ce qu'on tient il ne faut pas le lâcher ; allez chercher Monsieur votre père ; s'il est vrai que vous êtes son fils, cela fera bientôt fini ; voilà comme je suis moi, voyez-vous.
 
--*who_monsieurduboisfils
-Ah, Madame !
-Ah Mademoiselle Janneton !
-Mais serait-il bien vrai ?
-Dans ces occasions-là, il ne faut pas épargner, je m'en vais prendre un fiacre, et je reviens tout de, suite.
-Mais, Madame, un bonheur ne vient point sans l'autre , voilà mon père qui passe par là-bas et qui vient de ce côté-ci.
+Il va être bien étonné de voir que nous vous connaissons. Allons, allons, c'est bon.
 
--*who_mademoisellejanneton
-Tout de bon ?
-
--*who_monsieurduboisfils
-Oui, voyez.
-
--*who_madamedelaiguille
-Il va être bien étonné de voir que nous vous connaissons.
-Allons, allons, c'est bon.
-
-**** *book_ *id_I11 *act_I *date_1768
-
--*who_monsieurduboisfils
-Mon père, mon père ?
-Par ici.
-
--*who_monsieurduboispere
-Ah, ah, qu'est-ce que tu fais-là ?
-Est-ce que vous connaissez ce garçon-là, Madame de l'Aiguille ?
-
--*who_madamedelaiguille
 Oui vraiment, nous le connaissons et nous le connaîtrons bientôt mieux si vous voulez.
 
--*who_monsieurduboispere
-Ah, Dame, écoutez donc, ce n'est pas parce que c'est mon fils ; mais c'est un grivois qui ne mange pas son pain dans sa poche tel que vous le voyez, et si vous étiez d'humeur enfin...
-Devinez ce que je veux dire.
+Ah, voyez le gros fin ! Bien attaqué, bien répondu ; pour moi je crois que Monsieur vaut bien Madame, et tenez sans barguigner davantage, je dis qu'il faut les marier ensemble.
 
--*who_madamedelaiguille
-Ah, voyez le gros fin !
-Bien attaqué, bien répondu ; pour moi je crois que Monsieur vaut bien Madame, et tenez sans barguigner davantage, je dis qu'il faut les marier ensemble.
-
--*who_monsieurduboispere
-Eh mais, écoutez donc, si vous y consentez, je ne demande pas mieux.
-
--*who_madamedelaiguille
 Tout de bon ?
 
--*who_monsieurduboisfils
-Assurément, quand on se connaît de longue main, c'est tout ce qu'il faut.
-Il a un bon emploi, il en aura un meilleur encore.
-Quand je serai mort, je donnerai à ma belle-fille, mon débit de tabac ; je crois qu'avec cela mon fils est un bon parti.
-
--*who_madamedelaiguille
 Moi, je n'ai que Janneton d'enfants, ainsi tout ce que j'ai sera pour elle.
 
--*who_monsieurduboispere
-C'est bien dit, je vous donne ma parole.
-
--*who_madamedelaiguille
-Et moi la mienne.
-Allons, embrassez-vous, mes enfants, voilà qui est fini.
+Et moi la mienne. Allons, embrassez-vous, mes enfants, voilà qui est fini.
 Allons, entrons chez nous, nous boirons un coup en causant de tout cela.
 
--*who_mademoisellejanneton
-Ah, ma mère, voilà Monsieur Discret.
+Laissez-moi faire. Je m'en vais lui laver la tête.
 
--*who_madamedelaiguille
-Laissez-moi faire.
-Je m'en vais lui laver la tête.
-
--*who_mademoisellejanneton
-Bon, bon, ne lui dites rien plutôt.
-
--*who_madamedelaiguille
 Non, je veux en avoir le coeur net.
 
--*who_mademoisellejanneton
-Ah, Monsieur Dubois J
-
--*who_monsieurduboisfils
-Ne craignez rien, je lui parlerai moi, s'il dit quelque chose.
-
-**** *book_ *id_I12 *act_I *date_1768
-
--*who_madamedelaiguille
 Parlez un peu, Monsieur l'Écrivain, je vous conseille de ne plus venir vous étaler auprès de chez nous, car je Vous frotterais les oreilles.
 
--*who_monsieurdiscret
-Mais, mais qu'est-ce que vous avez donc ; Madame de l'Aiguille ?
-
--*who_mademoisellejanneton
-Fi, c'est bien vilain à vous, Monsieur Discret.
-
--*who_monsieurdiscret
-Mais je ne sais pas ce que vous voulez dire.
-
--*who_madamedelaiguille
 Comment, coquin, après la lettre que tu as écrite à ma fille.
 
--*who_monsieurdiscret
-Comment ; mais je croyais que vous saviez que je lui écrivais et quand on doit se marier ensemble...
+Oui, et le pied d'étal de ma vertu qui a fait un faux pas. Attends, attends-moi.
 
--*who_madamedelaiguille
-Oui, et le pied d'étal de ma vertu qui a fait un faux pas.
-Attends, attends-moi.
-
--*who_monsieurdiscret
-Quoi ?
-
--*who_madamedelaiguille
 Si je prends mon aulne, je te la casserai sur le corps, vilain coquin.
 
--*who_monsieurdiscret
-Comment ?
-Mais cousin...
-
--*who_monsieurduboisfils
-Cousin ?
-Je ne vous connais pas, Monsieur, passez votre chemin, ou...
-
--*who_madamedelaiguille
 Tu ne veux pas de ma fille en mariage tu ne l'auras pas non plus ; car Monsieur l'épouse.
 
--*who_monsieurdiscret
-Mais c'est traître cela ?
-
--*who_madamedelaiguille
 Et tu n'as que faire de revenir jamais grisonner devant chez moi.
 
--*who_monsieurdiscret
-Mais écoutez-moi donc, Madame de l'Aiguille, Mademoiselle Janneton...
-
--*who_mademoisellejanneton
-Allons, allons, laissez-le là, ma chère mère.
-
--*who_madamedelaiguille
 Non, je veux qu'il s'en aille.
 
--*who_monsieurdiscret
-Je ne demande à dire qu'un mot.
-
--*who_madamedelaiguille
 Tu en as écrit plus qu'il n'en fallait.
 
--*who_monsieurdiscret
-Mais ce n'est pas moi qui...
-
--*who_madamedelaiguille
 Ce n'est pas ton écriture, chien de menteur ?
 
--*who_monsieurdiscret
-Je ne dis pas cela ; mais...
-
--*who_madamedelaiguille
 Allons va-t-en tout-à-l'heure.
 
--*who_monsieurdiscret
-Je veux auparavant...
-
--*who_monsieurduboisfils
-Monsieur Discret, si vous raisonnez...
-
--*who_monsieurdiscret
-Mais vous savez bien que c'est vous, et je ne saie à quoi il tient...
-
--*who_monsieurduboisfils
-À quoi il tient ?
-
--*who_mademoisellejanneton
-Allons, Monsieur Discret, allez-vous-en.
-
--*who_monsieurdiscret
-Allez, Mademoiselle, vous êtes une ingrate.
-
--*who_monsieurduboisfils
-Monsieur, je vous prie de ménager un peu le sexe, ou bien...
-
--*who_monsieurdiscret
-Monsieur, je ne dis rien...
-Mais c'est affreux à vous...
-
--*who_monsieurduboisfils
-Je crois que vous m'attaquez.
-Vous en irez vous ?
-
--*who_monsieurdiscret
-C'est que je prends toutes mes affaires.
-Non, je ne reviendrai plus ici.
-Je les donne toutes au diable ainsi que vous.
-
--*who_monsieurduboisfils
-Comment, vous raisonnez.
-
--*who_monsieurdiscret
-Non, Monsieur, je m'en vais ; mais quelque jour...
-
--*who_monsieurduboisfils
-Nous en voilà débarrassés.
-
--*who_mademoisellejanneton
-Ah, Monsieur Dubois, que je suis heureuse de vous avoir connu !
-
--*who_monsieurduboispere
-Venez donc, vous autres.
-
--*who_madamedelaiguille
 Est-il parti ?
 
--*who_monsieurduboisfils
-Oh, je vous réponds qu'il n'aura pas envie de revenir.
-
--*who_madamedelaiguille
 Allons, mes enfants, mon gendre, venez, venez.
+
+
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoisellejanneton
+
+Ah, Monsieur Dubois, si vous saviez !...
+
+Je le sais bien ; mais ma chère mère ne vous connaît pas.
+
+Si j'étais sûre qu'elle pût penser comme moi, Monsieur, vous n'auriez rien à craindre.
+
+Mais, par exemple, si elle voulait me marier à un autre que vous.
+
+Cela n'est pourtant que trop vrai.
+
+Je ne sais si vous connaissez Monsieur Discret, l'écrivain qui demeure là , vis-à-vis de chez nous ?
+
+Eh bien ; c'est à lui que ma chère mère veut me marier.
+
+Si je l'aimais, je ne vous aimerais pas.
+
+Je n'en sais rien ; car ma chère mère lui a donné sa parole, et il y compte, et voilà pourquoi je vous ai prié de me venir voir pendant qu'elle est sortie.
+
+Mais, je crois que oui ; car c'est lui qui fait tous nos Mémoires. Il écrit tout couramment des lettres pour tout le monde, et il est très malin.
+
+Ah, je vous en prie, mon cher Monsieur Dubois, dites moi ce que vous ferez.
+
+Si vous m'aimiez bien, vous n'auriez pas de secret pour moi, et j'ai envie de me fâcher
+
+Eh bien, qu'est- ce que c'est ?
+
+C'est très bien pensé ; mais qu'est-ce que vous ne voulez pas me dire ?
+
+Eh bien , Monsieur, allez-vous-en, et ne revenez jamais.
+
+Non, Monsieur, non, je ne le veux pas ; finissez donc, vous allez faire tomber mon ouvrage.
+Bon, le voilà à terre. Il va être tout crotté.
+
+Revenez bientôt.
+
+Allez-vous-en vite ; car je vois revenir ma chère mère.
+
+Adieu. Adieu.
+
+Mais, ma chère mère, quand vous saurez à l'occasion de quoi je pleure, je crois que vous penserez comme moi.
+
+Tenez, la voilà.
+
+Mais, ma chere mère, écoutez donc la raison de cela.
+
+Si vous vous fâchez...
+
+Vous savez bien que vous m'avez accordé en mariage à Monsieur Discret.
+
+Mais je ne dis pas que je ne l'aime plus.
+
+Je dis que j'ai bien peur de ne pas être sa femme.
+
+Parce que...
+
+Je n'oserais vous le dire.
+
+Dame ; c'est qu'on m'a dit qu'il était devenu amoureux d'une autre, ce qu'il voulait me faire une infidélité.
+
+Mais s'il est infidèle ?
+
+Oui, mais si Monsieur Discret en aime une autre ; il ne voudra plus de moi. Il n'a pas paru encore à sa place d'aujourd'hui.
+
+Ah, ma chère mère, ne lui dites rien encore. Il faut attendre et savoir si tout cela est bien vrai.
+
+Nous verrons comment il se conduira.
+
+Il ne faut pas vous emporter.
+
+C'est très bien dit. Mais voilà un Monsieur qui cherche quelque chose, il regarde bien notre enseigne.
+Je crois que c'est le père de Monsieur Dubois.
+
+Qu'est-ce que c'est, Monsieur ?
+
+Les voilà justement.
+
+Ah, ma chère mère, ne pourriez-vous pas les donner à Monsieur, à huit sols ?
+
+Il est bien poli ce Monsieur-là.
+
+Ma chère mère, ma chere mère ?
+
+Il n'y est plus.
+
+C'est que si ce qu'on m'a dit est vrai...
+
+Jalouse, non ; mais quand on aime bien...
+
+On voit bien que vous n'avez jamais aimé.
+
+C'est moi ; qu'est-ce que c'est ? Elle prend la lettre et lit l'adresse Ah , ma chère mère, c'est récriture de Monsieur Discret.
+
+Je meurs de peur qu'on ne m'ait dit vrai.
+
+Il lui est arrivé quelque malheur !
+
+De vous, ma chère mère.
+
+Comment de moi ?
+
+Mais, ma chère mère, peut-être que...
+
+Mais c'est peut-être un faux rapport qu'on lui aura fait.
+
+Mais, ma chère mère, si je ne peux pas m'empêcher de l'aimer ?
+
+Mais, ma chère mère, comment voulez-vous que je fasse ?
+
+Mais si je ne le peux pas.
+
+Mais c'est que moi, je ne sais si vous voudriez.
+
+Vous savez bien, ma chère mère, ce bal où j'ai été dans la rue de la Mortellerie, avec ma cousine.
+
+C'est qu'il y avait un ami de ma cousine, avec qui j'ai beaucoup dansé, je ne vois après Monsieur Discret que lui...
+
+Ce n'est que pour vous dire qu'après lui il n'y a que ce Monsieur là que je puisse aimer ; ma cousine m'a dit que c'était un bon parti, et que si elle n'était pas accordée avec un autre, qu'elle aurait bien voulu de lui.
+
+Il n'a point de métier, il porte l'épée.
+
+Il est Commis aux Barrières.
+
+Monsieur Dubois.
+
+Qui, ce Monsieur qui nous a acheté des chaussons ce matin ?
+
+Dame, écoutez donc, cela pourrait bien être ; car il m'a dit que son père avait bien de la protection, qu'il était débitant de tabac, et que pour lui il aurait bientôt un meilleur emploi.
+
+Oh, je fuis bien sûre qu'il est amoureux de moi ; car il me l'a dit ; mais je ne lui ai rien répondu, parce que je comptais épouser Monsieur Discret, cet ingrat-là.
+
+Ah, ma chère mère, c'est pour la dernière fois. Et tenez, le voilà Monsieur Dubois.
+
+Oui, justement, le voilà qui me salue. Il vient à nous.
+
+C'est à ma chère mère à parler.
+
+C'est que je disais comme cela à ma chère mère que vous aviez envie de vous marier.
+
+Tout de bon ?
+
+Ah, ma mère, voilà Monsieur Discret.
+
+Bon, bon, ne lui dites rien plutôt.
+
+Ah, Monsieur Dubois J
+
+Fi, c'est bien vilain à vous, Monsieur Discret.
+
+Allons, allons, laissez-le là, ma chère mère.
+
+Allons, Monsieur Discret, allez-vous-en.
+
+Ah, Monsieur Dubois, que je suis heureuse de vous avoir connu !
+
+
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdiscret
+
+Madame de l'Aiguille ne me regarde pas, non plus que Mademoiselle Janneton ; est-ce qu'elles seraient fâchées contre moi ? Qu'est-ce que cela veut dire ? C'est peut-être parce que je n'ai pas fait le mémoire qu'elle m'a demandé, pour tout ce qu'elle a vendu à ce Charcutier de la Croix Rouge. Dame, si elle est fâchée elle se défâchera, elle n'aura que deux peines ; mais, Mademoiselle Janneton, qu'est-ce qu'elle peut avoir contre moi ? C'est peut-être à cause de sa mère.
+
+Oui, Monsieur, vous n'avez qu'a dire, tout ce qui est pressé avec moi a toujours la préférence. Voulez-vous bien vous donner la peine, de vous asseoir ?
+
+Ah bien, je vous donnerai un remède qui vous emportera cela comme avec un rasoir et sans douleur.
+
+Laissez, laissez-moi faire, vous serez content. Mais voyons la lettre.
+
+Monsieur et cher Amant.
+« J'ai l'honneur de vous écrire ces lignes pour vous faire à savoir que j'ai bien du chagrin ; parce que je crains déjà que quand je ferai votre femme vous ne m'aimez pas ; voilà pourquoi ma chère mère me défend de vous parler davantage, ce qui met mon coeur en combustion, et que je ne passe pas une nuit sans dormir en rêvant de vous ; ce n'est pourtant pas que je vous aime autant que je vous aimais, voilà ce que je ne voulais pas vous dire , quoique je croie que vous ne m'aimez plus ; mais la plume me tombe des mains pour dire que cela n'est pas vrai , et que je vous aime toujours de tout mon coeur.
+Votre très humble et très obéissante servante,
+Janneton ?
+
+C'est plaisant ; mais ce n'est pas son écriture, ainsi ce n'est pas elle.
+
+C'est que vous ne savez pas ce que je veux dire. Ah ça je m'en vais vous faire une réponse, quel style voulez-vous ?
+
+C'est bien dit. Vous connaissez bien le beau sexe.
+
+Je vous entends bien. Vous allez voir.
+
+Ne vous embarrassez pas.
+
+Tenez, voilà le commencement?
+
+Mademoiselle,
+Je mets la main à la plume mais avec regret, mon coeur saigne de tous les côtés, hors du vôtre, quand il pense à Madame votre mère qui est comme un dragon toujours envers moi.
+
+Écoutez, écoutez, vous ferez content. Il me vient une bonne idée dans la tête.
+Et qui ne peut vous donner que de mauvais conseils quant à l'égard de mon amour.
+
+Oh, je fais bien, vous allez voir.
+Tenez voyez si ce n'est pas là ce que vous vouliez dire ?
+«Et comme le piédestal de fa vertu a souvent fait des faux pas...»
+
+«Je crains qu'il n'en arrive de même de vous.»
+
+«Si vous vouliez éprouver mon amour, sans mariage, je ne demanderais pas mieux dans ce cas-là que d'être de tout mon coeur, Mademoiselle.
+Votre très humble et très respectueux Serviteur.
+
+Je suis bien aise que vous soyez content ; dame nous autres, il nous passe tant de ces affaires-là par les mains, que j'y suis un peu Grec.
+
+Avant de la cacheter, ne faut-il pas signer ?
+
+Dites-moi votre nom.
+
+Discret ? Mais c'est aussi mon nom.
+
+Sûrement. C'est plaisant cela ! Est-ce que vous seriez le fils de Monsieur Discret, Facteur de la petite Poste, qui a été tué à l'armée il y a bien longtemps ?
+
+Cela fait une différence ; mais en ce cas-là nous sommes cousins.
+
+Je ne demande pas mieux, je m'en vais cacheter cette lettre, et puis je vous mènerai à un endroit où, il y a de bon vin. Je m'en vais mettre l'adresse à Mademoiselle Mademoiselle Janneton ?
+
+Voilà votre affaire finie, cousin.
+Si vous voulez venir à présent...
+
+Bon, entre parents. Et puis vous allez payer chopine. Allons, je vous expliquerai ce qui m'a si fort étonné.
+
+C'est qu'il faut arranger ses affaires. Je vous suis.
+
+Mais, mais qu'est-ce que vous avez donc ; Madame de l'Aiguille ?
+
+Mais je ne sais pas ce que vous voulez dire.
+
+Comment ; mais je croyais que vous saviez que je lui écrivais et quand on doit se marier ensemble...
+
+Quoi ?
+
+Comment ? Mais cousin...
+
+Mais c'est traître cela ?
+
+Mais écoutez-moi donc, Madame de l'Aiguille, Mademoiselle Janneton...
+
+Je ne demande à dire qu'un mot.
+
+Mais ce n'est pas moi qui...
+
+Je ne dis pas cela ; mais...
+
+Je veux auparavant...
+
+Mais vous savez bien que c'est vous, et je ne saie à quoi il tient...
+
+Allez, Mademoiselle, vous êtes une ingrate.
+
+Monsieur, je ne dis rien... Mais c'est affreux à vous...
+
+C'est que je prends toutes mes affaires.
+Non, je ne reviendrai plus ici. Je les donne toutes au diable ainsi que vous.
+
+Non, Monsieur, je m'en vais ; mais quelque jour...
+
+
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+
+Madame, ne pourriez-vous pas m'enseigner où demeure Mademoiselle Janneton?
+
+Oui, c'est de sa part.
+
+Madame, m'allez-vous donner la réponse ?
+
+Mais il m'a dit que vous me payeriez.
+
+Je m'en vais lui dire que c'est comme cela que vous recevez sa lettre.
+
+Je n'y manquerai pas.
+

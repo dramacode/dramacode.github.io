@@ -1,46 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1737
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alfonse
 
--*who_alcimadure
-Les États, en tumulte, assemblés dans Lisbonne,
-Au perfide Alvarès assurent la couronne,
-Si, dans un an, le roi ne donne au Portugal
-Un enfant qui du trône exclura son rival.
-Pour tromper Alvarès j'entre en sa confidence,
-Et ma feinte amitié gagne sa confiance.
-Mais je le hais autant que je l'aimais jadis :
-Le crime ne peut pas conserver des amis.
-Pour perdre ce rival et pour servir Alphonse,
-Il n'est rien sous les cieux à quoi je ne renonce.
-Mais, au sein des grandeurs et favori du roi,
-Qui des soins de l'État se repose sur moi,
-Qui croirait qu'en secret le pauvre Alcimadure
-Ressentit des malheurs dont frémit la nature ;
-Malheurs qu'en cette Cour on n'a point découverts,
-Et que j'ai su cacher aux yeux de l'univers?
-Dès mes plus jeunes ans, amené dans Byzance,
-Des monstres prirent soin d'élever mon enfance,
-Et, sans pitié, sur moi portant leur cruauté,
-M'enlevèrent le sceau de la virilité.
-Leur aveugle fureur, leur noire barbarie
-Aux horreurs d'un sérail consacrèrent ma vie,
-Et, pour m'anéantir sans me priver du jour,
-Ne laissèrent chez moi nulle prise à l'amour.
-Depuis ce temps affreux, en horreur à moi même,
-Rien ne peut adoucir mon infortune extrême.
-Loin de moi pour toujours s'envola le plaisir :
-J'en cherche en vain l'image et ne puis la saisir.
-Le désespoir souvent malgré moi me surmonte,
-Et ma ressource unique est de cacher ma honte.
-Mais le roi vient.
-
-**** *book_ *id_I02 *act_I *date_1737
-
--*who_alcimadure
-      Seigneur, tous ces bruits incertains.
-
--*who_alfonse
 Le sceptre va bientôt passer en d'autres mains.
 Tu sais depuis quel temps un stérile hyménée
 Au sort d'une princesse unit ma destinée.
@@ -83,10 +44,6 @@ Ton opprobre et celui de toute notre espèce ?
 Tu ne m'as fait sortir du néant qu'à moitié ;
 Ah ! Tu devais du moins m'y laisser par pitié.
 
--*who_alcimadure
-Infortuné, quel sort !
-
--*who_alfonse
       Alvarès, mon beau-frère,
 Couvrant ses noirs projets du voile du mystère,
 Fomente une révolte ; Alvarès, triomphant,
@@ -98,17 +55,6 @@ Pour me désespérer, aujourd'hui tout concourt :
 La reine, dont en vain j'ai tenté la sagesse,
 D'une austère vertu conserve la rudesse.
 
--*who_alcimadure
-Seigneur, avec plus d'art il faut la ménager :
-La vertu, dans son sexe, est la peur du danger.
-Avec vous sur l'honneur elle s'est retranchée :
-Un autre qu'un époux l'eût moins effarouchée.
-Si, lui faisant parler par un amant discret,
-Vous-même paraissiez ignorer son secret,
-Peut-être alors la reine, à l'ombre du mystère,
-Au gré de vos désirs deviendrait moins sévère.
-
--*who_alfonse
 Non ; j'en ai fait l'épreuve, et d'un facile époux
 Affectant à dessein les dehors les plus doux,
 Je pensais entrevoir, et j'avais lieu de croire
@@ -120,23 +66,11 @@ Dans mon royaume entier, ma femme seule est sage.
 C'est pour moi seul qu'est fait un semblable malheur,
 Et les autres époux sont comblés de bonheur !
 
--*who_alcimadure
-Rien ne peut-il calmer l'ennui qui vous possède ?
-
--*who_alfonse
 À mon malheur, ami, je ne vois qu'un remède.
 
--*who_alcimadure
-Eh quoi ! Seigneur ?...
-
--*who_alfonse
       Écoute. Un sujet tel que toi
 Du fardeau de l'hymen doit soulager son roi.
 
--*who_alcimadure
-Seigneur, que dites-vous ?
-
--*who_alfonse
       Dès que la nuit plus sombre,
 Aux larcins des amants aura prêté son ombre,
 Mes ordres sont donnés, par des détours secrets
@@ -154,10 +88,6 @@ Mais agis sans parler, force tous les obstacles,
 Trouve l'art enchanteur de la passionner,
 Et ne lui laisse pas le temps de s'étonner.
 
--*who_alcimadure
-Seigneur.
-
--*who_alfonse
       Pour me servir, va, redouble ton zèle,
 Je ne puis mieux choisir qu'un sujet si fidèle.
 Au reste, tu conçois qu'un semblable projet
@@ -165,57 +95,61 @@ Exige du ministre un éternel secret,
 Et que, pour juste prix d'une folle imprudence,
 La mort suivrait de près la moindre confidence.
 
--*who_alcimadure
-Mais, Seigneur...
-
--*who_alfonse
       Tranche ici des discours superflus.
 
--*who_alcimadure
-Je me jette à vos pieds.
-
--*who_alfonse
       Je ne t'écoute plus.
 
--*who_alcimadure
-Ah ! Souffrez qu'un sujet à vos genoux s'explique.
-
--*who_alfonse
 Alcimadure, un Roi ne veut point de réplique :
 Un sujet doit voler à son moindre désir,
 Et son premier devoir est celui d'obéir.
 
-**** *book_ *id_I03 *act_I *date_1737
+Tout est calme en ces lieux. Le faible jour qui luit
+Commence à dissiper les ombres de la nuit.
+Alcimadure a peine à s'arracher encor
+À des plaisirs qui vont finir avec l'aurore.
+Peut-être, en ces moments, qui me sont odieux,
+À la reine fait-il les plus tendres adieux.
+Dans ce passage étroit, qui conduit chez la Reine,
+Mon coeur jaloux l'attend et sa mort est certaine.
+Innocente victime, immolée au secret,
+Alcimadure, hélas ! Je te perds à regret :
+Mon honneur en danger me demande ta vie,
+Mais ta mort à ton Roi paraît digne d'envie.
+L'amour ferme tes yeux.Ah! ton sort est trop beau (1)!
+En sortant du triomphe, tu descends au tombeau.
+J'achèterais, au prix de la mort la plus sûre,
+Ces plaisirs qu'à mes sens refusa la nature !
+Quel bruit se fait entendre !... On ouvre...
 
--*who_alcimadure
-Juste ciel ! Et comment veux-tu que j'obéisse ?
-Hélas ! C'est ordonner ma honte et mon supplice.
-Si la nature en toi n'a pas mis ce qu'il faut,
-Le sort a mis en moi la nature en défaut.
-Cruel ! Ai-je de quoi contenter ton envie ?
-Mais si j'eusse parlé, c'était fait de ma vie.
-Sa politique adroite eût voulu me punir
-De savoir son secret sans pouvoir le servir.
-Ce maître soupçonneux m'en aurait fait un crime,
-Et peut-être déjà j'en serais la victime !
-Essayons, pour sauver Alfonse et son honneur,
-Si la Reine voudrait... Elle paraît...
+      Vengeons-nous !
 
-**** *book_ *id_I04 *act_I *date_1737
+      Il tombe sous mes coups.
+Alcimadure est mort...
+      Que vois-je ? Alcimadure !
 
--*who_leonor
+      Que croire, hélas ! Dans cette conjoncture ?
+Quelle est donc la victime ?
+
+Je l'attendais de toi...
+
+      Ô nature caduque !
+Crime de mon état ! J'avais armé ma main,
+J'étais... j'étais venu pour te percer le sein.
+Ma politique affreuse et ma lâche furie
+À mon secret, ami, sacrifiaient ta vie.
+Pardonne, en le plaignant, aux fureurs de ton Roi.
+Ah ! Je ne veux plus vivre et régner que par toi.
+Sa mort et ton salut, mon cher Alcimadure,
+M'annoncent un bonheur dont j'accepte l'augure.
+Je brave les complots des plus séditieux.
+Nous aurons un infant : rendons grâces aux Dieux !
+
+
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
       Seigneur,
 J'ai cru trouver le roi dans ces lieux.
 
--*who_alcimadure
-      Ah ! Madame,
-En faveur d'un époux laissez fléchir votre âme :
-C'est à vous d'apaiser les troubles de l'État.
-Confondez Alvarès et son lâche attentat,
-Et, rendant de la paix l'espérance moins frêle,
-Donnez un héritier au roi, sans qu'il s'en mêle.
-
--*who_leonor
 Interprète d'un roi par la crainte abattu,
 Te serais-tu flatté d'ébranler ma vertu,
 Ou le roi, se servant de ta coupable adresse,
@@ -231,89 +165,25 @@ Je ne brûlerai point d'une flamme adultère,
 Et, quels que soient du ciel les décrets éternels,
 Nous serons malheureux, et non pas criminels.
 
--*who_alcimadure
-L'aveu de votre époux n'ôte-t-il pas le crime ?
-De ces grands sentiments vous serez la victime,
-Madame, et, regrettant mes avis négligés,
-Un jour vous reviendrez de tous vos préjugés.
-Laissez-les gouverner le stupide vulgaire,
-Qui, même sur ce point, déjà ne l'est plus guère.
-Dans ce siècle éclairé, chacun est rebattu
-Qu'un si vain préjugé n'est pas une vertu.
-Quel tort à votre époux un amant peut-il faire ?
-Madame, il cède un bien dont il n'a point affaire,
-Un bien dont il a droit de pouvoir ordonner.
-
--*who_leonor
 Oui, ce bien est à lui ; mais peut-il le donner ?
 Lui seul en doit jouir, et ses ordres suprêmes.
 
--*who_alcimadure
-Les rois ne peuvent pas tout faire par eux-mêmes.
-Tout se rapporte au Roi, sans qu'il en soit l'auteur :
-Il traite de la paix par un ambassadeur;
-C'est par ses généraux qu'il gagne des batailles,
-Qu'il force des remparts, qu'il abat des murailles ;
-C'est en s'associant des ministres prudents
-Qu'il règle le dehors, et conduit le dedans.
-Tout se fait en son nom, et tout tourne à sa gloire ;
-L'histoire de son temps devient sa propre histoire.
-Ainsi, les héritiers que vous aurez sans lui
-Sont à lui comme à vous bien qu'ils viennent d'autrui
-
--*who_leonor
 Penses-tu m'éblouir par ces raisons forcées
 Et par l'éclat trompeur de tes fausses pensées ?
 Ma vertu, mon honneur...
 
--*who_alcimadure
-      L'opinion d'autrui
-Est ce qui fait l'honneur des femmes d'aujourd'hui.
-D'une femme galante à celle qu'on croit sage,
-Toute la différence est le secret...
-
--*who_leonor
       L'outrage
 Peut-il aller plus loin ?
 
--*who_alcimadure
-      Dans un amant discret,
-Vous trouverez, Madame, à l'ombre du secret,
-Les plaisirs les plus vifs, sans perdre de l'estime.
-
--*who_leonor
 Le crime qu'on ignore en est-il moins un crime ?
 C'est peu que les mortels soient contents de mes moeurs,
 Je prétends être sage à mes yeux comme aux leurs.
 Cessez donc en ce jour d'insulter à ma gloire :
 Ces discours font horreur, et je ne saurais croire...
 
--*who_alcimadure
-Non, ne m'en croyez pas ; croyez-en votre coeur ;
-Maîtresse de choisir, s'il connaît un vainqueur,
-Vous pouvez, dès ce soir, amante fortunée,
-Faire jouir l'amour des droits de l'hyménée.
-Travaillez pour Alfonse en travaillant pour vous,
-Et couronnez l'amant par les mains de l'époux.
-
--*who_leonor
 Insolent ! Penses-tu qu'une honteuse flamme
 S'allume dans un coeur tel que le mien ?...
 
--*who_alcimadure
-      Madame,
-Vous vous piquez en vain d'insensibilité :
-Aux plaisirs de l'amour votre sexe est porté.
-Mais, dès ses jeunes ans, instruit à l'imposture,
-L'art, pour dissimuler, s'y joint à la nature ;
-Je lis dans vos regards le trouble de vos sens.
-Vous, rebelle à l'amour ! Ah ! Ces yeux languissants,
-Où Vénus imprima son tendre caractère,
-Madame, tous les jours déposent le contraire ;
-Ils m'ont su révéler vos sentiments secrets :
-Je les ai vus, ces yeux, tournés sur Alvarès.
-
--*who_leonor
 Arrête, téméraire, et respecte ta Reine.
 Favori de ton roi, tu méprises ma haine,
 Mais je saurai l'instruire à quels points ses bontés
@@ -321,39 +191,39 @@ Ont su porter l'excès de tes témérités.
 Il ignore, sans doute, une telle insolence,
 Et je cours à ses pieds en demander vengeance.
 
--*who_alcimadure
-Allez trouver, Madame, un monarque irrité
-Contre les faux dehors de votre chasteté.
-Peut-être espérez-vous qu'en le chassant du trône,
-Alvarès à vos pieds portera la couronne ?
-Vous l'aimez, il vous aime, et vos complots secrets
-Vont à pouvoir un jour épouser Alvarès.
-Mais le ciel irrité, forçant tous les obstacles,
-En faveur de mon roi produira des miracles :
-De lui-même, d'Alfonse un enfant sortira
-Telle on a vu jadis l'impuissante Sara,
-Qu'on enleva deux fois sans la rendre fertile,
-À quatre-vingt-dix ans cesser d'être stérile,
-Et détruire l'espoir des enfants d'Ismaël
-En accouchant d'un fils d'où sortit Israël.
-
--*who_leonor
 Ministre criminel des volontés d'Alfonse,
 J'oppose à tant d'horreurs le mépris pour réponse.
 
--*who_alcimadure
-Allons tout disposer, et, trompant Alvarès,
-Faisons tomber ce traître en mes pièges secrets.
-
-**** *book_ *id_I05 *act_I *date_1737
-
--*who_leonor
 Il sait pour Avarès ma criminelle flamme.
 Ciel ! Mais c'est lui qui vient! Fuyons.
 
-**** *book_ *id_I06 *act_I *date_1737
+Barbare ! Il vous sied bien de plaindre mes malheurs,
+Vous, l'auteur de mes maux, vous qui causez mes pleurs.
 
--*who_alvares
+Je ne vous nierai pas, Seigneur, qu'en ma jeunesse
+Mon coeur sentit pour vous une égale tendresse :
+Je touchais au moment de vous voir mon époux,
+Et ma félicité dépendait d'être à vous :
+Mais quand l'hymen du roi trompa notre espérance,
+Je repris sur mon coeur une entière puissance.
+D'un malheureux amour ma vertu triompha :
+Le penchant le fit naître, et l'honneur l'étouffa,
+Vous-même, dans ce jour, je vous prends pour arbitre.
+Alfonse est mon époux...
+
+Qui ! moi ! Que je subisse une épreuve indécente ?
+Ah ! Ce discours affreux me remplit d'épouvante.
+Alfonse est mon époux, et le sera ! Mon coeur
+Ne consulte de lois que celles de l'honneur,
+Et je rejette enfin ces usages coupables
+Que suivent, sans pudeur, des femmes méprisables,
+Qui, remplissant de cris les tribunaux divers,
+Vont étaler leur honte aux yeux de l'univers.
+Adieu, Seigneur.
+
+
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alvares
+
       Eh quoi ! Madame,
 Dans sa prévention votre esprit affermi
 En fuyant Alvarès croit fuir un ennemi !
@@ -372,11 +242,6 @@ Je succombe aux tourments qui déchirent mon coeur.
 Votre infortune, hélas ! Fait celle de ma vie :
 Mourir en vous servant est ma plus chère envie.
 
--*who_leonor
-Barbare ! Il vous sied bien de plaindre mes malheurs,
-Vous, l'auteur de mes maux, vous qui causez mes pleurs.
-
--*who_alvares
 Moi, causer vos malheurs !... Ah ! Divine princesse,
 Pour vous j'ai conservé ma première tendresse.
 Dans le fond de mon coeur lisez mieux en ce jour :
@@ -390,19 +255,6 @@ Lorsque l'amour du Roi rompit notre hyménée ?
 Je vous rappelle en vain ces souvenirs passés,
 Le temps de votre coeur les a tous effacés.
 
--*who_leonor
-Je ne vous nierai pas, Seigneur, qu'en ma jeunesse
-Mon coeur sentit pour vous une égale tendresse :
-Je touchais au moment de vous voir mon époux,
-Et ma félicité dépendait d'être à vous :
-Mais quand l'hymen du roi trompa notre espérance,
-Je repris sur mon coeur une entière puissance.
-D'un malheureux amour ma vertu triompha :
-Le penchant le fit naître, et l'honneur l'étouffa,
-Vous-même, dans ce jour, je vous prends pour arbitre.
-Alfonse est mon époux...
-
--*who_alvares
       Il n'en a que le titre.
 C'est usurper un nom si charmant et si doux :
 Madame, il faut être homme avant que d'être époux.
@@ -415,36 +267,14 @@ L'intérêt de l'État, le vôtre, tout vous force
 « Et bientôt, le congrès confondant votre époux,
 « Les flambeaux de l'hymen s'allumeront pour nous (1).
 
--*who_leonor
-Qui ! moi ! Que je subisse une épreuve indécente ?
-Ah ! Ce discours affreux me remplit d'épouvante.
-Alfonse est mon époux, et le sera ! Mon coeur
-Ne consulte de lois que celles de l'honneur,
-Et je rejette enfin ces usages coupables
-Que suivent, sans pudeur, des femmes méprisables,
-Qui, remplissant de cris les tribunaux divers,
-Vont étaler leur honte aux yeux de l'univers.
-Adieu, Seigneur.
-
-**** *book_ *id_I07 *act_I *date_1737
-
--*who_alvares
       Malgré l'amour qui me dévore,
 Je me trouve forcé de l'admirer encore.
 On vient...
 
-**** *book_ *id_I08 *act_I *date_1737
-
--*who_alvares
       Je te cherchais.... Ah ! toi seul dans mon coeur
 Peux ramener le calme et bannir la douleur.
 Mon esprit est en proie à des peines mortelles.
 
--*who_alcimadure
-Que dites-vous Seigneur, quand vos amis fidèles
-Ont, dans ce jour, forcé le Roi lui-même.
-
--*who_alvares
       Ami,
 Les États n'ont servi mes fureurs qu'à demi.
 Alfonse obtient du temps. La trêve d'une année
@@ -464,18 +294,182 @@ Le poison de l'amour a coulé dans mes veines
 Mon amour est mon être, et mon coeur aujourd'hui
 Ne veut, ne voit, ne sent et n'écoute que lui !
 
--*who_alcimadure
+      Alcimadure,
+Par quels moyens ? Comment ? Poursuis, je t'en conjure.
+
+La différence, ami, d'Alfonse et d'Alvarès
+À l'instant frappera la reine de trop près...
+
+Enfin, la Reine, après cet assoupissement,
+Voudra savoir sans doute...
+
+Ami, par quels bienfaits.
+
+Alcimadure !... Ami ! Dans peu tu connaîtras...
+
+Ah ! Traître !... Je me meurs !...
+
+
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcimadure
+
+Les États, en tumulte, assemblés dans Lisbonne,
+Au perfide Alvarès assurent la couronne,
+Si, dans un an, le roi ne donne au Portugal
+Un enfant qui du trône exclura son rival.
+Pour tromper Alvarès j'entre en sa confidence,
+Et ma feinte amitié gagne sa confiance.
+Mais je le hais autant que je l'aimais jadis :
+Le crime ne peut pas conserver des amis.
+Pour perdre ce rival et pour servir Alphonse,
+Il n'est rien sous les cieux à quoi je ne renonce.
+Mais, au sein des grandeurs et favori du roi,
+Qui des soins de l'État se repose sur moi,
+Qui croirait qu'en secret le pauvre Alcimadure
+Ressentit des malheurs dont frémit la nature ;
+Malheurs qu'en cette Cour on n'a point découverts,
+Et que j'ai su cacher aux yeux de l'univers?
+Dès mes plus jeunes ans, amené dans Byzance,
+Des monstres prirent soin d'élever mon enfance,
+Et, sans pitié, sur moi portant leur cruauté,
+M'enlevèrent le sceau de la virilité.
+Leur aveugle fureur, leur noire barbarie
+Aux horreurs d'un sérail consacrèrent ma vie,
+Et, pour m'anéantir sans me priver du jour,
+Ne laissèrent chez moi nulle prise à l'amour.
+Depuis ce temps affreux, en horreur à moi même,
+Rien ne peut adoucir mon infortune extrême.
+Loin de moi pour toujours s'envola le plaisir :
+J'en cherche en vain l'image et ne puis la saisir.
+Le désespoir souvent malgré moi me surmonte,
+Et ma ressource unique est de cacher ma honte.
+Mais le roi vient.
+
+      Seigneur, tous ces bruits incertains.
+
+Infortuné, quel sort !
+
+Seigneur, avec plus d'art il faut la ménager :
+La vertu, dans son sexe, est la peur du danger.
+Avec vous sur l'honneur elle s'est retranchée :
+Un autre qu'un époux l'eût moins effarouchée.
+Si, lui faisant parler par un amant discret,
+Vous-même paraissiez ignorer son secret,
+Peut-être alors la reine, à l'ombre du mystère,
+Au gré de vos désirs deviendrait moins sévère.
+
+Rien ne peut-il calmer l'ennui qui vous possède ?
+
+Eh quoi ! Seigneur ?...
+
+Seigneur, que dites-vous ?
+
+Seigneur.
+
+Mais, Seigneur...
+
+Je me jette à vos pieds.
+
+Ah ! Souffrez qu'un sujet à vos genoux s'explique.
+
+Juste ciel ! Et comment veux-tu que j'obéisse ?
+Hélas ! C'est ordonner ma honte et mon supplice.
+Si la nature en toi n'a pas mis ce qu'il faut,
+Le sort a mis en moi la nature en défaut.
+Cruel ! Ai-je de quoi contenter ton envie ?
+Mais si j'eusse parlé, c'était fait de ma vie.
+Sa politique adroite eût voulu me punir
+De savoir son secret sans pouvoir le servir.
+Ce maître soupçonneux m'en aurait fait un crime,
+Et peut-être déjà j'en serais la victime !
+Essayons, pour sauver Alfonse et son honneur,
+Si la Reine voudrait... Elle paraît...
+
+      Ah ! Madame,
+En faveur d'un époux laissez fléchir votre âme :
+C'est à vous d'apaiser les troubles de l'État.
+Confondez Alvarès et son lâche attentat,
+Et, rendant de la paix l'espérance moins frêle,
+Donnez un héritier au roi, sans qu'il s'en mêle.
+
+L'aveu de votre époux n'ôte-t-il pas le crime ?
+De ces grands sentiments vous serez la victime,
+Madame, et, regrettant mes avis négligés,
+Un jour vous reviendrez de tous vos préjugés.
+Laissez-les gouverner le stupide vulgaire,
+Qui, même sur ce point, déjà ne l'est plus guère.
+Dans ce siècle éclairé, chacun est rebattu
+Qu'un si vain préjugé n'est pas une vertu.
+Quel tort à votre époux un amant peut-il faire ?
+Madame, il cède un bien dont il n'a point affaire,
+Un bien dont il a droit de pouvoir ordonner.
+
+Les rois ne peuvent pas tout faire par eux-mêmes.
+Tout se rapporte au Roi, sans qu'il en soit l'auteur :
+Il traite de la paix par un ambassadeur;
+C'est par ses généraux qu'il gagne des batailles,
+Qu'il force des remparts, qu'il abat des murailles ;
+C'est en s'associant des ministres prudents
+Qu'il règle le dehors, et conduit le dedans.
+Tout se fait en son nom, et tout tourne à sa gloire ;
+L'histoire de son temps devient sa propre histoire.
+Ainsi, les héritiers que vous aurez sans lui
+Sont à lui comme à vous bien qu'ils viennent d'autrui
+
+      L'opinion d'autrui
+Est ce qui fait l'honneur des femmes d'aujourd'hui.
+D'une femme galante à celle qu'on croit sage,
+Toute la différence est le secret...
+
+      Dans un amant discret,
+Vous trouverez, Madame, à l'ombre du secret,
+Les plaisirs les plus vifs, sans perdre de l'estime.
+
+Non, ne m'en croyez pas ; croyez-en votre coeur ;
+Maîtresse de choisir, s'il connaît un vainqueur,
+Vous pouvez, dès ce soir, amante fortunée,
+Faire jouir l'amour des droits de l'hyménée.
+Travaillez pour Alfonse en travaillant pour vous,
+Et couronnez l'amant par les mains de l'époux.
+
+      Madame,
+Vous vous piquez en vain d'insensibilité :
+Aux plaisirs de l'amour votre sexe est porté.
+Mais, dès ses jeunes ans, instruit à l'imposture,
+L'art, pour dissimuler, s'y joint à la nature ;
+Je lis dans vos regards le trouble de vos sens.
+Vous, rebelle à l'amour ! Ah ! Ces yeux languissants,
+Où Vénus imprima son tendre caractère,
+Madame, tous les jours déposent le contraire ;
+Ils m'ont su révéler vos sentiments secrets :
+Je les ai vus, ces yeux, tournés sur Alvarès.
+
+Allez trouver, Madame, un monarque irrité
+Contre les faux dehors de votre chasteté.
+Peut-être espérez-vous qu'en le chassant du trône,
+Alvarès à vos pieds portera la couronne ?
+Vous l'aimez, il vous aime, et vos complots secrets
+Vont à pouvoir un jour épouser Alvarès.
+Mais le ciel irrité, forçant tous les obstacles,
+En faveur de mon roi produira des miracles :
+De lui-même, d'Alfonse un enfant sortira
+Telle on a vu jadis l'impuissante Sara,
+Qu'on enleva deux fois sans la rendre fertile,
+À quatre-vingt-dix ans cesser d'être stérile,
+Et détruire l'espoir des enfants d'Ismaël
+En accouchant d'un fils d'où sortit Israël.
+
+Allons tout disposer, et, trompant Alvarès,
+Faisons tomber ce traître en mes pièges secrets.
+
+Que dites-vous Seigneur, quand vos amis fidèles
+Ont, dans ce jour, forcé le Roi lui-même.
+
 Eh bien, Seigneur, hâtons le jour de nos vengeances !
 J'ai su, par mes complots et mes intelligences,
 Vous frayer vers le trône un facile chemin.
 Osez me seconder : vous y montez demain.
 Demain, vous épousez la Reine.
 
--*who_alvares
-      Alcimadure,
-Par quels moyens ? Comment ? Poursuis, je t'en conjure.
-
--*who_alcimadure
 La vertu de la Reine est notre seul écueil,
 Et sa vertu l'effet de son farouche orgueil.
 Dans un sauvage honneur elle met l'héroïsme,
@@ -493,11 +487,6 @@ J'ai tout séduit : la garde et les dames d'honneur.
 Suivez-moi ; le succès est sûr, et tout l'annonce :
 Léonor, en dormant, vous prendra pour Alfonse.
 
--*who_alvares
-La différence, ami, d'Alfonse et d'Alvarès
-À l'instant frappera la reine de trop près...
-
--*who_alcimadure
 Agissez sans parler, n'éveillez point la Reine,
 Au doux sommeil le roi l'accoutuma sans peine.
 Passez rapidement du plaisir au désir,
@@ -505,11 +494,6 @@ Et du désir, soudain, revenez au plaisir.
 Une femme d'honneur prend cela pour un songe,
 Et ne s'éveille point, afin qu'il se prolonge.
 
--*who_alvares
-Enfin, la Reine, après cet assoupissement,
-Voudra savoir sans doute...
-
--*who_alcimadure
       Eh ! C'est dans ce moment
 Que l'amour, lui prêtant ses plus tendres faiblesses,
 Obtiendra le pardon des premières caresses.
@@ -526,10 +510,6 @@ C'est l'idole des grands et l'amour des sujets.
 D'ailleurs, cette princesse a même en sa personne
 De légitimes droits acquis à la couronne.
 
--*who_alvares
-Ami, par quels bienfaits.
-
--*who_alcimadure
       Ne perdons point de temps.
 La nuit avance. Entrez, vous avez peu d'instants :
 Je vais trouver le roi, qui pourrait vous surprendre.
@@ -539,15 +519,8 @@ Si la Reine vous veut accepter pour époux,
 Nous verrons la révolte à chaque instant s'accroître,
 Et, du trône, le Roi passera dans un cloître.
 
--*who_alvares
-Alcimadure !... Ami ! Dans peu tu connaîtras...
-
--*who_alcimadure
 Seigneur, dans ces moments, ne vous oubliez pas..
 
-**** *book_ *id_I09 *act_I *date_1737
-
--*who_alcimadure
 Aveuglé par l'amour, cours, dans ta folle ivresse,
 Goûter des vains plaisirs l'amorce enchanteresse !
 Quel esprit d'imprudence accompagne toujours
@@ -575,48 +548,8 @@ Ils ont des favoris et n'ont jamais d'amis.
 Mais bientôt Alvarès pourrait... Allons l'attendre
 Dans ce détour obscur, où je veux le surprendre.
 
-**** *book_ *id_I10 *act_I *date_1737
-
--*who_alfonse
-Tout est calme en ces lieux. Le faible jour qui luit
-Commence à dissiper les ombres de la nuit.
-Alcimadure a peine à s'arracher encor
-À des plaisirs qui vont finir avec l'aurore.
-Peut-être, en ces moments, qui me sont odieux,
-À la reine fait-il les plus tendres adieux.
-Dans ce passage étroit, qui conduit chez la Reine,
-Mon coeur jaloux l'attend et sa mort est certaine.
-Innocente victime, immolée au secret,
-Alcimadure, hélas ! Je te perds à regret :
-Mon honneur en danger me demande ta vie,
-Mais ta mort à ton Roi paraît digne d'envie.
-L'amour ferme tes yeux.Ah! ton sort est trop beau (1)!
-En sortant du triomphe, tu descends au tombeau.
-J'achèterais, au prix de la mort la plus sûre,
-Ces plaisirs qu'à mes sens refusa la nature !
-Quel bruit se fait entendre !... On ouvre...
-
-**** *book_ *id_I11 *act_I *date_1737
-
--*who_alfonse
-      Vengeons-nous !
-
--*who_alvares
-Ah ! Traître !... Je me meurs !...
-
--*who_alfonse
-      Il tombe sous mes coups.
-Alcimadure est mort...
-      Que vois-je ? Alcimadure !
-
--*who_alcimadure
 Seigneur...
 
--*who_alfonse
-      Que croire, hélas ! Dans cette conjoncture ?
-Quelle est donc la victime ?
-
--*who_alcimadure
       En ce pressant danger,
 Du perfide Alvarès je venais vous venger.
 Voulant sur votre front fixer le diadème,
@@ -624,22 +557,6 @@ Au lit de Léonor je l'ai conduit moi-même.
 Vous lui devrez, Seigneur, votre bonheur entier,
 Car ce fier ennemi vous donne un héritier.
 
--*who_alfonse
-Je l'attendais de toi...
-
--*who_alcimadure
       De moi !... Je suis eunuque.
 Et je vous le cachais...
 
--*who_alfonse
-      Ô nature caduque !
-Crime de mon état ! J'avais armé ma main,
-J'étais... j'étais venu pour te percer le sein.
-Ma politique affreuse et ma lâche furie
-À mon secret, ami, sacrifiaient ta vie.
-Pardonne, en le plaignant, aux fureurs de ton Roi.
-Ah ! Je ne veux plus vivre et régner que par toi.
-Sa mort et ton salut, mon cher Alcimadure,
-M'annoncent un bonheur dont j'accepte l'augure.
-Je brave les complots des plus séditieux.
-Nous aurons un infant : rendons grâces aux Dieux !

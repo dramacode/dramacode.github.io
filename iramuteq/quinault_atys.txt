@@ -1,102 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1676
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atys
 
--*who_temps
-En vain j'ai respecté la célèbre mémoire
-Des héros des siècles passés ;
-C'est en vain que leurs noms si fameux dans l'histoire,
-Du sort des noms communs ont été dispensés :
-Nous voyons un héros dont la brillante gloire
-Les a presque tous effacés.
-
--*who_heures
-Ses justes lois,
-Ses grands exploits
-Rendront sa mémoire éternelle :
-Chaque jour, chaque instant
-Ajoute encor à son nom éclatant
-Une gloire nouvelle.
-
--*who_temps
-La saison des frimas peut-elle nous offrir
-Les fleurs que nous voyons paraître ?
-Quel dieu les fait renaître
-Lorsque l'hiver les fait mourir ?
-Le froid cruel règne encore ;
-Tout est glacé dans les champs,
-D'où vient que Flore
-Devance le printemps ?
-
--*who_flore
-Quand j'attends les beaux jours, je viens toujours trop tard,
-Plus le printemps s'avance, et plus il m'est contraire ;
-Son retour presse le départ
-Du héros à qui je veux plaire.
-Pour lui faire ma cour, mes soins ont entrepris
-De braver désormais l'hiver le plus terrible,
-Dans l'ardeur de lui plaire on a bientôt appris
-À ne rien trouver d'impossible.
-
--*who_temps_flore
-Les plaisirs à ses yeux ont beau se présenter,
-Sitôt qu'il voit Bellone, il quitte tout pour elle ;
-Rien ne peut l'arrêter
-Quand la gloire l'appelle.
-
--*who_zephir
-Le printemps quelquefois est moins doux qu'il ne semble,
-Il fait trop payer ses beaux jours ;
-Il vient pour escorter les jeux et les amours,
-Et c'est l'hiver qui les rassemble.
-
--*who_melpomene
-Retirez-vous, cessez de prévenir le temps ;
-Ne me dérobez point de précieux instants :
-La puissante Cybele
-Pour honorer Atys qu'elle a privé du jour,
-Veut que je renouvelle
-Dans une illustre cour
-Le souvenir de son amour.
-Que l'agrément rustique
-De Flore et de ses jeux,
-Cède à l'appareil magnifique
-De la muse tragique,
-Et de ses spectacles pompeux.
-
--*who_iris
-Cybele veut que Flore aujourd'hui vous seconde.
-Il faut que les plaisirs viennent de toutes parts,
-Dans l'empire puissant, où règne un nouveau Mars,
-Ils n'ont plus d'autre asile au monde.
-Rendez-vous, s'il se peut, dignes de ses regards ;
-Joignez la beauté vive et pure
-Dont brille la nature,
-Aux ornements des plus beaux arts.
-
--*who_melpomene_flore
-Rendons-nous, s'il se peut, dignes de ses regards ;
-Joignons la beauté vive et pure
-Dont brille la nature,
-Aux ornements des plus beaux arts.
-
--*who_temps_heures
-Préparez de nouvelles fêtes,
-Profitez du loisir du plus grand des héros ;
-
--*who_temps_flore_melpomene
-Préparez de nouvelles fêtes
-Préparons de nouvelles fêtes
-Profitez du loisir du plus grand des héros
-Profitons du loisir du plus grand des héros.
-
--*who_ensemble
-Le temps des jeux, et du repos,
-Lui sert à méditer de nouvelles conquêtes.
-
-**** *book_ *id_II01 *act_II *date_1676
-
--*who_atys
 Allons, allons, accourez tous,
 Cybele va descendre.
 Trop heureux phrygiens, venez ici l'attendre.
@@ -104,106 +9,33 @@ Mille peuples seront jaloux
 Des faveurs que sur nous
 Sa bonté va répandre.
 
-**** *book_ *id_II02 *act_II *date_1676
-
--*who_idas_atys
-Allons, allons, accourez tous,
-Cybèle va descendre.
-
--*who_atys
 Le soleil peint nos champs des plus vives couleurs,
 Il a séché les pleurs
 Que sur l'émail des prés a répandu l'aurore ;
 Et ses rayons nouveaux ont déjà fait éclore
 Mille nouvelles fleurs.
 
--*who_idas
-Vous veillez lorsque tout sommeille ;
-Vous nous éveillez si matin,
-Que vous ferez croire à la fin
-Que c'est l'amour qui vous éveille.
-
--*who_atys
 Non, tu dois mieux juger du parti que je prends.
 Mon coeur veut fuir toujours les soins et les mystères ;
 J'aime l'heureuse paix des coeurs indifférents ;
 Si leurs plaisirs ne sont pas grands,
 Au moins leurs peines sont légères.
 
--*who_idas
-Tôt ou tard l'amour est vainqueur,
-En vain les plus fiers s'en défendent,
-On ne peut refuser son coeur
-À de beaux yeux qui le demandent.
-Atys, ne feignez plus, je sais votre secret.
-Ne craignez rien, je suis discret.
-Dans un bois solitaire et sombre,
-L'indifférent Atys se croyait seul, un jour ;
-Sous un feuillage épais où je rêvais à l'ombre,
-Je l'entendis parler d'amour.
-
--*who_atys
 Si je parle d'amour, c'est contre son empire,
 J'en fais mon plus doux entretien.
 
--*who_idas
-Tel se vante de n'aimer rien,
-Dont le coeur en secret soupire.
-J'entendis vos regrets, et je les sais si bien
-Que si vous en doutez je vais vous les redire.
-Amants qui vous plaignez, vous êtes trop heureux :
-Mon coeur de tous les coeurs est le plus amoureux,
-Et tout près d'expirer je suis réduit à feindre ;
-Que c'est un tourment rigoureux
-De mourir d'amour sans se plaindre !
-Amants qui vous plaignez, vous êtes trop heureux.
-
--*who_atys
 Idas, il est trop vrai, mon coeur n'est que trop tendre,
 L'amour me fait sentir ses plus funestes coups.
 Qu'aucun autre que toi n'en puisse rien apprendre.
 
-**** *book_ *id_II03 *act_II *date_1676
-
--*who_sangaride,doris
-Allons, allons, accourez tous,
-Cybèle va descendre.
-
--*who_sangaride
-Que dans nos concerts les plus doux,
-Son nom sacré se fasse entendre.
-
--*who_atys
 Sur l'univers entier son pouvoir doit s'étendre.
 
--*who_sangaride
-Les dieux suivent ses lois et craignent son courroux.
-
--*who_atys,sangaride,idas,doris
-Quels honneurs ! Quels respects ne doit-on point lui rendre ?
-Allons, allons, accourez tous,
-Cybèle va descendre.
-
--*who_sangaride
-Écoutons les oiseaux de ces bois d'alentour,
-Ils remplissent leurs chants d'une douceur nouvelle.
-On dirait que dans ce beau jour,
-Ils ne parlent que de Cybèle.
-
--*who_atys
 Si vous les écoutez, ils parleront d'amour.
 Un roi redoutable,
 Amoureux, aimable,
 Va devenir votre époux ;
 Tout parle d'amour pour vous.
 
--*who_sangaride
-Il est vrai, je triomphe, et j'aime ma victoire.
-Quand l'amour fait régner, est-il un plus grand bien ?
-Pour vous, Atys, vous n'aimez rien,
-Et vous en faites gloire.
-
--*who_atys
 L'amour fait trop verser de pleurs ;
 Souvent ses douceurs sont mortelles :
 Il ne faut regarder les belles
@@ -213,14 +45,6 @@ J'aime à les voir s'embellir,
 Sans leurs épines cruelles,
 J'aimerais à les cueillir.
 
--*who_sangaride
-Quand le péril est agréable,
-Le moyen de s'en alarmer ?
-Est-ce un grand mal de trop aimer
-Ce que l'on trouve aimable ?
-Peut-on être insensible aux plus charmants appas ?
-
--*who_atys
 Non vous ne me connaissez pas.
 Je me défends d'aimer autant qu'il m'est possible ;
 Si j'aimais, un jour, par malheur,
@@ -229,145 +53,34 @@ Il serait trop sensible.
 Mais il faut que chacun s'assemble près de vous,
 Cybèle pourrait nous surprendre.
 
--*who_atys_idas
-Allons, allons, accourez tous,
-Cybèle va descendre.
-
-**** *book_ *id_II04 *act_II *date_1676
-
--*who_sangaride
-Atys est trop heureux.
-
--*who_doris
-L'amitié fut toujours égale entre vous deux,
-Et le sang d'assez près vous lie :
-Quel que soit son bonheur, lui portez-vous envie ?
-Vous, qu'aujourd'hui l'hymen avec de si beaux noeuds
-Doit unir au roi de Phrygie ?
-
--*who_sangaride
-Atys, est trop heureux.
-Souverain de son coeur, maître de tous ses voeux,
-Sans crainte, sans mélancolie,
-Il jouit en repos des beaux jours de sa vie ;
-Atys ne connaît point les tourments amoureux,
-Atys est trop heureux.
-
--*who_doris
-Quel mal vous fait l'amour ? Votre chagrin m'étonne.
-
--*who_sangaride
-Je te fie un secret qui n'est su de personne.
-Je devrais aimer un amant
-Qui m'offre une couronne ;
-Mais, hélas ! Vainement
-Le devoir me l'ordonne,
-L'amour, pour mon tourment,
-En ordonne autrement.
-
--*who_doris
-Aimeriez-vous Atys, lui dont l'indifférence
-Brave avec tant d'orgueil l'amour et sa puissance ?
-
--*who_sangaride
-J'aime, Atys, en secret, mon crime, est sans témoins.
-Pour vaincre mon amour, je mets tout en usage,
-J'appelle ma raison, j'anime mon courage ;
-Mais à quoi servent tous mes soins ?
-Mon coeur en souffre davantage,
-Et n'en aime pas moins.
-
--*who_doris
-C'est le commun défaut des belles.
-L'ardeur des conquêtes nouvelles
-Fait négliger les coeurs qu'on a trop tôt charmés,
-Et les indifférents sont quelquefois aimés
-Aux dépens des amants fidèles.
-Mais vous vous exposez à des peines cruelles.
-
--*who_sangaride
-Toujours aux yeux d'Atys je serai sans appas ;
-Je le sais, j'y consens, je veux, s'il est possible,
-Qu'il soit encor plus insensible ;
-S'il me pouvait aimer, que deviendrais-je ? Hélas !
-C'est mon plus grand bonheur qu'Atys ne m'aime pas.
-Je prétends être heureuse, au moins, en apparence ;
-Au destin d'un grand roi je me vais attacher.
-
--*who_sangaride_doris
-Un amour malheureux dont le devoir s'offense,
-Se doit condamner au silence ;
-Un amour malheureux qu'on nous peut reprocher,
-Ne saurait trop bien se cacher.
-
-**** *book_ *id_II05 *act_II *date_1676
-
--*who_atys
 On voit dans ces campagnes
 Tous nos phrygiens s'avancer.
 
--*who_doris
-Je vais prendre soin de presser
-Les nymphes nos compagnes.
-
-**** *book_ *id_II06 *act_II *date_1676
-
--*who_atys
 Sangaride, ce jour est un grand jour pour vous.
 
--*who_sangaride
-Nous ordonnons tous deux la fête de Cybèle,
-L'honneur est égal entre nous.
-
--*who_atys
 Ce jour même, un grand roi doit être votre époux
 Je ne vous vis jamais si contente et si belle ;
 Que le sort du roi sera doux !
 
--*who_sangaride
-L'indifférent Atys n'en sera point jaloux.
-
--*who_atys
 Vivez tous deux contents, c'est ma plus chère envie ;
 J'ai pressé votre hymen, j'ai servi vos amours.
 Mais enfin ce grand jour, le plus beau de vos jours,
 Sera le dernier de ma vie.
 
--*who_sangaride
-Ô dieux !
-
--*who_atys
       Ce n'est qu'à vous que je veux révéler
 Le secret désespoir où mon malheur me livre ;
 Je n'ai que trop su feindre, il est temps de parler ;
 Qui n'a plus qu'un moment à vivre,
 N'a plus rien à dissimuler.
 
--*who_sangaride
-Je frémis, ma crainte est extrême ;
-Atys, par quel malheur faut-il vous voir périr ?
-
--*who_atys
 Vous me condamnerez vous-même,
 Et vous me laisserez mourir.
 
--*who_sangaride
-J'armerai, s'il le faut, tout le pouvoir suprême...
-
--*who_atys
 Non, rien ne me peut secourir,
 Je meurs d'amour pour vous, je n'en saurais guérir ;
 
--*who_sangaride
-Quoi ? Vous ?
-
--*who_atys
       Il est trop vrai.
 
--*who_sangaride
-      Vous m'aimez ?
-
--*who_atys
       Je vous aime.
 Vous me condamnerez vous-même,
 Et vous me laisserez mourir.
@@ -379,352 +92,66 @@ Ah ! Que c'est un cruel supplice
 D'avouer qu'un rival est digne d'être heureux !
 Prononcez mon arrêt, parlez sans vous contraindre.
 
--*who_sangaride
-Hélas !
-
--*who_atys
       Vous soupirez ? Je vois couler vos pleurs ?
 D'un malheureux amour plaignez-vous les douleurs ?
 
--*who_sangaride
-Atys, que vous seriez à plaindre
-Si vous saviez tous vos malheurs !
-
--*who_atys
 Si je vous perds, et si je meurs,
 Que puis-je encore avoir à craindre ?
 
--*who_sangaride
-C'est peu de perdre en moi ce qui vous a charmé,
-Vous me perdez, Atys, et vous êtes aimé.
-
--*who_atys
 Aimé ! Qu'entends-je ? Ô ciel ! Quel aveu favorable !
 
--*who_sangaride
-Vous en serez plus misérable.
-
--*who_atys
 Mon malheur en est plus affreux,
 Le bonheur que je perds doit redoubler ma rage ;
 Mais n'importe, aimez-moi, s'il se peut, d'avantage,
 Quand j'en devrais mourir cent fois plus malheureux.
 
--*who_sangaride
-Si vous cherchez la mort, il faut que je vous suive ;
-Vivez, c'est mon amour qui vous en fait la loi.
-
--*who_atys
 Hé comment ! Hé pourquoi
 Voulez-vous que je vive,
 Si vous ne vivez pas pour moi ?
 
--*who_atys_sangaride
-Si l'hymen unissait mon destin et le vôtre,
-Que ses noeuds auraient eu d'attraits !
-L'amour fit nos coeurs l'un pour l'autre,
-Faut-il que le devoir les sépare à jamais ?
-
--*who_atys
 Devoir impitoyable !
 Ah quelle cruauté !
 
--*who_sangaride
-On vient, feignez encor, craignez d'être écouté.
-
--*who_atys
 Aimons un bien plus durable
 Que l'éclat de la beauté :
 Rien n'est plus aimable
 Que la liberté.
 
-**** *book_ *id_II07 *act_II *date_1676
-
--*who_atys
 Mais déjà de ce mont sacré
 Le sommet paraît éclairé
 D'une splendeur nouvelle.
 Sangaride s'avançant vers la montagne.
 La déesse descend, allons au devant d'elle.
 
--*who_atys_sangaride
-Commençons, commençons
-De célébrer ici sa fête solennelle,
-Commençons, commençons
-Nos jeux et nos chansons.
-
--*who_atys,sangaride
-Il est temps que chacun fasse éclater son zèle.
-Venez, reine des dieux, venez,
-Venez, favorable Cybèle.
-
--*who_atys
 Quittez votre cour immortelle,
 Choisissez ces lieux fortunés
 Pour votre demeure éternelle.
 
--*who_leschoeurs
-Venez, reine des dieux, venez.
-
--*who_sangaride
-La terre sous vos pas va devenir plus belle
-Que le séjour des dieux que vous abandonnez.
-
--*who_leschoeurs
-Venez, favorable Cybèle.
-
--*who_atys_sangaride
-Venez voir les autels qui vous sont destinés.
-
--*who_atys,sangaride,idas,doris,choeurs
-Écoutez un peuple fidèle
-Qui vous appelle,
-Venez, reine des dieux, venez,
-Venez, favorable Cybèle.
-
-**** *book_ *id_II08 *act_II *date_1676
-
--*who_cybele
-Venez tous dans mon temple, et que chacun révère
-Le sacrificateur dont je vais faire choix :
-Je m'expliquerai par sa voix,
-Les voeux qu'il m'offrira seront sûrs de me plaire.
-Je reçois vos respects ; j'aime à voir les honneurs
-Dont vous me présentés un éclatant hommage,
-Mais l'hommage des coeurs
-Est ce que j'aime davantage.
-Vous devez vous animer
-D'une ardeur nouvelle,
-S'il faut honorer Cybèle,
-Il faut encor plus l'aimer.
-
--*who_leschoeurs
-Nous devons nous animer
-D'une ardeur nouvelle,
-S'il faut honorer Cybèle,
-Il faut encor plus l'aimer.
-
-**** *book_ *id_III01 *act_III *date_1676
-
--*who_celaenus
-N'avancez pas plus loin, ne suivez point mes pas ;
-Sortez. Toi ne me quitte pas.
-Atys, il faut attendre ici que la déesse
-Nomme un grand sacrificateur.
-
--*who_atys
 Son choix sera pour vous, seigneur ;
 Quelle tristesse semble avoir surpris votre coeur ?
 
--*who_celaenus
-Les rois les plus puissants connaissent l'importance
-D'un si glorieux choix :
-Qui pourra l'obtenir étendra sa puissance
-Partout où de Cybèle on révère les lois.
-
--*who_atys
 Elle honore aujourd'hui ces lieux de sa présence,
 C'est pour vous préférer aux plus puissants des rois.
 
--*who_celaenus
-Mais quand j'ai vu tantôt la beauté qui m'enchante,
-N'as-tu point remarqué comme elle était tremblante ?
-
--*who_atys
 À nos jeux, à nos chants, j'étais trop appliqué,
 Hors la fête, seigneur, je n'ai rien remarqué.
 
--*who_celaenus
-Son trouble m'a surpris. Elle t'ouvre son âme ;
-N'y découvres-tu point quelque secrète flamme ?
-Quelque rival caché ?
-
--*who_atys
 Seigneur, que dites-vous ?
 
--*who_celaenus
-Le seul nom de rival allume mon courroux.
-J'ai bien peur que le ciel n'ait pu voir sans envie
-Le bonheur de ma vie,
-Et si j'étais aimé mon sort serait trop doux.
-Ne t'étonnes point tant de voir la jalousie
-Dont mon âme est saisie,
-On ne peut bien aimer sans être un peu jaloux.
-
--*who_atys
 Seigneur, soyez content, que rien ne vous alarme ;
 L'hymen va vous donner la beauté qui vous charme,
 Vous serez son heureux époux.
 
--*who_celaenus
-Tu peux me rassurer, Atys, je te veux croire,
-C'est son coeur que je veux avoir,
-Dis-moi s'il est en mon pouvoir ?
-
--*who_atys
 Son coeur suit avec soin le devoir et la gloire,
 Et vous avez pour vous la gloire et le devoir.
 
--*who_celaenus
-Ne me déguise point ce que tu peux connaître.
-Si j'ai ce que j'aime en ce jour
-L'hymen seul m'en rend-t-il le maître ?
-La gloire et le devoir auront tout fait, peut-être,
-Et ne laissent pour moi rien à faire à l'amour.
-
--*who_atys
 Vous aimez d'un amour trop délicat, trop tendre.
 
--*who_celaenus
-L'indifférent Atys ne le saurait comprendre.
-
--*who_atys
 Qu'un indifférent est heureux !
 Il jouit d'un destin paisible.
 Le ciel fait un présent bien cher, bien dangereux,
 Lorsqu'il donne un coeur trop sensible.
 
--*who_celaenus
-Quand on aime bien tendrement
-On ne cesse jamais de souffrir, et de craindre ;
-Dans le bonheur le plus charmant,
-On est ingénieux à se faire un tourment,
-Et l'on prend plaisir à se plaindre.
-Va songe à mon hymen, et vois si tout est prêt,
-Laisse-moi seul ici, la déesse paraît.
-
-**** *book_ *id_III02 *act_III *date_1676
-
--*who_cybele
-Je veux joindre en ces lieux la gloire et l'abondance,
-D'un sacrificateur je veux faire le choix,
-Et le roi de Phrygie aurait la préférence
-Si je voulais choisir entre les plus grands rois.
-Le puissant dieu des flots vous donna la naissance,
-Un peuple renommé s'est mis sous votre loi ;
-Vous avez sans mes soins, d'ailleurs, trop de puissance,
-Je veux faire un bonheur qui ne soit du qu'à moi.
-Vous estimez Atys, et c'est avec justice,
-Je prétends que mon choix à vos voeux soit propice,
-C'est Atys que je veux choisir.
-
--*who_celaenus
-J'aime Atys, et je vois sa gloire avec plaisir.
-Je suis roi, Neptune est mon père,
-J'épouse une beauté qui va combler mes voeux :
-Le souhait qui me reste à faire,
-C'est de voir mon ami parfaitement heureux.
-
--*who_cybele
-Il m'est doux que mon choix à vos désirs réponde ;
-Une grande divinité
-Doit faire sa félicité
-Du bien de tout le monde.
-Mais surtout le bonheur d'un roi chéri des cieux
-Fait le plus doux plaisir des dieux.
-
--*who_celaenus
-Le sang approche Atys de la nymphe que j'aime,
-Son mérite l'égale aux rois :
-Il soutiendra mieux que moi-même
-La majesté suprême
-De vos divines lois.
-Rien ne pourra troubler son zèle,
-Son coeur s'est conservé libre jusqu'à ce jour ;
-Il faut tout un coeur pour Cybèle,
-À peine tout le mien peut suffire à l'amour.
-
--*who_cybele
-Portez à votre ami la première nouvelle
-De l'honneur éclatant où ma faveur l'appelle.
-
-**** *book_ *id_III03 *act_III *date_1676
-
--*who_cybele
-Tu t'étonnes, Mélisse, et mon choix te surprend ?
-
--*who_melisse
-Atys vous doit beaucoup, et son bonheur est grand.
-
--*who_cybele
-J'ai fait encor pour lui plus que tu ne peux croire.
-
--*who_melisse
-Est-il pour un mortel un rang plus glorieux ?
-
--*who_cybele
-Tu ne vois que sa moindre gloire ;
-Ce mortel dans mon coeur est au dessus des dieux.
-Ce fut au jour fatal de ma dernière fête
-Que de l'aimable Atys je devins la conquête :
-Je partis à regret pour retourner aux cieux,
-Tout m'y parût changé, rien n'y plut à mes yeux.
-Je sens un plaisir extrême
-À revenir dans ces lieux.
-Où peut-on jamais être mieux,
-Qu'aux lieux où l'on voit ce qu'on aime ?
-
--*who_melisse
-Tous les dieux ont aimé, Cybèle aime à son tour.
-Vous méprisiez trop l'amour,
-Son nom vous semblait étrange,
-À la fin il vient un jour
-Où l'amour se venge.
-
--*who_cybele
-J'ai crû me faire un coeur maître de tout son sort,
-Un coeur toujours exempt de trouble et de tendresse.
-
--*who_melisse
-Vous braviez à tort
-L'amour qui vous blesse ;
-Le coeur le plus fort
-À des moments de faiblesse.
-Mais vous pouviez aimer, et descendre moins bas.
-
--*who_cybele
-Non, trop d'égalité rend l'amour sans appas.
-Quel plus haut rang ai-je à prétendre ?
-Et de quoi mon pouvoir ne vient-il point à bout ?
-Lorsqu'on est au-dessus de tout,
-On se fait pour aimer un plaisir de descendre.
-Je laisse aux dieux les biens dans le ciel préparés,
-Pour Atys, pour son coeur, je quitte tout sans peine,
-S'il m'oblige à descendre, un doux penchant m'entraîne ;
-Les coeurs que le destin a le plus séparés,
-Sont ceux qu'amour unit d'une plus forte chaîne.
-Fais venir le sommeil ; que lui-même en ce jour,
-Prenne soin ici de conduire
-Les songes qui lui font la cour ;
-Atys ne sait point mon amour,
-Par un moyen nouveau je prétends l'en instruire.
-
--*who_cybele
-Que les plus doux zéphyrs, que les peuples divers,
-Qui des deux bouts de l'univers
-Sont venus me montrer leur zèle,
-Célèbrent la gloire immortelle
-Du sacrificateur dont Cybèle a fait choix,
-Atys doit dispenser mes lois,
-Honorez le choix de Cybèle.
-
-**** *book_ *id_III04 *act_III *date_1676
-
--*who_leschoeurs
-Célébrons la gloire immortelle
-Du sacrificateur dont Cybèle a fait choix :
-Atys doit dispenser ses lois,
-Honorons le choix de Cybèle.
-Que devant vous tout s'abaisse, et tout tremble ;
-Vivez heureux, vos jours sont notre espoir :
-Rien n'est si beau que de voir ensemble
-Un grand mérite avec un grand pouvoir.
-Que l'on bénisse
-Le ciel propice,
-Qui dans vos mains
-Met le sort des humains.
-
--*who_atys
 Indigne que je suis des honneurs qu'on m'adresse,
 Je dois les recevoir au nom de la déesse ;
 J'ose, puisqu'il lui plaît, lui présenter vos voeux :
@@ -732,13 +159,6 @@ Pour le prix de votre zèle,
 Que la puissante Cybèle
 Vous rende à jamais heureux.
 
--*who_leschoeurs
-Que la puissante Cybèle
-Nous rende à jamais heureux.
-
-**** *book_ *id_IV01 *act_IV *date_1676
-
--*who_atys
 Que servent les faveurs que nous fait la fortune
 Quand l'amour nous rend malheureux ?
 Je perds l'unique bien qui peut combler mes voeux,
@@ -746,80 +166,28 @@ Et tout autre bien m'importune.
 Que servent les faveurs que nous fait la fortune
 Quand l'amour nous rend malheureux ?
 
-**** *book_ *id_IV02 *act_IV *date_1676
-
--*who_idas
-Peut-on ici parler sans feindre ?
-
--*who_atys
 Je commande en ces lieux, vous n'y devez rien craindre.
 
--*who_doris
-Mon frère est votre ami.
-
--*who_idas
-Fiez-vous à ma soeur.
-
--*who_atys
 Vous devez avec moi partager mon bonheur.
 
--*who_idas_doris
-Nous venons partager vos mortelles alarmes ;
-Sangaride les yeux en larmes
-Nous vient d'ouvrir son coeur.
-
--*who_atys
 L'heure approche où l'hymen voudra qu'elle se livre
 Au pouvoir d'un heureux époux.
 
--*who_idas_doris
-Elle ne peut vivre
-Pour un autre que pour vous.
-
--*who_atys
 Qui peut la dégager du devoir qui la presse ?
 
--*who_idas_doris
-Elle veut elle-même aux pieds de la déesse
-Déclarer hautement vos secrètes amours.
-
--*who_atys
 Cybèle pour moi s'intéresse,
 J'ose tout espérer de son divin secours...
 Mais quoi, trahir le roi ! Tromper son espérance !
 De tant de biens reçus est-ce la récompense ?
 
--*who_idas_doris
-Dans l'empire amoureux
-Le devoir n'a point de puissance ;
-L'amour dispense
-Les rivaux d'être généreux ;
-Il faut souvent pour devenir heureux
-Qu'il en coûte un peu d'innocence.
-
--*who_atys
 Je souhaite, je crains, je veux, je me repends.
 
--*who_idas_doris
-Verrez-vous un rival heureux à vos dépends ?
-
--*who_atys
 Je ne puis me résoudre à cette violence.
 
--*who_atys_idas_doris
-En vain, un coeur, incertain de son choix.
-Met en balance mille fois
-L'amour et la reconnaissance,
-L'amour toujours emporte la balance.
-
--*who_atys
 Le plus juste parti cède enfin au plus fort.
 Allez, prenez soin de mon sort,
 Que Sangaride ici se rende en diligence.
 
-**** *book_ *id_IV03 *act_IV *date_1676
-
--*who_atys
 Nous pouvons nous flatter de l'espoir le plus doux
 Cybèle et l'amour sont pour nous.
 Mais du devoir trahi j'entends la voix pressante
@@ -837,167 +205,251 @@ Je combats vainement sa charmante douceur.
 Il faut laisser suspendre
 Les troubles de mon coeur.
 
-**** *book_ *id_IV04 *act_IV *date_1676
-
--*who_lesommeil
-Dormons, dormons tous ;
-Ah que le repos est doux !
-
--*who_morphee
-Régnez, divin sommeil, régnez sur tout le monde,
-Répandez vos pavots les plus assoupissants ;
-Calmez les soins, charmez les sens,
-Retenez tous les coeurs dans une paix profonde.
-
--*who_phobetor
-Ne vous faites point violence,
-Coulez, murmurez, clairs ruisseaux,
-Il n'est permis qu'au bruit des eaux
-De troubler la douceur d'un si charmant silence.
-
--*who_sommeil_morphee_phobetor_phantase
-Dormons, dormons tous,
-Ah que le repos est doux !
-
--*who_morphee
-Écoute, écoute Atys la gloire qui t'appelle,
-Sois sensible à l'honneur d'être aimé de Cybèle,
-Jouis heureux Atys de ta félicité.
-
--*who_morphee_phobetor_phantase
-Mais souviens-toi que la beauté,
-Quand elle est immortelle,
-Demande la fidélité
-D'une amour éternelle.
-
--*who_phantase
-Que l'amour a d'attraits
-Lorsqu'il commence
-À faire sentir sa puissance !
-Que l'amour a d'attraits
-Lorsqu'il commence
-Pour ne finir jamais.
-Trop heureux un amant
-Qu'amour exempte
-Des peines d'une longue attente !
-Trop heureux un amant
-Qu'amour exempte
-De crainte et de tourment !
-
--*who_phobetor
-Goûte en paix chaque jour une douceur nouvelle,
-Partage l'heureux sort d'une divinité,
-Ne vante plus la liberté,
-Il n'en est point du prix d'une chaîne si belle.
-
--*who_morphee_phobetor_phantase
-Mais souviens-toi que la beauté,
-Quand elle est immortelle,
-Demande la fidélité
-D'une amour éternelle.
-
--*who_phantase
-Que l'amour a d'attraits
-Lorsqu'il commence
-À faire sentir sa puissance !
-Que l'amour a d'attraits
-Lorsqu'il commence
-Pour ne finir jamais !
-
--*who_unsongefuneste
-Garde-toi d'offenser un amour glorieux,
-C'est pour toi que Cybèle abandonne les cieux
-Ne trahis point son espérance.
-Il n'est point pour les dieux de mépris innocent,
-Ils sont jaloux des coeurs, ils aiment la vengeance,
-Il est dangereux qu'on offense
-Un amour tout-puissant.
-
--*who_choeurdessongesfunestes
-L'amour qu'on outrage
-Se transforme en rage,
-Et ne pardonne pas
-Aux plus charmants appas.
-Si tu n'aimes point Cybèle
-D'une amour fidèle,
-Malheureux, que tu souffriras !
-Tu périras :
-Crains une vengeance cruelle,
-Tremble, crains un affreux trépas.
-
-**** *book_ *id_IV05 *act_IV *date_1676
-
--*who_atys
 Venez à mon secours, ô dieux ! Ô justes dieux !
 
--*who_cybele
-Atys, ne craignez rien, Cybèle est en ces lieux.
-
--*who_atys
 Pardonnez au désordre où mon coeur s'abandonne ;
 C'est un songe...
 
--*who_cybele
-      Parlez, quel songe vous étonne ?
-Expliquez-moi votre embarras.
-
--*who_atys
 Les songes sont trompeurs, et je ne les crois pas.
 Les plaisirs et les peines
 Dont en dormant on est séduit,
 Sont des chimères vaines
 Que le réveil détruit.
 
--*who_cybele
-Ne méprisez pas tant les songes
-L'amour peut emprunter leur voix,
-S'ils font souvent des mensonges,
-Ils disent vrai quelque fois.
-Ils parlaient par mon ordre, et vous les devez croire.
-
--*who_atys
 Ô ciel !
 
--*who_cybele
-      N'en doutez point, connaissez votre gloire.
-Répondez avec liberté,
-Je vous demande un coeur qui dépend de lui-même.
-
--*who_atys
 Une grande divinité
 Doit s'assurer toujours de mon respect extrême.
 
--*who_cybele
-Les dieux dans leur grandeur suprême
-Reçoivent tant d'honneurs qu'ils en sont rebutés,
-Ils se lassent souvent d'être trop respectés,
-Ils sont plus contents qu'on les aime.
-
--*who_atys
 Je sais trop ce que je vous dois
 Pour manquer de reconnaissance...
 
-**** *book_ *id_IV06 *act_IV *date_1676
-
--*who_sangaride
-J'ai recours à votre puissance,
-Reine des dieux, protégez-moi.
-L'intérêt d'Atys vous en presse...
-
--*who_atys
 Je parlerai pour vous, que votre crainte cesse.
 
--*who_sangaride
-Tous deux unis des plus beaux noeuds...
-
--*who_atys
 Le sang et l'amitié nous unissent tous deux.
 Que votre secours la délivre
 Des lois d'un hymen rigoureux,
 Ce sont les plus doux de ses voeux
 De pouvoir à jamais vous servir et vous suivre.
 
--*who_cybele
+Ah ! C'en est trop...
+
+Qu'il sait peu son malheur ! Et qu'il est déplorable !
+Son amour méritait un sort plus favorable :
+J'ai pitié de l'erreur dont son coeur s'est flatté.
+
+Dieux ! Qu'est-ce que j'entends !
+
+Sangaride, eh d'où vient ce changement étrange ?
+
+Moi !
+
+      Quel funeste courroux !
+
+Beauté trop cruelle, c'est vous.
+
+Ah ! C'est vous, beauté trop cruelle.
+
+Il est vrai qu'à ses yeux, par un secret effroi,
+J'ai voulu de nos coeurs cacher l'intelligence :
+Mais ce n'est que pour vous que j'ai craint sa vengeance,
+Et je ne la crains pas pour moi.
+Cybèle m'aime en vain, et c'est vous que j'adore.
+
+Moi ! Vous trahir ? Vous le pensez ?
+Ingrate, que vous m'offensez !
+Hé bien, il ne faut plus rien taire,
+Je vais de la déesse attirer la colère,
+M'offrir à sa fureur, puisque vous m'y forcez...
+
+Je jure,
+
+      Que rien ne vous étonne ;
+Servons-nous du pouvoir que Cybèle me donne,
+Je vais préparer les zéphyrs
+À suivre nos désirs.
+
+Cet hymen déplaît à Cybèle,
+Elle défend de l'achever :
+Sangaride est un bien qu'il faut lui réserver,
+Et que je demande pour elle.
+
+Seigneur, je suis à la déesse,
+Dés qu'elle a commandé, je ne puis qu'obéir
+
+Apprenez, audacieux,
+Qu'il n'est rien qui n'obéisse
+Aux souveraines lois de la reine des dieux.
+Qu'on nous enlève de ces lieux ;
+Zéphyrs, que sans tarder mon ordre s'accomplisse.
+
+Ciel ! Quelle vapeur m'environne !
+Tous mes sens sont troublés, je frémis, je frissonne,
+Je tremble, et tout à coup, une infernale ardeur
+Vient enflammer mon sang, et dévorer mon coeur.
+Dieux ! Que vois-je ? Le ciel s'arme contre la terre ?
+Quel désordre ! Quel bruit ! Quel éclat de tonnerre !
+Quels abîmes profonds sous mes pas sont ouverts !
+Que de fantômes vains sont sortis des enfers !
+Sangaride, ah fuyez la mort que vous prépare
+Une divinité barbare :
+C'est votre seul péril qui cause ma terreur.
+
+Quels hurlements affreux !
+
+Il faut combattre ; amour, seconde mon courage.
+
+Que je viens d'immoler une grande victime !
+Sangaride est sauvée, et c'est par ma valeur.
+
+Un calme heureux succède aux troubles de mon coeur.
+Sangaride, nymphe charmante,
+Qu'êtes-vous devenue ? Où puis-je avoir recours ?
+Divinité toute puissante,
+Cybèle, ayez pitié de nos tendres amours,
+Rendez-moi, Sangaride, épargnez ses beaux jours.
+Tu la peux voir, regarde.
+
+Ah quelle barbarie !
+Sangaride a perdu la vie !
+Ah quelle main cruelle ! Ah quel coeur inhumain !...
+
+Moi, j'aurais immolé la beauté qui m'enchante ?
+Ô ciel ! Ma main sanglante
+Est de ce crime horrible un témoin trop certain !
+
+Quoi, Sangaride est morte ? Atys est son bourreau !
+Quelle vengeance ô dieux ! Quel supplice nouveau !
+Quelles horreurs sont comparables
+Aux horreurs que je sens ?
+Dieux cruels, dieux impitoyables,
+N'êtes-vous tout-puissants
+Que pour faire des misérables ?
+
+Barbare ! Quel amour qui prend soin d'inventer
+Les plus horribles maux que la rage peut faire !
+Bienheureux qui peut éviter
+Le malheur de vous plaire.
+Ô dieux ! Injustes dieux ! Que n'êtes-vous mortels ?
+Faut-il que pour vous seuls vous gardiez la vengeance ?
+C'est trop, c'est trop souffrir leur cruelle puissance,
+Chassons-les d'ici bas, renversons leurs autels.
+Quoi, Sangaride est morte ? Atys, Atys lui-même
+Fait périr ce qu'il aime.
+
+Ah ! Ne m'arrachez pas
+Ce qui reste de tant d'appas :
+En fussiez-vous jalouse encore,
+Il faut que je l'adore
+Jusques dans l'horreur du trépas.
+
+Je meurs, l'amour me guide
+Dans la nuit du trépas ;
+Je vais où sera Sangaride,
+Inhumaine, je vais où vous ne serez pas.
+
+Je suis assez vengé, vous m'aimez, et je meurs.
+
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cybele
+
+Venez tous dans mon temple, et que chacun révère
+Le sacrificateur dont je vais faire choix :
+Je m'expliquerai par sa voix,
+Les voeux qu'il m'offrira seront sûrs de me plaire.
+Je reçois vos respects ; j'aime à voir les honneurs
+Dont vous me présentés un éclatant hommage,
+Mais l'hommage des coeurs
+Est ce que j'aime davantage.
+Vous devez vous animer
+D'une ardeur nouvelle,
+S'il faut honorer Cybèle,
+Il faut encor plus l'aimer.
+
+Je veux joindre en ces lieux la gloire et l'abondance,
+D'un sacrificateur je veux faire le choix,
+Et le roi de Phrygie aurait la préférence
+Si je voulais choisir entre les plus grands rois.
+Le puissant dieu des flots vous donna la naissance,
+Un peuple renommé s'est mis sous votre loi ;
+Vous avez sans mes soins, d'ailleurs, trop de puissance,
+Je veux faire un bonheur qui ne soit du qu'à moi.
+Vous estimez Atys, et c'est avec justice,
+Je prétends que mon choix à vos voeux soit propice,
+C'est Atys que je veux choisir.
+
+Il m'est doux que mon choix à vos désirs réponde ;
+Une grande divinité
+Doit faire sa félicité
+Du bien de tout le monde.
+Mais surtout le bonheur d'un roi chéri des cieux
+Fait le plus doux plaisir des dieux.
+
+Portez à votre ami la première nouvelle
+De l'honneur éclatant où ma faveur l'appelle.
+
+Tu t'étonnes, Mélisse, et mon choix te surprend ?
+
+J'ai fait encor pour lui plus que tu ne peux croire.
+
+Tu ne vois que sa moindre gloire ;
+Ce mortel dans mon coeur est au dessus des dieux.
+Ce fut au jour fatal de ma dernière fête
+Que de l'aimable Atys je devins la conquête :
+Je partis à regret pour retourner aux cieux,
+Tout m'y parût changé, rien n'y plut à mes yeux.
+Je sens un plaisir extrême
+À revenir dans ces lieux.
+Où peut-on jamais être mieux,
+Qu'aux lieux où l'on voit ce qu'on aime ?
+
+J'ai crû me faire un coeur maître de tout son sort,
+Un coeur toujours exempt de trouble et de tendresse.
+
+Non, trop d'égalité rend l'amour sans appas.
+Quel plus haut rang ai-je à prétendre ?
+Et de quoi mon pouvoir ne vient-il point à bout ?
+Lorsqu'on est au-dessus de tout,
+On se fait pour aimer un plaisir de descendre.
+Je laisse aux dieux les biens dans le ciel préparés,
+Pour Atys, pour son coeur, je quitte tout sans peine,
+S'il m'oblige à descendre, un doux penchant m'entraîne ;
+Les coeurs que le destin a le plus séparés,
+Sont ceux qu'amour unit d'une plus forte chaîne.
+Fais venir le sommeil ; que lui-même en ce jour,
+Prenne soin ici de conduire
+Les songes qui lui font la cour ;
+Atys ne sait point mon amour,
+Par un moyen nouveau je prétends l'en instruire.
+
+Que les plus doux zéphyrs, que les peuples divers,
+Qui des deux bouts de l'univers
+Sont venus me montrer leur zèle,
+Célèbrent la gloire immortelle
+Du sacrificateur dont Cybèle a fait choix,
+Atys doit dispenser mes lois,
+Honorez le choix de Cybèle.
+
+Atys, ne craignez rien, Cybèle est en ces lieux.
+
+      Parlez, quel songe vous étonne ?
+Expliquez-moi votre embarras.
+
+Ne méprisez pas tant les songes
+L'amour peut emprunter leur voix,
+S'ils font souvent des mensonges,
+Ils disent vrai quelque fois.
+Ils parlaient par mon ordre, et vous les devez croire.
+
+      N'en doutez point, connaissez votre gloire.
+Répondez avec liberté,
+Je vous demande un coeur qui dépend de lui-même.
+
+Les dieux dans leur grandeur suprême
+Reçoivent tant d'honneurs qu'ils en sont rebutés,
+Ils se lassent souvent d'être trop respectés,
+Ils sont plus contents qu'on les aime.
+
 Les dieux sont les protecteurs
 De la liberté des coeurs.
 Allez, ne craignez point le roi ni sa colère,
@@ -1006,10 +458,6 @@ Le fleuve Sangar votre père ;
 Atys veut vous favoriser,
 Cybèle en sa faveur ne peut rien refuser.
 
--*who_atys
-Ah ! C'en est trop...
-
--*who_cybele
       Non, non, il n'est pas nécessaire
 Que vous cachiez votre bonheur,
 Je ne prétends point faire
@@ -1024,26 +472,15 @@ Allez, Atys lui-même ira vous garantir
 De la fatale violence
 Où vous ne pouvez consentir.
 
--*who_cybele
 Laissez-nous, attendez mes ordres pour partir,
 Je prétends vous armer de ma toute-puissance.
 
-**** *book_ *id_IV07 *act_IV *date_1676
-
--*who_cybele
 Qu'Atys dans ses respects mêlé d'indifférence !
 L'ingrat Atys ne m'aime pas ;
 L'amour veut de l'amour, tout autre prix l'offense,
 Et souvent le respect et la reconnaissance
 Sont l'excuse des coeurs ingrats.
 
--*who_melisse
-Ce n'est pas un si grand crime
-De ne s'exprimer pas bien,
-Un coeur qui n'aima jamais rien
-Sait peu comment l'amour s'exprime.
-
--*who_cybele
 Sangaride est aimable, Atys peut tout charmer,
 Ils témoignent trop s'estimer,
 Et de simples parents sont moins d'intelligence :
@@ -1055,20 +492,9 @@ C'est un nom supposé
 Qu'on donne quelquefois à l'amour déguisé.
 Je prétends m'éclaircir, leur feinte sera vaine.
 
--*who_melisse
-Quels secrets par les dieux ne sont point pénétrez ?
-Deux coeurs à feindre préparés
-Ont beau cacher leur chaîne,
-On abuse avec peine
-Les dieux par l'amour éclairés.
-
--*who_cybele
 Va, Mélisse, donne ordre à l'aimable Zéphyr
 D'accomplir promptement tout ce qu'Atys désire.
 
-**** *book_ *id_IV08 *act_IV *date_1676
-
--*who_cybele
 Espoir si cher, et si doux,
 Ah ! Pourquoi me trompez-vous ?
 Des suprêmes grandeurs vous m'avez fait descendre,
@@ -1086,429 +512,12 @@ Que le cruel amour m'a fait un coeur si tendre ?
 Espoir si cher, et si doux,
 Ah ! Pourquoi me trompez-vous ?
 
-**** *book_ *id_V01 *act_V *date_1676
-
--*who_doris
-Quoi, vous pleurez ?
-
--*who_idas
-      D'où vient votre peine nouvelle ?
-
--*who_doris
-N'osez-vous découvrir votre amour à Cybèle ?
-
--*who_sangaride
-Hélas !
-
--*who_doris,idas
-      Qui peut encor redoubler vos ennuis ?
-
--*who_sangaride
-Hélas ! J'aime... Hélas ! J'aime...
-
--*who_doris_idas
-      Achevez.
-
--*who_sangaride
-      Je ne puis.
-
--*who_doris_idas
-L'amour n'est guère heureux lorsqu'il est trop timide.
-
--*who_sangaride
-Hélas ! J'aime un perfide
-Qui trahit mon amour ;
-La déesse aime Atys, il change en moins d'un jour,
-Atys comblé d'honneurs n'aime plus Sangaride.
-Hélas ! J'aime un perfide
-Qui trahit mon amour.
-
--*who_doris_idas
-Il nous montrait tantôt un peu d'incertitude ;
-Mais qui l'eut soupçonné de tant d'ingratitude ?
-
--*who_sangaride
-J'embarrassais Atys, je l'ai vu se troubler :
-Je croyais devoir révéler
-Notre amour à Cybèle ;
-Mais l'ingrat, l'infidèle,
-M'empêchât toujours de parler.
-
--*who_doris_idas
-Peut-on changer si tôt quand l'amour est extrême ?
-Gardez-vous, gardez-vous
-De trop croire un transport jaloux.
-
--*who_sangaride
-Cybèle hautement déclare qu'elle l'aime,
-Et l'ingrat n'a trouvé cet honneur que trop doux ;
-Il change en un moment, je veux changer de même,
-J'accepterai sans peine un glorieux époux,
-Je ne veux plus aimer que la grandeur suprême.
-
--*who_doris_idas
-Peut-on changer si tôt quand l'amour est extrême ?
-Gardez-vous, gardez-vous
-De trop croire un transport jaloux.
-
--*who_sangaride
-Trop heureux un coeur qui peut croire
-Un dépit qui sert à sa gloire.
-Revenez ma raison, revenez pour jamais,
-Joignez-vous au dépit pour étouffer ma flamme,
-Réparez, s'il se peut, les maux qu'amour m'a fait,
-Venez rétablir dans mon âme
-Les douceurs d'une heureuse paix ;
-Revenez, ma raison, revenez pour jamais.
-
--*who_doris_idas
-Une infidélité cruelle
-N'efface point tous les appas
-D'un infidèle,
-Et la raison ne revient pas
-Si tôt qu'on l'a rappelle.
-
--*who_sangaride
-Après une trahison
-Si la raison ne m'éclaire,
-Le dépit et la colère
-Me tiendront lieu de raison.
-
--*who_sangaride_doris_idas
-Qu'une première amour est belle ?
-Qu'on a peine à s'en dégager !
-Que l'on doit plaindre un coeur fidèle
-Lorsqu'il est forcé de changer.
-
-**** *book_ *id_V02 *act_V *date_1676
-
--*who_celaenus
-Belle nymphe, l'hymen va suivre mon envie,
-L'amour avec moi vous convie
-À venir vous placer sur un trône éclatant,
-J'approche avec transport du favorable instant
-D'où dépend la douceur du reste de ma vie :
-Mais malgré les appas du bonheur qui m'attend,
-Malgré tous les transports de mon âme amoureuse,
-Si je ne puis vous rendre heureuse,
-Je ne serai jamais content.
-Je fais mon bonheur de vous plaire,
-J'attache à votre coeur mes désirs les plus doux.
-
--*who_sangaride
-Seigneur, j'obéirai, je dépends de mon père,
-Et mon père aujourd'hui veut que je sois à vous.
-
--*who_celaenus
-Regardez mon amour, plutôt que ma couronne.
-
--*who_sangaride
-Ce n'est point la grandeur qui me peut éblouir.
-
--*who_celaenus
-Ne sauriez-vous m'aimer sans que l'on vous l'ordonne.
-
--*who_sangaride
-Seigneur contentez-vous que je sache obéir,
-En l'état où je suis c'est ce que je puis dire...
-
-**** *book_ *id_V03 *act_V *date_1676
-
--*who_celaenus
-Votre coeur se trouble, il soupire.
-
--*who_sangaride
-Expliquez en votre faveur
-Tout ce que vous voyez de trouble dans mon coeur.
-
--*who_celaenus
-Rien ne m'alarme plus, Atys, ma crainte est vaine,
-Mon amour touche enfin le coeur de la beauté
-Dont je suis enchanté :
-Toi qui fus témoin de ma peine,
-Cher Atys, sois témoin de ma félicité.
-Peux-tu la concevoir ? Non, il faut que l'on aime,
-Pour juger des douceurs de mon bonheur extrême.
-Mais, près de voir combler mes voeux,
-Que les moments sont longs pour mon coeur amoureux !
-Vos parents tardent trop, je veux aller moi-même
-Les presser de me rendre heureux.
-
-**** *book_ *id_V04 *act_V *date_1676
-
--*who_atys
-Qu'il sait peu son malheur ! Et qu'il est déplorable !
-Son amour méritait un sort plus favorable :
-J'ai pitié de l'erreur dont son coeur s'est flatté.
-
--*who_sangaride
-Épargnez-vous le soin d'être si pitoyable,
-Son amour obtiendra ce qu'il a mérité.
-
--*who_atys
-Dieux ! Qu'est-ce que j'entends !
-
--*who_sangaride
-Qu'il faut que je me venge.
-Que j'aime enfin le roi, qu'il sera mon époux.
-
--*who_atys
-Sangaride, eh d'où vient ce changement étrange ?
-
--*who_sangaride
-N'est-ce pas vous, ingrat, qui voulez que je change ?
-
--*who_atys
-Moi !
-
--*who_sangaride
-      Quelle trahison !
-
--*who_atys
-      Quel funeste courroux !
-
--*who_atys_sangaride
-Pourquoi m'abandonner pour une amour nouvelle ?
-Ce n'est pas moi qui rompt une chaîne si belle.
-
--*who_atys
-Beauté trop cruelle, c'est vous.
-
--*who_sangaride
-Amant infidèle, c'est vous.
-
--*who_atys
-Ah ! C'est vous, beauté trop cruelle.
-
--*who_sangaride
-Ah ! C'est vous amant infidèle.
-
--*who_atys_sangaride
-Beauté trop cruelle, c'est vous,
-Amant infidèle, c'est vous,
-Qui rompez des liens si doux.
-
--*who_sangaride
-Vous m'avez immolée à l'amour de Cybèle.
-
--*who_atys
-Il est vrai qu'à ses yeux, par un secret effroi,
-J'ai voulu de nos coeurs cacher l'intelligence :
-Mais ce n'est que pour vous que j'ai craint sa vengeance,
-Et je ne la crains pas pour moi.
-Cybèle m'aime en vain, et c'est vous que j'adore.
-
--*who_sangaride
-Après votre infidélité,
-Auriez-vous bien la cruauté
-De vouloir me tromper encore ?
-
--*who_atys
-Moi ! Vous trahir ? Vous le pensez ?
-Ingrate, que vous m'offensez !
-Hé bien, il ne faut plus rien taire,
-Je vais de la déesse attirer la colère,
-M'offrir à sa fureur, puisque vous m'y forcez...
-
--*who_sangaride
-Ah ! Demeurez, Atys, mes soupçons sont passés ;
-Vous m'aimez, je le crois, j'en veux être certaine.
-Je le souhaite assez,
-Pour le croire sans peine.
-
--*who_atys
-Je jure,
-
--*who_sangaride
-      Je promets,
-
--*who_atys_sangaride
-De ne changer jamais.
-
--*who_sangaride
-Quel tourment de cacher une si belle flamme.
-Redoublons-en l'ardeur dans le fonds de nôtre âme.
-
--*who_atys_sangaride
-Aimons en secret, aimons-nous :
-Aimons plus que jamais, en dépit des jaloux.
-
--*who_sangaride
-Mon père vient ici.
-
--*who_atys
-      Que rien ne vous étonne ;
-Servons-nous du pouvoir que Cybèle me donne,
-Je vais préparer les zéphyrs
-À suivre nos désirs.
-
-**** *book_ *id_V05 *act_V *date_1676
-
--*who_sangar
-Ô vous, qui prenez part au bien de ma famille,
-Vous, vénérables dieux des fleuves les plus grands,
-Mes fidèles amis, et mes plus chers parents,
-Voyez quel est l'époux que je donne à ma fille :
-J'ai pris soin de choisir entre les plus grands rois.
-
--*who_fleuves
-Nous approuvons votre choix.
-
--*who_sangar
-Il a Neptune pour père,
-Les phrygiens suivent ses lois ;
-J'ai crû ne pouvoir faire
-Un choix plus digne de vous plaire.
-
--*who_fleuves
-Tous, d'une commune voix,
-Nous approuvons votre choix.
-Le dieu du fleuve Sangar.
-Que l'on chante, que l'on danse,
-Rions tous lorsqu'il le faut ;
-Ce n'est jamais trop tôt
-Que le plaisir commence.
-On trouve bientôt la fin
-Des jours de réjouissance ;
-On a beau chasser le chagrin,
-Il revient plutôt qu'on ne pense.
-
--*who_sangar_fleuves
-Que l'on chante, que l'on danse,
-Rions tous lorsqu'il le faut ;
-Ce n'est jamais trop tôt
-Que le plaisir commence :
-Que l'on chante, que l'on danse,
-Rions tous lorsqu'il le faut.
-
--*who_fleuves,fontaines,ruisseaux
-La beauté la plus sévère
-Prend pitié d'un long tourment,
-Et l'amant qui persévère
-Devient un heureux amant.
-Tout est doux, et rien ne coûte
-Pour un coeur qu'on veut toucher,
-L'onde se fait une route
-En s'efforçant d'en chercher,
-L'eau qui tombe goutte à goutte
-Perce le plus dur rocher.
-L'hymen seul ne saurait plaire,
-Il a beau flatter nos voeux ;
-L'amour seul a droit de faire
-Les plus doux de tous les noeuds.
-Il est fier, il est rebelle,
-Mais il charme tel qu'il est ;
-L'hymen vient quand on l'appelle,
-L'amour vient quand il lui plaît.
-Il n'est point de résistance
-Dont le temps ne vienne à bout,
-Et l'effort de la constance
-À la fin doit vaincre tout.
-Tout est doux, et rien ne coûte
-Pour un coeur qu'on veut toucher,
-L'onde se fait une route
-En s'efforçant d'en chercher,
-L'eau qui tombe goutte à goutte
-Perce le plus dur rocher.
-L'amour trouble tout le monde,
-C'est la source de nos pleurs ;
-C'est un feu brûlant dans l'onde,
-C'est l'écueil des plus grands coeurs :
-Il est fier, il est rebelle,
-Mais il charme tel qu'il est ;
-L'hymen vient quand on l'appelle,
-L'amour vient quand il lui plaît.
-
--*who_fleuve_fontaine
-D'une constance extrême,
-Un ruisseau suit son cours ;
-Il en sera de même
-Du choix de mes amours,
-Et du moment que j'aime
-C'est pour aimer toujours.
-Jamais un coeur volage
-Ne trouve un heureux sort,
-Il n'a point l'avantage
-D'être longtemps au port,
-Il cherche encor l'orage
-Au moment qu'il en sort.
-
--*who_fleuves_fontaines
-Un grand calme est trop fâcheux,
-Nous aimons mieux la tourmente.
-Que sert un coeur qui s'exempte
-De tous les soins amoureux ?
-À quoi sert une eau dormante ?
-Un grand calme est trop fâcheux,
-Nous aimons mieux la tourmente.
-
-**** *book_ *id_V06 *act_V *date_1676
-
--*who_fleuves_fontaines
-Venez former des noeuds charmants,
-Atys, venez unir ces bienheureux amants.
-
--*who_atys
-Cet hymen déplaît à Cybèle,
-Elle défend de l'achever :
-Sangaride est un bien qu'il faut lui réserver,
-Et que je demande pour elle.
-
--*who_lechoeur
-Ah quelle loi cruelle !
-
--*who_celaenus
-Atys peut s'engager lui-même à me trahir ?
-Atys contre moi s'intéresse ?
-
--*who_atys
-Seigneur, je suis à la déesse,
-Dés qu'elle a commandé, je ne puis qu'obéir
-
--*who_sangar_choeur
-Pourquoi faut-il qu'elle sépare
-Deux illustres amants pour qui l'hymen prépare
-Ses liens les plus doux ?
-
--*who_lechoeur
-Opposons-nous
-À ce dessein barbare.
-
--*who_atys
-Apprenez, audacieux,
-Qu'il n'est rien qui n'obéisse
-Aux souveraines lois de la reine des dieux.
-Qu'on nous enlève de ces lieux ;
-Zéphyrs, que sans tarder mon ordre s'accomplisse.
-
--*who_choeur
-Quelle injustice !
-
-**** *book_ *id_VI01 *act_VI *date_1676
-
--*who_celaenus
-Vous m'ôtez Sangaride ? Inhumaine Cybelle ;
-Est-ce le prix du zèle
-Que j'ai fait avec soin éclater à vos yeux ?
-Préparez-vous ainsi la douceur éternelle
-Dont vous devez combler ces lieux ?
-Est-ce ainsi que les rois sont protégés des dieux ?
-Divinité cruelle,
-Descendez-vous exprès des cieux
-Pour troubler un amour fidèle ?
-Et pour venir m'ôter ce que j'aime le mieux ?
-
--*who_cybele
 J'aimais Atys, l'amour a fait mon injustice ;
 Il a pris soin de mon supplice ;
 Et si vous êtes outragé,
 Bientôt vous serez trop vengé.
 Atys adore Sangaride.
 
--*who_celaenus
-Atys l'adore ? Ah le perfide !
-
--*who_cybele
 L'ingrat vous trahissait, et voulait me trahir :
 Il s'est trompé lui-même en croyant m'éblouir.
 Les zéphyrs l'ont laissé, seul, avec ce qu'il aime,
@@ -1516,10 +525,6 @@ Dans ces aimables lieux ;
 Je m'y suis cachée à leurs yeux ;
 J'y viens d'être témoin de leur amour extrême.
 
--*who_celaenus
-Ô ciel ! Atys plairait aux yeux qui m'ont charmé ?
-
--*who_cybele
 Eh pouvez-vous douter qu'Atys ne soit aimé ?
 Non, non, jamais amour n'eût tant de violence,
 Ils ont juré cent fois de s'aimer malgré nous,
@@ -1531,188 +536,27 @@ Tous deux s'abandonnaient à des transports si doux,
 Que je n'ai pu garder plus longtemps le silence :
 NI retenir l'éclat de mon juste courroux.
 
--*who_celaenus
-La mort est pour leur crime une peine légère.
-
--*who_cybele
 Mon coeur à les punir est assez engagé ;
 Je vous l'ai déjà dit, croyez-en ma colère,
 Bientôt vous serez trop vengé.
 
-**** *book_ *id_VI02 *act_VI *date_1676
-
--*who_cybele_celaenus
-Venez vous livrer au supplice.
-
--*who_atys_sangaride
-Quoi la terre et le ciel contre nous sont armés ?
-Souffrirez-vous qu'on nous punisse ?
-
--*who_cybele_celaenus
-Oubliez-vous votre injustice ?
-
--*who_atys_sangaride
-Ne vous souvient-il plus de nous avoir aimés ?
-
--*who_cybele_celaenus
-Vous changez mon amour en haine légitime.
-
--*who_atys_sangaride
-Pouvez-vous condamner
-L'amour qui nous anime ?
-Si c'est un crime,
-Quel crime est plus à pardonner ?
-
--*who_cybele_celaenus
-Perfide, deviez-vous me taire
-Que c'était vainement que je voulais vous plaire ?
-
--*who_atys_sangaride
-Ne pouvant suivre vos désirs,
-Nous croyons ne pouvoir mieux faire
-Que de vous épargner de mortels déplaisirs.
-
--*who_cybele
 D'un supplice cruel craignez l'horreur extrême.
 
--*who_cybele_celaenus
-Craignez un funeste trépas.
-
--*who_atys_sangaride
-Vengez-vous, s'il le faut, ne me pardonnez pas,
-Mais pardonnez à ce que j'aime.
-
--*who_cybele_celaenus
-C'est peu de nous trahir, vous nous bravez, ingrats ?
-
--*who_atys_sangaride
-Serez-vous sans pitié ?
-
--*who_cybele_celaenus
-Perdez toute espérance.
-
--*who_atys_sangaride
-L'amour nous a forcés à vous faire une offense,
-Il demande grâce pour nous.
-
--*who_cybele_celaenus
-L'amour en courroux
-Demande vengeance.
-
--*who_cybele
 Toi, qui portes partout et la rage et l'horreur,
 Cesse de tourmenter les criminelles ombres,
 Viens, cruelle Alecton, sors des royaumes sombres,
 Inspire au coeur d'Atys ta barbare fureur.
 
-**** *book_ *id_VI03 *act_VI *date_1676
-
--*who_atys
-Ciel ! Quelle vapeur m'environne !
-Tous mes sens sont troublés, je frémis, je frissonne,
-Je tremble, et tout à coup, une infernale ardeur
-Vient enflammer mon sang, et dévorer mon coeur.
-Dieux ! Que vois-je ? Le ciel s'arme contre la terre ?
-Quel désordre ! Quel bruit ! Quel éclat de tonnerre !
-Quels abîmes profonds sous mes pas sont ouverts !
-Que de fantômes vains sont sortis des enfers !
-Sangaride, ah fuyez la mort que vous prépare
-Une divinité barbare :
-C'est votre seul péril qui cause ma terreur.
-
--*who_sangaride
-Atys reconnaissez votre funeste erreur.
-Quel monstre vient à nous ! Quelle fureur le guide !
-Ah respecte, cruel, l'aimable Sangaride.
-
--*who_sangaride
-Atys, mon cher Atys.
-
--*who_atys
-Quels hurlements affreux !
-
--*who_celaenus
-Fuyez, sauvez-vous de sa rage.
-
--*who_atys
-Il faut combattre ; amour, seconde mon courage.
-
--*who_celaenus_choeur
-Arrête, arrête malheureux.
-
--*who_sangaride
-Atys !
-
--*who_choeur
-      Ô ciel !
-
--*who_sangaride
-      Je meurs.
-
--*who_choeur
-Atys, Atys lui-même,
-Fait périr ce qu'il aime !
-
--*who_celaenus
-Je n'ai pu retenir ses efforts furieux,
-Sangaride expire à vos yeux.
-
--*who_cybele
 Atys me sacrifie une indigne rivale.
 Partagez avec moi la douceur sans égale,
 Que l'on goûte en vengeant un amour outragé.
 Je vous l'avais promis.
 
--*who_celaenus
-Ô promesse fatale !
-Sangaride n'est plus, et je suis trop vengé.
-
-**** *book_ *id_VI04 *act_VI *date_1676
-
--*who_atys
-Que je viens d'immoler une grande victime !
-Sangaride est sauvée, et c'est par ma valeur.
-
--*who_cybele
 Achève ma vengeance, Atys, connais ton crime,
 Et reprends ta raison pour sentir ton malheur.
 
--*who_atys
-Un calme heureux succède aux troubles de mon coeur.
-Sangaride, nymphe charmante,
-Qu'êtes-vous devenue ? Où puis-je avoir recours ?
-Divinité toute puissante,
-Cybèle, ayez pitié de nos tendres amours,
-Rendez-moi, Sangaride, épargnez ses beaux jours.
-Tu la peux voir, regarde.
-
--*who_atys
-Ah quelle barbarie !
-Sangaride a perdu la vie !
-Ah quelle main cruelle ! Ah quel coeur inhumain !...
-
--*who_cybele
 Les coups dont elle meurt sont de ta propre main.
 
--*who_atys
-Moi, j'aurais immolé la beauté qui m'enchante ?
-Ô ciel ! Ma main sanglante
-Est de ce crime horrible un témoin trop certain !
-
--*who_choeur
-Atys, Atys lui-même,
-Fait périr ce qu'il aime.
-
--*who_atys
-Quoi, Sangaride est morte ? Atys est son bourreau !
-Quelle vengeance ô dieux ! Quel supplice nouveau !
-Quelles horreurs sont comparables
-Aux horreurs que je sens ?
-Dieux cruels, dieux impitoyables,
-N'êtes-vous tout-puissants
-Que pour faire des misérables ?
-
--*who_cybele
 Atys, je vous ai trop aimé :
 Cet amour par vous-même en courroux transformé
 Fait voir encor sa violence :
@@ -1720,35 +564,8 @@ Jugez, ingrat, jugez en ce funeste jour,
 De la grandeur de mon amour
 Par la grandeur de ma vengeance.
 
--*who_atys
-Barbare ! Quel amour qui prend soin d'inventer
-Les plus horribles maux que la rage peut faire !
-Bienheureux qui peut éviter
-Le malheur de vous plaire.
-Ô dieux ! Injustes dieux ! Que n'êtes-vous mortels ?
-Faut-il que pour vous seuls vous gardiez la vengeance ?
-C'est trop, c'est trop souffrir leur cruelle puissance,
-Chassons-les d'ici bas, renversons leurs autels.
-Quoi, Sangaride est morte ? Atys, Atys lui-même
-Fait périr ce qu'il aime.
-
--*who_choeur
-Atys, Atys lui-même
-Fait périr ce qu'il aime.
-
--*who_cybele
 Ôtez ce triste objet.
 
--*who_atys
-Ah ! Ne m'arrachez pas
-Ce qui reste de tant d'appas :
-En fussiez-vous jalouse encore,
-Il faut que je l'adore
-Jusques dans l'horreur du trépas.
-
-**** *book_ *id_VI05 *act_VI *date_1676
-
--*who_cybele
 Je commence à trouver sa peine trop cruelle,
 Une tendre pitié rappelle
 L'amour que mon courroux croyait avoir banni,
@@ -1761,55 +578,28 @@ Je veux d'un soin si cher ne me fier qu'à moi,
 Allons... mais quel spectacle à mes yeux se présente ?
 C'est Atys mourant que je vois !
 
-**** *book_ *id_VI06 *act_VI *date_1676
-
--*who_idas
-Il s'est percé le sein, et mes soins pour sa vie
-N'ont pu prévenir sa fureur.
-
--*who_cybele
 Ah ! C'est ma barbarie,
 C'est moi, qui lui perce le coeur.
 
--*who_atys
-Je meurs, l'amour me guide
-Dans la nuit du trépas ;
-Je vais où sera Sangaride,
-Inhumaine, je vais où vous ne serez pas.
-
--*who_cybele
 Atys, il est trop vrai, ma rigueur est extrême,
 Plaignez-vous, je veux tout souffrir.
 Pourquoi suis-je immortelle en vous voyant périr ?
 
--*who_atys_cybele
-Il est doux de mourir
-Avec ce que l'on aime.
-
--*who_cybele
 Que mon amour funeste armé contre moi-même,
 Ne peut-il vous venger de toutes mes rigueurs.
 
--*who_atys
-Je suis assez vengé, vous m'aimez, et je meurs.
-
--*who_cybele
 Malgré le destin implacable
 Qui rend de ton trépas l'arrêt irrévocable,
 Atys, sois à jamais l'objet de mes amours :
 Reprends un sort nouveau, deviens un arbre aimable
 Que Cybèle aimera toujours.
 
--*who_cybele
 Venez furieux corybantes,
 Venez joindre à mes cris vos clameurs éclatantes ;
 Venez, nymphes des eaux, venez dieux des forêts,
 Par vos plaintes les plus touchantes
 Secondez mes tristes regrets.
 
-**** *book_ *id_VI07 *act_VI *date_1676
-
--*who_cybele
 Atys, l'aimable Atys, malgré tous ses attraits,
 Descend dans la nuit éternelle ;
 Mais malgré la mort cruelle,
@@ -1832,11 +622,6 @@ Atys est ranimé par mon pouvoir divin ;
 Célébrez son nouveau destin,
 Pleurez sa funeste aventure.
 
--*who_nymphes_bois
-Célébrons son nouveau destin,
-Pleurons sa funeste aventure.
-
--*who_cybele
 Que cet arbre sacré
 Soit révéré
 De toute la nature.
@@ -1847,7 +632,6 @@ Que cet arbre sacré
 Soit révéré
 De toute la nature.
 
--*who_cybele
 Que ses rameaux soient toujours verts :
 Que les plus rigoureux hivers
 Ne leur fassent jamais d'injure,
@@ -1855,48 +639,417 @@ Que cet arbre sacré
 Soit révéré
 De toute la nature.
 
--*who_cybele_bois_eaux
-Quelle douleur !
-
--*who_cybele,corybantes
-Ah ! Quelle rage !
-
--*who_cybele_choeurs
-Ah ! Quel malheur !
-
--*who_cybele
 Atys au printemps de son âge
 Périt comme une fleur
 Qu'un soudain orage
 Renverse et ravage.
 
--*who_cybele,bois,eaux
-Quelle douleur !
 
--*who_cybele,corybantes
-Ah ! Quelle rage !
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
 
--*who_cybele_choeurs
-Ah ! Quel malheur !
+Vous veillez lorsque tout sommeille ;
+Vous nous éveillez si matin,
+Que vous ferez croire à la fin
+Que c'est l'amour qui vous éveille.
 
--*who_cybele_bois_eaux
-Que le malheur d'Atys afflige tout le monde.
+Tôt ou tard l'amour est vainqueur,
+En vain les plus fiers s'en défendent,
+On ne peut refuser son coeur
+À de beaux yeux qui le demandent.
+Atys, ne feignez plus, je sais votre secret.
+Ne craignez rien, je suis discret.
+Dans un bois solitaire et sombre,
+L'indifférent Atys se croyait seul, un jour ;
+Sous un feuillage épais où je rêvais à l'ombre,
+Je l'entendis parler d'amour.
 
--*who_cybele_corybantes
-Que tout sente, ici bas,
-L'horreur d'un si cruel trépas.
+Tel se vante de n'aimer rien,
+Dont le coeur en secret soupire.
+J'entendis vos regrets, et je les sais si bien
+Que si vous en doutez je vais vous les redire.
+Amants qui vous plaignez, vous êtes trop heureux :
+Mon coeur de tous les coeurs est le plus amoureux,
+Et tout près d'expirer je suis réduit à feindre ;
+Que c'est un tourment rigoureux
+De mourir d'amour sans se plaindre !
+Amants qui vous plaignez, vous êtes trop heureux.
 
--*who_cybele_bois_eaux
-Pénétrons tous les coeurs d'une douleur profonde :
-Que les bois, que les eaux, perdent tous leurs appas.
+Peut-on ici parler sans feindre ?
 
--*who_cybele_corybantes
-Que le tonnerre nous réponde :
-Que la terre frémisse, et tremble sous nos pas.
+Fiez-vous à ma soeur.
 
--*who_cybele_bois_eaux
-Que le malheur d'Atys afflige tout le monde.
+      D'où vient votre peine nouvelle ?
 
--*who_ensemble
-Que tout sente, ici bas,
-L'horreur d'un si cruel trépas.
+Il s'est percé le sein, et mes soins pour sa vie
+N'ont pu prévenir sa fureur.
+
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
+L'amitié fut toujours égale entre vous deux,
+Et le sang d'assez près vous lie :
+Quel que soit son bonheur, lui portez-vous envie ?
+Vous, qu'aujourd'hui l'hymen avec de si beaux noeuds
+Doit unir au roi de Phrygie ?
+
+Quel mal vous fait l'amour ? Votre chagrin m'étonne.
+
+Aimeriez-vous Atys, lui dont l'indifférence
+Brave avec tant d'orgueil l'amour et sa puissance ?
+
+C'est le commun défaut des belles.
+L'ardeur des conquêtes nouvelles
+Fait négliger les coeurs qu'on a trop tôt charmés,
+Et les indifférents sont quelquefois aimés
+Aux dépens des amants fidèles.
+Mais vous vous exposez à des peines cruelles.
+
+Je vais prendre soin de presser
+Les nymphes nos compagnes.
+
+Mon frère est votre ami.
+
+Quoi, vous pleurez ?
+
+N'osez-vous découvrir votre amour à Cybèle ?
+
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+
+Atys vous doit beaucoup, et son bonheur est grand.
+
+Est-il pour un mortel un rang plus glorieux ?
+
+Tous les dieux ont aimé, Cybèle aime à son tour.
+Vous méprisiez trop l'amour,
+Son nom vous semblait étrange,
+À la fin il vient un jour
+Où l'amour se venge.
+
+Vous braviez à tort
+L'amour qui vous blesse ;
+Le coeur le plus fort
+À des moments de faiblesse.
+Mais vous pouviez aimer, et descendre moins bas.
+
+Ce n'est pas un si grand crime
+De ne s'exprimer pas bien,
+Un coeur qui n'aima jamais rien
+Sait peu comment l'amour s'exprime.
+
+Quels secrets par les dieux ne sont point pénétrez ?
+Deux coeurs à feindre préparés
+Ont beau cacher leur chaîne,
+On abuse avec peine
+Les dieux par l'amour éclairés.
+
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sangaride
+
+Que dans nos concerts les plus doux,
+Son nom sacré se fasse entendre.
+
+Les dieux suivent ses lois et craignent son courroux.
+
+Écoutons les oiseaux de ces bois d'alentour,
+Ils remplissent leurs chants d'une douceur nouvelle.
+On dirait que dans ce beau jour,
+Ils ne parlent que de Cybèle.
+
+Il est vrai, je triomphe, et j'aime ma victoire.
+Quand l'amour fait régner, est-il un plus grand bien ?
+Pour vous, Atys, vous n'aimez rien,
+Et vous en faites gloire.
+
+Quand le péril est agréable,
+Le moyen de s'en alarmer ?
+Est-ce un grand mal de trop aimer
+Ce que l'on trouve aimable ?
+Peut-on être insensible aux plus charmants appas ?
+
+Atys est trop heureux.
+
+Atys, est trop heureux.
+Souverain de son coeur, maître de tous ses voeux,
+Sans crainte, sans mélancolie,
+Il jouit en repos des beaux jours de sa vie ;
+Atys ne connaît point les tourments amoureux,
+Atys est trop heureux.
+
+Je te fie un secret qui n'est su de personne.
+Je devrais aimer un amant
+Qui m'offre une couronne ;
+Mais, hélas ! Vainement
+Le devoir me l'ordonne,
+L'amour, pour mon tourment,
+En ordonne autrement.
+
+J'aime, Atys, en secret, mon crime, est sans témoins.
+Pour vaincre mon amour, je mets tout en usage,
+J'appelle ma raison, j'anime mon courage ;
+Mais à quoi servent tous mes soins ?
+Mon coeur en souffre davantage,
+Et n'en aime pas moins.
+
+Toujours aux yeux d'Atys je serai sans appas ;
+Je le sais, j'y consens, je veux, s'il est possible,
+Qu'il soit encor plus insensible ;
+S'il me pouvait aimer, que deviendrais-je ? Hélas !
+C'est mon plus grand bonheur qu'Atys ne m'aime pas.
+Je prétends être heureuse, au moins, en apparence ;
+Au destin d'un grand roi je me vais attacher.
+
+Nous ordonnons tous deux la fête de Cybèle,
+L'honneur est égal entre nous.
+
+L'indifférent Atys n'en sera point jaloux.
+
+Ô dieux !
+
+Je frémis, ma crainte est extrême ;
+Atys, par quel malheur faut-il vous voir périr ?
+
+J'armerai, s'il le faut, tout le pouvoir suprême...
+
+Quoi ? Vous ?
+
+      Vous m'aimez ?
+
+Hélas !
+
+Atys, que vous seriez à plaindre
+Si vous saviez tous vos malheurs !
+
+C'est peu de perdre en moi ce qui vous a charmé,
+Vous me perdez, Atys, et vous êtes aimé.
+
+Vous en serez plus misérable.
+
+Si vous cherchez la mort, il faut que je vous suive ;
+Vivez, c'est mon amour qui vous en fait la loi.
+
+On vient, feignez encor, craignez d'être écouté.
+
+La terre sous vos pas va devenir plus belle
+Que le séjour des dieux que vous abandonnez.
+
+J'ai recours à votre puissance,
+Reine des dieux, protégez-moi.
+L'intérêt d'Atys vous en presse...
+
+Tous deux unis des plus beaux noeuds...
+
+Hélas !
+
+Hélas ! J'aime... Hélas ! J'aime...
+
+      Je ne puis.
+
+Hélas ! J'aime un perfide
+Qui trahit mon amour ;
+La déesse aime Atys, il change en moins d'un jour,
+Atys comblé d'honneurs n'aime plus Sangaride.
+Hélas ! J'aime un perfide
+Qui trahit mon amour.
+
+J'embarrassais Atys, je l'ai vu se troubler :
+Je croyais devoir révéler
+Notre amour à Cybèle ;
+Mais l'ingrat, l'infidèle,
+M'empêchât toujours de parler.
+
+Cybèle hautement déclare qu'elle l'aime,
+Et l'ingrat n'a trouvé cet honneur que trop doux ;
+Il change en un moment, je veux changer de même,
+J'accepterai sans peine un glorieux époux,
+Je ne veux plus aimer que la grandeur suprême.
+
+Trop heureux un coeur qui peut croire
+Un dépit qui sert à sa gloire.
+Revenez ma raison, revenez pour jamais,
+Joignez-vous au dépit pour étouffer ma flamme,
+Réparez, s'il se peut, les maux qu'amour m'a fait,
+Venez rétablir dans mon âme
+Les douceurs d'une heureuse paix ;
+Revenez, ma raison, revenez pour jamais.
+
+Après une trahison
+Si la raison ne m'éclaire,
+Le dépit et la colère
+Me tiendront lieu de raison.
+
+Seigneur, j'obéirai, je dépends de mon père,
+Et mon père aujourd'hui veut que je sois à vous.
+
+Ce n'est point la grandeur qui me peut éblouir.
+
+Seigneur contentez-vous que je sache obéir,
+En l'état où je suis c'est ce que je puis dire...
+
+Expliquez en votre faveur
+Tout ce que vous voyez de trouble dans mon coeur.
+
+Épargnez-vous le soin d'être si pitoyable,
+Son amour obtiendra ce qu'il a mérité.
+
+Qu'il faut que je me venge.
+Que j'aime enfin le roi, qu'il sera mon époux.
+
+N'est-ce pas vous, ingrat, qui voulez que je change ?
+
+      Quelle trahison !
+
+Amant infidèle, c'est vous.
+
+Ah ! C'est vous amant infidèle.
+
+Vous m'avez immolée à l'amour de Cybèle.
+
+Après votre infidélité,
+Auriez-vous bien la cruauté
+De vouloir me tromper encore ?
+
+Ah ! Demeurez, Atys, mes soupçons sont passés ;
+Vous m'aimez, je le crois, j'en veux être certaine.
+Je le souhaite assez,
+Pour le croire sans peine.
+
+      Je promets,
+
+Quel tourment de cacher une si belle flamme.
+Redoublons-en l'ardeur dans le fonds de nôtre âme.
+
+Mon père vient ici.
+
+Atys reconnaissez votre funeste erreur.
+Quel monstre vient à nous ! Quelle fureur le guide !
+Ah respecte, cruel, l'aimable Sangaride.
+
+Atys, mon cher Atys.
+
+Atys !
+
+      Je meurs.
+
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celaenus
+
+N'avancez pas plus loin, ne suivez point mes pas ;
+Sortez. Toi ne me quitte pas.
+Atys, il faut attendre ici que la déesse
+Nomme un grand sacrificateur.
+
+Les rois les plus puissants connaissent l'importance
+D'un si glorieux choix :
+Qui pourra l'obtenir étendra sa puissance
+Partout où de Cybèle on révère les lois.
+
+Mais quand j'ai vu tantôt la beauté qui m'enchante,
+N'as-tu point remarqué comme elle était tremblante ?
+
+Son trouble m'a surpris. Elle t'ouvre son âme ;
+N'y découvres-tu point quelque secrète flamme ?
+Quelque rival caché ?
+
+Le seul nom de rival allume mon courroux.
+J'ai bien peur que le ciel n'ait pu voir sans envie
+Le bonheur de ma vie,
+Et si j'étais aimé mon sort serait trop doux.
+Ne t'étonnes point tant de voir la jalousie
+Dont mon âme est saisie,
+On ne peut bien aimer sans être un peu jaloux.
+
+Tu peux me rassurer, Atys, je te veux croire,
+C'est son coeur que je veux avoir,
+Dis-moi s'il est en mon pouvoir ?
+
+Ne me déguise point ce que tu peux connaître.
+Si j'ai ce que j'aime en ce jour
+L'hymen seul m'en rend-t-il le maître ?
+La gloire et le devoir auront tout fait, peut-être,
+Et ne laissent pour moi rien à faire à l'amour.
+
+L'indifférent Atys ne le saurait comprendre.
+
+Quand on aime bien tendrement
+On ne cesse jamais de souffrir, et de craindre ;
+Dans le bonheur le plus charmant,
+On est ingénieux à se faire un tourment,
+Et l'on prend plaisir à se plaindre.
+Va songe à mon hymen, et vois si tout est prêt,
+Laisse-moi seul ici, la déesse paraît.
+
+J'aime Atys, et je vois sa gloire avec plaisir.
+Je suis roi, Neptune est mon père,
+J'épouse une beauté qui va combler mes voeux :
+Le souhait qui me reste à faire,
+C'est de voir mon ami parfaitement heureux.
+
+Le sang approche Atys de la nymphe que j'aime,
+Son mérite l'égale aux rois :
+Il soutiendra mieux que moi-même
+La majesté suprême
+De vos divines lois.
+Rien ne pourra troubler son zèle,
+Son coeur s'est conservé libre jusqu'à ce jour ;
+Il faut tout un coeur pour Cybèle,
+À peine tout le mien peut suffire à l'amour.
+
+Belle nymphe, l'hymen va suivre mon envie,
+L'amour avec moi vous convie
+À venir vous placer sur un trône éclatant,
+J'approche avec transport du favorable instant
+D'où dépend la douceur du reste de ma vie :
+Mais malgré les appas du bonheur qui m'attend,
+Malgré tous les transports de mon âme amoureuse,
+Si je ne puis vous rendre heureuse,
+Je ne serai jamais content.
+Je fais mon bonheur de vous plaire,
+J'attache à votre coeur mes désirs les plus doux.
+
+Regardez mon amour, plutôt que ma couronne.
+
+Ne sauriez-vous m'aimer sans que l'on vous l'ordonne.
+
+Votre coeur se trouble, il soupire.
+
+Rien ne m'alarme plus, Atys, ma crainte est vaine,
+Mon amour touche enfin le coeur de la beauté
+Dont je suis enchanté :
+Toi qui fus témoin de ma peine,
+Cher Atys, sois témoin de ma félicité.
+Peux-tu la concevoir ? Non, il faut que l'on aime,
+Pour juger des douceurs de mon bonheur extrême.
+Mais, près de voir combler mes voeux,
+Que les moments sont longs pour mon coeur amoureux !
+Vos parents tardent trop, je veux aller moi-même
+Les presser de me rendre heureux.
+
+Atys peut s'engager lui-même à me trahir ?
+Atys contre moi s'intéresse ?
+
+Vous m'ôtez Sangaride ? Inhumaine Cybelle ;
+Est-ce le prix du zèle
+Que j'ai fait avec soin éclater à vos yeux ?
+Préparez-vous ainsi la douceur éternelle
+Dont vous devez combler ces lieux ?
+Est-ce ainsi que les rois sont protégés des dieux ?
+Divinité cruelle,
+Descendez-vous exprès des cieux
+Pour troubler un amour fidèle ?
+Et pour venir m'ôter ce que j'aime le mieux ?
+
+Atys l'adore ? Ah le perfide !
+
+Ô ciel ! Atys plairait aux yeux qui m'ont charmé ?
+
+La mort est pour leur crime une peine légère.
+
+Fuyez, sauvez-vous de sa rage.
+
+Je n'ai pu retenir ses efforts furieux,
+Sangaride expire à vos yeux.
+
+Ô promesse fatale !
+Sangaride n'est plus, et je suis trop vengé.
+

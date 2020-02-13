@@ -1,644 +1,104 @@
 
 
-**** *book_ *id_I01 *act_I *date_(inc
+**** *creator_carmontelle *book_carmontelle_condamnezsansentendre *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_condamnezsansentendre *dist2_carmontelle_prose_proverbe *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledericheviere
 
--*who_lemarquis
-Le Baron me suivait, qu'est-il devenu ?
-Mon coeur a besoin d'un ami pour soulager la douleur qui m'accable, s'y refuserait-il ?
-Non, je le vois, j'ai tort de l'accuser, le malheur nous rend souvent injustes et coupables.
+Mais le marquis vous aimait sincèrement ! Comment pouvez-vous le soupçonner d'infidélité ? Ah ! Ma tante, je mourrais plutôt que d'avoir un pareil soupçon sur l'amour que le chevalier a pour moi.
 
-**** *book_ *id_I02 *act_I *date_(inc
-
--*who_lebaron
-Eh bien !
-Marquis, me confierez-vous enfin le sujet de votre tristesse ?
-
--*who_lemarquis
-Oui, mon cher baron, à l'instant même : ce qui m'a fait désirer de vous parleer ici, c'est que je veux vous y montrer le seul objet de consolation qui me reste.
-
--*who_lebaron
-Ici, un objet de consolation ?
-
--*who_lemarquis
-Ou de regrets, n'importe, écoutez-moi : vous savez que je devais épouser la comtesse à mon retour de Touraine, où je l'ai connue.
-Quel heureux temps !
-Elle m'aimait alors, du moins je le croyais.
-
--*who_lebaron
-Qui peut vous faire imaginer qu'elle ait pu changer ?
-
--*who_lemarquis
-Tout, baron.
-Que je regrette l'heureux séjour de la province !
-On est aimé sans distraction, afin d'occuper entièrement l'objet qu'on aime, que faut-il plus ?
-
--*who_lebaron
-Quoique la comtesse y soit née, en vous épousant elle ne pouvait y demeurer longtemps.
-
--*who_lemarquis
-Ah !
-Sans l'état de ma mère, qui ne ma permet pas de quitter ce lieu-ci, je n'aurais pas été pressé de l'amener à Paris : j'espérais qu'ayant sa nièce avec elle en y arrivant, que demeurant avec ma mère à Auteuil, ce serait la même chose que quand nous étions en province.
-
--*who_lebaron
-Eh bien ?
-
--*who_lemarquis
-Je n'avais pas pensé que demeurer à Auteuil c'est être à Paris.
-
--*who_lebaron
-C'est là ce qui vous fait retarder votre mariage ?
-
--*who_lemarquis
-Sans doute : la comtesse a désiré découvrir Paris, le goût de la dissipation s'est emparé d'elle ; par exemple, les airs l'ont entraînée ; les plaisirs, les diverses connaissances, tout a contribué à la distraire de l'amour que je croyais qu'elle avait pour moi.
-
--*who_lebaron
-Ne la suiviez-vous pas dans ces différents amusements ?
-
--*who_lemarquis
-Oui, mais semblable à l'homme qui donne le bras à une femme au bal, c'était moi dont elle était le moins occupée : témoin de toutes les agaceries qu'elle faisait, de ce désir de plaire à la multitude, mon coeur sans cesse déchiré ne put soutenir de la suivre en étant ainsi oublié, et j'ai voulu laisser passer les premiers moments de l'ivresse où tant d'objets nouveaux l'avaient plongée.
-
--*who_lebaron
-Sans lui faire aucun reproche de cette espèce d'oubli ?
-
--*who_lemarquis
-Les reproches ne ramènent point un coeur : ils font craindre à une femme qu'on ne veuille attenter à sa liberté, et ils finissent par l'aigrir et par l'éloigner.
-
--*who_lebaron
-Elle est peut-être piquée de votre froideur, du peu d'empressement que vous montrez à l'épouser, ne l'ayant amenée à Paris que dans ce dessein.
-
--*who_lemarquis
-Bien loin de pouvoir m'en flatter, je ne lis plus que de l'indifférence dans ses yeux.
-
--*who_lebaron
-Et dans les vôtres y voit-elle la même vivacité ?
-
--*who_lemarquis
-Cherche-t-elle seulement à pénétrer ce qui se passe dans mon âme ?
-
--*who_lebaron
-Au lieu de vous livrer à la douleur que ne lui parlez-vous ?
-Le manque de confiance éloigne souvent des coeurs faits pour s'aimer toujours.
-Permettez-moi de vous servir, je veux...
-
--*who_lemarquis
-Non, mon cher baron, il serait inutile.
-Cette froideur n'est pas encore le seul reproche que je puisse faire à la Comtesse.
-
--*who_lebaron
-Comment ?
-
--*who_lemarquis
-Un goût nouveau m'a entièrement banni de son coeur : le chevalier s'est occupé de lui plaire et il n'y a que trop réussi.
-
--*who_lebaron
-Vous verrez que c'est encore une autre erreur.
-
--*who_lemarquis
-Mon malheur ne me permet pas de douter : un coeur qui sait aimer reconnaît facilemment quand il a un rival qu'on lui préfère.
-
--*who_lebaron
-Les amants sont souvent injustes lorsqu'ils sont jaloux ; mais quel est donc votre espoir ?
-
--*who_lemarquis
-Hélas !
-Aucun.
-
--*who_lebaron
-Et cet objet de consolation que vous devez goûter ici, quel est-il ?
-Vous proposez-vous de devenir infidèle avec tant d'amour ?
-
--*who_lemarquis
-J'en suis bien éloigné : je ne veux jamais cesser d'aimer la comtesse, je veux ici la regretter toujours, et y adorer son image, que moi seul y verra.
-
--*who_lebaron
-Je ne vous comprends point.
-
--*who_lemarquis
-Je vais vous expliquer ce mystère ; ceci vous paraîtra un peu romanesque, mais n'importe.
-Ce bosquet, caché dans l'épaisseur de ce bois, vient d'être ⁎⁎⁎i depuis huit jours : je l'avais consacré à la comtesse ; je comptais l'y amener le lendemain de mon mariage et l'y surprendre agréablement, en lui faisant voir une statue qui la représente.
-Malheureusement, hélas !
-Ce n'est plus le temps de penser à faire cette galanterie !
-J'ai fait cacher cette figure derrière ce treillage qui se sépare et la laisse voir quand je veux, en poussant un souple ressort.
-Voilà, mon ami, la divinité que je veux adorer le reste de ma vie.
-
--*who_lebaron
-C'est un délire que ce projet : je veux absolument vous en guérir, et...
-
--*who_lemarquis
-J'entends quelqu'un : c'est la voix de la Comtesse et celle de sa nièce.
-Comment ont-elles pu pénétrer jusqu'ici ?
-Tâchez de le découvrir, je m'enfuis ; restez un moment avec elles, et revenez me trouver, nous choisirons le temps où elles seront rentrées pour revenir ici.
-
-**** *book_ *id_I03 *act_I *date_(inc
-
--*who_lacomtesse
-Ah !
-Monsieur le baron, vous connaissez ce bosquet que le Marquis vient de faire faire et qu'il nous cachait ?
-
--*who_lebaron
-Madame, je le vois pour la première fois.
-
--*who_lacomtesse
-Le hasard me l'a fait découvrir : je cherchais un endroit écarté pour causer avec ma nièce, et je ne croyais pas en trouver un aussi agréable.
-Mais vous étiez avec le Marquis ?
-
--*who_lebaron
-Oui, madame.
-
--*who_lacomtesse
-Mais que faisiez-vous donc ici ?
-Il vous montrait son ouvrage apparemment ?
-
--*who_lebaron
-Il est vrai, mais vous avez affaire avec mademoiselle, ainsi...
-
--*who_lacomtesse
-Nous vous reverrons : vous ne retournez pas aujourd'hui à Paris ?
-
--*who_lebaron
-Non, madame, je n'irai que demain.
-
-**** *book_ *id_I04 *act_I *date_(inc
-
--*who_lacomtesse
-Il m'évite : il connaît sans doute l'infidélité du marquis, et il peut l'approuver !
-
--*who_mademoiselledericheviere
-Mais le marquis vous aimait sincèrement !
-Comment pouvez-vous le soupçonner d'infidélité ?
-Ah !
-Ma tante, je mourrais plutôt que d'avoir un pareil soupçon sur l'amour que le chevalier a pour moi.
-
--*who_lacomtesse
-Vous êtes bien jeune, ma nièce, vous ne connaissez pas encore les hommes.
-
--*who_mademoiselledericheviere
 S'il y en a de perfides, je jurerais bien que le chevalier ne sera jamais de ce nombre-là.
 
--*who_lacomtesse
-J'approuve cette façon de penser : il faut estimer ce qu'on aime.
-Voilà comme je croyais que je ferais toujours avec le marquis avant de venir à Paris : j'ai vu naître la froideur, j'ai cru la pouvoir ranimer par la jalousie.
-Il ignore que le chevalier doit vous épouser ; en essayant de le faire paraître amoureux de moi, j'ai eu la douleur de voir le marquis insensible à cette épreuve ; non, il ne m'aime plus !
+Peut-être craint-il de vous offenser en vous montrant de la jalousie. Cessez cette feinte puisqu'elle est inutile.
 
--*who_mademoiselledericheviere
-Peut-être craint-il de vous offenser en vous montrant de la jalousie.
-Cessez cette feinte puisqu'elle est inutile.
+Quoi ! Dès ce jour ! Ah ! Ma chère tante !... Mais si vous n'êtes pas heureuse, il manquera toujours quelque chose à la satisfaction que je vais goûter.
 
--*who_lacomtesse
-Elle ne durera pas longtemps, ma chère nièce, je suis même fâchée d'avoir retardé pour ceci votre bonheur : dès ce jour même je vais tout réparer.
+Ô ciel ! Avec qui était-il ? Je frémis pour vous !
 
--*who_mademoiselledericheviere
-Quoi !
-Dès ce jour !
-Ah !
-Ma chère tante !...
-Mais si vous n'êtes pas heureuse, il manquera toujours quelque chose à la satisfaction que je vais goûter.
+Et il parlait ? Vous n'avez sûrement pas vu à qui ?
 
--*who_lacomtesse
-Ce sentiment prouve bien votre tendresse pour moi et me la rend plus chère à chaque ⁎⁎⁎⁎.
-Apprenez donc tout ce que je redoute.
-Je me promenais avant-hier seule et fort tard : je m'égarai en cédant à la froideur du marquis.
-Il faisait clair de lune : le hasard m'amena proche de ce bosquet.
-J'entendis parler, c'était lui : il se plaignait.
-Je m'avançai sans bruit, et j'écoutai.
+Il parlait à une statue ! Ici ?
 
--*who_mademoiselledericheviere
-Ô ciel !
-Avec qui était-il ?
-Je frémis pour vous !
-
--*who_lacomtesse
-Il était seul.
-
--*who_mademoiselledericheviere
-Et il parlait ?
-Vous n'avez sûrement pas vu à qui ?
-
--*who_lacomtesse
-Il était seul, vous dis-je.
-Il adressait des plaintes entrecoupées de soupirs à une statue qu'il accusait d'ingratitude.
-Voilà souvent comme les hommes abandonnent qui les aime pour vouloir être aimé de qui les délaisse.
-
--*who_mademoiselledericheviere
-Il parlait à une statue !
-Ici ?
-
--*who_lacomtesse
-Ici.
-
--*who_mademoiselledericheviere
 Mais il n'y en a point.
 
--*who_lacomtesse
-Il y en a sûrement une que nous ne voyons pas.
+Parler à une statue ! Ma tante, vous vous moquez de moi. Que peut-on lui dire ?
 
--*who_mademoiselledericheviere
-Parler à une statue !
-Ma tante, vous vous moquez de moi.
-Que peut-on lui dire ?
-
--*who_lacomtesse
-Ah !
-Ma nièce !
-Il lui disait qu'il l'adorait toujours.
-
--*who_mademoiselledericheviere
 Je crains en vérité que la tète lui ait tourné : cela est effrayant au moins, et je ne vois pas pourquoi vous seriez jalouse de cette statue.
 
--*who_lacomtesse
-Je vais vous l'apprendre.
-Avant de m'aimer, le marquis aimait la marquise de Vermont, et en était aimé : mais la fortune de la marquise étant réduite à rien, ses parents la forcèrent d'épouser Vermont, qui est très riche.
-Il y avait dix ans qu'elle était mariéée lorsque je connus le marquis, il la regrettait toujour aussi vivement.
-Un coeur si tendre me parut aimable: je désirai de pouvoir le consoler, j'y parvins, je l'aimai comme je l'aime encore.
-Si cette statue était de la marquise, si c'est cet amour qui s'est ravivé, j'en mourrai de douleur.
-
--*who_mademoiselledericheviere
-Mais où est-elle ?
-Cherchons-la.
+Mais où est-elle ? Cherchons-la.
 Je ne vois rien.
 
--*who_lacomtesse
-Elle ne saurait paraître sans savoir le secret qui peut ouvrir ce qui nous la cache ; mais à force d'argent, l'ouvrier qui l'a faite m'a donné ce secret.
-Je l'ai ici.
-
--*who_mademoiselledericheviere
 Voyons promptement.
 
--*who_lacomtesse
-Voici le treillaige... comme il est fait.
-Lisons.
-    « En poussant le bouton A, la niche s'ouvre ; en poussant le bouton B, elle se referme. »
+Ah ! Ma tante ! Que ce soit moi je vous prie.
+Eh bien ! La niche ne s'ouvre pas.
 
--*who_mademoiselledericheviere
-Ah !
-Ma tante !
-Que ce soit moi je vous prie.
-Eh bien !
-La niche ne s'ouvre pas.
+Ah ! Ma tante, que vois-je ?
 
--*who_lacomtesse
-C'est que c'est l'autre bouton sans doute ; essayons.
-
--*who_mademoiselledericheviere
-Ah !
-Ma tante, que vois-je ?
-
--*who_lacomtesse
-Quoi donc ?
-
--*who_mademoiselledericheviere
 C'est vous-même.
 
--*who_lacomtesse
-Moi ?
+Oui, examinez bien, ce sont tous vos traits. Il vous aime toujours !
 
--*who_mademoiselledericheviere
-Oui, examinez bien, ce sont tous vos traits.
-Il vous aime toujours !
+Ah ! Jouissez de tout votre bonheur.
 
--*who_lacomtesse
-J'ai peine à retenir l'excès de ma joie.
+Et vous le croyiez ingrat ! Voyez, voyez bien, ma tante, qu'il ne faut pas soupçonner légèrement son amant d'être infidèle.
 
--*who_mademoiselledericheviere
-Ah !
-Jouissez de tout votre bonheur.
-
--*who_lacomtesse
-C'était donc à moi qu'il parlait, qu'il adressait des plaintes si tendres !
-
--*who_mademoiselledericheviere
-Et vous le croyiez ingrat !
-Voyez, voyez bien, ma tante, qu'il ne faut pas soupçonner légèrement son amant d'être infidèle.
-
--*who_lacomtesse
-Oui, ma chère nièce, vous avez raison.
-
--*who_mademoiselledericheviere
 À quoi pensez-vous donc ?
 
--*who_lacomtesse
-Il me vient une idée...
-Oui.
-
--*who_mademoiselledericheviere
 Qu'est-ce que c'est ?
 
--*who_lacomtesse
-Je dois récompenser le marquis de tous les maux que je lui ai causés.
+Oh ! Pour cela, oui.
 
--*who_mademoiselledericheviere
-Oh !
-Pour cela, oui.
-
--*who_lacomtesse
-Je gagerais qu'il est ici avec le baron, pour lui faire voir cette statue.
-
--*who_mademoiselledericheviere
 J'en jurerais, moi.
 
--*who_lacomtesse
-Nous allons refermer ce treillage.
-
--*who_mademoiselledericheviere
 Oui, oui, venez.
 
--*who_lacomtesse
-Je pourrai pénétrer à travers la charmille qui est derrière la figure, me mettre à sa place, et quand le marquis reviendra pour la montrer au baron, ce sera moi qu'il trouvera.
+Ah ! Ma tante ! C'est l'amour même qui vous inspire.
 
--*who_mademoiselledericheviere
-Ah !
-Ma tante !
-C'est l'amour même qui vous inspire.
-
--*who_lacomtesse
-Ma robe est blanche, une gaze, un tulle...
-Julie m'ajustera tout cela à merveille, pour qu'au premier coup d'oeil il s'y méprenne un instant.
-
--*who_mademoiselledericheviere
 Qu'il sera délicieux pour lui, cet instant!
 
--*who_lacomtesse
-Restez ici pour l'empêcher, ainsi que le Baron, d'approcher avant que j'aie pu me placer.
-
--*who_mademoiselledericheviere
 Je ne demande pas mieux.
 
--*who_lacomtesse
-Asseyez-vous sur ce banc, et faites semblant de lire.
-Avez-vous un livre?
-
--*who_mademoiselledericheviere
 Ma tante, voilà le chevalier.
 
--*who_lacomtesse
-J'entends, vous n'aurez pas besoin de livre, n'est-ce pas ?
-
--*who_mademoiselledericheviere
 Si vous permettez...
 
--*who_lacomtesse
-Quand le marquis et le baron viendront, vous ne vous en irez que lorsque je vous enverrai dire de venir me parler.
-
--*who_mademoiselledericheviere
 Je n'ai point d'autre affaire, je vous en réponds.
 
--*who_lacomtesse
-Ne dites rien au chevalier de mon ⁎⁎⁎⁎ : sa vivacité, sa joie pourraient le déranger.
-
--*who_mademoiselledericheviere
 Ne craignez rien.
 
--*who_lacomtesse
-La contrainte ne sera pas longue.
-
-**** *book_ *id_I05 *act_I *date_(inc
-
--*who_lacomtesse
-Monsieur le chevalier, j'ai une affaire qui ne me permet pas de rester ici, mais je vous y laisse en bonne compagnie : vous n'avez pas, je crois, à vous plaindre de ma confiance en vous.
-
--*who_lechevalier
-Non, madame; mais j'ai à me plaindre du retard que vous apportez à mon mariage.
-Je suis très aise de vous servir, mais il est cruel que ce soit un ingrat qui empêche l'amant tendre et constant d'être heureux.
-
--*who_lacomtesse
-Ne voyez-vous pas autant que vous le voulez ce que vous aimez ?
-Ce n'est pas une situation fâcheuse, et vous pourriez être plus malheureux.
-
--*who_lechevalier
-Il est vrai, mais que me sert de me faire jouer un personnage comme celui que je fais auprès de vous, quand le marquis ne montre pas la moindre jalousie?
-
--*who_lacomtesse
-Elle est peut-être sur le point d'éclore.
-
--*who_lechevalier
-Ah !
-Madame, je ne vous comprends point : je vois régner sur votre visage une espèce de satisfaction...
-
--*who_lacomtesse
-C'est sans doute l'espoir qui renaît ; que sait-on ?
-Adieu, chevalier, je vous reverrai ici.
-
-**** *book_ *id_I06 *act_I *date_(inc
-
--*who_lechevalier
-Je ne comprends rien à tout ceci, Mademoiselle.
-La comtesse n'est point comme, à l'ordinaire ; vous-même ne semblez plus partager mon impatience; qu'est-ce que cela veut dire ?
-Que dois-je craindre ou espérer ?
-
--*who_mademoiselledericheviere
 Le retard ne doit vous faire rien craindre.
 
--*who_lechevalier
-Ah !
-Quand on aime bien vivement, tout doit alarmer.
-
--*who_mademoiselledericheviere
 Non, tout au contraire : on doit jouir de son bonheur, surtout lorsque l'on est sûr d'être aimé.
 
--*who_lechevalier
-Mais ne peut-il pas échapper ce bonheur, lorsqu'on le craint le moins ?
-Votre tranquilité n'est-elle pas désespérante ?
-Vous n'êtes pas aujourd'hui comme je vous ai vue jusqu'à présent : loin de partager ma peine...
+Quelle peine voulez-vous que j'aime ? Vous m'aimez, que me faut-il de plus ?
 
--*who_mademoiselledericheviere
-Quelle peine voulez-vous que j'aime ?
-Vous m'aimez, que me faut-il de plus ?
+Et qui vous dit que je sois vangée ? Je connais votre coeur : qui pourrait m'alarmer ?
 
--*who_lechevalier
-Aimer autant que je vous aime.
-
--*who_mademoiselledericheviere
-Et qui vous dit que je sois vangée ?
-Je connais votre coeur : qui pourrait m'alarmer ?
-
--*who_lechevalier
-Je m'y perds.
-Ah !
-Si je suis juste, pardonnez à l'amour le plus tendre qui fut jamais !
-
--*who_mademoiselledericheviere
 Ah !
 
--*who_lechevalier
-Vous soupirez ?
-
--*who_mademoiselledericheviere
 Si je pouvais lui dire...
 
--*who_lechevalier
-Vous parlez bas.
+Venez... Ce soir je vous dirai...
 
--*who_mademoiselledericheviere
-Venez...
-Ce soir je vous dirai...
-
--*who_lechevalier
-Quoi ?
-
--*who_mademoiselledericheviere
 Oui, vous le saurez.
 
--*who_lechevalier
-Vous augmentez mon inquiétude.
-
--*who_mademoiselledericheviere
 Calmez-vous : je vous réponds qu'il ne peut nous arriver rien que d'heureux.
 
--*who_lechevalier
-Vous me trompez peut-être...
-
--*who_mademoiselledericheviere
 Non, je vous le jure : je ne sais point feindre, et ce soupçon m'offense.
 
--*who_lechevalier
-Je suis injuste, je le sens ; je me tairai.
-Vous avez des secrets pour moi, quand jusqu'au moindre mouvement de mon coeur vous est connu.
-Où règne l'amour, la confiance doit aussi régner ; mais...
+Je ne vous aime pas ? Achever le pensez-vous?
 
--*who_mademoiselledericheviere
-Je ne vous aime pas ?
-Achever le pensez-vous?
-
--*who_lechevalier
-Comment voulez-vous que je croie...
-
--*who_mademoiselledericheviere
 Je ne veux rien, monsieur.
 
--*who_lechevalier
-Ô ciel !
-Que je meure à vos pieds si j'ai pu vous accuser...
-
--*who_mademoiselledericheviere
 Douter de mon coeur et dans quel instant !
 
--*who_lechevalier
-Voyez mon repentir : je consens à vous perdre pour toujours, si j'ai jamais d'autres volontés que les vôtres.
-
--*who_mademoiselledericheviere
 Si votre bonheur et le mien ne dépendaient pas du secret que je vous fais, pourrais-je me taire ?
 
--*who_lechevalier
-Ah !
-Vous me ravissez !
-
--*who_mademoiselledericheviere
 J'entends quelqu'un.
 
--*who_lechevalier
-C'est le Baron et le Marquis.
-
-**** *book_ *id_I07 *act_I *date_(inc
-
--*who_lemarquis
-Relirons-nous, la Comtesse est peut-être près d'ici.
-
--*who_lebaron
-Je vais le savoir.
-Monsieur le Chevalier, je vous croyais ici avec Madame la Comtesse.
-
--*who_lechevalier
-Vous voyez que non : une affaire l'a fait rentrer chez elle.
-
--*who_mademoiselledericheviere
 Oui, sans quoi nous y serions mais elle nous a promis de nous faire avertir quand elle serait libre.
 
--*who_lebaron
-Voici un de ses gens.
-
-**** *book_ *id_I08 *act_I *date_(inc
-
--*who_mademoiselledericheviere
 Ma tante me demande ?
 
--*who_lelaquais
-Oui, Mademoiselle.
+J'y vais. Venez-vous, monsieur chevalier ?
 
--*who_mademoiselledericheviere
-J'y vais.
-Venez-vous, monsieur chevalier ?
-
--*who_lechevalier
-Sûrement : je ne vous quitte pas.
-
-**** *book_ *id_I09 *act_I *date_(inc
-
--*who_lemarquis
-Il ne la quitte pas !
-Non, pour la suivre chez la comtesse.
-Ai-je tort d'être jaloux ?
-
--*who_lebaron
-Oui, car si la Comtesse aimait le Chevalier, l'aurait-elie laissé ici tête à tête avec sa nièce ?
-
--*who_lemarquis
-Mais s'il était possible qu'elle m'aimât encore verrait-elle ma froideur sans inquiétude ?
-Pourquoi écouter le Chevalier avec tant de complaisance ?
-Tout ce qu'il fait la charme : elle ne cesse de le louer, en ma présence.
-
--*who_lebaron
-C'est ce qui me ferait croire...
-
--*who_lemarquis
-Qu'elle ne l'aime pas ?
-
--*who_lebaron
-Sans doute, sans cela elle y mettrait plus de mystère.
-
--*who_lemarquis
-Elle croit peut-être que j'ai cessé de l'aimer et elle se venge : ma situation est affreuse, j'en mourrai ; mais c'est ici que je veux expirer.
-
--*who_lebaron
-Quel délire !
-
--*who_lemarquis
-Oui, viens, regarde cette image que j'adore.
-
-**** *book_ *id_I10 *act_I *date_(inc
-
--*who_lebaron
-Ah !
-C'est elle-même !
-Eh bien !
-Tombe à ses pieds.
-
--*who_lemarquis
-Que vois-je ?
-
--*who_lacomtesse
-Celle qui n'a jamais cessé de vous aimer et qui vous aimera toujours.
-
--*who_lemarquis
-N'est-ce point un songe ?
-
--*who_lacomtesse
-Non, Marquis.
-Quand c'est parce que l'amour est extrême qu'il peut offenser, il mérite d'être excusé.
-
--*who_lemarquis
-Je meurs de joie et de regret !
-
--*who_lacomtesse
-Au sein de la constance, comment pouvions-nous nous soupçonner d'infidélité ?
-
--*who_lemarquis
-Je ne le comprendrai jamais.
-
-**** *book_ *id_I11 *act_I *date_(inc
-
--*who_lacomtesse
-Tenez, Marquis, voilà l'objet de votre jalousie : voilà le chevalier, dont vous avez retardé sans le savoir, le mariage avec ma nièce.
-
--*who_lemarquis
-Quoi !
-Il l'épouse ?
-
--*who_lacomtesse
-Oui, dès demain.
-
--*who_lemarquis
-Que de torts j'ai à réparer !
-Et qu'il doivent tous deux m'en vouloir ?
-
--*who_mademoiselledericheviere
 Vous allez faire le bonheur de ma tante, le nôtre le suivra : nous n'avons rien à vous reprocher.
+

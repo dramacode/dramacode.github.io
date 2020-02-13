@@ -1,6 +1,6 @@
 ---
 identifier: boyer_porcieromaine  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1646  
 title: La Porcie romaine. Tragédie  
 ---

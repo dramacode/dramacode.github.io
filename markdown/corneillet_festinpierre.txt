@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_festinpierre  
-creator: Corneille, Thomas, Thomas  
+creator: Corneille, Thomas, Thomas.  
 date: 1677  
 title: Le Festin de Pierre. , comédie  
 ---

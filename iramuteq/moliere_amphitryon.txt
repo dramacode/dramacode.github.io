@@ -1,39 +1,19 @@
 
 
-**** *book_ *id_a *date_1668 *creator_moliere
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
--*who_mercure
 Tout beau, charmante Nuit ; daignez vous arrêter.
 Il est certain secours, que de vous on désire :
 Et j'ai deux mots à vous dire,
 De la part de Jupiter.
 
--*who_nuit
-Ah, ah, c'est vous, Seigneur Mercure !
-Qui vous eût deviné là, dans cette posture ?
-
--*who_mercure
 Ma foi, me trouvant las, pour ne pouvoir fournir
 Aux différents Emplois où Jupiter m'engage,
 Je me suis doucement assis sur ce Nuage,
 Pour vous attendre venir.
 
--*who_nuit
-Vous vous moquez, Mercure, et vous n'y songez pas.
-Sied-il bien à des Dieux de dire qu'ils sont las ?
-
--*who_mercure
 Les Dieux sont-ils de Fer ?
 
--*who_nuit
-      Non ; mais il faut sans cesse
-Garder le decorum de la Divinité.
-Il est de certains mots, dont l'usage rabaisse
-Cette sublime qualité ;
-Et que, pour leur indignité,
-Il est bon qu'aux Hommes on laisse.
-
--*who_mercure
 À votre aise vous en parlez ;
 Et vous avez, la Belle, une Chaise roulante,
 Où par deux bons Chevaux, en Dame nonchalante,
@@ -55,23 +35,9 @@ Par tous les Emplois qu'il me donne,
 Aurais besoin, plus que Personne,
 D'avoir de quoi me voiturer.
 
--*who_nuit
-Que voulez-vous faire à cela ?
-Les poètes font à leur guise.
-Ce n'est pas la seule sottise,
-Qu'on voit faire à ces Messieurs-là.
-Mais contre eux toutefois votre Âme à tort s'irrite,
-Et vos ailes aux pieds sont un don de leurs soins.
-
--*who_mercure
 Oui ; mais, pour aller plus vite,
 Est-ce qu'on s'en lasse moins ?
 
--*who_nuit
-Laissons cela, Seigneur Mercure ;
-Et sachons ce dont il s'agit.
-
--*who_mercure
 C'est Jupiter, comme je vous l'ai dit,
 Qui de votre Manteau veut la faveur obscure,
 Pour certaine douce aventure,
@@ -100,11 +66,6 @@ Pareil déguisement serait pour ne rien faire ;
 Et ce n'est pas partout un bon moyen de plaire,
 Que la Figure d'un Mari.
 
--*who_nuit
-J'admire Jupiter ; et je ne comprends pas,
-Tous les déguisements, qui lui viennent en tête.
-
--*who_mercure
 Il veut goûter par là toutes sortes d'États ;
 Et c'est agir en Dieu qui n'est pas Bête.
 Dans quelque rang qu'il soit des Mortels regardé,
@@ -121,7 +82,434 @@ Et pour entrer dans tout ce qu'il lui plaît,
 Il sort tout à fait de lui-même,
 Et ce n'est plus alors Jupiter qui paraît.
 
--*who_nuit
+Laissons dire tous les Censeurs.
+Tels changements ont leurs douceurs,
+Qui passent leur intelligence.
+Ce Dieu sait ce qu'il a fait aussi bien là qu'ailleurs ;
+Et dans les mouvements de leurs tendres ardeurs,
+Les Bêtes ne sont pas si Bêtes, que l'on pense.
+
+Que vos Chevaux par vous au petit pas réduits,
+Pour satisfaire aux vœux de son Âme amoureuse,
+D'une Nuit si délicieuse,
+Fassent la plus longue des Nuits.
+Qu'à ses transports vous donniez plus d'espace ;
+Et retardiez la naissance du Jour,
+Qui doit avancer le retour
+De celui, dont il tient la place.
+
+Pour une jeune Déesse,
+Vous êtes bien du bon temps !
+Un tel Emploi n'est bassesse,
+Que chez les petites Gens.
+Lorsque dans un haut Rang on a l'heur de paraître,
+Tout ce qu'on fait est toujours bel, et bon ;
+Et suivant ce qu'on peut être,
+Les choses changent de nom.
+
+Hé, là, là, Madame la Nuit,
+Un peu doucement je vous prie.
+Vous avez dans le Monde un bruit,
+De n'être pas si renchérie.
+On vous fait Confidente en cent Climats divers,
+De beaucoup de bonnes Affaires ;
+Et je crois, à parler à sentiments ouverts,
+Que nous ne nous en devons guères.
+
+Adieu, je vais là-bas, dans ma Commission,
+Dépouiller promptement la forme de Mercure,
+Pour y vêtir la Figure
+Du Valet d'Amphitryon.
+
+Bon jour, la Nuit.
+
+Sous ce minois, qui lui ressemble,
+Chassons de ces Lieux ce Causeur ;
+Dont l'abord importun troublerait la douceur,
+Que nos Amants goûtent ensemble.
+
+Tu seras plus fort que Mercure,
+Ou je t'en empêcherai bien.
+
+Comme avec irrévérence
+Parle des Dieux ce Maraud !
+Mon Bras saura bien tantôt
+Châtier cette insolence ;
+Et je vais m'égayer avec lui comme il faut,
+En lui volant son Nom, avec sa Ressemblance.
+
+Qui donc est ce Coquin, qui prend tant de licence,
+Que de chanter, et m'étourdir ainsi ?
+Veut-il qu'à l'étriller, ma Main un peu s'applique ?
+
+Depuis plus d'une Semaine,
+Je n'ai trouvé personne à qui rompre les os.
+La vertu de mon Bras se perd dans le repos ;
+Et je cherche quelque Dos,
+Pour me remettre en haleine.
+
+Qui va là ?
+
+      Qui, moi ?
+
+Quel est ton sort, dis-moi ?
+
+Es-tu Maître, ou Valet ?
+
+Où s'adressent tes pas ?
+
+Ah ! ceci me déplaît.
+
+Résolument, par force, ou par amour,
+Je veux savoir de toi, Traître,
+Ce que tu fais ; d'où tu viens avant jour ;
+Où tu vas ; à qui tu peux être.
+
+Tu montres de l'Esprit ; et je te vois en train
+De trancher avec moi de l'Homme d'importance.
+Il me prend un désir, pour faire connaissance,
+De te donner un Soufflet de ma Main.
+
+      À toi-même, et t'en voilà certain.
+
+      Non, ce n'est que pour rire,
+Et répondre à tes Quolibets.
+
+Ce sont là de mes moindres coups ;
+De petits Soufflets ordinaires.
+
+Tout cela n'est encor rien,
+Pour y faire quelque pause :
+Nous verrons bien autre chose ;
+Poursuivons notre Entretien.
+
+      Où vas-tu ?
+
+Je veux savoir où tu vas.
+
+Si jusqu'à l'approcher tu pousses ton audace,
+Je fais sur toi pleuvoir un Orage de coups.
+
+Comment, chez nous !
+
+      Ô le Traître !
+Tu te dis de cette Maison ?
+
+Hé bien ! que fait cette raison ?
+
+      Toi ?
+
+      Son valet ?
+
+Valet d'Amphitryon ?
+
+Ton Nom est ?
+
+      Heu ? Comment ?
+
+      Écoute.
+Sais-tu que de ma Main je t'assomme aujourd'hui ?
+
+Qui te donne, dis-moi, cette témérité,
+De prendre le Nom de Sosie ?
+
+Ô le mensonge horrible ! et l'impudence extrême !
+Tu m'oses soutenir, que Sosie est ton Nom ?
+
+Mille coups de bâton doivent être le prix
+D'une pareille effronterie.
+
+Comment, Bourreau, tu fais des cris ?
+
+C'est ainsi que mon Bras…
+
+Hé bien, es-tu Sosie à présent ? qu'en dis-tu ?
+
+Encor ? Cent autres coups pour cette autre impudence.
+
+Fais donc trêve à ton insolence.
+
+Es-tu Sosie encor ? dis, Traître !
+
+Ton Nom était Sosie, à ce que tu disais.
+
+C'est moi qui suis Sosie ; et tout Thèbes l'avoue.
+Amphitryon jamais n'en eut d'autre que moi.
+
+      Oui, Sosie ; et si quelqu'un s'y joue,
+Il peut bien prendre garde à soi.
+
+      Entre tes dents, je pense,
+Tu murmures je ne sais quoi ?
+
+Parle.
+
+      Passe ;
+Va, je t'accorde ce point.
+
+Comment, tu peux…
+
+Quoi ! Pendard, Imposteur, Coquin…
+
+Tu te dis Sosie !
+
+Sus, je romps notre trêve, et reprends ma parole.
+
+Arrête : ou sur ton Dos le moindre pas attire
+Un assommant éclat de mon juste courroux.
+Tout ce que tu viens de dire,
+Est à moi, hormis les coups.
+C'est moi qu'Amphitryon députe vers Alcmène,
+Et qui du Port Persique arrive de ce pas.
+Moi qui viens annoncer la valeur de son Bras,
+Qui nous fait remporter une Victoire pleine,
+Et de nos Ennemis a mis le Chef à bas.
+C'est moi qui suis Sosie enfin, de certitude ;
+Fils de Dave, honnête Berger ;
+Frère d'Arpage, mort en Pays étranger ;
+Mari de Cléanthis la prude,
+Dont l'humeur me fait enrager.
+Qui dans Thèbe ai reçu mille coups d'étrivière,
+Sans en avoir jamais dit rien.
+Et jadis en Public, fus marqué par derrière,
+Pour être trop Homme de bien.
+
+Cinq fort gros Diamants, en nœud proprement mis ;
+Dont leur Chef se parait, comme d'un rare Ouvrage.
+
+À sa Femme ; et sur elle il le veut voir paraître.
+
+Dans un Coffret, scellé des Armes de mon Maître.
+
+D'un Jambon…
+
+      Que j'allai déterrer,
+Je coupai bravement deux Tranches succulentes,
+Dont je sus fort bien me bourrer.
+Et joignant à cela d'un Vin que l'on ménage,
+Et dont avant le goût, les yeux se contentaient,
+Je pris un peu de courage,
+Pour nos Gens qui se battaient.
+
+Quand je ne serai plus Sosie,
+Sois-le, j'en demeure d'accord.
+Mais tant que je le suis, je te garantis mort,
+Si tu prends cette fantaisie.
+
+Ah ! tu prends donc, Pendard, goût à la Bastonnade ?
+
+Enfin, je l'ai fait fuir ; et sous ce traitement,
+De beaucoup d'actions, il a reçu la peine.
+Mais je vois Jupiter, que fort civilement
+Reconduit l'amoureuse Alcmène.
+
+La Nuit, qu'il me faut avertir,
+N'a plus qu'à plier tous ses voiles ;
+Et pour effacer les Étoiles,
+Le Soleil, de son Lit, peut maintenant sortir.
+
+Et comment donc ? Ne veux-tu pas,
+Que de mon devoir je m'acquitte ?
+Et que d'Amphitryon j'aille suivre les pas ?
+
+Le beau sujet de fâcherie !
+Nous avons tant de temps ensemble à demeurer.
+
+Diantre, où veux-tu que mon Esprit
+T'aille chercher des fariboles ?
+Quinze ans de Mariage épuisent les paroles ;
+Et depuis un long temps, nous nous sommes tout dit.
+
+Hé, mon Dieu, Cléanthis, ils sont encore Amants.
+Il est certain âge où tout passe :
+Et ce qui leur sied bien dans ces commencements,
+En nous, vieux Mariés, aurait mauvaise grâce.
+Il nous ferait beau voir attachés, face à face,
+À pousser les beaux Sentiments !
+
+Non, je n'ai garde de le dire :
+Mais je suis trop Barbon, pour oser soupirer,
+Et je ferais crever de rire.
+
+Mon Dieu, tu n'es que trop honnête :
+Ce grand honneur ne me vaut rien.
+Ne sois point si Femme de bien ;
+Et me romps un peu moins la tête.
+
+La douceur d'une Femme est tout ce qui me charme ;
+Et ta vertu fait un vacarme,
+Qui ne cesse de m'assommer.
+
+Ma foi, veux-tu que je te dise ?
+Un mal d'opinion, ne touche que les Sots.
+Et je prendrais pour ma Devise,
+Moins d'honneur, et plus de repos.
+
+Oui, si je n'étais plus de tes cris rebattu ;
+Et qu'on te vît changer d'humeur et de méthode.
+J'aime mieux un Vice commode,
+Qu'une fatigante Vertu.
+Adieu, Cléanthis, ma chère Âme,
+Il me faut suivre Amphitryon.
+
+Comme l'Amour ici ne m'offre aucun plaisir,
+Je m'en veux faire, au moins, qui soient d'autre nature :
+Et je vais égayer mon sérieux loisir,
+À mettre Amphitryon hors de toute mesure.
+Cela n'est pas d'un Dieu bien plein de charité :
+Mais aussi n'est-ce pas ce dont je m'inquiète ;
+Et je me sens, par ma Planète,
+À la malice un peu porté.
+
+Holà, tout doucement. Qui frappe ?
+
+      Qui, moi ?
+
+      Comment, ouvre ? Et qui donc es-tu, toi ;
+Qui fais tant de vacarme, et parles de la sorte ?
+
+      Non :
+Et n'en ai pas la moindre envie.
+
+Hé bien, Sosie : oui, c'est mon nom.
+As-tu peur que je ne l'oublie ?
+
+      Fort bien. Qui peut pousser ton Bras,
+À faire une rumeur si grande ?
+Et que demandes-tu là-bas ?
+
+Que ne demandes-tu donc pas ?
+Parle, si tu veux qu'on t'entende.
+
+Tout beau. Si pour heurter, tu fais la moindre instance,
+Je t'enverrai d'ici des Messagers fâcheux.
+
+Hé bien ! qu'est-ce ? m'as-tu tout parcouru par ordre ?
+M'as-tu de tes gros yeux assez considéré ?
+Comme il les écarquille, et paraît effaré !
+Si des regards on pouvait mordre,
+Il m'aurait déjà déchiré.
+
+L'Ami, si de ces Lieux tu ne veux disparaître,
+Tu pourras y gagner quelque contusion.
+
+Toi, mon Maître ?
+
+Je n'en reconnais point d'autre, qu'Amphitryon.
+
+Amphitryon ?
+
+      Ah ! quelle vision !
+Dis-nous un peu. Quel est le Cabaret honnête,
+Où tu t'es coiffé le cerveau ?
+
+      Était-ce un Vin à faire fête ?
+
+      Était-il vieux, ou nouveau ?
+
+      Le nouveau donne fort dans la tête,
+Quand on le veut boire sans eau.
+
+Passe, mon cher Ami, crois-moi ;
+Que quelqu'un ici ne t'écoute.
+Je respecte le Vin : va-t'en, retire-toi ;
+Et laisse Amphitryon dans les plaisirs qu'il goûte.
+
+      Fort bien :
+Qui couvert des Lauriers d'une Victoire pleine,
+Est auprès de la belle Alcmène,
+À jouir des douceurs d'un aimable entretien.
+Après le démêlé d'un amoureux caprice,
+Ils goûtent le plaisir de s'être rajustés.
+Garde-toi de troubler leurs douces privautés,
+Si tu ne veux qu'il ne punisse
+L'excès de tes témérités.
+
+Arrête. Quoi ! tu viens ici mettre ton nez,
+Impudent Fleureur de Cuisine ?
+
+      Ah ! vous y retournez !
+Je vous ajusterai l'échine.
+
+Qui de t'appeler de ce nom,
+A pu te donner la licence ?
+Ne t'en ai-je pas fait une expresse défense,
+Sous peine d'essuyer mille coups de Bâton ?
+
+Non, c'est assez d'un seul ; et je suis obstiné,
+À ne point souffrir de partage.
+
+Non, un Frère incommode, et n'est pas de mon goût ;
+Et je veux être Fils unique.
+
+      Point du tout.
+
+Point de quartier : immuable est la Loi.
+Si d'entrer là-dedans, tu prends encor l'audace,
+Mille coups en seront le fruit.
+
+Quoi ! ta bouche se licencie,
+À te donner encore un Nom, que je défends ?
+
+Prends garde de tomber dans cette frénésie ;
+Si tu veux demeurer au nombre des vivants.
+
+Que dis-tu ?
+
+      Tu tiens, je crois, quelque langage.
+
+Certain mot de Fils-de-Putain,
+A pourtant frappé mon oreille :
+Il n'est rien de plus certain.
+
+Adieu. Lorsque le Dos pourra te démanger,
+Voilà l'Endroit, où je demeure.
+
+Oui, vous l'allez voir tous : et sachez, par avance,
+Que c'est le Grand Maître des Dieux ;
+Que sous les traits chéris de cette Ressemblance,
+Alcmène a fait, du Ciel, descendre dans ces Lieux.
+Et quant à moi, je suis Mercure,
+Qui ne sachant que faire, ai rossé tant soit peu
+Celui, dont j'ai pris la Figure :
+Mais de s'en consoler, il a maintenant lieu ;
+Et les coups de Bâton d'un Dieu,
+Font honneur à qui les endure.
+
+Je lui donne à présent congé d'être Sosie.
+Je suis las de porter un Visage si laid ;
+Et je m'en vais au Ciel, avec de l'Ambrosie,
+M'en débarbouiller tout à fait.
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nuit
+
+Ah, ah, c'est vous, Seigneur Mercure !
+Qui vous eût deviné là, dans cette posture ?
+
+Vous vous moquez, Mercure, et vous n'y songez pas.
+Sied-il bien à des Dieux de dire qu'ils sont las ?
+
+      Non ; mais il faut sans cesse
+Garder le decorum de la Divinité.
+Il est de certains mots, dont l'usage rabaisse
+Cette sublime qualité ;
+Et que, pour leur indignité,
+Il est bon qu'aux Hommes on laisse.
+
+Que voulez-vous faire à cela ?
+Les poètes font à leur guise.
+Ce n'est pas la seule sottise,
+Qu'on voit faire à ces Messieurs-là.
+Mais contre eux toutefois votre Âme à tort s'irrite,
+Et vos ailes aux pieds sont un don de leurs soins.
+
+Laissons cela, Seigneur Mercure ;
+Et sachons ce dont il s'agit.
+
+J'admire Jupiter ; et je ne comprends pas,
+Tous les déguisements, qui lui viennent en tête.
+
 Passe encor de le voir de ce sublime Étage,
 Dans celui des Hommes venir ;
 Prendre tous les transports que leur Cœur peut fournir,
@@ -133,86 +521,1281 @@ Serpent, Cygne, ou quelque autre chose ;
 Je ne trouve point cela beau,
 Et ne m'étonne pas, si parfois on en cause.
 
--*who_mercure
-Laissons dire tous les Censeurs.
-Tels changements ont leurs douceurs,
-Qui passent leur intelligence.
-Ce Dieu sait ce qu'il a fait aussi bien là qu'ailleurs ;
-Et dans les mouvements de leurs tendres ardeurs,
-Les Bêtes ne sont pas si Bêtes, que l'on pense.
-
--*who_nuit
 Revenons à l'Objet, dont il a les faveurs.
 Si par son stratagème, il voit sa flamme heureuse,
 Que peut-il souhaiter ? et qu'est-ce que je puis ?
 
--*who_mercure
-Que vos Chevaux par vous au petit pas réduits,
-Pour satisfaire aux vœux de son Âme amoureuse,
-D'une Nuit si délicieuse,
-Fassent la plus longue des Nuits.
-Qu'à ses transports vous donniez plus d'espace ;
-Et retardiez la naissance du Jour,
-Qui doit avancer le retour
-De celui, dont il tient la place.
-
--*who_nuit
 Voilà sans doute un bel Emploi,
 Que le Grand Jupiter m'apprête :
 Et l'on donne un nom fort honnête
 Au service qu'il veut de moi.
 
--*who_mercure
-Pour une jeune Déesse,
-Vous êtes bien du bon temps !
-Un tel Emploi n'est bassesse,
-Que chez les petites Gens.
-Lorsque dans un haut Rang on a l'heur de paraître,
-Tout ce qu'on fait est toujours bel, et bon ;
-Et suivant ce qu'on peut être,
-Les choses changent de nom.
-
--*who_nuit
 Sur de pareilles matières,
 Vous en savez plus que moi :
 Et pour accepter l'Emploi,
 J'en veux croire vos lumières.
 
--*who_mercure
-Hé, là, là, Madame la Nuit,
-Un peu doucement je vous prie.
-Vous avez dans le Monde un bruit,
-De n'être pas si renchérie.
-On vous fait Confidente en cent Climats divers,
-De beaucoup de bonnes Affaires ;
-Et je crois, à parler à sentiments ouverts,
-Que nous ne nous en devons guères.
-
--*who_nuit
 Laissons ces contrariétés,
 Et demeurons ce que nous sommes.
 N'apprêtons point à rire aux Hommes,
 En nous disant nos vérités.
 
--*who_mercure
-Adieu, je vais là-bas, dans ma Commission,
-Dépouiller promptement la forme de Mercure,
-Pour y vêtir la Figure
-Du Valet d'Amphitryon.
-
--*who_nuit
 Moi, dans cet Hémisphère, avec ma Suite obscure,
 Je vais faire une Station.
 
--*who_mercure
-Bon jour, la Nuit.
-
--*who_nuit
       Adieu, Mercure.
 
-**** *book_ *id_I01 *act_I *date_1668 *creator_moliere
 
--*who_sosie
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+Défendez, chère Alcmène, aux Flambeaux d'approcher ;
+Ils m'offrent des plaisirs, en m'offrant votre vue :
+Mais ils pourraient ici découvrir ma venue,
+Qu'il est à propos de cacher.
+Mon amour, que gênaient tous ces soins éclatants,
+Où me tenait lié la gloire de nos Armes,
+Au devoir de ma Charge, a volé les instants,
+Qu'il vient de donner à vos charmes.
+Ce vol, qu'à vos Beautés mon Cœur a consacré,
+Pourrait être blâmé dans la bouche publique ;
+Et j'en veux, pour témoin unique,
+Celle qui peut m'en savoir gré.
+
+Je ne vois rien en vous, dont mon feu ne s'augmente.
+Tout y marque à mes yeux un Cœur bien enflammé.
+Et c'est, je vous l'avoue, une chose charmante,
+De trouver tant d'amour dans un Objet aimé.
+Mais, si je l'ose dire, un scrupule me gêne,
+Aux tendres sentiments que vous me faites voir ;
+Et pour les bien goûter, mon amour, chère Alcmène,
+Voudrait n'y voir entrer, rien de votre devoir :
+Qu'à votre seule ardeur ; qu'à ma seule personne,
+Je dusse les faveurs que je reçois de vous ;
+Et que la qualité que j'ai de votre Époux,
+Ne fût point ce qui me les donne.
+
+Ah ! ce que j'ai pour vous d'ardeur, et de tendresse,
+Passe aussi celle d'un Époux ;
+Et vous ne savez pas, dans des moments si doux,
+Quelle en est la délicatesse.
+Vous ne concevez point qu'un Cœur bien amoureux,
+Sur cent petits égards s'attache avec étude ;
+Et se fait une inquiétude,
+De la manière d'être heureux.
+En moi, belle, et charmante Alcmène,
+Vous voyez un Mari ; vous voyez un Amant :
+Mais l'Amant seul me touche, à parler franchement ;
+Et je sens près de vous, que le Mari le gêne.
+Cet Amant, de vos vœux, jaloux au dernier point,
+Souhaite qu'à lui seul votre Cœur s'abandonne ;
+Et sa passion ne veut point,
+De ce que le Mari lui donne.
+Il veut, de pure source, obtenir vos ardeurs ;
+Et ne veut rien tenir des nœuds de l'Hyménée :
+Rien d'un fâcheux devoir, qui fait agir les Cœurs,
+Et par qui, tous les jours, des plus chères faveurs,
+La douceur est empoisonnée.
+Dans le scrupule enfin, dont il est combattu,
+Il veut, pour satisfaire à sa délicatesse,
+Que vous le sépariez d'avec ce qui le blesse ;
+Que le Mari ne soit que pour votre vertu ;
+Et que de votre Cœur, de bonté revêtu,
+L'Amant ait tout l'amour, et toute la tendresse.
+
+Ce discours est plus raisonnable,
+Alcmène, que vous ne pensez :
+Mais un plus long séjour me rendrait trop coupable,
+Et du retour au Port, les moments sont pressés.
+Adieu, de mon devoir l'étrange barbarie,
+Pour un temps, m'arrache de vous.
+Mais, belle Alcmène, au moins, quand vous verrez l'Époux,
+Songez à l'Amant, je vous prie.
+
+Je viens prendre le temps de rapaiser Alcmène ;
+De bannir les chagrins, que son Cœur veut garder ;
+Et donner à mes feux, dans ce soin qui m'amène,
+Le doux plaisir de se raccommoder.
+Alcmène est là-haut, n'est-ce pas ?
+
+Quelque défense qu'elle ait faite,
+Elle ne sera pas pour moi.
+
+Voulez-vous me désespérer ?
+Hélas ! arrêtez, belle Alcmène.
+
+De grâce…
+
+      Quoi…
+
+Ses pleurs touchent mon Âme, et sa douleur m'afflige.
+Souffrez que mon Cœur…
+
+Où voulez-vous aller ?
+
+Ce vous est une attente vaine.
+Je tiens à vos Beautés, par un nœud trop serré,
+Pour pouvoir un moment en être séparé ;
+Je vous suivrai partout, Alcmène.
+
+Je suis donc bien épouvantable ?
+
+En voilà bien, hélas ! que votre bouche dit !
+
+Hé ! que vous a donc fait ma flamme,
+Pour me pouvoir, Alcmène, en Monstre regarder ?
+
+Ah ! d'un Esprit plus adouci…
+
+Avez-vous bien le cœur de me traiter ainsi ?
+Est-ce là cet amour si tendre,
+Qui devait tant durer, quand je vins hier ici ?
+
+Hélas ! que votre amour n'avait guère de force,
+Si de si peu de chose on le peut voir mourir !
+Ce qui n'était que jeu, doit-il faire un divorce,
+Et d'une raillerie, a-t-on lieu de s'aigrir ?
+
+Oui, vous avez raison, Alcmène, il se faut rendre.
+Cette action, sans doute, est un crime odieux.
+Je ne prétends plus le défendre :
+Mais souffrez que mon Cœur s'en défende à vos yeux ;
+Et donne au vôtre à qui se prendre,
+De ce transport injurieux.
+À vous en faire un aveu véritable,
+L'Époux, Alcmène, a commis tout le mal.
+C'est l'Époux, qu'il vous faut regarder en coupable.
+L'Amant n'a point de part à ce transport brutal ;
+Et de vous offenser, son Cœur n'est point capable.
+Il a pour vous, ce Cœur, pour jamais y penser,
+Trop de respect, et de tendresse :
+Et si de faire rien à vous pouvoir blesser,
+Il avait eu la coupable faiblesse,
+De cent coups à vos yeux il voudrait le percer.
+Mais l'Époux est sorti de ce respect soumis,
+Où pour vous on doit toujours être.
+À son dur procédé, l'Époux s'est fait connaître,
+Et par le droit d'Hymen, il s'est cru tout permis.
+Oui, c'est lui qui, sans doute, est criminel vers vous.
+Lui seul a maltraité votre aimable Personne.
+Haïssez, détestez l'Époux ;
+J'y consens, et vous l'abandonne :
+Mais, Alcmène, sauvez l'Amant de ce courroux,
+Qu'une telle offense vous donne.
+N'en jetez pas sur lui l'effet.
+Démêlez-le un peu du coupable ;
+Et pour être enfin équitable,
+Ne le punissez point, de ce qu'il n'a pas fait.
+
+Hé bien, puisque vous le voulez,
+Il faut donc me charger du crime.
+Oui, vous avez raison, lorsque vous m'immolez
+À vos ressentiments, en coupable Victime.
+Un trop juste dépit contre moi vous anime ;
+Et tout ce grand courroux, qu'ici vous étalez,
+Ne me fait endurer qu'un tourment légitime.
+C'est avec droit que mon abord vous chasse ;
+Et que de me fuir en tous Lieux,
+Votre colère me menace.
+Je dois vous être un Objet odieux.
+Vous devez me vouloir un mal prodigieux.
+Il n'est aucune horreur, que mon forfait ne passe,
+D'avoir offensé vos beaux yeux.
+C'est un crime à blesser les Hommes, et les Dieux ;
+Et je mérite enfin, pour punir cette audace,
+Que contre moi votre haine ramasse
+Tous ses traits les plus furieux :
+Mais mon Cœur vous demande grâce.
+Pour vous la demander, je me jette à genoux ;
+Et la demande au nom de la plus vive flamme ;
+Du plus tendre Amour, dont une Âme
+Puisse jamais brûler pour vous.
+Si votre Cœur, charmante Alcmène,
+Me refuse la grâce, où j'ose recourir ;
+Il faut qu'une atteinte soudaine,
+M'arrache, en me faisant mourir,
+Aux dures rigueurs d'une peine,
+Que je ne saurais plus souffrir.
+Oui, cet état me désespère ;
+Alcmène, ne présumez pas,
+Qu'aimant, comme je fais, vos célestes appas,
+Je puisse vivre un jour avec votre colère.
+Déjà, de ces moments, la barbare longueur,
+Fait, sous des atteintes mortelles,
+Succomber tout mon triste Cœur ;
+Et de mille Vautours, les blessures cruelles,
+N'ont rien de comparable à ma vive douleur.
+Alcmène, vous n'avez qu'à me le déclarer,
+S'il n'est point de pardon que je doive espérer ;
+Cette Épée aussitôt, par un coup favorable,
+Va percer à vos yeux, le Cœur d'un Misérable ;
+Ce Cœur, ce traître Cœur, trop digne d'expirer,
+Puisqu'il a pu fâcher un Objet adorable.
+Heureux, en descendant au ténébreux séjour,
+Si de votre courroux mon trépas vous ramène ;
+Et ne laisse en votre Âme, après ce triste jour,
+Aucune impression de haine,
+Au souvenir de mon amour.
+C'est tout ce que j'attends, pour faveur souveraine.
+
+      Dites, parlez, Alcmène.
+
+Quelque ressentiment, qu'un outrage nous cause,
+Tient-il contre un remords d'un Cœur bien enflammé ?
+
+Plus on aime quelqu'un, moins on trouve de peine…
+
+Vous me haïssez donc ?
+
+Mais pourquoi cette violence,
+Puisque pour vous venger, je vous offre ma mort ?
+Prononcez-en l'Arrêt, et j'obéis sur l'heure.
+
+Et moi, je ne puis vivre, à moins que vous quittiez
+Cette colère qui m'accable ;
+Et que vous m'accordiez le pardon favorable,
+Que je vous demande à vos pieds.
+Résolvez ici l'un des deux,
+Ou de punir, ou bien d'absoudre.
+
+Ah ! belle Alcmène, il faut que comblé d'allégresse…
+
+Va, Sosie, et dépêche-toi,
+Voir, dans les doux transports dont mon Âme est charmée,
+Ce que tu trouveras d'Officiers de l'Armée,
+Et les invite à dîner avec moi.
+Tandis que d'ici je le chasse,
+Mercure y remplira sa place.
+
+Quel bruit à descendre m'oblige ?
+Et qui frappe en Maître où je suis ?
+
+Tout beau, l'emportement est fort peu nécessaire ;
+Et lorsque de la sorte on se met en colère,
+On fait croire qu'on a de mauvaises raisons.
+
+Oui, vous avez raison : et cette ressemblance,
+À douter de tous deux, vous peut autoriser.
+Je ne m'offense point de vous voir en balance :
+Je suis plus raisonnable, et sais vous excuser.
+L'œil ne peut entre nous faire de différence ;
+Et je vois qu'aisément on s'y peut abuser.
+Vous ne me voyez point témoigner de colère ;
+Point mettre l'Épée à la main.
+C'est un mauvais moyen d'éclaircir ce mystère ;
+Et j'en puis trouver un plus doux, et plus certain.
+L'un de nous est Amphitryon ;
+Et tous deux, à vos yeux, nous le pouvons paraître.
+C'est à moi de finir cette confusion ;
+Et je prétends me faire à tous si bien connaître,
+Qu'aux pressantes clartés de ce que je puis être,
+Lui-même soit d'accord du sang qui m'a fait naître,
+Il n'ait plus de rien dire aucune occasion.
+C'est aux yeux des Thébains, que je veux avec vous,
+De la vérité pure, ouvrir la connaissance ;
+Et la chose sans doute est assez d'importance,
+Pour affecter la circonstance,
+De l'éclaircir aux yeux de tous.
+Alcmène attend de moi ce public témoignage.
+Sa vertu, que l'éclat de ce désordre outrage,
+Veut qu'on la justifie, et j'en vais prendre soin.
+C'est à quoi mon amour envers elle m'engage ;
+Et des plus nobles Chefs, je fais un assemblage,
+Pour l'éclaircissement, dont sa gloire a besoin.
+Attendant avec vous ces Témoins souhaités,
+Ayez, je vous prie, agréable
+De venir honorer la Table,
+Où vous a Sosie invités.
+
+Hé bien, je les attends ; et saurai décider
+Le différend en leur présence.
+
+À ces injurieux propos
+Je ne daigne à présent répondre ;
+Et tantôt je saurai confondre
+Cette Fureur, avec deux mots.
+
+Il ne sera pas nécessaire ;
+Et l'on verra tantôt, que je ne fuirai pas.
+
+Point de façons, je vous conjure :
+Entrons vite dans la Maison.
+
+Regarde, Amphitryon, quel est ton Imposteur ;
+Et sous tes propres traits, vois Jupiter paraître.
+À ces marques, tu peux aisément le connaître ;
+Et c'est assez, je crois, pour remettre ton Cœur
+Dans l'état auquel il doit être,
+Et rétablir chez toi, la paix, et la douceur.
+Mon nom, qu'incessamment toute la Terre adore,
+Étouffe ici les bruits, qui pouvaient éclater.
+Un partage avec Jupiter,
+N'a rien du tout, qui déshonore :
+Et sans doute, il ne peut être que glorieux,
+De se voir le Rival du Souverain des Dieux.
+Je n'y vois, pour ta flamme, aucun lieu de murmure ;
+Et c'est moi, dans cette aventure,
+Qui tout Dieu que je suis, dois être le Jaloux.
+Alcmène est toute à toi, quelque soin qu'on emploie ;
+Et ce doit à tes feux être un Objet bien doux,
+De voir, que pour lui plaire, il n'est point d'autre voie,
+Que de paraître son Époux :
+Que Jupiter, orné de sa gloire immortelle,
+Par lui-même, n'a pu triompher de sa foi ;
+Et que ce qu'il a reçu d'elle,
+N'a, par son Cœur ardent, été donné qu'à toi.
+
+Sors donc des noirs chagrins, que ton Cœur a soufferts ;
+Et rends le calme entier à l'ardeur, qui te brûle.
+Chez toi, doit naître un Fils, qui sous le nom d'Hercule,
+Remplira de ses faits, tout le vaste Univers.
+L'éclat d'une Fortune, en mille biens féconde,
+Fera connaître à tous que je suis ton support,
+Et je mettrai tout le Monde
+Au point d'envier ton Sort.
+Tu peux hardiment te flatter
+De ces espérances données :
+C'est un crime, que d'en douter.
+Les paroles de Jupiter,
+Sont des Arrêts des Destinées.
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
+
+Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,
+Qu'à te faire assommer, ton discours peut suffire ?
+Et que pour te traiter comme je le désire,
+Mon courroux n'attend qu'un Bâton ?
+
+Quoi ! tu veux me donner pour des vérités, Traître,
+Des contes que je vois d'extravagance outrés ?
+
+Çà, je veux étouffer le courroux qui m'enflamme,
+Et, tout du long, t'ouïr sur ta Commission.
+Il faut, avant que voir ma Femme,
+Que je débrouille ici cette confusion.
+Rappelle tous tes sens ; rentre bien dans ton Âme ;
+Et réponds, mot pour mot, à chaque Question.
+
+Non, je ne te veux obliger,
+Qu'à me rendre de tout un compte fort sincère.
+
+Sur l'ordre que tantôt je t'avais su prescrire ?
+
+Comment, Coquin ?
+
+Voilà comme un Valet montre pour nous du zèle.
+Passons. Sur les chemins, que t'est-il arrivé ?
+
+Poltron !
+
+Arrivant au logis ?
+
+Ensuite ?
+
+Et qui ?
+
+Quels contes !
+
+D'où peut procéder, je te prie,
+Ce galimatias maudit ?
+Est-ce songe ? est-ce ivrognerie ?
+Aliénation d'Esprit ?
+Ou méchante plaisanterie ?
+
+Il faut être, je le confesse,
+D'un Esprit bien posé, bien tranquille, bien doux,
+Pour souffrir qu'un Valet, de Chansons me repaisse.
+
+Non, sans emportement, je te veux écouter.
+Je l'ai promis. Mais dis, en bonne conscience,
+Au mystère nouveau que tu me viens conter,
+Est-il quelque ombre d'apparence ?
+
+Le moyen d'en rien croire, à moins qu'être insensé ?
+
+À quelle patience il faut que je m'exhorte !
+Mais enfin, n'es-tu pas entré dans la Maison ?
+
+Comment donc ?
+
+On t'a battu ?
+
+      Et qui ?
+
+      Toi, te battre ?
+
+Te confonde le Ciel, de me parler ainsi !
+
+Achevons. As-tu vu ma Femme ?
+
+      Pourquoi ?
+
+Qui t'a fait y manquer, Maraud ; explique-toi ?
+
+Il faut que ce matin, à force de trop boire,
+Il se soit troublé le Cerveau.
+
+Il faut donc qu'au sommeil, tes sens se soient portés ?
+Et qu'un Songe fâcheux, dans ses confus mystères,
+T'ait fait voir toutes les chimères,
+Dont tu me fais des vérités.
+
+Suis-moi, je t'impose silence,
+C'est trop me fatiguer l'Esprit.
+Et je suis un vrai Fou, d'avoir la patience,
+D'écouter d'un Valet, les sottises qu'il dit.
+
+Entrons, sans davantage attendre.
+Mais Alcmène paraît avec tous ses appas :
+En ce moment, sans doute, elle ne m'attend pas,
+Et mon abord la va surprendre.
+
+      Fasse le Ciel, qu'Amphitryon vainqueur,
+Avec plaisir soit revu de sa Femme ;
+Et que ce jour favorable à ma flamme,
+Vous redonne à mes yeux, avec le même cœur :
+Que j'y retrouve autant d'ardeur,
+Que vous en rapporte mon Âme.
+
+      Certes, c'est en ce jour,
+Me donner de vos feux, un mauvais témoignage ;
+Et ce Quoi si tôt de retour,
+En ces occasions, n'est guère le langage
+D'un Cœur bien enflammé d'amour.
+J'osais me flatter en moi-même,
+Que loin de vous j'aurais trop demeuré.
+L'attente d'un retour ardemment désiré,
+Donne à tous les instants une longueur extrême ;
+Et l'absence de ce qu'on aime,
+Quelque peu qu'elle dure, a toujours trop duré.
+
+      Non, Alcmène, à son impatience,
+On mesure le temps en de pareils états ;
+Et vous comptez les moments de l'absence,
+En Personne qui n'aime pas.
+Lorsque l'on aime comme il faut,
+Le moindre éloignement nous tue ;
+Et ce dont on chérit la vue,
+Ne revient jamais assez tôt.
+De votre accueil, je le confesse,
+Se plaint ici mon amoureuse ardeur ;
+Et j'attendais de votre Cœur,
+D'autres transports de joie, et de tendresse.
+
+Comment ?
+
+Que me dites-vous là ?
+
+Est-ce que du retour, que j'ai précipité,
+Un Songe, cette nuit, Alcmène, dans votre Âme,
+A prévenu la vérité ?
+Et que m'ayant, peut-être, en dormant, bien traité,
+Votre Cœur se croit, vers ma flamme,
+Assez amplement acquitté ?
+
+Cette vapeur, dont vous me régalez,
+Est un peu, ce me semble, étrange.
+
+À moins d'un Songe, on ne peut pas, sans doute,
+Excuser ce qu'ici, votre bouche me dit.
+
+Laissons un peu cette vapeur, Alcmène.
+
+Sur le sujet dont il est question,
+Il n'est guère de jeu, que trop loin on ne mène.
+
+Est-ce donc que par là, vous voulez essayer,
+À réparer l'accueil dont je vous ai fait plainte ?
+
+Ah ! de grâce, cessons, Alcmène, je vous prie ;
+Et parlons sérieusement.
+
+Quoi ! vous osez me soutenir en face,
+Que plus tôt qu'à cette heure, on m'ait ici pu voir ?
+
+Moi, je vins hier ?
+
+Ciel ! un pareil débat s'est-il pu voir encore !
+Et qui, de tout ceci, ne serait étonné ?
+Sosie ?
+
+Alcmène, au nom de tous les Dieux,
+Ce discours a d'étranges suites,
+Reprenez vos sens un peu mieux ;
+Et pensez à ce que vous dites.
+
+Quoi ! je vous ai déjà donné
+Le Nœud de Diamants que j'eus pour mon partage,
+Et que je vous ai destiné ?
+
+      Et comment ?
+
+Sosie !
+
+Le Cachet est entier.
+
+Ah Ciel ! ô juste Ciel !
+
+Romps vite ce cachet.
+
+Ô Dieux, dont le pouvoir sur les choses préside,
+Quelle est cette aventure ! et qu'en puis-je augurer,
+Dont mon amour ne s'intimide !
+
+Tais-toi.
+
+Ô Ciel ! quel étrange embarras !
+Je vois des incidents qui passent la Nature ;
+Et mon honneur redoute une aventure,
+Que mon Esprit ne comprend pas !
+
+Non ; mais à ce retour, daignez, s'il est possible,
+Me conter ce qui s'est passé.
+
+Pardonnez-moi ; mais j'ai certaine cause,
+Qui me fait demander ce récit entre nous.
+
+Peut-être ; mais enfin, vous me ferez plaisir
+De m'en dire toute l'Histoire.
+
+Ah ! d'un si doux accueil je me serais passé.
+
+Peut-on plus vivement se voir assassiné !
+
+Ensuite, s'il vous plaît.
+
+Ensemble ?
+
+Ah ! c'est ici le coup le plus cruel de tous !
+Et dont à s'assurer, tremblait mon feu jaloux !
+
+Non, ce n'était pas moi, pour ma douleur sensible.
+Et qui dit qu'hier ici mes pas se sont portés,
+Dit, de toutes les faussetés,
+La fausseté la plus horrible.
+
+      Perfide !
+
+Non, non, plus de douceur, et plus de déférence.
+Ce revers vient à bout de toute ma constance,
+Et mon Cœur ne respire, en ce fatal moment,
+Et que fureur, et que vengeance.
+
+Je ne sais pas : mais ce n'était pas moi ;
+Et c'est un désespoir, qui de tout rend capable.
+
+Après l'indigne affront que l'on me fait connaître,
+C'est bien à quoi, sans doute, il faut vous préparer.
+C'est le moins qu'on doit voir ; et les choses, peut-être,
+Pourront n'en pas là demeurer.
+Le déshonneur est sûr ; mon malheur m'est visible,
+Et mon amour en vain voudrait me l'obscurcir.
+Mais le détail encor ne m'en est pas sensible ;
+Et mon juste courroux prétend s'en éclaircir.
+Votre Frère déjà, peut hautement répondre,
+Que jusqu'à ce matin, je ne l'ai point quitté.
+Je m'en vais le chercher, afin de vous confondre,
+Sur ce retour, qui m'est faussement imputé.
+Après nous percerons jusqu'au fond d'un mystère
+Jusques à présent inouï ;
+Et dans les mouvements d'une juste colère,
+Malheur à qui m'aura trahi.
+
+      Ne m'accompagne pas ;
+Et demeure ici, pour m'attendre.
+
+Oui, sans doute, le Sort tout exprès me le cache ;
+Et des tours que je fais, à la fin, je suis las.
+Il n'est point de Destin plus cruel, que je sache.
+Je ne saurais trouver, portant partout mes pas,
+Celui qu'à chercher je m'attache ;
+Et je trouve tous ceux que je ne cherche pas.
+Mille Fâcheux cruels, qui ne pensent pas l'être,
+De nos faits, avec moi, sans beaucoup me connaître,
+Viennent se réjouir, pour me faire enrager.
+Dans l'embarras cruel du souci qui me blesse,
+De leurs embrassements, et de leur allégresse,
+Sur mon inquiétude, ils viennent tous charger.
+En vain à passer je m'apprête,
+Pour fuir leurs persécutions.
+Leur tuante amitié, de tous côtés m'arrête ;
+Et tandis qu'à l'ardeur de leurs expressions,
+Je réponds d'un geste de tête ;
+Je leur donne, tout bas, cent malédictions.
+Ah ! qu'on est peu flatté de louange, d'honneur,
+Et de tout ce que donne une grande Victoire,
+Lorsque dans l'Âme on souffre une vive douleur !
+Et que l'on donnerait volontiers cette gloire,
+Pour avoir le repos du Cœur !
+Ma jalousie, à tout propos,
+Me promène sur ma disgrâce ;
+Et plus mon Esprit y repasse,
+Moins j'en puis débrouiller le funeste chaos.
+Le vol des Diamants n'est pas ce qui m'étonne :
+On lève les Cachets, qu'on ne l'aperçoit pas.
+Mais le don, qu'on veut qu'hier j'en vins faire en personne,
+Est ce qui fait ici mon cruel embarras.
+La Nature parfois produit des Ressemblances,
+Dont quelques Imposteurs ont pris droit d'abuser :
+Mais il est hors de sens, que sous ces apparences
+Un Homme, pour Époux, se puisse supposer ;
+Et dans tous ces rapports, sont mille différences,
+Dont se peut une Femme aisément aviser.
+Des charmes de la Thessalie,
+On vante de tout temps les merveilleux effets :
+Mais les contes fameux, qui partout en sont faits,
+Dans mon Esprit toujours ont passé pour folie ;
+Et ce serait du Sort une étrange rigueur,
+Qu'au sortir d'une ample Victoire,
+Je fusse contraint de les croire,
+Aux dépens de mon propre honneur.
+Je veux la retâter sur ce fâcheux mystère ;
+Et voir si ce n'est point une vaine chimère,
+Qui sur ses sens troublés ait su prendre crédit.
+Ah ! fasse le Ciel équitable,
+Que ce penser soit véritable ;
+Et que, pour mon bonheur, elle ait perdu l'Esprit !
+
+D'où vient donc qu'à cette heure on ferme cette Porte ?
+
+      Moi.
+
+Ah ! ouvre.
+
+Quoi ! tu ne me connais pas ?
+
+Tout le Monde perd-il aujourd'hui la raison ?
+Est-ce un mal répandu ? Sosie, holà, Sosie.
+
+Me vois-tu bien ?
+
+Moi, Pendard, ce que je demande ?
+
+Attends, Traître, avec un Bâton
+Je vais là-haut me faire entendre ;
+Et de bonne façon t'apprendre
+À m'oser parler sur ce ton.
+
+Ô Ciel ! vit-on jamais une telle insolence !
+La peut-on concevoir d'un Serviteur ; d'un Gueux ?
+
+Moi-même je frémis de ce que tu t'apprêtes,
+Avec ces impudents propos.
+Que tu grossis pour toi d'effroyables tempêtes !
+Quels orages de coups vont fondre sur ton Dos !
+
+Ah ! tu sauras Maraud, à ta confusion,
+Ce que c'est qu'un Valet, qui s'attaque à son Maître.
+
+      Oui, Coquin. M'oses-tu méconnaître ?
+
+Et cet Amphitryon, qui, hors moi, le peut être ?
+
+      Sans doute.
+
+Comment ! encor !
+
+Ciel !
+
+Que de coups !
+
+Ah ! je t'arracherai cette Langue, sans doute.
+
+Comment ! Amphitryon est là-dedans ?
+
+Ah ! quel étrange coup m'a-t-il porté dans l'Âme ?
+En quel trouble cruel jette-t-il mon Esprit ?
+Et si les choses sont, comme le Traître dit,
+Où vois-je ici réduits mon honneur, et ma flamme ?
+À quel Parti me doit résoudre ma raison ?
+Ai-je l'éclat, ou le secret, à prendre ?
+Et dois-je en mon courroux renfermer, ou répandre
+Le déshonneur de ma Maison ?
+Ah ! faut-il consulter dans un affront si rude ?
+Je n'ai rien à prétendre, et rien à ménager ;
+Et toute mon inquiétude
+Ne doit aller qu'à me venger.
+
+Ah ! vous voilà ?
+
+      Insolent, téméraire.
+
+      Je vous apprendrai de me traiter ainsi.
+
+      Ce que j'ai, Misérable ?
+
+Tu me le demandes, Maraud ?
+Laissez-moi satisfaire un courroux légitime.
+
+Comment ! il vient d'avoir l'audace,
+De me fermer ma Porte au nez !
+Et de joindre encor la menace,
+À mille propos effrénés !
+Ah ! Coquin.
+
+Non, il faut qu'il ait le salaire
+Des mots, où tout à l'heure, il s'est émancipé.
+
+Qui t'a donné cet Ordre ?
+
+Et quand ?
+
+Ô Ciel ! chaque instant, chaque pas,
+Ajoute quelque chose à mon cruel martyre !
+Et dans ce fatal embarras,
+Je ne sais plus que croire, ni que dire.
+
+Allons, vous y pourrez seconder mon effort ;
+Et le Ciel à propos, ici vous a fait rendre.
+Voyons quelle fortune en ce jour peut m'attendre.
+Débrouillons ce mystère, et sachons notre Sort.
+Hélas ! je brûle de l'apprendre ;
+Et je le crains plus que la Mort !
+
+Que vois-je, justes Dieux !
+
+Mon Âme demeure transie.
+Hélas ! Je n'en puis plus ; l'aventure est à bout :
+Ma destinée est éclaircie ;
+Et ce que je vois, me dit tout.
+
+C'est trop être éludés par un Fourbe exécrable,
+Il faut, avec ce Fer, rompre l'enchantement.
+
+      Laissez-moi.
+
+Punir, d'un Imposteur, les lâches trahisons.
+
+Je te ferai, pour ton partage,
+Sentir, par mille coups, ces propos outrageants.
+
+Laissez-moi m'assouvir dans mon courroux extrême,
+Et laver mon affront au sang d'un Scélérat.
+
+Quoi ! mon honneur, de vous, reçoit ce traitement ?
+Et mes Amis, d'un Fourbe, embrassent la défense ?
+Loin d'être les premiers à prendre ma vengeance,
+Eux-mêmes font obstacle à mon ressentiment ?
+
+Ô Ciel ! puis-je plus bas me voir humilié !
+Quoi ? faut-il que j'entende ici, pour mon martyre,
+Tout ce que l'Imposteur, à mes yeux, vient de dire ;
+Et que dans la fureur, que ce discours m'inspire,
+On me tienne le Bras lié !
+
+Allez, faibles Amis, et flattez l'imposture.
+Thèbes en a pour moi de tout autres que vous :
+Et je vais en trouver, qui partageant l'injure,
+Sauront prêter la main à mon juste courroux.
+
+Fourbe, tu crois par là, peut-être, t'évader :
+Mais rien ne te saurait sauver de ma vengeance.
+
+Le Ciel même, le Ciel, ne t'y saurait soustraire :
+Et jusques aux Enfers, j'irai suivre tes pas.
+
+Allons, courons, avant que d'avec eux il sorte,
+Assembler des Amis, qui suivent mon courroux ;
+Et chez moi venons à main forte,
+Pour le percer de mille coups.
+
+Arrêtez là, Messieurs. Suivez-nous d'un peu loin ;
+Et n'avancez tous, je vous prie,
+Que quand il en sera besoin.
+
+Ah ! de tous les côtés, mortelle est ma douleur !
+Et je souffre pour ma flamme,
+Autant que pour mon honneur.
+
+Ah ! sur le fait dont il s'agit,
+L'erreur simple devient un crime véritable,
+Et sans consentement, l'Innocence y périt.
+De semblables erreurs, quelque jour qu'on leur donne,
+Touchent des endroits délicats :
+Et la Raison bien souvent les pardonne ;
+Que l'Honneur, et l'Amour, ne les pardonnent pas.
+
+Allons.
+
+Lève-toi. Que fait-on ?
+
+Suis-moi.
+
+      Qui t'épouvante ainsi ?
+Quelle est la peur, que je t'inspire ?
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+
+Je prends, Amphitryon, grande part à la gloire,
+Que répandent sur vous vos illustres Exploits ;
+Et l'éclat de votre Victoire
+Sait toucher de mon Cœur les sensibles endroits.
+Mais quand je vois que cet honneur fatal
+Éloigne de moi ce que j'aime,
+Je ne puis m'empêcher dans ma tendresse extrême,
+De lui vouloir un peu de mal ;
+Et d'opposer mes vœux à cet Ordre suprême,
+Qui des Thébains vous fait le Général.
+C'est une douce chose, après une Victoire,
+Que la Gloire, où l'on voit ce qu'on aime élevé :
+Mais parmi les périls mêlés à cette Gloire,
+Un triste coup, hélas ! est bientôt arrivé.
+De combien de frayeurs a-t-on l'Âme blessée,
+Au moindre choc dont on entend parler ?
+Voit-on, dans les horreurs d'une telle pensée,
+Par où jamais se consoler
+Du coup, dont on est menacée ?
+Et de quelque Laurier qu'on couronne un Vainqueur ;
+Quelque part que l'on ait à cet honneur suprême ;
+Vaut-il ce qu'il en coûte aux tendresses d'un Cœur,
+Qui peut, à tout moment, trembler pour ce qu'il aime ?
+
+C'est de ce Nom pourtant, que l'ardeur qui me brûle,
+Tient le droit de paraître au jour :
+Et je ne comprends rien à ce nouveau scrupule,
+Dont s'embarrasse votre amour.
+
+Amphitryon, en vérité,
+Vous vous moquez, de tenir ce langage :
+Et j'aurais peur qu'on ne vous crût pas sage,
+Si de quelqu'un vous étiez écouté.
+
+Je ne sépare point ce qu'unissent les Dieux ;
+Et l'Époux, et l'Amant, me sont fort précieux.
+
+Allons pour mon Époux, Cléanthis, vers les Dieux,
+Nous acquitter de nos hommages ;
+Et les remercier des succès glorieux,
+Dont Thèbes, par son Bras, goûte les avantages.
+Ô Dieux !
+
+Quoi ! de retour si tôt ?
+
+Je ne vois…
+
+J'ai peine à comprendre sur quoi
+Vous fondez les discours que je vous entends faire ;
+Et si vous vous plaignez de moi,
+Je ne sais pas, de bonne foi,
+Ce qu'il faut, pour vous satisfaire.
+Hier au soir, ce me semble, à votre heureux retour,
+On me vit témoigner une joie assez tendre ;
+Et rendre aux soins de votre amour,
+Tout ce que de mon Cœur, vous aviez lieu d'attendre.
+
+      Ne fis-je pas éclater à vos yeux,
+Les soudains mouvements d'une entière allégresse ?
+Et le transport d'un Cœur peut-il s'expliquer mieux,
+Au retour d'un Époux, qu'on aime avec tendresse ?
+
+      Que même votre amour
+Montra, de mon accueil, une joie incroyable :
+Et que m'ayant quittée à la pointe du jour,
+Je ne vois pas qu'à ce soudain retour,
+Ma surprise soit si coupable.
+
+Est-ce qu'une vapeur, par sa malignité,
+Amphitryon, a dans votre Âme,
+Du retour d'hier au soir, brouillé la vérité ?
+Et que du doux accueil duquel je m'acquittai,
+Votre Cœur prétend à ma flamme,
+Ravir toute l'honnêteté ?
+
+C'est ce qu'on peut donner pour change,
+Au Songe dont vous me parlez.
+
+À moins d'une vapeur, qui vous trouble l'Esprit,
+On ne peut pas sauver, ce que de vous j'écoute.
+
+Laissons un peu ce Songe, Amphitryon.
+
+Sans doute ; et pour marque certaine,
+Je commence à sentir un peu d'émotion.
+
+Est-ce donc que par cette feinte,
+Vous désirez vous égayer ?
+
+Amphitryon, c'est trop pousser l'amusement ;
+Finissons cette raillerie.
+
+Quoi ! vous voulez nier avec audace,
+Que dès hier, en ces Lieux, vous vîntes sur le soir ?
+
+      Sans doute. Et dès devant l'Aurore,
+Vous vous en êtes retourné.
+
+J'y pense mûrement aussi,
+Et tous ceux du Logis ont vu votre arrivée.
+J'ignore quel motif vous fait agir ainsi :
+Mais si la chose avait besoin d'être prouvée ;
+S'il était vrai qu'on pût ne s'en souvenir pas ;
+De qui puis-je tenir, que de vous, la nouvelle
+Du dernier de tous vos Combats ?
+Et les cinq Diamants que portait Ptérélas,
+Qu'a fait, dans la Nuit éternelle,
+Tomber l'effort de votre bras ?
+En pourrait-on vouloir un plus sûr témoignage ?
+
+Assurément. Il n'est pas difficile
+De vous en bien convaincre.
+
+      Le voici.
+
+      Est-ce une Vision ?
+Tenez. Trouverez-vous cette preuve assez forte ?
+
+      Allez, Amphitryon,
+Vous vous moquez, d'en user de la sorte ;
+Et vous en devriez avoir confusion.
+
+      Sur quoi vous étonner si fort ?
+Et d'où peut naître ce grand trouble !
+
+Songez-vous, en tenant cette preuve sensible,
+À me nier encor votre retour pressé ?
+
+Puisque vous demandez un récit de la chose,
+Vous voulez dire donc que ce n'était pas vous ?
+
+Les soucis importants, qui vous peuvent saisir,
+Vous ont-ils fait si vite en perdre la mémoire ?
+
+L'Histoire n'est pas longue. À vous je m'avançai,
+Pleine d'une aimable surprise :
+Tendrement je vous embrassai ;
+Et témoignai ma joie, à plus d'une reprise.
+
+Vous me fîtes d'abord ce Présent d'importance,
+Que du Butin conquis vous m'aviez destiné.
+Votre Cœur, avec véhémence,
+M'étala de ses feux toute la violence,
+Et les soins importuns qui l'avaient enchaîné ;
+L'aise de me revoir ; les tourments de l'absence ;
+Tout le souci, que son impatience,
+Pour le retour, s'était donné.
+Et jamais votre amour, en pareille occurrence,
+Ne me parut si tendre, et si passionné.
+
+Tous ces transports, toute cette tendresse,
+Comme vous croyez bien, ne me déplaisaient pas :
+Et s'il faut que je le confesse,
+Mon Cœur, Amphitryon, y trouvait mille appas.
+
+      Nous nous entrecoupâmes
+De mille Questions, qui pouvaient nous toucher.
+On servit. Tête-à-tête, ensemble nous soupâmes ;
+Et le Souper fini, nous nous fûmes coucher.
+
+      Assurément. Quelle est cette demande ?
+
+D'où vous vient, à ce mot, une rougeur si grande ?
+Ai-je fait quelque mal, de coucher avec vous ?
+
+Amphitryon !
+
+      Ah ! quel emportement !
+
+De qui donc vous venger ? et quel manque de foi,
+Vous fait ici me traiter de coupable ?
+
+Allez, indigne Époux, le fait parle de soi ;
+Et l'imposture est effroyable.
+C'est trop me pousser là-dessus ;
+Et d'infidélité, me voir trop condamnée.
+Si vous cherchez, dans ces transports confus,
+Un prétexte à briser les nœuds d'un Hyménée,
+Qui me tient à vous enchaînée ;
+Tous ces détours sont superflus :
+Et me voilà déterminée,
+À souffrir qu'en ce jour, nos liens soient rompus.
+
+      Je ne puis rien entendre :
+Laisse-moi seule, et ne suis point mes pas.
+
+Non, avec l'Auteur de ma peine,
+Je ne puis du tout demeurer.
+
+      Laissez-moi.
+
+      Laissez-moi, vous dis-je.
+
+      Non, ne suivez point mes pas.
+
+      Où vous ne serez pas.
+
+Et moi, partout je vous fuirai.
+
+Plus qu'on ne peut dire, à mes yeux.
+Oui, je vous vois, comme un Monstre effroyable ;
+Un Monstre cruel, furieux,
+Et dont l'approche est redoutable ;
+Comme un Monstre à fuir en tous Lieux.
+Mon Cœur souffre, à vous voir, une peine incroyable.
+C'est un supplice, qui m'accable ;
+Et je ne vois rien, sous les Cieux,
+D'affreux, d'horrible, d'odieux,
+Qui ne me fût, plus que vous, supportable.
+
+J'en ai dans le Cœur davantage.
+Et pour s'exprimer tout, ce Cœur a du dépit,
+De ne point trouver de langage.
+
+Ah ! juste Ciel ! cela peut-il se demander ?
+Et n'est-ce pas pour mettre à bout une Âme ?
+
+Non, je ne veux, du tout, vous voir, ni vous entendre.
+
+Non, non, ce ne l'est pas ; et vos lâches injures
+En ont autrement ordonné.
+Il n'est plus, cet amour tendre, et passionné ;
+Vous l'avez dans mon Cœur, par cent vives blessures,
+Cruellement assassiné.
+C'est en sa place un courroux inflexible ;
+Un vif ressentiment ; un dépit invincible ;
+Un désespoir d'un Cœur justement animé ;
+Qui prétend vous haïr, pour cet affront sensible,
+Autant qu'il est d'accord de vous avoir aimé :
+Et c'est haïr, autant qu'il est possible.
+
+Ah ! c'est cela dont je suis offensée ;
+Et que ne peut pardonner mon courroux.
+Des véritables traits d'un mouvement jaloux,
+Je me trouverais moins blessée.
+La Jalousie a des impressions,
+Dont bien souvent la force nous entraîne ;
+Et l'Âme la plus sage en ces occasions,
+Sans doute, avec assez de peine,
+Répond de ses émotions ;
+L'emportement d'un Cœur, qui peut s'être abusé,
+A de quoi ramener une Âme, qu'il offense ;
+Et dans l'amour qui lui donne naissance,
+Il trouve au moins, malgré toute sa violence,
+Des raisons pour être excusé.
+De semblables transports, contre un ressentiment,
+Pour défense toujours, ont ce qui les fait naître ;
+Et l'on donne grâce, aisément,
+À ce dont on n'est pas le Maître.
+Mais que de Gaieté de cœur,
+On passe aux mouvements d'une fureur extrême ;
+Que sans cause l'on vienne, avec tant de rigueur,
+Blesser la tendresse, et l'honneur
+D'un Cœur, qui chèrement nous aime ?
+Ah ! c'est un coup trop cruel en lui-même ;
+Et que jamais n'oubliera ma douleur.
+
+Ah ! toutes ces subtilités
+N'ont que des excuses frivoles ;
+Et pour les Esprits irrités,
+Ce sont des contretemps, que de telles paroles.
+Ce détour ridicule est en vain pris par vous.
+Je ne distingue rien en celui qui m'offense.
+Tout y devient l'objet de mon courroux ;
+Et dans sa juste violence,
+Sont confondus, et l'Amant, et l'Époux.
+Tous deux de même sorte occupent ma pensée ;
+Et des mêmes couleurs, par mon Âme blessée,
+Tous deux ils sont peints à mes yeux.
+Tous deux sont criminels ; tous deux m'ont offensée ;
+Et tous deux me sont odieux.
+
+Ah ! trop cruel Époux !
+
+Faut-il encor pour vous, conserver des bontés ;
+Et vous voir m'outrager, par tant d'indignités ?
+
+Un Cœur bien plein de flamme, à mille morts s'expose,
+Plutôt que de vouloir fâcher l'Objet aimé.
+
+Non, ne m'en parlez point, vous méritez ma haine.
+
+      J'y fais tout mon effort ;
+Et j'ai dépit de voir, que toute votre offense
+Ne puisse de mon Cœur, jusqu'à cette vengeance,
+Faire encore aller le transport.
+
+Qui ne saurait haïr, peut-il vouloir qu'on meure ?
+
+Hélas ! ce que je puis résoudre,
+Paraît bien plus, que je ne veux !
+Pour vouloir soutenir le courroux qu'on me donne,
+Mon Cœur a trop su me trahir.
+Dire qu'on ne saurait haïr,
+N'est-ce pas dire qu'on pardonne ?
+
+Laissez. Je me veux mal de mon trop de faiblesse.
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleanthis
+
+Ô Ciel ! que d'aimables caresses
+D'un Époux ardemment chéri !
+Et que mon traître de Mari
+Est loin de toutes ces tendresses !
+
+Quoi ! c'est ainsi que l'on me quitte ?
+
+Mais avec cette brusquerie,
+Traître, de moi te séparer !
+
+Mais quoi ! partir ainsi d'une façon brutale,
+Sans me dire un seul mot de douceur pour régale ?
+
+Regarde, Traître, Amphitryon,
+Vois combien, pour Alcmène, il étale de flamme,
+Et rougis là-dessus, du peu de passion,
+Que tu témoignes pour ta Femme.
+
+Quoi ! suis-je hors d'état, Perfide, d'espérer
+Qu'un Cœur auprès de moi soupire ?
+
+Mérites-tu, Pendard, cet insigne bonheur,
+De te voir, pour Épouse, une Femme d'honneur ?
+
+Comment ! de trop bien vivre, on te voit me blâmer ?
+
+Il te faudrait des Cœurs pleins de fausses tendresses ;
+De ces Femmes aux beaux et louables talents,
+Qui savent accabler leurs Maris de caresses,
+Pour leur faire avaler l'usage des Galants.
+
+Comment ! tu souffrirais, sans nulle répugnance,
+Que j'aimasse un Galant avec toute licence ?
+
+Pourquoi, pour punir cet Infâme,
+Mon Cœur n'a-t-il assez de résolution ?
+Ah ! que dans cette occasion,
+J'enrage d'être honnête Femme !
+
+Faut-il…
+
+Il faut que quelque chose ait brouillé sa cervelle :
+Mais le Frère, sur-le-champ,
+Finira cette querelle.
+
+Voyez s'il me viendra seulement aborder ?
+Mais je veux m'empêcher de rien faire paraître.
+
+      Ah, ah, tu t'en avises,
+Traître, de t'approcher de nous !
+
+Qu'appelles-tu sur rien ? dis ?
+
+Je ne sais qui me tient, Infâme,
+Que je ne t'arrache les yeux ;
+Et ne t'apprenne où va le courroux d'une Femme.
+
+Tu n'appelles donc rien le procédé, peut-être,
+Qu'avec moi ton Cœur a tenu ?
+
+      Quoi ! tu fais l'ingénu !
+Est-ce qu'à l'exemple du Maître,
+Tu veux dire qu'ici tu n'es pas revenu ?
+
+Tu crois, peut-être, excuser par ce trait…
+
+Tu ne te souviens point du tout de la manière,
+Dont tu m'as su traiter, étant venu du Port ?
+
+Comment ! Amphitryon m'ayant su disposer,
+Jusqu'à ce que tu vins, j'avais poussé ma veille :
+Mais je ne vis jamais une froideur pareille :
+De ta Femme, il fallut moi-même t'aviser ;
+Et lorsque je fus te baiser,
+Tu détournas le nez, et me donnas l'oreille !
+
+      Comment, bon ?
+
+Je te sus exprimer des tendresses de Cœur :
+Mais à tous mes discours tu fus comme une Souche.
+Et jamais un mot de douceur,
+Ne te put sortir de la bouche.
+
+      Enfin ma flamme eut beau s'émanciper,
+Sa chaste ardeur en toi ne trouva rien que glace ;
+Et dans un tel retour je te vis la tromper,
+Jusqu'à faire refus de prendre au Lit la place,
+Que les Lois de l'Hymen t'obligent d'occuper.
+
+      Non, lâche.
+
+Traître, il n'est que trop assuré.
+C'est de tous les affronts, l'affront le plus sensible.
+Et loin que ce matin, ton Cœur l'ait réparé ;
+Tu t'es d'avec moi séparé,
+Par des discours chargés d'un mépris tout visible.
+
+      Hé quoi ? ma plainte a cet effet ?
+Tu ris après ce bel Ouvrage ?
+
+Exprime-t-on ainsi le regret d'un outrage ?
+
+Loin de te condamner d'un si perfide trait,
+Tu m'en fais éclater la joie en ton visage.
+
+Traître, te moques-tu de moi ?
+
+Quelle est cette frayeur ? et sachons donc pourquoi ?
+
+Je me moque des Médecins,
+Avec leurs raisonnements fades.
+Qu'ils règlent ceux qui sont malades,
+Sans vouloir gouverner les Gens qui sont bien sains.
+Ils se mêlent de trop d'Affaires,
+De prétendre tenir nos chastes feux gênés ;
+Et sur les Jours Caniculaires,
+Ils nous donnent encore, avec leurs Lois sévères,
+De cent sots contes par le nez.
+
+      Non : je soutiens que, cela conclut mal,
+Ces raisons sont raisons d'extravagantes Têtes.
+Il n'est ni Vin, ni temps, qui puisse être fatal,
+À remplir le devoir de l'Amour conjugal ;
+Et les Médecins sont des Bêtes.
+
+Tu n'es pas où tu crois. En vain tu files doux.
+Ton excuse n'est point une excuse de mise :
+Et je me veux venger, tôt ou tard, entre nous,
+De l'air dont chaque jour je vois qu'on me méprise.
+Des discours de tantôt, je garde tous les coups,
+Et tâcherai d'user, lâche et perfide Époux,
+De cette liberté que ton Cœur m'a permise.
+
+      Tu m'as dit tantôt, que tu consentais fort,
+Lâche, que j'en aimasse un autre.
+
+Si je puis une fois pourtant,
+Sur mon Esprit gagner la chose…
+
+Oui, pleine d'une inquiétude,
+Qui cherche de la solitude ;
+Et qui m'a défendu d'accompagner ses pas.
+
+Son chagrin, à ce que je vois,
+A fait une prompte retraite.
+
+Que si toutes nous faisions bien,
+Nous donnerions tous les Hommes au Diable ;
+Et que le meilleur n'en vaut rien.
+
+Vraiment…
+
+C'est pour ton nez, vraiment. Cela se fait ainsi.
+
+      Non.
+
+      Là, là, reviens.
+
+Va, va, Traître, laisse-moi faire ;
+On se lasse, parfois, d'être Femme de bien.
+
+Ô Ciel !
+
+Las ! vous êtes là-haut, et je vous vois ici !
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sosie
+
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.
 Messieurs, Ami de tout le Monde.
 Ah ! quelle audace sans seconde,
@@ -320,40 +1903,17 @@ Et voici le Corps d'Armée,
 Qui d'abord… Attendez, le Corps d'Armée a peur.
 J'entends quelque bruit, ce me semble.
 
-**** *book_ *id_I02 *act_I *date_1668 *creator_moliere
-
--*who_mercure
-Sous ce minois, qui lui ressemble,
-Chassons de ces Lieux ce Causeur ;
-Dont l'abord importun troublerait la douceur,
-Que nos Amants goûtent ensemble.
-
--*who_sosie
 Mon Cœur tant soit peu se rassure ;
 Et je pense que ce n'est rien.
 Crainte pourtant de sinistre aventure,
 Allons chez nous achever l'Entretien.
 
--*who_mercure
-Tu seras plus fort que Mercure,
-Ou je t'en empêcherai bien.
-
--*who_sosie
 Cette Nuit, en longueur, me semble sans pareille :
 Il faut depuis le temps que je suis en chemin,
 Ou que mon Maître ait pris le soir pour le matin,
 Ou que trop tard au Lit le blond Phébus sommeille,
 Pour avoir trop pris de son Vin.
 
--*who_mercure
-Comme avec irrévérence
-Parle des Dieux ce Maraud !
-Mon Bras saura bien tantôt
-Châtier cette insolence ;
-Et je vais m'égayer avec lui comme il faut,
-En lui volant son Nom, avec sa Ressemblance.
-
--*who_sosie
 Ah ! par ma foi, j'avais raison !
 C'est fait de moi, chétive Créature.
 Je vois devant notre Maison,
@@ -362,22 +1922,8 @@ Ne me présage rien de bon.
 Pour faire semblant d'assurance,
 Je veux chanter un peu d'ici.
 
--*who_mercure
-Qui donc est ce Coquin, qui prend tant de licence,
-Que de chanter, et m'étourdir ainsi ?
-Veut-il qu'à l'étriller, ma Main un peu s'applique ?
-
--*who_sosie
 Cet Homme, assurément, n'aime pas la Musique.
 
--*who_mercure
-Depuis plus d'une Semaine,
-Je n'ai trouvé personne à qui rompre les os.
-La vertu de mon Bras se perd dans le repos ;
-Et je cherche quelque Dos,
-Pour me remettre en haleine.
-
--*who_sosie
 Quel diable d'Homme est-ce ci ?
 De mortelles frayeurs je sens mon Âme atteinte.
 Mais pourquoi trembler tant aussi ?
@@ -390,204 +1936,71 @@ Faisons-nous du Cœur, par raison.
 Il est seul comme moi, je suis fort, j'ai bon Maître,
 Et voilà notre Maison.
 
--*who_mercure
-Qui va là ?
-
--*who_sosie
       Moi.
 
--*who_mercure
-      Qui, moi ?
-
--*who_sosie
       Moi. Courage, Sosie !
 
--*who_mercure
-Quel est ton sort, dis-moi ?
-
--*who_sosie
       D'être Homme, et de parler.
 
--*who_mercure
-Es-tu Maître, ou Valet ?
-
--*who_sosie
       Comme il me prend envie.
 
--*who_mercure
-Où s'adressent tes pas ?
-
--*who_sosie
       Où j'ai dessein d'aller.
 
--*who_mercure
-Ah ! ceci me déplaît.
-
--*who_sosie
       J'en ai l'Âme ravie.
 
--*who_mercure
-Résolument, par force, ou par amour,
-Je veux savoir de toi, Traître,
-Ce que tu fais ; d'où tu viens avant jour ;
-Où tu vas ; à qui tu peux être.
-
--*who_sosie
 Je fais le bien, et le mal, tour à tour :
 Je viens de là ; vais là ; j'appartiens à mon Maître.
 
--*who_mercure
-Tu montres de l'Esprit ; et je te vois en train
-De trancher avec moi de l'Homme d'importance.
-Il me prend un désir, pour faire connaissance,
-De te donner un Soufflet de ma Main.
-
--*who_sosie
 À moi-même ?
 
--*who_mercure
-      À toi-même, et t'en voilà certain.
-
--*who_sosie
 Ah, ah, c'est tout de bon !
 
--*who_mercure
-      Non, ce n'est que pour rire,
-Et répondre à tes Quolibets.
-
--*who_sosie
 Tudieu, l'Ami, sans vous rien dire,
 Comme vous baillez des Soufflets !
 
--*who_mercure
-Ce sont là de mes moindres coups ;
-De petits Soufflets ordinaires.
-
--*who_sosie
 Si j'étais aussi prompt que vous,
 Nous ferions de belles affaires.
 
--*who_mercure
-Tout cela n'est encor rien,
-Pour y faire quelque pause :
-Nous verrons bien autre chose ;
-Poursuivons notre Entretien.
-
--*who_sosie
 Je quitte la Partie.
 
--*who_mercure
-      Où vas-tu ?
-
--*who_sosie
       Que t'importe ?
 
--*who_mercure
-Je veux savoir où tu vas.
-
--*who_sosie
 Me faire ouvrir cette Porte :
 Pourquoi retiens-tu mes pas ?
 
--*who_mercure
-Si jusqu'à l'approcher tu pousses ton audace,
-Je fais sur toi pleuvoir un Orage de coups.
-
--*who_sosie
 Quoi ! tu veux, par ta menace,
 M'empêcher d'entrer chez nous ?
 
--*who_mercure
-Comment, chez nous !
-
--*who_sosie
       Oui, chez nous.
 
--*who_mercure
-      Ô le Traître !
-Tu te dis de cette Maison ?
-
--*who_sosie
 Fort bien. Amphitryon n'en est-il pas le Maître ?
 
--*who_mercure
-Hé bien ! que fait cette raison ?
-
--*who_sosie
 Je suis son Valet.
 
--*who_mercure
-      Toi ?
-
--*who_sosie
       Moi.
 
--*who_mercure
-      Son valet ?
-
--*who_sosie
       Sans doute.
 
--*who_mercure
-Valet d'Amphitryon ?
-
--*who_sosie
       D'Amphitryon ; de lui.
 
--*who_mercure
-Ton Nom est ?
-
--*who_sosie
       Sosie.
 
--*who_mercure
-      Heu ? Comment ?
-
--*who_sosie
       Sosie.
 
--*who_mercure
-      Écoute.
-Sais-tu que de ma Main je t'assomme aujourd'hui ?
-
--*who_sosie
 Pourquoi ? De quelle rage est ton Âme saisie ?
 
--*who_mercure
-Qui te donne, dis-moi, cette témérité,
-De prendre le Nom de Sosie ?
-
--*who_sosie
 Moi, je ne le prends point, je l'ai toujours porté.
 
--*who_mercure
-Ô le mensonge horrible ! et l'impudence extrême !
-Tu m'oses soutenir, que Sosie est ton Nom ?
-
--*who_sosie
 Fort bien, je le soutiens ; par la grande raison,
 Qu'ainsi l'a fait des Dieux la Puissance suprême :
 Et qu'il n'est pas en moi de pouvoir dire non,
 Et d'être un autre, que moi-même.
 
--*who_mercure
-Mille coups de bâton doivent être le prix
-D'une pareille effronterie.
-
--*who_sosie
 Justice, Citoyens ! au secours, je vous prie !
 
--*who_mercure
-Comment, Bourreau, tu fais des cris ?
-
--*who_sosie
 De mille coups tu me meurtris,
 Et tu ne veux pas que je crie ?
 
--*who_mercure
-C'est ainsi que mon Bras…
-
--*who_sosie
       L'action ne vaut rien.
 Tu triomphes de l'avantage,
 Que te donne sur moi mon manque de courage,
@@ -599,113 +2012,53 @@ Battre un Homme à jeu sûr, n'est pas d'une belle Âme ;
 Et le Cœur est digne de blâme,
 Contre les Gens qui n'en ont pas.
 
--*who_mercure
-Hé bien, es-tu Sosie à présent ? qu'en dis-tu ?
-
--*who_sosie
 Tes coups n'ont point en moi fait de métamorphose.
 Et tout le changement que je trouve à la chose,
 C'est d'être Sosie battu.
 
--*who_mercure
-Encor ? Cent autres coups pour cette autre impudence.
-
--*who_sosie
 De grâce, fais trêve à tes coups.
 
--*who_mercure
-Fais donc trêve à ton insolence.
-
--*who_sosie
 Tout ce qu'il te plaira ; je garde le silence :
 La dispute est par trop inégale entre nous.
 
--*who_mercure
-Es-tu Sosie encor ? dis, Traître !
-
--*who_sosie
 Hélas ! je suis ce que tu veux.
 Dispose de mon sort, tout au gré de tes vœux ;
 Ton Bras t'en a fait le Maître.
 
--*who_mercure
-Ton Nom était Sosie, à ce que tu disais.
-
--*who_sosie
 Il est vrai, jusqu'ici j'ai cru la chose claire :
 Mais ton Bâton, sur cette affaire,
 M'a fait voir que je m'abusais.
 
--*who_mercure
-C'est moi qui suis Sosie ; et tout Thèbes l'avoue.
-Amphitryon jamais n'en eut d'autre que moi.
-
--*who_sosie
 Toi Sosie ?
 
--*who_mercure
-      Oui, Sosie ; et si quelqu'un s'y joue,
-Il peut bien prendre garde à soi.
-
--*who_sosie
 Ciel ! me faut-il ainsi renoncer à moi-même ;
 Et par un Imposteur me voir voler mon Nom ?
 Que son bonheur est extrême,
 De ce que je suis Poltron !
 Sans cela, par la mort…
 
--*who_mercure
-      Entre tes dents, je pense,
-Tu murmures je ne sais quoi ?
-
--*who_sosie
 Non ; mais, au nom des Dieux, donne-moi la licence
 De parler un moment à toi.
 
--*who_mercure
-Parle.
-
--*who_sosie
       Mais promets-moi, de grâce,
 Que les coups n'en seront point.
 Signons une Trêve.
 
--*who_mercure
-      Passe ;
-Va, je t'accorde ce point.
-
--*who_sosie
 Qui te jette, dis-moi, dans cette fantaisie ?
 Que te reviendra-t-il, de m'enlever mon Nom ?
 Et peux-tu faire enfin, quand tu serais Démon,
 Que je ne sois pas Moi ? que je ne sois Sosie ?
 
--*who_mercure
-Comment, tu peux…
-
--*who_sosie
       Ah ! tout doux :
 Nous avons fait trêve aux coups.
 
--*who_mercure
-Quoi ! Pendard, Imposteur, Coquin…
-
--*who_sosie
       Pour des injures,
 Dis-m'en tant que tu voudras :
 Ce sont légères blessures ;
 Et je ne m'en fâche pas.
 
--*who_mercure
-Tu te dis Sosie !
-
--*who_sosie
       Oui, quelque conte frivole…
 
--*who_mercure
-Sus, je romps notre trêve, et reprends ma parole.
-
--*who_sosie
 N'importe, je ne puis m'anéantir pour toi ;
 Et souffrir un discours, si loin de l'apparence.
 Être ce que je suis, est-il en ta puissance ?
@@ -733,27 +2086,6 @@ Et, plût au Ciel, le fût-il moins !
 Cesse donc d'insulter au sort d'un Misérable ;
 Et laisse à mon devoir s'acquitter de ses soins.
 
--*who_mercure
-Arrête : ou sur ton Dos le moindre pas attire
-Un assommant éclat de mon juste courroux.
-Tout ce que tu viens de dire,
-Est à moi, hormis les coups.
-C'est moi qu'Amphitryon députe vers Alcmène,
-Et qui du Port Persique arrive de ce pas.
-Moi qui viens annoncer la valeur de son Bras,
-Qui nous fait remporter une Victoire pleine,
-Et de nos Ennemis a mis le Chef à bas.
-C'est moi qui suis Sosie enfin, de certitude ;
-Fils de Dave, honnête Berger ;
-Frère d'Arpage, mort en Pays étranger ;
-Mari de Cléanthis la prude,
-Dont l'humeur me fait enrager.
-Qui dans Thèbe ai reçu mille coups d'étrivière,
-Sans en avoir jamais dit rien.
-Et jadis en Public, fus marqué par derrière,
-Pour être trop Homme de bien.
-
--*who_sosie
 Il a raison. À moins d'être Sosie,
 On ne peut pas savoir tout ce qu'il dit.
 Et dans l'étonnement, dont mon Âme est saisie,
@@ -765,23 +2097,10 @@ Afin d'éclaircir ce mystère.
 Parmi tout le Butin fait sur nos ennemis,
 Qu'est-ce qu'Amphitryon obtient pour son partage ?
 
--*who_mercure
-Cinq fort gros Diamants, en nœud proprement mis ;
-Dont leur Chef se parait, comme d'un rare Ouvrage.
-
--*who_sosie
 À qui destine-t-il un si riche Présent ?
 
--*who_mercure
-À sa Femme ; et sur elle il le veut voir paraître.
-
--*who_sosie
 Mais où, pour l'apporter, est-il mis à présent ?
 
--*who_mercure
-Dans un Coffret, scellé des Armes de mon Maître.
-
--*who_sosie
 Il ne ment pas d'un mot, à chaque repartie,
 Et de moi je commence à douter tout de bon.
 Près de moi, par la force, il est déjà Sosie :
@@ -797,22 +2116,8 @@ C'est de quoi le confondre, et nous allons le voir.
 Lorsqu'on était aux mains, que fis-tu dans nos Tentes
 Où tu courus seul te fourrer ?
 
--*who_mercure
-D'un Jambon…
-
--*who_sosie
       L'y voilà !
 
--*who_mercure
-      Que j'allai déterrer,
-Je coupai bravement deux Tranches succulentes,
-Dont je sus fort bien me bourrer.
-Et joignant à cela d'un Vin que l'on ménage,
-Et dont avant le goût, les yeux se contentaient,
-Je pris un peu de courage,
-Pour nos Gens qui se battaient.
-
--*who_sosie
 Cette preuve sans pareille,
 En sa faveur conclut bien ;
 Et l'on n'y peut dire rien,
@@ -822,284 +2127,23 @@ Que tu ne sois Sosie ; et j'y donne ma voix.
 Mais si tu l'es, dis-moi qui tu veux que je sois ;
 Car encor faut-il bien que je sois quelque chose.
 
--*who_mercure
-Quand je ne serai plus Sosie,
-Sois-le, j'en demeure d'accord.
-Mais tant que je le suis, je te garantis mort,
-Si tu prends cette fantaisie.
-
--*who_sosie
 Tout cet embarras met mon esprit sur les dents ;
 Et la Raison, à ce qu'on voit s'oppose.
 Mais il faut terminer enfin par quelque chose,
 Et le plus court pour moi, c'est d'entrer là-dedans.
 
--*who_mercure
-Ah ! tu prends donc, Pendard, goût à la Bastonnade ?
-
--*who_sosie
 Ah ! qu'est-ce ci, grands Dieux ! il frappe un ton plus fort ;
 Et mon Dos, pour un mois, en doit être malade.
 Laissons ce diable d'Homme ; et retournons au Port.
 Ô juste Ciel ! j'ai fait une belle Ambassade !
 
--*who_mercure
-Enfin, je l'ai fait fuir ; et sous ce traitement,
-De beaucoup d'actions, il a reçu la peine.
-Mais je vois Jupiter, que fort civilement
-Reconduit l'amoureuse Alcmène.
-
-**** *book_ *id_I03 *act_I *date_1668 *creator_moliere
-
--*who_jupiter
-Défendez, chère Alcmène, aux Flambeaux d'approcher ;
-Ils m'offrent des plaisirs, en m'offrant votre vue :
-Mais ils pourraient ici découvrir ma venue,
-Qu'il est à propos de cacher.
-Mon amour, que gênaient tous ces soins éclatants,
-Où me tenait lié la gloire de nos Armes,
-Au devoir de ma Charge, a volé les instants,
-Qu'il vient de donner à vos charmes.
-Ce vol, qu'à vos Beautés mon Cœur a consacré,
-Pourrait être blâmé dans la bouche publique ;
-Et j'en veux, pour témoin unique,
-Celle qui peut m'en savoir gré.
-
--*who_alcmene
-Je prends, Amphitryon, grande part à la gloire,
-Que répandent sur vous vos illustres Exploits ;
-Et l'éclat de votre Victoire
-Sait toucher de mon Cœur les sensibles endroits.
-Mais quand je vois que cet honneur fatal
-Éloigne de moi ce que j'aime,
-Je ne puis m'empêcher dans ma tendresse extrême,
-De lui vouloir un peu de mal ;
-Et d'opposer mes vœux à cet Ordre suprême,
-Qui des Thébains vous fait le Général.
-C'est une douce chose, après une Victoire,
-Que la Gloire, où l'on voit ce qu'on aime élevé :
-Mais parmi les périls mêlés à cette Gloire,
-Un triste coup, hélas ! est bientôt arrivé.
-De combien de frayeurs a-t-on l'Âme blessée,
-Au moindre choc dont on entend parler ?
-Voit-on, dans les horreurs d'une telle pensée,
-Par où jamais se consoler
-Du coup, dont on est menacée ?
-Et de quelque Laurier qu'on couronne un Vainqueur ;
-Quelque part que l'on ait à cet honneur suprême ;
-Vaut-il ce qu'il en coûte aux tendresses d'un Cœur,
-Qui peut, à tout moment, trembler pour ce qu'il aime ?
-
--*who_jupiter
-Je ne vois rien en vous, dont mon feu ne s'augmente.
-Tout y marque à mes yeux un Cœur bien enflammé.
-Et c'est, je vous l'avoue, une chose charmante,
-De trouver tant d'amour dans un Objet aimé.
-Mais, si je l'ose dire, un scrupule me gêne,
-Aux tendres sentiments que vous me faites voir ;
-Et pour les bien goûter, mon amour, chère Alcmène,
-Voudrait n'y voir entrer, rien de votre devoir :
-Qu'à votre seule ardeur ; qu'à ma seule personne,
-Je dusse les faveurs que je reçois de vous ;
-Et que la qualité que j'ai de votre Époux,
-Ne fût point ce qui me les donne.
-
--*who_alcmene
-C'est de ce Nom pourtant, que l'ardeur qui me brûle,
-Tient le droit de paraître au jour :
-Et je ne comprends rien à ce nouveau scrupule,
-Dont s'embarrasse votre amour.
-
--*who_jupiter
-Ah ! ce que j'ai pour vous d'ardeur, et de tendresse,
-Passe aussi celle d'un Époux ;
-Et vous ne savez pas, dans des moments si doux,
-Quelle en est la délicatesse.
-Vous ne concevez point qu'un Cœur bien amoureux,
-Sur cent petits égards s'attache avec étude ;
-Et se fait une inquiétude,
-De la manière d'être heureux.
-En moi, belle, et charmante Alcmène,
-Vous voyez un Mari ; vous voyez un Amant :
-Mais l'Amant seul me touche, à parler franchement ;
-Et je sens près de vous, que le Mari le gêne.
-Cet Amant, de vos vœux, jaloux au dernier point,
-Souhaite qu'à lui seul votre Cœur s'abandonne ;
-Et sa passion ne veut point,
-De ce que le Mari lui donne.
-Il veut, de pure source, obtenir vos ardeurs ;
-Et ne veut rien tenir des nœuds de l'Hyménée :
-Rien d'un fâcheux devoir, qui fait agir les Cœurs,
-Et par qui, tous les jours, des plus chères faveurs,
-La douceur est empoisonnée.
-Dans le scrupule enfin, dont il est combattu,
-Il veut, pour satisfaire à sa délicatesse,
-Que vous le sépariez d'avec ce qui le blesse ;
-Que le Mari ne soit que pour votre vertu ;
-Et que de votre Cœur, de bonté revêtu,
-L'Amant ait tout l'amour, et toute la tendresse.
-
--*who_alcmene
-Amphitryon, en vérité,
-Vous vous moquez, de tenir ce langage :
-Et j'aurais peur qu'on ne vous crût pas sage,
-Si de quelqu'un vous étiez écouté.
-
--*who_jupiter
-Ce discours est plus raisonnable,
-Alcmène, que vous ne pensez :
-Mais un plus long séjour me rendrait trop coupable,
-Et du retour au Port, les moments sont pressés.
-Adieu, de mon devoir l'étrange barbarie,
-Pour un temps, m'arrache de vous.
-Mais, belle Alcmène, au moins, quand vous verrez l'Époux,
-Songez à l'Amant, je vous prie.
-
--*who_alcmene
-Je ne sépare point ce qu'unissent les Dieux ;
-Et l'Époux, et l'Amant, me sont fort précieux.
-
--*who_cleanthis
-Ô Ciel ! que d'aimables caresses
-D'un Époux ardemment chéri !
-Et que mon traître de Mari
-Est loin de toutes ces tendresses !
-
--*who_mercure
-La Nuit, qu'il me faut avertir,
-N'a plus qu'à plier tous ses voiles ;
-Et pour effacer les Étoiles,
-Le Soleil, de son Lit, peut maintenant sortir.
-
-**** *book_ *id_I04 *act_I *date_1668 *creator_moliere
-
--*who_cleanthis
-Quoi ! c'est ainsi que l'on me quitte ?
-
--*who_mercure
-Et comment donc ? Ne veux-tu pas,
-Que de mon devoir je m'acquitte ?
-Et que d'Amphitryon j'aille suivre les pas ?
-
--*who_cleanthis
-Mais avec cette brusquerie,
-Traître, de moi te séparer !
-
--*who_mercure
-Le beau sujet de fâcherie !
-Nous avons tant de temps ensemble à demeurer.
-
--*who_cleanthis
-Mais quoi ! partir ainsi d'une façon brutale,
-Sans me dire un seul mot de douceur pour régale ?
-
--*who_mercure
-Diantre, où veux-tu que mon Esprit
-T'aille chercher des fariboles ?
-Quinze ans de Mariage épuisent les paroles ;
-Et depuis un long temps, nous nous sommes tout dit.
-
--*who_cleanthis
-Regarde, Traître, Amphitryon,
-Vois combien, pour Alcmène, il étale de flamme,
-Et rougis là-dessus, du peu de passion,
-Que tu témoignes pour ta Femme.
-
--*who_mercure
-Hé, mon Dieu, Cléanthis, ils sont encore Amants.
-Il est certain âge où tout passe :
-Et ce qui leur sied bien dans ces commencements,
-En nous, vieux Mariés, aurait mauvaise grâce.
-Il nous ferait beau voir attachés, face à face,
-À pousser les beaux Sentiments !
-
--*who_cleanthis
-Quoi ! suis-je hors d'état, Perfide, d'espérer
-Qu'un Cœur auprès de moi soupire ?
-
--*who_mercure
-Non, je n'ai garde de le dire :
-Mais je suis trop Barbon, pour oser soupirer,
-Et je ferais crever de rire.
-
--*who_cleanthis
-Mérites-tu, Pendard, cet insigne bonheur,
-De te voir, pour Épouse, une Femme d'honneur ?
-
--*who_mercure
-Mon Dieu, tu n'es que trop honnête :
-Ce grand honneur ne me vaut rien.
-Ne sois point si Femme de bien ;
-Et me romps un peu moins la tête.
-
--*who_cleanthis
-Comment ! de trop bien vivre, on te voit me blâmer ?
-
--*who_mercure
-La douceur d'une Femme est tout ce qui me charme ;
-Et ta vertu fait un vacarme,
-Qui ne cesse de m'assommer.
-
--*who_cleanthis
-Il te faudrait des Cœurs pleins de fausses tendresses ;
-De ces Femmes aux beaux et louables talents,
-Qui savent accabler leurs Maris de caresses,
-Pour leur faire avaler l'usage des Galants.
-
--*who_mercure
-Ma foi, veux-tu que je te dise ?
-Un mal d'opinion, ne touche que les Sots.
-Et je prendrais pour ma Devise,
-Moins d'honneur, et plus de repos.
-
--*who_cleanthis
-Comment ! tu souffrirais, sans nulle répugnance,
-Que j'aimasse un Galant avec toute licence ?
-
--*who_mercure
-Oui, si je n'étais plus de tes cris rebattu ;
-Et qu'on te vît changer d'humeur et de méthode.
-J'aime mieux un Vice commode,
-Qu'une fatigante Vertu.
-Adieu, Cléanthis, ma chère Âme,
-Il me faut suivre Amphitryon.
-
--*who_cleanthis
-Pourquoi, pour punir cet Infâme,
-Mon Cœur n'a-t-il assez de résolution ?
-Ah ! que dans cette occasion,
-J'enrage d'être honnête Femme !
-
-**** *book_ *id_II01 *act_II *date_1668 *creator_moliere
-
--*who_amphitryon
-Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,
-Qu'à te faire assommer, ton discours peut suffire ?
-Et que pour te traiter comme je le désire,
-Mon courroux n'attend qu'un Bâton ?
-
--*who_sosie
 Si vous le prenez sur ce ton,
 Monsieur, je n'ai plus rien à dire ;
 Et vous aurez toujours raison.
 
--*who_amphitryon
-Quoi ! tu veux me donner pour des vérités, Traître,
-Des contes que je vois d'extravagance outrés ?
-
--*who_sosie
 Non, je suis le Valet, et vous êtes le Maître ;
 Il n'en sera, Monsieur, que ce que vous voudrez.
 
--*who_amphitryon
-Çà, je veux étouffer le courroux qui m'enflamme,
-Et, tout du long, t'ouïr sur ta Commission.
-Il faut, avant que voir ma Femme,
-Que je débrouille ici cette confusion.
-Rappelle tous tes sens ; rentre bien dans ton Âme ;
-Et réponds, mot pour mot, à chaque Question.
-
--*who_sosie
 Mais, de peur d'incongruité,
 Dites-moi, de grâce, à l'avance,
 De quel air il vous plaît que ceci soit traité.
@@ -1108,87 +2152,41 @@ Ou comme auprès des Grands on le voit usité ?
 Faut-il dire la vérité ;
 Ou bien user de complaisance ?
 
--*who_amphitryon
-Non, je ne te veux obliger,
-Qu'à me rendre de tout un compte fort sincère.
-
--*who_sosie
 Bon, c'est assez ; laissez-moi faire :
 Vous n'avez qu'à m'interroger.
 
--*who_amphitryon
-Sur l'ordre que tantôt je t'avais su prescrire ?
-
--*who_sosie
 Je suis parti ; les Cieux, d'un noir crêpe voilés,
 Pestant fort contre vous dans ce fâcheux martyre,
 Et maudissant vingt fois l'ordre dont vous parlez.
 
--*who_amphitryon
-Comment, Coquin ?
-
--*who_sosie
       Monsieur, vous n'avez rien qu'à dire.
 Je mentirai, si vous voulez.
 
--*who_amphitryon
-Voilà comme un Valet montre pour nous du zèle.
-Passons. Sur les chemins, que t'est-il arrivé ?
-
--*who_sosie
 D'avoir une frayeur mortelle,
 Au moindre Objet que j'ai trouvé.
 
--*who_amphitryon
-Poltron !
-
--*who_sosie
       En nous formant, Nature a ses caprices.
 Divers penchants en nous elle fait observer.
 Les uns à s'exposer, trouvent mille délices :
 Moi, j'en trouve à me conserver.
 
--*who_amphitryon
-Arrivant au logis ?
-
--*who_sosie
       J'ai devant notre Porte,
 En moi-même voulu répéter un petit,
 Sur quel ton, et de quelle sorte,
 Je ferais du Combat le glorieux Récit.
 
--*who_amphitryon
-Ensuite ?
-
--*who_sosie
       On m'est venu troubler, et mettre en peine.
 
--*who_amphitryon
-Et qui ?
-
--*who_sosie
       Sosie, un Moi, de vos ordres jaloux,
 Que vous avez du Port envoyé vers Alcmène,
 Et qui de nos secrets a connaissance pleine,
 Comme le Moi qui parle à Vous.
 
--*who_amphitryon
-Quels contes !
-
--*who_sosie
       Non, Monsieur, c'est la vérité pure.
 Ce Moi, plutôt que Moi, s'est au Logis trouvé :
 Et j'étais venu, je vous jure,
 Avant que je fusse arrivé.
 
--*who_amphitryon
-D'où peut procéder, je te prie,
-Ce galimatias maudit ?
-Est-ce songe ? est-ce ivrognerie ?
-Aliénation d'Esprit ?
-Ou méchante plaisanterie ?
-
--*who_sosie
 Non, c'est la chose comme elle est,
 Et point du tout conte frivole.
 Je suis Homme d'honneur, j'en donne ma parole,
@@ -1202,23 +2200,10 @@ A trouvé l'autre Moi, frais, gaillard et dispos,
 Et n'ayant d'autre inquiétude,
 Que de battre, et casser des os.
 
--*who_amphitryon
-Il faut être, je le confesse,
-D'un Esprit bien posé, bien tranquille, bien doux,
-Pour souffrir qu'un Valet, de Chansons me repaisse.
-
--*who_sosie
 Si vous vous mettez en courroux,
 Plus de conférence entre nous ;
 Vous savez que d'abord tout cesse.
 
--*who_amphitryon
-Non, sans emportement, je te veux écouter.
-Je l'ai promis. Mais dis, en bonne conscience,
-Au mystère nouveau que tu me viens conter,
-Est-il quelque ombre d'apparence ?
-
--*who_sosie
 Non ; vous avez raison ; et la chose à chacun,
 Hors de créance doit paraître.
 C'est un fait à n'y rien connaître ;
@@ -1226,10 +2211,6 @@ Un conte extravagant, ridicule, importun ;
 Cela choque le sens commun :
 Mais cela ne laisse pas d'être.
 
--*who_amphitryon
-Le moyen d'en rien croire, à moins qu'être insensé ?
-
--*who_sosie
 Je ne l'ai pas cru Moi, sans une peine extrême.
 Je me suis, d'être deux, senti l'Esprit blessé ;
 Et longtemps, d'Imposteur, j'ai traité ce Moi-même.
@@ -1242,45 +2223,20 @@ Ne sont pas plus ressemblantes ;
 Et n'était que ses mains sont un peu trop pesantes,
 J'en serais fort satisfait.
 
--*who_amphitryon
-À quelle patience il faut que je m'exhorte !
-Mais enfin, n'es-tu pas entré dans la Maison ?
-
--*who_sosie
 Bon, entré ! Hé de quelle sorte ?
 Ai-je voulu jamais entendre de raison ?
 Et ne me suis-je pas interdit notre Porte ?
 
--*who_amphitryon
-Comment donc ?
-
--*who_sosie
       Avec un Bâton ;
 Dont mon Dos sent encore une douleur très forte.
 
--*who_amphitryon
-On t'a battu ?
-
--*who_sosie
       Vraiment !
 
--*who_amphitryon
-      Et qui ?
-
--*who_sosie
       Moi.
 
--*who_amphitryon
-      Toi, te battre ?
-
--*who_sosie
 Oui, Moi ; non pas le Moi d'ici,
 Mais le Moi du Logis, qui frappe comme quatre.
 
--*who_amphitryon
-Te confonde le Ciel, de me parler ainsi !
-
--*who_sosie
 Ce ne sont point des Badinages.
 Le Moi que j'ai trouvé tantôt,
 Sur le Moi qui vous parle, a de grands avantages :
@@ -1289,22 +2245,10 @@ J'en ai reçu des témoignages :
 Et ce diable de Moi m'a rossé comme il faut,
 C'est un Drôle qui fait des rages.
 
--*who_amphitryon
-Achevons. As-tu vu ma Femme ?
-
--*who_sosie
       Non.
 
--*who_amphitryon
-      Pourquoi ?
-
--*who_sosie
 Par une raison assez forte.
 
--*who_amphitryon
-Qui t'a fait y manquer, Maraud ; explique-toi ?
-
--*who_sosie
 Faut-il le répéter vingt fois de même sorte ?
 Moi, vous dis-je ; ce Moi plus robuste que Moi ;
 Ce Moi, qui s'est de force emparé de la Porte.
@@ -1317,21 +2261,9 @@ Enfin ce Moi qui suis chez nous :
 Ce Moi, qui s'est montré mon Maître ;
 Ce Moi qui m'a roué de coups.
 
--*who_amphitryon
-Il faut que ce matin, à force de trop boire,
-Il se soit troublé le Cerveau.
-
--*who_sosie
 Je veux être pendu, si j'ai bu que de l'eau :
 À mon serment, on m'en peut croire.
 
--*who_amphitryon
-Il faut donc qu'au sommeil, tes sens se soient portés ?
-Et qu'un Songe fâcheux, dans ses confus mystères,
-T'ait fait voir toutes les chimères,
-Dont tu me fais des vérités.
-
--*who_sosie
 Tout aussi peu. Je n'ai point sommeillé ;
 Et n'en ai même aucune envie.
 Je vous parle bien éveillé,
@@ -1339,445 +2271,32 @@ J'étais bien éveillé ce matin, sur ma vie.
 Et bien éveillé même était l'autre Sosie,
 Quand il m'a si bien étrillé.
 
--*who_amphitryon
-Suis-moi, je t'impose silence,
-C'est trop me fatiguer l'Esprit.
-Et je suis un vrai Fou, d'avoir la patience,
-D'écouter d'un Valet, les sottises qu'il dit.
-
--*who_sosie
 Tous les discours sont des sottises,
 Partant d'un Homme sans éclat.
 Ce serait paroles exquises,
 Si c'était un Grand qui parlât.
 
--*who_amphitryon
-Entrons, sans davantage attendre.
-Mais Alcmène paraît avec tous ses appas :
-En ce moment, sans doute, elle ne m'attend pas,
-Et mon abord la va surprendre.
-
-**** *book_ *id_II02 *act_II *date_1668 *creator_moliere
-
--*who_alcmene
-Allons pour mon Époux, Cléanthis, vers les Dieux,
-Nous acquitter de nos hommages ;
-Et les remercier des succès glorieux,
-Dont Thèbes, par son Bras, goûte les avantages.
-Ô Dieux !
-
--*who_amphitryon
-      Fasse le Ciel, qu'Amphitryon vainqueur,
-Avec plaisir soit revu de sa Femme ;
-Et que ce jour favorable à ma flamme,
-Vous redonne à mes yeux, avec le même cœur :
-Que j'y retrouve autant d'ardeur,
-Que vous en rapporte mon Âme.
-
--*who_alcmene
-Quoi ! de retour si tôt ?
-
--*who_amphitryon
-      Certes, c'est en ce jour,
-Me donner de vos feux, un mauvais témoignage ;
-Et ce Quoi si tôt de retour,
-En ces occasions, n'est guère le langage
-D'un Cœur bien enflammé d'amour.
-J'osais me flatter en moi-même,
-Que loin de vous j'aurais trop demeuré.
-L'attente d'un retour ardemment désiré,
-Donne à tous les instants une longueur extrême ;
-Et l'absence de ce qu'on aime,
-Quelque peu qu'elle dure, a toujours trop duré.
-
--*who_alcmene
-Je ne vois…
-
--*who_amphitryon
-      Non, Alcmène, à son impatience,
-On mesure le temps en de pareils états ;
-Et vous comptez les moments de l'absence,
-En Personne qui n'aime pas.
-Lorsque l'on aime comme il faut,
-Le moindre éloignement nous tue ;
-Et ce dont on chérit la vue,
-Ne revient jamais assez tôt.
-De votre accueil, je le confesse,
-Se plaint ici mon amoureuse ardeur ;
-Et j'attendais de votre Cœur,
-D'autres transports de joie, et de tendresse.
-
--*who_alcmene
-J'ai peine à comprendre sur quoi
-Vous fondez les discours que je vous entends faire ;
-Et si vous vous plaignez de moi,
-Je ne sais pas, de bonne foi,
-Ce qu'il faut, pour vous satisfaire.
-Hier au soir, ce me semble, à votre heureux retour,
-On me vit témoigner une joie assez tendre ;
-Et rendre aux soins de votre amour,
-Tout ce que de mon Cœur, vous aviez lieu d'attendre.
-
--*who_amphitryon
-Comment ?
-
--*who_alcmene
-      Ne fis-je pas éclater à vos yeux,
-Les soudains mouvements d'une entière allégresse ?
-Et le transport d'un Cœur peut-il s'expliquer mieux,
-Au retour d'un Époux, qu'on aime avec tendresse ?
-
--*who_amphitryon
-Que me dites-vous là ?
-
--*who_alcmene
-      Que même votre amour
-Montra, de mon accueil, une joie incroyable :
-Et que m'ayant quittée à la pointe du jour,
-Je ne vois pas qu'à ce soudain retour,
-Ma surprise soit si coupable.
-
--*who_amphitryon
-Est-ce que du retour, que j'ai précipité,
-Un Songe, cette nuit, Alcmène, dans votre Âme,
-A prévenu la vérité ?
-Et que m'ayant, peut-être, en dormant, bien traité,
-Votre Cœur se croit, vers ma flamme,
-Assez amplement acquitté ?
-
--*who_alcmene
-Est-ce qu'une vapeur, par sa malignité,
-Amphitryon, a dans votre Âme,
-Du retour d'hier au soir, brouillé la vérité ?
-Et que du doux accueil duquel je m'acquittai,
-Votre Cœur prétend à ma flamme,
-Ravir toute l'honnêteté ?
-
--*who_amphitryon
-Cette vapeur, dont vous me régalez,
-Est un peu, ce me semble, étrange.
-
--*who_alcmene
-C'est ce qu'on peut donner pour change,
-Au Songe dont vous me parlez.
-
--*who_amphitryon
-À moins d'un Songe, on ne peut pas, sans doute,
-Excuser ce qu'ici, votre bouche me dit.
-
--*who_alcmene
-À moins d'une vapeur, qui vous trouble l'Esprit,
-On ne peut pas sauver, ce que de vous j'écoute.
-
--*who_amphitryon
-Laissons un peu cette vapeur, Alcmène.
-
--*who_alcmene
-Laissons un peu ce Songe, Amphitryon.
-
--*who_amphitryon
-Sur le sujet dont il est question,
-Il n'est guère de jeu, que trop loin on ne mène.
-
--*who_alcmene
-Sans doute ; et pour marque certaine,
-Je commence à sentir un peu d'émotion.
-
--*who_amphitryon
-Est-ce donc que par là, vous voulez essayer,
-À réparer l'accueil dont je vous ai fait plainte ?
-
--*who_alcmene
-Est-ce donc que par cette feinte,
-Vous désirez vous égayer ?
-
--*who_amphitryon
-Ah ! de grâce, cessons, Alcmène, je vous prie ;
-Et parlons sérieusement.
-
--*who_alcmene
-Amphitryon, c'est trop pousser l'amusement ;
-Finissons cette raillerie.
-
--*who_amphitryon
-Quoi ! vous osez me soutenir en face,
-Que plus tôt qu'à cette heure, on m'ait ici pu voir ?
-
--*who_alcmene
-Quoi ! vous voulez nier avec audace,
-Que dès hier, en ces Lieux, vous vîntes sur le soir ?
-
--*who_amphitryon
-Moi, je vins hier ?
-
--*who_alcmene
-      Sans doute. Et dès devant l'Aurore,
-Vous vous en êtes retourné.
-
--*who_amphitryon
-Ciel ! un pareil débat s'est-il pu voir encore !
-Et qui, de tout ceci, ne serait étonné ?
-Sosie ?
-
--*who_sosie
       Elle a besoin de six grains d'Ellébore,
 Monsieur, son Esprit est tourné !
 
--*who_amphitryon
-Alcmène, au nom de tous les Dieux,
-Ce discours a d'étranges suites,
-Reprenez vos sens un peu mieux ;
-Et pensez à ce que vous dites.
-
--*who_alcmene
-J'y pense mûrement aussi,
-Et tous ceux du Logis ont vu votre arrivée.
-J'ignore quel motif vous fait agir ainsi :
-Mais si la chose avait besoin d'être prouvée ;
-S'il était vrai qu'on pût ne s'en souvenir pas ;
-De qui puis-je tenir, que de vous, la nouvelle
-Du dernier de tous vos Combats ?
-Et les cinq Diamants que portait Ptérélas,
-Qu'a fait, dans la Nuit éternelle,
-Tomber l'effort de votre bras ?
-En pourrait-on vouloir un plus sûr témoignage ?
-
--*who_amphitryon
-Quoi ! je vous ai déjà donné
-Le Nœud de Diamants que j'eus pour mon partage,
-Et que je vous ai destiné ?
-
--*who_alcmene
-Assurément. Il n'est pas difficile
-De vous en bien convaincre.
-
--*who_amphitryon
-      Et comment ?
-
--*who_alcmene
-      Le voici.
-
--*who_amphitryon
-Sosie !
-
--*who_sosie
       Elle se moque, et je le tiens ici ;
 Monsieur, la feinte est inutile.
 
--*who_amphitryon
-Le Cachet est entier.
-
--*who_alcmene
-      Est-ce une Vision ?
-Tenez. Trouverez-vous cette preuve assez forte ?
-
--*who_amphitryon
-Ah Ciel ! ô juste Ciel !
-
--*who_alcmene
-      Allez, Amphitryon,
-Vous vous moquez, d'en user de la sorte ;
-Et vous en devriez avoir confusion.
-
--*who_amphitryon
-Romps vite ce cachet.
-
--*who_sosie
       Ma foi, la place est vide.
 Il faut que par Magie on ait su le tirer :
 Ou bien que de lui-même, il soit venu sans guide,
 Vers celle qu'il a su qu'on en voulait parer.
 
--*who_amphitryon
-Ô Dieux, dont le pouvoir sur les choses préside,
-Quelle est cette aventure ! et qu'en puis-je augurer,
-Dont mon amour ne s'intimide !
-
--*who_sosie
 Si sa bouche dit vrai, nous avons même sort ;
 Et de même que moi, Monsieur, vous êtes double.
 
--*who_amphitryon
-Tais-toi.
-
--*who_alcmene
-      Sur quoi vous étonner si fort ?
-Et d'où peut naître ce grand trouble !
-
--*who_amphitryon
-Ô Ciel ! quel étrange embarras !
-Je vois des incidents qui passent la Nature ;
-Et mon honneur redoute une aventure,
-Que mon Esprit ne comprend pas !
-
--*who_alcmene
-Songez-vous, en tenant cette preuve sensible,
-À me nier encor votre retour pressé ?
-
--*who_amphitryon
-Non ; mais à ce retour, daignez, s'il est possible,
-Me conter ce qui s'est passé.
-
--*who_alcmene
-Puisque vous demandez un récit de la chose,
-Vous voulez dire donc que ce n'était pas vous ?
-
--*who_amphitryon
-Pardonnez-moi ; mais j'ai certaine cause,
-Qui me fait demander ce récit entre nous.
-
--*who_alcmene
-Les soucis importants, qui vous peuvent saisir,
-Vous ont-ils fait si vite en perdre la mémoire ?
-
--*who_amphitryon
-Peut-être ; mais enfin, vous me ferez plaisir
-De m'en dire toute l'Histoire.
-
--*who_alcmene
-L'Histoire n'est pas longue. À vous je m'avançai,
-Pleine d'une aimable surprise :
-Tendrement je vous embrassai ;
-Et témoignai ma joie, à plus d'une reprise.
-
--*who_amphitryon
-Ah ! d'un si doux accueil je me serais passé.
-
--*who_alcmene
-Vous me fîtes d'abord ce Présent d'importance,
-Que du Butin conquis vous m'aviez destiné.
-Votre Cœur, avec véhémence,
-M'étala de ses feux toute la violence,
-Et les soins importuns qui l'avaient enchaîné ;
-L'aise de me revoir ; les tourments de l'absence ;
-Tout le souci, que son impatience,
-Pour le retour, s'était donné.
-Et jamais votre amour, en pareille occurrence,
-Ne me parut si tendre, et si passionné.
-
--*who_amphitryon
-Peut-on plus vivement se voir assassiné !
-
--*who_alcmene
-Tous ces transports, toute cette tendresse,
-Comme vous croyez bien, ne me déplaisaient pas :
-Et s'il faut que je le confesse,
-Mon Cœur, Amphitryon, y trouvait mille appas.
-
--*who_amphitryon
-Ensuite, s'il vous plaît.
-
--*who_alcmene
-      Nous nous entrecoupâmes
-De mille Questions, qui pouvaient nous toucher.
-On servit. Tête-à-tête, ensemble nous soupâmes ;
-Et le Souper fini, nous nous fûmes coucher.
-
--*who_amphitryon
-Ensemble ?
-
--*who_alcmene
-      Assurément. Quelle est cette demande ?
-
--*who_amphitryon
-Ah ! c'est ici le coup le plus cruel de tous !
-Et dont à s'assurer, tremblait mon feu jaloux !
-
--*who_alcmene
-D'où vous vient, à ce mot, une rougeur si grande ?
-Ai-je fait quelque mal, de coucher avec vous ?
-
--*who_amphitryon
-Non, ce n'était pas moi, pour ma douleur sensible.
-Et qui dit qu'hier ici mes pas se sont portés,
-Dit, de toutes les faussetés,
-La fausseté la plus horrible.
-
--*who_alcmene
-Amphitryon !
-
--*who_amphitryon
-      Perfide !
-
--*who_alcmene
-      Ah ! quel emportement !
-
--*who_amphitryon
-Non, non, plus de douceur, et plus de déférence.
-Ce revers vient à bout de toute ma constance,
-Et mon Cœur ne respire, en ce fatal moment,
-Et que fureur, et que vengeance.
-
--*who_alcmene
-De qui donc vous venger ? et quel manque de foi,
-Vous fait ici me traiter de coupable ?
-
--*who_amphitryon
-Je ne sais pas : mais ce n'était pas moi ;
-Et c'est un désespoir, qui de tout rend capable.
-
--*who_alcmene
-Allez, indigne Époux, le fait parle de soi ;
-Et l'imposture est effroyable.
-C'est trop me pousser là-dessus ;
-Et d'infidélité, me voir trop condamnée.
-Si vous cherchez, dans ces transports confus,
-Un prétexte à briser les nœuds d'un Hyménée,
-Qui me tient à vous enchaînée ;
-Tous ces détours sont superflus :
-Et me voilà déterminée,
-À souffrir qu'en ce jour, nos liens soient rompus.
-
--*who_amphitryon
-Après l'indigne affront que l'on me fait connaître,
-C'est bien à quoi, sans doute, il faut vous préparer.
-C'est le moins qu'on doit voir ; et les choses, peut-être,
-Pourront n'en pas là demeurer.
-Le déshonneur est sûr ; mon malheur m'est visible,
-Et mon amour en vain voudrait me l'obscurcir.
-Mais le détail encor ne m'en est pas sensible ;
-Et mon juste courroux prétend s'en éclaircir.
-Votre Frère déjà, peut hautement répondre,
-Que jusqu'à ce matin, je ne l'ai point quitté.
-Je m'en vais le chercher, afin de vous confondre,
-Sur ce retour, qui m'est faussement imputé.
-Après nous percerons jusqu'au fond d'un mystère
-Jusques à présent inouï ;
-Et dans les mouvements d'une juste colère,
-Malheur à qui m'aura trahi.
-
--*who_sosie
 Monsieur…
 
--*who_amphitryon
-      Ne m'accompagne pas ;
-Et demeure ici, pour m'attendre.
-
--*who_cleanthis
-Faut-il…
-
--*who_alcmene
-      Je ne puis rien entendre :
-Laisse-moi seule, et ne suis point mes pas.
-
-**** *book_ *id_II03 *act_II *date_1668 *creator_moliere
-
--*who_cleanthis
-Il faut que quelque chose ait brouillé sa cervelle :
-Mais le Frère, sur-le-champ,
-Finira cette querelle.
-
--*who_sosie
 C'est ici, pour mon Maître, un coup assez touchant ;
 Et son aventure est cruelle.
 Je crains fort, pour mon fait, quelque chose approchant,
 Et je m'en veux, tout doux, éclaircir avec elle.
 
--*who_cleanthis
-Voyez s'il me viendra seulement aborder ?
-Mais je veux m'empêcher de rien faire paraître.
-
--*who_sosie
 La chose quelquefois est fâcheuse à connaître,
 Et je tremble à la demander.
 Ne vaudrait-il point mieux, pour ne rien hasarder,
@@ -1789,159 +2308,62 @@ Des curiosités d'apprendre
 Ce qu'on ne voudrait pas savoir.
 Dieu te gard', Cléanthis.
 
--*who_cleanthis
-      Ah, ah, tu t'en avises,
-Traître, de t'approcher de nous !
-
--*who_sosie
 Mon Dieu, qu'as-tu ? toujours on te voit en courroux ;
 Et sur rien, tu te formalises.
 
--*who_cleanthis
-Qu'appelles-tu sur rien ? dis ?
-
--*who_sosie
       J'appelle sur rien,
 Ce qui sur rien s'appelle en Vers, ainsi qu'en Prose ;
 Et rien, comme tu le sais bien,
 Veut dire rien, ou peu de chose.
 
--*who_cleanthis
-Je ne sais qui me tient, Infâme,
-Que je ne t'arrache les yeux ;
-Et ne t'apprenne où va le courroux d'une Femme.
-
--*who_sosie
 Holà. D'où te vient donc ce transport furieux ?
 
--*who_cleanthis
-Tu n'appelles donc rien le procédé, peut-être,
-Qu'avec moi ton Cœur a tenu ?
-
--*who_sosie
 Et quel ?
 
--*who_cleanthis
-      Quoi ! tu fais l'ingénu !
-Est-ce qu'à l'exemple du Maître,
-Tu veux dire qu'ici tu n'es pas revenu ?
-
--*who_sosie
 Non, je sais fort bien le contraire.
 Mais je ne t'en fais pas le fin ;
 Nous avions bu de je ne sais quel Vin,
 Qui m'a fait oublier tout ce que j'ai pu faire.
 
--*who_cleanthis
-Tu crois, peut-être, excuser par ce trait…
-
--*who_sosie
 Non, tout de bon ; tu m'en peux croire.
 J'étais dans un état, où je puis avoir fait
 Des choses, dont j'aurais regret,
 Et dont je n'ai nulle mémoire.
 
--*who_cleanthis
-Tu ne te souviens point du tout de la manière,
-Dont tu m'as su traiter, étant venu du Port ?
-
--*who_sosie
 Non plus que rien. Tu peux m'en faire le rapport.
 Je suis équitable, et sincère ;
 Et me condamnerai moi-même, si j'ai tort.
 
--*who_cleanthis
-Comment ! Amphitryon m'ayant su disposer,
-Jusqu'à ce que tu vins, j'avais poussé ma veille :
-Mais je ne vis jamais une froideur pareille :
-De ta Femme, il fallut moi-même t'aviser ;
-Et lorsque je fus te baiser,
-Tu détournas le nez, et me donnas l'oreille !
-
--*who_sosie
 Bon !
 
--*who_cleanthis
-      Comment, bon ?
-
--*who_sosie
       Mon Dieu, tu ne sais pas pourquoi,
 Cléanthis, je tiens ce langage.
 J'avais mangé de l'Ail, et fis en Homme sage,
 De détourner un peu mon haleine de toi.
 
--*who_cleanthis
-Je te sus exprimer des tendresses de Cœur :
-Mais à tous mes discours tu fus comme une Souche.
-Et jamais un mot de douceur,
-Ne te put sortir de la bouche.
-
--*who_sosie
 Courage.
 
--*who_cleanthis
-      Enfin ma flamme eut beau s'émanciper,
-Sa chaste ardeur en toi ne trouva rien que glace ;
-Et dans un tel retour je te vis la tromper,
-Jusqu'à faire refus de prendre au Lit la place,
-Que les Lois de l'Hymen t'obligent d'occuper.
-
--*who_sosie
 Quoi ! je ne couchai point…
 
--*who_cleanthis
-      Non, lâche.
-
--*who_sosie
       Est-il possible !
 
--*who_cleanthis
-Traître, il n'est que trop assuré.
-C'est de tous les affronts, l'affront le plus sensible.
-Et loin que ce matin, ton Cœur l'ait réparé ;
-Tu t'es d'avec moi séparé,
-Par des discours chargés d'un mépris tout visible.
-
--*who_sosie
 Vivat, Sosie !
 
--*who_cleanthis
-      Hé quoi ? ma plainte a cet effet ?
-Tu ris après ce bel Ouvrage ?
-
--*who_sosie
 Que je suis de moi satisfait !
 
--*who_cleanthis
-Exprime-t-on ainsi le regret d'un outrage ?
-
--*who_sosie
 Je n'aurais jamais cru que j'eusse été si sage.
 
--*who_cleanthis
-Loin de te condamner d'un si perfide trait,
-Tu m'en fais éclater la joie en ton visage.
-
--*who_sosie
 Mon Dieu, tout doucement ! Si je parais joyeux,
 Crois que j'en ai dans l'Âme une raison très forte :
 Et que sans y penser, je ne fis jamais mieux,
 Que d'en user tantôt avec toi de la sorte.
 
--*who_cleanthis
-Traître, te moques-tu de moi ?
-
--*who_sosie
 Non, je te parle avec franchise.
 En l'état où j'étais, j'avais certain effroi,
 Dont, avec ton discours, mon Âme s'est remise.
 Je m'appréhendais fort, et craignais qu'avec toi
 Je n'eusse fait quelque sottise.
 
--*who_cleanthis
-Quelle est cette frayeur ? et sachons donc pourquoi ?
-
--*who_sosie
 Les Médecins disent, quand on est ivre,
 Que de sa Femme on se doit abstenir ;
 Et que dans cet état, il ne peut provenir,
@@ -1949,870 +2371,230 @@ Que des Enfants pesants, et qui ne sauraient vivre.
 Vois, si mon Cœur n'eût su de froideur se munir,
 Quels inconvénients auraient pu s'en ensuivre ?
 
--*who_cleanthis
-Je me moque des Médecins,
-Avec leurs raisonnements fades.
-Qu'ils règlent ceux qui sont malades,
-Sans vouloir gouverner les Gens qui sont bien sains.
-Ils se mêlent de trop d'Affaires,
-De prétendre tenir nos chastes feux gênés ;
-Et sur les Jours Caniculaires,
-Ils nous donnent encore, avec leurs Lois sévères,
-De cent sots contes par le nez.
-
--*who_sosie
 Tout doux.
 
--*who_cleanthis
-      Non : je soutiens que, cela conclut mal,
-Ces raisons sont raisons d'extravagantes Têtes.
-Il n'est ni Vin, ni temps, qui puisse être fatal,
-À remplir le devoir de l'Amour conjugal ;
-Et les Médecins sont des Bêtes.
-
--*who_sosie
 Contre eux, je t'en supplie, apaise ton courroux.
 Ce sont d'honnêtes Gens, quoi que le Monde en dise.
 
--*who_cleanthis
-Tu n'es pas où tu crois. En vain tu files doux.
-Ton excuse n'est point une excuse de mise :
-Et je me veux venger, tôt ou tard, entre nous,
-De l'air dont chaque jour je vois qu'on me méprise.
-Des discours de tantôt, je garde tous les coups,
-Et tâcherai d'user, lâche et perfide Époux,
-De cette liberté que ton Cœur m'a permise.
-
--*who_sosie
 Quoi ?
 
--*who_cleanthis
-      Tu m'as dit tantôt, que tu consentais fort,
-Lâche, que j'en aimasse un autre.
-
--*who_sosie
 Ah ! pour cet Article, j'ai tort.
 Je m'en dédis, il y va trop du nôtre.
 Garde-toi bien de suivre ce transport.
 
--*who_cleanthis
-Si je puis une fois pourtant,
-Sur mon Esprit gagner la chose…
-
--*who_sosie
 Fais à ce discours quelque pause :
 Amphitryon revient, qui me paraît content.
 
-**** *book_ *id_II04 *act_II *date_1668 *creator_moliere
-
--*who_jupiter
-Je viens prendre le temps de rapaiser Alcmène ;
-De bannir les chagrins, que son Cœur veut garder ;
-Et donner à mes feux, dans ce soin qui m'amène,
-Le doux plaisir de se raccommoder.
-Alcmène est là-haut, n'est-ce pas ?
-
--*who_cleanthis
-Oui, pleine d'une inquiétude,
-Qui cherche de la solitude ;
-Et qui m'a défendu d'accompagner ses pas.
-
--*who_jupiter
-Quelque défense qu'elle ait faite,
-Elle ne sera pas pour moi.
-
--*who_cleanthis
-Son chagrin, à ce que je vois,
-A fait une prompte retraite.
-
-**** *book_ *id_II05 *act_II *date_1668 *creator_moliere
-
--*who_sosie
 Que dis-tu, Cléanthis, de ce joyeux maintien,
 Après son fracas effroyable ?
 
--*who_cleanthis
-Que si toutes nous faisions bien,
-Nous donnerions tous les Hommes au Diable ;
-Et que le meilleur n'en vaut rien.
-
--*who_sosie
 Cela se dit dans le courroux :
 Mais aux Hommes, par trop, vous êtes accrochées ;
 Et vous seriez, ma foi, toutes bien empêchées,
 Si le Diable les prenait tous.
 
--*who_cleanthis
-Vraiment…
-
--*who_sosie
       Les voici. Taisons-nous.
 
-**** *book_ *id_II06 *act_II *date_1668 *creator_moliere
-
--*who_jupiter
-Voulez-vous me désespérer ?
-Hélas ! arrêtez, belle Alcmène.
-
--*who_alcmene
-Non, avec l'Auteur de ma peine,
-Je ne puis du tout demeurer.
-
--*who_jupiter
-De grâce…
-
--*who_alcmene
-      Laissez-moi.
-
--*who_jupiter
-      Quoi…
-
--*who_alcmene
-      Laissez-moi, vous dis-je.
-
--*who_jupiter
-Ses pleurs touchent mon Âme, et sa douleur m'afflige.
-Souffrez que mon Cœur…
-
--*who_alcmene
-      Non, ne suivez point mes pas.
-
--*who_jupiter
-Où voulez-vous aller ?
-
--*who_alcmene
-      Où vous ne serez pas.
-
--*who_jupiter
-Ce vous est une attente vaine.
-Je tiens à vos Beautés, par un nœud trop serré,
-Pour pouvoir un moment en être séparé ;
-Je vous suivrai partout, Alcmène.
-
--*who_alcmene
-Et moi, partout je vous fuirai.
-
--*who_jupiter
-Je suis donc bien épouvantable ?
-
--*who_alcmene
-Plus qu'on ne peut dire, à mes yeux.
-Oui, je vous vois, comme un Monstre effroyable ;
-Un Monstre cruel, furieux,
-Et dont l'approche est redoutable ;
-Comme un Monstre à fuir en tous Lieux.
-Mon Cœur souffre, à vous voir, une peine incroyable.
-C'est un supplice, qui m'accable ;
-Et je ne vois rien, sous les Cieux,
-D'affreux, d'horrible, d'odieux,
-Qui ne me fût, plus que vous, supportable.
-
--*who_jupiter
-En voilà bien, hélas ! que votre bouche dit !
-
--*who_alcmene
-J'en ai dans le Cœur davantage.
-Et pour s'exprimer tout, ce Cœur a du dépit,
-De ne point trouver de langage.
-
--*who_jupiter
-Hé ! que vous a donc fait ma flamme,
-Pour me pouvoir, Alcmène, en Monstre regarder ?
-
--*who_alcmene
-Ah ! juste Ciel ! cela peut-il se demander ?
-Et n'est-ce pas pour mettre à bout une Âme ?
-
--*who_jupiter
-Ah ! d'un Esprit plus adouci…
-
--*who_alcmene
-Non, je ne veux, du tout, vous voir, ni vous entendre.
-
--*who_jupiter
-Avez-vous bien le cœur de me traiter ainsi ?
-Est-ce là cet amour si tendre,
-Qui devait tant durer, quand je vins hier ici ?
-
--*who_alcmene
-Non, non, ce ne l'est pas ; et vos lâches injures
-En ont autrement ordonné.
-Il n'est plus, cet amour tendre, et passionné ;
-Vous l'avez dans mon Cœur, par cent vives blessures,
-Cruellement assassiné.
-C'est en sa place un courroux inflexible ;
-Un vif ressentiment ; un dépit invincible ;
-Un désespoir d'un Cœur justement animé ;
-Qui prétend vous haïr, pour cet affront sensible,
-Autant qu'il est d'accord de vous avoir aimé :
-Et c'est haïr, autant qu'il est possible.
-
--*who_jupiter
-Hélas ! que votre amour n'avait guère de force,
-Si de si peu de chose on le peut voir mourir !
-Ce qui n'était que jeu, doit-il faire un divorce,
-Et d'une raillerie, a-t-on lieu de s'aigrir ?
-
--*who_alcmene
-Ah ! c'est cela dont je suis offensée ;
-Et que ne peut pardonner mon courroux.
-Des véritables traits d'un mouvement jaloux,
-Je me trouverais moins blessée.
-La Jalousie a des impressions,
-Dont bien souvent la force nous entraîne ;
-Et l'Âme la plus sage en ces occasions,
-Sans doute, avec assez de peine,
-Répond de ses émotions ;
-L'emportement d'un Cœur, qui peut s'être abusé,
-A de quoi ramener une Âme, qu'il offense ;
-Et dans l'amour qui lui donne naissance,
-Il trouve au moins, malgré toute sa violence,
-Des raisons pour être excusé.
-De semblables transports, contre un ressentiment,
-Pour défense toujours, ont ce qui les fait naître ;
-Et l'on donne grâce, aisément,
-À ce dont on n'est pas le Maître.
-Mais que de Gaieté de cœur,
-On passe aux mouvements d'une fureur extrême ;
-Que sans cause l'on vienne, avec tant de rigueur,
-Blesser la tendresse, et l'honneur
-D'un Cœur, qui chèrement nous aime ?
-Ah ! c'est un coup trop cruel en lui-même ;
-Et que jamais n'oubliera ma douleur.
-
--*who_jupiter
-Oui, vous avez raison, Alcmène, il se faut rendre.
-Cette action, sans doute, est un crime odieux.
-Je ne prétends plus le défendre :
-Mais souffrez que mon Cœur s'en défende à vos yeux ;
-Et donne au vôtre à qui se prendre,
-De ce transport injurieux.
-À vous en faire un aveu véritable,
-L'Époux, Alcmène, a commis tout le mal.
-C'est l'Époux, qu'il vous faut regarder en coupable.
-L'Amant n'a point de part à ce transport brutal ;
-Et de vous offenser, son Cœur n'est point capable.
-Il a pour vous, ce Cœur, pour jamais y penser,
-Trop de respect, et de tendresse :
-Et si de faire rien à vous pouvoir blesser,
-Il avait eu la coupable faiblesse,
-De cent coups à vos yeux il voudrait le percer.
-Mais l'Époux est sorti de ce respect soumis,
-Où pour vous on doit toujours être.
-À son dur procédé, l'Époux s'est fait connaître,
-Et par le droit d'Hymen, il s'est cru tout permis.
-Oui, c'est lui qui, sans doute, est criminel vers vous.
-Lui seul a maltraité votre aimable Personne.
-Haïssez, détestez l'Époux ;
-J'y consens, et vous l'abandonne :
-Mais, Alcmène, sauvez l'Amant de ce courroux,
-Qu'une telle offense vous donne.
-N'en jetez pas sur lui l'effet.
-Démêlez-le un peu du coupable ;
-Et pour être enfin équitable,
-Ne le punissez point, de ce qu'il n'a pas fait.
-
--*who_alcmene
-Ah ! toutes ces subtilités
-N'ont que des excuses frivoles ;
-Et pour les Esprits irrités,
-Ce sont des contretemps, que de telles paroles.
-Ce détour ridicule est en vain pris par vous.
-Je ne distingue rien en celui qui m'offense.
-Tout y devient l'objet de mon courroux ;
-Et dans sa juste violence,
-Sont confondus, et l'Amant, et l'Époux.
-Tous deux de même sorte occupent ma pensée ;
-Et des mêmes couleurs, par mon Âme blessée,
-Tous deux ils sont peints à mes yeux.
-Tous deux sont criminels ; tous deux m'ont offensée ;
-Et tous deux me sont odieux.
-
--*who_jupiter
-Hé bien, puisque vous le voulez,
-Il faut donc me charger du crime.
-Oui, vous avez raison, lorsque vous m'immolez
-À vos ressentiments, en coupable Victime.
-Un trop juste dépit contre moi vous anime ;
-Et tout ce grand courroux, qu'ici vous étalez,
-Ne me fait endurer qu'un tourment légitime.
-C'est avec droit que mon abord vous chasse ;
-Et que de me fuir en tous Lieux,
-Votre colère me menace.
-Je dois vous être un Objet odieux.
-Vous devez me vouloir un mal prodigieux.
-Il n'est aucune horreur, que mon forfait ne passe,
-D'avoir offensé vos beaux yeux.
-C'est un crime à blesser les Hommes, et les Dieux ;
-Et je mérite enfin, pour punir cette audace,
-Que contre moi votre haine ramasse
-Tous ses traits les plus furieux :
-Mais mon Cœur vous demande grâce.
-Pour vous la demander, je me jette à genoux ;
-Et la demande au nom de la plus vive flamme ;
-Du plus tendre Amour, dont une Âme
-Puisse jamais brûler pour vous.
-Si votre Cœur, charmante Alcmène,
-Me refuse la grâce, où j'ose recourir ;
-Il faut qu'une atteinte soudaine,
-M'arrache, en me faisant mourir,
-Aux dures rigueurs d'une peine,
-Que je ne saurais plus souffrir.
-Oui, cet état me désespère ;
-Alcmène, ne présumez pas,
-Qu'aimant, comme je fais, vos célestes appas,
-Je puisse vivre un jour avec votre colère.
-Déjà, de ces moments, la barbare longueur,
-Fait, sous des atteintes mortelles,
-Succomber tout mon triste Cœur ;
-Et de mille Vautours, les blessures cruelles,
-N'ont rien de comparable à ma vive douleur.
-Alcmène, vous n'avez qu'à me le déclarer,
-S'il n'est point de pardon que je doive espérer ;
-Cette Épée aussitôt, par un coup favorable,
-Va percer à vos yeux, le Cœur d'un Misérable ;
-Ce Cœur, ce traître Cœur, trop digne d'expirer,
-Puisqu'il a pu fâcher un Objet adorable.
-Heureux, en descendant au ténébreux séjour,
-Si de votre courroux mon trépas vous ramène ;
-Et ne laisse en votre Âme, après ce triste jour,
-Aucune impression de haine,
-Au souvenir de mon amour.
-C'est tout ce que j'attends, pour faveur souveraine.
-
--*who_alcmene
-Ah ! trop cruel Époux !
-
--*who_jupiter
-      Dites, parlez, Alcmène.
-
--*who_alcmene
-Faut-il encor pour vous, conserver des bontés ;
-Et vous voir m'outrager, par tant d'indignités ?
-
--*who_jupiter
-Quelque ressentiment, qu'un outrage nous cause,
-Tient-il contre un remords d'un Cœur bien enflammé ?
-
--*who_alcmene
-Un Cœur bien plein de flamme, à mille morts s'expose,
-Plutôt que de vouloir fâcher l'Objet aimé.
-
--*who_jupiter
-Plus on aime quelqu'un, moins on trouve de peine…
-
--*who_alcmene
-Non, ne m'en parlez point, vous méritez ma haine.
-
--*who_jupiter
-Vous me haïssez donc ?
-
--*who_alcmene
-      J'y fais tout mon effort ;
-Et j'ai dépit de voir, que toute votre offense
-Ne puisse de mon Cœur, jusqu'à cette vengeance,
-Faire encore aller le transport.
-
--*who_jupiter
-Mais pourquoi cette violence,
-Puisque pour vous venger, je vous offre ma mort ?
-Prononcez-en l'Arrêt, et j'obéis sur l'heure.
-
--*who_alcmene
-Qui ne saurait haïr, peut-il vouloir qu'on meure ?
-
--*who_jupiter
-Et moi, je ne puis vivre, à moins que vous quittiez
-Cette colère qui m'accable ;
-Et que vous m'accordiez le pardon favorable,
-Que je vous demande à vos pieds.
-Résolvez ici l'un des deux,
-Ou de punir, ou bien d'absoudre.
-
--*who_alcmene
-Hélas ! ce que je puis résoudre,
-Paraît bien plus, que je ne veux !
-Pour vouloir soutenir le courroux qu'on me donne,
-Mon Cœur a trop su me trahir.
-Dire qu'on ne saurait haïr,
-N'est-ce pas dire qu'on pardonne ?
-
--*who_jupiter
-Ah ! belle Alcmène, il faut que comblé d'allégresse…
-
--*who_alcmene
-Laissez. Je me veux mal de mon trop de faiblesse.
-
--*who_jupiter
-Va, Sosie, et dépêche-toi,
-Voir, dans les doux transports dont mon Âme est charmée,
-Ce que tu trouveras d'Officiers de l'Armée,
-Et les invite à dîner avec moi.
-Tandis que d'ici je le chasse,
-Mercure y remplira sa place.
-
-**** *book_ *id_II07 *act_II *date_1668 *creator_moliere
-
--*who_sosie
 Hé bien ! tu vois, Cléanthis, ce ménage.
 Veux-tu, qu'à leur exemple ici,
 Nous fassions entre nous un peu de paix aussi ?
 Quelque petit rapatriage ?
 
--*who_cleanthis
-C'est pour ton nez, vraiment. Cela se fait ainsi.
-
--*who_sosie
 Quoi ! tu ne veux pas ?
 
--*who_cleanthis
-      Non.
-
--*who_sosie
       Il ne m'importe guère,
 Tant pis pour toi.
 
--*who_cleanthis
-      Là, là, reviens.
-
--*who_sosie
 Non, morbleu, je n'en ferai rien ;
 Et je veux être, à mon tour, en colère.
 
--*who_cleanthis
-Va, va, Traître, laisse-moi faire ;
-On se lasse, parfois, d'être Femme de bien.
-
-**** *book_ *id_III01 *act_III *date_1668 *creator_moliere
-
--*who_amphitryon
-Oui, sans doute, le Sort tout exprès me le cache ;
-Et des tours que je fais, à la fin, je suis las.
-Il n'est point de Destin plus cruel, que je sache.
-Je ne saurais trouver, portant partout mes pas,
-Celui qu'à chercher je m'attache ;
-Et je trouve tous ceux que je ne cherche pas.
-Mille Fâcheux cruels, qui ne pensent pas l'être,
-De nos faits, avec moi, sans beaucoup me connaître,
-Viennent se réjouir, pour me faire enrager.
-Dans l'embarras cruel du souci qui me blesse,
-De leurs embrassements, et de leur allégresse,
-Sur mon inquiétude, ils viennent tous charger.
-En vain à passer je m'apprête,
-Pour fuir leurs persécutions.
-Leur tuante amitié, de tous côtés m'arrête ;
-Et tandis qu'à l'ardeur de leurs expressions,
-Je réponds d'un geste de tête ;
-Je leur donne, tout bas, cent malédictions.
-Ah ! qu'on est peu flatté de louange, d'honneur,
-Et de tout ce que donne une grande Victoire,
-Lorsque dans l'Âme on souffre une vive douleur !
-Et que l'on donnerait volontiers cette gloire,
-Pour avoir le repos du Cœur !
-Ma jalousie, à tout propos,
-Me promène sur ma disgrâce ;
-Et plus mon Esprit y repasse,
-Moins j'en puis débrouiller le funeste chaos.
-Le vol des Diamants n'est pas ce qui m'étonne :
-On lève les Cachets, qu'on ne l'aperçoit pas.
-Mais le don, qu'on veut qu'hier j'en vins faire en personne,
-Est ce qui fait ici mon cruel embarras.
-La Nature parfois produit des Ressemblances,
-Dont quelques Imposteurs ont pris droit d'abuser :
-Mais il est hors de sens, que sous ces apparences
-Un Homme, pour Époux, se puisse supposer ;
-Et dans tous ces rapports, sont mille différences,
-Dont se peut une Femme aisément aviser.
-Des charmes de la Thessalie,
-On vante de tout temps les merveilleux effets :
-Mais les contes fameux, qui partout en sont faits,
-Dans mon Esprit toujours ont passé pour folie ;
-Et ce serait du Sort une étrange rigueur,
-Qu'au sortir d'une ample Victoire,
-Je fusse contraint de les croire,
-Aux dépens de mon propre honneur.
-Je veux la retâter sur ce fâcheux mystère ;
-Et voir si ce n'est point une vaine chimère,
-Qui sur ses sens troublés ait su prendre crédit.
-Ah ! fasse le Ciel équitable,
-Que ce penser soit véritable ;
-Et que, pour mon bonheur, elle ait perdu l'Esprit !
-
-**** *book_ *id_III02 *act_III *date_1668 *creator_moliere
-
--*who_mercure
-Comme l'Amour ici ne m'offre aucun plaisir,
-Je m'en veux faire, au moins, qui soient d'autre nature :
-Et je vais égayer mon sérieux loisir,
-À mettre Amphitryon hors de toute mesure.
-Cela n'est pas d'un Dieu bien plein de charité :
-Mais aussi n'est-ce pas ce dont je m'inquiète ;
-Et je me sens, par ma Planète,
-À la malice un peu porté.
-
--*who_amphitryon
-D'où vient donc qu'à cette heure on ferme cette Porte ?
-
--*who_mercure
-Holà, tout doucement. Qui frappe ?
-
--*who_amphitryon
-      Moi.
-
--*who_mercure
-      Qui, moi ?
-
--*who_amphitryon
-Ah ! ouvre.
-
--*who_mercure
-      Comment, ouvre ? Et qui donc es-tu, toi ;
-Qui fais tant de vacarme, et parles de la sorte ?
-
--*who_amphitryon
-Quoi ! tu ne me connais pas ?
-
--*who_mercure
-      Non :
-Et n'en ai pas la moindre envie.
-
--*who_amphitryon
-Tout le Monde perd-il aujourd'hui la raison ?
-Est-ce un mal répandu ? Sosie, holà, Sosie.
-
--*who_mercure
-Hé bien, Sosie : oui, c'est mon nom.
-As-tu peur que je ne l'oublie ?
-
--*who_amphitryon
-Me vois-tu bien ?
-
--*who_mercure
-      Fort bien. Qui peut pousser ton Bras,
-À faire une rumeur si grande ?
-Et que demandes-tu là-bas ?
-
--*who_amphitryon
-Moi, Pendard, ce que je demande ?
-
--*who_mercure
-Que ne demandes-tu donc pas ?
-Parle, si tu veux qu'on t'entende.
-
--*who_amphitryon
-Attends, Traître, avec un Bâton
-Je vais là-haut me faire entendre ;
-Et de bonne façon t'apprendre
-À m'oser parler sur ce ton.
-
--*who_mercure
-Tout beau. Si pour heurter, tu fais la moindre instance,
-Je t'enverrai d'ici des Messagers fâcheux.
-
--*who_amphitryon
-Ô Ciel ! vit-on jamais une telle insolence !
-La peut-on concevoir d'un Serviteur ; d'un Gueux ?
-
--*who_mercure
-Hé bien ! qu'est-ce ? m'as-tu tout parcouru par ordre ?
-M'as-tu de tes gros yeux assez considéré ?
-Comme il les écarquille, et paraît effaré !
-Si des regards on pouvait mordre,
-Il m'aurait déjà déchiré.
-
--*who_amphitryon
-Moi-même je frémis de ce que tu t'apprêtes,
-Avec ces impudents propos.
-Que tu grossis pour toi d'effroyables tempêtes !
-Quels orages de coups vont fondre sur ton Dos !
-
--*who_mercure
-L'Ami, si de ces Lieux tu ne veux disparaître,
-Tu pourras y gagner quelque contusion.
-
--*who_amphitryon
-Ah ! tu sauras Maraud, à ta confusion,
-Ce que c'est qu'un Valet, qui s'attaque à son Maître.
-
--*who_mercure
-Toi, mon Maître ?
-
--*who_amphitryon
-      Oui, Coquin. M'oses-tu méconnaître ?
-
--*who_mercure
-Je n'en reconnais point d'autre, qu'Amphitryon.
-
--*who_amphitryon
-Et cet Amphitryon, qui, hors moi, le peut être ?
-
--*who_mercure
-Amphitryon ?
-
--*who_amphitryon
-      Sans doute.
-
--*who_mercure
-      Ah ! quelle vision !
-Dis-nous un peu. Quel est le Cabaret honnête,
-Où tu t'es coiffé le cerveau ?
-
--*who_amphitryon
-Comment ! encor !
-
--*who_mercure
-      Était-ce un Vin à faire fête ?
-
--*who_amphitryon
-Ciel !
-
--*who_mercure
-      Était-il vieux, ou nouveau ?
-
--*who_amphitryon
-Que de coups !
-
--*who_mercure
-      Le nouveau donne fort dans la tête,
-Quand on le veut boire sans eau.
-
--*who_amphitryon
-Ah ! je t'arracherai cette Langue, sans doute.
-
--*who_mercure
-Passe, mon cher Ami, crois-moi ;
-Que quelqu'un ici ne t'écoute.
-Je respecte le Vin : va-t'en, retire-toi ;
-Et laisse Amphitryon dans les plaisirs qu'il goûte.
-
--*who_amphitryon
-Comment ! Amphitryon est là-dedans ?
-
--*who_mercure
-      Fort bien :
-Qui couvert des Lauriers d'une Victoire pleine,
-Est auprès de la belle Alcmène,
-À jouir des douceurs d'un aimable entretien.
-Après le démêlé d'un amoureux caprice,
-Ils goûtent le plaisir de s'être rajustés.
-Garde-toi de troubler leurs douces privautés,
-Si tu ne veux qu'il ne punisse
-L'excès de tes témérités.
-
-**** *book_ *id_III03 *act_III *date_1668 *creator_moliere
-
--*who_amphitryon
-Ah ! quel étrange coup m'a-t-il porté dans l'Âme ?
-En quel trouble cruel jette-t-il mon Esprit ?
-Et si les choses sont, comme le Traître dit,
-Où vois-je ici réduits mon honneur, et ma flamme ?
-À quel Parti me doit résoudre ma raison ?
-Ai-je l'éclat, ou le secret, à prendre ?
-Et dois-je en mon courroux renfermer, ou répandre
-Le déshonneur de ma Maison ?
-Ah ! faut-il consulter dans un affront si rude ?
-Je n'ai rien à prétendre, et rien à ménager ;
-Et toute mon inquiétude
-Ne doit aller qu'à me venger.
-
-**** *book_ *id_III04 *act_III *date_1668 *creator_moliere
-
--*who_sosie
 Monsieur, avec mes soins, tout ce que j'ai pu faire,
 C'est de vous amener ces Messieurs que voici.
 
--*who_amphitryon
-Ah ! vous voilà ?
-
--*who_sosie
       Monsieur.
 
--*who_amphitryon
-      Insolent, téméraire.
-
--*who_sosie
 Quoi ?
 
--*who_amphitryon
-      Je vous apprendrai de me traiter ainsi.
-
--*who_sosie
 Qu'est-ce donc ? qu'avez-vous ?
 
--*who_amphitryon
-      Ce que j'ai, Misérable ?
-
--*who_sosie
 Holà, Messieurs, venez donc tôt.
 
--*who_naucrates
-Ah ! de grâce, arrêtez.
-
--*who_sosie
       De quoi suis-je coupable ?
 
--*who_amphitryon
-Tu me le demandes, Maraud ?
-Laissez-moi satisfaire un courroux légitime.
-
--*who_sosie
 Lorsque l'on pend quelqu'un, on lui dit pourquoi c'est.
 
--*who_naucrates
-Daignez nous dire, au moins, quel peut être son crime.
-
--*who_sosie
 Messieurs, tenez bon, s'il vous plaît ?
 
--*who_amphitryon
-Comment ! il vient d'avoir l'audace,
-De me fermer ma Porte au nez !
-Et de joindre encor la menace,
-À mille propos effrénés !
-Ah ! Coquin.
-
--*who_sosie
       Je suis mort.
 
--*who_naucrates
-      Calmez cette colère.
-
--*who_sosie
 Messieurs.
 
--*who_polidas
-      Qu'est-ce ?
-
--*who_sosie
       M'a-t-il frappé ?
 
--*who_amphitryon
-Non, il faut qu'il ait le salaire
-Des mots, où tout à l'heure, il s'est émancipé.
-
--*who_sosie
 Comment cela se peut-il faire,
 Si j'étais par votre ordre autre part occupé ?
 Ces messieurs sont ici, pour rendre témoignage,
 Qu'à dîner avec vous, je les viens d'inviter.
 
--*who_naucrates
-Il est vrai qu'il nous vient de faire ce message ;
-Et n'a point voulu nous quitter.
-
--*who_amphitryon
-Qui t'a donné cet Ordre ?
-
--*who_sosie
       Vous.
 
--*who_amphitryon
-Et quand ?
-
--*who_sosie
       Après votre paix faite,
 Au milieu des transports d'une Âme satisfaite,
 D'avoir d'Alcmène apaisé le courroux.
 
--*who_amphitryon
-Ô Ciel ! chaque instant, chaque pas,
-Ajoute quelque chose à mon cruel martyre !
-Et dans ce fatal embarras,
-Je ne sais plus que croire, ni que dire.
+Messieurs, voici le véritable ;
+L'autre est un Imposteur, digne de châtiment.
 
--*who_naucrates
+Oui, c'est un Enchanteur, qui porte un Caractère,
+Pour ressembler aux Maîtres des Maisons.
+
+Mon Maître est Homme de courage ;
+Et ne souffrira point, que l'on batte ses Gens.
+
+Je ne me trompais pas. Messieurs, ce mot termine
+Toute l'irrésolution :
+Le véritable Amphitryon,
+Est l'Amphitryon, où l'on dîne.
+
+Faites trêve, Messieurs, à toutes vos surprises ;
+Et pleins de joie, allez tabler jusqu'à demain.
+Que je vais m'en donner ! et me mettre en beau train,
+De raconter nos vaillantises !
+Je brûle d'en venir aux prises ;
+Et jamais je n'eus tant de faim.
+
+Ah ! de grâce, tout doux !
+
+Hélas ! brave, et généreux Moi,
+Modère-toi, je t'en supplie.
+Sosie, épargne un peu Sosie ;
+Et ne te plais point tant à frapper dessus toi.
+
+C'est un Nom, que tous deux nous pouvons à la fois
+Posséder sous un même Maître.
+Pour Sosie, en tous Lieux, on sait me reconnaître :
+Je souffre bien que tu le sois ;
+Souffre aussi, que je le puisse être.
+Laissons aux deux Amphitryons,
+Faire éclater des jalousies ;
+Et parmi leurs contentions,
+Faisons en bonne paix, vivre les deux Sosies.
+
+Du pas devant, sur moi, tu prendras l'avantage.
+Je serai le Cadet, et tu seras l'Aîné.
+
+Ô Cœur barbare et tyrannique !
+Souffre qu'au moins je sois ton Ombre.
+
+Que d'un peu de pitié ton âme s'humanise.
+En cette qualité souffre-moi près de toi.
+Je te serai partout une Ombre si soumise,
+Que tu seras content de moi.
+
+Las ! à quelle étrange disgrâce,
+Pauvre Sosie, es-tu réduit ?
+
+Non, ce n'est pas moi que j'entends ;
+Et je parle d'un vieux Sosie,
+Qui fut jadis de mes Parents ;
+Qu'avec très grande barbarie,
+À l'heure du Dîner, l'on chassa de céans.
+
+Que je te rosserais, si j'avais du courage,
+Double Fils-de-Putain, de trop d'orgueil enflé !
+
+      Rien.
+
+Demandez, je n'ai pas soufflé.
+
+C'est donc un Perroquet, que le beau temps réveille.
+
+Ô Ciel ! que l'heure de manger,
+Pour être mis dehors, est une maudite heure !
+Allons, cédons au Sort dans notre affliction.
+Suivons-en aujourd'hui l'aveugle fantaisie ;
+Et par une juste union,
+Joignons le malheureux Sosie,
+Au malheureux Amphitryon.
+Je l'aperçois venir en bonne compagnie.
+
+      Je viens, Monsieur, subir à vos genoux,
+Le juste châtiment d'une audace maudite.
+Frappez, battez, chargez, accablez-moi de coups ;
+Tuez-moi dans votre courroux :
+Vous ferez bien, je le mérite ;
+Et je n'en dirai pas un seul mot contre vous.
+
+      L'on m'a chassé tout net :
+Et croyant, à manger, m'aller comme eux, ébattre ;
+Je ne songeais pas qu'en effet,
+Je m'attendais là, pour me battre.
+Oui, l'autre Moi, Valet de l'autre Vous, a fait,
+Tout de nouveau, le Diable à quatre.
+La rigueur d'un pareil Destin,
+Monsieur, aujourd'hui, nous talonne ;
+Et l'on me Dés-Sosie enfin,
+Comme on vous Dés-Amphitryonne.
+
+      N'est-il pas mieux, de voir s'il vient Personne.
+
+Ma foi ! Monsieur le Dieu, je suis votre Valet.
+Je me serais passé de votre courtoisie.
+
+Le Ciel, de m'approcher, t'ôte à jamais l'envie.
+Ta fureur s'est par trop acharnée après moi :
+Et je ne vis de ma vie,
+Un Dieu plus Diable, que toi.
+
+Le Seigneur Jupiter sait dorer la Pilule.
+
+Messieurs, voulez-vous bien suivre mon sentiment ?
+Ne vous embarquez nullement,
+Dans ces douceurs congratulantes.
+C'est un mauvais embarquement :
+Et d'une, et d'autre part, pour un tel Compliment,
+Les Phrases sont embarrassantes.
+Le grand Dieu Jupiter nous fait beaucoup d'honneur ;
+Et sa bonté, sans doute, est pour nous sans seconde :
+Il nous promet l'infaillible bonheur,
+D'une Fortune, en mille biens féconde ;
+Et chez nous il doit naître un Fils d'un très grand cœur,
+Tout cela va le mieux du Monde.
+Mais enfin coupons aux discours ;
+Et que chacun chez soi, doucement se retire.
+Sur telles Affaires, toujours,
+Le meilleur est de ne rien dire.
+
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_naucrates
+
+Ah ! de grâce, arrêtez.
+
+Daignez nous dire, au moins, quel peut être son crime.
+
+      Calmez cette colère.
+
+Il est vrai qu'il nous vient de faire ce message ;
+Et n'a point voulu nous quitter.
+
 Tout ce que de chez vous, il vient de nous conter,
 Surpasse si fort la Nature,
 Qu'avant que de rien faire, et de vous emporter,
 Vous devez éclaircir toute cette aventure.
 
--*who_amphitryon
-Allons, vous y pourrez seconder mon effort ;
-Et le Ciel à propos, ici vous a fait rendre.
-Voyons quelle fortune en ce jour peut m'attendre.
-Débrouillons ce mystère, et sachons notre Sort.
-Hélas ! je brûle de l'apprendre ;
-Et je le crains plus que la Mort !
-
-**** *book_ *id_III05 *act_III *date_1668 *creator_moliere
-
--*who_jupiter
-Quel bruit à descendre m'oblige ?
-Et qui frappe en Maître où je suis ?
-
--*who_amphitryon
-Que vois-je, justes Dieux !
-
--*who_naucrates
       Ciel ! quel est ce prodige !
 Quoi ! deux Amphitryons ici nous sont produits !
 
--*who_amphitryon
-Mon Âme demeure transie.
-Hélas ! Je n'en puis plus ; l'aventure est à bout :
-Ma destinée est éclaircie ;
-Et ce que je vois, me dit tout.
-
--*who_naucrates
 Plus mes regards sur eux s'attachent fortement,
 Plus je trouve qu'en tout, l'un à l'autre est semblable.
 
--*who_sosie
-Messieurs, voici le véritable ;
-L'autre est un Imposteur, digne de châtiment.
-
--*who_polidas
-Certes, ce rapport admirable
-Suspend ici mon jugement.
-
--*who_amphitryon
-C'est trop être éludés par un Fourbe exécrable,
-Il faut, avec ce Fer, rompre l'enchantement.
-
--*who_naucrates
 Arrêtez.
 
--*who_amphitryon
-      Laissez-moi.
-
--*who_naucrates
       Dieux ! que voulez-vous faire ?
 
--*who_amphitryon
-Punir, d'un Imposteur, les lâches trahisons.
-
--*who_jupiter
-Tout beau, l'emportement est fort peu nécessaire ;
-Et lorsque de la sorte on se met en colère,
-On fait croire qu'on a de mauvaises raisons.
-
--*who_sosie
-Oui, c'est un Enchanteur, qui porte un Caractère,
-Pour ressembler aux Maîtres des Maisons.
-
--*who_amphitryon
-Je te ferai, pour ton partage,
-Sentir, par mille coups, ces propos outrageants.
-
--*who_sosie
-Mon Maître est Homme de courage ;
-Et ne souffrira point, que l'on batte ses Gens.
-
--*who_amphitryon
-Laissez-moi m'assouvir dans mon courroux extrême,
-Et laver mon affront au sang d'un Scélérat.
-
--*who_naucrates
 Nous ne souffrirons point cet étrange combat,
 D'Amphitryon, contre lui-même.
 
--*who_amphitryon
-Quoi ! mon honneur, de vous, reçoit ce traitement ?
-Et mes Amis, d'un Fourbe, embrassent la défense ?
-Loin d'être les premiers à prendre ma vengeance,
-Eux-mêmes font obstacle à mon ressentiment ?
-
--*who_naucrates
 Que voulez-vous qu'à cette vue
 Fassent nos résolutions ;
 Lorsque par deux Amphitryons,
@@ -2833,54 +2615,6 @@ De quel côté peut être l'imposture ;
 Et dès que nous aurons démêlé l'aventure,
 Il ne nous faudra point dire notre devoir.
 
--*who_jupiter
-Oui, vous avez raison : et cette ressemblance,
-À douter de tous deux, vous peut autoriser.
-Je ne m'offense point de vous voir en balance :
-Je suis plus raisonnable, et sais vous excuser.
-L'œil ne peut entre nous faire de différence ;
-Et je vois qu'aisément on s'y peut abuser.
-Vous ne me voyez point témoigner de colère ;
-Point mettre l'Épée à la main.
-C'est un mauvais moyen d'éclaircir ce mystère ;
-Et j'en puis trouver un plus doux, et plus certain.
-L'un de nous est Amphitryon ;
-Et tous deux, à vos yeux, nous le pouvons paraître.
-C'est à moi de finir cette confusion ;
-Et je prétends me faire à tous si bien connaître,
-Qu'aux pressantes clartés de ce que je puis être,
-Lui-même soit d'accord du sang qui m'a fait naître,
-Il n'ait plus de rien dire aucune occasion.
-C'est aux yeux des Thébains, que je veux avec vous,
-De la vérité pure, ouvrir la connaissance ;
-Et la chose sans doute est assez d'importance,
-Pour affecter la circonstance,
-De l'éclaircir aux yeux de tous.
-Alcmène attend de moi ce public témoignage.
-Sa vertu, que l'éclat de ce désordre outrage,
-Veut qu'on la justifie, et j'en vais prendre soin.
-C'est à quoi mon amour envers elle m'engage ;
-Et des plus nobles Chefs, je fais un assemblage,
-Pour l'éclaircissement, dont sa gloire a besoin.
-Attendant avec vous ces Témoins souhaités,
-Ayez, je vous prie, agréable
-De venir honorer la Table,
-Où vous a Sosie invités.
-
--*who_sosie
-Je ne me trompais pas. Messieurs, ce mot termine
-Toute l'irrésolution :
-Le véritable Amphitryon,
-Est l'Amphitryon, où l'on dîne.
-
--*who_amphitryon
-Ô Ciel ! puis-je plus bas me voir humilié !
-Quoi ? faut-il que j'entende ici, pour mon martyre,
-Tout ce que l'Imposteur, à mes yeux, vient de dire ;
-Et que dans la fureur, que ce discours m'inspire,
-On me tienne le Bras lié !
-
--*who_naucrates
 Vous vous plaignez à tort. Permettez-nous d'attendre
 L'éclaircissement, qui doit rendre
 Les ressentiments de saison.
@@ -2888,370 +2622,13 @@ Je ne sais pas s'il impose :
 Mais il parle sur la chose
 Comme s'il avait raison.
 
--*who_amphitryon
-Allez, faibles Amis, et flattez l'imposture.
-Thèbes en a pour moi de tout autres que vous :
-Et je vais en trouver, qui partageant l'injure,
-Sauront prêter la main à mon juste courroux.
-
--*who_jupiter
-Hé bien, je les attends ; et saurai décider
-Le différend en leur présence.
-
--*who_amphitryon
-Fourbe, tu crois par là, peut-être, t'évader :
-Mais rien ne te saurait sauver de ma vengeance.
-
--*who_jupiter
-À ces injurieux propos
-Je ne daigne à présent répondre ;
-Et tantôt je saurai confondre
-Cette Fureur, avec deux mots.
-
--*who_amphitryon
-Le Ciel même, le Ciel, ne t'y saurait soustraire :
-Et jusques aux Enfers, j'irai suivre tes pas.
-
--*who_jupiter
-Il ne sera pas nécessaire ;
-Et l'on verra tantôt, que je ne fuirai pas.
-
--*who_amphitryon
-Allons, courons, avant que d'avec eux il sorte,
-Assembler des Amis, qui suivent mon courroux ;
-Et chez moi venons à main forte,
-Pour le percer de mille coups.
-
--*who_jupiter
-Point de façons, je vous conjure :
-Entrons vite dans la Maison.
-
--*who_naucrates
 Certes, toute cette aventure
 Confond le sens, et la raison.
 
--*who_sosie
-Faites trêve, Messieurs, à toutes vos surprises ;
-Et pleins de joie, allez tabler jusqu'à demain.
-Que je vais m'en donner ! et me mettre en beau train,
-De raconter nos vaillantises !
-Je brûle d'en venir aux prises ;
-Et jamais je n'eus tant de faim.
-
-**** *book_ *id_III06 *act_III *date_1668 *creator_moliere
-
--*who_mercure
-Arrête. Quoi ! tu viens ici mettre ton nez,
-Impudent Fleureur de Cuisine ?
-
--*who_sosie
-Ah ! de grâce, tout doux !
-
--*who_mercure
-      Ah ! vous y retournez !
-Je vous ajusterai l'échine.
-
--*who_sosie
-Hélas ! brave, et généreux Moi,
-Modère-toi, je t'en supplie.
-Sosie, épargne un peu Sosie ;
-Et ne te plais point tant à frapper dessus toi.
-
--*who_mercure
-Qui de t'appeler de ce nom,
-A pu te donner la licence ?
-Ne t'en ai-je pas fait une expresse défense,
-Sous peine d'essuyer mille coups de Bâton ?
-
--*who_sosie
-C'est un Nom, que tous deux nous pouvons à la fois
-Posséder sous un même Maître.
-Pour Sosie, en tous Lieux, on sait me reconnaître :
-Je souffre bien que tu le sois ;
-Souffre aussi, que je le puisse être.
-Laissons aux deux Amphitryons,
-Faire éclater des jalousies ;
-Et parmi leurs contentions,
-Faisons en bonne paix, vivre les deux Sosies.
-
--*who_mercure
-Non, c'est assez d'un seul ; et je suis obstiné,
-À ne point souffrir de partage.
-
--*who_sosie
-Du pas devant, sur moi, tu prendras l'avantage.
-Je serai le Cadet, et tu seras l'Aîné.
-
--*who_mercure
-Non, un Frère incommode, et n'est pas de mon goût ;
-Et je veux être Fils unique.
-
--*who_sosie
-Ô Cœur barbare et tyrannique !
-Souffre qu'au moins je sois ton Ombre.
-
--*who_mercure
-      Point du tout.
-
--*who_sosie
-Que d'un peu de pitié ton âme s'humanise.
-En cette qualité souffre-moi près de toi.
-Je te serai partout une Ombre si soumise,
-Que tu seras content de moi.
-
--*who_mercure
-Point de quartier : immuable est la Loi.
-Si d'entrer là-dedans, tu prends encor l'audace,
-Mille coups en seront le fruit.
-
--*who_sosie
-Las ! à quelle étrange disgrâce,
-Pauvre Sosie, es-tu réduit ?
-
--*who_mercure
-Quoi ! ta bouche se licencie,
-À te donner encore un Nom, que je défends ?
-
--*who_sosie
-Non, ce n'est pas moi que j'entends ;
-Et je parle d'un vieux Sosie,
-Qui fut jadis de mes Parents ;
-Qu'avec très grande barbarie,
-À l'heure du Dîner, l'on chassa de céans.
-
--*who_mercure
-Prends garde de tomber dans cette frénésie ;
-Si tu veux demeurer au nombre des vivants.
-
--*who_sosie
-Que je te rosserais, si j'avais du courage,
-Double Fils-de-Putain, de trop d'orgueil enflé !
-
--*who_mercure
-Que dis-tu ?
-
--*who_sosie
-      Rien.
-
--*who_mercure
-      Tu tiens, je crois, quelque langage.
-
--*who_sosie
-Demandez, je n'ai pas soufflé.
-
--*who_mercure
-Certain mot de Fils-de-Putain,
-A pourtant frappé mon oreille :
-Il n'est rien de plus certain.
-
--*who_sosie
-C'est donc un Perroquet, que le beau temps réveille.
-
--*who_mercure
-Adieu. Lorsque le Dos pourra te démanger,
-Voilà l'Endroit, où je demeure.
-
--*who_sosie
-Ô Ciel ! que l'heure de manger,
-Pour être mis dehors, est une maudite heure !
-Allons, cédons au Sort dans notre affliction.
-Suivons-en aujourd'hui l'aveugle fantaisie ;
-Et par une juste union,
-Joignons le malheureux Sosie,
-Au malheureux Amphitryon.
-Je l'aperçois venir en bonne compagnie.
-
-**** *book_ *id_III07 *act_III *date_1668 *creator_moliere
-
--*who_amphitryon
-Arrêtez là, Messieurs. Suivez-nous d'un peu loin ;
-Et n'avancez tous, je vous prie,
-Que quand il en sera besoin.
-
--*who_posicles
-Je comprends que ce coup doit fort toucher votre Âme.
-
--*who_amphitryon
-Ah ! de tous les côtés, mortelle est ma douleur !
-Et je souffre pour ma flamme,
-Autant que pour mon honneur.
-
--*who_posicles
-Si cette Ressemblance est telle que l'on dit,
-Alcmène, sans être coupable…
-
--*who_amphitryon
-Ah ! sur le fait dont il s'agit,
-L'erreur simple devient un crime véritable,
-Et sans consentement, l'Innocence y périt.
-De semblables erreurs, quelque jour qu'on leur donne,
-Touchent des endroits délicats :
-Et la Raison bien souvent les pardonne ;
-Que l'Honneur, et l'Amour, ne les pardonnent pas.
-
--*who_argatiphontidas
-Je n'embarrasse point là-dedans ma pensée :
-Mais je hais vos Messieurs, de leurs honteux délais ;
-Et c'est un procédé, dont j'ai l'Âme blessée ;
-Et que les Gens de cœur n'approuveront jamais.
-Quand quelqu'un nous emploie, on doit, tête baissée,
-Se jeter dans ses intérêts.
-Argatiphontidas ne va point aux accords.
-Écouter d'un Ami raisonner l'adversaire,
-Pour des Hommes d'honneur, n'est point un coup à faire :
-Il ne faut écouter que la vengeance alors.
-Le Procès ne me saurait plaire ;
-Et l'on doit commencer toujours dans ses transports,
-Par bailler, sans autre mystère,
-De l'Épée au travers du Corps.
-Oui, vous verrez, quoi qu'il advienne,
-Qu'Argatiphontidas marche droit sur ce point ;
-Et de vous il faut que j'obtienne,
-Que le Pendard ne meure point,
-D'une autre main, que de la mienne.
-
--*who_amphitryon
-Allons.
-
--*who_sosie
-      Je viens, Monsieur, subir à vos genoux,
-Le juste châtiment d'une audace maudite.
-Frappez, battez, chargez, accablez-moi de coups ;
-Tuez-moi dans votre courroux :
-Vous ferez bien, je le mérite ;
-Et je n'en dirai pas un seul mot contre vous.
-
--*who_amphitryon
-Lève-toi. Que fait-on ?
-
--*who_sosie
-      L'on m'a chassé tout net :
-Et croyant, à manger, m'aller comme eux, ébattre ;
-Je ne songeais pas qu'en effet,
-Je m'attendais là, pour me battre.
-Oui, l'autre Moi, Valet de l'autre Vous, a fait,
-Tout de nouveau, le Diable à quatre.
-La rigueur d'un pareil Destin,
-Monsieur, aujourd'hui, nous talonne ;
-Et l'on me Dés-Sosie enfin,
-Comme on vous Dés-Amphitryonne.
-
--*who_amphitryon
-Suis-moi.
-
--*who_sosie
-      N'est-il pas mieux, de voir s'il vient Personne.
-
-**** *book_ *id_III08 *act_III *date_1668 *creator_moliere
-
--*who_cleanthis
-Ô Ciel !
-
--*who_amphitryon
-      Qui t'épouvante ainsi ?
-Quelle est la peur, que je t'inspire ?
-
--*who_cleanthis
-Las ! vous êtes là-haut, et je vous vois ici !
-
--*who_naucrates
 Ne vous pressez point, le voici,
 Pour donner devant tous, les clartés, qu'on désire ;
 Et qui, si l'on peut croire à ce qu'il vient de dire,
 Sauront vous affranchir de trouble, et de souci.
 
-**** *book_ *id_III09 *act_III *date_1668 *creator_moliere
-
--*who_mercure
-Oui, vous l'allez voir tous : et sachez, par avance,
-Que c'est le Grand Maître des Dieux ;
-Que sous les traits chéris de cette Ressemblance,
-Alcmène a fait, du Ciel, descendre dans ces Lieux.
-Et quant à moi, je suis Mercure,
-Qui ne sachant que faire, ai rossé tant soit peu
-Celui, dont j'ai pris la Figure :
-Mais de s'en consoler, il a maintenant lieu ;
-Et les coups de Bâton d'un Dieu,
-Font honneur à qui les endure.
-
--*who_sosie
-Ma foi ! Monsieur le Dieu, je suis votre Valet.
-Je me serais passé de votre courtoisie.
-
--*who_mercure
-Je lui donne à présent congé d'être Sosie.
-Je suis las de porter un Visage si laid ;
-Et je m'en vais au Ciel, avec de l'Ambrosie,
-M'en débarbouiller tout à fait.
-
--*who_sosie
-Le Ciel, de m'approcher, t'ôte à jamais l'envie.
-Ta fureur s'est par trop acharnée après moi :
-Et je ne vis de ma vie,
-Un Dieu plus Diable, que toi.
-
-**** *book_ *id_III10 *act_III *date_1668 *creator_moliere
-
--*who_jupiter
-Regarde, Amphitryon, quel est ton Imposteur ;
-Et sous tes propres traits, vois Jupiter paraître.
-À ces marques, tu peux aisément le connaître ;
-Et c'est assez, je crois, pour remettre ton Cœur
-Dans l'état auquel il doit être,
-Et rétablir chez toi, la paix, et la douceur.
-Mon nom, qu'incessamment toute la Terre adore,
-Étouffe ici les bruits, qui pouvaient éclater.
-Un partage avec Jupiter,
-N'a rien du tout, qui déshonore :
-Et sans doute, il ne peut être que glorieux,
-De se voir le Rival du Souverain des Dieux.
-Je n'y vois, pour ta flamme, aucun lieu de murmure ;
-Et c'est moi, dans cette aventure,
-Qui tout Dieu que je suis, dois être le Jaloux.
-Alcmène est toute à toi, quelque soin qu'on emploie ;
-Et ce doit à tes feux être un Objet bien doux,
-De voir, que pour lui plaire, il n'est point d'autre voie,
-Que de paraître son Époux :
-Que Jupiter, orné de sa gloire immortelle,
-Par lui-même, n'a pu triompher de sa foi ;
-Et que ce qu'il a reçu d'elle,
-N'a, par son Cœur ardent, été donné qu'à toi.
-
--*who_sosie
-Le Seigneur Jupiter sait dorer la Pilule.
-
--*who_jupiter
-Sors donc des noirs chagrins, que ton Cœur a soufferts ;
-Et rends le calme entier à l'ardeur, qui te brûle.
-Chez toi, doit naître un Fils, qui sous le nom d'Hercule,
-Remplira de ses faits, tout le vaste Univers.
-L'éclat d'une Fortune, en mille biens féconde,
-Fera connaître à tous que je suis ton support,
-Et je mettrai tout le Monde
-Au point d'envier ton Sort.
-Tu peux hardiment te flatter
-De ces espérances données :
-C'est un crime, que d'en douter.
-Les paroles de Jupiter,
-Sont des Arrêts des Destinées.
-
--*who_naucrates
 Certes, je suis ravi de ces marques brillantes…
 
--*who_sosie
-Messieurs, voulez-vous bien suivre mon sentiment ?
-Ne vous embarquez nullement,
-Dans ces douceurs congratulantes.
-C'est un mauvais embarquement :
-Et d'une, et d'autre part, pour un tel Compliment,
-Les Phrases sont embarrassantes.
-Le grand Dieu Jupiter nous fait beaucoup d'honneur ;
-Et sa bonté, sans doute, est pour nous sans seconde :
-Il nous promet l'infaillible bonheur,
-D'une Fortune, en mille biens féconde ;
-Et chez nous il doit naître un Fils d'un très grand cœur,
-Tout cela va le mieux du Monde.
-Mais enfin coupons aux discours ;
-Et que chacun chez soi, doucement se retire.
-Sur telles Affaires, toujours,
-Le meilleur est de ne rien dire.

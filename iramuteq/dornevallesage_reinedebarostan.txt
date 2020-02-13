@@ -1,485 +1,9 @@
 
 
-**** *book_ *id_I01 *act_I *date_1730
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
 
--*who_pierrot
-Seigneur, n'avez vous point envie
-De changer votre train de vie ?
-Voulez-vous sans cesse risquer >
-Vos jours sur ces Mers redoutables ?
-Notre vaisseau ne peut manquer
-D'aller enfin à tous les diables.
-
--*who_almoraddin
-Je crains moins la Mer en colère.
-Que je ne redoute les noeuds,
-Dont tu sais que le Roi mon Père
-Veut lier son fils malheureux.
-
--*who_pierrot
-Son Fils malheureux !
-Ne dirait-on pas qu'il veut vous faire écorcher tout vif ?
-Ce bon papa, grillant dans l'âme
-De se voir de petits-enfants,
-Qui réjouissent ses vieux ans ,
-Vous sollicite à prendre femme ;
-Et vous, zeste, une belle nuit,
-D'Achem vous décampez sans bruit.
-
--*who_almoraddin
-Blâme, si tu veux, ma conduite ;
-Mais, cher Pierrot, dans mon effroi,
-J'ai mieux aimé prendre la fuite,
-Que de l'hymen subir la loi.
-
--*who_pierrot
-Hé, ventrebille !
-Seigneur Almoraddin, qu'a donc l'hymen de si affreux ?
-Mon Prince, vous n'y pensez pas,
-Lorsque vous tenez ce langage.
-Moi, je ne vois que des appas
-Dans la chose du mariage.
-Loin de fuir cet engagement,.
-J'épouserais à tout moment,
-À tout moment,
-À tout moment,
-J'épouserais à tout moment.
-
--*who_almoraddin
-Je n'ai jamais aimé, et je ne sais si je serais capable de m'attacher.
-Je te dirai même qu'une crainte délicate me tient en garde contre les charmes du beau sexe...
-
--*who_pierrot
-Quelle crainte donc ?
-
--*who_almoraddin
-Mon ami, j'aurais toujours peur
-De ma grandeur suprême ;
-Et je demanderais un coeur,
-Qui m'aimât pour moi-même.
-
--*who_pierrot
-Fi donc, Seigneurs !
-Du point d'honneur
-Votre âme est trop friande,
-Quoi ? Dans l'amour
-Des gens de Cour,
-Est-ce que ça se demande ?
-Vous êtes unique en votre espèce.
-
--*who_almoraddin
-Ne parlons plus de cela.
-Continuons de voyager.
-Mais avant que de nous remettre en mer, je fuis curieux de voir ce qu'il y a de remarquable dans cette capitale du Barostan.
-
--*who_pierrot
-Et moi, de savoir si le vin y est bon.
-
--*who_almoraddin
-De mon nom, ni de ma naissance,
-Garde toi bien de dire un mot.
-Tu sais qu'il est de conséquence
-De ne pas...
-
--*who_pierrot
-      Mordi ! Suis-je un sot ?
-Vous prêchez toujours le silence,
-Ne connaissez-vous pas Pierrot ?
-
--*who_almoraddin
-Ha-ha !
-Que nous, veulent ces deux hommes ?
-
-**** *book_ *id_I02 *act_I *date_1730
-
--*who_pierrot
-Comme ils s'approchent de nous
-D'un air doux !
-Seigneur, les remarquez-vous ?
-Les Bourgeois de cette ville
-Sont des gens
-      d'humeur civile.
-
--*who_hanif
-Noble Etranger , l'on nous ordonne
-De venir avec grand respect:.,
-En vous faisant Salamalec,
-Nous saisir de votre personne.
-
--*who_pierrot
-Ahi, ahi, ahi !
-
--*who_sindbad
-Dans ce moment, fans résister,
-Seigneur, laissez-vous arrêter.
-
--*who_pierrot
-Quel mal avons-nous fait ?
-
--*who_almoraddin
-Nous ne faisons point résistance :
-Mais je serais fort curieux
-De savoir si c'est une offense,
-Que d'oser venir en ces lieux.
-
--*who_hanif
-Que rien ne vous chagrine.
-Nous en usons ainsi
-Avec les étrangers de bonne mine,
-Que le sort quelquefois conduit ici.
-
--*who_pierrot
-Mais ce n'est pas nous.
-Vous nous prenez pour d'autres.
-
--*who_sindbad
-On ne veut vous faire aucun mal, au contraire.
-
--*who_hanif
-On voit bien que vous ignorez ce qui se passe dans le Barostan.
-
--*who_pierrot
-Hélas, oui !
-
--*who_sindbad
-Nous sommes les Peuples de l'Asie les plus heureux, surtout depuis que la Reine Zélica est sur le trône.
-
--*who_hanif
-Elle est à la fleur de son âge ;
-Les traits divins de son visage
-Sont fort au dessus du pinceau :
-Rien n'est si beau.
-
--*who_sindbad
-Elle est humaine, elle est affable,
-Compatissante, secourable,
-Penchant toujours vers le pardon :
-Rien n'est si bon.
-
--*who_pierrot
-Je vous en félicite.
-
--*who_almoraddin
-Vous parlez là d'une Princesse accomplie.
-
--*who_hanif
-Une Reine si débonnaire,
-Nous cause pourtant un chagrin :
-Depuis longtemps elle diffère
-À nous donner un Souverain.
-
--*who_sindbad
-Nous craignons qu'un jour la Patrie
-Ne devienne en proie à nos Grands
-Mais que la Reine se marie
-Voilà tous ses sujets contents.
-
--*who_pierrot
-De vous ne pourrait-on savoir.
-Pourquoi cette Princesse
-Lambine tant à se pourvoir ?
-
--*who_sindbad
-C'est par délicatesse.
-
--*who_almoraddin
-Comment cela ?
-
--*who_hanif
-Elle veut des coeurs généreux,
-De son seul mérite amoureux,
-Qui ne cherchent que sa personne :
-De passionnés soupirants,
-Qui ne portent sur sa couronne
-Que des regards indifférents.
-
--*who_almoraddin
-Tu vois, Pierrot, que Zélica
-Pense comme moi sur cela.
-
--*who_pierrot
-Ô reguingué, ô lonlanla !
-La Maîtresse de ce Royaume
-Est, ma foi, votre second Trône.
-
--*who_sindbad
-Tous les Princes voisins se sont déjà présentés, aucun n'a eu le bonheur de plaire.
-
--*who_hanif
-Enfin, pressée par ses Peuples, et ne voulant point causer de jalousie aux Grands de son Royaume, elle a déclaré, qu'elle choisirait un époux parmi les étrangers qui arriveraient au Barostan ; et qu'elle aurait moins d'égard à sa condition qu'à son caractère.
-
--*who_pierrot
-Ha !
-Voilà donc pourquoi vous nous arrêtez ?
-
--*who_sindbad
-Oui.
-Maint étranger d'apparence.
-Devant Zélica conduit,
-N'a de sa vaine éloquence
-Retiré qu'un triste fruit,
-Notre Princesse a su lire,
-Dans leurs coeurs ambitieux,
-Qu'ils chérissaient son Empire
-Beaucoup plus que ses beaux yeux.
-
--*who_almoraddin
-Je la trouve heureuse d'avoir si bien pénétré leurs sentiments.
-
--*who_pierrot
-Elle aura de la peine à trouver ce qu'il lui faut.
-
--*who_sindbad
-Je tire un malheureux présage
-D'un hymen toujours différé :
-Elle hait trop le mariage,
-Pour trouver un homme à son gré.
-
--*who_hanif
-Que savez-vous ?
-Peut-être que la Reine,
-En voyant ce Seigneur,
-Pour l'hymen n'aura plus de haine,
-Et laissera toucher son coeur.
-
--*who_almoraddin
-Vous avez trop bonne opinion de moi !
-
--*who_pierrot
-Vous vous adressez bien mal, mes enfants.
-Si votre Reine a peur du mariage,
-Notre Patron le craint bien davantage;
-Mais
-Achevez votre message,
-À sa place je me mets.
-
--*who_almoraddin
-L'Original !
-
--*who_pierrot
-On juge assez, en me voyant,
-Que je fuis né pour la tendresse ;
-Et, que je suis un bon vivant,
-Qui ne veut qu'amour et simplesse.
-Et quand la Reine me verra,
-Aussitôt elle s'écrira :
-Haï voilà le Drôle ,
-Le Drôle, le Drôle !
-Ha ; voilà le Drôle,
-Qui m'épousera.
-
-**** *book_ *id_I03 *act_I *date_1730
-
--*who_assan
-En vain tous les jours je vous presse
-De couronner ma tendre ardeur ;
-Votre coeur pour moi s'intéresse,
-Et vous différez mon bonheur.
-Amine, mes amours,
-Languirai-je toujours ?
-
--*who_amine
-Finir votre peine,
-Me serait bien doux ;
-Mais je ne puis être à vous,
-Ayant que la Reine
-Ait pris un époux.
-
--*who_assan
-Quelle excuse !
-Vous savez bien que la Princesse
-Est favorable a notre amour.
-
--*who_amine
-Une Confidente de Cour
-Doit se régler sur sa Maîtresse.
-
--*who_assan
-C'est me déclarer que jamais
-Vous ne comblerez mes souhaits.
-Non, la Reine ne trouvera point l'homme qu'elle cherche.
-
--*who_amine
-Elle le trouvera peut-être,
-Et plutôt que vous ne pensez.
-
--*who_assan
-Comment pourra-t elle connaître
-Des soupirs désintéressés ?
-
--*who_amine
-Je vous réponds qu'elle a trouvé un sûr moyen de n'y être pas trompée.
-Pour vous en faire confidence,
-Je vous dirai qu'elle a fait choix...
-Mais dans ces lieux quelqu'un s'avance.
-Vous saurez tout une autre fois.
-
-**** *book_ *id_I04 *act_I *date_1730
-
--*who_hanif
-Mon Camarade vous amène
-Un jeune étranger, un garçon,
-Qui paraît de bonne façon.
-Oh ! Pour cette fois-ci, la Reine,
-Digue, diguedon, diguedon, don daine,
-Pourra bien mordre à l'hameçon.
-
--*who_assan
-Ah ! Puisse t-il ma Chère,
-Devenir notre Roi !
-
--*who_amine
-Vous ne le pouvez guère
-Souhaiter plus que moi.
-Je cours annoncer à la Reine ce Nouveau-venu.
-
-**** *book_ *id_I05 *act_I *date_1730
-
--*who_assan
-Tu crois donc, mon chér Hanif, que ce jeune-homme plaira.
-
--*who_hanif
-J'en réponds sur ma tête.
-Je n'en ai jamais vu,
-Lurelu,
-Depuis que j'en arrête,
-Qui valut celúi-là
-Larela
-Lurelu, larela, lirette...
-Mais, tenez, le voilà.
-
-**** *book_ *id_I06 *act_I *date_1730
-
--*who_sindbad
-Vous voyez le Capitaine des Gardes.
-
--*who_assan
-Puissiez-vous, Rose duPrintems ,,
-Être agréable à la Princesse ,
-Autant que la pluie à nos Champs,
-Après cent jours de sécheresse :
-Qu'aux rayons de vos yeux pleins d'ardeur
-Fonde la glace de son coeur.
-
--*who_pierrot
-Vous choisissez un bon fondeur.
-
--*who_almoraddin
-De posséder cette Reine charmante
-Ne pensez pas que je sois fort tenté ;
-Et dans ces lieux lorsque je me présente,
-Vos lois m'en sont une nécessité.
-
--*who_assan
-Ce discours me surprend.
-
--*who_pierrot
-Croyez-vous qu'il aime les femelles'?
-Ce n'est rien moins que cela.
-Apprenez que, pour voir les plus belles,
-Il n'irait pas d'ici là.
-Il ne prendra jamais du goût pour elle.
-
--*who_assan
-Et lonlanla,
-Quand il sera
-Devant Zélica,
-Vous m'en direz des nouvelles.
-Mais cette Princesse va paraître ; Préparez-vous à l'entretenir.
-
-**** *book_ *id_I07 *act_I *date_1730
-
--*who_pierrot
-Au bout du compte, je rirais bien ; si vous alliez devenir amoureux.
-
--*who_almoraddin
-C'est ce qui n'arrivera point.
-L'Amour a fait son possible,
-Pour m'abattre sous ses traits ;
-Mais, me trouvant invincible,
-Enfin, il me laisse en paix.
-Mais etc.
-
--*who_pierrot
-Avec ce Dieu, dès ce jour, mon cher Maître,
-Vous pourriez bien trouver à déchanter :
-Quand il nous faut reculer, le bon Traître,
-C'est pour nous faire mieux sauter.
-
--*who_almoraddin
-Paix !
-Voici, la Reine.
-
-**** *book_ *id_I08 *act_I *date_1730
-
--*who_pierrot
-Jarni ! Qu'elle est brillante !
-Quelle Dondon piquante !
-Ses beaux yeux me criblent le sein.
-Ah ! Que n'est-elle une suivante,
-Ou que ne suis-je Almoraddin.
-
--*who_nour
-Ô vous, que le hasard attire
-Ici pour la première fois,
-Jeune étranger, dans mon Empire
-Avec plaisir je vous reçois !
-Puissiez-vous, quittant ce rivage,
-Être assez content de ma Cour,
-Pour en conserver une image,
-Qui fasse honneur à ce séjour.
-
--*who_pierrot
-Elle est à manger.
-
--*who_almoraddin
-Lorsque l'on y voit la flamme...
-Les plus célestes attraits
-Un coeur... mes tendres souhaits...
-
--*who_nour
-Quel transport saisit son âme !
-
--*who_almoraddin
-Ah ! Si mon bonheur obtient...
-
--*who_lareine
 Vous l'avez troublé, Madame.
 
--*who_almoraddin
-Oui, si mon amour obtient....
-
--*who_pierrot
-Oh ! C'en est fait, il en tient.
-
--*who_almoraddin
-Pardonnez-mon désordre extrême.
-
--*who_nour
-Vous n'avez jamais mieux parlé :
-Les discours d'un amant troublé
-Sont l'éloquence même.
-
--*who_almoraddin
-Hélas ! Si j'osais me promettre !...
-
--*who_nour
-Oui, je vous permets d'espérer.
-Je crois devoir me retirer,
-Pour vous laisser un peu remettre.
-
--*who_pierrot
-Son pauvre coeur en a besoin.
-
--*who_nour
-Ma chère Nour, prenez-en soin.
-
-**** *book_ *id_I09 *act_I *date_1730
-
--*who_pierrot
-Je vous l'avais bien dit que vous pourriez tomber dans la nasse.
-
--*who_lareine
 Seigneur, ne soyez point surpris
 De l'état où sont vos esprits.
 À la Reine en rendant les armes,
@@ -487,108 +11,30 @@ Vous avez éprouvé l'effEt
 Que sur tous les coeurs elle fait :
 On doit ce tribut à ses charmes.
 
--*who_almoraddin
-Ahi !
-
--*who_pierrot
-Le Dieu Cupidon
-Vous livre à la Reine,
-Rougirez-vous donc
-De porter sa chaîne !
-Bon !
-La faridondaine,
-Gué!
-La fariradondé.
-
--*who_almoraddin
-Je vous l'avouerai, belle Nour.
-Je n'ai point été maître
-Du trouble subit que l'amour
-Dans mon coeur a fait naître :
-Mais votre Maîtresse n'est pas
-La cause de mon embarras.
-
--*who_pierrot
-Ho ho !
-
--*who_lareine
 Eh ! Quelle autre que la Reine
 Peut vous avoir enchanté ?
 
--*who_almoraddin
-Hélas ! Vous pouvez ; sans peines,
-Deviner cette Beauté !
-Si ma bouche n'ose dire
-Pour quels appas je soupire,
-Nour, si vous le désirez,
-Dans mes yeux vous l'apprendrez.
-
--*who_lareine
 Je ne vous entends point.
 
--*who_almoraddin
-Vous feignez de ne point m'entendre :
-Je vais donc parler clairement.
-C'est à votre air noble et charmant
-Que mon coeur s'est laissé surprendre.
-
--*who_lareine
 Ha, ha, ha !
 
--*who_pierrot
-En voici bien d'une autre.
-
--*who_lareine
 Je ne prends point le change.
 Non, je ne fuis point assez vaine,
 Pour m'imaginer follement,
 Qu'à notre aimable souveraine
 Je puisse enlever un Amant.
 
--*who_almoraddin
-De l'éclat qui l'environne
-Mon coeur n'a point été frappé ;
-II s'est tout entier occupé
-Des grâces de votre personne.
-De l'éclat qui l'environne
-Mon coeur n'a point été frappé.
-
--*who_pierrot
-Il faut qu'il ait le Diable au corps.
-
--*who_lareine
 Mais cela me paraît sérieux.
 
--*who_almoraddin
-Oui, c'est Nour elle-même,
-C'est vous feule que j'aime.
-
--*who_lareine
 Quoi ? Vous à mes genoux !
 Votre indigne tendresse
 Dément l'air de noblesse,
 Que l'on remarque en vous.
 
--*who_pierrot
-Cela est vrai, rien n'est plus honteux.
-
--*who_lareine
 Quel Démon vous entraîne !
 Voyez, dans votre amour,
 L'esclave de la Reine.
 
--*who_almoraddin
-Je n'y vois rien que Nour.
-Ignorez-vous qui donne
-Les Sceptres ? C'est le sort.
-Si Nour est sans couronne,
-Le Destin seul a tort.
-
--*who_pierrot
-Ah !
-Pauvre Cerveau blessé !
-
--*who_lareine
 Vainement, par ce doit langage,
 Vous pensez que mon coeur peu sage
 Dans vos feux s'intéressera.
@@ -599,73 +45,206 @@ Vous lui rendrez
       plus de justice.
 Elle fait quelques pas pour s'en aller.
 
--*who_almoraddin
+Laissez moi, Coeur lâche et bas !
+
+N'en prenez pas la peine.
+
+Je ne puis vous guérir.
+
+Quelle nouvelle, Seigneur,
+On vient de m'apprendre !
+Quand pour vous de sa grandeur
+La Reine veut bien descendre,
+Vous rebutez son amour !
+Est-ce donc là le retour
+Qu'elle en devait attendre ?
+
+Vous avez raison ; mais songez
+Au péril où vous vous plongez.
+Des attraits que vous outragez
+Redoutez la furie.
+
+En vérité, c'est avec peine
+Que pour vous j'aide la rigueur ;
+Et c'est votre gloire, Seigneur,
+Qui me rend inhumaine.
+
+Non, vous n'en mourrez pas.
+En vain j'ai voulu me défendre
+Contre un si tendre vainqueur.
+
+Vous l'avez forcé de se rendre.
+
+En préférant l'esclave à la Maîtresse,
+Vous trouverez beaucoup plus de tendresse.
+Mais vous perdez la main d'une Princesse,
+
+Ciel !
+
+Ah ! Quel bonheur que mon amour
+Ait précédé cette nouvelle !
+
+Le jour trahirait notre suite.
+À votre vaisseau, sur le soir ;
+J'irai, par mon amour conduite.
+Cher Prince, adieu. Jusqu'au revoir.
+
+Almoraddin, malgré votre tendresse,
+Vous me lancez des regards pleins d'horreur.
+J'ai tout dit, je le confesse :
+J'ai dit qu'une vive ardeur
+Tous deux nous presse :
+Mais, par bonheur,
+Cela n'a rien gâté.
+Je vous apprends que la Princesse
+Veut bien souffrir notre félicité.
+
+      Je suis la Reine.
+Je fais mon bonheur, en vous rendant heureux.
+
+J'ai voulu voir si ma Personne,
+Sans se nommer,
+Avait besoin de ma Couronne ,
+Pour enflammer.
+
+Venez faire une fête,
+Accourez à ma voix !
+Peuples, que l'on s'apprête
+À célébrer mon choix ?
+Venez tous reconnaître
+Les faveurs du Destin,
+Qui vous donne pour maître
+Le Prince Almoraddin.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almoraddin
+
+Je crains moins la Mer en colère.
+Que je ne redoute les noeuds,
+Dont tu sais que le Roi mon Père
+Veut lier son fils malheureux.
+
+Blâme, si tu veux, ma conduite ;
+Mais, cher Pierrot, dans mon effroi,
+J'ai mieux aimé prendre la fuite,
+Que de l'hymen subir la loi.
+
+Je n'ai jamais aimé, et je ne sais si je serais capable de m'attacher. Je te dirai même qu'une crainte délicate me tient en garde contre les charmes du beau sexe...
+
+Mon ami, j'aurais toujours peur
+De ma grandeur suprême ;
+Et je demanderais un coeur,
+Qui m'aimât pour moi-même.
+
+Ne parlons plus de cela. Continuons de voyager. Mais avant que de nous remettre en mer, je fuis curieux de voir ce qu'il y a de remarquable dans cette capitale du Barostan.
+
+De mon nom, ni de ma naissance,
+Garde toi bien de dire un mot.
+Tu sais qu'il est de conséquence
+De ne pas...
+
+Ha-ha ! Que nous, veulent ces deux hommes ?
+
+Nous ne faisons point résistance :
+Mais je serais fort curieux
+De savoir si c'est une offense,
+Que d'oser venir en ces lieux.
+
+Vous parlez là d'une Princesse accomplie.
+
+Comment cela ?
+
+Tu vois, Pierrot, que Zélica
+Pense comme moi sur cela.
+
+Je la trouve heureuse d'avoir si bien pénétré leurs sentiments.
+
+Vous avez trop bonne opinion de moi !
+
+L'Original !
+
+De posséder cette Reine charmante
+Ne pensez pas que je sois fort tenté ;
+Et dans ces lieux lorsque je me présente,
+Vos lois m'en sont une nécessité.
+
+C'est ce qui n'arrivera point.
+L'Amour a fait son possible,
+Pour m'abattre sous ses traits ;
+Mais, me trouvant invincible,
+Enfin, il me laisse en paix.
+Mais etc.
+
+Paix ! Voici, la Reine.
+
+Lorsque l'on y voit la flamme...
+Les plus célestes attraits
+Un coeur... mes tendres souhaits...
+
+Ah ! Si mon bonheur obtient...
+
+Oui, si mon amour obtient....
+
+Pardonnez-mon désordre extrême.
+
+Hélas ! Si j'osais me promettre !...
+
+Ahi !
+
+Je vous l'avouerai, belle Nour.
+Je n'ai point été maître
+Du trouble subit que l'amour
+Dans mon coeur a fait naître :
+Mais votre Maîtresse n'est pas
+La cause de mon embarras.
+
+Hélas ! Vous pouvez ; sans peines,
+Deviner cette Beauté !
+Si ma bouche n'ose dire
+Pour quels appas je soupire,
+Nour, si vous le désirez,
+Dans mes yeux vous l'apprendrez.
+
+Vous feignez de ne point m'entendre :
+Je vais donc parler clairement.
+C'est à votre air noble et charmant
+Que mon coeur s'est laissé surprendre.
+
+De l'éclat qui l'environne
+Mon coeur n'a point été frappé ;
+II s'est tout entier occupé
+Des grâces de votre personne.
+De l'éclat qui l'environne
+Mon coeur n'a point été frappé.
+
+Oui, c'est Nour elle-même,
+C'est vous feule que j'aime.
+
+Je n'y vois rien que Nour.
+Ignorez-vous qui donne
+Les Sceptres ? C'est le sort.
+Si Nour est sans couronne,
+Le Destin seul a tort.
+
 Demeurez, ne me fuyez pas,
 Belle Inhumaine !
 
--*who_lareine
-Laissez moi, Coeur lâche et bas !
-
--*who_almoraddin
 Non, je suivrai vos pas.
 
--*who_lareine
-N'en prenez pas la peine.
-
--*who_almoraddin
 Hélas ? Je vais donc m'ourir;
 
--*who_lareine
-Je ne puis vous guérir.
-
-**** *book_ *id_I10 *act_I *date_1730
-
--*who_almoraddin
 Vois-tu comme je suis traité ?
 
--*who_pierrot
-Vous l'avez mérité.
-
--*who_almoraddin
 Elle me met au désespoir.
 
--*who_pierrot
-Elle fait son devoir.
-
--*who_almoraddin
 Cruelle destinée !
 
--*who_pierrot
-Votre conduite est fort plaisante !
-Vous, qui ne vouliez point d'amante,
-Après avoir tant barguigné,
-Vous vous coiffez d'une suivante :
-Votre coeur est bien étrenné !
-
--*who_almoraddin
 Je la préfère à toutes les Princesses du Monde.
 
--*who_pierrot
-Quoi ?
-Vous seriez capable de l'épouser ?
-
--*who_almoraddin
 Pourquoi non ?
 
--*who_pierrot
-Et vous l'emmèneriez à Achem ?
-
--*who_almoraddin
 Sans doute.
 
--*who_pierrot
-Vous y seriez bien reçu, ma foi.
-Le Roi, suivant les apparences,
-Blâmerait votre engagement.
-Il est raide, en fait d'alliances,
-Comme un grand seigneur allemand.
-
--*who_almoraddin
 Non, non. Le plaisir qu'il aurait
 De me voir enfin une femme,
 Sur fa fierté l'emporterait ;
@@ -673,19 +252,140 @@ Nour même attendrirait son âme ;
 De tout je pourrais me flatter ;
 Mais Nour ne veut point m'écouter.
 
--*who_pierrot
-Chut !
-La Reine paraît.
-Jarnonbille !
-Qu'elle ne s'aperçoive de rien.
-L'amour dont notre honneur s'offense,
-Se doit condamner au silence :
-L'amour qu'on nous peut reprocher, er, etc
-Ne saurait trop bien se cacher, er, etc.
+Ah ! Madame, puis-je croire que...
 
-**** *book_ *id_I11 *act_I *date_1730
+J'espérais peu cette faveur insigne :
+Je fais confus de vos tendres bontés.
+Ah ! Laissez-moi du moins m'en rendre digne !
 
--*who_nour
+Je ne puis vous donner ma foi :
+Je suis prévenu pour une autre ;
+Je vous suis ingrat malgré moi.
+
+Ô Grands Dieux ! Qu'en ce malheureux jour,
+Je suis bien le jouet de l'Amour !
+Je dédaigne une Reine puissante,
+Qui vient m'offrir sa couronne et son coeur !
+Et j'adore une simple suivante,
+Qui n'a pour moi que haine et que rigueur.
+
+Eh ! Pourquoi me blâmez-vous ?
+Vous savez vous-même,
+Qu'il ne dépend pas de nous
+D'aimer qui nous aime,
+D'aimer qui nous aime.
+
+Ah ! Cruelle, ils sont bien vengez
+Par votre barbarie !
+
+Vous me trompez, hélas !
+Comment pourrais-je croire
+Que vous cherchez ma gloire,
+En cherchant mon trépas.
+
+J'aurais touché votre coeur !
+
+Vous approuvez enfin mes feux !
+Je suis au comble de mes voeux !
+
+Lorsque j'unis mon fort au vôtre,
+En vous je trouve l'une et l'autre :
+Au Roi d'Achem je dois le jour.
+
+      Almoraddin je m'appelle.
+
+Ce trait de délicatesse,
+Nour, est bien digne de vous.
+Mais fuyons des yeux jaloux,
+Et songez que le temps presse.
+Dans mon bord retirons-nous,
+Abandonnez la Princesse ;
+Dans mon bord retirons-nous,
+Venez, suivez votre époux.
+
+Amour, qu'on est téméraire,
+De murmurer contre vous !
+Lorsque vous semblez le plus contraire
+Vous nous préparez le destin le plus doux.
+
+Pierrot, quelle heureuse nouvelle ?
+Almoraddin
+N'adore plus une Cruelle;
+Nour m'aime enfin.
+Du Port avec elle, sans bruit,
+Nous devons sortir cette nuit.
+
+Ce jour est de ma vie
+Le jour le plus heureux.
+Que mon âme est ravie !
+Chantons, rions tous deux :
+Allons gai ! etc.
+Mais d'où vient ce sérieux ? Aurais-tu quelque sujet de chagrin ?
+
+Qui ?
+
+Ha, ha, ha ! Il faut avouer que tu es bien fou.
+
+Tu te moques, Pierrot.
+
+Ha, ha, ha, ha , ha !
+
+Adieu donc, mon Prince. Puisque vous allez monter sur le Trône, nous ne nous verrons plus.
+
+L'extravagant personnage ! La Reine, apparemment, veut s'en divertir... Mais regagnons le Port.
+
+De quoi l'accuse-t-on ?
+
+Ô Dieux ! Faut-il que je cause la perte de Nour !
+Hé, qui sont mes Délateurs ?
+
+Nour, juste Ciel !
+
+Je suis en votre puissance :
+Contentez votre vengeance,
+Punissez ma violence ;
+Je n'en murmurerai pas.
+Nour !...( Quelle supercherie !)
+Non, après sa perfidie
+Et sa trahison, la vie
+Pour moi n'aura plus d'appas.
+
+Hé, quoi ? Triomphant d'une juste haine,
+Zélica veut bien favoriser mes voeux !
+
+Ah ! Que dítes-vous !
+
+J'avais même -délicatesse
+Depuis longtemps ;
+Et vous rendez, par cette adresse,
+Deux coeurs contents.
+Oui, votre rang suprême
+Me plaît bien moins que vous.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nour
+
+Ô vous, que le hasard attire
+Ici pour la première fois,
+Jeune étranger, dans mon Empire
+Avec plaisir je vous reçois !
+Puissiez-vous, quittant ce rivage,
+Être assez content de ma Cour,
+Pour en conserver une image,
+Qui fasse honneur à ce séjour.
+
+Quel transport saisit son âme !
+
+Vous n'avez jamais mieux parlé :
+Les discours d'un amant troublé
+Sont l'éloquence même.
+
+Oui, je vous permets d'espérer.
+Je crois devoir me retirer,
+Pour vous laisser un peu remettre.
+
+Ma chère Nour, prenez-en soin.
+
 À vous revoir quand Zélica s'empresse,
 Jugez par là du sort qui vous attend.
 À la Maîtresse
@@ -693,11 +393,6 @@ Du Barostan.
 Vous avez fait, dès le premier instant,
 Sentir pour vous une heureuse faiblesse.
 
--*who_almoraddin
-Ah !
-Madame, puis-je croire que...
-
--*who_nour
 Oui, Seigneur,
 Vous avez allumé dans un coeur,
 Plein de rigueur,
@@ -710,21 +405,8 @@ C'est l'amour qui l'ordonne.
 Partagez ma Couronne,
 Soyez, mon époux.
 
--*who_pierrot
-Comment-va-t-il se tirer de là ?
-
--*who_almoraddin
-J'espérais peu cette faveur insigne :
-Je fais confus de vos tendres bontés.
-Ah ! Laissez-moi du moins m'en rendre digne !
-
--*who_nour
 Mon coeur me dis que vous les méritez.
 
--*who_pierrot
-Le voilà bien embarrassé !
-
--*who_nour
 Vous régnerez dans ces climats,
 C'est votre destinée.
 Je vais déclarer de ce pas,
@@ -732,55 +414,22 @@ Que de notre hymenée
 On voit enfin, dans mes États,
 Arriver la journée.
 
--*who_pierrot
-Comme diable elle lui ferre le bouton !
-
--*who_nour
-Mais que vois-je !
-Au lieu de faire éclater les transports de sa joie.
+Mais que vois-je ! Au lieu de faire éclater les transports de sa joie.
 Il me paraît sombre et rêveur.
 
--*who_pierrot
-C'est, ma Princesse, son humeur.
-Il en dit bien moins qu'il ne pense
-Y avançe, y avance, y avance !
-Pardonnez lui son indolence.
-
--*who_nour
 Mais, quoi ?
 Peut-il être de glace
 En pareil cas !
 
--*who_pierrot
-Que ne suis-je à sa place,
-Madame, hélas !
-Je ferais bien mieux fête à vos appas.
-
--*who_nour
 Ouida !
 Quelle froideur est donc la vôtre !
 
--*who_almoraddin
-Je ne puis vous donner ma foi :
-Je suis prévenu pour une autre ;
-Je vous suis ingrat malgré moi.
-
--*who_pierrot
-Ah !
-Misérable, vous cassez les vitres.
-
--*who_nour
 Que viens-je d'entendre, ô Dieux !
 Quelle cruelle offense !
 Braver mon rang glorieux,
 Et le pouvoir de mes yeux !
 Vengeance, vengeance, vengeance ?
 
--*who_pierrot
-Courage !
-Achevez de nous perdre, par votre chienne de franchise.
-
--*who_nour
 Mais non.
 Éclater en murmures,
 De rage soupirer,
@@ -791,359 +440,24 @@ Soit délivré de toi :
 Sans tarder davantage,
 Fuis loin de moi.
 
--*who_pierrot
-Nous en sommes quittes à bon marché.
-
--*who_nour
 Vous dont l'humeur a su me plaire,
 Suivez-moi. Je vous apprendrai
 Ce que pour vous je prétends faire.
 
--*who_pierrot
-Au plutôt je vous rejoindrai.
-
-**** *book_ *id_I12 *act_I *date_1730
-
--*who_almoraddin
-Ô Grands Dieux ! Qu'en ce malheureux jour,
-Je suis bien le jouet de l'Amour !
-Je dédaigne une Reine puissante,
-Qui vient m'offrir sa couronne et son coeur !
-Et j'adore une simple suivante,
-Qui n'a pour moi que haine et que rigueur.
-
-**** *book_ *id_I13 *act_I *date_1730
-
--*who_lareine
-Quelle nouvelle, Seigneur,
-On vient de m'apprendre !
-Quand pour vous de sa grandeur
-La Reine veut bien descendre,
-Vous rebutez son amour !
-Est-ce donc là le retour
-Qu'elle en devait attendre ?
-
--*who_almoraddin
-Eh ! Pourquoi me blâmez-vous ?
-Vous savez vous-même,
-Qu'il ne dépend pas de nous
-D'aimer qui nous aime,
-D'aimer qui nous aime.
-
--*who_lareine
-Vous avez raison ; mais songez
-Au péril où vous vous plongez.
-Des attraits que vous outragez
-Redoutez la furie.
-
--*who_almoraddin
-Ah ! Cruelle, ils sont bien vengez
-Par votre barbarie !
-
--*who_lareine
-En vérité, c'est avec peine
-Que pour vous j'aide la rigueur ;
-Et c'est votre gloire, Seigneur,
-Qui me rend inhumaine.
-
--*who_almoraddin
-Vous me trompez, hélas !
-Comment pourrais-je croire
-Que vous cherchez ma gloire,
-En cherchant mon trépas.
-
--*who_lareine
-Non, vous n'en mourrez pas.
-En vain j'ai voulu me défendre
-Contre un si tendre vainqueur.
-
--*who_almoraddin
-J'aurais touché votre coeur !
-
--*who_lareine
-Vous l'avez forcé de se rendre.
-
--*who_almoraddin
-Vous approuvez enfin mes feux !
-Je suis au comble de mes voeux !
-
--*who_lareine
-En préférant l'esclave à la Maîtresse,
-Vous trouverez beaucoup plus de tendresse.
-Mais vous perdez la main d'une Princesse,
-
--*who_almoraddin
-Lorsque j'unis mon fort au vôtre,
-En vous je trouve l'une et l'autre :
-Au Roi d'Achem je dois le jour.
-
--*who_lareine
-Ciel !
-
--*who_almoraddin
-      Almoraddin je m'appelle.
-
--*who_lareine
-Ah ! Quel bonheur que mon amour
-Ait précédé cette nouvelle !
-
--*who_almoraddin
-Ce trait de délicatesse,
-Nour, est bien digne de vous.
-Mais fuyons des yeux jaloux,
-Et songez que le temps presse.
-Dans mon bord retirons-nous,
-Abandonnez la Princesse ;
-Dans mon bord retirons-nous,
-Venez, suivez votre époux.
-
--*who_lareine
-Le jour trahirait notre suite.
-À votre vaisseau, sur le soir ;
-J'irai, par mon amour conduite.
-Cher Prince, adieu. Jusqu'au revoir.
-
-**** *book_ *id_I14 *act_I *date_1730
-
--*who_almoraddin
-Amour, qu'on est téméraire,
-De murmurer contre vous !
-Lorsque vous semblez le plus contraire
-Vous nous préparez le destin le plus doux.
-
-**** *book_ *id_I15 *act_I *date_1730
-
--*who_almoraddin
-Pierrot, quelle heureuse nouvelle ?
-Almoraddin
-N'adore plus une Cruelle;
-Nour m'aime enfin.
-Du Port avec elle, sans bruit,
-Nous devons sortir cette nuit.
-
--*who_pierrot
-J'en suis bien-aise pour l'amour de vous.
-
--*who_almoraddin
-Ce jour est de ma vie
-Le jour le plus heureux.
-Que mon âme est ravie !
-Chantons, rions tous deux :
-Allons gai ! etc.
-Mais d'où vient ce sérieux ?
-Aurais-tu quelque sujet de chagrin ?
-
--*who_pierrot
-Seigneur, pourvoyez-vous d'un autre confident.
-La Fortune aujourd'hui m'élève au plus haut rang :
-Je dois tâter ce soir, de la grandeur humaine.
-Pour vous le couper court, j'épouse...
-
--*who_almoraddin
-Qui ?
-
--*who_pierrot
-      La Reine.
-
--*who_almoraddin
-Ha, ha, ha !
-Il faut avouer que tu es bien fou.
-
--*who_pierrot
-C'est un fait constant.
-Elle ne vous aime plus.
-Au Trône elle me destine ;
-Car elle même me l'a dit :
-Moitié pour vous faire dépit,
-Et moitié pour ma bonne mine.
-Moitié pour etc.
-
--*who_almoraddin
-Tu te moques, Pierrot.
-
--*who_pierrot
-Pierrot ! Pierrot ! Ce nom m'assomme.'
-Il est trop bas, trop familier.
-Et je prétends que l'on me nomme
-Dès aujourd'hui
-      Pierre Premier.
-
--*who_almoraddin
-Ha, ha, ha, ha , ha !
-
--*who_pierrot
-Oui, je prétends que l'on me nomme
-Dès aujourd'hui Pierre Premier.
-
--*who_almoraddin
-Adieu donc, mon Prince.
-Puisque vous allez monter sur le Trône, nous ne nous verrons plus.
-
--*who_pierrot
-Oh, que si !
-Nous nous verrons par Ambassadeurs.
-Adieu, Frère.
-Je vais retrouver Zélica, qui m'attend pour me couronner.
-Adieu.
-Bon voyage.
-Tandis qu'avec la soubrette
-Vous allez, fendant les flots,
-Tenir à cette Poulette
-Mille et mille doux propos ;
-De sa Maîtresse charmante,
-Moi parfaitement content,
-Je vais répondre à l'attente
-Des Peuples du Barostan.
-
-**** *book_ *id_I16 *act_I *date_1730
-
--*who_almoraddin
-L'extravagant personnage !
-La Reine, apparemment, veut s'en divertir...
-Mais regagnons le Port.
-
--*who_assan
-J'obéis, avec douleur,
-À l'ordre que l'on me donne.
-Je viens m'assurer, Seigneur,
-De votre auguste personne.
-
--*who_almoraddin
-De quoi l'accuse-t-on ?
-
--*who_assan
-On a découvert votre amour,
-On sait votre naissance,
-Vous attendez la fin du jour
-Avec impatience;
-Nour au Port clandestinement
-A promis de se rendre.
-C'est un projet qu'en ce moment
-La Reine vient d'apprendre.
-
--*who_almoraddin
-Ô Dieux !
-Faut-il que je cause la perte de Nour !
-Hé, qui sont mes Délateurs ?
-
--*who_assan
-Vous n'avez qu'une accusatrice.
-Je prévois bien vôtre surprise extrême,
-Quand vous saurez qui vous a décelé,
-Quand vous saurez que c'est Nour elle-même.
-
--*who_almoraddin
-Nour, juste Ciel !
-
--*who_assan
-      Elle a tout révélé.
-
-**** *book_ *id_I17 *act_I *date_1730
-
--*who_nour
 Hé bien, Prince d'Achem , vous aviez donc envie
 D'enlever de ma Cour mon esclave chérie !
 J'ai pardonné l'affront qu'ont reçu mes appas ;
 Mais pour cet attentat je ne l'excuse pas.
 
--*who_almoraddin
-Je suis en votre puissance :
-Contentez votre vengeance,
-Punissez ma violence ;
-Je n'en murmurerai pas.
-Nour !...( Quelle supercherie !)
-Non, après sa perfidie
-Et sa trahison, la vie
-Pour moi n'aura plus d'appas.
-
--*who_pierrot
-Ah !
-Ma Mignonne, je demande grâce pour lui.
-Je me souviens toujours d'avoir été à son service.
-Bon sang ne peut mentir.
-
--*who_lareine
-Almoraddin, malgré votre tendresse,
-Vous me lancez des regards pleins d'horreur.
-J'ai tout dit, je le confesse :
-J'ai dit qu'une vive ardeur
-Tous deux nous presse :
-Mais, par bonheur,
-Cela n'a rien gâté.
-Je vous apprends que la Princesse
-Veut bien souffrir notre félicité.
-
--*who_almoraddin
-Hé, quoi ? Triomphant d'une juste haine,
-Zélica veut bien favoriser mes voeux !
-
--*who_nour
 Oui : mais connaissez la Souveraine.
 Prince, la voilà. C'est l'objet de vos feux.
 
--*who_almoraddin
-Ah ! Que dítes-vous !
+À votre service. Cela vous dégoûte-t-il du mariage ?
 
--*who_lareine
-      Je suis la Reine.
-Je fais mon bonheur, en vous rendant heureux.
-
--*who_pierrot
-Ha !
-Quelle tricherie !
-Vous êtes donc, vous, la véritable Nour ?
-
--*who_nour
-À votre service.
-Cela vous dégoûte-t-il du mariage ?
-
--*who_pierrot
-Non, ma foi.
-
--*who_nour
 Veux-tu t'en dédire ?
 
--*who_pierrot
-Le marché tiendra.
-
--*who_nour
 Je n'ai plus d'Empire.
 
--*who_pierrot
-Oh s'en passera :
-N'y a pas d'mal à ça.
-
--*who_lareine
-J'ai voulu voir si ma Personne,
-Sans se nommer,
-Avait besoin de ma Couronne ,
-Pour enflammer.
-
--*who_almoraddin
-J'avais même -délicatesse
-Depuis longtemps ;
-Et vous rendez, par cette adresse,
-Deux coeurs contents.
-Oui, votre rang suprême
-Me plaît bien moins que vous.
-
--*who_almoraddin,lareine
-Être aimé pour soi-même,
-Il n'est rien de si doux.
-
--*who_lareine
-Venez faire une fête,
-Accourez à ma voix !
-Peuples, que l'on s'apprête
-À célébrer mon choix ?
-Venez tous reconnaître
-Les faveurs du Destin,
-Qui vous donne pour maître
-Le Prince Almoraddin.
-
-**** *book_ *id_I18 *act_I *date_1730
-
--*who_nour
 L'Excès de la délicatesse,
 Est le poison de la tendresse :
 Il faut de la crédulité.
@@ -1156,7 +470,93 @@ De s'y trop bien connaître :
 Se croire heureux,
 N'est-ce pas l'être.
 
--*who_assan
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amine
+
+Finir votre peine,
+Me serait bien doux ;
+Mais je ne puis être à vous,
+Ayant que la Reine
+Ait pris un époux.
+
+Une Confidente de Cour
+Doit se régler sur sa Maîtresse.
+
+Elle le trouvera peut-être,
+Et plutôt que vous ne pensez.
+
+Je vous réponds qu'elle a trouvé un sûr moyen de n'y être pas trompée.
+Pour vous en faire confidence,
+Je vous dirai qu'elle a fait choix...
+Mais dans ces lieux quelqu'un s'avance.
+Vous saurez tout une autre fois.
+
+Vous ne le pouvez guère
+Souhaiter plus que moi.
+Je cours annoncer à la Reine ce Nouveau-venu.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assan
+
+En vain tous les jours je vous presse
+De couronner ma tendre ardeur ;
+Votre coeur pour moi s'intéresse,
+Et vous différez mon bonheur.
+Amine, mes amours,
+Languirai-je toujours ?
+
+Quelle excuse !
+Vous savez bien que la Princesse
+Est favorable a notre amour.
+
+C'est me déclarer que jamais
+Vous ne comblerez mes souhaits.
+Non, la Reine ne trouvera point l'homme qu'elle cherche.
+
+Comment pourra-t elle connaître
+Des soupirs désintéressés ?
+
+Ah ! Puisse t-il ma Chère,
+Devenir notre Roi !
+
+Tu crois donc, mon chér Hanif, que ce jeune-homme plaira.
+
+Puissiez-vous, Rose duPrintems ,,
+Être agréable à la Princesse ,
+Autant que la pluie à nos Champs,
+Après cent jours de sécheresse :
+Qu'aux rayons de vos yeux pleins d'ardeur
+Fonde la glace de son coeur.
+
+Ce discours me surprend.
+
+Et lonlanla,
+Quand il sera
+Devant Zélica,
+Vous m'en direz des nouvelles.
+Mais cette Princesse va paraître ; Préparez-vous à l'entretenir.
+
+J'obéis, avec douleur,
+À l'ordre que l'on me donne.
+Je viens m'assurer, Seigneur,
+De votre auguste personne.
+
+On a découvert votre amour,
+On sait votre naissance,
+Vous attendez la fin du jour
+Avec impatience;
+Nour au Port clandestinement
+A promis de se rendre.
+C'est un projet qu'en ce moment
+La Reine vient d'apprendre.
+
+Vous n'avez qu'une accusatrice.
+Je prévois bien vôtre surprise extrême,
+Quand vous saurez qui vous a décelé,
+Quand vous saurez que c'est Nour elle-même.
+
+      Elle a tout révélé.
+
 Un coeur sauvage
 Qui fuit le Dieu des Amours,
 En vain tente le secours
@@ -1165,3 +565,340 @@ Le fruit de tous ses détours,
 Est l'esclavage;
 L'Amour se trouve toujours
 Sur son passage.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hanif
+
+Noble Etranger , l'on nous ordonne
+De venir avec grand respect:.,
+En vous faisant Salamalec,
+Nous saisir de votre personne.
+
+Que rien ne vous chagrine.
+Nous en usons ainsi
+Avec les étrangers de bonne mine,
+Que le sort quelquefois conduit ici.
+
+On voit bien que vous ignorez ce qui se passe dans le Barostan.
+
+Elle est à la fleur de son âge ;
+Les traits divins de son visage
+Sont fort au dessus du pinceau :
+Rien n'est si beau.
+
+Une Reine si débonnaire,
+Nous cause pourtant un chagrin :
+Depuis longtemps elle diffère
+À nous donner un Souverain.
+
+Elle veut des coeurs généreux,
+De son seul mérite amoureux,
+Qui ne cherchent que sa personne :
+De passionnés soupirants,
+Qui ne portent sur sa couronne
+Que des regards indifférents.
+
+Enfin, pressée par ses Peuples, et ne voulant point causer de jalousie aux Grands de son Royaume, elle a déclaré, qu'elle choisirait un époux parmi les étrangers qui arriveraient au Barostan ; et qu'elle aurait moins d'égard à sa condition qu'à son caractère.
+
+Que savez-vous ?
+Peut-être que la Reine,
+En voyant ce Seigneur,
+Pour l'hymen n'aura plus de haine,
+Et laissera toucher son coeur.
+
+Mon Camarade vous amène
+Un jeune étranger, un garçon,
+Qui paraît de bonne façon.
+Oh ! Pour cette fois-ci, la Reine,
+Digue, diguedon, diguedon, don daine,
+Pourra bien mordre à l'hameçon.
+
+J'en réponds sur ma tête.
+Je n'en ai jamais vu,
+Lurelu,
+Depuis que j'en arrête,
+Qui valut celúi-là
+Larela
+Lurelu, larela, lirette...
+Mais, tenez, le voilà.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sindbad
+
+Dans ce moment, fans résister,
+Seigneur, laissez-vous arrêter.
+
+On ne veut vous faire aucun mal, au contraire.
+
+Nous sommes les Peuples de l'Asie les plus heureux, surtout depuis que la Reine Zélica est sur le trône.
+
+Elle est humaine, elle est affable,
+Compatissante, secourable,
+Penchant toujours vers le pardon :
+Rien n'est si bon.
+
+Nous craignons qu'un jour la Patrie
+Ne devienne en proie à nos Grands
+Mais que la Reine se marie
+Voilà tous ses sujets contents.
+
+C'est par délicatesse.
+
+Tous les Princes voisins se sont déjà présentés, aucun n'a eu le bonheur de plaire.
+
+Oui.
+Maint étranger d'apparence.
+Devant Zélica conduit,
+N'a de sa vaine éloquence
+Retiré qu'un triste fruit,
+Notre Princesse a su lire,
+Dans leurs coeurs ambitieux,
+Qu'ils chérissaient son Empire
+Beaucoup plus que ses beaux yeux.
+
+Je tire un malheureux présage
+D'un hymen toujours différé :
+Elle hait trop le mariage,
+Pour trouver un homme à son gré.
+
+Vous voyez le Capitaine des Gardes.
+
+
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
+Seigneur, n'avez vous point envie
+De changer votre train de vie ?
+Voulez-vous sans cesse risquer >
+Vos jours sur ces Mers redoutables ?
+Notre vaisseau ne peut manquer
+D'aller enfin à tous les diables.
+
+Son Fils malheureux ! Ne dirait-on pas qu'il veut vous faire écorcher tout vif ?
+Ce bon papa, grillant dans l'âme
+De se voir de petits-enfants,
+Qui réjouissent ses vieux ans ,
+Vous sollicite à prendre femme ;
+Et vous, zeste, une belle nuit,
+D'Achem vous décampez sans bruit.
+
+Hé, ventrebille ! Seigneur Almoraddin, qu'a donc l'hymen de si affreux ?
+Mon Prince, vous n'y pensez pas,
+Lorsque vous tenez ce langage.
+Moi, je ne vois que des appas
+Dans la chose du mariage.
+Loin de fuir cet engagement,.
+J'épouserais à tout moment,
+À tout moment,
+À tout moment,
+J'épouserais à tout moment.
+
+Quelle crainte donc ?
+
+Fi donc, Seigneurs !
+Du point d'honneur
+Votre âme est trop friande,
+Quoi ? Dans l'amour
+Des gens de Cour,
+Est-ce que ça se demande ?
+Vous êtes unique en votre espèce.
+
+Et moi, de savoir si le vin y est bon.
+
+      Mordi ! Suis-je un sot ?
+Vous prêchez toujours le silence,
+Ne connaissez-vous pas Pierrot ?
+
+Comme ils s'approchent de nous
+D'un air doux !
+Seigneur, les remarquez-vous ?
+Les Bourgeois de cette ville
+Sont des gens
+      d'humeur civile.
+
+Ahi, ahi, ahi !
+
+Quel mal avons-nous fait ?
+
+Mais ce n'est pas nous. Vous nous prenez pour d'autres.
+
+Hélas, oui !
+
+Je vous en félicite.
+
+De vous ne pourrait-on savoir.
+Pourquoi cette Princesse
+Lambine tant à se pourvoir ?
+
+Ô reguingué, ô lonlanla !
+La Maîtresse de ce Royaume
+Est, ma foi, votre second Trône.
+
+Ha ! Voilà donc pourquoi vous nous arrêtez ?
+-
+
+Elle aura de la peine à trouver ce qu'il lui faut.
+
+Vous vous adressez bien mal, mes enfants.
+Si votre Reine a peur du mariage,
+Notre Patron le craint bien davantage;
+Mais
+Achevez votre message,
+À sa place je me mets.
+
+On juge assez, en me voyant,
+Que je fuis né pour la tendresse ;
+Et, que je suis un bon vivant,
+Qui ne veut qu'amour et simplesse.
+Et quand la Reine me verra,
+Aussitôt elle s'écrira :
+Haï voilà le Drôle ,
+Le Drôle, le Drôle !
+Ha ; voilà le Drôle,
+Qui m'épousera.
+
+Vous choisissez un bon fondeur.
+
+Croyez-vous qu'il aime les femelles'?
+Ce n'est rien moins que cela.
+Apprenez que, pour voir les plus belles,
+Il n'irait pas d'ici là.
+Il ne prendra jamais du goût pour elle.
+
+Au bout du compte, je rirais bien ; si vous alliez devenir amoureux.
+
+Avec ce Dieu, dès ce jour, mon cher Maître,
+Vous pourriez bien trouver à déchanter :
+Quand il nous faut reculer, le bon Traître,
+C'est pour nous faire mieux sauter.
+
+Jarni ! Qu'elle est brillante !
+Quelle Dondon piquante !
+Ses beaux yeux me criblent le sein.
+Ah ! Que n'est-elle une suivante,
+Ou que ne suis-je Almoraddin.
+
+Elle est à manger.
+.
+	
+Oh ! C'en est fait, il en tient.
+
+Son pauvre coeur en a besoin.
+
+Je vous l'avais bien dit que vous pourriez tomber dans la nasse.
+
+Le Dieu Cupidon
+Vous livre à la Reine,
+Rougirez-vous donc
+De porter sa chaîne !
+Bon !
+La faridondaine,
+Gué!
+La fariradondé.
+
+Ho ho !
+"
+
+En voici bien d'une autre.
+
+Il faut qu'il ait le Diable au corps.
+
+Cela est vrai, rien n'est plus honteux.
+
+Ah ! Pauvre Cerveau blessé !
+
+Vous l'avez mérité.
+
+Elle fait son devoir.
+
+Votre conduite est fort plaisante !
+Vous, qui ne vouliez point d'amante,
+Après avoir tant barguigné,
+Vous vous coiffez d'une suivante :
+Votre coeur est bien étrenné !
+
+Quoi ? Vous seriez capable de l'épouser ?
+
+Et vous l'emmèneriez à Achem ?
+
+Vous y seriez bien reçu, ma foi.
+Le Roi, suivant les apparences,
+Blâmerait votre engagement.
+Il est raide, en fait d'alliances,
+Comme un grand seigneur allemand.
+
+Chut ! La Reine paraît. Jarnonbille ! Qu'elle ne s'aperçoive de rien.
+L'amour dont notre honneur s'offense,
+Se doit condamner au silence :
+L'amour qu'on nous peut reprocher, er, etc
+Ne saurait trop bien se cacher, er, etc.
+
+Comment-va-t-il se tirer de là ?
+
+Le voilà bien embarrassé !
+
+Comme diable elle lui ferre le bouton !
+
+C'est, ma Princesse, son humeur.
+Il en dit bien moins qu'il ne pense
+Y avançe, y avance, y avance !
+Pardonnez lui son indolence.
+
+Que ne suis-je à sa place,
+Madame, hélas !
+Je ferais bien mieux fête à vos appas.
+
+Ah ! Misérable, vous cassez les vitres.
+
+Courage ! Achevez de nous perdre, par votre chienne de franchise.
+
+Nous en sommes quittes à bon marché.
+
+Au plutôt je vous rejoindrai.
+
+J'en suis bien-aise pour l'amour de vous.
+
+Seigneur, pourvoyez-vous d'un autre confident.
+La Fortune aujourd'hui m'élève au plus haut rang :
+Je dois tâter ce soir, de la grandeur humaine.
+Pour vous le couper court, j'épouse...
+
+      La Reine.
+
+C'est un fait constant. Elle ne vous aime plus.
+Au Trône elle me destine ;
+Car elle même me l'a dit :
+Moitié pour vous faire dépit,
+Et moitié pour ma bonne mine.
+Moitié pour etc.
+
+Pierrot ! Pierrot ! Ce nom m'assomme.'
+Il est trop bas, trop familier.
+Et je prétends que l'on me nomme
+Dès aujourd'hui
+      Pierre Premier.
+
+Oui, je prétends que l'on me nomme
+Dès aujourd'hui Pierre Premier.
+
+Oh, que si ! Nous nous verrons par Ambassadeurs.
+Adieu, Frère. Je vais retrouver Zélica, qui m'attend pour me couronner. Adieu. Bon voyage.
+Tandis qu'avec la soubrette
+Vous allez, fendant les flots,
+Tenir à cette Poulette
+Mille et mille doux propos ;
+De sa Maîtresse charmante,
+Moi parfaitement content,
+Je vais répondre à l'attente
+Des Peuples du Barostan.
+
+Ah ! Ma Mignonne, je demande grâce pour lui. Je me souviens toujours d'avoir été à son service. Bon sang ne peut mentir.
+
+Ha ! Quelle tricherie ! Vous êtes donc, vous, la véritable Nour ?
+
+Non, ma foi.
+
+Le marché tiendra.
+
+Oh s'en passera :
+N'y a pas d'mal à ça.
+

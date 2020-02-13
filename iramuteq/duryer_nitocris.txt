@@ -1,477 +1,19 @@
 
 
-**** *book_ *id_I01 *act_I *date_1648
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nitocris
 
--*who_araxe
-En vain j'ai relevé ma fortune abattue,
-En vain de tant de gloire elle s'est revêtue,
-Son calme n'est pour moi qu'un calme dangereux,
-Et le bien que je tiens ne me rends pas heureux.
-Plus le destin me donne en cette ample carrière,
-Et plus à mes désirs je trouve de matière.
-Triste condition de l'homme infortuné
-Dont le coeur n'est jamais ni content ni borné !
-Lors que je m'imagine obtenir la victoire
-De tout ce qui blessait mon repos et ma gloire,
-Je trouve dans moi-même un ennemi nouveau,
-Mon propre esprit me gêne, et devient mon bourreau.
-
--*who_atis
-Qu'est-ce que votre esprit se forme et se propose ?
-Et que désire-t-on quand on a toute chose ?
-
--*who_araxe
-Hélas quand un esprit ne peut goûter son bien
-Même en possédant tout il ne possède rien.
-
--*who_atis
-On ne voit toutefois aucun signe d'orage,
-Et le Ciel est pour vous tranquille et sans nuage.
-Vous tenez à la Cour et la place et le rang
-Que doivent occuper le mérite et le sang,
-Bref, on vous y regarde au degré de vos pères
-Comme dispensateur des fortunes prospères,
-Seriez-vous malheureux dans ces heureux instants
-Qu'un seul de vos regards rend les autres contents ?
-
--*who_araxe
-Il est vrai qu'à me voir, parmi cette abondance
-On doit me croire heureux, si l'on croit l'apparence ;
-Mais ce qui me tient lieu de cent calamités
-C'est d'avoir un égal qui marche à mes côtés.
-Que de biens et d'honneurs le Ciel nous assouvisse,
-Il ne nous donne rien que pour notre supplice
-Lors qu'avec ses faveurs, un trait de son courroux
-Nous donne un compagnon aussi puissant que nous.
-
--*who_atis
-Quoi Seigneur, Cléodate...
-
--*who_araxe
-      Oui Cléodate même
-Est celui que je crains quand il faut que je l'aime.
-
--*who_atis
-Seigneur, c'est toutefois par les soins qu'il a pris
-Que vous êtes en grâce auprès de Nitocris.
-Pour vous sa seule main fidèle et généreuse
-Soutint votre fortune autrefois malheureuse ;
-Et par une vertu qu'on ignore à la Cour
-Votre calamité fit briller son amour ;
-Enfin un Compagnon qui lui sera semblable
-Est plutôt un appui qu'un fardeau redoutable.
-
--*who_araxe
-Oui, sa seule amitié plus forte que le sort
-Dans mes jours orageux fut mon guide et mon port,
-Et pour ne pas montrer une âme trop ingrate
-Je dois ce témoignage aux soins de Cléodate.
-Mais c'est à mon avis le plus grand de nos maux
-De devoir notre gloire aux soins de nos égaux,
-Et lorsque de leurs mains, on tient une victoire
-Confesser qu'on la doit c'est trop payer sa gloire.
-Une secrète honte en revient dans mon coeur,
-En vain je la repousse, en vain j'en suis vainqueur,
-Toujours elle y renaît, toujours elle l'emporte,
-Et plus elle y renaît, plus elle devient forte.
-Bref, je crains que ce feu que je laisse allumer
-Me force de haïr ce que je dois aimer.
-Je le confesse, Atis, ses peines fortunées
-Redonnèrent le calme à mes tristes journées,
-Mais enfin je voudrais qu'ennemi de mon bien
-Il m'eût laissé périr pour ne lui devoir rien.
-Si le coup de ma mort si longtemps poursuivie
-Eût de mes ennemis la fureur assouvie,
-Je n'aurais pas la honte en ce pompeux état
-Et de devoir ma gloire, et d'en paraître ingrat,
-Et peut-être qu'heureux en mon malheur extrême
-Le sort qui m'abaissa m'eût relevé lui-même.
-J'aime enfin Cléodate, et sa fidélité,
-Mais je hais sa fortune, et notre égalité ;
-Un peu plus bas que moi c'est un objet aimable,
-Mais dans le même rang il m'est épouvantable ;
-Ainsi pour mon repos, et sans plus y penser
-Il faut perdre de lui ce qui peut me blesser ;
-Et s'il ne se peut pas que sa grandeur périsse
-Sans qu'il tombe lui-même au même précipice,
-Il n'importe qu'il tombe, et sans trouver d'appui
-Que même chute entraîne et sa grandeur et lui.
-C'est faiblesse d'esprit, c'est être malhabile,
-D'épargner un ami quand sa perte est utile.
-
--*who_atis
-Voulez-vous donc le perdre et le priver du jour ?
-
--*who_araxe
-Je veux adroitement l'éloigner de la Cour,
-Et durant son absence ôter à sa fortune
-Tout ce qu'elle a de grand, et ce qui m'importune,
-Et le mettre en état qu'il dépende de moi,
-Qu'il me doive bientôt autant que je lui dois.
-
-**** *book_ *id_I02 *act_I *date_1648
-
--*who_atis
-Le voici.
-
--*who_araxe
-      Laisse-nous.
-
--*who_atis
-      Dieux quelle ingratitude !
-
--*who_araxe
-Vous paraissez atteint de quelque inquiétude,
-Auriez-vous des douleurs, seriez-vous en danger,
-Sans que notre amitié me les fît partager ?
-C'est m'avoir déjà fait une injure trop grande
-Que d'avoir enduré que je vous le demande.
-
--*who_cleodate
-Il est vrai, je l'avoue, un furieux tourment
-Me suit de tous côtés, me presse incessamment ;
-Enfin privé de force et presque sans remède
-Je vous viens maintenant implorer à mon aide.
-
--*who_araxe
-Je suis prêt, Cléodate, où faut-il donc courir ?
-Faut-il vivre pour vous, ou bien faut-il mourir ?
-J'embrasse également ou la mort ou la vie.
-
--*who_cleodate
-Vous pouvez sans péril contenter mon envie
-
--*who_araxe
-Mais enfin quel tourment vous travaille si fort ?
-En quoi vous puis-je aider ?
-
--*who_cleodate
-      Enfin par un effort
-À quoi l'on donnera de la gloire ou du blâme
-Selon la passion que chacun a dans l'âme,
-À moi-même propice ou cruel à mon tour
-Je me suis résolu d'abandonner la Cour.
-
--*who_araxe
-D'abandonner la Cour ! Ô dieux, quelle surprise !
-Cléodate en ce rang ferait cette entreprise !
-Cléodate est assis dans le siège des Dieux,
-Et lassé de la gloire il veut quitter les Cieux !
-Non, non, je ne saurais...
-
--*who_cleodate
-      Non, non, laisse-moi faire,
-Au dessein que je fais ne te rend point contraire.
-Je sais que ta raison m'en voudra divertir,
-Je sais que ton amour n'y pourra consentir,
-Mais si je me fais tort souffre je t'en conjure
-Que mon esprit blessé me fasse cette injure.
-N'oppose point ici ta peine et ton effort
-À mon vaisseau brisé qui veut aller au port,
-Et pour contribuer à le pousser toi-même
-Et pour favoriser ma passion extrême,
-Tâche à te figurer que ma prospérité
-Est un puissant obstacle à ta félicité,
-Que par une faiblesse à l'homme trop commune
-Je puis me repentir de ta bonne fortune,
-Que dans le rang de gloire où le Ciel nous a mis
-Un songe seulement peut nous rendre ennemis,
-Et qu'il vaut mieux céder une si belle place
-Que si tu me l'ôtais ou que je te l'ôtasse.
-
--*who_araxe
-Je sais que ton dessein est grand et généreux,
-Et qu'avec tes vertus il peut te rendre heureux,
-Je sais bien que la Cour si sujette aux orages,
-De même que la mer est un lieu de naufrages,
-Et que s'en retirer quand on est dans l'honneur
-C'est aller triompher, c'est un nouveau bonheur
-Que le sort inconstant qui se plaît à nous nuire
-Avec tout son pouvoir ne saurait plus détruire.
-Bref, je souhaiterais que ce même dessein
-Par un peu de vertu pût naître dans mon sein,
-Je me signalerais par une illustre fuite
-Et t'en disputerais la gloire et le mérite.
-Je n'oserais pourtant te donner un conseil,
-De peur de me priver d'un ami sans pareil ;
-Et je n'oserais aussi par un effort contraire
-M'opposer à tes veux de peur de te déplaire.
-Mais au moins ne fais rien de trop précipité.
-
--*who_cleodate
-Le Conseil en est pris, le sort en est jeté.
-La Reine a déjà su de ma plainte secrète
-Que mon plus grand bonheur consiste en ma retraite,
-Et son esprit divin sur le nôtre absolu
-Doit m'apprendre aujourd'hui ce qu'il a résolu.
-Mais enfin le secours le plus considérable
-Que ma douleur attend de ton soin favorable,
-C'est de faire à la Reine approuver mon départ
-Si son intention se portait autre part.
-
--*who_araxe
-C'est à tes ennemis, c'est à leur artifice
-Que tu dois demander ce funeste service.
-Moi dont le bras armé voudrait te retenir
-Je m'irais employer à te faire bannir !
-
--*who_cleodate
-Si le bannissement est ma plus douce attente
-Peux-tu mieux me servir qu'en ce qui me contente ?
-Qu'importe en quoi l'on serve un coeur persécuté
-Pourvu que l'on le serve, et qu'on l'ait contenté.
-
--*who_araxe
-Il faut donc malgré moi plaire à ta frénésie,
-Et te servir enfin selon ta fantaisie.
-
--*who_cleodate
-Mais ne me promets pas pour nuire à mon dessein.
-
--*who_araxe
-Doutez-vous de ma foi ?
-
--*who_cleodate
-      Non, non, j'en suis certain.
-Mais en cette rencontre où tu sembles me plaindre,
-Un ami croit sans blâme, et nous tromper et feindre.
-
--*who_araxe
-Non, je ne feindrai point, et je te le promets
-De suivre exactement tes voeux et tes souhaits.
-
--*who_cleodate
-Si j'avais mis ton sort aussi haut qu'il doit être,
-Ainsi ton amitié m'en pourrait reconnaître.
-
--*who_araxe
-Mais ne saurai-je point le sujet malheureux
-Qui te rendra toi-même injuste et rigoureux ?
-Faut-il que je l'ignore et que tu m'y contraignes ?
-
--*who_cleodate
-Tu le sauras, Araxe, afin que tu me plaignes,
-Et que selon mes voeux ton propre jugement
-Me condamne plutôt à mon bannissement.
-J'aime, et mon coeur charmé du feu qui le dévore
-Voudrait dire j'aimai, sans dire j'aime encore.
-J'aime, mais d'un amour qui ne peut rien souffrir,
-Non pas même l'espoir qui pourrait le nourrir.
-Mais laissons là le mal et songeons aux remèdes.
-
--*who_araxe
-Mais enfin qu'aimes-tu ?
-
--*who_cleodate
-      La princesse des Mèdes.
-
--*who_araxe
-Axiane !
-
--*who_cleodate
-      Elle-même avecque ses appas
-Elle me fait la guerre et ne le pense pas.
-Mon coeur comme un captif qui redoute son Maître
-Devant elle brûlant n'osa jamais paraître,
-Et jusqu'ici ses yeux trop aimables flatteurs
-N'ont pas de leur triomphe été les spectateurs.
-Ce n'est pas toutefois qu'une honte invincible
-Ait caché cette flamme, et la rende invisible ;
-Non, non, Je ne suis pas de ces timides coeurs
-Qui craignent de paraître aux yeux de leurs vainqueurs,
-Je dirais mon amour à des Déesses même,
-N'est-ce pas adorer que de dire qu'on aime ?
-Et taire à la beauté l'amour qu'on en reçoit
-N'est-ce pas retenir le tribut qu'on lui doit ?
-Mais si tu n'ignores pas que suivant ces maximes
-Que l'intérêt des Rois rend pour eux légitimes,
-La Reine veut garder Axiane à la Cour
-Pour tenir en suspens les Princes d'alentour,
-Pour ruiner entre eux la paix et l'alliance,
-En leur laissant à tous une égale espérance,
-Et conserver enfin la concorde avec eux
-Tant qu'ils espéreront cet objet glorieux.
-Ainsi connaissant bien qu'une flamme si vaine
-Blesserait et les yeux et le coeur de la Reine,
-Pour elle ayant vaincu des peuples belliqueux,
-Pour elle je saurai me vaincre aussi bien qu'eux.
-Mais dans le triste état où mon âme est réduite
-Je ne puis me sauver que par ma seule fuite ;
-Que si l'éloignement ne peut me secourir
-Je mourrai de douleur, et ce sera guérir.
-
--*who_araxe
-Depuis quand cet amour est-il dedans ton âme,
-Qu'on en n'a jamais vu le moindre trait de flamme ?
-
--*who_cleodate
-Hélas ! Trois ans entiers ont achevé leur cours
-Depuis qui je combats ces fatales amours.
-Quand le Scythe ennuyé de sa stérile terre
-Chez les Mèdes surpris eût apporté la guerre,
-Et qu'à leur violence, et qu'à leur cruauté
-Le père d'Axiane eût en vain résisté,
-Comme pour elle seule il craignait la tempête,
-Qui menaçait son peuple, et son trône et sa tête,
-Il la fit, tu le sais, venir en cette Cour,
-Où bientôt de la Reine elle gagna l'amour.
-Je la fus recevoir, je dirai-je sans blâme ?
-Hélas ! Je la reçus, et ce fut dans mon âme.
-Dès l'instant que je vis cette illustre beauté,
-Son règne commença dans mon coeur enchanté.
-Ce coeur qui fut toujours, et si libre et si brave
-Prit enfin du plaisir à devenir esclave,
-Et comme on est aveugle aussitôt qu'amoureux
-Il crut que sa prison le rendrait bienheureux,
-Il ne regarda point quelle en serait l'issue,
-Et se serait flatté quand même il l'aurait sue.
-Ainsi j'aime Axiane, et dans ce coeur blessé
-Son empire fut grand dès qu'il eut commencé.
-Son père cependant pressé de tant d'alarmes
-Implora de la Reine et la force et les armes ;
-Tu sais qu'on m'envoya pour lui donner secours,
-Que je rendis le calme à ses timides jours,
-Et que je le remis dans ce siège de gloire,
-Où son fils aujourd'hui jouit de sa victoire,
-Car ce Roi plein d'honneur et de ravissement
-Passa bientôt après du trône au monument.
-Que je revins content de ce fameux voyage
-Où l'amour animait mon bras et mon courage !
-Je crus que la victoire accompagnant mes pas
-Favorisait mes voeux, me donnait des appas,
-Et qu'une fille illustre à qui la gloire est chère
-Aimerait le vainqueur qui fit régner son père.
-Mais la Reine aussitôt m'instruisit du dessein
-Qu'une raison d'état inspire dans son sein,
-Et comme il faut lui plaire, et qu'elle est absolue
-Il fallut approuver le dessein qui me tue.
-Voilà mon sort, Araxe, est-il à souhaiter ?
-
--*who_araxe
-Avecque ton amour il est à redouter.
-Je le confesse enfin ta fuite est nécessaire.
-C'est ainsi qu'on peut vaincre un si grand adversaire.
-Que si victorieux de ce puissant amour
-Tu veux dans quelque temps revenir à la Cour,
-Tes services passés, ta foi toujours fidèle
-T'en ouvriront toujours la porte la plus belle ;
-Ou si tes ennemis voulaient te la fermer
-J'y suis pour te défendre, et pour les désarmer.
-
--*who_cleodate
-J'emporte au moins ce bien de ma faveur extrême
-Que tous mes ennemis consistent en moi-même,
-Et c'est en ce seul point que mon destin me plaît.
-Mais la Reine revient, écoutons notre arrêt.
-
-**** *book_ *id_I03 *act_I *date_1648
-
--*who_nitocris
 J'ai d'un oeil attentif regardé votre affaire,
 Et je sais contenter quiconque sait me plaire.
 Mais enfin j'ai jugé quoi que vous prétendiez,
 Que vous ne saviez pas ce que vous demandiez.
 
--*who_cleodate
-Quoi Madame !
-
--*who_nitocris
       Il suffit, m'en parler davantage
 Ce n'est pas m'obliger, c'est me faire un outrage.
 
--*who_cleodate
-Madame.
-
--*who_nitocris
       On vous oblige avec un tel refus.
 
--*who_araxe
-Qu'ai-je ouï !
-
--*who_nitocris
       Demeurez, et ne contestez plus.
 
--*who_cleodate
-Araxe il faut mourir si ta force ne m'aide,
-Mon mal devient plus grand, plus j'en vois le remède.
-
-**** *book_ *id_I04 *act_I *date_1648
-
--*who_alcine
-Mais d'où vient qu'Axiane a l'esprit si changé
-Depuis que Cléodate a demandé congé ?
-
--*who_axiane
-Hélas ! Tu dois savoir...
-
--*who_alcine
-      Quoi ! Que voulez-vous dire ?
-
--*who_axiane
-Ha que ne dit-on pas lorsque le coeur soupire ?
-
--*who_alcine
-Tel discours, tel soupir est souvent un témoin
-Que l'amour est au coeur ou qu'il n'en est pas loin ;
-Et même à Cléodate étant si redevable
-Croire que vous l'aimez c'est vous croire équitable.
-
--*who_axiane
-Oui j'aime ses vertus qui sont de grands appas.
-
--*who_alcine
-Vous aimez ses vertus, et vous ne l'aimez pas !
-Vous soupirez pourtant, et quoi qu'on puisse dire
-Pour les seules vertus rarement on soupire ;
-Ou si l'on soupire il est à présumer
-Qu'on aime beaucoup plus que l'on ne pense aimer.
-Ne dissimulez point, l'amour n'est pas faiblesse
-Quand son objet est noble.
-
--*who_axiane
-      Enfin je le confesse ;
-Lorsque par un dessein propice ou rigoureux
-On aime la vertu d'un homme généreux,
-Je sens bien par les soins que mon âme se donne
-Que peu s'en faut aussi qu'on n'aime sa personne.
-Depuis l'instant fatal que nous eûmes appris
-Qu'il veut abandonner la Cour de Nitocris,
-Hélas ! Je reconnais plus mon oeil le regarde
-Qu'il était dans mon coeur sans que j'y prisse garde,
-Que sans le ressentir l'âme peut s'enflammer,
-Et qu'on aime parfois sans que l'on pense aimer.
-Mais de grâce dis-moi, toi que je veux en croire
-S'il est honteux d'aimer l'auteur de notre gloire ?
-Puis-je moins lui donner ? Lui serait-il moins dû
-Qu'une place en mon coeur pour un trône rendu ?
-Enfin si je ne l'aime, il ne faut rien te feindre,
-Je cherche les raisons qui peuvent m'y contraindre.
-Enfin si je ne l'aime, au moins m'avoueras-tu
-Que je pourrais l'aimer avec tant de vertu ;
-Et comme je dois tout à son courage extrême
-Je crois qu'il me fait tort s'il ne croit que je l'aime,
-Et s'il juge mon coeur et grand et généreux
-Il doit en sa faveur le juger amoureux.
-
--*who_alcine
-Qui sait s'il n'aime pas ? Au moins les grandes âmes
-Font gloire de brûler dans de si belles flammes.
-
--*who_axiane
-Au moins c'est un effet que l'amour produit peu
-Que de quitter les lieux où le coeur est en feu ;
-Et l'âme un peu constante en ses prisons réduite
-Aime mieux y mourir que de prendre la fuite.
-
--*who_alcine
-Mais en le retenant peut-on vous obliger ?
-
--*who_axiane
-Si tu connais l'amour je t'en laisse juger.
-
-**** *book_ *id_II01 *act_II *date_1648
-
--*who_nitocris
 Ô toi qui rends partout mes armes fortunées,
 Qui soumis à mes lois des têtes couronnées,
 Puissance souveraine es-tu faible à ton tour
@@ -519,21 +61,9 @@ La honte de me voir sujette d'un sujet.
 Mon front a trop rougi du défaut de mon âme.
 Mais qu'Araxe veut-il.
 
-**** *book_ *id_II02 *act_II *date_1648
-
--*who_araxe
-      Je viens ici, Madame,
-Poussé par Cléodate.
-
--*who_nitocris
       Hé quoi veut-il par vous
 Solliciter sa perte, et mon juste courroux.
 
--*who_araxe
-Au moins il veut partir, et quoi que l'on en pense
-Il croit que sa retraite est une récompense.
-
--*who_nitocris
 Ô dieux qu'on a de peine à demeurer heureux ?
 Mais c'est trop me braver, qu'il parte, je le veux,
 Il est de mon repos ainsi que de ma gloire
@@ -556,234 +86,12 @@ Et que leurs actions publiques ou secrètes
 Trouvent de tous côtés d'injustes interprètes.
 Dites à Cléodate...
 
--*who_araxe
-      Il est bien résolu.
-
--*who_nitocris
 Quoi de choquer ici mon pouvoir absolu ?
 
--*who_araxe
-Mais si votre refus comme je l'appréhende
-Lui fait prendre de soi le congé qu'il demande ?
-Pour moi j'approuverais de le laisser partir,
-Assuré que bientôt il doit s'en repentir,
-Et qu'enfin le remords que son caprice enferme
-Vous le rendra bientôt plus constant et plus ferme.
-Ainsi le repentir qui le ramènera
-Fera taire les bruits, et vous justifiera.
-Enfin votre intérêt veut qu'on lui fasse croire
-Que vous pouvez sans lui conserver votre gloire.
-On retient quelquefois ces esprits orgueilleux
-En leur faisant savoir qu'on peut se passer d'eux.
-
--*who_nitocris
 Il y faudra penser, l'affaire le mérite.
 
-**** *book_ *id_II03 *act_II *date_1648
-
--*who_araxe
-Il faut gagner pourtant ce que je sollicite,
-Et vaincre par adresse ou par autorité
-L'obstacle injurieux de ma félicité.
-
--*who_atis
-Mais gardez que sur vous ne fonde la tempête,
-Tandis que vous croyez la pousser sur sa tête.
-Vous voyez que la Reine a d'autres sentiments.
-Pourquoi presser si fort ?
-
--*who_araxe
-      Pour vaincre mes tourments.
-Il faut te dire enfin pour ma propre allégeance
-Jusqu'où ma vanité porte mon espérance.
-Depuis qu'à ses sujets la Reine a fait juger
-Qu'aux lois du mariage elle veut s'engager,
-Et que de son État la charge étant trop forte
-Elle veut qu'un époux avec elle la porte,
-J'ai cru que dans le rang où le Ciel me fait voir
-Elle me permettrait et l'amour et l'espoir.
-Enfin j'en veux au trône où tout est adorable,
-Enfin j'y veux monter, ou je veux qu'il m'accable,
-Et je satisferai mon généreux orgueil
-Si le trône est mon ciel, ou s'il est mon cercueil.
-Mais afin d'espérer et sans crainte et sans peine,
-Il faut voir Cléodate éloigné de la Reine.
-Ce n'est pas que je craigne ainsi qu'un autre mal
-Que son ambition le rende mon rival,
-Ou qu'une grande Reine indignement blessée
-Abaisse jusqu'à lui son coeur et sa pensée ;
-Mais comme elle se rend attentive à sa voix
-Et que de ses conseils elle se fait des lois,
-Si je puis par adresse inspirer dans son âme
-De me favoriser de sceptre et de sa flamme
-Je crains que Cléodate alors injurieux
-N'oppose à mon bonheur des conseils odieux.
-Il me veut pour ami, ses soins le font paraître,
-Mais nous pouvons douter s'il me voudrait pour maître :
-Tel aime ses amis plus que soi mille fois
-Qui les détesterait s'ils devenaient ses Rois.
-
--*who_atis
-Vous ne pensez donc plus à la Princesse Alcine,
-Ce n'est donc plus son oeil dont l'amour vous domine,
-Et cette passion dont vous sembliez charmé
-N'était donc qu'un portrait d'un amour enflammé.
-
--*who_araxe
-Il faut, il faut pourtant lui laisser toujours croire
-Que de son seul amour je fais toute ma gloire.
-Comme Alcine gouverne et la Reine et son coeur,
-Elle peut commencer à m'en rendre vainqueur,
-Et pensant seulement me mettre dans sa grâce
-Elle peut dans son coeur me donner une place,
-Pendant que des amis et fidèles et forts
-Feront en mêle temps agir d'autres ressorts.
-Je sais bien que je trompe une fille adorable,
-Je sais que je me rends infidèle et coupable,
-Mais le sceptre qui s'offre à l'esprit enchanté
-Est une belle excuse à l'infidélité.
-C'est sans doute en nos coeurs une louable envie
-De vouloir que l'amour dure autant que la vie,
-Mais quoi qu'un noble amour puisse nous enseigner
-Le plus beau des désirs c'est celui de régner.
-Si tant et tant de fois comme avons ouï dire
-Qu'on peut tout violer pour gagner un empire,
-T'imaginerais-tu qu'on en eût excepté
-Les ridicules lois de la fidélité ?
-Ceux qui vont à la gloire ont une autre maxime,
-Ils se font des vertus de ce qu'on nomme crime,
-Enfin c'est être lâche, enfin c'est se trahir
-Que de pouvoir régner et vouloir obéir.
-
--*who_atis
-Alcine vient ici.
-
-**** *book_ *id_II04 *act_II *date_1648
-
--*who_alcine
-      Je cherche ici la Reine.
-
--*who_araxe
-Et moi je l'y rencontre, Alcine me l'amène,
-Et par tous les endroits où reluisent ses yeux
-Je trouve en même temps et mes Rois et mes Dieux.
-
--*who_alcine
-C'est pour moi, dites-vous, que votre âme soupire !
-Votre coeur est trop bas s'il veut moins qu'un Empire ;
-C'est pour le trône seul qu'il forme des désirs,
-C'est dans le trône seul qu'il trouve ses plaisirs,
-Et si ce coeur Royal ne court après les Reines
-Il croit mal employer et ses voeux et ses peines.
-Vous faites bien, Araxe, et si l'on doit aimer,
-Le trône est la beauté qui doit nous enflammer.
-
--*who_araxe
-Quel tonnerre ai-je ouï ! Quel plus rude martyre !
-Que dites-vous, Madame, ou que voulez-vous dire ?
-
--*who_alcine
-Ce que me répondrait votre coeur innocent
-S'il pouvait se résoudre à dire ce qu'il sent.
-Vous pouvez l'avouer sans en craindre aucun blâme.
-Ces désirs relevés font voir une belle âme,
-Et si je suis au coeur d'un Prince si parfait,
-Je vois ce qu'on y trame et tout ce qui s'y fait.
-
--*who_araxe
-Me confonde le Ciel si jamais la nature
-Vit naître dans le monde une amitié plus pure.
-Le sceptre a des appas pour les ambitieux,
-Mais le sceptre sans vous déplairait à mes yeux.
-Je le jure, Madame, et si je vous offense
-Les Dieux ne sont pas Dieux, s'ils n'en prennent vengeance.
-Atis qui voit mon coeur ainsi que je le vois,
-Vous dira si mon coeur est semblable à ma voix.
-Parlez, parlez, Atis, ou bien plutôt, Madame,
-Commandez que ma main vous découvre mon âme,
-Et je vous ferai voir si l'on aime un vainqueur
-Alors que pour lui plaire on se perce le coeur.
-
--*who_alcine
-Si vous m'obéissez, je serais trop cruelle,
-Si vous me refusiez, vous seriez un rebelle,
-Quoi qu'il en soit, Araxe, après tant de combats,
-Je crains d'être obéie, et de ne l'être pas ;
-Et lorsqu'on veut mourir pour montrer que l'on aime,
-Araxe, l'on en prend le congé de soi-même.
-
--*who_araxe
-Mais aussi refuser le congé de mourir,
-C'est commander de vivre à qui voudrait périr ;
-Et c'est donner sans doute une preuve assez grande
-Que l'on veut conserver celui qui le demande.
-Je vivrai donc pour vous, et pour vous faire voir
-Que ma mort et ma vie est en votre pouvoir.
-J'ai cherché jusqu'ici la faveur de la Reine
-Avec inquiétude, et même avecque peine,
-Et n'ai cherché ce bien dont votre oeil est jaloux
-Que pour être plus digne et plus aimé de vous.
-Cependant ô malheur de l'amour la plus vraie
-Qui fit jamais dans l'âme une incurable plaie,
-On me hait, on me tue, on tâche à me blâmer
-Par la même raison qui doit me faire aimer.
-Ha ! C'est trop, cher Atis, tâche à lui faire croire
-Ce qu'elle devrait voir, que l'aimer est ma gloire.
-
--*who_alcine
-Il me gagne peut-être avec un faux transport.
-Qu'on est faible, bons Dieux, quand l'amour est trop fort !
-Hé bien je suspendrai ma colère et ma haine.
-
--*who_araxe
-Ainsi j'espérerai.
-
--*who_alcine
-      Mais je vais chez la Reine.
-
--*who_araxe
-Et moi je vais languir, jusqu'à ce que les Dieux
-M'ouvrent entièrement ou l'Enfer, ou les Cieux.
-
-**** *book_ *id_II05 *act_II *date_1648
-
--*who_alcine
-À quelle extrémité me suis-je transportée ?
-Et jusqu'où le soupçon m'a-t-il précipitée ?
-Mais à qui le soupçon dont un coeur est gêné,
-Ne semble-t-il pas vrai quand l'amour l'a donné ?
-Et s'il faut croire enfin ce que m'a dit la Reine,
-Qu'il lui parle en captif, qui respecte sa chaîne,
-Après ce témoignage, et ces tristes leçons
-Qui dois-je condamner, Araxe, ou mes soupçons ?
-Et comme la Couronne en gloire si féconde
-Est la seule beauté qui plaît à tout le monde,
-Ce bien si désiré, ce bien si précieux
-Ne charmerait-il pas un coeur ambitieux ?
-Hélas j'accuse Araxe, et l'excuse moi-même
-Quand je vois la splendeur que jette un diadème.
-Quel esprit si constant ne s'emporterait pas
-Quand le chemin du trône est ouvert à ses pas ?
-Et qui pour conserver le titre de fidèle
-Ne voudrait pas courir quand un trône l'appelle ?
-Moi-même dont l'amour plein d'ardeur et de foi
-Ne crois rien de plus grand, ni de plus fort que soi,
-Peut-être aurais-je aussi le blâme que je donne
-Si l'on m'avait tentée avec une Couronne.
-Au moins j'arrêterai par de puissants efforts
-De mon ambitieux les pas et les transports,
-Au moins j'empêcherai qu'Araxe qui me gêne
-N'entre en victorieux dans l'esprit de la Reine.
-
-**** *book_ *id_II06 *act_II *date_1648
-
--*who_nitocris
 Araxe.
 
--*who_alcine
-      Il est sorti.
-
--*who_nitocris
       Qui ne s'étonnerait
 De l'étrange dessein que son ami conçoit ?
 Quelles justes raisons peut avoir Cléodate
@@ -791,13 +99,6 @@ D'abandonner des lieux où le destin le flatte ?
 Où sa vertu le met plus haut que ses souhaits,
 Et n'a pas moins d'amis que j'ai de bons sujets ?
 
--*who_axiane
-Je m'en étonne.
-
--*who_alcine
-      Et moi je ne saurais le croire.
-
--*who_nitocris
 Il est vrai toutefois qu'il veut quitter sa gloire.
 Mais enfin vous savez ce que j'ai résolu,
 Que mon esprit est las du pouvoir absolu,
@@ -820,411 +121,9 @@ Ne suivra point la loi d'un Tyran aveuglé.
 Dites donc votre avis, et sans que l'on me flatte
 Lequel dois-je choisir, Araxe, ou Cléodate ?
 
--*who_axiane
-La justice elle-même en cet événement
-Aurait beaucoup de peine à rendre un jugement,
-Et de quelque côté que penche un choix auguste,
-Il est juste, Madame, et tout ensemble injuste.
-Pourquoi pour l'un des deux prononcer aujourd'hui
-Si l'autre a mérité qu'on juge aussi pour lui.
-Si quelque chose entre eux met de la différence,
-Ce n'est pas la vertu, c'est la seule naissance.
-En effet, Cléodate est descendu d'un sang
-Trop éloigné du vôtre, et trop de votre rang ;
-Sa vertu, dira-t-on, qui s'élève elle-même
-Vaut mieux que la naissance et que le diadème ;
-Mais enfin ce discours qu'on se plaît d'écouter
-N'est raison que pour ceux qui veulent se flatter.
-Le trône veut un sang qui le rende adorable,
-Le peuple veut un Roi qui lui soit vénérable,
-Et qui force au respect et l'esprit et les yeux
-Par une longue suite et de gloire et d'aïeux.
-Bien que votre faveur et juste et non commune
-Du fameux Cléodate élève la fortune,
-On remarquera peu le défaut de son sang
-Tandis que de sujet il gardera le rang,
-Car quelque grand honneur qui couronne sa vie
-Le titre de sujet est un nom sans envie ;
-Ou bien si Cléodate a quelque envieux,
-Au moins, ce qui les flatte, il obéit comme eux :
-Mais enfin aussitôt qu'il portera les marques
-Qui font dessus un trône adorer les Monarques,
-Comme le trône est grand, comme le trône est haut,
-Alors de tous côtés on verra son défaut.
-Comme on le regardait par sa seule vaillance,
-On le regardera par sa seule naissance ;
-Et qui peut empêcher un peuple médisant
-De dire que l'amour l'aura rendu si grand ?
-Si je ne vous rends pas victoire pour victoire,
-Je dois, je dois au moins parler pour votre gloire ;
-Puisque Araxe est aimable et sort du sang des Rois,
-Araxe est donc celui dont je ferais le choix.
-
--*who_alcine
-Vos raisons ont sans doute un charme qui m'emporte,
-Et vous pourriez encore en dire une plus forte.
-Il est bien vrai qu'Araxe est sorti de ces Rois
-Qui les premiers au monde imposèrent des lois ;
-Mais à quoi lui servit cette haute naissance
-Qu'à le faire sortir de son obéissance ?
-Ainsi toutes les fois qu'il a considéré
-Que l'on a vu son sang sur un trône adoré,
-N'a-t-il pas témoigné par un effort extrême
-Qu'il voulait sur un trône être adoré lui-même ?
-N'a-t-il pas fait paraître en Prince furieux
-Qu'on doit tout redouter d'un coeur ambitieux ?
-Et que l'illustre sang qui fait les magnanimes
-Est bien souvent aussi la source des grands crimes ?
-Enfin où son orgueil ne sut-il pas aller ?
-On le sait, on l'a vu, je n'en dois point parler,
-Et je ne prétends pas réveiller votre haine
-En vous représentant son crime et votre peine
-Puisque après tant de maux, un pardon généreux
-D'un sujet criminel en fait un Prince heureux,
-Et que son repentir autant que sa défaite
-Fait briller votre gloire et vous a satisfaite.
-Mais est-il honorable à votre majesté
-De donner la Couronne à qui s'est révolté ?
-N'est-ce pas vous priver de votre propre gloire ?
-N'est-ce pas lui céder le prix de la victoire ?
-Et dire à l'Univers qui l'a vu révolter
-Que vous craignez celui que vous sûtes dompter,
-Que le sceptre est un bien qu'il peut enfin vous prendre,
-Et que vous le donnez ne pouvant le défendre ?
-Moindre serait la honte, et l'infortune aussi
-De perdre en résistant que de céder ainsi.
-Pardonnez à l'ardeur qui fait parler mon zèle,
-Pour vous il est hardi, c'est-à-dire fidèle.
-Si quelqu'un avec vous doit régner en ces lieux
-Ceux qui vous font régner le méritent le mieux ;
-Et ceux qui sont toujours grands et toujours adorables
-Ont les vertus des Rois, ont les Rois véritables.
-Cléodate a vaincu, Cléodate est aimé,
-C'est par là que l'on règne et qu'on est renommé,
-Cette haute vertu qui brille en sa personne
-Ayant vaincu des Rois mérite une Couronne.
-S'il n'est pas de leur sang, étant né vertueux
-Il est d'un sang plus noble, il est du sang des Dieux,
-Et sa main qui réduit vos ennemis en poudre
-Peut bien porter un sceptre ayant porté la foudre.
-Puisque enfin Cléodate a les vertus des Rois,
-Cléodate est celui dont je ferais le choix.
-
--*who_axiane
-Araxe a fait depuis tant d'actes magnanimes
-Qu'on pense avoir songé ce qu'on sait de ses crimes
-Et ce Prince fameux qu'on ne peut plus haïr
-Mérite de régner à force d'obéir.
-
--*who_alcine
-Mais au moins Cléodate en tous lieux indomptable,
-Vainqueur des attentats, n'en fut jamais coupable.
-Il fut Dieu tutélaire en ce tragique lieu,
-Et peut en être Roi s'il lui servit de Dieu.
-Le refuseriez-vous, lui que chacun révère ?
-
--*who_axiane
-La Reine m'apprendra ce que je voudrais faire,
-Et nous allons savoir avec son jugement
-Qui de vous ou de moi parle plus sainement.
-
--*who_nitocris
 Je ferai, je ferai ce que le Ciel m'inspire,
 Je sauverai ma gloire, et celle de l'Empire.
 
-**** *book_ *id_III01 *act_III *date_1648
-
--*who_cleodate
-Quoi la Reine y consent ?
-
--*who_achate
-      Oui vous pouvez partir,
-Et bientôt vous en plaindre et vous en repentir.
-
--*who_cleodate
-Dieux qu'ai-je demandé ! Mais il faut se contraindre.
-Enfin je l'ai voulu ; de qui puis-je me plaindre ?
-Hélas que notre esprit sans conduite et sans lois
-Connaît peu ce qu'il fait quand il agit pour soi.
-Poussé par le transport d'une fureur secrète
-J'ai comme un grand secours demandé ma retraite,
-Et lorsque je l'obtiens j'éprouve vivement
-Que j'ai sans y penser demandé mon tourment.
-Je ne commence à voir dans le coup qui m'étonne
-Le prix de mon destin que quand je l'abandonne,
-Et je ne reconnais parmi tant de transports
-Que j'étais dans les Cieux qu'au moment où j'en sors.
-Si je souffre, Axiane, en regardant tes charmes,
-Ces Tyrans adorés à qui je rends les armes,
-Pour le moins je les vois, et si mes maux sont grands
-C'est un bien dans l'amour que de voir ses Tyrans.
-Qu'as-tu fait malheureux, et de quelle pensée
-Ton âme trop aveugle a-t-elle été blessée ?
-Ai-je cru qu'Axiane adorable en tous lieux
-S'enfuirait de mon coeur si je fuis de ses yeux ?
-Comme par un effet de son oeil qui me tue
-On commence à l'aimer aussitôt qu'on l'a vue,
-Ai-je cru trop injuste à son divin pouvoir
-Qu'on cesse de l'aimer en cessant de la voir ?
-Ai-je fait cet outrage à sa force indomptée
-De me persuader qu'elle fût limitée ?
-Non, non, je sens déjà qu'en fuyant ses appas
-Mes liens s'éteindront et ne se rompront pas,
-Et que je suis partout un esclave à la gêne
-Que l'on tient enchaîné par une longue chaîne.
-Croire enfin que l'amour, croire que la beauté
-Ne suive pas partout un esprit enchanté,
-C'est croire que les Dieux limités sur la terre
-Ne peuvent en tous lieux faire choir le tonnerre.
-Changez, changez, ô Dieux qui gouvernez mon sort
-L'arrêt de mon départ en celui de ma mort ;
-Faites-moi confesser que le bonheur extrême
-Consiste seulement à mourir où l'on aime,
-Ou bien s'il faut y vivre avant que d'expirer
-Qu'on m'ôte les grandeurs qui me font révérer,
-Qu'on m'ôte tous ces biens qu'idolâtre un profane,
-On me laissera plus si je vois Axiane.
-Mais les Dieux ont voulu ce que j'ai demandé ;
-Mais ce que j'ai voulu dut-il m'être accordé ?
-J'ai pressé mon départ, il est vrai, mais la Reine
-Me devait refuser cette demande vaine,
-Après tant de service et de maux endurés
-Pour rendre entre ses mains des sceptres assurés,
-Au moins de mes travaux la course infatigable
-Méritait pour son prix ce refus honorable ;
-Et c'est montrer du coeur et de l'affection
-Que de faire un refus en cette occasion.
-Mais que dis-je insensé ? Dont la peine es de vivre
-Je ma plains d'obtenir ce qu'on m'a vu poursuivre,
-Et comme mon esprit est toujours divisé
-Je me plaindrais aussi qu'on me l'eût refusé.
-
-**** *book_ *id_III02 *act_III *date_1648
-
--*who_axiane
-Hélas... Mais je dois tout aux bontés de la Reine,
-Étouffons notre amour.
-
--*who_cleodate
-      La voici. Quelle peine ?
-
--*who_axiane
-Tu veux donc renoncer à ton propre bonheur ?
-Tu veux abandonner et la gloire et l'honneur ?
-Quelles fortes raisons peuvent te faire croire
-Qu'on trouve du repos en sortant de la gloire.
-Quoi que cherche l'esprit pour devenir heureux
-La gloire est le repos des esprits généreux,
-Et la tranquillité des fortunes privées
-Déplaît en peu de temps aux âmes relevées.
-
--*who_cleodate
-Il faut de mon destin con tenter le courroux,
-Si je ne fuis bientôt, je mourrai devant vous.
-
--*who_axiane
-Mais si la Reine a fait un dessein tout contraire,
-Peux-tu lui résister, et ne pas lui déplaire ?
-
--*who_cleodate
-La Reine aurait changé de résolution !
-
--*who_axiane
-Oui, la Reine témoigne une autre intention.
-
--*who_cleodate
-Que je demeurerai !
-
--*who_axiane
-      Je le crois, Cléodate,
-Mais ne murmure point où ton bonheur éclate,
-Elle t'aime sans doute ; et par un digne choix
-Elle veut te placer dans le nombre des Rois.
-Quel sort serait plus noble ?
-
--*who_cleodate
-      Ou quel sort serait pire ?
-Je n'ai pas respiré, qu'il faut que je soupire.
-
--*who_axiane
-Si la Cour a pour toi quelque secret tourment
-Qui t'oblige à penser à ton éloignement,
-Est-il enfin si fort ce mal qui te possède
-Qu'un trône présenté n'en soit pas le remède ?
-Et n'avoueras-tu pas que des sceptres offerts
-Pour arrêter les coeurs sont d'agréables fers ?
-Je te dis ce secret par une crainte extrême
-Qu'en pressant ton départ tu te nuises à toi-même ;
-Et je te dois assez et de bien et d'honneur
-Pour t'exciter au moins d'attendre ton bonheur.
-
--*who_cleodate
-Vous avez trop de soin d'une âme infortunée
-Qui ferait son tourment de se voir couronnée.
-C'était à vous servir que mon sort était doux,
-Ce serait... Mais que dis-je ? Ou bien que dites-vous ?
-La Reine m'aimerait !
-
--*who_axiane
-      Et t'offre une Couronne,
-Je crois qu'un tel avis ne déplaît à personne.
-
--*who_cleodate
-Je reçois toutefois un avis si fatal
-Comme on reçoit la mort quand on la croit un mal.
-
--*who_axiane
-Qui t'oblige à tenir cet étrange langage ?
-
--*who_cleodate
-Beaucoup d'aveuglement, et beaucoup de courage.
-
--*who_axiane
-Qui pourrait contenter tes voeux et tes désirs,
-Si tu mets la Couronne entre tes déplaisirs ?
-Quoi n'aimerais-tu pas une adorable Reine ?
-
--*who_cleodate
-En l'état où je suis j'ai mérité sa haine.
-
--*who_axiane
-Aimes-tu donc ailleurs ?
-
--*who_cleodate
-      Non, non, j'aime en ce lieu.
-J'aime, pour achever il faudrait être un Dieu.
-S'il est vrai toutefois qu'une Reine adorable
-Trouve en moi des sujets d'aimer un misérable,
-Cet amour peut me rendre assez audacieux
-Pour dire que j'adore, et que ce sont vos yeux.
-Si je commets un crime, ou plutôt un blasphème,
-Ce n'est pas en aimant, c'est en disant que j'aime.
-Pardonnez donc au feu qui me fait égarer,
-Chacun a droit d'aimer, mais non pas d'espérer ;
-Et suivant cette loi, qui cause tant d'alarmes,
-Chacun a droit d'aimer vos vertus et vos charmes,
-Les uns pour adorer ce qui les fait souffrir,
-Les Rois pour être heureux, et moi pour en mourir.
-
--*who_axiane
-Non, non, ne pense pas qu'injuste ou dédaigneuse
-Je condamne un amour qui me rend orgueilleuse
-Si des Rois le plus grand, et le plus redouté
-Se tiendrait glorieux de t'avoir surmonté,
-N'est-ce pas à mon sort une pareille gloire
-D'avoir sur Cléodate obtenu la victoire ?
-C'est après tant de biens me faire un nouveau bien
-De me donner ton coeur quand je te dois mien.
-Aussi pour reconnaître une grâce si chère
-Au moins je t'offrirais ce coeur qui te révère,
-Si ce coeur redevable à ton bras fortuné
-Était digne de toi sans être couronné.
-Je te dirais enfin que je veux que tu m'aimes,
-Si je pouvais t'offrir d'illustres diadèmes.
-Mais puisque mon destin par un ordre fatal
-Ne peut à tes vertus être si libéral,
-Au moins je ferais voir que j'aime Cléodate,
-En le priant de vaincre une amour trop ingrate,
-Et de prendre d'une autre équitable en son choix
-Le sceptre et la grandeur que je lui donnerais.
-
--*who_cleodate
-Pour ne me pas donner ces ordres impossibles,
-Apprenez que vos yeux sont des Rois invincibles.
-Quoi j'osai vous aimer n'étant pas assuré
-Que mes chaînes plairaient à votre oeil adoré ?
-Et quand vous estimez cette basse victoire,
-Je vaincrais un amour qui me comble de gloire !
-Je suis grand, je suis Roi, j'ai des trônes dorés,
-Puisque je vous adore et que vous l'endurez.
-Qu'un autre pour régner coure après la puissance,
-Je règne par mes fers et mon obéissance.
-C'est être glorieux, c'est être renommé,
-C'est régner que d'aimer lorsque l'on est aimé.
-Pardonnez à l'amour tout ce qu'il me fait dire,
-C'est la première fois qu'il parle et qu'il respire,
-Pour peu que l'on le flatte, il brûle, il s'enhardit,
-Il se flatte lui-même, et croit plus qu'on ne dit.
-
--*who_axiane
-J'excuse librement cet amour qui t'enchante
-Pourvu que ta fortune en demeure contente ;
-Mais si ce même amour t'ôtait du rang des Rois
-Ainsi qu'un criminel je le condamnerais.
-Je t'aime Cléodate, et parce que je t'aime
-Je veux voir sur ton front briller un Diadème ;
-Je te perdrai contente et telle qu'on me croit
-Si lorsque je te perdis un trône te reçoit.
-Si tu crois que sans moi la plus belle Couronne
-Déplaisante à tes yeux est un mal qu'on te donne,
-Pour le moins c'est un mal qui plaît en peu de temps
-Et que souhaiteraient les coeurs les plus contents.
-Tu sais ce que je dois au secours de la Reine,
-Que par elle je vis, peu s'en faut, souveraine,
-Et que mon sang par elle aujourd'hui glorieux
-Règne dessus le trône où régnaient mes aïeux.
-Pourrais-je mieux payer cette faveur extrême
-Qu'en lui cédant un coeur et qui m'aime et que j'aime ?
-Donne-toi donc pour moi sans plus me contester,
-Puisque c'est par toi seul que je puis m'acquitter.
-Crois que tu fus à moi comme c'est ton envie,
-Et qu'il faut te donner pour le prix de ma vie :
-Me refuserais-tu de payer ce grand bien
-Lorsqu'en servant de prix tu recevras le tien ?
-Que si pour t'obliger d'accepter un empire
-Il ne faut plus t'aimer, et qu'il faille le dire,
-Puisque mes feux sont vains et mes voeux superflus,
-J'ai sur moi ce pouvoir que je ne t'aime plus.
-
-**** *book_ *id_III03 *act_III *date_1648
-
--*who_cleodate
-Ha que diversement votre main redoutable
-Sait se jouer, grands Dieux, du sort d'un misérable !
-J'aime, je suis aimé, l'on m'offre un grand pouvoir,
-Et parmi tant de biens je suis au désespoir !
-Axiane répond à mon amour extrême,
-Et veut que je la quitte, elle même qui m'aime !
-On me présente un sceptre, et l'amour ne veut pas
-Que mes yeux aveuglés y trouvent des appas !
-Tous les biens et les maux que la fortune assemble
-S'offrent à mon esprit, mais confondus ensemble ;
-Et je ne puis choisir dans un sort si fatal
-Que je ne prenne un bien mêlé d'un plus grand mal.
-J'embrasse avec ardeur les fers que l'on me donne,
-Et je crains qu'on me force à prendre une Couronne.
-Enfin je suis esclave avecque ma raison,
-Et ne veux point d'un trône où n'est pas ma prison.
-Ô charmante Axiane ! Ô source de la grâce !
-Si tu voulais ma gloire et qu'enfin je régnasse,
-Il fallait d'un regard de haine et de rigueur
-Réduire au désespoir ce misérable coeur ;
-Et suivant tes desseins par un nouveau caprice
-J'irais, j'irais au trône, ainsi qu'au précipice,
-Et croirais y monter ainsi qu'un malheureux
-Pour me précipiter d'un rocher plus fameux.
-Mais quelle occasion maintenant me ramène
-Ce sage confident des secrets de la Reine.
-
-**** *book_ *id_III04 *act_III *date_1648
-
--*who_achate
-Seigneur, la Reine usant du pouvoir souverain,
-Touchant votre départ a changé de dessein.
-Bref elle vous attend pour une conférence
-Qui tend à partager la suprême puissance,
-Elle y veut votre avis, enfin répondez-y,
-Comme étant assuré de n'être pas haï.
-
--*who_cleodate
-Au moins j'y répondrai comme un sujet fidèle.
-
--*who_achate
-Mais on ouvre, Seigneur, Araxe est avec elle.
-
-**** *book_ *id_III05 *act_III *date_1648
-
--*who_nitocris
 Que chacun se retire, Alcine, et vous aussi,
 Araxe et Cléodate ont seuls affaire ici.
 Vous savez à quel point de puissance et de gloire
@@ -1257,230 +156,19 @@ Et si mon dessein vous approuvez l'effet,
 Vous aimerez aussi le choix que j'aurai fait.
 Parlez, parlez, Araxe.
 
--*who_araxe
-      On serait téméraire
-D'être d'un sentiment qui vous serait contraire ;
-Et le conseil de l'homme est-il considéré
-Quand on est comme vous par le ciel inspiré ?
-Lorsque des Potentats le Ciel prend la défense
-Par cent moyens divers il fonde leur puissance.
-Jusques ici pour vous touché visiblement
-Son amour immortel parut diversement,
-Et sans doute aujourd'hui ce Père des Monarques
-Veut de ce même amour vous donner d'autres marques
-Par le choix d'un sujet plein de zèle et de foi,
-Qui vous soulagera sous le titre de Roi.
-Ainsi ce trône auguste où chacun vous adore
-Avec un double appui sera plus ferme encore.
-Votre pouvoir est grand, il est digne de vous,
-Mais il vous semblera plus aimable et plus doux
-Lorsqu'un Prince obligé par une grande Reine
-Vous en laissant le bien n'en prendra que la peine.
-Pour moi me voilà prêt, suivant toujours vos lois
-De me soumettre au Roi que fera votre choix.
-Déjà mon coeur soumis révère sa puissance,
-Et déjà du désir lui rend obéissance,
-Sachant que par un Dieu votre esprit inspiré,
-Ne peut faire qu'un choix digne d'être adoré.
-
--*who_nitocris
 Cléodate parlez.
 
--*who_cleodate
-      Votre dessein est juste,
-Comme tout ce qui part de votre esprit auguste ;
-Vos voeux seront toujours nos Maîtres et nos Rois,
-Et sont les seuls conseils que je vous donnerais.
-Mais puisque vous voulez que mon zèle s'exprime
-Si je dissimulais je croirais faire un crime.
-Je ne parlerai point contre ce que je crois
-Car c'est un attentat que de flatter les rois.
-Non, non, je ne crois pas, ô Reine incomparable,
-Que l'hymen ait pour vous une chaîne honorable,
-Et que portant partout le respect ou l'effroi,
-Il vous soit glorieux de vous donner un Roi.
-Si votre Majesté devait choisir un Prince
-Qui régit avec vous cette vaste Province,
-C'était lorsque l'État plein de calamités
-Voyait son précipice ouvert de tous côtés,
-Et qu'on ne croyait pas qu'une femme eût des armes
-Plus fortes que ses yeux, et que de faibles larmes ;
-C'était lorsqu'un grand peuple et triste et languissant
-Croyait contre ses maux votre bras impuissant,
-Et non pas aujourd'hui que le Ciel équitable
-A rendu par vos soins le trône inébranlable,
-Et que votre vertu sage et divin rocher
-D'un vaisseau qui flottait en a fait un rocher.
-Si l'on craint que des Rois voisins de cet Empire
-Contre votre grandeur la puissance conspire,
-Tant que dessus un trône autrefois débattu,
-Seule vous régnerez avec votre vertu,
-Ils croiront en grands Rois qui redoutent le blâme,
-Qu'il leur serait honteux d'attaquer une femme,
-Et sous ce voile utile et pour vous et pour eux
-Ils vous protégeront en Princes généreux.
-J'approuverais pourtant ainsi qu'un avantage,
-De laisser quelque espoir d'un si grand mariage :
-Au moins et les plus grands, et les ambitieux
-En espérant toujours vous en serviront mieux,
-Au lieu que quand un choix qui vaut une victoire
-En aura mis un seul au comble de la gloire,
-D'un trône souhaité tous les autres démis
-En deviendront jaloux, et bientôt ennemis ;
-Et quel heureux repos rencontrera la Reine
-Quand le Roi sans plaisir sera toujours en peine ?
-Vous pouvez les réduire, et la force à la main
-En faire des captifs du pouvoir souverain,
-Mais quel est le respect, quand il n'est qu'une feinte ?
-Quelle est l'obéissance alors qu'elle est contrainte ?
-Une rébellion qui ne se montre pas,
-Et qui fait en secret la guerre aux Potentats.
-Araxe qui connaît et son coeur et le nôtre
-Peut répondre de lui, mais le peut-il d'un autre ?
-Régnez, régnez, Madame, avecque votre bien,
-Et laisser espérer, sans donner jamais rien.
-Que chacun vous regarde avec un oeil de flamme,
-Vous régnerez en paix jusques dedans votre âme,
-Si les grands de l'État prosternés devant vous
-En demeurant Rivaux ne sont jamais jaloux.
-Demeurez toute seule au char de la victoire,
-Deux n'y peuvent tenir avecque même gloire.
-Si l'Empire est un faix qui semble vous charger,
-Il le faut porter seul pour le trouver léger.
-
--*who_nitocris
 Je sais vos sentiments, c'est assez pour cette heure,
 Cependant obéis, Cléodate, et demeure ;
 Et si pour toi la Cour est un lieu sans appas,
 Apprends à demeurer où tu ne te plais pas.
 
-**** *book_ *id_III06 *act_III *date_1648
-
--*who_araxe
-Que la Reine me fait un bien incomparable !
-Et qu'en te retenant elle m'est favorable !
-Enfin ses volontés que tu dois respecter
-Me laisse un ami que tu voulais m'ôter.
-
--*who_cleodate
-Enfin ses volontés sont de nouvelles armes
-Qu'elle donne au destin qui m'arrache des larmes.
-
--*who_araxe
-Tu te crois misérable, et pourtant si tu veux
-Il ne tiendra qu'à toi que tu ne sois heureux.
-Veux-tu que je te parle avec cette franchise
-Qu'une longue amitié nous a toujours permise ?
-La Reine a résolu de nous donner un Roi,
-Tâche que son esprit se déclare pour moi.
-Renverse tes raisons par des raisons plus fortes,
-Ouvre-moi de l'Empire et la gloire et les portes,
-Si quelqu'un doit régner, ne vaut-il pas bien mieux
-Que ce soit ton Ami qu'un Monarque odieux ?
-Obtiens, obtiens pour moi cette grande victoire,
-Fais un Roi qui te doive et son sceptre et sa gloire,
-Et je saurai bien rendre à ta fidèle ardeur
-Couronne pour Couronne, et grandeur pour grandeur ;
-L'amour est dans ton coeur sans biens et sans délices,
-Comme un désespéré qui court aux précipices,
-Enfin si je commande, enfin si je suis Roi,
-Axiane te plaît, Axiane est à toi ;
-Et pour mieux te payer et mieux te satisfaire,
-Je puis te faire entrer au trône de son frère.
-
--*who_cleodate
-Vous le pourriez, Araxe !
-
--*who_araxe
-      Oui suivant mes desseins
-Je puis faire tomber son sceptre entre tes mains.
-
--*who_cleodate
-Moi j'aimerais un sceptre acquis avec un crime !
-
--*who_araxe
-Tout ce qui mène au trône est juste et légitime.
-
--*who_cleodate
-Ha ! Que ce sentiment qui me remplit d'effroi
-Est indigne d'un coeur qui prétend être Roi.
-J'ai conseillé la Reine en sujet qui l'honore,
-J'ai dit ce que j'ai cru, je le dirais encore.
-Il n'est point d'intérêt, de sceptre ni d'espoir
-Qui me puisse obliger à trahir mon devoir,
-Et ma fidélité de foi récompensée
-Ne se plaindra jamais que l'amour l'ait blessée.
-
--*who_araxe
-Tu ne sais pas aimer, ou bien tu n'aimes pas.
-
--*who_cleodate
-Quoi ! Lorsqu'on sait aimer, fait-on des attentats ?
-
--*who_araxe
-Tu veux être absolu, tu le fais bien paraître,
-Et crains que ton ami ne devienne ton Maître.
-
--*who_cleodate
-Mes amis sont mes biens, mes amis sont mes Rois,
-Tant qu'ils respecteront la Justice et ses droits ;
-Enfin j'aime partout les desseins magnanimes,
-Mais je n'ai point d'amis où l'on aime les crimes.
-
--*who_araxe
-Voulez-vous m'attaquer avecque ce discours ?
-
--*who_cleodate
-Je voudrais vous servir aux dépens de mes jours.
-
--*who_araxe
-Certes vous m'en donnez un fort grand témoignage.
-
--*who_cleodate
-Vous ai-je abandonné prêt à faire naufrage ?
-
--*who_araxe
-Vous vanter de ce bien c'est me l'avoir ravi.
-
--*who_cleodate
-C'est vous faire savoir que je vous ai servi.
-
--*who_araxe
-Le sort a fait ce bien que vous avez cru faire.
-
--*who_cleodate
-Implorez donc le sort s'il peut vous satisfaire.
-Pour moi je vous promets du zèle et de la foi
-Si le destin permet que vous soyez mon Roi.
-
--*who_araxe
-Et moi, quoi que la terre ou le Ciel me destine,
-Ou Monarque, ou sujet, j'ai conclu ta ruine ;
-Je ne veux point d'amis qui soient si généreux,
-Et j'aime les méchants qui me rendront heureux.
-
-**** *book_ *id_IV01 *act_IV *date_1648
-
--*who_nitocris
 Mais, Achate, a-t-il su ce que j'ai dedans l'âme ?
 A-t-il su mon dessein ?
 
--*who_achate
-      N'en doutez point, Madame.
-
--*who_nitocris
 Toutefois son conseil puissamment disputé
 N'est pas sorti d'un coeur que le trône ait flatté.
 
--*who_alcine
-Au moins il est sorti d'un coeur noble et fidèle
-Qui dit les sentiments que lui donne son zèle.
-Au moins il vous fait voir qu'il est sans intérêt,
-Que votre seule gloire est tout ce qui lui plaît,
-Et que s'il possédait la grandeur souveraine,
-Il y vivrait en Roi dont vous seriez la Reine.
-
--*who_nitocris
 Cependant ses conseils qui me gagnent le coeur
 Ôtent presque à l'amour le titre de vainqueur :
 Et toujours sans dessein incertaine et flottante
@@ -1492,29 +180,11 @@ L'amour reprend sa force, et rallume sa flamme ;
 De sorte qu'en mon coeur agité comme il est
 L'amour se meurt sans cesse, et sans cesse renaît.
 
--*who_alcine
-Pensez-vous que le Ciel qui des Princes dispose
-En vain aux Potentats inspire quelque chose ?
-Non, non, par votre amour il montre clairement
-Qu'un Roi vous doit aider à régner sûrement ;
-Et par tant d'actions d'éternelle mémoire
-Dont Cléodate appuie et le trône et sa gloire,
-Le Ciel qui vous chérit, le Ciel veut témoigner
-Que pour votre bonheur c'est lui qui doit régner.
-
--*who_nitocris
 Mais enfin si le Ciel, où le sceptre se donne,
 Voulait que Cléodate eût part à ma Couronne,
 Il ne combattrait pas mon esprit inconstant
 Par les fortes raisons que Cléodate rend.
 
--*who_alcine
-Trop souvent du vrai bien pour qui notre âme est née,
-Par de fausses raisons elle s'est détournée ;
-Et le Ciel à vos yeux les veut représenter
-Afin de les combattre, afin de les dompter.
-
--*who_nitocris
 Je ne puis discerner, sage et prudent Achate,
 Si son discours est vrai, mais au moins il me flatte ;
 Mais qui n'est pas flatté par les impressions
@@ -1524,65 +194,20 @@ D'être persuadé de ce que l'on désire !
 Mais Araxe revient ; il faut qu'il sache enfin
 Ce que m'ont inspiré le Ciel et le destin.
 
-**** *book_ *id_IV02 *act_IV *date_1648
-
--*who_nitocris
 Araxe, ton avis est la loi nécessaire
 Que je veux m'imposer, et que j'ai dû me faire.
 
--*who_araxe
-Quiconque estimera votre tranquillité
-Donnera ce conseil à votre majesté.
-Plaise aux Dieux que l'État toujours d'intelligence
-Imite mon respect et mon obéissance.
-
--*who_nitocris
 Cléodate est celui sur qui les justes Dieux
 M'ont fait porter enfin et l'esprit et les yeux.
 
--*who_araxe
-Cléodate Madame ! Il est incomparable,
-Et vous ne pouvez faire un choix plus adorable ;
-Il est digne d'avoir un rang entre les Rois,
-Si pourtant son esprit peut souffrir votre choix.
-
--*who_nitocris
 S'il peut souffrir mon choix !
 
--*who_araxe
-      Au moins je l'appréhende.
-
--*who_nitocris
 Expliquez-vous, Araxe, et je vous le commande.
 S'il peut souffrir mon choix ! Parlez, expliquez-vous,
 Et surtout gardez-vous de parler en jaloux.
 
--*who_araxe
-Permettez donc plutôt que je perde la vie,
-De peur qu'un zèle ardent ne passe pour envie.
-
--*who_alcine
-Pour ne pas achever, vous avez trop parlé,
-Parlez, parlez, Araxe, envieux ou zélé.
-Quoi vous craindrez l'envie ainsi que quelque peine,
-Et vous ne craindrez pas la fureur d'une Reine !
-
--*who_araxe
-Je parlerai, Madame, et je suivrai vos lois
-Puisque vous le voulez et qu'enfin je le dois.
-Cléodate est charmé des beautés d'Axiane,
-Pour lui tout autre objet est funeste et profane,
-Et pour elle soumis, et pour elle inhumain
-Jusque sur les Autels il porterait la main.
-
--*who_nitocris
 Cléodate aimerait Axiane !
 
--*who_araxe
-      Il l'adore,
-Et s'il pouvait plus faire, il ferait plus encore.
-
--*who_nitocris
 Hé bien, Araxe, il aime, il s'est laissé charmer,
 Est-ce un crime, est-ce un mal que l'on doive blâmer ?
 S'il eût aimé la Reine avant que de connaître
@@ -1598,54 +223,13 @@ On se résout bientôt d'adorer une Reine,
 Et quelque humilité qu'on semble témoigner
 Bientôt le plus soumis se résout à régner.
 
--*who_araxe
-Je ne condamne point un amour magnanime,
-Tout adorable objet rend l'amour légitime ;
-Mais je condamne au moins ses injustes desseins,
-Et je crois découvrir le crime que j'en crains.
-Qui ne jugerait pas que sa main trop hardie
-Favorise déjà le Roi de la Médie ?
-Et que pour obtenir Axiane sa soeur
-La noire trahison infecte ce grand coeur ?
-Pourquoi vous presse-t-il dans la paix où nous sommes
-D'envoyer à ce Roi tant d'argent et tant d'hommes ?
-Les Scythes qu'il craignait sont vaincus et défaits,
-Et comme votre État, son État est en paix.
-Pourquoi donc tous les jours comme par quelques charmes
-Éloigne-t-il de vous votre forces et vos armes ?
-Qui ne connaîtrait pas qu'on forme un attentat
-Et que pour l'achever on affaiblit l'État ?
-Mais pourquoi l'a-t-on vu d'une force obstinée
-Opposer des raisons contre votre hyménée ?
-Il redoute qu'un Roi n'arrache de ses mains
-Le moyen d'accomplir ses injustes desseins ;
-Car enfin pouvant tout dans ce puissant Empire,
-Il a tous les secrets qui peuvent le détruire.
-Pour gagner Axiane il ose tout tenter,
-Et par un crime heureux il veut la mériter.
-
--*who_nitocris
 Quel témoin avez-vous contre cette pratique ?
 
--*who_araxe
-On prend peu de témoins d'un dessein si tragique.
-Et contre les grands maux que l'on peut redouter
-L'apparence est la voix que l'on doit écouter.
-
--*who_nitocris
 Achate.
 
--*who_araxe
-      Elle lui parle.
-
--*who_nitocris
       Allez, et qu'on le garde.
 Lorsque l'on se néglige, Araxe, on se hasarde.
 
--*who_araxe
-Assurez-vous, Madame, et pour vous et pour nous.
-
--*who_nitocris
 Oui je m'assurerai, mais ce sera de vous,
 Si d'un crime si grand Cléodate est coupable,
 Je saurai vous traiter en Princesse équitable ;
@@ -1660,38 +244,14 @@ Imitaient quelquefois l'exemple que je donne,
 La noire calomnie étoufferait sa voix
 Et ne régnerait pas dans la cour des grands Rois.
 
--*who_araxe
-Quand je veux vous servir me croyez-vous un traître ?
-
--*who_nitocris
 Araxe, le succès le fera reconnaître.
 Qui n'est pas en péril s'il dépend du succès ?
 
--*who_nitocris
 Croyez que l'équité jugera ce procès
 Allez, retirez-vous.
 
--*who_araxe
-      Que mon sort est étrange.
-
-**** *book_ *id_IV03 *act_IV *date_1648
-
--*who_nitocris
 Ainsi des lâchetés ma justice se venge.
 
--*who_alcine
-Mais pardonnez, Madame, à mon zèle indiscret,
-S'il ne peut se borner, ni se tenir secret.
-Si vous devez traiter comme en cette aventure
-De semblables avis ainsi qu'une imposture,
-Qui voudrait étonné par ces tristes leçons
-Vous donner des conseils sur de justes soupçons ?
-Qui n'aimera pas mieux, à couvert de la haine,
-Vous laisser en péril que de se mettre en peine ?
-Il est peu de sujets d'une si haute foi
-Qui ne s'aiment autant qu'ils respectent leur Roi.
-
--*who_nitocris
 Je sais ce que je fais, et jamais ma puissance
 Aveugle et sans raison n'attaqua l'innocence.
 Il est toujours, Araxe, à regret fléchissant,
@@ -1703,57 +263,25 @@ Pour m'ôter un sujet par qui l'État est fort ?
 N'est-ce pas attenter que de vouloir détruire
 Et l'appui de ma gloire, et l'appui de l'Empire ?
 
--*who_alcine
-Oui c'est un attentat, mais votre Majesté
-Croira-t-elle un soupçon comme une vérité ?
-
--*who_nitocris
 Ses vieilles trahisons confirment les nouvelles,
 Et je n'écoute rien pour un chef de rebelles.
 
--*who_alcine
-Mais la justice même est un monstre odieux
-Quand elle est sans oreille aussi bien que sans yeux.
-
--*who_nitocris
 Bien qu'Araxe soit tel que l'État l'appréhende,
 Je ne m'étonne pas qu'Alcine le défende.
 Je vois visiblement ce que ton coeur ressent,
 Et ce que nous aimons nous paraît innocent.
 
--*who_alcine
-Moi, moi, je l'aimerais ? Que dites-vous Madame ?
-
--*who_nitocris
 Je sais bien qu'il te trompe, et qu'il est dans ton âme.
 Cache ta passion, feins, je te le permets,
 Mais crois que j'ai des yeux où je ne suis jamais.
 Laisse-moi pour cette heure, aussi bien vois-je Achate,
 Et crains enfin un traître à l'instant qu'il te flatte.
 
-**** *book_ *id_IV04 *act_IV *date_1648
-
--*who_nitocris
 A-t-on suivi mon ordre ?
 
--*who_achate
-      Il est exécuté.
-L'on cherche Cléodate, Araxe est arrêté.
-Mais souffrez que je parle avec cette franchise
-Que votre Majesté m'a de tout temps permise.
-Vous avez, ce me semble, un peu trop promptement
-Sur un simple soupçon rendu ce jugement.
-Si ce qu'Araxe a dit n'est pas une imposture
-Qui pourra de son coeur effacer cette injure ?
-
--*who_nitocris
 Mais s'il est imposteur, ai-je assez promptement
 Contre sa lâcheté rendu ce jugement ?
 
--*who_achate
-On ne saurait trop tôt châtier un coupable.
-
--*who_nitocris
 J'ai donc trop différé de paraître équitable.
 Mais s'il ne suffit pas qu'un Monarque parfait
 Agisse justement si quelqu'un ne le sait,
@@ -1783,10 +311,6 @@ Je l'aime, mais je l'aime en sage Potentat
 Qui perdrait ce qu'il aime en faveur de l'État.
 Mais ne viendra-t-il point ?
 
--*who_achate
-      On le cherche, Madame.
-
--*who_nitocris
 Que de soins différents repassent dans mon âme !
 L'imposture d'Araxe à me nuire obstiné
 Se change en un soupçon dans mon esprit gêné.
@@ -1795,52 +319,19 @@ Que c'est d'un envieux et l'ouvrage et le songe,
 Mais c'est un songe affreux qui travaille le coeur,
 C'est un fantôme vain, c'est un rien qui fait peur.
 
--*who_achate
-Mais voici Cléodate.
-
--*who_nitocris
       À quels maux je m'expose !
 
-**** *book_ *id_IV05 *act_IV *date_1648
-
--*who_nitocris
 Je te veux seulement demander une chose,
 Je te veux demander de même qu'un grand bien,
 Que de la vérité tu ne me caches rien.
 
--*who_cleodate
-Si votre Majesté demandait le contraire
-Je ne sais si mon coeur pourrait vous satisfaire.
-
--*who_nitocris
 Aimes-tu ? Réponds-moi.
 
--*who_cleodate
-      Si j'aime !
-
--*who_nitocris
       Réponds-moi,
 Lorsqu'on hésite ainsi, l'on veut manquer de foi.
 
--*who_cleodate
-Plutôt le juste Ciel me punisse en profane.
-
--*who_nitocris
 Mais enfin aimes-tu la Princesse Axiane ?
 
--*who_cleodate
-Oui, Madame, je l'aime, et les Cieux irrités
-Mêlent cette amertume à mes prospérités,
-Lorsque j'ai demandé dans ma peine secrète
-Que votre Majesté m'accordât ma retraite,
-Ainsi je demandais comblé de mille ennuis
-Le congé de fuir des prisons où je suis ;
-Ainsi je recherchais un secours nécessaire
-Pour dompter un amour qui devait vous déplaire,
-Et par ce libre aveu d'un injuste transport
-Je cherche pour vous plaire ou l'exil ou la mort.
-
--*who_nitocris
 Donc sans qu'il soit besoin de me faire outrage
 Si pour toi mon esprit s'expliquait davantage,
 Cet amour qui t'arrête en ses douces prisons
@@ -1868,90 +359,23 @@ Elle peut se promettre, et non pas se donner,
 Les filles de son rang, quoi qu'elles se proposent,
 Sont les biens des États, dont les États disposent.
 
--*who_cleodate
-Je vous ai dit que j'aime, hélas sans le savoir,
-Car enfin est-ce aimer que d'aimer sans espoir ?
-Non, non, je n'attends rien d'une flamme si vaine,
-Sinon que dans votre âme elle allume la haine,
-Sinon que cette haine invincible à son tour
-Me repousse du trône où m'appelle l'amour.
-Voyez où me réduit le soin de votre gloire ;
-J'aimerai votre haine ainsi qu'une victoire,
-Pourvu que cette haine appuyant mon devoir,
-D'un rang si glorieux vous empêche de choir,
-En effet, c'est tomber de la gloire suprême
-De partager l'éclat qui vient du diadème.
-Ainsi ne pensez pas que des feux obstinés
-M'inspirent les conseils que je vous ai donnés,
-Si j'étais sans l'amour, dont ma raison s'irrite,
-Je vous les donnerais avec plus de mérite,
-On me croit maintenant aveugle et malheureux,
-On me croirait alors et grand et généreux,
-On mettrait mes conseils entre les grands exemples,
-Et l'on m'élèverait à la gloire des temples.
-Mais quand ils partiraient d'un amour odieux,
-Qu'importe d'où procède un conseil glorieux ?
-L'amour que je ressens m'est un poison funeste,
-Mais je l'estimerais comme un présent céleste,
-Si lors qu'il me confond et qu'il me fait rougir
-Pour votre propre gloire il me faisait agir.
-
--*who_nitocris
 Mais si je veux ma honte, et si je veux ma peine,
 Est-ce à toi de régler le destin de ta Reine ?
 
--*who_cleodate
-Mais il est d'un sujet qui respecte vos lois
-De résister aux Rois pour la gloire des Rois.
-Pardonnez donc, Madame, à cette ardeur extrême
-Qui s'oppose à la main qui m'offre un diadème,
-Je crois que cet amour qui peut me faire Roi
-Est un grand attentat que je fuis malgré moi.
-Jusques ici par vous, et pour vous redoutable
-J'ai peut-être rendu votre Empire indomptable,
-J'ai fait pour votre gloire et pour le rendre heureux
-Tout ce que pouvait faire un sujet généreux ;
-Mais enfin je connais, et je commence à croire
-Que je n'ai pas tout fait ce que veut votre gloire,
-Je manque en une chose où je puis recourir,
-C'est ce que je vis encore et qu'il fallait mourir.
-
--*who_nitocris
 Si tu fis pour ma gloire et pour mon avantage
 Tout ce que pouvait un illustre courage,
 Pourquoi ne veux-tu pas dans l'état où je suis
 Que je fasse pour toi autant que je le puis ?
 
--*who_cleodate
-Le devoir de sujet, cette loi que j'honore,
-M'oblige incessamment à faire plus encore.
-Mais un autre devoir où les Rois sont soumis
-Veut que vous fassiez moins qu'il ne vous est permis.
-
--*who_nitocris
 Tiens-toi donc au devoir et pour y satisfaire,
 Regarde incessamment à qui tu peux déplaire.
 Va j'ai l'esprit content.
 
-**** *book_ *id_IV06 *act_IV *date_1648
-
--*who_achate
-      Enfin vous le voyez,
-Araxe a moins failli que vous ne le croyez,
-Tout ce qu'il vous a dit n'est pas une imposture,
-Vous voyez de l'amour, craignez une autre injure.
-Madame, cependant, Araxe est arrêté,
-Et s'il est innocent, c'est un Prince irrité.
-
--*who_nitocris
 Innocent ou coupable, on lui fera justice.
 Mais va-t-en le trouver, sonde son artifice,
 Sers-toi de ton esprit pour connaître le sien,
 Flatte, promets, menace, enfin n'épargne rien.
 
-**** *book_ *id_IV07 *act_IV *date_1648
-
--*who_nitocris
 Ha que j'éprouve bien parmi tant d'avantages
 Que le trône est un Ciel jusqu'où vont les orages,
 Ou que c'est un Autel sur un globe attaché
@@ -2013,114 +437,17 @@ Le plus sage peut-il répondre de soi-même ?
 Et lorsque l'on le peut, qu'a-t-on jamais vengé
 Avec plus de plaisir qu'un amour outragé ?
 
-**** *book_ *id_IV08 *act_IV *date_1648
-
--*who_nitocris
 Que veut-on ?
 
--*who_alcine
-      S'il est vrai ce que l'on nous assure,
-Le frère d'Axiane est dans la sépulture.
-
--*who_nitocris
 Le Roi de la Médie !
 
--*who_alcine
-      On m'a dit qu'il est mort.
-
--*who_nitocris
 J'en ai de la douleur, et j'attends même sort.
 
-**** *book_ *id_V01 *act_V *date_1648
-
--*who_alcine
-Araxe a-t-il commis ces fautes effroyables ?
-
--*who_achate
-Il parle en innocent comme tous les coupables.
-
--*who_alcine
-Mais où retournez-vous ? Ne puis-je le savoir ?
-
--*who_achate
-Je vais le retrouver, la Reine le veut voir
-Depuis qu'elle a reçu les Députés des Mèdes,
-Il semble que son mal surpasse les remèdes,
-Son amour, son dépit, un soupçon éternel
-Lui peignent Cléodate ainsi qu'un criminel ;
-Enfin pour peu qu'Araxe en donne d'apparence,
-Je crains pour Cléodate, et pour son innocence.
-Que ne peut un dépit si vif et si pressant
-Alors qu'il se rencontre avec un bras puissant ?
-
--*who_alcine
-En effet, Cléodate aura peu de semblables.
-
--*who_achate
-En effet, on voit peu de ces coeurs adorables.
-
--*who_alcine
-Quelques-uns les prendraient pour des esprits blessés.
-
--*who_achate
-Les seuls ambitieux les croiront insensés.
-
--*who_alcine
-Enfin pour refuser un sceptre qu'on apporte,
-Il faut avoir une âme ou bien faible ou bien forte.
-
--*who_achate
-Chacun en jugera selon sa passion.
-Mais il faut m'acquitter de ma commission.
-
--*who_alcine
-Que l'extrême fureur dure peu dans une âme
-Lorsque l'amour y jette un rayon de sa flamme !
-Hélas ! J'ai souhaité comme pour me venger
-Qu'Araxe succombât sous ce dernier danger,
-Et quand je vois sa peine, et ma vengeance prête,
-Je voudrais que son mal retombât sur ma tête.
-Ô Dieux ! Ô justes Dieux quel crime ai-je commis
-Pour aimer le plus grand de tous mes ennemis ?
-Car des plus noirs destins la fureur donne-t-elle
-Un plus grand ennemi qu'un amant infidèle ?
-Les autres ennemis et vaincus et défaits
-Pour le moins en leur mort nous laissent quelque paix,
-Et de cet ennemi la perte déplorable
-Laisserait dans mon âme une guerre effroyable.
-Je souhaite sa mort, et pourtant je la crains,
-Mon âme le déteste, et pourtant je le plains,
-Et toujours sans repos inconstante et confuse,
-Je fais des voeux pour lui quand même je l'accuse.
-Je ne regarde plus l'injure qu'il me fait,
-Je regarde l'horreur ou son destin le met,
-Je voudrais son salut à moi-même cruelle,
-Même aux conditions qu'il me fut infidèle.
-Mais la Reine...
-
-**** *book_ *id_V02 *act_V *date_1648
-
--*who_nitocris
       On saura ce que j'ai projeté.
 
--*who_cleodate
-Avez-vous des soupçons de ma fidélité ?
-Croyez-vous que la mort d'un Prince magnanime
-À mon transport aveugle ajoute quelque crime ?
-C'est là l'horrible nom que je donne à l'espoir
-Si votre Majesté me défend d'en avoir.
-Enfin, lorsqu'on m'attaque avec tant d'injustices
-Croirez-vous l'imposture et non pas mes services.
-
--*who_nitocris
 Au moins ta liberté montre assez clairement,
 Que mon esprit douteux suspend son jugement.
 
--*who_cleodate
-Ha ! Madame, ce doute honore l'imposture,
-Et fait à l'innocence une mortelle injure.
-
--*who_nitocris
 S'il blesse l'innocence, il répare ce tort
 En rendant son triomphe et plus noble et plus fort.
 Mais obéis, va voir Axiane, et l'amène.
@@ -2134,12 +461,6 @@ Sous ombre de veiller pour mon autorité ?
 Ô Dieux, que la fureur ressemble à l'injustice !
 Mais Araxe vient-il.
 
--*who_alcine
-      Ô Ciel soit-lui propice ?
-
-**** *book_ *id_V03 *act_V *date_1648
-
--*who_nitocris
 Mais il entre, sortez, je veux l'interroger.
 Achate éloignez-vous, et m'en laisser juger.
 Araxe parle-moi, mais avec confidence,
@@ -2161,15 +482,6 @@ Pourrais-tu recevoir un moindre châtiment ?
 Au moins prends assurance en la joy d'une Reine,
 Que rougir devant moi sera ta seule peine.
 
--*who_araxe
-J'ai pensé vous servir de vous représenter
-Ce que tant de raisons me faisaient redouter,
-Mais si c'est un forfait qui regarde l'Empire
-Que de dire trop tôt ce que le zèle inspire,
-J'ai failli, je l'avoue, et ne m'en repends pas,
-Puisque c'est pour sauver et vous et vos États.
-
--*who_nitocris
 Quoi, n'est-ce pas assez de la première injure ?
 Voulez-vous à l'audace ajouter l'imposture ?
 Usez de ma bonté lorsque vous le pouvez,
@@ -2179,7 +491,973 @@ Maîtresse de la mort ainsi que de la vie,
 Et que les Dieux n'ont point d'espace limité
 Entre vous et la mort sinon ma volonté.
 
--*who_araxe
+Ne vous ruinez point avecque cette audace,
+Pour la dernière fois je vous offre ma grâce,
+Un mot de résistance allume mon courroux,
+Voulez-vous des témoins, on les prendra chez vous.
+
+      Achevez.
+
+Sortez, et qu'il demeure en la chambre prochaine.
+Vous le voyez, Achate, et sa faute est certaine,
+Et par un artifice insolent, odieux,
+Et digne seulement d'un coeur ambitieux,
+Il veut faire servir et sa faute et son crime
+À surprendre aujourd'hui mon coeur ou mon estime.
+Enfin par ce succès je commence à prévoir
+Que l'hymen souhaité blesserait mon pouvoir,
+Et vois par les conseils que Cléodate donne,
+Qu'il aime en bon sujet le bien de ma Couronne.
+
+Il faut donc faire voir ma force et mon courage,
+Mais, hélas ! J'entreprends un difficile ouvrage.
+
+Que ferai-je d'Araxe ? Enfin j'en suis en peine,
+Et tout ce qu'il a fait excite mon courroux.
+
+Qu'on les fasse venir, essayons ces remèdes.
+
+Mais voici Cléodate, et la Reine des Mèdes
+Achève noblement le travail entrepris,
+Et sois enfin toi seule, et ton bien et ton prix.
+Il est temps de penser après ces larmes vaines
+Que le Ciel vous a mise au rang des souveraines.
+Je vous ai déjà dit qu'un long et grand effroi
+Oblige vos sujets à souhaiter un Roi.
+Déjà leurs députés vous l'ont fait reconnaître,
+Et comme c'est à moi qu'ils demandent un Maître,
+On m'oblige à porter votre esprit généreux
+Au choix qu'ils veulent faire et pour vous et pour eux.
+
+Ce n'est pas une loi que leur main vous impose
+C'est un juste dessein que leur crainte propose,
+Et ce puissant destin qui veille incessamment
+Montre par votre amour qu'il fait tout sagement.
+Ce que vous prétendez est tout ce qu'ils prétendent,
+Vous aimes Cléodate, et c'est lui qu'ils demandent.
+Par un présage heureux qu'ils seront bons sujets
+Même sans y penser ils suivent vos projets.
+
+Enfin je vous le cède, ainsi qu'une victoire,
+Et pour votre avantage, et pour ma propre gloire.
+Vous pouvez noblement l'aimer à votre tour,
+Vous pouvez l'estimer digne de votre amour,
+Puisque par sa vertu qui se rend immortelle,
+Une Reine aujourd'hui l'a jugé digne d'elle.
+Il soutint votre trône, il le sut arrêter,
+Et qui soutient un trône est digne d'y monter.
+
+Accepte, Cléodate, un sceptre qu'on te donne,
+Tu ne pouvais manquer d'avoir une Couronne,
+Et quoi qu'eût fait le Ciel, il ne t'eût rien donné
+Si sa puissante main ne t'avait couronné.
+
+Jamais ma volonté qui tâche d'être juste,
+N'empêchera le cours d'une action auguste.
+Araxe, des bontés toujours dignes des Rois
+Jettent un oeil dessus toi pour la seconde fois,
+Et la prison fatale où ma loi te destine,
+C'est le coeur amoureux de la Princesse Alcine.
+
+Ainsi je veux enfin favorable pour vous
+Qu'on me connaisse moins par un beau diadème
+Que par un grand triomphe obtenu sur moi-même,
+Et que par mon exemple on aille raconter
+Qu'on peut dompter l'amour quand on veut le dompter.
+
+
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleodate
+
+Il est vrai, je l'avoue, un furieux tourment
+Me suit de tous côtés, me presse incessamment ;
+Enfin privé de force et presque sans remède
+Je vous viens maintenant implorer à mon aide.
+
+Vous pouvez sans péril contenter mon envie
+
+      Enfin par un effort
+À quoi l'on donnera de la gloire ou du blâme
+Selon la passion que chacun a dans l'âme,
+À moi-même propice ou cruel à mon tour
+Je me suis résolu d'abandonner la Cour.
+
+      Non, non, laisse-moi faire,
+Au dessein que je fais ne te rend point contraire.
+Je sais que ta raison m'en voudra divertir,
+Je sais que ton amour n'y pourra consentir,
+Mais si je me fais tort souffre je t'en conjure
+Que mon esprit blessé me fasse cette injure.
+N'oppose point ici ta peine et ton effort
+À mon vaisseau brisé qui veut aller au port,
+Et pour contribuer à le pousser toi-même
+Et pour favoriser ma passion extrême,
+Tâche à te figurer que ma prospérité
+Est un puissant obstacle à ta félicité,
+Que par une faiblesse à l'homme trop commune
+Je puis me repentir de ta bonne fortune,
+Que dans le rang de gloire où le Ciel nous a mis
+Un songe seulement peut nous rendre ennemis,
+Et qu'il vaut mieux céder une si belle place
+Que si tu me l'ôtais ou que je te l'ôtasse.
+
+Le Conseil en est pris, le sort en est jeté.
+La Reine a déjà su de ma plainte secrète
+Que mon plus grand bonheur consiste en ma retraite,
+Et son esprit divin sur le nôtre absolu
+Doit m'apprendre aujourd'hui ce qu'il a résolu.
+Mais enfin le secours le plus considérable
+Que ma douleur attend de ton soin favorable,
+C'est de faire à la Reine approuver mon départ
+Si son intention se portait autre part.
+
+Si le bannissement est ma plus douce attente
+Peux-tu mieux me servir qu'en ce qui me contente ?
+Qu'importe en quoi l'on serve un coeur persécuté
+Pourvu que l'on le serve, et qu'on l'ait contenté.
+
+Mais ne me promets pas pour nuire à mon dessein.
+
+      Non, non, j'en suis certain.
+Mais en cette rencontre où tu sembles me plaindre,
+Un ami croit sans blâme, et nous tromper et feindre.
+
+Si j'avais mis ton sort aussi haut qu'il doit être,
+Ainsi ton amitié m'en pourrait reconnaître.
+
+Tu le sauras, Araxe, afin que tu me plaignes,
+Et que selon mes voeux ton propre jugement
+Me condamne plutôt à mon bannissement.
+J'aime, et mon coeur charmé du feu qui le dévore
+Voudrait dire j'aimai, sans dire j'aime encore.
+J'aime, mais d'un amour qui ne peut rien souffrir,
+Non pas même l'espoir qui pourrait le nourrir.
+Mais laissons là le mal et songeons aux remèdes.
+
+      La princesse des Mèdes.
+
+      Elle-même avecque ses appas
+Elle me fait la guerre et ne le pense pas.
+Mon coeur comme un captif qui redoute son Maître
+Devant elle brûlant n'osa jamais paraître,
+Et jusqu'ici ses yeux trop aimables flatteurs
+N'ont pas de leur triomphe été les spectateurs.
+Ce n'est pas toutefois qu'une honte invincible
+Ait caché cette flamme, et la rende invisible ;
+Non, non, Je ne suis pas de ces timides coeurs
+Qui craignent de paraître aux yeux de leurs vainqueurs,
+Je dirais mon amour à des Déesses même,
+N'est-ce pas adorer que de dire qu'on aime ?
+Et taire à la beauté l'amour qu'on en reçoit
+N'est-ce pas retenir le tribut qu'on lui doit ?
+Mais si tu n'ignores pas que suivant ces maximes
+Que l'intérêt des Rois rend pour eux légitimes,
+La Reine veut garder Axiane à la Cour
+Pour tenir en suspens les Princes d'alentour,
+Pour ruiner entre eux la paix et l'alliance,
+En leur laissant à tous une égale espérance,
+Et conserver enfin la concorde avec eux
+Tant qu'ils espéreront cet objet glorieux.
+Ainsi connaissant bien qu'une flamme si vaine
+Blesserait et les yeux et le coeur de la Reine,
+Pour elle ayant vaincu des peuples belliqueux,
+Pour elle je saurai me vaincre aussi bien qu'eux.
+Mais dans le triste état où mon âme est réduite
+Je ne puis me sauver que par ma seule fuite ;
+Que si l'éloignement ne peut me secourir
+Je mourrai de douleur, et ce sera guérir.
+
+Hélas ! Trois ans entiers ont achevé leur cours
+Depuis qui je combats ces fatales amours.
+Quand le Scythe ennuyé de sa stérile terre
+Chez les Mèdes surpris eût apporté la guerre,
+Et qu'à leur violence, et qu'à leur cruauté
+Le père d'Axiane eût en vain résisté,
+Comme pour elle seule il craignait la tempête,
+Qui menaçait son peuple, et son trône et sa tête,
+Il la fit, tu le sais, venir en cette Cour,
+Où bientôt de la Reine elle gagna l'amour.
+Je la fus recevoir, je dirai-je sans blâme ?
+Hélas ! Je la reçus, et ce fut dans mon âme.
+Dès l'instant que je vis cette illustre beauté,
+Son règne commença dans mon coeur enchanté.
+Ce coeur qui fut toujours, et si libre et si brave
+Prit enfin du plaisir à devenir esclave,
+Et comme on est aveugle aussitôt qu'amoureux
+Il crut que sa prison le rendrait bienheureux,
+Il ne regarda point quelle en serait l'issue,
+Et se serait flatté quand même il l'aurait sue.
+Ainsi j'aime Axiane, et dans ce coeur blessé
+Son empire fut grand dès qu'il eut commencé.
+Son père cependant pressé de tant d'alarmes
+Implora de la Reine et la force et les armes ;
+Tu sais qu'on m'envoya pour lui donner secours,
+Que je rendis le calme à ses timides jours,
+Et que je le remis dans ce siège de gloire,
+Où son fils aujourd'hui jouit de sa victoire,
+Car ce Roi plein d'honneur et de ravissement
+Passa bientôt après du trône au monument.
+Que je revins content de ce fameux voyage
+Où l'amour animait mon bras et mon courage !
+Je crus que la victoire accompagnant mes pas
+Favorisait mes voeux, me donnait des appas,
+Et qu'une fille illustre à qui la gloire est chère
+Aimerait le vainqueur qui fit régner son père.
+Mais la Reine aussitôt m'instruisit du dessein
+Qu'une raison d'état inspire dans son sein,
+Et comme il faut lui plaire, et qu'elle est absolue
+Il fallut approuver le dessein qui me tue.
+Voilà mon sort, Araxe, est-il à souhaiter ?
+
+J'emporte au moins ce bien de ma faveur extrême
+Que tous mes ennemis consistent en moi-même,
+Et c'est en ce seul point que mon destin me plaît.
+Mais la Reine revient, écoutons notre arrêt.
+
+Quoi Madame !
+
+Madame.
+
+Araxe il faut mourir si ta force ne m'aide,
+Mon mal devient plus grand, plus j'en vois le remède.
+
+Quoi la Reine y consent ?
+
+Dieux qu'ai-je demandé ! Mais il faut se contraindre.
+Enfin je l'ai voulu ; de qui puis-je me plaindre ?
+Hélas que notre esprit sans conduite et sans lois
+Connaît peu ce qu'il fait quand il agit pour soi.
+Poussé par le transport d'une fureur secrète
+J'ai comme un grand secours demandé ma retraite,
+Et lorsque je l'obtiens j'éprouve vivement
+Que j'ai sans y penser demandé mon tourment.
+Je ne commence à voir dans le coup qui m'étonne
+Le prix de mon destin que quand je l'abandonne,
+Et je ne reconnais parmi tant de transports
+Que j'étais dans les Cieux qu'au moment où j'en sors.
+Si je souffre, Axiane, en regardant tes charmes,
+Ces Tyrans adorés à qui je rends les armes,
+Pour le moins je les vois, et si mes maux sont grands
+C'est un bien dans l'amour que de voir ses Tyrans.
+Qu'as-tu fait malheureux, et de quelle pensée
+Ton âme trop aveugle a-t-elle été blessée ?
+Ai-je cru qu'Axiane adorable en tous lieux
+S'enfuirait de mon coeur si je fuis de ses yeux ?
+Comme par un effet de son oeil qui me tue
+On commence à l'aimer aussitôt qu'on l'a vue,
+Ai-je cru trop injuste à son divin pouvoir
+Qu'on cesse de l'aimer en cessant de la voir ?
+Ai-je fait cet outrage à sa force indomptée
+De me persuader qu'elle fût limitée ?
+Non, non, je sens déjà qu'en fuyant ses appas
+Mes liens s'éteindront et ne se rompront pas,
+Et que je suis partout un esclave à la gêne
+Que l'on tient enchaîné par une longue chaîne.
+Croire enfin que l'amour, croire que la beauté
+Ne suive pas partout un esprit enchanté,
+C'est croire que les Dieux limités sur la terre
+Ne peuvent en tous lieux faire choir le tonnerre.
+Changez, changez, ô Dieux qui gouvernez mon sort
+L'arrêt de mon départ en celui de ma mort ;
+Faites-moi confesser que le bonheur extrême
+Consiste seulement à mourir où l'on aime,
+Ou bien s'il faut y vivre avant que d'expirer
+Qu'on m'ôte les grandeurs qui me font révérer,
+Qu'on m'ôte tous ces biens qu'idolâtre un profane,
+On me laissera plus si je vois Axiane.
+Mais les Dieux ont voulu ce que j'ai demandé ;
+Mais ce que j'ai voulu dut-il m'être accordé ?
+J'ai pressé mon départ, il est vrai, mais la Reine
+Me devait refuser cette demande vaine,
+Après tant de service et de maux endurés
+Pour rendre entre ses mains des sceptres assurés,
+Au moins de mes travaux la course infatigable
+Méritait pour son prix ce refus honorable ;
+Et c'est montrer du coeur et de l'affection
+Que de faire un refus en cette occasion.
+Mais que dis-je insensé ? Dont la peine es de vivre
+Je ma plains d'obtenir ce qu'on m'a vu poursuivre,
+Et comme mon esprit est toujours divisé
+Je me plaindrais aussi qu'on me l'eût refusé.
+
+      La voici. Quelle peine ?
+
+Il faut de mon destin con tenter le courroux,
+Si je ne fuis bientôt, je mourrai devant vous.
+
+La Reine aurait changé de résolution !
+
+Que je demeurerai !
+
+      Ou quel sort serait pire ?
+Je n'ai pas respiré, qu'il faut que je soupire.
+
+Vous avez trop de soin d'une âme infortunée
+Qui ferait son tourment de se voir couronnée.
+C'était à vous servir que mon sort était doux,
+Ce serait... Mais que dis-je ? Ou bien que dites-vous ?
+La Reine m'aimerait !
+
+Je reçois toutefois un avis si fatal
+Comme on reçoit la mort quand on la croit un mal.
+
+Beaucoup d'aveuglement, et beaucoup de courage.
+
+En l'état où je suis j'ai mérité sa haine.
+
+      Non, non, j'aime en ce lieu.
+J'aime, pour achever il faudrait être un Dieu.
+S'il est vrai toutefois qu'une Reine adorable
+Trouve en moi des sujets d'aimer un misérable,
+Cet amour peut me rendre assez audacieux
+Pour dire que j'adore, et que ce sont vos yeux.
+Si je commets un crime, ou plutôt un blasphème,
+Ce n'est pas en aimant, c'est en disant que j'aime.
+Pardonnez donc au feu qui me fait égarer,
+Chacun a droit d'aimer, mais non pas d'espérer ;
+Et suivant cette loi, qui cause tant d'alarmes,
+Chacun a droit d'aimer vos vertus et vos charmes,
+Les uns pour adorer ce qui les fait souffrir,
+Les Rois pour être heureux, et moi pour en mourir.
+
+Pour ne me pas donner ces ordres impossibles,
+Apprenez que vos yeux sont des Rois invincibles.
+Quoi j'osai vous aimer n'étant pas assuré
+Que mes chaînes plairaient à votre oeil adoré ?
+Et quand vous estimez cette basse victoire,
+Je vaincrais un amour qui me comble de gloire !
+Je suis grand, je suis Roi, j'ai des trônes dorés,
+Puisque je vous adore et que vous l'endurez.
+Qu'un autre pour régner coure après la puissance,
+Je règne par mes fers et mon obéissance.
+C'est être glorieux, c'est être renommé,
+C'est régner que d'aimer lorsque l'on est aimé.
+Pardonnez à l'amour tout ce qu'il me fait dire,
+C'est la première fois qu'il parle et qu'il respire,
+Pour peu que l'on le flatte, il brûle, il s'enhardit,
+Il se flatte lui-même, et croit plus qu'on ne dit.
+
+Ha que diversement votre main redoutable
+Sait se jouer, grands Dieux, du sort d'un misérable !
+J'aime, je suis aimé, l'on m'offre un grand pouvoir,
+Et parmi tant de biens je suis au désespoir !
+Axiane répond à mon amour extrême,
+Et veut que je la quitte, elle même qui m'aime !
+On me présente un sceptre, et l'amour ne veut pas
+Que mes yeux aveuglés y trouvent des appas !
+Tous les biens et les maux que la fortune assemble
+S'offrent à mon esprit, mais confondus ensemble ;
+Et je ne puis choisir dans un sort si fatal
+Que je ne prenne un bien mêlé d'un plus grand mal.
+J'embrasse avec ardeur les fers que l'on me donne,
+Et je crains qu'on me force à prendre une Couronne.
+Enfin je suis esclave avecque ma raison,
+Et ne veux point d'un trône où n'est pas ma prison.
+Ô charmante Axiane ! Ô source de la grâce !
+Si tu voulais ma gloire et qu'enfin je régnasse,
+Il fallait d'un regard de haine et de rigueur
+Réduire au désespoir ce misérable coeur ;
+Et suivant tes desseins par un nouveau caprice
+J'irais, j'irais au trône, ainsi qu'au précipice,
+Et croirais y monter ainsi qu'un malheureux
+Pour me précipiter d'un rocher plus fameux.
+Mais quelle occasion maintenant me ramène
+Ce sage confident des secrets de la Reine.
+
+Au moins j'y répondrai comme un sujet fidèle.
+
+      Votre dessein est juste,
+Comme tout ce qui part de votre esprit auguste ;
+Vos voeux seront toujours nos Maîtres et nos Rois,
+Et sont les seuls conseils que je vous donnerais.
+Mais puisque vous voulez que mon zèle s'exprime
+Si je dissimulais je croirais faire un crime.
+Je ne parlerai point contre ce que je crois
+Car c'est un attentat que de flatter les rois.
+Non, non, je ne crois pas, ô Reine incomparable,
+Que l'hymen ait pour vous une chaîne honorable,
+Et que portant partout le respect ou l'effroi,
+Il vous soit glorieux de vous donner un Roi.
+Si votre Majesté devait choisir un Prince
+Qui régit avec vous cette vaste Province,
+C'était lorsque l'État plein de calamités
+Voyait son précipice ouvert de tous côtés,
+Et qu'on ne croyait pas qu'une femme eût des armes
+Plus fortes que ses yeux, et que de faibles larmes ;
+C'était lorsqu'un grand peuple et triste et languissant
+Croyait contre ses maux votre bras impuissant,
+Et non pas aujourd'hui que le Ciel équitable
+A rendu par vos soins le trône inébranlable,
+Et que votre vertu sage et divin rocher
+D'un vaisseau qui flottait en a fait un rocher.
+Si l'on craint que des Rois voisins de cet Empire
+Contre votre grandeur la puissance conspire,
+Tant que dessus un trône autrefois débattu,
+Seule vous régnerez avec votre vertu,
+Ils croiront en grands Rois qui redoutent le blâme,
+Qu'il leur serait honteux d'attaquer une femme,
+Et sous ce voile utile et pour vous et pour eux
+Ils vous protégeront en Princes généreux.
+J'approuverais pourtant ainsi qu'un avantage,
+De laisser quelque espoir d'un si grand mariage :
+Au moins et les plus grands, et les ambitieux
+En espérant toujours vous en serviront mieux,
+Au lieu que quand un choix qui vaut une victoire
+En aura mis un seul au comble de la gloire,
+D'un trône souhaité tous les autres démis
+En deviendront jaloux, et bientôt ennemis ;
+Et quel heureux repos rencontrera la Reine
+Quand le Roi sans plaisir sera toujours en peine ?
+Vous pouvez les réduire, et la force à la main
+En faire des captifs du pouvoir souverain,
+Mais quel est le respect, quand il n'est qu'une feinte ?
+Quelle est l'obéissance alors qu'elle est contrainte ?
+Une rébellion qui ne se montre pas,
+Et qui fait en secret la guerre aux Potentats.
+Araxe qui connaît et son coeur et le nôtre
+Peut répondre de lui, mais le peut-il d'un autre ?
+Régnez, régnez, Madame, avecque votre bien,
+Et laisser espérer, sans donner jamais rien.
+Que chacun vous regarde avec un oeil de flamme,
+Vous régnerez en paix jusques dedans votre âme,
+Si les grands de l'État prosternés devant vous
+En demeurant Rivaux ne sont jamais jaloux.
+Demeurez toute seule au char de la victoire,
+Deux n'y peuvent tenir avecque même gloire.
+Si l'Empire est un faix qui semble vous charger,
+Il le faut porter seul pour le trouver léger.
+
+Enfin ses volontés sont de nouvelles armes
+Qu'elle donne au destin qui m'arrache des larmes.
+
+Vous le pourriez, Araxe !
+
+Moi j'aimerais un sceptre acquis avec un crime !
+
+Ha ! Que ce sentiment qui me remplit d'effroi
+Est indigne d'un coeur qui prétend être Roi.
+J'ai conseillé la Reine en sujet qui l'honore,
+J'ai dit ce que j'ai cru, je le dirais encore.
+Il n'est point d'intérêt, de sceptre ni d'espoir
+Qui me puisse obliger à trahir mon devoir,
+Et ma fidélité de foi récompensée
+Ne se plaindra jamais que l'amour l'ait blessée.
+
+Quoi ! Lorsqu'on sait aimer, fait-on des attentats ?
+
+Mes amis sont mes biens, mes amis sont mes Rois,
+Tant qu'ils respecteront la Justice et ses droits ;
+Enfin j'aime partout les desseins magnanimes,
+Mais je n'ai point d'amis où l'on aime les crimes.
+
+Je voudrais vous servir aux dépens de mes jours.
+
+Vous ai-je abandonné prêt à faire naufrage ?
+
+C'est vous faire savoir que je vous ai servi.
+
+Implorez donc le sort s'il peut vous satisfaire.
+Pour moi je vous promets du zèle et de la foi
+Si le destin permet que vous soyez mon Roi.
+
+Si votre Majesté demandait le contraire
+Je ne sais si mon coeur pourrait vous satisfaire.
+
+      Si j'aime !
+
+Plutôt le juste Ciel me punisse en profane.
+
+Oui, Madame, je l'aime, et les Cieux irrités
+Mêlent cette amertume à mes prospérités,
+Lorsque j'ai demandé dans ma peine secrète
+Que votre Majesté m'accordât ma retraite,
+Ainsi je demandais comblé de mille ennuis
+Le congé de fuir des prisons où je suis ;
+Ainsi je recherchais un secours nécessaire
+Pour dompter un amour qui devait vous déplaire,
+Et par ce libre aveu d'un injuste transport
+Je cherche pour vous plaire ou l'exil ou la mort.
+
+Je vous ai dit que j'aime, hélas sans le savoir,
+Car enfin est-ce aimer que d'aimer sans espoir ?
+Non, non, je n'attends rien d'une flamme si vaine,
+Sinon que dans votre âme elle allume la haine,
+Sinon que cette haine invincible à son tour
+Me repousse du trône où m'appelle l'amour.
+Voyez où me réduit le soin de votre gloire ;
+J'aimerai votre haine ainsi qu'une victoire,
+Pourvu que cette haine appuyant mon devoir,
+D'un rang si glorieux vous empêche de choir,
+En effet, c'est tomber de la gloire suprême
+De partager l'éclat qui vient du diadème.
+Ainsi ne pensez pas que des feux obstinés
+M'inspirent les conseils que je vous ai donnés,
+Si j'étais sans l'amour, dont ma raison s'irrite,
+Je vous les donnerais avec plus de mérite,
+On me croit maintenant aveugle et malheureux,
+On me croirait alors et grand et généreux,
+On mettrait mes conseils entre les grands exemples,
+Et l'on m'élèverait à la gloire des temples.
+Mais quand ils partiraient d'un amour odieux,
+Qu'importe d'où procède un conseil glorieux ?
+L'amour que je ressens m'est un poison funeste,
+Mais je l'estimerais comme un présent céleste,
+Si lors qu'il me confond et qu'il me fait rougir
+Pour votre propre gloire il me faisait agir.
+
+Mais il est d'un sujet qui respecte vos lois
+De résister aux Rois pour la gloire des Rois.
+Pardonnez donc, Madame, à cette ardeur extrême
+Qui s'oppose à la main qui m'offre un diadème,
+Je crois que cet amour qui peut me faire Roi
+Est un grand attentat que je fuis malgré moi.
+Jusques ici par vous, et pour vous redoutable
+J'ai peut-être rendu votre Empire indomptable,
+J'ai fait pour votre gloire et pour le rendre heureux
+Tout ce que pouvait faire un sujet généreux ;
+Mais enfin je connais, et je commence à croire
+Que je n'ai pas tout fait ce que veut votre gloire,
+Je manque en une chose où je puis recourir,
+C'est ce que je vis encore et qu'il fallait mourir.
+
+Le devoir de sujet, cette loi que j'honore,
+M'oblige incessamment à faire plus encore.
+Mais un autre devoir où les Rois sont soumis
+Veut que vous fassiez moins qu'il ne vous est permis.
+
+Avez-vous des soupçons de ma fidélité ?
+Croyez-vous que la mort d'un Prince magnanime
+À mon transport aveugle ajoute quelque crime ?
+C'est là l'horrible nom que je donne à l'espoir
+Si votre Majesté me défend d'en avoir.
+Enfin, lorsqu'on m'attaque avec tant d'injustices
+Croirez-vous l'imposture et non pas mes services.
+
+Ha ! Madame, ce doute honore l'imposture,
+Et fait à l'innocence une mortelle injure.
+
+Puisque vous le voulez j'accepte la puissance,
+Mais j'étais satisfait de mon obéissance ;
+Et vous faites un Roi qu'après tant de bienfaits
+Vous compterez toujours au rang de vos sujets.
+Mais puisqu'il faut régner, souffrez que je commence
+Par un acte de paix, d'amour et de clémence.
+Araxe a contre moi sans sujet attenté,
+Je demande sa grâce à votre Majesté.
+
+
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
+
+En vain j'ai relevé ma fortune abattue,
+En vain de tant de gloire elle s'est revêtue,
+Son calme n'est pour moi qu'un calme dangereux,
+Et le bien que je tiens ne me rends pas heureux.
+Plus le destin me donne en cette ample carrière,
+Et plus à mes désirs je trouve de matière.
+Triste condition de l'homme infortuné
+Dont le coeur n'est jamais ni content ni borné !
+Lors que je m'imagine obtenir la victoire
+De tout ce qui blessait mon repos et ma gloire,
+Je trouve dans moi-même un ennemi nouveau,
+Mon propre esprit me gêne, et devient mon bourreau.
+
+Hélas quand un esprit ne peut goûter son bien
+Même en possédant tout il ne possède rien.
+
+Il est vrai qu'à me voir, parmi cette abondance
+On doit me croire heureux, si l'on croit l'apparence ;
+Mais ce qui me tient lieu de cent calamités
+C'est d'avoir un égal qui marche à mes côtés.
+Que de biens et d'honneurs le Ciel nous assouvisse,
+Il ne nous donne rien que pour notre supplice
+Lors qu'avec ses faveurs, un trait de son courroux
+Nous donne un compagnon aussi puissant que nous.
+
+      Oui Cléodate même
+Est celui que je crains quand il faut que je l'aime.
+
+Oui, sa seule amitié plus forte que le sort
+Dans mes jours orageux fut mon guide et mon port,
+Et pour ne pas montrer une âme trop ingrate
+Je dois ce témoignage aux soins de Cléodate.
+Mais c'est à mon avis le plus grand de nos maux
+De devoir notre gloire aux soins de nos égaux,
+Et lorsque de leurs mains, on tient une victoire
+Confesser qu'on la doit c'est trop payer sa gloire.
+Une secrète honte en revient dans mon coeur,
+En vain je la repousse, en vain j'en suis vainqueur,
+Toujours elle y renaît, toujours elle l'emporte,
+Et plus elle y renaît, plus elle devient forte.
+Bref, je crains que ce feu que je laisse allumer
+Me force de haïr ce que je dois aimer.
+Je le confesse, Atis, ses peines fortunées
+Redonnèrent le calme à mes tristes journées,
+Mais enfin je voudrais qu'ennemi de mon bien
+Il m'eût laissé périr pour ne lui devoir rien.
+Si le coup de ma mort si longtemps poursuivie
+Eût de mes ennemis la fureur assouvie,
+Je n'aurais pas la honte en ce pompeux état
+Et de devoir ma gloire, et d'en paraître ingrat,
+Et peut-être qu'heureux en mon malheur extrême
+Le sort qui m'abaissa m'eût relevé lui-même.
+J'aime enfin Cléodate, et sa fidélité,
+Mais je hais sa fortune, et notre égalité ;
+Un peu plus bas que moi c'est un objet aimable,
+Mais dans le même rang il m'est épouvantable ;
+Ainsi pour mon repos, et sans plus y penser
+Il faut perdre de lui ce qui peut me blesser ;
+Et s'il ne se peut pas que sa grandeur périsse
+Sans qu'il tombe lui-même au même précipice,
+Il n'importe qu'il tombe, et sans trouver d'appui
+Que même chute entraîne et sa grandeur et lui.
+C'est faiblesse d'esprit, c'est être malhabile,
+D'épargner un ami quand sa perte est utile.
+
+Je veux adroitement l'éloigner de la Cour,
+Et durant son absence ôter à sa fortune
+Tout ce qu'elle a de grand, et ce qui m'importune,
+Et le mettre en état qu'il dépende de moi,
+Qu'il me doive bientôt autant que je lui dois.
+
+      Laisse-nous.
+
+Vous paraissez atteint de quelque inquiétude,
+Auriez-vous des douleurs, seriez-vous en danger,
+Sans que notre amitié me les fît partager ?
+C'est m'avoir déjà fait une injure trop grande
+Que d'avoir enduré que je vous le demande.
+
+Je suis prêt, Cléodate, où faut-il donc courir ?
+Faut-il vivre pour vous, ou bien faut-il mourir ?
+J'embrasse également ou la mort ou la vie.
+
+Mais enfin quel tourment vous travaille si fort ?
+En quoi vous puis-je aider ?
+
+D'abandonner la Cour ! Ô dieux, quelle surprise !
+Cléodate en ce rang ferait cette entreprise !
+Cléodate est assis dans le siège des Dieux,
+Et lassé de la gloire il veut quitter les Cieux !
+Non, non, je ne saurais...
+
+Je sais que ton dessein est grand et généreux,
+Et qu'avec tes vertus il peut te rendre heureux,
+Je sais bien que la Cour si sujette aux orages,
+De même que la mer est un lieu de naufrages,
+Et que s'en retirer quand on est dans l'honneur
+C'est aller triompher, c'est un nouveau bonheur
+Que le sort inconstant qui se plaît à nous nuire
+Avec tout son pouvoir ne saurait plus détruire.
+Bref, je souhaiterais que ce même dessein
+Par un peu de vertu pût naître dans mon sein,
+Je me signalerais par une illustre fuite
+Et t'en disputerais la gloire et le mérite.
+Je n'oserais pourtant te donner un conseil,
+De peur de me priver d'un ami sans pareil ;
+Et je n'oserais aussi par un effort contraire
+M'opposer à tes veux de peur de te déplaire.
+Mais au moins ne fais rien de trop précipité.
+
+C'est à tes ennemis, c'est à leur artifice
+Que tu dois demander ce funeste service.
+Moi dont le bras armé voudrait te retenir
+Je m'irais employer à te faire bannir !
+
+Il faut donc malgré moi plaire à ta frénésie,
+Et te servir enfin selon ta fantaisie.
+
+Doutez-vous de ma foi ?
+
+Non, je ne feindrai point, et je te le promets
+De suivre exactement tes voeux et tes souhaits.
+
+Mais ne saurai-je point le sujet malheureux
+Qui te rendra toi-même injuste et rigoureux ?
+Faut-il que je l'ignore et que tu m'y contraignes ?
+
+Mais enfin qu'aimes-tu ?
+
+Axiane !
+
+Depuis quand cet amour est-il dedans ton âme,
+Qu'on en n'a jamais vu le moindre trait de flamme ?
+
+Avecque ton amour il est à redouter.
+Je le confesse enfin ta fuite est nécessaire.
+C'est ainsi qu'on peut vaincre un si grand adversaire.
+Que si victorieux de ce puissant amour
+Tu veux dans quelque temps revenir à la Cour,
+Tes services passés, ta foi toujours fidèle
+T'en ouvriront toujours la porte la plus belle ;
+Ou si tes ennemis voulaient te la fermer
+J'y suis pour te défendre, et pour les désarmer.
+
+Qu'ai-je ouï !
+
+      Je viens ici, Madame,
+Poussé par Cléodate.
+
+Au moins il veut partir, et quoi que l'on en pense
+Il croit que sa retraite est une récompense.
+
+      Il est bien résolu.
+
+Mais si votre refus comme je l'appréhende
+Lui fait prendre de soi le congé qu'il demande ?
+Pour moi j'approuverais de le laisser partir,
+Assuré que bientôt il doit s'en repentir,
+Et qu'enfin le remords que son caprice enferme
+Vous le rendra bientôt plus constant et plus ferme.
+Ainsi le repentir qui le ramènera
+Fera taire les bruits, et vous justifiera.
+Enfin votre intérêt veut qu'on lui fasse croire
+Que vous pouvez sans lui conserver votre gloire.
+On retient quelquefois ces esprits orgueilleux
+En leur faisant savoir qu'on peut se passer d'eux.
+
+Il faut gagner pourtant ce que je sollicite,
+Et vaincre par adresse ou par autorité
+L'obstacle injurieux de ma félicité.
+
+      Pour vaincre mes tourments.
+Il faut te dire enfin pour ma propre allégeance
+Jusqu'où ma vanité porte mon espérance.
+Depuis qu'à ses sujets la Reine a fait juger
+Qu'aux lois du mariage elle veut s'engager,
+Et que de son État la charge étant trop forte
+Elle veut qu'un époux avec elle la porte,
+J'ai cru que dans le rang où le Ciel me fait voir
+Elle me permettrait et l'amour et l'espoir.
+Enfin j'en veux au trône où tout est adorable,
+Enfin j'y veux monter, ou je veux qu'il m'accable,
+Et je satisferai mon généreux orgueil
+Si le trône est mon ciel, ou s'il est mon cercueil.
+Mais afin d'espérer et sans crainte et sans peine,
+Il faut voir Cléodate éloigné de la Reine.
+Ce n'est pas que je craigne ainsi qu'un autre mal
+Que son ambition le rende mon rival,
+Ou qu'une grande Reine indignement blessée
+Abaisse jusqu'à lui son coeur et sa pensée ;
+Mais comme elle se rend attentive à sa voix
+Et que de ses conseils elle se fait des lois,
+Si je puis par adresse inspirer dans son âme
+De me favoriser de sceptre et de sa flamme
+Je crains que Cléodate alors injurieux
+N'oppose à mon bonheur des conseils odieux.
+Il me veut pour ami, ses soins le font paraître,
+Mais nous pouvons douter s'il me voudrait pour maître :
+Tel aime ses amis plus que soi mille fois
+Qui les détesterait s'ils devenaient ses Rois.
+
+Il faut, il faut pourtant lui laisser toujours croire
+Que de son seul amour je fais toute ma gloire.
+Comme Alcine gouverne et la Reine et son coeur,
+Elle peut commencer à m'en rendre vainqueur,
+Et pensant seulement me mettre dans sa grâce
+Elle peut dans son coeur me donner une place,
+Pendant que des amis et fidèles et forts
+Feront en mêle temps agir d'autres ressorts.
+Je sais bien que je trompe une fille adorable,
+Je sais que je me rends infidèle et coupable,
+Mais le sceptre qui s'offre à l'esprit enchanté
+Est une belle excuse à l'infidélité.
+C'est sans doute en nos coeurs une louable envie
+De vouloir que l'amour dure autant que la vie,
+Mais quoi qu'un noble amour puisse nous enseigner
+Le plus beau des désirs c'est celui de régner.
+Si tant et tant de fois comme avons ouï dire
+Qu'on peut tout violer pour gagner un empire,
+T'imaginerais-tu qu'on en eût excepté
+Les ridicules lois de la fidélité ?
+Ceux qui vont à la gloire ont une autre maxime,
+Ils se font des vertus de ce qu'on nomme crime,
+Enfin c'est être lâche, enfin c'est se trahir
+Que de pouvoir régner et vouloir obéir.
+
+Et moi je l'y rencontre, Alcine me l'amène,
+Et par tous les endroits où reluisent ses yeux
+Je trouve en même temps et mes Rois et mes Dieux.
+
+Quel tonnerre ai-je ouï ! Quel plus rude martyre !
+Que dites-vous, Madame, ou que voulez-vous dire ?
+
+Me confonde le Ciel si jamais la nature
+Vit naître dans le monde une amitié plus pure.
+Le sceptre a des appas pour les ambitieux,
+Mais le sceptre sans vous déplairait à mes yeux.
+Je le jure, Madame, et si je vous offense
+Les Dieux ne sont pas Dieux, s'ils n'en prennent vengeance.
+Atis qui voit mon coeur ainsi que je le vois,
+Vous dira si mon coeur est semblable à ma voix.
+Parlez, parlez, Atis, ou bien plutôt, Madame,
+Commandez que ma main vous découvre mon âme,
+Et je vous ferai voir si l'on aime un vainqueur
+Alors que pour lui plaire on se perce le coeur.
+
+Mais aussi refuser le congé de mourir,
+C'est commander de vivre à qui voudrait périr ;
+Et c'est donner sans doute une preuve assez grande
+Que l'on veut conserver celui qui le demande.
+Je vivrai donc pour vous, et pour vous faire voir
+Que ma mort et ma vie est en votre pouvoir.
+J'ai cherché jusqu'ici la faveur de la Reine
+Avec inquiétude, et même avecque peine,
+Et n'ai cherché ce bien dont votre oeil est jaloux
+Que pour être plus digne et plus aimé de vous.
+Cependant ô malheur de l'amour la plus vraie
+Qui fit jamais dans l'âme une incurable plaie,
+On me hait, on me tue, on tâche à me blâmer
+Par la même raison qui doit me faire aimer.
+Ha ! C'est trop, cher Atis, tâche à lui faire croire
+Ce qu'elle devrait voir, que l'aimer est ma gloire.
+
+Ainsi j'espérerai.
+
+Et moi je vais languir, jusqu'à ce que les Dieux
+M'ouvrent entièrement ou l'Enfer, ou les Cieux.
+
+      On serait téméraire
+D'être d'un sentiment qui vous serait contraire ;
+Et le conseil de l'homme est-il considéré
+Quand on est comme vous par le ciel inspiré ?
+Lorsque des Potentats le Ciel prend la défense
+Par cent moyens divers il fonde leur puissance.
+Jusques ici pour vous touché visiblement
+Son amour immortel parut diversement,
+Et sans doute aujourd'hui ce Père des Monarques
+Veut de ce même amour vous donner d'autres marques
+Par le choix d'un sujet plein de zèle et de foi,
+Qui vous soulagera sous le titre de Roi.
+Ainsi ce trône auguste où chacun vous adore
+Avec un double appui sera plus ferme encore.
+Votre pouvoir est grand, il est digne de vous,
+Mais il vous semblera plus aimable et plus doux
+Lorsqu'un Prince obligé par une grande Reine
+Vous en laissant le bien n'en prendra que la peine.
+Pour moi me voilà prêt, suivant toujours vos lois
+De me soumettre au Roi que fera votre choix.
+Déjà mon coeur soumis révère sa puissance,
+Et déjà du désir lui rend obéissance,
+Sachant que par un Dieu votre esprit inspiré,
+Ne peut faire qu'un choix digne d'être adoré.
+
+Que la Reine me fait un bien incomparable !
+Et qu'en te retenant elle m'est favorable !
+Enfin ses volontés que tu dois respecter
+Me laisse un ami que tu voulais m'ôter.
+
+Tu te crois misérable, et pourtant si tu veux
+Il ne tiendra qu'à toi que tu ne sois heureux.
+Veux-tu que je te parle avec cette franchise
+Qu'une longue amitié nous a toujours permise ?
+La Reine a résolu de nous donner un Roi,
+Tâche que son esprit se déclare pour moi.
+Renverse tes raisons par des raisons plus fortes,
+Ouvre-moi de l'Empire et la gloire et les portes,
+Si quelqu'un doit régner, ne vaut-il pas bien mieux
+Que ce soit ton Ami qu'un Monarque odieux ?
+Obtiens, obtiens pour moi cette grande victoire,
+Fais un Roi qui te doive et son sceptre et sa gloire,
+Et je saurai bien rendre à ta fidèle ardeur
+Couronne pour Couronne, et grandeur pour grandeur ;
+L'amour est dans ton coeur sans biens et sans délices,
+Comme un désespéré qui court aux précipices,
+Enfin si je commande, enfin si je suis Roi,
+Axiane te plaît, Axiane est à toi ;
+Et pour mieux te payer et mieux te satisfaire,
+Je puis te faire entrer au trône de son frère.
+
+      Oui suivant mes desseins
+Je puis faire tomber son sceptre entre tes mains.
+
+Tout ce qui mène au trône est juste et légitime.
+
+Tu ne sais pas aimer, ou bien tu n'aimes pas.
+
+Tu veux être absolu, tu le fais bien paraître,
+Et crains que ton ami ne devienne ton Maître.
+
+Voulez-vous m'attaquer avecque ce discours ?
+
+Certes vous m'en donnez un fort grand témoignage.
+
+Vous vanter de ce bien c'est me l'avoir ravi.
+
+Le sort a fait ce bien que vous avez cru faire.
+
+Et moi, quoi que la terre ou le Ciel me destine,
+Ou Monarque, ou sujet, j'ai conclu ta ruine ;
+Je ne veux point d'amis qui soient si généreux,
+Et j'aime les méchants qui me rendront heureux.
+
+Quiconque estimera votre tranquillité
+Donnera ce conseil à votre majesté.
+Plaise aux Dieux que l'État toujours d'intelligence
+Imite mon respect et mon obéissance.
+
+Cléodate Madame ! Il est incomparable,
+Et vous ne pouvez faire un choix plus adorable ;
+Il est digne d'avoir un rang entre les Rois,
+Si pourtant son esprit peut souffrir votre choix.
+
+      Au moins je l'appréhende.
+
+Permettez donc plutôt que je perde la vie,
+De peur qu'un zèle ardent ne passe pour envie.
+
+Je parlerai, Madame, et je suivrai vos lois
+Puisque vous le voulez et qu'enfin je le dois.
+Cléodate est charmé des beautés d'Axiane,
+Pour lui tout autre objet est funeste et profane,
+Et pour elle soumis, et pour elle inhumain
+Jusque sur les Autels il porterait la main.
+
+      Il l'adore,
+Et s'il pouvait plus faire, il ferait plus encore.
+
+Je ne condamne point un amour magnanime,
+Tout adorable objet rend l'amour légitime ;
+Mais je condamne au moins ses injustes desseins,
+Et je crois découvrir le crime que j'en crains.
+Qui ne jugerait pas que sa main trop hardie
+Favorise déjà le Roi de la Médie ?
+Et que pour obtenir Axiane sa soeur
+La noire trahison infecte ce grand coeur ?
+Pourquoi vous presse-t-il dans la paix où nous sommes
+D'envoyer à ce Roi tant d'argent et tant d'hommes ?
+Les Scythes qu'il craignait sont vaincus et défaits,
+Et comme votre État, son État est en paix.
+Pourquoi donc tous les jours comme par quelques charmes
+Éloigne-t-il de vous votre forces et vos armes ?
+Qui ne connaîtrait pas qu'on forme un attentat
+Et que pour l'achever on affaiblit l'État ?
+Mais pourquoi l'a-t-on vu d'une force obstinée
+Opposer des raisons contre votre hyménée ?
+Il redoute qu'un Roi n'arrache de ses mains
+Le moyen d'accomplir ses injustes desseins ;
+Car enfin pouvant tout dans ce puissant Empire,
+Il a tous les secrets qui peuvent le détruire.
+Pour gagner Axiane il ose tout tenter,
+Et par un crime heureux il veut la mériter.
+
+On prend peu de témoins d'un dessein si tragique.
+Et contre les grands maux que l'on peut redouter
+L'apparence est la voix que l'on doit écouter.
+
+      Elle lui parle.
+
+Assurez-vous, Madame, et pour vous et pour nous.
+
+Quand je veux vous servir me croyez-vous un traître ?
+
+      Que mon sort est étrange.
+
+J'ai pensé vous servir de vous représenter
+Ce que tant de raisons me faisaient redouter,
+Mais si c'est un forfait qui regarde l'Empire
+Que de dire trop tôt ce que le zèle inspire,
+J'ai failli, je l'avoue, et ne m'en repends pas,
+Puisque c'est pour sauver et vous et vos États.
+
 Je sais que je dépends de votre bras auguste,
 Je sais qu'il est puissant, mais je sais qu'il est juste ;
 Comment pourra-t-on rendre un Roi victorieux
@@ -2193,19 +1471,8 @@ Car enfin qui craindra si personne n'accuse ?
 Il faut pour leur repos que les plus justes Rois
 Laissent la liberté d'accuser quelquefois.
 
--*who_nitocris
-Ne vous ruinez point avecque cette audace,
-Pour la dernière fois je vous offre ma grâce,
-Un mot de résistance allume mon courroux,
-Voulez-vous des témoins, on les prendra chez vous.
-
--*who_araxe
 Ha Madame !
 
--*who_nitocris
-      Achevez.
-
--*who_araxe
       Quoi que je puisse faire
 Je ne crains pas la mort, je crains de vous déplaire.
 Je cède à ce rayon de la divinité
@@ -2235,29 +1502,551 @@ L'amour les a commis, et vous en êtes cause,
 Car si votre mérite eût été moins puissant
 Je n'aurais pas aimé, je serais innocent.
 
-**** *book_ *id_V04 *act_V *date_1648
+Qu'on reçoit aisément un jugement si doux.
 
--*who_nitocris
-Sortez, et qu'il demeure en la chambre prochaine.
-Vous le voyez, Achate, et sa faute est certaine,
-Et par un artifice insolent, odieux,
-Et digne seulement d'un coeur ambitieux,
-Il veut faire servir et sa faute et son crime
-À surprendre aujourd'hui mon coeur ou mon estime.
-Enfin par ce succès je commence à prévoir
-Que l'hymen souhaité blesserait mon pouvoir,
-Et vois par les conseils que Cléodate donne,
-Qu'il aime en bon sujet le bien de ma Couronne.
 
--*who_achate
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atis
+
+Qu'est-ce que votre esprit se forme et se propose ?
+Et que désire-t-on quand on a toute chose ?
+
+On ne voit toutefois aucun signe d'orage,
+Et le Ciel est pour vous tranquille et sans nuage.
+Vous tenez à la Cour et la place et le rang
+Que doivent occuper le mérite et le sang,
+Bref, on vous y regarde au degré de vos pères
+Comme dispensateur des fortunes prospères,
+Seriez-vous malheureux dans ces heureux instants
+Qu'un seul de vos regards rend les autres contents ?
+
+Quoi Seigneur, Cléodate...
+
+Seigneur, c'est toutefois par les soins qu'il a pris
+Que vous êtes en grâce auprès de Nitocris.
+Pour vous sa seule main fidèle et généreuse
+Soutint votre fortune autrefois malheureuse ;
+Et par une vertu qu'on ignore à la Cour
+Votre calamité fit briller son amour ;
+Enfin un Compagnon qui lui sera semblable
+Est plutôt un appui qu'un fardeau redoutable.
+
+Voulez-vous donc le perdre et le priver du jour ?
+
+Le voici.
+
+      Dieux quelle ingratitude !
+
+Mais gardez que sur vous ne fonde la tempête,
+Tandis que vous croyez la pousser sur sa tête.
+Vous voyez que la Reine a d'autres sentiments.
+Pourquoi presser si fort ?
+
+Vous ne pensez donc plus à la Princesse Alcine,
+Ce n'est donc plus son oeil dont l'amour vous domine,
+Et cette passion dont vous sembliez charmé
+N'était donc qu'un portrait d'un amour enflammé.
+
+Alcine vient ici.
+
+
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_axiane
+
+Hélas ! Tu dois savoir...
+
+Ha que ne dit-on pas lorsque le coeur soupire ?
+
+Oui j'aime ses vertus qui sont de grands appas.
+
+      Enfin je le confesse ;
+Lorsque par un dessein propice ou rigoureux
+On aime la vertu d'un homme généreux,
+Je sens bien par les soins que mon âme se donne
+Que peu s'en faut aussi qu'on n'aime sa personne.
+Depuis l'instant fatal que nous eûmes appris
+Qu'il veut abandonner la Cour de Nitocris,
+Hélas ! Je reconnais plus mon oeil le regarde
+Qu'il était dans mon coeur sans que j'y prisse garde,
+Que sans le ressentir l'âme peut s'enflammer,
+Et qu'on aime parfois sans que l'on pense aimer.
+Mais de grâce dis-moi, toi que je veux en croire
+S'il est honteux d'aimer l'auteur de notre gloire ?
+Puis-je moins lui donner ? Lui serait-il moins dû
+Qu'une place en mon coeur pour un trône rendu ?
+Enfin si je ne l'aime, il ne faut rien te feindre,
+Je cherche les raisons qui peuvent m'y contraindre.
+Enfin si je ne l'aime, au moins m'avoueras-tu
+Que je pourrais l'aimer avec tant de vertu ;
+Et comme je dois tout à son courage extrême
+Je crois qu'il me fait tort s'il ne croit que je l'aime,
+Et s'il juge mon coeur et grand et généreux
+Il doit en sa faveur le juger amoureux.
+
+Au moins c'est un effet que l'amour produit peu
+Que de quitter les lieux où le coeur est en feu ;
+Et l'âme un peu constante en ses prisons réduite
+Aime mieux y mourir que de prendre la fuite.
+
+Si tu connais l'amour je t'en laisse juger.
+
+Je m'en étonne.
+
+La justice elle-même en cet événement
+Aurait beaucoup de peine à rendre un jugement,
+Et de quelque côté que penche un choix auguste,
+Il est juste, Madame, et tout ensemble injuste.
+Pourquoi pour l'un des deux prononcer aujourd'hui
+Si l'autre a mérité qu'on juge aussi pour lui.
+Si quelque chose entre eux met de la différence,
+Ce n'est pas la vertu, c'est la seule naissance.
+En effet, Cléodate est descendu d'un sang
+Trop éloigné du vôtre, et trop de votre rang ;
+Sa vertu, dira-t-on, qui s'élève elle-même
+Vaut mieux que la naissance et que le diadème ;
+Mais enfin ce discours qu'on se plaît d'écouter
+N'est raison que pour ceux qui veulent se flatter.
+Le trône veut un sang qui le rende adorable,
+Le peuple veut un Roi qui lui soit vénérable,
+Et qui force au respect et l'esprit et les yeux
+Par une longue suite et de gloire et d'aïeux.
+Bien que votre faveur et juste et non commune
+Du fameux Cléodate élève la fortune,
+On remarquera peu le défaut de son sang
+Tandis que de sujet il gardera le rang,
+Car quelque grand honneur qui couronne sa vie
+Le titre de sujet est un nom sans envie ;
+Ou bien si Cléodate a quelque envieux,
+Au moins, ce qui les flatte, il obéit comme eux :
+Mais enfin aussitôt qu'il portera les marques
+Qui font dessus un trône adorer les Monarques,
+Comme le trône est grand, comme le trône est haut,
+Alors de tous côtés on verra son défaut.
+Comme on le regardait par sa seule vaillance,
+On le regardera par sa seule naissance ;
+Et qui peut empêcher un peuple médisant
+De dire que l'amour l'aura rendu si grand ?
+Si je ne vous rends pas victoire pour victoire,
+Je dois, je dois au moins parler pour votre gloire ;
+Puisque Araxe est aimable et sort du sang des Rois,
+Araxe est donc celui dont je ferais le choix.
+
+Araxe a fait depuis tant d'actes magnanimes
+Qu'on pense avoir songé ce qu'on sait de ses crimes
+Et ce Prince fameux qu'on ne peut plus haïr
+Mérite de régner à force d'obéir.
+
+La Reine m'apprendra ce que je voudrais faire,
+Et nous allons savoir avec son jugement
+Qui de vous ou de moi parle plus sainement.
+
+Hélas... Mais je dois tout aux bontés de la Reine,
+Étouffons notre amour.
+
+Tu veux donc renoncer à ton propre bonheur ?
+Tu veux abandonner et la gloire et l'honneur ?
+Quelles fortes raisons peuvent te faire croire
+Qu'on trouve du repos en sortant de la gloire.
+Quoi que cherche l'esprit pour devenir heureux
+La gloire est le repos des esprits généreux,
+Et la tranquillité des fortunes privées
+Déplaît en peu de temps aux âmes relevées.
+
+Mais si la Reine a fait un dessein tout contraire,
+Peux-tu lui résister, et ne pas lui déplaire ?
+
+Oui, la Reine témoigne une autre intention.
+
+      Je le crois, Cléodate,
+Mais ne murmure point où ton bonheur éclate,
+Elle t'aime sans doute ; et par un digne choix
+Elle veut te placer dans le nombre des Rois.
+Quel sort serait plus noble ?
+
+Si la Cour a pour toi quelque secret tourment
+Qui t'oblige à penser à ton éloignement,
+Est-il enfin si fort ce mal qui te possède
+Qu'un trône présenté n'en soit pas le remède ?
+Et n'avoueras-tu pas que des sceptres offerts
+Pour arrêter les coeurs sont d'agréables fers ?
+Je te dis ce secret par une crainte extrême
+Qu'en pressant ton départ tu te nuises à toi-même ;
+Et je te dois assez et de bien et d'honneur
+Pour t'exciter au moins d'attendre ton bonheur.
+
+      Et t'offre une Couronne,
+Je crois qu'un tel avis ne déplaît à personne.
+
+Qui t'oblige à tenir cet étrange langage ?
+
+Qui pourrait contenter tes voeux et tes désirs,
+Si tu mets la Couronne entre tes déplaisirs ?
+Quoi n'aimerais-tu pas une adorable Reine ?
+
+Aimes-tu donc ailleurs ?
+
+Non, non, ne pense pas qu'injuste ou dédaigneuse
+Je condamne un amour qui me rend orgueilleuse
+Si des Rois le plus grand, et le plus redouté
+Se tiendrait glorieux de t'avoir surmonté,
+N'est-ce pas à mon sort une pareille gloire
+D'avoir sur Cléodate obtenu la victoire ?
+C'est après tant de biens me faire un nouveau bien
+De me donner ton coeur quand je te dois mien.
+Aussi pour reconnaître une grâce si chère
+Au moins je t'offrirais ce coeur qui te révère,
+Si ce coeur redevable à ton bras fortuné
+Était digne de toi sans être couronné.
+Je te dirais enfin que je veux que tu m'aimes,
+Si je pouvais t'offrir d'illustres diadèmes.
+Mais puisque mon destin par un ordre fatal
+Ne peut à tes vertus être si libéral,
+Au moins je ferais voir que j'aime Cléodate,
+En le priant de vaincre une amour trop ingrate,
+Et de prendre d'une autre équitable en son choix
+Le sceptre et la grandeur que je lui donnerais.
+
+J'excuse librement cet amour qui t'enchante
+Pourvu que ta fortune en demeure contente ;
+Mais si ce même amour t'ôtait du rang des Rois
+Ainsi qu'un criminel je le condamnerais.
+Je t'aime Cléodate, et parce que je t'aime
+Je veux voir sur ton front briller un Diadème ;
+Je te perdrai contente et telle qu'on me croit
+Si lorsque je te perdis un trône te reçoit.
+Si tu crois que sans moi la plus belle Couronne
+Déplaisante à tes yeux est un mal qu'on te donne,
+Pour le moins c'est un mal qui plaît en peu de temps
+Et que souhaiteraient les coeurs les plus contents.
+Tu sais ce que je dois au secours de la Reine,
+Que par elle je vis, peu s'en faut, souveraine,
+Et que mon sang par elle aujourd'hui glorieux
+Règne dessus le trône où régnaient mes aïeux.
+Pourrais-je mieux payer cette faveur extrême
+Qu'en lui cédant un coeur et qui m'aime et que j'aime ?
+Donne-toi donc pour moi sans plus me contester,
+Puisque c'est par toi seul que je puis m'acquitter.
+Crois que tu fus à moi comme c'est ton envie,
+Et qu'il faut te donner pour le prix de ma vie :
+Me refuserais-tu de payer ce grand bien
+Lorsqu'en servant de prix tu recevras le tien ?
+Que si pour t'obliger d'accepter un empire
+Il ne faut plus t'aimer, et qu'il faille le dire,
+Puisque mes feux sont vains et mes voeux superflus,
+J'ai sur moi ce pouvoir que je ne t'aime plus.
+
+Ils commencent bientôt à maltraiter leur Reine,
+De la vouer peut-être à l'objet de sa haine.
+Madame pardonnez à mon ressentiment,
+Je veux bien me soumettre à votre jugement ;
+Mais est-il de l'honneur d'un trône héréditaire
+Que je prenne des lois d'un peuple tributaire ?
+Mais est-il du devoir des fidèles sujets
+Que sans me consulter ils fassent des projets ?
+Ils demandent un Roi comme un bien nécessaire,
+Mais ce Roi doit me plaire avant que de leur plaire,
+Et pour vous rendre honneur je dois leur témoigner
+Que j'ai par votre exemple appris à bien régner.
+
+Je ne vous nierai pas qu'il est si magnanime
+Qu'on doit à sa vertu bien plus que de l'estime.
+Mais sachant vos desseins ainsi que votre choix
+S'il était dans mon coeur, je vous le renvoierais.
+
+Il faut suivre vos lois sur peine d'être ingrate,
+Mais que puis-je donner au fameux Cléodate,
+Je ne lui donne pas un trône qu'il sauva,
+Madame, il le conquit lorsqu'il le conserva.
+
+
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcine
+
+Mais d'où vient qu'Axiane a l'esprit si changé
+Depuis que Cléodate a demandé congé ?
+
+      Quoi ! Que voulez-vous dire ?
+
+Tel discours, tel soupir est souvent un témoin
+Que l'amour est au coeur ou qu'il n'en est pas loin ;
+Et même à Cléodate étant si redevable
+Croire que vous l'aimez c'est vous croire équitable.
+
+Vous aimez ses vertus, et vous ne l'aimez pas !
+Vous soupirez pourtant, et quoi qu'on puisse dire
+Pour les seules vertus rarement on soupire ;
+Ou si l'on soupire il est à présumer
+Qu'on aime beaucoup plus que l'on ne pense aimer.
+Ne dissimulez point, l'amour n'est pas faiblesse
+Quand son objet est noble.
+
+Qui sait s'il n'aime pas ? Au moins les grandes âmes
+Font gloire de brûler dans de si belles flammes.
+
+Mais en le retenant peut-on vous obliger ?
+
+      Je cherche ici la Reine.
+
+C'est pour moi, dites-vous, que votre âme soupire !
+Votre coeur est trop bas s'il veut moins qu'un Empire ;
+C'est pour le trône seul qu'il forme des désirs,
+C'est dans le trône seul qu'il trouve ses plaisirs,
+Et si ce coeur Royal ne court après les Reines
+Il croit mal employer et ses voeux et ses peines.
+Vous faites bien, Araxe, et si l'on doit aimer,
+Le trône est la beauté qui doit nous enflammer.
+
+Ce que me répondrait votre coeur innocent
+S'il pouvait se résoudre à dire ce qu'il sent.
+Vous pouvez l'avouer sans en craindre aucun blâme.
+Ces désirs relevés font voir une belle âme,
+Et si je suis au coeur d'un Prince si parfait,
+Je vois ce qu'on y trame et tout ce qui s'y fait.
+
+Si vous m'obéissez, je serais trop cruelle,
+Si vous me refusiez, vous seriez un rebelle,
+Quoi qu'il en soit, Araxe, après tant de combats,
+Je crains d'être obéie, et de ne l'être pas ;
+Et lorsqu'on veut mourir pour montrer que l'on aime,
+Araxe, l'on en prend le congé de soi-même.
+
+Il me gagne peut-être avec un faux transport.
+Qu'on est faible, bons Dieux, quand l'amour est trop fort !
+Hé bien je suspendrai ma colère et ma haine.
+
+      Mais je vais chez la Reine.
+
+À quelle extrémité me suis-je transportée ?
+Et jusqu'où le soupçon m'a-t-il précipitée ?
+Mais à qui le soupçon dont un coeur est gêné,
+Ne semble-t-il pas vrai quand l'amour l'a donné ?
+Et s'il faut croire enfin ce que m'a dit la Reine,
+Qu'il lui parle en captif, qui respecte sa chaîne,
+Après ce témoignage, et ces tristes leçons
+Qui dois-je condamner, Araxe, ou mes soupçons ?
+Et comme la Couronne en gloire si féconde
+Est la seule beauté qui plaît à tout le monde,
+Ce bien si désiré, ce bien si précieux
+Ne charmerait-il pas un coeur ambitieux ?
+Hélas j'accuse Araxe, et l'excuse moi-même
+Quand je vois la splendeur que jette un diadème.
+Quel esprit si constant ne s'emporterait pas
+Quand le chemin du trône est ouvert à ses pas ?
+Et qui pour conserver le titre de fidèle
+Ne voudrait pas courir quand un trône l'appelle ?
+Moi-même dont l'amour plein d'ardeur et de foi
+Ne crois rien de plus grand, ni de plus fort que soi,
+Peut-être aurais-je aussi le blâme que je donne
+Si l'on m'avait tentée avec une Couronne.
+Au moins j'arrêterai par de puissants efforts
+De mon ambitieux les pas et les transports,
+Au moins j'empêcherai qu'Araxe qui me gêne
+N'entre en victorieux dans l'esprit de la Reine.
+
+      Il est sorti.
+
+      Et moi je ne saurais le croire.
+
+Vos raisons ont sans doute un charme qui m'emporte,
+Et vous pourriez encore en dire une plus forte.
+Il est bien vrai qu'Araxe est sorti de ces Rois
+Qui les premiers au monde imposèrent des lois ;
+Mais à quoi lui servit cette haute naissance
+Qu'à le faire sortir de son obéissance ?
+Ainsi toutes les fois qu'il a considéré
+Que l'on a vu son sang sur un trône adoré,
+N'a-t-il pas témoigné par un effort extrême
+Qu'il voulait sur un trône être adoré lui-même ?
+N'a-t-il pas fait paraître en Prince furieux
+Qu'on doit tout redouter d'un coeur ambitieux ?
+Et que l'illustre sang qui fait les magnanimes
+Est bien souvent aussi la source des grands crimes ?
+Enfin où son orgueil ne sut-il pas aller ?
+On le sait, on l'a vu, je n'en dois point parler,
+Et je ne prétends pas réveiller votre haine
+En vous représentant son crime et votre peine
+Puisque après tant de maux, un pardon généreux
+D'un sujet criminel en fait un Prince heureux,
+Et que son repentir autant que sa défaite
+Fait briller votre gloire et vous a satisfaite.
+Mais est-il honorable à votre majesté
+De donner la Couronne à qui s'est révolté ?
+N'est-ce pas vous priver de votre propre gloire ?
+N'est-ce pas lui céder le prix de la victoire ?
+Et dire à l'Univers qui l'a vu révolter
+Que vous craignez celui que vous sûtes dompter,
+Que le sceptre est un bien qu'il peut enfin vous prendre,
+Et que vous le donnez ne pouvant le défendre ?
+Moindre serait la honte, et l'infortune aussi
+De perdre en résistant que de céder ainsi.
+Pardonnez à l'ardeur qui fait parler mon zèle,
+Pour vous il est hardi, c'est-à-dire fidèle.
+Si quelqu'un avec vous doit régner en ces lieux
+Ceux qui vous font régner le méritent le mieux ;
+Et ceux qui sont toujours grands et toujours adorables
+Ont les vertus des Rois, ont les Rois véritables.
+Cléodate a vaincu, Cléodate est aimé,
+C'est par là que l'on règne et qu'on est renommé,
+Cette haute vertu qui brille en sa personne
+Ayant vaincu des Rois mérite une Couronne.
+S'il n'est pas de leur sang, étant né vertueux
+Il est d'un sang plus noble, il est du sang des Dieux,
+Et sa main qui réduit vos ennemis en poudre
+Peut bien porter un sceptre ayant porté la foudre.
+Puisque enfin Cléodate a les vertus des Rois,
+Cléodate est celui dont je ferais le choix.
+
+Mais au moins Cléodate en tous lieux indomptable,
+Vainqueur des attentats, n'en fut jamais coupable.
+Il fut Dieu tutélaire en ce tragique lieu,
+Et peut en être Roi s'il lui servit de Dieu.
+Le refuseriez-vous, lui que chacun révère ?
+
+Au moins il est sorti d'un coeur noble et fidèle
+Qui dit les sentiments que lui donne son zèle.
+Au moins il vous fait voir qu'il est sans intérêt,
+Que votre seule gloire est tout ce qui lui plaît,
+Et que s'il possédait la grandeur souveraine,
+Il y vivrait en Roi dont vous seriez la Reine.
+
+Pensez-vous que le Ciel qui des Princes dispose
+En vain aux Potentats inspire quelque chose ?
+Non, non, par votre amour il montre clairement
+Qu'un Roi vous doit aider à régner sûrement ;
+Et par tant d'actions d'éternelle mémoire
+Dont Cléodate appuie et le trône et sa gloire,
+Le Ciel qui vous chérit, le Ciel veut témoigner
+Que pour votre bonheur c'est lui qui doit régner.
+
+Trop souvent du vrai bien pour qui notre âme est née,
+Par de fausses raisons elle s'est détournée ;
+Et le Ciel à vos yeux les veut représenter
+Afin de les combattre, afin de les dompter.
+
+Pour ne pas achever, vous avez trop parlé,
+Parlez, parlez, Araxe, envieux ou zélé.
+Quoi vous craindrez l'envie ainsi que quelque peine,
+Et vous ne craindrez pas la fureur d'une Reine !
+
+Mais pardonnez, Madame, à mon zèle indiscret,
+S'il ne peut se borner, ni se tenir secret.
+Si vous devez traiter comme en cette aventure
+De semblables avis ainsi qu'une imposture,
+Qui voudrait étonné par ces tristes leçons
+Vous donner des conseils sur de justes soupçons ?
+Qui n'aimera pas mieux, à couvert de la haine,
+Vous laisser en péril que de se mettre en peine ?
+Il est peu de sujets d'une si haute foi
+Qui ne s'aiment autant qu'ils respectent leur Roi.
+
+Oui c'est un attentat, mais votre Majesté
+Croira-t-elle un soupçon comme une vérité ?
+
+Mais la justice même est un monstre odieux
+Quand elle est sans oreille aussi bien que sans yeux.
+
+Moi, moi, je l'aimerais ? Que dites-vous Madame ?
+
+      S'il est vrai ce que l'on nous assure,
+Le frère d'Axiane est dans la sépulture.
+
+      On m'a dit qu'il est mort.
+
+Araxe a-t-il commis ces fautes effroyables ?
+
+Mais où retournez-vous ? Ne puis-je le savoir ?
+
+En effet, Cléodate aura peu de semblables.
+
+Quelques-uns les prendraient pour des esprits blessés.
+
+Enfin pour refuser un sceptre qu'on apporte,
+Il faut avoir une âme ou bien faible ou bien forte.
+
+Que l'extrême fureur dure peu dans une âme
+Lorsque l'amour y jette un rayon de sa flamme !
+Hélas ! J'ai souhaité comme pour me venger
+Qu'Araxe succombât sous ce dernier danger,
+Et quand je vois sa peine, et ma vengeance prête,
+Je voudrais que son mal retombât sur ma tête.
+Ô Dieux ! Ô justes Dieux quel crime ai-je commis
+Pour aimer le plus grand de tous mes ennemis ?
+Car des plus noirs destins la fureur donne-t-elle
+Un plus grand ennemi qu'un amant infidèle ?
+Les autres ennemis et vaincus et défaits
+Pour le moins en leur mort nous laissent quelque paix,
+Et de cet ennemi la perte déplorable
+Laisserait dans mon âme une guerre effroyable.
+Je souhaite sa mort, et pourtant je la crains,
+Mon âme le déteste, et pourtant je le plains,
+Et toujours sans repos inconstante et confuse,
+Je fais des voeux pour lui quand même je l'accuse.
+Je ne regarde plus l'injure qu'il me fait,
+Je regarde l'horreur ou son destin le met,
+Je voudrais son salut à moi-même cruelle,
+Même aux conditions qu'il me fut infidèle.
+Mais la Reine...
+
+      Ô Ciel soit-lui propice ?
+
+
+**** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
+
+      Oui vous pouvez partir,
+Et bientôt vous en plaindre et vous en repentir.
+
+Seigneur, la Reine usant du pouvoir souverain,
+Touchant votre départ a changé de dessein.
+Bref elle vous attend pour une conférence
+Qui tend à partager la suprême puissance,
+Elle y veut votre avis, enfin répondez-y,
+Comme étant assuré de n'être pas haï.
+
+Mais on ouvre, Seigneur, Araxe est avec elle.
+
+      N'en doutez point, Madame.
+
+      Il est exécuté.
+L'on cherche Cléodate, Araxe est arrêté.
+Mais souffrez que je parle avec cette franchise
+Que votre Majesté m'a de tout temps permise.
+Vous avez, ce me semble, un peu trop promptement
+Sur un simple soupçon rendu ce jugement.
+Si ce qu'Araxe a dit n'est pas une imposture
+Qui pourra de son coeur effacer cette injure ?
+
+On ne saurait trop tôt châtier un coupable.
+
+      On le cherche, Madame.
+
+Mais voici Cléodate.
+
+      Enfin vous le voyez,
+Araxe a moins failli que vous ne le croyez,
+Tout ce qu'il vous a dit n'est pas une imposture,
+Vous voyez de l'amour, craignez une autre injure.
+Madame, cependant, Araxe est arrêté,
+Et s'il est innocent, c'est un Prince irrité.
+
+Il parle en innocent comme tous les coupables.
+
+Je vais le retrouver, la Reine le veut voir
+Depuis qu'elle a reçu les Députés des Mèdes,
+Il semble que son mal surpasse les remèdes,
+Son amour, son dépit, un soupçon éternel
+Lui peignent Cléodate ainsi qu'un criminel ;
+Enfin pour peu qu'Araxe en donne d'apparence,
+Je crains pour Cléodate, et pour son innocence.
+Que ne peut un dépit si vif et si pressant
+Alors qu'il se rencontre avec un bras puissant ?
+
+En effet, on voit peu de ces coeurs adorables.
+
+Les seuls ambitieux les croiront insensés.
+
+Chacun en jugera selon sa passion.
+Mais il faut m'acquitter de ma commission.
+
 C'est là le sentiment que ma fidélité
 S'efforça d'inspirer à votre Majesté.
 
--*who_nitocris
-Il faut donc faire voir ma force et mon courage,
-Mais, hélas ! J'entreprends un difficile ouvrage.
-
--*who_achate
 Pour gagner sur soi-même un pouvoir souverain
 Il faut être longtemps à soi-même inhumain.
 Comme les autres biens d'une valeur extrême
@@ -2301,14 +2090,8 @@ Ne connaît que le Ciel pour arbitre et pour Maître,
 Et sans nous exposer à recevoir des lois
 Régnons enfin sur ceux que nous ferions nos Rois.
 
--*who_achate
 Ha que cette victoire est digne d'une Reine !
 
--*who_nitocris
-Que ferai-je d'Araxe ? Enfin j'en suis en peine,
-Et tout ce qu'il a fait excite mon courroux.
-
--*who_achate
 En faveur du triomphe obtenu dessus vous,
 Comme au jour solennel d'une grande victoire
 Délivrez un coupable, et lui rendez sa gloire.
@@ -2319,100 +2102,3 @@ Par l'hymen glorieux d'une belle Princesse.
 Alcine est de son rang, elle l'acceptera,
 Et pour sa garantir Araxe l'aimera.
 
--*who_nitocris
-Qu'on les fasse venir, essayons ces remèdes.
-
-**** *book_ *id_V05 *act_V *date_1648
-
--*who_nitocris
-Mais voici Cléodate, et la Reine des Mèdes
-Achève noblement le travail entrepris,
-Et sois enfin toi seule, et ton bien et ton prix.
-Il est temps de penser après ces larmes vaines
-Que le Ciel vous a mise au rang des souveraines.
-Je vous ai déjà dit qu'un long et grand effroi
-Oblige vos sujets à souhaiter un Roi.
-Déjà leurs députés vous l'ont fait reconnaître,
-Et comme c'est à moi qu'ils demandent un Maître,
-On m'oblige à porter votre esprit généreux
-Au choix qu'ils veulent faire et pour vous et pour eux.
-
--*who_axiane
-Ils commencent bientôt à maltraiter leur Reine,
-De la vouer peut-être à l'objet de sa haine.
-Madame pardonnez à mon ressentiment,
-Je veux bien me soumettre à votre jugement ;
-Mais est-il de l'honneur d'un trône héréditaire
-Que je prenne des lois d'un peuple tributaire ?
-Mais est-il du devoir des fidèles sujets
-Que sans me consulter ils fassent des projets ?
-Ils demandent un Roi comme un bien nécessaire,
-Mais ce Roi doit me plaire avant que de leur plaire,
-Et pour vous rendre honneur je dois leur témoigner
-Que j'ai par votre exemple appris à bien régner.
-
--*who_nitocris
-Ce n'est pas une loi que leur main vous impose
-C'est un juste dessein que leur crainte propose,
-Et ce puissant destin qui veille incessamment
-Montre par votre amour qu'il fait tout sagement.
-Ce que vous prétendez est tout ce qu'ils prétendent,
-Vous aimes Cléodate, et c'est lui qu'ils demandent.
-Par un présage heureux qu'ils seront bons sujets
-Même sans y penser ils suivent vos projets.
-
--*who_axiane
-Je ne vous nierai pas qu'il est si magnanime
-Qu'on doit à sa vertu bien plus que de l'estime.
-Mais sachant vos desseins ainsi que votre choix
-S'il était dans mon coeur, je vous le renvoierais.
-
--*who_nitocris
-Enfin je vous le cède, ainsi qu'une victoire,
-Et pour votre avantage, et pour ma propre gloire.
-Vous pouvez noblement l'aimer à votre tour,
-Vous pouvez l'estimer digne de votre amour,
-Puisque par sa vertu qui se rend immortelle,
-Une Reine aujourd'hui l'a jugé digne d'elle.
-Il soutint votre trône, il le sut arrêter,
-Et qui soutient un trône est digne d'y monter.
-
--*who_axiane
-Il faut suivre vos lois sur peine d'être ingrate,
-Mais que puis-je donner au fameux Cléodate,
-Je ne lui donne pas un trône qu'il sauva,
-Madame, il le conquit lorsqu'il le conserva.
-
--*who_nitocris
-Accepte, Cléodate, un sceptre qu'on te donne,
-Tu ne pouvais manquer d'avoir une Couronne,
-Et quoi qu'eût fait le Ciel, il ne t'eût rien donné
-Si sa puissante main ne t'avait couronné.
-
--*who_cleodate
-Puisque vous le voulez j'accepte la puissance,
-Mais j'étais satisfait de mon obéissance ;
-Et vous faites un Roi qu'après tant de bienfaits
-Vous compterez toujours au rang de vos sujets.
-Mais puisqu'il faut régner, souffrez que je commence
-Par un acte de paix, d'amour et de clémence.
-Araxe a contre moi sans sujet attenté,
-Je demande sa grâce à votre Majesté.
-
--*who_nitocris
-Jamais ma volonté qui tâche d'être juste,
-N'empêchera le cours d'une action auguste.
-Araxe, des bontés toujours dignes des Rois
-Jettent un oeil dessus toi pour la seconde fois,
-Et la prison fatale où ma loi te destine,
-C'est le coeur amoureux de la Princesse Alcine.
-
--*who_araxe
-Qu'on reçoit aisément un jugement si doux.
-
--*who_nitocris
-Ainsi je veux enfin favorable pour vous
-Qu'on me connaisse moins par un beau diadème
-Que par un grand triomphe obtenu sur moi-même,
-Et que par mon exemple on aille raconter
-Qu'on peut dompter l'amour quand on veut le dompter.

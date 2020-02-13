@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_theodat  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1673  
 title: Théodat. Tragédie  
 ---

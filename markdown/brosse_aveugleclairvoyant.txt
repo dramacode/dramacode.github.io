@@ -1,6 +1,6 @@
 ---
 identifier: brosse_aveugleclairvoyant  
-creator: Brosse  
+creator: Brosse ; Georges Forestier.  
 date: 1650  
 title: L'Aveugle clair-voyant. Comédie  
 ---
@@ -1680,7 +1680,7 @@ J'espere d'en former quelque bon caractere⁎
 Qui maintiendra l'honneur de la fille & du pere.  
 Dictez.  
 
-    CLEANTHE *dicte.* [199]. < Lettre. >
+    CLEANTHE *dicte.* [199].  [200]
         Monsieur, sçachez que ma fille veut bien  
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,  
 Qu'il vienne promptement, & n'apprehende rien,  
@@ -1713,7 +1713,7 @@ Je lisois mot à mot ses folles escritures,
 J'en sçay le contenu, mais pour les détester  
 Je veux bien estant seul tout haut le réciter.  
 Pour le vieux Parmenon, cette fille insensee  
-A suivy son caprice, & non pas ma pensee.  < Lettre. >
+A suivy son caprice, & non pas ma pensee.   [204]
 Monsieur ce mot d'escrit est pour vous avertir  
 Que vostre fils n'est pas un party pour ma fille,  
 Tout mon sang se revolte, & ne peut consentir  
@@ -1727,7 +1727,7 @@ Si j'eusse eu tant soit peu plus de credulité ?
 (Il prend l'autre lettre.)
 
 Cette autre est de sa part addressee à Thelame  
-Voyons les beaux projets que forme cette infame.  < Lettre. >
+Voyons les beaux projets que forme cette infame.   [205]
 Seul & doux espoir de mes yeux  
 Puis que le desespoir vous bannit de ces lieux,  
 Apprenez que je vous veux suivre ;    54  
@@ -2228,7 +2228,7 @@ Mais qui dans cette sale a laissé cet escrit ?
 Donne-le-moy, Sylvestre, il faut voir ce qu'il porte,  
 La plume de Thelame escrit de cette sorte,  
 L'addresse⁎ est à Melice, ó Ciel ce suborneur  
-Tend infailliblement un piege à son honneur.  < Lettre. >
+Tend infailliblement un piege à son honneur.   [232]
 Madame j'ay leu vostre lettre  
 Qui veut m'obliger à promettre  
 De marquer mon depart par vostre enlevement,  
@@ -3669,11 +3669,17 @@ Revue mondiale
 
 [199] Pendant qu'il dicte sa lettre, Cléanthe lève « par deux fois la main pour … frapper » Mélice, comme en témoigne les vers 828 à 830.
 
+[200] Lettre.
+
 [200] *Le dessus* : « On dit aussi le *dessus* d'une lettre, pour dire la suscription, l'adresse » (Furetière). Il faut donc comprendre : « et que le dessus soit adressé au vieux Parmenon… ».
 
 [201] *Au prix* : « Façon de parler adv. dont on se sert en faisant comparaison. Ce que je vous ay dit jusqu'icy n'est rien au prix de ce que vous allez entendre » (Académie). Il faut donc comprendre : « On dort sur de l'Argent d'un agréable somme, comparé à cela, le duvet le plus mol n'a rien de doux ».
 
 [202] Mélice sort de scène, Sylvestre l'a vraisemblablement précédée.
+
+[204] Lettre.
+
+[205] Lettre.
 
 [203] *Parbieu* : « On dit aussi, *Par* bleu, & *par* bieu, en faisant semblant de jurer » (Furetière).
 
@@ -3726,6 +3732,8 @@ Revue mondiale
 [227]  « On appelle, Faire *justice*, executer publiquement un condamné à une peine corporelle » (Furetière).
 
 [228]  Comprendre : « avec crainte ». En effet, au XVII*e* siècle, « *en* figure dans beaucoup de tournures que la langue actuelle, se mettant à un autre point de vue, construit ou préfère construire avec d'autres prépositions comme … *avec* … ; Ex. : *En quoi seroit estimable celui qui fait plaisir s'il ne le fait qu'en intention de le prêter* ? (Malh., II, 57) » (Haase, § 126, 2°, E, p. 344-345).
+
+[232] Lettre.
 
 [229]  « **Devers**, dans le sens de *vers*, archaïque aujourd'hui, était d'un usage général au XVII*e* siècle » (Haase, *Syntaxe*, § 127, A, p. 349).
 

@@ -1,6 +1,6 @@
 ---
 identifier: ouville_damesuivante  
-creator: Antoine Le Métel, sieur d'Ourville  
+creator: Ouville, Antoine d' ; Georges Forestier.  
 date: 1643  
 title: La Dame suivante. Comédie  
 ---

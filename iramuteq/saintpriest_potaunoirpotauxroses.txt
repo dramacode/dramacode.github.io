@@ -1,8 +1,135 @@
 
 
-**** *book_ *id_I01 *act_I *date_1789
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
--*who_daphnis
+Ah ! Vous voilà ?
+
+Voir ce Rosier dont j'aime à contempler la fleur ; je l'arrose ; j'en prends soin... Voyez qu'elle est belle et fraîche.
+
+La belle couleur !
+
+Ah ! Que la peine qu'il prend est inutile.
+
+Il croit séduire mon coeur par l'offre de ses richesses, mais je les méprise ; elles n'apportent que souci, inquiétude... On n'enferme pas le bonheur dans une cassette.
+
+Je vous avais prié, Daphnis, de m'épargner vos aveux ; je vous remercie de vos sentiments, mais je ne puis les partager, ni ne dois les entendre.
+
+Il s'en va !... Ah ! Daphnis, tu ne sais pas combien il m'en coûte de t'affliger... Quel dehors séduisants ! Que sa voix est douce !... Mais qui sait si son coeur !... Si je consentais à l'aimer, si nous étions unis... Mais s'il était infidèle, j'en mourrais... Je ne m'exposerai point au danger de le perdre... Plaisirs purs que j'ai goûtés jusqu'à présent, n'abandonnez pas mon âme ; continuez à lui suffire... Aimable fleur que j'ai vu naître ; rosier qui vous en êtes paré pour me plaire, vous recevrez toujours mes soins ; c'est à vous que je vais consacrer mes loisirs... Mais pourquoi ? Lorsque je vois le papillon, se reposer sur vous, s'élever dans les airs, caresser d'autres fleurs, aller, revenir, voltiger, ne puis-je m'empêcher de me dire que si Daphnis partageait ainsi son hommage entre plusieurs bergères, je ne le verrais pas sans chagrin... Que m'importe qu'il soit inconstant, si je ne veux pas l'aimer ?.. Ah !...
+Non, non, je ne veux point aimer,
+Et pour toujours à l'amour je renonce...
+Hélas ! Pourrais-je m'enchaîner
+Par les serments que ma bouche prononce ?
+J'entends mon coeur désavouer
+Les sentiments qu'en vain ma voix annonce ;
+Il dit qu'il est fait pour aimer.
+Si de Daphnis je refuse l'hommage,
+Ma peine s'accroîtra par ma sévérité ;
+Si je l'accepte : ah ! je crains davantage
+Que mon Berger ne devienne volage,
+Et je mourrais d'une infidélité.
+C'en est fait, ma bouche prononce
+Les serments que mon coeur voudrait désavouer :
+Non, non, je ne veux point aimer,
+Et pour toujours à l'amour je renonce.
+
+Bonjour Alain, que portes-tu là ?
+
+Qu'il est joli : je te remercie : oh je le garderai !
+
+Il viendra se remettre en cage, n'en doutez pas.
+
+Et lui bien content d'avoir recouvré sa liberté...
+Son bonheur est pour moi une leçon... Je ne m'engagerai jamais.
+
+Qu'il ne faut pas offrir ce que nous ne sommes pas sûr de conserver à celle à qui nous le présentons.
+
+Eh ! Quoi donc ?
+
+Bon, c'est l'oiseau dont on peut le moins répondre... D'ailleurs je vous l'ai déjà dit cent fois ; je ne veux point recevoir un pareil hommage.
+
+Oh également ! Quoiqu'il eût peut-être plus de droit à me plaire.
+
+Eh ! Pourquoi pas lorsqu'on n'est pas plus disposée à écouter Alain que Daphnis ; c'est pour tousdeux une consolation.
+
+Je prétends rester libre ; je veux être heureuse ; et pour y parvenir, j'appelle l'indifférence à mon secours.
+Le vrai bonheur est dans l'indifférence ;
+C'est être heureux que vivre sans désirs :
+L'esprit est gai, quand le coeur fait silence,
+Mais chante-t-on en poussant des soupirs.
+
+Eh quoi ! Ces sons partent de cette statue.
+
+Qui que ce soit... Je ne veux plus rien entendre.
+
+Laisse moi.
+
+Je n'ai point arrosé la plante que je cultive. Daphnis m'a tout fait oublier ; il a troublé toutes mes idées. La chaleur du jour pourrait sécher la rose qui s'est ouverte à la fraîcheur du matin. Aimable fleur tu ne pareras jamais mon sein ; tu as trop d'éclat pour servir à une mortelle. Je te laisserai sur ta tige. Mais, ô ciel ! je ne la vois plus. On l'a cueillie. Qui ? Si c'était Daphnis. Oh non, il n'aurait pas eu l'âme assez Barbare. Cruelle main que je désire ne jamais connaître, tu ne sais pas tout le mal que tu me fais.
+Arbuste que ma main arrose,
+Adieu ta fleur ;
+Un méchant a cueilli la rose,
+Plus de bonheur !
+Quel oeil voudra dans la nature
+Te regarder ;
+Tu n'auras plus que ta verdure
+Pour te parer.
+J'aimais à te voir sur ta tige
+Te balancer,
+Tu n'es plus ; ta perte m'afflige ;
+Je vais pleurer.
+Lieux où je trouvais tant de charmes
+Matin et soir.
+Je veux, toute entière à mes larmes
+Ne plus vous voir.
+
+C'en est fait, je m'éloigne de ce bosquet pour n'y plus revenir.
+
+Je ne puis quitter ces lieux ; un charme secret m'y attache, un pouvoir impérieux m'y ramène... Tant il est vrai que ce qui nous rappelle les plaisirs que nous avons perdus, en nourrissant notre douleur, la rend cependant plus douce... Je veux que mon rosier dépouillé de son plus bel ornement, reçoive encore le tribut de mes larmes... Je n'ose le regarder.
+Ah ! Ma bonne amie... On m'a privé de tous mes plaisirs...
+
+Daphnis, je ne veux jamais le voir.
+
+Fidèle !
+
+Ne m'exposez pas à m'entendre répéter qu'il m'aime... Ses sentiments que mon coeur ne peut récompenser feraient son malheur !... Et je ne veux pas qu'il ait à me le reprocher.
+
+Ses yeux parleront.
+
+Oh, je n'aime rien... Mais puisque la perte d'une rose m'afflige, jugez de mes chagrins, si j'avais à gémir de l'inconstance de mon amant.
+
+Comme vous assurez cela !
+
+      Que dois-je dire !
+
+      Oui, je soupire ;
+Pourquoi vouloir m'arracher mon secret ?
+
+Qu'exigez-vous ?...
+
+Qu'exigez-vous ?
+Laissez-moi garder le silence.
+
+Je ne veux pas vous affliger.
+
+Laissons, laissons de tels discours.
+
+      Que vois-je ! ô Dieux !
+
+Est-il sûr de ne pas changer ?
+
+Ah ! Votre coeur est-il sincère ?
+
+Ah, Daphnis ! Ah, ma bonne amie ! Laissez-moi me cacher dans vos bras.
+
+Que fait donc, Alain ?
+
+Pour mon coeur il n'est plus de peines,
+Daphnis aura toute ma foi.
+
+Nous lui devons tous les deux beaucoup de reconnaissance.
+
+
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_daphnis
+
 Ô Liberté ! douce chimère !
 Flatteuse illusion du coeur,
 Tu séduis sans nous être chère,
@@ -20,109 +147,228 @@ De notre vie est le sommeil ;
 Amour fais que la jeune Hortense
 Ne doive qu'à moi son réveil.
 
-**** *book_ *id_I02 *act_I *date_1789
+Ah la bonne mère ! Que j'ai de plaisir à vous voir ; vous avez eu tant de bonté pour moi depuis mon enfance, vous prendrez part à mon chagrin.
 
--*who_bobielle
-Bonjour, beau Daphnis.
+Comment n'en aurai-je pas, Bobielle ; j'adore un objet charmant... Je ne suis occupé que du désir de lui plaire, et je ne suis point aimé !
 
--*who_daphnis
-Ah la bonne mère !
-Que j'ai de plaisir à vous voir ; vous avez eu tant de bonté pour moi depuis mon enfance, vous prendrez part à mon chagrin.
+Ah ! Je suis bien sûr de mon infortune... La bergère que j'aime...
 
--*who_bobielle
-Qu'est-ce donc ?...
-Quoi, du chagrin...
-À ton âge ?...
-Qui l'aurait crû ?...
-Conte moi vite cela.
-
--*who_daphnis
-Comment n'en aurai-je pas, Bobielle ; j'adore un objet charmant...
-Je ne suis occupé que du désir de lui plaire, et je ne suis point aimé !
-
--*who_bobielle
-Je ne puis me persuader cela...
-Tu es beau, jeune, bien fait, amoureux ; va, j'ai une expérience de soixante et dix ans ; et après avoir tant vu qu'il suffit d'une seule de ces choses pour tourner la tête d'une femme, juge si je croirai qu'un coeur résiste à qui réunit tout.
-
--*who_daphnis
-Ah !
-Je suis bien sûr de mon infortune...
-La bergère que j'aime...
-
--*who_bobielle
-Achève...
-
--*who_daphnis
 M'a condamné au silence le plus rigoureux...
 
--*who_bobielle
-Tu as donc parlé ?
-
--*who_daphnis
 Sans doute.
 
--*who_bobielle
-Tant mieux !
-
--*who_daphnis
 Comment tant mieux ?
 
--*who_bobielle
-Eh oui...
-Je vois que tu n'es encore qu'un enfant...
-Si ta bergère n'avait pour toi que de l'indifférence, t'eût-elle défendu de lui dire que tu l'aimais ; elle t'écouterait sans peine ; tes aveux même pourraient la divertir...
-On ne force à se taire que les gens à qui l'on craint de répondre.
-
--*who_daphnis
 Vous me rendez l'espoir...
 
--*who_bobielle
-Eh !
-Quelle est cette bergère charmante ?...
-
--*who_daphnis
 Y en a-t-il deux comme Hortense !
 
--*who_bobielle
-Non sans doute, et ton choix est une preuve de ton bon goût...
-Mais voici Alain ; il est tout essoufflé...
-
-**** *book_ *id_I03 *act_I *date_1789
-
--*who_alain
-J'ons tant couru.
-
--*who_bobielle
-C'était donc bien pressé ?
-
--*who_alain
-Ventregué comme l'amour vous remue les jambes d'un homme.
-
--*who_bobielle
-Tu es amoureux.
-
--*who_alain
-Je vous en réponds ; mais ai-je tort da ?...
-J'sis l'plus riche habitant de ce canton, j'pouvons faire la fortune d'une bergère...
-J'nons que cinquante ans, et c'est le bel âge pour s' marier...
-
--*who_daphnis
 Oui, mais pour plaire ?...
 
--*who_alain
-Oh !
-Je plairai ; j'n'sis pas si bête que j'en ai ben l'air ; tenez j'ons de p'tites manigances toutes gentilles ; j'savons par-ci par-là d'p'tites drôleries qui n'pouvont manquer de réussir.
-
--*who_bobielle
-Tu n'en fais pas souvent usage, n'est-il pas vrai ?
-
--*who_alain
-Non, pardine, j'les gard' pour l'occasion.
-
--*who_daphnis
 Pourrait-t on savoir le nom de...
 
--*who_alain
+Il ose aimer Hortense.
+
+Pour toi ?...
+
+Les plaisirs les plus vrais, ne sont pas ceux qu'on peut acheter...
+
+Je le sais bien, il faut qu'ils partent de là...
+Des vrais plaisirs la source est dans nos coeurs ;
+Elle est tarie aux lieux que le luxe environne,
+L'Amour, Roi des plaisirs est le Dieu du bonheur,
+Et quand il s'assied sur un trône,
+C'est, loin de ces palais que la richesse donne,
+Sur un simple trône de fleurs.
+Elle approche... Ah ! Le coeur me bat.
+
+Ah ! Bobielle, quand on aime, on n'est pas plus maître des sensations qu'on éprouve, que des sentiments dont on est pénétré.
+
+Me regarde-t-elle seulement ?
+
+Non sûrement, le vrai bonheur est de s'aimer... Hortense je n'ai qu'un coeur à vous offrir ; mais ce coeur peut vous rendre heureuse ; il est devenu meilleur, depuis que votre image s'y est gravée ; il vous chérit, il vous adore.
+
+Vous voyez !...
+
+Hortense avec Alain ; écoutons-les.
+
+Qui peut jamais croire à l'indifférence,
+C'est un fantôme auquel tu tends les bras ;
+Auprès de toi jeune et charmante Hortense,
+On sent trop bien qu'elle n'existe pas.
+
+Ah, Bobielle ! Elle ne reviendra plus !...
+
+Voilà les rosiers que vous m'aviez dit d'apporter ; je les ai pris chargés de fleurs.
+
+Beau rosier, si je vous ôte de ce lieu, ce sera pour vous rapprocher de ma demeure ; et Hortense qui vous a fait croître, aura le doux plaisir de vous y voir porter de nouvelles roses dans la saison.
+
+Pardonnez-moi, Bergère, une ruse innocente, vous méprisez les plaisirs de l'amour !... Ah ! Votre rosier, Hortense, en est l'image : on cueille une rose, et l'on en voit naître mille autres.
+Cédez, cédez jeune bergère,
+Mon coeur est fidèle et sincère ;
+Il ne pourra jamais changer.
+
+Jamais le coeur qu'anime un tel amour, n'est infidèle à la vertu.
+
+L'Amour va me donner Hortense,
+Quel heureux jour !
+
+Je vais par d'éternelles chaînes,
+M'unir à toi.
+Pour nos coeurs il n'est plus de peines !
+
+Être de toi toujours chérie,
+Sera pour moi le vrai bonheur,
+Ah ! si j'en dois croire mon coeur,
+Le jour le plus beau de la vie
+Est le jour où l'on se marie.
+
+Vous consentez à mon bonheur !... Ah ! Bobielle, que j'ai de grâces à vous rendre ; sans vous j'allais mourir de douleur.
+
+Dans notre coeur, tendre amour tu reposes,
+Daphnis m'adore, et mon sort est bien doux,
+Je la possède, et mon sort est bien doux,
+C'est aux amants qui s'aiment comme nous,
+Qu'hymen offre le pot aux roses.
+
+
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_bobielle
+
+Bonjour, beau Daphnis.
+
+Qu'est-ce donc ?... Quoi, du chagrin... À ton âge ?... Qui l'aurait crû ?... Conte moi vite cela.
+
+Je ne puis me persuader cela... Tu es beau, jeune, bien fait, amoureux ; va, j'ai une expérience de soixante et dix ans ; et après avoir tant vu qu'il suffit d'une seule de ces choses pour tourner la tête d'une femme, juge si je croirai qu'un coeur résiste à qui réunit tout.
+
+Achève...
+
+Tu as donc parlé ?
+
+Tant mieux !
+
+Eh oui... Je vois que tu n'es encore qu'un enfant... Si ta bergère n'avait pour toi que de l'indifférence, t'eût-elle défendu de lui dire que tu l'aimais ; elle t'écouterait sans peine ; tes aveux même pourraient la divertir... On ne force à se taire que les gens à qui l'on craint de répondre.
+
+Eh ! Quelle est cette bergère charmante ?...
+
+Non sans doute, et ton choix est une preuve de ton bon goût... Mais voici Alain ; il est tout essoufflé...
+
+C'était donc bien pressé ?
+
+Tu es amoureux.
+
+Tu n'en fais pas souvent usage, n'est-il pas vrai ?
+
+Mais selon ce que tu dis toi-même, il me semble que tu n'es pas aimé ?
+
+Il a une bien jolie figure !
+
+Non sans doute.
+
+Tu trembles ! Eh fi ! La timidité sied bien en amour ; mais poussée à l'excès elle devient sottise.
+
+Bonjour, charmante Hortense, que venez vous faire ici ?
+
+Comme vous.
+
+Celle qui vient de se répandre sur vos joues.
+
+Alain vient de nous quitter... Ah ! Comme cet homme désire de vous plaire !
+
+Tu l'entends.
+
+Retire-toi, mon fils, en respectant les volontés d'Hortense ; tu lui prouveras combien elle a d'empire sur toi... Je te suis... Adieu charmante Hortense.
+
+Alain...
+
+Hortense l'aura sans doute mal reçu... Il a de l'humeur... Mais occupons-nous plutôt du bonheur de Daphnis... Ou je suis bien trompée, ou Hortense est touchée de son amour... La crainte, la pudeur retient sur ses lèvres l'aveu qu'elle voudrait lui en faire... Une occasion peut la déterminer à parler : faisons la naître... Oui.. Hortense chérit cette rose ; je vais la cueillir... je la donne à Daphnis et puis... Quoi ! Te voilà de retour.
+
+C'est malheureux... et le pis serait qu'à la fin Hortense préférât Daphnis à toi.
+
+Pour savoir à quoi t'en tenir, tu devrais consulter ce vase magique.
+
+Non, non.
+
+Tu habites depuis longtemps ici, et tu ne connais pas les propriétés de ce vase ? Tu n'as donc jamais été amoureux !
+
+Lorsqu'un amant veut savoir s'il est aimé de sa bergère, il s'approche, interroge, puis souffle dans le vase. Si l'on répond à son ardeur, il s'en exhale une odeur agréable ; si l'on rejette ses feux, il s'en élève une fumée noire.
+
+Il n'est pas d'humeur de répondre à toutes les heures ; je t'avertirai quand il sera temps. Va m'attendre de ce côté...
+
+Non, non... Sa crédulité me donne les moyens de l'attraper... Je n'y manquerai pas... Mais voici Hortense... Allons avertir Daphnis. Il aura sans doute préparé ce dont nous sommes convenus.
+
+Que tu connais mal les femmes ; elle ne tardera pas à reparaître, sois en certain ; elle ta vu ici deux fois... Son coeur l'y ramènera malgré elle, et le rosier ne sera qu'un prétexte ou qu'une excuse pour se dissimuler à elle-même, que c'est toi qu'elle cherche...
+
+C'est bien : arraches celui d'Hortense ; et que les tiens le remplacent ; moi je vais préparer le vase dans lequel Alain doit lire son sort.
+
+J'entends quelqu'un... C'est Hortense, ne te l'avais je pas dit.
+
+Si je pouvais vous consoler... L'amitié n'est jamais plus doucement occupée que lorsqu'elle soulage les peines... Dès demain, je veux que vous ayiez de nouveaux rosiers, que je vous ferai porter par Daphnis...
+
+Eh pourquoi ? N'est-il pas sage, doux, soumis ? Jamais bergère n'aura de serviteur plus fidèle.
+
+Sans doute.
+
+Il se taira.
+
+Mais pourquoi vous refuser à son amour...
+Peut-être vous en aimez un autre ?
+
+De Daphnis... N'est-il pas vrai... Votre silence me répond ; mais dissipez vos alarmes, Daphnis n'a point un coeur volage.
+
+Daphnis est un amant parfait.
+Il faut l'aimer !
+
+Vous soupirez !...
+
+Parlez, parlez, charmante Hortense.
+
+      La confiance
+De l'amitié sans doute est le prix le plus doux.
+
+Votre refus est fait pour m'affliger.
+
+Daphnis ne peut jamais changer.
+Que votre coeur sur sa foi se repose,
+Formez les plus belles amours !
+
+Eh bien ! ne songeons qu'à la rose,
+Sur ce rosier jetez les yeux,
+Regardez-le...
+
+Cessez, cessez de l'affliger.
+
+Belle Hortense, vous n'avez rien à craindre, l'amour le plus durable est toujours fondé sur l'estime.
+
+Je lui ai fait accroire que ce vase lui apprendrait s'il est aimé de vous...
+Soufflez donc.
+
+Tu n'étais pas fait pour Hortense.
+
+Alain me fait plaisir à voir !
+
+Pourquoi pas, si tu es guéri de ton amour... C'est devenir sage à bon marché.
+
+Messieurs, ayez de l'indulgence,
+L'Auteur n'en sauroit abuser ;
+De tel qui ne veut qu'amuser,
+Un sourire est la récompense :
+Si vous refusez d'en avoir,
+Il va pour toujours en silence,
+Se cacher dans le pot au noir.
+
+
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alain
+
+J'ons tant couru.
+
+Ventregué comme l'amour vous remue les jambes d'un homme.
+
+Je vous en réponds ; mais ai-je tort da ?... J'sis l'plus riche habitant de ce canton, j'pouvons faire la fortune d'une bergère... J'nons que cinquante ans, et c'est le bel âge pour s' marier...
+
+Oh ! Je plairai ; j'n'sis pas si bête que j'en ai ben l'air ; tenez j'ons de p'tites manigances toutes gentilles ; j'savons par-ci par-là d'p'tites drôleries qui n'pouvont manquer de réussir.
+
+Non, pardine, j'les gard' pour l'occasion.
+
 J' n'en fesons pas mystère, acoutez-moi j'vas vous conter çà.
 D'pis un an j'aim' à toute outrance,
 Un' ingrat' qui me fait ben courir,
@@ -143,619 +389,75 @@ De ses yeux j'rencont' la douceur,
 La raison n'est plus raisonnable,
 Et l'amour se r' niche en mon coeur.
 
--*who_daphnis
-Il ose aimer Hortense.
+Non pas tout-à fait, mais cela viendra ; d'abord mamsell' Hortense m'écoute, all' rit quand j'lui parle, puis all' dit qu'all' ne m'aimera jamais... All' ment la petite friponne, car j' suis ben sûr que dans l'fond de son coeur, il y a queuque petit' chose qui parle pour moi...
 
--*who_bobielle
-Mais selon ce que tu dis toi-même, il me semble que tu n'es pas aimé ?
+Oui pour moi... Ne crois-tu pas que c'est toi qu'all' aime ?... J' sais que tu es mon rival ; mais que m'importe !... J'ai du comptant et tu n'en as pas...
 
--*who_alain
-Non pas tout-à fait, mais cela viendra ; d'abord mamsell' Hortense m'écoute, all' rit quand j'lui parle, puis all' dit qu'all' ne m'aimera jamais...
-All' ment la petite friponne, car j' suis ben sûr que dans l'fond de son coeur, il y a queuque petit' chose qui parle pour moi...
+V'la une belle avance ; on ne peut, avec une jolie figure donner qu'un plaisir, celui de la faire voir... Au lieu qu'avec des écus, on se les procure tous... Adieu.
 
--*who_daphnis
-Pour toi ?...
-
--*who_alain
-Oui pour moi...
-Ne crois-tu pas que c'est toi qu'all' aime ?...
-J' sais que tu es mon rival ; mais que m'importe !...
-J'ai du comptant et tu n'en as pas...
-
--*who_bobielle
-Il a une bien jolie figure !
-
--*who_alain
-V'la une belle avance ; on ne peut, avec une jolie figure donner qu'un plaisir, celui de la faire voir...
-Au lieu qu'avec des écus, on se les procure tous...
-Adieu.
-
-**** *book_ *id_I04 *act_I *date_1789
-
--*who_daphnis
-Les plaisirs les plus vrais, ne sont pas ceux qu'on peut acheter...
-
--*who_bobielle
-Non sans doute.
-
--*who_daphnis
-Je le sais bien, il faut qu'ils partent de là...
-Des vrais plaisirs la source est dans nos coeurs ;
-Elle est tarie aux lieux que le luxe environne,
-L'Amour, Roi des plaisirs est le Dieu du bonheur,
-Et quand il s'assied sur un trône,
-C'est, loin de ces palais que la richesse donne,
-Sur un simple trône de fleurs.
-Elle approche...
-Ah !
-Le coeur me bat.
-
--*who_bobielle
-Tu trembles !
-Eh fi !
-La timidité sied bien en amour ; mais poussée à l'excès elle devient sottise.
-
--*who_daphnis
-Ah !
-Bobielle, quand on aime, on n'est pas plus maître des sensations qu'on éprouve, que des sentiments dont on est pénétré.
-
--*who_hortense
-Ah !
-Vous voilà ?
-
--*who_bobielle
-Bonjour, charmante Hortense, que venez vous faire ici ?
-
--*who_hortense
-Voir ce Rosier dont j'aime à contempler la fleur ; je l'arrose ; j'en prends soin...
-Voyez qu'elle est belle et fraîche.
-
--*who_bobielle
-Comme vous.
-
--*who_hortense
-La belle couleur !
-
--*who_bobielle
-Celle qui vient de se répandre sur vos joues.
-
--*who_daphnis
-Me regarde-t-elle seulement ?
-
--*who_bobielle
-Alain vient de nous quitter...
-Ah !
-Comme cet homme désire de vous plaire !
-
--*who_hortense
-Ah !
-Que la peine qu'il prend est inutile.
-
--*who_bobielle
-Tu l'entends.
-
--*who_hortense
-Il croit séduire mon coeur par l'offre de ses richesses, mais je les méprise ; elles n'apportent que souci, inquiétude...
-On n'enferme pas le bonheur dans une cassette.
-
--*who_daphnis
-Non sûrement, le vrai bonheur est de s'aimer...
-Hortense je n'ai qu'un coeur à vous offrir ; mais ce coeur peut vous rendre heureuse ; il est devenu meilleur, depuis que votre image s'y est gravée ; il vous chérit, il vous adore.
-
--*who_hortense
-Je vous avais prié, Daphnis, de m'épargner vos aveux ; je vous remercie de vos sentiments, mais je ne puis les partager, ni ne dois les entendre.
-
--*who_daphnis
-Vous voyez !...
-
--*who_bobielle
-Retire-toi, mon fils, en respectant les volontés d'Hortense ; tu lui prouveras combien elle a d'empire sur toi...
-Je te suis...
-Adieu charmante Hortense.
-
-**** *book_ *id_I05 *act_I *date_1789
-
--*who_hortense
-Il s'en va !...
-Ah !
-Daphnis, tu ne sais pas combien il m'en coûte de t'affliger...
-Quel dehors séduisants !
-Que sa voix est douce !...
-Mais qui sait si son coeur !...
-Si je consentais à l'aimer, si nous étions unis...
-Mais s'il était infidèle, j'en mourrais...
-Je ne m'exposerai point au danger de le perdre...
-Plaisirs purs que j'ai goûtés jusqu'à présent, n'abandonnez pas mon âme ; continuez à lui suffire...
-Aimable fleur que j'ai vu naître ; rosier qui vous en êtes paré pour me plaire, vous recevrez toujours mes soins ; c'est à vous que je vais consacrer mes loisirs...
-Mais pourquoi ?
-Lorsque je vois le papillon, se reposer sur vous, s'élever dans les airs, caresser d'autres fleurs, aller, revenir, voltiger, ne puis-je m'empêcher de me dire que si Daphnis partageait ainsi son hommage entre plusieurs bergères, je ne le verrais pas sans chagrin...
-Que m'importe qu'il soit inconstant, si je ne veux pas l'aimer ?..
-Ah !...
-Non, non, je ne veux point aimer,
-Et pour toujours à l'amour je renonce...
-Hélas ! Pourrais-je m'enchaîner
-Par les serments que ma bouche prononce ?
-J'entends mon coeur désavouer
-Les sentiments qu'en vain ma voix annonce ;
-Il dit qu'il est fait pour aimer.
-Si de Daphnis je refuse l'hommage,
-Ma peine s'accroîtra par ma sévérité ;
-Si je l'accepte : ah ! je crains davantage
-Que mon Berger ne devienne volage,
-Et je mourrais d'une infidélité.
-C'en est fait, ma bouche prononce
-Les serments que mon coeur voudrait désavouer :
-Non, non, je ne veux point aimer,
-Et pour toujours à l'amour je renonce.
-
-**** *book_ *id_I06 *act_I *date_1789
-
--*who_alain
 Mamsell' Hortense j' vous salue.
 
--*who_hortense
-Bonjour Alain, que portes-tu là ?
+C'est un petit oiseau pour vous Mamselle... Je l'ons déniché tout exprès.
 
--*who_alain
-C'est un petit oiseau pour vous Mamselle...
-Je l'ons déniché tout exprès.
+Attendez, je vais le sortir de sa cage, vous le verrez mieux. Il veut prendre l'oiseau qui lui échappe. Ah !...
+Jarni il s'est envolé !... Petit... petit... piou.. piou.
 
--*who_hortense
-Qu'il est joli : je te remercie : oh je le garderai !
-
--*who_alain
-Attendez, je vais le sortir de sa cage, vous le verrez mieux.
-Il veut prendre l'oiseau qui lui échappe.
-Ah !...
-Jarni il s'est envolé !...
-Petit... petit... piou.. piou.
-
--*who_hortense
-Il viendra se remettre en cage, n'en doutez pas.
-
--*who_alain
 Que j' sis malheureux !
 
--*who_hortense
-Et lui bien content d'avoir recouvré sa liberté...
-Son bonheur est pour moi une leçon...
-Je ne m'engagerai jamais.
-
--*who_alain
 Que dites vous ?
 
--*who_hortense
-Qu'il ne faut pas offrir ce que nous ne sommes pas sûr de conserver à celle à qui nous le présentons.
+Oh j'en rattraperai ben un autre ! Et qui ne m'échappera pas comme celui-ci... Puis j'ai ben une pus meilleure chose à vous offrir, et qui ne s'envolera pas non plus...
 
--*who_alain
-Oh j'en rattraperai ben un autre !
-Et qui ne m'échappera pas comme celui-ci...
-Puis j'ai ben une pus meilleure chose à vous offrir, et qui ne s'envolera pas non plus...
-
--*who_hortense
-Eh !
-Quoi donc ?
-
--*who_alain
 Mon... coeur.
 
--*who_hortense
-Bon, c'est l'oiseau dont on peut le moins répondre...
-D'ailleurs je vous l'ai déjà dit cent fois ; je ne veux point recevoir un pareil hommage.
-
--*who_alain
 Vous ne rejetez pas ainsi celui de Daphnis.
 
--*who_hortense
-Oh également !
-Quoiqu'il eût peut-être plus de droit à me plaire.
-
--*who_alain
 Et vous dites cela à un rival ; à Alain ?
 
--*who_hortense
-Eh !
-Pourquoi pas lorsqu'on n'est pas plus disposée à écouter Alain que Daphnis ; c'est pour tousdeux une consolation.
-
--*who_daphnis
-Hortense avec Alain ; écoutons-les.
-
--*who_hortense
-Je prétends rester libre ; je veux être heureuse ; et pour y parvenir, j'appelle l'indifférence à mon secours.
-Le vrai bonheur est dans l'indifférence ;
-C'est être heureux que vivre sans désirs :
-L'esprit est gai, quand le coeur fait silence,
-Mais chante-t-on en poussant des soupirs.
-
--*who_daphnis
-Qui peut jamais croire à l'indifférence,
-C'est un fantôme auquel tu tends les bras ;
-Auprès de toi jeune et charmante Hortense,
-On sent trop bien qu'elle n'existe pas.
-
--*who_hortense
-Eh quoi !
-Ces sons partent de cette statue.
-
--*who_alain
-Oh que nannin !
-Je gage...
-Je vais voir.
+Oh que nannin ! Je gage... Je vais voir.
 N'avais-je pas raison... c'est...
 
--*who_hortense
-Qui que ce soit...
-Je ne veux plus rien entendre.
-
--*who_alain
 Mais, Mamselle.
 
--*who_hortense
-Laisse moi.
+Ce biau Monsieur... Qu'est-ce qu'il venait faire là... Ventregué, il me la paiera ; je cours le charcher...
 
-**** *book_ *id_I07 *act_I *date_1789
-
--*who_alain
-Ce biau Monsieur...
-Qu'est-ce qu'il venait faire là...
-Ventregué, il me la paiera ; je cours le charcher...
-
--*who_bobielle
-Alain...
-
--*who_alain
 Tout astheure ; j'ons à présent des affaires...
 
--*who_bobielle
-Hortense l'aura sans doute mal reçu...
-Il a de l'humeur...
-Mais occupons-nous plutôt du bonheur de Daphnis...
-Ou je suis bien trompée, ou Hortense est touchée de son amour...
-La crainte, la pudeur retient sur ses lèvres l'aveu qu'elle voudrait lui en faire...
-Une occasion peut la déterminer à parler : faisons la naître...
-Oui..
-Hortense chérit cette rose ; je vais la cueillir... je la donne à Daphnis et puis...
-Quoi !
-Te voilà de retour.
+Oui... Je n'ons pu trouver celui avec qui j' voulions nous battre... Rien ne me réussit aujourd'hui...
 
--*who_alain
-Oui...
-Je n'ons pu trouver celui avec qui j' voulions nous battre...
-Rien ne me réussit aujourd'hui...
-
--*who_bobielle
-C'est malheureux... et le pis serait qu'à la fin Hortense préférât Daphnis à toi.
-
--*who_alain
 Je ne sis pas encore ben sûr du oui, ni du non.
 
--*who_bobielle
-Pour savoir à quoi t'en tenir, tu devrais consulter ce vase magique.
+Quoi ! Ce vase !... Allons vous voulez rire.
 
--*who_alain
-Quoi !
-Ce vase !...
-Allons vous voulez rire.
-
--*who_bobielle
-Non, non.
-
--*who_alain
 Ce vase est sorcier !
 
--*who_bobielle
-Tu habites depuis longtemps ici, et tu ne connais pas les propriétés de ce vase ?
-Tu n'as donc jamais été amoureux !
+Quand je le deviendrai une autre fois, et celle-ci, ça f'ra deux... Contez-moi, contez-moi donc.
 
--*who_alain
-Quand je le deviendrai une autre fois, et celle-ci, ça f'ra deux...
-Contez-moi, contez-moi donc.
-
--*who_bobielle
-Lorsqu'un amant veut savoir s'il est aimé de sa bergère, il s'approche, interroge, puis souffle dans le vase.
-Si l'on répond à son ardeur, il s'en exhale une odeur agréable ; si l'on rejette ses feux, il s'en élève une fumée noire.
-
--*who_alain
 Je vais lui parler.
 
--*who_bobielle
-Il n'est pas d'humeur de répondre à toutes les heures ; je t'avertirai quand il sera temps.
-Va m'attendre de ce côté...
-
--*who_alain
 Ne me faites pas attendre longtemps...
 
--*who_bobielle
-Non, non...
-Sa crédulité me donne les moyens de l'attraper...
-Je n'y manquerai pas...
-Mais voici Hortense...
-Allons avertir Daphnis.
-Il aura sans doute préparé ce dont nous sommes convenus.
+Que diable ! Je pouvais bien vous attendre !... J'n' voulons pus de retard, y faut à st'heure même que je consultions le vase. Monsieur le Sorcier, j' vons vous demander une chose... Si la bergère que j'aime à queuque petit brin d'amour pour moi !... Répondez sans barguigner, car je sommes pressés de savoir...
 
-**** *book_ *id_I08 *act_I *date_1789
-
--*who_hortense
-Je n'ai point arrosé la plante que je cultive.
-Daphnis m'a tout fait oublier ; il a troublé toutes mes idées.
-La chaleur du jour pourrait sécher la rose qui s'est ouverte à la fraîcheur du matin.
-Aimable fleur tu ne pareras jamais mon sein ; tu as trop d'éclat pour servir à une mortelle.
-Je te laisserai sur ta tige.
-Mais, ô ciel ! je ne la vois plus.
-On l'a cueillie.
-Qui ?
-Si c'était Daphnis.
-Oh non, il n'aurait pas eu l'âme assez Barbare.
-Cruelle main que je désire ne jamais connaître, tu ne sais pas tout le mal que tu me fais.
-Arbuste que ma main arrose,
-Adieu ta fleur ;
-Un méchant a cueilli la rose,
-Plus de bonheur !
-Quel oeil voudra dans la nature
-Te regarder ;
-Tu n'auras plus que ta verdure
-Pour te parer.
-J'aimais à te voir sur ta tige
-Te balancer,
-Tu n'es plus ; ta perte m'afflige ;
-Je vais pleurer.
-Lieux où je trouvais tant de charmes
-Matin et soir.
-Je veux, toute entière à mes larmes
-Ne plus vous voir.
-
-**** *book_ *id_I09 *act_I *date_1789
-
--*who_hortense
-C'en est fait, je m'éloigne de ce bosquet pour n'y plus revenir.
-
--*who_daphnis
-Ah, Bobielle !
-Elle ne reviendra plus !...
-
--*who_bobielle
-Que tu connais mal les femmes ; elle ne tardera pas à reparaître, sois en certain ; elle ta vu ici deux fois...
-Son coeur l'y ramènera malgré elle, et le rosier ne sera qu'un prétexte ou qu'une excuse pour se dissimuler à elle-même, que c'est toi qu'elle cherche...
-
--*who_daphnis
-Voilà les rosiers que vous m'aviez dit d'apporter ; je les ai pris chargés de fleurs.
-
--*who_bobielle
-C'est bien : arraches celui d'Hortense ; et que les tiens le remplacent ; moi je vais préparer le vase dans lequel Alain doit lire son sort.
-
--*who_daphnis
-Beau rosier, si je vous ôte de ce lieu, ce sera pour vous rapprocher de ma demeure ; et Hortense qui vous a fait croître, aura le doux plaisir de vous y voir porter de nouvelles roses dans la saison.
-
--*who_bobielle
-J'entends quelqu'un...
-C'est Hortense, ne te l'avais je pas dit.
-
--*who_hortense
-Je ne puis quitter ces lieux ; un charme secret m'y attache, un pouvoir impérieux m'y ramène...
-Tant il est vrai que ce qui nous rappelle les plaisirs que nous avons perdus, en nourrissant notre douleur, la rend cependant plus douce...
-Je veux que mon rosier dépouillé de son plus bel ornement, reçoive encore le tribut de mes larmes...
-Je n'ose le regarder.
-Ah !
-Ma bonne amie...
-On m'a privé de tous mes plaisirs...
-
--*who_bobielle
-Si je pouvais vous consoler...
-L'amitié n'est jamais plus doucement occupée que lorsqu'elle soulage les peines...
-Dès demain, je veux que vous ayiez de nouveaux rosiers, que je vous ferai porter par Daphnis...
-
--*who_hortense
-Daphnis, je ne veux jamais le voir.
-
--*who_bobielle
-Eh pourquoi ?
-N'est-il pas sage, doux, soumis ?
-Jamais bergère n'aura de serviteur plus fidèle.
-
--*who_hortense
-Fidèle !
-
--*who_bobielle
-Sans doute.
-
--*who_hortense
-Ne m'exposez pas à m'entendre répéter qu'il m'aime...
-Ses sentiments que mon coeur ne peut récompenser feraient son malheur !...
-Et je ne veux pas qu'il ait à me le reprocher.
-
--*who_bobielle
-Il se taira.
-
--*who_hortense
-Ses yeux parleront.
-
--*who_bobielle
-Mais pourquoi vous refuser à son amour...
-Peut-être vous en aimez un autre ?
-
--*who_hortense
-Oh, je n'aime rien...
-Mais puisque la perte d'une rose m'afflige, jugez de mes chagrins, si j'avais à gémir de l'inconstance de mon amant.
-
--*who_bobielle
-De Daphnis...
-N'est-il pas vrai...
-Votre silence me répond ; mais dissipez vos alarmes, Daphnis n'a point un coeur volage.
-
--*who_hortense
-Comme vous assurez cela !
-
--*who_bobielle
-Daphnis est un amant parfait.
-Il faut l'aimer !
-
--*who_hortense
-      Que dois-je dire !
-
--*who_bobielle
-Vous soupirez !...
-
--*who_hortense
-      Oui, je soupire ;
-Pourquoi vouloir m'arracher mon secret ?
-
--*who_bobielle
-Parlez, parlez, charmante Hortense.
-
--*who_hortense
-Qu'exigez-vous ?...
-
--*who_bobielle
-      La confiance
-De l'amitié sans doute est le prix le plus doux.
-
--*who_hortense
-Qu'exigez-vous ?
-Laissez-moi garder le silence.
-
--*who_bobielle
-Votre refus est fait pour m'affliger.
-
--*who_hortense
-Je ne veux pas vous affliger.
-
--*who_bobielle
-Daphnis ne peut jamais changer.
-Que votre coeur sur sa foi se repose,
-Formez les plus belles amours !
-
--*who_hortense
-Laissons, laissons de tels discours.
-
--*who_bobielle
-Eh bien ! ne songeons qu'à la rose,
-Sur ce rosier jetez les yeux,
-Regardez-le...
-
--*who_hortense
-      Que vois-je ! ô Dieux !
-
--*who_daphnis
-Pardonnez-moi, Bergère, une ruse innocente, vous méprisez les plaisirs de l'amour !...
-Ah !
-Votre rosier, Hortense, en est l'image : on cueille une rose, et l'on en voit naître mille autres.
-Cédez, cédez jeune bergère,
-Mon coeur est fidèle et sincère ;
-Il ne pourra jamais changer.
-
--*who_hortense
-Est-il sûr de ne pas changer ?
-
--*who_bobielle
-Cessez, cessez de l'affliger.
-
--*who_hortense
-Ah ! Votre coeur est-il sincère ?
-
--*who_bobielle
-Belle Hortense, vous n'avez rien à craindre, l'amour le plus durable est toujours fondé sur l'estime.
-
--*who_daphnis
-Jamais le coeur qu'anime un tel amour, n'est infidèle à la vertu.
-
--*who_hortense
-Ah, Daphnis !
-Ah, ma bonne amie !
-Laissez-moi me cacher dans vos bras.
-
-**** *book_ *id_I10 *act_I *date_1789
-
--*who_alain
-Que diable !
-Je pouvais bien vous attendre !...
-J'n' voulons pus de retard, y faut à st'heure même que je consultions le vase.
-Monsieur le Sorcier, j' vons vous demander une chose...
-Si la bergère que j'aime à queuque petit brin d'amour pour moi !...
-Répondez sans barguigner, car je sommes pressés de savoir...
-
--*who_hortense
-Que fait donc, Alain ?
-
--*who_bobielle
-Je lui ai fait accroire que ce vase lui apprendrait s'il est aimé de vous...
-Soufflez donc.
-
--*who_alain
 À propos, je l'avais oublié !
 Ouf...
 Ah, jarnigoi !
 Quelle fumée !
 All' a pensé presqu' m'étouffer.
 
--*who_lesautressaufalain
-Voyez sa figure enfumée,
-Ah ! le rire va m'étouffer ;
-Il est tout noir, va te cacher.
-
--*who_alain
 Eh quoi ! je vous sers de risée,
 Le vilain tour !
 Ah ! J'ons la fac' tout' barbouillée.
 
--*who_lesautressaufalain
-Voilà ce qu'on gagne en amour.
-
--*who_alain
 Hélas ! gardez tous le silence,
 Sur l'aventure de ce jour,
 On se rirait de moi, je pense.
 
--*who_bobielle
-Tu n'étais pas fait pour Hortense.
-
--*who_daphnis
-L'Amour va me donner Hortense,
-Quel heureux jour !
-
--*who_hortense
-Pour mon coeur il n'est plus de peines,
-Daphnis aura toute ma foi.
-
--*who_daphnis
-Je vais par d'éternelles chaînes,
-M'unir à toi.
-Pour nos coeurs il n'est plus de peines !
-
--*who_bobielle
-Alain me fait plaisir à voir !
-
--*who_alain
 J'ons donné dans le pot au noir.
 
--*who_daphnis
-Être de toi toujours chérie,
-Sera pour moi le vrai bonheur,
-Ah ! si j'en dois croire mon coeur,
-Le jour le plus beau de la vie
-Est le jour où l'on se marie.
+V'là donc qu'est tout dit pour moi... Ah ça ! La vieille mère, faut-il que je vous remarcie aussi ?
 
--*who_daphnis
-Vous consentez à mon bonheur !...
-Ah !
-Bobielle, que j'ai de grâces à vous rendre ; sans vous j'allais mourir de douleur.
-
--*who_hortense
-Nous lui devons tous les deux beaucoup de reconnaissance.
-
--*who_alain
-V'là donc qu'est tout dit pour moi...
-Ah ça !
-La vieille mère, faut-il que je vous remarcie aussi ?
-
--*who_bobielle
-Pourquoi pas, si tu es guéri de ton amour...
-C'est devenir sage à bon marché.
-
--*who_alain
-Allons donc, Daphnis, point de rancune ; nous aimions tous deux Mamselle Hortense, c'était tout simple...
-Je n'ons pas pû lui plaire, all' t'a préféré à moi, v'la qu'est bien...
-Mais all' ne m' refusera peut-être pas son amiquié, et tout en ira mieux ; car si all' m'avait épousé sans m'aimer...
-Ah !
+Allons donc, Daphnis, point de rancune ; nous aimions tous deux Mamselle Hortense, c'était tout simple... Je n'ons pas pû lui plaire, all' t'a préféré à moi, v'la qu'est bien... Mais all' ne m' refusera peut-être pas son amiquié, et tout en ira mieux ; car si all' m'avait épousé sans m'aimer... Ah !
 Faut pour être heureux en ménage,
 S'aimer tous deux, c'est l' principal ;
 Si l'on n' s'aim' pas, tout va mal ;
@@ -764,18 +466,3 @@ Et se grondant matin et soir,
 Tous deux disent dans leur langage,
 J'ons donné dans le pot au noir.
 
--*who_daphnis
-Dans notre coeur, tendre amour tu reposes,
-Daphnis m'adore, et mon sort est bien doux,
-Je la possède, et mon sort est bien doux,
-C'est aux amants qui s'aiment comme nous,
-Qu'hymen offre le pot aux roses.
-
--*who_bobielle
-Messieurs, ayez de l'indulgence,
-L'Auteur n'en sauroit abuser ;
-De tel qui ne veut qu'amuser,
-Un sourire est la récompense :
-Si vous refusez d'en avoir,
-Il va pour toujours en silence,
-Se cacher dans le pot au noir.

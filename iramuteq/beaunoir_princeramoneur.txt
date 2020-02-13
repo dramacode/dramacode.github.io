@@ -1,1362 +1,512 @@
 
 
-**** *book_ *id_I01 *act_I *date_1784
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
 
--*who_gusman
-Entrez ici, le Prince n'est pas encore levé.
-
--*who_donlope
-Je pense bien qu'à l'heure qu'il est....
-Et puis les grands Seigneurs ne sont pas comme nous autres Bourgeois.
-Voici un nouvel habit que je lui apporte.
-
--*who_gusman
-Pourvu que Son Altesse le trouve bien ?
-
--*who_donlope
-Pourvu que votre Seigneurie en soit satisfaite, c'est le principal.
-
--*who_gusman
-Il est vrai que...
-Mais Seigneur Don Lope, cela ne suffit pas tout-à fait.
-Le Prince à présent n'y voit plus guère que les yeux de ce Don César son Secrétaire, qui, de concert avec la Signora Eléonore, sa maîtresse....
-
--*who_donlope
-Lui en donnent plus d'une à garder, n'est-ce pas ?
-C'est dans l'ordre.
-
--*who_gusman
-Monseigneur est une si bonne pâte d'homme ?
-Cette femme est si séduisante !
-Et ce Don César si adroit !
-Diriez-vous, Seigneur Don Lope, que j'ai vu arriver cela avec la crainte de Dieu dans l'âme, et une pistole dans sa poche.
-Eh bien !
-Ça n'a pas été plutôt r'habillé, que ce Monsieur est devenu faux comme un jeton, fripon comme un Procureur, fier comme un paon, et insolent...
-
--*who_donlope
-Comme un laquais ?
-
--*who_gusman
-Ce n'est rien.
-Comme un Commis.
-
--*who_donlope
-Oh !
-Ma soi, c'en est trop.
-
--*who_gusman
-Au demeurant, voyons l'habit.
-
--*who_donlope
-Volontiers.
-Le voilà.
-
--*who_gusman
-Oh !
-Oh !
-Seigneur Don Lope, comme c'est cousu !
-Et quelle doublure mince !
-
--*who_donlope
-J'avoue que ce n'est pas bien fort.
-Mais que diable, Seigneur Gusman, songez donc aussi que c'est pour un Prince.
-
--*who_gusman
-Oui d'abord ; mais ensuite cela nous revient, à nous autres, et nous n'y trouvons pas notre compte.
-
--*who_donlope
-Vous n'y pensez pas.
-Plutôt c'est usé, et plutôt c'est à vous.
-
--*who_gusman
-À la bonne heure !
-Mais quelle idée avez-vous eu d'aller choisir, pour le Prince ; une couleur aussi tendre, lui qui est d'un brun...
-
--*who_donlope
-À vous entendre, ne le croirait-on pas plus basané qu'un marocain ?
-Au surplus, ce n'est pas ma faute.
-La couleur est à la mode, pourquoi le coloris du Prince n'y est-il pas !
-Ayons soin seulement que mon mémoire me soit promptement payé, et...
-
--*who_gusman
-Ce que j'en dis n'est pas...
-
--*who_donlope
-J'entends à merveille ; mais enfin...
-
--*who_gusman
-Puisque vous l'exigez, je suis à vos ordres.
-
--*who_donlope
-Et moi aux vôtres, Seigneur Gusman.
-Serviteur.
-
--*who_gusman
-Serviteur.
-Voilà le plus honnête homme de tous les tailleurs.
-
--*who_donlope
-Voilà le moins fripon de tous les valets.
-
-**** *book_ *id_I02 *act_I *date_1784
-
--*who_milescas
-Voici la perruque in-solio de Monseigneur.
-
--*who_gusman
-Cela ne laisse pas que de donner un air noble à un homme, au moins!
-
--*who_milescas
-Peste !
-Je te crois.
-Il y a tant de graves personnages qui, sans leur perruque, ne seraient plus rien.
-
--*who_gusman
-Parlons raison.
-Les bottines de son Altesse sont là.
-Voici son habit...
-
--*who_milescas
-Son chapeau, du linge...
-
--*who_gusman
-Ainsi il pourra s'habiller quand il lui plaira ; tout est prêt.
-
--*who_milescas
-Son chocolat l'est-il ?
-Il l'a demandé pour huit heures.
-
--*who_gusman
-Il n'est encore que la demie.
-À propos, on est après à ramoner cette cheminée; il faudrait renfermer tout ceci de peur que la suie....
-
--*who_milescas
-Il est aisé d'y remédier sans cela.
-
--*who_gusman
-Fort bien !
-
--*who_milescas
-Il ne me reste plus qu'à monter chez don César.
-Le Prince m'a charge hier au soir de lui dire qu'il voulait lui parler à son lever.
-
--*who_gusman
-Et moi je vais faire le chocolat.
-
--*who_milescas
-Bien entendu qu'il y en aura une tasse pour moi?
-
--*who_gusman
-Cela va sans dire.
-Est-ce que nous ne sommes pas faits pour être les premiers servi ?
-
--*who_milescas
-Eh !
-Mais tu as raison.
-Que je suis bête, moi !
-Je l'avais oublié.
-
-**** *book_ *id_I03 *act_I *date_1784
-
--*who_barogo
-Ouf !
-Le chien de métier !
-Qu'on y a de mal et peu de profit !
-Qu'est-ce que ceci ?
-Ah !
-Les belles glaces !
-Les belles dorures !
-Est-il possible qu'il y ait de si belles choses que ça au monde !
-Ma foi, je ne m'en serais pas douté...
-Mon Dieu !
-Mon Dieu !
-Que c'est donc beau !
-Je n'en reviens pas !
-Tiens !
-La drôle de machine !
-Pour quoi c'est-il donc faire...
-M'est avis que c'est pour s'asseoir...
-On y doit être bien à son aise, en tout cas...
-Pardienne !
-Tâtons en ; boutons-nous-y.
-Jarnigoi !
-Queux plaisir !
-Comme j'enfonce!
-Mais si quelqu'un....
-Il faut qu'il n'y ait pas de femmes dans la maison, ou qu'elles dorment, car je n'entends pas parler.
-Pour les Messieurs Laquais, je n'en suis pas embarrassé.
-Ces grands drôles-là, plus fainéants que leur maître, sont encore étendus comme des vieux dans leur lit, tandis que nous autres, pauvres gens de métier, qui valons mieux qu'eux mille fois, nous nous tuons le corps et l'âme à travailler, pour ne pas gagner la moitié tant, encore!
-C'est peut-être pour ça que je suis si laid.
-J'ai beau me revirer de toutes les manières, c'est la même chose, d'un côte comme de l'autre, et par derrière comme par devant, pardi !
-Qui est-ce qui m'empêche de me débarbouiller un petit brin, et de m'essuyer ensuite avec cette serviette, sans que ça paraisse ?
-Miséricorde !
-Que vois je là ?
-Oh !
-Vraiment, c'est encore bien plus beau !
-Queux panache !
-Que d'or et que d'argenterie !
-Eh !
-Mais voilà qui est du magnifique !
-Comme ça doit bien faire sur un homme !
-On l'aurait taillé tout exprès pour ma personne, que ça ne m'irait pas mieux !
-Bon !
-Il n'y a pas un chat.
-Tout ça vous dort comme des taupes, et vous ronfle comme des chanoines.
-Ce que c'est d'être Prince !
-C'est que comme ça j'en ai quasiment la mine.
-Pardi !
-Je veux l'avoir une bonne fois dans ma vie, depuis les pieds jusqu'à la tête...
-J'en ai l'occasion.
-Saisissons la.
-Va.
-Comme il est dit.
-Arrive qui plante...
-Je ne serai pas pendu pour ça, peut être ?...
-Peut-être bien aussi que pour une volée de coups de bâton j'en serai quitte.
-Eh bien !
-On n'en meurt pas.
-Il faut voir.
-On n'en aurait pris la mesure sur moi, que ça ne serait pas pis.
-Ça me va comme un charme !
-Oh !
-Je vais être à croquer.
-Je dois être bien gentil comme ça.
-Je défie au patron d'avoir une meilleure mine que moi.
-On dirait que je n'ai pas fait d'autre métier que celui de Prince toute ma vie...
-Mais qu'est ce ?
-Une porte ouverte ici ?
-Voyons un peu ce que c'est là dedans.
-Voyons.
-Pour ce qu'il m'en coûte, vaut autant ne se pas gêner.
-
-**** *book_ *id_I04 *act_I *date_1784
-
--*who_leprince
-Je suis excédé d'inquiétudes et d'ennui.
-Il ne m'a pas été possible de fermer l'oeil de la nuit.
-Des soupçons graves que j'ai sur le compte de cette perfide Eléonore, m'en ont empêché.
-Je ne suis rien moins que tranquille.
-J'ai mille raisons de croire que l'ingrate me trahit...
-Ce Duc, ce Chanteur...
-Ce Don César même...
-Elle me sait tant de protestations, me marque tant d'amour... et l'intérêt seul la conduit !
-
-**** *book_ *id_I05 *act_I *date_1784
-
--*who_barogo
-Quelle peur j'ai eu !
-Heureusement qu'il ne m'a point vu !
-Quel diable d'homme ça peut-il être ?
-
--*who_leprince
-Eh !
-Pourquoi me serait-elle plus fidèle qu'à tant d'autres qu'elle a trompés ?
-
--*who_barogo
-Je serais tenté de croire que c'est le Prince lui-même, car on dit comme ça que ses gens là sont toujours tristes.
-
--*who_leprince
-Ah !
-Je le sens bien; ce n'est pas au poids de l'or qu'on paie la confiance et l'amour.
-
--*who_barogo
-Ah !
-C'est lui.
-S'il allait au moins saire ses réflexions plus loin!
-
--*who_leprince
-Je brûle d'envie de m'éclaircir !...
-Que ne puis-je un moment me soustraire à l'éclat qui m'environne !
-
--*who_barogo
-Et moi aussi.
-
--*who_leprince
-Me dérober à tous les regards, toujours ouverts sur moi, et, citoyen obscur, sous un habit grossier, voir, examiner, m'assurer par mes yeux...
-Si je me consiois à mes Valets, ce serait me trahir.
-
--*who_barogo
-Qu'ai-je dit ?
-C'est le Bourgeois.
-Gare à moi s'il entre ici.
-On le dit pourtant assez bon diable.
-
--*who_leprince
-Que vois-je !
-Par quel hasard !
-
--*who_barogo
-Apparemment qu'il regarde cette trouvaille comme une bonne fortune.
-
--*who_leprince
-Ah !
-Fort bien !
-Me voilà au fait.
-
--*who_barogo
-Il est sorcier.
-
--*who_leprince
-Sans différer plus longtemps, profitons de cette heureuse rencontre.
-Il est donc vrai que le hasard nous sert quelquefois mieux que les hommes.
-
--*who_barogo
-Je suis curieux de voir ce qu'il va faire.
-
--*who_barogo
-Est-ce qu'il y pense, donc ?
-S'il allait gâter mes habits?..
-
--*who_leprince
-Travesti de la sorte, je défie qu'on me reconnaisse.
-
--*who_barogo
-Je le crois bien.
-
--*who_leprince
-Volons de ce pas à la porte d'Eléonore.
-Je veux si bien interroger, examiner les alentours...
-Mais pour éviter toute surprise de la port de mes valets, qui ne manqueraient pas d'aller divulguer mon histoire, et feraient par conséquent avorter mon projet, partons sur le champ.
-
--*who_barogo
-Ciel !
-Avec mes habits!
-S'il vouloit troquer, passe!
-
--*who_leprince
-Heureusement j'ai la clé de cet escalier dérobé.
-La voici.
-
--*who_barogo
-Il le sait comme il le dit.
-
-**** *book_ *id_I06 *act_I *date_1784
-
--*who_milescas
-Monseigneur n'a-t-il pas aperçu ?
-
--*who_leprince
-Me voilà découvert !
-
--*who_barogo
-Autant m'en pend à l'oreille.
-
--*who_milescas
-Qu'est-ce que tu fais donc ici, toi.
-Eh !
-Dieu me pardonne, il s'est débarbouillé avec cette serviette !...
-Veux-tu ?...
-
--*who_leprince
-Il ne soupçonne pas qui je suis.
-Dissimulons
-Seigneur...
-
--*who_milescas
-Seigneur...
-Seigneur !
-Tu fais ton chien couchant.
-Allons, allons; il n'y a pas de Seigneur qui tienne.
-File, marche, décampe, tu seras mieux.
-
--*who_leprince
-Cependant....
-
--*who_milescas
-Apprends que nous n'avons pas besoin de Filoux ici.
-Il y en a assez sans toi.
-
--*who_barogo
-Et sans lui aussi, peut-être !
-
--*who_leprince
-Mais...
-
--*who_milescas
-Tu raisonnes ?
-Attends que j'aille chercher une trique, et je te conduirais d'importance.
-Je te débarbouillerai, moi.
-
--*who_barogo
-Traiter ainsi une Altesse !
-
--*who_leprince
-Ce coquin-là le serait comme il le dit.
-
--*who_milescas
-Aie la complaisance de retourner par le même chemin que tu es venu, et cela tout de suite et devant moi, encore.
-
--*who_barogo
-Il y a gros à parier qu'il est aussi embarrassé que moi.
-
--*who_leprince
-Le pas est difficile.
-Comment faire ?
-
--*who_milescas
-Auparavant, tâche de nous débarrasser de cette ordure.
-Nous ne sommes pas payés ici pour être tes domestiques, entends-tu ?
-Et si tout-à-l'heure ce n'est pas sait promptement pour quand je reviendrai, tu auras de mes nouvelles.
-
-**** *book_ *id_I07 *act_I *date_1784
-
--*who_leprince
-Peu s'en est fallu que je ne lui apprisse à parler.
-Mais j'étais trop intéressé à ne pas me découvrir.
-Prévenons son retour.
-
-**** *book_ *id_I08 *act_I *date_1784
-
--*who_barogo
-Le voilà parti !
-Et moi bien propre !
-Mais quitte à m'enfuir en chemise, déshabillons-nous et partons ; car déguerpir dans cet attirail-là, on ne badinerait pas.
-Diable !
-Arrêté comme voleur !
-Je ferais un joli garçon, moi !
-
-**** *book_ *id_I09 *act_I *date_1784
-
--*who_milescas
-Eh bien ?
-
--*who_barogo
-Gare à nous.
-C'est l'homme à la trique.
-
--*who_milescas
-Monseigneur déjà habillé !
-Il a donc fait sa toilette lui-même.
-
--*who_barogo
-Rengorgeons-nous.
-Il me prend pour son maître ; cela paraît naturel, il vient de prendre son maître pour moi.
-
--*who_milescas
-Courons avertir Gusman et Don César.
-
-**** *book_ *id_I10 *act_I *date_1784
-
--*who_barogo
-Ah !
-Ah !
-Ah !
-La bonne farce !
-Ah !
-Ah !
-Ah !
-Je respire.
-L'excellent porte-respect, qu'un riche habit !
-Heureux ceux qui ont le moyen de s'en procurer.
-Mais puisqu'on s'est mépris à mon ajustement, courage !
-Courage !
-Le Prince n'est pas prêt à revenir, tenons sa place encore un moment ; ne nous déconcertons pas ; quarrons-nous.
-Par ce qui m'arrive, je vois que, pour réussir, il ne Faut, bien souvent, que de l'effronterie, bien !
-S'il ne tient qu'à cela, nous en aurons, ça ne coûte rien, c'est si commun !
-Mais commençons d'abord par tirer ces rideaux, et cela pour raison.
-
-**** *book_ *id_I11 *act_I *date_1784
-
--*who_gusman
-Voici le chocolat de Monseigneur.
-
--*who_barogo
-Le chocolat de Monseigneur, l'excellent début !
-Oui, pourvu que la fin y réponde.
-Parlons en Prince, de peur que ma voix n'évente la mèche.
-
--*who_gusman
-Il est bien taciturne aujourd'hui !
-
--*who_barogo
-Il est encore là ; qu'il y reste.
-Comme cela sent bon : le boirai-je-ti, ou ne le boirai-je-ti pas ?
-Je serais bien fou de m'en faire faute.
-Un aussi grand Seigneur que le Prince d'Oresca, n'est pardi pas à une tasse de chocolat près.
-Ah ça !
-Mais cependant cet autre me regarde, faisons-le partir.
-
-**** *book_ *id_I12 *act_I *date_1784
-
--*who_barogo
-Ces grands gueux-là n'observent tous les gestes de leurs maîtres que pour se moquer d'eux.
-Mais dépêchons.
-Miam !
-Miam !
-Miam !
-La bonne chose, que du bon chocolat, avec de bonnes tartines rôties !
-Il ne me manquerait plus qu'une tranche de jambon et une bouteille de vin à quinze pour que le déjeuner fût digne d'un Roi.
-Pendant que j'expédie ainsi celui du Prince, il serait plaisant que quelqu'un l'obligeât à se servir de la gratoire qu'il m'a emportée.
-Ah !
-Ah !
-Ah !
-Tiens !
-Qu'est-ce qu'on veux donc que je sasse de ce verre ?
-Pouah !
-Pouah !
-C'est de l'eau.
-Passe encore si c'était de l'eau-de-vie.
-
-**** *book_ *id_I13 *act_I *date_1784
-
--*who_gusman
-Seigneur, Don César.
-
--*who_barogo
-Voilà des visites, à présent.
-
--*who_gusman
-Il ne souffle pas un mot.
-Je ne sais ce qu'il a.
-
--*who_doncesar
 Aurait il découvert ?
 
--*who_gusman
-Il faut que son Altesse ait mal aux dents.
-
--*who_doncesar
 Je le croirais aussi.
 
--*who_gusman
-Le voilà, cet honnête homme !
-Si le Ciel pouvoit nous en débarrasser!
+Mon Prince, je me rends à vos ordres. Votre Altesse, dit-on, veut me parler. C'est sans doute au sujet du billet qu'elle m'a commandé de lui tenir prêt pour la Signora Eléonore ?
 
-**** *book_ *id_I14 *act_I *date_1784
-
--*who_barogo
-Que va-t-il me conter là ?
-
--*who_doncesar
-Mon Prince, je me rends à vos ordres.
-Votre Altesse, dit-on, veut me parler.
-C'est sans doute au sujet du billet qu'elle m'a commandé de lui tenir prêt pour la Signora Eléonore ?
-
--*who_barogo
-Laquelle n'est, je crois, que ce que tant d'autres font.
-
--*who_doncesar
 Le voici, ainsi que les deux cents piastres que Monseigneur lui a fait la faveur de lui promettre, et qui y sont énoncées.
 
--*who_barogo
-On n'en donnerAit pas tant à une honnête femme.
-
--*who_doncesar
 Voilà la somme.
 
--*who_barogo
-Ça sent encore meilleur que le chocolat.
-
--*who_doncesar
 J'espère en avoir ma bonne part.
 J'ose me flatter que Monseigneur n'est pas moins satisfait du style, que la Signora Eléonore le sera de la somme.
 
--*who_barogo
-J'y suis.
-C'est le porte-esprit de Monseigneur.
-
--*who_doncesar
 Comme le billet n'est pas long, si votre Altesse souhaite le transcrire tout de suite, je le serai parvenir aussitôt à son adresse.
 
--*who_barogo
-Il faut empêcher ça.
-Deux cents piastres à une créature !
-Soyez donc honnêtes, Mesdames.
-
--*who_doncesar
 Je craindrais que quelque main indiscrète...
 
--*who_doncesar
 Cela ne fait pas mon affaire.
 
-**** *book_ *id_I15 *act_I *date_1784
+J'ignore, mon Prince, si vous aviez déjeuné en effet, mais je sais que vous quittiez une tasse, quand j'ai eu l'honneur de vous remettre le billet et les deux cents piastres pour la signora Eléonore.
 
--*who_barogo
-M'en voilà quitte !
-Comme c'est commode, un geste !
-Ça vous empêche de dire des sottises, du moins !
-Combien n'y a-t-il pas d'honnêtes gens qui ne devraient plus que gesticuler !
-Les honnêtes femmes n'en seraient pas fâchées : elles n'en jaseraient que davantage.
+En quatre rouleaux de cinquante, que vous m'avez ordonné de laisser sur cette table ; Votre Altesse étant toute habillée et assise dans ce même fauteuil.
 
-**** *book_ *id_I16 *act_I *date_1784
+Je puis vous protester qu'il n'est rien de plus vrai.
 
--*who_gusman
-Monseigneur, la Femme de Chambre de la Signora Eléonore désirerait avoir un moment d'audience de votre Altesse.
+Il extravague.
 
--*who_barogo
-Maudite soit la Principauté !
-Vous allez voir qu'il faudra que je donne comme ça audience à toute la Ville.
+Mon Prince...
 
--*who_gusman
-Vous voyez que c'est son mal de dents qui l'empêche de parler ; mais ne craignez rien, approchez.
+Vous l'entendez, mon Prince.
 
--*who_barogo
-Je vois ce dont il retourne : c'est sa Maîtresse qui lui envoie chercher l'argent.
+Où a-t-il la tête aujourd'hui ?
 
--*who_gusman
-N'épargnez pas Don César.
+Mon Prince...
 
--*who_donasancha
+
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donasancha
+
 Laissez-moi faire.
 
--*who_gusman
-Je sors pour avertir ce fameux dentiste qui demeure près de cet hôtel...
-
--*who_barogo
-Un dentiste...
-Diable !
-Ce n'est pas là mon compte.
-
-**** *book_ *id_I17 *act_I *date_1784
-
--*who_barogo
-Le friand morceau !
-Comme je vous croquerais ça, moi !
-
--*who_donasancha
 Que je serais contente, si me voyant de plus près, il m'allât trouver plus belle que ma maîtresse !
 
--*who_barogo
-En ma qualité de Prince, j'ai quelques droits là-dessus, j'espère.
-Oui, mais si le véritable privilégié allait venir, je serais dans de beaux draps.
-
--*who_donasancha
 Il me regardera peut-être.
 
--*who_barogo
-Qu'elle ne voie pas ma figure, sans quoi ma Principauté est à tous les diables.
-
--*who_donasancha
 Monseigneur...
 Monseigneur, Monseigneur me fait trop d'honneur.
 
--*who_barogo
-Oh !
-Comme ça...
-Laissez-vous honorer.
-
--*who_donasancha
-Pour un Prince, il a les mains bien dures et bien noires.
-Finissez-donc, Monseigneur, je vous le demande en grâce ; finissez, et daignez m'écouter.
+Pour un Prince, il a les mains bien dures et bien noires. Finissez-donc, Monseigneur, je vous le demande en grâce ; finissez, et daignez m'écouter.
 Je le tiens.
 
--*who_barogo
-Oui, oui.
-
--*who_donasancha
 Je vous avouerai donc, Monseigneur, que le sujet qui m'amène me perdrait dans l'esprit de ma Maîtresse si jamais elle venait à le savoir.
 
--*who_donasancha
 Vous ne m'écoutez pas, Monseigneur ?
 
--*who_barogo
-Si, si.
-
--*who_donasancha
 Votre Altesse saura qu'il y aurait conscience à moi de la laisser plus longtemps duper par des gens que Monseigneur aime beaucoup plus qu'ils ne méritent.
 
--*who_barogo
-Oh !
-Oh !
-
--*who_donasancha
 Oui, Monseigneur ; d'abord vous avez à votre service un homme qui vous vole.
 
--*who_barogo
-Eh !
-Eh !
-Ce n'est rien, et chez un grand Seigneur encore !
-
--*who_donasancha
 Ensuite la Signora Eléonore, de concert avec ce fripon de Don César, vous trompe à qui mieux mieux.
 
--*who_barogo
-Ah !
-Ah!
-
--*who_donasancha
 Et pour comble de perfidie, elle vient de se liguer en secret contre vous avec ce joli petit chanteur après qui courent toutes les femmes, et ce grand vilain Duc qui les a toutes escroquées.
 
--*who_barogo
-Hum !
-Hum !
-
--*who_donasancha
 Vous ne daignez pas me répondre un mot, Monseigneur.
 
--*who_barogo
-Hem !
-Hem !
-
--*who_donasancha
 Je vois bien pour quoi, c'est que votre Altesse s'imagine sans doute que ce que j'en dis, c'est par esprit de vengeance et de dépit contre ma Maîtresse ; mais je puis vous prouver que je n'avance rien que de très véritable.
-Où sont donc ces Lettres ?
-Je croyais les avoir prise avec moi.
-À présent il y va de mon honneur que Monseigneur les voie.
-Si vous voulez bien me le permettre, je vais avoir l'honneur de vous les apporter à l'instant.
+Où sont donc ces Lettres ? Je croyais les avoir prise avec moi. À présent il y va de mon honneur que Monseigneur les voie. Si vous voulez bien me le permettre, je vais avoir l'honneur de vous les apporter à l'instant.
 
--*who_barogo
-Si, si.
-
--*who_donasancha
 En vérité, je ne reconnais plus le Prince.
 
--*who_barogo
-Je le crois bien.
-
-**** *book_ *id_I18 *act_I *date_1784
-
--*who_barogo
-Oui, oui, si, si !
-Ah !
-Ah !
-Oh !
-Oh !
-Eh !
-Eh !
-Hum !
-Hum !
-Hem !
-Hem !
-Les belles réponses que je lui ai faites là !
-Mais sans attendre qu'elle revienne...
-
-**** *book_ *id_I19 *act_I *date_1784
-
--*who_milescas
-Don Felicio, ancien Précepteur de Monseigneur...
-
--*who_barogo
-Ça ne sera jamais fini.
-
--*who_milescas
-Prend la liberté de venir chercher la réponse au placet qu'il a eu l'honneur de présenter à votre Altesse il y a huit jours.
-
--*who_barogo
-S'il a aussi bien choisi son temps pour le donner, il ne risque rien.
-
--*who_milescas
-Si vous saviez, Monseigneur comme ce pauvre honnête homme est dans la peine !
-
--*who_barogo
-Nous pouvons nous donner la main.
-
--*who_milescas
-Il est vrai que la Famille de Monseigneur lui avait accordé une gratification considérable ; mais ayant placé son argent chez un fripon qui vient de saire banqueroute...
-On en voit tant cette année...
-Le Seigneur Félicio, se trouve, pour ainsi dire, réduit à la mendicité.
-
--*who_barogo
-Ceci est un cas différent !
-Il me vient une idée.
-Morbleu, elle est bonne ; et le Prince à coup-sûr, en serait autant s'il était à ma place.
-Ce pauvre honnête homme attend, mieux vaut qu'il ait cet argent qu'une coquine qui n'en a déjà que trop.
-
--*who_milescas
-Quoi !
-Monseigneur, tout cet argent est pour Don Félicio ?...
-Comme il va bénir votre Altesse !...
-Vous plaît-il, Monseigneur, qu'on le laisse entrer ?
-Je lui dirai que votre mal de dents vous empêche de le recevoir.
-
-**** *book_ *id_I20 *act_I *date_1784
-
--*who_barogo
-Mon mal de dents !
-Ah !
-Ah !
-Arrive ce qui pourra.
-Je ne me repends pas de ce que je viens de faire.
-Mais après avoir tiré cet homme d'embarras, pensons à nous, et détalons vite, vite, pendant que je suis seul.
-Qu'est-ce ?
-On vient encore !...
-C'est de ce côte-là !
-Eh !
-Mon Dieu, Je suis perdu !
-C'est par où le Prince s'est en allé, et ce ne peut être que lui ; miséricorde !
-Que devenir !
-Que faire !
-Où me cacher !
-Où ?
-Eh !
-Parbleu, sous cette table.
-Quand tout le monde sera parti, je profiterai de la belle pour reprendre mes habits, si le Prince les remet où je les avais laissé.
-
-**** *book_ *id_I21 *act_I *date_1784
-
--*who_leprince
-Je n'ai rien pu découvrir ; rien absolument ; mon déguisement toutefois ne m'a pas été inutile, puisqu'il m'a valu cette commission à la porte de Dona Eléonore, pour le Seigneur Gusman, mon Valet de Chambre.
-Elle m'honore trop pour ne pas m'en acquitter avec soin.
-C'est quelque intrigue apparemment.
-Reprenons d'abord mes habits, et cachons ceux-ci pour m'en servir à la première occasion.
-
--*who_barogo
-Me voilà bien avancé.
-
--*who_leprince
-Je songerai aux moyens de dédommager le pauvre diable à qui je les ai pris, et qui est sans doute fort embarrassé à présent.
-
--*who_barogo
-Il est sorcier.
-
--*who_leprince
-Quoique de fort bonne heure, comme les rues étaient déjà peuplées d'artisans de tous les sexes se de tous les âges, ils volaient gaiement au travail, tandis que le riche cherche à prolonger un sommeil cent sois interrompu, pour s'arracher à l'ennui qui l'assiège et aux remords qui le persécutent....
-Mais j'oublie ma commission.
-J'ai d'ailleurs un appétit....
-
-**** *book_ *id_I22 *act_I *date_1784
-
--*who_leprince
-C'est Gusman que je veux.
-
--*who_milescas
-Quoi !
-Le voilà déshabillé !
-C'est de la part de Dom Félicio.
-
--*who_leprince
-Fait se venir Gusman, vous dis-je.
-
-**** *book_ *id_I23 *act_I *date_1784
-
--*who_leprince
-Ce pauvre Félicio me persécute.
-Il faut définitivement que je m'occupe de lui : j'ai vérifie les faits, et son désastre n'est que trop réel.
-C'est un digne homme.
-
-**** *book_ *id_I24 *act_I *date_1784
-
--*who_leprince
-GUSMAN, voyez un peu ce que c'est que le paquet qui se trouve ici pour vous.
-
--*who_gusman
-Qui diable l'aurait apporté là ?
-
--*who_barogo
-Il ne soupçonne pas qu'il parlé au Commissionnaire.
-
--*who_leprince
-Restez...
-C'est l'écriture de Dona Sancha.
-Je serais curieux de savoir ce qu'elle vous mande.
-Je veux m'en amuser.
-
--*who_gusman
-La bienséance, Monseigneur, ne me permet pas...
-
--*who_leprince
-Et moi, je vous l'ordonne.
-
--*who_gusman
-Je craindrais d'abuser de votre complaisance.
-
--*who_leprince
-Ayez celle de m'obéir.
-
--*who_gusman
-Monseigneur, c'est pour vous même.
-
--*who_leprince
-Il a raison.
-Il est plaisant que ce soit moi à présent qui fasse mes commissions et celles de mes gens...
-Mon chocolat.
-
--*who_gusman
-Mais, Monseigneur.
-
--*who_leprince
-Mon Prince.
-C'est Don Sancha qui m'écrit; Je prends le parti de vous envoyer les Lettres dont j'ai eu l'honneur de vous parler.
-Je ne sais ce qu'elle veut dire.
-Ne pouvant pas avoir celui de vous les aller porter moi-même.
-Ma Maîtresse qui vient de se lever me retient.
-Voyons ces billets dont elle prétend m'avoir parlé.
-Comment !
-Elles sont toutes adressées à la Signora Eléonore.
-Lisons.
-Mille pardons, ma toute aimable, si je n'ai point été des vôtres hier au soir.
-Pardon ; vous étiez seule, je le savais, et c'est ce que j'ai craint.
-Ces tête-à-tête, d'ailleurs si délicieux, font un tort cruel à ma voix.
-Au surplus, je vous remercie du joli diamant de Son Altesse.
-Bien lui a pris de vous le donner ; car en vérité ce diamant là me manquait.
-Je vous embrasse.
-
--*who_barogo
-C'est commode.
-
--*who_leprince
-Ô ciel !
-Avec qui me trouvé-je en concurrence ? — Celle-ci est du Duc avec qui j'ai tant perdu l'autre jour.
-J'irai ce soir vous demander à souper, ma belle enfant.
-Il est à présumer que notre bon Prince en sera, et que nous jouerons.
-Ayez donc soin de nous préparer les cartes les dés que vous savez.
-Je suis las de perdre au jeu de toutes les manières.
-Adieu.
-Avis au Lecteur.
-J'en ferai mon profit.
-Le scélerat !
-Le perfide !
-
--*who_barogo
-Messieurs, allez donc jouer chez ces dames.
-
--*who_leprince
-Cette indignité m'éclaire.
-Je rougis de ma faiblesse.
-M'en irriter serait y mettre le comble.
-Me trompé-je ?
-Cette autre est de Don César.
-Vous me harcelez ma chère Dame, pour cet argent que vous a promis le Prince, comme si d'après notre Traité...
-Notre Traité !
-Il n'était pas autant de mon intérêt que du vôtre, que vous l'ayez tout de suite.
-Je lui en parlerai encore ce soir, et je le presserai si bien, qu'il sera enfin obligé d'en venir au point où nous le voulons.
-Je vous embrasse comme je vous aime.
-
--*who_barogo
-Quelle tendresse !
-
--*who_leprince
-Ne trouverai-je donc partout que des ingrats et des fripons ?
-Suis-je assez dupe !
-
--*who_barogo
-Il l'est.
-
--*who_leprince
-Les voilà donc ces éclaircissements que je désirais tant avoir, et que j'obtiens à l'instant que je m'y attendais le moins !
-Mais mon parti est pris, me voilà désabusé.
-Dissimulons...
-Ne vous ai-je point demandé mon chocolat ?
-
--*who_barogo
-Ahi ! ahi !
-
--*who_gusman
-Je voulais faire observer à Monseigneur qu'il l'a déjà pris.
-
--*who_leprince
-Moi ?
-
--*who_gusman
-Oui, Monseigneur ; et même avec beaucoup pus d'appétit qu'à l'ordinaire ; car au verre d'eau près, votre Altesse n'a rien laissé.
-
--*who_leprince
-Plaisantez-vous ?
-
--*who_gusman
-Pour preuve, voilà encore la tasse dans laquelle j'ai eu l'honneur de vous le servir.
-
--*who_leprince
-Vous voulez me faire croire...
-
--*who_gusman
-Milescas qui était présent, peut vous l'assurer.
-
-**** *book_ *id_I25 *act_I *date_1784
-
--*who_milescas
-Oui, Monseigneur, j'en suis témoin; et votre Altese même dans ce moment-là venait de s'habiller.
-
--*who_leprince
-Eh !
-Je suis encore en robe de chambre.
-
--*who_barogo
-Voilà le mystère.
-
--*who_gusman
-Le Seigneur Don César qui est survenu comme Monseigneur achevait, peut dire la vérité.
-Justement le voici.
-
-**** *book_ *id_I26 *act_I *date_1784
-
--*who_leprince
-Qu'est-ce que cela signifie ?
-Avancez, Don César, on veut me persuader que je vous ai vu ce matin, et que j'étais à déjeuner, quand vous êtes venu.
-
--*who_doncesar
-J'ignore, mon Prince, si vous aviez déjeuné en effet, mais je sais que vous quittiez une tasse, quand j'ai eu l'honneur de vous remettre le billet et les deux cents piastres pour la signora Eléonore.
-
--*who_barogo
-Nouvel embargo.
-
--*who_leprince
-Vous m'avez remis à moi ce-matin un billet et deux cents piastres pour la Signora Léonore ?
-
--*who_doncesar
-En quatre rouleaux de cinquante, que vous m'avez ordonné de laisser sur cette table ; Votre Altesse étant toute habillée et assise dans ce même fauteuil.
-
--*who_leprince
-Auriez-vous formé le projet de me le persuader ?
-
--*who_barogo
-Cela serait plaisant.
-
--*who_doncesar
-Je puis vous protester qu'il n'est rien de plus vrai.
-
--*who_gusman
-Pour moi, j'ai vu les rouleaux.
-
--*who_milescas
-Et moi aussi, à telle enseigne qu'à peine le Seigneur Don César a-t-il été sorti, que Monseigneur a fait entrer Dona Sancha, la Femme-de-chambre de Dona Eléonore, à qui votre Altesse a bien voulu accorder un moment d'entretien.
-
--*who_leprince
-Messieurs, je vous ordonne de finir un jeu qui me déplaît souverainement, ou je saurai punir votre audace.
-
--*who_doncesar
-Il extravague.
-
--*who_gusman
-La tête lui tourne.
-
--*who_milescas
-Il est fou.
-
--*who_barogo
-Pas si fou.
-
--*who_doncesar
-Mon Prince...
-
--*who_leprince
-Vous êtes un fripon...
-Ne repliquez pas.
-J'ai de quoi vous confondre.
-Si j'avais reçu cette somme, je l'aurais encore, ou du moins je saurais l'usage que j'en ai fait.
-
--*who_milescas
-Il n'y a pas si longtemps que Votre Altesse en a disposé, pour l'avoir oublié.
-
--*who_gusman
-Monseigneur doit se rappeler qu'il en a gratifié le Seigneur Don Félicio.
-
--*who_doncesar
-Vous l'entendez, mon Prince.
-
--*who_milescas
-C'est moi-même que Votre Altesse a chargé de lui remettre cet argent.
-
--*who_gusman
-Il a été bien mortifié, Monseigneur, de n'avoir pas pu vous en remercier de vive voix.
-
--*who_milescas
-Et il a cherché à s'en dédommager par la lettre que j'ai eu l'honneur de vous remettre à l'instant.
-
--*who_leprince
-Je tombe des nues.
-Mon Prince, que d'actions de grâces ne vous dois-je pas pour les deux cents piastres que vous venez d'accorder au plus dévoué de vos serviteurs !
-Il y a bien là deux cents piastres...
-Je ne me trompe pas...
-Deux cents piastres !...
-C'est son style, son caratère, son seing....
-À moins que le Diable ne s'en mêle, je n'y conçois rien.
-
-**** *book_ *id_I27 *act_I *date_1784
-
--*who_postichi
-C'est senz' altre à son Altesse Serenissime Monsignor le Prince d'Oresca à qui j'ai l'honnor di parler.
-
--*who_leprince
-C'est moi-même.
-Qui êtes-vous ?
-
--*who_postichi
-Monsignor non sti pas senz' avoir entendou parler dei Dottor Postichi.
-C'est vostre oumilissimo serviror, Italien de nation, Dentista de métier, et honnête uomo di profession.
-
--*who_leprince
-Passons sur les qualités.
-Que souhaitez-vous?
-
--*who_barogo
-Je gage qu'il vient lui arracher la dent qui me faisait mal.
-
--*who_postichi
-Vengo à procurar à Monsignor qualche soulagement à son mal.
-
--*who_leprince
-Seigneur Docteur, de quel mal parlez-vous, je vous prie ?
-
--*who_postichi
-Perdio!
-Vostre Altesse ne l'ignora pas.
-
--*who_leprince
-Je vous comprends encore moins.
-
--*who_postichi
-M'auriez-vous ingannato ?
-
--*who_gusman
-Ne voyez-vous pas qu'il le fait exprès?
-
--*who_postichi
-Vossignoria ne peut avoir d'imenndicato che toute la matina elle a sta lavorata d'oun mal di dents, et c'est per questo que j'accours promto, per opérar la.
-
--*who_leprince
-Pour m'opérer !
-Moi ?
-Vous vous moquez, Seigneur Docteur ; mes dents sont dans le meilleur état du monde, et je ne me rappelle pas même y avoir jamais eu mal de ma vie.
-
--*who_doncesar
-Où a-t-il la tête aujourd'hui ?
-
--*who_postichi
-Ecco appunto comme sont tous les malades.
-La douleur une fois passata, ils s'imaginent ché sta pour toujours, et le mal qu'ils ont éprouvé fa qu'ils s'opposent au bien qu'on veut leur far.
-
--*who_leprince
-Je vous ai dit, et je vous le répète encore...
-
--*who_postichi
-Abia patienza, Monsignor, non sta besoin avec moi d'avoir peur, perché, sans me vanter, je puis dire ché sono il premier uomo de mon mestier.
-
--*who_barogo
-Sans se vanter.
-
--*who_postichi
-Ni facia dunqué la grazzia di mi far voir la dent dové si senté la douleur.
-
--*who_leprince
-Encore une fois, Seigneur Docteur...
-
--*who_barogo
-Il lui arrachera une dent.
-
--*who_postichi
-Abia patienza, Monsignor.
-Je m'explique; est ce ouna dent canina ?
-Ouna dent incisiva, ouna dent mollaire ché vi fa so firir ?
-Appartient-elle à la mâchoire inférieure, ou à la mâchoire soupérieure ?
-Est-elle del devanti ou del fondo ?
-
--*who_leprince
-Mais quel cruel homme êtes-vous?
-
--*who_postichi
-Abia patienza, Monsignor, et ouvrez la bouche, perché bisogna d'abord désaminer la dent.
-S'il faut la plomber, nous la plomberons ; s'il faut l'arracher, nous l'arracherons, c'est tout simple ; l'un et l'aitro sta l'affar d'oun momento et d'un tour de main.
-Il méglior de tour, c'est ché gi a non si vois rien.
-
--*who_leprince
-Mais...
-
--*who_postichi
-Abia patienza, Monsignor.
-
--*who_barogo
-Il en a bien besoin.
-
--*who_postichi
-Ecco comment !
-Io vi soubstitoue à la dent arrachée, ouna dent si bella é si buona, qu'elle fa pion tosto vergogna à toutes les altres.
-On me connaît à la Cour, et Monsignor peut s'en informer.
-Non sta dans ce pays-là ni Dama, ni Petit-Maître qui n'ait au moins ouna ou deux dents della mia façon.
-
--*who_leprince
-Et vous partez de-là, pour conclure que je dois vous avoir la même obligation ?
-
-**** *book_ *id_I28 *act_I *date_1784
-
--*who_donasancha
 Monseigneur, ma Maîtresse vient de sortir et, je profite de ce moment pour jouir de la permission que vous avez bien voulu m'accorder.
 
--*who_barogo
-Encore une autre !
+Mais ce matin, tout-à-l'heure, il n'y a qu'un moment. Ne pouvant pas venir d'abord, j'ai pris la liberté de vous en marquer la raison, par une lettre dont j'ai chargé un Commissionnaire à la porte de la maison.
 
--*who_leprince
-Et quand, je vous prie ?
-
--*who_donasancha
-Mais ce matin, tout-à-l'heure, il n'y a qu'un moment.
-Ne pouvant pas venir d'abord, j'ai pris la liberté de vous en marquer la raison, par une lettre dont j'ai chargé un Commissionnaire à la porte de la maison.
-
--*who_gusman
-Nous vous l'avions bien dit, Monseigneur, que Dona Sancha vous avait parlé.
-
--*who_leprince
-Tout ce que j'entends, tout ce que je vois ne sert qu'a redoubler ma surprise.
-
--*who_donasancha
 Monseigneur s'est déshabillé ?
 
--*who_milescas
-Eh bien !
-Monseigneur.
-
--*who_donasancha
 Votre mal de dents serait-il augmenté au point que...
 
--*who_leprince
-Vous verrez que toute la Ville se sera donné le mot pour me persuader que j'ai vu tout le monde, quand personne n'a encore paru devant moi ; que j'ai donné à un homme à qui je n'ai pas seulement pensé, deux cents piastres qu'on dit m'avoir remises en main propre, quoique je n'aie pas encore manié d'aujourd'hui une seule pièce de monnaie ; que je me suis habillé, quoique je sois en robe-de-chambre ; que j'ai déjeuné, quand je me sens l'estomac vide ; et que j'ai mal aux dents, quand elles sont plus saines que jamais.
-
--*who_donasancha
 Je croyais cependant, Monseigneur...
 
--*who_leprince
-Dona Sancha, je vous dois trop, pour me fâcher d'une mauvaise plaisanterie ; mais il est temps qu'elle finisse.
-Je saurai reconnaître le service important que vous m'avez rendu.
-Vous, Don César, remettez-moi la clef de ma cassette et de mon secrétaire.
+Ah ! Ah ! Ah ! C'est Monseigneur. Ah ! Ah ! Ah!
 
--*who_doncesar
-Mon Prince...
-
--*who_leprince
-Vous m'avez entendu.
-Dès ce moment vous n'êtes plus à moi.
-Cette lettre vous en apprendra la raison.
-Quant aux deux cents piastres, je saurai les retrouver.
-En attendant, sortez.
-
--*who_postichi
-C'est la rage des dents qui le tient.
-Attendez un peu, attendez ; io vo i remediar.
-Abia patienza.
-Monsignor, abia patienza.
-Avancez questo fauteuil, vous.
-
--*who_barogo
-Ouf !
-
-**** *book_ *id_I29 *act_I *date_1784
-
--*who_leprince
-Vous, Seigneur Docteur, je vous prie en grâce de vouloir bien en faire autant.
-J'ai la plus grande confiance en vous et en votre art ; mais je le répète pour la centième et dernière fois, que je n'ai besoin ni de l'un ni de l'autre.
-
--*who_postichi
-Abia patienza, Monsignor.
-
--*who_barogo
-Miséricorde !
-C'en est, fait de moi!
-
--*who_postichi
-Ahi ! ahi ! ahi !
-
--*who_milescas,sancha,gusman
-Ahi! ahi! ahi!
-
--*who_leprince
-Qu'est-ce ?
-
--*who_postichi
-Per Dio !
-Non posso piou.
-Ahi ! ahi ! ahi !
-
--*who_donasancha
-Ah !
-Ah !
-Ah !
-C'est Monseigneur.
-Ah !
-Ah !
-Ah!
-
--*who_gusman
-Ah !
-Ah !
-Ah !
-C'est le Prince.
-Ah !
-Ah !
-Ah !
-
--*who_milescas
-Ah !
-Ah !
-Ah !
-C'est Son Altesse.
-Ah !
-Ah !
-Ha !
-
--*who_leprince
-Eh !
-Mais, que vois-je ?
-
--*who_barogo
-Un malheureux, Monseigneur, qui réclame à deux genoux votre indulgence.
-Tout un chacun dit comme ça que vous êtes si bon Prince.
-
--*who_leprince
-Qui êtes-vous ?
-D'où venez-vous?
-
--*who_barogo
-De dessous cette table, Monseigneur.
-
--*who_leprince
-J'entends bien.
-Mais par quel hasard êtes-vous venu ici ?
-
--*who_barogo
-Monseigneur, ce n'est par aucun hasard, mais bien par cette cheminée que voilà, et que, sans le respect que je dois à la compagnie, j'ai eu l'honneur de ramoner ce matin.
-
--*who_leprince
-Quoi ?
-
--*who_barogo
-Hélas !
-Oui, Monseigneur.
-C'est un maudit moment de curiosité qui m'a perdu.
-Mais qui n'en a pas dans la vie de ce monde !
-J'ai vu tant, tant, tant de belles choses, que je n'ai pu m'empêcher d'y mettre la main.
-Foi d'honnête homme, Monseigneur, ce n'était pas pour vous faire du tort.
-Chez les grands Seigneurs il y a déjà tant de gens qui s'en acquittent si bien, et vous le savez à présent....
-C'était tant seulement pour voir comment ça ferait.
-Or, une fois emberlificoté de la sorte, il ne m'a plus été possible, Monseigneur, de me désemberlificoter, parce qu'ils venaient tous à la queue les uns des autres, ni plus ni moins qu'un troupeau de bêtes à cornes, Monseigneur, et ces beaux habits qui sont les vôtres....
-
--*who_leprince
-...
-Me donnent la clef d'une énigme qui, jusqu'à présent, m'avait parue inconcevable.
-Je te pardonne ton audace en faveur de la bonne action que tu as faite, et de l'avantage qui m'en est résulté.
-
--*who_barogo
-Ah !
-Monseigneur...
-
--*who_donasancha
 C'est donc là ce Monseigneur qui m'a fait la grâce de me presser si fort ?
 
--*who_barogo
-C'était un des profits de mon rôle.
-
--*who_donasancha
 Je ne m'étonne plus que les mains de son Altesse fussent si rudes.
 
--*who_gusman
+
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_postichi
+
+C'est senz' altre à son Altesse Serenissime Monsignor le Prince d'Oresca à qui j'ai l'honnor di parler.
+
+Monsignor non sti pas senz' avoir entendou parler dei Dottor Postichi. C'est vostre oumilissimo serviror, Italien de nation, Dentista de métier, et honnête uomo di profession.
+
+Vengo à procurar à Monsignor qualche soulagement à son mal.
+
+Perdio! Vostre Altesse ne l'ignora pas.
+
+M'auriez-vous ingannato ?
+
+Vossignoria ne peut avoir d'imenndicato che toute la matina elle a sta lavorata d'oun mal di dents, et c'est per questo que j'accours promto, per opérar la.
+
+Ecco appunto comme sont tous les malades. La douleur une fois passata, ils s'imaginent ché sta pour toujours, et le mal qu'ils ont éprouvé fa qu'ils s'opposent au bien qu'on veut leur far.
+
+Abia patienza, Monsignor, non sta besoin avec moi d'avoir peur, perché, sans me vanter, je puis dire ché sono il premier uomo de mon mestier.
+
+Ni facia dunqué la grazzia di mi far voir la dent dové si senté la douleur.
+
+Abia patienza, Monsignor. Je m'explique; est ce ouna dent canina ? Ouna dent incisiva, ouna dent mollaire ché vi fa so firir ? Appartient-elle à la mâchoire inférieure, ou à la mâchoire soupérieure ? Est-elle del devanti ou del fondo ?
+
+Abia patienza, Monsignor, et ouvrez la bouche, perché bisogna d'abord désaminer la dent. S'il faut la plomber, nous la plomberons ; s'il faut l'arracher, nous l'arracherons, c'est tout simple ; l'un et l'aitro sta l'affar d'oun momento et d'un tour de main. Il méglior de tour, c'est ché gi a non si vois rien.
+
+Abia patienza, Monsignor.
+
+Ecco comment ! Io vi soubstitoue à la dent arrachée, ouna dent si bella é si buona, qu'elle fa pion tosto vergogna à toutes les altres. On me connaît à la Cour, et Monsignor peut s'en informer. Non sta dans ce pays-là ni Dama, ni Petit-Maître qui n'ait au moins ouna ou deux dents della mia façon.
+
+C'est la rage des dents qui le tient. Attendez un peu, attendez ; io vo i remediar.
+Abia patienza. Monsignor, abia patienza.
+Avancez questo fauteuil, vous.
+
+Abia patienza, Monsignor.
+
+Ahi ! ahi ! ahi !
+
+Per Dio ! Non posso piou. Ahi ! ahi ! ahi !
+
+
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+
+Je pense bien qu'à l'heure qu'il est.... Et puis les grands Seigneurs ne sont pas comme nous autres Bourgeois. Voici un nouvel habit que je lui apporte.
+
+Pourvu que votre Seigneurie en soit satisfaite, c'est le principal.
+
+Lui en donnent plus d'une à garder, n'est-ce pas ? C'est dans l'ordre.
+
+Comme un laquais ?
+
+Oh ! Ma soi, c'en est trop.
+
+Volontiers. Le voilà.
+
+J'avoue que ce n'est pas bien fort. Mais que diable, Seigneur Gusman, songez donc aussi que c'est pour un Prince.
+
+Vous n'y pensez pas. Plutôt c'est usé, et plutôt c'est à vous.
+
+À vous entendre, ne le croirait-on pas plus basané qu'un marocain ? Au surplus, ce n'est pas ma faute. La couleur est à la mode, pourquoi le coloris du Prince n'y est-il pas ! Ayons soin seulement que mon mémoire me soit promptement payé, et...
+
+J'entends à merveille ; mais enfin...
+
+Et moi aux vôtres, Seigneur Gusman. Serviteur.
+
+Voilà le moins fripon de tous les valets.
+
+
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
+
+Entrez ici, le Prince n'est pas encore levé.
+
+Pourvu que Son Altesse le trouve bien ?
+
+Il est vrai que... Mais Seigneur Don Lope, cela ne suffit pas tout-à fait. Le Prince à présent n'y voit plus guère que les yeux de ce Don César son Secrétaire, qui, de concert avec la Signora Eléonore, sa maîtresse....
+
+Monseigneur est une si bonne pâte d'homme ? Cette femme est si séduisante ! Et ce Don César si adroit ! Diriez-vous, Seigneur Don Lope, que j'ai vu arriver cela avec la crainte de Dieu dans l'âme, et une pistole dans sa poche. Eh bien ! Ça n'a pas été plutôt r'habillé, que ce Monsieur est devenu faux comme un jeton, fripon comme un Procureur, fier comme un paon, et insolent...
+
+Ce n'est rien. Comme un Commis.
+
+Au demeurant, voyons l'habit.
+
+Oh ! Oh ! Seigneur Don Lope, comme c'est cousu ! Et quelle doublure mince !
+
+Oui d'abord ; mais ensuite cela nous revient, à nous autres, et nous n'y trouvons pas notre compte.
+
+À la bonne heure ! Mais quelle idée avez-vous eu d'aller choisir, pour le Prince ; une couleur aussi tendre, lui qui est d'un brun...
+
+Ce que j'en dis n'est pas...
+
+Puisque vous l'exigez, je suis à vos ordres.
+
+Serviteur.
+Voilà le plus honnête homme de tous les tailleurs.
+
+Cela ne laisse pas que de donner un air noble à un homme, au moins!
+
+Parlons raison. Les bottines de son Altesse sont là. Voici son habit...
+
+Ainsi il pourra s'habiller quand il lui plaira ; tout est prêt.
+
+Il n'est encore que la demie. À propos, on est après à ramoner cette cheminée; il faudrait renfermer tout ceci de peur que la suie....
+
+Fort bien !
+
+Et moi je vais faire le chocolat.
+
+Cela va sans dire. Est-ce que nous ne sommes pas faits pour être les premiers servi ?
+
+Voici le chocolat de Monseigneur.
+
+Il est bien taciturne aujourd'hui !
+
+Seigneur, Don César.
+
+Il ne souffle pas un mot. Je ne sais ce qu'il a.
+
+Il faut que son Altesse ait mal aux dents.
+
+Le voilà, cet honnête homme ! Si le Ciel pouvoit nous en débarrasser!
+
+Monseigneur, la Femme de Chambre de la Signora Eléonore désirerait avoir un moment d'audience de votre Altesse.
+
+Vous voyez que c'est son mal de dents qui l'empêche de parler ; mais ne craignez rien, approchez.
+
+N'épargnez pas Don César.
+
+Je sors pour avertir ce fameux dentiste qui demeure près de cet hôtel...
+
+Qui diable l'aurait apporté là ?
+
+La bienséance, Monseigneur, ne me permet pas...
+
+Je craindrais d'abuser de votre complaisance.
+
+Monseigneur, c'est pour vous même.
+
+Mais, Monseigneur.
+
+Je voulais faire observer à Monseigneur qu'il l'a déjà pris.
+
+Oui, Monseigneur ; et même avec beaucoup pus d'appétit qu'à l'ordinaire ; car au verre d'eau près, votre Altesse n'a rien laissé.
+
+Pour preuve, voilà encore la tasse dans laquelle j'ai eu l'honneur de vous le servir.
+
+Milescas qui était présent, peut vous l'assurer.
+
+Le Seigneur Don César qui est survenu comme Monseigneur achevait, peut dire la vérité. Justement le voici.
+
+Pour moi, j'ai vu les rouleaux.
+
+La tête lui tourne.
+
+Monseigneur doit se rappeler qu'il en a gratifié le Seigneur Don Félicio.
+
+Il a été bien mortifié, Monseigneur, de n'avoir pas pu vous en remercier de vive voix.
+
+Ne voyez-vous pas qu'il le fait exprès?
+
+Nous vous l'avions bien dit, Monseigneur, que Dona Sancha vous avait parlé.
+
+Ah ! Ah ! Ah ! C'est le Prince. Ah ! Ah ! Ah !
+
 Si bien que c'est-là le Prince qui a bu le chocolat.
 
--*who_barogo
-Si c'est votre Seigneurie qui l'a fait, je l'en félicite.
-Je n'en ai jamais pris de meilleur.
-C'est la première fois.
 
--*who_milescas
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_milescas
+
+Voici la perruque in-solio de Monseigneur.
+
+Peste ! Je te crois. Il y a tant de graves personnages qui, sans leur perruque, ne seraient plus rien.
+
+Son chapeau, du linge...
+
+Son chocolat l'est-il ? Il l'a demandé pour huit heures.
+
+Il est aisé d'y remédier sans cela.
+
+Il ne me reste plus qu'à monter chez don César. Le Prince m'a charge hier au soir de lui dire qu'il voulait lui parler à son lever.
+
+Bien entendu qu'il y en aura une tasse pour moi?
+
+Eh ! Mais tu as raison. Que je suis bête, moi ! Je l'avais oublié.
+
+Monseigneur n'a-t-il pas aperçu ?
+
+Qu'est-ce que tu fais donc ici, toi. Eh ! Dieu me pardonne, il s'est débarbouillé avec cette serviette !... Veux-tu ?...
+
+Seigneur... Seigneur ! Tu fais ton chien couchant. Allons, allons; il n'y a pas de Seigneur qui tienne. File, marche, décampe, tu seras mieux.
+
+Apprends que nous n'avons pas besoin de Filoux ici. Il y en a assez sans toi.
+
+Tu raisonnes ? Attends que j'aille chercher une trique, et je te conduirais d'importance. Je te débarbouillerai, moi.
+
+Aie la complaisance de retourner par le même chemin que tu es venu, et cela tout de suite et devant moi, encore.
+
+Auparavant, tâche de nous débarrasser de cette ordure. Nous ne sommes pas payés ici pour être tes domestiques, entends-tu ? Et si tout-à-l'heure ce n'est pas sait promptement pour quand je reviendrai, tu auras de mes nouvelles.
+
+Eh bien ?
+
+Monseigneur déjà habillé ! Il a donc fait sa toilette lui-même.
+
+Courons avertir Gusman et Don César.
+
+Don Felicio, ancien Précepteur de Monseigneur...
+
+Prend la liberté de venir chercher la réponse au placet qu'il a eu l'honneur de présenter à votre Altesse il y a huit jours.
+
+Si vous saviez, Monseigneur comme ce pauvre honnête homme est dans la peine !
+
+Il est vrai que la Famille de Monseigneur lui avait accordé une gratification considérable ; mais ayant placé son argent chez un fripon qui vient de saire banqueroute... On en voit tant cette année... Le Seigneur Félicio, se trouve, pour ainsi dire, réduit à la mendicité.
+
+Quoi ! Monseigneur, tout cet argent est pour Don Félicio ?... Comme il va bénir votre Altesse !... Vous plaît-il, Monseigneur, qu'on le laisse entrer ?
+Je lui dirai que votre mal de dents vous empêche de le recevoir.
+
+Quoi ! Le voilà déshabillé !
+C'est de la part de Dom Félicio.
+
+Oui, Monseigneur, j'en suis témoin; et votre Altese même dans ce moment-là venait de s'habiller.
+
+Et moi aussi, à telle enseigne qu'à peine le Seigneur Don César a-t-il été sorti, que Monseigneur a fait entrer Dona Sancha, la Femme-de-chambre de Dona Eléonore, à qui votre Altesse a bien voulu accorder un moment d'entretien.
+
+Il est fou.
+
+Il n'y a pas si longtemps que Votre Altesse en a disposé, pour l'avoir oublié.
+
+C'est moi-même que Votre Altesse a chargé de lui remettre cet argent.
+
+Et il a cherché à s'en dédommager par la lettre que j'ai eu l'honneur de vous remettre à l'instant.
+
+Eh bien ! Monseigneur.
+
+Ah ! Ah ! Ah ! C'est Son Altesse. Ah ! Ah ! Ha !
+
 Et par conséquent, c'est aussi Son Altesse qui s'était débarbouillée à la serviette en question ?
 
--*who_leprince
-Oui, mais c'est moi qui ai manqué d'en être la victime, et que vous avez reconduit si poliment à la cheminée.
-Mon travestissement vous a empêché de me connaître.
-Mais une autre fois soyez plus humain envers ceux que vous croyez vos inférieurs.
 
--*who_barogo
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barogo
+
+Ouf ! Le chien de métier ! Qu'on y a de mal et peu de profit !
+Qu'est-ce que ceci ? Ah ! Les belles glaces ! Les belles dorures ! Est-il possible qu'il y ait de si belles choses que ça au monde ! Ma foi, je ne m'en serais pas douté... Mon Dieu ! Mon Dieu ! Que c'est donc beau ! Je n'en reviens pas !
+Tiens ! La drôle de machine ! Pour quoi c'est-il donc faire... M'est avis que c'est pour s'asseoir... On y doit être bien à son aise, en tout cas... Pardienne ! Tâtons en ; boutons-nous-y.
+Jarnigoi ! Queux plaisir ! Comme j'enfonce!
+Mais si quelqu'un....
+Il faut qu'il n'y ait pas de femmes dans la maison, ou qu'elles dorment, car je n'entends pas parler.
+Pour les Messieurs Laquais, je n'en suis pas embarrassé. Ces grands drôles-là, plus fainéants que leur maître, sont encore étendus comme des vieux dans leur lit, tandis que nous autres, pauvres gens de métier, qui valons mieux qu'eux mille fois, nous nous tuons le corps et l'âme à travailler, pour ne pas gagner la moitié tant, encore!
+C'est peut-être pour ça que je suis si laid. J'ai beau me revirer de toutes les manières, c'est la même chose, d'un côte comme de l'autre, et par derrière comme par devant, pardi ! Qui est-ce qui m'empêche de me débarbouiller un petit brin, et de m'essuyer ensuite avec cette serviette, sans que ça paraisse ?
+Miséricorde ! Que vois je là ? Oh ! Vraiment, c'est encore bien plus beau ! Queux panache ! Que d'or et que d'argenterie ! Eh ! Mais voilà qui est du magnifique ! Comme ça doit bien faire sur un homme !
+On l'aurait taillé tout exprès pour ma personne, que ça ne m'irait pas mieux !
+Bon ! Il n'y a pas un chat. Tout ça vous dort comme des taupes, et vous ronfle comme des chanoines.
+Ce que c'est d'être Prince ! C'est que comme ça j'en ai quasiment la mine. Pardi ! Je veux l'avoir une bonne fois dans ma vie, depuis les pieds jusqu'à la tête... J'en ai l'occasion. Saisissons la. Va. Comme il est dit. Arrive qui plante... Je ne serai pas pendu pour ça, peut être ?... Peut-être bien aussi que pour une volée de coups de bâton j'en serai quitte. Eh bien ! On n'en meurt pas. Il faut voir.
+On n'en aurait pris la mesure sur moi, que ça ne serait pas pis. Ça me va comme un charme ! Oh ! Je vais être à croquer. Je dois être bien gentil comme ça.
+Je défie au patron d'avoir une meilleure mine que moi. On dirait que je n'ai pas fait d'autre métier que celui de Prince toute ma vie... Mais qu'est ce ? Une porte ouverte ici ? Voyons un peu ce que c'est là dedans. Voyons. Pour ce qu'il m'en coûte, vaut autant ne se pas gêner.
+
+Quelle peur j'ai eu ! Heureusement qu'il ne m'a point vu ! Quel diable d'homme ça peut-il être ?
+
+Je serais tenté de croire que c'est le Prince lui-même, car on dit comme ça que ses gens là sont toujours tristes.
+
+Ah ! C'est lui. S'il allait au moins saire ses réflexions plus loin!
+
+Et moi aussi.
+
+Qu'ai-je dit ? C'est le Bourgeois. Gare à moi s'il entre ici. On le dit pourtant assez bon diable.
+
+Apparemment qu'il regarde cette trouvaille comme une bonne fortune.
+
+Il est sorcier.
+
+Je suis curieux de voir ce qu'il va faire.
+
+Est-ce qu'il y pense, donc ? S'il allait gâter mes habits?..
+
+Je le crois bien.
+
+Ciel ! Avec mes habits! S'il vouloit troquer, passe!
+
+Il le sait comme il le dit.
+
+Autant m'en pend à l'oreille.
+
+Et sans lui aussi, peut-être !
+
+Traiter ainsi une Altesse !
+
+Il y a gros à parier qu'il est aussi embarrassé que moi.
+
+Le voilà parti ! Et moi bien propre ! Mais quitte à m'enfuir en chemise, déshabillons-nous et partons ; car déguerpir dans cet attirail-là, on ne badinerait pas. Diable ! Arrêté comme voleur ! Je ferais un joli garçon, moi !
+
+Gare à nous. C'est l'homme à la trique.
+
+Rengorgeons-nous. Il me prend pour son maître ; cela paraît naturel, il vient de prendre son maître pour moi.
+
+Ah ! Ah ! Ah ! La bonne farce ! Ah ! Ah ! Ah ! Je respire. L'excellent porte-respect, qu'un riche habit ! Heureux ceux qui ont le moyen de s'en procurer. Mais puisqu'on s'est mépris à mon ajustement, courage ! Courage ! Le Prince n'est pas prêt à revenir, tenons sa place encore un moment ; ne nous déconcertons pas ; quarrons-nous. Par ce qui m'arrive, je vois que, pour réussir, il ne Faut, bien souvent, que de l'effronterie, bien ! S'il ne tient qu'à cela, nous en aurons, ça ne coûte rien, c'est si commun ! Mais commençons d'abord par tirer ces rideaux, et cela pour raison.
+
+Le chocolat de Monseigneur, l'excellent début ! Oui, pourvu que la fin y réponde. Parlons en Prince, de peur que ma voix n'évente la mèche.
+
+Il est encore là ; qu'il y reste.
+Comme cela sent bon : le boirai-je-ti, ou ne le boirai-je-ti pas ? Je serais bien fou de m'en faire faute. Un aussi grand Seigneur que le Prince d'Oresca, n'est pardi pas à une tasse de chocolat près. Ah ça ! Mais cependant cet autre me regarde, faisons-le partir.
+
+Ces grands gueux-là n'observent tous les gestes de leurs maîtres que pour se moquer d'eux. Mais dépêchons.
+Miam ! Miam ! Miam ! La bonne chose, que du bon chocolat, avec de bonnes tartines rôties ! Il ne me manquerait plus qu'une tranche de jambon et une bouteille de vin à quinze pour que le déjeuner fût digne d'un Roi. Pendant que j'expédie ainsi celui du Prince, il serait plaisant que quelqu'un l'obligeât à se servir de la gratoire qu'il m'a emportée. Ah ! Ah ! Ah ! Tiens ! Qu'est-ce qu'on veux donc que je sasse de ce verre ?
+Pouah ! Pouah ! C'est de l'eau. Passe encore si c'était de l'eau-de-vie.
+
+Voilà des visites, à présent.
+
+Que va-t-il me conter là ?
+
+Laquelle n'est, je crois, que ce que tant d'autres font.
+
+On n'en donnerAit pas tant à une honnête femme.
+
+Ça sent encore meilleur que le chocolat.
+
+J'y suis. C'est le porte-esprit de Monseigneur.
+
+Il faut empêcher ça. Deux cents piastres à une créature ! Soyez donc honnêtes, Mesdames.
+
+M'en voilà quitte ! Comme c'est commode, un geste ! Ça vous empêche de dire des sottises, du moins ! Combien n'y a-t-il pas d'honnêtes gens qui ne devraient plus que gesticuler ! Les honnêtes femmes n'en seraient pas fâchées : elles n'en jaseraient que davantage.
+
+Maudite soit la Principauté ! Vous allez voir qu'il faudra que je donne comme ça audience à toute la Ville.
+
+Je vois ce dont il retourne : c'est sa Maîtresse qui lui envoie chercher l'argent.
+
+Un dentiste... Diable ! Ce n'est pas là mon compte.
+
+Le friand morceau ! Comme je vous croquerais ça, moi !
+
+En ma qualité de Prince, j'ai quelques droits là-dessus, j'espère.
+Oui, mais si le véritable privilégié allait venir, je serais dans de beaux draps.
+
+Qu'elle ne voie pas ma figure, sans quoi ma Principauté est à tous les diables.
+
+Oh ! Comme ça... Laissez-vous honorer.
+
+Oui, oui.
+
+Si, si.
+
+Oh ! Oh !
+
+Eh ! Eh ! Ce n'est rien, et chez un grand Seigneur encore !
+
+Ah ! Ah!
+
+Hum ! Hum !
+
+Hem ! Hem !
+
+Si, si.
+
+Je le crois bien.
+
+Oui, oui, si, si ! Ah ! Ah ! Oh ! Oh ! Eh ! Eh ! Hum ! Hum ! Hem ! Hem ! Les belles réponses que je lui ai faites là ! Mais sans attendre qu'elle revienne...
+
+Ça ne sera jamais fini.
+
+S'il a aussi bien choisi son temps pour le donner, il ne risque rien.
+
+Nous pouvons nous donner la main.
+
+Ceci est un cas différent ! Il me vient une idée. Morbleu, elle est bonne ; et le Prince à coup-sûr, en serait autant s'il était à ma place.
+Ce pauvre honnête homme attend, mieux vaut qu'il ait cet argent qu'une coquine qui n'en a déjà que trop.
+
+Mon mal de dents ! Ah ! Ah ! Arrive ce qui pourra. Je ne me repends pas de ce que je viens de faire. Mais après avoir tiré cet homme d'embarras, pensons à nous, et détalons vite, vite, pendant que je suis seul. Qu'est-ce ? On vient encore !... C'est de ce côte-là ! Eh ! Mon Dieu, Je suis perdu ! C'est par où le Prince s'est en allé, et ce ne peut être que lui ; miséricorde ! Que devenir ! Que faire ! Où me cacher ! Où ? Eh ! Parbleu, sous cette table. Quand tout le monde sera parti, je profiterai de la belle pour reprendre mes habits, si le Prince les remet où je les avais laissé.
+
+Me voilà bien avancé.
+
+Il est sorcier.
+
+Il ne soupçonne pas qu'il parlé au Commissionnaire.
+
+C'est commode.
+
+Messieurs, allez donc jouer chez ces dames.
+
+Quelle tendresse !
+
+Il l'est.
+
+Ahi ! ahi !
+
+Voilà le mystère.
+
+Nouvel embargo.
+
+Cela serait plaisant.
+
+Pas si fou.
+
+Je gage qu'il vient lui arracher la dent qui me faisait mal.
+
+Sans se vanter.
+
+Il lui arrachera une dent.
+
+Il en a bien besoin.
+
+Encore une autre !
+
+Ouf !
+
+Miséricorde ! C'en est, fait de moi!
+
+Un malheureux, Monseigneur, qui réclame à deux genoux votre indulgence. Tout un chacun dit comme ça que vous êtes si bon Prince.
+
+De dessous cette table, Monseigneur.
+
+Monseigneur, ce n'est par aucun hasard, mais bien par cette cheminée que voilà, et que, sans le respect que je dois à la compagnie, j'ai eu l'honneur de ramoner ce matin.
+
+Hélas ! Oui, Monseigneur. C'est un maudit moment de curiosité qui m'a perdu. Mais qui n'en a pas dans la vie de ce monde ! J'ai vu tant, tant, tant de belles choses, que je n'ai pu m'empêcher d'y mettre la main. Foi d'honnête homme, Monseigneur, ce n'était pas pour vous faire du tort. Chez les grands Seigneurs il y a déjà tant de gens qui s'en acquittent si bien, et vous le savez à présent.... C'était tant seulement pour voir comment ça ferait. Or, une fois emberlificoté de la sorte, il ne m'a plus été possible, Monseigneur, de me désemberlificoter, parce qu'ils venaient tous à la queue les uns des autres, ni plus ni moins qu'un troupeau de bêtes à cornes, Monseigneur, et ces beaux habits qui sont les vôtres....
+
+Ah ! Monseigneur...
+
+C'était un des profits de mon rôle.
+
+Si c'est votre Seigneurie qui l'a fait, je l'en félicite. Je n'en ai jamais pris de meilleur. C'est la première fois.
+
 Car vous voyez qu'en pensant parler à son valet, on se trouve avoir affaire à son Maître.
 
--*who_leprince
-Et toi, mon ami, vends à ton profit les habits que tu portes, et compte que j'aurai soin de toi.
-Je te rends les tiens, qui m'ont valu une des plus douces jouissances.
-Les voilà ; ce sont ceux d'un honnête homme.
-
--*who_barogo
 Qui est d'autant plus heureux, Monseigneur, que vous lui pardonnez d'avoir pu passer pour vous.
 
--*who_leprince
-Moi-même j'ai bien pu passer pour toi.
-
--*who_barogo
 Cela est vrai; mais, Monseigneur, malheureusement l'habit ne fait pas l'homme.
 Messieurs, j'ai fait une bonne journée, pour un ramoneur ; mais elle serait pour moi celle d'un Prince, si vos bontés daignent la couronner.
+

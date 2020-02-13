@@ -1,499 +1,14 @@
 
 
-**** *book_ *id_I01 *act_I *date_1777
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philemon
 
--*who_durand
-Des fils de la maison j'ai cultivé l'enfance.
-Ergo, mes doctes soins méritent récompense.
-J'ai ma pension là ; si je puis la tenir,
-Bien adroit qui pourra m'en faire dessaisir.
-
-**** *book_ *id_I02 *act_I *date_1777
-
--*who_clermon
-Laissez-là cette malle, et voilà de quoi boire.
-Hola, quelqu'un.
-
--*who_durand
-      Que veut cet homme ?
-
--*who_clermon
-      Puis-je croire...
-Que ce soit là...
-
--*who_durand
-      C'est lui... Clermon...
-
--*who_clermon
-      Monsieur Durand.
-Je ne me trompe point.
-
--*who_durand
-      Que te voilà brillant !
-
--*who_clermon
-Quel bonheur !
-
--*who_durand
-      Quel plaisir !
-
--*who_clermon
-      Quoi ! Vous pleurez, je pense ?
-Ah, de grâce ! Faisons notre reconnaissance
-Un peu moins tristement.
-
--*who_durand
-      Je suis au désespoir
-D'étaler devant toi cet habit jadis noir.
-Du mérite en ces lieux c'est la triste livrée.
-
--*who_clermon
-Le mérite est bien sec !
-
--*who_durand
-      J'en ai l'âme navrée !
-
--*who_clermon
-Qu'avez-vous fait, depuis qu'un bâton à la main,
-Vous gagnâtes Paris, fier de votre latin ?
-
--*who_durand
-J'ai formé des sujets, des citoyens, des hommes !
-
--*who_clermon
-Le précieux talent dans le siècle où nous sommes !
-
--*who_durand
-J'ai professé vingt ans l'emploi d'Instituteur...
-
--*who_clermon
-Eh ?...
-
--*who_durand
-      Ce que le vulgaire appelle Précepteur.
-
--*who_clermon
-J'entends présentement.
-
--*who_durand
-      Le métier détestable !
-Père, mère, enfants, tous m'ont fait donner au Diable.
-Pour prix de ma doctrine et des soins que j'ai pris,
-On me refuse encor ce que l'on m'a promis.
-
--*who_clermon
-Qu'est-ce ?
-
--*who_durand
-      Une pension de quatre-vingt pistoles.
-Pour mes bons documents je n'ai pas deux oboles.
-Est-ce l'or avec moi qu'on devrait épargner ?
-
--*who_clermon
-La maison n'est pas riche.
-
--*who_durand
-      Il faudrait se saigner !
-Mais le père songeant à dormir, manger, boire,
-Borne-là d'un mortel le travail et la gloire,
-Chérit sa nullité. Madame Florimon,
-Au contraire, voudrait régner dans la maison.
-Pour acquérir le droit de beaucoup parler d'elle,
-La bavarde, futile avec le plus grand zèle,
-Veut paraître tout faire, et ne fait jamais rien.
-Quand je peins mes besoins, elle me répond : Bien.
-J'arrangerai cela,
-
--*who_clermon
-      Les deux fils ?
-
--*who_durand
-      Ah ! Leur père
-Tous les deux au hasard les jeta sur la terre ;
-Moi, leur communiquant mon savoir lumineux,
-Je les ai de la Terre élevés jusqu'aux Cieux.
-Temps perdu ! Le cadet, depuis peu militaire,
-M'offre son bras, son sang, dont je n'ai point à faire ;
-Ou bien jure par Mars de me récompenser
-Sitôt qu'un coup d'éclat l'aura fait avancer.
-Le bel espoir !
-
--*who_clermon
-      L'aîné pourrait...
-
--*who_durand
-      Il est bien pire !
-Je le crois égoïste.
-
--*who_clermon
-      Oh, Diable ! Que veut dire
-Ce mot ? Il m'est nouveau.
-
--*who_durand
-      Nous autres gens lettrés,
-Nous appelons ainsi ces êtres concentrés,
-Qui ne voyant qu'eux seuls dans la nature entière,
-À leur propre intérêt sacrifieraient leur père,
-Leurs enfants, leurs amis, leur patrie et l'honneur...
-
--*who_clermon
-Le nom me déroutait. Mais quoi ! Vous, le faiseur
-D'Hommes, de Citoyens, comment peut-il se faire
-Que jugeant votre élève avec un oeil sévère,
-Vous n'ayez pas détruit ce vice dominant,
-Ou du moins arrêté ses progrès ?
-
--*who_durand
-      Ah ! Vraiment !
-Tu parles à ton aise. Est-ce que l'on corrige
-Un aîné de famille ? Est-ce que l'on exige
-De lui que ce qu'il veut ? Comme il vous haïrait !
-Avec le temps encor sa haine s'accroîtrait,
-Et puis, comptez sur lui pour une récompense.
-
--*who_clermon
-Vos droits sont, en effet, mieux fondés qu'on ne pense.
-
--*who_durand
-Sans doute !
-
--*who_clermon
-      Sûrement ! Monsieur le Précepteur...
-Je me trompe, excusez ! Monsieur l'Instituteur
-A fait, par égoïsme, un parfait égoïste ;
-Sur une pension, tout comme vous, j'insiste :
-Je vois que votre élève et la société
-Vous doivent beaucoup, mais beaucoup, en vérité !
-
--*who_durand
-Je ne suis pas bien sûr qu'il ait ce caractère.
-
--*who_clermon
-On connaît son élève au moins pour l'ordinaire.
-
--*who_durand
-Depuis près de vingt ans je l'étudie en vain :
-Son coeur est une énigme et j'y perds mon latin.
-Cent fois j'ai cru le voir rempli de bienfaisance,
-Et cent fois pour autrui pétri d'indifférence,
-N'aimer que sa personne.
-
--*who_clermon
-      Alors il serait mal.
-Mon Maître, de ce vice ennemi capital,
-À faire des heureux goûte un plaisir extrême,
-Et vit pour ses amis, bien plus que pour lui-même.
-
--*who_durand
-Comment appelles-tu cet honnête Patron ?
-
--*who_clermon
-C'est Monsieur Polidor, frère de Florimon.
-Il arrive ce soir.
-
--*who_durand
-      Le sublime mérité,
-S'il me pensionnait ! Attends, je vais bien vite
-L'annoncer.
-
--*who_clermon
-      Vous ayez toujours dans la maison
-Deux étrangères ?
-
--*who_durand
-      Oui, Constance, avec Marton.
-
--*who_clermon
-Notre retour ici va leur réjouir l'âme.
-
--*who_durand
-Je peux les en instruire en allant chez Madame.
-
-**** *book_ *id_I03 *act_I *date_1777
-
--*who_clermon
-Quand mon maître, en dépit d'un noble parchemin,
-Tenta dans le commerce un plus riche destin ;
-Ses parents indignés, criant à l'infamie,
-Ne voulaient plus le voir, lui parler de la vie.
-Tout a changé de face : il est riche, ils sont gueux ;
-En lui faisant la cour, ils se croiront heureux.
-L'intérêt ! L'intérêt !
-
-**** *book_ *id_I04 *act_I *date_1777
-
--*who_marton
-      Eh, Clermon !
-
--*who_clermon
-      Qui m'appelle ?
-
--*who_marton
-Clermon, mon cher Clermon !
-
--*who_clermon
-      C'est une voix femelle.
-Elle va plus au coeur que celle du Pédant.
-
--*who_marton
-Comment te portes-tu ?
-
--*who_clermon
-      Toi-même, mon enfant ?
-Aimes-tu ce pays mieux que le nouveau Monde ?
-Y veux-tu retourner ?
-
--*who_marton
-      La mer est trop profonde !
-Et si je me rembarque !... On est sot, sur ma foi,
-Quand on n'a qu'une planche entre la mort et soi.
-
--*who_clermon
-Que fait Constance ?
-
--*who_marton
-      Elle est inquiète, rêveuse.
-
--*who_clermon
-Réfléchis, tu verras qu'elle n'est pas heureuse.
-Son père et Polidor, dans le lointain pays,
-Se virent autrefois devinrent bons amis ;
-L'intimité s'accrut. - Vous connaissez ma fille,
-Dit ton Maître. Le mien répond : elle est gentille :
-Vous savez qu'à Paris j'ai laissé deux neveux.
-Partez, allez les voir, et faites un heureux.
-J'aurai soin de vos biens. Ton Maître avec sa fille
-Part bientôt pour chercher sa nouvelle famille ;
-Tu les suis, on arrive, on n'a plus qu'à choisir,
-Quand l'honnête étranger soudain vient à mourir,
-Et retarde par-là les noces de Constance.
-Voilà de son chagrin deux bons motifs, je pense.
-Mais Polidor bientôt va réparer cela.
-Dis : entre ses neveux a-t-on choisi déjà ?
-
--*who_marton
-Nous soupirons beaucoup.
-
--*who_clermon
-      Lequel des deux sait plaire ?
-
--*who_marton
-Je l'ignore, et voilà ce qui me désespère ;
-J'ai, pour le découvrir, tout tenté vainement.
-
--*who_clermon
-Toi, fille et curieuse ! Oh ! Le trait est piquant.
-
--*who_marton
-J'en suis inconsolable ! Encor jeune, innocente,
-Elle voudrait cacher sa tendresse naissante.
-La fierté de son sexe et les efforts d'un coeur,
-Qui n'ose s'avouer à lui-même un vainqueur,
-L'emportent jusqu'ici sur sa timide flamme ;
-Mais l'amour par degrés maîtrisera son âme,
-Et saura la contraindre à dire son secret.
-L'amour, Français surtout, n'est pas longtemps discret.
-Aide-moi cependant à percer ce mystère.
-L'ainé semble rêver à la plus grande affaire,
-Près de Constance...
-
--*who_clermon
-      Il plaît. Juge par toi d'autrui ;
-Le sexe aime qu'on soit tout occupé de lui.
-
--*who_marton
-Il calcule, je crois, les biens de ma maîtresse.
-
--*who_clermon
-Il pourra se tromper s'il croit à sa richesse.
-Mais, chut !
-
--*who_marton
-      Le Chevalier timide, circonspect,
-N'ose employer encor que la voix du respect ;
-Mais il a le regard si plein de feu, si tendre,
-Que malgré son silence il se fait bien entendre.
-
--*who_clermon
-Écoute... Celui-ci pourrait plaire...
-
--*who_marton
-      Fort bien !
-Lequel des deux enfin ?
-
--*who_clermon
-      Ma foi, je n'en sais rien.
-
--*who_marton
-Me voilà bien instruite !
-
--*who_clermon
-      À qui faut-il s'en prendre ?
-Que n'avez-vous un coeur que l'on puisse comprendre ?
-
--*who_marton
-Clermon, je voudrais bien qu'elle aimât le dernier !
-
--*who_clermon
-Regarde-moi.
-
--*who_marton
-      Pourquoi ?
-
--*who_clermon
-      J'oserois parier...
-
--*who_marton
-Quoi ?
-
--*who_clermon
-      Qu'étant généreux beaucoup plus que son frère ;
-Tu comptes tes profits à venir. Sois sincère.
-
--*who_marton
-Ah ! Quel affront !
-
--*who_clermon
-      Pardon. Au revoir, mon enfant.
-Mon MaÏtre est près de Sceaux, chez son correspondant ;
-Il m'attendrait peut-être. Il faut que je te quitte
-Pour monter en voiture, et le rejoindre vite.
-
--*who_marton
-En voiture ! Est-ce donc l'allure d'un courrier ?
-
--*who_clermon
-Jadis Valet, je suis Intendant et Caissier.
-Polidor est si bon que d'honneur je me pique,
-Et veux seul composer son train, son domestique.
-
--*who_marton
-Ah ! voilà d'un beau zèle un trait bien singulier.
-Regarde-moi.
-
--*who_clermon
-      Pourquoi ?
-
--*who_marton
-      J'oserois parier
-Que cet arrangement arrange tes affaires...
-
--*who_clermon
-Ah ! Quel affront !
-
--*who_marton
-      Pardon : mais tiens, soyons sincères ;
-Étant seul, à toi seul appartient le profit.
-
--*who_clermon
-Tu me rends mon paquet, friponne, avec esprit.
-
--*who_marton
-Je suis reconnaissante. Adieu, je vais tout faire
-Pour seconder l'amour de notre militaire.
-
--*who_clermon
-Moi, pour que Polidor, en arrivant céans,
-Ne soit pas dépouillé par d'adroits Charlatans...
-Son unique défaut... tu le connais.
-
--*who_marton
-      Sans doute.
-
--*who_clermon
-Parle-bas, mais bien bas ; je crains qu'on ne t'écoute.
-
--*who_marton
-Le grand mal ! Si soudain il se met en courroux,
-Il revient à l'instant sensible, affable et doux.
-
--*who_clermon
-Dis qu'il est trop facile, et c'est ce qui me blesse !
-Le seul mot de vertu le jette dans l'ivresse.
-Et le monde, dit-on, sous un dehors brillant,
-Cache maint imposteur, maint tartuffe charmant,
-Qui, suivant l'air, le ton que l'intérêt demande,
-Se donne tour-à-tour dix vertus de commande.
-
--*who_marton
-Je crains bien d'en connaître !
-
--*who_clermon
-      Adieu, je vois Durand.
-Il vient de me glisser quelques mots en passant
-Qui pourraient bien changer ta crainte en certitude :
-À le faire expliquer je mettrai mon étude.
-
-**** *book_ *id_I05 *act_I *date_1777
-
--*who_clermon
-EH bien !
-
--*who_durand
-      Pour recevoir dignement ton patron,
-Madame a plusieurs fois renversé la maison
-Sans rien faire. Elle va, revient, se cite, ordonne,
-Et veut absolument parler à ta personne.
-
--*who_clermon
-J'y cours.
-
--*who_durand
-      Pour obtenir ma chère pension,
-Cherchons quelque moyen. Je t'en conjure.
-
--*who_clermon
-      Bon.
-Si vous me dévoiliez... là...
-
--*who_durand
-      Quoi ?
-
--*who_clermon
-      Le caractère
-De Philemon ; peut-être...
-
--*who_durand
-      Eh ! Que pourrais-tu faire ?
-Je saurai l'observer, il en est temps encor.
-
--*who_clermon
-Je le démasquerais aux yeux de Polidor,
-Qui vous saurait bon gré de votre confidence.
-
--*who_durand
-Optimé ! J'entrevois un rayon d'espérance.
-Sors, voici Philemon ; je m'en vais l'éprouver ;
-S'il est ce que je crois, j'irai te retrouver ;
-Je saurai trait pour trait te le faire connaître,
-Et tu pourras... charger le portrait à ton Maître ?
-
-**** *book_ *id_I06 *act_I *date_1777
-
--*who_durand
-Je suis presque certain qu'il ne vit que pour lui.
-J'en serai convaincu pleinement aujourd'hui,
-S'il ne s'empresse pas à me rendre service :
-Et dévoilant son coeur, je m'en ferai justice.
-
-**** *book_ *id_I07 *act_I *date_1777
-
--*who_philemon
 S'il pouvait dans l'État se faire un changement,
 Qui brouillât un peu tout ; qui, par événement,
 Dans le monde, à la fin, me fit jouer un rôle...
 Je songerais à moi, j'en donne ma parole.
 
--*who_durand
-Monsieur...
-
--*who_philemon
       Et je saurais me montrer au besoin...
 
--*who_durand
-Preuve démonstrative ! Il m'évite avec soin.
-
--*who_philemon
 Si, pour mon intérêt, affectant la sagesse ;
 Je feins de dédaigner le crédit, la richesse ;
 Sous ces dehors trompeurs, mon coeur ne jouit pas.
@@ -504,76 +19,32 @@ Contre des gens à tort élevés jusqu'aux Cieux :
 La célébrité sert nombre d'audacieux...
 Mais elle a ses dangers... J'ai quelque inquiétude.
 
--*who_durand
-De se parler tout seul il a pris l'habitude,
-Tel est l'homme occupé de son seul intérêt,
-Et qui n'ose à personne avouer son secret.
-Conviction totale.
-
--*who_philemon
       Ah ! Quel heureux partage !
 Si du succès pour moi réservant l'avantage,
 Je trouvais un ami complaisant ou léger,
 Qui voulût sur lui seul prendre tout le danger.
 
--*who_durand
-Il faut que mon mérite obtienne son salaire.
-
--*who_philemon
 Paix ! Je suis occupé d'une importante affaire.
 
--*who_durand
-C'en est trop ! On ne veut m'entendre ni me voir :
-C'est pour ne pas payer mes veilles, mon savoir ;
-Il est égoïste, ... Oui ! Je puis, sans plus attendre,
-L'assurer à Clermon. Ah ! Je vais vous apprendre...
-
-**** *book_ *id_I08 *act_I *date_1777
-
--*who_philemon
 Mon Livre trop hardi languit chez l'imprimeur.
 Si j'engageais Durand à s'en dire l'auteur !...
 Le pédant qui compile et compile sans cesse,
 N'a jamais fait gémir le lecteur ni la presse.
 Il peut...
 
-**** *book_ *id_I09 *act_I *date_1777
-
--*who_lapierre
-      Monsieur voit-il du monde ?
-
--*who_philemon
       Il le faut bien ;
 Mais n'ouvrez plus aux gens qui ne sont bons à rien.
 
--*who_lapierre
-D'après cet ordre-là j'aurai bien moins faire.
-Je suis portier, de plus lecteur de votre père.
-Chacun de ces emplois est assez fatiguant.
-
--*who_philemon
 Ma liste ?
 
--*who_lapierre
-      La voilà.
-
--*who_philemon
       Que j'indique en lisant
 Les hommes bons à voir.
 
--*who_lapierre
-      Bien ! Ordonnez...
-
--*who_philemon
       «CLITANDRE.»
 Cet homme a des talents, des vertus à revendre ;
 Mais il fait mal sa cour, il n'a plus de crédit.
 Je n'y suis plus pour lui, pour Clitandre.
 
--*who_lapierre
-      Suffit.
-
--*who_philemon
 «DORLIX»... Il est fin, souple, il ira loin, je gage ;
 Je recevrai Dorlix, «LE COMTE DU RIVAGE».
 J'aime à trouver l'utile, et me ris du clinquant.
@@ -593,99 +64,40 @@ J'espérais pouvoir mettre à profit ses faux pas...
 Évitons tout reproche en ne le voyant pas.
 Vous lui refuserez ma porte.
 
--*who_lapierre
-      Quel dommage !
-C'est le plus honnête homme ; il est si bon ! J'enrage.
-
--*who_philemon
 Qu'est-ce ? vous murmurez.
 
--*who_lapierre
-      Mais...
-
--*who_philemon
       Quoi ?
 
--*who_lapierre
-      De temps en temps
-De lui je recevais...
-
--*who_philemon
       Fort bien !... Je vous entends.
 Les voilà, les humains ; l'intérêt seul décide
 Leur mépris, leur estime, ils n'ont pas d'autre guide.
 
--*who_lapierre
-Voilà tous mes profits au Diable... Ah ! si je peux
-Plaire à l'oncle...
-
--*who_philemon
       Eh ?
 
--*who_lapierre
-      Je dis que je suis fort joyeux.
-De savoir que votre oncle arrive.
-
--*who_philemon
       Peu m'importe
 Son retour, son absence.
 
--*who_lapierre
-      Ah ! Monsieur, il apporte
-Des trésors.
-
--*who_philemon
       Des trésors ! Le cas est différent.
 Voyons. Fausse nouvelle indubitablement,
 Bruit en l'air.
 
--*who_lapierre
-      Non, Monsieur, la nouvelle est très sûre.
-Si son caissier n'eut pas contrefait l'écriture
-De ses correspondants ; si par-là le fripon
-N'avait su lui voler plus d'un bon million,
-Il serait de retour depuis deux mois en France.
-Enfin telle qu'elle est, sa fortune est immense.
-
--*who_philemon
 Ce cher oncle, on le dit l'homme le plus charmant !
 La Pierre, on le croit donc bien riche.
 
--*who_lapierre
-Extrêmement.
-
--*who_philemon
       Je pourrai l'embrasser. Oh, Dieux ! Quelle allégresse !
 Riche extrêmement ?
 
--*who_lapierre
-      Oui.
-
--*who_philemon
       Mon âme est dans l'ivresse.
 J'étais bien jeune encor, quand mon oncle partit ;
 Cependant mon amour... mon coeur... Qui vous a dit
 Ce que vous m'apprenez ?
 
--*who_lapierre
-      Un fort bon domestique
-Très zélé pour votre oncle, et son valet unique :
-Il vient pour l'annoncer.
-
--*who_philemon
       Cherchez-le de ma part ;
 Dites-lui que je veux lui parler à l'écart.
 Allez vite, surtout, je ne vois plus personne !
 
--*who_lapierre
-Vos amis ?
-
--*who_philemon
       Des Amis ! Faites ce que j'ordonne.
 
-**** *book_ *id_I10 *act_I *date_1777
-
--*who_philemon
 Oui, mon cher oncle est riche ! Il change mes projets...
 Pour lui faire ma cour avec quelque succès,
 Étudions d'abord son coeur, son caractère.
@@ -697,327 +109,6 @@ De l'aigle ou du lion la force et le courage,
 Serpent adroit et souple, il faut se replier,
 Et savoir sous les fleurs se frayer un sentier.
 
-**** *book_ *id_II01 *act_II *date_1777
-
--*who_florimon
-Eh, la Pierre.
-
--*who_lapierre
-      Monsieur ?
-
--*who_florimon
-      Viens, suis moi, mon enfant.
-Ma femme fait un bruit dans l'autre appartement !...
-Je n'y pourrais jamais digérer qu'avec peine,
-Et je crois même avoir tant soit peu de migraine.
-Il me tarde de voir mon frère de retour...
-Pour qu'il fasse bâtir dans le fond de la Cour
-Un réduit où je puisse, en plein jour, sur ma chaise,
-Et la nuit, dans mon lit, reposer à mon aise.
-Eh, La Pierre.
-
--*who_lapierre
-      Monsieur ?
-
--*who_florimon
-      Mon livre favori,
-Tu l'a pris avec toi, sans doute ?
-
--*who_lapierre
-      Le voici,
-Et bien enveloppé.
-
--*who_florimon
-      Quel excellent ouvrage !
-L'Auteur est sûrement un philosophe, un sage ;
-Ami vrai des humains, loin de les régenter,
-D'exagérer leurs maux, ou de leur insulter,
-Il les console. Lis.
-
--*who_lapierre
-      Hem... « Troisième Chapitre ».
-
--*who_florimon
-Non, recommence tout ; relis jusques au titre.
-Quel titre ! On ne saurait l'entendre assez souvent ;
-Il chatouille le coeur trop agréablement.
-
--*who_lapierre
-« L'ALMANACH DES CENTENAIRES ».
-
--*who_florimon
-On devrait bien orner ce bon livre d'estampes.
-De vignettes, d'amours, de jolis culs-de-lampes.
-
--*who_lapierre
-« Quelques Soldats sont morts à Rome, à la cent vingtiéme année de leur âge. »
-
--*who_florimon
-Les gaillards ! Cent vingt ans ! Donc à ce compte-là
-J'ai cinquante ans à vivre, et peut-être au-delà.
-Je ne suis qu'un enfant.
-
--*who_lapierre
-« L'Univers vient de perdre le célèbre Charitides, âgé de cent trois ans : il est mort de fatigue, en composant son Dictionnaire des Dictionnaires. »
-
--*who_florimon
-      Quand je perdrai la vie,
-Ce ne sera jamais pour pareille folie.
-Ma paresse elle-même en sera caution.
-À cent ans bien sonnés... À l'âge de raison...
-Peut-on rêver encore au Temple de Mémoire,
-Ne point apprécier tout fantôme de gloire,
-Et ne préférer pas quatre digestions
-Faites tranquillement, au plus fameux des noms !
-
-**** *book_ *id_II02 *act_II *date_1777
-
--*who_florimon
-Quoi ! Des fâcheux ici je ne serai point quitte !
-Dans ma chambre à coucher renfermons-nous bien vite.
-Oui, oui... Serviteur. Viens,
-
-**** *book_ *id_II03 *act_II *date_1777
-
--*who_marton
-      Elle ne me dit rien...
-Ah !
-
--*who_constance
-      Tu soupires ?
-
--*who_marton
-      Oui ; pour nouer l'entretien,
-Mon Maître vous a dit à son heure dernière
-Qu'en ces lieux Polidor vous tiendrait lieu de père.
-Il arrive aujourd'hui : nous saurons...
-
--*who_constance
-      Ah, Marton !
-
--*who_marton
-Courage ; quatre mots encore sur ce ton,
-Je suis au fait. Allons.
-
--*who_constance
-      Gardes-toi de surprendre
-Un secret...
-
--*who_marton
-      Je le sais, vous avez le coeur tendre...
-
--*who_constance
-Dieux ! Parles bas.
-
--*who_marton
-      Pourquoi ? Quand j'aime de bon coeur
-Sans façon je l'avoue, et je m'en fais honneur.
-
--*who_constance
-Tu plaisantes.
-
--*who_marton
-      Ma foi, non : plus d'enfantillage.
-Ouvrez-moi votre coeur... Parlez... Cela soulage.
-
--*who_constance
-Ah, je le sens !
-
--*who_marton
-      Tant mieux. Aimez vous Philémon ?
-Votre oeil se rembrunit ; j'y vois le dédain... Bon !
-Quant au beau Chevalier ; oh ! C'est une autre affaire !
-Convenez, entre-nous, qu'il est formé pour plaire.
-Vous souriez ; bon signe. Il est intéressant :
-Tout annonce chez lui le plus sincère amant.
-
--*who_constance
-J'ignore si, pour lui, ma tendresse est extrême ;
-Mais je sais qu'il m'est cher beaucoup plus que moi-même.
-Ces grands mots : flamme, amour, qui, dans tous nos romans.
-Me paraissaient si bien rendre les sentiments ;
-Comme ils me semblent froids ! À te parler sans feindre,
-Ce que je sens, Marton, ils ne sauraient le peindre.
-Le Chevalier me charme, et pourtant je le crains...
-Plus que lui je ressens ses plaisirs, ses chagrins...
-On dirait, tant mon âme à la sienne est unie,
-Que nous n'en avons qu'une, et qu'une même vie.
-
--*who_marton
-L'amant fait-il ?...
-
--*who_constance
-      Ô Ciel !
-
--*who_marton
-      Qu'a donc cela d'affreux ?
-Polidor vous destine à l'un de ses neveux.
-
--*who_constance
-À l'hymen d'un aîné, selon tout apparence,
-On songera d'abord.
-
--*who_marton
-      Rompez donc le silence.
-
--*who_constance
-Moi, que j'ose avouer un dangereux penchant !...
-Non, jamais.
-
--*who_marton
-      Cet orgueil me paraît trop plaisant :
-Il s'apprivoisera.
-
--*who_constance
-      Marton.
-
--*who_marton
-      Oui, c'est l'usage :
-Mon Dieu, ne sais-je pas comme on est à votre âge !
-Notre coeur quelque temps écoute tour à tour
-Les conseils de l'honneur et la loi de l'amour ;
-Mais leur débat ne peut durer toute la vie,
-Et vient l'heureux moment qui les réconcilie.
-
--*who_constance
-Oh, finissez !
-      Quel ton !
-      Bon, voici mon vengeur.
-
--*who_constance
-Marton, le Chevalier !
-
--*who_marton
-      Eh bien, vous fait-il peur ?
-
--*who_constance
-Il vient dans ce salon, prenons vite la fuite.
-
--*who_marton
-Pourquoi donc, s'il vous plaît, une telle conduite ?
-Ah, j'entends ! Vous voulez qu'il devine...
-
--*who_constance
-      Marton,
-Vous rêvez !
-
--*who_marton
-      Non vraiment, le stratagème est bon ;
-L'amoureux Chevalier aura soin de se dire :
-Quoi, Constance me voit, se trouble et se retire ;
-Elle m'aime à coup sûr, et me croit dangereux.
-
--*who_constance
-Comment, tu crois cela ? Restons.
-
--*who_marton
-      Vous ferez mieux.
-Elle est à nous.
-
-**** *book_ *id_II04 *act_II *date_1777
-
--*who_lechevalier
-      Quel air décent, et qu'elle est belle !
-Osons lui déclarer !... Ah ! Suis-je digne d'elle !
-Je tremble en l'abordant.
-
--*who_marton
-      Quel regard amoureux !
-Voyez-le donc ; son âme a passé dans ses yeux.
-
--*who_constance
-Le coeur me bat.
-
--*who_lechevalier
-      Souffrez que mon âme ravie...
-De vous seule attendant le bonheur de ma vie,
-Vous dévoile un secret important...
-
--*who_constance
-      Mais, Monsieur,
-Mais... puis-je l'écouter ce secret... et l'honneur...
-
--*who_lechevalier
-Ah ! Madame, l'honneur ?... C'est lui seul qui m'inspire :
-Plaire par lui, voilà le bonheur où j'aspire.
-Pour un sexe enchanteur la gloire a des appas,
-Et malgré moi la paix enchaîne ici mon bras ;
-Mais nous aurons la guerre, oui, la nouvelle est sûre ;
-j'ai des pressentiments du plus heureux augure ;
-Je me signalerai.
-
--*who_constance
-      Dieux ! Quel trouble est le mien !
-
--*who_marton
-Ils vont s'expliquer, bon !
-
--*who_lechevalier
-      Ah ! Pour vous peindre bien
-La pureté du feu qui consume mon âme,
-Qui l'enflamme à jamais, souffrez...
-
-**** *book_ *id_II05 *act_II *date_1777
-
--*who_durand
-      Monsieur, Madame.
-Daignez solliciter ma chère pension.
-Monsieur, votre oncle arrive.
-
--*who_constance
-      Allons, suis-moi, Marton.
-Je respire.
-
-**** *book_ *id_II06 *act_II *date_1777
-
--*who_durand
-      Arrêtez, Ciprine était moins belle :
-Soyez, en ma faveur, douce, humaine comme elle.
-
--*who_marton
-Euh, l'animal !
-
-**** *book_ *id_II07 *act_II *date_1777
-
--*who_durand
-      Voilà comme on traite un savant.
-Je sais que mon disciple est sensible, obligeant...
-
--*who_lechevalier
-L'indulgente bonté dans ses yeux était peinte !
-J'allais de mon amour l'entretenir sans crainte !
-Quand trouver désormais pareille occasion ?
-
--*who_durand
-Oui, pour me faire avoir...
-
--*who_lechevalier
-      Volons vers Philémon ;
-Il peut servir mes feux.
-
-**** *book_ *id_II08 *act_II *date_1777
-
--*who_durand
-      Il ne veut pas m'entendre...
-Accourez le confondre, ô divin Alexandre,
-Qui pensiez tout devoir à votre instituteur,
-Et qui de ses leçons vous faisiez tant d'honneur,
-Que vous les préfériez aux lauriers de Bellone !
-Aussi la pension d'Aristote était bonne.
-Et moi rien ; puis l'on dit que je me plains toujours !
-Quand tout l'Univers rêve armes, fortune, amours,
-Ne puis-je m'occuper du bonheur de ma vie ?
-Chacun pour soi. Mais tel m'accuse de manie,
-Qui, mendiant le prix de quelque lâcheté,
-Des Grands, des parvenus tour à tour rebuté,
-Leur a rendu vingt ans sa présence importune,
-Et dans leur antichambre attendrait la fortune,
-S'il n'avait emprunté, pour la saisir enfin,
-Les ailes de Mercure, ou les rets de Vulcain.
-
-**** *book_ *id_II09 *act_II *date_1777
-
--*who_philemon
 Certain de mon secours, rassurez-vous, mon frère :
 J'aime à vous voir brûler d'une flamme sincère,
 Pour couronner vos voeux je n'épargnerai rien.
@@ -1027,33 +118,18 @@ J'adore ses vertus, et, mettant bas les armes,
 Je déclame tout haut contre le célibat.
 Bon, j'aperçois Durand.
 
--*who_durand
-      Voilà mon autre ingrat.
-J'ai remis à Clermon le soin de ma vengeance :
-Il est déjà parti.
-
--*who_philemon
       Nous sommes mal, je pense.
 Oh, ma foi, qu'il s'arrange ! Il me faut un prôneur :
 C'est lui que je choisis, je lui fais cet honneur.
 Ah, le petit cruel ! Comment donc, il m'évite ?
 Qu'est-ce, mon bon ami, vous me fuyez !
 
--*who_durand
-      Bien vite :
-Vous n'avez pas daigné me parler tantôt.
-
--*who_philemon
       Moi !
 Je m'occupais de vous, j'en jure sur ma foi.
 Quoi, disais-je, un mortel que j'estime et révère,
 Que je regarderai toujours comme mon père,
 Qui m'a formé le coeur, sans fortune languit !
 
--*who_durand
-Quoi, vous pensiez à moi !
-
--*who_philemon
       Votre sort m'attendrit.
 Mais au retour de l'oncle, il faut qu'ici tout change.
 Pour le mettre à profit, je vois que l'on s'arrange.
@@ -1066,10 +142,6 @@ Songe à tirer parti de cet événement.
 Moi, pour vous obliger, je veux avec adresse
 De l'oncle, si je puis, m'attirer la tendresse.
 
--*who_durand
-Dieux, où trouver Clermon !
-
--*who_philemon
       Il faut le ménager :
 Ce valet, m'a-t-on dit, n'est pas à négliger :
 Il a quelque crédit sur l'esprit de son maître ;
@@ -1079,60 +151,27 @@ De mon ami pour lors je ferai le bonheur :
 Oui, nous partagerons ensemble comme frères
 Les bienfaits de mon oncle.
 
--*who_durand
-      Ah, les belles affaires
-Que je tramais tantôt, en parlant mal de lui !
-
--*who_philemon
 Je le tiens.
 
--*who_durand
-      Malheureux, j'ai détruit men appui !
-Euh, bourreau !
-
--*who_philemon
       Mon ami, qu'est-ce qui vous arrête ?
 
--*who_durand
-En abordant votre oncle, ayez bien dans la tête
-Qu'il déteste un mortel trop occupé de soi.
-
--*who_philemon
 M'aurait-il pénétré ?
       Venez, embrassez-moi.
 Vous n'aurez pas en vain passé votre jeunesse
 À me communiquer le savoir, la sagesse...
 
--*who_durand
-Je le connaissais mal.
-
--*who_philemon
       Un Précepteur prudent,
 Sage, instruit, est du Ciel un si rare présent,
 Que les Dieux de la terre en trouvent avec peine :
 Le phénix est moins rare.
 
--*who_durand
-      Oui, la chose est certaine,
-Pourquoi repartait-il, ce malheureux valet ?
-
--*who_philemon
 Mon amitié me dicte un excellent projet.
 Tout le monde vous dit un docte personnage :
 Votre nom peut lui seul illustrer un ouvrage...
 
--*who_durand
-Mais...
-
--*who_philemon
       Je vous fais du mien un généreux présent.
 Je me tais s'il déplaît, je me nomme s'il prend.
 
--*who_durand
-Il est vrai que moi seul ayant su vous apprendre
-Les choses qu'il contient, l'honneur, à le bien prendre...
-
--*who_philemon
 Vous en revient. D'ailleurs, soutenez hardiment
 Que l'ouvrage est de vous quatre jours seulement ;
 Bientôt vous le croirez plus que le plus crédule.
@@ -1149,134 +188,29 @@ Qui, sottement bercé par l'orgueil, par l'erreur
 Se croit un habile homme et s'érige en censeur.
 Quel censeur ! Juste ciel !
 
--*who_durand
-      La plaisante sottise !
-
--*who_philemon
 Il en convient du moins : j'admire sa franchise.
 
--*who_durand
-Parlons de mon ouvrage encore, s'il vous plaît.
-
--*who_philemon
 Son ouvrage est fort bon !
 
--*who_durand
-      S'il prend bien en effet,
-Comme il faut l'espérer, croyez-vous qu'on me donne
-Une pension ?
-
--*who_philemon
       Oui, certainement et bonne.
 Il croit l'avoir.
       Pourvu qu'on fasse quelque bruit,
 Une cabale prône, et la fortune suit.
 
--*who_durand
-J'ai pu le soupçonner de n'aimer que lui-même !
-Réparons... Des chevaux ! mon chagrin est extrême.
-Ah, mon aimable Émile !
-
--*who_philemon
       Ah, mon cher gouverneur !
 Il me croit occupé de lui, de son bonheur.
 En effet, je lui dois, on ne peut davantage :
 Il m'a dicté vingt mots d'un antique langage !
 
--*who_durand
-Votre oncle...
-
-**** *book_ *id_II10 *act_II *date_1777
-
--*who_lechevalier
-      Quel bonheur !
-
--*who_philemon
       Quel plaisir de vous voir ?
 Le transport que je sens ne peut se concevoir.
 
--*who_madameflorimon
-C'est moi, c'est pourtant moi qui l'ai vu la première :
-C'est que rien ne m'échappe à moi pour l'ordinaire ;
-Je vois tout.
-
--*who_polidor
-      Laissez-moi respirer quelque temps.
-Je presse sur mon sein, j'embrasse mes parents,
-Je me vois dans leur bras après vingt ans d'absence ;
-Je viens faire couler leurs jours dans l'opulence :
-Ils peuvent de mes biens jouir avec honneur,
-Puisqu'ils ne coûtent pas un reproche à mon coeur.
-Quelle félicité pour une âme sensible !
-
--*who_madameflorimon
-Pour vous bien recevoir, je ferai l'impossible.
-Voici l'appartement où vous allez loger ;
-Il vous plaira ; c'est moi qui l'ai fait arranger :
-Vous y pourrez trouver l'utile et l'agréable.
-Jusques dans les détails je suis incomparable,
-Et je prétends qu'ici vous fassiez tout par moi ;
-Oui, vous m'admirerez, c'est le mot.
-
--*who_polidor
-Je le crois.
-
--*who_madameflorimon
-      Je m'admire souvent moi-même, quand j'y pense,
-Et je n'ai point d'orgueil.
-
--*who_polidor
-      Je ne vois point Constance.
-
--*who_madameflorimon
-D'après mes bons conseils, elle sort dans l'instant,
-Pour faire une visite aux soeurs de Clidamant
-Qui depuis quelques jours est dans le ministère.
-Vous saurez mes projets. Pour aujourd'hui, mon frère,
-Pardon, si plusieurs fois j'entre, reviens et sors :
-Il faut que je mette ordre au dedans, au dehors.
-Vous êtes tout surpris de me voir cette tête ?
-
--*who_polidor
-Oh, beaucoup !
-
--*who_madameflorimon
-      Vous verrez !
-
--*who_polidor
-      Constance est belle, honnête :
-Mes enfants, l'un de vous voit en elle sa soeur,
-L'autre son épouse.
-
--*who_lechevalier
-      Ah, s'il lisait dans mon coeur !...
-
--*who_philemon
 Un moment ; nous verrons ce que nous devons faire.
 
--*who_polidor
-Mon ami, tu me plais sous l'habit militaire.
-
--*who_philemon
 Il annonce l'amour de la célébrité ;
 Il prouve qu'ennemi de l'inutilité,
 On veut sacrifier ses jours à sa patrie.
 
--*who_polidor
-Mon cher neveu, bien dit !
-
--*who_lechevalier
-      Ah, ma plus forte envie
-Serait de mériter un immortel laurier,
-À travers les périls bravés par le Guerrier,
-Et de le déposer aux genoux d'une belle !
-L'hommage de mon coeur serait plus digne d'elle.
-
--*who_polidor
-Qu'une pareille ardeur ne s'éteigne jamais !
-J'aime à te voir former de si nobles projets.
-
--*who_philemon
 Sans ces heureux élans point de gloire parfaite.
 L'homme qui veut payer une servile dette,
 En entrant malgré lui dans les sentiers de Mars,
@@ -1284,75 +218,19 @@ Y rampe bassement, court les mêmes hasards,
 Et meurt sans, obtenir la plus faible couronne.
 Il faut tout voir en grand dans les champs de Bellone.
 
--*who_polidor
-Bravo !
-
--*who_madameflorimon
-      C'est comme moi.
-
--*who_polidor
-      Eh ! ma soeur, entre nous,
-Qu'ont à démêler Mars et Bellonne avec vous ?
-Depuis quand avez-vous l'âme si militaire ?
-
--*who_madameflorimon
-Parlez, parlez, -j'ai là vraiment plus d'une affaire.
-
--*who_polidor
-Et toi, mon cher ami, toi, qui parle si bien,
-À quoi t'occupes-tu, que fais-tu, dis ?
-
--*who_philemon
       Moi ? rien.
 
--*who_polidor
-Tant pis, morbleu, tant pis ! Rien ! Quoi, rien, à ton âge !
-
--*who_philemon
 De grâce, écoutez-moi...
 
--*who_polidor
-      Non, tête-blue ! J'enrage,
-Moi, qui parcours les mers dès mes plus jeunes ans,
-De voir le monde plein de lâche fainéants,
-Qui veulent s'exempter de la tâche commune.
-
--*who_philemon
 Mais, mon oncle !...
 
--*who_polidor
-      Tais-toi, ce titre m'importune.
-Sois bon à quelque chose, alors je t'avouerai.
-Monsieur vit pour lui seul...
-
--*who_philemon
       Quand je m'expliquerai
 Vous saurez...
 
--*who_polidor
-      N'est-ce pas bien employer sa vie !
-
--*who_philemon
 Comme un autre.
       Daignez m'écouter, je vous prie,
 Un seul instant ; pour lors...
 
--*who_polidor
-      Allons, je le veux bien ;
-Mais ne me dites pas que vous ne faites rien.
-Depuis l'instant heureux où l'homme raisonnable,
-Sentit le doux besoin de servir son semblable,
-Et forma les liens de la société,
-Elle aime, elle chérit l'homme de probité
-Qui lui rend à son tour les secours qu'il en tire,
-Qui, ne le pouvant pas, tout au moins le désire ;
-Elle méprise et voit d'un regard irrité,
-Ces frelons importuns, nés de l'oisiveté ;
-Qui, sans fournir de fonds, prétendent au partage,
-Et des travaux d'autrui se font un apanage.
-Tout augmente l'horreur que pour eux je ressens.
-
--*who_philemon
 Comme j'aime à vous voir ces nobles sentiments !
 Mon coeur s'enorgueillit d'en avoir de semblables.
 J'abhorre, comme vous, ces êtres méprisables,
@@ -1364,110 +242,27 @@ Si, remplissant jamais des postes importants,
 Je puis aux malheureux consacrer mes moments...
 Mais... sans fonds, point de charge...
 
--*who_polidor
-      Il faut en chercher une.
-Mes enfants, je croirais n'avoir pas fait fortune,
-Si je ne savais pas à propos m'en servir ;
-Plus agréablement je ne puis en jouir,
-Qu'en vous portant au bien. Enfin, voyons mon frère.
-
--*who_madameflorimon
-Oh ! L'éveiller n'est pas une petite affaire...
-Et vous ne savez pas les manoeuvres qu'il faut.
-Il se croit mort, sitôt qu'on l'éveille en sursaut ;
-Mais j'y réussirai. Vous conviendrez, j'espère,
-Que dans cette maison, je suis très nécessaire.
-Qu'y ferait-on sans moi ? Rien, ou tout irait mal.
-
--*who_polidor
-D'accord.
-
--*who_madameflorimon
-      Je ris de voir l'indolente Orsonval,
-Qui, fière de pincer sa harpe ou sa guitare,
-De danser, de chanter, se croit un talent rare,
-Se croit dans l'Univers un être essentiel !
-
--*who_polidor
-Elle a grand tort.
-
--*who_madameflorimon
-      Sans doute, et mon dépit mortel
-Naît de l'avoir toujours parler de son mérite,
-Tandis que moi, moi, moi, jamais je ne me cite.
-
--*who_polidor
-Eh, têtebleu, ma Soeur, voyons donc Florimon !
-
--*who_madameflorimon
-Je ne m'emporte, moi, pour aucune raison.
-
--*who_philemon
 Nous parlerons vertu, puisqu'elle l'intéresse.
 
--*who_lechevalier
-Voici l'instant heureux de servir ma tendresse.
-
--*who_polidor
-Venez, mes chers amis. Ah, puissent vos enfants,
-Vous rendre quelque jour le plaisir que je sens !
-
-**** *book_ *id_III01 *act_III *date_1777
-
--*who_philemon
 Tout le monde se tait sur les biens de Constance :
 Mauvais signe !... Je puis favoriser, je pense,
 Les amours de mon frère. Eh, mon Dieu, qu'avez-vous ?
 
--*who_durand
-L'avez-vous vu ?
-
--*who_philemon
       Qui donc ?
 
--*who_durand
-      Clermon. C'est fait de nous !
-On le cherche partout de la part de son maître.
-
--*who_philemon
 Qu'importe ?
 
--*who_durand
-      Polidor vous a-t-il fait connaître ?...
-
--*who_philemon
 Quoi ?
 
--*who_durand
-      Qu'il vous soupçonnât d'être un peu... personnel ?
-
--*who_philemon
 Monsieur...
 
--*who_durand
-      Le voici. Paix !... Il est essentiel
-Que je sois a l'affût.
-
-**** *book_ *id_III02 *act_III *date_1777
-
--*who_philemon
       Tout ceci me chagrine !
 Oh bien... Je n'aime pas, moi, que l'on me devine !
 Divisons les soupçons à tout événement.
 
-**** *book_ *id_III03 *act_III *date_1777
-
--*who_polidor
-Quel est l'homme qui sort ?
-
--*who_philemon
       Antonius Durand,
 Mon pédadogue.
 
--*who_polidor
-      Il a le front atrabilaire.
-
--*who_philemon
 C'est pourtant un bon homme, un plaisant caractère.
 Alors qu'il entreprit notre éducation,
 Ma mère lui promit certaine pension,
@@ -1475,10 +270,6 @@ Dont il rêve toujours, dont il parle sans cesse.
 Rien n'est plus juste ; il faut lui tenir la promesse
 Dès qu'on le pourra.
 
--*who_polidor
-      J'aime à te voir bienfaisant.
-
--*who_philemon
 Mais ce qui me paraît en lui divertissant,
 C'est de voir comme il est franchement son idole.
 Du moment qu'il pourra vous dire une parole,
@@ -1489,51 +280,20 @@ Il vous accusera de vivre pour vous-même,
 De ne songer qu'à vous. Il a fait, sans raison,
 Un reproche pareil à toute la maison.
 
--*who_polidor
-Bien sans raison, dis vrai ?
-
--*who_philemon
       Mais...
 
--*who_polidor
-      Point de mais, de grâce.
-
--*who_philemon
 Quoi ! Vous voulez ?...
 
--*who_polidor
-      Je veux qu'on se mette à ma place,
-Et qu'on m'aide du moins à placer mes bienfaits.
-
--*who_philemon
 Dois-je de mes parents ?...
 
--*who_polidor
-      Non, je te blâmerais
-De noircir en public leurs moeurs, leur caractère ;
-Mais avec moi tu dois écarter tout mystère :
-Feindre avec ton ami, serait un trop grand tort.
-
--*who_philemon
 Mon oncle, en vérité, vous m'embarrassez fort.
 Comment, vous désirez ?...
 
--*who_polidor
-      Je fais plus, je l'exige :
-Ou confirme, ou détruis le soupçon qui m'afflige.
-Quoi, je ne pourrais pas les rendre tous heureux,
-Moi qui venais exprès !... Mon sort serait affreux.
-
--*who_philemon
 Pourquoi vous alarmer ? Par exemple, mon père,
 Pourvu qu'il dorme, mange, et pourvu qu'il digère,
 Pourvu qu'il vive enfin, tout lui devient égal.
 Durand l'en blâme ; moi, je n'y vois point de mal.
 
--*who_polidor
-Cette oisiveté...
-
--*who_philemon
       Bon, que peut-il davantage ?
 Veut-on lui reprocher les défauts de son âge,
 Sur-tout lorsqu'il n'a point consumé ses beaux ans
@@ -1543,17 +303,9 @@ Pensent remplir au monde un rôle fort utile ?
 Quand près de cinquante ans l'on a sérvi son Roi,
 On a, je crois, le droit de vivre en paix chez soi.
 
--*who_polidor
-Tu dis vrai ; mais...
-
--*who_philemon
       Durand blâme encore ma mère ;
 Vous avez remarqué quel est son caractère ?
 
--*who_polidor
-À peu près : j'ai cru voir qu'elle aime à se citer.
-
--*who_philemon
 Oh, oui ! Tout lui paraît matière à se vanter ;
 Et pour faire avec nous la femme essentielle,
 Elle veut que sans cesse il soit question d'elle
@@ -1569,19 +321,10 @@ Eh bien, ce dernier rôle est, je crois, le meilleur
 Pour celle qui le prend, surtout pour le bonheur
 De ceux que le destin force à vivre avec elle.
 
--*who_polidor
-L'on peut voir tout cela d'un autre oeil.
-
--*who_philemon
       Bagatelle !
 Sans mes soins, vous alliez vous chagriner pour rien.
 Quant à mon jeune frère, il lui reproche...
 
--*who_polidor
-      Eh bien,
-Quoi
-
--*who_philemon
       Que pour s'avancer il désire la guerre ;
 De sorte qu'il faudra voir ravager la terre,
 Porter chez nos voisins la mort ou la terreur,
@@ -1591,189 +334,29 @@ D'aller à la fortune en se couvrant de gloire,
 Vice qui fait d'un chef le fléau de l'État,
 Devient une vertu dans le coeur d'un soldat.
 
--*who_polidor
-Ta bonté, ton esprit prêtent à tout des charmes ;
-Tu veux diminuer, je le vois, mes alarmes.
-Sur mes gardes, pourtant, je n'en serai pas moins.
-
--*who_philemon
 Mais, pourquoi ?...
 
--*who_polidor
-      Je saurai récompenser tes soins.
-Je veux lire un instant dans l'âme de Constance :
-Je l'attends... La voici. Reviens en diligence
-Dès qu'elle sortira. Tu sauras mes projets.
-
--*who_philemon
 Ah ! Monsieur Durand voudrait démêler mes secrets !
 
-**** *book_ *id_III04 *act_III *date_1777
-
--*who_polidor
-Feignons, pour ménager un sexe trop sensible.
-
--*who_constance
-Cachons bien mon amour, s'il est encor possible.
-
--*who_polidor
-Embrassez-moi, ma fille, une seconde fois.
-Je crois voir mon ami, sitôt que je la vois.
-Asseyons-nous : Je veux vous consulter, Constance,
-Sur une affaire : elle est de très grande importance.
-Votre père eut dessein d'unir nos deux maisons :
-Vous daignâtes répondre à ses intentions...
-
--*who_constance
-Oui, Monsieur ; à ses lois mon coeur toujours fidèle...
-
--*who_polidor
-Un moment, s'il vous plaît : La fortune cruelle
-M'accable en ce moment du poids de ses revers ;
-Tout mon bien a péri dans le trajet des mers ;
-Mais le vôtre est sauvé...
-
--*who_constance
-      Je pourrai donc vous rendre
-Les secours que mon père obtint d'un ami tendre ;
-Adoucir les destins de vous, de vos parents,
-Dans le sein du bonheur faire couler vos ans...
-
--*who_polidor
-J'accepte vos bienfaits, généreuse Constance !
-Ordonnez maintenant de la reconnaissance.
-
--*who_constance
-De la reconnaissance ! Eh pourquoi, s'il vous plaît ?
-Pour m'avoir procuré le bien le plus parfait,
-Le bonheur d'être utile... A qui, grands Dieux !
-
--*who_polidor
-      Ma fille
-Vous allez en effet enrichir ma famille ;
-Mais c'est par vos vertus plus que par votre bien.
-Vous penserez toujours de même ?
-
--*who_constance
-      Oh, oui !
-
--*who_polidor
-      Quoi ! Rien
-Ne vous fera changer ?
-
--*who_constance
-      Ah ! croyez, je vous prie !...
-
--*who_polidor
-Vous penserez toujours que d'une main chérie
-Nous pouvons accepter des bienfaits sans rougir ;
-Qu'entre deux vrais amis celui qui peut jouir
-Du bien de réparer un malheur respectable,
-Étant le plus heureux est le plus redevable ?
-
--*who_constance
-Peut-on avoir une âme, et penser autrement ?
-
--*who_polidor
-Félicitez-moi donc, et sachez maintenant
-Ce que je ne pourrais vous cacher dans la suite.
-Votre fortune...
-
--*who_constance
-      Eh bien ?
-
--*who_polidor
-      Un revers l'a détruite.
-
--*who_constance
-Chevalier, c'en est fait, je ne puis rien pour toi.
-
--*who_polidor
-Auquel de mes Neveux donnez-vous votre foi ?
-Que votre coeur choisisse ; et dans cette journée,
-Vous nous appartenez par un doux hyménée.
-
--*who_constance
-Moi, Monsieur, que chez vous j'ose donner des lois !
-Je sais trop qui je suis et ce que je vous dois.
-
--*who_polidor
-À nos conventions, songez, je vous supplie ;
-Oui, songez qu'un refus me fâche et m'humilie.
-Je mérite, je crois, de faire des heureux.
-
--*who_constance
-Ah ! Ne m'accablez pas, mortel trop généreux !
-De toutes vos bontés et confuse et ravie,
-Je veux vous devoir tout, et pour toute ma vie.
-Choisissez mon époux, et décidez mon sort.
-Son choix va me donner ou la vie ou la mort.
-
--*who_polidor
-C'est assez, Pour répondre à votre constance,
-Croyez que ma raison va régler la balance.
-J'ai d'un oeil attentif observé mes neveux,
-Et ce soir votre main est au plus vertueux.
-
-**** *book_ *id_III05 *act_III *date_1777
-
--*who_polidor
-Sois heureux, mon ami, je te donne Constance ;
-Elle est digne de toi ; mérite, esprit, naissance...
-
--*who_philemon
 Je suis trop bien instruit pour être son époux.
 
--*who_polidor
-Tu balances, je crois ?
-
--*who_philemon
       Ce lien, quoique doux..
 
--*who_polidor
-Sais-tu que je dois tout à son malheureux père ?
-
--*who_philemon
 Soit ; mais je dois aussi quelque chose à mon frère.
 Je ne puis ignorer que Constance lui plaît.
 Souffrirai-je d'ailleurs que mon propre intérêt,
 Au bonheur de mon frère oppose une barrière ?
 Un cadet a besoin d'une riche héritière.
 
--*who_polidor
-Constance n'a rien...
-
--*who_philemon
       Bon.
 
--*who_polidor
-      Mais ce soir, en signant,
-Je prétends lui donner cent mille écus comptant.
-
--*who_philemon
 Ô Dieux !
 
--*who_polidor
-      Puisque ton coeur vit dans l'indifférence.
-Que ton frère a des moeurs, qu'il adore Constance,
-Au gré de tes désirs il faut le rendre heureux.
-Annonce-lui son sort : le plutôt vaut le mieux.
-Cours.
-
--*who_philemon
       Qu'ai-je fait ! Cachons à quel point j'en enrage.
 D'honneur, je lui croyais un très riche héritage.
 
--*who_polidor
-Mais, ton front s'obscurcit ! As-tu quelque chagrin ?
-
--*who_philemon
 Laissez-moi taire un mal renfermé dans mon sein.
 
--*who_polidor
-Non, parle promptement, ton silence m'outrage.
-
--*who_philemon
 J'aime avoir que mon coeur soit peint sur mon visage.
 Si l'altération qui paraît dans mes traits
 Me force à dévoiler le plus grand des secrets,
@@ -1782,10 +365,6 @@ Que je ne porte point de ces masques perfides,
 Qui peignent ce qu'on veut, et non ce que l'on sent.
 Vous voulez donc savoir ?...
 
--*who_polidor
-      Sans doute, et dans l'instant.
-
--*who_philemon
 N'allez pas m'enlever toute votre tendresse,
 Quand je découvrirai l'excès de ma faiblesse.
 Je la sens redoubler, à ne vous cacher rien,
@@ -1794,10 +373,6 @@ Pour un coeur délicat, la volupté suprême
 Est de ne rien devoir à la beauté qu'on aime.
 Votre pupille...
 
--*who_polidor
-      Eh bien !
-
--*who_philemon
       Ses vertus, ses attraits
 Dans mon âme avaient fait les plus tendres progrès,
 Lorsque je démêlai les désirs de mon frère,
@@ -1808,34 +383,14 @@ Orgueilleux que j'étais, homme faible et vulgaire !
 Le bonheur d'un rival (de quel rival, d'un frère)
 Me cause en approchant le plus mortel chagrin.
 
--*who_polidor
-L'homme a cru triompher de l'homme : projet vain !
-
--*who_philemon
 Vous avez voulu voir les replis de mon âme.
 
--*who_polidor
-Mon cher, je puis encor récompenser ta flamme.
-
--*who_philemon
 Je mettrais à mon frère un poignard dans le sein !
 
--*who_polidor
-Laisse à mon amitié le soin de son destin.
-L'amour est à son âge une courte folie ;
-Mais lorsqu'on aime au tien, c'est pour toute la vie.
-Va, va, je m'y connais. Tout bien pesé, je crois
-Qu'une femme sera plus heureuse avec toi.
-
--*who_philemon
 Cette seule raison à vous céder m'engage.
 Quant aux cent mille écus, je veux qu'on les partage
 Entre mon frère et moi : j'insiste sur ce point.
 
--*who_polidor
-En générosité tu ne me vaincras point.
-
--*who_philemon
 Parbleu, j'y compte bien !
       Si l'aimable Constance
 Trouve dans sa maison une agréable aisance ;
@@ -1847,118 +402,590 @@ Je ne désirerai jamais d'autre bonheur.
 L'ambition ne peut se glisser dans mon coeur :
 Les désirs modérés sont les trésors du Sage.
 
--*who_polidor
-Tu me ravis, mon cher, en tenant ce langage.
-
-**** *book_ *id_III06 *act_III *date_1777
-
--*who_clermon
-Je parlerai, vous dis-je. Ouf ! Je vous trouve enfin :
-En croyant l'abréger, j'ai manqué mon chemin.
-
--*who_polidor
-Va dire là-dedans qu'on appelle un notaire.
-
--*who_clermon
-Sachez vite un secret que je ne dois plus taire.
-
--*who_durand
-Dieux !
-
--*who_polidor
-      Tu me l'apprendras ; cours, obéis avant.
-
--*who_clermon
-Mais...
-
--*who_polidor
-      Fais ce qu'on te dit.
-
--*who_clermon
-      Je reviens dans l'instant.
-
-**** *book_ *id_III07 *act_III *date_1777
-
--*who_polidor
-Toujours de grands secrets pour rien.
-
--*who_philemon
       Il me tracasse.
 
--*who_durand
-Profitons du moment, puisqu'il cède la place.
-Monsieur !...
-
--*who_polidor
-      Que voulez-vous ?
-
--*who_durand
-      Quand Clermon reviendra
-Ne vous affectez point de ce qu'il vous dira,
-Et croyez-en plutôt le remords qui me presse,
-De venir à vos pieds avouer ma faiblesse.
-
--*who_philemon
 Voyons.
 
--*who_polidor
-      À quel sujet ?
-
--*who_durand
-      Voici la vérité.
-Un moment de dépit et de vivacité
-M'avait fait soupçonner dans ce mortel unique
-Des torts exagérés à votre domestique :
-J'ai cru qu'il m'empêchait d'avoir ma pension,
-Qu'il ne songeait qu'à lui : je l'ai dit à Clermon...
-
--*who_philemon
 Eh... Vous l'ai-je dit ?
 
--*who_polidor
-      Oui.
-
--*who_philemon
       Le traître !
 
--*who_polidor
-      Est-il possible !
-Quoi, vous riez !
-
--*who_philemon
       Mais oui. N'est-il pas bien risible
 De m'avoir vu tantôt disciple bienfaisant,
 Vous dire qu'il fallait récompenser Durand,
 Et cela dans le temps qu'il payait mes services,
 En me gratifiant du plus affreux des vices ?
 
--*who_polidor
+Vous me faites frémir !
+
+      Il faut l'entendre.
+
+Que j'ai bien fait !
+
+      Un rien doit-il donc t'étonner ?
+Je suis bien criminel : parle sans te gêner.
+J'ai surtout le défaut de n'aimer que moi-même.
+Tu vois, mon oncle en est dans un courroux extrême.
+
+Clermon est bon enfant.
+
+Je ne puis exprimer combien il est flatteur...
+
+      Oh !
+
+      Voilà les biens réels !
+Le plaisir réunit le commun des mortels ;
+Les méchants, les pervers, sont unis par le crime ;
+Et nos liens seront les vertus...
+
+Du pouvoir des vertus je suis édifié.
+
+      Mais, mon oncle, entre nous,
+Par égoïsme enfin, voyons, qu'entendez-vous ?
+
+Quel monstre ! J'ignorais jusqu'à son existence.
+
+      Quoi !
+
+Oui da, ... mais ce n'est pas à son coeur que j'en veux.
+Rentrons pour n'être pas ou dupe ou généreux.
+
+Les amants sont sortis.
+
+Quinze cents mille francs ! Les voilà : quelle somme !
+Il faut en convenir, le cher oncle est bonhomme.
+
+Les miens de ces billets connaissent le montant
+À me solliciter chacun déjà s'empresse...
+J'ai des principes sûrs. Oui, leur sort m'intéresse :
+Le sang... l'humanité... Je m'en occupe fort.
+Mais je veux librement disposer de leur sort.
+Si par quelque détour qu'on ne pourrait connaître...
+Il serait bien plaisant que Monsieur mon cher Maître
+Voulût imaginer un projet aujourd'hui
+Dont le mauvais succès ne tombât que sur lui.
+Il me sert si bien...
+
+      Bon
+
+      Où ?
+
+Changeons de discours. J'ai quinze cents mille francs :
+Vous savez à quel prix mon oncle me les laisse ?
+
+      Mes parents viendront me désoler sans cesse.
+Je suis facile, moi, comme on dit, bon humain ;
+Ils dépenseront tout ; puis j'aurai le chagrin
+De les voir derechef manquer du nécessaire.
+Je les connais.
+
+      Le tour est indigne de moi :
+Je ne veux pas risquer qu'on soupçonne ma foi.
+Mon porte-feuille ?
+
+      Il n'est plus là.
+
+      Qui ?
+
+      Où donc ?
+
+      Quand ?
+
+Eh ! Que ne parliez vous ? Courons tout au plutôt.
+
+Parlez-vous tout de bon ?
+
+Avez-vous mes billets ? Expliquons-nous, voyons.
+
+      Le traître m'assassine.
+
+Mon trouble m'égarait : je ne m'en prends qu'à vous :
+Mes billets.
+
+Vous me les rendrez.
+
+Ils étaient dans vos mains : je n'écoute plus rien.
+
+      Que lui dire ?
+
+Souffrez que je vous quitte. Un scélérat, un traître
+M'a ravi vos billets.
+
+      Quel bonheur !
+
+      Écoutez-moi, de grâce.
+Les billets étaient-là, j'étais à cette place :
+Pourquoi ?...
+
+Ce drôle m'interdit, et son ton d'insolence...
+
+      Sûrement.
+
+Je vais m'en occuper. En dirigeant vos biens,
+A nos conventions je songerai sans cesse.
+Au lieu des goûts divers qu'inventa la mollesse,
+Quand voudra-t-on se faire une félicité
+De remplir les devoirs chers à l'humanité !
+
+De Durand me voilà défait bien plaisamment ;
+Il ne me nuira pas, grâce au Gouvernement.
+Je suis vraiment fâché que, par étourderie,
+Mon frère à son pédant serve de compagnie.
+Dans le temps qu'on s'occupe à le faire sortir,
+À sa maîtresse, moi, je travaille à m'unir :
+J'achète de sa dot une terre jolie,
+Aux portes de Paris, mais seulement à vie.
+Ensuite, pour jouir d'un plus gros revenu,
+Je placerai beaucoup, beaucoup à fond perdu.
+Mes enfants ?... Je n'ai pas l'honneur de les connaître.
+À la Cour maintenant daignerais-je paraître ?
+Ou, Roi dans mon Palais, entouré de mes gens,
+Feindrai-je d'insulter aux soins des Courtisans ?
+Non ; il faut une Charge. Oui, mais il m'en faut une
+Qui rapporte beaucoup, qui, sans être importune,
+Soumette tout un peuple à mes caprices vains,
+Et donne parfois l'air de servir les humains.
+Voilà, pour être heureux, ce qu'un sage peut faire...
+Oui, c'est à peu près tout.
+
+Pensez-vous ?...
+
+Il n'est pas de moi...
+
+      Je n'en puis revenir.
+
+Hélas ! Il faut s'en prendre à mon coeur trop sensible.
+Hors mon ouvrage, alors je ne possédais rien ;
+Je gémissais de voir mon Précepteur sans bien ;
+Il fut, me suis-je dit, l'appui de ma jeunesse ;
+C'est à moi désormais d'étayer sa vieillesse.
+
+On veut se faire un sort... on cherche un protecteur.
+
+      Ma raison.
+
+      Oh malheur qui m'accable !
+Cet exil si cruel pour les hommes communs,
+Me fait rompre à la fois vingt liens importuns,
+Et je pourrai tout seul jouir de ma richesse.
+Plus de frein. Vous voyez l'excès de ma tristesse.
+Ah !
+
+Douleur trop vive ! Adieu.
+
+Un mortel qu'on arrache au sein de sa patrie,
+A besoin, pour traîner une importune vie...
+
+      L'opinion d'autrui
+Au Sage importe peu, s'il est bien avec lui.
+Au sein de la vertu mon âme est fort tranquille.
+
+      Du moins je l'imagine.
+Un bon contrat m'unit avec votre orpheline.
+J'aime qu'on soit fidèle à ses engagements.
+Je soutiendrai mes droits vivement et longtemps.
+
+Je suis las d'essuyer un injuste murmure.
+Que me reproche-t-on ? L'instinct de la nature ?
+C'est d'après ses leçons, ses mouvements secrets
+Que tout être vivant songe à ses intérêts ?
+Voyez ces gens de bien, crus tels sur leur parole ;
+L'intérêt personnel est leur unique idole,
+Sous les noms de vertu, d'humanité, d'honneur,
+Il fait s'envelopper d'un voile séducteur.
+La politesse n'est que le désir de plaire.
+La bravoure, l'honneur, sont chez le militaire
+La dévorante soif d'un prompt avancement.
+Les élans, les transports d'un coeur reconnaissant
+Sont l'art de mendier des secours plus utiles.
+Je pense voir partout des débiteurs habiles,
+Qui devant peu d'abord, ont soin de s'acquitter
+Pour acquérir le droit de beaucoup emprunter.
+Parcourez avec moi chaque état de la vie :
+Toujours quelque intérêt à la vertu s'allie.
+Vous-même descendez au fond de votre coeur...
+
+      Mais oui. Si pour vous il n'était pas flatteur
+D'être entouré de gens qui vous soient redevables,
+Si vous croyant par-là plus grand que vos semblables,
+Vous ne préfériez pas à vos biens ce plaisir,
+Vous vous fussiez gardé de vous en dessaisir.
+
+Vous triomphez ! Je veux vous prouver aujourd'hui
+Que je fais m'immoler à l'intérêt d'autrui.
+Je renonce à mes droits, à Constance, à ma flamme ;
+Oui, j'annule un contrat encor cher à mon âme.
+J'exige.
+
+      Un bon écrit
+Dans lequel il sera très-formellement dit :
+« Que puisque je renonce à la main de Constance,
+À tous les droits qu'ici me donne ma naissance,
+Mon cher Oncle consent à ne rien répéter
+Sur les billets que j'ai. »
+
+Décidez-vous, enfin ! Je suis maître de tout,
+Et vous hésitez ?
+
+      Bon ! il est trop stérile ;
+Le bien seul réunit l'agréable et l'utile.
+Grâce au mien, désormais Cosmopolite heureux,
+J'ai le choix des climats, des honneurs et des Dieux.
+Je vais faire escompter...
+
+Comment, que dites-vous ? Ces billets au porteur...
+
+Mon oncle vient de loin, il a les vieilles moeurs.
+Quand il aura porté des yeux observateurs
+Sur les individus de notre coin de terre,
+Il sera moins surpris de la petite guerre
+Que l'intérêt suscite et perpétue entre-eux.
+Mon siècle et mon pays ont adopté ces jeux.
+J'ai joué de malheur, je quitte la partie.
+Peut-être reviendrai-je un jour dans ma patrie,
+Et, plus profond dans l'art d'attirer tout à soi,
+Je n'aurai plus alors les rieurs contre moi.
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+      Quel air décent, et qu'elle est belle !
+Osons lui déclarer !... Ah ! Suis-je digne d'elle !
+Je tremble en l'abordant.
+
+      Souffrez que mon âme ravie...
+De vous seule attendant le bonheur de ma vie,
+Vous dévoile un secret important...
+
+Ah ! Madame, l'honneur ?... C'est lui seul qui m'inspire :
+Plaire par lui, voilà le bonheur où j'aspire.
+Pour un sexe enchanteur la gloire a des appas,
+Et malgré moi la paix enchaîne ici mon bras ;
+Mais nous aurons la guerre, oui, la nouvelle est sûre ;
+j'ai des pressentiments du plus heureux augure ;
+Je me signalerai.
+
+      Ah ! Pour vous peindre bien
+La pureté du feu qui consume mon âme,
+Qui l'enflamme à jamais, souffrez...
+
+L'indulgente bonté dans ses yeux était peinte !
+J'allais de mon amour l'entretenir sans crainte !
+Quand trouver désormais pareille occasion ?
+
+      Volons vers Philémon ;
+Il peut servir mes feux.
+
+      Quel bonheur !
+
+      Ah, s'il lisait dans mon coeur !...
+
+      Ah, ma plus forte envie
+Serait de mériter un immortel laurier,
+À travers les périls bravés par le Guerrier,
+Et de le déposer aux genoux d'une belle !
+L'hommage de mon coeur serait plus digne d'elle.
+
+Voici l'instant heureux de servir ma tendresse.
+
+Craignez le désespoir de l'amant le plus tendre.
+
+Au moment où Marton, en m'ouvrant votre coeur,
+A fait luire à mes yeux un rayon de bonheur...
+
+Vous me faites frémir et pour vous et pour moi.
+
+      D'un seul mot ranimer mon espoir.
+Pour désarmer le sort dont je suis la victime,
+La vertu servira l'intérêt qui m'anime.
+Je le jure à vos pieds ; oui !...
+
+      Décidez du bonheur de ma vie.
+
+Eh ! Quoi ! Vous me fuyez ?
+
+      Tu me charmes !
+Mais je ressens encor les plus vives alarmes.
+
+Mon père, je me meurs ; daignez me secourir.
+
+Mon frère ne peut être heureux avec Constance :
+Je l'adore, et mon coeur obtient la préférence ;
+Sa bouche m'en a fait l'aveu le plus charmant.
+
+Nous brûlons d'une ardeur et si pure et si tendre !...
+
+Puissé-je vous devoir la fin de mes malheurs !
+
+Je suis anéanti.
+
+Ne plaignez plus mon sort ; non, j'en suis trop flatté.
+Si vous saviez à qui je dois ma liberté !
+
+      À l'aimable Constance.
+Elle a pressé, prié, mais avec tant d'instance,
+Les soeurs de Clidamant, ses enfants, ses amis
+Qu'en ma faveur ses soins les ont tous réunis.
+Eh, qui saura fixer la faveur sur ses traces,
+Si ce n'est la Vertu sous la forme des Grâces !
+
+Mon oncle, y lisez-vous l'excès de mon bonheur ?
+
+Quel triste événement vient altérer ma joie ?
+Philémon, m'a-t-on dit, au malheur est en proie.
+Mon oncle, est-il bien vrai ? Mon frère...
+
+      De grand coeur.
+
+      Non, qu'il n'approche pas.
+Mon Oncle, la colère agite trop votre âme ;
+Dans un instant plus calme il vous fera...
+
+Nous ne souffrirons pas...
+
+Eh quoi ! De votre coeur ne puis-je obtenir rien ?
+
+Certain de votre coeur, adorable Constance,
+Votre amant attendra la main sans défiance ;
+Et si je vous mérite en servant mon pays,
+Voilà de mes travaux et l'objet et le prix.
+
+Ah ! Je vous reconnais à de tels sentiments.
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polidor
+
+      Laissez-moi respirer quelque temps.
+Je presse sur mon sein, j'embrasse mes parents,
+Je me vois dans leur bras après vingt ans d'absence ;
+Je viens faire couler leurs jours dans l'opulence :
+Ils peuvent de mes biens jouir avec honneur,
+Puisqu'ils ne coûtent pas un reproche à mon coeur.
+Quelle félicité pour une âme sensible !
+
+Je le crois.
+
+      Je ne vois point Constance.
+
+Oh, beaucoup !
+
+      Constance est belle, honnête :
+Mes enfants, l'un de vous voit en elle sa soeur,
+L'autre son épouse.
+
+Mon ami, tu me plais sous l'habit militaire.
+
+Mon cher neveu, bien dit !
+
+Qu'une pareille ardeur ne s'éteigne jamais !
+J'aime à te voir former de si nobles projets.
+
+Bravo !
+
+      Eh ! ma soeur, entre nous,
+Qu'ont à démêler Mars et Bellonne avec vous ?
+Depuis quand avez-vous l'âme si militaire ?
+
+Et toi, mon cher ami, toi, qui parle si bien,
+À quoi t'occupes-tu, que fais-tu, dis ?
+
+Tant pis, morbleu, tant pis ! Rien ! Quoi, rien, à ton âge !
+
+      Non, tête-blue ! J'enrage,
+Moi, qui parcours les mers dès mes plus jeunes ans,
+De voir le monde plein de lâche fainéants,
+Qui veulent s'exempter de la tâche commune.
+
+      Tais-toi, ce titre m'importune.
+Sois bon à quelque chose, alors je t'avouerai.
+Monsieur vit pour lui seul...
+
+      N'est-ce pas bien employer sa vie !
+
+      Allons, je le veux bien ;
+Mais ne me dites pas que vous ne faites rien.
+Depuis l'instant heureux où l'homme raisonnable,
+Sentit le doux besoin de servir son semblable,
+Et forma les liens de la société,
+Elle aime, elle chérit l'homme de probité
+Qui lui rend à son tour les secours qu'il en tire,
+Qui, ne le pouvant pas, tout au moins le désire ;
+Elle méprise et voit d'un regard irrité,
+Ces frelons importuns, nés de l'oisiveté ;
+Qui, sans fournir de fonds, prétendent au partage,
+Et des travaux d'autrui se font un apanage.
+Tout augmente l'horreur que pour eux je ressens.
+
+      Il faut en chercher une.
+Mes enfants, je croirais n'avoir pas fait fortune,
+Si je ne savais pas à propos m'en servir ;
+Plus agréablement je ne puis en jouir,
+Qu'en vous portant au bien. Enfin, voyons mon frère.
+
+D'accord.
+
+Elle a grand tort.
+
+Eh, têtebleu, ma Soeur, voyons donc Florimon !
+
+Venez, mes chers amis. Ah, puissent vos enfants,
+Vous rendre quelque jour le plaisir que je sens !
+
+Quel est l'homme qui sort ?
+
+      Il a le front atrabilaire.
+
+      J'aime à te voir bienfaisant.
+
+Bien sans raison, dis vrai ?
+
+      Point de mais, de grâce.
+
+      Je veux qu'on se mette à ma place,
+Et qu'on m'aide du moins à placer mes bienfaits.
+
+      Non, je te blâmerais
+De noircir en public leurs moeurs, leur caractère ;
+Mais avec moi tu dois écarter tout mystère :
+Feindre avec ton ami, serait un trop grand tort.
+
+      Je fais plus, je l'exige :
+Ou confirme, ou détruis le soupçon qui m'afflige.
+Quoi, je ne pourrais pas les rendre tous heureux,
+Moi qui venais exprès !... Mon sort serait affreux.
+
+Cette oisiveté...
+
+Tu dis vrai ; mais...
+
+À peu près : j'ai cru voir qu'elle aime à se citer.
+
+L'on peut voir tout cela d'un autre oeil.
+
+      Eh bien,
+Quoi
+
+Ta bonté, ton esprit prêtent à tout des charmes ;
+Tu veux diminuer, je le vois, mes alarmes.
+Sur mes gardes, pourtant, je n'en serai pas moins.
+
+      Je saurai récompenser tes soins.
+Je veux lire un instant dans l'âme de Constance :
+Je l'attends... La voici. Reviens en diligence
+Dès qu'elle sortira. Tu sauras mes projets.
+
+Feignons, pour ménager un sexe trop sensible.
+
+Embrassez-moi, ma fille, une seconde fois.
+Je crois voir mon ami, sitôt que je la vois.
+Asseyons-nous : Je veux vous consulter, Constance,
+Sur une affaire : elle est de très grande importance.
+Votre père eut dessein d'unir nos deux maisons :
+Vous daignâtes répondre à ses intentions...
+
+Un moment, s'il vous plaît : La fortune cruelle
+M'accable en ce moment du poids de ses revers ;
+Tout mon bien a péri dans le trajet des mers ;
+Mais le vôtre est sauvé...
+
+J'accepte vos bienfaits, généreuse Constance !
+Ordonnez maintenant de la reconnaissance.
+
+      Ma fille
+Vous allez en effet enrichir ma famille ;
+Mais c'est par vos vertus plus que par votre bien.
+Vous penserez toujours de même ?
+
+      Quoi ! Rien
+Ne vous fera changer ?
+
+Vous penserez toujours que d'une main chérie
+Nous pouvons accepter des bienfaits sans rougir ;
+Qu'entre deux vrais amis celui qui peut jouir
+Du bien de réparer un malheur respectable,
+Étant le plus heureux est le plus redevable ?
+
+Félicitez-moi donc, et sachez maintenant
+Ce que je ne pourrais vous cacher dans la suite.
+Votre fortune...
+
+      Un revers l'a détruite.
+
+Auquel de mes Neveux donnez-vous votre foi ?
+Que votre coeur choisisse ; et dans cette journée,
+Vous nous appartenez par un doux hyménée.
+
+À nos conventions, songez, je vous supplie ;
+Oui, songez qu'un refus me fâche et m'humilie.
+Je mérite, je crois, de faire des heureux.
+
+C'est assez, Pour répondre à votre constance,
+Croyez que ma raison va régler la balance.
+J'ai d'un oeil attentif observé mes neveux,
+Et ce soir votre main est au plus vertueux.
+
+Sois heureux, mon ami, je te donne Constance ;
+Elle est digne de toi ; mérite, esprit, naissance...
+
+Tu balances, je crois ?
+
+Sais-tu que je dois tout à son malheureux père ?
+
+Constance n'a rien...
+
+      Mais ce soir, en signant,
+Je prétends lui donner cent mille écus comptant.
+
+      Puisque ton coeur vit dans l'indifférence.
+Que ton frère a des moeurs, qu'il adore Constance,
+Au gré de tes désirs il faut le rendre heureux.
+Annonce-lui son sort : le plutôt vaut le mieux.
+Cours.
+
+Mais, ton front s'obscurcit ! As-tu quelque chagrin ?
+
+Non, parle promptement, ton silence m'outrage.
+
+      Sans doute, et dans l'instant.
+
+      Eh bien !
+
+L'homme a cru triompher de l'homme : projet vain !
+
+Mon cher, je puis encor récompenser ta flamme.
+
+Laisse à mon amitié le soin de son destin.
+L'amour est à son âge une courte folie ;
+Mais lorsqu'on aime au tien, c'est pour toute la vie.
+Va, va, je m'y connais. Tout bien pesé, je crois
+Qu'une femme sera plus heureuse avec toi.
+
+En générosité tu ne me vaincras point.
+
+Tu me ravis, mon cher, en tenant ce langage.
+
+Va dire là-dedans qu'on appelle un notaire.
+
+      Tu me l'apprendras ; cours, obéis avant.
+
+      Fais ce qu'on te dit.
+
+Toujours de grands secrets pour rien.
+
+      Que voulez-vous ?
+
+      À quel sujet ?
+
+      Oui.
+
+      Est-il possible !
+Quoi, vous riez !
+
 Morbleu, je ne ris point,  S'il eut privé mon coeur
 Du plaisir de t'aimer, de faire tan bonheur !...
 
--*who_philemon
-Vous me faites frémir !
-
--*who_polidor
       Le monstre !
 
--*who_philemon
-      Il faut l'entendre.
-
--*who_durand
-Je l'accusais : soudain, ami sensible et tendre,
-Monsieur m'a confondu par vingt traits généreux.
-Il voulait partager son bien entre nous deux.
-
--*who_philemon
-Que j'ai bien fait !
-
--*who_durand
-      Alors certain de son mérite,
-J'ai volé vers Clermon, pour le détromper vite ;
-Il était reparti, ce malheureux valet.
-
--*who_polidor
 Âme vile ! Tramant le plus lâche projet,
 Vous vouliez perdre, qui ? Celui dont au contraire
 Vous deviez au besoin être l'appui, le père !
@@ -1969,86 +996,31 @@ Le Sage, en s'éloignant, fait place au mercenaire ;
 Pour un bon gouverneur, on voit cent plats valets,
 Livrer le fils au vice, et le père aux regrets.
 
-**** *book_ *id_III08 *act_III *date_1777
-
--*who_clermon
-Vous êtes obéi : Mais puis-je enfin vous dire ?...
-
--*who_polidor
 Son air mystérieux à mon tour me fait rire.
 
--*who_clermon
-À quel propos ?...
-
--*who_philemon
-      Un rien doit-il donc t'étonner ?
-Je suis bien criminel : parle sans te gêner.
-J'ai surtout le défaut de n'aimer que moi-même.
-Tu vois, mon oncle en est dans un courroux extrême.
-
--*who_clermon
-Quoi, Monsieur, vous savez ?...
-
--*who_polidor
       Sans doute.
 
--*who_durand
-      J'ai tout dit.
-
--*who_clermon
-Je ne vois pas pourquoi cela vous réjouit.
-
--*who_philemon
-Clermon est bon enfant.
-
-**** *book_ *id_III09 *act_III *date_1777
-
--*who_polidor
       Mon ami, tout ici me fait assez comprendre
 Que mon coeur et le tien sont faits seuls pour s'entendre.
 
--*who_philemon
-Je ne puis exprimer combien il est flatteur...
-
--*who_polidor
 Point de remerciement ; j'ai ma part du bonheur.
 À mes nobles projets viens que je t'associe :
 Je suis encor d'un âge à servir ma patrie :
 J'ai trois millions.
 
--*who_philemon
-      Oh !
-
--*who_polidor
       Quinze cents mille francs
 Feront entre tes mains le sort de tes parents :
 Avec le reste, moi, j'augmente ma fortune,
 Et reviens la verser dans la caisse commune :
 Nous ferons des heureux !
 
--*who_philemon
-      Voilà les biens réels !
-Le plaisir réunit le commun des mortels ;
-Les méchants, les pervers, sont unis par le crime ;
-Et nos liens seront les vertus...
-
--*who_polidor
       Et l'estime !
 
--*who_philemon
-Du pouvoir des vertus je suis édifié.
-
--*who_polidor
 J'embrasse avec transport mon cher associé. 
 Oh, ça, te voilà donc un grave personnage,
 Un chef ! Tremble en songeant à quoi ce titre engage :
 Point d'égoïsme, au moins.
 
--*who_philemon
-      Mais, mon oncle, entre nous,
-Par égoïsme enfin, voyons, qu'entendez-vous ?
-
--*who_polidor
 Peu masqué chez Durand, il n'est pas fort à craindre ;
 Indolent chez ton père, il ne le rend qu'à plaindre ;
 Loin de nuire à ton frère, il nous laisse entrevoir
@@ -2078,570 +1050,48 @@ Mes portraits déplairaient par trop de ressemblance.
 Juge, et frémis surtout de l'horreur du tableau ;
 Je peindrais des humains la honte et le fléau.
 
--*who_philemon
-Quel monstre ! J'ignorais jusqu'à son existence.
-
--*who_polidor
 Tant mieux, mon cher ami ; garde ton ignorance.
 Viens partager nos biens, viens signer ton contrat :
 De Constance assurons le bonheur et l'état.
 
-**** *book_ *id_IV01 *act_IV *date_1777
-
--*who_clermon
-Marton, je suis chagrin.
-
--*who_marton
-      Clarmon, je suis chagrine.
-
--*who_clermon
-Que font-ils en secret dans la chambre voisine ?
-
--*who_marton
-J'ai vu certain notaire...
-
--*who_clermon
-      Y serait-il encor ?
-
--*who_marton
-Oui : je crains pour Constance.
-
--*who_clermon
-      Et moi pour Polidor.
-Quand il n'a demandé tantôt son porte-feuille,
-Si j'avais cru... Marton, je tremble qu'il ne veuille
-S'en dessaisir... Pour qui ?... Si je pouvais ravoir.
-Pendant une minute ou deux, en mon pouvoir
-Ce porte-feuille...
-
--*who_marton
-      Eh bien ?
-
--*who_clermon
-      Sans prévenir mon maître
-Je saurais lui donner le temps de bien connaître
-Cet homme dangereux, qui nous trouble si fort.
-
--*who_marton
-Ah ! Quel bonheur !
-
--*who_clermon
-      Oui, mais à moins d'un coup du sort...
-Contre notre ennemi ne pourrais-tu rien faire ?
-
--*who_marton
-Pour redoubler l'ardeur de son jeune adversaire,
-Je viens de lui prouver qu'on l'aime éperdument.
-
--*who_clermon
-Bien. Moi, je vais guetter Philemon et Durand.
-
--*who_marton
-Songe à ce porte-feuille, objet de tes alarmes.
-
--*who_clermon
-Va, va, que je le tienne, et je m'en fais des armes
-Triomphantes. Marton, quel bonheur ! Quel plaisir !
-Si, servant Polidor au gré de mon désir,
-Je démasquais... Suffit ; en serviteur fidèle,
-Je n'écouterai rien que mon coeur et mon zèle.
-
--*who_marton
-Tu devrais bien, Clermon, me mettre du complot.
-
--*who_clermon
-Volontiers... Chut, on vient.
-
--*who_marton
-      Je te joindrai bientôt.
-
-**** *book_ *id_IV02 *act_IV *date_1777
-
--*who_lechevalier
-Craignez le désespoir de l'amant le plus tendre.
-
--*who_constance
-Laissez-moi, je ne dois vous voir, ni vous entendre.
-
--*who_lechevalier
-Au moment où Marton, en m'ouvrant votre coeur,
-A fait luire à mes yeux un rayon de bonheur...
-
--*who_constance
-Ah ! Ne redoublez pas mes regrets, mes alarmes !
-Mes yeux, vous le voyez, se remplissent de larmes.
-Évitez le malheur qui s'attache à mes pas ;
-Plaignez-vous, plaignez-moi, mais ne m'accusez pas.
-Pénétré du respect que Polidor inspire,
-Mon coeur n'a pas osé tout haut le contredire.
-
--*who_lechevalier
-Vous me faites frémir et pour vous et pour moi.
-
--*who_constance
-Tout est perdu.
-
--*who_marton
-      Cherchons quelque moyen.
-
--*who_constance
-      Eh quoi !
-N'ai-je donc pas signé l'arrêt de mon supplice ?
-Demain doit s'achever cet affreux sacrifice !
-Comment concilier l'amour et le devoir ?
-Que puis-je ?
-
--*who_lechevalier
-      D'un seul mot ranimer mon espoir.
-Pour désarmer le sort dont je suis la victime,
-La vertu servira l'intérêt qui m'anime.
-Je le jure à vos pieds ; oui !...
-
--*who_constance
-      Relevez-vous.
-
--*who_marton
-      Non.
-Vous êtes bien, restez, j'aperçois Philemon.
-
-**** *book_ *id_IV03 *act_IV *date_1777
-
--*who_constance,lechevalier
-Dieux !
-
--*who_philemon
-      Quoi !
-
--*who_marton
-      Mais, restez donc.
-
--*who_constance
-      Je suis anéantie.
-
--*who_marton
-Parlez, vous.
-
--*who_lechevalier
-      Décidez du bonheur de ma vie.
-
--*who_philemon
-Oui da, ... mais ce n'est pas à son coeur que j'en veux.
-Rentrons pour n'être pas ou dupe ou généreux.
-
-**** *book_ *id_IV04 *act_IV *date_1777
-
--*who_marton
-Il se sauve.
-
--*who_constance
-      À ses yeux je suis déshonorée !
-Que dira-t-on de moi ? Je meurs désespérée.
-
--*who_lechevalier
-Eh ! Quoi ! Vous me fuyez ?
-
-**** *book_ *id_IV05 *act_IV *date_1777
-
--*who_marton
-      N'arrêtez point ses pas,
-Elle va réfléchir, et vous n'y perdrez pas.
-L'amour-propre saura décider votre amante ;
-Et d'ailleurs, croyez-moi, toute femme prudent
-D'un témoin indiscret ne fait point son époux :
-Au moindre petit mot, il faudrait filer doux.
-Prudence, amour, fierté, tout vous sert.
-
--*who_lechevalier
-      Tu me charmes !
-Mais je ressens encor les plus vives alarmes.
-
--*who_marton
-Tout va bien. Du récit de vos tendres chagrins
-Allez intéresser parents, amis, voisins.
-Bon ! commencez.
-
-**** *book_ *id_IV06 *act_IV *date_1777
-
--*who_florimon
-      Où fuir ? Vous me rompez la tête.
-Encore... Eh bien ! Vas-tu me parler de la fête ?
-
--*who_lechevalier
-Mon père, je me meurs ; daignez me secourir.
-
--*who_florimon
-Mourir-si jeune ! Attends, je m'en vais revenir.
-
--*who_lechevalier
-Mon frère ne peut être heureux avec Constance :
-Je l'adore, et mon coeur obtient la préférence ;
-Sa bouche m'en a fait l'aveu le plus charmant.
-
--*who_florimon
-Tu ne meurs que d'amour ! Ah ! Tant mieux, mon enfant.
-
--*who_lechevalier
-Nous brûlons d'une ardeur et si pure et si tendre !...
-
--*who_florimon
-Mon café sera froid, je vais vite le prendre,
-Et te donne en passant un conseil des meilleurs.
-
--*who_lechevalier
-Puissé-je vous devoir la fin de mes malheurs !
-
--*who_marton
-      Voyons.
-
--*who_florimon
-N'entretiens plus d'un mal imaginaire
-Les malheureux vieillards ; un septuagénaire
-Peut-il s'intéresser aux chagrins des amants ?
-Il ferait ses beaux jours de leurs cruels tourments !
-Ne les compare pas à la funeste image
-Que présente le temps aux hommes de mon âge ;
-Ne les mets qu'à côté de nos privations,
-Et juge. Mon café...
-
--*who_marton
-      Belles conclusions !
-
-**** *book_ *id_IV07 *act_IV *date_1777
-
--*who_lechevalier
-Je suis anéanti.
-
--*who_marton
-      Ne perdez point courage.
-
-**** *book_ *id_IV08 *act_IV *date_1777
-
--*who_marton
-Que Philemon triomphe, et j'étouffe de rage !
-Mais il faut l'observer... le voici qui revient.
-
-**** *book_ *id_IV09 *act_IV *date_1777
-
--*who_philemon
-Les amants sont sortis.
-
--*who_marton
-      Oh, oh, qu'est-ce qu'il tient ?
-
--*who_philemon
-Quinze cents mille francs ! Les voilà : quelle somme !
-Il faut en convenir, le cher oncle est bonhomme.
-
--*who_marton
-Cherchons Clermon. Le péril est pressant.
-
-**** *book_ *id_IV10 *act_IV *date_1777
-
--*who_philemon
-Les miens de ces billets connaissent le montant
-À me solliciter chacun déjà s'empresse...
-J'ai des principes sûrs. Oui, leur sort m'intéresse :
-Le sang... l'humanité... Je m'en occupe fort.
-Mais je veux librement disposer de leur sort.
-Si par quelque détour qu'on ne pourrait connaître...
-Il serait bien plaisant que Monsieur mon cher Maître
-Voulût imaginer un projet aujourd'hui
-Dont le mauvais succès ne tombât que sur lui.
-Il me sert si bien...
-
-**** *book_ *id_IV11 *act_IV *date_1777
-
--*who_durand
-      J'ai des grâces à vous rendre,
-L'ouvrage fait grand bruit.
-
--*who_philemon
-      Bon
-
--*who_durand
-      Je viens d'en répandre
-Cent exemplaires.
-
--*who_philemon
-      Où ?
-
--*who_durand
-      Dans vingt cafés brillants.
-
--*who_philemon
-Changeons de discours. J'ai quinze cents mille francs :
-Vous savez à quel prix mon oncle me les laisse ?
-
--*who_durand
-Oui.
-
--*who_philemon
-      Mes parents viendront me désoler sans cesse.
-Je suis facile, moi, comme on dit, bon humain ;
-Ils dépenseront tout ; puis j'aurai le chagrin
-De les voir derechef manquer du nécessaire.
-Je les connais.
-
--*who_durand
-      Pas mal... Mais il pourrait se faire
-Qu'on prévînt ce malheur ; et le tout pour leur bien.
-Attendez ; j'entrevois pour cela... tel moyen...
-
-**** *book_ *id_IV12 *act_IV *date_1777
-
--*who_marton
-Les voilà réunis.
-
--*who_durand
-      Tous les jours on égare
-Des lettres, des billets... Oui, cela n'est pas rare.
-Et j'ai vu mille gens dans un semblable cas.
-
--*who_clermon
-Que diable trament-ils ? Suivons, je n'entends pas.
-
--*who_durand
-On peut rendre la chose et possible et croyable :
-Comme je la conçois elle est très vraisemblable.
-Votre porte-feuille est sur cette table-là,
-Par exemple.
-
--*who_clermon
-      Celui de Polidor ?... Oui da !
-
--*who_durand
-Nous allons, nous venons, nous raisonnons ensemble.
-
--*who_clermon
-Oh, quel bonheur !
-
--*who_durand
-      Il est possible, ce me semble,
-Que quelqu'un, en passant, dessus mette la main.
-
--*who_clermon
-L'avis est bon.
-
--*who_durand
-      Et puisqu'il décampe soudain.
-
-**** *book_ *id_IV13 *act_IV *date_1777
-
--*who_durand
-Nous dirons avoir vu quelqu'un en sentinelle.
-De par Plaute, la scène est comique et nouvelle !
-Répétons-là.
-
--*who_philemon
-      Le tour est indigne de moi :
-Je ne veux pas risquer qu'on soupçonne ma foi.
-Mon porte-feuille ?
-
--*who_durand
-      Eh bien ?
-
--*who_philemon
-      Il n'est plus là.
-
--*who_durand
-      Peut-être
-Vous l'a-t-on volé.
-
--*who_philemon
-      Qui ?
-
--*who_durand
-      Je soupçonne le traître
-Qui passait, repassait.
-
--*who_philemon
-      Où donc ?
-
--*who_durand
-      Là.
-
--*who_philemon
-      Quand ?
-
--*who_durand
-      Tantôt.
-
--*who_philemon
-Eh ! Que ne parliez vous ? Courons tout au plutôt.
-
--*who_durand
-Bien.
-      Le voleur s'enfuit : il faut le faire pendre.
-
--*who_philemon
-Parlez-vous tout de bon ?
-
--*who_durand
-      Sans doute. Est-ce l'entendre ?
-Quelle horreur ! Des filous jusques dans les maisons !
-
--*who_philemon
-Avez-vous mes billets ? Expliquons-nous, voyons.
-
--*who_durand
-Fi ! Le voleur avait une mauvaise mine.
-Il faut crier plus fort.
-
--*who_philemon
-      Le traître m'assassine.
-
--*who_durand
-Pas mal : on vous croirait tout de bon en courroux.
-
--*who_philemon
-Mon trouble m'égarait : je ne m'en prends qu'à vous :
-Mes billets.
-
--*who_durand
-      Oh, ceci passe la raillerie !
-
--*who_philemon
-Vous me les rendrez.
-
--*who_durand
-      Ah ! Vous m'étranglez, je crie !
-
--*who_philemon
-Ils étaient dans vos mains : je n'écoute plus rien.
-
--*who_durand
-Votre oncle...
-
--*who_philemon
-      Que lui dire ?
-
--*who_durand
-      Ouf, il feignait trop bien !
-
-**** *book_ *id_IV14 *act_IV *date_1777
-
--*who_polidor
 Je fuis le Chevalier : l'on dit qu'il se chagrine.
 Eh ! Morbleu, je le plains plus qu'il ne l'imagine !
 
--*who_clermon
-Tout est bien préparé.
-
--*who_polidor
       Mais, toi, mon cher ami,
 Qu'est-ce ? Tu me parois avoir quelque souci ?
 J'ai contre tes chagrins un remède peut-être.
 
--*who_philemon
-Souffrez que je vous quitte. Un scélérat, un traître
-M'a ravi vos billets.
-
--*who_polidor
       Les voici.
 
--*who_philemon
-      Quel bonheur !
-
--*who_clermon
-Nous verrons, nous verrons.
-
--*who_polidor
       Et voilà le voleur.
 
--*who_clermon
-J'en tire vanité.
-
--*who_polidor
       Cet homme irréprochable
 A pris mon porte-feuille, en passant, sur la table,
 Je le rapporte vite à mon associé ;
 Mais qu'il soit plus soigneux.
 
--*who_philemon
-      Écoutez-moi, de grâce.
-Les billets étaient-là, j'étais à cette place :
-Pourquoi ?...
-
--*who_clermon
-Quand il s'agit, de Monsieur, de son bien,
-Ma cervelle se monte, et ne respecte rien.
-D'ailleurs vous discutiez une importante affaire ;
-En vous interrompant, j'aurais cru vous déplaire.
-Rapportez à Monsieur quelques mots seulement
-De ce que vous disiez en secret à Durand ;
-Il va, j'en suis certain, admirer ma prudence.
-
--*who_philemon
-Ce drôle m'interdit, et son ton d'insolence...
-
--*who_polidor
 Te voilà confus ; conviens-en bonnement.
 Tu n'y seras plus pris, n'est-ce pas ?
 
--*who_philemon
-      Sûrement.
-
--*who_polidor
 Va-t'en vite traiter de la charge importante
 Dont nous parlions tantôt, cours remplir mon attente.
 Je songe à ton bonheur, toi, fais celui des tiens.
 
--*who_philemon
-Je vais m'en occuper. En dirigeant vos biens,
-A nos conventions je songerai sans cesse.
-Au lieu des goûts divers qu'inventa la mollesse,
-Quand voudra-t-on se faire une félicité
-De remplir les devoirs chers à l'humanité !
-
--*who_polidor
 C'est parler en homme.
 
-**** *book_ *id_IV15 *act_IV *date_1777
-
--*who_clermon
-      Ah ! Monsieur !...
-
--*who_polidor
       Qu'as-tu ?
 
--*who_clermon
-      Je crains
-Que l'on ne vous prépare ici bien des chagrins.
-
--*who_polidor
 Quoi ! Toujours soupçonneux !
 
--*who_clermon
-      Mon respectable Maître ;
-J'ai fait parler Durand, et j'ai trop su connaître
-Que Monsieur Philémon et l'espoir du profit
-L'ont fait se démentir de ce qu'il m'avait dit.
-
--*who_polidor
 Philémon est honnête, et Durand est un lâche ;
 Quant à vous, respectez...
 
--*who_clermon
-      Je sors.
-
--*who_polidor
       Ce ton te fâche,
 Ne l'impute, mon cher, qu'à ma vivacité.
 Reviens ; tu peux parler en toute liberté.
 
--*who_clermon
-Votre Neveu, dit-on, trop habile à séduire ;
-À dépendre de lui pourrait bien vous réduire ;
-C'est la crainte, Monsieur, de toute la maison,
-Des amis, des voisins ; interrogez Marton.
-
--*who_polidor
 Mon ami, tu me fais une peine mortelle.
 
--*who_clermon
-Je ne le sens que trop, pardonnez à mon zèle.
-
--*who_polidor
 Quoi ! Philemon serait !... Comme il peint la candeur !
 On dirait qu'elle-même habite dans son coeur.
 Mais le vil imposteur qui, me parlant sans cesse
@@ -2649,26 +1099,14 @@ D'honneur et de franchise, eut la scélératesse
 De me voler d'un trait seize cent mille francs,
 Avait tous les dehors encor plus séduisants.
 
--*who_clermon
-Je n'osais pas citer cet exemple ; et peut-être...
-
--*who_polidor
 Je les garde avec soin tous les billets du traître.
 Pour mieux me défier de tout le genre humain ;
 Tu les vois sous mes yeux le soir et le matin.
 
--*who_clermon
-À l'instant même.
-
--*who_polidor
       Eh bien, tel est mon caractère !
 De ma facilité je ne puis me défaire :
 Non ; d'être défiant je n'ai pas le pouvoir.
 
--*who_clermon
-Il sera corrigé, j'espère dès ce soir.
-
--*who_polidor
 Quoi ! Mon neveu serait !... Je frémis quand je pense
 Que lorsque j'ai parlé de marier Constance,
 Et de la lui donner avec cent mille écus,
@@ -2676,56 +1114,15 @@ Tout-à-coup interdit, embarrassé, confus,
 Tantôt voulant servir ou supplanter son frère...
 Mon ami, quel soupçon ! Comme il me désespère !
 
--*who_clermon
-Ne croyez ni Durand, ni Philémon, ni moi ;
-Vous pouvez éprouver...
-
--*who_polidor
       Je le fais comme toi :
 Mais comptes-tu pour rien ce qu'il en coûte à feindre ?
 
--*who_clermon
-Taisons-nous, de son coeur nous aurions trop à craindre ;
-Mais j'aurai lieu, je crois, de me féliciter.
-
-**** *book_ *id_IV16 *act_IV *date_1777
-
--*who_constance
-Ah ! Ciel !
-
--*who_polidor
       D'où naît ce trouble ?
 
--*who_constance
-      On vient de l'arrêter ;
-
--*who_polidor
 Oui donc ?
 
--*who_constance
-Le Chevalier. Je ne saurais survivre
-À ce coup.
-
--*who_polidor
       Quel sujet ?
 
--*who_marton
-      Durand a fait un livre
-Très peu goûté, dit-on, par le Gouvernement.
-On l'a voulu conduire en prison. À l'instant,
-Monsieur le Chevalier a tiré son épée ;
-L'Exempt scandalisé d'une telle équipée
-A trouvé le secret de le pétrifier,
-En lui donnant à lire un morceau de papier.
-De la prison enfin tous trois ont pris la route.
-
--*who_constance
-Volez à son secours.
-
--*who_marton
-      L'orgueil est en déroute.
-
--*who_polidor
 Constance... Malgré vous je lis dans votre coeur.
 Imprudent que je suis, j'ai fait votre malheur !...
 Pourquoi de vos secrets m'avoir fait un mystère ?
@@ -2733,316 +1130,80 @@ Eh quoi ! Ne suis-je pas votre ami, votre père ?
 Notre sort peut changer avant la fin du jour.
 Viens ; Clermon.
 
-**** *book_ *id_IV17 *act_IV *date_1777
-
--*who_constance
-      L'on dirait qu'il connaît mon amour.
-Quel malheur, si j'allais perdre encor son estime !
-
--*who_marton
-Faites toujours l'enfant ! L'amour est-il un crime ?
-
--*who_constance
-Au contraire, Marton ; je le vois, je le sens ;
-Oui, la vertu lui doit ses plus nobles élans :
-Il élève mon coeur au-dessus du vulgaire.
-Je n'étais jusqu'ici qu'une amante ordinaire ;
-J'aimais le Chevalier, sans rien faire pour lui :
-Je veux que par moi seule il soit libre aujourd'hui.
-Qu'on connaisse mes feux, ou bien qu'on les ignore,
-Peu m'importe, Marton, je sers ce que j'adore.
-Tous les instants sont chers : viens, suis moi.
-
--*who_marton
-      Bon cela.
-Le coeur en vain résiste, il faut en venir là.
-
-**** *book_ *id_V01 *act_V *date_1777
-
--*who_polidor
 Eh, courez donc, morbleu.
 
--*who_florimon
-      Toujours venir, aller.
-
--*who_polidor
 Philemon... Le perfide !... On vient de l'exiler ;
 Et pour comble de maux, il est inexcusable :
 J'ai lu cette brochure, elle est abominable.
 
--*who_florimon
-Pourquoi faut-il ici que tout roule sur moi ?
-Qu'on ne puisse pas vivre un seul instant pour soi.
-
--*who_polidor
 Et de plus...
 
--*who_florimon
-      Je fais tout, et pour comble de peine,
-Je l'apprends à l'instant de ma méridienne :
-Je ne pourrai dormir peut-être que ce soir.
-
--*who_polidor
 Pour Philemon, il part, mais cherchons à ravoir
 Le Chevalier.
 
--*who_florimon
-      Eh !
-
--*who_polidor
       Qu'est-ce ? Il vous faut une chaise ?
 La voilà. Concertons...
 
--*who_florimon
-      Je suis mal à mon aise.
-Eh !
-
--*who_polidor
       Que vous manque-t-il ?
 
--*who_florimon
-      Un fauteuil.
-
--*who_polidor
       Le voilà.
 Nous n'avons pas besoin de vos gens pour cela.
 
--*who_florimon
-Quoi ! Vous ne craignez pas d'échauffer votre bile ?
-Vous vous fatiguez trop.
-
--*who_polidor
       Non, non, soyez tranquille.
 Avec votre sang-froid vous vous moquez, je crois.
 
--*who_florimon
-Qu'on ne puisse pas vivre un seul instant pour soi !
-
--*who_polidor
 Vous aimez vos enfants ?
 
--*who_florimon
-      Vraiment oui, je les aime ;
-Je ne le sens que trop à mon chagrin extrême :
-Ils me feront mourir, sur-tout cet imprudent,
-Qui va mal-à-propos défendre son Durand.
-Voyons. Rêvez pour moi. Que faut-il que je fasse ?
-
--*who_polidor
 Pour lui, chez le Ministre, aller demander grâce.
 
--*who_florimon
-Chez le Ministre ! Il loge au bout de l'Univers :
-Il fait, vous le savez, le plus dur des hivers.
-
--*who_polidor
 Je vous ai vu jadis avoir un coeur sensible.
 Pour un enfant chéri faites donc l'impossible.
 Morbleu, si je pouvais moi seul le secourir,
 Voudrais-je partager avec vous ce plaisir !
 
--*who_florimon
-Pour une fluxion, heureux si j'en suis quitte !
-Ô nature, nature !... Eh, qu'on m'habille !
-
--*who_polidor
       Vite.
 
-**** *book_ *id_V02 *act_V *date_1777
-
--*who_madameflorimon
-Je sors pour un instant, et tout va mal ici...
-Mon mari qu'on habille ! Ah, grands Dieux, qu'est ceci ?
-
--*who_polidor
 A l'autre.
 
--*who_madameflorimon
-      Y pensez-vous ! Eh, que voulez-vous faire ?
-
--*who_florimon
-Moi ? Rien, si je pouvais.
-
--*who_madameflorimon
-      Pourquoi donc !
-
--*who_florimon
-      C'est mon frère.
-Qui prétend que je dois... aller... courir... venir...
-Ô Dieux, quelle fatigue !
-
--*who_madameflorimon
-      Il vous fera mourir.
-De vos bontés pour nous c'est une preuve claire :
-Fatiguer mon mari, lui qui ne peut rien faire !...
-
--*who_florimon
-Vraiment non.
-
--*who_madameflorimon
-      Me réduire à ne faire plus rien,
-Moi ? Vraiment, tout ici s'en trouverait très bien !
-Témoin le Chevalier et sa triste aventure.
-Je le délivrerai.
-
--*who_polidor
       Vous, ma soeur ?
 
--*who_madameflorimon
-      J'en suis sûre.
-Il est mon vrai portrait ; tout le monde le dit.
-Qu'il m'a coûté de soins quand il était petit !
-Les mères rarement se donnent tant de peine.
-Mais moi...
-
--*who_polidor
       Ramenez-vous sans cesse sur la scène ;
 Parlez-nous bien de vous, de vous, et puis de vous.
 
--*who_madameflorimon
-Moi ! Quelle fausseté !
-
--*who_polidor
       Vous vous moquez de nous.
 Ne vous citez-vous pas depuis une heure entière ?
 
--*who_madameflorimon
-C'est me calomnier d'une étrange manière.
-
--*who_polidor
 Le moyen d'y tenir ! Voilà l'autre qui dort.
 
--*who_madameflorimon
-C'est qu'il compte sur moi.
-
--*who_polidor
       Le trait est par trop fort.
 Puisque vote le voulez, agissez donc, Madame.
 Elle exalte sa tête, et point du tout son âme.
 Quelles gens ! Quel pays ! J'irai chercher des lieux
 Ou l'on ait du plaisir à faire des heureux.
 
-**** *book_ *id_V03 *act_V *date_1777
-
--*who_marton,clermon
-Monsieur et le Chevalier !
-
--*who_madameflorimon
-      Ah, que je suis charmée !
-
--*who_polidor
 C'est lui !
 
--*who_madameflorimon
-      Chez le Ministre il m'aura réclamée.
-
--*who_lechevalier
-Ne plaignez plus mon sort ; non, j'en suis trop flatté.
-Si vous saviez à qui je dois ma liberté !
-
--*who_madameflorimon
-À moi, sans contredit.
-
--*who_lechevalier
-      À l'aimable Constance.
-Elle a pressé, prié, mais avec tant d'instance,
-Les soeurs de Clidamant, ses enfants, ses amis
-Qu'en ma faveur ses soins les ont tous réunis.
-Eh, qui saura fixer la faveur sur ses traces,
-Si ce n'est la Vertu sous la forme des Grâces !
-
--*who_polidor
 Comment nous acquitter ?
 
--*who_constance
-      En lisant dans mon coeur.
-
--*who_lechevalier
-Mon oncle, y lisez-vous l'excès de mon bonheur ?
-
--*who_polidor
 Le Notaire... Il attend dans la chambre prochaine.
 
--*who_florimon
-Ah, te voilà, tant mieux ! J'ai bien eu de la peine.
-Ah ça... Pour Philémon, vous savez, entre nous,
-Que je ne puis agir... Je m'en rapporte à vous :
-Voyez, arrangez tout pour le mieux, je vous prie :
-Je sens bien qu'il y va du bonheur de ma vie...
-Je vais me retirer tranquillement chez moi.
-Qu'on ne puisse pas vivre un seul instant pour soi !
-
-**** *book_ *id_V04 *act_V *date_1777
-
--*who_lechevalier
-Quel triste événement vient altérer ma joie ?
-Philémon, m'a-t-on dit, au malheur est en proie.
-Mon oncle, est-il bien vrai ? Mon frère...
-
--*who_polidor
       Est exilé.
 
--*who_madameflorimon
-Exilé ?
-
--*who_polidor
       Pour son Livre.
 
--*who_madameflorimon
-      Il sera rappelé.
-J'ai du crédit.
-
--*who_polidor
       Beaucoup.
 
--*who_madameflorimon
-      Laissez, laissez-moi faire,
-J'arrangerai cela... Vous sentez bien, mon frère...
-Qu'ayant connu les soeurs du Ministre au couvent,
-Le Chevalier me doit son élargissement.
-On rend, vous le voyez, justice à mon mérite.
-Je vais pour Philémon solliciter bien vite.
-
-**** *book_ *id_V05 *act_V *date_1777
-
--*who_polidor
 Nous vous attendions tous. Pourrons-nous, sans éclat,
 Trouver moyen, Monsieur, d'annuler le contrat
 De Philémon.
 
--*who_lenotaire
-      Monsieur, il faut, au préalable,
-L'aveu des accordés, sans quoi rien n'est faisable.
-Madame le veut bien ; mais Monsieur Philémon
-Sur cet article-là n'entendra pas raison.
-
--*who_polidor
 Peut-il nous résister ? Son exil... Il l'ignore,
 Mais...
 
--*who_lenotaire
-      Il peut, le sachant, vous résister encore ;
-Croyez-moi, vous n'avez qu'un parti, la douceur.
-
--*who_polidor
 La douceur !
 
--*who_lenotaire
-      Il faudrait le prier.
-
--*who_lechevalier
-      De grand coeur.
-
--*who_lenotaire
-Le dédommager...
-
--*who_polidor
       Qui ? Philémon ?
 
--*who_lenotaire
-      S'il l'exige.
-
--*who_polidor
 Si je n'étouffe point, ma foi, c'est un prodige !
 Des dédommagements après ce que j'ai fait !
 Le traître !... Si, pour prix d'un signalé bienfait,
@@ -3050,66 +1211,18 @@ Il poussait à ce point et l'audace et le crime !...
 Tout sert à redoubler le courroux qui m'anime.
 Sachons s'il a le front...
 
--*who_constance
-      Il porte ici ses pas.
-
--*who_polidor
 Qu'il vienne ! Je veux voir...
 
--*who_lechevalier
-      Non, qu'il n'approche pas.
-Mon Oncle, la colère agite trop votre âme ;
-Dans un instant plus calme il vous fera...
-
--*who_polidor
       L'infâme !
 J'en mourrai, je le sens. Combien il est cruel !...
 
--*who_lechevalier
-Nous ne souffrirons pas...
-
--*who_constance
-      Venez, Monsieur.
-
--*who_polidor
       Ô Ciel !...
 Oui, je sors un instant ; la fureur est trop prompte,
 Et je veux de sang-froid l'accabler de sa honte.
 
-**** *book_ *id_V06 *act_V *date_1777
-
--*who_philemon
-De Durand me voilà défait bien plaisamment ;
-Il ne me nuira pas, grâce au Gouvernement.
-Je suis vraiment fâché que, par étourderie,
-Mon frère à son pédant serve de compagnie.
-Dans le temps qu'on s'occupe à le faire sortir,
-À sa maîtresse, moi, je travaille à m'unir :
-J'achète de sa dot une terre jolie,
-Aux portes de Paris, mais seulement à vie.
-Ensuite, pour jouir d'un plus gros revenu,
-Je placerai beaucoup, beaucoup à fond perdu.
-Mes enfants ?... Je n'ai pas l'honneur de les connaître.
-À la Cour maintenant daignerais-je paraître ?
-Ou, Roi dans mon Palais, entouré de mes gens,
-Feindrai-je d'insulter aux soins des Courtisans ?
-Non ; il faut une Charge. Oui, mais il m'en faut une
-Qui rapporte beaucoup, qui, sans être importune,
-Soumette tout un peuple à mes caprices vains,
-Et donne parfois l'air de servir les humains.
-Voilà, pour être heureux, ce qu'un sage peut faire...
-Oui, c'est à peu près tout.
-
-**** *book_ *id_V07 *act_V *date_1777
-
--*who_polidor
       LA fortune légère
 A souvent des revers pour les coeurs vicieux.
 
--*who_philemon
-Pensez-vous ?...
-
--*who_polidor
       Tout concourt à dessiller mes yeux.
 Ces éloges outrés que, d'un ton emphatique
 Vous donnez aux vertus, l'homme qui les pratique,
@@ -3120,29 +1233,13 @@ Votre art à démêler des vices dans les autres,
 Ce Livre dangereux, cet ouvrage pervers,
 Qui jeta votre frère et Durand dans les fers...
 
--*who_philemon
-Il n'est pas de moi...
-
--*who_polidor
       Vois à quoi le vice engage.
 Il te force à rougir même de ton ouvrage.
 L'Imprimeur a parlé.
 
--*who_philemon
-      Je n'en puis revenir.
-
--*who_polidor
 Pour son propre intérêt il devait te trahir.
 Pourquoi faire à Durand un présent si nuisible ?
 
--*who_philemon
-Hélas ! Il faut s'en prendre à mon coeur trop sensible.
-Hors mon ouvrage, alors je ne possédais rien ;
-Je gémissais de voir mon Précepteur sans bien ;
-Il fut, me suis-je dit, l'appui de ma jeunesse ;
-C'est à moi désormais d'étayer sa vieillesse.
-
--*who_polidor
 Étayer sa vieillesse ! Eh comment ! Juste Ciel !
 En mettant sous son nom un Livre plein de fiel ;
 Enfant né du dépit, plutôt que de l'étude,
@@ -3152,10 +1249,6 @@ Tout ce qu'il n'a pas eu la gloire d'inventer ;
 Où, donnant des conseils dictés par l'infamie,
 Vous offrez les moyens d'opprimer la patrie.
 
--*who_philemon
-On veut se faire un sort... on cherche un protecteur.
-
--*who_polidor
 Eh ! Quel mortel aurait assez peu de pudeur
 Pour avouer l'auteur d'un misérable livre
 Où l'Égoïsme est peint comme un système à suivre ?
@@ -3174,111 +1267,35 @@ Pourront soumettre un peuple au joug de l'esclavage.
 Ton Livre à chaque mot distille le poison.
 Qui t'a donc conseillé d'écrire ?
 
--*who_philemon
-      Ma raison.
-
--*who_polidor
 Fort bien : votre raison vous est très favorable ;
 L'exil en est le prix.
 
--*who_philemon
-      Oh malheur qui m'accable !
-Cet exil si cruel pour les hommes communs,
-Me fait rompre à la fois vingt liens importuns,
-Et je pourrai tout seul jouir de ma richesse.
-Plus de frein. Vous voyez l'excès de ma tristesse.
-Ah !
-
--*who_polidor
       Je reprends les soins dont mon coeur vous chargeait.
 
--*who_philemon
-Douleur trop vive ! Adieu.
-
--*who_polidor
       Mes billets, s'il vous plaît.
 
--*who_philemon
-Un mortel qu'on arrache au sein de sa patrie,
-A besoin, pour traîner une importune vie...
-
--*who_polidor
 Quoi ! Vous auriez le front de vous approprier
 Le dépôt qu'en vos mains je daignai confier ?
 Je vous l'avais remis pour rendre heureux mon frère,
 Votre mère, Constance à qui je sers de père.
 Que dira-t-on de vous ?
 
--*who_philemon
-      L'opinion d'autrui
-Au Sage importe peu, s'il est bien avec lui.
-Au sein de la vertu mon âme est fort tranquille.
-
--*who_polidor
 Ta vertu disparaît devant tout vice utile.
 Et la dot de Constance, en quatorze billets,
 Va-t-elle avoir le sort de mes autres effets ?
 Allez-vous la garder ?
 
--*who_philemon
-      Du moins je l'imagine.
-Un bon contrat m'unit avec votre orpheline.
-J'aime qu'on soit fidèle à ses engagements.
-Je soutiendrai mes droits vivement et longtemps.
-
--*who_polidor
 Le bourreau me ferait haïr la bienfaisance !
 
--*who_marton
-Il est furieux...
-
--*who_clermon
-      Bon ! Le dénouement avance.
-
--*who_polidor
 Un bienfaiteur réduit à disputer son bien !
 
--*who_lechevalier
-Eh quoi ! De votre coeur ne puis-je obtenir rien ?
-
--*who_polidor
 Le traître ! De quel front ! Avec quelle imposture,
 De l'égoïsme il m'a demandé la peinture !
 Qui pouvait mieux que toi nous en tracer l'horreur ;
 Le monstre n'est-il pas tout entier dans ton coeur ?
 
--*who_philemon
-Je suis las d'essuyer un injuste murmure.
-Que me reproche-t-on ? L'instinct de la nature ?
-C'est d'après ses leçons, ses mouvements secrets
-Que tout être vivant songe à ses intérêts ?
-Voyez ces gens de bien, crus tels sur leur parole ;
-L'intérêt personnel est leur unique idole,
-Sous les noms de vertu, d'humanité, d'honneur,
-Il fait s'envelopper d'un voile séducteur.
-La politesse n'est que le désir de plaire.
-La bravoure, l'honneur, sont chez le militaire
-La dévorante soif d'un prompt avancement.
-Les élans, les transports d'un coeur reconnaissant
-Sont l'art de mendier des secours plus utiles.
-Je pense voir partout des débiteurs habiles,
-Qui devant peu d'abord, ont soin de s'acquitter
-Pour acquérir le droit de beaucoup emprunter.
-Parcourez avec moi chaque état de la vie :
-Toujours quelque intérêt à la vertu s'allie.
-Vous-même descendez au fond de votre coeur...
-
--*who_polidor
 Moi ?
 
--*who_philemon
-      Mais oui. Si pour vous il n'était pas flatteur
-D'être entouré de gens qui vous soient redevables,
-Si vous croyant par-là plus grand que vos semblables,
-Vous ne préfériez pas à vos biens ce plaisir,
-Vous vous fussiez gardé de vous en dessaisir.
-
--*who_polidor
 Si l'ardeur que je montre à rendre un bon office,
 À d'austères censeurs pouvait paraître un vice,
 Avec quelque indulgence, il doit être traité,
@@ -3286,77 +1303,18 @@ Puisqu'il tourne au profit de la société.
 Comparez nos deux coeurs, et décidez vous-même
 Si nous nous conduisons par un pareil système.
 
--*who_philemon
-Vous triomphez ! Je veux vous prouver aujourd'hui
-Que je fais m'immoler à l'intérêt d'autrui.
-Je renonce à mes droits, à Constance, à ma flamme ;
-Oui, j'annule un contrat encor cher à mon âme.
-J'exige.
-
--*who_polidor
       Monsieur exige.
 
--*who_philemon
-      Un bon écrit
-Dans lequel il sera très-formellement dit :
-« Que puisque je renonce à la main de Constance,
-À tous les droits qu'ici me donne ma naissance,
-Mon cher Oncle consent à ne rien répéter
-Sur les billets que j'ai. »
-
--*who_clermon
-      Bon ! Daignez m'écouter.
-
--*who_polidor
 Tais toi !
 
--*who_constance
-      Je vous connais : votre âme bienfaisante
-Voudra tout immoler au bonheur d'une amante.
-Un si grand sacrifice affligerait mon coeur.
-Trop heureuse déjà d'échapper à Monsieur,
-J'attendrai sous vos yeux qu'un temps plus favorable
-Unisse mon destin à l'Amant tendre, aimable,
-Qui, par mille vertus, est digne de mon choix.
-
--*who_clermon
-Qu'à l'écart je vous parle ; il le faut, je le dois.
-
--*who_lechevalier
-Certain de votre coeur, adorable Constance,
-Votre amant attendra la main sans défiance ;
-Et si je vous mérite en servant mon pays,
-Voilà de mes travaux et l'objet et le prix.
-
--*who_polidor
 Quoi ! Dans le porte-feuille...
 
--*who_clermon
-      Avant de vous le rendre
-Tout était fait. Cent fois j'ai voulu vous l'apprendre,
-Mais mon zèle craignait... jusques à votre coeur.
-Voilà les bons : il n'a que ceux de l'imposteur.
-
--*who_polidor
 Je devrais te gronder et condamner ta ruse,
 Mais je ne le saurais, le motif nous excuse.
 
--*who_philemon
-Décidez-vous, enfin ! Je suis maître de tout,
-Et vous hésitez ?
-
--*who_polidor
       Crains de me pousser à bout.
 Rentre dans le devoir.
 
--*who_philemon
-      Bon ! il est trop stérile ;
-Le bien seul réunit l'agréable et l'utile.
-Grâce au mien, désormais Cosmopolite heureux,
-J'ai le choix des climats, des honneurs et des Dieux.
-Je vais faire escompter...
-
--*who_polidor
       Tremble ! ton imprudence
 A de mon coeur enfin lassé la patience :
 Trouve ton châtiment dans l'objet de tes voeux.
@@ -3364,10 +1322,6 @@ Tes Billets sans valeur, viennent d'un malheureux
 Qui sacrifia tout au motif qui t'entraîne.
 Ton semblable me venge et satisfait ma haine.
 
--*who_philemon
-Comment, que dites-vous ? Ces billets au porteur...
-
--*who_polidor
 Ils sont bien précieux : ils démasquent ton coeur.
 Va, dépouille avec nous toute ombre d'artifice ;
 De tes droits prétendus signe le sacrifice.
@@ -3377,47 +1331,15 @@ Fuis, et de ton destin laisse-moi seul l'arbitre ;
 Tu le dois, tu le peux, et même à plus d'un titre.
 Je veillerai sur toi par mes correspondants.
 
--*who_lechevalier
-Ah ! Je vous reconnais à de tels sentiments.
-
--*who_durand
-Je vous l'avais prédit ; et, dans votre jeune âge,
-Tout en lisant Sénèque...
-
--*who_polidor
       Oh ! tout ce verbiage
 N'est que pour en venir à votre pension !
 Vous l'aurez, comptez-y ; mais à condition
 Que vous suivrez ses pas : n'est-il pas votre ouvrage ?
 
--*who_durand
-Per Jovem !
-
--*who_polidor
       Je ne puis vous punir davantage.
 
--*who_philemon
-Mon oncle vient de loin, il a les vieilles moeurs.
-Quand il aura porté des yeux observateurs
-Sur les individus de notre coin de terre,
-Il sera moins surpris de la petite guerre
-Que l'intérêt suscite et perpétue entre-eux.
-Mon siècle et mon pays ont adopté ces jeux.
-J'ai joué de malheur, je quitte la partie.
-Peut-être reviendrai-je un jour dans ma patrie,
-Et, plus profond dans l'art d'attirer tout à soi,
-Je n'aurai plus alors les rieurs contre moi.
-
-**** *book_ *id_V08 *act_V *date_1777
-
--*who_polidor
 Venez me consoler.
 
--*who_constance
-      Que la reconnaissance
-Nous jette maintenant...
-
--*who_polidor
       Vous me fâchez, Constance ;
 En faisant des heureux je travaille pour moi.
 Philémon vous l'a dit : il a raison, ma foi,
@@ -3429,3 +1351,1036 @@ Recueille le mépris pour unique salaire,
 Et trouve à ses projets tout le monde contraire.
 On l'aime, on l'encourage, et tout lui sert d'appui,
 S'il veut que son bonheur concourre au bien d'autrui.
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_constance
+
+      Tu soupires ?
+
+      Ah, Marton !
+
+      Gardes-toi de surprendre
+Un secret...
+
+Dieux ! Parles bas.
+
+Tu plaisantes.
+
+Ah, je le sens !
+
+J'ignore si, pour lui, ma tendresse est extrême ;
+Mais je sais qu'il m'est cher beaucoup plus que moi-même.
+Ces grands mots : flamme, amour, qui, dans tous nos romans.
+Me paraissaient si bien rendre les sentiments ;
+Comme ils me semblent froids ! À te parler sans feindre,
+Ce que je sens, Marton, ils ne sauraient le peindre.
+Le Chevalier me charme, et pourtant je le crains...
+Plus que lui je ressens ses plaisirs, ses chagrins...
+On dirait, tant mon âme à la sienne est unie,
+Que nous n'en avons qu'une, et qu'une même vie.
+
+      Ô Ciel !
+
+À l'hymen d'un aîné, selon tout apparence,
+On songera d'abord.
+
+Moi, que j'ose avouer un dangereux penchant !...
+Non, jamais.
+
+      Marton.
+
+Oh, finissez !
+      Quel ton !
+      Bon, voici mon vengeur.
+
+Marton, le Chevalier !
+
+Il vient dans ce salon, prenons vite la fuite.
+
+      Marton,
+Vous rêvez !
+
+Comment, tu crois cela ? Restons.
+
+Le coeur me bat.
+
+      Mais, Monsieur,
+Mais... puis-je l'écouter ce secret... et l'honneur...
+
+      Dieux ! Quel trouble est le mien !
+
+      Allons, suis-moi, Marton.
+Je respire.
+
+Cachons bien mon amour, s'il est encor possible.
+
+Oui, Monsieur ; à ses lois mon coeur toujours fidèle...
+
+      Je pourrai donc vous rendre
+Les secours que mon père obtint d'un ami tendre ;
+Adoucir les destins de vous, de vos parents,
+Dans le sein du bonheur faire couler vos ans...
+
+De la reconnaissance ! Eh pourquoi, s'il vous plaît ?
+Pour m'avoir procuré le bien le plus parfait,
+Le bonheur d'être utile... A qui, grands Dieux !
+
+      Oh, oui !
+
+      Ah ! croyez, je vous prie !...
+
+Peut-on avoir une âme, et penser autrement ?
+
+      Eh bien ?
+
+Chevalier, c'en est fait, je ne puis rien pour toi.
+
+Moi, Monsieur, que chez vous j'ose donner des lois !
+Je sais trop qui je suis et ce que je vous dois.
+
+Ah ! Ne m'accablez pas, mortel trop généreux !
+De toutes vos bontés et confuse et ravie,
+Je veux vous devoir tout, et pour toute ma vie.
+Choisissez mon époux, et décidez mon sort.
+Son choix va me donner ou la vie ou la mort.
+
+Laissez-moi, je ne dois vous voir, ni vous entendre.
+
+Ah ! Ne redoublez pas mes regrets, mes alarmes !
+Mes yeux, vous le voyez, se remplissent de larmes.
+Évitez le malheur qui s'attache à mes pas ;
+Plaignez-vous, plaignez-moi, mais ne m'accusez pas.
+Pénétré du respect que Polidor inspire,
+Mon coeur n'a pas osé tout haut le contredire.
+
+Tout est perdu.
+
+      Eh quoi !
+N'ai-je donc pas signé l'arrêt de mon supplice ?
+Demain doit s'achever cet affreux sacrifice !
+Comment concilier l'amour et le devoir ?
+Que puis-je ?
+
+      Relevez-vous.
+
+      Je suis anéantie.
+
+      À ses yeux je suis déshonorée !
+Que dira-t-on de moi ? Je meurs désespérée.
+
+Ah ! Ciel !
+
+      On vient de l'arrêter ;
+
+Le Chevalier. Je ne saurais survivre
+À ce coup.
+
+Volez à son secours.
+
+      L'on dirait qu'il connaît mon amour.
+Quel malheur, si j'allais perdre encor son estime !
+
+Au contraire, Marton ; je le vois, je le sens ;
+Oui, la vertu lui doit ses plus nobles élans :
+Il élève mon coeur au-dessus du vulgaire.
+Je n'étais jusqu'ici qu'une amante ordinaire ;
+J'aimais le Chevalier, sans rien faire pour lui :
+Je veux que par moi seule il soit libre aujourd'hui.
+Qu'on connaisse mes feux, ou bien qu'on les ignore,
+Peu m'importe, Marton, je sers ce que j'adore.
+Tous les instants sont chers : viens, suis moi.
+
+      En lisant dans mon coeur.
+
+      Il porte ici ses pas.
+
+      Venez, Monsieur.
+
+      Je vous connais : votre âme bienfaisante
+Voudra tout immoler au bonheur d'une amante.
+Un si grand sacrifice affligerait mon coeur.
+Trop heureuse déjà d'échapper à Monsieur,
+J'attendrai sous vos yeux qu'un temps plus favorable
+Unisse mon destin à l'Amant tendre, aimable,
+Qui, par mille vertus, est digne de mon choix.
+
+      Que la reconnaissance
+Nous jette maintenant...
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marton
+
+      Eh, Clermon !
+
+Clermon, mon cher Clermon !
+
+Comment te portes-tu ?
+
+      La mer est trop profonde !
+Et si je me rembarque !... On est sot, sur ma foi,
+Quand on n'a qu'une planche entre la mort et soi.
+
+      Elle est inquiète, rêveuse.
+
+Nous soupirons beaucoup.
+
+Je l'ignore, et voilà ce qui me désespère ;
+J'ai, pour le découvrir, tout tenté vainement.
+
+J'en suis inconsolable ! Encor jeune, innocente,
+Elle voudrait cacher sa tendresse naissante.
+La fierté de son sexe et les efforts d'un coeur,
+Qui n'ose s'avouer à lui-même un vainqueur,
+L'emportent jusqu'ici sur sa timide flamme ;
+Mais l'amour par degrés maîtrisera son âme,
+Et saura la contraindre à dire son secret.
+L'amour, Français surtout, n'est pas longtemps discret.
+Aide-moi cependant à percer ce mystère.
+L'ainé semble rêver à la plus grande affaire,
+Près de Constance...
+
+Il calcule, je crois, les biens de ma maîtresse.
+
+      Le Chevalier timide, circonspect,
+N'ose employer encor que la voix du respect ;
+Mais il a le regard si plein de feu, si tendre,
+Que malgré son silence il se fait bien entendre.
+
+      Fort bien !
+Lequel des deux enfin ?
+
+Me voilà bien instruite !
+
+Clermon, je voudrais bien qu'elle aimât le dernier !
+
+      Pourquoi ?
+
+Quoi ?
+
+Ah ! Quel affront !
+
+En voiture ! Est-ce donc l'allure d'un courrier ?
+
+Ah ! voilà d'un beau zèle un trait bien singulier.
+Regarde-moi.
+
+      J'oserois parier
+Que cet arrangement arrange tes affaires...
+
+      Pardon : mais tiens, soyons sincères ;
+Étant seul, à toi seul appartient le profit.
+
+Je suis reconnaissante. Adieu, je vais tout faire
+Pour seconder l'amour de notre militaire.
+
+      Sans doute.
+
+Le grand mal ! Si soudain il se met en courroux,
+Il revient à l'instant sensible, affable et doux.
+
+Je crains bien d'en connaître !
+
+      Elle ne me dit rien...
+Ah !
+
+      Oui ; pour nouer l'entretien,
+Mon Maître vous a dit à son heure dernière
+Qu'en ces lieux Polidor vous tiendrait lieu de père.
+Il arrive aujourd'hui : nous saurons...
+
+Courage ; quatre mots encore sur ce ton,
+Je suis au fait. Allons.
+
+      Je le sais, vous avez le coeur tendre...
+
+      Pourquoi ? Quand j'aime de bon coeur
+Sans façon je l'avoue, et je m'en fais honneur.
+
+      Ma foi, non : plus d'enfantillage.
+Ouvrez-moi votre coeur... Parlez... Cela soulage.
+
+      Tant mieux. Aimez vous Philémon ?
+Votre oeil se rembrunit ; j'y vois le dédain... Bon !
+Quant au beau Chevalier ; oh ! C'est une autre affaire !
+Convenez, entre-nous, qu'il est formé pour plaire.
+Vous souriez ; bon signe. Il est intéressant :
+Tout annonce chez lui le plus sincère amant.
+
+L'amant fait-il ?...
+
+      Qu'a donc cela d'affreux ?
+Polidor vous destine à l'un de ses neveux.
+
+      Rompez donc le silence.
+
+      Cet orgueil me paraît trop plaisant :
+Il s'apprivoisera.
+
+      Oui, c'est l'usage :
+Mon Dieu, ne sais-je pas comme on est à votre âge !
+Notre coeur quelque temps écoute tour à tour
+Les conseils de l'honneur et la loi de l'amour ;
+Mais leur débat ne peut durer toute la vie,
+Et vient l'heureux moment qui les réconcilie.
+
+      Eh bien, vous fait-il peur ?
+
+Pourquoi donc, s'il vous plaît, une telle conduite ?
+Ah, j'entends ! Vous voulez qu'il devine...
+
+      Non vraiment, le stratagème est bon ;
+L'amoureux Chevalier aura soin de se dire :
+Quoi, Constance me voit, se trouble et se retire ;
+Elle m'aime à coup sûr, et me croit dangereux.
+
+      Vous ferez mieux.
+Elle est à nous.
+
+      Quel regard amoureux !
+Voyez-le donc ; son âme a passé dans ses yeux.
+
+Ils vont s'expliquer, bon !
+
+Euh, l'animal !
+
+      Clarmon, je suis chagrine.
+
+J'ai vu certain notaire...
+
+Oui : je crains pour Constance.
+
+      Eh bien ?
+
+Ah ! Quel bonheur !
+
+Pour redoubler l'ardeur de son jeune adversaire,
+Je viens de lui prouver qu'on l'aime éperdument.
+
+Songe à ce porte-feuille, objet de tes alarmes.
+
+Tu devrais bien, Clermon, me mettre du complot.
+
+      Je te joindrai bientôt.
+
+      Cherchons quelque moyen.
+
+      Non.
+Vous êtes bien, restez, j'aperçois Philemon.
+
+      Mais, restez donc.
+
+Parlez, vous.
+
+Il se sauve.
+
+      N'arrêtez point ses pas,
+Elle va réfléchir, et vous n'y perdrez pas.
+L'amour-propre saura décider votre amante ;
+Et d'ailleurs, croyez-moi, toute femme prudent
+D'un témoin indiscret ne fait point son époux :
+Au moindre petit mot, il faudrait filer doux.
+Prudence, amour, fierté, tout vous sert.
+
+Tout va bien. Du récit de vos tendres chagrins
+Allez intéresser parents, amis, voisins.
+Bon ! commencez.
+
+      Voyons.
+
+      Belles conclusions !
+
+      Ne perdez point courage.
+
+Que Philemon triomphe, et j'étouffe de rage !
+Mais il faut l'observer... le voici qui revient.
+
+      Oh, oh, qu'est-ce qu'il tient ?
+
+Cherchons Clermon. Le péril est pressant.
+
+Les voilà réunis.
+
+      Durand a fait un livre
+Très peu goûté, dit-on, par le Gouvernement.
+On l'a voulu conduire en prison. À l'instant,
+Monsieur le Chevalier a tiré son épée ;
+L'Exempt scandalisé d'une telle équipée
+A trouvé le secret de le pétrifier,
+En lui donnant à lire un morceau de papier.
+De la prison enfin tous trois ont pris la route.
+
+      L'orgueil est en déroute.
+
+Faites toujours l'enfant ! L'amour est-il un crime ?
+
+      Bon cela.
+Le coeur en vain résiste, il faut en venir là.
+
+Il est furieux...
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lapierre
+
+      Monsieur voit-il du monde ?
+
+D'après cet ordre-là j'aurai bien moins faire.
+Je suis portier, de plus lecteur de votre père.
+Chacun de ces emplois est assez fatiguant.
+
+      La voilà.
+
+      Bien ! Ordonnez...
+
+      Suffit.
+
+      Quel dommage !
+C'est le plus honnête homme ; il est si bon ! J'enrage.
+
+      Mais...
+
+      De temps en temps
+De lui je recevais...
+
+Voilà tous mes profits au Diable... Ah ! si je peux
+Plaire à l'oncle...
+
+      Je dis que je suis fort joyeux.
+De savoir que votre oncle arrive.
+
+      Ah ! Monsieur, il apporte
+Des trésors.
+
+      Non, Monsieur, la nouvelle est très sûre.
+Si son caissier n'eut pas contrefait l'écriture
+De ses correspondants ; si par-là le fripon
+N'avait su lui voler plus d'un bon million,
+Il serait de retour depuis deux mois en France.
+Enfin telle qu'elle est, sa fortune est immense.
+
+Extrêmement.
+
+      Oui.
+
+      Un fort bon domestique
+Très zélé pour votre oncle, et son valet unique :
+Il vient pour l'annoncer.
+
+Vos amis ?
+
+      Monsieur ?
+
+      Monsieur ?
+
+      Le voici,
+Et bien enveloppé.
+
+      Hem... « Troisième Chapitre ».
+
+« L'ALMANACH DES CENTENAIRES ».
+
+« Quelques Soldats sont morts à Rome, à la cent vingtiéme année de leur âge. »
+
+« L'Univers vient de perdre le célèbre Charitides, âgé de cent trois ans : il est mort de fatigue, en composant son Dictionnaire des Dictionnaires. »
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clermon
+
+Laissez-là cette malle, et voilà de quoi boire.
+Hola, quelqu'un.
+
+      Puis-je croire...
+Que ce soit là...
+
+      Monsieur Durand.
+Je ne me trompe point.
+
+Quel bonheur !
+
+      Quoi ! Vous pleurez, je pense ?
+Ah, de grâce ! Faisons notre reconnaissance
+Un peu moins tristement.
+
+Le mérite est bien sec !
+
+Qu'avez-vous fait, depuis qu'un bâton à la main,
+Vous gagnâtes Paris, fier de votre latin ?
+
+Le précieux talent dans le siècle où nous sommes !
+
+Eh ?...
+
+J'entends présentement.
+
+Qu'est-ce ?
+
+La maison n'est pas riche.
+
+      Les deux fils ?
+
+      L'aîné pourrait...
+
+      Oh, Diable ! Que veut dire
+Ce mot ? Il m'est nouveau.
+
+Le nom me déroutait. Mais quoi ! Vous, le faiseur
+D'Hommes, de Citoyens, comment peut-il se faire
+Que jugeant votre élève avec un oeil sévère,
+Vous n'ayez pas détruit ce vice dominant,
+Ou du moins arrêté ses progrès ?
+
+Vos droits sont, en effet, mieux fondés qu'on ne pense.
+
+      Sûrement ! Monsieur le Précepteur...
+Je me trompe, excusez ! Monsieur l'Instituteur
+A fait, par égoïsme, un parfait égoïste ;
+Sur une pension, tout comme vous, j'insiste :
+Je vois que votre élève et la société
+Vous doivent beaucoup, mais beaucoup, en vérité !
+
+On connaît son élève au moins pour l'ordinaire.
+
+      Alors il serait mal.
+Mon Maître, de ce vice ennemi capital,
+À faire des heureux goûte un plaisir extrême,
+Et vit pour ses amis, bien plus que pour lui-même.
+
+C'est Monsieur Polidor, frère de Florimon.
+Il arrive ce soir.
+
+      Vous ayez toujours dans la maison
+Deux étrangères ?
+
+Notre retour ici va leur réjouir l'âme.
+
+Quand mon maître, en dépit d'un noble parchemin,
+Tenta dans le commerce un plus riche destin ;
+Ses parents indignés, criant à l'infamie,
+Ne voulaient plus le voir, lui parler de la vie.
+Tout a changé de face : il est riche, ils sont gueux ;
+En lui faisant la cour, ils se croiront heureux.
+L'intérêt ! L'intérêt !
+
+      Qui m'appelle ?
+
+      C'est une voix femelle.
+Elle va plus au coeur que celle du Pédant.
+
+      Toi-même, mon enfant ?
+Aimes-tu ce pays mieux que le nouveau Monde ?
+Y veux-tu retourner ?
+
+Que fait Constance ?
+
+Réfléchis, tu verras qu'elle n'est pas heureuse.
+Son père et Polidor, dans le lointain pays,
+Se virent autrefois devinrent bons amis ;
+L'intimité s'accrut. - Vous connaissez ma fille,
+Dit ton Maître. Le mien répond : elle est gentille :
+Vous savez qu'à Paris j'ai laissé deux neveux.
+Partez, allez les voir, et faites un heureux.
+J'aurai soin de vos biens. Ton Maître avec sa fille
+Part bientôt pour chercher sa nouvelle famille ;
+Tu les suis, on arrive, on n'a plus qu'à choisir,
+Quand l'honnête étranger soudain vient à mourir,
+Et retarde par-là les noces de Constance.
+Voilà de son chagrin deux bons motifs, je pense.
+Mais Polidor bientôt va réparer cela.
+Dis : entre ses neveux a-t-on choisi déjà ?
+
+      Lequel des deux sait plaire ?
+
+Toi, fille et curieuse ! Oh ! Le trait est piquant.
+
+      Il plaît. Juge par toi d'autrui ;
+Le sexe aime qu'on soit tout occupé de lui.
+
+Il pourra se tromper s'il croit à sa richesse.
+Mais, chut !
+
+Écoute... Celui-ci pourrait plaire...
+
+      Ma foi, je n'en sais rien.
+
+      À qui faut-il s'en prendre ?
+Que n'avez-vous un coeur que l'on puisse comprendre ?
+
+Regarde-moi.
+
+      J'oserois parier...
+
+      Qu'étant généreux beaucoup plus que son frère ;
+Tu comptes tes profits à venir. Sois sincère.
+
+      Pardon. Au revoir, mon enfant.
+Mon MaÏtre est près de Sceaux, chez son correspondant ;
+Il m'attendrait peut-être. Il faut que je te quitte
+Pour monter en voiture, et le rejoindre vite.
+
+Jadis Valet, je suis Intendant et Caissier.
+Polidor est si bon que d'honneur je me pique,
+Et veux seul composer son train, son domestique.
+
+      Pourquoi ?
+
+Ah ! Quel affront !
+
+Tu me rends mon paquet, friponne, avec esprit.
+
+Moi, pour que Polidor, en arrivant céans,
+Ne soit pas dépouillé par d'adroits Charlatans...
+Son unique défaut... tu le connais.
+
+Parle-bas, mais bien bas ; je crains qu'on ne t'écoute.
+
+Dis qu'il est trop facile, et c'est ce qui me blesse !
+Le seul mot de vertu le jette dans l'ivresse.
+Et le monde, dit-on, sous un dehors brillant,
+Cache maint imposteur, maint tartuffe charmant,
+Qui, suivant l'air, le ton que l'intérêt demande,
+Se donne tour-à-tour dix vertus de commande.
+
+      Adieu, je vois Durand.
+Il vient de me glisser quelques mots en passant
+Qui pourraient bien changer ta crainte en certitude :
+À le faire expliquer je mettrai mon étude.
+
+EH bien !
+
+J'y cours.
+
+      Bon.
+Si vous me dévoiliez... là...
+
+      Le caractère
+De Philemon ; peut-être...
+
+Je le démasquerais aux yeux de Polidor,
+Qui vous saurait bon gré de votre confidence.
+
+Je parlerai, vous dis-je. Ouf ! Je vous trouve enfin :
+En croyant l'abréger, j'ai manqué mon chemin.
+
+Sachez vite un secret que je ne dois plus taire.
+
+Mais...
+
+      Je reviens dans l'instant.
+
+Vous êtes obéi : Mais puis-je enfin vous dire ?...
+
+À quel propos ?...
+
+Quoi, Monsieur, vous savez ?...
+
+Je ne vois pas pourquoi cela vous réjouit.
+
+Marton, je suis chagrin.
+
+Que font-ils en secret dans la chambre voisine ?
+
+      Y serait-il encor ?
+
+      Et moi pour Polidor.
+Quand il n'a demandé tantôt son porte-feuille,
+Si j'avais cru... Marton, je tremble qu'il ne veuille
+S'en dessaisir... Pour qui ?... Si je pouvais ravoir.
+Pendant une minute ou deux, en mon pouvoir
+Ce porte-feuille...
+
+      Sans prévenir mon maître
+Je saurais lui donner le temps de bien connaître
+Cet homme dangereux, qui nous trouble si fort.
+
+      Oui, mais à moins d'un coup du sort...
+Contre notre ennemi ne pourrais-tu rien faire ?
+
+Bien. Moi, je vais guetter Philemon et Durand.
+
+Va, va, que je le tienne, et je m'en fais des armes
+Triomphantes. Marton, quel bonheur ! Quel plaisir !
+Si, servant Polidor au gré de mon désir,
+Je démasquais... Suffit ; en serviteur fidèle,
+Je n'écouterai rien que mon coeur et mon zèle.
+
+Volontiers... Chut, on vient.
+
+Que diable trament-ils ? Suivons, je n'entends pas.
+
+      Celui de Polidor ?... Oui da !
+
+Oh, quel bonheur !
+
+L'avis est bon.
+
+Tout est bien préparé.
+
+Nous verrons, nous verrons.
+
+J'en tire vanité.
+
+Quand il s'agit, de Monsieur, de son bien,
+Ma cervelle se monte, et ne respecte rien.
+D'ailleurs vous discutiez une importante affaire ;
+En vous interrompant, j'aurais cru vous déplaire.
+Rapportez à Monsieur quelques mots seulement
+De ce que vous disiez en secret à Durand ;
+Il va, j'en suis certain, admirer ma prudence.
+
+      Ah ! Monsieur !...
+
+      Je crains
+Que l'on ne vous prépare ici bien des chagrins.
+
+      Mon respectable Maître ;
+J'ai fait parler Durand, et j'ai trop su connaître
+Que Monsieur Philémon et l'espoir du profit
+L'ont fait se démentir de ce qu'il m'avait dit.
+
+      Je sors.
+
+Votre Neveu, dit-on, trop habile à séduire ;
+À dépendre de lui pourrait bien vous réduire ;
+C'est la crainte, Monsieur, de toute la maison,
+Des amis, des voisins ; interrogez Marton.
+
+Je ne le sens que trop, pardonnez à mon zèle.
+
+Je n'osais pas citer cet exemple ; et peut-être...
+
+À l'instant même.
+
+Il sera corrigé, j'espère dès ce soir.
+
+Ne croyez ni Durand, ni Philémon, ni moi ;
+Vous pouvez éprouver...
+
+Taisons-nous, de son coeur nous aurions trop à craindre ;
+Mais j'aurai lieu, je crois, de me féliciter.
+
+      Bon ! Le dénouement avance.
+
+      Bon ! Daignez m'écouter.
+
+Qu'à l'écart je vous parle ; il le faut, je le dois.
+
+      Avant de vous le rendre
+Tout était fait. Cent fois j'ai voulu vous l'apprendre,
+Mais mon zèle craignait... jusques à votre coeur.
+Voilà les bons : il n'a que ceux de l'imposteur.
+
+
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durand
+
+Des fils de la maison j'ai cultivé l'enfance.
+Ergo, mes doctes soins méritent récompense.
+J'ai ma pension là ; si je puis la tenir,
+Bien adroit qui pourra m'en faire dessaisir.
+
+      Que veut cet homme ?
+
+      C'est lui... Clermon...
+
+      Que te voilà brillant !
+
+      Quel plaisir !
+
+      Je suis au désespoir
+D'étaler devant toi cet habit jadis noir.
+Du mérite en ces lieux c'est la triste livrée.
+
+      J'en ai l'âme navrée !
+
+J'ai formé des sujets, des citoyens, des hommes !
+
+J'ai professé vingt ans l'emploi d'Instituteur...
+
+      Ce que le vulgaire appelle Précepteur.
+
+      Le métier détestable !
+Père, mère, enfants, tous m'ont fait donner au Diable.
+Pour prix de ma doctrine et des soins que j'ai pris,
+On me refuse encor ce que l'on m'a promis.
+
+      Une pension de quatre-vingt pistoles.
+Pour mes bons documents je n'ai pas deux oboles.
+Est-ce l'or avec moi qu'on devrait épargner ?
+
+      Il faudrait se saigner !
+Mais le père songeant à dormir, manger, boire,
+Borne-là d'un mortel le travail et la gloire,
+Chérit sa nullité. Madame Florimon,
+Au contraire, voudrait régner dans la maison.
+Pour acquérir le droit de beaucoup parler d'elle,
+La bavarde, futile avec le plus grand zèle,
+Veut paraître tout faire, et ne fait jamais rien.
+Quand je peins mes besoins, elle me répond : Bien.
+J'arrangerai cela,
+
+      Ah ! Leur père
+Tous les deux au hasard les jeta sur la terre ;
+Moi, leur communiquant mon savoir lumineux,
+Je les ai de la Terre élevés jusqu'aux Cieux.
+Temps perdu ! Le cadet, depuis peu militaire,
+M'offre son bras, son sang, dont je n'ai point à faire ;
+Ou bien jure par Mars de me récompenser
+Sitôt qu'un coup d'éclat l'aura fait avancer.
+Le bel espoir !
+
+      Il est bien pire !
+Je le crois égoïste.
+
+      Nous autres gens lettrés,
+Nous appelons ainsi ces êtres concentrés,
+Qui ne voyant qu'eux seuls dans la nature entière,
+À leur propre intérêt sacrifieraient leur père,
+Leurs enfants, leurs amis, leur patrie et l'honneur...
+
+      Ah ! Vraiment !
+Tu parles à ton aise. Est-ce que l'on corrige
+Un aîné de famille ? Est-ce que l'on exige
+De lui que ce qu'il veut ? Comme il vous haïrait !
+Avec le temps encor sa haine s'accroîtrait,
+Et puis, comptez sur lui pour une récompense.
+
+Sans doute !
+
+Je ne suis pas bien sûr qu'il ait ce caractère.
+
+Depuis près de vingt ans je l'étudie en vain :
+Son coeur est une énigme et j'y perds mon latin.
+Cent fois j'ai cru le voir rempli de bienfaisance,
+Et cent fois pour autrui pétri d'indifférence,
+N'aimer que sa personne.
+
+Comment appelles-tu cet honnête Patron ?
+
+      Le sublime mérité,
+S'il me pensionnait ! Attends, je vais bien vite
+L'annoncer.
+
+      Oui, Constance, avec Marton.
+
+Je peux les en instruire en allant chez Madame.
+
+      Pour recevoir dignement ton patron,
+Madame a plusieurs fois renversé la maison
+Sans rien faire. Elle va, revient, se cite, ordonne,
+Et veut absolument parler à ta personne.
+
+      Pour obtenir ma chère pension,
+Cherchons quelque moyen. Je t'en conjure.
+
+      Quoi ?
+
+      Eh ! Que pourrais-tu faire ?
+Je saurai l'observer, il en est temps encor.
+
+Optimé ! J'entrevois un rayon d'espérance.
+Sors, voici Philemon ; je m'en vais l'éprouver ;
+S'il est ce que je crois, j'irai te retrouver ;
+Je saurai trait pour trait te le faire connaître,
+Et tu pourras... charger le portrait à ton Maître ?
+
+Je suis presque certain qu'il ne vit que pour lui.
+J'en serai convaincu pleinement aujourd'hui,
+S'il ne s'empresse pas à me rendre service :
+Et dévoilant son coeur, je m'en ferai justice.
+
+Monsieur...
+
+Preuve démonstrative ! Il m'évite avec soin.
+
+De se parler tout seul il a pris l'habitude,
+Tel est l'homme occupé de son seul intérêt,
+Et qui n'ose à personne avouer son secret.
+Conviction totale.
+
+Il faut que mon mérite obtienne son salaire.
+
+C'en est trop ! On ne veut m'entendre ni me voir :
+C'est pour ne pas payer mes veilles, mon savoir ;
+Il est égoïste, ... Oui ! Je puis, sans plus attendre,
+L'assurer à Clermon. Ah ! Je vais vous apprendre...
+
+      Monsieur, Madame.
+Daignez solliciter ma chère pension.
+Monsieur, votre oncle arrive.
+
+      Arrêtez, Ciprine était moins belle :
+Soyez, en ma faveur, douce, humaine comme elle.
+
+      Voilà comme on traite un savant.
+Je sais que mon disciple est sensible, obligeant...
+
+Oui, pour me faire avoir...
+
+      Il ne veut pas m'entendre...
+Accourez le confondre, ô divin Alexandre,
+Qui pensiez tout devoir à votre instituteur,
+Et qui de ses leçons vous faisiez tant d'honneur,
+Que vous les préfériez aux lauriers de Bellone !
+Aussi la pension d'Aristote était bonne.
+Et moi rien ; puis l'on dit que je me plains toujours !
+Quand tout l'Univers rêve armes, fortune, amours,
+Ne puis-je m'occuper du bonheur de ma vie ?
+Chacun pour soi. Mais tel m'accuse de manie,
+Qui, mendiant le prix de quelque lâcheté,
+Des Grands, des parvenus tour à tour rebuté,
+Leur a rendu vingt ans sa présence importune,
+Et dans leur antichambre attendrait la fortune,
+S'il n'avait emprunté, pour la saisir enfin,
+Les ailes de Mercure, ou les rets de Vulcain.
+
+      Voilà mon autre ingrat.
+J'ai remis à Clermon le soin de ma vengeance :
+Il est déjà parti.
+
+      Bien vite :
+Vous n'avez pas daigné me parler tantôt.
+
+Quoi, vous pensiez à moi !
+
+Dieux, où trouver Clermon !
+
+      Ah, les belles affaires
+Que je tramais tantôt, en parlant mal de lui !
+
+      Malheureux, j'ai détruit men appui !
+Euh, bourreau !
+
+En abordant votre oncle, ayez bien dans la tête
+Qu'il déteste un mortel trop occupé de soi.
+
+Je le connaissais mal.
+
+      Oui, la chose est certaine,
+Pourquoi repartait-il, ce malheureux valet ?
+
+Mais...
+
+Il est vrai que moi seul ayant su vous apprendre
+Les choses qu'il contient, l'honneur, à le bien prendre...
+
+      La plaisante sottise !
+
+Parlons de mon ouvrage encore, s'il vous plaît.
+
+      S'il prend bien en effet,
+Comme il faut l'espérer, croyez-vous qu'on me donne
+Une pension ?
+
+J'ai pu le soupçonner de n'aimer que lui-même !
+Réparons... Des chevaux ! mon chagrin est extrême.
+Ah, mon aimable Émile !
+
+Votre oncle...
+
+L'avez-vous vu ?
+
+      Clermon. C'est fait de nous !
+On le cherche partout de la part de son maître.
+
+      Polidor vous a-t-il fait connaître ?...
+
+      Qu'il vous soupçonnât d'être un peu... personnel ?
+
+      Le voici. Paix !... Il est essentiel
+Que je sois a l'affût.
+
+Dieux !
+
+Profitons du moment, puisqu'il cède la place.
+Monsieur !...
+
+      Quand Clermon reviendra
+Ne vous affectez point de ce qu'il vous dira,
+Et croyez-en plutôt le remords qui me presse,
+De venir à vos pieds avouer ma faiblesse.
+
+      Voici la vérité.
+Un moment de dépit et de vivacité
+M'avait fait soupçonner dans ce mortel unique
+Des torts exagérés à votre domestique :
+J'ai cru qu'il m'empêchait d'avoir ma pension,
+Qu'il ne songeait qu'à lui : je l'ai dit à Clermon...
+
+Je l'accusais : soudain, ami sensible et tendre,
+Monsieur m'a confondu par vingt traits généreux.
+Il voulait partager son bien entre nous deux.
+
+      Alors certain de son mérite,
+J'ai volé vers Clermon, pour le détromper vite ;
+Il était reparti, ce malheureux valet.
+
+      J'ai tout dit.
+
+      J'ai des grâces à vous rendre,
+L'ouvrage fait grand bruit.
+
+      Je viens d'en répandre
+Cent exemplaires.
+
+      Dans vingt cafés brillants.
+
+Oui.
+
+      Pas mal... Mais il pourrait se faire
+Qu'on prévînt ce malheur ; et le tout pour leur bien.
+Attendez ; j'entrevois pour cela... tel moyen...
+
+      Tous les jours on égare
+Des lettres, des billets... Oui, cela n'est pas rare.
+Et j'ai vu mille gens dans un semblable cas.
+
+On peut rendre la chose et possible et croyable :
+Comme je la conçois elle est très vraisemblable.
+Votre porte-feuille est sur cette table-là,
+Par exemple.
+
+Nous allons, nous venons, nous raisonnons ensemble.
+
+      Il est possible, ce me semble,
+Que quelqu'un, en passant, dessus mette la main.
+
+      Et puisqu'il décampe soudain.
+
+Nous dirons avoir vu quelqu'un en sentinelle.
+De par Plaute, la scène est comique et nouvelle !
+Répétons-là.
+
+      Eh bien ?
+
+      Peut-être
+Vous l'a-t-on volé.
+
+      Je soupçonne le traître
+Qui passait, repassait.
+
+      Là.
+
+      Tantôt.
+
+Bien.
+      Le voleur s'enfuit : il faut le faire pendre.
+
+      Sans doute. Est-ce l'entendre ?
+Quelle horreur ! Des filous jusques dans les maisons !
+
+Fi ! Le voleur avait une mauvaise mine.
+Il faut crier plus fort.
+
+Pas mal : on vous croirait tout de bon en courroux.
+
+      Oh, ceci passe la raillerie !
+
+      Ah ! Vous m'étranglez, je crie !
+
+Votre oncle...
+
+      Ouf, il feignait trop bien !
+
+Je vous l'avais prédit ; et, dans votre jeune âge,
+Tout en lisant Sénèque...
+
+Per Jovem !
+

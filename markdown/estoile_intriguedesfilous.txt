@@ -1,6 +1,6 @@
 ---
 identifier: estoile_intriguedesfilous  
-creator: L'Estoile, Claude de  
+creator: L'Estoile, Claude de ; Georges Forestier.  
 date: 1648  
 title: L'Intrigue des filous. Comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: quinault_cadmushermione  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1673  
 title: Cadmus et Hermione. , tragédie  
 ---

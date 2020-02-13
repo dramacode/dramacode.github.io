@@ -1,568 +1,41 @@
 
 
-**** *book_ *id_I01 *act_I *date_1798
+**** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamewanderk
 
--*who_lisbeth
-Allons, allons ; le temps s'avance.
-
--*who_fridric
-Je ne m'amuse pas ; et vous pouvez le voir.
-
--*who_lisbeth
-Quel tracas nous auront ce soir !
-
--*who_fridric
-Mais aussi, nous ferons bombance.
-
--*who_lisbeth
-C'est la ton seul plaisir.
-
--*who_fridric
-      Dam ! Chacun a son goût.
-
--*who_lisbeth
-Pourquoi faire cette dépense ?
-À quelle occasion ?
-
--*who_fridric
-      Je n'en sais rien du tout.
-
--*who_lisbeth
-Mais par quelle raison éloigner tout-à-coup
-Et sa fille et ton secrétaire ?
-
--*who_fridric
-Mamsel' Lisbeth ? Je crois que son notaire
-Est mieux instruit que nous.
-
--*who_lisbeth
-      Sur quoi le penses-tu ?
-
--*who_fridric
-Depuis une heure au moins, il est seul avec elle.
-
--*who_lisbeth
-Et tu conclus de là ?
-
--*who_fridric
-      Pardi ! Qu'il est venu
-Pour marier Mademoiselle.
-
--*who_lisbeth
-Extravagant !
-
--*who_fridric
-      Celui qui gagerait
-Qu'on donne ce festin pour la noce....
-
--*who_lisbeth
-      Perdrait.
-
--*who_fridric
-Hé ! Pourquoi donc inviter sa famille?
-
--*who_lisbeth
-Hé ! Pourquoi donc faire partir sa fille ?
-Hein ?
-
--*who_fridric
-      Pour la faire revenir.
-Avec son futur.
-
--*who_lisbeth
-      Qu'il est bête !
-
--*who_fridric
-Vous m'en direz deux mots ce soir après la fête.
-
--*who_lisbeth
-Et quel est ce futur ?
-
--*who_fridric
-      Dam ! Je ne la sais pas.
-Mais, qu'importe ? En Hollande on n'y regarde guerre,
-Et la qualité qu'on préfère
-Dans un mari, c'est beaucoup de ducas.
-
--*who_lisbeth
-Ah ! Tu ne connais pas Madame !
-C'est bien le meilleur coeur ! C'est bien la plus belle âme !
-Elle sait réunir la gaîté des Français
-À la candeur des Hollandais.
-Bonne amie, excellente mère ;
-À son coeur sa fille est trop chère
-Pour la sacrifier à de vils intérêts.
-Et comme la petite est naïve et sincère,
-Si quelqu'un avait su lui plaire,
-Certainement je le saurais.
-Et je n'ai jamais vu...
-
--*who_fridric
-      Vous ne voyez donc guère.
-
--*who_lisbeth
-Hem ? Qu'entends-tu par là ?
-
--*who_fridric
-      Qu'à ce pauvre Mirval.
-Ce mariage là va faire bien du mal.
-
--*who_lisbeth
-Ah ! Vraiment l'idée est nouvelle !
-Un Secrétaire !
-
--*who_fridric
-      C'est égal !
-
--*who_lisbeth
-Il est instituteur de notre Demoiselle ;
-Et tu fais tort à ce jeune Français ;
-Il pense avec délicatesse;
-Il est honnête, et modeste a l'excès.
-Dans ses leçons, il donne à ma maîtresse
-Les préceptes de la sagesse,
-Et ne s'en écarte jamais.
-
--*who_fridric
-J'ai de bons yeux.
-
--*who_lisbeth
-      Vas, tu t'abuses.
-
--*who_fridric
-En fait d'amour, les filles ont des ruses !
-
--*who_lisbeth
-Mais, tu sais qu'aux leçons j'assistais tous les jours.
-Les moments s'écoulaient...
-
--*who_fridric
-      Et leur semblaient trop courts.
-
--*who_lisbeth
-Mirval est fort exact.
-
--*who_fridric
-      Jamais elle ne tarde.
-
--*who_lisbeth
-Elle lui parle peu.
-
--*who_fridric
-      Mais elle le regarde.
-
--*who_lisbeth
-Ils ne se cherchent point.
-
--*who_fridric
-      Ils se trouvent toujours.
-
--*who_lisbeth
-Adélaïde, simple et sans expérience,
-Ne m'a jamais caché ce qu'elle pense.
-Gouvernante de la maison
-J'ai su l'élever sur ce ton :
-Et je ne pense pas qu'elle change de note.
-Mon cher Fridric, regarde-moi ;
-Et lu verras si j'ai l'air d'une sotte.
-
--*who_fridric
-Lorsque l'on voit un couple adolescent
-Se sourire en sa regardant,
-On dit... C'est un enfantillage ;
-Mais lorsqu'en rencontrant leurs yeux,
-Ils sont tout-a-coup si honteux
-Qu'un grand feu leur monte au visage.
-Alors, bien fermement je crois
-Qu'ils ont tous deux l'autour en tête.
-Mamsel Lisbeth, regardez-moi,
-Et vous verrez si j'ai l'air d'une bête.
-
--*who_lisbeth
-En tout cas, cet amour serait bien malheureux.
-
--*who_fridric
-Bon ! En les mariant tout deux,
-Cela s'arrangerait.
-
--*who_lisbeth
-      Ô la belle chimère !
-
--*who_fridric
-Et pourquoi donc ?
-
--*who_lisbeth
-      Je sais que ce jeune étranger
-A sauvé du plus grand danger
-Ma jeune maîtresse et sa mère.
-Mais il en est, je crois, assez récompensé.
-
--*who_fridric
-On peut récompenser de plus d'une manière.
-
--*who_lisbeth
-Celle-ci serait singulière :
-Nourri, logé, vêtu, prévenu, caressé ;
-Il a, de la maison, la confiance entière.
-Mais, si Madame a pu s'apercevoir
-Qu'il en conte à ton écolière,
-Nous pouvons nous attendre à ne plus le revoir.
-
--*who_fridric
-Ce serait bien fâcheux !
-
--*who_lisbeth
-      Oui, tout le monde l'aime ;
-C'est le meilleur garçon.
-
--*who_fridric
-      Hé ! Le voici lui-même.
-
-**** *book_ *id_I02 *act_I *date_1798
-
--*who_lisbeth
-Comment, c'est vous mon cher Mirval ?
-
--*who_mirval
-Bonsoir, mes bons amis.
-
--*who_fridric
-      Bon, vous serez du bal.
-
--*who_lisbeth
-De vous revoir, je suis vraiment ravie.
-Fridric , vas prendre les paquets.
-
--*who_fridric
-Depuis votre départ, tenez, je parierais
-Que Mademoiselle t'ennuie !...
-
--*who_lisbeth
-Faites ce qu'on vous dit.
-
--*who_fridric
-      J'y vais.
-
-**** *book_ *id_I03 *act_I *date_1798
-
--*who_mirval
-Lisbeth, pourquoi ces apprêts ?
-
--*who_lisbeth
-Ne m'interrogez point là-dessus, je vous prie.
-
--*who_mirval
-D'où vient ?
-
--*who_lisbeth
-      Soit par caprice ou par bizarrerie,
-Ma maîtresse, de ses projets,
-Ne m'a pas dit un mot.
-
--*who_mirval
-      Quelle plaisanterie !
-
--*who_lisbeth
-Je ne plaisante pas du tout : depuis longtemps,
-Rendant justice à ma prudence,
-Elle me faisait confidence
-Des secrets les plus important.
-Hé bien, dans cette circonstance,
-Soit Caprice, soit méfiance,
-Sans prendre mon avis elle a tout ordonné.
-Et vous serez plus étonné
-Quand vous saurez que sa fille chérie
-Ne sait pas un mot de ceci.
-
--*who_mirval
-Mais, comment se peut-il ?
-
--*who_lisbeth
-      Comment ? Elle est partie
-Peu de jours après vous.
-
--*who_mirval
-      Elle n'est point ici ?
-
--*who_lisbeth
-Non : c'est une cachotterie !...
-
--*who_mirval
-Sa mère m'avait fait partir
-Pour terminer d'importantes affaires,
-Sans m'avoir fait passer les papiers nécessaires.
-Elle m'écrit de revenir,
-Et son ordre est précis.
-
--*who_lisbeth
-      Voulez-vous bien permettre ?
-« Mirval, au reçu de ma lettre,
-Vous partirez sans perdre un seul instant ;
-...............................
-Abandonnez toute autre affaire.
-Je suis, etc. » ; et toujours du mystère ;
-Sur mon honneur, c'est révoltant.
-
--*who_mirval
-Vous connaissez votre maîtresse;
-Elle a trop de bon sens ; elle a trop de sagesse
-Pour n'avoir pas un motif important.
-
--*who_lisbeth
-On croit qu'en rassemblant aujourd'hui sa famille,
-Elle a dessein...
-
--*who_mirval
-      De quoi ?
-
--*who_lisbeth
-      De marier sa fille.
-Il a pâli : son amour est réel.
-
--*who_mirval
-Cachons mon déplaisir mortel.
-Puis-je entrer ?
-
--*who_lisbeth
-      Non, elle est chez elle.
-Mais ton Notaire est avec elle.
-
--*who_mirval
-Ciel !
-      Je ne puis donc lui parler ?
-
--*who_lisbeth
-Je ne sais pas si la chose est possible,
-Car elle a défendu qu'on aille la troubler ;
-Mais peut-être pour vous elle sera visible.
-J'y vais.
-      Pauvre garçon !
-
-**** *book_ *id_I04 *act_I *date_1798
-
--*who_mirval
-      Je me flattais en vain.
-Tout espoir est perdu : mon malheur est certain.
-Cette tendre amitié que me montrait sa mère,
-N'était donc qu'un appât trompeur,
-Qui devait rendre ma douleur
-Et plus cuisante et plus amère ?
-Mirval ? Elle n'est point cause de ton erreur,
-Et cette femme respectable
-A des droits sacrés sur ton coeur :
-En le donnant sa confiance entière,
-Elle a compté sur ta candeur.
-Respecte Adélaïde. Elle est ton écolière :
-Ne te prépare point la honte et les regrets,
-Supporte le malheur avec une âme fière,
-Et ne le mérite jamais.
-Par bonheur, je n'ai point encore
-Fait éclater mes sentiment secrets ;
-Adélaïde les ignore :
-J'ai vu naître, former, embellir ses attraits :
-Dans ses yeux sans expérience
-J'ai cru quelques fois entrevoir
-Ce premier sentiment si cher à l'innocence,
-Et que le coeur éprouve avant de le prévoir ;
-Mats sacrifiant tout à ta reconnaissance,
-Il faut étouffer l'espérance
-Et n'écouter que le devoir.
-Sauvons-là d'elle-même, et partons dès ce soir.
-Je veux surmonter ma tendresse,
-Dussai-je en périr de douleur.
-J'aime mieux mourir sans bassesse
-Que de végéter sans honneur.
-
-**** *book_ *id_I05 *act_I *date_1798
-
--*who_lisbeth
-Attendez, elle est en affaire,
-Mais elle vont fera venir
-Dès qu'elle aura renvoyé son Notaire.
-
--*who_mirval
-Aurez-vous la bonté de me faire avertir ?
-Je vais monter chez moi.
-
--*who_fridric
-      J'irai : soyez tranquille.
-
--*who_mirval
-Allons tout préparer et quittons cette ville.
-
-**** *book_ *id_I06 *act_I *date_1798
-
--*who_lisbeth
-Tu disais vrai, Fridric ; il a beau s'efforcer,
-Il ne peut cacher sa tristesse.
-
--*who_fridric
-Dam, quand on est prêt à danser
-À la noce de ta maîtresse,
-Ce n'est pas régalant.
-
--*who_lisbeth
-      Sa douleur m'intéresse.
-Je veux avec Madame avoir un entretien.
-Je l'attends de pied ferme.
-
--*who_fridric
-      Hé bien ?
-
--*who_lisbeth
-Je la retournerai de toutes les manières :
-J'emploierai tour-à-tour reproches et prières :
-Enfin, je m'y prendrai si bien
-Pour savoir son secret...
-
--*who_fridric
-      Que vous ne sauriez rien.
-
--*who_lisbeth
-Pourquoi donc, s'il vous plaît ?
-
--*who_fridric
-      Vous sériez en colère
-Si je vous disais le pourquoi.
-
--*who_lisbeth
-Point du tout.
-
--*who_fridric
-      Jurez-en.
-
--*who_lisbeth
-      Ma foi.
-
--*who_fridric
-Pour causer avec son notaire,
-Madame était dans son boudoir.
-J'étais contre la porte ; ils ne pouvaient me voir,
-Et je les regardais, comme je vous regarde ;
-Madame a dit...
-
--*who_lisbeth
-      Quoi donc ? Ne fais pas le discret.
-
--*who_fridric
-Qu'elle vous confierait volontiers ton secret,
-Si vous n'étiez pas si bavarde.
-
--*who_lisbeth
-Impertinent.
-
--*who_fridric
-      Ah ! C'est bien fait.
-Je ne devais pas vous instruire.
-Ce soufflet est bien mérité.
-Je savais que la vérité
-N'était pas toujours bonne à dire.
-
-**** *book_ *id_I07 *act_I *date_1798
-
--*who_madamewanderk
 Mon notaire oubliait ces papiers importants.
 Cours après lui, Fridric, et passe en même temps
 Chez mon bijoutier.
 
--*who_fridric
-      Pour quoi faire ?
-
--*who_madamewanderk
 Donnes-lui ce billet... Dis-lui que je l'attends,
 Et reviens au plutôt.
 
--*who_fridric
-      Je ne tarderai guère,
-Mais je vais avertir, avant de m'en aller,
-Mirval, qui voudrait vous parler.
-
--*who_madamewanderk
 Lisbeth ira.
 
--*who_fridric
-      C'est bon.
-
-**** *book_ *id_I08 *act_I *date_1798
-
--*who_lisbeth
-      En conscience ;
-Sans manquer à la bienséance,
-Et sans oublier mon devoir ;
-En ce moment je crois pouvoir
-Me plaindre amèrement de votre méfiance.
-
--*who_madamewanderk
 En quoi donc ?
 
--*who_lisbeth
-      Vous donnez une fête ce soir :
-M'en cacher la raison c'est me faire une offense ;
-Mon zèle a quelques droits et votre confiance.
-Il est bien dur pour moi...
-
--*who_madamewanderk
       Tu voudrais donc savoir
 Le motif de ce bal ?
 
--*who_lisbeth
-      J'en meurs d'impatience.
-
--*who_madamewanderk
 Il fallait donc m'en avertir.
 
--*who_lisbeth
-C'est que je craignais...
-
--*who_madamewanderk
       Quelle enfance !
 
--*who_lisbeth
-Vous aurez donc la complaisance...
-
--*who_madamewanderk
 En satisfaisant ton désir,
 Puis-je compter ?...
 
--*who_lisbeth
-      Sur un profond silence.
-
--*who_madamewanderk
 Si je donne une fête avec magnificence......
 C'est que tel est mon bon plaisir.
 
--*who_lisbeth
-Comment.
-
--*who_madamewanderk
       Ne vas pas me trahir :
 Te voilà dans ma confidence.
 
--*who_lisbeth
-La confidence est belle, et...
-
--*who_madamewanderk
       Va vite avertir
 Mirval que je l'attends.
 
--*who_lisbeth
-      Discrète autant qu'habile.
-
--*who_madamewanderk
 Sur la discrétion, va, je suis bien tranquille.
 
--*who_lisbeth
-En vérité, Madame.
-
--*who_madamewanderk
       Allez chercher Mirval.
 
--*who_lisbeth
-Oh ! Gardez vos secrets, cela m'est bien égal.
-
-**** *book_ *id_I09 *act_I *date_1798
-
--*who_madamewanderk
 Elle s'en va bien en colère.
 Mon silence lui cause un violent chagrin.
 Mais lui confier mon dessein
@@ -585,26 +58,12 @@ Une leçon forte et sévère,
 Mais sans la porter a l'excès,
 Je veux me venger... mais en mère.
 
-**** *book_ *id_I10 *act_I *date_1798
-
--*who_mirval
-Je me rends à votre ordre.
-
--*who_madamewanderk
       Ah ! Vous voilà Mirval ?
 Tant mieux ; vous m'étes nécessaire
 Pour faire les honneurs du bal.
 
--*who_mirval
-Comment ! Vous donnez une fête ?
-
--*who_madamewanderk
 Oui, mon bon ami.
 
--*who_mirval
-      Quand ?
-
--*who_madamewanderk
       Ce soir :
 J'ai su tout régler ; tout prévoir;
 Vous verrez si j'ai de la tête.
@@ -628,32 +87,15 @@ Mais la gaîté naïve et pure
 Est un présent de la nature
 Qui convient à chaque saison.
 
--*who_mirval
-Cet aimable enjouement qui vous caractérise...
-
--*who_madamewanderk
 Est le garant de ma franchise,
 Jusqu'au fond de mon coeur il est aisé de voir.
 
--*who_mirval
-Mais pourquoi donnez-vous cette fête ce soir ?
-À quelle occasion ?
-
--*who_madamewanderk
       Doucement, je vous prie,
 Mirval ? C'est mon secret que vous voulez savoir.
 
--*who_mirval
-Je n'ai pas prétendu.
-
--*who_madamewanderk
       Gardons chacun les nôtres.
 Vous ne m'avez jamais communiqué les vôtres.
 
--*who_mirval
-Ah ! Madame ! Croyez...
-
--*who_madamewanderk
       Je ne vous blâme en rien.
 Chacun peut à son gré disposer de son bien,
 Sans que personne s'en offense :
@@ -664,88 +106,35 @@ Devoir me déguiser les siens,
 Ne doit jamais prétendre à connaître les miens :
 Méfiance pour méfiance.
 
--*who_mirval
-En me comblant de vos bienfaits,
-M'avez-vous, une fois, demandé mes secrets ?
-
--*who_madamewanderk
 On peut avec reconnaissance
 Recevoir une confidence ;
 Mais on te l'exige jamais.
 
--*who_mirval
-Sans vouloir vous tromper j'ai gardé le silence.
-Mon père, intéressé dans un commerce immense,
-Vit tout-à-coup change son sort.
-Un revers accablant engloutit sa fortune :
-La vie alors lui devint importune ;
-Il oublia son fils, et se donna la mort.
-Resté sans appui sur la terre ;
-Redoutant le mépris qui s'attache au malheur,
-Je vins ici cacher ma honte et ma misère.
-Vous avez de mon sort, adouci la rigueur ;
-Et je dois tout à votre bienfaisance.
-
--*who_madamewanderk
 Dites plutôt, mon cher, et ma reconnaissance.
 Mais je savais déjà cela.
 
--*who_mirval
-      Vous le saviez ?
-
--*who_madamewanderk
 Sans doute, et vous voyez par là
 À quoi peut servir le mystère.
 Avec ses vrais amis il faut être sincère.
 
--*who_mirval
-Vous savez mes secret... 
-
--*who_madamewanderk
       Bien vrai ?
 
--*who_mirval
-      Je n'en ai plus...
-
--*who_madamewanderk
 Cherchez là
 
--*who_mirval
-      Madame, ils vous sont tous connus.
-
--*who_madamewanderk
 Tous, c'est un peu fort.
 
--*who_mirval
-      Je vous jure...
-
--*who_madamewanderk
       Ne jurez pas.
 
--*who_mirval
-Mais...
-
--*who_madamewanderk
       Gardez-vous-en bien.
 Je plains la méfiance et je hais l'imposture.
 À qui veut m'offenser, je pardonne une injure ;
 À qui veut me tromper, je ne pardonne rien.
 
--*who_mirval
-De ce qu'elle me dit que faut-il que j'augure ?
-La crainte quelquefois...
-
--*who_madamewanderk
       On peut se méfier,
 De celui que la crainte arrête :
 Tout sentiment a cessé d'être honnête
 Dès qu'on rougit de l'avouer.
 
--*who_mirval
-Ah ! Mon coeur s'ouvre à l'espérance.
-Souvent la crainte d'offenser...
-
--*who_madamewanderk
 Jamais la franchise n'offense :
 Mais la réservé peut blesser ;
 Entre de vrais amis la sotte défiance
@@ -753,128 +142,40 @@ Est ridicule et fait pitié :
 L'attachement sans confiance
 N'est que l'ombre de l'amitié.
 
-**** *book_ *id_I11 *act_I *date_1798
-
--*who_adelaide
-Ô comme c'est joli !
-      Maman que je t'embrasse.
-
--*who_madamewanderk
 Viens, mon enfant.
 
--*who_adelaide
-      J'étais bien lasse
-De ton absence... Mais pourquoi
-Me laisser huit jours loin de toi ?
-
--*who_madamewanderk
 Tu le sauras dans peu.
 
--*who_adelaide
-      Qu'est-ce donc qui se passe ?
-Pourquoi l'appartement est-il orné partout ?
-
--*who_madamewanderk
 Trouves-tu cela de ton goût ?
 
--*who_adelaide
-C'est charmant ; mais pourquoi ces apprêts ?
-
--*who_madamewanderk
       Patience,
 Tu seras instruite ce soir.
 
--*who_adelaide
-Ce soir ? Oh ! C'est trop long ! Je voudrais tout savoir
-À l'instant même.
-
--*who_madamewanderk
       Ah ! Quelle pétulance !
 Plutôt, plus tard ; c'est bien égal.
 
--*who_adelaide
-Ah ?
-
--*who_madamewanderk
       Comment ? Qu'as-tu donc ?
 
--*who_adelaide
-      Mirval.
-Je ne vous voyais pas.
-
--*who_madamewanderk
       Si pour te satisfaire
 Il faut absolument t'apprendre ce mystère,
 Je vais te contenter.
 
--*who_adelaide
-      C'est mal.
-D'abandonner votre écolière.
-
--*who_mirval
-J'étais...
-
--*who_madamewanderk
       Tu vas savoir des détails importants
 Que, malgré moi, j'ai dû te taire.
 
--*who_adelaide
-J'ai perdu mes leçons...
-
--*who_mirval
-      Pendant dix jours.
-
--*who_adelaide
-      Le temps
-M'a paru bien plus long.
-
--*who_madamewanderk
       J'espère
 Que tu m'écouteras.
 
--*who_adelaide
-      C'est que je m'ennuyais !
-Mais où donc étiez-vous ?
-
--*who_mirval
-      J'étais à votre terre.
-
--*who_adelaide
-Pardi, c'était bien nécessaire.
-Il fallait venir où j'étais.
-
--*who_mirval
-J'obéissais à votre mère.
-
--*who_adelaide
-Et moi je n'ai pu travailler
-Pendant ces dix grands jours !
-
--*who_madamewanderk
       Elle mourait d'envie
 De savoir mon secret.... Hé bien ? Elle l'oublie :
 Quand il s'agit de babiller,
 Quelle tête folle et légère !
 
--*who_adelaide
-Quand mon maître est absent, je ne puis plus rien faire.
-
--*who_madamewanderk
 Hé bien, le voilà de retour.
 
--*who_adelaide
-Depuis que j'ai pris l'habitude
-De prendre leçon chaque jour ;
-Vous n'imaginez pas combien j'aime... l'étude.
-
--*who_madamewanderk
 Mais mon enfant, ce que lu sait déjà,
 Quelques leçons de moins ne peuvent le détruire.
 
--*who_adelaide
-Oh ! C'est égal : j'aime à m'instruire.
-
--*who_madamewanderk
 Hé ! Laisse faire, il t'instruira.
 Dans votre chambre allez m'attendre.
 Mon cher Mirval, je veux publiquement
@@ -882,174 +183,357 @@ Vous donner aujourd'hui la marque la plus tendre
 De mon sincère attachement.
 Allez.
 
--*who_mirval
-      À peine je respire.
-
--*who_madamewanderk
 Toi, j'ai quelque chose à te dire
 Qui t'intéresse vivement.
 Allez, mon franc ami.
 
--*who_adelaide
-Qu'a-t-elle donc à rire ?
-
--*who_madamewanderk
 Leur embarras m'amuse infiniment.
 
-**** *book_ *id_I12 *act_I *date_1798
-
--*who_madamewanderk
 Pourras-tu m'écouter à présent ?
 
--*who_adelaide
-      Oui, ma mère.
-
--*who_madamewanderk
 Sais-tu ma fille à quel point tu m'es chère ?
 
--*who_adelaide
-Maman ? Mets la main sur mon coeur,
-Il te répondra.
-
--*who_madamewanderk
       Ton bonheur
 Tient trop au mien pour que je le diffère ;
 C'est mon plus doux plaisir, c'est ma plus grande affaire ;
 Et lui seul peut combler mes voeux.
 
--*who_adelaide
-Ô ma bonne maman !
-
--*who_madamewanderk
       J'ai mandé mou notaire,
 Et j'attends nos parents, nos amis.
 
--*who_adelaide
-      Pourquoi faire ?
-
--*who_madamewanderk
 Pour t'assurer le sort le plus heureux.
 
--*who_adelaide
-Tout cela n'est pas nécessaire :
-Pour être heureux avec ma mère,
-Je n'ai jamais eu besoin d'eux.
-
--*who_madamewanderk
 Tu vas changer d'état.
 
--*who_adelaide
-      Comment ?
-
--*who_madamewanderk
       Je te marie.
 
--*who_adelaide
-Ne badine pas, je t'en prie,
-Le coeur me bât terriblement.
-
--*who_madamewanderk
 Et j'ai voulu, ma bonne amie,
 Te surprendre agréablement.
 
--*who_adelaide
-Ah ! Si c'était ce que je pense !
-
--*who_madamewanderk
 Depuis longtemps avec prudence
 J'étudiais les goûts afin de les saisir...
 
--*who_adelaide
-Elle a lu dans mon coeur.
-
--*who_madamewanderk
       Ma tendre complaisance
 N'a consulté dans cette circonstance
 Que ce qui peut contenter ton désir.
 
--*who_adelaide
-Ô combien je dois vous chérir !
-
--*who_madamewanderk
 J'ai sondé les replis de ton âme ingénue :
 Quand je me suis bien convaincue
 Que ton coeur était libre...
       ... Et que tu n'aimais rien.
 Que la parure et la magnificence...
 
--*who_adelaide
-Moi, ma mère ?
-
--*who_madamewanderk
       Tu vois que je te connaît bien.
 
--*who_adelaide
-Mais...
-
--*who_madamewanderk
       Il fallait en conséquence
 Te ménager ure riche alliance,
 Et c'est à quoi je viens de travailler.
 
--*who_adelaide
-Vous avez, dites-vous ?...
-
--*who_madamewanderk
       Hé ! Oui, tu vas briller !
 Tu vas nager dans l'opulence !
 De la félicité mon coeur jouit d'avance.
 
--*who_adelaide
-Écoutez-moi.
-
--*who_madamewanderk
       C'en est assez.
 
--*who_adelaide
-À vos pieds...
-
--*who_madamewanderk
       Lève toi, ma fille,
 Quand sur ton front le plaisir brille,
 Mes soins sont trop récompensés.
 
--*who_adelaide
-Quoi ?...
-
--*who_madamewanderk
       Dans tes yeux ton coeur se déploie.
 
--*who_adelaide
-Mais, regardez-les donc.
-
--*who_madamewanderk
       Que ces larmes de joie
 Me payent bien...
 
--*who_adelaide
-      Écoutez.
-
--*who_madamewanderk
       Non :
 Ma chère enfant, je te dispense ;
 De ces remerciements qui sont hors de saison.
 
--*who_adelaide
-Si vous vouliez m'entendre !
-
--*who_madamewanderk
       Eh ! Mais je sais d'avance
 Ce que tu me dirais.
 
--*who_adelaide
-      Mon coeur...
-
--*who_madamewanderk
       C'est bon ! C'est bon.
 
-**** *book_ *id_I13 *act_I *date_1798
+Que l'on conduise ici Mirval et mon notaire.
 
--*who_adelaide
+      Ah ! Vous êtes ici ?
+Je vous faisais chercher : vous m'êtes nécessaire.
+Le bonheur de ma fille est ma première affaire.
+Mais cependant il faut aussi
+Qu'envers vous Mirval, je m'acquitte.
+Je sais que je vous dois beaucoup.
+
+Ma fille tient de vous ce qu'elle a de mérite.
+Ses talents, par vos soins, peuvent encore gagner.
+Il est temps de vous témoigner
+Jusqu'où va ma reconnaissance ;
+Elle surpassera je crois voire espérance ;
+Je m'en flatte du moins.
+
+      Oui : je veux assurer votre état :
+Mais veut me promettez d'achever votre ouvrage ,
+C'est une clause du contrat.
+
+      Sans consulter l'usage,
+Sans prendre avis de mes parents.
+Je vous ai fait un avantage
+Qu'on n'accorde qu'à ses enfants,
+Et vous voilà de la famille.
+
+      Écoute-moi, ma fille,
+II est temps à présent de te faire savoir
+Ce secret désiré.
+      J'ai rempli le devoir
+D'une mère prudente et sage :
+J'ai bien conduit l'affaire, et vous allez le voir.
+Le plus riche parti de tout le voisinage,
+Qui réunit par un double avantage
+Et l'opulence et le pouvoir ;
+Homme puissant.
+
+      Vient t'épouser ce soir.
+
+      Un seigneur, et du plut haut parage.
+Vous, Mirval, vous allee signer.
+À son contrat de mariage.
+Je crois que cet honneur n'est pas a dédaigner.
+
+      Il change de visage.
+
+      Quoi ?
+
+Pourquoi donc, mon enfant ? Le mien était certain
+De la parfaite indifférence.
+
+      Ton silence.
+
+      Oh ! Je ne risquais rien.
+
+      Hé bien ?
+
+Ah ! Loin de prendre un ton sévère,
+Ton choix, tel qu'il put être, aurait été le mien.
+Mais j'étais sûre du contraire.
+
+      Ah ! Mon enfant, je croirais t'outrager,
+Si j'osais supposer qu'une fille si chère
+Eut quelques secrets pour ta mère.
+Du plus faible penchant, du goût le plus léger,
+Tu m'aurais sur-le-champ fait un aveu sincère.
+
+      Les détours sont faits pour les coeurs corrompus
+Que la honte retient, que le grand jour offense.
+Mais lorsqu'au sein de l'innocence,
+On chérit à la fois sa mère et les vertus,
+On dit hardiment ce qu'on pense.
+
+Va, mon cceur du lien est si sûr,
+Qu'en arrangeant ce mariage...
+
+      Est franc, sensible et pur.
+Le soupçonner est un outrage.
+
+      Mets cette table ici.
+Je vous attendais.
+
+Notre affaire est-elle finie ?
+
+      Finissons, je vous prie.
+
+      Au contraire,
+Je vous ai prié de vous taire.
+
+Ô quelle tête !
+
+Hé, taisez-vous.
+
+Eh ! Paix donc !
+
+Mais vous extravaguez, je crois !
+
+Écoutez moi.
+
+Ajoutez-y cela.
+
+Asseyez-vous.
+
+Enfin, voici l'instant le plus doux pour mon cceur.
+Je vais partager mon bonheur,
+Et celle tâche m'est bien chère.
+Viens : en attendant ton époux,
+Signes toujours.
+
+      Mon dieu ! Qu'as-tu pu faire
+Qui te fasse à ce point redouter ma colère ?
+
+      Et quoi donc ?
+
+Toi, m'affliger, mon enfant ? Toi !
+
+      Pourquoi ?
+Expliques-toi donc, je t'en prie.
+
+Qu'ai-je entendu ? Ma fille ! À peine je le crois.
+Quoi ? Dans le coeur d'Adélaïde
+Un secret a pu m'échapper?
+
+À cette méfiance aurais-je pu m'attendre !
+Me cacher ton penchant, n'est-ce pas me trahir?
+Tu voulais donc priver la mère la plus tendre
+Du droit le plus sacré, celui de te servir ;
+Celui de te guider et de te rendre heureuse ?
+Pour un coeur maternel, épreuve douloureuse !
+Venez, mon cher Mirval, venez me secourir ;
+Contre un coup si cruel venez me soutenir.
+L'exemple de cette âme et franche et généreuse,
+Suffit pour te faire rougir.
+Son amitié sincère et tendre
+N'éprouvera jamais ni remords ni regrets.
+Si son coeur avait des secrets
+Ce serait dans mon sein qu'il viendrait les répandre.
+
+Qui, vous Mirval ?
+
+      Ô crime épouvantable !
+Ce dernier trait m'étourdit et m'accable.
+
+Quand les attentions, les soins officieux
+De ma conduite étaient les guides,
+Loin de me payer de retour
+Je n'ai trouvé, pour prix de tant d'amour,
+Que des coeurs ingrats et perfides.
+
+      Laissez moi, laissez moi.
+
+      Silence !
+
+Soumettez-vous ma fille à mon obéissance,
+Rien ne peut plus changer ma volonté ;
+Mais n'accusez de ma sévérité
+Que votre peu de confiance.
+
+Hé bien... je ne veux pas te faire violence :
+Tu peux choisir en liberté.
+Entre ces deux partis celui qui peut le plaire.
+Sans connaître l'époux que je t'ai destiné,
+Qu'à l'instant de ta main ce contrat soit signé,
+Ou renonce à jamais à l'amour de ta mère.
+
+Ô chère enfant !
+
+Votre manque de confiance,
+Avait trop justement excité mon courroux.
+Apprenez tous les deux jusqu'où va ma vengeance.
+Adélaïde... embrasse ton époux.
+
+Levez-vous mes enfants, et venez dans mes bras.
+J'ai peut-être un peu trop prolongé ma vengeance ;
+Mais c'est en vous faisant rougir,
+Que j'ai voulu tous les deux vous guérir
+De votre injuste méfiance.
+« Jeunes gens sans expérience,
+Fuyez la ruse et les détours ;
+Ne cachez rien aux auteurs de vos jours,
+Et comptez sur leur indulgence.
+Évitez les pièges trompeurs
+Où vous entraîne l'imposture.
+On marche au vice par l'erreur.
+Si vous voulez toujours suivre l'honneur,
+N'offensez jamais la nature. »
+
+
+**** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
+
+Ô comme c'est joli !
+      Maman que je t'embrasse.
+
+      J'étais bien lasse
+De ton absence... Mais pourquoi
+Me laisser huit jours loin de toi ?
+
+      Qu'est-ce donc qui se passe ?
+Pourquoi l'appartement est-il orné partout ?
+
+C'est charmant ; mais pourquoi ces apprêts ?
+
+Ce soir ? Oh ! C'est trop long ! Je voudrais tout savoir
+À l'instant même.
+
+Ah ?
+
+      Mirval.
+Je ne vous voyais pas.
+
+      C'est mal.
+D'abandonner votre écolière.
+
+J'ai perdu mes leçons...
+
+      Le temps
+M'a paru bien plus long.
+
+      C'est que je m'ennuyais !
+Mais où donc étiez-vous ?
+
+Pardi, c'était bien nécessaire.
+Il fallait venir où j'étais.
+
+Et moi je n'ai pu travailler
+Pendant ces dix grands jours !
+
+Quand mon maître est absent, je ne puis plus rien faire.
+
+Depuis que j'ai pris l'habitude
+De prendre leçon chaque jour ;
+Vous n'imaginez pas combien j'aime... l'étude.
+
+Oh ! C'est égal : j'aime à m'instruire.
+
+Qu'a-t-elle donc à rire ?
+
+      Oui, ma mère.
+
+Maman ? Mets la main sur mon coeur,
+Il te répondra.
+
+Ô ma bonne maman !
+
+      Pourquoi faire ?
+
+Tout cela n'est pas nécessaire :
+Pour être heureux avec ma mère,
+Je n'ai jamais eu besoin d'eux.
+
+      Comment ?
+
+Ne badine pas, je t'en prie,
+Le coeur me bât terriblement.
+
+Ah ! Si c'était ce que je pense !
+
+Elle a lu dans mon coeur.
+
+Ô combien je dois vous chérir !
+
+Moi, ma mère ?
+
+Mais...
+
+Vous avez, dites-vous ?...
+
+Écoutez-moi.
+
+À vos pieds...
+
+Quoi ?...
+
+Mais, regardez-les donc.
+
+      Écoutez.
+
+Si vous vouliez m'entendre !
+
+      Mon coeur...
+
 Ô quel charmant espoir elle vint de détruire !
 Me voilà maintenant dans un bel embarras !
 Mais comment ne sait-elle pas
@@ -1071,72 +555,30 @@ Eh ! Pourrai-je éprouver un plus cruel tourment
 Que le malheur de lui déplaire ?
 Non : non... Si je parlais de Mirval ;... le voici.
 
-**** *book_ *id_I14 *act_I *date_1798
-
--*who_adelaide
 Oh ! Comme il est rêveur !
 
--*who_mirval
-      Elle est encore ici ?
-Je ne puis l'éviter.
-
--*who_adelaide
       Que n'ai-je assez d'adresse
 Pour le faire expliquer !
 
--*who_mirval
-      Cachons-lui ma faiblesse ;
-Et prenons garde de nous trahir.
-
--*who_adelaide
 Je ne pourrai jamais lui parler sans rougir.
 Pourquoi restez-vous là Mirval ?
 
--*who_mirval
-      Mademoiselle,
-Je cherche voire mère.
-
--*who_adelaide
       Elle ra revenir.
 Vous savez qu'à vous voir elle a bien du plaisir.
 Restez.
 
--*who_mirval
-      Sa bonté naturelle...
-
--*who_adelaide
 Et vous savez aussi que je pense comme elle.
 
--*who_mirval
-Croyez que mon respect...
-
--*who_adelaide
       Je n'oublierai jamais
 Que c'est à vous que je dois mes progrès.
 
--*who_mirval
-De mes soins assidus ils sont la récompense.
-
--*who_adelaide
 Ils vous donnent des droits à ma reconnaissance,
 Ainsi qu'à ma tendre amitié.
 
--*who_mirval
-Ô ciel !
-
--*who_adelaide
       Pour vous prouver toute ma confiance,
 Je veux vous faire confidence
 De mes chagrins... vous en aurez pitié.
 
--*who_mirval
-Daignez m'écouter je vous prie.
-Votre coeur pur et sans détour
-Ne veut pas offenser une mère chérie ?
-Me révéler ce qui vous contrarie,
-C'est un vol fait à son amour.
-
--*who_adelaide
 Ah ! Vous savez combien son amitié m'est chère !
 Elle tient à mon être ; elle m'est nécessaire :
 Et malgré des rapports si doux,
@@ -1145,539 +587,133 @@ En quoi notre amitié diffère ;
 Mais celle que j'ai pour ma mère
 N'est pas celle que j'ai pour vous.
 
--*who_mirval
-Et je ne puis parler ! Ô contrainte cruelle !
-
-**** *book_ *id_I15 *act_I *date_1798
-
--*who_fridric
-Vivat, vivat ! Grande nouvelle !
-
--*who_adelaide
 Qu'est-ce que c'est ?
 
--*who_fridric
-      Je l'ai dit ce matin,
-« Il faut que le fait soit certain,
-Puisque l'on donne une veillée ».
-J'ai de l'esprit comme un lutin !
-Vous allez être émerveillée !
-
--*who_adelaide
 Et de quoi donc ?
 
--*who_fridric
-      Quand vous verrez cela !
-Ceci par ci, cela par là !
-Il faudra que chacun admire ;
-Et puis ensemble on s'écriera...
-« La bonne maman que voilà ! »
-Et puis au bal comme on va rire !
-Et walz, et walz : et houp ça ça.
-
--*who_mirval
-Du sujet de ta joie il faudrait nous instruire.
-
--*who_adelaide
 Mais sans doute.
 
--*who_fridric
-      Je le veux bien.
-Votre mère m'a dit, mais sans m'expliquer rien,
-Vas porter promptement ces papiers, cette lettre.
-
--*who_adelaide
 À qui ?
 
--*who_fridric
-      Voulez-vous bien permettre ?
-Je vous expliquerai le fait de bout en bout.
-J'ai porté les papiers... ensuite
-Chez l'autre j'ai couru bien vite :
-Mais quand je me suis trouvé là,
-Ah ! Bon dieu !
-
--*who_adelaide
       Quoi donc ?
 
--*who_fridric
-      De ma vie.
-Je n'ai rien vu comme cela !
-Et vous en serez éblouie :
-Oh ! Vous pouvez vous en fier à moi :
-C'est superbe !
-
--*who_adelaide
       Superbe ! Quoi ?
 
--*who_fridric
-Un petit moment, je vous prie.
-Il m'a tout étalé pour me faire tout voir.
-
--*who_adelaide
 Quoi donc ?
 
--*who_fridric
-      Vous voulez le savoir ?
-
--*who_adelaide
 Eh ! Sûrement ; j'en meurs d'envie.
 
--*who_fridric
-Pendant que j'admirais cela
-Il a relu la lettre.
-
--*who_mirval
-      Eh ! bien ?
-
--*who_fridric
-      Je vous annonce...
-
--*who_adelaide
 Après ?
 
--*who_fridric
-      Que je m'en vais en porter la réponse :
-Hé wals, hé wals, hé houp ça, ça !
-
-**** *book_ *id_I16 *act_I *date_1798
-
--*who_adelaide
 Il est devenu fou.
 
--*who_mirval
-      Qu'annonce ce mystère ?
-
--*who_adelaide
 En vérité, je n'en sais rien.
 Mais vous, Mirval, serez-vous plus sincère ?
 
--*who_mirval
-N'en doutez pas.
-
--*who_adelaide
       Sur quoi roulait votre entretien
 Quand je vous ai trouvé tantôt avec ma mère ?
 
--*who_mirval
-Nous parlions de sincérité ;
-Pour elle cette qualité
-À plus d'une autre est préférable.
-
--*who_adelaide
 Elle a raison, rien n'est plus agréable !
 
--*who_mirval
-Elle ajoutait avec bonté :
-« Jamais un coeur pur ne déguise
-Les accents de la vérité. »
-
--*who_adelaide
 Mirval ? De ces leçons avez-vous profité ?
 
--*who_mirval
-Sans doute.
-
--*who_adelaide
       Hé bien, parlons avec franchise.
 Voyons ; expliquons-nous.
 
--*who_mirval
-      Nous expliquer ? Sur quoi ?
-
--*who_adelaide
 Vous m'impatientez.
 
--*who_mirval
-      Ô devoir trop sévère.
-
--*who_adelaide
 Hé bien, Mirval, conseillez moi.
 D'abord ; apprenez que ma mère
 Veut me marier dès ce soir.
 
--*who_mirval
-Je m'en doutais.
-
--*who_adelaide
       Fort bien.... Elle ne fait pas voir
 Ce beau mari !
 
--*who_mirval
-      Sur sa sagesse
-Vous devez fonder votre espoir :
-Vous connaissez pour vous jusqu'où va ta tendresse,
-Et vous savez votre devoir.
-
--*who_adelaide
 Et si cet homme est haïssable.
 
--*who_mirval
-Votre mère est trop raisonnable
-Pour avoir fait un choix dont elle pût rougir.
-Ah ! Croyez que l'époux qu'elle a sua vous choisir...
-
--*who_adelaide
 Mais quand il serait adorable,
 Si je ne puis pas le souffrir ?
 Que dois-je faire alors ?
 
--*who_mirval
-      Agir
-Comme une fille raisonnable,
-Qui craignant d'affliger sa mère respectable,
-A le courage d'obéir.
-
--*who_adelaide
 Oh ! Vous êtes insupportable !
 
--*who_mirval
-Ne vous mettez pas en courroux.
-
--*who_adelaide
 Quel raisonnement est le vôtre !
 Eh ! Comment voulez-vous que j'en épouse un autre,
 Lorsque mon coeur est tout à vous ?
 
--*who_mirval
-Quoi ! Vous m'aimez !
-
--*who_adelaide
       Allons, feignez de la surprise.
 Hum ! Vous le saviez bien !
 
--*who_mirval
-      Jamais...
-
--*who_adelaide
       Qu'il est menteur !
 
--*who_mirval
-Ah ! Pour connaître mon bonheur...
-
--*who_adelaide
 Il fallait que je vous le dise ?
 Eh bien ! Vous devez le savoir,
 Je vous l'ai dit.
 
--*who_mirval
-      Adélaïde,
-Je serais un ingrat : je serais un perfide
-Si je vous laissais entrevoir
-La plus faible lueur d'espoir.
-
--*who_adelaide
 Pourquoi donc ? Ma mère vous aime,
 Tantôt encor, comme elle m'assurait
 Avec une tendresse extrême,
 Que mon bonheur seul l'occupait.
 J'ai cru que c'était vous qu'elle me destinait.
 
--*who_mirval
-Eh mais ! la chose est impossible !
-Sans état ; sans appui ; moi qui n'ai pour tout bien
-Qu'une âme tendre, un coeur sensible...
-
--*who_adelaide
 Et vous comptez cela pour rien ?
 
--*who_mirval
-Étouffez un penchant que votre mère ignore,
-Et que vous ne devez jamais lui révéler.
-
--*who_adelaide
 Vous ne m'aimez donc pas ?
 
--*who_mirval
-Qui, moi ? Je vous adore.
-
-**** *book_ *id_I17 *act_I *date_1798
-
--*who_adelaide
 Ah ! Cela s'appelle parler.
 
--*who_mirval
-Juste ciel ! Quel est mon délire ?
-J'oublie, en osant vous le dire,
-La reconnaissance et l'honneur.
-Madame Wanberk se retire et ferme doucement la porte.
-
--*who_adelaide
 Hé non ! Vous êtes dans l'erreur.
 
--*who_mirval
-Ah ! Loin d'encourager ma criminelle ardeur,
-Condamnez moi vous-même au plus cruel martyre :
-Défendez-moi de vous offrir mon coeur.
-
--*who_adelaide
 Eh ! Défend-on ce qu'on désire ?
 
--*who_mirval
-Adélaïde !
-
--*who_adelaide
       Hé bien ?
 
--*who_mirval
-      Vous nous perdez tous deux.
-
--*who_madamewanderk
-Que l'on conduise ici Mirval et mon notaire.
-
--*who_mirval
-Je fuis !
-
--*who_adelaide
       Non ! Demeurez... je veux,
 Devant vous, tout dire à ma mère.
 
--*who_mirval
-Je n'oserai jamais...
-
--*who_adelaide
       Hé bien, laisses moi faire.
 J'ai du courage, moi.
 
--*who_madamewanderk
-      Ah ! Vous êtes ici ?
-Je vous faisais chercher : vous m'êtes nécessaire.
-Le bonheur de ma fille est ma première affaire.
-Mais cependant il faut aussi
-Qu'envers vous Mirval, je m'acquitte.
-Je sais que je vous dois beaucoup.
-
--*who_adelaide
 Que vous avais-je dit ?
 
--*who_mirval
-      C'est moi qui vous doit tout.
-
--*who_madamewanderk
-Ma fille tient de vous ce qu'elle a de mérite.
-Ses talents, par vos soins, peuvent encore gagner.
-Il est temps de vous témoigner
-Jusqu'où va ma reconnaissance ;
-Elle surpassera je crois voire espérance ;
-Je m'en flatte du moins.
-
--*who_adelaide
       Comme le coeur me bat !
 
--*who_mirval
-Madame...
-
--*who_madamewanderk
-      Oui : je veux assurer votre état :
-Mais veut me promettez d'achever votre ouvrage ,
-C'est une clause du contrat.
-
--*who_adelaide
 Du contrat : c'est bien clair.
 
--*who_madamewanderk
-      Sans consulter l'usage,
-Sans prendre avis de mes parents.
-Je vous ai fait un avantage
-Qu'on n'accorde qu'à ses enfants,
-Et vous voilà de la famille.
-
--*who_mirval
-Ah ! Madame !
-
--*who_adelaide
       Ah ! Ma mère !
 
--*who_madamewanderk
-      Écoute-moi, ma fille,
-II est temps à présent de te faire savoir
-Ce secret désiré.
-      J'ai rempli le devoir
-D'une mère prudente et sage :
-J'ai bien conduit l'affaire, et vous allez le voir.
-Le plus riche parti de tout le voisinage,
-Qui réunit par un double avantage
-Et l'opulence et le pouvoir ;
-Homme puissant.
-
--*who_adelaide
       Hé bien ?
 
--*who_madamewanderk
-      Vient t'épouser ce soir.
-
--*who_adelaide
 Moi ? J'épouse...
 
--*who_madamewanderk
-      Un seigneur, et du plut haut parage.
-Vous, Mirval, vous allee signer.
-À son contrat de mariage.
-Je crois que cet honneur n'est pas a dédaigner.
-
--*who_mirval
-Quel coup !
-
--*who_madamewanderk
-      Il change de visage.
-
--*who_adelaide
 Je m'en vais lui parler... calmez votre chagrin.
 Pardon, maman... mais...
 
--*who_madamewanderk
-      Quoi ?
-
--*who_adelaide
       Je pense...
 Que vous pouviez, par complaisance,
 Interroger mon coeur avant d'offrir ma main.
 
--*who_madamewanderk
-Pourquoi donc, mon enfant ? Le mien était certain
-De la parfaite indifférence.
-
--*who_adelaide
 Qui vous l'assure ?
 
--*who_madamewanderk
-      Ton silence.
-
--*who_adelaide
 Quoi ? Mon silence ?...
 
--*who_madamewanderk
-      Oh ! Je ne risquais rien.
-
--*who_adelaide
 Répondez franchement.
 
--*who_madamewanderk
-      Hé bien ?
-
--*who_adelaide
 Vous seriez-vous mise en colère
 Si je vous avais dit : « Quelqu'un a su me plaire,
 Et ce quelqu'un n'a pat de bien ? »
 
--*who_madamewanderk
-Ah ! Loin de prendre un ton sévère,
-Ton choix, tel qu'il put être, aurait été le mien.
-Mais j'étais sûre du contraire.
-
--*who_adelaide
 Bien sûre ?
 
--*who_madamewanderk
-      Ah ! Mon enfant, je croirais t'outrager,
-Si j'osais supposer qu'une fille si chère
-Eut quelques secrets pour ta mère.
-Du plus faible penchant, du goût le plus léger,
-Tu m'aurais sur-le-champ fait un aveu sincère.
-
--*who_adelaide
 Oh !!!
 
--*who_madamewanderk
-      Les détours sont faits pour les coeurs corrompus
-Que la honte retient, que le grand jour offense.
-Mais lorsqu'au sein de l'innocence,
-On chérit à la fois sa mère et les vertus,
-On dit hardiment ce qu'on pense.
-
--*who_mirval
-Que le reproche est dur, quand il est mérité.
-
--*who_adelaide
 J'allais dire la vérité,
 Mais quand on est coupable on n'a plus de courage.
 
--*who_madamewanderk
-Va, mon cceur du lien est si sûr,
-Qu'en arrangeant ce mariage...
-
--*who_adelaide
 Ce coeur...
 
--*who_madamewanderk
-      Est franc, sensible et pur.
-Le soupçonner est un outrage.
-
-**** *book_ *id_I18 *act_I *date_1798
-
--*who_fridric
-Votre notaire.
-
--*who_adelaide
       Ô ciel !
 
--*who_madamewanderk
-      Mets cette table ici.
-Je vous attendais.
-
--*who_lenotaire
-      Me voici.
-
--*who_madamewanderk
-Notre affaire est-elle finie ?
-
--*who_lenotaire
-J'ai stipulé le tout au gré de voire envie :
-Je ne veux pas être vanté.
-Mais je puis assurer avec véracité
-Que dans tous les contrats que j'ai fait en ma vie,
-Jamais ma perspicacité,
-N'a saisi les objets...
-
--*who_madamewanderk
-      Finissons, je vous prie.
-
--*who_lenotaire
-Un moment s'il vous plaît : ne m'avez-vous pas dit
-Qu'il fallait expliquer clairement...
-
--*who_madamewanderk
-      Au contraire,
-Je vous ai prié de vous taire.
-
--*who_lenotaire
-Non pas, dans le contrat cela n'est point écrit.
-
--*who_madamewanderk
-Ô quelle tête !
-
--*who_lenotaire
-      En fait d'affaire,
-On prend le parti le plus sûr ;
-Donc, j'ai joint au nom du futur...
-
--*who_madamewanderk
-Hé, taisez-vous.
-
--*who_lenotaire
-      ... Le titre de la terre
-Qui vient de vous coûter deux cents mille florins.
-
--*who_madamewanderk
-Eh ! Paix donc !
-
--*who_lenotaire
-      D'après vos desseins,
-J'ai rédigé l'article, et je vais vous le lire.
-
--*who_madamewanderk
-Mais vous extravaguez, je crois !
-
--*who_lenotaire
-Si quelqu'un extravague ici, ce n'est pas moi.
-
--*who_madamewanderk
-Écoutez moi.
-
--*who_lisbeth
-      Toujours se cacher ! Quel martyre!
-
--*who_adelaide
 Je vous aime... ce soir je puis encore le dire ;
 Mais si l'on engage ma main,
 Je ne le pourrai plus demain.
@@ -1687,213 +723,413 @@ Prévenons sa juste colère ;
 Tâchons, par un aveu sincère
 De la toucher, de l'attendrir.
 
--*who_mirval
-Et si malgré nos pleurs elle reste inflexible,
-Promettons tous deux de remplir
-Un devoir sacré ! Mais pénible.
-
--*who_adelaide
 Quel sera le mien ?
 
--*who_mirval
-      D'obéir.
-
--*who_adelaide
 Le vôtre, Mirval ?
 
--*who_mirval
-      De vous fuir.
-
--*who_madamewanderk
-Ajoutez-y cela.
-
--*who_lenotaire
-      Cela ?... Quoi, je vous prie ?
-
--*who_madamewanderk
-Asseyez-vous.
-
--*who_lenotaire
-      Que diable signifie ?...
-
--*who_madamewanderk
-Enfin, voici l'instant le plus doux pour mon cceur.
-Je vais partager mon bonheur,
-Et celle tâche m'est bien chère.
-Viens : en attendant ton époux,
-Signes toujours.
-
--*who_adelaide
       Je tombe à vos genoux.
 Pardon ! pardon !
 
--*who_madamewanderk
-      Mon dieu ! Qu'as-tu pu faire
-Qui te fasse à ce point redouter ma colère ?
-
--*who_adelaide
 Et ce n'est pas votre courroux
 Que je crains.
 
--*who_madamewanderk
-      Et quoi donc ?
-
--*who_adelaide
       C'est d'affliger ma mère.
 
--*who_madamewanderk
-Toi, m'affliger, mon enfant ? Toi !
-
--*who_adelaide
 Oui, moi-même... Cet homme à qui l'on me marie...
 N'obtiendra que ma main.
 
--*who_madamewanderk
-      Pourquoi ?
-Expliques-toi donc, je t'en prie.
-
--*who_adelaide
 C'est que mon coeur n'est plus à moi.
 
--*who_madamewanderk
-Qu'ai-je entendu ? Ma fille ! À peine je le crois.
-Quoi ? Dans le coeur d'Adélaïde
-Un secret a pu m'échapper?
-
--*who_adelaide
 Ah ! Moins coupable que timide,
 Je me taisais sans vouloir vous tromper.
 
--*who_madamewanderk
-À cette méfiance aurais-je pu m'attendre !
-Me cacher ton penchant, n'est-ce pas me trahir?
-Tu voulais donc priver la mère la plus tendre
-Du droit le plus sacré, celui de te servir ;
-Celui de te guider et de te rendre heureuse ?
-Pour un coeur maternel, épreuve douloureuse !
-Venez, mon cher Mirval, venez me secourir ;
-Contre un coup si cruel venez me soutenir.
-L'exemple de cette âme et franche et généreuse,
-Suffit pour te faire rougir.
-Son amitié sincère et tendre
-N'éprouvera jamais ni remords ni regrets.
-Si son coeur avait des secrets
-Ce serait dans mon sein qu'il viendrait les répandre.
-
--*who_mirval
-Ah ! De grâce, arrêtez : vous déchirez mon coeur.
-Loin d'avoir mérité cet éloge flatteur,
-Je suis mille fois plus coupable...
-
--*who_madamewanderk
-Qui, vous Mirval ?
-
--*who_mirval
-      Je vais vous faire horreur.
-J'ai mérité les noms d'ingrat, de suborneur.
-J'adore Adélaïde.
-
--*who_madamewanderk
-      Ô crime épouvantable !
-Ce dernier trait m'étourdit et m'accable.
-
--*who_mirval
-Je dois être un monstre à vos yeux.
-
--*who_madamewanderk
-Quand les attentions, les soins officieux
-De ma conduite étaient les guides,
-Loin de me payer de retour
-Je n'ai trouvé, pour prix de tant d'amour,
-Que des coeurs ingrats et perfides.
-
--*who_mirval
-Madame...
-
--*who_adelaide
       Ayez pitié.
 
--*who_madamewanderk
-      Laissez moi, laissez moi.
-
--*who_lenotaire
-Mais le contrat qu'elle-même a fait faire
-Ne cadre point du tout avec cette colère.
-Je vais savoir la vérité.
-Madame, expliquez moi.
-
--*who_madamewanderk
-      Silence !
-
--*who_madamewanderk
-Soumettez-vous ma fille à mon obéissance,
-Rien ne peut plus changer ma volonté ;
-Mais n'accusez de ma sévérité
-Que votre peu de confiance.
-
--*who_adelaide
 Ah ! Différez du moins, et que voire bonté...
 
--*who_madamewanderk
-Hé bien... je ne veux pas te faire violence :
-Tu peux choisir en liberté.
-Entre ces deux partis celui qui peut le plaire.
-Sans connaître l'époux que je t'ai destiné,
-Qu'à l'instant de ta main ce contrat soit signé,
-Ou renonce à jamais à l'amour de ta mère.
-
--*who_adelaide
 Mon choix n'est pas douteux... Le plus affreux malheur
 Est la perte de votre coeur.
 
--*who_madamewanderk
-Ô chère enfant !
-
--*who_adelaide
       Mirval, que votre âme attendrie,
 Imite un généreux effort :
 Qui me donna le jour veut m'arracher la vie,
 Je signe l'arrêt de ma mort.
 
--*who_madamewanderk
-Votre manque de confiance,
-Avait trop justement excité mon courroux.
-Apprenez tous les deux jusqu'où va ma vengeance.
-Adélaïde... embrasse ton époux.
-
--*who_adelaide
 Ô ma bonne maman !
 
--*who_mirval
-      Je tombe à vos genoux.
-
--*who_lisbeth
-Ah ! Je vous reconnais !
-
--*who_lenotaire
-      Je commence à comprendre.
-
--*who_fridric
-C'est à présent qu'on valsera.
-
--*who_adelaide
 Ma mère !
 
--*who_mirval
-      À ce bonheur aurais-je dû m'attendre ?
 
--*who_madamewanderk
-Levez-vous mes enfants, et venez dans mes bras.
-J'ai peut-être un peu trop prolongé ma vengeance ;
-Mais c'est en vous faisant rougir,
-Que j'ai voulu tous les deux vous guérir
-De votre injuste méfiance.
-« Jeunes gens sans expérience,
-Fuyez la ruse et les détours ;
-Ne cachez rien aux auteurs de vos jours,
-Et comptez sur leur indulgence.
-Évitez les pièges trompeurs
-Où vous entraîne l'imposture.
-On marche au vice par l'erreur.
-Si vous voulez toujours suivre l'honneur,
-N'offensez jamais la nature. »
+**** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisbeth
+
+Allons, allons ; le temps s'avance.
+
+Quel tracas nous auront ce soir !
+
+C'est la ton seul plaisir.
+
+Pourquoi faire cette dépense ?
+À quelle occasion ?
+
+Mais par quelle raison éloigner tout-à-coup
+Et sa fille et ton secrétaire ?
+
+      Sur quoi le penses-tu ?
+
+Et tu conclus de là ?
+
+Extravagant !
+
+      Perdrait.
+
+Hé ! Pourquoi donc faire partir sa fille ?
+Hein ?
+
+      Qu'il est bête !
+
+Et quel est ce futur ?
+
+Ah ! Tu ne connais pas Madame !
+C'est bien le meilleur coeur ! C'est bien la plus belle âme !
+Elle sait réunir la gaîté des Français
+À la candeur des Hollandais.
+Bonne amie, excellente mère ;
+À son coeur sa fille est trop chère
+Pour la sacrifier à de vils intérêts.
+Et comme la petite est naïve et sincère,
+Si quelqu'un avait su lui plaire,
+Certainement je le saurais.
+Et je n'ai jamais vu...
+
+Hem ? Qu'entends-tu par là ?
+
+Ah ! Vraiment l'idée est nouvelle !
+Un Secrétaire !
+
+Il est instituteur de notre Demoiselle ;
+Et tu fais tort à ce jeune Français ;
+Il pense avec délicatesse;
+Il est honnête, et modeste a l'excès.
+Dans ses leçons, il donne à ma maîtresse
+Les préceptes de la sagesse,
+Et ne s'en écarte jamais.
+
+      Vas, tu t'abuses.
+
+Mais, tu sais qu'aux leçons j'assistais tous les jours.
+Les moments s'écoulaient...
+
+Mirval est fort exact.
+
+Elle lui parle peu.
+
+Ils ne se cherchent point.
+
+Adélaïde, simple et sans expérience,
+Ne m'a jamais caché ce qu'elle pense.
+Gouvernante de la maison
+J'ai su l'élever sur ce ton :
+Et je ne pense pas qu'elle change de note.
+Mon cher Fridric, regarde-moi ;
+Et lu verras si j'ai l'air d'une sotte.
+
+En tout cas, cet amour serait bien malheureux.
+
+      Ô la belle chimère !
+
+      Je sais que ce jeune étranger
+A sauvé du plus grand danger
+Ma jeune maîtresse et sa mère.
+Mais il en est, je crois, assez récompensé.
+
+Celle-ci serait singulière :
+Nourri, logé, vêtu, prévenu, caressé ;
+Il a, de la maison, la confiance entière.
+Mais, si Madame a pu s'apercevoir
+Qu'il en conte à ton écolière,
+Nous pouvons nous attendre à ne plus le revoir.
+
+      Oui, tout le monde l'aime ;
+C'est le meilleur garçon.
+
+Comment, c'est vous mon cher Mirval ?
+
+De vous revoir, je suis vraiment ravie.
+Fridric , vas prendre les paquets.
+
+Faites ce qu'on vous dit.
+
+Ne m'interrogez point là-dessus, je vous prie.
+
+      Soit par caprice ou par bizarrerie,
+Ma maîtresse, de ses projets,
+Ne m'a pas dit un mot.
+
+Je ne plaisante pas du tout : depuis longtemps,
+Rendant justice à ma prudence,
+Elle me faisait confidence
+Des secrets les plus important.
+Hé bien, dans cette circonstance,
+Soit Caprice, soit méfiance,
+Sans prendre mon avis elle a tout ordonné.
+Et vous serez plus étonné
+Quand vous saurez que sa fille chérie
+Ne sait pas un mot de ceci.
+
+      Comment ? Elle est partie
+Peu de jours après vous.
+
+Non : c'est une cachotterie !...
+
+      Voulez-vous bien permettre ?
+« Mirval, au reçu de ma lettre,
+Vous partirez sans perdre un seul instant ;
+...............................
+Abandonnez toute autre affaire.
+Je suis, etc. » ; et toujours du mystère ;
+Sur mon honneur, c'est révoltant.
+
+On croit qu'en rassemblant aujourd'hui sa famille,
+Elle a dessein...
+
+      De marier sa fille.
+Il a pâli : son amour est réel.
+
+      Non, elle est chez elle.
+Mais ton Notaire est avec elle.
+
+Je ne sais pas si la chose est possible,
+Car elle a défendu qu'on aille la troubler ;
+Mais peut-être pour vous elle sera visible.
+J'y vais.
+      Pauvre garçon !
+
+Attendez, elle est en affaire,
+Mais elle vont fera venir
+Dès qu'elle aura renvoyé son Notaire.
+
+Tu disais vrai, Fridric ; il a beau s'efforcer,
+Il ne peut cacher sa tristesse.
+
+      Sa douleur m'intéresse.
+Je veux avec Madame avoir un entretien.
+Je l'attends de pied ferme.
+
+Je la retournerai de toutes les manières :
+J'emploierai tour-à-tour reproches et prières :
+Enfin, je m'y prendrai si bien
+Pour savoir son secret...
+
+Pourquoi donc, s'il vous plaît ?
+
+Point du tout.
+
+      Ma foi.
+
+      Quoi donc ? Ne fais pas le discret.
+
+Impertinent.
+
+      En conscience ;
+Sans manquer à la bienséance,
+Et sans oublier mon devoir ;
+En ce moment je crois pouvoir
+Me plaindre amèrement de votre méfiance.
+
+      Vous donnez une fête ce soir :
+M'en cacher la raison c'est me faire une offense ;
+Mon zèle a quelques droits et votre confiance.
+Il est bien dur pour moi...
+
+      J'en meurs d'impatience.
+
+C'est que je craignais...
+
+Vous aurez donc la complaisance...
+
+      Sur un profond silence.
+
+Comment.
+
+La confidence est belle, et...
+
+      Discrète autant qu'habile.
+
+En vérité, Madame.
+
+Oh ! Gardez vos secrets, cela m'est bien égal.
+
+      Toujours se cacher ! Quel martyre!
+
+Ah ! Je vous reconnais !
+
+
+**** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fridric
+
+Je ne m'amuse pas ; et vous pouvez le voir.
+
+Mais aussi, nous ferons bombance.
+
+      Dam ! Chacun a son goût.
+
+      Je n'en sais rien du tout.
+
+Mamsel' Lisbeth ? Je crois que son notaire
+Est mieux instruit que nous.
+
+Depuis une heure au moins, il est seul avec elle.
+
+      Pardi ! Qu'il est venu
+Pour marier Mademoiselle.
+
+      Celui qui gagerait
+Qu'on donne ce festin pour la noce....
+
+Hé ! Pourquoi donc inviter sa famille?
+
+      Pour la faire revenir.
+Avec son futur.
+
+Vous m'en direz deux mots ce soir après la fête.
+
+      Dam ! Je ne la sais pas.
+Mais, qu'importe ? En Hollande on n'y regarde guerre,
+Et la qualité qu'on préfère
+Dans un mari, c'est beaucoup de ducas.
+
+      Vous ne voyez donc guère.
+
+      Qu'à ce pauvre Mirval.
+Ce mariage là va faire bien du mal.
+
+      C'est égal !
+
+J'ai de bons yeux.
+
+En fait d'amour, les filles ont des ruses !
+
+      Et leur semblaient trop courts.
+
+      Jamais elle ne tarde.
+
+      Mais elle le regarde.
+
+      Ils se trouvent toujours.
+
+Lorsque l'on voit un couple adolescent
+Se sourire en sa regardant,
+On dit... C'est un enfantillage ;
+Mais lorsqu'en rencontrant leurs yeux,
+Ils sont tout-a-coup si honteux
+Qu'un grand feu leur monte au visage.
+Alors, bien fermement je crois
+Qu'ils ont tous deux l'autour en tête.
+Mamsel Lisbeth, regardez-moi,
+Et vous verrez si j'ai l'air d'une bête.
+
+Bon ! En les mariant tout deux,
+Cela s'arrangerait.
+
+Et pourquoi donc ?
+
+On peut récompenser de plus d'une manière.
+
+Ce serait bien fâcheux !
+
+      Hé ! Le voici lui-même.
+
+      Bon, vous serez du bal.
+
+Depuis votre départ, tenez, je parierais
+Que Mademoiselle t'ennuie !...
+
+      J'y vais.
+
+      J'irai : soyez tranquille.
+
+Dam, quand on est prêt à danser
+À la noce de ta maîtresse,
+Ce n'est pas régalant.
+
+      Hé bien ?
+
+      Que vous ne sauriez rien.
+
+      Vous sériez en colère
+Si je vous disais le pourquoi.
+
+      Jurez-en.
+
+Pour causer avec son notaire,
+Madame était dans son boudoir.
+J'étais contre la porte ; ils ne pouvaient me voir,
+Et je les regardais, comme je vous regarde ;
+Madame a dit...
+
+Qu'elle vous confierait volontiers ton secret,
+Si vous n'étiez pas si bavarde.
+
+      Ah ! C'est bien fait.
+Je ne devais pas vous instruire.
+Ce soufflet est bien mérité.
+Je savais que la vérité
+N'était pas toujours bonne à dire.
+
+      Pour quoi faire ?
+
+      Je ne tarderai guère,
+Mais je vais avertir, avant de m'en aller,
+Mirval, qui voudrait vous parler.
+
+      C'est bon.
+
+Vivat, vivat ! Grande nouvelle !
+
+      Je l'ai dit ce matin,
+« Il faut que le fait soit certain,
+Puisque l'on donne une veillée ».
+J'ai de l'esprit comme un lutin !
+Vous allez être émerveillée !
+
+      Quand vous verrez cela !
+Ceci par ci, cela par là !
+Il faudra que chacun admire ;
+Et puis ensemble on s'écriera...
+« La bonne maman que voilà ! »
+Et puis au bal comme on va rire !
+Et walz, et walz : et houp ça ça.
+
+      Je le veux bien.
+Votre mère m'a dit, mais sans m'expliquer rien,
+Vas porter promptement ces papiers, cette lettre.
+
+      Voulez-vous bien permettre ?
+Je vous expliquerai le fait de bout en bout.
+J'ai porté les papiers... ensuite
+Chez l'autre j'ai couru bien vite :
+Mais quand je me suis trouvé là,
+Ah ! Bon dieu !
+
+      De ma vie.
+Je n'ai rien vu comme cela !
+Et vous en serez éblouie :
+Oh ! Vous pouvez vous en fier à moi :
+C'est superbe !
+
+Un petit moment, je vous prie.
+Il m'a tout étalé pour me faire tout voir.
+
+      Vous voulez le savoir ?
+
+Pendant que j'admirais cela
+Il a relu la lettre.
+
+      Je vous annonce...
+
+      Que je m'en vais en porter la réponse :
+Hé wals, hé wals, hé houp ça, ça !
+
+Votre notaire.
+
+C'est à présent qu'on valsera.
+

@@ -1,8 +1,93 @@
 
 
-**** *book_ *id_I01 *act_I *date_1696
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdancour
 
--*who_mademoisellebeauval
+Parbleu, vous vous chargez d'un soin bien obligeant.
+
+      Eh ! Mademoiselle,
+De quoi, diantre, vous mêlez-vous ?
+
+Vous faites sans doute éclater
+Un merveilleux excès de zèle
+Pour la réussite de celle
+Que nous allons représenter !
+
+On ne peut louer davantage ;
+C'est parler comme il faut en faveur d'un ouvrage :
+L'auteur vous en remerciera.
+
+Vous lui prouvez très bien, vraiment !
+
+Hé ! Qu'eût-il fait ?
+
+Mais à qui diantre avez-vous ouï dire
+Tous les grands mots que vous répétez là ?
+
+Mille pardons, Mademoiselle ;
+Je ne prétends point vous fâcher.
+J'en sais la conséquence, et je ne veux tâcher
+Qu'à finir au plus tôt la petite querelle
+Qu'assez à contre-temps vous paraissez chercher.
+
+Oui, vous êtes tout-à-fait bonne !
+
+S'il est ainsi, laissez-vous donc conduire ;
+Rentrez dans les foyers ; songez à commencer.
+
+De grâce...
+
+Mademoiselle ! ...
+
+Quoi !...
+
+      Mais on dira...
+
+La bonne cervelle !
+
+Si...
+
+Mais si vous ne jouez, la pièce tombera :
+Et pour ne point jouer un rôle,
+Il faut avoir des raisons, s'il vous plaît.
+
+      Et c'est...
+
+Il y paraît.
+
+Mais peut-être en a-t-il quelques unes.
+
+      Pourquoi non ?
+Vous m'avez déjà fait presque approuver les vôtres.
+
+      Que vous êtes charmante,
+Lorsque vous vous radoucissez !
+
+Allez donc employer votre vivacité,
+Et déployer votre éloquence,
+Pour faire revenir un auteur entêté :
+Mais, au moins, point de pétulance.
+
+Pour cela, non ; mademoiselle
+N'en a lâché qu'un mot confidemment,
+Et tout-à-l'heure encore, au public seulement.
+Mais ce n'est qu'une bagatelle.
+
+      Sans doute.
+
+Laissez parler de tels censeurs.
+On les connaît, on ne les croira guère.
+
+Seigneur Momus, votre divinité
+À notre corps fait une grace entière :
+Mais en vous avouant ainsi notre confrère,
+Vous nous autorisez à trop de vanité.
+
+L'imagination mérite qu'on la loue ;
+Et la pièce, je crois, s'en trouvera fort bien.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebeauval
+
 Oui, je vous le soutiens, messieurs, c'est fort mal fait,
 Vous n'avez point de conscience.
 C'est tromper, c'est piller le public en effet ;
@@ -19,55 +104,23 @@ Fi, fi, c'est une extravagance.
 M'en croirez-vous, messieurs ? Reprenez votre argent
 Avant que la pièce commence.
 
-**** *book_ *id_I02 *act_I *date_1696
-
--*who_monsieurdancour
-Parbleu, vous vous chargez d'un soin bien obligeant.
-
--*who_mademoisellebeauval
 Qu'est-ce à dire ?
 
--*who_monsieurdancour
-      Eh ! Mademoiselle,
-De quoi, diantre, vous mêlez-vous ?
-
--*who_mademoisellebeauval
       Moi, monsieur, de quoi je me mêle ?
 Hé ! Ne devons-nous pas nous intéresser tous
 À faire réussir une pièce nouvelle ?
 
--*who_monsieurdancour
-Vous faites sans doute éclater
-Un merveilleux excès de zèle
-Pour la réussite de celle
-Que nous allons représenter !
-
--*who_mademoisellebeauval
 Moi, je n'y sais point de finesse ;
 J'avertis qu'elle finira
 Une heure au moins plus tôt qu'une autre pièce,
 Et que peut-être elle ennuiera.
 
--*who_monsieurdancour
-On ne peut louer davantage ;
-C'est parler comme il faut en faveur d'un ouvrage :
-L'auteur vous en remerciera.
-
--*who_mademoisellebeauval
 L'auteur est mon ami ; je l'estime, je l'aime.
 
--*who_monsieurdancour
-Vous lui prouvez très bien, vraiment !
-
--*who_mademoisellebeauval
 Sans doute. Je n'en veux pour juge que lui-même ;
 Et s'il avait voulu suivre mon sentiment,
 Ou qu'il eût eu moins de paresse...
 
--*who_monsieurdancour
-Hé ! Qu'eût-il fait ?
-
--*who_mademoisellebeauval
       Il eût, premièrement,
 Changé le titre de la pièce,
 Qui ne lui convient nullement.
@@ -79,98 +132,42 @@ Dont peut l'amoureuse manie
 Embarrasser l'organe du génie
 Le plus sage et le plus prudent.
 
--*who_monsieurdancour
-Mais à qui diantre avez-vous ouï dire
-Tous les grands mots que vous répétez là ?
-
--*who_mademoisellebeauval
 Comment donc, s'il vous plaît ! Que veut dire cela ?
 Ma foi, monsieur, je vous admire !
 Il semble aux gens, parce qu'ils savent lire,
 Qu'on ne saurait parler aussi bien qu'eux.
 Vous êtes de plaisants crasseux !
 
--*who_monsieurdancour
-Mille pardons, Mademoiselle ;
-Je ne prétends point vous fâcher.
-J'en sais la conséquence, et je ne veux tâcher
-Qu'à finir au plus tôt la petite querelle
-Qu'assez à contre-temps vous paraissez chercher.
-
--*who_mademoisellebeauval
 Qui ? Moi, chercher querelle ! Eh bien, la médisance !
 Parce que naturellement,
 Avec simplicité je dis ce que je pense,
 Que j'avertis le public bonnement
 Qu'une pièce n'a rien du titre qu'on lui donne...
 
--*who_monsieurdancour
-Oui, vous êtes tout-à-fait bonne !
-
--*who_mademoisellebeauval
 Eh bien ! Monsieur, pourquoi me chagriner ?
 Vraiment, je vous trouve admirable !
 On me fait passer pour un diable,
 Moi, qui, comme un mouton, suis facile à mener.
 
--*who_monsieurdancour
-S'il est ainsi, laissez-vous donc conduire ;
-Rentrez dans les foyers ; songez à commencer.
-
--*who_mademoisellebeauval
 Commencer, moi ! Non, vous aurez beau dire.
 
--*who_monsieurdancour
-De grâce...
-
--*who_mademoisellebeauval
       Là-dessus rien ne me peut forcer.
 
--*who_monsieurdancour
-Mademoiselle ! ...
-
--*who_mademoisellebeauval
       Ah ! Oui, vous saurez m'y réduire !
 
--*who_monsieurdancour
-Quoi !...
-
--*who_mademoisellebeauval
       Je ne jouerai point, Monsieur.
 
--*who_monsieurdancour
-      Mais on dira...
-
--*who_mademoisellebeauval
 Mais on dira, Monsieur, tout ce que l'on voudra.
 
--*who_monsieurdancour
-La bonne cervelle !
-
--*who_mademoisellebeauval
       Il est drôle !
 J'aurai chaussé ma tête, et l'on me contraindra ?
 Ah ! Vous verrez comme on réussira !
 
--*who_monsieurdancour
-Si...
-
--*who_mademoisellebeauval
       L'on me contredit ! Mais ce qui m'en console,
 Jouera le rôle qui pourra.
 
--*who_monsieurdancour
-Mais si vous ne jouez, la pièce tombera :
-Et pour ne point jouer un rôle,
-Il faut avoir des raisons, s'il vous plaît.
-
--*who_mademoisellebeauval
 J'en ai, Monsieur, une très bonne.
 
--*who_monsieurdancour
-      Et c'est...
-
--*who_mademoisellebeauval
 J'en ai, vous dis-je, et je ne suis point folle.
 Je n'en démordrai point, en un mot comme en cent ;
 Votre discours devient lassant ;
@@ -181,24 +178,8 @@ Et votre éloquence est frivole.
 Vous avez beau parler, prier, être pressant,
 Je ne saurais jouer, j'ai perdu la parole.
 
--*who_monsieurdancour
-Il y paraît.
-
-**** *book_ *id_I03 *act_I *date_1696
-
--*who_mademoiselledesbrosses
-      Voici bien un autre embarras !
-L'auteur, dans les foyers, se fait tenir à quatre ;
-Il ne veut point laisser jouer sa pièce.
-
--*who_mademoisellebeauval
       Hélas !
 
--*who_mademoiselledesbrosses
-Oui, de quelques raisons qu'on puisse le combattre,
-Si l'on veut l'obliger, on ne la jouera pas.
-
--*who_mademoisellebeauval
 On ne la jouerait pas ! Hé ! Pourquoi, je vous prie ?
 L'auteur l'entend fort bien ! Il serait beau, ma foi,
 Que messieurs les auteurs nous donnassent la loi !
@@ -206,68 +187,28 @@ Oh ! Contre sa mutinerie,
 Puisqu'il le prend ainsi, je me révolte, moi :
 Pour le faire enrager, je prétends qu'on la joue.
 
--*who_mademoiselledesbrosses
-Venez donc lui parler. Tout le monde s'enroue
-Pour lui faire entendre raison.
-
--*who_monsieurdancour
-Mais peut-être en a-t-il quelques unes.
-
--*who_mademoisellebeauval
       Lui ? Bon !
 Ses raisons ne sont pas meilleures que les nôtres.
 La pièce est sue ; il faut la jouer, vous dit-on.
 Appuyerez-vous, monsieur, ses raisons ?
 
--*who_monsieurdancour
-      Pourquoi non ?
-Vous m'avez déjà fait presque approuver les vôtres.
-
--*who_mademoisellebeauval
 Mardienne, monsieur, finissez ;
 Je n'aime pas qu'on me plaisante.
 Avec votre sang froid...
 
--*who_monsieurdancour
-      Que vous êtes charmante,
-Lorsque vous vous radoucissez !
-
--*who_mademoisellebeauval
 Je suis la douceur même ; et je ne me tourmente
 Que quand les choses ne vont pas
 Selon mes intérêts, ou selon mon attente.
 Mais quand on me fâche, en ce cas
 Je deviens vive, et je suis pétulante.
 
--*who_monsieurdancour
-Allez donc employer votre vivacité,
-Et déployer votre éloquence,
-Pour faire revenir un auteur entêté :
-Mais, au moins, point de pétulance.
-
--*who_mademoisellebeauval
 Mais d'où vient son entêtement ?
 
--*who_mademoiselledesbrosses
-Il dit qu'on prend plaisir à décrier sa pièce ;
-Qu'on n'a pour les auteurs aucun ménagement ;
-Qu'un si dur procédé le blesse ;
-Que l'un blâme son dénouement ;
-Que vous, vous condamnez son titre.
-
--*who_mademoisellebeauval
       L'auteur ment.
 Je ne dis jamais rien. Est-ce que je me mêle
 D'aller prôner mon sentiment ?
 Ce sont bien là mes allures, vraiment !
 
--*who_monsieurdancour
-Pour cela, non ; mademoiselle
-N'en a lâché qu'un mot confidemment,
-Et tout-à-l'heure encore, au public seulement.
-Mais ce n'est qu'une bagatelle.
-
--*who_mademoisellebeauval
 Si je l'ai dit, je m'en dédis.
 La pièce est bonne, et je la soutiens telle.
 Diantre soit des censeurs et des donneurs d'avis,
@@ -280,64 +221,101 @@ D'ingénieuses rêveries,
 Que fait imaginer l'amour dans le moment
 Pour attraper un vieux amant ?
 
--*who_monsieurdancour
-      Sans doute.
-
--*who_mademoisellebeauval
 Eh ! Pourquoi donc est-ce qu'on le critique ?
 Avec raison l'auteur se pique.
 Sur ce pied-là le titre est excellent,
 Et le sujet est tout-à-fait galant.
 Cela réussira.
 
--*who_mademoiselledesbrosses
-      Qui vous dit le contraire ?
-
--*who_mademoisellebeauval
 De sottes gens qui ne peuvent se taire,
 Qui font les beaux esprits, les savants connaisseurs.
 
--*who_monsieurdancour
-Laissez parler de tels censeurs.
-On les connaît, on ne les croira guère.
-
--*who_mademoisellebeauval
 C'est fort bien dit.
 
--*who_mademoiselledesbrosses
+Il ne tiendra pas sa colère.
+
+Mais est-on d'accord là-derrière ?
+
+Monsieur Momus, point de cérémonie ;
+Soyez le bienvenu. Notre profession
+Avec la vôtre a quelque ressemblance.
+Gens de même condition
+Font entre eux bientôt connaissance.
+
+Non, point du tout ; laissez-le faire.
+Mais, dites-nous, avec sincérité,
+Franchement, là... quelle heureuse aventure
+Vous a fait venir dans ces lieux.
+En faveur du plus grand des dieux
+Venez-vous ménager quelque conquête sûre ?
+Au lieu d'être Momus, n'êtes-vous point Mercure ?
+
+Vous en pouvez parler mieux qu'un autre, peut-être ;
+Et, sans trop vous flatter, je crois
+Que vous êtes un fort grand maître
+Et dans l'un et dans l'autre emploi.
+
+Quelle diable de fantaisie !
+
+Comment donc ! Merci de ma vie !
+Vous venez, dites-vous, jouer la comédie !
+Et, pour vous établir, vous choisissez ces lieux !
+Croyez-moi, remontez aux cieux :
+Nous ne gagnons pas trop, le temps est malheureux.
+Je ne souffrirai point de concurrents semblables.
+Si vous m'irritez une fois,
+Et contre tous les dieux, et contre tous les diables,
+Seule, je défendrai mes droits.
+
+J'ai grande opinion de votre habileté :
+Mais cependant, avant que de finir l'affaire,
+Et d'entrer en société,
+Encor faut-il bien voir ce que vous savez faire.
+
+Tout dieux que vous soyez, je soutiens le contraire.
+Le public a le goût si délicat, si fin,
+Qu'avec tous vos talents, et votre esprit divin,
+Ce ne sera pas peu que de pouvoir lui plaire.
+Mais quel sujet choisirez-vous enfin ?
+
+Ah ! Tout beau, Monseigneur Momus !
+Avec tous ces gens-là point de plaisanterie.
+
+Commençons donc.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesbrosses
+
+      Voici bien un autre embarras !
+L'auteur, dans les foyers, se fait tenir à quatre ;
+Il ne veut point laisser jouer sa pièce.
+
+Oui, de quelques raisons qu'on puisse le combattre,
+Si l'on veut l'obliger, on ne la jouera pas.
+
+Venez donc lui parler. Tout le monde s'enroue
+Pour lui faire entendre raison.
+
+Il dit qu'on prend plaisir à décrier sa pièce ;
+Qu'on n'a pour les auteurs aucun ménagement ;
+Qu'un si dur procédé le blesse ;
+Que l'un blâme son dénouement ;
+Que vous, vous condamnez son titre.
+
+      Qui vous dit le contraire ?
+
       La grande affaire
 Est à présent de radoucir l'auteur.
 
--*who_mademoisellebeauval
-Il ne tiendra pas sa colère.
+Mais enfin quel dessein ici-bas vous attire ?
 
-**** *book_ *id_I04 *act_I *date_1696
+Nous souffririons de votre raillerie.
 
--*who_monsieurdubocage
-Tout le monde veut s'en aller.
-Hé ! Commençons de grâce ; allez vous habiller.
-De nos débats le public n'a que faire.
+Sur ce pied-là, l'auteur voudra bien qu'on la joue.
 
--*who_mademoisellebeauval
-Mais est-on d'accord là-derrière ?
 
--*who_monsieurdubocage
-Oui ; là-dessus, n'ayez point de souci.
-Une personne fort jolie,
-Qui paraît beaucoup notre amie,
-Et qui l'est de l'auteur aussi,
-Dans le moment vient d'arriver ici
-Avec nombreuse compagnie :
-Ils disent que c'est la folie ;
-Et c'est elle en effet. J'ai bien jugé d'abord,
-Comme on a mis son nom au titre de la pièce,
-Qu'au succès elle s'intéresse.
-Mais je vois quelqu'un qui s'empresse
-À venir de sa part pour vous mettre d'accord.
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
-**** *book_ *id_I05 *act_I *date_1696
-
--*who_momus
 Serviteur à la compagnie.
 Des dieux de la mythologie
 Vous voyez en moi le bouffon,
@@ -345,14 +323,6 @@ Momus, dieu de la raillerie,
 Et, partant de la comédie
 Le protecteur et le patron.
 
--*who_mademoisellebeauval
-Monsieur Momus, point de cérémonie ;
-Soyez le bienvenu. Notre profession
-Avec la vôtre a quelque ressemblance.
-Gens de même condition
-Font entre eux bientôt connaissance.
-
--*who_momus
 Il est vrai, vous avez raison.
 Là-haut je raille et je fais rire ;
 Vous faites de même ici-bas :
@@ -364,22 +334,6 @@ Mettent du rapport entre nous.
 Touchez là ; je suis tout à vous.
 Serviteur donc, mes amis et confrères.
 
--*who_monsieurdancour
-Seigneur Momus, votre divinité
-À notre corps fait une grace entière :
-Mais en vous avouant ainsi notre confrère,
-Vous nous autorisez à trop de vanité.
-
--*who_mademoisellebeauval
-Non, point du tout ; laissez-le faire.
-Mais, dites-nous, avec sincérité,
-Franchement, là... quelle heureuse aventure
-Vous a fait venir dans ces lieux.
-En faveur du plus grand des dieux
-Venez-vous ménager quelque conquête sûre ?
-Au lieu d'être Momus, n'êtes-vous point Mercure ?
-
--*who_momus
 Oh ! Pour cela, non, par ma foi.
 Chacun là-haut a son emploi,
 Et nous n'usurpons rien sur les charges des autres.
@@ -390,16 +344,6 @@ Il est bien plus aisé de servir deux amants
 Dans une tendre conjoncture,
 Que de faire rire les gens.
 
--*who_mademoisellebeauval
-Vous en pouvez parler mieux qu'un autre, peut-être ;
-Et, sans trop vous flatter, je crois
-Que vous êtes un fort grand maître
-Et dans l'un et dans l'autre emploi.
-
--*who_mademoiselledesbrosses
-Mais enfin quel dessein ici-bas vous attire ?
-
--*who_momus
 Ne trouvant plus là-haut de sujets de médire
 (Car vous savez que depuis quelque temps
 Les dieux sont devenus d'assez honnêtes gens,
@@ -408,10 +352,6 @@ J'ai résolu, malgré les périls et les peines,
 De venir sourdement m'établir en ces lieux,
 Et d'y jouer la comédie.
 
--*who_mademoisellebeauval
-Quelle diable de fantaisie !
-
--*who_momus
 Dans ce dessein capricieux,
 J'amène une troupe choisie.
 J'ai pris avec moi la folie,
@@ -426,18 +366,6 @@ Mon humeur vive et satirique
 Ne manquera pas de pratique,
 Car il n'y manque pas de fous.
 
--*who_mademoisellebeauval
-Comment donc ! Merci de ma vie !
-Vous venez, dites-vous, jouer la comédie !
-Et, pour vous établir, vous choisissez ces lieux !
-Croyez-moi, remontez aux cieux :
-Nous ne gagnons pas trop, le temps est malheureux.
-Je ne souffrirai point de concurrents semblables.
-Si vous m'irritez une fois,
-Et contre tous les dieux, et contre tous les diables,
-Seule, je défendrai mes droits.
-
--*who_momus
 Nous ne prétendons point nuire à votre fortune.
 Joignons-nous de bonne amitié ;
 Nous partagerons par moitié,
@@ -455,37 +383,18 @@ Ne sont point artificielles,
 Et non pas des italiens,
 De qui les voix ne sont ni mâles ni femelles.
 
--*who_mademoisellebeauval
-J'ai grande opinion de votre habileté :
-Mais cependant, avant que de finir l'affaire,
-Et d'entrer en société,
-Encor faut-il bien voir ce que vous savez faire.
-
--*who_momus
 Vous pouvez à l'essai juger de nos talents.
 Vous êtes, ce me semble, en peine ;
 Et vous auriez besoin de quelque scène,
 De quelques airs vifs et brillants,
 Pour alonger votre pièce nouvelle ?
 
--*who_monsieurdubocage
-Voilà le fait.
-
--*who_momus
       C'est une bagatelle.
 Je ne veux que quelques moments
 Pour préparer des divertissements
 Dont le public, je crois, pourra se satisfaire.
 Nous autres dieux, nous ne saurions mal faire.
 
--*who_mademoisellebeauval
-Tout dieux que vous soyez, je soutiens le contraire.
-Le public a le goût si délicat, si fin,
-Qu'avec tous vos talents, et votre esprit divin,
-Ce ne sera pas peu que de pouvoir lui plaire.
-Mais quel sujet choisirez-vous enfin ?
-
--*who_momus
 Je n'en manquerai pas, et j'en fais mon affaire.
 Tout-à-l'heure, dans vos foyers,
 J'ai trouvé des sujets pour mille comédies,
@@ -515,14 +424,6 @@ Laquelle aussi n'est pas novice
 Ne sont-ce pas là, je vous prie,
 D'amples sujets de comédie ?
 
--*who_mademoisellebeauval
-Ah ! Tout beau, Monseigneur Momus !
-Avec tous ces gens-là point de plaisanterie.
-
--*who_mademoiselledesbrosses
-Nous souffririons de votre raillerie.
-
--*who_momus
 Je vois ce qui vous tient ; vous aimez les écus :
 Je n'en dirai pas davantage.
 Et ce ne sont point eux aussi que j'envisage
@@ -535,19 +436,6 @@ Des amusantes bagatelles,
 Qui font souvent de vos pièces nouvelles
 Tout le succès et le soutien.
 
--*who_monsieurdancour
-L'imagination mérite qu'on la loue ;
-Et la pièce, je crois, s'en trouvera fort bien.
-
--*who_mademoiselledesbrosses
-Sur ce pied-là, l'auteur voudra bien qu'on la joue.
-
--*who_mademoisellebeauval
-Commençons donc.
-
-**** *book_ *id_I06 *act_I *date_1696
-
--*who_momus
       Messieurs, vous serez les témoins
 De notre zèle et de nos soins.
 Nous descendons exprès de la céleste voûte,
@@ -569,119 +457,9 @@ C'est beaucoup, dans un temps où chacun, dans sa vie,
 Fait pour le moins une folie.
 Adieu, jusqu'au revoir. Surtout, vivons en paix.
 
-**** *book_ *id_II01 *act_II *date_1696
 
--*who_lisette
-Lorsqu'en un plein repos chacun encor sommeille,
-Quel démon, s'il vous plaît, vous tire par l'oreille,
-Et vous fait hasarder de sortir si matin ?
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albert
 
--*who_agathe
-Paix, tais-toi, parle bas ; tu sauras mon dessein.
-Éraste est de retour.
-
--*who_lisette
-      Éraste ?
-
--*who_agathe
-      D'Italie.
-
--*who_lisette
-D'où savez-vous cela, madame, je vous prie ?
-
--*who_agathe
-J'ai cru le voir hier paraître dans ces lieux ;
-Et j'en crois plus mon coeur encore que mes yeux.
-
--*who_lisette
-Je ne m'étonne plus que votre diligence
-Ait du Seigneur Albert trompé la vigilance.
-Par ma foi, c'est un guide excellent que l'amour !
-
--*who_agathe
-J'étais à ma fenêtre, en attendant le jour,
-Quand quelqu'un est sorti : voyant la porte ouverte,
-J'ai saisi promptement l'occasion offerte,
-Tant pour prendre le frais, que pour flatter l'espoir
-Qui pourrait attirer Éraste pour me voir.
-
--*who_lisette
-Vous n'avez pas envie, à ce qu'on peut comprendre,
-Que le pauvre garçon s'enrhume à vous attendre.
-Il arrive le soir ; et vous, au point du jour,
-Vous l'attendez ici pour flatter son amour :
-C'est perdre peu de temps. Mais si, par aventure,
-Albert, votre tuteur, jaloux de sa nature,
-Vient à nous rencontrer, que dira-t-il de nous ?
-
--*who_agathe
-Je me veux affranchir du pouvoir d'un jaloux ;
-J'ai trop longtemps langui sous son cruel empire :
-Je lève enfin le masque ; et, quoi qu'il puisse dire,
-Je veux, sans nul égard, lui montrer désormais
-Comme je prétends vivre, et combien je le hais.
-
--*who_lisette
-Que le ciel vous maintienne en ce dessein louable !
-Pour moi, j'aimerais mieux cent fois servir le diable.
-Oui, le diable : du moins, quand il tiendrait sabbat,
-J'aurais quelque repos. Mais, dans mon triste état,
-Soir, matin, jour ou nuit, je n'ai ni paix ni trève :
-Si cela dure encore, il faudra que je crève.
-Tant que le jour est long, il gronde entre ses dents :
-"Fais ceci, fais cela ; va, viens ; monte, descends ;
-Fais bien la guerre à l'oeil ; ferme porte et fenêtre ;
-Avertis, si de loin tu vois quelqu'un paraître."
-Il s'arrête, il s'agite, il court sans savoir où ;
-Toute la nuit il rôde ainsi qu'un loup-garou ;
-Il ne nous permet pas de fermer la prunelle ;
-Lui, quand il dort d'un oeil, l'autre fait sentinelle ;
-Il n'a ri de sa vie ; il est jaloux, fâcheux,
-Brutal à toute outrance, avare, dur, hargneux.
-J'aimerais mieux chercher mon pain de porte en porte,
-Que servir plus longtemps un maître de la sorte.
-
--*who_agathe
-Lisette, tous nos maux vont finir désormais.
-Qu'Éraste est différent du portrait que tu fais !
-Dès mes plus tendres ans chez sa mère nourrie,
-Nos coeurs se sont trouvés liés de sympathie ;
-Et l'amour acheva, par des noeuds plus charmants,
-De nous unir encor par ses engagements.
-Plutôt que de souffrir la contrainte effroyable
-Qui depuis quelque temps et me gêne et m'accable,
-Je serais fille à prendre un parti violent ;
-Et, sous un habit d'homme, en chevalier errant,
-Pour m'affranchir d'Albert et de ses lois si dures,
-J'irais par le pays chercher des aventures.
-
--*who_lisette
-Oh ! Sans aller si loin, ici, quand vous voudrez,
-Je vous suis caution que vous en trouverez.
-
--*who_agathe
-Tu ne sais pas encor quel est mon caractère,
-Quand on m'impose un joug à mon humeur contraire.
-J'ai vécu dans le monde au milieu des plaisirs ;
-La contrainte où je suis irrite mes désirs.
-Présentement qu'Éraste à m'épouser s'apprête,
-Mille vivacités me passent par la tête.
-J'ai du coeur, de l'esprit, du sens, de la raison,
-Et tu verras dans peu des traits de ma façon.
-Mais comment du château la porte est-elle ouverte ?
-
--*who_lisette
-Bon ! Votre vieux Cerbère est à la découverte ;
-Faut-il le demander ? Il rôde dans les champs :
-Il fait toute la nuit sentinelle en dedans,
-Et sur le point du jour il va battre l'estrade.
-S'il pouvait, par bonheur, choir en quelque embuscade,
-Et que des égrillards, avec de bons bâtons...
-Mais paix ; j'entends du bruit ; quelqu'un vient ; écoutons.
-
-**** *book_ *id_II02 *act_II *date_1696
-
--*who_albert
 J'ai fait dans mon château, toute la nuit la ronde,
 Et dans un plein repos j'ai trouvé tout le monde.
 Pour mieux des ennemis rendre vains les efforts,
@@ -703,49 +481,1087 @@ J'entrevois quelque objet qui marche et qui recule.
 Approchons. Qui va là ? Personne ne répond.
 Ce silence affecté ne me dit rien de bon.
 
--*who_lisette
-Je tremble.
-
--*who_albert
       C'est Lisette : Agathe est avec elle.
 
--*who_agathe
-Est-ce donc vous, monsieur, qui faites sentinelle ?
-
--*who_albert
 Oui, oui, c'est moi, c'est moi. Mais à l'heure qu'il est,
 Que venez-vous chercher en ce lieu, s'il vous plaît ?
 
--*who_agathe
-De dormir ce matin n'ayant aucune envie,
-Lisette et moi, monsieur, nous avons fait partie
-D'être devant le jour sous ces arbres épais,
-Pour voir naître l'aurore et respirer le frais.
-
--*who_lisette
-Oui.
-
--*who_albert
       Respirer le frais et voir l'aurore naître,
 Tout cela se pouvait faire à votre fenêtre.
 Ici, pour me trahir, vous êtes de complot.
 
--*who_lisette
-Que ce serait bien fait !
-
--*who_albert
       Que dis-tu ?
 
--*who_lisette
-      Pas le mot.
-
--*who_albert
 Des filles sans intrigues, et qui sont retenues,
 Sont, à l'heure qu'il est, dans leur lit étendues,
 Dorment tranquillement, et ne vont point sitôt
 Prendre dans une cour ni le froid ni le chaud.
 
--*who_lisette
+Et quel est ce lutin et ce juif errant ?
+
+Moi ?
+
+Ah ! Malheureuse engeance ! Apanage du diable !
+C'est toi qui m'as joué ce tour abominable :
+Tu voulais me tuer avec ce trait maudit ?
+
+Je ne sais maintenant qui retient mon courage,
+Que de vingt coups de poing au milieu du visage...
+
+      Vous pourriez bien ici,
+Vous, la belle, attraper quelque gourmade aussi.
+Taisez-vous, s'il vous plaît.
+      Pour punir son audace,
+Il faut que de chez moi sur-le-champ je la chasse.
+Qu'on sorte de ce pas.
+
+      Non ; dénichons au plus tôt, s'il vous plaît.
+
+De sortir de chez moi tu peux être ravie ?
+
+Oui ! Puisqu'il est ainsi, je change de désir,
+Et je ne prétends pas te donner ce plaisir :
+Tu resteras ici pour faire pénitence.
+Et vous, sans raisonner, rentrez en diligence.
+Demeure, toi ; je veux te parler sans témoins.
+
+Il faut l'amadouer ; j'ai besoin de ses soins.
+Allons, faisons la paix, vivons d'intelligence ;
+Je t'aime dans le fond, et plus que l'on ne pense.
+
+Un bel amour, vraiment, à me casser le nez !
+Mais je pardonne tout, et te donne promesses
+Que tu ressentiras l'effet de mes largesses,
+Si tu veux me servir dans une occasion.
+
+Tu sais depuis longtemps que sur le fait d'Agathe
+J'ai, comme on doit avoir, l'âme un peu délicate.
+La donzelle bientôt prendrait le mors aux dents,
+Sans la précaution que près d'elle je prends.
+Chez la dame du bourg jusqu'à quinze ans nourrie,
+Toujours dans le grand monde elle a passé sa vie :
+Cette dame étant morte, un parent me pria
+D'en vouloir prendre soin, et me la confia.
+L'amour, depuis ce temps, s'est glissé dans mon âme,
+Et j'ai quelque dessein d'en faire un jour ma femme.
+
+      Qu'entends-tu par ce ton ?
+
+      Comment ?
+
+Je n'ai point eu d'enfants de mon hymen passé ;
+Et je veux achever ce que j'ai commencé,
+Faire des héritiers dont l'heureuse naissance
+De mes collatéraux détruise l'espérance.
+
+      Et pourquoi donc ?
+
+Qui t'a de deviner donné le privilège ?
+Dis donc, parle, réponds.
+
+      Ne te mets point en peine.
+Ce sera mon affaire, et point du tout la tienne.
+
+      Tu sais bien qu'ici-bas
+Sans trouver quelque embûche on ne peut faire un pas.
+Des pièges qu'on me tend mon âme est alarmée.
+Je tiens une brebis avec soin enfermée :
+Mais des loups ravissants rôdent pour l'enlever.
+Contre leur dent cruelle il la faut conserver :
+Et pour ne craindre rien de leur noire furie,
+Je veux de toutes parts fermer la bergerie,
+Faire avec soin griller mon château tout autour,
+Et ne laisser partout qu'un peu d'entrée au jour.
+J'ai besoin de tes soins en cette conjoncture,
+Pour faire, à mon desir, attacher la clôture.
+
+      Je ne veux pas que cette invention
+Paraisse être l'effet de ma précaution.
+Agathe, avec raison, pourrait être alarmée
+De se voir, par mes soins, de la sorte enfermée ;
+Cela pourrait causer du refroidissement :
+Mais, en fille d'esprit, il faut adroitement
+Lui dorer la pilule, et lui faire comprendre
+Que tout ce qu'on en fait n'est que pour se défendre,
+Et que, la nuit passée, un nombre de bandits
+N'a laissé que les murs dans le prochain logis.
+
+Ce n'est pas ton affaire ; il suffit, je le veux.
+
+Pour me conduire ainsi j'ai de bonnes raisons.
+
+Sais-tu qu'après avoir employé la prière,
+Je saurai contre toi prendre un parti contraire ?
+
+Pour me trahir ici tout le monde s'emploie :
+On dirait qu'ils n'ont pas tous de plus grande joie.
+Lisette ne vaut rien ; mais, de crainte de pis,
+Malgré sa brusque humeur, je la garde au logis.
+Je ne laisserai pas, quoi qu'on dise et qu'on glose,
+D'accomplir le dessein que mon coeur se propose.
+
+Que faites-vous ici seul, et devant ma porte ?
+
+      Bonjour.
+
+      Oui.
+En vérité, j'en ai le coeur bien réjoui.
+
+Content, ou non content, quel sujet vous attire ?
+Et quel homme êtes-vous ?
+
+Voilà bien des métiers !
+      Du bas jusques en haut,
+Cet homme me paraît avoir l'air d'un maraud.
+Que faites-vous ici ? Parlez.
+
+Non, non ; il faut parler.
+
+Vous me portez tout l'air d'être de ces fripons
+Qui rôdent pour entrer la nuit dans les maisons.
+
+Cet habit cependant n'est pas de compétence.
+
+Vous avez, dites-vous ? ...
+
+C'est agir prudemment en affaires pareilles.
+
+Oui.
+
+Oui : mais il ne faut pas trop longtemps y rester.
+Serviteur.
+
+      Mais... il est à son maître.
+
+      Si vous allez bien vite.
+
+La demande est plaisante ! À ce qu'on peut connaître,
+Vous me croyez ici mis, comme les cadrans,
+Pour, du haut d'un clocher, montrer l'heure aux passants :
+Allez l'apprendre ailleurs ; partez : je vous conseille
+De ne pas plus longtemps étourdir mon oreille.
+Votre aspect me fatigue autant que vos discours.
+Adieu : bonjour.
+
+Un secret confié, dit un excellent homme
+(J'ignore son pays et comment il se nomme),
+C'est la chose à laquelle on doit plus regarder,
+Et la plus difficile en ce temps à garder :
+Cependant, n'en déplaise à ce docteur habile,
+La garde d'une fille est bien plus difficile.
+J'ai fait par le jardin entrer le serrurier,
+Qui doit à mon dessein promptement s'employer.
+Je veux faire sortir Agathe et sa suivante,
+De peur qu'à cet aspect leur coeur ne s'épouvante :
+Il faut les appeler, afin qu'à son plaisir
+L'ouvrier libre et seul puisse agir à loisir.
+Quand j'aurai sur ce point satisfait ma prudence,
+Il faudra les résoudre à prendre patience.
+Holà, quelqu'un.
+
+      Venez, sous ces arbres épais,
+Pendant quelques moments, prendre avec moi le frais.
+
+Il faut changer de lieu quelquefois dans la vie :
+Le plus charmant séjour à la fin nous ennuie.
+
+Mon coeur à ce discours se pâme de plaisirs.
+Il te faut un époux pour calmer ces soupirs.
+
+En personnes d'esprit vous parlez l'une et l'autre.
+Mes sentiments aussi sont conformes au vôtre :
+Je veux me marier. Riche comme je suis,
+On me vient tous les jours proposer des partis
+Qui paraissent pour moi d'un très grand avantage :
+Mais je réponds toujours qu'un autre amour m'engage ;
+Que mon coeur, prévenu de ta rare beauté,
+Pour toi seule soupire, et que, de ton côté,
+Tu n'adores que moi.
+
+      Oui, mignonne,
+J'ai déclaré l'amour qui pour moi t'aiguillonne.
+
+      Qu'au fond de ton coeur,
+Pour moi tu nourrissais une sincère ardeur.
+
+On ne peut être heureux, belle Agathe, et se taire.
+
+Et pourquoi, mon enfant ?
+
+Vous ne m'aimez donc pas ?
+
+      Et pourquoi ?
+
+Après ce que j'ai fait, basilic, pour vous plaire !
+
+Si j'ai pris pour lui plaire une inutile peine,
+Je veux, parlasambleu, mériter cette haine,
+Et mettre en sûreté ses dangereux appas.
+Je vais en certain lieu la mener de ce pas,
+Loin de tous damoiseaux, où de son arrogance
+Elle aura tout loisir de faire pénitence.
+Allons, vite, marchons.
+
+Vous le saurez tantôt ; marchons sans tant parler.
+
+Quel triste contre-temps dans cette conjoncture !
+Au diable le fâcheux, et sa sotte figure !
+Souhaitez-vous, monsieur, quelque chose de moi ?
+
+À quoi servent, monsieur, les façons que vous faites ?
+Parlez donc ; je suis las de toutes ces courbettes.
+
+Vous vous trompez, monsieur ; l'air qu'ici l'on respire
+Est tout-à-fait malsain : je dois même vous dire
+Que vous ferez fort mal d'y demeurer longtemps,
+Et qu'il est dangereux et mortel aux passants.
+
+Qu'elle se porte bien, ou qu'elle soit malade,
+Cherchez un autre lieu pour votre promenade.
+
+Oui, le pays est beau, chacun en parle ainsi :
+Mais vous emploieriez mieux la fin de la journée :
+Votre chaise à présent doit être accommodée ;
+Votre présence ici ne fait aucun besoin :
+Partez ; vous devriez être déjà bien loin.
+
+Puisque de babiller vous avez tant d'envie,
+Je vais vous écouter avec attention.
+Rentrez, rentrez.
+
+      Eh ! Rentrez, vous dit-on.
+
+      Que de cérémonie !
+
+Allons, vite, rentrons.
+
+Ah ! Je t'arracherai ta langue de vipère.
+
+Je ne veux point sitôt rentrer dans le logis,
+Pour donner tout le temps que les barreaux soient mis.
+Leurs plaintes et leurs cris me toucheraient peut-être.
+Çà, de quoi s'agit-il ? Parlez, vous voilà maître :
+Mais surtout soyez bref.
+
+Qu'est-ce à dire, ma fille ?
+
+Cela sera bientôt.
+
+Ce garçon-là me plaît, et parle de bon sens.
+
+Nous sommes un peu grecs sur ces matières-là ;
+Qui pourra m'attraper, bien habile sera.
+Chaque jour, là-dedans, j'invente quelque adresse
+Pour mieux déconcerter leur ruse et leur finesse.
+Ma foi, vous aurez beau, messieurs leurs partisans,
+Débonnaires maris, doucereux courtisans,
+Abbés blonds et musqués qui cherchez par la ville
+Des femmes dont l'époux soit d'un accès facile,
+Publier que je suis un brutal, un jaloux ;
+Dans le fond de mon coeur je me rirai de vous.
+
+Certes, vous me charmez, monsieur, par votre esprit,
+Je voudrais, pour beaucoup, que cela fût écrit,
+Pour le montrer aux sots qui blâment ma manière.
+
+Je vous suis obligé ; je m'en souviendrai bien.
+Vous n'avez pas, je crois, autre chose à me dire :
+Voilà votre chemin. Adieu. Je me retire.
+Que le ciel vous maintienne en ces bons sentiments ;
+Et ne demeurez pas en ce lieu plus longtemps.
+
+Qu'est-il donc arrivé ?
+
+Mais encor faut-il bien savoir ce qui se passe.
+
+Agathe est folle !
+
+      Cela n'est pas croyable.
+
+      Quel funeste malheur !
+
+Maudite prévoyance, et malheureuses grilles !
+
+Ah ! Ma chère Lisette, elle a perdu l'esprit.
+
+Elle a les yeux troublés, et la mine hagarde.
+
+Agathe, mon enfant, ton erreur est extrême.
+Je suis seigneur Albert, qui te chéris, qui t'aime.
+
+      Eh bien ! Je chanterai ;
+Et, si c'est ton désir encor, je danserai.
+
+Je vous ai déjà dit, sans vouloir vous déplaire,
+Que je n'ai point l'honneur d'être musicien.
+
+Lisette, suivons-la, voyons s'il est possible
+D'apporter du remède à ce malheur terrible.
+
+Ah ! Monsieur, excusez l'ennui qui me possède.
+Je reviens sur mes pas pour chercher du remède.
+Cet homme est à vous ?
+
+      De grâce, ordonnez-lui
+Qu'il veuille à mon secours s'employer aujourd'hui.
+
+      De sa science
+Il a daigné tantôt me faire confidence :
+Il a mille secrets pour guérir bien des maux ;
+Peut-être en a-t-il un pour les faibles cerveaux.
+
+Ah ! Monsieur !
+
+Pardonnez mon erreur.
+
+Pourrez-vous, sans pitié, voir éteindre les jours
+D'un objet si charmant, sans lui donner secours ?
+Monsieur, parlez pour moi.
+
+Quoi ! Vous pourriez ? ...
+
+Je ne puis exprimer mon obligation ;
+Mais aussi soyez sûr que mon bien et ma vie...
+
+Je ne puis demeurer en place un seul moment.
+Je vais, je viens, je cours ; tout accroît mon tourment.
+Près d'elle, mon esprit, comme le sien, se trouble ;
+Son accès de folie à chaque instant redouble.
+Ah ! Monsieur, suis-je assez au rang de vos amis,
+Pour m'aider du secours que vous m'avez promis ?
+Cet homme qui tantôt m'a vanté sa science,
+Veut-il de ses secrets faire l'expérience ?
+En l'état où je suis, je dois tout accorder ;
+Et, lorsque l'on perd tout, on peut tout hasarder.
+
+Quel service, monsieur, peut être égal au vôtre !
+Comme le ciel envoie ici, sans y songer,
+Cette honnête personne exprès pour m'obliger !
+
+Je suis persuadé, monsieur, de son mérite.
+Nous voyons tous les jours de ces sortes de gens
+Apprendre, en voyageant, des secrets surprenants.
+
+Hélas ! Jamais. Il faut qu'on l'ait ensorcelée.
+
+Hélas ! Peut-on plus loin pousser l'égarement ?
+
+Tu rêves, mon enfant : mais pour te satisfaire,
+J'avancerai les frais, et j'en fais mon affaire.
+
+Mais songe, mon enfant...
+
+Je veux flatter son mal.
+
+D'accord.
+
+Il est vrai qu'à l'instant je pourrai lui reprendre.
+Tiens, voilà cet argent : va, puissent au procès
+Ces cent louis prêtés donner un bon succès !
+
+Prends bien garde à l'argent.
+
+Vous voyez à quel point cette folie augmente.
+Votre homme ne vient point, et je m'impatiente.
+
+Eh ! Monsieur, venez donc. Avec impatience
+Tous deux nous attendons ici votre présence.
+
+Vous voyez donc, monsieur, d'où procède son mal ?
+
+Tant mieux. Vous saurez que, depuis tantôt, la belle
+Sent toujours de son mal quelque crise nouvelle :
+En ces lieux écartés, n'ayant nuls médecins,
+Monsieur m'a conseillé de la mettre en vos mains.
+
+Vous avez donc guéri de ces maux quelquefois ?
+
+Je vous suis obligé, monsieur, d'un si grand zèle.
+
+Non, s'il vous plaît, monsieur, il n'en est pas besoin ;
+Et de vous l'amener je vais prendre le soin.
+
+Ah ! Messieurs, sa folie à chaque instant augmente ;
+Un transport martial à présent la tourmente.
+De l'habit dont jadis elle courait le bal,
+Elle s'est mise en homme, à cet excès fatal.
+Elle a pris aussitôt un attirail de guerre,
+Un bonnet de dragon, un large cimeterre.
+Elle ne parle plus que de sang, de combats :
+Mon argent doit servir à lever des soldats ;
+Elle veut m'enrôler.
+
+Ciel ! Quel égarement !
+
+Sans espoir de retour elle a l'esprit perdu.
+
+      Lisette est un sujet
+Qui, sans aller plus loin, vous servira d'objet.
+
+Oui, je consens à tout.
+
+      Oui, j'ai ce qu'il lui faut.
+Lisette, tiens ma clef ; va, cours vite là-haut ;
+Prends la fiole où...
+
+      Je reviens tout-à-l'heure.
+
+J'apporte un élixir d'une force étonnante...
+Mais je ne vois plus rien. Quel soupçon m'épouvante ?
+Lisette ! Agathe ! Ô ciel ! Tout est sourd à mes cris.
+Que sont-ils devenus ? Quel chemin ont-ils pris ?
+Au voleur ! À la force ! Au secours ! Je succombe.
+Où marcher ? Où courir ? Je chancelle ; je tombe.
+Par leur feinte folie ils m'ont enfin séduit ;
+Et moi seul en ce jour j'avAis perdu l'esprit.
+Voilà de mon amour la suite ridicule.
+Ah ! Maudite bouteille, et vieillard trop crédule !
+Allons, suivons leurs pas ; ne nous arrêtons plus.
+Traîtres de ravisseurs, vous serez tous pendus.
+Et toi, sexe trompeur, plus à craindre sur terre
+Que le feu, que la faim, que la peste et la guerre,
+De tous les gens de bien tu dois être maudit ;
+Je te rends pour jamais au diable qui te fit.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+      Eh bien ! Quelle nouvelle,
+Cher Crispin ? Dans ces lieux as-tu vu cette belle ?
+As-tu vu ce tuteur ? Et vois-tu quelque jour,
+Quelque rayon d'espoir, qui flatte mon amour ?
+
+Ne badine donc point ; parle d'autre manière.
+
+Nous en viendrons à bout, quoi qu'il dise et qu'il fasse ;
+Et je ne prétends point abandonner ces lieux,
+Que je ne sois nanti de l'objet de mes voeux.
+L'amour, de ce brutal, vaincra la résistance.
+
+Ne te mets point en peine ; Agathe, en mariage,
+A trente mille écus de bon bien en partage :
+Quand elle n'aurait rien, je l'aime cent fois mieux
+Qu'une autre avec tout l'or qui séduirait tes yeux.
+Dès ses plus tendres ans chez ma mère élevée,
+Son image en mon coeur est tellement gravée,
+Que rien ne pourra plus en effacer les traits.
+Nos deux coeurs, qui semblaient l'un pour l'autre être faits,
+Goûtaient de cet amour l'heureuse intelligence,
+Quand ma mère mourut. Dans cette décadence,
+Albert, ce vieux jaloux, que l'enfer confondra,
+Par avis de parents d'Agathe s'empara.
+Je ne le connais point ; et lui, comme je pense,
+De moi, ni de mon nom, n'a nulle connoissance.
+On m'a dit qu'il était d'un très fâcheux esprit,
+Défiant, dur, brutal.
+
+Tu te sers à propos des termes militaires ;
+Tu reviens de la guerre.
+
+      À quelque chose près.
+La suivante Lisette est dans nos intérêts.
+
+Allons voir là-dessus quels moyens il faut prendre ;
+Et pour ne point donner des soupçons dangereux,
+Évitons de rester plus longtemps en ces lieux.
+
+Étranger dans ces lieux, et ravi de vous voir,
+Vous rendant mes respects, je remplis mon devoir.
+Assez près de chez vous ma chaise s'est rompue :
+Lorsqu'à la réparer ici l'on s'évertue,
+Attiré par l'aspect et le frais de ces lieux,
+Je viens y respirer un air délicieux.
+
+On ne croira jamais qu'avec tant de beauté,
+Et cet air si fleuri, vous manquiez de santé.
+
+Cet objet que le ciel a pris soin de parer,
+Cette vue où mon oeil se plaît à s'égarer,
+Enchante mes regards ; et jamais la nature
+N'étala ses attraits avec tant de parure.
+Mon coeur est amoureux de ce qu'on voit ici.
+
+Je pars dans le moment. Dites-moi, je vous prie...
+
+Je me retirerai plutôt que d'être cause
+Que madame, pour moi, souffre la moindre chose.
+
+      Je suis fâché, vraiment,
+Que pour moi votre fille ait un tel traitement.
+
+      Est-ce donc votre femme ?
+
+      J'en suis ravi dans l'âme.
+Vous ne pouvez jamais prendre un plus beau dessein,
+Et vous faites fort bien de lui tenir la main.
+Tous les maris devraient faire ce que vous faites.
+Les femmes aujourd'hui sont toutes si coquettes ! ...
+J'empêcherai, parbleu, que celle que je prends
+Ne suive la manière et le train de ce temps.
+
+Pour moi, je ne vois rien de si digne de blâme,
+Qu'un homme qui s'endort sur la foi d'une femme ;
+Qui, sans être jamais de soupçons combattu,
+Compte tranquillement sur sa frêle vertu ;
+Croit qu'on fit pour lui seul une femme fidèle.
+Il faut faire soi-même, en tout temps, sentinelle ;
+Suivre partout ses pas ; l'enfermer, s'il le faut ;
+Quand elle veut gronder, crier encor plus haut.
+Et malgré tous les soins dont l'amour nous occupe,
+Le plus fin, tel qu'il soit, en est toujours la dupe.
+
+Quand vous seriez jaloux, devez-vous vous défendre
+Pour avoir plus qu'un autre un coeur sensible et tendre ?
+Sans être un peu jaloux, on ne peut être amant.
+Bien des gens cependant raisonnent autrement.
+Un jaloux, disent-ils, qui sans cesse querelle,
+Est plutôt le tyran que l'amant d'une belle :
+Sans relâche agité de fureur et d'ennui,
+Il ne met son plaisir que dans le mal d'autrui.
+Insupportable à tous, odieux à lui-même,
+Chacun à le tromper met son plaisir extrême,
+Et voudrait qu'on permît d'étouffer un jaloux,
+Comme un monstre échappé de l'enfer en courroux.
+C'est dans le monde ainsi qu'on parle d'ordinaire :
+Mais pour moi, je soutiens un parti tout contraire,
+Et dis qu'un galant homme, et qui fait tant d'aimer,
+Par de jaloux transports peut se voir animer,
+Céder à ce penchant, et qu'il faut, dans la vie,
+Assaisonner l'amour d'un peu de jalousie.
+
+      Eh bien ! Agathe ?
+
+      Ah ciel !
+
+Qu'entends-je ? Juste ciel !
+
+Malgré son mal, Crispin, l'aimable et doux visage !
+
+      Quoi ! Malheureux,
+Tu peux rire, et la voir en cet état affreux !
+
+Une lettre, Crispin.
+
+Vous verrez que je suis un homme de concert,
+Et que je sais, de plus, chanter à livre ouvert.
+
+Il est entré. Lisons...
+"Vous serez surpris du parti que je prends ; mais l'esclavage où je me trouve devenant plus dur chaque jour, j'ai cru qu'il m'était permis de tout entreprendre. Vous, de votre côté, essayez tout pour me délivrer de la tyrannie d'un homme que je hais autant que je vous aime. "
+      Que dis-tu, je te prie,
+De tout ce que tu vois, et de cette folie ?
+
+Il faut que, cette nuit, sans plus longue remise,
+Nous fassions éclater quelque noble entreprise,
+Et que nous l'arrachions, Crispin, d'un joug si dur.
+
+      Ce serait le plus sûr,
+Et le plus prompt.
+
+      Que crains-tu ?
+
+C'est pour nous épouser.
+
+Il me vient un dessein... tu connais bien Clitandre ?
+
+      D'un tel ami nous pouvons tout attendre :
+Son château n'est pas loin ; c'est chez lui que je veux
+Me choisir un asile en partant de ces lieux.
+Là, bravant du jaloux le dépit et la rage,
+Nous disposerons tout pour notre mariage.
+La joie et le plaisir règnent dans ce séjour,
+Et nous y conduirons et l'hymen et l'amour.
+
+      Oui.
+
+Et que peut-il pour vous ? Parlez.
+
+      Crispin, je t'en conjure,
+Tâche à guérir le mal que cette belle endure.
+
+Que veut dire cela ? Par quel heureux destin
+Es-tu donc à ses yeux devenu médecin ?
+
+Il en faut profiter. Je ressens dans mon coeur
+Renaître en ce moment l'espérance et la joie.
+Allons nous consulter, et voir par quelle voie
+Nous pourrons réussir dans nos nobles projets,
+Et ferons éclater ton art et tes secrets.
+
+L'amour y pourvoira.
+
+Je ne puis revenir de tout ce que j'entends.
+Qu'une fille a d'esprit, de raison, de bon sens,
+Quand l'amour une fois s'emparant de son âme,
+Lui peut communiquer son génie et sa flamme !
+De mon côté, j'ai pris, ainsi que je le dois,
+Tous les soins que l'amour peut attendre de moi.
+Crispin est averti de tout ce qu'il faut faire.
+Quelque secours d'argent nous serait nécessaire.
+
+Je me fais un plaisir de rendre un bon office.
+On se doit en tout temps l'un à l'autre service.
+La malade aujourd'hui m'a fait trop de pitié,
+Pour ne vous pas donner ces marques d'amitié.
+L'homme dont il s'agit en ces lieux doit se rendre ;
+J'ai voulu sur le mal le sonder et l'entendre.
+Mais il m'en a parlé dans des termes si nets,
+En me développant la cause et les effets,
+Qu'en vérité, je crois qu'il en sait plus qu'un autre.
+
+Je ne garantis point sa science profonde,
+Vous savez que ces gens, venus du bout du monde,
+Pour tout genre de maux apportent des trésors :
+C'est beaucoup s'ils n'ont pas ressuscité des morts.
+Mais si l'on peut juger de tout ce qu'il peut faire
+Par tout ce qu'il m'a dit, cet homme est votre affaire :
+Il ne veut que la fin du jour pour tout délai.
+Si vous le souhaitez, vous en ferez l'essai.
+D'un office d'ami simplement je m'acquitte.
+
+Je la trouve charmante ; et, malgré sa vieillesse,
+On trouverait encor des retours de jeunesse.
+
+De ces vapeurs souvent est-elle travaillée ?
+
+      Vous ferez sagement.
+Il ne faut pas, de front, heurter son sentiment.
+
+      Comptez aussi, madame,
+Que je veux vous servir, et de toute mon âme.
+
+J'aurai soin du procès ; je sais ce qu'il faut faire.
+
+Je ne sais qui l'arrête : il devrait être ici.
+Mais je le vois qui vient ; n'ayez plus de souci.
+
+Tout va bien. La fortune à nos voeux s'intéresse.
+Agathe, en ton absence, avec un tour d'adresse,
+A su tirer d'Albert ces cent louis comptants.
+
+      Tu sauras le tout avec le temps.
+Nous avons maintenant, sans chercher davantage,
+De quoi sauver Agathe et nous mettre en voyage.
+Pourvu qu'un seul moment nous puissions écarter
+Ce malheureux Albert, qui ne la peut quitter :
+Tant qu'il suivra ses pas, nous ne saurions rien faire.
+
+J'imagine un moyen des plus fous ; mais qu'importe !
+La pièce en vaudra mieux, plus elle sera forte.
+Il faut convaincre Albert qu'avec de certains mots,
+Ainsi que tu l'as dit déjà fort à propos,
+Tu pourrais la guérir de cette maladie,
+Si quelque autre voulait prendre la frénésie.
+Je m'offrirai d'abord à tout évènement.
+Laisse-moi faire après le reste seulement :
+Va, si de belle peur le vieillard ne trépasse,
+Il faudra, pour le moins, qu'il nous quitte la place.
+
+Je l'instruirai de tout, je t'en donne parole.
+Mais songe seulement à bien jouer ton rôle ;
+Et lorsque dans ces lieux Agathe reviendra,
+Amuse le vieillard du mieux qu'il se pourra,
+Pour me donner le temps d'expliquer le mystère,
+Et lui dire en deux mots ce qu'elle devra faire.
+Albert ne peut tarder. Mais je le vois qui sort.
+
+Partout où vous irez, je suis de la partie.
+Il faut, avec prudence, entrer dans sa manie.
+
+J'examinais ses yeux. à ce qu'on peut comprendre,
+Quelque accès violent sans doute va la prendre,
+Lequel sera suivi d'un assoupissement :
+Ordonnez qu'on apporte un fauteuil vitement.
+
+Hâtez-vous donc. Son mal augmente à chaque instant.
+
+Pour savoir aujourd'hui jusqu'où va sa science,
+Je veux bien me livrer à son expérience.
+Je commence à douter de l'effet ; et je crois
+Qu'il s'est voulu moquer et de vous et de moi.
+Je veux l'embarrasser.
+
+Quelle sombre vapeur vient obscurcir ces lieux !
+
+Quel tumulte confus dans mes sens se redouble !
+Quels abîmes profonds s'entr'ouvrent sous mes pas !
+Quel dragon me poursuit ! Ah ! Traître, tu mourras :
+D'un monstre tel que toi je veux purger le monde.
+
+      Laissez-moi de son flanc
+Tirer des flots mêlés de poison et de sang.
+
+Je le veux immoler à ma juste fureur.
+
+Ne perdons point de temps, quittons cette demeure.
+Ce bois nous favorise ; Albert ne saura pas
+De quel côté l'amour aura tourné nos pas.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
+
+Paix, tais-toi, parle bas ; tu sauras mon dessein.
+Éraste est de retour.
+
+      D'Italie.
+
+J'ai cru le voir hier paraître dans ces lieux ;
+Et j'en crois plus mon coeur encore que mes yeux.
+
+J'étais à ma fenêtre, en attendant le jour,
+Quand quelqu'un est sorti : voyant la porte ouverte,
+J'ai saisi promptement l'occasion offerte,
+Tant pour prendre le frais, que pour flatter l'espoir
+Qui pourrait attirer Éraste pour me voir.
+
+Je me veux affranchir du pouvoir d'un jaloux ;
+J'ai trop longtemps langui sous son cruel empire :
+Je lève enfin le masque ; et, quoi qu'il puisse dire,
+Je veux, sans nul égard, lui montrer désormais
+Comme je prétends vivre, et combien je le hais.
+
+Lisette, tous nos maux vont finir désormais.
+Qu'Éraste est différent du portrait que tu fais !
+Dès mes plus tendres ans chez sa mère nourrie,
+Nos coeurs se sont trouvés liés de sympathie ;
+Et l'amour acheva, par des noeuds plus charmants,
+De nous unir encor par ses engagements.
+Plutôt que de souffrir la contrainte effroyable
+Qui depuis quelque temps et me gêne et m'accable,
+Je serais fille à prendre un parti violent ;
+Et, sous un habit d'homme, en chevalier errant,
+Pour m'affranchir d'Albert et de ses lois si dures,
+J'irais par le pays chercher des aventures.
+
+Tu ne sais pas encor quel est mon caractère,
+Quand on m'impose un joug à mon humeur contraire.
+J'ai vécu dans le monde au milieu des plaisirs ;
+La contrainte où je suis irrite mes désirs.
+Présentement qu'Éraste à m'épouser s'apprête,
+Mille vivacités me passent par la tête.
+J'ai du coeur, de l'esprit, du sens, de la raison,
+Et tu verras dans peu des traits de ma façon.
+Mais comment du château la porte est-elle ouverte ?
+
+Est-ce donc vous, monsieur, qui faites sentinelle ?
+
+De dormir ce matin n'ayant aucune envie,
+Lisette et moi, monsieur, nous avons fait partie
+D'être devant le jour sous ces arbres épais,
+Pour voir naître l'aurore et respirer le frais.
+
+Eh ! Monsieur, doucement.
+
+Sous quelque autre climat que je sois avec vous,
+L'air n'y sera pour moi ni meilleur, ni plus doux.
+Je ne sais pas pourquoi ; mais enfin je soupire,
+Quand je suis près de vous, plus que je ne respire.
+
+Les filles, d'ordinaire assez dissimulées,
+Font, au seul nom d'époux, d'abord les réservées,
+Masquent leurs vrais désirs, et répondent souvent
+N'aimer d'autre parti que celui du couvent :
+Pour moi, que le pouvoir de la vérité presse,
+Qui ne trouve en cela ni crime ni faiblesse,
+J'ai le coeur plus sincère, et je vous dis sans fard,
+Que j'aspire à l'hymen, et plus tôt que plus tard.
+
+      Comment donc !
+
+Vous avez, s'il vous plaît, dit...
+
+Votre discrétion vraiment ne paraît guère.
+
+Vous ne deviez pas faire un tel aveu si haut.
+
+      C'est que rien n'est si faux,
+Et qu'on ne peut mentir avec plus d'impudence.
+
+      Non : mais, en récompense,
+Je vous hais à la mort.
+
+      Qui le sait ?
+On aime sans raison, et sans raison on hait.
+
+      Où voulez-vous aller ?
+
+      Paix donc, je le vois mieux que toi.
+
+Hélas ! Rien n'est plus vrai : depuis que j'y respire,
+Je languis nuit et jour dans un cruel martyre.
+
+Non, monsieur, demeurez, et, jusques à demain,
+Différez, croyez-moi, de vous mettre en chemin,
+Et ne vous y mettez qu'en bonne compagnie.
+Les chemins sont mal sûrs.
+
+Toute la nuit entière,
+Un vieux vilain matou
+Me guette sur la gouttière.
+Ah ! Qu'il est fou !
+Ne se peut-il point faire
+Qu'il s'y rompe le cou ?
+
+Ne se peut-il point faire
+Qu'il s'y rompe le cou ?
+Vous êtes du métier ? Musiciens, s'entend ;
+Fort vains, fort altérés, fort peu d'argent comptant :
+Je suis, ainsi que vous, membre de la musique,
+Enfant de G ré sol ; et de plus, je m'en pique ;
+D'un bout du monde à l'autre on vante mon talent.
+Sur un certain duo , que je trouve excellent,
+Parce qu'il est de moi, je veux, sans complaisance,
+Que chacun de vous deux m'en dise ce qu'il pense.
+
+J'aime les gens de l'art.
+      Touchez là, touchez là.
+L'air que vous entendez est fait en a mi la ;
+C'est mon ton favori : la musique en est vive,
+Bizarre, pétulante, et fort récréative ;
+Les mouvements légers, nouveaux, vifs et pressés.
+L'on m'envoya chercher, un de ces jours passés,
+Pour détremper un peu l'humeur mélancolique
+D'un homme dès longtemps au lit paralytique :
+Dès que j'eus mis en chant un certain rigaudon,
+Trois sages médecins venus dans la maison,
+La garde, le malade, un vieil apothicaire
+Qui venait d'exercer son grave ministère,
+Sans respect du métier, se prenant par la main,
+Se mirent à danser jusques au lendemain.
+
+Attendez... doucement... mon démon de musique
+M'agite, me saisit... je tiens du chromatique.
+Les cheveux à la tête en dresseront d'horreur...
+Ne troublez pas le dieu qui me met en fureur.
+Je sens qu'en tons heureux ma verve se dégorge.
+Pouah ! C'est un diésis que j'avais dans la gorge.
+Or donc, dans le duo dont il est question,
+Vous y verrez du vif et de la passion :
+Je réussis des mieux et dans l'un et dans l'autre.
+Voilà votre partie ; et vous, voilà la vôtre.
+
+Parbleu, vous chanterez.
+
+Çà, comptez bien vos temps, pour partir ; cette fois
+C'est vous qui commencez. Allons, vite : un, deux, trois.
+Partez donc, partez donc, musicien barbare,
+Ignorant par nature, ainsi que par bécarre.
+Quelle rauque grenouille, au milieu de ses joncs,
+T'a donné de ton art les premières leçons ?
+Sais-tu, dans un concert, ou croasser, ou braire ?
+
+Pourquoi donc, ignorant, viens-tu, ne sachant rien,
+Interrompre un concert où ta seule présence
+Cause des contre-temps et de la discordance ?
+Vit-on jamais un âne essayer des bémols,
+Et se mêler au chant des tendres rossignols ?
+Jamais un noir corbeau, de malheureux présage,
+Troubla-t-il des serins l'agréable ramage ?
+Et jamais, dans les bois un sinistre hibou,
+Pour chanter un concert, sortit-il de son trou ?
+Tu n'es et ne seras qu'un sot toute ta vie.
+
+      Il faut que, dès ce soir,
+Dans une sérénade, il montre son savoir ;
+Qu'il fasse une musique, et prompte, et vive, et tendre,
+Qui m'enlève.
+
+      D'accord.
+
+Nous pourvoirons à tout, qu'aucun soin ne vous trouble.
+
+L'uccelletto,
+No, non è matto,
+Che, cercando di quà, di là,
+Va trovando la libertà ;
+Ut re mi, re mi fa ;
+Mi fa sol, fa sol la.
+Al dispetto
+D'un vecchio vrtuo,
+E cercando di quà, di là,
+L'uccelletto si salverà :
+Ut re mi ; re mi fa ;
+Mi fa sol, fa sol la.
+
+Bonjour, mes doux amis : Dieu vous gard', mes enfants.
+Eh bien ! Qu'est-ce ? Comment passez-vous votre temps ?
+Que le ciel pour longtemps la santé vous envoie,
+Vous conserve gaillards, et vous maintienne en joie !
+Le chagrin ne vaut rien, et ronge les esprits ;
+Il faut se divertir, c'est moi qui vous le dis.
+
+Ho ! Vous me regardez ! Vous êtes ébaubis
+De me trouver si fraîche avec des cheveux gris.
+Je me porte encor mieux que tous tant que vous êtes.
+Je fais quatre repas, et je lis sans lunettes.
+Je sirote mon vin, quel qu'il soit, vieux, nouveau ;
+Je fais rubis sur l'ongle, et n'y mets jamais d'eau.
+Je vide gentiment mes deux bouteilles.
+
+Oui vraiment, du champagne encor, sans qu'il en reste.
+On peut voir dans ma bouche encor toutes mes dents.
+J'ai pourtant, voyez-vous, quatre-vingt-dix-huit ans,
+Vienne la Saint-Martin.
+
+Tout autant : mais je suis encore verdelette ;
+Et je ne laisse pas, à l'âge où me voilà,
+D'avoir des serviteurs, et qui m'en content, dà.
+Mais vois-tu, mon ami, veux-tu que je te dise ?
+Les hommes d'aujourd'hui, c'est piètre marchandise,
+Ils ne valent plus rien ; et pour en ramasser,
+Tiens, je ne voudrais pas seulement me baisser.
+
+À mon âge, je vaux encor mon pesant d'or.
+Les enfants cependant m'ont beaucoup fait de tort :
+Je ne paroîtrais pas la moitié de mon âge,
+Si l'on ne m'avait mise à treize ans en ménage.
+C'est tuer la jeunesse, à vous en parler franc,
+Que la mettre sitôt en un péril si grand.
+Je ne me souviens pas d'avoir presque été fille.
+À vous dire le vrai, j'étais assez gentille.
+À vingt-sept ans, j'avais déjà quatorze enfants.
+
+      Oui, tout grouillants,
+Et tous garçons encor ; je n'en avais point d'autres,
+Et n'en voyais aucun tourné comme les nôtres.
+Mais ce sont des fripons, et qui finiront mal :
+Les malheureux voudraient me voir à l'hôpital.
+Croiriez-vous que, depuis la mort de feu leur père,
+Ils m'ont, jusqu'à présent, chicané mon douaire ?
+Un douaire gagné si légitimement !
+
+J'aurais très grand besoin de quelque cent pistoles ;
+Prêtez-les-moi, monsieur, pour subvenir aux frais,
+Et pour faire juger ce malheureux procès.
+
+Si je n'ai cet argent, ce jour, en mon pouvoir,
+Mon unique recours sera le désespoir.
+
+      Vous êtes honnête homme :
+Ne me refusez pas, de grâce, cette somme.
+
+Je suis sûre à présent du gain de notre affaire :
+Mais ce secours m'était tout-à-fait nécessaire.
+Donne à mon procureur, Lisette, cet argent :
+Je crois qu'à me servir il sera diligent.
+
+Je reviens sur mes pas en habit plus décent,
+Pour aller avec vous, dans ce besoin pressant,
+Solliciter mon juge, et demander justice.
+Adieu. Qu'un jour le ciel vous rende ce service !
+Qu'une veuve est à plaindre, et qu'elle a de tourments,
+Quand elle a mis au jour de méchants garnements !
+
+      Morbleu, vive la guerre !
+Je ne puis plus rester inutile sur terre.
+Mon équipage est prêt.
+      Ah ! Marquis, en ce lieu
+Je te trouve à propos, et viens te dire adieu.
+J'ai trouvé de l'argent pour faire ma campagne ;
+Et cette nuit enfin je pars pour l'Allemagne.
+
+      Parbleu ! Les officiers
+Sont malheureux d'avoir affaire aux usuriers :
+Pour tirer de leurs mains cent mauvaises pistoles,
+Il faut plus s'intriguer, et plus jouer de rôles !
+Celui qui m'a prêté son argent, je le tiens
+Pour le plus grand coquin, le plus juif, le plus chien
+Que l'on puisse trouver en affaires pareilles :
+Je voudrais que quelqu'un m'apportât ses oreilles.
+Enfin me voilà prêt d'aller servir le roi ;
+Il ne tiendra qu'à toi de partir avec moi.
+
+Je quitte avec plaisir l'étendard de l'amour.
+Je puis, sous ses drapeaux, aller loin quelque jour.
+J'ai mille qualités, de l'esprit, des manières ;
+Je sais l'art de réduire aisément les plus fières.
+Mais quoi ! Que voulez-vous ? Je ne suis point leur fait,
+Le beau sexe sur moi ne fit jamais d'effet.
+La gloire est mon penchant, cette gloire inhumaine
+À son char éclatant en esclave m'enchaîne.
+Ce pauvre sexe meurt et d'amour et d'ennui,
+Sans que je sois tenté de rien faire pour lui.
+Plus de délais : je cours où la gloire m'appelle.
+Amène mes chevaux. L'occasion est belle ;
+Partons, courons, volons.
+
+Qu'il me tarde déjà d'être au champ de la gloire !
+D'aller aux ennemis arracher la victoire !
+Que de veuves en deuil ! Que d'amantes en pleurs !
+Enfants, suivez-moi tous ; ranimez vos ardeurs.
+Je vois dans vos regards briller votre courage.
+Que tout ressente ici l'horreur et le carnage.
+La baïonnette au bout du fusil. Ferme ; bon :
+Frappez. Serrez vos rangs ; percez cet escadron.
+Les coquins n'oseraient soutenir notre vue.
+Ah ! Marauds, vous fuyez ! Non, point de quartier ; tue.
+
+Ciel ! Quel nuage épais se dissipe à mes yeux !
+
+Quel calme en mon esprit vient succéder au trouble !
+
+Je mets entre vos mains et mon sort et ma vie.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
+Lorsqu'en un plein repos chacun encor sommeille,
+Quel démon, s'il vous plaît, vous tire par l'oreille,
+Et vous fait hasarder de sortir si matin ?
+
+      Éraste ?
+
+D'où savez-vous cela, madame, je vous prie ?
+
+Je ne m'étonne plus que votre diligence
+Ait du Seigneur Albert trompé la vigilance.
+Par ma foi, c'est un guide excellent que l'amour !
+
+Vous n'avez pas envie, à ce qu'on peut comprendre,
+Que le pauvre garçon s'enrhume à vous attendre.
+Il arrive le soir ; et vous, au point du jour,
+Vous l'attendez ici pour flatter son amour :
+C'est perdre peu de temps. Mais si, par aventure,
+Albert, votre tuteur, jaloux de sa nature,
+Vient à nous rencontrer, que dira-t-il de nous ?
+
+Que le ciel vous maintienne en ce dessein louable !
+Pour moi, j'aimerais mieux cent fois servir le diable.
+Oui, le diable : du moins, quand il tiendrait sabbat,
+J'aurais quelque repos. Mais, dans mon triste état,
+Soir, matin, jour ou nuit, je n'ai ni paix ni trève :
+Si cela dure encore, il faudra que je crève.
+Tant que le jour est long, il gronde entre ses dents :
+"Fais ceci, fais cela ; va, viens ; monte, descends ;
+Fais bien la guerre à l'oeil ; ferme porte et fenêtre ;
+Avertis, si de loin tu vois quelqu'un paraître."
+Il s'arrête, il s'agite, il court sans savoir où ;
+Toute la nuit il rôde ainsi qu'un loup-garou ;
+Il ne nous permet pas de fermer la prunelle ;
+Lui, quand il dort d'un oeil, l'autre fait sentinelle ;
+Il n'a ri de sa vie ; il est jaloux, fâcheux,
+Brutal à toute outrance, avare, dur, hargneux.
+J'aimerais mieux chercher mon pain de porte en porte,
+Que servir plus longtemps un maître de la sorte.
+
+Oh ! Sans aller si loin, ici, quand vous voudrez,
+Je vous suis caution que vous en trouverez.
+
+Bon ! Votre vieux Cerbère est à la découverte ;
+Faut-il le demander ? Il rôde dans les champs :
+Il fait toute la nuit sentinelle en dedans,
+Et sur le point du jour il va battre l'estrade.
+S'il pouvait, par bonheur, choir en quelque embuscade,
+Et que des égrillards, avec de bons bâtons...
+Mais paix ; j'entends du bruit ; quelqu'un vient ; écoutons.
+
+Je tremble.
+
+Oui.
+
+Que ce serait bien fait !
+
+      Pas le mot.
+
 Et comment, s'il vous plaît, voulez-vous qu'on repose ?
 Chez vous, toute la nuit, on n'entend d'autre chose
 Qu'aller, venir, monter, fermer, descendre, ouvrir,
@@ -758,16 +1574,8 @@ Un lutin, que l'enfer a vomi sur la terre
 Pour faire aux gens dormants une éternelle guerre,
 Commence son vacarme, et nous lutine tous.
 
--*who_albert
-Et quel est ce lutin et ce juif errant ?
-
--*who_lisette
       Vous.
 
--*who_albert
-Moi ?
-
--*who_lisette
       Oui, vous. Je croyais que ces brusques manières
 Venaient de quelque esprit qui voulait des prières ;
 Et, pour mieux m'éclaircir, dans ce fâcheux état,
@@ -789,37 +1597,11 @@ Avec une apostrophe au milieu de la face ;
 Et votre nez cassé me fit voir par écrit
 Que vous étiez un corps, et non pas un esprit.
 
--*who_albert
-Ah ! Malheureuse engeance ! Apanage du diable !
-C'est toi qui m'as joué ce tour abominable :
-Tu voulais me tuer avec ce trait maudit ?
-
--*who_lisette
 Non, c'était seulement pour attraper l'esprit.
 
--*who_albert
-Je ne sais maintenant qui retient mon courage,
-Que de vingt coups de poing au milieu du visage...
-
--*who_agathe
-Eh ! Monsieur, doucement.
-
--*who_albert
-      Vous pourriez bien ici,
-Vous, la belle, attraper quelque gourmade aussi.
-Taisez-vous, s'il vous plaît.
-      Pour punir son audace,
-Il faut que de chez moi sur-le-champ je la chasse.
-Qu'on sorte de ce pas.
-
--*who_lisette
       Juste ciel ! Quel arrêt !
 Monsieur...
 
--*who_albert
-      Non ; dénichons au plus tôt, s'il vous plaît.
-
--*who_lisette
 Ah ! Par ma foi, monsieur, vous nous la donnez bonne,
 De croire qu'en quittant votre triste personne
 Le moindre déplaisir puisse saisir mon coeur !
@@ -833,138 +1615,38 @@ Un époux, quand il suit le convoi de sa femme ;
 N'ont pas le demi-quart tant de plaisir que j'ai
 En recevant de vous ce bienheureux congé.
 
--*who_albert
-De sortir de chez moi tu peux être ravie ?
-
--*who_lisette
 C'est le plus grand plaisir que j'aurai de ma vie.
 
--*who_albert
-Oui ! Puisqu'il est ainsi, je change de désir,
-Et je ne prétends pas te donner ce plaisir :
-Tu resteras ici pour faire pénitence.
-Et vous, sans raisonner, rentrez en diligence.
-Demeure, toi ; je veux te parler sans témoins.
-
-**** *book_ *id_II03 *act_II *date_1696
-
--*who_albert
-Il faut l'amadouer ; j'ai besoin de ses soins.
-Allons, faisons la paix, vivons d'intelligence ;
-Je t'aime dans le fond, et plus que l'on ne pense.
-
--*who_lisette
 Et je vous aime aussi plus que vous ne pensez.
 
--*who_albert
-Un bel amour, vraiment, à me casser le nez !
-Mais je pardonne tout, et te donne promesses
-Que tu ressentiras l'effet de mes largesses,
-Si tu veux me servir dans une occasion.
-
--*who_lisette
 Voyons. De quel service est-il donc question ?
 
--*who_albert
-Tu sais depuis longtemps que sur le fait d'Agathe
-J'ai, comme on doit avoir, l'âme un peu délicate.
-La donzelle bientôt prendrait le mors aux dents,
-Sans la précaution que près d'elle je prends.
-Chez la dame du bourg jusqu'à quinze ans nourrie,
-Toujours dans le grand monde elle a passé sa vie :
-Cette dame étant morte, un parent me pria
-D'en vouloir prendre soin, et me la confia.
-L'amour, depuis ce temps, s'est glissé dans mon âme,
-Et j'ai quelque dessein d'en faire un jour ma femme.
-
--*who_lisette
 Votre femme ? Fi donc !
 
--*who_albert
-      Qu'entends-tu par ce ton ?
-
--*who_lisette
 Fi ! Vous dis-je.
 
--*who_albert
-      Comment ?
-
--*who_lisette
       Eh ! Fi ! Fi ! Vous dit-on.
 Vous avez trop d'esprit pour faire une sottise ;
 Et j'en appellerais à votre barbe grise.
 
--*who_albert
-Je n'ai point eu d'enfants de mon hymen passé ;
-Et je veux achever ce que j'ai commencé,
-Faire des héritiers dont l'heureuse naissance
-De mes collatéraux détruise l'espérance.
-
--*who_lisette
 Ma foi, faites, monsieur, tout ce qu'il vous plaira,
 Jamais postérité de vous ne sortira :
 C'est moi qui vous le dis.
 
--*who_albert
-      Et pourquoi donc ?
-
--*who_lisette
       Que sais-je ?
 
--*who_albert
-Qui t'a de deviner donné le privilège ?
-Dis donc, parle, réponds.
-
--*who_lisette
       Mon dieu, je ne dis rien ;
 Sans dire la raison, vous la devinez bien.
 Je m'entends, il suffit.
 
--*who_albert
-      Ne te mets point en peine.
-Ce sera mon affaire, et point du tout la tienne.
-
--*who_lisette
 Ah ! Vous avez raison.
 
--*who_albert
-      Tu sais bien qu'ici-bas
-Sans trouver quelque embûche on ne peut faire un pas.
-Des pièges qu'on me tend mon âme est alarmée.
-Je tiens une brebis avec soin enfermée :
-Mais des loups ravissants rôdent pour l'enlever.
-Contre leur dent cruelle il la faut conserver :
-Et pour ne craindre rien de leur noire furie,
-Je veux de toutes parts fermer la bergerie,
-Faire avec soin griller mon château tout autour,
-Et ne laisser partout qu'un peu d'entrée au jour.
-J'ai besoin de tes soins en cette conjoncture,
-Pour faire, à mon desir, attacher la clôture.
-
--*who_lisette
 Qui ? Moi !
 
--*who_albert
-      Je ne veux pas que cette invention
-Paraisse être l'effet de ma précaution.
-Agathe, avec raison, pourrait être alarmée
-De se voir, par mes soins, de la sorte enfermée ;
-Cela pourrait causer du refroidissement :
-Mais, en fille d'esprit, il faut adroitement
-Lui dorer la pilule, et lui faire comprendre
-Que tout ce qu'on en fait n'est que pour se défendre,
-Et que, la nuit passée, un nombre de bandits
-N'a laissé que les murs dans le prochain logis.
-
--*who_lisette
 Mais croyez-vous, monsieur, avec ce stratagème,
 Et bien d'autres encor dont vous usez de même,
 Vous faire bien aimer de l'objet de vos voeux ?
 
--*who_albert
-Ce n'est pas ton affaire ; il suffit, je le veux.
-
--*who_lisette
 Allez, vous êtes fou de vouloir, à votre âge,
 Pour la seconde fois tâter du mariage ;
 Plus fou d'être amoureux d'un objet de quinze ans,
@@ -973,10 +1655,6 @@ Ainsi, dans ce dessein, funeste en conséquences,
 Je compte la valeur de trois extravagances,
 Dont la moindre va droit aux petites-maisons.
 
--*who_albert
-Pour me conduire ainsi j'ai de bonnes raisons.
-
--*who_lisette
 Pour moi, grâce aux effets de la bonté céleste,
 J'ai, jusqu'à présent, eu de la vertu de reste :
 Mais si j'avais amant ou mari de ce goût,
@@ -986,11 +1664,6 @@ Je vous le dis tout net, votre espérance est vaine.
 Je ne veux point tremper dans vos lâches desseins :
 Le cas est trop vilain, je m'en lave les mains.
 
--*who_albert
-Sais-tu qu'après avoir employé la prière,
-Je saurai contre toi prendre un parti contraire ?
-
--*who_lisette
 Pestez, jurez, criez, mettez-vous en courroux,
 Vous m'entendrez toujours vous dire qu'un jaloux
 Est un objet affreux à qui l'on fait la guerre,
@@ -1002,351 +1675,11 @@ Des bourreaux moins cruels et moins insupportables,
 Que certains jaloux, tels qu'on en voit en ce lieu.
 Vous m'entendez. J'ai dit. Je me retire. Adieu.
 
-**** *book_ *id_II04 *act_II *date_1696
-
--*who_albert
-Pour me trahir ici tout le monde s'emploie :
-On dirait qu'ils n'ont pas tous de plus grande joie.
-Lisette ne vaut rien ; mais, de crainte de pis,
-Malgré sa brusque humeur, je la garde au logis.
-Je ne laisserai pas, quoi qu'on dise et qu'on glose,
-D'accomplir le dessein que mon coeur se propose.
-
-**** *book_ *id_II05 *act_II *date_1696
-
--*who_crispin
-Mon maître, qui m'attend au cabaret prochain,
-M'envoie ici devant pour sonder le terrain.
-Voilà, je crois, notre homme ; il faut feindre de sorte.
-
--*who_albert
-Que faites-vous ici seul, et devant ma porte ?
-
--*who_crispin
-Bonjour, monsieur.
-
--*who_albert
-      Bonjour.
-
--*who_crispin
-      Vous portez-vous bien ?
-
--*who_albert
-      Oui.
-En vérité, j'en ai le coeur bien réjoui.
-
--*who_albert
-Content, ou non content, quel sujet vous attire ?
-Et quel homme êtes-vous ?
-
--*who_crispin
-      J'aurais peine à le dire.
-J'ai fait tant de métiers, d'après le naturel,
-Que je puis m'appeler un homme universel.
-J'ai couru l'univers ; le monde est ma patrie :
-Faute de revenu, je vis de l'industrie,
-Comme bien d'autres font ; selon l'occasion,
-Quelquefois honnête homme, et quelquefois fripon.
-J'ai servi volontaire un an dans la marine ;
-Et me sentant le coeur enclin à la rapine,
-Après avoir été dix-huit mois flibustier,
-Un mien parent me fit apprenti maltôtier.
-J'ai porté le mousquet en Flandre, en Allemagne ;
-Et j'étais miquelet dans les guerres d'Espagne.
-
--*who_albert
-Voilà bien des métiers !
-      Du bas jusques en haut,
-Cet homme me paraît avoir l'air d'un maraud.
-Que faites-vous ici ? Parlez.
-
--*who_crispin
-      Je me retire.
-
--*who_albert
-Non, non ; il faut parler.
-
--*who_crispin
-      Je ne sais que lui dire.
-
--*who_albert
-Vous me portez tout l'air d'être de ces fripons
-Qui rôdent pour entrer la nuit dans les maisons.
-
--*who_crispin
-Vous me connaissez mal ; j'ai d'autres soins en tête.
-Tandis que le hasard dans ce séjour m'arrête,
-Ayant pour bien des maux des secrets merveilleux,
-Je m'amuse à chercher des simples dans ces lieux.
-Des simples ?
-
--*who_crispin
-      Oui, monsieur. Tout le temps de ma vie,
-J'ai fait profession d'exercer la chimie.
-Tel que vous me voyez, il n'est guère de maux
-Où je ne sache mettre un remède à propos ;
-Pierre, gravelle, toux, vertige, maux de mère ;
-On m'a même accusé d'avoir un caractère.
-Il ne s'en est fallu qu'un degré de chaleur
-Pour être de mon temps le plus heureux souffleur.
-
--*who_albert
-Cet habit cependant n'est pas de compétence.
-
--*who_crispin
-Vous savez que l'habit ne fait pas la science ;
-Et je ne serais pas réduit d'être valet,
-Si je n'avais eu bruit avec le châtelet.
-Mais un jour, on verra triompher l'innocence.
-
--*who_albert
-Vous avez, dites-vous ? ...
-
--*who_crispin
-      Voyez la médisance !
-Certain jour, me trouvant le long d'un grand chemin,
-Moi troisième, et le jour étant sur son déclin,
-En un certain bourbier j'aperçus certain coche :
-En homme secourable aussitôt je m'approche ;
-Et pour le soulager du poids qui l'arrêtait,
-J'ôtai des magasins les paquets qu'il portait.
-On a voulu depuis, pour ce trait charitable,
-De ces paquets perdus me rendre responsable :
-Le prévôt s'en mêlait ; c'est pourquoi mes amis
-Me conseillèrent tous de quitter le pays.
-
--*who_albert
-C'est agir prudemment en affaires pareilles.
-
--*who_crispin
-J'arrive de la guerre, où j'ai fait des merveilles.
-Les Ardennes m'ont vu soutenir tout le feu,
-Et batailler un jour, seul, contre un parti bleu.
-J'ai, dans le Milanais, payé de ma personne.
-Savez-vous bien, monsieur, que j'étais dans Crémone ?
-Je vous crois. Mais, après tous ces exploits fameux
-Que voulez-vous enfin de moi ?
-
--*who_crispin
-      Ce que je veux ?
-
--*who_albert
-Oui.
-
--*who_crispin
-      Rien. Je crois qu'on peut, quoique l'on en raisonne,
-Se promener ici, sans offenser personne.
-
--*who_albert
-Oui : mais il ne faut pas trop longtemps y rester.
-Serviteur.
-
--*who_crispin
-      Serviteur. Avant de nous quitter,
-Dites-moi, s'il vous plaît, monsieur, à qui peut être
-Le château que voilà ?
-
--*who_albert
-      Mais... il est à son maître.
-
--*who_crispin
-C'est parler comme il faut. Vous répondez si bien,
-Que l'on ne peut sitôt quitter votre entretien.
-Nous devons à la ville aller ce soir au gîte,
-Y serons-nous bientôt ?
-
--*who_albert
-      Si vous allez bien vite.
-
--*who_crispin
-Cet homme n'aime pas les conversations.
-Pour finir en un mot toutes mes questions,
-Je pars ; et dites-moi quelle heure il pourrait être.
-
--*who_albert
-La demande est plaisante ! À ce qu'on peut connaître,
-Vous me croyez ici mis, comme les cadrans,
-Pour, du haut d'un clocher, montrer l'heure aux passants :
-Allez l'apprendre ailleurs ; partez : je vous conseille
-De ne pas plus longtemps étourdir mon oreille.
-Votre aspect me fatigue autant que vos discours.
-Adieu : bonjour.
-
-**** *book_ *id_II06 *act_II *date_1696
-
--*who_crispin
-      Cet homme a bien de l'air d'un ours.
-Par ma foi, ce début commence à m'interdire.
-Le vieillard me paraît un peu sujet à l'ire :
-Pour en venir à bout, il faudra batailler :
-Tant mieux ; c'est où je brille, et j'aime à ferrailler.
-
-**** *book_ *id_II07 *act_II *date_1696
-
--*who_crispin
-Mais j'aperçois mon maître.
-
--*who_eraste
-      Eh bien ! Quelle nouvelle,
-Cher Crispin ? Dans ces lieux as-tu vu cette belle ?
-As-tu vu ce tuteur ? Et vois-tu quelque jour,
-Quelque rayon d'espoir, qui flatte mon amour ?
-
--*who_crispin
-À vous dire le vrai, ce n'était pas la peine
-De venir de Milan ici tout d'une haleine,
-Pour nous en retourner d'abord du même train ;
-Vous pouviez m'épargner le travail du chemin.
-Ah ! Que ce Mont Cenis est un pas ridicule !
-Vous souvient-il, monsieur, quand ma maudite mule
-Me jeta par malice, en ce trou si profond ?
-Je fus près d'un quart d'heure à rouler jusqu'au fond.
-
--*who_eraste
-Ne badine donc point ; parle d'autre manière.
-
--*who_crispin
-Puisque vous souhaitez une phrase plus claire,
-Je vous dirai, monsieur, que j'ai vu le jaloux,
-Qui m'a reçu d'un air qui tient de l'aigre-doux.
-Il faudra du canon pour emporter la place.
-
--*who_eraste
-Nous en viendrons à bout, quoi qu'il dise et qu'il fasse ;
-Et je ne prétends point abandonner ces lieux,
-Que je ne sois nanti de l'objet de mes voeux.
-L'amour, de ce brutal, vaincra la résistance.
-
--*who_crispin
-J'aurais pour le succès assez bonne espérance,
-Si de quelque argent frais nous avions le secours :
-C'est le nerf de la guerre, ainsi que des amours.
-
--*who_eraste
-Ne te mets point en peine ; Agathe, en mariage,
-A trente mille écus de bon bien en partage :
-Quand elle n'aurait rien, je l'aime cent fois mieux
-Qu'une autre avec tout l'or qui séduirait tes yeux.
-Dès ses plus tendres ans chez ma mère élevée,
-Son image en mon coeur est tellement gravée,
-Que rien ne pourra plus en effacer les traits.
-Nos deux coeurs, qui semblaient l'un pour l'autre être faits,
-Goûtaient de cet amour l'heureuse intelligence,
-Quand ma mère mourut. Dans cette décadence,
-Albert, ce vieux jaloux, que l'enfer confondra,
-Par avis de parents d'Agathe s'empara.
-Je ne le connais point ; et lui, comme je pense,
-De moi, ni de mon nom, n'a nulle connoissance.
-On m'a dit qu'il était d'un très fâcheux esprit,
-Défiant, dur, brutal.
-
--*who_crispin
-      Et l'on vous a bien dit.
-Il faut savoir d'abord si dans la forteresse
-Nous nous introduirons par force ou par adresse ;
-S'il est plus à propos, pour nos desseins conçus,
-De faire un siège ouvert ou former un blocus.
-
--*who_eraste
-Tu te sers à propos des termes militaires ;
-Tu reviens de la guerre.
-
--*who_crispin
-      En toutes les affaires,
-La tête doit toujours agir avant le bras.
-Ce n'est pas d'aujourd'hui que je vois des combats :
-J'ai même déserté deux fois dans la milice.
-Quand on veut, voyez-vous, qu'un siège réussisse,
-Il faut, premièrement, s'emparer des dehors ;
-Connaître les endroits, les faibles et les forts.
-Quand on est bien instruit de tout ce qui se passe,
-On ouvre la tranchée, on canonne la place,
-On renverse un rempart, on fait brèche ; aussitôt
-On avance en bon ordre, et l'on donne l'assaut ;
-On égorge, on massacre, on tue, on vole, on pille :
-C'est de même à peu près quand on prend une fille ;
-N'est-il pas vrai, monsieur ?
-
--*who_eraste
-      À quelque chose près.
-La suivante Lisette est dans nos intérêts.
-
--*who_crispin
-Tant mieux. Plus dans la ville on a d'intelligence,
-Et plus pour le succès on conçoit d'espérance.
-Il la faut avertir que, sans bruit, sans tambours,
-Il est toute la nuit arrivé du secours ;
-Lui faire des signaux pour lui faire comprendre...
-
--*who_eraste
-Allons voir là-dessus quels moyens il faut prendre ;
-Et pour ne point donner des soupçons dangereux,
-Évitons de rester plus longtemps en ces lieux.
-
-**** *book_ *id_II08 *act_II *date_1696
-
--*who_crispin
-Moi, comme ingénieur et chef d'artillerie,
-Je vais voir où je dois placer ma batterie
-Pour battre en brèche Albert, et l'obliger bientôt
-À nous rendre la place, ou soutenir l'assaut.
-
-**** *book_ *id_III01 *act_III *date_1696
-
--*who_albert
-Un secret confié, dit un excellent homme
-(J'ignore son pays et comment il se nomme),
-C'est la chose à laquelle on doit plus regarder,
-Et la plus difficile en ce temps à garder :
-Cependant, n'en déplaise à ce docteur habile,
-La garde d'une fille est bien plus difficile.
-J'ai fait par le jardin entrer le serrurier,
-Qui doit à mon dessein promptement s'employer.
-Je veux faire sortir Agathe et sa suivante,
-De peur qu'à cet aspect leur coeur ne s'épouvante :
-Il faut les appeler, afin qu'à son plaisir
-L'ouvrier libre et seul puisse agir à loisir.
-Quand j'aurai sur ce point satisfait ma prudence,
-Il faudra les résoudre à prendre patience.
-Holà, quelqu'un.
-
-**** *book_ *id_III02 *act_III *date_1696
-
--*who_albert
-      Venez, sous ces arbres épais,
-Pendant quelques moments, prendre avec moi le frais.
-
--*who_lisette
 Voilà du fruit nouveau. Quel démon favorable
 Vous rend l'accueil si doux, et l'humeur si traitable ?
 Par votre ordre étonnant, depuis plus de six mois,
 Nous sortons aujourd'hui pour la première fois.
 
--*who_albert
-Il faut changer de lieu quelquefois dans la vie :
-Le plus charmant séjour à la fin nous ennuie.
-
--*who_agathe
-Sous quelque autre climat que je sois avec vous,
-L'air n'y sera pour moi ni meilleur, ni plus doux.
-Je ne sais pas pourquoi ; mais enfin je soupire,
-Quand je suis près de vous, plus que je ne respire.
-
--*who_albert
-Mon coeur à ce discours se pâme de plaisirs.
-Il te faut un époux pour calmer ces soupirs.
-
--*who_agathe
-Les filles, d'ordinaire assez dissimulées,
-Font, au seul nom d'époux, d'abord les réservées,
-Masquent leurs vrais désirs, et répondent souvent
-N'aimer d'autre parti que celui du couvent :
-Pour moi, que le pouvoir de la vérité presse,
-Qui ne trouve en cela ni crime ni faiblesse,
-J'ai le coeur plus sincère, et je vous dis sans fard,
-Que j'aspire à l'hymen, et plus tôt que plus tard.
-
--*who_lisette
 C'est bien dit. Que sert-il, au printemps de son âge,
 De vouloir se soustraire au joug du mariage,
 Et de se retrancher du nombre des vivants ?
@@ -1356,68 +1689,8 @@ Et la plus ancienne, et la plus à la mode.
 Le parti d'un époux est le plus ancien,
 Et le plus usité ; c'est pourquoi je m'y tiens.
 
--*who_albert
-En personnes d'esprit vous parlez l'une et l'autre.
-Mes sentiments aussi sont conformes au vôtre :
-Je veux me marier. Riche comme je suis,
-On me vient tous les jours proposer des partis
-Qui paraissent pour moi d'un très grand avantage :
-Mais je réponds toujours qu'un autre amour m'engage ;
-Que mon coeur, prévenu de ta rare beauté,
-Pour toi seule soupire, et que, de ton côté,
-Tu n'adores que moi.
-
--*who_agathe
-      Comment donc !
-
--*who_albert
-      Oui, mignonne,
-J'ai déclaré l'amour qui pour moi t'aiguillonne.
-
--*who_agathe
-Vous avez, s'il vous plaît, dit...
-
--*who_albert
-      Qu'au fond de ton coeur,
-Pour moi tu nourrissais une sincère ardeur.
-
--*who_agathe
-Votre discrétion vraiment ne paraît guère.
-
--*who_albert
-On ne peut être heureux, belle Agathe, et se taire.
-
--*who_agathe
-Vous ne deviez pas faire un tel aveu si haut.
-
--*who_albert
-Et pourquoi, mon enfant ?
-
--*who_agathe
-      C'est que rien n'est si faux,
-Et qu'on ne peut mentir avec plus d'impudence.
-
--*who_albert
-Vous ne m'aimez donc pas ?
-
--*who_agathe
-      Non : mais, en récompense,
-Je vous hais à la mort.
-
--*who_albert
-      Et pourquoi ?
-
--*who_agathe
-      Qui le sait ?
-On aime sans raison, et sans raison on hait.
-
--*who_lisette
 Si l'aveu n'est pas tendre, il est du moins sincère.
 
--*who_albert
-Après ce que j'ai fait, basilic, pour vous plaire !
-
--*who_lisette
 Ne nous emportons point ; voyons tranquillement
 Si l'amour vous a fait un objet bien charmant.
 Vos traits sont effacés, elle est aimable et fraîche ;
@@ -1429,117 +1702,10 @@ Vous n'en avez plus qu'une, encore branle-t-elle,
 Et doit être emportée à la première toux :
 À quelle malheureuse ici-bas plairiez-vous ?
 
--*who_albert
-Si j'ai pris pour lui plaire une inutile peine,
-Je veux, parlasambleu, mériter cette haine,
-Et mettre en sûreté ses dangereux appas.
-Je vais en certain lieu la mener de ce pas,
-Loin de tous damoiseaux, où de son arrogance
-Elle aura tout loisir de faire pénitence.
-Allons, vite, marchons.
-
--*who_agathe
-      Où voulez-vous aller ?
-
--*who_albert
-Vous le saurez tantôt ; marchons sans tant parler.
-
-**** *book_ *id_III03 *act_III *date_1696
-
--*who_albert
-Quel triste contre-temps dans cette conjoncture !
-Au diable le fâcheux, et sa sotte figure !
-Souhaitez-vous, monsieur, quelque chose de moi ?
-
--*who_lisette
 C'est Éraste.
 
--*who_agathe
-      Paix donc, je le vois mieux que toi.
-
--*who_albert
-À quoi servent, monsieur, les façons que vous faites ?
-Parlez donc ; je suis las de toutes ces courbettes.
-
--*who_eraste
-Étranger dans ces lieux, et ravi de vous voir,
-Vous rendant mes respects, je remplis mon devoir.
-Assez près de chez vous ma chaise s'est rompue :
-Lorsqu'à la réparer ici l'on s'évertue,
-Attiré par l'aspect et le frais de ces lieux,
-Je viens y respirer un air délicieux.
-
--*who_albert
-Vous vous trompez, monsieur ; l'air qu'ici l'on respire
-Est tout-à-fait malsain : je dois même vous dire
-Que vous ferez fort mal d'y demeurer longtemps,
-Et qu'il est dangereux et mortel aux passants.
-
--*who_agathe
-Hélas ! Rien n'est plus vrai : depuis que j'y respire,
-Je languis nuit et jour dans un cruel martyre.
-
--*who_crispin
-Que l'on me donne à moi toujours du même vin
-Que celui que notre hôte a percé ce matin,
-Et je défie ici toux, fièvre, apoplexie,
-De pouvoir, de cent ans, attenter à ma vie.
-
--*who_eraste
-On ne croira jamais qu'avec tant de beauté,
-Et cet air si fleuri, vous manquiez de santé.
-
--*who_albert
-Qu'elle se porte bien, ou qu'elle soit malade,
-Cherchez un autre lieu pour votre promenade.
-
--*who_eraste
-Cet objet que le ciel a pris soin de parer,
-Cette vue où mon oeil se plaît à s'égarer,
-Enchante mes regards ; et jamais la nature
-N'étala ses attraits avec tant de parure.
-Mon coeur est amoureux de ce qu'on voit ici.
-
--*who_albert
-Oui, le pays est beau, chacun en parle ainsi :
-Mais vous emploieriez mieux la fin de la journée :
-Votre chaise à présent doit être accommodée ;
-Votre présence ici ne fait aucun besoin :
-Partez ; vous devriez être déjà bien loin.
-
--*who_eraste
-Je pars dans le moment. Dites-moi, je vous prie...
-
--*who_albert
-Puisque de babiller vous avez tant d'envie,
-Je vais vous écouter avec attention.
-Rentrez, rentrez.
-
--*who_lisette
       Monsieur...
 
--*who_albert
-      Eh ! Rentrez, vous dit-on.
-
--*who_eraste
-Je me retirerai plutôt que d'être cause
-Que madame, pour moi, souffre la moindre chose.
-
--*who_agathe
-Non, monsieur, demeurez, et, jusques à demain,
-Différez, croyez-moi, de vous mettre en chemin,
-Et ne vous y mettez qu'en bonne compagnie.
-Les chemins sont mal sûrs.
-
--*who_albert
-      Que de cérémonie !
-
-**** *book_ *id_III04 *act_III *date_1696
-
--*who_albert
-Allons, vite, rentrons.
-
--*who_lisette
       Oui, oui, je rentrerai :
 Mais, devant ces messieurs, tout haut je vous dirai
 Que le ciel enverra quelque honnête personne
@@ -1552,145 +1718,18 @@ Nous croyons quelquefois que le monde a pris fin.
 Rien n'entre ici, s'il n'est du genre féminin :
 Jugez si quelque fille en ce lieu peut se plaire.
 
--*who_albert
-Ah ! Je t'arracherai ta langue de vipère.
-
-**** *book_ *id_III05 *act_III *date_1696
-
--*who_albert
-Je ne veux point sitôt rentrer dans le logis,
-Pour donner tout le temps que les barreaux soient mis.
-Leurs plaintes et leurs cris me toucheraient peut-être.
-Çà, de quoi s'agit-il ? Parlez, vous voilà maître :
-Mais surtout soyez bref.
-
--*who_eraste
-      Je suis fâché, vraiment,
-Que pour moi votre fille ait un tel traitement.
-
--*who_albert
-Qu'est-ce à dire, ma fille ?
-
--*who_eraste
-      Est-ce donc votre femme ?
-
--*who_albert
-Cela sera bientôt.
-
--*who_eraste
-      J'en suis ravi dans l'âme.
-Vous ne pouvez jamais prendre un plus beau dessein,
-Et vous faites fort bien de lui tenir la main.
-Tous les maris devraient faire ce que vous faites.
-Les femmes aujourd'hui sont toutes si coquettes ! ...
-J'empêcherai, parbleu, que celle que je prends
-Ne suive la manière et le train de ce temps.
-
--*who_crispin
-Ah ! Que vous ferez bien ! Je suis si saoul des femmes ! ...
-Et je suis si ravi, quand quelques bonnes âmes
-Se servent de main-mise un peu de temps en temps...
-
--*who_albert
-Ce garçon-là me plaît, et parle de bon sens.
-
--*who_eraste
-Pour moi, je ne vois rien de si digne de blâme,
-Qu'un homme qui s'endort sur la foi d'une femme ;
-Qui, sans être jamais de soupçons combattu,
-Compte tranquillement sur sa frêle vertu ;
-Croit qu'on fit pour lui seul une femme fidèle.
-Il faut faire soi-même, en tout temps, sentinelle ;
-Suivre partout ses pas ; l'enfermer, s'il le faut ;
-Quand elle veut gronder, crier encor plus haut.
-Et malgré tous les soins dont l'amour nous occupe,
-Le plus fin, tel qu'il soit, en est toujours la dupe.
-
--*who_albert
-Nous sommes un peu grecs sur ces matières-là ;
-Qui pourra m'attraper, bien habile sera.
-Chaque jour, là-dedans, j'invente quelque adresse
-Pour mieux déconcerter leur ruse et leur finesse.
-Ma foi, vous aurez beau, messieurs leurs partisans,
-Débonnaires maris, doucereux courtisans,
-Abbés blonds et musqués qui cherchez par la ville
-Des femmes dont l'époux soit d'un accès facile,
-Publier que je suis un brutal, un jaloux ;
-Dans le fond de mon coeur je me rirai de vous.
-
--*who_eraste
-Quand vous seriez jaloux, devez-vous vous défendre
-Pour avoir plus qu'un autre un coeur sensible et tendre ?
-Sans être un peu jaloux, on ne peut être amant.
-Bien des gens cependant raisonnent autrement.
-Un jaloux, disent-ils, qui sans cesse querelle,
-Est plutôt le tyran que l'amant d'une belle :
-Sans relâche agité de fureur et d'ennui,
-Il ne met son plaisir que dans le mal d'autrui.
-Insupportable à tous, odieux à lui-même,
-Chacun à le tromper met son plaisir extrême,
-Et voudrait qu'on permît d'étouffer un jaloux,
-Comme un monstre échappé de l'enfer en courroux.
-C'est dans le monde ainsi qu'on parle d'ordinaire :
-Mais pour moi, je soutiens un parti tout contraire,
-Et dis qu'un galant homme, et qui fait tant d'aimer,
-Par de jaloux transports peut se voir animer,
-Céder à ce penchant, et qu'il faut, dans la vie,
-Assaisonner l'amour d'un peu de jalousie.
-
--*who_albert
-Certes, vous me charmez, monsieur, par votre esprit,
-Je voudrais, pour beaucoup, que cela fût écrit,
-Pour le montrer aux sots qui blâment ma manière.
-
--*who_crispin
-Entrons chez vous, monsieur : là, pour vous satisfaire,
-Je vous l'écrirai tout, sans qu'il vous coûte rien.
-
--*who_albert
-Je vous suis obligé ; je m'en souviendrai bien.
-Vous n'avez pas, je crois, autre chose à me dire :
-Voilà votre chemin. Adieu. Je me retire.
-Que le ciel vous maintienne en ces bons sentiments ;
-Et ne demeurez pas en ce lieu plus longtemps.
-
-**** *book_ *id_III06 *act_III *date_1696
-
--*who_lisette
 Au secours ! Aux voisins ! Quel accident terrible !
 Quelle triste aventure ! Ah ciel ! Est-il possible ?
 Pauvre seigneur Albert, que vas-tu devenir ?
 Le coup est trop mortel ; je n'en puis revenir.
 
--*who_albert
-Qu'est-il donc arrivé ?
-
--*who_lisette
       La plus rude disgrâce...
 
--*who_albert
-Mais encor faut-il bien savoir ce qui se passe.
-
--*who_lisette
 Agathe...
 
--*who_eraste
-      Eh bien ! Agathe ?
-
--*who_lisette
       Agathe, en ce moment,
 Vient de devenir folle, et tout subitement.
 
--*who_albert
-Agathe est folle !
-
--*who_eraste
-      Ah ciel !
-
--*who_albert
-      Cela n'est pas croyable.
-
--*who_lisette
 Ah ! Monsieur, ce malheur n'est que trop véritable.
 Quand, par votre ordre exprès, elle a vu travailler
 Ce maudit serrurier, venu pour nous griller ;
@@ -1709,348 +1748,279 @@ Chanté différents airs en différent jargon.
 Enfin, c'est cent fois pis que je ne puis vous dire :
 On ne peut s'empêcher d'en pleurer et d'en rire.
 
--*who_eraste
-Qu'entends-je ? Juste ciel !
-
--*who_albert
-      Quel funeste malheur !
-
--*who_lisette
 De ce triste accident vous êtes seul l'auteur ;
 Et voilà ce que c'est que d'enfermer les filles !
 
--*who_albert
-Maudite prévoyance, et malheureuses grilles !
-
--*who_lisette
 J'ai voulu dans sa chambre un moment l'enfermer ;
 C'était des hurlements qu'on ne peut exprimer :
 De rage elle battait les murs avec sa tête.
 J'ai dit qu'on ouvre tout, et qu'aucun ne l'arrête.
 Mais je la vois venir.
 
-**** *book_ *id_III07 *act_III *date_1696
-
--*who_lisette
       Hélas ! à tout moment
 Elle change de forme et de déguisement.
 
--*who_agathe
-Toute la nuit entière,
-Un vieux vilain matou
-Me guette sur la gouttière.
-Ah ! Qu'il est fou !
-Ne se peut-il point faire
-Qu'il s'y rompe le cou ?
-
--*who_eraste
-Malgré son mal, Crispin, l'aimable et doux visage !
-
--*who_crispin
-Je l'aimerais encor mieux qu'une autre plus sage.
-
--*who_agathe
-Ne se peut-il point faire
-Qu'il s'y rompe le cou ?
-Vous êtes du métier ? Musiciens, s'entend ;
-Fort vains, fort altérés, fort peu d'argent comptant :
-Je suis, ainsi que vous, membre de la musique,
-Enfant de G ré sol ; et de plus, je m'en pique ;
-D'un bout du monde à l'autre on vante mon talent.
-Sur un certain duo , que je trouve excellent,
-Parce qu'il est de moi, je veux, sans complaisance,
-Que chacun de vous deux m'en dise ce qu'il pense.
-
--*who_albert
-Ah ! Ma chère Lisette, elle a perdu l'esprit.
-
--*who_lisette
 Qui le sait mieux que moi ? Ne vous l'ai-je pas dit ?
 
--*who_crispin
+Nous entendrons bientôt de beaux charivaris.
+
+      Entends-tu ?
+
+Ma pauvre maîtresse ! Ah ! J'ai le coeur si saisi !
+Je crois que je m'en vais devenir folle aussi.
+
+Ah ciel ! Vous allez voir bien une autre folie.
+Si cela dure encore, il faudra qu'on la lie.
+
+      Peste !
+
+      La jeunesse est complète.
+
+Quelle fécondité ! Quatorze !
+
+La friponne, ma foi, joue, à charmer, ses rôles.
+
+Si vous lui résistez, elle est fille, peut-être,
+À s'aller, de ce pas, jeter par la fenêtre.
+
+      Il me souvient que vous avez tantôt
+Reçu ces cent louis, ou du moins peu s'en faut ;
+Quel risque à ses désirs de vouloir condescendre ?
+
+Il n'y manquera pas.
+
+Voilà de quoi, monsieur, avancer votre affaire.
+
+      N'ayez point de chagrin ;
+J'en réponds corps pour corps, il est en bonne main.
+
+Comment ! La pauvre fille est-elle possédée !
+
+Je vous baise les mains, et vous donne parole
+Que je n'en ferai rien : je ne suis que trop folle.
+
+      Je crains en ce désordre extrême,
+De faire un quiproquo ; vous feriez mieux vous-même.
+
+Allez vite ; allez donc.
+
+Vive, vive Crispin ! Et vivat la folie !
+Allons courir les champs, pour remplir notre sort,
+Et le laissons tout seul exhaler son transport.
+
+
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
+Mon maître, qui m'attend au cabaret prochain,
+M'envoie ici devant pour sonder le terrain.
+Voilà, je crois, notre homme ; il faut feindre de sorte.
+
+Bonjour, monsieur.
+
+      Vous portez-vous bien ?
+
+      J'aurais peine à le dire.
+J'ai fait tant de métiers, d'après le naturel,
+Que je puis m'appeler un homme universel.
+J'ai couru l'univers ; le monde est ma patrie :
+Faute de revenu, je vis de l'industrie,
+Comme bien d'autres font ; selon l'occasion,
+Quelquefois honnête homme, et quelquefois fripon.
+J'ai servi volontaire un an dans la marine ;
+Et me sentant le coeur enclin à la rapine,
+Après avoir été dix-huit mois flibustier,
+Un mien parent me fit apprenti maltôtier.
+J'ai porté le mousquet en Flandre, en Allemagne ;
+Et j'étais miquelet dans les guerres d'Espagne.
+
+      Je me retire.
+
+      Je ne sais que lui dire.
+
+Vous me connaissez mal ; j'ai d'autres soins en tête.
+Tandis que le hasard dans ce séjour m'arrête,
+Ayant pour bien des maux des secrets merveilleux,
+Je m'amuse à chercher des simples dans ces lieux.
+Des simples ?
+
+      Oui, monsieur. Tout le temps de ma vie,
+J'ai fait profession d'exercer la chimie.
+Tel que vous me voyez, il n'est guère de maux
+Où je ne sache mettre un remède à propos ;
+Pierre, gravelle, toux, vertige, maux de mère ;
+On m'a même accusé d'avoir un caractère.
+Il ne s'en est fallu qu'un degré de chaleur
+Pour être de mon temps le plus heureux souffleur.
+
+Vous savez que l'habit ne fait pas la science ;
+Et je ne serais pas réduit d'être valet,
+Si je n'avais eu bruit avec le châtelet.
+Mais un jour, on verra triompher l'innocence.
+
+      Voyez la médisance !
+Certain jour, me trouvant le long d'un grand chemin,
+Moi troisième, et le jour étant sur son déclin,
+En un certain bourbier j'aperçus certain coche :
+En homme secourable aussitôt je m'approche ;
+Et pour le soulager du poids qui l'arrêtait,
+J'ôtai des magasins les paquets qu'il portait.
+On a voulu depuis, pour ce trait charitable,
+De ces paquets perdus me rendre responsable :
+Le prévôt s'en mêlait ; c'est pourquoi mes amis
+Me conseillèrent tous de quitter le pays.
+
+J'arrive de la guerre, où j'ai fait des merveilles.
+Les Ardennes m'ont vu soutenir tout le feu,
+Et batailler un jour, seul, contre un parti bleu.
+J'ai, dans le Milanais, payé de ma personne.
+Savez-vous bien, monsieur, que j'étais dans Crémone ?
+Je vous crois. Mais, après tous ces exploits fameux
+Que voulez-vous enfin de moi ?
+
+      Ce que je veux ?
+
+      Rien. Je crois qu'on peut, quoique l'on en raisonne,
+Se promener ici, sans offenser personne.
+
+      Serviteur. Avant de nous quitter,
+Dites-moi, s'il vous plaît, monsieur, à qui peut être
+Le château que voilà ?
+
+C'est parler comme il faut. Vous répondez si bien,
+Que l'on ne peut sitôt quitter votre entretien.
+Nous devons à la ville aller ce soir au gîte,
+Y serons-nous bientôt ?
+
+Cet homme n'aime pas les conversations.
+Pour finir en un mot toutes mes questions,
+Je pars ; et dites-moi quelle heure il pourrait être.
+
+      Cet homme a bien de l'air d'un ours.
+Par ma foi, ce début commence à m'interdire.
+Le vieillard me paraît un peu sujet à l'ire :
+Pour en venir à bout, il faudra batailler :
+Tant mieux ; c'est où je brille, et j'aime à ferrailler.
+
+Mais j'aperçois mon maître.
+
+À vous dire le vrai, ce n'était pas la peine
+De venir de Milan ici tout d'une haleine,
+Pour nous en retourner d'abord du même train ;
+Vous pouviez m'épargner le travail du chemin.
+Ah ! Que ce Mont Cenis est un pas ridicule !
+Vous souvient-il, monsieur, quand ma maudite mule
+Me jeta par malice, en ce trou si profond ?
+Je fus près d'un quart d'heure à rouler jusqu'au fond.
+
+Puisque vous souhaitez une phrase plus claire,
+Je vous dirai, monsieur, que j'ai vu le jaloux,
+Qui m'a reçu d'un air qui tient de l'aigre-doux.
+Il faudra du canon pour emporter la place.
+
+J'aurais pour le succès assez bonne espérance,
+Si de quelque argent frais nous avions le secours :
+C'est le nerf de la guerre, ainsi que des amours.
+
+      Et l'on vous a bien dit.
+Il faut savoir d'abord si dans la forteresse
+Nous nous introduirons par force ou par adresse ;
+S'il est plus à propos, pour nos desseins conçus,
+De faire un siège ouvert ou former un blocus.
+
+      En toutes les affaires,
+La tête doit toujours agir avant le bras.
+Ce n'est pas d'aujourd'hui que je vois des combats :
+J'ai même déserté deux fois dans la milice.
+Quand on veut, voyez-vous, qu'un siège réussisse,
+Il faut, premièrement, s'emparer des dehors ;
+Connaître les endroits, les faibles et les forts.
+Quand on est bien instruit de tout ce qui se passe,
+On ouvre la tranchée, on canonne la place,
+On renverse un rempart, on fait brèche ; aussitôt
+On avance en bon ordre, et l'on donne l'assaut ;
+On égorge, on massacre, on tue, on vole, on pille :
+C'est de même à peu près quand on prend une fille ;
+N'est-il pas vrai, monsieur ?
+
+Tant mieux. Plus dans la ville on a d'intelligence,
+Et plus pour le succès on conçoit d'espérance.
+Il la faut avertir que, sans bruit, sans tambours,
+Il est toute la nuit arrivé du secours ;
+Lui faire des signaux pour lui faire comprendre...
+
+Moi, comme ingénieur et chef d'artillerie,
+Je vais voir où je dois placer ma batterie
+Pour battre en brèche Albert, et l'obliger bientôt
+À nous rendre la place, ou soutenir l'assaut.
+
+Que l'on me donne à moi toujours du même vin
+Que celui que notre hôte a percé ce matin,
+Et je défie ici toux, fièvre, apoplexie,
+De pouvoir, de cent ans, attenter à ma vie.
+
+Ah ! Que vous ferez bien ! Je suis si saoul des femmes ! ...
+Et je suis si ravi, quand quelques bonnes âmes
+Se servent de main-mise un peu de temps en temps...
+
+Entrons chez vous, monsieur : là, pour vous satisfaire,
+Je vous l'écrirai tout, sans qu'il vous coûte rien.
+
+Je l'aimerais encor mieux qu'une autre plus sage.
+
 Ce qui m'en plaît, monsieur, sa folie est gaillarde.
 
--*who_albert
-Elle a les yeux troublés, et la mine hagarde.
-
--*who_agathe
-J'aime les gens de l'art.
-      Touchez là, touchez là.
-L'air que vous entendez est fait en a mi la ;
-C'est mon ton favori : la musique en est vive,
-Bizarre, pétulante, et fort récréative ;
-Les mouvements légers, nouveaux, vifs et pressés.
-L'on m'envoya chercher, un de ces jours passés,
-Pour détremper un peu l'humeur mélancolique
-D'un homme dès longtemps au lit paralytique :
-Dès que j'eus mis en chant un certain rigaudon,
-Trois sages médecins venus dans la maison,
-La garde, le malade, un vieil apothicaire
-Qui venait d'exercer son grave ministère,
-Sans respect du métier, se prenant par la main,
-Se mirent à danser jusques au lendemain.
-
--*who_crispin
 Voir une faculté faire en rond une danse,
 Et sortir dans la rue ainsi tout en cadence,
 Cela doit être beau, monsieur !
 
--*who_eraste
-      Quoi ! Malheureux,
-Tu peux rire, et la voir en cet état affreux !
-
--*who_agathe
-Attendez... doucement... mon démon de musique
-M'agite, me saisit... je tiens du chromatique.
-Les cheveux à la tête en dresseront d'horreur...
-Ne troublez pas le dieu qui me met en fureur.
-Je sens qu'en tons heureux ma verve se dégorge.
-Pouah ! C'est un diésis que j'avais dans la gorge.
-Or donc, dans le duo dont il est question,
-Vous y verrez du vif et de la passion :
-Je réussis des mieux et dans l'un et dans l'autre.
-Voilà votre partie ; et vous, voilà la vôtre.
-
--*who_crispin
 Écartons-nous un peu ; je crains les diésis.
 
--*who_lisette
-Nous entendrons bientôt de beaux charivaris.
-
--*who_albert
-Agathe, mon enfant, ton erreur est extrême.
-Je suis seigneur Albert, qui te chéris, qui t'aime.
-
--*who_agathe
-Parbleu, vous chanterez.
-
--*who_albert
-      Eh bien ! Je chanterai ;
-Et, si c'est ton désir encor, je danserai.
-
--*who_eraste
-Une lettre, Crispin.
-
--*who_crispin
       Ah ! Ciel ! Quelle aventure !
 Le maître de musique entend la tablature.
 
--*who_agathe
-Çà, comptez bien vos temps, pour partir ; cette fois
-C'est vous qui commencez. Allons, vite : un, deux, trois.
-Partez donc, partez donc, musicien barbare,
-Ignorant par nature, ainsi que par bécarre.
-Quelle rauque grenouille, au milieu de ses joncs,
-T'a donné de ton art les premières leçons ?
-Sais-tu, dans un concert, ou croasser, ou braire ?
-
--*who_albert
-Je vous ai déjà dit, sans vouloir vous déplaire,
-Que je n'ai point l'honneur d'être musicien.
-
--*who_agathe
-Pourquoi donc, ignorant, viens-tu, ne sachant rien,
-Interrompre un concert où ta seule présence
-Cause des contre-temps et de la discordance ?
-Vit-on jamais un âne essayer des bémols,
-Et se mêler au chant des tendres rossignols ?
-Jamais un noir corbeau, de malheureux présage,
-Troubla-t-il des serins l'agréable ramage ?
-Et jamais, dans les bois un sinistre hibou,
-Pour chanter un concert, sortit-il de son trou ?
-Tu n'es et ne seras qu'un sot toute ta vie.
-
--*who_crispin
 Mon maître, comme il faut, chantera sa partie :
 J'en suis sa caution.
 
--*who_agathe
-      Il faut que, dès ce soir,
-Dans une sérénade, il montre son savoir ;
-Qu'il fasse une musique, et prompte, et vive, et tendre,
-Qui m'enlève.
-
--*who_lisette
-      Entends-tu ?
-
--*who_crispin
       Je commence à comprendre.
 C'est... comme qui dirait une fugue.
 
--*who_agathe
-      D'accord.
-
--*who_crispin
 Une fugue, en musique, est un morceau bien fort,
 Et qui coûte beaucoup.
       Nous n'avons pas un double.
 
--*who_agathe
-Nous pourvoirons à tout, qu'aucun soin ne vous trouble.
-
--*who_eraste
-Vous verrez que je suis un homme de concert,
-Et que je sais, de plus, chanter à livre ouvert.
-
--*who_agathe
-L'uccelletto,
-No, non è matto,
-Che, cercando di quà, di là,
-Va trovando la libertà ;
-Ut re mi, re mi fa ;
-Mi fa sol, fa sol la.
-Al dispetto
-D'un vecchio vrtuo,
-E cercando di quà, di là,
-L'uccelletto si salverà :
-Ut re mi ; re mi fa ;
-Mi fa sol, fa sol la.
-
-**** *book_ *id_III08 *act_III *date_1696
-
--*who_albert
-Lisette, suivons-la, voyons s'il est possible
-D'apporter du remède à ce malheur terrible.
-
-**** *book_ *id_III09 *act_III *date_1696
-
--*who_lisette
-Ma pauvre maîtresse ! Ah ! J'ai le coeur si saisi !
-Je crois que je m'en vais devenir folle aussi.
-
-**** *book_ *id_III10 *act_III *date_1696
-
--*who_eraste
-Il est entré. Lisons...
-"Vous serez surpris du parti que je prends ; mais l'esclavage où je me trouve devenant plus dur chaque jour, j'ai cru qu'il m'était permis de tout entreprendre.
-Vous, de votre côté, essayez tout pour me délivrer de la tyrannie d'un homme que je hais autant que je vous aime. "
-      Que dis-tu, je te prie,
-De tout ce que tu vois, et de cette folie ?
-
--*who_crispin
 J'admire les ressorts de l'esprit féminin,
 Quand il est agité de l'amoureux lutin.
 
--*who_eraste
-Il faut que, cette nuit, sans plus longue remise,
-Nous fassions éclater quelque noble entreprise,
-Et que nous l'arrachions, Crispin, d'un joug si dur.
-
--*who_crispin
 Vous voulez l'enlever ?
 
--*who_eraste
-      Ce serait le plus sûr,
-Et le plus prompt.
-
--*who_crispin
       D'accord. Mais, vous rendant service,
 Je crains après cela...
 
--*who_eraste
-      Que crains-tu ?
-
--*who_crispin
       La justice.
 
--*who_eraste
-C'est pour nous épouser.
-
--*who_crispin
       C'est fort bien entendu.
 Vous serez épousé ; moi, je serai pendu.
 
--*who_eraste
-Il me vient un dessein... tu connais bien Clitandre ?
-
--*who_crispin
 Oui-dà.
 
--*who_eraste
-      D'un tel ami nous pouvons tout attendre :
-Son château n'est pas loin ; c'est chez lui que je veux
-Me choisir un asile en partant de ces lieux.
-Là, bravant du jaloux le dépit et la rage,
-Nous disposerons tout pour notre mariage.
-La joie et le plaisir règnent dans ce séjour,
-Et nous y conduirons et l'hymen et l'amour.
-
-**** *book_ *id_III11 *act_III *date_1696
-
--*who_albert
-Ah ! Monsieur, excusez l'ennui qui me possède.
-Je reviens sur mes pas pour chercher du remède.
-Cet homme est à vous ?
-
--*who_eraste
-      Oui.
-
--*who_albert
-      De grâce, ordonnez-lui
-Qu'il veuille à mon secours s'employer aujourd'hui.
-
--*who_eraste
-Et que peut-il pour vous ? Parlez.
-
--*who_albert
-      De sa science
-Il a daigné tantôt me faire confidence :
-Il a mille secrets pour guérir bien des maux ;
-Peut-être en a-t-il un pour les faibles cerveaux.
-
--*who_crispin
 Oui, oui, j'en ai plus d'un, dont l'effet salutaire...
 Mais vous m'avez tantôt traité d'une manière ! ...
 
--*who_albert
-Ah ! Monsieur !
-
--*who_crispin
       Refuser, lorsqu'on vous en priait,
 De dire le chemin et l'heure qu'il était !
 
--*who_albert
-Pardonnez mon erreur.
-
--*who_crispin
       En nul lieu, de ma vie,
 On ne me fit tel tour, pas même en Barbarie.
 
--*who_albert
-Pourrez-vous, sans pitié, voir éteindre les jours
-D'un objet si charmant, sans lui donner secours ?
-Monsieur, parlez pour moi.
-
--*who_eraste
-      Crispin, je t'en conjure,
-Tâche à guérir le mal que cette belle endure.
-
--*who_crispin
 J'immole encor pour vous tout mon ressentiment.
 Oui, je veux la guérir, et radicalement.
 
--*who_albert
-Quoi ! Vous pourriez ? ...
-
--*who_crispin
       Rentrez. Je vais voir dans mon livre
 Le remède qu'il est plus à propos de suivre...
 Vous me verrez tantôt dans l'opération.
 
--*who_albert
-Je ne puis exprimer mon obligation ;
-Mais aussi soyez sûr que mon bien et ma vie...
-
--*who_crispin
 Allez, je ne veux rien qu'elle ne soit guérie.
 
-**** *book_ *id_III12 *act_III *date_1696
-
--*who_eraste
-Que veut dire cela ? Par quel heureux destin
-Es-tu donc à ses yeux devenu médecin ?
-
--*who_crispin
 Ma foi, je n'en sais rien. Ce que je puis vous dire,
 C'est que tantôt, sa vue ayant su m'interdire
 Pour cacher mon dessein et me déguiser mieux,
@@ -2059,269 +2029,14 @@ Que j'avais pour tous maux des secrets admirables,
 Et faisais tous les jours des cures incurables ;
 Et voilà justement ce qui fait son erreur.
 
--*who_eraste
-Il en faut profiter. Je ressens dans mon coeur
-Renaître en ce moment l'espérance et la joie.
-Allons nous consulter, et voir par quelle voie
-Nous pourrons réussir dans nos nobles projets,
-Et ferons éclater ton art et tes secrets.
-
--*who_crispin
 Moi, je suis prêt à tout : mais il est inutile
 D'entreprendre un projet, sans ce premier mobile.
 Nous sommes sans argent ; qui nous en donnera ?
 
--*who_eraste
-L'amour y pourvoira.
-
-**** *book_ *id_III13 *act_III *date_1696
-
--*who_crispin
       L'amour y pourvoira.
 Il semble à ces messieurs, dans leur manie étrange,
 Que leurs billets d'amour soient des lettres-de-change.
 
-**** *book_ *id_IV01 *act_IV *date_1696
-
--*who_eraste
-Je ne puis revenir de tout ce que j'entends.
-Qu'une fille a d'esprit, de raison, de bon sens,
-Quand l'amour une fois s'emparant de son âme,
-Lui peut communiquer son génie et sa flamme !
-De mon côté, j'ai pris, ainsi que je le dois,
-Tous les soins que l'amour peut attendre de moi.
-Crispin est averti de tout ce qu'il faut faire.
-Quelque secours d'argent nous serait nécessaire.
-
-**** *book_ *id_IV02 *act_IV *date_1696
-
--*who_albert
-Je ne puis demeurer en place un seul moment.
-Je vais, je viens, je cours ; tout accroît mon tourment.
-Près d'elle, mon esprit, comme le sien, se trouble ;
-Son accès de folie à chaque instant redouble.
-Ah ! Monsieur, suis-je assez au rang de vos amis,
-Pour m'aider du secours que vous m'avez promis ?
-Cet homme qui tantôt m'a vanté sa science,
-Veut-il de ses secrets faire l'expérience ?
-En l'état où je suis, je dois tout accorder ;
-Et, lorsque l'on perd tout, on peut tout hasarder.
-
--*who_eraste
-Je me fais un plaisir de rendre un bon office.
-On se doit en tout temps l'un à l'autre service.
-La malade aujourd'hui m'a fait trop de pitié,
-Pour ne vous pas donner ces marques d'amitié.
-L'homme dont il s'agit en ces lieux doit se rendre ;
-J'ai voulu sur le mal le sonder et l'entendre.
-Mais il m'en a parlé dans des termes si nets,
-En me développant la cause et les effets,
-Qu'en vérité, je crois qu'il en sait plus qu'un autre.
-
--*who_albert
-Quel service, monsieur, peut être égal au vôtre !
-Comme le ciel envoie ici, sans y songer,
-Cette honnête personne exprès pour m'obliger !
-
--*who_eraste
-Je ne garantis point sa science profonde,
-Vous savez que ces gens, venus du bout du monde,
-Pour tout genre de maux apportent des trésors :
-C'est beaucoup s'ils n'ont pas ressuscité des morts.
-Mais si l'on peut juger de tout ce qu'il peut faire
-Par tout ce qu'il m'a dit, cet homme est votre affaire :
-Il ne veut que la fin du jour pour tout délai.
-Si vous le souhaitez, vous en ferez l'essai.
-D'un office d'ami simplement je m'acquitte.
-
--*who_albert
-Je suis persuadé, monsieur, de son mérite.
-Nous voyons tous les jours de ces sortes de gens
-Apprendre, en voyageant, des secrets surprenants.
-
-**** *book_ *id_IV03 *act_IV *date_1696
-
--*who_lisette
-Ah ciel ! Vous allez voir bien une autre folie.
-Si cela dure encore, il faudra qu'on la lie.
-
-**** *book_ *id_IV04 *act_IV *date_1696
-
--*who_agathe
-Bonjour, mes doux amis : Dieu vous gard', mes enfants.
-Eh bien ! Qu'est-ce ? Comment passez-vous votre temps ?
-Que le ciel pour longtemps la santé vous envoie,
-Vous conserve gaillards, et vous maintienne en joie !
-Le chagrin ne vaut rien, et ronge les esprits ;
-Il faut se divertir, c'est moi qui vous le dis.
-
--*who_eraste
-Je la trouve charmante ; et, malgré sa vieillesse,
-On trouverait encor des retours de jeunesse.
-
--*who_agathe
-Ho ! Vous me regardez ! Vous êtes ébaubis
-De me trouver si fraîche avec des cheveux gris.
-Je me porte encor mieux que tous tant que vous êtes.
-Je fais quatre repas, et je lis sans lunettes.
-Je sirote mon vin, quel qu'il soit, vieux, nouveau ;
-Je fais rubis sur l'ongle, et n'y mets jamais d'eau.
-Je vide gentiment mes deux bouteilles.
-
--*who_lisette
-      Peste !
-
--*who_agathe
-Oui vraiment, du champagne encor, sans qu'il en reste.
-On peut voir dans ma bouche encor toutes mes dents.
-J'ai pourtant, voyez-vous, quatre-vingt-dix-huit ans,
-Vienne la Saint-Martin.
-
--*who_lisette
-      La jeunesse est complète.
-
--*who_agathe
-Tout autant : mais je suis encore verdelette ;
-Et je ne laisse pas, à l'âge où me voilà,
-D'avoir des serviteurs, et qui m'en content, dà.
-Mais vois-tu, mon ami, veux-tu que je te dise ?
-Les hommes d'aujourd'hui, c'est piètre marchandise,
-Ils ne valent plus rien ; et pour en ramasser,
-Tiens, je ne voudrais pas seulement me baisser.
-
--*who_eraste
-De ces vapeurs souvent est-elle travaillée ?
-
--*who_albert
-Hélas ! Jamais. Il faut qu'on l'ait ensorcelée.
-
--*who_agathe
-À mon âge, je vaux encor mon pesant d'or.
-Les enfants cependant m'ont beaucoup fait de tort :
-Je ne paroîtrais pas la moitié de mon âge,
-Si l'on ne m'avait mise à treize ans en ménage.
-C'est tuer la jeunesse, à vous en parler franc,
-Que la mettre sitôt en un péril si grand.
-Je ne me souviens pas d'avoir presque été fille.
-À vous dire le vrai, j'étais assez gentille.
-À vingt-sept ans, j'avais déjà quatorze enfants.
-
--*who_lisette
-Quelle fécondité ! Quatorze !
-
--*who_agathe
-      Oui, tout grouillants,
-Et tous garçons encor ; je n'en avais point d'autres,
-Et n'en voyais aucun tourné comme les nôtres.
-Mais ce sont des fripons, et qui finiront mal :
-Les malheureux voudraient me voir à l'hôpital.
-Croiriez-vous que, depuis la mort de feu leur père,
-Ils m'ont, jusqu'à présent, chicané mon douaire ?
-Un douaire gagné si légitimement !
-
--*who_albert
-Hélas ! Peut-on plus loin pousser l'égarement ?
-
--*who_lisette
-La friponne, ma foi, joue, à charmer, ses rôles.
-
--*who_agathe
-J'aurais très grand besoin de quelque cent pistoles ;
-Prêtez-les-moi, monsieur, pour subvenir aux frais,
-Et pour faire juger ce malheureux procès.
-
--*who_albert
-Tu rêves, mon enfant : mais pour te satisfaire,
-J'avancerai les frais, et j'en fais mon affaire.
-
--*who_agathe
-Si je n'ai cet argent, ce jour, en mon pouvoir,
-Mon unique recours sera le désespoir.
-
--*who_albert
-Mais songe, mon enfant...
-
--*who_agathe
-      Vous êtes honnête homme :
-Ne me refusez pas, de grâce, cette somme.
-
--*who_albert
-Je veux flatter son mal.
-
--*who_eraste
-      Vous ferez sagement.
-Il ne faut pas, de front, heurter son sentiment.
-
--*who_lisette
-Si vous lui résistez, elle est fille, peut-être,
-À s'aller, de ce pas, jeter par la fenêtre.
-
--*who_albert
-D'accord.
-
--*who_lisette
-      Il me souvient que vous avez tantôt
-Reçu ces cent louis, ou du moins peu s'en faut ;
-Quel risque à ses désirs de vouloir condescendre ?
-
--*who_albert
-Il est vrai qu'à l'instant je pourrai lui reprendre.
-Tiens, voilà cet argent : va, puissent au procès
-Ces cent louis prêtés donner un bon succès !
-
--*who_agathe
-Je suis sûre à présent du gain de notre affaire :
-Mais ce secours m'était tout-à-fait nécessaire.
-Donne à mon procureur, Lisette, cet argent :
-Je crois qu'à me servir il sera diligent.
-
--*who_lisette
-Il n'y manquera pas.
-
--*who_eraste
-      Comptez aussi, madame,
-Que je veux vous servir, et de toute mon âme.
-
--*who_agathe
-Je reviens sur mes pas en habit plus décent,
-Pour aller avec vous, dans ce besoin pressant,
-Solliciter mon juge, et demander justice.
-Adieu. Qu'un jour le ciel vous rende ce service !
-Qu'une veuve est à plaindre, et qu'elle a de tourments,
-Quand elle a mis au jour de méchants garnements !
-
-**** *book_ *id_IV05 *act_IV *date_1696
-
--*who_lisette
-Voilà de quoi, monsieur, avancer votre affaire.
-
--*who_eraste
-J'aurai soin du procès ; je sais ce qu'il faut faire.
-
--*who_albert
-Prends bien garde à l'argent.
-
--*who_lisette
-      N'ayez point de chagrin ;
-J'en réponds corps pour corps, il est en bonne main.
-
-**** *book_ *id_IV06 *act_IV *date_1696
-
--*who_albert
-Vous voyez à quel point cette folie augmente.
-Votre homme ne vient point, et je m'impatiente.
-
--*who_eraste
-Je ne sais qui l'arrête : il devrait être ici.
-Mais je le vois qui vient ; n'ayez plus de souci.
-
-**** *book_ *id_IV07 *act_IV *date_1696
-
--*who_albert
-Eh ! Monsieur, venez donc. Avec impatience
-Tous deux nous attendons ici votre présence.
-
--*who_crispin
 Un savant philosophe a dit élégamment :
 « Dans tout ce que tu fais hâte-toi lentement.»
 J'ai depuis peu de temps pourtant bien fait des choses,
@@ -2331,26 +2046,11 @@ Hippocrate dit oui, mais Galien dit non ;
 Et, pour mettre d'accord ces deux messieurs ensemble,
 Je n'ai pas, pour venir, trop tardé, ce me semble.
 
--*who_albert
-Vous voyez donc, monsieur, d'où procède son mal ?
-
--*who_crispin
 Je le vois aussi net qu'à travers un cristal.
 
--*who_albert
-Tant mieux. Vous saurez que, depuis tantôt, la belle
-Sent toujours de son mal quelque crise nouvelle :
-En ces lieux écartés, n'ayant nuls médecins,
-Monsieur m'a conseillé de la mettre en vos mains.
-
--*who_crispin
 Sans doute elle serait beaucoup mieux dans les siennes ;
 Mais j'espère employer utilement mes peines.
 
--*who_albert
-Vous avez donc guéri de ces maux quelquefois ?
-
--*who_crispin
 Moi ? Si j'en ai guéri ? Ah ! Vraiment, je le crois.
 Il entre dans mon art quelque peu de magie.
 Avec trois mots, qu'un juif m'apprit en Arabie,
@@ -2365,196 +2065,42 @@ Atrabilaire, fou, même hypocondriaque,
 Pour avoir le plaisir de vous rendre demain
 Sage comme je suis, et de corps aussi sain.
 
--*who_albert
-Je vous suis obligé, monsieur, d'un si grand zèle.
-
--*who_crispin
 Sans perdre plus de temps, entrons chez cette belle.
 
--*who_albert
-Non, s'il vous plaît, monsieur, il n'en est pas besoin ;
-Et de vous l'amener je vais prendre le soin.
-
-**** *book_ *id_IV08 *act_IV *date_1696
-
--*who_eraste
-Tout va bien. La fortune à nos voeux s'intéresse.
-Agathe, en ton absence, avec un tour d'adresse,
-A su tirer d'Albert ces cent louis comptants.
-
--*who_crispin
 Comment donc ?
 
--*who_eraste
-      Tu sauras le tout avec le temps.
-Nous avons maintenant, sans chercher davantage,
-De quoi sauver Agathe et nous mettre en voyage.
-Pourvu qu'un seul moment nous puissions écarter
-Ce malheureux Albert, qui ne la peut quitter :
-Tant qu'il suivra ses pas, nous ne saurions rien faire.
-
--*who_crispin
 Reposez-vous sur moi ; je réponds de l'affaire.
 Vous avez de l'esprit, je ne suis pas un sot,
 Et la fausse malade entend à demi-mot.
 
--*who_eraste
-J'imagine un moyen des plus fous ; mais qu'importe !
-La pièce en vaudra mieux, plus elle sera forte.
-Il faut convaincre Albert qu'avec de certains mots,
-Ainsi que tu l'as dit déjà fort à propos,
-Tu pourrais la guérir de cette maladie,
-Si quelque autre voulait prendre la frénésie.
-Je m'offrirai d'abord à tout évènement.
-Laisse-moi faire après le reste seulement :
-Va, si de belle peur le vieillard ne trépasse,
-Il faudra, pour le moins, qu'il nous quitte la place.
-
--*who_crispin
 Mais comment voulez-vous qu'Agathe à ce dessein,
 Sans en avoir rien su, puisse prêter la main ?
 
--*who_eraste
-Je l'instruirai de tout, je t'en donne parole.
-Mais songe seulement à bien jouer ton rôle ;
-Et lorsque dans ces lieux Agathe reviendra,
-Amuse le vieillard du mieux qu'il se pourra,
-Pour me donner le temps d'expliquer le mystère,
-Et lui dire en deux mots ce qu'elle devra faire.
-Albert ne peut tarder. Mais je le vois qui sort.
-
-**** *book_ *id_IV09 *act_IV *date_1696
-
--*who_crispin
 Dieu conduise la barque, et la mette à bon port !
 
--*who_albert
-Ah ! Messieurs, sa folie à chaque instant augmente ;
-Un transport martial à présent la tourmente.
-De l'habit dont jadis elle courait le bal,
-Elle s'est mise en homme, à cet excès fatal.
-Elle a pris aussitôt un attirail de guerre,
-Un bonnet de dragon, un large cimeterre.
-Elle ne parle plus que de sang, de combats :
-Mon argent doit servir à lever des soldats ;
-Elle veut m'enrôler.
-
-**** *book_ *id_IV10 *act_IV *date_1696
-
--*who_agathe
-      Morbleu, vive la guerre !
-Je ne puis plus rester inutile sur terre.
-Mon équipage est prêt.
-      Ah ! Marquis, en ce lieu
-Je te trouve à propos, et viens te dire adieu.
-J'ai trouvé de l'argent pour faire ma campagne ;
-Et cette nuit enfin je pars pour l'Allemagne.
-
--*who_albert
-Ciel ! Quel égarement !
-
--*who_agathe
-      Parbleu ! Les officiers
-Sont malheureux d'avoir affaire aux usuriers :
-Pour tirer de leurs mains cent mauvaises pistoles,
-Il faut plus s'intriguer, et plus jouer de rôles !
-Celui qui m'a prêté son argent, je le tiens
-Pour le plus grand coquin, le plus juif, le plus chien
-Que l'on puisse trouver en affaires pareilles :
-Je voudrais que quelqu'un m'apportât ses oreilles.
-Enfin me voilà prêt d'aller servir le roi ;
-Il ne tiendra qu'à toi de partir avec moi.
-
--*who_eraste
-Partout où vous irez, je suis de la partie.
-Il faut, avec prudence, entrer dans sa manie.
-
--*who_agathe
-Je quitte avec plaisir l'étendard de l'amour.
-Je puis, sous ses drapeaux, aller loin quelque jour.
-J'ai mille qualités, de l'esprit, des manières ;
-Je sais l'art de réduire aisément les plus fières.
-Mais quoi ! Que voulez-vous ? Je ne suis point leur fait,
-Le beau sexe sur moi ne fit jamais d'effet.
-La gloire est mon penchant, cette gloire inhumaine
-À son char éclatant en esclave m'enchaîne.
-Ce pauvre sexe meurt et d'amour et d'ennui,
-Sans que je sois tenté de rien faire pour lui.
-Plus de délais : je cours où la gloire m'appelle.
-Amène mes chevaux. L'occasion est belle ;
-Partons, courons, volons.
-
--*who_crispin
       Je ne la quitte pas,
 Et suis prêt à la suivre au milieu des combats.
 
--*who_eraste
-J'examinais ses yeux. à ce qu'on peut comprendre,
-Quelque accès violent sans doute va la prendre,
-Lequel sera suivi d'un assoupissement :
-Ordonnez qu'on apporte un fauteuil vitement.
-
--*who_agathe
-Qu'il me tarde déjà d'être au champ de la gloire !
-D'aller aux ennemis arracher la victoire !
-Que de veuves en deuil ! Que d'amantes en pleurs !
-Enfants, suivez-moi tous ; ranimez vos ardeurs.
-Je vois dans vos regards briller votre courage.
-Que tout ressente ici l'horreur et le carnage.
-La baïonnette au bout du fusil. Ferme ; bon :
-Frappez. Serrez vos rangs ; percez cet escadron.
-Les coquins n'oseraient soutenir notre vue.
-Ah ! Marauds, vous fuyez ! Non, point de quartier ; tue.
-
--*who_crispin
 En peu de temps, voilà bien du sang répandu.
 
--*who_albert
-Sans espoir de retour elle a l'esprit perdu.
-
--*who_crispin
 Tout se prépare bien ; je la vois qui repose.
 Son mal, à mon avis, ne provient d'autre chose
 Que d'une humeur contrainte, un esprit irrité,
 Qui veut avec effort se mettre en liberté.
 Quelque démon d'amour a saisi son idée.
 
--*who_lisette
-Comment ! La pauvre fille est-elle possédée !
-
--*who_crispin
 Ce démon violent, dont il la faut sauver,
 Est bien fort, et pourrait dans peu nous l'enlever.
 Si j'avais un sujet, dans cette maladie,
 En qui je fisse entrer cet esprit de folie,
 Je vous répondrais bien...
 
--*who_albert
-      Lisette est un sujet
-Qui, sans aller plus loin, vous servira d'objet.
-
--*who_lisette
-Je vous baise les mains, et vous donne parole
-Que je n'en ferai rien : je ne suis que trop folle.
-
--*who_eraste
-Hâtez-vous donc. Son mal augmente à chaque instant.
-
--*who_crispin
 Malepeste ! Ceci n'est pas un jeu d'enfant.
 On ne saurait agir avec trop de prudence.
 Quand dans le corps d'un homme un démon prend séance,
 Je puis, sans me flatter, l'en tirer aisément ;
 Mais dans un corps femelle, il tient bien autrement.
 
--*who_eraste
-Pour savoir aujourd'hui jusqu'où va sa science,
-Je veux bien me livrer à son expérience.
-Je commence à douter de l'effet ; et je crois
-Qu'il s'est voulu moquer et de vous et de moi.
-Je veux l'embarrasser.
-
--*who_crispin
       Moi, je veux vous confondre,
 Et vous mettre en état de ne pouvoir répondre.
 Mettez-vous auprès d'elle. Eh ! Non ; comme cela,
@@ -2564,99 +2110,20 @@ Votre main dans la sienne étroitement serrée.
 Ne consentez-vous pas qu'il lui donne la main,
 Pour que l'attraction se fasse plus soudain ?
 
--*who_albert
-Oui, je consens à tout.
-
--*who_crispin
       Tant mieux. Sans plus attendre,
 Vous verrez un effet qui pourra vous surprendre.
 
--*who_agathe
-Ciel ! Quel nuage épais se dissipe à mes yeux !
-
--*who_eraste
-Quelle sombre vapeur vient obscurcir ces lieux !
-
--*who_agathe
-Quel calme en mon esprit vient succéder au trouble !
-
--*who_eraste
-Quel tumulte confus dans mes sens se redouble !
-Quels abîmes profonds s'entr'ouvrent sous mes pas !
-Quel dragon me poursuit ! Ah ! Traître, tu mourras :
-D'un monstre tel que toi je veux purger le monde.
-
--*who_crispin
 Ah ! Monsieur, évitez sa rage furibonde.
 Sauvez-vous, sauvez-vous.
 
--*who_eraste
-      Laissez-moi de son flanc
-Tirer des flots mêlés de poison et de sang.
-
--*who_crispin
 Aux accès violents dont son coeur se transporte,
 Je vois que j'ai donné la dose un peu trop forte.
 
--*who_eraste
-Je le veux immoler à ma juste fureur.
-
--*who_crispin
 N'auriez-vous point chez vous quelque forte liqueur,
 De bon esprit de vin, des gouttes d'Angleterre,
 Pour calmer cet esprit et ces vapeurs de guerre ?
 Il s'en va m'échapper.
 
--*who_albert
-      Oui, j'ai ce qu'il lui faut.
-Lisette, tiens ma clef ; va, cours vite là-haut ;
-Prends la fiole où...
-
--*who_lisette
-      Je crains en ce désordre extrême,
-De faire un quiproquo ; vous feriez mieux vous-même.
-
--*who_crispin
 Courez donc au plus tôt. Laisserez-vous périr
 Un homme qui, pour vous, s'est offert à mourir ?
 
--*who_lisette
-Allez vite ; allez donc.
-
--*who_albert
-      Je reviens tout-à-l'heure.
-
-**** *book_ *id_IV11 *act_IV *date_1696
-
--*who_eraste
-Ne perdons point de temps, quittons cette demeure.
-Ce bois nous favorise ; Albert ne saura pas
-De quel côté l'amour aura tourné nos pas.
-
--*who_agathe
-Je mets entre vos mains et mon sort et ma vie.
-
--*who_lisette
-Vive, vive Crispin ! Et vivat la folie !
-Allons courir les champs, pour remplir notre sort,
-Et le laissons tout seul exhaler son transport.
-
-**** *book_ *id_IV12 *act_IV *date_1696
-
--*who_albert
-J'apporte un élixir d'une force étonnante...
-Mais je ne vois plus rien. Quel soupçon m'épouvante ?
-Lisette ! Agathe ! Ô ciel ! Tout est sourd à mes cris.
-Que sont-ils devenus ? Quel chemin ont-ils pris ?
-Au voleur ! À la force ! Au secours ! Je succombe.
-Où marcher ? Où courir ? Je chancelle ; je tombe.
-Par leur feinte folie ils m'ont enfin séduit ;
-Et moi seul en ce jour j'avAis perdu l'esprit.
-Voilà de mon amour la suite ridicule.
-Ah ! Maudite bouteille, et vieillard trop crédule !
-Allons, suivons leurs pas ; ne nous arrêtons plus.
-Traîtres de ravisseurs, vous serez tous pendus.
-Et toi, sexe trompeur, plus à craindre sur terre
-Que le feu, que la faim, que la peste et la guerre,
-De tous les gens de bien tu dois être maudit ;
-Je te rends pour jamais au diable qui te fit.

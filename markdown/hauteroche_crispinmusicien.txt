@@ -1,6 +1,6 @@
 ---
 identifier: hauteroche_crispinmusicien  
-creator: Hauteroche, Noël Lebreton  
+creator: Hauteroche, Noël Lebreton ; Georges Forestier.  
 date: 1674  
 title: Crispin musicien. Comédie  
 ---

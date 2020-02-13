@@ -1,15 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1744
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
--*who_apollon
 Naissez divins esprits, naissez fameux héros ;
 Brillez par les beaux arts, brillez par la victoire ;
 Méritez d'être admis au temple de Mémoire :
 Nous réservons à votre gloire
 Un prix digne de vos travaux.
 
--*who_apollon
 Muses, filles du Ciel, que votre gloire est pure !
 Que vos plaisirs sont doux !
 Les plus beaux dons de la nature
@@ -19,31 +17,25 @@ Des innocents plaisirs vous goûtez les douceurs.
 La fière ambition, l'amour ni ses faux charmes
 Ne troublent point vos cours.
 
--*who_lesmuses
-Non, non, l'amour ni ses faux charmes
-Ne troublent jamais nos cours.
-
-**** *book_ *id_I02 *act_I *date_1744
-
--*who_apollon
 Que vois-je ? Ô ciel ! Dois-je le croire !
 L'Amour dans le char de la Gloire !
 
--*who_lagloire
-Quelle triste erreur vous séduit !
-Voyez ce dieu charmant, soutien de mon empire,
-Par lui l'amant triomphe et le guerrier soupire ;
-Il forme les héros et sa voix les conduit.
-Il faut lui céder la victoire
-Quand on veut briller à ma Cour :
-Rien n'est plus chéri de la gloire
-Qu'un grand cour guidé par l'amour.
-
--*who_apollon
 Quoi ! Mes divins lauriers d'un enfant téméraire
 Ceindraient le front audacieux ?
 
--*who_lamour
+Ciel ! Quel objet charmant se retrace à mon âme !
+Quelle soudaine flamme
+Il inspire à mes sens !
+C'est ton pouvoir, Amour, que je ressens :
+Du moins à mes soupirs naissants
+Daigne rendre Daphné sensible.
+
+Quoi ! Toujours soupirer sans pouvoir la fléchir ?
+Cruel ! Que ma peine est terrible !
+
+
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
 Tu méprises l'Amour, éprouve sa colère.
 Aux pieds d'une beauté sévère
 Va former d'inutiles voux.
@@ -52,47 +44,15 @@ Que de moi seul dépend le don de plaire ;
 Que les talents, l'esprit, l'ardeur sincère,
 Ne sont point les amants heureux.
 
--*who_apollon
-Ciel ! Quel objet charmant se retrace à mon âme !
-Quelle soudaine flamme
-Il inspire à mes sens !
-C'est ton pouvoir, Amour, que je ressens :
-Du moins à mes soupirs naissants
-Daigne rendre Daphné sensible.
-
--*who_lamour
 Je te rendrais heureux ; je prétends te punir.
 
--*who_apollon
-Quoi ! Toujours soupirer sans pouvoir la fléchir ?
-Cruel ! Que ma peine est terrible !
-
--*who_lamour
 C'est la vengeance de l'Amour.
 
--*who_lesmuses
-Fuyons un tyran perfide,
-Craignons à notre tour.
-
--*who_lagloire
-Pourquoi cet effroi timide ?
-Apollon régnait parmi vous,
-Souffrez que l'Amour y préside
-Sous des auspices plus doux.
-
--*who_lamour
 Ah ! qu'il est doux, qu'il est charmant de plaire !
 C'est l'art le plus nécessaire.
 Ah ! qu'il est doux, qu'il est flatteur
 De savoir parler au cour.
 
--*who_lesmuses
-Ah ! qu'il est doux, qu'il est charmant de plaire !
-C'est l'art le plus nécessaire.
-Ah ! qu'il est doux, qu'il est flatteur
-De savoir parler au cour.
-
--*who_lamour
 Accourez jeux et ris, doux séducteurs des belles ;
 Vous par qui tout cède à l'Amour,
 Confirmez mon triomphe, et parez ce séjour
@@ -100,31 +60,6 @@ De myrtes et de fleurs nouvelles ;
 Grâces plus brillantes qu'elles,
 Venez embellir ma Cour.
 
-**** *book_ *id_I03 *act_I *date_1744
-
--*who_lechoeur
-Accourons, accourons dans ce nouveau séjour,
-Soupirez beautés rebelles,
-Par nous tort cède à l'Amour.
-
--*who_lagloire
-Les vents, les affreux orages,
-Font par d'horribles ravages,
-La terreur des matelots :
-Amour, quand ta voix le guide,
-On voit l'Alcyon timide
-Braver la fureur des flots.
-Tes divines flammes
-Des plus faibles âmes
-Peuvent faire des héros.
-
--*who_lechoeur
-Gloire, Amour, sur les cours partagez la victoire
-Que le myrte au laurier soit uni dès ce jour !
-Que les soins rendus à la gloire
-Soient toujours payés par l'Amour !
-
--*who_lamour
 Quittez, Muses, quittez ce désert trop stérile,
 Venez de vos appas enchanter l'univers ;
 Après avoir orné mille climats divers,
@@ -135,71 +70,23 @@ Un règne glorieux vous y sera trouver
 Des amants dignes de vous plaire,
 Et des héros à célébrer.
 
-**** *book_ *id_II01 *act_II *date_1744
 
--*who_doris
-L'amour va vous offrir la plus charmante fête,
-Déjà pour disputer chaque berger s'apprête :
-Le don de votre main au vainqueur est promis.
-Qu'Hésiode est à plaindre ! Hélas ! Il vous adore.
-Mais les jeux d'Apollon sont des arts qu'il ignore,
-De ses tendres soupirs il va perdre le prix.
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
 
--*who_egle
 Doris, j'aime Hésita, et plus que l'on ne pense
 Je m'occupe de son bonheur :
 Mais c'est en éprouvant ses feux et sa constance
 Que j'ai dû m'assurer qu'il méritait mon cour.
 
--*who_doris
-À vos engagements pourrez-vous vous soustraire ?
-
--*who_egle
 Je ne sais point, Doris, manquer de foi.
 
--*who_doris
-Comment avec vos feux accorder votre loi ?
-
--*who_egle
 Tu verras dès ce jour tout ce qu'Eglé peut faire.
 
--*who_doris
-Eglé dans nos hameaux, inconnue, étrangère,
-Jouit sur tous les cours d'un pouvoir mérité ;
-Rien ne lui doit être impossible,
-Avec le secours invincible
-De l'esprit et de la beauté.
-
--*who_egle
 J'aperçois Hésiode.
 
--*who_doris
-      Accablé de tristesse,
-Il plaint le malheur de ses feux.
-
--*who_egle
 Je saurai dissiper la douleur qui le presse :
 Mais pour quelques instants cachons-nous à ses yeux.
 
-**** *book_ *id_II02 *act_II *date_1744
-
--*who_hesiode
-Eglé méprise ma tendresse,
-Séduite par les chants de mes heureux rivaux ;
-Son cour en est le prix, et seul dans ces hameaux
-J'ignore les secrets de l'art qu'elle couronne ;
-Eglé le fait et m'abandonne !
-Je vais la perdre sans retour.
-À de frivoles chants se peut-il qu'elle donne
-Un prix qui n'était dû qu'au plus parfait amour ?
-Quelle douce harmonie ici se fait entendre...
-Elle invite au repos... Je ne puis m'en défendre...
-Mes yeux appesantis laissent tarir leurs pleurs...
-Dans le sein du sommeil je cède à ses douceurs.
-
-**** *book_ *id_II03 *act_II *date_1744
-
--*who_egle
 Commencez le bonheur de ce berger fidèle
 Songes ; en ce séjour Euterpe vous appelle
 Accourez à ma voix, parlez à mon amant,
@@ -207,21 +94,6 @@ Par vos images séduisantes,
 Par vos illusions charmantes,
 Annoncez-lui le destin qui l'attend.
 
--*who_unsonge
-Songes flatteurs
-Quand d'un cour misérable
-Vos soins apaisent les douleurs,
-Douces erreurs,
-Du sort impitoyable
-Suspendez longtemps les rigueurs ;
-Réveil, éloignez-vous :
-Ah ! Que le sommeil est doux !
-Mais quand un songe favorable
-Présage un bonheur véritable,
-Sommeil, éloignez-vous :
-Ah ! Que le réveil est doux !
-
--*who_egle
 Toi pour qui j'ai quitté mes soeurs et le Parnasse,
 Toi que le ciel a fait digne de mon amour,
 Tendre berger, d'une feinte disgrâce
@@ -235,110 +107,29 @@ Daigne animer mes dons de ta divine flamme :
 Nous pouvons du génie exciter les efforts ;
 Mais les succès heureux sont dûs à tes transports.
 
-**** *book_ *id_II04 *act_II *date_1744
 
--*who_hesiode
-Où suis-je ? Quel réveil ? Quel nouveau feu m'inspire ?
-Quel nouveau jour me luit ? Tous mes sens sont surpris !...
-Mais quel prodige étonne mes esprits ?
-Dieux ! Quels sons éclatants partent de cette lyre !
-D'un transport inconnu j'éprouve le délire !
-Je forme sans effort des chants harmonieux !
-Ô Lyre ! Ô cher présent des Dieux !
-Déjà par ton secours je parle leur langage.
-Le plus puissant de tous excite mon courage,
-Je reconnais l'amour à des transports si beaux,
-Et je vais triompher de mes jaloux rivaux.
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
 
-**** *book_ *id_II05 *act_II *date_1744
+L'amour va vous offrir la plus charmante fête,
+Déjà pour disputer chaque berger s'apprête :
+Le don de votre main au vainqueur est promis.
+Qu'Hésiode est à plaindre ! Hélas ! Il vous adore.
+Mais les jeux d'Apollon sont des arts qu'il ignore,
+De ses tendres soupirs il va perdre le prix.
 
--*who_lechoeur
-Que tout retentisse,
-Que tout applaudisse
-À nos chants divers !
-Que l'écho s'unisse,
-Qu'Eglé s'attendrisse
-À nos doux concerts !
-Doux espoir de plaire,
-Animez nos jeux,
-Apollon va faire
-Un amant heureux :
-Flatteuse victoire !
-Triomphe enchanteur !
-L'amour et la gloire
-Suivront le vainqueur.
+À vos engagements pourrez-vous vous soustraire ?
 
--*who_lechoeur
-Ô Berger, déposez cette Lyre inutile
-Voulez-vous dans nos jeux disputer en ce jour.
+Comment avec vos feux accorder votre loi ?
 
--*who_hesiode
-Rien n'est impossible à l'amour.
-Je n'ai point fait de l'art une étude servile,
-Et ma voix indocile,
-Ne s'est jamais unie aux chalumeaux.
-Mais dans le succès que j'espère,
-J'attends tout du feu qui m'éclaire
-Et rien de mes faibles travaux.
+Eglé dans nos hameaux, inconnue, étrangère,
+Jouit sur tous les cours d'un pouvoir mérité ;
+Rien ne lui doit être impossible,
+Avec le secours invincible
+De l'esprit et de la beauté.
 
--*who_lechoeur
-Chantez, berger téméraire ;
-Nous allons admirer vos prodiges nouveaux.
+      Accablé de tristesse,
+Il plaint le malheur de ses feux.
 
--*who_hesiode
-Beau feu qui consumez mon âme,
-Inspirez à mes chants votre divine ardeur :
-Portez dans mon esprit cette brillante flamme,
-Dont vous brûlez mon cour...
-
--*who_lechoeur
-Sa lyre efface nos Musettes.
-Ah ! nous sommes vaincus !
-Fuyons dans nos retraites.
-
-**** *book_ *id_II06 *act_II *date_1744
-
--*who_hesiode
-Belle Eglé... Mais, ô ciel ! Quels charmes inconnus !...
-Vous êtes immortelle, et j'ai pu m'y méprendre !
-Vos célestes appas n'ont-ils pas dû m'apprendre,
-Qu'il n'est permis qu'aux Dieux de soupirer pour vous ?
-Hélas ! À chaque instant sans pouvoir m'en défendre,
-Mon trop coupable cour accroît votre courroux.
-
--*who_euterpe
-Ta crainte offense ma gloire.
-Tu mérites le prix qu'ont promis mes serments ;
-Je le dois à la victoire,
-Et le donne à tes sentiments.
-
--*who_hesiode
-Quoi vous seriez ?.... Ô ciel est-il possible ?
-Muse, vos dons divins ont prévenu mes voux,
-Dois-je espérer encor que votre âme sensible
-Daigne aimer un berger et partager mes feux ?
-
--*who_euterpe
-La vertu des mortels fait leur rang chez les Dieux.
-Une âme pure, un cour tendre et sincère,
-Sont les biens les plus précieux;
-Et quand on fait aimer le mieux,
-On est le plus digne de plaire.
-Calmez votre dépit jaloux, :
-Bergers rassemblez-vous :
-Venez former les plus riantes fêtes,
-Je me plais dans vos bois, je chéris vos Musettes,
-Reconnaissez Euterpe et célébrez ses feux.
-
-**** *book_ *id_II07 *act_II *date_1744
-
--*who_lechoeur
-Muse charmante, Muse aimable,
-Qui daignez parmi nous fixer vos tendres voux ;
-Soyez-nous toujours favorable,
-Présidez toujours à nos jeux.
-
--*who_doris
 Dieux qui gouvernez la terre,
 Tout répond à votre voix.
 Dieux qui lancez le tonnerre,
@@ -351,9 +142,62 @@ Unis d'un amour sincère,
 Un berger, une bergère,
 Sont-il moins heureux que vous ?
 
-**** *book_ *id_III01 *act_III *date_1744
 
--*who_ovide
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hesiode
+
+Eglé méprise ma tendresse,
+Séduite par les chants de mes heureux rivaux ;
+Son cour en est le prix, et seul dans ces hameaux
+J'ignore les secrets de l'art qu'elle couronne ;
+Eglé le fait et m'abandonne !
+Je vais la perdre sans retour.
+À de frivoles chants se peut-il qu'elle donne
+Un prix qui n'était dû qu'au plus parfait amour ?
+Quelle douce harmonie ici se fait entendre...
+Elle invite au repos... Je ne puis m'en défendre...
+Mes yeux appesantis laissent tarir leurs pleurs...
+Dans le sein du sommeil je cède à ses douceurs.
+
+Où suis-je ? Quel réveil ? Quel nouveau feu m'inspire ?
+Quel nouveau jour me luit ? Tous mes sens sont surpris !...
+Mais quel prodige étonne mes esprits ?
+Dieux ! Quels sons éclatants partent de cette lyre !
+D'un transport inconnu j'éprouve le délire !
+Je forme sans effort des chants harmonieux !
+Ô Lyre ! Ô cher présent des Dieux !
+Déjà par ton secours je parle leur langage.
+Le plus puissant de tous excite mon courage,
+Je reconnais l'amour à des transports si beaux,
+Et je vais triompher de mes jaloux rivaux.
+
+Rien n'est impossible à l'amour.
+Je n'ai point fait de l'art une étude servile,
+Et ma voix indocile,
+Ne s'est jamais unie aux chalumeaux.
+Mais dans le succès que j'espère,
+J'attends tout du feu qui m'éclaire
+Et rien de mes faibles travaux.
+
+Beau feu qui consumez mon âme,
+Inspirez à mes chants votre divine ardeur :
+Portez dans mon esprit cette brillante flamme,
+Dont vous brûlez mon cour...
+
+Belle Eglé... Mais, ô ciel ! Quels charmes inconnus !...
+Vous êtes immortelle, et j'ai pu m'y méprendre !
+Vos célestes appas n'ont-ils pas dû m'apprendre,
+Qu'il n'est permis qu'aux Dieux de soupirer pour vous ?
+Hélas ! À chaque instant sans pouvoir m'en défendre,
+Mon trop coupable cour accroît votre courroux.
+
+Quoi vous seriez ?.... Ô ciel est-il possible ?
+Muse, vos dons divins ont prévenu mes voux,
+Dois-je espérer encor que votre âme sensible
+Daigne aimer un berger et partager mes feux ?
+
+
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
+
 Cruel amour, funeste flamme !
 Faut-il encor t'abandonner mon âme ?
 Cruel amour, funeste flamme,
@@ -374,9 +218,59 @@ Je m'éloigne à regret : mais bientôt sur mes pas
 Tout va lui parler le langage
 Du Dieu charmant qu'elle ne connaît pas.
 
-**** *book_ *id_III02 *act_III *date_1744
+De ses plus doux secrets, discret dépositaire,
+À vous seule en ces lieux je dois les révéler.
 
--*who_erithie
+C'est un aimable mystère
+Qui de ses biens charmants assaisonne le prix :
+Plus on les a sentis,
+Et mieux on les fait taire.
+
+Vous l'ignorez ? N'en accusez que vous,
+Déjà dans mes regards vous auriez dû le lire.
+
+Trouble charmant, que mon âme partage,
+Vous êtes le premier hommage
+Que l'aimable Érithie ait offert à l'Amour.
+
+L'Amour est ce Dieu favorable
+Que mon cour enflammé vous annonce en ce jour ;
+Profitons des bienfaits que sa main nous prépare :
+Unis par ses liens...
+
+      Non, charmante Érithie,
+Les peuples même de Scythie
+Sont soumis au vainqueur dont nous suivons les lois :
+Il faut les attendrir, il faut unir nos voix.
+Est-il des cours que notre amour ne touche,
+S'il s'explique à la fois
+Par vos larmes et par ma bouche.
+Mais on approche... On vient... Amour, si pour ta gloire
+Dans un exil affreux il faut passer mes jours,
+De mon encens du moins conserve la mémoire,
+À mes tendres accents accorde ton secours.
+
+      Ah ! Daignez m'écouter.
+De deux tendres amants différez le supplice :
+Ou, si vous achevez ce cruel sacrifice,
+Voyez les pleurs que vous m'allez coûter.
+
+Vous comblez mon bonheur, Peuple trop généreux.
+Quel prix de ce bienfait sera la récompense ?
+Puissiez-vous par mes soins, par ma reconnaissance
+Apprendre à devenir heureux,
+L'amour vous appelle
+Écoutez sa voix;
+Que tout soit fidèle
+À ses douces lois.
+Des biens dont l'usage
+Fait le vrai bonheur,
+Le plus doux partage
+Est un tendre cour.
+
+
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erithie
+
 C'en est donc fait ; et dans quelques moments
 Diane à ses autels recevra mes serments.
 Jardins chéris, riants bocages ;
@@ -391,23 +285,6 @@ Son bonheur et sa liberté !
 Mais, quels concerts se sont entendre ?
 Quel spectacle enchanteur ici vient me surprendre ?
 
-**** *book_ *id_III03 *act_III *date_1744
-
--*who_lechoeur
-Dieu charmant, Dieu des tendres cours ;
-Règne à jamais, lance tes flammes.
-Eh ! Quel bien flatterait nos âmes
-S'il n'était de tendres ardeurs ?
-Chantons, ne cessons point de célébrer ses charmes;
-Qu'il occupe tous nos moments ;
-Ce Dieu ne se sert de ses armes
-Que pour faire d'heureux amants.
-Les soins, les pleurs et les soupirs,
-Sont les tributs de son empire ;
-Mais tous les biens qu'il en retire,
-Il nous les rend par les plaisirs.
-
--*who_erithie
 Quels doux concerts ! Quelle fête agréable !
 Que je trouve charmant ce langage nouveau !
 Quel est donc ce dieu favorable ?
@@ -415,236 +292,56 @@ Hélas ! C'est un enfant ; mais quel enfant aimable !
 Pourquoi cet arc et ce bandeau,
 Ce carquois, ces traits, ce flambeau ?
 
--*who_homme
-Ce faible enfant est le maître du monde ;
-La nature s'anime à sa flamme seconde,
-Et l'univers sans lui périrait avec nous.
-Reconnaissez, belle Érithie,
-Un Dieu fait pour régner sur vous ;
-Il veut de votre aimable vie
-Vous rendre les instants plus doux.
-Étendez les droits légitimes
-Du plus puissant des Immortels;
-Tous les cours seront ses victimes
-Quand vous servirez ses autels.
-
--*who_erithie
 Ces aimables leçons ont trop l'art de me plaire ;
 Mais quel est donc ce Dieu dont on veut me parler?
 
--*who_ovide
-De ses plus doux secrets, discret dépositaire,
-À vous seule en ces lieux je dois les révéler.
-
-**** *book_ *id_III04 *act_III *date_1744
-
--*who_ovide
-C'est un aimable mystère
-Qui de ses biens charmants assaisonne le prix :
-Plus on les a sentis,
-Et mieux on les fait taire.
-
--*who_erithie
 J'ignore encor quels sont des biens si doux,
 Mais je brûle de m'en instruire.
 
--*who_ovide
-Vous l'ignorez ? N'en accusez que vous,
-Déjà dans mes regards vous auriez dû le lire.
-
--*who_erithie
 Vos regards !... Dans ses yeux quel poison séducteur !
 Dieux ! Quel trouble confus s'élève dans mon cour !
 
--*who_ovide
-Trouble charmant, que mon âme partage,
-Vous êtes le premier hommage
-Que l'aimable Érithie ait offert à l'Amour.
-
--*who_erithie
 L'Amour est donc ce Dieu si redoutable ?
 
--*who_ovide
-L'Amour est ce Dieu favorable
-Que mon cour enflammé vous annonce en ce jour ;
-Profitons des bienfaits que sa main nous prépare :
-Unis par ses liens...
-
--*who_erithie
       Hélas ! On nous sépare !
 Du temple de Diane on me commet le soin ;
 Tout le peuple d'Ithome en veut être témoin,
 Et je dois dès ce jour...
 
--*who_ovide
-      Non, charmante Érithie,
-Les peuples même de Scythie
-Sont soumis au vainqueur dont nous suivons les lois :
-Il faut les attendrir, il faut unir nos voix.
-Est-il des cours que notre amour ne touche,
-S'il s'explique à la fois
-Par vos larmes et par ma bouche.
-Mais on approche... On vient... Amour, si pour ta gloire
-Dans un exil affreux il faut passer mes jours,
-De mon encens du moins conserve la mémoire,
-À mes tendres accents accorde ton secours.
 
-**** *book_ *id_III05 *act_III *date_1744
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anacreon
 
--*who_lechoeur
-Célébrons la gloire éclatante
-De la Déesse des forêts :
-Sans soins, sans peine et sans attente
-Nous subsistons par ses bienfaits,
-Célébrons la beauté charmante
-Qui va la servir désormais :
-Que sa main longtemps lui présente
-Les offrandes de ses sujets.
-
--*who_chefdessarmates
-Venez belle Érithie...
-
--*who_ovide
-      Ah ! Daignez m'écouter.
-De deux tendres amants différez le supplice :
-Ou, si vous achevez ce cruel sacrifice,
-Voyez les pleurs que vous m'allez coûter.
-
--*who_lechoeur
-Non, elle est promise à Diane :
-Nos engagements sont des lois ;
-Qui pourrait être assez profane
-Pour priver les Dieux de leurs droits ?
-
--*who_ovide_erithie
-De plus puissant des Dieux nos cours sont le partage,
-Notre amour est son ouvrage :
-Est-il des droits plus sacrés ?
-Par une injuste violence
-Les Dieux ne sont point honorés.
-Ah ! Si votre indifférence
-Méprise nos douleurs,
-À ce Dieu qui nous assemble
-Nous jurons de mourir ensemble
-Pour ne plus séparer nos cours.
-
--*who_lechoeur
-Quel sentiment secret vient attendrir nos âmes
-Pour ces amants infortunés ?
-Par l'amour l'un à l'autre ils étaient destinés,
-Que l'amour couronne leurs flammes !
-
--*who_ovide
-Vous comblez mon bonheur, Peuple trop généreux.
-Quel prix de ce bienfait sera la récompense ?
-Puissiez-vous par mes soins, par ma reconnaissance
-Apprendre à devenir heureux,
-L'amour vous appelle
-Écoutez sa voix;
-Que tout soit fidèle
-À ses douces lois.
-Des biens dont l'usage
-Fait le vrai bonheur,
-Le plus doux partage
-Est un tendre cour.
-
-**** *book_ *id_IV01 *act_IV *date_1744
-
--*who_anacreon
 LeS beautés de Samos aux pieds de la Déesse
 Par votre ordre aujourd'hui vont présenter leurs voux ;
 Mais, Seigneur, si j'en crois le soupçon qui me presse
 Sous ce zèle mystérieux
 Un soin plus doux vous intéresse.
 
--*who_polycrate
-On ne peut sur la tendresse
-Tromper les yeux d'Anacréon.
-Oui, le plus doux penchant m'entraîne.
-Mais j'ignore à la fois le séjour et le nom
-De l'objet qui m'enchaîne.
-
--*who_anacreon
 Je conçois le détour ;
 Parmi tant de beautés vous espérez connaître
 Celle dont les attraits ont fixé votre amour ;
 Mais cet amour enfin...
 
--*who_polycrate
-      Un instant le fit naître :
-Ce fut dans ces superbes jeux
-O% mes heureux succès célébrés par ta lyre...
-
--*who_anacreon
 Ce jour, il m'en souvient, je devins amoureux
 De la jeune Thémire.
 
--*who_polycrate
-Eh ! Quoi ? Toujours de nouveaux feux ?
-
--*who_anacreon
 À de beaux yeux aisément mon cour cède :
 Il change de même aisément ;
 L'amour à l'amour y succède,
 Le goût seul du plaisir y règne constamment.
 
--*who_polycrate
-Bientôt une douce victoire
-T'a sans doute asservi son cour ?
-
--*who_anacreon
 Ce triomphe manque à ma gloire
 Et ce plaisir à mon bonheur.
 
--*who_polycrate
-Mais on vient... Que d'appas ! Ah ! Les cours les plus sages
-En voyant tant d'attraits doivent craindre des fers.
-
--*who_anacreon
 Junon, dans ce beau jour les plus tendres hommages
 Ne sont pas ceux qui te seront offert.
 
-**** *book_ *id_IV02 *act_IV *date_1744
-
--*who_troupedesammiennes
-Reine des Dieux, Mère de l'Univers ;
-Toi par qui tout respire,
-Qui combles cet empire
-De tes biens les plus chers,
-Junon, vois ces offrandes :
-Nos cours que tu demandes
-Vont te les présenter.
-Que mains bienfaisantes
-De nos mains innocentes
-Daignent les accepter.
-
--*who_polycrate
-Ô Bonheur !
-
--*who_anacreon
       Ô plaisir extrême !
 
--*who_polycrate
-Quels traits charmants ! Quels regards enchanteurs !
-
--*who_anacreon
 Ah ! Qu'avec grâce elle porte ces fleurs !
 
--*who_polycrate
-Ces fleurs ! Que dites-vous! C'est la beauté que j'aime.
-
--*who_anacreon
 C'est Thémire elle-même.
 
--*who_polycrate
-Ami trop cher : rival trop dangereux.
-Ah ! Que je crains tes redoutables feux !
-De mon cour agité fais cesser le martyre ;
-Porte à d'autres appas tes volages désirs.
-Laisse-moi goûter les plaisirs
-De te chérir toujours et d'adorer Thémire.
-
--*who_anacreon
 Si ma flamme était volontaire
 Je l'immolerais à l'instant :
 Mais l'amour dans mon cour n'en est pas moins sincère
@@ -654,17 +351,99 @@ Vous assurent les plus beaux jours,
 Mais que ferais-je de la vie,
 Sans les plaisirs, sans les amours ?
 
--*who_polycrate
-Eh ! Que te servira ta vaine résistance ?
-Ingrat, évite ma présence !
-
--*who_anacreon
 Vous calmerez cet injuste courroux,
 Il est trop peu digne de vous.
 
-**** *book_ *id_IV03 *act_IV *date_1744
+Belle Thémire, enfin le Roi vous rend les armes,
+L'aveu de tous les cours autorise le mien :
+Si l'amour animait vos charmes,
+Il ne leur manquerait plus rien.
 
--*who_polycrate
+Vous faites à ma flamme une cruelle offense ;
+Vous la faites surtout à ma sincérité.
+En amour même.
+Je dis la vérité,
+Et quand je n'aime plus, je ne dis plus que j'aime.
+
+Thémire jugez mieux de ma fidélité.
+Ah ! Qu'un amant a de folie
+D'aimer, de haïr tour-à-tour :
+Ce qu'il donne à la jalousie,
+Je le donne tout à l'amour.
+
+Si l'hiver dépare nos champs
+Est-ce à Flore de les défendre
+S'il est des maux pour les amants.
+Est-ce à l'amour qu'il faut s'en prendre ?
+Sans la neige et les orages,
+Sans les vents et leurs ravages,
+Les fleurs naîtraient en tous temps.
+Sans la froide indifférence,
+Sans la fière résistance,
+Tous les cours seraient contents.
+
+L'excès de mon ardeur est un plus digne hommage
+Que la fidélité des vulgaires amants ;
+Il vaut mieux aimer davantage,
+Et ne pas aimer si longtemps.
+
+Non, rien ne peut payer des transports si charmants.
+
+C'est en passant votre espérance
+Que je prétends vous tromper désormais.
+Vous attendrez mon inconstance,
+Et ne l'éprouverez jamais.
+
+Jeux, brillez sans cesse ;
+Sans vous la tendresse
+Languirait toujours.
+Au plus tendre hommage
+Un doux badinage
+Prête du secours.
+Quand pour plaire aux belles
+On voit autour d'elles
+Folâtrer l'Amour,
+Dans leur cour le traître
+Est bientôt le maître,
+Et rit a son tour.
+
+
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polycrate
+
+On ne peut sur la tendresse
+Tromper les yeux d'Anacréon.
+Oui, le plus doux penchant m'entraîne.
+Mais j'ignore à la fois le séjour et le nom
+De l'objet qui m'enchaîne.
+
+      Un instant le fit naître :
+Ce fut dans ces superbes jeux
+O% mes heureux succès célébrés par ta lyre...
+
+Eh ! Quoi ? Toujours de nouveaux feux ?
+
+Bientôt une douce victoire
+T'a sans doute asservi son cour ?
+
+Mais on vient... Que d'appas ! Ah ! Les cours les plus sages
+En voyant tant d'attraits doivent craindre des fers.
+
+Ô Bonheur !
+
+Quels traits charmants ! Quels regards enchanteurs !
+
+Ces fleurs ! Que dites-vous! C'est la beauté que j'aime.
+
+Ami trop cher : rival trop dangereux.
+Ah ! Que je crains tes redoutables feux !
+De mon cour agité fais cesser le martyre ;
+Porte à d'autres appas tes volages désirs.
+Laisse-moi goûter les plaisirs
+De te chérir toujours et d'adorer Thémire.
+
+Eh ! Que te servira ta vaine résistance ?
+Ingrat, évite ma présence !
+
 Transports jaloux, tourments que je déteste.
 A h! Faut-il me livrer à vos tristes fureurs ?
 Faut-il toujours qu'une rage funeste,
@@ -674,39 +453,54 @@ Désunit plus de cours,
 Qu'elle n'en met d'intelligence :
 Je vois Thémire. Ô transports enchanteurs !
 
-**** *book_ *id_IV04 *act_IV *date_1744
-
--*who_polycrate
 Thémire, en vous voyant la résistance est vaine,
 Tout cède à vos attraits vainqueurs.
 Heureux l'amant dont les tendres ardeurs
 Vous feront partager la chaîne
 Que vous avez sur tous les cours !
 
--*who_themire
-Je fuis les soupirs, les langueurs,
-Les soins, les tourments, les alarmes :
-Un plaisir qui coûte des pleurs
-Pour moi n'aura jamais de charmes.
-
--*who_polycrate
 C'est un tourment de n'aimer rien.
 C'est un tourment affreux d'aimer sans espérance
 Mais il est un suprême bien,
 C'est de s'aimer d'intelligence.
 
--*who_themire
-Non, je crains jusqu'aux nouds assortis par l'amour.
-
--*who_polycrate
 Ah ! Connaissez du moins les biens qu'il vous apprête
 Vous devez à Junon le reste de ce jour.
 Demain une illustre conquête
 Vous est promise en ce séjour.
 
-**** *book_ *id_IV05 *act_IV *date_1744
+Demeure Anacréon, je suspens mon courroux,
+Et veux bien un instant t'égaler à moi-même.
+Je n'abuserai point de mon pouvoir suprême ;
+Que Thémire décide et choisisse entre nous.
+Dites quels sont les nouds que votre âme préfère,
+N'hésitez point à les nommer :
+Je jure de confirmer
+Le choix que vous allez faire.
 
--*who_themire
+Il suffit. Je cède en ce moment ;
+Allez, soyez unis ; je puis être sensible ;
+Mais je n'oublierai point ma gloire et mon serment.
+
+Commence d'accomplir un si charmant présage ;
+Rentre dans ma faveur, ne quitte point ma cour,
+Que l'amitié du moins me dédommage
+Des disgrâces de l'amour.
+Que tout célèbre cette fête ;
+L'heureux Anacréon voit combler ses désirs.
+Accourez, chantez sa conquête
+Comme il a chanté vos plaisirs.
+
+
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_themire
+
+Je fuis les soupirs, les langueurs,
+Les soins, les tourments, les alarmes :
+Un plaisir qui coûte des pleurs
+Pour moi n'aura jamais de charmes.
+
+Non, je crains jusqu'aux nouds assortis par l'amour.
+
 Il me cachait son rang, je feignais à mon tour.
 Polycrate m'offre un hommage
 Qui comblerait l'ambition :
@@ -721,101 +515,27 @@ Je veux préserver mon cour ;
 L'amour m'amuserait comme un enfant aimable ;
 Je le crains comme un fier vainqueur.
 
-**** *book_ *id_IV06 *act_IV *date_1744
-
--*who_anacreon
-Belle Thémire, enfin le Roi vous rend les armes,
-L'aveu de tous les cours autorise le mien :
-Si l'amour animait vos charmes,
-Il ne leur manquerait plus rien.
-
--*who_themire
 Vous m'annoncez par cette indifférence
 Combien le choix vous paraîtrait égal.
 Qui voit sans peine un rival
 N'est pas loin de l'inconstance.
 
--*who_anacreon
-Vous faites à ma flamme une cruelle offense ;
-Vous la faites surtout à ma sincérité.
-En amour même.
-Je dis la vérité,
-Et quand je n'aime plus, je ne dis plus que j'aime.
-
--*who_themire
 Quand on sent une ardeur extrême,
 On a moins de tranquillité.
 
--*who_anacreon
-Thémire jugez mieux de ma fidélité.
-Ah ! Qu'un amant a de folie
-D'aimer, de haïr tour-à-tour :
-Ce qu'il donne à la jalousie,
-Je le donne tout à l'amour.
-
--*who_themire
 Je crains ce qu'il en coûte à devenir trop tendre ;
 Non, l'amour dans les cours cause trop de tourments.
 
--*who_anacreon
-Si l'hiver dépare nos champs
-Est-ce à Flore de les défendre
-S'il est des maux pour les amants.
-Est-ce à l'amour qu'il faut s'en prendre ?
-Sans la neige et les orages,
-Sans les vents et leurs ravages,
-Les fleurs naîtraient en tous temps.
-Sans la froide indifférence,
-Sans la fière résistance,
-Tous les cours seraient contents.
-
--*who_themire
 Vous vous piquez d'être volage,
 Si je forme des nouds, je veux qu'ils soient constants.
 
--*who_anacreon
-L'excès de mon ardeur est un plus digne hommage
-Que la fidélité des vulgaires amants ;
-Il vaut mieux aimer davantage,
-Et ne pas aimer si longtemps.
-
--*who_themire
 Non, rien ne peut fixer un amant si volage.
 
--*who_anacreon
-Non, rien ne peut payer des transports si charmants.
-
--*who_themire
 Vous séduisez plutôt que de convaincre :
 Je vois l'erreur et je me laisse vaincre.
 Ah ! Trompez-moi longtemps par ces tendes discours ;
 L'illusion qui plaît devrait durer toujours.
 
--*who_anacreon
-C'est en passant votre espérance
-Que je prétends vous tromper désormais.
-Vous attendrez mon inconstance,
-Et ne l'éprouverez jamais.
-
--*who_themire_anacreon
-Unis par les mêmes désirs,
-Unissons mon sort et le vôtre ;
-Toujours fidèles aux plaisirs,
-Nous devons l'être l'un à l'autre.
-
-**** *book_ *id_IV07 *act_IV *date_1744
-
--*who_polycrate
-Demeure Anacréon, je suspens mon courroux,
-Et veux bien un instant t'égaler à moi-même.
-Je n'abuserai point de mon pouvoir suprême ;
-Que Thémire décide et choisisse entre nous.
-Dites quels sont les nouds que votre âme préfère,
-N'hésitez point à les nommer :
-Je jure de confirmer
-Le choix que vous allez faire.
-
--*who_themire
 Je connais tout le prix du bonheur de vous plaire
 Si j'osais m'y livrer ; cependant en ce jour,
 Seigneur, vous pourriez croire
@@ -823,47 +543,3 @@ Que je donne tout à la gloire,
 Je veux tout donner à l'amour.
 Pardonnez à mon cour un penchant invincible.
 
--*who_polycrate
-Il suffit. Je cède en ce moment ;
-Allez, soyez unis ; je puis être sensible ;
-Mais je n'oublierai point ma gloire et mon serment.
-
--*who_themire_anacreon
-Digne exemple des rois, dont le cour équitable
-Triomphe de soi-même en couronnant nos feux,
-Puisse toujours le ciel prévenir tous vos voux :
-Que votre reine aimable,
-Par un bonheur constant à jamais mémorable,
-Éternise vos jours heureux.
-
--*who_polycrate
-Commence d'accomplir un si charmant présage ;
-Rentre dans ma faveur, ne quitte point ma cour,
-Que l'amitié du moins me dédommage
-Des disgrâces de l'amour.
-Que tout célèbre cette fête ;
-L'heureux Anacréon voit combler ses désirs.
-Accourez, chantez sa conquête
-Comme il a chanté vos plaisirs.
-
-**** *book_ *id_IV08 *act_IV *date_1744
-
--*who_lechoeur
-Que tout célèbre cette fête
-L'heureux Anacréon voit combler ses désirs ;
-Accourons, chantons sa conquête
-Comme il a chanté nos plaisirs.
-
--*who_anacreon
-Jeux, brillez sans cesse ;
-Sans vous la tendresse
-Languirait toujours.
-Au plus tendre hommage
-Un doux badinage
-Prête du secours.
-Quand pour plaire aux belles
-On voit autour d'elles
-Folâtrer l'Amour,
-Dans leur cour le traître
-Est bientôt le maître,
-Et rit a son tour.

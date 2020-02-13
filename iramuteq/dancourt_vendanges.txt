@@ -1,692 +1,73 @@
 
 
-**** *book_ *id_I01 *act_I *date_1694
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
--*who_margot
-Qu'est-ce donc que tu as, Claudine ?Tu es bien de mauvaise humeur, mon enfant.
+Oh çà, Margot, tu étais avec notre nièce. Morgué, dis donc ? Depuis queuques jours à qui en a-t-elle ? Elle enrageait d'être fille, elle n'avait pas tort ; elle avait la rage d'être mariée, on la marie, et elle enrage encore : il faut qu'elle soit bien enragée, cette créature-là.
 
--*who_claudine
-Tenez, ma tante, voulez-vous que je vous dise ma pensée ?
-Je ne suis pas contente de me marier.
-
--*who_margot
-Tu n'es pas contente ?
-Tu es donc folle !
-Et tu es la première à qui ça fasse peur.
-
--*who_claudine
-Je sis la première, si vous voulez : si mon oncle me voulait faire plaisir…
-
--*who_margot
-Hé bien ?
-
--*who_claudine
-Il romprait tout net ce mariage-là, ma tante.
-
--*who_margot
-Mais voirement, fille, tu perds l'esprit.
-On te baille un Collecteur, le coq du Village : il nous a rabattu vingt écus de taille pour t'avoir, et tu veux que je l'y manquions de parole.
-
--*who_claudine
-Oui, fort bien, ma tante, vous me donnez donc pour vingt écus !
-Je vous suis bien obligée !
-Oh, je vaux davantage, s'il vous plaît et quand mon oncle me devrait tuer, je ne serai jamais la femme du Collecteur.
-
--*who_margot
-Hé !
-De quoi t'avises-tu de dire ça si tard ?
-Tu le voulais bien il n'y a que deux jours, j'allîmes ensemble à Paris acheter les étoffes ; on s'est mis en dépenses.
-
--*who_claudine
-Hé bien, ma tante, vela justement ce que c'est, puisqu'il faut vous le dire, je n'avais jamais été à Paris ; vous m'y avez menée, je ne veux plus du Collecteur.
-
--*who_margot
-Le beau raisonnement !
-Elle ne veut plus du Collecteur, parce qu'on l'a menée à Paris : quelle cervelle !
-
--*who_claudine
-Oh, je l'ai fort bonne, et je ne prétends pas toute ma vie n'être q'une paysanne, moi.
-
--*who_margot
-Comment donc ?
-
--*who_claudine
-Je veux devenir Madame, afin que vous le sachiez.
-
--*who_margot
-Devenir Madame, miséricorde !
-Ah !
-Le vilain Paris, on dit bien vrai, que l'air de ce pays-là ne vaut rien pour les jolies filles de Village.
-
--*who_claudine
-Ma chère tante, laissez-moi devenir Madame, je vous prie.
-
--*who_margot
-Hé, comment feras-tu, malheureuse, pour te faire Madame ?
-
--*who_claudine
-N'êtes-vous point traîtresse !
-Je vous le dirai, ma tante ; mais, si vous jasez…
-
--*who_margot
-Je ne jaserai point, dis.
-
--*who_claudine
-Vous vous souvenez bien de cette grande boutique, dans cette grande rue où vous achetâtes du brocard pour me faire une jupe ?
-
--*who_margot
-Hé bien ?
-
--*who_claudine
-Hé bien, ma tante, il y avait un beau jeune Monsieur tout doré.
-
--*who_margot
-Celui qui nous regardit tant ?
-
--*who_claudine
-C'était moi qu'il regardait, ma tante, ce n'était pas vous ; et tenez, je suis sûre qu'il était plus aise de me voir, que toutes les Madames qu'il a jamais vues.
-
--*who_margot
-Mais, il ne nous disait mot, Claudine.
-
--*who_claudine
-C'est qu'il n'osait pas à cause de vous ; mais, il nous a fait suivre, et depuis ce matin, il est dans le Village.
-
--*who_margot
-Oh, mon enfant, je sommes perdues.
-
--*who_claudine
-Point, ma tante, il me veut faire Madame, je lui ai déjà parlé, c'est lui qui me l'a dit.
-
--*who_margot
-Il se moque de toi.
-
--*who_claudine
-Point, vous dis-je.
-Voici mon oncle, ne lui parlez de rien : quand il n'y sera plus, je vous dirai encore autre chose : mais, si vous êtes une causeuse, vous ne saurez plus rien.
-
-**** *book_ *id_I02 *act_I *date_1694
-
--*who_lucas
-Oh çà, Margot, tu étais avec notre nièce.
-Morgué, dis donc ?
-Depuis queuques jours à qui en a-t-elle ?
-Elle enrageait d'être fille, elle n'avait pas tort ; elle avait la rage d'être mariée, on la marie, et elle enrage encore : il faut qu'elle soit bien enragée, cette créature-là.
-
--*who_margot
-Tiens, Lucas, veux-tu franchement que je te dise la chose ?
-
--*who_lucas
 Pargué tu me feras plaisir, car je n'y entends goutte.
 
--*who_margot
-Mais ça te fâchera peut-être ?
-
--*who_lucas
 Bon, palsanguenne, est-ce que rien me fâche, dis.
 
--*who_margot
-Elle a peur d'être malheureuse en ménage.
-
--*who_lucas
 Hé pourquoi, malheureuse ?
 
--*who_margot
-Que fait-on ?
-Ce Collecteur est peut-être un ivrogne comme toi ; comprends-tu, Lucas ?
+N'est-ce que ça ? La vela bien malade !
 
--*who_lucas
-N'est-ce que ça ?
-La vela bien malade !
-
--*who_margot
-Assurément, est-ce que tu crois que je ne veux pas bien du mal à mon père et à me mère, de m'avoir mariée avec un homme qui ne fait que boire ?
-
--*who_lucas
 Oh, pour ça, Margot, vous êtes une ingrate ; car je remercie tous les jours notre Curé de m'avoir marié, moi.
 
--*who_margot
-Tu crois te moquer, mais…
-
--*who_lucas
 Je ne me moque point, vous êtes une fort jolie femme, Margot, mais vous n'êtes pas bonne.
 
--*who_margot
-Je ne sis pas bonne, que veux-tu dire ?
+Tu me fais toujours queuque pièce, et stanpendant ça ni fait rien, je t'aime assez comme ça ; je t'aimerais trop si tu étais milleure, et les maris qui aimont trop leurs femmes, ne s'en trouvont pas mieux le plus souvent. Tiens, Margot, ta mauvaise himeur me fait queuque fois plaisir, le diable m'emporte.
 
--*who_lucas
-Tu me fais toujours queuque pièce, et stanpendant ça ni fait rien, je t'aime assez comme ça ; je t'aimerais trop si tu étais milleure, et les maris qui aimont trop leurs femmes, ne s'en trouvont pas mieux le plus souvent.
-Tiens, Margot, ta mauvaise himeur me fait queuque fois plaisir, le diable m'emporte.
-
--*who_margot
-Ç'amon, voirement, tu te soucies bien de quelle humeur je sis, tu ne songes qu'au vin.
-
--*who_lucas
 Pargué, c'est mon métier de le faire venir, Margot, il faut bien que j'y songe, il est bien raisonnable que j'en boive.
 
--*who_margot
-Hé bien, mais que n'en bois-tu chez toi ?
-Tu es depuis le matin jusques au soir au cabaret.
-
--*who_lucas
 Oh, pour ça, Margot, ce n'est pas ma faute, c'est la tienne.
 
--*who_margot
-C'est la mienne ?
-
--*who_lucas
 Oui, tu n'aimes pas le monde, je connais trop de gens, et tu es fâchée que j'aie des amis, toi, Margot.
 
--*who_margot
-Vela de beaux contes, tu as des amis, mais tu paies toujours.
+C'est pour qu'ils m'aimiont davantage. Ils venont me chercher pour entretenir connaissance, moi, je paie pour entretenir l'amitié ; ça n'est-il pas juste ?
 
--*who_lucas
-C'est pour qu'ils m'aimiont davantage.
-Ils venont me chercher pour entretenir connaissance, moi, je paie pour entretenir l'amitié ; ça n'est-il pas juste ?
-
--*who_margot
-Fort bien, ne vas-tu pas t'enivrer encore aujourd'hui ?
-
--*who_lucas
 Acoute, Margot, je fons demain vendange, vela le vin nouveau, il faut vider le vieux, j'ons besoin de futailles.
 
--*who_margot
-Oui, fort bien, et le cousin Dubois s'enivrera à tes dépens pour entretenir connaissance.
+Chut, Margot, ne parle de lui qu'avec respect, c'est le docteur du pays, que le cousin Dubois. Tu me fais songer qu'il m'attend pour une petite affaire, je vais lui payer une pinte.
 
--*who_lucas
-Chut, Margot, ne parle de lui qu'avec respect, c'est le docteur du pays, que le cousin Dubois.
-Tu me fais songer qu'il m'attend pour une petite affaire, je vais lui payer une pinte.
-
--*who_margot
-Quoi ?
-
--*who_lucas
 Paix, Margot, ça me baillera de l'esprit, laisse faire.
 
--*who_margot
-Que veux-tu dire.
+Il n'y a rien qui baille de l'esprit comme d'abreuver des gens qui en avont, il y a tout plein de parsonnes riches qui s'en trouvont bien ; et quoiqu'ils ne disions de bons mots que par bricole, stanpendant, Margot, nan les admire. Mais que demandons ces gens-ci ; vela des garçons de bonne façon.
 
--*who_lucas
-Il n'y a rien qui baille de l'esprit comme d'abreuver des gens qui en avont, il y a tout plein de parsonnes riches qui s'en trouvont bien ; et quoiqu'ils ne disions de bons mots que par bricole, stanpendant, Margot, nan les admire.
-Mais que demandons ces gens-ci ; vela des garçons de bonne façon.
-
--*who_margot
-N'as-tu pas envie de les mener boire ?
-
-**** *book_ *id_I03 *act_I *date_1694
-
--*who_lolive
-À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.
-
--*who_lucas
 À votre service de bian bon cœur.
 
--*who_eraste
-C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.
-
--*who_lucas
 Ma réputation, Margot ?
 
--*who_margot
-Je crois, Dieu me pardonne, que c'est ce Monsieur de Paris qui veut faire Claudine Madame.
+Vous ne me sauriez faire plus de plaisir. Margot, que l'on tire du milleur, et qu'on en apporte à ces Messieurs.
 
--*who_lolive
-Il est vrai pour cela, que la réputation de Monsieur Lucas est extrêmement en réputation, et Monsieur Lucas a la réputation d'avoir toujours le meilleur vin de France, aussi je meurs d'envie d'en boire, ou le diable m'emporte.
+Palsangué vous ne pouviez mieux venir, je commencerons demain. Mais qui êtes-vous, s'il vous plaît ? Vous avez bonne mine, franchement, et je n'ons point de garçons dans le Village qui en approchions.
 
--*who_lucas
-Vous ne me sauriez faire plus de plaisir.
-Margot, que l'on tire du milleur, et qu'on en apporte à ces Messieurs.
+Oh bian pargué, je vous en aime mieux. Touchez donc là sans façons, frères ; je vous ai pris d'abord pour des apprentifs Conseillers, qui venont pendant les vacances faire les libartins dans les Villages.
 
--*who_margot
-La nièce Claudine n'est pas menteuse.
-Il ne faut rien dire.
-
-**** *book_ *id_I04 *act_I *date_1694
-
--*who_eraste
-Ce n'est pas la seule envie de goûter votre vin, qui nous fait vous rendre visite : nous venons voir comment vous faites, Monsieur Lucas, vous êtes dans le temps des vendanges ?
-
--*who_lucas
-Palsangué vous ne pouviez mieux venir, je commencerons demain.
-Mais qui êtes-vous, s'il vous plaît ?
-Vous avez bonne mine, franchement, et je n'ons point de garçons dans le Village qui en approchions.
-
--*who_eraste
-Quand nos habillements ne suffiraient pas à nous faire connaître, il serait difficile de cacher notre condition.
-Pour vous parler franchement, nous sommes nés comme vous l'un et l'autre en bonne et franche paysannerie.
-
--*who_lucas
-Oh bian pargué, je vous en aime mieux.
-Touchez donc là sans façons, frères ; je vous ai pris d'abord pour des apprentifs Conseillers, qui venont pendant les vacances faire les libartins dans les Villages.
-
--*who_eraste
-Nous ?
-Nous sommes de bons enfants qui ne cherchons qu'à nous réjouir.
-Nous aimons le bon vin préférablement à toutes choses : mais comme nous nous ferions un scrupule d'en boire, si nous n'aidions pas à le faire, c'est pour cela que nous venons vous offrir nos services.
-
--*who_lolive
-Nous avons la conscience fort délicate, et nous voulons gagner le vin que nous buvons, nous autres.
-
--*who_lucas
 Margué, je sis comme vous, je me baille de la peine pour le faire venir, mais j'en veux boire à proportion.
 
--*who_lolive
-Il n'y a rien de plus juste.
-
-**** *book_ *id_I05 *act_I *date_1694
-
--*who_lucas
 Oh bian donc, sans sarimonie, vela le lait dont je nous nourrissons : à votre santé.
 
--*who_lolive
-Grand merci.
+Hé bian, qu'en dites-vous ? Il est de notre cru.
 
--*who_lucas
-Hé bian, qu'en dites-vous ?
-Il est de notre cru.
+Oh, palsangué je vous bouterons à même. Mais combien voulez-vous gagner par jour, s'il vous plaît ? Queuque bonne mine que vous ayez, je ne veux pas bailler un sou davantage, je vous en avertis : la mine ne sert de rien en vendange ; et les parsonnes qui ont la meilleure façon, ne sont pas toujours ceux qui faisons le plus de besogne.
 
--*who_eraste
-Voilà d'excellent vin, Monsieur Lucas, et il n'y a qu'honneur et plaisir à travailler à vos vignes, à ce que je vois.
-
--*who_lucas
-Oh, palsangué je vous bouterons à même.
-Mais combien voulez-vous gagner par jour, s'il vous plaît ?
-Queuque bonne mine que vous ayez, je ne veux pas bailler un sou davantage, je vous en avertis : la mine ne sert de rien en vendange ; et les parsonnes qui ont la meilleure façon, ne sont pas toujours ceux qui faisons le plus de besogne.
-
--*who_eraste
-Nous ne sommes point intéressés, vous avez de bon vin, nous en boirons avec vous tant que dureront les vendanges, nous ne vous demandons point autre chose.
-
--*who_lucas
 Palsangué vous êtes de braves gens : touchez-là, c'est une chose faite.
 
--*who_lolive
-Mais nous gîterons aussi chez vous, Monsieur Lucas ?
+Je l'entends bien comme ça : la grange est grande, j'ons de la paille fraîche. Les nuits sont un tantinet froides : mais quand j'aurons bien bu, j'aurons la poitrine chaude, c'est le plus principal, n'est-ce pas ?
 
--*who_lucas
-Je l'entends bien comme ça : la grange est grande, j'ons de la paille fraîche.
-Les nuits sont un tantinet froides : mais quand j'aurons bien bu, j'aurons la poitrine chaude, c'est le plus principal, n'est-ce pas ?
+Oh ça, j'ai une petite affaire avec le cousin Dubois, je vais la terminer, et je reviens vous joindre. En attendant vela notre minagère qui a les clefs de la cave ; si le vin vous duit, ne l'épargnez pas, et tâchez de mettre Margot en train, ça me ferait bien rire.
 
--*who_eraste
-Assurément.
-
--*who_lucas
-Oh ça, j'ai une petite affaire avec le cousin Dubois, je vais la terminer, et je reviens vous joindre.
-En attendant vela notre minagère qui a les clefs de la cave ; si le vin vous duit, ne l'épargnez pas, et tâchez de mettre Margot en train, ça me ferait bien rire.
-
-**** *book_ *id_I06 *act_I *date_1694
-
--*who_lolive
-Si Madame Margot était d'humeur à se mettre en train, il y aurait presse à boire avec elle.
-
--*who_margot
-Pas tant que vous croyez, je n'avons pas le vin tendre.
-
--*who_eraste
-Monsieur Lucas est bienheureux d'être le mari d'une si aimable personne.
-
--*who_margot
-Oh voirement, vous le trouveriez bien plus heureux, s'il était le mari de notre nièce Claudine.
-
--*who_eraste
-L'Olive.
-
--*who_lolive
-On vous reconnaît, Monsieur.
-
--*who_margot
-L'autre jour dans cette grande boutique, vous ne me regardiez presque pas, et Claudine me l'a fort bien su dire.
-
--*who_eraste
-Oh pour cela, mon cœur et mes regards étaient également partagés entre l'une et l'autre, je vous assure.
-
--*who_margot
-Point, point, vous trouvîtes Claudine la plus gentille ; et franchement, vous avez raison.
-Oh je sis bien changée en ménage : si vous m'aviez vue quand j'étais fille, vous m'auriez pour le moins autant regardée que Claudine, oui.
-
--*who_lolive
-Par ma foi, fille ou femme, je vous trouve de fort belle regardure, moi, et si vous voulez, pendant que mon maître regardera Claudine… Car c'est là mon maître, afin que vous le sachiez, et je ne suis que le valet de chambre de ce paysan-là, au moins.
-
--*who_margot
-Oh vraiment, je vous ai bien reconnus tous deux, mais avec tout ça, il n'est pas si gentil avec sthabit-là, qu'avec sti qu'il avait l'autre jour, et je ne m'étonne pas si nos filles aimont mieux les Monsieux de Paris, que les garçons de Village ; stanpendant comme vous voyez, au pourpoint près, c'est bien la même chose.
-
--*who_lolive
-Assurément.
-
--*who_margot
-Écoutez, vous avez bien fait de ne point venir ici avec un habit de Monsieu, on en eût murmuré ; et quoique Lucas ne soit pas défiant, il ne vous eût jamais pris pour travailler à nos vaignes.
-
--*who_lolive
-Oh diable !
-S'il savait quelle espèce de Vendangeurs nous sommes, nous ne coucherions pas dans la grange, sur ma parole.
-
--*who_margot
-Je vous en réponds.
-
--*who_eraste
-Oh ça, ma chère Margot, puisque vous avez deviné la passion que j'ai pour votre nièce, je veux bien vous en faire confidence, sûr que vous ne refuserez pas de m'y rendre service.
-
--*who_margot
-Hé comment vous rendre service ?
-Quand on aime les parsonnes, c'est pour le mariage, ou pour autrement.
-Si c'est pour autrement que vous aimez Claudine, je fis votre servante, ça ne se peut pas : si c'est pour le mariage, il y a encore rien à faire.
-
--*who_eraste
-Il n'y a rien à faire pour le mariage ?
-Que voulez-vous dire ?
-
--*who_lolive
-Il faudra l'aimer pour autrement, ce sera votre pis aller, je vois bien cela.
-
--*who_eraste
-Expliquez-vous donc, Margot, je vous prie.
-
--*who_margot
-Est-ce que Claudine ne vous l'a pas dit ?
-
--*who_eraste
-Non vraiment.
-
--*who_margot
-Hé bien tenez, la vela, qu'elle vous le dise.
-
-**** *book_ *id_I07 *act_I *date_1694
-
--*who_eraste
-Vous voyez, aimable Claudine, un homme que votre tante met au désespoir.
-
--*who_claudine
-Qu'est-ce qu'il y a donc ?
-Est-ce qu'elle vous gronde ?
-A-t-elle dit quelque chose à mon oncle ?
-
--*who_eraste
-Elle me veut persuader, Claudine, que vous ne pouvez être à moi.
-
--*who_claudine
-Hé pourquoi mentez-vous, ma tante ?
-Vous êtes traîtresse, je m'en étais bien doutée, vraiment.
-
--*who_margot
-Qu'est-ce que ça signifie, je suis traîtresse ?
-N'es-tu pas promise au Collecteur, que veux-tu dire ?
-
--*who_eraste
-Vous êtes promise à quelqu'un, Claudine ?
-
--*who_claudine
-Qu'est-ce que cela fait ?
-Je ne suis pas livrée : vous n'avez qu'à me prendre avant lui, cela finira la dispute.
-
--*who_eraste
-Oh, pourvu que vous y consentiez, Claudine, je me moque de ses prétentions.
-
--*who_margot
-Lucas ne vaudra jamais lui manquer de parole.
-
--*who_lolive
-Oh, qu'à cela ne tienne, j'ai dans la tête une petite idée pour faire faire à Monsieur Lucas tout ce que nous voudrons.
-
--*who_claudine
-Oui, laissez-les faire seulement, ma tante, les Messieurs de Paris ne sont pas des bêtes.
-
--*who_margot
-Lucas est diablement entêté.
-Il y a plus de dix ans que je fais ce que je puis pour l'empêcher d'aller au cabaret, je n'en saurais venir à bout.
-Quand il s'est mis quelque chose en tête, rien ne l'en fait démordre.
-
--*who_claudine
-Oh vraiment, mon oncle n'aime pas tant le Collecteur que le cabaret, ma tante : il y a bien à dire.
-
--*who_lolive
-Nous viendrons à bout de lui, vous dis-je, et je prétends aussi par le même moyen lui faire passer le goût du cabaret, ne vous mettez pas en peine.
-
--*who_margot
-Si vous faites ça, vous ferez une belle cure.
-
--*who_lolive
-Je le ferai vous dis-je, pourvu que de votre côté vous vouliez faire tout ce que je vous dirai.
-
--*who_margot
-Si je le voudrais faire !
-J'avalerais de la poison pour corriger Lucas, tant je l'aime.
-
--*who_lolive
-Dites-moi un peu avant toutes choses, est-il jaloux, Monsieur Lucas ?
-
--*who_margot
-Jaloux ?
-Non, je ne lui baille pas sujet de l'être.
-
--*who_lolive
-Tant pis, vraiment, il faut qu'il le devienne.
-
--*who_margot
-Qu'il le devienne ?
-À Dieu ne plaise, c'est bien assez qu'il soit ivrogne.
-
--*who_lolive
-L'un le corrigera de l'autre, laissez-moi faire.
-
--*who_margot
-Hé bien, que faut-il que je fasse ?
-
--*who_lolive
-Que vous lui donniez ce la jalousie.
-Un peu de jalousie guérit bien l'homme de la débauche.
-
--*who_margot
-Écoutez un peu ce n'est guère ; et comme les parsonnes de Village sont malaisées à émouvoir, m'est avis qu'il faudrait que la médecine soit forte.
-
--*who_lolive
-Cela dépendra de vous, vous êtes la maîtresse.
-
--*who_claudine
-Mais de quoi servira cette jalousie-là, pour m'empêcher d'épouser le Collecteur ?
-
--*who_lolive
-Comment, de quoi elle servira ?
-Je veux qu'elle vous fasse épouser mon maître.
-
--*who_eraste
-Je ne comprends point ton dessein.
-
--*who_lolive
-Je vous le ferai comprendre.
-Que Margot fasse semblant seulement d'être éperdument amoureuse de vous, je réponds du reste.
-
--*who_claudine
-Comment semblant ?
-S'ils allaient s'aimer tout de bon ?
-Je ne veux pas de ce semblant-là, moi, cherchez quelque autre chose.
-
--*who_margot
-Paix, tais-toi, voici le Collecteur.
-
--*who_claudine
-J'ai bien affaire de lui, qu'il se promène.
-
--*who_margot
-Garde-toi bien de lui faire la mine, il est soupçonneux, il se douterait de quelque chose.
-Et vous, promenez-vous, à l'entour d'ici, sans faire semblant de nous connaître.
-
-**** *book_ *id_I08 *act_I *date_1694
-
--*who_lecollecteur
-Sarviteur, notre tante, ou peu s'en faut ; car il ne s'en faut plus que de petites sarimonies que je voudrais bien qui fussians faites : notre oncle Lucas veut remettre ça après vendanges, ce n'est morgué pas de mon avis au moins, Claudine.
-Mais palsangué qu'est-ce donc que vous avez.
-Est-ce que vous êtes fâchée d'attendre ?
-Vous n'avez qu'à parler, l'oncle aura beau dire, je serons mariés quand il vous plaira.
-
--*who_margot
-Réponds-lui donc ?
-
--*who_claudine
-Que voulez-vous que je lui réponde ?
-Rien ne presse.
-
--*who_lecollecteur
-Si fait pargué, je suis hâté, moi.
-J'aurons bien de la joie quand je serons tous deux dans notre ménage.
-
--*who_claudine
-Nous n'y sommes pas encore.
-
--*who_lecollecteur
-Au moins, Claudine, il faut songer drès à présent à bien élever les enfants que je ferons, s'il vous plaît.
-
--*who_claudine
-Quel animal !
-
--*who_lecollecteur
-Il faudra bien prendre garde quand elles seront grandes à ne pas les marier contre leur inclination.
-
--*who_claudine
-Oh pour cela, je crois que c'est un enfer que le mariage, quand on marie des filles malgré elles.
-
--*who_lecollecteur
-Vraiment, j'ai vu mon père et ma mère se battre comme des enragés, parce qu'ils ne s'aimiont pas quand ils s'épousirent.
-
--*who_claudine
-Je n'y puis plus tenir, ma tante.
-
--*who_margot
-Patience.
-
--*who_lecollecteur
-Tout petit que j'étais, j'ai reçu plus de deux cents coups de poing en ma vie, en voulant les empêcher de s'en bailler.
-
--*who_margot
-Parguenne, si par malheur vous êtes fils de votre père, vela une belle espérance pour notre Nièce !
-
--*who_lecollecteur
-Oh, je ne nous battrons pas, nous ; car je nous aimerons.
-Queu plaisir j'aurons quand je serons grand père !
-
--*who_claudine
-Vous avez raison, c'est le bel âge.
-
--*who_lecollecteur
-Je ne mourrai jamais content, que je n'ayons marié les enfants de nos petits enfants.
-Je veux morgué vivre longtemps, moi, Claudine.
-Mais, qu'avez-vous donc, encore un coup, vous êtes chagraine ?
-
--*who_margot
-Écoutez, plus on lui dit qu'alle l'est, plus alle la devient ; laissez-la en repos.
-
--*who_lecollecteur
-Mais palsangué, vela qu'est étrange : ce qui est différé n'est pas perdu ; elle m'aura, pourquoi se chême-t-elle.
-Oh bian morgué je veux la réjouir.
-Il y a sous l'Orme des hautbois et des musettes qui faisons danser nos Vendangeux, je vas les quérir ; je veux pour la divartir qu'ils veniant danser avec elle.
-Sans adieu, ma tante.
-
-**** *book_ *id_I09 *act_I *date_1694
-
--*who_claudine
-Il a bien fait de s'en aller ; car, je m'en serais allée, moi.
-
--*who_eraste
-St, st, le Collecteur n'y est plus, rapprochez.
-
-**** *book_ *id_I10 *act_I *date_1694
-
--*who_eraste
-Que j'ai souffert pendant cet entretien, belle Claudine, et qu'il est cruel de céder un seul moment de votre conversation à un rustre comme celui-là.
-
--*who_claudine
-J'en ai pensé mourir de chagrin, cet homme-là m'est insupportable ; et depuis que vous m'avez dit que vous m'aimiez, je le hais encore bien davantage.
-Que ses discours m'ont ennuyée !
-
--*who_lolive
-Pour vous dédommager de cet ennui, allez faire ensemble un tour de jardin, cette conversation ne vous ennuiera pas tant que l'autre.
-
--*who_claudine
-Mais, quoi !
-Seule…
-
--*who_lolive
-Mon Maître est sage, et votre Tante ira vous rejoindre.
-
-**** *book_ *id_I11 *act_I *date_1694
-
--*who_lolive
-Oh ça, Madame Margot, il faut ici de la résolution.
-
--*who_margot
-À propos de quoi, de la résolution ?
-
--*who_lolive
-Il faut risquer que Lucas vous frotte pour rendre service à votre Nièce.
-
--*who_margot
-N'est-ce que ça !
-Vela bien de quoi ?
-Je nous sommes déjà frottés plus de cent fois depuis que je sommes en ménage, que faut-il faire ?
-
--*who_lolive
-Paraître bien amoureuse de mon Maître ; mais, il est question d'outrer la chose, au hasard d'être rossée comme je vous dis.
-
--*who_margot
-Vous moquez-vous ?
-C'est moi qui rosse Lucas, vous dis-je.
-
--*who_lolive
-Je vous en félicite.
-
--*who_margot
-La dernière fois qu'il s'enivrit, il s'endormit sur une bancelle : une de mes camarades et moi je lui attachîmes les bras et les jambes, et je le frotîmes comme tous les diables.
-
--*who_lolive
-Et quand il fut lâché ?
-
--*who_margot
-Je le détachîmes, quand il dormit ; et le lendemain, je lui fîmes accroire qu'il avait rêvé.
-
--*who_lolive
-La peste, quelle déssalée !
-
--*who_margot
-J'entends Lucas.
-
--*who_lolive
-Laissez-moi préparer la chose, et allez trouver mon Maître : nous venons de convenir ensemble du personnage qu'il faut que vous fassiez, il vous fera répéter votre rôle.
-
-**** *book_ *id_I12 *act_I *date_1694
-
--*who_lucas
 La, la, la, la, la.
 
--*who_lolive
-Monsieur Lucas se porte un peu mieux que quand il nous a quittés.
-
--*who_lucas
 Ah, ah, Monsieur le Vendangeux, vous vela tout seul, où est votre camarade ?
 
--*who_lolive
-Je ne sais, il est avec votre ménagère Margot, et avec cette Nièce que vous allez marier, je pense.
-Pour moi qui n'aime que le vin, je laisse-là les femmes.
+Pargué je vous aime bian de cette himeur-là. Aussi c'est une méchante engeance que les femmes.
 
--*who_lucas
-Pargué je vous aime bian de cette himeur-là.
-Aussi c'est une méchante engeance que les femmes.
+Tenez, morgué, pour avoir seulement rêver de la mienne ; je me réveillis tout moulu de coups. Croiriez-vous cela ?
 
--*who_lolive
-Assurément.
+Oh, c'est une méchante carogne, que Margot, alle me fait enrager à la maison. Aussi en revanche quand je n'y suis pas, et franchement je n'y sis guères, je m'en baille à cœur joie.
 
--*who_lucas
-Tenez, morgué, pour avoir seulement rêver de la mienne ; je me réveillis tout moulu de coups.
-Croiriez-vous cela ?
-
--*who_lolive
-Cela est admirable.
-
--*who_lucas
-Oh, c'est une méchante carogne, que Margot, alle me fait enrager à la maison.
-Aussi en revanche quand je n'y suis pas, et franchement je n'y sis guères, je m'en baille à cœur joie.
-
--*who_lolive
-Vous faites fort bien.
-
--*who_lucas
 Queuque sot se fâcherait contre elle ; mais moi, point du tout, rien ne me fâche, je me gobarge de tout ; sans souci, c'est là ma devise, et vela ma chanson : accoutez.
 Quand Margot fait la diablesse,
 J'ai pour m'en garer un bon secret ;
@@ -697,24 +78,444 @@ Ah morgué l'heureuse magnière !
 N'est-ce pas avoir bon esprit,
 Que de savoir mettre à profit
 Les défauts de sa minagère ?
-Hé bien, morgué, qu'en dites-vous ?
-N'est-ce pas l'entendre ?
-C'est le cousin Dubois qui a fait la chanson, n'est-elle pas drôle ?
+Hé bien, morgué, qu'en dites-vous ? N'est-ce pas l'entendre ? C'est le cousin Dubois qui a fait la chanson, n'est-elle pas drôle ?
 
--*who_lolive
-Oui vraiment, et cela est admirable.
-Comme toutes choses ont deux faces !
-
--*who_lucas
 Comment donc, deux faces ?
 
--*who_lolive
-C'est que Margot a un cousin, qui de son côté a fait aussi pour elle une chanson à peu près sur les mêmes rimes que la vôtre.
-
--*who_lucas
 Margot a un cousin qui a fait une chanson ?
 
--*who_lolive
+Parguenne, je ne connais point ce cousin-là ; mais, sa chanson en a menti. Il ne viant point de galant voir Margot ; alle est diablesse, mais alle ne m'en baille point à garder, je bouterais ma main au feu pour elle.
+
+C'est votre camarade le Vendangeux qui lui a fait pièce, car alle pleure.
+
+Comment donc, morguenne, qu'est-ce ça signifie ?
+
+Il faut voir, baillons-nous patience.
+
+La carogne ! Où diable a-t-elle pêché ce jargon, et queu temps prend-t-elle pour l'apprendre ?
+
+Tatigué comme alle le bourre, vela une maîtresse femme, n'est-il pas vrai ?
+
+Alle le relance tout comme moi ; je ne sis pas le seul, Dieu marci. Queu Diablesse ! Le vela morgué bian embarrassé.
+
+Barbe, barbare ! Où prend-t-elle tout ce qu'alle dit, cette masque-là ?
+
+Il a morgué raison, ce n'est pas sa faute.
+
+Tigre ! Je m'en vais morgué me montrer, elle le débaucherait peut-être à la fin, si on la laissait faire.
+
+Margot !
+
+Holà donc, Margot.
+
+Je me donne au diable si tu m'entarres, je me porte à marveilles. Me voilà, Margot, regarde-moi donc ?
+
+Et j'en suis morgué bien fâché, moi. À qui en as-tu donc ? Je crois, Dieu me pardonne, que tu rêves comme je rêvis l'autre jour, Margot ?
+
+Non, morgué, je ne le souffrirai pas, je veux qu'il te le rende.
+
+Mais, je me donne au diable, Margot, tu n'y songes pas. Me vela, te dis-je, je suis ton mari, tu me reconnais, et tu vas toujours le même train.
+
+Mais, tais-toi donc, Margot, il ne faut pas que je sache rian de ça, moi. N'as-tu point de honte ?
+
+Mais palsangué, Margot, vela le Collecteur. Es-tu folle ?
+
+Ce n'est rian, ce n'est rian, ne prenez pas garde à ça. Quand Margot se met des folies dans la tête, il faut que ça ly passe.
+
+Morgué, que voulez-vous que je fasse ? Je sis trop bon ; il faudrait la battre, je sais bien ça.
+
+Morgué queux Vendangeux ! La peste !
+
+Oui palsangué, je te le ferai, en dusses-tu crever, Margot.
+
+Oh morgué, je vous la dépromets j'aime mieux qu'il épouse ma nièce que ma femme.
+
+Ah, ah ! Que voulons ces gens-ci ? Je sommes bian en train de rire, ma foi.
+
+Acoutez, pour moi je ne me saurais réjouir si Margot ne me rend son cœur, franchement.
+
+Oh, pour stila, je t'en réponds, puisqu'il te faut garder, je ne te quitterai plus, laisse-moi faire.
+
+
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_margot
+
+Qu'est-ce donc que tu as, Claudine ?Tu es bien de mauvaise humeur, mon enfant.
+
+Tu n'es pas contente ? Tu es donc folle ! Et tu es la première à qui ça fasse peur.
+
+Hé bien ?
+
+Mais voirement, fille, tu perds l'esprit. On te baille un Collecteur, le coq du Village : il nous a rabattu vingt écus de taille pour t'avoir, et tu veux que je l'y manquions de parole.
+
+Hé ! De quoi t'avises-tu de dire ça si tard ? Tu le voulais bien il n'y a que deux jours, j'allîmes ensemble à Paris acheter les étoffes ; on s'est mis en dépenses.
+
+Le beau raisonnement ! Elle ne veut plus du Collecteur, parce qu'on l'a menée à Paris : quelle cervelle !
+
+Comment donc ?
+
+Devenir Madame, miséricorde ! Ah ! Le vilain Paris, on dit bien vrai, que l'air de ce pays-là ne vaut rien pour les jolies filles de Village.
+
+Hé, comment feras-tu, malheureuse, pour te faire Madame ?
+
+Je ne jaserai point, dis.
+
+Hé bien ?
+
+Celui qui nous regardit tant ?
+
+Mais, il ne nous disait mot, Claudine.
+
+Oh, mon enfant, je sommes perdues.
+
+Il se moque de toi.
+
+Tiens, Lucas, veux-tu franchement que je te dise la chose ?
+
+Mais ça te fâchera peut-être ?
+
+Elle a peur d'être malheureuse en ménage.
+
+Que fait-on ? Ce Collecteur est peut-être un ivrogne comme toi ; comprends-tu, Lucas ?
+
+Assurément, est-ce que tu crois que je ne veux pas bien du mal à mon père et à me mère, de m'avoir mariée avec un homme qui ne fait que boire ?
+
+Tu crois te moquer, mais…
+
+Je ne sis pas bonne, que veux-tu dire ?
+
+Ç'amon, voirement, tu te soucies bien de quelle humeur je sis, tu ne songes qu'au vin.
+
+Hé bien, mais que n'en bois-tu chez toi ? Tu es depuis le matin jusques au soir au cabaret.
+
+C'est la mienne ?
+
+Vela de beaux contes, tu as des amis, mais tu paies toujours.
+
+Fort bien, ne vas-tu pas t'enivrer encore aujourd'hui ?
+
+Oui, fort bien, et le cousin Dubois s'enivrera à tes dépens pour entretenir connaissance.
+
+Quoi ?
+
+Que veux-tu dire.
+
+N'as-tu pas envie de les mener boire ?
+
+Je crois, Dieu me pardonne, que c'est ce Monsieur de Paris qui veut faire Claudine Madame.
+
+La nièce Claudine n'est pas menteuse. Il ne faut rien dire.
+
+Pas tant que vous croyez, je n'avons pas le vin tendre.
+
+Oh voirement, vous le trouveriez bien plus heureux, s'il était le mari de notre nièce Claudine.
+
+L'autre jour dans cette grande boutique, vous ne me regardiez presque pas, et Claudine me l'a fort bien su dire.
+
+Point, point, vous trouvîtes Claudine la plus gentille ; et franchement, vous avez raison. Oh je sis bien changée en ménage : si vous m'aviez vue quand j'étais fille, vous m'auriez pour le moins autant regardée que Claudine, oui.
+
+Oh vraiment, je vous ai bien reconnus tous deux, mais avec tout ça, il n'est pas si gentil avec sthabit-là, qu'avec sti qu'il avait l'autre jour, et je ne m'étonne pas si nos filles aimont mieux les Monsieux de Paris, que les garçons de Village ; stanpendant comme vous voyez, au pourpoint près, c'est bien la même chose.
+
+Écoutez, vous avez bien fait de ne point venir ici avec un habit de Monsieu, on en eût murmuré ; et quoique Lucas ne soit pas défiant, il ne vous eût jamais pris pour travailler à nos vaignes.
+
+Je vous en réponds.
+
+Hé comment vous rendre service ? Quand on aime les parsonnes, c'est pour le mariage, ou pour autrement. Si c'est pour autrement que vous aimez Claudine, je fis votre servante, ça ne se peut pas : si c'est pour le mariage, il y a encore rien à faire.
+
+Est-ce que Claudine ne vous l'a pas dit ?
+
+Hé bien tenez, la vela, qu'elle vous le dise.
+
+Qu'est-ce que ça signifie, je suis traîtresse ? N'es-tu pas promise au Collecteur, que veux-tu dire ?
+
+Lucas ne vaudra jamais lui manquer de parole.
+
+Lucas est diablement entêté. Il y a plus de dix ans que je fais ce que je puis pour l'empêcher d'aller au cabaret, je n'en saurais venir à bout. Quand il s'est mis quelque chose en tête, rien ne l'en fait démordre.
+
+Si vous faites ça, vous ferez une belle cure.
+
+Si je le voudrais faire ! J'avalerais de la poison pour corriger Lucas, tant je l'aime.
+
+Jaloux ? Non, je ne lui baille pas sujet de l'être.
+
+Qu'il le devienne ? À Dieu ne plaise, c'est bien assez qu'il soit ivrogne.
+
+Hé bien, que faut-il que je fasse ?
+
+Écoutez un peu ce n'est guère ; et comme les parsonnes de Village sont malaisées à émouvoir, m'est avis qu'il faudrait que la médecine soit forte.
+
+Paix, tais-toi, voici le Collecteur.
+
+Garde-toi bien de lui faire la mine, il est soupçonneux, il se douterait de quelque chose. Et vous, promenez-vous, à l'entour d'ici, sans faire semblant de nous connaître.
+
+Réponds-lui donc ?
+
+Patience.
+
+Parguenne, si par malheur vous êtes fils de votre père, vela une belle espérance pour notre Nièce !
+
+Écoutez, plus on lui dit qu'alle l'est, plus alle la devient ; laissez-la en repos.
+
+À propos de quoi, de la résolution ?
+
+N'est-ce que ça ! Vela bien de quoi ? Je nous sommes déjà frottés plus de cent fois depuis que je sommes en ménage, que faut-il faire ?
+
+Vous moquez-vous ? C'est moi qui rosse Lucas, vous dis-je.
+
+La dernière fois qu'il s'enivrit, il s'endormit sur une bancelle : une de mes camarades et moi je lui attachîmes les bras et les jambes, et je le frotîmes comme tous les diables.
+
+Je le détachîmes, quand il dormit ; et le lendemain, je lui fîmes accroire qu'il avait rêvé.
+
+J'entends Lucas.
+
+Allez, vous êtes pire qu'un loup-çarvier, de me vouloir faire un tour comme sti-là.
+
+Baillez-moi queuque raison du moins. Pourquoi vous marier ? Pourquoi ne m'aimer pas, moi qui vous aime tant ?
+
+Vous ne me répondez non plus qu'une souche, cœur dur, cœur ingrat, cœur parfide.
+
+Dis-moi donc queuque chose, ou je t'étranglerai, serpent.
+
+Tu es bienheureux que je t'aime autant que je le fais, je t'aurais dévisagé pour ta parfidie.
+
+Inhumain que tu es !
+
+Madame Margot ! Tu m'appelles Madame, et tu en tutaies d'autres à ma barbe, barbare ?
+
+Tu es honnête homme, et tu ne m'aimes point : cela se peut-il imaginer, tigre ?
+
+Ne te marie point, sitôt, petit monstre, ne te marie point ; Lucas mourra, c'est un ivrogne, je nous marierons ensemble.
+
+C'est un sac à vin qu'il faut qu'il crève.
+
+Si je puis une fois l'entarrer, drès le lendemain je serai ra femme.
+
+Ah ! C'est vous, notre homme, j'en sis bian aise.
+
+Non vraiment, je ne rêve point. Tiens, Lucas, voilà un vaurien à qui j'ai baillé mon cœur, il me l'emporte. Est-ce que tu souffriras ça, mon pauvre Lucas ?
+
+Oh, non, non, puisque je lui ai baillé, je ne veux point le reprendre.
+
+Il ne m'aime point, Lucas, et je l'aime plus que ma vie.
+
+Non, je n'en ai point, je veux que tout le Village le sache, moi. Il me fait pièce ; mais j'aurai la consolation de m'en plaindre.
+
+Promets-moi donc que tu m'aimeras, petit parfide.
+
+Ce ne sont point des folies, je n'aime que lui, il a mon cœur ; et tant que j'aurai queuque espérance de devenir veuve je ne veux point qu'il se marie.
+
+Est-ce que tu y consentiras, Lucas. Me feras-tu ce chagrin-là, mon enfant ?
+
+Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.
+
+
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
+Tenez, ma tante, voulez-vous que je vous dise ma pensée ? Je ne suis pas contente de me marier.
+
+Je sis la première, si vous voulez : si mon oncle me voulait faire plaisir…
+
+Il romprait tout net ce mariage-là, ma tante.
+
+Oui, fort bien, ma tante, vous me donnez donc pour vingt écus ! Je vous suis bien obligée ! Oh, je vaux davantage, s'il vous plaît et quand mon oncle me devrait tuer, je ne serai jamais la femme du Collecteur.
+
+Hé bien, ma tante, vela justement ce que c'est, puisqu'il faut vous le dire, je n'avais jamais été à Paris ; vous m'y avez menée, je ne veux plus du Collecteur.
+
+Oh, je l'ai fort bonne, et je ne prétends pas toute ma vie n'être q'une paysanne, moi.
+
+Je veux devenir Madame, afin que vous le sachiez.
+
+Ma chère tante, laissez-moi devenir Madame, je vous prie.
+
+N'êtes-vous point traîtresse ! Je vous le dirai, ma tante ; mais, si vous jasez…
+
+Vous vous souvenez bien de cette grande boutique, dans cette grande rue où vous achetâtes du brocard pour me faire une jupe ?
+
+Hé bien, ma tante, il y avait un beau jeune Monsieur tout doré.
+
+C'était moi qu'il regardait, ma tante, ce n'était pas vous ; et tenez, je suis sûre qu'il était plus aise de me voir, que toutes les Madames qu'il a jamais vues.
+
+C'est qu'il n'osait pas à cause de vous ; mais, il nous a fait suivre, et depuis ce matin, il est dans le Village.
+
+Point, ma tante, il me veut faire Madame, je lui ai déjà parlé, c'est lui qui me l'a dit.
+
+Point, vous dis-je. Voici mon oncle, ne lui parlez de rien : quand il n'y sera plus, je vous dirai encore autre chose : mais, si vous êtes une causeuse, vous ne saurez plus rien.
+
+Qu'est-ce qu'il y a donc ? Est-ce qu'elle vous gronde ? A-t-elle dit quelque chose à mon oncle ?
+
+Hé pourquoi mentez-vous, ma tante ? Vous êtes traîtresse, je m'en étais bien doutée, vraiment.
+
+Qu'est-ce que cela fait ? Je ne suis pas livrée : vous n'avez qu'à me prendre avant lui, cela finira la dispute.
+
+Oui, laissez-les faire seulement, ma tante, les Messieurs de Paris ne sont pas des bêtes.
+
+Oh vraiment, mon oncle n'aime pas tant le Collecteur que le cabaret, ma tante : il y a bien à dire.
+
+Mais de quoi servira cette jalousie-là, pour m'empêcher d'épouser le Collecteur ?
+
+Comment semblant ? S'ils allaient s'aimer tout de bon ? Je ne veux pas de ce semblant-là, moi, cherchez quelque autre chose.
+
+J'ai bien affaire de lui, qu'il se promène.
+
+Que voulez-vous que je lui réponde ? Rien ne presse.
+
+Nous n'y sommes pas encore.
+
+Quel animal !
+
+Oh pour cela, je crois que c'est un enfer que le mariage, quand on marie des filles malgré elles.
+
+Je n'y puis plus tenir, ma tante.
+
+Vous avez raison, c'est le bel âge.
+
+Il a bien fait de s'en aller ; car, je m'en serais allée, moi.
+
+J'en ai pensé mourir de chagrin, cet homme-là m'est insupportable ; et depuis que vous m'avez dit que vous m'aimiez, je le hais encore bien davantage. Que ses discours m'ont ennuyée !
+
+Mais, quoi ! Seule…
+
+Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage.
+
+
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.
+
+Ce n'est pas la seule envie de goûter votre vin, qui nous fait vous rendre visite : nous venons voir comment vous faites, Monsieur Lucas, vous êtes dans le temps des vendanges ?
+
+Quand nos habillements ne suffiraient pas à nous faire connaître, il serait difficile de cacher notre condition. Pour vous parler franchement, nous sommes nés comme vous l'un et l'autre en bonne et franche paysannerie.
+
+Nous ? Nous sommes de bons enfants qui ne cherchons qu'à nous réjouir. Nous aimons le bon vin préférablement à toutes choses : mais comme nous nous ferions un scrupule d'en boire, si nous n'aidions pas à le faire, c'est pour cela que nous venons vous offrir nos services.
+
+Voilà d'excellent vin, Monsieur Lucas, et il n'y a qu'honneur et plaisir à travailler à vos vignes, à ce que je vois.
+
+Nous ne sommes point intéressés, vous avez de bon vin, nous en boirons avec vous tant que dureront les vendanges, nous ne vous demandons point autre chose.
+
+Assurément.
+
+Monsieur Lucas est bienheureux d'être le mari d'une si aimable personne.
+
+L'Olive.
+
+Oh pour cela, mon cœur et mes regards étaient également partagés entre l'une et l'autre, je vous assure.
+
+Oh ça, ma chère Margot, puisque vous avez deviné la passion que j'ai pour votre nièce, je veux bien vous en faire confidence, sûr que vous ne refuserez pas de m'y rendre service.
+
+Il n'y a rien à faire pour le mariage ? Que voulez-vous dire ?
+
+Expliquez-vous donc, Margot, je vous prie.
+
+Non vraiment.
+
+Vous voyez, aimable Claudine, un homme que votre tante met au désespoir.
+
+Elle me veut persuader, Claudine, que vous ne pouvez être à moi.
+
+Vous êtes promise à quelqu'un, Claudine ?
+
+Oh, pourvu que vous y consentiez, Claudine, je me moque de ses prétentions.
+
+Je ne comprends point ton dessein.
+
+St, st, le Collecteur n'y est plus, rapprochez.
+
+Que j'ai souffert pendant cet entretien, belle Claudine, et qu'il est cruel de céder un seul moment de votre conversation à un rustre comme celui-là.
+
+Que voulez-vous que je vous dise ?
+
+Ma chère Madame Margot, vous avez beau m'aimer, cela n'a rien de solide : il faut que je songe à un établissement, permettez de grâce…
+
+Que voulez-vous que je fasse ? Monsieur Lucas me reçoit chez lui, il me fait boire de son vin, il me donne sa grange, il me retient pour travailler à ses vignes, Madame Margot, je suis honnête homme.
+
+Doucement, Monsieur le collecteur.
+
+Si vous faites le moindre bruit, je tuerai quelqu'un.
+
+Mon pauvre Monsieur Lucas, je suis fâché de cette aventure ! Je suis homme de condition, j'aime votre nièce : mais dans la vue de l'épouser.
+
+Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'amour pour moi ; vous êtes malheureusement témoin d'une scène un peu fâcheuse, je vous l'avoue : consentez que j'épouse Claudine, et je vous rends le cœur de Margot.
+
+Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure. Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges. Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.
+
+
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
+À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.
+
+Il est vrai pour cela, que la réputation de Monsieur Lucas est extrêmement en réputation, et Monsieur Lucas a la réputation d'avoir toujours le meilleur vin de France, aussi je meurs d'envie d'en boire, ou le diable m'emporte.
+
+Nous avons la conscience fort délicate, et nous voulons gagner le vin que nous buvons, nous autres.
+
+Il n'y a rien de plus juste.
+
+Grand merci.
+
+Mais nous gîterons aussi chez vous, Monsieur Lucas ?
+
+Si Madame Margot était d'humeur à se mettre en train, il y aurait presse à boire avec elle.
+
+On vous reconnaît, Monsieur.
+
+Par ma foi, fille ou femme, je vous trouve de fort belle regardure, moi, et si vous voulez, pendant que mon maître regardera Claudine… Car c'est là mon maître, afin que vous le sachiez, et je ne suis que le valet de chambre de ce paysan-là, au moins.
+
+Assurément.
+
+Oh diable ! S'il savait quelle espèce de Vendangeurs nous sommes, nous ne coucherions pas dans la grange, sur ma parole.
+
+Il faudra l'aimer pour autrement, ce sera votre pis aller, je vois bien cela.
+
+Oh, qu'à cela ne tienne, j'ai dans la tête une petite idée pour faire faire à Monsieur Lucas tout ce que nous voudrons.
+
+Nous viendrons à bout de lui, vous dis-je, et je prétends aussi par le même moyen lui faire passer le goût du cabaret, ne vous mettez pas en peine.
+
+Je le ferai vous dis-je, pourvu que de votre côté vous vouliez faire tout ce que je vous dirai.
+
+Dites-moi un peu avant toutes choses, est-il jaloux, Monsieur Lucas ?
+
+Tant pis, vraiment, il faut qu'il le devienne.
+
+L'un le corrigera de l'autre, laissez-moi faire.
+
+Que vous lui donniez ce la jalousie. Un peu de jalousie guérit bien l'homme de la débauche.
+
+Cela dépendra de vous, vous êtes la maîtresse.
+
+Comment, de quoi elle servira ? Je veux qu'elle vous fasse épouser mon maître.
+
+Je vous le ferai comprendre. Que Margot fasse semblant seulement d'être éperdument amoureuse de vous, je réponds du reste.
+
+Pour vous dédommager de cet ennui, allez faire ensemble un tour de jardin, cette conversation ne vous ennuiera pas tant que l'autre.
+
+Mon Maître est sage, et votre Tante ira vous rejoindre.
+
+Oh ça, Madame Margot, il faut ici de la résolution.
+
+Il faut risquer que Lucas vous frotte pour rendre service à votre Nièce.
+
+Paraître bien amoureuse de mon Maître ; mais, il est question d'outrer la chose, au hasard d'être rossée comme je vous dis.
+
+Je vous en félicite.
+
+Et quand il fut lâché ?
+
+La peste, quelle déssalée !
+
+Laissez-moi préparer la chose, et allez trouver mon Maître : nous venons de convenir ensemble du personnage qu'il faut que vous fassiez, il vous fera répéter votre rôle.
+
+Monsieur Lucas se porte un peu mieux que quand il nous a quittés.
+
+Je ne sais, il est avec votre ménagère Margot, et avec cette Nièce que vous allez marier, je pense. Pour moi qui n'aime que le vin, je laisse-là les femmes.
+
+Assurément.
+
+Cela est admirable.
+
+Vous faites fort bien.
+
+Oui vraiment, et cela est admirable. Comme toutes choses ont deux faces !
+
+C'est que Margot a un cousin, qui de son côté a fait aussi pour elle une chanson à peu près sur les mêmes rimes que la vôtre.
+
 Oui, parbleu ; je vais vous la dire.
 Sitôt que Margot querelle,
 Lucas en mari discret,
@@ -728,332 +529,60 @@ Une femme peut tout faire
 Pendant que son mari boit.
 Hé bien, Monsieur Lucas, que vous en semble ?
 
--*who_lucas
-Parguenne, je ne connais point ce cousin-là ; mais, sa chanson en a menti.
-Il ne viant point de galant voir Margot ; alle est diablesse, mais alle ne m'en baille point à garder, je bouterais ma main au feu pour elle.
-
--*who_lolive
 Vous auriez chaud, monsieur Lucas : ne jurez de rien, elle ne vous croit pas si prêt à revenir : cachons-nous un peu, nous en apprendrons plus que vous n'en voudrez savoir.
 
-**** *book_ *id_I13 *act_I *date_1694
-
--*who_margot
-Allez, vous êtes pire qu'un loup-çarvier, de me vouloir faire un tour comme sti-là.
-
--*who_lolive
 Monsieur Lucas, hem ?
 
--*who_lucas
-C'est votre camarade le Vendangeux qui lui a fait pièce, car alle pleure.
-
--*who_margot
-Baillez-moi queuque raison du moins.
-Pourquoi vous marier ?
-Pourquoi ne m'aimer pas, moi qui vous aime tant ?
-
--*who_lucas
-Comment donc, morguenne, qu'est-ce ça signifie ?
-
--*who_lolive
 La chanson n'a pas trop menti, Monsieur Lucas.
 
--*who_lucas
-Il faut voir, baillons-nous patience.
-
--*who_margot
-Vous ne me répondez non plus qu'une souche, cœur dur, cœur ingrat, cœur parfide.
-
--*who_lucas
-La carogne !
-Où diable a-t-elle pêché ce jargon, et queu temps prend-t-elle pour l'apprendre ?
-
--*who_lolive
 Le temps que vous passez au cabaret, Monsieur Lucas.
 
--*who_margot
-Dis-moi donc queuque chose, ou je t'étranglerai, serpent.
-
--*who_eraste
-Que voulez-vous que je vous dise ?
-
--*who_lucas
-Tatigué comme alle le bourre, vela une maîtresse femme, n'est-il pas vrai ?
-
--*who_lolive
 Oui, vraiment.
 
--*who_margot
-Tu es bienheureux que je t'aime autant que je le fais, je t'aurais dévisagé pour ta parfidie.
-
--*who_lucas
-Alle le relance tout comme moi ; je ne sis pas le seul, Dieu marci.
-Queu Diablesse !
-Le vela morgué bian embarrassé.
-
--*who_lolive
 Oui vraiment, et vous ne l'êtes guères, vous.
 
--*who_margot
-Inhumain que tu es !
-
--*who_eraste
-Ma chère Madame Margot, vous avez beau m'aimer, cela n'a rien de solide : il faut que je songe à un établissement, permettez de grâce…
-
--*who_margot
-Madame Margot !
-Tu m'appelles Madame, et tu en tutaies d'autres à ma barbe, barbare ?
-
--*who_lucas
-Barbe, barbare !
-Où prend-t-elle tout ce qu'alle dit, cette masque-là ?
-
--*who_eraste
-Que voulez-vous que je fasse ?
-Monsieur Lucas me reçoit chez lui, il me fait boire de son vin, il me donne sa grange, il me retient pour travailler à ses vignes, Madame Margot, je suis honnête homme.
-
--*who_lucas
-Il a morgué raison, ce n'est pas sa faute.
-
--*who_margot
-Tu es honnête homme, et tu ne m'aimes point : cela se peut-il imaginer, tigre ?
-
--*who_lucas
-Tigre !
-Je m'en vais morgué me montrer, elle le débaucherait peut-être à la fin, si on la laissait faire.
-
--*who_lolive
 Voilà l'affaire en assez bon train ; allons faire venir Claudine pour le dénouement.
 
-**** *book_ *id_I14 *act_I *date_1694
-
--*who_margot
-Ne te marie point, sitôt, petit monstre, ne te marie point ; Lucas mourra, c'est un ivrogne, je nous marierons ensemble.
-
--*who_lucas
-Margot !
-
--*who_margot
-C'est un sac à vin qu'il faut qu'il crève.
-
--*who_lucas
-Holà donc, Margot.
-
--*who_margot
-Si je puis une fois l'entarrer, drès le lendemain je serai ra femme.
-
--*who_lucas
-Je me donne au diable si tu m'entarres, je me porte à marveilles.
-Me voilà, Margot, regarde-moi donc ?
-
--*who_margot
-Ah !
-C'est vous, notre homme, j'en sis bian aise.
-
--*who_lucas
-Et j'en suis morgué bien fâché, moi.
-À qui en as-tu donc ?
-Je crois, Dieu me pardonne, que tu rêves comme je rêvis l'autre jour, Margot ?
-
--*who_margot
-Non vraiment, je ne rêve point.
-Tiens, Lucas, voilà un vaurien à qui j'ai baillé mon cœur, il me l'emporte.
-Est-ce que tu souffriras ça, mon pauvre Lucas ?
-
--*who_lucas
-Non, morgué, je ne le souffrirai pas, je veux qu'il te le rende.
-
--*who_margot
-Oh, non, non, puisque je lui ai baillé, je ne veux point le reprendre.
-
--*who_lucas
-Mais, je me donne au diable, Margot, tu n'y songes pas.
-Me vela, te dis-je, je suis ton mari, tu me reconnais, et tu vas toujours le même train.
-
--*who_margot
-Il ne m'aime point, Lucas, et je l'aime plus que ma vie.
-
--*who_lucas
-Mais, tais-toi donc, Margot, il ne faut pas que je sache rian de ça, moi.
-N'as-tu point de honte ?
-
--*who_margot
-Non, je n'en ai point, je veux que tout le Village le sache, moi.
-Il me fait pièce ; mais j'aurai la consolation de m'en plaindre.
-
--*who_lucas
-Mais palsangué, Margot, vela le Collecteur.
-Es-tu folle ?
-
-**** *book_ *id_I15 *act_I *date_1694
-
--*who_lecollecteur
-Ah palsanguenne vela la bande joyeuse, les Vendangeux et les Vendangeuses venont sur mes talons, j'allons nous divartir comme des Princes.
-
--*who_margot
-Promets-moi donc que tu m'aimeras, petit parfide.
-
--*who_lecollecteur
-Oh, oh, qu'est-ce que c'est donc ça, Monsieur Lucas ?
-
--*who_lucas
-Ce n'est rian, ce n'est rian, ne prenez pas garde à ça.
-Quand Margot se met des folies dans la tête, il faut que ça ly passe.
-
--*who_lecollecteur
-Tatigué queux folies !
-
--*who_margot
-Ce ne sont point des folies, je n'aime que lui, il a mon cœur ; et tant que j'aurai queuque espérance de devenir veuve je ne veux point qu'il se marie.
-
--*who_lecollecteur
-L'espérance d'être veuve, monsieur Lucas ?
-
--*who_lucas
-Morgué, que voulez-vous que je fasse ?
-Je sis trop bon ; il faudrait la battre, je sais bien ça.
-
--*who_lecollecteur
-Comment, morguenne, y a-t-il tant de façons ?
-C'est ce drôle-là, qu'il faut assommer, baillez-moi une fourche.
-
--*who_eraste
-Doucement, Monsieur le collecteur.
-
--*who_lecollecteurlucas
-Des pistolets ?
-Alarme, alarme.
-
--*who_eraste
-Si vous faites le moindre bruit, je tuerai quelqu'un.
-
--*who_lecollecteurlucas
-Miséricorde.
-
-**** *book_ *id_I16 *act_I *date_1694
-
--*who_lolive
 Le premier qui branle, je fais main basse.
 
--*who_lucas
-Morgué queux Vendangeux !
-La peste !
-
--*who_eraste
-Mon pauvre Monsieur Lucas, je suis fâché de cette aventure !
-Je suis homme de condition, j'aime votre nièce : mais dans la vue de l'épouser.
-
--*who_lecollecteur
-C'est Claudine à qui ils en voulont ?
-
--*who_lolive
 Paix, taisez-vous, Monsieur le rustre ?
 
--*who_eraste
-Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'amour pour moi ; vous êtes malheureusement témoin d'une scène un peu fâcheuse, je vous l'avoue : consentez que j'épouse Claudine, et je vous rends le cœur de Margot.
 
--*who_margot
-Est-ce que tu y consentiras, Lucas.
-Me feras-tu ce chagrin-là, mon enfant ?
+**** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecollecteur
 
--*who_lucas
-Oui palsangué, je te le ferai, en dusses-tu crever, Margot.
+Sarviteur, notre tante, ou peu s'en faut ; car il ne s'en faut plus que de petites sarimonies que je voudrais bien qui fussians faites : notre oncle Lucas veut remettre ça après vendanges, ce n'est morgué pas de mon avis au moins, Claudine. Mais palsangué qu'est-ce donc que vous avez. Est-ce que vous êtes fâchée d'attendre ? Vous n'avez qu'à parler, l'oncle aura beau dire, je serons mariés quand il vous plaira.
 
--*who_lecollecteur
-Qu'est-ce à dire ?
-Claudine est à moi, vous me l'avez promise ?
+Si fait pargué, je suis hâté, moi. J'aurons bien de la joie quand je serons tous deux dans notre ménage.
 
--*who_lucas
-Oh morgué, je vous la dépromets j'aime mieux qu'il épouse ma nièce que ma femme.
+Au moins, Claudine, il faut songer drès à présent à bien élever les enfants que je ferons, s'il vous plaît.
 
--*who_lecollecteur
+Il faudra bien prendre garde quand elles seront grandes à ne pas les marier contre leur inclination.
+
+Vraiment, j'ai vu mon père et ma mère se battre comme des enragés, parce qu'ils ne s'aimiont pas quand ils s'épousirent.
+
+Tout petit que j'étais, j'ai reçu plus de deux cents coups de poing en ma vie, en voulant les empêcher de s'en bailler.
+
+Oh, je ne nous battrons pas, nous ; car je nous aimerons. Queu plaisir j'aurons quand je serons grand père !
+
+Je ne mourrai jamais content, que je n'ayons marié les enfants de nos petits enfants. Je veux morgué vivre longtemps, moi, Claudine. Mais, qu'avez-vous donc, encore un coup, vous êtes chagraine ?
+
+Mais palsangué, vela qu'est étrange : ce qui est différé n'est pas perdu ; elle m'aura, pourquoi se chême-t-elle. Oh bian morgué je veux la réjouir. Il y a sous l'Orme des hautbois et des musettes qui faisons danser nos Vendangeux, je vas les quérir ; je veux pour la divartir qu'ils veniant danser avec elle. Sans adieu, ma tante.
+
+Ah palsanguenne vela la bande joyeuse, les Vendangeux et les Vendangeuses venont sur mes talons, j'allons nous divartir comme des Princes.
+
+Oh, oh, qu'est-ce que c'est donc ça, Monsieur Lucas ?
+
+Tatigué queux folies !
+
+L'espérance d'être veuve, monsieur Lucas ?
+
+Comment, morguenne, y a-t-il tant de façons ? C'est ce drôle-là, qu'il faut assommer, baillez-moi une fourche.
+
+C'est Claudine à qui ils en voulont ?
+
+Qu'est-ce à dire ? Claudine est à moi, vous me l'avez promise ?
+
 Mais Claudine n'est pas de cet avis-là, elle.
 
--*who_claudine
-Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage.
-
--*who_lucas
-Ah, ah !
-Que voulons ces gens-ci ?
-Je sommes bian en train de rire, ma foi.
-
--*who_lecollecteur
 Ils ne voulont rien, je les avais amenés pour nous divartir : mais je les remmène, et je ne sis pas d'himeur à payer les violons pour faire danser les autres.
 
--*who_eraste
-Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure.
-Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges.
-Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.
-
--*who_lucas
-Acoutez, pour moi je ne me saurais réjouir si Margot ne me rend son cœur, franchement.
-
--*who_margot
-Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.
-
--*who_lucas
-Oh, pour stila, je t'en réponds, puisqu'il te faut garder, je ne te quitterai plus, laisse-moi faire.
-
-**** *book_ *id_I17 *act_I *date_1694
-
--*who_premierepaysanne
-
-
-Claudine, quel est ton bonheur !
-Un biau Monsieur plein de flamme
-Te sauve d'être la femme
-D'un magot de Collecteur.
-Claudine, quel est ton bonheur !
-
-Il est digne, par mon âme,
-Que tu l'aimes de bon cœur,
-Il va te faire Madame.
-Claudine, quel est ton bonheur !
-
--*who_premierpaysan
-Ah ! Qu'ils feront un bon ménage !
-Si dans le temps du vin nouviau
-Ils achèveront le mariage,
-Je viderons plus d'un tonniau :
-À leurs noces je ferons rage ;
-Que je boirons de vin sans iau !
-Tope à qui en boutra dans sa piau.
-Ah ! Qu'ils feront un bon ménage !
-Si dans le temps du vin nouviau
-Ils achèveront le mariage.
-Est-il un présage plus biau ?
-
--*who_secondpaysan
-Il n'est que d'être en Vendange
-Pour boire et pour faire l'amour ;
-On boit tout le long du jour,
-Et toute la nuit dans la grange
-La folle Vénus a son tour.
-Il n'est que d'être en Vendange
-Pour boire et pour faire l'amour ;
-
--*who_secondepaysanne
-Garçons et fillettes,
-Aiguisez vos serpettes.
-Profitez de l'Automne et de votre Printemps,
-Quand vous serez à l'hiver de vos ans,
-Adieu panier, Vendanges seront faites.
-
--*who_premierpaysan
-Notre Village a ses plaisirs
-Comme une grande Ville.
-
--*who_premierepaysanne
-On n'entend point de vains soupirs
-Dans ce séjour tranquille.
-
--*who_secondepaysanne
-L'Automne au gré de nos désirs
-En Vendange est fertile.
-
--*who_secondpaysan
-Quand le chaud fait peur aux Zéphyrs,
-La cave est notre asile.
-
--*who_ensemble
-Notre Village a ses plaisirs
-Comme une grande Ville.

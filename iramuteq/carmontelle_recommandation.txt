@@ -1,629 +1,302 @@
 
 
-**** *book_ *id_I01 *act_I *date_1768
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelabruyere
 
--*who_madamedelabruyere
-Qui est là ?...
-Ah, c'est vous, Monsieur.
-
--*who_monsieurdelabruyere
 Dans quel état vous voilà ?
 
--*who_madamedelabruyere
-Vous me voyez dans le plus grand attendrissement.
-
--*who_monsieurdelabruyere
 Quoi toujours avec vos romans.
 
--*who_madamedelabruyere
-Oui, celui-ci est charmant !
-
--*who_monsieurdelabruyere
 Bon ; c'est toujours la même chose.
 
--*who_madamedelabruyere
-Vous le croyez, et vous n'en avez peut-être jamais lu.
-
--*who_monsieurdelabruyere
 Pardonnez-moi, autrefois, au Collège ; mais c'est du temps perdu.
 
--*who_madamedelabruyere
-Je ne trouve pas cela.
-Quand des gens vraiment vertueux éprouvent des malheurs qu'ils pourraient faire cesser, s'ils étaient capables de renoncer à l'honneur, à la vertu ; ces situations sont si intéressantes, si touchantes, que je voudrais connaître ces malheureux, pour pouvoir les consoler, adoucir leurs maux , les partager ; ce désir est une jouissance délicieuse !
-
--*who_monsieurdelabruyere
 Vous n'avez pas besoin de ces livres-là, pour jouir de toute la délicatesse, de toute la sensibilité de votre âme.
 
--*who_madamedelabruyere
-À quoi bon me flatter ?
-Je suis bien-aise que vous ayez bonne opinion de moi, certainement ; mais convenez que vous seriez fâché de me voir de l'orgueil ?
-
--*who_monsieurdelabruyere
 Je ne vous en crois pas capable.
 
--*who_madamedelabruyere
-Et moi, je craindrais d'être toute prête d'en avoir, étant louée par vous.
-
--*who_monsieurdelabruyere
 Pourquoi ne pas louer ce qu'on aime ; pourquoi ne pas lui rendre justice ?
 
--*who_madamedelabruyere
-Ah, parce que lorsque l'on aime , on peut s'aveugler sur l'objet de son amour, et en lui supposant une perfection aussi grande, on peut l'empêcher d'acquérir la véritable.
-Quand on est bien content de soi, on est bien près de mériter de ne plus l'être.
-
--*who_monsieurdelabruyere
 Pourquoi cela ?
 
--*who_madamedelabruyere
-Mon Dieu, l'on est si récompensé de faire le bien ; on goûte une si grande satisfaction, qu'il n'y a pas un grand mérite à s'en occuper.
-
--*who_monsieurdelabruyere
 C'est pousser trop loin le scrupule : lorsque les autres en jouissent, c'est toujours bien fait, n'importe quel en est le principe.
 
--*who_madamedelabruyere
-Vous parlez en homme d'État, ainsi chacun de nous fait son métier.
-
--*who_monsieurdelabruyere
 Vous faites bien celui d'une femme qui mérite l'estime et l'amour de son mari.
 
--*who_madamedelabruyere
-Comment ne serais-je pas occupée de plaire à l'homme que j'aime et que j'estime le plus ?
-Notre bonheur commun dépend de nous ; vous pensez assez solidement pour fuir les gens frivoles, légers ou perfides ; comment ne les haïrais-je pas, et comment pourrais-je les craindre ?
-L'amour ne se trouve pas toujours avec l'estime ; mais quand ils sont réunis, rien ne peut détruire un attachement de cette espèce.
-
--*who_monsieurdelabruyere
 Je suis bien-aise de vous voir cette façon de penser.
 
--*who_madamedelabruyere
-Si vous étiez capable de quelques goûts passagers, je vous plaindrais ; parce que les remords ne vous en laisseraient pas jouir tranquillement.
-On n'est point jaloux de ce qu'on estime véritablement.
+Vous me charmez ! Je ne vous ferai point de ces protestations, ridicules souvent ; parce qu'on ne peut pas répondre d'une faiblesse quand on est homme ; mais ces remords dont vous me parlez, m'effrayent si fort, que je me crois au-dessus de danger.
 
--*who_monsieurdelabruyere
-Vous me charmez !
-Je ne vous ferai point de ces protestations, ridicules souvent ; parce qu'on ne peut pas répondre d'une faiblesse quand on est homme ; mais ces remords dont vous me parlez, m'effrayent si fort, que je me crois au-dessus de danger.
-
--*who_madamedelabruyere
-Ayez de la confiance en moi, et nous nous aimerons toujours.
-
--*who_monsieurdelabruyere
 Dites une estime réciproque, une amitié durable nous réunira sans cesse ; le passage de l'amour à l'amitié sera insensible, et l'habitude du bonheur l'établira si vivement en nous, que rien ne pourra le détruire.
 
--*who_madamedelabruyere
-Vous me charmez chaque jour de plus en plus, oui...
-
-**** *book_ *id_I02 *act_I *date_1768
-
--*who_legrand
-Madame la Comtesse de Saint-Léger.
-
--*who_monsieurdelabruyere
 Que veut cette femme ?
 
--*who_madamedelabruyere
-Elle aurait été bien surprise, si elle nous avait entendus.
-
--*who_lacomtesse
-Madame, je suis désespérée de ne m'être pas trouvée chez moi, lorsque vous m'avez fait l'honneur d'y venir.
-
--*who_madamedelabruyere
-Il est vrai, Madame, qu'on ne vous trouve guère.
-
--*who_lacomtesse
-Oui, je sors beaucoup , pour Monsieur de la Bruyère ; on ne le voit nulle part, et depuis Fontainebleau, je ne l'ai pas rencontré une seule sois.
-
--*who_monsieurdelabruyere
 Cependant la semaine dernière à Versailles...
 
--*who_lacomtesse
-Eh mon Dieu oui, à propos, je ne sais ce que je dis.
-Madame, comment vous trouvez-vous de ce temps-là ?
-
--*who_madamedelabruyere
-Mais, Madame, assez bien.
-
--*who_lacomtesse
-Vous êtes bienheureuse, pour moi il y a des jours où je suis anéantie et si cela dure...
-À propos, Madame, aimez-vous toujours les tragédies ?
-
--*who_madamedelabruyere
-Oui, Madame, et beaucoup.
-
--*who_lacomtesse
-Vous en allez avoir une nouvelle, à et qu'on m'a dit, qui sera admirable ; j'ai fait louer une loge, parce que je n'en ai pas à ce spectacle-là, je ne le puis souffrir ; je ne vais qu'à l'Opéra et aux Italiens ; mais pour cette pièce-là, je veux absolument la voir : si vous n'aviez pas de loge, et que vous voulussiez...
-
--*who_madamedelabruyere
-Ma belle-soeur aura la sienne , Madame ; mais je ne vous en suis pas moins obligée de votre offre.
-
--*who_lacomtesse
-C'est qu'on entend parler pendant huit jours d'une pièce nouvelle, et quand on n'est pas au fait, cela ennuie à mourir.
-Les livres nouveaux par la même raison, me mettent au désespoir ; c'est la même chose.
-
--*who_madamedelabruyere
-Quoi, Madame, vous n'aimez pas la lecture ?
-
--*who_lacomtesse
-Pardonnez moi, assez, quand je travaille surtout, cela me distrait ; mais autrement cela fait perdre trop de temps : j'ai toujours du monde , je sors beaucoup et on ne peut pas suffire à tout ce que l'on a à faire.
-D'un autre côté mes voyages de Versailles...
-
--*who_monsieurdelabruyere
 Mais là, Madame, n'auriez-vous pas le temps de lire pendant vos semaines ?
 
--*who_lacomtesse
-Non vraiment , j'écris que c'est affreux !
-Et puis j'ai commencé un ouvrage charmant, je ne saurais le quitter ; j'ai déjà fini un fauteuil...
-Madame , il faut que je vous dise comment il est.
-
--*who_madamedelabruyere
-Voyons, Madame, parce que je veux faire un meuble.
-
--*who_lacomtesse
-Oh, il faut que vous fassiez le mien.
-Imaginez , Madame, un fond...
-Je ne peux pas vous bien dire...
-Ce n'est pas jaune, ce n'est pas blanc ; c'est soufre pâle, ou paille ; ou c'est paille : un ruban couleur de noisette et bleu, qui entoure un faisceau de roses, qui fait la bordure ; le milieu, des pavots et des lys, avec des grenades et des instruments de musique.
-
--*who_madamedelabruyere
-Cela doit être superbe !
-
--*who_lacomtesse
-Vous imaginez bien ?
-
--*who_monsieurdelabruyere
 Et vous vous assoirez sur des instruments de musique ?
 
--*who_lacomtesse
-Oui vraiment.
-Mais à propos, vous avez raison, cela est absurde !
-Allons me voilà dégoûtée de mon meuble, je ne l'achèverai pas.
-Ah ça, je m'en vais voir Madame votre soeur.
-
--*who_madamedelabruyere
-Eh bien, passez par ici.
-
--*who_lacomtesse
-Voulez-vous bien, Madame ?
-
--*who_madamedelabruyere
-Sans doute, c'est plus court.
-
--*who_lacomtesse
-Ah, mon Dieu !
-J'oubliais, j'ai une affaire à vous, Monsieur de la Bruyère ; c'est, même ce qui m'a fait sortir de bonne heure ; parce que plus tard je craignais de ne pas vous trouver.
-
--*who_monsieurdelabruyere
 Voulez-vous bien me dire ce que c'est ?
 
--*who_lacomtesse
-C'est une persécution ; mais vous n'en ferez que ce que vous voudrez.
+Pourquoi ? Si cela vous intéresse, je serai charmé...
 
--*who_monsieurdelabruyere
-Pourquoi ?
-Si cela vous intéresse, je serai charmé...
-
--*who_lacomtesse
-Vraiment cela m'intéresse beaucoup ; c'est-à-dire comme cela ; c'est mon oncle qui me tourmente pour faire placer le fils de son receveur, un joli sujet, il est là dans votre antichambre.
-
--*who_monsieurdelabruyere
 Voulez-vous que je le fasse entrer ?
 
--*who_lacomtesse
-Fi donc !
-Mon oncle prétend que vous avez des Bureaux ; j'ai son mémoire quelque part, voyons dans mon sac ; bon !
-Je l'ai laissé chez moi.
-Enfin je lui dirai que je vous en ai parlé ; m'en voilà quitte.
-
--*who_monsieurdelabruyere
 Mais si je pouvais...
 
--*who_lacomtesse
-Non, je ne veux pas vous tourmenter davantage là-dessus.
-Madame, vous voulez donc bien que je passe par là ?
-
--*who_madamedelabruyere
-Pour cela sûrement.
-
--*who_lacomtesse
-Je reviendrai par ici, ainsi je vous verrai en sortant.
-
--*who_madamedelabruyere
-Je l'espère bien.
-
--*who_lacomtesse
-Où voulez-vous donc aller, Monsieur de la Bruyère ?
-Ah ça, je dirai à mon oncle que cela ne se peut pas ; me voilà débarrassée.
-Restez donc là, je vous prie.
-
--*who_monsieurdelabruyere
 Puisque vous le voulez...
 
--*who_lacomtesse
-Sans doute, sans doute.
-
-**** *book_ *id_I03 *act_I *date_1768
-
--*who_madamedelabruyere
-Voilà un homme bien recommandé.
-
--*who_monsieurdelabruyere
 Comment voulez-vous que cela soit autrement, avec une femme comme celle-là ?
 
--*who_madamedelabruyere
-C'est inconcevable tout ce qu'elle dit.
-Mais cet homme-là, la croit fort occupée de son affaire.
-
--*who_monsieurdelabruyere
 Sûrement.
 
--*who_madamedelabruyere
-Tenez, cela me fait de la peine ; c'est peut-être quelque malheureux qui n'a aucune ressource.
-
--*who_monsieurdelabruyere
 Cela ne serait pas étonnant, il y a tant de gens qui meurent de faim.
 
--*who_madamedelabruyere
-Monsieur, si vous pouviez faire quelque chose pour lui.
-
--*who_monsieurdelabruyere
 Mais je ne le connais pas.
 
--*who_madamedelabruyere
-C'est peut-être réellement un bon sujet, voyez-le.
-
--*who_monsieurdelabruyere
 Il peut être bon sujet ; mais il faut qu'il sache travailler,
 
--*who_madamedelabruyere
-Avez-vous une place à donner ?
-
--*who_monsieurdelabruyere
 Oui, j'en ai une.
 
--*who_madamedelabruyere
-Eh bien, parlez-lui, vous jugerez facilement de quoi il est capable.
-S'il n'avait pas compté sur Madame de Saint-Léger, il aurait trouvé quelqu'un qui l'aurait mieux protégé, ne m'ôtez pas cette satisfaction.
-
--*who_monsieurdelabruyere
 Ah, mon Dieu, de tout mon coeur.
 
--*who_madamedelabruyere
-Je voudrais que vous puissiez faire quelque chose pour lui ; quand ce ne serait que pour faire sentir à la Comtesse, que quand on ne fait pas mieux les affaires dont on se charge, on ne devrait pas s'en mêler ; et qu'on y fait plus de tort que de bien.
-
--*who_monsieurdelabruyere
 Je m'en vais le faire entrer.
 
-**** *book_ *id_I04 *act_I *date_1768
-
--*who_monsieurdelabruyere
 N'y a-t-il pas quelqu'un là-dedans qui attend Madame de Saint-Léger ?
 
--*who_legrand
-Oui, Monsieur.
-
--*who_monsieurdelabruyere
 Faites-le entrer.
 
--*who_legrand
-Monsieur, donnez-vous la peine d'entrer.
-
-**** *book_ *id_I05 *act_I *date_1768
-
--*who_monsieurdelabruyere
 C'est de vous, Monsieur, que Madame de Saint-Léger m'a parlé ?
 
--*who_monsieurdumont
-Oui, Monsieur.
+Oui. Mais, Monsieur, qu'est-ce que vous voudriez avoir ?
 
--*who_madamedelabruyere
-Il a l'air d'un honnête homme.
-
--*who_monsieurdelabruyere
-Oui.
-Mais, Monsieur, qu'est-ce que vous voudriez avoir ?
-
--*who_monsieurdumont
-Est-ce que Madame la Comtesse de Saint-Léger, Monsieur, ne vous a pas donné mon mémoire ?
-
--*who_monsieurdelabruyere
 Non vraiment, elle l'avait oublié.
 
--*who_madamedelabruyere
-Si vous en avez un , Monsieur, donnez-le, ou dites vous-même votre affaire.
-
--*who_monsieurdumont
-Si Monsieur veut se donner la peine de lire, voilà la copie du mémoire que j'avais fait.
-
--*who_monsieurdelabruyere
 Voyons.
 Quoi, c'est vous qui travaillez dans les domaines ?
 
--*who_monsieurdumont
-Oui, Monsieur.
-
--*who_monsieurdelabruyere
 On vous avait desservi ?
 
--*who_monsieurdumont
-Monsieur....
-
--*who_madamedelabruyere
-Dites naturellement ; il est tout simple de se plaindre ; c'est une consolation qu'on ne doit pas se refuser.
-
--*who_monsieurdumont
-Si on le pouvait, sans faire tort à ceux dont on a à se plaindre, je crois que cela pourrait être permis.
-
--*who_madamedelabruyere
-Voilà une façon de penser très honnête.
-
--*who_monsieurdelabruyere
 Tenez, Monsieur Dumont, vous aviez une si bonne réputation, que je vous ai fait chercher partout ; je vous ai demandé à Monsieur de la Bonde, il m'a dit qu'il ne savait ce que vous étiez devenu.
 
--*who_monsieurdumont
-Je le crois bien, Monsieur ; c'est lui qui m'a perdu.
-
--*who_madamedelabruyere
-Et comment cela ?
-
--*who_monsieurdumont
-J'avais eu se bonheur de plaire à Monsieur de Rondière chez qui se tient le Bureau...
-
--*who_monsieurdelabruyere
 Il m'a beaucoup parlé de vous, Monsieur de Rondière, c'était ce qui m'avait donné envie de vous avoir.
 
--*who_madamedelabruyere
+Et moi aussi, et je vais vous le prouver.
+
+Vous êtes folle. Je suis trop heureux de pouvoir avoir Monsieur Dumont, s'il le veut bien.
+
+Non.
+
+Parce qu'elle n'est pas assez bonne ; mais comme mon Secrétaire est vieux et qu'il a besoin de se reposer, voilà la place que je lui offre : il me faut quelqu'un de confiance, et je crois que je ne peux pas mieux choisir.
+
+Et je pense même, que pour qu'il puisse continuer de rendre à sa mère tous ses soins, sans se détourner, nous pourrions lui donner ici un logement.
+
+Je suis charmé que nous ayons eu la même idée.
+
+Si vous sollicitez aussi bien que pour les autres, vous devez être sûr de réussir.
+
+C'est une chose à examiner.
+
+Ne vous donnez pas cette peine-là. Envoyez-les à Monsieur Dumont ; c'est lui qui a cette partie-là actuellement et si ce que vous demandez est juste, je ne doute pas qu'il ne fasse valoir vos intérêts.
+
+Mais...
+
+Vous étiez là en bonnes mains, Monsieur Dumont.
+
+Vous n'en avez qu'à votre mérite. Ne parlons plus de cela. Demain matin, je vous verrai ?
+
+Tranquillisez-vous, ce quelqu'un ne sera pas à plaindre, il vous connaît de réputation, et il sera sûrement votre ami.
+
+Je n'ai pas pû m'empêcher de la renvoyer pour son affaire à Monsieur Dumont.
+
+Cela m'a diverti, je l'avoue.
+
+Je vous réponds que c'est un très bon sujet que cet homme-là.
+
+Où soupez-vous ce soir ?
+
+Un peu tard, et je vous remmènerai.
+
+Vous êtes bien contente.
+
+
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelabruyere
+
+Qui est là ?... Ah, c'est vous, Monsieur.
+
+Vous me voyez dans le plus grand attendrissement.
+
+Oui, celui-ci est charmant !
+
+Vous le croyez, et vous n'en avez peut-être jamais lu.
+
+Je ne trouve pas cela. Quand des gens vraiment vertueux éprouvent des malheurs qu'ils pourraient faire cesser, s'ils étaient capables de renoncer à l'honneur, à la vertu ; ces situations sont si intéressantes, si touchantes, que je voudrais connaître ces malheureux, pour pouvoir les consoler, adoucir leurs maux , les partager ; ce désir est une jouissance délicieuse !
+
+À quoi bon me flatter ? Je suis bien-aise que vous ayez bonne opinion de moi, certainement ; mais convenez que vous seriez fâché de me voir de l'orgueil ?
+
+Et moi, je craindrais d'être toute prête d'en avoir, étant louée par vous.
+
+Ah, parce que lorsque l'on aime , on peut s'aveugler sur l'objet de son amour, et en lui supposant une perfection aussi grande, on peut l'empêcher d'acquérir la véritable. Quand on est bien content de soi, on est bien près de mériter de ne plus l'être.
+
+Mon Dieu, l'on est si récompensé de faire le bien ; on goûte une si grande satisfaction, qu'il n'y a pas un grand mérite à s'en occuper.
+
+Vous parlez en homme d'État, ainsi chacun de nous fait son métier.
+
+Comment ne serais-je pas occupée de plaire à l'homme que j'aime et que j'estime le plus ? Notre bonheur commun dépend de nous ; vous pensez assez solidement pour fuir les gens frivoles, légers ou perfides ; comment ne les haïrais-je pas, et comment pourrais-je les craindre ? L'amour ne se trouve pas toujours avec l'estime ; mais quand ils sont réunis, rien ne peut détruire un attachement de cette espèce.
+
+Si vous étiez capable de quelques goûts passagers, je vous plaindrais ; parce que les remords ne vous en laisseraient pas jouir tranquillement. On n'est point jaloux de ce qu'on estime véritablement.
+
+Ayez de la confiance en moi, et nous nous aimerons toujours.
+
+Vous me charmez chaque jour de plus en plus, oui...
+
+Elle aurait été bien surprise, si elle nous avait entendus.
+
+Il est vrai, Madame, qu'on ne vous trouve guère.
+
+Mais, Madame, assez bien.
+
+Oui, Madame, et beaucoup.
+
+Ma belle-soeur aura la sienne , Madame ; mais je ne vous en suis pas moins obligée de votre offre.
+
+Quoi, Madame, vous n'aimez pas la lecture ?
+
+Voyons, Madame, parce que je veux faire un meuble.
+
+Cela doit être superbe !
+
+Eh bien, passez par ici.
+
+Sans doute, c'est plus court.
+
+Pour cela sûrement.
+
+Je l'espère bien.
+
+Voilà un homme bien recommandé.
+
+C'est inconcevable tout ce qu'elle dit. Mais cet homme-là, la croit fort occupée de son affaire.
+
+Tenez, cela me fait de la peine ; c'est peut-être quelque malheureux qui n'a aucune ressource.
+
+Monsieur, si vous pouviez faire quelque chose pour lui.
+
+C'est peut-être réellement un bon sujet, voyez-le.
+
+Avez-vous une place à donner ?
+
+Eh bien, parlez-lui, vous jugerez facilement de quoi il est capable. S'il n'avait pas compté sur Madame de Saint-Léger, il aurait trouvé quelqu'un qui l'aurait mieux protégé, ne m'ôtez pas cette satisfaction.
+
+Je voudrais que vous puissiez faire quelque chose pour lui ; quand ce ne serait que pour faire sentir à la Comtesse, que quand on ne fait pas mieux les affaires dont on se charge, on ne devrait pas s'en mêler ; et qu'on y fait plus de tort que de bien.
+
+Il a l'air d'un honnête homme.
+
+Si vous en avez un , Monsieur, donnez-le, ou dites vous-même votre affaire.
+
+Dites naturellement ; il est tout simple de se plaindre ; c'est une consolation qu'on ne doit pas se refuser.
+
+Voilà une façon de penser très honnête.
+
+Et comment cela ?
+
 Laissez-le donc achever, Monsieur.
 
--*who_monsieurdumont
-Eh bien, Monsieur de la Bonde a profité de trois jours, que je n'ai pas pu quitter ma mère, qui était à toute extrémité, pour me faire ôter mon emploi.
+C'est affreux ! Et est- elle un peu à son aise, Madame votre mère ?
 
--*who_madamedelabruyere
-C'est affreux !
-Et est- elle un peu à son aise, Madame votre mère ?
-
--*who_monsieurdumont
-Ah, Madame ; c'est là ce qui cause mon désespoir !
-Avec mon emploi je l'aidais à vivre, et je comptais en augmentant d'appointements pouvoir mieux la soulager encore, et l'on m'a ôté toutes mes ressources !
-
--*who_madamedelabruyere
 Monsieur, est-ce que cela ne vous touche pas ?
 Et est-elle guérie du moins ?
 
--*who_monsieurdumont
-Non, Madame : de cette maladie elle est devenue aveugle, et mon malheur l'a accablée de chagrin.
-Je vous demande bien pardon de vous exposer tout cela ; mais je ne l'aurais jamais fait, si votre bonté ne m'avait rassuré, sans m'humilier.
-
--*who_madamedelabruyere
 J'aime beaucoup votre façon, de sentir, et de penser, Monsieur Dumont.
 
--*who_monsieurdelabruyere
-Et moi aussi, et je vais vous le prouver.
-
--*who_madamedelabruyere
 Ah, Monsieur, que je vous en aurai d'obligation !
 
--*who_monsieurdelabruyere
-Vous êtes folle.
-Je suis trop heureux de pouvoir avoir Monsieur Dumont, s'il le veut bien.
-
--*who_monsieurdumont
-Monsieur, je suis pénétré de reconnaissance...
-
--*who_madamedelabruyere
 Vous lui donnez donc la place que vous avez ?
 
--*who_monsieurdelabruyere
-Non.
-
--*who_madamedelabruyere
 Ah, pourquoi ?
 
--*who_monsieurdelabruyere
-Parce qu'elle n'est pas assez bonne ; mais comme mon Secrétaire est vieux et qu'il a besoin de se reposer, voilà la place que je lui offre : il me faut quelqu'un de confiance, et je crois que je ne peux pas mieux choisir.
-
--*who_madamedelabruyere
 Ah, Monsieur, vous me faites un plaisir !...
 
--*who_monsieurdelabruyere
-Et je pense même, que pour qu'il puisse continuer de rendre à sa mère tous ses soins, sans se détourner, nous pourrions lui donner ici un logement.
-
--*who_madamedelabruyere
 Assurément, j'allais vous le proposer, vous m'avez prévenue.
 
--*who_monsieurdelabruyere
-Je suis charmé que nous ayons eu la même idée.
-
--*who_madamedelabruyere
 Monsieur Dumont, qu'avez-vous ?
 
--*who_monsieurdumont
-Madame, je suis si saisi d'étonnement, d'admiration, que tout mon regret est de ne pouvoir pas vous témoigner ma reconnaissance, comme je le désire...
-
-**** *book_ *id_I06 *act_I *date_1768
-
--*who_monsieurdumont
-Ah, Madame la Comtesse !...
-
--*who_lacomtesse
-Eh bien, pourquoi donc êtes-vous entré ici ?
-
--*who_monsieurdumont
-Ah, Madame !...
-Je ne puis pas parler ....
-
--*who_lacomtesse
-Mais, Monsieur, ce n'est pas ma faute si vous n'avez pas réussi, vous demandez une chose impossible, Monsieur de la Bruyère doit vous l'avoir dit, je lui ai donné votre mémoire.
-
--*who_monsieurdumont
-Mais...
-
--*who_lacomtesse
-Je vous dis que j'ai fait l'impossible : vous direz à mon oncle, que ce n'est pas ma faute.
-
--*who_monsieurdumont
-Je n'y comprends rien : quoi, ce n'est pas à vous, Madame, que je dois le bonheur qui m'arrive ?
-
--*who_lacomtesse
-Quel bonheur donc ?
-Je crains que la tête ne lui ai tourné, il faut le renvoyer.
-Allons, en voilà assez.
-
--*who_madamedelabruyere
 Non, Madame, la tête ne lui a pas tourné ; mais il faut vous avouer ce qui est arrivé.
 
--*who_lacomtesse
-Quoi, réellement lui auriez-vous donné l'emploi que je demandais pour lui ?
-J'en serais charmé; c'est un très honnête garçon à qui je m'intéresse vivement et vous ne sauriez me faire un plus grand plaisir.
-
--*who_madamedelabruyere
 La manière dont vous vous y intéressez, Madame, m'a fait faire quelques réflexions et c'est moi qui ai engagé Monsieur de la Bruyère à le voir.
 
--*who_lacomtesse
-Madame , je vous en fais tous mes remerciements.
-
--*who_madamedelabruyere
 Madame, vous ne nous en devez aucun ; et c'est son mérite qui a déterminé Monsieur de la Bruyère en sa faveur.
 
--*who_lacomtesse
-Si je n'avais pas su ce qu'il valait, je ne vous en aurais pas parlé non plus.
-Mon Oncle viendra sûrement vous remercier.
-À propos, Monsieur de la Bruyère, j'ai à vous solliciter pour moi-même.
-
--*who_monsieurdelabruyere
-Si vous sollicitez aussi bien que pour les autres, vous devez être sûr de réussir.
-
--*who_lacomtesse
-Vous plaisantez toujours : mais je vous en prie, écoutez moi.
-J'ai un échange à proposer au Roi, d'une partie de terre qui pourrait lui convenir en me cédant une autre portion de domaines, qui m'agrandirait et rendrait ma terre bien plus agréable.
-Me ferez-vous ce plaisir-là ?
-
--*who_monsieurdelabruyere
-C'est une chose à examiner.
-
--*who_lacomtesse
-Eh bien, je vous apporterai tous mes papiers un de ces jours.
-
--*who_monsieurdelabruyere
-Ne vous donnez pas cette peine-là.
-Envoyez-les à Monsieur Dumont ; c'est lui qui a cette partie-là actuellement et si ce que vous demandez est juste, je ne doute pas qu'il ne fasse valoir vos intérêts.
-
--*who_lacomtesse
-Monsieur Dumont ?
-Je ne le connais pas.
-
--*who_madamedelabruyere
 Il est pourtant devant vous, Madame ; mon mari le prend pour Secrétaire.
 
--*who_lacomtesse
-Quoi, Monsieur ?
-Ah !
-Mais ; j'en suis ravie !
-Monsieur Dumont, je vous recommande mon affaire au moins ; j'espère qu'à la considération de mon oncle, vous voudrez bien la rapporter favorablement.
-
--*who_monsieurdumont
-Madame, je serai trop heureux de pouvoir vous prouver combien je suis reconnaissant de toutes vos bontés.
-
--*who_lacomtesse
-Ne parlons pas de cela.
-Madame, vous ne vous ne voulez donc pas de ma loge pour la pièce nouvelle ?
-
--*who_madamedelabruyere
 Madame, sans mes engagements, j'en profiterais avec grand plaisir.
 
--*who_lacomtesse
-Je m'enfuis, j'ai tout plein de visites à faire ; je suis charmée d'avoir eu l'honneur de vous trouver.
-Où allez-vous donc ?
-Je vous en prie.
-
--*who_madamedelabruyere
 Puisque vous me le défendez absolument...
 
--*who_lacomtesse
-Vous vous moquez de moi.
-Allons, Monsieur de la Bruyère, n'allez-vous pas encore vouloir me conduire aussi ?
+Ah, d'une jolie manière ! Elle vous avait bien recommandé.
 
--*who_monsieurdelabruyere
-Mais...
-
--*who_lacomtesse
-Non, je veux que vous restiez.
-Monsieur Dumont, je me recommande à vous.
-J'espère que vous viendrez nous voir ?
-
--*who_monsieurdumont
-Madame , j'aurai l'honneur de vous aller remercier.
-
-**** *book_ *id_I07 *act_I *date_1768
-
--*who_monsieurdelabruyere
-Vous étiez là en bonnes mains, Monsieur Dumont.
-
--*who_monsieurdumont
-Quoi, Monsieur, est-ce que Madame la Comtesse ne vous avait pas parlé en ma faveur ?
-
--*who_madamedelabruyere
-Ah, d'une jolie manière !
-Elle vous avait bien recommandé.
-
--*who_monsieurdumont
-Je sens bien plus les obligations...
-
--*who_monsieurdelabruyere
-Vous n'en avez qu'à votre mérite.
-Ne parlons plus de cela.
-Demain matin, je vous verrai ?
-
--*who_monsieurdumont
-Oui, Monsieur, j'aurai cet honneur là.
-Mais j'ai un scrupule, je crains d'ôter une place à quelqu'un qui vaut sûrement mieux que moi.
-
--*who_monsieurdelabruyere
-Tranquillisez-vous, ce quelqu'un ne sera pas à plaindre, il vous connaît de réputation, et il sera sûrement votre ami.
-
--*who_madamedelabruyere
 Nous vous montrerons aussi demain l'établissement de Madame votre mère.
 
--*who_monsieurdumont
-Je ne sais si je veille, tant je suis étonné de tout ce qui m'arrive ; mais je suis bien sûr du plaisir que je vais faire à ma mère et de tous les efforts que je ferai pour mériter toute ma vie au tant de bontés.
-
-**** *book_ *id_I08 *act_I *date_1768
-
--*who_madamedelabruyere
 Je me suis un peu réjouie de l'embarras de la Comtesse.
 
--*who_monsieurdelabruyere
-Je n'ai pas pû m'empêcher de la renvoyer pour son affaire à Monsieur Dumont.
-
--*who_madamedelabruyere
 Oui, dont elle ne savait seulement pas le nom.
 
--*who_monsieurdelabruyere
-Cela m'a diverti, je l'avoue.
-
--*who_madamedelabruyere
 Ce qu'il y a de sûr, c'est que voilà une bien bonne journée pour moi.
 
--*who_monsieurdelabruyere
-Je vous réponds que c'est un très bon sujet que cet homme-là.
-
--*who_madamedelabruyere
 Je l'aurais juré en le voyant.
 
--*who_monsieurdelabruyere
-Où soupez-vous ce soir ?
+Chez ma mère. Y viendrez-vous ?
 
--*who_madamedelabruyere
-Chez ma mère.
-Y viendrez-vous ?
+En ce cas-là, je renverrai mes chevaux. À ce soir, je vais m'habiller. Adieu, Monsieur.
 
--*who_monsieurdelabruyere
-Un peu tard, et je vous remmènerai.
-
--*who_madamedelabruyere
-En ce cas-là, je renverrai mes chevaux.
-À ce soir, je vais m'habiller.
-Adieu, Monsieur.
-
--*who_monsieurdelabruyere
-Vous êtes bien contente.
-
--*who_madamedelabruyere
 Oh pour cela oui.
+
+
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdumont
+
+Oui, Monsieur.
+
+Est-ce que Madame la Comtesse de Saint-Léger, Monsieur, ne vous a pas donné mon mémoire ?
+
+Si Monsieur veut se donner la peine de lire, voilà la copie du mémoire que j'avais fait.
+
+Oui, Monsieur.
+
+Monsieur....
+
+Si on le pouvait, sans faire tort à ceux dont on a à se plaindre, je crois que cela pourrait être permis.
+
+Je le crois bien, Monsieur ; c'est lui qui m'a perdu.
+
+J'avais eu se bonheur de plaire à Monsieur de Rondière chez qui se tient le Bureau...
+
+Eh bien, Monsieur de la Bonde a profité de trois jours, que je n'ai pas pu quitter ma mère, qui était à toute extrémité, pour me faire ôter mon emploi.
+
+Ah, Madame ; c'est là ce qui cause mon désespoir ! Avec mon emploi je l'aidais à vivre, et je comptais en augmentant d'appointements pouvoir mieux la soulager encore, et l'on m'a ôté toutes mes ressources !
+
+Non, Madame : de cette maladie elle est devenue aveugle, et mon malheur l'a accablée de chagrin. Je vous demande bien pardon de vous exposer tout cela ; mais je ne l'aurais jamais fait, si votre bonté ne m'avait rassuré, sans m'humilier.
+
+Monsieur, je suis pénétré de reconnaissance...
+
+Madame, je suis si saisi d'étonnement, d'admiration, que tout mon regret est de ne pouvoir pas vous témoigner ma reconnaissance, comme je le désire...
+
+Ah, Madame la Comtesse !...
+
+Ah, Madame !... Je ne puis pas parler ....
+
+Mais...
+
+Je n'y comprends rien : quoi, ce n'est pas à vous, Madame, que je dois le bonheur qui m'arrive ?
+
+Madame, je serai trop heureux de pouvoir vous prouver combien je suis reconnaissant de toutes vos bontés.
+
+Madame , j'aurai l'honneur de vous aller remercier.
+
+Quoi, Monsieur, est-ce que Madame la Comtesse ne vous avait pas parlé en ma faveur ?
+
+Je sens bien plus les obligations...
+
+Oui, Monsieur, j'aurai cet honneur là. Mais j'ai un scrupule, je crains d'ôter une place à quelqu'un qui vaut sûrement mieux que moi.
+
+Je ne sais si je veille, tant je suis étonné de tout ce qui m'arrive ; mais je suis bien sûr du plaisir que je vais faire à ma mère et de tous les efforts que je ferai pour mériter toute ma vie au tant de bontés.
+

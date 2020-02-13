@@ -1,6 +1,6 @@
 ---
 identifier: moliere_amantsmagnifiques  
-creator: Molière  
+creator: Molière.  
 date: 1670  
 title: Les Amants magnifiques. Comédie  
 ---
@@ -1606,9 +1606,9 @@ Quand on ne le voit pas.
 Poussons à sa Mémoire  
 Des concerts si touchants,  
 Que du haut de sa gloire  
-Il écoute nos chants.  < PREMIÈRE ENTRÉE DE BALLET. >
+Il écoute nos chants.  < PREMIÈRE ENTRÉE DE BALLET. >< DEUXIÈME ENTRÉE DE BALLET. >
 Les six hommes portant les haches, font entre eux une danse ornée de toutes les attitudes que peuvent exprimer des gens qui étudient leur force, puis ils se retirent aux deux côtés du Théâtre pour faire place à six Voltigeurs.
-< DEUXIÈME ENTRÉE DE BALLET. >
+
 Six Voltigeurs font paraître en cadence leur adresse sur des chevaux de bois, qui sont apportés par des Esclaves.
 < TROISIÈME ENTRÉE DE BALLET. >
 Quatre Conducteurs d'Esclaves amènent en cadence douze Esclaves qui dansent, en marquant la joie qu'ils ont, d'avoir recouvré leur liberté.

@@ -1,481 +1,20 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
 
--*who_pan
-Que vois-je ?
-C'est le charmant dieu du raisin,
-Il paraît en pointe de vin
-Fils de Sémélé, quelle affaire
-Vous conduit sur le mont Latmos ?
-Sous cet ombrage solitaire
-Venez-vous chercher le repos ?
-
--*who_bacchus
-Quoi, le dieu Pan !
-Le dieu des forêts ne sait pas ce qui se passe ici dans le sein de son empire ?
-
--*who_pan
-C'est que depuis un mois ou deux je me trouve souvent à Paris.
-
--*who_bacchus
-Quoi !
-Vous ignorez encore que Pluton est amoureux dans ces bois ?
-
--*who_pan
-Pluton amoureux !
-Cela ne lui sied pas, il ferait bien mieux d'aller chercher l'Indifférence à l'Opéra !
-
--*who_bacchus
-L'Indifférence !
-Eh ! Que fait-elle là ?
-Mon cher, je pense,
-Vous inventez cela !
-Que venez-vous conter ? Qui diantre songera.
-Avec tant de prudence
-De mettre à l'Opéra
-L'Indifférence ?
-
--*who_pan
-Eh !
-Quelle est, s'il vous plaît, l'enchanteresse qui a métamorphosé Pluton si prodigieusement ?
-
--*who_bacchus
-Vous ne le devineriez jamais : c'est la régulière Diane.
-
--*who_pan
-Comment le savez-vous ?
-
--*who_bacchus
-La découverte de ce secret ne nous a pas beaucoup coûté : un faune curieux l'a surpris en rodant sous cet ombrage, ce faune l'a dit à Cérès, la maman Cérès n'a pas manqué de le rapporter à sa fille Proserpine qui a eu la discrétion de ne s'en plaindre qu'à Mercure dans le temps qu'il conduisait la dernière caravane des trépassés et Mercure à son retour n'en a fait confidence qu'à tous les dieux.
-
--*who_pan
-Cette nouvelle n'a pas dû les ennuyer, Pluton amoureux !
-Je n'en reviens pas.
-
--*who_bacchus
-Tout l'Olympe en est réjoui
-J'en avons tant ri
-
--*who_pan
-Ma foi Pluton pour ce coup-ci
-Mérite l'ellébore
-
--*who_bacchus
-J'en avons tant ri
-J'en rirons bien encore
-
--*who_pan
-J'approuve vos bonnes intentions.
-
--*who_bacchus
-Et pour les bien remplir presque tous les dieux se sont donné aujourd'hui un rendez-vous général sur le Mont Latmos ; nous savons que Pluton doit y chercher Diane, nous avons formé le dessein de les surprendre et de les régaler d'une espèce de charivari.
-
--*who_pan
-Vous vous arrangez à miracle,
-On ne peut pas vous critiquer !
-Oh ! j'en jouirai !
-L'Enfer galant est un spectacle
-Que je ne prétends pas manquer !
-Comme les autres j'en veux rire
-Ta la lerita la retita la lerire.
-
--*who_bacchus
-Ce C'en n'est pas trop à vous d'en rire,
-Ta la lerita la retita la lerire
-Dans le faubourg Saint-Germain
-Sur le théâtre romain
-Vous avez certaine intrigue ;
-
--*who_pan
-Mon acte a fort plu, vraiment.
-Il a réussi sans brigue.
-
--*who_bacchus
-Oui, mais solidairement.
-
--*who_pan
-Oh ! Que vous êtes pointilleux !
-Est-ce que je n'ai pas de la voix ?
-Est-ce que Doris ne chante pas joliment ?
-
--*who_bacchus
-Ma foi sans L'Avare amoureux.
-Landeritte
-Pan vous auriez en vérité
-Bien déchanté.
-
--*who_pan
-Vous ne vous connaissez pas qu'en gosiers de buveurs.
-Adieu, je vais chercher Doris, je veux qu'elle ait sa part dans la fête d'aujourd'hui.
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_bacchus
-Ceci ne commence pas mal ; Pan se mêle de vouloir faire le goguenard
-On peut juger du reste
-Par cet échantillon.
-Je prévois, malepeste,
-Qu'il viendra sur ce mont
-Bien des dieux sans cervelle,
-Et de qui sans façon
-On peut dire la pelle
-Se moque du fourgon.
-Exemplum ut talpa, j'aperçois la Muse de la tragédie.
-
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_bacchus
-Eh bien !
-Grave Melpomène, vous venez donc en cothurne à une partie bouffonne ?
-Mais...
-Comment gouvernez-vous Linus,
-Ce digne fils du blond Phébus ?
-D'une humeur si doucette,
-Je crois que cet amant chéri
-Doit être un bon mari !
-
--*who_melpomene
-Aussi l'est-il.
-
--*who_bacchus
-Et bien lui en prend, car je ne vous trouve pas aisée à vivre !
-Le pauvre Linus saurait bien qu'en dire.
-Vous lui fîtes une avanie
-Sur le chapitre d'Uranie
-
--*who_melpomene
-Oh ! je le croyais dans ce jour...
-
--*who_bacchus
-Toure loure, loure loure, loure loure loure lour.
-
--*who_melpomene
-Oh ! Je le croyais dans ce jour
-Fripon au jeu d'amour.
-
--*who_bacchus
-Vous êtes un peu trop prompte à soupçonner les bonnes gens.
-
--*who_melpomene
-Comment ?
-Je verrais de loin mon amant aux genoux d'une belle et ne soufflerais pas !
-
--*who_bacchus
-Mais !
-Ce que vous preniez pour un rendez-vous n'était qu'une consultation.
-Linus interrogeait Uranie sur votre mariage !
-
--*who_melpomene
-Il prenait là trop de soin !
-
--*who_bacchus
-Je le conjecture.
-
--*who_melpomene
-Aimé de moi, quel besoin
-Qu'on lui dise dans un coin
-Sa bonne aventure ô gué
-Sa bonne aventure ?
-
--*who_bacchus
-Au fond, vous n'avez pas absolument tort.
-Linus parlait d'astrologie
-Mais qui diantre devinerait
-Que seul avec fille jolie
-Des astres on s'entretiendrait ?
-
--*who_melpomene
-Oublions cela Je sens que ce discours rallumerait ma colère.
-Mais plus de querelle, je vais rejoindre mon tendre Linus qui s'est écarté un moment dans ce bois pour me composer une élégie.
-
--*who_bacchus
-Une élégie !
-Par vous en fut-il prié ?
-Son refus devrait vous plaire !
-Lorsqu'un nouveau marié
-S'amuse à rimer ma chère
-Aïe, aïe, aïe
-Il pourrait mieux faire
-Ma chère, aïe, aïe, aïe.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_bacchus
-Je ne m'y connais guère
-En mari fait à l'ordinaire.
-Pour les poètes, je sais bien
-Qu'en ménage ils ne valent rien.
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_bacchus
-À propos de poètes, voici leur beau directeur, d'où vient que la jeune Hébé l'accompagne ?
-
--*who_apollon
-Elle m'a prié de la conduire dans ce bois ; il est question de turlupiner un vieux galant, ceci est de sa compétence
-
--*who_hebe
-C'est mon métier
-Que de me divertir sans cesse
-C'est mon métier
-De ne point faire de quartier
-Laissons radoter la vieillesse
-Rire sied bien à la jeunesse.
-C'est mon métier.
-
--*who_bacchus
-Passe pour vous, folâtre Hébé, mais Apollon ne devrait pas46, lui, être si enclin à dauber sur les amants malheureux ; ne se souvient-il déjà plus de Daphné et de Coronis ?
-Jamais il n'a fait fortune
-Dans l'empire de Vénus.
-
--*who_apollon
-Point d'apostrophe importune
-Doucement, Seigneur Bacchus !
-
--*who_hebe
-Vous n'avez pas le vin tendre.
-
--*who_bacchus
-De quoi se plaint Apollon,
-Oserait-il se prétendre
-Aussi galant que Pluton ?
-
--*who_apollon
-Non assurément je ne prétends pas cela.
-Je conviens que tout cède aujourd'hui à Pluton en fait de galanterie.
-En aimant Diane il surprend,
-Sur les sentiments il raffine.
-
--*who_hebe
-Oh ! Qu'il était bien différent
-Quand il enleva Proserpine !
-C'était un amant très mal né,
-Il s'est depuis façonné
-Venez blond Phébus, il me tarde de voir Pluton faire l'amour en berger, cela doit être drôle.
-
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_bacchus
-La petite a raison, il est temps que j'aille me cacher dans les bois ainsi que font tous les dieux qui s'y rendent Mais quelle est cette venue ?
-Eh !
-C'est Vénus en grand deuil !
-Ceci mérite attention.
-Bonjour aimable souveraine de Paphos.Êtes-vous en noir par affliction ou par coquetterie ?
-
--*who_venus
-Hélas !
-
--*who_bacchus
-Pour qui ces crêpes sont-ils mis ?
-Çà parlez, soyez franche
-Voulez-vous pleurer Adonis
-Ou paraître plus blanche ?
-A présent tout est en replis
-Tout est indéchiffrable
-Du deuil, des coeurs, des habits
-L'équivoque est semblable.
-
--*who_venus
-Bacchus ! Ne badinez pas
-Sur ma perte trop cruelle,
-Adonis est mort hélas !
-Et moi je suis immortelle.
-
--*who_bacchus
-Eh !
-Tant mieux, vous aurez le temps de vous retourner !
-
--*who_venus
-Perfide Mars, quelle indignité !
-Avoir fait tuer par un vilain sanglier un des plus jolis hommes du monde.
-
--*who_bacchus
-Cette mort-là, certainement,
-Ne peut être honorablement
-Mise dans la gazette.
-
--*who_venus
-Eh ! L'on ne l'oubliera jamais
-Et j'en ferai les frais.
-Oui, je vais instituer des jeux funèbres en l'honneur d'Adonis qui seront célébrés dans la Grèce, dans l'Egypte, dans la Syrie.
-
--*who_bacchus
-En attendant ces anniversaires-là
-Mettez, pour augmenter encor
-Vos pompes douloureuses,
-Les Grâces en ras de Saint-Maur
-Et l'Amour en pleureuses.
-
--*who_venus
-Ce qui me pique le plus, c'est que cette funeste mort est l'ouvrage de mon imprudence.
-Je savais que Mars venait pour me surprendre clandestinement avec son rival.
-Ah ! Je devais plus promptement
-Envoyer chasser mon amant
-Le congédier brusquement.
-Mais quand on nous cajole
-Nous perdons bientôt le jugement.
-Une femme est si folle
-Vraiment
-Une femme est si folle.
-
--*who_bacchus
-Il le faut avouer, le retardement d'Adonis n'était pas trop sage et ses chasseurs n'étaient pas plus raisonnables que lui, de s'amuser à danser quand ils avaient un sanglier furieux à courir.
-Avaient-ils peur de n'être pas assez fatigués ?
-Il faut qu'Adonis soit en délire,
-Ce qu'il fait peut-il se concevoir ?
-Mortel qu'un dieu veut occire
-Doit-il s'amuser à voir
-Un saut, deux sauts, trois sauts, quatre sauts, cinq sauts, six sauts ?
-
--*who_venus
-Halte-là, Bacchus, vous me feriez étouffer de rire.
-Votre danse est par trop comique
-
--*who_bacchus
-Elle triomphe du tragique
-Que vous veniez représenter ;
-Vénus qui pleure et qui soupire
-Dès que l'on parle de sauter
-Ne saurait s'empêcher de rire.
-
--*who_venus
-C'est une inattention qui est échappée à mon désespoir.
-
--*who_bacchus
-Les veuves sont fort sujettes à ces inattentions-là ; mais où vous conduit à présent votre désespoir inattentif ?
-
--*who_venus
-Je viens sur le mont Latmos chercher à me dissiper un peu, il faut bien suivre le torrent.
-
--*who_bacchus
-Le torrent à tout nous engage
-Malgré tout le poids des raisons
-Le torrent aussi sous l'ombrage
-Conduira Mars et j'en réponds,
-Vous ferrez un rapatriage
-En dépit de tous vos crépons.
-
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_bacchus
-Je sais que Mars est admirable pour consoler les belles affligées Eh !
-Le voilà !
-D'abord, le torrent opère.
-
--*who_mars
-Pour le coup Adonis n'est plus
-J'ai puni l'ingrate Vénus
-
--*who_bacchus
-Rien n'est égal à sa tristesse
-
--*who_mars
-Pour calmer celle qui me presse
-Din dan don din din dan don
-Je viens carillonner Pluton
-
--*who_bacchus
-Mais Mars qu'est ce donc que ceci ?
-Sans fanfare, arriver ici ?
-Quoi ! Vous ne mener vos trompettes
-Que dans les affaires secrètes ?
-Là quand il faut furtivement
-Trouver Vénus et son amant ?
-Répondez ad rem.
-
--*who_mars
-Din dan don din din dan don
-Je vais carillonner Pluton
-
-**** *book_ *id_I08 *act_I *date_(non
-
--*who_bacchus
-Mars se tire d'affaire en petit-maître.
-Sans doute le monarque des enfers n'est pas encore ici.
-Allons prendre notre poste avant qu'il arrive.
-Morbleu le voici, il m'a aperçu, je ne peux me dispenser de le saluer.
-Pluton sans bruit infernal !
-Que vous vous annoncez mal !
-Quoi tranquillement.
-
--*who_pluton
-Par un tremblement
-La terre ne chancelle
-Que quand sur mon char poliment
-Je reconduis ma belle,
-Lon la
-Je reconduis ma belle.
-
--*who_bacchus
-Que vous quittez docilement dès qu'elle vous congédie.
-Vous faites gémir les campagnes
-Vous faites mugir les montagnes
-Et puis aussi doux qu'un mouton
-Vous endurez tout sans vergogne.
-On dira ma foi que Pluton
-Fait plus de bruit que de besogne.
-Adieu beau ténébreux, je ne veux pas vous gêner.
-Allons informer les dieux de l'arrivée de Pluton, ils comptaient d'en être avertis par un tremblement de terre ; ce petit signal leur a manqué, c'est à moi d'y suppléer.
-
-**** *book_ *id_I09 *act_I *date_(non
-
--*who_pluton
-Enfin le mont Latmos est paisible, je ne rencontre plus de bergers téméraires qui osent y chanter des airs nouveaux pendant que Diane s'y promène.
-Ils me cèdent la place,
-Et sans souffler,
-D'abord qu'ils ont l'audace d'y flageoler.
-Diane se plaît fort vraiment
-A les voir jouer de leur instrument !
-Oh ma foi ! Je les chasse
-Bien promptement.
-Elle vient cette déesse de mauvais exemple qui s'avise d'être prude quand la mode en est passée dès le déluge !
-
-**** *book_ *id_I10 *act_I *date_(non
-
--*who_pluton
-Vous m'avez cette obligation-là, j'ai écanillé tous ces bergers chantants qui vous étourdissaient.
-
--*who_diane
 De quoi vous mêlez-vous
 D'épouvanter leurs musettes ?
 
--*who_pluton
-D'amour ils parlaient tous.
-
--*who_diane
 De quoi vous mêlez-vous
 De venir dans ces retraites
 Nous y donner pour régal
 Au lieu de leurs brunettes
 Un concert infernal ?
 
--*who_pluton
-Si Diane souffrait
-L'amour sous ces ombrages
-Mon coeur me conduirait
-Toujours dans ce bocage.
-Et zon zon zon.
-Mais Diane est trop sage
-Et zon zon zon
-C'est un petit Caton.
-
--*who_diane
 Que vous sert de m'aimer ?
 
--*who_pluton
-La belle demande !
-
--*who_diane
 Oui car je n'aimerai jamais.
 
--*who_pluton
-Comment esquiver vos attraits ?
-Où ne lancent-ils pas leurs traits ?
-Au Ciel, en Terre redoutables
-Dans l'enfer même ils font les diables.
-
--*who_diane
 Quoi dans l'éternelle nuit,
 Vous l'affirmez sans honte,
 Quoi dans l'éternelle nuit
@@ -483,49 +22,22 @@ Le flambeau de l'amour luit ?
 Quel conte, quel conte, quel conte !
 Non, Pluton n'est pas fait pour semer la fleurette.
 
--*who_pluton
-Oh ! je sais quand il faut dire la chansonnette !
-
--*who_diane
 Non, Pluton n'est pas fait pour se laisser charmer.
 
--*who_pluton
-Pluton vous voit souvent, peut-il ne pas aimer ?
-
--*who_diane
-Comment donc ?
-Je ne vous reconnais plus.
+Comment donc ? Je ne vous reconnais plus.
 Ce style galant et rare
 Est-il du dieu des enfers ?
 Vous ferez bientôt des vers
 Sous les cyprès du Tenare89
 
--*who_pluton
-Vous conviendrez que Pluton
-N'a rien du tout de barbare.
-
--*who_diane
 Je conviendrai que Pluton
 Ne fut jamais si mignon.
-Oh çà !
-J'ai affaire au ciel et vous en enfer !
+Oh çà ! J'ai affaire au ciel et vous en enfer !
 Ce n'est pas tout à fait le même chemin, quittons-nous sans cérémonie.
 
--*who_pluton
-Oh !
-Je ne vous laisserai pas là toute seule !
-
--*who_diane
-Vous avez une fureur de politesse qui assomme !
-On ne saurait sortir de chez vous que vous ne fassiez atteler votre char et que vous ne vous campiez vous-même dedans pour ramener...
+Vous avez une fureur de politesse qui assomme ! On ne saurait sortir de chez vous que vous ne fassiez atteler votre char et que vous ne vous campiez vous-même dedans pour ramener...
 des gens qui ne vous tiennent pas grand compte de vos honnêtetés.
 
--*who_pluton
-En soupirant, quel déboire91 j'essuie !
-Mon rang ici de rien ne me tient lieu,
-Je vois fort bien que Pluton vous ennuie.
-
--*who_diane
 Oui comme amant
       Mais
       Je respecte le dieu.
@@ -536,26 +48,14 @@ Par son amour il n'est pas retenu.
 Partez, mon cher, de vous on pourra dire
 Jean s'en alla comme il était venu.
 
--*who_pluton
-Je n'ai garde de faire une... pareille sortie...
-Demeurons plutôt pour examiner la conduite de Diane, son empressement à me chasser doit m'être suspect.
-Cachons-nous pour apprendre
-Ce qu'elle deviendra.
-
--*who_diane
 Le sot va redescendre
 Sur son char sonica.
 Ah ! Pour faire une scène
 Toujours le pied en l'air,
 Ce n'était pas la peine
 De sortir de l'enfer.
-Mais Endymion se montre à mes yeux !
-Qu'il paraît inquiet !
-Il n'ose m'aborder, il est un peu honteux, il a besoin qu'on le mette en train.
+Mais Endymion se montre à mes yeux ! Qu'il paraît inquiet ! Il n'ose m'aborder, il est un peu honteux, il a besoin qu'on le mette en train.
 
-**** *book_ *id_I11 *act_I *date_(non
-
--*who_diane
 Vous êtes par trop discret,
 Je vous désire moins sage
 Car Diane vous permet
@@ -568,45 +68,18 @@ Vous filez un peu trop doux.
 Vos chants n'expliquent point quel est votre esclavage
 A qui destinez-vous ce cadeau musical ?
 
--*who_endymion
-Ah déesse, laissez-moi mon secret !
-N'allez pas me l'arracher.
-On ne saurait trop cacher
-Un amour trop téméraire.
-Tique tique taque et lon lan la,
-L'amant ne peut trop se taire
-Quand il en est logé là.
-
--*who_diane
 Ne craignez rien.
 Quel est ce feu qui vous anime ?
 Il ne paraît pas fort pressant.
 Parlez.
 
--*who_endymion
-      Vous m'ordonnez un crime.
-
--*who_diane
 Il veut toujours être innocent !
 Quel innocent !
 Pauvre innocent !
 Parlez.
 
--*who_endymion
-      Vous m'ordonnez un crime ?
-
--*who_diane
 La peste crève l'innocent.
 
--*who_endymion
-Si vous saviez déesse
-L'objet de ma tendresse,
-Loin de me tourmenter
-Pour déclarer qui j'aime
-Vous verriez qu'un dieu même
-N'oserait s'y frotter.
-
--*who_diane
 En amour tout rang est égal
 Il s'agit seulement de plaire,
 Ce qu'on refuse au général
@@ -615,54 +88,16 @@ L'amour est un mutin d'enfant
 Pata pan pata pan pata pan pan pan
 Qui mène tout tambour battant.
 
--*who_endymion
-Ainsi donc la tendre flamme
-Du maître des enfers,
-Ne touche point votre âme ?
-Il porte en vain vos fers ?
-C'n'est pas pour lui que le four chauffe ?
-C'n'est pas pour lui qu'on cuit chez vous ?
-
--*who_diane
 C'est la pure vérité !
 
--*who_endymion
-Oh !
-Je devine l'enclouure !
-
--*who_diane
 Quel devin ! Qu'il est bouché.
 
--*who_endymion
-Confessez la dette !
-Vous donnez dans le subalterne, vous oubliez la grandeur.111
-Du haut en bas,
-Votre coeur se plaît à descendre.
-Du haut en bas,
-Vos yeux ont trouvé des appas.
-Quelque heureux mortel vous rend tendre,
-Et pour lui vous daignez vous rendre,
-Du haut en bas.
-
--*who_diane
 Enfin vous y êtes ; oui, c'est un mortel qui me charme.
 Au dieu du ténébreux empire
 Je le préfère.
 
--*who_endymion
-Aveu maudit.
-Comment nommez-vous ce fortuné là ?
-Eh bien ?
-
--*who_diane
       Faut-il vous le redire ?
 
--*who_endymion
-Vous ne l'avez pas encore dit.
-      Parlez donc plus clairement.
-Parlez donc plus clairement.
-
--*who_diane
 Je n'ai jamais vu d'amant.
 Je n'ai jamais vu d'amant.
 De conception plus dure.
@@ -671,19 +106,9 @@ C'est vous, vous, vous, vous,
 Vous qui l'allumez chez nous.
 Cela est-il clair ?
 
--*who_endymion
-Vous commencez à être intelligible.
-Eh quoi ? J'obtiens tant d'appâts
-Pour qui je soupire !
-Eh quoi ? J'obtiens tant d'appas
-Oh ! je n'en parlerais113 pas,
-I'n'faut pas tout dire.
-
--*who_diane
 Il faut tout vous dire à vous !
 Il faut tout vous dire !
-N'approchez pas de ce bocage, plaisirs indiscrets et causeurs !
-Restez à Paris, et vous qui savez parfaitement bien vous taire, venez bergers, accourez troupe prudente.
+N'approchez pas de ce bocage, plaisirs indiscrets et causeurs ! Restez à Paris, et vous qui savez parfaitement bien vous taire, venez bergers, accourez troupe prudente.
 Soyez ma confidente
 Et célébrez mon choix,
 Ici Diane chante
@@ -692,162 +117,23 @@ Tout comme il vous plaira,
 Larira
 Tout comme il vous plaira.
 
--*who_endymion
-Ouais, les bergers ne viennent pas.
-
--*who_diane
 Nous nous en passerons bien.
 Il me suffit de mon berger
 
--*who_endymion
-Et moi de ma déesse.
-Nous pouvons ici sans danger
-Nous parler de tendresse.
-Allons cher coeur,
-Plus de rigueur,
-Que l'amour la suspende !
-
--*who_diane
 Endymion !
 Songez-y donc !
 Est-ce que cela se demande ?
 Serez-vous toujours aussi neuf ?
 
-**** *book_ *id_I12 *act_I *date_(non
+Vous n'avez que trop bien deviné. J'aperçois dans le bois votre rival qui fulmine et tous les dieux qui se moquent de lui. Hélas, je vais avoir mon tour.
 
--*who_lechoeur
-Endymion,
-Songez-y donc
-Est-ce que cela se demande ?
-
--*who_endymion
-Oh ! J'en deviendrai malade !
-Maudit Pluton !
-Est-ce encore là quelque aubade
-De ta façon ?
-Entendrons-nous encore ici
-Charivari ?
-
--*who_diane
-Vous n'avez que trop bien deviné.
-J'aperçois dans le bois votre rival qui fulmine et tous les dieux qui se moquent de lui.
-Hélas, je vais avoir mon tour.
-
--*who_lechoeur
-Endymion.
-      Songez-y donc
-Est-ce que cela se demande ?
-
--*who_pluton
-Je vous prends donc sur le fait, Madame la sévère.
-Vous faisiez la prude, déesse ?
-Vous faisiez la Lucrèce, enfin ?
-
--*who_hebe
-N'est-elle pas une Lucrèce ?
-On la trouve avec un Tarquin121 !
-
--*who_lechoeur
-N'est-elle pas une Lucrèce ?
-On la trouve avec un Tarquin !
-
--*who_bacchus
-Sachons du moins quel dieu est le galant de notre chère soeur.
-Quelle chute !
-Ce n'est qu'un simple berger !
-
--*who_endymion
-Fort à votre service.
-
--*who_apollon
-L'effronté !
-Avoir perverti ma chaste jumelle !
-Ceci mérite un châtiment exemplaire !
-
--*who_endymion
-Ah ! Messieurs les dieux, pardon !
-
--*who_apollon
-Non, non, point de clémence.
-
--*who_endymion
-Épargnez Endymion !
-
--*who_pluton
-Il faut punir ce fripon !
-Vengeance, vengeance, vengeance !
-
--*who_choeurdesdieux
-Vengeance, vengeance, vengeance !
-
--*who_bacchus
-Oh ça !
-Pluton, vous êtes juge et partie dans cette affaire-ci ; voyons un peu ce que vous ferez de votre criminel !
-
--*who_pluton
-Moi ?
-Je ne prétends rien innover ; je me copierai sur l'arrêt rendu par mon frère Jupiter en cas pareil ; vous devez vous souvenir tous que ce même Endymion a eu jadis l'audace de s'attaquer à la reine des cieux et que son époux condamna le téméraire à un sommeil de plusieurs années, je lui impose encore ce supplice.
-
--*who_endymion
-Miséricorde !
-
--*who_diane
 Quelle barbarie !
 
--*who_venus
-En vérité, Pluton, vous êtes trop cruel !
-
--*who_pluton
-En vérité, Vénus, vous ne l'êtes pas assez !
-
--*who_venus
-Chère Diane aujourd'hui
-Vous faites des vôtres !
-Vénus prend votre parti !
-
--*who_pluton
-Quoi contre nous autres ?
-
--*who_venus
-Puisqu'elle est des nôtres,
-Oui
-Puisqu'elle est des nôtres.
-
--*who_pluton
-Vous allez voir le cas que je fais de votre protection !
-Holà suivant de Morphée !
-Emparez-vous de ce galant et endormez-le très profondément pour deux ou trois siècles, car il n'est que trop éveillé.
-
--*who_hebe
-J'endors le petit
-Mon fils,
-J'endors le petit.
-
--*who_diane
 Remuez-vous, Endymion ?
 La...
 
--*who_endymion
-      C'en est fait ma mie !
-
--*who_diane
 Juste ciel !
 
--*who_endymion
-Bonsoir bouchon !
-Bonsoir la compagnie !
-Bonsoir,
-pour deux ou trois cent ans !
-Bonsoir la compagnie !
-
--*who_bacchus
-Voilà ce qui s'appelle agir vertement.
-Les plaisants seront bien camus,
-Ils ne chanteront plus (bis)
-Que Pluton sortant de l'enfer
-Ne vient que prendre l'air. (bis)
-
--*who_diane
 Le voilà dans un engourdissement épouvantable.
 Adieu paniers vendanges sont faites
 Que ferai-je dans ces retraites,
@@ -857,5 +143,495 @@ Hélas ! Il dormira toujours.
 Adieu Paniers,
 Vendanges sont faites.
 
--*who_lechoeurdesdieux
-Adieu paniers, vendanges sont faites.
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+
+Par un tremblement
+La terre ne chancelle
+Que quand sur mon char poliment
+Je reconduis ma belle,
+Lon la
+Je reconduis ma belle.
+
+Enfin le mont Latmos est paisible, je ne rencontre plus de bergers téméraires qui osent y chanter des airs nouveaux pendant que Diane s'y promène.
+Ils me cèdent la place,
+Et sans souffler,
+D'abord qu'ils ont l'audace d'y flageoler.
+Diane se plaît fort vraiment
+A les voir jouer de leur instrument !
+Oh ma foi ! Je les chasse
+Bien promptement.
+Elle vient cette déesse de mauvais exemple qui s'avise d'être prude quand la mode en est passée dès le déluge !
+
+Vous m'avez cette obligation-là, j'ai écanillé tous ces bergers chantants qui vous étourdissaient.
+
+D'amour ils parlaient tous.
+
+Si Diane souffrait
+L'amour sous ces ombrages
+Mon coeur me conduirait
+Toujours dans ce bocage.
+Et zon zon zon.
+Mais Diane est trop sage
+Et zon zon zon
+C'est un petit Caton.
+
+La belle demande !
+
+Comment esquiver vos attraits ?
+Où ne lancent-ils pas leurs traits ?
+Au Ciel, en Terre redoutables
+Dans l'enfer même ils font les diables.
+
+Oh ! je sais quand il faut dire la chansonnette !
+
+Pluton vous voit souvent, peut-il ne pas aimer ?
+
+Vous conviendrez que Pluton
+N'a rien du tout de barbare.
+
+Oh ! Je ne vous laisserai pas là toute seule !
+
+En soupirant, quel déboire91 j'essuie !
+Mon rang ici de rien ne me tient lieu,
+Je vois fort bien que Pluton vous ennuie.
+
+Je n'ai garde de faire une... pareille sortie... Demeurons plutôt pour examiner la conduite de Diane, son empressement à me chasser doit m'être suspect.
+Cachons-nous pour apprendre
+Ce qu'elle deviendra.
+
+Je vous prends donc sur le fait, Madame la sévère.
+Vous faisiez la prude, déesse ?
+Vous faisiez la Lucrèce, enfin ?
+
+Il faut punir ce fripon !
+Vengeance, vengeance, vengeance !
+
+Moi ? Je ne prétends rien innover ; je me copierai sur l'arrêt rendu par mon frère Jupiter en cas pareil ; vous devez vous souvenir tous que ce même Endymion a eu jadis l'audace de s'attaquer à la reine des cieux et que son époux condamna le téméraire à un sommeil de plusieurs années, je lui impose encore ce supplice.
+
+En vérité, Vénus, vous ne l'êtes pas assez !
+
+Quoi contre nous autres ?
+
+Vous allez voir le cas que je fais de votre protection ! Holà suivant de Morphée !
+Emparez-vous de ce galant et endormez-le très profondément pour deux ou trois siècles, car il n'est que trop éveillé.
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_endymion
+
+Ah déesse, laissez-moi mon secret !
+N'allez pas me l'arracher.
+On ne saurait trop cacher
+Un amour trop téméraire.
+Tique tique taque et lon lan la,
+L'amant ne peut trop se taire
+Quand il en est logé là.
+
+      Vous m'ordonnez un crime.
+
+      Vous m'ordonnez un crime ?
+
+Si vous saviez déesse
+L'objet de ma tendresse,
+Loin de me tourmenter
+Pour déclarer qui j'aime
+Vous verriez qu'un dieu même
+N'oserait s'y frotter.
+
+Ainsi donc la tendre flamme
+Du maître des enfers,
+Ne touche point votre âme ?
+Il porte en vain vos fers ?
+C'n'est pas pour lui que le four chauffe ?
+C'n'est pas pour lui qu'on cuit chez vous ?
+
+Oh ! Je devine l'enclouure !
+
+Confessez la dette ! Vous donnez dans le subalterne, vous oubliez la grandeur.111
+Du haut en bas,
+Votre coeur se plaît à descendre.
+Du haut en bas,
+Vos yeux ont trouvé des appas.
+Quelque heureux mortel vous rend tendre,
+Et pour lui vous daignez vous rendre,
+Du haut en bas.
+
+Aveu maudit.
+Comment nommez-vous ce fortuné là ?
+Eh bien ?
+
+Vous ne l'avez pas encore dit.
+      Parlez donc plus clairement.
+Parlez donc plus clairement.
+
+Vous commencez à être intelligible.
+Eh quoi ? J'obtiens tant d'appâts
+Pour qui je soupire !
+Eh quoi ? J'obtiens tant d'appas
+Oh ! je n'en parlerais113 pas,
+I'n'faut pas tout dire.
+
+Ouais, les bergers ne viennent pas.
+
+Et moi de ma déesse.
+Nous pouvons ici sans danger
+Nous parler de tendresse.
+Allons cher coeur,
+Plus de rigueur,
+Que l'amour la suspende !
+
+Oh ! J'en deviendrai malade !
+Maudit Pluton !
+Est-ce encore là quelque aubade
+De ta façon ?
+Entendrons-nous encore ici
+Charivari ?
+
+Fort à votre service.
+
+Ah ! Messieurs les dieux, pardon !
+
+Épargnez Endymion !
+
+Miséricorde !
+
+      C'en est fait ma mie !
+
+Bonsoir bouchon !
+Bonsoir la compagnie !
+Bonsoir,
+pour deux ou trois cent ans !
+Bonsoir la compagnie !
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+Hélas !
+
+Bacchus ! Ne badinez pas
+Sur ma perte trop cruelle,
+Adonis est mort hélas !
+Et moi je suis immortelle.
+
+Perfide Mars, quelle indignité ! Avoir fait tuer par un vilain sanglier un des plus jolis hommes du monde.
+
+Eh ! L'on ne l'oubliera jamais
+Et j'en ferai les frais.
+Oui, je vais instituer des jeux funèbres en l'honneur d'Adonis qui seront célébrés dans la Grèce, dans l'Egypte, dans la Syrie.
+
+Ce qui me pique le plus, c'est que cette funeste mort est l'ouvrage de mon imprudence. Je savais que Mars venait pour me surprendre clandestinement avec son rival.
+Ah ! Je devais plus promptement
+Envoyer chasser mon amant
+Le congédier brusquement.
+Mais quand on nous cajole
+Nous perdons bientôt le jugement.
+Une femme est si folle
+Vraiment
+Une femme est si folle.
+
+Halte-là, Bacchus, vous me feriez étouffer de rire.
+Votre danse est par trop comique
+
+C'est une inattention qui est échappée à mon désespoir.
+
+Je viens sur le mont Latmos chercher à me dissiper un peu, il faut bien suivre le torrent.
+
+En vérité, Pluton, vous êtes trop cruel !
+
+Chère Diane aujourd'hui
+Vous faites des vôtres !
+Vénus prend votre parti !
+
+Puisqu'elle est des nôtres,
+Oui
+Puisqu'elle est des nôtres.
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
+Aussi l'est-il.
+
+Oh ! je le croyais dans ce jour...
+
+Oh ! Je le croyais dans ce jour
+Fripon au jeu d'amour.
+
+Comment ? Je verrais de loin mon amant aux genoux d'une belle et ne soufflerais pas !
+
+Il prenait là trop de soin !
+
+Aimé de moi, quel besoin
+Qu'on lui dise dans un coin
+Sa bonne aventure ô gué
+Sa bonne aventure ?
+
+Oublions cela Je sens que ce discours rallumerait ma colère. Mais plus de querelle, je vais rejoindre mon tendre Linus qui s'est écarté un moment dans ce bois pour me composer une élégie.
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hebe
+
+C'est mon métier
+Que de me divertir sans cesse
+C'est mon métier
+De ne point faire de quartier
+Laissons radoter la vieillesse
+Rire sied bien à la jeunesse.
+C'est mon métier.
+
+Vous n'avez pas le vin tendre.
+
+Oh ! Qu'il était bien différent
+Quand il enleva Proserpine !
+C'était un amant très mal né,
+Il s'est depuis façonné
+Venez blond Phébus, il me tarde de voir Pluton faire l'amour en berger, cela doit être drôle.
+
+N'est-elle pas une Lucrèce ?
+On la trouve avec un Tarquin121 !
+
+J'endors le petit
+Mon fils,
+J'endors le petit.
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
+Quoi, le dieu Pan ! Le dieu des forêts ne sait pas ce qui se passe ici dans le sein de son empire ?
+
+Quoi ! Vous ignorez encore que Pluton est amoureux dans ces bois ?
+
+L'Indifférence !
+Eh ! Que fait-elle là ?
+Mon cher, je pense,
+Vous inventez cela !
+Que venez-vous conter ? Qui diantre songera.
+Avec tant de prudence
+De mettre à l'Opéra
+L'Indifférence ?
+
+Vous ne le devineriez jamais : c'est la régulière Diane.
+
+La découverte de ce secret ne nous a pas beaucoup coûté : un faune curieux l'a surpris en rodant sous cet ombrage, ce faune l'a dit à Cérès, la maman Cérès n'a pas manqué de le rapporter à sa fille Proserpine qui a eu la discrétion de ne s'en plaindre qu'à Mercure dans le temps qu'il conduisait la dernière caravane des trépassés et Mercure à son retour n'en a fait confidence qu'à tous les dieux.
+
+Tout l'Olympe en est réjoui
+J'en avons tant ri
+
+J'en avons tant ri
+J'en rirons bien encore
+
+Et pour les bien remplir presque tous les dieux se sont donné aujourd'hui un rendez-vous général sur le Mont Latmos ; nous savons que Pluton doit y chercher Diane, nous avons formé le dessein de les surprendre et de les régaler d'une espèce de charivari.
+
+Ce C'en n'est pas trop à vous d'en rire,
+Ta la lerita la retita la lerire
+Dans le faubourg Saint-Germain
+Sur le théâtre romain
+Vous avez certaine intrigue ;
+
+Oui, mais solidairement.
+
+Ma foi sans L'Avare amoureux.
+Landeritte
+Pan vous auriez en vérité
+Bien déchanté.
+
+Ceci ne commence pas mal ; Pan se mêle de vouloir faire le goguenard
+On peut juger du reste
+Par cet échantillon.
+Je prévois, malepeste,
+Qu'il viendra sur ce mont
+Bien des dieux sans cervelle,
+Et de qui sans façon
+On peut dire la pelle
+Se moque du fourgon.
+Exemplum ut talpa, j'aperçois la Muse de la tragédie.
+
+Eh bien ! Grave Melpomène, vous venez donc en cothurne à une partie bouffonne ? Mais...
+Comment gouvernez-vous Linus,
+Ce digne fils du blond Phébus ?
+D'une humeur si doucette,
+Je crois que cet amant chéri
+Doit être un bon mari !
+
+Et bien lui en prend, car je ne vous trouve pas aisée à vivre ! Le pauvre Linus saurait bien qu'en dire.
+Vous lui fîtes une avanie
+Sur le chapitre d'Uranie
+
+Toure loure, loure loure, loure loure loure lour.
+
+Vous êtes un peu trop prompte à soupçonner les bonnes gens.
+
+Mais ! Ce que vous preniez pour un rendez-vous n'était qu'une consultation. Linus interrogeait Uranie sur votre mariage !
+
+Je le conjecture.
+
+Au fond, vous n'avez pas absolument tort.
+Linus parlait d'astrologie
+Mais qui diantre devinerait
+Que seul avec fille jolie
+Des astres on s'entretiendrait ?
+
+Une élégie !
+Par vous en fut-il prié ?
+Son refus devrait vous plaire !
+Lorsqu'un nouveau marié
+S'amuse à rimer ma chère
+Aïe, aïe, aïe
+Il pourrait mieux faire
+Ma chère, aïe, aïe, aïe.
+
+Je ne m'y connais guère
+En mari fait à l'ordinaire.
+Pour les poètes, je sais bien
+Qu'en ménage ils ne valent rien.
+
+À propos de poètes, voici leur beau directeur, d'où vient que la jeune Hébé l'accompagne ?
+
+Passe pour vous, folâtre Hébé, mais Apollon ne devrait pas46, lui, être si enclin à dauber sur les amants malheureux ; ne se souvient-il déjà plus de Daphné et de Coronis ?
+Jamais il n'a fait fortune
+Dans l'empire de Vénus.
+
+De quoi se plaint Apollon,
+Oserait-il se prétendre
+Aussi galant que Pluton ?
+
+La petite a raison, il est temps que j'aille me cacher dans les bois ainsi que font tous les dieux qui s'y rendent Mais quelle est cette venue ? Eh ! C'est Vénus en grand deuil ! Ceci mérite attention.
+Bonjour aimable souveraine de Paphos.Êtes-vous en noir par affliction ou par coquetterie ?
+
+Pour qui ces crêpes sont-ils mis ?
+Çà parlez, soyez franche
+Voulez-vous pleurer Adonis
+Ou paraître plus blanche ?
+A présent tout est en replis
+Tout est indéchiffrable
+Du deuil, des coeurs, des habits
+L'équivoque est semblable.
+
+Eh ! Tant mieux, vous aurez le temps de vous retourner !
+
+Cette mort-là, certainement,
+Ne peut être honorablement
+Mise dans la gazette.
+
+En attendant ces anniversaires-là
+Mettez, pour augmenter encor
+Vos pompes douloureuses,
+Les Grâces en ras de Saint-Maur
+Et l'Amour en pleureuses.
+
+Il le faut avouer, le retardement d'Adonis n'était pas trop sage et ses chasseurs n'étaient pas plus raisonnables que lui, de s'amuser à danser quand ils avaient un sanglier furieux à courir. Avaient-ils peur de n'être pas assez fatigués ?
+Il faut qu'Adonis soit en délire,
+Ce qu'il fait peut-il se concevoir ?
+Mortel qu'un dieu veut occire
+Doit-il s'amuser à voir
+Un saut, deux sauts, trois sauts, quatre sauts, cinq sauts, six sauts ?
+
+Elle triomphe du tragique
+Que vous veniez représenter ;
+Vénus qui pleure et qui soupire
+Dès que l'on parle de sauter
+Ne saurait s'empêcher de rire.
+
+Les veuves sont fort sujettes à ces inattentions-là ; mais où vous conduit à présent votre désespoir inattentif ?
+
+Le torrent à tout nous engage
+Malgré tout le poids des raisons
+Le torrent aussi sous l'ombrage
+Conduira Mars et j'en réponds,
+Vous ferrez un rapatriage
+En dépit de tous vos crépons.
+
+Je sais que Mars est admirable pour consoler les belles affligées Eh ! Le voilà ! D'abord, le torrent opère.
+
+Rien n'est égal à sa tristesse
+
+Mais Mars qu'est ce donc que ceci ?
+Sans fanfare, arriver ici ?
+Quoi ! Vous ne mener vos trompettes
+Que dans les affaires secrètes ?
+Là quand il faut furtivement
+Trouver Vénus et son amant ?
+Répondez ad rem.
+
+Mars se tire d'affaire en petit-maître. Sans doute le monarque des enfers n'est pas encore ici. Allons prendre notre poste avant qu'il arrive. Morbleu le voici, il m'a aperçu, je ne peux me dispenser de le saluer.
+Pluton sans bruit infernal !
+Que vous vous annoncez mal !
+Quoi tranquillement.
+
+Que vous quittez docilement dès qu'elle vous congédie.
+Vous faites gémir les campagnes
+Vous faites mugir les montagnes
+Et puis aussi doux qu'un mouton
+Vous endurez tout sans vergogne.
+On dira ma foi que Pluton
+Fait plus de bruit que de besogne.
+Adieu beau ténébreux, je ne veux pas vous gêner.
+Allons informer les dieux de l'arrivée de Pluton, ils comptaient d'en être avertis par un tremblement de terre ; ce petit signal leur a manqué, c'est à moi d'y suppléer.
+
+Sachons du moins quel dieu est le galant de notre chère soeur. Quelle chute ! Ce n'est qu'un simple berger !
+
+Oh ça ! Pluton, vous êtes juge et partie dans cette affaire-ci ; voyons un peu ce que vous ferez de votre criminel !
+
+Voilà ce qui s'appelle agir vertement.
+Les plaisants seront bien camus,
+Ils ne chanteront plus (bis)
+Que Pluton sortant de l'enfer
+Ne vient que prendre l'air. (bis)
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+Elle m'a prié de la conduire dans ce bois ; il est question de turlupiner un vieux galant, ceci est de sa compétence
+
+Point d'apostrophe importune
+Doucement, Seigneur Bacchus !
+
+Non assurément je ne prétends pas cela. Je conviens que tout cède aujourd'hui à Pluton en fait de galanterie.
+En aimant Diane il surprend,
+Sur les sentiments il raffine.
+
+L'effronté ! Avoir perverti ma chaste jumelle ! Ceci mérite un châtiment exemplaire !
+
+Non, non, point de clémence.
+
+
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+
+Que vois-je ?
+C'est le charmant dieu du raisin,
+Il paraît en pointe de vin
+Fils de Sémélé, quelle affaire
+Vous conduit sur le mont Latmos ?
+Sous cet ombrage solitaire
+Venez-vous chercher le repos ?
+
+C'est que depuis un mois ou deux je me trouve souvent à Paris.
+
+Pluton amoureux ! Cela ne lui sied pas, il ferait bien mieux d'aller chercher l'Indifférence à l'Opéra !
+
+Eh ! Quelle est, s'il vous plaît, l'enchanteresse qui a métamorphosé Pluton si prodigieusement ?
+
+Comment le savez-vous ?
+
+Cette nouvelle n'a pas dû les ennuyer, Pluton amoureux ! Je n'en reviens pas.
+
+Ma foi Pluton pour ce coup-ci
+Mérite l'ellébore
+
+J'approuve vos bonnes intentions.
+
+Vous vous arrangez à miracle,
+On ne peut pas vous critiquer !
+Oh ! j'en jouirai !
+L'Enfer galant est un spectacle
+Que je ne prétends pas manquer !
+Comme les autres j'en veux rire
+Ta la lerita la retita la lerire.
+
+Mon acte a fort plu, vraiment.
+Il a réussi sans brigue.
+
+Oh ! Que vous êtes pointilleux !
+Est-ce que je n'ai pas de la voix ? Est-ce que Doris ne chante pas joliment ?
+
+Vous ne vous connaissez pas qu'en gosiers de buveurs. Adieu, je vais chercher Doris, je veux qu'elle ait sa part dans la fête d'aujourd'hui.
+

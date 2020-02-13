@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_antiochus  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1666  
 title: Antiochus. Tragi-comédie  
 ---

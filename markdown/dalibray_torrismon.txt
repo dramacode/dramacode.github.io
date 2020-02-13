@@ -1,6 +1,6 @@
 ---
 identifier: dalibray_torrismon  
-creator: Vion, Charles de  
+creator: Vion, Charles de ; Georges Forestier.  
 date: 1636  
 title: Le Torrismon du Tasse  
 ---

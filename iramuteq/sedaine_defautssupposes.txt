@@ -1,23 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1788
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
 
--*who_dumont
 Oui, ma fille, Dorval arrive ce soir même,
 Et dès ce soir, je prétends vous unir.
 
--*who_lise
-Et, dès ce soir, vous voulez que je l'aime ?
-
--*who_dumont
 Non ; je veux qu'il t'épouse, et l'amour peut venir
 Quand bon lui semblera.
 
--*who_lise
-Si Lise vous est chère,
-Ah ! Daignez retarder....
-
--*who_dumont
 Une excellente affaire !
 Non pas ; la retarder, c'est risquer son succès.
 Dorval est jeune et riche, il est fait pour te plaire,
@@ -34,14 +24,6 @@ Des jeunes gens il étAit le modèle,
 Et deviendra bientôt l'exemple des maris. »
 D'après cela, que peux-tu dire ?
 
--*who_lise
-Que ce portrait est beau, s'il est bien ressemblant ;
-Mais, par malheur, le peintre y prodigue souvent
-Des qualités que, d'avance, on admire ;
-Et cette illusion cause notre tourment
-Lorsque l'original est fait pour la détruire.
-
--*who_dumont
 C'est sort bien raisonner, d'honneur ; mais c'est en vain.
 Je prétends que ce soir mon projet s'exécute.
 Tu diras, si tu veux, que je te persécute,
@@ -52,24 +34,10 @@ En unissant Dorval à ma famille,
 Je mets fin aux soucis dont j'étais agité.
 L'occasion est belle, et j'en ai profité.
 
--*who_lise
-Mon père...
-
--*who_dumont
       Vains discours ! Cet hymen est sortable.
 
--*who_lise
-Sortable !
-
--*who_dumont
       Hé bien ?
 
--*who_lise
-      Peut-on calculer le bonheur ?
-Il est d'un prix inestimable.
-Ah ! ce n'est pas de l'or que demande le cœur.
-
--*who_dumont
 Ma pauvre enfant, tu n'es pas raisonnable,
 Et ton aveuglement, d'honneur, me fait pitié.
 Va, va, le mariage est toujours agréable
@@ -81,10 +49,6 @@ Et l'ennui, pour jamais, habiter leur maison.
 Ce tableau de comparaison
 N'est pas mal fait, et doit te convaincre, j'espère.
 
--*who_lise
-Puisque vous l'exigez, mon père....
-
--*who_dumont
 Moi, je n'exige rien ; mais tu dois m'obéir.
 Dorval, je le répète, aujourd'hui doit venir,
 Entends-tu bien. Tandis qu'avec sa mère,
@@ -95,456 +59,15 @@ Pour signer le contrat, nous reviendrons après,
 Et c'est ainsi, je crois, que doit finir l'affaire.
 Adieu, ma chére enfant.
 
-**** *book_ *id_I02 *act_I *date_1788
-
--*who_lise
-      Rien ne peut le fléchir.
-
--*who_marton
-Ah ! Le père cruel ! Voilà pour en mourir ;
-C'est une barbarie atroce, épouvantable.
-Nous forcer d'épouser un homme jeune, aimable...
-
--*who_lise
-Aimable ! Ils ont tout dit, quand ils ont dit ce mot ;
-Un homme à vingt-cinq ans, lorsqu'il n'est pas un sot,
-De la société peut faire le délice,
-Et souvent de sa femme il n'est que le tyran :
-N'ai-je pas, sous les yeux, l'exemple de Clarice ?
-On l'unit à Saint-Phar ; sa fortune, son rang,
-Et l'esprit qu'il joignait aux grâces de son âge,
-Promettaient à Clarice un bonheur sans nuage.
-Jusqu'au jour de l'hymen il en parut épris,
-Bientôt elle devint l'objet de ses mépris.
-Elle se plaint, sa plainte est vaine ;
-Elle a perdu ses droits sur cette âme inhumaine.
-Tandis que des plaisirs Saint-Phar suit le torrent,
-Qu'on excuse ses torts en faveur de son rang,
-Sa femme de l'envie est encor la victime,
-La retraite ne peut la soustraire à ses coups.
-On l'accuse, tout bas, des torts de son époux,
-À ceux qu'on lui suppose, on ajoute le crime :
-Voilà ce que j'ai vu, j'en crains autant pour moi.
-
--*who_marton
-Un exemple me fait pas loi.
-D'ailleurs, le mariage est une loterie,
-Les bons billets nous viennent au hasard.
-On les obtient, sans peine, étant jeune et jolie ;
-On n'a que les mauvais quand on y met trop tard.
-
--*who_lise
-Je dois être soumise aux ordres de mon père.
-Mais il ne veut que mon bonheur.
-C'est par bonté qu'il est sévère ;
-Et sans peine, Marton, je toucherai son cœur,
-Si je puis lui prouver que cet homme estimable
-De son épouse, un jour, peut faire le malheur.
-
--*who_marton
-Eh ! Comment lui prouver une chose incroyable ?
-
--*who_lise
-Dans ce projet tu pourras me servir ;
-Depuis qu'il est formé, mon âme est plus tranquille :
-Bannissons un chagrin qui devient inutile ;
-J'éprouverai Dorval ; allons il peut venir,
-Je connaîtrai son cœur, son caractère ;
-Mais je ne veux pas suivre une route ordinaire,
-Je ne veux pas cacher d'avance à mon époux
-Jusqu'au moindre défaut que je puis me connaître :
-Non, non, je veux les avoir tous ;
-Je suis vive, parfois, et je veux lui paraître
-Emportée à l'excès.
-
--*who_marton
-      Eh ! Mais, y pensez-vous ?
-Il dira que, déjà, vous vous croyez sa femme.
-
--*who_lise
-La jalousie aussi peut entrer dans mon âme ;
-Elle pourra marcher avec la vanité.
-J'unis encor l'envie à la méchanceté,
-Je veux être à la fois médisante et coquette :
-Ce n'est point une nouveauté ;
-Le tableau terminé, mon épreuve est parfaite.
-
--*who_marton
-Et cette épreuve est folle, en vérité.
-Ne pas se réserver même une qualité ?
-
--*who_lise
-Pardonnez-moi
-
--*who_marton
-      Laquelle ?
-
--*who_lise
-      La franchise.
-
--*who_marton
-C'est : encore un défaut quand on a tous ceux-là ? ;
-L'art de les bien cacher serait plus à ma guise.
-
--*who_lise
-Précisément voilà le tort qu'on a.
-À se tromper tous deux d'avance on s'étudie ;
-Mais de sa propre ruse une femme est punie ;
-Elle a cru d'un amant s'assurer mieux le cœur.
-Devenu son époux, le voile se déchire ;
-Il ne reconnaît plus cet objet enchanteur,
-Qui sur son âme entière avait jadis l'empire.
-Avec la fin de son délire,
-Il voit la fin de son bonheur.
-Son épouse n'a plus le don de le séduire.
-Par le mépris, par la froideur,
-Il se venge bientôt d'une fatale erreur ;
-Et lorsqu'elle s'en plaint, il a droit de lui dire :
-Quand je vous adressai mes vœux,
-De mille qualités vous paraissiez pourvue ;
-Pas un défaut ne s'offrit à ma vue.
-Montrez-vous encore à mes yeux
-Telle que vous étiez avant notre hyménée ;
-Vous ne serez jamais abandonnée,
-Et moi je serai plus heureux.
-
--*who_marton
-Moi, je crains les effets de cette humeur chagrine ;
-Pour vouloir l'adoucir, n'augmentez pas le mal ;
-À ne vous point flatter, si votre âme s'obstine,
-Avec vos seuls défauts montrez-vous à Dorval.
-
--*who_lise
-Eh ! Veux-tu que je les devine ;
-Lorsque soi-même on s'examine,
-L'amour-propre a grand soin de ternir le miroir ;
-Mais il en éclaircit la glace,
-Pour montrer les défauts qu'un autre peut avoir.
-De cet autre aujourd'hui je veux prendre la place ;
-Dorval pardonnera peut-être à tant d'audace ;
-L'amant excuse tout, l'époux n'excuse rien.
-Sil peut se rebuter, après notre lien,
-Aux plus légers défauts il ne ferait pas grâce,
-Et je regarderai sa perte comme un bien.
-Quand Dorval paraîtra, tu viendras m'en instruire ;
-S'il te parle de moi, dis-en beaucoup de mal.
-
-**** *book_ *id_I03 *act_I *date_1788
-
--*who_marton
-Dois-je, d'un tel projet, ou m'affliger on rire ?
-Le moyen est original.
-Pour ne rien hasarder, il ne faut en rien dire.
-En connaisseur prudent, si l'effet est fatal,
-À haute voix on le déchire ;
-Mais s'il est heureux, on l'admire.
-
-**** *book_ *id_I04 *act_I *date_1788
-
--*who_frontin
-Parbleu ! tous ces valets sont de grands fainéans.
-Est-ce ainsi qu'on reçoit les gens ?
-Faut-il qu'en ce logis je m'annonce moi-même.
-
--*who_marton
-Quel est cet homme-là ?
-
--*who_frontin
-      Je suis ambassadeur.
-
--*who_marton
-Et de qui ?
-
--*who_frontin
-      De Dorval.
-
--*who_marton
-      Ah, ma joie est extrême.
-Je vais savoir....
-      Approchez donc, Monsieur ;
-Vous lui servez...
-
--*who_frontin
-      D'ami.
-
--*who_marton
-      Depuis longtemps ?
-
--*who_frontin
-      Sans doute.
-
--*who_marton
-Et vous le connoissez ?
-
--*who_frontin
-      Au mieux.
-
--*who_marton
-      Charmant ! écoute.
-Je veux quelques instants avec toi m'expliquer.
-
--*who_frontin
-La situation devient embarrassante.
-Sur quel ton, s'il vous plaît, dois-je vous répliquer ?
-Êtes-vous femme, on fille, ou maîtresse, ou suivante ?
-
--*who_marton
-Ni femme, ni maîtresse, à cela près....
-
--*who_frontin
-      Charmante !
-Embrasse ton époux, et parlons sans façon.
-
--*who_marton
-Toi, mon époux !
-
--*who_frontin
-      Sans doute. Hé, pourquoi non ?
-Mon maître épouse ta maîtresse ;
-Nous servirons tous deux dans la même maison ;
-Tu n'es pas mariée, et moi je suis garçon,
-Nous devons l'un pour l'autre avoir de la tendresse :
-Tu dis oui.
-
--*who_marton
-      Pas encor.
-
--*who_frontin
-      Hé, laissons la finesse.
-Les si, les mais, les car, les pourquoi, les comment,
-N'entrent pour rien, chez nous, dans un engagement.
-Je te vois, tu me plais ; je te le dis sans feinte ;
-Tu partages ma flamme, hé bien, marions-nous.
-J'ai des rivaux ?.... Tant mieux : je ferai des jaloux.
-De l'amour, de la joie, et fi de la contrainte.
-
--*who_marton
-Laissons cela : nous y reviendrons bien.
-
--*who_frontin
-Je l'espère.
-
--*who_marton
-      Et parlons un instant de ton maître.
-
--*who_frontin
-Nous y voilà.
-      Je n'en dis jamais rien.
-Je suis valet d'honneur, et je veux toujours l'être.
-
--*who_marton
-Hé, nigaud, n'en dis pas de mal.
-
--*who_frontin
-Je ne veux pas mentir.
-
--*who_marton
-      C'est un homme si sage.
-
--*who_frontin
-C'est un fou.
-
--*who_marton
-      Dis-tu vrai ?
-
--*who_frontin
-      C'est un original.
-
--*who_marton
-D'honneur.
-
--*who_frontin
-      Bon ! ce n'est rien.
-
--*who_marton
-      Quoi donc ?
-
--*who_frontin
-      Il est brutal,
-Querelleur et quinteux, jaloux jusqu'à la rage.
-
--*who_marton
-Ah, Dieux !
-
--*who_frontin
-      De votre sexe il fronde tous les goûts :
-Quant aux vices du sien, je crois qu'il les a tous.
-
--*who_marton
-Il les a tous ?
-
--*who_frontin
-      Tous.
-
--*who_marton
-      Ah ! Je perds courage.
-
--*who_frontin
-À cela près, c'est un garçon charmant.
-Je dois sur son sujet agir discrètement,
-Et je n'en dis pas davantage.
-
--*who_marton
-Mais qui nous écrit donc ?...
-
--*who_frontin
-      C'est sa chère maman
-De son fils elle est folle, et le croit un prodige.
-
--*who_marton
-Tous ces défauts....
-
--*who_frontin
-      Aucun ne la frappe, te dis-je,
-Et Dorval ne les doit qu'a son aveuglement.
-
--*who_marton
-Ah ! Pauvre Lise !
-
--*who_frontin
-      Mais j'espère
-Que bientôt le désir de plaire....
-Lise a de la douceur.
-
--*who_marton
-      Non.
-
--*who_frontin
-      Non ?
-
--*who_marton
-      Non.
-
--*who_frontin
-      On le dit ?
-
--*who_marton
-On le croit ; mais moi, moi, je connais son esprit ;
-Elle impose an bonhomme de père ;
-Il la croit un prodige aussi ;
-Mais c'est un vrai démon : voilà son caractère.
-
--*who_frontin
-Il est en honneur fort joli,
-Et l'aventure est singulière.
-
--*who_marton
-Elle n'est pas heureuse ; on croit dans un mari
-Rencontrer un homme docile.
-Sans les chercher, on en eût trouvé mille ;
-Pour en être plus sûr, exprès on l'a choisi,
-Et l'on est à ce point trompé dans son attente.
-Il est affreux de s'abuser ainsi.
-
--*who_frontin
-Et nous donc, pleins d'amour, nous arrivons de Nantes,
-Charmés de la beauté, moins que de la douceur
-De l'épouse qu'on nous destine.
-Et plus que nous encor cette femme est lutine :
-En vérité, c'est une horreur.
-
--*who_marton
-Tu n'as donc plus rien à me dire ?
-
--*who_frontin
-Ton portrait est tracé d'après la vérité.
-
--*who_marton
-S'il a quelque défaut, c'est d'être un peu flatté.
-
--*who_frontin
-C'est tout comme le mien.
-
--*who_marton
-      Adieu, je me retire,
-Et je vais t'annoncer....
-
--*who_frontin
-      De la discrétion !
-
--*who_marton
-Je suis muette. Et toi ?
-
--*who_frontin
-      Je t'aime, il suffit.
-
--*who_marton
-      Bon.
-
-**** *book_ *id_I05 *act_I *date_1788
-
--*who_frontin
-Bon ! Bon ! Pas trop. Mon maître était loin de s'attendre
-À pareille réception
-L'en préviendrai ma foi non.
-C'est un piége peut-être où l'on voudrait nous prendre ;
-Peut-être qu'en faveur de quelque amant secret,
-On veut nous dégoûter d'un hymen qui déplaît.
-Mon cher ami Frontin, ayez de la prudence,
-Connaissez une fois tout le prix du silence :
-Un adroit courtisan doit parler à propos :
-Dire tout ce qu'on sait, est le talent des sots.
-Chut ! Taisons-nous, on vient ; c'est Dorval et sa mère.
-
-**** *book_ *id_I06 *act_I *date_1788
-
--*who_madamedorval
-Hé bien ?
-
--*who_frontin
-      On est allé vous annoncer au père,
-Si vous voulez entrer....
-
--*who_madamedorval
-      Puisqu'il est averti,
-Je crois que nous pouvons nous arrêter ici.
-Dans ce salon, sans doute, il va se rendre.
-
--*who_frontin
-Je crois que je l'entends.
-
-**** *book_ *id_I07 *act_I *date_1788
-
--*who_dumont
       Vous daignez excuser
 Si quelque temps, ici, j'ai pu vous faire attendre.
 Mais ce n'est qu'à l'instant que l'on vient de m'apprendre....
 
--*who_madamedorval
-Nous sommes loin, Monsieur, de vouloir abuser....
-
--*who_dumont
 Laissons cela, Madame, et parlons de mon gendre :
 Je crois sur son sujet que l'on m'a bien instruit.
 
--*who_dorval
-On n'est pas plus jolie.
-
--*who_frontin
-      Oui.
-      Mais c'est bien dommage !...
-
--*who_dumont
 C'est un joli garçon ; il a l'air doux et sage.
 
--*who_dorval
-Par un premier coup-d'œil craignez d'être séduit,
-Monsieur ; si les dehors sont à mon avantage,
-Je ne prétends jamais en tirer vanité.
-
--*who_madamedorval
-Mon Dieu ! Son seul défaut, c'est trop de modestie.
-Cette vertu, chez vous, dégénère en manie,
-Mon fils ; on ne doit point outrer la vérité ;
-Mais on doit convenir de son propre mérite.
-
--*who_dorval
-Quand on en a, Madame.
-
--*who_marton
-      Il est de bonne foi.
-
--*who_dumont
 C'est de nos deux enfants la vertu favorite.
 Lise prétend aussi me contredire, moi,
 Quand je fais son éloge ; et pourtant, je vous jure
@@ -553,19 +76,6 @@ Je hais les compliments autant que les procès ;
 Et c'est toujours d'après nature,
 Que je trace tous mes portraits.
 
--*who_madamedorval
-C'est comme moi, Monsieur.
-
--*who_marton
-Oh ! Voilà bien les mères !
-
--*who_frontin
-Voilà le père ! le voila !
-
--*who_lise
-Ah ! daignez ménager....
-
--*who_dumont
 J'entends ; laissons cela,
 Nous avons bien d'autres affaires.
 Ne retardons pas leur bonheur,
@@ -587,96 +97,235 @@ Terminer deux procès, rendre heureux mes enfants,
 Et donner à ma fille, une mère, une amie.
 Ce jour est, à mon gré, le plus beau de ma vie.
 
--*who_marton
-L'orage pourra bien succéder au bon temps.
+      Je vous cherchais, Madame.
 
-**** *book_ *id_I08 *act_I *date_1788
+Moi, j'ai besoin de vous ouvrir mon âme :
+Écoutez-moi, sans passion.
+Quand j'acceptai Dorval pour époux de ma fille,
+Je croyais de tous deux assurer le bonheur :
+Ce que je viens d'apprendre a détruit mon erreur ;
+Cet hymen porterait le trouble en ma famille ;
+On m'avait abusé par un portrait flatteur.
+Et vous me permettrez, s'il vous plaît....
 
--*who_dorval
-Voila l'heureux instant de vous ouvrir mon âme,
-Je le saisis avec empressement.
-Je ne vous tiendrai pas les discours d'un amant ;
-Je ne veux pas vous peindre une subite flamme,
-Vos yeux sont faits pour l'inspirer ;
-Je résiste avec peine au pouvoir de vos charmes ;
-Mais je crains de causer d'éternelles alarmes
-À celle que toujours je voudrais adorer.
+Ce Dorval est un fou qu'on ne peut excuser,
+Et ma fille en conçoit de très justes alarmes.
+J'ai méprisé longtemps des prières, des larmes
+Que je croyais l'effet de la prévention ;
+Mais je me vois forcé de leur rendre justice.
 
--*who_lise
+Non ; car la pauvre enfant n'avait pu se défendre
+D'éprouver, pour Dorval un sentiment fort tendre :
+Lorsqu'elle a refusé sa main,
+Je lisais dans ses yeux qu'il avait su lui plaire.
+Oh ! Je connais le cœur humain.
+Rien n'échappe d'ailleurs à l'œil d'un tendre père ;
+Lise aime votre fils ; son cœur, j'en suis certain,
+Souffre en secret ; mais son esprit, plus sain,
+Lui fait voir les dangers d'un pareil caractère.
+
+      De Dorval, s'il vous plaît.
+
+Cette perfection, Madame, est assez mince.
+
+Je l'ai cru trop longtemps, mais je ne le crois plus.
+
+      Madame !
+
+Madame, d'être franc, je me suis fait la loi ;
+Je n'ai jamais su feindre, et n'en ai nulle envie.
+Dorval, sur cet article, est plus censé que vous ;
+Il est quinteux, brutal, querelleur et jaloux ;
+Mais de tous ces défauts il fait l'aveu sincère ;
+Et, pour ne l'en pas croire, il faut être sa mère.
+
+J'y consens.
+
+Grâce au Ciel !
+
+Hé bien, Madame, hé bien, plaidons sur nouveaux
+J'aime mieux, avec vous, avoir trente procès,
+Que d'en avoir un seul au sein de ma famille :
+Toujours mes propres intérêts
+Seront sacrifiés au bonheur de ma fille :
+Mais pour mettre en défaut votre esprit chicaneur,
+Avant trois jours je veux marier Lise....
+
+      À mon Procureur :
+Il est partout des gens d'honneur.
+
+Marton.
+
+      Allez dire à ma fille
+Que Dorval n'entrera jamais dans ma famille.
+
+Oh ! je ne vous crains pas, Madame, et je saurai...
+
+Permettez. Avant tout, il faut aller reprendre
+Chez notre Procureur l'abandon de nos droits :
+Monsieur Dorval, ici, voudra bien nous attendre.
+
+      Allons ; serviteur, feu mon gendre.
+
+Que fait-il là ?
+
+Vous paraissez, ma fille, approuver ce langage,
+Ces sentiments.
+
+      Eh bien ?
+
+Sans doute en notre absence ils sont devenus fous.
+
+Hé bien, Madame,
+
+      Adieu notre courroux.
+
+      Puisqu'ils sont raisonnables,
+Il faut bien, d'un moment, leur pardonner l'erreur.
+Eh ! que gagnerions-nous à paraître intraitables,
+Cela s'appellerait bouder contre son cœur.
+Votre fils a raison, la haine est un supplice.
+Allons, mes chers enfants, que l'hymen vous unisse :
+En vous aimant toujours, faites notre bonheur.
+
+De notre vieille haine oublions les excès :
+Four assurer la paix que le Ciel nous envoie,
+De tous les titres du procès
+Je prétends faire un feu de joie.
+Écoutez, mes enfants, pour un instant d'erreur,
+De mille maux cruels votre âme fut atteinte.
+Ne démentez donc plus la voix de votre cœur.
+Jamais le vrai plaisir n'est le prix de la feinte,
+Et la seule franchise a des droits au bonheur.
+
+
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+
+Et, dès ce soir, vous voulez que je l'aime ?
+
+Si Lise vous est chère,
+Ah ! Daignez retarder....
+
+Que ce portrait est beau, s'il est bien ressemblant ;
+Mais, par malheur, le peintre y prodigue souvent
+Des qualités que, d'avance, on admire ;
+Et cette illusion cause notre tourment
+Lorsque l'original est fait pour la détruire.
+
+Mon père...
+
+Sortable !
+
+      Peut-on calculer le bonheur ?
+Il est d'un prix inestimable.
+Ah ! ce n'est pas de l'or que demande le cœur.
+
+Puisque vous l'exigez, mon père....
+
+      Rien ne peut le fléchir.
+
+Aimable ! Ils ont tout dit, quand ils ont dit ce mot ;
+Un homme à vingt-cinq ans, lorsqu'il n'est pas un sot,
+De la société peut faire le délice,
+Et souvent de sa femme il n'est que le tyran :
+N'ai-je pas, sous les yeux, l'exemple de Clarice ?
+On l'unit à Saint-Phar ; sa fortune, son rang,
+Et l'esprit qu'il joignait aux grâces de son âge,
+Promettaient à Clarice un bonheur sans nuage.
+Jusqu'au jour de l'hymen il en parut épris,
+Bientôt elle devint l'objet de ses mépris.
+Elle se plaint, sa plainte est vaine ;
+Elle a perdu ses droits sur cette âme inhumaine.
+Tandis que des plaisirs Saint-Phar suit le torrent,
+Qu'on excuse ses torts en faveur de son rang,
+Sa femme de l'envie est encor la victime,
+La retraite ne peut la soustraire à ses coups.
+On l'accuse, tout bas, des torts de son époux,
+À ceux qu'on lui suppose, on ajoute le crime :
+Voilà ce que j'ai vu, j'en crains autant pour moi.
+
+Je dois être soumise aux ordres de mon père.
+Mais il ne veut que mon bonheur.
+C'est par bonté qu'il est sévère ;
+Et sans peine, Marton, je toucherai son cœur,
+Si je puis lui prouver que cet homme estimable
+De son épouse, un jour, peut faire le malheur.
+
+Dans ce projet tu pourras me servir ;
+Depuis qu'il est formé, mon âme est plus tranquille :
+Bannissons un chagrin qui devient inutile ;
+J'éprouverai Dorval ; allons il peut venir,
+Je connaîtrai son cœur, son caractère ;
+Mais je ne veux pas suivre une route ordinaire,
+Je ne veux pas cacher d'avance à mon époux
+Jusqu'au moindre défaut que je puis me connaître :
+Non, non, je veux les avoir tous ;
+Je suis vive, parfois, et je veux lui paraître
+Emportée à l'excès.
+
+La jalousie aussi peut entrer dans mon âme ;
+Elle pourra marcher avec la vanité.
+J'unis encor l'envie à la méchanceté,
+Je veux être à la fois médisante et coquette :
+Ce n'est point une nouveauté ;
+Le tableau terminé, mon épreuve est parfaite.
+
+Pardonnez-moi
+
+      La franchise.
+
+Précisément voilà le tort qu'on a.
+À se tromper tous deux d'avance on s'étudie ;
+Mais de sa propre ruse une femme est punie ;
+Elle a cru d'un amant s'assurer mieux le cœur.
+Devenu son époux, le voile se déchire ;
+Il ne reconnaît plus cet objet enchanteur,
+Qui sur son âme entière avait jadis l'empire.
+Avec la fin de son délire,
+Il voit la fin de son bonheur.
+Son épouse n'a plus le don de le séduire.
+Par le mépris, par la froideur,
+Il se venge bientôt d'une fatale erreur ;
+Et lorsqu'elle s'en plaint, il a droit de lui dire :
+Quand je vous adressai mes vœux,
+De mille qualités vous paraissiez pourvue ;
+Pas un défaut ne s'offrit à ma vue.
+Montrez-vous encore à mes yeux
+Telle que vous étiez avant notre hyménée ;
+Vous ne serez jamais abandonnée,
+Et moi je serai plus heureux.
+
+Eh ! Veux-tu que je les devine ;
+Lorsque soi-même on s'examine,
+L'amour-propre a grand soin de ternir le miroir ;
+Mais il en éclaircit la glace,
+Pour montrer les défauts qu'un autre peut avoir.
+De cet autre aujourd'hui je veux prendre la place ;
+Dorval pardonnera peut-être à tant d'audace ;
+L'amant excuse tout, l'époux n'excuse rien.
+Sil peut se rebuter, après notre lien,
+Aux plus légers défauts il ne ferait pas grâce,
+Et je regarderai sa perte comme un bien.
+Quand Dorval paraîtra, tu viendras m'en instruire ;
+S'il te parle de moi, dis-en beaucoup de mal.
+
+Ah ! daignez ménager....
+
 Quels discours !
 
--*who_dorval
-      Je dois vous surprendre.
-Daignez quelques instants, daignez encor m'entendre,
-Des amants je devrais être le plus heureux :
-À la beauté vous unissez les grâces ;
-Je devrais m'empresser de vous offrir mes vœux,
-Vous jurer de fixer les plaisirs sur vos traces ;
-Mais peu d'accord avec mon cœur,
-Mon esprit, en ce jour, s'oppose à mon bonheur ;
-Je suis un homme étrange ; il faut que je l'avoue.
-
--*who_lise
 Saurait-il mon projet ? Voudrait-il se venger ?
 
--*who_dorval
-Il m'en coûte de l'affliger.
-
--*who_lise
 Votre franchise, au moins, mérite qu'on la loue ;
 Elle excite la mienne, et vous verrez bientôt...
 
--*who_dorval
-Un seul instant encor : après, je ne dis mot.
-Vous avez, m'a-t-on dit, beaucoup de patience ;
-Tant mieux, j'en ai fort peu, vous en aurez pour moi.
-N'attendez, de ma part, aucune complaisance,
-Ma volonté toujours fut mon unique loi.
-
--*who_lise
 Quel homme !
 
--*who_dorval
-      À ce défaut, joignez la défiance.
-Il faut s'expliquer net, ou j'interprète mal.
-Et jugez à quel point je suis original ?
-J'explique en ce moment jusqu'à votre silence ;
-Vous traitez cet aveu de pure extravagance ;
-Vous me regardez comme un sot.
-
--*who_lise
 Monsieur !...
 
--*who_dorval
-      Il faut trancher le mot,
-J'en suis sûr. Pour la tête, elle n'est pas meilleure.
-Je m'emporte pour rien, je m'emporte a toute heure :
-Cela ne dure pas, j'ai le cœur assez bon ;
-Je reconnais mes torts, et demande pardon.
-Mais il faut souffrir la tempête.
-Vous jugez si ma femme a besoin de douceur ;
-Il faut qu'à m'excuser son âme toujours prête,
-De quelques bons moments fasse tout son bonheur.
-À ce prodige ai-je droit de prétendre ?
-
--*who_lise
 Comme je suis trompée ! Aurais-je dû m'attendre ?
 
--*who_dorval
-Elle frémit.
-
--*who_lise
       Je veux à mon tour le punir.
 
--*who_dorval
-Daignez me pardonner un aveu nécessaire ;
-De mes défauts j'ai dû vous prévenir ;
-Mais la douceur de votre caractère
-Peut corriger le mien, peut le rendre parfait.
-Assez souvent l'amour a fait
-Ce que la raison n'a pu faire.
-
--*who_lise
 L'amour ! L'amour peut-il entrer dans votre cœur ?
 Tiendrait-il un pareil langage ?
 Ne me croyez pas dans l'erreur,
@@ -688,17 +337,9 @@ Achevez cet affreux portrait,
 Deux ou trois traits encor afin qu'il soit parfait :
 À vous les indiquer faut-il que je m'engage ?
 
--*who_dorval
-Jamais étonnement ne fut égal au mien.
-
--*who_lise
 Il est saisi.
       La feinte à-présent vous sied bien.
 
--*who_dorval
-Ah ! De grâce, cessez une plaisanterie....
-
--*who_lise
 Cessez vous-même, je vous prie,
 Cessez, Monsieur, de m'outrager.
 Sans espoir de me corriger,
@@ -709,64 +350,22 @@ De prévenir ma moindre fantaisie.
 Je suis jeune, je suis jolie.
 Je dois donner des lois, et n'en point recevoir.
 
--*who_dorval
-Avec autant d'attraits, avoir ce caractère ?
-
--*who_lise
 Conservez-vous l'espoir de le rendre parfait ?
 Assez souvent l'amour a fait
 Ce que la raison n'a pu faire.
 
--*who_dorval
-Ah ! De grâce, parlons sans dépit, sans humeur.
-
--*who_lise
 Le dépit est l'effet de l'amour qu'on outrage.
 Vous seriez-vous flatté, Monsieur,
 D'avoir acquis quelque droit sur mon cœur.
 Je devais vous croire plus sage.
 
--*who_dorval
-C'est un jeu....
-
--*who_lise
       Non, Monsieur, non ; c'est la vérité.
 Je n'y mets point d'humeur, je n'ai rien affecté :
 Oui, j'ai tous ces défauts, beaucoup d'autres encore,
 Et, malgré tout cela, je prétends qu'on m'adore.
 
--*who_dorval
-J'ignore par quel charme elle sait embellir
-Ce qui semble devoir forcer à la haïr.
-
--*who_lise
 Il le désavouera, cet affreux caractère.
 
--*who_dorval
-Point de faiblesse, il faut finir.
-La surprise un instant m'a forcé de me taire.
-Daignez me pardonner, si j'ai pu vous déplaire ;
-Faire votre bonheur était mon seul désir.
-Vous étiez le choix de ma mère,
-Et j'aimais à m'en applaudir.
-Je vous ai vu ; votre présence
-Semblait me confirmer cette douce espérance :
-J'admirais vos attraits, surtout votre douceur ;
-Je me disais, sans cesse, et du fond de mon âme :
-Elle aura le talent de me rendre meilleur :
-Ah ! Que ne peut sur nous la douceur d'une femme !
-
--*who_dorval
-Le prestige est détruit, il n'y faut plus songer.
-En vous quittant j'emporte votre image ;
-Mais je sens que jamais je n'aurais le courage
-De souffrir des défauts qu'on ne peut corriger :
-J'userais de mes droits avec trop d'avantage,
-Et j'aime mieux vous fuir que de vous affliger.
-
-**** *book_ *id_I09 *act_I *date_1788
-
--*who_lise
 Il est parti !.... Tant mieux, ma joie en est extrême.
 Oh ! Le monstre à ma main il peut bien renoncer.
 À tant de faussetés peut-il donc s'abaisser ?
@@ -783,432 +382,33 @@ D'autres avec plus d'art cacheraient leurs défauts.
 Ces nœuds fatals ne m'offrent que des peines :
 Mon sexe porte seul tout le poids de leurs chaînes.
 
-**** *book_ *id_I10 *act_I *date_1788
-
--*who_marton
-Vous avez vu Dorval ; eh bien, qu'en dites-vous ?
-
--*who_lise
 Je ne le reverrai de la vie.
 Je vais trouver mon père, embrasser ses genoux ;
 Il n'exigera pas que je me sacrifie,
 En faisant choix d'un tel époux.
 
--*who_marton
-L'épreuve ?....
-
--*who_lise
       À tout l'effet que j'en devais attendre.
 
--*who_marton
-Et Dorval ?
-
--*who_lise
       À ma main ne doit jamais prétendre :
 Il a tous les défauts qu'un homme peut peut avoir.
 
--*who_marton
-C'est beaucoup.
-
--*who_lise
       J'en suis enchantée,
 J'en suis ravie.... Oh ! oui, je suis.... au désespoir.
 
--*who_marton
-Je n'en dis pas autant. Je suis déconcertée.
-
-**** *book_ *id_I11 *act_I *date_1788
-
--*who_frontin
-Marton ! Marton !
-
--*who_marton
-      Hé bien.
-
--*who_frontin
-      Tout est perdu.
-
--*who_marton
-      Pourquoi ?
-
--*who_frontin
-Nos amants sont brouillés.
-
--*who_marton
-      Je le sais.
-
--*who_frontin
-      Moi, j'enrage.
-Aujourd'hui les enfants aux pères font la loi.
-Tout semblait s'accorder pour ce beau mariage.
-J'allais aussi t'épouser moi.
-Tout est au diable.
-
--*who_marton
-      Un mot.
-
--*who_frontin
-      On terminait l'affaire.
-Le Procureur sortait, j'annonçais le Notaire.
-Dorval entre.... son air exprime l'embarras.
-Il fait un signe, il sort avec sa mère.
-Il lui dit quelques mots, je ne les entends pas ;
-Mais elle, sur le champ, répond avec colère :
-Non, mon fils, non jamais tu ne l'épouseras.
-J'en fus pétrifié. Sans toi, sans toi, friponne,
-Je me rirais de leur malheur ;
-Mais s'il faut que je t'abandonne,
-Je ne pourrai du sort supporter la rigueur.
-
--*who_marton
-Tu m'aimes donc ?
-
--*who_frontin
-      Jusqu'à la rage.
-Et tiens, si tu voulais répondre à mon ardeur,
-Je quitterais, pour toi, Dorval, et de bon cœur.
-
--*who_marton
-Des amants voilà le langage.
-Peux-tu m'aimer beaucoup ? Tu ne me connais pas.
-
--*who_frontin
-On doit tout enflammer quand on a tes appas.
-N'y cherchons pas tant de finesse ;
-Tous ces raffinements, cette délicatesse,
-Ne nous conviennent point ; je tiens pour le présent.
-Lorsqu'au lieu d'en jouir, on veut en voir la suite,
-Pendant tout le calcul le bonheur prend la fuite.
-Pour moi, lorsque je puis être heureux un moment,
-Je ne vais pas chercher si j'ai raison de l'être.
-Je ne suis pas aussi sot que mon maître,
-Et de tous ces débats j'aurais peu de souci....
-
--*who_marton
-Je ne t'en tiens pas quitte ainsi,
-Tu n'as pas de valet qui puisse ici m'instruire
-De tes défauts.
-
--*who_frontin
-      Bon ! Je vais te les dire.
-Je fais, parfois, le mal, parfois aussi, le bien.
-Le plus souvent je ne fais rien.
-Mon humeur est assez traitable,
-L'avis des autres est le mien.
-J'aime l'amour, j'aime la table.
-C'est tout : prends ce portrait, et donne-moi le tien.
-
--*who_marton
-Il est un peu plus long. Je suis capricieuse.
-
--*who_frontin
-Moi, je suis complaisant. Passons.
-
--*who_marton
-      Fort curieuse.
-
--*who_frontin
-Tu ne peux trouver mieux. Je suis grand babillard.
-
--*who_marton
-Je suis encore très envieuse.
-
--*who_frontin
-Hé bien, nous médirons et du tiers et du quart.
-
--*who_marton
-Coquette !
-
--*who_frontin
-      C'est charmant ! Une femme coquette
-Est un trésor pour un époux.
-L'amour ne dort jamais quand l'âme est inquiète.
-Ses soins en sont plus vifs, et ses plaisirs plus doux.
-
--*who_marton
-Je suis encore....
-
--*who_frontin
-      Et moi, je suis trop sage
-Pour en écouter davantage.
-Tant de perfections ont droit de m'étonner.
-Écoute : en un mot, comme en trente,
-J'ai des défauts, tu n'en es pas exempte :
-Hé bien, chacun de nous doit se les pardonner.
-Quand on veut recevoir, il faut savoir donner :
-C'est ma maxime, à moi, je la crois excellente.
-
--*who_marton
-Je ne manquerai pas de te la rappeler.
-
--*who_frontin
-Le plutôt vaut le mieux. Ta main ?
-
--*who_marton
-      Je te l'accorde.
-
--*who_frontin
-Mon bonheur est certain, et jamais la discorde
-Ne trouvera moyen de venir le troubler.
-
-**** *book_ *id_I12 *act_I *date_1788
-
--*who_madamedorval
-Frontin, sortez. Marton, allez, je vous supplie,
-Dire à Monsieur Dumont que je le prie
-De venir en ces lieux, que je veux lui parler,
-Que je l'attends ici.
-
-**** *book_ *id_I13 *act_I *date_1788
-
--*who_madamedorval
-      Je retiens ma colère
-Afin de pénétrer cet étonnant mystère.
-Dorval, de cet hymen veut retarder le jour ?
-Lui ! Lui ! Qui paraissait l'accepter avec joie ;
-D'un chagrin qu'il me cache, ah ! Son âme est la proie ;
-Mais vainement il use de détour.
-
-**** *book_ *id_I14 *act_I *date_1788
-
--*who_madamedorval
-Ah ! vous voilà, Monsieur.
-
--*who_dumont
-      Je vous cherchais, Madame.
-
--*who_madamedorval
-J'ai besoin, avec vous, d'une explication.
-
--*who_dumont
-Moi, j'ai besoin de vous ouvrir mon âme :
-Écoutez-moi, sans passion.
-Quand j'acceptai Dorval pour époux de ma fille,
-Je croyais de tous deux assurer le bonheur :
-Ce que je viens d'apprendre a détruit mon erreur ;
-Cet hymen porterait le trouble en ma famille ;
-On m'avait abusé par un portrait flatteur.
-Et vous me permettrez, s'il vous plaît....
-
--*who_madamedorval
-      Quel langage !
-Monsieur Dumont, me connaissez-vous bien ?
-Si, pour vous excuser, vous prenez ce moyen,
-Je le regarde, moi, comme un nouvel outrage.
-C'est vous qui prétendiez, Monsieur, m'en imposer ;
-Cette union était tout à votre avantage ;
-Mais Dorval, plus sensé, plus prudent et plus sage,
-A découvert qu'on voulait l'abuser,
-Et s'oppose à ce mariage.
-
--*who_dumont
-Ce Dorval est un fou qu'on ne peut excuser,
-Et ma fille en conçoit de très justes alarmes.
-J'ai méprisé longtemps des prières, des larmes
-Que je croyais l'effet de la prévention ;
-Mais je me vois forcé de leur rendre justice.
-
--*who_madamedorval
-Ces pleurs sont l'effet du caprice,
-Et non celui de la raison.
-
--*who_dumont
-Non ; car la pauvre enfant n'avait pu se défendre
-D'éprouver, pour Dorval un sentiment fort tendre :
-Lorsqu'elle a refusé sa main,
-Je lisais dans ses yeux qu'il avait su lui plaire.
-Oh ! Je connais le cœur humain.
-Rien n'échappe d'ailleurs à l'œil d'un tendre père ;
-Lise aime votre fils ; son cœur, j'en suis certain,
-Souffre en secret ; mais son esprit, plus sain,
-Lui fait voir les dangers d'un pareil caractère.
-
--*who_madamedorval
-Eh ! De qui parlez-vous ?
-
--*who_dumont
-      De Dorval, s'il vous plaît.
-
--*who_madamedorval
-De mon fils ! Apprenez, Monsieur, qu'il est parfait.
-
--*who_dumont
-Cette perfection, Madame, est assez mince.
-
--*who_madamedorval
-Il n'a pas son égal dans toute la province,
-Pour l'esprit, et pour les vertus.
-
--*who_dumont
-Je l'ai cru trop longtemps, mais je ne le crois plus.
-
--*who_madamedorval
-Monsieur !
-
--*who_dumont
-      Madame !
-
--*who_madamedorval
-      Apprenez, je vous prie,
-À ménager Dorval, à me respecter, moi.
-
--*who_dumont
-Madame, d'être franc, je me suis fait la loi ;
-Je n'ai jamais su feindre, et n'en ai nulle envie.
-Dorval, sur cet article, est plus censé que vous ;
-Il est quinteux, brutal, querelleur et jaloux ;
-Mais de tous ces défauts il fait l'aveu sincère ;
-Et, pour ne l'en pas croire, il faut être sa mère.
-
--*who_madamedorval
-Quel odieux portrait !... Redoutez mon courroux.
-Plus d'amitié, Monsieur, plus de paix entre nous.
-Je vous déclare ici la plus cruelle guerre.
-
--*who_dumont
-J'y consens.
-
--*who_madamedorval
-      Le contrat n'est pas encore signé.
-
--*who_dumont
-Grâce au Ciel !
-
--*who_madamedorval
-      Je pars ce soir même.
-Je vais plaider encor ! La joie en est extrême !
-Dans trois jours, au plus tard, vous serez assigné
-En réparations, intérêts et dommages.
-Oh ! Je serai vengé, Monsieur, de tant d'outrages.
-
--*who_dumont
-Hé bien, Madame, hé bien, plaidons sur nouveaux
-J'aime mieux, avec vous, avoir trente procès,
-Que d'en avoir un seul au sein de ma famille :
-Toujours mes propres intérêts
-Seront sacrifiés au bonheur de ma fille :
-Mais pour mettre en défaut votre esprit chicaneur,
-Avant trois jours je veux marier Lise....
-
--*who_madamedorval
-À qui donc ?
-
--*who_dumont
-      À mon Procureur :
-Il est partout des gens d'honneur.
-
--*who_madamedorval
-D'un pareil choix, Monsieur, je ne suis pas surprise,
-Il est digne de vous.
-      Frontin ! Frontin.
-
--*who_dumont
-Marton.
-
-**** *book_ *id_I15 *act_I *date_1788
-
--*who_madamedorval
-      Allez dire à mon fils....
-
--*who_dumont
-      Allez dire à ma fille
-Que Dorval n'entrera jamais dans ma famille.
-
--*who_madamedorval
-Que je veux sur le champ quitter cette maison.
-Allez.
-
--*who_frontin
-      Vous partirez sans moi, je vous le jure.
-
-**** *book_ *id_I16 *act_I *date_1788
-
--*who_madamedorval
-Vous me ferez raison, Monsieur, de cette injure.
-Je vous poursuivrai sans pitié.
-Avant de voir la fin de notre inimitié,
-On verra renverser l'ordre de la nature.
-Je prétends vous plaider jusqu'à mon dernier jour.
-Aux vôtres mes enfants ne seront point de grâce ;
-Ils les plaideront à leur tour
-Jusqu'au dernier de notre race ;
-Et par mon testament je les y contraindrai.
-
--*who_dumont
-Oh ! je ne vous crains pas, Madame, et je saurai...
-
-**** *book_ *id_I17 *act_I *date_1788
-
--*who_lise
 Quoi ! mon père !...
       Souffrez que je vous remercie.
 
--*who_dorval
-On m'apprend à l'instant que vous voulez partir.
-
--*who_madamedorval
-Oui, mon fils, sur le champ.
-
--*who_dorval
-      Daignez, je vous supplie....
-
--*who_madamedorval
-Daignez, Monsieur, ne pas me répartir.
-On vous insulte, on vous outrage ;
-Et nous pourrions rester en ces lieux davantage :
-Non, mon fils, au plutôt je prétends en sortir.
-
--*who_dumont
-Permettez. Avant tout, il faut aller reprendre
-Chez notre Procureur l'abandon de nos droits :
-Monsieur Dorval, ici, voudra bien nous attendre.
-
--*who_madamedorval
-Ici ?... j'y rentrerai pour la dernière fois.
-Allons, Monsieur.
-
--*who_dumont
-      Allons ; serviteur, feu mon gendre.
-
-**** *book_ *id_I18 *act_I *date_1788
-
--*who_dorval
-Je vais, dès aujourd'hui, vous quitter pour jamais.
-
--*who_lise
 Il le faut bien, Monsieur.
 
--*who_dorval
-      Ah ! votre âme est tranquille
-Rien ne peut en troubler la paix.
-
--*who_lise
 Cette réflexion est assez inutile
 
--*who_dorval
-Que votre esprit encor n'en soit point offensé :
-Une franchise outrée à vos yeux fut mon crime :
-Le Ciel me punit bien d'un projet insensé ;
-Mais je prétends du moins obtenir votre estime,
-Si j'ai perdu l'espoir de toucher votre cœur.
-
--*who_lise
 Cet espoir, à vos yeux, a paru peu fla teur,
 Et vous avez tout fait, Monsieur, pour le déttuire.
 Le succès est certain : de quoi vous plaignez vous ?
 
--*who_dorval
-Vous devez m'accabler du plus juste courroux :
-Je l'ai bien mérité, mais je dois vous instruire.
-
--*who_lise
 Non, non, il n'en est pas besoin ;
 Épargnez-vous, Monsieur, un inutile soin.
 
--*who_dorval
-Avant de me juger, du moins daignez m'entendre.
-
--*who_lise
 De vous justifier conservez-vous l'espoir ?
 Quels sont donc les desseins que vous pouvez avoir ?
 En vérité, Monsieur, je n'y puis rien comprendre.
@@ -1221,7 +421,271 @@ Mais ce n'est point assez pour voire vanité :
 Vous voulez partir regretté.
 Voilà le vrai motif de ce nouvel hommage.
 
--*who_dorval
+Ah, de quel poids mon cœur est soulagé !
+
+Je ne dois pas souffrir que votre âme s'abuse.
+
+Dieux !
+      Dorval, rendez-moi justice.
+
+C'est trop longtemps, Dorval, prolonger votre erreur,
+Mon âme au sentiment a besoin de se rendre :
+Ah ! vous aviez déjà mon cœur....
+
+Vous venez, pour jamais d'obtenir mon estime ;
+Mais de bien des défauts je dois me corriger.
+
+Je n'aurai pas, Dorval, tant de peine à changer.
+Je suis bien loin d'être parfait ;
+Mais je ne suis pas vive, emportée et coquette,
+Autant que j'ai voulu le paraître à vos yeux.
+
+Mon triomphe est passé, Dorval, voici le vôtre ;
+C'est à vous maintenant à reprendre vos droits.
+Votre sexe toujours doit commander au n ? ?tre :
+Je me fais un devoir de souscrite à vos loix.
+
+Puisque vous l'exigez, nous régnerons tous deux ;
+Dorval, par la raison, Lise, par la tendresse.
+
+      Mon père...
+
+      Je les partage.
+
+      Madame,
+Sans votre aveu, je croirais abuser...
+
+
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorval
+
+Hé bien ?
+
+      Puisqu'il est averti,
+Je crois que nous pouvons nous arrêter ici.
+Dans ce salon, sans doute, il va se rendre.
+
+Nous sommes loin, Monsieur, de vouloir abuser....
+
+Mon Dieu ! Son seul défaut, c'est trop de modestie.
+Cette vertu, chez vous, dégénère en manie,
+Mon fils ; on ne doit point outrer la vérité ;
+Mais on doit convenir de son propre mérite.
+
+C'est comme moi, Monsieur.
+
+Frontin, sortez. Marton, allez, je vous supplie,
+Dire à Monsieur Dumont que je le prie
+De venir en ces lieux, que je veux lui parler,
+Que je l'attends ici.
+
+      Je retiens ma colère
+Afin de pénétrer cet étonnant mystère.
+Dorval, de cet hymen veut retarder le jour ?
+Lui ! Lui ! Qui paraissait l'accepter avec joie ;
+D'un chagrin qu'il me cache, ah ! Son âme est la proie ;
+Mais vainement il use de détour.
+
+Ah ! vous voilà, Monsieur.
+
+J'ai besoin, avec vous, d'une explication.
+
+      Quel langage !
+Monsieur Dumont, me connaissez-vous bien ?
+Si, pour vous excuser, vous prenez ce moyen,
+Je le regarde, moi, comme un nouvel outrage.
+C'est vous qui prétendiez, Monsieur, m'en imposer ;
+Cette union était tout à votre avantage ;
+Mais Dorval, plus sensé, plus prudent et plus sage,
+A découvert qu'on voulait l'abuser,
+Et s'oppose à ce mariage.
+
+Ces pleurs sont l'effet du caprice,
+Et non celui de la raison.
+
+Eh ! De qui parlez-vous ?
+
+De mon fils ! Apprenez, Monsieur, qu'il est parfait.
+
+Il n'a pas son égal dans toute la province,
+Pour l'esprit, et pour les vertus.
+
+Monsieur !
+
+      Apprenez, je vous prie,
+À ménager Dorval, à me respecter, moi.
+
+Quel odieux portrait !... Redoutez mon courroux.
+Plus d'amitié, Monsieur, plus de paix entre nous.
+Je vous déclare ici la plus cruelle guerre.
+
+      Le contrat n'est pas encore signé.
+
+      Je pars ce soir même.
+Je vais plaider encor ! La joie en est extrême !
+Dans trois jours, au plus tard, vous serez assigné
+En réparations, intérêts et dommages.
+Oh ! Je serai vengé, Monsieur, de tant d'outrages.
+
+À qui donc ?
+
+D'un pareil choix, Monsieur, je ne suis pas surprise,
+Il est digne de vous.
+      Frontin ! Frontin.
+
+      Allez dire à mon fils....
+
+Que je veux sur le champ quitter cette maison.
+Allez.
+
+Vous me ferez raison, Monsieur, de cette injure.
+Je vous poursuivrai sans pitié.
+Avant de voir la fin de notre inimitié,
+On verra renverser l'ordre de la nature.
+Je prétends vous plaider jusqu'à mon dernier jour.
+Aux vôtres mes enfants ne seront point de grâce ;
+Ils les plaideront à leur tour
+Jusqu'au dernier de notre race ;
+Et par mon testament je les y contraindrai.
+
+Oui, mon fils, sur le champ.
+
+Daignez, Monsieur, ne pas me répartir.
+On vous insulte, on vous outrage ;
+Et nous pourrions rester en ces lieux davantage :
+Non, mon fils, au plutôt je prétends en sortir.
+
+Ici ?... j'y rentrerai pour la dernière fois.
+Allons, Monsieur.
+
+      Partons, mon fils.... ô ciel !
+
+Quel étrange discours ? Mon fils, y pensez-vous ?
+
+      Hé bien ?
+
+Les enfants ! Les enfants !
+
+Ma fille, embrassez-moi, puis-je vous refuser ?
+Dorval vous aime ; et nous n'avons qu'une âme.
+
+
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
+
+On n'est pas plus jolie.
+
+Par un premier coup-d'œil craignez d'être séduit,
+Monsieur ; si les dehors sont à mon avantage,
+Je ne prétends jamais en tirer vanité.
+
+Quand on en a, Madame.
+
+Voila l'heureux instant de vous ouvrir mon âme,
+Je le saisis avec empressement.
+Je ne vous tiendrai pas les discours d'un amant ;
+Je ne veux pas vous peindre une subite flamme,
+Vos yeux sont faits pour l'inspirer ;
+Je résiste avec peine au pouvoir de vos charmes ;
+Mais je crains de causer d'éternelles alarmes
+À celle que toujours je voudrais adorer.
+
+      Je dois vous surprendre.
+Daignez quelques instants, daignez encor m'entendre,
+Des amants je devrais être le plus heureux :
+À la beauté vous unissez les grâces ;
+Je devrais m'empresser de vous offrir mes vœux,
+Vous jurer de fixer les plaisirs sur vos traces ;
+Mais peu d'accord avec mon cœur,
+Mon esprit, en ce jour, s'oppose à mon bonheur ;
+Je suis un homme étrange ; il faut que je l'avoue.
+
+Il m'en coûte de l'affliger.
+
+Un seul instant encor : après, je ne dis mot.
+Vous avez, m'a-t-on dit, beaucoup de patience ;
+Tant mieux, j'en ai fort peu, vous en aurez pour moi.
+N'attendez, de ma part, aucune complaisance,
+Ma volonté toujours fut mon unique loi.
+
+      À ce défaut, joignez la défiance.
+Il faut s'expliquer net, ou j'interprète mal.
+Et jugez à quel point je suis original ?
+J'explique en ce moment jusqu'à votre silence ;
+Vous traitez cet aveu de pure extravagance ;
+Vous me regardez comme un sot.
+
+      Il faut trancher le mot,
+J'en suis sûr. Pour la tête, elle n'est pas meilleure.
+Je m'emporte pour rien, je m'emporte a toute heure :
+Cela ne dure pas, j'ai le cœur assez bon ;
+Je reconnais mes torts, et demande pardon.
+Mais il faut souffrir la tempête.
+Vous jugez si ma femme a besoin de douceur ;
+Il faut qu'à m'excuser son âme toujours prête,
+De quelques bons moments fasse tout son bonheur.
+À ce prodige ai-je droit de prétendre ?
+
+Elle frémit.
+
+Daignez me pardonner un aveu nécessaire ;
+De mes défauts j'ai dû vous prévenir ;
+Mais la douceur de votre caractère
+Peut corriger le mien, peut le rendre parfait.
+Assez souvent l'amour a fait
+Ce que la raison n'a pu faire.
+
+Jamais étonnement ne fut égal au mien.
+
+Ah ! De grâce, cessez une plaisanterie....
+
+Avec autant d'attraits, avoir ce caractère ?
+
+Ah ! De grâce, parlons sans dépit, sans humeur.
+
+C'est un jeu....
+
+J'ignore par quel charme elle sait embellir
+Ce qui semble devoir forcer à la haïr.
+
+Point de faiblesse, il faut finir.
+La surprise un instant m'a forcé de me taire.
+Daignez me pardonner, si j'ai pu vous déplaire ;
+Faire votre bonheur était mon seul désir.
+Vous étiez le choix de ma mère,
+Et j'aimais à m'en applaudir.
+Je vous ai vu ; votre présence
+Semblait me confirmer cette douce espérance :
+J'admirais vos attraits, surtout votre douceur ;
+Je me disais, sans cesse, et du fond de mon âme :
+Elle aura le talent de me rendre meilleur :
+Ah ! Que ne peut sur nous la douceur d'une femme !
+
+Le prestige est détruit, il n'y faut plus songer.
+En vous quittant j'emporte votre image ;
+Mais je sens que jamais je n'aurais le courage
+De souffrir des défauts qu'on ne peut corriger :
+J'userais de mes droits avec trop d'avantage,
+Et j'aime mieux vous fuir que de vous affliger.
+
+On m'apprend à l'instant que vous voulez partir.
+
+      Daignez, je vous supplie....
+
+Je vais, dès aujourd'hui, vous quitter pour jamais.
+
+      Ah ! votre âme est tranquille
+Rien ne peut en troubler la paix.
+
+Que votre esprit encor n'en soit point offensé :
+Une franchise outrée à vos yeux fut mon crime :
+Le Ciel me punit bien d'un projet insensé ;
+Mais je prétends du moins obtenir votre estime,
+Si j'ai perdu l'espoir de toucher votre cœur.
+
+Vous devez m'accabler du plus juste courroux :
+Je l'ai bien mérité, mais je dois vous instruire.
+
+Avant de me juger, du moins daignez m'entendre.
+
 Ah ! je dois dissiper cette fatale erreur.
 Connaissez mieux Dorval et plaignez son malheur.
 J'ai redouté longtemps le joug du mariage ;
@@ -1239,10 +703,6 @@ D'effacer ce tableau par un plus agréable,
 D'obtenir d'une épouse et l'estime et le cœur,
 En faisant au tyran succéder l'homme aimable.
 
--*who_lise
-Ah, de quel poids mon cœur est soulagé !
-
--*who_dorval
 Je ne m'attendais pas à rencontrer mon maître.
 L'amour, de cette feinte, est sans doute outragé ;
 Mais le cruel est bien vengé.
@@ -1256,10 +716,6 @@ Ne me détrompez pas, mon âme s'y refuse :
 Hé, pourquoi de vos yeux démentir la douceur ?
 Malgré vous tous vos traits expriment la candeur.
 
--*who_lise
-Je ne dois pas souffrir que votre âme s'abuse.
-
--*who_dorval
 Hé bien, je m'abandonne au pouvoir de l'amour ;
 Mon cœur de vos défauts ne conçoit plus d'alarmes ;
 Ils sont tous effacés, je ne vois que vos charmes ;
@@ -1267,11 +723,6 @@ Et si mes soins peuvent un jour
 M'obtenir un tendre retour,
 Je serai trop payé d'un si doux sacrifice.
 
--*who_lise
-Dieux !
-      Dorval, rendez-moi justice.
-
--*who_dorval
 Non, vous résisteriez en vain ;
 À mes yeux maintenant vous paraissez parfaite :
 Je supporterai tout, je n'exigerai rien.
@@ -1283,81 +734,22 @@ Ne craignez de sa part ni reproche, ni plainte :
 S'il peut vous obtenir, il sera trop heureux.
 Je le jure à vos pieds, cessez de vous défendre....
 
--*who_lise
-C'est trop longtemps, Dorval, prolonger votre erreur,
-Mon âme au sentiment a besoin de se rendre :
-Ah ! vous aviez déjà mon cœur....
-
--*who_dorval
 Dieux ! puis je croire à mon bonheur.
 
--*who_lise
-Vous venez, pour jamais d'obtenir mon estime ;
-Mais de bien des défauts je dois me corriger.
-
--*who_dorval
 Ah ! N'en parlons jamais ; je me ferais un crime...
 
--*who_lise
-Je n'aurai pas, Dorval, tant de peine à changer.
-Je suis bien loin d'être parfait ;
-Mais je ne suis pas vive, emportée et coquette,
-Autant que j'ai voulu le paraître à vos yeux.
-
--*who_dorval
 Mon cœur me le disait : ah ! je suis trop heureux.
 
--*who_lise
-Mon triomphe est passé, Dorval, voici le vôtre ;
-C'est à vous maintenant à reprendre vos droits.
-Votre sexe toujours doit commander au n ? ?tre :
-Je me fais un devoir de souscrite à vos loix.
-
--*who_dorval
 Moi ! Vous donner des lois ? Non, j'en fais la promesse ;
 Régnez toujours sur moi, vous comblerez mes vœux.
 
--*who_lise
-Puisque vous l'exigez, nous régnerons tous deux ;
-Dorval, par la raison, Lise, par la tendresse.
-
--*who_dorval
 Je n'y résiste plus, je cède à mon ivresse,
 Et je jure à vos pieds...
 
-**** *book_ *id_I19 *act_I *date_1788
-
--*who_madamedorval
-      Partons, mon fils.... ô ciel !
-
--*who_dumont
-Que fait-il là ?
-
--*who_dorval
       Je jure un amour éternel
 Au cœur le plus parfait, à l'âme la plus pure
 Qui soient jamais sortis des mains de la nature.
 
--*who_madamedorval
-Quel étrange discours ? Mon fils, y pensez-vous ?
-
--*who_dumont
-Vous paraissez, ma fille, approuver ce langage,
-Ces sentiments.
-
--*who_lise
-      Mon père...
-
--*who_dumont
-      Eh bien ?
-
--*who_lise
-      Je les partage.
-
--*who_dumont
-Sans doute en notre absence ils sont devenus fous.
-
--*who_dorval
 Au contraire, Monsieur, je suis devenu sage.
 Daignez nous écouter et calmer ce courroux.
 D'une feinte, tous deux, nous fûmes la victime,
@@ -1371,48 +763,359 @@ En faisant succéder la haine à l'amitié.
 En nous réunissant, terminez votre peine,
 L'amitié pour jamais va remplacer la haine.
 
--*who_marton
-Amour ! amour ! voilà bien de tes coups.
-
--*who_dumont
-Hé bien, Madame,
-
--*who_madamedorval
-      Hé bien ?
-
--*who_dumont
-      Adieu notre courroux.
-
--*who_madamedorval
-Les enfants ! Les enfants !
-
--*who_dumont
-      Puisqu'ils sont raisonnables,
-Il faut bien, d'un moment, leur pardonner l'erreur.
-Eh ! que gagnerions-nous à paraître intraitables,
-Cela s'appellerait bouder contre son cœur.
-Votre fils a raison, la haine est un supplice.
-Allons, mes chers enfants, que l'hymen vous unisse :
-En vous aimant toujours, faites notre bonheur.
-
--*who_dorval
 Comment vous témoigner...
 
--*who_lise
-      Madame,
-Sans votre aveu, je croirais abuser...
 
--*who_madamedorval
-Ma fille, embrassez-moi, puis-je vous refuser ?
-Dorval vous aime ; et nous n'avons qu'une âme.
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
--*who_dumont
-De notre vieille haine oublions les excès :
-Four assurer la paix que le Ciel nous envoie,
-De tous les titres du procès
-Je prétends faire un feu de joie.
-Écoutez, mes enfants, pour un instant d'erreur,
-De mille maux cruels votre âme fut atteinte.
-Ne démentez donc plus la voix de votre cœur.
-Jamais le vrai plaisir n'est le prix de la feinte,
-Et la seule franchise a des droits au bonheur.
+Ah ! Le père cruel ! Voilà pour en mourir ;
+C'est une barbarie atroce, épouvantable.
+Nous forcer d'épouser un homme jeune, aimable...
+
+Un exemple me fait pas loi.
+D'ailleurs, le mariage est une loterie,
+Les bons billets nous viennent au hasard.
+On les obtient, sans peine, étant jeune et jolie ;
+On n'a que les mauvais quand on y met trop tard.
+
+Eh ! Comment lui prouver une chose incroyable ?
+
+      Eh ! Mais, y pensez-vous ?
+Il dira que, déjà, vous vous croyez sa femme.
+
+Et cette épreuve est folle, en vérité.
+Ne pas se réserver même une qualité ?
+
+      Laquelle ?
+
+C'est : encore un défaut quand on a tous ceux-là ? ;
+L'art de les bien cacher serait plus à ma guise.
+
+Moi, je crains les effets de cette humeur chagrine ;
+Pour vouloir l'adoucir, n'augmentez pas le mal ;
+À ne vous point flatter, si votre âme s'obstine,
+Avec vos seuls défauts montrez-vous à Dorval.
+
+Dois-je, d'un tel projet, ou m'affliger on rire ?
+Le moyen est original.
+Pour ne rien hasarder, il ne faut en rien dire.
+En connaisseur prudent, si l'effet est fatal,
+À haute voix on le déchire ;
+Mais s'il est heureux, on l'admire.
+
+Quel est cet homme-là ?
+
+Et de qui ?
+
+      Ah, ma joie est extrême.
+Je vais savoir....
+      Approchez donc, Monsieur ;
+Vous lui servez...
+
+      Depuis longtemps ?
+
+Et vous le connoissez ?
+
+      Charmant ! écoute.
+Je veux quelques instants avec toi m'expliquer.
+
+Ni femme, ni maîtresse, à cela près....
+
+Toi, mon époux !
+
+      Pas encor.
+
+Laissons cela : nous y reviendrons bien.
+
+      Et parlons un instant de ton maître.
+
+Hé, nigaud, n'en dis pas de mal.
+
+      C'est un homme si sage.
+
+      Dis-tu vrai ?
+
+D'honneur.
+
+      Quoi donc ?
+
+Ah, Dieux !
+
+Il les a tous ?
+
+      Ah ! Je perds courage.
+
+Mais qui nous écrit donc ?...
+
+Tous ces défauts....
+
+Ah ! Pauvre Lise !
+
+      Non.
+
+      Non.
+
+On le croit ; mais moi, moi, je connais son esprit ;
+Elle impose an bonhomme de père ;
+Il la croit un prodige aussi ;
+Mais c'est un vrai démon : voilà son caractère.
+
+Elle n'est pas heureuse ; on croit dans un mari
+Rencontrer un homme docile.
+Sans les chercher, on en eût trouvé mille ;
+Pour en être plus sûr, exprès on l'a choisi,
+Et l'on est à ce point trompé dans son attente.
+Il est affreux de s'abuser ainsi.
+
+Tu n'as donc plus rien à me dire ?
+
+S'il a quelque défaut, c'est d'être un peu flatté.
+
+      Adieu, je me retire,
+Et je vais t'annoncer....
+
+Je suis muette. Et toi ?
+
+      Bon.
+
+      Il est de bonne foi.
+
+Oh ! Voilà bien les mères !
+
+L'orage pourra bien succéder au bon temps.
+
+Vous avez vu Dorval ; eh bien, qu'en dites-vous ?
+
+L'épreuve ?....
+
+Et Dorval ?
+
+C'est beaucoup.
+
+Je n'en dis pas autant. Je suis déconcertée.
+
+      Hé bien.
+
+      Pourquoi ?
+
+      Je le sais.
+
+      Un mot.
+
+Tu m'aimes donc ?
+
+Des amants voilà le langage.
+Peux-tu m'aimer beaucoup ? Tu ne me connais pas.
+
+Je ne t'en tiens pas quitte ainsi,
+Tu n'as pas de valet qui puisse ici m'instruire
+De tes défauts.
+
+Il est un peu plus long. Je suis capricieuse.
+
+      Fort curieuse.
+
+Je suis encore très envieuse.
+
+Coquette !
+
+Je suis encore....
+
+Je ne manquerai pas de te la rappeler.
+
+      Je te l'accorde.
+
+Amour ! amour ! voilà bien de tes coups.
+
+
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+Parbleu ! tous ces valets sont de grands fainéans.
+Est-ce ainsi qu'on reçoit les gens ?
+Faut-il qu'en ce logis je m'annonce moi-même.
+
+      Je suis ambassadeur.
+
+      De Dorval.
+
+      D'ami.
+
+      Sans doute.
+
+      Au mieux.
+
+La situation devient embarrassante.
+Sur quel ton, s'il vous plaît, dois-je vous répliquer ?
+Êtes-vous femme, on fille, ou maîtresse, ou suivante ?
+
+      Charmante !
+Embrasse ton époux, et parlons sans façon.
+
+      Sans doute. Hé, pourquoi non ?
+Mon maître épouse ta maîtresse ;
+Nous servirons tous deux dans la même maison ;
+Tu n'es pas mariée, et moi je suis garçon,
+Nous devons l'un pour l'autre avoir de la tendresse :
+Tu dis oui.
+
+      Hé, laissons la finesse.
+Les si, les mais, les car, les pourquoi, les comment,
+N'entrent pour rien, chez nous, dans un engagement.
+Je te vois, tu me plais ; je te le dis sans feinte ;
+Tu partages ma flamme, hé bien, marions-nous.
+J'ai des rivaux ?.... Tant mieux : je ferai des jaloux.
+De l'amour, de la joie, et fi de la contrainte.
+
+Je l'espère.
+
+Nous y voilà.
+      Je n'en dis jamais rien.
+Je suis valet d'honneur, et je veux toujours l'être.
+
+Je ne veux pas mentir.
+
+C'est un fou.
+
+      C'est un original.
+
+      Bon ! ce n'est rien.
+
+      Il est brutal,
+Querelleur et quinteux, jaloux jusqu'à la rage.
+
+      De votre sexe il fronde tous les goûts :
+Quant aux vices du sien, je crois qu'il les a tous.
+
+      Tous.
+
+À cela près, c'est un garçon charmant.
+Je dois sur son sujet agir discrètement,
+Et je n'en dis pas davantage.
+
+      C'est sa chère maman
+De son fils elle est folle, et le croit un prodige.
+
+      Aucun ne la frappe, te dis-je,
+Et Dorval ne les doit qu'a son aveuglement.
+
+      Mais j'espère
+Que bientôt le désir de plaire....
+Lise a de la douceur.
+
+      Non ?
+
+      On le dit ?
+
+Il est en honneur fort joli,
+Et l'aventure est singulière.
+
+Et nous donc, pleins d'amour, nous arrivons de Nantes,
+Charmés de la beauté, moins que de la douceur
+De l'épouse qu'on nous destine.
+Et plus que nous encor cette femme est lutine :
+En vérité, c'est une horreur.
+
+Ton portrait est tracé d'après la vérité.
+
+C'est tout comme le mien.
+
+      De la discrétion !
+
+      Je t'aime, il suffit.
+
+Bon ! Bon ! Pas trop. Mon maître était loin de s'attendre
+À pareille réception
+L'en préviendrai ma foi non.
+C'est un piége peut-être où l'on voudrait nous prendre ;
+Peut-être qu'en faveur de quelque amant secret,
+On veut nous dégoûter d'un hymen qui déplaît.
+Mon cher ami Frontin, ayez de la prudence,
+Connaissez une fois tout le prix du silence :
+Un adroit courtisan doit parler à propos :
+Dire tout ce qu'on sait, est le talent des sots.
+Chut ! Taisons-nous, on vient ; c'est Dorval et sa mère.
+
+      On est allé vous annoncer au père,
+Si vous voulez entrer....
+
+Je crois que je l'entends.
+
+      Oui.
+      Mais c'est bien dommage !...
+
+Voilà le père ! le voila !
+
+Marton ! Marton !
+
+      Tout est perdu.
+
+Nos amants sont brouillés.
+
+      Moi, j'enrage.
+Aujourd'hui les enfants aux pères font la loi.
+Tout semblait s'accorder pour ce beau mariage.
+J'allais aussi t'épouser moi.
+Tout est au diable.
+
+      On terminait l'affaire.
+Le Procureur sortait, j'annonçais le Notaire.
+Dorval entre.... son air exprime l'embarras.
+Il fait un signe, il sort avec sa mère.
+Il lui dit quelques mots, je ne les entends pas ;
+Mais elle, sur le champ, répond avec colère :
+Non, mon fils, non jamais tu ne l'épouseras.
+J'en fus pétrifié. Sans toi, sans toi, friponne,
+Je me rirais de leur malheur ;
+Mais s'il faut que je t'abandonne,
+Je ne pourrai du sort supporter la rigueur.
+
+      Jusqu'à la rage.
+Et tiens, si tu voulais répondre à mon ardeur,
+Je quitterais, pour toi, Dorval, et de bon cœur.
+
+On doit tout enflammer quand on a tes appas.
+N'y cherchons pas tant de finesse ;
+Tous ces raffinements, cette délicatesse,
+Ne nous conviennent point ; je tiens pour le présent.
+Lorsqu'au lieu d'en jouir, on veut en voir la suite,
+Pendant tout le calcul le bonheur prend la fuite.
+Pour moi, lorsque je puis être heureux un moment,
+Je ne vais pas chercher si j'ai raison de l'être.
+Je ne suis pas aussi sot que mon maître,
+Et de tous ces débats j'aurais peu de souci....
+
+      Bon ! Je vais te les dire.
+Je fais, parfois, le mal, parfois aussi, le bien.
+Le plus souvent je ne fais rien.
+Mon humeur est assez traitable,
+L'avis des autres est le mien.
+J'aime l'amour, j'aime la table.
+C'est tout : prends ce portrait, et donne-moi le tien.
+
+Moi, je suis complaisant. Passons.
+
+Tu ne peux trouver mieux. Je suis grand babillard.
+
+Hé bien, nous médirons et du tiers et du quart.
+
+      C'est charmant ! Une femme coquette
+Est un trésor pour un époux.
+L'amour ne dort jamais quand l'âme est inquiète.
+Ses soins en sont plus vifs, et ses plaisirs plus doux.
+
+      Et moi, je suis trop sage
+Pour en écouter davantage.
+Tant de perfections ont droit de m'étonner.
+Écoute : en un mot, comme en trente,
+J'ai des défauts, tu n'en es pas exempte :
+Hé bien, chacun de nous doit se les pardonner.
+Quand on veut recevoir, il faut savoir donner :
+C'est ma maxime, à moi, je la crois excellente.
+
+Le plutôt vaut le mieux. Ta main ?
+
+Mon bonheur est certain, et jamais la discorde
+Ne trouvera moyen de venir le troubler.
+
+      Vous partirez sans moi, je vous le jure.
+

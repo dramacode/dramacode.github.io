@@ -1,8 +1,558 @@
 
 
-**** *book_ *id_I01 *act_I *date_1637
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepante
 
--*who_evandre
+Évandre, mettez fin à votre étonnement,
+Et me dites pourquoi, depuis quand, et comment
+On a cru si longtemps qu'Isménie était morte ?
+
+Donc personne que vous ne savait l'artifice ?
+
+Et le peuple indiscret sait-il cette aventure ?
+Ou s'il croit que les morts quittent la sépulture ?
+
+      Que fit donc ce Prince ingénieux ?
+
+Non.
+
+Ah ! Divine Beauté, que mon audace extrême
+Nous a portés tous deux à d'extrêmes malheurs,
+Et que tu dois haïr la cause de tes pleurs.
+
+Hélas ! fidèle Évandre, il est bien mal aisé
+Que son juste courroux soit si tôt apaisé,
+C'est trop peu de dix ans à remettre une offense
+Qui veut un siècle entier d'austère pénitence.
+
+Dites que mon destin excite sa pitié ;
+N'importe, à tout hasard, il faut que je la voie ;
+Mais j'attends de vous seul cette dernière joie.
+
+Non, ce n'est pas assez, je veux l'entretenir.
+
+Quand je lui serais cher (ce que je ne crois pas)
+Sans doute étant promise au puissant Roi Lypas,
+Pour dernière faveur elle me ferait dire
+Qu'elle plaint mon destin, mais que je me retire ;
+Ou si de lui parler j'ai l'adresse et le temps,
+Je puis venir à bout de ce que je prétends,
+À quoi la vive voix agira d'autre sorte
+Que le simple entretien d'une écriture morte,
+Trouvez donc les moyens de me la faire voir.
+
+Ce sont deux de mes Chefs, d'entre tous nos Corsaires
+Les plus honnêtes gens, et les plus nécessaires,
+Tous deux mes vrais amis, et qui nés mes sujets
+Savent seuls ma fortune, et mes hardis projets.
+Et bien Argant ?
+
+A-t-on pris le signal qui vous doit avertir,
+Et la lettre ?
+
+Partez donc, employez les rames et les voiles ;
+Et dés que le Soleil fera place aux étoiles
+Faites venir la flotte, et si j'en ai besoin
+Nos feux vous l'apprendront, ou vous serez bien loin.
+
+Non, non, ne craignez rien, cher et fidèle Évandre,
+C'est un signal donné pour me mettre en état
+D'empêcher au besoin un injuste attentat,
+C'est un frein que j'apporte à la supercherie
+Dont me pourrait user le Roi de Ligurie.
+
+Quoi, servir, mendier, se traîner dans la fange,
+Dites, je suis à tout.
+
+      Ce métier ne vaut rien.
+
+      La suite m'en dégouste
+Ténare éloignez-vous : cette indiscrétion
+Lui serait un tableau de son affliction,
+Et lui représenter sa faiblesse passée,
+N'est-ce pas à ses yeux la traiter d'insensée ?
+
+Et si quelqu'un des miens me tenait compagnie ?
+
+      Ténare approchez-vous.
+
+      Il faut, mon cher Ténare,
+Que votre belle humeur aujourd'hui se déclare.
+
+À ce geste niais, ce ris et ce visage,
+Jugez s'il saura faire un second personnage ?
+
+Le mien est sérieux, triste, et mélancolique.
+
+      Il est propre à quoi que l'on l'applique
+
+Surtout que notre jeu, si la chose est possible,
+Soit en particulier, la presse m'est nuisible.
+
+Et Dorante ?
+
+L'intelligence est grande entre Lypas et lui ?
+
+Pourquoi le fait-il donc ?
+
+Je dirais nettement que je n'en veux rien faire.
+
+Bien, bien, il les rendra, le temps en est venu :
+Mais ne pensez-vous pas que je sois reconnu,
+Évandre ?
+
+Et puis l'opinion y fait étrangement,
+On me croit mort partout, et sur cette créance
+Je puis voir Isménie avec toute assurance,
+À qui je veux pourtant, si tantôt je le puis,
+Donner juste sujet d'apprendre qui je suis.
+
+Et comment ferez-vous ?
+
+Il n'est pas mal aisé de s'en apercevoir,
+Sa grâce et sa beauté me le font assez voir.
+
+Le désir d'adorer votre beauté divine
+M'a fait quitter la Mer et ma flottante Cour,
+Afin d'être en la vôtre un esclave d'amour.
+
+C'est plutôt sur la foi du Ministre des Dieux,
+Qui cent fois en dormant m'a montré vos beaux yeux,
+Et m'a dit ; Roi Nicas, monte sur mes épaules,
+Je te veux transporter à la côte des Gaules,
+Et là te faire voir dans un trône éclatant
+Celle que mon pinceau te va représentant,
+C'est d'elle que dépend ton repos et ta gloire,
+Elle te peut ôter l'importune mémoire
+Des rudesses d'Iphis, qui te croit au tombeau,
+Et dont, comme tu vois, elle est le vrai tableau.
+
+      Oui, rien que ce rapport
+N'entretient mon amour.
+
+Vous m'obligez aussi.
+
+Madame, volontiers : qu'on m'apporte une chaise.
+
+Moi je vous le permets, jetez-vous sur l'estrade.
+
+      Écoutez un discours merveilleux,
+Que la plupart de vous tiendra pour fabuleux ;
+Mais je verra ma peine en plaisir convertie
+Pourvu que son Altesse en croie une partie,
+Et que par quelque signe, ou véritable, ou feint,
+Elle me flatte au moins de l'espoir d'être plaint.
+
+      J'ai donc bonne espérance.
+
+Chacun sait, ou saura ; que je suis Roi d'une île
+Qui ne vaut guère moins que toute la Sicile,
+Ténare le sait bien.
+
+Non loin de mon Royaume un vieil et sage Prince
+Gouvernait en repos une grande Province,
+Et sa magnificence y tenait une Cour
+Qui la rendait aimable aux Princes d'alentour,
+J'y vins, et n'y vis point de si rare merveille
+Que l'Infante sa fille en beauté non-pareille,
+Dont le regard modeste, amoureux et vainqueur,
+Qui semblait me sommer de lui rendre mon coeur,
+M'ota d'abord l'envie et le temps de combattre ;
+Elle pouvait compter trois lustres, et moi quatre ;
+Bref mon bonheur fut tel que mon feu l'enflamma,
+À force de l'aimer je crois qu'elle m'aima.
+
+C'est qu'étant sur le point de me séparer d'elle,
+(Hélas ! voici le bien d'où mon mal est venu)
+Cet Esprit jusqu'alors toujours si retenu,
+Oubliant la froideur qu'il nous avait montrée
+Nous permit dans sa chambre une secrète entrée,
+Où seul sur le minuit je fus lui dire adieu
+Malgré tous les soupçons, et de l'heure, et du lieu ;
+C'est là que toute chose augmentant mon audace
+En cherchant un baiser, je trouve ma disgrâce,
+Ses yeux auparavant si calmes et si clairs
+Me lancent des regards qui semblent des éclairs,
+Et sa bouche offensée aux injures ouverte,
+Me foudroie en ce mots, qui causèrent ma perte :
+Indiscret, me dit-elle, après cet accident
+Ne me montre jamais ton visage impudent,
+Meurs, et souille la mer de tes flammes impures.
+
+Je pense l'apaiser, je me jette à genoux,
+Mais en vain, ma présence augmente son courroux,
+Elle m'ordonne encor le trépas pour supplice,
+Pleure, soupire, plaint, appelle sa nourrice,
+Et lui commande enfin de me mettre dehors :
+Là pressé de douleur, de honte et de remords,
+Je gagne une fenêtre effroyablement haute,
+De qui le pied répond dans la mer où je saute,
+Qui depuis ce temps là m'a toujours retenu
+Jusques à maintenant que j'en suis revenu,
+Pour vous rendre, Madame, un éternel hommage.
+
+En habit de marchand Neptune m'apparut,
+Qui me mit dans son char, et qui me secourut.
+
+Il me retint toujours sur son humide Empire,
+Sur vingt mille tritons m'établit Amiral,
+Et de tous leurs Palais, Intendant Général ;
+Que je vous viens offrir, belle et grande Princesse,
+Pour vous y retirer au cas qu'on vous oppresse.
+
+Il ne tiendra qu'à vous d'en apprendre le reste,
+Et de le rendre encore ou plus ou moins funeste.
+
+Ni mes États perdus, ni depuis dix années
+Ma fortune, et ma vie à tout abandonnées,
+Ne m'ont rien fait souffrir que n'ait trop mérité
+Mon indiscrète audace envers votre beauté,
+Et je prendrais à gré ma fortune présente
+Pourvu que mon retour vous plut.
+
+Vous louez ma constance, et moi tout au contraire,
+J'ai sur cette matière un reproche à vous faire,
+Puisqu'après le discours que je vous ai tenu
+Encor ne sais-je pas si vous m'eussiez connu,
+Si l'homme que voilà ne vous eut point aidée
+À retracer de moi quelque confuse idée.
+
+Vraiment mon personnage a fait un bel effet.
+
+Tous m'est doux, tout m'est beau pourvu que je vous voie ;
+Que je passe par tout pour un fol sérieux,
+Si j'ai votre entretien je suis Roi glorieux,
+Et tiens qu'à ce prix-là les plus sages de Grèce
+Voudraient à ma folie échanger leur sagesse.
+
+      Puisqu'il vous plaît,
+Oyez en peu de mots la chose comme elle est.
+J'avais par la douleur, et l'eau que j'avais bue
+Perdu le sentiment, la parole et la vue,
+Quand des coups et des cris accompagnés d'effroi
+Me furent un sujet de revenir à moi,
+Dans le coin d'un navire, et presque à fonds de cale,
+Je me trouve étendu sur un lit dur et sale,
+Du sang d'un homme mort tout fraîchement souillé,
+Et de quantité d'eau dont je l'avais mouillé.
+
+Comme je contemplais ce spectacle funeste
+Deux soldats, la lanterne et l'épée en avant,
+Vinrent voir si quelqu'un était encor vivant,
+Et trouvant un vieillard caché parmi des hardes
+Lui passèrent deux fois leurs glaive jusqu'aux gardes ;
+Après venants à moi qui n'attendais pas mieux,
+Je vis que le plus jeune arrêta le plus vieux,
+Observa mon habit, ma physionomie,
+Et lui montra du doigt l'eau que j'avais vomie,
+Puis en mauvais Romain lui dit semblables mots :
+Celui-ci, que sans doute on a tiré des flots,
+En l'état qu'on le voit, mouillé, pâle et malade,
+N'a pas causé la mort du vaillant Encelade,
+Il est pour un Marchand trop richement vêtu,
+Et ne doit point mourir s'il n'a point combattu :
+Il en faut consulter le reste de la troupe
+Dit l'autre, et le porter dans la chambre de poupe :
+Cela dit, chacun d'eux me transporte à son rang
+Sur un tillac couvert d'une mare de sang,
+Et qui servait encor de scène et de théâtre
+À la fureur de Mars qui s'y venait débattre ;
+Là par raison d'État, et par nécessité
+Je déguise mon nom, mon sort, ma qualité,
+Et dis que pour m'ôter à la fureur d'un maître
+J'avais sauté dans l'eau d'une haute fenêtre,
+De sorte qu'en l'état où l'on m'avait trouvé
+Je ne pouvais savoir qui m'en avait sauvé :
+Lors des plus apparents un bon nombre s'assemble,
+Qui longtemps et tous bas délibèrent ensemble.
+
+      Ils furent plus courtois
+Que dans mon désespoir je ne le souhaitais ;
+Ils me firent sécher, et par leur bonne chère
+S'efforcèrent en vain de charmer ma misère ;
+Car je gardais toujours pour nourrir ma langueur
+L'image de ma faute et de votre rigueur.
+
+      Je m'en vais vous le dire.
+Après avoir détruit ce malheureux navire
+De qui je fus le seul et le dernier vivant,
+Ils reprennent soudain la route du Levant,
+Et je passe avec eux dans un vaisseau de guerre
+Qui ne craignait en tout que la flamme et la terre ;
+Je fus leur prisonnier un mois et presque deux
+En attendant le temps de me dérober d'eux,
+Qui m'eussent fait payer une rançon immense
+Si ma discrétion n'eust caché ma naissance,
+Quand le plus grand ennui qui pouvait me saisir,
+Sur le point d'échapper m'en ôta le désir ;
+J'appris auprès de Tyr le bruit faux et funeste
+Que la belle Isménie était morte de peste ;
+Et quelque temps après je sus la vérité
+Qu'un injuste voisin m'avait déshérité :
+Car, comme vous savez, cette honte des Princes
+Un mois après ma perte entra dans mes Provinces,
+Où mon frère Anaxandre, en défendant le sien,
+Perdit à la bataille et la vie et le bien ;
+Ainsi donc n'ayant plus ni d'espoir ni d'envie,
+Je mis à l'abandon ma fortune et ma vie,
+Courus par désespoir tous les bords étrangers
+Où l'on peut mieux trouver les extrêmes dangers ;
+Et bref cherchai la mort sur la terre et sur l'onde
+Tant que je ne crus pas que vous fussiez au monde.
+
+C'est d'une étrange vie, un étrange discours,
+À quoi le jour entier aurait peine à suffire.
+
+Vous m'obligez, Madame, au récit d'une chose,
+Que pour n'avoir point vue il faut que je suppose,
+Et dont tous les témoins ont peri devant moi ;
+Mais toujours, en tout cas voici ce que j'en crois.
+C'était un vaisseau Grec, qui sortait de Marseille,
+(Comme j'ai su depuis) riche et fort à merveille,
+Il ne vit pas ma chute à cause de la nuit,
+Mais il ne laissa pas d'en entendre le bruit,
+Il dépêcha l'esquif, et remarqua la place
+Avec tant d'heur pour nous, ou plutôt de disgrâce,
+Qu'il est à présumer que revenant sur l'eau
+Quelqu'un des Mariniers nous mit dans le bateau :
+Mais soit que la pitié qu'ils m'avaient témoignée
+Eut contre leur vertu la Fortune indignée,
+Ou soit que ma disgrâce eut attiré la leur
+Par la contagion de mon propre malheur,
+À ce premier éclat que le Soleil nous montre
+Un Navire Africain leur vint à la rencontre,
+À qui l'avare faim, et l'espoir du butin
+Fait commencer la charge avec son brigantin :
+Nos Marchands, gens de coeur, songent à se défendre,
+Résolus de périr plutôt que de se rendre :
+En ce premier combat, le Chef des assaillants
+Est porté dans la Mer, et trois des plus vaillants,
+Il y meurt ; cependant le gros navire approche,
+Qui donne l'escalade à l'autre qu'il accroche ;
+Enfin, pour faire court, après un long effort
+Cet injuste agresseur demeure le plus fort ;
+Alors sur le vaincu le vainqueur fait main basse,
+Et le pauvre marchand ne trouve point de grâce,
+Tous sont sacrifiés par la flamme et le fer
+Aux mânes d'Encelade étouffé dans la Mer.
+
+Oui, des plus redoutés, et des plus belliqueux.
+
+Il lui faut désormais déguiser la matière ;
+J'y passai d'un soleil la course presque entière ;
+Mais ayant en horreur leurs actes inhumains
+Je fis tant qu'à la fin j'échappai de leurs mains.
+
+Comment, que dites-vous, l'ont ils fait prisonnier ?
+
+Je ne le connais point, mais il est en estime
+D'être assez généreux, courtois et magnanime ;
+Je le blâme pourtant d'exercer un métier
+Indigne d'un grand homme, et d'un courage altier.
+
+Je l'avoue, et moi-même ayant fait comme lui
+Je devrais me servir de l'excuse d'autrui ;
+Que je vous sais bon gré d'avoir de la tendresse
+Pour les coeurs généreux que la Fortune oppresse,
+C'est par là que j'espère, et par là, que je crois,
+Que vous aurez encor quelques pensers pour moi.
+
+Que j'espère, et Lypas, à qui l'on vous destine ?
+
+Et s'il ne l'éteint pas ?
+
+Mais d'un frère engagé la puissance absolue
+Peut rendre en sa faveur votre âme irrésolue.
+
+Oui, Madame.
+
+Mais si l'on vous contraint, comme c'est l'apparence,
+Que deviendra Lépante avec son espérance ?
+
+Je le suis en effet, pour ce que je crains tout.
+
+Laissez-moi travailler : ma personne en vaut mille,
+Et quiconque osera prétendre à votre amour,
+Fut-il un autre Mars, il y perdra le jour ;
+Mais puisque vous souffrez qu'un autre vous caresse,
+Adieu, je vais chercher ma première maîtresse.
+
+      Non, je n'en ferai rien.
+
+Quelle sorte de gens ai-je ici rencontrée,
+Évandre ?
+
+      Pour l'un je le respecte ;
+Mais j'ai de ce Lypas la présence suspecte ;
+J'aime votre parent, et suis son serviteur ;
+Pour l'autre je le hais comme un usurpateur,
+Qui veut s'approprier mon bien et ma maîtresse.
+
+Ma longue affection, mon immuable foi,
+Elle enfin qui m'accepte, et qui se donne à moi.
+
+Avant que cela soit j'y perdrai trente Princes ;
+Dont le moindre commande à trois grandes provinces.
+
+A deux doigts de la mort, chez Mars et La Fortune.
+
+Tu pourrais dire encor qu'il est sujet au vent,
+Afin que ton mépris me piquât plus avant :
+Mais sache, Roy Lypas, que si j'entre en furie
+Je te ferai quitter la Mer de Ligurie,
+Et que si désormais tu disputes mon bien
+L'Empire que tu dis me donnera le tien.
+
+      Je vois bien à cette heure,
+Chacun est partisan de sa prospérité ;
+Mais bientôt les rieux seront de mon côté.
+
+      Et moi.
+
+      Il est vrai, tu dis la vérité,
+Roi Lypas.
+
+Mais si vous n'aviez pas le malheureux Lépante,
+Comment soutiendriez-vous cette fière tourmente ?
+Quel phare en cette nuit vous montrerait le port ?
+
+Et maintenant encor, qu'avez-vous résolu ?
+
+Ce n'est pas le chemin qu'il faut que vous suiviez,
+Lépante en sait un autre, et veut que vous viviez.
+
+Vous m'obligez autant que vous m'embarrassez,
+Ayant bien de la peine à faire une réponse
+Digne de ma fortune, et de votre semonce ;
+Votre excessive amour se porte aveuglement
+À me combler de gloire et de contentement,
+Et l'excès de la mienne, à mon bonheur contraire,
+Résiste à la faveur que vous me voulez faire,
+Sur le point de jouir d'un bien si désiré,
+Ma propre passion me rend considéré ;
+Il est vrai qu'au besoin il me serait facile
+De vous faire trouver un favorable asile,
+Où vous n'auriez à craindre en aucune façon
+Qu'un frère vous forçât à payer sa rançon ;
+Mais j'ai trop de courage, et vous m'êtes trop chère
+Pour vous envelopper dans ma propre misère :
+Quoi ne savez-vous pas, miracle de beauté,
+Que j'ai perdu ma gloire avec ma royauté ?
+Qu'en me précipitant, mon trône et ma fortune
+Tombèrent avec moi d'une chute commune ?
+Que je n'ai plus de rang, ni plus de qualité,
+Et que jusque à mon nom, le sort m'a tout ôté ?
+
+Je reçois à genoux cette offre généreuse ;
+Mais au moins pensez-y, je vous le dis encor,
+L'espoir est mon dernier et mon plus grand trésor :
+Je n'ai plus cet éclat, ces riches équipages,
+Ce nombre d'officiers, cette suite de pages,
+Ni tous ces Courtisans que je voulais avoir
+En l'état florissant où vous m'avez pu voir.
+
+Au reste ma retraite est au milieu des eaux,
+Dans le fonds de l'Egypte, et parmi les roseaux.
+
+Ô ! Dieux, fut-il jamais une âme si parfaite.
+Mais vos filles, Madame ?
+
+Et le fidèle Évandre, on ne le compte pas.
+
+Avant que commencer cette haute entreprise,
+Il faut, suivant la foi que vous m'avez promise,
+Que vous juriez encor par la soeur du Soleil,
+Que vous suivrez en tout mon ordre et mon conseil.
+
+Ô Dieux !
+
+Je le suis tout autant que j'ai sujet de l'être ;
+Mais il me reste encor à vous faire connaître
+Qu'à vouloir procurer ma gloire et mon bonheur
+Vous perdez votre frère en perdant votre honneur ;
+Si bien qu'à mon avis, vous ne sauriez mieux faire
+Que de mettre en effet ce conseil salutaire,
+Épousez Axala.
+
+      Mais il est à propos
+Pour le bien de Dorante, et pour votre repos.
+
+      Le Ciel me soit contraire
+Si vous y conviant je ne pense bien faire,
+Et si ma passion ne m'oblige à cela.
+
+Madame, encore un mot, et puis je me sépare.
+
+Mais c'est pour un sujet qui vous peut réjouir :
+La raison désormais, belle et grande Princesse,
+Veut qu'avec votre erreur votre colère cesse,
+Puisque le seul désir d'éprouver votre amour
+M'avait sollicité de vous faire ce tour.
+
+Comment ?
+
+      Je ne dis pas cela :
+Je vous exhorte encor, autant que je vous aime,
+D'épouser Axala, (c'est à dire moi-même)
+Moi-même qui pour moi vous l'avais conseillé.
+
+Non, non, je ne feins plus, Axala c'est Lépante,
+Je cache sous ce nom ma fortune présente ;
+Mais le Ciel détruira la trame que j'ourdis,
+Ou je serai bientôt ce que je fus jadis.
+
+Ce que je vous vais dire est le même mystere
+Que tantôt par dessin je vous ai voulu taire ;
+Je vous ai déjà dit, et fait considérer,
+Que j'eus deux grands sujets de me désespérer,
+Et parmi quelles gens se conserva ma vie,
+Or voici le destin dont elle fut suivie.
+Croyant avoir perdu mon sceptre et mes amours,
+Je voulus perdre aussi mes misérables jours,
+Et dans ce désespoir fis des exploits étranges,
+Qui trouvent parmi nous leur prix et leurs louanges ;
+Enfin après deux ans, ces hommes hasardeux
+Me firent Général de leurs vaisseaux et d'eux :
+Depuis, notre pouvoir sur la terre et sur l'onde
+S'est rendu formidable aux plus grands Rois du monde,
+Sous le nom d'Axala cachant toujours le mien
+J'ai gagné tant d'honneur, de crédit et de bien,
+Qu'avec six vingt vaisseaux et soixante galères
+J'espère de rentrer au trône de mes pères,
+D'autant plus aisément que mes braves sujets
+Aideront aux succès de mes justes projets :
+Demain avant le jour une puissante armée
+Doit venir au signal d'une torche allumée,
+Par deux Siciliens qui sont de mon parti ;
+Et c'est pour leur parler que Ténare est sorti ;
+Ainsi la force en main, et la faisant paraître,
+J'aurai meilleure grâce à me faire connaître.
+
+      Quoi, que voulez-vous faire ?
+
+Votre zèle est trop grand, je vous en remercie,
+Levez-vous !
+
+Ou du moins une image à la place publique.
+
+Je ne veux pas ici d'un vol audacieux
+M'élever de la terre à la voûte des Cieux,
+Ni faire de ma vie avec celle d'Hercule
+Un rapport sacrilège autant que ridicule :
+Mais aimant comme j'aime en un si digne lieu,
+Je brûle comme il fit d'un feu qui me fait Dieu,
+Et si j'ai mon autel dans le coeur d'Isménie,
+Je brille comme lui d'une gloire infinie.
+
+Soit comme il vous plaira, je vous ai tout remis.
+
+Je n'en demande plus, de bon coeur je le donne,
+
+De grâce en sa faveur accordez ma requête,
+Pour le sacré respect d'une si belle fête.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_evandre
+
 Ô ! Merveille incroyable, ô ! Bien inespéré,
 Quoi c'est vous que tant d'yeux ont si longtemps pleuré ?
 Vous mon Roi dont l'absence, ou la mort prétendue
@@ -12,12 +562,6 @@ Des monstres étrangers qui les ont envahis :
 Ô ! Ciel que ta sagesse en miracles féconde
 Conduit heureusement les fortunes du monde !
 
--*who_lepante
-Évandre, mettez fin à votre étonnement,
-Et me dites pourquoi, depuis quand, et comment
-On a cru si longtemps qu'Isménie était morte ?
-
--*who_evandre
 Sire, cette aventure arriva de la sorte :
 Mais quelque autorité que vous ayez sur moi,
 Comme mon bienfaiteur, mon Seigneur et mon Roi,
@@ -58,10 +602,6 @@ Reçoit quasi toujours une perte assez grande ;
 Que le Prince à dessein avait choisi la nuit
 Pour la faire inhumer et sans pompe et sans bruit.
 
--*who_lepante
-Donc personne que vous ne savait l'artifice ?
-
--*who_evandre
 Non, Seigneur, hors Zerbin, ma femme, et la nourrice,
 L'entreprise entre nous se ménagea si bien
 Que tous ses autres gens n'en découvrirent rien ;
@@ -86,17 +626,8 @@ Quitta bientôt après sa dépouille mortelle ;
 Ma femme, la Nourrice, et Zerbin en six mois,
 Pour me laisser tout seul, le suivirent tous trois.
 
--*who_lepante
-Et le peuple indiscret sait-il cette aventure ?
-Ou s'il croit que les morts quittent la sépulture ?
-
--*who_evandre
 Nullement.
 
--*who_lepante
-      Que fit donc ce Prince ingénieux ?
-
--*who_evandre
 Par un nouveau mensonge il excuse le vieux,
 Dit qu'il avait connu, par le moyen des Astres,
 Qu'elle était réservée à d'étranges désastres,
@@ -107,10 +638,6 @@ Dans l'état inconnu d'une fortune basse,
 Même quand Isménie eut ses premiers beaux jours ;
 (Car ses débilités n'ont pas duré toujours.)
 
--*who_lepante
-Non.
-
--*who_evandre
       Non, deux ans ou plus elles furent égales ;
 Mais depuis son esprit eut de bons intervalles,
 Quand, dis-je elle voulut qu'on lui rendit raison
@@ -121,99 +648,25 @@ Puis d'un ressouvenir qui la fit soupirer :
 C'est trop tard, ce dit-elle, et se prit à pleurer ;
 Mais à ce que je vois vous en faites de même.
 
--*who_lepante
-Ah ! Divine Beauté, que mon audace extrême
-Nous a portés tous deux à d'extrêmes malheurs,
-Et que tu dois haïr la cause de tes pleurs.
-
--*who_evandre
 Sire, laissant à part ce secret que j'ignore,
 Tout mort que l'on vous croit, elle vous aime encore.
 
--*who_lepante
-Hélas ! fidèle Évandre, il est bien mal aisé
-Que son juste courroux soit si tôt apaisé,
-C'est trop peu de dix ans à remettre une offense
-Qui veut un siècle entier d'austère pénitence.
-
--*who_evandre
 Croyez qu'elle vous garde un reste d'amitié.
 
--*who_lepante
-Dites que mon destin excite sa pitié ;
-N'importe, à tout hasard, il faut que je la voie ;
-Mais j'attends de vous seul cette dernière joie.
-
--*who_evandre
 Et bien allons au Temple, elle y pourra venir.
 
--*who_lepante
-Non, ce n'est pas assez, je veux l'entretenir.
-
--*who_evandre
 Écrivez-lui plutôt, et j'ose vous promettre
 Que de ma propre main elle aura votre lettre.
 
--*who_lepante
-Quand je lui serais cher (ce que je ne crois pas)
-Sans doute étant promise au puissant Roi Lypas,
-Pour dernière faveur elle me ferait dire
-Qu'elle plaint mon destin, mais que je me retire ;
-Ou si de lui parler j'ai l'adresse et le temps,
-Je puis venir à bout de ce que je prétends,
-À quoi la vive voix agira d'autre sorte
-Que le simple entretien d'une écriture morte,
-Trouvez donc les moyens de me la faire voir.
-
--*who_evandre
 Sire, je le ferai si j'en ai le pouvoir ;
 Car, comme vous savez, la chose est difficile,
 Et l'on vit en Provence autrement qu'en Sicile.
 
-**** *book_ *id_I02 *act_I *date_1637
-
--*who_tenare
-C'est lui-même avançons.
-
--*who_evandre
       Mais voici deux marchands
 Qui viennent droit à nous à grands pas approchants.
 
--*who_lepante
-Ce sont deux de mes Chefs, d'entre tous nos Corsaires
-Les plus honnêtes gens, et les plus nécessaires,
-Tous deux mes vrais amis, et qui nés mes sujets
-Savent seuls ma fortune, et mes hardis projets.
-Et bien Argant ?
-
--*who_argant
-      J'ai fait les choses ordonnées,
-Et les commissions que vos m'aviez données.
-
--*who_lepante
-A-t-on pris le signal qui vous doit avertir,
-Et la lettre ?
-
--*who_argant
-      Oui, Seigneur, je n'ai plus qu'à partir.
-
--*who_lepante
-Partez donc, employez les rames et les voiles ;
-Et dés que le Soleil fera place aux étoiles
-Faites venir la flotte, et si j'en ai besoin
-Nos feux vous l'apprendront, ou vous serez bien loin.
-
--*who_evandre
 Eh ! Dieux, voulez-vous donc mettre la ville en cendre ?
 
--*who_lepante
-Non, non, ne craignez rien, cher et fidèle Évandre,
-C'est un signal donné pour me mettre en état
-D'empêcher au besoin un injuste attentat,
-C'est un frein que j'apporte à la supercherie
-Dont me pourrait user le Roi de Ligurie.
-
--*who_evandre
 De fait craignant pour vous cet indigne rival,
 J'ai cru que vous servir étoit vous faire mal,
 Et difficilement pourriez-vous m'y contraindre,
@@ -221,34 +674,11 @@ Si vos précautions ne m'empêchaient de craindre ;
 Je ne vois qu'un métier, encor bas et honteux
 Qui nous puisse être propre à contenter vos voeux.
 
--*who_lepante
-Quoi, servir, mendier, se traîner dans la fange,
-Dites, je suis à tout.
-
--*who_tenare
-      Que l'Amour est étrange,
-
--*who_evandre
 Il faut faire le fou.
 
--*who_lepante
-      Ce métier ne vaut rien.
-
--*who_tenare
-Non, trop de gens le sont, et trop peu le font bien.
-
--*who_evandre
 Connaissant votre coeur, je n'ai point fait de doute
 Qu'il ne vous dégoûtât.
 
--*who_lepante
-      La suite m'en dégouste
-Ténare éloignez-vous : cette indiscrétion
-Lui serait un tableau de son affliction,
-Et lui représenter sa faiblesse passée,
-N'est-ce pas à ses yeux la traiter d'insensée ?
-
--*who_evandre
 Dieux ! Elle ne croit pas l'avoir jamais été,
 Son frère seulement ne s'en est point douté ;
 Et si je n'avais su que la chose vous touche,
@@ -257,98 +687,34 @@ Non, non, à cela près faites ce que j'ai dit,
 Par cette invention, mon art et mon crédit
 Vous feront sûrement approcher Isménie.
 
--*who_lepante
-Et si quelqu'un des miens me tenait compagnie ?
-
--*who_evandre
 Tout comme il vous plaira, soyez un ou deux fous,
 Je vous introduirai.
 
--*who_lepante
-      Ténare approchez-vous.
-
--*who_tenare
-Seigneur que vous plaît-il ?
-
--*who_lepante
-      Il faut, mon cher Ténare,
-Que votre belle humeur aujourd'hui se déclare.
-
--*who_tenare
-Sire, c'est trop d'honneur et de gloire pour moi
-D'ajuster mon humeur à celle de mon Roi.
-
--*who_lepante
-À ce geste niais, ce ris et ce visage,
-Jugez s'il saura faire un second personnage ?
-
--*who_evandre
 Je crois que ce métier lui sera fort aisé ;
 Car naturellement je l'y vois disposé.
 
--*who_tenare
-Avec les qualités que le vôtre demande
-La disposition y serait bien plus grande.
-
--*who_evandre
 Grand merci : cet esprit qui n'est pas des plus sots,
 
--*who_tenare
-Fort bien.
-
--*who_evandre
       À mon avis dira quelques bon mots :
 Mais raillerie à part, il est bon, ce me semble
 De concerter ici notre jeu tous ensemble.
 
--*who_tenare
-Quoi n'est-on pas d'accord que nous ferons les fous ?
-
--*who_evandre
 Oui, mais il faut savoir le naturel de tous.
 
--*who_lepante
-Le mien est sérieux, triste, et mélancolique.
-
--*who_evandre
 Et le sien ?
 
--*who_lepante
-      Il est propre à quoi que l'on l'applique
-
--*who_tenare
-Oui, je suis propre à tout, c'est un bonheur que j'ai.
-
--*who_evandre
 Vous ferez donc le triste, et lui fera le gai.
 
--*who_lepante
-Surtout que notre jeu, si la chose est possible,
-Soit en particulier, la presse m'est nuisible.
-
--*who_evandre
 Si Madame n'est seule, assurez-vous au moins
 Que votre Comédie aura peu de témoins ;
 Ôté le Roi Lypas, qui rarement la quitte,
 La Cour est dans sa chambre extrêmement petite.
 
--*who_lepante
-Et Dorante ?
-
--*who_evandre
       Il chassait, on l'attend aujourd'hui.
 
--*who_lepante
-L'intelligence est grande entre Lypas et lui ?
-
--*who_evandre
 Vraiment je ne crois pas, il montre bon visage ;
 Mais il fait à regret ce triste mariage.
 
--*who_lepante
-Pourquoi le fait-il donc ?
-
--*who_evandre
       Il est vrai qu'aisément
 Il pouvait l'empêcher en son commencement ;
 Mais la chose depuis, par son peu de conduite,
@@ -361,21 +727,11 @@ Ce n'est pas un esprit extrêmement adroit,
 Prévoyant, entendu, ni tel qu'il le faudrait
 Pour se débarrasser d'une semblable affaire.
 
--*who_lepante
-Je dirais nettement que je n'en veux rien faire.
-
--*who_evandre
 Il le dirait en vain, puisque la loi du sort
 Abandonne le faible à la merci du fort ;
 Il craint que ce tyran, injuste sur tous autres,
 N'usurpe ses États, comme il a fait les vôtres.
 
--*who_lepante
-Bien, bien, il les rendra, le temps en est venu :
-Mais ne pensez-vous pas que je sois reconnu,
-Évandre ?
-
--*who_evandre
       Non, Seigneur, vous ne le sauriez être,
 Puis qu'Évandre lui-même a pu vous méconnaître ;
 Quand vous fûtes perdu vous n'aviez que vingt ans,
@@ -387,24 +743,9 @@ En ce premier éclat de jeunesse et de teint :
 Mais que vous avez bien une façon plus mâle,
 Et qui sent beaucoup mieux sa personne royale.
 
--*who_tenare
-Il est vrai que dix ans font un grand changement.
-
--*who_lepante
-Et puis l'opinion y fait étrangement,
-On me croit mort partout, et sur cette créance
-Je puis voir Isménie avec toute assurance,
-À qui je veux pourtant, si tantôt je le puis,
-Donner juste sujet d'apprendre qui je suis.
-
--*who_evandre
 Venez donc dans ma chambre afin de vous instruire,
 En attendant de moi le temps de vous produire.
 
--*who_lepante
-Et comment ferez-vous ?
-
--*who_evandre
       Laissez-m'en le souci,
 Une Dame d'honneur que nous avons ici,
 À qui le Roi Lypas donne et promet sans cesse,
@@ -412,9 +753,653 @@ Lui rendra cet office auprès de la Princesse,
 Je veux qu'elle vous serve en cette occasion,
 Et qu'elle contribue à sa confusion.
 
-**** *book_ *id_I03 *act_I *date_1637
+La leur étant vraiment de nature amoureuse,
+Il est à présumer qu'ils n'ont rien de méchant,
+Outre que je le crois sur la foi du marchand,
+Homme de probité, de moyens et d'estime,
+Depuis trente ans, ou plus, mon hôte et mon intime.
 
--*who_ismenie
+Travaillez seulement à les lui faire voir,
+S'ils plaisent, le marché sera facile à faire.
+
+Allons, je le veux bien. La dupe est embarquée
+Pour montrer son crédit, par où je l'ai piquée,
+Elle s'en va produire un rival trop expert
+Pour le contentement de celui qu'elle sert.
+
+Je crois que le dernier vous plaira davantage ;
+Car dés qu'il se verra dans ce bel équipage
+Il ne tranchera plus que de principauté.
+
+Oui, c'est d'où sa folie a pris son origine,
+Son maître m'en assure, et je me l'imagine.
+
+Ainsi vous en aurez un passe-temps extrême.
+
+Oui, Madame, j'y cours. Tout va bien jusqu'ici.
+
+Grand Roi, voyez venir la Princesse Isménie.
+
+      Souvenez-vous, Madame,
+De lui faire parler de sa première flamme ;
+Car c'est sur ce sujet que le fol réussit.
+
+Il entend sa marotte.
+
+Tout va bien, la Princesse a changé de visage.
+
+L'affaire, ce me semble est en fort bon chemin.
+
+Madame, assurez-vous que cela sera fait.
+
+      Jusqu'ici tout succède à souhait.
+
+Je ne l'ai secourue en aucune façon.
+
+Tout indigne qu'il est il faut bien qu'il l'exerce,
+S'il veut continuer son amoureux commerce.
+
+Je brûle de l'entendre.
+
+      Et moi je vous proteste.
+
+Et ces coeurs sans pitié, ces conquérants avares,
+Étaient assurément Pirates et Barbares ?
+
+Ah que vous fîtes bien, ce sont ceux-là peut-être,
+Qui prirent nos vaisseaux, et le Prince mon maître.
+
+      Ô ! Bons Dieux, que l'amour enhardit.
+
+      Il l'entend assez bien.
+
+      Il me plaît plus aussi.
+
+Qui, Madame ?
+
+Pour Ténare il accourt, si je puis le connaître,
+C'est lui, reste à trouver son fantasque de maître,
+Qui ne manquera pas à se faire prier.
+
+Ils ne l'entendent pas.
+
+Mais le Prince lui-même a cru jusqu'à cette heure
+Qu'il ne devait jamais vous parler de cela,
+Et que c'était un trait d'humeur d'Axala,
+Partout assez fameux pour la galanterie,
+D'autant mieux qu'un pirate à peine se marie,
+Surtout un Général, dont la perfection
+Est de ne rien aimer que sa profession,
+Telle sorte de gens estimant qu'une femme
+Rend un chef moins hardi pour le fer et la flamme :
+Mais celui-ci, peut-être, en est assez aimé,
+Et pour se marier, et pour être estimé.
+
+Madame, bien souvent nous querellons les Cieux
+Quand pour notre salut ils travaillent le mieux.
+
+Contre toute espérance, ils vous rendent Lépante,
+Afin de vous servir de rempart assuré
+À soutenir l'assaut qui vous est préparé,
+Il sait votre aventure, et c'est par son adresse
+Que vous échapperez du danger qui vous presse :
+Car, à ce que je vois, le Prince est résolu
+D'user en votre endroit d'un pouvoir absolu,
+Si bien que votre mieux, après la patience,
+C'est d'avoir en Lépante une entière fiance :
+Il entre, ce me semble, et Félice avec lui.
+Montrez-lui franchement votre âme et votre ennui,
+Auparavant qu'Armille, ou quelqu'autre survienne.
+
+Non, mais en quelques lieux que s'adressent vos pas,
+C'est un point résolu qu'il sera de la suite,
+Ou qu'il empêchera votre amoureuse fuite.
+
+      Je n'entends point ce changement étrange.
+
+Pour moi je me doutéis de cette vérité.
+
+Non, non, n'en doutez pas, c'est chose que j'ai vue.
+
+      Elle est sauvée aussi,
+Enfin le ravisseur a très mal réussi,
+Non pour l'enlèvement qu'il a fait à merveille ;
+Mais pour l'événement.
+
+Volontiers ; ce discours ne te plaît pas beaucoup :
+Vous savez que Celinte et la vieille Amerine
+Ont entendu le rapt de leur chambre voisine,
+Et qu'elles ont passé par notre appartement,
+Semant partout le bruit de ce ravissement ;
+On s'éveille, on accourt, on voit la chambre vide,
+Lors chacun prend sa route où le hasard le guide,
+L'un court par le Palais, l'autre entre, l'autre sort ;
+Mais Ténare et son maître ont volé droit au port,
+Avec tant de bonheur, de vaillance et d'adresse,
+Qu'ils ont gardé Lypas d'embarquer la Princesse,
+Et par cette action donné temps d'arriver
+Au peuple, que leurs cris avaient fait soulever.
+
+Mais celui qui la garde était de la partie,
+Et nous en verrons bien quelques têtes à bas,
+Laissez faire : et des plus.
+
+Ils viennent, attendez qu'elle soit arrivée,
+Elle vous l'apprendra, si vous n'en savez rien :
+Mais.
+
+      Mais on dit que vous le savez bien.
+
+      Ce serait ton plus court,
+Méchante.
+
+      C'est le bruit de la Cour.
+
+Erphore toutefois l'a dit en ma présence.
+
+      Vous en aurez besoin.
+
+Tu songes, (mais en vain, car je vais t'épier)
+Plustôt à t'enfuir qu'à te justifier.
+
+Tu n'échapperas pas, je te suivrai partout.
+
+Adieu femme sans foi, sauvez-vous de vitesse.
+
+Ô Dieux ! Qui ne voit pas que vos puissantes mains
+Font agir les ressorts de destin des humains ?
+Et que par des moyens difficiles à croire
+Vous comblez ces amants de plaisir et de gloire ?
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
+Puisque c'est un hymen que vous avez permis,
+Il est juste, et dès-là nous sommes ses amis.
+
+Sire, essayez de grâce à le mettre en colère.
+
+Mais, Sire, où tenez-vous ces Princes vos vassaux ?
+
+Sa colère est trop grande, il faut que je l'apaise :
+Vous jeter dans la guerre, ah ! Sire, aux Dieux ne plaise ;
+Deux grand Rois comme vous n'en viendraient pas aux mains
+Sans troubler le repos du reste des humains ;
+Non, non, pour le salut et de l'un de l'autre,
+Recevez ma parole, et me donnez la vôtre,
+Que celui de vous deux que choisira ma soeur,
+Sans dispute et sans trouble en sera possesseur.
+
+Je sais quel est son rang, et quel celui du Roi ;
+Mais je suis obligé de lui garder la foi.
+
+Mais celle de l'honneur m'ordonne le contraire,
+Et d'autant que l'honneur m'est plus cher que le bien,
+Je le suis sans réserve et sans crainte de rien.
+
+Je lui promis ma soeur dans ma captivité ;
+Mais rien ne m'y força que sa civilité,
+Et croyant que possible il éprouvait la mienne,
+Je lui donnai la foi qu'il faut que je lui tienne :
+Il est vrai j'en fis trop, mais puisque je l'ai fait,
+Telle qu'est ma promesse elle aura son effet.
+
+Avant qu'à cette amour le Roi fut embarqué,
+Il avait su la chose et s'en étoit moqué ;
+Dorante, me dit-il, cette galanterie
+Ne doit pas arrêter un Roi de Ligurie ;
+C'est un trait de pirate aussi vain qu'indiscret,
+Et, si vous m'en croyez vous le tiendrez secret :
+Je le crus, et ma soeur ne vient que de l'apprendre
+Par mon commandement, et la bouche d'Évandre.
+
+Je l'avoue.
+
+Point, je pouvais le faire et sauver mon honneur.
+
+      J'ai son écrit, voyez-en la teneur.
+Dorante, il y a quatre mois que vous promîtes à mon Lieutenant Artaxes, que vous m'accorderiez pour femme votre soeur unique la Princesse Isménie, à la première semonce que vous en recevriez de ma part, et que vous jurâtes entre ses mains par l'âme de votre père, que vous me la donneriez si dans un mois après je venais vous la demander en personne dans votre ville de Marseille : Je vous assure donc que vous m'y verrez au plutôt, pour vous sommer moi-même de l'exécution de votre promesse. C'est la rançon que je vous demande, et vous ne pouvez me refuser sans offenser les Dieux, et perdre parmi les hommes la réputation où vous estes du plus loyal et du plus généreux Prince de la terre.
+AXALA.
+À ces conditions, vous voyez bien Erphore,
+Que tantôt, l'honneur sauf, je le pouvais encore,
+Et non plus maintenant qu'il l'a fait demander.
+
+      Il fit plus sagement,
+Sa modération surprit mon jugement,
+Je crus que ce galant et généreux corsaire
+Me menaçait d'un coup qu'il ne voudrait pas faire,
+Et que sa vanité (comme il peut advenir)
+M'obligeait à promettre, et non pas à tenir :
+Cependant s'il le veut, il faut que je le fasse,
+Et le grand Roi Lypas m'excusera de grâce ;
+C'est pourquoi, sage Erphore, allez le disposer
+À goûter la raison qui me doit excuser ;
+Dites lui que pour moi (comme il est véritable)
+J'ai de son déplaisir un regret incroyable,
+Qu'après un accident si digne de pitié,
+Je suis encor heureux d'avoir son amitié,
+Et que je perds assez perdant son alliance,
+Sans que mon mauvais sort m'ôte sa bienveillance ;
+Enfin obligez-moi de lui représenter
+Le destin qui me force à la mécontenter,
+Puisque telle est pour moi ma parole donnée
+Touchant ce malheureux et funeste hyménée.
+
+      Allez, je vous en prie,
+Et faites que le tout se passe à la douceur,
+Ô ! Prince infortuné : Mais j'aperçois ma soeur,
+Il faut pour quelque temps éviter ses approches,
+Ses plaintes, ses regrets, et ses justes reproches.
+
+Venez, je vous promets d'y travailler pour vous.
+
+Mon frère, au différend qu'il faut que je compose,
+Je vois le Roi Lypas si juste en toute chose,
+Qu'il est aisé de joindre, et de se rendre amis :
+
+Il sortira, dit-il, hors de votre héritage,
+Sitôt que par un ample et constant témoignage
+Il saura pleinement que vous êtes l'aîné
+De la sage Ursinie et du grand Prytané,
+Vous aurez cependant deux places en Sicile,
+Et lui pour sa prison, mon Palais et ma Ville :
+Mais touchant cette dette, il faudra s'il vous plaît
+Prendre le principal, et donner l'intérêt :
+
+Il suffit que tous deux vous m'avez avoué ;
+Or embrassez-vous donc, puisque rien ce me semble
+Ne vous doit empêcher de vivre bien ensemble.
+
+Allez, et loin de nous vivez mieux désormais.
+
+Ils l'auront de ma bouche, allons-y de ce pas,
+Vous ma soeur, demeurez avec le Roi Lypas.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lypas
+
+Madame, j'étais prêt à monter à cheval
+Quand un penser douteux que vous vous trouviez mal,
+M'a fait venir tout seul en diligence extrême
+Pour en être assuré de votre bouche même.
+
+      L'amant est bien brutal
+Qui peut se recréer quand son amante est mal.
+
+      Oui, Madame,
+Le corps prend trop de part aux souffrances de l'âme,
+Tant que vous serez mal, je fais serment aux Dieux
+De ne vous quitter point.
+
+Venez donc à la chasse, ou je n'en croirai rien.
+
+      Mes oiseaux volent bien,
+Mes chiens chassent des mieux.
+
+N'importe elle est plaisante.
+
+Pour le moins, du balcon de votre galerie,
+Voyez passer ma meute et ma fauconnerie.
+
+      Nous le trouverons bien.
+
+      Il est bien fou.
+
+Et quel titre, et quel droit vous donne la Princesse ?
+
+Vous ne méritez pas un si digne salaire,
+A moi seul appartient l'honneur de la servir,
+Et c'est moi, Roitelet, qui vous la veux ravir.
+
+Je crois que votre Empire est sujet à la Lune.
+
+Vraiment il est bien fou.
+
+Soit, j'y consens.
+
+Puisque je l'ai promis, il faut que je le quitte ;
+Mais c'est à son bonheur, plutôt qu'à son mérite,
+
+C'est possible un courrier de votre Majesté,
+Roi Nicas.
+
+Allons, nous verrons tous s'il a si bonne mine.
+
+Qu'il ne m'allègue plus cette excuse frivole,
+Il n'est pas hébété ni faible jusqu'au point
+De se piquer d'honneur pour ceux qui n'en ont point,
+Surtout en l'intérêt d'un Prince de ma sorte,
+Où la raison d'État doit être le plus forte.
+
+N'a-t-il pas de l'argent de quoi se racheter ?
+Et puis ne peut-il pas, s'il en avait envie,
+S'excuser sur sa soeur ?
+
+      Je crois bien, la pauvrette
+À regret de me perdre, et moi je la regrette
+De trouver un Pirate à la place d'un Roi,
+Outre qu'assurément elle brûle pour moi.
+
+Ne t'en étonne pas, c'est quelles sont discrètes.
+
+Cette discrétion causera sa ruine,
+Je crains que par vertu, cette beauté divine
+Ne résiste au secours que je lui puis donner,
+Et comme un doux agneau se laisse emmener,
+Pour servir de victime aussitôt que de femme
+À la brutalité de ce Corsaire infâme,
+Puisqu'il peut la livrer, son désir assouvi ;
+Au moindre des brigands dont il sera suivi :
+Mais ni du Ciel tonnant la face foudroyante,
+Ni le terrible aspect de la mer aboyante,
+Ne m'empêcheront pas par la peur du danger
+D'abandonner ma vie afin de la venger,
+Et j'en commencerai la vengeance effroyable
+Sur cet homme d'honneur, ce frère impitoyable,
+Qui feignant de garder sa parole et sa foi,
+Vend sa soeur au barbare, et se moque de moi ;
+Je lui veux consumer par le feu de nos guerres
+Ses hommes, ses trésors, ses places et ses terres,
+Et le prenant en vie après ces maux soufferts,
+Le faire encor languir et mourir dans les fers.
+
+C'est l'Oracle, en effet, qu'il faut que je consulte,
+Et qui doit me résoudre au fort de ce tumulte,
+Erphore, où penses-tu qu'elle soit maintenant ?
+
+      Passons-y donc comme en nous promenant.
+
+Ô Fatale Provence ! Ô déloyale Cour !
+Où j'ai pour ennemis la Fortune et l'Amour,
+Dont l'un m'ôte une femme et l'autre une couronne,
+Ainsi de tous côtés le malheur m'environne,
+Ainsi de quelque part que j'observe mon sort,
+Je ne vois que sujets de désirer la mort ;
+Battu, moqué, trahi par un Prince infidèle
+Qui choisit à sa soeur un parti digne d'elle :
+Lâche soeur qui préfère à l'amour d'un grand Roi,
+L'indigne affection d'un pirate sans foi :
+Frère ingrat, au delà de toute ingratitude,
+Qui pour tous mes bienfaits me met en servitude,
+Qui pour mon alliance et mes trésors offerts
+Me retient mes vaisseaux, met les miens dans les fers,
+M'ôte mes Officiers, et permet qu'à ma vue
+Un bourgeois insolent les maltraite et les tue ;
+Enfin qui non content de m'avoir abusé,
+M'amène un faux Lépante, un Prince supposé,
+Afin de partager la Sicile et la Corse
+Avec cet héritier dont le droit est la force.
+
+Quoi, l'ombre de Lépante aura donc un Royaume ?
+
+Si bien qu'à vous ouïr, Lépante n'est point mort :
+
+Ô conseil qui me tue ! Ô fortune contraire !
+
+Ô deuil ! ô désespoir ! Ô fureur qui me tient !
+
+Je ne demande pas un traitement plus doux.
+
+Et moi je le reçois.
+
+Je la veux voir aussi.
+
+Erphore, vous voyez si je me sais contraindre.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tenare
+
+C'est lui-même avançons.
+
+      Que l'Amour est étrange,
+
+Non, trop de gens le sont, et trop peu le font bien.
+
+Seigneur que vous plaît-il ?
+
+Sire, c'est trop d'honneur et de gloire pour moi
+D'ajuster mon humeur à celle de mon Roi.
+
+Avec les qualités que le vôtre demande
+La disposition y serait bien plus grande.
+
+Fort bien.
+
+Quoi n'est-on pas d'accord que nous ferons les fous ?
+
+Oui, je suis propre à tout, c'est un bonheur que j'ai.
+
+Il est vrai que dix ans font un grand changement.
+
+      C'est une main sacrée,
+Une divine main plus blanche que le lis
+Qui me les a donnés, attachés et cueillis.
+
+      Cela pourrait bien être.
+
+      Cela ne se dit pas.
+
+Oui, foi de Gentilhomme.
+
+Je n'ai pas entrepris un mauvais personnage.
+Ma Reine, je vois bien que la Princesse enrage
+De voir que je vous aime, et suis aimé de vous.
+
+      Il est vrai, ma Mignonne :
+Mais si tu m'aimes bien, ne doute point aussi
+Que jusqu'au monument tu ne sois mon souci,
+Ou plutôt mon jasmin, ma rose, et ma pensée.
+
+Amour me les suggère, et les neuf doctes soeurs,
+Qui laissent rarement une bouche muette.
+
+Il est vrai.
+
+Non, chacun en croira ce qu'il en voudra croire.
+
+Et dans le mien aussi, n'en doutez nullement.
+
+Ah, ah, ah, me changer, vraiment je l'en dépite ;
+Aussitôt qu'une Dame a goûté mes appas,
+L'amour qu'elle a pour moi surmonte le trépas,
+Il faut que des Enfers sa pauvre ombre revienne
+Afin d'avoir encor l'entretien de la mienne,
+Ne pouvant plus jouir de celui de mon corps
+Du moment que le sien est au nombre des morts,
+D'où vient qu'une ombre ou deux se mêlant à la nôtre,
+Nous l'avons plus épaisse et plus noire qu'une autre,
+Ce qui se voit assez quand je suis au Soleil,
+Me changer.
+
+      Jamais, elle est trop belle.
+
+Non, ne vous troublez pas, suffit, je m'en contente.
+
+      Pourquoi, que savez-vous
+Si j'aime mieux un noeud qu'une feuille de choux ?
+
+      En dépit de l'envie
+Je garderai ceux-cy tout le temps de ma vie.
+
+C'est par où je prétends les garder davantage,
+Si tôt qu'ils sécheront j'en compose un potage,
+Ou plutôt, pour mieux dire, un charmant consommé,
+Qui dans mon estomac proprement enfermé
+Se convertit après en ma propre substance.
+
+Et leur Princes aussi.
+
+Exceptez-en ma Reine, il faut qu'elle s'assie,
+Mets-toi sur mes genoux.
+
+      Il est vrai qu'il est Roi ;
+Mais tel que ses sujets sont presque tous en moi.
+
+      Il le peut croire aussi.
+Car je suis assuré que la chose est ainsi.
+
+Il parle de sa flotte, et dit la vérité.
+
+Mon maître est un peu fou, mais il est sans malice,
+C'est pourquoi je le souffre.
+
+Adieu donc doux nectar de mon âme altérée.
+
+      Adieu ma Cythérée :
+Adieu belle Princesse.
+
+Ce n'est rien.
+
+Poltrons, m'assassiner et me prendre sans armes,
+Vous êtes des marauds.
+
+Vous savez que Célie et moi nous aimons fort.
+
+Justement, elle enrage, et veut que je l'épouse ;
+Mais me trouvant trop ferme en ma première amour,
+Elle veut de dépit me faire un mauvais tour
+Par ces deux assassins qui m'ont pris par derrière.
+
+À l'aide, au meurtre.
+
+Je suis le vôtre aussi ; mais jamais de Félice.
+
+      Dis d'amour et de rage,
+Jalouse.
+
+Il parle de ses chefs, et de nos grands vaisseaux.
+
+      Non je vous en assure.
+
+Seigneur, tous vos vaisseaux paraissent maintenant,
+Je les ai vus du havre, où votre Lieutenant,
+Argant et Capanée, avant que je m'en vinsse,
+Attendaient pour entrer un passeport du Prince.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erphore
+
+Seigneur, quelque soupçon qui me tombe en l'esprit,
+Je veux croire pourtant qu'Axala vous écrit,
+Et qu'en cette hyménée il a l'effronterie
+De disputer la palme au Roi de Ligurie ;
+Mais votre jugement n'a pas de quoi douter
+Que le plus grand des deux ne la doive emporter,
+Si bien que maintenant c'est à vous à connaître
+Quel rang tient ce pirate, au prix du Roi mon maître.
+
+Mais la raison d'État vous défend de le faire.
+
+Vous étiez en prison alors que vous promîtes,
+Et votre liberté défait ce que vous fîtes.
+
+Pourquoi donc recevoir la parole d'un autre,
+Puisque le grand corsaire avait déjà la vôtre ?
+
+Ce prétexte de foi me semble un peu léger ;
+Car ou vous nous trompiez, ou sans ce messager
+Notre hymen dans huit jours était prêt à ce faire.
+
+      Ainsi vous trompiez le corsaire.
+
+Comment ?
+
+Votre Altesse, Seigneur, me doit donc accorder,
+À voir comme Axala prit mal son assurance,
+Que si la chose est vraie elle a peu d'apparence ;
+Car pour ses sûretés il était à son choix
+De vous prescrire encor de plus étroites lois,
+Et vous obliger même à cette tyrannie
+De lui mener chez lui votre soeur Isménie,
+Et ne l'ayant pas fait.
+
+Seigneur, à dire vrai, je souhaiterais bien
+Qu'un autre lui donnât ce fâcheux entretien ;
+Car je ne doute point qu'il ne trouve bien dure,
+Et la chose elle-même, et votre procédure,
+Il aime la Princesse, et difficilement
+La pourra-t-il céder à cette indigne amant ;
+Je tâcherai pourtant d'empêcher sa furie,
+Ou de la modérer.
+
+Enfin il m'a prié que je vous assurasse
+Que le plus grand regret qu'il ait en sa disgrâce,
+C'est de mécontenter un grand Roi comme vous,
+Qui rendrait son État considérable à tous :
+Mais qu'il est obligé de tenir sa parole.
+
+C'est comme une rançon, dont il veut s'acquitter.
+
+      Elle en serait ravie ;
+Car tantôt que d'Évandre elle a su son malheur,
+Elle a pensé mourir de honte et de douleur,
+Armille me l'a dit.
+
+Ô Dieux ! Elle tient donc ses flammes bien secrètes.
+
+Je voudrais cependant pour mon dernier souhait,
+Que Jupiter m'aimât autant qu'elle te hait.
+
+Vous ferez, s'il vous plaît, les choses que vous dites,
+Puisque votre puissance est quasi sans limites :
+Mais votre Majesté doit cacher sagement
+Son juste déplaisir et son ressentiment,
+Puisque Dorante feint, feignez aussi de même,
+Et si, comme je crois, la Princesse vous aime,
+Armille nous dira les moyens les plus cours
+Pour changer son destin, ou lui donner secours.
+
+Chez soi.
+
+Sire, quand un malheur ne se peut éviter,
+Le souverain remède est de le supporter.
+
+Il ne faut plus parler d'ombre, ni de fantosme,
+C'est Lépante lui-même, et votre Majesté
+Doit croire sur ma foi que c'est la vérité ;
+Elle sait qu'autrefois je fus en Syracuse
+Lui faire de sa part quelque sorte d'excuse
+Touchant ses dix vaisseaux de Carthage venus,
+Qu'elle avait dans ses ports si longtemps retenus.
+Or il m'a rapporté les choses que nous fîmes,
+Et m'a fait souvenir de celles que nous dîmes.
+
+Non, Sire, et ses sujets qui l'aimèrent si fort
+Feront armes de tout tant sur mer que sur terre,
+Et couperont la gorge à tout vos gens de guerre ;
+Ce qu'ils entreprendront d'autant plus aisément
+Que déjà votre joug leur pèse infiniment,
+Et qu'ils auront appris la nouvelle opportune
+Du bonheur de leur Prince, et de votre infortune ;
+La flotte de Lépante à la rade paraît,
+Croissant à même temps que la lumière croît,
+De sorte qu'en l'état qu'il est, et que vous étes,
+Il peut jusques chez nous étendre ses conquêtes,
+C'est pourquoi de bonne heure en cette adversité
+Faites une vertu d'une nécessité,
+Et par un politique et prudent artifice,
+D'un acte de contrainte, un acte de justice ;
+Rendez de bonne grâce, ou feignez de lâcher
+Un Sceptre qu'aussi bien on vous doit arracher ;
+En matière d'État la feinte est nécessaire.
+
+Seigneur, encore un coup, gardez de refuser
+Les articles de paix qu'on vous doit proposer,
+Dorante les apporte afin qu'il vous les montre,
+Et nous pour l'obliger allons à sa rencontre ;
+Il faut céder au temps, et lui rendre aujourd'hui
+L'honneur qu'auparavant vous receviez de lui ;
+Possible rendrez-vous par cette procédure
+Votre condition moins honteuse et moins dure :
+Hâtons-nous, j'aperçois la Princesse qui vient.
+
+La vengeance pourtant en ira jusqu'au bout.
+
+Sire, vous faites bien, notre jeu c'est de feindre.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismenie
+
 Page, dites au Roi qu'il m'excuse de grâce,
 Que tantôt, s'il lui plaît, au retour de la chasse,
 Il ne tiendra qu'à lui de m'en venir parler ;
@@ -422,21 +1407,9 @@ Mais qu'à mon grand regret je n'y saurais aller.
 Au moins pour tout le jour me voila déchargée
 Du pesant entretien dont il m'eut affligée.
 
--*who_celie
-Oui, mais le conviant de venir à ce soir,
-C'est jusques à minuit qu'il nous le faudra voir.
-
--*who_ismenie
 Il sera bien grossier s'il ne prend ma réponce
 Plutôt pour un refus que pour une semonce.
 
--*who_celie
-Il sera ce qu'il est jusques au dernier point,
-Même le coeur me dit qu'il ne chassera point,
-Je crois que votre Altesse est trop infortunée
-Pour avoir en sa vie une bonne journée.
-
--*who_ismenie
 Qu'il est bien vrai, Célie, et que depuis dix ans
 J'ai donné peu de trêve à mes regrets cuisants ;
 Que j'ai souffert de maux, et que l'on m'en prépare
@@ -484,168 +1457,37 @@ Mais la mort a rendu la vôtre irréparable,
 Mon deuil inconsolable, et mes justes remords
 Ne vous ôteront pas du triste rang des morts.
 
--*who_celie
-Madame, à faire ainsi, votre mélancolie
-N'aura jamais de fin.
-
--*who_ismenie
       Non, discrète Célie,
 Non certes, que la mort ne nous ait reunis.
 
--*who_celie
-Bien donc, que vos regrets ne soient jamais finis,
-Plutôt que par la mort le destin les finisse :
-Mais voici ma compagne.
-
--*who_ismenie
       Et bien, chère Félice,
 Partira-t-il bientôt ?
 
--*who_felice
-      Madame le voici,
-Il marche sur mes pas.
-
--*who_ismenie
       Que vient-il faire ici ?
 
--*who_felice
-Vous fâcher.
-
--*who_celie
-      Justement.
-
--*who_ismenie
       Mais encor je vous prie.
 
--*who_felice
-Parlons bas, le voici.
-
--*who_ismenie
       Fut-il en Ligurie.
 
-**** *book_ *id_I04 *act_I *date_1637
-
--*who_lypas
-Madame, j'étais prêt à monter à cheval
-Quand un penser douteux que vous vous trouviez mal,
-M'a fait venir tout seul en diligence extrême
-Pour en être assuré de votre bouche même.
-
--*who_ismenie
 Vraiment je dois beaucoup à vos soins obligeants,
 Il est vrai que tantôt j'avais dit à mes gens
 Qu'on ne me verrait point avec mon mal de tête ;
 Mais, Sire, il ne faut pas que cela vous arrête,
 Allez vous divertir.
 
--*who_lypas
-      L'amant est bien brutal
-Qui peut se recréer quand son amante est mal.
-
--*who_felice
-Ô ! La belle sentence.
-
--*who_celie
-      Et bien dite.
-
--*who_lypas
-      Oui, Madame,
-Le corps prend trop de part aux souffrances de l'âme,
-Tant que vous serez mal, je fais serment aux Dieux
-De ne vous quitter point.
-
--*who_ismenie
       Je me sens déjà mieux,
 Et votre Majesté se donnant moins de peine,
 J'aurai bientôt perdu ce reste de migraine.
 
--*who_lypas
-Venez donc à la chasse, ou je n'en croirai rien.
-
--*who_ismenie
 Vraiment je ne saurais.
 
--*who_lypas
-      Mes oiseaux volent bien,
-Mes chiens chassent des mieux.
-
--*who_ismenie
       Cette chasse est commune,
 
--*who_lypas
-N'importe elle est plaisante.
-
--*who_celie
-      Ô ! Dieux qu'il importune.
-
--*who_ismenie
 Enfin plaisante ou non, vous m'en dispenserez,
 J'irai quelque autre jour que vous rechasserez.
 
--*who_lypas
-Pour le moins, du balcon de votre galerie,
-Voyez passer ma meute et ma fauconnerie.
-
--*who_ismenie
 Et bien je le ferai pour vous rendre content.
 
--*who_felice
-Ma soeur qu'il est fâcheux, qu'il est persécutant.
-
--*who_celie
-Il l'est bien tellement, qu'en l'humeur où nous sommes,
-Il nous ferait haïr tout le reste des hommes.
-
-**** *book_ *id_I05 *act_I *date_1637
-
--*who_armille
-En effet, il est vrai que vous avez raison,
-Et que de sa gaieté dépend sa guérison,
-Tant qu'elle sera triste, elle sera mal saine ;
-Et ce sang échauffé qui cause sa migraine
-Lui fait mal recevoir les caresses du Roi :
-Car n'était ce chagrin, je ne sais pas pourquoi
-Elle aurait à dégoût l'hymen et la personne
-Qui lui met sur la tête une double Couronne,
-Si bien que par raison d'État et de santé
-Il faut rendre la joie à son coeur attristé ;
-Je vais donc de ce pas lui faire prendre envie
-De voir ceux que j'ai vus, et dont je suis ravie ;
-Car enfin je les trouve extrêmement plaisants,
-Pourvu qu'ils ne soient pas de ces fols malfaisants,
-De qui l'extravagance est parfois dangereuse.
-
--*who_evandre
-La leur étant vraiment de nature amoureuse,
-Il est à présumer qu'ils n'ont rien de méchant,
-Outre que je le crois sur la foi du marchand,
-Homme de probité, de moyens et d'estime,
-Depuis trente ans, ou plus, mon hôte et mon intime.
-
--*who_armille
-Et le prix, à propos, vous l'a-t-il fait savoir ?
-
--*who_evandre
-Travaillez seulement à les lui faire voir,
-S'ils plaisent, le marché sera facile à faire.
-
--*who_armille
-J'y vais donc apporter tout le soin nécessaire :
-Mais venez-y vous-même afin de nous aider
-Dans le commun dessein de la persuader.
-
--*who_evandre
-Allons, je le veux bien. La dupe est embarquée
-Pour montrer son crédit, par où je l'ai piquée,
-Elle s'en va produire un rival trop expert
-Pour le contentement de celui qu'elle sert.
-
-**** *book_ *id_II01 *act_II *date_1637
-
--*who_armille
-Voila le personnage, et bien que vous en semble ?
-
--*who_ismenie
 Je le trouve naïf, et plaisant tout ensemble,
 Puisqu'il m'a fait passer un quart d'heure d'ennui,
 Que si l'autre en son genre est aussi bon que lui,
@@ -654,161 +1496,42 @@ Qui font de leur folie une belle peinture ;
 Car l'autre, dites-vous, étant plus sérieux
 Ce mélange d'humeurs doit être gracieux.
 
--*who_evandre
-Je crois que le dernier vous plaira davantage ;
-Car dés qu'il se verra dans ce bel équipage
-Il ne tranchera plus que de principauté.
-
--*who_armille
-Comment, quel équipage, où l'a-t-il emprunté ?
-
--*who_ismenie
 Quoi, vous oubliez donc que par votre prière
 Je lui viens d'envoyer un habit de mon frère,
 Et qu'il n'a point voulu paraître devant moi
 À moins d'être couvert et reçu comme un Roi ?
 
--*who_armille
-Madame, excusez-moi, la chose est si plaisante
-Que j'en aurai longtemps la mémoire présente ;
-Mais j'ai cru par ces mots, d'équipage et de beau,
-Qu'on lui dressait encor quelque appareil nouveau.
-
--*who_ismenie
 Non, il n'a qu'un habit, et son suivant un autre,
 Pour leur contentement autant que pour le vôtre.
 
--*who_armille
-Croyez que votre Altesse en aura du plaisir,
-Pourvu qu'elle le traite au gré de son désir ;
-Car comme il se croit Prince, il faut qu'elle lui rende,
-Et reçoive de lui les honneurs qu'il demande,
-Et l'engage surtout, après quelques discours
-À lui faire un narré de ses belles amours.
-
--*who_evandre
-Oui, c'est d'où sa folie a pris son origine,
-Son maître m'en assure, et je me l'imagine.
-
--*who_ismenie
 Bien, il sera traité de toutes les façons,
 Et suivant son humeur, et suivant vos leçons.
 
--*who_evandre
-Ainsi vous en aurez un passe-temps extrême.
-
--*who_ismenie
 Allez donc le hêter, et l'amenez vous-même.
 
--*who_evandre
-Oui, Madame, j'y cours. Tout va bien jusqu'ici.
-
--*who_ismenie
 Mais, Armille, votre homme a si bien réussi
 Que nos filles enfin, qui se donnent carrière,
 Pour mieux le gouverner ont demeuré derrière.
 
--*who_armille
-Et lui-même se plaît à les entretenir :
-Les voici toutefois, je les entends venir.
-
-**** *book_ *id_II02 *act_II *date_1637
-
--*who_ismenie
 Nous verrons à la fin que Félice et Célie
 Prendront avec Ténare un grain de sa folie.
 
--*who_felice
-Si par trop de plaisir on prend le mal des fous,
-Votre Altesse a raison d'appréhender pour nous,
-Qui fort bien à mon gré nous sommes diverties,
-Tant de ses questions, et de ses reparties,
-Comme de ses récits pleins de naïveté,
-D'amours et de combats qui n'ont jamais été ;
-Au reste il a trouvé ma Compagne si belle
-Que je crois tout de bon qu'il est amoureux d'elle ;
-Elle qui d'autre part y trouve son plaisir
-Pique tant qu'elle peut son folâtre désir,
-Par tant de complaisance, et tant d'afféterie,
-Qu'à moins d'être hypocondre, il faut que l'on en rie ;
-Vous allez voir entrer cet amoureux badin
-Avec tous les soucis et les choux du jardin,
-Qu'en forme d'une aigrette elle a mis sur sa toque.
-
--*who_ismenie
 Elle l'aime donc bien ?
 
--*who_felice
-      Votre Altesse se moque :
-Mais je crois, sur ma foi, qu'elle l'aime en effet
-Plus que le Courtisan des vôtres le mieux fait :
-Les voici, je vous prie observons leur entrée.
-
-**** *book_ *id_II03 *act_II *date_1637
-
--*who_ismenie
 Ah ! Dieux, les beaux soucis.
 
--*who_tenare
-      C'est une main sacrée,
-Une divine main plus blanche que le lis
-Qui me les a donnés, attachés et cueillis.
-
--*who_ismenie
 Ce sont donc des faveurs ?
 
--*who_tenare
-      Cela pourrait bien être.
-
--*who_ismenie
 De grâce dites-nous, ou nous faites connaître
 Le bienheureux objet dont les charmants appas,
 Vous ont pu rendre sien ?
 
--*who_tenare
-      Cela ne se dit pas.
-
--*who_ismenie
 Du moins promettez-moi que si je vous la nomme
 Vous l'avouerez par signe.
 
--*who_tenare
-Oui, foi de Gentilhomme.
-
--*who_ismenie
       Allons donc au conseil, mais nous trois seulement ;
 Célie, entretenez votre nouvel amant.
 
--*who_tenare
-Je n'ai pas entrepris un mauvais personnage.
-Ma Reine, je vois bien que la Princesse enrage
-De voir que je vous aime, et suis aimé de vous.
-
--*who_celie
-Je le crois, mon amant ; c'est un esprit jaloux
-Qui ne saurait souffrir qu'on regarde personne,
-Si ce n'est elle-même.
-
--*who_tenare
-      Il est vrai, ma Mignonne :
-Mais si tu m'aimes bien, ne doute point aussi
-Que jusqu'au monument tu ne sois mon souci,
-Ou plutôt mon jasmin, ma rose, et ma pensée.
-
--*who_celie
-Ô ! L'adorable pointe, et qu'elle est bien placée ;
-Mon Prince, où prenez-vous ces beaux mots, ces douceurs ?
-
--*who_tenare
-Amour me les suggère, et les neuf doctes soeurs,
-Qui laissent rarement une bouche muette.
-
--*who_celie
-Je crois qu'en son bon sens il fut mauvais poète.
-
-**** *book_ *id_II04 *act_II *date_1637
-
--*who_ismenie
 Enfin, discret amant, nous l'avons deviné,
 Célie est ce Soleil, cet objet fortuné,
 Cette chère maîtresse, et si digne d'envie,
@@ -816,422 +1539,90 @@ Qui dispose du sort d'une si belle vie,
 Et dont la gentillesse et les regards charmants
 Lui font gagner en vous le phénix des amants.
 
--*who_celie
-C'est en votre faveur, mon coeur, que l'on me loue.
-
--*who_tenare
-Il est vrai.
-
--*who_ismenie
       Dites donc ?
 
--*who_armille
-      Son silence l'avoue ;
-Mais le Seigneur Ténare est adroit en un point,
-Que pour nous mettre en peine, il ne le dira point.
-
--*who_tenare
-Non, chacun en croira ce qu'il en voudra croire.
-
--*who_celie
-Et moi je le veux dire, il y va de ma gloire ;
-Oui, Madame, il est vrai, ma grâce, ou mon bonheur,
-Ou plutôt tous les deux, m'ont acquis cet honneur ;
-Nos deux coeurs sont brûlés d'une ardeur mutuelle,
-Qui du moins dans le mien sera perpétuelle.
-
--*who_tenare
-Et dans le mien aussi, n'en doutez nullement.
-
--*who_felice
-Je m'étouffe de rire.
-
--*who_armille
-      Et moi pareillement.
-
--*who_ismenie
 Mais votre amour, Célie, est étrangement forte,
 Puisqu'elle vous oblige à parler de la sorte ;
 Car encor faudrait-il modérer votre feu
 Ou du moins par pudeur le couvrir tant soit peu,
 
--*who_celie
-Cet adorable objet de ma première flamme
-En excuse la force, et m'exempte de blâme,
-C'est pour quelque vulgaire et basse affection
-Qu'il me faudrait avoir cette discrétion :
-Mais quant à ce héros, votre Altesse elle-même
-En étant bien aimée, avouerait qu'elle l'aime :
-On dirait que Nature a fait tous ses efforts
-À lui former l'esprit aussi beau que le corps ;
-Voyez.
-
--*who_felice
-      Il s'adoucit, et lui jette une oeillade.
-
--*who_armille
-Il faut, ou que je rie, ou que je sois malade.
-
--*who_celie
-Pour moi je n'en puis plus.
-
--*who_ismenie
       Et bien je vous permets,
 Et vous commande aussi de l'aimer désormais,
 Sans que jamais nul autre au change vous invite.
 
--*who_tenare
-Ah, ah, ah, me changer, vraiment je l'en dépite ;
-Aussitôt qu'une Dame a goûté mes appas,
-L'amour qu'elle a pour moi surmonte le trépas,
-Il faut que des Enfers sa pauvre ombre revienne
-Afin d'avoir encor l'entretien de la mienne,
-Ne pouvant plus jouir de celui de mon corps
-Du moment que le sien est au nombre des morts,
-D'où vient qu'une ombre ou deux se mêlant à la nôtre,
-Nous l'avons plus épaisse et plus noire qu'une autre,
-Ce qui se voit assez quand je suis au Soleil,
-Me changer.
-
--*who_ismenie
       En effet vous êtes sans pareil ;
 Mais elle doit trembler d'une crainte éternelle
 Que vous ne la quittiez.
 
--*who_tenare
-      Jamais, elle est trop belle.
-
--*who_felice
-J'en voudrais donc avoir de plus rares faveurs
-Que des feuilles de choux, et de vilaines fleurs,
-Autrement.
-
--*who_celie
-      Vois ma soeur, que vous êtes plaisante.
-
--*who_tenare
-Non, ne vous troublez pas, suffit, je m'en contente.
-
--*who_armille
-Qu'elle vous donne un noeud.
-
--*who_tenare
-      Pourquoi, que savez-vous
-Si j'aime mieux un noeud qu'une feuille de choux ?
-
--*who_armille
-Ah certes je le quitte.
-
--*who_tenare
-      En dépit de l'envie
-Je garderai ceux-cy tout le temps de ma vie.
-
--*who_ismenie
 Et comment ferez-vous, car c'est une faveur
 Qui n'aura dans deux jours ni beauté ni saveur ?
 
--*who_tenare
-C'est par où je prétends les garder davantage,
-Si tôt qu'ils sécheront j'en compose un potage,
-Ou plutôt, pour mieux dire, un charmant consommé,
-Qui dans mon estomac proprement enfermé
-Se convertit après en ma propre substance.
-
--*who_celie
-Ô miracle d'esprit, d'amour et de constance !
-
--*who_felice
-Mais de pure folie.
-
--*who_ismenie
       Écoutons, j'oi du bruit
 C'est l'autre, accompagné, d'Évandre qui le suit,
 Je vais le recevoir avec cérémonie.
 
-**** *book_ *id_II05 *act_II *date_1637
-
--*who_evandre
-Grand Roi, voyez venir la Princesse Isménie.
-
--*who_lepante
-Il n'est pas mal aisé de s'en apercevoir,
-Sa grâce et sa beauté me le font assez voir.
-
--*who_felice
-Ma Soeur, sans moquerie, il a fort bonne mine.
-
--*who_lepante
-Le désir d'adorer votre beauté divine
-M'a fait quitter la Mer et ma flottante Cour,
-Afin d'être en la vôtre un esclave d'amour.
-
--*who_celie
-Il est plus sérieux, mais plus fol que Ténare.
-
--*who_ismenie
 Sire, j'estimerais ma beauté bien plus rare,
 Et l'aimerais bien plus que je n'ai jamais fait
 Si votre servitude en étoit un effet :
 Mais au moins jusqu'ici si vous m'avez aimée,
 C'est sur la foi d'un tiers, et de la Renommée.
 
--*who_lepante
-C'est plutôt sur la foi du Ministre des Dieux,
-Qui cent fois en dormant m'a montré vos beaux yeux,
-Et m'a dit ; Roi Nicas, monte sur mes épaules,
-Je te veux transporter à la côte des Gaules,
-Et là te faire voir dans un trône éclatant
-Celle que mon pinceau te va représentant,
-C'est d'elle que dépend ton repos et ta gloire,
-Elle te peut ôter l'importune mémoire
-Des rudesses d'Iphis, qui te croit au tombeau,
-Et dont, comme tu vois, elle est le vrai tableau.
-
--*who_armille
-Ah ! Quelles visions.
-
--*who_ismenie
       Pour me trouver semblable
 À quelque autre beauté qui vous fut agréable,
 Je vous plais par copie ?
 
--*who_lepante
-      Oui, rien que ce rapport
-N'entretient mon amour.
-
--*who_ismenie
       Vous m'obligez bien fort,
 Et moi dès maintenant je vous aime au contraire
 Comme un original qu'on ne peut contrefaire.
 
--*who_lepante
-Vous m'obligez aussi.
-
--*who_celie
-      Ma soeur, jusqu'à présent
-Je ne le trouve pas extrêmement plaisant.
-
--*who_felice
-Ni moi ; mais écoutons.
-
--*who_evandre
-      Souvenez-vous, Madame,
-De lui faire parler de sa première flamme ;
-Car c'est sur ce sujet que le fol réussit.
-
--*who_ismenie
 Sire, voudriez-vous bien nous faire le récit
 De vos belles amours avec cette maîtresse
 De qui je vous dois faire oublier la rudesse,
 Cette adorable Iphis qui vous croit au tombeau,
 Et dont je suis enfin le bienheureux tableau ?
 
--*who_lepante
-Madame, volontiers : qu'on m'apporte une chaise.
-
--*who_ismenie
 Il est vrai que les Rois doivent être à leur aise.
 
--*who_tenare
-Et leur Princes aussi.
-
--*who_armille
-      Tôt des sièges partout.
-
--*who_ismenie
 Le reste, s'il lui plaît, demeurera debout.
 
--*who_tenare
-Exceptez-en ma Reine, il faut qu'elle s'assie,
-Mets-toi sur mes genoux.
-
--*who_celie
-      Je vous en remercie,
-Si le Roi nous permet de nous asseoir tout bas,
-Son Altesse y consent.
-
--*who_ismenie
       Je n'y contredis pas.
 
--*who_lepante
-Moi je vous le permets, jetez-vous sur l'estrade.
-
--*who_evandre
-Il entend sa marotte.
-
--*who_armille
-      Ô ! Dieux, qu'il est malade.
-
--*who_felice
-C'est dommage.
-
--*who_lepante
-      Écoutez un discours merveilleux,
-Que la plupart de vous tiendra pour fabuleux ;
-Mais je verra ma peine en plaisir convertie
-Pourvu que son Altesse en croie une partie,
-Et que par quelque signe, ou véritable, ou feint,
-Elle me flatte au moins de l'espoir d'être plaint.
-
--*who_ismenie
 Commencez seulement avec cette assurance
 Que je vous plains déjà.
 
--*who_lepante
-      J'ai donc bonne espérance.
-
--*who_ismenie
 En effet, je le plains, et voudrais pour beaucoup
 Qu'Évandre le guérit.
 
--*who_armille
-      Il ferait un beau coup.
-
--*who_lepante
-Chacun sait, ou saura ; que je suis Roi d'une île
-Qui ne vaut guère moins que toute la Sicile,
-Ténare le sait bien.
-
--*who_tenare
-      Il est vrai qu'il est Roi ;
-Mais tel que ses sujets sont presque tous en moi.
-
--*who_lepante
-Non loin de mon Royaume un vieil et sage Prince
-Gouvernait en repos une grande Province,
-Et sa magnificence y tenait une Cour
-Qui la rendait aimable aux Princes d'alentour,
-J'y vins, et n'y vis point de si rare merveille
-Que l'Infante sa fille en beauté non-pareille,
-Dont le regard modeste, amoureux et vainqueur,
-Qui semblait me sommer de lui rendre mon coeur,
-M'ota d'abord l'envie et le temps de combattre ;
-Elle pouvait compter trois lustres, et moi quatre ;
-Bref mon bonheur fut tel que mon feu l'enflamma,
-À force de l'aimer je crois qu'elle m'aima.
-
--*who_ismenie
 Et quels signes d'amour vous donna cette belle ?
 
--*who_lepante
-C'est qu'étant sur le point de me séparer d'elle,
-(Hélas ! voici le bien d'où mon mal est venu)
-Cet Esprit jusqu'alors toujours si retenu,
-Oubliant la froideur qu'il nous avait montrée
-Nous permit dans sa chambre une secrète entrée,
-Où seul sur le minuit je fus lui dire adieu
-Malgré tous les soupçons, et de l'heure, et du lieu ;
-C'est là que toute chose augmentant mon audace
-En cherchant un baiser, je trouve ma disgrâce,
-Ses yeux auparavant si calmes et si clairs
-Me lancent des regards qui semblent des éclairs,
-Et sa bouche offensée aux injures ouverte,
-Me foudroie en ce mots, qui causèrent ma perte :
-Indiscret, me dit-elle, après cet accident
-Ne me montre jamais ton visage impudent,
-Meurs, et souille la mer de tes flammes impures.
-
--*who_ismenie
 Ô ! Ciel, que de rapport avec mes aventures.
 
--*who_lepante
-Je pense l'apaiser, je me jette à genoux,
-Mais en vain, ma présence augmente son courroux,
-Elle m'ordonne encor le trépas pour supplice,
-Pleure, soupire, plaint, appelle sa nourrice,
-Et lui commande enfin de me mettre dehors :
-Là pressé de douleur, de honte et de remords,
-Je gagne une fenêtre effroyablement haute,
-De qui le pied répond dans la mer où je saute,
-Qui depuis ce temps là m'a toujours retenu
-Jusques à maintenant que j'en suis revenu,
-Pour vous rendre, Madame, un éternel hommage.
-
--*who_evandre
-Tout va bien, la Princesse a changé de visage.
-
--*who_ismenie
 Seigneur, quelque discours qui me puisse affermir,
 Votre effroyable saut me fait encor frémir,
 Et vous fîtes tous deux une imprudence extrême,
 L'un commanda trop tôt, l'autre obéit de même.
 
--*who_armille
-Il croit ce qu'il a dit.
-
--*who_tenare
-      Il le peut croire aussi.
-Car je suis assuré que la chose est ainsi.
-
--*who_ismenie
 Mais je m'étonne fort que vous ne vous perdîtes,
 Que fit-on pour votre aide, ou qu'est-ce que vous fîtes ?
 
--*who_lepante
-En habit de marchand Neptune m'apparut,
-Qui me mit dans son char, et qui me secourut.
-
--*who_ismenie
 Et que fit-il de vous ?
 
--*who_celie
-      Un fou qui nous fait rire.
-
--*who_lepante
-Il me retint toujours sur son humide Empire,
-Sur vingt mille tritons m'établit Amiral,
-Et de tous leurs Palais, Intendant Général ;
-Que je vous viens offrir, belle et grande Princesse,
-Pour vous y retirer au cas qu'on vous oppresse.
-
--*who_ismenie
 J'en rends très humble grâce à votre Majesté.
 
--*who_tenare
-Il parle de sa flotte, et dit la vérité.
-
--*who_ismenie
 Mais, Sire, il en faut pas qu'une indiscrète envie
 D'ouïr tout le discours d'une si belle vie
 Me fasse préferer le bien que j'en attends
 Au mal que vous auriez de parler plus longtemps.
 
--*who_lepante
-Il ne tiendra qu'à vous d'en apprendre le reste,
-Et de le rendre encore ou plus ou moins funeste.
-
--*who_ismenie
 Je vous entends, tantôt nous en saurons la fin.
 
--*who_evandre
-L'affaire, ce me semble est en fort bon chemin.
-
--*who_tenare
-Mon maître est un peu fou, mais il est sans malice,
-C'est pourquoi je le souffre.
-
--*who_ismenie
       Armille, et vous Félice,
 Faites voir ma volière et mes jardins au Roi,
 Évandre, cependant demeurez avec moi.
 
--*who_tenare
-Adieu donc doux nectar de mon âme altérée.
-
--*who_celie
-Adieu, mon Adonis.
-
--*who_tenare
-      Adieu ma Cythérée :
-Adieu belle Princesse.
-
--*who_ismenie
       Adieu beau Cavalier ;
 Allez l'accompagner jusqu'au grand escalier.
 
-**** *book_ *id_II06 *act_II *date_1637
-
--*who_ismenie
 Ayez soin de ces gens, cher et fidèle Évandre,
 Et sachez du Marchand combien il les veut vendre,
 Surtout pour contenter mon désir curieux,
@@ -1239,57 +1630,26 @@ Ramenez-moi tantôt notre amant sérieux :
 Mais prenez votre temps en l'absence d'Armille,
 Qui sortira bientôt pour s'en aller en ville.
 
--*who_evandre
-Madame, assurez-vous que cela sera fait.
-
--*who_ismenie
 Allez donc.
 
--*who_evandre
-      Jusqu'ici tout succède à souhait.
-
--*who_ismenie
 Ô ! Grands Dieux qu'est-ceci, parmi tant de merveilles
 Dois-je point soupçonner mes yeux et mes oreilles ?
 Qu'ai-je ouï ? Qu'ai-je vu ? Mes sens émerveillés,
 Pouvez-vous m'assurer d'être bien éveillés ?
 Non, non, j'ai fait un songe, ou je suis enchantée.
 
--*who_celie
-Quoi, Madame, ce fou vous a-t-il attristée ?
-
--*who_ismenie
 Non pas tant que surprise.
 
--*who_celie
-      Eh bons Dieux ! Et comment ?
-
--*who_ismenie
 Ou j'ai sujet de l'être, ou par enchantement
 Ce qui s'est dit et vu, n'est qu'ombre et que mensonge,
 Ou tous les assistants n'ont fait qu'un même songe.
 
--*who_celie
-Je sais trop que pour moi je n'ai point sommeillé,
-Et qu'encore à présent j'ai l'oeil bien éveillé :
-Mais que vous a-t-il dit qui vous ait pu surprendre ?
-
--*who_ismenie
 Ce que rien de mortel ne lui pouvait apprendre ;
 Si bien qu'absolument je conclus tout de bon,
 Ou que c'est mon Lépante, ou que c'est un Démon.
 
--*who_celie
-Puisque vous en parlez avec tant d'assurance,
-Le premier, ce me semble, a bien plus d'apparence.
-
--*who_ismenie
 Le retour des Enfers est aux morts défendu.
 
--*who_celie
-Et pourquoi voulez-vous qu'il y soit descendu ?
-
--*who_ismenie
 Hélas ! Sans le vouloir, ma colère, ou sa rage,
 L'y fit précipiter au plus beau de son âge :
 Si je vous avais dit quel fut son triste sort
@@ -1297,10 +1657,6 @@ Vous n'auriez pas raison de douter de sa mort :
 Mais, hormis ma Nourrice au monument enclose,
 Aucun n'en sut jamais le genre ni la cause.
 
--*who_celie
-Et vous l'avez vu mort ?
-
--*who_ismenie
       Non, mais je l'ai vu choir
 D'un lieu qui fait mourir seulement à le voir :
 Car pour vous révéler sa dernière aventure,
@@ -1310,61 +1666,22 @@ Se jeter dans la mer de ma fenêtre en bas ;
 Et le cours du Soleil a fait un second lustre
 Depuis que mon amour fit cette perte illustre.
 
--*who_celie
-Serait-il le premier qu'en pareil accident
-Les Dieux ont retiré d'un trépas évident ?
-Les livres sont tous pleins de semblables exemples
-Dont nous voyons encor les tableaux dans nos Temples.
-
--*who_ismenie
 Mais où depuis dix ans se serait-il tenu ?
 
--*who_celie
-C'est un secret du sort qui nous est inconnu ;
-Mais qui n'empêche pas que ce ne soit Lépante.
-
--*who_ismenie
 Ah ! Dieux, si c'était lui, que je mourrais contente.
 
--*who_celie
-Si personne en sait rien il faut que ce soit vous.
-En a-t-il quelque signe ?
-
--*who_ismenie
       Il les a presque tous,
 Sa bouche, son regard, sa parole, son geste,
 Et bref, hormis son teint, il en a tout le reste ;
 Car lors qu'il se perdit il avait la façon
 D'une jeune beauté sous l'habit d'un garçon.
 
--*who_celie
-Madame, c'est lui-mesme, et toute sa folie
-N'est qu'un sage artifice.
-
--*who_ismenie
       Ah ! que je crains, Célie,
 Que l'Amour, une fievre, une longue prison,
 Ou quelque autre accident n'ait troublé sa raison.
 
--*who_celie
-Bien loin d'avoir pour lui cette obligeante crainte,
-Croyez que sa folie est une accorte feinte,
-Par où, l'adroit qu'il est, a voulu rechercher
-Les moyens de vous voir, et de vous approcher ;
-Même je crois qu'Évandre, ou je suis bien trompée,
-Est de l'intelligence, et qu'Armille est dupée,
-L'industrieux vieillard, qui sans doute le sert,
-L'emploie à le produire, et se met à couvert.
-
--*who_ismenie
 À ce conte, Célie, elle n'est pas trop fine.
 
--*who_celie
-Non, même il a tant fait que pour la bonne mine
-Du plus intéressé de nos deux amoureux,
-Elle a tiré de vous deux beaux habits pour eux.
-
--*who_ismenie
 En effet il est vrai que plus je vous écoute,
 Moins sur cette matière il me reste de doute :
 Mais allons aux jardins nous en entretenir,
@@ -1372,9 +1689,6 @@ Attendant le vieillard qui l'y fera venir,
 Afin que mes soupçons changés en certitude
 Mon esprit désormais n'ait plus d'inquiétude.
 
-**** *book_ *id_III01 *act_III *date_1637
-
--*who_ismenie
 
 
 Après dix ans de mort Lépante voit le jour !
@@ -1422,23 +1736,11 @@ Par les degrés d'un trône établi par le crime ;
 Si Lépante au besoin ne donne un prompt effet
 Au dessein que j'ai fait.
 
-**** *book_ *id_III02 *act_III *date_1637
-
--*who_ismenie
 Mais le voici qui vient, ô Prince déplorable !
 Que ma faute et la vôtre ont rendu misérable,
 Trop prompt à m'offenser et trop à m'obéir,
 Qu'avec juste raison vous me devez haïr.
 
--*who_lepante
-Ni mes États perdus, ni depuis dix années
-Ma fortune, et ma vie à tout abandonnées,
-Ne m'ont rien fait souffrir que n'ait trop mérité
-Mon indiscrète audace envers votre beauté,
-Et je prendrais à gré ma fortune présente
-Pourvu que mon retour vous plut.
-
--*who_ismenie
       Oui, cher Lépante,
 Je vous le dis encore, le bien de vous revoir
 Est un des plus parfaits que je pouvais avoir,
@@ -1447,18 +1749,6 @@ Je veux montrer ma joie à celui qui la cause,
 Après tant de travaux, de constance et de soins,
 Le coeur le plus ingrat ne pourrait faire moins.
 
--*who_lepante
-Vous louez ma constance, et moi tout au contraire,
-J'ai sur cette matière un reproche à vous faire,
-Puisqu'après le discours que je vous ai tenu
-Encor ne sais-je pas si vous m'eussiez connu,
-Si l'homme que voilà ne vous eut point aidée
-À retracer de moi quelque confuse idée.
-
--*who_evandre
-Je ne l'ai secourue en aucune façon.
-
--*who_ismenie
 Non, votre seule histoire a causé mon soupçon ;
 Car pour votre personne, encore que j'y trouvasse
 Même bouche, même oeil, même air, et même grâce,
@@ -1471,17 +1761,8 @@ Ce même extravagant que vous représentiez,
 Et si naïvement, que j'ai dit à Célie
 Que je craignais pour vous quelque accès de folie.
 
--*who_lepante
-Vraiment mon personnage a fait un bel effet.
-
--*who_ismenie
 Prenez vous en à vous qui l'avez si bien fait.
 
--*who_evandre
-Tout indigne qu'il est il faut bien qu'il l'exerce,
-S'il veut continuer son amoureux commerce.
-
--*who_ismenie
 Oui, Lépante, il le faut, si vous me voulez voir,
 Et nous vous aiderons de tout notre pouvoir,
 Évandre, moi, Célie, et peut être Félice,
@@ -1490,14 +1771,6 @@ Ainsi quelque fâcheux qui puisse survenir,
 J'aurai toujours moyen de vous entretenir,
 Et de goûter au moins cette innocente joie.
 
--*who_lepante
-Tous m'est doux, tout m'est beau pourvu que je vous voie ;
-Que je passe par tout pour un fol sérieux,
-Si j'ai votre entretien je suis Roi glorieux,
-Et tiens qu'à ce prix-là les plus sages de Grèce
-Voudraient à ma folie échanger leur sagesse.
-
--*who_ismenie
 Au lieu de me tenir ces discours obligeants
 Contez-moi sous quel Ciel, et parmi quelles gens
 Les Dieux et la Fortune ont depuis dix années
@@ -1507,177 +1780,26 @@ Contre toute apparence empêcha votre mort,
 Car c'est, à dire vrai, de toute la Nature
 La plus prodigieuse et plus rare aventure.
 
--*who_evandre
-Je brûle de l'entendre.
-
--*who_ismenie
       Et moi.
 
--*who_lepante
-      Puisqu'il vous plaît,
-Oyez en peu de mots la chose comme elle est.
-J'avais par la douleur, et l'eau que j'avais bue
-Perdu le sentiment, la parole et la vue,
-Quand des coups et des cris accompagnés d'effroi
-Me furent un sujet de revenir à moi,
-Dans le coin d'un navire, et presque à fonds de cale,
-Je me trouve étendu sur un lit dur et sale,
-Du sang d'un homme mort tout fraîchement souillé,
-Et de quantité d'eau dont je l'avais mouillé.
-
--*who_ismenie
 Mon père je frémis.
 
--*who_evandre
-      Et moi je vous proteste.
-
--*who_lepante
-Comme je contemplais ce spectacle funeste
-Deux soldats, la lanterne et l'épée en avant,
-Vinrent voir si quelqu'un était encor vivant,
-Et trouvant un vieillard caché parmi des hardes
-Lui passèrent deux fois leurs glaive jusqu'aux gardes ;
-Après venants à moi qui n'attendais pas mieux,
-Je vis que le plus jeune arrêta le plus vieux,
-Observa mon habit, ma physionomie,
-Et lui montra du doigt l'eau que j'avais vomie,
-Puis en mauvais Romain lui dit semblables mots :
-Celui-ci, que sans doute on a tiré des flots,
-En l'état qu'on le voit, mouillé, pâle et malade,
-N'a pas causé la mort du vaillant Encelade,
-Il est pour un Marchand trop richement vêtu,
-Et ne doit point mourir s'il n'a point combattu :
-Il en faut consulter le reste de la troupe
-Dit l'autre, et le porter dans la chambre de poupe :
-Cela dit, chacun d'eux me transporte à son rang
-Sur un tillac couvert d'une mare de sang,
-Et qui servait encor de scène et de théâtre
-À la fureur de Mars qui s'y venait débattre ;
-Là par raison d'État, et par nécessité
-Je déguise mon nom, mon sort, ma qualité,
-Et dis que pour m'ôter à la fureur d'un maître
-J'avais sauté dans l'eau d'une haute fenêtre,
-De sorte qu'en l'état où l'on m'avait trouvé
-Je ne pouvais savoir qui m'en avait sauvé :
-Lors des plus apparents un bon nombre s'assemble,
-Qui longtemps et tous bas délibèrent ensemble.
-
--*who_ismenie
 Dieux que je crains pour vous.
 
--*who_lepante
-      Ils furent plus courtois
-Que dans mon désespoir je ne le souhaitais ;
-Ils me firent sécher, et par leur bonne chère
-S'efforcèrent en vain de charmer ma misère ;
-Car je gardais toujours pour nourrir ma langueur
-L'image de ma faute et de votre rigueur.
-
--*who_ismenie
 Mais que devîntes-vous ?
 
--*who_lepante
-      Je m'en vais vous le dire.
-Après avoir détruit ce malheureux navire
-De qui je fus le seul et le dernier vivant,
-Ils reprennent soudain la route du Levant,
-Et je passe avec eux dans un vaisseau de guerre
-Qui ne craignait en tout que la flamme et la terre ;
-Je fus leur prisonnier un mois et presque deux
-En attendant le temps de me dérober d'eux,
-Qui m'eussent fait payer une rançon immense
-Si ma discrétion n'eust caché ma naissance,
-Quand le plus grand ennui qui pouvait me saisir,
-Sur le point d'échapper m'en ôta le désir ;
-J'appris auprès de Tyr le bruit faux et funeste
-Que la belle Isménie était morte de peste ;
-Et quelque temps après je sus la vérité
-Qu'un injuste voisin m'avait déshérité :
-Car, comme vous savez, cette honte des Princes
-Un mois après ma perte entra dans mes Provinces,
-Où mon frère Anaxandre, en défendant le sien,
-Perdit à la bataille et la vie et le bien ;
-Ainsi donc n'ayant plus ni d'espoir ni d'envie,
-Je mis à l'abandon ma fortune et ma vie,
-Courus par désespoir tous les bords étrangers
-Où l'on peut mieux trouver les extrêmes dangers ;
-Et bref cherchai la mort sur la terre et sur l'onde
-Tant que je ne crus pas que vous fussiez au monde.
-
--*who_ismenie
 Au moins depuis six mois ayant su que j'y suis
 Votre coeur a fait trêve avec ses ennemis,
 Où croyant jusqu'ici votre perte assurée
 J'ai bien souffert des maux de plus longue durée :
 Mais quel sort ténébreux a caché vos beaux jours ?
 
--*who_lepante
-C'est d'une étrange vie, un étrange discours,
-À quoi le jour entier aurait peine à suffire.
-
--*who_ismenie
 Bien donc, une autre fois vous pourrez nous le dire :
 Mais éclaircissez-moi l'histoire du vaisseau
 Dont le Ciel se servit à vous tirer de l'eau ?
 
--*who_lepante
-Vous m'obligez, Madame, au récit d'une chose,
-Que pour n'avoir point vue il faut que je suppose,
-Et dont tous les témoins ont peri devant moi ;
-Mais toujours, en tout cas voici ce que j'en crois.
-C'était un vaisseau Grec, qui sortait de Marseille,
-(Comme j'ai su depuis) riche et fort à merveille,
-Il ne vit pas ma chute à cause de la nuit,
-Mais il ne laissa pas d'en entendre le bruit,
-Il dépêcha l'esquif, et remarqua la place
-Avec tant d'heur pour nous, ou plutôt de disgrâce,
-Qu'il est à présumer que revenant sur l'eau
-Quelqu'un des Mariniers nous mit dans le bateau :
-Mais soit que la pitié qu'ils m'avaient témoignée
-Eut contre leur vertu la Fortune indignée,
-Ou soit que ma disgrâce eut attiré la leur
-Par la contagion de mon propre malheur,
-À ce premier éclat que le Soleil nous montre
-Un Navire Africain leur vint à la rencontre,
-À qui l'avare faim, et l'espoir du butin
-Fait commencer la charge avec son brigantin :
-Nos Marchands, gens de coeur, songent à se défendre,
-Résolus de périr plutôt que de se rendre :
-En ce premier combat, le Chef des assaillants
-Est porté dans la Mer, et trois des plus vaillants,
-Il y meurt ; cependant le gros navire approche,
-Qui donne l'escalade à l'autre qu'il accroche ;
-Enfin, pour faire court, après un long effort
-Cet injuste agresseur demeure le plus fort ;
-Alors sur le vaincu le vainqueur fait main basse,
-Et le pauvre marchand ne trouve point de grâce,
-Tous sont sacrifiés par la flamme et le fer
-Aux mânes d'Encelade étouffé dans la Mer.
-
--*who_evandre
-Et ces coeurs sans pitié, ces conquérants avares,
-Étaient assurément Pirates et Barbares ?
-
--*who_lepante
-Oui, des plus redoutés, et des plus belliqueux.
-
--*who_ismenie
 Mais vous, combien de temps futes-vous avec eux ?
 
--*who_lepante
-Il lui faut désormais déguiser la matière ;
-J'y passai d'un soleil la course presque entière ;
-Mais ayant en horreur leurs actes inhumains
-Je fis tant qu'à la fin j'échappai de leurs mains.
-
--*who_evandre
-Ah que vous fîtes bien, ce sont ceux-là peut-être,
-Qui prirent nos vaisseaux, et le Prince mon maître.
-
--*who_lepante
-Comment, que dites-vous, l'ont ils fait prisonnier ?
-
--*who_ismenie
 Oui, mon frère en fut pris cet automne dernier :
 Mais bien loin de s'en plaindre, il prêche leurs louanges
 Obligé qu'il y fut par les faveurs étranges
@@ -1688,25 +1810,9 @@ Il dépêcha vers lui sa première galère,
 Et nous le renvoya par ceux qui l'avaient pris,
 Avec cent compliments, et vingt chevaux de prix.
 
--*who_lepante
-Je ne le connais point, mais il est en estime
-D'être assez généreux, courtois et magnanime ;
-Je le blâme pourtant d'exercer un métier
-Indigne d'un grand homme, et d'un courage altier.
-
--*who_ismenie
 Possible jusqu'ici l'a-t-il fait par contrainte,
 Et sa nécessité mérite d'être plainte.
 
--*who_lepante
-Je l'avoue, et moi-même ayant fait comme lui
-Je devrais me servir de l'excuse d'autrui ;
-Que je vous sais bon gré d'avoir de la tendresse
-Pour les coeurs généreux que la Fortune oppresse,
-C'est par là que j'espère, et par là, que je crois,
-Que vous aurez encor quelques pensers pour moi.
-
--*who_ismenie
 Je serais trop ingrate, inconstante et blâmable,
 Si pour être moins grand vous m'étiez moins aimable,
 Votre sort au contraire accroît mon amitié
@@ -1716,488 +1822,79 @@ Ne doit pas empêcher qu'un bon coeur ne vous aime ;
 C'est pourquoi (l'honneur sauf) espérez tout de nous,
 Comme si la Sicile était encore à vous.
 
--*who_lepante
-Que j'espère, et Lypas, à qui l'on vous destine ?
-
--*who_ismenie
 Je lui ferai si froide et si mauvaise mine,
 Que s'il n'est insensible il éteindra son feu.
 
--*who_lepante
-Et s'il ne l'éteint pas ?
-
--*who_ismenie
       Je m'en soucirai peu.
 
--*who_lepante
-Mais d'un frère engagé la puissance absolue
-Peut rendre en sa faveur votre âme irrésolue.
-
--*who_ismenie
 Bien, Lépante, en ce cas vous me la résoudrez,
 Croyez qu'il n'en sera que ce que vous voudrez,
 Et que sur cet hymen, non plus que sur tout autre,
 Je ne suivrai jamais de conseil que le vôtre.
 Je pense pour tous deux en avoir assez dit.
 
--*who_lepante
-Oui, Madame.
-
--*who_evandre
-      Ô ! Bons Dieux, que l'amour enhardit.
-
--*who_lepante
-Mais si l'on vous contraint, comme c'est l'apparence,
-Que deviendra Lépante avec son espérance ?
-
--*who_ismenie
 Vous êtes défiant et pressant jusqu'au bout.
 
--*who_lepante
-Je le suis en effet, pour ce que je crains tout.
-
--*who_ismenie
 Lépante encore un coup, je vous parle en ces termes ;
 Les Cieux ne tournent point sur des pôles plus fermes,
 Qu'est le dessein que j'ai de ne manquer jamais
 À ce que je vous dois, et que je vous promets :
 Mais jouez votre jeu, je vois venir Armille.
 
--*who_lepante
-Laissez-moi travailler : ma personne en vaut mille,
-Et quiconque osera prétendre à votre amour,
-Fut-il un autre Mars, il y perdra le jour ;
-Mais puisque vous souffrez qu'un autre vous caresse,
-Adieu, je vais chercher ma première maîtresse.
-
--*who_ismenie
 Revenez, revenez.
 
--*who_lepante
-      Non, je n'en ferai rien.
-
-**** *book_ *id_III03 *act_III *date_1637
-
--*who_armille
-Sa colère l'emporte.
-
--*who_evandre
-      Il l'entend assez bien.
-
--*who_ismenie
 Vous nous trouvez brouillés.
 
--*who_armille
-      Madame, il me le semble,
-Quand je vous ai quittez vous étiez mieux ensemble ;
-Et d'où vient, s'il vous plaît, que vous êtes si mal ?
-
--*who_ismenie
 Il s'est imaginé qu'il avait un rival,
 Et depuis ce temps là je l'ai trouvé si rare
 Qu'Évandre vous dira qu'il vaut mieux que Ténare,
 Pour moi je l'aime mieux.
 
--*who_evandre
-      Il me plaît plus aussi.
-
--*who_armille
-Si bien que l'un et l'autre ont fort bien réussi,
-Vraiment j'en suis bien aise étant cause en partie
-Du plaisant entretien qui vous a divertie.
-
--*who_ismenie
 Je le confesse, Armille, et je vous en sais gré,
 Vous ne pouviez me plaire en un plus haut degré :
 Mais quittons ce discours, et me dites de grâce
 Si mon frère et le Roi sont venus de la chasse ?
 
--*who_armille
-Oui, Madame, et de plus par moi fort bien instruits
-De l'humeur des messieurs que je vous ai produits.
-
--*who_ismenie
 Où les avez vous vus ?
 
--*who_armille
-      Dans la cour de l'Ovale ;
-Mais quand je suis venue ils montaient à la salle.
-
--*who_ismenie
 Allez les donc chercher vous qui les gouvernez.
 
--*who_evandre
-Qui, Madame ?
-
--*who_ismenie
       Vos fous, et nous les ramenez.
 
--*who_evandre
-Pour Ténare il accourt, si je puis le connaître,
-C'est lui, reste à trouver son fantasque de maître,
-Qui ne manquera pas à se faire prier.
-
-**** *book_ *id_III04 *act_III *date_1637
-
--*who_ismenie
 Ténare, où courez-vous ? Qu'avez-vous à crier ?
 
--*who_tenare
-Ce n'est rien.
-
--*who_ismenie
       Pourquoi donc faites-vous ce vacarme ?
 
--*who_tenare
-Poltrons, m'assassiner et me prendre sans armes,
-Vous êtes des marauds.
-
--*who_armille
-      En effet ils ont tort.
-
--*who_tenare
-Vous savez que Célie et moi nous aimons fort.
-
--*who_ismenie
 Très bien, et que Félice en est même jalouse.
 
--*who_tenare
-Justement, elle enrage, et veut que je l'épouse ;
-Mais me trouvant trop ferme en ma première amour,
-Elle veut de dépit me faire un mauvais tour
-Par ces deux assassins qui m'ont pris par derrière.
-
--*who_ismenie
 C'est mon frère et le Roi qui se donnent carrière.
 
--*who_armille
-Sans doute, et les voici.
-
-**** *book_ *id_III05 *act_III *date_1637
-
--*who_lypas
-      Nous le trouverons bien.
-
--*who_tenare
-À l'aide, au meurtre.
-
--*who_ismenie
       Ils ne vous feront rien,
 Demeurez près de moi : Seigneurs, je vous supplie,
 Permettez avec moi qu'il épouse Célie.
 
--*who_dorante
-Puisque c'est un hymen que vous avez permis,
-Il est juste, et dès-là nous sommes ses amis.
-
--*who_tenare
-Je suis le vôtre aussi ; mais jamais de Félice.
-
-**** *book_ *id_III06 *act_III *date_1637
-
--*who_ismenie
 Approchez l'une et l'autre, on vous a fait justice,
 Célie est à Ténare.
 
--*who_celie
-      Ô favorable arrêt !
-
--*who_ismenie
 Pour vous n'y songez plus.
 
--*who_felice
-      Jamais puis qu'il vous plaît ;
-Mais j'en mourrai d'ennui.
-
--*who_tenare
-      Dis d'amour et de rage,
-Jalouse.
-
--*who_lypas
-      Il est bien fou.
-
--*who_armille
-      L'autre l'est davantage ;
-Car outre qu'il s'estime aussi grand Roi que vous,
-C'est qu'il traite Madame en amoureux jaloux :
-Le voici, mais sans rire admirons son entrée.
-
-**** *book_ *id_III07 *act_III *date_1637
-
--*who_lepante
-Quelle sorte de gens ai-je ici rencontrée,
-Évandre ?
-
--*who_ismenie
       Approchez, Sire, et ne vous fâchez pas,
 Le plus proche de vous est le grand Roi Lypas,
 Et l'autre mon parent.
 
--*who_lepante
-      Pour l'un je le respecte ;
-Mais j'ai de ce Lypas la présence suspecte ;
-J'aime votre parent, et suis son serviteur ;
-Pour l'autre je le hais comme un usurpateur,
-Qui veut s'approprier mon bien et ma maîtresse.
-
--*who_lypas
-Et quel titre, et quel droit vous donne la Princesse ?
-
--*who_lepante
-Ma longue affection, mon immuable foi,
-Elle enfin qui m'accepte, et qui se donne à moi.
-
--*who_dorante
-Sire, essayez de grâce à le mettre en colère.
-
--*who_lypas
-Vous ne méritez pas un si digne salaire,
-A moi seul appartient l'honneur de la servir,
-Et c'est moi, Roitelet, qui vous la veux ravir.
-
--*who_lepante
-Avant que cela soit j'y perdrai trente Princes ;
-Dont le moindre commande à trois grandes provinces.
-
--*who_tenare
-Il parle de ses chefs, et de nos grands vaisseaux.
-
--*who_dorante
-Mais, Sire, où tenez-vous ces Princes vos vassaux ?
-
--*who_lepante
-A deux doigts de la mort, chez Mars et La Fortune.
-
--*who_lypas
-Je crois que votre Empire est sujet à la Lune.
-
--*who_lepante
-Tu pourrais dire encor qu'il est sujet au vent,
-Afin que ton mépris me piquât plus avant :
-Mais sache, Roy Lypas, que si j'entre en furie
-Je te ferai quitter la Mer de Ligurie,
-Et que si désormais tu disputes mon bien
-L'Empire que tu dis me donnera le tien.
-
--*who_evandre
-Ils ne l'entendent pas.
-
--*who_tenare
-      Non je vous en assure.
-
--*who_lypas
-Vraiment il est bien fou.
-
--*who_lepante
-      Je vois bien à cette heure,
-Chacun est partisan de sa prospérité ;
-Mais bientôt les rieux seront de mon côté.
-
--*who_dorante
-Sa colère est trop grande, il faut que je l'apaise :
-Vous jeter dans la guerre, ah ! Sire, aux Dieux ne plaise ;
-Deux grand Rois comme vous n'en viendraient pas aux mains
-Sans troubler le repos du reste des humains ;
-Non, non, pour le salut et de l'un de l'autre,
-Recevez ma parole, et me donnez la vôtre,
-Que celui de vous deux que choisira ma soeur,
-Sans dispute et sans trouble en sera possesseur.
-
--*who_lypas
-Soit, j'y consens.
-
--*who_lepante
-      Et moi.
-
--*who_ismenie
       Puisque le fait m'importe,
 Et que mon frère même à mon choix se rapporte,
 Je ne rougirai point de dire devant tous,
 Que c'est le Roi Nicas que je veux pour époux.
 
--*who_lypas
-Puisque je l'ai promis, il faut que je le quitte ;
-Mais c'est à son bonheur, plutôt qu'à son mérite,
-
--*who_page
-Seigneur, un étranger là-dehors vous attend,
-Pour vous donner, dit-il un paquet important,
-Au reste son habit, sa mine et sa présence,
-Font croire que lui-même est homme d'importance.
-
--*who_lypas
-C'est possible un courrier de votre Majesté,
-Roi Nicas.
-
--*who_lepante
-      Il est vrai, tu dis la vérité,
-Roi Lypas.
-
--*who_armille
-      Il le dit comme il se l'imagine.
-
--*who_lypas
-Allons, nous verrons tous s'il a si bonne mine.
-
-**** *book_ *id_IV01 *act_IV *date_1637
-
--*who_erphore
-Seigneur, quelque soupçon qui me tombe en l'esprit,
-Je veux croire pourtant qu'Axala vous écrit,
-Et qu'en cette hyménée il a l'effronterie
-De disputer la palme au Roi de Ligurie ;
-Mais votre jugement n'a pas de quoi douter
-Que le plus grand des deux ne la doive emporter,
-Si bien que maintenant c'est à vous à connaître
-Quel rang tient ce pirate, au prix du Roi mon maître.
-
--*who_dorante
-Je sais quel est son rang, et quel celui du Roi ;
-Mais je suis obligé de lui garder la foi.
-
--*who_erphore
-Mais la raison d'État vous défend de le faire.
-
--*who_dorante
-Mais celle de l'honneur m'ordonne le contraire,
-Et d'autant que l'honneur m'est plus cher que le bien,
-Je le suis sans réserve et sans crainte de rien.
-
--*who_erphore
-Vous étiez en prison alors que vous promîtes,
-Et votre liberté défait ce que vous fîtes.
-
--*who_dorante
-Je lui promis ma soeur dans ma captivité ;
-Mais rien ne m'y força que sa civilité,
-Et croyant que possible il éprouvait la mienne,
-Je lui donnai la foi qu'il faut que je lui tienne :
-Il est vrai j'en fis trop, mais puisque je l'ai fait,
-Telle qu'est ma promesse elle aura son effet.
-
--*who_erphore
-Pourquoi donc recevoir la parole d'un autre,
-Puisque le grand corsaire avait déjà la vôtre ?
-
--*who_dorante
-Avant qu'à cette amour le Roi fut embarqué,
-Il avait su la chose et s'en étoit moqué ;
-Dorante, me dit-il, cette galanterie
-Ne doit pas arrêter un Roi de Ligurie ;
-C'est un trait de pirate aussi vain qu'indiscret,
-Et, si vous m'en croyez vous le tiendrez secret :
-Je le crus, et ma soeur ne vient que de l'apprendre
-Par mon commandement, et la bouche d'Évandre.
-
--*who_erphore
-Ce prétexte de foi me semble un peu léger ;
-Car ou vous nous trompiez, ou sans ce messager
-Notre hymen dans huit jours était prêt à ce faire.
-
--*who_dorante
-Je l'avoue.
-
--*who_erphore
-      Ainsi vous trompiez le corsaire.
-
--*who_dorante
-Point, je pouvais le faire et sauver mon honneur.
-
--*who_erphore
-Comment ?
-
--*who_dorante
-      J'ai son écrit, voyez-en la teneur.
-Dorante, il y a quatre mois que vous promîtes à mon Lieutenant Artaxes, que vous m'accorderiez pour femme votre soeur unique la Princesse Isménie, à la première semonce que vous en recevriez de ma part, et que vous jurâtes entre ses mains par l'âme de votre père, que vous me la donneriez si dans un mois après je venais vous la demander en personne dans votre ville de Marseille : Je vous assure donc que vous m'y verrez au plutôt, pour vous sommer moi-même de l'exécution de votre promesse.
-C'est la rançon que je vous demande, et vous ne pouvez me refuser sans offenser les Dieux, et perdre parmi les hommes la réputation où vous estes du plus loyal et du plus généreux Prince de la terre.
-AXALA.
-À ces conditions, vous voyez bien Erphore,
-Que tantôt, l'honneur sauf, je le pouvais encore,
-Et non plus maintenant qu'il l'a fait demander.
-
--*who_erphore
-Votre Altesse, Seigneur, me doit donc accorder,
-À voir comme Axala prit mal son assurance,
-Que si la chose est vraie elle a peu d'apparence ;
-Car pour ses sûretés il était à son choix
-De vous prescrire encor de plus étroites lois,
-Et vous obliger même à cette tyrannie
-De lui mener chez lui votre soeur Isménie,
-Et ne l'ayant pas fait.
-
--*who_dorante
-      Il fit plus sagement,
-Sa modération surprit mon jugement,
-Je crus que ce galant et généreux corsaire
-Me menaçait d'un coup qu'il ne voudrait pas faire,
-Et que sa vanité (comme il peut advenir)
-M'obligeait à promettre, et non pas à tenir :
-Cependant s'il le veut, il faut que je le fasse,
-Et le grand Roi Lypas m'excusera de grâce ;
-C'est pourquoi, sage Erphore, allez le disposer
-À goûter la raison qui me doit excuser ;
-Dites lui que pour moi (comme il est véritable)
-J'ai de son déplaisir un regret incroyable,
-Qu'après un accident si digne de pitié,
-Je suis encor heureux d'avoir son amitié,
-Et que je perds assez perdant son alliance,
-Sans que mon mauvais sort m'ôte sa bienveillance ;
-Enfin obligez-moi de lui représenter
-Le destin qui me force à la mécontenter,
-Puisque telle est pour moi ma parole donnée
-Touchant ce malheureux et funeste hyménée.
-
--*who_erphore
-Seigneur, à dire vrai, je souhaiterais bien
-Qu'un autre lui donnât ce fâcheux entretien ;
-Car je ne doute point qu'il ne trouve bien dure,
-Et la chose elle-même, et votre procédure,
-Il aime la Princesse, et difficilement
-La pourra-t-il céder à cette indigne amant ;
-Je tâcherai pourtant d'empêcher sa furie,
-Ou de la modérer.
-
--*who_dorante
-      Allez, je vous en prie,
-Et faites que le tout se passe à la douceur,
-Ô ! Prince infortuné : Mais j'aperçois ma soeur,
-Il faut pour quelque temps éviter ses approches,
-Ses plaintes, ses regrets, et ses justes reproches.
-
-**** *book_ *id_IV02 *act_IV *date_1637
-
--*who_ismenie
 Et pourquoi si long-temps m'a-t-il voulu cacher
 Ce funeste secret ?
 
--*who_celie
-      De peur de vous fâcher.
-
--*who_ismenie
 Et me fâche-t-il moins qu'il ne m'aurait fâchée ?
 
--*who_celie
-Vous ayant jusqu'ici l'aventure cachée,
-Vous ne souffrez au moins que depuis aujourd'hui.
-
--*who_ismenie
 Mais il m'eût préparée à souffrir mon ennui,
 Au lieu qu'il me surprend, et qu'il fait que j'en meure.
 
--*who_evandre
-Mais le Prince lui-même a cru jusqu'à cette heure
-Qu'il ne devait jamais vous parler de cela,
-Et que c'était un trait d'humeur d'Axala,
-Partout assez fameux pour la galanterie,
-D'autant mieux qu'un pirate à peine se marie,
-Surtout un Général, dont la perfection
-Est de ne rien aimer que sa profession,
-Telle sorte de gens estimant qu'une femme
-Rend un chef moins hardi pour le fer et la flamme :
-Mais celui-ci, peut-être, en est assez aimé,
-Et pour se marier, et pour être estimé.
-
--*who_ismenie
 Ainsi donc mon destin qui toujours devient pire,
 De l'amour d'un grand Roi qui m'offrait un Empire,
 Me jette à la merci d'un corsaire effronté :
@@ -2205,30 +1902,8 @@ Me jette à la merci d'un corsaire effronté :
 Quand adresseras-tu ta dernière tempête
 Sur cette détestée et misérable tête ?
 
--*who_evandre
-Madame, bien souvent nous querellons les Cieux
-Quand pour notre salut ils travaillent le mieux.
-
--*who_ismenie
 Hélas ! Et que font-ils pour me rendre contente ?
 
--*who_evandre
-Contre toute espérance, ils vous rendent Lépante,
-Afin de vous servir de rempart assuré
-À soutenir l'assaut qui vous est préparé,
-Il sait votre aventure, et c'est par son adresse
-Que vous échapperez du danger qui vous presse :
-Car, à ce que je vois, le Prince est résolu
-D'user en votre endroit d'un pouvoir absolu,
-Si bien que votre mieux, après la patience,
-C'est d'avoir en Lépante une entière fiance :
-Il entre, ce me semble, et Félice avec lui.
-Montrez-lui franchement votre âme et votre ennui,
-Auparavant qu'Armille, ou quelqu'autre survienne.
-
-**** *book_ *id_IV03 *act_IV *date_1637
-
--*who_ismenie
 Si votre affection est pareille à la mienne
 Lépante ; nous voici les deux plus malheureux
 Qui jamais aient souffert sous l'Empire amoureux ;
@@ -2245,29 +1920,14 @@ Il viendra m'enlever des bords qui m'ont vu naître,
 Pour vivre, comme il fait, des misères d'autrui,
 À la merci des flots, que je crains moins que lui,
 
--*who_lepante
-Mais si vous n'aviez pas le malheureux Lépante,
-Comment soutiendriez-vous cette fière tourmente ?
-Quel phare en cette nuit vous montrerait le port ?
-
--*who_ismenie
 En cette extrémité j'irais droit à la mort ;
 Depuis qu'on m'a parlé d'une flamme nouvelle,
 Ma résolution a toujours été telle.
 
--*who_lepante
-Et maintenant encor, qu'avez-vous résolu ?
-
--*who_ismenie
 D'élire le trépas que vous aviez élu,
 D'aller du même endroit, et sur vos mêmes traces,
 Étouffer dans la mer ma vie et mes disgrâces.
 
--*who_lepante
-Ce n'est pas le chemin qu'il faut que vous suiviez,
-Lépante en sait un autre, et veut que vous viviez.
-
--*who_ismenie
 Considérez-moi donc comme une autre Andromède,
 Comme un autre Persée accourez à mon aide,
 Et pour vous, et pour moi, tâchez de me sauver
@@ -2275,97 +1935,23 @@ De ce monstre marin qui me veut enlever :
 Oui, pour vous, et pour moi, remarquez mes paroles,
 Qui ne vous donnent point d'espérances frivoles.
 
--*who_celie
-Les mots sont obligeants.
-
--*who_felice
-      Et s'expliquent assez.
-
--*who_lepante
-Vous m'obligez autant que vous m'embarrassez,
-Ayant bien de la peine à faire une réponse
-Digne de ma fortune, et de votre semonce ;
-Votre excessive amour se porte aveuglement
-À me combler de gloire et de contentement,
-Et l'excès de la mienne, à mon bonheur contraire,
-Résiste à la faveur que vous me voulez faire,
-Sur le point de jouir d'un bien si désiré,
-Ma propre passion me rend considéré ;
-Il est vrai qu'au besoin il me serait facile
-De vous faire trouver un favorable asile,
-Où vous n'auriez à craindre en aucune façon
-Qu'un frère vous forçât à payer sa rançon ;
-Mais j'ai trop de courage, et vous m'êtes trop chère
-Pour vous envelopper dans ma propre misère :
-Quoi ne savez-vous pas, miracle de beauté,
-Que j'ai perdu ma gloire avec ma royauté ?
-Qu'en me précipitant, mon trône et ma fortune
-Tombèrent avec moi d'une chute commune ?
-Que je n'ai plus de rang, ni plus de qualité,
-Et que jusque à mon nom, le sort m'a tout ôté ?
-
--*who_ismenie
 N'importe, il me suffit que vous êtes né Prince,
 Votre moindre vertu vaut mieux qu'une Province,
 Et sans gloire, et sans bien, l'amour que j'ai pour vous
 Me rendra tout aisé vous ayant pour époux.
 
--*who_celie
-Ah ! Ma soeur, son amour la rendra malheureuse.
-
--*who_lepante
-Je reçois à genoux cette offre généreuse ;
-Mais au moins pensez-y, je vous le dis encor,
-L'espoir est mon dernier et mon plus grand trésor :
-Je n'ai plus cet éclat, ces riches équipages,
-Ce nombre d'officiers, cette suite de pages,
-Ni tous ces Courtisans que je voulais avoir
-En l'état florissant où vous m'avez pu voir.
-
--*who_ismenie
 Tant mieux, les grands États ont des grandes disgrâces,
 Et la tranquillité suit les fortunes basses.
 
--*who_lepante
-Au reste ma retraite est au milieu des eaux,
-Dans le fonds de l'Egypte, et parmi les roseaux.
-
--*who_ismenie
 Encor mieux, nous l'aurons comme je la souhaite.
 
--*who_lepante
-Ô ! Dieux, fut-il jamais une âme si parfaite.
-Mais vos filles, Madame ?
-
--*who_ismenie
       Aurez-vous bien le coeur
 De me suivre ?
 
--*who_felice
-      Oui, Madame.
-
--*who_ismenie
       Et vous ?
 
--*who_celie
-      Mieux que ma soeur.
-
--*who_felice
-Mieux que moi, grand merci de votre courtoisie,
-Pourquoi mieux, s'il vous plaît ?
-
--*who_ismenie
       Voyez leur jalousie.
 
--*who_lepante
-Et le fidèle Évandre, on ne le compte pas.
-
--*who_evandre
-Non, mais en quelques lieux que s'adressent vos pas,
-C'est un point résolu qu'il sera de la suite,
-Ou qu'il empêchera votre amoureuse fuite.
-
--*who_ismenie
 Lépante, vous voyez, c'est maintenant à vous
 À trouver les moyens de nous enlever tous ;
 Au reste pour du bien n'en soyez pas en peine,
@@ -2373,70 +1959,27 @@ D'une seule ceinture, et d'une seule chaîne,
 Qui sont présentement tout ce que j'ai valant,
 Nous aurons six fois plus que ne vaut un talent.
 
--*who_lepante
-Avant que commencer cette haute entreprise,
-Il faut, suivant la foi que vous m'avez promise,
-Que vous juriez encor par la soeur du Soleil,
-Que vous suivrez en tout mon ordre et mon conseil.
-
--*who_ismenie
 Je le jure, et de plus, je t'exhorte, ô Diane,
 À vider ton carquois sur ma teste profane
 Si je manque à tenir le serment que j'ai fait.
 
--*who_lepante
-Ô Dieux !
-
--*who_ismenie
       Et bien Lépante, êtes-vous satisfait ?
 
--*who_lepante
-Je le suis tout autant que j'ai sujet de l'être ;
-Mais il me reste encor à vous faire connaître
-Qu'à vouloir procurer ma gloire et mon bonheur
-Vous perdez votre frère en perdant votre honneur ;
-Si bien qu'à mon avis, vous ne sauriez mieux faire
-Que de mettre en effet ce conseil salutaire,
-Épousez Axala.
-
--*who_ismenie
       Dieux ! Bons Dieux, qu'ai-je ouï ?
 
--*who_celie
-Ô ! Ma soeur, est-il fou ?
-
--*who_felice
-      Pour moi je crois qu'ouï.
-
--*who_ismenie
 Axala, dites-vous ? Que j'épouse un Pirate,
 Âme lâche, infidèle, et sur toutes ingrate,
 Ah conseil odieux !
 
--*who_lepante
-      Mais il est à propos
-Pour le bien de Dorante, et pour votre repos.
-
--*who_ismenie
 Je ne suis point garant, ni n'entre en connaissance
 D'une promesse injuste, et faite en mon absence,
 Et pour ce faux honneur, qui n'est qu'un peu de bruit,
 Si je le perds pour vous, vous en aurez le fruit ;
 Parlez donc tout de bon.
 
--*who_lepante
-      Le Ciel me soit contraire
-Si vous y conviant je ne pense bien faire,
-Et si ma passion ne m'oblige à cela.
-
--*who_ismenie
 Tu dis encor un coup que j'épouse Axala,
 Méchant ?
 
--*who_evandre
-      Je n'entends point ce changement étrange.
-
--*who_ismenie
 Ô Ciel ! En quel état la Fortune me range :
 Mais ce n'est point le Ciel, ni la Fortune aussi,
 C'est la déloyauté de l'ingrat que voici,
@@ -2471,10 +2014,6 @@ Afin d'en enrichir un illustre voleur ;
 Cruel qui refusant une Princesse offerte,
 Veux encor par serment l'obliger à sa perte.
 
--*who_celie
-Voyez, rien ne l'émeut ce coeur dénaturé.
-
--*who_ismenie
 Bien donc, puisqu'il te plaît, et que je l'ai juré,
 Je subirai la loi que ta rigueur m'impose ;
 Mais un songe et cela sera la même chose,
@@ -2482,300 +2021,418 @@ Tant la mort à l'hymen sera jointe de prés,
 Et le myrte amoureux au funeste cyprès :
 Adieu, séparons-nous.
 
--*who_celie
-      Ah l'ingrat.
-
--*who_ismenie
       Le barbare.
 
--*who_lepante
-Madame, encore un mot, et puis je me sépare.
-
--*who_ismenie
 Point, point, je ne veux plus ni te voir, ni t'ouïr.
 
--*who_lepante
-Mais c'est pour un sujet qui vous peut réjouir :
-La raison désormais, belle et grande Princesse,
-Veut qu'avec votre erreur votre colère cesse,
-Puisque le seul désir d'éprouver votre amour
-M'avait sollicité de vous faire ce tour.
-
--*who_ismenie
 Lépante, aucune fois le plus sage s'oublie.
 
--*who_lepante
-Comment ?
-
--*who_ismenie
       Que deviendra le serment qui me lie ?
 Car enfin j'ai juré d'épouser Axala,
 Et vous en faites jeu.
 
--*who_lepante
-      Je ne dis pas cela :
-Je vous exhorte encor, autant que je vous aime,
-D'épouser Axala, (c'est à dire moi-même)
-Moi-même qui pour moi vous l'avais conseillé.
-
--*who_ismenie
 Ne vous semble-t-il point que c'est assez raillé ?
 
--*who_lepante
-Non, non, je ne feins plus, Axala c'est Lépante,
-Je cache sous ce nom ma fortune présente ;
-Mais le Ciel détruira la trame que j'ourdis,
-Ou je serai bientôt ce que je fus jadis.
-
--*who_ismenie
 Ô ! Grands Dieux quelle vie, et quelle destinée !
 
--*who_felice
-Ô ! Ma soeur, qu'est-ceci ?
-
--*who_celie
-      J'en suis toute étonnée.
-
--*who_evandre
-Pour moi je me doutéis de cette vérité.
-
--*who_ismenie
 De grâce ôtez-nous donc de cette obscurité.
 
--*who_lepante
-Ce que je vous vais dire est le même mystere
-Que tantôt par dessin je vous ai voulu taire ;
-Je vous ai déjà dit, et fait considérer,
-Que j'eus deux grands sujets de me désespérer,
-Et parmi quelles gens se conserva ma vie,
-Or voici le destin dont elle fut suivie.
-Croyant avoir perdu mon sceptre et mes amours,
-Je voulus perdre aussi mes misérables jours,
-Et dans ce désespoir fis des exploits étranges,
-Qui trouvent parmi nous leur prix et leurs louanges ;
-Enfin après deux ans, ces hommes hasardeux
-Me firent Général de leurs vaisseaux et d'eux :
-Depuis, notre pouvoir sur la terre et sur l'onde
-S'est rendu formidable aux plus grands Rois du monde,
-Sous le nom d'Axala cachant toujours le mien
-J'ai gagné tant d'honneur, de crédit et de bien,
-Qu'avec six vingt vaisseaux et soixante galères
-J'espère de rentrer au trône de mes pères,
-D'autant plus aisément que mes braves sujets
-Aideront aux succès de mes justes projets :
-Demain avant le jour une puissante armée
-Doit venir au signal d'une torche allumée,
-Par deux Siciliens qui sont de mon parti ;
-Et c'est pour leur parler que Ténare est sorti ;
-Ainsi la force en main, et la faisant paraître,
-J'aurai meilleure grâce à me faire connaître.
-
--*who_ismenie
 Ô Ciel ! Quels changements, et que nos aventures
 Trouveront peu de foi chez les races futures.
 Mais j'oi venir quelqu'un.
 
--*who_celie
-      Madame c'est Lypas.
-
--*who_ismenie
 Dieux ôtons-nous d'ici, qu'il ne m'y trouve pas.
 
-**** *book_ *id_IV04 *act_IV *date_1637
+Oui, Félice, il est vrai, sans Lépante et Ténare
+Vous seriez sans maîtresse errante sur le port,
+Ou peut-être à cette heure on vous dirait ma mort.
 
--*who_erphore
-Enfin il m'a prié que je vous assurasse
-Que le plus grand regret qu'il ait en sa disgrâce,
-C'est de mécontenter un grand Roi comme vous,
-Qui rendrait son État considérable à tous :
-Mais qu'il est obligé de tenir sa parole.
+Vous auriez dans Marseille un temple magnifique.
 
--*who_lypas
-Qu'il ne m'allègue plus cette excuse frivole,
-Il n'est pas hébété ni faible jusqu'au point
-De se piquer d'honneur pour ceux qui n'en ont point,
-Surtout en l'intérêt d'un Prince de ma sorte,
-Où la raison d'État doit être le plus forte.
+Non, je ne raille point : car si la vérité
+Se peut dire sans crime, et sans impiété,
+Alcide à qui vos faits auraient servi d'exemples,
+Par de moindres vertus a mérité des temples.
 
--*who_erphore
-C'est comme une rançon, dont il veut s'acquitter.
+Oui, mon coeur est pour vous un autel animé,
+Un temple, un sanctuaire à tout autre fermé,
+Où la lampe d'amour nuit et jour allumée
+Brûle d'un feu si pur qu'il n'a point de fumée.
 
--*who_lypas
-N'a-t-il pas de l'argent de quoi se racheter ?
-Et puis ne peut-il pas, s'il en avait envie,
-S'excuser sur sa soeur ?
+Ah Dieux ! Verrai-je encor cette infidèle femme.
 
--*who_erphore
-      Elle en serait ravie ;
-Car tantôt que d'Évandre elle a su son malheur,
-Elle a pensé mourir de honte et de douleur,
-Armille me l'a dit.
+Il faut lui pardonner, et ne la voir jamais.
 
--*who_lypas
-      Je crois bien, la pauvrette
-À regret de me perdre, et moi je la regrette
-De trouver un Pirate à la place d'un Roi,
-Outre qu'assurément elle brûle pour moi.
+Il me pardonnera si je suis curieuse
+D'aller voir avec vous la flotte impérieuse
+Qui rendra hautement le Sceptre à mon époux.
 
--*who_erphore
-Ô Dieux ! Elle tient donc ses flammes bien secrètes.
+      Cela dépend de vous.
 
--*who_lypas
-Ne t'en étonne pas, c'est quelles sont discrètes.
 
--*who_erphore
-Je voudrais cependant pour mon dernier souhait,
-Que Jupiter m'aimât autant qu'elle te hait.
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_armille
 
--*who_lypas
-Cette discrétion causera sa ruine,
-Je crains que par vertu, cette beauté divine
-Ne résiste au secours que je lui puis donner,
-Et comme un doux agneau se laisse emmener,
-Pour servir de victime aussitôt que de femme
-À la brutalité de ce Corsaire infâme,
-Puisqu'il peut la livrer, son désir assouvi ;
-Au moindre des brigands dont il sera suivi :
-Mais ni du Ciel tonnant la face foudroyante,
-Ni le terrible aspect de la mer aboyante,
-Ne m'empêcheront pas par la peur du danger
-D'abandonner ma vie afin de la venger,
-Et j'en commencerai la vengeance effroyable
-Sur cet homme d'honneur, ce frère impitoyable,
-Qui feignant de garder sa parole et sa foi,
-Vend sa soeur au barbare, et se moque de moi ;
-Je lui veux consumer par le feu de nos guerres
-Ses hommes, ses trésors, ses places et ses terres,
-Et le prenant en vie après ces maux soufferts,
-Le faire encor languir et mourir dans les fers.
+En effet, il est vrai que vous avez raison,
+Et que de sa gaieté dépend sa guérison,
+Tant qu'elle sera triste, elle sera mal saine ;
+Et ce sang échauffé qui cause sa migraine
+Lui fait mal recevoir les caresses du Roi :
+Car n'était ce chagrin, je ne sais pas pourquoi
+Elle aurait à dégoût l'hymen et la personne
+Qui lui met sur la tête une double Couronne,
+Si bien que par raison d'État et de santé
+Il faut rendre la joie à son coeur attristé ;
+Je vais donc de ce pas lui faire prendre envie
+De voir ceux que j'ai vus, et dont je suis ravie ;
+Car enfin je les trouve extrêmement plaisants,
+Pourvu qu'ils ne soient pas de ces fols malfaisants,
+De qui l'extravagance est parfois dangereuse.
 
--*who_erphore
-Vous ferez, s'il vous plaît, les choses que vous dites,
-Puisque votre puissance est quasi sans limites :
-Mais votre Majesté doit cacher sagement
-Son juste déplaisir et son ressentiment,
-Puisque Dorante feint, feignez aussi de même,
-Et si, comme je crois, la Princesse vous aime,
-Armille nous dira les moyens les plus cours
-Pour changer son destin, ou lui donner secours.
+Et le prix, à propos, vous l'a-t-il fait savoir ?
 
--*who_lypas
-C'est l'Oracle, en effet, qu'il faut que je consulte,
-Et qui doit me résoudre au fort de ce tumulte,
-Erphore, où penses-tu qu'elle soit maintenant ?
+J'y vais donc apporter tout le soin nécessaire :
+Mais venez-y vous-même afin de nous aider
+Dans le commun dessein de la persuader.
 
--*who_erphore
-Chez soi.
+Voila le personnage, et bien que vous en semble ?
 
--*who_lypas
-      Passons-y donc comme en nous promenant.
+Comment, quel équipage, où l'a-t-il emprunté ?
 
-**** *book_ *id_V01 *act_V *date_1637
+Madame, excusez-moi, la chose est si plaisante
+Que j'en aurai longtemps la mémoire présente ;
+Mais j'ai cru par ces mots, d'équipage et de beau,
+Qu'on lui dressait encor quelque appareil nouveau.
 
--*who_evandre
-Non, non, n'en doutez pas, c'est chose que j'ai vue.
+Croyez que votre Altesse en aura du plaisir,
+Pourvu qu'elle le traite au gré de son désir ;
+Car comme il se croit Prince, il faut qu'elle lui rende,
+Et reçoive de lui les honneurs qu'il demande,
+Et l'engage surtout, après quelques discours
+À lui faire un narré de ses belles amours.
 
--*who_felice
-Ô nouvelle agréable !
+Et lui-même se plaît à les entretenir :
+Les voici toutefois, je les entends venir.
 
--*who_armille
+      Son silence l'avoue ;
+Mais le Seigneur Ténare est adroit en un point,
+Que pour nous mettre en peine, il ne le dira point.
+
+      Et moi pareillement.
+
+Il faut, ou que je rie, ou que je sois malade.
+
+Qu'elle vous donne un noeud.
+
+Ah certes je le quitte.
+
+Ah ! Quelles visions.
+
+      Tôt des sièges partout.
+
+      Ô ! Dieux, qu'il est malade.
+
+      Il ferait un beau coup.
+
+Il croit ce qu'il a dit.
+
+Sa colère l'emporte.
+
+      Madame, il me le semble,
+Quand je vous ai quittez vous étiez mieux ensemble ;
+Et d'où vient, s'il vous plaît, que vous êtes si mal ?
+
+Si bien que l'un et l'autre ont fort bien réussi,
+Vraiment j'en suis bien aise étant cause en partie
+Du plaisant entretien qui vous a divertie.
+
+Oui, Madame, et de plus par moi fort bien instruits
+De l'humeur des messieurs que je vous ai produits.
+
+      Dans la cour de l'Ovale ;
+Mais quand je suis venue ils montaient à la salle.
+
+      En effet ils ont tort.
+
+Sans doute, et les voici.
+
+      L'autre l'est davantage ;
+Car outre qu'il s'estime aussi grand Roi que vous,
+C'est qu'il traite Madame en amoureux jaloux :
+Le voici, mais sans rire admirons son entrée.
+
+      Il le dit comme il se l'imagine.
+
       Ô ! discours qui me tue.
 
--*who_felice
-Et ma pauvre compagne ?
-
--*who_evandre
-      Elle est sauvée aussi,
-Enfin le ravisseur a très mal réussi,
-Non pour l'enlèvement qu'il a fait à merveille ;
-Mais pour l'événement.
-
--*who_armille
       De grâce à la pareille,
 Dites-moi par quel sort il a manqué son coup ?
 
--*who_evandre
-Volontiers ; ce discours ne te plaît pas beaucoup :
-Vous savez que Celinte et la vieille Amerine
-Ont entendu le rapt de leur chambre voisine,
-Et qu'elles ont passé par notre appartement,
-Semant partout le bruit de ce ravissement ;
-On s'éveille, on accourt, on voit la chambre vide,
-Lors chacun prend sa route où le hasard le guide,
-L'un court par le Palais, l'autre entre, l'autre sort ;
-Mais Ténare et son maître ont volé droit au port,
-Avec tant de bonheur, de vaillance et d'adresse,
-Qu'ils ont gardé Lypas d'embarquer la Princesse,
-Et par cette action donné temps d'arriver
-Au peuple, que leurs cris avaient fait soulever.
-
--*who_armille
 Mais la chaîne du port, empêchait sa sortie.
 
--*who_evandre
-Mais celui qui la garde était de la partie,
-Et nous en verrons bien quelques têtes à bas,
-Laissez faire : et des plus.
-
--*who_armille
       Ceci ne me plaît pas :
 Et comment ce méchant l'avait-il enlevée ?
 
--*who_evandre
-Ils viennent, attendez qu'elle soit arrivée,
-Elle vous l'apprendra, si vous n'en savez rien :
-Mais.
-
--*who_armille
       Quoi mais ?
 
--*who_evandre
-      Mais on dit que vous le savez bien.
-
--*who_armille
 Moi, que je le sais bien ? Ô l'imposture étrange !
 Dieux à quel désespoir l'injustice me range,
 Que ne suis-je au tombeau.
 
--*who_evandre
-      Ce serait ton plus court,
-Méchante.
-
--*who_felice
-      Est-il bien vrai ?
-
--*who_evandre
-      C'est le bruit de la Cour.
-
--*who_armille
 C'est le bruit de l'envie et de la médisance.
 
--*who_evandre
-Erphore toutefois l'a dit en ma présence.
-
--*who_armille
 Je le ferai mentir ce lâche et faux témoin,
 Avec l'aide du Ciel.
 
--*who_evandre
-      Vous en aurez besoin.
-
--*who_armille
 Bien, bien, tout de ce pas je m'en vais lui répondre,
 Et toi-même, impudent, avec lui te confondre.
 
--*who_evandre
-Tu songes, (mais en vain, car je vais t'épier)
-Plustôt à t'enfuir qu'à te justifier.
+Grand Prince, en mon malheur c'est vous que je éeclame,
+Et que la larme à l'oeil je viens importuner
+D'obtenir mon pardon, et de me pardonner.
 
-**** *book_ *id_V02 *act_V *date_1637
+Ah ! J'ai cru procurer le bien de son Altesse.
 
--*who_felice
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_felice
+
+      Madame le voici,
+Il marche sur mes pas.
+
+Vous fâcher.
+
+Parlons bas, le voici.
+
+Ô ! La belle sentence.
+
+Ma soeur qu'il est fâcheux, qu'il est persécutant.
+
+Si par trop de plaisir on prend le mal des fous,
+Votre Altesse a raison d'appréhender pour nous,
+Qui fort bien à mon gré nous sommes diverties,
+Tant de ses questions, et de ses reparties,
+Comme de ses récits pleins de naïveté,
+D'amours et de combats qui n'ont jamais été ;
+Au reste il a trouvé ma Compagne si belle
+Que je crois tout de bon qu'il est amoureux d'elle ;
+Elle qui d'autre part y trouve son plaisir
+Pique tant qu'elle peut son folâtre désir,
+Par tant de complaisance, et tant d'afféterie,
+Qu'à moins d'être hypocondre, il faut que l'on en rie ;
+Vous allez voir entrer cet amoureux badin
+Avec tous les soucis et les choux du jardin,
+Qu'en forme d'une aigrette elle a mis sur sa toque.
+
+      Votre Altesse se moque :
+Mais je crois, sur ma foi, qu'elle l'aime en effet
+Plus que le Courtisan des vôtres le mieux fait :
+Les voici, je vous prie observons leur entrée.
+
+Je m'étouffe de rire.
+
+      Il s'adoucit, et lui jette une oeillade.
+
+J'en voudrais donc avoir de plus rares faveurs
+Que des feuilles de choux, et de vilaines fleurs,
+Autrement.
+
+Mais de pure folie.
+
+Ma Soeur, sans moquerie, il a fort bonne mine.
+
+Ni moi ; mais écoutons.
+
+C'est dommage.
+
+      Jamais puis qu'il vous plaît ;
+Mais j'en mourrai d'ennui.
+
+      Et s'expliquent assez.
+
+      Oui, Madame.
+
+Mieux que moi, grand merci de votre courtoisie,
+Pourquoi mieux, s'il vous plaît ?
+
+      Pour moi je crois qu'ouï.
+
+Ô ! Ma soeur, qu'est-ceci ?
+
+Ô nouvelle agréable !
+
+Et ma pauvre compagne ?
+
+      Est-il bien vrai ?
+
 Ah ! Dieux, voici ma soeur ; pauvre fille enlevée,
 Tu sois la bienvenue, et la bien retrouvée,
 Que je te baise encor, je ne m'en puis lasser,
 
--*who_celie
+Pourquoi ne criez-vous pour éveiller la garde
+Quand on vous emportait ?
+
+Comment ?
+
+Et vos libérateurs ont-ils été blessés ?
+
+Et Lypas ne l'est point ?
+
+Le lâche, et que dit-il ?
+
+Quoi la reconnaissance en a donc été faite ?
+
+Si Lépante eut repris son sceptre avec son nom,
+Que la Cour serait belle, et qu'il y ferait bon,
+Que d'habits brodés d'or, et que de pierreries,
+Ha ma soeur que de bals, que de galanteries.
+
+      Allons j'en suis contente.
+
+Et seuls ils ont pu faire une action si rare ?
+
+Vous me permettrez donc...
+
+Je veux vous adorer comme un Dieu tutélaire,
+Ou comme un saint Génie à notre aide envoyé,
+Digne instrument des Dieux qui vous ont employé.
+
+
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
+
+Oui, mais le conviant de venir à ce soir,
+C'est jusques à minuit qu'il nous le faudra voir.
+
+Il sera ce qu'il est jusques au dernier point,
+Même le coeur me dit qu'il ne chassera point,
+Je crois que votre Altesse est trop infortunée
+Pour avoir en sa vie une bonne journée.
+
+Madame, à faire ainsi, votre mélancolie
+N'aura jamais de fin.
+
+Bien donc, que vos regrets ne soient jamais finis,
+Plutôt que par la mort le destin les finisse :
+Mais voici ma compagne.
+
+      Justement.
+
+      Et bien dite.
+
+      Ô ! Dieux qu'il importune.
+
+Il l'est bien tellement, qu'en l'humeur où nous sommes,
+Il nous ferait haïr tout le reste des hommes.
+
+Je le crois, mon amant ; c'est un esprit jaloux
+Qui ne saurait souffrir qu'on regarde personne,
+Si ce n'est elle-même.
+
+Ô ! L'adorable pointe, et qu'elle est bien placée ;
+Mon Prince, où prenez-vous ces beaux mots, ces douceurs ?
+
+Je crois qu'en son bon sens il fut mauvais poète.
+
+C'est en votre faveur, mon coeur, que l'on me loue.
+
+Et moi je le veux dire, il y va de ma gloire ;
+Oui, Madame, il est vrai, ma grâce, ou mon bonheur,
+Ou plutôt tous les deux, m'ont acquis cet honneur ;
+Nos deux coeurs sont brûlés d'une ardeur mutuelle,
+Qui du moins dans le mien sera perpétuelle.
+
+Cet adorable objet de ma première flamme
+En excuse la force, et m'exempte de blâme,
+C'est pour quelque vulgaire et basse affection
+Qu'il me faudrait avoir cette discrétion :
+Mais quant à ce héros, votre Altesse elle-même
+En étant bien aimée, avouerait qu'elle l'aime :
+On dirait que Nature a fait tous ses efforts
+À lui former l'esprit aussi beau que le corps ;
+Voyez.
+
+Pour moi je n'en puis plus.
+
+      Vois ma soeur, que vous êtes plaisante.
+
+Ô miracle d'esprit, d'amour et de constance !
+
+Il est plus sérieux, mais plus fol que Ténare.
+
+      Ma soeur, jusqu'à présent
+Je ne le trouve pas extrêmement plaisant.
+
+      Je vous en remercie,
+Si le Roi nous permet de nous asseoir tout bas,
+Son Altesse y consent.
+
+      Un fou qui nous fait rire.
+
+Adieu, mon Adonis.
+
+Quoi, Madame, ce fou vous a-t-il attristée ?
+
+      Eh bons Dieux ! Et comment ?
+
+Je sais trop que pour moi je n'ai point sommeillé,
+Et qu'encore à présent j'ai l'oeil bien éveillé :
+Mais que vous a-t-il dit qui vous ait pu surprendre ?
+
+Puisque vous en parlez avec tant d'assurance,
+Le premier, ce me semble, a bien plus d'apparence.
+
+Et pourquoi voulez-vous qu'il y soit descendu ?
+
+Et vous l'avez vu mort ?
+
+Serait-il le premier qu'en pareil accident
+Les Dieux ont retiré d'un trépas évident ?
+Les livres sont tous pleins de semblables exemples
+Dont nous voyons encor les tableaux dans nos Temples.
+
+C'est un secret du sort qui nous est inconnu ;
+Mais qui n'empêche pas que ce ne soit Lépante.
+
+Si personne en sait rien il faut que ce soit vous.
+En a-t-il quelque signe ?
+
+Madame, c'est lui-mesme, et toute sa folie
+N'est qu'un sage artifice.
+
+Bien loin d'avoir pour lui cette obligeante crainte,
+Croyez que sa folie est une accorte feinte,
+Par où, l'adroit qu'il est, a voulu rechercher
+Les moyens de vous voir, et de vous approcher ;
+Même je crois qu'Évandre, ou je suis bien trompée,
+Est de l'intelligence, et qu'Armille est dupée,
+L'industrieux vieillard, qui sans doute le sert,
+L'emploie à le produire, et se met à couvert.
+
+Non, même il a tant fait que pour la bonne mine
+Du plus intéressé de nos deux amoureux,
+Elle a tiré de vous deux beaux habits pour eux.
+
+      Ô favorable arrêt !
+
+      De peur de vous fâcher.
+
+Vous ayant jusqu'ici l'aventure cachée,
+Vous ne souffrez au moins que depuis aujourd'hui.
+
+Les mots sont obligeants.
+
+Ah ! Ma soeur, son amour la rendra malheureuse.
+
+      Mieux que ma soeur.
+
+Ô ! Ma soeur, est-il fou ?
+
+Voyez, rien ne l'émeut ce coeur dénaturé.
+
+      Ah l'ingrat.
+
+      J'en suis toute étonnée.
+
+      Madame c'est Lypas.
+
 Ni moi qui viens exprès afin de t'embrasser,
 Et de te raconter le traitement indigne
 Que nous avons souffert de ce tyran insigne,
@@ -2786,11 +2443,6 @@ Il est venu de force, il est entré de même,
 En nous trouvant au lit demi-mortes d'effroi,
 N'a fait qu'un seul fardeau de Madame et de moi.
 
--*who_felice
-Pourquoi ne criez-vous pour éveiller la garde
-Quand on vous emportait ?
-
--*who_celie
       Vraiment nous n'avions garde,
 Leurs mains et leurs mouchoirs sur nos bouches pressés,
 Sans la peur du péril, nous en gardaient assez ;
@@ -2813,10 +2465,6 @@ Qu'on romprait aussitôt la muraille et les gonds :
 Si bien, qu'à dire vrai, toutes tant que nous sommes
 Devons notre maîtresse au secours de deux hommes.
 
--*who_felice
-Comment ?
-
--*who_celie
       Nous n'estions plus à cent pas loin du port,
 C'est à dire, pour nous à cent pas de la mort,
 Quand au bout d'une rue, extrêmement étroite
@@ -2834,16 +2482,8 @@ Ils ont tendu les mains, et se sont désarmés.
 Après chez Palinice où l'on nous a jetées,
 On nous a du Palais des robes apportées.
 
--*who_felice
-Et vos libérateurs ont-ils été blessés ?
-
--*who_celie
 Fort peu, si l'on en croit ceux qui les ont pansés.
 
--*who_felice
-Et Lypas ne l'est point ?
-
--*who_celie
       S'il a quelques blessures
 Ce sont des coups de dents et des égratignures,
 Dont Madame a tâché de le défigurer ;
@@ -2851,10 +2491,6 @@ Mais pour les coups d'épée il sait bien s'en parer.
 C'est lui qui le premier a jeté bas les armes,
 Et demandé la vie avec d'indignes larmes.
 
--*who_felice
-Le lâche, et que dit-il ?
-
--*who_celie
       Il ne dit pas un mot,
 On ne l'a jamais vu si triste ni si sot ;
 Lorsque je suis venue on proposait encore
@@ -2866,23 +2502,12 @@ On voit déjà blanchir si grand nombre de voiles,
 Que dans l'âme du Prince ils mettaient la terreur,
 Si Lépante à propos ne l'eut tiré d'erreur.
 
--*who_felice
-Quoi la reconnaissance en a donc été faite ?
-
--*who_celie
 Partout ce qui peut rendre une amitié parfaite,
 Par cent signes de joie et de ravissement,
 Suivis d'un réciproque et long embrassement,
 Enfin par l'union de coeurs et des personnes
 Qui doit faire le noeud de celles des couronnes.
 
--*who_felice
-Si Lépante eut repris son sceptre avec son nom,
-Que la Cour serait belle, et qu'il y ferait bon,
-Que d'habits brodés d'or, et que de pierreries,
-Ha ma soeur que de bals, que de galanteries.
-
--*who_celie
 On ne laissera pas d'en faire sans cela ;
 Car avec la justice et les forces qu'il a,
 Selon toute apparence il lui sera facile
@@ -2892,253 +2517,10 @@ Mais Dieux j'entends sa voix, le brutal vient ici,
 Fuyons ; j'avais laissé Madame chez Dorante,
 Allons-y la trouver.
 
--*who_felice
-      Allons j'en suis contente.
-
-**** *book_ *id_V03 *act_V *date_1637
-
--*who_lypas
-Ô Fatale Provence ! Ô déloyale Cour !
-Où j'ai pour ennemis la Fortune et l'Amour,
-Dont l'un m'ôte une femme et l'autre une couronne,
-Ainsi de tous côtés le malheur m'environne,
-Ainsi de quelque part que j'observe mon sort,
-Je ne vois que sujets de désirer la mort ;
-Battu, moqué, trahi par un Prince infidèle
-Qui choisit à sa soeur un parti digne d'elle :
-Lâche soeur qui préfère à l'amour d'un grand Roi,
-L'indigne affection d'un pirate sans foi :
-Frère ingrat, au delà de toute ingratitude,
-Qui pour tous mes bienfaits me met en servitude,
-Qui pour mon alliance et mes trésors offerts
-Me retient mes vaisseaux, met les miens dans les fers,
-M'ôte mes Officiers, et permet qu'à ma vue
-Un bourgeois insolent les maltraite et les tue ;
-Enfin qui non content de m'avoir abusé,
-M'amène un faux Lépante, un Prince supposé,
-Afin de partager la Sicile et la Corse
-Avec cet héritier dont le droit est la force.
-
--*who_erphore
-Sire, quand un malheur ne se peut éviter,
-Le souverain remède est de le supporter.
-
--*who_lypas
-Quoi, l'ombre de Lépante aura donc un Royaume ?
-
--*who_erphore
-Il ne faut plus parler d'ombre, ni de fantosme,
-C'est Lépante lui-même, et votre Majesté
-Doit croire sur ma foi que c'est la vérité ;
-Elle sait qu'autrefois je fus en Syracuse
-Lui faire de sa part quelque sorte d'excuse
-Touchant ses dix vaisseaux de Carthage venus,
-Qu'elle avait dans ses ports si longtemps retenus.
-Or il m'a rapporté les choses que nous fîmes,
-Et m'a fait souvenir de celles que nous dîmes.
-
--*who_lypas
-Si bien qu'à vous ouïr, Lépante n'est point mort :
-
--*who_erphore
-Non, Sire, et ses sujets qui l'aimèrent si fort
-Feront armes de tout tant sur mer que sur terre,
-Et couperont la gorge à tout vos gens de guerre ;
-Ce qu'ils entreprendront d'autant plus aisément
-Que déjà votre joug leur pèse infiniment,
-Et qu'ils auront appris la nouvelle opportune
-Du bonheur de leur Prince, et de votre infortune ;
-La flotte de Lépante à la rade paraît,
-Croissant à même temps que la lumière croît,
-De sorte qu'en l'état qu'il est, et que vous étes,
-Il peut jusques chez nous étendre ses conquêtes,
-C'est pourquoi de bonne heure en cette adversité
-Faites une vertu d'une nécessité,
-Et par un politique et prudent artifice,
-D'un acte de contrainte, un acte de justice ;
-Rendez de bonne grâce, ou feignez de lâcher
-Un Sceptre qu'aussi bien on vous doit arracher ;
-En matière d'État la feinte est nécessaire.
-
--*who_lypas
-Ô conseil qui me tue ! Ô fortune contraire !
-
--*who_erphore
-Seigneur, encore un coup, gardez de refuser
-Les articles de paix qu'on vous doit proposer,
-Dorante les apporte afin qu'il vous les montre,
-Et nous pour l'obliger allons à sa rencontre ;
-Il faut céder au temps, et lui rendre aujourd'hui
-L'honneur qu'auparavant vous receviez de lui ;
-Possible rendrez-vous par cette procédure
-Votre condition moins honteuse et moins dure :
-Hâtons-nous, j'aperçois la Princesse qui vient.
-
--*who_lypas
-Ô deuil ! ô désespoir ! Ô fureur qui me tient !
-
-**** *book_ *id_V04 *act_V *date_1637
-
--*who_felice
-Et seuls ils ont pu faire une action si rare ?
-
--*who_ismenie
-Oui, Félice, il est vrai, sans Lépante et Ténare
-Vous seriez sans maîtresse errante sur le port,
-Ou peut-être à cette heure on vous dirait ma mort.
-
--*who_felice
-Vous me permettrez donc...
-
--*who_lepante
-      Quoi, que voulez-vous faire ?
-
--*who_felice
-Je veux vous adorer comme un Dieu tutélaire,
-Ou comme un saint Génie à notre aide envoyé,
-Digne instrument des Dieux qui vous ont employé.
-
--*who_lepante
-Votre zèle est trop grand, je vous en remercie,
-Levez-vous !
-
--*who_celie
       Vous voyez que l'on vous déifie :
 Et de fait, si les Dieux pouvaient être mortels,
 Mes compagnes et moi vous ferions des autels.
 
--*who_ismenie
-Vous auriez dans Marseille un temple magnifique.
-
--*who_lepante
-Ou du moins une image à la place publique.
-
--*who_ismenie
-Non, je ne raille point : car si la vérité
-Se peut dire sans crime, et sans impiété,
-Alcide à qui vos faits auraient servi d'exemples,
-Par de moindres vertus a mérité des temples.
-
--*who_lepante
-Je ne veux pas ici d'un vol audacieux
-M'élever de la terre à la voûte des Cieux,
-Ni faire de ma vie avec celle d'Hercule
-Un rapport sacrilège autant que ridicule :
-Mais aimant comme j'aime en un si digne lieu,
-Je brûle comme il fit d'un feu qui me fait Dieu,
-Et si j'ai mon autel dans le coeur d'Isménie,
-Je brille comme lui d'une gloire infinie.
-
--*who_ismenie
-Oui, mon coeur est pour vous un autel animé,
-Un temple, un sanctuaire à tout autre fermé,
-Où la lampe d'amour nuit et jour allumée
-Brûle d'un feu si pur qu'il n'a point de fumée.
-
-**** *book_ *id_V05 *act_V *date_1637
-
--*who_dorante
-Venez, je vous promets d'y travailler pour vous.
-
--*who_lypas
-Je ne demande pas un traitement plus doux.
-
--*who_dorante
-Mon frère, au différend qu'il faut que je compose,
-Je vois le Roi Lypas si juste en toute chose,
-Qu'il est aisé de joindre, et de se rendre amis :
-
--*who_lepante
-Soit comme il vous plaira, je vous ai tout remis.
-
--*who_dorante
-Il sortira, dit-il, hors de votre héritage,
-Sitôt que par un ample et constant témoignage
-Il saura pleinement que vous êtes l'aîné
-De la sage Ursinie et du grand Prytané,
-Vous aurez cependant deux places en Sicile,
-Et lui pour sa prison, mon Palais et ma Ville :
-Mais touchant cette dette, il faudra s'il vous plaît
-Prendre le principal, et donner l'intérêt :
-
--*who_lepante
-Je n'en demande plus, de bon coeur je le donne,
-
--*who_lypas
-Et moi je le reçois.
-
--*who_celie
       Vraiment je m'en étonne,
 Vu la grandeur de coeur dont le Ciel t'a doué.
 
--*who_dorante
-Il suffit que tous deux vous m'avez avoué ;
-Or embrassez-vous donc, puisque rien ce me semble
-Ne vous doit empêcher de vivre bien ensemble.
-
--*who_erphore
-La vengeance pourtant en ira jusqu'au bout.
-
-**** *book_ *id_V06 *act_V *date_1637
-
--*who_evandre
-Tu n'échapperas pas, je te suivrai partout.
-
--*who_ismenie
-Ah Dieux ! Verrai-je encor cette infidèle femme.
-
--*who_armille
-Grand Prince, en mon malheur c'est vous que je éeclame,
-Et que la larme à l'oeil je viens importuner
-D'obtenir mon pardon, et de me pardonner.
-
--*who_lepante
-De grâce en sa faveur accordez ma requête,
-Pour le sacré respect d'une si belle fête.
-
--*who_ismenie
-Il faut lui pardonner, et ne la voir jamais.
-
--*who_dorante
-Allez, et loin de nous vivez mieux désormais.
-
--*who_armille
-Ah ! J'ai cru procurer le bien de son Altesse.
-
--*who_evandre
-Adieu femme sans foi, sauvez-vous de vitesse.
-
-**** *book_ *id_V07 *act_V *date_1637
-
--*who_tenare
-Seigneur, tous vos vaisseaux paraissent maintenant,
-Je les ai vus du havre, où votre Lieutenant,
-Argant et Capanée, avant que je m'en vinsse,
-Attendaient pour entrer un passeport du Prince.
-
--*who_dorante
-Ils l'auront de ma bouche, allons-y de ce pas,
-Vous ma soeur, demeurez avec le Roi Lypas.
-
--*who_ismenie
-Il me pardonnera si je suis curieuse
-D'aller voir avec vous la flotte impérieuse
-Qui rendra hautement le Sceptre à mon époux.
-
--*who_lypas
-Je la veux voir aussi.
-
--*who_ismenie
-      Cela dépend de vous.
-
--*who_lypas
-Erphore, vous voyez si je me sais contraindre.
-
--*who_erphore
-Sire, vous faites bien, notre jeu c'est de feindre.
-
--*who_evandre
-Ô Dieux ! Qui ne voit pas que vos puissantes mains
-Font agir les ressorts de destin des humains ?
-Et que par des moyens difficiles à croire
-Vous comblez ces amants de plaisir et de gloire ?

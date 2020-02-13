@@ -1,6 +1,6 @@
 ---
 identifier: cubieres_mortmoliere  
-creator: Cubières-Palmézeaux, Michel de  
+creator: Cubières-Palmézeaux, Michel de ; Georges Forestier.  
 date: 1788  
 title: La Mort de Molière. Pièce en trois actes, en vers [Pièce historique, en quatre actes en vers, et à spectacle]  
 ---

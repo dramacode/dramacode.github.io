@@ -1,1705 +1,950 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belise
 
--*who_marton
-Hé !
-Que diantre venez-vous faire ici, Monsieur ?
-Vous aimez bien à prendre un peine inutile, et à persécuter Madame votre sœur infructueusement.
+Ah, ah ! C'est vous, Monsieur mon frère ? Venez-vous ici pour moraliser, pour me quereller : pour invectiver bourgeoisement contre mes manières ? Si c'est là votre dessein, faites votre visite courte ; ou si vous êtes raisonnable, soupez avec moi, passez-y la soirée, et vous connaîtrez par vous-même la prudence de mes allures, et l'élévation de mon génie.
 
--*who_bartolin
-C'est une extravagante, que je rendrai raisonnable malgré elle.
+Vous prenez le bon parti, nous aurons aujourd'hui grosse partie de jeu, Concert, Bal toute la nuit ; et vous y verrez un cercle de Dames qui ne sont pas indifférentes. Marton, dites à un garçon de la chambre de dire à mon Maître d'Hôtel qu'on nous fasse bonne chère.
 
--*who_marton
-Elle a les mêmes desseins pour vous, et vous ne réussirez ni l'un ni l'autre.
-
--*who_bartolin
-Madame la soubrette ?
-
--*who_marton
-Oh !
-Doucement, s'il vous plaît, Monsieur Bartolin ; les soubrettes comme moi ne sont pas faites pour être traitées irrespectueusement, et nous sommes en train de faire une fortune, qui mettra quelque différence entre vous et moi.
-
--*who_bartolin
-La pauvre créature devient aussi folle que sa Maîtresse !
-
--*who_marton
-Pauvre créature !
-Voilà de plaisants termes.
-
--*who_bartolin
-Écoutez, Mademoiselle Marton, je vous prie de tâcher de rappeler un peu cette lueur de bon sens et de raison que je vous ai connue, et de me dire de bonne foi où vous prétendez que tout ceci vous mène.
-
--*who_marton
-Ma foi, Monsieur, s'il vous faut parler franchement, je n'en sais rien : tout ce que je puis vous dire, c'est que nous menons une vie assez joyeuse, grande chère, bon équipage.
-Madame votre sœur, qui n'était que Lingère, s'appelle aujourd'hui Madame la Baronne, dans l'espérance de la devenir.
-
--*who_bartolin
-Elle Baronne !
-Et comment la deviendra-elle ?
-
--*who_marton
-En épousant un Baron, et un Baron de conséquence encore, un homme de distinction.
-
--*who_bartolin
-Oui, quelque joueur distingué par ses friponneries ?
-
--*who_marton
-Non, Monsieur, un homme de qualité, un Gentilhomme étranger qui fait ici les affaires de je ne sais combien de petits Seigneurs ; c'est lui qui fait toutes leurs provisions : qui leur achètent des draps, des étoffes, des habites, et qui leur envoie toutes les modes nouvelles dès qu'elles commencent à vieillir.
-Oh !
-Il est chargé de grandes affaires : c'est un homme qui a des correspondances par toute l'Europe.
-Si vous étiez d'humeur à vous prêter aux vues que nous avons, on vous ferait l'Agent de ces Seigneurs-là, et ce serait un poste qui vous mènerait loin.
-
--*who_bartolin
-Tu te moques de moi, je pense.
-Plaisant emploi !
-Est-il possible que ma sœur, qui avait autrefois de l'esprit, se repaisse ainsi de visions chimériques, et qu'elle ait quitté son négoce pour se livrer à un ridicule
-
--*who_marton
-Il n'y a point de ridicule dans ce qu'elle fait, c'est une femme qui a des vues solides.
-La voici, parlez-lui avec douceur, elle vous rendra raison de sa conduite ; et je suis presque sûre qu'elle vous persuadera de l'imiter.
-
--*who_bartolin
-Le Ciel m'en préserve !
-Je suis bien éloigné de penser comme elle.
-
-**** *book_ *id_I02 *act_I *date_(non
-
--*who_belise
-Ah, ah !
-C'est vous, Monsieur mon frère ?
-Venez-vous ici pour moraliser, pour me quereller : pour invectiver bourgeoisement contre mes manières ?
-Si c'est là votre dessein, faites votre visite courte ; ou si vous êtes raisonnable, soupez avec moi, passez-y la soirée, et vous connaîtrez par vous-même la prudence de mes allures, et l'élévation de mon génie.
-
--*who_bartolin
-Oui, Madame ma sœur, je veux bien souper avec vous.
-
--*who_belise
-Vous prenez le bon parti, nous aurons aujourd'hui grosse partie de jeu, Concert, Bal toute la nuit ; et vous y verrez un cercle de Dames qui ne sont pas indifférentes.
-Marton, dites à un garçon de la chambre de dire à mon Maître d'Hôtel qu'on nous fasse bonne chère.
-
--*who_marton
-Oui, Madame.
-
--*who_belise
 Que le Boursier ait soin d'envoyer des imprimés circulaires à huit ou dix Joueurs de distinction.
 
--*who_marton
-Oui, Madame.
-
--*who_belise
 Les Dames sont priées : qu'on mette au bas de chaque lettre, par apostille, que le rôt sera de chez la Guerbois, le vin de Darboulin, le fruit, de la rue des Lombards ; et que j'essaie un nouveau cuisinier dont les ragoûts seront autant de chefs-d'œuvre.
 
--*who_marton
-Je vais faire exécuter tout cela moi-même à la lettre.
-
--*who_belise
 Voilà une fille tout-à-fait entendue.
 
-**** *book_ *id_I03 *act_I *date_(non
-
--*who_bartolin
-Ma foi, ma chère sœur, vous devenez tout-à-fait folle.
-
--*who_belise
 Qu'est-ce à dire, Monsieur Bartolin ?
 
--*who_bartolin
-Là, parlons doucement.
-Vous êtes veuve d'un riche Marchand qui vous a laissé plus de trente mille écus de bons effets et une fille unique ; il ne tenait qu'à vous de faire valoir les uns dans votre commerce, et de marier la fille avantageusement pour vous et pour elle, puisque Valère qui a plus de vingt-cinq mille livres de rente, vous a fait offrir par son oncle de la prendre sans aucune dot.
-Vous négligez une occasion si favorable.
-
--*who_belise
 Pour m'en assurer une meilleure.
 
--*who_bartolin
-Vous quittez votre magasin.
-
--*who_belise
 Pour prendre un Hôtel, le troc n'est pas si mauvais que vous vous l'imaginez, Monsieur.
 
--*who_bartolin
-Il est extravagant, Madame la Marchande ; l'Hôtel vous ruinera, et le magasin aurait continué de vous enrichir.
-
--*who_belise
 Le magasin m'aurait ruiné, le jeu fera ma fortune et la vôtre, si vous le voulez ; il n'y rien aujourd'hui de plus solide que le produit du Lansquenet et du Pharaon.
 
--*who_bartolin
-Quelle solidité !
-Les jeux seront défendus demain, aujourd'hui peut-être, il ne vous restera que la honte d'avoir entrepris une chose que tous vos amis, vos parents, et votre fille-même seront en droit de vous reprocher éternellement.
+En vérité, Monsieur mon frère, vous avez bonne grâce de me tenir un pareil discours dans le cas où vous êtes. Je quitte mon magasin pour donner à jouer, vous avez quitté votre Étude pour devenir Agioteur ; vous croyez faire votre fortune avec du papier ; moi, je compte de faire la mienne avec des cartes.
 
--*who_belise
-En vérité, Monsieur mon frère, vous avez bonne grâce de me tenir un pareil discours dans le cas où vous êtes.
-Je quitte mon magasin pour donner à jouer, vous avez quitté votre Étude pour devenir Agioteur ; vous croyez faire votre fortune avec du papier ; moi, je compte de faire la mienne avec des cartes.
-
--*who_bartolin
-L'événement vous corrigera de cette espérance, mais il vous corrigera trop tard.
-
--*who_belise
 Je pense plus mal de vous encore, et je vous crois incorrigible, c'est une étrange passion que l'avarice.
 
--*who_bartolin
-C'en est une abominable que celle du jeu.
+Oui, quand on hasarde en louant. Mais cent écus par jour sont bons à prendre, Monsieur mon frère, et il n'y a point de magasin ni d'agiotage qui vaille cela
 
--*who_belise
-Oui, quand on hasarde en louant.
-Mais cent écus par jour sont bons à prendre, Monsieur mon frère, et il n'y a point de magasin ni d'agiotage qui vaille cela
+Et qu'importe, je fais figure, je vis, je me réjouis, les dupes paient tout, mon fond ne s'altère point. Il n'y a que les sots qui vivent de leurs rentes, les habiles gens vivent de celles d'autrui. Quand vous saurez mes raisons, peut-être ne vous paraîtrai-je pas si condamnable.
 
--*who_bartolin
-Vous n'en avez guère de reste au bout de l'année ?
-
--*who_belise
-Et qu'importe, je fais figure, je vis, je me réjouis, les dupes paient tout, mon fond ne s'altère point.
-Il n'y a que les sots qui vivent de leurs rentes, les habiles gens vivent de celles d'autrui.
-Quand vous saurez mes raisons, peut-être ne vous paraîtrai-je pas si condamnable.
-
--*who_bartolin
-Expliquez-les-moi donc, je vous prie, et nous verrons
-
--*who_belise
 Cela serait trop long à déduire, elles s'éclaireront d'elles-mêmes, mais voici Monsieur le Baron de Garbatacase.
 
--*who_bartolin
-Qu'est-ce que ce Monsieur le Baron ?
-Serait-ce ce gentilhomme étranger ?
-
--*who_belise
 C'est lui-même, il est assez bien fait, comme vous voyez.
 
--*who_bartolin
-Oui, mais il porte une vilaine balafre sur le visage.
+C'est une blessure qu'il a reçue l'année dernière du siège de Corfou. C'est un homme de guerre et de cabinet, prenez bien garde à ne lui pas manquer de respect, au moins.
 
--*who_belise
-C'est une blessure qu'il a reçue l'année dernière du siège de Corfou.
-C'est un homme de guerre et de cabinet, prenez bien garde à ne lui pas manquer de respect, au moins.
-
--*who_bartolin
-Sa physionomie n'en imprime guère, et c'est encore, je crois, plus qu'il n'en mérite.
-
-**** *book_ *id_I04 *act_I *date_(non
-
--*who_garbatacase
-Bondi, Madame, bondi, comé se porta vo signorie ?
-
--*who_belise
 Fort à votre service, Monsieur le Baron, voilà mon frère que je vous présente.
 
--*who_garbatacase
-Vostro fratello, Madame.
-
--*who_belise
 Si, Signor : il aura l'honneur de souper avec nous.
 
--*who_garbatacase
-Ah !
-Veramente mi fara un grand piacer, son schiavo hiumilissimo de sua persona et toute la familia, bella prestanza d'home, phisionomia gratiosa, Monsou e aparamenté un home de robe, un Conseiller de la Cita ou de la Province.
-
--*who_bartolin
-Ni l'un, ni l'autre, Monsieur, je vis de mon bien.
-
--*who_garbatacase
-Ah !
-Quel gousto, quel bel métier dy far niente !
-Sarai ben contento d'effer comé vo Signoria mon cher Mousou : ma jai tanté cosé à far, de cosi grandés occupations qué non o casi pas il tempo de magniar, de bévir, de dormir, et de vivre à parlar propriamenté.
-
--*who_bartolin
-J'entends, Monsieur, j'entends, vous n'avez quasi le temps que de jouer, n'est-ce pas ?
-
--*who_garbatacase
-É la verità : mà je ne joue que par complaisance, je suis né per la societa, per far plaisir à tout il mondo, per occupar les fénéans de qualità, les oisifs de la bourgeoisie, et les Dames sur tout, sono piou a ellé qu'à moi-même.
-
--*who_bartolin
-Cela est tout-à fait louable.
-Voilà un maître fripon, si je ne me trompe.
-
--*who_belise
 Je vous l'avais bien dit, mon frère, que Monsieur était un homme de grand mérite.
 
--*who_garbatacase
-My fatté rougir doui, Madama sempré gratiosa, sempré obligeante : ma vi diro que sta matina o intéso una cosa qui mi fa péna.
-
--*who_belise
 Vous avez entendu quelque chose qui vous fait peine.
 
--*who_garbatacase
-Si Signora.
-
--*who_belise
 Et que pourrait-ce être ?
 
--*who_garbatacase
-Si dicé nel la cità qué lés jeux dy hasard le lansquenet, le Pharaon, la Bassette seront défendous.
-
--*who_bartolin
-Je vous le disais tout à l'heure, ma sœur.
-
--*who_belise
 Voilà une très fâcheuse nouvelle.
 
--*who_garbatacase
-Si si Signorà per populo, per la canailla, ma non per mi qui suis un home de distinction, un home de permission, les défenses ne sont pas faites pour les personnes qui savent se permette-ré-tout.
-
--*who_belise
 Non, non assurément, cela ne vous regarde pas.
 
--*who_garbatacase
-Je suis tranquille là-dessus, et je vas en attendant la partie, travailler al mié despêches ; mà si pourtant il arriva quelque difficultà, que j'en sois averti, Madama, il ne faut pas se laisser surprendre.
-Adio Signor, Adieu, Adieu, Madama.
-
-**** *book_ *id_I05 *act_I *date_(non
-
--*who_bartolin
-Monsieur le Baron de Garbatacase n'est pas si sûr de son fait qu'il veut le paraître, ma sœur, je crains les suites de votre société.
-
--*who_belise
 Vous êtes un pauvre homme, mon frère.
 
-**** *book_ *id_I06 *act_I *date_(non
-
--*who_marton
-Vos ordres sont donnés, Madame, vous ferez grande chère, et vous aurez bonne compagnie ; mais on vient de me donner là-bas un papier qui troublera la fête peut-être.
-
--*who_belise
 Qu'est-ce que c'est que ce papier ?
 
--*who_marton
-Du griffonnage, Madame : Quelque bagatelle apparemment, car cela est fort mal écrit.
-L'homme qui l'a apporté, a dit seulement que c'était une Lettre de Change de mille écus, je pense, que l'on tirait sur vous et sur M. le Baron, pour avoir donné à jouer sans permission ; et que si vous continuiez, on continuerait à en tirer d'autres à mesure qu'on le trouverait à propos ; que ces Lettres de change-là étaient payables à vue par provision, et qu'on nous mettrait au Châtelet faute de paiement.
-
--*who_bartolin
-Voilà justement ce que j'avais prévu.
-
--*who_belise
 Voyez un peu ce que c'est que ce papier, Monsieur Bartolin.
 
--*who_bartolin
-Et c'est, c'est une bonne amende de mille écus, à quoi vous êtes solidairement condamnée avec votre Monsieur le Baron.
-
--*who_belise
 Le Baron condamné à l'amende, il ne la paiera point.
 
--*who_bartolin
-Oh !
-Pour cela je n'en doute point, et vous pourrez bien la payer toute seule.
-
--*who_marton
-Voilà une belle occasion, Monsieur.
-
--*who_belise
 Oui, voyez un peu ce qu'il y a à faire à cela, mon frère : pour moi, je vais avertir Monsieur le Baron, afin qu'il prenne ses mesures, et qu'il soutienne avec vigueur l'incontestabilité des droits qu'il a.
 
-**** *book_ *id_I07 *act_I *date_(non
-
--*who_bartolin
-Allez, ma sœur, il les soutiendra mal, sue ma parole.
-Hé bien, Lisette, voilà ta prétendue fortune un peu dérangée, à ce qu'il me semble ; et si ma sœur est bien conseillée, tu retourneras au Magasin, ou à la Boutique.
-
--*who_marton
-Elle aura bien de la peine à quitter un Hôtel pour reprendre son enseigne de la Picarde.
-Pour moi, mon parti est pris, cela ne me gênera point, et j'aime encore mieux la Boutique que le Châtelet.
-
--*who_bartolin
-Tu as de fort bon sens.
-
--*who_marton
-Franchement, Monsieur, je n'ai jamais guère donné dans tout cela, mais j'y trouvais mon compte : il y a plus de fatigue à remuer des paquets de toile, que des sixains de cartes, et cela faisait que je m'accommodais facilement au goût de Madame.
-
--*who_bartolin
-Il faut cependant ; autant qu'il se pourra, prévenir, ou arrêter, la suite de ces procédures.
-Je vais tâcher d'y donner ordre ?
-
-**** *book_ *id_I08 *act_I *date_(non
-
--*who_marton
-Je ne sais ce que cela veut dire, mais je ne suis point trop fâchée de cet inconvénient.
-Madame en enragera, mais Mademoiselle sa fille en sera charmée.
-La voici, prenons ouvertement ses intérêts, et travaillons de concert avec elle pour faire réussir son mariage avec Valère.
-
-**** *book_ *id_I09 *act_I *date_(non
-
--*who_celide
-Ah !
-Ma chère Marton, que je suis ravie.
-
--*who_marton
-Hé !
-De quoi donc, Mademoiselle ?
-
--*who_celide
-De ce que je viens d'apprendre.
-Les Jeux sont défendus, ma chère enfant : on dit qu'on ne parle d'autre chose dans tout Paris, et je voudrais de tout mon cœur, je te l'avoue, que cette nouvelle fût bien confirmée.
-
--*who_marton
-Elle ne l'est que trop, et l'on vient d'en donner avis à Madame votre mère en papier timbré.
-
--*who_celide
-Je ne me sens pas de joie, ma pauvre Marton.
-
--*who_marton
-Je suis assez comme vous, mais je n'oserais le témoigner à Madame.
-
--*who_celide
-Le jeu ne me déplairait peut-être point si fort, si l'on jouait ailleurs que chez ma mère ; mais que cette maison sois une Académie ouverte à toutes sortes de gens, que tout ce qu'il y a de fainéants et d'extravagants, pour ne rien dire de plus fâcheux, soient les bienvenus dans ce logis ; que dans mon cabinet, à ma toilette même, je sois éternellement obsédée de mille figures désagréables, à qui je n'ose dire vous me fatiguez, parce que ce sont des dupes qui perdent sottement leur argent avec ma mère : en vérité, c'est un supplice dont je serai bien aise d'être débarrassée.
-
--*who_marton
-Valère vous en débarrassera, c'est un fort joli homme, Mademoiselle ; et il faut qu'il vous aime bien tendrement pour ne s'être point rebuté du parti qu'avait pris Madame votre mère, et du refus qu'elle fît à la personne qui vous demanda pour lui il y a quelques jours.
-
--*who_celide
-Je ne sais : mais il me semble que dans l'état où sont les choses, si la nouvelle est bien vraie, il devait être le premier à m'en informer, et ne pas tant attendre à se rendre ici.
-
--*who_marton
-Nous l'y verrons bientôt, sur ma parole, Monsieur votre oncle, qui sort dans le moment, et qui a bon esprit, n'aura pas manqué de passer chez lui, il est dans ses intérêts, et le regarde déjà comme son neveu.
-
--*who_celide
-Le voici, ma chère Marton.
-
--*who_marton
-Ne vous disais-je pas bien, qu'il ne tarderait pas à venir.
-
-**** *book_ *id_I10 *act_I *date_(non
-
--*who_valere
-Hé bien !
-Adorable Célide, puis-je espérer que le changement dont on parle aujourd'hui dans Paris, fera changer en ma faveur l'esprit et le cœur de Madame votre mère ?
-Et croyez-vous qu'elle me pardonne à présent de n'être pas joueur de profession ?
-
--*who_celide
-Je ne sais qu'en penser, Valère.
-
--*who_marton
-Oh !
-Je n'en doute point du tout, moi ; la déroute des Jeux vous donne beau jeu à vous, et Madame ne saurait plus condamner vos sentiments, puisque les voilà justifiés par Arrêt.
-
--*who_celide
-Je vous réponds de mon cœur, Valère ; mais je ne vous réponds pas de ma mère ; je vous ai déjà dit les raisons qui jusqu'ici, je crois, l'ont rendue contraire à notre engagement.
-Elle m'a parlé tant de fois, et si avantageusement, d'un certain neveu du Baron.
-
--*who_marton
-Qui !
-Ce petit freluquet qui se fait appeler Monsieur le Comte ?
-
--*who_celide
-De lui-même, Marton, je la soupçonne de m'avoir destinée pour lui, dans la pensée qu'il est homme de grosse condition, et dans l'espérance d'une fortune considérable que son oncle et lui doivent faire au jeu.
-
--*who_valere
-Ce sont deux aventuriers tombés des nues, des Chevaliers de l'industrie, que l'on ne connaît que par le jeu, et qui ne subsistent que par-là comme mille autres de leur caractère.
-
--*who_marton
-Voilà bien des Chevaliers à l'Hôpital.
-Que de banqueroutes !
-Mais laissons-là les réflexions, s'il vous plaît, et songeons sérieusement aux moyens de tirer Madame votre mère de l'entêtement qu'elle a pour l'oncle et pour le neveu.
-
--*who_valere
-Cela ne sera peut-être pas tout à fait impossible ; j'ai depuis quelques jours à mon service un maître fripon, que je crois reconnaître ; il ne s'est point fait mon valet sans quelque dessein, et il pourrait bien nous être utile dans cette affaire.
-
--*who_marton
-Le voici qui vient tout à propos, comme si vous l'aviez mandé.
-
-**** *book_ *id_I11 *act_I *date_(non
-
--*who_valere
-Oh çà, Frontin, il faut me rendre un service, mon ami.
-
--*who_frontin
-Fort volontiers, je suis tout à vous.
-Depuis le peu de temps que j'ai l'honneur de vous servir, je vous ai pris en affection, je suis fort content de vous ; expliquez-moi votre affaire, que je vois si elle n'est point trop difficile, et si je me ferai prier ou non.
-
--*who_celide
-Ah !
-Mon pauvre garçon, tâche à suivre ce qu'on te dira, et sois assuré d'une parfaite reconnaissance.
-
--*who_frontin
-Voilà de douces paroles qui me disposent.
-
--*who_celide
-Et voilà vingt pistoles dans ma bourse qui te détermineront peut-être.
-
--*who_frontin
-Votre affaire ira bien, voilà un heureux présage.
-
--*who_valere
-Oh !
-Ce n'est point l'argent qui le gouverne, vous ne le connaissez pas si bien que moi, Madame, et il ne tient qu'à lui d'en avoir autant qu'homme de France.
-
--*who_frontin
-Comment diantre !
-M'aurait-il reconnu ?
-
--*who_valere
-Demandez-lui si je me trompe.
-
--*who_frontin
-Monsieur
-
--*who_valere
-Hé !
-Allons, allons, parlons franchement mon ami : je suis bon Prince, comme tu vois, je me connais en gens, et toute ta science ne se borne point à bien faire un message, à savoir peigner une perruque.
-Hé !
-Plaît-il ?
-Qu'en penses-tu, Marton ?
-
--*who_marton
-Je lui trouve quelque chose de grand, quelque chose d'illustre dans la physionomie.
-
--*who_frontin
-Ma physionomie est fort heureuse.
-J'enrage, me voilà découvert.
-
--*who_valere
-Nous nous sommes vus quelque part, assurément, rappelle un peu tes idées, je suis sûr des miennes, moi.
-Tu ne te nommais pas Frontin, dans ce temps-là ; tu es un adroit, un virtuose.
-
--*who_frontin
-Tout est perdu Monsieur, je ne me remets pas
-
--*who_marton
-Hé !
-Mort de ma vie, tu fais bien des façons pour avouer la chose.
-Est-ce un si grand crime que l'industrie ?
-Et n'y a-t-il pas aujourd'hui mille honnêtes gens qui s'en mêlent ?
-
--*who_frontin
-Hé bien, Monsieur, puisqu'il faut vous dire les choses, je vous avoue ingénument que je me suis autrefois mêlé de quelques petites bagatelles, mais je vous assure que j'ai tout oublié : je ne vous conseille pas de jouer de moitié avec moi, je vous ferais perdre infailliblement, Mademoiselle
-
--*who_valere
-Non, non, garde la bourse, on ne te l'a pas donnée pour être de moitié ; c'est déjà quelque chose, de t'être autrefois mêlé de la bagatelle, et il n'est pas que tu n'en saches assez pour ce qu'il nous faut.
-
--*who_frontin
-Puisque vous devinez si bien les choses, Monsieur, je ne vous nierai point quelques-unes de ces petites bagatelles : quelques Décrets mal purgés, quelques petites bouderies que la Justice et moi nous avons eues ensemble, m'ont fait résoudre à me cacher sous l'habit de domestique auprès quelque honnête personne, qui eût soin de moi, et qui m'honorât de sa protection, en cas de besoin.
-
--*who_valere
-Tu peux t'assurer de tout cela, si tu me sers sans me trahir.
-Ne connais-tu point un certain Baron de Garbatacase, par hasard ?
-Les illustres de même métier se connaissent ordinairement.
-
--*who_frontin
-Le Baron de Garbatacase !
-Je ne me remets point cela.
-
--*who_valere
-Rêve un peu, tâche à rappeler ta mémoire, c'est le meilleur de tes amis, peut-être.
-
--*who_celide
-Vous rêvez, Valère, de vous imaginer que ce Baron-là soit de la connaissance et des amis de votre valet.
-
--*who_valere
-Non, non, cette pensée n'est pas sans fondement, et je vous réponds qu'il n'y a pas deux ans que Frontin était un homme autant d'importance, que le personnage à qui nous avons affaire.
-
--*who_frontin
-Ah !
-Monsieur, c'est à Lyon que vous m'avez vu sans doute ; car je n'ai presque fait jamais l'homme de qualité que dans cette Ville-là.
-
--*who_valere
-Que vous disais-je ?
-Hé bien !
-Crois-tu connaître celui que je t'ai nommé ?
-
--*who_frontin
-Ce nom-là, Monsieur, a assez de l'air de quelques-unes de nos Seigneuries Ultramontaines.
-Il y a beaucoup de Commanderies de notre Ordre du côté des Alpes ; mais il me semble que je n'ai pas encore ouï parler de ce Seigneur-là.
-
--*who_marton
-Il faudrait lui faire voir les gens en question ; il connaîtra quelqu'un d'eux, peut-être.
-
--*who_frontin
-Hom.
-Je pourrais bien les voir sans les connaître, car nous changeons de personnage dans le monde.
-Tantôt on est Marquis, tantôt Chevalier, puis Marchand, Abbé quelquefois, Financier souvent ; dans la dernière affaire qui m'est arrivée, je passais pour un Procureur, le croiriez-vous ?
-
--*who_marton
-Tu étais un fripon bien mal déguisé.
-
--*who_valere
-Çà voyons, comment ferons-nous ?
-
--*who_frontin
-Si vous pouviez me faire jouer avec votre homme, ne fut-ce que quelques parties de Piquet seulement, pour peu que nous travaillions ensemble tête à tête, je vous dirai bientôt de quoi il est capable, de quelle école il est sorti, et en quoi il excelle, et quelque chose de plus encore, peut-être.
-
--*who_valere
-Me réponds-tu de cela ?
-
--*who_frontin
-Oui morbleu, je vous en réponds, nous nous connaissons en habiles joueurs, mieux que les brocanteurs ne se connaissent en tableaux.
-
--*who_marton
-Quelle perfection !
-Cela est admirable.
-
--*who_valere
-Viens, suis-moi, tu prendras celui de mes habits qui te conviendra le mieux, et nous concerterons ensemble les moyens de te mettre aux prises avec le Baron.
-
--*who_celide
-Le voici, je pense, avec ma mère.
-
--*who_valere
-Ne le reconnais-tu point, dis ?
-
--*who_frontin
-Et comment diantre le reconnaître, il n'a que la moitié de son visage.
-
--*who_valere
-Ne perdons point de temps, songeons à notre affaire.
-
-**** *book_ *id_I12 *act_I *date_(non
-
--*who_belise
 Voilà, Monsieur le Baron, la situation où sont les choses
 
--*who_garbatacase
-No é bonà stà scituationé, ma bisogna pillar un poco di patience, et di veder le cours des affaires.
-
--*who_belise
 Oui, mais ces affaires-là vont vite, à ce que dit Monsieur Bartolin.
 
--*who_marton
-Et quand on s'amuse à les voir courir, elles attrapent les regardants quelquefois.
-
--*who_belise
 Croyez-moi, Monsieur, ne négligez rien ; représentez vos droits, faites-les valoir.
 
--*who_garbatacase
-No é tempo encorà, Madame, non é rempo ; é pericoloso di commettersi, la politica est le parti qu'un galant homme deve prendre, con la joustitia.
-
--*who_marton
-Mais la jousticia, elle n'a point de politicà, Monsieur, è une brutale qui va toujours son train.
-
--*who_garbatacase
-Qué faté a questo ?
-Quelle manière de si far jousticià de la joustitià habbi sempré la spadà a la mano, lasciamo far al tempo.
-
--*who_belise
 Oui, mais ces lettres de change de mille écus, que l'on tire sur vous et sur moi, et qui sont payables à vue ?
 
--*who_garbatacase
-Pagar Signora, pagar, nô fare rebellion ; al contrario de la politessà de l'accortise vi prometto que quel argent ritornera con l'usura.
-
--*who_belise
 Je n'y vois guère d'apparence.
 
--*who_garbatacase
-Si mutarono li tempi, et si la persécution persevera faremo viagi, andaremo tutti in Angliterrà.
-
--*who_belise
 En Angleterre, Monsieur.
 
--*who_garbatacase
-Si Signora, e païs excellente per la residenza.
+Je n'en serais pas fâchée, je suis assez dans le goût des voyages. Vous viendrez avec nous, ma fille.
 
--*who_belise
-Je n'en serais pas fâchée, je suis assez dans le goût des voyages.
-Vous viendrez avec nous, ma fille.
-
--*who_celide
-Vous êtes la maîtresse, Madame.
-
--*who_marton
-Le joli pèlerinage.
-
--*who_garbatacase
-E à proposito, in queste conjonturé, di pillar di précaution, me ne vo cercar un Banquier, Per far passar la mer à mes fonds, li viagio si fara sur le vostri, madame, et les comptes si farono quando sarémo arrivari à Londres.
-
--*who_marton
-Adio, adunqué, signor bon viaggio.
-
-**** *book_ *id_I13 *act_I *date_(non
-
--*who_belise
 Hé bien, ma fille, voilà un terrible coup, à quoi je ne m'attendais guères, tout est perdu ; voilà notre fortune ruinée, ma chère enfant !
 
--*who_celide
-Comment donc, Madame ?
-
--*who_belise
 Heureusement il nous reste la ressource des voyages, comme Monsieur le Baron l'a parfaitement imaginée.
 
--*who_marton
-C'est un homme de bon esprit, il en a jusqu'au bout des doigts.
+Et pourquoi donc, Mademoiselle ? Rien ne forme tant les jeunes personnes que les voyages.
 
--*who_celide
-Voilà de terribles ressources, Madame, et je vous avoue qu'elles me font trembler.
+Pourquoi non ; s'il y avait de l'argent à gagner ? Nous irons d'abord en Angleterre, ma fille.
 
--*who_belise
-Et pourquoi donc, Mademoiselle ?
-Rien ne forme tant les jeunes personnes que les voyages.
-
--*who_marton
-Assurément ; ne vous mènerez-vous point faire une petite campagne en Hongrie ?
-
--*who_belise
-Pourquoi non ; s'il y avait de l'argent à gagner ?
-Nous irons d'abord en Angleterre, ma fille.
-
--*who_celide
-En Angleterre, Madame ?
-
--*who_marton
-Passer la mer comme des hirondelles ?
-
--*who_celide
-Mais, avez-vous bien songé, Madame ?
-
--*who_belise
 Ces choses-là n'ont pas besoin de réflexions, et j'ai ouï dire toute ma vie que l'Angleterre était au Pérou pour un habile joueur, comme Monsieur le Baron, la plupart de ces Milords ne savent que faire de leur argent.
 
--*who_celide
-Ah !
-Juste Ciel !
-Que je suis malheureuse ?
-
--*who_belise
 Quand nous aurons épuisé l'Angleterre, nous passerons en Hollande, il y a encore de bonnes bourses en ce pays-là.
 
--*who_marton
-Assurément ; et si vous ruinez la Hollande, je vous conseille de ne pas aller plus loin, et de revenir à Paris tout au plus vite.
-
--*who_belise
 Moi, je n'y remettrai les pieds de ma vie, que le Lansquenet et le Pharaon n'y soient rétablis dans tout leur éclat.
 
--*who_marton
-Voilà Madame la Comtesse qui fera le voyage avec vous, si vous voulez.
+Hé ! Madame la Comtesse, quel contretemps de plaisanterie ?
 
-**** *book_ *id_I14 *act_I *date_(non
-
--*who_lacomtesse
-Bonjour, ma chère ; qu'est-ce donc que ceci.
-Où est tout notre monde aujourd'hui.
-Quels paresseux !
-Le Chevalier Toppe n'est point encore venu ?
-Où est Monsieur l'Abbé Quinze et le Và, ma Mignonne, et le petit Caissier ?
-Je ne le vois point ; il faut que la Marquise et la Conseillère soient malades, puisqu'elles ne sont pas arrivées des premières.
-
--*who_celide
-Je suis dans un étrange accablement, Marton.
-
--*who_marton
-Allez vous reposer dans votre cabinet, je vous avertirai quand Valère et son valet seront ici.
-
-**** *book_ *id_I15 *act_I *date_(non
-
--*who_lacomtesse
-Dans quelle inaction tout me paraît ici !
-Le jeu n'est point encore rangé, il n'y a nuls préparatifs pour la grosse partie que nous devons avoir.
-
--*who_belise
-Hé !
-Madame la Comtesse, quel contretemps de plaisanterie ?
-
--*who_lacomtesse
-Je ne plaisante point du tout ; vraiment ; je ne vins point hier, ne m'en faites point de reproches, je ne sortis point de la journée, je ne vis personne ; je m'étais purgée par précaution, pour évacuer les mauvaises humeurs que ma mauvaise fortune m'a fait faire ; et mon Apothicaire, qui est un fort habile homme, m'a bien assurée que ma médecine me purgerait aussi de mon malheur.
-Oh !
-Je suis sûre de gagner aujourd'hui tout ce que je voudrai.
-
--*who_marton
-Prendre médecine pour gagner, la sage précaution !
-
--*who_lacomtesse
-Je me porte à merveille, et je brûle d'impatience de commencer la partie, pour voir si le remède aura opéré.
-
--*who_marton
-Vous vous êtes purgée un peu trop tard, Madame.
-
--*who_lacomtesse
-Comment donc ?
-
--*who_belise
 Est-ce que vous n'avez appris aucunes nouvelles ?
 
--*who_lacomtesse
-Pardonnez-moi, mais peu importantes.
-Ce petit Conseiller m'a dit ce matin que cette grosse Marchande de dorure en avait vendu pour douze mille francs, à moitié de perte, et qu'elle avait perdu cet argent le même jour.
+Hé bien, Madame, qu'en dit-on de celle-là ? Elle est de mes amies.
 
--*who_marton
-Elle n'avait pas eu la précaution de prendre médecine, Madame.
+Ah, Clitandre ! Que je vous sais bon gré d'être si sensible à ce funeste accident.
 
--*who_lacomtesse
-Le pauvre mari !
-Pour réparer cette perte qui le mettait en situation de faire banqueroute, a risqué six cent pistoles qu'il avait dans la caisse, il les a perdues jusqu'au dernier sol.
-Le fils a vendu la vaisselle, pour remédier à ces deux inconvénients, même destinée.
-Le Pharaon a tout englouti, jusqu'aux garçons qui ont joué les lettres de change qu'on leur avait données à recevoir ; il y a garnison dans le logis, la banqueroute est faite.
-
--*who_marton
-La banqueroute n'est point frauduleuse.
-
--*who_lacomtesse
-On parle encore de cette petite Procureuse, qui est si fort amoureuse de ce grand Notaire.
-
--*who_belise
-Hé bien, Madame, qu'en dit-on de celle-là ?
-Elle est de mes amies.
-
--*who_lacomtesse
-Elle a perdu soixante pistoles avant-hier, elle a vendu son diamant et ses boucles d'oreilles pour les payer ; c'est son amant le notaire qui les a achetées, et qui en a fait présent à Madame sa femme.
-
--*who_marton
-Voilà un amant bien poli ; qu'il y a de noblesse là-dedans !
-
--*who_lacomtesse
-Un notaire est toujours notaire ; mon enfant, ces Messieurs-là savent le prix de l'argent, et il y a de certains bourgeois qui ne se dérangent point.
-
--*who_marton
-Ils ne sont pas tous de même, et j'en connais plus de quatre à Paris, à qui le Lansquenet et le Pharaon ont furieusement écorné les dépôts.
-
-**** *book_ *id_I16 *act_I *date_(non
-
--*who_lacomtesse
-Ah, ah !
-Le troupeau se rassemble à la fin ; voici déjà Clitandre, le bel esprit.
-
--*who_clitandre
-Madame, je vous donne le bon jour.
-
--*who_lacomtesse
-Qu'il est triste, ma bonne !
-Bonjour, Clitandre, allons gai, gai, point de mélancolie ; il perdit hier son argent, je gage.
-
--*who_clitandre
-Hé, Madame !
-Plût au Ciel que j'eusse perdu mille pistoles, et que ce malheur-là ne fût point arrivé.
-
--*who_belise
-Ah, Clitandre !
-Que je vous sais bon gré d'être si sensible à ce funeste accident.
-
--*who_lacomtesse
-Comment donc ?
-Que voulez-vous dire ?
-Vous êtes, je crois, de concert pour me plaisanter l'un et l'autre.
-Plus je vous regarde, et moins je vous comprends tous deux.
-Quel malheur ?
-Quel accident ?
-De quoi parlez-vous ?
-Il semble que vous prévoyez la fin du monde, et qu'elle soit toute prête d'arriver.
-
--*who_clitandre
-Madame la Comtesse ignore apparemment que le Lansquenet et le Pharaon sont défendus.
-
--*who_lacomtesse
-On a défendu le Pharaon et le Lansquenet !
-
--*who_clitandre
-Hé !
-Oui, Madame, on les a défendus.
-
--*who_lacomtesse
-Vous vous moquez de moi, et cela ne se peut pas ; ces défenses-là ne subsisteront point, et c'est comme si on défendait de dormir.
-
--*who_clitandre
-Pour moi, je crois que j'aimerais mieux qu'on me défendit le boire et le manger.
-
--*who_belise
 Il est vrai qu'il vaudrait autant mourir.
 
--*who_marton
-Hé !
-Allez, allez, il y a nombre de gens à Paris que la défense y réduira.
-
--*who_lacomtesse
-Mais cela ne peut pas être encore une fois.
-
--*who_clitandre
-Hé !
-Madame, je vous dis ce que tout Paris sait, ce que tout Paris dit, et ce que j'ai entendu publier ce matin sous mes fenêtres.
-
--*who_lacomtesse
-Ah, publier !
-Publier, Monsieur, c'est autre chose.
-Ces publications sont pour le peuple, pour les laquais, pour la petite canaille à qui l'on défend de certains jeux qui ne sont faits que pour les gens de qualité.
-
--*who_clitandre
-Oui, Madame, ce sont les laquais à qui l'on défend de jouer, sous peine de mille écus d'amende.
-
--*who_lacomtesse
-Mille écus !
-Mille écus !
-Il faut que vous ayez mal entendu, Monsieur ; et il me semble que si les défenses étaient pour les personnes de condition, ils valent assez la peine qu'on leur signifie la chose chez eux, sans la leur publier au coin des rues.
-
--*who_marton
-Oui, les bienséances et la civilité paraissent un peu négligées en ces matières, mais la Police n'est pas polie.
-
-**** *book_ *id_I17 *act_I *date_(non
-
--*who_jasmin
-Voilà Madame la Marquise dans votre antichambre qui se trouve mal, Madame.
-
--*who_belise
 Voyez ce que c'est, Marton, qu'on la fasse entrer.
 
--*who_lacomtesse
-Est-ce cette Marquise qui a perdu tant d'argent il y a huit jours ?
-
--*who_belise
 C'est elle-même.
 
--*who_clitandre
-Elle a de quoi perdre, celle-là, son mari s'est mis dans les affaires ; mais je doute qu'elles soient assez bonnes pour fournir à toutes les dépenses que fait sa femme.
+Qu'est-ce donc ? Qu'avez-vous, Madame ?
 
-**** *book_ *id_I18 *act_I *date_(non
-
--*who_lamarquise
-Un fauteuil, laquais, un fauteuil.
-Ne me laisse pas tomber, ma pauvre Marton, je ne reviendrai point de cet accident-ci, me voilà morte.
-
--*who_belise
-Qu'est-ce donc ?
-Qu'avez-vous, Madame ?
-
--*who_marton
-Une suffocation de parolis et de masse en avant, dont bien des femmes vont être malades.
-
--*who_lacomtesse
-Elle parait fort mal, vraiment, elle pâlit, elle s'évanouit.
-
--*who_lamarquise
-C'est bien pis, mesdames, j'agonise, et le moyen de vivre après un coup comme celui-là.
-
--*who_marton
-Hé !
-Allons, Madame, contre fortune bon cœur, tous les jeux ne sont pas défendus ; et vous pourrez jouer à quelque autre où vous gagnerez peut-être davantage.
-
--*who_clitandre
-Vous le voyez, Madame, la publication est pour tout le monde, et vous ne pouvez pas dire qu'une Marquise ne soit pas une personne de grosse qualité.
-
--*who_lamarquise
-Hé, mon pauvre Clitandre !
-Que me sert-il d'en avoir la qualité, ai-je plus de privilège qu'une simple bourgeoise ?
-Et le Pharaon Ah !
-Je me meurs, Marton.
-
--*who_marton
-Madame a raison, de quelque grande qualité qu'elle soit, le Pharaon n'est-il pas défendu pour elle comme pour sa belle-sœur qui n'est que la femme d'un apothicaire.
-Mort de ma vie, Madame, revenez donc à vous, si vous voulez.
-
--*who_lacomtesse
-Mais vraiment, c'est tout de bon qu'elle s'est évanouie.
-
--*who_belise
 Quoi sérieusement ?
 
--*who_clitandre
-Parbleu, il n'y a point à rire à cela, Mesdames.
+Un jeu de cartes. Qu'est-ce que tu veux faire ?
 
--*who_lacomtesse
-Et tôt, tôt de l'eau des Carmes, de la Reine de Hongrie, du papier brûlé, du vinaigre : il faut lui couper son lacet d'abord.
-
--*who_marton
-Bon, bon, nous n'avons pas besoin de cela, laissez-moi faire, j'ai un remède dans ma poche qui vaudra mieux que tous les autres.
-
--*who_belise
-Un jeu de cartes.
-Qu'est-ce que tu veux faire ?
-
--*who_marton
-Vous l'allez voir, il n'y a point de Joueuses que cela ne ressuscite en moins de rien.
-
--*who_clitandre
-Elle est folle, Mesdames.
-
--*who_lamarquise
-Ah, juste Ciel !
-Quelle main cruelle ma rappelle à la vie ?
-
--*who_marton
-Que vous ai-je dit ?
-C'est une belle chose que la force de la sympathie.
-
--*who_belise
 Hé de grâce, Madame, tâchez de sortir de cet accablement.
 
--*who_lamarquise
-Je n'en sortirai point, Madame, que je ne rejoue malgré la défense.
-
--*who_belise
 Le rétablissement de votre santé coûterait cher, et les mille écus d'amende que l'on s'expose à payer
 
--*who_lamarquise
-Et qui saura que nous jouons ?
-Nous serons tous intéressés à ne le pas dire.
-Et quand on nous surprendrait une fois par mois voilà une belle bagatelle ; il n'y a qu'à faire un fonds pour l'amende en augmentant les rondes pour la payer, il n'y a rien de plus facile.
-
--*who_lacomtesse
-Madame la Marquise a raison.
-Où est le boursier ?
-Qu'on avertisse les garçons de la chambre, dépêchons, des cartes, et que Monsieur le Baron taille jusqu'à l'heure du souper seulement.
-
--*who_clitandre
-C'est bien dit.
-Allons, Madame, commençons à jouer, je vous en conjure.
-
--*who_belise
 Monsieur le Baron n'est point ici ; et quand il y serait, il ne taillerait point, je sais ses sentiments.
 
--*who_lamarquise
-Il en changera, faisons un Lansquenet en attendant qu'il vienne.
-
--*who_belise
 Non, Madame, on ne jouera point ici absolument, j'en connais trop les conséquences.
 
--*who_lacomtesse
-Hé !
-Madame, vous êtes devenue bien raisonnable.
-
--*who_belise
 Les inconvénients m'ouvrent les yeux.
 
--*who_lamarquise
-Ma toute bonne, nous ne jouerons que jusqu'à ce que j'aie regagné les milles pistoles que je perdis la semaine dernière, après cela je vous promets de renoncer au jeu pour toute ma vie.
-
--*who_belise
 Mais si vous continuez de perdre, Madame ?
 
--*who_lamarquise
-Mais, Madame, je ne perdrai point, je gagnerai indubitablement, j'en suis sûre.
-Je n'ai engagé mes pierreries que sur ce pied-là, et il faut que je les retire dans quinze jours au plus tard, car Monsieur mon mari arrivera dans ce temps-là.
-
--*who_lacomtesse
-Ah, voilà notre petit caissier, qui sait les nouvelles apparemment, car il paraît bien en colère.
-
-**** *book_ *id_I19 *act_I *date_(non
-
--*who_lecaissier
-Comment donc, Mesdames, est-ce que l'on ne joue pas aujourd'hui, je ne vois point de carrosses à la porte, personne dans le logis ?
-Qu'est-ce que cela veut dire ?
-
--*who_lacomtesse
-Monsieur, faites-nous justice de cette défense-là.
-
--*who_lamarquise
-Faites-moi raison, Monsieur, du procédé de Madame, qui ne veut plus qu'on joue chez elle, de peur qu'il ne lui en coûte mille écus : quelle petitesse !
-Cela se doit-il faire, mon cher Monsieur.
-Et n'est-ce pas une chose qui crie vengeance ?
-
--*who_lecaissier
-Il n'y aurait plus ici de jeu !
-Oh, parbleu, je prétends bien qu'on y joue, moi, et nous verrons si j'en aurai le démenti.
-
--*who_clitandre
-Ah, ah, voici un assez plaisant caractère d'homme.
-
--*who_belise
 Monsieur, Monsieur Bonne Main, vous vous oubliez, et vous devriez un peu songer qu'on ne parle point de la sorte dans un Hôtel comme celui-ci.
 
--*who_lecaissier
-Un Hôtel, Madame !
-Un Hôtel, morbleu !
-C'est un bois, c'est un coupe-gorge.
-Mais ventrebleu on y jouera comme de coutume, ou je ferai beau bruit pour mon argent.
-
--*who_belise
 Que voulez-vous donc dire pour votre argent ?
 
--*who_lecaissier
-Oui, Madame, pour mon argent ; morbleu, je suis ruiné, si l'on ne joue, mais ventrebleu, vous jouerez les uns et les autres jusqu'à ce que je sois payé de ce qui m'est dû.
-Je suis au désespoir, voyez-vous, et j'ai voulu me pendre trois fois depuis ce matin.
-
--*who_clitandre
-Le pauvre diable !
-Il me fait pitié.
-
--*who_lecaissier
-Monsieur, Monsieur Clitandre, vous Madame la Comtesse, et vous Madame, je vous en fais les juges, s'il vous plaît ; vous êtes des personnes raisonnables, et vous savez avec quelle bonne foi j'ai prêté mon argent au tiers et au quart depuis un certain temps.
-
--*who_clitandre
-Vous ne l'auriez pas fait si vous n'aviez été bien sûr d'y trouver votre compte.
-
--*who_lecaissier
-Bien sûr, Monsieur : à l'un cinquante pistoles, à l'autre deux dents, mille écus à celui-ci, quatre cents à celui-là.
-Il m'est dû plus de vingt-cinq mille francs à l'heure qu'il est, et je n'ai point d'autres sûretés que de mauvais billets, des cartes à postes, et la conscience de vingt fripons de profession.
-
--*who_lacomtesse
-Voilà de l'argent bien aventuré si on ne joue plus.
-
--*who_lecaissier
-Oh, Madame, on jouera, je n'en serai pas la dupe.
-Où diantre, sans cela, pourrais-je attraper tous ceux qui me doivent ?
-Pour deux ou trois personnes qui se feront honneur de payer, il y en aurait cinquante dont je ne tirerais jamais un sol.
-Voilà Monsieur Clitandre qui me doit cent cinquante pistoles, par exemple, je sais bien pour lui qu'il ne se fera pas tirer l'oreille, mais
-
--*who_clitandre
-Moi, parbleu, je ne dois vous payer qu'à carte laissée, faites-moi jouer si vous voulez que je m'acquitte.
-
--*who_lecaissier
-Hé bien, Mesdames, que me feront les fripons, si les honnêtes gens en agissent de cette manière ?
-Oh, tête-bleu, je vous ferai tous jouer, je vous en réponds.
-Allons, Mesdames, des cartes, je vous prie, ou je vais tout tuer.
-
--*who_belise
 Monsieur, Monsieur le Caissier, si je fais monter les domestiques.
 
--*who_lecaissier
-Oh !
-Ventrebleu, madame, qu'on donne des cartes encore une fois.
-
--*who_belise
 Allez, mon ami, vous êtes un fou, et c'est en fou qu'il faut vous traiter.
 
--*who_lintendante
-Hé, Madame ?
-
--*who_lecaissier
-Oui, Madame, je suis fou, et à bon titre, je suis endroit de l'être pour ce qu'il m'en coûte.
-
--*who_lacomtesse
-Il a raison, dans le fond, cet argent n'est peut-être pas à lui, et je le trouve fort embarrassé.
-
--*who_lecaissier
-C'est justement cela, Madame !
-Il faudra que je rende mes comptes au premier jour, et il y aura plus de dix mille écus à dire.
-
--*who_lamarquise
-Cela me fait souvenir de mes pierreries, il faut absolument nous laisser jouer, Madame, vous avez beau faire.
-
--*who_lecaissier
-Hé morbleu, Madame, je vous en conjure.
-
--*who_belise
 Il n'en sera rien, je vous en réponds.
 
--*who_lecaissier
-Tête-bleu Madame, cela n'est pas bien.
-Je me pendrai, j'y suis résolu, mon parti est pris ; mais je tuerai quelqu'un avant que je me pende.
-
--*who_belise
 Vous êtes un extravagant, prenez-vous de vos chagrins à ceux qui vous doivent.
 
--*who_lecaissier
-Non morbleu, c'est à vous, c'est vous qui avez profité de mon argent, vous m'avez engagé de le prêter aux joueurs à fin de le regagner dans la suite ; mais par la morbleu, je passerai cet article-là dans mes comptes, et vous aurez affaires aux Fermes.
-
--*who_clitandre
-Cette affaire-ci est plus fâcheuse pour lui que pour un autre, et je vous assure qu'il perdra beaucoup.
-
-**** *book_ *id_I20 *act_I *date_(non
-
--*who_eraste
-Hé cadédis, Mesdames, qu'avez-vous donc fait à ce pauvre petit Monsieur le caissier ?
-Il sort dans une rage épouvantable, je viens de le rencontrer ; il m'a pensé mordre.
-
--*who_lacomtesse
-Il prend les choses fort à cœur.
-
--*who_lamarquise
-N'a-t-il pas raison de se désespérer ?
-Je ne sais à quoi il tient que je n'en fasse autant ; et si trois ou quatre personnes de résolution voulaient se désespérer avec moi, cela ferait peut-être ouvrir les yeux sur les désordres que ces défenses-là vont causer.
-
--*who_eraste
-Oh très certainement, il est bien sûr qu'on n'a point fait assez réflexion sur les inconvénients qui en peuvent arriver.
-
--*who_belise
 Vous voulez plaisanter peut-être ; mais je vous assure qu'il y a bien des choses à dire là-dessus.
 
--*who_eraste
-Je ne plaisante point, ou la peste m'étouffe : il faut savoir à combien de gens le Lansquenet et le Pharaon étaient utiles.
+Ah ! Vous voilà, d'où venez-vous, Célide ?
 
--*who_clitandre
-Cela passe l'imagination.
-
--*who_eraste
-De quelque manière qu'une Dame fît l'acquisition d'un bijou, on en faisait honneur au Lansquenet ou au Pharaon, et le mari n'avait rien à dire.
-
--*who_lacomtesse
-Il a raison, cela était fort commode.
-
--*who_eraste
-Un fils de famille agiotait, passivement s'entend, il empruntait à grosses usures, faisait une dépense enragée, le père ne s'embarrassait point de cela.
-
--*who_lamarquise
-Cela est vrai, Mesdames, il y a mille gens intéressés dans cette affaire, et il faudrait représenter toutes ces choses-là dans un bon mémoire.
-
--*who_eraste
-Moi, qui vous parle, moi, je suis à présent l'homme de France le plus embarrassé, peut-être.
-
--*who_clitandre
-Comment donc !
-Vous ne jouez presque point, non plus que Valère.
-
--*who_eraste
-Je ne jouais pas, mais je paraissais jouer.
-Je carabinais, et j'avais beau perdre, je disais toujours en sortant, je gagne ; et cela n'était qu'un prétexte pour ménager la réputation de vingt femmes que je considère, et que voilà maintenant exposées aux traits de la médisance ; ce n'est pas de ma faute.
-
--*who_lacomtesse
-Hé bien, voilà vingt femmes raisonnables perdues de réputation, on a point pensé à toutes ces choses-là, je vous en réponds.
-
--*who_eraste
-Et tous les jeunes gens de Paris que voilà désœuvrés à l'heure qu'il est, qui vont ne savoir où donner de la tête.
-
--*who_lamarquise
-Pour moi, Mesdames, je vous l'avoue, je tremble des occupations qu'ils se vont faire.
-
--*who_eraste
-Oh, cadédis, n'ayez point de peur, Madame la Marquise, cela ne vous peut intéresser que par jalousie.
-
-**** *book_ *id_I21 *act_I *date_(non
-
--*who_belise
-Ah !
-Vous voilà, d'où venez-vous, Célide ?
-
--*who_celide
-De votre grand cabinet, Madame, où Monsieur le Baron joue au piquet avec un jeune homme que je ne connais point, mais qui est apparemment de la connaissance de Valère ; car il les regarde jouer avec attention.
-
--*who_marton
-Pour moi je ne les regardés qu'un moment, et la tête me fait un mal horrible.
-Ah, pour cela c'est un triste jeu que ce piquet.
-Et c'est ce jeu-là qu'il fallait défendre, et non pas le Lansquenet et le Pharaon, qui sont les plus beaux jeux du monde, les plus universels, qui peuvent amuser utilement trente ou quarante personnes à la fois, et où l'on ne saurait faire la moindre petite friponnerie.
-
--*who_clitandre
-Mais cela me passe en effet, attaquer directement ces jeux-là, et souffrir tous les autres ?
-
--*who_marton
-Oui, pourquoi ne pas défendre plutôt ces vilains jeux d'exercices où l'on gagne quelquefois de bonnes pleurésies, et où l'on court risque à tout moment d'être estropié de quelque bon coup de balle ?
-
--*who_lacomtesse
-Oh, pour moi je vous promets bien que si on nec rétablit le Pharaon, je vais apprendre à jouer au mail ou à la Paume ; car enfin, il faut qu'une femme joue, et je ne vois guère que ces jeux-là qui conviennent à une personne de qualité.
-
-**** *book_ *id_I22 *act_I *date_(non
-
--*who_bartolin
-Je viens de courir pour votre affaire, ma sœur, on ne pressera point le paiement de l'amende, et on la fera diminuer de manière qu'il vous en coûtera peu ; mais il ne faut pas vous exposer à le récidive, on est au guet pour attraper les contrevenants, et les premiers pris paieront pour les autres.
-
--*who_belise
 Vous voyez, Mesdames, que j'ai de bonnes raisons pour ne pas permettre qu'on joue, et Monsieur le Baron est entier là-dessus.
 
--*who_bartolin
-C'est lui qui attire l'attention de la Justice ; il n'y est pas en bon prédicament, et l'on m'a fait voir un petit registre où il est marqué en lettres rouges.
-
--*who_lamarquise
-Vous lui en voulez d'ailleurs, Monsieur Bartolin, et il faut que vous soyez prévenu contre lui ; c'est un si honnête homme, qui taille si honorablement.
-
-**** *book_ *id_I23 *act_I *date_(non
-
--*who_lemarquis
-Allégresse, Mesdames, allégresse, tout va pour le mieux du monde, nous jouerons malgré les jaloux, je viens vous en avertir en diligence.
-
--*who_lacomtesse
-Nous jouerons, Mesdames !
-Mon cher Marquis, que je vous embrasse pour une si bonne nouvelle.
-
--*who_lamarquise
-Que je vous embrasse aussi, mon cher enfant, le Ciel en soit loué.
-Allons, des cartes, Messieurs ; Mesdames, recouvrons le temps perdu, s'il vous plaît.
-
--*who_clitandre
-Serait-il possible, Mon cher Marquis, que ce n'eût été qu'une fausse alarme ?
-
--*who_belise
 On l'aurait prise bien mal-à-propos.
 
--*who_lemarquis
-Non vraiment, l'alarme n'est point fausse.
-
--*who_bartolin
-Oui, les défenses sont expresses.
-
--*who_eraste
-Hé !
-Que diantre vient-il de nous dire ?
-
--*who_lacomtesse
-Il ne fallait point tant accourir, c'est pour vous moquez de nous apparemment, Monsieur le Marquis ?
-
--*who_lemarquis
-Non, Mesdames, il ne tiendra qu'à vous de jouer tant qu'il vous plaira, et sans craindre l'amende ni les Commissaires.
-
--*who_lacomtesse
-Si je joue tant qu'il me plaira, je jouerai le jour et la nuit assurément.
-
--*who_lamarquise
-Et moi de même.
-
--*who_belise
 Dépêchez-donc de nous proposer votre expédient.
 
--*who_eraste
-Sandis, il va vous proposer de jouer sur les tuiles entre les gouttières, et si quelqu'un vient nous y surprendre, on pourra le faire sauter dans la rue sans le jeter par les fenêtres.
-
--*who_bartolin
-L'expédient ne serait pas mauvais dans un autre temps, mais à présent la place n'est pas tenable.
-
--*who_marton
-Non assurément, mais vous serez chaudement dans la cave, et l'on ne s'avisera jamais d'aller chercher des joueuses parmi des tonneaux.
-
--*who_lamarquise
-Tout me convient à moi, le grenier ou la cave, il ne m'importe pourvu que je joue.
-
--*who_lemarquis
-Ce que j'ai à vous dire vaut mieux que tout ce que vous pouvez vous imaginer et à l'heure que je vous parle, il y a trois ou quatre grosses parties de commencées.
-
--*who_lacomtesse
-Hé !
-Dites-nous promptement où c'est ?
-
--*who_lemarquis
-Hors le Faubourg Saint-Antoine, mais que cela soit secret au moins.
-
--*who_lamarquise
-Hors le Faubourg Saint Antoine !
-
--*who_marton
-Vous allez devenir des joueuses de grand chemin, gare les suites.
-
--*who_lemarquis
-Oui, Madame, dans des carrières, on se trouvera là à certaine heure, les carrosses se tiendront à une certaine distance ; et on jouera aussi beau jeu que dans l'Hôtel le mieux meublé, je vous en réponds.
-
--*who_clitandre
-Ce manège sera découvert à la fin.
-
--*who_lemarquis
-Point du tout, on n'y mettra point de lampions comme dans la ville, il n'y aura point de bals point de repas.
-
--*who_eraste
-Point de repas, les vilaines assemblées !
-Je ne suis point joueur de profession, mais les bals et les soupers me faisaient plaisir, je vous l'avoue.
-
--*who_lacomtesse
-Et pourquoi les retrancher.
-On fait bonne chère partout, et ce ne serait point un vilain spectacle qu'une carrière bien éclairée.
-
--*who_belise
 Les bals feront tout découvrir.
 
--*who_bartolin
-Assurément.
+Que veut-on ? Qu'est-ce que c'est que cette figure-là ? Voyez un peu, Marton.
 
--*who_lemarquis
-On ne s'assemblera pas toujours au même endroit, on ira de faubourg en faubourg, et de carrière en carrière
+Elle est bien de mon goût, il n'y a point là, d'amende à craindre, le cours de la rivière est libre. Qu'en dites-vous, mon frère ?
 
--*who_marton
-Ces assemblées-là auront assez l'air d'un petit sabbat.
-
--*who_lamarquise
-Oh !
-Sabbat tant qu'il vous plaira, rien ne m'empêchera d'y aller, je veux absolument regagner mes pierreries.
-
--*who_marton
-Mais si je vous proposais un expédient cent fois meilleur que les vôtres ?
-
--*who_lacomtesse
-Oh !
-Les carrières sont admirables, et le Marquis nous y conduira.
-
--*who_marton
-Un bateau serait bien meilleur.
-
--*who_lamarquise
-Un bateau, Marton !
-
--*who_bartolin
-En, voici bien une autre ?
-
--*who_marton
-Oui, Madame, une de ces barques pontées qui depuis quelque temps viennent à la voile et qui apportent des huîtres.
-Il faudrait la prendre au Pont Royal, on descend en jouant jusqu'à Mantes.
-Si vous n'avez pas gagné votre argent, et que le cœur vous en dise, vous pouvez aller jusqu'à Rouen, et de là au Havre ; et Madame se trouverait à moitié chemin de l'Angleterre où elle veut aller.
-
--*who_lacomtesse
-Je ferai volontiers le voyage avec elle.
-Quelqu'un veut-il y venir, me voilà prête ?
-
-**** *book_ *id_I24 *act_I *date_(non
-
--*who_belise
-Que veut-on ?
-Qu'est-ce que c'est que cette figure-là ?
-Voyez un peu, Marton.
-
--*who_marton
-Oui, Madame.
-
--*who_lamarquise
-L'imagination du bureau n'est pas mauvaise, je donne assez là-dedans.
-
--*who_clitandre
-Je l'approuve fort aussi, moi.
-
--*who_belise
-Elle est bien de mon goût, il n'y a point là, d'amende à craindre, le cours de la rivière est libre.
-Qu'en dites-vous, mon frère ?
-
--*who_bartolin
-Je dis, ma sœur, que je vous admire, et que vous avez de belles imaginations.
-
--*who_marton
-Ce sont les violons et les Dames figurantes du Bal qui envoient savoir si on aura besoin d'elles cette nuit, et si on leur paiera leurs droits de présence.
-
--*who_lacomtesse
-Oui, vraiment, ma chère, ne nous refusons pas tout au moins ce plaisir-là ; les jeux sont défendus, mais les Bals ne le sont point.
-
--*who_lamarquise
-Madame la Comtesse a raison, il faut tirer parti de tout ceci, et enterrer la synagogue avec honneur.
-
--*who_belise
 Qu'elles viennent à l'ordinaire, Marton, il n'y aura rien de changé.
 
--*who_marton
-Oui, Madame.
+Quel bruit est-ce que j'entends dans ma chambre ? Quel désordre est-ce là ?
 
--*who_belise
-Quel bruit est-ce que j'entends dans ma chambre ?
-Quel désordre est-ce là ?
+Ah, ah ! Que veut dire ceci ?
 
--*who_marton
-Ma foi, Madame, c'est Monsieur le Baron qui tient au collet un homme qui le tient, lui par les oreilles.
-
--*who_bartolin
-On ne respecte pas fort le Gentilhomme étranger.
-
-**** *book_ *id_I25 *act_I *date_(non
-
--*who_valere
-Messieurs, Messieurs, si vous ne vous séparez, je frapperai sur l'un et sur l'autre, et je vous séparerai à bons coups de canne.
-
--*who_garbatacase
-Mi far un insulte de la sorte !
-
--*who_celide
-Qu'est-ce donc que tout ceci, Valère ?
-
--*who_valere
-Une bagatelle, Madame, une petite dispute de rien qu'ont eue ces Messieurs.
-
--*who_frontin
-Je lui arracherai les oreilles.
-
--*who_garbatacase
-Mi parlar de la manière à mi, è dans mon Hôtel ?
-
--*who_frontin
-Dans ton Hôtel, misérable ?
-Tu n'as jamais eu de domicile que la prison.
-
--*who_garbatacase
-Un filou qui file la carte.
-
--*who_frontin
-Un coquin qui porte à l'écart.
-
--*who_eraste
-Ah !
-Cadédis, voilà une Scène assez ridiculement plaisante ; comment se terminera-t-elle ?
-
--*who_frontin
-Cela n'est pas bien, Madame, de souffrir des fripons dans votre maison.
-
--*who_garbatacase
-Và via forfanté, parti di qua mammaluco ; aveté grand tort, Signor Valère, di produire in questa casa un homme de ce caractère.
-
--*who_valere
-Ma foi, Monsieur le Baron, je vous crois aussi honnêtes gens l'un que l'autre.
-
--*who_bartolin
-Et vous ne vous trompez pas.
-
--*who_frontin
-Moi, Monsieur, je ne voudrais pas me troquer contre lui ; il croit nous en imposer, avec son baragouin et sa grande mouche.
-
--*who_garbatacase
-Ah !
-Impudenté, io t'amassero.
-
--*who_frontin
-Il parle français comme moi, tel que vous le voyez, et il n'a point de balafre, je vous en réponds.
-
--*who_belise
-Ah, ah !
-Que veut dire ceci ?
-
--*who_bartolin
-Que j'ai pensé juste, ma sœur.
-
--*who_frontin
-Oh !
-Parbleu, je le reconnais mieux à présent que je ne faisais.
-Oui, justement, c'est Mathieu Membrin, le fils d'un barbier de Falaise.
-
--*who_lamarquise
-Mais vraiment, voici une aventure qui devient sérieuse.
-
--*who_lacomtesse
-Monsieur l'Étranger est de Falaise ?
-
--*who_garbatacase
-Et per gratia, Mesdames, é un scélérat, un pendard, que vinté volte a mérita les galéres ; ti reconnosso à présent, tu faisais le Marchand de Vin dans le Carrosse de Rheims.
-
--*who_frontin
-Et toi le Marchand de Bœufs dans la diligence de Lyon, et je m'en souviens.
-
--*who_garbatacase
-Và, và, qué ti ricordé de la manière dont tu fus régalé à Orléans, où le Prévôt te vouli far impicar.
-
--*who_frontin
-Hé qué ti ricordé Qu'il te souvienne à toi des coups de bâton que nous te donnâmes à Auxerre, pour avoir notre part des mille écus que tu voulais garder pour toi seul.
-
--*who_clitandre
-Ces Messieurs-là se disent d'étranges choses.
-
--*who_bartolin
-Et ne se disent que des vérités.
-
--*who_frontin
-Je ne l'avais pas bien remis d'abord ; mais sa culotte large, et l'enflure des deux côtés de son juste-au-corps, me l'ont fait connaître.
-
--*who_garbatacase
-Ah, traditor.
-
--*who_frontin
-La grande culotte et les plis du juste-au-corps, sont autant de magasins de cartes apprêtées.
-
--*who_lamarquise
-Comment !
-Que dites-vous ?
-
--*who_frontin
-Voyez, voyez dans sa culotte, Madame.
-
--*who_lamarquise
-Vous vous moquez vraiment, je n'y veux point regarder.
-
--*who_eraste
-Oh cadedis, j'y regarderai bien, moi.
-
--*who_clitandre
-Cela mérite d'être éclairci.
-
--*who_garbatacase
-Signori, Signori, questo ni si fait point, è mi fareré rationé
-
--*who_bartolin
-Doucement, doucement, baissez un peu la voix.
-
--*who_eraste
-Ah cadédis, les magasins sont bien garnis, ce n'est point un conte, et voilà un fripon qui dit vrai.
-
--*who_frontin
-Je le savais bien, moi, que je ne me trompais pas.
-
--*who_garbatacase
-Mousu, mousu Valère, je me prends à vous de cette insulte.
-
--*who_valere
-Va misérable, je t'en ferai raison, comme tu le mérites.
-
--*who_belise
 Je ne sais où j'en suis ; quelle aventure ?
 
--*who_valere
-Ce n'est pas tout, Messieurs, il faut qu'il convienne qu'il n'a point d'autre métier que celui de fripon de jeu.
-Parleras-tu ?
-
--*who_garbatacase
-Hé là là, Messieurs, point de violence, je conviendrai de tout ce qu'il vous plaira ; mais ne me perdez pas, je vous en conjure.
-
--*who_lamarquise
-Et l'argent qu'il nous a volé à tous tant que nous sommes ?
-
--*who_garbatacase
-J'en rendrai la moitié, que chacun fasse ses comptes : il me semble que c'est avoir de la conscience.
-
--*who_clitandre
-Votre banque était en bonne main, Madame.
-
--*who_belise
 J'y ai été trompée la première, et j'y perdrai peut-être plus qu'un autre.
 
--*who_eraste
-Et l'autre fripon, qu'en ferons-nous ?
-Il mérite grâce, et récompense même.
-
--*who_valere
-Je m'en charge, Messieurs, je la lui ai promise ; c'est mon valet, et je ne lui ai fait jouer ce personnage que pour détromper Madame, et lui faire voir quel homme c'était que le Baron.
-
--*who_belise
 Je suis ravie d'être désabusée, et je vous donne ma fille.
 
--*who_valere
-Vous me rendez le plus heureux de tous les hommes.
-
--*who_lamarquise
-Et en faveur du mariage, jouons donc quelques reprises de Lansquenet, ou quelques tailles de Pharaon.
-
--*who_valere
-Nous ferons tout ce qu'il vous plaira, Mesdames, je prends sur moi les risques de l'amende, et je taillerai même, si l'on veut, pour la première fois de ma vie.
-
--*who_eraste
-Je suis de moitié de la banque.
-
--*who_valere
-Volontiers.
-
--*who_belise
 Que l'on fasse avertir les gens du Concert et du Bal.
 
--*who_marton
-Ils sont presque tous là-dedans, Madame.
-
--*who_belise
 Pendant que nous serons au jeu, que l'on commence l'un et l'autre, on continuera après le souper.
 
--*who_frontin
-Il y aurait ici un beau coup à faire.
-Mon maître a plus de deux cents louis sans sa bourse ; j'ai vingt pistoles, tâchons de trouver quelque associé pour enlever la banque.
-
--*who_choeur
-Le jeu nous amène
-Dans ces lieux,
-Pour nous faire à tous un sort heureux ?
-Dans ta douce chaîne
-Dieu d'Amour,
-Depuis longtemps nuit et jour,
-Nous t'avons fait notre Cour ;
-Nous prenons haleine
-Dans les jeux,
-Afin de te servir mieux.
-Dans le Quartier Saint Honoré,
-Est un sabbat de lampions éclairé,
-Où tous les soirs nombre de belles,
-Aux Partisans des Lansquenets,
-Viennent étaler leurs attraits
-À la lueur de cent chandelles.
-C'est là qu'une vieille Cypris,
-Dame et Patronne du logis,
-D'une voix plaintive et cassée,
-Sur les accidents de Paris
-Leur explique ainsi sa pensée.
-Filles d'Amour, ce jour est terrible pour vous,
-Pharaon, Lansquenet, Bassette,
-Sont défendus, l'affaire est faite,
-Mes enfants, que deviendront-nous ?
-En quel état cruel nous met cette défense ?
-Ô Ciel ! Permets-tu donc que sous d'injustes coups
-On opprime l'innocence ;
-Filles d'Amour ! Ce jour est terrible pour vous.
-Elle dit : À ces mots les Nymphes étonnées
-Pleurent amèrement leurs tristes destinées ;
-Le rouge et le blanc de leur teint
-Se mêlent à regret aux larmes
-Qui traînent, en coulant, les charmes
-De leur visage sur leur sein.
-Une beauté presque naissante
-Rit de les voir verser des pleurs,
-Et dans ce grand revers constante,
-Elle contrôle ainsi ses sœurs.
-Que le Diable emporte
-Et Joueurs et Jeux,
-Et que nous importe
-Qu'ils soient malheureux :
-Nous ferons en sorte
-De nous passer d'eux.
-Les Jeux qu'on défend en ce jour,
-Ont le sort qu'ils devaient attendre ;
-Mais les jeux charmants de l'amour
-Sont des jeux qu'on ne peut défendre.
-
-**** *book_ *id_I26 *act_I *date_(non
-
--*who_valere
-Oh parbleu, il y a ici quelque chose d'extraordinaire, et que je ne comprends pas.
-
--*who_eraste
-Sandis, je le comprends bien, moi.
-Nous avons chassé deux fripons, il en est revenu d'autres en masques ; cette Chauve-Souris et ce Perroquet sont des oiseaux de mauvais présage : mais sandis ils ne s'envoleront pas, et je leur vais rogner les ailes ; je tiens le mien, saisissez le vôtre.
-
--*who_lemarquis
-Une banque de plus de deux cents louis enlevée en moins de deux tailles ?
-
--*who_eraste
-Messieurs les Masques, on saura qui vous êtes.
-
--*who_garbatacase
-Moi, Monsieur, l'être in pon gentilhomme allemand : vous prendre garde.
-
--*who_eraste
-Un Gentilhomme Allemand !
-C'est ce coquin de Baron.
-
--*who_garbatacase
-Oui, Monsieur, on ne veut plus que je taille : je suis venu ponter ; quel mal y a-t-il à cela ?
-
--*who_lemarquis
-Quel mal il y a, misérable ?
-Tu nous voles ?
-
--*who_valere
-Et celui-ci est mon coquin de valet, ils étaient d'intelligence.
-
--*who_frontin
-Nos haines ne durent pas, comme vous voyez, nous sommes d'honnêtes gens, il n'y a point de rancune parmi nous autres.
-
--*who_valere
-Ah insolent !
-Te jouer à moi.
-
--*who_frontin
-Nous voulions vous corriger à votre coup d'essai, pour vous empêcher de continuer.
-
--*who_valere
-Comment, maroufle ?
-
--*who_frontin
-Ce sont les vingt pistoles de Mademoiselle qui sont cause de cela, je voulais les faire valoir.
-
--*who_eraste
-Ah sandis, Messieurs les coquins, vous rendrez gorge.
-
--*who_valere
-Reprenons d'abord notre argent, et qu'on les abandonne à leur mauvaise destinée.
-
--*who_frontin
-Oui, nous tâcherons de la corriger.
-
--*who_marton
-On a servi, Madame.
-
--*who_belise
 Allons nous mettre à table, que le Bal continue, et que cette aventure nous corrige de l'extravagance qu'il y a de jouer avec des masques.
 
--*who_marton
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
+
+Ah ! Ma chère Marton, que je suis ravie.
+
+De ce que je viens d'apprendre. Les Jeux sont défendus, ma chère enfant : on dit qu'on ne parle d'autre chose dans tout Paris, et je voudrais de tout mon cœur, je te l'avoue, que cette nouvelle fût bien confirmée.
+
+Je ne me sens pas de joie, ma pauvre Marton.
+
+Le jeu ne me déplairait peut-être point si fort, si l'on jouait ailleurs que chez ma mère ; mais que cette maison sois une Académie ouverte à toutes sortes de gens, que tout ce qu'il y a de fainéants et d'extravagants, pour ne rien dire de plus fâcheux, soient les bienvenus dans ce logis ; que dans mon cabinet, à ma toilette même, je sois éternellement obsédée de mille figures désagréables, à qui je n'ose dire vous me fatiguez, parce que ce sont des dupes qui perdent sottement leur argent avec ma mère : en vérité, c'est un supplice dont je serai bien aise d'être débarrassée.
+
+Je ne sais : mais il me semble que dans l'état où sont les choses, si la nouvelle est bien vraie, il devait être le premier à m'en informer, et ne pas tant attendre à se rendre ici.
+
+Le voici, ma chère Marton.
+
+Je ne sais qu'en penser, Valère.
+
+Je vous réponds de mon cœur, Valère ; mais je ne vous réponds pas de ma mère ; je vous ai déjà dit les raisons qui jusqu'ici, je crois, l'ont rendue contraire à notre engagement. Elle m'a parlé tant de fois, et si avantageusement, d'un certain neveu du Baron.
+
+De lui-même, Marton, je la soupçonne de m'avoir destinée pour lui, dans la pensée qu'il est homme de grosse condition, et dans l'espérance d'une fortune considérable que son oncle et lui doivent faire au jeu.
+
+Ah ! Mon pauvre garçon, tâche à suivre ce qu'on te dira, et sois assuré d'une parfaite reconnaissance.
+
+Et voilà vingt pistoles dans ma bourse qui te détermineront peut-être.
+
+Vous rêvez, Valère, de vous imaginer que ce Baron-là soit de la connaissance et des amis de votre valet.
+
+Le voici, je pense, avec ma mère.
+
+Vous êtes la maîtresse, Madame.
+
+Comment donc, Madame ?
+
+Voilà de terribles ressources, Madame, et je vous avoue qu'elles me font trembler.
+
+En Angleterre, Madame ?
+
+Mais, avez-vous bien songé, Madame ?
+
+Ah ! Juste Ciel ! Que je suis malheureuse ?
+
+Je suis dans un étrange accablement, Marton.
+
+De votre grand cabinet, Madame, où Monsieur le Baron joue au piquet avec un jeune homme que je ne connais point, mais qui est apparemment de la connaissance de Valère ; car il les regarde jouer avec attention.
+
+Qu'est-ce donc que tout ceci, Valère ?
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bartolin
+
+C'est une extravagante, que je rendrai raisonnable malgré elle.
+
+Madame la soubrette ?
+
+La pauvre créature devient aussi folle que sa Maîtresse !
+
+Écoutez, Mademoiselle Marton, je vous prie de tâcher de rappeler un peu cette lueur de bon sens et de raison que je vous ai connue, et de me dire de bonne foi où vous prétendez que tout ceci vous mène.
+
+Elle Baronne ! Et comment la deviendra-elle ?
+
+Oui, quelque joueur distingué par ses friponneries ?
+
+Tu te moques de moi, je pense. Plaisant emploi ! Est-il possible que ma sœur, qui avait autrefois de l'esprit, se repaisse ainsi de visions chimériques, et qu'elle ait quitté son négoce pour se livrer à un ridicule
+
+Le Ciel m'en préserve ! Je suis bien éloigné de penser comme elle.
+
+Oui, Madame ma sœur, je veux bien souper avec vous.
+
+Ma foi, ma chère sœur, vous devenez tout-à-fait folle.
+
+Là, parlons doucement. Vous êtes veuve d'un riche Marchand qui vous a laissé plus de trente mille écus de bons effets et une fille unique ; il ne tenait qu'à vous de faire valoir les uns dans votre commerce, et de marier la fille avantageusement pour vous et pour elle, puisque Valère qui a plus de vingt-cinq mille livres de rente, vous a fait offrir par son oncle de la prendre sans aucune dot. Vous négligez une occasion si favorable.
+
+Vous quittez votre magasin.
+
+Il est extravagant, Madame la Marchande ; l'Hôtel vous ruinera, et le magasin aurait continué de vous enrichir.
+
+Quelle solidité ! Les jeux seront défendus demain, aujourd'hui peut-être, il ne vous restera que la honte d'avoir entrepris une chose que tous vos amis, vos parents, et votre fille-même seront en droit de vous reprocher éternellement.
+
+L'événement vous corrigera de cette espérance, mais il vous corrigera trop tard.
+
+C'en est une abominable que celle du jeu.
+
+Vous n'en avez guère de reste au bout de l'année ?
+
+Expliquez-les-moi donc, je vous prie, et nous verrons
+
+Qu'est-ce que ce Monsieur le Baron ? Serait-ce ce gentilhomme étranger ?
+
+Oui, mais il porte une vilaine balafre sur le visage.
+
+Sa physionomie n'en imprime guère, et c'est encore, je crois, plus qu'il n'en mérite.
+
+Ni l'un, ni l'autre, Monsieur, je vis de mon bien.
+
+J'entends, Monsieur, j'entends, vous n'avez quasi le temps que de jouer, n'est-ce pas ?
+
+Cela est tout-à fait louable. Voilà un maître fripon, si je ne me trompe.
+
+Je vous le disais tout à l'heure, ma sœur.
+
+Monsieur le Baron de Garbatacase n'est pas si sûr de son fait qu'il veut le paraître, ma sœur, je crains les suites de votre société.
+
+Voilà justement ce que j'avais prévu.
+
+Et c'est, c'est une bonne amende de mille écus, à quoi vous êtes solidairement condamnée avec votre Monsieur le Baron.
+
+Oh ! Pour cela je n'en doute point, et vous pourrez bien la payer toute seule.
+
+Allez, ma sœur, il les soutiendra mal, sue ma parole. Hé bien, Lisette, voilà ta prétendue fortune un peu dérangée, à ce qu'il me semble ; et si ma sœur est bien conseillée, tu retourneras au Magasin, ou à la Boutique.
+
+Tu as de fort bon sens.
+
+Il faut cependant ; autant qu'il se pourra, prévenir, ou arrêter, la suite de ces procédures. Je vais tâcher d'y donner ordre ?
+
+Je viens de courir pour votre affaire, ma sœur, on ne pressera point le paiement de l'amende, et on la fera diminuer de manière qu'il vous en coûtera peu ; mais il ne faut pas vous exposer à le récidive, on est au guet pour attraper les contrevenants, et les premiers pris paieront pour les autres.
+
+C'est lui qui attire l'attention de la Justice ; il n'y est pas en bon prédicament, et l'on m'a fait voir un petit registre où il est marqué en lettres rouges.
+
+Oui, les défenses sont expresses.
+
+L'expédient ne serait pas mauvais dans un autre temps, mais à présent la place n'est pas tenable.
+
+Assurément.
+
+En, voici bien une autre ?
+
+Je dis, ma sœur, que je vous admire, et que vous avez de belles imaginations.
+
+On ne respecte pas fort le Gentilhomme étranger.
+
+Et vous ne vous trompez pas.
+
+Que j'ai pensé juste, ma sœur.
+
+Et ne se disent que des vérités.
+
+Doucement, doucement, baissez un peu la voix.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
+Hé ! Que diantre venez-vous faire ici, Monsieur ? Vous aimez bien à prendre un peine inutile, et à persécuter Madame votre sœur infructueusement.
+
+Elle a les mêmes desseins pour vous, et vous ne réussirez ni l'un ni l'autre.
+
+Oh ! Doucement, s'il vous plaît, Monsieur Bartolin ; les soubrettes comme moi ne sont pas faites pour être traitées irrespectueusement, et nous sommes en train de faire une fortune, qui mettra quelque différence entre vous et moi.
+
+Pauvre créature ! Voilà de plaisants termes.
+
+Ma foi, Monsieur, s'il vous faut parler franchement, je n'en sais rien : tout ce que je puis vous dire, c'est que nous menons une vie assez joyeuse, grande chère, bon équipage. Madame votre sœur, qui n'était que Lingère, s'appelle aujourd'hui Madame la Baronne, dans l'espérance de la devenir.
+
+En épousant un Baron, et un Baron de conséquence encore, un homme de distinction.
+
+Non, Monsieur, un homme de qualité, un Gentilhomme étranger qui fait ici les affaires de je ne sais combien de petits Seigneurs ; c'est lui qui fait toutes leurs provisions : qui leur achètent des draps, des étoffes, des habites, et qui leur envoie toutes les modes nouvelles dès qu'elles commencent à vieillir. Oh ! Il est chargé de grandes affaires : c'est un homme qui a des correspondances par toute l'Europe. Si vous étiez d'humeur à vous prêter aux vues que nous avons, on vous ferait l'Agent de ces Seigneurs-là, et ce serait un poste qui vous mènerait loin.
+
+Il n'y a point de ridicule dans ce qu'elle fait, c'est une femme qui a des vues solides. La voici, parlez-lui avec douceur, elle vous rendra raison de sa conduite ; et je suis presque sûre qu'elle vous persuadera de l'imiter.
+
+Oui, Madame.
+
+Oui, Madame.
+
+Je vais faire exécuter tout cela moi-même à la lettre.
+
+Vos ordres sont donnés, Madame, vous ferez grande chère, et vous aurez bonne compagnie ; mais on vient de me donner là-bas un papier qui troublera la fête peut-être.
+
+Du griffonnage, Madame : Quelque bagatelle apparemment, car cela est fort mal écrit. L'homme qui l'a apporté, a dit seulement que c'était une Lettre de Change de mille écus, je pense, que l'on tirait sur vous et sur M. le Baron, pour avoir donné à jouer sans permission ; et que si vous continuiez, on continuerait à en tirer d'autres à mesure qu'on le trouverait à propos ; que ces Lettres de change-là étaient payables à vue par provision, et qu'on nous mettrait au Châtelet faute de paiement.
+
+Voilà une belle occasion, Monsieur.
+
+Elle aura bien de la peine à quitter un Hôtel pour reprendre son enseigne de la Picarde. Pour moi, mon parti est pris, cela ne me gênera point, et j'aime encore mieux la Boutique que le Châtelet.
+
+Franchement, Monsieur, je n'ai jamais guère donné dans tout cela, mais j'y trouvais mon compte : il y a plus de fatigue à remuer des paquets de toile, que des sixains de cartes, et cela faisait que je m'accommodais facilement au goût de Madame.
+
+Je ne sais ce que cela veut dire, mais je ne suis point trop fâchée de cet inconvénient. Madame en enragera, mais Mademoiselle sa fille en sera charmée. La voici, prenons ouvertement ses intérêts, et travaillons de concert avec elle pour faire réussir son mariage avec Valère.
+
+Hé ! De quoi donc, Mademoiselle ?
+
+Elle ne l'est que trop, et l'on vient d'en donner avis à Madame votre mère en papier timbré.
+
+Je suis assez comme vous, mais je n'oserais le témoigner à Madame.
+
+Valère vous en débarrassera, c'est un fort joli homme, Mademoiselle ; et il faut qu'il vous aime bien tendrement pour ne s'être point rebuté du parti qu'avait pris Madame votre mère, et du refus qu'elle fît à la personne qui vous demanda pour lui il y a quelques jours.
+
+Nous l'y verrons bientôt, sur ma parole, Monsieur votre oncle, qui sort dans le moment, et qui a bon esprit, n'aura pas manqué de passer chez lui, il est dans ses intérêts, et le regarde déjà comme son neveu.
+
+Ne vous disais-je pas bien, qu'il ne tarderait pas à venir.
+
+Oh ! Je n'en doute point du tout, moi ; la déroute des Jeux vous donne beau jeu à vous, et Madame ne saurait plus condamner vos sentiments, puisque les voilà justifiés par Arrêt.
+
+Qui ! Ce petit freluquet qui se fait appeler Monsieur le Comte ?
+
+Voilà bien des Chevaliers à l'Hôpital. Que de banqueroutes ! Mais laissons-là les réflexions, s'il vous plaît, et songeons sérieusement aux moyens de tirer Madame votre mère de l'entêtement qu'elle a pour l'oncle et pour le neveu.
+
+Le voici qui vient tout à propos, comme si vous l'aviez mandé.
+
+Je lui trouve quelque chose de grand, quelque chose d'illustre dans la physionomie.
+
+Hé ! Mort de ma vie, tu fais bien des façons pour avouer la chose. Est-ce un si grand crime que l'industrie ? Et n'y a-t-il pas aujourd'hui mille honnêtes gens qui s'en mêlent ?
+
+Il faudrait lui faire voir les gens en question ; il connaîtra quelqu'un d'eux, peut-être.
+
+Tu étais un fripon bien mal déguisé.
+
+Quelle perfection ! Cela est admirable.
+
+Et quand on s'amuse à les voir courir, elles attrapent les regardants quelquefois.
+
+Mais la jousticia, elle n'a point de politicà, Monsieur, è une brutale qui va toujours son train.
+
+Le joli pèlerinage.
+
+Adio, adunqué, signor bon viaggio.
+
+C'est un homme de bon esprit, il en a jusqu'au bout des doigts.
+
+Assurément ; ne vous mènerez-vous point faire une petite campagne en Hongrie ?
+
+Passer la mer comme des hirondelles ?
+
+Assurément ; et si vous ruinez la Hollande, je vous conseille de ne pas aller plus loin, et de revenir à Paris tout au plus vite.
+
+Voilà Madame la Comtesse qui fera le voyage avec vous, si vous voulez.
+
+Allez vous reposer dans votre cabinet, je vous avertirai quand Valère et son valet seront ici.
+
+Prendre médecine pour gagner, la sage précaution !
+
+Vous vous êtes purgée un peu trop tard, Madame.
+
+Elle n'avait pas eu la précaution de prendre médecine, Madame.
+
+La banqueroute n'est point frauduleuse.
+
+Voilà un amant bien poli ; qu'il y a de noblesse là-dedans !
+
+Ils ne sont pas tous de même, et j'en connais plus de quatre à Paris, à qui le Lansquenet et le Pharaon ont furieusement écorné les dépôts.
+
+Hé ! Allez, allez, il y a nombre de gens à Paris que la défense y réduira.
+
+Oui, les bienséances et la civilité paraissent un peu négligées en ces matières, mais la Police n'est pas polie.
+
+Une suffocation de parolis et de masse en avant, dont bien des femmes vont être malades.
+
+Hé ! Allons, Madame, contre fortune bon cœur, tous les jeux ne sont pas défendus ; et vous pourrez jouer à quelque autre où vous gagnerez peut-être davantage.
+
+Madame a raison, de quelque grande qualité qu'elle soit, le Pharaon n'est-il pas défendu pour elle comme pour sa belle-sœur qui n'est que la femme d'un apothicaire. Mort de ma vie, Madame, revenez donc à vous, si vous voulez.
+
+Bon, bon, nous n'avons pas besoin de cela, laissez-moi faire, j'ai un remède dans ma poche qui vaudra mieux que tous les autres.
+
+Vous l'allez voir, il n'y a point de Joueuses que cela ne ressuscite en moins de rien.
+
+Que vous ai-je dit ? C'est une belle chose que la force de la sympathie.
+
+Pour moi je ne les regardés qu'un moment, et la tête me fait un mal horrible. Ah, pour cela c'est un triste jeu que ce piquet. Et c'est ce jeu-là qu'il fallait défendre, et non pas le Lansquenet et le Pharaon, qui sont les plus beaux jeux du monde, les plus universels, qui peuvent amuser utilement trente ou quarante personnes à la fois, et où l'on ne saurait faire la moindre petite friponnerie.
+
+Oui, pourquoi ne pas défendre plutôt ces vilains jeux d'exercices où l'on gagne quelquefois de bonnes pleurésies, et où l'on court risque à tout moment d'être estropié de quelque bon coup de balle ?
+
+Non assurément, mais vous serez chaudement dans la cave, et l'on ne s'avisera jamais d'aller chercher des joueuses parmi des tonneaux.
+
+Vous allez devenir des joueuses de grand chemin, gare les suites.
+
+Ces assemblées-là auront assez l'air d'un petit sabbat.
+
+Mais si je vous proposais un expédient cent fois meilleur que les vôtres ?
+
+Un bateau serait bien meilleur.
+
+Oui, Madame, une de ces barques pontées qui depuis quelque temps viennent à la voile et qui apportent des huîtres. Il faudrait la prendre au Pont Royal, on descend en jouant jusqu'à Mantes. Si vous n'avez pas gagné votre argent, et que le cœur vous en dise, vous pouvez aller jusqu'à Rouen, et de là au Havre ; et Madame se trouverait à moitié chemin de l'Angleterre où elle veut aller.
+
+Oui, Madame.
+
+Ce sont les violons et les Dames figurantes du Bal qui envoient savoir si on aura besoin d'elles cette nuit, et si on leur paiera leurs droits de présence.
+
+Oui, Madame.
+
+Ma foi, Madame, c'est Monsieur le Baron qui tient au collet un homme qui le tient, lui par les oreilles.
+
+Ils sont presque tous là-dedans, Madame.
+
+On a servi, Madame.
+
 Et gardez-vous des visages, mêmes.
 
-DIVERTISSEMENT
 
--*who_ensemble
-Amour, soutiens tes intérêts ;
-Hâte-toi, vole, viens détruire
-Les Pharaons, les Lansquenets ;
-Ces ennemis de ton empire,
-T'enlèvent tes meilleurs sujets.
-Dieu des Amours,
-Que de conquêtes nouvelles
-Les Jeux t'assurent tous les jours !
-Par leur secours,
-Tu triomphes des plus rebelles.
-Un Amant que flattent les Jeux,
-Est toujours bien traité des Belles :
-Et le hasard d'un coup affreux,
-Réduit souvent les plus cruelles
-À ne pouvoir souffrir près d'elles ;
-Aucun soupirant malheureux.
-Une beauté jeune et brillante,
-Dans tous Jeux fait grand fracas,
-Gagne beaucoup, et fort contente,
-Et son vieux mari n'y perd pas.
-Tandis qu'actif pour la finance,
-L'Avocat Blaise est au Palais,
-Sa femme au Jeu donne audience,
-Et lui fait perdre son Procès.
-Ici venu de la Province,
-Un jeune apprentif Magistrat,
-Aux Jeux d'abord brillait en Province,
-Il fut bientôt gueux comme un rat.
-Quand certain Marchand prend carrosse,
-Et dans les Jeux fait le Marquis,
-Son épouse fait un négoce
-Qui soutient les airs qu'il a pris.
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
--*who_merlin
-Depuis longtemps je ne m'occupe
-Qu'au Lansquenet, au Pharaon ;
-J'ai commencé par être dupe,
-Je finis par être fripon.
-Laissons aux Flaireurs de Cuisine
-Regretter les Jeux défendus ;
-Qu'aucun autre ne s'en chagrine,
-Ce sont eux qui perdent le plus.
-Le Pharaon est en déroute,
-C'est peut-être un bonheur pour vous ;
-Pour le peu d'argent qu'il en coûte,
-Venez tous en rire avec nous.
+Hé bien ! Adorable Célide, puis-je espérer que le changement dont on parle aujourd'hui dans Paris, fera changer en ma faveur l'esprit et le cœur de Madame votre mère ? Et croyez-vous qu'elle me pardonne à présent de n'être pas joueur de profession ?
+
+Ce sont deux aventuriers tombés des nues, des Chevaliers de l'industrie, que l'on ne connaît que par le jeu, et qui ne subsistent que par-là comme mille autres de leur caractère.
+
+Cela ne sera peut-être pas tout à fait impossible ; j'ai depuis quelques jours à mon service un maître fripon, que je crois reconnaître ; il ne s'est point fait mon valet sans quelque dessein, et il pourrait bien nous être utile dans cette affaire.
+
+Oh çà, Frontin, il faut me rendre un service, mon ami.
+
+Oh ! Ce n'est point l'argent qui le gouverne, vous ne le connaissez pas si bien que moi, Madame, et il ne tient qu'à lui d'en avoir autant qu'homme de France.
+
+Demandez-lui si je me trompe.
+
+Hé ! Allons, allons, parlons franchement mon ami : je suis bon Prince, comme tu vois, je me connais en gens, et toute ta science ne se borne point à bien faire un message, à savoir peigner une perruque. Hé ! Plaît-il ? Qu'en penses-tu, Marton ?
+
+Nous nous sommes vus quelque part, assurément, rappelle un peu tes idées, je suis sûr des miennes, moi. Tu ne te nommais pas Frontin, dans ce temps-là ; tu es un adroit, un virtuose.
+
+Non, non, garde la bourse, on ne te l'a pas donnée pour être de moitié ; c'est déjà quelque chose, de t'être autrefois mêlé de la bagatelle, et il n'est pas que tu n'en saches assez pour ce qu'il nous faut.
+
+Tu peux t'assurer de tout cela, si tu me sers sans me trahir. Ne connais-tu point un certain Baron de Garbatacase, par hasard ? Les illustres de même métier se connaissent ordinairement.
+
+Rêve un peu, tâche à rappeler ta mémoire, c'est le meilleur de tes amis, peut-être.
+
+Non, non, cette pensée n'est pas sans fondement, et je vous réponds qu'il n'y a pas deux ans que Frontin était un homme autant d'importance, que le personnage à qui nous avons affaire.
+
+Que vous disais-je ? Hé bien ! Crois-tu connaître celui que je t'ai nommé ?
+
+Çà voyons, comment ferons-nous ?
+
+Me réponds-tu de cela ?
+
+Viens, suis-moi, tu prendras celui de mes habits qui te conviendra le mieux, et nous concerterons ensemble les moyens de te mettre aux prises avec le Baron.
+
+Ne le reconnais-tu point, dis ?
+
+Ne perdons point de temps, songeons à notre affaire.
+
+Messieurs, Messieurs, si vous ne vous séparez, je frapperai sur l'un et sur l'autre, et je vous séparerai à bons coups de canne.
+
+Une bagatelle, Madame, une petite dispute de rien qu'ont eue ces Messieurs.
+
+Ma foi, Monsieur le Baron, je vous crois aussi honnêtes gens l'un que l'autre.
+
+Va misérable, je t'en ferai raison, comme tu le mérites.
+
+Ce n'est pas tout, Messieurs, il faut qu'il convienne qu'il n'a point d'autre métier que celui de fripon de jeu. Parleras-tu ?
+
+Je m'en charge, Messieurs, je la lui ai promise ; c'est mon valet, et je ne lui ai fait jouer ce personnage que pour détromper Madame, et lui faire voir quel homme c'était que le Baron.
+
+Vous me rendez le plus heureux de tous les hommes.
+
+Nous ferons tout ce qu'il vous plaira, Mesdames, je prends sur moi les risques de l'amende, et je taillerai même, si l'on veut, pour la première fois de ma vie.
+
+Volontiers.
+
+Oh parbleu, il y a ici quelque chose d'extraordinaire, et que je ne comprends pas.
+
+Et celui-ci est mon coquin de valet, ils étaient d'intelligence.
+
+Ah insolent ! Te jouer à moi.
+
+Comment, maroufle ?
+
+Reprenons d'abord notre argent, et qu'on les abandonne à leur mauvaise destinée.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+Fort volontiers, je suis tout à vous. Depuis le peu de temps que j'ai l'honneur de vous servir, je vous ai pris en affection, je suis fort content de vous ; expliquez-moi votre affaire, que je vois si elle n'est point trop difficile, et si je me ferai prier ou non.
+
+Voilà de douces paroles qui me disposent.
+
+Votre affaire ira bien, voilà un heureux présage.
+
+Comment diantre ! M'aurait-il reconnu ?
+
+Monsieur
+
+Ma physionomie est fort heureuse. J'enrage, me voilà découvert.
+
+Tout est perdu Monsieur, je ne me remets pas
+
+Hé bien, Monsieur, puisqu'il faut vous dire les choses, je vous avoue ingénument que je me suis autrefois mêlé de quelques petites bagatelles, mais je vous assure que j'ai tout oublié : je ne vous conseille pas de jouer de moitié avec moi, je vous ferais perdre infailliblement, Mademoiselle
+
+Puisque vous devinez si bien les choses, Monsieur, je ne vous nierai point quelques-unes de ces petites bagatelles : quelques Décrets mal purgés, quelques petites bouderies que la Justice et moi nous avons eues ensemble, m'ont fait résoudre à me cacher sous l'habit de domestique auprès quelque honnête personne, qui eût soin de moi, et qui m'honorât de sa protection, en cas de besoin.
+
+Le Baron de Garbatacase ! Je ne me remets point cela.
+
+Ah ! Monsieur, c'est à Lyon que vous m'avez vu sans doute ; car je n'ai presque fait jamais l'homme de qualité que dans cette Ville-là.
+
+Ce nom-là, Monsieur, a assez de l'air de quelques-unes de nos Seigneuries Ultramontaines. Il y a beaucoup de Commanderies de notre Ordre du côté des Alpes ; mais il me semble que je n'ai pas encore ouï parler de ce Seigneur-là.
+
+Hom. Je pourrais bien les voir sans les connaître, car nous changeons de personnage dans le monde. Tantôt on est Marquis, tantôt Chevalier, puis Marchand, Abbé quelquefois, Financier souvent ; dans la dernière affaire qui m'est arrivée, je passais pour un Procureur, le croiriez-vous ?
+
+Si vous pouviez me faire jouer avec votre homme, ne fut-ce que quelques parties de Piquet seulement, pour peu que nous travaillions ensemble tête à tête, je vous dirai bientôt de quoi il est capable, de quelle école il est sorti, et en quoi il excelle, et quelque chose de plus encore, peut-être.
+
+Oui morbleu, je vous en réponds, nous nous connaissons en habiles joueurs, mieux que les brocanteurs ne se connaissent en tableaux.
+
+Et comment diantre le reconnaître, il n'a que la moitié de son visage.
+
+Je lui arracherai les oreilles.
+
+Dans ton Hôtel, misérable ? Tu n'as jamais eu de domicile que la prison.
+
+Un coquin qui porte à l'écart.
+
+Cela n'est pas bien, Madame, de souffrir des fripons dans votre maison.
+
+Moi, Monsieur, je ne voudrais pas me troquer contre lui ; il croit nous en imposer, avec son baragouin et sa grande mouche.
+
+Il parle français comme moi, tel que vous le voyez, et il n'a point de balafre, je vous en réponds.
+
+Oh ! Parbleu, je le reconnais mieux à présent que je ne faisais. Oui, justement, c'est Mathieu Membrin, le fils d'un barbier de Falaise.
+
+Et toi le Marchand de Bœufs dans la diligence de Lyon, et je m'en souviens.
+
+Hé qué ti ricordé Qu'il te souvienne à toi des coups de bâton que nous te donnâmes à Auxerre, pour avoir notre part des mille écus que tu voulais garder pour toi seul.
+
+Je ne l'avais pas bien remis d'abord ; mais sa culotte large, et l'enflure des deux côtés de son juste-au-corps, me l'ont fait connaître.
+
+La grande culotte et les plis du juste-au-corps, sont autant de magasins de cartes apprêtées.
+
+Voyez, voyez dans sa culotte, Madame.
+
+Je le savais bien, moi, que je ne me trompais pas.
+
+Il y aurait ici un beau coup à faire. Mon maître a plus de deux cents louis sans sa bourse ; j'ai vingt pistoles, tâchons de trouver quelque associé pour enlever la banque.
+
+Nos haines ne durent pas, comme vous voyez, nous sommes d'honnêtes gens, il n'y a point de rancune parmi nous autres.
+
+Nous voulions vous corriger à votre coup d'essai, pour vous empêcher de continuer.
+
+Ce sont les vingt pistoles de Mademoiselle qui sont cause de cela, je voulais les faire valoir.
+
+Oui, nous tâcherons de la corriger.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garbatacase
+
+Bondi, Madame, bondi, comé se porta vo signorie ?
+
+Vostro fratello, Madame.
+
+Ah ! Veramente mi fara un grand piacer, son schiavo hiumilissimo de sua persona et toute la familia, bella prestanza d'home, phisionomia gratiosa, Monsou e aparamenté un home de robe, un Conseiller de la Cita ou de la Province.
+
+Ah ! Quel gousto, quel bel métier dy far niente ! Sarai ben contento d'effer comé vo Signoria mon cher Mousou : ma jai tanté cosé à far, de cosi grandés occupations qué non o casi pas il tempo de magniar, de bévir, de dormir, et de vivre à parlar propriamenté.
+
+É la verità : mà je ne joue que par complaisance, je suis né per la societa, per far plaisir à tout il mondo, per occupar les fénéans de qualità, les oisifs de la bourgeoisie, et les Dames sur tout, sono piou a ellé qu'à moi-même.
+
+My fatté rougir doui, Madama sempré gratiosa, sempré obligeante : ma vi diro que sta matina o intéso una cosa qui mi fa péna.
+
+Si Signora.
+
+Si dicé nel la cità qué lés jeux dy hasard le lansquenet, le Pharaon, la Bassette seront défendous.
+
+Si si Signorà per populo, per la canailla, ma non per mi qui suis un home de distinction, un home de permission, les défenses ne sont pas faites pour les personnes qui savent se permette-ré-tout.
+
+Je suis tranquille là-dessus, et je vas en attendant la partie, travailler al mié despêches ; mà si pourtant il arriva quelque difficultà, que j'en sois averti, Madama, il ne faut pas se laisser surprendre. Adio Signor, Adieu, Adieu, Madama.
+
+No é bonà stà scituationé, ma bisogna pillar un poco di patience, et di veder le cours des affaires.
+
+No é tempo encorà, Madame, non é rempo ; é pericoloso di commettersi, la politica est le parti qu'un galant homme deve prendre, con la joustitia.
+
+Qué faté a questo ? Quelle manière de si far jousticià de la joustitià habbi sempré la spadà a la mano, lasciamo far al tempo.
+
+Pagar Signora, pagar, nô fare rebellion ; al contrario de la politessà de l'accortise vi prometto que quel argent ritornera con l'usura.
+
+Si mutarono li tempi, et si la persécution persevera faremo viagi, andaremo tutti in Angliterrà.
+
+Si Signora, e païs excellente per la residenza.
+
+E à proposito, in queste conjonturé, di pillar di précaution, me ne vo cercar un Banquier, Per far passar la mer à mes fonds, li viagio si fara sur le vostri, madame, et les comptes si farono quando sarémo arrivari à Londres.
+
+Mi far un insulte de la sorte !
+
+Mi parlar de la manière à mi, è dans mon Hôtel ?
+
+Un filou qui file la carte.
+
+Và via forfanté, parti di qua mammaluco ; aveté grand tort, Signor Valère, di produire in questa casa un homme de ce caractère.
+
+Ah ! Impudenté, io t'amassero.
+
+Et per gratia, Mesdames, é un scélérat, un pendard, que vinté volte a mérita les galéres ; ti reconnosso à présent, tu faisais le Marchand de Vin dans le Carrosse de Rheims.
+
+Và, và, qué ti ricordé de la manière dont tu fus régalé à Orléans, où le Prévôt te vouli far impicar.
+
+Ah, traditor.
+
+Signori, Signori, questo ni si fait point, è mi fareré rationé
+
+Mousu, mousu Valère, je me prends à vous de cette insulte.
+
+Hé là là, Messieurs, point de violence, je conviendrai de tout ce qu'il vous plaira ; mais ne me perdez pas, je vous en conjure.
+
+J'en rendrai la moitié, que chacun fasse ses comptes : il me semble que c'est avoir de la conscience.
+
+Moi, Monsieur, l'être in pon gentilhomme allemand : vous prendre garde.
+
+Oui, Monsieur, on ne veut plus que je taille : je suis venu ponter ; quel mal y a-t-il à cela ?
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+Bonjour, ma chère ; qu'est-ce donc que ceci. Où est tout notre monde aujourd'hui. Quels paresseux ! Le Chevalier Toppe n'est point encore venu ? Où est Monsieur l'Abbé Quinze et le Và, ma Mignonne, et le petit Caissier ? Je ne le vois point ; il faut que la Marquise et la Conseillère soient malades, puisqu'elles ne sont pas arrivées des premières.
+
+Dans quelle inaction tout me paraît ici ! Le jeu n'est point encore rangé, il n'y a nuls préparatifs pour la grosse partie que nous devons avoir.
+
+Je ne plaisante point du tout ; vraiment ; je ne vins point hier, ne m'en faites point de reproches, je ne sortis point de la journée, je ne vis personne ; je m'étais purgée par précaution, pour évacuer les mauvaises humeurs que ma mauvaise fortune m'a fait faire ; et mon Apothicaire, qui est un fort habile homme, m'a bien assurée que ma médecine me purgerait aussi de mon malheur. Oh ! Je suis sûre de gagner aujourd'hui tout ce que je voudrai.
+
+Je me porte à merveille, et je brûle d'impatience de commencer la partie, pour voir si le remède aura opéré.
+
+Comment donc ?
+
+Pardonnez-moi, mais peu importantes. Ce petit Conseiller m'a dit ce matin que cette grosse Marchande de dorure en avait vendu pour douze mille francs, à moitié de perte, et qu'elle avait perdu cet argent le même jour.
+
+Le pauvre mari ! Pour réparer cette perte qui le mettait en situation de faire banqueroute, a risqué six cent pistoles qu'il avait dans la caisse, il les a perdues jusqu'au dernier sol. Le fils a vendu la vaisselle, pour remédier à ces deux inconvénients, même destinée. Le Pharaon a tout englouti, jusqu'aux garçons qui ont joué les lettres de change qu'on leur avait données à recevoir ; il y a garnison dans le logis, la banqueroute est faite.
+
+On parle encore de cette petite Procureuse, qui est si fort amoureuse de ce grand Notaire.
+
+Elle a perdu soixante pistoles avant-hier, elle a vendu son diamant et ses boucles d'oreilles pour les payer ; c'est son amant le notaire qui les a achetées, et qui en a fait présent à Madame sa femme.
+
+Un notaire est toujours notaire ; mon enfant, ces Messieurs-là savent le prix de l'argent, et il y a de certains bourgeois qui ne se dérangent point.
+
+Ah, ah ! Le troupeau se rassemble à la fin ; voici déjà Clitandre, le bel esprit.
+
+Qu'il est triste, ma bonne ! Bonjour, Clitandre, allons gai, gai, point de mélancolie ; il perdit hier son argent, je gage.
+
+Comment donc ? Que voulez-vous dire ? Vous êtes, je crois, de concert pour me plaisanter l'un et l'autre. Plus je vous regarde, et moins je vous comprends tous deux. Quel malheur ? Quel accident ? De quoi parlez-vous ? Il semble que vous prévoyez la fin du monde, et qu'elle soit toute prête d'arriver.
+
+On a défendu le Pharaon et le Lansquenet !
+
+Vous vous moquez de moi, et cela ne se peut pas ; ces défenses-là ne subsisteront point, et c'est comme si on défendait de dormir.
+
+Mais cela ne peut pas être encore une fois.
+
+Ah, publier ! Publier, Monsieur, c'est autre chose. Ces publications sont pour le peuple, pour les laquais, pour la petite canaille à qui l'on défend de certains jeux qui ne sont faits que pour les gens de qualité.
+
+Mille écus ! Mille écus ! Il faut que vous ayez mal entendu, Monsieur ; et il me semble que si les défenses étaient pour les personnes de condition, ils valent assez la peine qu'on leur signifie la chose chez eux, sans la leur publier au coin des rues.
+
+Est-ce cette Marquise qui a perdu tant d'argent il y a huit jours ?
+
+Elle parait fort mal, vraiment, elle pâlit, elle s'évanouit.
+
+Mais vraiment, c'est tout de bon qu'elle s'est évanouie.
+
+Et tôt, tôt de l'eau des Carmes, de la Reine de Hongrie, du papier brûlé, du vinaigre : il faut lui couper son lacet d'abord.
+
+Madame la Marquise a raison. Où est le boursier ? Qu'on avertisse les garçons de la chambre, dépêchons, des cartes, et que Monsieur le Baron taille jusqu'à l'heure du souper seulement.
+
+Hé ! Madame, vous êtes devenue bien raisonnable.
+
+Ah, voilà notre petit caissier, qui sait les nouvelles apparemment, car il paraît bien en colère.
+
+Monsieur, faites-nous justice de cette défense-là.
+
+Voilà de l'argent bien aventuré si on ne joue plus.
+
+Il a raison, dans le fond, cet argent n'est peut-être pas à lui, et je le trouve fort embarrassé.
+
+Il prend les choses fort à cœur.
+
+Il a raison, cela était fort commode.
+
+Hé bien, voilà vingt femmes raisonnables perdues de réputation, on a point pensé à toutes ces choses-là, je vous en réponds.
+
+Oh, pour moi je vous promets bien que si on nec rétablit le Pharaon, je vais apprendre à jouer au mail ou à la Paume ; car enfin, il faut qu'une femme joue, et je ne vois guère que ces jeux-là qui conviennent à une personne de qualité.
+
+Nous jouerons, Mesdames ! Mon cher Marquis, que je vous embrasse pour une si bonne nouvelle.
+
+Il ne fallait point tant accourir, c'est pour vous moquez de nous apparemment, Monsieur le Marquis ?
+
+Si je joue tant qu'il me plaira, je jouerai le jour et la nuit assurément.
+
+Hé ! Dites-nous promptement où c'est ?
+
+Et pourquoi les retrancher. On fait bonne chère partout, et ce ne serait point un vilain spectacle qu'une carrière bien éclairée.
+
+Oh ! Les carrières sont admirables, et le Marquis nous y conduira.
+
+Je ferai volontiers le voyage avec elle. Quelqu'un veut-il y venir, me voilà prête ?
+
+Oui, vraiment, ma chère, ne nous refusons pas tout au moins ce plaisir-là ; les jeux sont défendus, mais les Bals ne le sont point.
+
+Monsieur l'Étranger est de Falaise ?
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
+Un fauteuil, laquais, un fauteuil. Ne me laisse pas tomber, ma pauvre Marton, je ne reviendrai point de cet accident-ci, me voilà morte.
+
+C'est bien pis, mesdames, j'agonise, et le moyen de vivre après un coup comme celui-là.
+
+Hé, mon pauvre Clitandre ! Que me sert-il d'en avoir la qualité, ai-je plus de privilège qu'une simple bourgeoise ? Et le Pharaon Ah ! Je me meurs, Marton.
+
+Ah, juste Ciel ! Quelle main cruelle ma rappelle à la vie ?
+
+Je n'en sortirai point, Madame, que je ne rejoue malgré la défense.
+
+Et qui saura que nous jouons ? Nous serons tous intéressés à ne le pas dire. Et quand on nous surprendrait une fois par mois voilà une belle bagatelle ; il n'y a qu'à faire un fonds pour l'amende en augmentant les rondes pour la payer, il n'y a rien de plus facile.
+
+Il en changera, faisons un Lansquenet en attendant qu'il vienne.
+
+Ma toute bonne, nous ne jouerons que jusqu'à ce que j'aie regagné les milles pistoles que je perdis la semaine dernière, après cela je vous promets de renoncer au jeu pour toute ma vie.
+
+Mais, Madame, je ne perdrai point, je gagnerai indubitablement, j'en suis sûre. Je n'ai engagé mes pierreries que sur ce pied-là, et il faut que je les retire dans quinze jours au plus tard, car Monsieur mon mari arrivera dans ce temps-là.
+
+Faites-moi raison, Monsieur, du procédé de Madame, qui ne veut plus qu'on joue chez elle, de peur qu'il ne lui en coûte mille écus : quelle petitesse ! Cela se doit-il faire, mon cher Monsieur. Et n'est-ce pas une chose qui crie vengeance ?
+
+Cela me fait souvenir de mes pierreries, il faut absolument nous laisser jouer, Madame, vous avez beau faire.
+
+N'a-t-il pas raison de se désespérer ? Je ne sais à quoi il tient que je n'en fasse autant ; et si trois ou quatre personnes de résolution voulaient se désespérer avec moi, cela ferait peut-être ouvrir les yeux sur les désordres que ces défenses-là vont causer.
+
+Cela est vrai, Mesdames, il y a mille gens intéressés dans cette affaire, et il faudrait représenter toutes ces choses-là dans un bon mémoire.
+
+Pour moi, Mesdames, je vous l'avoue, je tremble des occupations qu'ils se vont faire.
+
+Vous lui en voulez d'ailleurs, Monsieur Bartolin, et il faut que vous soyez prévenu contre lui ; c'est un si honnête homme, qui taille si honorablement.
+
+Que je vous embrasse aussi, mon cher enfant, le Ciel en soit loué. Allons, des cartes, Messieurs ; Mesdames, recouvrons le temps perdu, s'il vous plaît.
+
+Et moi de même.
+
+Tout me convient à moi, le grenier ou la cave, il ne m'importe pourvu que je joue.
+
+Hors le Faubourg Saint Antoine !
+
+Oh ! Sabbat tant qu'il vous plaira, rien ne m'empêchera d'y aller, je veux absolument regagner mes pierreries.
+
+Un bateau, Marton !
+
+L'imagination du bureau n'est pas mauvaise, je donne assez là-dedans.
+
+Madame la Comtesse a raison, il faut tirer parti de tout ceci, et enterrer la synagogue avec honneur.
+
+Mais vraiment, voici une aventure qui devient sérieuse.
+
+Comment ! Que dites-vous ?
+
+Vous vous moquez vraiment, je n'y veux point regarder.
+
+Et l'argent qu'il nous a volé à tous tant que nous sommes ?
+
+Et en faveur du mariage, jouons donc quelques reprises de Lansquenet, ou quelques tailles de Pharaon.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Madame, je vous donne le bon jour.
+
+Hé, Madame ! Plût au Ciel que j'eusse perdu mille pistoles, et que ce malheur-là ne fût point arrivé.
+
+Madame la Comtesse ignore apparemment que le Lansquenet et le Pharaon sont défendus.
+
+Hé ! Oui, Madame, on les a défendus.
+
+Pour moi, je crois que j'aimerais mieux qu'on me défendit le boire et le manger.
+
+Hé ! Madame, je vous dis ce que tout Paris sait, ce que tout Paris dit, et ce que j'ai entendu publier ce matin sous mes fenêtres.
+
+Oui, Madame, ce sont les laquais à qui l'on défend de jouer, sous peine de mille écus d'amende.
+
+Elle a de quoi perdre, celle-là, son mari s'est mis dans les affaires ; mais je doute qu'elles soient assez bonnes pour fournir à toutes les dépenses que fait sa femme.
+
+Vous le voyez, Madame, la publication est pour tout le monde, et vous ne pouvez pas dire qu'une Marquise ne soit pas une personne de grosse qualité.
+
+Parbleu, il n'y a point à rire à cela, Mesdames.
+
+Elle est folle, Mesdames.
+
+C'est bien dit. Allons, Madame, commençons à jouer, je vous en conjure.
+
+Ah, ah, voici un assez plaisant caractère d'homme.
+
+Le pauvre diable ! Il me fait pitié.
+
+Vous ne l'auriez pas fait si vous n'aviez été bien sûr d'y trouver votre compte.
+
+Moi, parbleu, je ne dois vous payer qu'à carte laissée, faites-moi jouer si vous voulez que je m'acquitte.
+
+Cette affaire-ci est plus fâcheuse pour lui que pour un autre, et je vous assure qu'il perdra beaucoup.
+
+Cela passe l'imagination.
+
+Comment donc ! Vous ne jouez presque point, non plus que Valère.
+
+Mais cela me passe en effet, attaquer directement ces jeux-là, et souffrir tous les autres ?
+
+Serait-il possible, Mon cher Marquis, que ce n'eût été qu'une fausse alarme ?
+
+Ce manège sera découvert à la fin.
+
+Je l'approuve fort aussi, moi.
+
+Ces Messieurs-là se disent d'étranges choses.
+
+Cela mérite d'être éclairci.
+
+Votre banque était en bonne main, Madame.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+Hé cadédis, Mesdames, qu'avez-vous donc fait à ce pauvre petit Monsieur le caissier ? Il sort dans une rage épouvantable, je viens de le rencontrer ; il m'a pensé mordre.
+
+Oh très certainement, il est bien sûr qu'on n'a point fait assez réflexion sur les inconvénients qui en peuvent arriver.
+
+Je ne plaisante point, ou la peste m'étouffe : il faut savoir à combien de gens le Lansquenet et le Pharaon étaient utiles.
+
+De quelque manière qu'une Dame fît l'acquisition d'un bijou, on en faisait honneur au Lansquenet ou au Pharaon, et le mari n'avait rien à dire.
+
+Un fils de famille agiotait, passivement s'entend, il empruntait à grosses usures, faisait une dépense enragée, le père ne s'embarrassait point de cela.
+
+Moi, qui vous parle, moi, je suis à présent l'homme de France le plus embarrassé, peut-être.
+
+Je ne jouais pas, mais je paraissais jouer. Je carabinais, et j'avais beau perdre, je disais toujours en sortant, je gagne ; et cela n'était qu'un prétexte pour ménager la réputation de vingt femmes que je considère, et que voilà maintenant exposées aux traits de la médisance ; ce n'est pas de ma faute.
+
+Et tous les jeunes gens de Paris que voilà désœuvrés à l'heure qu'il est, qui vont ne savoir où donner de la tête.
+
+Oh, cadédis, n'ayez point de peur, Madame la Marquise, cela ne vous peut intéresser que par jalousie.
+
+Hé ! Que diantre vient-il de nous dire ?
+
+Sandis, il va vous proposer de jouer sur les tuiles entre les gouttières, et si quelqu'un vient nous y surprendre, on pourra le faire sauter dans la rue sans le jeter par les fenêtres.
+
+Point de repas, les vilaines assemblées ! Je ne suis point joueur de profession, mais les bals et les soupers me faisaient plaisir, je vous l'avoue.
+
+Ah ! Cadédis, voilà une Scène assez ridiculement plaisante ; comment se terminera-t-elle ?
+
+Oh cadedis, j'y regarderai bien, moi.
+
+Ah cadédis, les magasins sont bien garnis, ce n'est point un conte, et voilà un fripon qui dit vrai.
+
+Et l'autre fripon, qu'en ferons-nous ? Il mérite grâce, et récompense même.
+
+Je suis de moitié de la banque.
+
+Sandis, je le comprends bien, moi. Nous avons chassé deux fripons, il en est revenu d'autres en masques ; cette Chauve-Souris et ce Perroquet sont des oiseaux de mauvais présage : mais sandis ils ne s'envoleront pas, et je leur vais rogner les ailes ; je tiens le mien, saisissez le vôtre.
+
+Messieurs les Masques, on saura qui vous êtes.
+
+Un Gentilhomme Allemand ! C'est ce coquin de Baron.
+
+Ah sandis, Messieurs les coquins, vous rendrez gorge.
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
+Allégresse, Mesdames, allégresse, tout va pour le mieux du monde, nous jouerons malgré les jaloux, je viens vous en avertir en diligence.
+
+Non vraiment, l'alarme n'est point fausse.
+
+Non, Mesdames, il ne tiendra qu'à vous de jouer tant qu'il vous plaira, et sans craindre l'amende ni les Commissaires.
+
+Ce que j'ai à vous dire vaut mieux que tout ce que vous pouvez vous imaginer et à l'heure que je vous parle, il y a trois ou quatre grosses parties de commencées.
+
+Hors le Faubourg Saint-Antoine, mais que cela soit secret au moins.
+
+Oui, Madame, dans des carrières, on se trouvera là à certaine heure, les carrosses se tiendront à une certaine distance ; et on jouera aussi beau jeu que dans l'Hôtel le mieux meublé, je vous en réponds.
+
+Point du tout, on n'y mettra point de lampions comme dans la ville, il n'y aura point de bals point de repas.
+
+On ne s'assemblera pas toujours au même endroit, on ira de faubourg en faubourg, et de carrière en carrière
+
+Une banque de plus de deux cents louis enlevée en moins de deux tailles ?
+
+Quel mal il y a, misérable ? Tu nous voles ?
+
+
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecaissier
+
+Comment donc, Mesdames, est-ce que l'on ne joue pas aujourd'hui, je ne vois point de carrosses à la porte, personne dans le logis ? Qu'est-ce que cela veut dire ?
+
+Il n'y aurait plus ici de jeu ! Oh, parbleu, je prétends bien qu'on y joue, moi, et nous verrons si j'en aurai le démenti.
+
+Un Hôtel, Madame ! Un Hôtel, morbleu ! C'est un bois, c'est un coupe-gorge. Mais ventrebleu on y jouera comme de coutume, ou je ferai beau bruit pour mon argent.
+
+Oui, Madame, pour mon argent ; morbleu, je suis ruiné, si l'on ne joue, mais ventrebleu, vous jouerez les uns et les autres jusqu'à ce que je sois payé de ce qui m'est dû. Je suis au désespoir, voyez-vous, et j'ai voulu me pendre trois fois depuis ce matin.
+
+Monsieur, Monsieur Clitandre, vous Madame la Comtesse, et vous Madame, je vous en fais les juges, s'il vous plaît ; vous êtes des personnes raisonnables, et vous savez avec quelle bonne foi j'ai prêté mon argent au tiers et au quart depuis un certain temps.
+
+Bien sûr, Monsieur : à l'un cinquante pistoles, à l'autre deux dents, mille écus à celui-ci, quatre cents à celui-là. Il m'est dû plus de vingt-cinq mille francs à l'heure qu'il est, et je n'ai point d'autres sûretés que de mauvais billets, des cartes à postes, et la conscience de vingt fripons de profession.
+
+Oh, Madame, on jouera, je n'en serai pas la dupe. Où diantre, sans cela, pourrais-je attraper tous ceux qui me doivent ? Pour deux ou trois personnes qui se feront honneur de payer, il y en aurait cinquante dont je ne tirerais jamais un sol. Voilà Monsieur Clitandre qui me doit cent cinquante pistoles, par exemple, je sais bien pour lui qu'il ne se fera pas tirer l'oreille, mais
+
+Hé bien, Mesdames, que me feront les fripons, si les honnêtes gens en agissent de cette manière ? Oh, tête-bleu, je vous ferai tous jouer, je vous en réponds. Allons, Mesdames, des cartes, je vous prie, ou je vais tout tuer.
+
+Oh ! Ventrebleu, madame, qu'on donne des cartes encore une fois.
+
+Oui, Madame, je suis fou, et à bon titre, je suis endroit de l'être pour ce qu'il m'en coûte.
+
+C'est justement cela, Madame ! Il faudra que je rende mes comptes au premier jour, et il y aura plus de dix mille écus à dire.
+
+Hé morbleu, Madame, je vous en conjure.
+
+Tête-bleu Madame, cela n'est pas bien. Je me pendrai, j'y suis résolu, mon parti est pris ; mais je tuerai quelqu'un avant que je me pende.
+
+Non morbleu, c'est à vous, c'est vous qui avez profité de mon argent, vous m'avez engagé de le prêter aux joueurs à fin de le regagner dans la suite ; mais par la morbleu, je passerai cet article-là dans mes comptes, et vous aurez affaires aux Fermes.
+

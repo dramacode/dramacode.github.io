@@ -1,6 +1,6 @@
 ---
 identifier: boursault_germanicus  
-creator: Boursault, Edme  
+creator: Boursault, Edme ; Georges Forestier.  
 date: 1694  
 title: Germanicus. Tragédie  
 ---

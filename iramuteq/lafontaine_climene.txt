@@ -1,523 +1,46 @@
 
 
-**** *book_ *id_I01 *act_I *date_(non
+**** *creator_lafontaine *book_lafontaine_climene *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_climene *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
--*who_acanthe
-Apollon se plaignait aux neuf Soeurs, l'autre jour,
-De ne voir presque plus de bons vers sur l'amour.
-Le siècle, disait-il, a gâté cette affaire :
-Lui nous parler d'amour ! Il ne la sait pas faire.
-Ce qu'on n'a point au coeur, l'a-t-on dans ses écrits ?
-J'ai beau communiquer de l'ardeur aux esprits ;
-Les belles n'ayant pas disposé la matière,
-Amours et vers, tout est fort à la cavalière.
-Adieu donc, ô beautés ! Je garde mon emploi
-Pour les surintendants sans plus, et pour le roi.
-Je viens pourtant de voir, au bord de l'Hippocrène,
-Acanthe fort touché de certaine Clymène.
-J'en sais qui sous ce nom font valoir leurs appas ;
-Mais, quant à celle-ci, je ne la connais pas :
-Sans doute qu'en province elle a passé sa vie.
-
--*who_erato
-Sire, j'en puis parler ; c'est ma meilleure amie.
-La province, il est vrai, fut toujours son séjour ;
-Ainsi l'on n'en fait point de bruit en votre Cour.
-
--*who_uranie
-Je la connais aussi.
-
--*who_apollon
       Comment, vous, Uranie !
 En ce cas, Terpsichore, Euterpe, et Polymnie,
 Qui n'ont pas des emplois du tout si relevés,
 M'en apprendront encor plus que vous n'en savez.
 
--*who_polymnie
-Oui, sire, nous pouvons vous en parler chacune.
-
--*who_apollon
 Si ma prière n'est aux Muses importune,
 Devant moi tour à tour chantez cette beauté ;
 Mais sur de nouveaux tons, car je suis dégoûté.
 Que chacune pourtant suive son caractère.
 
--*who_euterpe
-Sire, nous nous savons toutes neuf contrefaire :
-Pour si peu laissez-nous libres sur ce point-là.
-
--*who_apollon
 Commencez donc, Euterpe, ainsi qu'il vous plaira.
 
--*who_euterpe
-Que ma compagne m'aide, et puis en dialogue,
-Nous vous ferons entendre une espèce d'églogue.
-
--*who_apollon
 Terpsichore, aidez-la mais surtout évitez
 Les traits que tant de fois l'églogue a répétés ;
 II me faut du nouveau, n'en fût-il point au monde.
 
--*who_terpsichore
-Je m'en vais commencer ; qu'Euterpe me réponde.
-Quand le soleil a fait le tour de l'univers,
-Ce n'est point d'avoir vu cent chefs-d'oeuvre divers,
-Ni d'en avoir produit, qu'à Téthys il se vante ;
-Il dit : J'ai vu Clymène, et mon âme est contente.
-
--*who_euterpe
-L'aurore vous veut voir Clymène, montrez-vous :
-Non, ne bougez du lit ; le repos est trop doux :
-Tantôt vous paraîtrez vous-même une autre aurore ;
-Mais ne vous pressez point, dormez, dormez encore.
-
--*who_terpsichore
-Au gré de tous les yeux Clymène a des appas :
-Un peu de passion est ce qu'on lui souhaite :
-Pour de l'amitié seule, elle n'en manque pas :
-Cinq ou six grains d'amour, et Clymène est parfaite.
-
--*who_euterpe
-L'amour, à ce qu'on dit, empêche de dormir :
-S'il a quelque plaisir, il ne l'a pas sans peine.
-Voyez la tourterelle, entendez-la gémir :
-Vous vous garderez bien de condamner Clymène.
-
--*who_terpsichore
-Vénus depuis longtemps est de mauvaise humeur
-Clymène lui fait ombre; et Vénus, ayant peur
-D'être mise au-dessous d'une beauté mortelle,
-Disait hier à son fils : Mais la croit-on si belle ?
-Hé oui, oui, dit l'Amour, je vous la veux montrer.
-
--*who_apollon
 Vous sortez de l'églogue.
 
--*who_euterpe
-      IL nous y faut rentrer.
-Amour en quatre parts divise son empire :
-Acanthe en fait moitié, ses rivaux plus d'un quart ;
-Ainsi plus des trois quarts pour Clymène soupire :
-Les autres belles ont le reste pour leur part.
-
--*who_terpsichore
-Tout ce que peut avoir un coeur d'indifférence,
-Clymène le témoigne : elle en a destiné
-Les trois quarts pour Acanthe ; heureux dans sa souffrance
-S'il voit qu'à ses rivaux le reste soit donné !
-
--*who_euterpe
-Ne vous semble-t-il pas que nos bois reverdissent,
-Depuis que nous chantons un si charmant objet ?
-
--*who_terpsichore
-Oiseaux, hommes et dieux, que tous chantres choisissent
-Désormais, en leurs sons, Clymène pour sujet !
-
--*who_euterpe
-Pour elle le printemps s'est habillé de roses.
-
--*who_terpsichore
-Pour elle les zéphirs en parfument les airs.
-
--*who_euterpe
-Et les oiseaux pour elle y joignent leurs concerts.
-Régnez, belle, régnez sur tant d'aimables choses.
-
--*who_terpsichore
-Aimez, Clymène, aimez ; rendez quelqu'un heureux :
-Votre règne en aura plus d'appas pour vous-même.
-
--*who_euterpe
-En ce nombre d'amants qui voulez-vous qu'elle aime ?
-
--*who_terpsichore
-Acanthe.
-
--*who_euterpe
-      Et pourquoi lui ?
-
--*who_terpsichore
-      C'est le plus amoureux.
-Sire, êtes-vous content ?
-
--*who_apollon
       Assez. Que Melpomène
 Sur un ton qui nous touche introduise Clymène.
 Vous, Thalie, il vous faut contrefaire un amant
 Qui ne veut point borner son amoureux tourment.
 
--*who_melpomene
-Mes soeurs, je suis Clymène.
-
--*who_thalie
-      Et moi, je suis Acanthe.
-
--*who_apollon
 Fort bien nous écoutons remplissez notre attente.
 
--*who_climene
-Acanthe, vous perdez votre temps et vos soins.
-Voulez-vous qu'on vous aime, aimez-nous un peu moins.
-Otez ce mot d'amour, c'est ce qu'on vous conseille.
-
--*who_acanthe
-Que je l'ôte ! Est-il rien de si doux à l'oreille ?
-Quoi ! De vous adorer Acanthe cesserait !
-Contre sa passion il vous obéirait !
-Ah ! Laissez-lui du moins son tourment pour salaire.
-Suis-je si dangereux ? Hélas! non ; si j'espère,
-Ce n'est plus d'être aimé ; tant d'heur ne m'est point dû :
-Je l'avais jusqu'ici follement prétendu.
-Mourir en vous aimant est toute mon envie :
-Mon amour m'est plus cher mille fois que la vie.
-Laissez-moi mon amour, Madame, au nom des dieux.
-
--*who_climene
-Toujours ce mot ! Toujours !
-
--*who_acanthe
-      Vous est-il odieux ?
-Que de belles voudraient n'en entendre point d'autre !
-Il charme également votre sexe et le nôtre :
-Seule vous le fuyez ; mais ne s'est-il point vu
-Quelque temps où peut-être il vous a moins déplu ?
-
--*who_climene
-L'amour, je le confesse, a traversé ma vie :
-C'est ce qui, malgré moi, me rend son ennemie.
-Après un tel aveu, je ne vous dirai pas
-Que votre passion est pour moi sans appas,
-Et que d'aucun plaisir je ne me sens touchée
-Lorsqu'à tant de respect je la vois attachée.
-Aussi peu vous dirai-je, Acanthe, écoutez bien,
-Que par vos qualités vous ne méritez rien ;
-Je les sais, je les vois, j'y trouve de quoi plaire :
-Que sert-il d'affecter le titre de sévère ?
-Je ne me vante pas d'être sage à ce point,
-Qu'un mérite amoureux ne m'embarrasse point.
-Vouloir bannir l'amour, le condamner, s'en plaindre,
-Ce n'est pas le haïr, Acanthe, c'est le craindre.
-Des plus sauvages coeurs il flatte le désir.
-Vous ne l'ôterez point sans m'ôter du plaisir :
-Nous y perdrons tous deux quand je vous le conseille,
-Je me fais violence, et prête encor l'oreille.
-Ce mot renferme en soi je ne sais quoi de doux,
-Un son qui ne déplaît à pas une de nous ;
-Mais trop de mal le suit.
-
--*who_acanthe
-      Je m'en charge, Madame :
-Ce mal est pour moi seul; j'en garantis votre âme.
-
--*who_climene
-Qui vous croirait, Acanthe, aurait un bon garant.
-Mais non, je connais trop qu'Amour n'est qu'un tyran,
-Un ennemi public, un démon, pour mieux dire.
-
--*who_acanthe
-Il ne l'est pas pour vous, cela vous doit suffire :
-Jamais il ne vous peut avoir causé d'ennui :
-Vous en prenez un autre assurément pour lui.
-S'il a quelques douceurs, elles sont pour les belles,
-Et pour nous les soucis et les peines cruelles.
-Vous n'éprouvez jamais ni dédain ni froideur :
-Quant à nous, c'est souvent le prix de notre ardeur.
-Trop de zèle nous nuit.
-
--*who_climene
-      Et pourquoi donc, Acanthe,
-Ne modérez-vous pas cette ardeur violente ?
-Aimez-vous mieux souffrir contre mon propre gré,
-Que si, m'obéissant, vous étiez bien traité ?
-Je vous rendrais heureux.
-
--*who_acanthe
-      Selon votre manière,
-Du bonheur d'un ami, d'un parent ou d'un frère ;
-Que sais-je ? De chacun : car vous savez qu'on peut
-Faire ainsi des heureux autant que l'on en veut.
-
--*who_climene
-Non, non, j'aurais pour vous beaucoup plus de tendresse.
-Vous verriez à quel point Clymène s'intéresse
-Pour tout ce qui vous touche.
-
--*who_acanthe
-      Et pour moi-même aussi ?
-
--*who_climene
-Quelle distinction mettez-vous en ceci ?
-
--*who_acanthe
-Très grande. Mais laissons à part la différence
-Aussi bien je craindrais de commettre une offense,
-Si j'avais entrepris de prouver contre vous
-Qu'autre chose est d'aimer nos qualités ou nous.
-Je vous dirai pourtant que mon amour extrême
-A pour premier objet votre personne même :
-Tout m'en semble charmant ; elle est telle qu'il faut.
-Mais, pour vos qualités, j'y trouve du défaut.
-
--*who_climene
-Dites-nous quel il est, afin qu'on s'en corrige.
-
--*who_acanthe
-Vous n'aimez point l'Amour ; vous le haïssez, dis-je ;
-Ce dieu près de votre âme a perdu tout crédit.
-
--*who_climene
-Je ne hais point l'Amour, je vous l'ai déjà dit :
-Je le crains seulement, et serais plus contente
-Si vous vouliez changer votre ardeur véhémente,
-En faire une amitié, quelque chose entre deux ;
-Un peu plus que ce n'est quand un coeur est sans feux,
-Moins aussi que l'état où le vôtre se trouve.
-
--*who_acanthe
-Tout de bon, voulez-vous que j'en fasse l'épreuve ?
-Que demain j'aime moins, et moins le jour d'après,
-Diminuant toujours, encor que vos attraits
-Augmentent en pouvoir ? Le voulez-vous, Madame?
-
--*who_climene
-Oui, puisque je l'ai dit.
-
--*who_acanthe
-      L'avez-vous dit dans l'âme ?
-
--*who_climene
-Il faut bien.
-
--*who_acanthe
-      Songez-y ; voyez si votre esprit
-Pourra voir ce déchet sans un secret dépit.
-Peu de femmes feraient des voeux pareils aux vôtres.
-
--*who_climene
-Acanthe, je suis femme aussi bien que les autres ;
-Mais je connais l'Amour, c'est assez : j'ai raison
-D'en combattre en mon coeur l'agréable poison.
-Voulez-vous procurer tant de mal à Clymène ?
-Vous l'aimez, dites-vous, et vous cherchez sa peine !
-N'allez point m'alléguer que c'est plaisir pour nous.
-Loin, bien loin tels plaisirs ; le repos est plus doux /
-Mon coeur s'en défendra ; je vous permets de croire
-Que je remporterai malgré moi la victoire.
-
--*who_apollon
 Voilà du pathétique assez pour le présent :
 Sur le même sujet donnez-nous du plaisant.
 
--*who_melpomene
-Qui ferons-nous parler?
-
--*who_apollon
       Acanthe et sa maîtresse.
 
--*who_melpomene
-Sire, il faudrait avoir pour cela plus d'adresse.
-Rendre Acanthe plaisant ! C'est un trop grand dessein.
-
--*who_apollon
 II est fou ; c'est déjà la moitié du chemin.
 
--*who_thalie
-Mais il est dans l'excès.
-
--*who_apollon
       Tant mieux ; j'en suis fort aise,
 Nous le demandons tel je ne vois rien qui plaise,
 En matière d'amour, comme les gens outrés.
 Mille exemples pourraient vous en être montrés.
 
--*who_melpomene
-Nous obéissons donc. Tu te souviens, Thalie,
-D'un matin où Clymène, en son lit endormie,
-Fut, au bruit d'un soupir, éveillée en sursaut,
-Et se mit contre Acanthe en colère aussitôt,
-Sans le voir, croyant même avoir fermé la porte.
-Mais qui pouvait, que lui, soupirer de la sorte ?
-Vraiment vous l'entendez, avecque vos hélas,
-Dit la belle ; apprenez à soupirer plus bas.
-Il eut beau s'excuser sur l'ardeur de son zèle.
-Une forge ferait moins de bruit, reprit-elle,
-Que votre coeur n'en fait ce sont tous ses plaisirs.
-Si je tourne le pied, matière de soupirs.
-Je ne vous vois jamais qu'en un chagrin extrême :
-C'est bien pour m'obliger à vous aimer de même.
-
--*who_acanthe
-Je ne le prétends pas.
-
--*who_climene
-      Seyez-vous sur ce lit.
-
--*who_acanthe
-Moi!
-
--*who_climene
-      Vous, sans répliquer.
-
--*who_acanthe
-      Souffrez...
-
--*who_climene
-      C'est assez dit.
-Là ; je vous veux voir là.
-
--*who_acanthe
-      Madame...
-
--*who_climene
-      Là, vous dis-je.
-Voyez qu'il a de mal ! Sa maîtresse l'oblige
-À s'asseoir sur un lit quelle peine pour lui !
-Savez-vous ce que c'est ? Je veux rire aujourd'hui.
-Point de discours plaintifs : bannissez, je vous prie,
-Ces soupirs à la voix du sommeil ennemie ;
-Témoignez, s'il se peut, votre amour autrement.
-Mais que veut cette main qui s'en vient brusquement?
-
--*who_acanthe
-C'est pour vous obéir, et témoigner mon zèle.
-
--*who_climene
-L'obéissance en est un peu trop ponctuelle ;
-Nous vous en dispensons : Acanthe, soyez coi.
-Si bien donc que votre âme est tout en feu pour moi ?
-
--*who_acanthe
-Tout en feu.
-
--*who_climene
-      Vous n'avez ni cesse ni relâche ?
-
--*who_acanthe
-Aucune.
-
--*who_climene
-      Toujours pleurs, soupirs comme à la tâche ?
-
--*who_acanthe
-Toujours soupirs et pleurs.
-
--*who_climene
-      J'en veux avoir pitié
-Allez, je vous promets.
-
--*who_acanthe
-      Et quoi !
-
--*who_climene
-      De l'amitié.
-
--*who_acanthe
-Ah ! Madame, faut-il railler d'un misérable !
-
--*who_climene
-Vous reprenez toujours votre ton lamentable.
-Oui, je vous veux aimer d'amitié malgré vous ;
-Mais si sensiblement, que je n'aie, entre nous,
-De là jusqu'à l'amour rien qu'un seul pas à faire.
-
--*who_acanthe
-Et quand le ferez-vous ce pas si nécessaire ?
-
--*who_climene
-Jamais.
-
--*who_acanthe
-      Reprenez donc l'offre de votre coeur.
-
--*who_climene
-Vous en aurez regret ; il a de la douceur.
-Vous feriez beaucoup mieux d'éprouver ses largesses.
-Je baise mes amis, je leur fais cent caresses :
-À l'égard des amants, tout leur est refusé.
-
--*who_acanthe
-Je ne veux point du tout, Madame, être baisé.
-Vous riez ?
-
--*who_climene
-      Le moyen de s'empêcher de rire !
-On veut baiser Acanthe ; Acanthe se retire.
-
--*who_acanthe
-Et le pourriez-vous voir traiter de son amour
-Pour un simple baiser, souvent froid, toujours court ?
-
--*who_climene
-On redouble en ce cas.
-
--*who_acanthe
-      Oui, d'autres que Climène.
-
--*who_climene
-Éprouvez-le.
-
--*who_acanthe
-      De quoi vous mettez vous en peine ?
-
--*who_climene
-Moi ? de rien.
-
--*who_acanthe
-      Cependant je vois qu'en votre esprit
-Le refus de vos dons jette un secret dépit.
-
--*who_climene
-Il est vrai, ce refus n'est pas fort à ma gloire.
-Dédaigner mes baisers ! Cela se peut-il croire ?
-Acanthe, je le vois, n'est pas fin à demi :
-Il devait aujourd'hui promettre d'être ami ;
-Demain il eût repris son premier personnage.
-
--*who_acanthe
-Et Clymène aurait pu souffrir ce badinage ?
-Un baiser n'aurait pas irrité ses esprits ?
-
--*who_climene
-Qu'importe ? L'on s'apaise, et c'est autant de pris.
-Vous en pourriez déjà compter une douzaine.
-
--*who_acanthe
-Madame, c'en est trop : à quoi bon tant de peine ?
-Pour douze d'amitié donnez-m'en un d'amour.
-
--*who_climene
-C'est perdre doublement ; je le rendrais trop court.
-
--*who_acanthe
-Mais, Madame, voyons.
-
--*who_climene
-      Mais, Acanthe, vous dis-je,
-L'amitié seulement à ces faveurs m'oblige.
-
--*who_acanthe
-Eh bien, je consens d'être ami pour un moment.
-
--*who_climene
-Sous la peau de l'ami, je craindrais que l'amant
-Ne demeurât caché pendant tout le mystère.
-L'heure sonne, il est tard ; n'avez vous point affaire ?
-
--*who_acanthe
-Non ; et quand j'en aurais, ces moments sont trop doux.
-
--*who_climene
-Je me veux habiller ; adieu, retirez-vous.
-
--*who_apollon
 Vous finissez bientôt !
 
--*who_melpomene
-      Point trop pour des pucelles.
-Ces discours leur siéent mal, et vous vous moquez d'elles.
-
--*who_apollon
 Moi, me moquer pourquoi ? J'en ouïs l'autre jour
 Deux de quinze ans parler plus savamment d'amour.
 Ce que sur vos amants je trouverais à dire
@@ -525,98 +48,23 @@ C'est qu'ils pleuraient tantôt, et vous les faites rire.
 De l'air dont ils se sont tout à l'heure expliqués,
 Ce ne sauraient être eux, s'ils ne se sont masqués.
 
--*who_melpomene
-Vous vouliez du plaisant, comment eût-on pu faire ?
-
--*who_apollon
 J'en voulais, il est vrai, mais dans leur caractère.
 
--*who_thalie
-Sire, Acanthe est un homme inégal à tel point,
-Que d'un moment à l'autre on ne le connaît point :
-Inégal en amour, en plaisir, en affaire ;
-Tantôt gai, tantôt triste ; un jour il désespère ;
-Un autre jour il croit que la chose ira bien.
-Pour vous en parler franc, nous n'y connAissons rien.
-Clymène aime à railler : toutefois, quand Acanthe
-S'abandonne aux soupirs, se plaint et se tourmente,
-La pitié qu'elle en a lui donne un sérieux
-Qui fait que l'amitié n'en va souvent que mieux.
-
--*who_apollon
 Clio, divertissez un peu la compagnie.
 
--*who_clio
-Sire, me voilà prête.
-
--*who_apollon
       Il me prend une envie
 De goûter de ce genre où Marot excellait.
 
--*who_clio
-Eh bien, sire, il vous faut donner un triolet.
-
--*who_apollon
 C'est trop ; vous nous deviez proposer un distique.
 Au reste, n'allez pas chercher ce style antique
 Dont à peine les mots s'entendent aujourd'hui :
 Montez jusqu'à Marot, et point par delà lui :
 Même son tour suffit.
 
--*who_clio
-      J'entends il reste, sire,
-Que Votre Majesté seulement daigne dire
-Ce qu'il lui plaît, ballade, épigramme, ou rondeau.
-J'aime fort les dizains.
-
--*who_apollon
       En un sujet si beau
 Le dizain est trop court ; et, vu votre matière,
 La ballade n'a point de trop ample carrière.
 
--*who_clio
-
-
-Je pris de loin Clymène l'autre fois
-Pour une Grâce en ses charmes nouvelle :
-Grâce, s'entend, la première des trois ;
-J'eusse autrement fait tort à cette belle :
-Puis approchant, et frottant ma prunelle,
-Je me repris, et dis soudainement :
-Voilà Vénus ; c'est elle assurément :
-Non, je me trompe, et mon oeil se mécompte.
-Cyprine là ? Je faille lourdement ;
-Telle n'est point la reine d'Amathonte.
-
-Voyons pourtant ; car chacun, d'une voix,
-En fait d'appas, prend Vénus pour modèle.
-Je me mis lors à compter par mes doigts
-Tous les attraits de la gente pucelle,
-Afin de voir si ceux de l'immortelle
-Y cadreraient, à peu près seulement :
-Mais le moyen ? Je n'y vins nullement,
-Trouvant ici beaucoup plus que le compte.
-Qu'est ceci, dis-je, et quel enchantement ?
-Telle n'est point la reine d'Amathonte.
-
-Acanthe vint tandis que je comptais.
-Cette beauté le fit asseoir près d'elle.
-J'entendis tout, les zéphyrs étaient cois.
-Plus de cent fois il l'appela cruelle,
-Inexorable, à l'amour trop rebelle ;
-Et le surplus que dit un pauvre amant.
-Clymène oyait cela négligemment.
-Le mot d'amour lui donnait quelque honte.
-Si de ce lieu la chronique ne ment,
-Telle n'est point la reine d'Amathonte.
-
-Ne recours plus, Acanthe, au changement.
-Loin de trouver en ce bas élément
-Quelque autre objet qui ta dame surmonte,
-Dans les palais qui sont au firmament
-Telle n'est point la reine d'Amathonte.
-
--*who_apollon
 Votre tour est venu, Calliope essayez
 Un de ces deux chemins qu'aux auteurs ont frayés
 Deux écrivains fameux ; je veux dire Malherbe,
@@ -624,11 +72,6 @@ Qui louait ses héros en un style superbe ;
 Et puis maître Vincent, qui même aurait loué
 Proserpine et Pluton en un style enjoué.
 
--*who_calliope
-Sire, vous nommez là deux trop grands personnages.
-Le moyen d'imiter sur-le-champ leurs ouvrages ?
-
--*who_apollon
 Il faut que je me sois sans doute expliqué mal .
 Car, vouloir qu'on imite aucun original
 N'est mon but, ni ne doit non plus être le vôtre,
@@ -648,47 +91,12 @@ Comme maître Vincent, dont la plume élégante
 Donnait à son encens un goût exquis et fin,
 Que n'avait pas celui qui partait d'autre main.
 
--*who_calliope
-Je vais, puisqu'il vous plaît, hasarder quelque stance.
-Si je débute mal, imposez-moi silence.
-
--*who_apollon
 Calliope manquer !
 
--*who_calliope
-      Pourquoi non ? Très souvent.
-L'ode est chose pénible, et surtout dans le grand.
-
-
-Toi, qui soumets les dieux aux passions des hommes,
-Amour, souffriras-tu qu'en ce siècle où nous sommes,
-Clymène montre un coeur insensible à tes coups?
-Cette belle devrait donner d'autres exemples
-Tu devrais l'obliger, pour l'honneur de tes temples,
-D'aimer ainsi que nous.
-
--*who_uranie
-Les Muses n'aiment pas.
-
--*who_calliope
-      Et qui les en soupçonne?
-Ce NOUS n'est pas pour nous ; je parle en la personne
-Du sexe en général, des dévotes d'amour.
-
--*who_apollon
 Calliope a raison ; qu'elle achève à son tour.
 
--*who_calliope
-J'en demeurerai là, si vous l'agréez, sire.
-On m'a fait oublier ce que je voulais dire.
-
--*who_apollon
 à vous donc, Polymnie ; entrez en lice aussi.
 
--*who_polymnie
-Sur quel ton ?
-
--*who_apollon
       Je vois bien que sur ce dernier-ci
 L'on ne réussit pas toujours comme on souhaite.
 Calliope a bien fait d'user d'une défaite ;
@@ -698,13 +106,6 @@ Horace en a de tous ; voyez ceux qui vous duisent :
 J'aime fort les auteurs qui sur lui se conduisent
 Voilà les gens qu'il faut à présent imiter.
 
--*who_polymnie
-C'est bien dit, si cela pouvait s'exécuter :
-Mais avons-nous l'esprit qu'autrefois à cet homme
-Nous savions inspirer sur le déclin de Rome ?
-Tout est trop fort déchu dans le sacré vallon.
-
--*who_apollon
 J'en conviens, jusque même au métier d'Apollon :
 Il n'est rien qui n'empire, hommes, dieux ; mais que faire ?
 Irons-nous pour cela nous cacher et nous taire ?
@@ -718,110 +119,35 @@ Où vos divinités périront, et la mienne.
 Jouons de notre reste avant que ce temps vienne.
 C'est à vous, Polymnie, à nous entretenir.
 
--*who_polymnie
-
-
-Je songeais aux moyens qu'il me faudrait tenir :
-À peine en rencontrai-je un seul qui me contente.
-Ceci vous plairait-il ? Je fais parler Acanthe.
-
-Qu'une belle est heureuse, et que de doux moments,
-Quand elle en sait user, accompagnent sa vie !
-D'un côté le miroir, de l'autre les amants,
-Tout la loue ; est-il rien de si digne d'envie ?
-
-La louange est beaucoup, l'amour est plus encor :
-Quel plaisir de compter les coeurs dont on dispose !
-L'un meurt, l'autre soupire, et l'autre en son transport
-Languit et se consumer ; est-il plus douce chose ?
-
-Clymène, usez-en bien vous n'aurez pas toujours
-Ce qui vous rend si fière et si fort redoutée ;
-Caron vous passera sans passer les Amours;
-Devant ce temps-là même ils vous auront quittée.
-
-Vous vivrez plus longtemps encor que vos attraits ;
-Je ne vous réponds pas alors d'être fidèle :
-Mes désirs languiront aussi bien que vos traits ;
-L'amant se sent déchoir aussi bien que la belle.
-
-Quand voulez-vous aimer que dans votre printemps ?
-Gardez-vous bien surtout de remettre à l'automne :
-L'hiver vient aussitôt ; rien n'arrête le temps,
-Clymène, hâtez-vous ; car il n'attend personne.
-Sire, je m'en tiens là ; bien ou mal, il suffit :
-La morale d'Horace, et non pas son esprit,
-Se peut voir en ces vers.
-
--*who_apollon
       Érato, que veut dire
 Que vous, qui d'ordinaire aimez si fort à rire,
 Demeurez taciturne, et laissez tout passer?
 
--*who_erato
-Je revois, puisqu'il faut, Sire, le confesser.
-
--*who_apollon
 Sur quoi ?
 
--*who_erato
-      Sur le débat qui s'est ému naguère.
-
--*who_apollon
 Savoir si vous aimez ?
 
--*who_erato
-      Autrefois j'étais fière
-Quand on disait que non : qu'on me vienne aujourd'hui
-Demander, Aimez-vous ? Je répondrai que oui.
-
--*who_apollon
 Pourquoi?
 
--*who_erato
-      Pour éviter le nom de Précieuse.
-
--*who_apollon
 Si cette qualité vous paraît odieuse,
 Du voeu de chasteté l'on vous dispensera.
 Choisissez un galant.
 
--*who_erato
-      Non pas, Sire, cela.
-Je veux un peu d'hymen pour colorer l'affaire.
-
--*who_apollon
 Un peu d'hymen est bon.
 
--*who_erato
-      J'en veux, et n'en veux guère.
-
--*who_apollon
 Vous vous marieriez donc, ainsi qu'au temps jadis
 Oriane épousa monseigneur Amadis ?
 
--*who_erato
-Oui, sire.
-
--*who_apollon
       La méthode, en effet, en est bonne.
 Mais encore avec qui ? Car je ne vois personne
 Qui veuille dans l'Olympe à l'hymen s'arrêter :
 Les Sylvains ne sont pas des gens pour vous tenter.
 
--*who_erato
-Je prendrais un auteur.
-
--*who_apollon
       Un auteur ? Vous, déesse ?
 Aux auteurs Érato pourrait mettre la presse.
 Ce n'est pas votre fait, pour plus d'une raison.
 Rarement un auteur demeure à la maison.
 
--*who_erato
-C'est justement cela qui m'en plaît davantage.
-
--*who_apollon
 Nous nous entretiendrons de votre mariage
 À fond une autre fois. Cependant chantez-nous,
 Non pas du sérieux, du tendre, ni du doux ;
@@ -830,77 +156,23 @@ Un jeu dont je voudrais Voiture pour modèle.
 Il excelle en cet art maître Clément et lui
 S'y prenaient beaucoup mieux que nos gens d'aujourd'hui.
 
--*who_erato
-Sire, j'en ai perdu, peu s'en faut, l'habitude ;
-Et ce genre est pour moi maintenant une étude.
-Il y faut plus de temps que le monde ne croit.
-Agréez, en la place, un dizain.
-
--*who_apollon
       Dizain, soit.
 
--*who_erato
-Mais n'est-ce point assez célébrer notre belle ?
-Quand j'aurai dit les jeux, les ris, et la séquelle,
-Les grâces, les amours ; voilà fait à peu près.
-
--*who_apollon
 Vous pourrez dire encor les charmes, les attraits,
 Les appas.
 
--*who_erato
-      Et puis quoi ?
-
--*who_apollon
       Cent et cent mille choses.
 Je ne vous ai compté ni les lis, ni les roses :
 On n'a qu'à retourner seulement ces mots-là.
 
--*who_erato
-La satire en fournit bien d'autres que cela :
-Pour un trait de louange, il en est cent de blâme.
-
--*who_apollon
 Eh bien ? Blâmez Clymène, à qui d'aucune flamme
 On ne peut désormais inspirer le désir.
 
--*who_erato
-Ce sujet est traité ; l'on vient de s'en saisir ;
-Il a servi de thèse à ma soeur Polymnie.
-
--*who_apollon
 Cela ne vous fait rien, la chose est infinie ;
 Toujours notre cabale y trouve à regratter.
 
--*who_erato
-Sire, puisqu'il vous plaît, je m'en vais le tenter.
-Ma soeur excusera si j'enchéris sur elle.
-
--*who_polymnie
-Voilà bien des façons pour une bagatelle.
-
--*who_erato
-C'est qu'elle est de commande.
-
--*who_apollon
       Eh, que coûte un dizain ?
 
--*who_erato
-Tout coûte il faut pourtant que je me mette en train.
-
-
-Clymène a tort : je suis d'avis qu'elle aime
-Notre vassal, dès demain au plus tard,
-Dès aujourd'hui, dès ce moment-ci même :
-Le temps d'aimer n'a si petite part
-Qui ne soit chère, et surtout quand on treuve
-Un bon amant, un amant à l'épreuve.
-Je sais qu'il est des amants à foison ;
-Tout en fourmille on n'en saurait que faire ;
-Mais cent méchants n'en valent pas un bon ;
-Et ce bon-là ne se rencontre guère.
-
--*who_apollon
 Il ne nous reste plus qu'Uranie, et c'est fait.
 Mais quand j'y pense bien, je trouve qu'en effet
 Tant de louange ennuie, et surtout quand on loue
@@ -925,234 +197,21 @@ Je ne rencontre ici que deux ou trois mortels,
 Encor très-peu dévots à nos sacrés autels.
 Cherchez-en la raison dans les cieux, Uranie.
 
--*who_uranie
-Sire, il n'est pas besoin, et sans l'astrologie
-Je vous dirai d'où vient ce peu d'adorateurs.
-Il est vrai que jamais on n'a vu tant d'auteurs :
-Chacun forge des vers ; mais pour la poésie,
-Cette princesse est morte, aucun ne s'en soucie.
-Avec un peu de rime, on va vous fabriquer
-Cent versificateurs en un jour, sans manquer.
-Ce langage divin, ces charmantes figures
-Qui touchaient autrefois les âmes les plus dures,
-Et par qui les rochers et les bois attirés
-Tressaillaient à des traits de l'Olympe admirés ;
-Cela, dis-je, n'est plus maintenant en usage.
-On vous méprise, et nous, et ce divin langage.
-Qu'est-ce, dit-on ? Des vers. Suffit ; le peuple y court.
-Pourquoi venir chercher ces traits en notre cour ?
-Sans cela l'on parvient à l'estime des hommes.
-
--*who_apollon
 Vous en parlez très-bien, Mais qu'entends-je ? Nous sommes
 Auprès de l'Hippoerène. Acanthe assurément
 S'entretient avec elle ; écoutons un moment.
 C'est lui, j'entends sa voix.
 
--*who_acanthe
-      Zéphyrs, de qui l'haleine
-Portait à ces échos mes soupirs et ma peine,
-Je viens de vous conter son succès glorieux .
-Portez-en quelque chose aux oreilles des dieux.
-Et toi, mon bienfaiteur, Amour, par quelle offrande
-Pourrai-je reconnaître une faveur si grande ?
-Je te dois des plaisirs compagnons des autels,
-Des plaisirs trop exquis pour de simples mortels.
-Ô vous qui visitez quelquefois cet ombrage,
-Nourrissons des neufs Soeurs...
-
--*who_apollon
       Sans doute il n'est pas sage :
 Sachons ce qu'il veut dire. Acanthe !
 
--*who_acanthe
-      Adorez-moi
-Car, si je ne suis dieu, tout au moins je suis roi.
-
--*who_erato
-Acanthe !
-
--*who_clio
-      D'aujourd'hui pensez-vous qu'il réponde ?
-Quand une rêverie agréable et profonde
-Occupe son esprit, on a beau lui parler.
-
--*who_erato
-Quand je m'enrhumerais à force d'appeler,
-Si faut-il qu'il entende. Acanthe !
-
--*who_acanthe
-Qui m'appelle ?
-
--*who_erato
-      C'est votre bonne amie Érato.
-
--*who_acanthe
-Que veut-elle ?
-
--*who_erato
-      Vous le saurez ; venez.
-
--*who_acanthe
-      Dieux ! Je vois Apollon.
-Sire, pardonnez-moi ; dans le sacré vallon
-Je ne vous croyais pas.
-
--*who_apollon
       Levez-vous, et nous dites
 Quelles sont ces faveurs, soit grandes ou petites,
 Dont le fils de Vénus a payé vos tourments.
 
--*who_acanthe
-Sire, pour obéir à vos commandements,
-Hier au soir je trouvai l'Amour près du Parnasse
-Je pense qu'il suivait quelque nymphe à la trace.
-D'aussi loin qu'il me vit Acanthe, approchez-vous,
-Cria-t-il. J'obéis. Il me dit d'un ton doux :
-Vos vers ont fait valoir mon nom et ma puissance ;
-Vous ne chantez que moi : je veux pour récompense,
-Dès demain, sans manquer, obtenir du destin
-Qu'il vous fasse trouver Clymène le matin
-Dans son lit endormie, ayant la gorge nue,
-Et certaine beauté que depuis peu j'ai vue,
-Sans dire quelle elle est ; il suffit que l'endroit
-M'a fort plu : vous verrez si c'est à juste droit.
-Vous êtes connaisseur. Au reste, en habile homme
-Usez de la faveur que vous fera le somme.
-C'est à vous de baiser ou la bouche, ou le sein,
-Ou cette autre beauté : même j'ai fait dessein
-D'en parler à Morphée, afin qu'il vous procure
-Assez de temps pour mettre à profit l'aventure.
-Vous ne pourrez baiser qu'un des trois seulement :
-Ou le sein, ou la bouche, ou cet endroit charmant.
-
--*who_erato
-Ne nous le nommez pas, afin que je devine.
-
--*who_acanthe
-Je vous le donne en deux.
-
--*who_erato
-      C'est... c'est, je m'imagine...
-
--*who_acanthe
-Quoi ?
-
--*who_erato
-      Le bras entier ?
-
--*who_acanthe
-      Non.
-
--*who_erato
-      Le pied ?
-
--*who_acanthe
-      Vous l'avez dit.
-Je l'ai vu, dit l'Amour ; il est sans contredit
-Plus blanc de la moitié que le plus blanc ivoire.
-Clymène s'éveillant, comme vous pouvez croire,
-Voudra vous témoigner d'abord quelque courroux ;
-Mais je serai présent, et rabattrai les coups ;
-Le sort et moi rendrons mouton votre tigresse.
-Amour n'a pas manqué de tenir sa promesse :
-Ce matin j'ai trouvé Clymène dans le lit.
-Sire, jusqu'à demain je n'aurais pas décrit
-Ses diverses beautés. Une couleur de roses,
-Par le somme appliquée, avait, entre autres choses,
-Rehaussé de son teint la naïve blancheur.
-Ses lis ne laissaient pas d'avoir de la fraîcheur.
-Elle avait le sein nu : je n'ai point de parole,
-Quoique dès ma jeunesse instruit dans cette école,
-Pour vous bien exprimer un double mont d'attraits.
-Quand j'aurais là-dessus épuisé tous les traits,
-Et fait pour cette gorge une blancheur nouvelle,
-Encor n'auriez-vous pas ce qui la rend si belle ;
-La descente, le tour, et le reste des lieux
-Qui pour lors m'ont fait roi (j'entends roi par les yeux,
-Car mes mains n'ont point eu de part à cette joie).
-Le sort à mes regards a mis encore en proie
-Les merveilles d'un pied, sans mentir, fait au tour.
-Figurez-vous le pied de la mère d'Amour,
-Lorsqu'allant des Tritons attirer les oeillades,
-Il dispute du prix avec ceux des Naïades.
-Vom pouvez l'avoir vu, Mars peut vous l'avoir dit :
-Quant à moi, j'ai vu, sire, au pied dont il s'agit,
-Du marbre, de l'albâtre, une plante vermeille :
-Thétis l'a, que je pense, ou doit l'avoir pareille.
-Quoi qu'il en soit, ce pied, hors des drapas échappé,
-M'a tenu fort longtemps à le voir occupé.
-Pour en venir au point où j'ai poussé l'affaire :
-Quel des trois, ai-je dit, faut-il que je préfère ?
-J'ai, si je m'en souviens, un baiser à cueillir,
-Et, par bonheur pour moi, je ne saurais faillir.
-Cette bouche m'appelle à son haleine d'ambre.
-Cupidon est entré là-dessus dans la chambre ;
-Je ne sais pas comment, car j'avais fermé tout.
-J'ai parcouru le sein de l'un à l'autre bout.
-Ceci me tente encore, ai-je dit en moi-même ;
-Et quand je serais prince, et prince à diadème,
-Une telle faveur me rendrait fortuné.
-Par caprice à la fin m'étant déterminé,
-J'ai réservé ces deux pour la première vue.
-Le pied, par sa beauté qui m'était inconnue,
-M'a fait aller à lui. Peut-être ce baiser
-M'a paru moins commun, partant plus à priser ;
-Peut-être par respect j'ai rendu cet hommage ;
-Peut-être aussi j'ai cru que le même avantage
-Ne reviendrait jamais, et qu'on ne baise pas
-Un beau pied quand on veut, trop bien d'autres appas.
-La rencontre après tout me semblait fort heureuse ;
-Même à mon sens la chose était plus amoureuse :
-De dire plus friponne, et d'aller jusque-là,
-Je n'ai garde, c'est trop j'ai, Sire, pour cela
-Trop de respect pour vous, ainsi que pour Clymène.
-Elle s'est éveillée avec assez de peine ;
-Et m'ayant entrevu, la belle et ses appas
-Se sont au même instant cachés au fond des draps.
-La honte l'a rendue un peu de temps muette ;
-Enfin, sans se tourner, ni quitter sa cachette,
-D'un ton fort sérieux et marquant son dépit :
-Je vous croyais plus sage, Acanthe, a-t-elle dit :
-Cela ne me plaît point ; sortez, et tout à l'heure.
-Amour, ai-je repris, me dit que je demeure ;
-Le voilà ; qui croirai-je ? Accordez-vous tous deux.
-Qui, l'Amour ? Pensez-vous, avec vos ris, vos jeux,
-Vos amours, m'amuser? a reparti Clymène.
-Tout doux, a dit l'Amour. Aussitôt l'inhumaine,
-Oyant la voix du dieu, s'est tournée, et changeant
-De note, prenant même un air tout engageant :
-Clymène, a-t-elle dit, tu n'es pas la plus forte ;
-C'est à toi de fermer une autre fois la porte.
-Les voilà deux ; encore un dieu s'en mêle-t-il.
-Afin qu'Acanthe sorte, eh bien, que lui faut-il ?
-Qu'il dise les faveurs dont il se juge digne.
-J'ai regardé l'Amour ; du doigt il m'a fait signe.
-Je n'ai pas entendu d'abord ce qu'il voulait ;
-Mais, me montrant les traits qu'une bouche étalait,
-Il m'a fait à la fin juger, par ce langage,
-Qu'un baiser me viendrait, si j'avais du courage.
-Or, je n'en eus jamais en qualité d'amant.
-Amour m'a dit tout bas : Baisez-la hardiment ;
-Je lui tiendrai les mains ; vous n'aurez point d'obstacle.
-Je me suis avancé : le reste est un miracle.
-Amour en fait ainsi ; ce sont coups de sa main.
-
--*who_apollon
 Comment ?
 
--*who_acanthe
-      Clymène a fait la moitié du chemin.
-
--*who_polymnie
-Que vous autres mortels êtes fous dans vos flammes !
-Les dieux obtiennent bien d'autres dons de leurs dames,
-Sans triompher ainsi.
-
--*who_acanthe
-      Polymnie, ils sont dieux.
-
--*who_apollon
 Je l'étais, et Daphné ne m'en traita pas mieux ;
 Perdons ce souvenir. Vous triomphez, Acanthe :
 Nous vous laissons, adieu ; notre troupe est contente.
+

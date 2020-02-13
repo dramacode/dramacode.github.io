@@ -1,6 +1,6 @@
 ---
 identifier: magnon_tamerlan  
-creator: Magnon, Jean  
+creator: Magnon, Jean ; Georges Forestier.  
 date: 1648  
 title: Le Grand Tamerlan et Bajazet. Tragédie  
 ---

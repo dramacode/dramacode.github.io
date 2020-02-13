@@ -1,33 +1,17 @@
 
 
-**** *book_ *id_I01 *act_I *date_1741
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
 
--*who_lacritique
 Non, c'est en vain que votre Rhétorique
 Veut me faire tremper dans un pareil projet.
 
--*who_lesuivantdapollon
-Mais considérez en l'objet,
-Vous verrez, aimable Critique,
-Qu'il est utile, et qu'il tend tout-à-fait
-À la félicité publique.
-
--*who_lacritique
 Je soutiens, moi, qu'il ne peut avoir lieu.
 
--*who_lesuivantdapollon
-Mais Apollon soutient le contraire.
-
--*who_lacritique
       Il radote.
 Si cela continue il faut qu'on le garrotte,
 Et que pour attribut désormais, à ce Dieu,
 On donne, au lieu de Lyre, une bonne marotte.
 
--*who_lesuivantdapollon
-Ayez plus de respect pour ses sages desseins.
-
--*who_lacritique
 Ce n'est pas d'aujourd'hui qu'il passe par mes mains,
 Et je le veux faire interdire ;
 Il sait que La Critique et même La Satire
@@ -37,59 +21,382 @@ N'ont jamais pu corriger les humains,
 Et prétend aujourd'hui, par un nouveau délire,
 Essayer des secours aussi vagues que vains.
 
--*who_lesuivantdapollon
-Moi, je crois que le tour que son adresse emploie
-Pourra produire un effet très heureux.
-Les hommes de tous temps furent fiers, orgueilleux,
-Et pour les corriger, il n'est point d'autre voie
-Que de présenter à leurs yeux
-Ce que leurs pareils pensent d'eux.
-Apollon vous prescrit d'être ici l'interprète
-Du jugement public sur les particuliers.
-
--*who_lacritique
 Mais, à ces motifs singuliers,
 Je suppose que je me prête,
 Qui vous dit que l'on vienne ici me consulter ?
 
--*who_lesuivantdapollon
-La curiosité, comme la vaine gloire,
-Vous fera bientôt visiter.
-Est-il mortel qui puisse croire
-Que ce qu'on dit de lui ne doive le flatter ?
-De l'Écho du Public vous prendrez donc la place.
-Apollon, du haut du Parnasse,
-Vous revêtit de cette dignité,
-Et la personnifie en vous.
-
--*who_lacritique
       La belle grâce !
 
--*who_lesuivantdapollon
-Il veut qu'à la censure on joigne l'équité.
-
--*who_lacritique
 De leurs défauts et de leur ridicule
 Rien ne les corrigera.
 
--*who_lesuivantdapollon
-Pour mieux y réussir, bannissez ce scrupule.
-C'est dans ce jardin qu'on viendra
-Interroger la nouvelle SybiLle,
-Déjà le bruit est répandu
-Qu'on doit vous consulter dans ce charmant asile,
-Je vais dire à Phœbus, que d'un esprit docile,
-À ses désirs vous avez répondu.
-
--*who_lacritique
 Arrêtez.
 
--*who_lesuivantdapollon
-      Prière inutile.
+Je vois avec plaisir de mes sujets fidèles
+En vous l'ornement et l'appui,
+J'aperçois vos desseins, vous voulez aujourd'hui
+Savoir de notre écho des histoires nouvelles,
+Afin d'en régaler ce soir
+Les amis qui viennent vous voir.
 
-**** *book_ *id_I02 *act_I *date_1741
+Mais avec de l'esprit on s'entretient, on cause.
+Ne saurait-on briller sans se montrer malin ?
+Et ne peut-on raisonner d'autre chose
+Que des travers du genre humain ?
 
--*who_belise
+Hé bien, je vais répondre à votre empressement.
+Oui, si de quelque événement
+Vous n'êtes par hasard que faiblement instruite
+Je vais vous le conter et vous pourrez en suite,
+Enchanter vos amis par ce récit charmant.
+Comme ma science est égale
+À celle de l'écho que l'on vient consulter,
+Tout aussi bien que lui je puis vous contenter.
+De quel nouveau récit faut-il qu'on vous régale ?
+
+On sait qu'hier au soir il épousa Julie.
+
+On dit que sa femme est jolie
+Qu'il l'aime uniquement et qu'il en est aimé.
+
+Nous ne le savions pas encore
+Et notre oracle apprend cela de vous.
+On parle des chagrins de la charmante Flore
+Depuis que Lisimon est devenu jaloux.
+
+C'est, n'en pas tout à fait avoir le démenti.
+Il faut du moins de ce mal incurable
+Savoir tirer un bon parti,
+Se distinguer de son semblable
+Qui bien souvent gratis s'y trouve assujetti.
+Mais je sais une autre nouvelle :
+Damis est à la fin bien reçu d'Isabelle.
+
+Mais il est tous les jours chez elle.
+
+Le trait est fin, mais il n'est pas nouveau.
+Angélique dans son château
+Depuis huit jours s'est retirée,
+Son mari l'a désespérée.
+
+Alcidamie est fort malade
+Et vient de partir pour les eaux.
+
+Mais je n'ai plus rien à vous dire.
+Et j'apprends bien plus avec vous
+Que vous ne pouvez vous instruire
+En écoutant ce que l'on sait chez nous.
+Vous avez même une science
+Dont nous ne possédons aucune connaissance.
+C'est l'art de deviner le but, l'intention
+De la plus commune action,
+Tant de sagacité n'est point à notre usage.
+
+Attendez, voulez-vous que je vous éclaircisse
+Des véritables sentiments
+Qu'ont pour vous ces amis, dont ces récits charmants
+Savent amuser la malice ?
+
+Ils disent que les traits d'une secrète envie
+Contre tout votre sexe animent vos discours
+Et que pour décrier une femme jolie
+De cent propos malins empruntant le secours,
+D'un ridicule affreux vous noircissez sa vie ;
+Que vous n'épargnez point votre meilleur amie ;
+Qu'à peine de chez vous quelqu'un s'en est allé
+De mille traits mordants ont le voit accablé,
+Que ce goût pour la raillerie
+Vous fait souvent calomnier,
+Et qu'on est à l'abri de la plaisanterie
+Qu'en se retirant le dernier.
+Que cet étrange caractère
+Éloigne de chez vous la sincère amitié,
+Et que si vous traitez l'Univers sans pitié
+Sur ce qui vous regarde il ne s'épargne guère.
+
+Cette personne est faite pour médire,
+Pour rire du prochain, et pour le faire rire.
+
+Est-ce celui dont les Métamorphoses
+Ici l'hiver dernier ont fixé son destin ?
+Ce fameux Scanderberg dont la souplesse agile
+A fait tant de fracas dans cette grande ville ?
+
+Fort bien, mais cependant un peu d'agilité,
+Ne sied point mal aux gens de votre espèce.
+
+Oui, l'esprit est du coeur la véritable route,
+Vous en avez beaucoup sans doute ?
+
+      Mais je m'y connais peu ;
+D'ailleurs de ce moment je vous vois en ce lieu,
+Je n'ai pas eu le temps d'en connaître la force.
+
+La définition est brillante.
+
+Mais qui donc êtes-vous ? Car la scène italique
+Fournit depuis un certain temps
+Si grand nombre de débutants
+Qu'on n'en distingue aucun dans la bouche publique.
+
+Et voilà le fin de l'histoire.
+L'affluence des spectateurs
+Est la pierre de touche et le sceau de la gloire,
+Des avocats et des auteurs,
+Des médecins, des marchands, des acteurs,
+Des belles, de tous ceux que leurs talents exposent
+À la censure du public.
+
+C'est justement parce qu'on vous entend,
+Que vous ne voyez plus personne.
+
+L'Italien est vieux.
+
+      Ne vaut rien.
+
+Voilà le seul moyen de vaincre la fortune.
+Elle est injuste aveugle dans son cours,
+Mais elle a souvent des retours
+Qu'elle accorde à qui l'importune.
+Mais je vous avais demandé
+Qui vous étiez ?
+
+La rencontre peut être heureuse,
+Et souvent au hasard on doit les bons succès.
+Mais dans ces lieux où vous venez exprès,
+Quel motif a conduit votre humeur curieuse ?
+Vous m'avez dit en arrivant ici
+Que vous veniez pour savoir bien des choses.
+
+Pour ce qui vous regarde ?
+
+Quoi ! Ce n'est pas pour vous...
+
+Deux genres différents ne se font nul obstacle,
+Vous pouvez l'un et l'autre avoir d'heureux talents.
+
+Voilà comme on pense aujourd'hui ;
+Chacun n'est occupé que des défauts des autres.
+Je le pardonnerais, si les fautes d'autrui
+Pouvaient nous corriger des nôtres ;
+Mais cela ne se peut, et par bonne raison,
+Nos défauts et l'amour que l'on a pour soi-même,
+Ont une intime liaison,
+Et comme l'on ne peut condamner ce qu'on aime,
+On blâme son voisin, sans y connaître même
+Et notre exemple et sa comparaison.
+
+L'horreur et le mépris qu'inspirent les travers
+Sont de l'humanité les plus grands avantages.
+Tous les hommes de l'Univers
+Seraient heureux, s'ils étaient sages.
+
+Non, mais de vos talents voulez-vous voir la liste ?
+
+Tenez, voilà votre, confrère.
+
+Vous devez pardonner les désirs.
+
+C'est se louer avec esprit,
+Et la façon en est avantageuse,
+La louange souvent devient pernicieuse,
+Mais celle-ci peut tourner à profit.
+Vous voulez donc savoir ce que de vous l'on pense ?
+
+Expliquons-nous, est-ce pour corriger
+Vos défauts, si l'on vous en trouve ?
+
+Il est plus glorieux cent fois de s'éclairer
+Sur des défauts que l'on corrige,
+Que de se voir trop admirer
+Pour des talents qu'en suite l'on néglige.
+
+C'est le public qui cause ce malheur,
+Par la même raison qui le rend favorable
+Aux talents d'un passable acteur,
+Il lui doit être inexorable
+S'il abuse de la faveur
+Dont il ne doit user que pour être agréable.
+Mais le public, (il ne nous entend pas,
+Et je puis là-dessus dire ce que je pense,)
+Gâte par trop de complaisance
+Nombre d'acteurs dont il fait trop de cas,
+Et souvent faute d'indulgence
+Étouffe des talents dont il pourrait jouir,
+Pour peu qu'il eût la patience
+De les laisser s'épanouir.
+
+Messieurs !
+
+C'est jouer fort bien la colère.
+
+      Il n'est pas nécessaire,
+Et vous avez tous deux prononcé votre arrêt.
+
+Les compliments que l'un à l'autre
+En arrivant vous vous êtes poussés,
+De la façon dont ils étaient pensés,
+Font votre portrait et le vôtre.
+
+De ce jeune orgueilleux, qui n'a pas lieu de l'être,
+Je veux humilier l'extrême vanité.
+
+Moi, Monsieur, je n'ai pas l'honneur de vous connaître.
+
+Non vraiment ?
+
+      Non plus.
+
+Je n'en étais point informée.
+Mais puisque vous courez de si nobles hasards,
+Quel est votre emploi ? Mousquetaire ?
+C'est là que la jeunesse encliné au militaire,
+S'endurcit aux travaux de Mars.
+
+Voila bien du sang répandu,
+Et je conviens que sans le volontaire
+Le corps d'armée était perdu.
+
+Vos exploits ? Pas un mot.
+
+On ne les a jamais appris.
+
+Eussiez-vous encor vu l'Espagne,
+Vos exploits n'ont jamais percé dans ce séjour.
+
+Qu'elle pleurait un jeune Colonel
+Qui seul la retient dans sa chaîne.
+
+On a parlé d'un jeune fat
+Qui s'est fait enlever lui-même,
+Serait-ce vous ?
+
+Oui, sous votre nom on l'ignore,
+Et vous devez être charmé
+Qu'un objet digne d'être aimé
+Soit à l'abri d'un coup qui déshonore.
+
+Je n'en ouïs jamais faire l'apologie.
+
+      On en rit.
+
+Que vous ne l'avez pas payé.
+
+On ne doit point s'en prendre à l'interprète,
+Mais d'après moi je vais donc vous parler
+Avec une exacte franchise.
+Une vertu qu'on veut trop étaler
+Ne mérite pas qu'on la prise.
+Elle se fait tympaniser
+Pour peu qu'elle soit fanfaronne,
+Et le public malin se plaît à refuser
+Ce qu'à soi-même l'on se donne.
+Rabattez-donc de cette vanité,
+À tant d'honnêtes gens funeste,
+Joignez à l'intrépidité
+L'heureux talent d'être modeste.
+Si de vous faire aimer vous trouvez le secret,
+Dans votre coeur renfermez cette gloire,
+Et sachez qu'en amour un vainqueur indiscret
+Bien loin de triompher, avilit sa victoire,
+Puisqu'on en méprise l'objet.
+À la discrétion ajoutez la constance.
+Sur votre esprit et sur votre naissance...
+
+Je vous parle de vous, d'où naît donc votre ennui ?
+
+Quel est cet homme sérieux
+Qui tout près de moi se promène,
+Et qui ne daigne pas sur moi jeter les yeux ?
+Il est original, sachons ce qui l'amène.
+Monsieur, puis-je, sans vous fâcher,
+Pour un moment vous arracher
+À cette sombre rêverie ?
+À ma curiosité
+Répondez, je vous en prie,
+Que faites vous tout seul ?
+
+Je vous plains fort en vérité,
+Mais à ce triste état n'est-il point de remède ?
+Et ce jardin par sa beauté
+Ne peut-il adoucir l'ennui qui vous possède ?
+
+D'où vous vient ce dégoût ? Les spectacles, je pense,
+Sont tels qu'ils étaient autrefois.
+
+Je vois que votre esprit s'occupe
+À chercher partout du nouveau,
+Mais de ce sentiment on est souvent la dupe
+Le nouveau n'est pas toujours beau.
+Ne vaut-il pas bien mieux voir ces divins ouvrages
+Qu'on a de tous temps admirés
+Qui font le désespoir de ces auteurs peu sages,
+Dont les pas chancelants et souvent égarés,
+Courent après l'esprit dans leurs vers bigarrés
+Et ne font que rimer les ennuyeuses pages
+Des romans les plus ignorés.
+
+Je ne puis seconder le désir qui vous guide.
+Par une critique solide
+J'effraye les auteurs loin de les animer,
+C'est mon emploi de les tenir en bride ;
+Mais vainement mon œil les intimide,
+Leur amour propre a soin de rallumer,
+Malgré ma censure rigide,
+La fureur qu'ils ont de rimer.
+
+Mais j'aperçois quel qu'un dont la veine fertile
+Ne veut point rester inutile.
+Le feu que dans ses yeux je vois étinceller
+Me fait juger qu'il va vous consoler.
+
+Dites-nous donc votre projet ;
+De l'avis de Monsieur, je serai secondée,
+Devant ce connaisseur expliquez votre idée.
+
+C'est par là cependant qu'il faudrait commencer.
+
+En quoi donc notre avis peut-il vous être utile ?
+
+Certes, à le deviner j'aurais eu de la peine.
+Mais vous vous repaissez d'une espérance vaine,
+Et de l'invention vous n'avez pas l'honneur.
+Une actrice agréable et finement placée,
+L'an passé soutint le bonheur
+D'une pièce flatteuse où toujours la pensée
+Sans éblouir l'esprit, arrivait droit au coeur.
+Comme trois acteurs seuls la jouaient toute entière,
+Vous prétendez enchérir là-dessus ;
+Mais l'imitation fut toujours un abus.
+Un seul a pu fournir cette heureuse carrière.
+Ne montrer qu'un acteur le coup est hasardeux ;
+Songez-y bien, quelque bon qu'il puisse être,
+D'un public assemblé l'on n'est pas toujours maître.
+
+Non, je ne puis approuver vos projets.
+Votre conduite est sage et prise avec adresse ;
+Mais, croyez-moi, variez les objets,
+C'est-là des bons auteurs la parfaite science.
+L'intérêt a plus de puissance
+Quand il est répandu sur différents sujets :
+Eh ! pourquoi prendre une peine inutile ?
+Pourquoi de la variété,
+Fuyant le sentier usité,
+Se donner la torture à devenir stérile ?
+
+À Corriger les faiblesses humaines,
+Le Seigneur Apollon perdra toujours son temps.
+Mes démarches ont été vaines ;
+Mais quel bonheur, Messieurs, quel doux fruit de mes peines ?
+Si j'ai pu vous flatter pendant quelques instants !
+Vous qui suivez sa Cour, enfants de Terpsicore,
+Venez former des pas badins,
+Et que vos jeux, dans ces jardins,
+Annoncent le retour de Flore.
+
+
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+
 Déesse permettez qu'en ce moment heureux.
 Mon coeur vous témoigne sa joie,
 Votre retour ici met le comble à mes vœux
@@ -103,15 +410,6 @@ Des conversations ranimer la gaîté,
 Et joindre l'agrément de la plaisanterie
 Au piquant de la vérité.
 
--*who_lacritique
-Je vois avec plaisir de mes sujets fidèles
-En vous l'ornement et l'appui,
-J'aperçois vos desseins, vous voulez aujourd'hui
-Savoir de notre écho des histoires nouvelles,
-Afin d'en régaler ce soir
-Les amis qui viennent vous voir.
-
--*who_belise
 Oui, c'est-là ce que je désire,
 On s'assemble pour se parler
 Et les trois quarts du temps on n'a rien à se dire ;
@@ -121,13 +419,6 @@ On s'est en vain promis une soirée aimable,
 Et l'on se quitte tristement
 Sans avoir pu goûter le moindre amusement.
 
--*who_lacritique
-Mais avec de l'esprit on s'entretient, on cause.
-Ne saurait-on briller sans se montrer malin ?
-Et ne peut-on raisonner d'autre chose
-Que des travers du genre humain ?
-
--*who_belise
 Eh ! De quoi donc ? Voyons. Considérez, de grâce,
 Si sur d'autres sujets on peut s'entretenir.
 De parler de spectacle à la fin on se lasse,
@@ -145,32 +436,11 @@ Quels entretiens peuvent être les nôtres ?
 C'est un travers affreux que de parler de soi,
 Il faut bien qu'on parle des autres.
 
--*who_lacritique
-Hé bien, je vais répondre à votre empressement.
-Oui, si de quelque événement
-Vous n'êtes par hasard que faiblement instruite
-Je vais vous le conter et vous pourrez en suite,
-Enchanter vos amis par ce récit charmant.
-Comme ma science est égale
-À celle de l'écho que l'on vient consulter,
-Tout aussi bien que lui je puis vous contenter.
-De quel nouveau récit faut-il qu'on vous régale ?
-
--*who_belise
 Du jeune Dorilas a-t-on déjà parlé ?
 
--*who_lacritique
-On sait qu'hier au soir il épousa Julie.
-
--*who_belise
 Oui, mais n'a-t-on pas démêlé
 Le singulier motif de l'hymen qui les lie ?
 
--*who_lacritique
-On dit que sa femme est jolie
-Qu'il l'aime uniquement et qu'il en est aimé.
-
--*who_belise
 On ne sait que cela ? L'on est mal informé,
 Je vous en dirai davantage.
 La Baronne Araminte a fait ce mariage
@@ -191,13 +461,6 @@ Par ce manège adroit elle croit être sûre
 D'éteindre en sa naissance une si vive ardeur
 Et ramener l'amant qui faisait son bonheur.
 
--*who_lacritique
-Nous ne le savions pas encore
-Et notre oracle apprend cela de vous.
-On parle des chagrins de la charmante Flore
-Depuis que Lisimon est devenu jaloux.
-
--*who_belise
 Son mari ? point du tout, il est époux commode
 Et voit avec plaisir Polisandre chez lui.
 De ce riche fermier il recherche l'appui,
@@ -209,22 +472,8 @@ Lui laisse pleine liberté
 De choisir des amants pour son utilité,
 Mais en tout autre cas, il est d'humeur jalouse.
 
--*who_lacritique
-C'est, n'en pas tout à fait avoir le démenti.
-Il faut du moins de ce mal incurable
-Savoir tirer un bon parti,
-Se distinguer de son semblable
-Qui bien souvent gratis s'y trouve assujetti.
-Mais je sais une autre nouvelle :
-Damis est à la fin bien reçu d'Isabelle.
-
--*who_belise
 Oh ! Point du tout, jamais on n'a pu le souffrir.
 
--*who_lacritique
-Mais il est tous les jours chez elle.
-
--*who_belise
 Oui, mais de leurs raisons je vais vous éclaircir.
 Damis l'a longtemps poursuivie,
 Et n'a jamais pu réussir
@@ -250,24 +499,12 @@ Et le galant qu'elle méprise,
 Sert à cacher adroitement
 Celui que son coeur favorise.
 
--*who_lacritique
-Le trait est fin, mais il n'est pas nouveau.
-Angélique dans son château
-Depuis huit jours s'est retirée,
-Son mari l'a désespérée.
-
--*who_belise
 Non, de son désespoir le sujet est plus beau,
 L'ingrat Chevalier l'abandonne,
 Elle ne veut plus voir personne,
 Mais elle s'en consolera,
 Et dans huit autres jours elle reparaîtra.
 
--*who_lacritique
-Alcidamie est fort malade
-Et vient de partir pour les eaux.
-
--*who_belise
 Mais oui, déjà cette promenade
 Soulagera beaucoup ses maux.
 La terre du Marquis est dans la Normandie,
@@ -275,50 +512,12 @@ Et l'air en est doux tout à fait,
 Nous la verrons de dix ans rajeunie
 Quand ce voyage sera fait.
 
--*who_lacritique
-Mais je n'ai plus rien à vous dire.
-Et j'apprends bien plus avec vous
-Que vous ne pouvez vous instruire
-En écoutant ce que l'on sait chez nous.
-Vous avez même une science
-Dont nous ne possédons aucune connaissance.
-C'est l'art de deviner le but, l'intention
-De la plus commune action,
-Tant de sagacité n'est point à notre usage.
-
--*who_belise
 Quoi ! J'aurai le désavantage
 De n'obtenir de vous aucune instruction ?
 
--*who_lacritique
-Attendez, voulez-vous que je vous éclaircisse
-Des véritables sentiments
-Qu'ont pour vous ces amis, dont ces récits charmants
-Savent amuser la malice ?
-
--*who_belise
 Oui, Déesse, je le veux bien.
 Surtout, si vous m'aimez, ne me déguisez rien.
 
--*who_lacritique
-Ils disent que les traits d'une secrète envie
-Contre tout votre sexe animent vos discours
-Et que pour décrier une femme jolie
-De cent propos malins empruntant le secours,
-D'un ridicule affreux vous noircissez sa vie ;
-Que vous n'épargnez point votre meilleur amie ;
-Qu'à peine de chez vous quelqu'un s'en est allé
-De mille traits mordants ont le voit accablé,
-Que ce goût pour la raillerie
-Vous fait souvent calomnier,
-Et qu'on est à l'abri de la plaisanterie
-Qu'en se retirant le dernier.
-Que cet étrange caractère
-Éloigne de chez vous la sincère amitié,
-Et que si vous traitez l'Univers sans pitié
-Sur ce qui vous regarde il ne s'épargne guère.
-
--*who_belise
 La sincère amitié qui jadis me flattait,
 Sans jamais la trouver je l'ai toujours cherchée.
 J'ai vu que son nom seul dans le monde existait
@@ -332,70 +531,32 @@ Quand je dirais du bien de toute la nature
 La médisance et l'imposture
 Ne m'en épargneraient pas plus.
 
--*who_lacritique
-Cette personne est faite pour médire,
-Pour rire du prochain, et pour le faire rire.
 
-**** *book_ *id_I03 *act_I *date_1741
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinfrancais
 
--*who_larlequinfrancais
 Je viens ici pour savoir bien des choses.
 En premier lieu vous voyez Arlequin.
 
--*who_lacritique
-Est-ce celui dont les Métamorphoses
-Ici l'hiver dernier ont fixé son destin ?
-Ce fameux Scanderberg dont la souplesse agile
-A fait tant de fracas dans cette grande ville ?
-
--*who_larlequinfrancais
 Fi donc ! Je suis bien homme à me casser le cou.
 Je crois toujours être de verre,
 De me risquer ainsi, je ne suis pas si fou.
 Je suis Arlequin terre à terre.
 Ma prudence est un frein à ma témérité.
 
--*who_lacritique
-Fort bien, mais cependant un peu d'agilité,
-Ne sied point mal aux gens de votre espèce.
-
--*who_larlequinfrancais
 Abus, c'est dans l'esprit qu'il faut de la souplesse,
 Dans le geste, dans le maintien,
 Mais dans le corps ? Elle ne sert à rien.
 
--*who_lacritique
-Oui, l'esprit est du coeur la véritable route,
-Vous en avez beaucoup sans doute ?
-
--*who_larlequinfrancais
 Ne le voyez-vous pas ?
 
--*who_lacritique
-      Mais je m'y connais peu ;
-D'ailleurs de ce moment je vous vois en ce lieu,
-Je n'ai pas eu le temps d'en connaître la force.
-
--*who_larlequinfrancais
 À votre jugement vous donnez une entorse,
 Un mot suffit à pareil jeu ;
 Et comme l'esprit est un feu,
 On doit sentir le coup voyant partir l'amorce.
 
--*who_lacritique
-La définition est brillante.
-
--*who_larlequinfrancais
       Vraiment
 Je définis toujours par argument.
 
--*who_lacritique
-Mais qui donc êtes-vous ? Car la scène italique
-Fournit depuis un certain temps
-Si grand nombre de débutants
-Qu'on n'en distingue aucun dans la bouche publique.
-
--*who_larlequinfrancais
 Le trait est des plus insultants,
 Et plus injuste encor que satyrique.
 Nos débutants ont tous fait leur devoir :
@@ -403,16 +564,6 @@ Il n'en est point entre eux qui ne soit passé maître,
 Et si l'on manque à nous connaître,
 C'est faute de nous venir voir.
 
--*who_lacritique
-Et voilà le fin de l'histoire.
-L'affluence des spectateurs
-Est la pierre de touche et le sceau de la gloire,
-Des avocats et des auteurs,
-Des médecins, des marchands, des acteurs,
-Des belles, de tous ceux que leurs talents exposent
-À la censure du public.
-
--*who_larlequinfrancais
 Les préjugés vous en imposent,
 Et de l'esprit du temps vous avez pris le tic,
 Tout est mode aujourd'hui, toute mode est caprice ;
@@ -435,38 +586,16 @@ Le tout parce qu'alors nous venions d'Italie,
 Et maintenant, c'est ce qui me surprend,
 Nous parlons bon français et l'on nous abandonne.
 
--*who_lacritique
-C'est justement parce qu'on vous entend,
-Que vous ne voyez plus personne.
-
--*who_larlequinfrancais
 Hé bien, qu'on vienne donc à notre Italien.
 
--*who_lacritique
-L'Italien est vieux.
-
--*who_larlequinfrancais
       Le Français.
 
--*who_lacritique
-      Ne vaut rien.
-
--*who_larlequinfrancais
 Vous nous accommodez, Madame, en taille douce.
 Mais ventrebleu, notre tour viendra,
 Si contre nous le destin se courrouce,
 Le zèle ardent qui nous guide et nous pousse,
 De ce courroux triomphera.
 
--*who_lacritique
-Voilà le seul moyen de vaincre la fortune.
-Elle est injuste aveugle dans son cours,
-Mais elle a souvent des retours
-Qu'elle accorde à qui l'importune.
-Mais je vous avais demandé
-Qui vous étiez ?
-
--*who_larlequinfrancais
       Je suis Madame
 Un Arlequin un peu dégingandé
 Que le désir de plaire enflamme.
@@ -476,38 +605,16 @@ On m'y reçût d'un air entre doux et hagard,
 Et dans tout ceci, je vous jure,
 Le cas fortuit a grande part.
 
--*who_lacritique
-La rencontre peut être heureuse,
-Et souvent au hasard on doit les bons succès.
-Mais dans ces lieux où vous venez exprès,
-Quel motif a conduit votre humeur curieuse ?
-Vous m'avez dit en arrivant ici
-Que vous veniez pour savoir bien des choses.
-
--*who_larlequinfrancais
 C'est l'écho du Public qui me met en souci.
 
--*who_lacritique
-Pour ce qui vous regarde ?
-
--*who_larlequinfrancais
       Oh non, j'ai d'autres causes.
 
--*who_lacritique
-Quoi ! Ce n'est pas pour vous...
-
--*who_larlequinfrancais
       C'est sur mon concurrent
 Que je viens consulter l'Oracle.
 Tous deux d'un genre différent,
 Et tous deux au même spectacle
 Je voudrais bien savoir la façon dont il prend.
 
--*who_lacritique
-Deux genres différents ne se font nul obstacle,
-Vous pouvez l'un et l'autre avoir d'heureux talents.
-
--*who_larlequinfrancais
 Je sais que l'un de nous en compte d'excellents,
 Mais satisfaites, je vous prie,
 Un petit grain de curiosité.
@@ -515,19 +622,6 @@ De notre Arlequin d'Italie
 Dites-moi les défauts avec sincérité.
 Je n'aime point la flatterie.
 
--*who_lacritique
-Voilà comme on pense aujourd'hui ;
-Chacun n'est occupé que des défauts des autres.
-Je le pardonnerais, si les fautes d'autrui
-Pouvaient nous corriger des nôtres ;
-Mais cela ne se peut, et par bonne raison,
-Nos défauts et l'amour que l'on a pour soi-même,
-Ont une intime liaison,
-Et comme l'on ne peut condamner ce qu'on aime,
-On blâme son voisin, sans y connaître même
-Et notre exemple et sa comparaison.
-
--*who_larlequinfrancais
 C'est assez le commun système,
 Mais puisqu'il est ainsi nous serions trop de temps
 À refondre un abus qui vient de la nature.
@@ -542,46 +636,14 @@ Faites paraître les plaisirs,
 Satisfaites tous les désirs ;
 Votre morale alors pourra faire fortune.
 
--*who_lacritique
-L'horreur et le mépris qu'inspirent les travers
-Sont de l'humanité les plus grands avantages.
-Tous les hommes de l'Univers
-Seraient heureux, s'ils étaient sages.
-
--*who_larlequinfrancais
 Vous ne voulez donc pas m'apprendre ce qu'on dit
 D'Arlequin mon antagoniste ?
 
--*who_lacritique
-Non, mais de vos talents voulez-vous voir la liste ?
-
--*who_larlequinfrancais
 Je les connais, et cela suffit.
 
--*who_lacritique
-Tenez, voilà votre, confrère.
-
--*who_larlequinfrancais
 Qui peut le conduire en ces lieux ?
 Que prétend-il ? Et qu'est-ce qu'il espère ?
 
--*who_lacritique
-Vous devez pardonner les désirs.
-
-**** *book_ *id_I04 *act_I *date_1741
-
--*who_larlequinitalien
-Montrez-moi mon panégyrique,
-Peste soit de ces mots français
-Qu'il faut prononcer à trois fois ;
-Que chante-t-on de nous, dans la bouche publique ?
-Que dit le Grand Seigneur ? Que pense le Bourgeois ?
-Ah vous voilà mon cher, faites qu'il se retire,
-Vous voyez devant vous un excellent bouffon,
-Il sait se démener de la bonne façon.
-Je ne le vois jamais sans rire.
-
--*who_larlequinfrancais
 Défaites-vous de ce franc polisson.
 Que votre compliment soit éloge ou satyre,
 Je dois rendre justice à vos perfections.
@@ -594,7 +656,79 @@ Il sont justes, badins, choisis,
 Oui, votre jeu muet entraîne mon suffrage,
 Si je vous entendais, ce serait encor pis.
 
--*who_larlequinitalien
+Voudrait-il me railler !
+      C'est un honneur insigne
+De se voir applaudir par un maître de l'art.
+Mais vous vous dépouillez de la plus grande part
+Des qualités dont je ne suis pas digne.
+Il est certain qu'à cet égard
+Je ne suis que l'oison, et vous êtes le cygne.
+
+C'est des comédiens l'usage accoutumé,
+Ils sont comme le petit maître
+Qui, du moment qu'il est aimé,
+Ne s'embarrasse plus de mériter de l'être.
+
+Oui, je conviens de ce principe,
+Il chérit des sujets qu'il devrait abaisser,
+Et bien souvent il prend en grippe
+De fort jolis acteurs qu'il devrait caresser.
+
+Bon, c'est la nouveauté dont il est idolâtre,
+Qui vous fit recevoir des suffrages légers,
+D'ailleurs la Nation jusques sur le théâtre
+Veut faire honneur aux étrangers.
+Vous voyez bien que votre réussite
+A cessé malgré son fracas.
+
+La disette de Compagnie.
+
+Visite de cérémonie
+Où l'on baille avant de s'asseoir.
+
+Il faut s'en prendre aux auteurs d'à présent
+Que ne m'ont-ils donné des rôles
+Comme autrefois, badins, légers et drôles,
+J'aurais été fort amusant,
+Mais ces Messieurs, guidés par le caprice,
+La prévention, l'injustice,
+Ou ne m'en donnent point, ou m'en font de mauvais.
+
+À votre tour, l'insolence est extrême,
+Et je pourrais...
+
+      Ventrebleu !
+
+      Prends garde à toi, toi-même.
+
+      Ce n'est qu'une scène de jeu,
+Je respecte le sexe.
+
+Pour le punir de sa témérité
+Qu'entre nous deux votre bouche prononce,
+L'organe de la vérité
+Le confondra par sa réponse.
+
+      Te voilà tondu.
+Parlez.
+
+Expliquez-vous mieux, s'il vous plaît.
+
+      C'en est assez.
+
+
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinitalien
+
+Montrez-moi mon panégyrique,
+Peste soit de ces mots français
+Qu'il faut prononcer à trois fois ;
+Que chante-t-on de nous, dans la bouche publique ?
+Que dit le Grand Seigneur ? Que pense le Bourgeois ?
+Ah vous voilà mon cher, faites qu'il se retire,
+Vous voyez devant vous un excellent bouffon,
+Il sait se démener de la bonne façon.
+Je ne le vois jamais sans rire.
+
 Pour moi, je sais assez de la langue française
 Pour connaître le fin de vos traits délicats,
 Vous suppléez par quelque parenthèse
@@ -606,190 +740,50 @@ On peut vous appeler un arlequin dispos,
 Ce qui m'en plaît le plus, soit geste, soit grimace,
 Chez vous également tout se fait à propos.
 
--*who_larlequinfrancais
-Voudrait-il me railler !
-      C'est un honneur insigne
-De se voir applaudir par un maître de l'art.
-Mais vous vous dépouillez de la plus grande part
-Des qualités dont je ne suis pas digne.
-Il est certain qu'à cet égard
-Je ne suis que l'oison, et vous êtes le cygne.
-
--*who_lacritique
-C'est se louer avec esprit,
-Et la façon en est avantageuse,
-La louange souvent devient pernicieuse,
-Mais celle-ci peut tourner à profit.
-Vous voulez donc savoir ce que de vous l'on pense ?
-
--*who_larlequinitalien
 Oui, je veux apprendre ma chance.
 
--*who_lacritique
-Expliquons-nous, est-ce pour corriger
-Vos défauts, si l'on vous en trouve ?
-
--*who_larlequinitalien
 Je ne viens point ici pour m'affliger,
 Et ne veux rien savoir si l'on me désapprouve.
 
--*who_lacritique
-Il est plus glorieux cent fois de s'éclairer
-Sur des défauts que l'on corrige,
-Que de se voir trop admirer
-Pour des talents qu'en suite l'on néglige.
-
--*who_larlequinfrancais
-C'est des comédiens l'usage accoutumé,
-Ils sont comme le petit maître
-Qui, du moment qu'il est aimé,
-Ne s'embarrasse plus de mériter de l'être.
-
--*who_lacritique
-C'est le public qui cause ce malheur,
-Par la même raison qui le rend favorable
-Aux talents d'un passable acteur,
-Il lui doit être inexorable
-S'il abuse de la faveur
-Dont il ne doit user que pour être agréable.
-Mais le public, (il ne nous entend pas,
-Et je puis là-dessus dire ce que je pense,)
-Gâte par trop de complaisance
-Nombre d'acteurs dont il fait trop de cas,
-Et souvent faute d'indulgence
-Étouffe des talents dont il pourrait jouir,
-Pour peu qu'il eût la patience
-De les laisser s'épanouir.
-
--*who_larlequinfrancais
-Oui, je conviens de ce principe,
-Il chérit des sujets qu'il devrait abaisser,
-Et bien souvent il prend en grippe
-De fort jolis acteurs qu'il devrait caresser.
-
--*who_larlequinitalien
 Pour moi je le crois juste en tout ce qu'il décide,
 Et j'en ai pour témoins les éclats et les ris
 Dont il flatta le zèle qui me guide
 Quand je débutai dans Paris.
 
--*who_larlequinfrancais
-Bon, c'est la nouveauté dont il est idolâtre,
-Qui vous fit recevoir des suffrages légers,
-D'ailleurs la Nation jusques sur le théâtre
-Veut faire honneur aux étrangers.
-Vous voyez bien que votre réussite
-A cessé malgré son fracas.
-
--*who_larlequinitalien
 C'est qu'on s'accoutume au mérite.
 
--*who_larlequinitalien
 On s'accoutume, soit, on ne s'en lasse pas.
 
--*who_larlequinitalien
 Qui vous a dit qu'on en soit las ?
 
--*who_larlequinfrancais
-La disette de Compagnie.
-
--*who_larlequinitalien
 On vient encor souvent me voir.
 
--*who_larlequinfrancais
-Visite de cérémonie
-Où l'on baille avant de s'asseoir.
-
--*who_larlequinitalien
 Ah ! Mon cher, vous cassez les vitres,
 Mais j'ai du moins, par mes succès,
 Enflé l'orgueil de nos registres,
 Vous n'avez point à beaucoup près
 À nous montrer de pareils titres.
 
--*who_larlequinfrancais
-Il faut s'en prendre aux auteurs d'à présent
-Que ne m'ont-ils donné des rôles
-Comme autrefois, badins, légers et drôles,
-J'aurais été fort amusant,
-Mais ces Messieurs, guidés par le caprice,
-La prévention, l'injustice,
-Ou ne m'en donnent point, ou m'en font de mauvais.
-
--*who_larlequinitalien
 Ils travaillent pour leurs sujets.
 
--*who_larlequinfrancais
-À votre tour, l'insolence est extrême,
-Et je pourrais...
-
--*who_larlequinitalien
       Cospeton !
 
--*who_larlequinfrancais
-      Ventrebleu !
-
--*who_larlequinitalien
 Prends garde à toi.
 
--*who_larlequinfrancais
-      Prends garde à toi, toi-même.
-
--*who_lacritique
-Messieurs !
-
--*who_larlequinfrancais
-      Ce n'est qu'une scène de jeu,
-Je respecte le sexe.
-
--*who_larlequinitalien
       Et moi je le révère.
 
--*who_lacritique
-C'est jouer fort bien la colère.
-
--*who_larlequinfrancais
-Pour le punir de sa témérité
-Qu'entre nous deux votre bouche prononce,
-L'organe de la vérité
-Le confondra par sa réponse.
-
--*who_larlequinitalien
 Je le veux bien, crains d'être confondu.
 J'écoute.
 
--*who_larlequinfrancais
-      Te voilà tondu.
-Parlez.
-
--*who_larlequinitalien
       Je vous en prie.
 
--*who_lacritique
-      Il n'est pas nécessaire,
-Et vous avez tous deux prononcé votre arrêt.
-
--*who_larlequinitalien
 Comment cela se peut-il faire ?
 
--*who_larlequinfrancais
-Expliquez-vous mieux, s'il vous plaît.
-
--*who_lacritique
-Les compliments que l'un à l'autre
-En arrivant vous vous êtes poussés,
-De la façon dont ils étaient pensés,
-Font votre portrait et le vôtre.
-
--*who_larlequinitalien
 Je vous entends.
 
--*who_larlequinfrancais
-      C'en est assez.
 
-**** *book_ *id_I05 *act_I *date_1741
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
--*who_lemarquis
 Parbleu, Déesse ; sans mentir,
 Je vous donne bien de la peine,
 Je mets l'écho tout hors d'haleine,
@@ -803,32 +797,15 @@ Mais qu'y faire ? Quand la victoire
 D'une palme éclatante offre l'illustre prix,
 On s'arrache des bras de l'enfant de Cypris.
 
--*who_lacritique
-De ce jeune orgueilleux, qui n'a pas lieu de l'être,
-Je veux humilier l'extrême vanité.
-
--*who_lemarquis
 Vous ne répondez rien ? Vous me boudez peut-être ?
 Et prenez du mauvais côté
 Ma dernière infidélité ?
 
--*who_lacritique
-Moi, Monsieur, je n'ai pas l'honneur de vous connaître.
-
--*who_lemarquis
 Vous ne connaissez pas le Marquis Lisidor ?
 
--*who_lacritique
-Non vraiment ?
-
--*who_lemarquis
       L'aventure est très particulière,
 Et sa Maison ?
 
--*who_lacritique
-      Non plus.
-
--*who_lemarquis
       Encore !
 Et d'où sortez-vous donc, ma chère ?
 Je n'eus jamais plus lieu d'être étonné,
@@ -837,14 +814,6 @@ Dans les ruelles, à l'armée,
 Et c'est pour moi qu'on a donné
 Cent bouches à la Renommée.
 
--*who_lacritique
-Je n'en étais point informée.
-Mais puisque vous courez de si nobles hasards,
-Quel est votre emploi ? Mousquetaire ?
-C'est là que la jeunesse encliné au militaire,
-S'endurcit aux travaux de Mars.
-
--*who_lemarquis
 Oh ! Pour moi, je suis volontaire.
 J'ai résolu de ne point m'attacher
 À quelque corps que ce puisse être,
@@ -869,35 +838,16 @@ Il y conduit la terreur et la mort.
 L'aile gauche par malheur plie,
 Il vole, et son courage aussitôt la rallie.
 
--*who_lacritique
-Voila bien du sang répandu,
-Et je conviens que sans le volontaire
-Le corps d'armée était perdu.
-
--*who_lemarquis
 C'est un échantillon de ce qu'on m'a vu faire.
 On doit parler dans tout Paris
 De mes exploits en Italie ?
 
--*who_lacritique
-Vos exploits ? Pas un mot.
-
--*who_lemarquis
       Comment on les oublie ?
 
--*who_lacritique
-On ne les a jamais appris.
-
--*who_lemarquis
 Vous vous moquez, et ce qu'en Allemagne
 On m'a vu faire à Philisbourg,
 Dans cette glorieuse et pénible campagne ?
 
--*who_lacritique
-Eussiez-vous encor vu l'Espagne,
-Vos exploits n'ont jamais percé dans ce séjour.
-
--*who_lemarquis
 Mais votre écho sans doute est sourd.
 Ne point parler de moi ? la chose est incroyable ;
 À quoi donc nous sert-il d'être recommandable !
@@ -909,11 +859,6 @@ Qu'a-t-on pensé de la jeune Climène ?
 Lors qu'après mon départ, qui lui fit tant de peine,
 On la vit se livrer à son chagrin mortel.
 
--*who_lacritique
-Qu'elle pleurait un jeune Colonel
-Qui seul la retient dans sa chaîne.
-
--*who_lemarquis
 Pour le coup le trait est cruel.
 Comme la foule prend le change !
 Et de cette aventure étrange
@@ -924,23 +869,10 @@ Par un beau matin m'enleva.
 Cette beauté se fit un tort extrême
 Par cette aventure d'éclat.
 
--*who_lacritique
-On a parlé d'un jeune fat
-Qui s'est fait enlever lui-même,
-Serait-ce vous ?
-
--*who_lemarquis
       On ne sait ce qu'on dit.
 Comment donc cette affaire encore
 Me serait-elle arrivée à crédit ?
 
--*who_lacritique
-Oui, sous votre nom on l'ignore,
-Et vous devez être charmé
-Qu'un objet digne d'être aimé
-Soit à l'abri d'un coup qui déshonore.
-
--*who_lemarquis
 Mais si ce coup est ignoré,
 Je me vois moi déshonoré.
 Que faut-il donc pour briller dans le monde ?
@@ -951,60 +883,21 @@ A mon égard de la moindre action,
 Je vais brûler un temple ou l'enfer me confonde.
 Garde-t-on le silence aussi sur mon esprit ?
 
--*who_lacritique
-Je n'en ouïs jamais faire l'apologie.
-
--*who_lemarquis
 Palsambleu c'est une magie.
 De mes grands airs qu'en dit-on ?
 
--*who_lacritique
-      On en rit.
-
--*who_lemarquis
 Ah fort bien, et de cette page
 Mon nom ne sera pas rayé.
 Que dit-on de mon équipage ?
 
--*who_lacritique
-Que vous ne l'avez pas payé.
-
--*who_lemarquis
 Savez-vous bien, mon aimable indiscrète,
 Que je me lasse des brocards
 Qu'avec si peu de respect et d'égards
 Votre humeur caustique me jette ?
 
--*who_lacritique
-On ne doit point s'en prendre à l'interprète,
-Mais d'après moi je vais donc vous parler
-Avec une exacte franchise.
-Une vertu qu'on veut trop étaler
-Ne mérite pas qu'on la prise.
-Elle se fait tympaniser
-Pour peu qu'elle soit fanfaronne,
-Et le public malin se plaît à refuser
-Ce qu'à soi-même l'on se donne.
-Rabattez-donc de cette vanité,
-À tant d'honnêtes gens funeste,
-Joignez à l'intrépidité
-L'heureux talent d'être modeste.
-Si de vous faire aimer vous trouvez le secret,
-Dans votre coeur renfermez cette gloire,
-Et sachez qu'en amour un vainqueur indiscret
-Bien loin de triompher, avilit sa victoire,
-Puisqu'on en méprise l'objet.
-À la discrétion ajoutez la constance.
-Sur votre esprit et sur votre naissance...
-
--*who_lemarquis
 Nous ne finirions d'aujourd'hui,
 Parbleu, vous vous moquez, je pense.
 
--*who_lacritique
-Je vous parle de vous, d'où naît donc votre ennui ?
-
--*who_lemarquis
 Je ne suis point venu pour que l'on m'épilogue,
 Et ne m'attendais pas à trouver en ces lieux
 La morale d'un pédagogue,
@@ -1036,30 +929,11 @@ Vous suivez d'un auteur le malheureux système,
 Il se dit l'écho du public,
 Et n'est l'écho que de lui-même.
 
-**** *book_ *id_I06 *act_I *date_1741
 
--*who_lacritique
-Quel est cet homme sérieux
-Qui tout près de moi se promène,
-Et qui ne daigne pas sur moi jeter les yeux ?
-Il est original, sachons ce qui l'amène.
-Monsieur, puis-je, sans vous fâcher,
-Pour un moment vous arracher
-À cette sombre rêverie ?
-À ma curiosité
-Répondez, je vous en prie,
-Que faites vous tout seul ?
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filemon
 
--*who_filemon
       Déesse, je m'ennuie.
 
--*who_lacritique
-Je vous plains fort en vérité,
-Mais à ce triste état n'est-il point de remède ?
-Et ce jardin par sa beauté
-Ne peut-il adoucir l'ennui qui vous possède ?
-
--*who_filemon
 Non, de ses agréments mon coeur est peu flatté.
 Je n'aime point la promenade,
 Pour moi c'est un plaisir trop fade,
@@ -1069,11 +943,6 @@ Mais je n'y saurais plus aller
 Et je vois par de sûrs indices
 Que désormais on veut m'en exiler.
 
--*who_lacritique
-D'où vous vient ce dégoût ? Les spectacles, je pense,
-Sont tels qu'ils étaient autrefois.
-
--*who_filemon
 Moi, j'y vois une différence
 Qui doit incessamment les réduire aux abois.
 Comment depuis un an point de pièces nouvelles ?
@@ -1094,20 +963,6 @@ Mais pour les soutenir leurs soins sont superflus,
 Les nouveautés chez eux sont comme les comètes
 Qui durent peu de temps et qu'on ne revoit plus.
 
--*who_lacritique
-Je vois que votre esprit s'occupe
-À chercher partout du nouveau,
-Mais de ce sentiment on est souvent la dupe
-Le nouveau n'est pas toujours beau.
-Ne vaut-il pas bien mieux voir ces divins ouvrages
-Qu'on a de tous temps admirés
-Qui font le désespoir de ces auteurs peu sages,
-Dont les pas chancelants et souvent égarés,
-Courent après l'esprit dans leurs vers bigarrés
-Et ne font que rimer les ennuyeuses pages
-Des romans les plus ignorés.
-
--*who_filemon
 Déesse, vous avez beau dire,
 J'aime mieux écouter ce que je n'ai point vu,
 Que ce qui dès longtemps au lecteur est connu.
@@ -1122,25 +977,50 @@ Réveillez les auteurs de l'assoupissement,
 Déesse, et le spectacle à mes yeux plus aimable,
 Fera tout de nouveau mon seul amusement.
 
--*who_lacritique
-Je ne puis seconder le désir qui vous guide.
-Par une critique solide
-J'effraye les auteurs loin de les animer,
-C'est mon emploi de les tenir en bride ;
-Mais vainement mon œil les intimide,
-Leur amour propre a soin de rallumer,
-Malgré ma censure rigide,
-La fureur qu'ils ont de rimer.
+Voilà ce qui s'appelle avoir du jugement,
+Et vous prenez, Monsieur, un parti très louable.
+De vous mal conseiller, Madame est incapable,
+Et votre pièce assurément
+Ne peut après cela paraître qu'admirable.
 
-**** *book_ *id_I07 *act_I *date_1741
+Un genre singulier ! Oui, c'est bien notre affaire.
+Eh ! Comment vous y prendrez vous ?
+C'est le genre vraiment le plus brillant de tous,
+Mais quand on s'y hasarde on paraît téméraire.
 
--*who_lacritique
-Mais j'aperçois quel qu'un dont la veine fertile
-Ne veut point rester inutile.
-Le feu que dans ses yeux je vois étinceller
-Me fait juger qu'il va vous consoler.
+La foule à ce plaisir n'est pas toujours bornée,
+Et du pauvre Pygmalion
+La pièce a fait tomber la décoration.
+Mais depuis qu'au solide à Paris l'on s'applique,
+On a pris du goût pour l'optique
+Et l'amusement est fort bon.
+On chérit des couleurs les contrastes magiques
+Et ce goût est venu, dit-on,
+Des expériences physiques
+Et du système de Newton.
 
--*who_lauteur
+Le sujet est sublime et j'en suis étourdi.
+Je n'y vois pas pourtant tout ce que je désire,
+Et vous oubliez Vendredi
+Qui pourrait fournir de quoi rire.
+
+Déesse, permettez que je suive ses pas,
+Témoin de son projet j'aurai cet avantage,
+D'être confident de l'ouvrage :
+Avant qu'il soit joué je n'en parlerai pas,
+Mais après son heureuse issue,
+Je dirai partout hautement,
+Bon, depuis six mois je l'ai vu,
+Je la connais dès son commencement ;
+Pouvait-elle être mal reçue,
+J'y donnais mon avis, même assez fréquemment,
+Et tous les auditeurs engagés à me croire,
+M'attribuant la moitié de la gloire,
+Du succès de l'auteur me feront compliment.
+
+
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lauteur
+
 Déesse, je vous en supplie,
 Honorez-moi de vos sages avis,
 Sur un projet nouveau dont ma tête est remplie,
@@ -1151,33 +1031,12 @@ Et vos conseils prudents garantiront ma pièce
 Des lardons qui parfois, faisant rire Paris,
 Remplissent les auteurs d'une affreuse tristesse.
 
--*who_filemon
-Voilà ce qui s'appelle avoir du jugement,
-Et vous prenez, Monsieur, un parti très louable.
-De vous mal conseiller, Madame est incapable,
-Et votre pièce assurément
-Ne peut après cela paraître qu'admirable.
-
--*who_lacritique
-Dites-nous donc votre projet ;
-De l'avis de Monsieur, je serai secondée,
-Devant ce connaisseur expliquez votre idée.
-
--*who_lauteur
 Ma résolution sur le choix du sujet,
 N'est pas encor bien décidée.
 
--*who_lacritique
-C'est par là cependant qu'il faudrait commencer.
-
--*who_lauteur
 Non, le choix me sera facile
 Et ne saurait m'embarrasser.
 
--*who_lacritique
-En quoi donc notre avis peut-il vous être utile ?
-
--*who_lauteur
 Je vais vous l'expliquer, on est dans l'embarras,
 Lorsqu'on veut du comique affronter la carrière,
 Quelque peu quant au fond, bien plus sur la manière,
@@ -1191,13 +1050,6 @@ Dialoguer un conte est un trait d'écolier,
 Nous n'avons donc plus de ressource
 Que dans un genre singulier.
 
--*who_filemon
-Un genre singulier ! Oui, c'est bien notre affaire.
-Eh ! Comment vous y prendrez vous ?
-C'est le genre vraiment le plus brillant de tous,
-Mais quand on s'y hasarde on paraît téméraire.
-
--*who_lauteur
 Je vous supplie, un peu d'attention.
 J'ai fait une observation,
 Aujourd'hui le plaisir de tous le plus sensible
@@ -1211,19 +1063,6 @@ Dans cette salle énorme et richement ornée,
 À l'aspect d'un rocher une foule étonnée
 Dans les traits du pinceau croit voir des traits d'esprit.
 
--*who_filemon
-La foule à ce plaisir n'est pas toujours bornée,
-Et du pauvre Pygmalion
-La pièce a fait tomber la décoration.
-Mais depuis qu'au solide à Paris l'on s'applique,
-On a pris du goût pour l'optique
-Et l'amusement est fort bon.
-On chérit des couleurs les contrastes magiques
-Et ce goût est venu, dit-on,
-Des expériences physiques
-Et du système de Newton.
-
--*who_lauteur
 Sur ce pied-là mon idée est parfaite,
 Et voici comment je la traite.
 Ma pièce d'un sujet simple et sans embarras,
@@ -1231,23 +1070,6 @@ En spectacles brillants sera très bien montée,
 Et par un seul acteur sera représentée.
 À ce trait sûrement on ne s'attendra pas.
 
--*who_lacritique
-Certes, à le deviner j'aurais eu de la peine.
-Mais vous vous repaissez d'une espérance vaine,
-Et de l'invention vous n'avez pas l'honneur.
-Une actrice agréable et finement placée,
-L'an passé soutint le bonheur
-D'une pièce flatteuse où toujours la pensée
-Sans éblouir l'esprit, arrivait droit au coeur.
-Comme trois acteurs seuls la jouaient toute entière,
-Vous prétendez enchérir là-dessus ;
-Mais l'imitation fut toujours un abus.
-Un seul a pu fournir cette heureuse carrière.
-Ne montrer qu'un acteur le coup est hasardeux ;
-Songez-y bien, quelque bon qu'il puisse être,
-D'un public assemblé l'on n'est pas toujours maître.
-
--*who_lauteur
 Non, mon projet doit être heureux.
 Et lorsque vous verrez Robinson dans son île
 Rêver philosophiquement,
@@ -1291,13 +1113,6 @@ Si l'intérêt a de quoi vous toucher,
 Je n'ai de ce coté rien à me reprocher ;
 En êtes-vous, Déesse, un peu persuadée.
 
--*who_filemon
-Le sujet est sublime et j'en suis étourdi.
-Je n'y vois pas pourtant tout ce que je désire,
-Et vous oubliez Vendredi
-Qui pourrait fournir de quoi rire.
-
--*who_lauteur
 Fort bien, je reconnais mes gens
 Qui veulent prouver leur génie
 Par une faute de bon sens,
@@ -1312,19 +1127,6 @@ Les singes danseront des ballets pantomimes
 Qui seront très divertissants.
 Vous ne me dites rien, Déesse !
 
--*who_lacritique
-Non, je ne puis approuver vos projets.
-Votre conduite est sage et prise avec adresse ;
-Mais, croyez-moi, variez les objets,
-C'est-là des bons auteurs la parfaite science.
-L'intérêt a plus de puissance
-Quand il est répandu sur différents sujets :
-Eh ! pourquoi prendre une peine inutile ?
-Pourquoi de la variété,
-Fuyant le sentier usité,
-Se donner la torture à devenir stérile ?
-
--*who_lauteur
 Pour vaincre la difficulté.
 Et puis, pour les Acteurs on est toujours en peine ;
 L'un s'enrhume aisément, l'autre n'a point de voix,
@@ -1346,30 +1148,3 @@ D'applaudir par reconnaissance.
 Adieu, de mon projet plus que jamais flatté,
 Je pars et vais rimer en toute diligence.
 
--*who_filemon
-Déesse, permettez que je suive ses pas,
-Témoin de son projet j'aurai cet avantage,
-D'être confident de l'ouvrage :
-Avant qu'il soit joué je n'en parlerai pas,
-Mais après son heureuse issue,
-Je dirai partout hautement,
-Bon, depuis six mois je l'ai vu,
-Je la connais dès son commencement ;
-Pouvait-elle être mal reçue,
-J'y donnais mon avis, même assez fréquemment,
-Et tous les auditeurs engagés à me croire,
-M'attribuant la moitié de la gloire,
-Du succès de l'auteur me feront compliment.
-
-**** *book_ *id_I08 *act_I *date_1741
-
--*who_lacritique
-À Corriger les faiblesses humaines,
-Le Seigneur Apollon perdra toujours son temps.
-Mes démarches ont été vaines ;
-Mais quel bonheur, Messieurs, quel doux fruit de mes peines ?
-Si j'ai pu vous flatter pendant quelques instants !
-Vous qui suivez sa Cour, enfants de Terpsicore,
-Venez former des pas badins,
-Et que vos jeux, dans ces jardins,
-Annoncent le retour de Flore.

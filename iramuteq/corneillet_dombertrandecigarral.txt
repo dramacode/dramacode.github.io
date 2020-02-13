@@ -1,945 +1,273 @@
 
 
-**** *book_ *id_I01 *act_I *date_1651 *creator_corneille
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongarcie
 
--*who_jacinte
-L'affaire me paraît bientôt expédiée.
-Vous, aujourd'hui promise, et demain mariée !
-
--*who_isabelle
-Jacinte, que veux-tu  ? J'en suis au désespoir,
-Mais dans mon déplaisir j'écoute mon devoir,
-Et me résous enfin aux maux que me prépare
-L'aveugle ambition d'un Père trop avare.
-
--*who_jacinte
-Ne vous y trompez point, c'est le jeu du vieux temps,
-Gardez d'être aujourd'hui trop sage à vos dépens,
-C'est un étrange noeud que le noeud de l'Hyménée
-
--*who_isabelle
-Qu'y puis-je faire enfin  ? Sa parole est donnée,
-Il le veut, et tu sais qu'il me vient d'avertir
-Que dans une heure ou deux je sois prête à partir ;
-Au malheur qui m'accable il n'est point de remède.
-
--*who_jacinte
-Quoi, vous iriez trouver cet époux à Tolède,
-Et parce qu'il a bruit d'avoir force ducats,
-Il est si grand Seigneur qu'il n'en remuerait pas  ?
-Ma foi, jusqu'à l'Hymen je serais la maîtresse.
-
--*who_isabelle
-Mais on me le commande.
-
--*who_jacinte
-      Ô l'étrange faiblesse !
-Dût se rompre l'accord je me ferais prier,
-Il n'est, tout bien pesé, que d'être à marier.
-Qu'un Amant importune, on l'abandonne, on change ;
-Fussiez-vous un Démon on vous appelle un Ange.
-De cent soumissions vous payez un galant
-En lui laissant baiser le bout de votre gant,
-Chacun tâche à vous plaire avec un soin extrême ;
-Mais dans le mariage il n'en va pas de même,
-Notre bon temps est fait, adieu, c'est assez ri,
-Qui nous flattait Amant nous rechigne Mari,
-Le flambeau d'hyménée amortit bien sa flamme,
-La plus belle Maîtresse est une laide Femme,
-Et sitôt que l'Amour laisse agir la raison,
-L'on connaît qu'il n'est point de charmante prison.
-Peu sous ce triste joug ont l'âme bien contente.
-
--*who_isabelle
-Sur cet article-là tu parais bien savante.
-
--*who_jacinte
-Jadis ma bonne mine avait ses partisans,
-Je sais ce qu'en vaut l'aune, et j'ai plus de quinze ans,
-Je connais à peu près le train commun des choses ;
-Ces matières pour vous sont encor lettres closes,
-Mais se vendre soi-même est un triste marché,
-L'on ne s'en dédit point quand le mot est lâché,
-L'Hymen nous asservit aux caprices d'un homme,
-Et j'en connais beaucoup, sans que je vous les nomme,
-Qui n'en ayant jamais examiné les lois,
-Ont pris le frein aux dents, et s'en mordent les doigts.
-Croyez-moi, de l'amour c'est un puissant remède,
-L'on ne fait guère état de ce que l'on possède,
-Le vrai plaisir consiste au pouvoir de refus,
-Quand un bien est acquis, dès lors on n'en veut plus,
-En vain à l'estimer sa valeur nous convie,
-La difficulté seule échauffe notre envie,
-Et celui qui nous charme avec le plus d'appas
-C'est celui qu'obtenant l'on peut n'obtenir pas.
-
--*who_isabelle
-Tu n'avais point encor étalé ta science.
-
--*who_jacinte
-Avec votre devoir et votre obéissance,
-Si celui qu'on vous donne est bizarre, jaloux  ?
-
--*who_isabelle
-Et jaloux et bizarre, il sera mon époux.
-
--*who_jacinte
-Enfin pour un Mari le Ciel vous a fait naître,
-Et moi, pour être libre, et pour vivre sans maître,
-Je n'ai plus rien à dire, et vous plains seulement.
-
--*who_isabelle
-Il en faut présumer plus favorablement.
-
--*who_jacinte
-Je voudrais le pouvoir ; et encor, je vous prie,
-Ne m'apprendriez-vous point à qui l'on vous marie  ?
-
--*who_isabelle
-Mon Père a fait ce choix, et tu sais comme moi
-Qu'en passant par Tolède il a promis ma foi ;
-Qu'à son retour tantôt j'en ai su la nouvelle,
-Et que de mon destin la tyrannie est telle,
-Que sans vouloir m'entendre, on m'ordonne demain
-De donner tout ensemble et mon coeur et ma main,
-Cet époux prétendu ne veut point de remise.
-
--*who_jacinte
-Il fait déjà le Maître  ?
-
--*who_isabelle
-      Un père l'autorise.
-
--*who_jacinte
-Il est riche  ?
-
--*who_isabelle
-      Le coeur secrètement me dit
-Qu'il a beaucoup de bien, mais qu'il a peu d'esprit.
-Puis-je juger en lui qu'une âme trop vulgaire
-Puisqu'il emploie ainsi l'autorité d'un Père  ?
-S'il n'avait cent défauts, il n'aurait pas voulu
-Faire agir contre moi son pouvoir absolu,
-Il me témoignerait qu'il sait comme l'on aime,
-Ne voudrait obtenir mon coeur que de moi-même,
-Et de cette conquête il confierait l'espoir
-À son propre mérite, et non à mon devoir.
-
--*who_jacinte
-De son nom pour le moins vous êtes informée  ?
-
--*who_isabelle
-La curiosité marque une âme enflammée,
-Je n'en ai demandé ni le rang, ni le nom.
-
--*who_jacinte
-Et cependant, Madame, à parler tout de bon,
-Votre ancien Amant, ou bien plutôt votre ombre,
-Doutez-vous que des morts il n'augmente le nombre,
-Sitôt qu'il vous saura dans les bras d'un Rival  ?
-
--*who_isabelle
-Don Félix  ?
-
--*who_jacinte
-      Cet hymen lui deviendra fatal.
-
--*who_isabelle
-J'aurai ce bien du moins dans ma triste infortune
-Qu'elle me défera d'une amour importune.
-Je ne sais quel Démon de mon repos jaloux,
-Où je dois me trouver, lui donne rendez-vous,
-Mais partout où je suis, au Temple, dans la rue,
-C'est le premier objet qui vient frapper ma vue.
-En effet, c'est une Ombre attachée à mes pas.
-
--*who_jacinte
-Ah, que pour vous encor l'amour a peu d'appas !
-
--*who_isabelle
-Hélas, Jacinte !
-
--*who_jacinte
-      Et quoi  ? Votre coeur en soupire  ?
-
--*who_isabelle
-Tu juges mal.
-
--*who_jacinte
-      De quoi  ?
-
--*who_isabelle
-      Je n'ose te le dire,
-Et pourtant...
-
--*who_jacinte
-      Tout de bon, vous aimez  ?
-
--*who_isabelle
-      Il est vrai.
-
--*who_jacinte
-Ô la secrète ! Et qui, de grâce  ?
-
--*who_isabelle
-      Je ne sais.
-
--*who_jacinte
-Vous ne me feriez point confidence du reste  ?
-
--*who_isabelle
-Ne te souviens-il plus de l'accident funeste
-Que je cache avec soin à tout autre qu'à toi,
-Et qui depuis un mois m'a donné tant d'effroi  ?
-
--*who_jacinte
-Quoi, ce brave Inconnu qui vous sauva la vie,
-Par la peur d'un Taureau déjà presque ravie,
-Lorsqu'à l'insu d'un Père, et sans me l'avoir dit,
-Une Parente et vous sortîtes de Madrid,
-Et qu'un mauvais destin vous pensa bien cher vendre
-Ce peu de liberté que vous osâtes prendre,
-Serait-ce bien celui qui vous fait soupirer  ?
-
--*who_isabelle
-Lui-même.
-
--*who_jacinte
-      Et vous pouvez aimer sans espérer  ?
-
--*who_isabelle
-Sa vie en ma faveur promptement hasardée
-M'en a fait concevoir une si haute idée,
-Que malgré moi sans cesse elle offre à mon esprit...
-
--*who_jacinte
-Ah, sans doute, Madame, il faut quitter Madrid,
-Voici quelque message.
-
--*who_isabelle
-      Adieu toute ma joie.
-
-**** *book_ *id_I02 *act_I *date_1651 *creator_corneille
-
--*who_isabelle
-Que veux-tu  ?
-
--*who_guzman
-      Don Alvar, Madame, ici m'envoie.
-
--*who_isabelle
-Don Alvar  ?
-
--*who_guzman
-      Oui, Madame, un Parent de celui
-Qui vous est destiné pour époux aujourd'hui,
-Et qui m'envoie ici vous faire humble requête
-Que bientôt à partir vous soyez toute prête.
-
--*who_isabelle
-Un message pareil de sa part me surprend,
-Il n'est pas mon époux pour être son Parent.
-D'où lui vient ce pouvoir  ?
-
--*who_guzman
-      Don Bertran le lui donne.
-
--*who_isabelle
-Que ne me le vient-il expliquer en Personne  ?
-
--*who_guzman
-L'ordre est ainsi donné, Madame, il n'oserait.
-Avecque Don Bertran il faut marcher bien droit,
-Il est plus difficile à ferrer qu'une mule.
-
--*who_isabelle
-Don Bertran ! Que ce nom me semble ridicule !
-Apprends-nous quel il est.
-
--*who_guzman
-      C'est un galant du temps,
-Un fort brave jeune homme âgé de soixante ans,
-Qui pour remédier à la chaleur de l'âge
-S'est enfin résolu de se mettre en ménage.
-Il vous écrit.
-
--*who_isabelle
-      À moi ! Qui  ?
-
--*who_guzman
-      Ce futur époux,
-Ce Don Bertran.
-
--*who_jacinte
-      Voyez si le style en est doux.
-
--*who_isabelle
-Ma fille.
-J'ai six mille et quarante deux ducats de rente, et Don Alvar, mon cousin et prétendu beau-frère, est mon héritier si je n'ai point d'enfants.
-On m'a dit qu'en me mariant avec vous j'en pourrais avoir autant que bon me semblera.
-Venez donc dès aujourd'hui à l'Hostellerie d'Yllescas, où je vous attends pour traiter de l'un, et pour l'autre, nous y aviserons à loisir ; mais souvenez-vous que je suis dans une hostellerie, et qu'il y fait fort cher vivre en cette saison.
-C'est pourquoi ne perdez point de temps, partez promptement, et mettez un masque avant que mon cousin vous aille trouver de ma part, car le soin de votre honneur commence déjà à me regarder, et vous ne devez point vous laisser voir que je ne le juge à propos.
-Votre Mari Don Bertran de Cigarral.
-Et l'on peut m'ordonner d'épouser un tel homme !
-
--*who_guzman
-Il n'a point son pareil d'ici jusques à Rome.
-
--*who_jacinte
-Pour peu d'attention qu'on lui veuille prêter,
-Ce Valet est d'humeur à nous en bien conter.
-
--*who_isabelle
-Le joli compliment par où son feu débute !
-Ah, Jacinte, s'il faut que l'accord s'exécute...
-
--*who_jacinte
-Selon l'avare humeur de notre bon Vieillard,
-S'il rompt avecque lui, ce sera grand hasard,
-Ses ducats vous font tort, et s'il était moins riche...
-
--*who_guzman
-Pour en avoir beaucoup il n'en est pas moins chiche,
-Et les garde si bien, qu'à parler comme il faut,
-Je vous plaindrais beaucoup s'il ne mourrait bientôt.
-Avec un tel Mari vous verrez par épreuve
-Qu'il n'est point de douceur qu'en l'espoir d'être Veuve,
-Et vous ne devez point en confirmer le choix
-S'il ne veut s'obliger de mourir dans six mois,
-C'est un terme assez long pour faire pénitence.
-
--*who_jacinte
-Avec grande franchise il dit ce qu'il en pense.
-
--*who_isabelle
-Il parle à coeur ouvert.
-
--*who_jacinte
-      Je vais le mettre en jeu.
-Mais encor, de ton Maître entretiens-nous un peu.
-Quelle mine, quel port  ?
-
--*who_guzman
-      Sa mine est équivoque.
-Quelquefois elle plaît, bien souvent elle choque,
-Mais quant à la parole, il a grand agrément,
-Et débite son fait fort nasillardement.
-
--*who_jacinte
-Cela va bien. L'humeur  ?
-
--*who_guzman
-      N'en est pas fort commune,
-Gaie ou triste, selon les changements de Lune,
-Quoiqu'il goûte en tout temps assez peu de repos ;
-Car il est attaqué de tant et tant de maux,
-Qu'outre ceux que le corps éprouve accidentaires
-Il en pourrait compter cinq ou six ordinaires.
-Il mouche, il tousse, il crache en poumon malaisé,
-Pour fluxions sans cesse il est cautérisé,
-Goutteux ce que doit l'être un goutteux d'origine,
-Toujours vers le poignet muni de la plus fine ;
-Joignez à tout cela, vilain, jaloux, quinteux,
-Obstiné plus qu'un Diable, et mutin plus que deux,
-Malpropre autant que douze en mine, en barbe, en linge,
-Rusé comme un renard, et malin comme un singe.
-Quant au savoir, jamais on n'approcha du sien,
-Il sait mille secrets à ne guérir de rien.
-Pour tous ces petits maux de rhume, toux, migraine,
-Il compose à ravir l'onguent mitonmitaine,
-De chaque saltimbanque il prend leçon exprès ;
-Au reste fort dévot, à l'intention près.
-Il fait garder chez lui si souvent l'abstinence
-Qu'on y jeûne toujours deux Carêmes d'avance.
-Voilà de ses vertus le fidèle récit.
-
--*who_isabelle
-Je passerais partout s'il avait de l'esprit.
-
--*who_guzman
-De l'esprit ! Ah Madame, il fait des Comédies.
-
--*who_jacinte
-Ce métier est mal propre à guérir ses folies,
-Il en empirera bien loin d'en amender.
-
--*who_guzman
-Comme un Poète fameux il se fait regarder,
-Il en a composé déjà plus de vingt paires,
-Mais les Comédiens n'en représente guères,
-Le style en est si haut qu'ils n'y comprennent rien.
-Lui-même toutefois en dit assez de bien,
-Il en trouve toujours l'intrigue bonne et belle,
-Et sa démangeaison de les produire est telle,
-Que faute bien souvent d'auditeurs plus parfaits,
-Il va les débiter jusques à des laquais ;
-Mais avant qu'il soit peu vous le pourrez connaître.
-
--*who_jacinte
-Et bien  ? Jamais Valet servit-il mieux son Maître  ?
-Il fait tout ce qu'il peut pour vous en dégoûter.
-
--*who_guzman
-Aussi pour deux raisons dois-je le souhaiter.
-L'une, vous êtes belle, et ce sera dommage
-Qu'avec lui vous perdiez le plus beau de votre âge,
-Et l'autre, Don Alvar serait son héritier.
-
--*who_isabelle
-Et qui est Don Alvar  ?
-
--*who_guzman
-      Un brave cavalier,
-Noble, vaillant, civil, bien né, de bonne mine,
-Discret.
-
--*who_jacinte
-      Que n'est-ce là celui qu'on vous destine,
-Et pourquoi votre père, au lieu de ce malfait,
-N'a-t-il pas pris pour gendre un homme si parfait  ?
-Il a bien dans ce choix témoigné son caprice.
-
--*who_guzman
-Oui, mais ce Don Alvar comme un autre a son vice,
-Qui de tant de vertus obscurcit bien l'éclat.
-
--*who_isabelle
-Quel peut être ce vice  ?
-
--*who_guzman
-      Il est gueux comme un rat.
-
--*who_isabelle
-Si l'esprit n'est content, le bien est peu de chose.
-
--*who_guzman
-À l'hymen toutefois je crois qu'il se dispose,
-La Soeur de Don Bertran du moins ne le hait pas.
-Vous la verrez ce soir.
-
--*who_isabelle
-      Elle a beaucoup d'appas  ?
-
--*who_guzman
-Autant qu'elle en avait quand elle vint au monde.
-Jamais fille ne fut si délicate et blonde ;
-Soit défaut de nature, ou bien excès d'amour,
-Elle s'évanouit plus de sept fois par jour.
-
--*who_jacinte
-On doit de ce talent estimer l'avantage.
-
-**** *book_ *id_I03 *act_I *date_1651 *creator_corneille
-
--*who_dongarcie
 Et bien, selon ton ordre as-tu fait son message  ?
 
--*who_guzman
-Je l'ai fait tel, Monsieur, que j'ai cru le devoir,
-Don Alvar cependant vous peut-il venir voir  ?
-Il attend qu'on lui veuille accorder audience.
-
--*who_dongarcie
 Oui, fais qu'il vienne, va.
 
--*who_guzman
-      J'y cours en diligence.
-
-**** *book_ *id_I04 *act_I *date_1651 *creator_corneille
-
--*who_dongarcie
 Quoi, je te trouve en pleurs  ?
 
--*who_isabelle
-      J'y puis bien être, hélas !
-Si vous ne révoquez l'arrêt de mon trépas.
-Vous-même jugez-en ; que puis-je me promettre,
-De qui m'ose envoyer une si belle lettre  ?
-
--*who_dongarcie
 Peu de chose souvent brouille un jeune cerveau,
 Voyons.
 
--*who_isabelle
-      Le compliment en est rare et nouveau.
-
--*who_jacinte
-Ne vous relâchez pas, et quoi qu'il en arrive,
-Toujours le même ton, ferme, la négative.
-
--*who_isabelle
-Il n'en arrivera que ce que j'en prévois,
-Ses six mille ducats plairont plus qu'à moi,
-Et son coeur se rendant à de si honteux charmes
-Sans en être touché, verra couler mes larmes.
-
--*who_jacinte
-Puisqu'il branle la tête il n'est pas satisfait.
-
--*who_dongarcie
 À dire vrai, ce Gendre a l'esprit bien mal fait.
 
--*who_isabelle
-Et bien, que dites-vous d'une telle sottise  ?
-
--*who_dongarcie
 Te faut-il étonner qu'il parle avec franchise  ?
 Cesse d'être alarmée et de t'en indigner,
 La plus fâcheuse humeur est aisée à gagner.
 
--*who_isabelle
-Mais ce n'est qu'un vilain, un avare.
-
--*who_dongarcie
       Ma fille,
 C'est par là que l'éclat vient dans une famille ;
 L'épargne est nécessaire à qui veut s'agrandir.
 
--*who_isabelle
-Il est capricieux.
-
--*who_dongarcie
       Il lui faut applaudir.
 
--*who_isabelle
-Il est opiniâtre, et commande à la baguette. .
-
--*who_dongarcie
 Et bien, sois complaisante, et fais ce qu'il souhaite.
 Mais va quérir son masque.
 
--*who_jacinte
-      Au moins dois-tu d'abord
-Lui montrer un esprit souple, docile, accort,
-Et que puisqu'il défend que Don Alvar te voie,
-À lui plaire aujourd'hui tu mets toute ta joie.
-
--*who_isabelle
-C'est bien vouloir ma perte et haïr mon repos
-Que de me marier ainsi mal à propos.
-Le ridicule époux ! Ah, j'en perds patience.
-
--*who_dongarcie
 J'ai tort de n'avoir pas consulter ta prudence.
 
--*who_isabelle
-J'aimerais mieux cent fois entrer dans un Couvent.
-
--*who_dongarcie
 Il t'en faut donner un avec la plume au vent,
 Un de ces fanfarons à l'âme efféminée,
 Qui mangent tout leur fait dès la première année  ?
 
--*who_isabelle
-Mon père, si mes pleurs...
-
--*who_dongarcie
       Ne crois rien obtenir,
 J'ai donné ma parole, et je la veux tenir,
 Ma volonté doit être, et sera la plus forte.
 Mais j'entends, ce me semble, un carrosse à la porte,
 Cache cette tristesse, et ne témoigne pas...
 
-**** *book_ *id_I05 *act_I *date_1651 *creator_corneille
-
--*who_jacinte
-Voyez ce beau Cousin envoyé d'Yllescas,
-Je l'ai vu dans la cour. Ah, qu'il a bonne mine !
-
--*who_dongarcie
 Masque-toi promptement.
 
--*who_isabelle
-      Ô coup qui m'assassine !
-Il est inexorable, et je n'y gagne rien.
-
--*who_jacinte
-Il s'aime plus que vous, il le témoigne bien.
-
-**** *book_ *id_I06 *act_I *date_1651 *creator_corneille
-
--*who_dongarcie
 Soyez le bien venu.
 
--*who_donalvar
-      Le Ciel, ô Don Garcie,
-Vous comble d'un bonheur où chacun porte envie !
-Vous savez ce qu'ici je viens vous demander.
-
--*who_dongarcie
 Holà, des sièges.
 
--*who_donalvar
-      Non, je ne saurais tarder.
-
--*who_isabelle
-Ô Ciel, que vois-je ! Hélas, Jacinte, c'est lui-même.
-
--*who_jacinte
-Qui, Madame  ?
-
--*who_isabelle
-      C'est lui, cet Inconnu que j'aime.
-Qui m'a sauvé la vie, et dont je t'ai parlé.
-
--*who_donalvar
-Enfin par ses désirs mon pouvoir est réglé.
-Sa volonté le borne, et ma charge est expresse,
-Je vous dois de sa part demander sa Maîtresse,
-La mener en carrosse, et la suivre à cheval.
-
--*who_dongarcie
 Tant de précautions sentent bien son brutal.
 Je n'ose sur ce point vous presser davantage,
 Et sans plus différer je consens au voyage.
 Vous voyez Isabelle en état de partir.
 
--*who_donalvar
-Des coups que vous portez on veut me garantir,
-Madame, et si l'on cache à ma débile vue
-Les célestes attraits dont vous êtes pourvue,
-L'on connaît que l'éclat n'en peut être souffert,
-Que je pourrais me perdre où tout autre se perd,
-Et malgré le respect où mon âme est forcée,
-Permettre pour le moins un crime à ma pensée.
-
--*who_isabelle
-Vous me confirmer bien ce qu'on m'a toujours dit,
-Que la civilité n'est pas toute à Madrid.
-Trouver lieu sans me voir à tant de flatterie,
-C'est le dernier effet de la galanterie ;
-Mais peut-être tantôt, lorsque vous me verrez,
-D'un pareil compliment vous vous repentirez,
-Vous changerez sans doute et d'âme et de langage.
-
--*who_donalvar
-Moi, Madame, en changer ! Ce sentiment m'outrage,
-Et vous devez penser qu'au mérite toujours...
-
--*who_dongarcie
 C'est trop continuer d'inutiles discours,
 Partons puisqu'il le faut.
 
--*who_donalvar
-      Il n'est pas nécessaire
-Que vous quittiez Madrid pour une telle affaire.
-
--*who_dongarcie
 Je ne vous suivrais point ! Et par quelle raison.
 
--*who_donalvar
-Don Bertran le défend.
-
--*who_dongarcie
       Moi, garder la maison,
 Et souffrir que d'un autre il reçoive Isabelle !
 Il me prend pour un homme à bien lourde cervelle.
 
--*who_donalvar
-Il croit par ce billet que je dois vous laisser,
-Vous ôter sur ce point tout lieu de balancer,
-Et veut, comme bon Gendre, épargner à votre âge
-La peine et l'embarras de faire ce voyage.
-
--*who_dongarcie
 En effet, Yllescas est bien loin de Madrid !
 
--*who_donalvar
-Enfin vous résoudrez sur ce qu'il a souscrit.
+Par devant Alonse Ruiz et Domingo Sanchez, Notaire Royaux à Tolède, s'est comparu Don Bertran de Cigarral, lequel de son bon gré, et sans aucune contrainte, a reconnu et confessé avoir reçu de Don Garcie de Contreras une sienne fille, avec ses taches bonnes ou mauvaises, se soumettant d'en faire au plutôt son épouse légitime, et de la lui rendre telle et aussi entière toutefois et quantes qu'elle lui pourra être demandée pour nullité de fait. En témoin de quoi ils ont signé à Tolède ce 19. de Mai 1651.Don BERTRAN DE CIGARRAL, ALONSO RUIZ, DOMINGO SANCHEZ.
 
--*who_dongarcie
-Par devant Alonse Ruiz et Domingo Sanchez, Notaire Royaux à Tolède, s'est comparu Don Bertran de Cigarral, lequel de son bon gré, et sans aucune contrainte, a reconnu et confessé avoir reçu de Don Garcie de Contreras une sienne fille, avec ses taches bonnes ou mauvaises, se soumettant d'en faire au plutôt son épouse légitime, et de la lui rendre telle et aussi entière toutefois et quantes qu'elle lui pourra être demandée pour nullité de fait.
-En témoin de quoi ils ont signé à Tolède ce 19. de Mai 1651.Don BERTRAN DE CIGARRAL, ALONSO RUIZ, DOMINGO SANCHEZ.
-
--*who_isabelle
-A-t-on jamais parlé de telle extravagance  ?
-
--*who_dongarcie
 Il a perdu l'esprit avecque sa quittance.
 Traiter ainsi ma fille ! Où diable a-t-il pensé,
 De l'attendre au moyen de son récépissé  ?
 Mais de grâce, entre nous, qu'est-ce qu'il en soupçonne  ?
 Croit-il que je la vends, ou bien que je la donne  ?
 
--*who_donalvar
-Ce caprice pour lui m'oblige de rougir,
-Mais j'ai beau l'en blâmer, c'est sa façon d'agir.
-Il ne s'en peut défaire.
-
--*who_isabelle
-      Elle est assez étrange.
-
--*who_dongarcie
 Ne t'inquiète point, en moins de rien on change.
 Il ne sera pas tel que nous nous figurons,
 Et nous recevra mieux que nous ne l'espérons,
 Ne différons donc plus, et partons sans remise.
 
--*who_isabelle
-Hélas ! Quelle espérance à mon âme est permise  ?
+Je viens vous témoigner qu'en vain...
 
-**** *book_ *id_II01 *act_II *date_1651 *creator_corneille
+      C'est une affaire faite,
+Sa volonté se borne à ce que je souhaite.
 
--*who_mendoce
-À la fin nous voici, Monsieur, dans Yllescas.
+Sans doute.
 
--*who_donfelix
-Ô lieu pour moi funeste ! Hélas, Mendoce, hélas !
-Ne me demande point le sujet qui m'amène ;
-Si tu savais mon mal, si tu savais ma peine,
-Tu me confesserais qu'en de tels déplaisirs
-C'est peu que d'exhaler sa douleur en soupirs.
+      Soudain la charmera.
 
--*who_mendoce
-Je ne sais quel malheur vous avez lieu de craindre,
-Vous ne songiez rien moins ce matin qu'à vous plaindre,
-Ce coeur d'aucun souci ne paraissait chargé.
-Et presque en un moment vous voilà tout changé.
-Je vous trouve rêveur, inquiet, las de vivre,
-Vous montez à cheval, et vous me faites suivre,
-Nous marchons sans parler tout le long du chemin
-Chez l'Hôte d'Yllescas nous arrivons enfin,
-Et sans dire le mal dont votre âme est atteinte,
-Vous redonnez encor de nouveau sur la plainte.
-Quel est le sujet  ? Tirez-moi de souci.
+Contre la modestie elle craint de pécher.
 
--*who_donfelix
-Que te dirai-je  ? Hélas ! Je viens mourir ici,
-Et rendre témoignage à la Beauté que j'aime,
-Que comme sa rigueur mon amour est extrême.
+Parler bien à propos est fort rare aujourd'hui.
 
--*who_mendoce
-Vous n'en mourrez donc pas puisqu'il s'agit d'amour.
-C'est un mal qui commence, et finit en un jour
+Je vous ai déjà dit que c'est par modestie.
 
--*who_donfelix
-Pour en guérir sitôt la cause en est trop belle.
-Depuis combien de temps adorai-je Isabelle
-Sans que jamais refus, ni mépris, ni froideur,
-Du feu qui me dévore ait modéré l'ardeur  ?
-Cependant, ô disgrâce à qui raison cède
-Don Garcie aujourd'hui la marie à Tolède,
-Don Bertran son époux l'attend ici ce soir,
-Toute prête à partir on me l'a fait savoir,
-Et je viens empêcher, ou par force, ou par ruse,
-Qu'un autre n'ait un bien qu'à ma flamme on refuse.
+Ce qu'elle a de beauté pour le moins est sans fard.
 
--*who_mendoce
-Sans venir vous montrer de son bonheur jaloux,
-Vous eussiez bien mieux fait de demeurer chez vous.
-Puisque tout est d'accord, que pouvez-vous prétendre  ?
+Vous n'avez pour partir qu'à nous donner votre heure.
 
--*who_donfelix
-L'espoir est si charmant qu'on ne s'en peut défendre.
-Malgré de mon destin l'impitoyable loi
-J'espère en Isabelle, en Don Bertran, en moi.
-Je sais que son bien seul le rend recommandable,
-Et qu'il sert à chacun de risée et de fable.
-Il est brutal, bizarre, et peut-être à le voir,
-Isabelle oubliera ce trop cruel devoir,
-Dont l'âpre austérité la force en dépit d'elle
-De courir en aveugle où sa rigueur l'appelle.
-Je parlerai, Mendoce, et ce peu que je vaux
-Se fera mieux connaître auprès tant de défauts,
-Il pourra m'acquérir le coeur de mon ingrate,
-Et faire réussir l'espoir dont je me flatte.
-Que si trop de vertu l'oblige à se trahir
-Jusqu'à vouloir me perdre en voulant obéir,
-Comme ce Don Bertran n'agit que par caprice,
-J'empêcherai par lui que l'Hymen s'accomplisse,
-Et le faisant entrer en doute de sa foi,
-Je saurai travailler et pour elle et pour moi.
-L'artifice en amour fut toujours légitime ;
-Feindre d'en être aimé n'est pas faire un grand crime,
-Et peut-être par là mon Jaloux alarmé
-Me cédera l'objet dont mon coeur est charmé,
-Et sur un tel soupçon l'âme toute incertaine...
+Elle vous tien donc lieu de lettres de noblesse  ?
 
--*who_mendoce
-On se plaint, écoutez.
+Je n'en ai rien ouï.
 
-**** *book_ *id_II02 *act_II *date_1651 *creator_corneille
+Non.
 
--*who_donbertran
+Quoi, que s'est-il passé ? Ma fille...
+
+J'y suis tout préparé, que m'allez-vous apprendre  ?
+
+      La question est grande !
+Suis-je sourd pour me faire une telle demande  ?
+
+      À quoi bon  ?
+
+      Parlez jusqu'à demain.
+
+      Posément.
+
+Tant que vous parlerez.
+
+Avez-vous l'esprit sain  ?
+
+Je devrais bien plutôt...
+
+Quoi, Don Félix de nuit aurait pu lui parler  ?
+
+On m'avait bien dit vrai, que vous n'étiez pas sage,
+Que souvent vous aviez le cerveau démonté,
+Mais je ne croyais pas que vous l'eussiez gâté.
+Savez-vous qui je suis  ?
+
+Il faut chanter pourtant, et sur un autre ton.
+
+Ma foi, vous parlerez ainsi que je l'entends.
+
+Ne croyez pas ainsi parer en reculant.
+
+Vous marchandez en vain.
+
+      Et bien, quelle  ?
+
+Et quoi, ce Don Félix vous tient-il à la tête  ?
+Croyez-vous...
+
+Votre demande est juste, et j'y dois consentir.
+
+Quel débat avez-vous l'un et l'autre  ?
+
+Vous pourriez supprimer ce mot de prétendu.
+
+Nous en sommes tantôt convenu autrement.
+Don Félix est parti qui vous faisait ombrage,
+Rien ne vous peut choquer, ma fille est belle et sage,
+Ne nous brouillons donc point par de nouveaux détours.
+
+Quand je parle raison, j'entends qu'on y réponde.
+
+      Nous n'en sommes pas là.
+Puisque pour vous ma fille est un parti sortable,
+Fussiez-vous mille fois plus Diable que le Diable,
+Vous ne vous moquerez ni d'elle ni de moi,
+Et vous l'épouserez, ou vous direz pourquoi.
+
+Cette sotte raison n'est point ici de mise.
+
+Ce galimatias n'aura-t-il point de bornes  ?
+Irez-vous encor loin  ?
+
+Je crois, sans vous flatter, que le vôtre en tout temps
+Vous rend fou passé-maître, et des plus importants.
+
+Que dit-elle  ?
+
+De quoi  ?
+
+J'ignore.
+
+Pensez-vous m'échapper avec ce stratagème  ?
+
+      Explique ce mystère.
+Aimes-tu donc ailleurs.
+
+Tu voudrais l'épouser, lui qui n'a point de bien  ?
+
+Quelque espoir qui le flatte, il pourra se méprendre
+S'il prétend que sans bien je l'accepte pour Gendre.
+
+      Je sais ce qu'il te faut.
+
+Mon Gendre Don Alvar  ?
+
+      Brisons-là,
+Il n'est pas maintenant question de cela.
+Vous m'avez demandé ma fille en mariage  ?
+
+C'est être trop longtemps à consulter ensemble,
+Je veux avoir réponse.
+
+En un mot, de vos biens donnez-lui la moitié,
+Je consens en ce cas qu'il l'épouse s'il l'aime ;
+Sinon, résolvez-vous à l'épouser vous-même,
+Je vous laisse le choix.
+
+Enfin votre dessein...
+
+C'est trop délibérer.
+
+À ces conditions nous sommes tous contents.
+
+Pour ne pas l'approuver j'ai pour vous trop d'estime,
+Et si de l'intérêt écoutant la chaleur...
+
+Allons voir ce que c'est.
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donbertran
+
       Je me soutiens à peine,
 Au Diable soit la mule avec le Muletier.
 
--*who_donfelix
-Et bien, Mendoce, vois ce lourdaud, ce grossier,
-C'est là ce Don Bertran.
-
--*who_mendoce
-      Ô l'homme ridicule !
-
--*who_donbertran
 Quel chien de trot allait cette maudite mule !
 J'en ai le col démis, et les os tout rompus.
 
--*who_leonor
-Quand vous vous marierez il n'y paraîtra plus.
-
--*who_donbertran
 Vous parlez donc proverbe, ô Soeur à blonde tresse  ?
 
--*who_leonor
-Toute douleur s'apaise auprès d'une Maîtresse.
-Ah, si pareil bonheur...
-
--*who_donbertran
       C'est bien pour votre nez.
 
--*who_leonor
-Si vous vouliez pourtant...
-
--*who_donbertran
       Ah, vous m'importunez.
 
--*who_leonor
-Don Alvar...
-
--*who_donbertran
       Don Alvar n'est pas encor trop sage,
 Je veux laisser mûrir son esprit davantage ;
 Pour quelque couple d'ans rengainez vos amours.
 
--*who_leonor
-Mais vous ne songez pas que je vieillis toujours.
-
--*who_donbertran
 N'importe.
 
--*who_leonor
-      Puisqu'il m'aime...
-
--*who_donbertran
       Achevons, je vous prie.
 
--*who_leonor
-Vous devriez...
-
--*who_donbertran
       Suffit qu'un de nous se marie,
 Je vous le tranche net devant ce Cavalier.
 
--*who_leonor
-Vous venez donc ici, monsieur, vous marier ?
-
--*who_donbertran
 À peu près, et ma Soeur semble en être jalouse.
 Pour peu que vous tardiez vous verrez mon Épouse,
 Elle viendra bientôt, je l'ai mandée exprès.
 On m'a dit qu'elle est belle à regarder de près.
 
--*who_donfelix
-À voir ce que le ciel aujourd'hui lui prépare,
-Je la crois d'un mérite et bien haut et bien rare ;
-L'éclat de son bonheur blessera bien des yeux.
-
--*who_donbertran
 N'importe, elle m'aura malgré les Envieux ;
 Mais on m'en vient enfin dire quelque nouvelle,
 Je vois un de mes gens.
 
-**** *book_ *id_II03 *act_II *date_1651 *creator_corneille
-
--*who_donbertran
       Et bien, notre Isabelle,
 Est-elle encore loin  ?
 
--*who_guzman
-      Environ à cent pas.
-
--*who_donbertran
 Ma lettre, qu'en dit-elle ?
 
--*who_guzman
-      Elle en fait un grand cas.
-Aussi c'est une aimable et bonne créature,
-Je n'en n'ai jamais vu de plus belle en peinture,
-De ses yeux rayonnants l'éclat est sans pareil ;
-Votre coeur s'y fondra comme cire au Soleil,
-Prenez bien garde à vous.
-
--*who_donbertran
       Mon Cousin l'a-t-il vue ?
 
--*who_guzman
-Je l'avais fait masquer.
-
--*who_donbertran
       L'a-t-il entretenue ?
 
--*who_guzman
-Point du tout.
-
--*who_donbertran
       Elle m'aime ?
 
--*who_guzman
-      Oui, je crois qu'elle en tient.
-Savez-vous cependant que le Beau-père vient,
-Qu'il veut se réjouir et danser à la noce  ?
-Mais les voici venus, et j'entends le carrosse.
-
--*who_donbertran
 Pour rire à mes dépends il s'en vient donc exprès  ?
 C'est bien ici le temps de faire tant de frais,
 Il peut s'en retourner si c'est ce qui l'amène.
 
--*who_donfelix
-Est-il supplice égal à l'excès de ma peine  ?
-
-**** *book_ *id_II04 *act_II *date_1651 *creator_corneille
-
--*who_jacinte
-Quelle figure d'homme !
-
--*who_isabelle
-      Ô le vilain époux !
-Est-il rien de plus laid  ?
-
--*who_donbertran
       Beau-père, approchez-vous.
 À mes ordres ainsi vous êtes réfractaire,
 Et vous m'avez enfin amené le beau-père.
 
--*who_dongarcie
-Je viens vous témoigner qu'en vain...
-
--*who_donbertran
       Sans compliment,
 Oyez un mot ici.
 
--*who_jacinte
-      C'est elle assurément,
-C'est cette blonde soeur de Don Alvar éprise.
-Mais voyez, Don Félix...
-
--*who_isabelle
-      Ô Ciel, quelle surprise  ?
-Que Don Félix ainsi vienne mal à propos
-Jusqu'ici me déplaire, et troubler mon repos !
-
--*who_donfelix
-Mendoce, elle me voit.
-
--*who_dongarcie
-      C'est une affaire faite,
-Sa volonté se borne à ce que je souhaite.
-
--*who_donbertran
 Je puis donc lui parler ainsi qu'il me plaira  ?
 
--*who_dongarcie
-Sans doute.
-
--*who_donbertran
       Et mon discours...
 
--*who_dongarcie
-      Soudain la charmera.
-
--*who_donbertran
 Je m'en vais l'aborder. Ah, Madame Isabelle,
 Ou bien vous êtres laide, ou bien vous êtes belle.
 Or si vous êtes laide, il vous faut sur ma foi
@@ -949,140 +277,44 @@ Car la fragilité du sexe est assez grande.
 Ainsi soit belle ou laide, et dût-on s'en moquer,
 C'est fort bien avisé que vous faire masquer.
 
--*who_isabelle
-L'impertinent discours! Quelle réponse y faire ?
-
--*who_jacinte
-Songez-y toutefois, il l'attend.
-
--*who_donbertran
       Ho, Beau-père,
 Elle ne répond point, qui l'en peut empêcher  ?
 
--*who_dongarcie
-Contre la modestie elle craint de pécher.
-
--*who_donbertran
 Sur le point de se voir richement mariée,
 L'aise la tient ainsi sans doute extasiée  ?
 
--*who_dongarcie
-Parler bien à propos est fort rare aujourd'hui.
-
--*who_donbertran
 Il est vrai, par soi-même on juge mal d'autrui.
 C'est donc qu'elle n'a pas en main la répartie  ?
 
--*who_dongarcie
-Je vous ai déjà dit que c'est par modestie.
-
--*who_donbertran
 Vous tairez-vous toujours, Objet, ma passion  ?
 
--*who_isabelle
-Le silence est l'effet de l'admiration,
-Et vos rares vertus qui font que je soupire
-M'étonnent tellement que je ne sais que dire.
-Leur éclat a surpris mon coeur au dépourvu,
-Et si sans vous connaître et sans vous avoir vu,
-Les compliments civils dont votre lettre est pleine
-M'ont interdit les sens, et mis l'âme à la gêne ;
-Jugez si je les puis aisément rappeler,
-En vous voyant vous-même et vous oyant parler.
-
--*who_donalvar
-Il ne s'aperçoit pas qu'on le raille.
-
--*who_donbertran
       Ah galante !
 Plus matoise que vous n'est pas trop innocente,
 Et bien, que dites-vous de ce discours adroit,
 Ma Soeur  ?
 
--*who_leonor
-      Qu'elle répond comme une autre ferait.
-
--*who_donbertran
 Et mon Cousin  ?
 
--*who_donalvar
-      Qu'il faut que toute autre lui cède,
-Et qu'elle a trop d'esprit pour ne pas être laide.
-
--*who_donfelix
-J'éprouve le contraire, hélas, à mes dépens.
-
--*who_leonor
-Faites-la démasquer, mon Frère, il en est temps.
-
--*who_donbertran
 Oui, ça, voyons un peu qu'elle est votre figure,
 Et si vous n'êtes point de laide regardure  ?
 
--*who_isabelle
-C'est à moi d'obéir puisque vous l'ordonnez.
-
--*who_donalvar
-Que vois-je  ? Hélas ! Guzman.
-
--*who_guzman
-      Quoi donc, vous en tenez  ?
-
--*who_donfelix
-À la voir seulement que mon âme est ravie !
-
--*who_donalvar
-C'est celle que j'adore, et qui me doit la vie.
-Je suis perdu, Guzman, si l'hymen s'accomplit.
-
--*who_jacinte
-L'on vous a reconnue, et Don Alvar pâlit.
-
--*who_donbertran
 Ma foi, je ne sais pas quel en fut l'exemplaire,
 Mais vous avez bien là réussi, mon Beau-père.
 
--*who_dongarcie
-Ce qu'elle a de beauté pour le moins est sans fard.
-
--*who_donbertran
 Elle a l'oeil à mon gré mignardement hagard ;
 Et si jamais en vers je dois peindre une Belle,
 Allez, je pourrai bien prendre patron sur elle.
 
--*who_isabelle
-As-tu jamais ouï discours plus ennuyeux !
-
--*who_jacinte
-Écoutez, Don Alvar, il vous parle des yeux.
-
--*who_donbertran
 Est-elle laide  ? Et bien, le croyez-vous encore  ?
 
--*who_donalvar
-Elle est incomparable, et digne qu'on l'adore.
-
--*who_donbertran
 Oyez-vous ce qu'il dit  ?
 
--*who_isabelle
-      Don Alvar est flatteur.
-
--*who_donalvar
-Tu m'avouerais que non si tu voyais mon coeur.
-
--*who_donbertran
 Vous me semblez parfaite autant que les parfaites,
 Vous avez les yeux doux, les paupières bien faites,
 Qui ne vous aimerait, je le tiendrais pour sot.
 Ma foi, remasquez-vous, ou je ne dirai mot,
 Visage découvert, je n'en sais par où prendre.
 
--*who_isabelle
-Votre entretien est tel que je n'ose y prétendre ;
-Cessez de profaner un discours si poli.
-
--*who_donbertran
 Vous l'avez bien instruite, elle a l'esprit joli ;
 Son humeur toutefois me semble un peu rêveuse.
 Mon Cousin, contez-lui quelque histoire amoureuse,
@@ -1092,13 +324,874 @@ J'en saurai dès demain en faire une Comédie,
 Que pour gage d'amour déjà je vous dédie.
 Vous divertiriez-vous à l'ouïr  ?
 
--*who_isabelle
-      Je le crois.
-
--*who_donbertran
 Dites donc.
 
--*who_donalvar
+Holà, vous en saurez bien d'autres, que je pense.
+Rêvez si vous voulez, mais je me trompe bien
+Si pour vous égayer il vous conte plus rien.
+
+Vous êtes un causeur, elle est une causeuse.
+Mais, ma foi, je la veux un peu dépayser,
+Et voir si dans Tolède on l'entendra jaser,
+Moi présent, son époux. Oyez, les belles filles,
+Il faut de grand matin demain trousser ses quilles,
+Peut-être avant le jour, car j'ai hâte, et je veux
+Sur mon propre fumier faire un peu l'amoureux ;
+La station m'en semble et moins chère et meilleure.
+
+Celle qu'il me plaira ; chacun peut sur un lit
+Se tenir toujours prêt sans quitter son habit.
+Qui ne le sera point restera pour les gages.
+
+      Il n'en est pas besoin,
+Je sais bien le chemin.
+
+      Mais, ne vous déplaise.
+
+      Et bien j'en suis fort aise.
+
+      À vous qui, je ne vous connais point.
+
+      Je n'y saurais que faire,
+Il pria qui lui plût quand il se maria,
+Mais de son temps au mien grand changement y a.
+Pourvoyez-vous ailleurs.
+
+Ne me voyez jamais, je n'en pleurerai pas.
+
+De pareils estafiers le quart d'une douzaine
+À désenfler ma bourse aurait bien peu de peine.
+Où Diable celui-ci s'est-il venu fourrer  ?
+Se prier de ma noce afin de s'y bourrer  ?
+Il s'est bien adressé pour rencontrer sa dupe ;
+Mais comme il se fait tard, un autre soin m'occupe.
+De quoi souperons-nous  ? Ma Maîtresse, allons voir
+Si l'hôte a quelque chose à nous donner ce soir,
+Nous choisissons ensemble un morceau de régale.
+Venez.
+
+      Ce n'est rien, ce n'est qu'un peu de gale.
+Je tâche à lui jouer pourtant d'un mauvais tour,
+Je me frotte d'onguent cinq ou six fois par jour,
+Il ne m'en coûte rien, moi-même j'en sais faire,
+Mais elle est à l'épreuve, et comme héréditaire ;
+Si nous avons lignée elle en pourra tenir.
+Mon père en mon jeune âge eut soin de m'en fournir,
+Ma mère, mon aïeule, mes oncles, et mes tantes
+Ont été de tout temps et galants et galantes,
+C'est un droit de famille où chacun a sa part ;
+Quand un de nous en manque il passe pour bâtard.
+
+Je vous entends, la belle, allons le raffermir,
+Et puis nous songerons un moment à dormir.
+
+      Qui va là  ? Qu'est-ce  ?
+
+Qui va là  ? Qui va là pour la seconde fois  ?
+J'ai pourtant à ma porte entendu quelques voix,
+On y faisait du bruit, il faut que je le sache,
+Je chercherai partout, malheur à qui se cache.
+Mais je pense entrevoir un Homme dans ce coin,
+Tâchons de nous munir de courage au besoin.
+Parle, qui que tu sois, ou bien je t'estropie.
+
+Dis ton nom.
+
+Que fais-tu là  ?
+
+Le lieu n'est pas mal propre.
+
+Sans lune, et sans cadran  ? Mais viens ça, c'était toi
+Qui frappais à ma porte, il faut dire pourquoi.
+
+Si quelqu'un avait pris une porte pour l'autre.
+Je veux m'en éclaircir.
+
+Et tu viens cependant passer ici la nuit  ?
+
+      Certain désir me presse
+D'aller voir en tous cas ce que fait ma maîtresse.
+Que pourrait-elle faire à présent  ? Elle dort.
+
+Écoutons de plus près, ronfle-t-elle bien fort  ?
+Je ne voudrais pour rien d'une femme ronflante.
+
+      Je m'en vais l'éveiller,
+Car j'ai démangeaison beaucoup de babiller.
+Qu'en pourrait-elle dire  ? Elle est presque ma femme.
+
+      De quoi  ?
+
+Ma foi, je suis ravi, par ce que tu proposes,
+De te voir curieux d'ouïr les belles choses ;
+Je t'en aime encor plus, et veux te faire part
+D'une pièce admirable où j'ai surpassé l'Art,
+Elle est bien pathétique, en sentiments fort tendre.
+
+J'éveillerais ma Soeur qui nous interromprait.
+Tu verras là-dedans un Galant bien adroit,
+Et l'Ouvrage surtout merveilleux en conduite.
+
+      Hérode Innocentituant.
+
+      Au sujet il est fort congruant,
+Tu l'avoueras toi-même, et je te fais arbitre
+S'il pouvait recevoir un plus confortable titre
+Tout vient dans ce grand poème admirablement bien.
+
+Aussi jamais travail ne me fit tant de peine ;
+Mais pour tenir au fait, dans la première scène
+Je fais entrer Hérode, et trois cents innocents.
+
+      Qui viens-tu d'avertir  ?
+
+Je fais dans celle-là le plus beau trait du monde,
+Au moment qu'ils sont tous condamnés à la mort...
+Mais qu'est-ce ci  ? Je vois ce qui me déplaît fort.
+
+      Ah, vraiment, ma Maîtresse m'amie,
+Je vous faisais grand tort de vous croire endormie.
+
+      Un homme seulement
+Qu'Isabelle en sa chambre enferme galamment,
+Il allait s'échapper quand j'ai tourné la tête.
+Tiens en main comme moi la dague toute prête,
+Je lui veux tout au moins couper jambes et bras.
+Ouvrez, ouvrez, vous dis-je, ou je mets porte bas.
+
+      Moi, Mari de fabrique nouvelle.
+
+Vous ne dormiez donc pas, Isabelle la belle  ?
+
+Avec malin vouloir je me transporte ici,
+Vous ne dormiez donc pas  ?
+
+Que vous ne dormiez pas, mais je n'en fais que rire.
+Ce galant que je cherche, a-t-il le nez bien fait  ?
+
+Vous m'estimez donc fou, Madame la Mignonne,
+Et vous me l'osez dire à moi-même en personne  ?
+Vous en déplaise ou non, malgré vous et vos dents
+Je m'en vais fureter et dehors et dedans,
+Tant que j'aie à la fin trouvé le Personnage.
+
+      Qu'as-tu  ?
+
+      Et la lumière est éteinte, ô le fat !
+
+Hôte, Garçon, Servante, holà, de la lumière.
+
+Qui tiens-je  ? Ah, j'ai saisi mon Galant bien à point.
+Il allait sans mot dire enfiler la venelle.
+Le nom.
+
+La lumière paraît, je verrai si c'est toi.
+
+      Ah, ah mon Capitaine,
+C'est donc vous  ?
+
+Mon Cousin mon ami, vous n'êtes qu'un Pendard.
+Que faisait-il ici  ? Parlez, la fine mouche.
+
+Diable, vous y venez regarder de bien près.
+C'est donc pour mon honneur  ?
+
+De quoi vous mêlez-vous  ? Je veux qu'il y regarde,
+Qu'il en prenne le soin quand bon lui semblera,
+Et malgré tout le monde il y regardera.
+
+      Je veux me plaindre,
+Pour homme tel que vous je dois peu me contraindre.
+
+      Commandez de grâce à vos valets,
+Allez-vous-en dormir, et nous laisser en paix.
+
+      Qu'il aille au Diable, et sans en revenir.
+
+Don Alvar mieux que moi pourra vous satisfaire.
+
+      Je l'ai surpris ici,
+Il y vient pour mon compte.
+
+      Il faut le croire,
+Ou qu'il venait encor lui conter quelque histoire.
+À ces contes en l'air son coeur s'épanouit.
+
+      Soutiens-la, de l'eau, vite.
+
+      Ce mal est venu tout à coup.
+
+Vous voyez, mon Cousin, de quoi vous êtes cause.
+Mais j'ai certain onguent mixtionné d'eau rose,
+Il est de grande force, et de sa pâmoison
+En moins d'une heure ou deux il nous fera raison.
+Je cours jusqu'à ma chambre.
+
+Voici notre Remède. Ah, vous êtes debout.
+Où vous tenait ce mal, Soeur un peu trop dolente  ?
+Mais vous avez la mine aussi peu rechignante.
+Qu'auriez-vous de nouveau  ?
+
+Et ce joli Mignon, que faisait-il ici  ?
+
+      Vous faites donc la fine  ?
+Dormez tout votre saoul ; je ne partirai point
+Que l'on ne m'ait appris le tout de point en point.
+
+      Vous devriez vous taire,
+Je suis et bon et sage, et veux ce que je veux.
+Rentrez.
+      Adieu, la Belle.
+
+Vous n'avez rien ouï de tout ce grand vacarme  ?
+
+      Ni crier à l'alarme  ?
+
+      Si le feu de nuit prenait à la maison
+Vous vous laisseriez donc rôtir comme un oison.
+Toutefois pour avoir l'âme si sommeillante,
+Vous avez engendré fille peu dormante.
+
+      Allons tout doux,
+Nous avons tout loisir, et le jour est à nous.
+Dites-moi, seriez-vous bien aise de m'entendre  ?
+
+Je m'en vais vous conter un assez vilain cas ;
+Mais oyez-vous bien clair quand vous ne dormez pas  ?
+Parlerai-je bien haut  ?
+
+N'interromprez-vous point  ?
+
+      Mon dessein
+Est de parler longtemps.
+
+Posément  ?
+
+      Et vous saurez-vous taire ?
+
+      Écoutez donc, beau-père.
+Je prétends être noble, et non pas, Dieu merci,
+De ceux qui seulement le sont cosi-cosi,
+Je chasse de plus loin, et ferais bien voir comme
+L'aïeul de mon aïeul était très gentilhomme.
+Quoique issu de parents si nobles et si preux,
+Et moi par conséquent encor plus noble qu'eux,
+Ma façon de traiter est pourtant assez ronde,
+Je suis humble, je fais état de tout le monde,
+Et bien loin d'imiter mille jeunes muguets,
+Je m'entretiendrais même avecque des laquais.
+Aussi des bons, dit-on, Don Bertran est la crème,
+Il n'est dans le pays personne qui ne l'aime,
+Qui n'en dise du bien, et cela se connaît,
+Chacun me rit au nez aussitôt qu'il me voit.
+À monter à cheval je triomphe, j'excelle,
+Je tombe d'un plein faut à ravir sur la selle,
+Mais d'un faut si léger que j'éblouis les yeux,
+Et de la selle en bas je tombe encore mieux.
+Cent fois m'est avenu sans me rompre os ni veine,
+Ce qui de mon adresse est marque très certaine,
+Car beaucoup n'ont tombé qu'une fois seulement,
+Qui se sont échinés fort maladroitement.
+Pour vaillant, je le suis, je crève de courage,
+Je chante comme un cygne, à danser je fais rage,
+Jusqu'à donner leçon à certain petit chien
+Qui danse comme un drôle, et qui ne m'en doit rien.
+D'ailleurs, je me connais assez bien en peinture,
+De cette propre main j'ai fait ma portraiture,
+Et n'ai pas moins de grâce à toucher le pinceau
+Que d'esprit à tirer des vers de mon cerveau ;
+Car vous n'ignorez pas, sans que je vous le die,
+Que je sais en six jours faire une Comédie,
+Et que si le Théâtre était estropié
+J'ai déjà trop de quoi le remettre sur pied.
+Quant au fait du ménage où je m'applique l'âme,
+Je sais comme il faut vivre, et n'en redoute femme.
+J'ai pourtant le coeur bon, et ne pleure jamais
+Ou la dépense faire, ou celle que je fais.
+Qu'un Parent me soit mort, sans qu'on me sollicite,
+Je me mets en grand deuil pourvu que j'en hérite,
+Je m'en console ainsi mieux qu'à moi n'appartient,
+Je prends toujours courage, et le temps comme il vient,
+L'esprit fort et constant, sans me mettre en cervelle
+Ce que peut dire un tel ou penser une telle,
+Je fais nargue au babil, et qui plus est, ma foi,
+Je me moque de ceux qui se moquent de moi.
+Pour ma taille, on ne peut la trouver engoncée,
+J'ai le pied bien tourné, la jambe bien troussée,
+Le port majestueux, le visage assez doux,
+Et la mine guerrière autant ou plus que vous.
+Sans doute vous direz ici que je me loue  ?
+En cela vous dites vérité, je l'avoue,
+Je me loue en effet, mais il est à propos,
+Et pour conclure enfin l'affaire en peu de mots,
+Las de vivre toujours sans Femme noire ou blonde
+Par qui pouvoir laisser des Don Bertrans au monde,
+Noble vaillant, adroit, danseur, dispos, léger,
+Poète, Musicien, Peintre, bon ménager,
+Et surtout, qui n'est pas chose fort dégoûtante,
+Ayant près de sept fois mille ducats de rente,
+Je viens pour faire honneur à Madame Isabeau,
+Et par un bon contrat me charger de sa peau,
+Sans en rien espérer que lorsque la mort fière
+Par grand bonheur pour moi vous clora la paupière,
+Jugez jusqu'où pour vous je me suis relâché,
+Et si ce n'est pas là me vendre à bon marché ;
+Et malgré tout cela, j'entre en chaud mal de fièvre,
+Et trouve qu'on me donne un chat au lieu d'un lièvre.
+
+      Laissez-là mon esprit,
+Nous en disputerons lorsque j'aurai tout dit.
+
+      Vous avez l'humeur prompte,
+Soyez de par le Diable attentif à mon conte,
+Écoutez jusqu'au bout, vous parlerez après.
+J'avais mandé, je pense, en termes fort exprès
+Qu'Isabelle s'en vînt bien et dûment masquée,
+Bien loin de m'obéir elle s'en est moquée,
+Et partant de Madrid n'a mis sur son minois,
+Pour me faire enrager, qu'un masque de trois doigts.
+Ce qui m'émeut la bile encore davantage,
+C'est que vous ayez fait sans besoin le voyage,
+Peut-être sous l'espoir d'attraper un repas ;
+Cependant en deux mots je ne le voulais pas,
+Et je vous épargnais la peine de le faire
+Par un Récépissé passé devant Notaire,
+Outre que votre fille aime trop le caquet,
+Tout ce qu'elle m'a dit sent son esprit coquet,
+Sa tête a des vapeurs qu'on a peine à rabattre,
+Pour un pied qu'on lui donne elle ose en prendre quatre,
+Elle est presque toujours sur le raisonnement,
+Et raisonnant raisonne irraisonnablement ;
+Force cajolerie et mots galants en bouche,
+L'oeil souvent en campagne, et l'accueil peu farouche.
+J'aime de cette humeur la Femme d'un Voisin,
+Mais je veux que la mienne aille le grand chemin.
+De plus, un Don Félix, adroit de la prunelle,
+En dépit que j'en aie a toujours l'oeil sur elle.
+Même j'ai cette nuit été fort alarmé
+Trouvant mon beau-Cousin dans sa chambre enfermé,
+Et j'y suis, m'a-t-il dit, comme un Parent fidèle
+Qui viens pour votre honneur faire la sentinelle,
+Et voir si Don Félix oserait s'y couler.
+
+Non pas, mais toutefois c'est chose assez infâme
+Qu'un Mari corps pour corps n'ose piéger sa Femme,
+Qu'il ait quelque scrupule, et demeure en soupçon
+Si de nuit un galant l'entretenait ou non.
+Enfin j'aimerais mieux la moindre Paysanne,
+Il faut à votre fille homme qui porte canne,
+Allez-en quêter un, j'en suis fort satisfait ;
+Nourriture de cour n'est point du tout mon fait,
+Vous le savez fort bien en votre conscience.
+Payons donc, s'il vous plaît, par moitié la dépense,
+Tirons chacun du nôtre au sortir de ce lieu,
+Toute promesse nulle, et bons amis, adieu.
+Je n'ai plus d'appétit touchant le mariage.
+
+      Vous êtes Don Garcie,
+Que je souhaiterais n'avoir vu de ma vie.
+
+Criez, jurez, pester, si vous le trouvez bon.
+Pour moi, si j'en démords je veux bien qu'on m'étrille.
+Rendez-moi ma quittance, et prenez votre fille.
+
+À d'autres, rengainez, j'ai plus de soixante ans,
+Je ne suis plus d'âge à tenter l'enfilade,
+Et si je porte un fer, ce n'est que par parade.
+
+Ô de tous les Vieillards le plus sanguinolent !
+
+      Si je suis ma colère...
+Mais tant s'estomaquer n'est pas fort nécessaire.
+Voyez-vous, je suis bon, et d'un mot de douceur
+On m'arracherait l'âme, on me fendrait le coeur.
+J'accorde et me soumets d'épouser Isabelle,
+Mais à condition seulement...
+
+Que si ce Don Félix venu pour elle exprès
+Ose l'envisager ou de loin ou de près...
+
+      Croyez-vous que je sois une bête,
+Et ne connaisse pas clairement aujourd'hui
+Que sans comparaison je vaux bien mieux que lui  ?
+Mais aussi bien que moi vous avez osé dire
+Que fille qui choisit bien souvent prend le pire.
+Si donc je m'aperçois, et vous fais voir enfin
+Qu'Isabelle ait pour moi le coeur traître et malin,
+Vous me rendez soudain, sans sommations nulles,
+Ce qu'il m'a pu coûter en louage de mules,
+Ce que j'ai déboursé pour le carrosse aussi,
+Et ce que depuis hier j'ai fait de frais ici ;
+Car franchement, à moins qu'Isabelle soit nôtre,
+Je serais un grand sot de payer pour un autre.
+
+Allez donc disposer tout le monde à partir.
+
+Guzman.
+
+      Tu me vois avec ma courte honte,
+Notre marché tiendra.
+
+En vain pour m'en tirer j'ai fait ce que j'ai pu,
+Ce Diable de Beau-père est trop opiniâtre.
+
+Au profit de sa fille ; il a fort peu de bien,
+Elle empire d'attendre, et je la prends pour rien.
+La garde d'un tel meuble à la fin peut déplaire.
+
+Comment ? Je suis donc pris pour dupe ?
+
+Ah, que si je pouvais rattraper ma quittance !
+Mais notre épouse encor, qu'a-t-elle  ?
+
+Quel ?
+
+      Dis.
+
+      Achève tôt.
+
+      Si tu ne le dis, je jouerai de la dague.
+
+      Oui, parle.
+
+Elle ?
+
+      Ce n'est donc qu'en de certains moments.
+
+      Dans sa folie il irait bien du nôtre.
+Aussi hier à l'abord il m'était fort nouveau
+Que mon Cousin lui fît un conte de Taureau.
+
+      Jaser comme une pie.
+Tant de raisons en l'air de ceci, de cela,
+Qu'enfin je crus devoir y mettre le holà.
+Je suis bien à mon aise avec mon Mariage.
+
+      J'en enrage,
+Mais Don Garcie...
+
+C'est un vieillard colère, et jusqu'à dégainer.
+
+      Au besoin tu manques de prudence.
+S'il faut que je le tue ?
+
+En suite d'un combat où j'aurai tout risqué,
+Si mon bien se confisque  ?
+
+Toi-même en cas pareil te voudrais-tu bien battre ?
+
+      Tu fais le Diable à quatre !
+
+Guzman a du courage ?
+
+L'on y peut beaucoup perdre, et l'on n'y gagne guères.
+
+Pourquoi ?
+
+Ces Esprits de Madrid sont prompts comme le Diable.
+
+Que ne suis-je à Tolède ! Il faut l'amadouer,
+Car tentant le hasard, sur quoi que je me fonde,
+Il me faudrait quitter le Pays, ou le Monde,
+Et je me trouve bien, ma foi, dans tous les deux.
+Mais Diable, le voici, ce redoutable Preux,
+Ah, pauvre Don Bertran !
+
+Dites.
+
+Quiconque marche droit, sans fraude, et comme il faut,
+Ne fait rien en cachette, et parle toujours haut.
+Quant à moi, je ne crains nullement qu'on m'entende.
+
+Hier quand je vous parlai, je parlai haut et net,
+Je ne demande rien que je ne veuille faire,
+Et vous pouvez choisir de parler, ou vous taire.
+
+Il est vrai, je veux bien l'avouer entre nous.
+Hier transporté d'amour j'eus l'âme un peu hautaine,
+Vous n'eûtes pas de moi satisfaction pleine,
+Je fis trop peu d'état de votre compliment,
+Vous vouliez m'honorer fort amiablement,
+Venir jusqu'à Tolède avec toute la Bande,
+Et c'était-là me faire une grâce fort grande,
+Je devais l'accepter, je l'avoue à ce coup,
+Car vous êtes brave Homme, et vous valez beaucoup,
+Gracieux, obligeant ; de plus, je considère
+Que vous étiez ami de feu Monsieur mon Père.
+Ainsi par ses raisons, pour refaire la paix,
+Vous serez de ma noce, et je vous le promets,
+Prenez place au carrosse auprès de l'épousée,
+Et pour rendre entre nous cette paix plus aisée,
+J'aurai deux violons pour nous faire danser.
+Vous êtes mon ami plus qu'on ne peut penser,
+Et pour l'amour de vous je me mettrais en pièces.
+
+      Combien avez-vous de Maîtresses  ?
+Je vous trouve bien fait, vous avez l'oeil mignon,
+Et la mine surtout d'être bon compagnon.
+
+Quoi, vous auriez encor quelque chose à me dire  ?
+
+Vous ne me direz rien que de fort à propos  ?
+
+      Parlez donc, car je pense
+Que je suis en humeur de donner audience.
+
+      Tant pis, si vous n'êtes en grâce.
+Depuis combien de temps lui donnez-vous la chasse  ?
+
+      C'est bien s'être aveuglé
+Que souffrir si longtemps son esprit déréglé,
+Car vous en aurez vu quelques extravagances  ?
+
+D'une amour réciproque avez-vous quelques gages  ?
+
+Quoi, vous ayant toujours fait mine peu civile,
+Cette nuit seulement elle a changé de style  ?
+
+      Je gagerais ma peau
+Qu'elle croyait parler à l'homme à son Taureau,
+Et que sa vision lui tenait à la tête.
+Mais passons outre ; enfin quelle est votre requête  ?
+
+Ah, si je la contrains, je veux que l'on me pende ;
+Mais aussi, si je fais ce coup d'Ami pour vous,
+Vous satisferez l'Hôte, et vous payerez pour tous.
+Je fis hier par amour dépense assez complète,
+Et je vous y transporte et mon droit et la dette.
+
+      À la bonne heure, soit.
+Mais avecque ma Soeur la voici qui parait,
+Je veux tout maintenant vous en faire remise.
+
+Oui bientôt. Approchez, belle Nymphe aux yeux doux.
+Donnez-moi votre main.
+
+Touchez-là.
+
+      Vous, vite, et sans plus de mystère.
+Don Félix vous en conte, il est de vous chéri,
+Je vous fait son épouse, et lui votre Mari.
+Je ne fus convoiteux jamais du bien d'un autre.
+
+Sachez qu'onques à vous n'appartint tel honneur.
+
+      Mettons bas les finesses,
+L'on sait, ce que l'on sait, et... mais je ne dis mot.
+Si plus on m'y retient, je veux passer pour sot.
+
+      Perd-elle contenance  ?
+Vous entretenez donc de nuit le cavalier,
+Et quand à votre chambre on va vous épier,
+On vous blesse, on fait tort à votre prud'homie.
+
+      C'est un brave cousin,
+Il veille à mon honneur comme je le souhaite.
+
+Je sais si c'est par ruse, ou de force, ou de gré,
+Taisez-vous.
+
+      Vous êtes forte en gueule.
+Votre langue a passé de nouveau sous la meule,
+Elle est bien affilée.
+
+      Jusqu'à quand voulez-vous discourir  ?
+
+      Diable, que de paroles !
+Enfin je vous mettrai dehors par les épaules.
+
+C'en est trop, allez voir là dehors si j'y suis.
+
+Or sus, nos deux Amants, sans tarder davantage,
+Parlez, je jugerai de votre différend.
+
+Vous ai-je pas bien dit que c'était vision,
+Qu'elle croyait parler à son galant d'idée  ?
+Cherchez fortune ailleurs, l'affaire en est vuidée.
+
+À bien et justement raisonner là-dessus,
+Vous m'aimez mieux que lui  ?
+
+Mais certain Cavalier ne vous saurait déplaire  ?
+
+      Celui du taureau. Feinte à part, vous l'aimez ?
+
+Guzman.
+
+Aimez ce beau Galant, je n'en suis point jaloux.
+
+Je consens qu'il le soit, et lui cède ma place.
+
+Non, j'y consens, vous dis-je, et serai son Ami,
+Mais à condition qu'il se rendra visible.
+
+      Si la chose est possible,
+Faites que je le voie.
+      Elle en tient.
+
+Adieu, jusqu'au revoir, la belle Aventurière.
+
+      Ah, ma soeur la mutine,
+Vous traitez donc ainsi l'amour à la sourdine,
+Tête à tête de nuit, et vous faites complot
+De mettre voile au vent tous deux sans dire mot  ?
+
+      Taisez-vous, je vous prie.
+Doncques vous rompez tout si l'on ne vous marie  ?
+
+      Taisez-vous, vous dis-je, et point de bruit,
+Vous serez mariée à qui vous en poursuit.
+
+      Quant à vous n'ayons point de querelle,
+Elle vous amourache, aussi faites-vous elle,
+Vous en voulez par là, j'en suis très fort joyeux ;
+Mais vous l'épouserez, ma foi, pour ses beaux yeux.
+Prenez, je vous la livre, elle est et belle et droite,
+N'a nuls défauts cachés, ne cloche, ni ne boite,
+C'est comme il vous la faut, vous serez bien conjoints.
+
+      Non, mais quoi qu'il en soit,
+C'est sa faute et la vôtre, et qui la fait, la boit.
+Vous en voulez tâter encor qu'il m'en déplaise ;
+D'accord, oui, passez-en votre envie à votre aise,
+Mais que je donne rien, ou contribue aux frais...
+
+Laisser ainsi ma Soeur !
+
+      Je m'en aperçois bien,
+Mais je l'estropierai.
+
+Il faut...
+
+      Cet infâme
+En a, vous le voyez, laissé gâter la lame ;
+Elle est toute rouillée, et je crois que sans vous
+Pour son manque de soin je le rouerais de coups.
+
+      Ma foi, c'est son affaire,
+Qu'elle y soigne.
+
+Si le coeur vous en dit, ma Soeur, courez après,
+Je ne m'en mêle plus, c'est un point de chicane,
+Et d'ailleurs, s'il n'a soif, fera-t-on boire un âne  ?
+
+      Elle pleure,
+Les oiseaux étaient drus, ils se sont dénichés.
+Pleurez, ma pauvre Soeur, pleurez pour vos péchés.
+
+De grâce, dites-moi, mon prétendu Beau-père...
+
+Si vous l'êtes jamais, je veux être pendu.
+Pour la seconde fois j'en jure de la sorte,
+Si c'est trop peu jurer, que le Diable m'emporte,
+C'est tout dire, on doit croire un homme à son serment.
+
+Vous me pensiez mener par le nez comme un Ours.
+
+Vous êtes bilieux autant qu'homme du monde,
+Vous deviez donner prompt remède à cela.
+Je compose un onguent...
+
+Je ne suis pas un sot, et cela vous suffise.
+
+Et si sa vision la prenant au collet,
+Elle s'en va sauter au cou de mon valet
+Le croyant Chevalier de l'Animal à cornes  ?
+
+      Ne faites point le fin.
+Mais dites, son cerveau (car je sais tout enfin)
+En quel temps reçoit-il cette idée importune  ?
+Est-ce dans la nouvelle, ou dans la pleine Lune  ?
+
+Doncques elle n'a point la cervelle blessée
+De cette chimérique et fantasque pensée,
+Qu'à la valeur d'un Brave en un pressant danger...
+Mais la voici qui vient pour vous faire enrager,
+Nous allons tout savoir.
+
+Et bien, la belle, enfin nous tiendrez-vous parole  ?
+
+Oyez, mais par ma foi, c'est méchanceté pure,
+Et vous savez fort bien où lui tient l'enclouure.
+
+      Ignorez donc, il m'importe fort peu,
+Je retire sans bruit mon épingle du jeu.
+De peur d'engendrer noise, usez-en tout de même.
+
+C'est stratagème encor  ?
+
+Vous a-t-on demandé votre avis là-dessus  ?
+Vous tairez-vous jamais  ?
+
+      Est-il vrai  ? Dites-moi,
+Vous fait-il les yeux doux  ?
+
+Quand je vous eusse vu en compétence d'âge,
+Je voulais avec vous en faire un mariage,
+Même je l'appelais déjà mon Héritier,
+Comme si j'eusse dû ne me point marier,
+Et le galant me joue ! Ah si je ne me venge...
+
+Je suis bien ennuyé de vous ouïr jaser ;
+Sans cesse vous parlez si je ne vous fais taire.
+Mais voici mon Cousin.
+
+      Venez le Débonnaire,
+Qui faites l'amiable et qui me trahissez.
+
+      J'en sais plus que vous ne pensez,
+Et vous ferai bien voir que je suis hors de page.
+Vous n'avez subsisté que par le cousinage,
+Et sans moi qui fournis, et peut-être dès demain
+Vous tireriez la laine, ou vous mourriez de faim  ?
+
+      Je prenais Isabelle
+Seulement sur le bruit qu'elle avait d'être belle,
+Car du reste, néant, elle n'a pas un sou.
+
+Vous lui parlez d'amour au mépris de ma flamme  ?
+Mariez-vous sur l'heure, et la prenez pour Femme,
+C'est par où je prétends me venger de tous deux.
+Elle, sans aucun bien, vous, passablement gueux,
+Allez, vous connaîtrez plutôt qu'il ne vous semble
+Quel Diable de rien c'est, que deux riens mis ensemble.
+Dans la nécessité vous n'aurez point de paix,
+L'amour finit bientôt, la pauvreté, jamais.
+Afin que tout vous semble aujourd'hui lys et roses,
+J'aurai soin de la noce, et paierai toutes choses,
+Mais vous verrez demain qu'on a peu de douceur
+À dîner d'un Ma vie, à souper d'un Mon coeur,
+Et qu'on est mal vêtu d'un drap de Patience
+Doublé de Foi partout, et garni de Constance.
+
+Où je parle, où je suis, c'est à vous de vous taire.
+Je vous l'ai dit cent fois, vous n'en voulez rien faire,
+Parlez tout votre saoul, ma Soeur, mais sur ma foi ;
+Vous ne vous marierez jamais non plus que moi ;
+Je hais qui comme vous incessamment babille,
+Et pour vous en punir vous mourrez vieille fille,
+Allez, n'en doutez point, c'est un coup sûr pour vous.
+
+      Or sus, futurs époux,
+Vous promettez-vous pas une foi réciproque ?
+
+      Ah, Don Alvar vous choque ?
+Qu'y trouvez-vous à dire ? Il est beau, doux, bénin,
+D'assez belle encolure, et de plus, mon Cousin,
+Cette qualité seule est assez noble et haute ;
+Il est vrai qu'il est gueux, mais ce n'est pas ma faute,
+Son Père avait du bien jadis, et...
+
+Oui, mais je n'en veux plus puisqu'elle n'est pas sage,
+Elle aime mon cousin, mon Cousin l'aime aussi ;
+Qu'il l'épouse s'il veut, j'en prends peu de souci.
+
+Quoi, cela n'est pas vrai  ?
+
+Ah, Guzman, je croyais que tu m'eusses fourbé.
+
+N'importe, épousez-là, Cousin, je vous en prie.
+
+      J'aime mieux tous les ans
+M'obliger par contrat à vous donner cent francs.
+
+      Au moins il me le semble.
+
+      Ah! Vieillard sans pitié.
+
+      La moitié de mon bien!
+Guzman, le coeur m'en saigne.
+
+J'y pense, j'y repense, et plus que tu ne penses,
+Et je trouve après tout qu'il est fort à propos
+Que je ne fasse point nombre parmi les Sots.
+Déjà la Confrérie est assez belle et grande,
+Sans m'aller de surcroît mettre encor de la bande.
+Je suis vieux, elle est jeune, et n'a pas l'esprit droit,
+Et si j'en réchappais le Diable s'en pendrait.
+
+      Vous avez grande hâte,
+Laissez-moi prendre avis, rien encor ne se gâte.
+
+      Ah, le pressant Grison,
+Qui fait le raisonnable, et parle sans raison !
+Puisque aussi bien pour nous c'est un mal nécessaire,
+J'aimerais mieux avoir deux Femmes qu'un Beau-père.
+Avecque bouche à Cour, et deux mille ducats,
+Je crois que mon Cousin ne vous déplaira pas.
+De pareil revenu j'ai certain héritage
+Que je lui donne en propre, et dont pourtant j'enrage,
+Mais je mérite bien qu'on rie à mes dépens.
+
+Vous l'êtes donc aussi  ?
+
+Si jeune, vous craignez son esprit peu traitable,
+Vieux, elle me ferait donner cent fois au Diable
+Pour m'en débarrasser donnez-lui votre foi.
+
+      Je ne vois point ma Soeur.
+Je crois de cet Hymen qu'elle est peu réjouie.
+
+Le chien et le sot mal qui la prend tous les jours !
+
+Peut-être que ma Soeur est prête à rendre l'âme,
+Et vous voulez ici faire le gracieux  ?
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvar
+
+      Le Ciel, ô Don Garcie,
+Vous comble d'un bonheur où chacun porte envie !
+Vous savez ce qu'ici je viens vous demander.
+
+      Non, je ne saurais tarder.
+
+Enfin par ses désirs mon pouvoir est réglé.
+Sa volonté le borne, et ma charge est expresse,
+Je vous dois de sa part demander sa Maîtresse,
+La mener en carrosse, et la suivre à cheval.
+
+Des coups que vous portez on veut me garantir,
+Madame, et si l'on cache à ma débile vue
+Les célestes attraits dont vous êtes pourvue,
+L'on connaît que l'éclat n'en peut être souffert,
+Que je pourrais me perdre où tout autre se perd,
+Et malgré le respect où mon âme est forcée,
+Permettre pour le moins un crime à ma pensée.
+
+Moi, Madame, en changer ! Ce sentiment m'outrage,
+Et vous devez penser qu'au mérite toujours...
+
+      Il n'est pas nécessaire
+Que vous quittiez Madrid pour une telle affaire.
+
+Don Bertran le défend.
+
+Il croit par ce billet que je dois vous laisser,
+Vous ôter sur ce point tout lieu de balancer,
+Et veut, comme bon Gendre, épargner à votre âge
+La peine et l'embarras de faire ce voyage.
+
+Enfin vous résoudrez sur ce qu'il a souscrit.
+
+Ce caprice pour lui m'oblige de rougir,
+Mais j'ai beau l'en blâmer, c'est sa façon d'agir.
+Il ne s'en peut défaire.
+
+Il ne s'aperçoit pas qu'on le raille.
+
+      Qu'il faut que toute autre lui cède,
+Et qu'elle a trop d'esprit pour ne pas être laide.
+
+Que vois-je  ? Hélas ! Guzman.
+
+C'est celle que j'adore, et qui me doit la vie.
+Je suis perdu, Guzman, si l'hymen s'accomplit.
+
+Elle est incomparable, et digne qu'on l'adore.
+
+Tu m'avouerais que non si tu voyais mon coeur.
+
       Je commence. Amour, seconde-moi.
 En un jour de Taureaux, hors Madrid, dans la plaine,
 Un Cavalier suivait une route incertaine,
@@ -1171,7 +1264,857 @@ Puisqu'elle s'abandonne à son triste devoir.
 Au récit du malheur dont le destin l'accable.
 Jugez s'il fut jamais amant plus déplorable.
 
--*who_isabelle
+Que dites-vous, Madame  ? Ah, s'il osait le croire,
+Qu'en un si grand malheur il trouverait de gloire !
+
+Vous trouvez cependant qu'ils sont tous deux à plaindre  ?
+
+Si d'un pareil malheur vous ressentiez les coups,
+Contre ou pour cet Amant que résoudriez-vous  ?
+
+Qu'obtiendrait-il, Madame  ?
+
+Ce serait le combler d'une joie infinie
+Que...
+
+Vous m'aviez demandé quelque histoire amoureuse.
+
+Jamais fou plus avant poussa-t-il sa folie  ?
+
+      Hélas ! Ne t'en étonne plus,
+Je meurs pour Isabelle, et mon âme asservie...
+
+Est la source des maux que je souffre en aimant :
+J'ai rencontré la mort dans mon champ de victoire,
+Et j'en viens d'en conter la pitoyable histoire.
+Que si jusqu'ici je t'en ai fait secret,
+On m'en avait prié, Guzman, je suis discret.
+
+      La digne Amante !
+
+Si pesante de corps, et l'esprit si léger,
+Soeur d'un Frère si fou, qui s'en voudrait charger  ?
+Mais elle te parlait tantôt  ?
+
+      J'ai bien d'autres soucis en tête.
+
+      J'aime.
+
+Un mal beaucoup plus grand, Guzman, je suis jaloux.
+
+      Ce cavalier me donne de l'ombrage
+Qui voulait avec nous achever le voyage.
+Il ne s'est point ici rencontré sans dessein,
+Sans doute un même feu nous échauffe le sein,
+Isabelle le charme, il la suit, et peut-être
+Il a gagné son coeur, il s'en est rendu maître.
+Guzman, s'il est ainsi, ma flamme a peu d'espoir.
+
+Parle donc, et de tout nous résoudrons après.
+
+Sa présence à ma flamme est toujours importune.
+
+Quoi, tu crois qu'Isabelle y pourrait consentir  ?
+
+      Je viens à ce dessein :
+Frappe, voici sa chambre.
+
+J'ai bien tout observé de peur d'en être en peine,
+Don Bertran choisissant cette chambre prochaine
+A voulu qu'Isabelle eût cet appartement.
+
+      Oui, frappe assurément.
+
+      Il n'importe.
+Mais quelqu'un parle, écoute, on ouvre cette porte,
+Voyons qui sortira.
+
+      Ne craignez rien, c'est Don Alvar, Madame.
+
+      Écoutez un malheureux Amant
+Qu'un destin trop cruel poursuit obstinément,
+Et qui prêt de vous perdre, en son malheur extrême
+Se croira soulagé s'il vous dit qu'il vous aime.
+Ce faible allégement dans un tel déplaisir
+Ne nous saurait coûter tout au plus qu'un soupir.
+
+      Enfin, Madame, il n'est plus temps de feindre,
+Mon amour est trop pur pour le vouloir contraindre ;
+Qui languit sans espoir peut bien se déclarer,
+La plus âpre vertu n'en saurait murmurer.
+Par quel décret fatal me fûtes-vous connue !
+Je vous perdis soudain après vous avoir vue,
+Cependant en secret mon coeur porte vos fers,
+Et quand je vous retrouve aussitôt je vous perds.
+Ô fortune obstinée à traverser ma joie !
+À combien de douleurs mets-tu mon âme en proie  ?
+
+Par ce jaloux soupçon, allez, allez, Madame,
+Au-devant de celui qui règne dans mon âme.
+
+Seul à craindre pour moi  ? Don Félix vous adore.
+
+Et que peut Léonor, puisqu'un juste mépris
+Fut toujours de son feu l'unique et digne prix  ?
+
+      Mon amour est extrême.
+En puis-je croire autant  ? M'aimez-vous  ?
+
+      Il vaut mieux qu'il demeure,
+Et qu'il fasse le guet, afin de m'avertir
+Aussitôt qu'il croira que je pourrai sortir.
+
+      Puis-je sortir  ?
+
+      Quel malheur m'accompagne !
+
+Ferme vite.
+
+Le soin de votre honneur comme parent me touche,
+Et pour y regarder je me cachais exprès.
+
+      Ô disgrâce inouïe !
+Guzman.
+
+      Ah, quels déplaisirs !
+Digne objet de ma flamme, écoutez mes soupirs.
+Voyez quelle douleur tient mon âme pressée
+À voir de vos beaux yeux la lumière éclipsée.
+Vous seule sur mon coeur régnez absolument,
+Et je n'aime le jour que pour vous seulement.
+
+      Enfin, je vous adore,
+Ma chère Léonor, respirez-vous encore  ?
+D'un coup d'oeil pour le moins répondez à ma voix.
+
+Madame...
+
+Ah, ne punissez pas avec tant de rigueur
+Un crime de ma langue, et non pas de mon coeur.
+Ne vous alarmez point d'une si vaine flamme,
+Que feignant de nourrir je désavoue en l'âme.
+De peur que Don Bertran par un soupçon jaloux
+N'ose imaginer que je brûle pour vous,
+Exprès pour Léonor je me feins l'âme atteinte.
+
+      Quel malheur est le mien  ?
+N'écouterez-vous point...
+
+Je ne vis que pour vous, seule je vous adore,
+Votre amour fait ma joie ; en faut-il plus encore  ?
+J'abhorre Léonor, et par de vains efforts...
+
+      J'aime, je dis...
+
+Moi, que dans votre chambre...
+
+      Isabelle, de grâce,
+Daignez ouïr...
+
+Léonor.
+
+Où l'as-tu donc laissé  ?
+
+Ce Beau-père obstiné le tient bien en cervelle  ?
+
+Et c'est !
+
+Tu me donnes, Guzman, une joie infinie.
+
+Aussi crois...
+
+Ah, Guzman, je l'adore.
+
+Assez pour avoir lieu de croire que son coeur
+Est le prix du beau feu dont je ressens l'ardeur.
+
+Léonor cette nuit l'a tenue inquiète,
+Mais elle a trop connu par quel adroit détour
+Pendant sa pâmoison je feignais de l'amour.
+J'ai dissipé sans peine un si léger nuage.
+
+      Loin de s'en défier,
+Croyant que tout de bon j'ai voulu l'épier,
+Et que cette action me la rend trop sévère,
+Il a pris soin pour moi d'apaiser sa colère,
+Nous a fait embrasser, et promettre tous deux
+Que jamais...
+
+      Ah, Jacinte, et bien serai-je heureux  ?
+Sais-tu quels sentiments a pour moi Don Garcie  ?
+
+N'importe, le temps presse, il faut se déclarer,
+Ce que j'ai fait pour lui me permet d'espérer.
+Peut-être qu'à mes voeux il sera moins contraire
+Sachant que c'est par moi qu'il se voir encor Père.
+Suivons notre dessein au péril du refus.
+
+Moi, vous trahir !
+
+Ce reproche est honteux.
+
+Qu'en voulez-vous conclure  ?
+
+Écoutons le Beau-père avant que de parler.
+
+Je pourrais la connaître et la trouver charmante !
+Je pourrais soupirer pour une extravagante,
+Qui s'ose imaginer qu'au péril de mes jours
+J'ai su contre un Taureau lui parler du secours !
+
+      Non, c'est pure folie
+Qui lui met en l'esprit qu'elle me doit la vie,
+Et cela va si loin, qu'enfin il m'a fallu
+Accorder malgré moi tout ce qu'elle a voulu,
+Et flatter son esprit de quelque espoir frivole.
+
+Qu'en ferai-je sans bien  ?
+
+L'offre est avantageuse  ?
+
+      Pour avoir lieu de l'être
+Sa folie est trop grande, et se fait trop paraître,
+J'aurai bien à souffrir d'un esprit si léger ;
+Mais pour vous satisfaire, et pour vous obliger...
+
+Cet ordre à mon amour est une douce loi,
+Mais si vous n'approuvez le beau feu qui m'anime...
+
+De grâce oublions tout.
+
+      Puis-je espérer, Madame.
+
+Suivons, et devant lui ne parlons que des yeux.
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+
+Ô lieu pour moi funeste ! Hélas, Mendoce, hélas !
+Ne me demande point le sujet qui m'amène ;
+Si tu savais mon mal, si tu savais ma peine,
+Tu me confesserais qu'en de tels déplaisirs
+C'est peu que d'exhaler sa douleur en soupirs.
+
+Que te dirai-je  ? Hélas ! Je viens mourir ici,
+Et rendre témoignage à la Beauté que j'aime,
+Que comme sa rigueur mon amour est extrême.
+
+Pour en guérir sitôt la cause en est trop belle.
+Depuis combien de temps adorai-je Isabelle
+Sans que jamais refus, ni mépris, ni froideur,
+Du feu qui me dévore ait modéré l'ardeur  ?
+Cependant, ô disgrâce à qui raison cède
+Don Garcie aujourd'hui la marie à Tolède,
+Don Bertran son époux l'attend ici ce soir,
+Toute prête à partir on me l'a fait savoir,
+Et je viens empêcher, ou par force, ou par ruse,
+Qu'un autre n'ait un bien qu'à ma flamme on refuse.
+
+L'espoir est si charmant qu'on ne s'en peut défendre.
+Malgré de mon destin l'impitoyable loi
+J'espère en Isabelle, en Don Bertran, en moi.
+Je sais que son bien seul le rend recommandable,
+Et qu'il sert à chacun de risée et de fable.
+Il est brutal, bizarre, et peut-être à le voir,
+Isabelle oubliera ce trop cruel devoir,
+Dont l'âpre austérité la force en dépit d'elle
+De courir en aveugle où sa rigueur l'appelle.
+Je parlerai, Mendoce, et ce peu que je vaux
+Se fera mieux connaître auprès tant de défauts,
+Il pourra m'acquérir le coeur de mon ingrate,
+Et faire réussir l'espoir dont je me flatte.
+Que si trop de vertu l'oblige à se trahir
+Jusqu'à vouloir me perdre en voulant obéir,
+Comme ce Don Bertran n'agit que par caprice,
+J'empêcherai par lui que l'Hymen s'accomplisse,
+Et le faisant entrer en doute de sa foi,
+Je saurai travailler et pour elle et pour moi.
+L'artifice en amour fut toujours légitime ;
+Feindre d'en être aimé n'est pas faire un grand crime,
+Et peut-être par là mon Jaloux alarmé
+Me cédera l'objet dont mon coeur est charmé,
+Et sur un tel soupçon l'âme toute incertaine...
+
+Et bien, Mendoce, vois ce lourdaud, ce grossier,
+C'est là ce Don Bertran.
+
+À voir ce que le ciel aujourd'hui lui prépare,
+Je la crois d'un mérite et bien haut et bien rare ;
+L'éclat de son bonheur blessera bien des yeux.
+
+Est-il supplice égal à l'excès de ma peine  ?
+
+Mendoce, elle me voit.
+
+J'éprouve le contraire, hélas, à mes dépens.
+
+À la voir seulement que mon âme est ravie !
+
+Je prends si grande part à tous vos avantages,
+Que demain avec vous, pour en être témoin,
+J'irai jusqu'à Tolède.
+
+      Mais...
+
+Je vous honore assez...
+
+Vous pourriez aujourd'hui me refuser ce point,
+À moi qui...
+
+J'étais fort grand Ami de Monsieur votre Père,
+Il m'estimait beaucoup.
+
+      Quelle étrange saillie !
+
+Adieu, ne craignez point que je suive vos pas.
+
+Marche sans faire de bruit.
+
+      À ma mort souffre que je m'oppose ;
+Que je voie Isabelle, et tâche à détourner
+Le coup trop inhumain qui doit m'assassiner.
+Il faut que je lui parle.
+
+Mon amour est pour elle une nécessité,
+Pour ne pas se résoudre à vivre infortunée
+Sous les honteuses lois d'un indigne Hyménée.
+Sais-tu quelle est sa chambre  ? En as-tu pris souci  ?
+
+Ne te trompes-tu point  ?
+
+Frappe tout doucement, s'éveille-t-elle  ? Écoute.
+
+      Éloigne-toi.
+
+      Oui, c'est moi,
+Qui vient vous rendre ici ce qu'un feu pur et tendre.
+
+Mon amour s'exprimait assez par ma langueur,
+Et mes yeux vous disaient les secrets de mon coeur.
+Mais devant Don Bertran vous pouvais-je, madame,
+Parler plus clairement de l'ardeur de ma flamme  ?
+
+Oui, Madame, il en est, et sans que je m'explique,
+Je puis vous affranchir d'un joug si tyrannique,
+Mais quoi que j'entreprenne, y consentirez-vous  ?
+
+      Qui peut ainsi crier  ?
+
+Tu m'avais dit qu'ailleurs il s'était retiré.
+
+      Rentrons.
+
+      Vous l'a-t-on mis en garde  ?
+
+Ne vous plaignez donc point de voir...
+
+Sachez donc...
+
+Viens, Je renonce enfin à l'amour d'Isabelle.
+Dans sa chambre un Galant, de nuit ! Ah l'Infidèle !
+Laissons, laissons au Ciel le soin de la punir.
+
+      J'ai deux mots à vous dire.
+
+      Mais en secret, faites qu'il se retire.
+
+Certes avecque vous la courtoisie est grande,
+Que vous ne vouliez pas éloigner un Valet.
+
+J'ai toujours grand sujet de me louer de vous.
+
+Ce n'est pas là...
+
+Enfin venons, de grâce, au point que je désire.
+
+Oui, de fort important, j'aurai fait en deux mots.
+
+Vous m'en remercierez.
+
+Je meurs pour Isabelle, et cet Objet vainqueur
+Malgré ma résistance a captivé mon coeur,
+Je l'adore.
+
+Depuis un an ou deux.
+
+L'Amour se fortifie au milieu des souffrances.
+J'ai langui sans murmure, et toujours espéré
+Qu'enfin je pourrais voir son esprit modéré ;
+Le temps dissipe encor de plus sombres nuages.
+
+J'ai poussé jusqu'ici mille soupirs en vain,
+Mais se voyant réduire à vous donner la main,
+Avec moi cette nuit elle s'est déclarée,
+J'ai reçu de sa flamme une preuve assurée,
+Un doux oui de sa bouche, après tant de mépris,
+De ma constance enfin se trouve être le prix.
+
+Et n'est-ce pas assez  ?
+
+Que sachant qu'elle m'aime, et ne vous aime point,
+Vous ne sépariez pas ce qui semble être joint,
+Et sans plus la contraindre à ce qu'elle appréhende...
+
+J'accepte l'un et l'autre.
+
+Puisque enfin mon Rival consent à mon bonheur,
+J'ose vous demander l'effet de vos promesses.
+
+Madame, à quel dessein voulez-vous ici feindre ?
+Don Bertran vous cédant, vous n'avez rien à craindre.
+
+Me faut-il un tel droit pour être votre époux,
+Et n'en ai-je pas...
+
+      Déjà reçu parole ?
+
+      Cette nuit, de vous.
+
+Oui, Madame, et prié de me couler sans bruit,
+Quand une voix soudain m'a fait quitter la place.
+
+Quoi, vous ne m'avez pas demandé du secours
+Contre un Hymen fatal au bonheur de vos jours,
+Juré que votre amour serait ma récompense  ?
+
+      Quoi, mon rival se rend ?
+Quoi, j'aurai même appris de votre propre bouche
+Que son feu vous déplaît, que mon amour vous touche,
+Et tout cela, Madame, à ma confusion ?
+
+Après m'avoir promis cette nuit d'être à moi,
+L'Ingrate s'en dédire, et me manquer de foi  ?
+
+Ah, c'est trop s'exposer aux mépris d'une Ingrate,
+Quittons ces tristes lieux, et ne balançons plus.
+
+Ah, laissez-moi, de grâce, oublier l'Infidèle.
+
+      Oui, je m'éloigne enfin,
+Et vais l'abandonner à son mauvais destin.
+
+Don Bertran, Don Alvar, tout m'est indifférent,
+Et mon départ bientôt lui va faire connaître
+Qu'elle est en liberté de se choisir un Maître.
+C'est par le mépris seul qu'on venge le mépris.
+
+Ne pouvant rien pour moi, pour vous que puis-je faire  ?
+
+Vous l'aimez  ?
+
+Mais dans un rendez-vous, à ce que l'on m'a dit,
+Sa flamme cette nuit pour vous s'est fait paraître  ?
+
+En quel aveuglement ai-je été jusqu'ici  ?
+Tu m'as dit vrai, Jacinte, et j'en suis éclairci.
+
+      Enfin soyez désabusée
+D'une erreur que la nuit entre nous a causée.
+Dans l'ombre de la nuit, d'amour préoccupés,
+Nous nous sommes tous deux également trompés,
+Vous, touchant Don Alvar, moi touchant Isabelle ;
+Vous me preniez pour lui, je vous prenais pour elle.
+
+      Oui, c'est moi
+Qui cette même nuit vous ai promis ma foi,
+Et me suis engagé de tout mettre en pratique
+Pour vous soustraire au joug d'un pouvoir tyrannique
+Abuser Don Bertran, vous tirer de ses mains,
+Et faire réussir de plus justes desseins ;
+Mais j'ai cru qu'en effet...
+
+Quant à moi...
+
+Me voici marié quand j'y pensais le moins.
+Mais encor, parmi vous, de grâce, est-ce la mode
+De se défaire ainsi d'une soeur incommode,
+Sans avance, sans dot  ?
+
+Allez, Mendoce, allons. Vous suivrez en carrosse,
+Je m'en vais préparer le festin de la noce,
+Je vous attends demain à Madrid pour dîner.
+
+      Vous pourrez l'amener,
+Ou comme sous vos lois sa volonté se range,
+L'envoyer par Amis, ou par lettres de change.
+
+      Tirer l'épée, et Guzman...
+
+Je craignais autre chose, adieu.
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
+Quand vous vous marierez il n'y paraîtra plus.
+
+Toute douleur s'apaise auprès d'une Maîtresse.
+Ah, si pareil bonheur...
+
+Si vous vouliez pourtant...
+
+Don Alvar...
+
+Mais vous ne songez pas que je vieillis toujours.
+
+      Puisqu'il m'aime...
+
+Vous devriez...
+
+Vous venez donc ici, monsieur, vous marier ?
+
+      Qu'elle répond comme une autre ferait.
+
+Faites-la démasquer, mon Frère, il en est temps.
+
+Qui frappe à cette porte  ? Est-ce vous  ?
+
+Parlez encor plus bas, on pourrait nous entendre.
+Que vous me ravisez, et que j'ai souhaité
+Vous pouvoir un moment parler en liberté !
+Mais je devrais montrer un peu plus de colère,
+Vous me voyiez tantôt, et vous pouviez vous taire  ?
+
+Il est vrai qu'il s'oppose au bonheur de mes jours,
+Mais pour moi contre lui n'est-il point de secours  ?
+
+L'amour...
+
+      Adieu, séparons-nous.
+Ne vous arrêtez point dans cette galerie,
+Elle rentre.
+
+Mon frère, qu'avez-vous  ?
+
+Ne m'apprendrez-vous point quel est tout ce mystère ?
+
+Où l'avez-vous trouvé ?
+
+      Et pour le sien aussi,
+Il vient voir Isabelle, il l'aime.
+
+Hélas, je n'en puis plus.
+
+Traître, perfide...
+
+Il faut te déclarer, imposteur, il faut dire
+Pour laquelle de nous ton lâche coeur soupire.
+Et pour elle et pour moi, tu feins les mêmes feux.
+L'aimes-tu  ? M'aimes-tu  ? Qui trompes-tu des deux  ?
+
+Parle donc à laquelle as-tu donné ta foi  ?
+Est-ce à moi, dis, parjure  ?
+
+Suis-je l'objet d'amour  ?
+
+      Réponds.
+
+Tu cherches à fourber puisque tu t'interdis.
+Mais pourquoi, si tu mets tous tes soins à lui plaire,
+Cette nuit dans ma chambre as-tu feint le contraire  ?
+Pourquoi m'as-tu juré pour t'en justifier...
+
+      Oses-tu le nier  ?
+
+      Pour moi tu n'es donc que de glace  ?
+
+Sans vous inquiéter, dès ce matin, mon Frère,
+Mariez-vous ici.
+
+L'heure de déloger, mon Frère, est-elle prise  ?
+Le Cocher est tout prêt, et l'on attend que vous.
+
+Ces soins de votre honneur ne sont qu'une défaite,
+Car dans sa chambre enfin Don Alvar n'est entré...
+
+      Dois-je pas...
+
+      Ah, je ne puis souffrir
+Qu'un traître...
+
+Ai-je tort de tâcher...
+
+Quand pour vous détromper je fais ce que je puis.
+
+Guzman, que j'ai dans l'âme un déplaisir profond !
+On rit...
+
+Si l'on rit, c'est du feu dont l'ardeur me possède.
+Et pour te découvrir le secret de mon coeur,
+Le traître Don Alvar se rit de ma langueur.
+Mais, Guzman, tire-moi de mon inquiétude.
+Qui le peut obliger à cette ingratitude,
+Car tu sais jusqu'ici qu'il m'a voulu du bien  ?
+
+Toi qui m'as tant de fois découvert sa pensée,
+Quand de quelque soupçon j'avais l'âme blessée,
+Tu ne me répons rien aujourd'hui là-dessus  ?
+
+Il se cache de toi  ?
+
+Mais cette nuit encor, ce qui me désespère,
+L'ingrat s'est voulu rendre à l'assignation,
+M'a fait un entretien rempli de passion.
+Cependant aujourd'hui, pour me couvrir de honte,
+Il veut faire passer tout cela pour un conte,
+Il dit qu'il n'en est rien.
+
+Cet outrage cruel redouble mon ennui,
+Car pourquoi dénier un point si véritable  ?
+
+Isabelle sans doute a pour lui trop d'appas,
+Et moi... mais Don Félix à grand pas se promène.
+
+Parle de ton côté, je vais parler du mien.
+
+Vous rêvez, je m'assure, aux mépris d'Isabelle  ?
+
+Vous partez, m'a-t-on dit  ?
+
+Ah, vous ne savez pas encor ce qui sa passe.
+Ce n'est qu'à Don Alvar que vous cédez la place,
+À l'amour de ce traître Isabelle se rend.
+
+Et, de grâce, changez un dessein trop tôt pris.
+Différez ce départ, vous m'êtes nécessaire.
+
+Du traître Don Alvar empêchez le projet.
+De ses feux Isabelle est le plus cher objet,
+Et je ne doute point que par votre présence
+Vous ne trompiez le cours de leur intelligence.
+
+      Je l'adore, et l'ingrat me trahit.
+
+C'est ce qui me confond, il le veut méconnaître.
+
+Que dites-vous  ?
+
+Quoi, je vous ai parlé cette nuit  ?
+
+Si vous avez ouï...
+
+C'est à tort...
+
+Cessez de vous...
+
+Vous vous faites berner.
+
+      Mais quoi  ? Don Félix tout exprès...
+
+Je suis bien malheureuse, au moins si je ne puis
+Vous obliger d'ouïr l'excès de mes ennuis.
+Souffrez-moi seulement de parler un quart d'heure.
+
+Il vaut mieux désormais me résoudre à me taire.
+
+De tout ce qu'elle dit apprenez qu'il n'est rien.
+Cette obligation n'est en effet qu'un conte
+Pour couvrir un amour dont l'aveu lui fait honte.
+
+      Je ne me tairai plus,
+Aussi bien il est temps de vous faire connaître
+Que Don Alvar vous fourbe, et que ce n'est qu'un traître,
+Qu'il adore Isabelle.
+
+Et bien, contre l'ingrat ai-je parlé trop haut  ?
+
+Je suis de votre avis si son humeur ne change ;
+Mais s'il se résolvait enfin à m'épouser  ?
+
+Quoi, sur sa trahison loin de le quereller...
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
+Jacinte, que veux-tu  ? J'en suis au désespoir,
+Mais dans mon déplaisir j'écoute mon devoir,
+Et me résous enfin aux maux que me prépare
+L'aveugle ambition d'un Père trop avare.
+
+Qu'y puis-je faire enfin  ? Sa parole est donnée,
+Il le veut, et tu sais qu'il me vient d'avertir
+Que dans une heure ou deux je sois prête à partir ;
+Au malheur qui m'accable il n'est point de remède.
+
+Mais on me le commande.
+
+Sur cet article-là tu parais bien savante.
+
+Tu n'avais point encor étalé ta science.
+
+Et jaloux et bizarre, il sera mon époux.
+
+Il en faut présumer plus favorablement.
+
+Mon Père a fait ce choix, et tu sais comme moi
+Qu'en passant par Tolède il a promis ma foi ;
+Qu'à son retour tantôt j'en ai su la nouvelle,
+Et que de mon destin la tyrannie est telle,
+Que sans vouloir m'entendre, on m'ordonne demain
+De donner tout ensemble et mon coeur et ma main,
+Cet époux prétendu ne veut point de remise.
+
+      Un père l'autorise.
+
+      Le coeur secrètement me dit
+Qu'il a beaucoup de bien, mais qu'il a peu d'esprit.
+Puis-je juger en lui qu'une âme trop vulgaire
+Puisqu'il emploie ainsi l'autorité d'un Père  ?
+S'il n'avait cent défauts, il n'aurait pas voulu
+Faire agir contre moi son pouvoir absolu,
+Il me témoignerait qu'il sait comme l'on aime,
+Ne voudrait obtenir mon coeur que de moi-même,
+Et de cette conquête il confierait l'espoir
+À son propre mérite, et non à mon devoir.
+
+La curiosité marque une âme enflammée,
+Je n'en ai demandé ni le rang, ni le nom.
+
+Don Félix  ?
+
+J'aurai ce bien du moins dans ma triste infortune
+Qu'elle me défera d'une amour importune.
+Je ne sais quel Démon de mon repos jaloux,
+Où je dois me trouver, lui donne rendez-vous,
+Mais partout où je suis, au Temple, dans la rue,
+C'est le premier objet qui vient frapper ma vue.
+En effet, c'est une Ombre attachée à mes pas.
+
+Hélas, Jacinte !
+
+Tu juges mal.
+
+      Je n'ose te le dire,
+Et pourtant...
+
+      Il est vrai.
+
+      Je ne sais.
+
+Ne te souviens-il plus de l'accident funeste
+Que je cache avec soin à tout autre qu'à toi,
+Et qui depuis un mois m'a donné tant d'effroi  ?
+
+Lui-même.
+
+Sa vie en ma faveur promptement hasardée
+M'en a fait concevoir une si haute idée,
+Que malgré moi sans cesse elle offre à mon esprit...
+
+      Adieu toute ma joie.
+
+Que veux-tu  ?
+
+Don Alvar  ?
+
+Un message pareil de sa part me surprend,
+Il n'est pas mon époux pour être son Parent.
+D'où lui vient ce pouvoir  ?
+
+Que ne me le vient-il expliquer en Personne  ?
+
+Don Bertran ! Que ce nom me semble ridicule !
+Apprends-nous quel il est.
+
+      À moi ! Qui  ?
+
+Ma fille. J'ai six mille et quarante deux ducats de rente, et Don Alvar, mon cousin et prétendu beau-frère, est mon héritier si je n'ai point d'enfants. On m'a dit qu'en me mariant avec vous j'en pourrais avoir autant que bon me semblera. Venez donc dès aujourd'hui à l'Hostellerie d'Yllescas, où je vous attends pour traiter de l'un, et pour l'autre, nous y aviserons à loisir ; mais souvenez-vous que je suis dans une hostellerie, et qu'il y fait fort cher vivre en cette saison. C'est pourquoi ne perdez point de temps, partez promptement, et mettez un masque avant que mon cousin vous aille trouver de ma part, car le soin de votre honneur commence déjà à me regarder, et vous ne devez point vous laisser voir que je ne le juge à propos. Votre Mari Don Bertran de Cigarral.
+Et l'on peut m'ordonner d'épouser un tel homme !
+
+Le joli compliment par où son feu débute !
+Ah, Jacinte, s'il faut que l'accord s'exécute...
+
+Il parle à coeur ouvert.
+
+Je passerais partout s'il avait de l'esprit.
+
+Et qui est Don Alvar  ?
+
+Quel peut être ce vice  ?
+
+Si l'esprit n'est content, le bien est peu de chose.
+
+      Elle a beaucoup d'appas  ?
+
+      J'y puis bien être, hélas !
+Si vous ne révoquez l'arrêt de mon trépas.
+Vous-même jugez-en ; que puis-je me promettre,
+De qui m'ose envoyer une si belle lettre  ?
+
+      Le compliment en est rare et nouveau.
+
+Il n'en arrivera que ce que j'en prévois,
+Ses six mille ducats plairont plus qu'à moi,
+Et son coeur se rendant à de si honteux charmes
+Sans en être touché, verra couler mes larmes.
+
+Et bien, que dites-vous d'une telle sottise  ?
+
+Mais ce n'est qu'un vilain, un avare.
+
+Il est capricieux.
+
+Il est opiniâtre, et commande à la baguette. .
+
+C'est bien vouloir ma perte et haïr mon repos
+Que de me marier ainsi mal à propos.
+Le ridicule époux ! Ah, j'en perds patience.
+
+J'aimerais mieux cent fois entrer dans un Couvent.
+
+Mon père, si mes pleurs...
+
+      Ô coup qui m'assassine !
+Il est inexorable, et je n'y gagne rien.
+
+Ô Ciel, que vois-je ! Hélas, Jacinte, c'est lui-même.
+
+      C'est lui, cet Inconnu que j'aime.
+Qui m'a sauvé la vie, et dont je t'ai parlé.
+
+Vous me confirmer bien ce qu'on m'a toujours dit,
+Que la civilité n'est pas toute à Madrid.
+Trouver lieu sans me voir à tant de flatterie,
+C'est le dernier effet de la galanterie ;
+Mais peut-être tantôt, lorsque vous me verrez,
+D'un pareil compliment vous vous repentirez,
+Vous changerez sans doute et d'âme et de langage.
+
+A-t-on jamais parlé de telle extravagance  ?
+
+      Elle est assez étrange.
+
+Hélas ! Quelle espérance à mon âme est permise  ?
+
+      Ô le vilain époux !
+Est-il rien de plus laid  ?
+
+      Ô Ciel, quelle surprise  ?
+Que Don Félix ainsi vienne mal à propos
+Jusqu'ici me déplaire, et troubler mon repos !
+
+L'impertinent discours! Quelle réponse y faire ?
+
+Le silence est l'effet de l'admiration,
+Et vos rares vertus qui font que je soupire
+M'étonnent tellement que je ne sais que dire.
+Leur éclat a surpris mon coeur au dépourvu,
+Et si sans vous connaître et sans vous avoir vu,
+Les compliments civils dont votre lettre est pleine
+M'ont interdit les sens, et mis l'âme à la gêne ;
+Jugez si je les puis aisément rappeler,
+En vous voyant vous-même et vous oyant parler.
+
+C'est à moi d'obéir puisque vous l'ordonnez.
+
+As-tu jamais ouï discours plus ennuyeux !
+
+      Don Alvar est flatteur.
+
+Votre entretien est tel que je n'ose y prétendre ;
+Cessez de profaner un discours si poli.
+
+      Je le crois.
+
 Je plains fort l'un et l'autre, et doute qui des deux
 En ce triste rencontre est le plus malheureux.
 Un bienfait peut beaucoup sur un noble courage,
@@ -1187,336 +2130,36 @@ Car enfin elle perd ce que sans doute elle aime,
 Et pour comble de maux, dans son affliction
 On la livre à l'objet de son aversion.
 
--*who_donalvar
-Que dites-vous, Madame  ? Ah, s'il osait le croire,
-Qu'en un si grand malheur il trouverait de gloire !
-
--*who_isabelle
 Si par un si grand service il l'a su mériter,
 Sans l'en juger indigne, il n'en saurait douter.
 
--*who_donalvar
-Vous trouvez cependant qu'ils sont tous deux à plaindre  ?
-
--*who_isabelle
 C'est ne l'être pas peu qu'être réduits à feindre.
 
--*who_donalvar
-Si d'un pareil malheur vous ressentiez les coups,
-Contre ou pour cet Amant que résoudriez-vous  ?
-
--*who_isabelle
 Que résoudrais-je, hélas ! Pour le prix de sa flamme
 Il aurait mes soupirs au défaut de mon âme,
 Et s'il m'était permis de disposer de moi...
 
--*who_donalvar
-Qu'obtiendrait-il, Madame  ?
-
--*who_isabelle
       Et mon coeur, et ma foi.
 
--*who_donalvar
-Ce serait le combler d'une joie infinie
-Que...
-
--*who_isabelle
       Tout doux, mon Cousin, et sans cérémonie,
 Vous vous émancipez ; un peu plus bas d'un ton.
 Diable, quelle Commère ! Elle entend le jargon !
 
--*who_isabelle
 J'ai fait cette réponse avec grande innocence.
 
--*who_donbertran
-Holà, vous en saurez bien d'autres, que je pense.
-Rêvez si vous voulez, mais je me trompe bien
-Si pour vous égayer il vous conte plus rien.
-
--*who_donalvar
-Vous m'aviez demandé quelque histoire amoureuse.
-
--*who_donbertran
-Vous êtes un causeur, elle est une causeuse.
-Mais, ma foi, je la veux un peu dépayser,
-Et voir si dans Tolède on l'entendra jaser,
-Moi présent, son époux. Oyez, les belles filles,
-Il faut de grand matin demain trousser ses quilles,
-Peut-être avant le jour, car j'ai hâte, et je veux
-Sur mon propre fumier faire un peu l'amoureux ;
-La station m'en semble et moins chère et meilleure.
-
--*who_dongarcie
-Vous n'avez pour partir qu'à nous donner votre heure.
-
--*who_donbertran
-Celle qu'il me plaira ; chacun peut sur un lit
-Se tenir toujours prêt sans quitter son habit.
-Qui ne le sera point restera pour les gages.
-
--*who_donfelix
-Je prends si grande part à tous vos avantages,
-Que demain avec vous, pour en être témoin,
-J'irai jusqu'à Tolède.
-
--*who_donbertran
-      Il n'en est pas besoin,
-Je sais bien le chemin.
-
--*who_donfelix
-      Mais...
-
--*who_donbertran
-      Mais, ne vous déplaise.
-
--*who_donfelix
-Je vous honore assez...
-
--*who_donbertran
-      Et bien j'en suis fort aise.
-
--*who_donfelix
-Vous pourriez aujourd'hui me refuser ce point,
-À moi qui...
-
--*who_donbertran
-      À vous qui, je ne vous connais point.
-
--*who_donfelix
-J'étais fort grand Ami de Monsieur votre Père,
-Il m'estimait beaucoup.
-
--*who_donbertran
-      Je n'y saurais que faire,
-Il pria qui lui plût quand il se maria,
-Mais de son temps au mien grand changement y a.
-Pourvoyez-vous ailleurs.
-
--*who_donfelix
-      Quelle étrange saillie !
-
--*who_mendoce
-Je l'envoierais au diable avecque sa folie.
-
--*who_donfelix
-Adieu, ne craignez point que je suive vos pas.
-
--*who_donbertran
-Ne me voyez jamais, je n'en pleurerai pas.
-
-**** *book_ *id_II05 *act_II *date_1651 *creator_corneille
-
--*who_donbertran
-De pareils estafiers le quart d'une douzaine
-À désenfler ma bourse aurait bien peu de peine.
-Où Diable celui-ci s'est-il venu fourrer  ?
-Se prier de ma noce afin de s'y bourrer  ?
-Il s'est bien adressé pour rencontrer sa dupe ;
-Mais comme il se fait tard, un autre soin m'occupe.
-De quoi souperons-nous  ? Ma Maîtresse, allons voir
-Si l'hôte a quelque chose à nous donner ce soir,
-Nous choisissons ensemble un morceau de régale.
-Venez.
-
--*who_isabelle
       Ah !
 
--*who_donbertran
-      Ce n'est rien, ce n'est qu'un peu de gale.
-Je tâche à lui jouer pourtant d'un mauvais tour,
-Je me frotte d'onguent cinq ou six fois par jour,
-Il ne m'en coûte rien, moi-même j'en sais faire,
-Mais elle est à l'épreuve, et comme héréditaire ;
-Si nous avons lignée elle en pourra tenir.
-Mon père en mon jeune âge eut soin de m'en fournir,
-Ma mère, mon aïeule, mes oncles, et mes tantes
-Ont été de tout temps et galants et galantes,
-C'est un droit de famille où chacun a sa part ;
-Quand un de nous en manque il passe pour bâtard.
-
--*who_dongarcie
-Elle vous tien donc lieu de lettres de noblesse  ?
-
--*who_isabelle
 Le coeur va me manquer si ce discours ne cesse.
 
--*who_donbertran
-Je vous entends, la belle, allons le raffermir,
-Et puis nous songerons un moment à dormir.
-
-**** *book_ *id_II06 *act_II *date_1651 *creator_corneille
-
--*who_donalvar
-Jamais fou plus avant poussa-t-il sa folie  ?
-
--*who_guzman
-S'il n'amende bientôt il faudra qu'on le lie.
-Mais tantôt à vous voir j'ai resté tout confus,
-Vous soupiriez  ?
-
--*who_donalvar
-      Hélas ! Ne t'en étonne plus,
-Je meurs pour Isabelle, et mon âme asservie...
-
--*who_guzman
-Vous m'avez déjà dit qu'elle vous doit la vie,
-Et je devine trop que cet événement...
-
--*who_donalvar
-Est la source des maux que je souffre en aimant :
-J'ai rencontré la mort dans mon champ de victoire,
-Et j'en viens d'en conter la pitoyable histoire.
-Que si jusqu'ici je t'en ai fait secret,
-On m'en avait prié, Guzman, je suis discret.
-
--*who_guzman
-Je crois, si Don Bertran savait ce qui se passe,
-Qu'il vous en pourrait faire assez laide grimace,
-Et que Léonor même, en ayant quelque vent,
-S'en évanouirait encore plus souvent ;
-Car elle vous en veut, Monsieur.
-
--*who_donalvar
-      La digne Amante !
-
--*who_guzman
-Elle vous est, je pense, assez indifférente  ?
-
--*who_donalvar
-Si pesante de corps, et l'esprit si léger,
-Soeur d'un Frère si fou, qui s'en voudrait charger  ?
-Mais elle te parlait tantôt  ?
-
--*who_guzman
-      Oui, pour me dire
-Qu'elle veut cette nuit vous conter son martyre ;
-Qu'elle ne fermera sa porte qu'à demi,
-Et que quand vous croirez Don Bertran endormi
-Vous alliez la trouver, elle vous fera fête,
-N'y manquez pas.
-
--*who_donalvar
-      J'ai bien d'autres soucis en tête.
-
--*who_guzman
-Quels  ?
-
--*who_donalvar
-      J'aime.
-
--*who_guzman
-      Je le sais, qu'est-ce encor, qu'avez-vous  ?
-
--*who_donalvar
-Un mal beaucoup plus grand, Guzman, je suis jaloux.
-
--*who_guzman
-Déjà  ?
-
--*who_donalvar
-      Ce cavalier me donne de l'ombrage
-Qui voulait avec nous achever le voyage.
-Il ne s'est point ici rencontré sans dessein,
-Sans doute un même feu nous échauffe le sein,
-Isabelle le charme, il la suit, et peut-être
-Il a gagné son coeur, il s'en est rendu maître.
-Guzman, s'il est ainsi, ma flamme a peu d'espoir.
-
--*who_guzman
-Il n'est pas malaisé, Monsieur, de le savoir.
-Il a certain Valet que je crois fort capable
-De faire d'un secret confidence amiable ;
-Je lui saurai ce soir tâter le pouls de près.
-
--*who_donalvar
-Parle donc, et de tout nous résoudrons après.
-
-**** *book_ *id_III01 *act_III *date_1651 *creator_corneille
-
--*who_guzman
-Oui, vous dis-je, cessez d'en prendre de l'ombrage,
-Nous avons tout le soir trinqué de grand courage,
-Et buvant tête à tête il m'a tout découvert ;
-Que depuis plus d'un an ce Don Félix la sert,
-Et qu'ayant d'un Valet appris que Don Garcie
-Avecque Don Bertran en secret la marie,
-Et qu'ils s'étaient ici donné le rendez-vous,
-Il est parti soudain, désespéré, jaloux ;
-Mais par quelques motifs qu'il se laisse conduire,
-Aimez en assurance, il ne vous saurait nuire,
-Il a beau protester qu'il est prêt de mourir,
-Isabelle s'en moque, et ne le peut souffrir.
-Poussez à cela prêt votre bonne fortune.
-
--*who_donalvar
-Sa présence à ma flamme est toujours importune.
-
--*who_guzman
-En l'état où je vois cette affaire aujourd'hui,
-Je trouve Don Bertran plus à craindre que lui.
-Gardez de prendre ici quatorze au lieu de douze.
-Si l'hymen se conclue  ? Si demain il l'épouse  ?
-
--*who_donalvar
-Quoi, tu crois qu'Isabelle y pourrait consentir  ?
-
--*who_guzman
-Je ne dis oui ni non de crainte de mentir,
-Mais chacun dort ici, déjà la nuit s'avance,
-Prenez l'occasion dans ce profond silence,
-Tâchez de lui parler.
-
--*who_donalvar
-      Je viens à ce dessein :
-Frappe, voici sa chambre.
-
--*who_guzman
-      En êtes-vous certain  ?
-
--*who_donalvar
-J'ai bien tout observé de peur d'en être en peine,
-Don Bertran choisissant cette chambre prochaine
-A voulu qu'Isabelle eût cet appartement.
-
--*who_guzman
-Je puis donc y frapper  ?
-
--*who_donalvar
-      Oui, frappe assurément.
-
--*who_guzman
-Et s'il faut qu'il s'éveille à ce bruit  ?
-
--*who_donalvar
-      Il n'importe.
-Mais quelqu'un parle, écoute, on ouvre cette porte,
-Voyons qui sortira.
-
--*who_guzman
-      Cachons-nous dans ce coin.
-
-**** *book_ *id_III02 *act_III *date_1651 *creator_corneille
-
--*who_isabelle
 Non, non, je ne veux pas me manquer au besoin ;
 Allons trouver mon Père, et quoi qu'enfin prétende...
 
--*who_jacinte
-Mais du moins attendez...
-
--*who_isabelle
       Que veux-tu que j'attende  ?
 Que demain de nouveau cet odieux époux
 M'ôte la liberté d'embrasser ses genoux,
 Et de le conjurer, s'il m'a donné la vie,
 De ne pas consentir qu'elle me soit ravie  ?
 
--*who_jacinte
-J'approuve votre avis, et veux ce qui vous plaît ;
-Mais nous ne savons point en quelle chambre qu'il est,
-Où le chercherons-nous  ?
-
--*who_isabelle
       Ô destin trop contraire !
 Faut-il qu'un peu de bien aveugle tant un Père,
 Qu'il s'en laisse éblouir, et qu'un si vil poison
@@ -1530,43 +2173,13 @@ De payer tant d'amour par une simple estime.
 Vivons pour Don Alvar, et jusques au tombeau,
 S'il m'aime...
 
--*who_guzman
-      Vous avez bonne part au gâteau.
-
--*who_isabelle
 Quelqu'un nous écoutait, et j'ai trahi ma flamme.
 Ah Ciel !
 
--*who_donalvar
-      Ne craignez rien, c'est Don Alvar, Madame.
-
--*who_isabelle
 Don Alvar !
 
--*who_donalvar
-      Écoutez un malheureux Amant
-Qu'un destin trop cruel poursuit obstinément,
-Et qui prêt de vous perdre, en son malheur extrême
-Se croira soulagé s'il vous dit qu'il vous aime.
-Ce faible allégement dans un tel déplaisir
-Ne nous saurait coûter tout au plus qu'un soupir.
-
--*who_isabelle
 Hélas !
 
--*who_donalvar
-      Enfin, Madame, il n'est plus temps de feindre,
-Mon amour est trop pur pour le vouloir contraindre ;
-Qui languit sans espoir peut bien se déclarer,
-La plus âpre vertu n'en saurait murmurer.
-Par quel décret fatal me fûtes-vous connue !
-Je vous perdis soudain après vous avoir vue,
-Cependant en secret mon coeur porte vos fers,
-Et quand je vous retrouve aussitôt je vous perds.
-Ô fortune obstinée à traverser ma joie !
-À combien de douleurs mets-tu mon âme en proie  ?
-
--*who_isabelle
 N'accusez aujourd'hui la fortune de rien,
 Ce n'est qu'aux malheureux que la plainte sied bien.
 Je ne cèlerai point que votre amour me touche,
@@ -1586,587 +2199,41 @@ Elle seule aujourd'hui charme votre courage,
 Et je ne puis prétendre à m'acquérir un coeur
 Qui reconnaît les lois d'un plus noble vainqueur.
 
--*who_donalvar
-Par ce jaloux soupçon, allez, allez, Madame,
-Au-devant de celui qui règne dans mon âme.
-
--*who_isabelle
 D'où vous pourrait venir ce sentiment jaloux,
 Quand je romps un Hymen seul à craindre pour vous  ?
 
--*who_donalvar
-Seul à craindre pour moi  ? Don Félix vous adore.
-
--*who_isabelle
 Que peut-il contre vous  ? Je le hais, je l'abhorre.
 
--*who_donalvar
-Et que peut Léonor, puisqu'un juste mépris
-Fut toujours de son feu l'unique et digne prix  ?
-
--*who_isabelle
 Enfin donc vous m'aimez  ?
 
--*who_donalvar
-      Mon amour est extrême.
-En puis-je croire autant  ? M'aimez-vous  ?
-
--*who_isabelle
       Je vous aime,
 Mais il faut empêcher...
 
--*who_guzman
-      Brisez tout court ici,
-On ouvre quelque porte, entrez.
-
--*who_isabelle
       Quoi, vous aussi  ?
 
--*who_jacinte
-Que soupçonnerait-on de le voir à telle heure  ?
-
--*who_guzman
-Entrez vite.
-
--*who_isabelle
       Et Guzman  ?
 
--*who_donalvar
-      Il vaut mieux qu'il demeure,
-Et qu'il fasse le guet, afin de m'avertir
-Aussitôt qu'il croira que je pourrai sortir.
-
-**** *book_ *id_III03 *act_III *date_1651 *creator_corneille
-
--*who_donfelix
-Marche sans faire de bruit.
-
--*who_guzman
-      L'heure est bien indécente.
-Sont-ce point des galants qui cherchent la servante  ?
-
--*who_mendoce
-Si l'amour tourmentait chacun également,
-Malheur plus de cent fois à qui serait Amant.
-Tout le monde à présent paisiblement repose,
-Et vous seul...
-
--*who_donfelix
-      À ma mort souffre que je m'oppose ;
-Que je voie Isabelle, et tâche à détourner
-Le coup trop inhumain qui doit m'assassiner.
-Il faut que je lui parle.
-
--*who_mendoce
-      Et vous osez prétendre
-Qu'Isabelle à minuit soit prête à vous entendre,
-Elle qui vous méprise avec tant de fierté !
-
--*who_donfelix
-Mon amour est pour elle une nécessité,
-Pour ne pas se résoudre à vivre infortunée
-Sous les honteuses lois d'un indigne Hyménée.
-Sais-tu quelle est sa chambre  ? En as-tu pris souci  ?
-
--*who_mendoce
-Oui, je crois l'avoir vue entrer en celle-ci.
-
--*who_donfelix
-Ne te trompes-tu point  ?
-
--*who_mendoce
-      Non, c'est ici sans doute.
-
--*who_donfelix
-Frappe tout doucement, s'éveille-t-elle  ? Écoute.
-
--*who_mendoce
-Je pense ouïr marcher, l'on ouvre.
-
--*who_donfelix
-      Éloigne-toi.
-
-**** *book_ *id_III04 *act_III *date_1651 *creator_corneille
-
--*who_leonor
-Qui frappe à cette porte  ? Est-ce vous  ?
-
--*who_donfelix
-      Oui, c'est moi,
-Qui vient vous rendre ici ce qu'un feu pur et tendre.
-
--*who_leonor
-Parlez encor plus bas, on pourrait nous entendre.
-Que vous me ravisez, et que j'ai souhaité
-Vous pouvoir un moment parler en liberté !
-Mais je devrais montrer un peu plus de colère,
-Vous me voyiez tantôt, et vous pouviez vous taire  ?
-
--*who_donfelix
-Mon amour s'exprimait assez par ma langueur,
-Et mes yeux vous disaient les secrets de mon coeur.
-Mais devant Don Bertran vous pouvais-je, madame,
-Parler plus clairement de l'ardeur de ma flamme  ?
-
--*who_leonor
-Il est vrai qu'il s'oppose au bonheur de mes jours,
-Mais pour moi contre lui n'est-il point de secours  ?
-
--*who_donfelix
-Oui, Madame, il en est, et sans que je m'explique,
-Je puis vous affranchir d'un joug si tyrannique,
-Mais quoi que j'entreprenne, y consentirez-vous  ?
-
--*who_leonor
-L'amour...
-
--*who_donbertran
-      Qui va là  ? Qu'est-ce  ?
-
--*who_leonor
-      Adieu, séparons-nous.
-Ne vous arrêtez point dans cette galerie,
-Elle rentre.
-
--*who_donfelix
-      Qui peut ainsi crier  ?
-
--*who_mendoce
-      Ce sera Don Garcie...
-
--*who_donfelix
-Tu m'avais dit qu'ailleurs il s'était retiré.
-
--*who_mendoce
-Je l'avais cru.
-
--*who_donfelix
-      Rentrons.
-
--*who_guzman
-      Qui l'aurait espéré,
-Que sans être aperçu du Beau ni de la Belle,
-J'eusse pu si près d'eux rester en sentinelle !
-Qu'ils paraissent tous deux l'un de l'autre contents !
-
-**** *book_ *id_III05 *act_III *date_1651 *creator_corneille
-
--*who_guzman
-Monsieur.
-
--*who_donalvar
-      Puis-je sortir  ?
-
--*who_guzman
-      Oui, vite, il en est temps.
-Mais j'entends Don Bertran.
-
--*who_donalvar
-      Quel malheur m'accompagne !
-
--*who_guzman
-Rentrez encore un coup, le Diable est en campagne.
-
-**** *book_ *id_III06 *act_III *date_1651 *creator_corneille
-
--*who_donbertran
-Qui va là  ? Qui va là pour la seconde fois  ?
-J'ai pourtant à ma porte entendu quelques voix,
-On y faisait du bruit, il faut que je le sache,
-Je chercherai partout, malheur à qui se cache.
-Mais je pense entrevoir un Homme dans ce coin,
-Tâchons de nous munir de courage au besoin.
-Parle, qui que tu sois, ou bien je t'estropie.
-
--*who_guzman
-Ne vous pressez point tant, rengainez, je vous prie.
-
--*who_donbertran
-Dis ton nom.
-
--*who_guzman
-      C'est Guzman, vous m'avez fait blémir.
-
--*who_donbertran
-Que fais-tu là  ?
-
--*who_guzman
-      Je cherche une place à dormir.
-
--*who_donbertran
-Le lieu n'est pas mal propre.
-
--*who_guzman
-      Ailleurs, ou là, qu'importe  ?
-Je fais communément mon gîte à quelque porte.
-Étant né des Guzmans, digne race des gueux,
-Je me couche toujours sur la dure comme eux ;
-Mais de grâce, Monsieur, quelle heure peut-il être  ?
-Le ciel est étoilé, vous l'y pouvez connaître.
-
--*who_donbertran
-Sans lune, et sans cadran  ? Mais viens ça, c'était toi
-Qui frappais à ma porte, il faut dire pourquoi.
-
--*who_guzman
-Je cherchais du repos loin de troubler le vôtre.
-
--*who_donbertran
-Si quelqu'un avait pris une porte pour l'autre.
-Je veux m'en éclaircir.
-
--*who_guzman
-      Monsieur, il m'en souvient,
-Ce doit être sans doute un Esprit qui revient,
-Je crois même avoir vu quelque grande Ombre noire,
-Et la chose n'est pas trop difficile à croire,
-Car l'Hôte m'a conté qu'on entend quelquefois
-Dans cette galerie un bruit confus de voix,
-Un Lutin qui tantôt soupire, et tantôt gronde,
-Mais qui ne se fait pas entendre à tout le monde.
-Vous l'aurez ouï seul, c'est d'où venait ce bruit.
-
--*who_donbertran
-Et tu viens cependant passer ici la nuit  ?
-
--*who_guzman
-J'incague les esprits.
-
--*who_donbertran
-      Certain désir me presse
-D'aller voir en tous cas ce que fait ma maîtresse.
-Que pourrait-elle faire à présent  ? Elle dort.
-
--*who_donbertran
-Écoutons de plus près, ronfle-t-elle bien fort  ?
-Je ne voudrais pour rien d'une femme ronflante.
-
--*who_guzman
-Soit qu'elle veille ou dorme, elle est fort patiente,
-On ne l'entend jamais.
-
--*who_donbertran
-      Je m'en vais l'éveiller,
-Car j'ai démangeaison beaucoup de babiller.
-Qu'en pourrait-elle dire  ? Elle est presque ma femme.
-
--*who_guzman
-Qu'avec peu de respect vous auriez peu de flamme,
-Elle pourrait s'en plaindre avec juste raison ;
-Mais puisque vous avez cette démangeaison,
-Je vous prierai...
-
--*who_donbertran
-      De quoi  ?
-
--*who_guzman
-      La prière est hardie,
-De me dire des vers de quelque Comédie
-Car en ayant tant fait, comme célèbre auteur,
-Vous en savez du moins quinze ou seize par coeur.
-
--*who_donbertran
-Ma foi, je suis ravi, par ce que tu proposes,
-De te voir curieux d'ouïr les belles choses ;
-Je t'en aime encor plus, et veux te faire part
-D'une pièce admirable où j'ai surpassé l'Art,
-Elle est bien pathétique, en sentiments fort tendre.
-
--*who_guzman
-Entrons dans votre chambre, afin de mieux l'entendre.
-
--*who_donbertran
-J'éveillerais ma Soeur qui nous interromprait.
-Tu verras là-dedans un Galant bien adroit,
-Et l'Ouvrage surtout merveilleux en conduite.
-
--*who_guzman
-C'est pour être joué cinquante jours de suite.
-Vous l'appelez  ?
-
--*who_donbertran
-      Hérode Innocentituant.
-
--*who_guzman
-Le beau titre !
-
--*who_donbertran
-      Au sujet il est fort congruant,
-Tu l'avoueras toi-même, et je te fais arbitre
-S'il pouvait recevoir un plus confortable titre
-Tout vient dans ce grand poème admirablement bien.
-
--*who_guzman
-Jamais auprès de vous Lope n'y connut rien.
-
--*who_donbertran
-Aussi jamais travail ne me fit tant de peine ;
-Mais pour tenir au fait, dans la première scène
-Je fais entrer Hérode, et trois cents innocents.
-
--*who_guzman
-Deux vers à chacun d'eux, c'en est déjà six cents.
-Pour peu qu'Hérode encore ait avec lui de pages,
-Le théâtre est rempli d'assez de personnages.
-La seconde  ? Sortez.
-
--*who_donbertran
-      Qui viens-tu d'avertir  ?
-
--*who_guzman
-Je parle aux Innocents pour les faire sortir,
-Ils tiennent trop de place. Enfin, dans la seconde  ?
-
--*who_donbertran
-Je fais dans celle-là le plus beau trait du monde,
-Au moment qu'ils sont tous condamnés à la mort...
-Mais qu'est-ce ci  ? Je vois ce qui me déplaît fort.
-
--*who_donalvar
-Ferme vite.
-
--*who_donbertran
-      Ah, vraiment, ma Maîtresse m'amie,
-Je vous faisais grand tort de vous croire endormie.
-
--*who_guzman
-Qu'avez-vous vu, Monsieur  ?
-
--*who_donbertran
-      Un homme seulement
-Qu'Isabelle en sa chambre enferme galamment,
-Il allait s'échapper quand j'ai tourné la tête.
-Tiens en main comme moi la dague toute prête,
-Je lui veux tout au moins couper jambes et bras.
-Ouvrez, ouvrez, vous dis-je, ou je mets porte bas.
-
--*who_jacinte
-Qui frappe  ?
-
--*who_donbertran
-      Moi, Mari de fabrique nouvelle.
-
-**** *book_ *id_III07 *act_III *date_1651 *creator_corneille
-
--*who_donbertran
-Vous ne dormiez donc pas, Isabelle la belle  ?
-
--*who_isabelle
 Quoi, l'épée en main ! Que veut dire ceci  ?
 
--*who_donbertran
-Avec malin vouloir je me transporte ici,
-Vous ne dormiez donc pas  ?
-
--*who_isabelle
       Que me voulez-vous dire  ?
 
--*who_donbertran
-Que vous ne dormiez pas, mais je n'en fais que rire.
-Ce galant que je cherche, a-t-il le nez bien fait  ?
-
--*who_isabelle
 Faites-vous l'insensé ! L'êtes-vous en effet  ?
 
--*who_donbertran
-Vous m'estimez donc fou, Madame la Mignonne,
-Et vous me l'osez dire à moi-même en personne  ?
-Vous en déplaise ou non, malgré vous et vos dents
-Je m'en vais fureter et dehors et dedans,
-Tant que j'aie à la fin trouvé le Personnage.
-
--*who_guzman
-Je vais vous éclairer, cherchons, faisons ravage.
-Ah, la tête !
-
--*who_donbertran
-      Qu'as-tu  ?
-
--*who_guzman
-      Je suis tombé tout plat.
-À l'aide.
-
--*who_donbertran
-      Et la lumière est éteinte, ô le fat !
-
--*who_guzman
-Je me suis disloqué tout le train de derrière.
-
--*who_donbertran
-Hôte, Garçon, Servante, holà, de la lumière.
-
--*who_jacinte
-Coulez-vous promptement tandis qu'on ne voit point.
-
--*who_donbertran
-Qui tiens-je  ? Ah, j'ai saisi mon Galant bien à point.
-Il allait sans mot dire enfiler la venelle.
-Le nom.
-
--*who_guzman
-      C'est moi qui vais rallumer la chandelle.
-Que vous m'étreignez fort ! C'est Guzman, lâchez-moi.
-
--*who_donbertran
-La lumière paraît, je verrai si c'est toi.
-
--*who_isabelle
 Que ferai-je !
 
--*who_jacinte
-      D'un fou vous mettez-vous en peine  ?
-
-**** *book_ *id_III08 *act_III *date_1651 *creator_corneille
-
--*who_leonor
-Mon frère, qu'avez-vous  ?
-
--*who_donbertran
-      Ah, ah mon Capitaine,
-C'est donc vous  ?
-
--*who_guzman
-      Il est pris, et mieux pris qu'un renard.
-
--*who_donbertran
-Mon Cousin mon ami, vous n'êtes qu'un Pendard.
-Que faisait-il ici  ? Parlez, la fine mouche.
-
--*who_donalvar
-Le soin de votre honneur comme parent me touche,
-Et pour y regarder je me cachais exprès.
-
--*who_donbertran
-Diable, vous y venez regarder de bien près.
-C'est donc pour mon honneur  ?
-
--*who_donfelix
-      Vous l'a-t-on mis en garde  ?
-
--*who_donbertran
-De quoi vous mêlez-vous  ? Je veux qu'il y regarde,
-Qu'il en prenne le soin quand bon lui semblera,
-Et malgré tout le monde il y regardera.
-
--*who_donfelix
-Ne vous plaignez donc point de voir...
-
--*who_donbertran
-      Je veux me plaindre,
-Pour homme tel que vous je dois peu me contraindre.
-
--*who_donfelix
-Sachez donc...
-
--*who_donbertran
-      Commandez de grâce à vos valets,
-Allez-vous-en dormir, et nous laisser en paix.
-
--*who_donfelix
-Viens, Je renonce enfin à l'amour d'Isabelle.
-Dans sa chambre un Galant, de nuit ! Ah l'Infidèle !
-Laissons, laissons au Ciel le soin de la punir.
-
--*who_guzman
-Il sort.
-
--*who_donbertran
-      Qu'il aille au Diable, et sans en revenir.
-
-**** *book_ *id_III09 *act_III *date_1651 *creator_corneille
-
--*who_leonor
-Ne m'apprendrez-vous point quel est tout ce mystère ?
-
--*who_donbertran
-Don Alvar mieux que moi pourra vous satisfaire.
-
--*who_leonor
-Où l'avez-vous trouvé ?
-
--*who_donbertran
-      Je l'ai surpris ici,
-Il y vient pour mon compte.
-
--*who_leonor
-      Et pour le sien aussi,
-Il vient voir Isabelle, il l'aime.
-
--*who_donbertran
-      Il faut le croire,
-Ou qu'il venait encor lui conter quelque histoire.
-À ces contes en l'air son coeur s'épanouit.
-
--*who_leonor
-Hélas, je n'en puis plus.
-
--*who_guzman
-      Elle s'évanouit,
-Monsieur, son mal la prend.
-
--*who_donbertran
-      Soutiens-la, de l'eau, vite.
-
--*who_isabelle
 Pour la mieux secourir un moment je la quitte,
 Viens Jacinte.
 
--*who_donbertran
-      Ce mal est venu tout à coup.
-
--*who_isabelle
 Elle a la tête bonne, elle pèse beaucoup.
 
--*who_donbertran
-Vous voyez, mon Cousin, de quoi vous êtes cause.
-Mais j'ai certain onguent mixtionné d'eau rose,
-Il est de grande force, et de sa pâmoison
-En moins d'une heure ou deux il nous fera raison.
-Je cours jusqu'à ma chambre.
-
-**** *book_ *id_III10 *act_III *date_1651 *creator_corneille
-
--*who_donalvar
-      Ô disgrâce inouïe !
-Guzman.
-
--*who_guzman
-      Feignez d'aimer la dame évanouie
-Contez-lui des douceurs, des quolibets d'amour,
-Afin que Don Bertran les entende au retour,
-Et qu'ainsi vous croyant le coeur féru d'amour pour elle,
-Il ne soupçonne rien de l'amour d'Isabelle.
-Commencez votre rôle.
-
--*who_donalvar
-      Ah, quels déplaisirs !
-Digne objet de ma flamme, écoutez mes soupirs.
-Voyez quelle douleur tient mon âme pressée
-À voir de vos beaux yeux la lumière éclipsée.
-Vous seule sur mon coeur régnez absolument,
-Et je n'aime le jour que pour vous seulement.
-
-**** *book_ *id_III11 *act_III *date_1651 *creator_corneille
-
--*who_isabelle
 Que vois-je  ? Juste Ciel !
 
--*who_donalvar
-      Enfin, je vous adore,
-Ma chère Léonor, respirez-vous encore  ?
-D'un coup d'oeil pour le moins répondez à ma voix.
-
--*who_isabelle
 Ne dissimule plus, traître, je te connais.
 Je vois les sentiments d'une âme toute lâche,
 Qui sous un faux semblant se déguise et se cache.
 C'est donc là ce beau feu dont tu t'osais vanter  ?
 C'est là ce digne amour dont tu m'osais flatter  ?
 
--*who_donalvar
-Madame...
-
--*who_isabelle
       Il me suffit, ne cherche point d'excuses,
 Don Félix obtiendra ce coeur que tu refuses,
 Il sera mon époux ; je le hais, mais enfin
@@ -2174,908 +2241,52 @@ J'obéis pour te plaire à mon cruel destin,
 Et pour me punir mieux d'avoir dit que je t'aime,
 Je ne veux me venger de toi que sur moi-même.
 
--*who_donalvar
-Ah, ne punissez pas avec tant de rigueur
-Un crime de ma langue, et non pas de mon coeur.
-Ne vous alarmez point d'une si vaine flamme,
-Que feignant de nourrir je désavoue en l'âme.
-De peur que Don Bertran par un soupçon jaloux
-N'ose imaginer que je brûle pour vous,
-Exprès pour Léonor je me feins l'âme atteinte.
-
--*who_isabelle
 Puisqu'il ne t'entend point, à quoi bon cette feinte  ?
 Va, tu n'es qu'un ingrat.
 
--*who_donalvar
-      Quel malheur est le mien  ?
-N'écouterez-vous point...
-
--*who_isabelle
       Non, je n'écoute rien.
 
--*who_donalvar
-Je ne vis que pour vous, seule je vous adore,
-Votre amour fait ma joie ; en faut-il plus encore  ?
-J'abhorre Léonor, et par de vains efforts...
-
--*who_leonor
-Traître, perfide...
-
--*who_guzman
-      À l'aide, elle a le Diable au corps.
-
--*who_leonor
-Il faut te déclarer, imposteur, il faut dire
-Pour laquelle de nous ton lâche coeur soupire.
-Et pour elle et pour moi, tu feins les mêmes feux.
-L'aimes-tu  ? M'aimes-tu  ? Qui trompes-tu des deux  ?
-
--*who_isabelle
 Lève le masque enfin, il faut cesser de feindre.
 
--*who_guzman
-Trente sergents en queue il serait moins à plaindre.
-
--*who_leonor
-Parle donc à laquelle as-tu donné ta foi  ?
-Est-ce à moi, dis, parjure  ?
-
--*who_isabelle
       Infidèle, est-ce à moi  ?
 
--*who_leonor
-Suis-je l'objet d'amour  ?
-
--*who_isabelle
       Suis-je celui de haine  ?
 
--*who_guzman
-Je n'avais jamais vu jusqu'ici d'âme en peine,
-J'en vois une à présent.
-
--*who_leonor
-      Réponds.
-
--*who_donalvar
-      J'aime, je dis...
-
--*who_leonor
-Tu cherches à fourber puisque tu t'interdis.
-Mais pourquoi, si tu mets tous tes soins à lui plaire,
-Cette nuit dans ma chambre as-tu feint le contraire  ?
-Pourquoi m'as-tu juré pour t'en justifier...
-
--*who_donalvar
-Moi, que dans votre chambre...
-
--*who_leonor
-      Oses-tu le nier  ?
-
--*who_isabelle
 Tu l'aimes donc, perfide  ?
 
--*who_donalvar
-      Isabelle, de grâce,
-Daignez ouïr...
-
--*who_leonor
-      Pour moi tu n'es donc que de glace  ?
-
--*who_donalvar
-Léonor.
-
--*who_guzman
-      Comment Diable en viendra-t-il à bout  ?
-
-**** *book_ *id_III12 *act_III *date_1651 *creator_corneille
-
--*who_donbertran
-Voici notre Remède. Ah, vous êtes debout.
-Où vous tenait ce mal, Soeur un peu trop dolente  ?
-Mais vous avez la mine aussi peu rechignante.
-Qu'auriez-vous de nouveau  ?
-
--*who_isabelle
       N'en ayez point souci.
 
--*who_donbertran
-Et ce joli Mignon, que faisait-il ici  ?
-
--*who_isabelle
 Je ne puis vous le dire à moins que je devine.
 C'était à mon insu...
 
--*who_donbertran
-      Vous faites donc la fine  ?
-Dormez tout votre saoul ; je ne partirai point
-Que l'on ne m'ait appris le tout de point en point.
-
--*who_leonor
-Sans vous inquiéter, dès ce matin, mon Frère,
-Mariez-vous ici.
-
--*who_donbertran
-      Vous devriez vous taire,
-Je suis et bon et sage, et veux ce que je veux.
-Rentrez.
-      Adieu, la Belle.
-
--*who_jacinte
-      Ô l'étrange amoureux !
-
-**** *book_ *id_IV01 *act_IV *date_1651 *creator_corneille
-
--*who_donbertran
-Vous n'avez rien ouï de tout ce grand vacarme  ?
-
--*who_dongarcie
-Je n'en ai rien ouï.
-
--*who_donbertran
-      Ni crier à l'alarme  ?
-
--*who_dongarcie
-Non.
-
--*who_donbertran
-      Si le feu de nuit prenait à la maison
-Vous vous laisseriez donc rôtir comme un oison.
-Toutefois pour avoir l'âme si sommeillante,
-Vous avez engendré fille peu dormante.
-
--*who_dongarcie
-Quoi, que s'est-il passé ? Ma fille...
-
--*who_donbertran
-      Allons tout doux,
-Nous avons tout loisir, et le jour est à nous.
-Dites-moi, seriez-vous bien aise de m'entendre  ?
-
--*who_dongarcie
-J'y suis tout préparé, que m'allez-vous apprendre  ?
-
--*who_donbertran
-Je m'en vais vous conter un assez vilain cas ;
-Mais oyez-vous bien clair quand vous ne dormez pas  ?
-Parlerai-je bien haut  ?
-
--*who_dongarcie
-      La question est grande !
-Suis-je sourd pour me faire une telle demande  ?
-
--*who_donbertran
-N'interromprez-vous point  ?
-
--*who_dongarcie
-      À quoi bon  ?
-
--*who_donbertran
-      Mon dessein
-Est de parler longtemps.
-
--*who_dongarcie
-      Parlez jusqu'à demain.
-
--*who_donbertran
-Posément  ?
-
--*who_dongarcie
-      Posément.
-
--*who_donbertran
-      Et vous saurez-vous taire ?
-
--*who_dongarcie
-Tant que vous parlerez.
-
--*who_donbertran
-      Écoutez donc, beau-père.
-Je prétends être noble, et non pas, Dieu merci,
-De ceux qui seulement le sont cosi-cosi,
-Je chasse de plus loin, et ferais bien voir comme
-L'aïeul de mon aïeul était très gentilhomme.
-Quoique issu de parents si nobles et si preux,
-Et moi par conséquent encor plus noble qu'eux,
-Ma façon de traiter est pourtant assez ronde,
-Je suis humble, je fais état de tout le monde,
-Et bien loin d'imiter mille jeunes muguets,
-Je m'entretiendrais même avecque des laquais.
-Aussi des bons, dit-on, Don Bertran est la crème,
-Il n'est dans le pays personne qui ne l'aime,
-Qui n'en dise du bien, et cela se connaît,
-Chacun me rit au nez aussitôt qu'il me voit.
-À monter à cheval je triomphe, j'excelle,
-Je tombe d'un plein faut à ravir sur la selle,
-Mais d'un faut si léger que j'éblouis les yeux,
-Et de la selle en bas je tombe encore mieux.
-Cent fois m'est avenu sans me rompre os ni veine,
-Ce qui de mon adresse est marque très certaine,
-Car beaucoup n'ont tombé qu'une fois seulement,
-Qui se sont échinés fort maladroitement.
-Pour vaillant, je le suis, je crève de courage,
-Je chante comme un cygne, à danser je fais rage,
-Jusqu'à donner leçon à certain petit chien
-Qui danse comme un drôle, et qui ne m'en doit rien.
-D'ailleurs, je me connais assez bien en peinture,
-De cette propre main j'ai fait ma portraiture,
-Et n'ai pas moins de grâce à toucher le pinceau
-Que d'esprit à tirer des vers de mon cerveau ;
-Car vous n'ignorez pas, sans que je vous le die,
-Que je sais en six jours faire une Comédie,
-Et que si le Théâtre était estropié
-J'ai déjà trop de quoi le remettre sur pied.
-Quant au fait du ménage où je m'applique l'âme,
-Je sais comme il faut vivre, et n'en redoute femme.
-J'ai pourtant le coeur bon, et ne pleure jamais
-Ou la dépense faire, ou celle que je fais.
-Qu'un Parent me soit mort, sans qu'on me sollicite,
-Je me mets en grand deuil pourvu que j'en hérite,
-Je m'en console ainsi mieux qu'à moi n'appartient,
-Je prends toujours courage, et le temps comme il vient,
-L'esprit fort et constant, sans me mettre en cervelle
-Ce que peut dire un tel ou penser une telle,
-Je fais nargue au babil, et qui plus est, ma foi,
-Je me moque de ceux qui se moquent de moi.
-Pour ma taille, on ne peut la trouver engoncée,
-J'ai le pied bien tourné, la jambe bien troussée,
-Le port majestueux, le visage assez doux,
-Et la mine guerrière autant ou plus que vous.
-Sans doute vous direz ici que je me loue  ?
-En cela vous dites vérité, je l'avoue,
-Je me loue en effet, mais il est à propos,
-Et pour conclure enfin l'affaire en peu de mots,
-Las de vivre toujours sans Femme noire ou blonde
-Par qui pouvoir laisser des Don Bertrans au monde,
-Noble vaillant, adroit, danseur, dispos, léger,
-Poète, Musicien, Peintre, bon ménager,
-Et surtout, qui n'est pas chose fort dégoûtante,
-Ayant près de sept fois mille ducats de rente,
-Je viens pour faire honneur à Madame Isabeau,
-Et par un bon contrat me charger de sa peau,
-Sans en rien espérer que lorsque la mort fière
-Par grand bonheur pour moi vous clora la paupière,
-Jugez jusqu'où pour vous je me suis relâché,
-Et si ce n'est pas là me vendre à bon marché ;
-Et malgré tout cela, j'entre en chaud mal de fièvre,
-Et trouve qu'on me donne un chat au lieu d'un lièvre.
-
--*who_dongarcie
-Avez-vous l'esprit sain  ?
-
--*who_donbertran
-      Laissez-là mon esprit,
-Nous en disputerons lorsque j'aurai tout dit.
-
--*who_dongarcie
-Je devrais bien plutôt...
-
--*who_donbertran
-      Vous avez l'humeur prompte,
-Soyez de par le Diable attentif à mon conte,
-Écoutez jusqu'au bout, vous parlerez après.
-J'avais mandé, je pense, en termes fort exprès
-Qu'Isabelle s'en vînt bien et dûment masquée,
-Bien loin de m'obéir elle s'en est moquée,
-Et partant de Madrid n'a mis sur son minois,
-Pour me faire enrager, qu'un masque de trois doigts.
-Ce qui m'émeut la bile encore davantage,
-C'est que vous ayez fait sans besoin le voyage,
-Peut-être sous l'espoir d'attraper un repas ;
-Cependant en deux mots je ne le voulais pas,
-Et je vous épargnais la peine de le faire
-Par un Récépissé passé devant Notaire,
-Outre que votre fille aime trop le caquet,
-Tout ce qu'elle m'a dit sent son esprit coquet,
-Sa tête a des vapeurs qu'on a peine à rabattre,
-Pour un pied qu'on lui donne elle ose en prendre quatre,
-Elle est presque toujours sur le raisonnement,
-Et raisonnant raisonne irraisonnablement ;
-Force cajolerie et mots galants en bouche,
-L'oeil souvent en campagne, et l'accueil peu farouche.
-J'aime de cette humeur la Femme d'un Voisin,
-Mais je veux que la mienne aille le grand chemin.
-De plus, un Don Félix, adroit de la prunelle,
-En dépit que j'en aie a toujours l'oeil sur elle.
-Même j'ai cette nuit été fort alarmé
-Trouvant mon beau-Cousin dans sa chambre enfermé,
-Et j'y suis, m'a-t-il dit, comme un Parent fidèle
-Qui viens pour votre honneur faire la sentinelle,
-Et voir si Don Félix oserait s'y couler.
-
--*who_dongarcie
-Quoi, Don Félix de nuit aurait pu lui parler  ?
-
--*who_donbertran
-Non pas, mais toutefois c'est chose assez infâme
-Qu'un Mari corps pour corps n'ose piéger sa Femme,
-Qu'il ait quelque scrupule, et demeure en soupçon
-Si de nuit un galant l'entretenait ou non.
-Enfin j'aimerais mieux la moindre Paysanne,
-Il faut à votre fille homme qui porte canne,
-Allez-en quêter un, j'en suis fort satisfait ;
-Nourriture de cour n'est point du tout mon fait,
-Vous le savez fort bien en votre conscience.
-Payons donc, s'il vous plaît, par moitié la dépense,
-Tirons chacun du nôtre au sortir de ce lieu,
-Toute promesse nulle, et bons amis, adieu.
-Je n'ai plus d'appétit touchant le mariage.
-
--*who_dongarcie
-On m'avait bien dit vrai, que vous n'étiez pas sage,
-Que souvent vous aviez le cerveau démonté,
-Mais je ne croyais pas que vous l'eussiez gâté.
-Savez-vous qui je suis  ?
-
--*who_donbertran
-      Vous êtes Don Garcie,
-Que je souhaiterais n'avoir vu de ma vie.
-
--*who_dongarcie
-Il faut chanter pourtant, et sur un autre ton.
-
--*who_donbertran
-Criez, jurez, pester, si vous le trouvez bon.
-Pour moi, si j'en démords je veux bien qu'on m'étrille.
-Rendez-moi ma quittance, et prenez votre fille.
-
--*who_dongarcie
-Ma foi, vous parlerez ainsi que je l'entends.
-
--*who_donbertran
-À d'autres, rengainez, j'ai plus de soixante ans,
-Je ne suis plus d'âge à tenter l'enfilade,
-Et si je porte un fer, ce n'est que par parade.
-
--*who_dongarcie
-Ne croyez pas ainsi parer en reculant.
-
--*who_donbertran
-Ô de tous les Vieillards le plus sanguinolent !
-
--*who_dongarcie
-Vous marchandez en vain.
-
--*who_donbertran
-      Si je suis ma colère...
-Mais tant s'estomaquer n'est pas fort nécessaire.
-Voyez-vous, je suis bon, et d'un mot de douceur
-On m'arracherait l'âme, on me fendrait le coeur.
-J'accorde et me soumets d'épouser Isabelle,
-Mais à condition seulement...
-
--*who_dongarcie
-      Et bien, quelle  ?
-
--*who_donbertran
-Que si ce Don Félix venu pour elle exprès
-Ose l'envisager ou de loin ou de près...
-
--*who_dongarcie
-Et quoi, ce Don Félix vous tient-il à la tête  ?
-Croyez-vous...
-
--*who_donbertran
-      Croyez-vous que je sois une bête,
-Et ne connaisse pas clairement aujourd'hui
-Que sans comparaison je vaux bien mieux que lui  ?
-Mais aussi bien que moi vous avez osé dire
-Que fille qui choisit bien souvent prend le pire.
-Si donc je m'aperçois, et vous fais voir enfin
-Qu'Isabelle ait pour moi le coeur traître et malin,
-Vous me rendez soudain, sans sommations nulles,
-Ce qu'il m'a pu coûter en louage de mules,
-Ce que j'ai déboursé pour le carrosse aussi,
-Et ce que depuis hier j'ai fait de frais ici ;
-Car franchement, à moins qu'Isabelle soit nôtre,
-Je serais un grand sot de payer pour un autre.
-
--*who_dongarcie
-Votre demande est juste, et j'y dois consentir.
-
--*who_donbertran
-Allez donc disposer tout le monde à partir.
-
-**** *book_ *id_IV02 *act_IV *date_1651 *creator_corneille
-
--*who_donbertran
-Guzman.
-
--*who_guzman
-      Et bien enfin, avez-vous votre compte  ?
-Est-ce fait  ?
-
--*who_donbertran
-      Tu me vois avec ma courte honte,
-Notre marché tiendra.
-
--*who_guzman
-      Quoi, tout n'est pas rompu ?
-
--*who_donbertran
-En vain pour m'en tirer j'ai fait ce que j'ai pu,
-Ce Diable de Beau-père est trop opiniâtre.
-
--*who_guzman
-Ces vieillards sont toujours d'humeur acariâtre.
-
--*who_donbertran
-Au profit de sa fille ; il a fort peu de bien,
-Elle empire d'attendre, et je la prends pour rien.
-La garde d'un tel meuble à la fin peut déplaire.
-
--*who_guzman
-Ce n'est pas d'aujourd'hui qu'il cherche à s'en défaire,
-Mais le monde à Madrid est plus futé qu'ici.
-
--*who_donbertran
-Comment ? Je suis donc pris pour dupe ?
-
--*who_guzman
-      Oui, Dieu merci.
-Vous allez bientôt être un Mari d'importance.
-
--*who_donbertran
-Ah, que si je pouvais rattraper ma quittance !
-Mais notre épouse encor, qu'a-t-elle  ?
-
--*who_guzman
-      Un grand défaut.
-
--*who_donbertran
-Quel ?
-
--*who_guzman
-      Il n'importe.
-
--*who_donbertran
-      Dis.
-
--*who_guzman
-      Je n'ose.
-
--*who_donbertran
-      Achève tôt.
-
--*who_guzman
-Mais...
-
--*who_donbertran
-      Si tu ne le dis, je jouerai de la dague.
-
--*who_guzman
-Vous le voulez savoir  ?
-
--*who_donbertran
-      Oui, parle.
-
--*who_guzman
-      Elle extravague.
-
--*who_donbertran
-Elle ?
-
--*who_guzman
-      Elle.
-
--*who_donbertran
-      Ce n'est donc qu'en de certains moments.
-
--*who_guzman
-Elle a l'esprit gâté d'avoir lu des romans,
-Et croit qu'étant un jour d'un Taureau poursuivie
-Sans certain Chevalier elle eût perdu la vie.
-Elle l'aime en idée, et quoique son époux,
-Ce chimérique Amant l'emportera sur vous.
-Elle caresse tantôt l'un, tantôt l'autre,
-Croyant...
-
--*who_donbertran
-      Dans sa folie il irait bien du nôtre.
-Aussi hier à l'abord il m'était fort nouveau
-Que mon Cousin lui fît un conte de Taureau.
-
--*who_guzman
-Il avait dès Madrid appris sa maladie.
-La fit-il bien jaser  ?
-
--*who_donbertran
-      Jaser comme une pie.
-Tant de raisons en l'air de ceci, de cela,
-Qu'enfin je crus devoir y mettre le holà.
-Je suis bien à mon aise avec mon Mariage.
-
--*who_guzman
-Quoi, vous l'épouseriez ? Vous, Monsieur ?
-
--*who_donbertran
-      J'en enrage,
-Mais Don Garcie...
-
--*who_guzman
-      Et bien ? Se veut-il mutiner ?
-
--*who_donbertran
-C'est un vieillard colère, et jusqu'à dégainer.
-
--*who_guzman
-Dégainer.
-
--*who_donbertran
-      Au besoin tu manques de prudence.
-S'il faut que je le tue ?
-
--*who_guzman
-      Il sera mort, je pense.
-
--*who_donbertran
-En suite d'un combat où j'aurai tout risqué,
-Si mon bien se confisque  ?
-
--*who_guzman
-      Il sera confisqué.
-
--*who_donbertran
-Toi-même en cas pareil te voudrais-tu bien battre ?
-
--*who_guzman
-Ah ventre ! Ah tête ! Ah sang !
-
--*who_donbertran
-      Tu fais le Diable à quatre !
-
--*who_guzman
-Qui vive ? Par la mort, vous en avez menti.
-
--*who_donbertran
-Guzman a du courage ?
-
--*who_guzman
-      Il est déjà parti,
-Et je tiens comme vous que de flamberge nue
-La vision est laide, et blesse fort la vue.
-S'il m'en fallait tâter, je pourrais filer doux,
-Et je ne me battais, ma foi, non plus que vous.
-
--*who_donbertran
-L'on y peut beaucoup perdre, et l'on n'y gagne guères.
-
--*who_guzman
-Si le jeu vous déplait, songez à vos affaires.
-
--*who_donbertran
-Pourquoi ?
-
--*who_guzman
-      Ce Don Félix est un méchant garçon,
-Et veut faire avec vous le coup d'estramaçon,
-Comme offensé dit-il, sans raison raisonnable.
-
--*who_donbertran
-Ces Esprits de Madrid sont prompts comme le Diable.
-
--*who_guzman
-C'est un Lancier bien rude à qui s'ose y jouer.
-
--*who_donbertran
-Que ne suis-je à Tolède ! Il faut l'amadouer,
-Car tentant le hasard, sur quoi que je me fonde,
-Il me faudrait quitter le Pays, ou le Monde,
-Et je me trouve bien, ma foi, dans tous les deux.
-Mais Diable, le voici, ce redoutable Preux,
-Ah, pauvre Don Bertran !
-
-**** *book_ *id_IV03 *act_IV *date_1651 *creator_corneille
-
--*who_donfelix
-      J'ai deux mots à vous dire.
-
--*who_donbertran
-Dites.
-
--*who_donfelix
-      Mais en secret, faites qu'il se retire.
-
--*who_donbertran
-Quiconque marche droit, sans fraude, et comme il faut,
-Ne fait rien en cachette, et parle toujours haut.
-Quant à moi, je ne crains nullement qu'on m'entende.
-
--*who_donfelix
-Certes avecque vous la courtoisie est grande,
-Que vous ne vouliez pas éloigner un Valet.
-
--*who_donbertran
-Hier quand je vous parlai, je parlai haut et net,
-Je ne demande rien que je ne veuille faire,
-Et vous pouvez choisir de parler, ou vous taire.
-
--*who_donfelix
-J'ai toujours grand sujet de me louer de vous.
-
--*who_donbertran
-Il est vrai, je veux bien l'avouer entre nous.
-Hier transporté d'amour j'eus l'âme un peu hautaine,
-Vous n'eûtes pas de moi satisfaction pleine,
-Je fis trop peu d'état de votre compliment,
-Vous vouliez m'honorer fort amiablement,
-Venir jusqu'à Tolède avec toute la Bande,
-Et c'était-là me faire une grâce fort grande,
-Je devais l'accepter, je l'avoue à ce coup,
-Car vous êtes brave Homme, et vous valez beaucoup,
-Gracieux, obligeant ; de plus, je considère
-Que vous étiez ami de feu Monsieur mon Père.
-Ainsi par ses raisons, pour refaire la paix,
-Vous serez de ma noce, et je vous le promets,
-Prenez place au carrosse auprès de l'épousée,
-Et pour rendre entre nous cette paix plus aisée,
-J'aurai deux violons pour nous faire danser.
-Vous êtes mon ami plus qu'on ne peut penser,
-Et pour l'amour de vous je me mettrais en pièces.
-
--*who_donfelix
-Ce n'est pas là...
-
--*who_donbertran
-      Combien avez-vous de Maîtresses  ?
-Je vous trouve bien fait, vous avez l'oeil mignon,
-Et la mine surtout d'être bon compagnon.
-
--*who_donfelix
-Enfin venons, de grâce, au point que je désire.
-
--*who_donbertran
-Quoi, vous auriez encor quelque chose à me dire  ?
-
--*who_donfelix
-Oui, de fort important, j'aurai fait en deux mots.
-
--*who_donbertran
-Vous ne me direz rien que de fort à propos  ?
-
--*who_donfelix
-Vous m'en remercierez.
-
--*who_donbertran
-      Parlez donc, car je pense
-Que je suis en humeur de donner audience.
-
--*who_donfelix
-Je meurs pour Isabelle, et cet Objet vainqueur
-Malgré ma résistance a captivé mon coeur,
-Je l'adore.
-
--*who_donbertran
-      Tant pis, si vous n'êtes en grâce.
-Depuis combien de temps lui donnez-vous la chasse  ?
-
--*who_donfelix
-Depuis un an ou deux.
-
--*who_donbertran
-      C'est bien s'être aveuglé
-Que souffrir si longtemps son esprit déréglé,
-Car vous en aurez vu quelques extravagances  ?
-
--*who_donfelix
-L'Amour se fortifie au milieu des souffrances.
-J'ai langui sans murmure, et toujours espéré
-Qu'enfin je pourrais voir son esprit modéré ;
-Le temps dissipe encor de plus sombres nuages.
-
--*who_donbertran
-D'une amour réciproque avez-vous quelques gages  ?
-
--*who_donfelix
-J'ai poussé jusqu'ici mille soupirs en vain,
-Mais se voyant réduire à vous donner la main,
-Avec moi cette nuit elle s'est déclarée,
-J'ai reçu de sa flamme une preuve assurée,
-Un doux oui de sa bouche, après tant de mépris,
-De ma constance enfin se trouve être le prix.
-
--*who_donbertran
-Quoi, vous ayant toujours fait mine peu civile,
-Cette nuit seulement elle a changé de style  ?
-
--*who_donfelix
-Et n'est-ce pas assez  ?
-
--*who_donbertran
-      Je gagerais ma peau
-Qu'elle croyait parler à l'homme à son Taureau,
-Et que sa vision lui tenait à la tête.
-Mais passons outre ; enfin quelle est votre requête  ?
-
--*who_donfelix
-Que sachant qu'elle m'aime, et ne vous aime point,
-Vous ne sépariez pas ce qui semble être joint,
-Et sans plus la contraindre à ce qu'elle appréhende...
-
--*who_donbertran
-Ah, si je la contrains, je veux que l'on me pende ;
-Mais aussi, si je fais ce coup d'Ami pour vous,
-Vous satisferez l'Hôte, et vous payerez pour tous.
-Je fis hier par amour dépense assez complète,
-Et je vous y transporte et mon droit et la dette.
-
--*who_donfelix
-J'accepte l'un et l'autre.
-
--*who_donbertran
-      À la bonne heure, soit.
-Mais avecque ma Soeur la voici qui parait,
-Je veux tout maintenant vous en faire remise.
-
-**** *book_ *id_IV04 *act_IV *date_1651 *creator_corneille
-
--*who_leonor
-L'heure de déloger, mon Frère, est-elle prise  ?
-Le Cocher est tout prêt, et l'on attend que vous.
-
--*who_donbertran
-Oui bientôt. Approchez, belle Nymphe aux yeux doux.
-Donnez-moi votre main.
-
--*who_isabelle
       Que prétendez-vous faire  ?
 
--*who_donbertran
-Touchez-là.
-
--*who_isabelle
       Moi  ?
 
--*who_donbertran
-      Vous, vite, et sans plus de mystère.
-Don Félix vous en conte, il est de vous chéri,
-Je vous fait son épouse, et lui votre Mari.
-Je ne fus convoiteux jamais du bien d'un autre.
-
--*who_isabelle
 Pouvez-vous me donner si je ne suis pas vôtre  ?
 
--*who_donbertran
-Sachez qu'onques à vous n'appartint tel honneur.
-
--*who_donfelix
-Puisque enfin mon Rival consent à mon bonheur,
-J'ose vous demander l'effet de vos promesses.
-
--*who_isabelle
 Que vous ai-je promis ?
 
--*who_donbertran
-      Mettons bas les finesses,
-L'on sait, ce que l'on sait, et... mais je ne dis mot.
-Si plus on m'y retient, je veux passer pour sot.
-
--*who_donfelix
-Madame, à quel dessein voulez-vous ici feindre ?
-Don Bertran vous cédant, vous n'avez rien à craindre.
-
--*who_isabelle
 Quel droit peut-il avoir de me donner à vous ?
 
--*who_donfelix
-Me faut-il un tel droit pour être votre époux,
-Et n'en ai-je pas...
-
--*who_isabelle
       Quoi ?
 
--*who_donfelix
-      Déjà reçu parole ?
-
--*who_isabelle
 De qui ? Quand ?
 
--*who_donfelix
-      Cette nuit, de vous.
-
--*who_guzman
-      La pièce est drôle.
-
--*who_isabelle
 Moi, je vous ai parlé de toute cette nuit  ?
 
--*who_donfelix
-Oui, Madame, et prié de me couler sans bruit,
-Quand une voix soudain m'a fait quitter la place.
-
--*who_isabelle
 Vous faites bien un conte, et de fort bonne grâce.
 
--*who_donfelix
-Quoi, vous ne m'avez pas demandé du secours
-Contre un Hymen fatal au bonheur de vos jours,
-Juré que votre amour serait ma récompense  ?
-
--*who_isabelle
 Sans doute vous rêvez.
 
--*who_donbertran
-      Perd-elle contenance  ?
-Vous entretenez donc de nuit le cavalier,
-Et quand à votre chambre on va vous épier,
-On vous blesse, on fait tort à votre prud'homie.
-
--*who_isabelle
 Quoi, peut-on me traiter avec plus d'infamie ?
 Si j'ai vu de bon oeil Don Alvar ce matin,
 Apprenez que sans vous...
 
--*who_donbertran
-      C'est un brave cousin,
-Il veille à mon honneur comme je le souhaite.
-
--*who_leonor
-Ces soins de votre honneur ne sont qu'une défaite,
-Car dans sa chambre enfin Don Alvar n'est entré...
-
--*who_donbertran
-Je sais si c'est par ruse, ou de force, ou de gré,
-Taisez-vous.
-
--*who_leonor
-      Dois-je pas...
-
--*who_donbertran
-      Vous êtes forte en gueule.
-Votre langue a passé de nouveau sous la meule,
-Elle est bien affilée.
-
--*who_leonor
-      Ah, je ne puis souffrir
-Qu'un traître...
-
--*who_donbertran
-      Jusqu'à quand voulez-vous discourir  ?
-
--*who_leonor
-Ai-je tort de tâcher...
-
--*who_donbertran
-      Diable, que de paroles !
-Enfin je vous mettrai dehors par les épaules.
-
--*who_leonor
-Quand pour vous détromper je fais ce que je puis.
-
--*who_donbertran
-C'en est trop, allez voir là dehors si j'y suis.
-
--*who_isabelle
 Quelle brutalité !
 
--*who_jacinte
-      C'est un fou personnage.
-
-**** *book_ *id_IV05 *act_IV *date_1651 *creator_corneille
-
--*who_donbertran
-Or sus, nos deux Amants, sans tarder davantage,
-Parlez, je jugerai de votre différend.
-
--*who_isabelle
 Je le tiens tout jugé.
 
--*who_donfelix
-      Quoi, mon rival se rend ?
-Quoi, j'aurai même appris de votre propre bouche
-Que son feu vous déplaît, que mon amour vous touche,
-Et tout cela, Madame, à ma confusion ?
-
--*who_donbertran
-Vous ai-je pas bien dit que c'était vision,
-Qu'elle croyait parler à son galant d'idée  ?
-Cherchez fortune ailleurs, l'affaire en est vuidée.
-
--*who_donfelix
-Après m'avoir promis cette nuit d'être à moi,
-L'Ingrate s'en dédire, et me manquer de foi  ?
-
--*who_isabelle
 Je n'examine point ici par quelle adresse
 Vous voulez m'imputer une fausse promesse,
 Mais sachez que jamais je ne vous promis rien,
@@ -3085,666 +2296,44 @@ J'eus pour vous de tout temps une haine invincible.
 Ne vous flattez donc plus, et tenez pour certain
 Que vous n'aurez jamais ni mon coeur ni ma main.
 
--*who_guzman
-C'est bien là pour lui faire épanouir la rate.
-
--*who_donfelix
-Ah, c'est trop s'exposer aux mépris d'une Ingrate,
-Quittons ces tristes lieux, et ne balançons plus.
-
-**** *book_ *id_IV06 *act_IV *date_1651 *creator_corneille
-
--*who_donbertran
-À bien et justement raisonner là-dessus,
-Vous m'aimez mieux que lui  ?
-
--*who_isabelle
       J'obéis à mon Père.
 
--*who_donbertran
-Mais certain Cavalier ne vous saurait déplaire  ?
-
--*who_isabelle
 Quel  ?
 
--*who_donbertran
-      Celui du taureau. Feinte à part, vous l'aimez ?
-
--*who_guzman
-Voyez comme ce mot rend ses sens tout charmés.
-
--*who_jacinte
-Puisqu'il sait l'aventure, avouez tout, Madame.
-
--*who_isabelle
 Son mérite, il est vrai, peut beaucoup sur mon âme,
 Et je puis bien donner une place en mon coeur
 À qui je dois la vie, et peut-être l'honneur.
 
--*who_donbertran
-Guzman.
-
--*who_guzman
-      Oyez, Monsieur, et bien, lui fais-je dire  ?
-Flattez son fol amour, vous la ferez bien rire.
-
--*who_donbertran
-Aimez ce beau Galant, je n'en suis point jaloux.
-
--*who_isabelle
 Cet amour sera vain si je ne suis pas mon époux.
 
--*who_donbertran
-Je consens qu'il le soit, et lui cède ma place.
-
--*who_isabelle
 Je n'ose encor songer à vous en rendre grâce,
 Et crains que mon bonheur ne soit mal affermi.
 
--*who_donbertran
-Non, j'y consens, vous dis-je, et serai son Ami,
-Mais à condition qu'il se rendra visible.
-
--*who_isabelle
 Il n'est pas malaisé.
 
--*who_donbertran
-      Si la chose est possible,
-Faites que je le voie.
-      Elle en tient.
-
--*who_guzman
-      Et beaucoup ;
-Laissez-la rêver seule, il suffit pour ce coup.
-
--*who_donbertran
-Adieu, jusqu'au revoir, la belle Aventurière.
-
-**** *book_ *id_IV07 *act_IV *date_1651 *creator_corneille
-
--*who_isabelle
 Le Ciel a-t-il enfin exaucé ma prière  ?
 D'où lui vient cette humeur  ?
 
--*who_guzman
-      Reposez-vous sur moi,
-Quoi que je lui débite, il me croit sur ma foi.
-Je saurai l'amener au point que je souhaite.
-
--*who_jacinte
-C'est donc par toi qu'il sait...
-
--*who_guzman
-      N'en soit donc point inquiète ;
-Mais il faut le rejoindre et ne le quitter point.
-Sans nommer Don Alvar, tenez ferme en ce point,
-D'aimer un Cavalier qui vous sauva la vie ;
-Vous en verrez l'effet répondre à votre envie.
-
--*who_jacinte
-S'il tient ce qu'il promet vos désirs sont contents  ?
-
--*who_isabelle
 Je n'en sais qu'espérer, mais sans perdre de temps,
 Va trouver Don Félix, et prenant ma querelle,
 Fais-lui voir qu'il m'accuse à tort d'être infidèle,
 Qu'à Léonor sur lui je cède tous mes droits,
 Et qu'il m'a cette nuit mal connue à la voix.
 
-**** *book_ *id_V01 *act_V *date_1651 *creator_corneille
-
--*who_donalvar
-Où l'as-tu donc laissé  ?
-
--*who_guzman
-      Seul avec sa folie,
-Dans sa chambre enfermé, non sans mélancolie.
-Il a comme la mer son flux et son reflux,
-Tantôt il en veut bien, tantôt il n'en veut plus.
-
--*who_donalvar
-Ce Beau-père obstiné le tient bien en cervelle  ?
-
--*who_guzman
-Si pour le satisfaire il épouse Isabelle,
-Il craint ce dont à peine on échappe en ce cas ;
-Il craint d'être battu s'il ne l'épouse pas,
-Et prévoit de tous sens si maligne Influence,
-Que contre son étoile il peste d'importance.
-Je l'ai pourtant contraint enfin de faire choix.
-
--*who_donalvar
-Et c'est !
-
--*who_guzman
-      De se laisser assommer mille fois
-Plutôt que passer outre à la cérémonie.
-
--*who_donalvar
-Tu me donnes, Guzman, une joie infinie.
-
--*who_guzman
-Si je n'eusse su l'empaumer à propos,
-Vous en teniez pourtant, il eut dit les fins mots ;
-Mais encor que chacun cherche qui lui ressemble,
-Il croit qu'elle étant folle, ils seraient mal ensemble ;
-Sur ma parole seule il change de dessein
-
--*who_donalvar
-Aussi crois...
-
--*who_guzman
-      De cela nous parlerons demain ;
-Venons à ce qui presse. Enfin, votre Isabelle  ?
-
--*who_donalvar
-Ah, Guzman, je l'adore.
-
--*who_guzman
-      Êtes-vous aimé d'elle  ?
-
--*who_donalvar
-Assez pour avoir lieu de croire que son coeur
-Est le prix du beau feu dont je ressens l'ardeur.
-
--*who_guzman
-Vous l'avez détrompée, et votre paix est faite  ?
-
--*who_donalvar
-Léonor cette nuit l'a tenue inquiète,
-Mais elle a trop connu par quel adroit détour
-Pendant sa pâmoison je feignais de l'amour.
-J'ai dissipé sans peine un si léger nuage.
-
--*who_guzman
-C'est en quoi Don Bertran me surprend davantage,
-Il n'en soupçonne rien.
-
--*who_donalvar
-      Loin de s'en défier,
-Croyant que tout de bon j'ai voulu l'épier,
-Et que cette action me la rend trop sévère,
-Il a pris soin pour moi d'apaiser sa colère,
-Nous a fait embrasser, et promettre tous deux
-Que jamais...
-
-**** *book_ *id_V02 *act_V *date_1651 *creator_corneille
-
--*who_donalvar
-      Ah, Jacinte, et bien serai-je heureux  ?
-Sais-tu quels sentiments a pour moi Don Garcie  ?
-
--*who_jacinte
-Bien moindres qu'il n'aurait s'il suivait notre envie.
-Ma Maîtresse a parlé de vous adroitement,
-Sans lui faire paraître aucun engagement
-Ni d'obligation ni de reconnaissance ;
-Mais son avare humeur emporte la balance,
-Et de la vertu seule il fait fort peu d'état
-À moins que la fortune en soutienne l'éclat.
-Ainsi la vôtre en vain vous rend considérable,
-Don Bertran riche et fou lui semble préférable.
-
--*who_donalvar
-N'importe, le temps presse, il faut se déclarer,
-Ce que j'ai fait pour lui me permet d'espérer.
-Peut-être qu'à mes voeux il sera moins contraire
-Sachant que c'est par moi qu'il se voir encor Père.
-Suivons notre dessein au péril du refus.
-
--*who_jacinte
-Allez voir Isabelle un moment là-dessus,
-Vous résoudrez de tout plus aisément ensemble.
-
-**** *book_ *id_V03 *act_V *date_1651 *creator_corneille
-
--*who_jacinte
-Et bien Guzman  ?
-
--*who_guzman
-      Et bien, Jacinte  ?
-
--*who_jacinte
-      Que t'en semble  ?
-
--*who_guzman
-Le bienheureux à qui ta Maîtresse sera !
-On s'y presse, on s'y tue, et c'est à qui l'aura.
-
--*who_jacinte
-Don Alvar seul pourtant en poursuit la conquête,
-Car Don Bertran voudrait s'être fait moins de fête,
-Et quant à Don Félix, notre passionné,
-Je lui viens de porter son congé tout signé.
-
--*who_guzman
-Tu l'as tiré d'erreur  ?
-
--*who_jacinte
-      Cette seule croyance
-Qu'Isabelle eût de nuit flatté son espérance,
-Le faisait s'obstiner ; et son Valet sans moi
-En eût payé l'amende, et tout du long.
-
--*who_guzman
-      Pourquoi  ?
-
--*who_jacinte
-De Don Félix son Maître il eut charge expresse
-De voir dans quelle chambre entrerait ma Maîtresse,
-Espérant cette nuit lui parler sans témoin ;
-L'étourdi cependant en prit si peu de soin,
-Que dans l'obscurité prenant l'une pour l'autre,
-Il causa ce désordre arrivé dans la nôtre.
-
--*who_guzman
-De sorte qu'en effet il ignorait encor
-Qu'ainsi pour Isabelle il eût pris Léonor.
-Qui d'ailleurs attendant Don Alvar à même heure
-Dans cette même erreur jusqu'à présent demeure
-
--*who_jacinte
-Elle est à mon avis plus à plaindre que tous
-D'aimer... mais je l'entends, ce me semble, à sa toux.
-De peur d'être surprise, adieu, je me retire.
-
--*who_guzman
-Elle me disait vrai, la voilà qui soupire.
-
-**** *book_ *id_V04 *act_V *date_1651 *creator_corneille
-
--*who_leonor
-Guzman, que j'ai dans l'âme un déplaisir profond !
-On rit...
-
--*who_guzman
-      Et bien, riez comme les autres font,
-C'est contre le chagrin un souverain remède.
-
--*who_leonor
-Si l'on rit, c'est du feu dont l'ardeur me possède.
-Et pour te découvrir le secret de mon coeur,
-Le traître Don Alvar se rit de ma langueur.
-Mais, Guzman, tire-moi de mon inquiétude.
-Qui le peut obliger à cette ingratitude,
-Car tu sais jusqu'ici qu'il m'a voulu du bien  ?
-
--*who_guzman
-À vous dire le vrai, ma foi, je n'en sais rien.
-
--*who_leonor
-Toi qui m'as tant de fois découvert sa pensée,
-Quand de quelque soupçon j'avais l'âme blessée,
-Tu ne me répons rien aujourd'hui là-dessus  ?
-
--*who_guzman
-Je la savais alors, mais je ne la sais plus.
-
--*who_leonor
-Il se cache de toi  ?
-
--*who_guzman
-      Bien plus qu'à l'ordinaire
-
--*who_leonor
-Mais cette nuit encor, ce qui me désespère,
-L'ingrat s'est voulu rendre à l'assignation,
-M'a fait un entretien rempli de passion.
-Cependant aujourd'hui, pour me couvrir de honte,
-Il veut faire passer tout cela pour un conte,
-Il dit qu'il n'en est rien.
-
--*who_guzman
-      C'est fort mal fait à lui.
-
--*who_leonor
-Cet outrage cruel redouble mon ennui,
-Car pourquoi dénier un point si véritable  ?
-
--*who_guzman
-Tout vilain cas, dit-on, fut toujours reniable,
-Mais vous parler de nuit n'est point un vilain cas.
-
--*who_leonor
-Isabelle sans doute a pour lui trop d'appas,
-Et moi... mais Don Félix à grand pas se promène.
-
--*who_guzman
-Le cours à Don Alvar témoigner votre peine,
-Et si l'on m'en veut croire, allez, tout ira bien.
-
--*who_leonor
-Parle de ton côté, je vais parler du mien.
-
-**** *book_ *id_V05 *act_V *date_1651 *creator_corneille
-
--*who_leonor
-Vous rêvez, je m'assure, aux mépris d'Isabelle  ?
-
--*who_donfelix
-Ah, laissez-moi, de grâce, oublier l'Infidèle.
-
--*who_leonor
-Vous partez, m'a-t-on dit  ?
-
--*who_donfelix
-      Oui, je m'éloigne enfin,
-Et vais l'abandonner à son mauvais destin.
-
--*who_leonor
-Ah, vous ne savez pas encor ce qui sa passe.
-Ce n'est qu'à Don Alvar que vous cédez la place,
-À l'amour de ce traître Isabelle se rend.
-
--*who_donfelix
-Don Bertran, Don Alvar, tout m'est indifférent,
-Et mon départ bientôt lui va faire connaître
-Qu'elle est en liberté de se choisir un Maître.
-C'est par le mépris seul qu'on venge le mépris.
-
--*who_leonor
-Et, de grâce, changez un dessein trop tôt pris.
-Différez ce départ, vous m'êtes nécessaire.
-
--*who_donfelix
-Ne pouvant rien pour moi, pour vous que puis-je faire  ?
-
--*who_leonor
-Du traître Don Alvar empêchez le projet.
-De ses feux Isabelle est le plus cher objet,
-Et je ne doute point que par votre présence
-Vous ne trompiez le cours de leur intelligence.
-
--*who_donfelix
-Vous l'aimez  ?
-
--*who_leonor
-      Je l'adore, et l'ingrat me trahit.
-
--*who_donfelix
-Mais dans un rendez-vous, à ce que l'on m'a dit,
-Sa flamme cette nuit pour vous s'est fait paraître  ?
-
--*who_leonor
-C'est ce qui me confond, il le veut méconnaître.
-
--*who_donfelix
-En quel aveuglement ai-je été jusqu'ici  ?
-Tu m'as dit vrai, Jacinte, et j'en suis éclairci.
-
--*who_leonor
-Que dites-vous  ?
-
--*who_donfelix
-      Enfin soyez désabusée
-D'une erreur que la nuit entre nous a causée.
-Dans l'ombre de la nuit, d'amour préoccupés,
-Nous nous sommes tous deux également trompés,
-Vous, touchant Don Alvar, moi touchant Isabelle ;
-Vous me preniez pour lui, je vous prenais pour elle.
-
--*who_leonor
-Quoi, je vous ai parlé cette nuit  ?
-
--*who_donfelix
-      Oui, c'est moi
-Qui cette même nuit vous ai promis ma foi,
-Et me suis engagé de tout mettre en pratique
-Pour vous soustraire au joug d'un pouvoir tyrannique
-Abuser Don Bertran, vous tirer de ses mains,
-Et faire réussir de plus justes desseins ;
-Mais j'ai cru qu'en effet...
-
-**** *book_ *id_V06 *act_V *date_1651 *creator_corneille
-
--*who_donbertran
-      Ah, ma soeur la mutine,
-Vous traitez donc ainsi l'amour à la sourdine,
-Tête à tête de nuit, et vous faites complot
-De mettre voile au vent tous deux sans dire mot  ?
-
--*who_leonor
-Si vous avez ouï...
-
--*who_donbertran
-      Taisez-vous, je vous prie.
-Doncques vous rompez tout si l'on ne vous marie  ?
-
--*who_leonor
-C'est à tort...
-
--*who_donbertran
-      Taisez-vous, vous dis-je, et point de bruit,
-Vous serez mariée à qui vous en poursuit.
-
--*who_donfelix
-Quant à moi...
-
--*who_donbertran
-      Quant à vous n'ayons point de querelle,
-Elle vous amourache, aussi faites-vous elle,
-Vous en voulez par là, j'en suis très fort joyeux ;
-Mais vous l'épouserez, ma foi, pour ses beaux yeux.
-Prenez, je vous la livre, elle est et belle et droite,
-N'a nuls défauts cachés, ne cloche, ni ne boite,
-C'est comme il vous la faut, vous serez bien conjoints.
-
--*who_donfelix
-Me voici marié quand j'y pensais le moins.
-Mais encor, parmi vous, de grâce, est-ce la mode
-De se défaire ainsi d'une soeur incommode,
-Sans avance, sans dot  ?
-
--*who_donbertran
-      Non, mais quoi qu'il en soit,
-C'est sa faute et la vôtre, et qui la fait, la boit.
-Vous en voulez tâter encor qu'il m'en déplaise ;
-D'accord, oui, passez-en votre envie à votre aise,
-Mais que je donne rien, ou contribue aux frais...
-
--*who_leonor
-Cessez de vous...
-
-**** *book_ *id_V07 *act_V *date_1651 *creator_corneille
-
--*who_mendoce
-      Monsieur, les chevaux sont tout prêts.
-
--*who_donfelix
-Allez, Mendoce, allons. Vous suivrez en carrosse,
-Je m'en vais préparer le festin de la noce,
-Je vous attends demain à Madrid pour dîner.
-
--*who_donbertran
-Laisser ainsi ma Soeur !
-
--*who_donfelix
-      Vous pourrez l'amener,
-Ou comme sous vos lois sa volonté se range,
-L'envoyer par Amis, ou par lettres de change.
-
--*who_leonor
-Vous vous faites berner.
-
--*who_donbertran
-      Je m'en aperçois bien,
-Mais je l'estropierai.
-
--*who_guzman
-      Monsieur, n'en faites rien.
-
--*who_donbertran
-Il faut...
-
--*who_donfelix
-      Tirer l'épée, et Guzman...
-
--*who_donbertran
-      Cet infâme
-En a, vous le voyez, laissé gâter la lame ;
-Elle est toute rouillée, et je crois que sans vous
-Pour son manque de soin je le rouerais de coups.
-
--*who_donfelix
-Je craignais autre chose, adieu.
-
-**** *book_ *id_V08 *act_V *date_1651 *creator_corneille
-
--*who_guzman
-      Votre colère,
-Elle est passée enfin  ?
-
--*who_donbertran
-      Ma foi, c'est son affaire,
-Qu'elle y soigne.
-
--*who_leonor
-      Mais quoi  ? Don Félix tout exprès...
-
--*who_donbertran
-Si le coeur vous en dit, ma Soeur, courez après,
-Je ne m'en mêle plus, c'est un point de chicane,
-Et d'ailleurs, s'il n'a soif, fera-t-on boire un âne  ?
-
--*who_leonor
-Je suis bien malheureuse, au moins si je ne puis
-Vous obliger d'ouïr l'excès de mes ennuis.
-Souffrez-moi seulement de parler un quart d'heure.
-
-**** *book_ *id_V09 *act_V *date_1651 *creator_corneille
-
--*who_dongarcie
-Quel débat avez-vous l'un et l'autre  ?
-
--*who_donbertran
-      Elle pleure,
-Les oiseaux étaient drus, ils se sont dénichés.
-Pleurez, ma pauvre Soeur, pleurez pour vos péchés.
-
--*who_leonor
-Il vaut mieux désormais me résoudre à me taire.
-
--*who_donbertran
-De grâce, dites-moi, mon prétendu Beau-père...
-
--*who_dongarcie
-Vous pourriez supprimer ce mot de prétendu.
-
--*who_donbertran
-Si vous l'êtes jamais, je veux être pendu.
-Pour la seconde fois j'en jure de la sorte,
-Si c'est trop peu jurer, que le Diable m'emporte,
-C'est tout dire, on doit croire un homme à son serment.
-
--*who_dongarcie
-Nous en sommes tantôt convenu autrement.
-Don Félix est parti qui vous faisait ombrage,
-Rien ne vous peut choquer, ma fille est belle et sage,
-Ne nous brouillons donc point par de nouveaux détours.
-
--*who_donbertran
-Vous me pensiez mener par le nez comme un Ours.
-
--*who_dongarcie
-Quand je parle raison, j'entends qu'on y réponde.
-
--*who_donbertran
-Vous êtes bilieux autant qu'homme du monde,
-Vous deviez donner prompt remède à cela.
-Je compose un onguent...
-
--*who_dongarcie
-      Nous n'en sommes pas là.
-Puisque pour vous ma fille est un parti sortable,
-Fussiez-vous mille fois plus Diable que le Diable,
-Vous ne vous moquerez ni d'elle ni de moi,
-Et vous l'épouserez, ou vous direz pourquoi.
-
--*who_donbertran
-Je ne suis pas un sot, et cela vous suffise.
-
--*who_dongarcie
-Cette sotte raison n'est point ici de mise.
-
--*who_donbertran
-Et si sa vision la prenant au collet,
-Elle s'en va sauter au cou de mon valet
-Le croyant Chevalier de l'Animal à cornes  ?
-
--*who_dongarcie
-Ce galimatias n'aura-t-il point de bornes  ?
-Irez-vous encor loin  ?
-
--*who_donbertran
-      Ne faites point le fin.
-Mais dites, son cerveau (car je sais tout enfin)
-En quel temps reçoit-il cette idée importune  ?
-Est-ce dans la nouvelle, ou dans la pleine Lune  ?
-
--*who_dongarcie
-Je crois, sans vous flatter, que le vôtre en tout temps
-Vous rend fou passé-maître, et des plus importants.
-
--*who_donbertran
-Doncques elle n'a point la cervelle blessée
-De cette chimérique et fantasque pensée,
-Qu'à la valeur d'un Brave en un pressant danger...
-Mais la voici qui vient pour vous faire enrager,
-Nous allons tout savoir.
-
-**** *book_ *id_V10 *act_V *date_1651 *creator_corneille
-
--*who_isabelle
       Jouez bien votre rôle.
 
--*who_donbertran
-Et bien, la belle, enfin nous tiendrez-vous parole  ?
-
--*who_isabelle
 Oui, si vous m'assurez que mon Père avec vous
 Consent que cet Amant devienne mon époux.
 
--*who_dongarcie
-Que dit-elle  ?
-
--*who_isabelle
       Ah, mon Père, il m'a sauvé la vie,
 Et la reconnaissance à l'aimer me convie ;
 Je dois m'en souvenir jusque dans le tombeau.
 
--*who_dongarcie
-De quoi  ?
-
--*who_isabelle
       Sans son secours un furieux taureau...
 
--*who_donbertran
-Oyez, mais par ma foi, c'est méchanceté pure,
-Et vous savez fort bien où lui tient l'enclouure.
-
--*who_dongarcie
-J'ignore.
-
--*who_donbertran
-      Ignorez donc, il m'importe fort peu,
-Je retire sans bruit mon épingle du jeu.
-De peur d'engendrer noise, usez-en tout de même.
-
--*who_dongarcie
-Pensez-vous m'échapper avec ce stratagème  ?
-
--*who_isabelle
 De grâce, en ma faveur modérez ce courroux,
 Si le Ciel de sa main me choisit un époux...
 
--*who_donbertran
-C'est stratagème encor  ?
-
--*who_dongarcie
-      Explique ce mystère.
-Aimes-tu donc ailleurs.
-
--*who_isabelle
       Je ne puis vous le taire.
 Oui, j'aime, et je n'ai pu refuser on amour
 Au généreux Vainqueur à qui je dois le jour.
@@ -3755,292 +2344,757 @@ Puisque j'en suis la Dame, et lui le Cavalier ;
 En me sauvant la vie il me la fit captive,
 Et c'est pour lui qu'il faut désormais que je vive.
 
--*who_dongarcie
-Tu voudrais l'épouser, lui qui n'a point de bien  ?
-
--*who_leonor
-De tout ce qu'elle dit apprenez qu'il n'est rien.
-Cette obligation n'est en effet qu'un conte
-Pour couvrir un amour dont l'aveu lui fait honte.
-
--*who_donbertran
-Vous a-t-on demandé votre avis là-dessus  ?
-Vous tairez-vous jamais  ?
-
--*who_leonor
-      Je ne me tairai plus,
-Aussi bien il est temps de vous faire connaître
-Que Don Alvar vous fourbe, et que ce n'est qu'un traître,
-Qu'il adore Isabelle.
-
--*who_donbertran
-      Est-il vrai  ? Dites-moi,
-Vous fait-il les yeux doux  ?
-
--*who_isabelle
       Il m'a promis sa foi.
 
--*who_dongarcie
-Quelque espoir qui le flatte, il pourra se méprendre
-S'il prétend que sans bien je l'accepte pour Gendre.
-
--*who_isabelle
 Après un tel bienfait...
 
--*who_dongarcie
-      Je sais ce qu'il te faut.
-
--*who_leonor
-Et bien, contre l'ingrat ai-je parlé trop haut  ?
-
--*who_donbertran
-Quand je vous eusse vu en compétence d'âge,
-Je voulais avec vous en faire un mariage,
-Même je l'appelais déjà mon Héritier,
-Comme si j'eusse dû ne me point marier,
-Et le galant me joue ! Ah si je ne me venge...
-
--*who_leonor
-Je suis de votre avis si son humeur ne change ;
-Mais s'il se résolvait enfin à m'épouser  ?
-
--*who_donbertran
-Je suis bien ennuyé de vous ouïr jaser ;
-Sans cesse vous parlez si je ne vous fais taire.
-Mais voici mon Cousin.
-
-**** *book_ *id_V11 *act_V *date_1651 *creator_corneille
-
--*who_donbertran
-      Venez le Débonnaire,
-Qui faites l'amiable et qui me trahissez.
-
--*who_donalvar
-Moi, vous trahir !
-
--*who_donbertran
-      J'en sais plus que vous ne pensez,
-Et vous ferai bien voir que je suis hors de page.
-Vous n'avez subsisté que par le cousinage,
-Et sans moi qui fournis, et peut-être dès demain
-Vous tireriez la laine, ou vous mourriez de faim  ?
-
--*who_donalvar
-Ce reproche est honteux.
-
--*who_donbertran
-      Je prenais Isabelle
-Seulement sur le bruit qu'elle avait d'être belle,
-Car du reste, néant, elle n'a pas un sou.
-
--*who_donalvar
-Qu'en voulez-vous conclure  ?
-
--*who_isabelle
       Est-il un plus grand fou  ?
 
--*who_donbertran
-Vous lui parlez d'amour au mépris de ma flamme  ?
-Mariez-vous sur l'heure, et la prenez pour Femme,
-C'est par où je prétends me venger de tous deux.
-Elle, sans aucun bien, vous, passablement gueux,
-Allez, vous connaîtrez plutôt qu'il ne vous semble
-Quel Diable de rien c'est, que deux riens mis ensemble.
-Dans la nécessité vous n'aurez point de paix,
-L'amour finit bientôt, la pauvreté, jamais.
-Afin que tout vous semble aujourd'hui lys et roses,
-J'aurai soin de la noce, et paierai toutes choses,
-Mais vous verrez demain qu'on a peu de douceur
-À dîner d'un Ma vie, à souper d'un Mon coeur,
-Et qu'on est mal vêtu d'un drap de Patience
-Doublé de Foi partout, et garni de Constance.
 
--*who_donalvar
-Écoutons le Beau-père avant que de parler.
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
 
--*who_leonor
-Quoi, sur sa trahison loin de le quereller...
+L'affaire me paraît bientôt expédiée.
+Vous, aujourd'hui promise, et demain mariée !
 
--*who_donbertran
-Où je parle, où je suis, c'est à vous de vous taire.
-Je vous l'ai dit cent fois, vous n'en voulez rien faire,
-Parlez tout votre saoul, ma Soeur, mais sur ma foi ;
-Vous ne vous marierez jamais non plus que moi ;
-Je hais qui comme vous incessamment babille,
-Et pour vous en punir vous mourrez vieille fille,
-Allez, n'en doutez point, c'est un coup sûr pour vous.
+Ne vous y trompez point, c'est le jeu du vieux temps,
+Gardez d'être aujourd'hui trop sage à vos dépens,
+C'est un étrange noeud que le noeud de l'Hyménée
 
--*who_guzman
+Quoi, vous iriez trouver cet époux à Tolède,
+Et parce qu'il a bruit d'avoir force ducats,
+Il est si grand Seigneur qu'il n'en remuerait pas  ?
+Ma foi, jusqu'à l'Hymen je serais la maîtresse.
+
+      Ô l'étrange faiblesse !
+Dût se rompre l'accord je me ferais prier,
+Il n'est, tout bien pesé, que d'être à marier.
+Qu'un Amant importune, on l'abandonne, on change ;
+Fussiez-vous un Démon on vous appelle un Ange.
+De cent soumissions vous payez un galant
+En lui laissant baiser le bout de votre gant,
+Chacun tâche à vous plaire avec un soin extrême ;
+Mais dans le mariage il n'en va pas de même,
+Notre bon temps est fait, adieu, c'est assez ri,
+Qui nous flattait Amant nous rechigne Mari,
+Le flambeau d'hyménée amortit bien sa flamme,
+La plus belle Maîtresse est une laide Femme,
+Et sitôt que l'Amour laisse agir la raison,
+L'on connaît qu'il n'est point de charmante prison.
+Peu sous ce triste joug ont l'âme bien contente.
+
+Jadis ma bonne mine avait ses partisans,
+Je sais ce qu'en vaut l'aune, et j'ai plus de quinze ans,
+Je connais à peu près le train commun des choses ;
+Ces matières pour vous sont encor lettres closes,
+Mais se vendre soi-même est un triste marché,
+L'on ne s'en dédit point quand le mot est lâché,
+L'Hymen nous asservit aux caprices d'un homme,
+Et j'en connais beaucoup, sans que je vous les nomme,
+Qui n'en ayant jamais examiné les lois,
+Ont pris le frein aux dents, et s'en mordent les doigts.
+Croyez-moi, de l'amour c'est un puissant remède,
+L'on ne fait guère état de ce que l'on possède,
+Le vrai plaisir consiste au pouvoir de refus,
+Quand un bien est acquis, dès lors on n'en veut plus,
+En vain à l'estimer sa valeur nous convie,
+La difficulté seule échauffe notre envie,
+Et celui qui nous charme avec le plus d'appas
+C'est celui qu'obtenant l'on peut n'obtenir pas.
+
+Avec votre devoir et votre obéissance,
+Si celui qu'on vous donne est bizarre, jaloux  ?
+
+Enfin pour un Mari le Ciel vous a fait naître,
+Et moi, pour être libre, et pour vivre sans maître,
+Je n'ai plus rien à dire, et vous plains seulement.
+
+Je voudrais le pouvoir ; et encor, je vous prie,
+Ne m'apprendriez-vous point à qui l'on vous marie  ?
+
+Il fait déjà le Maître  ?
+
+Il est riche  ?
+
+De son nom pour le moins vous êtes informée  ?
+
+Et cependant, Madame, à parler tout de bon,
+Votre ancien Amant, ou bien plutôt votre ombre,
+Doutez-vous que des morts il n'augmente le nombre,
+Sitôt qu'il vous saura dans les bras d'un Rival  ?
+
+      Cet hymen lui deviendra fatal.
+
+Ah, que pour vous encor l'amour a peu d'appas !
+
+      Et quoi  ? Votre coeur en soupire  ?
+
+      De quoi  ?
+
+      Tout de bon, vous aimez  ?
+
+Ô la secrète ! Et qui, de grâce  ?
+
+Vous ne me feriez point confidence du reste  ?
+
+Quoi, ce brave Inconnu qui vous sauva la vie,
+Par la peur d'un Taureau déjà presque ravie,
+Lorsqu'à l'insu d'un Père, et sans me l'avoir dit,
+Une Parente et vous sortîtes de Madrid,
+Et qu'un mauvais destin vous pensa bien cher vendre
+Ce peu de liberté que vous osâtes prendre,
+Serait-ce bien celui qui vous fait soupirer  ?
+
+      Et vous pouvez aimer sans espérer  ?
+
+Ah, sans doute, Madame, il faut quitter Madrid,
+Voici quelque message.
+
+      Voyez si le style en est doux.
+
+Pour peu d'attention qu'on lui veuille prêter,
+Ce Valet est d'humeur à nous en bien conter.
+
+Selon l'avare humeur de notre bon Vieillard,
+S'il rompt avecque lui, ce sera grand hasard,
+Ses ducats vous font tort, et s'il était moins riche...
+
+Avec grande franchise il dit ce qu'il en pense.
+
+      Je vais le mettre en jeu.
+Mais encor, de ton Maître entretiens-nous un peu.
+Quelle mine, quel port  ?
+
+Cela va bien. L'humeur  ?
+
+Ce métier est mal propre à guérir ses folies,
+Il en empirera bien loin d'en amender.
+
+Et bien  ? Jamais Valet servit-il mieux son Maître  ?
+Il fait tout ce qu'il peut pour vous en dégoûter.
+
+      Que n'est-ce là celui qu'on vous destine,
+Et pourquoi votre père, au lieu de ce malfait,
+N'a-t-il pas pris pour gendre un homme si parfait  ?
+Il a bien dans ce choix témoigné son caprice.
+
+On doit de ce talent estimer l'avantage.
+
+Ne vous relâchez pas, et quoi qu'il en arrive,
+Toujours le même ton, ferme, la négative.
+
+Puisqu'il branle la tête il n'est pas satisfait.
+
+      Au moins dois-tu d'abord
+Lui montrer un esprit souple, docile, accort,
+Et que puisqu'il défend que Don Alvar te voie,
+À lui plaire aujourd'hui tu mets toute ta joie.
+
+Voyez ce beau Cousin envoyé d'Yllescas,
+Je l'ai vu dans la cour. Ah, qu'il a bonne mine !
+
+Il s'aime plus que vous, il le témoigne bien.
+
+Qui, Madame  ?
+
+Quelle figure d'homme !
+
+      C'est elle assurément,
+C'est cette blonde soeur de Don Alvar éprise.
+Mais voyez, Don Félix...
+
+Songez-y toutefois, il l'attend.
+
+L'on vous a reconnue, et Don Alvar pâlit.
+
+Écoutez, Don Alvar, il vous parle des yeux.
+
+Mais du moins attendez...
+
+J'approuve votre avis, et veux ce qui vous plaît ;
+Mais nous ne savons point en quelle chambre qu'il est,
+Où le chercherons-nous  ?
+
+Que soupçonnerait-on de le voir à telle heure  ?
+
+Qui frappe  ?
+
+Coulez-vous promptement tandis qu'on ne voit point.
+
+      D'un fou vous mettez-vous en peine  ?
+
+      Ô l'étrange amoureux !
+
+      C'est un fou personnage.
+
+Puisqu'il sait l'aventure, avouez tout, Madame.
+
+C'est donc par toi qu'il sait...
+
+S'il tient ce qu'il promet vos désirs sont contents  ?
+
+Bien moindres qu'il n'aurait s'il suivait notre envie.
+Ma Maîtresse a parlé de vous adroitement,
+Sans lui faire paraître aucun engagement
+Ni d'obligation ni de reconnaissance ;
+Mais son avare humeur emporte la balance,
+Et de la vertu seule il fait fort peu d'état
+À moins que la fortune en soutienne l'éclat.
+Ainsi la vôtre en vain vous rend considérable,
+Don Bertran riche et fou lui semble préférable.
+
+Allez voir Isabelle un moment là-dessus,
+Vous résoudrez de tout plus aisément ensemble.
+
+Et bien Guzman  ?
+
+      Que t'en semble  ?
+
+Don Alvar seul pourtant en poursuit la conquête,
+Car Don Bertran voudrait s'être fait moins de fête,
+Et quant à Don Félix, notre passionné,
+Je lui viens de porter son congé tout signé.
+
+      Cette seule croyance
+Qu'Isabelle eût de nuit flatté son espérance,
+Le faisait s'obstiner ; et son Valet sans moi
+En eût payé l'amende, et tout du long.
+
+De Don Félix son Maître il eut charge expresse
+De voir dans quelle chambre entrerait ma Maîtresse,
+Espérant cette nuit lui parler sans témoin ;
+L'étourdi cependant en prit si peu de soin,
+Que dans l'obscurité prenant l'une pour l'autre,
+Il causa ce désordre arrivé dans la nôtre.
+
+Elle est à mon avis plus à plaindre que tous
+D'aimer... mais je l'entends, ce me semble, à sa toux.
+De peur d'être surprise, adieu, je me retire.
+
+
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
+
+      Don Alvar, Madame, ici m'envoie.
+
+      Oui, Madame, un Parent de celui
+Qui vous est destiné pour époux aujourd'hui,
+Et qui m'envoie ici vous faire humble requête
+Que bientôt à partir vous soyez toute prête.
+
+      Don Bertran le lui donne.
+
+L'ordre est ainsi donné, Madame, il n'oserait.
+Avecque Don Bertran il faut marcher bien droit,
+Il est plus difficile à ferrer qu'une mule.
+
+      C'est un galant du temps,
+Un fort brave jeune homme âgé de soixante ans,
+Qui pour remédier à la chaleur de l'âge
+S'est enfin résolu de se mettre en ménage.
+Il vous écrit.
+
+      Ce futur époux,
+Ce Don Bertran.
+
+Il n'a point son pareil d'ici jusques à Rome.
+
+Pour en avoir beaucoup il n'en est pas moins chiche,
+Et les garde si bien, qu'à parler comme il faut,
+Je vous plaindrais beaucoup s'il ne mourrait bientôt.
+Avec un tel Mari vous verrez par épreuve
+Qu'il n'est point de douceur qu'en l'espoir d'être Veuve,
+Et vous ne devez point en confirmer le choix
+S'il ne veut s'obliger de mourir dans six mois,
+C'est un terme assez long pour faire pénitence.
+
+      Sa mine est équivoque.
+Quelquefois elle plaît, bien souvent elle choque,
+Mais quant à la parole, il a grand agrément,
+Et débite son fait fort nasillardement.
+
+      N'en est pas fort commune,
+Gaie ou triste, selon les changements de Lune,
+Quoiqu'il goûte en tout temps assez peu de repos ;
+Car il est attaqué de tant et tant de maux,
+Qu'outre ceux que le corps éprouve accidentaires
+Il en pourrait compter cinq ou six ordinaires.
+Il mouche, il tousse, il crache en poumon malaisé,
+Pour fluxions sans cesse il est cautérisé,
+Goutteux ce que doit l'être un goutteux d'origine,
+Toujours vers le poignet muni de la plus fine ;
+Joignez à tout cela, vilain, jaloux, quinteux,
+Obstiné plus qu'un Diable, et mutin plus que deux,
+Malpropre autant que douze en mine, en barbe, en linge,
+Rusé comme un renard, et malin comme un singe.
+Quant au savoir, jamais on n'approcha du sien,
+Il sait mille secrets à ne guérir de rien.
+Pour tous ces petits maux de rhume, toux, migraine,
+Il compose à ravir l'onguent mitonmitaine,
+De chaque saltimbanque il prend leçon exprès ;
+Au reste fort dévot, à l'intention près.
+Il fait garder chez lui si souvent l'abstinence
+Qu'on y jeûne toujours deux Carêmes d'avance.
+Voilà de ses vertus le fidèle récit.
+
+De l'esprit ! Ah Madame, il fait des Comédies.
+
+Comme un Poète fameux il se fait regarder,
+Il en a composé déjà plus de vingt paires,
+Mais les Comédiens n'en représente guères,
+Le style en est si haut qu'ils n'y comprennent rien.
+Lui-même toutefois en dit assez de bien,
+Il en trouve toujours l'intrigue bonne et belle,
+Et sa démangeaison de les produire est telle,
+Que faute bien souvent d'auditeurs plus parfaits,
+Il va les débiter jusques à des laquais ;
+Mais avant qu'il soit peu vous le pourrez connaître.
+
+Aussi pour deux raisons dois-je le souhaiter.
+L'une, vous êtes belle, et ce sera dommage
+Qu'avec lui vous perdiez le plus beau de votre âge,
+Et l'autre, Don Alvar serait son héritier.
+
+      Un brave cavalier,
+Noble, vaillant, civil, bien né, de bonne mine,
+Discret.
+
+Oui, mais ce Don Alvar comme un autre a son vice,
+Qui de tant de vertus obscurcit bien l'éclat.
+
+      Il est gueux comme un rat.
+
+À l'hymen toutefois je crois qu'il se dispose,
+La Soeur de Don Bertran du moins ne le hait pas.
+Vous la verrez ce soir.
+
+Autant qu'elle en avait quand elle vint au monde.
+Jamais fille ne fut si délicate et blonde ;
+Soit défaut de nature, ou bien excès d'amour,
+Elle s'évanouit plus de sept fois par jour.
+
+Je l'ai fait tel, Monsieur, que j'ai cru le devoir,
+Don Alvar cependant vous peut-il venir voir  ?
+Il attend qu'on lui veuille accorder audience.
+
+      J'y cours en diligence.
+
+      Environ à cent pas.
+
+      Elle en fait un grand cas.
+Aussi c'est une aimable et bonne créature,
+Je n'en n'ai jamais vu de plus belle en peinture,
+De ses yeux rayonnants l'éclat est sans pareil ;
+Votre coeur s'y fondra comme cire au Soleil,
+Prenez bien garde à vous.
+
+Je l'avais fait masquer.
+
+Point du tout.
+
+      Oui, je crois qu'elle en tient.
+Savez-vous cependant que le Beau-père vient,
+Qu'il veut se réjouir et danser à la noce  ?
+Mais les voici venus, et j'entends le carrosse.
+
+      Quoi donc, vous en tenez  ?
+
+S'il n'amende bientôt il faudra qu'on le lie.
+Mais tantôt à vous voir j'ai resté tout confus,
+Vous soupiriez  ?
+
+Vous m'avez déjà dit qu'elle vous doit la vie,
+Et je devine trop que cet événement...
+
+Je crois, si Don Bertran savait ce qui se passe,
+Qu'il vous en pourrait faire assez laide grimace,
+Et que Léonor même, en ayant quelque vent,
+S'en évanouirait encore plus souvent ;
+Car elle vous en veut, Monsieur.
+
+Elle vous est, je pense, assez indifférente  ?
+
+      Oui, pour me dire
+Qu'elle veut cette nuit vous conter son martyre ;
+Qu'elle ne fermera sa porte qu'à demi,
+Et que quand vous croirez Don Bertran endormi
+Vous alliez la trouver, elle vous fera fête,
+N'y manquez pas.
+
+Quels  ?
+
+      Je le sais, qu'est-ce encor, qu'avez-vous  ?
+
+Déjà  ?
+
+Il n'est pas malaisé, Monsieur, de le savoir.
+Il a certain Valet que je crois fort capable
+De faire d'un secret confidence amiable ;
+Je lui saurai ce soir tâter le pouls de près.
+
+Oui, vous dis-je, cessez d'en prendre de l'ombrage,
+Nous avons tout le soir trinqué de grand courage,
+Et buvant tête à tête il m'a tout découvert ;
+Que depuis plus d'un an ce Don Félix la sert,
+Et qu'ayant d'un Valet appris que Don Garcie
+Avecque Don Bertran en secret la marie,
+Et qu'ils s'étaient ici donné le rendez-vous,
+Il est parti soudain, désespéré, jaloux ;
+Mais par quelques motifs qu'il se laisse conduire,
+Aimez en assurance, il ne vous saurait nuire,
+Il a beau protester qu'il est prêt de mourir,
+Isabelle s'en moque, et ne le peut souffrir.
+Poussez à cela prêt votre bonne fortune.
+
+En l'état où je vois cette affaire aujourd'hui,
+Je trouve Don Bertran plus à craindre que lui.
+Gardez de prendre ici quatorze au lieu de douze.
+Si l'hymen se conclue  ? Si demain il l'épouse  ?
+
+Je ne dis oui ni non de crainte de mentir,
+Mais chacun dort ici, déjà la nuit s'avance,
+Prenez l'occasion dans ce profond silence,
+Tâchez de lui parler.
+
+      En êtes-vous certain  ?
+
+Je puis donc y frapper  ?
+
+Et s'il faut qu'il s'éveille à ce bruit  ?
+
+      Cachons-nous dans ce coin.
+
+      Vous avez bonne part au gâteau.
+
+      Brisez tout court ici,
+On ouvre quelque porte, entrez.
+
+Entrez vite.
+
+      L'heure est bien indécente.
+Sont-ce point des galants qui cherchent la servante  ?
+
+      Qui l'aurait espéré,
+Que sans être aperçu du Beau ni de la Belle,
+J'eusse pu si près d'eux rester en sentinelle !
+Qu'ils paraissent tous deux l'un de l'autre contents !
+
+Monsieur.
+
+      Oui, vite, il en est temps.
+Mais j'entends Don Bertran.
+
+Rentrez encore un coup, le Diable est en campagne.
+
+Ne vous pressez point tant, rengainez, je vous prie.
+
+      C'est Guzman, vous m'avez fait blémir.
+
+      Je cherche une place à dormir.
+
+      Ailleurs, ou là, qu'importe  ?
+Je fais communément mon gîte à quelque porte.
+Étant né des Guzmans, digne race des gueux,
+Je me couche toujours sur la dure comme eux ;
+Mais de grâce, Monsieur, quelle heure peut-il être  ?
+Le ciel est étoilé, vous l'y pouvez connaître.
+
+Je cherchais du repos loin de troubler le vôtre.
+
+      Monsieur, il m'en souvient,
+Ce doit être sans doute un Esprit qui revient,
+Je crois même avoir vu quelque grande Ombre noire,
+Et la chose n'est pas trop difficile à croire,
+Car l'Hôte m'a conté qu'on entend quelquefois
+Dans cette galerie un bruit confus de voix,
+Un Lutin qui tantôt soupire, et tantôt gronde,
+Mais qui ne se fait pas entendre à tout le monde.
+Vous l'aurez ouï seul, c'est d'où venait ce bruit.
+
+J'incague les esprits.
+
+Soit qu'elle veille ou dorme, elle est fort patiente,
+On ne l'entend jamais.
+
+Qu'avec peu de respect vous auriez peu de flamme,
+Elle pourrait s'en plaindre avec juste raison ;
+Mais puisque vous avez cette démangeaison,
+Je vous prierai...
+
+      La prière est hardie,
+De me dire des vers de quelque Comédie
+Car en ayant tant fait, comme célèbre auteur,
+Vous en savez du moins quinze ou seize par coeur.
+
+Entrons dans votre chambre, afin de mieux l'entendre.
+
+C'est pour être joué cinquante jours de suite.
+Vous l'appelez  ?
+
+Le beau titre !
+
+Jamais auprès de vous Lope n'y connut rien.
+
+Deux vers à chacun d'eux, c'en est déjà six cents.
+Pour peu qu'Hérode encore ait avec lui de pages,
+Le théâtre est rempli d'assez de personnages.
+La seconde  ? Sortez.
+
+Je parle aux Innocents pour les faire sortir,
+Ils tiennent trop de place. Enfin, dans la seconde  ?
+
+Qu'avez-vous vu, Monsieur  ?
+
+Je vais vous éclairer, cherchons, faisons ravage.
+Ah, la tête !
+
+      Je suis tombé tout plat.
+À l'aide.
+
+Je me suis disloqué tout le train de derrière.
+
+      C'est moi qui vais rallumer la chandelle.
+Que vous m'étreignez fort ! C'est Guzman, lâchez-moi.
+
+      Il est pris, et mieux pris qu'un renard.
+
+Il sort.
+
+      Elle s'évanouit,
+Monsieur, son mal la prend.
+
+      Feignez d'aimer la dame évanouie
+Contez-lui des douceurs, des quolibets d'amour,
+Afin que Don Bertran les entende au retour,
+Et qu'ainsi vous croyant le coeur féru d'amour pour elle,
+Il ne soupçonne rien de l'amour d'Isabelle.
+Commencez votre rôle.
+
+      À l'aide, elle a le Diable au corps.
+
+Trente sergents en queue il serait moins à plaindre.
+
+Je n'avais jamais vu jusqu'ici d'âme en peine,
+J'en vois une à présent.
+
+      Comment Diable en viendra-t-il à bout  ?
+
+      Et bien enfin, avez-vous votre compte  ?
+Est-ce fait  ?
+
+      Quoi, tout n'est pas rompu ?
+
+Ces vieillards sont toujours d'humeur acariâtre.
+
+Ce n'est pas d'aujourd'hui qu'il cherche à s'en défaire,
+Mais le monde à Madrid est plus futé qu'ici.
+
+      Oui, Dieu merci.
+Vous allez bientôt être un Mari d'importance.
+
+      Un grand défaut.
+
+      Il n'importe.
+
+      Je n'ose.
+
+Mais...
+
+Vous le voulez savoir  ?
+
+      Elle extravague.
+
+      Elle.
+
+Elle a l'esprit gâté d'avoir lu des romans,
+Et croit qu'étant un jour d'un Taureau poursuivie
+Sans certain Chevalier elle eût perdu la vie.
+Elle l'aime en idée, et quoique son époux,
+Ce chimérique Amant l'emportera sur vous.
+Elle caresse tantôt l'un, tantôt l'autre,
+Croyant...
+
+Il avait dès Madrid appris sa maladie.
+La fit-il bien jaser  ?
+
+Quoi, vous l'épouseriez ? Vous, Monsieur ?
+
+      Et bien ? Se veut-il mutiner ?
+
+Dégainer.
+
+      Il sera mort, je pense.
+
+      Il sera confisqué.
+
+Ah ventre ! Ah tête ! Ah sang !
+
+Qui vive ? Par la mort, vous en avez menti.
+
+      Il est déjà parti,
+Et je tiens comme vous que de flamberge nue
+La vision est laide, et blesse fort la vue.
+S'il m'en fallait tâter, je pourrais filer doux,
+Et je ne me battais, ma foi, non plus que vous.
+
+Si le jeu vous déplait, songez à vos affaires.
+
+      Ce Don Félix est un méchant garçon,
+Et veut faire avec vous le coup d'estramaçon,
+Comme offensé dit-il, sans raison raisonnable.
+
+C'est un Lancier bien rude à qui s'ose y jouer.
+
+      La pièce est drôle.
+
+C'est bien là pour lui faire épanouir la rate.
+
+Voyez comme ce mot rend ses sens tout charmés.
+
+      Oyez, Monsieur, et bien, lui fais-je dire  ?
+Flattez son fol amour, vous la ferez bien rire.
+
+      Et beaucoup ;
+Laissez-la rêver seule, il suffit pour ce coup.
+
+      Reposez-vous sur moi,
+Quoi que je lui débite, il me croit sur ma foi.
+Je saurai l'amener au point que je souhaite.
+
+      N'en soit donc point inquiète ;
+Mais il faut le rejoindre et ne le quitter point.
+Sans nommer Don Alvar, tenez ferme en ce point,
+D'aimer un Cavalier qui vous sauva la vie ;
+Vous en verrez l'effet répondre à votre envie.
+
+      Seul avec sa folie,
+Dans sa chambre enfermé, non sans mélancolie.
+Il a comme la mer son flux et son reflux,
+Tantôt il en veut bien, tantôt il n'en veut plus.
+
+Si pour le satisfaire il épouse Isabelle,
+Il craint ce dont à peine on échappe en ce cas ;
+Il craint d'être battu s'il ne l'épouse pas,
+Et prévoit de tous sens si maligne Influence,
+Que contre son étoile il peste d'importance.
+Je l'ai pourtant contraint enfin de faire choix.
+
+      De se laisser assommer mille fois
+Plutôt que passer outre à la cérémonie.
+
+Si je n'eusse su l'empaumer à propos,
+Vous en teniez pourtant, il eut dit les fins mots ;
+Mais encor que chacun cherche qui lui ressemble,
+Il croit qu'elle étant folle, ils seraient mal ensemble ;
+Sur ma parole seule il change de dessein
+
+      De cela nous parlerons demain ;
+Venons à ce qui presse. Enfin, votre Isabelle  ?
+
+      Êtes-vous aimé d'elle  ?
+
+Vous l'avez détrompée, et votre paix est faite  ?
+
+C'est en quoi Don Bertran me surprend davantage,
+Il n'en soupçonne rien.
+
+      Et bien, Jacinte  ?
+
+Le bienheureux à qui ta Maîtresse sera !
+On s'y presse, on s'y tue, et c'est à qui l'aura.
+
+Tu l'as tiré d'erreur  ?
+
+      Pourquoi  ?
+
+De sorte qu'en effet il ignorait encor
+Qu'ainsi pour Isabelle il eût pris Léonor.
+Qui d'ailleurs attendant Don Alvar à même heure
+Dans cette même erreur jusqu'à présent demeure
+
+Elle me disait vrai, la voilà qui soupire.
+
+      Et bien, riez comme les autres font,
+C'est contre le chagrin un souverain remède.
+
+À vous dire le vrai, ma foi, je n'en sais rien.
+
+Je la savais alors, mais je ne la sais plus.
+
+      Bien plus qu'à l'ordinaire
+
+      C'est fort mal fait à lui.
+
+Tout vilain cas, dit-on, fut toujours reniable,
+Mais vous parler de nuit n'est point un vilain cas.
+
+Le cours à Don Alvar témoigner votre peine,
+Et si l'on m'en veut croire, allez, tout ira bien.
+
+      Monsieur, n'en faites rien.
+
+      Votre colère,
+Elle est passée enfin  ?
+
 Elle sort bien outrée.
 
-**** *book_ *id_V12 *act_V *date_1651 *creator_corneille
-
--*who_donbertran
-      Or sus, futurs époux,
-Vous promettez-vous pas une foi réciproque ?
-
--*who_dongarcie
-Mon Gendre Don Alvar  ?
-
--*who_donbertran
-      Ah, Don Alvar vous choque ?
-Qu'y trouvez-vous à dire ? Il est beau, doux, bénin,
-D'assez belle encolure, et de plus, mon Cousin,
-Cette qualité seule est assez noble et haute ;
-Il est vrai qu'il est gueux, mais ce n'est pas ma faute,
-Son Père avait du bien jadis, et...
-
--*who_dongarcie
-      Brisons-là,
-Il n'est pas maintenant question de cela.
-Vous m'avez demandé ma fille en mariage  ?
-
--*who_donbertran
-Oui, mais je n'en veux plus puisqu'elle n'est pas sage,
-Elle aime mon cousin, mon Cousin l'aime aussi ;
-Qu'il l'épouse s'il veut, j'en prends peu de souci.
-
--*who_donalvar
-Je pourrais la connaître et la trouver charmante !
-Je pourrais soupirer pour une extravagante,
-Qui s'ose imaginer qu'au péril de mes jours
-J'ai su contre un Taureau lui parler du secours !
-
--*who_donbertran
-Quoi, cela n'est pas vrai  ?
-
--*who_donalvar
-      Non, c'est pure folie
-Qui lui met en l'esprit qu'elle me doit la vie,
-Et cela va si loin, qu'enfin il m'a fallu
-Accorder malgré moi tout ce qu'elle a voulu,
-Et flatter son esprit de quelque espoir frivole.
-
--*who_guzman
 Je vous l'avais bien dit, Monsieur, qu'elle était folle.
 
--*who_donbertran
-Ah, Guzman, je croyais que tu m'eusses fourbé.
-
--*who_guzman
 Vous voilà cependant sottement embourbé,
 Cet obstiné Vieillard n'entend point raillerie.
 
--*who_donbertran
-N'importe, épousez-là, Cousin, je vous en prie.
-
--*who_donalvar
-Qu'en ferai-je sans bien  ?
-
--*who_donbertran
-      J'aime mieux tous les ans
-M'obliger par contrat à vous donner cent francs.
-
--*who_donalvar
-L'offre est avantageuse  ?
-
--*who_donbertran
-      Au moins il me le semble.
-
--*who_dongarcie
-C'est être trop longtemps à consulter ensemble,
-Je veux avoir réponse.
-
--*who_donbertran
-      Ah! Vieillard sans pitié.
-
--*who_dongarcie
-En un mot, de vos biens donnez-lui la moitié,
-Je consens en ce cas qu'il l'épouse s'il l'aime ;
-Sinon, résolvez-vous à l'épouser vous-même,
-Je vous laisse le choix.
-
--*who_donbertran
-      La moitié de mon bien!
-Guzman, le coeur m'en saigne.
-
--*who_guzman
       Aussi me fait le mien.
 Mais si vous l'épousez, pensez aux conséquences.
 
--*who_donbertran
-J'y pense, j'y repense, et plus que tu ne penses,
-Et je trouve après tout qu'il est fort à propos
-Que je ne fasse point nombre parmi les Sots.
-Déjà la Confrérie est assez belle et grande,
-Sans m'aller de surcroît mettre encor de la bande.
-Je suis vieux, elle est jeune, et n'a pas l'esprit droit,
-Et si j'en réchappais le Diable s'en pendrait.
-
--*who_dongarcie
-Enfin votre dessein...
-
--*who_donbertran
-      Vous avez grande hâte,
-Laissez-moi prendre avis, rien encor ne se gâte.
-
--*who_dongarcie
-C'est trop délibérer.
-
--*who_donbertran
-      Ah, le pressant Grison,
-Qui fait le raisonnable, et parle sans raison !
-Puisque aussi bien pour nous c'est un mal nécessaire,
-J'aimerais mieux avoir deux Femmes qu'un Beau-père.
-Avecque bouche à Cour, et deux mille ducats,
-Je crois que mon Cousin ne vous déplaira pas.
-De pareil revenu j'ai certain héritage
-Que je lui donne en propre, et dont pourtant j'enrage,
-Mais je mérite bien qu'on rie à mes dépens.
-
--*who_dongarcie
-À ces conditions nous sommes tous contents.
-
--*who_donbertran
-Vous l'êtes donc aussi  ?
-
--*who_donalvar
-      Pour avoir lieu de l'être
-Sa folie est trop grande, et se fait trop paraître,
-J'aurai bien à souffrir d'un esprit si léger ;
-Mais pour vous satisfaire, et pour vous obliger...
-
--*who_donbertran
-Si jeune, vous craignez son esprit peu traitable,
-Vieux, elle me ferait donner cent fois au Diable
-Pour m'en débarrasser donnez-lui votre foi.
-
--*who_donalvar
-Cet ordre à mon amour est une douce loi,
-Mais si vous n'approuvez le beau feu qui m'anime...
-
--*who_dongarcie
-Pour ne pas l'approuver j'ai pour vous trop d'estime,
-Et si de l'intérêt écoutant la chaleur...
-
--*who_donalvar
-De grâce oublions tout.
-
--*who_donbertran
-      Je ne vois point ma Soeur.
-Je crois de cet Hymen qu'elle est peu réjouie.
-
--*who_guzman
 Je pense bien plutôt qu'elle s'est évanouie,
 L'Hôtesse tout à l'heure appelait au secours.
 
--*who_donbertran
-Le chien et le sot mal qui la prend tous les jours !
 
--*who_dongarcie
-Allons voir ce que c'est.
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mendoce
 
--*who_donalvar
-      Puis-je espérer, Madame.
+À la fin nous voici, Monsieur, dans Yllescas.
 
--*who_donbertran
-Peut-être que ma Soeur est prête à rendre l'âme,
-Et vous voulez ici faire le gracieux  ?
+Je ne sais quel malheur vous avez lieu de craindre,
+Vous ne songiez rien moins ce matin qu'à vous plaindre,
+Ce coeur d'aucun souci ne paraissait chargé.
+Et presque en un moment vous voilà tout changé.
+Je vous trouve rêveur, inquiet, las de vivre,
+Vous montez à cheval, et vous me faites suivre,
+Nous marchons sans parler tout le long du chemin
+Chez l'Hôte d'Yllescas nous arrivons enfin,
+Et sans dire le mal dont votre âme est atteinte,
+Vous redonnez encor de nouveau sur la plainte.
+Quel est le sujet  ? Tirez-moi de souci.
 
--*who_donalvar
-Suivons, et devant lui ne parlons que des yeux.
+Vous n'en mourrez donc pas puisqu'il s'agit d'amour.
+C'est un mal qui commence, et finit en un jour
+
+Sans venir vous montrer de son bonheur jaloux,
+Vous eussiez bien mieux fait de demeurer chez vous.
+Puisque tout est d'accord, que pouvez-vous prétendre  ?
+
+On se plaint, écoutez.
+
+      Ô l'homme ridicule !
+
+Je l'envoierais au diable avecque sa folie.
+
+Si l'amour tourmentait chacun également,
+Malheur plus de cent fois à qui serait Amant.
+Tout le monde à présent paisiblement repose,
+Et vous seul...
+
+      Et vous osez prétendre
+Qu'Isabelle à minuit soit prête à vous entendre,
+Elle qui vous méprise avec tant de fierté !
+
+Oui, je crois l'avoir vue entrer en celle-ci.
+
+      Non, c'est ici sans doute.
+
+Je pense ouïr marcher, l'on ouvre.
+
+      Ce sera Don Garcie...
+
+Je l'avais cru.
+
+      Monsieur, les chevaux sont tout prêts.
+

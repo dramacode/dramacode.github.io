@@ -1,125 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1758
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
--*who_frontin
-De bonne foi, Monsieur , vous donnez là-dedans ?
-Moi qui n'ai pour esprit que fort peu de bon sens;
-Je ne croirais jamais de telles impostures ;
-Car, tenez, ces diseurs de bonnes aventures
-Finissent toujours mal. S'ils, devinaient enfin ;
-Ils sauraient se prédire une meilleure fin.
-
--*who_lechevalier
-De ces gens quelquefois la science est bornée :
-Mais celui qui fans fard m'apprit ma destinée,
-Sur le passé si bien a su me définir,
-Que mon esprit frappé le croit sur l'avenir.
-C'est lui qui m'a prédit qu'une Canadienne,
-Par sa flamme, bientôt allumerait la mienne,
-Et ferait mon bonheur. J'en suis certain.
-
--*who_frontin
-      Oui da!
-C'est-à-dire, qu'il faut vous suivre en Canada ?
-Ma foi, votre valet. Qui voudra partir, parte.
-Si j'aime à voyager, ce n'est que sur la carte :
-On y voit sans danger les Indes, le Pérou :
-Mais courir jusques-là ? Je ne fuis pas si fou
-Voir cent originaux, ne connaître personne ;
-Des voleurs en chemin, qui veulent qu'on leur donne
-Habit, bourse, cheval.... Oh ! J'en suis dégoûté.
-Mais du moins sur la Carte on marche en sûreté.
-
--*who_lechevalier
-Qui te parle, dis-mot, de faire ce voyage ?
-La Marquise à mon goût s'oppose.
-
--*who_frontin
-      Elle est fort sage.
-Vous ne vous piquez pas de trop lui ressembler.
-C'est une mère unique.
-
--*who_lechevalier
-      Elle a su m'accabler
-De bontés, de bienfaits.
-
--*who_frontin
-      Remplissez son attente ;
-Et croyez un peu moins Madame votre tante,
-Qui vous entretenant dans cette vision,
-Vous rendra ce qu'elle est.... Oui... si l'expression
-De folle n'était pas un tant soit peu trop sotte,
-Je risquerais le mot.
-
--*who_lechevalier
-      En parler de la sorte !
-Faquin...
-
--*who_frontin
-      Mais la voici. Filons doux à ses yeux.
-
-**** *book_ *id_I02 *act_I *date_1758
-
--*who_lacomtesse
-Ah, j'espérais trouver la Marquise en ces lieux.
-Eh bien ! A-t-on gagné quelque chose sur elle ?
-Que fais-tu là, toi ?
-
--*who_frontin
-      Moi ? Comme un valet fidèle ;
-Je tâchais d'exhorter mon maître à son devoir,
-D'obéir à sa mère.
-
--*who_lacomtesse
-      Ah ! Je n ai qu'à le voir.
-Chevalier, tenez bon ; que votre complaisance
-N'aille pas sur le sort emporter la balance.
-Suivez le vôtre , enfin, puisqu'on vous l'a prédit ;
-Les Devins savent tout, je vous l'ai déjà dit.
-Moi-même, sans pourtant être bien curieuse,
-J'ai su tout d'une femme à mon gré merveilleuse ;
-Dont presque tout Paris fut très longtemps coiffé ;
-On lisait son destin dans du marc de café.
-À l'article frappant des tendres anecdotes,
-Les plus prudes souvent devenaient les plus sottes ;
-Les unes par dépit , les autres par regret :
-Mais la femme et l'amour étant seuls du secret,
-On prenait aisément son parti sur le reste.
-
--*who_lechevalier
-Ma curiosité ne peut m'être funeste,
-Puisqu'on m'a présagé les plus heureux liens.
-
--*who_lacomtesse
-On peut être crédule ainsi que les Anciens.
-
--*who_frontin
-Ah ! Si les Anciens croyaient aux balivernes,
-Ce goût n'a pas gagné la plupart des Modernes,
-Qui, quoique leurs travers soient partout attestés,
-Ne daignent seulement pas croire aux vérités.
-Les fous ne veulent pas, encor que l'on leur prouve,
-Convenir qu'ils le sont.
-
--*who_lacomtesse
-      Mais, mon ami , je trouve
-Que tu prends avec nous un ton bien familier.
-
--*who_frontin
-C'est que...
-
--*who_lechevalier
-      C'est que.... Va-t-en.
-
--*who_frontin
-      Sans me faite prier,
-Je sors, crainte de voir mal payer ma franchise.
-Mais vous n'y perdrez rien, car voici la Marquise.
-
-**** *book_ *id_I03 *act_I *date_1758
-
--*who_lamarquise
 Hé bien, mon fils! Peut-on sur votre entêtement
 Vous dire encore un mot ? Quoi ! Raisonnablement
 Pouvez-vous renoncer à l'aimable Julie,
@@ -127,30 +9,8 @@ Et vous livrant en proie à votre fantaisie,
 Préférer votre erreur au plus tendre lien ?
 Je veux votre bonheur, vous détruisez le mien.
 
--*who_lechevalier
-Je vous dois tout, Madame ; et ma reconnaissance...
-
--*who_lamarquise
 Paye tant de bienfaits par une extravagance.
 
--*who_lacomtesse
-Ma Soeur, ménagez-le...
-
--*who_lechevalier
-      Oui, si c'en est une enfin,
-Que de suivre son goût, ou plutôt son destin.
-Je le sais, comme vous, Julie est jeune, aimable,
-Riche.... Mais je me forge une idée agréable
-D'être aimé d'un objet, qui, changeant de climat,
-Croira me devoir tout, son bonheur, son état...
-Si je puis parvenir à la rendre sensible...
-Madame, vous riez : mais rien n'est moins risible ;
-Mon projet est charmant. Un coeur simple et fans art
-Est si rare à Paris, qu'on le croit un hasard.
-Ainsi donc je tiendrai des mains de la Nature
-Ce qu'un autre souvent ne doit qu'à l'imposture.
-
--*who_lamarquise
 Votre prévention ne voit que d'un oeil faux.
 Sachez qu'en tout pays, les vertus, les défauts
 Sont, de même qu'ici, des femmes le partage :
@@ -161,58 +21,21 @@ Et que celle qui vient du plus lointain rivage,
 A contre elle souvent les hasards du voyage.
 Qu'en pensez-vous, ma soeur ?
 
--*who_lacomtesse
-      Moi ? je pense autrement.
-Vous ne me verrez point blâmer son sentiment.
-
--*who_lamarquise
 Vous ne me blâmez point ?
 
--*who_lacomtesse
-      Non, vous dis-je ; au contraire.
-Sa façon de penser est dans mon caractère.
-
--*who_lamarquise
 Vous êtes fort sensée, après un tel aveu !
 
--*who_lacomtesse
-Eh ! Mais si par la tante on juge du neveu,
-Tant mieux pour lui, ma soeur.
-
--*who_lamarquise
       Du côté du mérite ;
 Ce serait fort bien fait ; c'est à quoi je l'excite :
 Mais qu'il écoute moins la singularité.
 
--*who_lacomtesse
-C'est par-là qu'il me plaît, et c'est le beau côté ;
-Du goût national il fronde les chimères.
-J'aime les étrangers, et lui les étrangères.
-Cette conformité me le rend précieux.
-Mon époux, le feu Comte, avec moi fut heureux,
-Non parce qu'en effet il méritait de l'être ,
-Aimable de l'esprit, bien fait, point petit-maître...
-
--*who_lamarquise
 C'est par ces qualités qu'il fut de vous chéri ?
 
--*who_lacomtesse
-Non ; c'est qu'il était né près de Pondichéri.
-
--*who_lamarquise
 Fort bien ! Il ne manquait, pour flatter sa manie ;
 Que l'imprudent aveu d'une telle folie.
 Loin de me seconder, votre indiscrétion
 Se plaît à le soustraire à la soumission.
 
--*who_lacomtesse
-Oh ! La soumission ! Voilà comme vous êtes ;
-Il faut donc s'immoler à tout ce que vous faites ?
-Et parce que sur lui vous avez du pouvoir,
-Est-ce assez pour qu'il soit victime du devoir ?
-Ma soeur, en fait de choix, le devoir doit se taire.
-
--*who_lamarquise
 On ne peut que louer un si beau commentaire.
 Mais, répondez,, mon fils, que dira Dorimont ?
 Le croyez vous d'humeur à souffrir un affront ?
@@ -223,18 +46,8 @@ Y restent à dessein de combler tous ses voeux :
 Et Monsieur n'écoutant qu'une humeur fantastique,
 Est épris, sans le voir, d'un objet chimérique !
 
--*who_lacomtesse
-Quand je vous proposai cet hymen, j'ignorais
-Les raisons d'un refus qu'en tel cas je ferais,
-Vu la prédiction.
-
--*who_lamarquise
       Admirable scrupule !
 
--*who_lacomtesse
-Mais ce Devin habile...
-
--*who_lamarquise
       Est aussi ridicule.
 Que les sots qu'il attrape, et l'on devrait punir
 Tous ceux qui font métier de percer l'avenir,
@@ -248,17 +61,6 @@ Avec des sentiments, de l'esprit, un bon coeur,
 Sans consulter le Sort, on peut croire au bonheur.
 Mon fils, vous persistez, c'en est donc fait ?
 
--*who_lechevalier
-      Ma mère,
-Malgré tout mon respect, je crains de vous déplaire.
-Je fuis bien malheureux ! Au nom de vos bienfaits,
-Ne gênez point mon goût. Les efforts que j'ai faits
-N'ont pû déterminer mon penchant pour Julie.
-Je l'estime beaucoup. Hélas ! Sans ma folie,
-Peut-être que l'Amour eût fixé mon repos;
-Peut-être l'aimerais-je.
-
--*who_lamarquise
       Une autre, à ce propos ;
 Prendrait un parti vif : mais toujours bonne et tendre,
 Ne pouvant vous guérir, je veux bien vous apprendre
@@ -266,58 +68,25 @@ Que depuis plusieurs mois, par mon ordre, en secret,
 Un homme s est chargé d'amener un objet
 Du Canada.
 
--*who_lechevalier
-      Souffrez que mon coeur... Mais, ma Mère,
-Quand verrai-je ?...
-
--*who_lamarquise
       Je crois que vous n'attendrez guère.
 
--*who_lechevalier
-Quand ?
-
--*who_lamarquise
       Bientôt, à juger par le temps du départ
 De celui que mes soins ont choisi.
 
--*who_lacomtesse
-      Pour ma part,
-Je vous en sais bon gré.
-
--*who_lamarquise
       Son bien et sa naissance
 Ne vous cèdent en rien. Par la correspondance
 Que j'ai dans ce pays, cela n'est pas suspect,
 Je m'en suis fait instruire. Ainsi que le respect
 Marche avec votre amour.
 
--*who_lechevalier
-      Vos bontés me confondent.
-Quoi ! J'aurais...
-
--*who_lamarquise
       À mes voeux que les vôtres répondent ;
 Tout ira bien. Rentrez. De mes bienfaits, mon fils,
 Connaissez l'étendue, et mettez-y le prix.
 
--*who_lacomtesse
-Malgré vous, à raison vous est donc revenue,
-Puisqu'à le seconder vous êtes résolue !
-
--*who_lamarquise
 Soit.
 
--*who_lacomtesse
-      Je l'en félicite, et je cours sur ses pas,
-Lui bien recommander qu'il n'en démorde pas.
-Ma soeur, c'est, selon moi, lui rendre un bon office.
-
--*who_lamarquise
 Je reconnais ma soeur à ce rare service.
 
-**** *book_ *id_I04 *act_I *date_1758
-
--*who_lamarquise
 Si l'homme le plus fait pour aimer la vertu,
 Par quelque ridicule est encor combattu,
 De celui de mon fils justement je murmure ;
@@ -333,18 +102,545 @@ Qui paraît être faite au gré de son envie...
 Mais la voici... Tâchons de la déterminer
 Au projet que tantôt...
 
-**** *book_ *id_I05 *act_I *date_1758
-
--*who_julie
-      J'ai beau m'examiner,
-Je n'aurai jamais l'air d'une Canadienne.
-
--*who_lamarquise
 Si, ma chère ; de vous il faut que je l'obtienne...
 Vos habits sont tout prêts pour ce déguisement.
 Vous vous méconnaîtrez vous-même assurément.
 
--*who_julie
+Quel est-il?
+
+Quand vous réfléchirez que ce n'est qu'à ce prix
+Que je peux vous devoir le bonheur de mon fils,
+Votre amitié pour moi saura, sans répugnance,
+Surmonter l'embarras d'une heure de silence.
+
+Chassez de son esprit une légère erreur
+Qui n'a point sûrement été jusqu'à son coeur.
+Vous en viendrez à bout.
+
+Votre père vous croit chez votre bonne amie ?
+
+      Ainsi gardons-nous bien
+Que l'on vous voie ici. La Comtesse revient,
+Qui nous gâterait tout.
+
+Tout-à-fait ! Il en donne un trait bien convaincant.
+De l'esprit ! En a-ton lorsque l'on est bizarre ?
+Choquer les préjugés, jouer l'espèce rare,
+Être seul de son goût, si c'est là de l'esprit,
+Comment donc nommez-vous la sottise ?
+
+      Mon Dieu, laissons cette matière ;
+Chacun pense à son gré. La dissertation
+N'est point du tout mon genre.
+
+Ne vous contraignez point.
+
+      Je vous cède ma part.
+
+De qui parlez-vous donc, s'il vous plaît ?
+
+      Enfin ?
+
+II s'agit...
+
+Sachons...
+
+      Eh ! mais vous nous parliez
+De Julie.
+
+      Monsieur, si vous vouliez...
+
+Oui, Monsieur.
+
+      Nous aimons ses talents, sa vertu.
+Il s'agit du propos...
+
+      De grâce,
+Achevez cet article.
+
+      Mais,
+Votre fille....
+
+Quelles cruelles peines !
+
+      Bon ! Les voilà
+Partis pour le Japon.
+
+      Votre Fille est absente !
+Sera-ce pour longtemps ?
+
+      Dis-lui qu'il vienne.
+Puisse mon fils, par-là , guérir de son erreur !
+
+Je le croirais assez.
+
+      Oui, de toute mon âme.
+
+Ils seront tous reçus, ainsi qu'ils doivent l'être.
+
+      Charmante !...
+
+      Ce n'est pas en criant,
+Qu'elle vous entendra. Cette Canadienne
+Ignore notre Langue. Eh ! parlez-lui la sienne,
+Puisque vous la savez.
+
+      Vous lui cassez la tête.
+Entend-elle cela ?
+
+      Allez chercher mon fils.
+Si Monsieur Brigantin veut bien qu'en ce logis
+Elle passe le jour...
+
+Ses yeux son expressifs.
+
+Mais l'âme...
+
+      Approchez, Chevalier.
+Voyez comme je sers votre goût singulier.
+Voici l'objet qu'enfin j'ai fait venir en France.
+Le réel a suivi de près votre espérance.
+Sa taille et sa beauté vous surprennent déjà.
+
+      À tes foins je la livre :
+Ne quitte point ses pas.
+
+Laissons-les un moment.
+
+Quoi ! Lorsque tout concourt à remplir votre envie.
+Que tout sert votre coeur, ce même coeur s'oublie,
+Et néglige l'objet dont il est possédé !
+Que veut dire, Monsieur, un pareil procédé ?
+
+Quand l'amour est bien vif, il agit autrement.
+
+      C'est assez ; du reste fais-nous grâce...
+Oui, je conviens, mon fils, que la beauté nous lasse.
+Si ses traits, soutenus des plus vifs agréments,
+Ne savent point servir de cadre aux sentiments.
+
+      Sachons par quel augure
+Vous jugez que Zinca n'a que de la figure,
+Et ne possède pas un mérite réel ?
+
+      Il faut bien, pour l'entendre,
+Qu'elle apprenne à parler français.
+
+Vous le lui montrerez.
+
+Quel garant, quelle preuve avez-vous de sa haine ?
+
+      Allez, sa flamme
+Peut-être avec le temps pourra naître...
+
+      À quel propos, mon fils
+Me parler d'un objet, qui, voyant vos mépris,
+S'en venge, en vous fuyant ? Et j'eusse agi comme elle.
+
+      J'aperçois
+Zinca. Songez-y bien ensemble. Je vous laisse :
+N'allez pas désormais réclamer ma faiblesse,
+Je n'en veux plus avoir.
+
+      Adieu.
+Elle a rompu. Zinca doit vous en tenir lieu.
+Puisse-t-elle achever de le rendre à lui-même !
+
+      Mon Fils, je viens savoir
+Si, relativement au noeud qui vous engage,
+Je pourrai sur Zinca, sur votre mariage ,
+En termes positifs, répondre à ses parents.
+
+      Ce soir je les attends.
+
+      Quel accueil leur ferai je ?
+
+      Enfin que leur dirai-je ?
+
+      Parlez.
+
+      Permettez-moi, Monsieur ;
+D'interrompre un moment le fil de votre histoire.
+
+      Décidez-vous, mon fils, et promptement.
+
+Que puis-je faire ?
+
+      Embrassez-moi, Julie.
+
+Et de qui vous venger ? Vengez-vous donc de moi.
+De ce qui s'est passé, seule je suis coupable.
+J'ai tout conduit, Monsieur.
+
+Ne peut-on pas ce soir savoir cette aventure ?
+
+Allons, mes chers enfants.... Ma soeur, de tels effets
+Prouvent que les sorciers n'ont rien qui se soutienne.
+
+A propos de cela, sachant bien que mon fils
+Céderait... Vous allez être au fait du pays ,
+Des fêtes qu'on y donne, et de leurs mariages ;
+Partons. Combien de gens pourraient devenir sages,
+S'ils voulaient concevoir que souvent le bonheur
+Dépend de revenir d'une fatale erreur !
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+Ah, j'espérais trouver la Marquise en ces lieux.
+Eh bien ! A-t-on gagné quelque chose sur elle ?
+Que fais-tu là, toi ?
+
+      Ah ! Je n ai qu'à le voir.
+Chevalier, tenez bon ; que votre complaisance
+N'aille pas sur le sort emporter la balance.
+Suivez le vôtre , enfin, puisqu'on vous l'a prédit ;
+Les Devins savent tout, je vous l'ai déjà dit.
+Moi-même, sans pourtant être bien curieuse,
+J'ai su tout d'une femme à mon gré merveilleuse ;
+Dont presque tout Paris fut très longtemps coiffé ;
+On lisait son destin dans du marc de café.
+À l'article frappant des tendres anecdotes,
+Les plus prudes souvent devenaient les plus sottes ;
+Les unes par dépit , les autres par regret :
+Mais la femme et l'amour étant seuls du secret,
+On prenait aisément son parti sur le reste.
+
+On peut être crédule ainsi que les Anciens.
+
+      Mais, mon ami , je trouve
+Que tu prends avec nous un ton bien familier.
+
+Ma Soeur, ménagez-le...
+
+      Moi ? je pense autrement.
+Vous ne me verrez point blâmer son sentiment.
+
+      Non, vous dis-je ; au contraire.
+Sa façon de penser est dans mon caractère.
+
+Eh ! Mais si par la tante on juge du neveu,
+Tant mieux pour lui, ma soeur.
+
+C'est par-là qu'il me plaît, et c'est le beau côté ;
+Du goût national il fronde les chimères.
+J'aime les étrangers, et lui les étrangères.
+Cette conformité me le rend précieux.
+Mon époux, le feu Comte, avec moi fut heureux,
+Non parce qu'en effet il méritait de l'être ,
+Aimable de l'esprit, bien fait, point petit-maître...
+
+Non ; c'est qu'il était né près de Pondichéri.
+
+Oh ! La soumission ! Voilà comme vous êtes ;
+Il faut donc s'immoler à tout ce que vous faites ?
+Et parce que sur lui vous avez du pouvoir,
+Est-ce assez pour qu'il soit victime du devoir ?
+Ma soeur, en fait de choix, le devoir doit se taire.
+
+Quand je vous proposai cet hymen, j'ignorais
+Les raisons d'un refus qu'en tel cas je ferais,
+Vu la prédiction.
+
+Mais ce Devin habile...
+
+      Pour ma part,
+Je vous en sais bon gré.
+
+Malgré vous, à raison vous est donc revenue,
+Puisqu'à le seconder vous êtes résolue !
+
+      Je l'en félicite, et je cours sur ses pas,
+Lui bien recommander qu'il n'en démorde pas.
+Ma soeur, c'est, selon moi, lui rendre un bon office.
+
+Votre fils maintenant est comme je le veux.
+Allez, nous en serons contentes toutes deux,
+Sitôt que par mon goût le vôtre se décide.
+Vous faites tout de lui, quand la douceur vous guide.
+Quoique fort jeune il a l'esprit très conséquent.
+
+      Il suffit
+De vous contrarier, pour être singulière.
+Je vous entends.
+
+      Et c'est ma passion.
+
+      J'aime que l'on disserte.
+Dorimont, par exemple, est une découverte
+Admirable pour nous.
+
+Fort instruit : il est vrai qu'il est un peu bavard ;
+Mais il parle de tout, d'histoire, de voyage.
+De sa prolixité ce qu'il dit dédommage.
+IL vient à nous.
+
+Eh bien ?
+
+      On vous gêne, on vous lasse.
+Pour peu que l'on raconte. Auriez-vous la bonté,
+À propos des pays où vous avez été,
+De me dire deux mots concernant vos voyages ?
+
+      Les porcelaines
+Sont-elles sur un pied fort cher ?
+
+Nous allons donc la voir ! Je l'attends de bon coeur.
+Dorimont, ce pays vous est connu, sans doute ?
+
+      Comment les habitants
+Sont-ils mis, à-peu-près ?
+
+Vous vous ressouvenez du moins de leurs manières,
+Et des femmes surtout ?
+
+Et les hommes sont-ils...
+
+Vous me faites plaisir.... En portraits il excelle...
+Vous vous rappeliez donc ?
+
+      Ah !
+
+Elle est fort bien !
+
+      Oui, c'est plaisant ! Mais cela parle-t-il ?
+Vous savez cette langue ?
+
+Il lui parle pourtant de toutes les façons.
+
+Oui.
+
+      D'honneur.
+
+      Il est à propos
+Que vous soyez instruit du fond de l'aventure.
+Une prédiction qui me paraît très sûre ,
+Veut que pour son bonheur il devienne amoureux...
+
+En un mot, c'est son goût.
+
+      Si vous voulez me suivre,
+Vous saurez le détail...
+
+Était-ce loin d'ici ?
+
+      Oui, c'est elle ; on la reconnaît bien.
+
+Mais ma nièce à présent est en Canadienne.
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorimont
+
+      Parbleu, j'en aurais fait autant.
+Elle a raison. Il faut chercher l'amusement
+Où l'on peut le trouver ; c'est le sel de la vie.
+
+      De Julie
+Ma fille. Elle n'est pas qi dupe, à mon avis,
+Qu'elle ne sente bien que Monsieur votre fils
+L'a (soit dit entre nous) fort mal appréciée.
+
+      Apparemment qu'hier au soir ennuyée
+Du rôle peu flatteur qu'elle joue en ce lieu,
+Ou plûtot de celui que votre froid neveu
+Fait auprès d'elle....
+
+      Enfin, ne vous déplaise,
+Souffrez qu'à ce sujet j'ouvre une parenthèse,
+Que je saurai fermer lorsqu'il en sera temps.
+Est-ce là, dites-moi, comme on aime à vingt ans ?
+Le pauvre Chevalier mérite qu'on le plaigne,
+Ainsi que ses pareils. Corbleu ! Sous l'autre règne
+Il eût fallut me voir, et mes contemporains,
+Toujours vifs, égrillards, sans être libertins...
+
+      Prévenants sans celle auprès des belles...
+
+      Sans leur manquer, se faire estimer d'elles.
+Mais aujourd'hui, ma foi, ce n'est qu'en leur manquant,
+Qu'un jeune écervelé leur paraît élégant.
+L'air libre a remplacé l'innocent badinage.
+Et l'enjouement n'est plus que du libertinage.
+Il faut que je vous conte...
+
+      Eh bien ! Oui.
+
+Ne vous l'ai-je pas dit ? Elle m'a fait entendre,
+Hier, quoiqu'un peu tard, qu'il ne faut plus prétendre...
+Vous savez, comme moi, qu'elle a beaucoup d'esprit.
+
+      Elle parle, elle chante, elle écrit....
+Elle a tous les talents que possédait sa mère.
+Tout cela, voyez-vous ! Me la rend bien plus chère.
+J'ai bien vû du pays ; mais je n'ai jamais vu
+Un enfant...
+
+      Eh ! Sans doute.
+
+Volontiers. Écoutez. Un jour chez les sauvages,
+Peuple assez ignorant, et parlant mal Français,
+Chantant mal l'Italien... Ce sont deux choses...
+
+      Ah ! Ma fille ? Eh bien ! Elle est partie,
+Pour aller s'amuser chez une bonne amie....
+Elle en a, des amis, beaucoup ; et c'est un point
+Essentiel. Malheur à ceux qui n'en ont point !
+Je m'en suis fait pourtant...
+
+      J'en ai mille au Japon, au Cap...
+
+      À l'égard de cela,
+Selon la qualité. Celle que plus on vante
+Est marquée au Dragon.
+
+      Ma foi. je n'en sais rien ,
+Autant qu'elle voudra. Mon plaisir est le sien.
+Il suffit qu'elle soit en bonne compagnie,
+Et que j'en sois instruit. Je n'ai pas la manie
+De ces pères...
+
+      Ah! Ah!
+
+Comme mon cabinet.....
+      Ce détail me déroute.
+Ai-je bien été là ?
+
+      Je parle de longtemps...
+
+      Elles sont... singulières...
+De si loin, la mémoire échappe volontiers.
+
+      Mais... Ils font singuliers...
+Ayant l'air... par ma foi... Je ne sais trop vous dire.
+Les gens font plus aisés à voir, qu'à les décrire...
+Ouais ! Aurais-je oublié d'y faire un tour ? oui-dà...
+
+      Justement, m'y voilà...
+
+      Ma foi, je me rappelle...
+Que c'est le seul climat où je n'ai point été.
+On peut dédommager la curiosité,
+Par un trait historique... Un jour...
+
+      Ah !
+
+      Et surtout du profil !
+Voyez...
+
+      Oh ! J'en sais quinze ou seize,
+La sienne faiblement. Pour la mettre à son aise ,
+D'abord en bon français je vais l'interroger.
+Bonjour, charmant objet ! Dans votre air étranger
+On voit je ne sais quoi de doux et d'agréable.
+Bonjour, charmant objet ! Hem ! Plaît-il ? Mais que diable !
+Elle ne répond pas. Bonjour, objet charmant !
+Réponds donc, si tu veux.
+
+      Volontiers.
+      Belleti,
+Ici vous crédati in poco perdati !
+Plaît-il?
+      Répondati.
+
+      Je la croyais moins bête.
+
+Le Marchand, quel qu'il soit, est un vendeur d'oisons.
+
+      Un oiseau sans ramage,
+Et cela, ce n'est qu'un. Sans tarder davantage,
+Il faut vous en défaire.
+
+      Pourquoi ?
+
+Je le savais bien, moi ; cette espèce est muette.
+Je vous fais compliment sur votre bonne emplette.
+
+      Il me faut du caquet :
+J'en donnerais, morbleu, cent pour un perroquet.
+Belle qui ne dit mot, n'est qu'une belle Idole.
+
+      Oh ! Selon moi, l'âme est dans la parole.
+C'est pourquoi je soutiens...
+
+Oh ! Ho ! Quoi ! C'est pour lui que vous prenez cela ?
+
+      Quel conte !
+
+      Ah! La bonne folie !
+Je vous quitte un moment, pour écrire à Julie ;
+Et je vais lui marquer ton goût pour les tableaux,
+Monsieur l'original ! Vas...
+
+D'un être inanimé ! Sa façon d'être heureux
+N'a pas le sens commun. Morbleu, vive ma fille !
+Il n'en était pas digne. Elle cause, babille...
+
+      Ensemble ils seront bien.
+
+      Oh ! Chacun a le sien.
+Mais je voudrais savoir......
+
+      Mais voyez donc son air !
+
+      Prends courage, mon cher.
+L'atelier d'un sculpteur t'en offrira bien d'autres.
+
+Oh ! Oh ! Je savais bien, moi, qu'il n'y tiendrait pas.
+Il a, parbleu, raison. Le premier des appas
+Est..... la langue.
+
+      Que voulez-vous qu'il dise ?
+Le voilà dégoûté de cette marchandise,
+Et je l'aurais gagé. Bon ! Rien n'est si trompeur.
+Il m'est arrivé, moi......
+
+      Si j'ai bonne mémoire...
+C'était...
+
+      Oh ! C'est ta faute.
+
+      Pourquoi ?
+
+      De moi ?
+
+      En voilà bien d'un autre !
+Eh ! Mais ne crois-tu pas que je vais bonnement
+Partir pour te chercher une femme ?... Comment ?
+Mais je vous dis !... Enfin, sais-tu que ta folie
+Ne me va pas ?...
+
+      Crois-tu donc que ma fille aille, vienne,
+Comme cela ? Mais, mais...
+
+      Ce morveux-là m'arracherait des larmes,
+Si je ne me tenais à quatre... Tu me charmes.
+Va, soit. Mais si ma fille, écoutant la fierté,
+À son tour s'opposait à ta félicité ?...
+
+Quoi ! Morbleu, cela parle ?
+
+      Me jouer ce tour !
+Point d'hymen, s'il vous plaît. Madame la Marquise,
+On m'en a fait accroire, et l'on vous a surprise.
+Ensemble vengeons-nous.
+
+      Vous êtes admirable !
+Que ne parliez-vous donc ?... Ma fille, embrasse-moi.
+Parbleu, présentement on voit bien que c'est toi.
+Je ne l'ai pas remise. Aussi dans les voyages
+On parle à tant de monde, on voit tant de visages !...
+À propos de visage, ôte ce rouge-là.
+Je veux que tu sois toi... Quand je fus à Goa...
+
+Oui... J'en ajouterai cinquante, je vous jure.
+Moi, quand je n'en sais point, sur le champ je les fais.
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
+      J'ai beau m'examiner,
+Je n'aurai jamais l'air d'une Canadienne.
+
 Ce n'est point sur l'habit que mon esprit contrôle.
 Ma taille et ma figure iront de reste au rôle.
 Mon Père, qui dans tout croit toujours voyager ,
@@ -356,595 +652,175 @@ Je pourrai bien avoir un air de Canada.
 L'habit au par-dessus soutiendra l'équivoque.
 Tout va bien jusqu'ici : mais certain point me choque.
 
--*who_lamarquise
-Quel est-il?
-
--*who_julie
       Franchement, il doit me déceler :
 Croyez-vous me tenir une heure sans parler ?
 S'il faut qu'avec mes traits ma langue se déguise,
 Je ne réponds de rien. Madame la Marquise.
 
--*who_lamarquise
-Quand vous réfléchirez que ce n'est qu'à ce prix
-Que je peux vous devoir le bonheur de mon fils,
-Votre amitié pour moi saura, sans répugnance,
-Surmonter l'embarras d'une heure de silence.
-
--*who_julie
 Mon amitié pour vous me fait risquer un pas
 Que fans elle vraiment je ne risquerais pas.
 Faut-il que mon désir de vous nommer ma mère,
 Par votre propre fils devienne une chimère ?
 
--*who_lamarquise
-Chassez de son esprit une légère erreur
-Qui n'a point sûrement été jusqu'à son coeur.
-Vous en viendrez à bout.
-
--*who_julie
       Au moins j'en ai l'envie.
 
--*who_lamarquise
-Votre père vous croit chez votre bonne amie ?
-
--*who_julie
 Depuis hier au soir.
 
--*who_lamarquise
-      Ainsi gardons-nous bien
-Que l'on vous voie ici. La Comtesse revient,
-Qui nous gâterait tout.
-
--*who_julie
       Je vole à ma cachette ;
 Achever promptement ma bizarre toilette.
 
-**** *book_ *id_I06 *act_I *date_1758
-
--*who_lacomtesse
-Votre fils maintenant est comme je le veux.
-Allez, nous en serons contentes toutes deux,
-Sitôt que par mon goût le vôtre se décide.
-Vous faites tout de lui, quand la douceur vous guide.
-Quoique fort jeune il a l'esprit très conséquent.
-
--*who_lamarquise
-Tout-à-fait ! Il en donne un trait bien convaincant.
-De l'esprit ! En a-ton lorsque l'on est bizarre ?
-Choquer les préjugés, jouer l'espèce rare,
-Être seul de son goût, si c'est là de l'esprit,
-Comment donc nommez-vous la sottise ?
-
--*who_lacomtesse
-      Il suffit
-De vous contrarier, pour être singulière.
-Je vous entends.
-
--*who_lamarquise
-      Mon Dieu, laissons cette matière ;
-Chacun pense à son gré. La dissertation
-N'est point du tout mon genre.
-
--*who_lacomtesse
-      Et c'est ma passion.
-
--*who_lamarquise
-Ne vous contraignez point.
-
--*who_lacomtesse
-      J'aime que l'on disserte.
-Dorimont, par exemple, est une découverte
-Admirable pour nous.
-
--*who_lamarquise
-      Je vous cède ma part.
-
--*who_lacomtesse
-Fort instruit : il est vrai qu'il est un peu bavard ;
-Mais il parle de tout, d'histoire, de voyage.
-De sa prolixité ce qu'il dit dédommage.
-IL vient à nous.
-
-**** *book_ *id_I07 *act_I *date_1758
-
--*who_dorimont
-      Parbleu, j'en aurais fait autant.
-Elle a raison. Il faut chercher l'amusement
-Où l'on peut le trouver ; c'est le sel de la vie.
-
--*who_lamarquise
-De qui parlez-vous donc, s'il vous plaît ?
-
--*who_dorimont
-      De Julie
-Ma fille. Elle n'est pas qi dupe, à mon avis,
-Qu'elle ne sente bien que Monsieur votre fils
-L'a (soit dit entre nous) fort mal appréciée.
-
--*who_lacomtesse
-Eh bien ?
-
--*who_dorimont
-      Apparemment qu'hier au soir ennuyée
-Du rôle peu flatteur qu'elle joue en ce lieu,
-Ou plûtot de celui que votre froid neveu
-Fait auprès d'elle....
-
--*who_lamarquise
-      Enfin ?
-
--*who_dorimont
-      Enfin, ne vous déplaise,
-Souffrez qu'à ce sujet j'ouvre une parenthèse,
-Que je saurai fermer lorsqu'il en sera temps.
-Est-ce là, dites-moi, comme on aime à vingt ans ?
-Le pauvre Chevalier mérite qu'on le plaigne,
-Ainsi que ses pareils. Corbleu ! Sous l'autre règne
-Il eût fallut me voir, et mes contemporains,
-Toujours vifs, égrillards, sans être libertins...
-
--*who_lamarquise
-II s'agit...
-
--*who_dorimont
-      Prévenants sans celle auprès des belles...
-
--*who_lamarquise
-Sachons...
-
--*who_dorimont
-      Sans leur manquer, se faire estimer d'elles.
-Mais aujourd'hui, ma foi, ce n'est qu'en leur manquant,
-Qu'un jeune écervelé leur paraît élégant.
-L'air libre a remplacé l'innocent badinage.
-Et l'enjouement n'est plus que du libertinage.
-Il faut que je vous conte...
-
--*who_lamarquise
-      Eh ! mais vous nous parliez
-De Julie.
-
--*who_dorimont
-      Eh bien ! Oui.
-
--*who_lamarquise
-      Monsieur, si vous vouliez...
-
--*who_dorimont
-Ne vous l'ai-je pas dit ? Elle m'a fait entendre,
-Hier, quoiqu'un peu tard, qu'il ne faut plus prétendre...
-Vous savez, comme moi, qu'elle a beaucoup d'esprit.
-
--*who_lamarquise
-Oui, Monsieur.
-
--*who_dorimont
-      Elle parle, elle chante, elle écrit....
-Elle a tous les talents que possédait sa mère.
-Tout cela, voyez-vous ! Me la rend bien plus chère.
-J'ai bien vû du pays ; mais je n'ai jamais vu
-Un enfant...
-
--*who_lamarquise
-      Nous aimons ses talents, sa vertu.
-Il s'agit du propos...
-
--*who_dorimont
-      Eh ! Sans doute.
-
--*who_lamarquise
-      De grâce,
-Achevez cet article.
-
--*who_lacomtesse
-      On vous gêne, on vous lasse.
-Pour peu que l'on raconte. Auriez-vous la bonté,
-À propos des pays où vous avez été,
-De me dire deux mots concernant vos voyages ?
-
--*who_dorimont
-Volontiers. Écoutez. Un jour chez les sauvages,
-Peuple assez ignorant, et parlant mal Français,
-Chantant mal l'Italien... Ce sont deux choses...
-
--*who_lamarquise
-      Mais,
-Votre fille....
-
--*who_dorimont
-      Ah ! Ma fille ? Eh bien ! Elle est partie,
-Pour aller s'amuser chez une bonne amie....
-Elle en a, des amis, beaucoup ; et c'est un point
-Essentiel. Malheur à ceux qui n'en ont point !
-Je m'en suis fait pourtant...
-
--*who_lamarquise
-Quelles cruelles peines !
-
--*who_dorimont
-      J'en ai mille au Japon, au Cap...
-
--*who_lacomtesse
-      Les porcelaines
-Sont-elles sur un pied fort cher ?
+Lisette ?
+
+      Viens, Lisette.
+
+      Sans avoir besoin d'un interprète ;
+Il est bien singulier que ce déguisement
+Voile aux yeux de chacun Julie.
+
+Ignorant le dessein, ou plutôt la manie
+Du pauvre Chevalier, mon Père, ainsi que moi,
+Fut reçu dans ces lieux, et tu sais bien pourquoi.
+On me fit voir d'abord le fils de la Marquise,
+Comme devant un jour, en épouse soumise,
+Être à lui pour jamais. Tu connais ce qu'il vaut.
+Son mérite, ses moeurs, m'enchaînèrent bientôt
+Il m'était ordonné de l'aimer. Ah, Lisette !
+Comme j'obéissais ! Mais hélas ! Ma défaite,
+Loin de produire en lui le même sentiment,
+Semblait l'en détourner. Juge de mon tourment.
+J'allai cacher mes pleurs dans le sein de sa mère,
+À qui par mille soins j'ai su me rendre chère.
+Son but, en approuvant le penchant que j'ai pris,
+Était de triompher de l'erreur de son fils.
+Vain espoir ! Elle a cru que, par ce stratagème,
+Cet Amant deviendrait la dupe de lui-même.
+Voilà tout le sujet de ce déguisement.
+C'est elle qui le veut, l'amour y consent.
+
+      Il me coûte bien cher.
+
+      Est un voyage en l'air.
+
+      Mon unique espérance
+Est de plaire, ou du moins tenter, par mon silence,
+Et ma stupidité , de le pousser à bout,
+De le guérir enfin de son bizarre goût.
+Que j'ai plaint son tourment ! Que j'ai souffert moi-même,
+De ne pouvoir tantôt dire "je vous aime",
+Qu'il m'a tant demandé ! Mon coeur en palpitait.
+Que dis-je ? hélas! tout bas il le lui répétait.
+Qu'il en coûte, en aimant, pour feindre d'être ingrate !
+
+      Je le connais si bon...
+
+      Il m'aime avec tant de tendresse,
+Que, si quelque succès couronne ma faiblesse,
+Il fera le premier comblé de mon bonheur.
+Mais si le Chevalier, constant dans son erreur,
+Rendait à tous égards ma démarche inutile,
+Alors, Lisette, alors choisissant pour asile
+Le couvent...
+
+      Tromper !
+
+      Je ne puis. Allons trouver sa mère.
+Ses conseils guideront tout ce que je dois faire.
+
+Non, mon père, ma main seconde votre envie.
+
+      Perdant toute espérance
+De plaire au Chevalier, si, pour flatter son goût,
+Je ne me transformais...
+
+Vous ne me devez rien , puisque je suis contente.
+Si le Devin voulait que je fusse inconstante,
+Il faudraît pourtant l'être...
+
+      Hélas ! Je meurs d'effroi,
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
+De ces gens quelquefois la science est bornée :
+Mais celui qui fans fard m'apprit ma destinée,
+Sur le passé si bien a su me définir,
+Que mon esprit frappé le croit sur l'avenir.
+C'est lui qui m'a prédit qu'une Canadienne,
+Par sa flamme, bientôt allumerait la mienne,
+Et ferait mon bonheur. J'en suis certain.
+
+Qui te parle, dis-mot, de faire ce voyage ?
+La Marquise à mon goût s'oppose.
+
+      Elle a su m'accabler
+De bontés, de bienfaits.
+
+      En parler de la sorte !
+Faquin...
+
+Ma curiosité ne peut m'être funeste,
+Puisqu'on m'a présagé les plus heureux liens.
+
+      C'est que.... Va-t-en.
+
+Je vous dois tout, Madame ; et ma reconnaissance...
+
+      Oui, si c'en est une enfin,
+Que de suivre son goût, ou plutôt son destin.
+Je le sais, comme vous, Julie est jeune, aimable,
+Riche.... Mais je me forge une idée agréable
+D'être aimé d'un objet, qui, changeant de climat,
+Croira me devoir tout, son bonheur, son état...
+Si je puis parvenir à la rendre sensible...
+Madame, vous riez : mais rien n'est moins risible ;
+Mon projet est charmant. Un coeur simple et fans art
+Est si rare à Paris, qu'on le croit un hasard.
+Ainsi donc je tiendrai des mains de la Nature
+Ce qu'un autre souvent ne doit qu'à l'imposture.
+
+      Ma mère,
+Malgré tout mon respect, je crains de vous déplaire.
+Je fuis bien malheureux ! Au nom de vos bienfaits,
+Ne gênez point mon goût. Les efforts que j'ai faits
+N'ont pû déterminer mon penchant pour Julie.
+Je l'estime beaucoup. Hélas ! Sans ma folie,
+Peut-être que l'Amour eût fixé mon repos;
+Peut-être l'aimerais-je.
+
+      Souffrez que mon coeur... Mais, ma Mère,
+Quand verrai-je ?...
+
+Quand ?
+
+      Vos bontés me confondent.
+Quoi ! J'aurais...
 
--*who_lamarquise
-      Bon ! Les voilà
-Partis pour le Japon.
-
--*who_dorimont
-      À l'égard de cela,
-Selon la qualité. Celle que plus on vante
-Est marquée au Dragon.
-
--*who_lamarquise
-      Votre Fille est absente !
-Sera-ce pour longtemps ?
-
--*who_dorimont
-      Ma foi. je n'en sais rien ,
-Autant qu'elle voudra. Mon plaisir est le sien.
-Il suffit qu'elle soit en bonne compagnie,
-Et que j'en sois instruit. Je n'ai pas la manie
-De ces pères...
-
-**** *book_ *id_I08 *act_I *date_1758
-
--*who_lisette
-      Madame, un nommé Brigantin,
-Arrivé, m'a-t-il dit, d'un pays fort lointain,
-Voudrait vous présenter une Canadienne,
-Qu'il dit être jolie.
-
--*who_dorimont
-      Ah! Ah!
-
--*who_lamarquise
-      Dis-lui qu'il vienne.
-Puisse mon fils, par-là , guérir de son erreur !
-
--*who_lacomtesse
-Nous allons donc la voir ! Je l'attends de bon coeur.
-Dorimont, ce pays vous est connu, sans doute ?
-
--*who_dorimont
-Comme mon cabinet.....
-      Ce détail me déroute.
-Ai-je bien été là ?
-
--*who_lacomtesse
-      Comment les habitants
-Sont-ils mis, à-peu-près ?
-
--*who_dorimont
-      Je parle de longtemps...
-
--*who_lacomtesse
-Vous vous ressouvenez du moins de leurs manières,
-Et des femmes surtout ?
-
--*who_dorimont
-      Elles sont... singulières...
-De si loin, la mémoire échappe volontiers.
-
--*who_lacomtesse
-Et les hommes sont-ils...
-
--*who_dorimont
-      Mais... Ils font singuliers...
-Ayant l'air... par ma foi... Je ne sais trop vous dire.
-Les gens font plus aisés à voir, qu'à les décrire...
-Ouais ! Aurais-je oublié d'y faire un tour ? oui-dà...
-
--*who_lamarquise
-Je le croirais assez.
-
--*who_dorimont
-      Justement, m'y voilà...
-
--*who_lacomtesse
-Vous me faites plaisir.... En portraits il excelle...
-Vous vous rappeliez donc ?
-
--*who_dorimont
-      Ma foi, je me rappelle...
-Que c'est le seul climat où je n'ai point été.
-On peut dédommager la curiosité,
-Par un trait historique... Un jour...
-
-**** *book_ *id_I09 *act_I *date_1758
-
--*who_lacomtesse
-      Ah !
-
--*who_dorimont
-      Ah !
-
--*who_brigantin
-      Madame
-Veut elle se charger...
-
--*who_lamarquise
-      Oui, de toute mon âme.
-
--*who_brigantin
-Cette aimable personne a précédé d'un jour
-Deux parents qu'une affaire appelait à la Cour.
-Peut-être dès ce soir les verrez-vous paraître.
-
--*who_lamarquise
-Ils seront tous reçus, ainsi qu'ils doivent l'être.
-
--*who_lacomtesse
-Elle est fort bien !
-
--*who_lamarquise
-      Charmante !...
-
--*who_dorimont
-      Et surtout du profil !
-Voyez...
-
--*who_lacomtesse
-      Oui, c'est plaisant ! Mais cela parle-t-il ?
-Vous savez cette langue ?
-
--*who_dorimont
-      Oh ! J'en sais quinze ou seize,
-La sienne faiblement. Pour la mettre à son aise ,
-D'abord en bon français je vais l'interroger.
-Bonjour, charmant objet ! Dans votre air étranger
-On voit je ne sais quoi de doux et d'agréable.
-Bonjour, charmant objet ! Hem ! Plaît-il ? Mais que diable !
-Elle ne répond pas. Bonjour, objet charmant !
-Réponds donc, si tu veux.
-
--*who_lamarquise
-      Ce n'est pas en criant,
-Qu'elle vous entendra. Cette Canadienne
-Ignore notre Langue. Eh ! parlez-lui la sienne,
-Puisque vous la savez.
-
--*who_dorimont
-      Volontiers.
-      Belleti,
-Ici vous crédati in poco perdati !
-Plaît-il?
-      Répondati.
-
--*who_lamarquise
-      Vous lui cassez la tête.
-Entend-elle cela ?
-
--*who_dorimont
-      Je la croyais moins bête.
-
--*who_lacomtesse
-Il lui parle pourtant de toutes les façons.
-
--*who_dorimont
-Le Marchand, quel qu'il soit, est un vendeur d'oisons.
-
--*who_brigantin
-Monsieur, connaissez mieux......
-
--*who_dorimont
-      Un oiseau sans ramage,
-Et cela, ce n'est qu'un. Sans tarder davantage,
-Il faut vous en défaire.
-
--*who_lamarquise
-      Allez chercher mon fils.
-Si Monsieur Brigantin veut bien qu'en ce logis
-Elle passe le jour...
-
--*who_brigantin
-      Madame est la Maitresse :
-Mais je dois l'avertir qu'en vain Monsieur la presse
-De répondre.
-
--*who_dorimont
-      Pourquoi ?
-
--*who_brigantin
-      Soit chagrin, soit dégoût,
-Soit accident, Zinca ne parle point du tout.
-
--*who_dorimont
-Je le savais bien, moi ; cette espèce est muette.
-Je vous fais compliment sur votre bonne emplette.
-
--*who_lamarquise
-Ses yeux son expressifs.
-
--*who_dorimont
-      Il me faut du caquet :
-J'en donnerais, morbleu, cent pour un perroquet.
-Belle qui ne dit mot, n'est qu'une belle Idole.
-
--*who_lamarquise
-Mais l'âme...
-
--*who_dorimont
-      Oh ! Selon moi, l'âme est dans la parole.
-C'est pourquoi je soutiens...
-
-**** *book_ *id_I10 *act_I *date_1758
-
--*who_lamarquise
-      Approchez, Chevalier.
-Voyez comme je sers votre goût singulier.
-Voici l'objet qu'enfin j'ai fait venir en France.
-Le réel a suivi de près votre espérance.
-Sa taille et sa beauté vous surprennent déjà.
-
--*who_dorimont
-Oh ! Ho ! Quoi ! C'est pour lui que vous prenez cela ?
-
--*who_lacomtesse
-Oui.
-
--*who_dorimont
-      Quel conte !
-
--*who_lacomtesse
-      D'honneur.
-
--*who_dorimont
-      Ah! La bonne folie !
-Je vous quitte un moment, pour écrire à Julie ;
-Et je vais lui marquer ton goût pour les tableaux,
-Monsieur l'original ! Vas...
-
--*who_lacomtesse
-      Il est à propos
-Que vous soyez instruit du fond de l'aventure.
-Une prédiction qui me paraît très sûre ,
-Veut que pour son bonheur il devienne amoureux...
-
--*who_dorimont
-D'un être inanimé ! Sa façon d'être heureux
-N'a pas le sens commun. Morbleu, vive ma fille !
-Il n'en était pas digne. Elle cause, babille...
-
--*who_lisette
-Elle a de qui tenir.
-
--*who_dorimont
-      Ensemble ils seront bien.
-
--*who_lacomtesse
-En un mot, c'est son goût.
-
--*who_dorimont
-      Oh ! Chacun a le sien.
-Mais je voudrais savoir......
-
--*who_lacomtesse
-      Si vous voulez me suivre,
-Vous saurez le détail...
-
--*who_lamarquise
-      À tes foins je la livre :
-Ne quitte point ses pas.
-
--*who_dorimont
-      Mais voyez donc son air !
-
--*who_lamarquise
-Laissons-les un moment.
-
--*who_dorimont
-      Prends courage, mon cher.
-L'atelier d'un sculpteur t'en offrira bien d'autres.
-
-**** *book_ *id_I11 *act_I *date_1758
-
--*who_frontin
-Pour peu que ses discours soient semblables aux vôtres,
-Vous n'épuiserez pas la conversation.
-
--*who_lisette
-Tais-toi ; ne trouble point sa contemplation.
-La belle est d'un pays où, pour toute éloquence,
-On ne dit rien du tout ; et c'est en conséquence,
-Que ton Maître se forme.
-
--*who_lechevalier
       Oui, j'en suis enchanté!
 
--*who_lisette
-Ses progrès son bien courts.
-
--*who_lechevalier
       Une Divinité,
 Comparée à ses traits, perdrait au parallèle.
 Quelle taille ! Quels yeux !
 
--*who_lisette
-      La trouves-tu si belle ?
-
--*who_frontin
-Ma foi, tout doucement. Sans aller loin, je crois
-Que l'on pourrait trouver d'aussi jolis minois.
-
--*who_lisette
-Je m'en flatte, et j'en sais à qui l'on rend les armes.
-
--*who_frontin
-Tu fais tout bonnement les honneurs de tes charmes.
-
--*who_lisette
-Je ne dis rien de trop.
-
--*who_lechevalier
       Comment la nomme-t-on,
 Lisette ?
 
--*who_lisette
-      Zing..... Zinca.
-
--*who_lechevalier
       Zinca ! Le joli nom !
 
--*who_lisette
-Le nom y fait beaucoup !
-
--*who_lechevalier
       Zinca, je vous adore.
 Sur mon étoile, hélas ! Mon goût l'emporte encore.
 Elle ne répond pas !
 
--*who_frontin
-      Parbleu, je le crois bien.
-On en est dispensé, lorsque l'on n'entend rien.
-
--*who_lechevalier
 Zinca ?
       Quel sérieux ! Je lui déplais, peut-être ?
 
--*who_frontin
-Lui déplaire ! Ho que non ! Mais tenez, mon cher Maître,
-Vous vous y prenez mal. Tiens, Lisette, aide-moi.
-Chit, chit !
-
--*who_lisette
-      Chit, chit !
-
--*who_frontin
-      Hem!
-
--*who_lisette
-      Hem!
-
--*who_frontin
-      Elle boude ! Ma foi.
-Pour les bons procédés, c'est être trop cruelle.
-
--*who_lechevalier
 Ne la chagrine pas. Mon bonheur dépend d'elle.
 Comment peindre à ses yeux toute ma passion ?
 Que je fuis maladroit ! Lisette, aide-moi donc.
 
--*who_lisette
-Moi ! Quêter de l'amour !
-
--*who_lechevalier
       Tu vois les circonstances.
 
--*who_lisette
-Je veux agir pour moi, quand je fais des avances.
-
--*who_lechevalier
 Et toi, Frontin ?
 
--*who_frontin
-      Monsieur, le plus joli minois
-N'a jamais eu l'honneur de me braver deux fois.
-Chacun sait ce qu'il vaut.
-
--*who_lechevalier
       Eh bien ! Je veux lui dire,
 Qu'elle m'entende, ou non, tout ce qu'elle m'inspire.
 Oui, charmante Zinca, je ne vis que pour vous.
@@ -966,52 +842,20 @@ Plus cruelle cent fois.... En vain ma plainte éclate ;
 Elle ne m'entend pas. Que je suis malheureux !
 Frontin ! Frontin !
 
--*who_frontin
-      Monsieur !
-
--*who_lechevalier
       Dis-lui-donc, si tu veux,
 Qu'elle a le plus grand tort.
 
--*who_frontin
-      Que diable lui dirais-je ?
-
--*who_lechevalier
 Mais, toi, fais lui sentir...
 
--*who_lisette
-      Après vous, que ferais-je ?
-
--*who_lechevalier
 Mais fais la convenir qu'elle a conçu pour moi
 La haine ou le mépris le plus affreux.
 
--*who_lisette
-      Ma foi,
-Vous le mériteriez. D'homme fort raisonnable»
-Vous voilà devenu le plus impardonnable,
-Pour ne pas dire fou : cela par l'ascendant
-Que prend sur votre coeur un être morfondant,
-Qui n'a pour tout talent que la bégueulerie.
-
--*who_lechevalier
 Ton insolent discours passe la raillerie.
 Apprends que la sagesse unie à la beauté...
 
--*who_frontin
-La sagesse... est de trop, Monsieur, en vérité.
-Pour belle, on peut le voir. La physionomie
-Est faite pour cela. Mais l'autre point se nie,
-Faute d'être aperçu.
-
--*who_lechevalier
       Sa pudeur est témoin
 Qu'en son climat...
 
--*who_frontin
-      À beau mentir qui vient de loin.
-
--*who_lechevalier
 Vous êtes un maraud. Offenser ce que j'aime,
 C'est m'outrager.... Zinca, pour mon bonheur suprême,
 Puis-je espérer qu'un jour... Quoi ! Vous voulez me fuir ?
@@ -1021,146 +865,6 @@ Tout, en me refusant à l'aimable Julie,
 Pour être dédaigné ? Sortons. Non je ne puis
 Me souffrir plus longtemps dans l'état où je suis.
 
-**** *book_ *id_I12 *act_I *date_1758
-
--*who_lisette
-Le voilà bien puni de sa bizarrerie ;
-Et c'est, ma foi, bien fait. Mais quelle fantaisie
-Engage ma Maîtresse à vouloir m'employer
-Auprès de cette idole ? Oh ! Je vais m'ennuyer.
-
--*who_julie
-Lisette ?
-
--*who_lisette
-      Juste ciel ! Au secours !
-
--*who_julie
-      Viens, Lisette.
-
--*who_lisette
-Vous parlez ?
-
--*who_julie
-      Sans avoir besoin d'un interprète ;
-Il est bien singulier que ce déguisement
-Voile aux yeux de chacun Julie.
-
--*who_lisette
-      Eh ! Oui vraiment...
-Mais non... oui... non... si fait. À présent je le gage.
-Voyez comme le rouge accommode un visage !
-Vous n'en mettiez jamais. Cet art officieux,
-De bien que vous étiez, vous rend quatre fois mieux.
-Mais quel sujet ainsi vous a donc travestie ?
-
--*who_julie
-Ignorant le dessein, ou plutôt la manie
-Du pauvre Chevalier, mon Père, ainsi que moi,
-Fut reçu dans ces lieux, et tu sais bien pourquoi.
-On me fit voir d'abord le fils de la Marquise,
-Comme devant un jour, en épouse soumise,
-Être à lui pour jamais. Tu connais ce qu'il vaut.
-Son mérite, ses moeurs, m'enchaînèrent bientôt
-Il m'était ordonné de l'aimer. Ah, Lisette !
-Comme j'obéissais ! Mais hélas ! Ma défaite,
-Loin de produire en lui le même sentiment,
-Semblait l'en détourner. Juge de mon tourment.
-J'allai cacher mes pleurs dans le sein de sa mère,
-À qui par mille soins j'ai su me rendre chère.
-Son but, en approuvant le penchant que j'ai pris,
-Était de triompher de l'erreur de son fils.
-Vain espoir ! Elle a cru que, par ce stratagème,
-Cet Amant deviendrait la dupe de lui-même.
-Voilà tout le sujet de ce déguisement.
-C'est elle qui le veut, l'amour y consent.
-
--*who_lisette
-Comme vous dégoisez ! Pendant votre silence
-Vous avez amassé ce torrent d'éloquence.
-Il prend fort bien son cours !
-
--*who_julie
-      Il me coûte bien cher.
-
--*who_lisette
-Votre voyage enfin....
-
--*who_julie
-      Est un voyage en l'air.
-
--*who_lisette
-Mais quel est votre but ?
-
--*who_julie
-      Mon unique espérance
-Est de plaire, ou du moins tenter, par mon silence,
-Et ma stupidité , de le pousser à bout,
-De le guérir enfin de son bizarre goût.
-Que j'ai plaint son tourment ! Que j'ai souffert moi-même,
-De ne pouvoir tantôt dire "je vous aime",
-Qu'il m'a tant demandé ! Mon coeur en palpitait.
-Que dis-je ? hélas! tout bas il le lui répétait.
-Qu'il en coûte, en aimant, pour feindre d'être ingrate !
-
--*who_lisette
-Oui. Mais malgré l'espoir dont votre âme se flatte,
-Si Monsieur votre père, entendant peu raison ,
-Prenait mal ce détour ?...
-
--*who_julie
-      Je le connais si bon...
-
--*who_lisette
-Oui, j'en conviens.
-
--*who_julie
-      Il m'aime avec tant de tendresse,
-Que, si quelque succès couronne ma faiblesse,
-Il fera le premier comblé de mon bonheur.
-Mais si le Chevalier, constant dans son erreur,
-Rendait à tous égards ma démarche inutile,
-Alors, Lisette, alors choisissant pour asile
-Le couvent...
-
--*who_lisette
-      Le couvent ! Quoi donc ! Jusqu'à ce point
-Vous poussez le Roman ! Mais vous n'y pensez point.
-Jugez-vous un peu mieux ; faites-vous quelque grâce.
-Si par un coup du sort j'étais à votre place,
-Avec ce que je sais, je vous suis caution ,
-Que plus de vingt seigneurs me feraient bien raison
-De la froideur d'un seul. Ils veulent qu'on les mène ;
-Et de les bien mener, on n'est jamais en peine,
-Lorsque l'on sait tromper.
-
--*who_julie
-      Tromper !
-
--*who_lisette
-      Il le faut bien.
-C'est un remède sûr. On n'en sait jamais rien
-Sans cela.
-
--*who_julie
-      Je ne puis. Allons trouver sa mère.
-Ses conseils guideront tout ce que je dois faire.
-
--*who_lisette
-Le plaisant attirail ! C'est elle, je le vois.
-J'en douterais encor sans le son de sa voix.
-
-**** *book_ *id_I13 *act_I *date_1758
-
--*who_frontin
-Mais que diable, Monsieur ! Quel est donc ce délire ?
-Vous allez, vous venez, vous restez sans rien dire.
-Vous soupirez tout haut, et tout bas vous parlez.
-Vous restez immobile, et vous gesticulez.
-Tenez, ma foi, j'ai peur, et si cela redouble,
-Je n'y pourrai tenir.
-
--*who_lechevalier
       Ah ! Frontin, dans quel trouble
 Je fuis ! Être amoureux, et n'être point aimé,
 Regretter l'autre objet dont j'étais estimé,
@@ -1168,45 +872,18 @@ N'adorer que Zinca, ose plaindre que Julie,
 Dont l'absence cruelle afflige encor ma vie,
 Quel état ! Quel état !
 
--*who_frontin
-      Il faudra le lier.
-Il est vrai que cela me paraît singulier.
-
--*who_lechevalier
 Singulier ! Point du tout. Rien de plus ordinaire ;
 Que de voir parmi nous une jeune étrangère,
 Ignorant le Français.
 
--*who_frontin
-      Il extravague un peu.
-Quelle tête !
-
--*who_lechevalier
       Le sort, de moi, se fait un jeu.
 Toi-même, conçois-tu mon étoile bizarre ?
 Qu'en dis-tu ?
 
--*who_frontin
-      Moi, je dis qu'elle n'est pas si rare ;
-Et j'en ai pour témoin les petites-maisons.
-Dont vous prenez la route.
-
--*who_lechevalier
       Écoute mes raisons.
 
--*who_frontin
-Oui, Monsieur.
-
--*who_lechevalier
       Parle donc, parle donc... Je m'égare.
 
--*who_frontin
-Quoi ! Quoi ! Monsieur ! Eh bien ! Oui, le penchant bizarre
-Qui fait que votre étoile.... est un sort.... du Destin.
-Dont.... Je m'embrouille aussi... De manière qu'enfin...
-Pour trop vous imiter, Monsieur, je déraisonne.
-
--*who_lechevalier
 Ce qui m'arrive ici n'a donc rien qui t'étonne !
 Mets-toi pour un moment à ma place. Comment
 Pourrais-tu supporter un silence assommant ?
@@ -1218,210 +895,70 @@ Je les eusse entendus. L'Amour sert d'interprète:
 Il n'est point d'idiome, à qui ce Dieu ne prête
 La plus forte énergie.
 
--*who_frontin
-      Il est vrai.
-
--*who_lechevalier
       Mais Zinca.
 Ne parle point du tout. Que dis-tu de cela ?
 
--*who_frontin
-Ce que je dis ? Je dis, ou du moins j'imagine
-Avoir entendu dire...
-
--*who_lechevalier
       Eh bien ! Quoi?
 
--*who_frontin
-      Qu'à la Chine!
-À dessein d'empêcher les femmes de courir,
-On leur brisait les pieds, sans pouvoir les guérir,
-
--*who_lechevalier
 Mais quel rapport, dis-moi ?...
 
--*who_frontin
-      Voici ma conséquence.
-Par la même raison, tout uniment je pense
-Que l'on pourrait fort bien aux filles de Québec
-Faire aussi quelque tour, pour leur clore le bec.
-Qu'en perdez-vous, Monsieur ?
-
--*who_lechevalier
       Qu'il faut être imbécile;
 Pour tenir un propos aussi plat qu'inutile !
 Va-t-en.
 
--*who_frontin
-      Vous vous lâchez !
-
--*who_lechevalier
       Sors.
 
--*who_frontin
-      Pourquoi m'en aller ?
-Au diable soit l'amour ! On ne peut plus parler.
-Je m'en fuis.
-
--*who_lechevalier
       Non, Frontin. La raison est fort sage ,
 Et ne me choque plus.
 
--*who_frontin
-      Ah, Monsieur ! quel dommage
-Que vous n'écoutiez pas celle que vous avez !
-
--*who_lechevalier
 Je trouve... que... Zinca...
 
--*who_frontin
-      Eh bien ! Vous lui trouvez ?...
-
--*who_lechevalier
 Avec notre Julie un air de ressemblance.
 
--*who_frontin
-Bon ! Vous n'y pensez pas.
-
--*who_lechevalier
       Quelque faible nuance...
 
--*who_frontin
-C'est le jour et la nuit. Tenez, voici le fait.
-Je crois que votre idée a tout l'air d'un regret,
-
--*who_lechevalier
 Oui ; mais j'aime Zinca. Voilà ce qui me tue.
 
--*who_frontin
-Quel plaisir aurez-vous avec une statue ?
-C'est de l'amour perdu.
-
--*who_lechevalier
       Je voudrais l'étouffer.
 
--*who_frontin
-La Marquise s'avance.
-
--*who_lechevalier
       Elle va triompher.
 
-**** *book_ *id_I14 *act_I *date_1758
-
--*who_lamarquise
-Quoi ! Lorsque tout concourt à remplir votre envie.
-Que tout sert votre coeur, ce même coeur s'oublie,
-Et néglige l'objet dont il est possédé !
-Que veut dire, Monsieur, un pareil procédé ?
-
--*who_lechevalier
 Mais, ma mère, l'amour n'en est pas moins le même,
 Pour n'être pas toujours auprès de ce qu'on aime.
 
--*who_lamarquise
-Quand l'amour est bien vif, il agit autrement.
-
--*who_lechevalier
 On ne se connaît pas toujours parfaitement,
 On fait de vains projets... l'utile expérience
 Vient les anéantir... Ce n'est pas que je pense
 Que Zinca ne pourrait faire un jour mon bonheur.
 Mais la figure seule est bien peu pour un coeur.
 
--*who_frontin
-Sans doute, et je soutiens que dans le mariage
-Il n'est pas suffisant de parler au visage,
-Et que, pour le bonheur de la société,
-Il faut bien que chacun tâche, de son coté,
-D'ajouter...
-
--*who_lamarquise
-      C'est assez ; du reste fais-nous grâce...
-Oui, je conviens, mon fils, que la beauté nous lasse.
-Si ses traits, soutenus des plus vifs agréments,
-Ne savent point servir de cadre aux sentiments.
-
--*who_lechevalier
 Eh ! Voilà ma raison.
 
--*who_lamarquise
-      Sachons par quel augure
-Vous jugez que Zinca n'a que de la figure,
-Et ne possède pas un mérite réel ?
-
--*who_lechevalier
 Oh ! Si je l'entendais il serait naturel
 De croire à son mérite.....
 
--*who_lamarquise
-      Il faut bien, pour l'entendre,
-Qu'elle apprenne à parler français.
-
--*who_lechevalier
       Elle ! L'apprendre !
 Apprendre le français ! Non, Madame, jamais.
 
--*who_lamarquise
-Vous le lui montrerez.
-
--*who_lechevalier
       Pour faire des progrès,
 De ce genre surtout, il faut que l'écolière
 Commence par sentir que l'on cherche à lui plaire,
 Qu'un souris marque au moins sa bonne volonté:
 Mais, pour l'amener là, je suis trop détesté.
 
--*who_lamarquise
-Quel garant, quelle preuve avez-vous de sa haine ?
-
--*who_lechevalier
 Le plaisir qu'elle a pris à jouir de ma peine.
 Je tombe à ses genoux ; mes feux passionnés
 N'exigent qu'un regard. Non ; on me rit au nez.
 
--*who_frontin
-Cela n'est pas poli, je crois.
-
--*who_lamarquise
-      Allez, sa flamme
-Peut-être avec le temps pourra naître...
-
--*who_lechevalier
       Madame ;
 Quand revient donc Julie ?
 
--*who_lamarquise
-      À quel propos, mon fils
-Me parler d'un objet, qui, voyant vos mépris,
-S'en venge, en vous fuyant ? Et j'eusse agi comme elle.
-
--*who_lechevalier
 Qui ? Moi ! La mépriser ! Julie est sage, belle.
 Sa vertu, ses talents ont toujours eu sur moi
 Tous les droits de l'estime, et même...
 
--*who_lamarquise
-      J'aperçois
-Zinca. Songez-y bien ensemble. Je vous laisse :
-N'allez pas désormais réclamer ma faiblesse,
-Je n'en veux plus avoir.
-
--*who_lechevalier
       Mais si Julie...
 
--*who_lamarquise
-      Adieu.
-Elle a rompu. Zinca doit vous en tenir lieu.
-Puisse-t-elle achever de le rendre à lui-même !
-
-**** *book_ *id_I15 *act_I *date_1758
-
--*who_frontin
-Ce Devin, quel qu'il fut, savait fort bien son thème ;
-Car sa prédiction se soutient jusqu'au bout.
-C'est le diable !
-
--*who_lechevalier
       Zinca, tenez-moi lieu de tout.
 Oui, faites que j'oublie, en vous voyant si belle,
 Un Objet qui, depuis son absence cruelle,
@@ -1429,7 +966,6 @@ A laissé dans mon coeur de quoi vous balancer.
 Hélas ! Par vos dédains vous m'y faites penser.
 Ô ma chère Julie ! En vain je vous appelle.
 
--*who_lechevalier
 Quel regard ! Non , Zinca, je vous serai fidèle ;
 Je n'aimerai que vous : je vous en fait serment.
 Ah ! J'ai nommé Julie involontairement.
@@ -1438,141 +974,43 @@ Julie , en m'écoutant, serait peut-être émue.
 Quoi ! Lorsque je suis prêt à la sacrifier.,...
 Quel sacrifice, ô Ciel!
 
--*who_lisette
-      C'est trop l'humilier.
-
--*who_frontin
-Parbleu, Mademoiselle, on a beau sçavoir plaire ;
-On ne plaît qu'à demi, sans un bon caractère.
-
--*who_lechevalier
 Regardez-moi du moins.
 
--*who_lechevalier
       Ingrate, c'en est fait.
 Oui, je renonce à vous.
 
--*who_frontin
-      Bon ! voilà parler net.
-
--*who_lechevalier
 Voilà ce qu'il fallait, pour guérir ma folie...
 Sotte prédiction, tu m'as ravi Julie !
 Jusqu'au fond de mon coeur que ne peut-elle voir ?
 Hélas ! Il n'est plus temps.
 
-**** *book_ *id_I16 *act_I *date_1758
-
--*who_lamarquise
-      Mon Fils, je viens savoir
-Si, relativement au noeud qui vous engage,
-Je pourrai sur Zinca, sur votre mariage ,
-En termes positifs, répondre à ses parents.
-
--*who_lechevalier
 Qui ? Moi ! Me marier !
 
--*who_lamarquise
-      Ce soir je les attends.
-
--*who_lechevalier
 Madame.... On les verra.
 
--*who_lamarquise
-      Quel accueil leur ferai je ?
-
--*who_lechevalier
 Celui que vous voudrez.
 
--*who_lamarquise
-      Enfin que leur dirai-je ?
-
--*who_lechevalier
 Que je suis.... hors de moi.
 
--*who_frontin
-      Tenez , sans tant tourner,
-Madame... ces meilleurs pourront s'en retourner :
-Cette belle, ainsi qu'eux, perdant son étalage,
-On peut leut souhaiter à tous un bon voyage.
-
--*who_dorimont
-Oh ! Oh ! Je savais bien, moi, qu'il n'y tiendrait pas.
-Il a, parbleu, raison. Le premier des appas
-Est..... la langue.
-
--*who_lamarquise
-      Parlez.
-
--*who_dorimont
-      Que voulez-vous qu'il dise ?
-Le voilà dégoûté de cette marchandise,
-Et je l'aurais gagé. Bon ! Rien n'est si trompeur.
-Il m'est arrivé, moi......
-
--*who_lamarquise
-      Permettez-moi, Monsieur ;
-D'interrompre un moment le fil de votre histoire.
-
--*who_lacomtesse
-Était-ce loin d'ici ?
-
--*who_dorimont
-      Si j'ai bonne mémoire...
-C'était...
-
--*who_lamarquise
-      Décidez-vous, mon fils, et promptement.
-
--*who_lechevalier
 Je me repens si fort de mon égarement,
 Et des travers affreux où l'erreur nous entraîne.
 Que j'en reste confus.
 
--*who_dorimont
-      Oh ! C'est ta faute.
-
--*who_lechevalier
       À peine
 J'ose lever les yeux sur Dorimont.
 
--*who_dorimont
-      Pourquoi ?
-
--*who_lechevalier
 Cependant mon bonheur dépend de lui.
 
--*who_dorimont
-      De moi ?
-
--*who_lechevalier
 Hélas ! Si j'ai besoin d'un secours c'est du vôtre ;
 Je suis perdu sans vous.
 
--*who_dorimont
-      En voilà bien d'un autre !
-Eh ! Mais ne crois-tu pas que je vais bonnement
-Partir pour te chercher une femme ?... Comment ?
-Mais je vous dis !... Enfin, sais-tu que ta folie
-Ne me va pas ?...
-
--*who_lechevalier
       Monsieur, il s'agit de Julie.
 Ma mère, appuyez-moi. Je me jette à vos pieds.
 Engagez Dorimont, parlez, pressez , priez...
 
--*who_lamarquise
-Que puis-je faire ?
-
--*who_lechevalier
       Hélas ! Faites donc que j'obtienne
 Ma grâce.
 
--*who_dorimont
-      Crois-tu donc que ma fille aille, vienne,
-Comme cela ? Mais, mais...
-
--*who_lechevalier
       Monsieur, écrivez-lui.
 C'est dans votre bonté que je cherche un appui.
 Votre coeur est trop bon et pour être inexorable.
@@ -1581,46 +1019,11 @@ Qui cause mon amour, mes chagrins, mes remords.
 Donnez-moi le moyen de réparer mes torts.
 Monsieur !
 
--*who_dorimont
-      Ce morveux-là m'arracherait des larmes,
-Si je ne me tenais à quatre... Tu me charmes.
-Va, soit. Mais si ma fille, écoutant la fierté,
-À son tour s'opposait à ta félicité ?...
-
--*who_julie
-Non, mon père, ma main seconde votre envie.
-
--*who_dorimont
-Quoi ! Morbleu, cela parle ?
-
--*who_lamarquise
-      Embrassez-moi, Julie.
-
--*who_lechevalier
 Ô ma chere Julie ! À peine je soutiens
 Cet instant.
 
--*who_lacomtesse
-      Oui, c'est elle ; on la reconnaît bien.
-
--*who_frontin
-Mais, qui diable l'aurait connue à son silence ?
-Même je doute encor...
-
--*who_julie
-      Perdant toute espérance
-De plaire au Chevalier, si, pour flatter son goût,
-Je ne me transformais...
-
--*who_lechevalier
       Hélas ! je vous dois tout.
 
--*who_julie
-Vous ne me devez rien , puisque je suis contente.
-Si le Devin voulait que je fusse inconstante,
-Il faudraît pourtant l'être...
-
--*who_lechevalier
       Ah ! Ne m'accablez pas.
 Mon coeur désabusé ne croit qu'à vos appas.
 Je sens tous vos bienfaits, adorable Julie.
@@ -1628,47 +1031,286 @@ Mon bonheur et la fin de ma bizarre de
 Sont l'ouvrage parfait de votre tendre amour.
 Le mien peut-il jamais vous...
 
--*who_dorimont
-      Me jouer ce tour !
-Point d'hymen, s'il vous plaît. Madame la Marquise,
-On m'en a fait accroire, et l'on vous a surprise.
-Ensemble vengeons-nous.
 
--*who_julie
-      Hélas ! Je meurs d'effroi,
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
--*who_lamarquise
-Et de qui vous venger ? Vengez-vous donc de moi.
-De ce qui s'est passé, seule je suis coupable.
-J'ai tout conduit, Monsieur.
+      Madame, un nommé Brigantin,
+Arrivé, m'a-t-il dit, d'un pays fort lointain,
+Voudrait vous présenter une Canadienne,
+Qu'il dit être jolie.
 
--*who_dorimont
-      Vous êtes admirable !
-Que ne parliez-vous donc ?... Ma fille, embrasse-moi.
-Parbleu, présentement on voit bien que c'est toi.
-Je ne l'ai pas remise. Aussi dans les voyages
-On parle à tant de monde, on voit tant de visages !...
-À propos de visage, ôte ce rouge-là.
-Je veux que tu sois toi... Quand je fus à Goa...
+Elle a de qui tenir.
 
--*who_lamarquise
-Ne peut-on pas ce soir savoir cette aventure ?
+Tais-toi ; ne trouble point sa contemplation.
+La belle est d'un pays où, pour toute éloquence,
+On ne dit rien du tout ; et c'est en conséquence,
+Que ton Maître se forme.
 
--*who_dorimont
-Oui... J'en ajouterai cinquante, je vous jure.
-Moi, quand je n'en sais point, sur le champ je les fais.
+Ses progrès son bien courts.
 
--*who_lamarquise
-Allons, mes chers enfants.... Ma soeur, de tels effets
-Prouvent que les sorciers n'ont rien qui se soutienne.
+      La trouves-tu si belle ?
 
--*who_lacomtesse
-Mais ma nièce à présent est en Canadienne.
+Je m'en flatte, et j'en sais à qui l'on rend les armes.
 
--*who_lamarquise
-A propos de cela, sachant bien que mon fils
-Céderait... Vous allez être au fait du pays ,
-Des fêtes qu'on y donne, et de leurs mariages ;
-Partons. Combien de gens pourraient devenir sages,
-S'ils voulaient concevoir que souvent le bonheur
-Dépend de revenir d'une fatale erreur !
+Je ne dis rien de trop.
+
+      Zing..... Zinca.
+
+Le nom y fait beaucoup !
+
+      Chit, chit !
+
+      Hem!
+
+Moi ! Quêter de l'amour !
+
+Je veux agir pour moi, quand je fais des avances.
+
+      Après vous, que ferais-je ?
+
+      Ma foi,
+Vous le mériteriez. D'homme fort raisonnable»
+Vous voilà devenu le plus impardonnable,
+Pour ne pas dire fou : cela par l'ascendant
+Que prend sur votre coeur un être morfondant,
+Qui n'a pour tout talent que la bégueulerie.
+
+Le voilà bien puni de sa bizarrerie ;
+Et c'est, ma foi, bien fait. Mais quelle fantaisie
+Engage ma Maîtresse à vouloir m'employer
+Auprès de cette idole ? Oh ! Je vais m'ennuyer.
+
+      Juste ciel ! Au secours !
+
+Vous parlez ?
+
+      Eh ! Oui vraiment...
+Mais non... oui... non... si fait. À présent je le gage.
+Voyez comme le rouge accommode un visage !
+Vous n'en mettiez jamais. Cet art officieux,
+De bien que vous étiez, vous rend quatre fois mieux.
+Mais quel sujet ainsi vous a donc travestie ?
+
+Comme vous dégoisez ! Pendant votre silence
+Vous avez amassé ce torrent d'éloquence.
+Il prend fort bien son cours !
+
+Votre voyage enfin....
+
+Mais quel est votre but ?
+
+Oui. Mais malgré l'espoir dont votre âme se flatte,
+Si Monsieur votre père, entendant peu raison ,
+Prenait mal ce détour ?...
+
+Oui, j'en conviens.
+
+      Le couvent ! Quoi donc ! Jusqu'à ce point
+Vous poussez le Roman ! Mais vous n'y pensez point.
+Jugez-vous un peu mieux ; faites-vous quelque grâce.
+Si par un coup du sort j'étais à votre place,
+Avec ce que je sais, je vous suis caution ,
+Que plus de vingt seigneurs me feraient bien raison
+De la froideur d'un seul. Ils veulent qu'on les mène ;
+Et de les bien mener, on n'est jamais en peine,
+Lorsque l'on sait tromper.
+
+      Il le faut bien.
+C'est un remède sûr. On n'en sait jamais rien
+Sans cela.
+
+Le plaisant attirail ! C'est elle, je le vois.
+J'en douterais encor sans le son de sa voix.
+
+      C'est trop l'humilier.
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
+De bonne foi, Monsieur , vous donnez là-dedans ?
+Moi qui n'ai pour esprit que fort peu de bon sens;
+Je ne croirais jamais de telles impostures ;
+Car, tenez, ces diseurs de bonnes aventures
+Finissent toujours mal. S'ils, devinaient enfin ;
+Ils sauraient se prédire une meilleure fin.
+
+      Oui da!
+C'est-à-dire, qu'il faut vous suivre en Canada ?
+Ma foi, votre valet. Qui voudra partir, parte.
+Si j'aime à voyager, ce n'est que sur la carte :
+On y voit sans danger les Indes, le Pérou :
+Mais courir jusques-là ? Je ne fuis pas si fou
+Voir cent originaux, ne connaître personne ;
+Des voleurs en chemin, qui veulent qu'on leur donne
+Habit, bourse, cheval.... Oh ! J'en suis dégoûté.
+Mais du moins sur la Carte on marche en sûreté.
+
+      Elle est fort sage.
+Vous ne vous piquez pas de trop lui ressembler.
+C'est une mère unique.
+
+      Remplissez son attente ;
+Et croyez un peu moins Madame votre tante,
+Qui vous entretenant dans cette vision,
+Vous rendra ce qu'elle est.... Oui... si l'expression
+De folle n'était pas un tant soit peu trop sotte,
+Je risquerais le mot.
+
+      Mais la voici. Filons doux à ses yeux.
+
+      Moi ? Comme un valet fidèle ;
+Je tâchais d'exhorter mon maître à son devoir,
+D'obéir à sa mère.
+
+Ah ! Si les Anciens croyaient aux balivernes,
+Ce goût n'a pas gagné la plupart des Modernes,
+Qui, quoique leurs travers soient partout attestés,
+Ne daignent seulement pas croire aux vérités.
+Les fous ne veulent pas, encor que l'on leur prouve,
+Convenir qu'ils le sont.
+
+C'est que...
+
+      Sans me faite prier,
+Je sors, crainte de voir mal payer ma franchise.
+Mais vous n'y perdrez rien, car voici la Marquise.
+
+Pour peu que ses discours soient semblables aux vôtres,
+Vous n'épuiserez pas la conversation.
+
+Ma foi, tout doucement. Sans aller loin, je crois
+Que l'on pourrait trouver d'aussi jolis minois.
+
+Tu fais tout bonnement les honneurs de tes charmes.
+
+      Parbleu, je le crois bien.
+On en est dispensé, lorsque l'on n'entend rien.
+
+Lui déplaire ! Ho que non ! Mais tenez, mon cher Maître,
+Vous vous y prenez mal. Tiens, Lisette, aide-moi.
+Chit, chit !
+
+      Hem!
+
+      Elle boude ! Ma foi.
+Pour les bons procédés, c'est être trop cruelle.
+
+      Monsieur, le plus joli minois
+N'a jamais eu l'honneur de me braver deux fois.
+Chacun sait ce qu'il vaut.
+
+      Monsieur !
+
+      Que diable lui dirais-je ?
+
+La sagesse... est de trop, Monsieur, en vérité.
+Pour belle, on peut le voir. La physionomie
+Est faite pour cela. Mais l'autre point se nie,
+Faute d'être aperçu.
+
+      À beau mentir qui vient de loin.
+
+Mais que diable, Monsieur ! Quel est donc ce délire ?
+Vous allez, vous venez, vous restez sans rien dire.
+Vous soupirez tout haut, et tout bas vous parlez.
+Vous restez immobile, et vous gesticulez.
+Tenez, ma foi, j'ai peur, et si cela redouble,
+Je n'y pourrai tenir.
+
+      Il faudra le lier.
+Il est vrai que cela me paraît singulier.
+
+      Il extravague un peu.
+Quelle tête !
+
+      Moi, je dis qu'elle n'est pas si rare ;
+Et j'en ai pour témoin les petites-maisons.
+Dont vous prenez la route.
+
+Oui, Monsieur.
+
+Quoi ! Quoi ! Monsieur ! Eh bien ! Oui, le penchant bizarre
+Qui fait que votre étoile.... est un sort.... du Destin.
+Dont.... Je m'embrouille aussi... De manière qu'enfin...
+Pour trop vous imiter, Monsieur, je déraisonne.
+
+      Il est vrai.
+
+Ce que je dis ? Je dis, ou du moins j'imagine
+Avoir entendu dire...
+
+      Qu'à la Chine!
+À dessein d'empêcher les femmes de courir,
+On leur brisait les pieds, sans pouvoir les guérir,
+
+      Voici ma conséquence.
+Par la même raison, tout uniment je pense
+Que l'on pourrait fort bien aux filles de Québec
+Faire aussi quelque tour, pour leur clore le bec.
+Qu'en perdez-vous, Monsieur ?
+
+      Vous vous lâchez !
+
+      Pourquoi m'en aller ?
+Au diable soit l'amour ! On ne peut plus parler.
+Je m'en fuis.
+
+      Ah, Monsieur ! quel dommage
+Que vous n'écoutiez pas celle que vous avez !
+
+      Eh bien ! Vous lui trouvez ?...
+
+Bon ! Vous n'y pensez pas.
+
+C'est le jour et la nuit. Tenez, voici le fait.
+Je crois que votre idée a tout l'air d'un regret,
+
+Quel plaisir aurez-vous avec une statue ?
+C'est de l'amour perdu.
+
+La Marquise s'avance.
+
+Sans doute, et je soutiens que dans le mariage
+Il n'est pas suffisant de parler au visage,
+Et que, pour le bonheur de la société,
+Il faut bien que chacun tâche, de son coté,
+D'ajouter...
+
+Cela n'est pas poli, je crois.
+
+Ce Devin, quel qu'il fut, savait fort bien son thème ;
+Car sa prédiction se soutient jusqu'au bout.
+C'est le diable !
+
+Parbleu, Mademoiselle, on a beau sçavoir plaire ;
+On ne plaît qu'à demi, sans un bon caractère.
+
+      Bon ! voilà parler net.
+
+      Tenez , sans tant tourner,
+Madame... ces meilleurs pourront s'en retourner :
+Cette belle, ainsi qu'eux, perdant son étalage,
+On peut leut souhaiter à tous un bon voyage.
+
+Mais, qui diable l'aurait connue à son silence ?
+Même je doute encor...
+
+
+**** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brigantin
+
+      Madame
+Veut elle se charger...
+
+Cette aimable personne a précédé d'un jour
+Deux parents qu'une affaire appelait à la Cour.
+Peut-être dès ce soir les verrez-vous paraître.
+
+Monsieur, connaissez mieux......
+
+      Madame est la Maitresse :
+Mais je dois l'avertir qu'en vain Monsieur la presse
+De répondre.
+
+      Soit chagrin, soit dégoût,
+Soit accident, Zinca ne parle point du tout.
+

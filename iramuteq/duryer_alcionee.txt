@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1637
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lydie
 
--*who_lydie
 Moi, je pourrais souffrir l'amour d'Alcionée !
 Un amour qui m'outrage, et qui m'a ruinée,
 Qui déclara la guerre à nos prospérités,
@@ -16,15 +15,6 @@ Il cherche mon Amour pour avoir ma Couronne,
 Et c'est l'avoir chéri, c'est l'avoir couronné,
 Que de l'avoir haï sans l'avoir ruiné.
 
--*who_theoxene
-Mais gardez d'irriter ce Guerrier indomptable,
-Que son bras a fait grand et rendu redoutable,
-Qui peut être d'un trône, ou la base, ou l'effroi,
-Et qui pour vaincre tout n'a besoin que de soi :
-Voyez jusqu'où monta le feu de sa colère,
-Et par ce qu'il a fait jugez ce qu'il peut faire.
-
--*who_lydie
 Je sais jusqu'où monta le feu prodigieux
 Qu'on vit sortir des mains de cet audacieux.
 Mais vois jusqu'où l'ingrat sut abaisser mon Père,
@@ -80,35 +70,6 @@ Et par ce qu'il a fait, vois ce que je dois faire.
 Je ne t'ai retracé son crime et mon tourment,
 Que pour te faire voir que je hais justement.
 
--*who_theoxene
-S'il croit que vous l'aimez, et si durant nos craintes
-Son amour abusé s'est nourri de vos feintes,
-Pensez-vous qu'un mépris en tout temps périlleux
-Outrage impunément ce courage orgueilleux ?
-Voyez ce qu'un refus a pu dessus son Âme,
-Combien sur cet État il attira de flamme,
-Et pensez après tout que sur les grands esprits
-Un refus agit moins que ne fait un mépris.
-Ne me soupçonnez pas de prendre sa querelle,
-Et de défendre ici le parti d'un rebelle,
-Ne me soupçonnez pas d'arrêter votre main,
-Quand elle va punir ce courage inhumain,
-Hélas quand je repasse en mes tristes pensées
-Avecques vos malheurs mes misères passées,
-Quand je vois le tombeau qui renferme les miens,
-Quand je vois pour tout bien la cendre de mes biens,
-Et que d'une maison en gloire si féconde
-Je suis seule restée aux traverses du monde,
-Je ne puis me forcer ni retenir ces pleurs
-Que poussent par mes yeux de si fortes douleurs :
-Je souhaite, je veux que votre haine extrême
-Vous porte à la vengeance et me venge moi-même ;
-Mais j'appréhende aussi qu'au lieu de vous venger
-Elle ne vous entraîne en un nouveau danger,
-Quoi qu'après tant de maux, la haine vous inspire
-Dissimuler encor c'est conserver l'Empire.
-
--*who_lydie
 Moi que je dissimule, et que sans m'offenser,
 Je flatte un ennemi, que je puis abaisser !
 Moi que par une feinte en lâchetés insigne
@@ -140,47 +101,15 @@ Et contre ce Géant je serais un Hercule :
 Je me rendrais l'appui de la gloire des Rois,
 Je vengerais le trône ou bien je périrais.
 
--*who_dioclee
-Laissez faire le Roi.
-
--*who_lydie
       Le Roi même autorise
 Ou semble autoriser cette injuste entreprise.
 Un rebelle aime un trône, un Roi l'y veut porter,
 Et lui-même en descend pour l'y faire monter ;
 Ô Dieux ! Le souffrez-vous ?
 
--*who_dioclee
-      Rendez-vous-en certaine
-Devant que de montrer une si juste haine,
-Si d'un si fol amour il s'était détaché
-Votre haine est un feu qu'on doit tenir caché.
-
--*who_lydie
 J'empêcherai du moins en la faisant paraître
 Qu'en ce coeur aveuglé l'amour puisse renaître.
 
--*who_dioclee
-Ce discours généreux, ce noble sentiment
-Montre moins vos transports que votre jugement.
-De moi j'avais pensé qu'un peu d'indifférence
-Pouvait seule étouffer cette haute espérance,
-Et que pour rebuter de superbes esprits
-Une douce froideur peut autant qu'un mépris :
-Cette froideur instruit une âme ambitieuse,
-Mais la haine l'outrage et la rend furieuse,
-Et c'est souvent un trait qui ruine et qui perd
-Et celui qu'on attaque, et celui qui s'en sert.
-Ainsi j'ai toujours cru qu'une haine irritée
-Doit être aux grands desseins la dernière écoutée,
-Et qu'on n'en doit user, qu'en une extrémité
-Où tout autre secours est vainement tenté
-Mais toutes ces raisons sont raisons du vulgaire,
-Vous savez mieux que nous ce que vous devez faire,
-Les Rois comme les Dieux tout-puissants ici-bas
-Ont toujours des clartés que les autres n'ont pas.
-
--*who_lydie
 Non, non, ne pensez pas que ma faiblesse éclate,
 Que la haine m'emporte ou que mon rang me flatte,
 Ni ma condition, ni mon ressentiment
@@ -192,18 +121,8 @@ Coûtât à cet Empire une goutte de sang.
 Tâchez donc de savoir si ce coeur téméraire
 Me considère encore ainsi que son salaire.
 
--*who_dioclee
-Alcire avecques lui traite confidemment,
-Il l'y faut employer.
-
--*who_lydie
       Voyez-le promptement.
 
--*who_dioclee
-Espérez tout Madame, et de ma diligence,
-Et de la part qu'il a dedans sa confidence.
-
--*who_lydie
 Puis sur votre rapport, et dessus votre foi
 Sans plus dissimuler j'irai parler au Roi.
 Que fais-je malheureuse ? Oublierai-je qu'il aime ?
@@ -219,241 +138,6 @@ Ou l'empêchons au moins de régner dans notre âme ;
 Étouffons un amour que l'honneur nous défend,
 Et puisqu'il faut souffrir, souffrons en triomphant.
 
-**** *book_ *id_I02 *act_I *date_1637
-
--*who_alcionee
-Non, non, cette grandeur, ce charme de tant d'âmes,
-N'est pas un aliment, qui nourrisse mes flammes,
-Non, non, ne pense pas que cette passion
-Soit un feu rallumé par mon ambition,
-J'aimai, j'aime Lydie, et cet amour extrême
-Ne lève point les yeux jusqu'à son diadème :
-Elle a dans ses appas tout ce qui m'a tenté,
-Et je crois que le sceptre est la moindre beauté.
-Ainsi cette grandeur qui la rend adorable
-N'est pas une raison qui me la rende aimable,
-Ces grands noms de Princesse, et de fille de Roi,
-Ne sont pas des attraits, ni des charmes pour moi ;
-Elle attend de son Père, un sceptre, une couronne.
-Mais elle n'attend rien que cette main ne donne,
-Mais elle n'attend rien d'un Père couronné,
-Que cette même main n'ait quelquefois donné.
-
--*who_achate
-On sait que votre main heureusement hardie
-A rendu la couronne au Père de Lydie,
-Mais si vous lui rendez un trône redouté,
-Songez que c'est un bien que vous aviez ôté,
-Et qu'on observe ici cette juste maxime
-Que rendre est un devoir, et qu'ôter est un crime.
-On sait de tous côtés qu'après un long effroi
-Vous donnâtes la paix aux prières du Roi ;
-Mais ressouvenez-vous qu'il vous l'a demandée,
-Qu'en glorieux vainqueur vous l'avez accordée,
-Et sachez après tout qu'un Roi n'aime jamais
-Quiconque l'a réduit à demander la paix :
-Pouvez-vous donc encor contre toute apparence
-Avecque votre amour nourrir quelque espérance ?
-
--*who_alcionee
-Que n'espère-t-on pas des promesses d'un Roi ?
-
--*who_achate
-Il s'en peut dispenser, ainsi que d'une loi.
-Il est vrai que le Roi vous promit la Princesse,
-Mais comment ? Et pourquoi fit-il cette promesse ?
-Dans ce gouffre d'horreurs où vous l'aviez jeté
-Fut-ce lui qui promit ou la nécessité ?
-Il voyait l'étranger au sein de ses Provinces,
-Il avait vu couler le sang de tous ses Princes,
-Il voyait sa grandeur, et son Empire à bas,
-Il savait que ses maux venaient de votre bras,
-Et pour ressusciter sa fortune mourante,
-Selon vos passions il vous promis l'infante ;
-Jugez si dans l'excès de cette adversité,
-C'est un Roi qui promet, ou la nécessité.
-Pour voir à votre amour cette Princesse acquise
-Il fallait l'obtenir dès qu'elle fut promise,
-Il fallait mieux conduire un si noble dessein,
-Il fallait l'épouser les armes à la main,
-Et non pas tout d'un coup comme par quelques charmes,
-Contre vos protecteurs tourner vos propres armes,
-Ni repousser des Rois qui vous eussent vengé,
-Si d'un second refus on vous eût outragé.
-
--*who_alcionee
-J'ai montré ma franchise.
-
--*who_achate
-      Et peu d'expérience.
-
--*who_alcionee
-Achate au moins j'ai plu par cette confiance.
-
--*who_achate
-Il fallait plaire moins, et vous assurer mieux.
-
--*who_alcionee
-Je devais obéir à cet arrêt des Dieux :
-Le reste est du destin. Mais j'aperçois Alcire.
-
-**** *book_ *id_I03 *act_I *date_1637
-
--*who_alcire
-Je le trouve à propos, et comme on le désire.
-Vous puis-je dire un mot ?
-
--*who_alcionee
-      Vous le pouvez, sur quoi ?
-
--*who_alcire
-Mais.
-
--*who_alcionee
-      Parler à nous deux ce n'est parler qu'à moi.
-
--*who_alcire
-Empêchez que ces bruits ne courent davantage.
-
--*who_alcionee
-Que dites-vous ? Quels bruits ?
-
--*who_alcire
-      D'amour, de mariage,
-On dit parmi le peuple, on le dit à la Cour
-Que l'infante est l'objet que poursuit votre amour.
-On veut même aveugler le sage Alcionée
-Jusqu'à lui faire attendre un si haut hyménée,
-On veut qu'il ait si peu de générosité,
-Qu'il redemande un bien dont il fut rebuté.
-Songez à faire voir.
-
--*who_alcionee
-      Laisse, laisse tout croire,
-Ne te mêle de rien j'aurai soin de ma gloire.
-
--*who_alcire
-Mais ce bruit déjà grand peut aller jusqu'au Roi.
-
--*who_alcionee
-Le Roi ne saura rien qu'il ne sache de moi.
-Pour obtenir un prix où j'ai droit de prétendre,
-Je veux bien que ce bruit serve à me faire entendre.
-Quoi, n'aimerais-je pas, où l'on me l'a permis ?
-Quoi n'aimerais-je pas où le Roi m'a promis ?
-
--*who_alcire
-Je crois que votre amour est une amour extrême,
-Une fille est aimable avec un diadème ;
-Mais je crains que le Roi, de qui vous vous vantez
-Ne s'oppose lui-même à vos félicités.
-
--*who_alcionee
-La honte d'un refus n'a rien que j'appréhende.
-
--*who_alcire
-On doit l'appréhender tandis que l'on demande.
-
--*who_alcionee
-Mon amour ne voit rien qu'il doive appréhender.
-
--*who_alcire
-Vous voulez donc vous taire, et ne rien demander.
-
--*who_alcionee
-Ne te travaille point d'une peur importune,
-Et laisse à mon amour le soin de ma fortune.
-Alcire le Roi m'aime, et pour tout m'accorder
-Il attend seulement que j'aille demander.
-
--*who_alcire
-Ici de grands hasards précèdent la victoire.
-
--*who_alcionee
-J'aime les grands hasards, qui mènent à la gloire.
-
--*who_alcire
-Mais dans ce haut dessein jusqu'où va votre espoir,
-Un sceptre vous manquant, vous manquez de pouvoir.
-
--*who_alcionee
-Non, je n'ai point d'États, je n'ai point de Couronne
-Que mon Père me laisse, ou que le sort me donne,
-Mais apprend de ce bras, tout malheureux qu'il est,
-Que qui peut en ôter en a quand il lui plaît.
-
--*who_alcire
-Je n'ignorai jamais qu'il n'est point de conquêtes
-Qui ne soient aux grands coeurs toutes prêtes ;
-Le Ciel vous doit aider, il aide aux généreux.
-
--*who_alcionee
-Nous périrons, Alcire, ou nous vivrons heureux.
-
-**** *book_ *id_I04 *act_I *date_1637
-
--*who_alcionee
-Alcire envierait-il le bonheur de ma vie ?
-
--*who_achate
-Je dirais par raison ce qu'il dit par envie ?
-Voyez si son discours peut donner quelque fruit
-Et ne regardez pas au coeur qui l'a produit ;
-Qu'il vienne d'un vrai zèle, ou d'un zèle hypocrite,
-Que nous importe-t-il pourvu qu'il nous profite ?
-Un trésor, un grand bien, n'est pas moins précieux
-Pour venir d'un endroit qui nous est odieux.
-Ici pour votre bien je ne saurais rien feindre,
-Vous espérez beaucoup, mais vous devez plus craindre,
-Je sais bien qu'on attaque, et qu'on blesse un Amant,
-Lors qu'on n'est pas d'accord avec son sentiment,
-Mais je sais bien aussi qu'où le danger éclate
-Bien souvent on le tue à l'instant qu'on le flatte.
-Voyant donc maintenant où va votre transport,
-J'aime mieux vous blesser que vous donner la mort.
-Songez encor un coup qu'un Prince magnanime,
-Fut de vos passions l'effroyable victime,
-Songez encor un coup qu'un Monarque offensé
-A vu par vos fureurs son trône renversé ;
-Et pensez après tout qu'à ce Monarque même
-Vous allez demander plus que son diadème.
-Enfin s'il vous refuse.
-
--*who_alcionee
-      On me traitera mieux,
-Laisse-moi pour le moins cet espoir glorieux.
-
--*who_achate
-Vous ne songez donc pas que par un sort étrange
-Vous n'avez plus d'amis dont le coeur ne se change ;
-Qui vous aima, vous hait ; un sort injurieux
-Convertit vos amis en autant d'envieux.
-Quiconque vous aida s'efforce de vous nuire,
-Où l'on vous élevait, on tâche à vous détruire,
-Et de la même main qui vous rendit vainqueur
-Je vois sortir le trait qui vous perce le coeur.
-
--*who_alcionee
-Que des amis ingrats montrent leur perfidie,
-Achate il me suffit d'être aimé de Lydie.
-Serais-je sans ardeur, où tout est enflammé ?
-Et n'aimerais-je pas où je me vois aimé ?
-
--*who_achate
-Si l'État, si le Prince, à votre amour s'oppose,
-Qui pourra près de lui soutenir votre cause ?
-
--*who_alcionee
-Mes grandes actions, mon courage, et ma foi
-Seront les vrais amis qui parleront pour moi.
-
-**** *book_ *id_II01 *act_II *date_1637
-
--*who_leroi
-Vois ma fille, est-ce à moi que votre âme contrainte,
-Doit cacher si longtemps la cause de sa plainte.
-
--*who_lydie
 Que ne pouvez-vous voir sur mon front pâlissant
 Le funeste sujet d'un trouble si puissant,
 Pour le moins mon silence, aujourd'hui nécessaire
@@ -529,349 +213,8 @@ Pardonnez mon transport qui va jusqu'à l'audace,
 Il combat seulement contre vos ennemis,
 Et je crois qu'étant juste il est aussi permis.
 
--*who_leroi
-Je sais qu'en votre coeur la haine est légitime,
-Que par elle pour moi votre zèle s'exprime,
-Et que je dois aimer ce noble mouvement
-Tout contraire qu'il est à notre sentiment :
-Mais celle qui prétend au rang de Souveraine
-Doit plus songer aux siens qu'à contenter sa haine,
-Et si sa passion ne peut aider l'État,
-Elle doit l'étouffer ainsi qu'un attentat.
-Il est vrai qu'autrefois cette terre étonnée
-Entre ses ennemis comptait Alcionée,
-Et que durant ce temps un courage si haut
-Ne semblait mériter qu'un infâme échafaud ;
-Mais depuis que chez nous mes soins le ramenèrent,
-Et que pour cet État les siens se rallumèrent,
-Quelques grands châtiments qu'il ait pu mériter,
-Ses grandes actions ont su l'en racheter.
-Ce n'est pas toutefois que j'approuve une audace,
-Qui pourrait justement lui causer sa disgrâce,
-Et je ne puis penser qu'un téméraire amour
-Le rende une autre fois la fable de ma Cour.
-
--*who_lydie
 C'est toutefois un bruit qu'il confirme lui-même.
 
--*who_leroi
-On vous trompe, ma fille, et je sais ce qu'il aime.
-Il aime cet État, non pour le posséder,
-Mais afin que son bras vous le puisse garder ;
-Et quoi qu'il entreprenne, et quoi que l'on en pense,
-La gloire est son amour, comme sa récompense.
-Toutefois s'il est vrai, qu'au mépris de mes lois
-Un ridicule amour l'aveugle une autre fois,
-Je lui ferai sentir qu'il est un téméraire,
-Que c'est par cet amour qu'il a su me déplaire,
-Et qu'il est rare enfin qu'une témérité
-Réussisse deux fois avec impunité.
-Allez, ma fille, allez ; Alcire, et Callisthène
-M'en viennent apporter la nouvelle certaine,
-Ils ont ordre de moi d'observer ses discours,
-Ses desseins, son espoir, sa haine, ses amours.
-
-**** *book_ *id_II02 *act_II *date_1637
-
--*who_leroi
-Cette âme est-elle encor en son mal obstinée ?
-Enfin a-t-on pu voir où tend Alcionée ?
-
--*who_callisthene
-Sire, il tend à l'Empire, et n'a point de dessein
-Qui ne promette un sceptre à sa superbe main,
-Pourrait-il aspirer jusqu'à votre alliance
-Sans aspirer aussi jusqu'à votre puissance ?
-Vos Royales faveurs ont fait sa vanité,
-Et sont les aliments de sa témérité.
-
--*who_leroi
-Il nourrirait des feux illégitimes !
-Donc le pardon d'un crime, augmenterait ses crimes !
-Et son ambition m'oserait menacer,
-Quand j'ai la foudre en main toute prête à lancer !
-Non, non, je ne crois pas que cette âme indomptée,
-Soit jusqu'à cet orgueil une autrefois montée,
-Depuis qu'il est entré dans mon affection,
-Son devoir sert de règle à son ambition.
-Les services qu'il rend nous doivent faire croire,
-Qu'il fait de son devoir son plaisir et sa gloire,
-Et quand je vois les biens, qu'il apporte à l'État
-Je pense avoir songé son premier attentat.
-Mais quand il aimerait en serait-il coupable ?
-Pour estimer Lydie en est-il condamnable ?
-Et contre ce grand coeur dois-je armer mon pouvoir
-S'il veut de contenter d'un amour sans espoir ?
-
--*who_alcire
-Non, Sire, c'est en fin sa moindre récompense
-D'avoir la liberté d'aimer sans espérance ;
-Mais l'amour nous aveugle, et contre tout devoir
-Quiconque a de l'amour a bientôt de l'espoir.
-Je suis certes fâché, qu'un si noble courage
-À sa confusion en rende témoignage,
-Je souffre de sa faute, et ce m'est un tourment
-D'accuser un ami de cet aveuglement ;
-Mais de peur que ce mal qui peut faire un rebelle
-N'étende plus avant sa racine mortelle,
-Je dois le découvrir, et crois qu'il est permis
-Pour bien servir son Roi d'oublier ses amis.
-Il aime donc l'infante, il l'adore, il l'espère,
-Et malgré nos Raisons son amour persévère ;
-Il s'est même vanté que pour la posséder
-Il ne lui coûtera que de la demander.
-Et quand j'ai combattu cette haute arrogance,
-Quand je dis qu'un État manquait à sa naissance,
-Les sceptres, m'a-t-il dit, sont au-dessous de moi,
-Et qui peut en ôter est au-dessus d'un Roi.
-Jugez si ce discours est l'image d'une âme,
-Qu'un destin vertueux puisse exempter de blâme,
-Qui fasse de vos lois tous ses contentements,
-Et de qui le devoir règle les mouvements.
-Il s'élève, il s'enflamme, il menace, il dédaigne,
-Cependant qu'il espère il veut que l'on le craigne,
-Et sa présomption est un signe apparent,
-Qu'il aime le forfait, qui peut le faire grand.
-
--*who_leroi
-Il veut donc me forcer d'user de ma puissance,
-D'un amour odieux il passe à l'insolence,
-Et croit peut-être encore à ma confusion,
-Passer de l'insolence à la rébellion.
-Il ne se souvient plus que l'horreur de son crime,
-Peut rendre contre lui tout excès légitime ;
-Il ne se souvient plus, cet esprit insensé,
-Qu'au lieu de le punir je l'ai récompensé,
-Donc ma bonté l'aveugle, et fomente en son âme
-Tout ce qui me déplaît, et tout ce que je blâme.
-Ha qu'un Roi trop clément se prépare d'ennui !
-Que le pardon qu'il donne est dangereux pour lui !
-Que la clémence même est souvent criminelle
-Quand elle efface un crime, et pardonne au rebelle !
-Mais qu'il aime, qu'il aime, et fasse des forfaits
-Autant que son amour peut faire de souhaits,
-Si j'ai pu l'élever, je saurai bien l'instruire
-Que le même pouvoir sait bâtir et détruire.
-
--*who_alcire
-Le voici.
-
--*who_leroi
-      Qu'il approche, il le faut écouter,
-Et s'il va trop avant, nous saurons l'arrêter.
-
-**** *book_ *id_II03 *act_II *date_1637
-
--*who_alcionee
-Comblé de vos faveurs je sais bien que l'envie
-Attaque également et ma gloire et ma vie,
-Et sachant le pouvoir et les injustes droits
-Que ce pâle Démon usurpe auprès des Rois,
-Je craindrais d'approcher de ce trône adorable,
-S'il n'était occupé par un Prince équitable.
-Ainsi votre justice est le bras glorieux,
-Qui soutient mon parti contre mes envieux,
-Elle rend à mon coeur sa première assurance,
-Elle chasse la peur d'avec mon espérance,
-Et me permet encor de m'approcher de vous,
-Avec ce même espoir qui fait tant de jaloux.
-Pourquoi craindrais-je aussi que leur main triomphante
-Dérobât à mes voeux une si belle infante ?
-Vous me l'avez promise ; et s'il est vrai qu'un Roi
-Se fait de sa parole une puissante loi,
-Que n'attendrais-je pas du Roi le plus auguste,
-Qui joigne à sa grandeur le beau titre de juste ?
-Donc si mes ennemis condamnent mon espoir
-Et pour le ruiner assemblent leur pouvoir,
-Je n'opposerai rien contre leur violence,
-Votre seule promesse est ici ma défense,
-Je dirai seulement s'ils osent murmurer,
-Un grand Roi qui promet, commande d'espérer.
-Ainsi j'espérerai malgré ces âmes basses,
-Qui fondent leurs plaisirs sur nos seules disgrâces,
-Et pour confondre enfin de si grands ennemis,
-Je dirai seulement que mon Roi m'a promis.
-
--*who_leroi
-Soyez en vos desseins plus juste et plus modeste,
-Quand l'espoir est trop haut, il est souvent funeste.
-Écoutez-vous encore un amour furieux
-Qui vous nuit, qui vous perd, qui vous rend odieux ?
-Voulez-vous mon État ? Voulez-vous ma Couronne ?
-N'êtes-vous pas content du rang que je vous donne ?
-C'est là que vos désirs se doivent arrêter,
-Et passer plus avant c'est vous précipiter.
-J'ai de votre grandeur élevé l'édifice,
-Gardez que votre amour n'en soit le précipice,
-Qu'il n'éloigne de vous et mon coeur et mes soins,
-Et qu'espérant trop vous ne possédiez moins.
-Me demander ma fille ! Ha, c'est trop entreprendre,
-Et trop peu l'estimer que d'oser y prétendre.
-
--*who_alcionee
-Je sais bien que mon sort n'eut jamais de clarté
-Qui ne fut un rayon de votre Majesté ;
-Je sais bien que des Cieux la puissance fatale
-Rend à votre Grandeur ma fortune inégale ;
-Je sais bien que Lydie est assise en un rang,
-Où n'arriva jamais personne de mon sang :
-Mais depuis cet instant qu'une sainte promesse,
-Permit à mon amour d'espérer la Princesse,
-Je crois sans m'éblouir regarder ce Soleil,
-Et par votre promesse être fait son pareil.
-
--*who_leroi
-Songez-vous sans horreur à des jours si funèbres,
-Que vos seuls attentats couvrirent de ténèbres ?
-Et pouvez-vous penser que je vous ai promis,
-Sans penser aux forfaits que vous avez commis ?
-Sans craindre en même temps l'effroyable justice,
-Qui doit aux attentats l'exemple du supplice ?
-Ne vous souvient-il plus des désordres passés ?
-Ne vous souvient-il plus de les avoir causés ?
-Osez-vous demander le loyer d'un outrage ?
-Et pensez-vous qu'on doive où la contrainte engage ?
-Par vos lâches desseins accablé d'ennemis,
-Et craignant pour mon peuple, il est vrai, j'ai promis,
-Mais de cette promesse autrefois nécessaire,
-N'attendez point d'effet qui ne vous soit contraire ;
-Pour le bien de l'État ayant su l'avancer,
-Pour le bien de l'État je puis m'en dispenser.
-Changez donc en respect des flammes insensées,
-Que cette ambition sorte de vos pensées ;
-Enfin n'espérez plus, les trônes sont des Cieux
-Où ne doivent monter que des Rois ou des Dieux.
-
--*who_alcionee
-S'il faut par des États mériter la Princesse,
-Le Soleil n'en voit point, où mon bras ne s'adresse.
-Cet oeil qui voit partout, n'en voit point de si forts
-Où vos commandements ne portent mes efforts,
-Et d'où malgré le sort mes armes fortunées
-N'amènent en vos fers des têtes couronnées.
-Pourvu que m'élevant entre les Potentats,
-Sous mon autorité je range des États,
-Pourvu qu'à mon destin je joigne une couronne,
-Qu'importe que mon Père ou ma main me la donne ?
-Animez donc ce coeur, commandez que ce bras
-Ou pour vous ou pour moi conquête des États,
-Et lors je donnerai de glorieuses marques,
-Que qui peut en gagner est du sang des Monarques,
-Se mettre au rang des Rois, ne le devoir qu'à soi
-N'est pas moins glorieux que de sortir d'un Roi.
-
--*who_leroi
-J'estime comme vous une âme non commune
-Qui tient de sa vertu des dons de la fortune,
-Et je ne doute point que vos puissantes mains
-Ne changent en effets vos illustres desseins :
-Mais quoi que vous puissiez, des victoires si grandes
-Devaient pour votre bien précéder vos demandes.
-Apprenez toutefois qu'à mon coeur, qu'à mes yeux
-Un État usurpé n'est qu'un bien odieux.
-Votre bras dites-vous gagnera la Couronne,
-Mais peut-elle être à nous quand le crime la donne ?
-Un téméraire amour vous donne-t-il des droits,
-Sur les successions des légitimes Rois ?
-Vous est-ce une raison de troubler des Provinces,
-D'attaquer sans respect la majesté des Princes,
-Et de porter les mains sur une autorité,
-Où vous ne montreriez que par la cruauté ?
-Quoi d'amant trop aveugle et peut-être coupable
-Vous vous rendrez encor conquérant détestable ?
-Non, non, ne pensez pas qu'en ce dérèglement,
-J'aime un usurpateur plus qu'un aveugle Amant.
-
--*who_alcionee
-Hé bien, j'irai chercher ces Rois illégitimes,
-Dont la fière grandeur est l'effet de leurs crimes,
-Et que mille attentats cruellement commis
-Rendent des autres Rois les communs ennemis.
-Ainsi ne m'attaquant qu'à de coupables têtes,
-Je ne puis obtenir que de justes conquêtes ;
-Et si chacun a droit de chasser les Tyrans
-Aurai-je un rang injuste entre les conquérants ?
-
--*who_leroi
-Quand vous seriez vainqueurs d'autant de Tyrannies
-Qu'en peuvent enfanter de brutales manies,
-Quand par l'heureux effort de vos seules vertus
-On verrait sous vos pieds cent Tyrans abattus,
-Si l'esprit de Lydie à vos voeux est contraire
-Devez-vous souhaiter un si triste salaire ?
-Et quand à votre amour on la destinerait,
-Pourriez-vous rechercher un coeur qui vous fuirait ?
-
--*who_alcionee
-Que ne m'est-il permis après votre promesse,
-De choisir pour mon juge une grande Princesse,
-Que n'y consentez-vous, que n'êtes-vous d'accord
-Qu'elle soit aujourd'hui l'arbitre de mon sort.
-
--*who_leroi
-Après mille faveurs qui passent votre attente
-Dont l'ambition même aurait été contente,
-Voyez l'infante, allez, sachez son sentiment
-Ici je me soumets à son consentement.
-Êtes-vous satisfait croyez-vous qu'on vous aime ?
-
--*who_alcionee
-J'ai tout ce que je veux, mon bonheur est extrême.
-Amour tantôt propice, et tantôt rigoureux,
-Est-il sous ton Empire un Amant plus heureux.
-Si je suis ton captif, mon servage m'honore,
-Une Princesse m'aime, autant que je l'adore.
-Et puis-je désormais espérer vainement,
-Si mon bonheur consiste en son consentement ?
-
-**** *book_ *id_II04 *act_II *date_1637
-
--*who_alcire
-C'est par cette action qu'un si sage Monarque
-Donne de sa justice une éternelle marque ;
-C'est par le successeur qu'il se veut désigner,
-Qu'il se montre aujourd'hui plus digne de régner.
-Mais à quelque degré de grandeur et d'estime
-Où vous puisse porter un Roi si magnanime,
-Sa Justice seconde en mille heureux effets
-Vous y mettra plus tard que n'ont fait vos souhaits.
-
--*who_alcionee
-Je n'ai jamais douté de cette pure flamme
-Que mes seuls intérêts allument dans votre âme ;
-Je sais que vos esprits généreux et constants,
-Ne peuvent s'infecter par les vices du temps :
-Aussi ne fais-je état de ma bonne fortune,
-Que pour la voir un jour avecques vous commune,
-Et lors que mon destin cesse de me troubler,
-Je ne veux des bienfaits que pour vous en combler.
-Mais ma prospérité n'est pas tant affermie,
-Qu'elle ne craigne encore une atteinte ennemie,
-Je trouve auprès des Rois chaque instant hasardeux,
-Et c'est bien s'assurer que de craindre auprès d'eux.
-J'ai donc besoin d'amis, de qui la main puissante
-Soutienne auprès du Roi ma fortune naissante,
-Et je les trouve en vous, ces amis généreux,
-Dont la seule amitié pourrait me rendre heureux.
-
--*who_callisthene
-Que redouteriez-vous ?
-
--*who_alcionee
-      Cette maudite envie,
-Qui s'attaque toujours à la plus belle vie.
-
--*who_alcire
-Que ce monstre paraisse, en fin nous ferons voir
-Que la vraie amitié n'est jamais sans pouvoir :
-Espérez tout de nous, et selon votre attente.
-
--*who_alcionee
-Revoyez donc le Roi, moi je verrai l'Infante.
-
-**** *book_ *id_III01 *act_III *date_1637
-
--*who_lydie
 
 
 Qu'ai-je fait, qu'ai-je résolu ?
@@ -919,45 +262,15 @@ Ici mon amour est un crime,
 Et ma haine est une vertu.
 Ô Dieux qui connaissez.
 
-**** *book_ *id_III02 *act_III *date_1637
-
--*who_dioclee
-      Madame, Alcionée
-Demande à vous parler.
-
--*who_lydie
       Ha que je suis gênée !
 Qu'il entre toutefois.
 
--*who_dioclee
-      C'est de la part du Roi.
-
--*who_lydie
 Qu'il entre. Que ferai-je ? Ô Dieux inspirez-moi,
 J'espère en votre appui, je crains en ma faiblesse,
 Ne m'abandonnez point
 
-**** *book_ *id_III03 *act_III *date_1637
-
--*who_alcionee
-      Enfin, belle Princesse,
-À tant de tristes jours, de peine et de tourment,
-Je verrai succéder un bienheureux moment.
-Si j'ai dit jusqu'ici, j'aime, je persévère,
-Aujourd'hui plus heureux, je puis dire, j'espère.
-
--*who_lydie
 Comment ?
 
--*who_alcionee
-      Le Roi consent à mes félicités,
-Et je dois être heureux si vous y consentez.
-Il promet à mes voeux une divine Infante,
-Mais pour me la donner il veut qu'elle y consente :
-Aussi pour augmenter les biens que je reçois,
-Il veut que ce soit vous, qui vous donniez à moi.
-
--*who_lydie
 Je ne suis pas à moi, pour me donner moi-même,
 Je dépends d'un pouvoir légitime et suprême :
 Mais si le Roi consent à vos félicités,
@@ -967,22 +280,8 @@ Qu'il me rende sujette, ou qu'il me fasse Reine,
 On me verra contente, et sans lui résister
 D'un pas indifférent, ou descendre ou monter.
 
--*who_alcionee
-Que vous chassez de maux avec une parole !
-Qu'elle brise de fers ! Et qu'elle me console !
-Croirais-je injustement qu'un bien si précieux
-Jusques dedans le Ciel me fait des envieux ?
-Enfin vous consentez.
-
--*who_lydie
       J'obéis, c'est tout dire.
 
--*who_alcionee
-Que de nouveaux plaisirs vont suivre mon martyre,
-Et que vous ajoutez à mon contentement,
-Si votre obéissance est un consentement !
-
--*who_lydie
 Pourvu que votre amour si longtemps condamnée,
 Après tant de travaux soit enfin couronnée,
 Pourvu qu'à votre espoir succèdent des effets
@@ -990,23 +289,9 @@ Favorables, heureux, et selon vos souhaits,
 Qu'importe à vos plaisirs qui leur donne naissance,
 Ou mon consentement, ou mon obéissance.
 
--*who_alcionee
-Par le consentement notre amour se fait voir,
-Et par l'obéissance on montre son devoir.
-L'un est libre et sans fard, l'autre est souvent forcée,
-Et souvent un effet contraire à la pensée.
-Toutefois il n'importe, et j'aime heureusement
-Si l'on vous voit au moins obéir librement.
-Mais que dirai-je au Roi ?
-
--*who_lydie
       Qu'il fasse, qu'il projette,
 Qu'il est Roi, qu'il est père, et que je suis sujette.
 
--*who_alcionee
-Je vais le voir, Madame.
-
--*who_lydie
       Allez. Qu'en croirons-nous ?
 Le Roi (nous a-t-il dit) plus facile et plus doux,
 Consent à son Amour ! Ô Dieux quelle nouvelle !
@@ -1025,30 +310,10 @@ Hélas ! Que de combats se donnent dans mon âme !
 Que j'y porte de fers, que j'y porte de flamme !
 Que le repos est loin de mes sens agités !
 
-**** *book_ *id_III04 *act_III *date_1637
-
--*who_dioclee
-Voici le Roi qui vient.
-
--*who_leroi
-      N'entrez pas, vous sortez.
-Vous est-il venu voir ?
-
--*who_lydie
       Qui Sire ?
 
--*who_leroi
-      Alcionée.
-
--*who_lydie
 Il sort.
 
--*who_leroi
-      À son amour il vous croit destinée,
-Et je ne doute point que vous n'ayez fait voir
-Ce que peuvent sur nous l'honneur et le devoir.
-
--*who_lydie
 Sire, vos volontés, contraires ou propices
 Feront incessamment mes lois et mes délices ;
 C'est en obéissant que je crois faire voir
@@ -1058,48 +323,18 @@ Et moi sans murmurer j'obéis à mon père ;
 Ne croyant pas faillir d'observer une Loi,
 Qu'on me fait recevoir et d'un père et d'un Roi.
 
--*who_leroi
-Comment ! Que dites-vous ? Et que pensez-vous faire ?
-
--*who_lydie
 Suivre vos volontés, obéir, et vous plaire.
 
--*who_leroi
-Me Plaire ! En écoutant des amours détestés.
-
--*who_lydie
 Je dois les écouter, si vous les écoutez.
 
--*who_leroi
-Oublierez-vous le rang où vous met la Couronne ?
-
--*who_lydie
 Je pourrai l'oublier, si mon Roi me l'ordonne.
 
--*who_leroi
-Moi je consentirais à ces indignités !
-
--*who_lydie
 Moi j'y consentirai, si vous y consentez.
 Sire, m'éprouvez-vous ? Et croyez-vous encore
 Qu'obéir sans murmure est un art que j'ignore ?
 
--*who_leroi
-Non, non, mais pour un Trône un sujet est trop bas,
-Vous devez le savoir.
-
--*who_lydie
       Ne consentez-vous pas.
 
--*who_leroi
-Oui, j'ai pu consentir qu'un sujet téméraire,
-Et digne d'un supplice, espérât un salaire,
-Mais si j'ai consenti, je l'ai fait seulement
-Pour vous voir résister à ce consentement :
-J'attendais cet effet de cette noble haine
-Qui vous rendait pour lui justement inhumaine.
-
--*who_lydie
 Ce grand et juste effet vous aurait contenté,
 Si j'eusse en ce dessein suivi ma volonté.
 Donnez-moi seulement le pouvoir de combattre,
@@ -1107,15 +342,6 @@ Je n'ai rien élevé que je ne puisse abattre,
 Et ma seule rigueur paraissant à son tour
 Détruira d'un seul trait et l'Amant et l'Amour.
 
--*who_leroi
-Je vous donne sur vous une entière puissance,
-Je vous dispense encor de votre obéissance,
-Et j'aime mieux vous voir résister noblement
-Que de vous voir enfin obéir lâchement !
-Faites votre devoir, montrez-vous Souveraine,
-Songer qu'il est sujet, et que vous êtes Reine.
-
--*who_lydie
 Ne délibérons plus, et sans autre propos
 Donnons tout à la gloire, et rien à mon repos.
 Contentons aujourd'hui l'orgueil d'un Diadème
@@ -1127,44 +353,20 @@ Montrons-nous malgré nous indigne d'être aimée.
 Faisons-nous un destin plein d'horreur et d'effroi,
 Mais voici cet Amant.
 
-**** *book_ *id_III05 *act_III *date_1637
-
--*who_lydie
       Avez-vous vu le Roi ?
 
--*who_alcionee
-On le croyait ici ; j'y revenais Madame,
-Pour lui voir confirmer le repos de mon âme.
-Vous pouvez cependant étouffer mes soupirs,
-Vous savez ses desseins, vous savez ses désirs,
-Il vous donne un pouvoir qui vous rend Souveraine,
-Donnez donc un Arrêt qui finisse ma peine.
-
--*who_lydie
 Savez-vous que ce coeur est juste et généreux ?
 
--*who_alcionee
-C'est ce qui me doit mettre au rang des plus heureux.
-
--*who_lydie
 C'est ce qui doit apprendre aux armes téméraires,
 Que de trop grands desseins leur sont toujours contraires.
 Craignez, craignez enfin, un pouvoir absolu :
 N'aimez plus, croyez-moi.
 
--*who_alcionee
-      Qu'avez-vous donc résolu ?
-
--*who_lydie
 Désirez-vous savoir ce que j'ai dû résoudre ?
 Regardez cet État, mis en feu, mis en poudre,
 Voyez nos maux passés, voyez vos actions,
 Et vous saurez alors mes résolutions.
 
--*who_alcionee
-À ce nouveau discours, je ne puis rien comprendre.
-
--*who_lydie
 Consultez vos forfaits, ils me feront entendre.
 Celui qui de mon Trône a voulu me chasser
 Demande insolemment que j'aille l'y placer !
@@ -1173,13 +375,6 @@ Si je dois de l'Amour à ces marques de haine ;
 Et s'il est juste enfin, après tant de travaux
 De donner ma Couronne à l'auteur de mes maux.
 
--*who_alcionee
-N'êtes-vous pas encor cette Princesse même
-Qui permit l'espérance à mon Amour extrême ?
-N'êtes-vous pas encor cette Divinité
-Qui semblait me conduire à la félicité ?
-
--*who_lydie
 N'êtes-vous pas encor ce même Alcionée
 Qui fit trembler un Trône où je suis destinée ?
 N'êtes-vous pas encor ce ravisseur d'États,
@@ -1193,11 +388,6 @@ Cessez d'avoir été le traître Alcionée,
 Voulez-vous plaire enfin, à mon oeil offensé ?
 Faites plus que les Dieux, révoquez le passé.
 
--*who_alcionee
-En quel gouffre de maux est mon Âme plongée ?
-Ô Dieux, quel changement !
-
--*who_lydie
       Je ne suis point changée.
 La haine est dans mon coeur un vieux ressentiment,
 De qui vos attentats sont le commencement.
@@ -1208,7 +398,647 @@ Vous montre seulement, un feu qu'il a couvert.
 Il est vrai que j'ai feint, mais il est équitable
 De feindre quelquefois pour punir un coupable.
 
--*who_alcionee
+Je sais que le remords succédant à vos crimes
+A tiré de vos mains cent exploits magnanimes ;
+Je sais qu'un repentir vous remit à la Cour ;
+Mais pour un repentir vous dois-je de l'amour ?
+Qu'avez-vous fait de grand que vous n'ayez du faire,
+Et qu'on n'ait reconnu par un plus grand salaire ?
+Vous étouffez les feux qui nous ont consumés,
+Mais vos seules fureurs les avaient allumés ;
+D'une plus douce main vous essuyez nos larmes,
+Mais elles ont été des effets de vos armes ;
+Vous avez repoussé nos ennemis jurés,
+Mais vos seuls attentats les avaient attirés.
+Donc si vous dissipez ces mortelles tempêtes
+Que votre ambition fit tonner sur nos têtes ;
+Donc si vous relevez ce que vous fîtes choir
+Après tant de forfaits, ce fut votre devoir.
+Mais enfin s'il est vrai, que vos soins plus fidèles
+Rendent à cet État mille beautés nouvelles ;
+Si par vos seuls efforts on voit même des Rois
+Soumis à notre Empire en attendre des Lois ;
+Si vous avez rendu cet État redoutable ;
+Si vous en avez fait un Empire indomptable ;
+Bref si vos actions ont assuré ces lieux
+Même contre les traits que décochent les Dieux,
+Après votre révolte, horrible et sans exemple
+Le pardon qu'on vous donne est un prix assez ample.
+
+Chassez de votre esprit cette espérance vaine
+Qui nourrit votre mal aussi bien que ma haine,
+Et croyez que les Rois promettent vainement
+Quand les Dieux-Rois des Rois résolvent autrement.
+Mais ne vous vantez point que ce coeur plus sensible
+Ne fut pas à vos voeux toujours inaccessible :
+Oui, devant que le crime eut noirci le renom
+Qu'une vertu trompeuse acquit à votre nom,
+Ce mérite apparent qui vous rendit aimable
+Vous rendit à mon âme un objet désirable ;
+Mais si je vous aimai, ce m'est un châtiment
+De connaître aujourd'hui que j'aimai lâchement.
+Votre rébellion fut grande et redoutable,
+Mais j'apprends aujourd'hui qu'elle m'est profitable,
+Puisque après des combats, si longs et si douteux
+Elle me sert à vaincre un amour si honteux.
+
+Hélas !
+
+      Hélas te faut-il dire
+Mes troubles, mes transports, ma honte et mon martyre ?
+Te faut-il faire voir l'inconstance d'un coeur
+Vaincu dans le moment qu'il croit être vainqueur ?
+
+Je ne sais, je ne sais ; mais j'ai de la pitié.
+Je n'ai pu voir languir cet Amant déplorable
+Sous le faix outrageux de l'ennui qui l'accable,
+Non je n'ai pu le voir soumis aux pieds du Roi,
+Sans douleur, sans regret, sans trouble, sans effroi.
+Son crime est à l'instant sorti de ma mémoire
+Pour y laisser régner son courage et sa gloire,
+Et j'ai secrètement parlé contre les Dieux
+Qui ne l'ont pas tiré d'un sang plus glorieux.
+Appelle ce transport, Amour, pitié, tendresse.
+C'est celui que je sens, c'est celui qui me presse,
+Et je confesse enfin que j'ai des sentiments
+Qui passent la pitié qu'on a pour les Amants.
+Toi qui connus mes feux et mon premier martyre,
+Qui sus combien j'aimai, mais j'aperçois Alcire.
+
+Que voulez-vous ?
+
+Pensez-vous que le Roi manque d'expérience ?
+Qu'il ignore des Rois la sublime science ?
+Et qu'il soit moins instruit à prévoir le danger
+Que prompt et diligent à nous en dégager ?
+Croire que d'un grand Roi la prudence sommeille
+Quand il faut qu'elle agisse, et qu'il faut qu'elle veille,
+C'est lui faire une injure, et la faire à la fois
+À cet esprit divin qui conseille les Rois.
+
+Cet esprit Tout-puissant, ce grand appui d'un Roi
+Pour les persuader n'a besoin que de soi.
+
+Elle s'irrite en vain quand la force la quitte.
+
+Elle périt enfin par sa témérité.
+
+Le Tonnerre est tombé ; la crainte est superflue.
+
+Il ne semble allumé qu'à celui qui le craint.
+
+Une peur mal fondée est la honte des Princes.
+
+Il est juste pour ceux qui craignent aisément.
+Mais souffrez que le Roi sans l'aide de personne
+Pour le moins aujourd'hui soutienne sa Couronne,
+Et qu'il lui soit permis de montrer une fois
+Qu'il sait mieux qu'un sujet la science des Rois
+
+      Qu'une mortelle haine
+Se couvre d'un beau voile en cette Âme inhumaine !
+Lors qu'il veut m'inspirer la peur d'un attentat
+Il est plus envieux que zélé pour l'État.
+Au fond du précipice il voit un misérable,
+Et ce n'est pas assez si son bras ne l'accable ;
+Il le voit dans l'opprobre, il en est le vainqueur,
+Et n'est pas satisfait s'il ne perce son coeur
+Hélas ! Bien que je garde en mon âme étonnée
+Le sentiment des maux que fit Alcionée,
+Je ne saurais le voir dans de justes malheurs
+Que ce coeur qui le plaint ne lui donne des pleurs.
+Peut-être croiras-tu qu'une amitié peu sage
+À ma confusion s'exprime en ce langage,
+Et que ce premier feu qui me brûla pour lui
+Excité par ses maux se rallume aujourd'hui :
+Non, non, un lâche Amour n'offense point ma gloire,
+Mon courage en remporte une illustre victoire,
+Et si je pleure enfin, je pleure justement
+Un Héros misérable et non pas un Amant.
+On peut plaindre sans honte, et même avec estime
+Ce qu'on ne peut aimer, et sans honte, et sans crime.
+
+Te faut-il découvrir mes secrets sentiments ?
+Ou te faut-il plutôt découvrir mes tourments ?
+Te montrerai-je encor, non, non : mais il n'importe,
+Vois si l'honneur est fort, vois si l'Amour est forte,
+Et combien l'on doit plaindre un misérable coeur
+Sur qui ces deux Tyrans exercent leur rigueur.
+J'aimai, tu le sais bien, j'aimai ce misérable,
+Devant que son Amour ne le rendit coupable,
+Et je dois confesser que j'ai pu me trahir
+Puisque après ses forfaits je n'ai pu le haïr.
+Vois, me disait l'Amour, que sa fureur extrême
+Est moins une fureur qu'une preuve qu'il t'aime.
+Mais, me disait l'honneur, considère son sang,
+Et lui compare enfin ta naissance et ton rang,
+Monte dessus ton trône, et vois la populace
+Peut-être y verras-tu la source de sa Race.
+Mais (me disait l'Amour, ce Dieu doux et charmant
+Que j'écoutais toujours plus favorablement)
+S'il n'est d'un sang Royal il est bien manifeste
+Qu'étant né vertueux, il est d'un sang céleste,
+Et que son grand courage éprouvé tant de fois
+Vaut bien cette grandeur qui fait régner les Rois.
+Ainsi par deux Tyrans mon âme poursuivie
+Leur cédait tour à tour ma franchise et ma vie ;
+Ainsi j'étais esclave et d'eux, et des ennuis,
+Et maintenant encor je ne sais qui je suis.
+Enfin l'honneur plus fort que ma première flamme
+Après mille combats commande dans mon Âme :
+Enfin il est le Maître, et c'est lui seulement
+Qui s'oppose à l'espoir d'un misérable Amant.
+C'est lui qui me fait voir que l'Amour est ma honte,
+C'est lui qui me combat, c'est lui qui me surmonte,
+Et qui m'impose encor cette fatale Loi.
+Ou de n'aimer jamais, ou de n'aimer qu'un Roi.
+Ainsi pour témoigner qu'une amitié trop basse
+Ne m'a point fait trahir la grandeur de ma race,
+Par les feintes rigueurs d'un mépris généreux,
+Je porte au désespoir un Amant malheureux,
+Je le perds, je le gêne, et me gêne moi-même,
+J'ai honte de l'aimer, et cependant je l'aime :
+Et quand je l'ai privé de l'espoir de ses biens,
+Aussitôt j'ai senti que je m'ôtais les miens.
+Vaine et fière grandeur, pour te rendre justice,
+Faut-il que je travaille à mon propre supplice.
+
+      Qu'avez-vous, d'où viennent vos douleurs ?
+
+Que dites-vous ?
+
+      Qui donc ?
+
+Ô Dieux ! Qui l'a tué ?
+
+      Ô malheureux ! Hélas !
+
+      Ne put-on l'arrêter ?
+
+Hélas ! L'amène-t-on ?
+
+      Grands Dieux !
+Quel spectacle d'horreur offrez-vous à mes yeux ?
+Ô cruelle !
+
+Non, non.
+
+Ô cruel ! Empêchons, que fais-tu misérable ?
+
+Hélas !
+
+Ha ! Ne me flatte point, traite-moi de perfide,
+Accuse ma rigueur comme ton homicide ;
+Et si ton bras conserve un reste de vigueur,
+Venge ici ton trépas, arrache-moi le coeur.
+Fais servir justement les restes de ta vie,
+À punir les rigueurs qui te l'auront ravie :
+Satisfais en mourant ton esprit outragé,
+Et pour mourir en paix, tâche à mourir vengé.
+
+Le sang que tu répands veut une autre allégeance.
+
+Ha ! Si je t'ai trompé par des paroles feintes,
+Peux-tu croire mes pleurs ? Peux-tu croire mes plaintes ?
+Cherche un autre secours pour venger tes malheurs ;
+Qui trahit par la voix, peut trahir par les pleurs.
+
+Non, non, en ta faveur je veux bien qu'on apprenne
+Que j'ai feint seulement, quand j'ai feint de la haine,
+Et je dois détromper ton esprit amoureux,
+Puisqu'en mourant trompé, tu mourrais malheureux.
+
+Me crois-tu maintenant barbare et sanguinaire ?
+Me crois-tu si cruelle entre ceux de mon rang,
+Que pour me contenter, il me faille du sang ?
+Hélas ! Si tu le crois, ton amour offensée
+Te venge, et me punit avec cette pensée.
+Ô déplorable objet d'un injuste dédain !
+Ce ne fut pas ce coeur qui te fut inhumain,
+Cette vaine grandeur dont l?e ciel fait ma peine,
+Ce fut cette grandeur qui te fut inhumaine.
+Ha ! Combien ai-je dit en te désespérant,
+Que ne suis-je moins grande, ou que n'est-il plus grand ?
+
+Que tu demandes peu ! Mais tu sais par tes peines
+Qu'on doit peu demander aux âmes inhumaines ;
+Tu sais bien ! Mais hélas ! Il expire, il est mort,
+Et selon ses désirs, son naufrage est son port.
+Hélas ! On l'accusait, je l'accusais moi-même
+De n'avoir de l'amour que pour le Diadème ;
+Hélas ! Je l'accusais comme un ambitieux
+Digne des châtiments de la terre et des Cieux ;
+J'ai cru qu'il aspirait au trône de mon père,
+Mais par le sang qu'il verse il prouve le contraire :
+Je vois par son trépas son amour éclairci,
+Et les ambitieux ne meurent pas ainsi.
+Ô toi que ton amour a rendu misérable,
+Ô toi que ta vertu pouvait rendre adorable,
+Je ne t'accuse point du coup de ton trépas,
+J'impose à ma rigueur le crime de ton bras ;
+Mais si ma seule feinte injuste et criminelle
+Arma contre ta vie une mort si cruelle,
+C'est en fin un Arrêt et du Ciel et du sort,
+Que pour mon châtiment je t'aime après ta mort.
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dioclee
+
+Laissez faire le Roi.
+
+      Rendez-vous-en certaine
+Devant que de montrer une si juste haine,
+Si d'un si fol amour il s'était détaché
+Votre haine est un feu qu'on doit tenir caché.
+
+Ce discours généreux, ce noble sentiment
+Montre moins vos transports que votre jugement.
+De moi j'avais pensé qu'un peu d'indifférence
+Pouvait seule étouffer cette haute espérance,
+Et que pour rebuter de superbes esprits
+Une douce froideur peut autant qu'un mépris :
+Cette froideur instruit une âme ambitieuse,
+Mais la haine l'outrage et la rend furieuse,
+Et c'est souvent un trait qui ruine et qui perd
+Et celui qu'on attaque, et celui qui s'en sert.
+Ainsi j'ai toujours cru qu'une haine irritée
+Doit être aux grands desseins la dernière écoutée,
+Et qu'on n'en doit user, qu'en une extrémité
+Où tout autre secours est vainement tenté
+Mais toutes ces raisons sont raisons du vulgaire,
+Vous savez mieux que nous ce que vous devez faire,
+Les Rois comme les Dieux tout-puissants ici-bas
+Ont toujours des clartés que les autres n'ont pas.
+
+Alcire avecques lui traite confidemment,
+Il l'y faut employer.
+
+Espérez tout Madame, et de ma diligence,
+Et de la part qu'il a dedans sa confidence.
+
+      Madame, Alcionée
+Demande à vous parler.
+
+      C'est de la part du Roi.
+
+Voici le Roi qui vient.
+
+Pourquoi vous plaignez-vous quand le Roi vous contente,
+Et par de grands effets répond à votre attente ?
+Redoutez-vous encore un malheureux Amant
+De qui le désespoir sera le châtiment ?
+Craignez-vous que son bras fatal à cette Terre
+Ne ramène chez vous le désordre et la guerre ?
+Et que sa passion ne l'arme une autre fois
+Contre l'autorité dont il reçoit les lois ?
+
+      Que craignez-vous ?
+
+Ressentez-vous encor cette première flamme
+Qu'un mérite apparent alluma dans votre âme ?
+Conservez-vous encor un reste d'amitié ?
+
+Si vous deviez le plaindre, et lui donner des pleurs
+Fallait-il procurer vous-même ses malheurs ?
+Fallait-il jusqu'ici par d'amoureuses feintes
+Préparer le tourment d'où procèdent ses plaintes ?
+Deviez-vous lui donner cet espoir dangereux,
+Dont la privation le rend si malheureux ?
+Deviez-vous contre lui, d'un Monarque sévère
+Avec tant d'appareil exciter la colère ?
+
+Mais voici Théoxène, et son oeil est en pleurs ;
+Qu'a-t-elle ?
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theoxene
+
+Mais gardez d'irriter ce Guerrier indomptable,
+Que son bras a fait grand et rendu redoutable,
+Qui peut être d'un trône, ou la base, ou l'effroi,
+Et qui pour vaincre tout n'a besoin que de soi :
+Voyez jusqu'où monta le feu de sa colère,
+Et par ce qu'il a fait jugez ce qu'il peut faire.
+
+S'il croit que vous l'aimez, et si durant nos craintes
+Son amour abusé s'est nourri de vos feintes,
+Pensez-vous qu'un mépris en tout temps périlleux
+Outrage impunément ce courage orgueilleux ?
+Voyez ce qu'un refus a pu dessus son Âme,
+Combien sur cet État il attira de flamme,
+Et pensez après tout que sur les grands esprits
+Un refus agit moins que ne fait un mépris.
+Ne me soupçonnez pas de prendre sa querelle,
+Et de défendre ici le parti d'un rebelle,
+Ne me soupçonnez pas d'arrêter votre main,
+Quand elle va punir ce courage inhumain,
+Hélas quand je repasse en mes tristes pensées
+Avecques vos malheurs mes misères passées,
+Quand je vois le tombeau qui renferme les miens,
+Quand je vois pour tout bien la cendre de mes biens,
+Et que d'une maison en gloire si féconde
+Je suis seule restée aux traverses du monde,
+Je ne puis me forcer ni retenir ces pleurs
+Que poussent par mes yeux de si fortes douleurs :
+Je souhaite, je veux que votre haine extrême
+Vous porte à la vengeance et me venge moi-même ;
+Mais j'appréhende aussi qu'au lieu de vous venger
+Elle ne vous entraîne en un nouveau danger,
+Quoi qu'après tant de maux, la haine vous inspire
+Dissimuler encor c'est conserver l'Empire.
+
+Je sais bien que mes pleurs vous sembleront coupables,
+Mais je crois qu'on en doit à tous les misérables ;
+Et que nous en devons même à nos ennemis,
+Qu'à des maux non communs le destin a soumis.
+Pardonnez donc, madame, aux larmes volontaires
+Que je donne au plus grand de tous nos adversaires
+Son sort qui les excuse est si prodigieux,
+Qu'il en arrachera peut-être de vos yeux.
+
+      J'ai vu.
+
+      Alcionée
+Terminer dans son sang sa triste destinée.
+
+      Son courage, et son bras,
+Ou plutôt son amour.
+
+En sortant du Palais un transport sans exemple,
+Plutôt que son dessein, le porte dans le temple,
+Son visage est mêlé de rage et de douleur,
+Et son proche trépas paraît en sa pâleur.
+Là m'ayant aperçue, hélas ! Vient-il me dire,
+La Princesse le veut, il est temps que j'expire.
+Dis lui que le trépas a pour moi des plaisirs,
+Non parce qu'il finit mes maux, et mes soupirs,
+Non parce qu'il me porte en une paix profonde
+Que ne troubleront plus les traverses du monde ;
+Mais dis-lui qu'il m'est doux, et qu'il m'est glorieux,
+Parce que je sais bien qu'il doit plaire à ses yeux.
+À peine eut-il parlé, qu'on voit sur son visage
+D'un sanglant désespoir une effroyable image :
+Il tourne contre lui ce triste et noble fer,
+Qui l'aida tant de fois à vaincre, à triompher,
+Et se précipitant sur sa pointe inhumaine,
+Exécute, dit-il, ce que résous ma Reine.
+Il tombe avec son sang.
+
+Il se frappa plutôt qu'on ne s'en put douter.
+À l'instant le Roi passe, il voit cette aventure
+Où le sort usurpait les droits de la Nature ;
+Et comme si l'aspect d'un Prince généreux
+Eût rappelé l'esprit dans ce corps malheureux,
+Ses yeux déjà tournés vers la mortelle barque
+Ont donné de la vie une dernière marque :
+Ils s'ouvrent lentement, et demeurent ouverts,
+Des ombres de la mort le Roi les voit couverts,
+Et blâmant la rigueur de cette destinée,
+Il mêle de ses pleurs au sang d'Alcionée.
+Alors ce malheureux vers le Roi se tournant,
+Sire, s'écria-t-il, vous m'aimez maintenant,
+Ma mort est aujourd'hui ma plus belle victoire,
+Je meurs avec horreur, mais ce n'est pas sans gloire,
+Puisqu'en dépit du sort qui me renverse à bas,
+Les pleurs d'un grand monarque honorent mon trépas.
+Il demande aussitôt de vous revoir encore,
+On accorde ce bien au mal qui le dévore,
+Et le Roi complaisant à ses derniers désirs,
+Veut bien que vos regards soient ses derniers plaisirs.
+
+      Oui, Madame, on l'amène,
+Et je le crois déjà dans la chambre prochaine.
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcionee
+
+Non, non, cette grandeur, ce charme de tant d'âmes,
+N'est pas un aliment, qui nourrisse mes flammes,
+Non, non, ne pense pas que cette passion
+Soit un feu rallumé par mon ambition,
+J'aimai, j'aime Lydie, et cet amour extrême
+Ne lève point les yeux jusqu'à son diadème :
+Elle a dans ses appas tout ce qui m'a tenté,
+Et je crois que le sceptre est la moindre beauté.
+Ainsi cette grandeur qui la rend adorable
+N'est pas une raison qui me la rende aimable,
+Ces grands noms de Princesse, et de fille de Roi,
+Ne sont pas des attraits, ni des charmes pour moi ;
+Elle attend de son Père, un sceptre, une couronne.
+Mais elle n'attend rien que cette main ne donne,
+Mais elle n'attend rien d'un Père couronné,
+Que cette même main n'ait quelquefois donné.
+
+Que n'espère-t-on pas des promesses d'un Roi ?
+
+J'ai montré ma franchise.
+
+Achate au moins j'ai plu par cette confiance.
+
+Je devais obéir à cet arrêt des Dieux :
+Le reste est du destin. Mais j'aperçois Alcire.
+
+      Vous le pouvez, sur quoi ?
+
+      Parler à nous deux ce n'est parler qu'à moi.
+
+Que dites-vous ? Quels bruits ?
+
+      Laisse, laisse tout croire,
+Ne te mêle de rien j'aurai soin de ma gloire.
+
+Le Roi ne saura rien qu'il ne sache de moi.
+Pour obtenir un prix où j'ai droit de prétendre,
+Je veux bien que ce bruit serve à me faire entendre.
+Quoi, n'aimerais-je pas, où l'on me l'a permis ?
+Quoi n'aimerais-je pas où le Roi m'a promis ?
+
+La honte d'un refus n'a rien que j'appréhende.
+
+Mon amour ne voit rien qu'il doive appréhender.
+
+Ne te travaille point d'une peur importune,
+Et laisse à mon amour le soin de ma fortune.
+Alcire le Roi m'aime, et pour tout m'accorder
+Il attend seulement que j'aille demander.
+
+J'aime les grands hasards, qui mènent à la gloire.
+
+Non, je n'ai point d'États, je n'ai point de Couronne
+Que mon Père me laisse, ou que le sort me donne,
+Mais apprend de ce bras, tout malheureux qu'il est,
+Que qui peut en ôter en a quand il lui plaît.
+
+Nous périrons, Alcire, ou nous vivrons heureux.
+
+Alcire envierait-il le bonheur de ma vie ?
+
+      On me traitera mieux,
+Laisse-moi pour le moins cet espoir glorieux.
+
+Que des amis ingrats montrent leur perfidie,
+Achate il me suffit d'être aimé de Lydie.
+Serais-je sans ardeur, où tout est enflammé ?
+Et n'aimerais-je pas où je me vois aimé ?
+
+Mes grandes actions, mon courage, et ma foi
+Seront les vrais amis qui parleront pour moi.
+
+Comblé de vos faveurs je sais bien que l'envie
+Attaque également et ma gloire et ma vie,
+Et sachant le pouvoir et les injustes droits
+Que ce pâle Démon usurpe auprès des Rois,
+Je craindrais d'approcher de ce trône adorable,
+S'il n'était occupé par un Prince équitable.
+Ainsi votre justice est le bras glorieux,
+Qui soutient mon parti contre mes envieux,
+Elle rend à mon coeur sa première assurance,
+Elle chasse la peur d'avec mon espérance,
+Et me permet encor de m'approcher de vous,
+Avec ce même espoir qui fait tant de jaloux.
+Pourquoi craindrais-je aussi que leur main triomphante
+Dérobât à mes voeux une si belle infante ?
+Vous me l'avez promise ; et s'il est vrai qu'un Roi
+Se fait de sa parole une puissante loi,
+Que n'attendrais-je pas du Roi le plus auguste,
+Qui joigne à sa grandeur le beau titre de juste ?
+Donc si mes ennemis condamnent mon espoir
+Et pour le ruiner assemblent leur pouvoir,
+Je n'opposerai rien contre leur violence,
+Votre seule promesse est ici ma défense,
+Je dirai seulement s'ils osent murmurer,
+Un grand Roi qui promet, commande d'espérer.
+Ainsi j'espérerai malgré ces âmes basses,
+Qui fondent leurs plaisirs sur nos seules disgrâces,
+Et pour confondre enfin de si grands ennemis,
+Je dirai seulement que mon Roi m'a promis.
+
+Je sais bien que mon sort n'eut jamais de clarté
+Qui ne fut un rayon de votre Majesté ;
+Je sais bien que des Cieux la puissance fatale
+Rend à votre Grandeur ma fortune inégale ;
+Je sais bien que Lydie est assise en un rang,
+Où n'arriva jamais personne de mon sang :
+Mais depuis cet instant qu'une sainte promesse,
+Permit à mon amour d'espérer la Princesse,
+Je crois sans m'éblouir regarder ce Soleil,
+Et par votre promesse être fait son pareil.
+
+S'il faut par des États mériter la Princesse,
+Le Soleil n'en voit point, où mon bras ne s'adresse.
+Cet oeil qui voit partout, n'en voit point de si forts
+Où vos commandements ne portent mes efforts,
+Et d'où malgré le sort mes armes fortunées
+N'amènent en vos fers des têtes couronnées.
+Pourvu que m'élevant entre les Potentats,
+Sous mon autorité je range des États,
+Pourvu qu'à mon destin je joigne une couronne,
+Qu'importe que mon Père ou ma main me la donne ?
+Animez donc ce coeur, commandez que ce bras
+Ou pour vous ou pour moi conquête des États,
+Et lors je donnerai de glorieuses marques,
+Que qui peut en gagner est du sang des Monarques,
+Se mettre au rang des Rois, ne le devoir qu'à soi
+N'est pas moins glorieux que de sortir d'un Roi.
+
+Hé bien, j'irai chercher ces Rois illégitimes,
+Dont la fière grandeur est l'effet de leurs crimes,
+Et que mille attentats cruellement commis
+Rendent des autres Rois les communs ennemis.
+Ainsi ne m'attaquant qu'à de coupables têtes,
+Je ne puis obtenir que de justes conquêtes ;
+Et si chacun a droit de chasser les Tyrans
+Aurai-je un rang injuste entre les conquérants ?
+
+Que ne m'est-il permis après votre promesse,
+De choisir pour mon juge une grande Princesse,
+Que n'y consentez-vous, que n'êtes-vous d'accord
+Qu'elle soit aujourd'hui l'arbitre de mon sort.
+
+J'ai tout ce que je veux, mon bonheur est extrême.
+Amour tantôt propice, et tantôt rigoureux,
+Est-il sous ton Empire un Amant plus heureux.
+Si je suis ton captif, mon servage m'honore,
+Une Princesse m'aime, autant que je l'adore.
+Et puis-je désormais espérer vainement,
+Si mon bonheur consiste en son consentement ?
+
+Je n'ai jamais douté de cette pure flamme
+Que mes seuls intérêts allument dans votre âme ;
+Je sais que vos esprits généreux et constants,
+Ne peuvent s'infecter par les vices du temps :
+Aussi ne fais-je état de ma bonne fortune,
+Que pour la voir un jour avecques vous commune,
+Et lors que mon destin cesse de me troubler,
+Je ne veux des bienfaits que pour vous en combler.
+Mais ma prospérité n'est pas tant affermie,
+Qu'elle ne craigne encore une atteinte ennemie,
+Je trouve auprès des Rois chaque instant hasardeux,
+Et c'est bien s'assurer que de craindre auprès d'eux.
+J'ai donc besoin d'amis, de qui la main puissante
+Soutienne auprès du Roi ma fortune naissante,
+Et je les trouve en vous, ces amis généreux,
+Dont la seule amitié pourrait me rendre heureux.
+
+      Cette maudite envie,
+Qui s'attaque toujours à la plus belle vie.
+
+Revoyez donc le Roi, moi je verrai l'Infante.
+
+      Enfin, belle Princesse,
+À tant de tristes jours, de peine et de tourment,
+Je verrai succéder un bienheureux moment.
+Si j'ai dit jusqu'ici, j'aime, je persévère,
+Aujourd'hui plus heureux, je puis dire, j'espère.
+
+      Le Roi consent à mes félicités,
+Et je dois être heureux si vous y consentez.
+Il promet à mes voeux une divine Infante,
+Mais pour me la donner il veut qu'elle y consente :
+Aussi pour augmenter les biens que je reçois,
+Il veut que ce soit vous, qui vous donniez à moi.
+
+Que vous chassez de maux avec une parole !
+Qu'elle brise de fers ! Et qu'elle me console !
+Croirais-je injustement qu'un bien si précieux
+Jusques dedans le Ciel me fait des envieux ?
+Enfin vous consentez.
+
+Que de nouveaux plaisirs vont suivre mon martyre,
+Et que vous ajoutez à mon contentement,
+Si votre obéissance est un consentement !
+
+Par le consentement notre amour se fait voir,
+Et par l'obéissance on montre son devoir.
+L'un est libre et sans fard, l'autre est souvent forcée,
+Et souvent un effet contraire à la pensée.
+Toutefois il n'importe, et j'aime heureusement
+Si l'on vous voit au moins obéir librement.
+Mais que dirai-je au Roi ?
+
+Je vais le voir, Madame.
+
+On le croyait ici ; j'y revenais Madame,
+Pour lui voir confirmer le repos de mon âme.
+Vous pouvez cependant étouffer mes soupirs,
+Vous savez ses desseins, vous savez ses désirs,
+Il vous donne un pouvoir qui vous rend Souveraine,
+Donnez donc un Arrêt qui finisse ma peine.
+
+C'est ce qui me doit mettre au rang des plus heureux.
+
+      Qu'avez-vous donc résolu ?
+
+À ce nouveau discours, je ne puis rien comprendre.
+
+N'êtes-vous pas encor cette Princesse même
+Qui permit l'espérance à mon Amour extrême ?
+N'êtes-vous pas encor cette Divinité
+Qui semblait me conduire à la félicité ?
+
+En quel gouffre de maux est mon Âme plongée ?
+Ô Dieux, quel changement !
+
 De quel étonnement frappez-vous mes esprits ?
 Je trouve donc la peine où je cherchais un prix,
 Je puis donc reprocher à ces yeux adorables,
@@ -1292,35 +1122,6 @@ Ait laissé dans votre âme un dépit légitime,
 Si vous me condamnez, si mon trépas vous plait,
 Donnez, donnez le coup aussitôt que l'Arrêt.
 
--*who_lydie
-Je sais que le remords succédant à vos crimes
-A tiré de vos mains cent exploits magnanimes ;
-Je sais qu'un repentir vous remit à la Cour ;
-Mais pour un repentir vous dois-je de l'amour ?
-Qu'avez-vous fait de grand que vous n'ayez du faire,
-Et qu'on n'ait reconnu par un plus grand salaire ?
-Vous étouffez les feux qui nous ont consumés,
-Mais vos seules fureurs les avaient allumés ;
-D'une plus douce main vous essuyez nos larmes,
-Mais elles ont été des effets de vos armes ;
-Vous avez repoussé nos ennemis jurés,
-Mais vos seuls attentats les avaient attirés.
-Donc si vous dissipez ces mortelles tempêtes
-Que votre ambition fit tonner sur nos têtes ;
-Donc si vous relevez ce que vous fîtes choir
-Après tant de forfaits, ce fut votre devoir.
-Mais enfin s'il est vrai, que vos soins plus fidèles
-Rendent à cet État mille beautés nouvelles ;
-Si par vos seuls efforts on voit même des Rois
-Soumis à notre Empire en attendre des Lois ;
-Si vous avez rendu cet État redoutable ;
-Si vous en avez fait un Empire indomptable ;
-Bref si vos actions ont assuré ces lieux
-Même contre les traits que décochent les Dieux,
-Après votre révolte, horrible et sans exemple
-Le pardon qu'on vous donne est un prix assez ample.
-
--*who_alcionee
 Hé bien, oubliez tout, et gardez seulement
 De mes impiétés le triste sentiment ;
 Oubliez qu'autrefois votre coeur plus sensible
@@ -1332,37 +1133,9 @@ Aujourd'hui devant vous me permet de paraître ;
 Qu'il m'a promis les biens qu'on m'a vu désirer,
 Et qu'en me promettant il m'a fait espérer.
 
--*who_lydie
-Chassez de votre esprit cette espérance vaine
-Qui nourrit votre mal aussi bien que ma haine,
-Et croyez que les Rois promettent vainement
-Quand les Dieux-Rois des Rois résolvent autrement.
-Mais ne vous vantez point que ce coeur plus sensible
-Ne fut pas à vos voeux toujours inaccessible :
-Oui, devant que le crime eut noirci le renom
-Qu'une vertu trompeuse acquit à votre nom,
-Ce mérite apparent qui vous rendit aimable
-Vous rendit à mon âme un objet désirable ;
-Mais si je vous aimai, ce m'est un châtiment
-De connaître aujourd'hui que j'aimai lâchement.
-Votre rébellion fut grande et redoutable,
-Mais j'apprends aujourd'hui qu'elle m'est profitable,
-Puisque après des combats, si longs et si douteux
-Elle me sert à vaincre un amour si honteux.
-
--*who_alcionee
 Tyrans de mon repos, haine, disgrâce, envie,
 Achevez de me perdre, et de m'ôter la vie.
 
-**** *book_ *id_IV01 *act_IV *date_1637
-
--*who_achate
-Ce mépris de Lydie est l'unique vainqueur
-Qui pouvait aisément abattre un si grand coeur.
-Depuis ce coup fatal, ou plutôt cet outrage
-De sanglots seulement ont été son langage.
-
--*who_alcionee
 Non je ne me plains pas de ce nouveau mépris
 Qui pourrait ébranler les plus fermes esprits
 Je me plains seulement d'une cruelle feinte
@@ -1378,17 +1151,8 @@ Je le nourris encore à l'instant qui me tue ;
 Et si je me pouvais empêcher de mourir
 Ce serait seulement afin de le nourrir.
 
--*who_achate
-En étouffant ce feu, faites voir qui vous êtes,
-Et mettez votre amour au rang de vos conquêtes.
-
--*who_alcionee
 Ha cruelle Lydie, hélas !
 
--*who_achate
-      Voyez.
-
--*who_alcionee
       Hélas !
 Fallait-il différer l'Arrêt de mon trépas ?
 Fallait-il si longtemps à mes desseins contraire
@@ -1418,18 +1182,8 @@ Voyez si sa faveur finira mes soupirs,
 Ou si pour moi son Âme à la haine est ouverte
 Voyez-le pour le moins pour achever ma perte.
 
--*who_callisthene
-Un autre mieux que moi vous rendra ce devoir.
-
--*who_alcionee
 Quoi, vous m'abandonnez ?
 
--*who_callisthene
-      Je manque de pouvoir.
-Je manque de remède à des peines si grandes,
-Et les Rois souffrent peu d'importantes demandes.
-
--*who_alcionee
 Quoi, vous m'abandonnez, et d'un mot seulement
 Vous me refuserez d'alléger mon tourment ?
 N'importe que le Roi fasse dessus ma tête
@@ -1441,24 +1195,11 @@ Qu'au milieu des écueils où le destin m'engage,
 Et que malgré le sort qui m'entraîne au trépas
 De fidèles amis ne m'abandonnent pas.
 
--*who_callisthene
-Que peuvent peu d'amis où tant de maux s'assemblent ?
-
--*who_alcionee
 Beaucoup quand ils sont vrais, peu quand ils vous ressemblent.
 
--*who_callisthene
-Lorsqu'un peu de raison vous ouvrira les yeux,
-Vous entreprendrez moins, et me connaîtrez mieux.
-
--*who_alcionee
 Où connaîtrais-je mieux un ami légitime
 Qu'en une occasion où le destin m'opprime.
 
--*who_callisthene
-Ce destin qui vous perd, est votre passion.
-
--*who_alcionee
 Que d'horreur, que d'effroi, que de confusion !
 Ha ! D'un si lâche ami la noire perfidie
 Ne me touche pas moins que celle de Lydie.
@@ -1467,15 +1208,8 @@ Cent fois à son destin j'ai rendu de l'éclat ;
 Et pouvant me montrer qu'un ami nous console
 Le traître à mon secours refuse une parole.
 
-**** *book_ *id_IV02 *act_IV *date_1637
-
--*who_alcionee
 Hélas Alcire.
 
--*who_alcire
-      Ô Dieux ! Qu'avez-vous ?
-
--*who_alcionee
       Plus de maux
 Qu'il n'en sorti jamais des gouffres infernaux ;
 Et pour mieux me gêner, la fortune inhumaine
@@ -1485,28 +1219,14 @@ Je suis amant trahi, je suis ami trompé,
 J'ai, mais qu'aurais-je encor, cher Alcire, il me semble,
 Que quiconque a ses maux, a tous les maux ensemble.
 
--*who_alcire
-Les colères des Rois nous laissent peu d'amis.
-
--*who_alcionee
 Qu'ajoutez-vous aux maux où je me vois soumis ?
 Quoi, le Roi consent-il aux desseins de l'Infante ?
 
--*who_alcire
-S'il les a résolus, il faut qu'il y consente ;
-Il a loué Lydie, et déjà son courroux
-A devant cent témoins éclaté contre vous.
-
--*who_alcionee
 Ô Dieux ! Chaque moment m'est un moment funeste,
 Je trouve à chaque pas, ou la mort, ou la peste ;
 Mais contre cet assaut redouté tant de fois
 Un ami généreux a-t-il manqué de voix ?
 
--*who_alcire
-J'ai parlé, mais en vain, l'amour fait votre perte.
-
--*who_alcionee
 Eût-il comme mon coeur ma sépulture ouverte
 Que son feu violent n'a-t-il pu m'étouffer,
 Et que n'est-il ma mort, comme il est mon enfer.
@@ -1516,13 +1236,6 @@ Doncques à mon malheur les paroles des Rois
 Ne seront plus pour eux d'inviolables lois.
 Cruelle nouveauté !
 
--*who_alcire
-      Sortez de cette terre
-Où tant d'ennuis secrets vous déclarent la guerre.
-On reconnaîtra mieux ce que vous méritez,
-Quand on aura besoin de vos bras indomptés.
-
--*who_alcionee
 Mais devant ce départ, montre-moi si tu m'aimes,
 Non pas en me plaignant de mes malheurs extrêmes,
 Non pas par des soupirs, qui ne sont bien souvent
@@ -1532,56 +1245,22 @@ Vois le Roi, parle-lui, pénètre dans son âme,
 Pour la dernière fois sache son sentiment,
 Afin que mon départ ait plus de fondement.
 
--*who_alcire
-C'est trop vous hasardez.
-
--*who_alcionee
       Hasarde il ne m'importe.
 
--*who_alcire
-C'est vous perdre.
-
--*who_alcionee
       Hasarde, où l'horreur est plus forte,
 En l'état où je suis, me perdre c'est m'aider,
 Et lorsqu'on désespère on doit tout hasarder.
 
--*who_alcire
-N'irritez point le Roi.
-
--*who_alcionee
       Quoi donc tu me refuses !
 
--*who_alcire
-Je pense vous servir.
-
--*who_alcionee
       Tu me sers ! Tu t'accuses,
 Tu montres ta froideur.
 
--*who_alcire
-      Je fais ce que je dois.
-
--*who_alcionee
 Doncques à ses amis on doit manquer de foi.
 
--*who_alcire
-Songez enfin à vous ; des amours obstinées
-Ne font pas mériter des filles couronnées.
-Il faut avoir un Trône, où l'on fasse la loi,
-Afin de mériter l'héritière d'un Roi.
-
--*who_alcionee
 Dites que pour chasser de si noires tempêtes
 Il me faut des amis plus parfaits que vous n'êtes.
 
--*who_alcire
-Cherchez donc autre part des amis si parfaits,
-S'ils vous sont complaisants, ils vous sembleront vrais.
-
-**** *book_ *id_IV03 *act_IV *date_1637
-
--*who_alcionee
 Allez, allez ingrats, âmes lâches et noires
 Qui tenez vos grandeurs de mes seules victoires ;
 Amis dissimulés, faible et trompeur appui,
@@ -1605,11 +1284,6 @@ Enfin tout m'abandonne, et dans cette rigueur
 Encore dans ce coeur ai-je un feu détestable
 Qui de mes ennemis est le plus redoutable.
 
--*who_achate
-Suivez d'un faux ami le salutaire avis
-Fuyez de ces attraits que vous avez suivis.
-
--*who_alcionee
 En vain je sortirais de cette ingrate terre
 Si je porte partout ce qui me fait la guerre.
 La cause de mon mal est en moi seulement,
@@ -1617,10 +1291,6 @@ Je me suis à moi-même un horrible tourment,
 Si tu veux donc m'ôter d'une misère extrême,
 Tu me dois enseigner à fuir de moi-même.
 
--*who_achate
-Essayez ce remède.
-
--*who_alcionee
       Hélas je le voudrais,
 Mais je suis asservi sous de trop fortes lois.
 Un furieux amour me retient dans ses chaînes,
@@ -1660,13 +1330,6 @@ Qui puisse en mon malheur, me prêter un asile ;
 Enfin par un désastre à moi seul destiné
 Pour avoir trop vaincu, je suis infortuné.
 
--*who_achate
-Où le port vous attend, ne craignez plus d'orages,
-On respecte partout les illustres courages,
-Et la vertu charmante en tous événements
-A partout des amis, et partout des Amants.
-
--*who_alcionee
 Dures extrémités, où mon âme est réduite !
 Je meurs par mon séjour, et je meurs par ma fuite,
 Hélas ! Pourrais-je vivre absent de ces beautés
@@ -1686,65 +1349,8 @@ Si ceux qui me les font n'en sont pas les témoins.
 Mais de peur que le Roi me blâme, ou me soupçonne
 Je résous mon départ, et je veux qu'il l'ordonne.
 
--*who_achate
-S'il sait l'art de régner, il vous arrêtera.
-
--*who_alcionee
 S'il m'estime, s'il m'aime, il me le montrera.
 
-**** *book_ *id_IV04 *act_IV *date_1637
-
--*who_alcire
-Oui Sire, il veut partir.
-
--*who_callisthene
-      Et dans cette disgrâce
-Il semble qu'il murmure.
-
--*who_alcire
-      Il semble qu'il menace.
-
--*who_leroi
-Qu'il menace, qu'il crie, il n'est plus en état
-De faire appréhender un second attentat.
-
--*who_callisthene
-Sire, il y faut y penser, de généreux courages
-Sont toujours en état d'exciter des orages ;
-Et le malheur des Rois, de tout temps a permis
-Qu'un bras qui se révolte ait trouvé des amis.
-
--*who_alcire
-Déjà, Sire, déjà son murmure est un crime,
-Dont la punition est toujours légitime.
-Il veut enfin partir, et peut-être qu'il part,
-Assuré du secours qui l'attend d'autre part.
-Que sait-on si déjà par de sourdes pratiques,
-Il ne travailla point aux misères publiques ?
-Que sait-on si déjà sa fière ambition,
-N'a point couvé le feu d'une rébellion ?
-Sire, il en est capable, et d'autant plus capable
-Qu'on ne l'a point puni quand il était coupable,
-On s'accoutume enfin à toute impiété
-À force de faillir avec impunité.
-Que cet ambitieux d'une haute entreprise
-Aux peuples subjugués promette la franchise,
-Avecques ce prétexte il les soulèvera,
-Avecques cette amorce il les attirera,
-Cette offre est un appas, qui fait plus de rebelles
-Que les faveurs des Rois ne font d'âmes fidèles,
-Il faut donc y pourvoir d'autant plus promptement
-Qu'un peuple subjugué se révolte aisément.
-
--*who_leroi
-Nous lui saurons donner une bride si forte
-Qu'il sera malaisé que sa rage l'emporte.
-Vous m'en donnez l'avis, laissez-m'en le souci,
-Il n'ira pas bien loin s'il part, mais le voici.
-
-**** *book_ *id_IV05 *act_IV *date_1637
-
--*who_alcionee
 Ce n'est plus cet amour, qui me rendit coupable,
 Qui fait voir à vos pieds un sujet misérable.
 Je ne viens plus ici vous demander un prix
@@ -1802,14 +1408,6 @@ Que les Rois font tomber sur les coupables têtes,
 Je serai satisfait des rigueurs de mon sort,
 Si j'obtiens mon départ, ou si j'obtiens ma mort.
 
--*who_leroi
-Allez où vos destins vous pourront satisfaire,
-Et si vous m'en croyez, soyez moins téméraire.
-Allez.
-
-**** *book_ *id_IV06 *act_IV *date_1637
-
--*who_alcionee
       Allons, fuyons, et sortons de ces lieux
 Où trop cruellement me poursuivent les Cieux :
 Mais hélas ! Si le Ciel me déclare la guerre,
@@ -1849,336 +1447,13 @@ M'empêcha de périr pour périr davantage ;
 Péris donc misérable, et qu'une affreuse mort
 Contente enfin l'Amour, le Ciel, et le Sort.
 
-**** *book_ *id_V01 *act_V *date_1637
-
--*who_dioclee
-Pourquoi vous plaignez-vous quand le Roi vous contente,
-Et par de grands effets répond à votre attente ?
-Redoutez-vous encore un malheureux Amant
-De qui le désespoir sera le châtiment ?
-Craignez-vous que son bras fatal à cette Terre
-Ne ramène chez vous le désordre et la guerre ?
-Et que sa passion ne l'arme une autre fois
-Contre l'autorité dont il reçoit les lois ?
-
--*who_lydie
-Hélas !
-
--*who_dioclee
-      Que craignez-vous ?
-
--*who_lydie
-      Hélas te faut-il dire
-Mes troubles, mes transports, ma honte et mon martyre ?
-Te faut-il faire voir l'inconstance d'un coeur
-Vaincu dans le moment qu'il croit être vainqueur ?
-
--*who_dioclee
-Ressentez-vous encor cette première flamme
-Qu'un mérite apparent alluma dans votre âme ?
-Conservez-vous encor un reste d'amitié ?
-
--*who_lydie
-Je ne sais, je ne sais ; mais j'ai de la pitié.
-Je n'ai pu voir languir cet Amant déplorable
-Sous le faix outrageux de l'ennui qui l'accable,
-Non je n'ai pu le voir soumis aux pieds du Roi,
-Sans douleur, sans regret, sans trouble, sans effroi.
-Son crime est à l'instant sorti de ma mémoire
-Pour y laisser régner son courage et sa gloire,
-Et j'ai secrètement parlé contre les Dieux
-Qui ne l'ont pas tiré d'un sang plus glorieux.
-Appelle ce transport, Amour, pitié, tendresse.
-C'est celui que je sens, c'est celui qui me presse,
-Et je confesse enfin que j'ai des sentiments
-Qui passent la pitié qu'on a pour les Amants.
-Toi qui connus mes feux et mon premier martyre,
-Qui sus combien j'aimai, mais j'aperçois Alcire.
-
-**** *book_ *id_V02 *act_V *date_1637
-
--*who_lydie
-Que voulez-vous ?
-
--*who_alcire
-      Je crois vous devoir justement
-Pour la gloire du Sceptre un avertissement.
-On semble négliger le traître Alcionée,
-Mais s'il peut s'éloigner, Sardis est ruinée,
-Il ne faut point douter qu'un second attentat
-Ne le perde lui-même, ou ne perde l'État.
-Je pense qu'on doit craindre un esprit téméraire
-Lors que le désespoir allume sa colère,
-Et qu'il est dangereux qu'il soit en liberté
-Quand pour le bien public il doit être arrêté.
-On l'observe, il est vrai, mais il ne faut point feindre,
-Cependant qu'il est libre, il est encore à craindre,
-Et les maux du passé sont autant de clartés
-Par qui l'on doit prévoir d'autres calamités.
-J'ai parlé, j'ai montré, que le mal est extrême,
-C'est à vous maintenant de parler pour vous-même,
-C'est à vous de combattre, et de représenter
-Que d'un ambitieux on doit tout redouter.
-
--*who_lydie
-Pensez-vous que le Roi manque d'expérience ?
-Qu'il ignore des Rois la sublime science ?
-Et qu'il soit moins instruit à prévoir le danger
-Que prompt et diligent à nous en dégager ?
-Croire que d'un grand Roi la prudence sommeille
-Quand il faut qu'elle agisse, et qu'il faut qu'elle veille,
-C'est lui faire une injure, et la faire à la fois
-À cet esprit divin qui conseille les Rois.
-
--*who_alcire
-Bien souvent cet esprit qui conduit les Provinces
-Agit par les conseils qu'un sujet donne aux Princes.
-
--*who_lydie
-Cet esprit Tout-puissant, ce grand appui d'un Roi
-Pour les persuader n'a besoin que de soi.
-
--*who_alcire
-On doit appréhender l'audace qui s'irrite.
-
--*who_lydie
-Elle s'irrite en vain quand la force la quitte.
-
--*who_alcire
-Elle n'est pas sans force étant en liberté.
-
--*who_lydie
-Elle périt enfin par sa témérité.
-
--*who_alcire
-Mais, comme le Tonnerre, en tombant elle tue.
-
--*who_lydie
-Le Tonnerre est tombé ; la crainte est superflue.
-
--*who_alcire
-Ce feu qui fut si grand n'est pas encore éteint.
-
--*who_lydie
-Il ne semble allumé qu'à celui qui le craint.
-
--*who_alcire
-Bien souvent cette peur assure des Provinces.
-
--*who_lydie
-Une peur mal fondée est la honte des Princes.
-
--*who_alcire
-Elle ne manque pas d'un juste fondement.
-
--*who_lydie
-Il est juste pour ceux qui craignent aisément.
-Mais souffrez que le Roi sans l'aide de personne
-Pour le moins aujourd'hui soutienne sa Couronne,
-Et qu'il lui soit permis de montrer une fois
-Qu'il sait mieux qu'un sujet la science des Rois
-
--*who_alcire
-J'en ai donc assez dit.
-
-**** *book_ *id_V03 *act_V *date_1637
-
--*who_lydie
-      Qu'une mortelle haine
-Se couvre d'un beau voile en cette Âme inhumaine !
-Lors qu'il veut m'inspirer la peur d'un attentat
-Il est plus envieux que zélé pour l'État.
-Au fond du précipice il voit un misérable,
-Et ce n'est pas assez si son bras ne l'accable ;
-Il le voit dans l'opprobre, il en est le vainqueur,
-Et n'est pas satisfait s'il ne perce son coeur
-Hélas ! Bien que je garde en mon âme étonnée
-Le sentiment des maux que fit Alcionée,
-Je ne saurais le voir dans de justes malheurs
-Que ce coeur qui le plaint ne lui donne des pleurs.
-Peut-être croiras-tu qu'une amitié peu sage
-À ma confusion s'exprime en ce langage,
-Et que ce premier feu qui me brûla pour lui
-Excité par ses maux se rallume aujourd'hui :
-Non, non, un lâche Amour n'offense point ma gloire,
-Mon courage en remporte une illustre victoire,
-Et si je pleure enfin, je pleure justement
-Un Héros misérable et non pas un Amant.
-On peut plaindre sans honte, et même avec estime
-Ce qu'on ne peut aimer, et sans honte, et sans crime.
-
--*who_dioclee
-Si vous deviez le plaindre, et lui donner des pleurs
-Fallait-il procurer vous-même ses malheurs ?
-Fallait-il jusqu'ici par d'amoureuses feintes
-Préparer le tourment d'où procèdent ses plaintes ?
-Deviez-vous lui donner cet espoir dangereux,
-Dont la privation le rend si malheureux ?
-Deviez-vous contre lui, d'un Monarque sévère
-Avec tant d'appareil exciter la colère ?
-
--*who_lydie
-Te faut-il découvrir mes secrets sentiments ?
-Ou te faut-il plutôt découvrir mes tourments ?
-Te montrerai-je encor, non, non : mais il n'importe,
-Vois si l'honneur est fort, vois si l'Amour est forte,
-Et combien l'on doit plaindre un misérable coeur
-Sur qui ces deux Tyrans exercent leur rigueur.
-J'aimai, tu le sais bien, j'aimai ce misérable,
-Devant que son Amour ne le rendit coupable,
-Et je dois confesser que j'ai pu me trahir
-Puisque après ses forfaits je n'ai pu le haïr.
-Vois, me disait l'Amour, que sa fureur extrême
-Est moins une fureur qu'une preuve qu'il t'aime.
-Mais, me disait l'honneur, considère son sang,
-Et lui compare enfin ta naissance et ton rang,
-Monte dessus ton trône, et vois la populace
-Peut-être y verras-tu la source de sa Race.
-Mais (me disait l'Amour, ce Dieu doux et charmant
-Que j'écoutais toujours plus favorablement)
-S'il n'est d'un sang Royal il est bien manifeste
-Qu'étant né vertueux, il est d'un sang céleste,
-Et que son grand courage éprouvé tant de fois
-Vaut bien cette grandeur qui fait régner les Rois.
-Ainsi par deux Tyrans mon âme poursuivie
-Leur cédait tour à tour ma franchise et ma vie ;
-Ainsi j'étais esclave et d'eux, et des ennuis,
-Et maintenant encor je ne sais qui je suis.
-Enfin l'honneur plus fort que ma première flamme
-Après mille combats commande dans mon Âme :
-Enfin il est le Maître, et c'est lui seulement
-Qui s'oppose à l'espoir d'un misérable Amant.
-C'est lui qui me fait voir que l'Amour est ma honte,
-C'est lui qui me combat, c'est lui qui me surmonte,
-Et qui m'impose encor cette fatale Loi.
-Ou de n'aimer jamais, ou de n'aimer qu'un Roi.
-Ainsi pour témoigner qu'une amitié trop basse
-Ne m'a point fait trahir la grandeur de ma race,
-Par les feintes rigueurs d'un mépris généreux,
-Je porte au désespoir un Amant malheureux,
-Je le perds, je le gêne, et me gêne moi-même,
-J'ai honte de l'aimer, et cependant je l'aime :
-Et quand je l'ai privé de l'espoir de ses biens,
-Aussitôt j'ai senti que je m'ôtais les miens.
-Vaine et fière grandeur, pour te rendre justice,
-Faut-il que je travaille à mon propre supplice.
-
-**** *book_ *id_V04 *act_V *date_1637
-
--*who_dioclee
-Mais voici Théoxène, et son oeil est en pleurs ;
-Qu'a-t-elle ?
-
--*who_lydie
-      Qu'avez-vous, d'où viennent vos douleurs ?
-
--*who_theoxene
-Je sais bien que mes pleurs vous sembleront coupables,
-Mais je crois qu'on en doit à tous les misérables ;
-Et que nous en devons même à nos ennemis,
-Qu'à des maux non communs le destin a soumis.
-Pardonnez donc, madame, aux larmes volontaires
-Que je donne au plus grand de tous nos adversaires
-Son sort qui les excuse est si prodigieux,
-Qu'il en arrachera peut-être de vos yeux.
-
--*who_lydie
-Que dites-vous ?
-
--*who_theoxene
-      J'ai vu.
-
--*who_lydie
-      Qui donc ?
-
--*who_theoxene
-      Alcionée
-Terminer dans son sang sa triste destinée.
-
--*who_lydie
-Ô Dieux ! Qui l'a tué ?
-
--*who_theoxene
-      Son courage, et son bras,
-Ou plutôt son amour.
-
--*who_lydie
-      Ô malheureux ! Hélas !
-
--*who_theoxene
-En sortant du Palais un transport sans exemple,
-Plutôt que son dessein, le porte dans le temple,
-Son visage est mêlé de rage et de douleur,
-Et son proche trépas paraît en sa pâleur.
-Là m'ayant aperçue, hélas ! Vient-il me dire,
-La Princesse le veut, il est temps que j'expire.
-Dis lui que le trépas a pour moi des plaisirs,
-Non parce qu'il finit mes maux, et mes soupirs,
-Non parce qu'il me porte en une paix profonde
-Que ne troubleront plus les traverses du monde ;
-Mais dis-lui qu'il m'est doux, et qu'il m'est glorieux,
-Parce que je sais bien qu'il doit plaire à ses yeux.
-À peine eut-il parlé, qu'on voit sur son visage
-D'un sanglant désespoir une effroyable image :
-Il tourne contre lui ce triste et noble fer,
-Qui l'aida tant de fois à vaincre, à triompher,
-Et se précipitant sur sa pointe inhumaine,
-Exécute, dit-il, ce que résous ma Reine.
-Il tombe avec son sang.
-
--*who_lydie
-      Ne put-on l'arrêter ?
-
--*who_theoxene
-Il se frappa plutôt qu'on ne s'en put douter.
-À l'instant le Roi passe, il voit cette aventure
-Où le sort usurpait les droits de la Nature ;
-Et comme si l'aspect d'un Prince généreux
-Eût rappelé l'esprit dans ce corps malheureux,
-Ses yeux déjà tournés vers la mortelle barque
-Ont donné de la vie une dernière marque :
-Ils s'ouvrent lentement, et demeurent ouverts,
-Des ombres de la mort le Roi les voit couverts,
-Et blâmant la rigueur de cette destinée,
-Il mêle de ses pleurs au sang d'Alcionée.
-Alors ce malheureux vers le Roi se tournant,
-Sire, s'écria-t-il, vous m'aimez maintenant,
-Ma mort est aujourd'hui ma plus belle victoire,
-Je meurs avec horreur, mais ce n'est pas sans gloire,
-Puisqu'en dépit du sort qui me renverse à bas,
-Les pleurs d'un grand monarque honorent mon trépas.
-Il demande aussitôt de vous revoir encore,
-On accorde ce bien au mal qui le dévore,
-Et le Roi complaisant à ses derniers désirs,
-Veut bien que vos regards soient ses derniers plaisirs.
-
--*who_lydie
-Hélas ! L'amène-t-on ?
-
--*who_theoxene
-      Oui, Madame, on l'amène,
-Et je le crois déjà dans la chambre prochaine.
-
-**** *book_ *id_V05 *act_V *date_1637
-
--*who_alcionee
 Je la vois, cher Achate, approche-moi.
 
--*who_lydie
-      Grands Dieux !
-Quel spectacle d'horreur offrez-vous à mes yeux ?
-Ô cruelle !
-
--*who_alcionee
       Ha Madame, excusez ma faiblesse.
 Jette-moi, cher Achate, aux pieds de ma Princesse,
 Soulage ainsi les maux que donne un désespoir,
 Et qu'au moins en mourant je sois en mon devoir.
 
--*who_lydie
-Non, non.
-
--*who_alcionee
       Si j'ai vécu dessous votre puissance,
 Je veux aussi mourir sous votre obéissance :
 Vous m'aviez commandé de vivre, et j'ai vécu,
@@ -2204,16 +1479,8 @@ Doit au moins à vos yeux la rendre plus cruelle ;
 Jusque dedans mon sein elle doit traverser,
 Et déchirer ce coeur qu'elle n'a pu percer.
 
--*who_lydie
-Ô cruel ! Empêchons, que fais-tu misérable ?
-
--*who_alcionee
 Selon vos volontés je punis un coupable.
 
--*who_lydie
-Hélas !
-
--*who_alcionee
       N'empêchez point ce que j'ai commencé,
 Je rends, je rends justice à l'État offensé.
 Je fus de vos malheurs l'origine funeste,
@@ -2229,61 +1496,18 @@ Capables maintenant de vous tirer des larmes ?
 Ha ! Si pour moi ces pleurs coulent à cet instant,
 Que ma fin est heureuse, et que je meurs content.
 
--*who_lydie
-Ha ! Ne me flatte point, traite-moi de perfide,
-Accuse ma rigueur comme ton homicide ;
-Et si ton bras conserve un reste de vigueur,
-Venge ici ton trépas, arrache-moi le coeur.
-Fais servir justement les restes de ta vie,
-À punir les rigueurs qui te l'auront ravie :
-Satisfais en mourant ton esprit outragé,
-Et pour mourir en paix, tâche à mourir vengé.
-
--*who_alcionee
 Les pleurs que vous versez me servent de vengeance.
 
--*who_lydie
-Le sang que tu répands veut une autre allégeance.
-
--*who_alcionee
 En me donnant des pleurs, si vous m'avez vengé,
 En me donnant des pleurs vous m'avez allégé.
 
--*who_lydie
-Ha ! Si je t'ai trompé par des paroles feintes,
-Peux-tu croire mes pleurs ? Peux-tu croire mes plaintes ?
-Cherche un autre secours pour venger tes malheurs ;
-Qui trahit par la voix, peut trahir par les pleurs.
-
--*who_alcionee
 Ha ! Si vous avez feint, feignez, feignez encore,
 Cette feinte adoucit le feu qui me dévore ;
 Ne désabusez point mon esprit amoureux,
 Puisqu'en mourant trompé, je mourrai bienheureux.
 
--*who_lydie
-Non, non, en ta faveur je veux bien qu'on apprenne
-Que j'ai feint seulement, quand j'ai feint de la haine,
-Et je dois détromper ton esprit amoureux,
-Puisqu'en mourant trompé, tu mourrais malheureux.
-
--*who_alcionee
 Je mourrai bienheureux, si ma mort peut vous plaire.
 
--*who_lydie
-Me crois-tu maintenant barbare et sanguinaire ?
-Me crois-tu si cruelle entre ceux de mon rang,
-Que pour me contenter, il me faille du sang ?
-Hélas ! Si tu le crois, ton amour offensée
-Te venge, et me punit avec cette pensée.
-Ô déplorable objet d'un injuste dédain !
-Ce ne fut pas ce coeur qui te fut inhumain,
-Cette vaine grandeur dont l?e ciel fait ma peine,
-Ce fut cette grandeur qui te fut inhumaine.
-Ha ! Combien ai-je dit en te désespérant,
-Que ne suis-je moins grande, ou que n'est-il plus grand ?
-
--*who_alcionee
 Je sais bien que ce coeur fut un coeur téméraire,
 À qui le Ciel devait un supplice exemplaire :
 Aussi ne veux-je point conjurer vos appas,
@@ -2293,24 +1517,517 @@ C'est là l'unique bien que veut sa destinée,
 Il le peut demander, il le peut obtenir,
 Car ce n'est pas l'aimer que de s'en souvenir.
 
--*who_lydie
-Que tu demandes peu ! Mais tu sais par tes peines
-Qu'on doit peu demander aux âmes inhumaines ;
-Tu sais bien ! Mais hélas ! Il expire, il est mort,
-Et selon ses désirs, son naufrage est son port.
-Hélas ! On l'accusait, je l'accusais moi-même
-De n'avoir de l'amour que pour le Diadème ;
-Hélas ! Je l'accusais comme un ambitieux
-Digne des châtiments de la terre et des Cieux ;
-J'ai cru qu'il aspirait au trône de mon père,
-Mais par le sang qu'il verse il prouve le contraire :
-Je vois par son trépas son amour éclairci,
-Et les ambitieux ne meurent pas ainsi.
-Ô toi que ton amour a rendu misérable,
-Ô toi que ta vertu pouvait rendre adorable,
-Je ne t'accuse point du coup de ton trépas,
-J'impose à ma rigueur le crime de ton bras ;
-Mais si ma seule feinte injuste et criminelle
-Arma contre ta vie une mort si cruelle,
-C'est en fin un Arrêt et du Ciel et du sort,
-Que pour mon châtiment je t'aime après ta mort.
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
+
+On sait que votre main heureusement hardie
+A rendu la couronne au Père de Lydie,
+Mais si vous lui rendez un trône redouté,
+Songez que c'est un bien que vous aviez ôté,
+Et qu'on observe ici cette juste maxime
+Que rendre est un devoir, et qu'ôter est un crime.
+On sait de tous côtés qu'après un long effroi
+Vous donnâtes la paix aux prières du Roi ;
+Mais ressouvenez-vous qu'il vous l'a demandée,
+Qu'en glorieux vainqueur vous l'avez accordée,
+Et sachez après tout qu'un Roi n'aime jamais
+Quiconque l'a réduit à demander la paix :
+Pouvez-vous donc encor contre toute apparence
+Avecque votre amour nourrir quelque espérance ?
+
+Il s'en peut dispenser, ainsi que d'une loi.
+Il est vrai que le Roi vous promit la Princesse,
+Mais comment ? Et pourquoi fit-il cette promesse ?
+Dans ce gouffre d'horreurs où vous l'aviez jeté
+Fut-ce lui qui promit ou la nécessité ?
+Il voyait l'étranger au sein de ses Provinces,
+Il avait vu couler le sang de tous ses Princes,
+Il voyait sa grandeur, et son Empire à bas,
+Il savait que ses maux venaient de votre bras,
+Et pour ressusciter sa fortune mourante,
+Selon vos passions il vous promis l'infante ;
+Jugez si dans l'excès de cette adversité,
+C'est un Roi qui promet, ou la nécessité.
+Pour voir à votre amour cette Princesse acquise
+Il fallait l'obtenir dès qu'elle fut promise,
+Il fallait mieux conduire un si noble dessein,
+Il fallait l'épouser les armes à la main,
+Et non pas tout d'un coup comme par quelques charmes,
+Contre vos protecteurs tourner vos propres armes,
+Ni repousser des Rois qui vous eussent vengé,
+Si d'un second refus on vous eût outragé.
+
+      Et peu d'expérience.
+
+Il fallait plaire moins, et vous assurer mieux.
+
+Je dirais par raison ce qu'il dit par envie ?
+Voyez si son discours peut donner quelque fruit
+Et ne regardez pas au coeur qui l'a produit ;
+Qu'il vienne d'un vrai zèle, ou d'un zèle hypocrite,
+Que nous importe-t-il pourvu qu'il nous profite ?
+Un trésor, un grand bien, n'est pas moins précieux
+Pour venir d'un endroit qui nous est odieux.
+Ici pour votre bien je ne saurais rien feindre,
+Vous espérez beaucoup, mais vous devez plus craindre,
+Je sais bien qu'on attaque, et qu'on blesse un Amant,
+Lors qu'on n'est pas d'accord avec son sentiment,
+Mais je sais bien aussi qu'où le danger éclate
+Bien souvent on le tue à l'instant qu'on le flatte.
+Voyant donc maintenant où va votre transport,
+J'aime mieux vous blesser que vous donner la mort.
+Songez encor un coup qu'un Prince magnanime,
+Fut de vos passions l'effroyable victime,
+Songez encor un coup qu'un Monarque offensé
+A vu par vos fureurs son trône renversé ;
+Et pensez après tout qu'à ce Monarque même
+Vous allez demander plus que son diadème.
+Enfin s'il vous refuse.
+
+Vous ne songez donc pas que par un sort étrange
+Vous n'avez plus d'amis dont le coeur ne se change ;
+Qui vous aima, vous hait ; un sort injurieux
+Convertit vos amis en autant d'envieux.
+Quiconque vous aida s'efforce de vous nuire,
+Où l'on vous élevait, on tâche à vous détruire,
+Et de la même main qui vous rendit vainqueur
+Je vois sortir le trait qui vous perce le coeur.
+
+Si l'État, si le Prince, à votre amour s'oppose,
+Qui pourra près de lui soutenir votre cause ?
+
+Ce mépris de Lydie est l'unique vainqueur
+Qui pouvait aisément abattre un si grand coeur.
+Depuis ce coup fatal, ou plutôt cet outrage
+De sanglots seulement ont été son langage.
+
+En étouffant ce feu, faites voir qui vous êtes,
+Et mettez votre amour au rang de vos conquêtes.
+
+      Voyez.
+
+Suivez d'un faux ami le salutaire avis
+Fuyez de ces attraits que vous avez suivis.
+
+Essayez ce remède.
+
+Où le port vous attend, ne craignez plus d'orages,
+On respecte partout les illustres courages,
+Et la vertu charmante en tous événements
+A partout des amis, et partout des Amants.
+
+S'il sait l'art de régner, il vous arrêtera.
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
+Vois ma fille, est-ce à moi que votre âme contrainte,
+Doit cacher si longtemps la cause de sa plainte.
+
+Je sais qu'en votre coeur la haine est légitime,
+Que par elle pour moi votre zèle s'exprime,
+Et que je dois aimer ce noble mouvement
+Tout contraire qu'il est à notre sentiment :
+Mais celle qui prétend au rang de Souveraine
+Doit plus songer aux siens qu'à contenter sa haine,
+Et si sa passion ne peut aider l'État,
+Elle doit l'étouffer ainsi qu'un attentat.
+Il est vrai qu'autrefois cette terre étonnée
+Entre ses ennemis comptait Alcionée,
+Et que durant ce temps un courage si haut
+Ne semblait mériter qu'un infâme échafaud ;
+Mais depuis que chez nous mes soins le ramenèrent,
+Et que pour cet État les siens se rallumèrent,
+Quelques grands châtiments qu'il ait pu mériter,
+Ses grandes actions ont su l'en racheter.
+Ce n'est pas toutefois que j'approuve une audace,
+Qui pourrait justement lui causer sa disgrâce,
+Et je ne puis penser qu'un téméraire amour
+Le rende une autre fois la fable de ma Cour.
+
+On vous trompe, ma fille, et je sais ce qu'il aime.
+Il aime cet État, non pour le posséder,
+Mais afin que son bras vous le puisse garder ;
+Et quoi qu'il entreprenne, et quoi que l'on en pense,
+La gloire est son amour, comme sa récompense.
+Toutefois s'il est vrai, qu'au mépris de mes lois
+Un ridicule amour l'aveugle une autre fois,
+Je lui ferai sentir qu'il est un téméraire,
+Que c'est par cet amour qu'il a su me déplaire,
+Et qu'il est rare enfin qu'une témérité
+Réussisse deux fois avec impunité.
+Allez, ma fille, allez ; Alcire, et Callisthène
+M'en viennent apporter la nouvelle certaine,
+Ils ont ordre de moi d'observer ses discours,
+Ses desseins, son espoir, sa haine, ses amours.
+
+Cette âme est-elle encor en son mal obstinée ?
+Enfin a-t-on pu voir où tend Alcionée ?
+
+Il nourrirait des feux illégitimes !
+Donc le pardon d'un crime, augmenterait ses crimes !
+Et son ambition m'oserait menacer,
+Quand j'ai la foudre en main toute prête à lancer !
+Non, non, je ne crois pas que cette âme indomptée,
+Soit jusqu'à cet orgueil une autrefois montée,
+Depuis qu'il est entré dans mon affection,
+Son devoir sert de règle à son ambition.
+Les services qu'il rend nous doivent faire croire,
+Qu'il fait de son devoir son plaisir et sa gloire,
+Et quand je vois les biens, qu'il apporte à l'État
+Je pense avoir songé son premier attentat.
+Mais quand il aimerait en serait-il coupable ?
+Pour estimer Lydie en est-il condamnable ?
+Et contre ce grand coeur dois-je armer mon pouvoir
+S'il veut de contenter d'un amour sans espoir ?
+
+Il veut donc me forcer d'user de ma puissance,
+D'un amour odieux il passe à l'insolence,
+Et croit peut-être encore à ma confusion,
+Passer de l'insolence à la rébellion.
+Il ne se souvient plus que l'horreur de son crime,
+Peut rendre contre lui tout excès légitime ;
+Il ne se souvient plus, cet esprit insensé,
+Qu'au lieu de le punir je l'ai récompensé,
+Donc ma bonté l'aveugle, et fomente en son âme
+Tout ce qui me déplaît, et tout ce que je blâme.
+Ha qu'un Roi trop clément se prépare d'ennui !
+Que le pardon qu'il donne est dangereux pour lui !
+Que la clémence même est souvent criminelle
+Quand elle efface un crime, et pardonne au rebelle !
+Mais qu'il aime, qu'il aime, et fasse des forfaits
+Autant que son amour peut faire de souhaits,
+Si j'ai pu l'élever, je saurai bien l'instruire
+Que le même pouvoir sait bâtir et détruire.
+
+      Qu'il approche, il le faut écouter,
+Et s'il va trop avant, nous saurons l'arrêter.
+
+Soyez en vos desseins plus juste et plus modeste,
+Quand l'espoir est trop haut, il est souvent funeste.
+Écoutez-vous encore un amour furieux
+Qui vous nuit, qui vous perd, qui vous rend odieux ?
+Voulez-vous mon État ? Voulez-vous ma Couronne ?
+N'êtes-vous pas content du rang que je vous donne ?
+C'est là que vos désirs se doivent arrêter,
+Et passer plus avant c'est vous précipiter.
+J'ai de votre grandeur élevé l'édifice,
+Gardez que votre amour n'en soit le précipice,
+Qu'il n'éloigne de vous et mon coeur et mes soins,
+Et qu'espérant trop vous ne possédiez moins.
+Me demander ma fille ! Ha, c'est trop entreprendre,
+Et trop peu l'estimer que d'oser y prétendre.
+
+Songez-vous sans horreur à des jours si funèbres,
+Que vos seuls attentats couvrirent de ténèbres ?
+Et pouvez-vous penser que je vous ai promis,
+Sans penser aux forfaits que vous avez commis ?
+Sans craindre en même temps l'effroyable justice,
+Qui doit aux attentats l'exemple du supplice ?
+Ne vous souvient-il plus des désordres passés ?
+Ne vous souvient-il plus de les avoir causés ?
+Osez-vous demander le loyer d'un outrage ?
+Et pensez-vous qu'on doive où la contrainte engage ?
+Par vos lâches desseins accablé d'ennemis,
+Et craignant pour mon peuple, il est vrai, j'ai promis,
+Mais de cette promesse autrefois nécessaire,
+N'attendez point d'effet qui ne vous soit contraire ;
+Pour le bien de l'État ayant su l'avancer,
+Pour le bien de l'État je puis m'en dispenser.
+Changez donc en respect des flammes insensées,
+Que cette ambition sorte de vos pensées ;
+Enfin n'espérez plus, les trônes sont des Cieux
+Où ne doivent monter que des Rois ou des Dieux.
+
+J'estime comme vous une âme non commune
+Qui tient de sa vertu des dons de la fortune,
+Et je ne doute point que vos puissantes mains
+Ne changent en effets vos illustres desseins :
+Mais quoi que vous puissiez, des victoires si grandes
+Devaient pour votre bien précéder vos demandes.
+Apprenez toutefois qu'à mon coeur, qu'à mes yeux
+Un État usurpé n'est qu'un bien odieux.
+Votre bras dites-vous gagnera la Couronne,
+Mais peut-elle être à nous quand le crime la donne ?
+Un téméraire amour vous donne-t-il des droits,
+Sur les successions des légitimes Rois ?
+Vous est-ce une raison de troubler des Provinces,
+D'attaquer sans respect la majesté des Princes,
+Et de porter les mains sur une autorité,
+Où vous ne montreriez que par la cruauté ?
+Quoi d'amant trop aveugle et peut-être coupable
+Vous vous rendrez encor conquérant détestable ?
+Non, non, ne pensez pas qu'en ce dérèglement,
+J'aime un usurpateur plus qu'un aveugle Amant.
+
+Quand vous seriez vainqueurs d'autant de Tyrannies
+Qu'en peuvent enfanter de brutales manies,
+Quand par l'heureux effort de vos seules vertus
+On verrait sous vos pieds cent Tyrans abattus,
+Si l'esprit de Lydie à vos voeux est contraire
+Devez-vous souhaiter un si triste salaire ?
+Et quand à votre amour on la destinerait,
+Pourriez-vous rechercher un coeur qui vous fuirait ?
+
+Après mille faveurs qui passent votre attente
+Dont l'ambition même aurait été contente,
+Voyez l'infante, allez, sachez son sentiment
+Ici je me soumets à son consentement.
+Êtes-vous satisfait croyez-vous qu'on vous aime ?
+
+      N'entrez pas, vous sortez.
+Vous est-il venu voir ?
+
+      Alcionée.
+
+      À son amour il vous croit destinée,
+Et je ne doute point que vous n'ayez fait voir
+Ce que peuvent sur nous l'honneur et le devoir.
+
+Comment ! Que dites-vous ? Et que pensez-vous faire ?
+
+Me Plaire ! En écoutant des amours détestés.
+
+Oublierez-vous le rang où vous met la Couronne ?
+
+Moi je consentirais à ces indignités !
+
+Non, non, mais pour un Trône un sujet est trop bas,
+Vous devez le savoir.
+
+Oui, j'ai pu consentir qu'un sujet téméraire,
+Et digne d'un supplice, espérât un salaire,
+Mais si j'ai consenti, je l'ai fait seulement
+Pour vous voir résister à ce consentement :
+J'attendais cet effet de cette noble haine
+Qui vous rendait pour lui justement inhumaine.
+
+Je vous donne sur vous une entière puissance,
+Je vous dispense encor de votre obéissance,
+Et j'aime mieux vous voir résister noblement
+Que de vous voir enfin obéir lâchement !
+Faites votre devoir, montrez-vous Souveraine,
+Songer qu'il est sujet, et que vous êtes Reine.
+
+Qu'il menace, qu'il crie, il n'est plus en état
+De faire appréhender un second attentat.
+
+Nous lui saurons donner une bride si forte
+Qu'il sera malaisé que sa rage l'emporte.
+Vous m'en donnez l'avis, laissez-m'en le souci,
+Il n'ira pas bien loin s'il part, mais le voici.
+
+Allez où vos destins vous pourront satisfaire,
+Et si vous m'en croyez, soyez moins téméraire.
+Allez.
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
+
+Je le trouve à propos, et comme on le désire.
+Vous puis-je dire un mot ?
+
+Mais.
+
+Empêchez que ces bruits ne courent davantage.
+
+      D'amour, de mariage,
+On dit parmi le peuple, on le dit à la Cour
+Que l'infante est l'objet que poursuit votre amour.
+On veut même aveugler le sage Alcionée
+Jusqu'à lui faire attendre un si haut hyménée,
+On veut qu'il ait si peu de générosité,
+Qu'il redemande un bien dont il fut rebuté.
+Songez à faire voir.
+
+Mais ce bruit déjà grand peut aller jusqu'au Roi.
+
+Je crois que votre amour est une amour extrême,
+Une fille est aimable avec un diadème ;
+Mais je crains que le Roi, de qui vous vous vantez
+Ne s'oppose lui-même à vos félicités.
+
+On doit l'appréhender tandis que l'on demande.
+
+Vous voulez donc vous taire, et ne rien demander.
+
+Ici de grands hasards précèdent la victoire.
+
+Mais dans ce haut dessein jusqu'où va votre espoir,
+Un sceptre vous manquant, vous manquez de pouvoir.
+
+Je n'ignorai jamais qu'il n'est point de conquêtes
+Qui ne soient aux grands coeurs toutes prêtes ;
+Le Ciel vous doit aider, il aide aux généreux.
+
+Non, Sire, c'est en fin sa moindre récompense
+D'avoir la liberté d'aimer sans espérance ;
+Mais l'amour nous aveugle, et contre tout devoir
+Quiconque a de l'amour a bientôt de l'espoir.
+Je suis certes fâché, qu'un si noble courage
+À sa confusion en rende témoignage,
+Je souffre de sa faute, et ce m'est un tourment
+D'accuser un ami de cet aveuglement ;
+Mais de peur que ce mal qui peut faire un rebelle
+N'étende plus avant sa racine mortelle,
+Je dois le découvrir, et crois qu'il est permis
+Pour bien servir son Roi d'oublier ses amis.
+Il aime donc l'infante, il l'adore, il l'espère,
+Et malgré nos Raisons son amour persévère ;
+Il s'est même vanté que pour la posséder
+Il ne lui coûtera que de la demander.
+Et quand j'ai combattu cette haute arrogance,
+Quand je dis qu'un État manquait à sa naissance,
+Les sceptres, m'a-t-il dit, sont au-dessous de moi,
+Et qui peut en ôter est au-dessus d'un Roi.
+Jugez si ce discours est l'image d'une âme,
+Qu'un destin vertueux puisse exempter de blâme,
+Qui fasse de vos lois tous ses contentements,
+Et de qui le devoir règle les mouvements.
+Il s'élève, il s'enflamme, il menace, il dédaigne,
+Cependant qu'il espère il veut que l'on le craigne,
+Et sa présomption est un signe apparent,
+Qu'il aime le forfait, qui peut le faire grand.
+
+Le voici.
+
+C'est par cette action qu'un si sage Monarque
+Donne de sa justice une éternelle marque ;
+C'est par le successeur qu'il se veut désigner,
+Qu'il se montre aujourd'hui plus digne de régner.
+Mais à quelque degré de grandeur et d'estime
+Où vous puisse porter un Roi si magnanime,
+Sa Justice seconde en mille heureux effets
+Vous y mettra plus tard que n'ont fait vos souhaits.
+
+Que ce monstre paraisse, en fin nous ferons voir
+Que la vraie amitié n'est jamais sans pouvoir :
+Espérez tout de nous, et selon votre attente.
+
+      Ô Dieux ! Qu'avez-vous ?
+
+Les colères des Rois nous laissent peu d'amis.
+
+S'il les a résolus, il faut qu'il y consente ;
+Il a loué Lydie, et déjà son courroux
+A devant cent témoins éclaté contre vous.
+
+J'ai parlé, mais en vain, l'amour fait votre perte.
+
+      Sortez de cette terre
+Où tant d'ennuis secrets vous déclarent la guerre.
+On reconnaîtra mieux ce que vous méritez,
+Quand on aura besoin de vos bras indomptés.
+
+C'est trop vous hasardez.
+
+C'est vous perdre.
+
+N'irritez point le Roi.
+
+Je pense vous servir.
+
+      Je fais ce que je dois.
+
+Songez enfin à vous ; des amours obstinées
+Ne font pas mériter des filles couronnées.
+Il faut avoir un Trône, où l'on fasse la loi,
+Afin de mériter l'héritière d'un Roi.
+
+Cherchez donc autre part des amis si parfaits,
+S'ils vous sont complaisants, ils vous sembleront vrais.
+
+Oui Sire, il veut partir.
+
+      Il semble qu'il menace.
+
+Déjà, Sire, déjà son murmure est un crime,
+Dont la punition est toujours légitime.
+Il veut enfin partir, et peut-être qu'il part,
+Assuré du secours qui l'attend d'autre part.
+Que sait-on si déjà par de sourdes pratiques,
+Il ne travailla point aux misères publiques ?
+Que sait-on si déjà sa fière ambition,
+N'a point couvé le feu d'une rébellion ?
+Sire, il en est capable, et d'autant plus capable
+Qu'on ne l'a point puni quand il était coupable,
+On s'accoutume enfin à toute impiété
+À force de faillir avec impunité.
+Que cet ambitieux d'une haute entreprise
+Aux peuples subjugués promette la franchise,
+Avecques ce prétexte il les soulèvera,
+Avecques cette amorce il les attirera,
+Cette offre est un appas, qui fait plus de rebelles
+Que les faveurs des Rois ne font d'âmes fidèles,
+Il faut donc y pourvoir d'autant plus promptement
+Qu'un peuple subjugué se révolte aisément.
+
+      Je crois vous devoir justement
+Pour la gloire du Sceptre un avertissement.
+On semble négliger le traître Alcionée,
+Mais s'il peut s'éloigner, Sardis est ruinée,
+Il ne faut point douter qu'un second attentat
+Ne le perde lui-même, ou ne perde l'État.
+Je pense qu'on doit craindre un esprit téméraire
+Lors que le désespoir allume sa colère,
+Et qu'il est dangereux qu'il soit en liberté
+Quand pour le bien public il doit être arrêté.
+On l'observe, il est vrai, mais il ne faut point feindre,
+Cependant qu'il est libre, il est encore à craindre,
+Et les maux du passé sont autant de clartés
+Par qui l'on doit prévoir d'autres calamités.
+J'ai parlé, j'ai montré, que le mal est extrême,
+C'est à vous maintenant de parler pour vous-même,
+C'est à vous de combattre, et de représenter
+Que d'un ambitieux on doit tout redouter.
+
+Bien souvent cet esprit qui conduit les Provinces
+Agit par les conseils qu'un sujet donne aux Princes.
+
+On doit appréhender l'audace qui s'irrite.
+
+Elle n'est pas sans force étant en liberté.
+
+Mais, comme le Tonnerre, en tombant elle tue.
+
+Ce feu qui fut si grand n'est pas encore éteint.
+
+Bien souvent cette peur assure des Provinces.
+
+Elle ne manque pas d'un juste fondement.
+
+J'en ai donc assez dit.
+
+
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_callisthene
+
+Sire, il tend à l'Empire, et n'a point de dessein
+Qui ne promette un sceptre à sa superbe main,
+Pourrait-il aspirer jusqu'à votre alliance
+Sans aspirer aussi jusqu'à votre puissance ?
+Vos Royales faveurs ont fait sa vanité,
+Et sont les aliments de sa témérité.
+
+Que redouteriez-vous ?
+
+Un autre mieux que moi vous rendra ce devoir.
+
+      Je manque de pouvoir.
+Je manque de remède à des peines si grandes,
+Et les Rois souffrent peu d'importantes demandes.
+
+Que peuvent peu d'amis où tant de maux s'assemblent ?
+
+Lorsqu'un peu de raison vous ouvrira les yeux,
+Vous entreprendrez moins, et me connaîtrez mieux.
+
+Ce destin qui vous perd, est votre passion.
+
+      Et dans cette disgrâce
+Il semble qu'il murmure.
+
+Sire, il y faut y penser, de généreux courages
+Sont toujours en état d'exciter des orages ;
+Et le malheur des Rois, de tout temps a permis
+Qu'un bras qui se révolte ait trouvé des amis.
+

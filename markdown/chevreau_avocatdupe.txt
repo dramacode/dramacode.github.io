@@ -1,6 +1,6 @@
 ---
 identifier: chevreau_avocatdupe  
-creator: Chevreau, Urbain  
+creator: Chevreau, Urbain ; Georges Forestier.  
 date: 1637  
 title: L'Advocat duppé. Comédie  
 ---

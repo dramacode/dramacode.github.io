@@ -1,160 +1,43 @@
 
 
-**** *book_ *id_dedicace *date_1669 *creator_clerselier
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clidamant
 
-A SON ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE
-
-MONSEIGNEUR.
-
-Si cette petite Comedie , que je prends la liberté de vous offrir, me fait passer pour un fascheux.
-
-Vostre ALTESSE⁎ s'en doit prendre à l'air⁎ trop obligeant dont elle reçoit les gens, et de la bonté qu'elle a pour des personnes, qui ne luy peuvent offrir que des foibles vers, pour la remercier de toutes les graces⁎ qu'elle leur fait.
-
-Je vous prie cependant, MONSEIGNEUR, de vous resouvenir de l'honneur de Vostre protection, que vous me promistes si genereusement, lors que je pris la hardiesse de vous asseurer de mes Respects et de me dire, si c'est cette méme bonté, que vous eustes pour moy, qui m'oblige d'estre importun à Vostre Altesse, en luy offrant le premier enfant de ma Muse.
-J'espere que ce petit present, que je vous fais m'acquitterad'une debte tres considerable , s'il a le bonheur de vous divertir dans la lecture que vous en ferés .
-La gloire sera grande pour moy, sans doute, si la premiere piece de theatre que j'ay mis en jour, peut plaire à un des plus illustres Princes de la terre, et si luy ayant consacré mon premier ouvrage je puis l'asseurer, que je suis avec un profond respect.
-
-Monseigneur
-
-De Vostre Altesse Le tres-humble et tres-obligé tres-obeïssant Serviteur⁎.
-
-D.C.DENanteuil.
-
-**** *book_ *id_I01 *act_I *date_1669 *creator_clerselier
-
--*who_croctin
-Ce dessein⁎ vous surprend.
-
--*who_clidamant
                   J'en suis tout interdit⁎.
 
--*who_croctin
-Vous le serez bien plus, lors que j'auray tout dit,
-Vous vous plaignez d'un mal, et je me plains d'un autre,
-Vous voyez ma tristesse, et moy je voy la vostre,
-Vous aimez Isabelle et Florant l'aime aussy,
-
--*who_clidamant
 Que je suis malheureux.
 
--*who_croctin
-                  Que faire à tout cecy.
-Ma foy je n'y vois goutte.
-
--*who_clidamant
                   Il faudra que Lisette...
 Mais viens prendre un billet⁎.
 
--*who_croctin
-                      Ny billet⁎ ny billette⁎
-Ne sera point porté.
-
--*who_clidamant
                   Pourquoy ? dans sa maison...
 
--*who_croctin 
-Quand vous parlez ainsy, vous parlez sans raison.
-Vous dites qu'en amour vous n'estes pas novice,
-Mais vos raisonnements ne sont qu'un pur caprice.
-
--*who_clidamant
 Te connoist il.
 
--*who_croctin
-              Qui moy ? Jamais il ne m'a veu.
-
--*who_clidamant
 Il faudra que tu fasse...
 
--*who_croctin
-                  Et tout cela conclu,
-Que pretendez vous faire.
-
--*who_clidamant
                   Une chose admirable,
 Que tu feras.
 
--*who_croctin
-              Qui moy ? Que je me donne au Diable
-Si j'y vais.
-
--*who_clidamant
               Tu pourras, quand il sera sorty,
 Entrer dans sa Maison.
 
--*who_croctin
-                  Quand il seroit party,
-Pour aller en Escosse, ou bien en Allemagne,
-On voit certain mouchart⁎, qui souvent m'accompagne.
-C'est pourquoy je vous dis, que si l'on me tenoit,
-On me feroit grand chere, ou l'on me meneroit
-Dans le grand Chastelet, dans la Conciergerie,
-J'y pourrais demeurer le reste de ma vie,
-On a veu des decrets de tout temps contre moy,
-Sans sçavoir la raison ny comment ny pourquoy,
-On voit tant d'Innocents perir pour les coupables.
-
--*who_clidamant
 Je suis plus malheureux que les plus miserables,
 Si tu veux à present m'abandonner.
 
--*who_croctin
-                          Poussez.
-Je veux vous faire grace⁎.
-
--*who_clidamant
                   Il suffit,
 
--*who_croctin
-                      C'est assez.
-Deusse je estre pendu par mon col tout à l'heure,
-Si je ne vais parler jusques à sa demeure...
-
--*who_clidamant
 A ma chere Isabelle.
 
--*who_croctin
-                  Ouy je vous le promets
-Vous me permettez bien.
-
--*who_clidamant
                   Ouy, je te le promets
 Fais ce que tu voûdras.
 
--*who_croctin
-                  Il faut vous satisfaire.
-J'y vais tout de ce pas, rien ne m'en peut distraire,
-Mais je suis arresté, car je vois nostre amant⁎
-Plus malheureux que n'est ...
-
-**** *book_ *id_I02 *act_I *date_1669 *creator_clerselier
-
--*who_isabelle
-                  Est-ce vous Clidamant ?
-
--*who_clidamant
 Ouy, Madame, c'est moy
 
--*who_lisette
-                  Croctin ?
-
--*who_croctin
-                      Quoy ?
-
--*who_lisette
-                          C'est ton Maistre ?
-
--*who_clidamant
 Non, Madame, à vos yeux je n'osois pas paroistre.
 De peur d'estre connu de ce fascheux jaloux,
 Je n'osois seulement passer pres de chez vous
 Je craignois ...
 
--*who_isabelle
-              Quand on aime on ne sçauroit rien craindre,
-Vostre inconstance seule ...
-
--*who_clidamant
                       Et pouvez vous vous plaindre,
 Lors que vous m'ordonnez d'abandonner ces lieux,
 Que je n'osois quitter, malgré les envieux,
@@ -163,132 +46,140 @@ Vous me venez d'abord accuser d'inconstance.
 Hêlas sy vous voyiez jusqu'au fond⁎ de mon Cœur
 Vous y verriez empreinte une vive douleur.
 
--*who_isabelle
+Croctin fera l'affaire, usant du stratagesme ...
+
+Moy je sçauray, ...
+
+Fais à ta fantaisie⁎.
+
+                  Va nous te laissons faire.
+
+Je t'en feray gouster et du plus delicat,
+Tu vois quand on me sert qu'il y va de la gloire.
+
+      Tu ne fais que baailler.
+
+Ce sera m'obliger et de belle maniere.
+
+Lors que je la verray ce sera pour ton bien.
+
+Je ne luy parle plus.
+
+Croctin de mon costé tu n'auras point d'ombrage.
+
+Mais…
+
+Ne me diras tu point ce que fait ta Maistresse⁎.
+
+Tu vois ce que Croctin nous promet.
+
+Sans doute que Florant luy fit joüer ce tour.
+
+Suis je bien à ton gré cher Croctin cette taille,
+Que dis tu de ce port,
+
+Que te sert de Railler⁎.
+
+                          Pourquoy.
+Luy parlant franchement il ne peut rien sur toy
+Outre qu'il ne sçay pas que c'est le stratageme.
+Il ne peut pas deviner.
+
+Pourquoy le feroit elle.
+
+Je connois Isabelle elle est constante.
+
+Tu serois amoureux tu te mocque,
+
+Lors que tu me disois ce que tu viens de dire,
+J'ay creu que tu raillois⁎.
+
+Pour garder cette fille il ne faudra que moy,
+J'en responds corps pour corps.
+
+Je croy que vous serez de mon costé Lisette.
+
+Va ne crains rien Croctin.
+
+Sans plus tarder Madame il faut sortir d'icy,
+Vous sçavez que c'est vous qui faites mon soucy⁎.
+Que je vous aime enfin.
+
+                          Je vous aime,
+L'amour m'en est tesmoin mon ardeur⁎ est extreme.
+
+Ils raisonnent je croy il faut leur donner cent coups.
+
+                  Sans doute.
+
+Madame il n'est plus temps de rien dissimuler,
+C'est à moy de me taire et vous devez parler,
+Si vous pouvez m'aimer je vous aime de mesme,
+Vous m'avez esprouvé puis que ce stratageme,
+N'est fait que pour vous seule et je vous dis assez,
+L'amour m'a commandé, Madame.
+
+                  Mon cœur est en ostage,
+Allons Madame allons qu'il y soit à jamais,
+Nous trouverons moyen de faire vostre paix.
+
+Monsieur puis-jé esperer cette beauté que j'ayme.
+
+      S'il est ainsi mon bon-heur est extreme.
+
+                  Ah que je suis heureux !
+Madame.
+
+                  Ah Monsieur quelles graces⁎ !
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
+                  Est-ce vous Clidamant ?
+
+              Quand on aime on ne sçauroit rien craindre,
+Vostre inconstance seule ...
+
 Ouy, je voys, Clidamant, que vous m'aimez encore.
 Je voy que vous avez ...
 
--*who_croctin
-                  Madame il vous adore,
-Je suis homme d'honneur, croyez moy sur ma foy,
-
--*who_lisette
-Tu crois l'estre, Croctin, mais tu te trompe.
-
--*who_croctin
-                          Quoy,
-Je te vois contre moy pousser ton eloquence,
-Tu veux te gendarmer, voyant que la finance,
-Ne trotte pas chez nous comme l'on voudroit bien,
-Laisse là mon amour, je ne veux point du tien.
-
--*who_lisette
-Quoy, Croctin, contre moy tu te mets en colere.
-
--*who_croctin 
-A parler franchement je ne veux pas te plaire,
-Et quant on me deplait, je veux dire ...
-
--*who_lisette
-                          Comment ?
-Tu croirois donc beaucoup t'abaisser en m'aimant.
-
--*who_croctin
-Non, je m'agrandirois entrant dedans ta couche,
-Tu voudrois en taster, je t'entends, fine mousche,
-Je t'en feray gouster quand nous serons chez nous.
-
--*who_lisette
-Dequoy ? du mariage ?
-
--*who_croctin
-                  Et ouy.
-
--*who_lisette
-                      Pour mon espoux,
-Je te veux bien, au moins.
-
--*who_croctin
-                      Va je te veux de mesme.
-
--*who_clidamant
-Croctin fera l'affaire, usant du stratagesme ...
-
--*who_croctin
-Ouy, vous pourrez vous veoir et vous parler tous deux.
-
--*who_isabelle
 Et s'il en vient à bout : nous serons trop heureux,
 Je luy feray du bien en luy donnant Lisette,
 
--*who_clidamant
-Moy je sçauray, ...
-
--*who_croctin 
-      Comment la peste⁎ quelle emplette,
-Je vous serviray bien, laissez faire Croctin,
-J'ay là dedans dequoy fascher vostre mastin⁎,
-Sans sçavoir la raison pour laquelle il se fasche,
-Je luy feray corner que c'est le plus grand lasche,
-Que l'on puisse trouver de Paris au Japon,
-Puis vous sçaurez ...
-
--*who_isabelle
                   Mais ...
 
--*who_croctin
-                      Mais quoy ? que dira-t-on ?
-
--*who_isabelle
 Mais s'il alloit sçavoir.
 
--*who_croctin
-                  Que sçauroit il ? j'enrage,
-Luy qui n'a jamais veu les traits de mon visage,
-Me reconnoistra-t-il ? s'il ne m'a jamais veu.
+Personne ne croyroit vos aparances fausses,
 
--*who_clidamant
-Fais à ta fantaisie⁎.
+                  Reçois ces dix pistoles.
 
--*who_croctin
-                  Et bien en suis je creu,
-Sy je fais mon devoir.
+                  Ah je tremble.
 
--*who_clidamant
-                  Va nous te laissons faire.
+S'il nous alloit trouver.
 
--*who_croctin
-C'est asses, vostre face excite ma colere,
-Retirez vous, Madame, allez vous en chez vous,
-Et vous, Monsieur, aussy faites gile⁎ chez nous,
-Il suffit que je vois le fond⁎ de ce mistere,
-Mais quelqu'un vient, allons commencer nostre affaire.
+J'y consens Clidamant vous m'aimez.
 
-**** *book_ *id_I03 *act_I *date_1669 *creator_clerselier
+Je n'y resiste plus ..,
 
--*who_florant
+Pour marquer mon amour prenez cecy pour gage,
+Je m'abandonne à vous.
+
+Je me jette à vos pieds.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florant
+
 Voyez, mon cher voisin, si je suis malheureux,
 Vit on jamais un homme à mon aage amoureux
 Amoureux à tel point mon ardeur⁎ est extreme.
 
--*who_fernant
-Quand on aime pourtant l'on n'agit pas de mesme,
-On ne maltraitte pas l'object de son amour,
-
--*who_florant
 Il est vray, je la bas au moins vingt fois le jour,
 Quand la colere emporte⁎ on n'en est pas le maistre.
 
--*who_fernant
-Pourquoy la battez vous ?
-
--*who_florant
                   Je sçay qu'un certain traistre,
 Chut au moins sur ce point.
 
--*who_fernant
-                      Quoy ?
-
--*who_florant
                           Ce n'est pas pour vous,
 Pour faire court, il vient la visiter chez nous,
 Mais si je l'y puis voir ou je veux qu'on me berne⁎,
@@ -301,11 +192,6 @@ Mais j'y veux donner ordre et dedans peu de temps,
 Je le pourray connoistre et m'en aller aux champs,
 Quand il sera coffré, je n'auray rien à craindre.
 
--*who_fernant
-Isabelle pourroit tres justement se plaindre,
-Si vous en agissiez de cette façon lá.
-
--*who_florant
 Ne voyez vous pas bien que ce n'est que cela,
 Qui me fait hesiter et que ma jalousie,
 Se fait voir au quartier comme une fantaisie⁎,
@@ -313,30 +199,13 @@ Qui me feroit passer à mon nés pour un fou,
 Si je ne sçavois pas les moyens et par où,
 Me tirer à present d'une facheuse affaire.
 
--*who_fernant 
-Il est vray celle là n'est pas fort ordinaire.
-
--*who_florant
 J'y donneray bon ordre et devant⁎ qu'il soit peu
 Le commerce aura fin, ou nous verrons beau jeu.
 
--*who_fernant
-Dans vos raisonnements, vous estes admirable,
-Pouvez vous empescher qu'il ne la trouve aimable,
-S'ils s'aiment bien tous deux que faire sur ce point,
-Que me respondrez vous ?
-
--*who_florant
                   Qu'il ne la verra point,
 Que je l'enfermeray. De plus s'il faut se plaindre,
 Je sçay bien comme on fait.
 
--*who_fernant
-                      Il faut tousjours tout craindre,
-Isabelle entre nous depend elle de vous,
-Jusques à supporter vostre facheux couroux⁎ ?
-
--*who_florant
 Ouy, comme estant tuteur il faut qu'elle en depende,
 Elle en mordra ses doigts, ou je veux qu'on me pende,
 Je sçay bien les moyens de luy faire quitter,
@@ -344,64 +213,24 @@ Le joly damoiseau⁎ qui la vient mugueter⁎,
 Il verra dés ce soir à quel point je me chausse⁎,
 Si j'ay raison ou non, ou si la chose est fausse.
 
--*who_fernant
-Tous vos emportements⁎ sont icy superflus,
-Croyez vous qu'ils viendront vous parler la dessus.
-
--*who_florant
 Vous ne m'obligez⁎ pas ...
 
--*who_fernant
-                  Je ne veux plus rien dire,
-Si non que l'on doit craindre un revers de satyre,
-Je vous parle en amy, lors que je parle ainsy.
-
--*who_florant
 Je vous suis obligé⁎. Je vous disois aussy,
 Qu'il seroit bon de mettre à leurs vœux quelque obstacle.
 
--*who_fernant
-Si vous faisiez cela vous feriez un miracle,
-Car il est difficile alors qu'on est aimé,
-D'abandonner si tost ce qui nous a charmé.
-
--*who_florant
 Il est vray quand on aime, on aime avec furie⁎.
 
--*who_fernant
-Voila vostre embarras⁎.
-
--*who_florant
                   Voila la diablerie⁎,
 Que je ne sçavois pas et qu'il falloit sçavoir.
-
--*who_fernant
-Vous pouvez cependant user de mon pouvoir,
-Vous sçavez que je suis tout à vostre service⁎,
-
--*who_florant 
+ 
 Vous m'obligez⁎ beaucoup.
 
--*who_fernant
-                      Et que c'est mon supplice,
-Quant on n'en agit pas en toute liberté.
-
--*who_florant
 Je vous apprendray donc quelle est ma volonté
 Pour rompre leur amour, toute mon industrie⁎.
 C'est ce soir de rentrer transporté⁎ de furie⁎,
 Chez moy, d'où je feray sortir des Crocheteurs⁎,
 Qui feront tout pour nous.
 
--*who_fernant
-                  Vous avez des flateurs,
-Qui vous conseillent mal. Ces crocheteurs⁎ peut estre,
-Sont des gens affidez, qui ne pourront parroistre,
-Que pour tout emporter ce qui sera chez vous,
-Croyez moy, cher voisin, tirez-vous de ces coups,
-C'est le plus seur.
-
--*who_florant
               Et bien il faut vous satisfaire.
 Je vais vous dire tout ce que je viens de faire,
 Desja ces crocheteurs⁎ sont de bonne grandeurs
@@ -409,46 +238,175 @@ Gros, Rons et qui feront fort bien le coup d'honneur,
 Si le Galand⁎ paroist ils feront tous merveille,
 Que me conseillez vous.
 
--*who_fernant
-                  Qui moy ? je vous conseille
-De faire sans tarder ce que vous dites là,
-C'est là le seul moyen.
-
--*who_florant
                   En effect le voila.
 Mais je pretends de plus, je voy quelqu'un, courage,
 Escoutons les un peu.
 
--*who_fernant
-                  Tirons nous de l'orage.
+                  Allons enfants poussez.
 
-**** *book_ *id_I04 *act_I *date_1669 *creator_clerselier
+      Nostre amoureux transy,
+Apprendra son devoir en le traittant ainsy,
+Il sçaura ce que c'est que s'en prendre à son maistre,
+Il fremira d'abord en me voyant paroistre,
+Je voudrois bien trouver un garçon comme il faut,
+Pour garder Isabelle et qui fust sans deffaut,
+Que je gagerois bien un garçon de la sorte.
 
--*who_fabrice
+Bon Dieu qu'il m'a fait peur ! peste⁎ soit du mastin⁎.
+
+Qu'avez vous mon amy, vous paroissez faché.
+
+Vous a-t-il pris beaucoup.
+
+Mais si je m'en servois pour garder ma maison,
+Je ne ferois pas mal.
+
+                  Il n'est pas necessaire,
+De tant complimenter avez vous respondant.
+
+              Que fait-il.
+
+      Il suffit j'ay certaine egrillarde,
+Qu'il faudra bien garder.
+
+Je laisse avecques vous une plaisante Dame,
+C'est Lisette.
+
+On voit certain Galand⁎,
+
+              Entre deux.
+
+C'est un jeune blondin mais tout à fait bien fait,
+En un mot c'est Fabrice.
+
+Va viste le trouver et reviens en ce lieu.
+
+                      A bon Dieu.
+Je ne puis craindre rien, Juste Ciel quels delices,
+Ah ! mon ame à present n'est plus dans les suplices
+Je ne puis plus durer, que mon bonheur est grand,
+Qui te peut mieux servir que ce garçon Florand    
+Heurtons chez mon voisin ah je vous tiens la belle,
+Hola⁎ Monsieur Fernant.
+
+Mon cher voisin c'est moy je veux vous dire un mot,
+C'est Florant.
+
+                  Je vous demande excuse.
+Je vous ay destourné.
+
+                      Car j'en use
+Un peu trop librement.
+
+                          Escoutez.
+
+                  C'est bien fait vous doutez,
+Que je viens de choisir deux garçons de courage,
+Qui dedans ma maison feront nouvelle rage,
+Ils se mettront en garde et de bonne façon,
+Celuy qui m'a parlé parroist brave garçon.
+
+                  Ouy voisin.
+
+C'est Monsieur Fernidant.
+
+Je le sçay, faut luy mettre un fort bon cadenas.
+
+                  Il faut que je le face.
+Venez avecques moy que je la cadenace.
+
+J'en trouveray bien un, que je crains l'embaras⁎.
+
+                  Te voila de retour,
+
+Comment vous nomme t'on.
+
+Il faudra bien garder le soir et le matin,
+Que personne ne vienne et sur tout bonne veuë.
+
+                      Et que feras tu toy.
+
+              Entréz il faut tout esperer
+
+Il faut ...
+
+J'y consens volontiers, achevons ce dessein⁎.
+
+Madame est elle icy ? cher amy dis-le nous,
+Est-il icy Florant ?
+
+Estant absent mon cher je voudrois voir la femme,
+Qu'il pretend espouser.
+
+                  Eh fais nous cette grace⁎.
+
+Que j'ay de bons portiers cher voisin, que je meure,
+Si je ne vais quitter la maison tout à l'heure,
+Allons nous en chez vous prendre nos vestements,
+Nos danseurs sont tous prests puis nous irons aux champs.
+
+Je veux que vous veniez pour dancer à ma noce,
+La fille m'aime fort puis je n'y perdray rien,
+J'en auray du plaisir Croctin la garde bien,
+Allons depeschons nous.
+
+Ces coquins⁎ ont usé sur nous plus de vingt gaulles.
+
+Allons changer d'habits nous sommes bien repus,
+Puis apres nous irons sans prendre un plus long terme,
+Voir ce qu'on dit de bon dans ma petite ferme
+
+Passez devant passez, passez Monsieur Fernant.
+
+Nos gens ont fort bien fait je ne le sçaurois taire,
+Ils nous ont bien batu.
+
+                  Personne n'est dedans ...
+Helas ! je n'en puis plus, ma cervelle est troublée,
+Mon esprit ne va plus, j'ay la teste feeslée⁎,
+Mon cœur vient de sortir on vient de le voler,
+Ah ! voisin je suis mort.
+
+Je crains que ce ne soit le Marquis Ridicule,
+Qu'en dites vous.
+
+Ils ne reviendront pas, Ah ! chien de portier traitre !
+
+MONSIEUR.
+Vous devez estre sans doute surpris de la maniere que j'en agis avec vous, c'est moy qui ay gardé Isabelle chez vous avec Croctin mon valet, elle est entre mes mains, et si vous souhaitez nostre alliance, vous aurez la bonté de me le faire sçavoir par le porteur de ce billet⁎.
+Clidamant.
+
+Il ne l'aura jamais.
+
+                          Bien qu'il ayme,
+Faites les moy venir que je les voye un peu.
+Tenez mon cher voisin, j'ay perdu tout mon feu⁎,
+Mon amour s'est passé.
+
+                  Je n'estois rien que braise
+Mais je les aperçois qu'ils viennent droit à nous.
+
+                  Levez vous levez vous.
+
+Elle est à vous Monsieur.
+
+      C'est assez, aimez-vous bien tous deux.
+Il faut nous divertir.
+
+Appelle nos danseurs.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+
 Roguepine.
 
--*who_roguepine
-              Monsieur.
-
--*who_fabrice
                   Approchez-vous, faquin⁎.
 
--*who_roguepine
-Vous l'emportez⁎ sur tous.
-
--*who_fabrice
       Elle m'aime coquin⁎
 Dis moy ce que t'a dit cette belle assassine,
 Elle m'estime fort, n'est ce pas Roguepine.
 Son amour va ...
 
--*who_roguepine
-              Pourquoy n'en auroit elle pas
-Un Marquis, comme vous, peut il manquer d'appas⁎,
-Allez croyez tousjours que la belle est de flamme⁎,
-Et que je sçay fort bien tout ce qu'elle a dans l'ame.
-
--*who_fabrice
 Mais crois tu qu'Isabelle avec tous ses attraicts,
 Ne m'eust pas envoyé desja six mille traicts,
 Elle me charme enfin paroissant à sa veüe,
@@ -463,48 +421,18 @@ Je ne ressemble pas Clidamant de Moncade.
 Qui se laisse emporter⁎ à sa seule boutade⁎
 Et ...
 
--*who_roguepine
-      Comment pouves vous vous retirer des coups,
-Que l'on prepare icy pour se railler⁎ de vous
-
--*who_fabrice
 Ma perruque est jolie et mon point⁎ admirable,
 Oui je suis un Marquis, mais tout à fait aimable,
 J'ay du coeur.
 
--*who_roguepine
-      Comme un bœuf vostre mere l'a dit.
-
--*who_fabrice
 Mes canons sont fort bien, j'ay de plus du credit,
 Bref en tout et par tout ma personne charmante
 Pourra bien contenter ma Maistresse⁎ dolente.
 
--*who_roguepine
-Je contenterois bien Lisette ma guenon⁎,
-Elle me dit souvent approche, mon mignon,
-Roguepine mon fils. Touchant vostre Maistresse⁎,
-Elle vous aime fort, elle a de la tendresse,
-La pouponne⁎ vous lorgne⁎, et fait bien sur ma foy.
-Mais à propos, Monsieur, a-t-elle bien dequoy.
-
--*who_fabrice
 Roguepine elle est riche.
 
--*who_roguepine
-                  Elle est bien egrillarde,
-Du moins elle paroist un tant soit peu gaillarde,
-Qu'en dites vous, Monsieur, disant la verité,
-Je croy ne pas pecher contre la charité,
-N'est ce pas.
-
--*who_fabrice
               Tu te trompe elle est sage.
 
--*who_roguepine
-                          Ou je meure …
-
--*who_fabrice
 Je te la feray voir devant⁎ qu'il soit une heure.
 Tu pourras juger d'elle, et si dans sa beauté,
 Tu ne trouveras pas quelle est sa qualité.
@@ -513,10 +441,6 @@ Qu'il dit tout ce qu'il peut et fust elle tigresse.
 Tu verras si j'impose⁎ ou si c'est verité,
 Et tu pourras connoistre enfin cette beauté.
 
--*who_roguepine
-Je sçay que vous l'aymez comme on voit qu'elle est belle.
-
--*who_fabrice
 De toutes les beautez elle est le seul modelle,
 Tu connoistras apres si semblables appas⁎,
 Peuvent charmer un cœur en ne le perdant pas,
@@ -525,44 +449,650 @@ L'on ne peut pas aymer tant de beautes. Aminte,
 Polixene, Herminie, Andromache, Didon,
 Si vous estiez icy ...
 
--*who_roguepine
-                  Vous les aymeriez.
-
--*who_fabrice
       Non,
 Je ne quitterois pas mon aimable Isabelle.
 Attends moy, je m'en vais entrer chez cette belle.
 
--*who_roguepine
-Vous me faite plaisir,
-
--*who_florant
-                  Allons enfants poussez.
-
--*who_fabrice
 Me maltraitter ainsy.
 
--*who_roguepine
-                  C'est mon Maistre rossez.
-
-**** *book_ *id_II01 *act_II *date_1669 *creator_clerselier
-
--*who_roguepine
-Il faudroit moderer l'ardeur⁎ qui vous transporte⁎,
-
--*who_fabrice
 Comment, comme un Coquin⁎ me voir mettre à la porte,
 Et courir dessus moy le baston à la main,
 Ah ! je me vangeray de ce coup inhumain,
 
--*who_roguepine
-Et ils frapoient si fort.
-
--*who_fabrice
                   Jaloux insuportable
 Lasche, infame.
 
--*who_roguepine
+                      Estant entré d'abord
+Florant crioit tout haut, estes vous bien d'accord.
+Les autres respondants nous le sommes sans doute,
+J'ay veu certaines gens, estrillez quoy qu'il couste,
+A dit Florant. Apres ils ont frappé sur moy.
+
+Que ne faisois tu donc paroistre ton courage,
+
+Tu nous aurois fait voir si tu dis verité.
+
+Il faudra nous vanger Roguepine.
+
+Ah ! Malheureux poltron ...
+
+L'amy laisse un peu là ta foible raillerie⁎,
+Donne moy patience.
+
+Roguepine, Isabelle !
+
+                      C'est ma Maistresse⁎.
+
+      Ha je meurs de tristesse.
+
+Vous tairez vous, maraut.
+
+      Que je suis miserable.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernant
+
+Quand on aime pourtant l'on n'agit pas de mesme,
+On ne maltraitte pas l'object de son amour,
+
+Pourquoy la battez vous ?
+
+                      Quoy ?
+
+Isabelle pourroit tres justement se plaindre,
+Si vous en agissiez de cette façon lá.
+ 
+Il est vray celle là n'est pas fort ordinaire.
+
+Dans vos raisonnements, vous estes admirable,
+Pouvez vous empescher qu'il ne la trouve aimable,
+S'ils s'aiment bien tous deux que faire sur ce point,
+Que me respondrez vous ?
+
+                      Il faut tousjours tout craindre,
+Isabelle entre nous depend elle de vous,
+Jusques à supporter vostre facheux couroux⁎ ?
+
+Tous vos emportements⁎ sont icy superflus,
+Croyez vous qu'ils viendront vous parler la dessus.
+
+                  Je ne veux plus rien dire,
+Si non que l'on doit craindre un revers de satyre,
+Je vous parle en amy, lors que je parle ainsy.
+
+Si vous faisiez cela vous feriez un miracle,
+Car il est difficile alors qu'on est aimé,
+D'abandonner si tost ce qui nous a charmé.
+
+Voila vostre embarras⁎.
+
+Vous pouvez cependant user de mon pouvoir,
+Vous sçavez que je suis tout à vostre service⁎,
+
+                      Et que c'est mon supplice,
+Quant on n'en agit pas en toute liberté.
+
+                  Vous avez des flateurs,
+Qui vous conseillent mal. Ces crocheteurs⁎ peut estre,
+Sont des gens affidez, qui ne pourront parroistre,
+Que pour tout emporter ce qui sera chez vous,
+Croyez moy, cher voisin, tirez-vous de ces coups,
+C'est le plus seur.
+
+                  Qui moy ? je vous conseille
+De faire sans tarder ce que vous dites là,
+C'est là le seul moyen.
+
+                  Tirons nous de l'orage.
+
+                  Qui va là qui m'apelle.
+
+              Je m'en vais la peste⁎ soit du sot.
+Que voulez vous voisin.
+
+                  Nullement.
+
+                  Point du tout.
+
+Et bien je vous entends.
+
+Ont ils un Respondant.
+
+                          Legitime.
+
+                  Il est en bonne estime
+Si vous suivez l'avis⁎ d'un certain Quantenas.
+
+Ce seroit mon advis⁎.
+
+Je le veux bien, allons chercher un cadenas.
+
+      Esprouvons les voisins s'ils sont fidelles,
+Et s'ils ne seroient point de fausses Sentinelles,
+Allons nous deguiser le voulez vous voisin.
+
+Nous sommes des amis.
+
+Retirons nous voisin,
+
+Vous serez plus heureux tantost qu'un Roy d'Escosse.
+
+                  Que j'ay mal aux espaulles.
+
+C'estoit un bon baston j'en ay os rompus.
+
+Allons, je le veux bien passez Monsieur Florant.
+
+                  Je n'y sçaurois que faire.
+Mais de peur d'estre pris en ces lieux pour Galands.
+Entrons dans la maison.
+
+                  Il faut vous consoler.
+
+              C'est luy, quelle dure pilule
+Il faut vous consoler doucement mon amy,
+Et ne pretendre pas l'avaler à demy,
+Il faut vous consoler ils reviendront peut estre.
+
+                  Voyez son compliment.
+
+Vous ne pouvez l'avoir donnez luy.
+
+                  Voisin j'en suis bien aise⁎.
+Vous estes tout changé.
+
+Ouy ouy.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_croctin
+
+Ce dessein⁎ vous surprend.
+
+Vous le serez bien plus, lors que j'auray tout dit,
+Vous vous plaignez d'un mal, et je me plains d'un autre,
+Vous voyez ma tristesse, et moy je voy la vostre,
+Vous aimez Isabelle et Florant l'aime aussy,
+
+                  Que faire à tout cecy.
+Ma foy je n'y vois goutte.
+
+                      Ny billet⁎ ny billette⁎
+Ne sera point porté.
+ 
+Quand vous parlez ainsy, vous parlez sans raison.
+Vous dites qu'en amour vous n'estes pas novice,
+Mais vos raisonnements ne sont qu'un pur caprice.
+
+              Qui moy ? Jamais il ne m'a veu.
+
+                  Et tout cela conclu,
+Que pretendez vous faire.
+
+              Qui moy ? Que je me donne au Diable
+Si j'y vais.
+
+                  Quand il seroit party,
+Pour aller en Escosse, ou bien en Allemagne,
+On voit certain mouchart⁎, qui souvent m'accompagne.
+C'est pourquoy je vous dis, que si l'on me tenoit,
+On me feroit grand chere, ou l'on me meneroit
+Dans le grand Chastelet, dans la Conciergerie,
+J'y pourrais demeurer le reste de ma vie,
+On a veu des decrets de tout temps contre moy,
+Sans sçavoir la raison ny comment ny pourquoy,
+On voit tant d'Innocents perir pour les coupables.
+
+                          Poussez.
+Je veux vous faire grace⁎.
+
+                      C'est assez.
+Deusse je estre pendu par mon col tout à l'heure,
+Si je ne vais parler jusques à sa demeure...
+
+                  Ouy je vous le promets
+Vous me permettez bien.
+
+                  Il faut vous satisfaire.
+J'y vais tout de ce pas, rien ne m'en peut distraire,
+Mais je suis arresté, car je vois nostre amant⁎
+Plus malheureux que n'est ...
+
+                      Quoy ?
+
+                  Madame il vous adore,
+Je suis homme d'honneur, croyez moy sur ma foy,
+
+                          Quoy,
+Je te vois contre moy pousser ton eloquence,
+Tu veux te gendarmer, voyant que la finance,
+Ne trotte pas chez nous comme l'on voudroit bien,
+Laisse là mon amour, je ne veux point du tien.
+ 
+A parler franchement je ne veux pas te plaire,
+Et quant on me deplait, je veux dire ...
+
+Non, je m'agrandirois entrant dedans ta couche,
+Tu voudrois en taster, je t'entends, fine mousche,
+Je t'en feray gouster quand nous serons chez nous.
+
+                  Et ouy.
+
+                      Va je te veux de mesme.
+
+Ouy, vous pourrez vous veoir et vous parler tous deux.
+ 
+      Comment la peste⁎ quelle emplette,
+Je vous serviray bien, laissez faire Croctin,
+J'ay là dedans dequoy fascher vostre mastin⁎,
+Sans sçavoir la raison pour laquelle il se fasche,
+Je luy feray corner que c'est le plus grand lasche,
+Que l'on puisse trouver de Paris au Japon,
+Puis vous sçaurez ...
+
+                      Mais quoy ? que dira-t-on ?
+
+                  Que sçauroit il ? j'enrage,
+Luy qui n'a jamais veu les traits de mon visage,
+Me reconnoistra-t-il ? s'il ne m'a jamais veu.
+
+                  Et bien en suis je creu,
+Sy je fais mon devoir.
+
+C'est asses, vostre face excite ma colere,
+Retirez vous, Madame, allez vous en chez vous,
+Et vous, Monsieur, aussy faites gile⁎ chez nous,
+Il suffit que je vois le fond⁎ de ce mistere,
+Mais quelqu'un vient, allons commencer nostre affaire.
+
+                  Qu'il estoit delectable !
+Qu'il estoit bon ce vin c'estoit du vin musquat.
+
+Que c'est un grand plaisir que de manger et boire,
+Pourtant quand je suis seul je ne puis tortiller,
+Je vais faire un beau coup.
+
+Je m'en vais vous servir et je vous puis repondre,
+Que par mes actions je pourray bien confondre,
+Les plus sçavants esprits qui se puissent trouver,
+Je verrray le jaloux quoy qu'il puisse arriver,
+Je luy diray qu'il faut je sçay comme il faut dire,
+Il me dira d'abort mon amy je soupire,
+Je suis si malheureux, apres il toussera,
+Esternüera deux fois puis il se mouchera,
+Je sçay bien les moyens de faire qu'il se picque,
+Laissez faire, je veux devenir as de picque,
+Sy vous n'avez ce soir Isabelle avec vous,
+Deust il perdre l'esprit vous serez son espoux.
+
+Mais si vous voyez plus l'object que je revere,
+Resouvenez vous bien que je n'en feray rien.
+
+Laissez là nostre bien et ne songez qu'au vostre,
+On voit du distingo du vostre avec le nostre.
+
+                  Que cela seroit beau,
+Que j'alasse espouser et la vache et le veau.
+
+Ce sera fort bien fait et si vous estes sage,
+Vous ne chercheriez point nostre jaloux non plus,
+
+      Vos raisonnements sont icy superflux,
+S'il ne vous a point veu craignez qu'il ne vous voye,
+Sy vous ne pretendez voir soufler vostre proye,
+Mais j'apercois Lisette.
+
+Ne le vois tu pas bien.
+
+Le joly compliment par où ton feu⁎ debute.
+
+      Tu cherche chapechute,
+Car voy-tu si je suis une fois ton espoux.
+
+                  Souviens t'en bien.
+
+                  Il luy fait les yeux doux,
+Je vous l'avois bien dit ce vieux Rodrigue encore,
+La cajolle⁎ t'il bien.
+
+                  Et quoy ce vieux penard
+Se veut donc preparer à devenir cornard,
+Va je puis t'asseurer qu'il n'aura pas la peine,
+De souffrir que son feu⁎ luy face perdre aleine,
+Et qu'on te vienne dire apres à nos despens,
+Que nous avons souffert qu'il ait bien pris son temps.
+
+      Qu'elle espere,
+Je vous l'ay déja dit, je veux vous satisfaire,
+Et je pretends de plus ...
+
+                          N'importe,
+Je voy venir Florant au coin de cette porte,
+Cachons nous bien tous trois.
+
+Allez, je suis tout prest, que le Diable t'emporte,
+Qui t'estouffe pendart. Helas ! pauvre Croctin.
+
+Je le feray perir et sans misericorde,
+C'est un filou fiefé qui merite la corde.
+
+Monsieur c'est mon tresor qui n'estoit pas caché,
+Que l'on me vient de prendre, et qu'un filou m'emporte,
+Si je pouvois l'avoir j'irois avec main forte,
+Le prendre et luy mettrois la main sur le collet.
+
+                  Je suis si bon vallet,
+Si fidelle si seur si zelé pour un Maistre,
+Helas ! le coeur m'en creve ah que le monde est traistre.
+
+      Et bon bon, nostre oison,
+Commance à s'amorcer ah ! s'il se pouvoit faire,
+Que je vous pus servir.
+
+Ouy Monsieur.
+
+      C'est Monsieur Fernidant,
+Gentil-homme.
+
+                  Si c'est une gaillarde,
+J'en auray bien du soin ne craignez rien Monsieur,
+Vous pouvez vous fier à vostre serviteur⁎.
+
+      Ha vrayement c'est une bonne lame.
+Monsieur ne craignez rien au temps que j'y seray.
+
+                  Que je le previendray.
+Dite moy seulement comment il pourroit estre,
+Est il grand.
+
+                      C'est peut estre mon Maistre.
+
+      Ah voyla bien mon fait.
+Monsieur si vous vouliez j'ay certain camarade,
+Qui vous serviroit bien car souvent il en garde,
+
+J'y vais, va t'en chercher ses habits.
+
+Lisette met long-temps je sçay ce qu'il projette,
+Mais la voicy qui vient. Et bien,
+
+                      Il ne l'est pas pour peu.
+Voila pour vostre habit: allons Monsieur beau jeu.
+
+                  Je veux devenir caille
+Si j'ay veu de ma vie homme mieux fagoté,
+Ma foy vous ressemblez à ces pendus d'esté,
+Si ce n'est qu'au costé vous portez une espée,
+
+                  Ma crainte est dissipée.
+Monsieur il faut du moins songer à sa leçon,
+Resouvenez vous bien du pays d'Alençon,
+Tenez le quant à moy devant ce bourru d'homme
+Parlez luy gravement je crains qu'il ne m'assomme,
+Si vous parlez à luy trop franchement.
+
+      Isabelle elle mesme
+Et Lisette pourroient rompre nostre projet.
+
+                  Elle en a du sujet.
+Peut estre que sçait on comme il en faut descoudre,
+Elle ne s'y pourra peut estre pas resoudre,
+
+                          Point.
+Laissons-là les leçons qui concernent ce point⁎,
+Car j'en sçay plus que vous, et si je puis vous dire,
+Que je suis amoureux, qu'en secret je soupire.
+
+                      Pourquoy.
+Si vous estes amant⁎ ne le suis je pas moy,
+Croyez vous que l'amour ne me rompt pas la teste,
+Quoy que je sois valet, peste⁎ soit de la beste,
+Je suis de chair et d'os aussy bien comme vous,
+Pouquoy ne pas l'aimer son visage est si doux.
+
+      Point du tout je souspire.
+N'en doutez plus et c'est pour Lisette aussy bien,
+Elle a beaucoup de fonds⁎ du moins si je n'ay rien,
+Je sçay bien les moyens sur quoy je me repose,
+Me voyant devant moy quelque petite chose,
+Pour vivre gayement sur la fin de mes jours,
+Et de couronner l'œuvre apres tous mes amours,
+Je vous raconte tout ainsy que je le pense,
+Et pretends me fier à vostre intelligence,
+Mais le voicy qui sort.
+
+Voila mon Compagnon je la tiendray de court,
+
+      Il s'appelle Candasmes.
+Monsieur ne craignez rien il garde bien les femmes,
+Il les serre de pres pour moy je suis Croctin.
+
+Ne craignez rien Monsieur je n'ay pas la berleüe.
+
+Qui moy j'empescheray que personne ne sorte,
+Et je fermeray bien soigneusement la porte,
+Ce sera mon office et sans laisser entrer,
+Qui que ce soit ...
+
+Que je m'en vais tantost bien leur tailler des chausses,
+Vous sçavez que bien-tost le jaloux doit venir
+Avecques son voisin pour vous entretenir,
+A l'heure il se deguise et d'une humeur altiere,
+Ils viendront degoiser de la belle Manière,
+Je les rosseray bien songez à vous Monsieur.
+
+Elle se met tousjours du costé de la Brette.
+
+Ouy ! mais pour moy Monsieur qui sera mon soutien ?
+
+Ah l'excelent soustien ! agreables paroles !
+
+                  Et qui vous fait paroistre,
+Qu'il est plus amoureux que n'est vostre vieux traistre.
+
+Lisette est tout de Cœur je l'aime tout à fait,
+Je vous l'avois bien dit qu'elle seroit mon faict⁎,
+M'aime tu bien.
+
+                  Bon chacun sa chacune,
+Tu n'auras point du tout avec moy de rancune,
+Tu verras que quand j'aime il n'en sort pas pour peu,
+Puis nous ferons sortir de l'eau de nostre feu⁎.
+
+C'est pour te faire voir que je t'aime ma Lise,
+Et tous ces beaux transports⁎ ces discours que je fais,
+C'est pour faire la guerre à tes friands attrais.
+
+Mais nos vieux Roquentins s'en vont bien-tost venir,
+Laissez moy je sçauray bien les entretenir,
+Et leur monstrer combien la gloire nous est chere,
+Je voy desja Florant vestu comme un compere,
+Entrez viste je vais leur parler comme il faut,
+Et leur faire gagner sans discourir le haut,
+Nous Monsieur s'il vous plaist ayons bonne cervelle,
+Car il en faut avoir faisant la Sentinelle,
+Regardons bien les gens qui nous approcheront,
+Et remarquons tous ceux qui nous aborderont,
+Ils s'en viennent à nous mettons nous à la porte,
+Car il nous a bien dit que personne ne sorte.
+
+              Non que luy voulez vous.
+
+                  Demandez vous Madame,
+Sortez d'icy Monsieur je vous estropieray,
+Ou bien sy vous montez vous sautrés le degré.
+
+Pour cette grace⁎ non, cette grace⁎ est trop grasse.
+
+                  Retirez vous filoux.
+
+Nous sommes des frapeurs les plus hardis de France,
+Ils sont bien estonnez⁎.
+
+                          Je le pense,
+Ils ont sujet de l'estre et plus que nous je croy,
+Monsieur retirons nous ils viennent sur ma foy.
+
+Je feray ce qu'il faut, fais les sortir Lisette,
+Et qu'ils aillent ailleurs faire leur amourette,
+Pour toy tu m'es acquise et je m'en souviens bien.
+
+                  Touche tu ne tiens rien,
+Fais les viste venir.
+
+Bon, je les apperçois nostre affaire s'avance,
+
+                          Vrayement,
+Pourquoy nous contez vous tout ce haut allemant,
+Il n'est rien plus certain que pour Mademoiselle,
+Je suis fort asseuré qu'elle sera fidelle,
+Mon Maistre asseurement luy tiendra bien sa foy.
+
+Pour moy je ne crains point que l'on nous desassemble,
+Et si nous pourrons bien coucher ce soir ensemble.
+
+Je te caresseray comme il faut sur ma foy.
+
+                  Hola⁎ Clincantes faces.
+Dansez.
+      Ils dansent bien considerez leurs pas.
+
+Laissez les faire allez ils n'y manqueront pas.
+
+                  Ouy si tu tient la tienne.
+Deusse-je estre cocu je veux tenir la mienne.
+Touche la.
+
+                  Allons nous marier
+Et ne songeons apres qu'à bien multiplier.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+
+                  Croctin ?
+
+                          C'est ton Maistre ?
+
+Tu crois l'estre, Croctin, mais tu te trompe.
+
+Quoy, Croctin, contre moy tu te mets en colere.
+
+                          Comment ?
+Tu croirois donc beaucoup t'abaisser en m'aimant.
+
+Dequoy ? du mariage ?
+
+                      Pour mon espoux,
+Je te veux bien, au moins.
+
+                  Ah ! Monsieur est-ce vous.
+
+                  Quoy Maistre des filoux…
+
+C'est fort bien raisonner.
+
+Dy moy que feras tu.
+
+                          Tout doux.
+
+Elle est toute dolente elle a de la tristesse,
+De voir qu'elle pourra bien avoir pour espoux,
+Au lieu de vous Florant.
+
+                  Ma foy trop il l'adore,
+J'en suis tout estonnée⁎.
+
+                  A propos le Marquis,
+Qui nous montroit tantost ce qu'il avoit acquis,
+Fut par deux crocheteurs⁎ et de bonne maniere,
+Estrillé comme il faut à grands coups d'estriviere.
+
+Il s'en vint au logis guidé par son amour,
+Faisant bien le pimpant comme il a de coutume,
+On commance à frapper comme sur une enclume,
+Sur son dos d'importance, Isabelle à ces coups,
+Descendit en tremblant croyant que c'estoit vous,
+Mais voyant que c'estoit nostre Marquis.
+
+                      L'affaire est faite.
+Ah Dieu ! qu'il est chagrain.
+
+Escoutez je fais tout pourveu⁎ que son honneur…
+
+Ne craignez rien Monsieur je vous soutiendray bien.
+
+N'y consentez vous pas.
+
+                          Pourquoy.
+
+                  Vrayement voire ma foy.
+Il songe bien à nous, n'avez vous pas des gardes,
+Mocquez vous de cela prenez viste vos hardes.
+
+      Ouy da⁎.
+
+Ton esprit n'est jamais remply que de sottize.
+
+Je suis à toy Croctin.
+
+              Ils viennent que je pense.
+
+                      Obeïssez,
+A quoy sert entre nous un si plaisant langage,
+Si Monsieur vous veut bien avoir en mariage.
+Et que vous l'aimiez bien qu'importe t'il ?
+
+              Je m'engage bien moy.
+
+Croctin je te promets de vivre sous ta loy.
+
+Tiendras-tu ta promesse.
+
+      Je le veux.
+
+
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_roguepine
+
+              Monsieur.
+
+Vous l'emportez⁎ sur tous.
+
+              Pourquoy n'en auroit elle pas
+Un Marquis, comme vous, peut il manquer d'appas⁎,
+Allez croyez tousjours que la belle est de flamme⁎,
+Et que je sçay fort bien tout ce qu'elle a dans l'ame.
+
+      Comment pouves vous vous retirer des coups,
+Que l'on prepare icy pour se railler⁎ de vous
+
+      Comme un bœuf vostre mere l'a dit.
+
+Je contenterois bien Lisette ma guenon⁎,
+Elle me dit souvent approche, mon mignon,
+Roguepine mon fils. Touchant vostre Maistresse⁎,
+Elle vous aime fort, elle a de la tendresse,
+La pouponne⁎ vous lorgne⁎, et fait bien sur ma foy.
+Mais à propos, Monsieur, a-t-elle bien dequoy.
+
+                  Elle est bien egrillarde,
+Du moins elle paroist un tant soit peu gaillarde,
+Qu'en dites vous, Monsieur, disant la verité,
+Je croy ne pas pecher contre la charité,
+N'est ce pas.
+
+                          Ou je meure …
+
+Je sçay que vous l'aymez comme on voit qu'elle est belle.
+
+                  Vous les aymeriez.
+
+Vous me faite plaisir,
+
+                  C'est mon Maistre rossez.
+
+Il faudroit moderer l'ardeur⁎ qui vous transporte⁎,
+
+Et ils frapoient si fort.
+
               Il est vray que ce coup est pendable
 C'est estre bien cruel que de fraper ainsy,
 Un Marquis comme vous, un amoureux transy,
@@ -570,14 +1100,6 @@ Ces Messieurs là pourtant paroissoient en furie⁎.
 Et s'ils n'entendoient pas beaucoup de raillerie⁎,
 Comment vous ont ils pris.
 
--*who_fabrice
-                      Estant entré d'abord
-Florant crioit tout haut, estes vous bien d'accord.
-Les autres respondants nous le sommes sans doute,
-J'ay veu certaines gens, estrillez quoy qu'il couste,
-A dit Florant. Apres ils ont frappé sur moy.
-
--*who_roguepine
 J'ay gagné le taillis, sans leur dire pourquoy,
 Ces Messieurs estoient lâ pour vous faire la nique.
 Voyant sur vostre dos qu'ils chantoient la musique,
@@ -588,22 +1110,10 @@ De pousser une lame au fond de leur bedaine,
 J'ay le cœur assez bon, quand on vient m'attaquer,
 Pour pousser une botte et ne la point manquer,
 
--*who_fabrice
-Que ne faisois tu donc paroistre ton courage,
-
--*who_roguepine
 C'est que je ne suis pas un brave à triple estage,
 
--*who_fabrice
-Tu nous aurois fait voir si tu dis verité.
-
--*who_roguepine
 Je vous aurois fait voir grande temerité.
 
--*who_fabrice
-Il faudra nous vanger Roguepine.
-
--*who_roguepine
                       J'y pense,
 On pourra nous venger au bout d'une potence,
 Si l'on entend parler que nous voulions tous deux,
@@ -622,19 +1132,10 @@ Puis quand je voy le fond⁎ du pretendu malheur,
 Mon dépit se retire et je n'ay plus de cœur,
 Voilà comme est basty Monseigneur Roguepine.
 
--*who_fabrice
-Ah ! Malheureux poltron ...
-
--*who_roguepine
                   Dite en ay-je la mine,
 N'importe je pretends vous respondre en ce point,
 Si j'ay fort peu de cœur vous, vous n'en avez point,
 
--*who_fabrice
-L'amy laisse un peu là ta foible raillerie⁎,
-Donne moy patience.
-
--*who_roguepine
       He l'amy sans furie⁎,
 Retirons nous d'icy Monsieur vous sçavez bien,
 Que cette maison-là ne nous procure rien,
@@ -643,22 +1144,10 @@ Doivent faire tantost de grandes cabriolles,
 Parce que le Jaloux doit espouser ce soir,
 Isabelle, et qu'elle est au dernier desespoir.
 
--*who_fabrice
-Roguepine, Isabelle !
-
--*who_roguepine
                   Et bien.
 
--*who_fabrice
-                      C'est ma Maistresse⁎.
-
--*who_roguepine
 Moy je n'y puis que faire.
 
--*who_fabrice
-      Ha je meurs de tristesse.
-
--*who_roguepine
 Je ne m'estonne⁎ plus si l'on vous a battu,
 On devoit vous tuer homme plein de vertu,
 Marquis des Beaux Marquis tout remply d'impudence,
@@ -677,894 +1166,8 @@ J'aimerois mieux mourir que de me mettre en teste,
 De servir un Marquis qui n'est rien qu'une beste,
 Ce sont deux qualitéz admirables pour vous.
 
--*who_fabrice
-Vous tairez vous, maraut.
-
--*who_roguepine
                   Et bien soit taisons nous,
 Mais quelqu'un vient sortons,
 
--*who_fabrice
-      Que je suis miserable.
-
--*who_roguepine
 Suivez moy seulement.
 
-**** *book_ *id_II02 *act_II *date_1669 *creator_clerselier
-
--*who_croctin
-                  Qu'il estoit delectable !
-Qu'il estoit bon ce vin c'estoit du vin musquat.
-
--*who_clidamant
-Je t'en feray gouster et du plus delicat,
-Tu vois quand on me sert qu'il y va de la gloire.
-
--*who_croctin
-Que c'est un grand plaisir que de manger et boire,
-Pourtant quand je suis seul je ne puis tortiller,
-Je vais faire un beau coup.
-
--*who_clidamant
-      Tu ne fais que baailler.
-
--*who_croctin
-Je m'en vais vous servir et je vous puis repondre,
-Que par mes actions je pourray bien confondre,
-Les plus sçavants esprits qui se puissent trouver,
-Je verrray le jaloux quoy qu'il puisse arriver,
-Je luy diray qu'il faut je sçay comme il faut dire,
-Il me dira d'abort mon amy je soupire,
-Je suis si malheureux, apres il toussera,
-Esternüera deux fois puis il se mouchera,
-Je sçay bien les moyens de faire qu'il se picque,
-Laissez faire, je veux devenir as de picque,
-Sy vous n'avez ce soir Isabelle avec vous,
-Deust il perdre l'esprit vous serez son espoux.
-
--*who_clidamant
-Ce sera m'obliger et de belle maniere.
-
--*who_croctin
-Mais si vous voyez plus l'object que je revere,
-Resouvenez vous bien que je n'en feray rien.
-
--*who_clidamant
-Lors que je la verray ce sera pour ton bien.
-
--*who_croctin
-Laissez là nostre bien et ne songez qu'au vostre,
-On voit du distingo du vostre avec le nostre.
-
--*who_clidamant
-Je ne luy parle plus.
-
--*who_croctin
-                  Que cela seroit beau,
-Que j'alasse espouser et la vache et le veau.
-
--*who_clidamant
-Croctin de mon costé tu n'auras point d'ombrage.
-
--*who_croctin
-Ce sera fort bien fait et si vous estes sage,
-Vous ne chercheriez point nostre jaloux non plus,
-
--*who_clidamant
-Mais…
-
--*who_croctin
-      Vos raisonnements sont icy superflux,
-S'il ne vous a point veu craignez qu'il ne vous voye,
-Sy vous ne pretendez voir soufler vostre proye,
-Mais j'apercois Lisette.
-
-**** *book_ *id_II03 *act_II *date_1669 *creator_clerselier
-
--*who_lisette
-                  Ah ! Monsieur est-ce vous.
-
--*who_croctin
-Ne le vois tu pas bien.
-
--*who_lisette
-                  Quoy Maistre des filoux…
-
--*who_croctin
-Le joly compliment par où ton feu⁎ debute.
-
--*who_lisette
-C'est fort bien raisonner.
-
--*who_croctin
-      Tu cherche chapechute,
-Car voy-tu si je suis une fois ton espoux.
-
--*who_lisette
-Dy moy que feras tu.
-
--*who_croctin
-                  Souviens t'en bien.
-
--*who_lisette
-                          Tout doux.
-
--*who_clidamant
-Ne me diras tu point ce que fait ta Maistresse⁎.
-
--*who_lisette
-Elle est toute dolente elle a de la tristesse,
-De voir qu'elle pourra bien avoir pour espoux,
-Au lieu de vous Florant.
-
--*who_croctin
-                  Il luy fait les yeux doux,
-Je vous l'avois bien dit ce vieux Rodrigue encore,
-La cajolle⁎ t'il bien.
-
--*who_lisette
-                  Ma foy trop il l'adore,
-J'en suis tout estonnée⁎.
-
--*who_croctin
-                  Et quoy ce vieux penard
-Se veut donc preparer à devenir cornard,
-Va je puis t'asseurer qu'il n'aura pas la peine,
-De souffrir que son feu⁎ luy face perdre aleine,
-Et qu'on te vienne dire apres à nos despens,
-Que nous avons souffert qu'il ait bien pris son temps.
-
--*who_clidamant
-Tu vois ce que Croctin nous promet.
-
--*who_croctin
-      Qu'elle espere,
-Je vous l'ay déja dit, je veux vous satisfaire,
-Et je pretends de plus ...
-
--*who_lisette
-                  A propos le Marquis,
-Qui nous montroit tantost ce qu'il avoit acquis,
-Fut par deux crocheteurs⁎ et de bonne maniere,
-Estrillé comme il faut à grands coups d'estriviere.
-
--*who_clidamant
-Sans doute que Florant luy fit joüer ce tour.
-
--*who_lisette
-Il s'en vint au logis guidé par son amour,
-Faisant bien le pimpant comme il a de coutume,
-On commance à frapper comme sur une enclume,
-Sur son dos d'importance, Isabelle à ces coups,
-Descendit en tremblant croyant que c'estoit vous,
-Mais voyant que c'estoit nostre Marquis.
-
--*who_croctin
-                          N'importe,
-Je voy venir Florant au coin de cette porte,
-Cachons nous bien tous trois.
-
-**** *book_ *id_II04 *act_II *date_1669 *creator_clerselier 
-
--*who_florant
-      Nostre amoureux transy,
-Apprendra son devoir en le traittant ainsy,
-Il sçaura ce que c'est que s'en prendre à son maistre,
-Il fremira d'abord en me voyant paroistre,
-Je voudrois bien trouver un garçon comme il faut,
-Pour garder Isabelle et qui fust sans deffaut,
-Que je gagerois bien un garçon de la sorte.
-
--*who_croctin
-Allez, je suis tout prest, que le Diable t'emporte,
-Qui t'estouffe pendart. Helas ! pauvre Croctin.
-
--*who_florant
-Bon Dieu qu'il m'a fait peur ! peste⁎ soit du mastin⁎.
-
--*who_croctin
-Je le feray perir et sans misericorde,
-C'est un filou fiefé qui merite la corde.
-
--*who_florant
-Qu'avez vous mon amy, vous paroissez faché.
-
--*who_croctin
-Monsieur c'est mon tresor qui n'estoit pas caché,
-Que l'on me vient de prendre, et qu'un filou m'emporte,
-Si je pouvois l'avoir j'irois avec main forte,
-Le prendre et luy mettrois la main sur le collet.
-
--*who_florant
-Vous a-t-il pris beaucoup.
-
--*who_croctin
-                  Je suis si bon vallet,
-Si fidelle si seur si zelé pour un Maistre,
-Helas ! le coeur m'en creve ah que le monde est traistre.
-
--*who_florant
-Mais si je m'en servois pour garder ma maison,
-Je ne ferois pas mal.
-
--*who_croctin
-      Et bon bon, nostre oison,
-Commance à s'amorcer ah ! s'il se pouvoit faire,
-Que je vous pus servir.
-
--*who_florant
-                  Il n'est pas necessaire,
-De tant complimenter avez vous respondant.
-
--*who_croctin
-Ouy Monsieur.
-
--*who_florant
-              Que fait-il.
-
--*who_croctin
-      C'est Monsieur Fernidant,
-Gentil-homme.
-
--*who_florant
-      Il suffit j'ay certaine egrillarde,
-Qu'il faudra bien garder.
-
--*who_croctin
-                  Si c'est une gaillarde,
-J'en auray bien du soin ne craignez rien Monsieur,
-Vous pouvez vous fier à vostre serviteur⁎.
-
--*who_florant
-Je laisse avecques vous une plaisante Dame,
-C'est Lisette.
-
--*who_croctin
-      Ha vrayement c'est une bonne lame.
-Monsieur ne craignez rien au temps que j'y seray.
-
--*who_florant
-On voit certain Galand⁎,
-
--*who_croctin
-                  Que je le previendray.
-Dite moy seulement comment il pourroit estre,
-Est il grand.
-
--*who_florant
-              Entre deux.
-
--*who_croctin
-                      C'est peut estre mon Maistre.
-
--*who_florant
-C'est un jeune blondin mais tout à fait bien fait,
-En un mot c'est Fabrice.
-
--*who_croctin
-      Ah voyla bien mon fait.
-Monsieur si vous vouliez j'ay certain camarade,
-Qui vous serviroit bien car souvent il en garde,
-
--*who_florant
-Va viste le trouver et reviens en ce lieu.
-
--*who_croctin
-J'y vais, va t'en chercher ses habits.
-
-**** *book_ *id_II05 *act_II *date_1669 *creator_clerselier
-
--*who_florant
-                      A bon Dieu.
-Je ne puis craindre rien, Juste Ciel quels delices,
-Ah ! mon ame à present n'est plus dans les suplices
-Je ne puis plus durer, que mon bonheur est grand,
-Qui te peut mieux servir que ce garçon Florand    
-Heurtons chez mon voisin ah je vous tiens la belle,
-Hola⁎ Monsieur Fernant.
-
-**** *book_ *id_II06 *act_II *date_1669 *creator_clerselier 
-
--*who_fernant
-                  Qui va là qui m'apelle.
-
--*who_florant
-Mon cher voisin c'est moy je veux vous dire un mot,
-C'est Florant.
-
--*who_fernant
-              Je m'en vais la peste⁎ soit du sot.
-Que voulez vous voisin.
-
--*who_florant
-                  Je vous demande excuse.
-Je vous ay destourné.
-
--*who_fernant
-                  Nullement.
-
--*who_florant
-                      Car j'en use
-Un peu trop librement.
-
--*who_fernant
-                  Point du tout.
-
--*who_florant
-                          Escoutez.
-
--*who_fernant
-Et bien je vous entends.
-
--*who_florant
-                  C'est bien fait vous doutez,
-Que je viens de choisir deux garçons de courage,
-Qui dedans ma maison feront nouvelle rage,
-Ils se mettront en garde et de bonne façon,
-Celuy qui m'a parlé parroist brave garçon.
-
--*who_fernant
-Ont ils un Respondant.
-
--*who_florant
-                  Ouy voisin.
-
--*who_fernant
-                          Legitime.
-
--*who_florant
-C'est Monsieur Fernidant.
-
--*who_fernant
-                  Il est en bonne estime
-Si vous suivez l'avis⁎ d'un certain Quantenas.
-
--*who_florant
-Je le sçay, faut luy mettre un fort bon cadenas.
-
--*who_fernant
-Ce seroit mon advis⁎.
-
--*who_florant
-                  Il faut que je le face.
-Venez avecques moy que je la cadenace.
-
--*who_fernant
-Je le veux bien, allons chercher un cadenas.
-
--*who_florant
-J'en trouveray bien un, que je crains l'embaras⁎.
-
-**** *book_ *id_II07 *act_II *date_1669 *creator_clerselier 
-
--*who_croctin
-Lisette met long-temps je sçay ce qu'il projette,
-Mais la voicy qui vient. Et bien,
-
-**** *book_ *id_II08 *act_II *date_1669 *creator_clerselier
-
--*who_lisette
-                      L'affaire est faite.
-Ah Dieu ! qu'il est chagrain.
-
--*who_croctin
-                      Il ne l'est pas pour peu.
-Voila pour vostre habit: allons Monsieur beau jeu.
-
-**** *book_ *id_III01 *act_III *date_1669 *creator_clerselier
-
--*who_clidamant
-Suis je bien à ton gré cher Croctin cette taille,
-Que dis tu de ce port,
-
--*who_croctin
-                  Je veux devenir caille
-Si j'ay veu de ma vie homme mieux fagoté,
-Ma foy vous ressemblez à ces pendus d'esté,
-Si ce n'est qu'au costé vous portez une espée,
-
--*who_clidamant
-Que te sert de Railler⁎.
-
--*who_croctin
-                  Ma crainte est dissipée.
-Monsieur il faut du moins songer à sa leçon,
-Resouvenez vous bien du pays d'Alençon,
-Tenez le quant à moy devant ce bourru d'homme
-Parlez luy gravement je crains qu'il ne m'assomme,
-Si vous parlez à luy trop franchement.
-
--*who_clidamant
-                          Pourquoy.
-Luy parlant franchement il ne peut rien sur toy
-Outre qu'il ne sçay pas que c'est le stratageme.
-Il ne peut pas deviner.
-
--*who_croctin
-      Isabelle elle mesme
-Et Lisette pourroient rompre nostre projet.
-
--*who_clidamant
-Pourquoy le feroit elle.
-
--*who_croctin
-                  Elle en a du sujet.
-Peut estre que sçait on comme il en faut descoudre,
-Elle ne s'y pourra peut estre pas resoudre,
-
--*who_clidamant
-Je connois Isabelle elle est constante.
-
--*who_croctin
-                          Point.
-Laissons-là les leçons qui concernent ce point⁎,
-Car j'en sçay plus que vous, et si je puis vous dire,
-Que je suis amoureux, qu'en secret je soupire.
-
--*who_clidamant
-Tu serois amoureux tu te mocque,
-
--*who_croctin
-                      Pourquoy.
-Si vous estes amant⁎ ne le suis je pas moy,
-Croyez vous que l'amour ne me rompt pas la teste,
-Quoy que je sois valet, peste⁎ soit de la beste,
-Je suis de chair et d'os aussy bien comme vous,
-Pouquoy ne pas l'aimer son visage est si doux.
-
--*who_clidamant
-Lors que tu me disois ce que tu viens de dire,
-J'ay creu que tu raillois⁎.
-
--*who_croctin
-      Point du tout je souspire.
-N'en doutez plus et c'est pour Lisette aussy bien,
-Elle a beaucoup de fonds⁎ du moins si je n'ay rien,
-Je sçay bien les moyens sur quoy je me repose,
-Me voyant devant moy quelque petite chose,
-Pour vivre gayement sur la fin de mes jours,
-Et de couronner l'œuvre apres tous mes amours,
-Je vous raconte tout ainsy que je le pense,
-Et pretends me fier à vostre intelligence,
-Mais le voicy qui sort.
-
-**** *book_ *id_III02 *act_III *date_1669 *creator_clerselier
-
--*who_florant
-                  Te voila de retour,
-
--*who_croctin
-Voila mon Compagnon je la tiendray de court,
-
--*who_florant
-Comment vous nomme t'on.
-
--*who_croctin
-      Il s'appelle Candasmes.
-Monsieur ne craignez rien il garde bien les femmes,
-Il les serre de pres pour moy je suis Croctin.
-
--*who_florant
-Il faudra bien garder le soir et le matin,
-Que personne ne vienne et sur tout bonne veuë.
-
--*who_croctin
-Ne craignez rien Monsieur je n'ay pas la berleüe.
-
--*who_clidamant
-Pour garder cette fille il ne faudra que moy,
-J'en responds corps pour corps.
-
--*who_florant
-                      Et que feras tu toy.
-
--*who_croctin
-Qui moy j'empescheray que personne ne sorte,
-Et je fermeray bien soigneusement la porte,
-Ce sera mon office et sans laisser entrer,
-Qui que ce soit ...
-
--*who_florant
-              Entréz il faut tout esperer
-
-**** *book_ *id_III03 *act_III *date_1669 *creator_clerselier
-
--*who_florant
-Il faut ...
-
--*who_fernant
-      Esprouvons les voisins s'ils sont fidelles,
-Et s'ils ne seroient point de fausses Sentinelles,
-Allons nous deguiser le voulez vous voisin.
-
--*who_florant
-J'y consens volontiers, achevons ce dessein⁎.
-
-**** *book_ *id_III04 *act_III *date_1669 *creator_clerselier
-
--*who_isabelle
-Personne ne croyroit vos aparances fausses,
-
--*who_croctin
-Que je m'en vais tantost bien leur tailler des chausses,
-Vous sçavez que bien-tost le jaloux doit venir
-Avecques son voisin pour vous entretenir,
-A l'heure il se deguise et d'une humeur altiere,
-Ils viendront degoiser de la belle Manière,
-Je les rosseray bien songez à vous Monsieur.
-
--*who_lisette
-Escoutez je fais tout pourveu⁎ que son honneur…
-
--*who_clidamant
-Je croy que vous serez de mon costé Lisette.
-
--*who_croctin
-Elle se met tousjours du costé de la Brette.
-
--*who_lisette
-Ne craignez rien Monsieur je vous soutiendray bien.
-
--*who_croctin
-Ouy ! mais pour moy Monsieur qui sera mon soutien ?
-
--*who_clidamant
-Va ne crains rien Croctin.
-
--*who_isabelle
-                  Reçois ces dix pistoles.
-
--*who_croctin
-Ah l'excelent soustien ! agreables paroles !
-
--*who_clidamant
-Sans plus tarder Madame il faut sortir d'icy,
-Vous sçavez que c'est vous qui faites mon soucy⁎.
-Que je vous aime enfin.
-
--*who_croctin
-                  Et qui vous fait paroistre,
-Qu'il est plus amoureux que n'est vostre vieux traistre.
-
--*who_lisette
-N'y consentez vous pas.
-
--*who_isabelle
-                  Ah je tremble.
-
--*who_lisette
-                          Pourquoy.
-
--*who_isabelle
-S'il nous alloit trouver.
-
--*who_lisette
-                  Vrayement voire ma foy.
-Il songe bien à nous, n'avez vous pas des gardes,
-Mocquez vous de cela prenez viste vos hardes.
-
--*who_croctin
-Lisette est tout de Cœur je l'aime tout à fait,
-Je vous l'avois bien dit qu'elle seroit mon faict⁎,
-M'aime tu bien.
-
--*who_lisette
-      Ouy da⁎.
-
--*who_croctin
-                  Bon chacun sa chacune,
-Tu n'auras point du tout avec moy de rancune,
-Tu verras que quand j'aime il n'en sort pas pour peu,
-Puis nous ferons sortir de l'eau de nostre feu⁎.
-
--*who_lisette
-Ton esprit n'est jamais remply que de sottize.
-
--*who_croctin
-C'est pour te faire voir que je t'aime ma Lise,
-Et tous ces beaux transports⁎ ces discours que je fais,
-C'est pour faire la guerre à tes friands attrais.
-
--*who_isabelle
-J'y consens Clidamant vous m'aimez.
-
--*who_clidamant
-                          Je vous aime,
-L'amour m'en est tesmoin mon ardeur⁎ est extreme.
-
--*who_croctin
-Mais nos vieux Roquentins s'en vont bien-tost venir,
-Laissez moy je sçauray bien les entretenir,
-Et leur monstrer combien la gloire nous est chere,
-Je voy desja Florant vestu comme un compere,
-Entrez viste je vais leur parler comme il faut,
-Et leur faire gagner sans discourir le haut,
-Nous Monsieur s'il vous plaist ayons bonne cervelle,
-Car il en faut avoir faisant la Sentinelle,
-Regardons bien les gens qui nous approcheront,
-Et remarquons tous ceux qui nous aborderont,
-Ils s'en viennent à nous mettons nous à la porte,
-Car il nous a bien dit que personne ne sorte.
-
-**** *book_ *id_III05 *act_III *date_1669 *creator_clerselier
-
--*who_florant
-Madame est elle icy ? cher amy dis-le nous,
-Est-il icy Florant ?
-
--*who_croctin
-              Non que luy voulez vous.
-
--*who_florant
-Estant absent mon cher je voudrois voir la femme,
-Qu'il pretend espouser.
-
--*who_croctin
-                  Demandez vous Madame,
-Sortez d'icy Monsieur je vous estropieray,
-Ou bien sy vous montez vous sautrés le degré.
-
--*who_fernant
-Nous sommes des amis.
-
--*who_florant
-                  Eh fais nous cette grace⁎.
-
--*who_croctin
-Pour cette grace⁎ non, cette grace⁎ est trop grasse.
-
--*who_clidamant
-Ils raisonnent je croy il faut leur donner cent coups.
-
--*who_fernant
-Retirons nous voisin,
-
--*who_croctin
-                  Retirez vous filoux.
-
-**** *book_ *id_III06 *act_III *date_1669 *creator_clerselier
-
--*who_croctin
-Nous sommes des frapeurs les plus hardis de France,
-Ils sont bien estonnez⁎.
-
--*who_clidamant
-                  Sans doute.
-
--*who_croctin
-                          Je le pense,
-Ils ont sujet de l'estre et plus que nous je croy,
-Monsieur retirons nous ils viennent sur ma foy.
-
-**** *book_ *id_III07 *act_III *date_1669 *creator_clerselier 
-
--*who_florant
-Que j'ay de bons portiers cher voisin, que je meure,
-Si je ne vais quitter la maison tout à l'heure,
-Allons nous en chez vous prendre nos vestements,
-Nos danseurs sont tous prests puis nous irons aux champs.
-
--*who_fernant
-Vous serez plus heureux tantost qu'un Roy d'Escosse.
-
--*who_florant
-Je veux que vous veniez pour dancer à ma noce,
-La fille m'aime fort puis je n'y perdray rien,
-J'en auray du plaisir Croctin la garde bien,
-Allons depeschons nous.
-
--*who_fernant
-                  Que j'ay mal aux espaulles.
-
--*who_florant
-Ces coquins⁎ ont usé sur nous plus de vingt gaulles.
-
--*who_fernant
-C'estoit un bon baston j'en ay os rompus.
-
--*who_florant
-Allons changer d'habits nous sommes bien repus,
-Puis apres nous irons sans prendre un plus long terme,
-Voir ce qu'on dit de bon dans ma petite ferme
-
--*who_fernant
-Allons, je le veux bien passez Monsieur Florant.
-
--*who_florant
-Passez devant passez, passez Monsieur Fernant.
-
-**** *book_ *id_III08 *act_III *date_1669 *creator_clerselier
-
--*who_croctin
-Je feray ce qu'il faut, fais les sortir Lisette,
-Et qu'ils aillent ailleurs faire leur amourette,
-Pour toy tu m'es acquise et je m'en souviens bien.
-
--*who_lisette
-Je suis à toy Croctin.
-
--*who_croctin
-                  Touche tu ne tiens rien,
-Fais les viste venir.
-
--*who_lisette
-              Ils viennent que je pense.
-
--*who_croctin
-Bon, je les apperçois nostre affaire s'avance,
-
-**** *book_ *id_III09 *act_III *date_1669 *creator_clerselier 
-
--*who_clidamant
-Madame il n'est plus temps de rien dissimuler,
-C'est à moy de me taire et vous devez parler,
-Si vous pouvez m'aimer je vous aime de mesme,
-Vous m'avez esprouvé puis que ce stratageme,
-N'est fait que pour vous seule et je vous dis assez,
-L'amour m'a commandé, Madame.
-
--*who_lisette
-                      Obeïssez,
-A quoy sert entre nous un si plaisant langage,
-Si Monsieur vous veut bien avoir en mariage.
-Et que vous l'aimiez bien qu'importe t'il ?
-
--*who_croctin
-                          Vrayement,
-Pourquoy nous contez vous tout ce haut allemant,
-Il n'est rien plus certain que pour Mademoiselle,
-Je suis fort asseuré qu'elle sera fidelle,
-Mon Maistre asseurement luy tiendra bien sa foy.
-
--*who_isabelle
-Je n'y resiste plus ..,
-
--*who_lisette
-              Je m'engage bien moy.
-
--*who_isabelle
-Pour marquer mon amour prenez cecy pour gage,
-Je m'abandonne à vous.
-
--*who_clidamant
-                  Mon cœur est en ostage,
-Allons Madame allons qu'il y soit à jamais,
-Nous trouverons moyen de faire vostre paix.
-
--*who_croctin
-Pour moy je ne crains point que l'on nous desassemble,
-Et si nous pourrons bien coucher ce soir ensemble.
-
--*who_lisette
-Croctin je te promets de vivre sous ta loy.
-
--*who_croctin
-Je te caresseray comme il faut sur ma foy.
-
-**** *book_ *id_III10 *act_III *date_1669 *creator_clerselier
-
--*who_florant
-Nos gens ont fort bien fait je ne le sçaurois taire,
-Ils nous ont bien batu.
-
--*who_fernant
-                  Je n'y sçaurois que faire.
-Mais de peur d'estre pris en ces lieux pour Galands.
-Entrons dans la maison.
-
--*who_florant
-                  Personne n'est dedans ...
-Helas ! je n'en puis plus, ma cervelle est troublée,
-Mon esprit ne va plus, j'ay la teste feeslée⁎,
-Mon cœur vient de sortir on vient de le voler,
-Ah ! voisin je suis mort.
-
--*who_fernant
-                  Il faut vous consoler.
-
--*who_florant
-Je crains que ce ne soit le Marquis Ridicule,
-Qu'en dites vous.
-
--*who_fernant
-              C'est luy, quelle dure pilule
-Il faut vous consoler doucement mon amy,
-Et ne pretendre pas l'avaler à demy,
-Il faut vous consoler ils reviendront peut estre.
-
--*who_florant
-Ils ne reviendront pas, Ah ! chien de portier traitre !
-
-**** *book_ *id_III11 *act_III *date_1669 *creator_clerselier 
-
--*who_carlos
-Monsieur je viens icy pour Monsieur Clidamant,
-Vous porter ce billet⁎.
-
--*who_fernant
-                  Voyez son compliment.
-
--*who_florant
-MONSIEUR.
-Vous devez estre sans doute surpris de la maniere que j'en agis avec vous, c'est moy qui ay gardé Isabelle chez vous avec Croctin mon valet, elle est entre mes mains, et si vous souhaitez nostre alliance, vous aurez la bonté de me le faire sçavoir par le porteur de ce billet⁎.
-Clidamant.
-
--*who_florant
-Il ne l'aura jamais.
-
--*who_carlos
-                  Son amour est extreme.
-
--*who_fernant
-Vous ne pouvez l'avoir donnez luy.
-
--*who_florant
-                          Bien qu'il ayme,
-Faites les moy venir que je les voye un peu.
-Tenez mon cher voisin, j'ay perdu tout mon feu⁎,
-Mon amour s'est passé.
-
--*who_fernant
-                  Voisin j'en suis bien aise⁎.
-Vous estes tout changé.
-
--*who_florant
-                  Je n'estois rien que braise
-Mais je les aperçois qu'ils viennent droit à nous.
-
-**** *book_ *id_III12 *act_III *date_1669 *creator_clerselier
-
--*who_isabelle
-Je me jette à vos pieds.
-
--*who_florant
-                  Levez vous levez vous.
-
--*who_clidamant
-Monsieur puis-jé esperer cette beauté que j'ayme.
-
--*who_fernant
-Ouy ouy.
-
--*who_clidamant
-      S'il est ainsi mon bon-heur est extreme.
-
--*who_florant
-Elle est à vous Monsieur.
-
--*who_clidamant
-                  Ah que je suis heureux !
-Madame.
-
--*who_florant
-      C'est assez, aimez-vous bien tous deux.
-Il faut nous divertir.
-
--*who_clidamant
-                  Ah Monsieur quelles graces⁎ !
-
--*who_florant
-Appelle nos danseurs.
-
--*who_croctin
-                  Hola⁎ Clincantes faces.
-Dansez.
-      Ils dansent bien considerez leurs pas.
-
--*who_croctin
-Laissez les faire allez ils n'y manqueront pas.
-
--*who_lisette
-Tiendras-tu ta promesse.
-
--*who_croctin
-                  Ouy si tu tient la tienne.
-Deusse-je estre cocu je veux tenir la mienne.
-Touche la.
-
--*who_lisette
-      Je le veux.
-
--*who_croctin
-                  Allons nous marier
-Et ne songeons apres qu'à bien multiplier.

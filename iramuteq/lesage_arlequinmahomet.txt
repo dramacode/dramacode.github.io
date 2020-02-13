@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1714
+**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
--*who_arlequin
 Ô Sort ! Ô Devins ennemis !
 Dans quel état m'avez-vous mis :
 J'ai voulu téter du commerce ;
@@ -10,162 +9,47 @@ J'ai gagné du bien dans la Perse ;
 Mais la chance hélas ! a tourné !
 Enfin, me voilé ruiné.
 
-**** *book_ *id_I02 *act_I *date_1714
-
--*who_dahi
-Je reviens a regret,
-Ami, vous instruire
-De ce qu'en secret
-On m'est venu dire
-Vos créanciers en ce jour
-Veulent vous jouer d'un tour.
-
--*who_arlequin
 Ouf !
 
--*who_dahi
-Vous les connaissez
-Trompez leur envie.
-
--*who_arlequin
 Seigneur, c'est assez.
 Je vous remercie.
 
--*who_dahi
-Adieu. Soyez assez fin
-Pour éluder leur dessein.
-
-**** *book_ *id_I03 *act_I *date_1714
-
--*who_arlequin
 Marchands, qui dans pareil cas,
 Êtes bien sortis d'affaire
 Pour vous tirer d'embarras,
 Comment avez-vous pu faire ?
 
-**** *book_ *id_I04 *act_I *date_1714
-
--*who_boubekir
-Depuis trois jours que je suis dans Surate,
-J'ai su, Seigneur, par quelques Commerçants
-Qu'on doit dans peu mettre sur vous la patte,
-Et vous jeter dans les fers pour longtemps.
-
--*who_arlequin
 Hoïmé !
 
--*who_boubekir
-Si vous craignez pareille destinée,
-Dites-le moi ; parlez confidemment.
-Je puis, Seigneur, et dés cette journée,
-Vous dérober à l'emprisonnement.
-
--*who_arlequin
 Non, non, cela n'est pas possible.
 Sans doute on me fait observer ;
 Et vous ne sauriez me sauver,
 Sans me rendre invisible.
 
--*who_boubekir
-J'ai fait une machine
-Qu'on peut nommer divine,
-C'est un coffre volant.
-Avec cet équipage,
-Sans péril on voyage.
-
--*who_arlequin
 L'ouvrage est excellent.
 Mais n'est il point magique ?
 
--*who_boubekir
-Non, non, de Mécanique
-C'est un ouvrage pur.
-Entrez dans ma brouette,
-Et faites une traite,
-Pour en être plus sûr.
-Je vais vous apprendre
-Comme il faut monter,
-Comme il faut descendre,
-Ou vous arrêter,
-De quel cété prendre,
-Et voler comme un perdu.
-
--*who_arlequin
 À la charmante brouette !
 Je l'accepte volontiers.
 Je pourrai par ma retraite
 Payer tous mes créanciers.
 
--*who_boubekir
-C'est une des sept Merveilles.
-J'en veux fournir de pareilles
-À tous les Banqueroutiers.
-
--*who_arlequin
 Il en a donc des milliers.
 
--*who_boubekir
-J'en ai fait provision
-Pour Paris et pour Lyon.
-
--*who_arlequin
 Un si précieux coffre
 Vaut mieux que tout mon bien.
 
--*who_boubekir
-Cependant, je vous l'offre,
-Si vous vouliez, pour rien.
-
--*who_arlequin
 Allons, gai,
 D'un air gai, etc.
 
-**** *book_ *id_I05 *act_I *date_1714
-
--*who_arlequin
 Voici les Archers qui viennent,
 Vite sauvons-nous...
 
-**** *book_ *id_I06 *act_I *date_1714
-
--*who_arlequin
 Un petit moment trop tard
 La justice est venue...
 
-**** *book_ *id_I07 *act_I *date_1714
-
--*who_leprince
-Reste-t-il quelque espoir,
-Après cette traverse ?
-Triste Prince de Perse,
-Meurs ; que ton désespoir
-T'enseigne ton devoir.
-
-**** *book_ *id_I08 *act_I *date_1714
-
--*who_leprince
-Ciel ! Que viens-je d'apprendre !
-Ah ! Quel nouveau malheur !
-Ai-je bien pu l'entendre,
-Sans mourir de douleur !
-épris de ma Princesse
-Un Kam la vient, dit-on
-Ravir à ma tendresse.
-
--*who_arlequin
 C'est un fripon.
 
--*who_leprince
-Que de cet hyménée,
-Mon amour malheureux,
-Prévienne la journée
-Par un coup généreux.
-Qu'ici ce fer finisse
-En ce moment mes jours.
-Reçois ce sacrifice
-Objet de mes amours.
-
--*who_arlequin
 Que votre Seigneurie
 Modère ses transports.
 Quittez la sotte envie
@@ -175,89 +59,17 @@ Sous ma protection ;
 Et de votre Maîtresse
 Bientôt je vous fais don.
 
--*who_leprince
-Vous qui d'un espoir si doux
-Flattez ma mourante vie,
-Eh ! Sur quoi le fondez-vous ?
-
--*who_arlequin
 Parbleu sur mon industrie.
 
--*who_leprince
-Un Kam que j'ai pour rival,
-Veut m'enlever ma maîtresse :
-Aurez-vous assez d'adresse
-Pour parer ce coup fatal ?
-
--*who_arlequin
 Oui morbleu.
 
--*who_leprince
-Cette promesse
-Dissipe un peu mon effroi.
-Si je vous dois ma Princesse,
-Ami, disposez de moi.
-
--*who_arlequin
 Ça, je vais de ce pas même...
 
--*who_leprince
-Mais par quelle invention ?...
-
--*who_arlequin
 Suivez moi. Le stratagème
 Naîtra de l'occasion.
 
-**** *book_ *id_I09 *act_I *date_1714
-
--*who_lasuivante
-Cent fois soit maudit l'Astrologue
-Qui, quand vous reçûtes le jour,
-Nous prédit d'un air pédagogue
-Que l'Amour vous jouait d'un tour.
-Selon lui, c'est dans cette année
-Qu'un homme doit vous attraper :
-Du moins jusqu'à cette journée,
-Nul encor n'a pu vous tromper.
-
--*who_laprincesse
-Cependant, le Roi mon père
-Craint ce que l'on a prédit ;
-Et, pour mettre son esprit
-En repos sur cette affaire
-Il prétend lier mon sort
-Au fort d'un sexagénaire,
-Que je hais plus que la mort.
-
--*who_lasuivante
-Le Roi votre père a tort.
-Le Ciel, ô Princesse adorable
-Vous devait un dessin plus doux
-Et le Prince le plus aimable
-Est à peine digne de vous.
-
-**** *book_ *id_I10 *act_I *date_1714
-
--*who_laprincesse
-Quoi, faudra-t-il, malgré ma répugnance,
-Avec le Kam vivre jusqu'au trépas !
-
--*who_lasuivante
-Ô Mahomet, de cette violence
-Daigne sauver cet objet plein d'appas.
-
--*who_arlequin
 Oh le vieux Kam, ma foi, ne l'aura pas.
 
--*who_lasuivante
-Vous voyez que c'est Mahomet,
-Qui pour vous s'intéresse.
-
--*who_laprincesse
-C'est peut-être quelque follet,
-Qui trompe ma tendresse.
-
--*who_arlequin
 Non, c'est Mahomet tout de bon ;
 La fandondaine,
 La faridondon.
@@ -266,22 +78,9 @@ Biribi,
 À la façon de Barbari,
 Mon ami.
 
--*who_lasuivante
-Accordez-nous votre assistance,
-Grand Prophète des Musulmans ;
-Donnez-nous en une assurance,
-Qui rende le calme a nos sens ;
-Et daignez de votre présence
-Nous honorer dans ces moments.
-
--*who_arlequin
 Allons, allons, accourez tous.
 Mahomet va descendre.
 
--*who_laprincesse
-Vous, Mahomet ! Quelle jeunesse !
-
--*who_arlequin
 Suivant les temps suivant les lieux
 J'ai l'air jeune, ou je parais vieux.
 Bientôt vous verrez, ma Princesse,
@@ -298,57 +97,24 @@ Laire-la, laire lan laire
 Laire la,
 Laire lan-la.
 
--*who_lasuivante
-Voilé d'un Prince joli
-Le portrait en miniature.
-
--*who_arlequin
 Tudieu ! C'est un dégourdi,
 Turelure.
 
--*who_lasuivante
-On le voit é la peinture,
-Robin, turelure lure.
-Elle le trouve aimable
-Sans dire mot.
-
--*who_arlequin
 C'est, je me donne au Diable :
 Son vrai ballot.
 
--*who_lasuivante
-Je prévois, aux grâces qu'il a,
-Que cet enfant-lé
-Voudra bien cela.
-
--*who_arlequin
 Ô gué, lon-lé,
 Lan laire,
 Ô gué, lon-la.
 
--*who_arlequin
 Expliquez-vous, belle brunette,
 Que dit le coeur pour ce grivois ?
 
--*who_laprincesse
-Puis-je mieux faire, grand Prophète,
-Que d'applaudir à votre choix ?
-
--*who_arlequin
 Vous voulez-donc bien mignonne...
 Peste ! Quel friand minois !
 Le Prophète sent, friponne,
 Qu'il s'échauffe en son harnois.
 
--*who_lasuivante
-Malgré toutes les voluptés,
-Et toutes les félicités
-De votre séjour délectable,
-Je crois, (mais je puis m'abuser)
-Qu'en ce monde une femme aimable
-Pourrait fort bien vous amuser.
-
--*who_arlequin
 Ce grand air de Déesse,
 Et ce charmant souris,
 Me font, je le confesse,
@@ -356,10 +122,6 @@ Oublier mes Houris.
 Allons, gay,
 D'un air gay, etc.
 
--*who_lasuivante
-Ont-elles plus d'appas ?
-
--*who_arlequin
 Elles sont moins gentilles ;
 Mais, diable, j'en fais cas ;
 Elles sont toujours filles.
@@ -368,166 +130,17 @@ Lisette, Lisette,
 Et zon, zon, zon,
 Lisette, la Lison.
 
--*who_lasuivante
-Puisque Mahomet ici bas
-Vient pour y faire un hyménée,
-Il ne me refusera pas
-De joindre aussi ma destinée
-À celle de quelque garçon
-J'en veux un de votre façon.
-
--*who_arlequin
 Un brunet toujours prêt à rire
 Dés demain sera ton époux.
 J'entends du bruit. Je me retire.
 
--*who_laprincesse
-Ne vous éloignez pas de nous.
-
--*who_arlequin
 Non. Mais au Roi vous pouvez dire
 Que je yeux disposer de vous.
 
-**** *book_ *id_I11 *act_I *date_1714
-
--*who_leroi
-Ma fille, recevez l'hommage
-D'un coeur qui vous est destiné.
-
--*who_lasuivante
-Oh ! Le gracieux personnage
-Que vous nous avez amené !
-
--*who_lekam
-Que je prends de plaisir
-é vous voir si gentille !
-Je sens un grand désir
-D'entrer dans la famille.
-Et zon, zon, zon,
-Lisette, la Lisette,
-Et zon, zon, zon,
-Lisette, la Lison.
-
--*who_lasuivante
-Vous ne pouviez choisir, Seigneur,
-Un gendre plus aimable ;
-Il est fait pour toucher un coeur.
-
--*who_laprincesse
-Qu'il est désagréable !
-
--*who_lasuivante
-Mais le Prophète Mahomet,
-é cet hymen contraire,
-Vient de nous déclarer tout net
-Qu'il prétend le défaire.
-
--*who_leroi
-Que dites-vous, ma mie ?
-Parlez. Moi, je vous prie,
-Un peu plus clairement.
-Ce discours m'inquiète :
-Vous avez au Prophète
-Parlé ?...
-
--*who_lasuivante
-      Dans ce moment.
-Du Prince de Perse, dit il,
-Je fais l'époux de la Princesse
-C'est un Prince galant, gentil,
-Digne en un mot de ma maîtresse.
-
--*who_leroi
-Tout cela ne sent rien de bon :
-Ce Mahomet est un fripon.
-Quoi, malgré ma garde nombreuse,
-Malgré tous mes soins cette nuit
-Un fourbe ici s'est introduit !
-Crains pour toi, malheureuse.
-
--*who_lekam
-Oui, vous avez raison Beau-père,
-Mahomet est un scélérat.
-
--*who_lasuivante
-Ah n'attirez point sur l'état
-Sa terrible colère !
-
--*who_leroi
-Vous osez d'un suborneur
-Appuyer l'indolence !
-Cherchons ce larron d'honneur.
-Cherchons ; tirons en Seigneur,
-Vengeance, vengeance vengeance.
-
--*who_lekam
-Vengeance, vengeance vengeance.
-
--*who_arlequin
 Vengeance, vengeance, vengeance.
 
--*who_leroi,lekam
-Exterminons aujourd'hui
-Ce coquin qui nous outrage ?
-Exerçons sur lui
-Toute notre rage.
-
--*who_lasuivante
-Au lieu d'offenser Mahomet,
-Faites ce qu'il désire ;
-Vous verrez un bonheur parfait
-Régner dans votre Empire.
-
--*who_leroi
-Hé bien, j'y consens : C'en en fait.
-Il faut donc me dédire.
-Prince, notre résistance
-N'est qu'une vaine défense
-Et vous voyez qu'elle offense
-Le Patron des Musulmans.
-Allez. Croyez-moi, mon frère,
-N'irritons point sa colère
-Il faut, pour le satisfaire
-Rompre nos engagements.
-
--*who_lekam
-Tout franc, votre fille
-était bien mon fait ;
-Et j'étais un drille...
-Mais votre valet :
-Puisque le Prophète
-En agit ainsi,
-Je vais, sans trompette,
-Déloger d'ici.
-
-**** *book_ *id_I12 *act_I *date_1714
-
--*who_lasuivante
-Mahomet, que ton courroux cesse,
-On a suivre tes volontés :
-Tu vois que notre Roi s'empresse
-À reconnaître tes bontés.
-
--*who_leroi
-Ma sacrilège résistance
-N'excitera plus ta vengeance.
-Par Médine j'en fais serment,
-Ville où les musulmans fidèles,
-Avec un saint empressement,
-Vont voir tes dépouilles mortelles.
-
-**** *book_ *id_I13 *act_I *date_1714
-
--*who_leroi
-Vous me voyez à vos genoux.
-
--*who_arlequin
 Bon Roi relevez-vous.
 
--*who_leroi
-Moi, qui vous ai tant offensé...
-
--*who_arlequin
 Laissons-la le passé.
 Voici l'époux de votre fille.
 Du Roi de Perse unique fils.
@@ -535,56 +148,43 @@ Pour recruter votre famille
 Il a le mérite requis.
 Ne l'acceptez-vous pas pour gendre ?
 
--*who_leroi
-Je le reçois de tout mon coeur.
-De votre main on doit tout prendre.
-
--*who_arlequin
 Oui, foi de Prophète d'honneur.
 
--*who_leroi
-Héritier d'un célèbre Empire,
-Pour moi quelle félicité !...
-
--*who_leprince
-Grand Roi, que ne pouvez-vous lire,
-Dans le coeur d'un Prince enchanté.
-
--*who_leroi
-Avec plaisir tu dois souscrire
-Ma fille, à ce charmant traité.
-
--*who_lasuivante
-Oh ! Sans peine à cette affaire
-Son coeur se résout !
-
--*who_laprincesse
-J'y consens pour satisfaire
-Le grand Prophète et mon père.
-
--*who_arlequin
 Et vous itou.
 
--*who_leroi
-Que cette nuit on chante, on danse.
-
--*who_lasuivante
-Mahomet, dédaignerez-vous
-D'honorer de votre présence
-L'hymen de ces jeunes époux ?
-
--*who_arlequin
 Non, vraiment ; et je veux, Poulette
 Être sur terre ton mari.
 
--*who_lasuivante
-Que dites-vous, ô grand Prophète !
-
--*who_arlequin
 Tu me serviras de Houri.
 
--*who_lasuivante
-Le grand Mahomet aime é rire.
-
--*who_arlequin
 Tarelire, talaleri, talalerire.
+
+
+**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laprincesse
+
+Cependant, le Roi mon père
+Craint ce que l'on a prédit ;
+Et, pour mettre son esprit
+En repos sur cette affaire
+Il prétend lier mon sort
+Au fort d'un sexagénaire,
+Que je hais plus que la mort.
+
+Quoi, faudra-t-il, malgré ma répugnance,
+Avec le Kam vivre jusqu'au trépas !
+
+C'est peut-être quelque follet,
+Qui trompe ma tendresse.
+
+Vous, Mahomet ! Quelle jeunesse !
+
+Puis-je mieux faire, grand Prophète,
+Que d'applaudir à votre choix ?
+
+Ne vous éloignez pas de nous.
+
+Qu'il est désagréable !
+
+J'y consens pour satisfaire
+Le grand Prophète et mon père.
+

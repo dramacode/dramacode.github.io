@@ -1,6 +1,6 @@
 ---
 identifier: brecourt_ombredemoliere  
-creator: Brécourt  
+creator: Brécourt ; Georges Forestier.  
 date: 1674  
 title: L'Ombre de Molière. Comédie  
 ---

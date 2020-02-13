@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_psyche  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1678  
 title: Psyché. Tragédie  
 ---

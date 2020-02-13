@@ -1,1019 +1,569 @@
 
 
-**** *book_ *id_I01 *act_I *date_1723
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphemie
 
--*who_frosine
-Viens ça, Licas, tandis que ton maître se tue à résoudre ma maîtresse à vivre respirons ici un peu de bon air.
-
--*who_licas
-C'est bien dit, Madame Frosine : ce tombeau me chagrine l'imagination ; il me semble morgué que je suis plus en vie ici que là-dedans.
-
--*who_frosine
-Pour moi, c'est à peu près la même chose : je meurs de faim ; n'as-tu rien, Licas.
-
--*who_licas
-Si fait, j'ons quelque biscuit, et d'assez bon vin ; voilà la bouteille, vous n'avez qu'à dire.
-
--*who_frosine
-Hélas !
-Depuis trois jours que je suis ici avec Euphémie, je n'ai encore eu de secours, que celui que tu m'apportas hier incognito ; je te dois la vie, mon pauvre Licas.
-
--*who_licas
-Vous vous moquez , Madame Frosine ; il ne tient qu'à vous que je ne vous sois plus secourable ?
-
--*who_frosine
-Mais motus au moins, ma maîtresse croit que je ne bois ni ne mange non plus qu'elle ; dans les premiers mouvements de la douleur, nous nouâmes la partie de mourir ensemble, et j'étais de bonne foi ; car je perd presque un époux moi, dans celui de Madame.
-
--*who_licas
-Oui da ?
-
--*who_frosine
-Je serais bien aise de soutenir la gageure, au moins en apparence, jusqu'à ce que je lui aye fermé les yeux ; verse, Licas, verse.
-
--*who_licas
-Ô tatiguene !
-Beuvez sans scrupule ; j'ons de la discrétion de reste, n'y a qu'à lui bailler de l'exercice ; tenez, il m'est presque aussi aisié de garder un secret, que de boire un vare de vin.
-
--*who_frosine
-Ah !
-Ma Maîtresse en devrait bien faire autant.
-
--*who_licas
-Courage, Madame Frosíne ; encore un petit coup, là point de méfiance ; si j'en parle, que cela me serve de poison.
-
--*who_frosine
-Cela me ressuscite, mon pauvre Licas.
-
--*who_licas
-Tant mieux, ce serait un meurtre da, de vous laisser mourir, vous n'êtes encore qu'un jeune abre ; et ce serait morguié bien du fruit de perdu.
-
--*who_frosine
-Il est vrai que la vie sied bien à vingt ans, et je ne sais comment ma Maîtresse peut se résoudre à la quitter si tôt.
-
--*who_licas
-Alle a franchement grand tort de s'obstiner à ça ; alle ne l'aura pas plutôt perdue qu'aile en sera tachée ; aile n'est encore comme vous que dans la primeur de son âge ; et la vie est morgué bonne jusqu'à la lie.
-
--*who_frosine
-Ton maître fait tout ce qu'il peut pour l'en persuader, il soupire , il gémit à merveille ; il lui dit les meilleures raisons du monde : c'est grand domage qu'il soit si vieux.
-
--*who_licas
-Bon, bon, grand dommage : jé jarn'guoi, Madame Frosine !
-Un vieux vivant ne vaut-il pas encore mieux qu'un jeune défunt ?
-
--*who_frosine
-Je connais Euphémie ; la jeunesse et la bonne mine la mettraient cent fois mieux à la raision, que les plus beaux discours du monde : tiens il y a deux ans qu'elle voulut s'engager parmi les Prêtresses de Diane ; toutes les instances, toutes les larmes de sa famille ne firent qu'opiniâtrer sa petite ferveur, et elle commençait enfin son serment à la Déesse, lors qu'elle aperçut un jeune homme, qui d'un clin d'oeil, lui coupa la parole ; les vapeurs la prirent, elle sentit qu'elle n'était point faite pour Diane ; il fallut la marier huit jours après, et le jeune homme enfin devint l'époux qu'on pleure aujourd'hui.
-
--*who_licas
-Elle va comme ça du blanc au noir ?
-Oh tatiguié !
-Qu'alle est femme cette femme là !
-Mais à propos du défunt, c'était un brave homme !
-À sa santé, je vous la porte.
-
--*who_frosine
-Ah!
-
--*who_licas
-Vous vous plaignez ?
-M'est avis, pourtant que le vin n'est pas mauvais ?
-
--*who_frosine
-Ce n'est point le vin Licas, c'est le défunt que je plains.
-
--*who_licas
-Bon pour cela !
-Il y a un an que je te connaissions mon maître et moi : quand ils veniont chez nous lui et Madame Euphémie, ils batifoliont sans cesse ensemble ; ils étiont morgué si affolés l'un de l'autre qu'on ne les eut jamais pris pour mari et femme.
-
--*who_frosine
-Hélas !
-Le pauvre homme s'est tué à aimer ma maîtresse !
-
--*who_licas
-Je le crois ma foi bien Madame Frosine ; ça use terriblement un jeune honnête : encore un petit verre de consolation.
-
--*who_frosine
-Oui-da, Licas... mais j'entends du bruit ?
-C'est ton Maître... non Licas, vous avez beau me presser, je ne prendrai pas le moindre soulagement que ma chère maîtresse ne m'en donné l'exemple.
-
--*who_licas
-Vous me refusez, Madame Frosine ?
-Eh bien !
-C'est un affront qu'il faut boire.
-
-**** *book_ *id_I02 *act_I *date_1723
-
--*who_chrisante
-Ah, ma pauvre Frosine !
-Ah mon pauvre Licas !
-
--*who_frosinelicas
-Hé bien ?
-
--*who_chrisante
-Il n'y a pas moyen de la fléchir ; mes prières et mes larmes aigrissent encore son désespoir ; et pour tout le prix de mes soupirs, la cruelle me conjure de la laisser mourir en repos.
-
--*who_frosine
-Adieu donc, Monsieur, je m'en vais lui tenir compagnie.
-
--*who_licas
-Alle n'a morgué garde.
-
--*who_chrisante
-Va, ma pauvre enfant, mais dis-lui bien encore que sa résolution m'assassine ; et qu'elle devrait vivre au moins par pitié pour moi.
-
--*who_frosine
-Franchement Monsieur,ce serait si prendre un peu tard ; les Dieux savent ce que nous avons mangé depuis trois jours !
-
--*who_licas
-Et moi aussi.
-
--*who_chrisante
-Adieu ma pauvre Frosine, que je crains bien de ne plus revoir Euphémie !
-
-**** *book_ *id_I03 *act_I *date_1723
-
--*who_licas
-Allons Monsieur, venez vous reposer, il est morgué heure indue de consoler des veuves.
-
--*who_chrisante
-J'ai toutes les peines du monde à me soutenir ; je me meurs de douleur et d'amour.
-
--*who_licas
-Et de soixante et dix ans, Monsieur : c'est votre grande maladie ; eh morgué n'est-il pas honteux d'entreprendre à votre âge, de ressusciter une veuve de vingt ans ?
-
--*who_chrisante
-Hélas, hélas !
-
--*who_licas
-Avec vos hélas, vous ne bougez ; détalons, vous dis-je ; il est temps de céder la place aux hiboux.
-
--*who_chrisante
-Je ne saurais m'éloigner d'Euphémie.
-
--*who_licas
-Que je voudrais bien que ceux qui veillont à la garde de ce fripon de qualité qu'on brancha hier, nous prissiint pour gens qui cherchons le débrancher, j'iriins morgué coucher malgré vous ; mais en prison, et vous le mériteriez bian.
-
--*who_chrisante
-Ne crains rien, Licas, c'est mon fils qu'on a posté là avec sa troupe ; et je craindrais bien plutôt qu'il ne découvrit ma passion pour Euphémie.
-
--*who_licas
-Quoi, votre fils !
-Je suis impatient de le connaître ; depuis trois ans qu'il est en campagne je ne savais pas tant seulement qu'il fut de retour ; mais ce n'est pas là un emploi pour ly ?
-
--*who_chrisante
-Il est depuis trois jours à Éphése ; et comme la justice qu'on fit hier importe tout-à-fait à l'Etat ; j'ai appris qu'on l'avait choisi extraordinairement pour empêcher qu'on n'enlevât le criminel, et qu'on ne frustrât le peuple de cet exemple-là.
-
--*who_licas
-N'importe, Monsieur, retirons-nous ; il ne fait point bon aux environs, de ces soldats : ce sont des brutaux qui vous cherchont querelle, et qui vous obligeont souvent à troquer votre bourse contre des gourmades.
-
-**** *book_ *id_I04 *act_I *date_1723
-
--*who_straton
-Notre lumière est éteinte ; je meurs de peur : la nuit est terriblement noire !
-
--*who_licas
-On parle autour de nous, Monsieur ; éloignons-nous de grâce : je devrions être déjà bien loin.
-
--*who_straton
-J'entends quelqu'un, on en veut peut-être à notre souper ?
-Je tremble !
-Mais n'importe, il faut intimider les autres : qu'on marche en bon ordre, et faites-moi sauter la cervelle à tout ce qui vous fera suspect.
-
--*who_chrisante
-Ce font ces brutaux de soldats, ils n'en veulent pas à moins qu'à la cervelle,
-
--*who_licas
-N'ayez pas peur , je vais fermer ma lanterne ; et je tacherons d'échapper dans l'obscurité.
-
--*who_lecuisinier
-Miséricorde !
-
--*who_straton
-Ah, je suis blessé !
-
--*who_licas
-Suivez-moi.
-
-**** *book_ *id_I05 *act_I *date_1723
-
--*who_lecuisinier
-Monsieur Straton ?
-
--*who_straton
-Eh bien ?
-
--*who_lecuisinier
-Tout le souper est renversé !
-
--*who_straton
-Ah, je suis mort !
-Comment faire ?
-
--*who_lecuisinier
-Ma foi, vous ferez comme vous l'entendrez ; j'ai la tête tout en sang ; je m'en vais me faire panser.
-
-**** *book_ *id_I06 *act_I *date_1723
-
--*who_straton
-Ô Ciel !
-Je ne reviens point de ma frayeur !
-Est-il possible que depuis que je sers un homme de guerre, je n'aye pu encore attraper un brin de courage ?
-Il faut que la nature soit bien obstinée !
-Il n'y a plus personne, je pense ?
-Si fait !
-Non, je me trompe, je croyais sentir le vent d'une épée.
-Que vais-je devenir, malheureux !
-Mon maître ce sera impatienté ; j'ai perdu du temps à goûter le vin !
-S'il faut avec cela, que je retourne sans le souper, mon Maître ne jeûnera point impunément ; je serai roué du coups de bâton : le moyen aussi de rien ramasser fans lumière !
-
-**** *book_ *id_I07 *act_I *date_1723
-
--*who_sostrate
-Mon coquin de Valet ce fera enivré quelque part !
-
--*who_straton
-Ah, Monsieur !
-Quartier !
-Sauvez-moi la vie.
-
--*who_sostrate
-C'est donc vous, Monsieur le maraud ?
-
--*who_straton
-Quoi, ce n'est que vous Monsieur ?
-Ah, je tremble encore !
-Je vous ai crû un de ces fripons qui viennent de renverser votre souper.
-
--*who_sostrate
-Comment donc ?
-Que parles-tu de souper renversé ?
-
--*who_straton
-Hélas, Monsieur, je vous en demande pardon !
-Ils étaient plus d'une douzaine qui viennent de fondre sur celui qui le portait : le pauvre garçon en a été blessé ; j'ai crû l'être moi !
-Et je ne sais ce qui sera réchappé du souper.
-
--*who_sostrate
-Maudit poltron !
-Voilà comme tu me sers !
-Tu mériterais que je te fisse mourir sous le bâton ?
-
--*who_straton
-Eh Monsieur !
-Le courage ne cède-t-il pas toujours à la force ?
-
--*who_sostrate
-Tiens, double lâche, prend la lumière, et cherche ce qu'on nous aura laissé
-
--*who_straton
-Bon , bon, Monsieur !
-Il n'y a que demi mal : voilà déjà le pain et le vin !
-
--*who_sostrate
-Encore est-ce quelque chose.
-
--*who_straton
-Vivat, voila encore le pâté tout entier !
-
--*who_sostrate
-Il faut donc se consoler du reste.
-
--*who_straton
-Ma foi, vous n'aurez pas grande peine ; voilà encore le rôt en assez bon état.
-Il n'y manque qu'un poulet, Monsieur.
-
--*who_sostrate
-Ce n'est qu'une bagatelle : relève tout cela, et suis moi.
-
-**** *book_ *id_I08 *act_I *date_1723
-
--*who_euphemie
 Hélas !
 
--*who_sostrate
-Mais qu'entends-je ?
-
--*who_straton
-Quoi, Monsieur ?
-
--*who_sostrate
-On se plaint ici quelque part ?
-
--*who_euphemie
 Hélas !
 
--*who_sostrate
-Je ne me trompe point ; c'est de ce côté là : approche.
+Hélas ! Hélas !
 
--*who_straton
-Hélas, Monsieur, qu'allez vous chercher ?
+Hélas ! Hélas !
 
--*who_sostrate
-Voilà un tombeau magnifique !
+Ah, ma chère Frosine, que la mort est lente ! Et que j'ai d'impatience d'embrasser l'ombre de mon époux !
 
--*who_straton
-Croyez-moi, Monsieur ; ne troublons point le repos des morts : allons nous-en.
+Ah, Frosine , ne m'en parle point, je le déteste ! Il m'aime, il a osé me le dire, on ne pouvait m'outrager plus vivement, dans l'état où je suis !
 
--*who_euphemie
-Hélas !
-Hélas !
+Hélas, ma chère Frosine, je ne veux pas feulement me souvenir qu'il y en ait d'autres sur la terre ! Tous les hommes qui vivent me font horreur ! Je trouve les Dieux injustes de leur laisser un bien qu'ils ravissent à mon époux ! Faut-il, hélas, que les plus dignes de la vie, en jouissent toujours le moins !
 
--*who_sostrate
-Les soupirs redoublent quelqu'un est enfermé là-dedans : va voir.
+Ô Ciel, ma chère Frosine ! Que vois-je, et qu'entends-je ?
 
--*who_straton
-Moi, Monsieur ?
-Je ne suis point curieux.
+Que me dit-on, Frosine ! Quoi la douleur et la défaillance ne m'auraient pas encore rendue affreuse ?
 
--*who_sostrate
-Va voir, te dis-je, ou...
+Hélas, Monsieur ! Quels yeux voulez-vous voir ? Les larmes les ont éteints, et la mort va bientôt les fermer !
 
--*who_straton
-J'enrage !
-
--*who_sostrate
-Hé bien ?
-
--*who_straton
-Ah, Monsieur, je suis perdu !
-
--*who_sostrate
-Quoi donc !
-Qu'as-tu vu ?
-
--*who_straton
-Deux lutins, Monsieur, deux fantômes effroyables !
-
--*who_sostrate
-Insensé!
-
--*who_straton
-Non, Monsieur, il n'y a rien de si vrai : cela n'étaít pas d'abord plus haut que çà ; mais dès que cela m'a vu, cela s'est haussé tout d'un coup, de douze pieds au moins, et j'ai vu l'heure que cela me tordait le cou !
-
--*who_sostrate
-Tu me ferais perdre patience, avec tes visions !
-
--*who_straton
-Je vous dis, Monsieur, qu'il n'y a rien de si affreux !
-Cela est tout noir des pieds jusqu'à la tête : cela a par derrière, une queue à perte de vue ; et il me semble avoir vu par devant, des griffes longues de cela !
-
--*who_euphemie
-Hélas !
-Hélas !
-
--*who_straton
-Prenez garde, Monsieur, prenez garde !
-
--*who_sostrate
-Je suis las de t'entendre ; laisse-moi : je veux voir moi-même.
-
--*who_straton
-Ah, Monsieur, que dites-vous là !
-Voulez-vous vous perdre ?
-Vous savez quel risque vous courrez à abandonner si longtemps votre poste ?
-Il y va de la vie !
-Et si ce que les magistrats ont craint arrivait ; vous savez qu'il n'y a point de grâce à attendre ?
-Hélas, Monsieur, ne m'exposez point à vous perdre !
-
--*who_sostrate
-Tais-toi, poltron !
-Tous mes gens ne te ressemblent pas grâce aux Dieux ; et je peux me reposer sur leur courage : mais je vois quelqu'un, ce sont des femmes ?
-
--*who_straton
-Vous vous trompez, Monsieur ; ce sont deux lutins, sur ma parole,
-
--*who_sostrate
-Regarde donc, lâche !
-
--*who_straton
-Ah, Monsieur !
-Ce n'est pas cela que j'ai vu !
-Vous verrez que les lutins auront pris cette forme là pour vous attirer sous leurs griffes !
-
-**** *book_ *id_I09 *act_I *date_1723
-
--*who_frosine
-De grâce, Madame, éloignez-vous un moment de ce funeste objet : donnez quelque trêve à votre désespoir, et plaignez-vous du moins sans vous arracher les cheveux, et sans vous meurtrir de vos propres mains.
-
--*who_euphemie
-Ah, ma chère Frosine, que la mort est lente !
-Et que j'ai d'impatience d'embrasser l'ombre de mon époux !
-
--*who_sostrate
-Je vois ce que c'est, Straton : voilà sans doute cette Euphémie dont la beauté et la douleur sont si célèbres dans Éphèse ?
-
--*who_straton
-Cela pourrait bien être, Monsieur ; je commence à me rassurer : on dit qu'elle s'est enfermée dans le tombeau de son mari pour s'y laisser mourir de douleur ; il serait beau voir cela, Monsieur, pour la rareté du fait !
-
--*who_sostrate
-Le récit m'en avoir déja attendri ; mais la présence de cette Dame me cause encore tout une autre émotion !
-
--*who_frosine
-Je vous avouerai, Madame, que de moment en moment, votre résolution de mourir me paraît moins raisonnable : je trouvais beau d'abord que vous portassiez l'amour conjugal à un excès qui fit parler de vous ; mais je trouve à présent que c'est une faiblesse, et qu'au bout du compte, tout cet honneur là ne vaut pas la vie : le bon homme Monsieur Chrisante devrait bien vous en avoir persuadée !
-
--*who_euphemie
-Ah, Frosine , ne m'en parle point, je le déteste !
-Il m'aime, il a osé me le dire, on ne pouvait m'outrager plus vivement, dans l'état où je suis !
-
--*who_frosine
-Hé bien, Madame, oubliez Chrisante ; mais rappelez ses raisons : quel dommage, comme il vous disait si bien, de vous enterrer toute vive à vingt ans !
-La nature vous a-t-elle prodigué tant de charmes, pour en priver si tôt le monde ?
-Et jeune et belle comme vous êtes, croyez-vous vous être acquittée envers elle, en faisant le bonheur d'un seul homme ?
-
--*who_euphemie
-Hélas, ma chère Frosine, je ne veux pas feulement me souvenir qu'il y en ait d'autres sur la terre !
-Tous les hommes qui vivent me font horreur !
-Je trouve les Dieux injustes de leur laisser un bien qu'ils ravissent à mon époux !
-Faut-il, hélas, que les plus dignes de la vie, en jouissent toujours le moins !
-
--*who_sostrate
-Je ne me possède plus, Straton !
-Il faut que lui parle ; et je veux tout tenter pour la sauver.
-
--*who_straton
-Voyons un peu comme il s'en tirera !
-
-**** *book_ *id_I10 *act_I *date_1723
-
--*who_sostrate
-Ne me regardez points Madame, comme un importun qui vienne ici condamner votre douleur, et la redoubler peut-être en la combattant : elle ne saurait être injuste, puisque vous vous y abandonnez ; et vous saurez sans doute lui donner des bornes, dès que la raison l'exigera.
-
--*who_straton
-Bien débuté, ma foi !
-
--*who_sostrate
-Qu'il me soit seulement permis, Madame, de recueillir ici des larmes si précieuses ; et d'envier toute ma vie, le sort de celui pour qui on les verse.
-
--*who_euphemie
-Ô Ciel, ma chère Frosine !
-Que vois-je, et qu'entends-je ?
-
--*who_frosine
-Un jeune homme et un compliment, Madame, tous deux assez insinuants, ce me semble.
-
--*who_sostrate
-Le hasard ; vient de me conduire ici, mais ce n'est plus lui qui m'y arrête : je sens que je m'intéresse à votre douleur ; l'excès de votre attachement pour un époux m'en inspire un pour vous, que je sens naître avec plaisir : non il n'est point ailleurs d'âme faite comme la vôtre ; et quand vous ne seriez pas la plus belle personne du monde, comme vous l'êtes, vous ne laisseriez pas d'être encore la plus adorable.
-
--*who_euphemie
-Que me dit-on, Frosine !
-Quoi la douleur et la défaillance ne m'auraient pas encore rendue affreuse ?
-
--*who_frosine
-Non, vraiment, Madame : il est vrai que vos charmes tirent à la fin ; mais vous serez belle jusqu'au dernier soupir.
-
--*who_sostrate
-Quoi , Madame !
-Vous ne daignez pas répondre à mon zèle ?
-Votre esprit est tout occupé de ce que vous avez perdu ?
-Et vous n'honorez pas de la moindre attention la part et l'intérêt qu'on prend à votre perte ?
-Encore une fois, Madame, ne craignez rien ; je ne veux point vous distraire de votre douleur : épanchez seulement avec moi, des sentiments que je respecte ; laissez-moi voir ces yeux noyés de larmes, que j'admire : il n'appartient qu'à des veuves moins sincères de cacher des yeux qui les servent mal.
-
--*who_euphemie
-Hélas, Monsieur !
-Quels yeux voulez-vous voir ?
-Les larmes les ont éteints, et la mort va bientôt les fermer !
-
--*who_sostrate
-La mort va bientôt les fermer ?
-Ô Ciel !
-Que dites-vous ?
-
--*who_euphemie
 Oui, Monsieur, le parti en est pris ; j'aurai bientôt la consolation de rejoindre mon cher époux !
 
--*who_sostrate
-Vous mourriez ?
-Vous, Madame, vous mourriez ?
-Non, l'estime que j'ai conçue pour vous, ne me laisse pas la liberté de vous en croire : votre âme est capable de douleur ; mais elle ne saurait l'être de désespoir.
+Qu'il est pressant, ma chère Frosine ! Ne trouves-tu pas qu'il a quelque chose du défunt ?
 
--*who_frosine
-Il y a pourtant trois jours que nous n'avons mangé !
+Non, Monsieur, rien ne peut me résoudre à vivre ! Après l'époux que j'ai perdu, il n'y a plus de consolation pour moi !
 
--*who_sostrate
-Trois jours !
-Ô Ciel, trois jours !
-Que vous m'alarmez !
-Trois jours, Madame, et vous vivez encore !
-Trois jours, mon pauvre Straton !
+Hélas, Monsieur ! Le Ciel nous avoir faits pour être toujours unis l'un â l'autre ; je ne fais que suivre ma destinée : je sentis cette fatalité dès la première fois qu'il s'offrit à ma vue ; et depuis cet heureux moment, je n'en sache point où je n'aie été uniquement occupée de lui : si j'ai à me reprocher quelque distraction, ce n'est que depuis que vous me parlez ! Ah, ah, ah !
 
--*who_straton
-Ce n'est pas ma faute.
+C'était, Monsieur, la jeunesse et la douceur même : quelle complaisance, quel amour n'avait-il pas pour moi ! Sa passion ne s'est jamais ralentie d'un instant : il me protestait sans cesse qu'il m'aimerait toute sa vie ; et son dernier soupir était encore un soupir d'amour ! Ah, ah, ah !
 
--*who_sostrate
-Ne perdez point de temps, Madame ; il faut réparer tout à l'heure, la défaillance où vous vous êtes reduite : ô Ciel, trois jours !
-Il me semble que vous allez expirer à tout moment !
-
--*who_euphemie
-Qu'il est pressant, ma chère Frosine !
-Ne trouves-tu pas qu'il a quelque chose du défunt ?
-
--*who_frosine
-Oui, Madame ; le don de vous plaire, si je me trompe.
-
--*who_sostrate
-Straton, cherche vite de quoi faire une table ; couvre-là de ce que nous avons : il faut que Madame prenne du soulagement tout à l'heure.
-
--*who_frosine
-Je l'aiderai plutôt ; il n'y a rien que je ne fasse pour sauver la vie à ma maîtresse.
-
--*who_straton
-Ah, mon pauvre souper !
-Vous allez être englouti !
-
-**** *book_ *id_I11 *act_I *date_1723
-
--*who_euphemie
-Non, Monsieur, rien ne peut me résoudre à vivre !
-Après l'époux que j'ai perdu, il n'y a plus de consolation pour moi !
-
--*who_sostrate
-Eh quoi, Madame !
-N'est-ce pas offenser cet époux même que vous pleurez, que de lui vouloir servir de victime ?
-Croyez vous que son ombre en veuille à vos jours ?
-Eh, quel tigre serait plus cruel que lui, si ce sacrifice pouvait lui plaire ?
-
--*who_euphemie
-Hélas, Monsieur !
-Le Ciel nous avoir faits pour être toujours unis l'un â l'autre ; je ne fais que suivre ma destinée : je sentis cette fatalité dès la première fois qu'il s'offrit à ma vue ; et depuis cet heureux moment, je n'en sache point où je n'aie été uniquement occupée de lui : si j'ai à me reprocher quelque distraction, ce n'est que depuis que vous me parlez !
-Ah, ah, ah !
-
--*who_sostrate
-Madame...
-
--*who_euphemie
-C'était, Monsieur, la jeunesse et la douceur même : quelle complaisance, quel amour n'avait-il pas pour moi !
-Sa passion ne s'est jamais ralentie d'un instant : il me protestait sans cesse qu'il m'aimerait toute sa vie ; et son dernier soupir était encore un soupir d'amour !
-Ah, ah, ah !
-
--*who_sostrate
-Hé bien, Madame, j'y consens, rappelez tous les plaisirs que vous avez goûtez dans cette union ; c'est pour ces plaisirs mêmes que vous devez vivre : l'amour peut vous réserver un nouvel amant aussi digne que le premier de toute votre tendresse, et peut-être encore plus épris de vos charmes.
-
--*who_euphemie
 Oh pour cela, non, Monsieur ; on ne saurait m'aimer plus tendrement que le défunt m'aimait.
 
--*who_sostrate
-On ne saurait aussi vous aimer moins, Madame ; l'amour n'est point un sentiment dont vous deviez tenir aucun compte : on le sent malgré soi, dès qu'on a le bonheur de vous voir ; et s'il ne tenait qu'à vous adorer, pour mériter quelque chose auprès de vous, je sens trop que j'aurais droit à toutes vos bontés.
-
--*who_euphemie
 Vous abusez de ma douleur, je n'ai pas la force de résister.
 
-**** *book_ *id_I12 *act_I *date_1723
-
--*who_sostrate
-Avez-vous fait, Monsieur Straton ?
-
--*who_straton
-Bientôt, Monsieur Sostrate.
-
--*who_euphemie
 Non, vous dis-je, ne croyez pas me réduire à ce que vous voulez, j'ai même à présent plus d'une raison pour mourir : je ne veux plus vous entendre ; j'ai honte de vous avoir entendu : laissez-moi mourir ; et laissez-moi mourir fidèle.
 
--*who_sostrate
-Qu'entends-je !
-Et que dois-je penser ?
-
--*who_euphemie
 Laissez-moi, vous dis-je ; et cessez de tenter ma constance.
 
--*who_sostrate
+Ah, Sostrate ! À quoi savez-vous me réduire ? Par quel enchantement puis-je consentir à vivre, et à vivre pour vous ?
+
+Tu me vois rougir, ma chère Frosine ; mais si tu savais tout ce que Sostrate m'a dit ?
+
+C'est par les mêmes sentiments qui m'avaient touchée dans mon époux, que Sostrate vient de m'attendrir encore : c'est l'âme et le coeur d'un mari que j'aime en lui ; et je crois n'avoir plus perdu que certains traits de visage indifférents pour une âme délicate.
+
+Qu'est-ce donc ?
+
+Hé bien ?
+
+Mon cher Monsieur Chrísante !
+
+Ah, Sostrate, que vous m'allez rendre malheureuse !
+
+Quoi, Sostrate...
+
+Ô Ciel ! Qu'alliez-vous faire !
+
+Ah, ma chère Frosine !
+
+Ah, Frosine ! Qu'osez-vous penser?
+
+Ah Chrisante, que me demandez vous ! Trahir mon devoir avec tant d'indignité !
+
+Hélas, Sostrate ! À quelle extrémité suis-je réduite !
+
+
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+
+Viens ça, Licas, tandis que ton maître se tue à résoudre ma maîtresse à vivre respirons ici un peu de bon air.
+
+Pour moi, c'est à peu près la même chose : je meurs de faim ; n'as-tu rien, Licas.
+
+Hélas ! Depuis trois jours que je suis ici avec Euphémie, je n'ai encore eu de secours, que celui que tu m'apportas hier incognito ; je te dois la vie, mon pauvre Licas.
+
+Mais motus au moins, ma maîtresse croit que je ne bois ni ne mange non plus qu'elle ; dans les premiers mouvements de la douleur, nous nouâmes la partie de mourir ensemble, et j'étais de bonne foi ; car je perd presque un époux moi, dans celui de Madame.
+
+Je serais bien aise de soutenir la gageure, au moins en apparence, jusqu'à ce que je lui aye fermé les yeux ; verse, Licas, verse.
+
+Ah ! Ma Maîtresse en devrait bien faire autant.
+
+Cela me ressuscite, mon pauvre Licas.
+
+Il est vrai que la vie sied bien à vingt ans, et je ne sais comment ma Maîtresse peut se résoudre à la quitter si tôt.
+
+Ton maître fait tout ce qu'il peut pour l'en persuader, il soupire , il gémit à merveille ; il lui dit les meilleures raisons du monde : c'est grand domage qu'il soit si vieux.
+
+Je connais Euphémie ; la jeunesse et la bonne mine la mettraient cent fois mieux à la raision, que les plus beaux discours du monde : tiens il y a deux ans qu'elle voulut s'engager parmi les Prêtresses de Diane ; toutes les instances, toutes les larmes de sa famille ne firent qu'opiniâtrer sa petite ferveur, et elle commençait enfin son serment à la Déesse, lors qu'elle aperçut un jeune homme, qui d'un clin d'oeil, lui coupa la parole ; les vapeurs la prirent, elle sentit qu'elle n'était point faite pour Diane ; il fallut la marier huit jours après, et le jeune homme enfin devint l'époux qu'on pleure aujourd'hui.
+
+Ah!
+
+Ce n'est point le vin Licas, c'est le défunt que je plains.
+
+Hélas ! Le pauvre homme s'est tué à aimer ma maîtresse !
+
+Oui-da, Licas... mais j'entends du bruit ? C'est ton Maître... non Licas, vous avez beau me presser, je ne prendrai pas le moindre soulagement que ma chère maîtresse ne m'en donné l'exemple.
+
+Adieu donc, Monsieur, je m'en vais lui tenir compagnie.
+
+Franchement Monsieur,ce serait si prendre un peu tard ; les Dieux savent ce que nous avons mangé depuis trois jours !
+
+De grâce, Madame, éloignez-vous un moment de ce funeste objet : donnez quelque trêve à votre désespoir, et plaignez-vous du moins sans vous arracher les cheveux, et sans vous meurtrir de vos propres mains.
+
+Je vous avouerai, Madame, que de moment en moment, votre résolution de mourir me paraît moins raisonnable : je trouvais beau d'abord que vous portassiez l'amour conjugal à un excès qui fit parler de vous ; mais je trouve à présent que c'est une faiblesse, et qu'au bout du compte, tout cet honneur là ne vaut pas la vie : le bon homme Monsieur Chrisante devrait bien vous en avoir persuadée !
+
+Hé bien, Madame, oubliez Chrisante ; mais rappelez ses raisons : quel dommage, comme il vous disait si bien, de vous enterrer toute vive à vingt ans ! La nature vous a-t-elle prodigué tant de charmes, pour en priver si tôt le monde ? Et jeune et belle comme vous êtes, croyez-vous vous être acquittée envers elle, en faisant le bonheur d'un seul homme ?
+
+Un jeune homme et un compliment, Madame, tous deux assez insinuants, ce me semble.
+
+Non, vraiment, Madame : il est vrai que vos charmes tirent à la fin ; mais vous serez belle jusqu'au dernier soupir.
+
+Il y a pourtant trois jours que nous n'avons mangé !
+
+Oui, Madame ; le don de vous plaire, si je me trompe.
+
+Je l'aiderai plutôt ; il n'y a rien que je ne fasse pour sauver la vie à ma maîtresse.
+
+Mon enfant ! Ta Maîtresse ! Nous sommes déjà bien familier, Monsieur Straton ?
+
+Eh là, là, ne te fâche point ; sans façon, mon enfant, puisque c'est ta manière.
+
+Ton maître ne lui fait point de quartier.
+
+Si fait, si fait, je ne me serais rendue, ma fois, qu'à bonnes enseignes.
+
+Il n'y a pourtant guère moins.
+
+À peu près.
+
+On s'accoutume à tout.
+
+Non pas, que je sache.
+
+Je n'aurais jamais le courage de conclure : tu vois ce que coûte un mari, quand on vient à le perdre ?
+
+Les Dieux veuillent que ce soit à de bonnes conditions ?
+
+Oh, je le suppose à merveilles : vous êtes justifiée de reste ; et le défunt n'y saurait trouver à redire.
+
+Hem, hem, hem, hem !
+
+À notre Libérateur.
+
+En es-tu fâché, Licas ?
+
+C'est à Monsieur que nous devons le miracle que tu vois.
+
+Il s'en faut bien ma foi, que ton maître n'ait l'air aussi persuasif !
+
+Volontiers, je t'en veux verser moi-même.
+
+Mais, mais, Monsieur, qu'avez-vous donc tant à nous reprocher ? Il y a trois jours que vous nous persécutez pour nous résoudre à vivre : notre constance ne tenait plus qu'à un filet ; Monsieur vient de le rompre: qu'y a-t-il là de si étonnant ?
+
+Mais quoi ! N'y a-t-il donc pas de remède à tout cela ?
+
+Si Madame voulait plutôt, sans faire tort à personne, notre défunt...
+
+Ma chère Maîtresse !
+
+De grâce, de grâce ! Eh mort de ma vie, ne sauriez-vous entendre Madame, sans qu'elle parle ? C'est à elle à pleurer, et à nous d'agir ; laissez moi faire, je prends la vie de Sostrate sur mon compte ; et j'en réponds corps pour corps.
+
+
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
+
+Mon coquin de Valet ce fera enivré quelque part !
+
+C'est donc vous, Monsieur le maraud ?
+
+Comment donc ? Que parles-tu de souper renversé ?
+
+Maudit poltron ! Voilà comme tu me sers ! Tu mériterais que je te fisse mourir sous le bâton ?
+
+Tiens, double lâche, prend la lumière, et cherche ce qu'on nous aura laissé
+
+Encore est-ce quelque chose.
+
+Il faut donc se consoler du reste.
+
+Ce n'est qu'une bagatelle : relève tout cela, et suis moi.
+
+Mais qu'entends-je ?
+
+On se plaint ici quelque part ?
+
+Je ne me trompe point ; c'est de ce côté là : approche.
+
+Voilà un tombeau magnifique !
+
+Les soupirs redoublent quelqu'un est enfermé là-dedans : va voir.
+
+Va voir, te dis-je, ou...
+
+Hé bien ?
+
+Quoi donc ! Qu'as-tu vu ?
+
+Insensé!
+
+Tu me ferais perdre patience, avec tes visions !
+
+Je suis las de t'entendre ; laisse-moi : je veux voir moi-même.
+
+Tais-toi, poltron ! Tous mes gens ne te ressemblent pas grâce aux Dieux ; et je peux me reposer sur leur courage : mais je vois quelqu'un, ce sont des femmes ?
+
+Regarde donc, lâche !
+
+Je vois ce que c'est, Straton : voilà sans doute cette Euphémie dont la beauté et la douleur sont si célèbres dans Éphèse ?
+
+Le récit m'en avoir déja attendri ; mais la présence de cette Dame me cause encore tout une autre émotion !
+
+Je ne me possède plus, Straton ! Il faut que lui parle ; et je veux tout tenter pour la sauver.
+
+Ne me regardez points Madame, comme un importun qui vienne ici condamner votre douleur, et la redoubler peut-être en la combattant : elle ne saurait être injuste, puisque vous vous y abandonnez ; et vous saurez sans doute lui donner des bornes, dès que la raison l'exigera.
+
+Qu'il me soit seulement permis, Madame, de recueillir ici des larmes si précieuses ; et d'envier toute ma vie, le sort de celui pour qui on les verse.
+
+Le hasard ; vient de me conduire ici, mais ce n'est plus lui qui m'y arrête : je sens que je m'intéresse à votre douleur ; l'excès de votre attachement pour un époux m'en inspire un pour vous, que je sens naître avec plaisir : non il n'est point ailleurs d'âme faite comme la vôtre ; et quand vous ne seriez pas la plus belle personne du monde, comme vous l'êtes, vous ne laisseriez pas d'être encore la plus adorable.
+
+Quoi , Madame ! Vous ne daignez pas répondre à mon zèle ? Votre esprit est tout occupé de ce que vous avez perdu ? Et vous n'honorez pas de la moindre attention la part et l'intérêt qu'on prend à votre perte ? Encore une fois, Madame, ne craignez rien ; je ne veux point vous distraire de votre douleur : épanchez seulement avec moi, des sentiments que je respecte ; laissez-moi voir ces yeux noyés de larmes, que j'admire : il n'appartient qu'à des veuves moins sincères de cacher des yeux qui les servent mal.
+
+La mort va bientôt les fermer ? Ô Ciel ! Que dites-vous ?
+
+Vous mourriez ? Vous, Madame, vous mourriez ? Non, l'estime que j'ai conçue pour vous, ne me laisse pas la liberté de vous en croire : votre âme est capable de douleur ; mais elle ne saurait l'être de désespoir.
+
+Trois jours ! Ô Ciel, trois jours ! Que vous m'alarmez ! Trois jours, Madame, et vous vivez encore ! Trois jours, mon pauvre Straton !
+
+Ne perdez point de temps, Madame ; il faut réparer tout à l'heure, la défaillance où vous vous êtes reduite : ô Ciel, trois jours ! Il me semble que vous allez expirer à tout moment !
+
+Straton, cherche vite de quoi faire une table ; couvre-là de ce que nous avons : il faut que Madame prenne du soulagement tout à l'heure.
+
+Eh quoi, Madame ! N'est-ce pas offenser cet époux même que vous pleurez, que de lui vouloir servir de victime ? Croyez vous que son ombre en veuille à vos jours ? Eh, quel tigre serait plus cruel que lui, si ce sacrifice pouvait lui plaire ?
+
+Madame...
+
+Hé bien, Madame, j'y consens, rappelez tous les plaisirs que vous avez goûtez dans cette union ; c'est pour ces plaisirs mêmes que vous devez vivre : l'amour peut vous réserver un nouvel amant aussi digne que le premier de toute votre tendresse, et peut-être encore plus épris de vos charmes.
+
+On ne saurait aussi vous aimer moins, Madame ; l'amour n'est point un sentiment dont vous deviez tenir aucun compte : on le sent malgré soi, dès qu'on a le bonheur de vous voir ; et s'il ne tenait qu'à vous adorer, pour mériter quelque chose auprès de vous, je sens trop que j'aurais droit à toutes vos bontés.
+
+Avez-vous fait, Monsieur Straton ?
+
+Qu'entends-je ! Et que dois-je penser ?
+
 Je ne vous quitte point.
 Achève.
 
-**** *book_ *id_I13 *act_I *date_1723
-
--*who_straton
-Il me semble, mon enfant, que ta Maîtresse commence à plier ?
-
--*who_frosine
-Mon enfant !
-Ta Maîtresse !
-Nous sommes déjà bien familier, Monsieur Straton ?
-
--*who_straton
-Eh oui, vraiment ; tu es suivante, je suis valet, nous nous connaissons de reste : ne veux-tu pas que je débute, ne me regardez point, Madame, comme un importun qui... je t'en réponds ; c'est là langue des maîtres : je te parle la mienne.
-
--*who_frosine
-Eh là, là, ne te fâche point ; sans façon, mon enfant, puisque c'est ta manière.
-
--*who_straton
-Entre nous donc, le désespoir de ta maîtresse commence à se battre en retraite ?
-Il devrait être à moitié rendu de famine ?
-
--*who_frosine
-Ton maître ne lui fait point de quartier.
-
--*who_straton
-Tu manquais de vivres aussi, toi ?
-Il eût fait bon l'assiéger ?
-Tu n'aurais guère tenu ?
-
--*who_frosine
-Si fait, si fait, je ne me serais rendue, ma fois, qu'à bonnes enseignes.
-
--*who_straton
-Il est vrai que tu n'as point un visage à avoir jeûné trois jours.
-
--*who_frosine
-Il n'y a pourtant guère moins.
-
--*who_straton
-C'est donc le sommeil qui t'engraisse ?
-
--*who_frosine
-À peu près.
-
--*who_straton
-Un mari ne te vaudrait rien ?
-Cela troublerait ton repos ?
-
--*who_frosine
-On s'accoutume à tout.
-
--*who_straton
-Tu n'en as donc jamais eu de mari ?
-
--*who_frosine
-Non pas, que je sache.
-
--*who_straton
-Ma foi, je ne sache point non plus avoir eu de femme ; sur ces deux prétendues causes d'ignorance là, nous pourrions bien faire affaire ensemble ?
-
--*who_frosine
-Je n'aurais jamais le courage de conclure : tu vois ce que coûte un mari, quand on vient à le perdre ?
-
--*who_straton
-Bon, bon, tu te moques !
-Il n'y a rien de si doux à pleurer qu'un mari.
-Tiens, regarde, le siège n'avance pas mal ?
-Voilà déjà mon maître au pied du rempart !
-Courage, on ne tient plus ; la victoire est à nous.
-On capitule !
-
--*who_frosine
-Les Dieux veuillent que ce soit à de bonnes conditions ?
-
-**** *book_ *id_I14 *act_I *date_1723
-
--*who_straton
-On a servi, Madame.
-
--*who_euphemie
-Ah, Sostrate !
-À quoi savez-vous me réduire ?
-Par quel enchantement puis-je consentir à vivre, et à vivre pour vous ?
-
--*who_sostrate
 Achevez, Madame ; et ne négligez rien pour conserver une vie dont tout le bonheur de la mienne va dépendre.
 
--*who_straton
-Goûtez au vin, Madame.
-
--*who_sostrate
 Mettons-nous à table.
 
--*who_euphemie
-Tu me vois rougir, ma chère Frosine ; mais si tu savais tout ce que Sostrate m'a dit ?
-
--*who_frosine
-Oh, je le suppose à merveilles : vous êtes justifiée de reste ; et le défunt n'y saurait trouver à redire.
-
--*who_euphemie
-C'est par les mêmes sentiments qui m'avaient touchée dans mon époux, que Sostrate vient de m'attendrir encore : c'est l'âme et le coeur d'un mari que j'aime en lui ; et je crois n'avoir plus perdu que certains traits de visage indifférents pour une âme délicate.
-
--*who_straton
-C'est, morbleu, bien dit, Madame !
-Il faut boire là dessus.
-
--*who_sostrate
 Je suis délicat aussi, belle Euphémie, et je sens que j'exigerai bientôt de vous, un amour qui ne se rapporte qu'à moi : je ne veux point nourrir en vous la pensée d'aucun autre ; et ce sera peu pour moi de vous avoir consolée, si je ne parviens à vous faire oublier que vous ayez jamais eu besoin de l'être.
 
--*who_straton
-Mon Maître est délicat, voyez vous ?
-Ce n'est pas assez que le vin soit bon ; il y a encore une manière de le verser, tenez, qu'il préfère au vin même.
-
--*who_frosine
-Hem, hem, hem, hem !
-
--*who_straton
-Tu joues à t'étrangler, Frosine ; ne va pas si vite : bois un coup.
-
--*who_frosine
-À notre Libérateur.
-
--*who_straton
-Oh parbleu, jette serai raison ; mon maître excusera mon zèle.
-
--*who_sostrate
 Va, je te le pardonne, mange aussi : tu iras ensuite voir ce qui se passe à mon poste, pour m'en donner des nouvelles.
 
--*who_straton
-Volontiers, Monsieur.
+Ah, que je suis charmé, Straton ! Et que ma première passion est violente !
 
--*who_sostrate
-Ah, que je suis charmé, Straton !
-Et que ma première passion est violente !
+As-tu jamais vu plus de grâces ensemble ? Et conçois-tu qu'on puisse être plus aimable ?
 
--*who_straton
-Bon.
-
--*who_sostrate
-As-tu jamais vu plus de grâces ensemble ?
-Et conçois-tu qu'on puisse être plus aimable ?
-
--*who_straton
-Non.
-
--*who_sostrate
 Dis donc, ne la trouves-tu pas la plus touchante, la plus belle personne du monde ?
 
--*who_straton
-Oui.
-
--*who_sostrate
 Ah, je sens que je l'aimerai éternellement !
 
--*who_straton
-Soit.
-
--*who_sostrate
 Que tu me réponds mal !
 
--*who_straton
-Je mange bien, Monsieur.
-
--*who_sostrate
 Verse à boire.
 
--*who_straton
-À vos inclinations, Madame !
+Eh, maraud ! Est-ce là ce que je te dis ? Verse-nous à boire.
 
--*who_sostrate
-Eh, maraud !
-Est-ce là ce que je te dis ?
-Verse-nous à boire.
-
--*who_straton
-Eh là là, Monsieur !
-Il n'y a qu'à s'expliquer.
-
-**** *book_ *id_I15 *act_I *date_1723
-
--*who_licas
-Ah, ah, ah, ah !
-Testidienne, qu'est stile est drôle !
-
--*who_euphemie
-Qu'est-ce donc ?
-
--*who_sostrate
 Pourquoi ces éclats ?
 
--*who_licas
-Eh morgué qui ne rirait pas ?
-Mon maître est comme un fou dans son lit ; il prononce à tout bout de champ le nom de Madame, avec des hélas si douloureux que ça vous ferait pitié à vous même.
-Ah, ah, ah, ah !
+Oh ça, Monsieur Licas ! Prétendez-vous encore longtemps troubler nos plaisirs ?
 
--*who_euphemie
-Hé bien ?
-
--*who_licas
-Hé bian, l'impatience l'a pris de savoir de vos nouvelles ; et il se serait levé pour en venir apprendre, si je ne l'en eussions empêché : mais il a voulu à toute force que je vinsse voir si vous étiez morte...
-Ah, ah, ah !
-Je ne m'attendais morgué pas de vous trouver si en vie que ça.
-
--*who_frosine
-En es-tu fâché, Licas ?
-
--*who_licas
-Courage, Madame Frosine !
-Vous faites donc vos deux repas par nuit ?
-
--*who_frosine
-C'est à Monsieur que nous devons le miracle que tu vois.
-
--*who_licas
-J'entends, j'entends ; vela de ce que vous ne me disiez tantôt, qui mettait Madame à la raison.
-
--*who_frosine
-Il s'en faut bien ma foi, que ton maître n'ait l'air aussi persuasif !
-
--*who_licas
-Il s'en faut morgué près de cinquante ans ; mais que disent à tout cela les manes du mari ?
-
--*who_straton
-Pas le mot, comme tu vois.
-
--*who_licas
-Vela, palsangué, un bon défunt !
-
--*who_sostrate
-Oh ça, Monsieur Licas !
-Prétendez-vous encore longtemps troubler nos plaisirs ?
-
--*who_licas
-Non, morguenne ; si le mari est un bon défunt, je suis un bon vivant, moi : me vela prêt de boire à vos santés pour marquer que l'ons bonne intention.
-
--*who_frosine
-Volontiers, je t'en veux verser moi-même.
-
--*who_sostrate
 C'en est assez, Straton ; va faire un tour où je t'ai dit ?
 
--*who_straton
-J'y cours.
+Ô Dieux ! C'est mon père !
 
-**** *book_ *id_I16 *act_I *date_1723
-
--*who_chrisante
-Licas l'aura sans doute trouvée morte...
-Mais Ciel !
-Que vois je ?
-
--*who_licas
-C'est mon maître ; l'impatience l'a pris.
-
--*who_sostrate
-Ô Dieux !
-C'est mon père !
-
--*who_chrisante
-Euphémie à table avec mon fils !
-
--*who_frosinelicas
-Son fils !
-
--*who_chrisante
-Je ne puis revenir de ma surprise ; et je crois presqu'encore que tout ceci n'est qu'un vain fantôme !
-
--*who_licas
-Il n'y a morgué rian de plus réel ; il n'y a qu'à tâter.
-
--*who_chrisante
-Quoi, perfide Euphémie, ne vous seriez-vous renfermée dans le tombeau de votre mari, que pour le faire servir de rendez-vous à un amant qui le déshonore ?
-
--*who_sostrate
 Mon père !
 
--*who_euphemie
-Mon cher Monsieur Chrísante !
-
--*who_chrisante
-Non, non, point de Monsieur Chrisante : l'amour que j'avais pour vous se tourne en rage ; et je saurai bien vous faire payer les pleurs que votre fausse vertu m'a coûtées.
-
--*who_licas
-Eh là là, Monsieur ne vous émouvez point tant, ça vous ferait mal.
-
--*who_chrisante
-Eh que m'importe, Licas ?
-Je ne veux plus vivre après ce que j'ai vu !
-Toutes les femmes sont déformais pour moi autant de monstres que j'abhorre !
-Ce n'est que légèreté, qu'inconstance, que dissimulation, que perfidie, et tous les vices du monde ensemble !
-
--*who_licas
-Morgué, c'est pourtant queuque chose de drôle que tous ces vices du monde ensemble !
-
--*who_frosine
-Mais, mais, Monsieur, qu'avez-vous donc tant à nous reprocher ?
-Il y a trois jours que vous nous persécutez pour nous résoudre à vivre : notre constance ne tenait plus qu'à un filet ; Monsieur vient de le rompre: qu'y a-t-il là de si étonnant ?
-
--*who_licas
-Alle a morgué raison ; vous aviez sapé l'abre ; il était bien aisié de le faire choir.
-
--*who_euphemie
-Ah, Sostrate, que vous m'allez rendre malheureuse !
-
--*who_chrisante
-Oui, oui, vous la ferez, Madame : je vais crier vos faiblesses dans tout Éphèse ; et il ne tiendra pas à moi que vous ne deveniez la fable de tout l'avenir.
-
--*who_sostrate
 Au nom des Dieux, mon père, ne réduisez point au désespoir une personne adorable, et que vous trouveriez encore innocente, si vous n'aviez jamais eu pour elle que de l'estime.
 
--*who_chrisante
-Taisez-Vous, Monsieur mon fils : vous êtes un impertinent ; et je vous ferai bien acheter l'amour dont vous vous applaudissez.
-
-**** *book_ *id_I17 *act_I *date_1723
-
--*who_straton
-Ô Disgrâce !
-Ô malheur !
-Ah , mon cher Maître, nous sommes perdus !
-
--*who_sostrate
 Comment ?
 
--*who_chrisante
-Qu'est il arrivé ?
-
--*who_straton
-Ah, c'est vous, Monsieur Chrisante ?
-Qu'allez vous devenir ?
-
--*who_sostrate
 Quoi donc ?
 
--*who_straton
-Notre criminel nous a joué d'un tour !
-Je me doutais bien que ce coquin là nous porterait malheur ; je n'ai jamais vu une si mauvaise physionomie.
+Ô Ciel ! Je frémis , explique-toi ?
 
--*who_sostrate
-Ô Ciel !
-Je frémis , explique-toi ?
+Est-il possible, justes Dieux ! Et faudra-t-il donc que je subisse une mort infâme ?
 
--*who_straton
-Voila ce nue votre absence nous coûte !
-La moitié de votre troupe s'est endormie, le reste s'est dissipé ; et ce fripon de pendu a pris ce moment là pour se faire enlever par ses amis.
-
--*who_sostrate
-Est-il possible, justes Dieux !
-Et faudra-t-il donc que je subisse une mort infâme ?
-
--*who_chrisante
-Quoi, mon fils...
-
--*who_euphemie
-Quoi, Sostrate...
-
--*who_straton
-Faites vos adieux, Monsieur, et fuyons en diligence ; il n'y a plus de vie pour vous à Éphèse : ces magistrats sont des brutaux qui ne vous feraient pas grâce d'un soupir.
-
--*who_sostrate
 Non, non, je ne fuirai point, je craindrais trop d'être surpris : je sais un moyen plus sûr de me dérober à la honte qui me menace ?
 
--*who_chrisante
-Ah, mon fils !
-Arrêtez...
+Ah de grâce, mon père, sauvez-moi plutôt l'honneur ! Je ne puis songer sans horreur, à l'ignominie dont je suis menacé !
 
--*who_euphemie
-Ô Ciel !
-Qu'alliez-vous faire !
 
--*who_chrisante
-Votre danger rapelie toute ma tendresse ; et je n'ai plus d'autre passion que de vous sauver la vie.
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_straton
 
--*who_sostrate
-Ah de grâce, mon père, sauvez-moi plutôt l'honneur !
-Je ne puis songer sans horreur, à l'ignominie dont je suis menacé !
+Notre lumière est éteinte ; je meurs de peur : la nuit est terriblement noire !
 
--*who_chrisante
-Ah, mon cher fils, que vous m'attendrissez !
+J'entends quelqu'un, on en veut peut-être à notre souper ? Je tremble ! Mais n'importe, il faut intimider les autres : qu'on marche en bon ordre, et faites-moi sauter la cervelle à tout ce qui vous fera suspect.
 
--*who_euphemie
-Ah, ma chère Frosine !
+Ah, je suis blessé !
 
--*who_frosine
-Mais quoi !
-N'y a-t-il donc pas de remède à tout cela ?
+Eh bien ?
 
--*who_straton
-Hélas pour sauver la vie à mon maître, je me mettrais volontiers à la place vide ; mais on reconnaîtrait la fraude : celui qui l'occupait était de deux pieds plus grand que moi.
-Si Licas voulait ?
+Ah, je suis mort ! Comment faire ?
 
--*who_licas
-Serviteur, je sis trop gros.
+Ô Ciel ! Je ne reviens point de ma frayeur ! Est-il possible que depuis que je sers un homme de guerre, je n'aye pu encore attraper un brin de courage ? Il faut que la nature soit bien obstinée ! Il n'y a plus personne, je pense ? Si fait ! Non, je me trompe, je croyais sentir le vent d'une épée. Que vais-je devenir, malheureux ! Mon maître ce sera impatienté ; j'ai perdu du temps à goûter le vin ! S'il faut avec cela, que je retourne sans le souper, mon Maître ne jeûnera point impunément ; je serai roué du coups de bâton : le moyen aussi de rien ramasser fans lumière !
 
--*who_frosine
-Si Madame voulait plutôt, sans faire tort à personne, notre défunt...
+Ah, Monsieur ! Quartier ! Sauvez-moi la vie.
 
--*who_euphemie
-Ah, Frosine !
-Qu'osez-vous penser?
+Quoi, ce n'est que vous Monsieur ? Ah, je tremble encore ! Je vous ai crû un de ces fripons qui viennent de renverser votre souper.
 
--*who_chrisante
-Ah de grâce, Madame, ne vous effrayez point de ce qu'elle pense !
-Vous me voyez à vos genoux, pour vous demander la vie d'un fils qui vous a su plaire.
+Hélas, Monsieur, je vous en demande pardon ! Ils étaient plus d'une douzaine qui viennent de fondre sur celui qui le portait : le pauvre garçon en a été blessé ; j'ai crû l'être moi ! Et je ne sais ce qui sera réchappé du souper.
 
--*who_euphemie
-Ah Chrisante, que me demandez vous !
-Trahir mon devoir avec tant d'indignité !
+Eh Monsieur ! Le courage ne cède-t-il pas toujours à la force ?
 
--*who_chrisante
-Eh quoi, Madame, quel vain scrupule vous arrête ?
+Bon , bon, Monsieur ! Il n'y a que demi mal : voilà déjà le pain et le vin !
 
--*who_straton
+Vivat, voila encore le pâté tout entier !
+
+Ma foi, vous n'aurez pas grande peine ; voilà encore le rôt en assez bon état.
+Il n'y manque qu'un poulet, Monsieur.
+
+Quoi, Monsieur ?
+
+Hélas, Monsieur, qu'allez vous chercher ?
+
+Croyez-moi, Monsieur ; ne troublons point le repos des morts : allons nous-en.
+
+Moi, Monsieur ? Je ne suis point curieux.
+
+J'enrage !
+
+Ah, Monsieur, je suis perdu !
+
+Deux lutins, Monsieur, deux fantômes effroyables !
+
+Non, Monsieur, il n'y a rien de si vrai : cela n'étaít pas d'abord plus haut que çà ; mais dès que cela m'a vu, cela s'est haussé tout d'un coup, de douze pieds au moins, et j'ai vu l'heure que cela me tordait le cou !
+
+Je vous dis, Monsieur, qu'il n'y a rien de si affreux ! Cela est tout noir des pieds jusqu'à la tête : cela a par derrière, une queue à perte de vue ; et il me semble avoir vu par devant, des griffes longues de cela !
+
+Prenez garde, Monsieur, prenez garde !
+
+Ah, Monsieur, que dites-vous là ! Voulez-vous vous perdre ? Vous savez quel risque vous courrez à abandonner si longtemps votre poste ? Il y va de la vie ! Et si ce que les magistrats ont craint arrivait ; vous savez qu'il n'y a point de grâce à attendre ? Hélas, Monsieur, ne m'exposez point à vous perdre !
+
+Vous vous trompez, Monsieur ; ce sont deux lutins, sur ma parole,
+
+Ah, Monsieur ! Ce n'est pas cela que j'ai vu ! Vous verrez que les lutins auront pris cette forme là pour vous attirer sous leurs griffes !
+
+Cela pourrait bien être, Monsieur ; je commence à me rassurer : on dit qu'elle s'est enfermée dans le tombeau de son mari pour s'y laisser mourir de douleur ; il serait beau voir cela, Monsieur, pour la rareté du fait !
+
+Voyons un peu comme il s'en tirera !
+
+Bien débuté, ma foi !
+
+Ce n'est pas ma faute.
+
+Ah, mon pauvre souper ! Vous allez être englouti !
+
+Bientôt, Monsieur Sostrate.
+
+Il me semble, mon enfant, que ta Maîtresse commence à plier ?
+
+Eh oui, vraiment ; tu es suivante, je suis valet, nous nous connaissons de reste : ne veux-tu pas que je débute, ne me regardez point, Madame, comme un importun qui... je t'en réponds ; c'est là langue des maîtres : je te parle la mienne.
+
+Entre nous donc, le désespoir de ta maîtresse commence à se battre en retraite ? Il devrait être à moitié rendu de famine ?
+
+Tu manquais de vivres aussi, toi ? Il eût fait bon l'assiéger ? Tu n'aurais guère tenu ?
+
+Il est vrai que tu n'as point un visage à avoir jeûné trois jours.
+
+C'est donc le sommeil qui t'engraisse ?
+
+Un mari ne te vaudrait rien ? Cela troublerait ton repos ?
+
+Tu n'en as donc jamais eu de mari ?
+
+Ma foi, je ne sache point non plus avoir eu de femme ; sur ces deux prétendues causes d'ignorance là, nous pourrions bien faire affaire ensemble ?
+
+Bon, bon, tu te moques ! Il n'y a rien de si doux à pleurer qu'un mari. Tiens, regarde, le siège n'avance pas mal ? Voilà déjà mon maître au pied du rempart ! Courage, on ne tient plus ; la victoire est à nous. On capitule !
+
+On a servi, Madame.
+
+Goûtez au vin, Madame.
+
+C'est, morbleu, bien dit, Madame ! Il faut boire là dessus.
+
+Mon Maître est délicat, voyez vous ? Ce n'est pas assez que le vin soit bon ; il y a encore une manière de le verser, tenez, qu'il préfère au vin même.
+
+Tu joues à t'étrangler, Frosine ; ne va pas si vite : bois un coup.
+
+Oh parbleu, jette serai raison ; mon maître excusera mon zèle.
+
+Volontiers, Monsieur.
+
+Bon.
+
+Non.
+
+Oui.
+
+Soit.
+
+Je mange bien, Monsieur.
+
+À vos inclinations, Madame !
+
+Eh là là, Monsieur ! Il n'y a qu'à s'expliquer.
+
+Pas le mot, comme tu vois.
+
+J'y cours.
+
+Ô Disgrâce ! Ô malheur ! Ah , mon cher Maître, nous sommes perdus !
+
+Ah, c'est vous, Monsieur Chrisante ? Qu'allez vous devenir ?
+
+Notre criminel nous a joué d'un tour ! Je me doutais bien que ce coquin là nous porterait malheur ; je n'ai jamais vu une si mauvaise physionomie.
+
+Voila ce nue votre absence nous coûte ! La moitié de votre troupe s'est endormie, le reste s'est dissipé ; et ce fripon de pendu a pris ce moment là pour se faire enlever par ses amis.
+
+Faites vos adieux, Monsieur, et fuyons en diligence ; il n'y a plus de vie pour vous à Éphèse : ces magistrats sont des brutaux qui ne vous feraient pas grâce d'un soupir.
+
+Hélas pour sauver la vie à mon maître, je me mettrais volontiers à la place vide ; mais on reconnaîtrait la fraude : celui qui l'occupait était de deux pieds plus grand que moi. Si Licas voulait ?
+
 Ce n'est qu'une bagatelle, Madame, laissez-vous fléchir ?
 
--*who_frosine
-Ma chère Maîtresse !
+Vivat ! Ah mon cher Maître a que je vous embrasse ! Vous voilà, morbleu, revenu de bien loin !
 
--*who_licas
-Madame !
 
--*who_euphemie
-Hélas, Sostrate !
-À quelle extrémité suis-je réduite !
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
 
--*who_chrisante
+Ah, ma pauvre Frosine ! Ah mon pauvre Licas !
+
+Il n'y a pas moyen de la fléchir ; mes prières et mes larmes aigrissent encore son désespoir ; et pour tout le prix de mes soupirs, la cruelle me conjure de la laisser mourir en repos.
+
+Va, ma pauvre enfant, mais dis-lui bien encore que sa résolution m'assassine ; et qu'elle devrait vivre au moins par pitié pour moi.
+
+Adieu ma pauvre Frosine, que je crains bien de ne plus revoir Euphémie !
+
+J'ai toutes les peines du monde à me soutenir ; je me meurs de douleur et d'amour.
+
+Hélas, hélas !
+
+Je ne saurais m'éloigner d'Euphémie.
+
+Ne crains rien, Licas, c'est mon fils qu'on a posté là avec sa troupe ; et je craindrais bien plutôt qu'il ne découvrit ma passion pour Euphémie.
+
+Il est depuis trois jours à Éphése ; et comme la justice qu'on fit hier importe tout-à-fait à l'Etat ; j'ai appris qu'on l'avait choisi extraordinairement pour empêcher qu'on n'enlevât le criminel, et qu'on ne frustrât le peuple de cet exemple-là.
+
+Ce font ces brutaux de soldats, ils n'en veulent pas à moins qu'à la cervelle,
+
+Licas l'aura sans doute trouvée morte... Mais Ciel ! Que vois je ?
+
+Euphémie à table avec mon fils !
+
+Je ne puis revenir de ma surprise ; et je crois presqu'encore que tout ceci n'est qu'un vain fantôme !
+
+Quoi, perfide Euphémie, ne vous seriez-vous renfermée dans le tombeau de votre mari, que pour le faire servir de rendez-vous à un amant qui le déshonore ?
+
+Non, non, point de Monsieur Chrisante : l'amour que j'avais pour vous se tourne en rage ; et je saurai bien vous faire payer les pleurs que votre fausse vertu m'a coûtées.
+
+Eh que m'importe, Licas ? Je ne veux plus vivre après ce que j'ai vu ! Toutes les femmes sont déformais pour moi autant de monstres que j'abhorre ! Ce n'est que légèreté, qu'inconstance, que dissimulation, que perfidie, et tous les vices du monde ensemble !
+
+Oui, oui, vous la ferez, Madame : je vais crier vos faiblesses dans tout Éphèse ; et il ne tiendra pas à moi que vous ne deveniez la fable de tout l'avenir.
+
+Taisez-Vous, Monsieur mon fils : vous êtes un impertinent ; et je vous ferai bien acheter l'amour dont vous vous applaudissez.
+
+Qu'est il arrivé ?
+
+Quoi, mon fils...
+
+Ah, mon fils ! Arrêtez...
+
+Votre danger rapelie toute ma tendresse ; et je n'ai plus d'autre passion que de vous sauver la vie.
+
+Ah, mon cher fils, que vous m'attendrissez !
+
+Ah de grâce, Madame, ne vous effrayez point de ce qu'elle pense ! Vous me voyez à vos genoux, pour vous demander la vie d'un fils qui vous a su plaire.
+
+Eh quoi, Madame, quel vain scrupule vous arrête ?
+
 N'hésitez plus, Madame ; je consens que Sostrate s'unisse avec vous pour jamais son intérêt devient vôtre premier devoir : conservez un époux ; et rendez moi mon fils, de grâce.
 
--*who_frosine
-De grâce, de grâce !
-Eh mort de ma vie, ne sauriez-vous entendre Madame, sans qu'elle parle ?
-C'est à elle à pleurer, et à nous d'agir ; laissez moi faire, je prends la vie de Sostrate sur mon compte ; et j'en réponds corps pour corps.
 
--*who_straton
-Vivat !
-Ah mon cher Maître a que je vous embrasse !
-Vous voilà, morbleu, revenu de bien loin !
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
 
--*who_licas
+C'est bien dit, Madame Frosine : ce tombeau me chagrine l'imagination ; il me semble morgué que je suis plus en vie ici que là-dedans.
+
+Si fait, j'ons quelque biscuit, et d'assez bon vin ; voilà la bouteille, vous n'avez qu'à dire.
+
+Vous vous moquez , Madame Frosine ; il ne tient qu'à vous que je ne vous sois plus secourable ?
+
+Oui da ?
+
+Ô tatiguene ! Beuvez sans scrupule ; j'ons de la discrétion de reste, n'y a qu'à lui bailler de l'exercice ; tenez, il m'est presque aussi aisié de garder un secret, que de boire un vare de vin.
+
+Courage, Madame Frosíne ; encore un petit coup, là point de méfiance ; si j'en parle, que cela me serve de poison.
+
+Tant mieux, ce serait un meurtre da, de vous laisser mourir, vous n'êtes encore qu'un jeune abre ; et ce serait morguié bien du fruit de perdu.
+
+Alle a franchement grand tort de s'obstiner à ça ; alle ne l'aura pas plutôt perdue qu'aile en sera tachée ; aile n'est encore comme vous que dans la primeur de son âge ; et la vie est morgué bonne jusqu'à la lie.
+
+Bon, bon, grand dommage : jé jarn'guoi, Madame Frosine ! Un vieux vivant ne vaut-il pas encore mieux qu'un jeune défunt ?
+
+Elle va comme ça du blanc au noir ? Oh tatiguié ! Qu'alle est femme cette femme là ! Mais à propos du défunt, c'était un brave homme ! À sa santé, je vous la porte.
+
+Vous vous plaignez ? M'est avis, pourtant que le vin n'est pas mauvais ?
+
+Bon pour cela ! Il y a un an que je te connaissions mon maître et moi : quand ils veniont chez nous lui et Madame Euphémie, ils batifoliont sans cesse ensemble ; ils étiont morgué si affolés l'un de l'autre qu'on ne les eut jamais pris pour mari et femme.
+
+Je le crois ma foi bien Madame Frosine ; ça use terriblement un jeune honnête : encore un petit verre de consolation.
+
+Vous me refusez, Madame Frosine ? Eh bien ! C'est un affront qu'il faut boire.
+
+Alle n'a morgué garde.
+
+Et moi aussi.
+
+Allons Monsieur, venez vous reposer, il est morgué heure indue de consoler des veuves.
+
+Et de soixante et dix ans, Monsieur : c'est votre grande maladie ; eh morgué n'est-il pas honteux d'entreprendre à votre âge, de ressusciter une veuve de vingt ans ?
+
+Avec vos hélas, vous ne bougez ; détalons, vous dis-je ; il est temps de céder la place aux hiboux.
+
+Que je voudrais bien que ceux qui veillont à la garde de ce fripon de qualité qu'on brancha hier, nous prissiint pour gens qui cherchons le débrancher, j'iriins morgué coucher malgré vous ; mais en prison, et vous le mériteriez bian.
+
+Quoi, votre fils ! Je suis impatient de le connaître ; depuis trois ans qu'il est en campagne je ne savais pas tant seulement qu'il fut de retour ; mais ce n'est pas là un emploi pour ly ?
+
+N'importe, Monsieur, retirons-nous ; il ne fait point bon aux environs, de ces soldats : ce sont des brutaux qui vous cherchont querelle, et qui vous obligeont souvent à troquer votre bourse contre des gourmades.
+
+On parle autour de nous, Monsieur ; éloignons-nous de grâce : je devrions être déjà bien loin.
+
+N'ayez pas peur , je vais fermer ma lanterne ; et je tacherons d'échapper dans l'obscurité.
+
+Suivez-moi.
+
+Ah, ah, ah, ah ! Testidienne, qu'est stile est drôle !
+
+Eh morgué qui ne rirait pas ? Mon maître est comme un fou dans son lit ; il prononce à tout bout de champ le nom de Madame, avec des hélas si douloureux que ça vous ferait pitié à vous même. Ah, ah, ah, ah !
+
+Hé bian, l'impatience l'a pris de savoir de vos nouvelles ; et il se serait levé pour en venir apprendre, si je ne l'en eussions empêché : mais il a voulu à toute force que je vinsse voir si vous étiez morte... Ah, ah, ah ! Je ne m'attendais morgué pas de vous trouver si en vie que ça.
+
+Courage, Madame Frosine ! Vous faites donc vos deux repas par nuit ?
+
+J'entends, j'entends ; vela de ce que vous ne me disiez tantôt, qui mettait Madame à la raison.
+
+Il s'en faut morgué près de cinquante ans ; mais que disent à tout cela les manes du mari ?
+
+Vela, palsangué, un bon défunt !
+
+Non, morguenne ; si le mari est un bon défunt, je suis un bon vivant, moi : me vela prêt de boire à vos santés pour marquer que l'ons bonne intention.
+
+C'est mon maître ; l'impatience l'a pris.
+
+Il n'y a morgué rian de plus réel ; il n'y a qu'à tâter.
+
+Eh là là, Monsieur ne vous émouvez point tant, ça vous ferait mal.
+
+Morgué, c'est pourtant queuque chose de drôle que tous ces vices du monde ensemble !
+
+Alle a morgué raison ; vous aviez sapé l'abre ; il était bien aisié de le faire choir.
+
+Serviteur, je sis trop gros.
+
+Madame !
+
 Avec tout çà, morgué, c'est encore là exemple des veuves.
+

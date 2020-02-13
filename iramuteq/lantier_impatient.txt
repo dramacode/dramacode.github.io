@@ -1,160 +1,56 @@
 
 
-**** *book_ *id_I01 *act_I *date_1778
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
 
--*who_lafleur
-Il vient de m'échapper, je ne sais où le prendre ;
-On ne peut l'habiller. Ah ! quel homme étonnant !
-Le tonnerre est moins prompt, un volcan, moins bouillant ;
-Mais taisons-nous, je crois l'entendre.
-
-**** *book_ *id_I02 *act_I *date_1778
-
--*who_damon
 Ces marauds-là ne finissent jamais !
 
--*who_lafleur
-Votre épée.
-
--*who_damon
       Abrégeons.
 
--*who_lafleur
-      Votre mouchoir.
-
--*who_damon
       Achève.
 
--*who_lafleur
-Auprès de vous on n'a ni paix ni trêve :
-Il faudrait quatre bras...
-
--*who_damon
       Mon chocolat.
 
--*who_lafleur
-      J'y vais.
-
-**** *book_ *id_I03 *act_I *date_1778
-
--*who_damon
 Il est tard : et Julie ou doucement sommeille,
 Ou devant son miroir s'occupe gravement,
 Moi seul dans cet hôtel je veille :
 Lafleur, Lafleur.
 
-**** *book_ *id_I04 *act_I *date_1778
-
--*who_lafleur
-      Monsieur, monsieur.
-
--*who_damon
       Il dort aussi.
 Viendras-tu ?
 
--*who_lafleur
-      Dans l'instant.
-
--*who_damon
       Si tu ne viens...
 
--*who_lafleur
-      Je vole.
-
--*who_damon
 Maraud.
 
--*who_lafleur
-      Ah ! Patience !
-
--*who_damon
       Insolent.
 
--*who_lafleur
-      Grand merci.
-
--*who_damon
 Nous allons voir, sur ma parole.
 
--*who_lafleur
-Je faisais votre chocolat.
-
--*who_damon
 Je vous l'ai dit cent fois, je ne veux point attendre.
 
--*who_lafleur
-Il faut donc tout briser.
-
--*who_damon
       Eh ! vous n'êtes qu'un fat !
 Il est brûlant ; je ne saurais le prendre.
 
--*who_lafleur
-Hier il était froid : on ne peut vous comprendre.
-
--*who_damon
 Encore ; apprenez à servir.
 
--*who_lafleur
-Avec un peu de patience
-Il aurait pu se refroidir.
-
--*who_damon
 Quelle heure est-il ?
 
--*who_lafleur
-      Mais, neuf heures, je pense,
-
--*who_damon
 Vous pensez comme un sot : il doit être midi.
 
--*who_lafleur
-Le soleil aura tort. Pour en être éclairci,
-Regardez votre montre. Eh bien ! Lorsque j'avance...
-
--*who_damon
 Quelle montre, morbleu, qui retarde toujours !
 
--*who_lafleur
-Mais vous pouvez hâter son cours :
-Mettez-la sur midi.
-
--*who_damon
       Demandez chez Julie
 Si je peux y monter.
 
--*who_lafleur
-      À présent ?
-
--*who_damon
       Quel discours !
 
--*who_lafleur
-Mais elle dort, je le parie.
-
--*who_damon
 Que l'on t'annonce de ma part.
 
--*who_lafleur
-Hier, elle se coucha tard.
-
--*who_damon
 Tant pis.
 
--*who_lafleur
-      Osez-vous bien d'une veuve si belle
-Troubler le doux sommeil ?
-
--*who_damon
       Comment, logé chez elle,
 Je n'aurai pas le droit de lui parler ?
 
--*who_lafleur
-C'est bien le moins ; et je cours l'éveiller.
-
-**** *book_ *id_I05 *act_I *date_1778
-
--*who_damon
 Mon plan est arrêté. Ce soir, oui, ce soir même,
 Si vous m'aimez autant que je vous aime,
 Il faut, Madame, enchaîner votre coeur
@@ -162,48 +58,16 @@ Des noeuds d'hymen et du bonheur.
 Chaque jour semble un siècle à mon âme sensible ;
 Et trop longtemps j'ai différé.
 
-**** *book_ *id_I06 *act_I *date_1778
-
--*who_lafleur
-Elle n'est pas encore visible.
-
--*who_damon
 Visible ou non, je la verrai.
 
-**** *book_ *id_I07 *act_I *date_1778
-
--*who_lafleur
-Trop heureux qui pourra le gagner de vitesse !
-Chacun a ses défauts : tel est le coeur humain.
-Moi, n'ai-je pas les miens ? D'abord, j'aime le vin :
-C'est qu'il est bon. Le jeu m'occupe, m'intéresse ;
-Mais tout homme d'esprit doit fuir
-L'oisiveté. De plus, je ne hais pas les femmes :
-Mais c'est un beau défaut, celui des grandes âmes.
-
-**** *book_ *id_I08 *act_I *date_1778
-
--*who_damon
 On ne saurait la voir, et le jour va finir.
 Elle m'ordonne de l'attendre.
 De l'attendre ! Ah ! C'est trop souffrir.
 
--*who_lafleur
-Une autre fois, sans doute....
-
--*who_damon
       Y peut-on rien comprendre ?
 
--*who_lafleur
-Une Belle, vraiment, n'est pas toujours d'humeur....
-
--*who_damon
 Si vous dites un mot....
 
--*who_lafleur
-      Je me tairai, Monsieur.
-
--*who_damon
 Elle est à sa toilette, et là, dans son ivresse,
 Oubliant l'univers et le temps qui nous presse,
 Elle sourit à sa beauté.
@@ -215,99 +79,36 @@ Mais enfin, dès ce jour, j'assure mon bonheur.
 As-tu vu mon futur beau-père ?
 Parle donc.
 
--*who_lafleur
-      Oui, Monsieur.
-
--*who_damon
       De belle humeur, j'espère ?
 
--*who_lafleur
-Non, Monsieur.
-
--*who_damon
       Son procès le tourmente déjà.
 
--*who_lafleur
-Oui, Monsieur.
-
--*who_damon
       Mais, pour moi crois-tu qu'il s'humanise ?
 
--*who_lafleur
-Eh !...
-
--*who_damon
       Quoi ?
 
--*who_lafleur
-      Mais...
-
--*who_damon
       Parle donc. Le traître se taira.
 
--*who_lafleur
-Monsieur, excusez ma franchise,
-On ne peut, à la fois, et se taire et parler.
-
--*who_damon
 Moi, je le veux, réponds.
 
--*who_lafleur
-      Pour ne vous rien celer,
-Monsieur Borchamp.... Mais, puis-je être sincère ?
-
--*who_damon
 Oui, oui.
 
--*who_lafleur
-      Monsieur Borchamp... je crains....
-
--*who_damon
       Parle, ou je vais....
 
--*who_lafleur
-Vous n'avez pas le talent de lui plaire.
-Le ciel vous refusa, parmi tant de bienfaits,
-Cet air tranquille et doux qui flatte, nous attire....
-
--*who_damon
 Il ne sait ce qu'il dit.
 
--*who_lafleur
-      Ma foi, je m'en doutais.
-Mais j'aperçois Julie.
-
--*who_damon
       À la fin, je respire.
 
-**** *book_ *id_I09 *act_I *date_1778
-
--*who_damon
 Je brûlais de vous voir, et loin de vos attraits
 Je m'abandonne à la tristesse.
 Pour vous que nul souci ne presse,
 Vous coulez vos beaux jours dans le sein de la paix.
 
--*who_julie
-Mais, d'où vient cette humeur ? Qu'avez-vous qui vous blesse ?
-Voulez-vous exiger ?...
-
--*who_damon
       Un amour plus ardent.
 
--*who_julie
-Vous connaissez mon coeur ; vous avez lu souvent...
-
--*who_damon
 Ah ! Votre coeur, calme dans sa tendresse,
 Avec art chaque jour prolonge mon tourment.
 
--*who_julie
-Oui, j'aurais dû, sans consulter personne,
-Vous épouser dès le premier instant.
-Que je vous ai connu.
-
--*who_damon
       Cela serait charmant.
 Vous seriez toute à moi : ce ciel qui m'environne
 Me semblerait plus pur ; je vous verrais toujours :
@@ -315,10 +116,6 @@ Vous m'aimeriez alors, me le diriez peut-être ;
 Et chaque jour que je verrais renaître ;
 Me paraîtrait le plus beau de mes jours.
 
--*who_julie
-Si vous m'aimez, si vos discours....
-
--*who_damon
 Si je vous aime, hélas ! Mon âme trop sensible
 Reconnut son vainqueur en voyant vos attraits.
 Séduit d'abord par un charme invincible,
@@ -335,212 +132,78 @@ Vainement le sommeil ferme mes yeux encore,
 Je ne rêve qu'à vos attraits.
 Voilà mon coeur, et voilà comme on aime.
 
--*who_julie
-Mais en tout vous êtes extrême.
-Je ne puis vous dissimuler....
-
--*who_damon
 Ah ! Permettez-moi de parler
 
--*who_julie
-Très volontiers.
-
--*who_damon
       Pourquoi briser mon âme ?
 Pourquoi, si vous m'aimez, reculer sans pitié
 Le terme de mes voeux, le bonheur de ma flamme ?
 
--*who_julie
-Je vous l'ai dit.
-
--*who_damon
       Eh ! Quoi ?
 
--*who_julie
-      Cultivez l'amitié,
-Les bontés de mon père ; obtenez son suffrage :
-Alors peut-être je m'engage...
-
--*who_damon
 Et dans un siècle je verrai
 L'hymen couronner ma constance.
 
--*who_julie
-Le temps dépend de vous ; soyez plus modéré :
-Réprimez cette impatience...
-
--*who_damon
 Je veux me corriger, m'attacher votre coeur,
 Et mériter de vous un regard d'indulgence.
 Mais un terme si court borne notre existence,
 Et je suis dévoré d'une si vive ardeur.
 
--*who_julie
-Eh ! De grâce, que puis-je faire ?
-
--*who_damon
 Fixer l'instant de mon bonheur.
 Terminer.
 
--*who_julie
-      Quand ?
-
--*who_damon
       Ce soir.
 
--*who_julie
-      Sans l'aveu de mon père ?
-
--*who_damon
 Son père !... Avoir toujours un père à m'opposer !...
 
--*who_julie
-Et vous vous modérez ?
-
--*who_damon
       Oui, oui, je me modère.
 Mais cependant on ne peut m'abuser.
 N'êtes-vous pas veuve ?
 
--*who_julie
-      Oui.
-
--*who_damon
       Depuis plus d'une année ?
 
--*who_julie
-
--*who_damon
 Par conséquent libre de m'épouser ?
 
--*who_julie
-Non. Car je jure ici, telle est ma destinée,
-De renoncer aux plus tendres amours,
-D'abjurer à jamais les noeuds de l'hyménée,
-Si je n'obtiens l'aveu de l'auteur de mes jours.
-
--*who_damon
 Eh bien ! Adieu, Madame.
 
--*who_julie
-      Où courez-vous ?
-
--*who_damon
       Je cours..
 Chercher une âme plus sensible.
 
--*who_julie
-Allez, Monsieur : non, il n'est pas possible
-Que jamais la raison....
-
--*who_damon
       Rien ne peut l'excuser.
 
--*who_julie
-Quoi sitôt ?
-
--*who_damon
       Oui, je reste ; et pour vous épouser.
 
--*who_julie
-Malgré moi ?
-
--*who_damon
       Nous verrons. Je veux....
 
--*who_julie
-      Votre folie
-Me fait pitié.
-
--*who_damon
 Pardon : je suis si malheureux :
 je demande à vos pieds le bonheur de ma vie.
 
--*who_julie
-Soyez plus raisonnable.
-
--*who_damon
       Oui, ma chère Julie.
 
--*who_julie
-Et mon père bientôt pourra combler vos voeux.
-
--*who_damon
 Aujourd'hui ?
 
--*who_julie
-      Non. Son procès le tourmente ;
-Et lui parler d'hymen dans ces moments,
-c'est le contrarier, c'est mal prendre son temps :
-Mais vous pouvez, dit-il, et cet espoir m'enchante,
-Lui rendre un bon office, et hâter son succès.
-
--*who_damon
 Moi ? Quel bonheur ! Quoi je pourrais...
 
--*who_julie
-J'ai répondu de vous...
-
--*who_damon
       Oui, oui, soyez tranquille.
 
--*who_julie
-Et du zèle...
-
--*who_damon
       N'en doutez pas ;
 Et je vais remuer et la Cour et la Ville ;
 Visiter juges, avocats.
 Adieu, Madame.
 
--*who_julie
-      Où portez-vous vos pas ?
-
--*who_damon
 Je vais chez mes amis, chez le Comte d'Ermonde,
 Chez le Marquis d'Alban ; je verrai tout le monde.
 
--*who_julie
-Et que leur direz-vous ?
-
--*who_damon
       De presser, de hâter....
 
--*who_julie
-Connaissez-vous le fond de cette affaire ?
-
--*who_damon
 Mais à-peu-près.
 
--*who_julie
-      Voyez, interrogez mon père ;
-Il vous en instruira ; mais daignez l'écouter.
-Songez, songez surtout à plaire.
-
--*who_damon
 Oh ! je plairai, Madame, et comptez là-dessus.
 
--*who_julie
-Dans ses discours il est parfois diffus ;
-Mais il faut respecter son âge et sa manie.
-
--*who_damon
 Je sais ce que je dois au père de Julie.
 
--*who_julie
-Il vient, je crois. Je vous laisse avec lui.
-Rappelez-vous.....
-
--*who_damon
       Écartez tout souci.
 Reposez-vous sur ma prudence.
 
--*who_julie
-J'y compte.
-
-**** *book_ *id_I10 *act_I *date_1778
-
--*who_damon
       Enfin je sens renaître l'espérance :
 Son père va venir ; il me tarde déjà
 Qu'il m'ait en quatre mots expliqué tout cela.
@@ -551,275 +214,89 @@ J'assure son succès ; et ce soir, ce soir même,
 Mon beau père enchanté m'accorde ce que j'aime.
 Bon le voici.
 
-**** *book_ *id_I11 *act_I *date_1778
-
--*who_damon
       Monsieur, serai-je assez heureux,
 Pour vous rendre un léger service
 Dans ce procès fastidieux
 Qu'osent vous intenter la fraude et l'avarice ?
 
--*who_borchamp
-Oui, le sort qui m'opprime....
-
--*who_damon
       Ah ! J'en suis enchanté.
 
--*who_borchamp
-On m'assure, et j'en suis flatté....
-
--*who_damon
 Et je n'épargnerai ni mes pas ni ma peine.
 
--*who_borchamp
-On m'a dit aujourd'hui comme chose certaine,
-Que votre oncle, le Président,
-Est lié très intimement
-Avec mon Rapporteur, Monsieur de Lauvamaine.
-
--*who_damon
 Ils sont amis d'enfance, il pourra vous servir,
 Et d'avance je goûte un sensible plaisir.
 
--*who_borchamp
-Je vais donc m'étayer de votre complaisance,
-Et vous conter de point en point exactement,
-L'histoire du procès, du jour de sa naissance.
-
--*who_damon
 On peut sur les détails passer rapidement.
 
--*who_borchamp
-Auriez-vous quelque affaire ?
-
--*who_damon
       Un long récit, je pense,
 Peut vous fatiguer.
 
--*who_borchamp
-      Non, ma poitrine est de fer.
-
--*who_damon
 Tant pis, morbleu !
 
--*who_borchamp
-      Mais le temps nous est cher :
-Asseyons-nous.
-
--*who_damon
       Souffrez...
 
--*who_borchamp
-      Ah ! Point de résistance.
-Je ne parle qu'assis.
-
--*who_damon
       Soit, asseyons-nous
 
--*who_borchamp
-      Bon.
-Vous connaissez la Comtesse d'Érolle ?
-
--*who_damon
 Depuis cent ans.
 
--*who_borchamp
-      Cette femme frivole,
-Qui veut parler, c'est-là sa passion ;
-Cite tous les Auteurs dont elle sait le nom,
-Et jamais n'écoutant personne,
-Bavarde le matin, et le soir déraisonne.
-
--*who_damon
 Laissons les portraits.
 
--*who_borchamp
-      Soit. Au décès du Baron,
-La Comtesse hérita de la terre d'Alienne ;
-Elle est, pour mon malheur, contiguë à la mienne.
-Dès ce moment fatal survinrent les procès,
-Et tout ce que l'enfer put inventer jamais
-Pour agiter le repos de la terre.
-Mais avec ce Baron, objet de mes regrets,
-Uni par les doux noeuds d'une amitié sincère....
-
--*who_damon
 Fort bien.
 
--*who_borchamp
-      Vous souvient-il encore de lui ?
-
--*who_damon
       Ma foi..
 
--*who_borchamp
-C'était....
-
--*who_damon
       Un petit homme.
 
--*who_borchamp
-      Il était, au contraire,
-Plus grand que vous, au moins....
-
--*who_damon
       De trois pieds, je le crois.
 
--*who_borchamp
-Je le trouvais diffus ; certes, c'était dommage :
-Mais quand sa tête s'échauffait,
-Il commençait cent contes, s'égarait,
-Et se perdait dans un long verbiage.
-De ses récits il m'excédait souvent ;
-Mais je le supportais en ami complaisant.
-
--*who_damon
 Quoi, vous le supportiez ? Ah ! Monsieur quel courage !
 
--*who_borchamp
-Peut-être vous auriez été moins indulgent ?
-
--*who_damon
 Mais revenons, je vous conjure,
 A ce procès qui vous amène ici.
 
--*who_borchamp
-Il m'a causé, je vous l'assure,
-Jusqu'à présent bien du souci.
-
--*who_damon
 Et moi, Monsieur, j'en ai ma part aussi.
 
--*who_borchamp
-Vous êtes trop honnête. Or écoutez.
-
--*who_damon
       J'écoute.
 
--*who_borchamp
-Certain papier que l'esprit infernal,
-Pour mes péchés, a déterré sans doute,
-De la discorde a donné le signal.
-J'ai voulu transiger : en homme raisonnable,
-Je lui fis proposer, encore l'autre jour,
-Par son cousin, le Marquis de Frémour,
-Homme d'esprit, d'un caractère affable,
-Mais entre nous trop pétulant,
-Trop vif, et vous donnant au diable,
-Lorsqu'il est obligé d'écouter un moment.
-
--*who_damon
 Il veut qu'on aille au fait ; j'aime assez sa méthode.
 
--*who_borchamp
-Sans doute. Cependant, de peur d'être incommode,
-Il faut savoir....
-
--*who_damon
       Mais brisons là-dessus.
 
--*who_borchamp
-Je lui fis proposer....
-
--*who_damon
       En homme raisonnable ?
 
--*who_borchamp
-De terminer à l'amiable.
-Le croiriez-vous à mes soins furent perdus.
-Elle me refusa.
-
--*who_damon
       Cette femme est damnable !
 Tout serait arrangé ; quelle félicité !
 Nous n'en parlerions plus.
 
--*who_borchamp
-      Vous connaissez les femmes ?
-
--*who_damon
 Oui, vraiment.
 
--*who_borchamp
-      Leur humeur et leur mobilité ?
-
--*who_damon
 Il est trop vrai, ce sont des âmes...
 Mais discutons avec tranquillité
 Sans perdre notre temps à médire des femmes.
 
--*who_borchamp
-J'en étais donc à ce papier fatal...
-
--*who_damon
 Oui, déterré par l'esprit infernal.
 
--*who_borchamp
-Or donc, son Procureur, homme plein d'artifice...
-Qu'avez-vous ?
-
--*who_damon
       Rien. Continuez toujours.
 Personne, hélas ne vient à mon secours !
 
--*who_borchamp
-Loup dévorant, dont l'avarice
-S'engraisse de procès, et qui sous un air doux
-Cache un franc scélérat qu'il faudra que j'assomme.
-
--*who_damon
 Fort bien. Mais pourquoi voulez-vous
 Qu'un Procureur soit honnête homme ?
 
--*who_borchamp
-Pourquoi ?
-
--*who_damon
       Quant au procès ?
 
--*who_borchamp
-      Mon procès et mes droits....
-
--*who_damon
 Sont embrouillés ?
 
--*who_borchamp
-      Non, non, ma cause est claire :
-Il s'agit entre nous du partage d'un bois.
-
--*who_damon
 Eh ! Faites-le couper pour terminer l'affaire.
 
--*who_borchamp
-Parbleu ! Je m'en garderais bien.
-Me croyez-vous donc en démence ?
-
--*who_damon
 Pour vous servir j'imagine un moyen.
 
--*who_borchamp
-Est-ce quelqu'autre extravagance ?
-
--*who_damon
 Je vous présenterai chez mon oncle aujourd'hui ?
 Vous le verrez, lui parlerez vous-même ;
 Et j'aurai le bonheur d'obliger un ami,
 Un véritable ami que j'honore, que j'aime.
 
--*who_borchamp
-Fort bien, Monsieur ; j'adopte ce plan-là.
-Je vais chercher là-haut des papiers d'importance :
-Vous voulez bien m'attendre ?
-
--*who_damon
       Oh, tant qu'il vous plaira.
 
--*who_borchamp
-Je viens dans le moment.
-
-**** *book_ *id_I12 *act_I *date_1778
-
--*who_damon
       Qu'il faut de patience !
 Au diable et plaideurs et procès !
 J'avais mille et mille projets.
@@ -830,62 +307,28 @@ J'arrangeais un procès fâcheux pour sa vieillesse.
 Que le temps aujourd'hui se traîne lentement !
 Lafleur.
 
-**** *book_ *id_I13 *act_I *date_1778
-
--*who_lafleur
-      J'accours.
-
--*who_damon
       Demandez ? Borchamp....
 Non, rien. Dites-lui que j'espère....
 Vous lui direz que je l'attend :
 Et revenez soudain.
 
-**** *book_ *id_I14 *act_I *date_1778
-
--*who_damon
       Cet avis nécessaire
 Hâtera de ses pas la lenteur ordinaire.
 Il faut se résigner : personne ne paraît.
 Lafleur lui-même y passe la journée !
 Flamand.
 
-**** *book_ *id_I15 *act_I *date_1778
-
--*who_flamand
-      Monsieur ?
-
--*who_damon
       Sachez donc ce qu'il fait.
 
--*who_flamand
-Et qui ?
-
--*who_damon
       Lafleur.
 
--*who_flamand
-      Je vous assure
-Qu'il était là tantôt.
-
--*who_damon
       L'original !
 Allez savoir quelle aventure
 Le retient si long-temps.
 
--*who_flamand
-      Où, Monsieur ?
-
--*who_damon
       L'animal !
 Là, là, là, là.
 
--*who_flamand
-      J'y vais, j'y vais.
-
-**** *book_ *id_I16 *act_I *date_1778
-
--*who_damon
       Je pense
 Que, pour me tourmenter, valets, maîtresse, ami,
 Tout est ici d'intelligence.
@@ -897,133 +340,386 @@ Je sers d'exemple à la postérité.
 Lisons. Ciel ! Et Borchamp ! Où s'est-il arrêté ?
 Oh, pour finir, enfin, je vais chez mon Notaire.
 
-**** *book_ *id_I17 *act_I *date_1778
+      Eh bien, qu'a dit Julie ?
 
--*who_lafleur
-Monsieur Borchamp. Quoi donc, il est parti !
-Ma foi, que dira le beau-père ?
-Mais je le vois qui court, courons vite après lui.
+      Bientôt ?
 
-**** *book_ *id_I18 *act_I *date_1778
+Mais quand ? Ce soir, demain, dans la semaine ?
 
--*who_borchamp
-Tu viendras avec nous, et c'est moi qui t'en prie.
+Ce qu'il faut pour écrire. Oui, pour plaire à Borchamp,
+Lui rendre le repos qu'il regrette sans cesse,
+Je vais au Président écrire en sa faveur,
+Et j'y mettrai de la chaleur.
+Mon oncle comprendra combien il m'intéresse.
 
--*who_julie
+Quelle maudite plume !
+
+Pour tracer chaque mot, il faut près d'un quart-d'heure,
+
+Cette encre est détestable !
+
+Une bougie.
+
+Eh bien ?
+
+Ah, quels valets !
+
+Pour être bien servi, c'est-là le vrai système.
+
+Je me flatte, Monsieur Borchamp,
+Qu'un pareil procédé pourra vous satisfaire.
+
+Ah, vous voilà ! Je viens de chez vous.
+
+On ne vous rencontre jamais.
+
+Vous avez tort. Lafleur...
+      Vous daignez le permettre,
+À mon oncle soudain qu'on porte cette lettre.
+
+Ma voila délivré d'un pénible fardeau !
+Ce procès finira ; cet espoir me console.
+Je voulais vous parler de Madame d'Érole :
+On vous dit très-liés.
+
+Vous savez son procès ?
+
+Eh bien, qu'en pensez-vous ?
+
+Peut-on le voir ?
+
+Voyons-le donc.
+
+Mais tout le monde doit : c'est l'usage à présent.
+
+      Lisez donc promptement.
+Que cherchez-vous encor ?
+
+Lisez toujours, vous chercherez après.
+
+      De grâce, daignez lire
+Sans épeler.
+
+J'en suis bien aise. Après ?
+
+      Oui, singulièrement.
+Apprenez donc qu'elle projette
+De vendre cette terre.
+
+      Eh bien, moi, je l'achète.
+
+      Oui, moi. Par cet expédient,
+J'abandonne les bois, et Borchamp est tranquille.
+
+Non, rien. Allez, volez, courez toute la ville,
+Et terminez sans nuls délais.
+
+Eh ! je renonce de bon coeur
+À l'argent, au procès, à tous les biens du monde :
+M'entendez-vous ?
+
+Gardez-vous bien de trop courir.
+Encore un mot. Cachez à mon futur beau-père
+Le nom de l'acquéreur. J'exige le secret ;
+J'ai mes raisons.
+
+Oui, qui veut obliger doit taire le bienfait.
+Il s'imaginerait que je suis en démence,
+Ou que mon zèle prétendu
+N'est qu'un moyen adroit, un piège convenu,
+Pour m'assurer son alliance.
+
+Ah, c'est vous ! Quel bonheur ! Je volais sur vos pas.
+
+Mille pardons, j'ai tort ; mais ne me grondez pas.
+
+Oui, je suis un peu vif.
+
+      Beaucoup, d'accord.
+Puisque j'ai le malheur d'offenser ce que j'aime.
+
+J'ai longtemps attendu : perdant toute espérance....
+
+      Pas mal.
+
+      Mes voeux, mon existence...
+
+Par un culte....
+
+      Non, non.
+
+      Ah ! croyez....
+
+      Je me tais.
+
+L'amour adoucit tout, le bonheur rend aimable.
+
+Ne craignez rien. Ah ! si je suis aimé,
+Si jamais j'entrevois l'aurore
+Du jour qui doit éclairer mon bonheur,
+Vous me verrez soumis, plus amoureux encore,
+Obéir à vos lois, réprimer mon humeur,
+Et chercher tous vos goûts au fond de votre coeur.
+
+Vous verrez si, quand je promets....
+
+Fais-toi peindre toi-même, et laissez-moi tranquille.
+
+Ordonnez : trop heureux !....
+
+      Bonjour, Monsieur Dorlis,
+Allons, asseyons-nous, et peignez à votre aise.
+
+      Apportez une chaise ;
+Je suis très mal assis.
+
+Il me tourne à son gré.
+
+      Il est déjà bien tard.
+
+      C'est que.... Souffrez, Madame....
+Lorsque vous serez là, je verrai mieux Monsieur.
+
+      S'il lisait dans mon coeur,
+Il me peindrait avec des traits de flamme.
+Et le front ?
+
+Ah ! Vous avez fini. Bon ! Vous êtes charmant.
+
+      Où donc en êtes-vous ?
+
+Si je lisais mon bonheur dans les vôtres,
+Les miens respireraient le feu du sentiment.
+
+      Quoi ! Constamment ?
+
+      Quand comptez-vous finir ?
+
+      Près d'un objet aimable,
+Tout s'embellit des couleurs du plaisir.
+
+Que peignez-vous ?
+
+Hâtez-vous seulement : il n'est pas nécessaire
+De me faire si beau.
+
+      On me fait trop d'honneur.
+J'aimerais mieux, pour mon bonheur,
+Que la main de l'Amour m'eût gravé dans votre âme.
+
+      Permettez-moi, Madame....
+Je veux voir ce qu'il fait.
+
+M'y voilà ; calmez-vous.
+
+Que peignez-vous ?
+
+      Encor les yeux ! Eh mais,
+Combien m'en faites-vous ?
+
+Vous les ferez sans moi.
+
+      De grâce.
+
+Mais, Madame, un moment, mettez-vous à ma place.
+
+      Ah ! Voyons promptement.
+
+Ah ! Je suis trop heureux : mon cher oncle est charmant.
+Allez prier Monsieur Borchamp
+De paraître un moment de la part de Julie.
+
+      Vous allez le savoir.
+Ah ! Quel bonheur ! Mon oncle a rempli mon espoir.
+Il peut compter sur ma reconnaissance.
+
+      C'est moi, Monsieur.
+Rassuré par votre indulgence....
+
+Ah ! Daignez m'écouter ! Mes torts involontaires....
+
+Vous êtes irrité : j'entrevois mon malheur.
+
+      Votre bonté se lasse.
+Mais n'imputez rien à mon coeur.
+Votre intérêt m'anime : écoutez-moi de grâce.
+Le Président, mon oncle, à qui j'avais écrit,
+Me répond qu'il a vu Monsieur de Lauvamaine ;
+Qu'on peut tout espérer, qu'il n'est rien qu'il n'obtienne
+D'un vieux ami qui le chérit.
+Mais jusqu'au bout je n'ai pas lu la lettre ;
+Daignez vous-même la finir.
+
+Vous concevez, par-là, ce qu'on peut se promettre
+Du zèle de mon oncle.
+
+Oui, lisez ; vous verrez si je sais être utile.
+
+Des procès.
+
+Mais, Monsieur, père de Julie,
+Qui réunit l'esprit aux attraits les plus doux.
+
+Quelque démon, sans doute, a supprimé les mots.
+
+Vous voyez ma surprise : échauffé par mon zèle,
+Avec vivacité j'ai tracé ce billet.
+
+Je cours tout réparer.
+
+Il ne se fera point ?
+
+      Quelle cruauté !
+
+Vous que j'aimais....
+      Monsieur... Julie !... Ah, quel malheur !
+Monsieur, j'ai tort si j'ai pu vous déplaire.
+
+      Mais enfin, ouvrez-moi votre coeur ;
+Je vous chéris, je vous révère,
+Et vous êtes si bon.
+
+      Toujours. Ah, vous voilà ?
+
+Ne me trahissez pas.
+
+      Eh ! qu'importe pourquoi
+Daignez vous occuper du bonheur de ma vie.
+
+      Eh bien, Monsieur,... c'est moi.
+La terre me convient, et j'ai conclu l'affaire.
+
+Non, Monsieur, appuyé d'un si faible service,
+Je ne réclame point un prix aussi flatteur :
+Non, consultez avec plus de justice
+Et vos bontés et son bonheur.
+
+Oui, Monsieur, animé du désir de lui plaire,
+J'irai, je volerai au devant de ses voeux.
+
+      Oui, Monsieur.
+
+Ah, Julie ! ah, Monsieur, les plus vifs sentiments....
+Signons-nous le contrat ? On souffre dans l'attente.
+
+      Qu'attendez-vous ?
+
+Quand pourra-t-on, morbleu ! S'épouser sans notaire ?
+
+
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
+Mais, d'où vient cette humeur ? Qu'avez-vous qui vous blesse ?
+Voulez-vous exiger ?...
+
+Vous connaissez mon coeur ; vous avez lu souvent...
+
+Oui, j'aurais dû, sans consulter personne,
+Vous épouser dès le premier instant.
+Que je vous ai connu.
+
+Si vous m'aimez, si vos discours....
+
+Mais en tout vous êtes extrême.
+Je ne puis vous dissimuler....
+
+Très volontiers.
+
+Je vous l'ai dit.
+
+      Cultivez l'amitié,
+Les bontés de mon père ; obtenez son suffrage :
+Alors peut-être je m'engage...
+
+Le temps dépend de vous ; soyez plus modéré :
+Réprimez cette impatience...
+
+Eh ! De grâce, que puis-je faire ?
+
+      Quand ?
+
+      Sans l'aveu de mon père ?
+
+Et vous vous modérez ?
+
+      Oui.
+
+
+Non. Car je jure ici, telle est ma destinée,
+De renoncer aux plus tendres amours,
+D'abjurer à jamais les noeuds de l'hyménée,
+Si je n'obtiens l'aveu de l'auteur de mes jours.
+
+      Où courez-vous ?
+
+Allez, Monsieur : non, il n'est pas possible
+Que jamais la raison....
+
+Quoi sitôt ?
+
+Malgré moi ?
+
+      Votre folie
+Me fait pitié.
+
+Soyez plus raisonnable.
+
+Et mon père bientôt pourra combler vos voeux.
+
+      Non. Son procès le tourmente ;
+Et lui parler d'hymen dans ces moments,
+c'est le contrarier, c'est mal prendre son temps :
+Mais vous pouvez, dit-il, et cet espoir m'enchante,
+Lui rendre un bon office, et hâter son succès.
+
+J'ai répondu de vous...
+
+Et du zèle...
+
+      Où portez-vous vos pas ?
+
+Et que leur direz-vous ?
+
+Connaissez-vous le fond de cette affaire ?
+
+      Voyez, interrogez mon père ;
+Il vous en instruira ; mais daignez l'écouter.
+Songez, songez surtout à plaire.
+
+Dans ses discours il est parfois diffus ;
+Mais il faut respecter son âge et sa manie.
+
+Il vient, je crois. Je vous laisse avec lui.
+Rappelez-vous.....
+
+J'y compte.
+
 Mais....
 
--*who_borchamp
-      Tu seras présente à l'entretien :
-Les Juges te verront, cela ne gâte rien.
-Une femme jeune et jolie
-Imprime un charme à la raison.
-Mais qu'est-il devenu ? Damon.
-Damon. Vainement je l'appelle.
-Monsieur s'est évadé : l'aventure est nouvelle.
-
--*who_julie
 Vous l'offensez par ce soupçon.
 
--*who_borchamp
-Cherche le donc.
-
--*who_julie
       Lafleur.
 
--*who_borchamp
-      Le tour est très honnête.
-
--*who_julie
 Lafleur.
       Je crois encore me tromper.
 
-**** *book_ *id_I19 *act_I *date_1778
-
--*who_julie
 Que fait ton maître ?
 
--*who_lafleur
-      Il vient de s'échapper.
-
--*who_julie
 Par quel motif ?
 
--*who_lafleur
-      Il des brouillards dans la tête :
-Ennemi juré du repos,
-Il va, dit-il chez son notaire.
-Comme rien n'était prêt, maudissant les marauds,
-C'était moi, le cocher, d'assez brusque manière
-Il s'est sauvé.
-
--*who_julie
       Qu'entends-je ! À quel propos !
 Il n'a pas son carrosse ?
 
--*who_lafleur
-      Ah ! vraiment ; au contraire,
-Il chasse et cocher et chevaux,
-Et dit qu'à pied, tout seul, il ira bien plus vite.
-
--*who_borchamp
-Ô la pauvre cervelle !
-
--*who_julie
       Il suffit : sors.
 
-**** *book_ *id_I20 *act_I *date_1778
-
--*who_borchamp
-      Voilà,
-Je te l'avoue, une étrange conduite !
-Je me hâte, j'arrive, et l'on me laisse là !
-Et tu m'en répondais ?
-
--*who_julie
       Ce grand feu qui l'agite....
 
--*who_borchamp
-Et l'autre jour encore, il m'en ressouviendra,
-Nous étions à la promenade ;
-Je marchais doucement, je respirais le frais :
-" Monsieur, dit-il, seriez-vous point malade ?
-Moi, non ; pourquoi cela ? Rien, rien : je le craignais.
-Nous poursuivons : l'instant d'après Monsieur me quitte,
-Prétextant, en plein jour, qu'il craignait le serein.
-Que penses-tu de cette fuite ?
-
--*who_julie
 Qu'on ne peut l'excuser, et tel est son destin....
 
--*who_borchamp
-Allons, n'en parlons plus ; c'est un fou qui me lasse.
-
--*who_julie
 Peut-être, avec le temps, plus calme et réfléchi....
 
--*who_borchamp
-Un cerveau détraqué, qui m'ose dire, en face,
-De couper tous mes bois !
-
--*who_julie
       Mais il est votre ami ?
 
--*who_borchamp
-Le tien. J'en conviendrai sans peine,
-Je l'aimais, l'estimais, j'approuvais votre chaîne.
-Mais le voile est tombé : j'en appelle aujourd'hui.
-Crois-moi, ma chère, enfant, étouffe dans ton âme,
-Il en est temps encore, une funeste flamme
-Qui troublerait tes jours. Oui, l'amour trop souvent
-A payé de ses pleurs l'erreur d'un seul moment.
-Mais je songe à l'affaire ? Mon repos fatal ;
-Et pour sortir de ce dédale,
-Je visiterai, seul, Conseillers, Présidents :
-Cependant réfléchis, et pèse ma morale.
-
-**** *book_ *id_I21 *act_I *date_1778
-
--*who_julie
 Il paraît irrité de ses écarts fréquents.
 Hélas, quel fâcheux caractère !
 De défauts, de vertus, quel contraste étonnant !
@@ -1037,255 +733,378 @@ Mais comme il sait aimer ! Quelle fidélité !
 Jamais son coeur, simple dans sa tendresse,
 N'a d'un mot captieux voilé la vérité.
 
-**** *book_ *id_I22 *act_I *date_1778
-
--*who_lafleur
-MON Maître, accablé de tristesse,
-Demande un entretien du ton le plus touchant.
-Il est vif, mais son coeur est si bon !
-
--*who_julie
       Quel amant !
 Hélas ! que dois-je faire ? Oui, je sens ma faiblesse :
 La raison lutte en vain contre le sentiment.
 Qu'il m'attende.
 
--*who_lafleur
-      Mon Maître ?
-
--*who_julie
       Allons trouver mon père,
 Et tâchons, si je puis d'appaiser sa colere.
 
-**** *book_ *id_I23 *act_I *date_1778
+Vous devenez tous les jours plus aimable.
 
--*who_lafleur
+Oui, l'on doit supporter votre humeur agréable.
+
+      Un peu !
+
+Quelle preuve d'amour, lorsque mon père même
+Vient, Monsieur, d'essuyer encor !...
+
+Longtemps !
+
+      Mais, daignez m'écouter :
+Vous m'aimez, dites-vous !
+
+Je le crois. Mais comment osez-vous vous flatter
+De mériter qu'un jour les noeuds de l'hyménée....
+
+      Allez-vous m'interrompre ?
+
+Oserai-je moi-même, abjurant la raison,
+Et de l'amour victime infortunée,
+M'exposer....
+
+      Encore !
+
+Vous dont l'humeur, dont les voeux inquiets...
+
+Oui, je le sais. L'amour d'un voile favorable
+Sait couvrir ses défauts : souple avant le succès,
+Il ne semble agité que du désir de plaire ;
+Mais, tôt ou tard, il cesse. Alors le caractère,
+S'irritât d'autant plus qu'il fut plus comprimé....
+
+Un tel effort me paraît difficile.
+
+      Un moment. Ce n'est pas mon avis,
+Voyons si j'ai sur vous cet empire suprême :
+Faites entrer. Ce portrait est promis
+Depuis longtemps : enfin, plus maître de vous-même,
+Aujourd'hui, prouvez-moi que vous m'êtes soumis.
+
+      L'épreuve est un peu rude.
+
+La bouche sera bien.
+
+      Il s'avance.
+
+Y songez-vous ?
+
+Malgré votre contrainte ?
+
+Ce moment est fâcheux.
+
+      Mais vous voulez, j'espère,
+Un portrait qui ressemble ?
+
+Cela serait plus court.
+
+      Un moment.
+
+      Vous êtes, en effet,
+Si calme !
+
+      Sachez donc vous contraindre.
+
+      Y songez-vous ?
+
+Monsieur jamais ne finira.
+
+Quoi ! Pour avoir votre portrait ? Voilà
+Qui me paraît nouveau. Quelle bizarrerie !
+
+Mais de quoi s'agit-il ?
+
+Mais sachez ce qu'il veut.
+
+Vous voyez que du moins il sait rendre service.
+
+De ses écarts son coeur n'est point complice ;
+Il voulait obliger.
+
+Vous l'entendez ; c'est lui, mon père.
+
+Je réponds de son coeur, du zèle qui le presse :
+Sensible à l'amitié, plein de respect pour vous,
+Il fera, croyez-moi, son bonheur le plus doux
+De mériter votre tendresse,
+De consoler vos jours, d'aider votre vieillesse.
+
+
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorlis
+
+Je suis à vous. Approchez ; plus avant...
+Eh ! Non ; vous reculez.
+
+      Inclinez... doucement,
+Fort bien ; gardez cette attitude.
+
+Il faut que je m'attache, et c'est-là le grand art,
+A bien saisir chaque nuance,
+L'expression, la ressemblance,
+Et le jeu de vos traits.
+
+Quoi ! vous vous déplacez !
+
+      Oui, j'achève à présent.
+
+      Cet homme est différent des autres.
+Nous commençons à peine.
+
+J'en suis aux yeux. Prenez un regard doux.
+
+      Oui, songez à Madame ;
+Mais attachez les yeux sur moi.
+
+Le teint s'anime, l'oeil s'enflamme
+Auprès de la beauté.
+
+      Je peins vos yeux.
+Je crois que vous serez au mieux.
+
+      Eh ! Monsieur,
+Je ne pourrai jamais vous peindre.
+Quel homme !
+      Mon pinceau, ma verve s'échauffait.
+
+      Les yeux.
+
+      Un ou deux, à-peu-près.
+
+Sortons d'ici. Cet homme est atteint de folie.
+
+
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
+Il vient de m'échapper, je ne sais où le prendre ;
+On ne peut l'habiller. Ah ! quel homme étonnant !
+Le tonnerre est moins prompt, un volcan, moins bouillant ;
+Mais taisons-nous, je crois l'entendre.
+
+Votre épée.
+
+      Votre mouchoir.
+
+Auprès de vous on n'a ni paix ni trêve :
+Il faudrait quatre bras...
+
+      J'y vais.
+
+      Monsieur, monsieur.
+
+      Dans l'instant.
+
+      Je vole.
+
+      Ah ! Patience !
+
+      Grand merci.
+
+Je faisais votre chocolat.
+
+Il faut donc tout briser.
+
+Hier il était froid : on ne peut vous comprendre.
+
+Avec un peu de patience
+Il aurait pu se refroidir.
+
+      Mais, neuf heures, je pense,
+
+Le soleil aura tort. Pour en être éclairci,
+Regardez votre montre. Eh bien ! Lorsque j'avance...
+
+Mais vous pouvez hâter son cours :
+Mettez-la sur midi.
+
+      À présent ?
+
+Mais elle dort, je le parie.
+
+Hier, elle se coucha tard.
+
+      Osez-vous bien d'une veuve si belle
+Troubler le doux sommeil ?
+
+C'est bien le moins ; et je cours l'éveiller.
+
+Elle n'est pas encore visible.
+
+Trop heureux qui pourra le gagner de vitesse !
+Chacun a ses défauts : tel est le coeur humain.
+Moi, n'ai-je pas les miens ? D'abord, j'aime le vin :
+C'est qu'il est bon. Le jeu m'occupe, m'intéresse ;
+Mais tout homme d'esprit doit fuir
+L'oisiveté. De plus, je ne hais pas les femmes :
+Mais c'est un beau défaut, celui des grandes âmes.
+
+Une autre fois, sans doute....
+
+Une Belle, vraiment, n'est pas toujours d'humeur....
+
+      Je me tairai, Monsieur.
+
+      Oui, Monsieur.
+
+Non, Monsieur.
+
+Oui, Monsieur.
+
+Eh !...
+
+      Mais...
+
+Monsieur, excusez ma franchise,
+On ne peut, à la fois, et se taire et parler.
+
+      Pour ne vous rien celer,
+Monsieur Borchamp.... Mais, puis-je être sincère ?
+
+      Monsieur Borchamp... je crains....
+
+Vous n'avez pas le talent de lui plaire.
+Le ciel vous refusa, parmi tant de bienfaits,
+Cet air tranquille et doux qui flatte, nous attire....
+
+      Ma foi, je m'en doutais.
+Mais j'aperçois Julie.
+
+      J'accours.
+
+Monsieur Borchamp. Quoi donc, il est parti !
+Ma foi, que dira le beau-père ?
+Mais je le vois qui court, courons vite après lui.
+
+      Il vient de s'échapper.
+
+      Il des brouillards dans la tête :
+Ennemi juré du repos,
+Il va, dit-il chez son notaire.
+Comme rien n'était prêt, maudissant les marauds,
+C'était moi, le cocher, d'assez brusque manière
+Il s'est sauvé.
+
+      Ah ! vraiment ; au contraire,
+Il chasse et cocher et chevaux,
+Et dit qu'à pied, tout seul, il ira bien plus vite.
+
+MON Maître, accablé de tristesse,
+Demande un entretien du ton le plus touchant.
+Il est vif, mais son coeur est si bon !
+
+      Mon Maître ?
+
 Qu'il vous attende ! Oh, j'en doute vraiment :
 On fixerait plutôt le feu, le vent,
 Le coeur d'une coquette....
 
-**** *book_ *id_I24 *act_I *date_1778
-
--*who_damon
-      Eh bien, qu'a dit Julie ?
-
--*who_lafleur
 Elle va revenir.
 
--*who_damon
-      Bientôt ?
-
--*who_lafleur
       Probablement.
 
--*who_damon
-Mais quand ? Ce soir, demain, dans la semaine ?
-
--*who_lafleur
 Que sais-je ? L'avenir est chose peu certaine.
 
--*who_damon
-Ce qu'il faut pour écrire. Oui, pour plaire à Borchamp,
-Lui rendre le repos qu'il regrette sans cesse,
-Je vais au Président écrire en sa faveur,
-Et j'y mettrai de la chaleur.
-Mon oncle comprendra combien il m'intéresse.
-
--*who_lafleur
 Le calme enfin succède à ce grand mouvement :
 Je vois briller sur son visage.
 Les traits heureux de l'enjouement.
 Mais la scène varie, il s'élève un nuage.
 
--*who_damon
-Quelle maudite plume !
-
--*who_lafleur
       Elle a tort.
       Si mes soins.
 
--*who_damon
-Pour tracer chaque mot, il faut près d'un quart-d'heure,
-
--*who_lafleur
 Supprimez quelque lettre : un mot de plus, de moins,
 Qu'importe. En effet, que je meure
 S'il ne trouve les mots trop longs de la moitié.
 
--*who_damon
-Cette encre est détestable !
-
--*who_lafleur
       Il est contrarié.
 
--*who_damon
-Une bougie.
-
--*who_lafleur
       Il est toujours le même.
 
--*who_damon
-Eh bien ?
-
--*who_lafleur
       Et le repos n'est pas son élément.
 Par ses vivacités il m'amuse souvent.
 
--*who_damon
-Ah, quels valets !
-
--*who_lafleur
       Toujours courant, toujours extrême,
 Il se fâche, il me gronde, et cependant je l'aime.
 Ah ! ah ! Je l'ai perdu ! Comment ?
 Où donc est-il ? À merveille ! J'entends.
 
--*who_damon
-Pour être bien servi, c'est-là le vrai système.
-
-**** *book_ *id_I25 *act_I *date_1778
-
--*who_lenotaire
-Peut-on voir votre Maître ?
-
--*who_lafleur
       Oui, Monsieur, aisément.
 
--*who_damon
-Je me flatte, Monsieur Borchamp,
-Qu'un pareil procédé pourra vous satisfaire.
-
--*who_lafleur
 Monsieur, voilà votre Notaire.
 
--*who_damon
-Ah, vous voilà ! Je viens de chez vous.
+Voici le Peintre ; il vient finir votre portrait.
 
--*who_lenotaire
+Moi, Monsieur !
+
+Il doit donner le Peintre au diable.
+
+      Il y paraît.
+
+
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamand
+
+      Monsieur ?
+
+Et qui ?
+
+      Je vous assure
+Qu'il était là tantôt.
+
+      Où, Monsieur ?
+
+      J'y vais, j'y vais.
+
+De votre oncle le Président,
+J'apporte la réponse.
+
+
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
+
+Peut-on voir votre Maître ?
+
       Je le sais.
 
--*who_damon
-On ne vous rencontre jamais.
-
--*who_lenotaire
 J'étais sorti pour une affaire.
 
--*who_damon
-Vous avez tort. Lafleur...
-      Vous daignez le permettre,
-À mon oncle soudain qu'on porte cette lettre.
-
-**** *book_ *id_I26 *act_I *date_1778
-
--*who_damon
-Ma voila délivré d'un pénible fardeau !
-Ce procès finira ; cet espoir me console.
-Je voulais vous parler de Madame d'Érole :
-On vous dit très-liés.
-
--*who_lenotaire
       Je l'ai vue au berceau,
 Et l'on s'attache à ceux qu'on a vu naître.
 
--*who_damon
-Vous savez son procès ?
-
--*who_lenotaire
       Oui, je dois le connaître.
 
--*who_damon
-Eh bien, qu'en pensez-vous ?
-
--*who_lenotaire
       Tantôt, à ce sujet,
 La Comtesse vient de m'écrire :
 J'ai même encore son billet.
 
--*who_damon
-Peut-on le voir ?
-
--*who_lenotaire
       Oui, je vais vous le lire.
 
--*who_damon
-Voyons-le donc.
-
--*who_lenotaire
       Un moment, s'il vous plaît.
 Notre Comtesse a contracté des dettes.
 
--*who_damon
-Mais tout le monde doit : c'est l'usage à présent.
-
--*who_lenotaire
 Ah ! Le voici.
 
--*who_damon
-      Lisez donc promptement.
-Que cherchez-vous encor ?
-
--*who_lenotaire
       Je cherche mes lunettes.
 
--*who_damon
-Lisez toujours, vous chercherez après.
-
--*who_lenotaire
 Vous êtes un peu prompt. M'y voilà.... Je désire....
 Oui, quelque jour... de mes projets...
 À l'avenir....
 
--*who_damon
-      De grâce, daignez lire
-Sans épeler.
-
--*who_lenotaire
       J'y suis.
       À l'égard du procès,
 Dont vous.... ah, ma lunette ! Elle sera brisée.
 
--*who_damon
-J'en suis bien aise. Après ?
-
--*who_lenotaire
       Vous êtes obligeant.
 Sa tête est mal organisée.
 Enfin, pour abréger ; car c'est probablement
 Le moyen de vous plaire....
 
--*who_damon
-      Oui, singulièrement.
-Apprenez donc qu'elle projette
-De vendre cette terre.
-
--*who_damon
-      Eh bien, moi, je l'achète.
-
--*who_lenotaire
 Qui, vous ?
 
--*who_damon
-      Oui, moi. Par cet expédient,
-J'abandonne les bois, et Borchamp est tranquille.
-
--*who_lenotaire
 D'accord. Observez cependant....
 
--*who_damon
-Non, rien. Allez, volez, courez toute la ville,
-Et terminez sans nuls délais.
-
--*who_lenotaire
 Quel feu ! Mais de sang froid combinons vos projets ;
 Et sachez qu'en perdant ces bois où tout abonde,
 Cette terre, Monsieur, déchoit de sa valeur.
 
--*who_damon
-Eh ! je renonce de bon coeur
-À l'argent, au procès, à tous les biens du monde :
-M'entendez-vous ?
-
--*who_lenotaire
       Oui, très distinctement.
 Mais, aussi-tôt l'affaire terminée,
 Faites-moi l'amitié de prévenir Borchamp
@@ -1294,608 +1113,32 @@ Qu'il peut dormir tranquillement.
 Volez, mon cher ami, daignez me satisfaire.
 Quoi vous restez pétrifie !
 
--*who_lenotaire
 Mais en effet, je suis extasié.
 Il faut cependant vous complaire,
 Et je me hâte d'obéir.
 
--*who_damon
-Gardez-vous bien de trop courir.
-Encore un mot. Cachez à mon futur beau-père
-Le nom de l'acquéreur. J'exige le secret ;
-J'ai mes raisons.
-
--*who_lenotaire
       Comptez sur mon silence.
 
-**** *book_ *id_I27 *act_I *date_1778
-
--*who_damon
-Oui, qui veut obliger doit taire le bienfait.
-Il s'imaginerait que je suis en démence,
-Ou que mon zèle prétendu
-N'est qu'un moyen adroit, un piège convenu,
-Pour m'assurer son alliance.
-
-**** *book_ *id_I28 *act_I *date_1778
-
--*who_damon
-Ah, c'est vous ! Quel bonheur ! Je volais sur vos pas.
-
--*who_julie
-Vous devenez tous les jours plus aimable.
-
--*who_damon
-Mille pardons, j'ai tort ; mais ne me grondez pas.
-
--*who_julie
-Oui, l'on doit supporter votre humeur agréable.
-
--*who_damon
-Oui, je suis un peu vif.
-
--*who_julie
-      Un peu !
-
--*who_damon
-      Beaucoup, d'accord.
-Puisque j'ai le malheur d'offenser ce que j'aime.
-
--*who_julie
-Quelle preuve d'amour, lorsque mon père même
-Vient, Monsieur, d'essuyer encor !...
-
--*who_damon
-J'ai longtemps attendu : perdant toute espérance....
-
--*who_julie
-Longtemps !
-
--*who_damon
-      Pas mal.
-
--*who_julie
-      Mais, daignez m'écouter :
-Vous m'aimez, dites-vous !
-
--*who_damon
-      Mes voeux, mon existence...
-
--*who_julie
-Je le crois. Mais comment osez-vous vous flatter
-De mériter qu'un jour les noeuds de l'hyménée....
-
--*who_damon
-Par un culte....
-
--*who_julie
-      Allez-vous m'interrompre ?
-
--*who_damon
-      Non, non.
-
--*who_julie
-Oserai-je moi-même, abjurant la raison,
-Et de l'amour victime infortunée,
-M'exposer....
-
--*who_damon
-      Ah ! croyez....
-
--*who_julie
-      Encore !
-
--*who_damon
-      Je me tais.
-
--*who_julie
-Vous dont l'humeur, dont les voeux inquiets...
-
--*who_damon
-L'amour adoucit tout, le bonheur rend aimable.
-
--*who_julie
-Oui, je le sais. L'amour d'un voile favorable
-Sait couvrir ses défauts : souple avant le succès,
-Il ne semble agité que du désir de plaire ;
-Mais, tôt ou tard, il cesse. Alors le caractère,
-S'irritât d'autant plus qu'il fut plus comprimé....
-
--*who_damon
-Ne craignez rien. Ah ! si je suis aimé,
-Si jamais j'entrevois l'aurore
-Du jour qui doit éclairer mon bonheur,
-Vous me verrez soumis, plus amoureux encore,
-Obéir à vos lois, réprimer mon humeur,
-Et chercher tous vos goûts au fond de votre coeur.
-
--*who_julie
-Un tel effort me paraît difficile.
-
--*who_damon
-Vous verrez si, quand je promets....
-
-**** *book_ *id_I29 *act_I *date_1778
-
--*who_lafleur
-Voici le Peintre ; il vient finir votre portrait.
-
--*who_damon
-Fais-toi peindre toi-même, et laissez-moi tranquille.
-
--*who_lafleur
-Moi, Monsieur !
-
--*who_julie
-      Un moment. Ce n'est pas mon avis,
-Voyons si j'ai sur vous cet empire suprême :
-Faites entrer. Ce portrait est promis
-Depuis longtemps : enfin, plus maître de vous-même,
-Aujourd'hui, prouvez-moi que vous m'êtes soumis.
-
--*who_damon
-Ordonnez : trop heureux !....
-
-**** *book_ *id_I30 *act_I *date_1778
-
--*who_damon
-      Bonjour, Monsieur Dorlis,
-Allons, asseyons-nous, et peignez à votre aise.
-
--*who_dorlis
-Je suis à vous. Approchez ; plus avant...
-Eh ! Non ; vous reculez.
-
--*who_damon
-      Apportez une chaise ;
-Je suis très mal assis.
-
--*who_dorlis
-      Inclinez... doucement,
-Fort bien ; gardez cette attitude.
-
--*who_damon
-Il me tourne à son gré.
-
--*who_julie
-      L'épreuve est un peu rude.
-
--*who_dorlis
-Il faut que je m'attache, et c'est-là le grand art,
-A bien saisir chaque nuance,
-L'expression, la ressemblance,
-Et le jeu de vos traits.
-
--*who_damon
-      Il est déjà bien tard.
-
--*who_dorlis
-Quoi ! vous vous déplacez !
-
--*who_damon
-      C'est que.... Souffrez, Madame....
-Lorsque vous serez là, je verrai mieux Monsieur.
-
--*who_julie
-La bouche sera bien.
-
--*who_damon
-      S'il lisait dans mon coeur,
-Il me peindrait avec des traits de flamme.
-Et le front ?
-
--*who_julie
-      Il s'avance.
-
--*who_dorlis
-      Oui, j'achève à présent.
-
--*who_damon
-Ah ! Vous avez fini. Bon ! Vous êtes charmant.
-
--*who_julie
-Y songez-vous ?
-
--*who_dorlis
-      Cet homme est différent des autres.
-Nous commençons à peine.
-
--*who_damon
-      Où donc en êtes-vous ?
-
--*who_dorlis
-J'en suis aux yeux. Prenez un regard doux.
-
--*who_damon
-Si je lisais mon bonheur dans les vôtres,
-Les miens respireraient le feu du sentiment.
-
--*who_julie
-Malgré votre contrainte ?
-
--*who_dorlis
-      Oui, songez à Madame ;
-Mais attachez les yeux sur moi.
-
--*who_damon
-      Quoi ! Constamment ?
-
--*who_dorlis
-Le teint s'anime, l'oeil s'enflamme
-Auprès de la beauté.
-
--*who_damon
-      Quand comptez-vous finir ?
-
--*who_julie
-Ce moment est fâcheux.
-
--*who_damon
-      Près d'un objet aimable,
-Tout s'embellit des couleurs du plaisir.
-
--*who_lafleur
-Il doit donner le Peintre au diable.
-
--*who_damon
-Que peignez-vous ?
-
--*who_dorlis
-      Je peins vos yeux.
-Je crois que vous serez au mieux.
-
--*who_damon
-Hâtez-vous seulement : il n'est pas nécessaire
-De me faire si beau.
-
--*who_julie
-      Mais vous voulez, j'espère,
-Un portrait qui ressemble ?
-
--*who_damon
-      On me fait trop d'honneur.
-J'aimerais mieux, pour mon bonheur,
-Que la main de l'Amour m'eût gravé dans votre âme.
-
--*who_julie
-Cela serait plus court.
-
--*who_damon
-      Permettez-moi, Madame....
-Je veux voir ce qu'il fait.
-
--*who_julie
-      Un moment.
-
--*who_dorlis
-      Eh ! Monsieur,
-Je ne pourrai jamais vous peindre.
-Quel homme !
-      Mon pinceau, ma verve s'échauffait.
-
--*who_damon
-M'y voilà ; calmez-vous.
-
--*who_julie
-      Vous êtes, en effet,
-Si calme !
-
--*who_lafleur
-      Il y paraît.
-
--*who_julie
-      Sachez donc vous contraindre.
-
--*who_damon
-Que peignez-vous ?
-
--*who_dorlis
-      Les yeux.
-
--*who_damon
-      Encor les yeux ! Eh mais,
-Combien m'en faites-vous ?
-
--*who_dorlis
-      Un ou deux, à-peu-près.
-
--*who_damon
-Vous les ferez sans moi.
-
--*who_julie
-      Y songez-vous ?
-
--*who_damon
-      De grâce.
-
--*who_julie
-Monsieur jamais ne finira.
-
--*who_damon
-Mais, Madame, un moment, mettez-vous à ma place.
-
--*who_julie
-Quoi ! Pour avoir votre portrait ? Voilà
-Qui me paraît nouveau. Quelle bizarrerie !
-
-**** *book_ *id_I31 *act_I *date_1778
-
--*who_flamand
-De votre oncle le Président,
-J'apporte la réponse.
-
--*who_damon
-      Ah ! Voyons promptement.
-
--*who_dorlis
-Sortons d'ici. Cet homme est atteint de folie.
-
-**** *book_ *id_I32 *act_I *date_1778
-
--*who_damon
-Ah ! Je suis trop heureux : mon cher oncle est charmant.
-Allez prier Monsieur Borchamp
-De paraître un moment de la part de Julie.
-
-**** *book_ *id_I33 *act_I *date_1778
-
--*who_julie
-Mais de quoi s'agit-il ?
-
--*who_damon
-      Vous allez le savoir.
-Ah ! Quel bonheur ! Mon oncle a rempli mon espoir.
-Il peut compter sur ma reconnaissance.
-
-**** *book_ *id_I34 *act_I *date_1778
-
--*who_borchamp
-Que me veux-tu ? Qu'est-ce ?
-
--*who_damon
-      C'est moi, Monsieur.
-Rassuré par votre indulgence....
-
--*who_borchamp
-Excusez-moi : je suis votre humble serviteur.
-
--*who_damon
-Ah ! Daignez m'écouter ! Mes torts involontaires....
-
--*who_borchamp
-Je ne saurais, Monsieur, chacun a ses affaires.
-
--*who_damon
-Vous êtes irrité : j'entrevois mon malheur.
-
--*who_julie
-Mais sachez ce qu'il veut.
-
--*who_damon
-      Votre bonté se lasse.
-Mais n'imputez rien à mon coeur.
-Votre intérêt m'anime : écoutez-moi de grâce.
-Le Président, mon oncle, à qui j'avais écrit,
-Me répond qu'il a vu Monsieur de Lauvamaine ;
-Qu'on peut tout espérer, qu'il n'est rien qu'il n'obtienne
-D'un vieux ami qui le chérit.
-Mais jusqu'au bout je n'ai pas lu la lettre ;
-Daignez vous-même la finir.
-
--*who_borchamp
-« Mon cher neveu, lorsque j'ai reçu votre billet, j'avais précisément Monsieur de Lauvamaine à dîner chez moi.
-Soyez tranquille sur les suites de vos démarches dans tout ce qui dépendra de lui.
-Il n'a rien, m'a-t-il dit, refuser à notre ancienne amitié. »
-
--*who_damon
-Vous concevez, par-là, ce qu'on peut se promettre
-Du zèle de mon oncle.
-
--*who_borchamp
-      Il nous sert à ravir.
-
--*who_julie
-Vous voyez que du moins il sait rendre service.
-
--*who_borchamp
-Oui, je le vois, et je lui rends justice.
-« Mais, selon, votre coutume, vous écrivez avec tant de précipitation que vous oubliez la moitié des mots ; et vos phrases sont si embrouillées, que ce n'est pas sans effort qu'on devine votre pensée. »
-Je le reconnais bien.
-« Je vous renvoie votre lettre, prenez la peine de la relire. »
-      Ceci sera nouveau.
-
--*who_damon
-Oui, lisez ; vous verrez si je sais être utile.
-
--*who_borchamp
-« Mon cher oncle, il faut, en ma faveur, crever tous vos chevaux, et me rendre un service très important pour le plus maudit des.....
-La Comtesse. »
-
--*who_damon
-Des procès.
-
--*who_borchamp
-      Ah ! J'entends, et rien n'est plus facile.
-« La Comtesse d'Érolle plaide, depuis un siècle, contre Monsieur de Borchamp, père... dont je suis éperdument amoureux, qui réunit l'esprit à la beauté. »
-Je n'imaginais pas être encore si beau.
-
--*who_damon
-Mais, Monsieur, père de Julie,
-Qui réunit l'esprit aux attraits les plus doux.
-
--*who_borchamp
-Fort bien.
-« C'est un être processif, et sa cause est injuste.
-L'essentiel est d'obliger Lauvamaine ?
-Rapporter cette affaire dès demain ; il s'agit d'un malheureux bois de famille que Monsieur de Borchamp porte.... à un prix considérable.
-Je suis, etc.
-Voilà, mon cher neveu, votre billet, c'est une véritable énigme.
-Heureusement, j'ai quelque sagacité et quelque expérience, et j'ai compris que vous vous intéressez vivement à La Comtesse d'Érolle ; je ne vous connaissais pas cette belle passion ; mais comme vous m'assurez d'ailleurs que la cause de Monsieur de Borchamp est injuste, que c'est un être processif, j'ai fortement prévenu Lauvamaine contre lui, et il m'a promis d'appuyer votre belle Comtesse de tout son crédit. »
-      Vraiment, il n'appartient qu'à vous !
-Votre amitié plaide avec énergie ;
-Et maintenant j'ai l'esprit en repos.
-Eh bien, que penses-tu de ce rare service ?
-
--*who_damon
-Quelque démon, sans doute, a supprimé les mots.
-
--*who_julie
-De ses écarts son coeur n'est point complice ;
-Il voulait obliger.
-
--*who_borchamp
-      Je le crois ; en effet...
-
--*who_damon
-Vous voyez ma surprise : échauffé par mon zèle,
-Avec vivacité j'ai tracé ce billet.
-
--*who_borchamp
-Des vrais amis Vous êtes le modèle.
-
--*who_damon
-Je cours tout réparer.
-
--*who_borchamp
-      Non, c'est trop de bonté.
-À l'égard de l'hymen entre nous projeté,
-Il ne se fera point, Julie...
-
--*who_damon
-Il ne se fera point ?
-
--*who_borchamp
-      Non.
-
--*who_damon
-      Quelle cruauté !
-
--*who_borchamp
-J'en suis fâché ; mais, malgré mon envie....
-
--*who_damon
-Vous que j'aimais....
-      Monsieur... Julie !... Ah, quel malheur !
-Monsieur, j'ai tort si j'ai pu vous déplaire.
-
--*who_borchamp
-Je le sais.
-
--*who_damon
-      Mais enfin, ouvrez-moi votre coeur ;
-Je vous chéris, je vous révère,
-Et vous êtes si bon.
-
--*who_borchamp
-      Bon : oh ! Comme cela,
-Suivant l'heure et le temps.
-
--*who_damon
-      Toujours. Ah, vous voilà ?
-
-**** *book_ *id_I35 *act_I *date_1778
-
--*who_lenotaire
 Je vous apporte une heureuse nouvelle.
 La Comtesse, en ce jour, a changé de projets,
 Vous cède tous les bois, et renonce au procès.
 Voilà l'écrit signé.
 
--*who_borchamp
-      Comment ? Donnez. C'est elle !
-C'est son seing ! Quel prodige !
-
--*who_lenotaire
       Au prix qu'elle a voulu
 Elle vient de vendre sa terre ;
 Et l'acquéreur, plus débonnaire,
 Renonce à tout droit prétendu.
 
--*who_borchamp
-Cet homme-là, ne lui déplaise,
-Est pressé de jouir : les procès lui font peur :
-Et vous nommez cet honnête acquéreur,
-
--*who_damon
-Ne me trahissez pas.
-
--*who_lenotaire
       Souffrez que je me taise.
 
--*who_borchamp
-Pourquoi ? Quel intérêt ?...
-
--*who_damon
-      Eh ! qu'importe pourquoi
-Daignez vous occuper du bonheur de ma vie.
-
--*who_borchamp
-Monsieur, un moment, je vous prie :
-Je veux savoir son nom.
-
--*who_damon
-      Eh bien, Monsieur,... c'est moi.
-La terre me convient, et j'ai conclu l'affaire.
-
--*who_julie
-Vous l'entendez ; c'est lui, mon père.
-
--*who_borchamp
-Oui, ma fille, je vous entends.
-
--*who_lenotaire
 Vous le voyez ; si la tête est bouillante,
 Au moins le coeur est excellent ;
 Et vous devez, au gré de notre attente,
 Récompenser les soins d'un si fidèle amant.
 
--*who_damon
-Non, Monsieur, appuyé d'un si faible service,
-Je ne réclame point un prix aussi flatteur :
-Non, consultez avec plus de justice
-Et vos bontés et son bonheur.
-
--*who_borchamp
-Son bonheur !... Tourmenté d'un pareil caractère,
-Osez-vous vous flatter de rendre un être heureux ?
-
--*who_damon
-Oui, Monsieur, animé du désir de lui plaire,
-J'irai, je volerai au devant de ses voeux.
-
--*who_julie
-Je réponds de son coeur, du zèle qui le presse :
-Sensible à l'amitié, plein de respect pour vous,
-Il fera, croyez-moi, son bonheur le plus doux
-De mériter votre tendresse,
-De consoler vos jours, d'aider votre vieillesse.
-
--*who_borchamp
-Tu le veux ?
-
--*who_damon
-      Oui, Monsieur.
-
--*who_borchamp
-      Épouse, j'y consens.
-
--*who_damon
-Ah, Julie ! ah, Monsieur, les plus vifs sentiments....
-Signons-nous le contrat ? On souffre dans l'attente.
-
--*who_lenotaire
 Il faudrait qu'il fût fait.
 
--*who_damon
-      Qu'attendez-vous ?
-
--*who_lenotaire
       J'attends....
 La question est plaisante !
 Pour dresser un contrat, Monsieur, il faut du temps.
 
--*who_borchamp
-Entrons chez moi ; je veux le satisfaire.
-
--*who_damon
-Quand pourra-t-on, morbleu ! S'épouser sans notaire ?

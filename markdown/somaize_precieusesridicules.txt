@@ -1,6 +1,6 @@
 ---
 identifier: somaize_precieusesridicules  
-creator: Somaize, Antoine Baudeau  
+creator: Somaize, Antoine Baudeau ; Georges Forestier.  
 date: 1660  
 title: Les Prétieuses Ridicules. Comédie représentée au Petit Bourbon, nouvellement mise en vers.  
 ---

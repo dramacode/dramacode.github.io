@@ -1,359 +1,228 @@
 
 
-**** *book_ *id_I01 *act_I *date_1768
+**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesainthygin
 
--*who_monsieurdesainthygin
 Passons ici, Monsieur Delamarre ; puisque vous avez à me parler, nous y serons mieux que dans le salon, qu'on va arranger pour le concert.
 
--*who_monsieurdelamarre
-Vous avez concert aujourd'hui ?
-
--*who_monsieurdesainthygin
 Oui, ma fille aime beaucoup la Musique, et je ne suis pas fâché de lui donner quelquefois cet amusement-là.
 
--*who_monsieurdelamarre
-C'est très bien fait.
-C'est d'elle que j'ai à vous parler.
-
--*who_monsieurdesainthygin
 Voyons, asseyez-vous.
 
--*who_monsieurdelamarre
-N'avez-vous pas envie de la marier ?
-
--*who_monsieurdesainthygin
 Oui, si je trouve un bon parti.
 
--*who_monsieurdelamarre
-Je crois avoir votre affaire.
-
--*who_monsieurdesainthygin
 Qu'est-ce que c'est ?
 
--*who_monsieurdelamarre
-C'est un banquier Vénitien, fort riche, qui veut s'établir à Paris.
-
--*who_monsieurdesainthygin
 Et combien croyez-vous qu'il ait ?
 
--*who_monsieurdelamarre
-Un de mes amis qui me l'a adressé et qui connaît son bien et ce que lui vaut sa banque, répond qu'il a quarante à cinquante mille livres de rente.
+Diable ! Ce serait une sort bonne affaire ! Ma fille a du bien ; mais ici je ne trouverais jamais un pareil parti. Comment se nomme-t-il ?
 
--*who_monsieurdesainthygin
-Diable !
-Ce serait une sort bonne affaire !
-Ma fille a du bien ; mais ici je ne trouverais jamais un pareil parti.
-Comment se nomme-t-il ?
-
--*who_monsieurdelamarre
-Monsieur, Monsieur...
-C'est un diable de nom en J, dont je ne me souviens jamais ; cela ne fait, rien ; il est assez jeune et pas trop mal fait.
-
--*who_monsieurdesainthygin
 Je crois qu'il ne faut pas manquer ce parti-là.
 
--*who_monsieurdelamarre
-Je pense comme vous ; mais comme il connaît peu de monde à Paris, il n'y a rien à craindre.
-
--*who_monsieurdesainthygin
 Il y connaît au moins ses correspondants, et ces gens-là, qui sont au fait de ses facultés, peuvent avoir des filles à marier ; ainsi il ne faut pas perdre de temps.
 
--*who_monsieurdelamarre
-Voulez-vous que je vous l'amène aujourd'hui ?
+Pourquoi pas ? Il doit aimer la musique, et le concert est justement une occasion.
 
--*who_monsieurdesainthygin
-Pourquoi pas ?
-Il doit aimer la musique, et le concert est justement une occasion.
-
--*who_monsieurdelamarre
-C'est très bien dit ; mais c'est que j'ai affaire, et je ne sais pas à quelle heure je pourrai revenir.
-
--*who_monsieurdesainthygin
 Et passez chez lui, et s'il y est, envoyez-le moi.
 
--*who_monsieurdelamarre
-Oui, vous avez raison.
-Je ne perds pas un instant.
-
--*who_monsieurdesainthygin
 Je ne vous remercie pas, encore.
 
--*who_monsieurdelamarre
-Vous vous moquez de moi.
-
--*who_monsieurdesainthygin
 Revenez le plutôt que vous pourrez.
 
--*who_monsieurdelamarre
-Je ne ferai peut-être pas longtemps.
-
--*who_monsieurdesainthygin
 Allons, tant-mieux ; adieu, mon ami, au revoir.
 
-**** *book_ *id_I02 *act_I *date_1768
-
--*who_mademoiselledesainthygin
-Hé bien, Papa, il n'y a pas encore un violon d'arrivé, il n'y a que les Basses, concevez-vous que ces Messieurs se fassent attendre aujourd'hui encore comme la dernière fois ?
-
--*who_monsieurdesainthygin
 Ils viendront, ils viendront.
 
--*who_mademoiselledesainthygin
-Cela est impatientant !
-
--*who_monsieurdesainthygin
 Laissons cela un moment.
 
--*who_mademoiselledesainthygin
-Permettez que j'aille voir encore.
+Non, j'ai quelque chose à te dire en attendant. Tu aimes la musique italienne ?
 
--*who_monsieurdesainthygin
-Non, j'ai quelque chose à te dire en attendant.
-Tu aimes la musique italienne ?
-
--*who_mademoiselledesainthygin
-Sûrement ; d'abord je ne connais que celle-là.
-
--*who_monsieurdesainthygin
 Moi, je ne l'aime pas trop ; mais cela ne fait rien.
 
--*who_mademoiselledesainthygin
-Je vous réponds que vous finirez par ne vouloir pas en entendre d'autre.
+Cela se pourra ; mais revenons à notre affaire. Serais-tu fâchée d'épouser un Vénitien, fort riche ? Parle-moi naturellement.
 
--*who_monsieurdesainthygin
-Cela se pourra ; mais revenons à notre affaire.
-Serais-tu fâchée d'épouser un Vénitien, fort riche ?
-Parle-moi naturellement.
-
--*who_mademoiselledesainthygin
-Un Vénitien ?
-
--*who_monsieurdesainthygin
 Oui, c'est un homme assez jeune, un banquier.
 
--*who_mademoiselledesainthygin
-Et faudra-t-il aller à Venise ?
-
--*who_monsieurdesainthygin
 Non, il vient s'établir à Paris.
 
--*who_mademoiselledesainthygin
-Pourvu que je ne m'éloigne pas de vous, Papa, tout ce que vous ferez me conviendra très fort.
+Cela sera décidé dès aujourd'hui ; c'est Monsieur Delamarre qui m'a fait cette proposition, et ce banquier va peut être venir ici dans le moment, même tout seul. Tu le verras. On prétend qu'il a de quarante à cinquante mille livres de rente ; il n'y a pas à hésiter.
 
--*who_monsieurdesainthygin
-Cela sera décidé dès aujourd'hui ; c'est Monsieur Delamarre qui m'a fait cette proposition, et ce banquier va peut être venir ici dans le moment, même tout seul.
-Tu le verras.
-On prétend qu'il a de quarante à cinquante mille livres de rente ; il n'y a pas à hésiter.
+Oh, très sûr. Un de ses correspondants l'a assuré à Monsieur Delamarre.
 
--*who_mademoiselledesainthygin
-Sans doute, d'abord que cela est sûr.
+C'est lui-même. Monsieur, donnez-vous la peine d'entrer.
 
--*who_monsieurdesainthygin
-Oh, très sûr.
-Un de ses correspondants l'a assuré à Monsieur Delamarre.
-
--*who_mademoiselledesainthygin
-J'entends quelqu'un ; c'est peut-être lui.
-
-**** *book_ *id_I03 *act_I *date_1768
-
--*who_lelaquais
-Monsieur Octavini.
-
--*who_monsieurdesainthygin
-C'est lui-même.
-Monsieur, donnez-vous la peine d'entrer.
-
--*who_monsieuroctavini
-Monsieur, est Monsieur de Saint-Hygin ?
-
--*who_monsieurdesainthygin
 Oui, Monsieur, et voilà ma fille, qui sera charmée de faire connaissance avec vous.
 
--*who_monsieuroctavini
-Mademoiselle, je suis votre serviteur.
-Je suis pas encore bien au fait de la langage de ste pays, mais j'ai purtant entendou dire beaucup de Mademoiselle pour son gût pour notre mousique.
-
--*who_mademoiselledesainthygin
-Oui, Monsieur, j'aime beaucoup la musique italienne.
-
--*who_monsieuroctavini
-Je suis bien fâché de n'avoir pas encore été plous longtemps ici.
-
--*who_monsieurdesainthygin
 Ah, cela se réparera ; on dit que vous avez envie d'y rester toujours.
 
--*who_monsieuroctavini
-Oh, tujurs ; je sais pas encore bien autrement.
-
--*who_mademoiselledesainthygin
-Papa, il a une drôle de voix, ce Monsieur-là.
-
--*who_monsieurdesainthygin
 Paix donc.
 Monsieur, suivant ce qu'on m'a dit, il serait aisé de vous y fixer, et il n'y a personne qui ne voulût s'allier avec un homme aussi honnête que vous ; ma fille a du bien, elle en aura encore davantage, et l'on doit vous avoir dit que je serais charmé pour ma part, que tout cela pût vous convenir.
 
--*who_monsieuroctavini
-Monsieur, après la concert, vous direz si je chante bien, et puis, s'il vous plaît, l'argent il me fait point, je suis content tujurs de vivre à Paris, par tut ce que j'y ai vous.
-
--*who_monsieurdesainthygin
 Le concert n'est pas une chose qui doive nous retarder, je m'en vais envoyer chercher mon notaire qui vous montrera l'état des biens de ma fille.
 
--*who_monsieuroctavini
-Je n'ai pas besoin de voir.
+Pardonnez-moi, quand on se marie, il faut bien que toutes ces formalités-là se fassent. Est-ce que ce n'est pas l'usage dans votre pays ?
 
--*who_monsieurdesainthygin
-Pardonnez-moi, quand on se marie, il faut bien que toutes ces formalités-là se fassent.
-Est-ce que ce n'est pas l'usage dans votre pays ?
-
--*who_monsieuroctavini
-Pardonne-moi ; mais je n'ai point été à des mariages.
-Mademoiselle il se marie donc ?
-
--*who_monsieurdesainthygin
 Oui, si vous voulez.
 
--*who_monsieuroctavini
-Je ne puis pas empêcher.
-
--*who_monsieurdesainthygin
 Il ne sait pas ce qu'on lui dit.
 Monsieur, je vais vous parler tout naturellement on m'a dit que vous vouliez vous marier.
 
--*who_monsieuroctavini
-Moi ?
-
--*who_monsieurdesainthygin
 Oui, Monsieur, et comme vous ne savez pas beaucoup notre langue, je ne veux pas prendre de détours pour vous dire que si vous voulez épouser ma fille, c'est une affaire faite.
 
--*who_monsieuroctavini
-Monsieur, je vois bien que c'est un badinage ; c'est pourquoi je dis rien à cela.
-
--*who_monsieurdesainthygin
 Non, je ne badine point ; sur ce qu'on nous a dit de vous, nous en serons charmés.
 
--*who_monsieuroctavini
-Monsieur, je suis veuou pur la concert.
+Hé bien, vous entendrez le concert. Est-ce que ma fille ne vous plaît pas ?
 
--*who_monsieurdesainthygin
-Hé bien, vous entendrez le concert.
-Est-ce que ma fille ne vous plaît pas ?
-
--*who_monsieuroctavini
-Je dis point qu'il n'est pas jolie ; mais pour la mariage c'est autrement ; vous savez bien que je ne puis pas.
-
--*who_monsieurdesainthygin
 Pourquoi, dans votre état il faut se marier en demeurant à Paris, lorsqu'on y veut tenir une bonne maison.
 
--*who_monsieuroctavini
-Oui, mais Monsieur, je curs peut-être encore dans d'autres pays.
-
--*who_monsieurdesainthygin
 C'est une défaite ; si vous avez des engagements ici avec d'autres, c'est différent.
 
--*who_monsieuroctavini
-Non, je suis point engagé.
+Si vous n'êtes point engagé, pourquoi ne voulez-vous pas de ma fille ? Vous n'entendez pas bien, je crois, ce que j'ai l'honneur de vous dire.
 
--*who_monsieurdesainthygin
-Si vous n'êtes point engagé, pourquoi ne voulez-vous pas de ma fille ?
-Vous n'entendez pas bien, je crois, ce que j'ai l'honneur de vous dire.
-
--*who_monsieuroctavini
-Monsieur, je parle tut de bon.
-Je suis point pur la mariage.
-
--*who_monsieurdesainthygin
 On vous a peut-être dit du mal des femmes de France.
 
--*who_monsieuroctavini
-Monsieur, pour les femmes, je suis fort charmé de voir en ste pays, mais je puis pas dire.
-
--*who_monsieurdesainthygin
 Monsieur, quand vous connaîtrez ma fille, je me flatte que vous penserez différemment, et je ne vois pas pourquoi nous ne finirions pas cette affaire tout de suite.
 
--*who_mademoiselledesainthygin
-Mais Papa, c'est aussi trop presser Monsieur.
-
--*who_monsieuroctavini
-Oui, Mademoiselle, il dit bien, et la concert il vaut mieux pur moi.
-
--*who_monsieurdesainthygin
 Mais dites-moi, je vous prie, une raison.
 
--*who_monsieuroctavini
-Monsieur...
-
--*who_monsieurdesainthygin
 Monsieur Delamarre...
 
--*who_monsieuroctavini
-Monsieur Delamarre, il m'a dit de venir ici chanter aujurd'hui, c'est le vérité.
-
--*who_monsieurdesainthygin
 Il va venir, ainsi il vous expliquera mieux tout cela que moi.
 
--*who_monsieuroctavini
-Je entend fort bien ; c'est pur cela que je dis comme il est vrai, certainement.
-
--*who_monsieurdesainthygin
 Je n'y comprends rien.
 
-**** *book_ *id_I04 *act_I *date_1768
-
--*who_lelaquais
-Monsieur Delamarre.
-
--*who_monsieurdelamarre
-Ma foi, mon ami, je suis bien fâché, mais on m'a dit que notre homme en question était allé à Saint-Cloud se promener, et qu'il ne rentrerait que ce soir fort tard.
-
--*who_monsieurdesainthygin
 Bon, le voilà.
 
--*who_monsieurdelamarre
-C'est Monsieur Octavini.
-
--*who_monsieurdesainthygin
 Oui, il dit qu'il ne peut pas se marier qu'il a des raisons qu'il ne peut pas me dire.
 
--*who_monsieurdelamarre
-Quoi !
-Vous croyez que c'était...
-
--*who_monsieurdesainthygin
 Comment, allez-vous aussi être comme lui, et tout le monde se moque-t-il de moi aujourd'hui ?
 
--*who_monsieurdelamarre
-Non ; mais écoutez-moi.
-
--*who_monsieurdesainthygin
 Il a beau dire, je n'entends rien à tout cela, et vous m'avez fait faire des démarches fort désagréables pour un honnête-homme ; enfin on n'aime pas à être refusé, et cela n'est pas convenable.
 
--*who_monsieurdelamarre
-Mais il ne peut pas faire autrement.
-
--*who_monsieurdesainthygin
 Pourquoi donc m'avez-vous dit...
 
--*who_monsieuroctavini
-Monsieur Delamarre, Monsieur, il se fâche contre moi ; je sais pas purquoi.
-
--*who_monsieurdelamarre
-C'est qu'il vous prenait pour un autre.
-Monsieur Octavini est un célèbre chanteur Italien, que j'ai promis à Mademoiselle de Saint-Hygin de lui faire entendre ; mais que je ne voulais pas lui donner pour mari.
-
--*who_monsieuroctavini
-Monsieur, vous voyez bien à ste moment.
-
--*who_monsieurdesainthygin
-Oui, oui, Monsieur.
-Allons, allons au concert.
+Oui, oui, Monsieur. Allons, allons au concert.
 Pourquoi ne m'aviez-vous pas dit aussi ?
 
--*who_monsieurdelamarre
+Non, non, Monsieur ; et vous avez grande raison, allons, passez, passez.
+
+
+**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledesainthygin
+
+Hé bien, Papa, il n'y a pas encore un violon d'arrivé, il n'y a que les Basses, concevez-vous que ces Messieurs se fassent attendre aujourd'hui encore comme la dernière fois ?
+
+Cela est impatientant !
+
+Permettez que j'aille voir encore.
+
+Sûrement ; d'abord je ne connais que celle-là.
+
+Je vous réponds que vous finirez par ne vouloir pas en entendre d'autre.
+
+Un Vénitien ?
+
+Et faudra-t-il aller à Venise ?
+
+Pourvu que je ne m'éloigne pas de vous, Papa, tout ce que vous ferez me conviendra très fort.
+
+Sans doute, d'abord que cela est sûr.
+
+J'entends quelqu'un ; c'est peut-être lui.
+
+Oui, Monsieur, j'aime beaucoup la musique italienne.
+
+Papa, il a une drôle de voix, ce Monsieur-là.
+
+Mais Papa, c'est aussi trop presser Monsieur.
+
+
+**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelamarre
+
+Vous avez concert aujourd'hui ?
+
+C'est très bien fait. C'est d'elle que j'ai à vous parler.
+
+N'avez-vous pas envie de la marier ?
+
+Je crois avoir votre affaire.
+
+C'est un banquier Vénitien, fort riche, qui veut s'établir à Paris.
+
+Un de mes amis qui me l'a adressé et qui connaît son bien et ce que lui vaut sa banque, répond qu'il a quarante à cinquante mille livres de rente.
+
+Monsieur, Monsieur... C'est un diable de nom en J, dont je ne me souviens jamais ; cela ne fait, rien ; il est assez jeune et pas trop mal fait.
+
+Je pense comme vous ; mais comme il connaît peu de monde à Paris, il n'y a rien à craindre.
+
+Voulez-vous que je vous l'amène aujourd'hui ?
+
+C'est très bien dit ; mais c'est que j'ai affaire, et je ne sais pas à quelle heure je pourrai revenir.
+
+Oui, vous avez raison. Je ne perds pas un instant.
+
+Vous vous moquez de moi.
+
+Je ne ferai peut-être pas longtemps.
+
+Ma foi, mon ami, je suis bien fâché, mais on m'a dit que notre homme en question était allé à Saint-Cloud se promener, et qu'il ne rentrerait que ce soir fort tard.
+
+C'est Monsieur Octavini.
+
+Quoi ! Vous croyez que c'était...
+
+Non ; mais écoutez-moi.
+
+Mais il ne peut pas faire autrement.
+
+C'est qu'il vous prenait pour un autre. Monsieur Octavini est un célèbre chanteur Italien, que j'ai promis à Mademoiselle de Saint-Hygin de lui faire entendre ; mais que je ne voulais pas lui donner pour mari.
+
 Je ne savais pas ce qui arriverait.
 
--*who_monsieuroctavini
+
+**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuroctavini
+
+Monsieur, est Monsieur de Saint-Hygin ?
+
+Mademoiselle, je suis votre serviteur. Je suis pas encore bien au fait de la langage de ste pays, mais j'ai purtant entendou dire beaucup de Mademoiselle pour son gût pour notre mousique.
+
+Je suis bien fâché de n'avoir pas encore été plous longtemps ici.
+
+Oh, tujurs ; je sais pas encore bien autrement.
+
+Monsieur, après la concert, vous direz si je chante bien, et puis, s'il vous plaît, l'argent il me fait point, je suis content tujurs de vivre à Paris, par tut ce que j'y ai vous.
+
+Je n'ai pas besoin de voir.
+
+Pardonne-moi ; mais je n'ai point été à des mariages. Mademoiselle il se marie donc ?
+
+Je ne puis pas empêcher.
+
+Moi ?
+
+Monsieur, je vois bien que c'est un badinage ; c'est pourquoi je dis rien à cela.
+
+Monsieur, je suis veuou pur la concert.
+
+Je dis point qu'il n'est pas jolie ; mais pour la mariage c'est autrement ; vous savez bien que je ne puis pas.
+
+Oui, mais Monsieur, je curs peut-être encore dans d'autres pays.
+
+Non, je suis point engagé.
+
+Monsieur, je parle tut de bon. Je suis point pur la mariage.
+
+Monsieur, pour les femmes, je suis fort charmé de voir en ste pays, mais je puis pas dire.
+
+Oui, Mademoiselle, il dit bien, et la concert il vaut mieux pur moi.
+
+Monsieur...
+
+Monsieur Delamarre, il m'a dit de venir ici chanter aujurd'hui, c'est le vérité.
+
+Je entend fort bien ; c'est pur cela que je dis comme il est vrai, certainement.
+
+Monsieur Delamarre, Monsieur, il se fâche contre moi ; je sais pas purquoi.
+
+Monsieur, vous voyez bien à ste moment.
+
 Monsieur, il n'est plous fâché avec moi ?
 
--*who_monsieurdesainthygin
-Non, non, Monsieur ; et vous avez grande raison, allons, passez, passez.

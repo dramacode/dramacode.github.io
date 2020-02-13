@@ -1,294 +1,14 @@
 
 
-**** *book_ *id_I01 *act_I *date_1744
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sainville
 
--*who_juliette
-Angélique, est-ce tout ? Faites-vous violence :
-Je voudrais bien savoir à quoi sert le silence
-Il ne guérit de rien ; au contraire, il aigrit
-Les maux et les tourments du coeur et de l'esprit.
-Se taire est n'être plus qu'une ombre qui s'ennuie ;
-Le babil est le charme et l'âme de la vie...
-Vous ne répondez rien ! Quel est donc votre but,
-Et votre idée ?
-
--*who_angelique
-      Hélas !
-
--*who_juliette
-      Un soupir ! Beau début !
-Après, continuez.
-
--*who_angelique
-      Je n'ai plus rien à dire.
-
--*who_juliette
-On n'a que trop de quoi parler quand on soupire.
-Où sont donc ces transports, cette vivacité ?
-Nos entretiens faisaient votre félicité ;
-Vous ne pouviez finir. Lorsque je me rappelle...
-
--*who_angelique
-Je ne te parlais pas alors d'un infidèle.
-
--*who_juliette
-Doit-on, lorsque l'on perd le coeur d'un inconstant,
-Perdre aussi la parole ? Allons, il faut d'autant
-Soulager son dépit ; rien n'est plus salutaire.
-
--*who_angelique
-Où parle la raison, le dépit doit se taire ?
-
--*who_juliette
-Et la raison vous parle, à vous, Angélique ?
-
--*who_angelique
-Oui.
-
--*who_juliette
-      Ah ! Le bel entretien ! Ma foi, gare l'ennui ;
-Mais il est tout venu.
-
--*who_angelique
-      Non, ce guide propice
-A porté la lumière au fond du précipice
-Où j'aurais essuyé le plus grand des malheurs.
-
--*who_juliette
-Bon ! Bon ! L'amour bientôt le comblera de fleurs.
-
--*who_angelique
-Non, je n'ai plus en lui la moindre confiance.
-Où m'allait entraîner mon peu d'expérience !
-Eh ! Comment pouvons-nous ne nous pas égarer ?
-Comment fuir les dangers qu'on nous laisse ignorer ?
-À qui notre jeunesse est-elle confiée ?
-Hélas ! Pour l'ordinaire elle est sacrifiée.
-Quel est le sort du sexe ! Ah ! Juliette, il s'ensuit
-Qu'on croit qu'il ne vaut pas la peine d'être instruit.
-
--*who_juliette
-Ah ! Diantre, vous voilà tout-à-fait surprenante !
-Ce beau chef-d'oeuvre vient de notre gouvernante.
-Depuis six ou sept mois qu'elle a trouvé moyen
-De s'impatroniser ; je n'y connais plus rien ;
-La baronne elle-même en a fait son amie,
-Et ne fait que vanter sa rare prud'hommie :
-Nous étions, vous et moi, bien mieux auparavant.
-
--*who_angelique
-Je voudrais l'avoir eue en sortant du couvent :
-oui, Juliette, ce sont quatre ans que je regrette.
-
--*who_juliette
-Oui, votre tante a fait une fort belle emplette...
-Cette femme n'entend qu'à donner des vapeurs.
-Mais parlons de Sainville. Espérez que vos coeurs
-Seront bientôt remis en bonne intelligence.
-Je sais que de sa part un peu de négligence...
-
--*who_angelique
-Tu nommes négligence un total abandon !
-L'excuse n'a plus lieu non plus que le pardon.
-
--*who_juliette
-Si Sainville a quitté sa retraite profonde
-Pour aller se fourrer dans le tracas du monde,
-C'est malgré lui ; pour moi, j'ai tout lieu de douter
-Qu'il puisse encor longtemps s'y plaire et le goûter ;
-Il n'a fait qu'obéir, et par force, à son père ;
-Son esprit, son humeur, son goût, son caractère,
-Feront qu'il y sera tout-à-fait étranger :
-Il est trop philosophe.
-
--*who_angelique
-      Ils l'auront fait changer.
-
--*who_juliette
-Non, il est trop bien né ; c'est sur quoi je me fonde.
-Quel triomphe pour vous ! Quand dégoûté du monde...
-
--*who_angelique
-Qu'il y reste, et s'y fasse un nom bien éclatant.
-Juliette, je médite un projet important.
-
--*who_juliette
-Vous voulez tout-à-fait renoncer à Sainville ?
-
--*who_angelique
-Je voudrais être encor dans mon premier asile.
-
--*who_juliette
-Eh ! Pourquoi faire ? Au lieu de bénir chaque jour
-La main qui vous a fait sortir de ce séjour,
-Où les infortunés de qui vous êtes née,
-Dès vos plus jeunes ans vous ont abandonnée,
-Vous songez à rentrer dans le sein de l'ennui ?
-
--*who_angelique
-Le monde n'a plus rien qui me plaise. Aujourd'hui ;
-Mais demain il pourra vous plaire davantage.
-Le dépit prend toujours le parti le moins sage.
-Demeurez... les absents sont bientôt oubliés.
-La baronne vous fait mille et mille amitiés ;
-elle a pour vous les yeux de la plus tendre mère ;
-C'est une tante enfin comme il ne s'en voit guère ;
-Mais si vous ne restez sous ses yeux, j'ai bien peur
-Qu'un autre ne parvienne à vous ôter son coeur,
-Et qu'avec un époux elle ne s'en console.
-La veuve la plus sage est toujours assez folle
-Pour se remarier ; cela se voit souvent.
-Il ne sera plus temps de sortir du couvent ;
-Il y faudra gémir, enrager comme une autre,
-Et pleurer à la fois sa folie et la vôtre :
-Je vous en avertis, craignez cet incident.
-Mais la voici qui vient avec le président.
-Sortons.
-
-**** *book_ *id_I02 *act_I *date_1744
-
--*who_lepresident
-      Vous n'avez fait aucune découverte ?
-Ah ! Ciel, n'aurais-je plus qu'à gémir de leur perte ?
-Faudra-t-il que j'emporte avec moi la douleur
-De n'avoir jamais pu réparer un malheur,
-Dont en quelque façon je suis presque coupable ?
-
--*who_labaronne
-Mais vous ne l'êtes point : est-ce qu'on est comptable
-Des jugements qu'on croit rendre avec équité ?
-Quoi ! Ne peut-on jamais cacher la vérité ?
-Tant de gens sont payés pour conspirer contre elle,
-Pour lui tendre toujours une embûche cruelle !
-Quel juge est à l'abri d'un semblable malheur ?
-
--*who_lepresident
-Et voilà justement ce qui fit mon erreur,
-Et l'arrêt dont je fus l'organe trop funeste :
-Mais se peut-il qu'enfin nul espoir ne vous reste,
-Et qu'en dix ou douze ans à peine révolus,
-Des gens d'un si grand nom ne se retrouvent plus ?
-
--*who_labaronne
-Eh ! Croyez-moi, monsieur, quand on est misérable,
-C'est un fardeau de plus qu'un nom considérable ;
-Ils en ont pu changer. Peut-être que la mort
-Au sein de l'indigence aura fini leur sort.
-
--*who_lepresident
-Mais le défunt avait une femme, une fille ;
-Il doit être resté quelqu'un de leur famille.
-
--*who_labaronne
-J'ai bien quelques soupçons ; mais ils sont si légers,
-Ils sont si dépourvus...
-
--*who_lepresident
-      Qu'importe ? Ils me sont chers ;
-Ne les négligez pas, redoublez votre zèle ;
-Vous n'aurez jamais eu d'occasion plus belle
-D'obliger un parent que vous-même avez mis
-Depuis longtemps au rang de vos plus vrais amis.
-
--*who_labaronne
-Croyez que c'est à quoi mon zèle s'intéresse.
-
--*who_lepresident
-Je vois d'un pas rapide arriver la vieillesse ;
-J'aurai bientôt fini le cours qui m'est prescrit :
-Que je serais content et de coeur et d'esprit,
-Si je pouvais, avant le terme qui s'approche,
-N'être plus accablé d'un si cruel reproche !
-Ce serait mon plus cher et mon plus grand bonheur.
-En tout cas, j'ai mon fils ; il est homme d'honneur,
-Et capable, entre nous, j'ai tout lieu de le croire,
-De faire une action qui le couvrant de gloire,
-Éternise après moi le sang dont il est né,
-Et me donne en mourant un repos fortuné.
-Oui, j'en jouis d'avance, et mon âme est tranquille.
-Il pourrait cependant arriver que Sainville,
-Répandu, dissipé comme il l'est à présent,
-Eût altéré ses moeurs.
-
--*who_labaronne
-      L'exemple est séduisant ;
-Mais...
-
--*who_lepresident
-      D'un autre côté, c'est sur quoi je me fonde,
-Sainville a grand besoin de l'école du monde.
-Philosophe un peu jeune, et même trop ardent,
-Il s'abandonne trop à son zèle imprudent :
-Ami de la franchise, il croit que la souplesse
-Est indigne d'un homme, et taxe de bassesse
-Ces égards mutuels dont la nécessité
-A forgé les liens de la société.
-Que sert une sagesse âpre et contrariante ?
-Heureuse la vertu douce, aimable et liante,
-Dont les ris et les jeux accompagnent les pas ;
-La raison même a tort, quand elle ne plaît pas.
-
--*who_labaronne
-La sienne se ressent des défauts de son âge,
-Le temps adoucira ce qu'elle a de sauvage.
-Espérez.
-
--*who_lepresident
-      Que je crains qu'il n'ait été trop loin !
-Tel est des jeunes gens le malheureux besoin,
-Qu'il faut, pour les polir, risquer de les corrompre ;
-Avec lui-même enfin je l'ai forcé de rompre,
-D'aller, de se répandre, et de se faire voir ;
-Mais son obéissance a passé mon espoir :
-Vous ne le voyez plus, moi-même il me néglige.
-
--*who_labaronne
-Croyez que l'amour seul aura fait ce prodige.
-
--*who_lepresident
-Ah ! Pourvu qu'il ne soit devenu qu'amoureux,
-L'amour ne gâte point un caractère heureux ;
-Je lui laisse le choix entre d'aimables filles
-Qu'il pourra rencontrer dans de riches familles
-Où je l'ai présenté ; mais je l'attends ici,
-Et par lui-même enfin je vais être éclairci.
-Vous, madame, de grâce, achevez votre ouvrage ;
-Et surtout, point d'éclat, le moindre est un outrage :
-Vous avez des soupçons, ne les méprisez pas.
-
--*who_labaronne
-J'approfondirai tout, et j'y vais de ce pas.
-
-**** *book_ *id_I03 *act_I *date_1744
-
--*who_lepresident
-Il me semble qu'il a plus de grâce et d'aisance.
-Je n'abuserai pas de votre complaisance,
-Le temps vous est trop cher pour en perdre avec moi.
-
--*who_sainville
 Puis-je en faire un plus doux et plus heureux emploi ?
 
--*who_lepresident
-Vous devenez flatteur.
-
--*who_sainville
       Je dis ce que je pense.
 
--*who_lepresident
-Ce sont des compliments, et je vous en dispense.
-Eh ! Bien, vous voilà donc au milieu du torrent.
-Votre genre de vie est un peu différent :
-Que dites vous du monde ? Allons, daignez m'instruire.
-
--*who_sainville
 Moi, mon père, j'en dis tout ce qu'on en peut dire ;
 Il n'est qu'une façon de le bien définir.
 
--*who_lepresident
-Je ne crois pas qu'il soit aisé d'en convenir.
-
--*who_sainville
 Avec sincérité, s'il faut que je réponde,
 J'ai vu que l'impudence est la reine du monde,
 Et qu'il faut, quand on veut y faire son chemin,
@@ -297,12 +17,6 @@ Que l'art d'en imposer est le seul art utile ;
 Qu'une louange aride, une estime stérile,
 Est tout ce qu'on accorde à peine aux gens de bien.
 
--*who_lepresident
-En exagérant tout, on ne définit rien :
-Brisons là. Mais d'ailleurs, dites-moi, je vous prie,
-Vous avez fréquenté la bonne compagnie ?
-
--*who_sainville
 La bonne compagnie ! Eh ! Croyez-vous aussi
 À cette rareté que l'on appelle ainsi ?
 J'ai tout vu, j'ai partout cherché cette merveille,
@@ -320,36 +34,15 @@ Voilà tout ce qu'il faut pour usurper ce nom.
 Quant à moi, j'en appelle ; elle est mal définie :
 Ce sont les moeurs qui font la bonne compagnie.
 
--*who_lepresident
-Il en est cependant à qui ce titre est dû ;
-Mais avec ces défauts le monde vous a plu,
-Et j'en vois la raison : parlons avec franchise,
-L'amour... eh ! Comment donc, ce mot vous scandalise !
-À votre âge, parbleu, c'est une nouveauté !
-
--*who_sainville
 Qui m'en aurait donné ?
 
--*who_lepresident
-      L'esprit, ou la beauté.
-
--*who_sainville
 La beauté, j'en conviens, peut, quand elle est réelle,
 Inspirer un amour aussi passager qu'elle.
 Quant à l'esprit du sexe...
 
--*who_lepresident
-      Il est sans contredit,
-Que l'on ne vit jamais tant de femmes d'esprit.
-
--*who_sainville
 Qu'une femme aisément passe pour un prodige !
 Mais c'est nous qui faisons nous-même le prestige.
 
--*who_lepresident
-Comment ?
-
--*who_sainville
       Pour peu qu'elle ait de jeunesse et d'appas,
 L'amour et les désirs attirent sur ses pas
 Une foule empressée à porter jusqu'aux nues
@@ -363,90 +56,21 @@ Et surtout avec art distribue à propos
 Une oeillade traîtresse, un souris infidèle,
 Et voilà tous nos sots enchantés autour d'elle.
 
--*who_lepresident
-Vous n'avez pas été du nombre ?
-
--*who_sainville
 Ah ! Vraiment non.
 
--*who_lepresident
-      Quand tout le monde a tort, tout le monde a raison.
-Pourquoi se distinguer ?
-
--*who_sainville
       Je n'en suis pas le maître.
 
--*who_lepresident
-Lorsqu'on est comme un autre, on est comme on doit être ;
-Qui donne de l'encens ne donne rien du sien.
-
--*who_sainville
 Eh ! Mais, pardonnez-moi, mon estime est mon bien.
 
--*who_lepresident
-Le bel amendement !
-      Souffrez que je réponde.
-
--*who_sainville
 À des faits ?
 
--*who_lepresident
-      Permettez. Quand j'entrai dans le monde,
-Je le vis à peu près des mêmes yeux que vous ;
-Chacun m'y déplaisait, et je déplus à tous ;
-Ne faisant point de grâce, on ne m'en fit aucune.
-
--*who_sainville
 On s'en passe.
 
--*who_lepresident
-      L'on prit ma franchise importune
-Pour un fiel répandu par la malignité ;
-D'autres ne la taxaient que de rusticité ;
-Et chacun s'élevait sur mes propres ruines.
-Où l'on cueillait des fleurs, je cueillais des épines.
-Ainsi par un scrupule un peu trop rigoureux,
-J'ôtais à la vertu le droit de rendre heureux.
-Alors, par une erreur qui n'est que trop commune,
-J'imputais mes malheurs à l'aveugle fortune,
-J'en faisais son forfait, loin de m'en accuser.
-L'expérience enfin sut me désabuser :
-Je rompis mon humeur, rompez aussi la vôtre.
-Nos besoins nous ont faits esclaves l'un de l'autre.
-Il faut suivre ce joug ; qui se révolte à tort,
-Et devient l'artisan de son malheureux sort.
-Sachez donc vous soumettre à cette dépendance :
-L'usage des vertus a besoin de prudence.
-Dans un juste milieu la raison l'a borné :
-D'ailleurs il faut toujours que leur front soit orné
-Des grâces et des fleurs qui sont à leur usage.
-Quand la vertu déplaît, c'est la faute du sage.
-Sachez la faire aimer, vous serez adoré.
-
--*who_sainville
 Son éclat naturel doit être décoré !
 Quoi ! D'un fard étranger, secours de l'imposture,
 L'art oserait souiller la beauté la plus pure !
 Mon père, croyez-moi, son attrait lui suffit.
 
--*who_lepresident
-Je n'ajoute qu'un mot à tout ce que j'ai dit.
-Ma fortune, mon fils, est moins considérable
-Qu'on ne le croit ; je suis dans un poste honorable,
-Où l'on n'amasse point ; ainsi je vous préviens,
-Que, bien loin de trouver après moi de grands biens,
-Vous serez étonné d'un si faible partage :
-Il faut vous faire ailleurs un plus grand héritage ;
-Et vous ne le pourrez qu'en cherchant un parti
-Qui soit digne, en un mot, de vous être assorti
-Par son nom, par son rang, et par son opulence ;
-Mais, pour le mériter, faites-vous violence :
-Allez, voyez le monde ; et mettez à profit
-Ce que mon amitié vous dicte et vous prescrit.
-
-**** *book_ *id_I04 *act_I *date_1744
-
--*who_sainville
 Qui ? Moi ! Pour mendier les biens les plus frivoles,
 J'irais de porte en porte encenser des idoles,
 Et feindre d'adorer l'objet de mes mépris !
@@ -468,129 +92,50 @@ Puis-je encore espérer de régner dans son âme ?
 Elle m'a tant aimé, que je dois me flatter
 D'obtenir un pardon que je vais mériter.
 
-**** *book_ *id_I05 *act_I *date_1744
-
--*who_juliette
-Monsieur, un mot, de grâce ; Angélique m'envoie.
-
--*who_sainville
 Angélique ?
 
--*who_juliette
-      Elle-même.
-
--*who_sainville
       Ah ! Ciel ! Quelle est ma joie !
 Dieux ! Elle me prévient.
 
--*who_juliette
-      Sans vous le reprocher,
-C'est la dixième fois que je viens vous chercher.
-
--*who_sainville
 Ah ! Je suis trop heureux.
 
--*who_juliette
-      Apprenez à quels titres,
-Et prenez ce paquet ; c'est un recueil d'épîtres.
-
--*who_sainville
 Ô gages fortunés du plus fidèle amour !
 Ô bonheur qui m'assure un éternel retour !
 Quand je semblais avoir abjuré son empire,
 Elle pensait à moi, s'occupait à m'écrire ;
 Ce sont tous ses billets.
 
--*who_juliette
-      Vous verrez à loisir.
-
--*who_sainville
 Je ne me souviens pas de t'avoir fait plaisir.
 
--*who_juliette
-Ni moi non plus.
-
--*who_sainville
       Tu m'as trop bien servi près d'elle,
 Pour ne pas aujourd'hui récompenser ton zèle.
 Tiens, Juliette... Ah ! Prends tout.
 
--*who_juliette
-      Que de biens à la fois !
-
--*who_sainville
 Eh ! Puis-je trop payer tous ceux que je reçois ?
 
--*who_juliette
-Je suis votre servante.
-
--*who_sainville
       Attends.
 
--*who_juliette
-      Monsieur, je n'ose.
-
--*who_sainville
 Sois témoin des transports que mon bonheur me cause.
 Tu lui diras... Grands dieux ! Quel retour inhumain !
 Je vois, je lis ma perte écrite de ma main ;
 Mes lettres, mon portrait ! Il faudra que j'en meure !
 
--*who_juliette
-Je ne crois pas qu'il soit besoin que je demeure.
-
--*who_sainville
 L'espoir n'a donc servi qu'à mieux m'assassiner.
 Eh ! Quoi ! Tu fuis !
 
--*who_juliette
-      Je crains de vous importuner.
-
--*who_sainville
 Parle donc, ton silence augmente mon supplice.
 Tu ne te tairais pas, si tu n'étais complice.
 
--*who_juliette
-Mais en serez-vous mieux, quand je vous aurai dit,
-Que jusqu'à la rupture on pousse le dépit,
-Qu'à l'amour d'Angélique il ne faut plus prétendre,
-Et qu'elle ne veut plus vous voir ni vous entendre ?
-
--*who_sainville
 On ne peut donc jamais former qu'un noeud fatal.
 Il n'est donc que trop vrai que tout choix est égal.
 À tout âge, en tout lieu, l'amour n'est qu'en idée.
 Enfin, c'en est donc fait, ma perte est décidée :
 Je n'ai donc plus ce coeur que j'avais enflammé.
 
--*who_juliette
-Jugez-vous. Quand on a le bonheur d'être aimé,
-Il faudrait résider auprès d'une maîtresse,
-Cultiver par soi-même, et nourrir sa tendresse.
-L'amour qu'on nous inspire exige bien du soin ;
-Des yeux qui l'ont fait naître, il a toujours besoin ;
-La moindre négligence y porte un coup funeste.
-Est-ce que notre coeur a des forces de reste ?
-
--*who_sainville
 Et parce que j'ai tort, m'abandonneras-tu ?
 
--*who_juliette
-La bonne volonté fait toute ma vertu :
-Mais je suis sans crédit ; je rougis de le dire.
-Certaine gouvernante a sur elle un empire,
-Que, pendant votre absence, elle a jusqu'à ce jour
-Acquis, malgré moi-même, aux dépens de l'amour.
-
--*who_sainville
 Mais, malgré cette femme, au moins je puis écrire.
 
--*who_juliette
-Et l'on refusera constamment de vous lire ;
-Car ce maudit Argus pense à tout, n'omet rien...
-Écrivez cependant.
-
--*who_sainville
       Je m'en garderai bien.
 Ah ! C'en est trop enfin... je ne veux rien entendre ;
 Puisqu'on me rend mon coeur, il faut bien le reprendre ;
@@ -604,752 +149,59 @@ Que je vais désormais vivre heureux et tranquille !
 Tu le veux, j'écrirai ; mais ce sera d'un style...
 Elle apprendra qu'on peut cesser de l'adorer.
 
--*who_juliette
-Perdez-vous la raison ? Au lieu de réparer...
-
--*who_sainville
 Un seul regret me tue, il faut que j'en convienne,
 C'est que son inconstance ait prévenu la mienne.
 Toi, tu lui remettras ma lettre en temps et lieu ;
 Tu la lui feras lire... allons, j'y compte. Adieu.
 
-**** *book_ *id_I06 *act_I *date_1744
-
--*who_juliette
-Voilà comme ils sont tous, quand on leur rend le change ;
-Furieux, hors de sens : c'est une espèce étrange ;
-Mais enfin, quels qu'ils soient, tout bien apprécié,
-Il ne faut pas laisser que d'en avoir pitié.
-
-**** *book_ *id_II01 *act_II *date_1744
-
--*who_lagouvernante
-Ô tendresse du sang ! Doux charme de ma vie,
-Qui devrait dès longtemps m'avoir été ravie !
-Quel état m'as-tu fait préférer à la mort ?
-Grands dieux ! Lorsque j'y pense, était-ce là mon sort ?
-Mais je n'en rougis point, la cause en est trop chère.
-Continuons les soins de la plus tendre mère ;
-Avant que de rentrer dans ce cloître écarté,
-Où la main d'un parent a daigné par bonté
-Assurer mon destin, consommons mon ouvrage.
-Ah ! Ciel, permets enfin qu'à travers un nuage,
-J'achève de verser sur l'objet de mes pleurs,
-Les seuls biens qui me soient restés de mes malheurs ;
-Et du moins, qu'au défaut de tout autre avantage,
-L'usage des vertus lui serve d'héritage.
-Voyons ce que sur elle ont produit mes avis ;
-Et si, pour son bonheur, elle les a suivis.
-
-**** *book_ *id_II02 *act_II *date_1744
-
--*who_angelique
-Ma bonne, embrassez-moi. Que je suis satisfaite !
-
--*who_lagouvernante
-Quoi donc, ma chère enfant ?
-
--*who_angelique
-      Ma victoire est complète.
-
--*who_lagouvernante
-Que je crains ces transports !
-      Qu'est-il donc arrivé ?
-
--*who_angelique
-Que j'ai tout renvoyé, je n'en ai rien sauvé.
-J'ignorais qu'on aimât si fort ces bagatelles ;
-Je n'ai pu m'en priver sans des peines mortelles :
-Je les regrette encor ; mais j'ai fait mon devoir.
-Ah ! Je suis bien vengée ; il est au désespoir.
-
--*who_lagouvernante
-Il en fait semblant.
-
--*who_angelique
-      Non ; il n'est pas homme à feindre,
-Et Juliette m'a dit qu'il était fort à plaindre.
-
--*who_lagouvernante
-Elle a pensé vous perdre, et sa fausse amitié
-Voudrait contre vous-même armer votre pitié.
-De ces personnes-là craignez le caractère ;
-On ne se perd jamais que par leur ministère ;
-Et, si vous m'en croyez, détachez-la de vous ;
-En un mot, fuyez-la, rompez.
-
--*who_angelique
-      Mais, entre nous,
-Me voilà donc réduite à ne voir plus personne ?
-Car vous m'ordonnerez, du moins je le soupçonne,
-De ne plus voir Sainville.
-
--*who_lagouvernante
-      Oui, ne balancez pas.
-
--*who_angelique
-Mais s'il m'écrit ?
-
--*who_lagouvernante
-      Peut-être.
-
--*who_angelique
-      Ah ! Sans doute.
-
--*who_lagouvernante
-      En ce cas,
-Sans la décacheter renvoyez-lui sa lettre...
-Voilà précisément ce qu'il faut me promettre.
-Eh ! Quoi ! Vous hésitez ! Vous vous taisez ?
-Parlez.
-
--*who_angelique
-      Ah ! Vous faites de moi tout ce que vous voulez.
-
--*who_lagouvernante
-Mais c'est pour votre bien.
-
--*who_angelique
-      Hélas !
-
--*who_lagouvernante
-      Daignez m'en croire,
-C'est pour vous conserver votre honneur, votre gloire.
-
--*who_angelique
-L'honneur est donc toujours l'ennemi de l'amour ?
-
--*who_lagouvernante
-Non vraiment ; au contraire, il l'approuve à son tour.
-
--*who_angelique
-Et pourquoi donc le mien vous semble-t-il un crime ?
-
--*who_lagouvernante
-C'est qu'il faut que l'amour ait un but légitime.
-Puisque vous m'y forcez : devez-vous ignorer
-Que pour pouvoir aimer sans se déshonorer,
-Il faut qu'un doux espoir mieux fondé que le vôtre,
-Assortisse deux coeurs qui soient faits l'un pour l'autre ?
-
--*who_angelique
-Eh ! Pour qui donc Sainville et moi sommes-nous faits ?
-
--*who_lagouvernante
-Que de faiblesse encor ! Que j'en crains les effets !
-Sans nous trop avancer, ôtons-lui l'espérance
-Qu'elle ose concevoir contre toute apparence.
-Ma fille, (vous m'avez permis un si doux nom,)
-Il faut, à vous guérir, forcer votre raison.
-Non, ce n'est point à vous que le ciel le destine :
-Peut-il s'associer avec une orpheline
-Inconnue, et d'ailleurs réduite à ses attraits,
-Qui n'a ni bien, ni rang, qui n'en aura jamais ?
-Sur la baronne en vain vous fondez votre attente.
-
--*who_angelique
-Et par quelle raison ? N'est-elle pas ma tante ?
-
--*who_lagouvernante
-Hélas !
-
--*who_angelique
-      Que dites-vous ?
-
--*who_lagouvernante
-      Ôtez-vous cet espoir.
-
--*who_angelique
-Mais encor, pourquoi donc ?
-
--*who_lagouvernante
-      Voulez-vous le savoir ?
-Elle ne vous est rien, le rapport est fidèle.
-
--*who_angelique
-Depuis plus de quatre ans que je suis avec elle,
-Elle fait tout pour moi.
-
--*who_lagouvernante
-      Vous l'avez mérité ;
-Mais ce n'en est pas moins l'effet de sa bonté.
-Vous étiez, dans un cloître une charge importune,
-Où l'on était enfin las de votre infortune.
-
--*who_angelique
-Mais d'où provenait donc cet abandon total ?
-
--*who_lagouvernante
-Vos parents ruinés par un procès fatal,
-Furent forcés de faire un si grand sacrifice.
-Plaignez-les ; ce fut là leur plus cruel supplice.
-
--*who_angelique
-Vous vous attendrissez. Vous les avez connus ?
-S'il est vrai, dites-moi ce qu'ils sont devenus,
-Ne me cachez plus rien.
-
--*who_lagouvernante
-      Votre malheureux père
-Saisit l'occasion d'une guerre étrangère :
-Son courage lui fit espérer tout du sort ;
-Mais il s'exposa trop, il y trouva la mort.
-
--*who_angelique
-Ah ! Grands dieux ! Et ma mère alors que devint-elle ?
-
--*who_lagouvernante
-Votre mère ! Jugez de sa douleur mortelle ;
-Peignez-vous son état et son adversité.
-Enfin, après avoir longtemps sollicité,
-D'une pension faible, à peine suffisante
-Pour soutenir sa vie infirme et languissante,
-On crut payer assez les jours de son époux.
-Elle comptait alors se réunir à vous,
-Et vous faire venir pour essuyer ses larmes ;
-Toute prête à jouir d'un bien si plein de charmes,
-Sa santé succomba sous des maux si constants.
-Dans les bras de la mort elle resta longtemps ;
-À peine elle en sortait que ce bienfait modique,
-Qui faisait sa fortune et sa ressource unique,
-Fut discontinué sans espoir de retour.
-
--*who_angelique
-Sans doute que depuis un si malheureux jour,
-Elle n'a pu survivre à ce coup si funeste ;
-Vos larmes, vos soupirs m'apprennent tout le reste.
-
--*who_lagouvernante
-Ne comptez plus sur elle, et revenons à vous.
-Vous étiez au couvent, où je sens, entre nous,
-Jusqu'où pouvait aller votre disgrâce affreuse,
-Quand le ciel qui voulait que vous fussiez heureuse,
-De la baronne un jour y conduisit les pas :
-On lui parla de vous. Votre âge, vos appas,
-Des larmes, qui pour lors vous prêtèrent leurs charmes.
-Tout força la baronne à vous rendre les armes ;
-Elle vous prodigua ses généreux secours :
-Enfin, son amitié s'augmentant tous les jours,
-Elle vous prit chez elle, et sa vive tendresse
-Daigna vous honorer du titre de sa nièce.
-
--*who_angelique
-Ah ! Quelle différence !
-
--*who_lagouvernante
-      Ainsi, ne l'étant pas,
-Voyez quel précipice est ouvert sous vos pas.
-Pouvez-vous vous livrer à l'espoir inutile
-De devenir un jour l'épouse de Sainville ?
-Non ; cessez de compter sur cet heureux lien.
-La baronne pourra vous faire quelque bien ;
-Mais ce n'est pas assez pour que l'on vous préfère
-Au plus riche parti que lui cherche son père :
-Sainville en a besoin pour vivre avec l'éclat
-Qu'exigeront bientôt son rang et son état.
-
--*who_angelique
-Et le plus tendre amour n'est donc rien dans la vie ?
-Au gré de la fortune il faut qu'on se marie.
-Pourvu qu'on soit bien riche, on est donc bien content ?
-Je ne l'aurais pas cru.
-
--*who_lagouvernante
-      Le plus sûr est pourtant
-De ne plus espérer que l'hymen vous unisse :
-N'attendez pas, vous dis-je, un si grand sacrifice,
-Je n'imagine pas qu'il y puisse songer.
-
--*who_angelique
-Vous découvrez l'abîme où j'allais me plonger.
-Que de combats vont être arrosés de mes larmes !
-Ce n'est que loin de lui que je trouve des armes.
-Je dois vous avouer que mon coeur révolté
-Sur mes réflexions l'a toujours emporté ;
-Et si je reste ici...
-
--*who_lagouvernante
-      Venez.
-
--*who_angelique
-      Où donc, ma bonne ?
-
--*who_lagouvernante
-Où l'honneur vous attend, aux pieds de la baronne :
-Venez lui confier votre état dangereux ;
-Elle aime la vertu, son coeur est généreux :
-Priez-la de finir une peine si rude,
-En vous faisant rentrer dans cette solitude
-Où vous étiez. Pressez, redoublez votre effort ;
-Elle est riche, elle y peut assurer votre sort.
-Doutez-vous du succès ? La baronne vous aime.
-
--*who_angelique
-Je ne puis avouer ma honte qu'à moi-même.
-
--*who_lagouvernante
-Mais vous vous êtes bien confiée à ma foi ?
-
--*who_angelique
-Vous n'êtes pas un tiers entre mon coeur et moi.
-N'est-il que ce moyen ? Si je vous intéresse,
-Ma bonne, sauvez-moi l'aveu de ma faiblesse.
-
--*who_lagouvernante
-Hâtez-vous d'employer des motifs si pressants :
-Les remèdes tardifs sont toujours impuissants.
-
--*who_angelique
-Disposez d'un aveu que je vous abandonne,
-Chargez-vous-en vous-même auprès de la baronne.
-
--*who_lagouvernante
-Vous me le permettez ?
-
--*who_angelique
-      Oui, je vous le permets.
-
--*who_lagouvernante
-Vous me désavouerez.
-
--*who_angelique
-      Non, je vous le promets.
-
--*who_lagouvernante
-J'y vais donc.
-
--*who_angelique
-      Attendez... partez, volez, ma bonne :
-Je pourrais révoquer l'ordre que je vous donne.
-
--*who_lagouvernante
-J'obéis.
-
--*who_angelique
-      Écoutez ; c'est à condition,
-Si l'on daigne accepter ma proposition,
-Que vous viendrez aussi, que nous vivrons ensemble ;
-Je me soumets à tout, pourvu qu'on nous rassemble.
-N'y consentez-vous pas ?
-
--*who_lagouvernante
-      Oui, c'est bien mon dessein.
-
--*who_angelique
-Ah ! Je pourrai du moins soupirer dans son sein ;
-Car je ne compte pas guérir de ma faiblesse.
-
-**** *book_ *id_II03 *act_II *date_1744
-
--*who_juliette
-Viens quand je tousserai.
-
--*who_lelaquais
-      Comptez sur mon adresse.
-
-**** *book_ *id_II04 *act_II *date_1744
-
--*who_juliette
-Pourrait-on vous parler ?
-
--*who_angelique
-      Tu lui diras que non.
-
--*who_juliette
-C'est moi qui vous demande audience en mon nom.
-
--*who_angelique
-Qui ? Toi !
-
--*who_juliette
-      Moi-même.
-
--*who_angelique
-      Eh ! Bien, je ne veux plus t'entendre.
-
--*who_juliette
-Et par quelle raison ?
-
--*who_angelique
-      Je n'en ai plus à rendre.
-
--*who_juliette
-On vous l'a défendu ?
-
--*who_angelique
-      Je n'obéis qu'à moi.
-
--*who_juliette
-Depuis assez longtemps, parlons de bonne foi,
-Votre bonne, jalouse, envieuse, inquiète,
-Cherche à me supplanter ; sa victoire est complète.
-Votre humeur trop facile a comblé son désir.
-N'agissez, ne pensez que sous son bon plaisir,
-Ayez pour tout instinct celui qu'elle vous prête,
-Soyez comme un enfant qu'on mène à la baguette.
-
--*who_angelique
-De grâce, finissons ; je ne vois que trop bien
-Quel est le but secret de ce bel entretien.
-
--*who_juliette
-Vous pourriez vous tromper.
-
--*who_angelique
-      Va, je sais qui t'envoie.
-
--*who_juliette
-Ne vous en faites pas une si grande joie.
-
--*who_angelique
-Quoi ! Tu me soutiendras ?
-
--*who_juliette
-      Moi, je ne soutiens rien.
-
--*who_angelique
-Tu ne viens pas exprès pour trouver le moyen
-D'apaiser, s'il se peut, une amante outragée ?
-
--*who_juliette
-Ce serait volontiers, s'il m'en avait chargée ;
-Et d'ailleurs, (ce n'est pas que je parle pour lui : )
-Mais enfin, croyez-vous les hommes d'aujourd'hui
-D'humeur à nous passer tous nos petits caprices,
-À faire tous les jours les plus grands sacrifices,
-À braver, à souffrir les mépris, les rebuts,
-À demeurer constants lorsque l'on n'en veut plus,
-À revenir à nous, si-tôt qu'on les rappelle ?
-Non ; l'art d'aimer a pris une forme nouvelle :
-C'est à nous à présent à remplir, en aimant,
-Tout ce qu'une maîtresse exigeait d'un amant ;
-Encore arrive-t-il qu'on croit nous faire grâce.
-Nos esclaves ont mis leurs vainqueurs à leur place ;
-Ils se sont emparés de nos droits les plus doux ;
-Tout le poids de l'amour est retombé sur nous.
-
--*who_angelique
-Que m'importe ?
-
--*who_juliette
-      Avouez que si, par aventure,
-Sainville revenait après cette rupture,
-Plus tendre que jamais, vous rapporter son coeur,
-Le vôtre aurait pour lui la dernière rigueur.
-
--*who_angelique
-Sans doute.
-
--*who_juliette
-      Il fait donc bien de ne se pas commettre :
-je dis plus, s'il osait hasarder une lettre,
-Pleine de désespoir, (je suppose le cas,)
-Vous la refuseriez ?
-
--*who_angelique
-      Je n'y toucherais pas.
-
--*who_juliette
-Il se le tient pour dit. Il est temps que je tousse.
-À la derniere épreuve il faut que je la pousse.
-
--*who_angelique
-Qu'as-tu donc ?
-
--*who_juliette
-      Est-il sourd ? Recommençons encor.
-
-**** *book_ *id_II05 *act_II *date_1744
-
--*who_lelaquais
-N'avez-vous pas toussé !
-
--*who_juliette
-      Peste soit du butor.
-
--*who_lelaquais
-J'ai donc mal entendu.
-
--*who_juliette
-      Donne.
-
--*who_angelique
-      Qu'est-ce ?
-
--*who_juliette
-      Une lettre
-Que ce drôle a sans doute ordre de me remettre.
-
-**** *book_ *id_II06 *act_II *date_1744
-
--*who_angelique
-Ah ! La belle finesse !
-
--*who_juliette
-      En quoi donc, s'il vous plaît ?
-De grâce, expliquez-vous.
-
--*who_angelique
-      Va, je sais ce que c'est.
-Il faut, pour m'attraper, être un peu plus habile.
-Ce billet qu'on t'apporte est...
-
--*who_juliette
-      De qui ?
-
--*who_angelique
-      De Sainville.
-
--*who_juliette
-De lui ?
-
--*who_angelique
-      Je gagerais.
-
--*who_juliette
-      Il faut voir.
-
--*who_angelique
-      Que fais-tu ?
-
--*who_juliette
-Je l'ouvre.
-
--*who_angelique
-      Je dirai que je ne l'ai pas lu.
-
--*who_juliette
-Pour la pousser à bout, changeons un peu le texte,
-Et lisons autrement. Pourquoi prendre un prétexte ?
-
--*who_angelique
-Arrête, ou je m'en vais.
-
--*who_juliette
-      Eh ! Bien, lisons tout bas.
-
--*who_angelique
-Lis, puisque tu le veux ; mais je n'entendrai pas.
-
--*who_juliette
-"Lorsque nous avons cru nous aimer l'un et l'autre,
-Nous nous sommes trompés."
-
--*who_angelique
-      Dieux ! Qu'est-ce que j'entends ?
-
--*who_juliette
-"Il n'est pas malheureux de rompre en même temps ;
-Car mon erreur n'a pas duré plus que la vôtre.
-J'accepte la rupture, ainsi n'en parlons plus. "
-
--*who_angelique
-Est-ce à moi qu'on écrit ?... Regardons le dessus.
-
--*who_juliette
-À qui, diantre, en veut-on ? Quelle est cette aventure ?
-Pourriez-vous, par hasard, connaître l'écriture ?
-
--*who_angelique
-Elle est de mon perfide.
-
--*who_juliette
-      Ah ! Vous l'avez bien dit.
-
--*who_angelique
-Oui, Juliette, elle en est ; c'est à moi qu'il écrit,
-Et c'est lui qui m'outrage après m'avoir trahie,
-Et qui joint le mépris avec la perfidie...
-Poursuis.
-
--*who_juliette
-      Restons-en là.
-
--*who_angelique
-      Quelle était mon erreur !
-Achève, j'ai besoin de l'avoir en horreur.
-
--*who_juliette
-Vous l'aimiez donc encore ?
-
--*who_angelique
-      Aimer sans espérance
-Est un état cruel. Mais quelle différence !
-Haïr est le tourment le plus affreux de tous.
-Donne-moi ce billet.
-
--*who_juliette
-      Tenez, contentez-vous.
-Avertissons Sainville, il est temps qu'il arrive.
-
-**** *book_ *id_II07 *act_II *date_1744
-
--*who_sainville
 Cédons, l'impatience où je suis est trop vive.
 
--*who_angelique
-Fuyons, sans doute il vient jouir de son forfait.
-
--*who_sainville
 Vous me fuyez ?
 
--*who_angelique
-      Tenez, voilà votre billet.
-
--*who_sainville
 A-t-il pu vous déplaire ?
 
--*who_angelique
-      Autre insulte mortelle.
-
--*who_sainville
 C'est de mes sentiments l'expression fidèle.
 
--*who_angelique
-De peur que je n'en doute encore, il en convient.
-
--*who_sainville
 Je viens vous assurer de tout ce qu'il contient.
 
--*who_angelique
-C'en est trop.
-
--*who_sainville
       Quel courroux !
 
--*who_angelique
-      Auriez-vous bien l'audace,
-Auriez-vous la fureur de m'insulter en face ?
-
--*who_sainville
 Quel est donc mon forfait ?
 
--*who_angelique
-      Feignez de l'ignorer.
-
--*who_sainville
 D'un éclaircissement pourriez-vous m'honorer ?
 
--*who_angelique
-Perfide, on n'en doit point à ceux qui nous outragent.
-
--*who_sainville
 Ah ! Je ne vois que trop quels motifs vous engagent
 À m'accabler encor d'un si cruel refus.
 Hélas ! Tout ce qui vient de ce qu'on n'aime plus
 Dégénère en offense, et se tourne en injure.
 
--*who_angelique
-Cessez de m'arrêter.
-
--*who_sainville
       Je ne puis. Non, parjure ;
 La révolte devient permise au désespoir :
 Vous me rendrez raison d'un procédé si noir.
 
-**** *book_ *id_II08 *act_II *date_1744
-
--*who_juliette
-Eh ! Je vous cherche.
-
--*who_sainville
       Parle, est-ce là cette lettre
 Qu'à l'instant de ma part tu viens de lui remettre ?
 Tu dois la reconnaître, est-ce elle ?
 
--*who_juliette
-      En doutez-vous ?
-
--*who_sainville
 Eh ! Bien, mademoiselle en est dans un courroux
 Qui ne se conçoit pas ; sa fureur est extrême.
 
--*who_juliette
-Vous pourrez la calmer en la lisant vous-même.
-
--*who_angelique
-Mais à quoi servira...
-
--*who_juliette
-      Je puis avoir mal lu.
-
--*who_angelique
-Puisqu'il convient de tout, c'est un soin superflu.
-
--*who_juliette
-Écoutez ; vous, lisez.
-      "Le secours de l'absence
-M'a bien mieux fait sentir le prix de votre coeur ;
-Et lorsque je reviens à mon premier vainqueur,
-C'est avec plus d'amour et plus de connaissance. "
-
--*who_angelique
-Vous lisez faux.
-      Voyez.
-
--*who_juliette
-      N'interrompez donc pas.
-Suivez des yeux.
-
--*who_sainville
       "Partout où j'ai porté mes pas,
 Je n'ai trouvé que vous, dont mon âme asservie
 Pût faire son bonheur le reste de ma vie. "
 
--*who_angelique
-Il a raison... Juliette.
-
--*who_juliette
-      Eh ! Bien, vous vous aimez.
-
--*who_angelique
-Mais, quoi !
-
--*who_juliette
-      Plus que jamais vos coeurs sont enflammés.
-Quelle explication faut-il que je vous donne ?
-Eh ! Trop heureuse encor l'amante qui pardonne.
-
--*who_angelique
-Voilà ce que j'ai craint... Sainville, il n'est plus temps,
-Je retourne au couvent.
-
--*who_sainville
       Dieux ! Qu'est-ce que j'entends ?
 Vous voulez donc ma mort ?
 
--*who_angelique
-      Et sans doute la mienne.
-J'ai donné ma parole, il faut que je la tienne.
-
--*who_sainville
 L'amour n'avait-il pas la vôtre auparavant ?
 Eh ! Que voulez-vous donc faire dans ce couvent ?
 
--*who_angelique
-On est allé, pour moi, le demander en grâce.
-
--*who_sainville
 En grâce, dites-vous ?
 
--*who_angelique
-      Voilà ce qui se passe,
-J'en attends la réponse : et je vous dirai plus,
-Je tremble...
-
--*who_sainville
       Et de quoi donc ?
 
--*who_angelique
-      De n'avoir qu'un refus.
-
--*who_sainville
 Cette grâce, en effet, vous doit être fort chère.
 
--*who_angelique
-Entendez mes raisons, sans vous mettre en colère.
-
--*who_sainville
 En pouvez-vous avoir pour me désespérer,
 Lorsqu'à tout l'univers je viens vous préférer ;
 Quand je mets mon bonheur, ma fortune, ma vie,
@@ -1357,16 +209,8 @@ Quand je mets mon bonheur, ma fortune, ma vie,
 À m'assurer la vôtre, à vous lier à moi
 Par le don éternel de ma main, de ma foi ?
 
--*who_angelique
-Auriez-vous ce dessein ?
-
--*who_sainville
       Puis-je en avoir un autre ?
 
--*who_angelique
-On l'a craint.
-
--*who_sainville
       Justes dieux ! Quel soupçon est le vôtre !
 Il ne vient point de vous ; et je vois en ce jour
 L'horreur qu'on a voulu verser sur mon amour,
@@ -1379,308 +223,51 @@ A-t-on vu dans mon coeur le germe du parjure
 Et de la perfidie ? Et vous, qui me blessez,
 Angélique, est-ce ainsi que vous me connaissez ?
 
--*who_angelique
-On a jugé bien mal de l'amour de Sainville.
-
--*who_juliette
-Et vous avez été trop prompte et trop facile
-À vous déterminer.
-
--*who_sainville
       Vos beaux yeux sont baissés !
 Eh ! Regardez du moins ceux que vous offensez.
 
--*who_angelique
-Ah ! Sainville.
-
--*who_sainville
       Quoi donc ! Qui fait couler vos larmes ?
 
--*who_angelique
-Vous ne savez pas tout.
-
--*who_sainville
       Quelles sont ces alarmes ?
 Quels secrets devez-vous cacher à mon amour ?
 
--*who_angelique
-J'ignore qui sont ceux à qui je dois le jour.
-Vous croyez que je suis nièce de la baronne ?
-
--*who_sainville
 Comment ?
 
--*who_angelique
-      Il n'en est rien, je ne tiens à personne.
-
--*who_sainville
 Ah ! Grands dieux ! Quel sera mon bonheur de pouvoir
 vous tenir lieu de tout ! Couronnez mon espoir.
 
--*who_angelique
-Quoi ! Malgré cet aveu ?
-
--*who_sainville
       Je n'en aurai point d'autre ;
 Assurez à la fois mon bonheur et le vôtre.
 
--*who_angelique
-Je pourrais être à vous ?
-
--*who_sainville
       Oui, le plus tendre amant
 S'engage, et pour jamais vous en fait le serment.
 Tendez-moi cette main... mais quel trouble vous presse ?
 
--*who_angelique
-Mais, Sainville, comment retirer ma promesse ?
-
--*who_sainville
 Nous verrons. Cependant, cachons bien notre amour ;
 Dissimulons tous deux jusques à l'heureux jour.
 
-**** *book_ *id_II09 *act_II *date_1744
-
--*who_juliette
-Levez-vous, et fuyez.
-
--*who_angelique
-      Que vois-je ! C'est ma bonne !
-
--*who_sainville
 Évitons cette femme, et fuyons la baronne.
 
-**** *book_ *id_II10 *act_II *date_1744
-
--*who_labaronne
-Sont-ce là les adieux de ces pauvres enfants ?
-
--*who_lagouvernante
-Je suis au désespoir.
-
--*who_labaronne
-      Vos soins sont triomphants.
-
--*who_lagouvernante
-Ah ! Madame.
-
--*who_labaronne
-      En voilà l'heureuse réussite :
-Ils ont bien opéré ; je vous en félicite.
-
--*who_lagouvernante
-Ah ! Daignez me traiter avec moins de rigueur.
-Ce que je viens de voir a déchiré mon coeur.
-
--*who_labaronne
-Et croyez-vous encor qu'Angélique ait envie
-D'aller dans un couvent passer toute sa vie ?
-
--*who_lagouvernante
-Ne la consultez point en cette extrémité,
-Madame ; il faut user de votre autorité.
-Eh ! Comment voulez-vous qu'une fille à son âge
-Puisse de sa raison faire un heureux usage,
-Quand la séduction, avec tous ses appas,
-L'environne, l'obsède, et la suit pas à pas ?
-Arrachez au péril une aveugle victime,
-que son propre penchant entraîne dans l'abîme.
-
--*who_labaronne
-Feignons.
-      Il peut avoir dessein de l'épouser.
-
--*who_lagouvernante
-Angélique à ce point ne saurait s'abuser ;
-Sa facilité seule emporte la balance.
-Sait-elle seulement qu'elle est sans espérance ?
-Dans l'ivresse où son coeur est plongé sans retour,
-Ses yeux ne portent pas plus loin que son amour ;
-Et son bonheur présent, qui n'est qu'une chimère,
-Fait que son avenir ne l'embarrasse guère :
-Elle ne sait qu'aimer, et ne sait rien prévoir.
-Mais enfin, supposé qu'un si fatal espoir,
-Sur la foi des serments, autorise sa flamme,
-Et, malgré la raison, règne au fond de son âme,
-Que de sujets pour vous de crainte et de terreur !
-Jusqu'où peut la conduire une semblable erreur !
-Je frémis ; ôtez-vous cette frayeur mortelle.
-Eh ! L'amour et l'hymen ne sont pas faits pour elle.
-
--*who_labaronne
-Je le sais comme vous, Sainville est dépendant ;
-Jamais il n'obtiendrait l'aveu du président.
-Mais sur une terreur qui peut être indiscrète,
-L'enterrer toute vive au fond d'une retraite,
-C'est une cruauté.
-
--*who_lagouvernante
-      Qui lui sauve l'honneur.
-Leur amour passera. Vous-même, en sa faveur,
-Empruntez un moment des entrailles de mère.
-Quoi ! Vous priveriez-vous d'une fille si chère ?
-Vous soupirez ? Parlez.
-
--*who_lagouvernante
-      J'y résoudrais mon coeur.
-
--*who_labaronne
-Fort bien.
-      Je ne saurais avoir cette rigueur.
-Mais je veux lui parler ; et, si ma remontrance
-Est sans succès, j'irai jusques à la défense.
-
--*who_lagouvernante
-Elle ne servira que d'un attrait de plus.
-
--*who_labaronne
-Veillez-la de plus près encor.
-
--*who_lagouvernante
-      Soins superflus !
-Contre deux coeurs unis que sert la vigilance ?
-J'embrasse vos genoux.
-
--*who_labaronne
-      Faisons-nous violence.
-
--*who_lagouvernante
-Éloignez Angélique, ôtez-la de ces lieux.
-Ah ! Voulez-vous la voir se perdre sous vos yeux ?
-
--*who_labaronne
-C'en est trop ; laissez-moi, je vous demande grâce.
-Tant de vivacité m'importune et me lasse.
-
--*who_lagouvernante
-Eh ! Puis-je en mettre moins ?
-      Allons cacher mes pleurs.
-Ah ! Ciel, daigne empêcher le plus grand des malheurs !
-
-**** *book_ *id_II11 *act_II *date_1744
-
--*who_labaronne
-Le piège a réussi ; ma froideur affectée
-A produit les effets dont je m'étais flattée.
-Achevons ; on a dû lui surprendre en secret
-Des papiers qui pourront m'instruire tout-à-fait.
-
-**** *book_ *id_III01 *act_III *date_1744
-
--*who_juliette
-Allons, il faut un peu faire tête à l'orage.
-
--*who_angelique
-Trop de confusion a glacé mon courage.
-
--*who_juliette
-L'amour est cependant fait pour en inspirer.
-
--*who_angelique
-Je ne puis que rougir, me taire, et soupirer.
-
--*who_juliette
-Reprenez vos esprits.
-
--*who_angelique
-      Non, quoi que je me dise,
-Je ne puis revenir d'avoir été surprise.
-
--*who_juliette
-Pour un petit malheur faut-il se dérouter ?
-La baronne, entre nous, n'est pas à redouter ;
-Elle est femme du monde, et n'en fera que rire :
-Pour l'autre, au pis aller, il faut la laisser dire.
-
--*who_angelique
-C'est elle qui me cause aussi le plus d'effroi.
-
--*who_juliette
-Quelle enfance ! Eh ! Qui peut, malgré vous, malgré moi,
-Vous contraindre à rester ainsi sous sa tutelle ?
-
--*who_angelique
-Sa raison, sa vertu.
-
--*who_juliette
-      Je n'en ai pas moins qu'elle.
-
--*who_angelique
-Je ne sais, mais je sens qu'elle ne me dit rien,
-Qui véritablement ne soit que pour mon bien :
-C'est un fait ; mais j'ai beau m'en convaincre moi-même,
-Quelle conviction tient contre ce qu'on aime ?
-Quand Sainville paraît, tout est évanoui.
-
--*who_juliette
-Cela se doit ; il va venir.
-
--*who_angelique
-      Eh ! Vraiment, oui.
-
--*who_juliette
-Arrangez-vous tous deux, tandis que la baronne
-Dans le fond du jardin est avec votre bonne,
-En un grand pour-parler.
-
--*who_angelique
-      C'est à notre sujet.
-
--*who_juliette
-Bon ! Bon ! Qu'importe ? Adieu, je vais faire le guet.
-
-**** *book_ *id_III02 *act_III *date_1744
-
--*who_sainville
 Nous nous étions promis qu'une ombre salutaire
 De nos voeux mutuels couvrirait le mystère :
 Cependant vous voyez que tout est découvert.
 Vous puis-je, à ce sujet, parler à coeur ouvert ?
 
--*who_angelique
-Hélas ! Vous le pouvez ; je répondrai de même.
-Que vois-je dans vos yeux ?
-
--*who_sainville
       Mon désespoir extrême.
 
--*who_angelique
-D'où vient ?
-
--*who_sainville
       Je suis perdu.
 
--*who_angelique
-      Vous ! Quel trouble est le mien !
-
--*who_sainville
 On pourrait me sauver ; mais vous n'en ferez rien.
 Vous savez que l'amour nous a faits l'un pour l'autre.
 
--*who_angelique
-Eh ! Bien ?
-
--*who_sainville
       Vous trahirez et son choix, et le vôtre.
 Les persécutions vous feront succomber
 On travaille au malheur où nous allons tomber.
 
--*who_angelique
-De quoi me grondez-vous ? Puis-je aimer davantage ?
-
--*who_sainville
 Je veux autant d'amour avec plus de courage.
 
--*who_angelique
-Laissez-moi vous aimer comme je puis aimer.
-
--*who_sainville
 Non, ce n'est pas assez.
 
--*who_angelique
-      Qui peut vous alarmer ?
-
--*who_sainville
 L'instant où je vous parle est le seul qui nous reste ;
 On va vous accorder cette grâce funeste
 Que votre complaisance a fait solliciter ;
@@ -1688,26 +275,13 @@ On saura vous résoudre enfin à l'accepter.
 Que dis-je ! On obtiendra de votre obéissance
 D'agréer les horreurs d'une éternelle absence.
 
--*who_angelique
-À subir cet arrêt je dois me préparer ;
-Mais sans nous désunir on peut nous séparer.
-
--*who_sainville
 Oui, je dois prendre en vous de grandes assurances !
 Jamais l'éloignement, le tems, les remontrances
 Ne produiront sur vous leur infaillible effet,
 Et vous braverez tout, comme vous avez fait.
 
--*who_angelique
-Que me reprochez-vous ?
-
--*who_sainville
       Une épreuve cruelle.
 
--*who_angelique
-Eh ! N'avais-je pas lieu de vous croire infidèle ?
-
--*who_sainville
 Cruelle ! On vous aidait à vous l'imaginer ;
 mais au fond du désert où l'on va vous mener,
 On ne tardera guère à vous le faire croire,
@@ -1716,10 +290,6 @@ Que l'on aura grand soin de circonstancier ;
 Et je n'y serai point pour me justifier.
 Vos feux ne pourront pas se nourrir de leurs cendres.
 
--*who_angelique
-Ne m'écrirez-vous pas ?
-
--*who_sainville
       Les lettres les plus tendres
 Ne peuvent soutenir longtemps un faible coeur :
 Notre ennemie alors usera de noirceur ;
@@ -1728,28 +298,15 @@ Les autres à son gré seront interprétées.
 La perfide saura, d'un air doux et trompeur,
 Vous fasciner les yeux de l'esprit et du coeur.
 
--*who_angelique
-Mais je les lirai seule.
-
--*who_sainville
       Elle les aura vues :
 Vous n'en recevrez point qu'elle ne les ait lues ;
 Elle s'en servira, vous dis-je, à mes dépens,
 Et les supprimera quand il en sera temps.
 
--*who_angelique
-Je vois, en frémissant, quel péril nous menace.
-Puis-je le détourner ? Que faut-il que je fasse ?
-
--*who_sainville
 Me croire, m'imiter, et m'en signer autant ;
 Voilà ce que l'amour exige en cet instant :
 De notre sûreté c'est-là l'unique gage.
 
--*who_angelique
-Quel est donc ce papier ?
-
--*who_sainville
       Le serment qui m'engage
 À rendre à vos appas un hommage éternel,
 Le garant et le sceau de ce don solemnel,
@@ -1758,16 +315,8 @@ De ma main, de mon coeur, et de ma destinée...
 Quoi donc ! Vous hésitez à recevoir ma foi,
 Et votre main balance à se donner à moi !
 
--*who_angelique
-Eh ! Le puis-je ?
-
--*who_sainville
       Comment !
 
--*who_angelique
-      Quel courroux vous enflamme ?
-
--*who_sainville
 L'impossibilité n'est qu'au fond de votre âme.
 Eh ! Quel obstacle empêche un noeud si plein d'appas ?
 Hélas ! Vous le cherchez et ne le trouvez pas.
@@ -1776,225 +325,74 @@ Vous dépendez de vous ; votre infortune extrême,
 Dont je rends grâce au sort, vous met en liberté
 De choisir qui vous plaît.
 
--*who_angelique
-      Oui, c'est la vérité ;
-Je n'ai point de parents, du moins que je connaisse.
-Mais, quoi ! Puis-je, à mon âge, être assez ma maîtresse,
-Pour que mon seul aveu dispose de ma main ?
-
--*who_sainville
 Non : j'attendais de vous ce refus inhumain.
 
--*who_angelique
-Une raison n'est pas un refus.
-
--*who_sainville
       L'inconstante !
 
--*who_angelique
-Mais si je consultais...
-
--*who_sainville
       Qui ? Votre gouvernante ?
 Et vous consulterez ensuite votre coeur ?
 
--*who_angelique
-Tenez, vous me traitez avec trop de rigueur ;
-Vous me troublez si fort, qu'à peine je respire :
-Je ne sais déjà plus ce que j'avais à dire.
-
--*who_sainville
 Si vous daigniez sur vous faire un juste retour...
 
--*who_angelique
-Eh ! Je crains ma raison autant que mon amour.
-
--*who_sainville
 Croyez donc l'un et l'autre. Eh ! Comment, je vous prie,
 M'assurer autrement de vous, et de ma vie ?
 Je ne veux seulement, pour calmer mes frayeurs,
 Que le titre d'époux : consentez, ou je meurs...
 
--*who_angelique
-Ah ! Ciel !
-
--*who_sainville
       Je règne, ou non, dans le fond de votre âme.
 Le temps nous presse ; optez d'accorder à ma flamme
 Le titre que le ciel semble me désigner,
 Ou de m'ôter la vie.
 
--*who_angelique
-      Eh ! Bien, je vais signer :
-Mais vous en répondrez.
-
--*who_sainville
       On a bien de la peine
 À vous faire agréer d'éterniser ma chaîne,
 À vous faire accepter le plus heureux lien.
 Est-ce ainsi qu'on se rend ?
 
--*who_angelique
-      Vous ne pardonnez rien.
-
--*who_sainville
 Non, sans doute, à l'amour.
 
--*who_angelique
-      Ah ! Quelle tyrannie !
-
-**** *book_ *id_III03 *act_III *date_1744
-
--*who_juliette
-Décampez au plus vite ; il nous vient compagnie.
-
--*who_sainville
 Qui donc ?
 
--*who_juliette
-      Le président.
-
--*who_angelique
-      Ah ! J'ai le coeur transi.
-
--*who_juliette
-Par où diantre allez-vous ? Sauvez-vous par ici.
-
-**** *book_ *id_III04 *act_III *date_1744
-
--*who_sainville
 Toi, ne la quitte pas ; ton soin m'est nécessaire.
 
--*who_juliette
-Je suis piquée au jeu ; laissez, laissez-moi faire.
-
-**** *book_ *id_III05 *act_III *date_1744
-
--*who_lepresident
-Bon ; nous serons ici plus en particulier :
-On voudrait votre avis sur un cas singulier.
-
--*who_sainville
 Mon père, vous savez que jamais je ne flatte.
 
--*who_lepresident
-C'est par cette raison. L'affaire est délicate ;
-Les conseils les plus vrais sont ici les meilleurs.
-Un juge assez habile, honnête homme d'ailleurs...
-Vous riez ?
-
--*who_sainville
       C'est de voir ce titre imaginaire
 Être si constamment l'épithète ordinaire
 Que s'accordent, entre eux, les hommes indulgents.
 
--*who_lepresident
-Ainsi, vous ne croyez guère aux honnêtes gens.
-
--*who_sainville
 Ma foi, ceux que j'ai vus me font douter des autres.
 
--*who_lepresident
-Mon fils, quels préjugés étranges que les vôtres !
-Il est des gens de bien... je pense, sur ma foi,
-Que vous ne jugez pas plus sainement que moi.
-
--*who_sainville
 Mon père, en vérité, ce reproche me pique.
 
--*who_lepresident
-Vous me croyez, du moins, un peu trop politique.
-Eh ! Prenez, ou laissez les hommes tels qu'ils sont,
-Tout aussi-bien que vous, je les connais à fond :
-Mais je suis envers eux, avec moins de rudesse,
-Indulgent par lumière, et non pas par faiblesse.
-Mais revenons enfin. Ce juge en question
-Fut chargé d'un procès, dont la décision
-Devait, à son rapport, régler la destinée
-De gens de qualité qu'un heureux hyménée venait d'unir.
-
--*who_sainville
 Laissons la noblesse du sang :
 Aux yeux de l'équité tous ont le même rang.
 Pesons les droits réels : la plus haute naissance
 Ne doit pas faire un grain de plus dans la balance.
 
--*who_lepresident
-Oui, mais tout l'embarras est de bien rencontrer ;
-Souvent le meilleur droit ne sait pas se montrer :
-Car vous n'ignorez pas qu'il n'est rien que n'emploie
-Ce monstre ingénieux à poursuivre sa proie,
-Dont le métier cruel, et cependant permis,
-Est souvent de corrompre ou d'égarer Thémis.
-À ce fléau funeste, à ce mal sans remède,
-Ajoutez pour surcroît que la main qui nous aide
-Peut se laisser surprendre, ou gagner. En effet,
-Ne saurait-on nous faire un infidèle extrait ?
-
--*who_sainville
 Tout juge qui s'en sert a tort : c'est mon système ;
 Jamais il n'est trop bon pour voir tout par lui-même :
 Et s'il ne donne pas tous ses soins, tout son temps,
 Cette épargne est un vol qu'il fait à ses clients.
 Pourquoi se charge-t-il des fortunes publiques ?
 
--*who_lepresident
-Vous êtes bien rigide !
-
--*who_sainville
       Et des plus véridiques.
 Je vois d'ici ce juge, indigne de pardon,
 Comme il le méritait, dupé par un fripon.
 
--*who_lepresident
-Vous l'avez dit. Un traître, un serpent domestique,
-Priva la vérité de sa preuve authentique.
-Le titre disparut ; le bon droit succomba ;
-L'erreur dicta l'arrêt, et le malheur tomba
-Sur des infortunés trop pleins de confiance,
-Et qui n'avaient, d'ailleurs, aucune expérience.
-
--*who_sainville
 Mais leur juge était fait pour en savoir plus qu'eux.
 Peut-il se consoler de leur désastre affreux,
 Et d'en avoir été la cause ?
 
--*who_lepresident
-      Involontaire.
-
--*who_sainville
 Qu'importe ? Il a laissé trahir son ministère ;
 Il avait un dépôt ; à qui l'a-t-il remis ?
 Si l'excuse avait lieu, tout deviendrait permis.
 
--*who_lepresident
-Le temps et le hasard firent enfin connaître,
-Mais trop tard, les excès qu'avait commis ce traître.
-On sut la vérité : le titre n'était plus ;
-Et le juge, accablé de regrets superflus,
-Fut réduit à verser des pleurs trop légitimes ;
-Ensuite l'on apprit que l'une des victimes,
-Cherchant à réparer les rigueurs de leur sort,
-Sous un ciel étranger avait trouvé la mort ;
-Que sa veuve, sans biens, pour élever leur fille,
-Unique rejeton d'une illustre famille,
-L'avait abandonnée aussi-bien que son nom.
-
--*who_sainville
 Eh ! Bien, s'il est ainsi, que me demande-t-on ?
 
--*who_lepresident
-Ce que doit faire un juge en ce malheur extrême.
-
--*who_sainville
 Tout homme qui consulte est peu sûr de lui-même ;
 Et que dire à celui qui ne se juge pas ?
 
--*who_lepresident
-Mais, vous, qu'auriez-vous fait en un semblable cas ?
-Ce juge le demande.
-
--*who_sainville
       Il veut que je prononce :
 Qu'il tremble ? Mais à quoi servira ma réponse ?
 Quoi qu'il en soit, enfin, j'aurais déjà rendu
@@ -2003,112 +401,40 @@ C'est à quoi je condamne un juge qui s'abuse.
 Qu'il répare ses torts, s'il veut qu'on les excuse ;
 L'ignorance et l'erreur sont des crimes pour lui.
 
--*who_lepresident
-On prononce aisément dans la cause d'autrui :
-Celui dont je vous parle est peu riche.
-
--*who_sainville
       Qu'importe ?
 
--*who_lepresident
-La restitution pourrait être si forte...
-
--*who_sainville
 La somme n'y fait rien. L'exacte probité
 Ne peut jamais avoir de terme limité.
 
--*who_lepresident
-Ainsi vous vous seriez exécuté vous-même ?
-
--*who_sainville
 Assurément.
 
--*who_lepresident
-      Fort bien.
-
--*who_sainville
       Je vous parais extrême ;
 Ma façon de penser, contraire aux moeurs du temps,
 N'attirera sur moi que des ris insultants.
 
--*who_lepresident
-Pardonnez-moi, mon fils.
-
--*who_sainville
       Que dites-vous, mon père ?
 
--*who_lepresident
-J'ai pensé comme vous ; j'ai fait plus, et j'espère
-Que vous y donnerez l'aveu le plus flatteur.
-Vous voyez le coupable, et le réparateur.
-
--*who_sainville
 Vous ?
 
--*who_lepresident
-      Moi-même.
-
--*who_sainville
       Ah ! Grands dieux ! Que ma source m'est chère !
 Que je suis enchanté de vous avoir pour père !
 Pardonnez ces transports à mon coeur éperdu.
 
--*who_lepresident
-Sitôt que je l'ai pu, j'ai fait ce que j'ai dû,
-Et je viens d'expier ma méprise funeste ;
-Il vous en coûtera.
-
--*who_sainville
       Votre vertu me reste.
 
--*who_lepresident
-Ah ! Qu'il m'est doux de voir que je revis en vous !
-Ah ! Père fortuné !
-
--*who_sainville
       Vous méritez de tous
 La vénération, l'estime la plus haute.
 Que vous êtes heureux d'avoir fait une faute
 Qui vous a procuré l'heureuse occasion
 De faire une si grande et si bonne action.
 
--*who_lepresident
-Le ciel me l'inspira, le ciel la récompense ;
-Sachez ce qui m'arrive en cette circonstance.
-Un ancien ami, de même rang que nous,
-Et qui m'attend chez moi, vient de m'offrir, pour vous,
-Un des meilleurs partis qui soient peut-être en France ;
-C'est une fille unique, une fortune immense :
-Je réponds de ses moeurs, et j'en suis enchanté :
-Car c'est-là, selon moi, la première beauté.
-D'ailleurs, elle est charmante. Enfin, l'on vous préfère.
-Je vous en parle ici de la part de son père.
-Et c'est un mariage à conclure au plutôt.
-Vous savez notre état, je vous l'ai dit tantôt ;
-Ce qui vient d'arriver, comme vous pouvez croire,
-Nous dérange beaucoup, en nous couvrant de gloire.
-J'ai vendu cette terre où vous vous plaisiez tant.
-
--*who_sainville
 Donnez, engagez tout, j'en serai plus content.
 
--*who_lepresident
-Vous paraissiez bien froid, quand la fortune même...
-
--*who_sainville
 Mon père, pardonnez ma répugnance extrême.
 
--*who_lepresident
-L'hymen vous fait-il peur ?
-
--*who_sainville
       Non, j'y vois mille appas :
 Cette fille est trop riche, et ne me convient pas.
 
--*who_lepresident
-Comment donc ?
-
--*who_sainville
       Il faudrait lui devoir ma fortune ;
 C'est une dépendance un peu trop importune.
 Les grands biens d'une femme augmentent trop ses droits,
@@ -2118,682 +444,30 @@ Dont on ne peut jamais s'acquitter avec elle.
 Quoi qu'il en soit, malgré ma situation,
 Je ne veux pas avoir cette obligation.
 
--*who_lepresident
-Bon ! Est-ce qu'un mari n'est pas toujours le maître ?
-
--*who_sainville
 Je ne veux point d'esclave, et je ne veux pas l'être.
 
--*who_lepresident
-Votre prudence ici me paraît en défaut.
-
--*who_sainville
 Une compagne aimable est tout ce qu'il me faut ;
 J'épouse pour aimer, pour être aimé de même :
 Je ne pourrais prétendre à ce bonheur extrême.
 Vingt exemples pour un semblent m'en avertir ;
 C'est se vendre, en un mot, et non pas s'assortir.
 
--*who_lepresident
-Ah ! Vos réflexions détruiront ce scrupule ;
-Car, entre nous, mon fils, il est trop ridicule.
-Je vous laisse y penser, et je vais de ce pas
-Engager cet hymen.
-
--*who_sainville
       Qui ne se fera pas.
 
-**** *book_ *id_III06 *act_III *date_1744
-
--*who_juliette
-Que diantre un fils a-t-il tant à dire à son père ?
-Votre Angélique est folle, elle me désespère ;
-La crainte, l'épouvante, et la timidité
-Triomphent pour le coup de sa facilité.
-Vous ne la tenez plus.
-
--*who_sainville
       Ah ! Ciel, quel coup de foudre !
 
--*who_juliette
-Voyez si vous pouvez vous-même la résoudre ;
-Mais ne l'espérez plus.
-
--*who_sainville
       Je m'en vais la trouver.
 
--*who_juliette
-Elle est dans le jardin qui s'occupe à rêver.
-
-**** *book_ *id_III07 *act_III *date_1744
-
--*who_juliette
-Être fille, et vouloir l'être toute sa vie,
-Me paraît, par ma foi, la dernière folie.
-Le beau titre à garder ! N'est-il pas bien charmant,
-Surtout lorsque l'on peut épouser son amant !
-
-**** *book_ *id_III08 *act_III *date_1744
-
--*who_lagouvernante
-Où peut être Angélique ?
-
--*who_juliette
-      Ah ! Je vous le demande !
-L'ai-je à ma garde ? Elle est, ce me semble, assez grande
-Pour être sa maîtresse ?
-
--*who_lagouvernante
-      Il faut me l'amener.
-
--*who_juliette
-J'obéis à madame, elle peut ordonner ;
-Mais, vous...
-
--*who_labaronne
-      Obéissez, quand madame l'ordonne.
-
--*who_juliette
-Madame ! Ah ! Par ma foi, l'épithète m'étonne !
-
-**** *book_ *id_III09 *act_III *date_1744
-
--*who_labaronne
-Eh ! Bien, ma chère amie !
-
--*who_lagouvernante
-      Ah ! C'est trop m'honorer.
-
--*who_labaronne
-Ce titre vous est dû, je ne puis l'ignorer ;
-Avouez que c'est vous qu'un procès déplorable
-A contrainte à subir un sort si misérable.
-
--*who_lagouvernante
-Vous me désespérez.
-
--*who_labaronne
-      Eh ! Madame, achevez
-Cet aveu que j'implore, et que vous me devez.
-
--*who_lagouvernante
-Que voulez-vous de plus de ma reconnaissance ?
-
--*who_labaronne
-La faveur d'être admise en votre confidence :
-Mais je lis dans votre âme une noble fierté,
-Un courage au-dessus de toute adversité,
-Vous fait désavouer votre infortune extrême ;
-Et vous vous imposez ce déni de vous-même,
-Par égard pour le rang où vous avez été,
-Par mépris pour le sort qui vous a tout ôté :
-Mais ce que vous cachez, n'en est pas moins visible ;
-Vous brillez, malgré vous, d'un éclat trop sensible ;
-Vous voulez vous couvrir d'une ombre qui vous fuit ;
-Madame, écartez donc le charme qui vous suit.
-
--*who_lagouvernante
-Vous êtes dans l'erreur, le président s'abuse.
-
--*who_labaronne
-Eh ! Bien, pour vous convaincre, il faut que je m'accuse.
-
--*who_lagouvernante
-De quoi ?
-
--*who_labaronne
-      Votre secret n'en est plus un pour moi,
-J'ai surpris des papiers qui sont dignes de foi.
-
--*who_lagouvernante
-Ciel !
-
--*who_labaronne
-      J'ai vu de mes yeux la preuve la plus claire
-D'un fait dont vous voulez soutenir le contraire ;
-Vous êtes sûrement la comtesse d'Arsfleurs.
-
--*who_lagouvernante
-Qu'entends-je ?
-
--*who_labaronne
-      Pardonnez : pour finir vos malheurs,
-Cette conviction m'était trop nécessaire.
-
--*who_lagouvernante
-Madame, quel usage en avez-vous pu faire ?
-Fallait-il me trahir ? Jugez de mon regret,
-Et de quelle importance est pour moi mon secret,
-Puisque je le cachais à tout ce que j'adore,
-À ma fille, en un mot !
-
--*who_labaronne
-      Angélique l'ignore !
-
--*who_lagouvernante
-Et jamais de ma part elle n'en saura rien.
-
--*who_labaronne
-Eh ! Quoi, la pouvez-vous priver d'un si grand bien ?
-
--*who_lagouvernante
-Je la sers beaucoup mieux que vous ne pouvez croire.
-Eh ! Que lui produirait ma douloureuse histoire ?
-
--*who_labaronne
-Qu'en peut-il arriver, de lui faire savoir
-Sa naissance ?
-
--*who_lagouvernante
-      L'orgueil et l'affreux désespoir.
-Non, madame, laissons à cette infortunée
-L'esprit de son état, et de sa destinée.
-On n'est point malheureux, quand on peut ignorer
-Tout ce que l'on pourrait avoir à déplorer.
-J'ai dit ce qu'il fallait.
-
--*who_labaronne
-      Ah ! Ma chère comtesse,
-Mes soins n'ont point blessé votre délicatesse ;
-Croyez que je n'ai fait nul éclat indiscret.
-Aucun autre que moi ne sait votre secret ;
-J'ai su le ménager avec un soin extrême.
-Le président, qui veut être inconnu lui-même,
-Et qui m'en imposait la plus expresse loi,
-A daigné s'en fier aveuglément à moi ;
-Content de relever votre illustre famille,
-Madame, il ne connaît ni vous, ni votre fille ;
-Son bonheur lui suffit : en effet, il est tel
-Qu'il se croit à présent le plus heureux mortel.
-
-**** *book_ *id_III10 *act_III *date_1744
-
--*who_lepresident
-Madame, prenez part à ma douleur extrême ;
-Je croyais être heureux, vous l'avez cru vous-même ;
-Pour moi, tout votre zèle en vain s'est déployé.
-Je suis au désespoir, on m'a tout renvoyé ;
-Oui, tout m'est revenu.
-
--*who_labaronne
-      Ciel ! Quelle est ma surprise !
-
--*who_lepresident
-Il faut qu'absolument vous vous soyez méprise ;
-Et votre erreur me rend d'autant plus malheureux,
-Que j'avais pu me croire au comble de mes voeux.
-
--*who_labaronne
-Comment voulez-vous donc que je me justifie ?
-
--*who_lagouvernante
-Ah ! Je vois bien qu'il faut que je me sacrifie,
-Et que j'avoue enfin un secret échappé.
-C'est vous-même, monsieur, qui vous êtes trompé.
-
--*who_lepresident
-Est-elle du secret ?
-
--*who_labaronne
-      Elle sait tout.
-
--*who_lepresident
-      Qu'entends-je ?
-Votre indiscrétion me paraît bien étrange !
-
--*who_lagouvernante
-Vous me pardonnerez ce que j'ose avancer.
-Ce renvoi vous étonne ! Avez-vous dû penser
-Qu'il pût être permis à cette infortunée,
-De relever ainsi sa triste destinée,
-Et de vous dépouiller en cette occasion ?
-La générosité vous fait illusion.
-
--*who_lepresident
-De quel droit, s'il vous plaît, prenez-vous sa querelle ?
-
--*who_lagouvernante
-Ah ! Je n'en ai que trop, je puis parler pour elle ;
-Mettez-vous à sa place : auriez-vous accepté ?
-Elle a tout refusé ; ce n'est point par fierté,
-Par dédain, par mépris ; elle en est incapable.
-
--*who_lepresident
-Mais n'avouez-vous pas que son juge est coupable
-D'avoir été surpris ?
-
--*who_lagouvernante
-      Qui peut ne l'être pas ?
-
--*who_lepresident
-Il compte que l'erreur est un crime en ce cas,
-Et qu'il doit l'expier.
-
--*who_lagouvernante
-      La victime en appelle ;
-Il a cru bien juger, il est quitte envers elle.
-
--*who_lepresident
-Mais de son ministere il s'est mal acquitté.
-
--*who_lagouvernante
-Dès qu'il n'est point coupable aux yeux de l'équité,
-Il ne peut l'être aux yeux de cette infortunée ;
-Vous ne la vaincrez point, elle est déterminée :
-N'en parlons plus ; elle a subi son jugement,
-Le ciel même a pris soin du dédommagement.
-Comment ?
-
--*who_lagouvernante
-      En lui donnant la force et le courage
-D'accepter, de braver constamment son naufrage,
-De voir, d'envisager désormais le passé,
-Et tout ce qu'elle fut, comme un songe effacé
-Que l'on ne devrait plus offrir à sa mémoire.
-Dans son abaissement laissez-lui cette gloire ;
-C'est tout ce qu'elle veut.
-
--*who_lepresident
-      Je serais criminel...
-
--*who_lagouvernante
-Vous ne lui devez plus qu'un secret éternel.
-
-**** *book_ *id_III11 *act_III *date_1744
-
--*who_lepresident
-Pardonnez ma surprise, elle est trop légitime ;
-Je n'en saurais douter, voilà donc ma victime !
-C'est moi qui suis la sienne... ô refus douloureux !
-Dieux ! Qu'elle m'a rendu confus et malheureux !
-Que son abaissement l'élève et m'humilie !
-Ainsi j'aurai causé le malheur de sa vie ;
-Et pour le réparer mes soins sont sans effet,
-Elle veut à jamais me laisser mon forfait.
-Eh ! C'est trop se venger : unissons-nous contre elle.
-Je prétends m'acquitter ; la dette est trop cruelle.
-
--*who_labaronne
-J'admire, entre elle et vous, ces généreux combats.
-
--*who_lepresident
-Eh ! L'admiration ne la sauvera pas.
-
--*who_labaronne
-Aussi ne veux-je point y borner tout mon zèle.
-J'en ressens, comme vous, une peine mortelle :
-S'il est quelque moyen ; venez, j'ose espérer
-Que le ciel aura soin de nous le suggérer.
-
-**** *book_ *id_IV01 *act_IV *date_1744
-
--*who_lagouvernante
-Elle rêve... feignons de ne l'avoir pas vûe,
-Lorsque tous deux ont eu leur derniere entrevue.
-
--*who_angelique
-Vous m'avez fait chercher ?
-
--*who_lagouvernante
-      Oui : mon empressement
-Vous donne, je le vois, du refroidissement ;
-Il m'a, dans votre coeur, en secret desservie.
-
--*who_angelique
-Quand j'ai de l'amitié, c'est pour toute ma vie.
-
--*who_lagouvernante
-Puis-je vous demander, sans indiscrétion,
-S'il vous souvient encor d'une commission,
-Dont vous m'aviez chargée auprès de la baronne ?
-
--*who_angelique
-Vous me la rappelez... mais à propos... ma bonne...
-
--*who_lagouvernante
-Quoi ?
-
--*who_angelique
-      Si vous m'en croyez, sans trop précipiter,
-Vous attendrez encore à vous en acquitter.
-
--*who_lagouvernante
-Pourquoi ?
-      Dissimulons.
-
--*who_angelique
-      C'est qu'il faut que j'y pense.
-Mettez-vous à ma place en cette circonstance ;
-Il s'agit de quitter, et d'abandonner tout.
-
--*who_lagouvernante
-Le monde vous doit-il inspirer tant de goût ?
-Se peut-il qu'à vos yeux il offre tant de charmes
-Pour préférer d'y vivre au milieu des alarmes,
-Et de l'incertitude où je vois votre sort ?
-Lorsqu'à l'abri de tout, tranquille dans le port,
-On peut, ainsi que vous, se rendre fortunée,
-Faut-il mettre au hasard toute sa destinée ?
-On ne doute de rien dans le cours des beaux jours,
-On croit que l'avenir y répondra toujours.
-
--*who_angelique
-Je m'en flatte. Calmez vos frayeurs indiscrètes.
-
--*who_lagouvernante
-Vous vous éblouissez de l'état où vous êtes ;
-Et s'il vient à changer, que ferez-vous alors ?
-Le néant est caché sous de si beaux dehors ;
-La baronne vous aime, et j'en suis convaincue ;
-Mais d'un moment à l'autre, une mort imprévue
-Peut, en vous l'enlevant, vous laisser sans espoir.
-
--*who_angelique
-Vous mettez tout au pis.
-
--*who_lagouvernante
-      Je ne fais que prévoir.
-Je ne soutiendrai point cette disgrâce affreuse.
-
--*who_angelique
-Ne craignez rien pour moi, je serai plus heureuse.
-
--*who_lagouvernante
-Vous ne le voulez pas, j'en mourrai de douleurs,
-Et ce sera pour vous le moindre des malheurs.
-Je sais que la retraite, à des gens de votre âge,
-N'offre pas d'elle-même une riante image ;
-La jeunesse s'en fait un portrait peu charmant,
-Bientôt l'expérience en décide autrement.
-Que ne m'est-il permis de vous citer la mienne ?
-Mais vous n'y croirez pas, on ne croit que la sienne ;
-À tout ce qu'il vous plaît, il faut se conformer ;
-On ne veut pas vous perdre. Eh ! Qui pourrait former
-Un projet, un complot si cruel ? Non, vous dis-je,
-Un sacrifice entier n'est point ce qu'on exige :
-Bien loin de vous réduire à cette extrémité,
-Consentez seulement, pour un temps limité,
-D'essayer avec moi d'un séjour plus tranquille,
-Jusques au mariage...
-
--*who_angelique
-      Eh ! De qui ?
-
--*who_lagouvernante
-      De Sainville.
-Convient-il à vos yeux d'en être les témoins ?
-
--*who_angelique
-En parle-t-on ?
-
--*who_lagouvernante
-      Son père y donne tous ses soins.
-
--*who_angelique
-Et quelle est la future ?
-
--*who_lagouvernante
-      Une riche héritière ;
-C'est de quoi l'on m'a fait la confidence entière.
-
--*who_angelique
-On vous trompe.
-
--*who_lagouvernante
-      Eh ! Pourquoi voulez-vous vous flatter,
-Quand cet événement va bientôt éclater ?
-Je vous ai toujours dit que jamais l'hyménée
-N'attacherait Sainville à votre destinée ;
-Et s'il vous l'a juré, c'est le serment trompeur
-D'un traître, d'un perfide, et d'un lâche imposteur.
-
--*who_angelique
-À votre zèle ardent je me livre moi-même ;
-Mais n'allez pas plus loin, respectez ce que j'aime.
-
--*who_lagouvernante
-Vous l'aimez ?
-
--*who_angelique
-      Et jamais je n'aurai d'autre amour ;
-Oui, mon coeur le lui jure à chaque instant du jour :
-Je le dois, je remplis un devoir plein de charmes.
-
--*who_lagouvernante
-Un devoir ! ... excusez de trop vives alarmes ;
-Si j'ai tort, il en faut accuser l'amitié :
-Mais enfin, par tendresse autant que par pitié,
-Ne me direz-vous rien de plus de ce mystère ?
-Faut-il que je l'ignore ?
-
--*who_angelique
-      Oui, j'aurais dû me taire.
-
--*who_lagouvernante
-Eh ! Pourquoi me celer vos secrets les plus doux,
-À moi, qui ne puis être heureuse que par vous,
-Que par votre bonheur ? Je n'en puis avoir d'autre,
-Et vous me le cachez ? Quel refus est le vôtre ?
-Que vous ai-je donc fait pour l'avoir mérité ?
-
--*who_angelique
-L'état où je vous vois, et la nécessité
-De me justifier dans tout ce que j'adore,
-Vont vous ouvrir mon coeur.
-
--*who_lagouvernante
-      Quels secrets vont éclore ?
-
--*who_angelique
-Sainville n'est pas tel que vous l'avez pensé :
-Quels regrets vous aurez de l'avoir offensé !
-Cet hymen que l'on croit si prêt à se conclure,
-Ne se fera jamais, comptez que j'en suis sûre...
-Sainville est engagé.
-
--*who_lagouvernante
-      Ciel ! Quel est mon effroi !
-Sainville est engagé, dites-vous ?
-
--*who_angelique
-      Avec moi.
-
--*who_lagouvernante
-Qui ? Vous, Angélique ?
-
--*who_angelique
-      Oui, moi-même.
-
--*who_lagouvernante
-      Est-il possible ?
-
--*who_angelique
-Un noeud qu'à tous les yeux nous rendrons invisible,
-Nous enchaîne à jamais au gré de nos soupirs.
-Quoi ! N'était-ce pas-là l'objet de vos désirs ?
-Vous doutiez seulement que l'amour de Sainville
-Eût un but légitime ? Eh ! Bien, soyez tranquille.
-J'ai sa main et sa foi, mes destins sont les siens.
-
--*who_lagouvernante
-Eh ! De quel droit ?
-
--*who_angelique
-      Faut-il d'autres droits que les miens ?
-Mon aveu doit suffire, à ce que j'imagine :
-Ne m'avez-vous pas dit que j'étois orpheline,
-Et sans nulle fortune, à la merci du sort ?
-S'il est vrai, j'ai donc pû, sans avoir aucun tort,
-Ne prendre auparavant les ordres de personne.
-
--*who_lagouvernante
-Du moins vous auriez dû consulter la baronne :
-Peut-être auriez-vous pu me faire cet honneur...
-Mais, non, je ne crois point ce prétendu bonheur.
-
--*who_angelique
-Vous ne le croyez pas ? Il faut donc vous confondre.
-Tenez, voyez, lisez. Qu'aurez-vous à répondre ?
-Est-ce là, de sa foi, le garant immortel ?
-Dès que nous le pourrons, nous irons à l'autel,
-confirmer, en secret, cette union parfaite...
-vous en serez témoin... êtes-vous satisfaite ?
-Surtout, ne dites rien de ma félicité ;
-Gardez bien le secret.
-
--*who_lagouvernante
-      Cette nécessité
-de vous envelopper des ombres du mystère,
-Aurait dû vous donner un remords salutaire.
-Voyez quel est l'abîme où vous vous enchaînez !
-Ces noeuds défectueux, toujours infortunés,
-Sont un piège couvert d'une fausse espérance,
-Un écueil invisible aux yeux de l'innocence,
-Et qu'elle n'aperçoit que lorsqu'il n'est plus temps.
-Ah ! Pourquoi voulez-vous l'apprendre à vos dépens
-Eh ! N'est-on pas assez à plaindre quand on aime ?
-Un amant n'est déjà que trop fort par lui-même,
-Sans lui fournir encor des titres et des droits,
-Dont on a vu l'amour abuser tant de fois.
-
--*who_angelique
-Je ne serai jamais dans ce cas déplorable.
-
--*who_lagouvernante
-La sagesse n'est pas toujours inaltérable ;
-C'est en vain qu'on se flatte, et qu'on croit être sûr
-De ne brûler jamais que du feu le plus pur ;
-Malgré soi-même, enfin, l'on manque à sa promesse,
-Et l'on cède, par force, à sa propre faiblesse :
-Tout se découvre alors, un noeud si criminel
-Ne laisse, en se brisant, qu'un opprobre éternel.
-
--*who_angelique
-Cette femme n'a rien à voir que de funeste.
-Eh ! Tranquillisez-vous, je prendrai soin du reste.
-
--*who_lagouvernante
-Un si grand intérêt ne saurait vous toucher ;
-Je n'ajoute qu'un mot.
-
--*who_angelique
-      Je ne puis l'empêcher.
-
--*who_lagouvernante
-Sainville vous est cher ?
-
--*who_angelique
-      Cent fois plus que moi-même.
-
--*who_lagouvernante
-Eh ! Bien, vous le perdrez.
-
--*who_angelique
-      Ma surprise est extrême !
-Eh ! Comment ?
-
--*who_lagouvernante
-      Sa fortune est au-dessous de lui :
-Le plus riche parti se présente aujourd'hui ;
-S'il rejette, pour vous, l'hymen qu'on lui propose,
-Le président, surpris, en cherchera la cause :
-Craignez tout d'un courroux justement mérité ;
-N'en doutez pas, son fils sera déshérité,
-Et vous aurez causé son malheur et le vôtre ;
-Alors vous deviendrez à charge l'un à l'autre.
-Vous croyez que l'amour, qui vous unit tous deux,
-Vous tiendra lieu de tout ! Il fuit les malheureux :
-Il aime la fortune, et n'est pas plus fidèle ;
-On ne l'a que trop vu s'envoler avec elle,
-Et ne laisser à ceux qu'il avait enflammés,
-Que l'affreux désespoir de s'être trop aimés...
-Vous ne m'écoutez pas ?
-
--*who_angelique
-      Il est vrai, je ne songe
-Qu'à ma félicité.
-
--*who_lagouvernante
-      Mais ce n'est qu'un mensonge...
-Enfin, vous persistez ?
-
--*who_angelique
-      Oui, sans doute, à jamais.
-
--*who_lagouvernante
-Je n'ai donc plus qu'à voir si ces noeuds sont bien faits ;
-Je n'en sais pas assez touchant cette matière ;
-Pour prendre en ce papier une assurance entière,
-Il faut que je consulte.
-
--*who_angelique
-      Il n'en est pas besoin ;
-Je ne souffrirai pas que vous preniez ce soin.
-La moindre défiance est un manque d'estime ;
-Sainville, avec raison, pourrait m'en faire un crime.
-Je ne veux, contre lui, ni garants, ni témoins ;
-Je ne l'aimerais pas, si je l'estimais moins.
-
--*who_lagouvernante
-Pour plus de sûreté, souffrez que je m'informe ;
-Je crains que cet écrit ne pêche par la forme.
-
--*who_angelique
-Eh ! Que m'importe, à moi ? Mes voeux sont satisfaits.
-Je crois mieux les serments que Sainville m'a faits,
-Que tout ce qu'on pourrait vous dire : ainsi, ma bonne,
-Rendez-moi...
-
--*who_lagouvernante
-      Je ne puis.
-
--*who_angelique
-      Votre refus m'étonne !
-
--*who_lagouvernante
-Laissez-moi le garder, j'ose vous en prier.
-
--*who_angelique
-Non, vraiment... mais on vient...
-
-**** *book_ *id_IV02 *act_IV *date_1744
-
--*who_sainville
       Quel est donc ce papier
 Qu'elle cache avec soin ?
 
--*who_angelique
-      C'est notre mariage.
-Vous allez me gronder.
-
--*who_sainville
       Quel est donc ce langage ?
 Qu'avez-vous fait ?
 
--*who_angelique
-      J'ai cru pouvoir m'y confier.
-
--*who_sainville
 Qu'entends-je ?
 
--*who_angelique
-      J'ai tout dit, pour vous justifier.
-
--*who_sainville
 De quoi donc ?
 
--*who_angelique
-      Elle a tort ; il lui plaisait de croire
-Que vos feux offensaient votre honneur et ma gloire,
-Que l'hymen ne pouvant jamais les couronner,
-Au plus fatal espoir j'osais m'abandonner.
-À présent, je ne sais quel scrupule l'arrête ;
-Tenez, demandez-lui ce qu'elle a dans la tête.
-
--*who_lagouvernante
-Tout ce qu'on peut penser d'un hymen clandestin.
-
--*who_sainville
 Pouvions-nous autrement fixer notre destin
 Que par un noeud secret ? Il était nécessaire ;
 Mais enfin, je le sais, vous m'êtes trop contraire
@@ -2812,11 +486,6 @@ Ce n'est qu'à ses dépens qu'on corrompt ce qu'on aime.
 Connaissez mes désirs ; je borne tous mes droits
 Au seul titre secret...
 
--*who_lagouvernante
-      Ignorez-vous les lois
-Et les droits paternels ?
-
--*who_sainville
       Hélas ! Qui les ignore ?
 Je les sais comme vous ; mais je connais encore
 Un pouvoir au-dessus de leur autorité,
@@ -2827,22 +496,10 @@ Un fils au désespoir en peut tout espérer ;
 Mais j'ai fait un serment, rien ne peut l'altérer,
 Et c'est entre vos mains que je le renouvelle.
 
--*who_lagouvernante
-Je ne le reçois point.
-
--*who_angelique
-      Eh ! Soyez moins cruelle,
-Et consentez. D'abord que je réponds de lui...
-
--*who_sainville
 Eh ! Bien, séparez-nous, même dès aujourd'hui,
 C'était votre dessein ; loin que je le combatte,
 Je vous offre un moyen : la baronne vous flatte.
 
--*who_lagouvernante
-Comment ? Expliquez-vous.
-
--*who_sainville
       Je sais, à ce sujet,
 Qu'elle ne compte point remplir votre projet ;
 Elle adore Angélique ; et, malgré votre zèle,
@@ -2857,118 +514,35 @@ Recevez-le de moi, pour le garder vous-même,
 Et pour le rendre un jour à ma tendresse extrême.
 N'y consentez-vous pas jusqu'à des temps plus doux ?
 
--*who_angelique
-Moi, Sainville ? Ah ! Pourvu que je vive pour vous,
-au milieu des transports d'une si douce attente,
-Fût-ce dans un désert, je serai trop contente ;
-L'espérance tient lieu des biens qu'elle promet.
-Oui, ma bonne y consent... votre coeur s'y soumet.
-
--*who_lagouvernante
-Vous êtes-vous flattés, aveugles que vous êtes,
-que je me prêterais au complot que vous faites ?
-Voilà donc la vertu que vous me supposez ?
-C'est un enlèvement que vous me proposez.
-Pouvez-vous concevoir cette affreuse chimère ?
-Moi, je vous aiderais à trahir votre père,
-À son sang révolté je servirais d'appui ?
-La nature y répugne, et me parle pour lui.
-Eh ! Croyez que sa voix ne m'est pas étrangère.
-
--*who_sainville
 Mais songez qu'Angélique...
 
--*who_lagouvernante
-      Elle a beau m'être chère,
-Je ne porterai point un coup si douloureux
-Au mortel le plus digne et le plus généreux.
-
--*who_sainville
 Je ne veux que du temps, pour amener mon père
 À m'accorder enfin cet aveu que j'espère ;
 Il m'aime, je ne crains qu'un premier mouvement :
 Du moins, en attendant l'heureux événement,
 Gardez-nous le secret, ayez la complaisance...
 
--*who_lagouvernante
-Qui ? Moi ! Je garderais un coupable silence !
-Je me suis contenue autant que je l'ai pu ;
-Mais vous ne cessez point d'offenser la vertu.
-Vous doutez qu'on en puisse avoir dans la misère ;
-Il faudra prendre un juge.
-
-**** *book_ *id_IV03 *act_IV *date_1744
-
--*who_sainville
       Ah ! Grands dieux, c'est mon père
 Je frémis ! Elle est femme à lui révéler tout.
 Madame, gardez-vous de me pousser à bout.
 
--*who_lagouvernante
-Je ferai mon devoir.
-
--*who_sainville
       Qu'est-ce qu'elle m'annonce ?
 
--*who_lepresident
-Eh ! Bien, mon fils, je viens chercher votre réponse
-Au sujet d'un hymen qui flatte mes souhaits.
-Elle est entre mes mains, et je vous la remets.
-
--*who_lepresident
-Quoi donc ?
-
--*who_lagouvernante
-      Ceci n'a pas besoin que je l'explique.
-Mais en tout cas, monsieur, je vous laisse Angélique.
-
--*who_sainville
 Tout est perdu.
 
--*who_lagouvernante
-      Restez, attendez votre sort.
-
--*who_sainville
 Ce sera votre arrêt, et celui de ma mort.
 
-**** *book_ *id_IV04 *act_IV *date_1744
-
--*who_lepresident
-Dites-moi donc, Sainville, est-ce moi qui m'abuse ?
-Qu'ai-je lû ?
-
--*who_sainville
       Vous voyez ma faute et mon excuse.
 
--*who_lepresident
-Quel est donc cet écrit ?
-
--*who_sainville
       Le serment solennel
 Qui m'engage à lui rendre un hommage éternel.
 
--*who_lepresident
-Quoi donc ? êtes-vous libre ? Avez-vous pu promettre ?
-Et tant qu'il me plaira de ne le pas permettre,
-Pouvez-vous acquitter un semblable serment ?
-
--*who_sainville
 Eh ! Regardez, mon père, un objet si charmant.
 Voyez. Pouvais-je prendre une chaîne plus belle ?
 Rassurez-vous.
 
--*who_lepresident
-      C'est donc avec mademoiselle ?
-
--*who_sainville
 Oui, voilà mon vainqueur.
 
--*who_lepresident
-      Quelque soit votre choix,
-Ainsi donc vous croyez être au-dessus des loix ?
-Voilà de votre part un oubli qui me passe.
-
--*who_sainville
 Mon père, je sais tout ; mais je demande grâce :
 La forme est contre moi ; mais, sans aller plus loin,
 Voulez-vous mon bonheur ? Laissez-m'en donc le soin.
@@ -2979,12 +553,6 @@ Ah ! Voulez-vous m'ôter l'usage de mon coeur,
 Et des liens du sang me faire des entraves ?
 Les enfants sont-ils donc de malheureux esclaves ?
 
--*who_lepresident
-Non, mon fils ; mais enfin nous en savons plus qu'eux ;
-Ce n'est donc que par nous qu'ils peuvent être heureux,
-Et c'était-là le droit d'un père qui vous aime.
-
--*who_sainville
 Eh ! Que n'ai-je pas fait pour me vaincre moi-même ?
 Depuis plus de trois mois errant jusqu'à ce jour,
 J'ai cherché dans le monde à perdre mon amour ;
@@ -2995,108 +563,16 @@ Qu'en vain plus d'une fois les plaisirs m'ont offerts :
 À ce premier objet d'une flamme si belle,
 Le ciel même a voulu que je fusse fidele.
 
--*who_lepresident
-Oui, le ciel a tout fait. Eh ! Quelle illusion !
-Je ne vous parle point de la séduction
-Qu'on peut vous accuser d'avoir mis en usage ;
-Mon fils, j'aurois sur vous un trop grand avantage.
-
--*who_angelique
-Ah ! Monsieur, arrêtez ; il a dû me charmer.
-Est-ce séduction que de se faire aimer ?
-Reprochez-moi plutôt l'ardeur dont je l'enflamme.
-Oui, monsieur, c'est sur moi que doit tomber le blâme ;
-On séduit, quand on plaît sans l'avoir mérité.
-
--*who_lepresident
-Qu'il use, contre lui, de sa sévérité.
-Devait-il vous laisser ignorer qu'à votre âge,
-Se donner sur la foi d'un pareil mariage,
-Est un vol que l'on fait à ceux dont on dépend ?
-L'amour rend, comme un autre, un sage inconséquent.
-
--*who_angelique
-Il ne m'a point ravie à ceux dont je suis née,
-Dès ma plus tendre enfance ils m'ont abandonnée ;
-Il savait que je puis disposer de mon sort ;
-À cet égard encor vous l'accusez à tort.
-
--*who_lepresident
-Sans doute ; et je me dois rendre à cette chimère.
-
--*who_angelique
-Pourquoi non ?
-
--*who_lepresident
-      Une tante a les droits d'une mère.
-
--*who_angelique
-Eh ! Ne savez-vous pas ?...
-
--*who_lepresident
-      Quoi ?
-
--*who_angelique
-      Qu'elle ne m'est rien.
-
--*who_lepresident
-La baronne ?
-
--*who_angelique
-      Oui, monsieur, elle me veut du bien ;
-Mais...
-
--*who_lepresident
-      Comment ?
-
--*who_angelique
-      Je n'en suis point du tout héritière.
-
--*who_sainville
 C'en est fait.
 
--*who_lepresident
-      Quel soupçon !
-
--*who_sainville
       Ma disgrâce est entière.
 
--*who_lepresident
-Ce que vous m'apprenez...
-
--*who_angelique
-      Doit le justifier,
-Et vous autoriser à me sacrifier.
-
--*who_lepresident
-Quelle énigme !
-      En effet, vous n'êtes point sa nièce ?
-
--*who_angelique
-Non, monsieur, je ne dois ce nom qu'à sa tendresse.
-
--*who_lepresident
-À merveille.
-
--*who_sainville
       Il en est encor plus irrité.
 
--*who_angelique
-Ne faut-il pas toujours dire la vérité ?
-
--*who_lepresident
-Plus j'y songe... ah ! Grands dieux !
-
--*who_sainville
       Quel courroux vous enflamme !
 Un rapport enchanteur règne au fond de notre âme.
 Quels titres sont plus doux, quels biens ont plus d'appas !
 
--*who_lepresident
-Laissez-moi... serait-elle ?... Allons voir de ce pas
-La baronne.
-
--*who_sainville
       Ah ! Mon père, arrêtez, je vous prie ;
 Si vous nous séparez, il y va de ma vie.
 J'ai tort d'avoir formé ces noeuds sans votre aveu ;
@@ -3107,93 +583,589 @@ Puisse le ciel, qui lit dans mon coeur éperdu,
 Ajouter à vos jours ceux que j'aurais vécu,
 Si vous l'eussiez voulu ! Que faut-il que j'espère ?
 
--*who_lepresident
-Eh ! Rapportez-vous-en, de grâce, à votre père :
-Croyez que je prendrai le plus sage parti ;
-Bientôt de votre sort vous serez averti.
-Rentrez...
-      Et vous, allez retrouver votre bonne.
-Sortez, vous dis-je.
-      Et nous, allons chez la baronne
-La forcer de céder à mon empressement ;
-Il faut que j'en obtienne un éclaircissement.
-
-**** *book_ *id_V01 *act_V *date_1744
-
--*who_juliette
-Je vous dis qu'en un mot cela n'est pas possible ;
-Ni pour moi, ni pour vous, elle n'est pas visible :
-L'accès près d'Angélique est si bien interdit,
-Qu'avec tout votre amour, avec tout mon esprit...
-
--*who_sainville
 Mais comment ?
 
--*who_juliette
-      C'est un fait : elle est comme enchaînée ;
-La porte du jardin vient d'être condamnée ;
-Car on a bien pensé que vraisemblablement
-Vous pourriez en venir à quelque enlèvement.
-
--*who_sainville
 J'aurais eu cette idée ?
 
--*who_juliette
-      Enfin, on l'a prévue.
-
--*who_sainville
 Et que dit Angélique ?
 
--*who_juliette
-      Il faudrait l'avoir vue :
-Mais il vous est aisé de vous l'imaginer ;
-Sans se voir, quand on s'aime, on peut se deviner.
-
--*who_sainville
 Ah ! Mon père, sans doute, achève la vengeance !
 Et la baronne est-elle aussi d'intelligence ?
 
--*who_juliette
-Je ne sais, mais souvent, au déclin des beaux jours,
-Notre sexe prend moins le parti des amours.
-
--*who_sainville
 Ils me l'enlèveront... ma perte est résolue ;
 Je veux la voir, dûssé-je expirer à sa vûe.
 
-**** *book_ *id_V02 *act_V *date_1744
+Ah ! Vous me trahissez.
 
--*who_juliette
-Je commence à douter qu'il soit si doux d'aimer ;
-D'abord, la seule idée avait su me charmer :
-Je le croyais le bien le plus grand de la vie ;
-Ce que j'en vois m'en fait presque passer l'envie.
-Quand l'amour tourne à mal, c'est un cruel vainqueur ;
-Il est vrai : cependant, que faire de son coeur ?
+Cruelle ! Il est donc vrai que vous lui pardonnez !
+À ses séductions vous vous abandonnez !
+Elle triomphe encore !
 
-**** *book_ *id_V03 *act_V *date_1744
+Quel obstacle cruel ! ... ô sort plein de rigueur !
+Madame... dites-vous... elle aurait ce bonheur ?
 
--*who_juliette
-Comment ! Vous voilà seule ?
+      Elle doit en faire aussi la sienne.
+C'est votre mère ? ... Eh ! Bien, soyez aussi la mienne.
+Eh ! Madame, d'où vient cette opposition ?
+Je ne reconnais point de disproportion ;
+La nature et l'amour ne l'ont jamais admise.
 
--*who_angelique
+Ah ! Vous m'allez quitter ! Votre fuite s'apprête !
+Vous méditez ma mort !
+
+Que dites-vous ?
+
+Barbares, arrêtez...
+
+      Ah ! Madame ! Ah ! Mon père !
+Vous n'avez plus de fils.
+
+      Je n'y survivrai pas.
+Ah ! Madame, c'est vous qui voulez mon trépas.
+
+      Vous permettez qu'Angélique me fuie ;
+Sa mère me l'arrache, elle emporte ma vie.
+
+      Arrêtez donc leurs pas ;
+Mais un père cruel n'y consentira pas.
+
+Ciel ! Qu'entends-je ?
+
+Ah ! Quel bonheur ! La vie, au prix de ce bienfait,
+Est le moindre présent que vous nous ayez fait.
+
+
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_angelique
+
+      Hélas !
+
+      Je n'ai plus rien à dire.
+
+Je ne te parlais pas alors d'un infidèle.
+
+Où parle la raison, le dépit doit se taire ?
+
+Oui.
+
+      Non, ce guide propice
+A porté la lumière au fond du précipice
+Où j'aurais essuyé le plus grand des malheurs.
+
+Non, je n'ai plus en lui la moindre confiance.
+Où m'allait entraîner mon peu d'expérience !
+Eh ! Comment pouvons-nous ne nous pas égarer ?
+Comment fuir les dangers qu'on nous laisse ignorer ?
+À qui notre jeunesse est-elle confiée ?
+Hélas ! Pour l'ordinaire elle est sacrifiée.
+Quel est le sort du sexe ! Ah ! Juliette, il s'ensuit
+Qu'on croit qu'il ne vaut pas la peine d'être instruit.
+
+Je voudrais l'avoir eue en sortant du couvent :
+oui, Juliette, ce sont quatre ans que je regrette.
+
+Tu nommes négligence un total abandon !
+L'excuse n'a plus lieu non plus que le pardon.
+
+      Ils l'auront fait changer.
+
+Qu'il y reste, et s'y fasse un nom bien éclatant.
+Juliette, je médite un projet important.
+
+Je voudrais être encor dans mon premier asile.
+
+Le monde n'a plus rien qui me plaise. Aujourd'hui ;
+Mais demain il pourra vous plaire davantage.
+Le dépit prend toujours le parti le moins sage.
+Demeurez... les absents sont bientôt oubliés.
+La baronne vous fait mille et mille amitiés ;
+elle a pour vous les yeux de la plus tendre mère ;
+C'est une tante enfin comme il ne s'en voit guère ;
+Mais si vous ne restez sous ses yeux, j'ai bien peur
+Qu'un autre ne parvienne à vous ôter son coeur,
+Et qu'avec un époux elle ne s'en console.
+La veuve la plus sage est toujours assez folle
+Pour se remarier ; cela se voit souvent.
+Il ne sera plus temps de sortir du couvent ;
+Il y faudra gémir, enrager comme une autre,
+Et pleurer à la fois sa folie et la vôtre :
+Je vous en avertis, craignez cet incident.
+Mais la voici qui vient avec le président.
+Sortons.
+
+Ma bonne, embrassez-moi. Que je suis satisfaite !
+
+      Ma victoire est complète.
+
+Que j'ai tout renvoyé, je n'en ai rien sauvé.
+J'ignorais qu'on aimât si fort ces bagatelles ;
+Je n'ai pu m'en priver sans des peines mortelles :
+Je les regrette encor ; mais j'ai fait mon devoir.
+Ah ! Je suis bien vengée ; il est au désespoir.
+
+      Non ; il n'est pas homme à feindre,
+Et Juliette m'a dit qu'il était fort à plaindre.
+
+      Mais, entre nous,
+Me voilà donc réduite à ne voir plus personne ?
+Car vous m'ordonnerez, du moins je le soupçonne,
+De ne plus voir Sainville.
+
+Mais s'il m'écrit ?
+
+      Ah ! Sans doute.
+
+      Ah ! Vous faites de moi tout ce que vous voulez.
+
+      Hélas !
+
+L'honneur est donc toujours l'ennemi de l'amour ?
+
+Et pourquoi donc le mien vous semble-t-il un crime ?
+
+Eh ! Pour qui donc Sainville et moi sommes-nous faits ?
+
+Et par quelle raison ? N'est-elle pas ma tante ?
+
+      Que dites-vous ?
+
+Mais encor, pourquoi donc ?
+
+Depuis plus de quatre ans que je suis avec elle,
+Elle fait tout pour moi.
+
+Mais d'où provenait donc cet abandon total ?
+
+Vous vous attendrissez. Vous les avez connus ?
+S'il est vrai, dites-moi ce qu'ils sont devenus,
+Ne me cachez plus rien.
+
+Ah ! Grands dieux ! Et ma mère alors que devint-elle ?
+
+Sans doute que depuis un si malheureux jour,
+Elle n'a pu survivre à ce coup si funeste ;
+Vos larmes, vos soupirs m'apprennent tout le reste.
+
+Ah ! Quelle différence !
+
+Et le plus tendre amour n'est donc rien dans la vie ?
+Au gré de la fortune il faut qu'on se marie.
+Pourvu qu'on soit bien riche, on est donc bien content ?
+Je ne l'aurais pas cru.
+
+Vous découvrez l'abîme où j'allais me plonger.
+Que de combats vont être arrosés de mes larmes !
+Ce n'est que loin de lui que je trouve des armes.
+Je dois vous avouer que mon coeur révolté
+Sur mes réflexions l'a toujours emporté ;
+Et si je reste ici...
+
+      Où donc, ma bonne ?
+
+Je ne puis avouer ma honte qu'à moi-même.
+
+Vous n'êtes pas un tiers entre mon coeur et moi.
+N'est-il que ce moyen ? Si je vous intéresse,
+Ma bonne, sauvez-moi l'aveu de ma faiblesse.
+
+Disposez d'un aveu que je vous abandonne,
+Chargez-vous-en vous-même auprès de la baronne.
+
+      Oui, je vous le permets.
+
+      Non, je vous le promets.
+
+      Attendez... partez, volez, ma bonne :
+Je pourrais révoquer l'ordre que je vous donne.
+
+      Écoutez ; c'est à condition,
+Si l'on daigne accepter ma proposition,
+Que vous viendrez aussi, que nous vivrons ensemble ;
+Je me soumets à tout, pourvu qu'on nous rassemble.
+N'y consentez-vous pas ?
+
+Ah ! Je pourrai du moins soupirer dans son sein ;
+Car je ne compte pas guérir de ma faiblesse.
+
+      Tu lui diras que non.
+
+Qui ? Toi !
+
+      Eh ! Bien, je ne veux plus t'entendre.
+
+      Je n'en ai plus à rendre.
+
+      Je n'obéis qu'à moi.
+
+De grâce, finissons ; je ne vois que trop bien
+Quel est le but secret de ce bel entretien.
+
+      Va, je sais qui t'envoie.
+
+Quoi ! Tu me soutiendras ?
+
+Tu ne viens pas exprès pour trouver le moyen
+D'apaiser, s'il se peut, une amante outragée ?
+
+Que m'importe ?
+
+Sans doute.
+
+      Je n'y toucherais pas.
+
+Qu'as-tu donc ?
+
+      Qu'est-ce ?
+
+Ah ! La belle finesse !
+
+      Va, je sais ce que c'est.
+Il faut, pour m'attraper, être un peu plus habile.
+Ce billet qu'on t'apporte est...
+
+      De Sainville.
+
+      Je gagerais.
+
+      Que fais-tu ?
+
+      Je dirai que je ne l'ai pas lu.
+
+Arrête, ou je m'en vais.
+
+Lis, puisque tu le veux ; mais je n'entendrai pas.
+
+      Dieux ! Qu'est-ce que j'entends ?
+
+Est-ce à moi qu'on écrit ?... Regardons le dessus.
+
+Elle est de mon perfide.
+
+Oui, Juliette, elle en est ; c'est à moi qu'il écrit,
+Et c'est lui qui m'outrage après m'avoir trahie,
+Et qui joint le mépris avec la perfidie...
+Poursuis.
+
+      Quelle était mon erreur !
+Achève, j'ai besoin de l'avoir en horreur.
+
+      Aimer sans espérance
+Est un état cruel. Mais quelle différence !
+Haïr est le tourment le plus affreux de tous.
+Donne-moi ce billet.
+
+Fuyons, sans doute il vient jouir de son forfait.
+
+      Tenez, voilà votre billet.
+
+      Autre insulte mortelle.
+
+De peur que je n'en doute encore, il en convient.
+
+C'en est trop.
+
+      Auriez-vous bien l'audace,
+Auriez-vous la fureur de m'insulter en face ?
+
+      Feignez de l'ignorer.
+
+Perfide, on n'en doit point à ceux qui nous outragent.
+
+Cessez de m'arrêter.
+
+Mais à quoi servira...
+
+Puisqu'il convient de tout, c'est un soin superflu.
+
+Vous lisez faux.
+      Voyez.
+
+Il a raison... Juliette.
+
+Mais, quoi !
+
+Voilà ce que j'ai craint... Sainville, il n'est plus temps,
+Je retourne au couvent.
+
+      Et sans doute la mienne.
+J'ai donné ma parole, il faut que je la tienne.
+
+On est allé, pour moi, le demander en grâce.
+
+      Voilà ce qui se passe,
+J'en attends la réponse : et je vous dirai plus,
+Je tremble...
+
+      De n'avoir qu'un refus.
+
+Entendez mes raisons, sans vous mettre en colère.
+
+Auriez-vous ce dessein ?
+
+On l'a craint.
+
+On a jugé bien mal de l'amour de Sainville.
+
+Ah ! Sainville.
+
+Vous ne savez pas tout.
+
+J'ignore qui sont ceux à qui je dois le jour.
+Vous croyez que je suis nièce de la baronne ?
+
+      Il n'en est rien, je ne tiens à personne.
+
+Quoi ! Malgré cet aveu ?
+
+Je pourrais être à vous ?
+
+Mais, Sainville, comment retirer ma promesse ?
+
+      Que vois-je ! C'est ma bonne !
+
+Trop de confusion a glacé mon courage.
+
+Je ne puis que rougir, me taire, et soupirer.
+
+      Non, quoi que je me dise,
+Je ne puis revenir d'avoir été surprise.
+
+C'est elle qui me cause aussi le plus d'effroi.
+
+Sa raison, sa vertu.
+
+Je ne sais, mais je sens qu'elle ne me dit rien,
+Qui véritablement ne soit que pour mon bien :
+C'est un fait ; mais j'ai beau m'en convaincre moi-même,
+Quelle conviction tient contre ce qu'on aime ?
+Quand Sainville paraît, tout est évanoui.
+
+      Eh ! Vraiment, oui.
+
+      C'est à notre sujet.
+
+Hélas ! Vous le pouvez ; je répondrai de même.
+Que vois-je dans vos yeux ?
+
+D'où vient ?
+
+      Vous ! Quel trouble est le mien !
+
+Eh ! Bien ?
+
+De quoi me grondez-vous ? Puis-je aimer davantage ?
+
+Laissez-moi vous aimer comme je puis aimer.
+
+      Qui peut vous alarmer ?
+
+À subir cet arrêt je dois me préparer ;
+Mais sans nous désunir on peut nous séparer.
+
+Que me reprochez-vous ?
+
+Eh ! N'avais-je pas lieu de vous croire infidèle ?
+
+Ne m'écrirez-vous pas ?
+
+Mais je les lirai seule.
+
+Je vois, en frémissant, quel péril nous menace.
+Puis-je le détourner ? Que faut-il que je fasse ?
+
+Quel est donc ce papier ?
+
+Eh ! Le puis-je ?
+
+      Quel courroux vous enflamme ?
+
+      Oui, c'est la vérité ;
+Je n'ai point de parents, du moins que je connaisse.
+Mais, quoi ! Puis-je, à mon âge, être assez ma maîtresse,
+Pour que mon seul aveu dispose de ma main ?
+
+Une raison n'est pas un refus.
+
+Mais si je consultais...
+
+Tenez, vous me traitez avec trop de rigueur ;
+Vous me troublez si fort, qu'à peine je respire :
+Je ne sais déjà plus ce que j'avais à dire.
+
+Eh ! Je crains ma raison autant que mon amour.
+
+Ah ! Ciel !
+
+      Eh ! Bien, je vais signer :
+Mais vous en répondrez.
+
+      Vous ne pardonnez rien.
+
+      Ah ! Quelle tyrannie !
+
+      Ah ! J'ai le coeur transi.
+
+Vous m'avez fait chercher ?
+
+Quand j'ai de l'amitié, c'est pour toute ma vie.
+
+Vous me la rappelez... mais à propos... ma bonne...
+
+      Si vous m'en croyez, sans trop précipiter,
+Vous attendrez encore à vous en acquitter.
+
+      C'est qu'il faut que j'y pense.
+Mettez-vous à ma place en cette circonstance ;
+Il s'agit de quitter, et d'abandonner tout.
+
+Je m'en flatte. Calmez vos frayeurs indiscrètes.
+
+Vous mettez tout au pis.
+
+Ne craignez rien pour moi, je serai plus heureuse.
+
+      Eh ! De qui ?
+
+En parle-t-on ?
+
+Et quelle est la future ?
+
+On vous trompe.
+
+À votre zèle ardent je me livre moi-même ;
+Mais n'allez pas plus loin, respectez ce que j'aime.
+
+      Et jamais je n'aurai d'autre amour ;
+Oui, mon coeur le lui jure à chaque instant du jour :
+Je le dois, je remplis un devoir plein de charmes.
+
+      Oui, j'aurais dû me taire.
+
+L'état où je vous vois, et la nécessité
+De me justifier dans tout ce que j'adore,
+Vont vous ouvrir mon coeur.
+
+Sainville n'est pas tel que vous l'avez pensé :
+Quels regrets vous aurez de l'avoir offensé !
+Cet hymen que l'on croit si prêt à se conclure,
+Ne se fera jamais, comptez que j'en suis sûre...
+Sainville est engagé.
+
+      Avec moi.
+
+      Oui, moi-même.
+
+Un noeud qu'à tous les yeux nous rendrons invisible,
+Nous enchaîne à jamais au gré de nos soupirs.
+Quoi ! N'était-ce pas-là l'objet de vos désirs ?
+Vous doutiez seulement que l'amour de Sainville
+Eût un but légitime ? Eh ! Bien, soyez tranquille.
+J'ai sa main et sa foi, mes destins sont les siens.
+
+      Faut-il d'autres droits que les miens ?
+Mon aveu doit suffire, à ce que j'imagine :
+Ne m'avez-vous pas dit que j'étois orpheline,
+Et sans nulle fortune, à la merci du sort ?
+S'il est vrai, j'ai donc pû, sans avoir aucun tort,
+Ne prendre auparavant les ordres de personne.
+
+Vous ne le croyez pas ? Il faut donc vous confondre.
+Tenez, voyez, lisez. Qu'aurez-vous à répondre ?
+Est-ce là, de sa foi, le garant immortel ?
+Dès que nous le pourrons, nous irons à l'autel,
+confirmer, en secret, cette union parfaite...
+vous en serez témoin... êtes-vous satisfaite ?
+Surtout, ne dites rien de ma félicité ;
+Gardez bien le secret.
+
+Je ne serai jamais dans ce cas déplorable.
+
+Cette femme n'a rien à voir que de funeste.
+Eh ! Tranquillisez-vous, je prendrai soin du reste.
+
+      Je ne puis l'empêcher.
+
+      Cent fois plus que moi-même.
+
+      Ma surprise est extrême !
+Eh ! Comment ?
+
+      Il est vrai, je ne songe
+Qu'à ma félicité.
+
+      Oui, sans doute, à jamais.
+
+      Il n'en est pas besoin ;
+Je ne souffrirai pas que vous preniez ce soin.
+La moindre défiance est un manque d'estime ;
+Sainville, avec raison, pourrait m'en faire un crime.
+Je ne veux, contre lui, ni garants, ni témoins ;
+Je ne l'aimerais pas, si je l'estimais moins.
+
+Eh ! Que m'importe, à moi ? Mes voeux sont satisfaits.
+Je crois mieux les serments que Sainville m'a faits,
+Que tout ce qu'on pourrait vous dire : ainsi, ma bonne,
+Rendez-moi...
+
+      Votre refus m'étonne !
+
+Non, vraiment... mais on vient...
+
+      C'est notre mariage.
+Vous allez me gronder.
+
+      J'ai cru pouvoir m'y confier.
+
+      J'ai tout dit, pour vous justifier.
+
+      Elle a tort ; il lui plaisait de croire
+Que vos feux offensaient votre honneur et ma gloire,
+Que l'hymen ne pouvant jamais les couronner,
+Au plus fatal espoir j'osais m'abandonner.
+À présent, je ne sais quel scrupule l'arrête ;
+Tenez, demandez-lui ce qu'elle a dans la tête.
+
+      Eh ! Soyez moins cruelle,
+Et consentez. D'abord que je réponds de lui...
+
+Moi, Sainville ? Ah ! Pourvu que je vive pour vous,
+au milieu des transports d'une si douce attente,
+Fût-ce dans un désert, je serai trop contente ;
+L'espérance tient lieu des biens qu'elle promet.
+Oui, ma bonne y consent... votre coeur s'y soumet.
+
+Ah ! Monsieur, arrêtez ; il a dû me charmer.
+Est-ce séduction que de se faire aimer ?
+Reprochez-moi plutôt l'ardeur dont je l'enflamme.
+Oui, monsieur, c'est sur moi que doit tomber le blâme ;
+On séduit, quand on plaît sans l'avoir mérité.
+
+Il ne m'a point ravie à ceux dont je suis née,
+Dès ma plus tendre enfance ils m'ont abandonnée ;
+Il savait que je puis disposer de mon sort ;
+À cet égard encor vous l'accusez à tort.
+
+Pourquoi non ?
+
+Eh ! Ne savez-vous pas ?...
+
+      Qu'elle ne m'est rien.
+
+      Oui, monsieur, elle me veut du bien ;
+Mais...
+
+      Je n'en suis point du tout héritière.
+
+      Doit le justifier,
+Et vous autoriser à me sacrifier.
+
+Non, monsieur, je ne dois ce nom qu'à sa tendresse.
+
+Ne faut-il pas toujours dire la vérité ?
+
       Ah ! Laisse-moi tranquille.
 
--*who_juliette
-Allons, tout au plus vite, en avertir Sainville.
-
-**** *book_ *id_V04 *act_V *date_1744
-
--*who_lagouvernante
-Ah ! Ciel, je te rends grâce... Eh ! Daignez me parler.
-
--*who_angelique
 Non, cruelle.
 
--*who_lagouvernante
-      Arrêtez. Où voulez-vous aller ?
-
--*who_angelique
 Que m'importe à présent, pourvu que je vous fuie ?
 Ne vous attendez plus, après m'avoir trahie,
 Que je veuille avec vous passer mes tristes jours.
@@ -3201,89 +1173,37 @@ Non, entre vous et moi, c'en est fait pour toujours.
 Je supporterai tout, pourvu qu'on nous sépare.
 Vous prononcez bien vite un arrêt si barbare.
 
--*who_angelique
 C'est qu'il est dans mon coeur.
 
--*who_lagouvernante
-      Juste ciel, quel aveu !
-
--*who_angelique
 Non, ce faux désespoir vous avancera peu.
 Je ne croirai jamais que vous m'ayez aimée.
 
--*who_lagouvernante
-Eh ! De quels sentiments suis-je donc animée ?
-
--*who_angelique
 D'un zèle amer, toujours trop inconsidéré,
 Porté jusqu'à l'excès le plus immodéré,
 Et qui vient de m'ôter le bonheur de ma vie.
 
--*who_lagouvernante
-Il n'était qu'apparent.
-
--*who_angelique
       Laissez-moi, je vous prie ;
 Dans toutes vos raisons je ne veux plus entrer.
 Quelle fatalité nous a fait rencontrer !
 Je rendais grâce au ciel d'un présent si funeste !
 Aveugle que j'étais !
 
--*who_lagouvernante
-      Ce ciel que j'en atteste,
-Connaît si je vous aime. Hélas ! Jusqu'à ce jour,
-Qu'ai-je fait qui ne serve à prouver mon amour,
-À mériter le vôtre ?
-
--*who_angelique
       Ah ! Grands dieux ! à quel titre !
 
--*who_lagouvernante
-Je pourrais à présent vous en rendre l'arbitre.
-
--*who_angelique
 Quel intérêt cruel vous attache si fort ?
 Pourquoi vous êtes-vous subordonné mon sort ?
 D'où vous arrogez-vous ce pouvoir tyrannique ?
 
--*who_lagouvernante
-Eh ! Non, il ne l'est pas... Ah ! Ma chère Angélique !
-
--*who_angelique
 Moi ?
 
--*who_lagouvernante
-      Vous ; pour un moment, laissez couler mes pleurs.
-
--*who_angelique
 Ne me voilà-t-il pas sensible à ses douleurs,
 Et presque hors d'état de soutenir ses larmes ?
 Quel est cet ascendant ? Où prenez-vous vos armes ?
 
--*who_lagouvernante
-Au fond de votre coeur, qui ne peut se trahir,
-Et qui ne parviendra jamais à me haïr.
-
--*who_angelique
 Je ne vous conçois pas.
 
--*who_lagouvernante
-      Vous êtes étonnée
-De me voir si sensible à votre destinée ?
-Vous demandez pourquoi : craignez de le savoir.
-Par un ménagement que j'ai cru vous devoir,
-Je m'étais à jamais condamnée à me taire :
-Vous le voulez, il faut dévoiler ce mystère,
-Et vous causer peut-être un éternel regret.
-Que vais-je découvrir ?
-
--*who_angelique
       Quel est donc ce secret ?
 
--*who_lagouvernante
-Vous dépendez...
-
--*who_angelique
       Comment ! De qui puis-je dépendre ?
 Autant qu'il m'en souvient, vous m'avez fait entendre
 Que vous connaissiez ceux à qui je dois le jour.
@@ -3294,221 +1214,378 @@ Qu'en ma plus tendre enfance à peine ai-je pu voir ?
 Vous a-t-elle en mourant laissé tout son pouvoir ? ...
 Vous la pleurez ?
 
--*who_lagouvernante
-      Le ciel n'a point fini sa vie.
-
--*who_angelique
 Que dites-vous ? La mort ne me l'a point ravie ?
 Achevez donc.
 
--*who_lagouvernante
-      Je n'ose.
-
--*who_angelique
       Elle vit ?
 
--*who_lagouvernante
-      Hélas ! Oui ;
-Et c'est pour vous aimer.
-
--*who_angelique
       Ô bonheur inouï !
 Je vous pardonne tout. Ah ! Ciel ! Quelle est ma joie !
 Ma bonne, absolument il faut que je la voie ?
 
--*who_lagouvernante
-Cessez...
-
--*who_angelique
       Par ces refus cruels, injurieux,
 Vous me désespérez... que vois-je dans vos yeux ?
 
--*who_lagouvernante
-Lui pardonnerez-vous son état et le vôtre ?
-
--*who_angelique
 Ah ! Vous êtes ma mère ; oui, je n'en veux point d'autre.
 Tout me le dit ; cédez, et qu'un aveu si doux
 Couronne tous les biens que j'ai reçus de vous.
 
--*who_lagouvernante
-Eh ! Bien, vous la voyez. Puisque je vous suis chère,
-La nature triomphe, et vous rend votre mère.
-
--*who_angelique
 Ah ! Ciel ! Mais quel remords vient déchirer mon coeur !
 C'est vous que j'ai traitée avec tant de rigueur !
 
--*who_lagouvernante
-Ma fille, oublions tout. Je crains qu'on ne m'entende ;
-Cachons notre secret, je vous le recommande.
-M'en croirez-vous ? Laissons régner ici la paix.
-Vous voyez notre état ; renoncez pour jamais
-À l'espoir d'un hymen hors de toute apparence.
-Que sacrifiez-vous ? Une folle espérance.
-Dans le sein de l'oubli, cherchons un sort plus doux ;
-Abandonnons le monde, il n'est pas fait pour nous.
-
--*who_angelique
 Je me rends, et je sens que ce n'est que la fuite
 Qui pourra garantir mon âme trop séduite.
 Mais, hélas ! Comment fuir ?
 
--*who_lagouvernante
-      Le ciel en a pris soin ;
-De la baronne, enfin, vous n'avez plus besoin.
-Un parent éloigné, dont j'étais héritière,
-A depuis quelques jours terminé sa carrière ;
-Je viens de le savoir, et que dès-à-présent
-Nous jouissons d'un bien qui sera suffisant
-Pour vivre, loin du monde, en une aisance honnête.
-Partons secrètement, que rien ne nous arrête ;
-Et, pour nous dérober, allons tout préparer.
-
--*who_angelique
 Quoi ! Si-tôt pour jamais il faut s'en séparer !
 
--*who_lagouvernante
-Nous ne saurions trop tôt quitter cette demeure.
-
--*who_angelique
 Que va-t-il devenir ? Quoi ! Partir tout-à-l'heure,
 Sans se revoir du moins pour la dernière fois !
 
--*who_lagouvernante
-Obtenez ce triomphe.
-
--*who_angelique
       Il le faut, je le dois...
 Arrachez-moi d'ici ; je me perds, si je reste.
 
-**** *book_ *id_V05 *act_V *date_1744
-
--*who_sainville
-Ah ! Vous me trahissez.
-
--*who_lagouvernante
-      Quel contre-tems funeste !
-
--*who_sainville
-Cruelle ! Il est donc vrai que vous lui pardonnez !
-À ses séductions vous vous abandonnez !
-Elle triomphe encore !
-
--*who_angelique
       Arrêtez ! C'est ma mère...
 Si vous saviez combien elle doit m'être chère !
 
--*who_sainville
-Quel obstacle cruel ! ... ô sort plein de rigueur !
-Madame... dites-vous... elle aurait ce bonheur ?
-
--*who_angelique
 J'en fais gloire.
 
--*who_sainville
-      Elle doit en faire aussi la sienne.
-C'est votre mère ? ... Eh ! Bien, soyez aussi la mienne.
-Eh ! Madame, d'où vient cette opposition ?
-Je ne reconnais point de disproportion ;
-La nature et l'amour ne l'ont jamais admise.
-
--*who_lagouvernante
-Tant de félicité ne nous est pas permise.
-Un inutile espoir vous enivrait tous deux ;
-La fortune s'oppose au succès de vos voeux.
-
--*who_sainville
-Ah ! Vous m'allez quitter ! Votre fuite s'apprête !
-Vous méditez ma mort !
-
--*who_lagouvernante
-      Que rien ne nous arrête.
-
--*who_angelique
 Nous ne nous verrons plus, recevez mes adieux.
 
--*who_sainville
-Que dites-vous ?
-
--*who_angelique
       Lisez le reste dans mes yeux.
 
--*who_sainville
-Barbares, arrêtez...
-
-**** *book_ *id_V06 *act_V *date_1744
-
--*who_sainville
-      Ah ! Madame ! Ah ! Mon père !
-Vous n'avez plus de fils.
-
--*who_lagouvernante
-      Vous voyez ce qu'opère
-Votre indiscrétion.
-
--*who_sainville
-      Je n'y survivrai pas.
-Ah ! Madame, c'est vous qui voulez mon trépas.
-
--*who_labaronne
-Qui ? Moi !
-
--*who_sainville
-      Vous permettez qu'Angélique me fuie ;
-Sa mère me l'arrache, elle emporte ma vie.
-
--*who_labaronne
-Voilà ce que j'ignore.
-
--*who_sainville
-      Arrêtez donc leurs pas ;
-Mais un père cruel n'y consentira pas.
-
--*who_lepresident
-Qui vous dit que j'exige un si grand sacrifice ?
-Nos enfants n'ont jamais su nous rendre justice.
-Madame, épargnons-nous des discours superflus.
-Nous nous connaissons tous, ne dissimulons plus ;
-Ce désaveu cruel n'a rien qui m'en impose.
-J'ai voulu réparer les maux dont je suis cause ;
-Vos refus m'ont porté le poignard dans le sein :
-Madame en est témoin. Est-ce votre dessein
-Que le père et le fils périssent l'un par l'autre ?
-C'en est fait si mon sang ne s'associe au vôtre.
-Ah ! Daignez nous admettre aux titres les plus doux.
-
--*who_angelique
 Ma mère, il y consent.
 
--*who_lepresident
-      Pourquoi nous fuyez-vous ?
 
--*who_lagouvernante
-Si nous fuyons, ce n'est que par reconnaissance.
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_juliette
 
--*who_labaronne
-Ah ! Comtesse, agréez cette heureuse alliance.
+Angélique, est-ce tout ? Faites-vous violence :
+Je voudrais bien savoir à quoi sert le silence
+Il ne guérit de rien ; au contraire, il aigrit
+Les maux et les tourments du coeur et de l'esprit.
+Se taire est n'être plus qu'une ombre qui s'ennuie ;
+Le babil est le charme et l'âme de la vie...
+Vous ne répondez rien ! Quel est donc votre but,
+Et votre idée ?
 
--*who_sainville
-Ciel ! Qu'entends-je ?
+      Un soupir ! Beau début !
+Après, continuez.
 
--*who_lepresident
-      Souffrez qu'un accord si charmant
-Puisse au moins vous servir de dédommagement.
+On n'a que trop de quoi parler quand on soupire.
+Où sont donc ces transports, cette vivacité ?
+Nos entretiens faisaient votre félicité ;
+Vous ne pouviez finir. Lorsque je me rappelle...
 
--*who_lagouvernante
-Mais dois-je consentir qu'il perde sa fortune ?
+Doit-on, lorsque l'on perd le coeur d'un inconstant,
+Perdre aussi la parole ? Allons, il faut d'autant
+Soulager son dépit ; rien n'est plus salutaire.
 
--*who_labaronne
-Eh ! Madame, calmez cette crainte importune.
-En faveur d'un hymen qui comblera mes voeux,
-Ils auront tout mon bien, je l'assure à tous deux ;
-Ils seront mes enfants, ils sont dignes de l'être.
+Et la raison vous parle, à vous, Angélique ?
 
--*who_lagouvernante
-Monsieur, qu'ils soient heureux ; vous en êtes le maître.
+      Ah ! Le bel entretien ! Ma foi, gare l'ennui ;
+Mais il est tout venu.
 
--*who_sainville
-Ah ! Quel bonheur ! La vie, au prix de ce bienfait,
-Est le moindre présent que vous nous ayez fait.
+Bon ! Bon ! L'amour bientôt le comblera de fleurs.
+
+Ah ! Diantre, vous voilà tout-à-fait surprenante !
+Ce beau chef-d'oeuvre vient de notre gouvernante.
+Depuis six ou sept mois qu'elle a trouvé moyen
+De s'impatroniser ; je n'y connais plus rien ;
+La baronne elle-même en a fait son amie,
+Et ne fait que vanter sa rare prud'hommie :
+Nous étions, vous et moi, bien mieux auparavant.
+
+Oui, votre tante a fait une fort belle emplette...
+Cette femme n'entend qu'à donner des vapeurs.
+Mais parlons de Sainville. Espérez que vos coeurs
+Seront bientôt remis en bonne intelligence.
+Je sais que de sa part un peu de négligence...
+
+Si Sainville a quitté sa retraite profonde
+Pour aller se fourrer dans le tracas du monde,
+C'est malgré lui ; pour moi, j'ai tout lieu de douter
+Qu'il puisse encor longtemps s'y plaire et le goûter ;
+Il n'a fait qu'obéir, et par force, à son père ;
+Son esprit, son humeur, son goût, son caractère,
+Feront qu'il y sera tout-à-fait étranger :
+Il est trop philosophe.
+
+Non, il est trop bien né ; c'est sur quoi je me fonde.
+Quel triomphe pour vous ! Quand dégoûté du monde...
+
+Vous voulez tout-à-fait renoncer à Sainville ?
+
+Eh ! Pourquoi faire ? Au lieu de bénir chaque jour
+La main qui vous a fait sortir de ce séjour,
+Où les infortunés de qui vous êtes née,
+Dès vos plus jeunes ans vous ont abandonnée,
+Vous songez à rentrer dans le sein de l'ennui ?
+
+Monsieur, un mot, de grâce ; Angélique m'envoie.
+
+      Elle-même.
+
+      Sans vous le reprocher,
+C'est la dixième fois que je viens vous chercher.
+
+      Apprenez à quels titres,
+Et prenez ce paquet ; c'est un recueil d'épîtres.
+
+      Vous verrez à loisir.
+
+Ni moi non plus.
+
+      Que de biens à la fois !
+
+Je suis votre servante.
+
+      Monsieur, je n'ose.
+
+Je ne crois pas qu'il soit besoin que je demeure.
+
+      Je crains de vous importuner.
+
+Mais en serez-vous mieux, quand je vous aurai dit,
+Que jusqu'à la rupture on pousse le dépit,
+Qu'à l'amour d'Angélique il ne faut plus prétendre,
+Et qu'elle ne veut plus vous voir ni vous entendre ?
+
+Jugez-vous. Quand on a le bonheur d'être aimé,
+Il faudrait résider auprès d'une maîtresse,
+Cultiver par soi-même, et nourrir sa tendresse.
+L'amour qu'on nous inspire exige bien du soin ;
+Des yeux qui l'ont fait naître, il a toujours besoin ;
+La moindre négligence y porte un coup funeste.
+Est-ce que notre coeur a des forces de reste ?
+
+La bonne volonté fait toute ma vertu :
+Mais je suis sans crédit ; je rougis de le dire.
+Certaine gouvernante a sur elle un empire,
+Que, pendant votre absence, elle a jusqu'à ce jour
+Acquis, malgré moi-même, aux dépens de l'amour.
+
+Et l'on refusera constamment de vous lire ;
+Car ce maudit Argus pense à tout, n'omet rien...
+Écrivez cependant.
+
+Perdez-vous la raison ? Au lieu de réparer...
+
+Voilà comme ils sont tous, quand on leur rend le change ;
+Furieux, hors de sens : c'est une espèce étrange ;
+Mais enfin, quels qu'ils soient, tout bien apprécié,
+Il ne faut pas laisser que d'en avoir pitié.
+
+Viens quand je tousserai.
+
+Pourrait-on vous parler ?
+
+C'est moi qui vous demande audience en mon nom.
+
+      Moi-même.
+
+Et par quelle raison ?
+
+On vous l'a défendu ?
+
+Depuis assez longtemps, parlons de bonne foi,
+Votre bonne, jalouse, envieuse, inquiète,
+Cherche à me supplanter ; sa victoire est complète.
+Votre humeur trop facile a comblé son désir.
+N'agissez, ne pensez que sous son bon plaisir,
+Ayez pour tout instinct celui qu'elle vous prête,
+Soyez comme un enfant qu'on mène à la baguette.
+
+Vous pourriez vous tromper.
+
+Ne vous en faites pas une si grande joie.
+
+      Moi, je ne soutiens rien.
+
+Ce serait volontiers, s'il m'en avait chargée ;
+Et d'ailleurs, (ce n'est pas que je parle pour lui : )
+Mais enfin, croyez-vous les hommes d'aujourd'hui
+D'humeur à nous passer tous nos petits caprices,
+À faire tous les jours les plus grands sacrifices,
+À braver, à souffrir les mépris, les rebuts,
+À demeurer constants lorsque l'on n'en veut plus,
+À revenir à nous, si-tôt qu'on les rappelle ?
+Non ; l'art d'aimer a pris une forme nouvelle :
+C'est à nous à présent à remplir, en aimant,
+Tout ce qu'une maîtresse exigeait d'un amant ;
+Encore arrive-t-il qu'on croit nous faire grâce.
+Nos esclaves ont mis leurs vainqueurs à leur place ;
+Ils se sont emparés de nos droits les plus doux ;
+Tout le poids de l'amour est retombé sur nous.
+
+      Avouez que si, par aventure,
+Sainville revenait après cette rupture,
+Plus tendre que jamais, vous rapporter son coeur,
+Le vôtre aurait pour lui la dernière rigueur.
+
+      Il fait donc bien de ne se pas commettre :
+je dis plus, s'il osait hasarder une lettre,
+Pleine de désespoir, (je suppose le cas,)
+Vous la refuseriez ?
+
+Il se le tient pour dit. Il est temps que je tousse.
+À la derniere épreuve il faut que je la pousse.
+
+      Est-il sourd ? Recommençons encor.
+
+      Peste soit du butor.
+
+      Donne.
+
+      Une lettre
+Que ce drôle a sans doute ordre de me remettre.
+
+      En quoi donc, s'il vous plaît ?
+De grâce, expliquez-vous.
+
+      De qui ?
+
+De lui ?
+
+      Il faut voir.
+
+Je l'ouvre.
+
+Pour la pousser à bout, changeons un peu le texte,
+Et lisons autrement. Pourquoi prendre un prétexte ?
+
+      Eh ! Bien, lisons tout bas.
+
+"Lorsque nous avons cru nous aimer l'un et l'autre,
+Nous nous sommes trompés."
+
+"Il n'est pas malheureux de rompre en même temps ;
+Car mon erreur n'a pas duré plus que la vôtre.
+J'accepte la rupture, ainsi n'en parlons plus. "
+
+À qui, diantre, en veut-on ? Quelle est cette aventure ?
+Pourriez-vous, par hasard, connaître l'écriture ?
+
+      Ah ! Vous l'avez bien dit.
+
+      Restons-en là.
+
+Vous l'aimiez donc encore ?
+
+      Tenez, contentez-vous.
+Avertissons Sainville, il est temps qu'il arrive.
+
+Eh ! Je vous cherche.
+
+      En doutez-vous ?
+
+Vous pourrez la calmer en la lisant vous-même.
+
+      Je puis avoir mal lu.
+
+Écoutez ; vous, lisez.
+      "Le secours de l'absence
+M'a bien mieux fait sentir le prix de votre coeur ;
+Et lorsque je reviens à mon premier vainqueur,
+C'est avec plus d'amour et plus de connaissance. "
+
+      N'interrompez donc pas.
+Suivez des yeux.
+
+      Eh ! Bien, vous vous aimez.
+
+      Plus que jamais vos coeurs sont enflammés.
+Quelle explication faut-il que je vous donne ?
+Eh ! Trop heureuse encor l'amante qui pardonne.
+
+Et vous avez été trop prompte et trop facile
+À vous déterminer.
+
+Levez-vous, et fuyez.
+
+Allons, il faut un peu faire tête à l'orage.
+
+L'amour est cependant fait pour en inspirer.
+
+Reprenez vos esprits.
+
+Pour un petit malheur faut-il se dérouter ?
+La baronne, entre nous, n'est pas à redouter ;
+Elle est femme du monde, et n'en fera que rire :
+Pour l'autre, au pis aller, il faut la laisser dire.
+
+Quelle enfance ! Eh ! Qui peut, malgré vous, malgré moi,
+Vous contraindre à rester ainsi sous sa tutelle ?
+
+      Je n'en ai pas moins qu'elle.
+
+Cela se doit ; il va venir.
+
+Arrangez-vous tous deux, tandis que la baronne
+Dans le fond du jardin est avec votre bonne,
+En un grand pour-parler.
+
+Bon ! Bon ! Qu'importe ? Adieu, je vais faire le guet.
+
+Décampez au plus vite ; il nous vient compagnie.
+
+      Le président.
+
+Par où diantre allez-vous ? Sauvez-vous par ici.
+
+Je suis piquée au jeu ; laissez, laissez-moi faire.
+
+Que diantre un fils a-t-il tant à dire à son père ?
+Votre Angélique est folle, elle me désespère ;
+La crainte, l'épouvante, et la timidité
+Triomphent pour le coup de sa facilité.
+Vous ne la tenez plus.
+
+Voyez si vous pouvez vous-même la résoudre ;
+Mais ne l'espérez plus.
+
+Elle est dans le jardin qui s'occupe à rêver.
+
+Être fille, et vouloir l'être toute sa vie,
+Me paraît, par ma foi, la dernière folie.
+Le beau titre à garder ! N'est-il pas bien charmant,
+Surtout lorsque l'on peut épouser son amant !
+
+      Ah ! Je vous le demande !
+L'ai-je à ma garde ? Elle est, ce me semble, assez grande
+Pour être sa maîtresse ?
+
+J'obéis à madame, elle peut ordonner ;
+Mais, vous...
+
+Madame ! Ah ! Par ma foi, l'épithète m'étonne !
+
+Je vous dis qu'en un mot cela n'est pas possible ;
+Ni pour moi, ni pour vous, elle n'est pas visible :
+L'accès près d'Angélique est si bien interdit,
+Qu'avec tout votre amour, avec tout mon esprit...
+
+      C'est un fait : elle est comme enchaînée ;
+La porte du jardin vient d'être condamnée ;
+Car on a bien pensé que vraisemblablement
+Vous pourriez en venir à quelque enlèvement.
+
+      Enfin, on l'a prévue.
+
+      Il faudrait l'avoir vue :
+Mais il vous est aisé de vous l'imaginer ;
+Sans se voir, quand on s'aime, on peut se deviner.
+
+Je ne sais, mais souvent, au déclin des beaux jours,
+Notre sexe prend moins le parti des amours.
+
+Je commence à douter qu'il soit si doux d'aimer ;
+D'abord, la seule idée avait su me charmer :
+Je le croyais le bien le plus grand de la vie ;
+Ce que j'en vois m'en fait presque passer l'envie.
+Quand l'amour tourne à mal, c'est un cruel vainqueur ;
+Il est vrai : cependant, que faire de son coeur ?
+
+Comment ! Vous voilà seule ?
+
+Allons, tout au plus vite, en avertir Sainville.
+

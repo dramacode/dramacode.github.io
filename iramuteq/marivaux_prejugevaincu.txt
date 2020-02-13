@@ -1,1455 +1,757 @@
 
 
-**** *book_ *id_I01 *act_I *date_1646
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
--*who_lepine
-Viens, j'ai à te parler ; entrons un moment dans cette salle.
+Ah ! vous voilà, Dorante ? Vous avez sans doute proposé à ma fille le mariage dont vous m'avez parlé ? L'acceptez-vous, Angélique ?
 
--*who_lisette
-Eh bien !
-Que me voulez-vous donc, Monsieur de Lépaine, en me tirant comme ça à l'écart ?
+Point du tout, ma fille, j'espérais tout le contraire. Dès que c'est Dorante qui le propose ce ne peut être qu'un de ses amis, et par conséquent un homme très estimable qui doit d'ailleurs avoir un rang, et que vous auriez pu épouser avec l'approbation de tout le monde. Cependant ce sont là de ces choses sur lesquelles il est juste que vous restiez la maîtresse.
 
--*who_lepine
-Premièrement, mon maître te prie de l'attendre ici.
-
--*who_lisette
-J'en sis d'accord, après ?
-
--*who_lepine
-Regarde-moi, Lisette, et devine le reste.
-
--*who_lisette
-Moi, je ne saurais.
-Je ne devine jamais le reste, à moins qu'on ne me le dise.
-
--*who_lepine
-Je vais donc t'aider, voici ce que c'est, j'ai besoin de ton coeur, ma fille.
-
--*who_lisette
-Tout de bon ?
-
--*who_lepine
-Et un si grand besoin que je ne puis pas m'en passer, il n'y a pas à répliquer, il me le faut.
-
--*who_lisette
-Dame !
-Comme vous demandez ça !
-J'ai quasiment envie de crier au voleur.
-
--*who_lepine
-Il me le faut, te dis-je, et bien complet avec toutes ses circonstances ; je veux dire avec ta main et toute ta personne, je veux que tu m'épouses.
-
--*who_lisette
-Quoi !
-Tout à l'heure ?
-
--*who_lepine
-À la rigueur, il le faudrait ; mais j'entends raison : et pour à présent, je me contenterai de ta parole.
-
--*who_lisette
-Vraiment !
-Grand marci de la patience, mais vous avez là de furieuses volontés, Monsieur de Lépaine !
-
--*who_lepine
-Je te conseille de te plaindre !
-Comment donc !
-Il n'y a que six jours que nous sommes ici, mon maître et moi, que six jours que je te connais, et la tête me tourne, et tu demandes quartier !
-Ce que j'ai perdu de raison depuis ce temps-là est incroyable ; et si je continue, il ne m'en restera pas pour me conduire jusqu'à demain.
-Allons vite, qu'on m'aime.
-
--*who_lisette
-Ça ne se peut pas, Monsieur de Lépaine.
-Ce n'est pas qu'on ne soyais agriable, mais mon rang me le défend ; je vous en informe, tout ce qui est comme vous n'est pas mon pareil, à ce que m'a dit ma maîtresse.
-
--*who_lepine
-Ah !
-Ah !
-Me conseilles-tu d'ôter mon chapeau ?
-
--*who_lisette
-Le chapiau et la familiarité itou.
-
--*who_lepine
-Voilà pourtant un itou qui n'est pas de trop bonne maison : mais une princesse peut avoir été mal élevée.
-
--*who_lisette
-Bonne maison !
-La nôtre était la meilleure de tout le village, et que trop bonne ; c'est ce qui nous a ruinés.
-En un mot comme en cent, je suis la fille d'un homme qui était, en son vivant, procureur fiscal du lieu et qui mourut l'an passé ; ce qui a fait que notre jeune dame, faute de fille de chambre, m'a pris depuis trois mois cheux elle, en guise de compagnie.
-
--*who_lepine
-Avec votre permission et la sienne, je remets mon chapeau.
-
--*who_lisette
-À cause de quoi ?
-
--*who_lepine
-Je sais bien ce que je fais, fiez-vous à moi.
-Je ne manque de respect ni au père ni aux enfants.
-Procureur fiscal, dites-vous ?
-
--*who_lisette
-Oui, qui jugeait le monde, qui était honoré d'un chacun, qui avait un grand renom.
-
--*who_lepine
-Bagatelle !
-Ce renom-là n'est pas comparable au bruit que mon père a fait dans sa vie.
-Je suis le fils d'un timbalier des armées du Roi.
-
--*who_lisette
-Diantre !
-
--*who_lepine
-Oui, ma fille, neveu d'un trompette, et frère aîné d'un tambour, il y a même du hautbois dans ma famille.
-Tout cela, sans vanité, est assez éclatant.
-
--*who_lisette
-Sans doute, et je me reprends ; je trouve ça biau.
-Stapendant vous ne sarvez qu'un bourgeois.
-
--*who_lepine
-Oui, mais il est riche.
-
--*who_lisette
-En lieu que moi, je suis à la fille d'un marquis.
-
--*who_lepine
-D'accord ; mais elle est pauvre.
-
--*who_lisette
-Il m'apparaît que t'as raison, Lépaine, je vois que ma maîtresse m'a trop haussé le coeur, et je me dédis ; je pense que je ne nous devons rian.
-
--*who_lepine
-Excusez-moi, ma fille ; je pense que je me mésallie un peu ; mais je n'y regarde pas de si près.
-La beauté est une si grande dame !
-Concluons, m'aimes-tu ?
-
--*who_lisette
-J'en serais consentante si vous ne vous en retourniais pas bientôt à Paris, vous autres.
-
--*who_lepine
-Et si, dès aujourd'hui, on m'élevait à la dignité de concierge du château que nous avons à une lieue d'ici, votre ambition serait-elle satisfaite avec un mari de ce rang-là ?
-
--*who_lisette
-Tout à fait.
-Un mari comme toi, un châtiau, et note amour, me velà bian, pourvu que ça se soutienne.
-
--*who_lepine
-À te voir si gaillarde, je vais croire que je te plais.
-
--*who_lisette
-Biaucoup, Lépaine ; tians, je sis franche, t'avais besoin de mon coeur, moi, j'avais faute du tian ; et ça m'a prins drès que je t'ai vu, sans faire semblant, et quand il n'y aurait ni châtiau, ni timbales dans ton affaire, je serais encore contente d'être ta femme.
-
--*who_lepine
-Incomparable fille de fiscal, tes paroles ont de grandes douceurs !
-
--*who_lisette
-Je les prends comme elles viennent.
-
--*who_lepine
-Donne-moi une main que je l'adore, la première venue.
-
--*who_lisette
-Tiens, prends, la voilà
-
-**** *book_ *id_I02 *act_I *date_1646
-
--*who_dorante
-Courage, mes enfants, vous ne vous haïssez pas, ce me semble ?
-
--*who_lepine
-Non, Monsieur.
-C'est une concierge que j'arrête pour votre château ; je concluais le marché, et je lui donnais des arrhes.
-
--*who_dorante
-Est-il vrai, Lisette ?
-L'aimes-tu ?
-A-t-il raison de s'en vanter ?
-Je serais bien aise de le savoir.
-
--*who_lisette
-Il n'y a donc qu'à prenre qu'ou le savez, Monsieur.
-
--*who_dorante
-Je t'entends.
-
--*who_lisette
-Que voulez-vous ?
-Il m'a tant parlé de sa raison pardue, d'épousailles, et des circonstances de ma parsonne : il a si bian agencé ça avec vote châtiau, que me velà concierge, autant vaut.
-
--*who_dorante
-Tant mieux, Lisette.
-J'aurai soin de vous deux.
-Lépine est un garçon à qui je veux du bien, et tu me parais une bonne fille.
-
--*who_lepine
-Allons, la petite, ripostons par deux révêrences, et partons ensemble.
-
--*who_dorante
-Ah çà !
-Lisette, puisqu'à présent je puis me fier à toi, je ne ferai point difficulté de te confier un secret ; c'est que j'aime passionnément ta maîtresse, qui ne le sait pas encore : et j'ai eu mes raisons pour le lui cacher.
-Malgré les grands biens que m'a laissé mon père, je suis d'une famille de simple bourgeoisie.
-Il est vrai que j'ai acquis quelque considération dans le monde ; on m'a même déjà offert de très grands partis.
-
--*who_lepine
-Vraiment !
-Tout Paris veut nous épouser.
-
--*who_dorante
-Je vais d'ailleurs être revêtu d'une charge qui donne un rang considérable ; d'un autre côté, je suis étroitement lié d'amitié avec le Marquis, qui me verrait volontiers devenir son gendre ; et malgré tout ce que je dis là, pourtant, je me suis tu.
-Angélique est d'une naissance très distinguée.
-J'ai observé qu'elle est plus touchée qu'une autre de cet avantage-là, et la fierté que je lui crois là-dessus m'a retenu jusqu'ici.
-J'ai eu peur, si je me déclarais sans précaution, qu'il ne lui échappât quelque trait de dédain, que je ne me sens pas capable de supporter, que mon coeur ne lui pardonnerait pas ; et je ne veux point la perdre, s'il est possible.
-Toi qui la connais et qui as sa confiance, dis-moi ce qu'il faut que j'espère.
-Que pense-t-elle de moi ?
-Quel est son caractère ?
-Ta réponse décidera de la manière dont je dois m'y prendre.
-
--*who_lepine
-Bon !
-C'est autant de marié, il n'y a qu'à aller franchement, c'est la manière.
-
--*who_lisette
-Pas tout à fait.
-Faut cheminer doucement : il y a à prenre garde.
-
--*who_dorante
-Explique-toi.
-
--*who_lisette
-Écoutez, Monsieur, je commence par le meilleur.
-C'est que c'est une fille comme il n'y en a point, d'abord.
-C'est folie que d'en chercher une autre ; il n'y a de ça que cheux nous ; ça se voit ici, et velà tout.
-C'est la pus belle himeur, le coeur le pus charmant, le pus benin !...
-Fâchez-la, ça vous pardonne ; aimez-la, ça vous chérit : il n'y a point de bonté qu'alle ne possède ; c'est une marveille, une admiration du monde, une raison, une libéralité, une douceur !...
-Tout le pays en rassote.
-
--*who_lepine
-Et moi aussi, ta merveille m'attendrit.
-
--*who_dorante
-Tu ne me surprends point, Lisette ; j'avais cette opinion-là d'elle.
-
--*who_lisette
-Ah çà !
-Vous l'aimez, dites-vous ?
-Je vous avise qu'alle s'en doute.
-
--*who_dorante
-Tout de bon ?
-
--*who_lisette
-Oui, Monsieur, alle en a pris la doutance dans vote oeil, dans vos révérences, dans le respect de vos paroles.
-
--*who_dorante
-Elle t'en a donc dit quelque chose ?
-
--*who_lisette
-Oui, Monsieur ; j'en discourons parfois.
-Lisette, ce me fait-elle, je crois que ce garçon de Paris m'en veut ; sa civilité me le montre.
-C'est vote biauté qui l'y oblige, ce li fais-je.
-Alle repart : Ce n'est pas qu'il m'en sonne mot, car il n'oserait ; ma qualité l'empêche.
-Ça vienra, ce li dis-je.
-Oh !
-Que nenni, ce me dit-elle ; il m'appriande trop ; je serais pourtant bian aise d' être çartaine, à celle fin de n'en plus douter.
-Mais il vous fâchera s'il s'enhardit, ce li dis-je.
-Vraiment oui, ce dit-elle ; mais faut savoir à qui je parle ; j'aime encore mieux être fâchée que douteuse.
-
--*who_lepine
-Ah !
-Que cela est bon, Monsieur !
-Comme l'amour nous la mitonne !
-
--*who_lisette
-Eh !
-Oui, c'est mon opinion itou.
-Hier encore, je li disais, toujours à vote endroit : Madame, queu dommage qu'il soit bourgeois de nativité !
-Que c'est une belle prestance d'homme !
-Je n'avons point de noblesse qui ait cette phisolomie-là : alle est magnifique, pardi !
-Quand ce serait pour la face d'un prince.
-T'as raison, Lisette, me répartit-elle ; oui, ma fille, c'est dommage ; cette nativité est fâcheuse ; car le parsonnage est agriable, il fait plaisir à considérer, je n'en vas pas à l'encontre.
-
--*who_dorante
-Mais, Lisette, suivant ce que tu me rapportes là, je pourrais donc risquer l'aveu de mes sentiments ?
-
--*who_lisette
-Ah !
-Monsieur, qui est-ce qui sait ça ?
-Parsonne.
-Alle a de la raison en tout et partout, hors dans cette affaire de noblesse.
-Faut pas vous tromper.
-Il n'y a que les gentilshommes qui soyont son prochain, le reste est quasiment de la formi pour elle.
-Ce n'est pas que vous ne li plaisiais.
-S'il n'y avait que son coeur, je vous dirais : Il vous attend, il n'y a qu'à le prenre ; mais cette gloire est là qui le garde ; ce sera elle qui gouvarnera ça, et faudrait trouver queuque manigance.
-
--*who_lepine
-Attaquons, Monsieur.
-Qu'est-ce que c'est que la gloire ?
-Elle n'a vaillant que des cérémonies.
-
--*who_dorante
-Mon intention, Lisette, était d'abord de t'engager à me servir auprès d'Angélique ; mais cela serait inutile, à ce que je vois ; et il me vient une autre idée.
-Je sors d'avec le Marquis, à qui, sans me nommer, j'ai parlé d'un très riche parti qui se présentait pour sa fille ; et sur tout ce que je lui en ai dit, il m'a permis de le proposer à Angélique ; mais je juge à propos que tu la préviennes avant que je lui parle.
-
--*who_lisette
-Et que li dirais-je ?
-
--*who_dorante
-Que je t'ai interrogée sur l'état de son coeur, et que j'ai un mari à lui offrir.
-Comme elle croit que je l'aime, elle soupçonnera que c'est moi ; et tu lui diras qu'à la vérité je n'ai pas dit qui c'était, mais qu'il t'a semblé que je parlais pour un autre, pour quelqu'un d'une condition égale à la mienne.
-
--*who_lisette
-D'un autre bourgeois ainsi que vous ?
-
--*who_lepine
-Oui-da ; pourquoi non ?
-Cette finesse-là a je ne sais quoi de mystérieux et d'obscur, où j'aperçois quelque chose...
-Qui n'est pas clair.
-
--*who_lisette
-Moi, j'aperçois qu'alle sera furieuse, qu'alle va choir en indignation, par dépit.
-Peut-être qu'alle vous excuserait, vous, maugré la bourgeoisie ; mais n'y aura pas de marci pour un pareil à vous ; alle dégrignera vote homme, alle dira que c'est du fretin.
-
--*who_dorante
-Oui, je m'attends bien à des mépris, mais je ne les éviterais peut-être pas si je me déclarais sans détour, et ils ne me laisseraient plus de ressource, au lieu qu'alors ils ne s'adresseront pas à moi.
-
--*who_lepine
-Fort bien !
-
--*who_lisette
-Oui, je comprends, ce ne sera pas vous qui aurez eu les injures, ce sera l'autre ; et pis, quand alle saura que c'est vous...
-
--*who_dorante
-Alors l'aveu de mon amour sera tout fait ; je lui aurai appris que je l'aime, et n'aurai point été personnellement rejeté : de sorte qu'il ne tiendra encore qu'à elle de me traiter avec bonté.
-
--*who_lisette
-Et de dire : C'est une autre histoire, je ne parlais pas de vous.
-
--*who_lepine
-Et voilà précisément ce que j'ai tout d'un coup deviné, sans avoir eu l'esprit de le dire.
-
--*who_lisette
-Ce tornant-là me plait ; et même faut d'abord que je vous en procure des injures, à celle fin que ça vous profite après.
-Mais je la vois qui se promène sur la terrasse.
-Allez-vous-en, Monsieur, pour me bailler le temps de la dépiter envars vous.
-À propos, Monsieur, faut itou que vous li touchiais une petite parole sur ce que Lépaine me recharche ; j'ai ma finesse à ça, que je vous conterai.
-
--*who_dorante
-Oui-da.
-
--*who_lepine
-Je te donne mes pleins pouvoirs.
-
-**** *book_ *id_I03 *act_I *date_1646
-
--*who_angelique
-Il me semblait de loin avoir vu Dorante avec toi.
-
--*who_lisette
-Vous n'avez pas la barlue, Madame, et il y a bian des nouvelles.
-C'est Monsieur Dorante li-même, qui s'enquierre comment vous va le coeur, et si parsonne ne l'a prins ; c'est mon galant Lépaine qui demande après le mien.
-Est-ce que ça n'est pas biau ?
-
--*who_angelique
-L'intérêt que Dorante prend à mon coeur ne m'est point nouveau.
-Tu sais les soupçons que j'avais là-dessus, et Dorante est aimable ; mais malheureusement il lui manque de la naissance, et je souhaiterais qu'il en eût, j'ai même eu besoin quelquefois de me ressouvenir qu'il n'en a point.
-
--*who_lisette
-Oh bian !
-Ce n'est pas la peine de vous ressouvenir de ça, vous velà exempte de mémoire.
-
--*who_angelique
-Comment !
-L'aurais-tu rebuté ?
-Et renonce-t-il à moi, dans la peur d'être mal reçu ?
-Quel discours lui as-tu donc tenu ?
-
--*who_lisette
-Aucun.
-Il n'a peur de rian.
-Il n'a que faire de renoncer : il ne vous veut pas.
-C'est seulement qu'il est le commis d'un autre.
-
--*who_angelique
-Que me contes-tu là ?
-Qu'est-ce que c'est que le commis d'un autre ?
-
--*who_lisette
-Oui, d'un je ne sais qui, d'un mari tout prêt qu'il a en main, et qu'il désire de vous présenter par-devant notaire.
-Un homme jeune, opulent, un bourgeois de sa sorte.
-
--*who_angelique
-Dorante est bien hardi !
-
--*who_lisette
-Oh !
-Pour ça, oui !
-Bian téméraire envars une damoiselle de vote étoffe, et de la conséquence de vos père et mère ; ça m'a donné un scandale !...
-
--*who_angelique
-Pars tout à l'heure, va lui dire que je me sens offensée de la proposition qu'il a dessein de me faire, et que je n'en veux point entendre parler.
-
--*who_lisette
-Et que cet acabit de mari n'est pas capable d'être vote homme : allons.
-
--*who_angelique
-Attends, laisse-le venir ; dans le fond, il est au-dessous de moi d'être si sérieusement piquée.
-
--*who_lisette
-Oui, la moquerie suffit, il n'y a qu'à lever l'épaule avec du petit monde.
-
--*who_angelique
-Je ne reviens pas de mon étonnement, je l'avoue.
-
--*who_lisette
-Je sis tout ébahie, car j'ons vu des mines d'amoureux, et il en avait une pareille ; je vous prends à témoin.
-
--*who_angelique
-Jusque-là que j'ai craint qu'à la fin il ne m'obligeât à le refuser lui-même.
-Je m'imaginais qu'il m'aimait : je ne le soupçonnais pas, je le croyais.
-
--*who_lisette
-Avoir un visage qui ment, est-il permis ?
-
--*who_angelique
-Non, Lisette, il n'a été que ridicule, et c'est nous qui nous trompions.
-Ce sont ses petites façons doucereuses et soumises que nous avons prises pour de l'amour.
-C'est manque de monde : ces petits messieurs-là, pour avoir bonne grâce, croient qu'il n'y a qu'à se prosterner et à dire des fadeurs, ils n'en savent pas davantage.
-
--*who_lisette
-Encore, s'il parlait pour son compte, je li pardonnerais quasiment ; car je le trouvais joli, comme vous le trouviais itou, à ce qu'on m'avez dit.
-
--*who_angelique
-Joli ?
-Je ne parlais pas de sa figure ; je ne l'ai jamais trop remarquée ; non qu'il ne soit assez bien fait ; ce n'est pas là ce que j'attaque.
-
--*who_lisette
-Pardi non, n'y a pas de rancune à ça.
-C'est un mal-appris qui est bian torné, et pis c'est tout.
-
--*who_angelique
-Qui a l'air assez commun pourtant, l'air de ces gens-là ; mais ce qu'il avait d'aimable pour moi, c'est son attachement pour mon père, à qui même il a rendu quelque service : voilà ce qui le distinguait à mes yeux, comme de raison.
-
--*who_lisette
-La belle magnière de penser !
-Ce que c'est que d'aimer son père !
-
--*who_angelique
-La reconnaissance va loin dans les bons coeurs.
-Elle a quelquefois tenu lieu d'amour.
-
--*who_lisette
-Cette reconnaissance-là, alle vous aurait menée à la noce, ni pus ni moins.
-
--*who_angelique
-Enfin, heureusement m'en voilà débarrassée ; car quelquefois, à dire vrai, l'amour que je lui croyais ne laissait pas de m'inquiéter.
-
--*who_lisette
-Oui, mais de Lépaine que ferai-je, moi, qui sis participante de vote rang ?
-
--*who_angelique
-Ce qu'une fille raisonnable, qui m'appartient et qui est née quelque chose, doit faire d'un valet qui ne lui convient pas, et du valet d'un homme qui manque aux égards qu'il me doit.
-
--*who_lisette
-Ça suffit.
-S'il retourne à moi, je vous li garde son petit fait...
-Et je vous recommande le maître.
-Le vela qui rôde à l'entour d'ici, et je m'échappe afin qu'il arrive.
-Je repasserons pour savoir les nouvelles.
-
-**** *book_ *id_I04 *act_I *date_1646
-
--*who_dorante
-Oserais-je, sans être importun, Madame, vous demander un instant d'entretien ?
-
--*who_angelique
-Importun, Dorante ! pouvez-vous l'être avec nous ?
-Voilà un début bien sérieux.
-De quoi s'agit-il ?
-
--*who_dorante
-D'une proposition que Monsieur le Marquis m'a permis de vous faire, qu'il vous rend la maîtresse d'accepter ou non, mais dont j'hésite à vous parler, et que je vous conjure de me pardonner, si elle ne vous plaît pas.
-
--*who_angelique
-C'est donc quelque chose de bien étrange ?
-Attendez ; ne serait-il pas question d'un certain mariage, dont Lisette m'a déjà parlé ?
-
--*who_dorante
-Je ne l'avais pas priée de vous prévenir ; mais c'est de cela même, Madame.
-
--*who_angelique
-En ce cas-là, tout est dit, Dorante ; Lisette m'a tout conté.
-Vos intentions sont louables, et votre projet ne vaut rien.
-Je vous promets de l'oublier.
-Parlons d'autre chose.
-
--*who_dorante
-Mais, Madame, permettez-moi d'insister, ce récit de Lisette peut n'être pas exact.
-
--*who_angelique
-Dorante, si c'est de bonne foi que vous avez craint de me fâcher, la manière dont je m'explique doit vous arrêter, ce me semble, et je vous le répète encore, parlons d'autre chose.
-
--*who_dorante
-Je me tais, Madame, pénétré de douleur de vous avoir déplu.
-
--*who_angelique
-Pénétré de douleur !
-C'en est trop.
-Il ne faut point être si affligé, Dorante.
-Vos expressions sont trop fortes, vous parlez de cela comme du plus grand des malheurs !
-
--*who_dorante
-C'en est un très grand pour moi, Madame, que vous avoir déplu.
-Vous ne connaissez ni mon attachement ni mon respect.
-
--*who_angelique
-Encore ?
-Je vous déclare, moi, que vous me désespérerez, si vous ne vous consolez pas.
-Consolez-vous donc par politesse, et changeons de matière.
-Aurons-nous le plaisir de vous avoir encore ici quelque temps ?
-Comptez-vous y faire un peu de séjour ?
-
--*who_dorante
-Je serais trop heureux de pouvoir y demeurer toute ma vie, Madame...
-
--*who_angelique
-Tout de bon !
-Et moi, trop enchantée de vous y voir pendant toute la mienne.
-Continuez.
-
--*who_dorante
-Je n'ose plus vous répondre, Madame.
-
--*who_angelique
-...Pourquoi ?
-Je parle votre langage ; je réponds à vos exagérations par les miennes.
-On dirait que votre souverain bonheur consiste à ne me pas perdre de vue et j'en serais fâchée.
-Vous avez une douleur profonde pour avoir pensé à un mariage dont je me contente de rire.
-Vous montrez une tristesse mortelle, parce que je vous empêche de répéter ce que Lisette m'a déjà dit.
-Eh mais !
-Vous succomberez sous tant de chagrins ; il n'y va pas moins que de votre vie, s'il faut vous en croire.
-
--*who_dorante
-Souffrirez-vous que je parle, Madame ?
-Il n'y a rien de moins incroyable que le plaisir infini que j'aurais à vous voir toujours ; rien de plus croyable que l'extrême confusion que j'ai de vous avoir indisposé contre moi ; rien de plus naturel que d'être touché autant que je le suis de ne pouvoir du moins me justifier auprès de vous.
-
--*who_angelique
-Eh mais ! je les sais, vos justifications, vous les mettriez en plusieurs articles, et je vais vous les réduire en un seul ; c'est que celui que vous me proposez est extrêmement riche.
-N'est-ce pas là tout ?
-
--*who_dorante
-Ajoutez-y, Madame, que c'est un honnête homme.
-
--*who_angelique
-Eh !
-Sans doute, je vous dis qu'il est riche : c'est la même chose.
-
--*who_dorante
-Ah !
-Madame, ne fût-ce qu'en ma faveur, ne confondons pas la probité avec les richesses.
-Daignez vous ressouvenir que je suis riche aussi, et que je mérite qu'on les distingue.
-
--*who_angelique
-Cela ne vous regarde pas, Dorante, et je vous excepte ; mais que vous me disiez qu'il est honnête homme, il ne lui manquerait plus que de ne pas l'être.
-
--*who_dorante
-Il est d'ailleurs estimé, connu, destiné à un poste important.
-
--*who_angelique
-Sans doute, on a des places et des dignités avec de l'argent ; elles ne sont pas glorieuses : venons au fait.
-Quel est-il, votre homme ?
-
--*who_dorante
-Simplement un homme de bonne famille ; mais à qui, malgré cela, Madame, on offre actuellement de très grands partis.
-
--*who_angelique
-Je vous crois.
-On voit de tout dans la vie.
-
--*who_dorante
-Je me tais, Madame ; votre opinion est que j'ai tort, et je me condamne.
-
--*who_angelique
-Croyez-moi, Dorante, vous estimez trop les biens : et le bon usage que vous faites des vôtres vous excuse.
-Mais entre nous, que ferais-je avec un homme de cette espèce-là ?
-Car la plupart de ces gens-là sont des espèces, vous le savez.
-L'honnête homme d'un certain état n'est pas l'honnête homme du mien.
-Ce sont d'autres façons, d'autres sentiments, d'autres moeurs, presque un autre honneur ; c'est un autre monde.
-Votre mari me rebuterait et je le gênerais.
-
--*who_dorante
-Ah !
-Madame, épargnez-moi, je vous prie.
-Vous m'avez promis d'oublier mon tort, et je compte sur cette bonté-là dans ce moment même.
-
--*who_angelique
-Pour vous prouver que je n'y songe plus, j'ai envie de vous prier de rester encore avec nous quelque temps ; vous me verrez peut-être incessamment mariée.
-
--*who_dorante
-Comment, Madame ?
-
--*who_angelique
-J'ai un de mes parents qui m'aime et que je ne hais pas, qui est actuellement à Paris, où il suit un procès important, qui est presque sûr, et qui n'attend que ce succès pour venir demander ma main.
-
--*who_dorante
-Et vous l'aimez, Madame ?
-
--*who_angelique
-Nous nous connaissons dès l'enfance.
-
--*who_dorante
-J'ai abusé trop longtemps de votre patience, et je me retire toujours pénétré de douleur.
-
--*who_angelique
-Toujours cette douleur !
-Il faut qu'il ait une manie pour ces grands mots-là.
-
--*who_dorante
-J'oubliais de vous prévenir sur une chose, Madame.
-Lépine, à qui je destine une récompense de ses services, voudrait épouser Lisette, et je lui défendrai d'y penser, si vous me l'ordonnez.
-
--*who_angelique
-Lisette est une fille de famille qui peut trouver mieux, Monsieur, et je ne vois pas que votre Lépine lui convienne.
-
-**** *book_ *id_I05 *act_I *date_1646
-
--*who_lemarquis
-Ah ! vous voilà, Dorante ?
-Vous avez sans doute proposé à ma fille le mariage dont vous m'avez parlé ?
-L'acceptez-vous, Angélique ?
-
--*who_angelique
-Non, mon père.
-Vous m'avez laissé la liberté d'en décider, à ce que m'a dit Monsieur, et vous avez bien prévu, je pense, que je ne l'accepterais pas.
-
--*who_lemarquis
-Point du tout, ma fille, j'espérais tout le contraire.
-Dès que c'est Dorante qui le propose ce ne peut être qu'un de ses amis, et par conséquent un homme très estimable qui doit d'ailleurs avoir un rang, et que vous auriez pu épouser avec l'approbation de tout le monde.
-Cependant ce sont là de ces choses sur lesquelles il est juste que vous restiez la maîtresse.
-
--*who_angelique
-Je sais vos bontés pour moi, mon père ; mais je ne croyais pas m'être éloignée de vos intentions.
-
--*who_dorante
-Pour moi, Monsieur, la répugnance de Madame ne me surprend point : j'aurais assurément souhaité qu'elle ne l'eût point eue.
-Son refus me mortifie plus que je ne puis l'exprimer ; mais j'avoue en même temps que je ne le blâme point.
-Née ce qu'elle est, c'est une noble. fierté qui lui sied, et qui est à sa place ; aussi le mari que je proposais ; et dont je sais les sentiments comme les miens, n'osait-il se flatter qu'on lui ferait grâce, et ne voyait que son amour et que son respect qui fussent dignes de Madame.
-
--*who_angelique
-La vérité est que je n'aurais pas cru avoir besoin d'excuse auprès de vous, mon père, et je m'imaginais que vous aimeriez mieux me voir au Baron, qu'il ne tient qu'à moi d'épouser s'il gagne son procès.
-
--*who_lemarquis
 Il l'a gagné, ma fille, le voilà en état de se marier, et vous serez contente.
 
--*who_angelique
-Il l'a gagné, mon père.
-Quoi !
-Si tôt ?
+Oui. Ma fille. Voici une lettre que je viens de recevoir de lui, et qu'il a écrit la veille de son départ. Il me mande qu'il vient vous offrir sa fortune, et nous le verrons peut-être ce soir. Vous m'aviez paru jusqu'ici très médiocrement prévenue en sa faveur, vous avez changé. Puisse-t-il mériter la préférence que vous lui donnez ! Si vous voulez lire sa lettre, la voilà.
 
--*who_lemarquis
-Oui.
-Ma fille.
-Voici une lettre que je viens de recevoir de lui, et qu'il a écrit la veille de son départ.
-Il me mande qu'il vient vous offrir sa fortune, et nous le verrons peut-être ce soir.
-Vous m'aviez paru jusqu'ici très médiocrement prévenue en sa faveur, vous avez changé.
-Puisse-t-il mériter la préférence que vous lui donnez !
-Si vous voulez lire sa lettre, la voilà.
+Non, Dorante, je n'ai rien à dire, et je n'aurais d'ailleurs aucun secret pour vous. Mais, de grâce, satisfaites ma juste curiosité. Quel est cet honnête homme de vos amis qui songeait à ma fille, et qui se serait cru si heureux de partager ses grands biens avec elle ? En vérité, nous lui devons du moins de la reconnaissance. Il aime tendrement Angélique, dites-vous ? Où l'a-t-il vue, depuis six ans qu'elle est sortie de Paris ?
 
--*who_dorante
-Je pourrais être de trop dans ce moment-ci, Monsieur, et je vous laisse seuls.
-
--*who_lemarquis
-Non, Dorante, je n'ai rien à dire, et je n'aurais d'ailleurs aucun secret pour vous.
-Mais, de grâce, satisfaites ma juste curiosité.
-Quel est cet honnête homme de vos amis qui songeait à ma fille, et qui se serait cru si heureux de partager ses grands biens avec elle ?
-En vérité, nous lui devons du moins de la reconnaissance.
-Il aime tendrement Angélique, dites-vous ?
-Où l'a-t-il vue, depuis six ans qu'elle est sortie de Paris ?
-
--*who_dorante
-C'est ici, Monsieur.
-
--*who_lemarquis
 Ici, dites-vous ?
 
--*who_dorante
-Oui, Monsieur, et il y a même une terre.
+Je ne me rappelle personne que cela puisse regarder. Son nom, s'il vous plaît ? Vous ne risquez rien à nous le dire.
 
--*who_lemarquis
-Je ne me rappelle personne que cela puisse regarder.
-Son nom, s'il vous plaît ?
-Vous ne risquez rien à nous le dire.
-
--*who_dorante
-C'est moi, Monsieur.
-
--*who_lemarquis
 C'est vous ?
 
--*who_angelique
-Qu'entends je !
+Ah ! Dorante, que je vous regrette !
 
--*who_lemarquis
-Ah !
-Dorante, que je vous regrette !
-
--*who_dorante
-Oui, Monsieur, c'est moi à qui l'amour le plus tendre avait imprudemment suggéré un projet, dont il ne me reste plus qu'à demander pardon à Madame.
-
--*who_angelique
-Je ne vous en veux point, Dorante ; j'en suis bien éloignée, je vous assure.
-
--*who_dorante
-Vous voyez à présent, Madame, que ma douleur tantôt n'était point exagérée, et qu'il n'y avait rien de trop dans mes expressions.
-
--*who_angelique
-Vous avez raison, je me trompais.
-
--*who_lemarquis
 Sans son inclination pour le Baron, je suis persuadé qu'Angélique vous rendrait justice dans cette occurrence-ci ; mais il ne me reste plus que l'autorité de père, et vous n'êtes pas homme à vouloir que je l'emploie.
 
--*who_dorante
-Ah !
-Monsieur, de quoi parlez-vous ?
-Votre autorité de père !
-Suis-je digne que Madame vous entende seulement prononcer ces mots-là pour moi !
-
--*who_angelique
-Je ne vous accuse de rien, et je me retire.
-
-**** *book_ *id_I06 *act_I *date_1646
-
--*who_lemarquis
 Que j'aurais été content de vous voir mon gendre !
 
--*who_dorante
-C'est une qualité qui, de toutes façons, aurait fait le bonheur de ma vie, mais qui n'aurait pu rien ajouter à l'attachement que j'ai pour vous.
-
--*who_lemarquis
 Je vous crois Dorante, et je ne saurais douter de votre amitié, j'en ai trop de preuves, mais je vous en demande encore une.
 
--*who_dorante
-Dites, Monsieur, que faut-il faire ?
+Ce n'est pas ici le moment de m'expliquer ; je suis d'ailleurs pressé d'aller donner quelques ordres pour une affaire qui regarde le Baron. Je n'ai, au reste, qu'une simple complaisance à vous demander ; puis-je me flatter de l'obtenir ?
 
--*who_lemarquis
-Ce n'est pas ici le moment de m'expliquer ; je suis d'ailleurs pressé d'aller donner quelques ordres pour une affaire qui regarde le Baron.
-Je n'ai, au reste, qu'une simple complaisance à vous demander ; puis-je me flatter de l'obtenir ?
-
--*who_dorante
-De quoi n'êtes-vous pas le maître avec moi ?
-
--*who_lemarquis
 Adieu, je vous reverrai tantôt.
 
-**** *book_ *id_I07 *act_I *date_1646
+Je vous cherchais, Dorante, et je viens vous sommer de la parole que vous m'avez donnée tantôt, vous ne savez pas que j'ai encore une fille, une cadette qui vaut bien son aînée.
 
--*who_dorante
-Je la perds sans ressource ; il n'y a plus d'espérance pour moi !
+Cette cadette, il faut que vous la connaissiez. Tout ce que je vous demande, c'est de la voir ; je n'en exige pas davantage. Voilà la complaisance à laquelle vous vous êtes engagé : vous ne pouvez vous en dédire.
 
--*who_lisette
-Je vous guettons, Monsieur.
-Or sus, qu'y a-t-il de nouviau ?
+Rien ; nous verrons.
 
--*who_lepine
-Comment vont nos affaires de votre côté ?
+Eh non, ma fille ; vous ne m'avez point déplu ; ôtez-vous cela de l'esprit. Il est vrai que Dorante m'est cher, mais je ne saurais vous savoir mauvais gré d'avoir fait un autre choix.
 
--*who_dorante
-On ne peut pas plus mal.
-Je pars demain.
-Elle a une inclination, Lisette.
-Tu ne m'avais pas parlé d'un Baron qui est son parent, et qu'elle attend pour l'épouser.
+Je vous répète que c'est une chimère.
 
--*who_lisette
-N'est-ce que ça ?
-Moquez-vous de son Baron, je sais le fond et le tréfond.
-Faut qu'alle soit bian dépitée pour avoir parlé de la magnière.
-Tant mieux, que le Baron vienne, il la hâtera d'aller.
-Gageons qu'alle a été bian rudanière envars vous, bian ridicule et malhonnête.
+Laissons cela, Angélique ; il n'est pas question ici de consulter mon goût, vous êtes destinée à un autre : c'est au Baron ; vous l'aimez, et voilà qui est fini.
 
--*who_dorante
-J'ai été fort maltraité.
+Vous l'épouserez, et je vous l'ordonne. Savez-vous à quoi j'ai pensé ? Dorante se disposait à partir, je l'ai retenu. Vous avez une soeur, j'ai exigé qu'il la vît : j'ai eu de la peine à l'y résoudre, il a fallu abuser un peu du pouvoir que j'ai sur lui : mais enfin j'ai obtenu que nous irions la voir demain, et peut-être l'arrêtera-t-elle.
 
--*who_lepine
-Voilà notre compte.
+Demandez à sa soeur. Dites, Angélique ? n'est-il pas vrai qu'elle a de la beauté ?
 
--*who_lisette
-Ça va comme un charme.
-Sait-elle qu'ous êtes l'homme ?
+Venez, j'ai dans mon cabinet un portrait d'elle que je veux vous montrer, et qui, de l'aveu de tout le monde, ne la flatte pas.
 
--*who_dorante
-Eh ! sans doute ; mais cela n'a produit qu'un peu plus de douceur et de politesse.
+Je vais lui parler ; je n'ai qu'un mot à lui dire, attendez-moi, Dorante. Je reviens dans le moment.
 
--*who_lisette
-C'est qu'alle fait déjà la chattemite ; velà le repentir qui l'amende.
+Que signifie ce que je vois ? Dorante à vos genoux, ma fille !
 
--*who_lepine
-Oui, cette fille-là est dans un état violent.
+Embrassez-moi, Dorante ; je suis content. Sortons, je me charge de faire entendre raison au Baron.
 
--*who_dorante
-Je vous dis que je me suis nommé, et que son refus subsiste.
 
--*who_lisette
-Eh !
-C'est cette gloire ; mais ça s'en ira ; velà que ça meurit, faut que ça tombe ; j'en avons la marque ; à telles enseignes que tantôt...
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_lepine
-Pesez ce qu'elle va dire.
+Il me semblait de loin avoir vu Dorante avec toi.
 
--*who_dorante
-Lisette se trompe à force de zèle.
+L'intérêt que Dorante prend à mon coeur ne m'est point nouveau. Tu sais les soupçons que j'avais là-dessus, et Dorante est aimable ; mais malheureusement il lui manque de la naissance, et je souhaiterais qu'il en eût, j'ai même eu besoin quelquefois de me ressouvenir qu'il n'en a point.
 
--*who_lisette
-Paix ; sortez d'ici.
-Je la vois qui vient en rêvant.
-Allez-vous-en, de peur qu'alle ne vous rencontre.
-N'oublie pas de venir pour la besogne que tu sais, et que tu diras à Monsieur, entends-tu, Lépaine ?
-Je nous varrons pour le conseil.
+Comment ! L'aurais-tu rebuté ? Et renonce-t-il à moi, dans la peur d'être mal reçu ? Quel discours lui as-tu donc tenu ?
 
-**** *book_ *id_I08 *act_I *date_1646
+Que me contes-tu là ? Qu'est-ce que c'est que le commis d'un autre ?
 
--*who_lisette
-Qu'est-ce donc, Madame ?
-Vous velà bian pensive.
-J'ons rencontré ce petit bourgeois, qui avait l'air pus sot, pus benêt ; sa phisolomie était plus longue, alle ne finissait point ; c'était un plaisir.
-C'est que vous avez bian rabroué le freluquet n'est-ce pas ?
-Contez-moi ça, Madame.
+Dorante est bien hardi !
 
--*who_angelique
-Freluquet !
-Je n'ai jamais dit que c'en fût un, ce n'est pas là son défaut.
+Pars tout à l'heure, va lui dire que je me sens offensée de la proposition qu'il a dessein de me faire, et que je n'en veux point entendre parler.
 
--*who_lisette
-Dame ! vous l'avez appelé petit monsieur : et un petit monsieur, c'est justement et à point un freluquet ; il n'y a pas pus à pardre ou à gagner sur l'un que sur l'autre.
+Attends, laisse-le venir ; dans le fond, il est au-dessous de moi d'être si sérieusement piquée.
 
--*who_angelique
+Je ne reviens pas de mon étonnement, je l'avoue.
+
+Jusque-là que j'ai craint qu'à la fin il ne m'obligeât à le refuser lui-même. Je m'imaginais qu'il m'aimait : je ne le soupçonnais pas, je le croyais.
+
+Non, Lisette, il n'a été que ridicule, et c'est nous qui nous trompions. Ce sont ses petites façons doucereuses et soumises que nous avons prises pour de l'amour. C'est manque de monde : ces petits messieurs-là, pour avoir bonne grâce, croient qu'il n'y a qu'à se prosterner et à dire des fadeurs, ils n'en savent pas davantage.
+
+Joli ? Je ne parlais pas de sa figure ; je ne l'ai jamais trop remarquée ; non qu'il ne soit assez bien fait ; ce n'est pas là ce que j'attaque.
+
+Qui a l'air assez commun pourtant, l'air de ces gens-là ; mais ce qu'il avait d'aimable pour moi, c'est son attachement pour mon père, à qui même il a rendu quelque service : voilà ce qui le distinguait à mes yeux, comme de raison.
+
+La reconnaissance va loin dans les bons coeurs. Elle a quelquefois tenu lieu d'amour.
+
+Enfin, heureusement m'en voilà débarrassée ; car quelquefois, à dire vrai, l'amour que je lui croyais ne laissait pas de m'inquiéter.
+
+Ce qu'une fille raisonnable, qui m'appartient et qui est née quelque chose, doit faire d'un valet qui ne lui convient pas, et du valet d'un homme qui manque aux égards qu'il me doit.
+
+Importun, Dorante ! pouvez-vous l'être avec nous ? Voilà un début bien sérieux. De quoi s'agit-il ?
+
+C'est donc quelque chose de bien étrange ? Attendez ; ne serait-il pas question d'un certain mariage, dont Lisette m'a déjà parlé ?
+
+En ce cas-là, tout est dit, Dorante ; Lisette m'a tout conté. Vos intentions sont louables, et votre projet ne vaut rien. Je vous promets de l'oublier. Parlons d'autre chose.
+
+Dorante, si c'est de bonne foi que vous avez craint de me fâcher, la manière dont je m'explique doit vous arrêter, ce me semble, et je vous le répète encore, parlons d'autre chose.
+
+Pénétré de douleur ! C'en est trop. Il ne faut point être si affligé, Dorante. Vos expressions sont trop fortes, vous parlez de cela comme du plus grand des malheurs !
+
+Encore ? Je vous déclare, moi, que vous me désespérerez, si vous ne vous consolez pas. Consolez-vous donc par politesse, et changeons de matière. Aurons-nous le plaisir de vous avoir encore ici quelque temps ? Comptez-vous y faire un peu de séjour ?
+
+Tout de bon ! Et moi, trop enchantée de vous y voir pendant toute la mienne. Continuez.
+
+...Pourquoi ? Je parle votre langage ; je réponds à vos exagérations par les miennes. On dirait que votre souverain bonheur consiste à ne me pas perdre de vue et j'en serais fâchée. Vous avez une douleur profonde pour avoir pensé à un mariage dont je me contente de rire. Vous montrez une tristesse mortelle, parce que je vous empêche de répéter ce que Lisette m'a déjà dit. Eh mais ! Vous succomberez sous tant de chagrins ; il n'y va pas moins que de votre vie, s'il faut vous en croire.
+
+Eh mais ! je les sais, vos justifications, vous les mettriez en plusieurs articles, et je vais vous les réduire en un seul ; c'est que celui que vous me proposez est extrêmement riche. N'est-ce pas là tout ?
+
+Eh ! Sans doute, je vous dis qu'il est riche : c'est la même chose.
+
+Cela ne vous regarde pas, Dorante, et je vous excepte ; mais que vous me disiez qu'il est honnête homme, il ne lui manquerait plus que de ne pas l'être.
+
+Sans doute, on a des places et des dignités avec de l'argent ; elles ne sont pas glorieuses : venons au fait. Quel est-il, votre homme ?
+
+Je vous crois. On voit de tout dans la vie.
+
+Croyez-moi, Dorante, vous estimez trop les biens : et le bon usage que vous faites des vôtres vous excuse. Mais entre nous, que ferais-je avec un homme de cette espèce-là ? Car la plupart de ces gens-là sont des espèces, vous le savez. L'honnête homme d'un certain état n'est pas l'honnête homme du mien. Ce sont d'autres façons, d'autres sentiments, d'autres moeurs, presque un autre honneur ; c'est un autre monde. Votre mari me rebuterait et je le gênerais.
+
+Pour vous prouver que je n'y songe plus, j'ai envie de vous prier de rester encore avec nous quelque temps ; vous me verrez peut-être incessamment mariée.
+
+J'ai un de mes parents qui m'aime et que je ne hais pas, qui est actuellement à Paris, où il suit un procès important, qui est presque sûr, et qui n'attend que ce succès pour venir demander ma main.
+
+Nous nous connaissons dès l'enfance.
+
+Toujours cette douleur ! Il faut qu'il ait une manie pour ces grands mots-là.
+
+Lisette est une fille de famille qui peut trouver mieux, Monsieur, et je ne vois pas que votre Lépine lui convienne.
+
+Non, mon père. Vous m'avez laissé la liberté d'en décider, à ce que m'a dit Monsieur, et vous avez bien prévu, je pense, que je ne l'accepterais pas.
+
+Je sais vos bontés pour moi, mon père ; mais je ne croyais pas m'être éloignée de vos intentions.
+
+La vérité est que je n'aurais pas cru avoir besoin d'excuse auprès de vous, mon père, et je m'imaginais que vous aimeriez mieux me voir au Baron, qu'il ne tient qu'à moi d'épouser s'il gagne son procès.
+
+Il l'a gagné, mon père. Quoi ! Si tôt ?
+
+Qu'entends je !
+
+Je ne vous en veux point, Dorante ; j'en suis bien éloignée, je vous assure.
+
+Vous avez raison, je me trompais.
+
+Je ne vous accuse de rien, et je me retire.
+
+Freluquet ! Je n'ai jamais dit que c'en fût un, ce n'est pas là son défaut.
+
 Eh bien ! j'ai eu tort ; je n'ai point à me plaindre de lui.
 
--*who_lisette
-Ouais !
-Point à vous plaindre de li !
-Comment, marci de ma vie !
-Dorante n'est pas un mal-apprins, après l'impartinence qu'il a commise envars la révérence due à vote qualité ?
+Qu'elle est grossière ! Crie, crie encore plus fort, afin qu'on t'entende.
 
--*who_angelique
-Qu'elle est grossière !
-Crie, crie encore plus fort, afin qu'on t'entende.
-
--*who_lisette
-Eh bian !
-Il n'y a qu'à crier pus bas.
-
--*who_angelique
 C'est toi qui n'es qu'une étourdie, qui n'as pas eu le moindre jugement avec lui.
 
--*who_lisette
-Ça m'étonne.
-J'ons pourtant cotume d'avoir toujours mon jugement.
+Tu as tout entendu de travers, te dis-je, tu n'as pas eu l'esprit de voir qu'il m'aimait. Tu viens me dire qu'il a disposé de ma main pour un autre ; et c'était pour lui qu'il la demandait. Tu me le peins comme un homme qui me manque de respect ; et point du tout ; c'est qu'on n'en eut jamais tant pour personne, c'est qu'il en est pénétré.
 
--*who_angelique
-Tu as tout entendu de travers, te dis-je, tu n'as pas eu l'esprit de voir qu'il m'aimait.
-Tu viens me dire qu'il a disposé de ma main pour un autre ; et c'était pour lui qu'il la demandait.
-Tu me le peins comme un homme qui me manque de respect ; et point du tout ; c'est qu'on n'en eut jamais tant pour personne, c'est qu'il en est pénétré.
+Eh ! Non, brouillonne, non, tu ne sais encore ce que tu dis. Je ne le saurais pas, son amour ; je ne ferais encore que le soupçonner, sans le détour qu'il a pris pour me l'apprendre. Il lui a fallu un détour ! N'est-ce pas là un homme bien hardi, bien digne de l'accueil que tu lui as attiré de ma part ? En vérité, il y a des moments où je suis tentée de lui en faire mes excuses, et je le devrais peut-être.
 
--*who_lisette
-Où est-ce qu'elle est donc cette pénétration, pisqu'il a prins la licence d'aller vous déclarer je vous aime, maugré vote importance ?
-
--*who_angelique
-Eh !
-Non, brouillonne, non, tu ne sais encore ce que tu dis.
-Je ne le saurais pas, son amour ; je ne ferais encore que le soupçonner, sans le détour qu'il a pris pour me l'apprendre.
-Il lui a fallu un détour !
-N'est-ce pas là un homme bien hardi, bien digne de l'accueil que tu lui as attiré de ma part ?
-En vérité, il y a des moments où je suis tentée de lui en faire mes excuses, et je le devrais peut-être.
-
--*who_lisette
-Prenez garde à vote grandeur ; alla est bian douillette en cette occurrence.
-
--*who_angelique
 Écoute, je ne te querelle point ; mais ta bévue me met dans une situation bien fâcheuse.
 
--*who_lisette
-Eh !
-D'où viant ?
-Est-ce qu'ous êtes obligée d'honorer cet homme, à cause qu'il vous aime ?
-Est-ce que son inclination vous commande ?
-Il vous l'a déclaré par un tour ?
-Eh bian !
-Qu'il torne.
-Ne tiant-il qu'à torner pour avoir la main du monde ?
-Où est l'embarras ?
-Quand vous auriez su d'abord que c'était li, c'était vote intention d'être suparbe, vous l'auriez rabroué pas moins.
+Eh ! Qu'en sais je ? De la manière dont je vois mon père mortifié de mon refus, je ne saurais répondre de ce que j'aurais fait. Tu sais de quoi je suis capable pour lui plaire : je n'entends point raison là-dessus.
 
--*who_angelique
-Eh !
-Qu'en sais je ?
-De la manière dont je vois mon père mortifié de mon refus, je ne saurais répondre de ce que j'aurais fait.
-Tu sais de quoi je suis capable pour lui plaire : je n'entends point raison là-dessus.
+Mais, c'est que Dorante n'est pas un homme comme ça. Tu le confonds toujours avec ce je ne sais qui dont tu m'as parlé ; et ce n'est pas là Dorante.
 
--*who_lisette
-Ça est biau et mêmement vénérable, mais vote père est bonhomme ; il ne voudrait pas vous bailler de petites gens en mariage.
-Faut donc qu'il ne s'y connaisse pas, pisqu'il désire que vous épousiais un homme comme ça.
+Dorante n'a pas fait sa fortune ; il l'a trouvée toute faite. Dorante est de très bonne famille, et très distinguée, quoique sans noblesse ; de ces familles qui vont à tout, qui s'allient à tout. Dorante épousera qui il voudra : c'est d'ailleurs un fort honnête homme.
 
--*who_angelique
-Mais, c'est que Dorante n'est pas un homme comme ça.
-Tu le confonds toujours avec ce je ne sais qui dont tu m'as parlé ; et ce n'est pas là Dorante.
+Et en vérité, Lisette, beaucoup plus aimable que je ne pensais. Cette aventure-ci m'a appris à le connaître et mon père a raison. Je ne suis point surprise qu'il le regrette, et qu'il soit mortifié de me donner au Baron.
 
--*who_lisette
-C'est que ma mémoire se brouille, rapport à cet autre.
-
--*who_angelique
-Dorante n'a pas fait sa fortune ; il l'a trouvée toute faite.
-Dorante est de très bonne famille, et très distinguée, quoique sans noblesse ; de ces familles qui vont à tout, qui s'allient à tout.
-Dorante épousera qui il voudra : c'est d'ailleurs un fort honnête homme.
-
--*who_lisette
-Oh !
-Pour ça oui, un gentil caractère, un brave coeur, qui se trouvait là de rencontre.
-
--*who_angelique
-Et en vérité, Lisette, beaucoup plus aimable que je ne pensais.
-Cette aventure-ci m'a appris à le connaître et mon père a raison.
-Je ne suis point surprise qu'il le regrette, et qu'il soit mortifié de me donner au Baron.
-
--*who_lisette
-Au Baron !
-Est-ce que vous allez être sa Baronne ?
-
--*who_angelique
 Eh ! vraiment, mon père l'attend pour nous marier ; car il croit que je l'aime, et il n'en est rien.
 
--*who_lisette
-Eh !
-Pardi !
-N'y a qu'à li dire qu'il s'abuse.
-
--*who_angelique
 Il n'y a donc qu'à lui dire aussi que je suis folle ; car c'est moi qui l'ai persuadé que je l'aimais.
 
--*who_lisette
-Eh !
-Pourquoi avoir jeté cette bourde-là en avant ?
+Eh ! Pourquoi ? Ce n'est pas là tout, je l'ai fait accroire à Dorante lui-même.
 
--*who_angelique
-Eh !
-Pourquoi ?
-Ce n'est pas là tout, je l'ai fait accroire à Dorante lui-même.
+Sait-on ce qu'on dit quand on est fâchée ? C'était pour le braver, et dans la peur qu'il ne se fût flatté que je ne le haïssais pas.
 
--*who_lisette
-Et la cause ?
+Eh ! Point du tout. Il arrive, ce malheureux Baron ; il a gagné son maudit procès que l'on croyait immortel, qui ne devait finir que dans cent ans ; il l'a gagné par je ne sais quelle protection qu'on lui a procuré ; car il y a toujours des gens qui se mêlent de ce dont ils n'ont que faire. Enfin, il arrive ce soir ; il entre peut-être actuellement dans la cour du château.
 
--*who_angelique
-Sait-on ce qu'on dit quand on est fâchée ?
-C'était pour le braver, et dans la peur qu'il ne se fût flatté que je ne le haïssais pas.
-
--*who_lisette
-C'est par trop finasser aussi.
-Mais pour à l'égard du Baron, il y aura du répit ; car il est à Paris qui plaide ; les procureurs et les avocats ne le lâcheront pas sitôt, et j'avons de la marge.
-
--*who_angelique
-Eh !
-Point du tout.
-Il arrive, ce malheureux Baron ; il a gagné son maudit procès que l'on croyait immortel, qui ne devait finir que dans cent ans ; il l'a gagné par je ne sais quelle protection qu'on lui a procuré ; car il y a toujours des gens qui se mêlent de ce dont ils n'ont que faire.
-Enfin, il arrive ce soir ; il entre peut-être actuellement dans la cour du château.
-
--*who_lisette
-Faut vous tirer de là, coûte qui coûte.
-
--*who_angelique
 À quelque prix que ce soit, tu penses fort bien.
 
--*who_lisette
-Faut demander du temps d'abord.
+Du temps ? Cela ne me raccommodera pas avec mon père.
 
--*who_angelique
-Du temps ?
-Cela ne me raccommodera pas avec mon père.
+Eh bien ! Son Dorante ! Que t'a-t-il fait ? Car il me semble que ta fureur est que je le haïsse.
 
--*who_lisette
-Oh !
-Dame, vote père !
-Il ne songe qu'à son Dorante.
-
--*who_angelique
-Eh bien !
-Son Dorante !
-Que t'a-t-il fait ?
-Car il me semble que ta fureur est que je le haïsse.
-
--*who_lisette
-Moi ?
-
--*who_angelique
 Mais oui, tu as de l'antipathie pour lui ; je l'ai remarqué.
 
--*who_lisette
-C'est que je sais que vous ne l'aimez pas.
+Ce serait mon affaire. Je n'ai point d'aversion pour lui ; et c'en est assez pour une fille raisonnable.
 
--*who_angelique
-Ce serait mon affaire.
-Je n'ai point d'aversion pour lui ; et c'en est assez pour une fille raisonnable.
+Eh ! Laisse là ce Baron éternel.
 
--*who_lisette
-Le pus principal, c'est ce Baron qui arrive.
-
--*who_angelique
-Eh !
-Laisse là ce Baron éternel.
-
--*who_lisette
-Eh bian !
-Madame, prenez donc l'autre.
-
--*who_angelique
 Ma difficulté est que je l'ai refusé, qu'il s'est nommé, et que je n'ai rien dit.
 
--*who_lisette
-N'y a qu'à le rappeler.
-
--*who_angelique
 Ah ! voilà ce que je ne saurais faire, je ne me résoudrai jamais à cette humiliation-là.
 
--*who_lisette
-Allons, c'est bian fait, et vive la grandeur !
-Putôt mourir que d'avoir l'affront d'être honnête !
+Tout ce que tu me proposes est extrême. J'imagine pourtant un moyen de renouer avec lui sans me compromettre.
 
--*who_angelique
-Tout ce que tu me proposes est extrême.
-J'imagine pourtant un moyen de renouer avec lui sans me compromettre.
-
--*who_lisette
-Lequeul ?
-
--*who_angelique
 Un moyen qui te sera même avantageux, et je suis d'avis que tu ailles le trouver de ma part.
 
--*who_lisette
-Tenez, je vois Lépaine qui passe, baillez-li vote orde.
-
--*who_angelique
 Appelle-le.
 
-**** *book_ *id_I09 *act_I *date_1646
-
--*who_lisette
-Monsieur, Monsieur de Lépaine, approchez-vous vers Madame.
-
--*who_lepine
-Que lui plaît-il, à Madame ?
-
--*who_angelique
 Va, je te prie, informer ton maître que j'aurais un mot à lui dire.
 
--*who_lepine
-Je l'en informerai le plus vite que je pourrai, Madame ; car je vais si lentement...
-Je n'ai le coeur à rien.
-Ah !
+Que signifie donc ce soupir ? On dirait qu'il vient de pleurer.
 
--*who_angelique
-Que signifie donc ce soupir ?
-On dirait qu'il vient de pleurer.
+Il m'alarme. Qu'est-il donc arrivé ?
 
--*who_lepine
-Oui, Madame, j'ai pleuré, je pleure encore ; et je n'y renonce pas, j'en ai peut-être pour le reste de l'année, qui n'est pas bien avancée.
-Je suis homme à faire des cris de désespéré, sans respect de personne.
+Entends-tu, Lisette ? Ils partent !
 
--*who_lisette
-Miséricorde !
-
--*who_angelique
-Il m'alarme.
-Qu'est-il donc arrivé ?
-
--*who_lepine
-Hélas !
-Vous le savez bien, Madame, vous qui nous renvoyez tous deux, mon maître et moi, comme de trop minces personnages ; ce qui fait que nous partons.
-
--*who_angelique
-Entends-tu, Lisette ?
-Ils partent !
-
--*who_lisette
-Je serons boudées par Monsieur le Marquis.
-
--*who_angelique
 Il ne me le pardonnera pas, Lisette, et Dorante le sait bien.
 
--*who_lepine
-Il se retire à demi mort, et moi aussi.
+Ah ! Le méchant homme !
 
--*who_angelique
-Ah !
-Le méchant homme !
-
--*who_lisette
-Oui, il y a de la malice à ça.
-
--*who_lepine
-Nous n'arriverons jamais à Paris que défunts, quoique à la fleur de notre âge ; car nous méritions de vivre.
-Mais vous nous poignardez ; et c'est la valeur de deux meurtres que vous vous reprocherez quelque jour.
-
--*who_angelique
 Il me fait tout le mal qu'il peut.
 
--*who_lisette
-Pour l'attraper, je l'épouserais.
+Va le chercher, te dis-je. Où est-il ?
 
--*who_angelique
-Va le chercher, te dis-je.
-Où est-il ?
+Non, non, console-toi, Lépine. Il faudra bien du moins que Dorante retarde de quelques jours ; car toute réflexion faite, j'allais dire à Lisette que j'approuve qu'elle t'épouse ; et ton maître, qui t'aime, assistera sans doute à ton mariage. Lisette ne voulait que mon consentement, et je le donne : va, hâte-toi de l'en instruire.
 
--*who_lepine
-Je n'en sais rien, Madame ; ni lui non plus ; car nous sommes comme des égarés, surtout depuis que nos ballots sont faits.
-
--*who_lisette
-Cela se passera par les chemins ; vous garirez au grand air.
-
--*who_angelique
-Non, non, console-toi, Lépine.
-Il faudra bien du moins que Dorante retarde de quelques jours ; car toute réflexion faite, j'allais dire à Lisette que j'approuve qu'elle t'épouse ; et ton maître, qui t'aime, assistera sans doute à ton mariage.
-Lisette ne voulait que mon consentement, et je le donne : va, hâte-toi de l'en instruire.
-
--*who_lepine
-Je suis guéri !
-
--*who_lisette
-Vote consentement, Madame !
-Oh !
-Que nenni.
-Vous me considérez trop pour ça, et je m'en vais.
-Vote sarvante, Monsieur de Lépaine.
-
--*who_lepine
-Je retombe.
-
--*who_angelique
 Restez, Lisette, je vous défends de sortir : j'ai quelque chose à vous dire.
 Attends que je lui parle, et éloigne-toi de quelques pas.
 
--*who_lepine
-Oui, Madame ; mon état a besoin de secours.
+Que vous êtes haïssable ! N'est-on pas bien récompensée de l'intérêt qu'on prend à vous ? Êtes-vous folle de ne pas prendre cet homme-là ?
 
--*who_angelique
-Que vous êtes haïssable !
-N'est-on pas bien récompensée de l'intérêt qu'on prend à vous ?
-Êtes-vous folle de ne pas prendre cet homme-là ?
-
--*who_lisette
-Eh mais !
-Je l'ai refusé, Madame.
-
--*who_angelique
 Plaisante délicatesse !
 
--*who_lisette
-C'est de vote avis.
-
--*who_angelique
 Savais-je alors que son maître devait lui faire tant de bien ?
 
--*who_lepine
-Voyez la bonté !
-
--*who_angelique
 Je me reprocherais toute ma vie de vous avoir fait manquer votre fortune.
 
--*who_lisette
-Soyons ruinées, Madame, et toujours glorieuses ; jamais d'humilité, c'est une pensée que je tians de vous.
-Vous m'avez dit : Garde ta morgue et ton rang, et je les garde.
-Si c'est mal fait, je vous en charge.
-
--*who_angelique
 Votre fierté est si ridicule, qu'elle me dégoûte de la mienne.
 
--*who_lisette
-Je suis fille de fiscal, une fois ; qu'il me vienne un bailli, je le prends.
+J'admire ma complaisance ; et je finis par un mot. M'aimez-vous, Lisette ?
 
--*who_lepine
-Un concierge a bien son mérite.
-Excusez, Madame : c'est que j'entends parler de bailli.
+Voici un départ trop brusque, et qui va retomber sur moi. Il ne tient qu'à vous de le retarder, en vous mariant avantageusement. Ce n'est même que sous prétexte de votre mariage que j'envoie chercher Dorante ; et si votre refus continue, je ne vous verrai de ma vie.
 
--*who_angelique
-J'admire ma complaisance ; et je finis par un mot.
-M'aimez-vous, Lisette ?
-
--*who_lisette
-Si je vous aime ?
-Par-delà ma propre parsonne.
-
--*who_angelique
-Voici un départ trop brusque, et qui va retomber sur moi.
-Il ne tient qu'à vous de le retarder, en vous mariant avantageusement.
-Ce n'est même que sous prétexte de votre mariage que j'envoie chercher Dorante ; et si votre refus continue, je ne vous verrai de ma vie.
-
--*who_lisette
-Vote représentation m'abat, n'y aura pus de partance.
-
--*who_lepine
-Je crois que cela s'accommode.
-
--*who_lisette
-Je me marierai, afin qu'il séjourne, mais j'y boute une condition.
-Baillez-moi l'exemple ; amendez-vous, je m'amende.
-
--*who_angelique
 C'est une autre affaire.
 
--*who_lepine
-Est-ce fait, Madame ?
+Lève-toi donc, tu n'y songes pas. Je vais chercher mon père à qui j'ai à parler ; va, de ton côté, avertir ton maître, que je compte de retrouver ici, où je vais revenir dans quelques moments.
 
--*who_lisette
-Oui, Monsieur de Lépaine, velà qui est rangé.
-Acoutez les paroles que je profère.
-Quand on varra la noce de Madame, on varra la nôtre ; la petite avec la grande.
+Je venais vous parler, mon père, et je ne suis point fâchée que Dorante soit présent à ce que j'ai à vous dire. Il a tantôt proposé un mariage qui m'a d'abord répugné, j'en conviens.
 
--*who_lepine
-Ah !
-Quelle joie !
-Je tombe à vos genoux, Madame, sauvez la petite.
+Un moment, Monsieur. Je sais jusqu'où va l'amitié que mon père a pour vous ; et si vous vous étiez nommé, les choses se seraient passées différemment ; il n'aurait pas été question de mes répugnances ; ma tendresse pour lui les aurait fait taire, ou me les aurait ôtées, Monsieur ; il n'a tenu qu'à vous de lui épargner la douleur où je l'ai vu de mon refus ; je n'aurais pas eu celle de lui avoir déplu, et je ne l'ai chagriné que par votre faute.
 
--*who_angelique
-Lève-toi donc, tu n'y songes pas.
-Je vais chercher mon père à qui j'ai à parler ; va, de ton côté, avertir ton maître, que je compte de retrouver ici, où je vais revenir dans quelques moments.
-
-**** *book_ *id_I10 *act_I *date_1646
-
--*who_lisette
-Qu'en dis-tu, Lépaine ?
-Velà de bonne besogne ; cette fille-là marche toute seule, n'y a pus qu'à la voir aller.
-
--*who_lepine
-Respirons.
-
-**** *book_ *id_I11 *act_I *date_1646
-
--*who_dorante
-Eh bien !
-Lisette, as-tu vu Angélique ?
-
--*who_lisette
-Si je l'ons vue !
-Il vous est commandé de l'attendre ici.
-
--*who_dorante
-À moi ?
-
--*who_lepine
-Oui, Monsieur ; je vous défends de partir, par un ordre de sa part.
-
--*who_lisette
-Et si vous partez, alle renonce à moi, parce que ce sera ma faute.
-
--*who_lepine
-C'est elle qui me marie avec Lisette, Monsieur.
-
--*who_lisette
-Et il va être mon homme, pour à celle fin que vous restiais.
-
--*who_lepine
-Il n'y a ballot qui tienne, il faut tout défaire.
-
--*who_lisette
-Et vous êtes un méchant homme de vouloir vous en aller, pour la faire bouder par son père.
-
--*who_dorante
-Expliquez-moi donc ce que cela signifie, vous autres.
-
--*who_lisette
-Et je li ai enjoint qu'alle serait votre femme, et alle ne s'est pas rebéquée.
-
--*who_lepine
-Souvenez-vous que vous languissez, n'oubliez pas que vous êtes mourant.
-
--*who_dorante
-Éclaircissez-moi, mettez-moi au fait, je ne vous entends pas.
-
--*who_lisette
-N'y a pus de temps, ce sera pour tantôt.
-Suis-moi, Lépaine, velà Monsieur le Marquis qui entre.
-
-**** *book_ *id_I12 *act_I *date_1646
-
--*who_dorante
-Vous me laissez dans une furieuse inquiétude.
-
--*who_lemarquis
-Je vous cherchais, Dorante, et je viens vous sommer de la parole que vous m'avez donnée tantôt, vous ne savez pas que j'ai encore une fille, une cadette qui vaut bien son aînée.
-
--*who_dorante
-Eh bien !
-Monsieur ?
-
--*who_lemarquis
-Cette cadette, il faut que vous la connaissiez.
-Tout ce que je vous demande, c'est de la voir ; je n'en exige pas davantage.
-Voilà la complaisance à laquelle vous vous êtes engagé : vous ne pouvez vous en dédire.
-
--*who_dorante
-Mais qu'en arrivera-t-il ?
-
--*who_lemarquis
-Rien ; nous verrons.
-
-**** *book_ *id_I13 *act_I *date_1646
-
--*who_angelique
-Je venais vous parler, mon père, et je ne suis point fâchée que Dorante soit présent à ce que j'ai à vous dire.
-Il a tantôt proposé un mariage qui m'a d'abord répugné, j'en conviens.
-
--*who_dorante
-Votre refus m'afflige, Madame, mais je le respecte, et n'en murmure point.
-
--*who_angelique
-Un moment, Monsieur.
-Je sais jusqu'où va l'amitié que mon père a pour vous ; et si vous vous étiez nommé, les choses se seraient passées différemment ; il n'aurait pas été question de mes répugnances ; ma tendresse pour lui les aurait fait taire, ou me les aurait ôtées, Monsieur ; il n'a tenu qu'à vous de lui épargner la douleur où je l'ai vu de mon refus ; je n'aurais pas eu celle de lui avoir déplu, et je ne l'ai chagriné que par votre faute.
-
--*who_lemarquis
-Eh non, ma fille ; vous ne m'avez point déplu ; ôtez-vous cela de l'esprit.
-Il est vrai que Dorante m'est cher, mais je ne saurais vous savoir mauvais gré d'avoir fait un autre choix.
-
--*who_angelique
 Vous m'excuserez, mon père, vous ne voulez pas me le dire, et vous me ménagez ; mais vous étiez très mécontent de moi.
 
--*who_lemarquis
-Je vous répète que c'est une chimère.
-
--*who_angelique
 Très mécontent, vous dis-je ; je sais à quoi m'en tenir là-dessus, et mon parti est pris.
 
--*who_dorante
-Votre parti Madame !
-Ah !
-De grâce, achevez, à quoi vous déterminez-vous ?
-
--*who_lemarquis
-Laissons cela, Angélique ; il n'est pas question ici de consulter mon goût, vous êtes destinée à un autre : c'est au Baron ; vous l'aimez, et voilà qui est fini.
-
--*who_angelique
 Non, mon père, je ne l'épouserai pas non plus, puisque je sais qu'il ne vous plaît point.
 
--*who_lemarquis
-Vous l'épouserez, et je vous l'ordonne.
-Savez-vous à quoi j'ai pensé ?
-Dorante se disposait à partir, je l'ai retenu.
-Vous avez une soeur, j'ai exigé qu'il la vît : j'ai eu de la peine à l'y résoudre, il a fallu abuser un peu du pouvoir que j'ai sur lui : mais enfin j'ai obtenu que nous irions la voir demain, et peut-être l'arrêtera-t-elle.
-
--*who_dorante
-Eh !
-Monsieur, cela n'est pas possible.
-
--*who_lemarquis
-Demandez à sa soeur.
-Dites, Angélique ? n'est-il pas vrai qu'elle a de la beauté ?
-
--*who_angelique
 Mais oui, mon père.
 
--*who_lemarquis
-Venez, j'ai dans mon cabinet un portrait d'elle que je veux vous montrer, et qui, de l'aveu de tout le monde, ne la flatte pas.
-
-**** *book_ *id_I14 *act_I *date_1646
-
--*who_lisette
-Monsieur, il vient de venir un homme que vous avez, dit-il, envoyé chercher pour le Baron, et qui attend dans la salle.
-
--*who_lemarquis
-Je vais lui parler ; je n'ai qu'un mot à lui dire, attendez-moi, Dorante.
-Je reviens dans le moment.
-
-**** *book_ *id_I15 *act_I *date_1646
-
--*who_dorante
-Je ne sais où je suis.
-
--*who_angelique
 Vous restez donc, Monsieur ?
 
--*who_dorante
-Oui, Madame.
-Lépine m'a averti que vous aviez à me parler ; et j'allais me rendre à vos ordres, si Monsieur le Marquis ne m'avait pas arrêté.
-
--*who_angelique
 Il est vrai, Monsieur, j'avais à vous appendre que je consentais à son mariage avec Lisette.
 
--*who_dorante
-Je serai donc le seul qui m'en retournerai le pus malheureux de tous les hommes.
-
--*who_angelique
 Il faut avouer que vous vous êtes bien mal conduit dans tout ceci.
 
--*who_dorante
-Moi, Madame ?
+Oui, Monsieur, vous me proposez. Un inconnu que je refuse, sans savoir que c'est vous ; quand vous vous nommez, il n'est plus temps. J'ai dit que j'avais de l'inclination pour un autre, et là-dessus, vous allez voir ma soeur.
 
--*who_angelique
-Oui, Monsieur, vous me proposez.
-Un inconnu que je refuse, sans savoir que c'est vous ; quand vous vous nommez, il n'est plus temps.
-J'ai dit que j'avais de l'inclination pour un autre, et là-dessus, vous allez voir ma soeur.
-
--*who_dorante
-Ah !
-Madame, j'y vais malgré moi, vous le savez, Monsieur le Marquis veut que je le suive.
-Daignez me défendre de lui tenir parole, je vous le demande en grâce.
-J'ai besoin du plaisir de vous obéir, pour avoir la force de lui résister.
-
--*who_angelique
 Je le veux bien, à condition pourtant qu'il ne saura pas que je vous le défends.
 
--*who_dorante
-Non, Madame, je prends tout sur moi, et je pars ce soir.
-
--*who_angelique
 Il ne faut pas que vous partiez non plus : du moins je ne le voudrais pas, car mon père m'imputerait votre départ.
 
--*who_dorante
-Eh !
-Madame, épargnez-moi, de grâce, le désespoir d'être témoin de votre mariage avec le Baron.
+Eh bien ! Je ne l'épouserai point, je vous le promets.
 
--*who_angelique
-Eh bien !
-Je ne l'épouserai point, je vous le promets.
+Eh mais ! Je ne vous retiendrais pas, si je voulais l'épouser.
 
--*who_dorante
-Vous me le promettez ?
-
--*who_angelique
-Eh mais !
-Je ne vous retiendrais pas, si je voulais l'épouser.
-
--*who_dorante
-C'est du moins une grande consolation pour moi.
-Je n'ai pas l'audace d'en demander davantage.
-
--*who_angelique
 Vous pouvez parler.
 
--*who_dorante
-Ah !
-Madame, qu'entends-je ?
-Oserai-je croire qu'en ma faveur...
+Levez-vous, Dorante. Vous avez triomphé d'une fierté que je désavoue, et mon coeur vous en venge.
 
--*who_angelique
-Levez-vous, Dorante.
-Vous avez triomphé d'une fierté que je désavoue, et mon coeur vous en venge.
+Oui, mon père, je suis charmée de l'y voir, et je crois que vous n'en serez pas fâché. Dispensez-moi d'en dire davantage.
 
--*who_dorante
-L'excès de mon bonheur me coupe la parole.
 
-**** *book_ *id_I16 *act_I *date_1646
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
--*who_lemarquis
-Que signifie ce que je vois ?
-Dorante à vos genoux, ma fille !
+Eh bien ! Que me voulez-vous donc, Monsieur de Lépaine, en me tirant comme ça à l'écart ?
 
--*who_angelique
-Oui, mon père, je suis charmée de l'y voir, et je crois que vous n'en serez pas fâché.
-Dispensez-moi d'en dire davantage.
+J'en sis d'accord, après ?
 
--*who_lemarquis
-Embrassez-moi, Dorante ; je suis content.
-Sortons, je me charge de faire entendre raison au Baron.
+Moi, je ne saurais. Je ne devine jamais le reste, à moins qu'on ne me le dise.
 
--*who_lisette
+Tout de bon ?
+
+Dame ! Comme vous demandez ça ! J'ai quasiment envie de crier au voleur.
+
+Quoi ! Tout à l'heure ?
+
+Vraiment ! Grand marci de la patience, mais vous avez là de furieuses volontés, Monsieur de Lépaine !
+
+Ça ne se peut pas, Monsieur de Lépaine. Ce n'est pas qu'on ne soyais agriable, mais mon rang me le défend ; je vous en informe, tout ce qui est comme vous n'est pas mon pareil, à ce que m'a dit ma maîtresse.
+
+Le chapiau et la familiarité itou.
+
+Bonne maison ! La nôtre était la meilleure de tout le village, et que trop bonne ; c'est ce qui nous a ruinés. En un mot comme en cent, je suis la fille d'un homme qui était, en son vivant, procureur fiscal du lieu et qui mourut l'an passé ; ce qui a fait que notre jeune dame, faute de fille de chambre, m'a pris depuis trois mois cheux elle, en guise de compagnie.
+
+À cause de quoi ?
+
+Oui, qui jugeait le monde, qui était honoré d'un chacun, qui avait un grand renom.
+
+Diantre !
+
+Sans doute, et je me reprends ; je trouve ça biau. Stapendant vous ne sarvez qu'un bourgeois.
+
+En lieu que moi, je suis à la fille d'un marquis.
+
+Il m'apparaît que t'as raison, Lépaine, je vois que ma maîtresse m'a trop haussé le coeur, et je me dédis ; je pense que je ne nous devons rian.
+
+J'en serais consentante si vous ne vous en retourniais pas bientôt à Paris, vous autres.
+
+Tout à fait. Un mari comme toi, un châtiau, et note amour, me velà bian, pourvu que ça se soutienne.
+
+Biaucoup, Lépaine ; tians, je sis franche, t'avais besoin de mon coeur, moi, j'avais faute du tian ; et ça m'a prins drès que je t'ai vu, sans faire semblant, et quand il n'y aurait ni châtiau, ni timbales dans ton affaire, je serais encore contente d'être ta femme.
+
+Je les prends comme elles viennent.
+
+Tiens, prends, la voilà
+
+Il n'y a donc qu'à prenre qu'ou le savez, Monsieur.
+
+Que voulez-vous ? Il m'a tant parlé de sa raison pardue, d'épousailles, et des circonstances de ma parsonne : il a si bian agencé ça avec vote châtiau, que me velà concierge, autant vaut.
+
+Pas tout à fait. Faut cheminer doucement : il y a à prenre garde.
+
+Écoutez, Monsieur, je commence par le meilleur. C'est que c'est une fille comme il n'y en a point, d'abord. C'est folie que d'en chercher une autre ; il n'y a de ça que cheux nous ; ça se voit ici, et velà tout. C'est la pus belle himeur, le coeur le pus charmant, le pus benin !... Fâchez-la, ça vous pardonne ; aimez-la, ça vous chérit : il n'y a point de bonté qu'alle ne possède ; c'est une marveille, une admiration du monde, une raison, une libéralité, une douceur !... Tout le pays en rassote.
+
+Ah çà ! Vous l'aimez, dites-vous ? Je vous avise qu'alle s'en doute.
+
+Oui, Monsieur, alle en a pris la doutance dans vote oeil, dans vos révérences, dans le respect de vos paroles.
+
+Oui, Monsieur ; j'en discourons parfois. Lisette, ce me fait-elle, je crois que ce garçon de Paris m'en veut ; sa civilité me le montre. C'est vote biauté qui l'y oblige, ce li fais-je. Alle repart : Ce n'est pas qu'il m'en sonne mot, car il n'oserait ; ma qualité l'empêche. Ça vienra, ce li dis-je. Oh ! Que nenni, ce me dit-elle ; il m'appriande trop ; je serais pourtant bian aise d' être çartaine, à celle fin de n'en plus douter. Mais il vous fâchera s'il s'enhardit, ce li dis-je. Vraiment oui, ce dit-elle ; mais faut savoir à qui je parle ; j'aime encore mieux être fâchée que douteuse.
+
+Eh ! Oui, c'est mon opinion itou. Hier encore, je li disais, toujours à vote endroit : Madame, queu dommage qu'il soit bourgeois de nativité ! Que c'est une belle prestance d'homme ! Je n'avons point de noblesse qui ait cette phisolomie-là : alle est magnifique, pardi ! Quand ce serait pour la face d'un prince. T'as raison, Lisette, me répartit-elle ; oui, ma fille, c'est dommage ; cette nativité est fâcheuse ; car le parsonnage est agriable, il fait plaisir à considérer, je n'en vas pas à l'encontre.
+
+Ah ! Monsieur, qui est-ce qui sait ça ? Parsonne. Alle a de la raison en tout et partout, hors dans cette affaire de noblesse. Faut pas vous tromper. Il n'y a que les gentilshommes qui soyont son prochain, le reste est quasiment de la formi pour elle. Ce n'est pas que vous ne li plaisiais. S'il n'y avait que son coeur, je vous dirais : Il vous attend, il n'y a qu'à le prenre ; mais cette gloire est là qui le garde ; ce sera elle qui gouvarnera ça, et faudrait trouver queuque manigance.
+
+Et que li dirais-je ?
+
+D'un autre bourgeois ainsi que vous ?
+
+Moi, j'aperçois qu'alle sera furieuse, qu'alle va choir en indignation, par dépit. Peut-être qu'alle vous excuserait, vous, maugré la bourgeoisie ; mais n'y aura pas de marci pour un pareil à vous ; alle dégrignera vote homme, alle dira que c'est du fretin.
+
+Oui, je comprends, ce ne sera pas vous qui aurez eu les injures, ce sera l'autre ; et pis, quand alle saura que c'est vous...
+
+Et de dire : C'est une autre histoire, je ne parlais pas de vous.
+
+Ce tornant-là me plait ; et même faut d'abord que je vous en procure des injures, à celle fin que ça vous profite après. Mais je la vois qui se promène sur la terrasse. Allez-vous-en, Monsieur, pour me bailler le temps de la dépiter envars vous.
+À propos, Monsieur, faut itou que vous li touchiais une petite parole sur ce que Lépaine me recharche ; j'ai ma finesse à ça, que je vous conterai.
+
+Vous n'avez pas la barlue, Madame, et il y a bian des nouvelles. C'est Monsieur Dorante li-même, qui s'enquierre comment vous va le coeur, et si parsonne ne l'a prins ; c'est mon galant Lépaine qui demande après le mien. Est-ce que ça n'est pas biau ?
+
+Oh bian ! Ce n'est pas la peine de vous ressouvenir de ça, vous velà exempte de mémoire.
+
+Aucun. Il n'a peur de rian. Il n'a que faire de renoncer : il ne vous veut pas. C'est seulement qu'il est le commis d'un autre.
+
+Oui, d'un je ne sais qui, d'un mari tout prêt qu'il a en main, et qu'il désire de vous présenter par-devant notaire. Un homme jeune, opulent, un bourgeois de sa sorte.
+
+Oh ! Pour ça, oui ! Bian téméraire envars une damoiselle de vote étoffe, et de la conséquence de vos père et mère ; ça m'a donné un scandale !...
+
+Et que cet acabit de mari n'est pas capable d'être vote homme : allons.
+
+Oui, la moquerie suffit, il n'y a qu'à lever l'épaule avec du petit monde.
+
+Je sis tout ébahie, car j'ons vu des mines d'amoureux, et il en avait une pareille ; je vous prends à témoin.
+
+Avoir un visage qui ment, est-il permis ?
+
+Encore, s'il parlait pour son compte, je li pardonnerais quasiment ; car je le trouvais joli, comme vous le trouviais itou, à ce qu'on m'avez dit.
+
+Pardi non, n'y a pas de rancune à ça. C'est un mal-appris qui est bian torné, et pis c'est tout.
+
+La belle magnière de penser ! Ce que c'est que d'aimer son père !
+
+Cette reconnaissance-là, alle vous aurait menée à la noce, ni pus ni moins.
+
+Oui, mais de Lépaine que ferai-je, moi, qui sis participante de vote rang ?
+
+Ça suffit. S'il retourne à moi, je vous li garde son petit fait... Et je vous recommande le maître. Le vela qui rôde à l'entour d'ici, et je m'échappe afin qu'il arrive. Je repasserons pour savoir les nouvelles.
+
+Je vous guettons, Monsieur. Or sus, qu'y a-t-il de nouviau ?
+
+N'est-ce que ça ? Moquez-vous de son Baron, je sais le fond et le tréfond. Faut qu'alle soit bian dépitée pour avoir parlé de la magnière. Tant mieux, que le Baron vienne, il la hâtera d'aller. Gageons qu'alle a été bian rudanière envars vous, bian ridicule et malhonnête.
+
+Ça va comme un charme. Sait-elle qu'ous êtes l'homme ?
+
+C'est qu'alle fait déjà la chattemite ; velà le repentir qui l'amende.
+
+Eh ! C'est cette gloire ; mais ça s'en ira ; velà que ça meurit, faut que ça tombe ; j'en avons la marque ; à telles enseignes que tantôt...
+
+Paix ; sortez d'ici. Je la vois qui vient en rêvant. Allez-vous-en, de peur qu'alle ne vous rencontre. N'oublie pas de venir pour la besogne que tu sais, et que tu diras à Monsieur, entends-tu, Lépaine ? Je nous varrons pour le conseil.
+
+Qu'est-ce donc, Madame ? Vous velà bian pensive. J'ons rencontré ce petit bourgeois, qui avait l'air pus sot, pus benêt ; sa phisolomie était plus longue, alle ne finissait point ; c'était un plaisir. C'est que vous avez bian rabroué le freluquet n'est-ce pas ? Contez-moi ça, Madame.
+
+Dame ! vous l'avez appelé petit monsieur : et un petit monsieur, c'est justement et à point un freluquet ; il n'y a pas pus à pardre ou à gagner sur l'un que sur l'autre.
+
+Ouais ! Point à vous plaindre de li ! Comment, marci de ma vie ! Dorante n'est pas un mal-apprins, après l'impartinence qu'il a commise envars la révérence due à vote qualité ?
+
+Eh bian ! Il n'y a qu'à crier pus bas.
+
+Ça m'étonne. J'ons pourtant cotume d'avoir toujours mon jugement.
+
+Où est-ce qu'elle est donc cette pénétration, pisqu'il a prins la licence d'aller vous déclarer je vous aime, maugré vote importance ?
+
+Prenez garde à vote grandeur ; alla est bian douillette en cette occurrence.
+
+Eh ! D'où viant ? Est-ce qu'ous êtes obligée d'honorer cet homme, à cause qu'il vous aime ? Est-ce que son inclination vous commande ? Il vous l'a déclaré par un tour ? Eh bian ! Qu'il torne. Ne tiant-il qu'à torner pour avoir la main du monde ? Où est l'embarras ? Quand vous auriez su d'abord que c'était li, c'était vote intention d'être suparbe, vous l'auriez rabroué pas moins.
+
+Ça est biau et mêmement vénérable, mais vote père est bonhomme ; il ne voudrait pas vous bailler de petites gens en mariage. Faut donc qu'il ne s'y connaisse pas, pisqu'il désire que vous épousiais un homme comme ça.
+
+C'est que ma mémoire se brouille, rapport à cet autre.
+
+Oh ! Pour ça oui, un gentil caractère, un brave coeur, qui se trouvait là de rencontre.
+
+Au Baron ! Est-ce que vous allez être sa Baronne ?
+
+Eh ! Pardi ! N'y a qu'à li dire qu'il s'abuse.
+
+Eh ! Pourquoi avoir jeté cette bourde-là en avant ?
+
+Et la cause ?
+
+C'est par trop finasser aussi. Mais pour à l'égard du Baron, il y aura du répit ; car il est à Paris qui plaide ; les procureurs et les avocats ne le lâcheront pas sitôt, et j'avons de la marge.
+
+Faut vous tirer de là, coûte qui coûte.
+
+Faut demander du temps d'abord.
+
+Oh ! Dame, vote père ! Il ne songe qu'à son Dorante.
+
+Moi ?
+
+C'est que je sais que vous ne l'aimez pas.
+
+Le pus principal, c'est ce Baron qui arrive.
+
+Eh bian ! Madame, prenez donc l'autre.
+
+N'y a qu'à le rappeler.
+
+Allons, c'est bian fait, et vive la grandeur ! Putôt mourir que d'avoir l'affront d'être honnête !
+
+Lequeul ?
+
+Tenez, je vois Lépaine qui passe, baillez-li vote orde.
+
+Monsieur, Monsieur de Lépaine, approchez-vous vers Madame.
+
+Miséricorde !
+
+Je serons boudées par Monsieur le Marquis.
+
+Oui, il y a de la malice à ça.
+
+Pour l'attraper, je l'épouserais.
+
+Cela se passera par les chemins ; vous garirez au grand air.
+
+Vote consentement, Madame ! Oh ! Que nenni. Vous me considérez trop pour ça, et je m'en vais. Vote sarvante, Monsieur de Lépaine.
+
+Eh mais ! Je l'ai refusé, Madame.
+
+C'est de vote avis.
+
+Soyons ruinées, Madame, et toujours glorieuses ; jamais d'humilité, c'est une pensée que je tians de vous. Vous m'avez dit : Garde ta morgue et ton rang, et je les garde. Si c'est mal fait, je vous en charge.
+
+Je suis fille de fiscal, une fois ; qu'il me vienne un bailli, je le prends.
+
+Si je vous aime ? Par-delà ma propre parsonne.
+
+Vote représentation m'abat, n'y aura pus de partance.
+
+Je me marierai, afin qu'il séjourne, mais j'y boute une condition. Baillez-moi l'exemple ; amendez-vous, je m'amende.
+
+Oui, Monsieur de Lépaine, velà qui est rangé. Acoutez les paroles que je profère. Quand on varra la noce de Madame, on varra la nôtre ; la petite avec la grande.
+
+Qu'en dis-tu, Lépaine ? Velà de bonne besogne ; cette fille-là marche toute seule, n'y a pus qu'à la voir aller.
+
+Si je l'ons vue ! Il vous est commandé de l'attendre ici.
+
+Et si vous partez, alle renonce à moi, parce que ce sera ma faute.
+
+Et il va être mon homme, pour à celle fin que vous restiais.
+
+Et vous êtes un méchant homme de vouloir vous en aller, pour la faire bouder par son père.
+
+Et je li ai enjoint qu'alle serait votre femme, et alle ne s'est pas rebéquée.
+
+N'y a pus de temps, ce sera pour tantôt. Suis-moi, Lépaine, velà Monsieur le Marquis qui entre.
+
+Monsieur, il vient de venir un homme que vous avez, dit-il, envoyé chercher pour le Baron, et qui attend dans la salle.
+
 Tiens, prends ma main, je te la donne.
 
--*who_lepine
-Je ne reçois point de présent que je n'en donne.
-Prends la mienne.
+
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorante
+
+Courage, mes enfants, vous ne vous haïssez pas, ce me semble ?
+
+Est-il vrai, Lisette ? L'aimes-tu ? A-t-il raison de s'en vanter ? Je serais bien aise de le savoir.
+
+Je t'entends.
+
+Tant mieux, Lisette. J'aurai soin de vous deux. Lépine est un garçon à qui je veux du bien, et tu me parais une bonne fille.
+
+Ah çà ! Lisette, puisqu'à présent je puis me fier à toi, je ne ferai point difficulté de te confier un secret ; c'est que j'aime passionnément ta maîtresse, qui ne le sait pas encore : et j'ai eu mes raisons pour le lui cacher. Malgré les grands biens que m'a laissé mon père, je suis d'une famille de simple bourgeoisie. Il est vrai que j'ai acquis quelque considération dans le monde ; on m'a même déjà offert de très grands partis.
+
+Je vais d'ailleurs être revêtu d'une charge qui donne un rang considérable ; d'un autre côté, je suis étroitement lié d'amitié avec le Marquis, qui me verrait volontiers devenir son gendre ; et malgré tout ce que je dis là, pourtant, je me suis tu. Angélique est d'une naissance très distinguée. J'ai observé qu'elle est plus touchée qu'une autre de cet avantage-là, et la fierté que je lui crois là-dessus m'a retenu jusqu'ici. J'ai eu peur, si je me déclarais sans précaution, qu'il ne lui échappât quelque trait de dédain, que je ne me sens pas capable de supporter, que mon coeur ne lui pardonnerait pas ; et je ne veux point la perdre, s'il est possible. Toi qui la connais et qui as sa confiance, dis-moi ce qu'il faut que j'espère. Que pense-t-elle de moi ? Quel est son caractère ? Ta réponse décidera de la manière dont je dois m'y prendre.
+
+Explique-toi.
+
+Tu ne me surprends point, Lisette ; j'avais cette opinion-là d'elle.
+
+Tout de bon ?
+
+Elle t'en a donc dit quelque chose ?
+
+Mais, Lisette, suivant ce que tu me rapportes là, je pourrais donc risquer l'aveu de mes sentiments ?
+
+Mon intention, Lisette, était d'abord de t'engager à me servir auprès d'Angélique ; mais cela serait inutile, à ce que je vois ; et il me vient une autre idée. Je sors d'avec le Marquis, à qui, sans me nommer, j'ai parlé d'un très riche parti qui se présentait pour sa fille ; et sur tout ce que je lui en ai dit, il m'a permis de le proposer à Angélique ; mais je juge à propos que tu la préviennes avant que je lui parle.
+
+Que je t'ai interrogée sur l'état de son coeur, et que j'ai un mari à lui offrir. Comme elle croit que je l'aime, elle soupçonnera que c'est moi ; et tu lui diras qu'à la vérité je n'ai pas dit qui c'était, mais qu'il t'a semblé que je parlais pour un autre, pour quelqu'un d'une condition égale à la mienne.
+
+Oui, je m'attends bien à des mépris, mais je ne les éviterais peut-être pas si je me déclarais sans détour, et ils ne me laisseraient plus de ressource, au lieu qu'alors ils ne s'adresseront pas à moi.
+
+Alors l'aveu de mon amour sera tout fait ; je lui aurai appris que je l'aime, et n'aurai point été personnellement rejeté : de sorte qu'il ne tiendra encore qu'à elle de me traiter avec bonté.
+
+Oui-da.
+
+Oserais-je, sans être importun, Madame, vous demander un instant d'entretien ?
+
+D'une proposition que Monsieur le Marquis m'a permis de vous faire, qu'il vous rend la maîtresse d'accepter ou non, mais dont j'hésite à vous parler, et que je vous conjure de me pardonner, si elle ne vous plaît pas.
+
+Je ne l'avais pas priée de vous prévenir ; mais c'est de cela même, Madame.
+
+Mais, Madame, permettez-moi d'insister, ce récit de Lisette peut n'être pas exact.
+
+Je me tais, Madame, pénétré de douleur de vous avoir déplu.
+
+C'en est un très grand pour moi, Madame, que vous avoir déplu. Vous ne connaissez ni mon attachement ni mon respect.
+
+Je serais trop heureux de pouvoir y demeurer toute ma vie, Madame...
+
+Je n'ose plus vous répondre, Madame.
+
+Souffrirez-vous que je parle, Madame ? Il n'y a rien de moins incroyable que le plaisir infini que j'aurais à vous voir toujours ; rien de plus croyable que l'extrême confusion que j'ai de vous avoir indisposé contre moi ; rien de plus naturel que d'être touché autant que je le suis de ne pouvoir du moins me justifier auprès de vous.
+
+Ajoutez-y, Madame, que c'est un honnête homme.
+
+Ah ! Madame, ne fût-ce qu'en ma faveur, ne confondons pas la probité avec les richesses. Daignez vous ressouvenir que je suis riche aussi, et que je mérite qu'on les distingue.
+
+Il est d'ailleurs estimé, connu, destiné à un poste important.
+
+Simplement un homme de bonne famille ; mais à qui, malgré cela, Madame, on offre actuellement de très grands partis.
+
+Je me tais, Madame ; votre opinion est que j'ai tort, et je me condamne.
+
+Ah ! Madame, épargnez-moi, je vous prie. Vous m'avez promis d'oublier mon tort, et je compte sur cette bonté-là dans ce moment même.
+
+Comment, Madame ?
+
+Et vous l'aimez, Madame ?
+
+J'ai abusé trop longtemps de votre patience, et je me retire toujours pénétré de douleur.
+
+J'oubliais de vous prévenir sur une chose, Madame. Lépine, à qui je destine une récompense de ses services, voudrait épouser Lisette, et je lui défendrai d'y penser, si vous me l'ordonnez.
+
+Pour moi, Monsieur, la répugnance de Madame ne me surprend point : j'aurais assurément souhaité qu'elle ne l'eût point eue. Son refus me mortifie plus que je ne puis l'exprimer ; mais j'avoue en même temps que je ne le blâme point. Née ce qu'elle est, c'est une noble. fierté qui lui sied, et qui est à sa place ; aussi le mari que je proposais ; et dont je sais les sentiments comme les miens, n'osait-il se flatter qu'on lui ferait grâce, et ne voyait que son amour et que son respect qui fussent dignes de Madame.
+
+Je pourrais être de trop dans ce moment-ci, Monsieur, et je vous laisse seuls.
+
+C'est ici, Monsieur.
+
+Oui, Monsieur, et il y a même une terre.
+
+C'est moi, Monsieur.
+
+Oui, Monsieur, c'est moi à qui l'amour le plus tendre avait imprudemment suggéré un projet, dont il ne me reste plus qu'à demander pardon à Madame.
+
+Vous voyez à présent, Madame, que ma douleur tantôt n'était point exagérée, et qu'il n'y avait rien de trop dans mes expressions.
+
+Ah ! Monsieur, de quoi parlez-vous ? Votre autorité de père ! Suis-je digne que Madame vous entende seulement prononcer ces mots-là pour moi !
+
+C'est une qualité qui, de toutes façons, aurait fait le bonheur de ma vie, mais qui n'aurait pu rien ajouter à l'attachement que j'ai pour vous.
+
+Dites, Monsieur, que faut-il faire ?
+
+De quoi n'êtes-vous pas le maître avec moi ?
+
+Je la perds sans ressource ; il n'y a plus d'espérance pour moi !
+
+On ne peut pas plus mal. Je pars demain. Elle a une inclination, Lisette. Tu ne m'avais pas parlé d'un Baron qui est son parent, et qu'elle attend pour l'épouser.
+
+J'ai été fort maltraité.
+
+Eh ! sans doute ; mais cela n'a produit qu'un peu plus de douceur et de politesse.
+
+Je vous dis que je me suis nommé, et que son refus subsiste.
+
+Lisette se trompe à force de zèle.
+
+Eh bien ! Lisette, as-tu vu Angélique ?
+
+À moi ?
+
+Expliquez-moi donc ce que cela signifie, vous autres.
+
+Éclaircissez-moi, mettez-moi au fait, je ne vous entends pas.
+
+Vous me laissez dans une furieuse inquiétude.
+
+Eh bien ! Monsieur ?
+
+Mais qu'en arrivera-t-il ?
+
+Votre refus m'afflige, Madame, mais je le respecte, et n'en murmure point.
+
+Votre parti Madame ! Ah ! De grâce, achevez, à quoi vous déterminez-vous ?
+
+Eh ! Monsieur, cela n'est pas possible.
+
+Je ne sais où je suis.
+
+Oui, Madame. Lépine m'a averti que vous aviez à me parler ; et j'allais me rendre à vos ordres, si Monsieur le Marquis ne m'avait pas arrêté.
+
+Je serai donc le seul qui m'en retournerai le pus malheureux de tous les hommes.
+
+Moi, Madame ?
+
+Ah ! Madame, j'y vais malgré moi, vous le savez, Monsieur le Marquis veut que je le suive. Daignez me défendre de lui tenir parole, je vous le demande en grâce. J'ai besoin du plaisir de vous obéir, pour avoir la force de lui résister.
+
+Non, Madame, je prends tout sur moi, et je pars ce soir.
+
+Eh ! Madame, épargnez-moi, de grâce, le désespoir d'être témoin de votre mariage avec le Baron.
+
+Vous me le promettez ?
+
+C'est du moins une grande consolation pour moi. Je n'ai pas l'audace d'en demander davantage.
+
+Ah ! Madame, qu'entends-je ? Oserai-je croire qu'en ma faveur...
+
+L'excès de mon bonheur me coupe la parole.
+
+
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+
+Viens, j'ai à te parler ; entrons un moment dans cette salle.
+
+Premièrement, mon maître te prie de l'attendre ici.
+
+Regarde-moi, Lisette, et devine le reste.
+
+Je vais donc t'aider, voici ce que c'est, j'ai besoin de ton coeur, ma fille.
+
+Et un si grand besoin que je ne puis pas m'en passer, il n'y a pas à répliquer, il me le faut.
+
+Il me le faut, te dis-je, et bien complet avec toutes ses circonstances ; je veux dire avec ta main et toute ta personne, je veux que tu m'épouses.
+
+À la rigueur, il le faudrait ; mais j'entends raison : et pour à présent, je me contenterai de ta parole.
+
+Je te conseille de te plaindre ! Comment donc ! Il n'y a que six jours que nous sommes ici, mon maître et moi, que six jours que je te connais, et la tête me tourne, et tu demandes quartier ! Ce que j'ai perdu de raison depuis ce temps-là est incroyable ; et si je continue, il ne m'en restera pas pour me conduire jusqu'à demain. Allons vite, qu'on m'aime.
+
+Ah ! Ah ! Me conseilles-tu d'ôter mon chapeau ?
+
+Voilà pourtant un itou qui n'est pas de trop bonne maison : mais une princesse peut avoir été mal élevée.
+
+Avec votre permission et la sienne, je remets mon chapeau.
+
+Je sais bien ce que je fais, fiez-vous à moi. Je ne manque de respect ni au père ni aux enfants. Procureur fiscal, dites-vous ?
+
+Bagatelle ! Ce renom-là n'est pas comparable au bruit que mon père a fait dans sa vie. Je suis le fils d'un timbalier des armées du Roi.
+
+Oui, ma fille, neveu d'un trompette, et frère aîné d'un tambour, il y a même du hautbois dans ma famille. Tout cela, sans vanité, est assez éclatant.
+
+Oui, mais il est riche.
+
+D'accord ; mais elle est pauvre.
+
+Excusez-moi, ma fille ; je pense que je me mésallie un peu ; mais je n'y regarde pas de si près. La beauté est une si grande dame ! Concluons, m'aimes-tu ?
+
+Et si, dès aujourd'hui, on m'élevait à la dignité de concierge du château que nous avons à une lieue d'ici, votre ambition serait-elle satisfaite avec un mari de ce rang-là ?
+
+À te voir si gaillarde, je vais croire que je te plais.
+
+Incomparable fille de fiscal, tes paroles ont de grandes douceurs !
+
+Donne-moi une main que je l'adore, la première venue.
+
+Non, Monsieur. C'est une concierge que j'arrête pour votre château ; je concluais le marché, et je lui donnais des arrhes.
+
+Allons, la petite, ripostons par deux révêrences, et partons ensemble.
+
+Vraiment ! Tout Paris veut nous épouser.
+
+Bon ! C'est autant de marié, il n'y a qu'à aller franchement, c'est la manière.
+
+Et moi aussi, ta merveille m'attendrit.
+
+Ah ! Que cela est bon, Monsieur ! Comme l'amour nous la mitonne !
+
+Attaquons, Monsieur. Qu'est-ce que c'est que la gloire ? Elle n'a vaillant que des cérémonies.
+
+Oui-da ; pourquoi non ? Cette finesse-là a je ne sais quoi de mystérieux et d'obscur, où j'aperçois quelque chose... Qui n'est pas clair.
+
+Fort bien !
+
+Et voilà précisément ce que j'ai tout d'un coup deviné, sans avoir eu l'esprit de le dire.
+
+Je te donne mes pleins pouvoirs.
+
+Comment vont nos affaires de votre côté ?
+
+Voilà notre compte.
+
+Oui, cette fille-là est dans un état violent.
+
+Pesez ce qu'elle va dire.
+
+Que lui plaît-il, à Madame ?
+
+Je l'en informerai le plus vite que je pourrai, Madame ; car je vais si lentement... Je n'ai le coeur à rien. Ah !
+
+Oui, Madame, j'ai pleuré, je pleure encore ; et je n'y renonce pas, j'en ai peut-être pour le reste de l'année, qui n'est pas bien avancée. Je suis homme à faire des cris de désespéré, sans respect de personne.
+
+Hélas ! Vous le savez bien, Madame, vous qui nous renvoyez tous deux, mon maître et moi, comme de trop minces personnages ; ce qui fait que nous partons.
+
+Il se retire à demi mort, et moi aussi.
+
+Nous n'arriverons jamais à Paris que défunts, quoique à la fleur de notre âge ; car nous méritions de vivre. Mais vous nous poignardez ; et c'est la valeur de deux meurtres que vous vous reprocherez quelque jour.
+
+Je n'en sais rien, Madame ; ni lui non plus ; car nous sommes comme des égarés, surtout depuis que nos ballots sont faits.
+
+Je suis guéri !
+
+Je retombe.
+
+Oui, Madame ; mon état a besoin de secours.
+
+Voyez la bonté !
+
+Un concierge a bien son mérite. Excusez, Madame : c'est que j'entends parler de bailli.
+
+Je crois que cela s'accommode.
+
+Est-ce fait, Madame ?
+
+Ah ! Quelle joie ! Je tombe à vos genoux, Madame, sauvez la petite.
+
+Respirons.  
+
+
+Oui, Monsieur ; je vous défends de partir, par un ordre de sa part.
+
+C'est elle qui me marie avec Lisette, Monsieur.
+
+Il n'y a ballot qui tienne, il faut tout défaire.
+
+Souvenez-vous que vous languissez, n'oubliez pas que vous êtes mourant.
+
+Je ne reçois point de présent que je n'en donne. Prends la mienne.
+

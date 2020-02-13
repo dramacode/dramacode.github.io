@@ -1,145 +1,16 @@
 
 
-**** *book_ *id_I01 *act_I *date_1780
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesaintfranc
 
--*who_sophie
-Rends grâces au destin, bénis le Ciel, Sophie ;
-Ton sort est bien digne d'envie !
-Je vais serrer les plus beaux noeuds ;
-J'épouse mon Amant, et je comble les voeux
-De ceux à qui je dois toute mon existence !
-Le père de d'Inville éleva mon enfance,
-Et de son fils pour mon époux fit choix.
-Ah ! Nos deux coeurs sont bien d'intelligence !
-Et le mien en cédant à de si douces lois,
-Acquittera l'amour et la reconnaissance !
-Mais, quel pressentiment par un charme vainqueur,
-Occupe mon esprit, et me promet encore
-Un objet plus cher à mon coeur,
-Qui le remplit, et que j'ignore ?
-Ô vous, qu'à peine ai je entrevu,
-Qui me fûtes ravi par un coup imprévu,
-Mon père ! en ce jour d'allégresse,
-Seriez-vous cet objet promis à ma tendresse ?
-Je ne sais, mais l'espoir le plus flatteur
-Pour moi, de ce beau jour a précédé l'aurore,
-Avec ravissement mon oeil le voit éclore ;
-Et tout à mon réveil m'annonce le bonheur.
-
-**** *book_ *id_I02 *act_I *date_1780
-
--*who_madamedesaintfranc
-Embrasse-moi, viens, ma Sophie.
-
--*who_sophie
-Ah ! Madame, j'aurais bien dû vous prévenir ;
-Vous me voyez confuse....
-
--*who_madamedesaintfranc
-      Et moi, je suis ravie.
-Mon enfant, nous avions arrangé la partie,
-Et te surprendre, était notre plaisir.
-
--*who_sophie
-Ah ! D'Inville !
-
--*who_dinville
-      Excusez.
-
--*who_madamedesaintfranc
-      C'est l'amour qui t'éveille.
-Penses-tu donc qu'un tendre amant,
-Si près de toi paisiblement sommeille,
-Le jour de son bonheur ? Car enfin, men enfant,
-Le voici le grand jour !
-
--*who_dinville
-      Ah ! Madame, ah ! Sophie !
-Ce sera le plus beau, le plus cher de ma vie !
-Nous ne saurions former de plus doux noeuds,
-Sous des auspices plus heureux.
-C'est aujourd'hui, que, guidé par l'usage,
-La nature, ou le coeur, les parents, les amis,
-Dans leurs embrassements vont se donner le gage
-Du tendre sentiment qui les a réunis....
-Par un lien bien plus durable,
-Ce jour, assemblant nos deux coeurs,
-Va commencer le cours des plus belles ardeurs,
-Et d'un bonheur inaltérable !
-Permettez-vous que ce présent
-De mon amour soit le premier hommage ?
-Acceptez-le.
-
--*who_madamedesaintfranc
-      Prends, mon enfant ;
-C'est le présent de noce.
-
--*who_dinville
-      Et dans ce jour, l'usage
-Doublement m'autorise.
-
--*who_sophie
-      Oh ! S'il vous plaît, laissons
-Ce mot ; j'imite votre père,
-Qui ne peut le souffrir. Je veux bien, pour vous plaire,
-Le passer aujourd'hui ; mais, du moins, promettons
-Qu'il ne sera jamais rien dans notre ménage.
-En dépit de l'usage, il faudra constamment
-M'aimer encore après le mariage.
-
--*who_dinville
-Ah ! pourriez vous en douter un moment ?
-Vous régnez pour toujours sur mon âme fidèle ;
-L'hymen, l'amour et vos attraits,
-Vous seront les garants d'une flamme éternelle.
-
--*who_madamedesaintfranc
-Mes chers enfants, soyez tous deux en paix.
-Je réponds que vos coeurs ne changeront jamais.
-Mais nous avons des visites à faire,
-Allons nous préparer.
-
--*who_dinville
-      Mon père
-Ne viendra-t-il pas avec nous ?
-
--*who_madamedesaintfranc
-Oh ! votre père est bizarre en ces goûts.
-Il tient toujours à la franchise,
-Aux simples moeurs de son pays ;
-La politesse de Paris,
-Notre civilité, lui semble une sottise,
-Et parmi nous il veut vivre à sa guise.
-Mais, laissez-moi. Je vais, si je puis, le gagner.
-
-**** *book_ *id_I03 *act_I *date_1780
-
--*who_madamedesaintfranc
-Eh quoi ! Monsieur Saint-Franc, votre lenteur m'assomme.
-Nous recevons du monde, et vous restez ainsi !
-De grâce, habillez-vous.
-
--*who_monsieurdesaintfranc
       Moi, je n'attends personne ;
 Et je me trouve bien.
 
--*who_madamedesaintfranc
-      Mais du moins, mon ami,
-Vous attendez votre Notaire....
-Pour ce contrat ; il va se rendre ici.
-
--*who_monsieurdesaintfranc
 Eh bien ! nous signerons, voilà tout le mystère,
 Et nos enfants seront heureux.
 Le moment fortuné qui doit combler leurs voeux,
 Dépend de notre coeur, de notre signature ;
 Pour leur bonheur, qu'importe ma parure ?
 
--*who_madamedesaintfranc
-Soit. Mais le jour de l'An nous impose un devoir.
-Il faut se visiter, se voir.
-
--*who_monsieurdesaintfranc
 Oh ! nous sommes encor sur la cérémonie !
 Je ne vous comprends point. Quelle étrange manie !
 Courir pour voir des gens qu'à peine l'on connaît ;
@@ -153,20 +24,11 @@ D'un fade compliment ! Le voila, cet usage
 Qui fait tourner la tête aux trois quarts de Paris !
 Eh ! morbleu, d'en parler j'ai déjà la migraine.
 
--*who_madamedesaintfranc
-Quoi ! selon vous, Monsieur, ce n'est donc pas la peine
-D'aller visiter ses amis ?
-
--*who_monsieurdesaintfranc
 Ses amis ! À quoi bon ? L'amitié nous dispense
 Des devoirs importuns. Elle lit dans les coeurs ;
 Et ne s'arrête point à la vaine apparence
 Qui masque trop souvent des dehors imposteurs.
 
--*who_madamedesaintfranc
-Mais de voir ses parents, l'usage est raisonnable.
-
--*who_monsieurdesaintfranc
 L'usage ! Ah ! De ce mot osez-vous vous servir ?
 Et le prononcer sans rougir !
 Du sentiment quel abus condamnable !
@@ -183,25 +45,10 @@ Et l'on verrait bientôt la froide politesse
 Et l'usage ennuyeux, remplacés et bannis
 Par le bonheur et la tendresse.
 
--*who_madamedesaintfranc
-Oui. Vous avez raison, Je suis de votre avis.
-Mais si quelque chose est capable
-De nous faire sortir d'un oubli si coupable,
-Ce doit être l'attrait de la société.
-
--*who_monsieurdesaintfranc
 Bon ! Encore un terme inventé,
 Pour abuser et pour séduire !
 Mais, entre nous, que veut-il dire ?
 
--*who_madamedesaintfranc
-Quoi ! Vous ne croyez pas à ce charme puissant
-Qui l'un vers l'autre nous entraîne,
-Qui, du plaisir formant la douce chaîne,
-Nous réunit par le penchant,
-Et de tout l'univers ne fait qu'une famille ?
-
--*who_monsieurdesaintfranc
 Oui. La société nous promet des douceurs,
 On nous la peint des plus belles couleurs.
 D'un vif éclat le tableau brille
@@ -231,27 +78,6 @@ Sacrifier tout à la jalousie ;
 Et chaque jour pour un vil intérêt,
 L'amitié dans nos coeurs étouffée et trahie.
 
--*who_madamedesaintfranc
-Sur la société vous déclamez en vain.
-C'est en Philosophe chagrin
-Que vous la décriez ; mais malgré votre envie,
-Elle sera toujours le charme de la vie.
-Eh ! S'il vous plaît, que devenir
-Sans elle ? Où prendre.... où chercher le plaisir ?
-Sans cesse confiné dans le fond d'un ménage,
-On périrait d'ennui, l'on deviendrait sauvage !
-Mais on fait choix de quelques vrais amis,
-À qui le coeur donne la préférence,
-Dont tous les goûts aux nôtres font unis
-Par le rapport d'humeur, ou par la complaisance :
-On se visite tour-à-tour ;
-On raisonne entre soi des nouvelles du jour ;
-Est-on las de causer ? on fait une partie ;
-Par mille nouveaux jeux on charme ses loisirs :
-Sans user les désirs, sans cesse on les varie,
-Et la tristesse fuit sur l'aile des plaisirs.
-
--*who_monsieurdesaintfranc
 Eh bien ! pensez, ma femme, à votre fantaisie.
 Cherchez, voyez la compagnie ;
 Pour mieux vous amuser, fréquentez l'univers ;
@@ -260,16 +86,6 @@ Je verrai vos plaisirs, sans leur porter envie.
 Mais aussi, quand je cède à votre volonté,
 Permettez-moi du moins de vivre en liberté.
 
--*who_madamedesaintfranc
-Sont-ce-là les leçons de la Philosophie ?
-Vous m'en donnez mauvaise opinion.
-J'aurais pensé qu'en toute occasion,
-Par des principes respectables,
-Elle apprenait à l'homme à chérir ses semblables.
-Mais vous, sans cesse occupé de les fuir,
-Bien loin de les aimer, vous semblez les haïr.
-
--*who_monsieurdesaintfranc
 Non. Je ne les hais point. Jamais la basse envie,
 Ni l'inquiète jalousie,
 N'ont de leur fiel amer empoisonné mon coeur ;
@@ -306,22 +122,6 @@ A dessillé mes yeux, a détrompé mon coeur ;
 Et j'ai perdu, grâce à mon imprudence,
 Et ma fortune et mon erreur.
 
--*who_madamedesaintfranc
-Je suis loin de blâmer l'ardeur qui vous anime ;
-Votre courroux est légitime.
-On se repent souvent de sa facilité ;
-C'est, sans doute, un défaut que la crédulité....
-Mais faut-il donc, injustes que nous sommes,
-Pour quelques scélérats condamner tous les hommes ?
-Quoique j'aie éprouvé de leur méchanceté,
-Mon coeur se plaît encor à croire à la bonté....
-Pour aujourd'hui, du moins, je vous demande grâce.
-De nos malheurs passés que la funeste trace
-Ne trouble point ce jour d'un triste souvenir.
-Je l'ai promis tout entier au plaisir
-D'unir nos chers enfants ; Sophie est notre fille.
-
--*who_monsieurdesaintfranc
 Oui, ma femme, elle l'est ! Ah ! L'enfant d'un ami
 Est toujours de notre famille !
 Son père avec moi fut uni
@@ -337,56 +137,12 @@ Je me plaignais au sort de sa rigueur extrême ;
 Mais je n'ai rien perdu, quand il reste un bon coeur ;
 En faisant des heureux, on l'est encor soi-même.
 
-**** *book_ *id_I04 *act_I *date_1780
-
--*who_prudhomme
-Monsieur, Madame, avec empressement,
-Je vous rends mes devoirs. Voici la jeune plante
-Que vous avez commise à mon soin vigilant ;
-Selon votre désir je vous la représente.
-
--*who_madamedesaintfranc
-Bon jour, Monsieur Prud'homme ; et toi, mon cher enfant,
-Vient m'embrasser.
-
--*who_prudhomme
-      Ah ! permettez, Madame,
-Que mon Disciple auparavant
-Vous fasse voir que dans son âme,
-Il a su profiter des sages documents...
-
--*who_monsieurdesaintfranc
 Morbleu ! par ses grands mots ce pédant-là m'assomme.
 
--*who_madamedesaintfranc
-Je vous entends, Monsieur Prud'homme ;
-Vous avez pour mon fils fait quelques compliments ?
-
--*who_prudhomme
-Oui, Madame, sans doute ; et de ses sentiments,
-Comme un miroir fidèle, en vous offrant l'image,
-Sa mémoire à l'instant va vous donner un gage.
-Allons, Monsieur Saint-Franc, récitez.
-
--*who_lepetit
-      « Tout ainsi
-Qu'au retour de la saison la plus belle,
-Le Papillon sur la rose nouvelle,
-Vient voltiger ; de même aussi
-Qu'aux pays chauds, sur l'indigne rivage,
-Au lever du soleil nous voyons l'Éléphant
-Venir lui rendre son hommage ;
-Tout de même mon coeur....»
-
--*who_monsieurdesaintfranc
 Morbleu ! Quel verbiage
 Allons au fait. Dis, mon enfant,
 M'aimes-tu, sans tant d'étalage ?
 
--*who_lepetit
-Ah ! Mon papa, de tout mon coeur.
-
--*who_monsieurdesaintfranc
 Eh ! Ventrebleu, voilà, Monsieur,
 Voilà la plus superbe phrase
 Qu'un père puisse entendre ! Embrasse moi, mon fils.
@@ -397,15 +153,6 @@ Ces mots dont à grands frais vous cherchez la tournure,
 Ne vaudront jamais à mon sens,
 Le plus simple de ceux qu'inspire la nature.
 
--*who_prudhomme
-Mais, Monsieur, d'un jeune homme on doit orner l'esprit ;
-Ce sont des fleurs de Rhétorique,
-Que nos meilleurs auteurs ont su mettre à profit.
-
--*who_madamedesaintfranc
-Sans doute, mon ami.
-
--*who_monsieurdesaintfranc
       Ma femme, je m'explique.
 Je voudrais qu'avant tout on cultivât le coeur,
 Et que l'esprit sur lui n'eût pas la préférence ;
@@ -419,29 +166,8 @@ Et surtout, je vous le répète,
 Que, pour bien m'expliquer ses tendres sentiments,
 La nature en tout temps soit son seul interprète.
 
--*who_prudhomme
-Mais, Monsieur, pour bien faire, on doit toujours unir
-L'agréable à l'utile ; et comme a dit Horace :
-Omne tulit punctum...
-
--*who_monsieurdesaintfranc
 Ah ! Mon cher Monsieur, de grâce.
 
--*who_madamedesaintfranc
-Oui, voilà l'heure où nous devons sortir ;
-Cessons ce discours qui le pique.
-Pour moi, je tiens toujours aux fleurs de Rhétorique.
-Mon ami, je vous laisse, et j'emmène mon fils.
-Venez, Monsieur Prud'homme.
-
--*who_prudhomme
-A vos ordres je suis,
-Madame ; disposez de mon humble personne.
-Monsieur, je suis de même à vos commandements.
-
-**** *book_ *id_I05 *act_I *date_1780
-
--*who_monsieurdesaintfranc
 Que je demande aussi pourquoi l'on abandonne
 La jeunesse de ses enfants
 À des pédants, qui, par un soin futile,
@@ -461,13 +187,6 @@ Malgré l'usage et les Censeurs,
 Je remplirai le titre et les devoirs de père,
 En élevant mon fils et veillant sur ses moeurs.
 
-**** *book_ *id_I06 *act_I *date_1780
-
--*who_dinville
-Mon père, avec votre Notaire,
-Pour signer mon contrat, ma mère vous attend.
-
--*who_monsieurdesaintfranc
 Mon fils, demeurez un instant.
 Causons ensemble, et que le sein d'un père
 De vos secrets soit le dépositaire ;
@@ -482,11 +201,6 @@ S'engage sans réflexion,
 Donne sa main par imprudence,
 Et se repent après par inconstance.
 
--*who_dinville
-Eh quoi ! mon père, en ce moment
-Blâmez-vous donc mon amour pour Sophie ?
-
--*who_monsieurdesaintfranc
 Non, mon fils, en tout point Sophie est accomplie.
 Elle mérite bien tout votre attachement.
 Mais à votre âge on se trompe aisément
@@ -508,304 +222,51 @@ La chaîne alors se fait sentir,
 Et du ménage exilant le plaisir,
 De l'hymen aux époux ne fait plus qu'un supplice.
 
--*who_dinville
-Ah ! Mon père, le Ciel à nos voeux plus propice,
-Écartera de nous ces tableaux odieux ;
-Les attraits de Sophie ont su charmer mes yeux ;
-Mais c'est par ses vertus qu'elle règne en mon âme.
-
-**** *book_ *id_I07 *act_I *date_1780
-
--*who_lenotaire
-Monsieur, voici votre contrat ; Madame
-Vous attend pour signer ; elle est prête à sortir.
-
--*who_monsieurdesaintfranc
 Voyez, mon fils ; voici pour vous le gage,
 Le tendre lien du plaisir,
 Ou la chaîne de l'esclavage.
 Dois-je signer, ou prévenir
 Des regrets superflus ?
 
--*who_dinville
-Ah ! Mon père, Sophie
-Peut seule m'assurer le bonheur de la vie.
-Vous avez vu, jusqu'à ce jour,
-Naître et s'accroître notre amour ;
-Vous avez approuvé cette ardeur vive et pure,
-Et votre fils, qui vous aime à jamais,
-Ne saurait craindre des regrets,
-En joignant dans son coeur l'Amour et la Nature.
-
--*who_monsieurdesaintfranc
 C'en est assez. Mon fils, vous rendre heureux,
 Sophie et vous, c'est l'objet de mes voeux.
 Donnez, Monsieur.
 
-**** *book_ *id_I08 *act_I *date_1780
-
--*who_monsieurdesaintfranc
 Qu'est-ce ?
 
--*who_levalet
-      C'est une lettre
-Qu'à Monsieur de Saint-Franc l'on m'a dit de remettre.
-
--*who_monsieurdesaintfranc
 Quel caractère !
       Oh Ciel ! Quel coup du sort !
 Remportez ce contrat.
 
--*who_dinville
-      Quoi ! mon père, Sophie...
-
--*who_monsieurdesaintfranc
 Renoncez-y, mon fils.
 
--*who_dinville
-      Arrêtez, je vous prie.
-Renoncer à Sophie ! Hélas ! plutôt la mort.
-
--*who_monsieurdesaintfranc
 Oui, mon fils, cet hymen qui comblait mon envie,
 Je ne puis l'achever.
 
--*who_dinville
-      Ah ! c'est un faux rapport.
-La Lettre est supposée ; on en veut à ma vie,
-Si de Sophie on attaque les moeurs.
-
--*who_monsieurdesaintfranc
 Mon fils, suspendez vos douleurs ;
 Vous saurez tout. Venez, Monsieur.
       Je vais répondre
 À votre Lettre. Attendez, mon ami.
 
--*who_levalet
-      À votre aise, Monsieur.
-
-**** *book_ *id_I09 *act_I *date_1780
-
--*who_levalet
-Ce poulet cause ici
-      Bien du grabuge.
-
--*who_dinville
-Hélas ! Pour me confondre,
-Quel démon envieux a pu troubler mon sort ?
-
--*who_levalet
-La Lettre s'adressait au père,
-J'ai bien peur que le fils n'en acquitte le port.
-
--*who_dinville
-Contraignons-nous. Retenons ma colère.
-Ce Valet peut m'instruire, il faut l'interroger.
-
--*who_levalet
-Il va chercher à me faire jaser,
-Allons, tâchons de nous remettre.
-Le pis-aller est de mentir.
-
--*who_dinville
-Écoute, mon ami....
-
--*who_levalet
-      Bon ! Je le vois venir.
-
--*who_dinville
-Dis-moi....
-
--*who_levalet
-      Quoi, Monsieur ?
-
--*who_dinville
-      Cette Lettre
-Est de ton Maître ?
-
--*who_levalet
-      Non, Monsieur.
-
--*who_dinville
-Non ? Mais c'est un rival qui seul a pu l'écrire ?
-
--*who_levalet
-Non, Monsieur.
-
--*who_dinville
-Comment ! Non ? Traître, il faut tout me dire.
-C'est un jeune homme, enfin ?
-
--*who_levalet
-Non, Monsieur.
-
--*who_dinville
-      La fureur
-Me transporte. Dis tout, ou c'est fait de ta vie.
-
--*who_levalet
-Ah ! Monsieur, de mourir je n'ai pas trop d'envie.
-
--*who_dinville
-Parleras-tu ?
-
--*who_levalet
-      Que dirai-je ?
-
--*who_dinville
-      Conviens
-Que cette Lettre est de ton Maître.
-
--*who_levalet
-Oui, Monsieur.
-
--*who_dinville
-      D'un jeune homme ?
-
--*who_levalet
-      Oh ! non.
-
--*who_dinville
-      Quoi ! Non ?
-
--*who_levalet
-      Eh bien !
-Oui, Monsieur.
-
--*who_dinville
-      D'un rival ?
-
--*who_levalet
-      Non.
-      Oui, Monsieur.
-
--*who_dinville
-      Ah ! traître,
-Tu mourras.
-
--*who_levalet
-      Ah ! Monsieur, épargnez un chrétien,
-Que les Turcs, les écueils, la mer et la tempête,
-Ont respecté.
-
--*who_dinville
-      Ton Maître est mon rival ?
-
--*who_levalet
-Eh ! non, Monsieur ; vous entendez fort mal.
-Et ce rival n'est que dans votre tête.
-Mon Maître est un jeune homme au moins de soixante ans,
-Qui n'est dans ce pays que depuis peu d'instants,
-Qui, ce matin en écrivant sa lettre,
-N'a fait que sangloter ; et je puis vous promettre
-Qu'il ne vient pas ici pour être dangereux.
-
--*who_dinville
-Mais quel est-il, enfin ?
-
--*who_levalet
-      Nous revenons tous deux
-De l'Amérique ; il a des biens immenses,
-Et moi, de grandes espérances
-Sur sa succession.
-
--*who_dinville
-      N'a-t-il point de parents ?
-
--*who_levalet
-Non, Dieu merci. Pourtant de sa famille,
-Si le diable s'en mêle, il lui reste une fille.
-
--*who_dinville
-Une fille, dis-tu ?
-
--*who_levalet
-      Du moins, depuis quinze ans,
-Il la cherche et la pleure. On n'en a nulle trace,
-Et le Ciel me fera la grâce....
-
--*who_dinville
-Ah ! Si c'était.... Hélas ! Pour mon bonheur,
-Quel espoir consolant dans mon coeur vient de naître !
-
-**** *book_ *id_I10 *act_I *date_1780
-
--*who_monsieurdesaintfranc
 Tenez, portez à votre maître
 Ce mot d'écrit.
 
--*who_levalet
-      J'y cours, Monsieur.
-Mais au moment qu'il m'a donné sa Lettre,
-Il m'a dit qu'il sortait. Il n'est plus au logis.
-
--*who_monsieurdesaintfranc
 Voyez, cherchez-le bien, tâchez de lui remettre,
 Et dites-lui que je l'attends.
 
-**** *book_ *id_I11 *act_I *date_1780
-
--*who_monsieurdesaintfranc
       Mon fils,
 Vous ne pensez donc plus à nos visites ?
 
--*who_dinville
-Ah ! Madame, ah ! Sophie, aurions-nous pu prévoir....
-Que ce beau jour eût eu de si funestes suites ?
-Une Lettre fatale a déçu notre espoir.
-
--*who_madamedesaintfranc
-Expliquez-vous.
-
--*who_sophie
-      Je tremble.
-
--*who_dinville
-      Hélas ! Mon père
-Ne consent plus à nous unir.
-
--*who_madamedesaintfranc
-Serait-il vrai, Monsieur ?
-
--*who_dinville
-      Sophie, et vous, ma mère,
-Secondez-moi pour le fléchir.
-
--*who_monsieurdesaintfranc
 Votre douleur me désespère ;
 Mes chers enfants, n'accusez point mon coeur,
 À vos chagrins il n'est que trop sensible ;
 Il a voulu toujours, il veut votre bonheur ;
 Mais cet hymen me devient impossible.
 
--*who_sophie
-Hélas !
-
--*who_dinville
-      Ah ! C'est vouloir ma mort.
-
--*who_madamedesaintfranc
-Mais...
-
--*who_monsieurdesaintfranc
       Bénissez ce jour, Sophie,
 C'est le plus beau de votre vie.
 Lisez.
 
--*who_sophie
-« J'apprends en ce moment, mon cher Van-Regth, que tu demeures à Paris, sous le nom de Saint-Franc.
-C'est ce changement de pays et de nom qui t'a empêché de recevoir mes Lettres, et mes voyages continuels m'ont privé des tiennes.
-Mais, enfin, nous allons nous revoir.
-J'ai gagné des biens considérables, et je t'apprendrai des choses bien intéressantes.
-Puisses-tu de même porter la consolation dans le coeur d'un père !
-« On m'a dit que toi seul pourrais me donner des nouvelles d'une fille que je regrette depuis quinze ans....
-Ah !
-Mon ami, si le Ciel me l'a conservée, je viens lui proposer un époux digne d'elle,
-« Et j'aurai le plaisir de leur partager ma fortune.
-Mais, hélas !
-Je ne dois plus peut-être espérer ce bonheur ; et le destin cruel qui m'a ravi mon épouse, m'aura, sans doute, encore enlevé ma fille.»
-
--*who_monsieurdesaintfranc
       Non, mon ami, j'ai veillé sur son sort.
 Mon coeur a remplacé le coeur d'un tendre père.
 Elle existe pour toi cette fille si chère ;
@@ -816,30 +277,8 @@ Dans ce moment, pour lui rempli de charmes,
 Je perds les droits que j'eus sur vous,
 Et la nature en reprend de plus doux !
 
--*who_dinville
-Ah ! Sophie !
-
--*who_sophie
-      Ah ! Monsieur ! Quoi ! Je vais voir mon père !
-Ô Ciel ! Oui, c'est là le bonheur
-Que ce matin me présageait mon coeur !
-
--*who_madamedesaintfranc
-Pourquoi donc nous troubler ? Loin de gâter l'affaire,
-Le retour de Monsieur d'Herbain
-Devrait hâter ce mariage.
-Nous sommes assurés d'obtenir son suffrage.
-
--*who_monsieurdesaintfranc
 Mais, vous voyez qu'il a disposé de sa main.
 
--*who_madamedesaintfranc
-Projet fait au hasard, puisqu'enfin il ignore
-Si cette fille existe encore.
-Unissons-les toujours. Comptez qu'en l'apprenant
-L'hymen de votre fils ne pourra que lui plaire.
-
--*who_monsieurdesaintfranc
 Qu'osez-vous proposer ? Moi ! que je prive un père
 Du plaisir de régler le sort de son enfant !
 Et, qu'abusant ainsi de mes faibles services,
@@ -854,56 +293,400 @@ Pouvait voir en d'Inville un époux convenable ;
 Mais aujourd'hui Sophie, aussi riche qu'aimable,
 Doit aspirer à des plus hauts partis.
 
--*who_sophie
+Maugrebleu de la folle !
+
+      Oui, la voilà ; toujours dans ma famille
+Je te l'ai conservée.
+
+Eh bien !
+
+Ah ! Mon ami, je reconnais ton coeur ;
+Et sans remerciement, sans des paroles vaines,
+Le mien va s'acquitter au gré de son ardeur.
+D'une épouse qui t'était chère,
+À ses derniers moments j'ai reçu les soupirs ;
+À ta fille quinze ans j'ai tenu lieu de père,
+Et t'ai préparé les plaisirs
+De la tendresse la plus pure.
+Formée à la vertu, son âme est mon présent ;
+Elle est digne de toi, ton ami te la rend :
+C'est l'Étrenne de la Nature.
+
+Mon cher ami !
+
+      Que voulez-vous, ma soeur ?
+
+Pardonnez-moi ce mouvement d'humeur,
+Qui troublait mon esprit, sans prendre sur mon coeur.
+Un rien, souvent de l'homme le plus sage,
+Altère la tranquillité.
+Mais de ce digne ami, notre félicité
+Dans un moment devient l'ouvrage.
+
+Votre transport est légitime,
+Et mon coeur le partage.
+
+
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedesaintfranc
+
+Embrasse-moi, viens, ma Sophie.
+
+      Et moi, je suis ravie.
+Mon enfant, nous avions arrangé la partie,
+Et te surprendre, était notre plaisir.
+
+      C'est l'amour qui t'éveille.
+Penses-tu donc qu'un tendre amant,
+Si près de toi paisiblement sommeille,
+Le jour de son bonheur ? Car enfin, men enfant,
+Le voici le grand jour !
+
+      Prends, mon enfant ;
+C'est le présent de noce.
+
+Mes chers enfants, soyez tous deux en paix.
+Je réponds que vos coeurs ne changeront jamais.
+Mais nous avons des visites à faire,
+Allons nous préparer.
+
+Oh ! votre père est bizarre en ces goûts.
+Il tient toujours à la franchise,
+Aux simples moeurs de son pays ;
+La politesse de Paris,
+Notre civilité, lui semble une sottise,
+Et parmi nous il veut vivre à sa guise.
+Mais, laissez-moi. Je vais, si je puis, le gagner.
+
+Eh quoi ! Monsieur Saint-Franc, votre lenteur m'assomme.
+Nous recevons du monde, et vous restez ainsi !
+De grâce, habillez-vous.
+
+      Mais du moins, mon ami,
+Vous attendez votre Notaire....
+Pour ce contrat ; il va se rendre ici.
+
+Soit. Mais le jour de l'An nous impose un devoir.
+Il faut se visiter, se voir.
+
+Quoi ! selon vous, Monsieur, ce n'est donc pas la peine
+D'aller visiter ses amis ?
+
+Mais de voir ses parents, l'usage est raisonnable.
+
+Oui. Vous avez raison, Je suis de votre avis.
+Mais si quelque chose est capable
+De nous faire sortir d'un oubli si coupable,
+Ce doit être l'attrait de la société.
+
+Quoi ! Vous ne croyez pas à ce charme puissant
+Qui l'un vers l'autre nous entraîne,
+Qui, du plaisir formant la douce chaîne,
+Nous réunit par le penchant,
+Et de tout l'univers ne fait qu'une famille ?
+
+Sur la société vous déclamez en vain.
+C'est en Philosophe chagrin
+Que vous la décriez ; mais malgré votre envie,
+Elle sera toujours le charme de la vie.
+Eh ! S'il vous plaît, que devenir
+Sans elle ? Où prendre.... où chercher le plaisir ?
+Sans cesse confiné dans le fond d'un ménage,
+On périrait d'ennui, l'on deviendrait sauvage !
+Mais on fait choix de quelques vrais amis,
+À qui le coeur donne la préférence,
+Dont tous les goûts aux nôtres font unis
+Par le rapport d'humeur, ou par la complaisance :
+On se visite tour-à-tour ;
+On raisonne entre soi des nouvelles du jour ;
+Est-on las de causer ? on fait une partie ;
+Par mille nouveaux jeux on charme ses loisirs :
+Sans user les désirs, sans cesse on les varie,
+Et la tristesse fuit sur l'aile des plaisirs.
+
+Sont-ce-là les leçons de la Philosophie ?
+Vous m'en donnez mauvaise opinion.
+J'aurais pensé qu'en toute occasion,
+Par des principes respectables,
+Elle apprenait à l'homme à chérir ses semblables.
+Mais vous, sans cesse occupé de les fuir,
+Bien loin de les aimer, vous semblez les haïr.
+
+Je suis loin de blâmer l'ardeur qui vous anime ;
+Votre courroux est légitime.
+On se repent souvent de sa facilité ;
+C'est, sans doute, un défaut que la crédulité....
+Mais faut-il donc, injustes que nous sommes,
+Pour quelques scélérats condamner tous les hommes ?
+Quoique j'aie éprouvé de leur méchanceté,
+Mon coeur se plaît encor à croire à la bonté....
+Pour aujourd'hui, du moins, je vous demande grâce.
+De nos malheurs passés que la funeste trace
+Ne trouble point ce jour d'un triste souvenir.
+Je l'ai promis tout entier au plaisir
+D'unir nos chers enfants ; Sophie est notre fille.
+
+Bon jour, Monsieur Prud'homme ; et toi, mon cher enfant,
+Vient m'embrasser.
+
+Je vous entends, Monsieur Prud'homme ;
+Vous avez pour mon fils fait quelques compliments ?
+
+Sans doute, mon ami.
+
+Oui, voilà l'heure où nous devons sortir ;
+Cessons ce discours qui le pique.
+Pour moi, je tiens toujours aux fleurs de Rhétorique.
+Mon ami, je vous laisse, et j'emmène mon fils.
+Venez, Monsieur Prud'homme.
+
+Expliquez-vous.
+
+Serait-il vrai, Monsieur ?
+
+Mais...
+
+Pourquoi donc nous troubler ? Loin de gâter l'affaire,
+Le retour de Monsieur d'Herbain
+Devrait hâter ce mariage.
+Nous sommes assurés d'obtenir son suffrage.
+
+Projet fait au hasard, puisqu'enfin il ignore
+Si cette fille existe encore.
+Unissons-les toujours. Comptez qu'en l'apprenant
+L'hymen de votre fils ne pourra que lui plaire.
+
+Bonjour, ma soeur... Sophie, apaise ta douleur,
+Et je te réponds, moi, de le rendre traitable.
+
+Se peut-il ?
+
+      C'est fait, ma soeur.
+
+Tout est fini, ma soeur.
+
+
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_dinville
+
+      Excusez.
+
+      Ah ! Madame, ah ! Sophie !
+Ce sera le plus beau, le plus cher de ma vie !
+Nous ne saurions former de plus doux noeuds,
+Sous des auspices plus heureux.
+C'est aujourd'hui, que, guidé par l'usage,
+La nature, ou le coeur, les parents, les amis,
+Dans leurs embrassements vont se donner le gage
+Du tendre sentiment qui les a réunis....
+Par un lien bien plus durable,
+Ce jour, assemblant nos deux coeurs,
+Va commencer le cours des plus belles ardeurs,
+Et d'un bonheur inaltérable !
+Permettez-vous que ce présent
+De mon amour soit le premier hommage ?
+Acceptez-le.
+
+      Et dans ce jour, l'usage
+Doublement m'autorise.
+
+Ah ! pourriez vous en douter un moment ?
+Vous régnez pour toujours sur mon âme fidèle ;
+L'hymen, l'amour et vos attraits,
+Vous seront les garants d'une flamme éternelle.
+
+      Mon père
+Ne viendra-t-il pas avec nous ?
+
+Mon père, avec votre Notaire,
+Pour signer mon contrat, ma mère vous attend.
+
+Eh quoi ! mon père, en ce moment
+Blâmez-vous donc mon amour pour Sophie ?
+
+Ah ! Mon père, le Ciel à nos voeux plus propice,
+Écartera de nous ces tableaux odieux ;
+Les attraits de Sophie ont su charmer mes yeux ;
+Mais c'est par ses vertus qu'elle règne en mon âme.
+
+Ah ! Mon père, Sophie
+Peut seule m'assurer le bonheur de la vie.
+Vous avez vu, jusqu'à ce jour,
+Naître et s'accroître notre amour ;
+Vous avez approuvé cette ardeur vive et pure,
+Et votre fils, qui vous aime à jamais,
+Ne saurait craindre des regrets,
+En joignant dans son coeur l'Amour et la Nature.
+
+      Quoi ! mon père, Sophie...
+
+      Arrêtez, je vous prie.
+Renoncer à Sophie ! Hélas ! plutôt la mort.
+
+      Ah ! c'est un faux rapport.
+La Lettre est supposée ; on en veut à ma vie,
+Si de Sophie on attaque les moeurs.
+
+Hélas ! Pour me confondre,
+Quel démon envieux a pu troubler mon sort ?
+
+Contraignons-nous. Retenons ma colère.
+Ce Valet peut m'instruire, il faut l'interroger.
+
+Écoute, mon ami....
+
+Dis-moi....
+
+      Cette Lettre
+Est de ton Maître ?
+
+Non ? Mais c'est un rival qui seul a pu l'écrire ?
+
+Comment ! Non ? Traître, il faut tout me dire.
+C'est un jeune homme, enfin ?
+
+      La fureur
+Me transporte. Dis tout, ou c'est fait de ta vie.
+
+Parleras-tu ?
+
+      Conviens
+Que cette Lettre est de ton Maître.
+
+      D'un jeune homme ?
+
+      Quoi ! Non ?
+
+      D'un rival ?
+
+      Ah ! traître,
+Tu mourras.
+
+      Ton Maître est mon rival ?
+
+Mais quel est-il, enfin ?
+
+      N'a-t-il point de parents ?
+
+Une fille, dis-tu ?
+
+Ah ! Si c'était.... Hélas ! Pour mon bonheur,
+Quel espoir consolant dans mon coeur vient de naître !
+
+Ah ! Madame, ah ! Sophie, aurions-nous pu prévoir....
+Que ce beau jour eût eu de si funestes suites ?
+Une Lettre fatale a déçu notre espoir.
+
+      Hélas ! Mon père
+Ne consent plus à nous unir.
+
+      Sophie, et vous, ma mère,
+Secondez-moi pour le fléchir.
+
+      Ah ! C'est vouloir ma mort.
+
+Ah ! Sophie !
+
+Je vais le suivre.
+      Et vous, ma mère,
+À nos désirs, rendez-le moins sévère.
+
+Oui, c'est-là le contrat qui de notre bonheur
+Devait être garant. Ô ma chère Sophie !
+
+      Votre main va dépendre
+D'un père !
+
+      Ah ! Monsieur !
+
+
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophie
+
+Rends grâces au destin, bénis le Ciel, Sophie ;
+Ton sort est bien digne d'envie !
+Je vais serrer les plus beaux noeuds ;
+J'épouse mon Amant, et je comble les voeux
+De ceux à qui je dois toute mon existence !
+Le père de d'Inville éleva mon enfance,
+Et de son fils pour mon époux fit choix.
+Ah ! Nos deux coeurs sont bien d'intelligence !
+Et le mien en cédant à de si douces lois,
+Acquittera l'amour et la reconnaissance !
+Mais, quel pressentiment par un charme vainqueur,
+Occupe mon esprit, et me promet encore
+Un objet plus cher à mon coeur,
+Qui le remplit, et que j'ignore ?
+Ô vous, qu'à peine ai je entrevu,
+Qui me fûtes ravi par un coup imprévu,
+Mon père ! en ce jour d'allégresse,
+Seriez-vous cet objet promis à ma tendresse ?
+Je ne sais, mais l'espoir le plus flatteur
+Pour moi, de ce beau jour a précédé l'aurore,
+Avec ravissement mon oeil le voit éclore ;
+Et tout à mon réveil m'annonce le bonheur.
+
+Ah ! Madame, j'aurais bien dû vous prévenir ;
+Vous me voyez confuse....
+
+Ah ! D'Inville !
+
+      Oh ! S'il vous plaît, laissons
+Ce mot ; j'imite votre père,
+Qui ne peut le souffrir. Je veux bien, pour vous plaire,
+Le passer aujourd'hui ; mais, du moins, promettons
+Qu'il ne sera jamais rien dans notre ménage.
+En dépit de l'usage, il faudra constamment
+M'aimer encore après le mariage.
+
+      Je tremble.
+
+Hélas !
+
+« J'apprends en ce moment, mon cher Van-Regth, que tu demeures à Paris, sous le nom de Saint-Franc. C'est ce changement de pays et de nom qui t'a empêché de recevoir mes Lettres, et mes voyages continuels m'ont privé des tiennes. Mais, enfin, nous allons nous revoir. J'ai gagné des biens considérables, et je t'apprendrai des choses bien intéressantes. Puisses-tu de même porter la consolation dans le coeur d'un père !
+« On m'a dit que toi seul pourrais me donner des nouvelles d'une fille que je regrette depuis quinze ans.... Ah ! Mon ami, si le Ciel me l'a conservée, je viens lui proposer un époux digne d'elle,
+« Et j'aurai le plaisir de leur partager ma fortune. Mais, hélas ! Je ne dois plus peut-être espérer ce bonheur ; et le destin cruel qui m'a ravi mon épouse, m'aura, sans doute, encore enlevé ma fille.»
+
+      Ah ! Monsieur ! Quoi ! Je vais voir mon père !
+Ô Ciel ! Oui, c'est là le bonheur
+Que ce matin me présageait mon coeur !
+
 Ah ! D'Inville ! Ah ! Monsieur ! Le coeur de votre fils
 Est le plus beau pour moi ; c'est le seul que j'envie.
 
-**** *book_ *id_I12 *act_I *date_1780
+Hélas ! Madame, en ce moment
+Je ne puis m'arrêter. Excusez, je vous prie.
 
--*who_madamedormont
+Lien sacré qui devait nous unir,
+Sois le témoin des pleurs que tu nous fais répandre.
+
+      Ah ! Ce doux souvenir
+Fait renaître l'espoir en mon âme ravie !
+Il est, depuis quinze ans, l'objet de mes soupirs ;
+J'ai formé chaque jour les plus tendres désirs !
+Pour le revoir j'aurais donné ma vie !
+Et ce jour le ramène ! Ah ! Ce moment heureux
+Qui me rend à mon père, aura comblé mes voeux.
+
+Mon père ! Ô Ciel !
+
+Ah ! mon père !
+
+
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamedormont
+
 Bonjour, mes chers enfants ; vous êtes bien joyeux,
 N'est il pas vrai ? Bien amoureux !
 C'est un beau jour pour vous Sophie !
 Et pour toi, mon neveu ! Qu'on m'embrasse bien tous.
 Venez, mon cher beau frère, et commençons par vous.
 
--*who_monsieurdesaintfranc
-Maugrebleu de la folle !
-
-**** *book_ *id_I13 *act_I *date_1780
-
--*who_madamedormont
       Hein ! qu'a-t-il donc, ton père ?
 Dis-moi, d'Inville ? Allons, viens, mon ami.
 
--*who_dinville
-Je vais le suivre.
-      Et vous, ma mère,
-À nos désirs, rendez-le moins sévère.
-
-**** *book_ *id_I14 *act_I *date_1780
-
--*who_madamedormont
 Comment ! Petit coquin !... Il me refuse aussi !
 Mais, c'est l'amour qui lui trouble la tête.
 Je lui par donne. À vous, ma soeur.
 
--*who_madamedesaintfranc
-Bonjour, ma soeur... Sophie, apaise ta douleur,
-Et je te réponds, moi, de le rendre traitable.
-
-**** *book_ *id_I15 *act_I *date_1780
-
--*who_madamedormont
 Mais, dis-moi donc, toi, mon enfant....
 
--*who_sophie
-Hélas ! Madame, en ce moment
-Je ne puis m'arrêter. Excusez, je vous prie.
-
-**** *book_ *id_I16 *act_I *date_1780
-
--*who_madamedormont
 Et l'on me laisse seule ! Oh ! Ciel, quelle infamie !
 Une tante, une soeur. Comme on pense à présent !
 On n'a plus l'un pour l'autre aucun attachement !
@@ -926,77 +709,34 @@ Une fois l'an, à peine, on s'embrasse en passant ;
 Encor, le plus souvent ce n'est rien que de bouche,
 Et rarement le coeur y touche.
 
-**** *book_ *id_I17 *act_I *date_1780
-
--*who_monsieurdherbain
-Madame, pardonnez....
-
--*who_madamedormont
       Monsieur, de tout mon coeur.
 
--*who_monsieurdherbain
-Madame....
-
--*who_madamedormont
       Eh bien ! parlez.
 
--*who_monsieurdherbain
-      Ne sauriez-vous me dire....
-
--*who_madamedormont
 Oui-dà ! Très volontiers. Asseyez-vous, Monsieur.
 
--*who_monsieurdherbain
-Excusez-moi, je ne veux que m'instruire....
-
--*who_madamedormont
 Tout est perdu, Monsieur, tout est bouleversé ;
 Nature, probité, tout, dis-je, est renversé ;
 Il ne faut plus compter désormais sur personne.
 
--*who_monsieurdherbain
-Ce que vous dites-là m'étonne.
-Connaissez-vous Saint-Franc ?
-
--*who_madamedormont
       Oh ! Oui, Monsieur, très bien.
 Ce Saint-Franc est un fou, sa femme est une sotte,
 Et d'Inville leur fils n'est qu'un méchant vaurien.
 
--*who_monsieurdherbain
-Est-il possible ? Ô Ciel !
-
--*who_madamedormont
       Croyez vous qu'on radote ?
 De ce que je vous dis, j'ai bonne caution.
 Si vous saviez, Monsieur, quelle réception
 Ils viennent de me faire !
 
--*who_monsieurdherbain
-      Ils ont grand tort, Madame.
-Mais, vous m'aviez troublé. Je craignais qu'à Saint-Franc
-Il ne fut arrivé quelque triste accident,
-Et vos discours ont alarmé mon âme.
-
--*who_madamedormont
 Comment ! Quelque accident, savez-vous bien, Monsieur,
 Que, quoique je sois encor fille,
 Il me doivent respect ; que je suis tante et soeur,
 Et la plus vieille, enfin, de toute la famille ?
 
--*who_monsieurdherbain
-Je le crois : mais, Madame, puis-je voir
-Monsieur Saint-Franc ?
-
--*who_madamedormont
       Ah ! Monsieur, je soupçonne,
 À l'air dont il a su me recevoir,
 Qu'il n'est pas en humeur de parler à personne.
 
--*who_monsieurdherbain
-C'est pour l'entretenir sur un point important.
-
--*who_madamedormont
 Eh bien ! attendez un instant,
 Je vais vous le chercher. Aussi bien je m'apprête
 À lui laver un peu la tête.
@@ -1007,9 +747,68 @@ Il la payera, Monsieur, j'en donne ma parole ;
 Et de plus de vingt ans, à compter d'aujourd'hui,
 Je ne mettrai les pieds chez lui.
 
-**** *book_ *id_I18 *act_I *date_1780
+      Comment ! Vous êtes là, mon frère ?
+On vous cherche partout.
 
--*who_monsieurdherbain
+C'est un homme qui veut.... Ah ! vous voilà, Monsieur !
+
+      Eh bien ! Quoi ! Cette affaire ?...
+Parlez-lui donc.
+
+      Ah ! Ah ! C'est fait.
+Et ces enfants.... leur mariage ?
+Quand le terminez-vous ? N'est-ce qu'un vain projet ?
+
+      Comment donc, s'il vous plaît ?
+Fini, sans m'en parler ! Sans avoir mon suffrage !
+C'était pourtant le moins qu'on me fit cet honneur.
+Mais, selon vous, je suis folle. Oh ! J'enrage !
+
+Oh ! Pour le coup, Monsieur, embrassons-nous.
+Vous me gagnez le coeur.
+
+Et vous, mon frère, encor me refuserez-vous ?
+
+      Allons, ma chère soeur,
+Et vous, mes chers enfants... Quel plaisir ! quel bonheur !
+Ah ! je me reconnais.. Voilà de la tendresse !
+Voilà du bon vieux temps la véritable ivresse.
+C'est ainsi qu'autrefois les amis, les parents,
+Réunis par d'heureux événements,
+Se témoignaient leur allégresse !
+Ils négligeaient les compliments,
+Et préféraient une caresse :
+Ils avaient bien raison. Ce sont les sentiments
+Et les tendres embrassements
+Qui savent honorer, par une marque sûre,
+L'Amour, l'Amitié, la Nature.
+
+
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdherbain
+
+Madame, pardonnez....
+
+Madame....
+
+      Ne sauriez-vous me dire....
+
+Excusez-moi, je ne veux que m'instruire....
+
+Ce que vous dites-là m'étonne.
+Connaissez-vous Saint-Franc ?
+
+Est-il possible ? Ô Ciel !
+
+      Ils ont grand tort, Madame.
+Mais, vous m'aviez troublé. Je craignais qu'à Saint-Franc
+Il ne fut arrivé quelque triste accident,
+Et vos discours ont alarmé mon âme.
+
+Je le crois : mais, Madame, puis-je voir
+Monsieur Saint-Franc ?
+
+C'est pour l'entretenir sur un point important.
+
 Saint-Franc, sans doute, aura reçu ma lettre,
 Il m'attendra.... C'est donc ici
 Que sur ton sort je vais être éclairci,
@@ -1031,74 +830,28 @@ Dans le tel chagrin où mon coeur est plongé,
 Pourquoi le Ciel aurait-il prolongé
 Les jours d'un trop malheureux père ?
 
-**** *book_ *id_I19 *act_I *date_1780
-
--*who_dinville
-Oui, c'est-là le contrat qui de notre bonheur
-Devait être garant. Ô ma chère Sophie !
-
--*who_monsieurdherbain
 Sophie ! ai-je entendu ! Me trompai-je ? Et mon coeur
 N'en croit-il pas trop vite une si chère envie ?
 
--*who_sophie
-Lien sacré qui devait nous unir,
-Sois le témoin des pleurs que tu nous fais répandre.
-
--*who_monsieurdherbain
 Ses traits, sa voix, son nom.... tout me fait pressentir...
 Grand Dieu ! S'il se pouvait !...
 
--*who_dinville
-      Votre main va dépendre
-D'un père !
-
--*who_monsieurdherbain
       Ô Ciel ! D'un père !
 
--*who_sophie
-      Ah ! Ce doux souvenir
-Fait renaître l'espoir en mon âme ravie !
-Il est, depuis quinze ans, l'objet de mes soupirs ;
-J'ai formé chaque jour les plus tendres désirs !
-Pour le revoir j'aurais donné ma vie !
-Et ce jour le ramène ! Ah ! Ce moment heureux
-Qui me rend à mon père, aura comblé mes voeux.
-
--*who_monsieurdherbain
 Il comble aussi les miens. Embrassez-moi, ma fille !
 
--*who_sophie
-Mon père ! Ô Ciel !
-
--*who_monsieurdherbain
       De quinze ans de chagrin,
 Mes chers enfants, ce beau jour est la fin.
 Ma fille !...
 
-**** *book_ *id_I20 *act_I *date_1780
-
--*who_monsieurdesaintfranc
-      Oui, la voilà ; toujours dans ma famille
-Je te l'ai conservée.
-
--*who_monsieurdherbain
       Ah ! Digne et tendre ami !
 Bénissons le moment qui nous rejoint ici.
 Madame, à nos désirs en ce jour tout prospère.
 
--*who_madamedesaintfranc
-Se peut-il ?
-
--*who_monsieurdherbain
       Vous savez la malheureuse affaire,
 Où Saint-Franc eut jadis un si triste succès,
 Et qui le contraignit à quitter l'Amérique ?...
 
--*who_monsieurdesaintfranc
-Eh bien !
-
--*who_monsieurdherbain
       J'ai fait revoir tout le procès,
 J'ai fait casser le jugement inique
 Qui t'avait condamné. J'ai sauvé ton honneur,
@@ -1109,26 +862,6 @@ Bref, aujourd'hui ton bien monte à cent mille écus.
 Les voici. Reçois-les, sans discours superflus.
 De l'Amitié ce sont là les Étrennes.
 
--*who_monsieurdesaintfranc
-Ah ! Mon ami, je reconnais ton coeur ;
-Et sans remerciement, sans des paroles vaines,
-Le mien va s'acquitter au gré de son ardeur.
-D'une épouse qui t'était chère,
-À ses derniers moments j'ai reçu les soupirs ;
-À ta fille quinze ans j'ai tenu lieu de père,
-Et t'ai préparé les plaisirs
-De la tendresse la plus pure.
-Formée à la vertu, son âme est mon présent ;
-Elle est digne de toi, ton ami te la rend :
-C'est l'Étrenne de la Nature.
-
--*who_sophie
-Ah ! mon père !
-
--*who_dinville
-      Ah ! Monsieur !
-
--*who_monsieurdherbain
       Je vous entends.
 Rassurez-vous, mes chers enfants.
 En unissant ton fils avec ma fille,
@@ -1140,79 +873,8 @@ Et pour couronner ce beau jour,
 Que le coeur et la main d'une amante ? Chérie,
 Soient les Étrennes de l'Amour.
 
--*who_monsieurdesaintfranc
-Mon cher ami !
-
-**** *book_ *id_I21 *act_I *date_1780
-
--*who_madamedormont
-      Comment ! Vous êtes là, mon frère ?
-On vous cherche partout.
-
--*who_monsieurdesaintfranc
-      Que voulez-vous, ma soeur ?
-
--*who_madamedormont
-C'est un homme qui veut.... Ah ! vous voilà, Monsieur !
-
--*who_monsieurdherbain
 Pour vous servir, Madame.
 
--*who_madamedormont
-      Eh bien ! Quoi ! Cette affaire ?...
-Parlez-lui donc.
-
--*who_madamedesaintfranc
-      C'est fait, ma soeur.
-
--*who_madamedormont
-      Ah ! Ah ! C'est fait.
-Et ces enfants.... leur mariage ?
-Quand le terminez-vous ? N'est-ce qu'un vain projet ?
-
--*who_madamedesaintfranc
-Tout est fini, ma soeur.
-
--*who_madamedormont
-      Comment donc, s'il vous plaît ?
-Fini, sans m'en parler ! Sans avoir mon suffrage !
-C'était pourtant le moins qu'on me fit cet honneur.
-Mais, selon vous, je suis folle. Oh ! J'enrage !
-
--*who_monsieurdesaintfranc
-Pardonnez-moi ce mouvement d'humeur,
-Qui troublait mon esprit, sans prendre sur mon coeur.
-Un rien, souvent de l'homme le plus sage,
-Altère la tranquillité.
-Mais de ce digne ami, notre félicité
-Dans un moment devient l'ouvrage.
-
--*who_madamedormont
-Oh ! Pour le coup, Monsieur, embrassons-nous.
-Vous me gagnez le coeur.
-
--*who_monsieurdherbain
       Madame, il m'est bien doux
 D'avoir mérité votre estime.
 
--*who_madamedormont
-Et vous, mon frère, encor me refuserez-vous ?
-
--*who_monsieurdesaintfranc
-Votre transport est légitime,
-Et mon coeur le partage.
-
--*who_madamedormont
-      Allons, ma chère soeur,
-Et vous, mes chers enfants... Quel plaisir ! quel bonheur !
-Ah ! je me reconnais.. Voilà de la tendresse !
-Voilà du bon vieux temps la véritable ivresse.
-C'est ainsi qu'autrefois les amis, les parents,
-Réunis par d'heureux événements,
-Se témoignaient leur allégresse !
-Ils négligeaient les compliments,
-Et préféraient une caresse :
-Ils avaient bien raison. Ce sont les sentiments
-Et les tendres embrassements
-Qui savent honorer, par une marque sûre,
-L'Amour, l'Amitié, la Nature.

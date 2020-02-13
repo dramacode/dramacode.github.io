@@ -1,27 +1,262 @@
 
 
-**** *book_ *id_I01 *act_I *date_1693
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
--*who_jacinte
-Il faut au pis-aller s'y résoudre, Madame.
-
--*who_angelique
 Quoi, d'un jaloux vieillard je me verrais la femme ?
 Jacinte, nous aimons l'honnête liberté,
 Nous serions toutes deux dans la captivité,
 Plus de Bal, d'Opéra, de Jeu, de Comédie,
 Qui faisaient nos plaisirs.
 
--*who_jacinte
+      J'aime autant me résoudre à mourir
+Que mon Père...
+
+Son père est attaqué de la goutte, il est vieux.
+
+Et Léandre me laisse au bord du précipice.
+
+      Cesse en l'excusant d'augmenter mon supplice.
+
+      Dis qu'il peut m'oublier,
+Répond-il à ma lettre ?
+
+      Ha ! Si je lui suis chère
+Qu'il vienne m'enlever dans les bras de mon père,
+Qu'il me sauve de ceux de ce jaloux vieillard.
+
+Mon Père le croit riche, et veut que je l'adore,
+Il faut feindre d'aimer ce que mon coeur abhorre.
+
+Toi-même m'as donné cet avis, je l'observe,
+Et pour plaire à mon père, il faut que je m'en serve,
+Si, dit-il, je ne l'aime avec emportement,
+Il me fera finir mes jours en un couvent ;
+Vois, pour les abuser comme il faut que j'agisse.
+
+Si Léandre hasardait de venir jusqu'ici.
+
+      Qu'a-t-il dit ? Ah ma peine est extrême ?
+
+      Des enchantements ;
+Dieu m'a bien assistée de ne pas voir dedans,
+Comme je me serais accommodée.
+
+Qu'avec votre départ vous me désespérerez,
+Si près de nous unir serions-nous séparés.
+
+      Et c'est ce qui m'étonne.
+
+      Si jamais je ne vous avais vu
+Que je serais heureuse !
+
+Il est tard, ne partez que demain, s'il vous plaît.
+Mon fils.
+
+Va-t-elle bien ?
+
+Elle vous coûte bien vingt Louis ?
+
+Vraiment elle est fort belle.
+
+      Je le crois.
+
+Enfin, quelle heure est-il ?
+
+Hélas ! Ne partez point.
+
+      Qu'est-ce encore que cela ?
+
+Que vous m'avez fait peur, à quoi bon tous ces cris.
+
+Aussi, pourquoi toujours mettre votre sac là.
+
+Rentrez, vous aurez froid dans cette grande salle,
+Monsieur.
+
+      Je vous suis, allez tout apprêter,
+Vous n'avez pas besoin de moi pour vous botter.
+
+      Oui, Jacinte,
+Il se botte.
+
+À merveille.
+
+      Oh tu vas voir,
+Ces feints déplaisirs font, étant crus véritables,
+Dans un jaloux absent des effets admirables ;
+As-tu trouvé Léandre ?
+
+      J'y vais.
+
+      Quoi, vous allez partir ?
+
+Non, absente de vous, je ne pourrai pas vivre,
+Ou souffrez que je meure, ou laissez-moi vous suivre.
+
+      Je veux toujours vous voir.
+
+      Vous voulez me mettre au désespoir.
+
+      Deux jours ! Ce mot me tue,
+Je pourrais me priver deux jours de votre vue,
+Deux jours !
+
+Tout est charmant en vous, et tout a su me plaire,
+Vous le savez fort bien.
+
+Non, non, si je ne pars, ils ne partiront pas,
+Je ne vous quitte point.
+
+Quoi, si près d'un hymen, vouloir m'abandonner ?
+
+Hé ce moment venu m'est pis qu'un coup de foudre ;
+Oui, j'ai cru me résoudre à vous laisser partir,
+Mais je vois bien qu'enfin je n'y puis consentir.
+
+Quoi ! Vous pleurez, mon cher, ah cessez...
+
+Non, puisque son départ causera mon trépas.
+
+      Partez.
+
+Quand viendrez-vous ?
+
+Puisque je me résous à souffrir votre absence,
+Loin de vous supplier à faire diligence,
+Pour ne me plus jouer de si sensibles tours,
+Au lieu de deux, de trois, prenez huit ou dix jours.
+
+Non, non, partez, Monsieur.
+
+      Fussiez-vous déjà loin,
+Je pourrais vous revoir plutôt que je n'espère.
+
+Il est déjà bien tard.
+
+Mais la nuit vous prendra dans une heure d'ici.
+
+Faut-il laisser aller ce que j'aime le mieux ?
+
+Ah Ciel !
+
+Adieu toute ma joie.
+
+Ha, je respire, et bien sais-je me contrefaire ?
+
+La feinte était fort bien.
+
+Enfin, il est absent, pour le coup, respirons,
+Et jouissons un peu du bien que nous avons.
+
+Comment, que fait cela ? Quoi, vous souffrir chez moi,
+Seule.
+
+Puis-je, mon Accordé, Monsieur, étant aux champs,
+Souffrir, avec honneur, le moindre homme céans ?
+
+Je n'ai qu'une cuisine, une chambre et ma salle,
+On ne peut vous coucher que dans un galetas.
+
+Je crains...
+
+Vois qui heurte ?
+
+Hé va, nous le verrons quand nous serons à table.
+
+      Jacinte, le voici.
+
+Je vous aime, mon coeur ne dément point ma voix,
+Je crois depuis deux ans vous l'avoir dit cent fois,
+Je vous aime.
+
+C'est dessus notre hymen que mon amour se fonde ;
+
+Où donc, vous prétendez me faire un grand régale.
+
+Jacinte, que je sens de trouble dans mon âme.
+
+Et ma bouche et mes yeux, ne vous l'ont que trop dit.
+
+La porte du devant est-elle bien fermée ?
+
+      Je viens d'être alarmée.
+
+      D'un soldat que nous avons là-haut.
+
+      Oui.
+
+      Il ronfle comme il faut.
+
+Lui ? Rien.
+
+      Monsieur, quelle est ma crainte !
+
+Ah, si c'est lui, Léandre, où vous sauverez-vous ?
+
+      C'est lui ? Que lui ferai-je croire ?
+
+      Portez dans cette grande armoire
+La Table comme elle est.
+
+Oui, vous dis-je, elle l'est plus que vous ne pensez,
+Cachez-vous dans ce coin, Monsieur.
+
+Dépêchez-vous, je suis bien plus morte que vive.
+
+      Non, j'en suis si surprise,
+Que de ce soir, Monsieur, je n'en serai remise.
+
+      À l'heure qu'il est, que voulez-vous qu'on croie ?
+
+      Ah !
+
+      Votre retour m'est un coup de poignard ;
+Pourquoi s'en revenir puisqu'il était si tard
+Et pourquoi me donner une frayeur mortelle.
+
+Oui, mais mon trop d'amour entretient ma frayeur,
+J'aime, et je crains toujours.
+
+      J'avais déjà l'effroi
+D'un Soldat qui céans s'est logé malgré moi
+Souffrir un homme ici, seules, en votre absence,
+Que dira-t-on de moi ?
+
+Ne vous attendant pas, qu'aurions-nous eu sans vous.
+
+Ah, ne le croyez pas, Monsieur qu'allez-vous dire ?
+
+      Jacinte, qu'est ceci ?
+
+      Il me prend un frisson.
+
+Ah, Monsieur, c'est un Diable.
+
+C'est un Magicien, il n'en faut plus douter.
+
+      Cela m'est impossible.
+
+      Et moi.
+
+Ah, Monsieur est un Diable, il va nous perdre, Hélas !
+
+      C'est pour troubler les nôtres.
+
+Lui ! Si nous le voyons, Monsieur, je suis perdue.
+
+La figure de l'homme est la plus agréable :
+Que comme un tourbillon il sorte de ces lieux,
+Je tournerai le dos, ou fermerai les yeux.
+
+
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
+
+Il faut au pis-aller s'y résoudre, Madame.
+
       J'en suis toute étourdie,
 Nous aurons vous et moi diantrement à souffrir,
 Madame.
 
--*who_angelique
-      J'aime autant me résoudre à mourir
-Que mon Père...
-
--*who_jacinte
       Voyez son avarice extrême,
 Chez ce futur époux il vous conduit lui-même,
 Il vous y fait loger et veut dès aujourd'hui,
@@ -29,358 +264,41 @@ Au plus tard dès demain vous marier chez lui,
 Et même sans prier aucun de la famille,
 Qui jamais de la sorte a marié sa fille ?
 
--*who_angelique
-Son père est attaqué de la goutte, il est vieux.
-
--*who_jacinte
 Que sa goutte remonte on en sera bien mieux.
 
--*who_angelique
-Et Léandre me laisse au bord du précipice.
-
--*who_jacinte
 Mais...
 
--*who_angelique
-      Cesse en l'excusant d'augmenter mon supplice.
-
--*who_jacinte
 Il peut tout ignorer.
 
--*who_angelique
-      Dis qu'il peut m'oublier,
-Répond-il à ma lettre ?
-
--*who_jacinte
       On lui vient d'envoyer,
 Jocrisse l'a portée.
 
--*who_angelique
-      Ha ! Si je lui suis chère
-Qu'il vienne m'enlever dans les bras de mon père,
-Qu'il me sauve de ceux de ce jaloux vieillard.
-
--*who_jacinte
 C'est un vilain magot que ce Monsieur Grognard.
 
--*who_angelique
-Mon Père le croit riche, et veut que je l'adore,
-Il faut feindre d'aimer ce que mon coeur abhorre.
-
--*who_jacinte
 Et vous feignez si bien, Madame, en vérité,
 Que vous semblez l'aimer avec sincérité.
 
--*who_angelique
-Toi-même m'as donné cet avis, je l'observe,
-Et pour plaire à mon père, il faut que je m'en serve,
-Si, dit-il, je ne l'aime avec emportement,
-Il me fera finir mes jours en un couvent ;
-Vois, pour les abuser comme il faut que j'agisse.
-
--*who_jacinte
 Vous avez un esprit qui se démonte à visse.
 
--*who_angelique
-Si Léandre hasardait de venir jusqu'ici.
-
--*who_jacinte
 Jocrisse vous dira... mais déjà le voici.
 
-**** *book_ *id_I02 *act_I *date_1693
-
--*who_jocrisse
-Il enrage,
-Votre papier, je pense, était un sorcelage,
-Il a dit, le lisant, puis-je croire cela ?
-Ah diable d'innocent que m'apportes-tu là ?
-Puis prenant ses cheveux et la piau de sa tête,
-Il s'est tout écorché d'une force...
-
--*who_jacinte
       La bête,
 Les cheveux et la peau, Jocrisse n'est-ce pas ?
 
--*who_jocrisse
-Non la piau, les cheveux, oui, j'ai vu tout à bas,
-Une tête de viau qu'on écorche est de même,
-La sienne.
-
--*who_angelique
-      Qu'a-t-il dit ? Ah ma peine est extrême ?
-
--*who_jocrisse
-Rien. Qu'avait-ce papier donc ?
-
--*who_angelique
-      Des enchantements ;
-Dieu m'a bien assistée de ne pas voir dedans,
-Comme je me serais accommodée.
-
--*who_jacinte
       Madame,
 Voici Monsieur Grognard, je crois qu'il a dans l'âme
 Quelque chagrin.
 
-**** *book_ *id_I03 *act_I *date_1693
-
--*who_grognard
-      Mamour, je suis au désespoir
-Pour aller à Poissy, je vais partir ce soir,
-Mon frère se meurt.
-
--*who_jacinte
       Bon, excellente nouvelle,
 J'en vais faire avertir Léandre.
 
-**** *book_ *id_I04 *act_I *date_1693
-
--*who_grognard
-      Que dit-elle ?
-
--*who_angelique
-Qu'avec votre départ vous me désespérerez,
-Si près de nous unir serions-nous séparés.
-
--*who_grognard
-Ce n'est que pour un jour.
-
--*who_angelique
-      Et c'est ce qui m'étonne.
-
--*who_grognard
-Mais je ne saurais m'en dispenser, mignonne,
-Tu pleures.
-
--*who_angelique
-      Si jamais je ne vous avais vu
-Que je serais heureuse !
-
--*who_grognard
-      Hé bien, aurait-on cru
-Ce grand amour pour moi, franchement je l'admire,
-Et j'en suis si surpris, que je ne sais qu'en dire.
-
--*who_angelique
-Il est tard, ne partez que demain, s'il vous plaît.
-Mon fils.
-
--*who_grognard
-      Ma montre est là, voyons quelle heure il est.
-
--*who_angelique
-Va-t-elle bien ?
-
--*who_grognard
-      Fort bien, elle est d'or et sonnante.
-
--*who_angelique
-Elle vous coûte bien vingt Louis ?
-
--*who_grognard
-      Dites trente.
-
--*who_angelique
-Vraiment elle est fort belle.
-
--*who_grognard
-      Et bonne.
-
--*who_angelique
-      Je le crois.
-
--*who_grognard
-Je la mets là, jamais je n'en porte sur moi.
-
--*who_angelique
-Enfin, quelle heure est-il ?
-
--*who_grognard
-      J'aurai du temps de reste.
-
--*who_angelique
-Hélas ! Ne partez point.
-
--*who_grognard
-      Ne pas partir, la peste
-Il s'agit d'hériter, ce mien frère a du bien,
-Et je veux avoir l'oeil, qu'on ne détourne rien.
-Mais avant que de partir, mangeons dans la cuisine,
-Un morceau près du feu, j'ai froid à la poitrine,
-Mais je me charge ici...
-
--*who_angelique
-      Qu'est-ce encore que cela ?
-
--*who_grognard
-Des Mémoires. Que veut ce petit drôle-là ?
-
-**** *book_ *id_I05 *act_I *date_1693
-
--*who_leclerc
-Je suis le Maître-Clerc de chez votre notaire.
-
--*who_grognard
-Monsieur, excusez-moi.
-
--*who_leclerc
-      Voilà votre inventaire
-Copié de ma main.
-
--*who_grognard
-      Vous m'obligez, Monsieur,
-Vous écrivez très bien, et...
-
--*who_leclerc
-      Votre serviteur.
-
--*who_grognard
-Mon homme a votre argent, si vous vouliez l'attendre.
-
--*who_leclerc
-Non, j'enverrai demain un petit clerc le prendre.
-
--*who_grognard
-Ma foi je doute fort demain comme aujourd'hui
-Qu'il en puisse envoyer un plus petit que lui.
-Jocrisse tiens-toi là, qu'aucun n'entre ou ne sorte.
-
--*who_jocrisse
-Non, je n'ouvrirai pas qu'on ne buque à la porte.
-
--*who_grognard
-Quand on y buquerait, n'ouvre pas, innocent.
-
--*who_jocrisse
-Bien, pas un n'entrera, quand ils y viendraient cent.
-Par la gueule du sac, la carogne est entrée,
-Palsanguenne al en tient la chienne est éventrée,
-Al n'est pargué pas morte, il y fallait cela,
-Qu'elle ronge à présent.
-
-**** *book_ *id_I06 *act_I *date_1693
-
--*who_grognard
-      Quel bruit fais-tu donc là ?
-
--*who_jocrisse
-Oh parguenne, al en tient, Monsieur.
-
--*who_grognard
-      Que veux-tu dire ?
-
--*who_jocrisse
-C'est qu'al en tient, ouvrez, et vous allez bien rire,
-Si vous ne la trouvez en quatre ou cinq quartiers...
-
--*who_grognard
-Quoi donc ?
-
--*who_jocrisse
-      Une Souris qui rongeait vos papiers.
-
--*who_grognard
-Une Souris, où donc ?
-
--*who_jocrisse
-      J'entendais la carogne,
-Cric, crac, cric, crac, cric, crac, al avançait besogne.
-
--*who_grognard
-Elle est morte.
-
--*who_jocrisse
-      Oh vraiment, hé, Monsieur, s'il vous plaît,
-Ouvrez le sac, voyez en quel état qu'al est.
-
--*who_grognard
-Le sac, ah je crains bien...
-
--*who_jocrisse
-      Allez sur ma parole,
-Ne craignez rien, al est plus plate qu'une sole,
-Six coups de mon bâton...
-
--*who_grognard
-      Hélas ! Je suis perdu.
-
--*who_jocrisse
-Ah oui da, pour si peu qu'elle vous a mordu,
-Al en a dans les dents.
-
--*who_grognard
-      M'en voilà pour ma Montre,
-Ah ! Que m'as-tu fais là, diable de malencontre.
-
-**** *book_ *id_I07 *act_I *date_1693
-
--*who_angelique
-Que vous m'avez fait peur, à quoi bon tous ces cris.
-
--*who_grognard
-C'est pour ma montre.
-
--*who_jocrisse
-      Il ment, c'est pour une souris.
-
--*who_grognard
-Ce malheureux a mis ma montre de la sorte,
-Et croit que tout cela n'est qu'une souris morte.
-
--*who_jocrisse
-Mais notre serrurier la raccommodera,
-Donnez-la-moi, Monsieur, on la rapportera.
-
--*who_grognard
-Un serrurier ? Je veux que dès demain tu sortes.
-
--*who_jocrisse
-Il a raccommodé des choses bien plus fortes.
-
--*who_angelique
-Aussi, pourquoi toujours mettre votre sac là.
-
--*who_grognard
-Qui diantre se serait défié de cela ?
-
--*who_angelique
-Rentrez, vous aurez froid dans cette grande salle,
-Monsieur.
-
--*who_grognard
-      Chien de butor, va brider ma cavale.
-Allons donc.
-
--*who_angelique
-      Je vous suis, allez tout apprêter,
-Vous n'avez pas besoin de moi pour vous botter.
-
-**** *book_ *id_I08 *act_I *date_1693
-
--*who_jacinte
 Hé bien, partira-t-il ce grogneux ?
 
--*who_angelique
-      Oui, Jacinte,
-Il se botte.
-
--*who_jacinte
       Avez-vous commencé votre plainte ?
 
--*who_angelique
-À merveille.
-
--*who_jacinte
       Il faudra paraître au désespoir
 Dans les derniers adieux, Madame.
 
--*who_angelique
-      Oh tu vas voir,
-Ces feints déplaisirs font, étant crus véritables,
-Dans un jaloux absent des effets admirables ;
-As-tu trouvé Léandre ?
-
--*who_jacinte
       Oui, j'ai su l'avertir,
 Que votre vieil Amant s'apprête pour partir,
 Et même en ce moment, au coin de cette rue
@@ -388,141 +306,21 @@ Il a mis devant moi son valet à l'affût,
 Pour savoir quand Monsieur Grognard décampera,
 Et pour souper ici Léandre se rendra.
 
--*who_grognard
-Angélique.
-
--*who_angelique
-      J'y vais.
-
-**** *book_ *id_I09 *act_I *date_1693
-
--*who_jocrisse
-      Morgué, cela m'affole,
-Comment diable est-ce donc que ceci se bricole,
-Que sert ce fer, pourquoi ces brimborions-là,
-Palsanguenne un licou vaut mieux que tout cela ?
-
--*who_jacinte
 Il va donc partir ?
 
--*who_jocrisse
-      Oui, mais afin qu'il détale,
-Morgué ne savez-vous point brider une cavale ?
-
--*who_jacinte
 Ouvre-lui bien la bouche et mets le mors dedans.
 
--*who_jocrisse
-C'est qu'al lève le nez, et qu'a serre les dents,
-Je suis pour la brider, monté dans la mangeoire,
-Al m'a levé la tête, et cassé la mâchoire,
-Je l'ai pourtant bridée, et il n'y manquait rien,
-Hors que le fer était sous la gorge.
-
--*who_jacinte
       Fort bien,
 Va vite la brider de crainte de la touche,
 Voici Monsieur.
 
--*who_jocrisse
-      Comment lui faire ouvrir la bouche ?
-
--*who_jacinte
 Ah ! Le vilain botté.
 
-**** *book_ *id_I10 *act_I *date_1693
-
--*who_angelique
-      Quoi, vous allez partir ?
-
--*who_grognard
-Il le faut bien mamour, tu viens d'y consentir.
-
--*who_angelique
-Non, absente de vous, je ne pourrai pas vivre,
-Ou souffrez que je meure, ou laissez-moi vous suivre.
-
--*who_grognard
-Mais, mon coeur, que veux-tu ?
-
--*who_angelique
-      Je veux toujours vous voir.
-
--*who_grognard
-Mais tu sais...
-
--*who_angelique
-      Vous voulez me mettre au désespoir.
-
--*who_grognard
-Ce n'est que pour deux jours.
-
--*who_angelique
-      Deux jours ! Ce mot me tue,
-Je pourrais me priver deux jours de votre vue,
-Deux jours !
-
--*who_grognard
-      Je ne sais pas d'où vient cet amour-là,
-Car je n'ai rien en moi qui l'oblige à cela.
-
--*who_angelique
-Tout est charmant en vous, et tout a su me plaire,
-Vous le savez fort bien.
-
--*who_grognard
-      Non fait, ma foi, ma chère,
-Laisse donc pour deux jours partir tous mes appas.
-
--*who_angelique
-Non, non, si je ne pars, ils ne partiront pas,
-Je ne vous quitte point.
-
--*who_grognard
-      Mais, mamour, comment faire,
-Tu sais bien qu'il s'agit d'une importante affaire.
-
--*who_jacinte
 Vous nous désespérez.
 
--*who_grognard
-      Cela me fait damner.
-
--*who_angelique
-Quoi, si près d'un hymen, vouloir m'abandonner ?
-
--*who_grognard
-Quand je t'en ai parlé tu semblais t'y résoudre.
-
--*who_angelique
-Hé ce moment venu m'est pis qu'un coup de foudre ;
-Oui, j'ai cru me résoudre à vous laisser partir,
-Mais je vois bien qu'enfin je n'y puis consentir.
-
--*who_grognard
-Pour moi je ne sais pas où j'ai pris tant de charmes,
-Je ne puis m'empêcher de répandre des larmes.
-
--*who_angelique
-Quoi ! Vous pleurez, mon cher, ah cessez...
-
--*who_grognard
-      Je ne puis,
-Jamais amant ne fut plus aimé que je suis,
-Vois-tu sa passion ?
-
--*who_jacinte
       Elle est trop violente ?
 S'il revient dans deux jours, serez-vous pas contente ?
 
--*who_angelique
-Non, puisque son départ causera mon trépas.
-
--*who_grognard
-Hé bien, mon petit coeur, je ne partirai pas,
-Tu serais triste, et moi je serais à la gêne.
-
--*who_jacinte
 Vos affaires iront d'une belle dégaine,
 Vous ne seriez pas pis s'il était votre époux !
 Votre ménage ira tout sens dessus dessous,
@@ -530,840 +328,244 @@ Un mari ne pourra jamais faire un voyage,
 Sans qu'une femme soit à ses trousses, j'enrage,
 Quelle honte !
 
--*who_angelique
-      Partez.
-
--*who_jacinte
       Je la consolerai.
 
--*who_angelique
-Quand viendrez-vous ?
-
--*who_grognard
-      Demain ou je ne le pourrai.
-
--*who_angelique
-Puisque je me résous à souffrir votre absence,
-Loin de vous supplier à faire diligence,
-Pour ne me plus jouer de si sensibles tours,
-Au lieu de deux, de trois, prenez huit ou dix jours.
-
--*who_grognard
-Je ne puis me résoudre à souffrir ton absence,
-Je ne partirai point.
-
--*who_jacinte
       Mais vous rêvez, je pense !
 
--*who_angelique
-Non, non, partez, Monsieur.
-
--*who_grognard
-      Je le veux, prends en soin.
-Je m'en vais donc, mamour !
-
--*who_angelique
-      Fussiez-vous déjà loin,
-Je pourrais vous revoir plutôt que je n'espère.
-
--*who_jacinte
 Laissez-le donc aller, Madame.
 
--*who_grognard
-      Adieu, ma chère.
-
--*who_angelique
-Il est déjà bien tard.
-
--*who_grognard
-      Je gagnerai Poissy.
-
--*who_angelique
-Mais la nuit vous prendra dans une heure d'ici.
-
--*who_jacinte
 Mais la nuit à présent n'est pas noire, elle est blonde,
 Puisque le clair de lune est le plus beau du monde.
 
--*who_angelique
-Faut-il laisser aller ce que j'aime le mieux ?
-
--*who_jacinte
 Ma foi, vous finirez malgré tous vos adieux,
 Partez, s'il fallait donc qu'il fit un grand voyage !
 
--*who_angelique
-Ah Ciel !
-
--*who_grognard
-      Que nous allons faire un heureux ménage.
-
--*who_angelique
-Adieu toute ma joie.
-
--*who_grognard
-      Adieu tout mon désir.
-
-**** *book_ *id_I11 *act_I *date_1693
-
--*who_jacinte
 Il croit que vous allez mourir de déplaisir.
 
--*who_angelique
-Ha, je respire, et bien sais-je me contrefaire ?
-
--*who_jacinte
 Mais vous avez pensé gâter toute l'affaire,
 Votre feint déplaisir l'a mis si fort à bout,
 Qu'il a, ma foi, pensé ne point partir du tout.
 
--*who_angelique
-La feinte était fort bien.
-
--*who_jacinte
       Mais un peu trop poussée,
 Pour l'obliger d'agir selon notre pensée.
 
--*who_angelique
-Enfin, il est absent, pour le coup, respirons,
-Et jouissons un peu du bien que nous avons.
-
--*who_jacinte
 Vraiment vous voilà seule, et n'avez plus de crainte,
 Vous allez voir Léandre, et le voir sans contrainte.
 
-**** *book_ *id_I12 *act_I *date_1693
-
--*who_jacinte
 Qu'est-ce ?
 
--*who_lesoldat
-      Monsieur Grognard.
-
--*who_jacinte
       Hé bien !
 
--*who_lesoldat
-      Est-il ici ?
-
--*who_jacinte
 Non, il est à la campagne.
 
--*who_lesoldat
-      Un ordre que voici,
-L'oblige à me loger cette nuit par étape.
-
--*who_jacinte
 À moins qu'on ne coure après, et qu'on ne le rattrape,
 On ne vous peut loger.
 
--*who_lesoldat
-      Il le faut pourtant bien.
-
--*who_jacinte
 Étant seules ici...
 
--*who_lesoldat
-      L'on ne doit craindre rien.
-
--*who_jacinte
 Je le crois, mais, Madame est une jeune femme,
 Ou va l'être du moins.
 
--*who_lesoldat
-      Que fait cela, Madame.
-
--*who_angelique
-Comment, que fait cela ? Quoi, vous souffrir chez moi,
-Seule.
-
--*who_lesoldat
-      Que voulez-vous, c'est un Ordre du Roi,
-Puis il est tard, la nuit sera bientôt passée.
-
--*who_jacinte
 L'honnêteté, Monsieur, n'en est pas moins blessée.
 
--*who_angelique
-Puis-je, mon Accordé, Monsieur, étant aux champs,
-Souffrir, avec honneur, le moindre homme céans ?
-
--*who_lesoldat
-Mais, comment voulez-vous, Madame, que je fasse,
-Ce que vous me devez, je le demande en grâce,
-Et tout autre Soldat viendrait brutalement,
-Ce billet à la main, prendre son logement,
-Mais, j'en use partout avec respect, Madame.
-
--*who_jacinte
 Rien n'est si chatouilleux que l'honneur d'une femme,
 Vous le savez, Monsieur, nous avons ce malheur,
 Le moindre homme suffit pour ternir notre honneur,
 Et son ombre à présent nous ferait du scandale.
 
--*who_angelique
-Je n'ai qu'une cuisine, une chambre et ma salle,
-On ne peut vous coucher que dans un galetas.
-
--*who_lesoldat
-Partout où vous voudrez, il ne m'importe pas,
-Mais mon souper, Madame ?
-
--*who_jacinte
       Il n'y faut point de nappe,
 Nous n'avons pain ni vin.
 
--*who_lesoldat
-      La peste, quelle étape !
-La Ville est bonne.
-
--*who_jacinte
       Mais il est tard.
 
--*who_lesoldat
-      J'ai grand faim.
-
--*who_jacinte
 Barbe vous trouvera quelque morceau de pain,
 Sans le mari, toujours la femme se chagrine,
 Et pour lors il n'est rien plus froid que la cuisine.
 
--*who_lesoldat
-N'avez-vous point ici d'eau-de-vie, ou du vin ?
-
--*who_jacinte
 Oh, non, passez-vous-en jusqu'à demain matin.
 
--*who_lesoldat
-Jamais jeûne ne fût plus loin de ma pensée,
-Que celui-là l'était.
-
--*who_jacinte
       La nuit est avancée,
 Barbe, de la lumière, et conduisez Monsieur
 Au galetas.
 
--*who_barbe
-      Montez.
-
--*who_lesoldat
-      Testigué, serviteur.
-
--*who_angelique
-Je crains...
-
--*who_jacinte
       Ne craignez rien, la justice est si bonne,
 Que l'on ose aujourd'hui faire insulte à personne.
 
-**** *book_ *id_I13 *act_I *date_1693
-
--*who_angelique
-Vois qui heurte ?
-
--*who_lerotisseur
-      Bonsoir.
-
--*who_jacinte
       Qu'est-ce encore que ceci ?
 
--*who_lerotisseur
-C'est du vin et du rôt que j'apportons ici.
-
--*who_jacinte
 Vous apportez du vin et du rôt, pourquoi faire ?
 
--*who_lerotisseur
-Pargué, Madame, c'est pour faire bonne chère.
-
--*who_jacinte
 Et qui vous a chargé de l'apporter chez nous ?
 
--*who_lerotisseur
-Le valet d'un Monsieur, qui doit souper chez vous.
-
--*who_jacinte
 Ne vous l'ai-je pas dis, portez dans la cuisine,
 Découvre un peu, voyons.
 
--*who_lerotisseur
-      Vla qu'a-t-il bonne mine ?
-
--*who_jacinte
 Bonne ou mauvaise, va l'on te payera bien.
 
--*who_lerotisseur
-Hé, j'en sommes payés, je n'en demandons rien.
-
-**** *book_ *id_I14 *act_I *date_1693
-
--*who_jacinte
 Donne donc ton bassin à notre cuisinière.
 
--*who_lerotisseur
-Le voilà, vous avez deux oiseaux de rivière,
-Un levraut, deux faisans, trois perdrix.
-
--*who_jacinte
       C'est assez.
 
--*who_lerotisseur
-Tout cela coûte bien plus que vous ne pensez.
-
--*who_jacinte
 Tant mieux.
 
--*who_lerotisseur
-      Le plat de rôt est aussi raisonnable...
-
--*who_angelique
-Hé va, nous le verrons quand nous serons à table.
-
--*who_jacinte
 Barbe, tenez tout prêt pour le servir ici,
 Quand ce Monsieur viendra.
 
--*who_angelique
-      Jacinte, le voici.
-
-**** *book_ *id_I15 *act_I *date_1693
-
--*who_leandre
-Madame, vous voyez ce que j'ose entreprendre,
-Mais si vous ne m'aimez, que deviendra Léandre ?
-
--*who_angelique
-Je vous aime, mon coeur ne dément point ma voix,
-Je crois depuis deux ans vous l'avoir dit cent fois,
-Je vous aime.
-
--*who_leandre
-      Hé, Madame, est-ce assez de le dire
-Et d'en demeurer là, pour croître mon martyre ;
-Vos souhaits et les miens seront-ils superflus,
-Montrez que vous m'aimez, et ne le dites plus.
-
--*who_angelique
-C'est dessus notre hymen que mon amour se fonde ;
-
--*who_jacinte
 Voici l'occasion la plus belle du monde ;
 Votre jaloux amant est parti pour deux jours,
 L'agréable saison pour les tendres amours :
 Madame, mettra-t-on le couvert dans la salle,
 
--*who_angelique
-Où donc, vous prétendez me faire un grand régale.
-
--*who_leandre
-Non, Madame, ce n'est qu'un fort petit cadeau,
-Et l'on ne peut ici vous le donner plus beau.
-
--*who_angelique
-Jacinte, que je sens de trouble dans mon âme.
-
--*who_leandre
-Ah, Madame, serait-ce en faveur de ma flamme ?
-
--*who_angelique
-Et ma bouche et mes yeux, ne vous l'ont que trop dit.
-
--*who_jacinte
 Mais votre amour s'échauffe, et le souper froidit,
 Si longtemps sans manger, est-ce être raisonnable,
 Ne voulez-vous donc pas, Monsieur, vous mettre à table ;
 Dites-lui qu'il s'y mette, il veut être prié,
 Plus de soupirs, demain vous serez marié.
 
--*who_angelique
-La porte du devant est-elle bien fermée ?
-
--*who_jacinte
 Oui, Madame, elle l'est.
 
--*who_angelique
-      Je viens d'être alarmée.
-
--*who_leandre
-De qui donc ?
-
--*who_angelique
-      D'un soldat que nous avons là-haut.
-
--*who_leandre
-Par étape ?
-
--*who_angelique
-      Oui.
-
--*who_leandre
-      Dort-il ?
-
--*who_angelique
-      Il ronfle comme il faut.
-
--*who_leandre
-Quand ces gens soupent bien, ils dorment à merveille,
-Et l'on leur tirerait le canon dans l'oreille,
-Qu'ils dormiraient encore. Qu'a-t-il soupé ?
-
--*who_angelique
-Lui ? Rien.
-
--*who_leandre
-      Tant pis, l'estomac vide, on ne dort pas bien.
-
--*who_jacinte
 Qui diantre heurte ainsi ?
 
--*who_angelique
-      Monsieur, quelle est ma crainte !
-
--*who_jacinte
 Il faut bien que ce soit Monsieur.
 
--*who_leandre
-      Va voir, Jacinte.
-
--*who_angelique
-Ah, si c'est lui, Léandre, où vous sauverez-vous ?
-
--*who_leandre
-Je ne sais, car par là, tout est fermé sur nous.
-
--*who_jacinte
 C'est lui-même.
 
--*who_angelique
-      C'est lui ? Que lui ferai-je croire ?
-
--*who_jacinte
 Mais il monte.
 
--*who_angelique
-      Portez dans cette grande armoire
-La Table comme elle est.
-
--*who_barbe
-      Est-elle grande assez ?
-
--*who_angelique
-Oui, vous dis-je, elle l'est plus que vous ne pensez,
-Cachez-vous dans ce coin, Monsieur.
-
--*who_leandre
-      Quoi qu'il arrive...
-
--*who_angelique
-Dépêchez-vous, je suis bien plus morte que vive.
-
--*who_leandre
-Madame, vous n'avez à craindre nullement.
-
-**** *book_ *id_I16 *act_I *date_1693
-
--*who_grognard
-Je te surprends, mamour, fort agréablement,
-Tu ne m'attendais-pas !
-
--*who_angelique
-      Non, j'en suis si surprise,
-Que de ce soir, Monsieur, je n'en serai remise.
-
--*who_grognard
-D'où vient donc ?
-
--*who_jacinte
       Entendant que l'on heurtait si fort,
 Nous croyons toutes deux qu'on vous rapportait mort.
 
--*who_grognard
-Mort !
-
--*who_angelique
-      À l'heure qu'il est, que voulez-vous qu'on croie ?
-
--*who_grognard
-Qu'elle m'aime !
-
--*who_jacinte
       Oh !
 
--*who_grognard
-      Mon coeur !
-
--*who_angelique
-      Ah !
-
--*who_grognard
-      Reprends donc ta joie
-Mon coeur !
-
--*who_angelique
-      Votre retour m'est un coup de poignard ;
-Pourquoi s'en revenir puisqu'il était si tard
-Et pourquoi me donner une frayeur mortelle.
-
--*who_grognard
-Mais je ne suis pas mort, tu le vois bien, ma belle.
-
--*who_angelique
-Oui, mais mon trop d'amour entretient ma frayeur,
-J'aime, et je crains toujours.
-
--*who_grognard
-      Mon pauvre petit coeur,
-On ne peut pas, je crois, voir dans aucun ménage,
-La femme et le mari s'entraimer davantage.
-
--*who_jacinte
 On ferait tout Paris.
 
--*who_angelique
-      J'avais déjà l'effroi
-D'un Soldat qui céans s'est logé malgré moi
-Souffrir un homme ici, seules, en votre absence,
-Que dira-t-on de moi ?
-
--*who_grognard
-      Qu'en dira-t-on ? Je pense
-Que nul n'y peut trouver à redire que moi,
-C'est par étape et c'est par ordre du Roi.
-J'ai sortant de Paris trouvé l'apothicaire,
-Qui m'a dit qu'une crise avait sauvé mon frère,
-Et je suis revenu pour souper, qu'avons-nous ?
-
--*who_angelique
-Ne vous attendant pas, qu'aurions-nous eu sans vous.
-
--*who_jacinte
 Nous n'avons employé ni broche ni marmite,
 Et chacune a, je crois, mangé sa pomme cuite.
 
--*who_grognard
-Mais...
-
--*who_jacinte
       À l'heure qu'il est on ne peut rien avoir.
 
--*who_grognard
-Tant pis.
-
-**** *book_ *id_I17 *act_I *date_1693
-
--*who_lesoldat
-      Je viens, Monsieur, vous donner le bonsoir,
-C'est un petit devoir qu'on doit à son Hôte,
-Que j'importune ici.
-
--*who_grognard
-      Ce n'est pas votre faute.
-
--*who_lesoldat
-L'ombre d'un homme met Madame au désespoir.
-
--*who_grognard
-La pauvre énfant n'a pas accoutumé d'en voir,
-Il faut lui pardonner.
-
--*who_lesoldat
-      Oui, Madame est fort sage,
-Le seul nom de soldat, mon habit, mon visage.
-
--*who_grognard
-Tout cela lui fait peur.
-
--*who_lesoldat
-      Je m'en suis aperçu,
-Un cadet fort bien fait... eût été mieux reçu.
-
--*who_angelique
-Ah, ne le croyez pas, Monsieur qu'allez-vous dire ?
-
--*who_grognard
-Hé, que crains-tu ?
-
--*who_lesoldat
-      Je n'ai nul dessein de vous nuire.
-
--*who_grognard
-Je le crois fort, Monsieur.
-
--*who_lesoldat
-      Pour souper, qu'avons-nous ?
-
--*who_grognard
-Rien du tout, dont j'enrage.
-
--*who_lesoldat
-      Écoutez entre nous,
-Je vais vous découvrir une importante affaire,
-Et dans ce même instant vous faire fort grande chère,
-Ne me perdez pas, à vingt ans j'eus le bien,
-De servir quatre mois un grand magicien,
-Je sais tout ce qu'on peut savoir dans les magies,
-Informez-vous dedans nos compagnies,
-Vous saurez de quel bois se chauffe Joli-coeur,
-C'est mon nom et celui de votre serviteur,
-J'ai pouvoir sur le Diable, et si je lui commande
-D'apporter promptement dans ce lieu, pain, vin, viande,
-D'un seul mot tout cela se va trouver ici.
-Dites quel rôt vous plaît.
-
--*who_angelique
-      Jacinte, qu'est ceci ?
-
--*who_lesoldat
-Ne vous alarmez point, je vous ferai grand chère.
-
--*who_grognard
-De tous ces contes-là, je ne me repais guère,
-Si ce n'est que cela, je crois, sans vous fâcher,
-Que nous n'avons tous trois qu'à nous aller coucher ;
-Car nous ne verrons point ce souper-là paraître.
-
--*who_lesoldat
-La frayeur fait passer votre appétit peut-être,
-Et de tout ce rôt-là vous ne mangerez rien.
-
--*who_grognard
-Pourquoi, s'il était bon, j'en mangerais fort bien.
-
--*who_lesoldat
-Il sera merveilleux.
-
--*who_grognard
-      Goûtons-le pour le croire.
-
--*who_lesoldat
-Démon, qu'en cet instant se trouve en cette armoire,
-Deux oiseaux de Rivière, un Levraut, trois Perdrix,
-Et que ce Rôt-là soit le meilleur de Paris,
-Qu'on ajoute à cela deux faisans, je te prie.
-
--*who_grognard
-Hé, Monsieur Joli-coeur, trêve de raillerie.
-
--*who_lesoldat
-Filles, apportez tout.
-
--*who_angelique
-      Il me prend un frisson.
-
--*who_lesoldat
-Madame, ne craignez en aucune façon.
-
--*who_angelique
-Ah, Monsieur, c'est un Diable.
-
--*who_grognard
-      Il n'en a nulle tache,
-Et je suis sûr qu'il est sorcier comme une vache.
-
--*who_lesoldat
-Les verres et le vin, il faut tout apporter.
-
--*who_angelique
-C'est un Magicien, il n'en faut plus douter.
-
--*who_grognard
-Oui, c'en est un, j'en vois une marque sensible.
-
--*who_lesoldat
-Voilà de quoi, soupons.
-
--*who_angelique
-      Cela m'est impossible.
-
--*who_grognard
-Et moi je ne suis pas d'un repas infernal.
-
--*who_lesoldat
-Qui n'en mangera pas s'en trouvera fort mal.
-
--*who_grognard
-J'en vais manger.
-
--*who_angelique
-      Et moi.
-
--*who_jacinte
       J'en mangerai de même.
 
--*who_lesoldat
-Çà, je vais vous servir.
-
--*who_barbe
-      Ah ! Que Monsieur est blême.
-
--*who_angelique
-Ah, Monsieur est un Diable, il va nous perdre, Hélas !
-
--*who_jacinte
 Monsieur est un bon Diable, il ne nous perdra pas.
 
--*who_lesoldat
-Non, non, il est souvent des diables favorables,
-Qui dans certains périls se trouvent secourables ;
-Vous auriez bien sujet d'avoir le coeur contrit,
-Mesdames, bien vous prend que j'aie un peu d'esprit,
-Du vin, à la santé de celui qui nous traite,
-Et pour rendre la fête à mon gré plus complète,
-Je vais l'accompagner d'un couplet de chanson,
-Qui vous plaira, je crois, puisqu'il me semble bon.
-Bacchus et L'Amour font débauche,
-Buvons à droit, buvons à gauche,
-Ils sont d'accord ici tous deux,
-Et la fête n'est que pour eux,
-Quel plaisir de les voir à table,
-Qu'avec un peu d'amour Bacchus est agréable,
-Et que l'Amour est divin
-Quand il a pris un petit doigt de vin.
-
--*who_grognard
-Je ne vois pas ici que nous fassions débauche,
-Votre Démon voit trouble, ou du moins voit à gauche ;
-Ainsi je crois pouvoir dire avec raison,
-Que cette chanson-là, n'est guère de saison.
-
--*who_lesoldat
-J'en vais chanter une autre.
-L'amour vous récompense
-De votre long chagrin,
-Profitez de l'absence
-Du vieux faquin,
-Du vieux faquin,
-Du vieux bouquin,
-Du vieux bouquin,
-Qu'il perde toute espérance,
-Le gros pendard,
-Le sot bavard,
-Le grand braillard,
-Le vieux pénard,
-Trompez tous deux d'intelligence,
-Le laid hibou
-Le loup garou,
-Le vieux houhou,
-Le franc coucou.
-
--*who_grognard
-Hé bien, c'est encor pis,
-Que voulez-vous donc dire avecque tous vos ris ?
-
--*who_jacinte
 Mes ris ! Je ne ris pas, Monsieur, c'est que je pleure.
 
--*who_grognard
-Elle pleure à présent, et riait tout à l'heure.
-Quelle sera la fin de ce désordre ici !
-Mais il est trop certain qu'un Démon est ici.
-
--*who_lesoldat
-Pour troubler les amours...
-
--*who_angelique
-      C'est pour troubler les nôtres.
-
--*who_grognard
-Hé vraiment oui, le Diable en fit-il jamais d'autres ?
-
--*who_lesoldat
-Ce n'est pas encor tout, il faut que vous voyiez
-Le Diable cuisinier qui nous a régalés.
-
--*who_angelique
-Lui ! Si nous le voyons, Monsieur, je suis perdue.
-
--*who_grognard
-Ah ! De grâce, Monsieur, privez-nous de sa vue.
-
--*who_jacinte
 Nous verrons, s'il le faut, l'Enfer de bout en bout,
 Mais ne nous montrez point ce Diable-là surtout.
 
--*who_lesoldat
-Mais comme il est céans, il faut bien qu'il en sorte,
-Ou par la cheminée enfin, ou par la porte,
-Pour la forme, il l'aura telle que je voudrai,
-Choisissez-la vous-même, ou je la choisirai,
-La voulez-vous d'un boeuf, ou d'un homme, ou d'un diable ?
-
--*who_angelique
-La figure de l'homme est la plus agréable :
-Que comme un tourbillon il sorte de ces lieux,
-Je tournerai le dos, ou fermerai les yeux.
-
--*who_grognard
-Moi, pour ne le point voir je ferai l'un et l'autre.
-
--*who_lesoldat
-Tournez le dos, Jacinte, et vous Barbe, le vôtre.
-
--*who_grognard
-Moi, je ferme les yeux, et je tourne le dos,
-Pour ne point voir l'objet qui trouble mon repos.
-
--*who_lesoldat
-Démon tu vas sortir, qu'on ouvre chaque porte ;
-Comment souhaitez-vous qu'il soit vêtu ?
-
--*who_grognard
-Qu'importe ?
-
--*who_lesoldat
-      Prends un habit galant, des plumes, des rubans,
-Quand je battrai des mains, sors vite de céans,
-Quitte ta laide face, prends-en une plus belle,
-Pour ne point faire peur à cette Demoiselle,
-Car tu peux être vu d'elle et de son amant,
-Et prends garde surtout d'en user autrement,
-Vous le verrez un peu, tournez-vous d'autre sorte.
-
--*who_grognard
-Qui, moi ? Si je le vois que le Diable m'emporte.
-
--*who_lesoldat
-Prépare ta sortie, et ne t'arrête pas.
-
--*who_leandre
-Angélique venez vous jeter dans mes bras,
-Suivez-moi tous.
-
--*who_grognard
-      Ah, ah, quelle voix infernale,
-Nul mortel ici-bas n'a de voix qui l'égale,
-Suivez-moi tous. Comment je reste seul ici ?
-Angélique, Jacinte, et le Soldat aussi,
-Tout est au Diable, et moi bien plus qu'eux misérable,
-J'ai tort, je suis mieux qu'eux puisqu'ils sont tous au Diable ;
-Angélique, un Démon vous enlève aujourd'hui,
-Ah ! N'avez-vous point fait quelque pacte avec lui ?
-Un Diable me l'emporte.
-
-**** *book_ *id_I18 *act_I *date_1693
-
--*who_jacinte
       Ils sont bien dix ou douze,
 Mais le Diable, Monsieur, qui l'emporte, l'épouse,
 C'est Léandre.
 
--*who_grognard
-      Il l'épouse, elle qui m'aimait tant.
-
--*who_jacinte
 Preniez-vous tout cela pour de l'argent comptant.
 
--*who_grognard
-Ah ! Quelle trahison, cela n'est pas croyable.
-
--*who_jacinte
 Elle vous haïssait, Monsieur, comme le Diable,
 Je ne suis pas d'humeur à vous déguiser rien.
 Et je vous parle franc.
 
--*who_grognard
-      Vraiment je le vois bien,
-Et pour me consoler encor de cette affaire,
-Si la mort me faisait l'héritier de mon frère ;
-Mais tout coup vaille, il faut pour m'éloigner d'ici,
-Reprendre doucement le chemin de Poissy.
+
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+Madame, vous voyez ce que j'ose entreprendre,
+Mais si vous ne m'aimez, que deviendra Léandre ?
+
+      Hé, Madame, est-ce assez de le dire
+Et d'en demeurer là, pour croître mon martyre ;
+Vos souhaits et les miens seront-ils superflus,
+Montrez que vous m'aimez, et ne le dites plus.
+
+Non, Madame, ce n'est qu'un fort petit cadeau,
+Et l'on ne peut ici vous le donner plus beau.
+
+Ah, Madame, serait-ce en faveur de ma flamme ?
+
+De qui donc ?
+
+Par étape ?
+
+      Dort-il ?
+
+Quand ces gens soupent bien, ils dorment à merveille,
+Et l'on leur tirerait le canon dans l'oreille,
+Qu'ils dormiraient encore. Qu'a-t-il soupé ?
+
+      Tant pis, l'estomac vide, on ne dort pas bien.
+
+      Va voir, Jacinte.
+
+Je ne sais, car par là, tout est fermé sur nous.
+
+      Quoi qu'il arrive...
+
+Madame, vous n'avez à craindre nullement.
+
+Angélique venez vous jeter dans mes bras,
+Suivez-moi tous.
+
+
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jocrisse
+
+Il enrage,
+Votre papier, je pense, était un sorcelage,
+Il a dit, le lisant, puis-je croire cela ?
+Ah diable d'innocent que m'apportes-tu là ?
+Puis prenant ses cheveux et la piau de sa tête,
+Il s'est tout écorché d'une force...
+
+Non la piau, les cheveux, oui, j'ai vu tout à bas,
+Une tête de viau qu'on écorche est de même,
+La sienne.
+
+Rien. Qu'avait-ce papier donc ?
+
+Non, je n'ouvrirai pas qu'on ne buque à la porte.
+
+Bien, pas un n'entrera, quand ils y viendraient cent.
+Par la gueule du sac, la carogne est entrée,
+Palsanguenne al en tient la chienne est éventrée,
+Al n'est pargué pas morte, il y fallait cela,
+Qu'elle ronge à présent.
+
+Oh parguenne, al en tient, Monsieur.
+
+C'est qu'al en tient, ouvrez, et vous allez bien rire,
+Si vous ne la trouvez en quatre ou cinq quartiers...
+
+      Une Souris qui rongeait vos papiers.
+
+      J'entendais la carogne,
+Cric, crac, cric, crac, cric, crac, al avançait besogne.
+
+      Oh vraiment, hé, Monsieur, s'il vous plaît,
+Ouvrez le sac, voyez en quel état qu'al est.
+
+      Allez sur ma parole,
+Ne craignez rien, al est plus plate qu'une sole,
+Six coups de mon bâton...
+
+Ah oui da, pour si peu qu'elle vous a mordu,
+Al en a dans les dents.
+
+      Il ment, c'est pour une souris.
+
+Mais notre serrurier la raccommodera,
+Donnez-la-moi, Monsieur, on la rapportera.
+
+Il a raccommodé des choses bien plus fortes.
+
+      Morgué, cela m'affole,
+Comment diable est-ce donc que ceci se bricole,
+Que sert ce fer, pourquoi ces brimborions-là,
+Palsanguenne un licou vaut mieux que tout cela ?
+
+      Oui, mais afin qu'il détale,
+Morgué ne savez-vous point brider une cavale ?
+
+C'est qu'al lève le nez, et qu'a serre les dents,
+Je suis pour la brider, monté dans la mangeoire,
+Al m'a levé la tête, et cassé la mâchoire,
+Je l'ai pourtant bridée, et il n'y manquait rien,
+Hors que le fer était sous la gorge.
+
+      Comment lui faire ouvrir la bouche ?
+

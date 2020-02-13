@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_mortdachille  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1673  
 title: La Mort d'Achille. Tragédie  
 ---

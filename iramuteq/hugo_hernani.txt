@@ -1,171 +1,16 @@
 
 
-**** *book_ *id_I01 *act_I *date_1830
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hernani
 
--*who_donajosepha
-Serait-ce déjà lui.
-      C'est bien à l'escalier
-Dérobé.
-      Vite, ouvrons.
-      Bonjour, beau cavalier.
-Quoi ! Seigneur Hernani, ce n'est pas vous ! - Main forte !
-Au feu !
-
--*who_doncarlos
-      Deux mots de plus, duègne, vous êtes morte !
-Suis-je chez doña Sol ? Fiancée au vieux duc
-De Pastraña, son oncle, un bon seigneur, caduc,
-Vénérable et jaloux ? Dites ! La belle adore
-Un cavalier sans barbe et sans moustache encore,
-Et reçoit tous les soirs, malgré les envieux,
-Le jeune amant sans barbe à la barbe du vieux.
-Suis-je bien informé ?
-      - Vous répondrez peut-être.
-
--*who_donajosepha
-Vous m'avez défendu de dire deux mots, maître.
-
--*who_doncarlos
-Aussi n'en veux-je qu'un. - Oui, non. - Ta dame est bien
-Doña Sol De Silva ? Parle.
-
--*who_donajosepha
-      Oui. - Pourquoi ?
-
--*who_doncarlos
-      Pour rien.
-Le duc, son vieux futur, est absent à cette heure ?
-
--*who_donajosepha
-Oui.
-
--*who_doncarlos
-      Sans doute elle attend son jeune ?
-
--*who_donajosepha
-      Oui.
-
--*who_doncarlos
-      Que je meure !
-
--*who_donajosepha
-Oui.
-
--*who_doncarlos
-      Duègne, c'est ici qu'aura lieu l'entretien ?
-
--*who_donajosepha
-Oui.
-
--*who_doncarlos
-      Cache-moi céans.
-
--*who_donajosepha
-      Vous ?
-
--*who_doncarlos
-      Moi.
-
--*who_donajosepha
-      Pourquoi ?
-
--*who_doncarlos
-      Pour rien.
-
--*who_donajosepha
-Moi, vous cacher !
-
--*who_doncarlos
-      Ici.
-
--*who_donajosepha
-      Jamais.
-
--*who_doncarlos
-      Daignez, madame,
-Choisir de cette bourse ou bien de cette lame.
-
--*who_donajosepha
-Vous êtes donc le diable ?
-
--*who_doncarlos
-      Oui, duègne.
-
--*who_donajosepha
-      Entrez ici.
-
--*who_doncarlos
-Cette boîte ?
-
--*who_donajosepha
-      Va-t'en, si tu n'en veux pas.
-
--*who_doncarlos
-      Si !
-Serait-ce l'écurie où tu mets d'aventure
-Le manche du balai qui te sert de monture ?
-Ouf !
-
--*who_donajosepha
-      Un homme ici !
-
--*who_doncarlos
-      C'est une femme, est-ce pas,
-Qu'attendait ta maîtresse ?
-
--*who_donajosepha
-      Ô ciel ! j'entends le pas
-De doña Sol. - Seigneur, fermez vite la porte.
-
--*who_doncarlos
-Si vous dites un mot, duègne, vous êtes morte.
-
--*who_donajosepha
-Qu'est cet homme ? Jésus mon Dieu ! si j'appelais ?...
-Qui ? Hors madame et moi, tout dort dans le palais.
-Bah ! l'autre va venir. La chose le regarde.
-Il a sa bonne épée, et que le ciel nous garde
-De l'enfer !
-      Après tout, ce n'est pas un voleur.
-
-**** *book_ *id_I02 *act_I *date_1830
-
--*who_donasol
-Josefa !
-
--*who_donajosepha
-      Madame ?
-
--*who_donasol
-      Ah ! je crains quelque malheur.
-Hernani devrait être ici. - Voici qu'il monte.
-Ouvre avant qu'il ne frappe, et fais vite, et sois prompte.
-
--*who_donasol
-Hernani !
-
--*who_hernani
       Doña Sol ! Ah ! c'est vous que je vois
 Enfin ! et cette voix qui parle est votre voix !
 Pourquoi le sort mit-il mes jours si loin des vôtres ?
 J'ai tant besoin de vous pour oublier les autres !
 
--*who_donasol
-Jésus ! Votre manteau ruisselle. Il pleut donc bien ?
-
--*who_hernani
 Je ne sais.
 
--*who_donasol
-      Vous devez avoir froid ?
-
--*who_hernani
       Ce n'est rien.
 
--*who_donasol
-Ôtez donc ce manteau.
-
--*who_hernani
       Doña Sol, mon amie,
 Dites-moi, quand la nuit vous êtes endormie,
 Calme, innocente et pure, et qu'un sommeil joyeux
@@ -173,38 +18,21 @@ Entr'ouvre votre bouche et du doigt clôt vos yeux,
 Un ange vous dit-il combien vous êtes douce
 Au malheureux que tout abandonne et repousse ?
 
--*who_donasol
-Ami, vous avez bien tardé ! Mais dites-moi
-Si vous avez froid.
-
--*who_hernani
       Moi ? Je brûle près de toi.
 Ah ! Quand l'amour jaloux bouillonne dans nos têtes,
 Quand notre coeur se gonfle et s'emplit de tempêtes,
 Qu'importe ce que peut un nuage des airs
 Nous jeter en passant de tempête et d'éclairs ?
 
--*who_donasol
-Allons ! Donnez la cape et l'épée avec elle !
-
--*who_hernani
 Non. C'est mon autre amie, innocente et fidèle !
 Doña Sol, le vieux duc, votre futur époux,
 Votre oncle est donc absent ?
 
--*who_donasol
-      Oui, cette heure est à nous.
-
--*who_hernani
 Cette heure ! Et voilà tout. Pour nous, plus rien qu'une heure,
 Après, qu'importe ? Il faut qu'on oublie ou qu'on meure.
 Ange ! Une heure avec vous ! Une heure, en vérité,
 À qui voudrait la vie, et puis l'éternité !
 
--*who_donasol
-Hernani.
-
--*who_hernani
       Que je suis heureux que le duc sorte !
 Comme un larron qui tremble et qui force une porte,
 Vite, j'entre, et vous vois, et dérobe au vieillard
@@ -212,35 +40,15 @@ Une heure de vos chants et de votre regard,
 Et je suis bien heureux, et sans doute on m'envie
 De lui voler une heure ; et lui me prend ma vie !
 
--*who_donasol
-Calmez-vous.
-      Josefa, fais sécher son manteau.
-Venez là.
-
--*who_hernani
       Donc le duc est absent du château ?
 
--*who_donasol
-Comme vous êtes grand !
-
--*who_hernani
       Il est absent.
 
--*who_donasol
-      Chère âme,
-Ne pensons plus au duc.
-
--*who_hernani
       Ah ! Pensons-y, madame !
 Ce vieillard ! Il vous aime, il va vous épouser !
 Quoi donc ! Vous prit-il pas l'autre jour un baiser ?
 N'y plus penser !
 
--*who_donasol
-      C'est là ce qui vous désespère !
-Un baiser d'oncle ! Au front ! Presque un baiser de père !
-
--*who_hernani
 Non ; un baiser d'amant, de mari, de jaloux.
 Ah ! Vous serez à lui ! Madame. Y pensez-vous ?
 Ô l'insensé vieillard, qui, la tête inclinée,
@@ -253,10 +61,6 @@ Il vient dans nos amours se jeter sans frayeur !
 Vieillard, va-t'en donner mesure au fossoyeur !
 Qui fait ce mariage ? On vous force, j'espère !
 
--*who_donasol
-Le roi, dit-on, le veut.
-
--*who_hernani
       Le roi ! Le roi ! Mon père
 Est mort sur l'échafaud, condamné par le sien.
 Or, quoiqu'on ait vieilli depuis ce fait ancien,
@@ -273,10 +77,6 @@ Car les fils sont debout, et le duel continue.
 Ah ! C'est donc toi qui veux cet exécrable hymen !
 Tant mieux. Je te cherchais, tu viens dans mon chemin !
 
--*who_donasol
-Vous m'effrayez.
-
--*who_hernani
       Chargé d'un mandat d'anathème,
 Il faut que j'en arrive à m'effrayer moi-même !
 Écoutez. L'homme auquel, jeune, on vous destina,
@@ -300,10 +100,6 @@ Que l'air, le jour et l'eau, la dot qu'il donne à tous.
 Or du duc ou de moi souffrez qu'on vous délivre,
 Il faut choisir des deux, l'épouser, ou me suivre.
 
--*who_donasol
-Je vous suivrai.
-
--*who_hernani
       Parmi mes rudes compagnons ?
 Proscrits dont le bourreau sait d'avance les noms,
 Gens dont jamais le fer ni le coeur ne s'émousse,
@@ -327,531 +123,78 @@ Les balles des mousquets siffler à votre oreille.
 Être errante avec moi, proscrite, et, s'il le faut,
 Me suivre où je suivrai mon père, - à l'échafaud.
 
--*who_donasol
-Je vous suivrai.
-
--*who_hernani
       Le duc est riche, grand, prospère.
 Le duc n'a pas de tache au vieux nom de son père.
 Le duc peut tout. Le duc vous offre avec sa main
 Trésors, titres, bonheur...
 
--*who_donasol
-      Nous partirons demain.
-Hernani, n'allez pas sur mon audace étrange
-Me blâmer. êtes-vous mon démon ou mon ange ?
-Je ne sais, mais je suis votre esclave. écoutez,
-Allez où vous voudrez, j'irai. Restez, partez,
-Je suis à vous. Pourquoi fais-je ainsi ? Je l'ignore.
-J'ai besoin de vous voir, et de vous voir encore,
-Et de vous voir toujours. Quand le bruit de vos pas
-S'efface, alors je crois que mon coeur ne bat pas ;
-Vous me manquez, je suis absente de moi-même ;
-Mais dès qu'enfin ce pas que j'attends et que j'aime
-Vient frapper mon oreille, alors il me souvient
-Que je vis, et je sens mon âme qui revient !
-
--*who_hernani
 Ange !
 
--*who_donasol
-      À minuit. Demain. Amenez votre escorte.
-Sous ma fenêtre. Allez, je serai brave et forte.
-Vous frapperez trois coups.
-
--*who_hernani
       Savez-vous qui je suis,
 Maintenant ?
 
--*who_donasol
-      Monseigneur, qu'importe ! Je vous suis.
-
--*who_hernani
 Non, puisque vous voulez me suivre, faible femme,
 Il faut que vous sachiez quel nom, quel rang, quelle âme,
 Quel destin est caché dans le pâtre Hernani.
 Vous vouliez d'un brigand, voulez-vous d'un banni ?
 
--*who_doncarlos
-Quand aurez-vous fini de conter votre histoire ?
-Croyez-vous donc qu'on soit si bien dans une armoire ?
-Hernani recule étonné. Doña Sol pousse un cri et se réfugie
-dans ses bras, en fixant sur don Carlos des yeux effarés.
-
--*who_hernani
 Quel est cet homme ?
 
--*who_donasol
-      Ô ciel ! Au secours !
-
--*who_hernani
       Taisez-vous,
 Doña Sol ! Vous donnez l'éveil aux yeux jaloux.
 Quand je suis près de vous, veuillez, quoi qu'il advienne,
 Ne réclamer jamais d'autre aide que la mienne.
 Que faisiez-vous là ?
 
--*who_doncarlos
-      Moi? Mais, à ce qu'il paraît,
-Je ne chevauchais pas à travers la forêt.
-
--*who_hernani
 Qui raille après l'affront s'expose à faire rire
 Aussi son héritier !
 
--*who_doncarlos
-      Chacun son tour, messire !
-Parlons franc. Vous aimez madame et ses yeux noirs,
-Vous y venez mirer les vôtres tous les soirs,
-C'est fort bien. J'aime aussi madame, et veux connaître
-Qui j'ai vu tant de fois entrer par la fenêtre,
-Tandis que je restais à la porte.
-
--*who_hernani
       En honneur,
 Je vous ferai sortir par où j'entre, Seigneur.
 
--*who_doncarlos
-Nous verrons. J'offre donc mon amour à madame.
-Partageons, voulez-vous ? J'ai vu dans sa belle âme
-Tant d'amour, de bonté, de tendres sentiments,
-Que madame, à coup sûr, en a pour deux amants.
-Or, ce soir, voulant mettre à fin mon entreprise,
-Pris, je pense, pour vous, j'entre ici par surprise ;
-Je me cache, j'écoute, à ne vous celer rien ;
-Mais j'entendais très mal et j'étouffais très bien ;
-Et puis je chiffonnais ma veste à la française.
-Ma foi, je sors !
-
--*who_hernani
       Ma dague aussi n'est pas à l'aise,
 Et veut sortir.
 
--*who_doncarlos
-      Monsieur, c'est comme il vous plaira.
-
--*who_hernani
 En garde !
 
--*who_donasol
-      Hernani ! Ciel !
-
--*who_doncarlos
-      Calmez-vous, Señora.
-
--*who_hernani
 Dites-moi votre nom.
 
--*who_doncarlos
-      Hé ! Dites-moi le vôtre !
-
--*who_hernani
 Je le garde, secret et fatal, pour un autre
 Qui doit un jour sentir, sous mon genou vainqueur,
 Mon nom à son oreille, et ma dague à son coeur !
 
--*who_doncarlos
-Alors, quel est le nom de l'autre ?
-
--*who_hernani
       Que t'importe ?
 En garde ! Défends-toi !
 
--*who_donasol
-      Ciel ! On frappe à la porte !
-
--*who_hernani
 Qui frappe ainsi ?
 
--*who_donajosefa
-      Madame ! Un coup inattendu !
-C'est le duc qui revient !
-
--*who_donasol
-      Le duc ! Tout est perdu !
-Malheureuse !
-
--*who_donajosefa
-      Mon dieu ! L'inconnu ! Des épées !
-On se battait. Voilà de belles équipées !
-
--*who_hernani
       Que faire ?
 On frappe.
 
--*who_unevoix
-      Doña Sol, ouvrez-moi !
-
--*who_hernani
       N'ouvrez pas.
 
--*who_donajosefa
-Saint Jacques monseigneur ! Tirez-nous de ce pas !
-
--*who_hernani
 Cachons-nous.
 
--*who_doncarlos
-      Dans l'armoire ?
-
--*who_hernani
       Entrez-y, je m'en charge.
 Nous y tiendrons tous deux.
 
--*who_doncarlos
-      Grand merci, c'est trop large.
-
--*who_hernani
 Fuyons par là.
 
--*who_doncarlos
-      Bonsoir. Pour moi, je reste ici.
-
--*who_hernani
 Ah ! Tête et sang ! Monsieur, vous me paierez ceci !
 Si je barricadais l'entrée ?
 
--*who_doncarlos
-      Ouvrez la porte.
-
--*who_hernani
 Que dit-il ?
 
--*who_doncarlos
-      Ouvrez donc, vous dis-je !
-
--*who_donasol
-      Je suis morte !
-
-**** *book_ *id_I03 *act_I *date_1830
-
--*who_donruygomez
-Des hommes chez ma nièce à cette heure de nuit !
-Venez tous ! Cela vaut la lumière et le bruit.
-Par saint Jean d'Avila, je crois que, sur mon âme,
-Nous sommes trois chez vous ! C'est trop de deux, Madame.
-Mes jeunes cavaliers, que faites-vous céans ?
-Quand nous avions le Cid et Bernard, ces géants
-De l'Espagne et du monde allaient par les Castilles
-Honorant les vieillards et protégeant les filles.
-C'étaient des hommes forts et qui trouvaient moins lourds
-Leur fer et leur acier, que vous votre velours.
-Ces hommes-là portaient respect aux barbes grises,
-Faisaient agenouiller leur amour aux églises
-Ne trahissaient personne, et donnaient pour raison
-Qu'ils avaient à garder l'honneur de leur maison.
-S'ils voulaient une femme, ils la prenaient sans tache,
-En plein jour, devant tous, et l'épée, ou la hache,
-Ou la lance à la main. - Et quant à ces félons
-Qui le soir, et les yeux tournés vers leurs talons,
-Ne fiant qu'à la nuit leurs manoeuvres infâmes,
-Par derrière aux maris vol l'honneur des femmes,
-J'affirme que le Cid, cet aïeul de nous tous,
-Les eût tenus pour vils et fait mettre à genoux,
-Et qu'il eût, dégradant leur noblesse usurpée,
-Souffleté leur blason du plat de son épée !
-Voilà ce que feraient, j'y songe avec ennui,
-Les hommes d'autrefois aux hommes d'aujourd'hui.
-Qu'êtes-vous venus faire ici ? C'est donc à dire
-Que je ne suis qu'un vieux dont les jeunes vont rire !
-On va rire de moi, soldat de Zamora ?
-Et quand je passerai, tête blanche, on rira ?
-Ce n'est pas vous du moins qui rirez !...
-
--*who_hernani
       Duc...
 
--*who_donruygomez
-      Silence !
-Quoi ! Vous avez l'épée, et la bague, et la lance,
-La chasse, les festins, les meutes, les faucons,
-Les chansons à chanter le soir sous les balcons,
-Les plumes au chapeau, les casaques de soie,
-Les bals, les carrousels, la jeunesse, la joie,
-Enfants, l'ennui vous gagne ! à tout prix, au hasard,
-Il vous faut un hochet : vous prenez un vieillard !
-Ah ! Vous l'avez brisé, le hochet ! mais Dieu fasse
-Qu'il vous puisse en éclats rejaillir à la face !
-Suivez-moi !
-
--*who_hernani
       Seigneur duc...
 
--*who_donruygomez
-      Suivez-moi! Suivez-moi !
-Messieurs, avons-nous fait cela pour rire ? Quoi !
-Un trésor est chez moi ; c'est l'honneur d'une fille,
-D'une femme, l'honneur de toute une famille ;
-Cette fille, je l'aime, elle est ma nièce, et doit
-Bientôt changer sa bague à l'anneau de mon doigt ;
-Je la crois chaste et pure, et sacrée à tout homme,
-Or il faut que je sorte une heure, et moi qu'on nomme
-Ruy Gomez De Silva, je ne puis l'essayer
-Sans qu'un larron d'honneur se glisse à mon foyer !
-Arrière, jeunes gens ! Ah ! Ce sont là vos fêtes !
-Des bâtards rougiraient d'agir comme vous faites !
-Non. C'est bien. Poursuivez. Ai-je autre chose encor ?
-Tenez, foulez aux pieds, foulez ma toison d'or!
-Arrachez mes cheveux, faites-en chose vile !
-Et vous pourrez demain vous vanter par la ville
-Que jamais débauchés, dans leurs jeux insolents,
-N'ont sur plus noble front souillé cheveux plus blancs !
-
--*who_donasol
-Monseigneur...
-
--*who_donruygomez
-      Écuyers ! Écuyers ! À mon aide !
-Ma hache, mon poignard, ma dague de Tolède !
-Et suivez-moi tous deux !
-
--*who_doncarlos
-      Duc, ce n'est pas d'abord
-De cela qu'il s'agit. Il s'agit de la mort
-De Maximilien, empereur d'Allemagne.
-
--*who_donruygomez
-Raillez-vous ?... Dieu ! Le roi !
-
--*who_donasol
-      Le roi !
-
--*who_hernani
       Le roi d'Espagne.
 
--*who_doncarlos
-Oui, Carlos. Seigneur duc, es-tu donc insensé ?
-Mon aïeul l'empereur est mort, je ne le sais
-Que de ce soir. Je viens, tout en hâte, et moi-même,
-Dire la chose à toi, féal sujet que j'aime,
-Te demander conseil, incognito, la nuit,
-Et l'affaire est bien simple, et voilà bien du bruit !
-
--*who_donruygomez
-Mais pourquoi tarder tant à m'ouvrir cette porte?
-
--*who_doncarlos
-Belle raison ! Tu viens avec toute une escorte !
-Quand un secret d'état m'amène en ton palais,
-Duc, est-ce pour l'aller dire à tous tes valets ?
-
--*who_donruygomez
-Altesse, pardonnez, l'apparence...
-
--*who_doncarlos
-      Bon père,
-Je t'ai fait gouverneur du château de Figuère ;
-Mais qui dois-je à présent faire ton gouverneur ?
-
--*who_donruygomez
-Pardonnez...
-
--*who_doncarlos
-      Il suffit. N'en parlons plus, seigneur.
-Donc l'empereur est mort.
-
--*who_donruygomez
-      L'aïeul de votre altesse
-Est mort ?
-
--*who_doncarlos
-      Duc, tu m'en vois pénétré de tristesse.
-
--*who_donruygomez
-Qui lui succède ?
-
--*who_doncarlos
-      Un duc de Saxe est sur les rangs.
-François Premier, de France, est un des concurrents.
-
--*who_donruygomez
-Où vont se rassembler les électeurs d'empire ?
-
--*who_doncarlos
-Ils ont choisi, je crois, Aix-La-Chapelle, ou Spire,
-Ou Francfort.
-
--*who_donruygomez
-      Notre roi, dont Dieu garde les jours,
-N'a-t-il pensé jamais à l'empire ?
-
--*who_doncarlos
-      Toujours.
-
--*who_donruygomez
-C'est à vous qu'il revient.
-
--*who_doncarlos
-      Je le sais.
-
--*who_donruygomez
-      Votre père
-Fut archiduc d'Autriche, et l'empire, j'espère,
-Aura ceci présent, que c'était votre aïeul,
-Celui qui vient de choir de la pourpre au linceul.
-
--*who_doncarlos
-Et puis, on est bourgeois de Gand.
-
--*who_donruygomez
-      Dans mon jeune âge
-Je le vis, votre aïeul. Hélas! Seul je surnage
-D'un siècle tout entier. Tout est mort à présent.
-C'était un empereur magnifique et puissant !
-
--*who_doncarlos
-Rome est pour moi.
-
--*who_donruygomez
-      Vaillant, ferme, point tyrannique.
-Cette tête allait bien au vieux corps germanique !
-Que je vous plains ! Si jeune, en un tel deuil plongé !
-
--*who_doncarlos
-Le Pape veut ravoir la Sicile, que j'ai ;
-Un Empereur ne peut posséder la Sicile,
-Il me fait empereur ; alors, en fils docile.
-Je lui rends Naples. Ayons l'aigle, et puis nous verrons
-Si je lui laisserai rogner les ailerons.
-
--*who_donruygomez
-Qu'avec joie il verrait, ce vétéran du trône,
-Votre front déjà large aller à sa couronne !
-Ah ! Seigneur, avec vous nous le pleurerons bien,
-Cet empereur très grand, très bon et très chrétien !
-
--*who_doncarlos
-Le Saint-Père est adroit. - Qu'est-ce que la Sicile ?
-C'est une île qui pend à mon royaume, une île.
-Une pièce, un haillon, qui, tout déchiqueté,
-Tient à peine à l'Espagne et qui traîne à côté.
-- Que ferez-vous, mon fils, de cette île bossue
-Au monde impérial au bout d'un fil cousue ?
-Votre empire est mal fait : vite, venez ici,
-Des ciseaux ! et coupons ! - Très saint-père, merci !
-Car de ces pièces-là, si j'ai bonne fortune,
-Je compte au saint-empire en recoudre plus d'une.
-Et, si quelques lambeaux m'en étaient arrachés.
-Rapiécer mes états d'îles et de duchés !
-
--*who_donruygomez
-Consolez-vous ! il est un empire des justes
-Où l'on revoit les morts plus saints et plus augustes !
-
--*who_doncarlos
-Ce roi François premier, c'est un ambitieux !
-Le vieil empereur mort, vite il fait les doux yeux
-À l'empire ! A-t-il pas sa France très chrétienne ?
-Ah ! La part est pourtant belle, et vaut qu'on s'y tienne !
-L'empereur mon aïeul disait au roi Louis :
-Si j'étais Dieu le père, et si j'avais deux fils,
-Je ferais l'aîné dieu, le second roi de France. -
-Crois-tu que François puisse avoir quelque espérance?
-
--*who_donruygomez
-C'est un victorieux.
-
--*who_doncarlos
-      Il faudrait tout changer.
-La bulle d'or défend d'élire un étranger.
-
--*who_donruygomez
-À ce compte, seigneur, vous êtes roi d'Espagne?
-
--*who_doncarlos
-Je suis bourgeois de Gand.
-
--*who_donruygomez
-      La dernière campagne
-A fait monter bien haut le roi François premier.
-
--*who_doncarlos
-L'aigle qui va peut-être éclore à mon cimier
-Peut aussi déployer ses ailes.
-
--*who_donruygomez
-      Votre altesse
-Sait-elle le latin ?
-
--*who_doncarlos
-      Mal.
-
--*who_donruygomez
-      Tant pis. La noblesse
-D'Allemagne aime fort qu'on lui parle latin.
-
--*who_doncarlos
-Ils se contenteront d'un espagnol hautain,
-Car il importe peu, croyez-en le roi Charles,
-Quand la voix parle haut, quelle langue elle parle.
-- Je vais en Flandres. Il faut que ton roi, cher Silva,
-Te revienne empereur. Le roi de France va
-Tout remuer. Je veux le gagner de vitesse.
-Je partirai sous peu.
-
--*who_donruygomez
-      Vous nous quittez, altesse,
-Sans purger l'Aragon des rebelles maudits
-Qui partout dans nos monts lèvent leurs fronts hardis.
-
--*who_doncarlos
-J'ordonne au duc d'Arcos d'exterminer la bande.
-
--*who_donruygomez
-Donnez-vous aussi l'ordre au chef qui la commande
-De se laisser faire ?
-
--*who_doncarlos
-      Hé ! Quel est ce chef ? Son nom ?
-
--*who_donruygomez
-Je l'ignore. On le dit un rude compagnon.
-
--*who_doncarlos
-Bah ! Je sais que pour l'heure il se cache en Galice,
-Et j'en aurai raison avec quelque milice.
-
--*who_donruygomez
-De faux avis alors le disaient près d'ici.
-
--*who_doncarlos
-Faux avis ! Cette nuit tu me loges.
-
--*who_donruygomez
-      Merci,
-Altesse !
-      Faites tous honneur au roi mon hôte.
-
--*who_donasol
-Demain, sous ma fenêtre, à minuit, et sans faute.
-Vous frapperez des mains trois fois.
-
--*who_hernani
       Demain.
 
--*who_doncarlos
-      Demain !
-Souffrez que pour rentrer je vous offre la main.
-
--*who_hernani
 Mon bon poignard !
 
--*who_doncarlos
-      Notre homme a la mine attrapée.
-Je vous ai fait l'honneur de toucher votre épée,
-Monsieur ; vous me seriez suspect pour cent raisons,
-Mais le roi don Carlos répugne aux trahisons.
-Allez. Je daigne encor protéger votre fuite.
-
--*who_donruygomez
-Qu'est ce seigneur ?
-
--*who_doncarlos
-      Il part. C'est quelqu'un de ma suite.
-
-**** *book_ *id_I04 *act_I *date_1830
-
--*who_hernani
 Oui, de ta suite, ô roi ! De ta suite ! - J'en suis.
 Nuit et jour, en effet, pas à pas, je te suis !
 Un poignard à la main, l'oeil fixé sur ta trace,
@@ -887,313 +230,13 @@ Sans me voir immobile et sombre dans ta fête ;
 La nuit tu ne pourras tourner les yeux, ô roi,
 Sans voir mes yeux ardents luire derrière toi !
 
-**** *book_ *id_II01 *act_II *date_1830
-
--*who_doncarlos
-Voilà bien le balcon, la porte... mon sang bout.
-Pas de lumière encor !
-      Des lumières partout
-Où je n'en voudrais pas, hors à cette fenêtre
-Où j'en voudrais.
-
--*who_donsanchez
-      Seigneur, reparlons de traître.
-Et vous l'avez laissé partir !...
-
--*who_doncarlos
-      Comme tu dis.
-
--*who_donmatias
-Et peut-être c'était le major des bandits !
-
--*who_doncarlos
-Qu'il en soit le major ou bien le capitaine,
-Jamais roi couronné n'eut mine plus hautaine.
-
--*who_donsanchez
-Son nom, Seigneur ?...
-
--*who_doncarlos
-      Munoz..., Dernan..., un nom en i.
-
--*who_donsanchez
-Hernani, peut-être ?
-
--*who_doncarlos
-      Oui.
-
--*who_donsanchez
-      C'est lui.
-
--*who_donmatias
-      C'est Hernani ?
-Le Chef !
-
--*who_donsanchez
-      De ses propos vous reste-t-il mémoire ?
-
--*who_doncarlos
-Hé ! Je n'entendais rien dans leur maudite armoire !
-
--*who_donsanchez
-Mais pourquoi le lâcher lorsque vous le tenez ?
-
--*who_doncarlos
-Comte de Monterey, vous me questionnez.
-Et d'ailleurs ce n'est point le souci qui m'arrête.
-J'en veux à sa maîtresse et non point à sa tête.
-Rien de plus.
-
--*who_donricardo
-      Pourquoi pas à toutes deux, Seigneur ?
-
--*who_doncarlos
-Comte ! Un digne conseil ! Et qui vous fait honneur !
-Vous allez droit au but ! Vous avez la main prompte !
-
--*who_donricardo
-Sous quel titre plaît il au roi que je sois comte ?
-
--*who_donsanchez
-C'est méprise.
-
--*who_donricardo
-      Le roi m'a nommé comte.
-
--*who_doncarlos
-      Assez !
-Bien !
-      J'ai laissé tomber ce titre... Ramassez.
-
--*who_donricardo
-Merci, seigneur.
-
--*who_donsanchez
-      Beau Comte ! Un Comte de surprise !
-
--*who_donmatias
-Mais que fera le roi, la belle une fois prise ?
-
--*who_donsancho
-Il la fera comtesse, et puis dame d'honneur ;
-Puis, qu'il en ait un fils, il sera roi.
-
--*who_donmatias
-      Seigneur,
-Allons donc ! Un bâtard ! Comte, fût-on altesse,
-On ne saurait tirer un roi d'une comtesse !
-
--*who_donsancho
-Il la fera marquise alors, mon cher marquis.
-
--*who_donmatias
-On garde les bâtards pour les pays conquis,
-On les fait vicerois. C'est à cela qu'ils servent.
-
--*who_doncarlos
-Dirait-on pas des yeux jaloux qui nous observent ?...
-Enfin, en voilà deux qui s'éteignent !... Allons !
-Messieurs, que les instants de l'attente sont longs !
-Qui fera marcher l'heure avec plus de vitesse ?
-
--*who_donsancho
-C'est ce que nous disons souvent chez votre altesse.
-
--*who_doncarlos
-Cependant que chez vous mon peuple le redit.
-- La dernière est éteinte.
-      Ô vitrage maudit !
-Quand t'allumeras-tu ? Cette nuit est bien sombre.
-Doña Sol ! Viens briller comme un astre dans l'ombre !
-Est-il minuit ?
-
--*who_donricardo
-      Minuit bientôt.
-
--*who_doncarlos
-      Il faut finir
-Pourtant ! À tout moment l'autre peut survenir.
-Mes amis ! Un flambeau ! Son ombre à la fenêtre !
-Jamais jour ne me fut plus charmant à voir naître.
-Hâtons-nous ! Faisons-lui le signal qu'elle attend :
-Il faut frapper des mains trois fois. Dans un instant,
-Mes amis, vous allez la voir ! Mais notre nombre
-Va l'effrayer peut-être... Allez tous trois dans l'ombre
-Là-bas, épier l'autre. Amis, partageons-nous
-Les deux amants ; tenez, à moi la dame, à vous
-Le brigand.
-
--*who_donricardo
-      Grand merci.
-
--*who_doncarlos
-      S'il vient, de l'embuscade
-Sortez vite, et poussez au drôle une estocade.
-Pendant qu'il reprendra ses esprits sur le grès,
-J'emporterai la belle et nous rirons après.
-N'allez pas cependant le tuer ! C'est un brave
-Après tout ; et la mort d'un homme est chose grave.
-
-**** *book_ *id_II02 *act_II *date_1830
-
--*who_donasol
-Est-ce vous, Hernani ?
-
--*who_doncarlos
-      Diable ! Ne parlons pas !
-
--*who_donasol
-Je descends.
-      Hernani !
-      Dieu ! Ce n'est point son pas !
-
--*who_doncarlos
-Doña Sol !
-
--*who_donasol
-      Ce n'est point sa voix ! Ah ! Malheureuse !
-
--*who_doncarlos
-Eh ! Quelle voix veux-tu qui soit plus amoureuse ?
-C'est toujours un amant, et c'est un amant roi !
-
--*who_donasol
-Le roi !
-
--*who_doncarlos
-      Souhaite, ordonne. Un royaume est à toi !
-Car celui dont tu veux briser la douce entrave
-C'est le roi ton seigneur ! C'est Carlos ton esclave !
-
--*who_donasol
-Au secours, Hernani !
-
--*who_doncarlos
-      Le juste et digne effroi !
-Ce n'est pas ton bandit qui te tient ; c'est le Roi !
-
--*who_donasol
-Non ! Le bandit, c'est vous ! N'avez-vous pas de honte !
-Ah ! Pour vous au visage une rougeur me monte !
-Sont-ce là les exploits dont le roi fera bruit ?
-Venir ravir de force une femme, la nuit !
-Ah ! Qu'Hernani vaut mieux cent fois ! Roi, je proclame
-Que si l'homme naissait où le place son âme,
-Si le coeur seul faisait le brigand et le roi,
-À lui serait le sceptre et le poignard à toi.
-
--*who_doncarlos
-Madame...
-
--*who_donasol
-      Oubliez-vous que mon père était comte ?
-
--*who_doncarlos
-Je vous ferai Duchesse.
-
--*who_donasol
-      Allez, C'est une honte !
-Il ne peut être rien entre nous, don Carlos.
-Mon vieux père a pour vous versé son sang à flots.
-Moi, je suis fille noble, et, de ce sang jalouse.
-Trop pour la favorite et trop peu pour l'épouse !
-
--*who_doncarlos
-Hé bien !... Partagez donc et mon trône et mon nom.
-Venez. - Vous serez reine, impératrice...
-
--*who_donasol
-      Non.
-C'est un piège. Et d'ailleurs, altesse, avec franchise,
-S'agit-il pas de vous ? S'il faut que je le dise,
-J'aime mieux avec lui, mon Hernani, mon roi,
-Vivre errante, en dehors du monde et de la loi,
-Ayant faim, ayant soif, fuyant toute l'année,
-Partageant jour à jour sa pauvre destinée,
-Abandon, guerre, exil, deuil, misère et terreur,
-Que d'être impératrice avec un empereur.
-
--*who_doncarlos
-Que cet homme est heureux !
-
--*who_donasol
-      Quoi ! Pauvre, proscrit même !
-
--*who_doncarlos
-Qu'il fait bien d'être pauvre et proscrit, puisqu'on l'aime !
-Moi je suis seul !... Un ange accompagne ses pas !
-Donc vous me haïssez ?
-
--*who_donasol
-      Je ne vous aime pas.
-
--*who_doncarlos
-Eh bien ! Qu'importe ?
-
--*who_donasol
-      Ô ciel ! Quoi ! Vous êtes altesse,
-Vous êtes roi ! Duchesse, ou Marquise, ou Comtesse,
-Vous n'avez qu'à choisir. Les femmes de la cour
-Ont toujours un amour tout prêt pour votre amour ;
-Mais mon proscrit ! Qu'a-t-il reçu du ciel avare ?
-Ah ! Vous avez Castille, Aragon et Navarre,
-Et Murcie et Léon, dix royaumes encor,
-Et les Flamands, et l'Inde avec les mines d'or !
-Vous avez un empire auquel nul roi ne touche,
-Si vaste que jamais le soleil ne s'y couche !
-Et quand vous avez tout, voudrez-vous, vous, le roi,
-Me prendre, pauvre fille, à lui qui n'a que moi ?
-
--*who_doncarlos
-Viens, je n'écoute rien, viens ! Si tu m'accompagnes,
-Je te donne, choisis, quatre de mes Espagnes !
-Dis, lesquelles veux-tu ? Choisis !
-
--*who_donasol
-      Pour mon honneur
-Je ne veux rien de vous, que ce poignard, Seigneur !
-Avancez maintenant ! Faites un pas !
-
--*who_doncarlos
-      La belle !
-Je ne m'étonne plus si l'on aime un rebelle.
-
--*who_donasol
-Pour un pas je vous tue et me tue...
-      Hernani !...
-Hernani !...
-
--*who_doncarlos
-      Taisez-vous.
-
--*who_donasol
-      Un pas, tout est fini.
-
--*who_doncarlos
-Madame, à cet excès ma douceur est réduite !
-J'ai là pour vous forcer trois hommes de ma suite.
-
-**** *book_ *id_II03 *act_II *date_1830
-
--*who_hernani
 Vous en oubliez un !
 
--*who_hernani
       Ah ! Le ciel m'est témoin
 Que volontiers je l'eusse été chercher plus loin !
 
--*who_donasol
-Hernani ! Sauvez-moi de lui !
-
--*who_hernani
       Soyez tranquille.
 
--*who_doncarlos
-Monterey ! Que font donc mes amis par la ville ?
-Avoir laissé passer ce chef de bohémiens !
-Monterey !
-
--*who_hernani
       Vos amis sont au pouvoir des miens.
 Et ne réclamez pas leur épée impuissante :
 Pour trois qui vous viendraient, il m'en viendrait soixante.
@@ -1203,11 +246,6 @@ Quoi ! Vous portiez la main sur cette noble fille !
 C'était d'un imprudent, Seigneur Roi de Castille,
 Et d'un lâche !
 
--*who_doncarlos
-      Seigneur bandit, de vous à moi
-Pas de reproche !
-
--*who_hernani
       Il raille !... Oh ! Je ne suis pas roi ;
 Mais quand un roi m'insulte et pour surcroît me raille,
 Ma colère va haut et me monte à sa taille !
@@ -1220,10 +258,6 @@ Je vous hais. Vous avez pris mon titre et mon bien,
 Je vous hais. Nous aimons tous deux la même femme,
 Je vous hais, je vous hais ; oui, je te hais dans l'âme.
 
--*who_doncarlos
-Monsieur !
-
--*who_hernani
       Ce soir pourtant, toute haine avait fui !
 Tout ce que je cherchais, c'est elle... ah Dieu ! C'est lui !
 Don Carlos, te voilà pris à ton propre piège,
@@ -1231,135 +265,51 @@ Ni fuite ni secours : je te tiens et t'assiège !
 Seul, entouré partout d'ennemis acharnés,
 Que vas-tu faire ?
 
--*who_doncarlos
-      Allons ! Vous me questionnez !
-
--*who_hernani
 Va, va, je ne veux pas qu'un bras obscur te frappe.
 Il ne sied pas qu'ainsi ma vengeance m'échappe.
 Tu ne seras touché par un autre que moi.
 Défends-toi donc.
 
--*who_doncarlos
-      Je suis votre Seigneur le Roi.
-Frappez : mais pas de duel.
-
--*who_hernani
       Seigneur, qu'il e souvienne
 Qu'hier encor ta dague a rencontré la mienne.
 
--*who_doncarlos
-Je le pouvais hier. J'ignorais votre nom,
-Vous ignoriez mon titre. Aujourd'hui, compagnon,
-Vous savez qui je suis et je sais qui vous êtes.
-
--*who_hernani
 Peut-être.
 
--*who_doncarlos
-      Pas de duel. Assassinez moi : faites !
-
--*who_hernani
 Crois-tu donc que pour nous il soit des noms sacrés ?
 Ah, te défendras-tu ?
 
--*who_doncarlos
-      Vous m'assassinerez.
-Ah ! Vous croyez, bandits, que vos brigades viles
-Pourrons impunément s'épandre dans mes villes ?
-Que teint de sangs, chargés de meurtres, malheureux !
-Vous pourrez, après tout, faire les généreux !
-Et que nous daignerons, nous, victimes trompées,
-Anoblir vos poignards du choc de nos épées ?...
-Non, Le crime vous tient. Partout vous le traînez.
-Nous, des duels avec vous ! Arrière ! Assassinez.
-
--*who_hernani
       Va-t'en donc.
 Nous aurons rencontres meilleures.
 Va-t'en.
 
--*who_donasol
-      Mon Hernani !
-
--*who_doncarlos
-      C'est bien : dans quelques heures
-Je serai, moi le roi, dans le palais ducal.
-Mon premier soin sera de mander le fiscal !
-A-t-on fait mettre à prix votre tête ?
-
--*who_hernani
       Oui.
 
--*who_doncarlos
-      Maître,
-Je vous tiens de ce jour sujet rebelle et traître.
-Je vous en avertis. Partout je vous poursuis,
-Je vous fais mettre au ban du royaume.
-
--*who_hernani
       J'y suis.
 Déjà.
 
--*who_doncarlos
-      Bien !
-
--*who_hernani
       Mais la France auprès l'Espagne,
 C'est un port.
 
--*who_doncarlos
-      Je vais être empereur d'Allemagne.
-Je vous fais mettre au ban de l'Empire.
-
--*who_hernani
       À ton gré.
 J'ai le reste du monde, où je te braverai.
 Il est plus d'un asile où ta puissance tombe.
 
--*who_doncarlos
-Et quand j'aurai le monde?
-
--*who_hernani
       Alors j'aurai la tombe.
 
--*who_doncarlos
-Je saurai déjouer vos complots insolents.
-
--*who_hernani
 La vengeance est boiteuse, elle vient à pas lents,
 Mais elle vient.
 
--*who_doncarlos
-      Toucher à la dame que j'adore
-Ce bandit !
-
--*who_hernani
       Songes-tu que je tiens encore ?
 Ne me rappelle pas, futur César romain,
 Que je t'ai là, chétif et petit dans ma main,
 Et que si je serrais cette main trop loyale,
 J'écraserais dans l'oeuf ton aigle impériale !
 
--*who_doncarlos
-Faites.
-
--*who_hernani
       Va t'en, va t'en ;
 Car, dans nos rangs, pour toi, je crains quelquecouteau.
 Pars tranquille à présent ! Ma vengeance altérée
 Pour tout autre que moi fait ta tête sacrée.
 
--*who_doncarlos
-Monsieur, vous qui venez de me parler ainsi,
-Ne demandez un jour ni grâce, ni merci.
-
-**** *book_ *id_II04 *act_II *date_1830
-
--*who_donasol
-Maintenant, fuyons vite.
-
--*who_hernani
       Il vous sied, mon amie,
 D'être dans mon malheur toujours plus raffermie,
 De n'y point renoncer, et de vouloir toujours
@@ -1369,21 +319,12 @@ Mais, tu le vois, mon Dieu, pour tant accepter d'elle,
 Pour l'entraîner, sans honte encore et sans regrets,
 Il n'est plus temps ! Je vois l'échafaud de trop près !
 
--*who_donasol
-Que dites-vous ?
-
--*who_hernani
       Ce roi que je bravais en face,
 Va me punir d'avoir osé lui faire grâce.
 Il fuit ; déjà peut-être il est dans son palais ;
 Il appelle ses gens, ses gardes, ses valets,
 Ses seigneurs, ses bourreaux...
 
--*who_donasol
-      Hernani ! Dieu ! Je tremble !
-Eh bien ! Hâtons-nous donc alors, fuyons ensemble !
-
--*who_hernani
 Ensemble ! Non, non ; l'heure en est passée !
 Hélas ! Doña Sol, à mes yeux quand tu te révélas,
 Bonne, et daignant m'aimer d'un amour secourable,
@@ -1394,11 +335,6 @@ Du lit vert et touffu que la forêt me donne ;
 Mais t'offrir la moitié de l'échafaud !
 Pardonne, Doña Sol ! L'échafaud, - c'est à moi seul !
 
--*who_donasol
-      Pourtant
-Vous me l'aviez promis !
-
--*who_hernani
       Ange ! Ah ! Dans cet instant
 Où la mort vient peut-être, où s'approche dans l'ombre
 Un sombre dénouement pour un destin bien sombre,
@@ -1409,10 +345,6 @@ Je suis un homme heureux et je veux qu'on m'envie !
 Car vous m'avez aimé ! Car vous me l'avez dit !
 Car vous avez tout bas béni mon front maudit.
 
--*who_donasol
-Souffre que je te suive.
-
--*who_hernani
       Ah ! Ce serait un crime
 Que d'arracher la fleur en tombant dans l'abîme !
 Va ; j'en ai respiré le parfum ! C'est assez !
@@ -1420,26 +352,10 @@ Renoue à d'autres jours tes jours par moi froissés !
 Épouse ce vieillard ! C'est moi qui te délie ;
 Je rentre dans ma nuit. Toi, sois heureuse, oublie !
 
--*who_donasol
-Non, je te suis, je veux ma part de ton linceul !
-Je m'attache à tes pas.
-
--*who_hernani
       Oh ! Laisse moi fuir seul.
 
--*who_donasol
-Hernani ! Tu me fuis. - Ainsi donc, insensée,
-Avoir donné sa vie et se voir repoussée !
-Et n'avoir, après tant d'amour et tant d'ennui,
-Pas même le bonheur de mourir près de lui !
-
--*who_hernani
 Je suis banni, je suis proscrit ! Je suis funeste!
 
--*who_donasol
-Ah ! Vous êtes ingrat !
-
--*who_hernani
       Eh bien ! Non, non, je reste.
 Tu le veux ; me voici. Viens ! Oh viens dans mes bras !
 Je reste et resterai tant que tu le voudras !
@@ -1456,365 +372,59 @@ De se parler d'amour, la nuit quand tout repose ?
 Oh! Laisse-moi dormir et rêver sur ton sein,
 Doña Sol ! Mon amour !... Ma beauté !...
 
--*who_donasol
-      Le tocsin.
-Entends-tu ? Le tocsin !
-
--*who_hernani
       Eh ! Non, c'est notre noce
 Qu'on sonne.
 
--*who_donasol
-      Lève-toi ! Fuis ! Grand Dieu ! Saragosse
-S'allume !
-
--*who_hernani
       Nous aurons une noce aux flambeaux !
 
--*who_donasol
-C'est la noce des morts ! La noce des tombeaux !
-
--*who_hernani
 Viens dans mes bras.
 
--*who_lemontagnard
-      Seigneur ! Les sbires, les alcades
-Débouchent dans la place en longues cavalcades !
-Alerte, monseigneur !
-
--*who_donasol
-      Ah ! Tu l'avais bien dit.
-
--*who_lemontagnard
-Au secours !...
-
--*who_hernani
       Me voici ! C'est bien !
 
--*who_voix
-      Mort au bandit !
-
--*who_hernani
 Ton épée...
       Adieu donc !
 
--*who_donasol
-      C'est moi qui fais ta perte !
-Où vas-tu ?
-      Viens, fuyons par cette porte ouverte !
-
--*who_hernani
 Dieu ! Laisser mes amis ! Que dis-tu ?
 
--*who_donasol
-      Ces clameurs.
-Me brisent. Souviens-toi que si tu meurs, je meurs !
-
--*who_hernani
 Un baiser !
 
--*who_donasol
-      Mon époux ! /on Hernani ! Mon maître !
-
--*who_hernani
 Hélas ! C'est le premier !
 
--*who_donasol
-      C'est le dernier peut-être.
-
-**** *book_ *id_III01 *act_III *date_1830
-
--*who_donruygomez
-Enfin ! C'est aujourd'hui ! Dans une heure on sera
-Ma duchesse ! Plus d'oncle ! Et l'on m'embrassera !
-Mais, m'as-tu pardonné ? J'avais tort, je l'avoue.
-J'ai fait rougir ton front, j'ai fait pâlir ta joue :
-J'ai soupçonné trop vite, et je n'aurais point dû
-Te condamner ainsi sans avoir entendu.
-Que l'apparence a tort ! Injustes que nous sommes !
-Certe, ils étaient bien là, les deux beaux jeunes hommes !
-C'est égal. Je devais n'en pas croire mes yeux.
-Mais que veux-tu, ma pauvre enfant ? Quand on est vieux !
-
--*who_donasol
-Vous reparlez toujours de cela, qui vous blâme ?
-
--*who_donruygomez
-Moi ! J'eus tort. Je devais savoir qu'avec ton âme
-On n'a point de galants, quand on est doña Sol,
-Et qu'on a dans le coeur de bon sang espagnol.
-
--*who_donasol
-Certes, il est bon et pur, monseigneur ; et peut-être
-On le verra bientôt.
-
--*who_donruygomez
-      Écoute, on n'est pas maître
-De soi-même, amoureux comme je suis de toi,
-Et vieux. On est jaloux, on est méchant ! Pourquoi ?
-Parce que l'on est vieux. Parce que beauté, grâce,
-Jeunesse, dans autrui, tout fait peur, tout menace.
-Parce qu'on est jaloux des autres, et honteux
-De soi. Dérision ! Que cet amour boiteux
-Qui nous remet au coeur tant d'ivresse et de flamme,
-Ait oublié le corps en rajeunissant l'âme !
-Quand passe un jeune pâtre, - oui, c'en est là ! - souvent,
-Tandis que nous allons, lui chantant, moi rêvant,
-Lui, dans son pré vert, moi dans mes noires allées,
-Souvent je dis tout bas : Ô mes tours écroulées,
-Mon vieux donjon ducal, que je vous donnerais !
-Oh ! Que je donnerais mes blés et mes forêts,
-Et les vastes troupeaux qui tondent mes collines,
-Mon vieux nom, mon vieux titre et toutes mes ruines ;
-Et tous mes vieux aïeux qui bientôt me verront,
-Pour sa chaumière neuve, et pour son jeune front ! -
-Car ses cheveux sont noirs ; car son oeil reluit comme
-Le tien. Tu peux le voir et dire : ce jeune homme !
-Et puis, penser à moi qui suis vieux. - Je le sais !
-Pourtant, j'ai nom Silva, mais ce n'est plus assez.
-Oui, je me dis cela. Vois à quel point je t'aime !
-Le tout, pour être jeune et beau comme toi-même !
-Mais à quoi vais-je ici rêver ? Moi, jeune et beau !
-Qui te dois de si loin devancer au tombeau !
-
--*who_donasol
-Qui sait ?
-
--*who_donruygomez
-      Mais, va, crois-moi, ces cavaliers frivoles
-N'ont pas d'amour si grand qu'il ne s'use en paroles.
-Qu'une fille aime et croie un de ces jouvenceaux,
-Elle en meurt ; il en rit. Tous ces jeunes oiseaux,
-À l'aile vive et peinte, au langoureux ramage,
-Ont un amour qui mue ainsi que leur plumage.
-Les vieux, dont l'âge éteint la voix et les couleurs,
-Ont l'aile plus fidèle, et, moins beaux, sont meilleurs.
-Nous aimons bien. Nos pas sont lourds ? Nos yeux arides ?
-Nos fronts ridés ? Au coeur on n'a jamais de rides.
-Hélas ! Quand un vieillard aime, il faut l'épargner ;
-Le coeur est toujours jeune et peut toujours saigner.
-Ah ! Je t'aime en époux, en père ! Et puis encore
-De cent autres façons, comme on aime l'aurore,
-Comme on aime les fleurs, comme on aime les cieux !
-De te voir tous les jours, toi, ton pas gracieux,
-Ton front pur, le beau feu de ta douce prunelle,
-Je ris, et j'ai dans l'âme une fête éternelle !
-
--*who_donasol
-Hélas !
-
--*who_donruygomez
-      Et puis, vois-tu ? Le monde trouve beau,
-Lorsqu'un homme s'éteint, et, lambeau par lambeau
-S'en va, lorsqu'il trébuche au marbre de la tombe ;
-Qu'une femme, ange pur, innocente colombe,
-Veille sur lui, l'abrite, et daigne encor souffrir
-L'inutile vieillard qui n'est bon qu'à mourir.
-C'est une oeuvre sacrée, et qu'à bon droit on loue,
-Que ce suprême effort d'un coeur qui se dévoue,
-Qui console un mourant jusqu'à la fin du jour,
-Et, sans aimer peut-être, a des semblants d'amour !
-Ah ! Tu seras pour moi cet ange au coeur de femme,
-Qui, du pauvre vieillard réjouit encor l'âme,
-Et de ses derniers ans lui porte la moitié,
-Fille par le respect et soeur par la pitié.
-
--*who_donasol
-Loin de me précéder, vous pourrez bien me suivre,
-Monseigneur ! Ce n'est pas une raison pour vivre
-Que d'être jeune. Hélas ! Je vous le dis, souvent
-Les vieillards sont tardifs, les jeunes vont devant,
-Et leurs yeux brusquement referment leur paupière,
-Comme un sépulcre ouvert dont retombe la pierre.
-
--*who_donruygomez
-Oh ! Les sombres discours ! Mais je vous gronderai,
-Enfant ! Un pareil jour est joyeux et sacré.
-Comment à ce propos, quand l'heure nous appelle,
-N'êtes-vous pas encor prête pour la chapelle ?
-Mais, vite ! Habillez-vous. - Je compte les instants.
-La parure de noce !
-
--*who_donasol
-      Il sera toujours temps.
-
--*who_donruygomez
-Non pas.
-      Que veut Iaquez ?
-
--*who_lepage
-      Monseigneur, à la porte,
-Un homme, un pèlerin, un mendiant, n'importe,
-Est là qui vous demande asile.
-
--*who_donruygomez
-      Quel qu'il soit,
-Le bonheur entre avec l'étranger qu'on reçoit,
-Qu'il vienne. - Du dehors a-t-on quelques nouvelles ?
-Que dit-on de ce chef de bandits infidèles
-Qui remplit nos forêts de sa rébellion ?
-
--*who_lepage
-C'en est fait d'Hernani ; c'en est fait du lion
-De la montagne.
-
--*who_donasol
-      Dieu !
-
--*who_donruygomez
-      Quoi ?
-
--*who_lepage
-      La troupe est détruite.
-Le roi, dit-on, s'est mis lui-même à leur poursuite.
-La tête d'Hernani vaut mille écus du roi,
-Pour l'instant ; mais on dit qu'il est mort.
-
--*who_donasol
-      Ah ! Sans moi,
-Hernani ?
-
--*who_donruygomez
-      Grâce au ciel ! Il est mort, le rebelle !
-On peut se réjouir maintenant, chère belle !
-Allez donc vous parer, mon amour, mon orgueil !
-Aujourd'hui, double fête.
-
--*who_donasol
-      Oh ! Des habits de deuil.
-
-**** *book_ *id_III02 *act_III *date_1830
-
--*who_donruygomez
-Fais-lui vite porter l'écrin que je lui donne.
-Je veux la voir parée ainsi qu'une madone,
-Et, grâce à ses yeux noirs, et grâce à mon écrin,
-Belle à faire à genoux tomber un pèlerin.
-A propos, et celui qui nous demande un gîte ?
-Dis-lui d'entrer, fais-lui mes excuses ; cours vite.
-Laisser son hôte attendre !... ah ! C'est mal !
-
-**** *book_ *id_III03 *act_III *date_1830
-
--*who_hernani
       Monseigneur,
 Paix et bonheur à vous !
 
--*who_donruygomez
-      À toi paix et bonheur,
-Mon hôte !...
-      N'es-tu pas pèlerin ?
-
--*who_hernani
       Oui.
 
--*who_donruygomez
-      Sans doute
-Tu viens d'Armillas ?
-
--*who_hernani
       Non, j'ai pris une autre route.
 On se battait par là.
 
--*who_donruygomez
-      La troupe du banni,
-N'est-ce pas ?
-
--*who_hernani
       Je ne sais.
 
--*who_donruygomez
-      Le chef, le Hernani,
-Que devient-il ? Sais-tu ?
-
--*who_hernani
       Seigneur, quel est cet homme ?
 
--*who_donruygomez
-Tu ne le connais pas ? Tant pis ! La grosse somme
-Ne sera point pour toi. Vois-tu, ce Hernani,
-C'est un rebelle au roi, trop longtemps impuni
-Si tu vas à Madrid, tu le pourras voir pendre.
-
--*who_hernani
 Je n'y vais pas.
 
--*who_donruygomez
-      Sa tête est à qui veut la prendre.
-
--*who_hernani
 Qu'on y vienne !
 
--*who_donruygomez
-      Où vas-tu, bon pèlerin ?
-
--*who_hernani
       Seigneur,
 Je vais à Saragosse.
 
--*who_donruygomez
-      Un voeu fait en l'honneur
-D'un saint ? De Notre-Dame ?...
-
--*who_hernani
       Oui, Duc, de Notre-Dame.
 
--*who_donruygomez
-Del Pilar ?
-
--*who_hernani
       Del Pilar.
 
--*who_donruygomez
-      Il faut n'avoir point d'âme
-Pour ne point acquitter les voeux qu'on fait aux saints.
-Mais, le tien accompli, n'as-tu d'autres desseins ?
-Voir le pilier, c'est là tout ce que tu désires ?
-
--*who_hernani
 Oui, je veux voir brûler les flambeaux et les cires,
 Voir Notre-Dame au fond du sombre corridor,
 Luire en sa châsse ardente, avec sa chape d'or ;
 Et puis m'en retourner.
 
--*who_donruygomez
-      Fort bien ! Ton nom, mon frère ?
-Je suis Ruy De Silva.
-
--*who_hernani
       Mon nom ?...
 
--*who_donruygomez
-      Tu peux le taire
-Si tu veux. Nul n'a droit de le savoir ici.
-Viens-tu pas demander asile ?
-
--*who_hernani
       Oui, duc.
 
--*who_donruygomez
-      Merci.
-Sois le bienvenu. Reste, ami ! Ne te fais faute
-De rien. Quant à ton nom, tu te nommes mon hôte.
-Qui que tu sois, c'est bien ! Et, sans être inquiet,
-J'accueillerais Satan, si Dieu me l'envoyait.
-
-**** *book_ *id_III04 *act_III *date_1830
-
--*who_donruygomez
-Voici ma Notre-Dame, à moi ! L'avoir priée
-Te portera bonheur.
-      Ma belle mariée,
-Venez. - Quoi ! Pas d'anneau ! Pas de couronne encor !
-
--*who_hernani
 Qui veut gagner ici mille carolus d'or ?
 Je suis Hernani !
 
--*who_donasol
-      Ciel ! Vivant !
-
--*who_hernani
       Je suis cet homme
 Qu'on cherche. Vous vouliez savoir si je me nomme
 Perez ou Diégo ? Non ! Je me nomme Hernani !
@@ -1826,77 +436,29 @@ Prenez : liez mes mains, liez mes pieds, liez !
 Mais, non : c'est inutile ; une chaîne me lie
 Que je ne romprai point.
 
--*who_donasol
-      Malheureuse !
-
--*who_donruygomez
-      Folie !
-Ah, mon hôte est un fou !
-
--*who_hernani
       Votre hôte est un bandit.
 
--*who_donasol
-Oh ! Ne l'écoutez pas.
-
--*who_hernani
       J'ai dit ce que j'ai dit.
 
--*who_donruygomez
-Mille carolus d'or, monsieur ! La somme est forte
-Et je ne suis pas sûr de tous mes gens.
-
--*who_hernani
       Qu'importe ?
 Livrez-moi !
 
--*who_donruygomez
-      Taisez-vous.
-
--*who_hernani
       Hernani !
 
--*who_donasol
-      Oh ! Tais-toi.
-
--*who_hernani
 On se marie ici ! Je veux en être, moi.
 Ma fiancée aussi m'attend.
       Elle est moins belle
 Que la vôtre, seigneur ; mais n'est pas moins fidèle :
 La mort ! - Aucun de vous ne fait un pas encor ?
 
--*who_donasol
-Par pitié...!
-
--*who_hernani
       Mes amis, mille carolus d'or !
 
--*who_donruygomez
-C'est le démon !
-
--*who_hernani
       Viens, toi ; tu gagneras la somme.
 Riche alors, de valet tu redeviendras homme !
 Vous aussi vous tremblez ! Ai-je assez de malheur !
 
--*who_donruygomez
-Frère, à toucher ta tête ils risqueraient la leur.
-Fusses-tu Hernani, fusses-tu cent fois pire,
-Pour ta vie, au lieu d'or, offrît-on un empire,
-Mon hôte ! Je te dois protéger en ce lieu,
-Même contre le roi, car je te tiens de Dieu !
-S'il tombe un seul cheveu de ton front, que je meure !
-Ma nièce, vous serez ma femme dans une heure.
-Rentrez chez vous. Je vais faire armer le château,
-J'en vais fermer la porte.
-
--*who_hernani
       Oh ! Pas même un couteau !
 
-**** *book_ *id_III05 *act_III *date_1830
-
--*who_hernani
 Je vous fais compliment ! Plus que je ne puis dire
 La parure me charme, et m'enchante, et j'admire !
 Sans doute tout est vrai, tout est bon, tout est beau !
@@ -1910,52 +472,27 @@ C'est le poignard, qu'avec l'aide de ma patronne,
 Je pris au roi Carlos lorsqu'il m'offrit un trône,
 Et que je refusai pour vous qui m'outragez !
 
--*who_hernani
 Oh ! Laisse, qu'à genoux, dans tes yeux affligés
 J'efface tous ces pleurs amers et pleins de charmes,
 Et tu prendras après tout mon sang pour tes larmes !
 
--*who_donasol
-Hernani ! Je vous aime et vous pardonne, et n'ai
-Que de l'amour pour vous.
-
--*who_hernani
       Elle m'a pardonné,
 Et m'aime ! Qui pourra faire aussi que moi-même,
 Après ce que j'ai dit, je me pardonne et m'aime ?...
 Oh ! Je voudrais savoir, ange au ciel réservé,
 Où vous avez marché, pour baiser le pavé !
 
--*who_donasol
-Croire que mon amour eût si peu de mémoire !
-Que jamais ils pourraient, tous ces hommes sans gloire,
-Jusqu'à d'autres amours, plus nobles à leur gré,
-Rapetisser un coeur où son nom est entré !
-
--*who_hernani
 Hélas ! J'ai blasphémé !... si j'étais à ta place,
 Doña Sol, j'en aurais assez ; je serais lasse
 De ce fou furieux, de ce sombre insensé
 Qui ne sait caresser qu'après qu'il a blessé !
 
--*who_donasol
-Ah ! Vous ne m'aimez plus !
-
--*who_hernani
       Oh ! Mon coeur et mon âme
 C'est toi ! L'ardent foyer d'où me vient toute flamme,
 C'est toi ! Ne m'en veux pas de fuir, être adoré !...
 
--*who_donasol
-Je ne vous en veux pas, seulement j'en mourrai.
-
--*who_hernani
 Mourir ! Grand Dieu ? Pour moi ? Se peut-il que tu meures ?
 
--*who_donasol
-Pour qui sinon pour vous ?
-
--*who_hernani
       Oh ! Tu pleures ! Tu pleures !
 Et c'est encor ma faute ! Et qui me punira ?
 Car tu pardonneras encor ! Qui te dira
@@ -1967,58 +504,14 @@ Hélas ! J'aime pourtant d'une amour bien profonde !
 Ne pleure pas ; mourons plutôt ! Que n'ai-je un monde !
 Je te le donnerais ! Je suis bien malheureux !
 
--*who_donasol
-Vous êtes mon lion, superbe et généreux !
-Je vous aime.
-
--*who_hernani
       Ah ! L'amour serait un bien suprême
 Si l'on pouvait mourir de trop aimer !
 
--*who_donasol
-      Je t'aime !
-Monseigneur ! Je vous aime, et je suis toute à vous.
-
--*who_hernani
 Oh ! Qu'un coup de poignard de toi me serait doux !
 
--*who_donasol
-Ah ! Ne craignez-vous pas que Dieu ne vous punisse
-De parler de la sorte ?
-
--*who_hernani
       Eh bien ! Qu'il nous unisse,
 Tu le veux !... qu'il en soit ainsi ! J'ai résisté !
 
-**** *book_ *id_III06 *act_III *date_1830
-
--*who_donruygomez
-Voilà donc le paiement de l'hospitalité !
-Voilà ce que céans notre hôte nous apporte !
-Bon Seigneur, va-t'en voir si ta muraille est forte,
-Si la porte est bien close et l'archer dans sa tour ;
-De ton château pour nous, fais et refais le tour ;
-Cherche en ton arsenal une armure à ta taille ;
-Ressaie, à soixante ans, ton harnais de bataille !
-Voici la loyauté dont nous paierons ta foi !
-Tu fais cela pour nous, et nous, ceci pour toi.
-Saints du ciel ! J'ai vécu plus de soixante années ;
-J'ai vu bien des bandits aux mains empoisonnées,
-J'en ai vu qui mouraient sans croix et sans pater ;
-J'ai vu Sforce, j'ai vu Borgia, je vois Luther ;
-Mais je n'ai jamais vu perversité si haute
-Qui n'eût craint le tonnerre en trahissant son hôte !
-Ce n'est pas de mon temps ! - Si noire trahison
-Pétrifie un vieillard au seuil de sa maison,
-Et fait que le vieux maître, en attendant qu'il tombe,
-A l'air d'une statue à mettre sur sa tombe !
-Maures et castillans ! Quel est cet homme-ci ?
-Ô vous ! Tous les Silva qui m'écoutez ici,
-Pardon si devant vous, pardon si ma colère
-Dit l'hospitalité mauvaise conseillère !
-- Oh ! Je me vengerai !
-
--*who_hernani
       Ruy Gomez De Silva,
 Si jamais vers le ciel noble front s'éleva,
 Si jamais coeur fut grand, si jamais âme haute,
@@ -2030,62 +523,707 @@ Oui, j'ai voulu souiller ton lit ; oui, c'est infâme !
 J'ai du sang ; tu feras très bien de le verser,
 D'essuyer ton épée, et de n'y plus penser.
 
--*who_donasol
-Seigneur, ce n'est pas lui ! Ne frappez que moi-même !...
-
--*who_hernani
 Attendez, doña Sol ; car cette heure est suprême.
 Cette heure m'appartient. Je n'ai plus qu'elle. Ainsi,
 Laissez-moi m'expliquer avec le duc ici.
 Duc ! Crois aux derniers mots de ma bouche : j'en jure,
 Je suis coupable ; mais sois tranquille, - elle est pure.
 
--*who_donasol
-Ah ! Moi seule ai tout fait ; car je l'aime.
-
--*who_donasol
-      Oui. Pardon !
-Je l'aime, monseigneur !
-
--*who_donruygomez
-      Vous l'aimez !
-      Tremble donc.
-Qu'est ce bruit ?
-
--*who_lepage
-      C'est le roi, monseigneur, en personne,
-Avec un gros d'archers et son héraut qui sonne.
-
--*who_donasol
-Dieu ! Le roi ! Dernier coup !
-
--*who_lepage
-      Il demande pourquoi
-La porte est close, et veut qu'on ouvre.
-
--*who_donruygomez
-      Ouvrez au roi !
-
--*who_donasol
-Il est perdu !
-
--*who_donruygomez
-      Monsieur, entrez ici.
-
--*who_hernani
       Ma tête
 Est à toi, livre-la, Seigneur, je la tiens prête.
 Je suis ton prisonnier.
 
--*who_donasol
-      Seigneur, pitié pour lui.
+Un duel ! Nous ne pouvons, vieillard, combattre ensemble.
 
--*who_lepage
-Son altesse le Roi !
+Vieillard !
 
-**** *book_ *id_III07 *act_III *date_1830
+Mourir, oui. Vous m'avez sauvé malgré mes voeux ;
+Donc, ma vie est à vous. Reprenez-la.
 
--*who_doncarlos
+Oh ! C'est à toi, seigneur, que je fais la dernière.
+
+      Non, non, à toi ! Vieillard,
+Frappe-moi. Tout m'est bon, dague, épée ou poignard !
+Mais fais-moi, par pitié, cette suprême joie !
+Duc ! Avant de mourir, permets que je la voie !
+
+      Au moins permets que j'entende sa voix,
+Une dernière fois ! Rien qu'une seule fois !
+
+      Oh ! je comprends, seigneur, ta jalousie.
+Mais déjà par la mort ma jeunesse est saisie.
+Pardonne-moi. Veux-tu, dis-moi, que, sans le vouloir,
+S'il le faut, je l'entende ? Et je mourrai ce soir.
+L'entendre seulement ! Contente mon envie !
+Mais, Oh ! qu'avec douceur j'exhalerais ma vie,
+Si tu daignais vouloir qu'avant de fuir aux cieux
+Mon âme allât revoir la sienne dans ses yeux !
+- Je ne lui dirai rien. Tu seras là, mon père.
+Tu me prendras après.
+
+      Je n'ai rien entendu.
+
+À qui livrée ?
+
+      Vieillard stupide ! Il l'aime !
+
+      Il nous l'enlève ! Il est notre rival.
+
+      Écoute.
+La vengeance au pied sûr fait moins de bruit en route.
+Je t'appartiens, tu peux me tuer. Mais veux-tu
+M'employer à venger ta nièce et sa vertu ?
+Ma part dans ta vengeance ! Oh ! Fais-moi cette grâce !
+Et s'il faut embrasser tes pieds, je les embrasse !
+Suivons le roi tous deux ! Viens, je serai ton bras,
+Je te vengerai, duc ; après, tu me tueras.
+
+Oui, duc.
+
+      La tête de mon père.
+
+Écoute, prends ce cor. Quoi qu'il puisse advenir,
+Quand tu voudras, seigneur, quel que soit le lieu, l'heure,
+S'il te passe à l'esprit qu'il est temps que je meure,
+Viens, sonne de ce cor, et ne prends d'autres soins ;
+Tout sera fait.
+
+      J'ai gagné !
+Je te tiens, toi que j'ai si longtemps poursuivie,
+Vengeance !
+
+      Non, sur ma vie !
+Oh ! Ne m'enviez pas ma fortune, seigneur !
+C'est la première fois qu'il m'arrive bonheur !
+
+Non !
+
+      Ma vie à vous, la sienne à moi.
+
+      Quoi !
+La vie ! - Eh, que m'importe ! Ah ! Je tiens ma vengeance.
+Avec Dieu, dans ceci je suis d'intelligence !
+J'ai mon père à venger... peut être plus encor !
+- Elle, me la rends-tu ?
+
+Non !
+
+      Duc ! Laisse-moi ma proie.
+
+À la bonne heure ! Seul, il me semblait trop grand.
+C'est bien. J'ai cru d'abord que c'était Charlemagne,
+Ce n'est que Charles-Quint !
+
+      Doña Sol !
+
+Madame...
+
+      Mon amie !
+
+      Sire,
+La chose est toute simple ; et l'on peut vous la dire.
+Nous gravions la sentence au mur de Balthazar ;
+Nous rendions à César ce qu'on doit à César.
+
+Nos têtes et l'empire !... il a ce qu'il désire.
+Le bleu manteau des rois pouvait gêner vos pas.
+Le pourpre vous va mieux, le sang n'y paraît pas !
+
+      Je prétends qu'on me compte !
+Puisqu'il s'agit de hache ici ; puisqu'Hernani,
+Pâtre obscur, sous tes pieds passerait impuni ;
+Puisque son front n'est plus au niveau de ton glaive ;
+Puisqu'il faut être grand pour mourir, - je me lève !
+Dieu, qui donne le sceptre et qui te le donna,
+M'a fait duc de Ségorbe et duc de Cardona,
+Marquis de Monroy, comte Albatera, vicomte
+De Gor, seigneur de lieux dont j'ignore le compte.
+Je suis Jean D'Aragon, grand-maître d'Avis, né
+Dans l'exil, fils proscrit d'un père assassiné
+Par sentence du tien, roi Carlos de Castille.
+Le meurtre est entre nous affaire de famille.
+Vous avez l'échafaud, nous avons le poignard.
+Donc le ciel m'a fait duc, et l'exil montagnard.
+Mais puisque j'ai sans fruit aiguisé mon épée
+Sur les monts, et dans l'eau des torrents retrempée,
+Couvrons-nous, grand d'Espagne.
+      Oui, nos têtes, ô roi,
+Ont le droit de tomber couvertes devant toi !
+Silva, Haro, Lara, gens de titre et de race,
+Place à Jean D'Aragon ! Ducs et comtes, ma place !
+Je suis Jean D'Aragon, roi, bourreaux et valets !
+Et si vos échafauds sont petits, changez-les !
+
+Celui dont le flanc saigne a meilleure mémoire.
+L'affront que l'offenseur oublie en insensé,
+Vit, et toujours remue au coeur de l'offensé !
+
+      Qui parle ainsi ? Le roi ?
+
+Juste dieu !
+
+      Je n'ai plus que de l'amour dans l'âme,
+Doña Sol !
+
+Ah ! Vous êtes César !
+
+Qui donc nous change tous ainsi ?
+
+Chers amis !
+
+Ange ! Il est toujours tard pour être seuls ensemble.
+
+Tu dis vrai. Le bonheur, amie, est chose grave ;
+Il veut des coeurs de bronze et lentement s'y grave.
+Le plaisir l'effarouche en lui jetant des fleurs ;
+Son sourire est moins près du rire que des pleurs !
+
+Oh ! Je suis ton esclave ! Oui, demeure, demeure.
+Fais ce que tu voudras, je ne demande rien.
+Tu sais ce que tu fais ! Ce que tu fais est bien.
+Je rirai, si tu veux, pour te plaire... - Mon âme
+Brûle ? Eh ! Dis au volcan qu'il étouffe sa flamme,
+Le volcan fermera ses gouffres entr'ouverts,
+Et n'aura sur ses flancs que fleurs et gazons verts.
+
+      Quel est ce nom, Madame ?
+Oh ! Ne me nomme plus de ce nom, par pitié !
+Tu me fais souvenir que j'ai tout oublié !
+Je sais qu'il existait autrefois, dans un rêve,
+Un Hernani dont l'oeil avait l'éclair du glaive,
+Un homme de la nuit et des monts, un proscrit,
+Sur qui le mot vengeance était partout écrit,
+Un malheureux traînant après lui l'anathème !
+Mais je ne connais pas ce Hernani. - Moi, j'aime
+Les jeux et les festins, je suis noble espagnol,
+Je suis Jean D'Aragon, mari de doña Sol !
+Je suis heureux !
+
+      Que m'importe
+Les haillons qu'en entrant j'ai laissés à la porte ?
+Voici que je reviens à mon palais en deuil.
+Un ange du seigneur m'attendait sur le seuil !
+J'entre, et remets debout les colonnes brisées,
+Je rallume les feux, je rouvre les croisées,
+Je fais arracher l'herbe au pavé de la cour ;
+Je ne suis plus que joie, enchantement, amour !
+Qu'on me rende mes tours, mes vassaux, mes bastilles,
+Mon panache, mon siège au conseil des Castilles,
+Vienne ma doña Sol, rouge et le front baissé,
+Qu'on nous laisse tous deux, et le reste est passé !
+Je n'ai rien vu, rien dit, rien fait. Je recommence,
+J'efface tout, j'oublie ! - ou sagesse ou démence,
+Je vous ai, je vous aime et vous êtes mon bien !
+
+Vous vîtes avant moi le roi mis de la sorte.
+
+Ah ! Qui n'oublierait tout à cette voix céleste !
+Ta parole est un chant où rien d'humain ne reste.
+
+      Capricieuse !
+Tout à l'heure on fuyait la lumière et les chants !
+
+Ah ! Malheureuse !
+
+      Oui, mon bon ange !
+      Encor !...
+
+N'est-ce pas ?
+
+      De moitié, tu l'as dit.
+
+Ah ! Le tigre est en bas qui hurle et veut sa proie !
+
+Nommez-moi Hernani ! Nommez-moi Hernani !
+Avec ce nom fatal je n'en ai pas fini !
+
+      Le vieillard !
+
+      Le vieillard qui rit dans les ténèbres !...
+- Ne le voyez-vous pas ?
+
+      Le vieillard !
+
+      Je l'ai juré...!
+
+      Qu'allais-je dire ?
+Épargnons-la...
+      Moi, rien ! De quoi t'ai-je parlé ?
+
+      Non, non ; j'avais l'esprit troublé...
+Je souffre un peu, vois-tu ! N'en prends pas d'épouvante.
+
+Il le veut ! Il le veut ! Il a mon serment. - Rien !
+Ce devrait être fait !.. - ah !...
+
+Une blessure ancienne, et que j'ai cru fermée,
+Se rouvre...
+      Éloignons-la.
+      - Doña Sol, bien aimée,
+Écoute : ce coffret qu'en des jours moins heureux
+Je portais avec moi...
+
+      Un flacon qu'il renferme
+Contient un élixir qui pourra mettre un terme
+Au mal que je ressens... va !
+
+Voilà donc ce qu'il vient faire de mon bonheur.
+Voici le doigt fatal qui luit sur la muraille !
+Oh ! Que la destinée amèrement me raille !
+Hé bien ?... mais tout se tait. Je n'entends rien venir.
+Si je m'étais trompé !...
+
+      C'est lui !
+
+      Bien. Quel est ton plaisir ?
+Que feras-tu de moi ? Parle.
+
+      Soit.
+
+      Qu'importe !
+
+      Le poison.
+
+      Oh ! Par pitié ! Demain !
+- Oh ! S'il te reste un coeur, duc, ou du moins une âme ;
+Si tu n'es pas un spectre échappé de la flamme ;
+Un mort damné, fantôme ou démon désormais ;
+Si Dieu n'a point encor mis sur ton front : « jamais ! »
+Si tu sais ce que c'est que ce bonheur suprême
+D'aimer, d'avoir vingt ans, d'épouser quand on aime ;
+Si jamais femme aimée a tremblé dans tes bras,
+Attends jusqu'à demain. - Demain tu reviendras !
+
+Eh bien, non ! Et de toi, démon, je me délivre !
+Je n'obéirai pas.
+
+Mon père ! - mon père !... ah ! J'en perdrai la raison !...
+
+Duc !...
+
+      Ne t'en va pas.
+
+      Vieillard cruel !
+Revenir sur mes pas à la porte du ciel !...
+
+      Dieu ! C'est elle !
+Dans quel moment !
+
+      Grand dieu !
+
+      Ah ! J'ai dû te le taire.
+J'ai promis de mourir au duc qui me sauva.
+Aragon doit payer cette dette à Silva.
+
+      J'ai juré.
+
+      Laissez-moi, doña Sol, il le faut.
+Le duc a ma parole, et mon père est là haut !
+
+      Tu pleures !
+
+      Ah ! Son cri me déchire.
+
+      Duc, arrêtez.
+      Hélas ! Je t'en conjure,
+Veux-tu me voir faussaire, et félon, et parjure ?
+Veux-tu que partout j'aille avec la trahison
+Écrite sur le front ? Par pitié, ce poison,
+Rends-le-moi ! Par l'amour, par notre âme immortelle...
+
+      Vois-tu, misérable vieillard ?
+
+Dieu !
+
+      Hélas ! Qu'as-tu fait, malheureuse ?
+
+      C'est une mort affreuse !...
+
+      Ce philtre au sépulcre conduit.
+
+      Mon père, tu te venges
+Sur moi qui t'oubliais !
+
+      Ah ! Ton âme est cruelle !
+Pouvais-tu pas choisir d'autre poison pour elle ?
+
+      Qu'as-tu fait ?
+
+Non !
+
+Ah !
+
+      Désespoir !
+Ô tourment ! Doña Sol souffrir, et moi le voir !
+
+Oh ! Béni soit le ciel qui m'a fait une vie
+D'abîmes entourée et de spectres suivie,
+Mais qui permet que, las d'un si rude chemin,
+Je puisse m'endormir, ma bouche sur ta main !
+
+      Doña Sol, tout est sombre...
+Souffres-tu ?
+
+      Vois-tu des feux dans l'ombre ?
+
+      Voici...
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncarlos
+
+      Deux mots de plus, duègne, vous êtes morte !
+Suis-je chez doña Sol ? Fiancée au vieux duc
+De Pastraña, son oncle, un bon seigneur, caduc,
+Vénérable et jaloux ? Dites ! La belle adore
+Un cavalier sans barbe et sans moustache encore,
+Et reçoit tous les soirs, malgré les envieux,
+Le jeune amant sans barbe à la barbe du vieux.
+Suis-je bien informé ?
+      - Vous répondrez peut-être.
+
+Aussi n'en veux-je qu'un. - Oui, non. - Ta dame est bien
+Doña Sol De Silva ? Parle.
+
+      Pour rien.
+Le duc, son vieux futur, est absent à cette heure ?
+
+      Sans doute elle attend son jeune ?
+
+      Que je meure !
+
+      Duègne, c'est ici qu'aura lieu l'entretien ?
+
+      Cache-moi céans.
+
+      Moi.
+
+      Pour rien.
+
+      Ici.
+
+      Daignez, madame,
+Choisir de cette bourse ou bien de cette lame.
+
+      Oui, duègne.
+
+Cette boîte ?
+
+      Si !
+Serait-ce l'écurie où tu mets d'aventure
+Le manche du balai qui te sert de monture ?
+Ouf !
+
+      C'est une femme, est-ce pas,
+Qu'attendait ta maîtresse ?
+
+Si vous dites un mot, duègne, vous êtes morte.
+
+Quand aurez-vous fini de conter votre histoire ?
+Croyez-vous donc qu'on soit si bien dans une armoire ?
+Hernani recule étonné. Doña Sol pousse un cri et se réfugie
+dans ses bras, en fixant sur don Carlos des yeux effarés.
+
+      Moi? Mais, à ce qu'il paraît,
+Je ne chevauchais pas à travers la forêt.
+
+      Chacun son tour, messire !
+Parlons franc. Vous aimez madame et ses yeux noirs,
+Vous y venez mirer les vôtres tous les soirs,
+C'est fort bien. J'aime aussi madame, et veux connaître
+Qui j'ai vu tant de fois entrer par la fenêtre,
+Tandis que je restais à la porte.
+
+Nous verrons. J'offre donc mon amour à madame.
+Partageons, voulez-vous ? J'ai vu dans sa belle âme
+Tant d'amour, de bonté, de tendres sentiments,
+Que madame, à coup sûr, en a pour deux amants.
+Or, ce soir, voulant mettre à fin mon entreprise,
+Pris, je pense, pour vous, j'entre ici par surprise ;
+Je me cache, j'écoute, à ne vous celer rien ;
+Mais j'entendais très mal et j'étouffais très bien ;
+Et puis je chiffonnais ma veste à la française.
+Ma foi, je sors !
+
+      Monsieur, c'est comme il vous plaira.
+
+      Calmez-vous, Señora.
+
+      Hé ! Dites-moi le vôtre !
+
+Alors, quel est le nom de l'autre ?
+
+      Dans l'armoire ?
+
+      Grand merci, c'est trop large.
+
+      Bonsoir. Pour moi, je reste ici.
+
+      Ouvrez la porte.
+
+      Ouvrez donc, vous dis-je !
+
+      Duc, ce n'est pas d'abord
+De cela qu'il s'agit. Il s'agit de la mort
+De Maximilien, empereur d'Allemagne.
+
+Oui, Carlos. Seigneur duc, es-tu donc insensé ?
+Mon aïeul l'empereur est mort, je ne le sais
+Que de ce soir. Je viens, tout en hâte, et moi-même,
+Dire la chose à toi, féal sujet que j'aime,
+Te demander conseil, incognito, la nuit,
+Et l'affaire est bien simple, et voilà bien du bruit !
+
+Belle raison ! Tu viens avec toute une escorte !
+Quand un secret d'état m'amène en ton palais,
+Duc, est-ce pour l'aller dire à tous tes valets ?
+
+      Bon père,
+Je t'ai fait gouverneur du château de Figuère ;
+Mais qui dois-je à présent faire ton gouverneur ?
+
+      Il suffit. N'en parlons plus, seigneur.
+Donc l'empereur est mort.
+
+      Duc, tu m'en vois pénétré de tristesse.
+
+      Un duc de Saxe est sur les rangs.
+François Premier, de France, est un des concurrents.
+
+Ils ont choisi, je crois, Aix-La-Chapelle, ou Spire,
+Ou Francfort.
+
+      Toujours.
+
+      Je le sais.
+
+Et puis, on est bourgeois de Gand.
+
+Rome est pour moi.
+
+Le Pape veut ravoir la Sicile, que j'ai ;
+Un Empereur ne peut posséder la Sicile,
+Il me fait empereur ; alors, en fils docile.
+Je lui rends Naples. Ayons l'aigle, et puis nous verrons
+Si je lui laisserai rogner les ailerons.
+
+Le Saint-Père est adroit. - Qu'est-ce que la Sicile ?
+C'est une île qui pend à mon royaume, une île.
+Une pièce, un haillon, qui, tout déchiqueté,
+Tient à peine à l'Espagne et qui traîne à côté.
+- Que ferez-vous, mon fils, de cette île bossue
+Au monde impérial au bout d'un fil cousue ?
+Votre empire est mal fait : vite, venez ici,
+Des ciseaux ! et coupons ! - Très saint-père, merci !
+Car de ces pièces-là, si j'ai bonne fortune,
+Je compte au saint-empire en recoudre plus d'une.
+Et, si quelques lambeaux m'en étaient arrachés.
+Rapiécer mes états d'îles et de duchés !
+
+Ce roi François premier, c'est un ambitieux !
+Le vieil empereur mort, vite il fait les doux yeux
+À l'empire ! A-t-il pas sa France très chrétienne ?
+Ah ! La part est pourtant belle, et vaut qu'on s'y tienne !
+L'empereur mon aïeul disait au roi Louis :
+Si j'étais Dieu le père, et si j'avais deux fils,
+Je ferais l'aîné dieu, le second roi de France. -
+Crois-tu que François puisse avoir quelque espérance?
+
+      Il faudrait tout changer.
+La bulle d'or défend d'élire un étranger.
+
+Je suis bourgeois de Gand.
+
+L'aigle qui va peut-être éclore à mon cimier
+Peut aussi déployer ses ailes.
+
+      Mal.
+
+Ils se contenteront d'un espagnol hautain,
+Car il importe peu, croyez-en le roi Charles,
+Quand la voix parle haut, quelle langue elle parle.
+- Je vais en Flandres. Il faut que ton roi, cher Silva,
+Te revienne empereur. Le roi de France va
+Tout remuer. Je veux le gagner de vitesse.
+Je partirai sous peu.
+
+J'ordonne au duc d'Arcos d'exterminer la bande.
+
+      Hé ! Quel est ce chef ? Son nom ?
+
+Bah ! Je sais que pour l'heure il se cache en Galice,
+Et j'en aurai raison avec quelque milice.
+
+Faux avis ! Cette nuit tu me loges.
+
+      Demain !
+Souffrez que pour rentrer je vous offre la main.
+
+      Notre homme a la mine attrapée.
+Je vous ai fait l'honneur de toucher votre épée,
+Monsieur ; vous me seriez suspect pour cent raisons,
+Mais le roi don Carlos répugne aux trahisons.
+Allez. Je daigne encor protéger votre fuite.
+
+      Il part. C'est quelqu'un de ma suite.
+
+Voilà bien le balcon, la porte... mon sang bout.
+Pas de lumière encor !
+      Des lumières partout
+Où je n'en voudrais pas, hors à cette fenêtre
+Où j'en voudrais.
+
+      Comme tu dis.
+
+Qu'il en soit le major ou bien le capitaine,
+Jamais roi couronné n'eut mine plus hautaine.
+
+      Munoz..., Dernan..., un nom en i.
+
+      Oui.
+
+Hé ! Je n'entendais rien dans leur maudite armoire !
+
+Comte de Monterey, vous me questionnez.
+Et d'ailleurs ce n'est point le souci qui m'arrête.
+J'en veux à sa maîtresse et non point à sa tête.
+Rien de plus.
+
+Comte ! Un digne conseil ! Et qui vous fait honneur !
+Vous allez droit au but ! Vous avez la main prompte !
+
+      Assez !
+Bien !
+      J'ai laissé tomber ce titre... Ramassez.
+
+Dirait-on pas des yeux jaloux qui nous observent ?...
+Enfin, en voilà deux qui s'éteignent !... Allons !
+Messieurs, que les instants de l'attente sont longs !
+Qui fera marcher l'heure avec plus de vitesse ?
+
+Cependant que chez vous mon peuple le redit.
+- La dernière est éteinte.
+      Ô vitrage maudit !
+Quand t'allumeras-tu ? Cette nuit est bien sombre.
+Doña Sol ! Viens briller comme un astre dans l'ombre !
+Est-il minuit ?
+
+      Il faut finir
+Pourtant ! À tout moment l'autre peut survenir.
+Mes amis ! Un flambeau ! Son ombre à la fenêtre !
+Jamais jour ne me fut plus charmant à voir naître.
+Hâtons-nous ! Faisons-lui le signal qu'elle attend :
+Il faut frapper des mains trois fois. Dans un instant,
+Mes amis, vous allez la voir ! Mais notre nombre
+Va l'effrayer peut-être... Allez tous trois dans l'ombre
+Là-bas, épier l'autre. Amis, partageons-nous
+Les deux amants ; tenez, à moi la dame, à vous
+Le brigand.
+
+      S'il vient, de l'embuscade
+Sortez vite, et poussez au drôle une estocade.
+Pendant qu'il reprendra ses esprits sur le grès,
+J'emporterai la belle et nous rirons après.
+N'allez pas cependant le tuer ! C'est un brave
+Après tout ; et la mort d'un homme est chose grave.
+
+      Diable ! Ne parlons pas !
+
+Doña Sol !
+
+Eh ! Quelle voix veux-tu qui soit plus amoureuse ?
+C'est toujours un amant, et c'est un amant roi !
+
+      Souhaite, ordonne. Un royaume est à toi !
+Car celui dont tu veux briser la douce entrave
+C'est le roi ton seigneur ! C'est Carlos ton esclave !
+
+      Le juste et digne effroi !
+Ce n'est pas ton bandit qui te tient ; c'est le Roi !
+
+Madame...
+
+Je vous ferai Duchesse.
+
+Hé bien !... Partagez donc et mon trône et mon nom.
+Venez. - Vous serez reine, impératrice...
+
+Que cet homme est heureux !
+
+Qu'il fait bien d'être pauvre et proscrit, puisqu'on l'aime !
+Moi je suis seul !... Un ange accompagne ses pas !
+Donc vous me haïssez ?
+
+Eh bien ! Qu'importe ?
+
+Viens, je n'écoute rien, viens ! Si tu m'accompagnes,
+Je te donne, choisis, quatre de mes Espagnes !
+Dis, lesquelles veux-tu ? Choisis !
+
+      La belle !
+Je ne m'étonne plus si l'on aime un rebelle.
+
+      Taisez-vous.
+
+Madame, à cet excès ma douceur est réduite !
+J'ai là pour vous forcer trois hommes de ma suite.
+
+Monterey ! Que font donc mes amis par la ville ?
+Avoir laissé passer ce chef de bohémiens !
+Monterey !
+
+      Seigneur bandit, de vous à moi
+Pas de reproche !
+
+Monsieur !
+
+      Allons ! Vous me questionnez !
+
+      Je suis votre Seigneur le Roi.
+Frappez : mais pas de duel.
+
+Je le pouvais hier. J'ignorais votre nom,
+Vous ignoriez mon titre. Aujourd'hui, compagnon,
+Vous savez qui je suis et je sais qui vous êtes.
+
+      Pas de duel. Assassinez moi : faites !
+
+      Vous m'assassinerez.
+Ah ! Vous croyez, bandits, que vos brigades viles
+Pourrons impunément s'épandre dans mes villes ?
+Que teint de sangs, chargés de meurtres, malheureux !
+Vous pourrez, après tout, faire les généreux !
+Et que nous daignerons, nous, victimes trompées,
+Anoblir vos poignards du choc de nos épées ?...
+Non, Le crime vous tient. Partout vous le traînez.
+Nous, des duels avec vous ! Arrière ! Assassinez.
+
+      C'est bien : dans quelques heures
+Je serai, moi le roi, dans le palais ducal.
+Mon premier soin sera de mander le fiscal !
+A-t-on fait mettre à prix votre tête ?
+
+      Maître,
+Je vous tiens de ce jour sujet rebelle et traître.
+Je vous en avertis. Partout je vous poursuis,
+Je vous fais mettre au ban du royaume.
+
+      Bien !
+
+      Je vais être empereur d'Allemagne.
+Je vous fais mettre au ban de l'Empire.
+
+Et quand j'aurai le monde?
+
+Je saurai déjouer vos complots insolents.
+
+      Toucher à la dame que j'adore
+Ce bandit !
+
+Faites.
+
+Monsieur, vous qui venez de me parler ainsi,
+Ne demandez un jour ni grâce, ni merci.
+
       D'où vient donc aujourd'hui,
 Mon cousin, que ta porte est si bien verrouillée ?
 Par les saints ! Je croyais ta dague plus rouillée !
@@ -2096,10 +1234,6 @@ Avons-nous des turbans ? Serait-ce qu'on me nomme
 Mahom ou Boabdil, et non Carlos, répond !
 Pour nous baisser la herse et nous lever le pont ?
 
--*who_donruygomez
-Seigneur !...
-
--*who_doncarlos
       Prenez les clés ! Saisissez-vous des portes !
 Ah ! Vous réveillez donc les rébellions mortes !
 Pardieu ! Si vous prenez de ces airs avec moi,
@@ -2107,10 +1241,6 @@ Messieurs les ducs, le roi prendra des airs de roi !
 Et j'irai par les monts, de mes mains aguerries,
 Dans leurs nids crénelés, tuer les seigneuries !
 
--*who_donruygomez
-Altesse, les Silva sont loyaux...
-
--*who_doncarlos
       Sans détours,
 Réponds, duc, ou je fais raser tes onze tours !
 De l'incendie éteint il reste une étincelle,
@@ -2118,136 +1248,42 @@ Des bandits morts il reste un chef : qui le recèle ?
 C'est toi ! Ce Hernani, rebelle empoisonneur,
 Ici, dans ton château, tu le caches !
 
--*who_donruygomez
-      Seigneur,
-C'est vrai.
-
--*who_doncarlos
       Fort bien ! Je veux sa tête ou bien la tienne.
 Entends-tu, mon cousin ?
 
--*who_donruygomez
-      Mais qu'à cela ne tienne !
-Vous serez satisfait.
-
--*who_doncarlos
       Ah ! Tu t'amendes !... va
 Chercher mon prisonnier.
 
--*who_donruygomez
-      Écoutez ! des Silva
-C'est l'aîné, c'est l'aïeul, l'ancêtre, le grand homme !
-Don Silvins, qui fut trois fois consul de Rome.
-
--*who_donruygomez
-Écoutez-moi : voici Ruy Gomez De Silva,
-Grand-maître de Saint-Jacques et de Calatrava.
-Son armure géante irait mal à nos tailles.
-Il prit trois cents drapeaux, gagna trente batailles,
-Conquit au roi Motril, Antequera, Suez,
-Nijar ; et mourut pauvre. Altesse, saluez.
-Près de lui Juan, son fils, cher aux âmes loyales.
-Sa main pour un serment valait les mains royales.
-Don Gaspar, de Mendoce et de Silva l'honneur !
-Toute noble maison tient à Silva, seigneur.
-Sandoval tour à tour nous craint ou nous épouse.
-Manrique nous envie et Lara nous jalouse.
-Alencastre nous hait. Nous touchons à la fois
-Du pied à tous les ducs, du front à tous les rois !
-Vasquez, qui soixante ans garda la foi jurée...
-J'en passe, et des meilleurs ! - cette tête sacrée,
-C'est mon père ; il fut grand, quoiqu'il vînt le dernier.
-Les maures de Grenade avaient fait prisonnier
-Le comte Alvar Giron son ami ; mais mon père
-Prit pour l'aller chercher six cents hommes de guerre,
-Il fit tailler en pierre un comte Alvar Giron,
-Qu'à sa suite il traîna, jurant par son patron
-De ne point reculer que le comte de pierre
-Ne tournât front lui-même et n'allât en arrière ;
-Il combattit, puis vint au comte, et le sauva.
-
--*who_doncarlos
 Mon prisonnier !
 
--*who_donruygomez
-      C'était un Gomez De Silva.
-Voilà donc ce qu'on dit, quand dans cette demeure
-On voit tous ces héros...
-
--*who_doncarlos
       Mon prisonnier, sur l'heure !
 Ce portrait, c'est le mien. Roi don Carlos, merci !
 Car vous voulez qu'on dise en le voyant ici :
 « Ce dernier, digne fils d'une race si haute,
 Fut un traître, et vendit la tête de son hôte ! »
 
--*who_doncarlos
 Duc, ton château me gêne, et je le mettrai bas !
 
--*who_donruygomez
-Car, vous me la paieriez, altesse, n'est-ce pas ?
-
--*who_doncarlos
 Duc, j'en ferai raser les tours pour tant d'audace,
 Et je ferai semer du chanvre sur la place.
 
--*who_donruygomez
-Mieux voir croître du chanvre où ma tour s'éleva,
-Qu'une tache ronger le vieux nom de Silva.
-N'est-il pas vrai, vous tous ? Duc ! Cette tête est nôtre,
-Et tu m'avais promis...
-
--*who_donruygomez
-      J'ai promis l'une ou l'autre.
-Je donne celle-ci. Prenez-la.
-
--*who_doncarlos
       Ma bonté
 Est à bout ! Livre-moi cet homme !
 
--*who_donruygomez
-      En vérité,
-J'ai dit.
-
--*who_doncarlos
       Fouillez partout ! Et qu'il ne soit point d'aile,
 De cave, ni de tour...
 
--*who_donruygomez
-      Mon donjon est fidèle
-Comme moi. Seul il sait le secret avec moi.
-Nous le garderons bien tous deux.
-
--*who_doncarlos
       Je suis le roi.
 
--*who_donruygomez
-À moins de démolir le château pierre à pierre,
-D'assassiner le maître, on n'aura rien !
-
--*who_doncarlos
       Prière,
 Menace, tout est vain ! Livre-moi le bandit,
 Duc ! Ou, tête et château, j'abattrai tout.
 
--*who_donruygomez
-      J'ai dit.
-
--*who_doncarlos
 Hé bien donc ! Au lieu d'une, alors j'aurai deux têtes.
 Jorge, arrêtez le duc.
 
--*who_donasol
-      Roi don Carlos, vous êtes
-Un mauvais roi !
-
--*who_doncarlos
       Grand dieu ! Que vois-je ? Doña Sol !
 
--*who_donasol
-Altesse, tu n'as pas le coeur d'un espagnol !
-
--*who_doncarlos
 Madame, pour le roi, vous êtes bien sévère.
 C'est vous qui m'avez mis au coeur cette colère.
 Un homme devient ange ou monstre en vous touchant.
@@ -2263,224 +1299,26 @@ Sois fidèle à ton hôte, infidèle à ton roi ;
 C'est bien ; je te fais grâce et suis meilleur que toi.
 J'emmène seulement ta nièce comme otage.
 
--*who_donruygomez
-Seulement !
-
--*who_donasol
-      Moi ! Seigneur !
-
--*who_doncarlos
       Oui, vous.
 
--*who_donruygomez
-      Pas davantage !
-Oh ! La grande clémence ! ô généreux vainqueur,
-Qui ménage la tête et torture le coeur !!
-Belle grâce !
-
--*who_doncarlos
       Choisis : doña Sol, ou le traître.
 Il me faut l'un des deux.
 
--*who_donruygomez
-      Ah ! Vous êtes le maître !
-
--*who_donasol
-Sauvez-moi, monseigneur !
-      Malheureuse, il le faut !
-La tête de mon oncle ou l'autre !... moi plutôt !
-Je vous suis.
-
--*who_doncarlos
       Par les saints ! L'idée est triomphante !
-Il faudra bien enfin s'adoucir, mon infante !
+Il faudra bien enfin s'adoucir, mon infante ! DON 
 
--*who_doncarlos
 Qu'emportez-vous là ?
 
--*who_donasol
-      Prince, un joyau précieux.
-
--*who_doncarlos
 Ah ! Voyons.
 
--*who_donasol
-      Vous verrez.
-
--*who_donruygomez
-      Doña Sol !... Terre et cieux !
-Doña Sol !... Puisque l'homme ici n'a point d'entrailles,
-À mon aide ! Croulez ! Armures et murailles !
-Laisse-moi mon enfant ! Je n'ai qu'elle, ô mon roi !
-
--*who_doncarlos
 Alors... mon prisonnier !
 
--*who_donruygomez
-      ... Ayez pitié de moi,
-Vous tous !
-      Ah ! Voilez-vous ! Votre regard m'arrête.
-Tu le veux ?...
-
--*who_doncarlos
       Oui.
 
--*who_donasol
-      Dieu !
-
--*who_donruygomez
-      Non ! Par pitié, prends ma tête !
-
--*who_doncarlos
 Ta nièce !
 
--*who_donruygomez
-      Prends-la donc, et laisse-moi l'honneur.
-
--*who_doncarlos
 Adieu, duc !
 
--*who_donruygomez
-      Au revoir !
-      Dieu vous garde, Seigneur !
-
-**** *book_ *id_III08 *act_III *date_1830
-
--*who_donruygomez
-Sors.
-      Choisis. Don Carlos est hors de la maison,
-Il s'agit maintenant de me rendre raison.
-Choisis, et faisons vite. Allons donc, ta main tremble !
-
--*who_hernani
-Un duel ! Nous ne pouvons, vieillard, combattre ensemble.
-
--*who_donruygomez
-Pourquoi donc ? As-tu peur ? N'es-tu point noble ? Enfer !
-Noble ou non, pour croiser le fer avec le fer,
-Tout homme qui m'outrage est assez gentilhomme.
-
--*who_hernani
-Vieillard !
-
--*who_donruygomez
-      Viens me tuer, ou viens mourir, jeune homme !
-
--*who_hernani
-Mourir, oui. Vous m'avez sauvé malgré mes voeux ;
-Donc, ma vie est à vous. Reprenez-la.
-
--*who_donruygomez
-      Tu veux ?
-Ne t'en prends qu'à toi seul ! - c'est bon ! Fais ta prière.
-
--*who_hernani
-Oh ! C'est à toi, seigneur, que je fais la dernière.
-
--*who_donruygomez
-Parle à l'autre seigneur.
-
--*who_hernani
-      Non, non, à toi ! Vieillard,
-Frappe-moi. Tout m'est bon, dague, épée ou poignard !
-Mais fais-moi, par pitié, cette suprême joie !
-Duc ! Avant de mourir, permets que je la voie !
-
--*who_donruygomez
-La voir !
-
--*who_hernani
-      Au moins permets que j'entende sa voix,
-Une dernière fois ! Rien qu'une seule fois !
-
--*who_donruygomez
-L'entendre !
-
--*who_hernani
-      Oh ! je comprends, seigneur, ta jalousie.
-Mais déjà par la mort ma jeunesse est saisie.
-Pardonne-moi. Veux-tu, dis-moi, que, sans le vouloir,
-S'il le faut, je l'entende ? Et je mourrai ce soir.
-L'entendre seulement ! Contente mon envie !
-Mais, Oh ! qu'avec douceur j'exhalerais ma vie,
-Si tu daignais vouloir qu'avant de fuir aux cieux
-Mon âme allât revoir la sienne dans ses yeux !
-- Je ne lui dirai rien. Tu seras là, mon père.
-Tu me prendras après.
-
--*who_donruygomez
-      Saints du ciel ! Ce repaire
-Est-il donc si profond, si sourd et si perdu,
-Qu'il n'ait entendu rien !
-
--*who_hernani
-      Je n'ai rien entendu.
-
--*who_donruygomez
-Il a fallu livrer doña Sol, ou toi-même.
-
--*who_hernani
-À qui livrée ?
-
--*who_donruygomez
-      Au roi.
-
--*who_hernani
-      Vieillard stupide ! Il l'aime !
-
--*who_donruygomez
-Il l'aime !!
-
--*who_hernani
-      Il nous l'enlève ! Il est notre rival.
-
--*who_donruygomez
-Ô malédiction ! Mes vassaux, à cheval,
-À cheval ! Poursuivons le ravisseur !
-
--*who_hernani
-      Écoute.
-La vengeance au pied sûr fait moins de bruit en route.
-Je t'appartiens, tu peux me tuer. Mais veux-tu
-M'employer à venger ta nièce et sa vertu ?
-Ma part dans ta vengeance ! Oh ! Fais-moi cette grâce !
-Et s'il faut embrasser tes pieds, je les embrasse !
-Suivons le roi tous deux ! Viens, je serai ton bras,
-Je te vengerai, duc ; après, tu me tueras.
-
--*who_donruygomez
-Alors, comme aujourd'hui, te laisseras-tu faire ?
-
--*who_hernani
-Oui, duc.
-
--*who_donruygomez
-      Qu'en jures-tu ?
-
--*who_hernani
-      La tête de mon père.
-
--*who_donruygomez
-Voudras-tu de toi-même un jour t'en souvenir ?
-
--*who_hernani
-Écoute, prends ce cor. Quoi qu'il puisse advenir,
-Quand tu voudras, seigneur, quel que soit le lieu, l'heure,
-S'il te passe à l'esprit qu'il est temps que je meure,
-Viens, sonne de ce cor, et ne prends d'autres soins ;
-Tout sera fait.
-
--*who_donruygomez
-      Ta main ?
-      Aux portraits.
-Vous tous, soyez témoins.
-
-**** *book_ *id_IV01 *act_IV *date_1830
-
--*who_donricardo
-      C'est ici.
-
--*who_doncarlos
       C'est ici que la ligue s'assemble ?
 Que je vais dans ma main les tenir tous ensemble ?
 Ah ! Monsieur l'électeur de Trèves ! C'est ici ? Vous leur
@@ -2493,123 +1331,51 @@ Ils font bien de choisir pour une telle affaire
 Un sépulcre ! Ils auront moins de chemin à faire.
 Ces caveaux sous le sol s'étendent-ils bien loin ?
 
--*who_donricardo
-Jusques au château fort.
-
--*who_doncarlos
       C'est plus qu'il n'est besoin.
 
--*who_donricardo
-D'autres, de ce côté, vont jusqu'au monastère
-D'Altenheim...
-
--*who_doncarlos
       Où Rodolphe extermina Lothaire.
 Bien. Une fois encor, Comte, redites-moi
 Les noms des conjurés, où, comment et pourquoi.
 
--*who_donricardo
-Gotha.
-
--*who_doncarlos
       Je sais pourquoi le brave duc conspire.
 Il veut un allemand d'Allemagne à l'empire.
 
--*who_donricardo
-Hohenbourg.
-
--*who_doncarlos
       Hohenbourg aimerait mieux, je croi,
 L'enfer avec François que le ciel avec moi.
 
--*who_donricardo
-Don Gil Tellez Giron.
-
--*who_doncarlos
       Castille et Notre-Dame !
 Il se révolte donc contre son roi, l'infâme ?
 
--*who_donricardo
-On dit qu'il vous trouva chez Madame Giron,
-Un soir que vous veniez de le faire baron.
-Il veut venger l'honneur de sa tendre compagne.
-
--*who_doncarlos
 C'est donc qu'il se révolte alors contre l'Espagne ?
 Qui nomme-t-on encore ?
 
--*who_donricardo
-      On cite avec ceux-là
-Le révérend Vasquez, évêque d'Avila.
-
--*who_doncarlos
 Est-ce aussi pour venger la vertu de sa femme ?
 
--*who_donricardo
-Puis Guzman De Lara, mécontent, qui réclame
-Le collier de votre ordre.
-
--*who_doncarlos
       Ah ! Guzman De Lara !
 Si ce n'est qu'un collier qu'il lui faut, il l'aura.
 
--*who_donricardo
-Le duc de Lutzelbourg. Quant aux plans qu'on lui prête...
-
--*who_doncarlos
 Le duc de Lutzelbourg est trop grand de la tête.
 
--*who_donricardo
-Juan De Haro, qui veut Astorga.
-
--*who_doncarlos
       Ces Haro
 Ont toujours fait doubler la solde du bourreau.
 
--*who_donricardo
-C'est tout.
-
--*who_doncarlos
       Ce ne sont pas toutes mes têtes. Comte,
 Cela ne fait que sept, et je n'ai pas mon compte.
 
--*who_donricardo
-Oh ! Je ne nomme pas quelques bandits, gagés
-Par Trève ou par la France...
-
--*who_doncarlos
       Hommes sans préjugés
 Dont le poignard, toujours prêt à jouer son rôle,
 Tourne aux plus gros écus, comme l'aiguille au pôle !
 
--*who_donricardo
-Pourtant j'ai distingué deux hardis compagnons,
-Tous deux nouveau-venus ; un jeune, un vieux.
-
--*who_doncarlos
       Leurs noms ?
 Leur âge ?
 
--*who_donricardo
-      Le plus jeune a vingt ans.
-
--*who_doncarlos
       C'est dommage.
 
--*who_donricardo
-Le vieux, soixante au moins.
-
--*who_doncarlos
       L'un n'a pas encor l'âge,
 Et l'autre ne l'a plus. Tant pis. J'en prendrai soin,
 Le bourreau peut compter sur mon aide au besoin !
 Mais... serai-je empereur, seulement ?
 
--*who_donricardo
-      Le collège,
-À cette heure assemblé, délibère.
-
--*who_doncarlos
       Que sais-je ?
 Ils nommeront François premier, - ou leur saxon,
 Leur Frédéric-Le-Sage ! - Ah ! Luther a raison,
@@ -2633,11 +1399,6 @@ Oui, trois de mes cités de Castille ou de Flandre,
 Je les donnerais ! - Sauf, plus tard, à les reprendre !
 Vous vous couvrez ?
 
--*who_donricardo
-      Seigneur, vous m'avez tutoyé,
-Me voilà grand d'Espagne.
-
--*who_doncarlos
       Ah ! Tu me fais pitié,
 Ambitieux de rien ! Engeance intéressée !
 Comme à travers la nôtre, ils suivent leur pensée !
@@ -2646,67 +1407,30 @@ Vanité ! Vanité ! Tout n'est que vanité !
 Dieu seul, et l'empereur sont grands, - et le Saint-Père !
 Le reste, rois et ducs ! Qu'est cela ?
 
--*who_donricardo
-      Moi, j'espère
-Qu'ils prendront votre altesse.
-
--*who_doncarlos
       Altesse ! Altesse ! Moi !
 J'ai du malheur en tout. - S'il fallait rester roi !
 
--*who_donricardo
-Baste ! Empereur ou non, me voilà grand d'Espagne.
-
--*who_doncarlos
 Sitôt qu'ils auront fait l'empereur d'Allemagne,
 Quel signal à la ville annoncera son nom ?
 
--*who_donricardo
-Si c'est le duc de Saxe, un seul coup de canon ;
-Deux, si c'est le français ; trois, si c'est votre altesse.
-
--*who_doncarlos
 Et cette doña Sol ! Tout m'irrite et me blesse !
 Comte, si je suis fait empereur, par hasard,
 Cours la chercher. Peut-être on voudra d'un César !
 
--*who_donricardo
-Votre altesse est bien bonne...
-
--*who_doncarlos
       Ah ! Là-dessus, silence !
 Je n'ai point dit encor ce que je veux qu'on pense.
 - Quand saura-t-on le nom de l'élu ?
 
--*who_donricardo
-      Mais, je crois,
-Dans une heure au plus tard.
-
--*who_doncarlos
       Oh ! Trois voix ! Rien que trois !
 Mais écrasons d'abord ce ramas qui conspire,
 Et nous verrons après à qui sera l'empire. Va-t'en. C'est
 l'heure où vont venir les conjurés.
 Ah !... la clef du tombeau !...
 
--*who_donricardo
-      Seigneur, vous songerez
-Au comte de Limbourg, gardien capitulaire,
-Qui me l'a confiée et fait tout pour vous plaire.
-
--*who_doncarlos
 Fais tout ce que j'ai dit ! Tout.
 
--*who_donricardo
-      J'y vais de ce pas,
-Altesse.
-
--*who_doncarlos
       Il faut trois coups de canon, n'est-ce pas ?
 
-**** *book_ *id_IV02 *act_IV *date_1830
-
--*who_doncarlos
 Charlemagne, pardon ! Ces voûtes solitaires
 Ne devraient répéter que paroles austères.
 Tu t'indignes sans doute à ce bourdonnement
@@ -2818,231 +1542,6 @@ Hors moi, d'un pareil mort éveiller la demeure ?
 Qui donc ?... le bruit s'approche.
 Ah ! J'oubliais ! Ce sont mes assassins !
 
-**** *book_ *id_IV03 *act_IV *date_1830
-
--*who_deuxiemeconjure
-Qui vive ?
-
--*who_deuxiemeconjure
-      Ad augusta.
-
--*who_deuxiemeconjure
-      Per angusta.
-
--*who_premierconjure
-      Les saints
-Nous protègent !
-
--*who_troisiemeconjure
-      Les morts nous servent !
-
--*who_premierconjure
-      Dieu nous garde !
-
--*who_deuxiemeconjure
-Qui vive ?
-
--*who_voixdanslombre
-      Ad augusta.
-
--*who_deuxiemeconjure
-      Per angusta.
-
--*who_premierconjure
-      Regarde.
-Il vient encor quelqu'un.
-
--*who_troisiemeconjure
-      Qui vive ?
-
--*who_voixdanslombre
-      Ad angusta.
-
--*who_troisiemeconjure
-Per angusta.
-
--*who_premierconjure
-      C'est bien, nous voilà tous. Gotha,
-Fais le rapport. Amis, l'ombre attend la lumière.
-
--*who_leducdegotha
-Amis, Charles D'Espagne, étranger par sa mère,
-. . . . . . . . . . . . .
-Prétend au Saint-Empire.
-
--*who_premierconjure
-      Il aura le tombeau.
-
--*who_leducdegotha
-Qu'il en soit de son front comme de ce flambeau !
-
--*who_tous
-Que ce soit !
-
--*who_premierconjure
-      Mort à lui.
-
--*who_leducdegotha
-      Qu'il meure !
-
--*who_tous
-      Qu'on l'immole !
-
--*who_donjuandeharo
-Son père est allemand.
-
--*who_leducdelutzelbourg
-      Sa mère est espagnole.
-
--*who_leducdegotha
-Il n'est plus espagnol et n'est pas allemand.
-Mort !
-
--*who_unconjure
-      Si les électeurs allaient en ce moment
-Le nommer empereur ?
-
--*who_premierconjure
-      Lui ! Jamais !
-
--*who_dongiltellezgiron
-      Dans la tombe,
-Amis, jetons la tête, et la couronne y tombe.
-
--*who_premierconjure
-S'il a le saint empire, il devient, quel qu'il soit,
-Très auguste, et Dieu seul peut le toucher du doigt.
-
--*who_leducdegotha
-Le plus sûr, c'est qu'avant d'être auguste, il expire !
-
--*who_premierconjure
-On ne l'élira point.
-
--*who_tous
-      Il n'aura pas l'empire...
-
--*who_premierconjure
-Combien faut-il de bras pour le mettre au linceul ?
-
--*who_tous
-Un seul !
-
--*who_premierconjure
-      Combien faut-il de coups au coeur ?
-
--*who_tous
-      Un seul.
-
--*who_premierconjure
-Qui frappera ?
-
--*who_tous
-      Nous tous.
-
--*who_premierconjure
-      La victime est un traître.
-Ils font un empereur, nous, faisons un grand-prêtre.
-Tirons au sort.
-      Prions.
-      Que l'élu croie en Dieu !
-Frappe comme un romain, meure comme un hébreu !
-Il faut qu'il brave roue et tenailles mordantes,
-Qu'il chante aux chevalets, rie aux lampes ardentes,
-Enfin, que, pour tuer et mourir, résigné,
-Il fasse tout.
-
--*who_tous
-      Quel nom ?
-
--*who_premierconjure
-      Hernani !
-
--*who_hernani
-      J'ai gagné !
-Je te tiens, toi que j'ai si longtemps poursuivie,
-Vengeance !
-
--*who_donruygomez
-      Oh ! Cède-moi ce coup !
-
--*who_hernani
-      Non, sur ma vie !
-Oh ! Ne m'enviez pas ma fortune, seigneur !
-C'est la première fois qu'il m'arrive bonheur !
-
--*who_donruygomez
-Tu n'as rien. Eh bien, tout, fiefs, châteaux, vasselages,
-Cent mille paysans dans mes trois cents villages,
-Pour ce coup à frapper, je te les donne, ami !
-
--*who_hernani
-Non !
-
--*who_leducdegotha
-      Ton bras porterait un coup moins affermi,
-Vieillard !
-
--*who_donruygomez
-      Arrière, vous ! Sinon le bras, j'ai l'âme.
-Aux rouilles du fourreau ne jugez point la lame.
-Tu m'appartiens !
-
--*who_hernani
-      Ma vie à vous, la sienne à moi.
-
--*who_donruygomez
-Eh bien, écoute, ami : je te rends ce cor !
-
--*who_hernani
-      Quoi !
-La vie ! - Eh, que m'importe ! Ah ! Je tiens ma vengeance.
-Avec Dieu, dans ceci je suis d'intelligence !
-J'ai mon père à venger... peut être plus encor !
-- Elle, me la rends-tu ?
-
--*who_donruygomez
-      Jamais ! Je rends ce cor.
-
--*who_hernani
-Non !
-
--*who_donruygomez
-      Réfléchis, enfant.
-
--*who_hernani
-      Duc ! Laisse-moi ma proie.
-
--*who_donruygomez
-Eh bien ! Maudit sois-tu de m'ôter cette joie !
-
--*who_premierconjure
-Frère, avant qu'on ait pu l'élire, il serait bien
-D'attendre dès ce soir Carlos... Ne craignez rien !
-Je sais comment on pousse un homme dans la tombe.
-
--*who_premierconjure
-Que toute trahison sur le traître retombe,
-Et Dieu soit avec vous ! Nous, comtes et barons,
-S'il périt sans tuer, continuons ! Jurons
-De frapper tour à tour et sans nous y soustraire,
-Carlos qui doit mourir.
-
--*who_tous
-      Jurons !
-
--*who_leducdegotha
-      Sur quoi, mon frère ?
-
--*who_donruygomez
-Jurons sur cette croix !
-
--*who_tous
-      Qu'il meure impénitent !
-
-**** *book_ *id_IV04 *act_IV *date_1830
-
--*who_doncarlos
 Messieurs, allez plus loin ! L'empereur vous entend.
 Silence et nuit ! - L'essaim en sort et s'y replonge.
 Croyez-vous que ceci va passer comme un songe ?
@@ -3057,198 +1556,52 @@ J'illumine à mon tour. Le sépulcre flamboie,
 Regardez !
       Venez tous, car le crime est flagrant.
 
--*who_hernani
-À la bonne heure ! Seul, il me semblait trop grand.
-C'est bien. J'ai cru d'abord que c'était Charlemagne,
-Ce n'est que Charles-Quint !
-
--*who_doncarlos
       Connétable d'Espagne !
 Amiral de Castille, ici ! Désarmez-les.
 Majesté !
 
--*who_doncarlos
 Je te fais alcade du palais.
 
--*who_donricardo
-Deux électeurs, au nom de la chambre dorée,
-Viennent complimenter la majesté sacrée !
-
--*who_doncarlos
 Qu'ils entrent.
       Doña Sol !
 
-**** *book_ *id_IV05 *act_IV *date_1830
-
--*who_leducdebaviere
-      Sire ! Roi des romains !
-Majesté très sacrée ! Empereur ! Dans vos mains
-Le monde est maintenant, car vous avez l'empire.
-Il est à vous, ce trône où tout monarque aspire !
-Frédéric, duc de Saxe, y fut d'abord élu ;
-Mais, vous jugeant plus digne, il n'en a pas voulu. Venez
-donc recevoir la couronne et le globe.
-Le saint empire, ô roi, vous revêt de la robe ;
-Il vous arme du glaive, et vous êtes très grand !
-
--*who_doncarlos
 J'irai remercier le collège en rentrant.
 Allez, messieurs ; merci, mon frère de Bohême,
 Mon cousin de Bavière ; allez ! J'irai moi-même.
 
--*who_lafoule
-Vivat ! Vivat !
-
--*who_doncarlos
 J'y suis ! - Et tout m'a fait passage.
 Empereur ! - Au refus de Frédéric-Le-Sage.
 
-**** *book_ *id_IV06 *act_IV *date_1830
-
--*who_donasol
-Des soldats ! L'Empereur !... Ô ciel ! Coup imprévu !
-Hernani !...
-
--*who_hernani
-      Doña Sol !
-
--*who_donruygomez
-      Elle ne m'a point vu !
-
--*who_hernani
-Madame...
-
--*who_donasol
-      J'ai toujours son poignard !
-
--*who_hernani
-      Mon amie !
-
--*who_doncarlos
 Silence tous. - Votre âme est-elle raffermie ?
 Il convient que je donne au monde une leçon.
 Lara le castillan et Gotha le saxon,
 Vous tous ! Que venait-on faire ici ? Parlez !
 
--*who_hernani
-      Sire,
-La chose est toute simple ; et l'on peut vous la dire.
-Nous gravions la sentence au mur de Balthazar ;
-Nous rendions à César ce qu'on doit à César.
-
--*who_doncarlos
 Bien ! - vous traître, Silva ?
 
--*who_donruygomez
-      Lequel de nous deux, sire ?
-
--*who_hernani
-Nos têtes et l'empire !... il a ce qu'il désire.
-Le bleu manteau des rois pouvait gêner vos pas.
-Le pourpre vous va mieux, le sang n'y paraît pas !
-
--*who_doncarlos
 Mon cousin de Silva, c'est une félonie
 À faire du blason rayer ta baronnie !
 C'est haute trahison, don Ruy, songes-y bien.
 
--*who_donruygomez
-Les rois Rodrigue font les comtes Julien.
-
--*who_doncarlos
 Ne prenez que ce qui peut être duc ou comte.
 Le reste !...
 
--*who_donasol
-      Il est sauvé !...
-
--*who_hernani
-      Je prétends qu'on me compte !
-Puisqu'il s'agit de hache ici ; puisqu'Hernani,
-Pâtre obscur, sous tes pieds passerait impuni ;
-Puisque son front n'est plus au niveau de ton glaive ;
-Puisqu'il faut être grand pour mourir, - je me lève !
-Dieu, qui donne le sceptre et qui te le donna,
-M'a fait duc de Ségorbe et duc de Cardona,
-Marquis de Monroy, comte Albatera, vicomte
-De Gor, seigneur de lieux dont j'ignore le compte.
-Je suis Jean D'Aragon, grand-maître d'Avis, né
-Dans l'exil, fils proscrit d'un père assassiné
-Par sentence du tien, roi Carlos de Castille.
-Le meurtre est entre nous affaire de famille.
-Vous avez l'échafaud, nous avons le poignard.
-Donc le ciel m'a fait duc, et l'exil montagnard.
-Mais puisque j'ai sans fruit aiguisé mon épée
-Sur les monts, et dans l'eau des torrents retrempée,
-Couvrons-nous, grand d'Espagne.
-      Oui, nos têtes, ô roi,
-Ont le droit de tomber couvertes devant toi !
-Silva, Haro, Lara, gens de titre et de race,
-Place à Jean D'Aragon ! Ducs et comtes, ma place !
-Je suis Jean D'Aragon, roi, bourreaux et valets !
-Et si vos échafauds sont petits, changez-les !
-
--*who_donasol
-Ciel !
-
--*who_doncarlos
       En effet, j'avais oublié cette histoire.
 
--*who_hernani
-Celui dont le flanc saigne a meilleure mémoire.
-L'affront que l'offenseur oublie en insensé,
-Vit, et toujours remue au coeur de l'offensé !
-
--*who_doncarlos
 Donc, je suis, c'est un titre à n'en point vouloir d'autres,
 Fils de pères qui font choir la tête des vôtres ?
 
--*who_donasol
-Sire ! Pardon ! Pitié, sire ! Soyez clément !
-Ou frappez-nous tous deux, car il est mon amant,
-Mon époux. En lui seul je respire ! Oh ! Je tremble !...
-Sire ! Ayez la pitié de nous tuer ensemble !
-Majesté ! Je me traîne à vos sacrés genoux !
-Je l'aime ! Il est à moi comme l'empire à vous !...
-- Oh ! Grâce !
-      Quel penser sinistre vous absorbe ?
-
--*who_doncarlos
 Allons, relevez-vous, duchesse de Ségorbe,
 Comtesse Albatera, marquise de Monroy...
 Tes autres noms, don Juan ?
 
--*who_hernani
-      Qui parle ainsi ? Le roi ?
-
--*who_doncarlos
 Non, l'empereur.
 
--*who_donasol
-      Ô ciel !
-
--*who_doncarlos
       Duc ! Voilà ton épouse.
 
--*who_hernani
-Juste dieu !
-
--*who_doncarlos
       Mon cousin, ta noblesse est jalouse,
 Je sais ; mais Aragon peut épouser Silva.
 
--*who_donruygomez
-Ce n'est pas ma noblesse.
-      Oh ! Ma haine s'en va !
-
--*who_donasol
-Ô mon Duc !
-
--*who_hernani
-      Je n'ai plus que de l'amour dans l'âme,
-Doña Sol !
-
--*who_doncarlos
       Éteins-toi, coeur jeune et plein de flamme !
 Laisse régner l'esprit que long-temps tu troublas.
 Tes amours désormais, tes maîtresses, hélas !
@@ -3256,10 +1609,6 @@ C'est l'Allemagne, c'est la Flandre, c'est l'Espagne.
 L'Empereur est pareil à l'aigle, sa compagne :
 À la place du coeur il n'a qu'un écusson !
 
--*who_hernani
-Ah ! Vous êtes César !
-
--*who_doncarlos
       De ta noble maison,
 Don Juan, ton coeur est digne...
 Il est digne aussi d'elle.
@@ -3275,29 +1624,8 @@ Je ne sais plus vos noms, messieurs ; haine et fureur,
 Je veux tout oublier. Allez : je vous pardonne !
 C'est la leçon qu'au monde il convient que je donne.
 
--*who_lesconjures
-Gloire à Carlos !
-
--*who_donruygomez
-      Moi seul, je reste condamné.
-
--*who_doncarlos
 Et moi !
 
--*who_donruygomez
-      Mais, comme lui, je n'ai point pardonné !
-
--*who_hernani
-Qui donc nous change tous ainsi ?
-
--*who_tous
-      Vive Allemagne !
-Honneur à Charles-Quint ! Honneur à Charlemagne !
-Laissez-nous seuls tous deux.
-
-**** *book_ *id_IV07 *act_IV *date_1830
-
--*who_doncarlos
       Es-tu content de moi ?
 Ai-je bien dépouillé les misères du roi ?
 - Ah ! J'étais seul, perdu, seul devant un empire ;
@@ -3311,318 +1639,885 @@ Tout pressé, tout pressant, tout à faire à la fois ;
 Je t'ai crié : « par où faut-il que je commence ? »
 Et tu m'as répondu : « mon fils, par la clémence ! »
 
-**** *book_ *id_V01 *act_V *date_1830
 
--*who_dongarcie
-Ma foi ! Vive la joie et vive l'épousée !
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donruygomez
 
--*who_donmatias
-Saragosse ce soir se met à la croisée...
+Des hommes chez ma nièce à cette heure de nuit !
+Venez tous ! Cela vaut la lumière et le bruit.
+Par saint Jean d'Avila, je crois que, sur mon âme,
+Nous sommes trois chez vous ! C'est trop de deux, Madame.
+Mes jeunes cavaliers, que faites-vous céans ?
+Quand nous avions le Cid et Bernard, ces géants
+De l'Espagne et du monde allaient par les Castilles
+Honorant les vieillards et protégeant les filles.
+C'étaient des hommes forts et qui trouvaient moins lourds
+Leur fer et leur acier, que vous votre velours.
+Ces hommes-là portaient respect aux barbes grises,
+Faisaient agenouiller leur amour aux églises
+Ne trahissaient personne, et donnaient pour raison
+Qu'ils avaient à garder l'honneur de leur maison.
+S'ils voulaient une femme, ils la prenaient sans tache,
+En plein jour, devant tous, et l'épée, ou la hache,
+Ou la lance à la main. - Et quant à ces félons
+Qui le soir, et les yeux tournés vers leurs talons,
+Ne fiant qu'à la nuit leurs manoeuvres infâmes,
+Par derrière aux maris vol l'honneur des femmes,
+J'affirme que le Cid, cet aïeul de nous tous,
+Les eût tenus pour vils et fait mettre à genoux,
+Et qu'il eût, dégradant leur noblesse usurpée,
+Souffleté leur blason du plat de son épée !
+Voilà ce que feraient, j'y songe avec ennui,
+Les hommes d'autrefois aux hommes d'aujourd'hui.
+Qu'êtes-vous venus faire ici ? C'est donc à dire
+Que je ne suis qu'un vieux dont les jeunes vont rire !
+On va rire de moi, soldat de Zamora ?
+Et quand je passerai, tête blanche, on rira ?
+Ce n'est pas vous du moins qui rirez !...
 
--*who_dongarcie
-Et fait bien ! On ne vit jamais noce aux flambeaux
-Plus gaie, et nuit plus douce, et mariés plus beaux !
+      Silence !
+Quoi ! Vous avez l'épée, et la bague, et la lance,
+La chasse, les festins, les meutes, les faucons,
+Les chansons à chanter le soir sous les balcons,
+Les plumes au chapeau, les casaques de soie,
+Les bals, les carrousels, la jeunesse, la joie,
+Enfants, l'ennui vous gagne ! à tout prix, au hasard,
+Il vous faut un hochet : vous prenez un vieillard !
+Ah ! Vous l'avez brisé, le hochet ! mais Dieu fasse
+Qu'il vous puisse en éclats rejaillir à la face !
+Suivez-moi !
 
--*who_donmatias
-Bon empereur !
+      Suivez-moi! Suivez-moi !
+Messieurs, avons-nous fait cela pour rire ? Quoi !
+Un trésor est chez moi ; c'est l'honneur d'une fille,
+D'une femme, l'honneur de toute une famille ;
+Cette fille, je l'aime, elle est ma nièce, et doit
+Bientôt changer sa bague à l'anneau de mon doigt ;
+Je la crois chaste et pure, et sacrée à tout homme,
+Or il faut que je sorte une heure, et moi qu'on nomme
+Ruy Gomez De Silva, je ne puis l'essayer
+Sans qu'un larron d'honneur se glisse à mon foyer !
+Arrière, jeunes gens ! Ah ! Ce sont là vos fêtes !
+Des bâtards rougiraient d'agir comme vous faites !
+Non. C'est bien. Poursuivez. Ai-je autre chose encor ?
+Tenez, foulez aux pieds, foulez ma toison d'or!
+Arrachez mes cheveux, faites-en chose vile !
+Et vous pourrez demain vous vanter par la ville
+Que jamais débauchés, dans leurs jeux insolents,
+N'ont sur plus noble front souillé cheveux plus blancs !
 
--*who_donsanchez
-      Marquis, certain soir qu'à la brune
-Nous allions avec lui tous deux cherchant fortune ;
-Qui nous eût dit qu'un jour tout finirait ainsi ?
+      Écuyers ! Écuyers ! À mon aide !
+Ma hache, mon poignard, ma dague de Tolède !
+Et suivez-moi tous deux !
 
--*who_donricardo
-J'en étais.
-      Écoutez l'histoire que voici :
-Trois galants, un bandit que l'échafaud réclame,
-Puis un duc, puis un roi, d'un même coeur de femme
-Font le siège à la fois. L'assaut donné, qui l'a ?
-C'est le bandit.
+Raillez-vous ?... Dieu ! Le roi !
 
--*who_donfrancisco
-      Mais rien que de simple en cela.
-L'amour et la fortune, ailleurs comme en Espagne,
-Sont jeux de dés pipés : c'est le voleur qui gagne.
+Mais pourquoi tarder tant à m'ouvrir cette porte?
 
--*who_donricardo
-Moi, j'ai fait ma fortune à voir faire l'amour.
-D'abord comte, puis grand, puis alcade de cour,
-J'ai fort bien employé mon temps, sans qu'on s'en doute.
+Altesse, pardonnez, l'apparence...
 
--*who_donsanchez
-Le secret de monsieur, c'est d'être sur la route
-Du roi...
+Pardonnez...
 
--*who_donricardo
-      Faisant valoir mes droits, mes actions.
+      L'aïeul de votre altesse
+Est mort ?
 
--*who_dongarcie
-Vous avez profité de ses distractions.
+Qui lui succède ?
 
--*who_donmatias
-Que devient le vieux duc ? Fait-il clouer sa bière ?
+Où vont se rassembler les électeurs d'empire ?
 
--*who_donsanchez
-Marquis, ne riez pas ! Car c'est une âme fière.
-Il aimait doña Sol, ce vieillard ! Soixante ans
-Ont fait ses cheveux gris, un jour les a faits blancs.
+      Notre roi, dont Dieu garde les jours,
+N'a-t-il pensé jamais à l'empire ?
 
--*who_dongarcie
-Il n'a pas reparu, dit-on, à Saragosse ?
+C'est à vous qu'il revient.
 
--*who_donsanchez
-Vouliez-vous pas qu'il mît son cercueil de la noce ?
+      Votre père
+Fut archiduc d'Autriche, et l'empire, j'espère,
+Aura ceci présent, que c'était votre aïeul,
+Celui qui vient de choir de la pourpre au linceul.
 
--*who_donfrancisco
-Et que fait l'empereur ?
+      Dans mon jeune âge
+Je le vis, votre aïeul. Hélas! Seul je surnage
+D'un siècle tout entier. Tout est mort à présent.
+C'était un empereur magnifique et puissant !
 
--*who_donsanchez
-      L'empereur aujourd'hui
-Est triste. Le luther lui donne de l'ennui.
+      Vaillant, ferme, point tyrannique.
+Cette tête allait bien au vieux corps germanique !
+Que je vous plains ! Si jeune, en un tel deuil plongé !
 
--*who_donricardo
-Ce luther ! Beau sujet de soucis et d'alarmes !
-Que j'en finirais vite avec quatre gens d'armes !
+Qu'avec joie il verrait, ce vétéran du trône,
+Votre front déjà large aller à sa couronne !
+Ah ! Seigneur, avec vous nous le pleurerons bien,
+Cet empereur très grand, très bon et très chrétien !
 
--*who_donmatias
-Le Soliman aussi lui fait ombre.
+Consolez-vous ! il est un empire des justes
+Où l'on revoit les morts plus saints et plus augustes !
 
--*who_dongarcie
-      Ah ! Luther,
-Soliman, Neptunus, le diable et Jupiter,
-Que me font ces gens là ? Les femmes sont jolies,
-La mascarade est rare, et j'ai dit cent folies.
+C'est un victorieux.
 
--*who_donsanchez
-Voilà l'essentiel.
+À ce compte, seigneur, vous êtes roi d'Espagne?
 
--*who_donricardo
-      Garcie a raison : - moi,
-Je ne suis plus le même un jour de fête, et croi
-Qu'un masque que je mets me fait une autre tête,
-En vérité !
+      La dernière campagne
+A fait monter bien haut le roi François premier.
 
--*who_donsanchez
-      Que n'est-ce alors tous les jours fête !
+      Votre altesse
+Sait-elle le latin ?
 
--*who_donfrancisco
-Messeigneurs, n'est-ce pas la chambre des époux ?
-Nous les verrons venir dans l'instant.
+      Tant pis. La noblesse
+D'Allemagne aime fort qu'on lui parle latin.
 
--*who_donfrancisco
-      Croyez-vous ?
+      Vous nous quittez, altesse,
+Sans purger l'Aragon des rebelles maudits
+Qui partout dans nos monts lèvent leurs fronts hardis.
 
--*who_dongarcie
-Hé ! Sans doute.
+Donnez-vous aussi l'ordre au chef qui la commande
+De se laisser faire ?
 
--*who_donfrancisco
-      Tant mieux ! L'épousée est si belle !
+Je l'ignore. On le dit un rude compagnon.
 
--*who_donricardo
-Que l'empereur est bon ! - Hernani, ce rebelle,
-Avoir la toison d'or ! -marié, pardonné !
-Loin de là, s'il m'eût cru, l'empereur eût donné
-Lit de pierre au galant, lit de plume à la dame.
+De faux avis alors le disaient près d'ici.
 
--*who_donsanchez
-Que je le crèverais volontiers de ma lame,
-Faux seigneur de clinquant ! Parvenu lâche et vil !
-Pourpoint de comte, empli de conseils d'alguazil !
+      Merci,
+Altesse !
+      Faites tous honneur au roi mon hôte.
 
--*who_donricardo
-Que dites-vous là ?
+Qu'est ce seigneur ?
 
--*who_donmatias
-      Comte, ici, pas de querelle !
-Il me chante un sonnet de Pétrarque à sa belle.
+Enfin ! C'est aujourd'hui ! Dans une heure on sera
+Ma duchesse ! Plus d'oncle ! Et l'on m'embrassera !
+Mais, m'as-tu pardonné ? J'avais tort, je l'avoue.
+J'ai fait rougir ton front, j'ai fait pâlir ta joue :
+J'ai soupçonné trop vite, et je n'aurais point dû
+Te condamner ainsi sans avoir entendu.
+Que l'apparence a tort ! Injustes que nous sommes !
+Certe, ils étaient bien là, les deux beaux jeunes hommes !
+C'est égal. Je devais n'en pas croire mes yeux.
+Mais que veux-tu, ma pauvre enfant ? Quand on est vieux !
 
--*who_dongarcie
-Avez-vous remarqué, messieurs, parmi les fleurs,
-Les femmes, les habits de toutes les couleurs,
-Ce spectre, qui, debout contre une balustrade,
-De son domino noir tachait la mascarade ?
+Moi ! J'eus tort. Je devais savoir qu'avec ton âme
+On n'a point de galants, quand on est doña Sol,
+Et qu'on a dans le coeur de bon sang espagnol.
 
--*who_donricardo
-Oui, pardieu !
+      Écoute, on n'est pas maître
+De soi-même, amoureux comme je suis de toi,
+Et vieux. On est jaloux, on est méchant ! Pourquoi ?
+Parce que l'on est vieux. Parce que beauté, grâce,
+Jeunesse, dans autrui, tout fait peur, tout menace.
+Parce qu'on est jaloux des autres, et honteux
+De soi. Dérision ! Que cet amour boiteux
+Qui nous remet au coeur tant d'ivresse et de flamme,
+Ait oublié le corps en rajeunissant l'âme !
+Quand passe un jeune pâtre, - oui, c'en est là ! - souvent,
+Tandis que nous allons, lui chantant, moi rêvant,
+Lui, dans son pré vert, moi dans mes noires allées,
+Souvent je dis tout bas : Ô mes tours écroulées,
+Mon vieux donjon ducal, que je vous donnerais !
+Oh ! Que je donnerais mes blés et mes forêts,
+Et les vastes troupeaux qui tondent mes collines,
+Mon vieux nom, mon vieux titre et toutes mes ruines ;
+Et tous mes vieux aïeux qui bientôt me verront,
+Pour sa chaumière neuve, et pour son jeune front ! -
+Car ses cheveux sont noirs ; car son oeil reluit comme
+Le tien. Tu peux le voir et dire : ce jeune homme !
+Et puis, penser à moi qui suis vieux. - Je le sais !
+Pourtant, j'ai nom Silva, mais ce n'est plus assez.
+Oui, je me dis cela. Vois à quel point je t'aime !
+Le tout, pour être jeune et beau comme toi-même !
+Mais à quoi vais-je ici rêver ? Moi, jeune et beau !
+Qui te dois de si loin devancer au tombeau !
 
--*who_dongarcie
-      Qu'est-ce donc ?
+      Mais, va, crois-moi, ces cavaliers frivoles
+N'ont pas d'amour si grand qu'il ne s'use en paroles.
+Qu'une fille aime et croie un de ces jouvenceaux,
+Elle en meurt ; il en rit. Tous ces jeunes oiseaux,
+À l'aile vive et peinte, au langoureux ramage,
+Ont un amour qui mue ainsi que leur plumage.
+Les vieux, dont l'âge éteint la voix et les couleurs,
+Ont l'aile plus fidèle, et, moins beaux, sont meilleurs.
+Nous aimons bien. Nos pas sont lourds ? Nos yeux arides ?
+Nos fronts ridés ? Au coeur on n'a jamais de rides.
+Hélas ! Quand un vieillard aime, il faut l'épargner ;
+Le coeur est toujours jeune et peut toujours saigner.
+Ah ! Je t'aime en époux, en père ! Et puis encore
+De cent autres façons, comme on aime l'aurore,
+Comme on aime les fleurs, comme on aime les cieux !
+De te voir tous les jours, toi, ton pas gracieux,
+Ton front pur, le beau feu de ta douce prunelle,
+Je ris, et j'ai dans l'âme une fête éternelle !
 
--*who_donricardo
-      Mais, sa taille, son air...
-C'est don Francasio, général de la mer.
+      Et puis, vois-tu ? Le monde trouve beau,
+Lorsqu'un homme s'éteint, et, lambeau par lambeau
+S'en va, lorsqu'il trébuche au marbre de la tombe ;
+Qu'une femme, ange pur, innocente colombe,
+Veille sur lui, l'abrite, et daigne encor souffrir
+L'inutile vieillard qui n'est bon qu'à mourir.
+C'est une oeuvre sacrée, et qu'à bon droit on loue,
+Que ce suprême effort d'un coeur qui se dévoue,
+Qui console un mourant jusqu'à la fin du jour,
+Et, sans aimer peut-être, a des semblants d'amour !
+Ah ! Tu seras pour moi cet ange au coeur de femme,
+Qui, du pauvre vieillard réjouit encor l'âme,
+Et de ses derniers ans lui porte la moitié,
+Fille par le respect et soeur par la pitié.
 
--*who_donfrancisco
-Non.
+Oh ! Les sombres discours ! Mais je vous gronderai,
+Enfant ! Un pareil jour est joyeux et sacré.
+Comment à ce propos, quand l'heure nous appelle,
+N'êtes-vous pas encor prête pour la chapelle ?
+Mais, vite ! Habillez-vous. - Je compte les instants.
+La parure de noce !
 
--*who_dongarcie
-      Il n'a pas quitté son masque !
+Non pas.
+      Que veut Iaquez ?
 
--*who_donfrancisco
-      Il n'avait garde.
-C'est le duc de Soma qui veut qu'on le regarde.
-Rien de plus.
+      Quel qu'il soit,
+Le bonheur entre avec l'étranger qu'on reçoit,
+Qu'il vienne. - Du dehors a-t-on quelques nouvelles ?
+Que dit-on de ce chef de bandits infidèles
+Qui remplit nos forêts de sa rébellion ?
 
--*who_donricardo
-      Non. Le duc m'a parlé.
+      Quoi ?
 
--*who_dongarcie
-      Qu'est-ce alors
-Que ce masque ? - Tenez, le voilà.
+      Grâce au ciel ! Il est mort, le rebelle !
+On peut se réjouir maintenant, chère belle !
+Allez donc vous parer, mon amour, mon orgueil !
+Aujourd'hui, double fête.
 
--*who_donsanchez
-      Si les morts
-Marchent, voici leur pas.
+Fais-lui vite porter l'écrin que je lui donne.
+Je veux la voir parée ainsi qu'une madone,
+Et, grâce à ses yeux noirs, et grâce à mon écrin,
+Belle à faire à genoux tomber un pèlerin.
+A propos, et celui qui nous demande un gîte ?
+Dis-lui d'entrer, fais-lui mes excuses ; cours vite.
+Laisser son hôte attendre !... ah ! C'est mal !
 
--*who_dongarcie
-      Beau masque !...
-      - Sur mon âme,
-Messeigneurs, dans ses yeux j'ai vu luire une flamme.
+      À toi paix et bonheur,
+Mon hôte !...
+      N'es-tu pas pèlerin ?
 
--*who_donmatias
-Si c'est le diable, il trouve à qui parler, pardieu !
-Je vous jure qu'il a deux prunelles de feu !
-Le masque reprend sa marche et disparaît par
-L'escalier ; tous le suivent des yeux avec effroi.
+      Sans doute
+Tu viens d'Armillas ?
 
--*who_donfrancisco
-La vision est sombre autant qu'on le peut dire.
+      La troupe du banni,
+N'est-ce pas ?
 
--*who_dongarcie
-Baste ! Ce qui fait peur ailleurs, au bal fait rire.
+      Le chef, le Hernani,
+Que devient-il ? Sais-tu ?
 
--*who_donsanchez
-Quelque mauvais plaisant !
+Tu ne le connais pas ? Tant pis ! La grosse somme
+Ne sera point pour toi. Vois-tu, ce Hernani,
+C'est un rebelle au roi, trop longtemps impuni
+Si tu vas à Madrid, tu le pourras voir pendre.
 
--*who_dongarcie
-      Ou si c'est Lucifer
-Qui vient nous voir danser, en attendant l'enfer,
-Dansons !
+      Sa tête est à qui veut la prendre.
 
--*who_donsanchez
-      C'est à coup sûr quelque bouffonnerie.
+      Où vas-tu, bon pèlerin ?
 
--*who_donmatias
-Nous le saurons demain.
+      Un voeu fait en l'honneur
+D'un saint ? De Notre-Dame ?...
 
--*who_donsanchez
-      Regardez, je vous prie,
-Que devient-il ?
+Del Pilar ?
 
--*who_donmatias
-      Il a descendu l'escalier.
-Plus rien.
+      Il faut n'avoir point d'âme
+Pour ne point acquitter les voeux qu'on fait aux saints.
+Mais, le tien accompli, n'as-tu d'autres desseins ?
+Voir le pilier, c'est là tout ce que tu désires ?
 
--*who_donsanchez
-      C'est un plaisant drôle !... c'est singulier.
-Marquise, dansons-nous celle-ci ?
+      Fort bien ! Ton nom, mon frère ?
+Je suis Ruy De Silva.
 
--*who_ladame
-      Mon cher comte,
-Vous savez, avec vous, que mon mari les compte.
+      Tu peux le taire
+Si tu veux. Nul n'a droit de le savoir ici.
+Viens-tu pas demander asile ?
 
--*who_dongarcie
-Raison de plus ! Cela l'amuse apparemment.
-C'est son plaisir ; il compte, et nous dansons.
+      Merci.
+Sois le bienvenu. Reste, ami ! Ne te fais faute
+De rien. Quant à ton nom, tu te nommes mon hôte.
+Qui que tu sois, c'est bien ! Et, sans être inquiet,
+J'accueillerais Satan, si Dieu me l'envoyait.
 
--*who_donsanchez
-      Vraiment
-C'est singulier !
+Voici ma Notre-Dame, à moi ! L'avoir priée
+Te portera bonheur.
+      Ma belle mariée,
+Venez. - Quoi ! Pas d'anneau ! Pas de couronne encor !
 
--*who_donmatias
-      Voici les mariés... silence !
+      Folie !
+Ah, mon hôte est un fou !
 
-**** *book_ *id_V02 *act_V *date_1830
+Mille carolus d'or, monsieur ! La somme est forte
+Et je ne suis pas sûr de tous mes gens.
 
--*who_hernani
-Chers amis !
+      Taisez-vous.
 
--*who_donricardo
-      Ton bonheur fait le nôtre, excellence !
+C'est le démon !
 
--*who_donfrancisco
-Saint Jacques, monseigneur ! C'est Vénus qu'il conduit.
+Frère, à toucher ta tête ils risqueraient la leur.
+Fusses-tu Hernani, fusses-tu cent fois pire,
+Pour ta vie, au lieu d'or, offrît-on un empire,
+Mon hôte ! Je te dois protéger en ce lieu,
+Même contre le roi, car je te tiens de Dieu !
+S'il tombe un seul cheveu de ton front, que je meure !
+Ma nièce, vous serez ma femme dans une heure.
+Rentrez chez vous. Je vais faire armer le château,
+J'en vais fermer la porte.
 
--*who_donsanchez
-Soyez Heureux, seigneur.
-      Partons, il est minuit.
+Voilà donc le paiement de l'hospitalité !
+Voilà ce que céans notre hôte nous apporte !
+Bon Seigneur, va-t'en voir si ta muraille est forte,
+Si la porte est bien close et l'archer dans sa tour ;
+De ton château pour nous, fais et refais le tour ;
+Cherche en ton arsenal une armure à ta taille ;
+Ressaie, à soixante ans, ton harnais de bataille !
+Voici la loyauté dont nous paierons ta foi !
+Tu fais cela pour nous, et nous, ceci pour toi.
+Saints du ciel ! J'ai vécu plus de soixante années ;
+J'ai vu bien des bandits aux mains empoisonnées,
+J'en ai vu qui mouraient sans croix et sans pater ;
+J'ai vu Sforce, j'ai vu Borgia, je vois Luther ;
+Mais je n'ai jamais vu perversité si haute
+Qui n'eût craint le tonnerre en trahissant son hôte !
+Ce n'est pas de mon temps ! - Si noire trahison
+Pétrifie un vieillard au seuil de sa maison,
+Et fait que le vieux maître, en attendant qu'il tombe,
+A l'air d'une statue à mettre sur sa tombe !
+Maures et castillans ! Quel est cet homme-ci ?
+Ô vous ! Tous les Silva qui m'écoutez ici,
+Pardon si devant vous, pardon si ma colère
+Dit l'hospitalité mauvaise conseillère !
+- Oh ! Je me vengerai !
 
-**** *book_ *id_V03 *act_V *date_1830
+      Vous l'aimez !
+      Tremble donc.
+Qu'est ce bruit ?
 
--*who_donasol
+      Ouvrez au roi !
+
+      Monsieur, entrez ici.
+
+Seigneur !... DON 
+
+Altesse, les Silva sont loyaux...
+
+      Seigneur,
+C'est vrai.
+
+      Mais qu'à cela ne tienne !
+Vous serez satisfait.
+
+      Écoutez ! des Silva
+C'est l'aîné, c'est l'aïeul, l'ancêtre, le grand homme !
+Don Silvins, qui fut trois fois consul de Rome.
+
+Écoutez-moi : voici Ruy Gomez De Silva,
+Grand-maître de Saint-Jacques et de Calatrava.
+Son armure géante irait mal à nos tailles.
+Il prit trois cents drapeaux, gagna trente batailles,
+Conquit au roi Motril, Antequera, Suez,
+Nijar ; et mourut pauvre. Altesse, saluez.
+Près de lui Juan, son fils, cher aux âmes loyales.
+Sa main pour un serment valait les mains royales.
+Don Gaspar, de Mendoce et de Silva l'honneur !
+Toute noble maison tient à Silva, seigneur.
+Sandoval tour à tour nous craint ou nous épouse.
+Manrique nous envie et Lara nous jalouse.
+Alencastre nous hait. Nous touchons à la fois
+Du pied à tous les ducs, du front à tous les rois !
+Vasquez, qui soixante ans garda la foi jurée...
+J'en passe, et des meilleurs ! - cette tête sacrée,
+C'est mon père ; il fut grand, quoiqu'il vînt le dernier.
+Les maures de Grenade avaient fait prisonnier
+Le comte Alvar Giron son ami ; mais mon père
+Prit pour l'aller chercher six cents hommes de guerre,
+Il fit tailler en pierre un comte Alvar Giron,
+Qu'à sa suite il traîna, jurant par son patron
+De ne point reculer que le comte de pierre
+Ne tournât front lui-même et n'allât en arrière ;
+Il combattit, puis vint au comte, et le sauva.
+
+      C'était un Gomez De Silva.
+Voilà donc ce qu'on dit, quand dans cette demeure
+On voit tous ces héros...
+
+Car, vous me la paieriez, altesse, n'est-ce pas ?
+
+Mieux voir croître du chanvre où ma tour s'éleva,
+Qu'une tache ronger le vieux nom de Silva.
+N'est-il pas vrai, vous tous ? Duc ! Cette tête est nôtre,
+Et tu m'avais promis...
+
+      J'ai promis l'une ou l'autre.
+Je donne celle-ci. Prenez-la.
+
+      En vérité,
+J'ai dit.
+
+      Mon donjon est fidèle
+Comme moi. Seul il sait le secret avec moi.
+Nous le garderons bien tous deux.
+
+À moins de démolir le château pierre à pierre,
+D'assassiner le maître, on n'aura rien !
+
+      J'ai dit.
+
+Seulement !
+
+      Pas davantage !
+Oh ! La grande clémence ! ô généreux vainqueur,
+Qui ménage la tête et torture le coeur !!
+Belle grâce !
+
+      Ah ! Vous êtes le maître !
+
+      Doña Sol !... Terre et cieux !
+Doña Sol !... Puisque l'homme ici n'a point d'entrailles,
+À mon aide ! Croulez ! Armures et murailles !
+Laisse-moi mon enfant ! Je n'ai qu'elle, ô mon roi !
+
+      ... Ayez pitié de moi,
+Vous tous !
+      Ah ! Voilez-vous ! Votre regard m'arrête.
+Tu le veux ?...
+
+      Non ! Par pitié, prends ma tête !
+
+      Prends-la donc, et laisse-moi l'honneur.
+
+      Au revoir !
+      Dieu vous garde, Seigneur !
+
+Sors.
+      Choisis. Don Carlos est hors de la maison,
+Il s'agit maintenant de me rendre raison.
+Choisis, et faisons vite. Allons donc, ta main tremble !
+
+Pourquoi donc ? As-tu peur ? N'es-tu point noble ? Enfer !
+Noble ou non, pour croiser le fer avec le fer,
+Tout homme qui m'outrage est assez gentilhomme.
+
+      Viens me tuer, ou viens mourir, jeune homme !
+
+      Tu veux ?
+Ne t'en prends qu'à toi seul ! - c'est bon ! Fais ta prière.
+
+Parle à l'autre seigneur.
+
+La voir !
+
+L'entendre !
+
+      Saints du ciel ! Ce repaire
+Est-il donc si profond, si sourd et si perdu,
+Qu'il n'ait entendu rien !
+
+Il a fallu livrer doña Sol, ou toi-même.
+
+      Au roi.
+
+Il l'aime !!
+
+Ô malédiction ! Mes vassaux, à cheval,
+À cheval ! Poursuivons le ravisseur !
+
+Alors, comme aujourd'hui, te laisseras-tu faire ?
+
+      Qu'en jures-tu ?
+
+Voudras-tu de toi-même un jour t'en souvenir ?
+
+      Ta main ?
+      Aux portraits.
+Vous tous, soyez témoins.
+
+      Oh ! Cède-moi ce coup !
+
+Tu n'as rien. Eh bien, tout, fiefs, châteaux, vasselages,
+Cent mille paysans dans mes trois cents villages,
+Pour ce coup à frapper, je te les donne, ami !
+
+      Arrière, vous ! Sinon le bras, j'ai l'âme.
+Aux rouilles du fourreau ne jugez point la lame.
+Tu m'appartiens !
+
+Eh bien, écoute, ami : je te rends ce cor !
+
+      Jamais ! Je rends ce cor.
+
+      Réfléchis, enfant.
+
+Eh bien ! Maudit sois-tu de m'ôter cette joie !
+
+Jurons sur cette croix !
+
+      Elle ne m'a point vu !
+
+      Lequel de nous deux, sire ?
+
+Les rois Rodrigue font les comtes Julien.
+
+Ce n'est pas ma noblesse.
+      Oh ! Ma haine s'en va !
+
+      Moi seul, je reste condamné.
+
+      Mais, comme lui, je n'ai point pardonné !
+
+Défends-le, si tu peux, contre un serment juré !
+
+Allons, duc !
+
+Doña Sol !
+
+      Vous l'aimez trop !
+
+      Après lui !
+Allons.
+
+Le sépulcre est ouvert, et je ne puis attendre.
+
+J'ai hâte.
+
+Il faut mourir.
+
+Puisque je n'ai céans affaire qu'à deux femmes,
+Don Juan, il faut qu'ailleurs j'aille chercher des âmes.
+Tu fais de beaux serments par le sang dont tu sors,
+Et je vais à ton père en parler chez les morts !...
+- Adieu !...
+
+      Ah ! C'était donc pour elle !
+
+      La fatalité s'accomplit.
+
+      Ô douleur !
+
+Ils sont encore heureux !
+
+      Mort !
+
+      Morte !... Oh ! Je suis damné.
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donasol
+
+Josefa !
+
+      Ah ! je crains quelque malheur.
+Hernani devrait être ici. - Voici qu'il monte.
+Ouvre avant qu'il ne frappe, et fais vite, et sois prompte.
+
+Hernani !
+
+Jésus ! Votre manteau ruisselle. Il pleut donc bien ?
+
+      Vous devez avoir froid ?
+
+Ôtez donc ce manteau.
+
+Ami, vous avez bien tardé ! Mais dites-moi
+Si vous avez froid.
+
+Allons ! Donnez la cape et l'épée avec elle !
+
+      Oui, cette heure est à nous.
+
+Hernani.
+
+Calmez-vous.
+      Josefa, fais sécher son manteau.
+Venez là.
+
+Comme vous êtes grand !
+
+      Chère âme,
+Ne pensons plus au duc.
+
+      C'est là ce qui vous désespère !
+Un baiser d'oncle ! Au front ! Presque un baiser de père !
+
+Le roi, dit-on, le veut.
+
+Vous m'effrayez.
+
+Je vous suivrai.
+
+Je vous suivrai.
+
+      Nous partirons demain.
+Hernani, n'allez pas sur mon audace étrange
+Me blâmer. êtes-vous mon démon ou mon ange ?
+Je ne sais, mais je suis votre esclave. écoutez,
+Allez où vous voudrez, j'irai. Restez, partez,
+Je suis à vous. Pourquoi fais-je ainsi ? Je l'ignore.
+J'ai besoin de vous voir, et de vous voir encore,
+Et de vous voir toujours. Quand le bruit de vos pas
+S'efface, alors je crois que mon coeur ne bat pas ;
+Vous me manquez, je suis absente de moi-même ;
+Mais dès qu'enfin ce pas que j'attends et que j'aime
+Vient frapper mon oreille, alors il me souvient
+Que je vis, et je sens mon âme qui revient !
+
+      À minuit. Demain. Amenez votre escorte.
+Sous ma fenêtre. Allez, je serai brave et forte.
+Vous frapperez trois coups.
+
+      Monseigneur, qu'importe ! Je vous suis.
+
+      Ô ciel ! Au secours !
+
+      Hernani ! Ciel !
+
+      Ciel ! On frappe à la porte !
+
+      Le duc ! Tout est perdu !
+Malheureuse !
+
+      Je suis morte !
+
+Monseigneur...
+
+      Le roi !
+
+Demain, sous ma fenêtre, à minuit, et sans faute.
+Vous frapperez des mains trois fois.
+
+Est-ce vous, Hernani ?
+
+Je descends.
+      Hernani !
+      Dieu ! Ce n'est point son pas !
+
+      Ce n'est point sa voix ! Ah ! Malheureuse !
+
+Le roi !
+
+Au secours, Hernani !
+
+Non ! Le bandit, c'est vous ! N'avez-vous pas de honte !
+Ah ! Pour vous au visage une rougeur me monte !
+Sont-ce là les exploits dont le roi fera bruit ?
+Venir ravir de force une femme, la nuit !
+Ah ! Qu'Hernani vaut mieux cent fois ! Roi, je proclame
+Que si l'homme naissait où le place son âme,
+Si le coeur seul faisait le brigand et le roi,
+À lui serait le sceptre et le poignard à toi.
+
+      Oubliez-vous que mon père était comte ?
+
+      Allez, C'est une honte !
+Il ne peut être rien entre nous, don Carlos.
+Mon vieux père a pour vous versé son sang à flots.
+Moi, je suis fille noble, et, de ce sang jalouse.
+Trop pour la favorite et trop peu pour l'épouse !
+
+      Non.
+C'est un piège. Et d'ailleurs, altesse, avec franchise,
+S'agit-il pas de vous ? S'il faut que je le dise,
+J'aime mieux avec lui, mon Hernani, mon roi,
+Vivre errante, en dehors du monde et de la loi,
+Ayant faim, ayant soif, fuyant toute l'année,
+Partageant jour à jour sa pauvre destinée,
+Abandon, guerre, exil, deuil, misère et terreur,
+Que d'être impératrice avec un empereur.
+
+      Quoi ! Pauvre, proscrit même !
+
+      Je ne vous aime pas.
+
+      Ô ciel ! Quoi ! Vous êtes altesse,
+Vous êtes roi ! Duchesse, ou Marquise, ou Comtesse,
+Vous n'avez qu'à choisir. Les femmes de la cour
+Ont toujours un amour tout prêt pour votre amour ;
+Mais mon proscrit ! Qu'a-t-il reçu du ciel avare ?
+Ah ! Vous avez Castille, Aragon et Navarre,
+Et Murcie et Léon, dix royaumes encor,
+Et les Flamands, et l'Inde avec les mines d'or !
+Vous avez un empire auquel nul roi ne touche,
+Si vaste que jamais le soleil ne s'y couche !
+Et quand vous avez tout, voudrez-vous, vous, le roi,
+Me prendre, pauvre fille, à lui qui n'a que moi ?
+
+      Pour mon honneur
+Je ne veux rien de vous, que ce poignard, Seigneur !
+Avancez maintenant ! Faites un pas !
+
+Pour un pas je vous tue et me tue...
+      Hernani !...
+Hernani !...
+
+      Un pas, tout est fini.
+
+Hernani ! Sauvez-moi de lui !
+
+      Mon Hernani !
+
+Maintenant, fuyons vite.
+
+Que dites-vous ?
+
+      Hernani ! Dieu ! Je tremble !
+Eh bien ! Hâtons-nous donc alors, fuyons ensemble !
+
+      Pourtant
+Vous me l'aviez promis !
+
+Souffre que je te suive.
+
+Non, je te suis, je veux ma part de ton linceul !
+Je m'attache à tes pas.
+
+Hernani ! Tu me fuis. - Ainsi donc, insensée,
+Avoir donné sa vie et se voir repoussée !
+Et n'avoir, après tant d'amour et tant d'ennui,
+Pas même le bonheur de mourir près de lui !
+
+Ah ! Vous êtes ingrat !
+
+      Le tocsin.
+Entends-tu ? Le tocsin !
+
+      Lève-toi ! Fuis ! Grand Dieu ! Saragosse
+S'allume !
+
+C'est la noce des morts ! La noce des tombeaux !
+
+      Ah ! Tu l'avais bien dit.
+
+      C'est moi qui fais ta perte !
+Où vas-tu ?
+      Viens, fuyons par cette porte ouverte !
+
+      Ces clameurs.
+Me brisent. Souviens-toi que si tu meurs, je meurs !
+
+      Mon époux ! /on Hernani ! Mon maître !
+
+      C'est le dernier peut-être.
+
+Vous reparlez toujours de cela, qui vous blâme ?
+
+Certes, il est bon et pur, monseigneur ; et peut-être
+On le verra bientôt.
+
+Qui sait ?
+
+Hélas !
+
+Loin de me précéder, vous pourrez bien me suivre,
+Monseigneur ! Ce n'est pas une raison pour vivre
+Que d'être jeune. Hélas ! Je vous le dis, souvent
+Les vieillards sont tardifs, les jeunes vont devant,
+Et leurs yeux brusquement referment leur paupière,
+Comme un sépulcre ouvert dont retombe la pierre.
+
+      Il sera toujours temps.
+
+      Dieu !
+
+      Ah ! Sans moi,
+Hernani ?
+
+      Oh ! Des habits de deuil.
+
+      Ciel ! Vivant !
+
+      Malheureuse !
+
+Oh ! Ne l'écoutez pas.
+
+      Oh ! Tais-toi.
+
+Par pitié...!
+
+Hernani ! Je vous aime et vous pardonne, et n'ai
+Que de l'amour pour vous.
+
+Croire que mon amour eût si peu de mémoire !
+Que jamais ils pourraient, tous ces hommes sans gloire,
+Jusqu'à d'autres amours, plus nobles à leur gré,
+Rapetisser un coeur où son nom est entré !
+
+Ah ! Vous ne m'aimez plus !
+
+Je ne vous en veux pas, seulement j'en mourrai.
+
+Pour qui sinon pour vous ?
+
+Vous êtes mon lion, superbe et généreux !
+Je vous aime.
+
+      Je t'aime !
+Monseigneur ! Je vous aime, et je suis toute à vous.
+
+Ah ! Ne craignez-vous pas que Dieu ne vous punisse
+De parler de la sorte ?
+
+Seigneur, ce n'est pas lui ! Ne frappez que moi-même !...
+
+Ah ! Moi seule ai tout fait ; car je l'aime.
+
+      Oui. Pardon !
+Je l'aime, monseigneur !
+
+Dieu ! Le roi ! Dernier coup !
+
+Il est perdu !
+
+      Seigneur, pitié pour lui.
+
+      Roi don Carlos, vous êtes
+Un mauvais roi !
+
+Altesse, tu n'as pas le coeur d'un espagnol !
+
+      Moi ! Seigneur !
+
+Sauvez-moi, monseigneur !
+      Malheureuse, il le faut !
+La tête de mon oncle ou l'autre !... moi plutôt !
+Je vous suis.
+
+      Prince, un joyau précieux. DON 
+
+      Vous verrez.
+
+      Dieu !
+
+Des soldats ! L'Empereur !... Ô ciel ! Coup imprévu !
+Hernani !...
+
+      J'ai toujours son poignard !
+
+      Il est sauvé !...
+
+Ciel !
+
+Sire ! Pardon ! Pitié, sire ! Soyez clément !
+Ou frappez-nous tous deux, car il est mon amant,
+Mon époux. En lui seul je respire ! Oh ! Je tremble !...
+Sire ! Ayez la pitié de nous tuer ensemble !
+Majesté ! Je me traîne à vos sacrés genoux !
+Je l'aime ! Il est à moi comme l'empire à vous !...
+- Oh ! Grâce !
+      Quel penser sinistre vous absorbe ?
+
+      Ô ciel !
+
+Ô mon Duc !
+
 Ils s'en vont tous, Enfin ! C'est qu'il est tard, ce me semble.
 
--*who_hernani
-Ange ! Il est toujours tard pour être seuls ensemble.
-
--*who_donasol
 Ce bruit me fatiguait. N'est-ce pas, cher seigneur,
 Que toute cette joie étourdit le bonheur ?
 
--*who_hernani
-Tu dis vrai. Le bonheur, amie, est chose grave ;
-Il veut des coeurs de bronze et lentement s'y grave.
-Le plaisir l'effarouche en lui jetant des fleurs ;
-Son sourire est moins près du rire que des pleurs !
-
--*who_donasol
 Dans vos yeux, ce sourire est le jour.
       Tout à l'heure !
 
--*who_hernani
-Oh ! Je suis ton esclave ! Oui, demeure, demeure.
-Fais ce que tu voudras, je ne demande rien.
-Tu sais ce que tu fais ! Ce que tu fais est bien.
-Je rirai, si tu veux, pour te plaire... - Mon âme
-Brûle ? Eh ! Dis au volcan qu'il étouffe sa flamme,
-Le volcan fermera ses gouffres entr'ouverts,
-Et n'aura sur ses flancs que fleurs et gazons verts.
-
--*who_donasol
 Oh ! Que vous êtes bon pour une pauvre femme,
 Hernani de mon coeur !...
 
--*who_hernani
-      Quel est ce nom, Madame ?
-Oh ! Ne me nomme plus de ce nom, par pitié !
-Tu me fais souvenir que j'ai tout oublié !
-Je sais qu'il existait autrefois, dans un rêve,
-Un Hernani dont l'oeil avait l'éclair du glaive,
-Un homme de la nuit et des monts, un proscrit,
-Sur qui le mot vengeance était partout écrit,
-Un malheureux traînant après lui l'anathème !
-Mais je ne connais pas ce Hernani. - Moi, j'aime
-Les jeux et les festins, je suis noble espagnol,
-Je suis Jean D'Aragon, mari de doña Sol !
-Je suis heureux !
-
--*who_donasol
       Je suis heureuse !
 
--*who_hernani
-      Que m'importe
-Les haillons qu'en entrant j'ai laissés à la porte ?
-Voici que je reviens à mon palais en deuil.
-Un ange du seigneur m'attendait sur le seuil !
-J'entre, et remets debout les colonnes brisées,
-Je rallume les feux, je rouvre les croisées,
-Je fais arracher l'herbe au pavé de la cour ;
-Je ne suis plus que joie, enchantement, amour !
-Qu'on me rende mes tours, mes vassaux, mes bastilles,
-Mon panache, mon siège au conseil des Castilles,
-Vienne ma doña Sol, rouge et le front baissé,
-Qu'on nous laisse tous deux, et le reste est passé !
-Je n'ai rien vu, rien dit, rien fait. Je recommence,
-J'efface tout, j'oublie ! - ou sagesse ou démence,
-Je vous ai, je vous aime et vous êtes mon bien !
-
--*who_donasol
 Que sur ce velours noir ce collier d'or fait bien !
 
--*who_hernani
-Vous vîtes avant moi le roi mis de la sorte.
-
--*who_donasol
 Je n'ai pas remarqué. Tout autre, que m'importe ?
 Puis, est-ce le velours ou le satin encor ?
 Non, mon duc, c'est ton cou qui sied au collier d'or.
@@ -3643,21 +2538,11 @@ Et ta voix, toutes deux m'allaient au coeur ensemble,
 Je me sentais joyeuse et calme, ô mon amant !
 Et j'aurais bien voulu mourir en ce moment.
 
--*who_hernani
-Ah ! Qui n'oublierait tout à cette voix céleste !
-Ta parole est un chant où rien d'humain ne reste.
-
--*who_donasol
 Ce silence est trop noir, ce calme est trop profond.
 Dis, ne voudrais-tu point voir une étoile au fond ?
 Ou qu'une voix des nuits, tendre et délicieuse,
 S'élevant tout-à-coup, chantât ?...
 
--*who_hernani
-      Capricieuse !
-Tout à l'heure on fuyait la lumière et les chants !
-
--*who_donasol
 Le bal ! Mais un oiseau qui chanterait aux champs !
 Un rossignol perdu dans l'ombre et dans la mousse,
 Ou quelque flûte au loin...! Car la musique est douce,
@@ -3666,280 +2551,65 @@ Fait l'âme harmonieuse, et comme un divin choeur,
 Oh ! Ce serait charmant !
       - Dieu ! Je suis exaucée !
 
--*who_hernani
-Ah ! Malheureuse !
-
--*who_donasol
       Un ange a compris ma pensée...
 - Ton bon ange, sans doute ?
 
--*who_hernani
-      Oui, mon bon ange !
-      Encor !...
-
--*who_donasol
 Don Juan ! Je reconnais le son de votre cor !
 
--*who_hernani
-N'est-ce pas ?
-
--*who_donasol
       Seriez-vous dans cette sérénade
 De moitié ?
 
--*who_hernani
-      De moitié, tu l'as dit.
-
--*who_donasol
       Bal maussade !
 Ah ! Que j'aime bien mieux le cor au fond des bois !...
 Et puis, c'est votre cor ; c'est comme votre voix.
 
--*who_hernani
-Ah ! Le tigre est en bas qui hurle et veut sa proie !
-
--*who_donasol
 Don Juan, cette harmonie emplit le coeur de joie !...
 
--*who_hernani
-Nommez-moi Hernani ! Nommez-moi Hernani !
-Avec ce nom fatal je n'en ai pas fini !
-
--*who_donasol
 Qu'avez-vous ?
 
--*who_hernani
-      Le vieillard !
-
--*who_donasol
       Dieu ! Quels regards funèbres !
 Qu'avez-vous ?
 
--*who_hernani
-      Le vieillard qui rit dans les ténèbres !...
-- Ne le voyez-vous pas ?
-
--*who_donasol
       Où vous égarez-vous ?
 Qu'est-ce que ce vieillard ?
 
--*who_hernani
-      Le vieillard !
-
--*who_donasol
       À genoux
 Je t'en supplie, oh ! Dis ! Quel secret te déchire ?
 Qu'as-tu ?
 
--*who_hernani
-      Je l'ai juré...!
-
--*who_donasol
       Juré !
 
--*who_hernani
-      Qu'allais-je dire ?
-Épargnons-la...
-      Moi, rien ! De quoi t'ai-je parlé ?
-
--*who_donasol
 Vous avez dit...
 
--*who_hernani
-      Non, non ; j'avais l'esprit troublé...
-Je souffre un peu, vois-tu ! N'en prends pas d'épouvante.
-
--*who_donasol
 Te faut-il quelque chose ? Ordonne à ta servante !
 
--*who_hernani
-Il le veut ! Il le veut ! Il a mon serment. - Rien !
-Ce devrait être fait !.. - ah !...
-
--*who_donasol
       Tu souffres donc bien ?
 
--*who_hernani
-Une blessure ancienne, et que j'ai cru fermée,
-Se rouvre...
-      Éloignons-la.
-      - Doña Sol, bien aimée,
-Écoute : ce coffret qu'en des jours moins heureux
-Je portais avec moi...
-
--*who_donasol
       Je sais ce que tu veux.
 Eh bien, qu'en veux-tu faire ?
 
--*who_hernani
-      Un flacon qu'il renferme
-Contient un élixir qui pourra mettre un terme
-Au mal que je ressens... va !
-
--*who_donasol
       J'y vais, Monseigneur.
 
-**** *book_ *id_V04 *act_V *date_1830
-
--*who_hernani
-Voilà donc ce qu'il vient faire de mon bonheur.
-Voici le doigt fatal qui luit sur la muraille !
-Oh ! Que la destinée amèrement me raille !
-Hé bien ?... mais tout se tait. Je n'entends rien venir.
-Si je m'étais trompé !...
-
-**** *book_ *id_V05 *act_V *date_1830
-
--*who_lemasque
-      « Quoi qu'il puisse advenir,
-Quand tu voudras, vieillard, quel que soit le lieu, l'heure,
-S'il te passe à l'esprit qu'il est temps que je meure,
-Viens, sonne de ce cor, et ne prends d'autres soins !
-Tout sera fait. » - Ce pacte eut les morts pour témoins :
-Hé bien ! Tout est-il fait ?
-
--*who_hernani
-      C'est lui !
-
--*who_lemasque
-      Dans ta demeure
-Je viens, et je te dis qu'il est temps. C'est mon heure.
-Je te trouve en retard.
-
--*who_hernani
-      Bien. Quel est ton plaisir ?
-Que feras-tu de moi ? Parle.
-
--*who_lemasque
-      Tu peux choisir
-Du fer ou du poison. Ce qu'il faut, je l'apporte.
-Nous partirons tous deux.
-
--*who_hernani
-      Soit.
-
--*who_lemasque
-      Prions-nous ?
-
--*who_hernani
-      Qu'importe !
-
--*who_lemasque
-Que prends-tu ?
-
--*who_hernani
-      Le poison.
-
--*who_lemasque
-      Bien ! Donne-moi ta main.
-Bois, pour que je finisse.
-
--*who_hernani
-      Oh ! Par pitié ! Demain !
-- Oh ! S'il te reste un coeur, duc, ou du moins une âme ;
-Si tu n'es pas un spectre échappé de la flamme ;
-Un mort damné, fantôme ou démon désormais ;
-Si Dieu n'a point encor mis sur ton front : « jamais ! »
-Si tu sais ce que c'est que ce bonheur suprême
-D'aimer, d'avoir vingt ans, d'épouser quand on aime ;
-Si jamais femme aimée a tremblé dans tes bras,
-Attends jusqu'à demain. - Demain tu reviendras !
-
--*who_lemasque
-Simple qui parle ainsi ! Demain ! Demain ! - tu railles !
-Ta cloche a ce matin sonné tes funérailles !
-Et que ferais-je, moi, cette nuit ? J'en mourrais.
-Et qui viendrait te prendre et t'emporter après ?
-Seul descendre au tombeau ! Jeune homme, il faut me suivre !
-
--*who_hernani
-Eh bien, non ! Et de toi, démon, je me délivre !
-Je n'obéirai pas.
-
--*who_lemasque
-      Je m'en doutais. - Fort bien.
-Sur quoi donc m'as-tu fait ce serment ? Ah, sur rien.
-Peu de chose après tout ! La tête de ton père.
-Cela peut s'oublier, la jeunesse est légère.
-
--*who_hernani
-Mon père ! - mon père !... ah ! J'en perdrai la raison !...
-
--*who_lemasque
-Non, ce n'est qu'un parjure et qu'une trahison.
-
--*who_hernani
-Duc !...
-
--*who_lemasque
-      Puisque les aînés des maisons espagnoles
-Se font jeu maintenant de fausser leurs paroles,
-Adieu !...
-
--*who_hernani
-      Ne t'en va pas.
-
--*who_lemasque
-      Alors...
-
--*who_hernani
-      Vieillard cruel !
-Revenir sur mes pas à la porte du ciel !...
-
-**** *book_ *id_V06 *act_V *date_1830
-
--*who_donasol
 Je n'ai pu le trouver, ce coffret !
 
--*who_hernani
-      Dieu ! C'est elle !
-Dans quel moment !
-
--*who_donasol
       Qu'a-t-il ? Je l'effraie, il chancelle
 À ma voix ! - Que tiens-tu dans ta main ? Quel soupçon !
 Que tiens-tu dans ta main ? Réponds.
 - C'est du poison !
 
--*who_hernani
-      Grand dieu !
-
--*who_donasol
       Que t'ai-je fait ? Quel horrible mystère !...
 Vous me trompiez, don Juan !...
 
--*who_hernani
-      Ah ! J'ai dû te le taire.
-J'ai promis de mourir au duc qui me sauva.
-Aragon doit payer cette dette à Silva.
-
--*who_donasol
 Vous n'êtes pas à lui, mais à moi. Que m'importe
 Tous vos autres serments.
       Duc, l'amour me rend forte.
 Contre vous, contre tous, duc, je le défendrai.
 
--*who_donruygomez
-Défends-le, si tu peux, contre un serment juré !
-
--*who_donasol
 Quel serment ?
 
--*who_hernani
-      J'ai juré.
-
--*who_donasol
       Non, non ; rien ne te lie ;
 Cela ne se peut pas ! Crime, attentat, folie !
 
--*who_donruygomez
-Allons, duc !
-
--*who_hernani
-      Laissez-moi, doña Sol, il le faut.
-Le duc a ma parole, et mon père est là haut !
-
--*who_donasol
 Il vaudrait mieux pour vous aller aux tigres même
 Arracher leurs petits, qu'à moi celui que j'aime.
 Savez-vous ce que c'est que doña Sol ? Long-temps,
@@ -3957,130 +2627,53 @@ Je suis faible, ma force avorte dans mon âme,
 Je me brise aisément... je tombe à vos genoux !
 Ah ! Je vous en supplie, ayez pitié de nous !
 
--*who_donruygomez
-Doña Sol !
-
--*who_donasol
       Pardonnez !... nous autres espagnoles,
 Notre douleur s'emporte à de vives paroles,
 Vous le savez. Hélas ! Vous n'étiez pas méchant !
 Pitié ! Vous me tuez, mon oncle, en le touchant !
 Pitié ! Je l'aime tant !...
 
--*who_donruygomez
-      Vous l'aimez trop !
-
--*who_hernani
-      Tu pleures !
-
--*who_donasol
 Non, non, je ne veux pas, mon amour, que tu meures !
 Non, je ne le veux pas. à don Ruy. faites grâce aujourd'hui ;
 Je vous aimerai bien aussi, vous.
 
--*who_donruygomez
-      Après lui !
-Allons.
-
--*who_donasol
       Oh ! Pas encor ! Daignez tous deux m'entendre.
 
--*who_donruygomez
-Le sépulcre est ouvert, et je ne puis attendre.
-
--*who_donasol
 Un instant, monseigneur !... mon don Juan ! Ah ! Tous deux
 Vous êtes bien cruels ! - Qu'est-ce que je veux d'eux ?
 Un instant ! Voilà tout... tout ce que je réclame !...
 Enfin on laisse dire à cette pauvre femme
 Ce qu'elle a dans le coeur !... - oh ! Laissez-moi parler...
 
--*who_donruygomez
-J'ai hâte.
-
--*who_donasol
       Messeigneurs ! Vous me faites trembler !
 Que vous ai-je donc fait ?
 
--*who_hernani
-      Ah ! Son cri me déchire.
-
--*who_donasol
 Vous voyez bien que j'ai mille choses à dire.
 
--*who_donruygomez
-Il faut mourir.
-
--*who_donasol
       Don Juan, lorsque j'aurai parlé,
 Tout ce que tu voudras, tu le feras.
       Je l'ai.
 
--*who_donruygomez
-Puisque je n'ai céans affaire qu'à deux femmes,
-Don Juan, il faut qu'ailleurs j'aille chercher des âmes.
-Tu fais de beaux serments par le sang dont tu sors,
-Et je vais à ton père en parler chez les morts !...
-- Adieu !...
-
--*who_hernani
-      Duc, arrêtez.
-      Hélas ! Je t'en conjure,
-Veux-tu me voir faussaire, et félon, et parjure ?
-Veux-tu que partout j'aille avec la trahison
-Écrite sur le front ? Par pitié, ce poison,
-Rends-le-moi ! Par l'amour, par notre âme immortelle...
-
--*who_donasol
 Tu veux ?
       Tiens maintenant.
 
--*who_donruygomez
-      Ah ! C'était donc pour elle !
-
--*who_donasol
 Prends, te dis-je.
 
--*who_hernani
-      Vois-tu, misérable vieillard ?
-
--*who_donasol
 Ne te plains pas de moi, je t'ai gardé ta part.
 
--*who_hernani
-Dieu !
-
--*who_donasol
       Tu ne m'aurais pas ainsi laissé la mienne,
 Toi !... tu n'as pas le coeur d'une épouse chrétienne,
 Tu ne sais pas aimer comme aime une Silva.
 Mais j'ai bu la première et suis tranquille. -va !
 Bois si tu veux !
 
--*who_hernani
-      Hélas ! Qu'as-tu fait, malheureuse ?
-
--*who_donasol
 C'est toi qui l'as voulu.
 
--*who_hernani
-      C'est une mort affreuse !...
-
--*who_donasol
 Non. - Pourquoi donc ?
 
--*who_hernani
-      Ce philtre au sépulcre conduit.
-
--*who_donasol
 Devions-nous pas dormir ensemble cette nuit ?
 Qu'importe dans quel lit !
 
--*who_hernani
-      Mon père, tu te venges
-Sur moi qui t'oubliais !
-
--*who_donasol
       Ciel ! Des douleurs étranges !...
 Ah ! Jette loin de toi ce philtre !... ma raison
 S'égare. - Arrête ! Hélas ! Mon don Juan ! Ce poison
@@ -4090,76 +2683,24 @@ Oh ! Je ne savais pas qu'on souffrît à ce point !
 Qu'est-ce donc que cela ? C'est du feu ! Ne bois point !
 Oh ! Tu souffrirais trop !
 
--*who_hernani
-      Ah ! Ton âme est cruelle !
-Pouvais-tu pas choisir d'autre poison pour elle ?
-
--*who_donasol
 Que fais-tu ?
 
--*who_hernani
-      Qu'as-tu fait ?
-
--*who_donasol
       Viens, ô mon jeune amant,
 Dans mes bras.
       Est-ce pas qu'on souffre horriblement ?
 
--*who_hernani
-Non !
-
--*who_donasol
       Voilà notre nuit de noce commencée !
 Je suis bien pâle, dis, pour une fiancée ?
 
--*who_hernani
-Ah !
-
--*who_donruygomez
-      La fatalité s'accomplit.
-
--*who_hernani
-      Désespoir !
-Ô tourment ! Doña Sol souffrir, et moi le voir !
-
--*who_donasol
 Calme-toi. Je suis mieux. - Vers des clartés nouvelles
 Nous allons tout à l'heure ensemble ouvrir nos ailes.
 Partons d'un vol égal vers un monde meilleur.
 Un baiser seulement, un baiser !
 
--*who_donruygomez
-      Ô douleur !
-
--*who_hernani
-Oh ! Béni soit le ciel qui m'a fait une vie
-D'abîmes entourée et de spectres suivie,
-Mais qui permet que, las d'un si rude chemin,
-Je puisse m'endormir, ma bouche sur ta main !
-
--*who_donruygomez
-Ils sont encore heureux !
-
--*who_hernani
-      Doña Sol, tout est sombre...
-Souffres-tu ?
-
--*who_donasol
       Rien, plus rien.
 
--*who_hernani
-      Vois-tu des feux dans l'ombre ?
-
--*who_donasol
 Pas encor.
 
--*who_hernani
-      Voici...
-
--*who_donruygomez
-      Mort !
-
--*who_donasol
       Mort ! Non pas !... nous dormons.
 Il dort ! C'est mon époux, vois-tu, nous nous aimons,
 Nous sommes couchés là. C'est notre nuit de noce...
@@ -4168,5 +2709,327 @@ Il est las...
       Mon amour, tiens-toi vers moi tourné...
 Plus près... plus près encor...
 
--*who_donruygomez
-      Morte !... Oh ! Je suis damné.
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdegotha
+
+Amis, Charles D'Espagne, étranger par sa mère,
+. . . . . . . . . . . . .
+Prétend au Saint-Empire.
+
+Qu'il en soit de son front comme de ce flambeau !
+
+      Qu'il meure !
+
+Il n'est plus espagnol et n'est pas allemand.
+Mort !
+
+Le plus sûr, c'est qu'avant d'être auguste, il expire !
+
+      Ton bras porterait un coup moins affermi,
+Vieillard !
+
+      Sur quoi, mon frère ?
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanchez
+
+      Seigneur, reparlons de traître.
+Et vous l'avez laissé partir !...
+
+Son nom, Seigneur ?...
+
+Hernani, peut-être ?
+
+      C'est lui.
+
+      De ses propos vous reste-t-il mémoire ?
+
+Mais pourquoi le lâcher lorsque vous le tenez ?
+
+C'est méprise.
+
+      Beau Comte ! Un Comte de surprise !
+
+      Marquis, certain soir qu'à la brune
+Nous allions avec lui tous deux cherchant fortune ;
+Qui nous eût dit qu'un jour tout finirait ainsi ?
+
+Le secret de monsieur, c'est d'être sur la route
+Du roi...
+
+Marquis, ne riez pas ! Car c'est une âme fière.
+Il aimait doña Sol, ce vieillard ! Soixante ans
+Ont fait ses cheveux gris, un jour les a faits blancs.
+
+Vouliez-vous pas qu'il mît son cercueil de la noce ?
+
+      L'empereur aujourd'hui
+Est triste. Le luther lui donne de l'ennui.
+
+Voilà l'essentiel.
+
+      Que n'est-ce alors tous les jours fête !
+
+Que je le crèverais volontiers de ma lame,
+Faux seigneur de clinquant ! Parvenu lâche et vil !
+Pourpoint de comte, empli de conseils d'alguazil !
+
+      Si les morts
+Marchent, voici leur pas.
+
+Quelque mauvais plaisant !
+
+      C'est à coup sûr quelque bouffonnerie.
+
+      Regardez, je vous prie,
+Que devient-il ?
+
+      C'est un plaisant drôle !... c'est singulier.
+Marquise, dansons-nous celle-ci ?
+
+      Vraiment
+C'est singulier !
+
+Soyez Heureux, seigneur.
+      Partons, il est minuit.
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmatias
+
+Et peut-être c'était le major des bandits !
+
+      C'est Hernani ?
+Le Chef !
+
+Mais que fera le roi, la belle une fois prise ?
+
+      Seigneur,
+Allons donc ! Un bâtard ! Comte, fût-on altesse,
+On ne saurait tirer un roi d'une comtesse !
+
+On garde les bâtards pour les pays conquis,
+On les fait vicerois. C'est à cela qu'ils servent.
+
+Saragosse ce soir se met à la croisée...
+
+Bon empereur !
+
+Que devient le vieux duc ? Fait-il clouer sa bière ?
+
+Le Soliman aussi lui fait ombre.
+
+      Comte, ici, pas de querelle !
+Il me chante un sonnet de Pétrarque à sa belle.
+
+Si c'est le diable, il trouve à qui parler, pardieu !
+Je vous jure qu'il a deux prunelles de feu !
+Le masque reprend sa marche et disparaît par
+L'escalier ; tous le suivent des yeux avec effroi.
+
+Nous le saurons demain.
+
+      Il a descendu l'escalier.
+Plus rien.
+
+      Voici les mariés... silence !
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donricardo
+
+      Pourquoi pas à toutes deux, Seigneur ?
+
+Sous quel titre plaît il au roi que je sois comte ?
+
+      Le roi m'a nommé comte.
+
+Merci, seigneur.
+
+      Minuit bientôt.
+
+      Grand merci.
+
+      C'est ici.
+
+Jusques au château fort.
+
+D'autres, de ce côté, vont jusqu'au monastère
+D'Altenheim...
+
+Gotha.
+
+Hohenbourg.
+
+Don Gil Tellez Giron.
+
+On dit qu'il vous trouva chez Madame Giron,
+Un soir que vous veniez de le faire baron.
+Il veut venger l'honneur de sa tendre compagne.
+
+      On cite avec ceux-là
+Le révérend Vasquez, évêque d'Avila.
+
+Puis Guzman De Lara, mécontent, qui réclame
+Le collier de votre ordre.
+
+Le duc de Lutzelbourg. Quant aux plans qu'on lui prête...
+
+Juan De Haro, qui veut Astorga.
+
+C'est tout.
+
+Oh ! Je ne nomme pas quelques bandits, gagés
+Par Trève ou par la France...
+
+Pourtant j'ai distingué deux hardis compagnons,
+Tous deux nouveau-venus ; un jeune, un vieux.
+
+      Le plus jeune a vingt ans.
+
+Le vieux, soixante au moins.
+
+      Le collège,
+À cette heure assemblé, délibère.
+
+      Seigneur, vous m'avez tutoyé,
+Me voilà grand d'Espagne.
+
+      Moi, j'espère
+Qu'ils prendront votre altesse.
+
+Baste ! Empereur ou non, me voilà grand d'Espagne.
+
+Si c'est le duc de Saxe, un seul coup de canon ;
+Deux, si c'est le français ; trois, si c'est votre altesse.
+
+Votre altesse est bien bonne...
+
+      Mais, je crois,
+Dans une heure au plus tard.
+
+      Seigneur, vous songerez
+Au comte de Limbourg, gardien capitulaire,
+Qui me l'a confiée et fait tout pour vous plaire.
+
+      J'y vais de ce pas,
+Altesse.
+
+Deux électeurs, au nom de la chambre dorée,
+Viennent complimenter la majesté sacrée !
+
+J'en étais.
+      Écoutez l'histoire que voici :
+Trois galants, un bandit que l'échafaud réclame,
+Puis un duc, puis un roi, d'un même coeur de femme
+Font le siège à la fois. L'assaut donné, qui l'a ?
+C'est le bandit.
+
+Moi, j'ai fait ma fortune à voir faire l'amour.
+D'abord comte, puis grand, puis alcade de cour,
+J'ai fort bien employé mon temps, sans qu'on s'en doute.
+
+      Faisant valoir mes droits, mes actions.
+
+Ce luther ! Beau sujet de soucis et d'alarmes !
+Que j'en finirais vite avec quatre gens d'armes !
+
+      Garcie a raison : - moi,
+Je ne suis plus le même un jour de fête, et croi
+Qu'un masque que je mets me fait une autre tête,
+En vérité !
+
+Que l'empereur est bon ! - Hernani, ce rebelle,
+Avoir la toison d'or ! -marié, pardonné !
+Loin de là, s'il m'eût cru, l'empereur eût donné
+Lit de pierre au galant, lit de plume à la dame.
+
+Que dites-vous là ?
+
+Oui, pardieu !
+
+      Mais, sa taille, son air...
+C'est don Francasio, général de la mer.
+
+      Non. Le duc m'a parlé.
+
+      Ton bonheur fait le nôtre, excellence !
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfrancisco
+
+      Mais rien que de simple en cela.
+L'amour et la fortune, ailleurs comme en Espagne,
+Sont jeux de dés pipés : c'est le voleur qui gagne.
+
+Et que fait l'empereur ?
+
+Messeigneurs, n'est-ce pas la chambre des époux ?
+Nous les verrons venir dans l'instant.
+
+      Croyez-vous ?
+
+      Tant mieux ! L'épousée est si belle !
+
+Non.
+
+      Il n'avait garde.
+C'est le duc de Soma qui veut qu'on le regarde.
+Rien de plus.
+
+La vision est sombre autant qu'on le peut dire.
+
+Saint Jacques, monseigneur ! C'est Vénus qu'il conduit.
+
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_premierconjure
+
+      Les saints
+Nous protègent !
+
+      Dieu nous garde !
+
+      Regarde.
+Il vient encor quelqu'un.
+
+      C'est bien, nous voilà tous. Gotha,
+Fais le rapport. Amis, l'ombre attend la lumière.
+
+      Il aura le tombeau.
+
+      Mort à lui.
+
+      Lui ! Jamais !
+
+S'il a le saint empire, il devient, quel qu'il soit,
+Très auguste, et Dieu seul peut le toucher du doigt.
+
+On ne l'élira point.
+
+Combien faut-il de bras pour le mettre au linceul ?
+
+      Combien faut-il de coups au coeur ?
+
+Qui frappera ?
+
+      La victime est un traître.
+Ils font un empereur, nous, faisons un grand-prêtre.
+Tirons au sort.
+      Prions.
+      Que l'élu croie en Dieu !
+Frappe comme un romain, meure comme un hébreu !
+Il faut qu'il brave roue et tenailles mordantes,
+Qu'il chante aux chevalets, rie aux lampes ardentes,
+Enfin, que, pour tuer et mourir, résigné,
+Il fasse tout.
+
+      Hernani !
+
+Frère, avant qu'on ait pu l'élire, il serait bien
+D'attendre dès ce soir Carlos... Ne craignez rien !
+Je sais comment on pousse un homme dans la tombe.
+
+Que toute trahison sur le traître retombe,
+Et Dieu soit avec vous ! Nous, comtes et barons,
+S'il périt sans tuer, continuons ! Jurons
+De frapper tour à tour et sans nous y soustraire,
+Carlos qui doit mourir.
+

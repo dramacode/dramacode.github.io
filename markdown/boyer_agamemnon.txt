@@ -1,6 +1,6 @@
 ---
 identifier: boyer_agamemnon  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1680  
 title: Agamemnon. Tragédie  
 ---

@@ -1,253 +1,18 @@
 
 
-**** *book_ *id_I01 *act_I *date_1662
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
 
--*who_guillot
-Pour ce coup votre affaire est faite ;
-Monsieur, je viens de voir Lisette,
-Elle m'a dit et répété
-Qu'Élise en la captivité
-Où la retient son fol de père,
-Est dans le dessein de tout faire,
-Si vous la jugez à propos,
-Pour assurer votre repos
-
--*who_cleandre
-Guillot, l'agréable nouvelle
-Que m'apportes-tu de ma belle !
-Quelle adresse trouverons-nous ?
-
--*who_guillot
-J'en ai mille; vous moquez-vous ?
-
--*who_cleandre
-Guillot, il n'en faut trouver qu'une,
-Et je réponds de ta fortune.
-
--*who_guillot
-Tant mieux ; mais la ferez-vous bien ?
-
--*who_cleandre
-Dis.
-
--*who_guillot
-      Non, celle-là ne vaut rien.
-Je m'en vais en trouver une autre.
-Où diable est donc l'adresse nôtre ?
-Ha ! J'en tiens une... Mais voici
-Votre Élise et mon cher souci ;
-L'une et l'autre de nous s'approche.
-
-**** *book_ *id_I02 *act_I *date_1662
-
--*who_elise
-Monsieur, je m'expose au reproche,
-Et peut-être à pis, pour vous voir.
-
--*who_cleandre
-Mon heur ne se peut concevoir.
-
--*who_lisette
-Mon cher Guillot, je te rencontre !
-
--*who_guillot
-C'est mon bon démon qui me montre.
-
--*who_elise
-Je ne respire que pour vous.
-
--*who_cleandre
-Vous faites mes soins les plus doux,
-Ainsi que mes inquiétudes.
-
--*who_elise
-Que je passe de moments rudes
-Près d'un père capricieux !
-
--*who_cleandre
-C'est ce qui me rend malheureux.
-
--*who_guillot
-Hay, hay.
-
--*who_lisette
-      Quoi, Guillot, tu soupires !
-As-tu quelque chose à me dire ?
-
--*who_guillot
-Devine ! Aussi bien je ne puis
-Te dire l'état où je suis ;
-Tâte-moi le pouls, je te prie.
-
--*who_lisette
-Il est ému.
-
--*who_guillot
-      C'est de furie.
-
--*who_lisette
-Toi furieux ! Depuis quel jour ?
-
--*who_guillot
-Depuis que j'enrage d'amour.
-Peux-tu n'enrager pas de même ?
-Pour peu qu'il soit vrai que tu m'aimes,
-Permets.
-
--*who_lisette
-      Arrête-toi, badin.
-
--*who_guillot
-Mon amour mourra donc de faim !
-
--*who_cleandre
-Ha ! Ne soupçonnez pas ma flamme,
-Je n'en sens que pour vous, Madame.
-
--*who_elise
-Pour justifier votre foi,
-Agissez pour vous et pour moi
-Songez que je suis renfermée.
-
--*who_cleandre
-Songez que vous êtes aimée,
-Et qu'il n'est rien dont un amant
-Ne vienne à bout fort aisément.
-
--*who_elise
-Cette assurance me console.
-
--*who_cleandre
-L'effet suivra cette parole.
-
--*who_elise
-Je tremble en vous parlant ici.
-
--*who_lisette
-Te voilà donc bien radouci ?
-
--*who_guillot
-Ha ! Si tu voulais, ma Lisette,
-Ma moutonne, ma brebiette,
-Mon coeur, mon tendron, mon toutou.
-
--*who_lisette
-Tais-toi, Guillot, tu deviens fou.
-
--*who_guillot
-Si tu voulais, bête farouche,
-J'apposerais dessus ta bouche
-Le cachet de mes chauds désirs.
-
--*who_elise
-Épargnez-moi les déplaisirs
-Que j'aurais, si j'étais surprise.
-
--*who_cleandre
-Ne craignez rien, ma chère Élise.
-
--*who_elise
-Mais mon père n'est pas bien loin ;
-Il m'observe avec tant de soin
-Que, sitôt qu'il me perd de vue,
-Il pense que je suis perdue :
-L'ombre d'un homme lui fait peur.
-
--*who_guillot
-C'est qu'il n'est pas de votre humeur.
-
--*who_lisette
-Finissez, j'entends Boniface ;
-Je crains bien pis que la menace.
-
--*who_elise
-Il est rentré par le jardin.
-
--*who_cleandre
-Madame, vous craignez en vain,
-Si vous ne vouliez pas l'attendre.
-
--*who_elise
-Je n'oserais rien entreprendre.
-
--*who_lisette
-Hélas ! Sauvons-nous au plus loin !
-
--*who_elise
-Non, non, cachons-nous à ce coin,
-Et vous, Monsieur, prenez la fuite.
-En quel état suis-je réduite !
-
--*who_cleandre
-Vous abandonner au courroux
-De ce bizarre ?
-
--*who_elise
-      Éloignez-vous.
-
--*who_cleandre
-Il ne me connaît point.
-
--*who_elise
-      N'importe,
-Retirez-vous devant qu'il sorte.
-
--*who_guillot
-Ha ! Monsieur, ne répliquez pas,
-Retirons-nous, doublons le pas
-Cet homme est prompt, il extravague,
-Il pourra donner de sa dague.
-
--*who_cleandre
-S'il extravague, j'en rirai.
-
--*who_guillot
-Et s'il dague ?
-
--*who_cleandre
-      Je périrai,
-Plutôt que perdre ce que j'aime.
-
--*who_guillot
-Ha ! Votre furie est extrême
-De risquer votre dernier jour
-Pour une chimère d'amour.
-
-**** *book_ *id_I03 *act_I *date_1662
-
--*who_boniface
 Ma fille, ma fille, Lisette !
 Elles ont plié la toilette :
 Hélas ! Je suis déshonoré.
 
--*who_lisette
-Il est au bas du grand degré,
-Il va sortir.
-
--*who_elise
-      Je suis perdue,
-S'il me rencontre dans la rue.
-
--*who_boniface
 Au secours, voisins, au secours !...
 
--*who_lisette
-À quoi donc aurons-nous recours ?
-
--*who_boniface
 Il n'est ni servante, ni fille !
 Cherchons partout, courons la ville.
 
--*who_elise
-Lisette, rentrons au logis.
-
--*who_boniface
 Au secours, voisins, mes amis !
 
--*who_lisette
-Ma foi, l'occasion est bonne.
-
--*who_boniface
 Quoi, tout le monde m'abandonne
 Maître Claude, maître Thomas,
 Hé quoi, ne m'entendez-vous pas ?
@@ -262,246 +27,70 @@ Et je devais, la prévoyant,
 Ha ! Si j'attrape l'infidèle
 Je serai sa garde éternelle.
 
--*who_cleandre
-Suis-moi je conçois un dessein
-Qui pourra réussir.
-
--*who_boniface
       Enfin
 Redoublons ici les alarmes
 Au secours, aux armes, aux armes !
 
-**** *book_ *id_I04 *act_I *date_1662
-
--*who_thomas
-À quel secours faut-il aller ?
-Faut-il battre ? Faut-il parler ?
-À quoi faut-il qu'on remédie ?
-Est-ce rapt, larcin, incendie ?
-Faut-il avoir recours à l'eau,
-Au prévôt, au juge, au bourreau ?
-Est-ce duel ? Est-ce rencontre?
-Faut-il dégainer pour ou contre ?
-Qu'est-ce?
-
--*who_boniface
       Ce n'est point tout cela,
 Mais bien une partie...
 
--*who_thomas
-      Holà,
-De vos maux allons à la source.
-Vous a-t-on coupé votre bourse ?
-Vous en reste-t-il les pendants ?
-Quel argent aviez-vous dedans ?
-
--*who_boniface
 Ce n'est pas ce que je regrette.
 
--*who_thomas
-Vous a-t-on donné de la brette ?
-Vous a-t-on donné du bâton,
-Ou bien des étrivières ?
-
--*who_boniface
       Non.
 
--*who_thomas
-Ces affronts sont insupportables,
-Souvent ce sont maux incurables.
-
--*who_boniface
 Mais.
 
--*who_thomas
-      "Mais" est un terme importun.
-Étaient-ils deux ? N'étaient-ils qu'un,
-À vous faire une telle injure ?
-
--*who_boniface
 Je me plains...
 
--*who_thomas
-      De quelle aventure ?
-
--*who_boniface
 Mais vous m'interrompez toujours !
 
--*who_thomas
-Mais pourquoi crier au secours ?
-
--*who_boniface
 Pourquoi ? Parce que l'on m'opprime.
 
--*who_thomas
-L'oppression est un grand crime,
-Et la justice en pareil cas
-Devrait bien ne s'endormir pas ;
-Car quand on néglige une affaire,
-Souvent on manque au nécessaire.
-Ainsi...
-
--*who_boniface
       Laissez-moi donc parler.
 
--*who_thomas
-Ha ! Laissez-moi vous consoler :
-Je connais ce qui vous afflige.
-
--*who_boniface
 Ha ! Laissez-moi parler, vous dis-je.
 
--*who_thomas
-Mais, compère, vous avez tort
-Je viens vous secourir.
-
--*who_boniface
       D'abord
 Je l'ai cru ; mais las j'en enrage.
 
--*who_thomas
-Vous êtes un sot personnage.
-Mon compère, mon cher voisin,
-Pourquoi vous plaignez-vous en vain ?
-
--*who_boniface
 Moi me plaindre en vain ! L'apparence,
 Après une si grande offense !
 
--*who_thomas
-Je commence à souffrir pour lui.
-
--*who_boniface
 Ha ! Compère, je meurs d'ennui.
 
--*who_thomas
-Le sujet ?
-
--*who_boniface
       J'ai perdu ma fille !
 
--*who_thomas
-Adieu l'honneur de la famille !
-Par quel accident, par quel sort ?
-
--*who_boniface
 Elle vient de prendre l'essor.
 
--*who_thomas
-Je vous l'avais bien dit, compère,
-Qu'il aurait été nécessaire
-De la garder soigneusement.
-Mais savez-vous certainement
-Qu'elle vous ait fait banqueroute ?
-Savez-vous aussi quelle route
-Elle tient, s'éloignant d'ici ?
-
--*who_boniface
 C'est de quoi je suis en souci.
 
--*who_thomas
-Connaissez-vous bien qui l'enlève ?
-
--*who_boniface
 Non, et c'est là ce qui m'achève ;
 Cependant je le veux chercher,
 Le prendre vif et t'écorcher.
 
--*who_thomas
-C'est bien résoudre; mais, compère,
-Il faut refréner la colère.
-J'estime donc qu'en cas pareil
-Tout homme a besoin de conseil ;
-C'est pourquoi je veux vous déduire
-Chose qui ne vous pourra nuire.
-
--*who_boniface
 Il n'en est pas besoin.
 
--*who_thomas
-      Les Grecs
-Jadis pour un pareil succès,
-Bon gré malgré les destinées,
-Guerroyèrent plusieurs années ;
-Hélène, que ravit Paris,
-De cette guerre fut le prix.
-
--*who_boniface
 À quoi bon ?...
 
--*who_thomas
-      Écoutez le reste.
-
--*who_boniface
 Secours importun et funeste !
 
--*who_thomas
-Or la femme de Ménélas,
-Qui causa dix ans de combats...
-
--*who_boniface
 Ah ! L'insupportable boutade !
 À quoi bon citer l'Iliade ?
 J'enrage...
 
--*who_thomas
-      Pour vous faire voir
-Tout ce que vous devez prévoir
-En vous armant pour votre fille;
-Car comme Ulysse, Hector, Achille,
-Patrocle, Achille, Ulysse, Hector.
-Je veux être votre Nestor,
-Et faire plus, par ma prudence,
-Que cent autres par leur vaillance.
-
--*who_boniface
 Hé, de grâce, maître Thomas,
 Souffrez...
 
--*who_thomas
-      Mon pauvre Ménélas,
-En une occasion pareille,
-Il est bon que je vous conseille.
-Pour assiéger un Ilion
-Il faut de gens un million,
-Il faut avoir des dieux propices
-Il faut des Ajax, des Ulysses,
-Il faut des démons familiers,
-Des chevaux de bois, des béliers,
-Et cent mille autres ustensiles
-Propres à renverser des villes.
-
--*who_boniface
 Au diable soit le conseiller !
 
--*who_thomas
-Vous n'aimez point à batailler ?
-Hé bien, conseillons d'autre sorte.
-
--*who_boniface
 Que le grand diable vous emporte !
 Si je puis parler une fois,
 Je parlerai pour plus d'un mois.
 
--*who_thomas
-Il faut donc pour... mais, non, je pense...
-Pourtant, enfin, l'expérience.
-Voyez-vous, je conseille bien.
-
--*who_boniface
 Au diable si j'y comprends rien !
 
--*who_thomas
-Maudite soit la tête folle !
-
--*who_boniface
 Tâchons à prendre la parole.
 
--*who_thomas
-Oui, quant au traître d'enleveur,
-Je veux en être l'étrangleur.
-
--*who_boniface
 S'il tombe sous mes mains, je jure
 De lui déchirer la fressure.
 Si quelque diable familier
@@ -512,10 +101,6 @@ Quand la colère me transporte,
 Je suis vaillant de telle sorte
 Que devant moi les plus hardis...
 
--*who_thomas
-Je suis aussi...
-
--*who_boniface
       Les Amadis,
 Ces paladins si redoutables,
 Ceux que l'on vante dans les Fables,
@@ -528,16 +113,8 @@ Rodomont, l'honneur des Gaulois,
 Fierabras, et toute leur suite,
 Ne sont bons qu'à prendre la fuite.
 
--*who_thomas
-C'est trop en dire pour un coup.
-
--*who_boniface
 Vous ignorez.
 
--*who_thomas
-      J'ai vu le loup.
-
--*who_boniface
 Sachez qu'à la fleur de mon âge
 J'étais un rude personnage
 À la guerre des Guéridons
@@ -551,19 +128,11 @@ Ce que jadis j'aimais à faire,
 Sans pitié du malheur d'autrui,
 Je me le vois faire aujourd'hui.
 
--*who_thomas
-Or...
-
--*who_boniface
       Je vous plains, pauvres familles,
 Qui nourrissez de belles filles !
 Qu'heureuses sont les nations
 Fertiles en précautions !
 
--*who_thomas
-Donc.
-
--*who_boniface
       Qu'il fait sûr en Italie !
 Qu'il fait encor bon en Turquie !
 Que l'on y garde bien l'honneur !
@@ -571,91 +140,26 @@ Que ne suis-je le Grand Seigneur !
 J'aurais des gardes très fidèles,
 Qui répondraient de mes femelles.
 
--*who_thomas
-Quoi, je ne pourrai plus parler !
-
--*who_boniface
 Au diable puissiez-vous aller !
 
--*who_thomas
-Au diable soit votre infortune !
-
--*who_boniface
 Au diable soit qui m'importune !
 Mais on a fermé ma maison.
 
--*who_thomas
-Cela sent bien la trahison !
-Gardez-vous donc, mon cher compère,
-De faire ici le téméraire.
-
--*who_boniface
 Aurais-je bien, dans mon effroi,
 Tiré cette porte après moi ?
 
-**** *book_ *id_I05 *act_I *date_1662
-
--*who_lisette
-Qui va là ?
-
--*who_thomas
-      Qui va là ! La peste !
-L'intelligence est manifeste.
-Le suborneur a pris son temps
-Pour mettre garnison dedans ;
-Si j'entre, je veux qu'on m'étrille.
-Quelqu'un paraît à cette grille :
-C'est la femme du commandant.
-
--*who_lisette
-Quel est ce sot, cet impudent,
-Qui heurte avecque tant d'audace ?
-
--*who_thomas
-C'est un ami de Boniface.
-
--*who_lisette
-N'est-il pas bien Monsieur pour vous ?
-
--*who_thomas
-Compère, halte à votre courroux !
-Votre fille s'est retrouvée.
-
--*who_boniface
 On ne l'a donc pas enlevée.
 
--*who_elise
-Descends.
-
--*who_boniface
       Mais l'avais-je rêvé ?
 
--*who_thomas
-D'un grand mal vous voilà sauvé ;
-Votre fille vient de paraître,
-Et je l'ai bien su reconnaître.
-
--*who_boniface
 Ouvrez, ouvrez, ma fille, ouvrez.
 
--*who_lisette
-Entrez, Monsieur, Monsieur, entrez.
-
--*who_boniface
 Dois-je la quereller, compère ?
 
--*who_thomas
-Avez-vous sujet de le faire ?
-
--*who_boniface
 Hé bien donc, ne lui disons rien.
 Rentrez, sotte. Par quel moyen
 Me suis-je abusé de la sorte ?
 
--*who_thomas
-C'est que le soupçon vous transporte.
-
--*who_boniface
 Ce soupçon n'est point mal fondé
 Un de mes amis m'a mandé
 Que j'observasse bien ma fille.
@@ -663,98 +167,19 @@ Le scandale est dans ma famille,
 C'est ce qui me rend indigné ;
 Sans doute qu'elle a forligné.
 
--*who_thomas
-Mais n'avez-vous point quelque idée
-Des gens dont elle est obsédée !
-
--*who_boniface
 Non, je crois que c'est un sorcier
 De qui je me dois défier.
 
-**** *book_ *id_I06 *act_I *date_1662
-
--*who_guillot
-Bien courir est un avantage
-Qui me tire d'un grand naufrage
-Grâce au ciel me voilà sauvé.
-Comment ne m'ont-ils point crevé ?
-Comment ai-je évité le piège
-De cette graine de collège ?
-Mais, après tant de coups rués,
-Suis-je point au rang des tués ?
-M'ont-ils laissé la vie entière ?
-Je suis vif devant ; par derrière
-Ne m'auraient-ils point amorti ?
-Non, ou je n'en ai rien senti.
-
--*who_boniface
 Appropinque, mon galant homme.
 
--*who_guillot
-Ha ! Ce mot de latin m'assomme.
-
--*who_thomas
-Qu'as-tu ?
-
--*who_guillot
-      Je perds un bon métier :
-Depuis dix ans je suis portier
-Du collège de Crassinaille ;
-Mais une maudite canaille
-Que l'on instruit mal dans ce lieu,
-Soit par rancune, soit par jeu,
-Externes et pensionnaires,
-Se sont montrés mes adversaires,
-Et m'ont fait tant de maux divers,
-Que, las de les avoir soufferts,
-Afin de vivre d'autre sorte,
-Je renonce à garder la porte !
-
--*who_boniface
 Pourquoi, si tu t'y trouvais bien,
 Y renonces-tu ?
 
--*who_guillot
-      Quel moyen
-De rester parmi tant de diables
-Qui sont irréconciliables ?
-Je les ai trop désobligés,
-Ils en voudront mourir vengés
-Las ! Ils me poursuivent en poupe.
-
--*who_thomas
-Gros boursouflé, gros ventre à soupe,
-Pourquoi les désobligeais-tu?
-
--*who_guillot
-Pourquoi suis-je homme de vertu ?
-Ah ! Si j'avais souffert leurs vices,
-Leurs impudences, leurs malices,
-J'aurais été portier chéri !
-Mais las ! Je serais bien marri
-D'avoir gagné leur bienveillance
-Par une lâche connivence.
-Combien ai-je empêché le cours
-De leurs criminelles amours ?
-Combien arrêté de commères,
-De revendeuses, de fruitières,
-Et d'autres gens qui, sous tels noms,
-Venaient friponner les fripons?
-
--*who_boniface
 Cet homme est bien mon fait, compère
 Qu'en dites-vous?
 
--*who_thomas
-      Rien de contraire.
-
--*who_boniface
 Ami, voudrais-tu me servir ?
 
--*who_guillot
-Monsieur, je suis prêt d'obéir.
-
--*who_boniface
 Je suis veuf, et n'ai qu'une fille
 Qui met le trouble en ma famille,
 Parce qu'elle a l'esprit coquet,
@@ -771,237 +196,34 @@ Soit que ma fille, ou non, s'en fâche,
 Je veux donner à cette vache
 Des Argus pour la surveiller.
 
--*who_guillot
-Je n'aime point à sommeiller,
-Ou je dors la paupière haute ;
-Ainsi je ne puis faire faute.
-
--*who_thomas
-Mais la gardant, garderas-tu
-Ce que l'on appelle vertu ?
-
--*who_guillot
-Oui, monsieur.
-
--*who_thomas
-      Je te tiens habile ;
-Mais, vois-tu, l'honneur d'une fille
-Est un oiseau prompt à partir.
-
--*who_guillot
-C'est bien fait de m'en avertir.
-Après cela, laissez-moi faire :
-Je suis grec eu pareille affaire.
-
--*who_boniface
 Allons le mettre en faction.
 Ça, viens prendre possession
 De ton emploi.
 
--*who_guillot
-      J'en meurs d'envie.
-
--*who_boniface
 Compère, attends-moi, je te prie.
 
--*who_thomas
-Je le veux ; mais je suis un fat,
-De ne pas songer que le chat
-Pourrait bien desservir ma table.
-C'est trop faire le secourable.
-
-**** *book_ *id_I07 *act_I *date_1662
-
--*who_cleandre
-Voici quelqu'un de ses voisins.
-
--*who_thomas
-Allons-nous, bourrer les boudins
-Avec notre grand voisin Cosme.
-D'où diable est sorti ce fantôme?
-Si je fais ici le rétif,
-Je vais être empalé tout vif
-Fuyons.
-
--*who_cleandre
-      Monsieur, restez de grâce.
-
--*who_thomas
-Je n'oserais le voir en face.
-
--*who_cleandre
-Daignez me parler un moment.
-
--*who_thomas
-Ah ! Monsieur le Mahométan,
-Je suis un pauvre misérable,
-Qui craint un Turc autant qu'un diable.
-
--*who_cleandre
-Sortez de votre illusion :
-Je suis de votre nation.
-Quoi que mon habit me déguise,
-Ma naissance me déturquise.
-
--*who_thomas
-Vous n'êtes pas Turc ?
-
--*who_cleandre
-      Non, monsieur.
-
--*who_thomas
-Je ne sais si c'est une erreur,
-Ni même ce que j'en dois croire.
-
--*who_cleandre
-Un petit bout de mon histoire
-Vous en instruira pleinement.
-
--*who_thomas
-J'aime l'histoire horriblement :
-Apprenez-moi la toute entière.
-
--*who_cleandre
-J'y trouverais trop de matière.
-
-**** *book_ *id_I08 *act_I *date_1662
-
--*who_cleandre
-Très volontiers ; prêtez silence.
-Mais je vois quelqu'un qui s'avance.
-
--*who_thomas
-C'est mon voisin, ne craignez rien.
-
--*who_boniface
 Ha ! Compère, que tout va bien !
 Mais quelle est cette étrange trogne ?
 
--*who_thomas
-Chut, chut!
-
--*who_cleandre
-      La reine de Pologne
-S'en allant pour trouver son roi
-Comme elle avait besoin de moi
-Pour l'entretien de sa coiffure,
-(Car je coiffe mieux qu'en peinture)
-Me voulut avoir dans son train
-Sous espérance de grand gain,
-Je suivis cette grande reine
-Qui m'a bien payé de ma peine.
-Las d'être si loin engagé,
-Je lui demandai mon congé,
-Afin de retourner en France ;
-Je l'obtins, puis en diligence
-Je m'embarquai pour mon retour.
-Mais, hélas ! Dès le premier jour,
-Venant d'éviter un naufrage,
-Je tombai dedans l'esclavage ;
-Par un vieux corsaire d'Alger,
-De chaînes je me vis charger,
-Ainsi conduit droit en Turquie,
-Où je croyais passer ma vie
-Dans le serail du Grand Seigneur,
-Où je fus placé par bonheur,
-Pour y coiffer toutes les belles,
-Et même pour veiller sur elles.
-
--*who_thomas
-La Gazette a parlé de vous ;
-Et je vais gager entre nous
-Toutes les richesses d'Espagne
-Que vous êtes monsieur Champagne.
-
--*who_cleandre
-Vous l'avez deviné, monsieur :
-Je suis Champagne le coiffeur.
-
--*who_thomas
-Votre aventure est admirable !
-
--*who_cleandre
-Elle m'a rendu misérable ;
-Ha ! Que les Turcs sont inhumains !
-
--*who_thomas
-Vous ont-ils fait sentir leurs mains ?
-
--*who_cleandre
-Hélas !
-
--*who_thomas
-      Mais encor, quel martyre
-Vous ont-ils fait ?
-
--*who_cleandre
-      À vous le dire,
-J'aurais trop de confusion :
-Ha ! La barbare nation !
-
--*who_boniface
 Mais ils n'empalent plus le monde.
 
--*who_cleandre
-Leur rage est pourtant sans seconde.
-Las ! Que ne m'ont-ils empalé,
-Écorché tout vif et brûlé !
-J'aurais assouvi leur envie,
-Sans regret de quitter la vie.
-
--*who_boniface
 Vous croyez donc qu'il est un sort
 Beaucoup plus rude que la mort ?
 Serait-ce point ? Mais j'appréhende
 De faire une sotte demande.
 
--*who_thomas
-Ils vous ont donc, les inhumains,
-Rendu léger de quelques grains ?
-
--*who_cleandre
-Monsieur, vous...
-
--*who_thomas
-      Votre langue hésite
-Vous êtes de ces gens d'élite
-Dont tout le sérail est rempli ?
-Votre teint en est embelli.
-Avouez entre nous la chose,
-Et je vous promets bouche close.
-
--*who_boniface
 Qu'est-ce qui le rend si craintif ?
 
--*who_thomas
-C'est qu'il n'est plus génératif.
-Ce secret demande le vôtre.
-
--*who_boniface
 Ha ciel ! Quel bonheur est le nôtre
 Mon ami, dites franchement,
 Voudriez-vous présentement
 Prendre emploi ?
 
--*who_cleandre
-      C'est bien mon attente
-Si l'occasion s'en pésente.
-
--*who_boniface
 He bien donc, sans autre raison
 Je vous offre dans ma maison
 Une charge, avec un asile:
 La charge est de garder ma fille.
 
--*who_thomas
-Vous entendez bien le détail.
-
--*who_cleandre
-Ayant servi dans le Sérail,
-Je sais ce qu'il faut que j'observe,
-Et je suis à vous sans réserve.
-
--*who_boniface
 Devant que d'entrer au logis,
 Un petit mot de votre avis
 Comme je sais l'humeur d'Élise,
@@ -1030,26 +252,12 @@ Ainsi, de son consentement,
 Il fera sa charge aisément,
 Sans que jamais on le soupçonne.
 
--*who_thomas
-Certes votre raison est bonne
-La suivant on ne peut faillir.
-
--*who_boniface
 Çà donc, je m'en vais l'avertir.
 Hola, hola, hola, Lisette !
 
--*who_lisette
-Monsieur, je mettais la toilette ;
-Mademoiselle attend après.
-
--*who_boniface
 Quand elle le ferait exprès,
 La chose ne pourrait mieux être.
 
--*who_lisette
-Que vous plaît-il donc, mon cher maître ?
-
--*who_boniface
 Ouvre la salle promptement,
 Et qu'Élise au même moment
 S'y rende, et Guillot avec elle ;
@@ -1058,45 +266,329 @@ Que j'ai pris pour mon serviteur
 Champagne, l'illustre coiffeur.
 Penses-tu que cela lui plaise ?
 
--*who_lisette
-Monsieur, que je vais la faire aise !
-
--*who_thomas
-Puisque vous retournez chez vous,
-Comme tout est libre entre nous
-Trouvez bon que de même j'entre
-En ma maison, comme en mon centre,
-Certain qu'au premier carillon,
-Aussi vite qu'un tourbillon.,
-Je fondrai sur vos adversaires,
-Si...
-
--*who_boniface
       J'ai mis ordre à mes affaires.
 
--*who_thomas
-Bonsoir et bonne nuit.
-
--*who_boniface
       Bonsoir.
 
--*who_thomas
-Turc, faites bien votre devoir.
-
-**** *book_ *id_I09 *act_I *date_1662
-
--*who_boniface
 Ma fille, êtes-vous satisfaite
 De l'élection que j'ai faite ?
 Cet homme entend l'ajustement,
 Mieux que La Prime assurément.
 
--*who_elise
+Tournez-les bien en tire-bourre.
+Bon, c'est ainsi que je l'entends
+Pour le reste prenez du temps.
+Cependant je m'en vais écrire
+Quelques dépêches pour l'Empire.
+
+Allons réparer notre honte.
+
+      Hola, hola.
+
+Doucement je suis Boniface.
+Avecque ce maudit outil
+Vous m'avez blessé le nombril.
+
+Quoi, l'on abuse ainsi de moi !
+Qu'en dira-t-on parmi la ville ?
+
+Hélas, que je suis malheureux
+Je me vois sans fille et sans gendre.
+Que n'acceptais-je ce Cléandre
+Qu'un ami m'avait proposé !
+Ah ! Que je fus mal avisé !
+
+      Ha traître, il faut mourir.
+
+N'est-ce point encor m'abuser ?
+
+Je suis plein de confusion.
+Mais vous étiez tantôt Champagne.
+
+Hé bien donc, je consens à tout.
+
+
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_elise
+
+Monsieur, je m'expose au reproche,
+Et peut-être à pis, pour vous voir.
+
+Je ne respire que pour vous.
+
+Que je passe de moments rudes
+Près d'un père capricieux !
+
+Pour justifier votre foi,
+Agissez pour vous et pour moi
+Songez que je suis renfermée.
+
+Cette assurance me console.
+
+Je tremble en vous parlant ici.
+
+Épargnez-moi les déplaisirs
+Que j'aurais, si j'étais surprise.
+
+Mais mon père n'est pas bien loin ;
+Il m'observe avec tant de soin
+Que, sitôt qu'il me perd de vue,
+Il pense que je suis perdue :
+L'ombre d'un homme lui fait peur.
+
+Il est rentré par le jardin.
+
+Je n'oserais rien entreprendre.
+
+Non, non, cachons-nous à ce coin,
+Et vous, Monsieur, prenez la fuite.
+En quel état suis-je réduite !
+
+      Éloignez-vous.
+
+      N'importe,
+Retirez-vous devant qu'il sorte.
+
+      Je suis perdue,
+S'il me rencontre dans la rue.
+
+Lisette, rentrons au logis.
+
+Descends.
+
 On m'a tant vanté son adresse,
 Que déjà le désir me presse
 De voir mes cheveux en ses mains.
 
--*who_cleandre
+Que dites-vous de mes cheveux ?
+
+      Je veux
+Que vous défrisiez mes moustaches.
+
+Pour ce coup il n'importe pas.
+
+Ha, ne me pressez point, Cléandre,
+Lorsque je ne puis me défendre .
+Usez en généreux vainqueur
+De la conquête de mon coeur.
+Votre foi fait mon assurance,
+Mais faisons tout avec prudence.
+
+Oui, je consens à tout pour vous.
+À la charge que l'hyménée
+Nous unira cette journée.
+
+Sauvez-moi d'un père irrité.
+
+Comment sortir de ces alarmes ?
+
+Mon cher père, pardonnez-nous.
+
+
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
+Mon cher Guillot, je te rencontre !
+
+      Quoi, Guillot, tu soupires !
+As-tu quelque chose à me dire ?
+
+Il est ému.
+
+Toi furieux ! Depuis quel jour ?
+
+      Arrête-toi, badin.
+
+Te voilà donc bien radouci ?
+
+Tais-toi, Guillot, tu deviens fou.
+
+Finissez, j'entends Boniface ;
+Je crains bien pis que la menace.
+
+Hélas ! Sauvons-nous au plus loin !
+
+Il est au bas du grand degré,
+Il va sortir.
+
+À quoi donc aurons-nous recours ?
+
+Ma foi, l'occasion est bonne.
+
+Qui va là ?
+
+Quel est ce sot, cet impudent,
+Qui heurte avecque tant d'audace ?
+
+N'est-il pas bien Monsieur pour vous ?
+
+Entrez, Monsieur, Monsieur, entrez.
+
+Monsieur, je mettais la toilette ;
+Mademoiselle attend après.
+
+Que vous plaît-il donc, mon cher maître ?
+
+Monsieur, que je vais la faire aise !
+
+Madame, vous parlez trop haut,
+C'est là toujours votre défaut
+Votre père a l'oreille bonne.
+Comme je sais qu'il vous soupçonne,
+Et vous observe incessamment,
+Il faut parler plus nettement,
+Pour conclure votre retraite,
+Qui déjà devrait être faite
+Mais comme il est bon de presser,
+Entre vous daignez y penser.
+
+Hé bien, qu'est-ce ?
+
+Tant que nous en avons besoin.
+
+Insensé,que me veux-tu dire ?
+Penses-tu que je veuille rire ?
+
+      Tu te moques ?
+Que garde-t-on en cette coque ?
+Des pépins de coins, et de l'eau.
+
+      C'est un peu d'alun.
+
+      C'est du rouge commun.
+
+Ha ! Guillot, laisse-là le reste.
+
+Tu peux bien voir ce que tu touches.
+
+C'est pour arracher le sourcil.
+
+Si j'osais croire mon courage,
+Je déchirerais ton visage
+Mais je crains de faire du bruit.
+
+      Oui, que t'en semble ?
+
+      Tu folâtres.
+
+
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+
+Guillot, l'agréable nouvelle
+Que m'apportes-tu de ma belle !
+Quelle adresse trouverons-nous ?
+
+Guillot, il n'en faut trouver qu'une,
+Et je réponds de ta fortune.
+
+Dis.
+
+Mon heur ne se peut concevoir.
+
+Vous faites mes soins les plus doux,
+Ainsi que mes inquiétudes.
+
+C'est ce qui me rend malheureux.
+
+Ha ! Ne soupçonnez pas ma flamme,
+Je n'en sens que pour vous, Madame.
+
+Songez que vous êtes aimée,
+Et qu'il n'est rien dont un amant
+Ne vienne à bout fort aisément.
+
+L'effet suivra cette parole.
+
+Ne craignez rien, ma chère Élise.
+
+Madame, vous craignez en vain,
+Si vous ne vouliez pas l'attendre.
+
+Vous abandonner au courroux
+De ce bizarre ?
+
+Il ne me connaît point.
+
+S'il extravague, j'en rirai.
+
+      Je périrai,
+Plutôt que perdre ce que j'aime.
+
+Suis-moi je conçois un dessein
+Qui pourra réussir.
+
+Voici quelqu'un de ses voisins.
+
+      Monsieur, restez de grâce.
+
+Daignez me parler un moment.
+
+Sortez de votre illusion :
+Je suis de votre nation.
+Quoi que mon habit me déguise,
+Ma naissance me déturquise.
+
+      Non, monsieur.
+
+Un petit bout de mon histoire
+Vous en instruira pleinement.
+
+J'y trouverais trop de matière.
+
+Très volontiers ; prêtez silence.
+Mais je vois quelqu'un qui s'avance.
+
+      La reine de Pologne
+S'en allant pour trouver son roi
+Comme elle avait besoin de moi
+Pour l'entretien de sa coiffure,
+(Car je coiffe mieux qu'en peinture)
+Me voulut avoir dans son train
+Sous espérance de grand gain,
+Je suivis cette grande reine
+Qui m'a bien payé de ma peine.
+Las d'être si loin engagé,
+Je lui demandai mon congé,
+Afin de retourner en France ;
+Je l'obtins, puis en diligence
+Je m'embarquai pour mon retour.
+Mais, hélas ! Dès le premier jour,
+Venant d'éviter un naufrage,
+Je tombai dedans l'esclavage ;
+Par un vieux corsaire d'Alger,
+De chaînes je me vis charger,
+Ainsi conduit droit en Turquie,
+Où je croyais passer ma vie
+Dans le serail du Grand Seigneur,
+Où je fus placé par bonheur,
+Pour y coiffer toutes les belles,
+Et même pour veiller sur elles.
+
+Vous l'avez deviné, monsieur :
+Je suis Champagne le coiffeur.
+
+Elle m'a rendu misérable ;
+Ha ! Que les Turcs sont inhumains !
+
+Hélas !
+
+      À vous le dire,
+J'aurais trop de confusion :
+Ha ! La barbare nation !
+
+Leur rage est pourtant sans seconde.
+Las ! Que ne m'ont-ils empalé,
+Écorché tout vif et brûlé !
+J'aurais assouvi leur envie,
+Sans regret de quitter la vie.
+
+Monsieur, vous...
+
+      C'est bien mon attente
+Si l'occasion s'en pésente.
+
+Ayant servi dans le Sérail,
+Je sais ce qu'il faut que j'observe,
+Et je suis à vous sans réserve.
+
 Quoi que chacun ait ses desseins,
 Je fais toujours que ma méthode
 Est le modèle de la mode.
@@ -1117,36 +609,13 @@ Et dedans le sérail aussi,
 Si bien que je prétends encore
 Vous coiffer mieux que n'est l'Aurore.
 
--*who_elise
-Que dites-vous de mes cheveux ?
-
--*who_cleandre
 Ils sont beaux et déliés.
 
--*who_elise
-      Je veux
-Que vous défrisiez mes moustaches.
-
--*who_cleandre
 Madame, on vous les tient trop laches,
 La papillote pend trop bas.
 
--*who_elise
-Pour ce coup il n'importe pas.
-
--*who_cleandre
 Voyez, l'une en l'autre se fourre.
 
--*who_boniface
-Tournez-les bien en tire-bourre.
-Bon, c'est ainsi que je l'entends
-Pour le reste prenez du temps.
-Cependant je m'en vais écrire
-Quelques dépêches pour l'Empire.
-
-**** *book_ *id_I10 *act_I *date_1662
-
--*who_cleandre
 Après ce que j'ose pour vous,
 Madame, mon sort serait doux,
 Si l'occasion opportune
@@ -1154,50 +623,175 @@ Pouvait achever ma fortune.
 La chose est en votre pouvoir,
 Vous n'avez donc qu'à le vouloir.
 
--*who_elise
-Ha, ne me pressez point, Cléandre,
-Lorsque je ne puis me défendre .
-Usez en généreux vainqueur
-De la conquête de mon coeur.
-Votre foi fait mon assurance,
-Mais faisons tout avec prudence.
+Voyez à quoi je suis réduit,
+Et puisque la feinte est propice,
+Profitons de cet artifice
+Allons, Madame, éloignons-nous.
 
--*who_lisette
-Madame, vous parlez trop haut,
-C'est là toujours votre défaut
-Votre père a l'oreille bonne.
-Comme je sais qu'il vous soupçonne,
-Et vous observe incessamment,
-Il faut parler plus nettement,
-Pour conclure votre retraite,
-Qui déjà devrait être faite
-Mais comme il est bon de presser,
-Entre vous daignez y penser.
+J'accepte la condition.
+Donnons dedans l'occasion.
 
--*who_guillot
+Fiez-vous en ma probité.
+
+Tais-toi.
+
+Maraut, vois-tu bien ce poignard ?
+Je t'en perce de part en part,
+Si tu t'opposes à ma retraite.
+
+      Tu feras bien.
+
+Je t'en remercie.
+
+Monsieur, pour vous tirer de peine,
+Je viens...
+
+Je saurai bien m'en garantir,
+Si l'on me force à me défendre.
+
+Apprenez que je suis Cléandre,
+Qui veut devenir votre gendre.
+
+Mon dessein me peut excuser.
+
+Champagne est mon nom de campagne.
+
+Acceptez-moi pour son époux.
+
+
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
+
+Pour ce coup votre affaire est faite ;
+Monsieur, je viens de voir Lisette,
+Elle m'a dit et répété
+Qu'Élise en la captivité
+Où la retient son fol de père,
+Est dans le dessein de tout faire,
+Si vous la jugez à propos,
+Pour assurer votre repos
+
+J'en ai mille; vous moquez-vous ?
+
+Tant mieux ; mais la ferez-vous bien ?
+
+      Non, celle-là ne vaut rien.
+Je m'en vais en trouver une autre.
+Où diable est donc l'adresse nôtre ?
+Ha ! J'en tiens une... Mais voici
+Votre Élise et mon cher souci ;
+L'une et l'autre de nous s'approche.
+
+C'est mon bon démon qui me montre.
+
+Hay, hay.
+
+Devine ! Aussi bien je ne puis
+Te dire l'état où je suis ;
+Tâte-moi le pouls, je te prie.
+
+      C'est de furie.
+
+Depuis que j'enrage d'amour.
+Peux-tu n'enrager pas de même ?
+Pour peu qu'il soit vrai que tu m'aimes,
+Permets.
+
+Mon amour mourra donc de faim !
+
+Ha ! Si tu voulais, ma Lisette,
+Ma moutonne, ma brebiette,
+Mon coeur, mon tendron, mon toutou.
+
+Si tu voulais, bête farouche,
+J'apposerais dessus ta bouche
+Le cachet de mes chauds désirs.
+
+C'est qu'il n'est pas de votre humeur.
+
+Ha ! Monsieur, ne répliquez pas,
+Retirons-nous, doublons le pas
+Cet homme est prompt, il extravague,
+Il pourra donner de sa dague.
+
+Et s'il dague ?
+
+Ha ! Votre furie est extrême
+De risquer votre dernier jour
+Pour une chimère d'amour.
+
+Bien courir est un avantage
+Qui me tire d'un grand naufrage
+Grâce au ciel me voilà sauvé.
+Comment ne m'ont-ils point crevé ?
+Comment ai-je évité le piège
+De cette graine de collège ?
+Mais, après tant de coups rués,
+Suis-je point au rang des tués ?
+M'ont-ils laissé la vie entière ?
+Je suis vif devant ; par derrière
+Ne m'auraient-ils point amorti ?
+Non, ou je n'en ai rien senti.
+
+Ha ! Ce mot de latin m'assomme.
+
+      Je perds un bon métier :
+Depuis dix ans je suis portier
+Du collège de Crassinaille ;
+Mais une maudite canaille
+Que l'on instruit mal dans ce lieu,
+Soit par rancune, soit par jeu,
+Externes et pensionnaires,
+Se sont montrés mes adversaires,
+Et m'ont fait tant de maux divers,
+Que, las de les avoir soufferts,
+Afin de vivre d'autre sorte,
+Je renonce à garder la porte !
+
+      Quel moyen
+De rester parmi tant de diables
+Qui sont irréconciliables ?
+Je les ai trop désobligés,
+Ils en voudront mourir vengés
+Las ! Ils me poursuivent en poupe.
+
+Pourquoi suis-je homme de vertu ?
+Ah ! Si j'avais souffert leurs vices,
+Leurs impudences, leurs malices,
+J'aurais été portier chéri !
+Mais las ! Je serais bien marri
+D'avoir gagné leur bienveillance
+Par une lâche connivence.
+Combien ai-je empêché le cours
+De leurs criminelles amours ?
+Combien arrêté de commères,
+De revendeuses, de fruitières,
+Et d'autres gens qui, sous tels noms,
+Venaient friponner les fripons?
+
+Monsieur, je suis prêt d'obéir.
+
+Je n'aime point à sommeiller,
+Ou je dors la paupière haute ;
+Ainsi je ne puis faire faute.
+
+Oui, monsieur.
+
+C'est bien fait de m'en avertir.
+Après cela, laissez-moi faire :
+Je suis grec eu pareille affaire.
+
+      J'en meurs d'envie.
+
 Mignonne, dis-moi, la toilette...
 
--*who_lisette
-Hé bien, qu'est-ce ?
-
--*who_guillot
       Est-elle complète ?
 
--*who_lisette
-Tant que nous en avons besoin.
-
--*who_guillot
 En la mettant, as-tu pris soin
 D'y ranger toutes les denrées
 Par qui beautés sont réparées ?
 As-tu mis sous ce taffetas
 Le magasin des faux appas?
 
--*who_lisette
-Insensé,que me veux-tu dire ?
-Penses-tu que je veuille rire ?
-
--*who_guillot
 Je te prie, aimable animal,
 Ne prends pas les choses si mal.
 Avec mon humeur ingénue,
@@ -1226,36 +820,18 @@ Laisse-moi voir à mon loisir.
 Bon, voici du noir à noircir ;
 C'est pour les sourcils.
 
--*who_lisette
-      Tu te moques ?
-Que garde-t-on en cette coque ?
-Des pépins de coins, et de l'eau.
-
--*who_guillot
 Pour gommer, le secret est beau,
 Parce que la gomme arabique
 Est trop forte en cette pratique.
 Qu'est ceci ?
 
--*who_lisette
-      C'est un peu d'alun.
-
--*who_guillot
 Et là ?
 
--*who_lisette
-      C'est du rouge commun.
-
--*who_guillot
 Le vermillon et la céruse
 Seront là, si je ne m'abuse
 Ouvrons ces papiers : j'ai bien dit.
 Ne crèves-tu point de dépit?
 
--*who_lisette
-Ha ! Guillot, laisse-là le reste.
-
--*who_guillot
 Crie, ou prie, ou menace, ou peste,
 Je veux me satisfaire enfin.
 Qu'est-ce que je sens sous ma main ?
@@ -1265,10 +841,6 @@ Non, c'est un bracelet de prix ;
 Pour ce coup je me suis mépris.
 Est-ce ici que l'on prend la mouche?
 
--*who_lisette
-Tu peux bien voir ce que tu touches.
-
--*who_guillot
 Tu prends plaisir à bégayer.
 Elles sont de la Mestayer :
 Je les connais bien à la taille ;
@@ -1283,10 +855,6 @@ Quoi qu'en brun j'estime ta mine,
 Approche que je te blondine.
 À quoi sert ce petit outil ?
 
--*who_lisette
-C'est pour arracher le sourcil.
-
--*who_guillot
 Voyons tout le reste à la hâte
 De l'opiate, de la pâte,
 Tant pour les mains que pour les dents.
@@ -1304,214 +872,37 @@ Que tant de beautés qu'on adore
 Sont sans emprunt et sans défaut,
 Et je te croirai, s'il le faut.
 
--*who_lisette
-Si j'osais croire mon courage,
-Je déchirerais ton visage
-Mais je crains de faire du bruit.
-
--*who_cleandre
-Voyez à quoi je suis réduit,
-Et puisque la feinte est propice,
-Profitons de cet artifice
-Allons, Madame, éloignons-nous.
-
--*who_elise
-Oui, je consens à tout pour vous.
-À la charge que l'hyménée
-Nous unira cette journée.
-
--*who_cleandre
-J'accepte la condition.
-Donnons dedans l'occasion.
-
--*who_guillot
 La porte est ouverte, la belle,
 Enfilez vite la venelle.
 
--*who_elise
-Sauvez-moi d'un père irrité.
-
--*who_cleandre
-Fiez-vous en ma probité.
-
-**** *book_ *id_I11 *act_I *date_1662
-
--*who_guillot
 Ha ! Monsieur, que faut-il qu'on fasse ?
 Voici l'ami de Boniface.
 
--*who_thomas
-Quoi, Turc, vous quittez la maison ?
-
--*who_cleandre
-Tais-toi.
-
--*who_thomas
-      Trahison, trahison !
-
--*who_elise
-Comment sortir de ces alarmes ?
-
--*who_thomas
-Aux armes, Boniface, aux armes !
-
--*who_cleandre
-Maraut, vois-tu bien ce poignard ?
-Je t'en perce de part en part,
-Si tu t'opposes à ma retraite.
-
--*who_thomas
-La mienne sera bientôt faite,;
-Monsieur, je ne m'oppose à rien,
-Car j'aurais tort.
-
--*who_cleandre
-      Tu feras bien.
-
--*who_thomas
-Si vous avez besoin d'escorte...
-
--*who_cleandre
-Je t'en remercie.
-
--*who_thomas
-      À ma porte,
-Et devant moi me maltraiter
-Je devais bien les arrêter.
-
--*who_guillot
 Hé quoi, coquin, tu nous regardes !
 As-tu point peur qu'on te poignarde ?
 
--*who_thomas
-Monsieur, je ne regarde pas.
-
--*who_guillot
 Vois-tu, si...
 
--*who_thomas
-      Je mets armes bas.
-Boniface en tient pour son compte.
-
-**** *book_ *id_I12 *act_I *date_1662
-
--*who_boniface
-Allons réparer notre honte.
-
--*who_thomas
-Où sont-ils ? Qu'est-ce qui va là ?
-C'est donc vous, traistre !
-
--*who_boniface
-      Hola, hola.
-
--*who_thomas
-Morbleu, je ne fais point de grâce.
-
--*who_boniface
-Doucement je suis Boniface.
-Avecque ce maudit outil
-Vous m'avez blessé le nombril.
-
--*who_thomas
-Mon pauvre ami, c'est chose faite,
-Les enleveurs ont fait retraite
-J'en suis encor tout plein d'effroi.
-
--*who_boniface
-Quoi, l'on abuse ainsi de moi !
-Qu'en dira-t-on parmi la ville ?
-
--*who_thomas
-Pourquoi refuser votre fille
-À des partis avantageux ?
-
--*who_boniface
-Hélas, que je suis malheureux
-Je me vois sans fille et sans gendre.
-Que n'acceptais-je ce Cléandre
-Qu'un ami m'avait proposé !
-Ah ! Que je fus mal avisé !
-
-**** *book_ *id_I13 *act_I *date_1662
-
--*who_thomas
-Voisin, notre mort est certaine.
-
--*who_cleandre
-Monsieur, pour vous tirer de peine,
-Je viens...
-
--*who_boniface
-      Ha traître, il faut mourir.
-
--*who_cleandre
-Je saurai bien m'en garantir,
-Si l'on me force à me défendre.
-
--*who_guillot
 Dites que vous êtes son gendre;
 Aussi bien il s'en faut très peu.
 
--*who_thomas
-Je n'ose me mêler au jeu.
-
--*who_cleandre
-Apprenez que je suis Cléandre,
-Qui veut devenir votre gendre.
-
--*who_boniface
-N'est-ce point encor m'abuser ?
-
--*who_cleandre
-Mon dessein me peut excuser.
-
--*who_guillot
 Pour rendre t'excuse parfaite,
 J'offre aussi d'épouser Lisette.
 
--*who_thomas
-Je suis d'accord de l'union.
-
--*who_boniface
-Je suis plein de confusion.
-Mais vous étiez tantôt Champagne.
-
--*who_cleandre
-Champagne est mon nom de campagne.
-
--*who_elise
-Mon cher père, pardonnez-nous.
-
--*who_cleandre
-Acceptez-moi pour son époux.
-
--*who_guillot
 Mon maître est homme de mérite ;
 D'ailleurs je vous en sollicite.
 
--*who_boniface
-Hé bien donc, je consens à tout.
-
--*who_guillot
 Lisette, nous sommes au bout
 De nos travaux.
 
--*who_lisette
-      Oui, que t'en semble ?
-
--*who_guillot
 Que nous serons bientôt ensemble,
 Et que devant trois fois trois mois
 Tu chanteras à pleine voix
 Des petits pâtés.
 
--*who_lisette
-      Tu folâtres.
-
--*who_guillot
 Tu te feras tenir à quatre,
 Quand viendront ces petits marmots.
 Que nous en aurons de Guillots
 La race de ta Guillotière
 Sera comme une pépinière.
+

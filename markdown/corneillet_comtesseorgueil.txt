@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_comtesseorgueil  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1671  
 title: La Comtesse d'orgueil. Comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: calprenede_phalante  
-creator: La Calprenède, Gautier de Coste  
+creator: La Calprenède, Gautier de Coste ; Georges Forestier.  
 date: 1642  
 title: Phalante. Tragédie.  
 ---

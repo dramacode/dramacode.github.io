@@ -1,6 +1,6 @@
 ---
 identifier: durval_agarite  
-creator: Durval, Jean-Gilbert  
+creator: Durval, Jean-Gilbert ; Georges Forestier.  
 date: 1636  
 title: Agarite. Tragi-comédie  
 ---

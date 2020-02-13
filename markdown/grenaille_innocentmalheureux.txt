@@ -1,6 +1,6 @@
 ---
 identifier: grenaille_innocentmalheureux  
-creator: Grenaille, François de  
+creator: Grenaille, François de ; Georges Forestier.  
 date: 1639  
 title: L'Innocent malheureux ou La Mort de Crispe. Tragédie  
 ---

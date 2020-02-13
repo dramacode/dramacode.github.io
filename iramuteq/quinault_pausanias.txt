@@ -1,178 +1,12 @@
 
 
-**** *book_ *id_body-1 *date_1669 *creator_quinault
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pausanias
 
-A MONSEIGNEUR MONSEIGNEUR LE DUC DE MONTAUSIER,PAIR DE FRANCE, CHEVA lier des Ordres du Roi, Gouver neur & Lieutenant General d'Angommois, Xaintonge, hau te et basse Alsace, Commandant pour sa Majesté en Normandie, Gouverneur de MONSEIGNEUR LE DAUPHIN, &c.
-
-MONSEIGNEUR,
-
-Vous ne doutez pas qu'une Elevation aussi glorieuse que la vostre ne soit d'ordinaire exposée à des importunitez inévitables.
-C'est une necessité que vous enduriez les applaudissemens du Parnasse en suitte des complimens de la Cour, & tandis que la plupart de ceux qui se mêlent d'écrire s'empresse à vous fatiguer par de grands Ouvrages, je m'asseure que je vous ferai plaisir de vous en quitter pour une simple Epistre.
-J'essayerai (MONSEIGNEUR) en vous offrant cette Tragedie de vous épargner la mauvaise odeur d'encens trop commune dont on a coutume d'accompagner ces especes de dedicaces ; j'oserai toutefois vous dire que ce ne sera pas à dessein de m'accommoder à la répugnance naturelle que je sçais que vous avez pour les loüanges : ce n'est plus une délicatesse qui vous soit permise  ; & dans le Rang où vous estes, l'exacte Modestie si recommandable pour les autres hommes est une Vertu qui cesse d'estre à vostre usage.
-En effet (MONSEIGNEUR) aprés que le plus éclairé des Monarques vous a jugé digne d'être Depositaire de ce qu'il a de plus precieux, & que sa Sagesse n'a voulu confier qu'à vous ses plus cheres Esperances, il est de la reconnoissance que vous devez à l'honneur d'un si juste choix de ne pas empêcher que l'on publie les avantages qui vous l'ont fait meriter.
-Il faut que vous consideriez que ce n'est pas sur vous seul que reflechissent les Eloges que l'on vous adresse, & vous estes obligé de vous souvenir que vostre Gloire ne doit pas faire une des moindres parties de Celle du plus grand Roi du Monde.
-Mais à dire vrai (MONSEIGNEUR) une matière si noble perdroit trop de son excellence entre mes mains, & je me croirois en peril de la profaner si je me hazardois d'y toucher davantage ; je sens que ma foiblesse m'arreste, et je crains déja d'avoir abusé d'un temps qui n'est reservé qu'à des occupations de la derniere consequence, & dont le Gouvernement de trois ou quatre Provinces n'est que le soin le moins considerable.
-C'est ce qui me fait precipiter l'offre que je vous fais de Pausanias, en vous protestant que je suis avec autant de passion que de respect.
-
-MONSEIGNEUR,
-
-Votre tres-humble et tres- obeïssant serviteur,
-
-QUINAULT.
-
-**** *book_ *id_body-2 *date_1669 *creator_quinault
-
-EXTRAIT DU PRIVILEGE du Roy.
-
-Par Grace & Privilege du Roy , donné à Paris le vingt-deuxiéme jour de Janvier 1669.
-Si- gné, par le Roy en son Conseil AUI DE. Il est per- mis au Sieur QUINAULT , de faire imprimer une piece de Theatre, par luy composée, intitulée Pausanias, & deffenses sont faites à tous les Librai- res, Imprimeurs & autres , de l'imprimer , ven- dre ny debiter pendant sept ans sur peine de con- fiscation des Exemplaires, de tous dépens, dom- mages & interests , & de quinze cent livres d'a- mende , comme il est plus au long porté par les- dites Lettres de Privilege, Et ledit Sieur Quinault à cédé le Privilège cy- dessus à Guillaume de Luyne, Marchand Li- braïre à Paris, suivant l'accord fait entr'eux.
-
-Achevé d'imprimer le 14 FEVRIER 1669.
-
-Registré sur le livre de la Communauté , le 24 Janvier 1669.
-
-A. SOUBRON Syndic.
-
-**** *book_ *id_I01 *act_I *date_1669 *creator_quinault
-
--*who_demarate
-Il le faut avoüer, rien n'est plus éclattant
-Que le supréme honneur du destin⁎ qui m'attend.
-L'hymen⁎ m'offre un Epoux que l'Univers admire,
-C'est par luy que des Grecs la liberté respire.
-Nostre illustre Pays qui depuis si long-temps
-A presque autant produit de Heros que d'enfans,
-Sparte, jusques ici pour sa gloire⁎ immortelle
-N'a point fait naître encor de Roi si digne d'elle.
-C'est sous ce General que l'on vient dans nos champs
-D'immoler en un jour trois cens mille Persans,
-Et que par un effort de valeur sans seconde
-La Grece échappe au joug qui soûmet tout le Monde
-De plus Pausanias n'est point de ces Guerriers
-Dont la teste ait blanchi sous le faix des Lauriers,
-Qui soit monté par l'âge à des grandeurs solides,
-Et dont la Renommée ait attendu les rides.
-Sur le front d'un Héros si fameux, si vaillant,
-L'éclat⁎ de la jeunesse est encor tout brillant.
-Vainqueur qu'il est d'un Roi le plus grand de la Terre,
-Il peut pretendre à vaincre ailleurs que dans la Guerre,
-Et la Paix qu'à la Grece il asseure aujourd'hui
-Peut reserver encor des conquestes pour lui.
-Cependant sur le point du pompeux hymenée⁎
-Qui doit à ce grand homme unir ma destinée⁎,
-Puis-je oser découvrir à ton zele discret
-L'invincible chagrin qui m'accable en secret.
-
--*who_charile
-Vous du chagrin, Madame ? en est-il qui vous presse
-Si prés du plus haut rang que puisse offrir la Grece,
-Le vainqueur des Persans, le grand Pausanias,
-Tout aimable qu'il est, ne vous plairoit-il pas ?
-Quel charme y peut manquer⁎ pour l'ame la plus vaine⁎ ?
-
--*who_demarate
-Il ne me plaist que trop, Charile, & c'est ma peine,
-Si mon cœur simplement n'estoit qu'ambitieux
-L'éclat⁎ de son hymen⁎ éblouïroit⁎ mes yeux.
-Mon orgueil trouveroit au seul nom de sa femme
-Dequoi pouvoir remplir tous les vœux de mon ame.
-J'examinerois peu s'il m'aimoit plus ou moins ;
-Je ne prendrois pas garde aux tiedeurs de ses soins⁎ ;
-Et l'heur⁎ d'atteindre au rang le plus beau de la Grece
-Pourroit me consoler de perdre sa tendresse⁎.
-Mais j'aime, & c'est mon mal ; le Ciel pour ce Héros
-M'a fait un cœur sensible, & trop, pour mon repos,
-Et depuis qu'à l'Amour⁎ on se laisse surprendre⁎
-Il en couste bien cher d'avoir un cœur trop tendre.
-
--*who_charile
-Pausanias, Madame, encor jusqu'aujourd'hui
-Vous a peu donné lieu de vous plaindre de lui,
-Et vostre ame inquiete en doutant qu'il vous aime
-Est trop ingenieuse à se troubler⁎ soi-mesme.
-Je ne sçaurois penser que vous en jugiez bien.
-
--*who_demarate
-Tu peux croire qu'il m'aime, & je n'en croirois rien,
-Non, non, s'il estoit vrai j'en serois trop certaine,
-Je le souhaite assez pour le croire sans peine,
-Et pour peu que son cœur pour moy pût s'émouvoir
-Je serois la premiere à m'en apercevoir.
-Depuis un mois entier que je suis à Bizance
-J'observe en me voyant qu'il se fait violence,
-Et que sous la couleur de ses soins⁎ importans
-Toûjours sur nostre hymen⁎ il cherche à gagner temps.
-
--*who_charile
-Son embarras⁎ l'excuse, il est Chef d'une armée
-Jalouse de son rang & de sa renommée ;
-Et les Persans sur terre entierement deffaits,
-Sont encor sur la mer aussi forts que jamais.
-Le cœur d'un grand Guerrier peut aimer comme un autre ;
-Mais sa façon d'aimer differe de la nostre ;
-Ces Heros que la guerre occupe nuit & jour
-Ont peu de temps de reste à donner à l'Amour⁎.
-
--*who_demarate
-La valeur ne rend pas une ame moins sensible,
-Et la Guerre & l'Amour⁎ n'ont rien d'incompatible.
-Quelqu'heure dérobée aux soins⁎ de sa grandeur,
-Un doux amusement d'une agreable ardeur,
-Un peu d'amour⁎ enfin aprés une victoire
-Peut bien s'accommoder avec toute sa gloire⁎,
-Et loin qu'il fust pour lui honteux de s'enflammer,
-Pour comble de merite il lui manque⁎ d'aimer.
-
--*who_charile
-Croïez vous que son cœur soit toûjours insensible ?
-
--*who_demarate
-Non, je croi qu'à l'Amour⁎ il n'est rien d'impossible ;
-Mais s'il te faut tout dire il pourroit s'enflamer,
-Charile, & n'aimer pas ce qu'il devroit aimer.
-Depuis que Cleonice est ici prisonniere,
-Voi quels soins⁎ il lui rend…
-
--*who_charile
-      C'est à vostre priere.
-N'avez vous pas pour elle imploré son secours ?
-
--*who_demarate
-Je ne l'ai pas prié de la voir tous les jours.
-
--*who_charile
-Mais pouvez vous penser qu'il s'attache à lui plaire,
-Lui qu'elle sçait autheur de la mort de son Père,
-Lui contre qui la haine a sceu tant s'expliquer…
-
--*who_demarate
-C'est peut-estre en effet ce qui le peut piquer ;
-Et cette haine à vaincre avec toute sa force
-N'est pour un cœur si fier qu'une trop douce amorce
-Mais avant que je montre aucun ressentiment
-Je veux sur ce soupçon m'éclaircir plainement.
-J'en conçoi des moïens qui devront te surprendre⁎
-Et dont malaisement on pourra se deffendre.
-D'un art⁎ si peu commun…
-
--*who_charile
-      Voicy Pausanias,
-
--*who_demarate
-Ce n'est pas moi qu'il cherche, il ne m'apperçoit pas.
-
-**** *book_ *id_I02 *act_I *date_1669 *creator_quinault
-
--*who_pausanias
 Voir un autre à ma honte obtenir Cleonice,
 Non, non, auparavant il faut que je périsse,
 Puisqu'on veut tout tenter employons tout aussi,
 Allons sçavoir…
 
--*who_eurianax
-      Seigneur, Demarate est icy.
-
--*who_pausanias
 Madame, pardonnez au transport⁎ qui m'anime⁎,
 On n'en conceut jamais qui fut plus legitime.
 Un jeune Athénien au mépris de mes droits
@@ -189,18 +23,7 @@ Déja pour l'obtenir sa caballe est si forte,
 Que peut estre à ma honte, il faudra qu'il l'emporte,
 Et qu'il oste à mes vœux tout ce qu'auroit de doux
 La gloire⁎ d'un dessein⁎ que j'avois fait pour vous.
-
--*who_demarate
-N'écoutez point, Seigneur, d'interest que le vôtre,
-C'est celui qui me touche au dessus de tout autre,
-Et si j'ay sur ce choix pû vous solliciter
-Je ne prevoyois pas qu'il vous dût tant couster :
-Pour peu que votre gloire⁎ en ce dessein⁎ hazarde
-Cleonice & son sort⁎ n'ont rien que je regarde,
-Je n'y prens plus de part, & vous devez penser
-Qu'entre elle & vous mes vœux n'ont guere à balancer.
-
--*who_pausanias 
+ 
 Je ne puis plus quitter ce dessein⁎ qu'avec honte,
 Ce seroit de mon rang faire trop peu de conte,
 Ce seroit exposer ma dignité, mes droits,
@@ -225,51 +48,11 @@ Je dois mesme avoir soin⁎ avant nostre hymenée⁎
 D'affermir la grandeur qui vous est destinée⁎,
 D'assurer pour vous mesme un solide pouvoir…
 
--*who_demarate
-Je vous entens Seigneur, & je sçai mon devoir.
-Je voi ce qui vous plaist, & je cherche à vous plaire.
-Vous voulez que l'hymen⁎ entre nous se differe ;
-Sans chercher de raisons, sans m'expliquer pourquoi,
-Vous le voulez, Seigneur, & c'est assez pour moi.
-Si mesme vous craignez que Sparte ne s'offence
-Du delay d'un hymen⁎ qui fait son esperance,
-Publiez que c'est moi qui seule ai differé,
-Si mon aveu vous sert il vous est assuré.
-Ne regardez que vous.
-
--*who_pausanias
       Ah ! c'en est trop, Madame,
 Pour peu que ce delay puisse gesner⁎ vostre ame,
 A moins que sans regret vous n'en tombiez d'accord,
 Si vous n'y consentez⁎ sans peine & sans effort…
 
--*who_demarate
-Ah ! Seigneur, j'y consens, cela vous doit suffire
-Vostre hymen⁎ seul n'est pas tout le bien où j'aspire,
-Ce n'est pas malgré vous que j'y veux parvenir,
-C'est peu que Sparte seule ait soin⁎ de nous unir ;
-Si l'amour⁎ ne prend part à nostre destinée⁎,
-Et ne se mesle un peu d'un si grand hymenée⁎.
-Pour estre au point qui peut rendre mes vœux contens,
-Vostre cœur a besoin encor de quelque temps :
-Bien que l'ordre de Sparte ait à mon avantage
-Enjoint expressément qu'un si grand cœur s'engage.
-Je veux bien, sans jamais abuser de mes droits,
-Aprés l'ordre de Sparte, attendre encor son choix,
-Et pour mettre le comble à mon bon-heur extréme,
-Luy donner le loisir de se donner luy mesme,
-Aprés cela de peur de vous embarasser,
-Seigneur je me retire, & vous laisse y penser.
-
-**** *book_ *id_I03 *act_I *date_1669 *creator_quinault 
-
--*who_eurianax
-De si beaux sentimens où tant d'amour⁎ s'exprime,
-Meritent bien, Seigneur, tout au moins vostre estime,
-Et ce soûpir paroist me dire en sa faveur,
-Qu'un procédé si noble a touché vostre cœur.
-
--*who_pausanias
 J'estime Demarate ; & tout m'en sollicite,
 Je connois son amour⁎, je vois tout son merite,
 J'en sçai trop bien le prix, j'en admire l'éclat⁎ ;
@@ -289,27 +72,8 @@ Je ne t'en dois pas moins que le premier aveu.
 Aprens Eurianax toute mon injustice,
 J'aime ailleurs.
 
--*who_eurianax
-      Vous Seigneur ?
-
--*who_pausanias
       Et j'aime Cleonice.
 
--*who_eurianax
-Cleonice, Seigneur, est aimable à vos yeux ?
-Elle qui sort d'un sang à la Grece odieux ?
-Qui sçait que vous avez par un devoir severe
-Hai, poursuivi, pris, & condamné son Pere ?
-Qui pour vanger sa mort avec des soins⁎ pressans
-A suivi le débris du party des Persans,
-Et s'est si hautement promise pour Conqueste
-A quiconque en ses mains remettroit vostre teste.
-Enfin vous flattez vous qu'au mépris de son choix,
-Sparte approuve des feux qui choqueront⁎ ses Loix⁎,
-Et que la Grece entiere encor mal affermie,
-Souffre en son General l'amour⁎ d'une ennemie.
-
--*who_pausanias
 Tout ce que tu peux voir je l'ay vû comme toy,
 Je sçai qu'en ce dessein⁎ tout s'arme contre moy,
 Je sçai que mon amour⁎ n'a d'espoir qu'aux miracles,
@@ -329,47 +93,18 @@ J'ose au moins dédaigner une amour⁎ ordinaire,
 Et n'ay pas crû qu'aimer avec un plein repos,
 Sans peine, sans peril fut aimer en Heros.
 
--*who_eurianax
-Dans ce dessein⁎ sur tout gardez vous d'Aristide,
-S'il est des mécontens c'est luy seul qui les guide
-Sous le grand nom de Juste il cache un cœur jaloux
-Du pouvoir que les Grecs n'ont confié qu'à vous.
-
--*who_pausanias
 Je le sçay, mais passons, je le voy qui s'avance.
 
-**** *book_ *id_I04 *act_I *date_1669 *creator_quinault
-
--*who_aristide
-De vos amis, Seigneur, fuyez vous la presence,
-Vostre entretien pour eux est-il si peu permis…
-
--*who_pausanias
 Je ne fuys qu'Aristide, & connois mes amis,
 J'évite un entretien qui pourroit le contraindre,
 Et Juste comme il est il ne doit pas s'en plaindre.
 
--*who_aristide
-Quoy ne puis-je esperer, Seigneur d'estre éclairci
-De ce qui vous oblige à me traitter ainsi ?
-Ne m'apprendrez vous point par un aveu sincere
-Quel crime ou quel malheur me force à vous déplaire ?
-Expliquez moy du moins en quoi j'ai pû manquer⁎.
-
--*who_pausanias
 Puisque vous le voulez je vais donc m'expliquer.
 L'art⁎ de dissimuler ce qu'on reçoit d'outrages
 N'est pas à mon avis fait pour les grands courages⁎,
 Et je ne puis conter qu'entre mes ennemis,
 Quiconque aspire au rang où la Grece m'a mis.
 
--*who_aristide
-Moy, Seigneur, que j'aspire à ce rang plein de gloire⁎,
-M'avez vous pû connoistre, & l'avez vous pû croire ;
-Et m'est-il échappé dans la moindre action
-Rien qui m'ait convaincu d'aucune ambition ?
-
--*who_pausanias
 Vous vous déguisez bien sans doute, & je confesse
 Qu'en vous l'ambition se cache avec adresse,
 J'y fus trompé d'abord, mais j'ouvre enfin les yeux
@@ -383,13 +118,6 @@ Pour rendre de mon rang la hauteur odieuse,
 Vostre art⁎ à colorer l'orgueil de vos desseins,
 Si rien n'allarme en vous, c'est tout ce que j'y crains.
 
--*who_aristide 
-Je serai bien coupable en effet, si c'est crime
-Seigneur, que d'adoucir ceux que l'aigreur anime⁎,
-D'appaiser des mutins qui pourroient s'emporter,
-D'empécher contre vous leur fureur d'éclatter.
-
--*who_pausanias
 Je connois vostre adresse à sçavoir vous deffendre,
 Et je la connois trop pour m'y laisser surprendre⁎ ;
 Vous estes éloquent, Seigneur, je le sçai bien :
@@ -406,12 +134,6 @@ Du moins si vous vouliez cacher vostre artifice⁎
 Vous ne me deviez pas disputer Cleonice :
 Choquer⁎ d'un General le choix jusqu'à ce point.
 
--*who_aristide
-De grace avec Cymon ne me confondez point,
-Seigneur, c'est de lui seul que part cette injustice :
-Lui seul…
-
--*who_pausanias
       Eh vous croïez que ce nom m'éblouïsse⁎,
 Qu'il m'empéche de voir que c'est un voile adroit
 Dont vous cachez la main qui m'attaque en secret,
@@ -424,235 +146,16 @@ Qu'il sauve vostre gloire⁎ aux perils de la sienne,
 Et que quand au besoin l'injustice vous sert,
 Son nom seul s'en chargeant vous en mette à couvert.
 
--*who_aristide
-C'est un mal-heur pour moi de perdre vostre estime,
-Seigneur, mais vos mépris n'auront rien qui m'anime⁎ ;
-Et quoi que le vangeance en fut en mon pouvoir,
-Je ne m'en vangerai qu'en faisant mon devoir⁎ ;
-J'accuse mon Ami d'une injustice extrême,
-Et me déclare⁎ enfin pour vous contre lui-même.
-
--*who_pausanias
 Vous, Seigneur, vous pour moi, contre un Ami si cher ?
 
--*who_aristide
-Toûjours à son parti l'on m'a vû m'attacher,
-Toûjours mon amitié fut pour lui tendre & pure,
-Et si vous le voulez il est ma creature :
-Mais quelque cher enfin qu'il me soit aujourd'hui
-La justice est pour vous je ne suis plus pour lui.
-
--*who_pausanias
 Un sentiment si noble, une vertu⁎ si pleine…
-
--*who_aristide
-Epargnez moi de grace une loüange vaine⁎,
-La gloire⁎ où je pretens touche peu d'autres cœurs,
-Je la cherche en moi-mesme & n'en veux point d'ailleurs.
-Assemblez le Conseil, demandez Cleonice,
-J'irai donner l'exemple à vous rendre justice.
-
--*who_pausanias 
+ 
 Que ne vous dois-je pas Seigneur, & quel moïen…
 
--*who_aristide
-Je fais ce que je dois, vous ne me devez rien.
-
-**** *book_ *id_I05 *act_I *date_1669 *creator_quinault
-
--*who_sophane
-Quoi Seigneur au mépris d'une amitié si tendre
-Pausanias obtient tout ce qu'il peut pretendre ?
-D'un ami tout à vous, l'interest sera vain ?
-
--*who_aristide
-J'en ai donné parole & rien n'est plus certain.
-
--*who_sophane
-S'il est ainsi toûjours, si l'équité severe
-Etouffe en vous ainsi l'amitié la plus chere,
-Si vous n'osez jamais rien qui ne soit permis,
-Que sert-il donc, Seigneur, d'estre de vos Amis ?
-
--*who_aristide
-Hé puis-je à mes Amis rendre un plus grand service,
-Que de les empêcher de faire une injustice ;
-Ce n'est pas qu'en effet à vous parler sans fard⁎
-La Politique ici ne prenne un peu de part :
-Vous sçavez mon dessein⁎, Sophane, & quelles peines
-Je souffre à voir toûjours Sparte au dessus d'Athenes,
-Et combien ardamment je cherche quelque jour
-A mettre au premier rang ma Patrie à son tour.
-Si j'obtiens par mes soins⁎ que Sparte enfin nous laisse
-Le droit de commander aux troupes de la Grece,
-J'ai déclaré⁎ déjà que sans songer à moi
-J'en cedde à mon Ami le glorieux emploi :
-Voila ce que pour lui mon amitié veut faire,
-C'est pour mieux le servir que je lui suis contraire.
-Son soin⁎ pour Cleonice est un peu trop pressant,
-Elle est belle, il est jeune, & l'Amour⁎ est puissant,
-Tout est perdu pour lui si cet amour⁎ ne cesse ;
-Cleonice est d'un sang odieux à la Grece,
-Plein de rage de voir ses voisins florissans
-Son Pere pour nous perdre appella les Persans,
-Elle a trop herité des fureurs de son Pere,
-Tout doit estre suspect de qui cherche à lui plaire.
-J'etouffe en mon Ami de dangereux soûpirs,
-Je consulte sa gloire⁎ & non pas ses desirs,
-Et pretens d'autant plus faire voir que je l'aime,
-Que j'ose le servir en dépit⁎ de lui même ;
-Mais pour l'y preparer prenons soin⁎ de le voir,
-Et qu'il s'en plaigne ou non faisons nostre devoir.
-Fin du premier Acte.
-
-**** *book_ *id_II01 *act_II *date_1669 *creator_quinault
-
--*who_cleonice
-Cesse de me flatter d'une attente importune,
-Je connois mieux que toi toute mon infortune,
-Le soin⁎ de Demarate & son empressement⁎,
-La part que l'on me donne en son appartement,
-L'honneur qu'en ce Palais chacun cherche à me rendre,
-Ne me font que trop voir de qui je dois dépendre ;
-L'ennemi de mon Pere & l'autheur de sa mort,
-Pausanias, sans doute, est maistre de mon sort⁎.
-
--*who_stratone
-Pausanias, Madame, a fait assez connoistre,
-Que c'est pour l'adoucir qu'il veut s'en rendre maistre.
-Parmi les prisonniers le choix qu'il fait de vous,
-Ne vous doit de sa part rien marquer que de doux,
-Et s'il vous a donné quelque lieu de vous plaindre.
-Je croi que desormais vous devez n'en rien craindre.
-
--*who_cleonice
-N'en rien craindre Stratone ?
-
--*who_stratone
-      En doutez vous ?
-
--*who_cleonice
-      Helas !
-
--*who_stratone
-Quoi soûpirer, rougir, & ne répondre pas.
-
--*who_cleonice
-N'impute ce soûpir qu'à la perte d'un Pere.
-
--*who_stratone
-On peut en soûpirer, mais on n'en rougit guere,
-Et plus je vous observe en ce trouble⁎ pressant…
-
--*who_cleonice
-Ha de peur d'en trop voir ne m'observe pas tant.
-
--*who_stratone
-Je n'ai garde de prendre un soin⁎ qui vous offence,
-N'y d'entrer malgré vous dans vostre confidence.
-Je n'examine plus ce qui peut vous troubler⁎.
-
--*who_cleonice
-Non, Stratone, avec toi c'est trop dissimuler,
-C'est trop te déguiser la honte qui me presse,
-Jusqu'au fond de mon cœur voi toute ma foiblesse,
-Pour chercher du secours mon mal n'est que trop grand,
-Et je n'en puis trouver qu'en te le découvrant.
-Malgré tous mes efforts j'en sens la violence,
-Au lieu de s'étouffer grossir par mon silence,
-Et le trouble⁎ où me jette un funeste⁎ penchant,
-Se prevaut de ma honte & croist en se cachant.
-Aprens ce que j'ai peine à comprendre moi-même,
-Tout mon ressentiment, dans sa chaleur extréme,
-Tout l'effort, tout l'excez de la mortelle horreur⁎,
-Qui pour Pausanias avoit saisi mon cœur,
-L'ardeur de l'immoler au sang qui me fit naistre,
-Tout mon soin⁎ pour le perdre avant que le connoistre,
-Par je ne sçai quel charme en mon cœur répandu,
-Tout cela s'est éteint depuis que je l'ai vû,
-Et d'un trouble⁎ secret mon ame toute émeuë
-Ne sçait ce que pour lui ma haine est devenuë ;
-Je n'ose en cet estat trop bien m'éxaminer :
-Ose achever toi mesme, ose tout deviner,
-Et m'épargne du moins dans cet aveu funeste⁎
-La honte, & l'embarras⁎ d'en expliquer le reste.
-
--*who_stratone
-Qui croiroit qu'un grand cœur dans la haine affermi,
-Eust à craindre d'aimer un mortel ennemi.
-J'avouërai ma surprise & d'autant plus Madame,
-Que rien n'est échappé du secret de vostre ame,
-Et que vostre courroux en secret amorti,
-Devant Pausanias ne s'est point dementi.
-
--*who_cleonice
-Ouï mon ressentiment au moins en apparence,
-Garde avec soin⁎ toûjours la mesme violence :
-Mes yeux ne disent rien d'un changement si bas,
-Si mon cœur est seduit ma raison ne l'est pas,
-Et ma haine au dedans connoissant sa foiblesse,
-Se retranche au dehors & s'y rend la maistresse.
-Je crains Pausanias, j'essaïe à l'éviter,
-Mais j'aime en le fuïant qu'il tâche à m'arrester ;
-J'ai beau dés qu'il me parle avec soin⁎ l'interrompre,
-Ma colere s'oublie, & se laisse corrompre ;
-J'ai beau vouloir fermer l'oreille à ses discours,
-J'ai beau n'en rien entendre⁎ il m'en souvient toûjours.
-
--*who_stratone
-Pour vous en consoler on voit dans ce qu'il ose
-Qu'il n'est pas insensible au trouble⁎ qu'il vous cause,
-Que son cœur…
-
--*who_cleonice
-      Que dis-tu ? dy plûtost dy moi bien
-Qu'endurci dans la Guerre il n'est sensible à rien,
-Dy que sa seule ardeur est toute pour la gloire⁎,
-Dy qu'il ne peut m'aimer j'ai besoin de le croire,
-Et mon mal n'est déja que trop à redouter,
-Sans y rien joindre encor qui le puisse augmenter,
-Dy qu'il donne les soins⁎ qu'il s'attache à me rendre
-A la part qu'en mon sort⁎ Demarate veut prendre,
-Et qu'au point comme il est de recevoir sa foi⁎,
-Ce n'est qu'en sa faveur qu'il s'empresse pour moi.
-Pein moi bien cet hymen⁎ que leur Païs souhaite,
-Cet hymen⁎ dont je sens que mon coeur s'inquiete,
-Cet hymen⁎ qui peut seul raffermir mon devoir,
-Et m'oster ma foiblesse en m'ostant tout espoir.
-
--*who_stratone
-L'ardeur que Demarate à vous servir emploïe,
-Vaut bien que vous voïez son bon-heur avec joïe,
-Elle est digne en effet d'un rang si glorieux,
-Et Sparte pour son Roi ne pouvoit choisir mieux :
-Il doit l'aimer sans peine & son merite extréme…
-
--*who_cleonice
-C'est assez qu'il l'épouse, il n'importe qu'il l'aime
-C'en seroit trop, peut-estre, & pour me rendre à moi,
-Sans que son cœur s'engage il suffit de sa foi⁎.
-Je sens que jusques là j'aurai peine à détruire
-Je ne sçai quel espoir qui cherche à me seduire,
-Je le chasse, il revient, je l'étouffe, il renaist…
-Mais Dieux !
-
--*who_stratone
-      Vous vous troublez⁎,
-
--*who_cleonice
-      Pausanias paroist.
-
-**** *book_ *id_II02 *act_II *date_1669 *creator_quinault
-
--*who_pausanias
 Quoi malgré tous mes soins⁎ vostre invincible haine
 Ne vous permet jamais de me voir qu'avec peine :
 Quoi, Madame, à la fuite avoir toûjours recours ?
 
--*who_cleonice
-Je ne fuy pas trop bien, vous m'arrestez toûjours.
-
--*who_pausanias
 Ce que je vois dois dire est assez d'importance
 Pour vous faire un moment endurer ma presence.
 De tous nos prisonniers je n'ai choisi que vous,
@@ -662,10 +165,6 @@ Mon choix est approuvé les Grecs me font justice.
 Je suis maistre absolu de tout vostre destin⁎,
 C'est à dire qu'ici vous estes libre enfin.
 
--*who_cleonice 
-Libre ! & par vous Seigneur !
-
--*who_pausanias
       Vostre ame s'en estonne⁎,
 La liberté vous gesne⁎ à voir qui vous la donne,
 Et perdant par mes mains tous ses charmes pour vous,
@@ -674,11 +173,6 @@ Mais malgré vostre haine & le soin⁎ qui vous presse,
 N'est-il rien qui vous puisse attacher à la Grece ?
 Me fuirez vous si tost ?
 
--*who_cleonice
-      Voïez ce que je doi :
-Et vous mesme Seigneur, répondez vous pour moi.
-
--*who_pausanias
 D'avec ses ennemis sans peine on se separe ;
 Mais connoissez mon cœur, il faut qu'il se declare,
 Il est temps de l'ouvrir sans reserve, sans fard⁎ :
@@ -731,26 +225,13 @@ Parlez, declarez vous, mais au lieu de répondre
 D'où vient que vous semblez vous troubler⁎, vous confondre,
 Comment de vostre cœur expliquer l'embarras⁎ ?
 
--*who_cleonice
-Excusez-le de grace & ne l'expliquez pas.
-
--*who_pausanias
 J'obeïrai, Madame, & de peur que ce trouble⁎
 Par l'objet⁎ qui l'excite⁎ encor ne se redouble,
 Pour ne vous pas surprendre⁎ un choix precipité
 Je veux bien vous laisser en pleine liberté,
 Et vous donner le droit malgré le rang suprême,
 De pouvoir tout ici jusques contre moi même.
-
-**** *book_ *id_II03 *act_II *date_1669 *creator_quinault
-
--*who_demarate
-On vient de m'avertir que suivant nostre espoir
-Le sort⁎ de Cleonice est en vostre pouvoir ;
-Mais Seigneur j'ose attendre une grace nouvelle,
-Et viens vous demander la liberté pour elle.
-
--*who_pausanias 
+ 
 Son sort⁎ merite bien que vous y preniez part.
 Mais pour sa liberté vous venez un peu tard.
 Ouï c'en est déja fait elle est libre Madame,
@@ -762,435 +243,18 @@ D'essayer d'adoucir une haine funeste⁎,
 Et s'il se peut enfin d'obliger son courroux
 A ne connoistre plus d'ennemis parmi nous.
 
-**** *book_ *id_II04 *act_II *date_1669 *creator_quinault
-
--*who_demarate
-Vostre ressentiment à quelque point qu'il monte,
-Contre un tel ennemi peut bien ceder sans honte.
-Tant de soins⁎ genereux⁎ seroient-ils impuissans ?
-Le plus fameux des Grecs, le vainqueur des Persans :
-Lui qui par tout triomphe avec si peu de peine,
-Manqueroit⁎-t-il, Madame, à vaincre vostre haine ?
-N'auriez-vous point pour lui des sentimens plus doux ?
-
--*who_cleonice
-Ha ! Madame, dequoi me sollicitez-vous ?
-Sollicitez plûtost & pressez ma retraite,
-Ici ma liberté n'est encor qu'imparfaite,
-Et je ne puis jamais sans trouble⁎ & sans effroi
-En jouïr en des lieux si funestes⁎ pour moi.
-
--*who_demarate
-Quoi pour Pausanias tant de haine vous reste,
-Qu'un azile en ces lieux vous semble si funeste⁎ ?
-Vostre ressentiment craint tant de se trahir ?
-
--*who_cleonice
-Si vous sçaviez combien j'ai droit de le haïr.
-
--*who_demarate
-Je sçai qu'un Pere mort contre lui vous anime⁎,
-Qu'il fait de vostre haine un devoir legitime,
-Et que rien n'est si fort que des ressentimens
-Fondez sur tant de droits & sur tant de sermens ;
-Mais ayant fait pour vous tout ce que j'ai pû faire,
-Enfin si dans ces lieux vous m'estiez necessaire…
-
--*who_cleonice
-Moi, Madame, en ces lieux necessaire pour vous,
-Je faits de vous servir mes souhaits les plus doux :
-Mais je suis mal-heureuse & le sort⁎ d'ordinaire
-A mes plus doux souhaits donne un succés⁎ contraire.
-
--*who_demarate
-Il faut vous dire tout, madame, & je veux bien
-Commencer la premiere à ne déguiser rien.
-Je m'y sens disposer par une forte estime,
-Et sans qu'il soit besoin qu'un vain discours l'exprime,
-Vous en avez assez dans les soins⁎ que je prens,
-De fidelles témoins & d'asseurez garans.
-Sparte a plus fait pour moi que je n'eusse osé croire.
-Trop heureuse en effet par son choix plein de gloire⁎.
-Si j'avois accordé pour comble de bon-heur
-Le choix de ma Patrie & celui de mon cœur ;
-Mais engagée ailleurs je ne puis qu'avec peine
-Rompre les nœuds charmans d'une premiere chaîne,
-Et je paye à regret cet honneur mal-heureux
-Du repos de ma vie & de mes plus doux vœux.
-Pressée en cet estat de mortelles allarmes,
-Si j'attens du secours ce n'est que de vos charmes,
-Et je ne puis fonder que sur leur seul pouvoir
-Mon unique ressource, & mon dernier espoir.
-Le succés⁎ y répond, j'observe à vostre veuë
-Que de Pausanias la fierté⁎ diminuë,
-Et que si l'on peut vaincre un cœur si glorieux,
-C'est un droit que le Ciel reserve pour vos yeux.
-Je sçai qu'il faut du temps pour un si grand ouvrage,
-Que ce n'est pas si tost qu'un cœur si fier s'engage,
-Un cœur qui n'eut jamais que des soins⁎ importans.
-
--*who_cleonice
-On change quelquefois beaucoup en peu de tems.
-
--*who_demarate
-Que ne vous dois-je point, s'il est vrai qu'il vous aime ?
-Je m'asseure déja qu'il vous l'a dit lui-même.
-C'est beaucoup; mais peut estre est-ce un premier aveu
-Dont vous croyez devoir vous deffier un peu.
-On peut douter d'abord des douceurs qu'on écoute,
-
--*who_cleonice
-Il parle de maniere à laisser peu de doute.
-
--*who_demarate
-O Dieux ! que vous flatez mon espoir le plus doux,
-Il ne me reste plus qu'un scrupule pour vous :
-Quoi que l'heur⁎ d'estre aimée ait toûjours dequoi plaire,
-Je sçai trop à quel point la gloire⁎ vous est chere,
-Et je crains de vous voir hautement dédaigner
-Un amour⁎ que l'hymen⁎ ne peut accompagner.
-Pausanias connoist à quoi Sparte l'engage.
-Son cœur peut sans sa foi⁎ vous tenir lieu d'outrage.
-Ces deux dons separez n'ont rien que de honteux,
-Et vous meritez bien de les avoir tous deux.
-
--*who_cleonice
-Je me plaindrois à tort de l'offre qu'il m'a faite,
-Je n'ai que trop de lieu d'en estre satisfaite,
-Et vous devez juger au trouble⁎où je me voi,
-Qu'il ne m'a rien offert qui soit honteux pour moi.
-
--*who_demarate
-Il ne manque⁎ donc plus au bon-heur que j'espere,
-Que vous faire oublier le sang de vostre Pere.
-Ce sang de qui la voix doit sans cesse crier,
-Ce sang qui vous anime⁎…
-
--*who_cleonice
-      Et comment l'oublier ?
-
--*who_demarate
-Il est vrai que l'offence est presque irreparable,
-Pausanias, sans doute, envers vous est coupable,
-J'aurai peine en effet à le bien excuser ;
-Mais ne seroit-il rien qui pûst vous appaiser ?
-On peut excuser tout pour peu qu'on le desire.
-
--*who_cleonice
-Ne dites rien pour lui : Mais que pourriez vous dire ?
-
--*who_demarate
-Qu'il tâche autant qu'il peut d'éteindre en vostre cœur
-Ce qu'un devoir trop juste y doit former d'horreur⁎.
-Que s'il prit tant de soins⁎ pour perdre vostre Pere,
-Il creut de son trepas l'exemple necessaire,
-Qu'il ne peut rien de plus que ce qu'il fait pour vous,
-Que s'il vous oste un Pere il vous offre un Epoux,
-
--*who_cleonice
-J'ai peur d'écouter trop, souffrez que je vous quitte.
-
--*who_demarate
-Le soin⁎ de l'excuser à ce point vous irrite ?
-
--*who_cleonice
-En me parlant pour lui si c'estoit m'irriter,
-Je ne craindrois pas tant de vous trop écouter.
-
-**** *book_ *id_II05 *act_II *date_1669 *creator_quinault
-
--*who_demarate
-Ai-je bien entendu, Charile, est-il possible ?
-Pausanias enfin n'est donc plus insensible ?
-Cette ame impenetrable aux ardeurs des Amans,
-Laisse donc attendrir ses plus fiers sentimens ?
-Le vainqueur des Persans ne peut plus se deffendre
-Du tribut que l'Amour⁎ tost ou tard se fait rendre ?
-Ce grand cœur aime enfin comme les autres cœurs,
-Et pour mon desespoir, Charile, il aime ailleurs.
-
--*who_charile
-C'est dequoi s'estonner⁎ : mais ma surprise extrême
-Est de vous voir tourner vos soins⁎ contre vous-même.
-Aider à vous trahir, & renoncer d'abord
-A vos droits les plus chers avec si peu d'effort.
-
--*who_demarate
-Quoi tu peux t'estonner⁎ qu'au mépris exposée
-Je cache au moins ma honte aux yeux qui l'ont causée ?
-Que j'oste à ma Rivale en cette occasion,
-La douceur de jouïr de ma confusion ?
-Et tâche d'empécher qu'un vain depit⁎ n'acheve
-De lui montrer le prix du bien qu'elle m'enleve.
-N'attens pas d'un courage⁎ aussi fier que le mien
-De ces éclats⁎ honteux qui ne produisent rien.
-Laissons aux foibles cœurs, aux ames imbeciles⁎
-Consommer leur colere en plaintes inutiles,
-N'épuisons point la nostre en vains emportemens,
-Laissons meurir l'aigreur de nos ressentimens,
-Forçons nostre dépit⁎ à quelqu'excez qu'il monte,
-D'attendre à se montrer qu'il le puisse sans honte,
-Et sans nous exposer par un éclat⁎ trop prompt,
-Tâchons que la vangeance éclatte avant l'affront.
-
--*who_charile
-Contre Pausanias vous pourrez tout sans peine,
-Il a de tous les Grecs ou l'envie ou la haine,
-Et si pour vous vanger sa perte a des appas⁎…
-
--*who_demarate
-Vangeons nous, s'il se peut, & ne le perdons pas.
-A quelqu'affront cruel que son mépris m'expose,
-Je voudrois bien pouvoir n'en punir que la cause,
-J'aime trop le coupable encor pour m'en vanger,
-Je n'en veux qu'à l'objet⁎ qui m'en fait outrager.
-Voi de quel prix fatal⁎ cette esclave trop vaine⁎
-Recompense les soins⁎ dont j'ai brisé sa chaine,
-Comme il semble à travers tous mes déguisemens,
-Qu'elle ait developpé mes secrets sentimens,
-Comme elle a par degrez fait croistre mes surprises,
-Sceut me percer le cœur à diverses reprises,
-Et me faire avec soin⁎ ressentir à longs traits
-Toute l'indignité des maux qu'elle m'a faits.
-Je n'imagine point une vangeance egale
-A celle d'abaisser l'orgueil d'une Rivale,
-De la rendre à son tour un objet de mépris,
-Et de reprendre un cœur des mains qui nous l'ont pris.
-Mais pour y réüssir mettons bien en usage
-Ce qui peut le mieux vaincre un glorieux courage⁎.
-Combattons ce grand cœur par generosité,
-Engageons sa vertu⁎, ménageons sa fierté⁎,
-Et contre son Amour⁎ joignons pour ma deffence.
-La Gloire⁎, le Devoir, & la Reconnoissance.
-Si tout nous manque⁎ enfin, je sçais où l'attaquer,
-Et la vengeance au moins ne me sçauroit manquer⁎.
-Fin du Second Acte.
-
-**** *book_ *id_III01 *act_III *date_1669 *creator_quinault
-
--*who_aristide
-D'un Ami mécontent évitons la presence,
-N'allons point de sa peine aigrir la violence,
-Ne nous exposons pas à souffrir aujourd'hui
-Quelque reproche indigne & de nous & de lui.
-Un Amant qui pert tout a peine à se deffendre,
-De dire quelquefois plus qu'on ne doit entendre⁎,
-Laissons-le librement en murmures secrets
-Evaporer l'effort de ses premiers regrets.
-Redoublons cependant les soins⁎ sur qui je fonde
-L'espoir de l'élever au premier rang du Monde,
-Pour prix d'une Maitresse arrachée à ses vœux,
-Faisons le commander à cent Peuples fameux.
-Reparons dignement la perte qu'il regrette,
-Et par de vrais effets d'une amitié parfaite,
-Rendons avec usure à sa gloire⁎ en ce jour
-Tout ce que nous venons d'oster à son Amour⁎.
-
--*who_sophane 
-On n'attend que vostre ordre & pour cette entreprise,
-Seigneur, selon vos vœux tout est prest sans remise
-Au camp, dans nos vaisseaux, partout, sans hesiter,
-Contre Pausanias on brûle d'éclatter.
-Il n'est que trop en butte à la commune haine,
-Nos alliez sont las de son humeur hautaine,
-En flattant les Esprits aigris par ses hauteurs,
-Vostre douceur adroite a gagné tous les cœurs.
-Chacun souffre à regret qu'un Peuple s'attribuë,
-Sur tous les Peuples Grecs la puissance absoluë,
-Et que Sparte jamais ne voulant rien ceder,
-Perpetuë en ses Rois le droit de commander.
-
--*who_aristide
-Essayons s'il se peut, qu'en nous cedant l'Empire,
-Contre son propre Roi Sparte mesme conspire,
-Et que sans qu'à la Grece il en couste du sang,
-Nostre chere Patrie arrive au premier rang.
-Pausanias en offre une voye infaillible,
-Son cœur pour Cleonice a paru trop sensible :
-Il l'aime, & dans l'ardeur de son temperament
-Sa flame ira bien-tost jusqu'à l'aveuglement.
-Pour triompher d'une ame à la haine obstinée,
-Il pourra tout tenter jusques à l'hymenée⁎,
-Et Sparte qui pretend disposer de ses Rois,
-Ne pourra rien souffrir au mépris de son choix.
-Demarate offencée & justement aigrie
-Tournera son Amour⁎ en mortelle furie,
-Et c'est un grand secours, & qu'on doit ménager,
-Qu'une Amante outragée & qui peut se vanger.
-
--*who_sophane
-Il n'est donc pas encore à propos qu'on éclatte,
-Il est bon que d'abord Pausanias se flatte,
-De crainte que trop tost effarouchant son cœur,
-Le peril de ses feux n'en étouffe l'ardeur.
-
--*who_aristide
-C'est le connoistre mal d'en juger de la sorte,
-Sa flame combatuë en deviendra plus forte ;
-Plus nous exposerons d'obstacles à ses feux,
-Et plus nous en rendrons l'effort impetueux.
-Son Amour⁎ languiroit⁎ s'il estoit trop tranquile,
-Son courage⁎ trop fier n'aime rien de facile,
-Et dans quelque dessein⁎ qu'il puisse s'engager,
-S'irrite par l'obstacle & croist par le danger.
-Demarate sur tout prenant nostre querelle,
-J'espere…
-
--*who_sophane
-      La voici, je vous laisse avec elle,
-Et vais de mon costé diposer nos Amis
-A tenter hautement ce qu'ils nous ont promis.
-
-**** *book_ *id_III02 *act_III *date_1669 *creator_quinault
-
--*who_demarate
-Seigneur pour éviter le peril qui me presse,
-C'est entre tous les Grecs à vous que je m'adresse,
-Quoi que nez de Pays l'un de l'autre jaloux,
-Quoi que nulle amitié n'ait pû naistre entre nous,
-C'est sur vous toutefois qu'en un destin⁎ funeste⁎,
-J'ose encore fonder tout l'espoir qui me reste.
-Vostre haute vertu⁎ laisse peu soupçonner,
-Qu'à vostre seul Pays vous puissiez la borner,
-Et la justice en vous parfaite et sans seconde,
-Est un bien que les Dieux vous font pour tout le Monde.
-
--*who_aristide
-Ordonnez, j'obeïs, proposez, j'y consens,
-Le sexe & le merite ont des droits tous puissans.
-J'ai déja ressenti ce qu'on vous fait d'injure,
-J'en sçai l'indignité comme vous j'en murmure,
-Je m'estonnois⁎ d'abord de voir Pausanias
-Differer entre vous un hymen⁎ plein d'appas⁎ ;
-Mais ses empressemens, ses soins⁎ pour Cleonice,
-N'ont que trop découvert toute son injustice :
-Chacun voit à regret à quel rebut honteux
-Vous expose l'ardeur de ses indignes feux.
-Sparte de cette injure avec vous offencée,
-Seule à vous en vanger n'est pas interressée.
-Les Grecs ne doivent plus connoistre un General,
-Qui s'allie en un sang à leur repos fatal⁎,
-Et dans cette odieuse & funeste⁎ alliance,
-Ce qu'il vous fait outrage est la commune offence
-Contre lui hautement nous nous unirons tous…
-
--*who_demarate
-Ah ! Seigneur, ce n'est point ce que je veux de vous.
-Pausanias n'est point Amant de Cleonice,
-C'est un bruit mal fondé qui lui fait injustice.
-J'aurois tort de m'en plaindre & je dois avouër
-Qu'on ne peut pas avoir plus lieu de s'en louër.
-Si l'hymen⁎ entre nous trop long-temps se differe,
-C'est moi qui l'en conjure, il le veut pour me plaire,
-Et si pour Cleonice il fait voir quelque ardeur,
-Tous ses empressemens ne sont qu'en ma faveur.
-J'ai souhaitté de lui ce qu'il ose pour elle,
-Il s'empresseroit moins s'il m'estoit moins fidelle.
-Sparte, ni tous les Grecs n'ont rien à redouter…
-
--*who_aristide
-Vous aimez, & l'amour⁎ se plaist à se flatter,
-Craignez d'en croire trop, gardez de vous méprendre.
-
--*who_demarate
-Des yeux interessez⁎ se laissent peu surprendre⁎.
-Je répons de son cœur & sans trop me flatter
-Quand j'en ose répondre on n'en doit pas douter.
-Plust aux Dieux qu'à ma honte une heureuse Rivale,
-M'ostast pour mon repos cette gloire⁎ fatale⁎.
-Et qu'un refus injuste & pour moi plein d'appas⁎,
-Pûst d'un aveu honteux m'épargner l'embarras⁎.
-L'époux qui m'est offert brille d'un grand merite,
-Rien n'en tenit l'éclat⁎, pour lui tout sollicite
-En sa propre personne autant que sa grandeur
-N'a que trop dequoi plaire au plus superbe cœur,
-Mais l'aveugle destin⁎ qui dispose des ames,
-M'avoit avant ce choix soûmise à d'autres flames,
-Et du plus grand merite un cœur est peu frappé,
-Quand une fois d'ailleurs il est preoccupé.
-Quelqu'éclat⁎ qu'ait pour moi l'hymen⁎ où l'on m'engage,
-Je n'en voi qu'en tremblant le funeste⁎ avantage,
-Et si Pausanias sçait qu'un autre a mes vœux,
-Pour les tiranniser il est trop genereux⁎.
-J'espere qu'à moi-mesme il voudra bien me rendre,
-D'un Heros tel que lui, c'est ce que j'ose attendre ;
-Et c'est enfin, Seigneur, pour l'y bien disposer,
-Ce qu'aucun mieux que vous ne lui peut proposer.
-
--*who_aristide
-Je n'examine point si cette ardeur extrême,
-Ou cherche à m'éblouïr⁎, ou vous seduit vous-mesme ;
-Ou si vostre dépit⁎ par un éclat⁎ si prompt,
-D'un refus asseuré veut prevenir l'affront.
-Sans rien approfondir je ne veux voir, Madame,
-Que ce que vous m'ouvrez du secret de vôtre ame,
-Je croi ce qui vous plaist & veux de bonne foi⁎
-Répondre aux sentimens que vous avez de moi :
-Ne precipitez rien si vous m'en voulez croire,
-Quel que soit vostre Amour⁎ ménagez vostre gloire⁎.
-Après tant de delais peut-estre encor un jour
-Sauvera vostre gloire⁎ ensemble & vostre Amour⁎ :
-Evitez, s'il se peut, les reproches de Sparte,
-Et du moins attendez que Cleonice parte.
-Pausanias pour elle un peu trop genereux⁎,
-Pourroit bien entreprendre au delà de vos vœux.
-
--*who_demarate
-Dites tout, ma priere en effet vous fait peine,
-J'exige trop de vous, c'est un soin⁎ qui vous gêne,
-Vous cherchez doucement à vous en dispenser,
-Et je veux bien Seigneur, vous en débarasser.
-Je ferai cet aveu sans secours de personne,
-L'ayant fait une fois il n'a rien qui m'estonne⁎.
-Je veux tout déclarer⁎ & j'irai de ce pas.
-
--*who_aristide
-Vous n'irez pas bien loin voici Pausanias.
-
-**** *book_ *id_III03 *act_III *date_1669 *creator_quinault 
-
--*who_pausanias
 A vostre tour, Seigneur, fuyez vous ma presence,
 J'allois vous asseurer de ma reconnoissance.
 
--*who_aristide
-Vous me devez trop peu pour vous en souvenir ;
-Mais Demarate cherche à vous entretenir,
-Seigneur, & le secret qu'elle pretend vous dire
-Doit fuir la multitude & veut qu'on se retire.
-
-**** *book_ *id_III04 *act_III *date_1669 *creator_quinault
-
--*who_pausanias
 Quel est donc ce secret dont vous l'avez instruit,
 Qui cherche tant l'éclat⁎, les témoins, & le bruit ?
 M'en jugerez vous digne, & pourrai-je pretendre
 Ensuitte d'Aristide à l'honneur de l'apprendre ?
 
--*who_demarate 
-Aristide, Seigneur, ne l'a sçeu que pour vous ;
-J'ai crû que de moi-mesme il vous seroit moins doux ;
-Mais il répond si mal à ce que je desire,
-Que j'ose me resoudre enfin à vous tout dire.
-J'estime vostre hymen⁎ autant que je le doi
-L'honneur du choix de Sparte est précieux pour moi ;
-C'est la plus haute gloire⁎ où je pouvois atteindre.
-
--*who_pausanias
 Je vous entens Madame, & vous allez vous plaindre,
 C'est un mauvais moyen que de fâcheux éclats⁎,
 Que des plaintes…
 
--*who_demarate
-      Seigneur vous ne m'entendez pas,
-A quelque excez d'honneur que vostre hymen⁎ m'éleve,
-Je ne viens pas ici pour presser qu'il s'acheve :
-Loin d'avoir là-dessus rien à craindre de moi,
-Je viens vous conjurer de degager ma foi⁎,
-Et c'est là cet aveu que mon ame timide,
-Est contrainte à vous faire au refus d'Aristide.
-
--*who_pausanias
 Vous m'en voyez surpris, c'est sans doute un aveu
 Madame, où j'avouërai que je m'attendois peu ;
 Mais pour me disposer à ce qui peut vous plaire,
@@ -1198,10 +262,6 @@ Le secours d'Aristide estoit peu necessaire ;
 Vous douteriez à tort de ma facilité,
 C'est sans peine…
 
--*who_demarate
-      Ah ! Seigneur, je n'en ai pas douté.
-
--*who_pausanias
 Quoi que je perde en vous je n'ose pas m'en plaindre,
 Je ne dois rien vouloir qui puisse vous contraindre,
 Et j'aime mieux ceder mon bon-heur le plus doux,
@@ -1213,59 +273,10 @@ Peut-estre mon hymen⁎ vous feroit moins d'horreur⁎.
 Quel que soit cet Amant il peut tout se permettre,
 J'offre & je promets tout…
 
--*who_demarate
-      Gardez de trop promettre,
-Seigneur, & de m'offrir en faveur de mes feux
-Plus que vous ne croyez & plus que je ne veux.
-Il n'est que trop vrai, j'aime, & d'une amour⁎ trop tendre,
-J'aime un ingrat enfin, s'il faut vous tout apprendre,
-Un ingrat dont je prens contre moi l'interest
-Tout insensible encore & tout ingrat qu'il est.
-
--*who_pausanias
 Peut-il estre un ingrat à ce point insensible ?
 
--*who_demarate
-S'il en peut estre helas ! il n'est que trop possible,
-Et pour estre en effet le plus grand des ingrats,
-C'est peu d'estre insensible & de ne m'aimer pas :
-Cet ingrat aime ailleurs sans songer que je l'aime.
-Et pour tout dire enfin cet ingrat c'est vous même.
-
--*who_pausanias
 Moi, Madame ?
 
--*who_demarate 
-      Ouï, Seigneur, cessons de déguiser,
-Vous aimez Cleonice & voulez l'épouser.
-Ce feu qui me trahit menace vostre teste
-De l'éclat⁎ d'une affreuse & mortelle tempeste,
-Nos voisins envieux, nos alliez jaloux,
-Ne cherchent qu'un pretexte à s'unir contre vous :
-Sparte mesme engagée au refus qui m'offence,
-Croira de mon affront se devoir la vangeance,
-Et si j'ose me plaindre & soustenir mes droits
-J'armerai contre vous tous les Grecs à la fois :
-Voilà pourquoi Seigneur lors que je vous refuse,
-Mesme pour me trahir je vous preste une excuse,
-Et pourquoi ce refus qui vous sert & me nuit,
-Affecte tant l'eclat les témoins & le bruit.
-Je ne puis me vanger quoi que trop offencée,
-Vous estes en peril ma colere est passée,
-Dés qu'un ingrat si cher a besoin de secours,
-Le dépit⁎ presse en vain l'amour⁎ revient toûjours.
-Que Sparte contre moi tonne, éclatte, foudroye,
-A sa fureur pour vous je m'expose avec joye ;
-N'ayant plus nul espoir qui flatte mon Amour⁎,
-Il m'en coustrera peu m'en coustast-il le jour :
-Vous me l'avez rendu trop peu digne d'envie,
-Mes vœux en vous perdant content pour rien la vie :
-Je ne regarde plus que vostre seul danger,
-Je m'y livre aisément pour vous en dégager,
-Et veux bien immolant tout mon bon-heur au vostre,
-Perir pour vous sauver dûst-ce estre pour une autre.
-
--*who_pausanias
 Ah ! Madame, faut-il que vous trouviez si bien
 Le secret d'estonner⁎ un cœur comme le mien ?
 Que ne vous armez vous d'un dépit⁎ legitime,
@@ -1286,48 +297,12 @@ N'a pas de ma vertu⁎ si bien sceu triompher
 Qu'il ne m'en reste encor assez pour l'étouffer.
 Je sens que vostre exemple à cet effort m'engage…
 
--*who_demarate
-C'est sans doute un effort digne d'un grand courage⁎.
-Rien n'est plus heroïque il le faut avoüer…
-
--*who_pausanias
 Ne vous pressez pas tant encor de m'en loüer,
 L'effort est beau je sçai que la gloire⁎ en est grande
 Que ma vertu⁎ le veut, que Sparte le demande,
 Je sçai que je le dois, mais au trouble⁎ où je suis,
 Je ne sçai pas trop bien encor si je le puis.
-
--*who_demarate
-Si d'un espoir trop doux j'ai flatté ma tendresse⁎,
-Pardonnez moi Seigneur ce reste de foiblesse :
-L'espoir renaist sans peine, il seduit aisément,
-Et tout trompeur qu'il est il est toûjours charmant.
-Je ne veux point vous faire aucune violence,
-Et si vous en trouvez la moindre en ma presence,
-Si l'effort de mes vœux aux vostres immolez
-Vous touche en ma faveur plus que vous ne voulez,
-Je vous laisse & renonce en ma tendresse⁎ extrême,
-A toucher vostre cœur en depit⁎ de lui-même.
-Allez Seigneur, sans voir ce que vous me coustez
-Offrir ailleurs en paix ce cœur que vous m'ostez :
-Oubliez, s'il se peut qu'à tort il m'abandonne,
-Et qu'il m'estoit mieux deub peut-estre qu'à personne.
-Si du plus tendre Amour⁎ la plus fidelle ardeur
-Pouvoit jamais suffire à mériter un cœur.
-
-**** *book_ *id_III05 *act_III *date_1669 *creator_quinault
-
--*who_eurianax
-N'en est-ce point assez ? & seroit-il possible
-Qu'à cet illustre effort vous fussiez insensible ?
-Se pourroit-il Seigneur qu'il vous fust reproché
-D'avoir vû tant d'Amours⁎ sans en estre touché ?
-Vous laisseriez vous vaincre en grandeur de courage⁎ ?
-Le trouble⁎ où je vous voi paroist d'heureux presage :
-L'Amour⁎ & la Vertu⁎, la Gloire⁎, & le Devoir
-Pour Demarate enfin semblent vous émouvoir.
-
--*who_pausanias 
+ 
 Sans doute, Eurianax, un si grand sacrifice,
 Engage trop mon cœur à lui rendre justice.
 Il le faut, tout le veut : Cleonice aussi bien
@@ -1338,24 +313,11 @@ Hastons nous d'éloigner ses dangereux attrais,
 Allons lui dire adieu pour ne la voir jamais.
 Fin du Troisième Acte.
 
-**** *book_ *id_IV01 *act_IV *date_1669 *creator_quinault
-
--*who_aristide
-Je détourne vos pas, je sçai où je m'expose ;
-Mais l'interest public va devant toute chose,
-Et c'est enfin Seigneur, à ne vous rien celer,
-Au nom de tous les Grecs que je viens vous parler.
-
--*who_pausanias
 Avec beaucoup d'ardeur le bien public vous touche,
 Et tous les Grecs souvent parlent par vostre bouche ?
 Mais je veux bien Seigneur me taire là-dessus,
 Pour prix des derniers soins⁎ que vous m'avez rendus.
 
--*who_aristide
-Croyez qu'avec regret Seigneur…
-
--*who_pausanias
       Pour vostre gloire⁎
 Sans rien examiner je consens à tout croire.
 Je croirai s'il le faut que le superbe emploi,
@@ -1367,25 +329,9 @@ Et dont vous vous chargez toûjours avec regret ;
 Quoi qu'il en soit enfin sçachons ce qu'on desire,
 Et ce qu'au nom des Grecs vous avez à me dire.
 
--*who_aristide
-C'est un soin⁎ important qu'ils soûhaitent de vous,
-Pour vostre propre gloire⁎ & pour le bien de tous.
-Cleonice est toûjours à craindre avec justice.
-
--*who_pausanias
 Les Grecs se meslent-ils encor de Cleonice ?
 Elle a la liberté j'en ai pû disposer.
 
--*who_aristide
-Oüy, mais les Grecs ont peur qu'elle en puisse abuser.
-Ce que leur a cousté la haine de son Pere
-En fait craindre en la fille un reste hereditaire ;
-Suspecte parmi nous on veut qu'elle aille en paix,
-Parmi nos ennemis jouïr de vos bien-faits,
-Et que vous preniez soin⁎, Seigneur, qu'en diligence⁎
-Elle quitte la Grece, & dés demain Bisance.
-
--*who_pausanias
 L'ordre est pressant sans doute & surprenant pour moi.
 Il se peut que les Grecs, ces Peuples sans effroi ;
 Eux qui sous ma conduite avec tant d'asseurance,
@@ -1396,34 +342,12 @@ Mais une fille enfin qui n'a pour toutes armes,
 Que ce que sa beauté lui peut donner de charmes.
 Que d'innocens appas⁎ qu'elle fait éclatter…
 
--*who_aristide
-Eh c'est par là Seigneur qu'elle est à redouter.
-La Beauté quelquefois forme de grands orages,
-Et est souvent l'écueil des plus fermes courages⁎,
-Des plus fiers ennemis tel a bravé l'effort,
-Qui contre de beaux yeux n'est pas toûjours si fort.
-Quelque Heros qu'on soit on n'est pas insensible,
-Et fust on mille fois à la Guerre invincible,
-Mille fois intrepide & mille fois vainqueur,
-L'Amour⁎ trouve aisément le foible d'un grand cœur.
-
--*who_pausanias
 Si c'est en Cleonice un crime d'estre aimable,
 Pour qui trouvez vous tant sa beauté redoutable ?
 Pour Cymon vostre Ami craignez-vous ses appas⁎ ?
 
--*who_aristide
-Tout mon Ami qu'il est je n'en répondrois pas ;
-Mais si je puis Seigneur oser ne vous rien feindre,
-Vous mesme pourriez vous n'y trouver rien à craindre ?
-
--*who_pausanias
 Un soin⁎ si curieux doit me surprendre⁎ fort.
 
--*who_aristide
-Je parle au nom des Grecs je vous l'ai dit d'abord.
-
--*who_pausanias
 Au nom des Grecs ou non, d'eux ou de vous n'importe,
 La curiosité me paroist toûjours forte.
 Que les Grecs sans pretendre à plus qu'il n'est permis,
@@ -1439,31 +363,8 @@ Quels que soient ses desirs, quelle qu'en soit l'ardeur,
 Qu'il s'engage à son gré, qu'il haïsse, ou qu'il aime,
 Il n'en pretend devoir de conte qu'à lui mesme.
 
--*who_aristide
-Aucun des Grecs Seigneur n'a la temerité,
-De vouloir de leur Chef choquer⁎ la liberté ;
-Mais si vous estes libre ils pretendent tous l'estre,
-Et pour souffrir un Chef ne souffrent point de Maistre.
-Ils laissent vostre cœur à son gré soûpirer,
-Contre un Objet suspect laissez-les s'asseurer :
-S'ils craignent vous devez d'autant moins vous en plaindre,
-Que ce n'est que pour vous qu'ils ont le plus à craindre :
-Leur soin⁎ part de leur zele, & vous doit estre doux,
-Ils ont peur d'avoir lieu d'oser rien contre vous,
-De vous voir engager plus qu'ils ne voudroient croire,
-De vous voir oublier peut-estre vostre gloire⁎,
-Et pour leur General eux-mesme de se voir
-Dans la necessité d'oublier leur devoir.
-
--*who_pausanias
 Sçachez vous et les Grecs…
 
--*who_aristide
-      Cessez de nous confondre,
-Ce n'est qu'aux Grecs Seigneur que vous devez répondre.
-Je vous parle pour eux.
-
--*who_pausanias
       Puisque vous le voulez
 Je répons donc aux Grecs pour qui pour me parlez.
 Leur zele va trop loin, ils ont sujet de croire
@@ -1477,48 +378,21 @@ Y ramener quiconque oseroit en sortir.
 Voila ce que de moi les Grecs doivent attendre,
 Et ce que de ma part vous leur pouvez aprendre.
 
--*who_aristide
-Si mon avis Seigneur peut ici se mêler...
-
--*who_pausanias
 Ce n'est qu'au nom des Grecs que vous devez parler,
 Et n'ayant de leur part rien de plus à me dire,
 Vous avez ma réponse & cela doit suffire.
 Je n'écoute plus rien vos soins⁎ sont superflus.
 
--*who_aristide
-Je voi pourquoi Seigneur vous ne m'écoutez plus
-
-**** *book_ *id_IV02 *act_IV *date_1669 *creator_quinault 
-
--*who_cleonice
-Aprés tant de bien-faits & pour faveur derniere,
-Pourrai-je encor, Seigneur, vous faire une priere ?
-Pourrai-je à mon devoir vous faire consentir⁎ ?
-
--*who_pausanias
 Que ne pourrez vous point ?
 
--*who_cleonice
-      Pourrai-je enfin partir ?
-
--*who_pausanias
 Vous mesme avec les Grecs aussi d'intelligence ?
 Et vous me condamnez comme eux à vostre absence !
 Avec eux contre moi vous vous joignez si bien ?
 
--*who_cleonice
-Les Grecs font leur devoir je fais aussi le mien.
-
--*who_pausanias
 Quoi Madame, à partir vous estes déja preste ?
 Et mon coeur ny ma main n'ont rien qui vous arreste ?
 A me fuir pour jamais vous trouvez tant d'appas⁎ ?
 
--*who_cleonice
-Seigneur si vous m'aimez ne m'en détournez pas.
-
--*who_pausanias
 Si je vous aime ingrate ainsi pour me confondre,
 Aux soins⁎ de mon amour⁎ vous voulez donc répondre ?
 Vous voulez que toûjours nous soyons ennemis ?
@@ -1526,129 +400,34 @@ Hé bien vous estes libre & tout vous est permis.
 Partez, mais pour le prix d'un amour⁎ qui vous gêne⁎,
 Laissez moi donc au moins un peu de vostre haine.
 
--*who_cleonice
-Hélas !
-
--*who_pausanias
       Vous soûpirez, me haïssez vous tant ?
 
--*who_cleonice
-On dit peu que l'on hait, Seigneur, en soûpirant.
-
--*who_pausanias
 Puis-je demander pourquoi ce coeur soûpire ?
 
--*who_cleonice
-Ne me demandez rien j'aurois peur d'en trop dire.
-
--*who_pausanias
 Ah ! dites tout de grace, achevez cet aveu.
 
--*who_cleonice
-Ma honte & mon silence en disent-ils trop peu ?
-
--*who_pausanias
 Si vous ne partiez point j'oserois les entendre,
 Et si j'en croi vos yeux vostre coeur devient tendre,
 Je ne rencontre plus de haine en vos regards :
 Cependant vous partez.
 
--*who_cleonice
-      Et c'est pourquoi je pars !
-J'oublie en vous voyant avec trop peu de peine
-Tout ce que je vous dois de colere & de haine.
-Prés de vous sur mon coeur j'ai trop peu de pouvoir
-Et je tâche en fuyant de sauver mon devoir.
-Laissez moi ménager quelque reste de gloire⁎,
-Ma fuitte vous asseure assez de la victoire.
-Le peril est trop grand & n'a que trop d'appas⁎,
-Epargnez ma foiblesse & n'en triomphez pas.
-
--*who_pausanias
 Laissez la triompher cette heureuse foiblesse.
 De la severité du devoir qui vous presse.
 
--*who_cleonice
-Puis-je trahir le sang à qui je dois le jour ?
-Qui pourroit m'excuser !
-
--*who_pausanias
       Que ne peut point l'Amour⁎ ?
 
--*who_cleonice
-Hé bien Seigneur, hé bien, contre un devoir severe,
-Si l'Amour⁎ sert d'excuse aux fautes qu'il fait faire
-Il ne tiendra qu'à vous de m'en convaincre bien ;
-Et sur vostre devoir je reglerai le mien.
-
--*who_pausanias
 Il ne tiendroit qu'à moi ?
 
--*who_cleonice
-      Non, Seigneur, qu'à vous mesme
-Montrez moi ce que doit un grand coeur quand il aime :
-Montrez moi le premier pour m'en faire une loi⁎
-Mesme foiblesse en vous que vous voulez en moi,
-Montrez moi quelque gloire⁎ ici qui vous retienne
-Par l'oubli de la vostre à negliger la mienne.
-J'en croirai vostre exemple & je trouverai doux
-Que vous m'authorisiez à faillir aprés vous ;
-Puisque la Grece en moi d'un fardeau se délivre,
-J'oserai tout pour vous si vous osez me suivre.
-
--*who_pausanias
 Oublier mon devoir ?
 
--*who_cleonice
-      Hé vous souhaittez bien
-Seigneur qu'en vous aimant j'oublie aussi le mien ?
-
--*who_pausanias
 Ma foi⁎ s'est par serment engagée à la Grece.
 
--*who_cleonice
-J'ai fait serment aussi de vous haïr sans cesse.
-
--*who_pausanias
 Quoi trahir mon Païs pour vous trop obeïr ?
 
--*who_cleonice
-Le sang d'un Pere est-il plus facile à trahir ?
-
--*who_pausanias
 D'un si coupable effort voyez pour moi la honte :
 
--*who_cleonice
-Et c'est dequoi, Seigneur, l'Amour⁎ vous tiendra conte.
-Un effort de vertu⁎ n'est pas effort pour vous,
-Vostre coeur y suivroit son penchant le plus doux.
-L'ardeur est pour la Gloire⁎ aux grands coeurs naturelle,
-Et l'Amour⁎ ne doit rien de ce qu'on fait pour elle.
-
--*who_pausanias
 Considerez mon rang.
 
--*who_cleonice
-      Regardez en ces lieux
-Combien pour vous l'oster vous avez d'envieux ;
-Vous estes en peril toûjours qu'on vous l'arrache,
-Et de plus c'est un rang où ma haine s'attache :
-Il m'a cousté mon Pere & sur lui mon courrous,
-Tombe exprés pour pouvoir se détourner de vous.
-N'attendez pas ici que la Grece vous l'oste,
-La Perse peut vous rendre une grandeur plus haute ;
-Vous pouvez vous y faire un rang à vostre choix,
-Elle a mille Sujets plus grands que tous vos Rois ;
-Cessez pour des ingrats de vaincre & de combatre,
-Relevez le party que vous venez d'abatre :
-Portez y la Victoire, & par vos seuls exploits,
-Changez du Monde entier le sort⁎ jusqu'à deux fois.
-Ce crime, au moins, s'il faut ainsi que l'on le nomme,
-Est un illustre crime & digne d'un grand homme,
-Est digne d'un Heros intrepide, fameux,
-Et pour tout dire enfin, d'un Heros amoureux.
-
--*who_pausanias
 Vous me pouvez aimer, & vous voulez Cruelle
 Voir flétrir ma vertu⁎ d'une tache eternelle ;
 Vous m'aimez, & voulez pour prix de vostre coeur,
@@ -1674,38 +453,15 @@ Rompez, brisez mes fers, jusqu'au fond de mon ame.
 Arrachez m'en les noeuds, deussiez vous en ce jour
 M'arracher mille fois le coeur avec l'amour⁎.
 
--*who_cleonice
-Ce grand effort m'apprend celui que je dois faire ;
-Vostre vertu⁎ m'estoit un secours necessaire :
-Il faut la contenter & mon devoir aussi,
-Il faut partir enfin.
-
--*who_pausanias
       Et vous partez ainsi ?
 
--*who_cleonice
-Il le faut bien, Seigneur, vous me chassez vous-mesme.
-
--*who_pausanias
 Moi, Madame ? Ah plûtost c'est vostre haine extréme !
 C'est elle qui vous chasse avec un si grand soin⁎.
 
--*who_cleonice
-Que n'est-il vrai Seigneur, je serois déja loin.
-
--*who_pausanias
 Mais qu'ai-je dit qui puisse à partir vous contraindre ?
 
--*who_cleonice
-Ce que vous m'avez dit me sert trop pour m'en plaindre.
-
--*who_pausanias
 Mais encor qu'ai-je dit qui vous presse à tel point ?
 
--*who_cleonice 
-L'oubliez vous si-tost ?
-
--*who_pausanias
       Ne l'oubliez vous point ?
 Quand vous ne pourriez mesme en perdre la memoire,
 Quoi que j'aye pû dire avez vous pû m'en croire ?
@@ -1731,35 +487,11 @@ Laissez moi voir encor si la Grece propice,
 Peut vouloir qu'avec vous son General s'unisse.
 Resisteriez vous seule à nos communs souhaits ?
 
--*who_cleonice
-Ah la Grece Seigneur ne le voudra jamais !
-
--*who_pausanias
 Oserois-je esperer qu'il ne tient qu'à la Grece ?
 
--*who_cleonice 
-Vostre exemple authorise & me rend ma foiblesse ;
-Allez esperez tout vous m'aprenez trop bien,
-Seigneur que quand on aime on ne refuse rien.
-
-**** *book_ *id_IV03 *act_IV *date_1669 *creator_quinault
-
--*who_demarate
-Pardonnez moi le trouble⁎ où vous met ma presence,
-Seigneur, & m'accordez un moment d'audiance.
-
--*who_pausanias
 Parlez je vous dois tant qu'il me seroit bien doux
 De pouvoir à mon tour quelque chose pour vous.
 
--*who_demarate
-Vostre interest Seigneur est le seul que j'embrasse,
-Ne craignez de ma part rien qui vous embarasse :
-Vous avez pour garans ma tendresse⁎ & ma foi⁎,
-Qu'ayant à vous parlez ce n'est jamais pour moi ;
-C'est pour vous, pour vos jours que mes soins⁎ s'interessent⁎...
-
--*who_pausanias
 Mais sçavez vous, Madame, à qui vos soins⁎ s'addressent ?
 J'ai honte de surprendre⁎ encore à vos bontez
 Des sentiments si doux & si peu meritez :
@@ -1777,182 +509,35 @@ Que mes efforts n'ont fait que resserrer mes noeuds ;
 Qu'aprofondir ma playe & qu'irriter mes feux ;
 Abandonnez des jours digne de vostre haine.
 
--*who_demarate
-Je le voi bien Seigneur, tous mes soins⁎ vous font peine,
-Vostre propre salut pour qui j'ai tant d'effroi,
-Vous deviendroit à charge à le tenir de moi :
-Il vous cousteroit trop au prix d'un grand service,
-De me devoir vos jours & mesme Cleonice ?
-
--*who_pausanias
 Cleonice ? on voudroit l'oster à mon espoir ;
 Puisqu'il vous plaist, Madame, il faut vous tout devoir.
 Parlez, par vos bontez, comblez mon injustice.
 
--*who_demarate
-Hé vous ne m'écoutez qu'au nom de Cleonice!
-Vous pouviez à ma honte insulter un peu moins,
-Vous craignez de devoir vostre vie à mes soins⁎ ?
-Et rendant ma tendresse⁎ à moi mesme fatale⁎,
-Vous n'aprehendez pas d'y devoir ma Rivale ?
-N'importe, il faut Seigneur en sacrifiant tout,
-Pour confondre un ingrat le servir jusqu'au bout.
-Vostre Rival piqué de perdre ce qu'il aime,
-A crû qu'en mesme estat je la seroi de mesme ;
-Que mon dépit⁎ caché n'avoit pas moins d'ardeur,
-Et s'est ouvert à moi pour découvrir mon coeur.
-J'ai d'abord contre vous feint pour mieux vous deffendre,
-D'embrasser le parti qu'il me pressoit de prendre.
-J'ai juré vostre perte & promis d'éclater,
-Avec moi cette nuit il doit tout concerter :
-Et dés que j'aurai sceu ce qu'il veut entreprendre,
-Soyez seur qu'aussi-tost j'irai tout vous aprendre.
-
--*who_pausanias
 Dieux ! faut-il qu'un ingrat toûjours vous doive tant ?
 Je vais faire garder Cleonice à l'instant.
 
--*who_demarate
-Quoi pour l'unique prix de ce dernier service,
-Seigneur vous me quittez déja pour Cleonice ?
-
--*who_pausanias
 Vous qui sçavez aimer excusez un Amant,
 Sa seureté m'engage à cet empressement⁎.
 
--*who_demarate
-Il n'est rien qui vous presse encor pour sa deffence
-On ne doit pas d'abord tenter la violence :
-Mais vostre empressement⁎ doit estre à redouter,
-Peut me rendre suspecte & tout precipiter :
-Je ne répons de rien pour peu qu'on me soupçonne.
-
--*who_pausanias
 Mon sort⁎ est entre vos mains & je vous l'abandonne.
 Cependant, puisqu'il faut qu'on ne soupçonne rien,
 On peut se deffier d'un trop long entretien.
 
--*who_demarate
-Cette precaution ne sçauroit estre vaine⁎,
-Mais Seigneur, c'est un soin⁎ que j'oubliois sans peine,
-Vous n'y songez que trop.
-
--*who_pausanias
       Ah pour tant de bien-faits.
 Que ne puis-je...
 
--*who_demarate
-      Epargnez d'inutiles souhaits.
-Ils redoublent ma honte & la gloire⁎ d'une Autre,
-Seigneur je suis mon sort⁎, allez, suivez le vostre :
-Le vostre est d'estre ingrat, & le mien de sçavoir,
-Et souffrir sans murmure & servir sans espoir.
-Il s'en va donc enfin.
-
-**** *book_ *id_IV04 *act_IV *date_1669 *creator_quinault
-
--*who_charile
-      Il sort l'ame interdite⁎.
-Il vous quitte confus.
-
--*who_demarate
-      Mais enfin il me quite.
-Il ne me peut souffrir, & j'ai beau tout tenter,
-Amour⁎, services, soins⁎, rien ne peut l'arrester.
-
--*who_charile
-J'admire que vostre ame ait tant pû se contraindre.
-
--*who_demarate 
-Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.
-J'ai pris d'extrémes soins⁎, fait les derniers efforts
-Pour retenir l'ardeur de mes jaloux transports⁎ :
-Mais crois-tu dans mon ame à force de contrainte,
-Mes transports⁎ étouffez, ma jalousie éteinte,
-Penses-tu qu'en effet sous ce calme apparent,
-Dans le fonds de mon coeur l'orage soit moins grand.
-J'ai crû par de grands soins⁎ toucher un grand courage⁎,
-Regagner, ramener doucement un volage,
-Et donner à son coeur, & laisser à sa foi⁎
-Des moyens & du temps pour revenir à moi ;
-Mais perdant tout espoir l'Amour⁎ mesme déchaîne
-Un dépit⁎ trop contraint, qui m'échappe & m'entraine,
-Un dépit⁎ à son comble à la fin parvenu,
-Furieux d'autant plus qu'il s'est plus retenu,
-Et pour mieux en un mot te le faire comprendre,
-Un dépit⁎ aussi fort que mon Amour⁎ fut tendre.
-De tant de soins⁎ perdus j'ai du moins profité,
-D'avoir mis ma vengeance en pleine seureté,
-Sans crainte & sans soupçon de mon dépit⁎ extréme,
-Ma victime à mes coups s'offrira d'elle-mesme,
-Et fera de concert avecque ma fureur,
-Pour m'aider à trouver le chemin de son coeur.
-
--*who_charile
-Il mourra donc enfin l'ingrat qui vous offence ?
-
--*who_demarate 
-Il mourra, ce seroit trop peu pour ma vengance.
-Il faut pour le punir au gré de mon transport⁎
-Quelque genre de peine au dessus de la mort.
-Dans un coeur trop charmé, tu viens de voir sans cesse,
-Ce que peut de l'Amour⁎ la derniere tendresse⁎ ;
-Dans un coeur outragé, vien Charile, vien voir
-Ce que peut à son tour l'Amour⁎ au desespoir.
-Fin du Quatriéme Acte.
-
-**** *book_ *id_V01 *act_V *date_1669 *creator_quinault
-
--*who_eurianax
-Dans quel trouble⁎ Seigneur vous voi-je ici paroistre ?
-Ce grand courage⁎ ainsi peut-il se reconnoistre⁎ ?
-Quoi le danger estonne⁎ un coeur si glorieux ?
-
--*who_pausanias
 Quel danger ? que dis-tu ? parle, & t'explique mieux.
 
--*who_eurianax
-Aprenez donc Seigneur qu'une Trouppe mutine,
-Maistresse de la ville au Palais s'achemine,
-Que dans la nuit tout cedde, & que vostre Rival
-Mesme sans qu'il paroisse est nommé General :
-Qu'il n'a qu'à se montrer pour recevoir l'Empire,
-Et qu'en ces lieux enfin contre vous tout conspire.
-
--*who_pausanias
 Les mutins font un Chef dont je prens peu d'effroi.
 Aristide est ici le seul... Mais je le voi.
 
-**** *book_ *id_V02 *act_V *date_1669 *creator_quinault 
-
--*who_aristide
-Je me dérobe aux Grecs & viens ici moi-même
-Deffendre en vous Seigneur l'honneur du Rang suprême,
-C'est en vain qu'à le perdre on peut se voir forcé,
-Le caractere au moins n'en peut estre effacé.
-Mon zele encor pour vous des factieux m'écarte.
-
--*who_pausanias
 D'un zele Athénien je juge en Roi de Sparte.
 Je veux bien y répondre avec un libre aveu,
 Je l'estime beaucoup, & m'en deffie un peu.
 Voyons où des mutins l'audace peut s'estendre.
 
--*who_aristide
-Souffrez qu'auparavant j'ose vous tout apprendre :
-J'ai des Amis en foule à la porte arrestez,
-Qui m'ont suivi sans bruit de differens costez :
-A vous garder ici mon ordre les engage.
-
--*who_pausanias
 Et tout cela par zele et pour mon avantage ?
-
--*who_aristide
-Si vous en jugez bien, vous n'en sçauriez douter.
-Pour vous au moindre effort tout est à redouter.
-Craignez tout des mutins...
-
--*who_pausanias 
+ 
       Quoi donc vous pouvez croire
 Que si je perds mon Rang je survive à ma Gloire⁎ ?
 Que je puisse ramper dans un destin⁎ plus bas !
@@ -1962,80 +547,29 @@ D'un Chef qui l'a sauvé qu'il fasse sa victime,
 Et m'oste enfin la vie avec ma Dignité,
 Pour prix de mes travaux & de sa Liberté.
 
--*who_aristide
-Encore un coup, craignez une fureur extrême,
-Et si vostre grand coeur ne craint rien pour vous mesme,
-Songez contre quel sang les Grecs sont animez⁎,
-Et du moins craignez tout pour ce que vous aimez.
-
--*who_pausanias
 Ah que vous sçavez bien chercher avec adresse
 Par où mon coeur peut craindre, & trouver sa foiblesse !
 Que vostre ambition a de rafinement !
 Et qu'elle se prevaut de mon égarement !
 
--*who_aristide
-Je n'ai rien épargné, Seigneur, je le confesse,
-Pour mettre en mon Païs l'Empire de la Grece.
-J'en obtiens l'avantage, & sans en rien garder,
-Je ne veux que l'honneur de le pouvoir ceder.
-En faveur d'un Ami mon estime en dispose ;
-Voila l'ambition que mon coeur se propose,
-C'est le but de mes voeux⁎, & des soins⁎ que j'ai pris.
-
--*who_pausanias
 Sauvez moi ce que j'aime, il n'importe à quel prix.
 
--*who_aristide
-Fiez vous en à moi, vos feux n'ont rien à craindre,
-La fureur des mutins par mes soins⁎ peut s'esteindre ;
-Et pour vous rendre en paix Maistre de vostre espoir,
-Je veux les renvoyer au camp dans leur devoir ;
-Je vais y donner ordre avecque diligence.
-
--*who_pausanias
 Cependant Cleonice est elle en assurance ?
 
--*who_aristide
-Sophane ayez en soin⁎, pour la garder, prenez
-Tous les Amis qu'ici nous avons amenez.
-
--*who_pausanias
 De grace en ma faveur que vostre soin⁎ redouble
 Respectez son repos, empéchez qu'on le trouble⁎ ;
 De son appartement qu'on s'approche sans bruit,
 Et qu'il n'arrive rien sans que j'en sois instruit.
 
-**** *book_ *id_V03 *act_V *date_1669 *creator_quinault
-
--*who_pausanias
 Je doute Eurianax, si mon amour⁎ extrême
 Doit pour la bien garder se fier qu'à moi même.
 Tout me paroist suspect, mon coeur inquieté,
 Ne la peut croire encor assez en seureté.
 Cherchons nos vrais Amis.
 
--*who_eurianax
-      Le peu qui vous en reste
-Garderoit mal un bien qui vous est si funeste⁎.
-Un bien pour qui l'Amour⁎ vous fait tout oublier,
-C'est à vos ennemis qu'il faut vous en fier.
-Vous l'avez aux dépens d'une grandeur trop haute
-Pour craindre qu'Aristide endure qu'on vous l'oste :
-Et son zele avec joye à ce prix employé,
-Pour servir mal vos feux en est trop bien payé.
-Il vous en doit couster la grandeur souveraine,
-Mesme à vostre Rival vous la cedez sans peine,
-A l'ennemi mortel qui s'est crû tout permis...
-
--*who_pausanias
 Laisse mourir ma haine avec mes ennemis.
 Je cedde un bien sans peine à qui n'y peut pretendre.
 
--*who_eurianax
-Quoi donc vostre Rival...
-
--*who_pausanias
       Je te vais tout apprendre.
 J'attendois Demarate, & devois cette nuit
 Des plus secrets complots estre par elle instruit.
@@ -2079,11 +613,7 @@ Qu'à la douceur de vivre aimé de ce que j'aime,
 Content, débarassé des soins⁎ du Rang supréme,
 Et de passer enfin au gré de mes desirs,
 Du faiste des Grandeurs au comble des plaisirs.
-
--*who_eurianax
-Quel changement Seigneur d'un coeur tel que le vostre,
-
--*who_pausanias 
+ 
 Un grand coeur quand il aime, aime encor plus qu'un autre ;
 Et les mesmes ardeurs, les mesmes sentimens
 Qui font les grands Heros font les tendres Amans.
@@ -2094,182 +624,43 @@ Mes fautes, mes erreurs, tout s'en doit ressentir,
 Et j'oserai porter, quoi qu'on en puisse croire,
 Mon Amour⁎ aussi loin que j'ai porté ma Gloire⁎.
 
-**** *book_ *id_V04 *act_V *date_1669 *creator_quinault
-
--*who_pausanias
 He bien qu'avez vous fait ?
 
--*who_aristide
-      Tout ce que j'ai promis.
-Le tumulte est calmé, les mutins sont soûmis,
-J'ai vû vostre Rival lui-mesme les conduire.
-
--*who_pausanias
 Mon Rival ?
-
--*who_aristide
-      Il promet de ne jamais vous nuire.
-
--*who_pausanias 
+ 
 Hé mon Rival lui-mesme aussi vous a parlé ?
 
--*who_aristide
-Oüy Seigneur, vostre Amour⁎ ne sera plus troublé.
-J'en ai pris sa parole, & s'il s'osoit dédire,
-Je vous en suis garant, cela vous doit suffire :
-Du trouble⁎ où je vous voi vous devez revenir.
-
--*who_pausanias
 Je ne le puis cacher j'ai peine à le bannir.
 
-**** *book_ *id_V05 *act_V *date_1669 *creator_quinault
-
--*who_pausanias
 Mais Sophane en ces lieux, quel ordre vous rappelle ?
 Vous quittez Cleonice.
 
--*who_sophane
-      Elle n'est pas chez elle,
-Seigneur, & j'ai voulu la chercher vainement⁎.
-
--*who_pausanias
 Cleonice n'est pas dans son appartement ?
 Et vous n'avez point sceu ce qu'elle est devenuë ?
-
--*who_sophane
-En habit déguisé pour passer inconnuë,
-Quelques uns de vos Gens craignant les Factieux
-L'ont mise en seureté chez Demarate...
-
--*who_pausanias 
+ 
       O Dieux !
 
--*who_sophane
-J'ai cherché Demarate & je l'ai rencontrée,
-Mais elle ne s'est point avec moi déclarée⁎.
-Elle mesme vous cherche avec empressement⁎,
-Et ne veut s'expliquer qu'avec vous seulement.
-Vous la voyez.
-
-**** *book_ *id_V06 *act_V *date_1669 *creator_quinault
-
--*who_pausanias
       Madame où donc est Cleonice ?
 
--*who_demarate
-Il est juste, il est temps que je vous éclaircisse,
-Je vous aimois Seigneur, & pour vous regagner,
-Je n'ai, vous le savez, voulu rien épargner...
-
--*who_pausanias
 Cleonice, il est vrai, m'a fait tout méconnoistre,
 Je le sçai, mais enfin Madame, où peut-elle estre ?
 
--*who_demarate
-Laissez moi m'expliquer pour vous bien faire voir...
-
--*who_pausanias
 De grace expliquez moi ce que je veux sçavoir,
 Tirez moi des horreurs⁎ d'un embarras⁎ funeste⁎,
 Parlez de Cleonice & laissez tout le reste.
 
--*who_demarate 
-Que vous pressez le coup qui vous doit accabler,
-J'en tremble encor pour vous, commencez d'en trembler.
-J'ai trompé Cleonice en lui faisant entendre⁎,
-Que contre elle les Grecs vouloient tout entreprendre,
-Et qu'après tant de soins⁎ qui vous prouvoient ma foi⁎,
-Vostre amour⁎ n'avoit pû la confier qu'à moi.
-
--*who_pausanias
 Et qu'en avez vous fait ?
 
--*who_demarate
-      Déguisée & sans suitte
-Je l'ai secretement jusques chez vous conduite.
-
--*who_pausanias
 Chez moi ?
 
--*who_demarate
-      Dans vostre Chambre enfin mesme en effet
-Jusqu'en vos mains, voyez ce qu'elles en ont fait.
-
--*who_pausanias
 Qu'entens-je ?
 
--*who_demarate
-      Entendez tout il n'est plus temps de feindre,
-Mon dépit⁎ n'a pour vous que trop sceu se contraindre,
-Il n'a laissé que trop éclatter mon amour⁎,
-Et c'est à ma vengeance à paroistre à son tour.
-Durant vostre sommeil m'avançant la premiere,
-J'ai pris l'occasion d'esteindre la lumiere.
-Cleonice a sans peur suivi mes pas chez vous,
-J'ai ménagé ce temps pour l'offrir à vos coups,
-Sous le nom de Rival par une erreur fatale⁎,
-J'ai forcé vostre Amour⁎ d'immoler ma Rivale :
-Par l'excez de vos feux j'ai sceu vous éblouïr⁎,
-Je me suis fait venger par qui m'a sceu trahir.
-C'estoit peu pour me faire une vengeance pleine,
-D'armer contre vos jours la fureur ny la haine :
-J'ai pris soit d'oser plus loin que vous oster le jour,
-Et d'armer l'Amour⁎ mesme enfin contre l'Amour⁎.
-
--*who_pausanias
 Ah Barbare !
 
--*who_demarate
-      Eclattez, suivez vostre colere,
-Je me suis satisfaite & veux vous satisfaire ;
-J'ai mis vostre rigueur en droit de tout oser,
-Ce dernier sacrifice a dû l'authoriser,
-Il a rendu pour moi vostre horreur⁎ legitime,
-Vous nous deviez enfin cette grande victime,
-Vous nous l'avez offerte, & je viens sans effroi,
-Vous offrir à mon tour celle que je vous doi.
-Achevez, vangez vous, & vangez ma Rivale,
-Que la mort rende au moins nostre fortune⁎ égale,
-Et que le mesme bras du mesme fer armé
-Joigne un sang odieux à ce sang trop aimé.
-Vous dédaignez Seigneur de vous rendre justice,
-Vous me refusez tout jusques à mon supplice ;
-Mais au refus du bras qui me veut negliger,
-Le fer qui m'a vangé au moins vous doit venger.
-
--*who_aristide
-O Dieux ! Courons...
-
--*who_eurianax
-      Seigneur, Sophane l'a suivie,
-Prés d'elle il suffira pour asseurer sa vie.
-De grace demeurons prés de Pausanias,
-De ces premiers transports⁎ ne l'abandonnons pas.
-Fut-il vostre ennemi, fut-il cent fois coupable,
-Voyez où l'a reduit son amour⁎ déplorable.
-
--*who_aristide
-Je plains l'estat funeste⁎ où ses malheurs l'ont mis,
-Et les infortunez sont toûjours mes Amis :
-Un affreux desepoir dans ses regards éclatte,
-Mais Sophane revient & quitte Demarate.
-
-**** *book_ *id_V07 *act_V *date_1669 *creator_quinault
-
--*who_sophane
-Avant qu'on l'ait pû joindre elle a fini son sort,
-Et prevenu nos soins⁎ par une prompte mort.
-D'un coup precipité mortellement frappée.
-
--*who_pausanias
 Donnez, rendez la moi cette fatale⁎ épée,
 Je ne suis donc plus libre ; & pour me voir souffrir,
 On pretend m'oster tout jusqu'au droit de mourir.
 
--*who_aristide
-Vivez Seigneur...
-
--*who_pausanias
       Cruel quoi toûjours me poursuivre ?
 Que vous ai-je donc fait pour me forcer de vivre ?
 Malgré nos differens & vostre inimitié,
@@ -2291,10 +682,6 @@ Puisqu'il ne se peut plus que l'Amour⁎ nous unisse ;
 Ne nous separez pas par un dernier effort,
 Et nous laissez au moins rejoindre par la mort.
 
--*who_eurianax
-Vivez pour tous les Grecs.
-
--*who_pausanias
       Par un zele barbare,
 Eurianax aussi contre moi se declare,
 A l'horreur⁎ de la vie il veut me condamner,
@@ -2308,7 +695,1267 @@ Aigri mon desespoir, rens ma douleur mortelle,
 Deffai moi d'une vie unie à tant d'horreurs⁎,
 C'en est fait il m'exauce, & je sens que je meurs.
 
--*who_aristide
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
+
+De vos amis, Seigneur, fuyez vous la presence,
+Vostre entretien pour eux est-il si peu permis…
+
+Quoy ne puis-je esperer, Seigneur d'estre éclairci
+De ce qui vous oblige à me traitter ainsi ?
+Ne m'apprendrez vous point par un aveu sincere
+Quel crime ou quel malheur me force à vous déplaire ?
+Expliquez moy du moins en quoi j'ai pû manquer⁎.
+
+Moy, Seigneur, que j'aspire à ce rang plein de gloire⁎,
+M'avez vous pû connoistre, & l'avez vous pû croire ;
+Et m'est-il échappé dans la moindre action
+Rien qui m'ait convaincu d'aucune ambition ?
+ 
+Je serai bien coupable en effet, si c'est crime
+Seigneur, que d'adoucir ceux que l'aigreur anime⁎,
+D'appaiser des mutins qui pourroient s'emporter,
+D'empécher contre vous leur fureur d'éclatter.
+
+De grace avec Cymon ne me confondez point,
+Seigneur, c'est de lui seul que part cette injustice :
+Lui seul…
+
+C'est un mal-heur pour moi de perdre vostre estime,
+Seigneur, mais vos mépris n'auront rien qui m'anime⁎ ;
+Et quoi que le vangeance en fut en mon pouvoir,
+Je ne m'en vangerai qu'en faisant mon devoir⁎ ;
+J'accuse mon Ami d'une injustice extrême,
+Et me déclare⁎ enfin pour vous contre lui-même.
+
+Toûjours à son parti l'on m'a vû m'attacher,
+Toûjours mon amitié fut pour lui tendre & pure,
+Et si vous le voulez il est ma creature :
+Mais quelque cher enfin qu'il me soit aujourd'hui
+La justice est pour vous je ne suis plus pour lui.
+
+Epargnez moi de grace une loüange vaine⁎,
+La gloire⁎ où je pretens touche peu d'autres cœurs,
+Je la cherche en moi-mesme & n'en veux point d'ailleurs.
+Assemblez le Conseil, demandez Cleonice,
+J'irai donner l'exemple à vous rendre justice.
+
+Je fais ce que je dois, vous ne me devez rien.
+
+J'en ai donné parole & rien n'est plus certain.
+
+Hé puis-je à mes Amis rendre un plus grand service,
+Que de les empêcher de faire une injustice ;
+Ce n'est pas qu'en effet à vous parler sans fard⁎
+La Politique ici ne prenne un peu de part :
+Vous sçavez mon dessein⁎, Sophane, & quelles peines
+Je souffre à voir toûjours Sparte au dessus d'Athenes,
+Et combien ardamment je cherche quelque jour
+A mettre au premier rang ma Patrie à son tour.
+Si j'obtiens par mes soins⁎ que Sparte enfin nous laisse
+Le droit de commander aux troupes de la Grece,
+J'ai déclaré⁎ déjà que sans songer à moi
+J'en cedde à mon Ami le glorieux emploi :
+Voila ce que pour lui mon amitié veut faire,
+C'est pour mieux le servir que je lui suis contraire.
+Son soin⁎ pour Cleonice est un peu trop pressant,
+Elle est belle, il est jeune, & l'Amour⁎ est puissant,
+Tout est perdu pour lui si cet amour⁎ ne cesse ;
+Cleonice est d'un sang odieux à la Grece,
+Plein de rage de voir ses voisins florissans
+Son Pere pour nous perdre appella les Persans,
+Elle a trop herité des fureurs de son Pere,
+Tout doit estre suspect de qui cherche à lui plaire.
+J'etouffe en mon Ami de dangereux soûpirs,
+Je consulte sa gloire⁎ & non pas ses desirs,
+Et pretens d'autant plus faire voir que je l'aime,
+Que j'ose le servir en dépit⁎ de lui même ;
+Mais pour l'y preparer prenons soin⁎ de le voir,
+Et qu'il s'en plaigne ou non faisons nostre devoir.
+Fin du premier Acte.
+
+D'un Ami mécontent évitons la presence,
+N'allons point de sa peine aigrir la violence,
+Ne nous exposons pas à souffrir aujourd'hui
+Quelque reproche indigne & de nous & de lui.
+Un Amant qui pert tout a peine à se deffendre,
+De dire quelquefois plus qu'on ne doit entendre⁎,
+Laissons-le librement en murmures secrets
+Evaporer l'effort de ses premiers regrets.
+Redoublons cependant les soins⁎ sur qui je fonde
+L'espoir de l'élever au premier rang du Monde,
+Pour prix d'une Maitresse arrachée à ses vœux,
+Faisons le commander à cent Peuples fameux.
+Reparons dignement la perte qu'il regrette,
+Et par de vrais effets d'une amitié parfaite,
+Rendons avec usure à sa gloire⁎ en ce jour
+Tout ce que nous venons d'oster à son Amour⁎.
+
+Essayons s'il se peut, qu'en nous cedant l'Empire,
+Contre son propre Roi Sparte mesme conspire,
+Et que sans qu'à la Grece il en couste du sang,
+Nostre chere Patrie arrive au premier rang.
+Pausanias en offre une voye infaillible,
+Son cœur pour Cleonice a paru trop sensible :
+Il l'aime, & dans l'ardeur de son temperament
+Sa flame ira bien-tost jusqu'à l'aveuglement.
+Pour triompher d'une ame à la haine obstinée,
+Il pourra tout tenter jusques à l'hymenée⁎,
+Et Sparte qui pretend disposer de ses Rois,
+Ne pourra rien souffrir au mépris de son choix.
+Demarate offencée & justement aigrie
+Tournera son Amour⁎ en mortelle furie,
+Et c'est un grand secours, & qu'on doit ménager,
+Qu'une Amante outragée & qui peut se vanger.
+
+C'est le connoistre mal d'en juger de la sorte,
+Sa flame combatuë en deviendra plus forte ;
+Plus nous exposerons d'obstacles à ses feux,
+Et plus nous en rendrons l'effort impetueux.
+Son Amour⁎ languiroit⁎ s'il estoit trop tranquile,
+Son courage⁎ trop fier n'aime rien de facile,
+Et dans quelque dessein⁎ qu'il puisse s'engager,
+S'irrite par l'obstacle & croist par le danger.
+Demarate sur tout prenant nostre querelle,
+J'espere…
+
+Ordonnez, j'obeïs, proposez, j'y consens,
+Le sexe & le merite ont des droits tous puissans.
+J'ai déja ressenti ce qu'on vous fait d'injure,
+J'en sçai l'indignité comme vous j'en murmure,
+Je m'estonnois⁎ d'abord de voir Pausanias
+Differer entre vous un hymen⁎ plein d'appas⁎ ;
+Mais ses empressemens, ses soins⁎ pour Cleonice,
+N'ont que trop découvert toute son injustice :
+Chacun voit à regret à quel rebut honteux
+Vous expose l'ardeur de ses indignes feux.
+Sparte de cette injure avec vous offencée,
+Seule à vous en vanger n'est pas interressée.
+Les Grecs ne doivent plus connoistre un General,
+Qui s'allie en un sang à leur repos fatal⁎,
+Et dans cette odieuse & funeste⁎ alliance,
+Ce qu'il vous fait outrage est la commune offence
+Contre lui hautement nous nous unirons tous…
+
+Vous aimez, & l'amour⁎ se plaist à se flatter,
+Craignez d'en croire trop, gardez de vous méprendre.
+
+Je n'examine point si cette ardeur extrême,
+Ou cherche à m'éblouïr⁎, ou vous seduit vous-mesme ;
+Ou si vostre dépit⁎ par un éclat⁎ si prompt,
+D'un refus asseuré veut prevenir l'affront.
+Sans rien approfondir je ne veux voir, Madame,
+Que ce que vous m'ouvrez du secret de vôtre ame,
+Je croi ce qui vous plaist & veux de bonne foi⁎
+Répondre aux sentimens que vous avez de moi :
+Ne precipitez rien si vous m'en voulez croire,
+Quel que soit vostre Amour⁎ ménagez vostre gloire⁎.
+Après tant de delais peut-estre encor un jour
+Sauvera vostre gloire⁎ ensemble & vostre Amour⁎ :
+Evitez, s'il se peut, les reproches de Sparte,
+Et du moins attendez que Cleonice parte.
+Pausanias pour elle un peu trop genereux⁎,
+Pourroit bien entreprendre au delà de vos vœux.
+
+Vous n'irez pas bien loin voici Pausanias.
+
+Vous me devez trop peu pour vous en souvenir ;
+Mais Demarate cherche à vous entretenir,
+Seigneur, & le secret qu'elle pretend vous dire
+Doit fuir la multitude & veut qu'on se retire.
+
+Je détourne vos pas, je sçai où je m'expose ;
+Mais l'interest public va devant toute chose,
+Et c'est enfin Seigneur, à ne vous rien celer,
+Au nom de tous les Grecs que je viens vous parler.
+
+Croyez qu'avec regret Seigneur…
+
+C'est un soin⁎ important qu'ils soûhaitent de vous,
+Pour vostre propre gloire⁎ & pour le bien de tous.
+Cleonice est toûjours à craindre avec justice.
+
+Oüy, mais les Grecs ont peur qu'elle en puisse abuser.
+Ce que leur a cousté la haine de son Pere
+En fait craindre en la fille un reste hereditaire ;
+Suspecte parmi nous on veut qu'elle aille en paix,
+Parmi nos ennemis jouïr de vos bien-faits,
+Et que vous preniez soin⁎, Seigneur, qu'en diligence⁎
+Elle quitte la Grece, & dés demain Bisance.
+
+Eh c'est par là Seigneur qu'elle est à redouter.
+La Beauté quelquefois forme de grands orages,
+Et est souvent l'écueil des plus fermes courages⁎,
+Des plus fiers ennemis tel a bravé l'effort,
+Qui contre de beaux yeux n'est pas toûjours si fort.
+Quelque Heros qu'on soit on n'est pas insensible,
+Et fust on mille fois à la Guerre invincible,
+Mille fois intrepide & mille fois vainqueur,
+L'Amour⁎ trouve aisément le foible d'un grand cœur.
+
+Tout mon Ami qu'il est je n'en répondrois pas ;
+Mais si je puis Seigneur oser ne vous rien feindre,
+Vous mesme pourriez vous n'y trouver rien à craindre ?
+
+Je parle au nom des Grecs je vous l'ai dit d'abord.
+
+Aucun des Grecs Seigneur n'a la temerité,
+De vouloir de leur Chef choquer⁎ la liberté ;
+Mais si vous estes libre ils pretendent tous l'estre,
+Et pour souffrir un Chef ne souffrent point de Maistre.
+Ils laissent vostre cœur à son gré soûpirer,
+Contre un Objet suspect laissez-les s'asseurer :
+S'ils craignent vous devez d'autant moins vous en plaindre,
+Que ce n'est que pour vous qu'ils ont le plus à craindre :
+Leur soin⁎ part de leur zele, & vous doit estre doux,
+Ils ont peur d'avoir lieu d'oser rien contre vous,
+De vous voir engager plus qu'ils ne voudroient croire,
+De vous voir oublier peut-estre vostre gloire⁎,
+Et pour leur General eux-mesme de se voir
+Dans la necessité d'oublier leur devoir.
+
+      Cessez de nous confondre,
+Ce n'est qu'aux Grecs Seigneur que vous devez répondre.
+Je vous parle pour eux.
+
+Si mon avis Seigneur peut ici se mêler...
+
+Je voi pourquoi Seigneur vous ne m'écoutez plus
+
+Je me dérobe aux Grecs & viens ici moi-même
+Deffendre en vous Seigneur l'honneur du Rang suprême,
+C'est en vain qu'à le perdre on peut se voir forcé,
+Le caractere au moins n'en peut estre effacé.
+Mon zele encor pour vous des factieux m'écarte.
+
+Souffrez qu'auparavant j'ose vous tout apprendre :
+J'ai des Amis en foule à la porte arrestez,
+Qui m'ont suivi sans bruit de differens costez :
+A vous garder ici mon ordre les engage.
+
+Si vous en jugez bien, vous n'en sçauriez douter.
+Pour vous au moindre effort tout est à redouter.
+Craignez tout des mutins...
+
+Encore un coup, craignez une fureur extrême,
+Et si vostre grand coeur ne craint rien pour vous mesme,
+Songez contre quel sang les Grecs sont animez⁎,
+Et du moins craignez tout pour ce que vous aimez.
+
+Je n'ai rien épargné, Seigneur, je le confesse,
+Pour mettre en mon Païs l'Empire de la Grece.
+J'en obtiens l'avantage, & sans en rien garder,
+Je ne veux que l'honneur de le pouvoir ceder.
+En faveur d'un Ami mon estime en dispose ;
+Voila l'ambition que mon coeur se propose,
+C'est le but de mes voeux⁎, & des soins⁎ que j'ai pris.
+
+Fiez vous en à moi, vos feux n'ont rien à craindre,
+La fureur des mutins par mes soins⁎ peut s'esteindre ;
+Et pour vous rendre en paix Maistre de vostre espoir,
+Je veux les renvoyer au camp dans leur devoir ;
+Je vais y donner ordre avecque diligence.
+
+Sophane ayez en soin⁎, pour la garder, prenez
+Tous les Amis qu'ici nous avons amenez.
+
+      Tout ce que j'ai promis.
+Le tumulte est calmé, les mutins sont soûmis,
+J'ai vû vostre Rival lui-mesme les conduire.
+
+      Il promet de ne jamais vous nuire.
+
+Oüy Seigneur, vostre Amour⁎ ne sera plus troublé.
+J'en ai pris sa parole, & s'il s'osoit dédire,
+Je vous en suis garant, cela vous doit suffire :
+Du trouble⁎ où je vous voi vous devez revenir.
+
+O Dieux ! Courons...
+
+Je plains l'estat funeste⁎ où ses malheurs l'ont mis,
+Et les infortunez sont toûjours mes Amis :
+Un affreux desepoir dans ses regards éclatte,
+Mais Sophane revient & quitte Demarate.
+
+Vivez Seigneur...
+
 Ses jours semblent finis, je n'ose en rien attendre ;
 Mais ne negligeons rien des soins⁎ qu'on lui peut rendre.
 FIN.
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonice
+
+Cesse de me flatter d'une attente importune,
+Je connois mieux que toi toute mon infortune,
+Le soin⁎ de Demarate & son empressement⁎,
+La part que l'on me donne en son appartement,
+L'honneur qu'en ce Palais chacun cherche à me rendre,
+Ne me font que trop voir de qui je dois dépendre ;
+L'ennemi de mon Pere & l'autheur de sa mort,
+Pausanias, sans doute, est maistre de mon sort⁎.
+
+N'en rien craindre Stratone ?
+
+      Helas !
+
+N'impute ce soûpir qu'à la perte d'un Pere.
+
+Ha de peur d'en trop voir ne m'observe pas tant.
+
+Non, Stratone, avec toi c'est trop dissimuler,
+C'est trop te déguiser la honte qui me presse,
+Jusqu'au fond de mon cœur voi toute ma foiblesse,
+Pour chercher du secours mon mal n'est que trop grand,
+Et je n'en puis trouver qu'en te le découvrant.
+Malgré tous mes efforts j'en sens la violence,
+Au lieu de s'étouffer grossir par mon silence,
+Et le trouble⁎ où me jette un funeste⁎ penchant,
+Se prevaut de ma honte & croist en se cachant.
+Aprens ce que j'ai peine à comprendre moi-même,
+Tout mon ressentiment, dans sa chaleur extréme,
+Tout l'effort, tout l'excez de la mortelle horreur⁎,
+Qui pour Pausanias avoit saisi mon cœur,
+L'ardeur de l'immoler au sang qui me fit naistre,
+Tout mon soin⁎ pour le perdre avant que le connoistre,
+Par je ne sçai quel charme en mon cœur répandu,
+Tout cela s'est éteint depuis que je l'ai vû,
+Et d'un trouble⁎ secret mon ame toute émeuë
+Ne sçait ce que pour lui ma haine est devenuë ;
+Je n'ose en cet estat trop bien m'éxaminer :
+Ose achever toi mesme, ose tout deviner,
+Et m'épargne du moins dans cet aveu funeste⁎
+La honte, & l'embarras⁎ d'en expliquer le reste.
+
+Ouï mon ressentiment au moins en apparence,
+Garde avec soin⁎ toûjours la mesme violence :
+Mes yeux ne disent rien d'un changement si bas,
+Si mon cœur est seduit ma raison ne l'est pas,
+Et ma haine au dedans connoissant sa foiblesse,
+Se retranche au dehors & s'y rend la maistresse.
+Je crains Pausanias, j'essaïe à l'éviter,
+Mais j'aime en le fuïant qu'il tâche à m'arrester ;
+J'ai beau dés qu'il me parle avec soin⁎ l'interrompre,
+Ma colere s'oublie, & se laisse corrompre ;
+J'ai beau vouloir fermer l'oreille à ses discours,
+J'ai beau n'en rien entendre⁎ il m'en souvient toûjours.
+
+      Que dis-tu ? dy plûtost dy moi bien
+Qu'endurci dans la Guerre il n'est sensible à rien,
+Dy que sa seule ardeur est toute pour la gloire⁎,
+Dy qu'il ne peut m'aimer j'ai besoin de le croire,
+Et mon mal n'est déja que trop à redouter,
+Sans y rien joindre encor qui le puisse augmenter,
+Dy qu'il donne les soins⁎ qu'il s'attache à me rendre
+A la part qu'en mon sort⁎ Demarate veut prendre,
+Et qu'au point comme il est de recevoir sa foi⁎,
+Ce n'est qu'en sa faveur qu'il s'empresse pour moi.
+Pein moi bien cet hymen⁎ que leur Païs souhaite,
+Cet hymen⁎ dont je sens que mon coeur s'inquiete,
+Cet hymen⁎ qui peut seul raffermir mon devoir,
+Et m'oster ma foiblesse en m'ostant tout espoir.
+
+C'est assez qu'il l'épouse, il n'importe qu'il l'aime
+C'en seroit trop, peut-estre, & pour me rendre à moi,
+Sans que son cœur s'engage il suffit de sa foi⁎.
+Je sens que jusques là j'aurai peine à détruire
+Je ne sçai quel espoir qui cherche à me seduire,
+Je le chasse, il revient, je l'étouffe, il renaist…
+Mais Dieux !
+
+      Pausanias paroist.
+
+Je ne fuy pas trop bien, vous m'arrestez toûjours.
+ 
+Libre ! & par vous Seigneur !
+
+      Voïez ce que je doi :
+Et vous mesme Seigneur, répondez vous pour moi.
+
+Excusez-le de grace & ne l'expliquez pas.
+
+Ha ! Madame, dequoi me sollicitez-vous ?
+Sollicitez plûtost & pressez ma retraite,
+Ici ma liberté n'est encor qu'imparfaite,
+Et je ne puis jamais sans trouble⁎ & sans effroi
+En jouïr en des lieux si funestes⁎ pour moi.
+
+Si vous sçaviez combien j'ai droit de le haïr.
+
+Moi, Madame, en ces lieux necessaire pour vous,
+Je faits de vous servir mes souhaits les plus doux :
+Mais je suis mal-heureuse & le sort⁎ d'ordinaire
+A mes plus doux souhaits donne un succés⁎ contraire.
+
+On change quelquefois beaucoup en peu de tems.
+
+Il parle de maniere à laisser peu de doute.
+
+Je me plaindrois à tort de l'offre qu'il m'a faite,
+Je n'ai que trop de lieu d'en estre satisfaite,
+Et vous devez juger au trouble⁎où je me voi,
+Qu'il ne m'a rien offert qui soit honteux pour moi.
+
+      Et comment l'oublier ?
+
+Ne dites rien pour lui : Mais que pourriez vous dire ?
+
+J'ai peur d'écouter trop, souffrez que je vous quitte.
+
+En me parlant pour lui si c'estoit m'irriter,
+Je ne craindrois pas tant de vous trop écouter.
+
+Aprés tant de bien-faits & pour faveur derniere,
+Pourrai-je encor, Seigneur, vous faire une priere ?
+Pourrai-je à mon devoir vous faire consentir⁎ ?
+
+      Pourrai-je enfin partir ?
+
+Les Grecs font leur devoir je fais aussi le mien.
+
+Seigneur si vous m'aimez ne m'en détournez pas.
+
+Hélas !
+
+On dit peu que l'on hait, Seigneur, en soûpirant.
+
+Ne me demandez rien j'aurois peur d'en trop dire.
+
+Ma honte & mon silence en disent-ils trop peu ?
+
+      Et c'est pourquoi je pars !
+J'oublie en vous voyant avec trop peu de peine
+Tout ce que je vous dois de colere & de haine.
+Prés de vous sur mon coeur j'ai trop peu de pouvoir
+Et je tâche en fuyant de sauver mon devoir.
+Laissez moi ménager quelque reste de gloire⁎,
+Ma fuitte vous asseure assez de la victoire.
+Le peril est trop grand & n'a que trop d'appas⁎,
+Epargnez ma foiblesse & n'en triomphez pas.
+
+Puis-je trahir le sang à qui je dois le jour ?
+Qui pourroit m'excuser !
+
+Hé bien Seigneur, hé bien, contre un devoir severe,
+Si l'Amour⁎ sert d'excuse aux fautes qu'il fait faire
+Il ne tiendra qu'à vous de m'en convaincre bien ;
+Et sur vostre devoir je reglerai le mien.
+
+      Non, Seigneur, qu'à vous mesme
+Montrez moi ce que doit un grand coeur quand il aime :
+Montrez moi le premier pour m'en faire une loi⁎
+Mesme foiblesse en vous que vous voulez en moi,
+Montrez moi quelque gloire⁎ ici qui vous retienne
+Par l'oubli de la vostre à negliger la mienne.
+J'en croirai vostre exemple & je trouverai doux
+Que vous m'authorisiez à faillir aprés vous ;
+Puisque la Grece en moi d'un fardeau se délivre,
+J'oserai tout pour vous si vous osez me suivre.
+
+      Hé vous souhaittez bien
+Seigneur qu'en vous aimant j'oublie aussi le mien ?
+
+J'ai fait serment aussi de vous haïr sans cesse.
+
+Le sang d'un Pere est-il plus facile à trahir ?
+
+Et c'est dequoi, Seigneur, l'Amour⁎ vous tiendra conte.
+Un effort de vertu⁎ n'est pas effort pour vous,
+Vostre coeur y suivroit son penchant le plus doux.
+L'ardeur est pour la Gloire⁎ aux grands coeurs naturelle,
+Et l'Amour⁎ ne doit rien de ce qu'on fait pour elle.
+
+      Regardez en ces lieux
+Combien pour vous l'oster vous avez d'envieux ;
+Vous estes en peril toûjours qu'on vous l'arrache,
+Et de plus c'est un rang où ma haine s'attache :
+Il m'a cousté mon Pere & sur lui mon courrous,
+Tombe exprés pour pouvoir se détourner de vous.
+N'attendez pas ici que la Grece vous l'oste,
+La Perse peut vous rendre une grandeur plus haute ;
+Vous pouvez vous y faire un rang à vostre choix,
+Elle a mille Sujets plus grands que tous vos Rois ;
+Cessez pour des ingrats de vaincre & de combatre,
+Relevez le party que vous venez d'abatre :
+Portez y la Victoire, & par vos seuls exploits,
+Changez du Monde entier le sort⁎ jusqu'à deux fois.
+Ce crime, au moins, s'il faut ainsi que l'on le nomme,
+Est un illustre crime & digne d'un grand homme,
+Est digne d'un Heros intrepide, fameux,
+Et pour tout dire enfin, d'un Heros amoureux.
+
+Ce grand effort m'apprend celui que je dois faire ;
+Vostre vertu⁎ m'estoit un secours necessaire :
+Il faut la contenter & mon devoir aussi,
+Il faut partir enfin.
+
+Il le faut bien, Seigneur, vous me chassez vous-mesme.
+
+Que n'est-il vrai Seigneur, je serois déja loin.
+
+Ce que vous m'avez dit me sert trop pour m'en plaindre.
+ 
+L'oubliez vous si-tost ?
+
+Ah la Grece Seigneur ne le voudra jamais !
+ 
+Vostre exemple authorise & me rend ma foiblesse ;
+Allez esperez tout vous m'aprenez trop bien,
+Seigneur que quand on aime on ne refuse rien.
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_demarate
+
+Il le faut avoüer, rien n'est plus éclattant
+Que le supréme honneur du destin⁎ qui m'attend.
+L'hymen⁎ m'offre un Epoux que l'Univers admire,
+C'est par luy que des Grecs la liberté respire.
+Nostre illustre Pays qui depuis si long-temps
+A presque autant produit de Heros que d'enfans,
+Sparte, jusques ici pour sa gloire⁎ immortelle
+N'a point fait naître encor de Roi si digne d'elle.
+C'est sous ce General que l'on vient dans nos champs
+D'immoler en un jour trois cens mille Persans,
+Et que par un effort de valeur sans seconde
+La Grece échappe au joug qui soûmet tout le Monde
+De plus Pausanias n'est point de ces Guerriers
+Dont la teste ait blanchi sous le faix des Lauriers,
+Qui soit monté par l'âge à des grandeurs solides,
+Et dont la Renommée ait attendu les rides.
+Sur le front d'un Héros si fameux, si vaillant,
+L'éclat⁎ de la jeunesse est encor tout brillant.
+Vainqueur qu'il est d'un Roi le plus grand de la Terre,
+Il peut pretendre à vaincre ailleurs que dans la Guerre,
+Et la Paix qu'à la Grece il asseure aujourd'hui
+Peut reserver encor des conquestes pour lui.
+Cependant sur le point du pompeux hymenée⁎
+Qui doit à ce grand homme unir ma destinée⁎,
+Puis-je oser découvrir à ton zele discret
+L'invincible chagrin qui m'accable en secret.
+
+Il ne me plaist que trop, Charile, & c'est ma peine,
+Si mon cœur simplement n'estoit qu'ambitieux
+L'éclat⁎ de son hymen⁎ éblouïroit⁎ mes yeux.
+Mon orgueil trouveroit au seul nom de sa femme
+Dequoi pouvoir remplir tous les vœux de mon ame.
+J'examinerois peu s'il m'aimoit plus ou moins ;
+Je ne prendrois pas garde aux tiedeurs de ses soins⁎ ;
+Et l'heur⁎ d'atteindre au rang le plus beau de la Grece
+Pourroit me consoler de perdre sa tendresse⁎.
+Mais j'aime, & c'est mon mal ; le Ciel pour ce Héros
+M'a fait un cœur sensible, & trop, pour mon repos,
+Et depuis qu'à l'Amour⁎ on se laisse surprendre⁎
+Il en couste bien cher d'avoir un cœur trop tendre.
+
+Tu peux croire qu'il m'aime, & je n'en croirois rien,
+Non, non, s'il estoit vrai j'en serois trop certaine,
+Je le souhaite assez pour le croire sans peine,
+Et pour peu que son cœur pour moy pût s'émouvoir
+Je serois la premiere à m'en apercevoir.
+Depuis un mois entier que je suis à Bizance
+J'observe en me voyant qu'il se fait violence,
+Et que sous la couleur de ses soins⁎ importans
+Toûjours sur nostre hymen⁎ il cherche à gagner temps.
+
+La valeur ne rend pas une ame moins sensible,
+Et la Guerre & l'Amour⁎ n'ont rien d'incompatible.
+Quelqu'heure dérobée aux soins⁎ de sa grandeur,
+Un doux amusement d'une agreable ardeur,
+Un peu d'amour⁎ enfin aprés une victoire
+Peut bien s'accommoder avec toute sa gloire⁎,
+Et loin qu'il fust pour lui honteux de s'enflammer,
+Pour comble de merite il lui manque⁎ d'aimer.
+
+Non, je croi qu'à l'Amour⁎ il n'est rien d'impossible ;
+Mais s'il te faut tout dire il pourroit s'enflamer,
+Charile, & n'aimer pas ce qu'il devroit aimer.
+Depuis que Cleonice est ici prisonniere,
+Voi quels soins⁎ il lui rend…
+
+Je ne l'ai pas prié de la voir tous les jours.
+
+C'est peut-estre en effet ce qui le peut piquer ;
+Et cette haine à vaincre avec toute sa force
+N'est pour un cœur si fier qu'une trop douce amorce
+Mais avant que je montre aucun ressentiment
+Je veux sur ce soupçon m'éclaircir plainement.
+J'en conçoi des moïens qui devront te surprendre⁎
+Et dont malaisement on pourra se deffendre.
+D'un art⁎ si peu commun…
+
+Ce n'est pas moi qu'il cherche, il ne m'apperçoit pas.
+
+N'écoutez point, Seigneur, d'interest que le vôtre,
+C'est celui qui me touche au dessus de tout autre,
+Et si j'ay sur ce choix pû vous solliciter
+Je ne prevoyois pas qu'il vous dût tant couster :
+Pour peu que votre gloire⁎ en ce dessein⁎ hazarde
+Cleonice & son sort⁎ n'ont rien que je regarde,
+Je n'y prens plus de part, & vous devez penser
+Qu'entre elle & vous mes vœux n'ont guere à balancer.
+
+Je vous entens Seigneur, & je sçai mon devoir.
+Je voi ce qui vous plaist, & je cherche à vous plaire.
+Vous voulez que l'hymen⁎ entre nous se differe ;
+Sans chercher de raisons, sans m'expliquer pourquoi,
+Vous le voulez, Seigneur, & c'est assez pour moi.
+Si mesme vous craignez que Sparte ne s'offence
+Du delay d'un hymen⁎ qui fait son esperance,
+Publiez que c'est moi qui seule ai differé,
+Si mon aveu vous sert il vous est assuré.
+Ne regardez que vous.
+
+Ah ! Seigneur, j'y consens, cela vous doit suffire
+Vostre hymen⁎ seul n'est pas tout le bien où j'aspire,
+Ce n'est pas malgré vous que j'y veux parvenir,
+C'est peu que Sparte seule ait soin⁎ de nous unir ;
+Si l'amour⁎ ne prend part à nostre destinée⁎,
+Et ne se mesle un peu d'un si grand hymenée⁎.
+Pour estre au point qui peut rendre mes vœux contens,
+Vostre cœur a besoin encor de quelque temps :
+Bien que l'ordre de Sparte ait à mon avantage
+Enjoint expressément qu'un si grand cœur s'engage.
+Je veux bien, sans jamais abuser de mes droits,
+Aprés l'ordre de Sparte, attendre encor son choix,
+Et pour mettre le comble à mon bon-heur extréme,
+Luy donner le loisir de se donner luy mesme,
+Aprés cela de peur de vous embarasser,
+Seigneur je me retire, & vous laisse y penser.
+
+On vient de m'avertir que suivant nostre espoir
+Le sort⁎ de Cleonice est en vostre pouvoir ;
+Mais Seigneur j'ose attendre une grace nouvelle,
+Et viens vous demander la liberté pour elle.
+
+Vostre ressentiment à quelque point qu'il monte,
+Contre un tel ennemi peut bien ceder sans honte.
+Tant de soins⁎ genereux⁎ seroient-ils impuissans ?
+Le plus fameux des Grecs, le vainqueur des Persans :
+Lui qui par tout triomphe avec si peu de peine,
+Manqueroit⁎-t-il, Madame, à vaincre vostre haine ?
+N'auriez-vous point pour lui des sentimens plus doux ?
+
+Quoi pour Pausanias tant de haine vous reste,
+Qu'un azile en ces lieux vous semble si funeste⁎ ?
+Vostre ressentiment craint tant de se trahir ?
+
+Je sçai qu'un Pere mort contre lui vous anime⁎,
+Qu'il fait de vostre haine un devoir legitime,
+Et que rien n'est si fort que des ressentimens
+Fondez sur tant de droits & sur tant de sermens ;
+Mais ayant fait pour vous tout ce que j'ai pû faire,
+Enfin si dans ces lieux vous m'estiez necessaire…
+
+Il faut vous dire tout, madame, & je veux bien
+Commencer la premiere à ne déguiser rien.
+Je m'y sens disposer par une forte estime,
+Et sans qu'il soit besoin qu'un vain discours l'exprime,
+Vous en avez assez dans les soins⁎ que je prens,
+De fidelles témoins & d'asseurez garans.
+Sparte a plus fait pour moi que je n'eusse osé croire.
+Trop heureuse en effet par son choix plein de gloire⁎.
+Si j'avois accordé pour comble de bon-heur
+Le choix de ma Patrie & celui de mon cœur ;
+Mais engagée ailleurs je ne puis qu'avec peine
+Rompre les nœuds charmans d'une premiere chaîne,
+Et je paye à regret cet honneur mal-heureux
+Du repos de ma vie & de mes plus doux vœux.
+Pressée en cet estat de mortelles allarmes,
+Si j'attens du secours ce n'est que de vos charmes,
+Et je ne puis fonder que sur leur seul pouvoir
+Mon unique ressource, & mon dernier espoir.
+Le succés⁎ y répond, j'observe à vostre veuë
+Que de Pausanias la fierté⁎ diminuë,
+Et que si l'on peut vaincre un cœur si glorieux,
+C'est un droit que le Ciel reserve pour vos yeux.
+Je sçai qu'il faut du temps pour un si grand ouvrage,
+Que ce n'est pas si tost qu'un cœur si fier s'engage,
+Un cœur qui n'eut jamais que des soins⁎ importans.
+
+Que ne vous dois-je point, s'il est vrai qu'il vous aime ?
+Je m'asseure déja qu'il vous l'a dit lui-même.
+C'est beaucoup; mais peut estre est-ce un premier aveu
+Dont vous croyez devoir vous deffier un peu.
+On peut douter d'abord des douceurs qu'on écoute,
+
+O Dieux ! que vous flatez mon espoir le plus doux,
+Il ne me reste plus qu'un scrupule pour vous :
+Quoi que l'heur⁎ d'estre aimée ait toûjours dequoi plaire,
+Je sçai trop à quel point la gloire⁎ vous est chere,
+Et je crains de vous voir hautement dédaigner
+Un amour⁎ que l'hymen⁎ ne peut accompagner.
+Pausanias connoist à quoi Sparte l'engage.
+Son cœur peut sans sa foi⁎ vous tenir lieu d'outrage.
+Ces deux dons separez n'ont rien que de honteux,
+Et vous meritez bien de les avoir tous deux.
+
+Il ne manque⁎ donc plus au bon-heur que j'espere,
+Que vous faire oublier le sang de vostre Pere.
+Ce sang de qui la voix doit sans cesse crier,
+Ce sang qui vous anime⁎…
+
+Il est vrai que l'offence est presque irreparable,
+Pausanias, sans doute, envers vous est coupable,
+J'aurai peine en effet à le bien excuser ;
+Mais ne seroit-il rien qui pûst vous appaiser ?
+On peut excuser tout pour peu qu'on le desire.
+
+Qu'il tâche autant qu'il peut d'éteindre en vostre cœur
+Ce qu'un devoir trop juste y doit former d'horreur⁎.
+Que s'il prit tant de soins⁎ pour perdre vostre Pere,
+Il creut de son trepas l'exemple necessaire,
+Qu'il ne peut rien de plus que ce qu'il fait pour vous,
+Que s'il vous oste un Pere il vous offre un Epoux,
+
+Le soin⁎ de l'excuser à ce point vous irrite ?
+
+Ai-je bien entendu, Charile, est-il possible ?
+Pausanias enfin n'est donc plus insensible ?
+Cette ame impenetrable aux ardeurs des Amans,
+Laisse donc attendrir ses plus fiers sentimens ?
+Le vainqueur des Persans ne peut plus se deffendre
+Du tribut que l'Amour⁎ tost ou tard se fait rendre ?
+Ce grand cœur aime enfin comme les autres cœurs,
+Et pour mon desespoir, Charile, il aime ailleurs.
+
+Quoi tu peux t'estonner⁎ qu'au mépris exposée
+Je cache au moins ma honte aux yeux qui l'ont causée ?
+Que j'oste à ma Rivale en cette occasion,
+La douceur de jouïr de ma confusion ?
+Et tâche d'empécher qu'un vain depit⁎ n'acheve
+De lui montrer le prix du bien qu'elle m'enleve.
+N'attens pas d'un courage⁎ aussi fier que le mien
+De ces éclats⁎ honteux qui ne produisent rien.
+Laissons aux foibles cœurs, aux ames imbeciles⁎
+Consommer leur colere en plaintes inutiles,
+N'épuisons point la nostre en vains emportemens,
+Laissons meurir l'aigreur de nos ressentimens,
+Forçons nostre dépit⁎ à quelqu'excez qu'il monte,
+D'attendre à se montrer qu'il le puisse sans honte,
+Et sans nous exposer par un éclat⁎ trop prompt,
+Tâchons que la vangeance éclatte avant l'affront.
+
+Vangeons nous, s'il se peut, & ne le perdons pas.
+A quelqu'affront cruel que son mépris m'expose,
+Je voudrois bien pouvoir n'en punir que la cause,
+J'aime trop le coupable encor pour m'en vanger,
+Je n'en veux qu'à l'objet⁎ qui m'en fait outrager.
+Voi de quel prix fatal⁎ cette esclave trop vaine⁎
+Recompense les soins⁎ dont j'ai brisé sa chaine,
+Comme il semble à travers tous mes déguisemens,
+Qu'elle ait developpé mes secrets sentimens,
+Comme elle a par degrez fait croistre mes surprises,
+Sceut me percer le cœur à diverses reprises,
+Et me faire avec soin⁎ ressentir à longs traits
+Toute l'indignité des maux qu'elle m'a faits.
+Je n'imagine point une vangeance egale
+A celle d'abaisser l'orgueil d'une Rivale,
+De la rendre à son tour un objet de mépris,
+Et de reprendre un cœur des mains qui nous l'ont pris.
+Mais pour y réüssir mettons bien en usage
+Ce qui peut le mieux vaincre un glorieux courage⁎.
+Combattons ce grand cœur par generosité,
+Engageons sa vertu⁎, ménageons sa fierté⁎,
+Et contre son Amour⁎ joignons pour ma deffence.
+La Gloire⁎, le Devoir, & la Reconnoissance.
+Si tout nous manque⁎ enfin, je sçais où l'attaquer,
+Et la vengeance au moins ne me sçauroit manquer⁎.
+Fin du Second Acte.
+
+Seigneur pour éviter le peril qui me presse,
+C'est entre tous les Grecs à vous que je m'adresse,
+Quoi que nez de Pays l'un de l'autre jaloux,
+Quoi que nulle amitié n'ait pû naistre entre nous,
+C'est sur vous toutefois qu'en un destin⁎ funeste⁎,
+J'ose encore fonder tout l'espoir qui me reste.
+Vostre haute vertu⁎ laisse peu soupçonner,
+Qu'à vostre seul Pays vous puissiez la borner,
+Et la justice en vous parfaite et sans seconde,
+Est un bien que les Dieux vous font pour tout le Monde.
+
+Ah ! Seigneur, ce n'est point ce que je veux de vous.
+Pausanias n'est point Amant de Cleonice,
+C'est un bruit mal fondé qui lui fait injustice.
+J'aurois tort de m'en plaindre & je dois avouër
+Qu'on ne peut pas avoir plus lieu de s'en louër.
+Si l'hymen⁎ entre nous trop long-temps se differe,
+C'est moi qui l'en conjure, il le veut pour me plaire,
+Et si pour Cleonice il fait voir quelque ardeur,
+Tous ses empressemens ne sont qu'en ma faveur.
+J'ai souhaitté de lui ce qu'il ose pour elle,
+Il s'empresseroit moins s'il m'estoit moins fidelle.
+Sparte, ni tous les Grecs n'ont rien à redouter…
+
+Des yeux interessez⁎ se laissent peu surprendre⁎.
+Je répons de son cœur & sans trop me flatter
+Quand j'en ose répondre on n'en doit pas douter.
+Plust aux Dieux qu'à ma honte une heureuse Rivale,
+M'ostast pour mon repos cette gloire⁎ fatale⁎.
+Et qu'un refus injuste & pour moi plein d'appas⁎,
+Pûst d'un aveu honteux m'épargner l'embarras⁎.
+L'époux qui m'est offert brille d'un grand merite,
+Rien n'en tenit l'éclat⁎, pour lui tout sollicite
+En sa propre personne autant que sa grandeur
+N'a que trop dequoi plaire au plus superbe cœur,
+Mais l'aveugle destin⁎ qui dispose des ames,
+M'avoit avant ce choix soûmise à d'autres flames,
+Et du plus grand merite un cœur est peu frappé,
+Quand une fois d'ailleurs il est preoccupé.
+Quelqu'éclat⁎ qu'ait pour moi l'hymen⁎ où l'on m'engage,
+Je n'en voi qu'en tremblant le funeste⁎ avantage,
+Et si Pausanias sçait qu'un autre a mes vœux,
+Pour les tiranniser il est trop genereux⁎.
+J'espere qu'à moi-mesme il voudra bien me rendre,
+D'un Heros tel que lui, c'est ce que j'ose attendre ;
+Et c'est enfin, Seigneur, pour l'y bien disposer,
+Ce qu'aucun mieux que vous ne lui peut proposer.
+
+Dites tout, ma priere en effet vous fait peine,
+J'exige trop de vous, c'est un soin⁎ qui vous gêne,
+Vous cherchez doucement à vous en dispenser,
+Et je veux bien Seigneur, vous en débarasser.
+Je ferai cet aveu sans secours de personne,
+L'ayant fait une fois il n'a rien qui m'estonne⁎.
+Je veux tout déclarer⁎ & j'irai de ce pas.
+ 
+Aristide, Seigneur, ne l'a sçeu que pour vous ;
+J'ai crû que de moi-mesme il vous seroit moins doux ;
+Mais il répond si mal à ce que je desire,
+Que j'ose me resoudre enfin à vous tout dire.
+J'estime vostre hymen⁎ autant que je le doi
+L'honneur du choix de Sparte est précieux pour moi ;
+C'est la plus haute gloire⁎ où je pouvois atteindre.
+
+      Seigneur vous ne m'entendez pas,
+A quelque excez d'honneur que vostre hymen⁎ m'éleve,
+Je ne viens pas ici pour presser qu'il s'acheve :
+Loin d'avoir là-dessus rien à craindre de moi,
+Je viens vous conjurer de degager ma foi⁎,
+Et c'est là cet aveu que mon ame timide,
+Est contrainte à vous faire au refus d'Aristide.
+
+      Ah ! Seigneur, je n'en ai pas douté.
+
+      Gardez de trop promettre,
+Seigneur, & de m'offrir en faveur de mes feux
+Plus que vous ne croyez & plus que je ne veux.
+Il n'est que trop vrai, j'aime, & d'une amour⁎ trop tendre,
+J'aime un ingrat enfin, s'il faut vous tout apprendre,
+Un ingrat dont je prens contre moi l'interest
+Tout insensible encore & tout ingrat qu'il est.
+
+S'il en peut estre helas ! il n'est que trop possible,
+Et pour estre en effet le plus grand des ingrats,
+C'est peu d'estre insensible & de ne m'aimer pas :
+Cet ingrat aime ailleurs sans songer que je l'aime.
+Et pour tout dire enfin cet ingrat c'est vous même.
+ 
+      Ouï, Seigneur, cessons de déguiser,
+Vous aimez Cleonice & voulez l'épouser.
+Ce feu qui me trahit menace vostre teste
+De l'éclat⁎ d'une affreuse & mortelle tempeste,
+Nos voisins envieux, nos alliez jaloux,
+Ne cherchent qu'un pretexte à s'unir contre vous :
+Sparte mesme engagée au refus qui m'offence,
+Croira de mon affront se devoir la vangeance,
+Et si j'ose me plaindre & soustenir mes droits
+J'armerai contre vous tous les Grecs à la fois :
+Voilà pourquoi Seigneur lors que je vous refuse,
+Mesme pour me trahir je vous preste une excuse,
+Et pourquoi ce refus qui vous sert & me nuit,
+Affecte tant l'eclat les témoins & le bruit.
+Je ne puis me vanger quoi que trop offencée,
+Vous estes en peril ma colere est passée,
+Dés qu'un ingrat si cher a besoin de secours,
+Le dépit⁎ presse en vain l'amour⁎ revient toûjours.
+Que Sparte contre moi tonne, éclatte, foudroye,
+A sa fureur pour vous je m'expose avec joye ;
+N'ayant plus nul espoir qui flatte mon Amour⁎,
+Il m'en coustrera peu m'en coustast-il le jour :
+Vous me l'avez rendu trop peu digne d'envie,
+Mes vœux en vous perdant content pour rien la vie :
+Je ne regarde plus que vostre seul danger,
+Je m'y livre aisément pour vous en dégager,
+Et veux bien immolant tout mon bon-heur au vostre,
+Perir pour vous sauver dûst-ce estre pour une autre.
+
+C'est sans doute un effort digne d'un grand courage⁎.
+Rien n'est plus heroïque il le faut avoüer…
+
+Si d'un espoir trop doux j'ai flatté ma tendresse⁎,
+Pardonnez moi Seigneur ce reste de foiblesse :
+L'espoir renaist sans peine, il seduit aisément,
+Et tout trompeur qu'il est il est toûjours charmant.
+Je ne veux point vous faire aucune violence,
+Et si vous en trouvez la moindre en ma presence,
+Si l'effort de mes vœux aux vostres immolez
+Vous touche en ma faveur plus que vous ne voulez,
+Je vous laisse & renonce en ma tendresse⁎ extrême,
+A toucher vostre cœur en depit⁎ de lui-même.
+Allez Seigneur, sans voir ce que vous me coustez
+Offrir ailleurs en paix ce cœur que vous m'ostez :
+Oubliez, s'il se peut qu'à tort il m'abandonne,
+Et qu'il m'estoit mieux deub peut-estre qu'à personne.
+Si du plus tendre Amour⁎ la plus fidelle ardeur
+Pouvoit jamais suffire à mériter un cœur.
+
+Pardonnez moi le trouble⁎ où vous met ma presence,
+Seigneur, & m'accordez un moment d'audiance.
+
+Vostre interest Seigneur est le seul que j'embrasse,
+Ne craignez de ma part rien qui vous embarasse :
+Vous avez pour garans ma tendresse⁎ & ma foi⁎,
+Qu'ayant à vous parlez ce n'est jamais pour moi ;
+C'est pour vous, pour vos jours que mes soins⁎ s'interessent⁎...
+
+Je le voi bien Seigneur, tous mes soins⁎ vous font peine,
+Vostre propre salut pour qui j'ai tant d'effroi,
+Vous deviendroit à charge à le tenir de moi :
+Il vous cousteroit trop au prix d'un grand service,
+De me devoir vos jours & mesme Cleonice ?
+
+Hé vous ne m'écoutez qu'au nom de Cleonice!
+Vous pouviez à ma honte insulter un peu moins,
+Vous craignez de devoir vostre vie à mes soins⁎ ?
+Et rendant ma tendresse⁎ à moi mesme fatale⁎,
+Vous n'aprehendez pas d'y devoir ma Rivale ?
+N'importe, il faut Seigneur en sacrifiant tout,
+Pour confondre un ingrat le servir jusqu'au bout.
+Vostre Rival piqué de perdre ce qu'il aime,
+A crû qu'en mesme estat je la seroi de mesme ;
+Que mon dépit⁎ caché n'avoit pas moins d'ardeur,
+Et s'est ouvert à moi pour découvrir mon coeur.
+J'ai d'abord contre vous feint pour mieux vous deffendre,
+D'embrasser le parti qu'il me pressoit de prendre.
+J'ai juré vostre perte & promis d'éclater,
+Avec moi cette nuit il doit tout concerter :
+Et dés que j'aurai sceu ce qu'il veut entreprendre,
+Soyez seur qu'aussi-tost j'irai tout vous aprendre.
+
+Quoi pour l'unique prix de ce dernier service,
+Seigneur vous me quittez déja pour Cleonice ?
+
+Il n'est rien qui vous presse encor pour sa deffence
+On ne doit pas d'abord tenter la violence :
+Mais vostre empressement⁎ doit estre à redouter,
+Peut me rendre suspecte & tout precipiter :
+Je ne répons de rien pour peu qu'on me soupçonne.
+
+Cette precaution ne sçauroit estre vaine⁎,
+Mais Seigneur, c'est un soin⁎ que j'oubliois sans peine,
+Vous n'y songez que trop.
+
+      Epargnez d'inutiles souhaits.
+Ils redoublent ma honte & la gloire⁎ d'une Autre,
+Seigneur je suis mon sort⁎, allez, suivez le vostre :
+Le vostre est d'estre ingrat, & le mien de sçavoir,
+Et souffrir sans murmure & servir sans espoir.
+Il s'en va donc enfin.
+
+      Mais enfin il me quite.
+Il ne me peut souffrir, & j'ai beau tout tenter,
+Amour⁎, services, soins⁎, rien ne peut l'arrester.
+ 
+Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.
+J'ai pris d'extrémes soins⁎, fait les derniers efforts
+Pour retenir l'ardeur de mes jaloux transports⁎ :
+Mais crois-tu dans mon ame à force de contrainte,
+Mes transports⁎ étouffez, ma jalousie éteinte,
+Penses-tu qu'en effet sous ce calme apparent,
+Dans le fonds de mon coeur l'orage soit moins grand.
+J'ai crû par de grands soins⁎ toucher un grand courage⁎,
+Regagner, ramener doucement un volage,
+Et donner à son coeur, & laisser à sa foi⁎
+Des moyens & du temps pour revenir à moi ;
+Mais perdant tout espoir l'Amour⁎ mesme déchaîne
+Un dépit⁎ trop contraint, qui m'échappe & m'entraine,
+Un dépit⁎ à son comble à la fin parvenu,
+Furieux d'autant plus qu'il s'est plus retenu,
+Et pour mieux en un mot te le faire comprendre,
+Un dépit⁎ aussi fort que mon Amour⁎ fut tendre.
+De tant de soins⁎ perdus j'ai du moins profité,
+D'avoir mis ma vengeance en pleine seureté,
+Sans crainte & sans soupçon de mon dépit⁎ extréme,
+Ma victime à mes coups s'offrira d'elle-mesme,
+Et fera de concert avecque ma fureur,
+Pour m'aider à trouver le chemin de son coeur.
+ 
+Il mourra, ce seroit trop peu pour ma vengance.
+Il faut pour le punir au gré de mon transport⁎
+Quelque genre de peine au dessus de la mort.
+Dans un coeur trop charmé, tu viens de voir sans cesse,
+Ce que peut de l'Amour⁎ la derniere tendresse⁎ ;
+Dans un coeur outragé, vien Charile, vien voir
+Ce que peut à son tour l'Amour⁎ au desespoir.
+Fin du Quatriéme Acte.
+
+Il est juste, il est temps que je vous éclaircisse,
+Je vous aimois Seigneur, & pour vous regagner,
+Je n'ai, vous le savez, voulu rien épargner...
+
+Laissez moi m'expliquer pour vous bien faire voir...
+ 
+Que vous pressez le coup qui vous doit accabler,
+J'en tremble encor pour vous, commencez d'en trembler.
+J'ai trompé Cleonice en lui faisant entendre⁎,
+Que contre elle les Grecs vouloient tout entreprendre,
+Et qu'après tant de soins⁎ qui vous prouvoient ma foi⁎,
+Vostre amour⁎ n'avoit pû la confier qu'à moi.
+
+      Déguisée & sans suitte
+Je l'ai secretement jusques chez vous conduite.
+
+      Dans vostre Chambre enfin mesme en effet
+Jusqu'en vos mains, voyez ce qu'elles en ont fait.
+
+      Entendez tout il n'est plus temps de feindre,
+Mon dépit⁎ n'a pour vous que trop sceu se contraindre,
+Il n'a laissé que trop éclatter mon amour⁎,
+Et c'est à ma vengeance à paroistre à son tour.
+Durant vostre sommeil m'avançant la premiere,
+J'ai pris l'occasion d'esteindre la lumiere.
+Cleonice a sans peur suivi mes pas chez vous,
+J'ai ménagé ce temps pour l'offrir à vos coups,
+Sous le nom de Rival par une erreur fatale⁎,
+J'ai forcé vostre Amour⁎ d'immoler ma Rivale :
+Par l'excez de vos feux j'ai sceu vous éblouïr⁎,
+Je me suis fait venger par qui m'a sceu trahir.
+C'estoit peu pour me faire une vengeance pleine,
+D'armer contre vos jours la fureur ny la haine :
+J'ai pris soit d'oser plus loin que vous oster le jour,
+Et d'armer l'Amour⁎ mesme enfin contre l'Amour⁎.
+
+      Eclattez, suivez vostre colere,
+Je me suis satisfaite & veux vous satisfaire ;
+J'ai mis vostre rigueur en droit de tout oser,
+Ce dernier sacrifice a dû l'authoriser,
+Il a rendu pour moi vostre horreur⁎ legitime,
+Vous nous deviez enfin cette grande victime,
+Vous nous l'avez offerte, & je viens sans effroi,
+Vous offrir à mon tour celle que je vous doi.
+Achevez, vangez vous, & vangez ma Rivale,
+Que la mort rende au moins nostre fortune⁎ égale,
+Et que le mesme bras du mesme fer armé
+Joigne un sang odieux à ce sang trop aimé.
+Vous dédaignez Seigneur de vous rendre justice,
+Vous me refusez tout jusques à mon supplice ;
+Mais au refus du bras qui me veut negliger,
+Le fer qui m'a vangé au moins vous doit venger.
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sophane
+
+Quoi Seigneur au mépris d'une amitié si tendre
+Pausanias obtient tout ce qu'il peut pretendre ?
+D'un ami tout à vous, l'interest sera vain ?
+
+S'il est ainsi toûjours, si l'équité severe
+Etouffe en vous ainsi l'amitié la plus chere,
+Si vous n'osez jamais rien qui ne soit permis,
+Que sert-il donc, Seigneur, d'estre de vos Amis ?
+ 
+On n'attend que vostre ordre & pour cette entreprise,
+Seigneur, selon vos vœux tout est prest sans remise
+Au camp, dans nos vaisseaux, partout, sans hesiter,
+Contre Pausanias on brûle d'éclatter.
+Il n'est que trop en butte à la commune haine,
+Nos alliez sont las de son humeur hautaine,
+En flattant les Esprits aigris par ses hauteurs,
+Vostre douceur adroite a gagné tous les cœurs.
+Chacun souffre à regret qu'un Peuple s'attribuë,
+Sur tous les Peuples Grecs la puissance absoluë,
+Et que Sparte jamais ne voulant rien ceder,
+Perpetuë en ses Rois le droit de commander.
+
+Il n'est donc pas encore à propos qu'on éclatte,
+Il est bon que d'abord Pausanias se flatte,
+De crainte que trop tost effarouchant son cœur,
+Le peril de ses feux n'en étouffe l'ardeur.
+
+      La voici, je vous laisse avec elle,
+Et vais de mon costé diposer nos Amis
+A tenter hautement ce qu'ils nous ont promis.
+
+      Elle n'est pas chez elle,
+Seigneur, & j'ai voulu la chercher vainement⁎.
+
+En habit déguisé pour passer inconnuë,
+Quelques uns de vos Gens craignant les Factieux
+L'ont mise en seureté chez Demarate...
+
+J'ai cherché Demarate & je l'ai rencontrée,
+Mais elle ne s'est point avec moi déclarée⁎.
+Elle mesme vous cherche avec empressement⁎,
+Et ne veut s'expliquer qu'avec vous seulement.
+Vous la voyez.
+
+Avant qu'on l'ait pû joindre elle a fini son sort,
+Et prevenu nos soins⁎ par une prompte mort.
+D'un coup precipité mortellement frappée.
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_eurianax
+
+      Seigneur, Demarate est icy.
+
+De si beaux sentimens où tant d'amour⁎ s'exprime,
+Meritent bien, Seigneur, tout au moins vostre estime,
+Et ce soûpir paroist me dire en sa faveur,
+Qu'un procédé si noble a touché vostre cœur.
+
+      Vous Seigneur ?
+
+Cleonice, Seigneur, est aimable à vos yeux ?
+Elle qui sort d'un sang à la Grece odieux ?
+Qui sçait que vous avez par un devoir severe
+Hai, poursuivi, pris, & condamné son Pere ?
+Qui pour vanger sa mort avec des soins⁎ pressans
+A suivi le débris du party des Persans,
+Et s'est si hautement promise pour Conqueste
+A quiconque en ses mains remettroit vostre teste.
+Enfin vous flattez vous qu'au mépris de son choix,
+Sparte approuve des feux qui choqueront⁎ ses Loix⁎,
+Et que la Grece entiere encor mal affermie,
+Souffre en son General l'amour⁎ d'une ennemie.
+
+Dans ce dessein⁎ sur tout gardez vous d'Aristide,
+S'il est des mécontens c'est luy seul qui les guide
+Sous le grand nom de Juste il cache un cœur jaloux
+Du pouvoir que les Grecs n'ont confié qu'à vous.
+
+N'en est-ce point assez ? & seroit-il possible
+Qu'à cet illustre effort vous fussiez insensible ?
+Se pourroit-il Seigneur qu'il vous fust reproché
+D'avoir vû tant d'Amours⁎ sans en estre touché ?
+Vous laisseriez vous vaincre en grandeur de courage⁎ ?
+Le trouble⁎ où je vous voi paroist d'heureux presage :
+L'Amour⁎ & la Vertu⁎, la Gloire⁎, & le Devoir
+Pour Demarate enfin semblent vous émouvoir.
+
+Dans quel trouble⁎ Seigneur vous voi-je ici paroistre ?
+Ce grand courage⁎ ainsi peut-il se reconnoistre⁎ ?
+Quoi le danger estonne⁎ un coeur si glorieux ?
+
+Aprenez donc Seigneur qu'une Trouppe mutine,
+Maistresse de la ville au Palais s'achemine,
+Que dans la nuit tout cedde, & que vostre Rival
+Mesme sans qu'il paroisse est nommé General :
+Qu'il n'a qu'à se montrer pour recevoir l'Empire,
+Et qu'en ces lieux enfin contre vous tout conspire.
+
+      Le peu qui vous en reste
+Garderoit mal un bien qui vous est si funeste⁎.
+Un bien pour qui l'Amour⁎ vous fait tout oublier,
+C'est à vos ennemis qu'il faut vous en fier.
+Vous l'avez aux dépens d'une grandeur trop haute
+Pour craindre qu'Aristide endure qu'on vous l'oste :
+Et son zele avec joye à ce prix employé,
+Pour servir mal vos feux en est trop bien payé.
+Il vous en doit couster la grandeur souveraine,
+Mesme à vostre Rival vous la cedez sans peine,
+A l'ennemi mortel qui s'est crû tout permis...
+
+Quoi donc vostre Rival...
+
+Quel changement Seigneur d'un coeur tel que le vostre,
+
+      Seigneur, Sophane l'a suivie,
+Prés d'elle il suffira pour asseurer sa vie.
+De grace demeurons prés de Pausanias,
+De ces premiers transports⁎ ne l'abandonnons pas.
+Fut-il vostre ennemi, fut-il cent fois coupable,
+Voyez où l'a reduit son amour⁎ déplorable.
+
+Vivez pour tous les Grecs.
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_stratone
+
+Pausanias, Madame, a fait assez connoistre,
+Que c'est pour l'adoucir qu'il veut s'en rendre maistre.
+Parmi les prisonniers le choix qu'il fait de vous,
+Ne vous doit de sa part rien marquer que de doux,
+Et s'il vous a donné quelque lieu de vous plaindre.
+Je croi que desormais vous devez n'en rien craindre.
+
+      En doutez vous ?
+
+Quoi soûpirer, rougir, & ne répondre pas.
+
+On peut en soûpirer, mais on n'en rougit guere,
+Et plus je vous observe en ce trouble⁎ pressant…
+
+Je n'ai garde de prendre un soin⁎ qui vous offence,
+N'y d'entrer malgré vous dans vostre confidence.
+Je n'examine plus ce qui peut vous troubler⁎.
+
+Qui croiroit qu'un grand cœur dans la haine affermi,
+Eust à craindre d'aimer un mortel ennemi.
+J'avouërai ma surprise & d'autant plus Madame,
+Que rien n'est échappé du secret de vostre ame,
+Et que vostre courroux en secret amorti,
+Devant Pausanias ne s'est point dementi.
+
+Pour vous en consoler on voit dans ce qu'il ose
+Qu'il n'est pas insensible au trouble⁎ qu'il vous cause,
+Que son cœur…
+
+L'ardeur que Demarate à vous servir emploïe,
+Vaut bien que vous voïez son bon-heur avec joïe,
+Elle est digne en effet d'un rang si glorieux,
+Et Sparte pour son Roi ne pouvoit choisir mieux :
+Il doit l'aimer sans peine & son merite extréme…
+
+      Vous vous troublez⁎,
+
+
+**** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_charile
+
+Vous du chagrin, Madame ? en est-il qui vous presse
+Si prés du plus haut rang que puisse offrir la Grece,
+Le vainqueur des Persans, le grand Pausanias,
+Tout aimable qu'il est, ne vous plairoit-il pas ?
+Quel charme y peut manquer⁎ pour l'ame la plus vaine⁎ ?
+
+Pausanias, Madame, encor jusqu'aujourd'hui
+Vous a peu donné lieu de vous plaindre de lui,
+Et vostre ame inquiete en doutant qu'il vous aime
+Est trop ingenieuse à se troubler⁎ soi-mesme.
+Je ne sçaurois penser que vous en jugiez bien.
+
+Son embarras⁎ l'excuse, il est Chef d'une armée
+Jalouse de son rang & de sa renommée ;
+Et les Persans sur terre entierement deffaits,
+Sont encor sur la mer aussi forts que jamais.
+Le cœur d'un grand Guerrier peut aimer comme un autre ;
+Mais sa façon d'aimer differe de la nostre ;
+Ces Heros que la guerre occupe nuit & jour
+Ont peu de temps de reste à donner à l'Amour⁎.
+
+Croïez vous que son cœur soit toûjours insensible ?
+
+      C'est à vostre priere.
+N'avez vous pas pour elle imploré son secours ?
+
+Mais pouvez vous penser qu'il s'attache à lui plaire,
+Lui qu'elle sçait autheur de la mort de son Père,
+Lui contre qui la haine a sceu tant s'expliquer…
+
+      Voicy Pausanias,
+
+C'est dequoi s'estonner⁎ : mais ma surprise extrême
+Est de vous voir tourner vos soins⁎ contre vous-même.
+Aider à vous trahir, & renoncer d'abord
+A vos droits les plus chers avec si peu d'effort.
+
+Contre Pausanias vous pourrez tout sans peine,
+Il a de tous les Grecs ou l'envie ou la haine,
+Et si pour vous vanger sa perte a des appas⁎…
+
+      Il sort l'ame interdite⁎.
+Il vous quitte confus.
+
+J'admire que vostre ame ait tant pû se contraindre.
+
+Il mourra donc enfin l'ingrat qui vous offence ?
+

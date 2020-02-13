@@ -1,6 +1,6 @@
 ---
 identifier: boyer_jeunemarius  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1670  
 title: Le Jeune Marius. Tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: somaize_veritablesprecieuses  
-creator: Somaize, Antoine Baudeau  
+creator: Somaize, Antoine Baudeau ; Georges Forestier.  
 date: 1660  
 title: Les Véritables Prétieuses. Comédie.  
 ---

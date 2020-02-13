@@ -1,239 +1,91 @@
 
 
-**** *book_ *id_epitre *date_1660 *creator_somaize 
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_artemise
 
-EPISTRE. A MONSEIGNEUR, MESSIRE HENRY LOUIS HABERT, Chevalier, Comte du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, & autres lieux, Conseiller du Roy en tous ses Conseils, & Maistre des Requestes ordinaires de son Hostel, &c.
-
-Monseigneur,
-
-Je n'étaleray point icy la grandeur de vostre Naissance⁎, ny les services considerables que vous avez rendus, & que vous rendez tous les jours à l'Estat.
-Je ne diray point que quelque éclat dont vous soyez environné, & que quelques Illustres que soient vos Charges, elles en tirent plus de vous, qu'elles ne vous en donnent.
-Ce n'est pas à moyd'entreprendre un Panegerique, où le merite surpasse de bien loin la plus haute Idée que l'on s'en puisse former : Vous vous devez à vous-mesme toute vostre gloire, & il vous appartient seul de faire quelque chose à vostre avantage, & pour moy, bien que j'aye assez d'ardeur pour souhaitter de dire quelque chose à vostre loüange, je n'ay pas assez de temerité pour l'entreprendre : je seray trop heureux si je puis contribuër quelque chose à vostre divertissement, & si la lecture de ces Vraies Pretieuses, que je vous offre peut vous délasser un moment de vos penibles & continuelles occupations.
-Je ă iij sçay bien qu'à considerer cet Ouvrage sortant de mes mains, il perd quelque chose de son prix, & que le nom de son Autheur pourroit, par la reputation qu'il s'est acquise, vous le rendre plus considerable ; Mais je ne veux rien devoir à autruy, où il s'agit de vous estre obligé : Ouy, Monseigneur, je prefere l'honneur de vous estre redevable à vous seul de la protection que je vous demande pour cette Comedie, à tous les avantages que je pourrois avoir de vous offrir un Livre qui meriteroit & par luy, & par le nom de celuy qui l'auroit fait, l'aveu⁎ d'une personne Illustre, comme vous ; car au moins, vous jugerez qu'un zele⁎ tout pur m'a fait oser ce que j'entreprends, & que qui cherche à vous divertir, cherchera tousjours avecque tout l'empressement possi-/ /-ble les moyens de meriter la qualité qu'il prend avec vostre permission,
-
-Monseigneur,
-
-De vostre tres-humble, tres-obeïssant, & tres-fidelle serviteur Jean Ribou.
-
-**** *book_ *id_preface *date_1660 *creator_somaize
-
-Preface. 
-
-Depuis que la modestie, & l'insolence sont deux contraires, on ne les a jamais veuës mieux unies qu'a fait dans la Preface l'Autheur pretendu des Pretieuses Ridicules : Car si nous examinons ses paroles, il semble qu'il soit assez modeste pour craindre de faire mestre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l'insolence a de plus effronté, & met sur le theatre une Satyre, qui quoy que sous des images crotesques ne laisse pas de blaisser tous ceux qu'il a voulu accuser ; il fait plus de Critique, il s'erige en Juge, & condamne à la berne les Singes, sans voir qu'il prononce un Arrest contre luy en le prononçant contre eux, puis qu'il est certain qu'il est Singe en tout ce qu'il fait, & que non seulement il a copié les Pretieuses de Monsieur l'Abbé de Pure, joüées par les Italiens ; Mais encore qu'il a imité par une singerie, dont il est seul capable le Medecin volant, & plusieurs autres pieces des mesmes Italiens qu'il n'imite pas seulement en ce qu'ils ont joüé sur leur theatre ; mais encor en leurs postures, contrefaisant sans cesse sur le sien & Trivelin & Scaramouche ; mais qu'atendre d'un homme qui tire toute sa gloire des Mémoires de Gillot-Gorgeu, qu'il a acheptez de sa veufve, & dont il s'adopte tous les Ouvrages.
-
-Mais c'est assez parler des Pretieuses Ridicules, il est temps de dire un mot des Vrayes, & tout ce que j'en diray, c'est seulement que je leur ay donné ce Nom, parce qu'elles parlent veritablement le langage qu'on attribuë aux Pretieuses, & que je n'ay pas pretendu par ce titre parler de ces personnes Illustres qui sont trop au dessus de la Satyre pour faire soupçonner que l'on ait dessein de les y inserer : J'ay encore eu d'autres raisons de les nommer ainsi ; qui n'estant connuës de personne ne sçauroient estre condamnées, que si l'on m'accuse de condamner la Satyre, & pourtant d'en composer je ne m'en defen-/ /-deray pas icy, puis qu'elle est tousjours permise contre ceux qui font profession de l'exposer en public.
-
-Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pourquoy je fais que mes Acteurs parlent tantost en insencez, & tantost en gens tout à fait raisonnables ; Mais qui examinera bien les Personnages qu'ils representent, discernera aisement que ce qu'ils disent de juste, c'est seulement par oüy dire, & qu'en ce qu'ils disent d'eux-mesmes ils ne démentent point leurs caracteres.
-
-**** *book_ *id_I01 *act_I *date_1660 *creator_somaize
-
--*who_iscarie
-Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente.
-Allez luy dire que je suis dans le dernieremportement⁎ de ne la point voir.
-
--*who_isabelle
-Je vais vous obeïr Madame, mais la voicy qui vient.
-
-**** *book_ *id_I02 *act_I *date_1660 *creator_somaize
-
--*who_iscarie
-Vrayment ma chere je suis en humeur de pousser⁎ le dernier rudea contre vous, vous n'avez guere d'exactitude dans vos promesses, le temps a desja marqué deux pasb depuis que je vous attends.
-(a De me mettre en colère ; b Deux heures.)
-
--*who_artemise
 Ah ! ma chere il faut que vous sçachiez qu'un certain Marquis, m'est venu voir.
 
--*who_iscarie
-He ! comment s'appelle-t'il ce Marquis ?
-
--*who_artemise
-Il s'appelle le Marquis de Mazarcantara, il sçait tout à fait l'air⁎ de la ruëlle, c'est un Galand de plein piedc qui s'explicque sans aucune incertitude,d & je n'ay jamais veu d'homme qui dise les choses plus congrüment.
-J'ay pourtant remarqué un deffaut en luy qui m'a pensé fairee perdre mon serieux.
+Il s'appelle le Marquis de Mazarcantara, il sçait tout à fait l'air⁎ de la ruëlle, c'est un Galand de plein piedc qui s'explicque sans aucune incertitude,d & je n'ay jamais veu d'homme qui dise les choses plus congrüment. J'ay pourtant remarqué un deffaut en luy qui m'a pensé fairee perdre mon serieux.
 (c Bien fait ; d Hesiter ; e Rire)
 
--*who_iscarie
-Hé quel ?
-
--*who_artemise
 Il ne peut s'empescher de faire la reverence en point d'Hongrie.
 
--*who_iscarie
-Ah ! ma chere, il ressemble donc au Marquis de Mascarille.
-
--*who_artemise
 Ce que vous dites, est une verité toute pure.
 
--*who_iscarie
-Je croy que vous avez dessein⁎ de faire bien des assauts d'appas⁎,f je vous trouve dans vostre bel aymable,g l'invisible n'a pas encore gasté l'æconomie de vostre teste,h vous ne fustes jamais mieux sous les armesi que vous estes, que vos tasches advantageuses sont bien placées,k que vos graces donnent d'esclat à vostre col⁎l & que les tenebresm qui environnent vostre teste relevent bien la blancheur de ce beau tout.
-(f Des conquestes ; g Belle ; h Le vent n'a point desfrisé vos cheveux ; i Habillée ; k Vos mouches ; l Vos perles ; m Coiffes)
-
--*who_artemise
 Ah ! ma chere, vous faites trop de despence en beaux discoursn pour me dauber serieusement ;º mais n'importe tout vous est licite & l'empire⁎ que vous avez sur mon esprit fait que je n'excite pas mon fier contre vous.p
 (n Dites trop de belles choses.; o Pour me railler ; p Que je ne me mets pas en colere.)
 
--*who_iscarie
+Quelle pauvreté ma chere, il n'y a pas une chose raisonnable là dedans !
+
+Il est vray que cela n'est point digerable, & sus tout la penultiesme ou avant derniere Stance de cet insuportable portrait ne fournit rien à l'oreille qui puisse exercer son avidité. Voyez plutost encore une fois si cela n'est pas du dernier inintelligible.
+
+Lisez donc.
+
+Vostre loüange se distancie trop de nostre merite, pour hazarder⁎ le paquet serieuxf contre vous.
+(f Les compliments.)
+
+Monsieur, prenez figure,i s'il vous plaist.
+(i Assisez-vous)
+
+Il est vray que l'on y en pourroit trouver qui lustrent leur visager ; mais outre que celles-là sont graves par leur antiquité⁎, les trouppes auxiliaires de leur esprit soûtiennent assez leurs ambiguitez d'appas⁎.
+(r Qui se fardent.)
+
+C'est une personne qui a des lumieres esloignées.x
+(x Des connoissances confuses.)
+
+Si vos sentimens sont partialisez là dessus vous devez au moins avouër qu'elle a les miroirs de l'ame fort doux,& la bouche bien façonnée, ª qu'elle est d'une vertu severe,b & qu'elle articule bien sa voix.c
+(& Les yeux. ; a Belle. ; b Que l'on obtient rien d'elle. ; c Qu'elle chante bien.)
+
+Vous n'avez pas mal fait, car le troisiesme Elementi qui tombe sur l'eminence des grés,k l'auroit fait d'un illustre un Poëte crotté.
+(i La pluie ; k Les pavez)
+
+Je vous l'avoüeray, je n'ay jamais ouy de stile plus pompeux⁎ & qui fasse plus de tours dans l'oreille que le vostre.
+
+Ah ! c'est trop d'interruptions, brisons là nos interrogations, & sçachons au long de Monsieur, son sentiment sur toutes les pieces que l'on a joüées cet hyver.
+
+Il est vray que j'ay oüy⁎ dire qu'il y avoit de fort beaux vers.
+
+Quoy ! Monsieur, il ne brigue⁎ donc point du tout.
+
+Le sujet est bien du temps.
+
+Pour moy, cela m'enleve jusques au troisiesme ciel.
+
+Ah ! que j'ay d'empressement d'oüir⁎ ce qu'il fait pour nous,
+
+Ah ! vous les lisez à pleineº bouche.
+(o Gravement.)
+
+C'est une ame du premier ordre.r
+(r Grande ame.)
+
+Je demeure muëtte d'estonnement.
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_iscarie
+
+Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernieremportement⁎ de ne la point voir.
+
+Vrayment ma chere je suis en humeur de pousser⁎ le dernier rudea contre vous, vous n'avez guere d'exactitude dans vos promesses, le temps a desja marqué deux pasb depuis que je vous attends.
+(a De me mettre en colère ; b Deux heures.)
+
+He ! comment s'appelle-t'il ce Marquis ?
+
+Hé quel ?
+
+Ah ! ma chere, il ressemble donc au Marquis de Mascarille.
+
+Je croy que vous avez dessein⁎ de faire bien des assauts d'appas⁎,f je vous trouve dans vostre bel aymable,g l'invisible n'a pas encore gasté l'æconomie de vostre teste,h vous ne fustes jamais mieux sous les armesi que vous estes, que vos tasches advantageuses sont bien placées,k que vos graces donnent d'esclat à vostre col⁎l & que les tenebresm qui environnent vostre teste relevent bien la blancheur de ce beau tout.
+(f Des conquestes ; g Belle ; h Le vent n'a point desfrisé vos cheveux ; i Habillée ; k Vos mouches ; l Vos perles ; m Coiffes)
+
 Ce que vous me dites là est du dernier obligeant⁎ ; mais si vous voulez que je vous donne un quart d'heure de divertissement, entrons dans mon cabinet je vous feray voir un innocentq que l'on m'a envoyé ; dont l'encombrement du stil, est capable de faire changer l'assiette de vostre ame.
 (q Poulet)
 
-**** *book_ *id_I03 *act_I *date_1660 *creator_somaize 
-
--*who_beatrix
-Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.
-
--*who_isabelle
-Que vous avez peu de lumiere & que vostre esprit est opaque.
-Est-il possible ! que vous ayez demeuré si long-temps chez une Pretieuse & que vous n'ayez pas encore pris aucune teinture⁎ de l'elegance de leur stile.
-
--*who_beatrix
-Vous estes donc aussi folle qu'elles à ce que je voy, & vous affectez aussi de dire des mots à longue queuë.
-
--*who_isabelle
-Ah ! pleust à Dieu que je pusse estre l'inventrice, comme je ne suis que l'echo de ces mots graves & empoullez qui par un sens misterieux⁎ estallent la vraye & pure signification des choses.
-
--*who_beatrix
-He ! bien puisque vous avez cette pensée, l'envie me prend de disputer⁎ contre vous : aussi bien puisque ce langage n'est inventé que par la fantaisie de certaines femmes, une femme peut bien disputer contre sans que cela paroisse extraordinaire, & pour vous monstrer qu'il n'y a rien de plus extravagant que cette façon de parler, je m'en vais vous dire de certains mots que j'ay retenus qui choquent tout à fait nostre langue naturelle.
-
--*who_isabelle
-Vostre engagement est inconsideré ; mais j'ay assez d'indulgence pour vous tirer de l'erreur où vous a precipité l'espaisseur de vostre esprit.
-
--*who_beatrix
-Bon, je suis ravie que vous ayés des indulgences chés vous, j'avais fait dessein⁎ d'en aller querir à Rome ; mais vous m'espargnez cette peine.
-
--*who_isabelle
-Voila une superfluité dite à contre-temps, venez à vostre dispute⁎ & n'alambiquez point mon esprit de fadaises.
-
--*who_beatrix
-Sça dites moy ! s'il y a rien de plus ridicule que de nommer un lavement le boüillon des deux sœurs.
-A-t'on jamais ouy dire qu'un Me-/ /decin est un Bastard d'Hypocrate : Voyla bien honorer la Medecine ma foy & c'est là le moyen d'encourager ces Messieurs les Medecins à nous tirer des bras du vieil resveur, ou plustost de l'Empire de Morphée, ou pour mieux m'expliquer du lict, à qui vos sçavantes ont donné ces noms.
-C'est encore assez bien debutter⁎ que de nommer les pieds, les chers souffrans, le boire le cher necessaire & d'appeller le potage l'union des deux Elemens.
-A quoy bon ! toutes ces obscuritez, & pourquoy dire en quatre mots ce que nous disons en deux.
-Est-ce qu'il ne seroit pas mieux dit, soufflez ce feu ? que, excitez cet Element combustible ? donnez moy du pain que, apportez le soutien de la vie, voyla une maison, que de dire voyla une garde necessaire, & seriez vous bien assez opiniastre pour me vouloir soustenir que le pot de chambre que vous nommez l'urinal virginal, l'est encorre, quand les filles & les garçons ont donné dans l'amour permis, qui est selon le langage de vos Pretieuses le mariage.
-
--*who_isabelle
-En verité vostre desordre⁎ est terrible & me jette dans une souffrance inconcevable.
-
--*who_beatrix
-Il n'est pas encorre temps de m'interompre & je n'ay pas encorre finy.
-
--*who_isabelle
-Poursuivez donc & rendez viste vostre discours complet.
-
--*who_beatrix
-Je vous dis encor, que quoy que vous puissiez dire, qu'il n'y a rien de plus insupportable que de nommer les dents un ameublement de bouche & de dire, pour faire voir que l'on a long-temps balancé⁎ à faire une chose, qu'il est monté des incertitudes à la gorge.
-Dites moy ! un peu, y a-t'il aucun sens à cela, non plus que de dire qu'une femme a des absences de raison pour explicquer qu'elle est jeune, & dites moy enfin s'il y a rien de plus extravagant que d'appeller des traistres, les Paravants, le Miroir un Peintre de la dernierre fidellité, un Esvantail un Zephir, & une Porte la fidelle gardienne.
-Si par hazard un Jaloux qui auroit fermé une porte sus sa femme & en auroit la clef, estoit trompé par un Galand qui en auroit une fausse, doit-il ! venant à sçavoir la chose appeller encorre la porte la fidelle gardienne.
-Je pourois vous en dire encor quantité ; mais je mesprise si fort cette façon de parler que je ne m'en sçaurois donner la peine.
-
--*who_isabelle
-Ah ! je vais bien vous monstrer...... mais voicy Flanquin, le Pretieux.
-
--*who_beatrix
-Quoy ! le valet du Baron de la Taupiniere, qui vous fait les doux yeux, est donc aussi de ce nombre.
-Vraiment il merite qu'on l'escoute & c'est une chose assez divertissante à mon avis, que d'entendre un valet parler pretieux.
-
-**** *book_ *id_I04 *act_I *date_1660 *creator_somaize
-
--*who_flanquin
-Ah ! ma chere, ma toute aymable, que je suis heureux de vous voir.
-
--*who_isabelle
-Qui t'ameine icy.
-
--*who_flanquin
-Je viens sçavoir si vostre Maistresse est en pouvoir de recevoir visite.
-
--*who_isabelle
-Je m'en vais m'en instruire & dans peu ma responce desembarassera ton ame de cette affaire.
-
--*who_flanquin
-Il faut avoüer, que la methode⁎ de s'exprimer dont on se sert maintenant est une chose qui sert merveilleusement à nous distinguer du commun, & est tout à fait desgagée de la matierre, & à dire le vray, c'est quelque chose de bien satisfaisant de pouvoir fendre la presse & de faire quelque nombre parmy les gens canonisez dans les ruëlles.
-
--*who_beatrix
-Tirez moy d'erreur : ce que vous me venez de dire, n'est-ce point un compliment que vostre maistre a composé pour dire en quelque ruëlle & dont vous avez leu le broüillon.
-
--*who_flanquin
-Je vois bien que vous n'estes pas encorre instruitte de ce que je vaux, & que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; (Isabelle rentre), mais je vous depersuaderay une autre fois.
-Voicy l'anthousiasme de mes yeux, l'aymant de mon Coeur, en un mot mon unique ; il faut que je lui fasse connoistre⁎ qu'elle m'encapucine l'ame & qu'elle m'encendre le Coeur.r
-(r Qu'elle m'enflame⁎.)
-
--*who_isabelle
-Ton maistre viendra quand il luy plaira.
-
--*who_flanquin
-Ah mon ange ! que vous avez bien fait de rapporter en ce lieu le merite qui s'en estoit esloigné, que nous avions besoin dans l'opacité de cette salle, que vos yeux vinssent servir de supplement au Soleil : non que leurs chaleurs ne reduisent mon corps à une secheresse qui m'apprend qu'un bain interieur me seroit fort utille.
-
--*who_beatrix
-La plaisante façon de demander à boire.
-
--*who_flanquin
-Ouy, un bain interieur ou l'agrement donné entre les deux sœurs,s peuvent maintenant empescher la metempsicose de mon ame, qui va bientost s'emanciper de sa demeure, si l'on ne la secourt par l'un de ces remedes, ou si vous ne souffrez⁎ que je gouste avec vous la volupté de l'amour permis.t
-(s Lavement. ;t du Mariage.)
-
--*who_isabelle
-Voyez ! ma compagne, qu'il a bien succé tout ce que la Carte de Cocquetterie luy a pû dogmatiser⁎ de tendresse.
-
--*who_flanquin
-Quoy ; point de quartier ny de treve, tou-/ /sjours, cette juppe modeste m'empeschera de contempler la friponne.u
-(u Cette juppe de dessus m'empeschera de voir celle de dessous)
-
--*who_beatrix
-Ce n'est pas une petite joye de voir un valet pretieux faire l'amour⁎.
-
--*who_isabelle
-Vraiment vous estes aujourd'huy sus vostre grand fecond.
-
--*who_flanquin
-Il est vray, je n'en finesseray point avec vous, mon estime est trop superlative à vostre esgard pour ne pas transiger avec vous d'une verité constante, qui est, que mon cœur est enfrangé de mouvemens.x
-(x Plein de troubles.)
-
--*who_isabelle
-Il faut tomber d'accord, que l'amour a terriblement deffriché y vostre cœur.
-(y Attendri)
-
--*who_flanquin
-N'auroit il point deffriché le vostre, mais que j'aplique la reflexion de ma bouche sur cette belle mouvante.z Ah Dieu, faut-il ! qu'un gand du dernier fendu & me fasse un si outrageant obstacle.
-Ouffe une de vos sensuës m'a picqué extremement peu.
-(z Main ; & Couppé)
-
--*who_beatrix
-La drosle de sensuë qu'une épingle.
-
--*who_flanquin
-Mais j'oublie à l'opposite de vos appas⁎ que la lenteur de mes chers souffrans, peut faire boüilloner le benin cerveau de mon Maistre.
-Je m'en vais donc faire faire diette à mes yeux de leurs astres tutelaires.
-
--*who_isabelle
-Je pastiray beaucoup par le contrecoup de ce quittement.ª
-(a La rigueur de ce quittement.)
-
--*who_beatrix
-Adieu beau Pretieux.
-
--*who_flanquin
-Adieu l'hetheroclite du beau langage.
-
-**** *book_ *id_I05 *act_I *date_1660 *creator_somaize
-
--*who_artemise
-Quelle pauvreté ma chere, il n'y a pas une chose raisonnable là dedans !
-
--*who_iscarie
-Ah ! pour moy, c'est l'effroy des effrois, & il faut que je vous avoüe que les bras m'en tombent.b Quoy !
-Scander cinq ou six Stances⁎ sans y trouver un mot de pom-/ /peuse mesure⁎.
+Ah ! pour moy, c'est l'effroy des effrois, & il faut que je vous avoüe que les bras m'en tombent.b Quoy ! Scander cinq ou six Stances⁎ sans y trouver un mot de pom-/ /peuse mesure⁎.
 (b Que j'en suis fort surprise)
 
--*who_artemise
-Il est vray que cela n'est point digerable, & sus tout la penultiesme ou avant derniere Stance de cet insuportable portrait ne fournit rien à l'oreille qui puisse exercer son avidité.
-Voyez plutost encore une fois si cela n'est pas du dernier inintelligible.
-
--*who_iscarie
 Je me serois contentée du chagrin⁎ de la premiere lecture ; mais pour vous je veux bien faire ce passe avant, aussi bien à quoy tuërions-nous nostre Saturne c dans l'expectation que nous faisons icy du Baron de la Taupiniere.
 (c Temps)
 
--*who_artemise
-Lisez donc.
-
--*who_iscarie
 
 Puis lors que ton pinceau d'une legere touche
 Aura tracé ses yeux, tu traceras sa bouche ;
@@ -251,419 +103,295 @@ Elle brave avecque eux les plus rapides langues,
 Et leurs seuls branslemens⁎ composent son caquet.
 Pour moy, je suis pour ces sortes de vers qui s'esloignent du vulgaire⁎ ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron.
 
-**** *book_ *id_I06 *act_I *date_1660 *creator_somaize
+Ah ! Monsieur, c'est nous mettre trop avant dans le rang favory de vostre pensée, & nous som-/ /mes trop sensibles à la gratitude de vos termes de ruelles.
 
--*who_le_baron
-Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.d
-(d L'Abregé.)
-
--*who_iscarie
-Ah !
-Monsieur, c'est nous mettre trop avant dans le rang favory de vostre pensée, & nous som-/ /mes trop sensibles à la gratitude de vos termes de ruelles.
-
--*who_le_baron
-Ce n'est pas d'aujourd'huy que je sçais que vous faites les choses juste aimablement,e que vous possedez entierement le vent du Bureau, & que devant vous les plus beaux esprits ne sçauroient faire feu.
-(e Bien)
-
--*who_artemise
-Vostre loüange se distancie trop de nostre merite, pour hazarder⁎ le paquet serieuxf contre vous.
-(f Les compliments.)
-
--*who_iscarie
 Ma commune,g
 (g Suivante.)
 
--*who_isabelle
-Plaist-il, Madame,
-
--*who_iscarie
 Fournissez nous icy les throsnes de la ruelle.h
 (h Fauteüils)
 
--*who_artemise
-Monsieur, prenez figure,i s'il vous plaist.
-(i Assisez-vous)
-
--*who_le_baron
-Avez-vous grande foule d'Alcovistesk chez vous ? qui preside ? qui est de quartier ?
-(k De galands.)
-
--*who_isabelle
-Nous en avons plusieurs, & de la vieille roche,l mesme des femmes de la petite vertu ;m & quoy que nous ayons quelques diseuses de pas vray,n nous n'avons point de ces diseuses d'inutilitez, o qui ignorent la force des mots et le friand du goust.
-(l Et de nobles. ; m Galantes ; n Menteuses ; o Paroles superfluës.)
-
--*who_le_baron
-Sans doute quantité de celles qui vous viennent voir, vous servent de mouche,p & l'on y en pourroit trouver aussi dont la neige du visage se fond.q
-(p Sont moins belles que vous. ; q De vieilles.)
-
--*who_artemise
-Il est vray que l'on y en pourroit trouver qui lustrent leur visager ; mais outre que celles-là sont graves par leur antiquité⁎, les trouppes auxiliaires de leur esprit soûtiennent assez leurs ambiguitez d'appas⁎.
-(r Qui se fardent.)
-
--*who_le_baron
-Il faut avoüer, mes Dames, qu'il y a grand plaisir à faire figure dans le monde.s
-(s A estre estimé.)
-
--*who_iscarie
 Vous l'y faites sans doute⁎ bien avantageusement, puis que vous avez dix mil livres de rente en fonds d'esprit, qu'aucun creancier ne peut saisir ny arrester.t
 (t Puisque vous avez beaucoup d'esprit)
 
--*who_le_baron
-De grace, arrestez-là ce discours obligeant⁎ : car je me verrois reduit dans l'incapacité de vous répondre ; mais j'oubliois à vous dire qu'un de mes amis m'a amené ce matin un certain Poëte nouveau qui fait des vers scientifiquement bien, & comme il avoit deux pieces à me li-/ /re, je luy ay promis de l'écouter, apres avoir donné à nature les necessitez meridionnalles.u Flanquin le doit conduire icy des qu'il sera venu, afin que nous prenions ensemble les extasiens divertissemens de cette lecture.
-(u Disner⁎.)
-
--*who_iscarie
 Ma chere, & moy, aimons si demesurement les Poësmes Dramatiques, que nous ne trouvons point de paroles assez energiques pour vous rendre des graces conformes à une obligation⁎ qui est dans un degré superlatif.
 
--*who_le_baron
-Ce discours continuë à me faire voir la magnifique élevation de vostre esprit.
-Mais à propos, je fus il y a quelque temps chez Madame ⁎⁎⁎⁎ que dites-vous d'elle !
-
--*who_artemise
-C'est une personne qui a des lumieres esloignées.x
-(x Des connoissances confuses.)
-
--*who_iscarie
 Pour moy je tiens⁎ qu'elle a l'ame mal demeurée.y
 (y Qu'elle n'a point d'esprit.)
 
--*who_le_baron
-Et moy je ne sçay qu'en croire, il y a quantité de gens qui tiennent⁎ qu'elle a un œuf caché sous la cendre.z
-(z Qu'elle a de l'esprit mais qu'elle n'en a pas la clef.)
-
--*who_artemise
-Si vos sentimens sont partialisez là dessus vous devez au moins avouër qu'elle a les miroirs de l'ame fort doux,& la bouche bien façonnée, ª qu'elle est d'une vertu severe,b & qu'elle articule bien sa voix.c
-(& Les yeux. ; a Belle. ; b Que l'on obtient rien d'elle. ; c Qu'elle chante bien.)
-
--*who_iscarie
 Mais, ce qui est de plus fascheux c'est qu'elle est unie à un inquiet,d & qu'elle est de la petite portion.e
 (d Un homme d'affaire. ; e Peu de bien.)
 
--*who_le_baron
-Je voudrois bien la voir icy ; car je ne l'ay jamais veuë qu'avec l'instrument de la curiosité sur le visage.f
-(f Un masque.)
-
--*who_iscarie
 C'est une chose qui est de la derniere impossi-/ /bilité, car elle ressent à present les contrecoups de la volupté permise.g
 (g En couche)
 
--*who_le_baron
+Ce Poëte n'est donc pas Normand puis qu'il n'a point de Carosse.
+
+On connoist⁎ bien ! Monsieur, que vous avez à commandement l'eau d'Hypocrenne, & que vous estes le frere aisné des neuf sœurs.
+
+Ce que vous nous dites est furieusement incroyable ; car il me souvient bien que dans ses Pretieuses, il improuve⁎ ceux qui lisent leurs pieces avant qu'on les represente, & par là vous me diriez qu'il s'est tourné luy-mesme en ridicule.
+
+He ! quel deffaut !
+
+Ah ! ne nous tenez plus en langueur, dites-le nous viste.
+
+Sans doute⁎.
+
+Mais quelle en est la catastrophe⁎, car c'est là la pierre d'achoppement des Tragedies.
+
+Cela stupeficie mon ame.
+
+Il faut avouër que ces vers tonnent delicatement bien.
+
+Ah ! laissez moy admirer ces similitudes⁎, je trouve ces vers là tout à fait espais.n
+(n Empoullez.)
+
+Il peut entrer.
+
+Monsieur, vous pourrez poursuivre, bien que ce soit un Bourgeois, il n'est point façonnier, & ce n'est point un esprit de Marguillier.q
+(q Sombre & vulgaire⁎)
+
+Ne vous éloignez pas de la portée de ma voix.s
+(s Ne vous en allez pas.)
+
+C'est un grand Poëte, que Monsieur nous a amené, & qui nous a charmé des beaux vers qu'il nous a recitez.
+
+Et quoy ! Monsieur, souffrez⁎-vous sans l'assommer qu'un coquin vous jouë⁎ de la sorte ; car enfin c'est vous qui avez esté le premier duppé.
+
+Un Farceur chez moy, Ah ! si vous ne fuyez.....
+
+Ah ! je me lasse de vous entendre⁎, & si vous ne sortez j'envoyeray querir un mauvais ange des criminels.t
+(t Un Sergent.)
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lebaron
+
+Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.d
+(d L'Abregé.)
+
+Ce n'est pas d'aujourd'huy que je sçais que vous faites les choses juste aimablement,e que vous possedez entierement le vent du Bureau, & que devant vous les plus beaux esprits ne sçauroient faire feu.
+(e Bien)
+
+Avez-vous grande foule d'Alcovistesk chez vous ? qui preside ? qui est de quartier ?
+(k De galands.)
+
+Sans doute quantité de celles qui vous viennent voir, vous servent de mouche,p & l'on y en pourroit trouver aussi dont la neige du visage se fond.q
+(p Sont moins belles que vous. ; q De vieilles.)
+
+Il faut avoüer, mes Dames, qu'il y a grand plaisir à faire figure dans le monde.s
+(s A estre estimé.)
+
+De grace, arrestez-là ce discours obligeant⁎ : car je me verrois reduit dans l'incapacité de vous répondre ; mais j'oubliois à vous dire qu'un de mes amis m'a amené ce matin un certain Poëte nouveau qui fait des vers scientifiquement bien, & comme il avoit deux pieces à me li-/ /re, je luy ay promis de l'écouter, apres avoir donné à nature les necessitez meridionnalles.u Flanquin le doit conduire icy des qu'il sera venu, afin que nous prenions ensemble les extasiens divertissemens de cette lecture.
+(u Disner⁎.)
+
+Ce discours continuë à me faire voir la magnifique élevation de vostre esprit. Mais à propos, je fus il y a quelque temps chez Madame ⁎⁎⁎⁎ que dites-vous d'elle !
+
+Et moy je ne sçay qu'en croire, il y a quantité de gens qui tiennent⁎ qu'elle a un œuf caché sous la cendre.z
+(z Qu'elle a de l'esprit mais qu'elle n'en a pas la clef.)
+
+Je voudrois bien la voir icy ; car je ne l'ay jamais veuë qu'avec l'instrument de la curiosité sur le visage.f
+(f Un masque.)
+
 Mais, il me semble que nostre Poëte devroit estre icy, puis que j'ay ordonné qu'on l'amena dans mes quatre corniches tirées par deux de mes pluches.h
 (h Mon carosse tiré par deux de mes chevaux)
 
--*who_artemise
-Vous n'avez pas mal fait, car le troisiesme Elementi qui tombe sur l'eminence des grés,k l'auroit fait d'un illustre un Poëte crotté.
-(i La pluie ; k Les pavez)
-
--*who_iscarie
-Ce Poëte n'est donc pas Normand puis qu'il n'a point de Carosse.
-
--*who_le_baron
-On fait parler le muët,l sans doute le voicy.
-Ouy c'est luy mesme que Flanquin ameine.
+On fait parler le muët,l sans doute le voicy. Ouy c'est luy mesme que Flanquin ameine.
 (l On heurte.)
 
-**** *book_ *id_I07 *act_I *date_1660 *creator_somaize
-
--*who_le_poete
-Ah ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, & d'une veine bien guindée, les remerciemens que je vous dois de l'heureuse & inesperée connoissance que vous me pro-/ /curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit & embraser mon uranie, d'un feu plus devorant, que n'est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, & bien plus endoctrinant que celuy qu'Appollon inspire aux neuf sœurs.
-
--*who_iscarie
-On connoist⁎ bien !
-Monsieur, que vous avez à commandement l'eau d'Hypocrenne, & que vous estes le frere aisné des neuf sœurs.
-
--*who_artemise
-Je vous l'avoüeray, je n'ay jamais ouy de stile plus pompeux⁎ & qui fasse plus de tours dans l'oreille que le vostre.
-
--*who_le_poete
-Je sçais parler emphibologetiquement : le langage des Dieux m'est ordinaire, & je ne me plains point quand on me dit que l'on ne m'entend⁎ pas ; car c'est signe que je parle en oracle.
-
--*who_flanquin
-Moy, je m'en vais me mettre icy pour faire inventaire des grands mots qui se diront.
-Sça, n'en laissons point passer qu'ils ne soient enregistrez sur nos Tablettes & joüons bien nostre rolle.
-
--*who_le_baron
-Dites nous donc un peu !
-Monsieur au net, vostre sentiment sur les pieces qui se sont joüées depuis peu de temps ; car j'en ay fort peu veu : mesme je fus l'autre jour aux Pretieuses de Bourbon ; mais je ne les pûs entendre⁎ parce que je ne pouvois reigler aucune posture.m
+Dites nous donc un peu ! Monsieur au net, vostre sentiment sur les pieces qui se sont joüées depuis peu de temps ; car j'en ay fort peu veu : mesme je fus l'autre jour aux Pretieuses de Bourbon ; mais je ne les pûs entendre⁎ parce que je ne pouvois reigler aucune posture.m
 (m J'estois trop pressé.)
 
--*who_flanquin
-Bon, en voyla un.
-
--*who_le_poete
-Pour ce qui est des Pretieuses, comme ce n'est qu'un Ouvrage en Prose, je vous diray mon sentiment en peu de mots.
-Premierement il faut que vous sçachiez qu'el-/ /le est plus aagée de trois ans que l'on ne pense, & que dés ce temps-là les Comediens Italiens, y gagnerent dix mil escus, & cela sans faire courre le billet, comme les Bourbonnois en ont amené la coustume.
-
--*who_le_baron
 Le bruit⁎ commun m'a desja donné quelque legere connoissance de cela ; mais Mascarille pourtant soûtient n'avoir imité en rien celle des Italiens.
 
--*who_le_poete
-Ah ! que dites-vous là, c'est la mesme chose, ce sont deux valets tout de mesme qui se deguisent pour plaire à deux femmes, & que leurs Maistres battent à la fin : il y a seu-/ /lement cette petite difference, que dans la premiere les valets le font à l'inceu de leurs Maistres, & que dans la derniere, ce sont eux qui leur font faire.
-Je ne pûs m'empescher de luy en dire mon sentiment chez un Marquis de mes amis, qui loge au quartier du Louvre où il la leut avec son Dom Garcie, avant que l'on la joüât.
-
--*who_iscarie
-Ce que vous nous dites est furieusement incroyable ; car il me souvient bien que dans ses Pretieuses, il improuve⁎ ceux qui lisent leurs pieces avant qu'on les represente, & par là vous me diriez qu'il s'est tourné luy-mesme en ridicule.
-
--*who_le_poete
-Il est vray que je n'aurois pas pensé qu'il eust brigué⁎ comme il fait ; mais je sçay de bonne part qu'il a tiré des Limbes son despit amoureux à force de coups de chapeau, & d'offrir les loges à deux pistolles.
-
--*who_le_baron
 C'est assez parler de sa methode⁎, & puis que vous avez oüy⁎ lire son Dom Garcie, dites-nous un peu ce que c'est !
 
--*who_le_poete
-Ma foy si nous consultons son dessein⁎ il a pretendu faire une piece serieuse ; mais si nous en consultons le sens commun, c'est une fort meschante⁎ Comedie ; car l'on y compte plus d'incidens⁎ que dans son Estourdy.
-
--*who_le_baron
 Mais, Monsieur,....
 
--*who_artemise
-Ah ! c'est trop d'interruptions, brisons là nos interrogations, & sçachons au long de Monsieur, son sentiment sur toutes les pieces que l'on a joüées cet hyver.
-
--*who_le_baron
 Volontiers.
 
--*who_flanquin
-Nous aurons tantost⁎ dequoy faire une autre Pretieuse.
-
--*who_le_poete
-Je veux bien mes Dames, vous obeïr en cette rencontre⁎, & malgré cette animosité que le destin⁎ du Parnasse a semé entre les Poëtes, je les vois trop au dessous de moy pour apprehender aucunement de vous estre suspect en parlant d'eux.
-Je vous diray donc en quel ordre il les faut mettre & le cas qu'il en faut faire.
-Il y en a de certains qui ne meritent pas d'estre mentionnez dans le Catalogue des Illustres, pour n'estre venus au monde qu'incognito, n'y avoir paru qu'en passant, & avoir fait naufrage avant que d'avoir esté en pleine mer.
-Il y en a d'autres aussi dont la voix publique parle assez sans que j'en dise mot, & parmy les Dramatiques dont est question, Corneille, l'aisné tient seul cette place.
-Il n'en va pas tout à fait de mesme de son cadet, & quoy que ce soit une Divinité parmy les Comediens, les encens qu'on luy donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j'en veuille dire du mal, au contraire, je tiens que c'est celuy de tous les Autheurs qui pense plus profondement, & sans doute⁎ l'envie avouëra elle-mesme que son Stilicon est tout à fait beau.
-Nous avons encor veu cet hyver le Federic qui a fort reüssi, & c'est sans doute avec quelque raison, puis qu'il ne part rien de la veine de son Autheur, qui ne soit plein de feu, témoin sa Clotilde, où la boutade est bien exprimée.
-Ces deux pieces ont esté accompagnées de la Stratonice dont le stile est tout different, l'Autheur de cette piece ne s'attachant qu'à faire des vers tendres, où il reüssit fort bien, quoy que je ne me sois engagé qu'à vous parler des Autheurs dont l'on a joüé les pieces cet hyver ; Je ne me puis empescher de vous dire que le theatre a perdu l'illustre Abbé de Bois-Robert, qui par generosité s'en est retiré luy-mesme, de peur que ses pieces n'étouffassent celles des fameux Autheurs qui se sont remis au Theatre depuis peu.
-Il y en a encor un dont je n'ay point parlé, qui joint l'espée à la plume ; il sçait faire des vers mieux qu'Homere, & se bat aussi bien qu'Alexandre.
-On a joüé cet hyver au Petit Bourbon une piece de luy nommée Zenobie.
-
--*who_artemise
-Il est vray que j'ay oüy⁎ dire qu'il y avoit de fort beaux vers.
-
--*who_le_poete
-Comment de beaux vers !
-Nos plus grands Autheurs en metteroient moins dans une douzaine qu'il n'y en a dans celle-là.
-On y remarquoit pourtant un grand deffaut.
-
--*who_iscarie
-He ! quel deffaut !
-
--*who_le_baron
 Ah ! je sçay quel est ce deffaut mieux que personne, & un de mes amis le dit plaisamment à son Autheur, il fut jusques chez luy le trouver, luy ne le connoissant point, luy demanda ce qu'il souhaittoit ; mais il fut bien surpris quand il entendit⁎ qu'on avoit trouvé un grand deffaut dans sa piece, qui n'estoit inconnu à personne.
 
--*who_iscarie
-Ah ! ne nous tenez plus en langueur, dites-le nous viste.
-
--*who_le_baron
 Ce deffaut est en un mot, que les Comediens ne joüoient rien qui vaille, & qu'ils ne sont bons à rien qu'à joüer la farce.
 
--*who_le_poete
-Il est tout vray que si l'hostel de bourgogne eût joüé cette piece, elle eust extremement reüssi ; car c'est un merveilleux assaisonnement à une piece que les bons comediens, & tels malgré toute la fortune de leur nom, tels malgré la force de leur brigue⁎ ne reüssiroient pas comme ils font, si l'on joüoit leurs pieces à bourbon.
-
--*who_artemise
-Quoy !
-Monsieur, il ne brigue⁎ donc point du tout.
-
--*who_le_poete
-Point du tout, & il n'a jamais leu sa piece qu'à deux de ses amis, encor ! les y a t'il fait entrer pour rien.
-
--*who_le_baron
 Mais, Monsieur, c'est assez parler des autres, & je croy que ces Dames sont dans une furieuse impatience d'entendre la lecture de vos pieces, & qu'elles sont desja assez persuadées de vostre merite, pour vous promettre avec moy ; mesme sans les entendre, d'y applaudir de la belle maniere, quand on les representera.
 
--*who_iscarie
-Sans doute⁎.
+Ah ! mes Dames qu'il a bien rencontré⁎, qu'elle est bien imaginée ! qu'il s'est bien devulgarisé ! Ah ! cela me met dans la dernierre demangeson de sçavoir le nom de vostre comedie.
 
--*who_le_poete
-Je vous diray donc pour entrer d'abord⁎ en matiere que j'ay fait deux pieces de stile differend, car l'une est une Tragedie nommée, la mort de lusse-tu-cru.
-
--*who_artemise
-Le sujet est bien du temps.
-
--*who_iscarie
-Mais quelle en est la catastrophe⁎, car c'est là la pierre d'achoppement des Tragedies.
-
--*who_le_poete
-Je le fais lapider par les femmes.
-
--*who_le_baron
-Ah ! mes Dames qu'il a bien rencontré⁎, qu'elle est bien imaginée ! qu'il s'est bien devulgarisé !
-Ah ! cela me met dans la dernierre demangeson de sçavoir le nom de vostre comedie.
-
--*who_le_poete
-Je l'intitulle, les nopces de pantagruel.
-
--*who_le_baron
 Il ne s'est point desmenty⁎, ce titre est incomparable.
 
--*who_iscarie
-Cela stupeficie mon ame.
+Ah ! Monsieur, arrestez & donnez-nous le loisir de nous extasier sur la magnificence de vos signifiantes⁎ expressions.
 
--*who_artemise
-Pour moy, cela m'enleve jusques au troisiesme ciel.
-
--*who_le_poete
-Je m'en vais donc commancer.
-
-**** *book_ *id_I08 *act_I *date_1660 *creator_somaize
-
--*who_lusse_tu_cru
-Jamais l'hidre⁎ fecond en mille & mille testes,
-N'excita tant de bruit⁎ ny de telles tempestes.
-Que cause de douleurs en moy Lusse-tu-cru,
-La femme acariastre, & gueuse de vertu,
-Par sa langue maudite, & tousjours empestée,
-A me persecuter on la voit aheurtée,
-Je l'ay voulu changer ; mais, O ! grands Dieux, helas !
-Bien loin d'en retirer profit, los, ou soullas,
-La mauvaise me suit de taverne en taverne,
-Me frappe, m'injurie, esgratigne, & me berne,
-J'en ay par tout la fievre, & je ne sçais pas où,
-Pour pouvoir me fourer je puis trouver un trou.
-
--*who_le_baron
-Ah !
-Monsieur, arrestez & donnez-nous le loisir de nous extasier sur la magnificence de vos signifiantes⁎ expressions.
-
--*who_iscarie
-Il faut avouër que ces vers tonnent delicatement bien.
-
--*who_le_poete
-Ils parlent un peu contre le sexe, mais dans mon pantagruel, je le justifie⁎ comme il faut.
-
--*who_artemise
-Ah ! que j'ay d'empressement d'oüir⁎ ce qu'il fait pour nous,
-
--*who_le_baron
 Je croy que vous avez raison ; car aussi bien il faut avoir plus de temps pour lire une piece serieuse.
 
--*who_le_poete
+Calcinée, que ce mot est emphatique.
+
+Dites, dites, plustost qu'il n'y a que vous seulles, & pour vous le persuader apprenez que je suis la Force, dit Gilles le Niais en mon nom de theatre, que je vous ay rendu trois ou quatre visites pour connoistre vostre humeur, & qu'ayant veu que vous estiez faciles à decevoir⁎, nous nous sommes enquis mon camarade & moy, de la reputation de tous les Autheurs, de leurs pieces nouvelles. Nous avons appris quelques mots pretieux, & nous sommes apres demeurez d'accord qu'il viendroit icy quand je serois avec vous, qu'il liroit ses pieces, & que j'admirerois tout, pour vous faire donner dans le panneau. Flanquin, que voila avecque moy, & qui est de nostre troupe a bien joüé aussi son rolle, & en contrefaisant le pretieux a bien sceu dupper la suivante.
+
+Nous craignons peu vos menaces, & nous sommes tous trois bien resolus de nous defendre si l'on nous attaque, sçachez donc avant que je sorte, que puis que Mascarille vous rend visite, vous devez bien me souffrir⁎, que s'il s'est acquis par ses Farces la reputation d'avoir de l'esprit, que j'en fais aussi bien que luy sans l'aide des Italiens, & qu'enfin si la veufve de Guilotgorju, mon Maistre & le sien, ne luy eust vendu les Memoires de son mary, ces Farces ne luy eussent jamais donné tant de gloire.
+
+Puis que mon rolle est achevé, il faut bien que je sorte. Allons mes compagnons. Adieu, mes Dames.
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+
+Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.
+
+Vous estes donc aussi folle qu'elles à ce que je voy, & vous affectez aussi de dire des mots à longue queuë.
+
+He ! bien puisque vous avez cette pensée, l'envie me prend de disputer⁎ contre vous : aussi bien puisque ce langage n'est inventé que par la fantaisie de certaines femmes, une femme peut bien disputer contre sans que cela paroisse extraordinaire, & pour vous monstrer qu'il n'y a rien de plus extravagant que cette façon de parler, je m'en vais vous dire de certains mots que j'ay retenus qui choquent tout à fait nostre langue naturelle.
+
+Bon, je suis ravie que vous ayés des indulgences chés vous, j'avais fait dessein⁎ d'en aller querir à Rome ; mais vous m'espargnez cette peine.
+
+Sça dites moy ! s'il y a rien de plus ridicule que de nommer un lavement le boüillon des deux sœurs. A-t'on jamais ouy dire qu'un Me-/ /decin est un Bastard d'Hypocrate : Voyla bien honorer la Medecine ma foy & c'est là le moyen d'encourager ces Messieurs les Medecins à nous tirer des bras du vieil resveur, ou plustost de l'Empire de Morphée, ou pour mieux m'expliquer du lict, à qui vos sçavantes ont donné ces noms. C'est encore assez bien debutter⁎ que de nommer les pieds, les chers souffrans, le boire le cher necessaire & d'appeller le potage l'union des deux Elemens. A quoy bon ! toutes ces obscuritez, & pourquoy dire en quatre mots ce que nous disons en deux. Est-ce qu'il ne seroit pas mieux dit, soufflez ce feu ? que, excitez cet Element combustible ? donnez moy du pain que, apportez le soutien de la vie, voyla une maison, que de dire voyla une garde necessaire, & seriez vous bien assez opiniastre pour me vouloir soustenir que le pot de chambre que vous nommez l'urinal virginal, l'est encorre, quand les filles & les garçons ont donné dans l'amour permis, qui est selon le langage de vos Pretieuses le mariage.
+
+Il n'est pas encorre temps de m'interompre & je n'ay pas encorre finy.
+
+Je vous dis encor, que quoy que vous puissiez dire, qu'il n'y a rien de plus insupportable que de nommer les dents un ameublement de bouche & de dire, pour faire voir que l'on a long-temps balancé⁎ à faire une chose, qu'il est monté des incertitudes à la gorge. Dites moy ! un peu, y a-t'il aucun sens à cela, non plus que de dire qu'une femme a des absences de raison pour explicquer qu'elle est jeune, & dites moy enfin s'il y a rien de plus extravagant que d'appeller des traistres, les Paravants, le Miroir un Peintre de la dernierre fidellité, un Esvantail un Zephir, & une Porte la fidelle gardienne. Si par hazard un Jaloux qui auroit fermé une porte sus sa femme & en auroit la clef, estoit trompé par un Galand qui en auroit une fausse, doit-il ! venant à sçavoir la chose appeller encorre la porte la fidelle gardienne. Je pourois vous en dire encor quantité ; mais je mesprise si fort cette façon de parler que je ne m'en sçaurois donner la peine.
+
+Quoy ! le valet du Baron de la Taupiniere, qui vous fait les doux yeux, est donc aussi de ce nombre. Vraiment il merite qu'on l'escoute & c'est une chose assez divertissante à mon avis, que d'entendre un valet parler pretieux.
+
+Tirez moy d'erreur : ce que vous me venez de dire, n'est-ce point un compliment que vostre maistre a composé pour dire en quelque ruëlle & dont vous avez leu le broüillon.
+
+La plaisante façon de demander à boire.
+
+Ce n'est pas une petite joye de voir un valet pretieux faire l'amour⁎.
+
+La drosle de sensuë qu'une épingle.
+
+Adieu beau Pretieux.
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isabelle
+
+Je vais vous obeïr Madame, mais la voicy qui vient.
+
+Que vous avez peu de lumiere & que vostre esprit est opaque. Est-il possible ! que vous ayez demeuré si long-temps chez une Pretieuse & que vous n'ayez pas encore pris aucune teinture⁎ de l'elegance de leur stile.
+
+Ah ! pleust à Dieu que je pusse estre l'inventrice, comme je ne suis que l'echo de ces mots graves & empoullez qui par un sens misterieux⁎ estallent la vraye & pure signification des choses.
+
+Vostre engagement est inconsideré ; mais j'ay assez d'indulgence pour vous tirer de l'erreur où vous a precipité l'espaisseur de vostre esprit.
+
+Voila une superfluité dite à contre-temps, venez à vostre dispute⁎ & n'alambiquez point mon esprit de fadaises.
+
+En verité vostre desordre⁎ est terrible & me jette dans une souffrance inconcevable.
+
+Poursuivez donc & rendez viste vostre discours complet.
+
+Ah ! je vais bien vous monstrer...... mais voicy Flanquin, le Pretieux.
+
+Qui t'ameine icy.
+
+Je m'en vais m'en instruire & dans peu ma responce desembarassera ton ame de cette affaire.
+
+Ton maistre viendra quand il luy plaira.
+
+Voyez ! ma compagne, qu'il a bien succé tout ce que la Carte de Cocquetterie luy a pû dogmatiser⁎ de tendresse.
+
+Vraiment vous estes aujourd'huy sus vostre grand fecond.
+
+Il faut tomber d'accord, que l'amour a terriblement deffriché y vostre cœur.
+(y Attendri)
+
+Je pastiray beaucoup par le contrecoup de ce quittement.ª
+(a La rigueur de ce quittement.)
+
+Plaist-il, Madame,
+
+Nous en avons plusieurs, & de la vieille roche,l mesme des femmes de la petite vertu ;m & quoy que nous ayons quelques diseuses de pas vray,n nous n'avons point de ces diseuses d'inutilitez, o qui ignorent la force des mots et le friand du goust.
+(l Et de nobles. ; m Galantes ; n Menteuses ; o Paroles superfluës.)
+
+Madame, voila Monsieur de Greval qui vient.
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flanquin
+
+Ah ! ma chere, ma toute aymable, que je suis heureux de vous voir.
+
+Je viens sçavoir si vostre Maistresse est en pouvoir de recevoir visite.
+
+Il faut avoüer, que la methode⁎ de s'exprimer dont on se sert maintenant est une chose qui sert merveilleusement à nous distinguer du commun, & est tout à fait desgagée de la matierre, & à dire le vray, c'est quelque chose de bien satisfaisant de pouvoir fendre la presse & de faire quelque nombre parmy les gens canonisez dans les ruëlles.
+
+Je vois bien que vous n'estes pas encorre instruitte de ce que je vaux, & que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; (Isabelle rentre), mais je vous depersuaderay une autre fois. Voicy l'anthousiasme de mes yeux, l'aymant de mon Coeur, en un mot mon unique ; il faut que je lui fasse connoistre⁎ qu'elle m'encapucine l'ame & qu'elle m'encendre le Coeur.r
+(r Qu'elle m'enflame⁎.)
+
+Ah mon ange ! que vous avez bien fait de rapporter en ce lieu le merite qui s'en estoit esloigné, que nous avions besoin dans l'opacité de cette salle, que vos yeux vinssent servir de supplement au Soleil : non que leurs chaleurs ne reduisent mon corps à une secheresse qui m'apprend qu'un bain interieur me seroit fort utille.
+
+Ouy, un bain interieur ou l'agrement donné entre les deux sœurs,s peuvent maintenant empescher la metempsicose de mon ame, qui va bientost s'emanciper de sa demeure, si l'on ne la secourt par l'un de ces remedes, ou si vous ne souffrez⁎ que je gouste avec vous la volupté de l'amour permis.t
+(s Lavement. ;t du Mariage.)
+
+Quoy ; point de quartier ny de treve, tou-/ /sjours, cette juppe modeste m'empeschera de contempler la friponne.u
+(u Cette juppe de dessus m'empeschera de voir celle de dessous)
+
+Il est vray, je n'en finesseray point avec vous, mon estime est trop superlative à vostre esgard pour ne pas transiger avec vous d'une verité constante, qui est, que mon cœur est enfrangé de mouvemens.x
+(x Plein de troubles.)
+
+N'auroit il point deffriché le vostre, mais que j'aplique la reflexion de ma bouche sur cette belle mouvante.z Ah Dieu, faut-il ! qu'un gand du dernier fendu & me fasse un si outrageant obstacle. Ouffe une de vos sensuës m'a picqué extremement peu.
+(z Main ; & Couppé)
+
+Mais j'oublie à l'opposite de vos appas⁎ que la lenteur de mes chers souffrans, peut faire boüilloner le benin cerveau de mon Maistre. Je m'en vais donc faire faire diette à mes yeux de leurs astres tutelaires.
+
+Adieu l'hetheroclite du beau langage.
+
+Moy, je m'en vais me mettre icy pour faire inventaire des grands mots qui se diront. Sça, n'en laissons point passer qu'ils ne soient enregistrez sur nos Tablettes & joüons bien nostre rolle.
+
+Bon, en voyla un.
+
+Nous aurons tantost⁎ dequoy faire une autre Pretieuse.
+
+Elles donnent dans le paneau.
+
+Je n'oublieray pas ceux cy.
+
+La mesche est découverte.
+
+Si tu veux venir dans nostre Troupe, nous gagnerons bien de l'argent ; car nous allons jouër les trois Docteurs & les Pretieuses Ridicules.
+FIN.
+
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+
+Ah ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, & d'une veine bien guindée, les remerciemens que je vous dois de l'heureuse & inesperée connoissance que vous me pro-/ /curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit & embraser mon uranie, d'un feu plus devorant, que n'est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, & bien plus endoctrinant que celuy qu'Appollon inspire aux neuf sœurs.
+
+Je sçais parler emphibologetiquement : le langage des Dieux m'est ordinaire, & je ne me plains point quand on me dit que l'on ne m'entend⁎ pas ; car c'est signe que je parle en oracle.
+
+Pour ce qui est des Pretieuses, comme ce n'est qu'un Ouvrage en Prose, je vous diray mon sentiment en peu de mots. Premierement il faut que vous sçachiez qu'el-/ /le est plus aagée de trois ans que l'on ne pense, & que dés ce temps-là les Comediens Italiens, y gagnerent dix mil escus, & cela sans faire courre le billet, comme les Bourbonnois en ont amené la coustume.
+
+Ah ! que dites-vous là, c'est la mesme chose, ce sont deux valets tout de mesme qui se deguisent pour plaire à deux femmes, & que leurs Maistres battent à la fin : il y a seu-/ /lement cette petite difference, que dans la premiere les valets le font à l'inceu de leurs Maistres, & que dans la derniere, ce sont eux qui leur font faire. Je ne pûs m'empescher de luy en dire mon sentiment chez un Marquis de mes amis, qui loge au quartier du Louvre où il la leut avec son Dom Garcie, avant que l'on la joüât.
+
+Il est vray que je n'aurois pas pensé qu'il eust brigué⁎ comme il fait ; mais je sçay de bonne part qu'il a tiré des Limbes son despit amoureux à force de coups de chapeau, & d'offrir les loges à deux pistolles.
+
+Ma foy si nous consultons son dessein⁎ il a pretendu faire une piece serieuse ; mais si nous en consultons le sens commun, c'est une fort meschante⁎ Comedie ; car l'on y compte plus d'incidens⁎ que dans son Estourdy.
+
+Je veux bien mes Dames, vous obeïr en cette rencontre⁎, & malgré cette animosité que le destin⁎ du Parnasse a semé entre les Poëtes, je les vois trop au dessous de moy pour apprehender aucunement de vous estre suspect en parlant d'eux. Je vous diray donc en quel ordre il les faut mettre & le cas qu'il en faut faire. Il y en a de certains qui ne meritent pas d'estre mentionnez dans le Catalogue des Illustres, pour n'estre venus au monde qu'incognito, n'y avoir paru qu'en passant, & avoir fait naufrage avant que d'avoir esté en pleine mer. Il y en a d'autres aussi dont la voix publique parle assez sans que j'en dise mot, & parmy les Dramatiques dont est question, Corneille, l'aisné tient seul cette place. Il n'en va pas tout à fait de mesme de son cadet, & quoy que ce soit une Divinité parmy les Comediens, les encens qu'on luy donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j'en veuille dire du mal, au contraire, je tiens que c'est celuy de tous les Autheurs qui pense plus profondement, & sans doute⁎ l'envie avouëra elle-mesme que son Stilicon est tout à fait beau. Nous avons encor veu cet hyver le Federic qui a fort reüssi, & c'est sans doute avec quelque raison, puis qu'il ne part rien de la veine de son Autheur, qui ne soit plein de feu, témoin sa Clotilde, où la boutade est bien exprimée. Ces deux pieces ont esté accompagnées de la Stratonice dont le stile est tout different, l'Autheur de cette piece ne s'attachant qu'à faire des vers tendres, où il reüssit fort bien, quoy que je ne me sois engagé qu'à vous parler des Autheurs dont l'on a joüé les pieces cet hyver ; Je ne me puis empescher de vous dire que le theatre a perdu l'illustre Abbé de Bois-Robert, qui par generosité s'en est retiré luy-mesme, de peur que ses pieces n'étouffassent celles des fameux Autheurs qui se sont remis au Theatre depuis peu. Il y en a encor un dont je n'ay point parlé, qui joint l'espée à la plume ; il sçait faire des vers mieux qu'Homere, & se bat aussi bien qu'Alexandre. On a joüé cet hyver au Petit Bourbon une piece de luy nommée Zenobie.
+
+Comment de beaux vers ! Nos plus grands Autheurs en metteroient moins dans une douzaine qu'il n'y en a dans celle-là. On y remarquoit pourtant un grand deffaut.
+
+Il est tout vray que si l'hostel de bourgogne eût joüé cette piece, elle eust extremement reüssi ; car c'est un merveilleux assaisonnement à une piece que les bons comediens, & tels malgré toute la fortune de leur nom, tels malgré la force de leur brigue⁎ ne reüssiroient pas comme ils font, si l'on joüoit leurs pieces à bourbon.
+
+Point du tout, & il n'a jamais leu sa piece qu'à deux de ses amis, encor ! les y a t'il fait entrer pour rien.
+
+Je vous diray donc pour entrer d'abord⁎ en matiere que j'ay fait deux pieces de stile differend, car l'une est une Tragedie nommée, la mort de lusse-tu-cru.
+
+Je le fais lapider par les femmes.
+
+Je l'intitulle, les nopces de pantagruel.
+
+Je m'en vais donc commancer.
+
+Ils parlent un peu contre le sexe, mais dans mon pantagruel, je le justifie⁎ comme il faut.
+
 He ! bien, je commence sans façonner⁎. pantagruel, entre avec un confident & dit,
 Où sont les violons. As-tu veu Dulcinée,
 Pour qui mon ame est, fust & sera calcinée,
 
--*who_le_baron
-Calcinée, que ce mot est emphatique.
-
--*who_le_confident
-Les violons sont prests, & vous allez dans peu
-Oeilladercomme il faut l'objet de vostre feu⁎.
-
--*who_pantagruel
-Ah ! que de tourbillons, excite dans mon ame
-La boüillonnante ardeur⁎ de ma flotante flame.
-Ah ! je sens que l'amour, ce fretillant nabot,
-Drislededans mon cœur, comme les pois en pot,
-Il virvolte, il se tourne, il y fait la patroüille,
-Sautille comme en l'eau feroit une grenoüille,
-Il rejimbe⁎, il s'estend comme un cheval fougeux,
-Qui prend le mors aux dents, & bondit furieux,
-Il va, monte, & descend dans la chambre & le bouge,
-Il furtetous les coins, & sijamais ne bouge.
-
--*who_iscarie
-Ah ! laissez moy admirer ces similitudes⁎, je trouve ces vers là tout à fait espais.n
-(n Empoullez.)
-
--*who_le_poete
 He ! de grace ne m'interrompez point ; ces sortes de choses veulent de larges polmons, & pour les faire paroistre il ne faut pas s'arrester au milieu.
 
--*who_artemise
-Ah ! vous les lisez à pleineº bouche.
-(o Gravement.)
-
--*who_le_poete
 Sans mon escoulement de nezp je les aurois leus d'un ton bien plus fortifié.
 (p Mon rhusme.)
 
--*who_flanquin
-Elles donnent dans le paneau.
-
-**** *book_ *id_I09 *act_I *date_1660 *creator_somaize
-
--*who_isabelle
-Madame, voila Monsieur de Greval qui vient.
-
--*who_iscarie
-Il peut entrer.
-
--*who_le_poete
 Ah ! qu'il vient mal à propos empescher mon Apologie d'éclatter : car j'en suis à cet endroit.
 
--*who_iscarie
-Monsieur, vous pourrez poursuivre, bien que ce soit un Bourgeois, il n'est point façonnier, & ce n'est point un esprit de Marguillier.q
-(q Sombre & vulgaire⁎)
-
--*who_artemise
-C'est une ame du premier ordre.r
-(r Grande ame.)
-
--*who_flanquin
-Je n'oublieray pas ceux cy.
-
--*who_iscarie
-Ne vous éloignez pas de la portée de ma voix.s
-(s Ne vous en allez pas.)
-
--*who_greval
-Mes Dames que faites vous donc de cet honneste homme icy.
-
--*who_le_poete
 Tout est gasté.
 
--*who_flanquin
-La mesche est découverte.
+Ma foy, puis que vous me connoissez si bien, je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort gueux⁎, & que je n'avois gagné à son service que la methode de faire des vers cocy, cocy, le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, & que je luy pouvois estre utile dans sa troupe, me pria d'y entrer : j'y resistay d'abord ne voulant point passer pour un Farceur ; mais il me representa⁎ que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, & me persuada si bien, que les siennes estoient aussi honnestes⁎ que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, & que j'entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit dessein⁎ de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, & d'y prendre de l'argent de mesme que les autres, & comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m'introduire dans les Compagnies, & il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.
 
--*who_iscarie
-C'est un grand Poëte, que Monsieur nous a amené, & qui nous a charmé des beaux vers qu'il nous a recitez.
-
--*who_greval
-Vous voulez m'en donner, c'est le valet de feu Monsieur Durier, je l'ay veu cent fois chez luy.
-
--*who_le_poete
-Ma foy, puis que vous me connoissez si bien, je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort gueux⁎, & que je n'avois gagné à son service que la methode de faire des vers cocy, cocy, le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, & que je luy pouvois estre utile dans sa troupe, me pria d'y entrer : j'y resistay d'abord ne voulant point passer pour un Farceur ; mais il me representa⁎ que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, & me persuada si bien, que les siennes estoient aussi honnestes⁎ que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, & que j'entray dans sa troupe.
-Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit dessein⁎ de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, & d'y prendre de l'argent de mesme que les autres, & comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m'introduire dans les Compagnies, & il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.
-
--*who_iscarie
-Et quoy !
-Monsieur, souffrez⁎-vous sans l'assommer qu'un coquin vous jouë⁎ de la sorte ; car enfin c'est vous qui avez esté le premier duppé.
-
--*who_le_baron
-Dites, dites, plustost qu'il n'y a que vous seulles, & pour vous le persuader apprenez que je suis la Force, dit Gilles le Niais en mon nom de theatre, que je vous ay rendu trois ou quatre visites pour connoistre vostre humeur, & qu'ayant veu que vous estiez faciles à decevoir⁎, nous nous sommes enquis mon camarade & moy, de la reputation de tous les Autheurs, de leurs pieces nouvelles.
-Nous avons appris quelques mots pretieux, & nous sommes apres demeurez d'accord qu'il viendroit icy quand je serois avec vous, qu'il liroit ses pieces, & que j'admirerois tout, pour vous faire donner dans le panneau.
-Flanquin, que voila avecque moy, & qui est de nostre troupe a bien joüé aussi son rolle, & en contrefaisant le pretieux a bien sceu dupper la suivante.
-
--*who_artemise
-Je demeure muëtte d'estonnement.
-
--*who_greval
-Ce trait est hardy, & s'il estoit arrivé à quelques autres qu'à vous j'en rirois de bon cœur.
-
--*who_iscarie
-Un Farceur chez moy, Ah ! si vous ne fuyez.....
-
--*who_le_baron
-Nous craignons peu vos menaces, & nous sommes tous trois bien resolus de nous defendre si l'on nous attaque, sçachez donc avant que je sorte, que puis que Mascarille vous rend visite, vous devez bien me souffrir⁎, que s'il s'est acquis par ses Farces la reputation d'avoir de l'esprit, que j'en fais aussi bien que luy sans l'aide des Italiens, & qu'enfin si la veufve de Guilotgorju, mon Maistre & le sien, ne luy eust vendu les Memoires de son mary, ces Farces ne luy eussent jamais donné tant de gloire.
-
--*who_iscarie
-Ah ! je me lasse de vous entendre⁎, & si vous ne sortez j'envoyeray querir un mauvais ange des criminels.t
-(t Un Sergent.)
-
--*who_le_baron
-Puis que mon rolle est achevé, il faut bien que je sorte.
-Allons mes compagnons.
-Adieu, mes Dames.
-
--*who_flanquin
-Si tu veux venir dans nostre Troupe, nous gagnerons bien de l'argent ; car nous allons jouër les trois Docteurs & les Pretieuses Ridicules.
-FIN.
-
-**** *book_ *id_privilege *date_1660 *creator_somaize
-
-Extrait du Privilege du Roy.
-
-Par grace & Privilege du Roy, donné à Paris le 12.
-Janvier 1660.
-Signé, par le Roy en son Conseil, Renouard Il est permis à Jean Ribou Marchand Libraire à Paris, d'imprimer ou faire imprimer une Comedie intitulée Les Veritables Pretieuses, pendant le temps & espace de sept ans entiers à compter du jour qu'elle sera imprimée : Et defenses à tous autres de l'imprimer sans la permission dudit Ribou, sur les peines portées par lesdites Lettres qui sont en vertu du present Extrait tenuës pour bien & deuëment signifiées.
-
-Achevée d'imprimer le septiéme Janvier 1660.
-
-Les Exemplaires ont esté fournis.

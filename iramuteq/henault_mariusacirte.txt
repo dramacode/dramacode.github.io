@@ -1,24 +1,725 @@
 
 
-**** *book_ *id_I01 *act_I *date_1715
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hiempsal
 
--*who_cethegus
-Qui peut vous retenir, Seigneur, sur cette rive ?
-Un Romain doit rougir d'une douleur oisive ;
-Persécuté du sort sans en être abattu,
-Il faut que sa disgrâce ajoute à sa vertu.
-Eh quoi ! Sourd a la voix d'un père qui vous aime,
-L'abandonnerez-vous dans son malheur extrême ?
-Marius languissant dans, un honteux repos,
-Ne se souvient-il plus qu'il est fils d'un héros ?
-Ah ! Ce n'est plus le temps, seigneur, où sans défense,
-Vous n'aviez que des pleurs, à donner pour vengeance :
-Profitez du secours qu'on vous offre en ces lieux :
-Obéissez sans honte aux volontés des dieux :
-Ils avaient arrêté qu'un roi de Numidie
-Vengerait deux Romains qu'opprime l'Italie.
+Seigneur, je n'ai pas cru que l'assassin d'un homme
+Dont la seule valeur tant de fois sauva Rome,
+Dût venir en ma cour, au nom de ces Romains,
+Demander que son fils soit livré dans leurs mains.
+Vous osez dans vos murs nous traiter de barbares :
+Vous l'êtes plus que nous. Jamais nos mains avares,
+Secondant les fureurs d'un injuste Sénat,
+N'ont encore à prix d'or vendu l'assassinat.
+Ici nos ennemis, pressés à force ouverte,
+Ne doivent qu'à nous seuls leur salut ou leur perte,
+Et ces lâches détours qu'à Rome on peut vanter,
+Ne sont connus ici que pour les détester.
+Ne croyez pas pourtant qu'aucun parti me touche,
+Ni qu'un aveugle zèle ouvre ou ferme ma bouche.
+Marîus et Sylla, tout est égal pour moi :
+Et mon coeur entre eux deux est maître de sa foi.
+Je hais tous les Romains souillés de parricides ;
+Je hais la cruauté de ces peuples perfides,
+Qui donnant au hasard leur haine et leurs faveurs,
+S'immolent tour-à-tour leurs plus chers défenseurs.
+Ainsi, par la fureur d'une ville cruelle,
+Les Gracques ont péri victimes de leur zèle ;
+Ainsi dans un tumulte en vos murs élevé,
+Sylla, l'ingrat Sylla, par Marius sauvé,
+De son libérateur s'est fait une victime.
+Mais je ne serai point complice de son crime,
+Seigneur ; si mes aïeux, que je cite à regret,
+Devenus vos amis par un semblable trait,
+S'acquirent des Romains l'estime dangereuse,
+Je renonce à leur gloire, et la tiens pour honteuse.
+Je garde dans ma cour le jeune Marius,
+Et Rome peut de vous apprendre mon refus.
 
--*who_marius
+Rome commande aux rois ? Et quel orgueil la flatte ?
+Sait-elle que je règne ainsi que Mithridate ?
+
+Seigneur, si dans vos murs j'avais reçu la vie,
+Ma réponse incertaine en suivrait le génie :
+Mais qui sait haïr Rome aime la vérité,
+Et je vais vous parler avec sincérité.
+Sitôt que Marius prit ma Cour pour asile,
+Il n'en dut plus sortir ; sa prison fut utile,
+Et je crus qu'en mes fers tenir quelques Romains,
+C'est d'autant d'ennemis délivrer les humains.
+J'ai voulu cependant, pour adoucir sa peine,
+Qu'observé par mon ordre il ignorât sa chaîne ;
+Que maître de ses pas dans ma cour éclairés,
+Il prît pour liberté des fers moins resserrés.
+Voilà ce que je pense ; et, pour ne vous rien taire ;
+Votre ambassade ici n'était pas nécessaire ;
+Et croyez que mes voeux auraient été remplis,
+Sa le père en ces lieux avait suivi le fils.
+
+Quoi ! Montrer à mes yeux une telle insolence !
+N'en craignez rien, Seigneur : je prends votre défense ;
+Mon bras pour le punir... Vous vous troublez !
+
+Je vous réponds de tout. Laissez-nous un moment,
+Seigneur ; soyez tranquille.
+
+      Enfin je deviens maître
+De deux grands ennemis que le Tibre a vu naître.
+Ce ministre insolent, qui se livre en mes mains,
+Ne rendra pas sitôt ma réponse aux Romains.
+Que ne puis-je, Nerbal, au défaut du tonnerre,
+De Rome dans ma Cour venger toute la terre,
+Et voir par leurs débats ces fameux conquérants
+Tomber tous dans mes fers en fuyant leurs tyrans !
+
+Je ne crains point Sylla. Les troubles d'Italie
+Ont de quoi l'occuper le reste de sa vie.
+Quand même les Romains le laisseraient en paix,
+Mithridate peut seul épuiser tous ses traits.
+Je t'avouerai pourtant un secret qui me gêne :
+Mon âme en ce moment devient plus incertaine.
+Arisbe a pris pitié de cet infortuné ;
+Elle croit que sans elle il était condamné.
+Je voulais lui donner, pour preuve de mon zèle,
+Ce que mon intérêt m'avait dicté sans elle :
+Mais au fond de mon coeur s'élève un noir soupçon,
+Dont j'ai peine, Nerbal, à sauver ma raison.
+Dis-moi, que voulait-on tantôt me faire entendre,
+Arisbe a ses raisons pour vouloir le défendre ?
+
+      Dois-je en croire un soupçon odieux ?
+
+      Allons trouver l'ingrate,
+Arrachons son secret par l'espoir qui la flatte ;
+Et si de cet amour j'ai des avis certains,
+Malheur à qui m'outrage, et malheur aux Romains !
+
+Seigneur, laissez-nous seuls. Ma gloire et ma puissance
+Semblent me reprocher des sentiments trop doux,
+Madame, et je venais en parler avec vous.
+Que pense Marius ? Que pensez-vous vous-même ?
+Il vous entretenait de sa douleur extrême.
+
+Vous partagez ses maux ; et qu'aurait-il à craindre ?
+Quel que soit son malheur, je ne saurais le plaindre,
+Madame ; et quand on peut être écouté de vous,
+Prêt à perdre la vie on fait mille jaloux.
+Ah ! Dans le sort affreux qui cause ses alarmes,
+Pouvait-il être plaint par de plus belles larmes ?
+Vous vous, troublez !
+
+Oui, vous l'aimez, perfide, et vous me trahissez :
+Ainsi donc sans songer de qui vous êtes née,
+Au mépris de mon trône et de notre hyménée,
+Votre infidèle coeur, à ma flamme promis,
+Choisit pour s'engager nos plus grands ennemis.
+Jugurtha, c'est ainsi que ta nièce sait rendre
+Les funèbres honneurs qu'elle doit à ta cendre !
+
+Sans doute vous croyez, par cette rigueur feinte,
+Détruire les soupçons dont mon âme est atteinte ?
+
+Madame...
+
+C'est assez, j'y consens ; qu'en partant de ces lieux,
+Il emporte avec lui dès soupçons odieux.
+
+Que voulait, après tout, ma fausse politique ?
+Ai-je oublié les maux dont a gémi l'Afrique,
+Où m'expose un proscrit que l'on veut immoler ?
+Du malheur qui le suit il pourrait m'accabler.
+Ah ! Que Rome à son gré de ses enfants dispose :
+N'allons point réveiller sa fureur qui repose :
+Laissons-la s'affaiblir et tomber par ses coups :
+Je me vengerai d'elle en servant son courroux.
+
+      Quel est ton trouble, et que viens-tu me dire ?
+
+Lui vivant ! Quelle erreur ! Son trépas est certain,
+Et l'envoyé de Rome a tranché son destin.
+Crois-tu qu'à me tromper il osât se commettre,
+Quand le sceau du Sénat autorise sa lettre ?
+
+      Ô dieux ! Qu'ai- je entendu ?
+Quel soupçon vient saisir mon esprit éperdu ?
+Quoi ! Ces deux ennemis, on les a vus ensemble ?
+Quand tout les désunit, sachons qui les rassemble :
+Pénétrons ce mystère ; en cette obscurité,
+J'irai jusqu'en leur coeur chercher la vérité.
+
+De votre cruauté, Seigneur, je suis surpris :
+Teint du sang paternel, s'offrir aux yeux du fils !
+
+Il ne vous verra plus, Seigneur, et dès demain
+Vous ne sortez d'ici que sa tête à la main.
+
+      D'où vient cette surprise,
+Lorsque dans vos desseins ma main vous favorise ?
+Sylla de sa vengeance à vous s'est confié ;
+Il veut que Marius lui soit sacrifié ;
+Vous le cherchez ici pour être sa victime,
+Et je veux aux Romains épargner un grand crime.
+Ce malheureux dont Rome a juré le trépas,
+Peut, ainsi que chez vous, périr dans mes États.
+Sa mort, que vous cherchez, n'en sera que plus prompte ;
+Vous en aurez le fruit sans en avoir la honte.
+Venez donc, suivez-moi, Seigneur ; soyez témoin
+Que je sais quelquefois servir Rome au besoin.
+Rien ne peut balancer l'intérêt qui me presse ;
+Je ne veux écouter ni pitié ni tendresse :
+Vous allez voir, au gré de vos voeux les plus doux,
+Le fils de Marius expirer sous mes coups.
+
+      Vous frémissez ? Quelle terreur soudaine
+Peut faire, en moins d'un jour, chanceler votre haine ?
+
+Quelle est votre pensée ? Où tendent ces détours ?
+Qui voua rend si contraire à vos premiers discours,
+Seigneur ; et puisqu'on veut que Marius périsse,
+Que peut faire au Sénat le lieu de son supplice ?
+Ouvrez les yeux ; songez qu'il importe aux Romains
+Qu'il ne puisse jamais s'échapper de vos mains.
+Aux yeux de tout le monde il n'est pas si coupable :
+Le parti de son père est encor redoutable,
+Seigneur; n'en doutez point : un héros tel que lui,
+Au sein de son malheur, peut trouver son appui.
+S'il vous échappe enfin, l'Italie alarmée
+Pourra bientôt le voir, soutenu d'une armée,
+Marcher plein de fureur, et la foudre à la main,
+Fondre comme un éclair sur le peuple romain,
+Et dans l'odieux sein de Rome sa marâtre,
+De sa rage sanglante élever le théâtre.
+
+Seigneur, pour un proscrit vous marquez trop de zèle :
+Sylla n'a pas fait choix d'un ministre fidèle ;
+Je commence à le voir, et plus d'une raison
+Confirme dans mon coeur un si juste soupçon :
+Mais puisque vous osez combattre sa vengeance,
+Moi-même je le vais mieux venger qu'il ne pense,
+Et, par un envoyé plus fidèle que vous,
+L'instruire que mon bras a servi son courroux.
+
+      C'est trop longtemps attendre.
+
+Enfin j'ouvre les yeux ; je suis assez instruit,
+Et par un bruit trompeur on ne m'a pas séduit.
+Le jeune Marius vous est cher.
+
+Vous défendez un fils.
+
+      Oui, vous-même.
+
+Nerbal, suivez ses pas. Quel orgueil ! Quelle audace!
+Arrêté dans mes fers, l'insolent me menace !
+Il mourra. Jugurtha, tu vas être vengé ;
+Je vais rendre l'honneur à ton sang outragé.
+Lorsqu'à son char orné d'un triomphe frivole
+L'orgueilleux te traînait aux pieds du Capitole,
+Et qu'un peuple insolent par d'injurieux cris
+Annonçait ta disgrâce à l'univers surpris,
+Il ne s'attendait pas, dans ces temps d'allégresse,
+Qu'un jour je t'offrirais une main vengeresse ;
+Et que près d'épouser le reste de ton sang,
+Je lui rendrais ensemble et sa gloire et son rang.
+Le perfide ! Il osait accuser ce que j'aime.
+Ah ! Je vois les détours de son vain stratagème ;
+Sans doute il se flattait que mes soupçons aigris
+Dans ses bras à l'instant allaient mettre son fils.
+À travers ses raisons j'ai vu qu'il était père :
+J'ai forcé la nature à trahir son mystère.
+Je le tiens. Vengeons-nous. Mais quel autre soupçon
+Vient jeter dans mon âme un funeste poison ?
+Du sort de Marius Arisbe est-elle instruite ?
+Cherchait-elle du fils ou la mort ou la fuite ?
+Voulait-elle tantôt, dans son emportement,
+Ou perdre un malheureux ou sauver son amant ?
+Ah ! Sans approfondir un odieux mystère,
+Faisons couler le sang et du fils et du père.
+Pourquoi chercher contre eux tant de prétextes vains ?
+Tous deux sont criminels, et tous deux sont Romains.
+Point de pitié : suivons le transport qui m'anime.
+Et nous verrons après si c'est justice ou crime.
+
+Ils mourraient glorieux en mourant sous les armes;
+Qu'on défende leurs jours de tout sanglant effort.
+Soldats, je veux leur honte encor plus que leur mort.
+Quoi ! Madame, c'est vous ? J'ai peine à le comprendre ;
+Une telle rencontre a droit de me surprendre.
+Que cherchez-vous ici dans l'instant précieux
+Où le sommeil encor devrait fermer vos yeux ?
+Vous ne répondez point ! On me trahit : cruelle,
+Que de justes raisons de vous croire infidèle !
+Quel est votre pouvoir ? Pour sauver mon rival,
+Avez- vous pu séduire Amyntas et Nerbal ?
+Quoi ! Sont-ils avec vous tous deux d'intelligence ?
+Mais vous verrez bientôt éclater ma vengeance,
+Dût périr ce que j'ai de plus cher dans ma cour ;
+J'en jure par le dieu qui nous donne le jour.
+
+Ah ! Je vous aime encor ; tâchez d'être innocente,
+Madame. Mais Nerbal vient remplir mon attente.
+
+Que m'apprend-on, Nerbal? Qu'a-t-on fait des Romains ?
+Tu te tais ? Se sont-ils échappés de tes mains ?
+
+Quel est donc l'embarras où ton âme est réduite ?
+Que sont-ils devenus ?
+
+Ah, Madame ! Elle expire... Et je sens que mon âme
+N'avait jamais brûlé d'une si vive flamme.
+Dieux cruels, qui tenez notre sort en vos mains,
+Faut-il payer si cher le salut des Romains !
+
+
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiusmarius
+
+Oui, tu vois Marius. Après tant de revers ;
+Rendu méconnaissable aux yeux de l'univers,
+J'ai cru, de mes malheurs tirant quelque avantage,
+Paraître en sûreté dans cette cour sauvage.
+Un grand dessein m'y guide : assuré de ta foi,
+Numérius, mon coeur ne veut s'ouvrir qu'à toi.
+
+      J'attends tout de cet homme.
+
+      Dissipe ton effroi ;
+J'en attends tout, te dis-je.
+
+      C'est moi.
+
+      Oui, moi-même.
+
+Oui, le tyran m'y sert : j'apporte ici son seing,
+Je t'instruirai de tout ; mais apprends mon dessein.
+J'ai su que trop sensible à de funestes charmes,
+Mon fils à mes malheurs ne donnait que des larmes ;
+J'ai besoin de son bras pour nous venger tous deux,
+Et je viens l'arracher à des fers si honteux.
+Ce projet est hardi, mais mon mal est extrême ;
+Et j'obtiendrai mon fils au nom de Sylla même.
+Ami, j'ai trop vécu : mon âge, mes malheurs,
+Et mes lauriers vieillis ont changé tous les coeurs.
+On ne veut plus me suivre, et ma mort trop voisins
+Fait croire mes projets penchants vers leur ruine.
+Mais avec ce cher fils, plein d'une noble ardeur,
+J'irai de nos amis réchauffer la tiédeur.
+Sa valeur, mes exploits, mon nom et sa jeunesse
+Ranimeront pour moi leur première tendresse ;
+Tu verras dans mon camp se rejoindre à la fois
+Tous ceux que Sylla force à détester ses lois ;
+Et bientôt le tyran par sa perte prochaine
+Laissera respirer la liberté romaine.
+
+Dès longtemps par mon ordre envoyé dans l'Asie,
+Tu ne peux être instruit des troubles d'Italie ;
+Apprends avec effroi ces débats éclatants
+Dont l'histoire sera présente à tous les temps.
+Mithridate orgueilleux plus qu'un roi ne doit l'être,
+Refusait d'avouer le sénat pour son maître :
+Il fallut contre lui choisir un bras vengeur,
+Et Sylla m'osa bien disputer cet honneur :
+Sylla par mes leçons formé dès son jeune âge,
+Qui sous moi de la guerre a fait l'apprentissage.
+Tout semblait éloigner cet orgueilleux rival
+Pour implorer mon bras contre un autre Annibal.
+Aussi je l'emportai. Rome alors moins ingrate
+Vit en moi l'ennemi digne de Mithridate.
+Mais le jaloux Sylla, de ce choix offensé,
+Part, se rend à l'armée, et m'ayant devancé,
+Soulève contre moi nos plus braves cohortes ;
+Suivi de nos soldats, il paraît à nos portes ;
+Et je vois en un jour conspirer à ma mort
+Tous ceux que la victoire attachait à mon sort
+Échappé toutefois de la ville investie,
+Sans suite, sans amis, j'arrive au port d'Ostie,
+Où j'apprends que Sylla, maître des légions,
+Remplissait tout de meurtre et de proscriptions.
+
+Il l'obtint cet arrêt, porté dans chaque ville,
+Dès lors à Marius ne laisse aucun asile,
+Révolte contre moi ceux qui m'étaient soumis,
+Et de tous les mortels me fait des ennemis.
+À qui me confier ? La mer et ses pirates
+Me semblèrent plus sûrs que nos terres ingrates.
+Il fallut m'embarquer. Je voguai quelque temps,
+Déplorable jouet de la mer et des vents.
+Quel changement ! Quel fruit de mes grandeurs passées !
+Enfin nous arrivons aux rives de Circées ;
+Et déjà de Minturne on voyait les remparts,
+Quand de mes ennemis un escadron épars
+Crie, au nom de Sylla, qu'on aborde au rivage.
+Mes gardes à ce nom changent tous de visage,
+Et de crainte et d'horreur combattus à la fois,
+Jettent sur moi les yeux, incertains de leur choix.
+Tantôt de mon tyran l'autorité les presse,
+Et tantôt la pitié pour moi les intéresse ;
+Suivant le mouvement en leur coeur le plus fort,
+La barque se recule, ou s'approche du bord.
+Mais n'osant décider mon salut ni ma perte,
+Ils me jetèrent seul dans une île déserte.
+Toujours mes ennemis avaient sur moi les yeux,
+Et bientôt leur fureur m'assiège dans ces lieux.
+Où fuir ? presque accablé par les travaux et l'âge,
+Je ne vois devant moi qu'un affreux marécage :
+Je m'avance ; et perçant dans la fange et les eaux,
+Tout à coup je m'abîme au milieu des roseaux.
+On eût dit que la terre, au défaut de murailles,
+Pour cacher Marius entr'ouvrait ses entrailles :
+C'est là qu'un bras cruel, sans respect pour mon nom,
+Vient me saisir couvert de fange et de limon ;
+Et celui qu'on nommait le fondateur de Rome,
+À peine en cet état eût passé pour un homme.
+
+Ami, ce ne sont là que mes moindres revers.
+On me traîne à Minturne, on m'y charge de fers.
+On m'y lit mon arrêt, pour ma mort tout s'apprête ;
+Que dis-je ? Un vil esclave y marchande ma tête ;
+Il entre, et le sommeil qui me fermait les yeux
+Me livre sans défense à son bras furieux.
+Le dieu qui m'éveilla rendit mon air farouche,
+Mes yeux étincelants, et parla par ma bouche :
+« Barbare ! oses-tu bien immoler Marius ? »
+Ce nom seul le désarme ; il ne se connaît plus ;
+Il fuit saisi d'horreur, il croit voir mon génie
+Voler autour de lui, prêt à trancher sa vie.
+« Ah ! dit-il, ce Romain est gardé par les dieux. »
+Il parle, et tout à coup Minturne ouvre les yeux.
+On vient briser mes fers ; la joie en est publique.
+Je m'embarque, et j'aborde au rivage d'Afrique,
+Où je retrouve encor quelques secrets amis.
+Je leur peins ma disgrâce et celle de mon fils.
+Ils s'offrent à me suivre au péril de leur vie.
+Accru d'un tel secours, je vole en Numidie ;
+Là j'apprends qu'un tribun, entré dans cet État,
+Vient y chercher mon fils par l'ordre du Sénat ;
+Ce peu d'amis et moi nous joignons le perfide.
+Dès qu'il me reconnaît, le lâche s'intimide :
+Il veut fuir ; je l'arrête ; et lui perçant le flanc,
+Je le vois chanceler, et tomber dans son sang.
+Par ma suite les siens sont abattus sans peine.
+Tout périt. Le tribun qui voit sa mort certaine,
+Privé de tout secours, me regarde. « Voila,
+Me dit-il en mourant, les lettres de Sylla.
+J'allais chercher ton fils pour être ma victime ;
+J'avais juré ta mort : la mienne est légitime. »
+Il meurt, et dans l'instant je formai Je dessein
+De passer pour lui-même et pour mon assassin.
+C'est ainsi que je viens à la cour des Numides ;
+Et pour rendre aujourd'hui mes projets plus solides,
+J'annonce, en arrivant, que Marius est mort,
+Et que ma seule main a terminé son sort.
+Le roi qui de Sylla doit craindre la vengeance,
+Qui verra, par ma mort, mon parti sans défense,
+Et croyant en effet servir mes ennemis,
+Dans les bras paternels va remettre mon fils.
+
+Je saurai l'y forcer. Mon désespoir fatal
+Lui montrerait plutôt dans mon fils son rival.
+
+Je vois qu'on t'a trompé. Connais mieux les Numides :
+Ils sont dissimulés, inconstants et perfides,
+De la grandeur romaine ennemis et jaloux,
+Et Jugurtha m'apprit à les connaître tous.
+Mais pour justifier ici ma politique,
+Sache ce qu'on m'apprit sur les côtes d'Afrique.
+Granius ennuyé d'un périlleux séjour,
+Avait quitté mon fils en proie à son amour.
+Le hasard nous joignit. Son amitié sincère,
+De tout ce qu'il savait ne voulut rien me taire.
+Il me dit que le roi, par d'obligeants dehors,
+Du jeune Marius aimerait les transports,
+Tandis que le flattant d'un secours trop frivole,
+Il reculait toujours l'effet de sa parole ;
+Qu'observé par son ordre, et lié par l'amour,
+Mon fils qui se croit libre est captif dans sa cour.
+Juge dans cet état ce qu'il auroit pu faire.
+Ah ! Ma présence ici n'est que trop nécessaire.
+Je t'avouerai pourtant mon déplaisir secret :
+Je parais sous un nom que je porte à regret.
+Je dois vanter ici l'autorité funeste
+Du cruel ennemi que mon âme déteste ;
+Il faut que, dans l'état où le sort m'a placé,
+Des mains de Marius Sylla soit encensé.
+Mais le roi dans ces lieux doit au plus tôt se rendre.
+Demeure : je le vois ; tu pourras nous entendre.
+
+Les lettres de Sylla, remises dans vos mains,
+Seigneur, vous ont marqué ses ordres souverains.
+J'attends que remplissant son dessein légitime,
+Vous veniez au plus tôt me livrer sa victime.
+Je n'ajouterai point aux offres qu'il vous fait,
+Que c'est en le servant servir Rome en effet.
+C'est servir le sénat, dont la juste colère
+Demande qu'au tombeau le fils suive le père.
+On craint qu'un jour ce fils, ardent à se venger,
+Dans nos premiers malheurs vienne nous replonger.
+Seigneur, vous le savez, Rome n'est point ingrate.
+Assurez-la, par moi, d'un succès qui la flatte ;
+Et croyez que toujours prompte à s'en souvenir,
+Sa faveur vous assure un heureux avenir.
+Vos fidèles aïeux Micipsa, Massinisse,
+Furent payés en rois de leur noble service ;
+Et la fidélité qu'ils gardèrent pour nous,
+Seigneur, est un exemple assez puissant pour tous.
+
+Je veux bien ignorer quel motif vous engage
+À tenir un discours dont la fierté m'outrage.
+Un roi dont Rome fait la grandeur et l'appui,
+Devrait se souvenir qu'un Romain parle à lui :
+Mais, Seigneur, profitez d'un avis salutaire,
+Et sur vos intérêts souffrez qu'on vous éclaire.
+Rome seule aujourd'hui commande à tous les Rois,
+Et la terre en tremblant se soumet à ses lois.
+
+Seigneur, vous connaîtrez peut-être quelque jour,
+Si l'on doit préférer sa haine à son amour.
+Annibal subjugué, Carthage mise en cendre,
+Jugurtha dans nos fers, tout pourra vous l'apprendre.
+Mais si vous m'en croyez, soyez de nos amis.
+Que par vous Marius en mes mains soit remis ;
+Le Sénat vous en presse ; et toujours équitable,
+S'il a juré sa mort, il condamne un coupable.
+Qui vous retient, Seigneur? Lorsque sans intérêt,
+Vous pouvez préférer le parti qui vous plaît,
+Trouvez-vous quelque gloire à nous être infidèle ?
+Quel zèle vous attache à défendre un rebelle,
+Qui, libre en votre Cour lorsque nous étions loin,
+Devient votre captif quand Rome en a besoin ?
+
+J'instruirai le Sénat de cette vaine audace,
+Seigneur ; peut-être un jour vous demanderez grâce :
+Il n'en sera plus temps. Mais si vous savez bien
+Qu'ici votre intérêt s'accorde avec le mien,
+Qu'Arisbe a ses raisons pour vouloir le défendre...
+
+Ô Dieux !
+
+      Moi.
+
+Tu trembles ! Ta frayeur à chaque instant redouble/
+Rassure-toi. Du moins constant dans le danger
+Sois digne de celui que tu venais venger.
+De ton étonnement je perce le mystère :
+Tu sais quelle amitié me joignait à ton père ;
+Tu croyais que mon bras ardent à son secours,
+Quand Rome le proscrit, eût défendu ses jours ;
+Mais sache qu'un Romain, quelque noeud qui le lie,
+Ne connaît point d'amis plus chers que sa patrie.
+Ton père n'eut jamais d'autre assassin que moi :
+Je viens te joindre à lui. Rome a besoin de toi
+Son intérêt demande une prompte victime ;
+Sylla... Tu reconnais le pouvoir légitime
+D'où partent aujourd'hui mes ordres souverains ;
+Obéis ; viens remplir l'attente des Romains.
+
+N'éclaircirai-je point le doute qui m'agite ?
+De ton étonnement quelle sera la suite,
+Ô mon fils ? Ta frayeur va tromper mes projets ;
+Et prêt à te sauver, je te perds pour jamais.
+Je ne puis après tout condamner sa surprise ;
+Dans ce même moment mon trouble l'autorise.
+Et qu'aurait-il pu faire ? Il m'aime, il me croit mort ;
+Il venait, animé d'un généreux transport,
+Pour punir l'assassin d'une tête si chère :
+Dans ce même assassin il retrouve son père !
+Qui n'aurait comme lui pâli d'étonnement ?
+Moi-même ai-je marqué moins de saisissement ?
+Moi qui le sais ici, qui m'attends à sa vue,
+Hélas ! À son aspect mon âme s'est émue ;
+En revoyant ce fils de douleur accablé,
+Sans songer au péril, la nature a parlé.
+C'en est fait, on saura cet important mystère.
+Mais c'est lui que je vois...
+
+      Ah, mon fils!
+
+      Oui, mon cher fils, c'est moi,
+Mais il faut avant tant dissiper mon effroi.
+Je crains bien qu'Hiempsal n'ait su me reconnaître
+Au trouble dont tantôt vous n'étiez pas le maître.
+
+Mon destin va changer. Grands dieux ! Votre clémence
+Plus encor qu'à Minturne ici prend ma défense.
+Mais les moments sont chers : sachons en profiter !
+Voici ce qu'en ce jour il faut exécuter.
+Rome, vous le savez, dans ses voeux incertaine,
+Passe facilement de l'amour à la haine,
+Et ceux que sa faveur a le plus haut placés,
+Par un coup imprévu sont bientôt renversés :
+Mille fois on l'a vue abattre son ouvrage,
+Et perdre ses tyrans, pour changer d'esclavage.
+Sylla l'a bien prévu : pour parer cet affront
+Il quitte Rome, et va contre le roi de Pont,
+Se flattant que de loin sa gloire et son absence
+Ranimeront des coeurs que lassait sa présence.
+Saisissons ce moment, et, par des chemins sûrs,
+Mon fils, allons fermer son retour dans nos murs.
+
+Profitons mieux du temps que je risque à vous voir.
+Je vis ; mais ces vieux jours, que je prolonge à peine,
+Ne s'entretiennent plus qu'au flambeau de la haine :
+Sylla, je vis pour toi. Je consens à ma mort,
+Pourvu qu'un même coup puisse finir ton sort.
+J'espérais que, séduit par mon nom et ma lettre,
+Hiempsal dans mes mains voudrait bien vous remettre :
+Il a trompé mes voeux, et pour tromper les siens
+Il faut avoir recours à de plus sûrs moyens.
+Je sais qu'à votre sort Arisbe s'intéresse ;
+Je sais que votre coeur répond à sa tendresse ;
+Et sans vouloir ici vous accabler en vain
+D'un reproche honteux à quiconque est Romain,
+Amoureux et content, les disgrâces d'un père,
+Avouez-le mon fils, ne vous alarmaient guère.
+Ma tendresse pour vous excuse cette erreur,
+Pourvu que votre amour serve à votre grandeur.
+Il est beau qu'un Romain jaloux de sa mémoire,
+Pour ennoblir l'amour, l'associe à la gloire ;
+Que de tant de héros l'inévitable écueil
+Le rende encor plus grand, et flatte son orgueil.
+Arisbe a su vous plaire ! Eh bien ! Qu'elle mérite
+Un choix si glorieux en hâtant votre fuite ;
+Qu'immolant sa tendresse à votre liberté,
+Elle se rende illustre à la postérité ;
+Enfin, qu'en vous sauvant d'une terre ennemie,
+À force de vertu, son coeur vous justifie.
+
+Ce roi vous eût trahi : vous le connaissez mal ;
+Croyez-moi, tout ici vous deviendrait fatal ;
+Votre salut dépend d'une prompte retraite :
+Il faut que cette nuit une fuite secrète
+Assure loin d'ici ma vengeance et vos jours ;
+Arisbe vous peut seule accorder du secours,
+Et contre votre garde employant l'artifice,
+En tromper la prudence ou tenter l'avarice,
+Voyez-la : mais surtout ne lui découvrez pas
+Que c'est moi qui répands le bruit de mon trépas :
+Pour presser le moment que j'attends avec joie,
+Dans le péril toujours il faut qu'elle vous voie.
+Dites-lui que le roi, dans ses voeux incertain,
+Par de nouveaux motifs peut changer de dessein ;
+Que bravant de Sylla les menaces stériles,
+Il peut se laisser vaincre à des offres utiles,
+Aux fureurs du tyran vous livrer à ce prix.
+J'irai de mon côté rejoindre nos amis,
+Concerter avec eux ce qu'on peut entreprendre.
+Riais je m'arrête trop, et l'on peut nous surprendre,
+Je vous quitte à regret ; adieu, mon fils : songez
+Quel honneur vous attend quand nous serons vengés.
+
+Tout conspire, mon fils, au projet qui me flotte :
+Sylla n'est plus à Rome ; il cherche Mithridate.
+Quittons ces lieux, partons, et par mille vertus
+Déterminons les dieux à servir Marius.
+Faut-il vous dire encor que dans cette entreprise,
+Par des présages sûrs le destin m'autorise ?
+Déjà six consulats, de triomphes suivis,
+Ont d'assez beaux lauriers couvert mes cheveux gris ;
+Et l'augure sacré dont l'utile science
+Jusqu'ici de mon sort me donna connaissance,
+Animant mon courage à des exploits nouveaux,
+Pour la septième fois me promet les faisceaux.
+Ainsi ne craignons point d'invincibles obstacles :
+Le destin ne saurait démentir ses oracles.
+
+Rome a cessé de l'être en proscrivant mes jours,
+Et malgré ses fureurs je vole à son secours.
+Je la venge. Un grand coeur que la vengeance anime,
+Doit agir sans remords, dès qu'il agit sans crime ;
+Et quand il faut détruire un injuste pouvoir,
+La révolte est permise, et devient un devoir.
+On peut d'un fier tyran réprimer la furie,
+Et pour la rendre libre, attaquer sa patrie.
+Je n'en veux qu'à Sylla ; le ciel doit le punir ;
+Et c'est servir les dieux, que de les prévenir.
+
+Quoi! L'amour dans ton coeur balance la victoire ?
+Pour te déterminer envisage la gloire,
+Mon fils ; songe aux périls que j'ai bravés pour toi ;
+Songe à Rome, au tyran, à l'univers, à moi.
+Va joindre nos Romains que Céthégus rassemble ;
+Sors... Nous sommes perdus : le roi nous trouve ensemble.
+
+Seigneur, puisqu'en mes mains vous allez le remettre,
+(Arisbe en votre nom me l'ose ainsi promettre)
+Qu'importe qu'il m'ait vu ? Doit-on tant ménager
+Un ennemi dont Rome est prête à se venger ?
+Nous partons dès ce jour : chargé de sa conduite,
+Faut-il que sous mes yeux sans cesse je l'évite ?
+
+Que dites-vous, Seigneur ?
+
+Ô dieux !
+
+Mon coeur n'est point frappé d'une vaine terreur :
+Je frémis, il est vrai ; mais je frémis d'horreur.
+De quel droit osez-vous, sans qu'on vous le commande, ?
+Attaquer un proscrit que Rome vous demande ?
+Ah ! Lorsqu'elle condamne un enfant criminel,
+Son supplice, en nos murs, doit être solennel :
+Le peuple en foule y porte une douleur profonde,
+Et la mort d'un Romain doit un exemple au monde.
+
+Vous lisez de trop loin dans le sombre avenir :
+Sans vous nos intérêts sauront se soutenir.
+Montrez-nous moins de zèle et plus d'obéissance ;
+Laissez à Rome enfin le soin de sa vengeance.
+Son sang ne périt point par un bras étranger,
+Et l'on se rend coupable en voulant la venger.
+D'ailleurs, que savez-vous si sa prompte colère
+N'a pas déjà fait place au tendre amour de mère ?
+Seigneur, en nous servant gardez de nous trahir ;
+Le Sénat a parlé : c'est à vous d'obéir.
+
+Ah ! Seigneur, arrêtez.
+
+Je périrai moi-même, ou saurai le défendre.
+
+      Moi, je l'aime ?
+
+      Moi, son père ?
+
+Enfin de mes projets le ciel veut se jouer :
+Mais mon nom est trop beau pour le désavouer.
+Oui, je suis Marius : tremble ; tu vois un homme
+Redoute de la terre, et craint même de Rome.
+Parmi tant de périls, les dieux qui m'ont sauvé,
+Voulaient que dans ta Cour mon sort fût achevé.
+Te voilà maître enfin de deux grandes victimes ;
+Je connais ton génie et toutes tes maximes,
+Barbare ; tu nous hais : les ordres du Sénat
+Prêteront des couleurs à ton assassinat.
+Tu peux, de mon rival servant la rage extrême,
+Étendre tes États resserrés par moi-même.
+Venge ainsi ton pays que ma valeur dompta ;
+Frappe, mais crains encor le sort de Jugurtha.
+
+      Allons, mon fils, partons ; voilà tes armes.
+Tout succède à nos voeux : dissipe tes alarmes.
+Je vous dois tout, Madame ; et les jours de mon fils,
+Conserves par vos soins, vont accroître leur prix.
+Mais il faut vous quitter. La nuit nous favorise.
+Amyntas à son but a conduit l'entreprise.
+Il est dans le vaisseau qu'il tient prêt pour partir ;
+Il nous attend : il vient de m'en faire avertir.
+
+Oui, j'y compte, mon fils ; il nous conduit à Rome :
+Là, je saurai payer son zèle officieux
+Du service important qu'il me rend en ces lieux.
+
+      Ne croyez rien de contraire à sa gloire.
+S'il a, sans votre aveu, retiré les soldats
+Que vos soins généreux attachaient sur nos pas,
+C'était avec raison qu'il soupçonnait leur zèle,
+Et la seconde garde à nos voeux est fidèle.
+Mais que vois-je ? Tous deux vous répandez des pleurs ;
+Ah ! madame, évitons le plus grand des malheurs ;
+Daignez fortifier mon fils contre vos charmes ;
+Qu'il apprenne de vous à dévorer ses larmes ;
+N'allez point nous trahir et perdre tout le fruit
+D'un projet que vos soins avaient si bien conduit.
+
+
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marius
+
 Ne crois pas que jamais je puisse balancer ;
 Je voudrais... mais que faire, et par où commencer ?
 Céthégus, en quels lieux trouverai-je mon père ?
@@ -28,77 +729,16 @@ Qui jusques à ce jour a fait sa sûreté,
 En cachant à Sylla cet ennemi terrible,
 Oppose à nos desseins fut obstacle invincible.
 
--*who_cethegus
-Non, non, quelques déserts qui le puissent cacher,
-C'est à Rome, Seigneur, qu'il vous le faut chercher.
-Au nom d'un si grand chef assemblez une armée :
-Bientôt il paraîtra. La prompte renommée,
-Dont le silence semble avoir plaint son malheur,
-Pour vous le découvrir n'attend que son vengeur.
-Marchons où le devoir, où l'honneur nous appelle ;
-Des dieux et des humains soutenons la querelle.
-Assez et trop longtemps, par son impunité,
-Sylla s'enorgueillit de sa prospérité :
-Il a lassé les dieux ; et la fondre qui gronde
-Avertit Marius d'aller venger le monde.
-Le peuple consterné, prêt à se déclarer,
-N'attend plus que le bras qui doit le délivrer.
-Oubliez-vous ce jour où les aigles romaines
-Entre les deux consuls flottèrent incertaines,
-Quand suivi de soldats au crime accoutumés,
-Sylla vint dans nos murs par son ordre enflammée ?
-C'était à Marius qu'en voulait sa furie :
-Le peuple, protecteur d'une si belle vie vie,
-Par des ruisseaux de sang paya le noble effort
-Qui lui donna le temps d'échapper à la mort.
-Rentrez dans tous vos droits. Faut-il qu'on délibère
-Quand on va secourir sa patrie et son père ?
-Le roi jusqu'à ce jour paraissait incertain :
-Mais enfin il vous met les armes à la main :
-Dans nos communs malheurs Arisbe s'intéresse :
-C'est elle à qui le roi...
-
--*who_marius
       Malheureuse princesse !
 Que je te vais coûter de soupirs et de pleurs!
 
--*who_cethegus
-Vous la plaignez, seigneur ! Et quels sont ses malheurs ?
-Elle venge un Romain, un roi puissant l'adore :
-Que lui resterait-il à souhaiter encore ?
-Déjà pour son hymen tout semble préparé.
-
--*who_marius
 Hélas ! Que ne peut-il être encor différé?
 
--*who_cethegus
-Quel soupir ! Quel discours ! Et qu'osez- vous prétendre ?
-Ah ! Seigneur, que je crains de vous trop bien entendre !
-Juste ciel ! Quels projets avez-vous pu former ?
-Le coeur de Marius est-il fait pour aimer ?
-Ouvrez les yeux ; voyez que de malheurs ensemble,
-Que de crimes, Seigneur, un tel projet rassemble.
-Ce roi dont les bontés ont conservé vos jours,
-Ce roi qui vous peut seul accorder son secours,
-C'est lui que vous bravez ; la plus mortelle offensa
-Est le prix qu'a choisi votre reconnaissance.
-Mais d'ailleurs, quel espoir peut vous avoir flatté ?
-Pensez-vous, (pardonnez à ma sincérité),
-Pensez-vous qu'exposant et sa gloire et sa vie
-Au sort d'un fugitif la princesse se lie ?
-Ah ! Croyez-moi, Seigneur, vous prenez pour amour
-La pitié que pour vous elle montre en ce jour.
-
--*who_marius
 Tu crois que mon amour aurait pu me séduire ?
 Non, non : de sa tendresse elle a trop su m'instruira ;
 Loin que d'un faux bonheur mon coeur se soit flatté,
 J'ai douté mille fois de ma félicité.
 
--*who_cethegus
-Et vous vous honorez du coeur d'une Numide ?
-
--*who_marius
 Est-ce par le climat que l'amour se décide ?
 Mais, pour justifier son pouvoir souverain,
 Arisbe a des vertus dignes du nom romain.
@@ -153,15 +793,6 @@ Plains Arisbe, et jouis du fruit de son amour.
 Dis, crois-tu cet amour indigne d'un grand homme ?
 À voir tant de vertus je croyais être à Rome.
 
--*who_cethegus
-Et vous souffrez qu'un coeur que l'Afrique a porté
-Vous donne des leçons de générosité ?
-Si cet amour bientôt ne sert votre vengeance,
-Plus il vous paraît grand, et plus H vous offense.
-Oui, Seigneur, pour juger s'il est digne de vous,
-J'attendrai qu'elle ait mis la mer entre elle et nous.
-
--*who_marius
 Tu jouiras bientôt de ce plaisir barbare :
 Hélas ! Pour ce départ déjà tout se prépare ;
 Et demain la princesse, entraînée à l'autel,
@@ -171,13 +802,6 @@ Mais le jaloux Numide en pourrait prendre ombrage.
 Elle l'épouse enfin... pardonne ce soupir.
 Un amour qui s'immole est en droit de gémir.
 
--*who_cethegus
-Eh bien ! Puisque ce coeur immole sa tendresse,
-Agissez en Romain ; entrez chez la princesse,
-Recevez ses adieux ; qu'elle arme votre bras,
-Et fuyons pour jamais ces dangereux climats.
-
--*who_marius
 Demeurons : c'est ici qu'Arisbe doit se rendre :
 Elle me l'a promis, et je la veux entendre ;
 Tu verras nos adieux, et ton coeur combattu
@@ -186,38 +810,6 @@ Mais puisqu'enfin je romps la chaîne qui me lie,
 Par quels chemins faut-il regagner l'Italie ?
 Amis, quels bras viendront seconder mon courroux ?
 
--*who_cethegus
-N'en doutez point, Seigneur, les dieux seront pour vous.
-Le nom de Marius est aimé dans l'Afrique.
-Quoiqu'il ait dans ces lieux vengé la République,
-Son austère vertu, conforme à ces climats,
-Gagnait ses ennemis ainsi que ses soldats.
-Avançons ; et bientôt les peuples de Lybie
-Viendront se joindre à ceux de la Mauritanie.
-Qu'importe qu'ils soient nés sur les bords africains ?
-En nous voyant combattre ils deviendront Romains,
-Et croiront, en serrant votre juste colère,
-Se venger des affronts que leur fit votre père.
-Le Ruber dès ce jour peut porter vos vaisseaux,
-Jusqu'au lieux où la mer le reçoit dans ses eaux :
-De là nous avançant vers l'île de Cercine,
-Deux jours nous feront voir les murs de Terracine ;
-Et bientôt l'Étrurie, au bruit d'un si grand nom,
-Recevra votre flotte au port de Télamon.
-C'est là que, comme vous, chassé de la patrie,
-Cinna fuit du tyran la jalouse furie ;
-C'est là qu'en attendant ce renfort de soldats
-Que mon zèle bientôt conduira sur vos pas,
-Des amis que dans Rome a laissés votre fuite,
-Par des avis secrets, vous manderez l'élite.
-Us viendront vous y joindre. Enfin c'est sur ces bords
-Que vos communs malheurs uniront vos efforts.
-Mais la princesse vient. À vos devoirs fidèle,
-Seigneur, songez toujours qu'un père vous appelle.
-
-**** *book_ *id_I02 *act_I *date_1715
-
--*who_marius
 Je vous attends, Madame, et soumis à vos lois,
 Je vous vois aujourd'hui pour la dernière fois :
 Cet ordre m'est prescrit par un devoir austère ;
@@ -225,30 +817,13 @@ J'y cède, je vous quitte, et cours venger un père,
 Armé de votre main.... mais qu'apercois-je, dieux !
 Quelle sombre tristesse est peinte dans vos yeux ?
 
--*who_arisbe
-Il est temps, Marius, de s'armer de constance :
-D'aujourd'hui seulement votre malheur commence.
-Le destin jusqu'ici déchaîné contre vous,
-Ne faisait qu'essayer la force de ses coups.
-
--*who_marius
 De tout ce que j'entends que faut-il que je pense ?
 Parlez... Est-on instruit de notre intelligence?
 Le roi sur mon départ change-t-il de dessein ?
 Néglige-t-il l'honneur d'armer un bras romain ?
 
--*who_arisbe
-Je viens vous annoncer un malheur plus terrible.
-
--*who_marius
 Mon père est mort ?
 
--*who_arisbe
-      Hélas ! ce héros invincible,
-Que respecta cent fois la fureur des combats,
-A vu trancher ses jours par un perfide bras.
-
--*who_marius
 Quoi ! mon père n'est plus ? Dieux! Et Sylla respire !
 Tu me vas payer cher la rage qui t'inspire,
 Barbare.... Il est encore au monde un Marius,
@@ -256,11 +831,6 @@ Et mon père en mourant m'a laissé ses vertus.
 Allons, Madame, il faut embrasser ma défense ;
 Qu'Hiempsal par vos soins redouble ma vengeance.
 
--*who_arisbe
-Quelqu'appui qu'en ces lieux on vous fasse espérer,
-Seigneur, aux yeux du roi gardez de vous montrer.
-
--*who_marius
 Je vous entends, madame, et vois mon infortune.
 Hiempsal m'abandonne, et cette âme commune
 Ne sait pas profiter des maux que j'ai soufferts,
@@ -272,15 +842,6 @@ Je veux qu'on reconnaisse aux efforts de mon bras
 Un coeur digne à la fois et d'Arisbe et de Rome,
 Et ce qu'un Romain peut au-dessus d'un autre homme.
 
--*who_arisbe
-En vain vous aspirez à des projets si hauts ;
-Hélas ! Vous ignorez la moitié de vos maux.
-C'est peu de perdre un père et généreux et tendre ;
-Son cruel meurtrier vient ici de se rendre.
-Ministre de Sylla, le barbare prétend
-Vous mener au Sénat, où la mort vous attend.
-
--*who_marius
 Qu'entends-je ?... Non, l'horreur du coup qui me menace,
 N aurait pu me forcer à plaindre ma disgrâce,
 Madame ; un père seul excite mes douleurs :
@@ -294,20 +855,237 @@ Et partout votre nom eût suivi ma mémoire.
 Mais il fallait vous perdre... au moins par le trépas,
 On m'arrache de vous ; je ne vous quitte pas.
 
--*who_arisbe
-Seigneur, sur quels objets votre douleur s'arrête
-Quand les plus grands périls menacent votre tête !
-Mon intérêt peut-il vous toucher en ce jour?
-Le coeur des malheureux est-il fait pour l'amour ?
-
--*who_marius
 Eh bien ! Madame, il faut remplir ma destinée,
 Il faut contenter Rome à ma perte obstinée ;
 Et puisqu'on veut ma mort, j'aime assez les Romains
 Pour épargner ce crime à leurs barbares mains.
 Je saurai bien moi-même...
 
--*who_arisbe
+Que ne vous dois-je point, Madame ?... Mais enfin
+Sait-on ici quel est ce perfide assassin ?
+Que ne puis-je le voir, et dans son sang coupable...
+
+Eh bien ! De votre main j'attends tout mon secours.
+Que le ciel précipite ou prolonge mes jours,
+Vous verrez Marius, l'âme toujours romaine,
+Plus constant dans ses maux que les dieux dans leur haine.
+
+Dans l'état où je suis, je ne veux rien entendre.
+C'est trop me retenir, barbares ; laissez moi :
+J'irais le poignarder entre les bras du roi.
+
+      Qu'ai-je entendu ? L'assassin de mon père
+Apporte jusqu'ici sa fureur sanguinaire ?
+Il est en votre cour, et prêt à m'immoler.
+Quoi ! Seigneur, vous pouvez le voir et lui parler ?
+Qu'il se montre du moins ; sachons quel bras perfide
+Adopte les fureurs de ce noir parricide.
+Quel mortel avouant ce forfait odieux.
+En ira demander le salaire ?
+
+      Dieux!
+Que vois- je ? Où suis- je enfin ? Que deviens- je ? Quel trouble !...
+
+      Seigneur,
+Mon trouble ne vient point d'une lâche frayeur ;
+Cent transports à la fois s'emparent de mon âme :
+La fureur me saisit, la vengeance m'enflamme,
+La nature en mon coeur excite un mouvement...
+
+      Ah, mon père !
+C'est vous, par quel bonheur...
+
+Non ; et votre trépas, que l'on croyait certain,
+N'a laissé voir en vous qu'un cruel assassin.
+
+Occupé du bonheur que le ciel me renvoie.
+Mon coeur ne peut encore écouter que sa joie.
+Mais par quel sort... pourquoi ne pourrai-je savoir...
+
+Ah ! Déjà sa vertu, prévenant vos souhaits,
+Avait près d'Hiempsal secondé vos projets ;
+Sans vous, j'allais partir, et ce roi magnanime
+Allait, en me servant, mériter votre estime.
+
+Je respire. Le ciel m'a rendu l'espérance.
+Arisbe va s'unir aux dieux pour ma vengeance ;
+Son coeur dans mes malheurs s'est trop intéressé
+Pour ne pas achever ce qu'elle a commencé.
+Je l'attends ; je connais la grandeur de son âme :
+Elle me servira. Mais c'est elle...
+
+      Ah ! Madame,
+Faut-il de mes malheurs suivant le triste cours,
+Vous en parler sans cesse et me plaindre toujours ?
+Vous voyez de mes maux le funeste assemblage ;
+Je dis plus : dans son âme Arisbe les partage.
+Faible soulagement ! Puisqu'il faut aujourd'hui
+Que mon coeur tout à vous s'en prive malgré lui.
+Je demande à vous fuir ; Rome s'est déclarée :
+Si je demeure ici, ma perte est assurée.
+Le roi, qui dans ce jour refuse d'obéir,
+Par crainte ou par espoir peut enfin me trahir.
+Dans cette incertitude il est affreux de vivre.
+Hiempsal me retient ; Arisbe me délivre.
+Et que ferais-je ici, Madame ? c'est demain
+Qu'à la face des dieux il vous donne la main.
+
+Quand mille maux affreux me viennent accabler,
+Madame, vous voulez encor les redoubler ?
+
+Mais, madame, songez qu'ici tout peut changer ;
+Qu'ayant bravé Sylla, le roi peut le venger ;
+Qu'employant tour à tour les offres, les menaces,
+À la fin mon tyran peut combler mes disgrâces ;
+Que son cruel ministre, achevant ses desseins,
+Peut enfin obtenir qu'on me livre en ses mains.
+
+Comment ?
+
+Dieux!
+
+Madame, jugez mieux d'un effroi légitime.
+La vengeance me plaît, mais j'abhorre le crime ;
+Gardez de l'achever ; ne souillez point un coeur
+Où j'attache ma gloire autant que mon bonheur.
+Si vous m'aimez, courez, arrêtez votre garde.
+
+Ah dieux ! Que de mes jours votre fureur décide...
+Plutôt que de souffrir qu'une troupe perfide...
+
+      Que ne puis-je parler ?
+Hélas ! Quel ennemi vous allez immoler !
+
+      Si vous saviez...
+
+Ce barbare assassin...
+
+      C'est mon père,
+Qui voulant m'enlever de ces tristes États,
+Lui-même a répandu le bruit de son trépas.
+
+      Le roi vers nous s'avance.
+
+Quoi ! Lorsqu'un roi cruel me retient dans ses fers,
+C'est vous qui m'arrachez aux maux que j'ai soufferts !
+Ah ! Madame, croyez qu'après cette entreprise,
+Si le sort des combats jamais me favorise
+Assez pour signaler et mon nom et mon bras,
+Votre gloire en tous lieux volera sur mes pas ;
+Et qu'un jour on dira, si le ciel me seconde :
+Arisbe a rétabli la liberté du monde.
+
+Ah ! Toutes ces faveurs qu'Arisbe me souhaite,
+Sans elle, n'offrent rien que mon coeur ne rejette.
+Prévenons des malheurs qui me glacent d'effroi :
+Partagez mon destin, madame ; suivez-moi.
+Ici mille dangers menacent votre tête :
+Tout doit vous en chasser. Partons ensemble.
+
+Mois, après mon départ, quel sera votre sort ?
+Le roi tous verra-t-il obéir sans effort ?
+Pourrez-vous achever un hymen si funeste,
+Et former avec lui des noeuds que je déteste ?
+
+      Qui ? Moi ? Que je parte, Madame,
+Et qu'à ce désespoir j'abandonne votre âme ?
+Ah ! Je vois quel secours votre coeur s'est promis ;
+J'entrevois vos desseins, et d'horreur j'en frémis.
+Mon sort plus que le vôtre ici vous inquiète ;
+Et pour chercher la mort, vous pressez ma retraite.
+Ainsi ma liberté vous coûterait le jour,
+Et teint de votre sang, je fuirais cette cour !
+Non, dussent les Romains, pour accomplir leur crâne,
+Avec mon père ici me prendre pour victime,
+Je ne vous quitte point ; je n'examine rien,
+Et votre péril seul me cache tout le mien.
+
+Seigneur, qu'allons-nous faire et qu'osons-nous tenter ?
+Nous condamnons Sylla : nous allons l'imiter,
+Et, pour nous opposer à ses projets rebelles,
+Contre notre patrie armer nos mains cruelles !
+
+Seigneur, à ma faiblesse un moment faites grâce ;
+Dans l'état où je suis, que faut-il que je fasse ?
+Arisbe, si je pars, est prête de mourir,
+Et mon retardement peut vous faire périr.
+Je lui dois, comme à vous, le jour que je respire :
+Ses soins mont affranchi d'un tyrannique empire :
+Elle brise mes fers ; vous allez les venger :
+Mou coeur entre vous deux aime à se partager.
+Et que ne puis-je, hélas ! À ma gloire fidèle,
+Vous suivre dans nos murs sans me séparer d'elle ?
+Ou plutôt, que ne puis-je accorder en ce jour
+Ce qu'exigent de moi la nature et l'amour ?
+
+      Enfin avant ma mort, du moins,
+Je pourrai respirer un moment sans témoins.
+Mais je vois ma princesse ! Ô ciel ! Quelle est ma joie !
+
+Voici le lieu fatal où je dois expirer ;
+Je n'attends que le coup qui va nous séparer,
+Madame ; cette salle est partout investie,
+Et cent bras inhumains m'en ferment la sortie.
+C'est peu : l'on va traîner mon père dans ces lieux.
+À voir couler son sang on veut forcer mes yeux.
+Prévenons, s'il se peut, un moment si funeste.
+Armez-moi de ce fer : je prendrai soin du reste.
+Lorsqu'un péril pressant nous laisse sans appui,
+C'est mériter la mort que l'attendre d'autrui.
+
+Il sauvera ma gloire. Adorable princesse,
+Je sais tout ce qu'a fait pour moi votre tendresse ;
+Je sais à quels périls exposée en ces lieux,
+Vous défendiez des jours condamnés par les dieux.
+Vous m'ordonniez de fuir. Pour ne vous point déplaire,
+Je m'arrachais de vous, et je suivais mon père.
+Tout a changé de face, et le barbare sort
+Ne laisse en votre main que l'honneur de ma mort.
+C'est l'unique faveur que de vous j'ose attendre :
+Faites couler ce sang que le roi veut répandre,
+Ou souffrez que mon bras prévienne sa rigueur.
+Un Romain de sa fille osa percer le coeur,
+Pour sauver sa vertu d'une immortelle injure ;
+L'amour fera-t-il moins que ne fit la nature ?
+
+Ah ! Madame, vivez.
+
+Je ne crains que pour vous... Quel objet vient s'offrir ?
+Mon père...
+
+Dieux ! Pouvez-vous compter sur la foi d'un tel homme ?
+
+Hélas!
+
+
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arisbe
+
+Il est temps, Marius, de s'armer de constance :
+D'aujourd'hui seulement votre malheur commence.
+Le destin jusqu'ici déchaîné contre vous,
+Ne faisait qu'essayer la force de ses coups.
+
+Je viens vous annoncer un malheur plus terrible.
+
+      Hélas ! ce héros invincible,
+Que respecta cent fois la fureur des combats,
+A vu trancher ses jours par un perfide bras.
+
+Quelqu'appui qu'en ces lieux on vous fasse espérer,
+Seigneur, aux yeux du roi gardez de vous montrer.
+
+En vain vous aspirez à des projets si hauts ;
+Hélas ! Vous ignorez la moitié de vos maux.
+C'est peu de perdre un père et généreux et tendre ;
+Son cruel meurtrier vient ici de se rendre.
+Ministre de Sylla, le barbare prétend
+Vous mener au Sénat, où la mort vous attend.
+
+Seigneur, sur quels objets votre douleur s'arrête
+Quand les plus grands périls menacent votre tête !
+Mon intérêt peut-il vous toucher en ce jour?
+Le coeur des malheureux est-il fait pour l'amour ?
+
       Ah ! Je cours tous défendre,
 Seigneur, et de mes soins vous pouvez tout attendre.
 Quel que soit le destin qu'on croit vous préparer,
@@ -319,12 +1097,6 @@ Je sais tous les chemins pour entrer en son coeur.
 Mes soupirs le rendront sensible à vos alarmes,
 Et l'amour contre lui me prêtera des armes.
 
--*who_marius
-Que ne vous dois-je point, Madame ?... Mais enfin
-Sait-on ici quel est ce perfide assassin ?
-Que ne puis-je le voir, et dans son sang coupable...
-
--*who_arisbe
 Plus que vous ne pensez ce traître est redoutable.
 Je l'ai vu. Dans ses yeux un noble orgueil est peint ;
 Seigneur, d'aucun remords il ne paraît atteint,
@@ -335,15 +1107,6 @@ Hiempsal doit ici tantôt le recevoir ;
 Je saurai sa réponse, et viendrai vous l'apprendre.
 Il suffit. Laissez-nous. On pourrait nous surprendre.
 
--*who_marius
-Eh bien ! De votre main j'attends tout mon secours.
-Que le ciel précipite ou prolonge mes jours,
-Vous verrez Marius, l'âme toujours romaine,
-Plus constant dans ses maux que les dieux dans leur haine.
-
-**** *book_ *id_I03 *act_I *date_1715
-
--*who_arisbe
 Dieux ! Détournez de lui le plus grand des malheurs.
 Mais Phénice, vois-tu l'excès de mes douleurs ?
 Vois-tu quelle est ici ma triste destinée ?
@@ -366,15 +1129,6 @@ Mais lorsqu'il faut agir, je m'arrête à la plainte !
 Phénice, à chaque instant je sens croître ma crainte.
 Allons trouver le roi.
 
--*who_phenice
-      Madame, oserez- vous
-Paraître en cet état devant ses yeux jaloux ?.
-Un désordre inquiet sur votre front éclate.
-Ah ! S'il va pénétrer l'intérêt qui vous flatte,
-Je crains bien qu'à l'instant un transport furieux
-N'aille perdre ou livrer Marius à vos yeux.
-
--*who_arisbe
 Hélas ! Je le vois trop, le sort toujours barbare
 Ne m'offre que le choix des maux qu'il me prépare.
 Si je presse Hiempsal, mon trouble et ma douleur
@@ -386,632 +1140,6 @@ Phénice ; risquons tout pour défendre ses jours.
 Dans un péril si grand, c'est trop peu de se plaindre.
 L'amour doit tout oser quand il a tout à craindre.
 
-**** *book_ *id_II01 *act_II *date_1715
-
--*who_caiusmarius
-Oui, tu vois Marius. Après tant de revers ;
-Rendu méconnaissable aux yeux de l'univers,
-J'ai cru, de mes malheurs tirant quelque avantage,
-Paraître en sûreté dans cette cour sauvage.
-Un grand dessein m'y guide : assuré de ta foi,
-Numérius, mon coeur ne veut s'ouvrir qu'à toi.
-
--*who_nemurius
-Seigneur, je l'avouerai, j'ai peine à vous répondre ;
-Et tout ce que je vois a droit de me confondre.
-Quoi ! Le grand Marius arrive en ces climats,
-Et lui-même dément le bruit de son trépas,
-Tandis qu'au même instant un envoyé de Rome
-Ose ici se vanter...
-
--*who_caiusmarius
-      J'attends tout de cet homme.
-
--*who_nemurius
-Quoi ! De votre assassin ?
-
--*who_caiusmarius
-      Dissipe ton effroi ;
-J'en attends tout, te dis-je.
-
--*who_nemurius
-      Et quel est-il ?
-
--*who_caiusmarius
-      C'est moi.
-
--*who_nemurius
-Vous, seigneur ?
-
--*who_caiusmarius
-      Oui, moi-même.
-
--*who_nemurius
-      Et dans cette entreprise,
-Par ses lettres au roi, Sylla, tous autorise ?
-
--*who_caiusmarius
-Oui, le tyran m'y sert : j'apporte ici son seing,
-Je t'instruirai de tout ; mais apprends mon dessein.
-J'ai su que trop sensible à de funestes charmes,
-Mon fils à mes malheurs ne donnait que des larmes ;
-J'ai besoin de son bras pour nous venger tous deux,
-Et je viens l'arracher à des fers si honteux.
-Ce projet est hardi, mais mon mal est extrême ;
-Et j'obtiendrai mon fils au nom de Sylla même.
-Ami, j'ai trop vécu : mon âge, mes malheurs,
-Et mes lauriers vieillis ont changé tous les coeurs.
-On ne veut plus me suivre, et ma mort trop voisins
-Fait croire mes projets penchants vers leur ruine.
-Mais avec ce cher fils, plein d'une noble ardeur,
-J'irai de nos amis réchauffer la tiédeur.
-Sa valeur, mes exploits, mon nom et sa jeunesse
-Ranimeront pour moi leur première tendresse ;
-Tu verras dans mon camp se rejoindre à la fois
-Tous ceux que Sylla force à détester ses lois ;
-Et bientôt le tyran par sa perte prochaine
-Laissera respirer la liberté romaine.
-
--*who_numerius
-Seigneur, un tel projet est digne d'un Romain.
-Les dieux seconderont un si noble dessein :
-J'ose vous l'assurer. Mais pourrez-vous me taire
-Comment ils ont sauvé cette tête si chère ?
-Marius est vivant ! Quels climats, quels déserts
-L'ont caché si longtemps aux yeux de l'univers ?
-Éloigné de nos murs depuis plus d'une année.
-Du sort qui vous poursuit victime infortunée.
-J'arrive en cette Cour ; j'y cherche votre fils :
-Quel bonheur imprévu ! Je vous vois réunis.
-
--*who_caiusmarius
-Dès longtemps par mon ordre envoyé dans l'Asie,
-Tu ne peux être instruit des troubles d'Italie ;
-Apprends avec effroi ces débats éclatants
-Dont l'histoire sera présente à tous les temps.
-Mithridate orgueilleux plus qu'un roi ne doit l'être,
-Refusait d'avouer le sénat pour son maître :
-Il fallut contre lui choisir un bras vengeur,
-Et Sylla m'osa bien disputer cet honneur :
-Sylla par mes leçons formé dès son jeune âge,
-Qui sous moi de la guerre a fait l'apprentissage.
-Tout semblait éloigner cet orgueilleux rival
-Pour implorer mon bras contre un autre Annibal.
-Aussi je l'emportai. Rome alors moins ingrate
-Vit en moi l'ennemi digne de Mithridate.
-Mais le jaloux Sylla, de ce choix offensé,
-Part, se rend à l'armée, et m'ayant devancé,
-Soulève contre moi nos plus braves cohortes ;
-Suivi de nos soldats, il paraît à nos portes ;
-Et je vois en un jour conspirer à ma mort
-Tous ceux que la victoire attachait à mon sort
-Échappé toutefois de la ville investie,
-Sans suite, sans amis, j'arrive au port d'Ostie,
-Où j'apprends que Sylla, maître des légions,
-Remplissait tout de meurtre et de proscriptions.
-
--*who_nemurius
-Ce bruit vint me frapper ; et l'Asie étonnée
-Détesta sa fureur contre vous déchaînée :
-J'appris que le tyran demandait au Sénat
-D'approuver contre vous jusqu'à l'assassinat.
-
--*who_caiusmarius
-Il l'obtint cet arrêt, porté dans chaque ville,
-Dès lors à Marius ne laisse aucun asile,
-Révolte contre moi ceux qui m'étaient soumis,
-Et de tous les mortels me fait des ennemis.
-À qui me confier ? La mer et ses pirates
-Me semblèrent plus sûrs que nos terres ingrates.
-Il fallut m'embarquer. Je voguai quelque temps,
-Déplorable jouet de la mer et des vents.
-Quel changement ! Quel fruit de mes grandeurs passées !
-Enfin nous arrivons aux rives de Circées ;
-Et déjà de Minturne on voyait les remparts,
-Quand de mes ennemis un escadron épars
-Crie, au nom de Sylla, qu'on aborde au rivage.
-Mes gardes à ce nom changent tous de visage,
-Et de crainte et d'horreur combattus à la fois,
-Jettent sur moi les yeux, incertains de leur choix.
-Tantôt de mon tyran l'autorité les presse,
-Et tantôt la pitié pour moi les intéresse ;
-Suivant le mouvement en leur coeur le plus fort,
-La barque se recule, ou s'approche du bord.
-Mais n'osant décider mon salut ni ma perte,
-Ils me jetèrent seul dans une île déserte.
-Toujours mes ennemis avaient sur moi les yeux,
-Et bientôt leur fureur m'assiège dans ces lieux.
-Où fuir ? presque accablé par les travaux et l'âge,
-Je ne vois devant moi qu'un affreux marécage :
-Je m'avance ; et perçant dans la fange et les eaux,
-Tout à coup je m'abîme au milieu des roseaux.
-On eût dit que la terre, au défaut de murailles,
-Pour cacher Marius entr'ouvrait ses entrailles :
-C'est là qu'un bras cruel, sans respect pour mon nom,
-Vient me saisir couvert de fange et de limon ;
-Et celui qu'on nommait le fondateur de Rome,
-À peine en cet état eût passé pour un homme.
-
--*who_numerius
-Ô ciel ! Mais je ne puis, Seigneur, trop admirer
-Tant d'écueils d'où les Dieux ont su vous retirer.
-Dans l'abîme souvent leur bras nous précipite,
-Pour faire après sur nous éclater leur conduite.
-
--*who_caiusmarius
-Ami, ce ne sont là que mes moindres revers.
-On me traîne à Minturne, on m'y charge de fers.
-On m'y lit mon arrêt, pour ma mort tout s'apprête ;
-Que dis-je ? Un vil esclave y marchande ma tête ;
-Il entre, et le sommeil qui me fermait les yeux
-Me livre sans défense à son bras furieux.
-Le dieu qui m'éveilla rendit mon air farouche,
-Mes yeux étincelants, et parla par ma bouche :
-« Barbare ! oses-tu bien immoler Marius ? »
-Ce nom seul le désarme ; il ne se connaît plus ;
-Il fuit saisi d'horreur, il croit voir mon génie
-Voler autour de lui, prêt à trancher sa vie.
-« Ah ! dit-il, ce Romain est gardé par les dieux. »
-Il parle, et tout à coup Minturne ouvre les yeux.
-On vient briser mes fers ; la joie en est publique.
-Je m'embarque, et j'aborde au rivage d'Afrique,
-Où je retrouve encor quelques secrets amis.
-Je leur peins ma disgrâce et celle de mon fils.
-Ils s'offrent à me suivre au péril de leur vie.
-Accru d'un tel secours, je vole en Numidie ;
-Là j'apprends qu'un tribun, entré dans cet État,
-Vient y chercher mon fils par l'ordre du Sénat ;
-Ce peu d'amis et moi nous joignons le perfide.
-Dès qu'il me reconnaît, le lâche s'intimide :
-Il veut fuir ; je l'arrête ; et lui perçant le flanc,
-Je le vois chanceler, et tomber dans son sang.
-Par ma suite les siens sont abattus sans peine.
-Tout périt. Le tribun qui voit sa mort certaine,
-Privé de tout secours, me regarde. « Voila,
-Me dit-il en mourant, les lettres de Sylla.
-J'allais chercher ton fils pour être ma victime ;
-J'avais juré ta mort : la mienne est légitime. »
-Il meurt, et dans l'instant je formai Je dessein
-De passer pour lui-même et pour mon assassin.
-C'est ainsi que je viens à la cour des Numides ;
-Et pour rendre aujourd'hui mes projets plus solides,
-J'annonce, en arrivant, que Marius est mort,
-Et que ma seule main a terminé son sort.
-Le roi qui de Sylla doit craindre la vengeance,
-Qui verra, par ma mort, mon parti sans défense,
-Et croyant en effet servir mes ennemis,
-Dans les bras paternels va remettre mon fils.
-
--*who_nemurius
-Un tel projet est grand, seigneur ; j'ose le dire :
-Mais enfin si le roi refuse d'y souscrire ?
-
--*who_caiusmarius
-Je saurai l'y forcer. Mon désespoir fatal
-Lui montrerait plutôt dans mon fils son rival.
-
--*who_numerius
-Seigneur, lorsque pour vous le destin se déclare,
-Vous deviez moins risquer dans une cour barbare.
-Loin d'ici vous pouviez, par de secrets avis,
-De tous vos sentiments instruire votre fils,
-L'appeler près de vous ; et son obéissance,
-Sans péril, eût bientôt rempli votre vengeance.
-Je connais peu le roi qui règne en ces climats,
-Mais je crains qu'à vos voeux il ne réponde pas.
-Du moins si l'on m'a fait un rapport bien fidèle,
-Le jeune Marius a mérité son zèle :
-Ce roi veut le servir, seigneur ; jugez de là
-Comment il peut traiter l'envoyé de Sylla.
-
--*who_caiusmarius
-Je vois qu'on t'a trompé. Connais mieux les Numides :
-Ils sont dissimulés, inconstants et perfides,
-De la grandeur romaine ennemis et jaloux,
-Et Jugurtha m'apprit à les connaître tous.
-Mais pour justifier ici ma politique,
-Sache ce qu'on m'apprit sur les côtes d'Afrique.
-Granius ennuyé d'un périlleux séjour,
-Avait quitté mon fils en proie à son amour.
-Le hasard nous joignit. Son amitié sincère,
-De tout ce qu'il savait ne voulut rien me taire.
-Il me dit que le roi, par d'obligeants dehors,
-Du jeune Marius aimerait les transports,
-Tandis que le flattant d'un secours trop frivole,
-Il reculait toujours l'effet de sa parole ;
-Qu'observé par son ordre, et lié par l'amour,
-Mon fils qui se croit libre est captif dans sa cour.
-Juge dans cet état ce qu'il auroit pu faire.
-Ah ! Ma présence ici n'est que trop nécessaire.
-Je t'avouerai pourtant mon déplaisir secret :
-Je parais sous un nom que je porte à regret.
-Je dois vanter ici l'autorité funeste
-Du cruel ennemi que mon âme déteste ;
-Il faut que, dans l'état où le sort m'a placé,
-Des mains de Marius Sylla soit encensé.
-Mais le roi dans ces lieux doit au plus tôt se rendre.
-Demeure : je le vois ; tu pourras nous entendre.
-
-**** *book_ *id_II02 *act_II *date_1715
-
--*who_caiusmarius
-Les lettres de Sylla, remises dans vos mains,
-Seigneur, vous ont marqué ses ordres souverains.
-J'attends que remplissant son dessein légitime,
-Vous veniez au plus tôt me livrer sa victime.
-Je n'ajouterai point aux offres qu'il vous fait,
-Que c'est en le servant servir Rome en effet.
-C'est servir le sénat, dont la juste colère
-Demande qu'au tombeau le fils suive le père.
-On craint qu'un jour ce fils, ardent à se venger,
-Dans nos premiers malheurs vienne nous replonger.
-Seigneur, vous le savez, Rome n'est point ingrate.
-Assurez-la, par moi, d'un succès qui la flatte ;
-Et croyez que toujours prompte à s'en souvenir,
-Sa faveur vous assure un heureux avenir.
-Vos fidèles aïeux Micipsa, Massinisse,
-Furent payés en rois de leur noble service ;
-Et la fidélité qu'ils gardèrent pour nous,
-Seigneur, est un exemple assez puissant pour tous.
-
--*who_hiempsal
-Seigneur, je n'ai pas cru que l'assassin d'un homme
-Dont la seule valeur tant de fois sauva Rome,
-Dût venir en ma cour, au nom de ces Romains,
-Demander que son fils soit livré dans leurs mains.
-Vous osez dans vos murs nous traiter de barbares :
-Vous l'êtes plus que nous. Jamais nos mains avares,
-Secondant les fureurs d'un injuste Sénat,
-N'ont encore à prix d'or vendu l'assassinat.
-Ici nos ennemis, pressés à force ouverte,
-Ne doivent qu'à nous seuls leur salut ou leur perte,
-Et ces lâches détours qu'à Rome on peut vanter,
-Ne sont connus ici que pour les détester.
-Ne croyez pas pourtant qu'aucun parti me touche,
-Ni qu'un aveugle zèle ouvre ou ferme ma bouche.
-Marîus et Sylla, tout est égal pour moi :
-Et mon coeur entre eux deux est maître de sa foi.
-Je hais tous les Romains souillés de parricides ;
-Je hais la cruauté de ces peuples perfides,
-Qui donnant au hasard leur haine et leurs faveurs,
-S'immolent tour-à-tour leurs plus chers défenseurs.
-Ainsi, par la fureur d'une ville cruelle,
-Les Gracques ont péri victimes de leur zèle ;
-Ainsi dans un tumulte en vos murs élevé,
-Sylla, l'ingrat Sylla, par Marius sauvé,
-De son libérateur s'est fait une victime.
-Mais je ne serai point complice de son crime,
-Seigneur ; si mes aïeux, que je cite à regret,
-Devenus vos amis par un semblable trait,
-S'acquirent des Romains l'estime dangereuse,
-Je renonce à leur gloire, et la tiens pour honteuse.
-Je garde dans ma cour le jeune Marius,
-Et Rome peut de vous apprendre mon refus.
-
--*who_caiusmarius
-Je veux bien ignorer quel motif vous engage
-À tenir un discours dont la fierté m'outrage.
-Un roi dont Rome fait la grandeur et l'appui,
-Devrait se souvenir qu'un Romain parle à lui :
-Mais, Seigneur, profitez d'un avis salutaire,
-Et sur vos intérêts souffrez qu'on vous éclaire.
-Rome seule aujourd'hui commande à tous les Rois,
-Et la terre en tremblant se soumet à ses lois.
-
--*who_hiempsal
-Rome commande aux rois ? Et quel orgueil la flatte ?
-Sait-elle que je règne ainsi que Mithridate ?
-
--*who_caiusmarius
-Seigneur, vous connaîtrez peut-être quelque jour,
-Si l'on doit préférer sa haine à son amour.
-Annibal subjugué, Carthage mise en cendre,
-Jugurtha dans nos fers, tout pourra vous l'apprendre.
-Mais si vous m'en croyez, soyez de nos amis.
-Que par vous Marius en mes mains soit remis ;
-Le Sénat vous en presse ; et toujours équitable,
-S'il a juré sa mort, il condamne un coupable.
-Qui vous retient, Seigneur? Lorsque sans intérêt,
-Vous pouvez préférer le parti qui vous plaît,
-Trouvez-vous quelque gloire à nous être infidèle ?
-Quel zèle vous attache à défendre un rebelle,
-Qui, libre en votre Cour lorsque nous étions loin,
-Devient votre captif quand Rome en a besoin ?
-
--*who_hiempsal
-Seigneur, si dans vos murs j'avais reçu la vie,
-Ma réponse incertaine en suivrait le génie :
-Mais qui sait haïr Rome aime la vérité,
-Et je vais vous parler avec sincérité.
-Sitôt que Marius prit ma Cour pour asile,
-Il n'en dut plus sortir ; sa prison fut utile,
-Et je crus qu'en mes fers tenir quelques Romains,
-C'est d'autant d'ennemis délivrer les humains.
-J'ai voulu cependant, pour adoucir sa peine,
-Qu'observé par mon ordre il ignorât sa chaîne ;
-Que maître de ses pas dans ma cour éclairés,
-Il prît pour liberté des fers moins resserrés.
-Voilà ce que je pense ; et, pour ne vous rien taire ;
-Votre ambassade ici n'était pas nécessaire ;
-Et croyez que mes voeux auraient été remplis,
-Sa le père en ces lieux avait suivi le fils.
-
--*who_caiusmarius
-J'instruirai le Sénat de cette vaine audace,
-Seigneur ; peut-être un jour vous demanderez grâce :
-Il n'en sera plus temps. Mais si vous savez bien
-Qu'ici votre intérêt s'accorde avec le mien,
-Qu'Arisbe a ses raisons pour vouloir le défendre...
-
-**** *book_ *id_II03 *act_II *date_1715
-
--*who_marius
-Dans l'état où je suis, je ne veux rien entendre.
-C'est trop me retenir, barbares ; laissez moi :
-J'irais le poignarder entre les bras du roi.
-
--*who_caiusmarius
-Ô Dieux !
-
--*who_marius
-      Qu'ai-je entendu ? L'assassin de mon père
-Apporte jusqu'ici sa fureur sanguinaire ?
-Il est en votre cour, et prêt à m'immoler.
-Quoi ! Seigneur, vous pouvez le voir et lui parler ?
-Qu'il se montre du moins ; sachons quel bras perfide
-Adopte les fureurs de ce noir parricide.
-Quel mortel avouant ce forfait odieux.
-En ira demander le salaire ?
-
--*who_caiusmarius
-      Moi.
-
--*who_marius
-      Dieux!
-Que vois- je ? Où suis- je enfin ? Que deviens- je ? Quel trouble !...
-
--*who_caiusmarius
-Tu trembles ! Ta frayeur à chaque instant redouble/
-Rassure-toi. Du moins constant dans le danger
-Sois digne de celui que tu venais venger.
-De ton étonnement je perce le mystère :
-Tu sais quelle amitié me joignait à ton père ;
-Tu croyais que mon bras ardent à son secours,
-Quand Rome le proscrit, eût défendu ses jours ;
-Mais sache qu'un Romain, quelque noeud qui le lie,
-Ne connaît point d'amis plus chers que sa patrie.
-Ton père n'eut jamais d'autre assassin que moi :
-Je viens te joindre à lui. Rome a besoin de toi
-Son intérêt demande une prompte victime ;
-Sylla... Tu reconnais le pouvoir légitime
-D'où partent aujourd'hui mes ordres souverains ;
-Obéis ; viens remplir l'attente des Romains.
-
-**** *book_ *id_II04 *act_II *date_1715
-
--*who_hiempsal
-Quoi ! Montrer à mes yeux une telle insolence !
-N'en craignez rien, Seigneur : je prends votre défense ;
-Mon bras pour le punir... Vous vous troublez !
-
--*who_marius
-      Seigneur,
-Mon trouble ne vient point d'une lâche frayeur ;
-Cent transports à la fois s'emparent de mon âme :
-La fureur me saisit, la vengeance m'enflamme,
-La nature en mon coeur excite un mouvement...
-
--*who_hiempsal
-Je vous réponds de tout. Laissez-nous un moment,
-Seigneur ; soyez tranquille.
-
-**** *book_ *id_II05 *act_II *date_1715
-
--*who_hiempsal
-      Enfin je deviens maître
-De deux grands ennemis que le Tibre a vu naître.
-Ce ministre insolent, qui se livre en mes mains,
-Ne rendra pas sitôt ma réponse aux Romains.
-Que ne puis-je, Nerbal, au défaut du tonnerre,
-De Rome dans ma Cour venger toute la terre,
-Et voir par leurs débats ces fameux conquérants
-Tomber tous dans mes fers en fuyant leurs tyrans !
-
--*who_nerbal
-Oui, seigneur, un projet si grand, si légitime,
-Du reste des humains mériterait l'estime ;
-Je veux bien l'avouer : mais il est des instants
-Où ces nobles désirs doivent céder au temps.
-Si vous gardez ici deux Romains en otage,
-Vous attirez sur vous un périlleux orage :
-Sylla peut tout ; et Rome unie à son dessein
-Vous les demandera les armes à la main.
-
--*who_hiempsal
-Je ne crains point Sylla. Les troubles d'Italie
-Ont de quoi l'occuper le reste de sa vie.
-Quand même les Romains le laisseraient en paix,
-Mithridate peut seul épuiser tous ses traits.
-Je t'avouerai pourtant un secret qui me gêne :
-Mon âme en ce moment devient plus incertaine.
-Arisbe a pris pitié de cet infortuné ;
-Elle croit que sans elle il était condamné.
-Je voulais lui donner, pour preuve de mon zèle,
-Ce que mon intérêt m'avait dicté sans elle :
-Mais au fond de mon coeur s'élève un noir soupçon,
-Dont j'ai peine, Nerbal, à sauver ma raison.
-Dis-moi, que voulait-on tantôt me faire entendre,
-Arisbe a ses raisons pour vouloir le défendre ?
-
--*who_nerbal
-Mais, Seigneur...
-
--*who_hiempsal
-      Dois-je en croire un soupçon odieux ?
-
--*who_nerbal
-Si Marius suspect ici blesse vos yeux,
-Pourquoi le retenir ?
-
--*who_hiempsal
-      Allons trouver l'ingrate,
-Arrachons son secret par l'espoir qui la flatte ;
-Et si de cet amour j'ai des avis certains,
-Malheur à qui m'outrage, et malheur aux Romains !
-
-**** *book_ *id_III01 *act_III *date_1715
-
--*who_caiusmarius
-N'éclaircirai-je point le doute qui m'agite ?
-De ton étonnement quelle sera la suite,
-Ô mon fils ? Ta frayeur va tromper mes projets ;
-Et prêt à te sauver, je te perds pour jamais.
-Je ne puis après tout condamner sa surprise ;
-Dans ce même moment mon trouble l'autorise.
-Et qu'aurait-il pu faire ? Il m'aime, il me croit mort ;
-Il venait, animé d'un généreux transport,
-Pour punir l'assassin d'une tête si chère :
-Dans ce même assassin il retrouve son père !
-Qui n'aurait comme lui pâli d'étonnement ?
-Moi-même ai-je marqué moins de saisissement ?
-Moi qui le sais ici, qui m'attends à sa vue,
-Hélas ! À son aspect mon âme s'est émue ;
-En revoyant ce fils de douleur accablé,
-Sans songer au péril, la nature a parlé.
-C'en est fait, on saura cet important mystère.
-Mais c'est lui que je vois...
-
-**** *book_ *id_III02 *act_III *date_1715
-
--*who_caiusmarius
-      Ah, mon fils!
-
--*who_marius
-      Ah, mon père !
-C'est vous, par quel bonheur...
-
--*who_caiusmarius
-      Oui, mon cher fils, c'est moi,
-Mais il faut avant tant dissiper mon effroi.
-Je crains bien qu'Hiempsal n'ait su me reconnaître
-Au trouble dont tantôt vous n'étiez pas le maître.
-
--*who_marius
-Non ; et votre trépas, que l'on croyait certain,
-N'a laissé voir en vous qu'un cruel assassin.
-
--*who_caiusmarius
-Mon destin va changer. Grands dieux ! Votre clémence
-Plus encor qu'à Minturne ici prend ma défense.
-Mais les moments sont chers : sachons en profiter !
-Voici ce qu'en ce jour il faut exécuter.
-Rome, vous le savez, dans ses voeux incertaine,
-Passe facilement de l'amour à la haine,
-Et ceux que sa faveur a le plus haut placés,
-Par un coup imprévu sont bientôt renversés :
-Mille fois on l'a vue abattre son ouvrage,
-Et perdre ses tyrans, pour changer d'esclavage.
-Sylla l'a bien prévu : pour parer cet affront
-Il quitte Rome, et va contre le roi de Pont,
-Se flattant que de loin sa gloire et son absence
-Ranimeront des coeurs que lassait sa présence.
-Saisissons ce moment, et, par des chemins sûrs,
-Mon fils, allons fermer son retour dans nos murs.
-
--*who_marius
-Occupé du bonheur que le ciel me renvoie.
-Mon coeur ne peut encore écouter que sa joie.
-Mais par quel sort... pourquoi ne pourrai-je savoir...
-
--*who_caiusmarius
-Profitons mieux du temps que je risque à vous voir.
-Je vis ; mais ces vieux jours, que je prolonge à peine,
-Ne s'entretiennent plus qu'au flambeau de la haine :
-Sylla, je vis pour toi. Je consens à ma mort,
-Pourvu qu'un même coup puisse finir ton sort.
-J'espérais que, séduit par mon nom et ma lettre,
-Hiempsal dans mes mains voudrait bien vous remettre :
-Il a trompé mes voeux, et pour tromper les siens
-Il faut avoir recours à de plus sûrs moyens.
-Je sais qu'à votre sort Arisbe s'intéresse ;
-Je sais que votre coeur répond à sa tendresse ;
-Et sans vouloir ici vous accabler en vain
-D'un reproche honteux à quiconque est Romain,
-Amoureux et content, les disgrâces d'un père,
-Avouez-le mon fils, ne vous alarmaient guère.
-Ma tendresse pour vous excuse cette erreur,
-Pourvu que votre amour serve à votre grandeur.
-Il est beau qu'un Romain jaloux de sa mémoire,
-Pour ennoblir l'amour, l'associe à la gloire ;
-Que de tant de héros l'inévitable écueil
-Le rende encor plus grand, et flatte son orgueil.
-Arisbe a su vous plaire ! Eh bien ! Qu'elle mérite
-Un choix si glorieux en hâtant votre fuite ;
-Qu'immolant sa tendresse à votre liberté,
-Elle se rende illustre à la postérité ;
-Enfin, qu'en vous sauvant d'une terre ennemie,
-À force de vertu, son coeur vous justifie.
-
--*who_marius
-Ah ! Déjà sa vertu, prévenant vos souhaits,
-Avait près d'Hiempsal secondé vos projets ;
-Sans vous, j'allais partir, et ce roi magnanime
-Allait, en me servant, mériter votre estime.
-
--*who_caiusmarius
-Ce roi vous eût trahi : vous le connaissez mal ;
-Croyez-moi, tout ici vous deviendrait fatal ;
-Votre salut dépend d'une prompte retraite :
-Il faut que cette nuit une fuite secrète
-Assure loin d'ici ma vengeance et vos jours ;
-Arisbe vous peut seule accorder du secours,
-Et contre votre garde employant l'artifice,
-En tromper la prudence ou tenter l'avarice,
-Voyez-la : mais surtout ne lui découvrez pas
-Que c'est moi qui répands le bruit de mon trépas :
-Pour presser le moment que j'attends avec joie,
-Dans le péril toujours il faut qu'elle vous voie.
-Dites-lui que le roi, dans ses voeux incertain,
-Par de nouveaux motifs peut changer de dessein ;
-Que bravant de Sylla les menaces stériles,
-Il peut se laisser vaincre à des offres utiles,
-Aux fureurs du tyran vous livrer à ce prix.
-J'irai de mon côté rejoindre nos amis,
-Concerter avec eux ce qu'on peut entreprendre.
-Riais je m'arrête trop, et l'on peut nous surprendre,
-Je vous quitte à regret ; adieu, mon fils : songez
-Quel honneur vous attend quand nous serons vengés.
-
-**** *book_ *id_III03 *act_III *date_1715
-
--*who_marius
-Je respire. Le ciel m'a rendu l'espérance.
-Arisbe va s'unir aux dieux pour ma vengeance ;
-Son coeur dans mes malheurs s'est trop intéressé
-Pour ne pas achever ce qu'elle a commencé.
-Je l'attends ; je connais la grandeur de son âme :
-Elle me servira. Mais c'est elle...
-
-**** *book_ *id_III04 *act_III *date_1715
-
--*who_marius
-      Ah ! Madame,
-Faut-il de mes malheurs suivant le triste cours,
-Vous en parler sans cesse et me plaindre toujours ?
-Vous voyez de mes maux le funeste assemblage ;
-Je dis plus : dans son âme Arisbe les partage.
-Faible soulagement ! Puisqu'il faut aujourd'hui
-Que mon coeur tout à vous s'en prive malgré lui.
-Je demande à vous fuir ; Rome s'est déclarée :
-Si je demeure ici, ma perte est assurée.
-Le roi, qui dans ce jour refuse d'obéir,
-Par crainte ou par espoir peut enfin me trahir.
-Dans cette incertitude il est affreux de vivre.
-Hiempsal me retient ; Arisbe me délivre.
-Et que ferais-je ici, Madame ? c'est demain
-Qu'à la face des dieux il vous donne la main.
-
--*who_arisbe
 Pour presser le secours que de moi l'on espère,
 Le reproche, Seigneur, n'était pas nécessaire ;
 Et si de votre coeur je doutais un moment,
@@ -1023,11 +1151,6 @@ Vous en tirez le droit de vous faire partir !
 Ce discours est trop clair : craignez qu'on ne l'entende,
 Et qu'on ne vous accorde une injuste demande.
 
--*who_marius
-Quand mille maux affreux me viennent accabler,
-Madame, vous voulez encor les redoubler ?
-
--*who_arisbe
 Mais aussi quel dessein, à vos jours si funeste.
 Vous fait abandonner l'asile qui vous reste ?
 Savez-vous que la mort, sous mille objets divers,
@@ -1059,29 +1182,12 @@ Ingrat, tandis qu'ici tout te paraît affreux:
 Ton aveugle fureur préfère l'Italie
 À des climats plus doux qui t'ont sauvé la vie.
 
--*who_marius
-Mais, madame, songez qu'ici tout peut changer ;
-Qu'ayant bravé Sylla, le roi peut le venger ;
-Qu'employant tour à tour les offres, les menaces,
-À la fin mon tyran peut combler mes disgrâces ;
-Que son cruel ministre, achevant ses desseins,
-Peut enfin obtenir qu'on me livre en ses mains.
-
--*who_arisbe
 Non, non : ne craignez rien de ce cruel ministre,
 Pour un autre que vous ce jour sera sinistre.
 
--*who_marius
-Comment ?
-
--*who_arisbe
       Avant la nuit ce perfide assassin
 Par un juste trépas finira son destin.
 
--*who_marius
-Dieux!
-
--*who_arisbe
       La garde qu'ici jusqu'à mon hyménée
 Sous les lois d'Amyntas mon père m'a donnée,
 De ce coup important me répond aujourd'hui ;
@@ -1095,90 +1201,25 @@ Vient enhardir mon coeur et presser ta vengeance ?
 Ton père est mort, mon bras le venge, et tu frémis !
 Marius, est-ce ainsi que doit penser ton fils ?
 
--*who_marius
-Madame, jugez mieux d'un effroi légitime.
-La vengeance me plaît, mais j'abhorre le crime ;
-Gardez de l'achever ; ne souillez point un coeur
-Où j'attache ma gloire autant que mon bonheur.
-Si vous m'aimez, courez, arrêtez votre garde.
-
--*who_arisbe
 C'est prendre trop de soin de ce qui me regarde,
 Ingrat ! Sans ton aveu je saurai te venger.
 Qui doit ne te plus voir, n'a rien à ménager.
 
--*who_marius
-Ah dieux ! Que de mes jours votre fureur décide...
-Plutôt que de souffrir qu'une troupe perfide...
-
--*who_arisbe
 Eh quoi ! Quel intérêt ?...
 
--*who_marius
-      Que ne puis-je parler ?
-Hélas ! Quel ennemi vous allez immoler !
-
--*who_arisbe
 Comment ?
 
--*who_marius
-      Si vous saviez...
-
--*who_arisbe
       Qu'entends-je ? Quel mystère ?
 
--*who_marius
-Ce barbare assassin...
-
--*who_arisbe
       Quoi ! Seigneur ?
 
--*who_marius
-      C'est mon père,
-Qui voulant m'enlever de ces tristes États,
-Lui-même a répandu le bruit de son trépas.
-
--*who_arisbe
 Ah ! S'il est vrai, je veux....
 
--*who_marius
-      Le roi vers nous s'avance.
-
-**** *book_ *id_III05 *act_III *date_1715
-
--*who_hiempsal
-Seigneur, laissez-nous seuls. Ma gloire et ma puissance
-Semblent me reprocher des sentiments trop doux,
-Madame, et je venais en parler avec vous.
-Que pense Marius ? Que pensez-vous vous-même ?
-Il vous entretenait de sa douleur extrême.
-
--*who_arisbe
 Il ressent de Sylla la haine et le pouvoir,
 Seigneur ; mais vos bontés sont son unique espoir.
 
--*who_hiempsal
-Vous partagez ses maux ; et qu'aurait-il à craindre ?
-Quel que soit son malheur, je ne saurais le plaindre,
-Madame ; et quand on peut être écouté de vous,
-Prêt à perdre la vie on fait mille jaloux.
-Ah ! Dans le sort affreux qui cause ses alarmes,
-Pouvait-il être plaint par de plus belles larmes ?
-Vous vous, troublez !
-
--*who_arisbe
       Qui ? Moi, seigneur ? Quoi ! Vous pensez...
 
--*who_hiempsal
-Oui, vous l'aimez, perfide, et vous me trahissez :
-Ainsi donc sans songer de qui vous êtes née,
-Au mépris de mon trône et de notre hyménée,
-Votre infidèle coeur, à ma flamme promis,
-Choisit pour s'engager nos plus grands ennemis.
-Jugurtha, c'est ainsi que ta nièce sait rendre
-Les funèbres honneurs qu'elle doit à ta cendre !
-
--*who_arisbe
 Je l'avouerai, Seigneur, (et mon étonnement
 N'a point encor fait place à mon ressentiment :)
 Accablé par le sort, un Romain m'intéresse.
@@ -1194,11 +1235,6 @@ Allons, Seigneur, joignons Marius et son père :
 Que son sang vous apaise, ombre de Jugurtha !
 Livrons cet innocent dans les mains de Sylla.
 
--*who_hiempsal
-Sans doute vous croyez, par cette rigueur feinte,
-Détruire les soupçons dont mon âme est atteinte ?
-
--*who_arisbe
 Arisbe ne dit rien que ne dicte son coeur ;
 Et ce coeur soupçonné ne sent point d'autre ardeur
 Que de voir Marius, en quittant ce rivage,
@@ -1208,66 +1244,11 @@ L'envoyé de Sylla, lui dire qu'on l'attend,
 Que tout est préparé pour lui livrer un homme
 Que l'amour rend ici plus criminel qu'à Rome.
 
--*who_hiempsal
-Madame...
-
--*who_arisbe
       Non, seigneur, plus d'hymen entre nous :
 Un roi ne doit pas être impunément jaloux.
 Renoncez à ma foi, soyez sûr de ma haine,
 Ou délivrez mes yeux d'un objet qui les gêne.
 
--*who_hiempsal
-C'est assez, j'y consens ; qu'en partant de ces lieux,
-Il emporte avec lui dès soupçons odieux.
-
-**** *book_ *id_III06 *act_III *date_1715
-
--*who_hiempsal
-Que voulait, après tout, ma fausse politique ?
-Ai-je oublié les maux dont a gémi l'Afrique,
-Où m'expose un proscrit que l'on veut immoler ?
-Du malheur qui le suit il pourrait m'accabler.
-Ah ! Que Rome à son gré de ses enfants dispose :
-N'allons point réveiller sa fureur qui repose :
-Laissons-la s'affaiblir et tomber par ses coups :
-Je me vengerai d'elle en servant son courroux.
-
-**** *book_ *id_III07 *act_III *date_1715
-
--*who_nerbal
-Seigneur...
-
--*who_hiempsal
-      Quel est ton trouble, et que viens-tu me dire ?
-
--*who_nerbal
-Ce qu'un bruit sourd m'apprend : que Marius respire.
-
--*who_hiempsal
-Lui vivant ! Quelle erreur ! Son trépas est certain,
-Et l'envoyé de Rome a tranché son destin.
-Crois-tu qu'à me tromper il osât se commettre,
-Quand le sceau du Sénat autorise sa lettre ?
-
--*who_nerbal
-Tout m'est suspect, la lettre, et le sceau du Sénat :
-Seigneur, on vous abuse ; et cet assassinat
-Dont le Romain se vante, ou n'est qu'une chimère t
-Ou d'accord avec lui, le fils trahit son père.
-On les a vus ensemble.
-
--*who_hiempsal
-      Ô dieux ! Qu'ai- je entendu ?
-Quel soupçon vient saisir mon esprit éperdu ?
-Quoi ! Ces deux ennemis, on les a vus ensemble ?
-Quand tout les désunit, sachons qui les rassemble :
-Pénétrons ce mystère ; en cette obscurité,
-J'irai jusqu'en leur coeur chercher la vérité.
-
-**** *book_ *id_IV01 *act_IV *date_1715
-
--*who_arisbe
 N'en doutez point, Seigneur, votre départ s'apprête.
 Tandis qu'il en est temps, évitez la tempête :
 Le roi m'a soupçonnée, et son jaloux transport
@@ -1275,17 +1256,6 @@ Assure votre vie en jurant votre mort ;
 Il vous livre aux Romains, mais tel qu'une victime,
 Et sauve la vertu par le motif du crime.
 
--*who_marius
-Quoi ! Lorsqu'un roi cruel me retient dans ses fers,
-C'est vous qui m'arrachez aux maux que j'ai soufferts !
-Ah ! Madame, croyez qu'après cette entreprise,
-Si le sort des combats jamais me favorise
-Assez pour signaler et mon nom et mon bras,
-Votre gloire en tous lieux volera sur mes pas ;
-Et qu'un jour on dira, si le ciel me seconde :
-Arisbe a rétabli la liberté du monde.
-
--*who_arisbe
 Oui, Seigneur, tout vous rit : sorti de cet État,
 Vous reprendrez bientôt votre premier éclat ;
 Vous verrez la fortune, à vos voeux asservie,
@@ -1297,15 +1267,6 @@ Que vos fiers ennemis, terrassés par vos armes.
 Que votre nom vainqueur parcoure l'univers,
 Arisbe est satisfaite ; elle a brisé vos fers.
 
--*who_marius
-Ah ! Toutes ces faveurs qu'Arisbe me souhaite,
-Sans elle, n'offrent rien que mon coeur ne rejette.
-Prévenons des malheurs qui me glacent d'effroi :
-Partagez mon destin, madame ; suivez-moi.
-Ici mille dangers menacent votre tête :
-Tout doit vous en chasser. Partons ensemble.
-
--*who_arisbe
       Arrête.
 Je t'aime, Marius, et dès le même jour
 Que mon coeur fut sensible aux feux de cet amour,
@@ -1324,13 +1285,6 @@ Et de ma honte entière instruisant l'univers,
 J'aille à Rome essuyer les disgrâces certaines,
 Que garde au sang des rois l'orgueil de tes Romaines.
 
--*who_marius
-Mois, après mon départ, quel sera votre sort ?
-Le roi tous verra-t-il obéir sans effort ?
-Pourrez-vous achever un hymen si funeste,
-Et former avec lui des noeuds que je déteste ?
-
--*who_arisbe
 Ne me demandez point ce que je deviendrai,
 Ce que j'ai résolu, ni ce que je ferai :
 La renommée un jour vous dira mon histoire ;
@@ -1347,21 +1301,6 @@ Songez bien que pour rendre au monde son héros,
 L'infortunée Arisbe immola son repos.
 Partez, Seigneur.
 
--*who_marius
-      Qui ? Moi ? Que je parte, Madame,
-Et qu'à ce désespoir j'abandonne votre âme ?
-Ah ! Je vois quel secours votre coeur s'est promis ;
-J'entrevois vos desseins, et d'horreur j'en frémis.
-Mon sort plus que le vôtre ici vous inquiète ;
-Et pour chercher la mort, vous pressez ma retraite.
-Ainsi ma liberté vous coûterait le jour,
-Et teint de votre sang, je fuirais cette cour !
-Non, dussent les Romains, pour accomplir leur crâne,
-Avec mon père ici me prendre pour victime,
-Je ne vous quitte point ; je n'examine rien,
-Et votre péril seul me cache tout le mien.
-
--*who_arisbe
 Seigneur, où vous emporte un zèle téméraire ?
 Songez que vos délais exposent votre père.
 Le roi, qui par mes soins permet votre départ,
@@ -1375,239 +1314,6 @@ Sa gloire le découvre, et sa vertu le montre.
 Mais c'est lui qui paraît. Adieu : je crains le roi :
 Je vous aime, et vous fuis ; vous m'aimez, fuyez-moi.
 
-**** *book_ *id_IV02 *act_IV *date_1715
-
--*who_caiusmarius
-Tout conspire, mon fils, au projet qui me flotte :
-Sylla n'est plus à Rome ; il cherche Mithridate.
-Quittons ces lieux, partons, et par mille vertus
-Déterminons les dieux à servir Marius.
-Faut-il vous dire encor que dans cette entreprise,
-Par des présages sûrs le destin m'autorise ?
-Déjà six consulats, de triomphes suivis,
-Ont d'assez beaux lauriers couvert mes cheveux gris ;
-Et l'augure sacré dont l'utile science
-Jusqu'ici de mon sort me donna connaissance,
-Animant mon courage à des exploits nouveaux,
-Pour la septième fois me promet les faisceaux.
-Ainsi ne craignons point d'invincibles obstacles :
-Le destin ne saurait démentir ses oracles.
-
--*who_marius
-Seigneur, qu'allons-nous faire et qu'osons-nous tenter ?
-Nous condamnons Sylla : nous allons l'imiter,
-Et, pour nous opposer à ses projets rebelles,
-Contre notre patrie armer nos mains cruelles !
-
--*who_caiusmarius
-Rome a cessé de l'être en proscrivant mes jours,
-Et malgré ses fureurs je vole à son secours.
-Je la venge. Un grand coeur que la vengeance anime,
-Doit agir sans remords, dès qu'il agit sans crime ;
-Et quand il faut détruire un injuste pouvoir,
-La révolte est permise, et devient un devoir.
-On peut d'un fier tyran réprimer la furie,
-Et pour la rendre libre, attaquer sa patrie.
-Je n'en veux qu'à Sylla ; le ciel doit le punir ;
-Et c'est servir les dieux, que de les prévenir.
-
--*who_marius
-Seigneur, à ma faiblesse un moment faites grâce ;
-Dans l'état où je suis, que faut-il que je fasse ?
-Arisbe, si je pars, est prête de mourir,
-Et mon retardement peut vous faire périr.
-Je lui dois, comme à vous, le jour que je respire :
-Ses soins mont affranchi d'un tyrannique empire :
-Elle brise mes fers ; vous allez les venger :
-Mou coeur entre vous deux aime à se partager.
-Et que ne puis-je, hélas ! À ma gloire fidèle,
-Vous suivre dans nos murs sans me séparer d'elle ?
-Ou plutôt, que ne puis-je accorder en ce jour
-Ce qu'exigent de moi la nature et l'amour ?
-
--*who_caiusmarius
-Quoi! L'amour dans ton coeur balance la victoire ?
-Pour te déterminer envisage la gloire,
-Mon fils ; songe aux périls que j'ai bravés pour toi ;
-Songe à Rome, au tyran, à l'univers, à moi.
-Va joindre nos Romains que Céthégus rassemble ;
-Sors... Nous sommes perdus : le roi nous trouve ensemble.
-
-**** *book_ *id_IV03 *act_IV *date_1715
-
--*who_hiempsal
-De votre cruauté, Seigneur, je suis surpris :
-Teint du sang paternel, s'offrir aux yeux du fils !
-
--*who_caiusmarius
-Seigneur, puisqu'en mes mains vous allez le remettre,
-(Arisbe en votre nom me l'ose ainsi promettre)
-Qu'importe qu'il m'ait vu ? Doit-on tant ménager
-Un ennemi dont Rome est prête à se venger ?
-Nous partons dès ce jour : chargé de sa conduite,
-Faut-il que sous mes yeux sans cesse je l'évite ?
-
--*who_hiempsal
-Il ne vous verra plus, Seigneur, et dès demain
-Vous ne sortez d'ici que sa tête à la main.
-
--*who_caiusmarius
-Que dites-vous, Seigneur ?
-
--*who_hiempsal
-      D'où vient cette surprise,
-Lorsque dans vos desseins ma main vous favorise ?
-Sylla de sa vengeance à vous s'est confié ;
-Il veut que Marius lui soit sacrifié ;
-Vous le cherchez ici pour être sa victime,
-Et je veux aux Romains épargner un grand crime.
-Ce malheureux dont Rome a juré le trépas,
-Peut, ainsi que chez vous, périr dans mes États.
-Sa mort, que vous cherchez, n'en sera que plus prompte ;
-Vous en aurez le fruit sans en avoir la honte.
-Venez donc, suivez-moi, Seigneur ; soyez témoin
-Que je sais quelquefois servir Rome au besoin.
-Rien ne peut balancer l'intérêt qui me presse ;
-Je ne veux écouter ni pitié ni tendresse :
-Vous allez voir, au gré de vos voeux les plus doux,
-Le fils de Marius expirer sous mes coups.
-
--*who_caiusmarius
-Ô dieux !
-
--*who_hiempsal
-      Vous frémissez ? Quelle terreur soudaine
-Peut faire, en moins d'un jour, chanceler votre haine ?
-
--*who_caiusmarius
-Mon coeur n'est point frappé d'une vaine terreur :
-Je frémis, il est vrai ; mais je frémis d'horreur.
-De quel droit osez-vous, sans qu'on vous le commande, ?
-Attaquer un proscrit que Rome vous demande ?
-Ah ! Lorsqu'elle condamne un enfant criminel,
-Son supplice, en nos murs, doit être solennel :
-Le peuple en foule y porte une douleur profonde,
-Et la mort d'un Romain doit un exemple au monde.
-
--*who_hiempsal
-Quelle est votre pensée ? Où tendent ces détours ?
-Qui voua rend si contraire à vos premiers discours,
-Seigneur ; et puisqu'on veut que Marius périsse,
-Que peut faire au Sénat le lieu de son supplice ?
-Ouvrez les yeux ; songez qu'il importe aux Romains
-Qu'il ne puisse jamais s'échapper de vos mains.
-Aux yeux de tout le monde il n'est pas si coupable :
-Le parti de son père est encor redoutable,
-Seigneur; n'en doutez point : un héros tel que lui,
-Au sein de son malheur, peut trouver son appui.
-S'il vous échappe enfin, l'Italie alarmée
-Pourra bientôt le voir, soutenu d'une armée,
-Marcher plein de fureur, et la foudre à la main,
-Fondre comme un éclair sur le peuple romain,
-Et dans l'odieux sein de Rome sa marâtre,
-De sa rage sanglante élever le théâtre.
-
--*who_caiusmarius
-Vous lisez de trop loin dans le sombre avenir :
-Sans vous nos intérêts sauront se soutenir.
-Montrez-nous moins de zèle et plus d'obéissance ;
-Laissez à Rome enfin le soin de sa vengeance.
-Son sang ne périt point par un bras étranger,
-Et l'on se rend coupable en voulant la venger.
-D'ailleurs, que savez-vous si sa prompte colère
-N'a pas déjà fait place au tendre amour de mère ?
-Seigneur, en nous servant gardez de nous trahir ;
-Le Sénat a parlé : c'est à vous d'obéir.
-
--*who_hiempsal
-Seigneur, pour un proscrit vous marquez trop de zèle :
-Sylla n'a pas fait choix d'un ministre fidèle ;
-Je commence à le voir, et plus d'une raison
-Confirme dans mon coeur un si juste soupçon :
-Mais puisque vous osez combattre sa vengeance,
-Moi-même je le vais mieux venger qu'il ne pense,
-Et, par un envoyé plus fidèle que vous,
-L'instruire que mon bras a servi son courroux.
-
--*who_caiusmarius
-Ah ! Seigneur, arrêtez.
-
--*who_hiempsal
-      C'est trop longtemps attendre.
-
--*who_caiusmarius
-Je périrai moi-même, ou saurai le défendre.
-
--*who_hiempsal
-Enfin j'ouvre les yeux ; je suis assez instruit,
-Et par un bruit trompeur on ne m'a pas séduit.
-Le jeune Marius vous est cher.
-
--*who_caiusmarius
-      Moi, je l'aime ?
-
--*who_hiempsal
-Vous défendez un fils.
-
--*who_caiusmarius
-      Moi, son père ?
-
--*who_hiempsal
-      Oui, vous-même.
-
--*who_caiusmarius
-Enfin de mes projets le ciel veut se jouer :
-Mais mon nom est trop beau pour le désavouer.
-Oui, je suis Marius : tremble ; tu vois un homme
-Redoute de la terre, et craint même de Rome.
-Parmi tant de périls, les dieux qui m'ont sauvé,
-Voulaient que dans ta Cour mon sort fût achevé.
-Te voilà maître enfin de deux grandes victimes ;
-Je connais ton génie et toutes tes maximes,
-Barbare ; tu nous hais : les ordres du Sénat
-Prêteront des couleurs à ton assassinat.
-Tu peux, de mon rival servant la rage extrême,
-Étendre tes États resserrés par moi-même.
-Venge ainsi ton pays que ma valeur dompta ;
-Frappe, mais crains encor le sort de Jugurtha.
-
-**** *book_ *id_IV04 *act_IV *date_1715
-
--*who_hiempsal
-Nerbal, suivez ses pas. Quel orgueil ! Quelle audace!
-Arrêté dans mes fers, l'insolent me menace !
-Il mourra. Jugurtha, tu vas être vengé ;
-Je vais rendre l'honneur à ton sang outragé.
-Lorsqu'à son char orné d'un triomphe frivole
-L'orgueilleux te traînait aux pieds du Capitole,
-Et qu'un peuple insolent par d'injurieux cris
-Annonçait ta disgrâce à l'univers surpris,
-Il ne s'attendait pas, dans ces temps d'allégresse,
-Qu'un jour je t'offrirais une main vengeresse ;
-Et que près d'épouser le reste de ton sang,
-Je lui rendrais ensemble et sa gloire et son rang.
-Le perfide ! Il osait accuser ce que j'aime.
-Ah ! Je vois les détours de son vain stratagème ;
-Sans doute il se flattait que mes soupçons aigris
-Dans ses bras à l'instant allaient mettre son fils.
-À travers ses raisons j'ai vu qu'il était père :
-J'ai forcé la nature à trahir son mystère.
-Je le tiens. Vengeons-nous. Mais quel autre soupçon
-Vient jeter dans mon âme un funeste poison ?
-Du sort de Marius Arisbe est-elle instruite ?
-Cherchait-elle du fils ou la mort ou la fuite ?
-Voulait-elle tantôt, dans son emportement,
-Ou perdre un malheureux ou sauver son amant ?
-Ah ! Sans approfondir un odieux mystère,
-Faisons couler le sang et du fils et du père.
-Pourquoi chercher contre eux tant de prétextes vains ?
-Tous deux sont criminels, et tous deux sont Romains.
-Point de pitié : suivons le transport qui m'anime.
-Et nous verrons après si c'est justice ou crime.
-
-**** *book_ *id_V01 *act_V *date_1715
-
--*who_arisbe
 Où porté-je mes pas ? Errante en ce palais,
 Je forme à chaque instant de contraires souhaits.
 Marius va périr : le roi veut son supplice,
@@ -1632,31 +1338,11 @@ Son âme est généreuse... Et quel coeur assez bas
 Pourrait à Marius ne s'intéresser pas ?
 Non, non, ne craignons rien...
 
-**** *book_ *id_V02 *act_V *date_1715
-
--*who_arisbe
       Ah ! ma chère Phénice,
 Que m'apprends-tu ? Faut-il que Marius périsse ?
 
--*who_phenice
-Non, Madame; et déjà tout semble préparé
-Pour sauver les Romains d'un péril assuré.
-Amyntas est fidèle ; il vous tient sa parole,
-Et conduit Marius jusques au Capitale.
-Tous ceux que le péril d'avoir manqué de foi
-Laisserait exposés à la fureur du roi,
-En suivant les Romains vont braver la tempête ;
-Et déjà pour partir la barque est toute prête.
-Marius est gardé dans cet appartement,
-Dans cet autre son fils.
-
--*who_arisbe
       Que je crains ce moment ?
 
--*who_phenice
-Madame, songez-vous en quels périls....
-
--*who_arisbe
       Cruelle !
 Faut-il que ta rigueur encor me les rappelle ?
 Je dois à Marius immoler mon amour.
@@ -1666,77 +1352,19 @@ Je le sais ; et mon âme, en ses voeux incertaine,
 Tout mon coeur en frémit ; et je vois seulement
 Qu'on m'enlève, et non pas qu'on sauve mon ammant.
 
-**** *book_ *id_V03 *act_V *date_1715
-
--*who_cethegus
-Nous éprouvons les coups d'une main ennemie :
-Tout est perdu, Madame ; et vous êtes trahie.
-
--*who_arisbe
 Dieux ! Que m'apprenez-vous ?
 
--*who_cethegus
-      Au mépris de sa foi,
-Amyntas nous immole à la fureur du roi.
-Le remords s'est saisi de cette âme vulgaire ;
-Il a changé la garde et du fils et du père ;
-Tous ceux qu'auprès de nous vos soins avaient placés,
-Par son ordre cruel viennent d'être chassés :
-Marius ne voit plus que des visages sombres.
-Dont l'aspect menaçant perce au travers des ombres,
-Et qui fixant sur lui leurs avides regards,
-Annoncent le péril qui vient de toutes parts.
-
--*who_arisbe
 Ah ! Phénice, va, cours : à peine je respire.
 Informe-toi de tout, et reviens me le dire.
 Mais qu'aperçois-je ?
 
-**** *book_ *id_V04 *act_V *date_1715
-
--*who_marius
-      Enfin avant ma mort, du moins,
-Je pourrai respirer un moment sans témoins.
-Mais je vois ma princesse ! Ô ciel ! Quelle est ma joie !
-
--*who_arisbe
 Faut-il qu'en cet état Arisbe vous revoie ?
 
--*who_marius
-Voici le lieu fatal où je dois expirer ;
-Je n'attends que le coup qui va nous séparer,
-Madame ; cette salle est partout investie,
-Et cent bras inhumains m'en ferment la sortie.
-C'est peu : l'on va traîner mon père dans ces lieux.
-À voir couler son sang on veut forcer mes yeux.
-Prévenons, s'il se peut, un moment si funeste.
-Armez-moi de ce fer : je prendrai soin du reste.
-Lorsqu'un péril pressant nous laisse sans appui,
-C'est mériter la mort que l'attendre d'autrui.
-
--*who_arisbe
 Qu'oses-tu proposer, cruel ? Quelle furie !
 Je t'armerais du fer qui doit trancher ta vie ?
 Je conduirais le coup qui va percer ton sein,
 Et mon amour serait ton premier assassin ?
 
--*who_marius
-Il sauvera ma gloire. Adorable princesse,
-Je sais tout ce qu'a fait pour moi votre tendresse ;
-Je sais à quels périls exposée en ces lieux,
-Vous défendiez des jours condamnés par les dieux.
-Vous m'ordonniez de fuir. Pour ne vous point déplaire,
-Je m'arrachais de vous, et je suivais mon père.
-Tout a changé de face, et le barbare sort
-Ne laisse en votre main que l'honneur de ma mort.
-C'est l'unique faveur que de vous j'ose attendre :
-Faites couler ce sang que le roi veut répandre,
-Ou souffrez que mon bras prévienne sa rigueur.
-Un Romain de sa fille osa percer le coeur,
-Pour sauver sa vertu d'une immortelle injure ;
-L'amour fera-t-il moins que ne fit la nature ?
-
--*who_arisbe
 Eh bien ! Puisqu'il le faut, j'entre dans ta fureur.
 Laissons à l'univers un spectacle d'horreur.
 Le trépas qui t'attend souillerait ta mémoire,
@@ -1746,54 +1374,11 @@ Tout fumant de mon sang, plonge-le dans ton sein.
 Mourons ; puisque le ciel tant de fois nous sépare,
 La mort qui nous unit nous sera moins barbare.
 
--*who_marius
-Ah ! Madame, vivez.
-
--*who_arisbe
       Hélas ! Tu vas périr.
 
--*who_marius
-Je ne crains que pour vous... Quel objet vient s'offrir ?
-Mon père...
-
-**** *book_ *id_V05 *act_V *date_1715
-
--*who_caiusmarius
-      Allons, mon fils, partons ; voilà tes armes.
-Tout succède à nos voeux : dissipe tes alarmes.
-Je vous dois tout, Madame ; et les jours de mon fils,
-Conserves par vos soins, vont accroître leur prix.
-Mais il faut vous quitter. La nuit nous favorise.
-Amyntas à son but a conduit l'entreprise.
-Il est dans le vaisseau qu'il tient prêt pour partir ;
-Il nous attend : il vient de m'en faire avertir.
-
--*who_marius
-Dieux ! Pouvez-vous compter sur la foi d'un tel homme ?
-
--*who_caiusmarius
-Oui, j'y compte, mon fils ; il nous conduit à Rome :
-Là, je saurai payer son zèle officieux
-Du service important qu'il me rend en ces lieux.
-
--*who_arisbe
 De tout ce que je vois, ô dieux ! Que dois-je croire ?
 Seigneur...
 
--*who_caiusmarius
-      Ne croyez rien de contraire à sa gloire.
-S'il a, sans votre aveu, retiré les soldats
-Que vos soins généreux attachaient sur nos pas,
-C'était avec raison qu'il soupçonnait leur zèle,
-Et la seconde garde à nos voeux est fidèle.
-Mais que vois-je ? Tous deux vous répandez des pleurs ;
-Ah ! madame, évitons le plus grand des malheurs ;
-Daignez fortifier mon fils contre vos charmes ;
-Qu'il apprenne de vous à dévorer ses larmes ;
-N'allez point nous trahir et perdre tout le fruit
-D'un projet que vos soins avaient si bien conduit.
-
--*who_arisbe
 Laissez couler mes pleurs : me font-ils tant de honte ?
 C'est le dernier effort d'un feu qui se surmonte.
 Quand d'un héros qu'on aime il faut se séparer,
@@ -1803,12 +1388,6 @@ De mon coeur ébranlé se rende la maîtresse ;
 Et puisque tout est prêt pour sauver Marius,
 Partez; adieu, seigneur : je n« vous verrai plus,
 
--*who_marius
-Hélas!
-
-**** *book_ *id_V06 *act_V *date_1715
-
--*who_arisbe
       Où suis-je ? Ô ciel ! Et quel sombre nuage
 De mes yeux tout-à-coup me dérobe l'usage ?
 Je ne vois qu'un vaisseau, des abîmes, des mers,
@@ -1825,63 +1404,191 @@ Je veux que Mairius me soit encor fidèle,
 Et sa perte à mon coeur en devient plus cruelle.
 Mais Phénice revient.
 
-**** *book_ *id_V07 *act_V *date_1715
-
--*who_arisbe
       Ah ! Que m'annonces-tu ?
 
--*who_phenice
-Madame, le roi vient : armez-vous de vertu.
-
--*who_arisbe
 Dieux! Faut-il en un jour éprouver tant d'alarmes?
 
-**** *book_ *id_V08 *act_V *date_1715
-
--*who_hiempsal
-Ils mourraient glorieux en mourant sous les armes;
-Qu'on défende leurs jours de tout sanglant effort.
-Soldats, je veux leur honte encor plus que leur mort.
-Quoi ! Madame, c'est vous ? J'ai peine à le comprendre ;
-Une telle rencontre a droit de me surprendre.
-Que cherchez-vous ici dans l'instant précieux
-Où le sommeil encor devrait fermer vos yeux ?
-Vous ne répondez point ! On me trahit : cruelle,
-Que de justes raisons de vous croire infidèle !
-Quel est votre pouvoir ? Pour sauver mon rival,
-Avez- vous pu séduire Amyntas et Nerbal ?
-Quoi ! Sont-ils avec vous tous deux d'intelligence ?
-Mais vous verrez bientôt éclater ma vengeance,
-Dût périr ce que j'ai de plus cher dans ma cour ;
-J'en jure par le dieu qui nous donne le jour.
-
--*who_arisbe
 C'est assez. Je me lie au serment que vous faites :
 Périssent les auteurs de vos peines secrètes !
 Seigneur, je borne là mes voeux les plus sacrés :
 Je me justifierai plus que vous ne voudrez.
 
--*who_hiempsal
-Ah ! Je vous aime encor ; tâchez d'être innocente,
-Madame. Mais Nerbal vient remplir mon attente.
+C'est assez. Il est temps de vous désabuser,
+Seigneur, et je n'ai plus rien à vous déguiser.
+On vous trahit. Ma main a conduit l'entreprise :
+Je connais mon forfait ; ma foi vous fut promise ;
+Sans consulter mes voeux, cet hymen fut conclu :
+Je suivais cependant un pouvoir absolu.
+J'allais vous épouser : une vertu sévère
+Me faisait immoler à mon devoir austère.
+Marius vint, m'aima ; je l'aimai ; mon amour
+Fait le devoir des dieux en lui sauvant le jour.
+Après un tel aveu, Seigneur, vous pouvez croire
+Qu'il ne me reste plus que d'assurer ma gloire.
+Cette gloire aujourd'hui me défend d'être à vous :
+J'aurais trop à rougir aux yeux de mon époux.
+J'ai brûlé d'autres feux : c'est cette gloire même,
+Qui m'a voit ordonné d'éloigner ce que j'aime.
+Dans ce même moment j'entends encor sa voix :
+Elle parle, et voilà l'ordre que j'en reçois.
 
-**** *book_ *id_V09 *act_V *date_1715
 
--*who_hiempsal
-Que m'apprend-on, Nerbal? Qu'a-t-on fait des Romains ?
-Tu te tais ? Se sont-ils échappés de tes mains ?
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cethegus
 
--*who_nerbal
+Qui peut vous retenir, Seigneur, sur cette rive ?
+Un Romain doit rougir d'une douleur oisive ;
+Persécuté du sort sans en être abattu,
+Il faut que sa disgrâce ajoute à sa vertu.
+Eh quoi ! Sourd a la voix d'un père qui vous aime,
+L'abandonnerez-vous dans son malheur extrême ?
+Marius languissant dans, un honteux repos,
+Ne se souvient-il plus qu'il est fils d'un héros ?
+Ah ! Ce n'est plus le temps, seigneur, où sans défense,
+Vous n'aviez que des pleurs, à donner pour vengeance :
+Profitez du secours qu'on vous offre en ces lieux :
+Obéissez sans honte aux volontés des dieux :
+Ils avaient arrêté qu'un roi de Numidie
+Vengerait deux Romains qu'opprime l'Italie.
+
+Non, non, quelques déserts qui le puissent cacher,
+C'est à Rome, Seigneur, qu'il vous le faut chercher.
+Au nom d'un si grand chef assemblez une armée :
+Bientôt il paraîtra. La prompte renommée,
+Dont le silence semble avoir plaint son malheur,
+Pour vous le découvrir n'attend que son vengeur.
+Marchons où le devoir, où l'honneur nous appelle ;
+Des dieux et des humains soutenons la querelle.
+Assez et trop longtemps, par son impunité,
+Sylla s'enorgueillit de sa prospérité :
+Il a lassé les dieux ; et la fondre qui gronde
+Avertit Marius d'aller venger le monde.
+Le peuple consterné, prêt à se déclarer,
+N'attend plus que le bras qui doit le délivrer.
+Oubliez-vous ce jour où les aigles romaines
+Entre les deux consuls flottèrent incertaines,
+Quand suivi de soldats au crime accoutumés,
+Sylla vint dans nos murs par son ordre enflammée ?
+C'était à Marius qu'en voulait sa furie :
+Le peuple, protecteur d'une si belle vie vie,
+Par des ruisseaux de sang paya le noble effort
+Qui lui donna le temps d'échapper à la mort.
+Rentrez dans tous vos droits. Faut-il qu'on délibère
+Quand on va secourir sa patrie et son père ?
+Le roi jusqu'à ce jour paraissait incertain :
+Mais enfin il vous met les armes à la main :
+Dans nos communs malheurs Arisbe s'intéresse :
+C'est elle à qui le roi...
+
+Vous la plaignez, seigneur ! Et quels sont ses malheurs ?
+Elle venge un Romain, un roi puissant l'adore :
+Que lui resterait-il à souhaiter encore ?
+Déjà pour son hymen tout semble préparé.
+
+Quel soupir ! Quel discours ! Et qu'osez- vous prétendre ?
+Ah ! Seigneur, que je crains de vous trop bien entendre !
+Juste ciel ! Quels projets avez-vous pu former ?
+Le coeur de Marius est-il fait pour aimer ?
+Ouvrez les yeux ; voyez que de malheurs ensemble,
+Que de crimes, Seigneur, un tel projet rassemble.
+Ce roi dont les bontés ont conservé vos jours,
+Ce roi qui vous peut seul accorder son secours,
+C'est lui que vous bravez ; la plus mortelle offensa
+Est le prix qu'a choisi votre reconnaissance.
+Mais d'ailleurs, quel espoir peut vous avoir flatté ?
+Pensez-vous, (pardonnez à ma sincérité),
+Pensez-vous qu'exposant et sa gloire et sa vie
+Au sort d'un fugitif la princesse se lie ?
+Ah ! Croyez-moi, Seigneur, vous prenez pour amour
+La pitié que pour vous elle montre en ce jour.
+
+Et vous vous honorez du coeur d'une Numide ?
+
+Et vous souffrez qu'un coeur que l'Afrique a porté
+Vous donne des leçons de générosité ?
+Si cet amour bientôt ne sert votre vengeance,
+Plus il vous paraît grand, et plus H vous offense.
+Oui, Seigneur, pour juger s'il est digne de vous,
+J'attendrai qu'elle ait mis la mer entre elle et nous.
+
+Eh bien ! Puisque ce coeur immole sa tendresse,
+Agissez en Romain ; entrez chez la princesse,
+Recevez ses adieux ; qu'elle arme votre bras,
+Et fuyons pour jamais ces dangereux climats.
+
+N'en doutez point, Seigneur, les dieux seront pour vous.
+Le nom de Marius est aimé dans l'Afrique.
+Quoiqu'il ait dans ces lieux vengé la République,
+Son austère vertu, conforme à ces climats,
+Gagnait ses ennemis ainsi que ses soldats.
+Avançons ; et bientôt les peuples de Lybie
+Viendront se joindre à ceux de la Mauritanie.
+Qu'importe qu'ils soient nés sur les bords africains ?
+En nous voyant combattre ils deviendront Romains,
+Et croiront, en serrant votre juste colère,
+Se venger des affronts que leur fit votre père.
+Le Ruber dès ce jour peut porter vos vaisseaux,
+Jusqu'au lieux où la mer le reçoit dans ses eaux :
+De là nous avançant vers l'île de Cercine,
+Deux jours nous feront voir les murs de Terracine ;
+Et bientôt l'Étrurie, au bruit d'un si grand nom,
+Recevra votre flotte au port de Télamon.
+C'est là que, comme vous, chassé de la patrie,
+Cinna fuit du tyran la jalouse furie ;
+C'est là qu'en attendant ce renfort de soldats
+Que mon zèle bientôt conduira sur vos pas,
+Des amis que dans Rome a laissés votre fuite,
+Par des avis secrets, vous manderez l'élite.
+Us viendront vous y joindre. Enfin c'est sur ces bords
+Que vos communs malheurs uniront vos efforts.
+Mais la princesse vient. À vos devoirs fidèle,
+Seigneur, songez toujours qu'un père vous appelle.
+
+Nous éprouvons les coups d'une main ennemie :
+Tout est perdu, Madame ; et vous êtes trahie.
+
+      Au mépris de sa foi,
+Amyntas nous immole à la fureur du roi.
+Le remords s'est saisi de cette âme vulgaire ;
+Il a changé la garde et du fils et du père ;
+Tous ceux qu'auprès de nous vos soins avaient placés,
+Par son ordre cruel viennent d'être chassés :
+Marius ne voit plus que des visages sombres.
+Dont l'aspect menaçant perce au travers des ombres,
+Et qui fixant sur lui leurs avides regards,
+Annoncent le péril qui vient de toutes parts.
+
+
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerbal
+
+Oui, seigneur, un projet si grand, si légitime,
+Du reste des humains mériterait l'estime ;
+Je veux bien l'avouer : mais il est des instants
+Où ces nobles désirs doivent céder au temps.
+Si vous gardez ici deux Romains en otage,
+Vous attirez sur vous un périlleux orage :
+Sylla peut tout ; et Rome unie à son dessein
+Vous les demandera les armes à la main.
+
+Mais, Seigneur...
+
+Si Marius suspect ici blesse vos yeux,
+Pourquoi le retenir ?
+
+Seigneur...
+
+Ce qu'un bruit sourd m'apprend : que Marius respire.
+
+Tout m'est suspect, la lettre, et le sceau du Sénat :
+Seigneur, on vous abuse ; et cet assassinat
+Dont le Romain se vante, ou n'est qu'une chimère t
+Ou d'accord avec lui, le fils trahit son père.
+On les a vus ensemble.
+
 De mon étonnement je ne reviens qu'à peine :
 Oui, leur perte, Seigneur, était presque certaine,
 Mais d'un bras invincible effet prodigieux !
 J'ai vu... ma raison cherche à démentir mes yeux.
 
--*who_hiempsal
-Quel est donc l'embarras où ton âme est réduite ?
-Que sont-ils devenus ?
-
--*who_nerbal
       Ardents à leur poursuite,
 Déjà nous approchions du détroit où la mer
 Reçoit en mugissant le tribut du Ruber ;
@@ -1924,28 +1631,28 @@ S'enfle au bord de la barque, et leur aide à monter ;
 La rame fend les eaux, et, dans notre poursuite,
 Nous laisse seulement spectateurs de leur fuite.
 
--*who_arisbe
-C'est assez. Il est temps de vous désabuser,
-Seigneur, et je n'ai plus rien à vous déguiser.
-On vous trahit. Ma main a conduit l'entreprise :
-Je connais mon forfait ; ma foi vous fut promise ;
-Sans consulter mes voeux, cet hymen fut conclu :
-Je suivais cependant un pouvoir absolu.
-J'allais vous épouser : une vertu sévère
-Me faisait immoler à mon devoir austère.
-Marius vint, m'aima ; je l'aimai ; mon amour
-Fait le devoir des dieux en lui sauvant le jour.
-Après un tel aveu, Seigneur, vous pouvez croire
-Qu'il ne me reste plus que d'assurer ma gloire.
-Cette gloire aujourd'hui me défend d'être à vous :
-J'aurais trop à rougir aux yeux de mon époux.
-J'ai brûlé d'autres feux : c'est cette gloire même,
-Qui m'a voit ordonné d'éloigner ce que j'aime.
-Dans ce même moment j'entends encor sa voix :
-Elle parle, et voilà l'ordre que j'en reçois.
 
--*who_hiempsal
-Ah, Madame ! Elle expire... Et je sens que mon âme
-N'avait jamais brûlé d'une si vive flamme.
-Dieux cruels, qui tenez notre sort en vos mains,
-Faut-il payer si cher le salut des Romains !
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
+      Madame, oserez- vous
+Paraître en cet état devant ses yeux jaloux ?.
+Un désordre inquiet sur votre front éclate.
+Ah ! S'il va pénétrer l'intérêt qui vous flatte,
+Je crains bien qu'à l'instant un transport furieux
+N'aille perdre ou livrer Marius à vos yeux.
+
+Non, Madame; et déjà tout semble préparé
+Pour sauver les Romains d'un péril assuré.
+Amyntas est fidèle ; il vous tient sa parole,
+Et conduit Marius jusques au Capitale.
+Tous ceux que le péril d'avoir manqué de foi
+Laisserait exposés à la fureur du roi,
+En suivant les Romains vont braver la tempête ;
+Et déjà pour partir la barque est toute prête.
+Marius est gardé dans cet appartement,
+Dans cet autre son fils.
+
+Madame, songez-vous en quels périls....
+
+Madame, le roi vient : armez-vous de vertu.
+

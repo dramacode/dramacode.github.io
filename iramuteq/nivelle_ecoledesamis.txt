@@ -1,58 +1,554 @@
 
 
-**** *book_ *id_I01 *act_I *date_1737
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
--*who_clorine
+Monsieur, j'ai su l'honneur que vous vouliez me faire.
+
+Je sais apprécier des discours si flatteurs.
+
+Elle n'en aura point sur ma reconnaissance.
+
+Celui dont vous parlez mérite mon estime.
+
+Monsieur ; vous m'étonnez ?
+
+      Nous ne le sommes pas.
+
+Que pour m'abandonner au penchant le plus tendre,
+Il faudrait que l'hymen m'en eut fait un devoir.
+
+À vos yeux, comme aux miens, j'eusse été condamnable.
+Nous avons des devoirs qui ne sont que pour nous.
+Vous pouvez être amants avant que d'être époux,
+Et vous livrer sans crainte à votre ardeur extrême :
+Mais, que pour notre sexe il n'en est pas de même !
+Quand nous prenons trop-tôt un légitime amour,
+Il peut nous coûter cher. Par un affreux retour
+Il arrive souvent qu'on nous en fait un crime,
+Qu'un trop injuste époux nous ôte son estime :
+Et qu'il se croit alors en droit de nous taxer,
+D'avoir un coeur, hélas ! trop facile à blesser.
+
+Ah de grâce, cessez d'insister là-dessus.
+
+Un homme tel que vous...
+
+Je ressens vivement de si grandes bontés :
+Mais je ne dois penser, ni vous dire autre chose.
+Pour changer d'entretien... Que dit-on de Monrose ?
+
+Parlons de sa fortune, et non pas de son coeur.
+
+Dites-moi seulement ce qu'il va devenir.
+
+Est-ce-là m'éclaircir ?... Lui rendra-t-on justice ?
+
+      Ah, quel supplice ?
+Vous me persécutez.
+
+Eh bien, Monsieur, gardez aussi votre secret.
+
+Ses désirs, et mes voeux !
+
+Je ne puis revenir de mon émotion,
+Je viens de soutenir la persécution,
+L'attaque la plus vive, et la plus continue...
+Qu'ai-je fait ? Qu'ai-je dit ? Que suis-je devenue ?
+Conçois-tu les efforts, peut-être superflus,
+Que j'ai faits ?
+
+Pour pénétrer au fond de mon coeur trop sensible,
+Ariste...
+
+      Il a fait son possible.
+
+J'en serais accablée.
+
+Conçois-tu ses desseins ? D'où vient ce soin extrême,
+Dis ?
+
+Je me flatte d'avoir éludé ses finesses.
+
+Lui ?
+
+Va, tu n'y songes pas : c'est un homme trop sage.
+
+De quoi donc ?
+
+Tu l'auras égaré. C'est une bagatelle.
+
+Comment ?
+
+Ni moi, ni mon portrait, n'intéressent personne.
+On le rapportera.
+
+Que veux-tu qu'il en fasse ?
+
+Qui, lui, m'aimer encore ? Ah, quelle erreur extrême !
+Hélas ! Son infortune, ou quelqu'autre sujet,
+M'ont ôté son amour : je n'en suis plus l'objet.
+Tu vois depuis un temps comme il fuit ma présence.
+Lui-même il a déjà commencé notre absence.
+Nous sommes en exil dans la même maison.
+
+Si je ne l'aime pas... Étais-je la maîtresse ?
+Ne m'a-t-on pas livrée à toute ma faiblesse,
+Aux charmes d'un espoir que le sort a trahi ?
+Apprends-moi donc comment j'aurais désobéi.
+Qu'on s'en prenne au devoir : c'est lui qui m'a séduite.
+
+Qui ! Moi, lorsqu'il me suit, je chercherais sa vue !
+
+Ce serait trop risquer mon malheureux secret,
+Mon amour vient de prendre un essor indiscret ;
+C'est le dernier.
+
+      Puis-je faire autrement !
+Clorine, il faudrait bien...
+
+Je n'ai jamais douté de votre attention.
+
+Clorine était en peine...
+
+Monsieur, je suis sensible à votre procédé.
+Reprenez ce portrait.
+
+Je suis au désespoir ; la méprise est cruelle :
+Comment la réparer ?
+
+Mes gens se sont trompez.
+
+J'ai lu, sans y penser, ce qui n'est pas pour moi.
+
+      Il faut la lui remettre
+Absolument.
+
+Et peut-être ai-je lu mon arrêt.
+On finit ses malheurs, s'il veut être sensible :
+Ce billet l'en assure.
+
+Des offres qu'on lui fait il peut-être charmé.
+S'il n'est pas inconstant, du moins il est aimé.
+
+      Hélas ! qu'elle est heureuse
+De pouvoir à son gré se montrer généreuse,
+Et d'employer ainsi !...
+
+Va trouver Aramont... lui-même. Il faut lui dire
+Que je veux lui parler, avant qu'il se retire.
+
+Sans doute.
+
+La supprimerait-il ?
+
+Il n'importe.
+
+Plus il est son ami, mieux il me servira.
+
+Sais-tu bien que je suis lasse de t'écouter ?
+
+J'ai donc une rivale ? Il n'en faut point douter.
+La preuve que je tiens a de quoi me suffire.
+Je ne suis pas la seule à qui l'amour inspire
+En faveur de Monrose un projet généreux !
+Une autre s'intéresse à son sort malheureux...
+Si nous nous rencontrons dans la même pensée,
+J'ai le secret plaisir de l'avoir devancée...
+Mais on ne revient point... Ah ! que les Valets sont...
+
+Avez-vous bien pris garde à ne vous pas méprendre ?
+
+Qu'ai-je fait ? Quand je veux l'empêcher de périr,
+N'est-ce point un ingrat que je vais secourir ?
+Eh ! dois-je me livrer à cette inquiétude,
+Et le sacrifier à cette incertitude ?
+N'est-ce que l'intérêt qui doit nous émouvoir ?
+Pour être généreuse, a-t-on besoin d'espoir ?
+Employons les moyens qui sont en ma puissance.
+Et qu'il n'en ait jamais la moindre connaissance,
+Il est perdu pour moi. Sauvons le seulement :
+Que ce soit comme ami, si ce n'est comme amant.
+
+      A-t-on quelques nouvelles ?
+
+Pourrais-je encore avoir de nouvelles douleurs ?
+
+      Serais-je condamnée
+À passer sous le joug d'un cruel hyménée ?
+Ma fortune sans doute aura tenté quelqu'un,
+Et l'on m'accorde aux voeux d'un amant importun !
+
+S'il est vrai, tu peux rompre un si cruel silence.
+Tu pleures ? Les détours deviennent superflus ; Parle.
+
+      Explique ce mystère.
+
+L'aurait-il dissipé ?
+
+      Mais en es-tu bien sûre ?
+
+Que dit Monrose ?
+
+Ah ! c'est trop m'attendrir, et me désespérer.
+
+Quel bonheur ! j'ai sauvé ce qui m'est nécessaire.
+
+      Ce sera mon affaire.
+
+      Quels sont-ils ?
+
+Le Baron par hasard saurait-il mon état ?
+
+      Si cela pouvait être !
+
+Songe un peu que je pars dans deux heures d'ici.
+
+Voici l'instant fatal ; tout mon coeur en frissonne.
+Monsieur, en arrivant, n'avez-vous vu personne ?
+
+Puis-je compter sur vous ?
+
+Je le souhaite.
+
+Avant de m'exposer, il faudrait m'assurer...
+
+Le service est unique ; et je vais vous surprendre.
+
+Peut-être pourrez-vous le trouver indiscret.
+Il faut bien du courage, et beaucoup de secret.
+
+Vous vous engagez donc à remplir mon attente ?
+
+Je vais donc vous donner les preuves les plus sûres
+De l'état que je fais de votre probité.
+Mon coeur va s'épancher avec sécurité.
+Monrose vous est cher ?
+
+Je vous crois trop sensible à son malheur extrême,
+Pour craindre de vous mettre avec moi de moitié,
+
+      Unissons... l'amour et l'amitié.
+Cachez-moi la surprise où ce discours vous jette.
+Votre ami va périr. Je sais ce qu'il projette.
+Puisque le sort s'obstine à le persécuter,
+Vous ne l'ignorez pas, il va s'exécuter.
+S'il vend son Régiment, sa perte est infaillible :
+Il met à sa fortune un obstacle invincible.
+
+Oserais-je vous prendre à vos propres paroles ?
+
+Si quelqu'un par hasard vous offrait des moyens !...
+
+Moi-même.
+
+Ne pourrais-je être aussi généreuse que vous ?
+Avez-vous des vertus qui ne soient pas pour nous ?
+
+Mais si par un hasard je le pouvais !... Hé bien ?
+
+Peut-être.
+
+      Je sais notre esclavage.
+Si vous voulez pourtant ne vous pas opposer...
+J'ai quelque superflu dont je puis disposer.
+
+      C'est peu de chose : et toutefois j'espère
+Que ce secours pourrait, du moins...
+
+      Eh bien, qu'est-ce que c'est ?
+
+      Quoi donc ?
+
+Clorine, parle bas.
+
+Que veux-tu que j'y fasse ?
+
+Ce n'en est pas la peine.
+
+Taisez-vous.
+
+      Point de réplique.
+Sortez ; retirez-vous.
+
+Épargnez-vous ce soin, Monsieur ; ils sont chez vous.
+
+      Je les ai fait porter, sans vous l'apprendre.
+Je craignais vos refus ; et j'ai du vous surprendre.
+
+      Enfin j'ai vos serments,
+Songez à satisfaire à vos engagements.
+Le salut de Monrose est en votre puissance.
+
+Son sort est dans vos mains, et vous en répondez :
+Vous nous sauvez tous trois, si vous me secondez.
+
+      Quelle froideur funeste ?
+Cette faible ressource est tout ce qui nous reste.
+
+      Eh quoi ! vous hésitez ?
+Puis-je mieux employer ces superfluités !
+Qui ne seraient pour moi qu'une charge importune !
+N'aurait-il pas joui de toute ma fortune ?
+
+      Eh ! Peut-on me blâmer ?
+C'est un infortuné que l'on m'a fait aimer...
+C'est l'ami le plus cher que vous ayez au monde ;
+C'est sur vous à présent que notre espoir se fonde ;
+Par-là vous détournez son plus pressant malheur ;
+Et bientôt il devra le reste à sa valeur.
+
+Hé bien, sauvez-le donc.
+
+Mais il serait sauvé. Lequel aimez-vous mieux ?
+Son courroux est-il plus à craindre que sa perte ?
+Comment en ferait-il la moindre découverte ?
+Il ne peut le savoir que de vous, ou de moi.
+Ainsi bannissez donc un ridicule effroi.
+Comptez sur mon secret ; je compte sur le vôtre.
+
+      Ah ! J'éprouve en ce jour,
+Que l'amitié n'est pas moins tendre que l'amour.
+Allez ; que votre zèle ait une heureuse suite !
+De tous ces créanciers empêchez la poursuite.
+Ce n'est pas tout.
+
+      Oui ; j'exige de vous
+Un service moins grand, mais peut-être plus doux.
+Rendez-lui ce billet, qui s'adresse à lui-même :
+Il peut-être pour lui d'une importance extrême.
+
+J'ai pris à vos malheurs la part qu'on y doit prendre.
+
+Monsieur, occupez-vous d'un objet plus pressant.
+Ne nous direz-vous rien de plus intéressant ?
+
+N'avez-vous plus d'espoir du côté de la Cour ?
+La fortune cruelle est-elle sans retour ?
+
+Mais d'un si grand malheur quelle sera la suite ?
+
+On voudrait détourner cet avenir funeste...
+Monsieur, vous n'êtes pas si fort abandonné...
+À des voeux impuissants l'on ne s'est pas borné...
+Si le sort vous poursuit...
+      Ô Ciel ! que vais-je faire ?
+Vous verrez que l'amour ne vous est pas contraire.
+Tenez...
+      Ma fermeté commence à succomber.
+Lisez...
+      À ses regards il faut me dérober.
+
+Vous m'apportiez, sans doute, une heureuse nouvelle ?
+Mon coeur impatient volait au devant d'elle.
+
+      N'êtes-vous pas notre libérateur ?
+
+Ne vous est-il pas dû ?
+
+D'où vient cet embarras ? Quelle est cette réserve ?
+Avez-vous fait usage ?...
+
+Que dites-vous, Monsieur ? Ô Ciel ! est-il croyable ?
+Est-ce donc-là cet homme utile et serviable ?
+Je le trouve en défaut quand j'ai besoin de lui !
+Vous vous démentez donc pour moi seule aujourd'hui ?
+
+Eh ! Le serez-vous moins en le laissant périr ?
+
+Vous prétendez l'aimer ?
+
+Ne vous en vantez plus... Serez-vous inflexible ?
+
+Toute ma récompense est au fond de mon coeur.
+La générosité n'en veut pas davantage.
+
+      Eh ! quel est ce langage ?
+En périra-t-il moins ? Nous connaissons ses biens.
+Que peut faire un guerrier, borné dans ses moyens ?
+Il languit, s'il ne tient un état honorable ;
+Sa valeur n'est jamais dans un jour favorable.
+La gloire coûte cher à qui veut l'acquérir :
+Il la faut acheter ; il la faut conquérir.
+Et malheureusement (puisqu'il faut vous le dire)
+Le courage tout seul n'a pas de quoi suffire.
+Vous l'avez éprouvé.
+
+S'il est vrai, mon désastre y met un nouveau prix.
+L'usage que j'en fais me tient lieu de fortune.
+Mais quelle prévoyance, un peu trop importune,
+En cette occasion vous révolte si fort ?
+Un peu plus, un peu moins, ne fait rien à mon sort.
+
+      C'est me faire entendre
+Que Monrose peut-être adresse ailleurs ses voeux.
+
+Eh ! ne vous chargez point d'excuser ce que j'aime :
+Je saurai mieux que vous m'en acquitter moi-même,
+Je lui pardonne tout pourvu qu'il soit heureux :
+Son bonheur me suffit, c'est tout ce que je veux.
+Et j'y dois concourir autant qu'il m'est possible.
+Pour trancher, en un mot, je demeure inflexible ;
+Vous ne me ferez point reprendre ce dépôt.
+Je désavouerai tout ; et je nierai plutôt...
+Au surplus, vous avez le secret de ma vie :
+Disposez-en, Monsieur, au gré de votre envie ;
+Voyez, quand je descends jusqu'à vous implorer,
+Si vous voulez me perdre, et vous déshonorer.
+
+Ah ! Ne m'exposez point devant un indiscret,
+Qui ne devait jamais avouer mon secret.
+
+Ainsi, grâce à leurs soins, vous savez ma faiblesse !
+N'êtes vous pas cruel de paraître à mes yeux ?
+À quoi nous serviront les plus tendres adieux ?
+Je partais sans vous voir, j'aurais fait l'impossible.
+Le sort qui me poursuit est toujours invincible.
+
+Eh ! N'examinons point quel est le plus à plaindre.
+
+Pourquoi se reprocher des maux qu'on n'a point faits ?
+Voulez-vous que je sois injuste et malheureuse ?
+Ah ! C'est trop exiger....
+
+Me consolerez-vous en vous désespérant ?
+Des coups de la fortune êtes-vous le garant ?
+Vous me plaignez ! Eh quoi ! Ne peut-on vivre heureuse,
+Si ce n'est au milieu d'une Cour orageuse ?
+À l'égard de ce bien qui s'est évanoui,
+Ne pouvant être à vous, en aurais-je joui ?
+En effet, à quoi sert une opulence extrême,
+Si l'on ne la partage avec ce que l'on aime ?
+Je ne sens pas qu'on puisse en jouir autrement.
+
+      Et véritablement
+Ma ruine fera le repos de ma vie.
+Ma liberté me reste, on l'aurait poursuivie.
+L'autorité, contraire à nos voeux les plus doux,
+M'aurait voulu forcer à prendre un autre époux.
+
+Il dépendait de vous ; je n'en connais point d'autre.
+J'ignore si l'on peut aimer plus d'une fois ;
+Mais quand on s'est livrée sans réserve à son choix,
+Il est bien dangereux de prendre d'autres chaînes.
+Que l'on s'apprête un jour de tourments et de peines !
+Sait-on ce que l'on donne ? Est-on bien sûr d'un coeur,
+Qu'on arrache de force à son premier Vainqueur ?
+Et, puisque mon amour s'irritait, à mesure
+Que je pouvais vous croire infidèle, ou parjure...
+
+Hélas ! que dites-vous ? Croyez que mon devoir
+M'empêchait d'y répondre, et non pas de les voir.
+
+Il le faut cependant. Si je vous intéresse,
+Vivez, pour illustrer l'objet de ma tendresse ;
+Remplissez mon idée ; elle est digne de vous ;
+Soyez tel qu'il fallait pour être mon époux ;
+Devenez l'Artisan de votre destinée.
+Il est beau de dompter la fortune obstinée,
+D'arracher ses bienfaits, au lieu d'en hériter,
+Et de n'avoir que ceux qu'on a su mériter.
+Ce sont-là mes adieux, mes voeux, et mon présage...
+Va, l'on ne peut manquer quand on a du courage...
+Imitez mon exemple ; et sachez...
+
+Séparons-nous ; adieu.
+
+      Demeurez.
+
+      Je le veux.
+
+Le remords...
+
+C'est une amante en pleurs. On empêche ma fuite ;
+J'ignore à quel dessein, je n'en suis pas instruite.
+On m'a fait revenir.
+
+Quoi ! vous voulez me fuir ?
+
+Eh ! ne nous quittons point dans l'état où nous sommes.
+
+Je ne suis donc plus rien pour vous dans l'Univers ?
+Je ne croyais pas être un objet si funeste.
+Je ne puis que pleurer. Le temps fera le reste.
+
+      Ah ! Cruel, arrêtez.
+
+Mon état, mon amour, ma présence, et mes larmes.
+N'auront donc point assez de puissance et de charmes,
+Pour vous rendre un peu moins sensible à vos malheurs ?
+Qu'on ne nous vante plus le pouvoir de nos pleurs !
+Vous ne songez qu'à vous.
+
+      Il ne tombe
+Que sur ce désespoir où votre coeur succombe,
+Je sais de quels bienfaits vous vouliez me combler.
+Du reste de vos biens vous vouliez m'accabler.
+
+      C'est toi. Va, tu n'as qu'à poursuivre.
+Laisse-moi donc mourir, si tu ne veux plus vivre.
+
+Que je vive ? Est-ce à moi d'avoir plus de courage ?
+Je conviens qu'on vous fait le plus sanglant outrage :
+Mais enfin ce n'est pas un opprobre éternel.
+Tombe-t-il sur vous seul ? M'est-il moins personnel ?
+L'amour qui nous unit n'admet point de partage.
+Je souffre autant que vous ; si ce n'est davantage.
+Et cependant mon coeur n'en est point abattu.
+La vérité fera triompher la vertu.
+Jusqu'à ce que le temps la mette en évidence,
+Ayons la fermeté qui sied à l'innocence :
+Elle en est la ressource, et le plus sûr garant.
+Rétablit-on sa gloire en se désespérant ?
+Le découragement autorise une injure.
+Il faut vivre pour vaincre ; et la victoire est sûre ;
+Et qui perd tout espoir mérite son malheur.
+Je vous parle sans doute avec trop de chaleur.
+Excusez une amante, ou plutôt une amie.
+
+Ariste, dites-vous ? L'entreprise est hardie.
+Il m'aime ? Il payera bien cher sa perfidie.
+
+Ah Ciel ! que n'ai-je autant de charmes que de haine ?
+Je le veux accabler sous le poids de sa chaîne.
+
+      Laissez-moi.
+
+Je ne sais ce que c'est, mais je n'ignore pas
+Qu'il vous a plu, Monsieur, d'empêcher ma retraite.
+
+Quelle audace ! Est-ce à vous que je dois mon retour ?
+
+      Qui ? Vous, perfide ami ?
+C'est dans la trahison être bien affermi !
+Vous voulez que ma main couronne votre ouvrage ;
+Mais il faut repousser l'injure par l'outrage.
+Notre état différent vous rend audacieux.
+Vous croyez m'éblouir, et je lis dans vos yeux
+Un espoir insultant fondé sur mes disgrâces :
+Mais je ne connais point de ressources si basses...
+
+Qu'entends-je ?
+
+      Que je me sens coupable !
+
+J'ai des torts avec vous.
+
+
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clorine
+
 Quoi, vous voulez sortir ?
 
--*who_monrose
-      Laisse-moi, je te prie.
-Je ne puis différer ma première sortie,
-Ni demeurer ici davantage en suspens :
-Ma blessure m'a fait assez perdre de temps.
-
--*who_clorine
 Oui : mais, Monsieur, à peine est-elle refermée.
 
--*who_monrose
-Eh ! depuis que je suis revenu de l'armée,
-Blessé dans ce combat où mon oncle a péri,
-Deux mois se sont passez : je dois être guéri.
-
--*who_clorine
 Quelle raison !
 
--*who_monrose
-      Après la perte que j'ai faite,
-Je veux savoir comment la fortune me traite.
-D'ailleurs, un intérêt plus pressant, et plus fort
-Que celui qui me touche, exige cet effort.
-Mon oncle était chargé des biens de ta Maîtresse ;
-Et je lui dois un compte... il le faut... le temps presse...
-D'autant plus qu'elle va retourner au couvent.
-
--*who_clorine
 Monsieur, vous vous verrez, sans doute, auparavant ?
 
--*who_monrose
-Qui, moi, Clorine ? Hélas ! je ne l'ai que trop vue.
-
--*who_clorine
 Ah ! cette répugnance est assez imprévue.
 Vous craignez de revoir l'objet de votre ardeur ?
 
--*who_monrose
-La révolution...
-
--*who_clorine
       A changé votre coeur.
 
--*who_monrose
-Plut au Ciel !... quand j'étais un peu plus digne d'elle,
-Je l'ai vue insensible à l'ardeur la plus belle.
-Que serait-ce à présent que je puis n'être rien ?
-
--*who_clorine
 Est-on si prévoyant lorsque l'on aime bien ?
 Monsieur, est-ce donc-là cette âme si charmée
 Est-ce vous, qui depuis le départ pour l'armée
@@ -60,20 +556,8 @@ Avez écrit vingt fois pour avoir son portrait,
 Qu'on vous eut envoyé, s'il avait été fait ?
 Hortense eut obéi.
 
--*who_monrose
-      Cesse de m'entreprendre.
-Si j'avais son portrait, il faudrait le lui rendre ;
-Il faudrait la revoir encore, et me plonger...
-
--*who_clorine
 Du moins, la bienséance...
 
--*who_monrose
-      Il n'y faut plus songer.
-
-**** *book_ *id_I02 *act_I *date_1737
-
--*who_clorine
 Fort bien, il va se perdre, en fuyant ma maîtresse.
 Je veux les rapprocher tous deux avec adresse.
 Eh ! le portrait d'Hortense est propre à cet effet.
@@ -93,22 +577,9 @@ L'un d'eux n'est qu'un bon homme, ardent, officieux,
 Qui tracasse, et qui veut toujours être de fête :
 L'autre n'a que du faste et du vent dans la tête.
 
-**** *book_ *id_I03 *act_I *date_1737
-
--*who_aramont
-Eh bien ! où sont-ils donc fourrez ? Hola, quelqu'un ?
-
--*who_clorine
 Bon ! voici justement notre vieil importun !
 Qu'il va bien signaler son zèle impitoyable !
 
--*who_aramont
-Quand le Maître est dehors, les Valets sont au diable.
-C'est Clorine ! Eh ! parbleu, je la trouve à propos.
-J'avais à vous parler. J'aurai fait en deux mots.
-Hortense s'en va donc ?
-
--*who_clorine
       Oui, Monsieur, sans remise.
 Elle rentre au Couvent où le défunt l'a prise.
 Il l'avait fait venir pour la former un peu,
@@ -117,208 +588,62 @@ Elle y serait déjà retournée au plus vite,
 Si l'éternelle tant attachée à sa suite,
 N'avait été malade : elle se porte mieux.
 
--*who_aramont
-Tant-pis.
-
--*who_clorine
       Et nous faisons aujourd'hui nos adieux.
 
--*who_aramont
-Cette vieille radote ; et ta maîtresse rêve.
-
--*who_clorine
 En quoi ?
 
--*who_aramont
-      C'est aujourd'hui que le scellé se lève.
-Hortense a tous ses biens.
-
--*who_clorine
       Quelqu'un en prendra soin.
 À quoi servirait-elle ? On n'en a pas besoin.
 
--*who_aramont
-Elle est riche, et très riche.
-
--*who_clorine
       Oui, Monsieur, je l'espère.
 
--*who_aramont
-Ah ! je vous en réponds. D'autant plus que son père
-N'avait point d'intendant. C'était un vieux marin,
-Qui, pour être partout Maître de son destin,
-Ne posséda jamais, pour toutes Seigneuries,
-Qu'un riche porte-feuille, et force pierreries.
-
--*who_clorine
 Chacun, suivant son goût, prend ses arrangements.
 
--*who_aramont
-Ainsi donc ta Maîtresse, outre ses diamants,
-Est un des grands partis qui soient peut-être en France :
-à moins que le défunt, contre toute apparence,
-N'ait altéré des biens confiez à ses soins ;
-Mais c'est ce que l'on doit appréhender le moins,
-Or cela supposé, comme aussi que Clorine
-Soit une fille aimable, intelligente, et fine...
-
--*who_clorine
 Ah ! point du tout, Monsieur... Oui... j'entends... excusez ;
 On vient de m'appeler.
 
--*who_aramont
-      Non ; vous vous abusez :
-Et quand cela serait, qu'importe ? On peut attendre.
-En faveur de Monrose, il faudrait nous entendre.
-Tu vois comme au moment de faire son bonheur,
-Son oncle un peu trop-tôt est mort au lit d'honneur :
-Tu sais, pour son neveu, quelle était sa tendresse ;
-Et qu'en le mariant à ta belle Maîtresse,
-Il lui cédait sa Charge et son Gouvernement :
-Il croyait être sûr d'en avoir l'agrément.
-Un coup de foudre a mis l'édifice par terre.
-Thésauriser n'est pas le fait des gens de guerre ;
-Et l'on doit peu compter sur leurs successions.
-Le défunt ne roulait que sur des pensions,
-De forts appointements, qu'il mangeait à mesure,
-Ainsi de ce côté la fortune est peu sûre.
-A l'égard de la Cour, je doute, et je ne sais
-Si l'on achèvera des projets commencés :
-Et franchement j'ai peur qu'en cet état funeste
-Ta Maîtresse ne soit le seul bien qui nous reste.
-Voila ce qu'il faudrait tous deux négocier.
-
--*who_clorine
 A quoi servirait-il de nous associer ?
 Hortense va passer sous une autre puissance.
 On exigera d'elle une autre obéissance.
 
--*who_aramont
-On exigera d'elle une infidélité :
-Vous n'y voyez aucune impossibilité.
-Si Monrose a son coeur...
-
--*who_clorine
       Mais il fuit ma maîtresse !
 
--*who_aramont
-Elle n'en est pas moins l'objet de sa tendresse ;
-Mais il compte si peu sur un heureux destin,
-Ou du moins l'avenir est si fort incertain,
-Qu'il n'ose plus tenter d'achever sa conquête.
-Il est intimidé : voilà ce qui l'arrête.
-Tant de discrétion lui ferait trop de tort.
-Il faut les rapprocher, et les mettre d'accord.
-
--*who_clorine
 J'entends.
 
--*who_aramont
-      Il faudrait donc autoriser mon zèle.
-Il n'est qu'un mot qui serve. Hortense l'aime-t-elle ?
-
--*who_clorine
 Vous me le demandez, à moi ?
 
--*who_aramont
-      Sans contredit.
-
--*who_clorine
 Mais vous n'y pensez pas. Eh ! Qui me l'aurait dit ?
 
--*who_aramont
-Elle-même, parbleu : Du moins je le suppose.
-Suivante et confidente est bien la même chose.
-
--*who_clorine
 Non pas auprès d'Hortense.
 
--*who_aramont
-      Ah ! ah ! mais en tout cas.
-On peut bien deviner.
-
--*who_clorine
       Je ne m'en méle pas.
 
--*who_aramont
-On surprend un secret qu'on ne veut pas nous dire ;
-On le lit dans les yeux, dans...
-
--*who_clorine
       Je n'y sais pas lire.
 
--*who_aramont
-Les filles d'à présent ne savent jamais rien
-De tout ce que l'on sait qu'elles savent très bien.
-
--*who_clorine
 On ne saurait penser plus à notre avantage.
 Monsieur, vous souvient-il d'un certain mariage
 Que vous avez fait faire ?
 
--*who_aramont
-      Oui, j'aime à m'en mêler.
-
--*who_clorine
 C'est le dernier sur-tout que je veux rappeler.
 Oh !... la suite en est belle, et le chef-d'oeuvre est rare.
 Ces gens sont en procès afin qu'on les sépare ;
 Et vous sollicitez leur séparation.
 
--*who_aramont
-Je ne dispose pas de l'inclination.
-
--*who_clorine
 Bon ! Et ces deux rivaux, Monsieur, que vous en semble ?
 Vous les aviez si bien raccommodez ensemble !
 D'où vient sont-ils partis aussi-tôt de la main
 Pour s'aller battre ?
 
--*who_aramont
-      Ils ont pris querelle en chemin.
-
--*who_clorine
 Vous souvient-il encore ?...
 
--*who_aramont
-      Ah ! Trêve de mémoire.
-Il n'est pas question de faire mon histoire.
-C'est-à-dire qu'Hortense aura jusqu'à ce jour
-Fait perdre à notre ami son temps et son amour ?
-
--*who_clorine
 Et ne voulez-vous pas que je l'en dédommage ?
 
--*who_aramont
-Eh ! ventrebleu, pourquoi se laisser rendre hommage,
-Lorsque l'on ne veut pas se laisser enflammer ?
-
--*who_clorine
 Hortense obéissait en se laissant aimer.
 
--*who_aramont
-La complaisance est grande.
-
--*who_clorine
       Assez
 
--*who_aramont
-      Se peut-il faire !...
-Eh mais, combien de temps faut-il donc pour lui plaire,
-Si depuis une année et plus qu'elle est ici,
-L'amour de son amant n'a pas mieux réussi ?
-Hortense s'amusait du plaisir d'être aimée.
-L'hymen se devait faire au retour de l'armée.
-
--*who_clorine
 Il est vrai.
 
--*who_aramont
-      Cette époque est bonne à remarquer.
-À quoi pensait Hortense ? Elle allait s'embarquer ;
-Et toutefois l'amour n'était pas du voyage.
-
--*who_clorine
 C'est bien assez qu'il vienne après le mariage :
 L'amour qui le prévient n'est pas le plus certain.
 Il vaut mieux ne donner son coeur qu'après sa main.
@@ -330,208 +655,277 @@ Ils avaient toujours eu cette alliance en vue.
 Hortense eut obéi : mais l'affaire est rompue.
 Aurait-elle bien fait d'aimer auparavant ?
 
--*who_aramont
-Allez, morbleu, partez ; retournez au couvent.
-Ainsi Monrose est libre ; et s'il est raisonnable,
-On pourra lui trouver un parti convenable.
-Quelqu'autre aura des yeux, du bien, de la beauté ;
-Oui, l'on pourra tourner de tel autre côté,
-Que...
-
--*who_clorine
       Eh ! qui menacez-vous ? Je suis votre servante.
 
-**** *book_ *id_I04 *act_I *date_1737
+      Le portrait est en vue.
+Monrose va rentrer ; attendons-en l'issue.
 
--*who_aramont
-Du moins, cette menace a fâché la suivante.
-Qu'elle aille à sa Maîtresse apprendre ce discours.
-Tant mieux. La jalousie est d'un puissant secours ;
-Et jamais la fierté ne doit être épargnée.
-Une femme piquée est à moitié gagnée.
+      Contre qui ? Je ne sais rien de plus.
 
-**** *book_ *id_I05 *act_I *date_1737
+      Eh bien, Ariste ?
 
--*who_dornane
-Serviteur au Baron. J'aime à te rencontrer.
-Qu'as-tu fait de Monrose ?
+C'est-à-dire qu'enfin cet homme a deviné.
 
--*who_aramont
-      Il va bientôt rentrer.
+      Il s'est imaginé
+Ce que depuis longtemps j'imagine moi-même.
 
--*who_dornane
-Tu ne le quittes plus ! Je te trouve adorable.
-Ah ! si l'événement lui devient favorable,
-Que d'amis fugitifs se verront confondus !
+      C'est pour contenter certains vouloirs malins,
+Où naturellement les hommes sont enclins :
+Ils ont tous la fureur de savoir nos faiblesses.
 
--*who_aramont
-Ils ne sont qu'égarez ; ils ne sont pas perdus.
-Cette espèce d'amis n'est pas la moins commune.
-Habiles à prévoir de loin une infortune,
-Ils ne paraissent plus dans le temps orageux.
-Le calme revient-il ? On peut compter sur eux.
-Il ramène avec lui leur troupe mercenaire.
-Dans le monde, en un mot, c'est l'usage ordinaire,
-Qui fut, et qui sera toujours comme aujourd'hui ;
-On n'aime à partager que le bonheur d'autrui.
+Et que sait-on ? Peut-être il vous trouve à son goût.
 
--*who_dornane
-Monrose n'aura point ce reproche à me faire :
-Et que la Cour lui soit favorable, ou contraire,
-Il n'en sera ni plus ni moins cher à mes yeux.
+      Mon Dieu ! Pourquoi non ? Il faut s'attendre à tout,
+Quand on a, comme vous, tant d'attraits en partage.
 
--*who_aramont
-Sans doute. Le malheur est-il contagieux ?
+Ne sont-ce que des fous qui peuvent nous aimer ?
+Mais à propos d'amant, vous m'allez bien blâmer.
 
--*who_dornane
-On cesse d'être ami sitôt que l'on varie.
-D'abord que l'amitié balance, elle est trahie :
-La moindre alternative y porte un coup mortel ;
-Et ce n'est plus qu'un nom qui n'a rien de réel.
+      Que je cherche au fond de ma mémoire !
+C'est à l'occasion... tenez... voilà l'histoire.
+Il faut vous l'avouer ; c'est pour votre portrait...
+Que diantre ! Il ne peut pas se perdre tout-à-fait.
 
--*who_aramont
-Sais-tu que tu dis vrai ?
+Je vais plus loin. Par tout ce que je me rappelle,
+Je ne sais... J'entrevois du mystère en ceci.
 
--*who_dornane
-      Voilà comme je pense.
-Mais ce n'est point assez ; j'agis en conséquence.
-Depuis qu'il est malade, on n'imagine pas
-Ce que j'ai vu de gens, combien j'ai fait de pas.
-J'ai mis en action toutes nos connaissances.
-N'ai-je pas fait ma cour à toutes les puissances ?
+      Je gagerais qu'il n'est pas loin d'ici.
 
--*who_aramont
-Car il faut bien les voir, quand on en a besoin.
-Quelle fatuité !
+      Celui que je soupçonne...
+Si Monrose l'avait !... Eh bien, vous m'entendez ?
 
--*who_dornane
-      J'aurais été plus loin
-Si je l'avais trouvé possible et nécessaire :
-Mais Dieu sait de quel air j'ai mené cette affaire !
+      Ah ! vous me demandez
+Ce qu'on fait du portrait d'une femme qu'on aime ?
 
--*who_aramont
-De quel air, s'il vous plaît ?
+Si vous ne l'aimiez pas, il peut avoir raison.
 
--*who_dornane
-      Je crois qu'il est permis
-De parler un peu haut quand c'est pour ses amis :
+Madame, j'en reviens au soupçon qui m'agite.
+Monrose, si j'en crois ce que j'ai dans l'esprit,
+Aura votre portrait, comme je vous l'ai dit.
+La restitution peut en être incertaine.
+Madame, il vous convient de vous en mettre en peine.
+Enfin, à tout hasard, et sans plus marchander,
+Je vous conseillerais de le lui demander.
 
--*who_aramont
+Vous avez tous les deux besoin d'une entrevue.
+
+      Mais si d'un air soumis et tendre
+Il vous le rapportait, sans vouloir vous le rendre !
+Pourriez-vous le forcer ?...
+
+      Qu'il vienne seulement !
+
+Eh bien, quel enragé !
+
+      Et la voilà finie.
+Fussiez-vous dans le fond de votre Baronnie !
+
+      Cet homme-est possédé.
+
+En vous remerciant de votre diligence.
+
+J'aurais pu le trouver tout aussi bien qu'un autre.
+
+Il vaudrait tout autant qu'il eût été perdu.
+
+Donnez, Monsieur, donnez, puisqu'il faut le reprendre.
+Mais ce n'était pas vous qui deviez nous le rendre.
+
+On vous attend. Ce sont, je crois, des gens d'affaires ;
+Ils en ont bien la mine.
+
+Le départ de Madame est fixé pour ce soir.
+
+S'il voulait la revoir, il ferait beaucoup mieux.
+Mais la voici qui vient d'achever ses adieux.
+
+      Madame quelle est-elle ?
+
+      Peut-on savoir en quoi ?
+
+Ah ! n'est-ce que cela ? Quitte à brûler la lettre,
+Et ne s'en pas vanter !
+
+      Madame, à qui donc, s'il vous plaît ?
+
+      Ah ! Serait-il possible ?
+
+Oui, c'est un grand attrait.
+
+      Je ne sais ; mais enfin
+Cela sent la beauté qui touche à son déclin.
+
+Eh, qu'en voulez-vous faire ? Ah ! si vous l'employez,
+Vous l'allez bien charmer. Mais si vous m'en croyez...
+Vous le voulez charger de rendre cette lettre ?
+
+      En quelles mains allez-vous la remettre ?
+
+      Ah ! n'en ayez pas peur.
+D'un bout du monde à l'autre il irait de bon coeur.
+Ils la liront ensemble ; et puis, gare la glose !
+Il fera ses efforts pour pervertir Monrose.
+
+      Madame, il vous sacrifiera.
+
+Monrose est son idole ; il l'aime ; il l'a vu naître ;
+Son zèle est sa folie ; il n'en est pas le maître.
+
+On attend Aramont.
+
+Oui, Madame, beaucoup ; et même assez cruelles.
+
+Armez-vous de courage ; il est d'autres malheurs...
+Ils vous sont personnels.
+
+Vous n'avez plus à craindre aucune violence.
+
+Vous étiez riche, et vous ne l'êtes plus.
+Cet Oncle de Monrose...
+
+Cet homme qu'on croyait un sûr dépositaire,
+Que votre père avait chargé de votre bien...
+
+      L'on ne retrouve rien ;
+Rien du tout, en un mot.
+
+Hélas ! que trop, Madame ; et je vous en assure.
+À l'instant même on vient de lever le scellé.
+J'ai tout su d'un témoin qui me l'a révélé ;
+Et ce Témoin, Madame, est un des Commissaires.
+
+      Il est avec ces gens d'affaires.
+D'un oeil presque insensible il voyait ses malheurs :
+Les vôtres l'ont atteint des plus vives douleurs.
+On dirait que lui-même il s'en croit responsable :
+Dans son accablement il est méconnaissable :
+Toute sa fermeté se change en désespoir :
+Sans détourner les yeux, il n'a pas pu me voir :
+Il m'a caché des pleurs, que sans doute il dévore ;
+J'en ai versé moi-même ;... Et j'en répands encore.
+
+En l'apprenant, j'ai cru que j'allais expirer.
+
+Qu'allez-vous devenir ?
+
+J'envisage pour vous quelques soulagements
+Qui pourront...
+
+      Ce sont vos diamants :
+Vous en avez ; ils sont d'un prix considérable.
+Du moins, vous vous ferez un sort moins déplorable.
+
+La nouvelle n'a fait encore aucun éclat.
+Il peut n'en rien savoir.
+
+Il n'était point ici quand... je le vois paraître.
+
+Ah ! Madame... Monsieur, excusez, s'il vous plaît.
+Je suis toute saisie...
+
 Tout est perdu.
 
--*who_dornane
-      J'agis avec cette assurance
-Qui subjugue, ou détruit toute autre concurrence.
-Quoi qu'il en soit, j'ai mis l'épouvante et l'effroi
-Parmi les prétendants ; ils sont en désarroi.
-Je leur ai fait un tour qui nous sert à merveille...
-J'ai publié partout... en secret... à l'oreille...
-Que Monrose avait tout obtenu de la Cour :
-Et c'est, grâce à mes soins, la nouvelle du jour.
-Par-là j'ai dérouté la brigue et la cabale.
+      Ce sont vos pierreries...
 
--*who_aramont
-Je crains que cela n'ait une suite fatale.
+      Qui sont évanouies :
+Je viens de les chercher, mais inutilement ;
+Et vous êtes volée... indubitablement.
 
--*who_dornane
-Tu t'y connais !
+      Eh, comment donc, Madame ?
+Ne savez-vous pas bien que cela le réclame ?
 
--*who_aramont
-      Pour moi, je me borne à des soins
-Qui sont à ma portée ; et je risque un peu moins.
-Sans moi, des créanciers bloqueraient cette porte :
-J'ai du moins, pour un temps, écarté leur cohorte,
+      Ah ! vous me confondez.
 
--*who_dornane
-Comment donc ?
+      Je ne sais comment vous l'entendez...
+Mais je ne comprends rien à cette politique.
+J'entrevois du mystère ici.
 
--*who_aramont
-      En disant partout avec éclat
-Que la succession est en très bon état
-Ainsi j'ai suspendu leurs cris et leurs poursuites.
+Madame va venir ; donnez-vous patience.
 
--*who_dornane
-C'est une minutie.
+Vous êtes pénétrant.
 
--*who_aramont
-      On verra dans les suites.
-Mais au surplus, Marquis, n'es-tu pas étonné
-Que Monrose aujourd'hui se trouve abandonné
-Par l'homme, sur lequel il comptait d'avantage, Ariste ?
+      Pareil à vos discours.
 
--*who_dornane
-L'amitié n'est point un héritage.
+Vous y mettez bon ordre.
 
-**** *book_ *id_I06 *act_I *date_1737
+Il me reste à gagner les biens qu'elle m'a faits.
 
--*who_aramont
-Quoi ! l'ami le plus cher que le défunt ait eu,
-Laisse ainsi son neveu, tandis qu'il aurait pu
-Agir, et lui prêter son heureuse assistance ?
-Son appui nous serait d'une grande importance ;
-Car enfin son crédit est plus grand qu'on ne croit
+      Et vous ne l'êtes guère.
+Je voudrais me charger de toute sa misère.
+Que ne puis-je ?... Du moins, je ne suis pas de ceux,
+Qui savent abuser d'un coeur trop généreux.
 
--*who_dornane
-Il le garde pour lui. Ce n'est qu'un homme adroit,
-Un Courtisan masqué par la misanthropie,
-Recouvert du manteau de la Philosophie ;
-Un Politique sombre, équivoque et caché,
-Qui se donne à la Cour pour être détaché
-Des postes, des emplois, des grandeurs, et des grâces ;
-Mais qui secrètement vise aux premières places ;
-Et dont l'ambition, quand il en sera temps,
-Se manifestera peut-être à nos dépens.
+      Ah ! je vous en dispense.
 
--*who_aramont
-Cet Ariste pourtant... il avait paru prendre
-Au destin de Monrose un intérêt si tendre :
-Je l'ai cru son ami.
+Non, Monsieur, s'il vous plaît.
 
--*who_dornane
-      Lui ? Sur quel fondement ?
-Quand on est tel, crois-moi, l'on s'annonce autrement.
-En effet, l'amitié donne un air moins austère.
-Un véritable ami n'a d'autre caractère
-Que celui qui nous plaît. Il se règle sur nous,
-Il adopte nos moeurs ; il se fait à nos goûts ;
-Il se métamorphose au gré de nos caprices ;
-Il prend nos Passions, nos vertus, et nos vices :
-C'est un caméléon qui reçoit tour-à-tour...
+Moi, je vais vous servir de la bonne façon.
 
--*who_ariste
-Ce portrait-là, Monsieur, est celui de l'amour.
+Si vous avez un mot à dire à ma Maîtresse,
+Je viens vous avertir, Monsieur, que le temps presse.
+Elle part à l'instant.
 
--*who_dornane
-C'est Ariste ! Ah, morbleu !
+En êtes vous content ? Pour moi, j'en suis ravie.
+Je vous devais cela, pour m'avoir bien servie.
+Vous êtes bon ami.
 
--*who_ariste
-      Mon abord vous étonne !
+      Vous vouliez dépouiller
+Ma Maîtresse ; mais...
 
--*who_dornane
-Ah ! Monsieur, qui pouvait vous croire-là ?
+      La ressource est commode.
+Ruiner une femme est si fort à la mode,
+Que ce n'est presque plus la peine d'en parler.
+On ne voit autre chose ; c'est un pis-aller
+Permis, et toujours sûr. On ne s'en fait pas faute.
 
--*who_ariste
-Personne. Si j'ai bien entendu votre entretien...
+Vous n'aviez pas dessein de m'en faire changer,
+Notre sexe, vous dis je, est un Peuple étranger,
+Un ennemi, sur qui tout est de bonne prise :
+Ce sont-là des exploits que l'amour autorise.
 
--*who_dornane
-      Tant-pis.
+      Je sais que pour notre malheur
+Vous ne traitez pas mieux nos biens que notre honneur.
 
--*who_ariste
-Les amis de Monrose étaient sur le tapis.
-Vous paraissez avoir épuisé la matière ;
-Et Monrose vous doit sa confiance entière.
-Oui, par provision vous nous excluez tous.
-Il ne doit plus compter sur d'autres que sur vous.
-Vous suffirez à tout ; du moins, je le souhaite.
-L'amitié qui se vante est souvent indiscrète.
-Cependant trouvez bon qu'au rang de ses amis
-Quelqu'autre puisse encore avec vous êtes mis.
-L'amitié n'admet point de basses jalousies,
-C'est à l'amour qu'il faut laisser ces frénésies.
+      On vient. J'ai fait, j'ai dit, et je vous quitte.
 
-**** *book_ *id_I07 *act_I *date_1737
+Vous l'allez voir paraître ; il marche sur mes pas.
 
--*who_monrose
+      Est-il possible ?
+
+
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monrose
+
+      Laisse-moi, je te prie.
+Je ne puis différer ma première sortie,
+Ni demeurer ici davantage en suspens :
+Ma blessure m'a fait assez perdre de temps.
+
+Eh ! depuis que je suis revenu de l'armée,
+Blessé dans ce combat où mon oncle a péri,
+Deux mois se sont passez : je dois être guéri.
+
+      Après la perte que j'ai faite,
+Je veux savoir comment la fortune me traite.
+D'ailleurs, un intérêt plus pressant, et plus fort
+Que celui qui me touche, exige cet effort.
+Mon oncle était chargé des biens de ta Maîtresse ;
+Et je lui dois un compte... il le faut... le temps presse...
+D'autant plus qu'elle va retourner au couvent.
+
+Qui, moi, Clorine ? Hélas ! je ne l'ai que trop vue.
+
+La révolution...
+
+Plut au Ciel !... quand j'étais un peu plus digne d'elle,
+Je l'ai vue insensible à l'ardeur la plus belle.
+Que serait-ce à présent que je puis n'être rien ?
+
+      Cesse de m'entreprendre.
+Si j'avais son portrait, il faudrait le lui rendre ;
+Il faudrait la revoir encore, et me plonger...
+
+      Il n'y faut plus songer.
+
 Mes amis, prenez part à la joie où je suis.
 Mon bonheur est prochain ; si j'en crois tous les bruits,
 On dit qu'en ma faveur la Cour est réunie.
@@ -539,119 +933,24 @@ Ah ! Monsieur. C'est me faire une grâce infinie.
 Ces Messieurs sont témoins si depuis mon retour
 Ma santé m'a permis de vous faire ma cour.
 
--*who_ariste
-Votre santé va bien ; je vous en félicite.
-
--*who_dornane
-Et moi, de la nouvelle...
-
--*who_aramont
-      En cas de réussite.
-
--*who_monrose
 Tout Paris là-dessus n'a qu'une seule voix.
 
--*who_dornane
-C'est qu'il te rend justice. On l'obtient quelquefois,
-Quand on a le secret de se la faire rendre.
-Une affaire dépend du tour qu'on lui fait prendre.
-La fortune et l'amour se ressemblent tous deux :
-C'est la même façon pour traiter avec eux.
-
--*who_monrose
 Je commence à le croire.
 
--*who_dornane
-      Osais-tu te promettre
-Un aussi bon effet ?...
-
--*who_monrose
       De quoi ?
 
--*who_dornane
-      De cette lettre
-Qu'il a fallu te faire écrire, et t'arracher ?
-Car avec toi, mon cher, à moins de se fâcher...
-
--*who_monrose
 Je trouvais que le style en était un peu ferme.
 
--*who_dornane
-Eh ! Tant mieux. Tu voulais mesurer chaque terme.
-
--*who_monrose
 Ou du moins adoucir...
 
--*who_dornane
-      Va, va, le style est bien.
-La souplesse est pour nous un indigne moyen,
-Presque toujours nuisible, et jamais légitime :
-Qui s'abaisse soi-même est sa propre victime.
-On ne cherche que trop à nous humilier.
-Nous devons exiger, et non pas supplier.
-N'est-il pas vrai, Monsieur ?
-
--*who_ariste
-      Chacun a ses usages.
-
--*who_monrose
 J'ai vu tous nos amis...
 
--*who_ariste
-      Qui ne sont pas plus sages.
-
--*who_monrose
 Je ne pouvais suffire à leurs embrassements.
 
--*who_ariste
-Quoi ! vous avez reçu tous ces vains compliments ?
-
--*who_monrose
 Oui, je les ai reçus. Devais-je m'en défendre ?
 
--*who_ariste
-Vous n'empêcherez pas ces bruits de se répandre ?
-
--*who_dornane
-Les empêcher ? Je dis que c'est un coup d'état.
-On n'y saurait donner trop de cours et d'éclat.
-Sur la foi de ce bruit heureux et profitable,
-Chacun trouve que rien n'était plus équitable.
-Tout le monde applaudit. Je vous laisse à penser
-Si la Cour, qui le voit, pourra se dispenser
-D'un acte d'équité que l'on trouve à sa place.
-Il ne dépend plus d'elle. Il faut qu'elle le fasse,
-Et qu'enfin elle cède à la nécessité...
-
--*who_ariste
-Vous en parlez, Monsieur, avec capacité.
-
--*who_dornane
-En seriez-vous surpris ?
-
--*who_ariste
-      Vous êtes politique.
-
--*who_dornane
-Et bien meilleur ami. C'est de quoi je me pique.
-
--*who_ariste
-Contre cet étourdi je ne saurais tenir.
-Dans un instant, Monsieur, pourrais-je revenir ?
-
--*who_monrose
 Commandez.
 
--*who_ariste
-      J'aurais eu quelque chose à vous dire.
-Je veux prendre mon temps.
-
--*who_dornane
-      Enfin il se retire.
-
-**** *book_ *id_I08 *act_I *date_1737
-
--*who_monrose
 Je puis donc m'applaudir avec vous sans témoins,
 Et vous féliciter du succès de vos soins.
 Permettez ce transport à ma reconnaissance :
@@ -660,168 +959,42 @@ Ma chute était horrible ; il faut en convenir.
 Si je vous faisais voir quel affreux avenir
 Était devant mes yeux !...
 
--*who_dornane
-      Éloignons cette idée ;
-Puisqu'aussi-bien l'affaire est presque décidée.
-D'ailleurs, ton désespoir m'était injurieux.
-Suis-je donc un ami si frivole à tes yeux ?
-Que le sort te trahisse, ou soit qu'il te seconde,
-Mets-toi bien dans l'esprit que je n'ai rien au monde
-Qui ne te soit acquis : je crois que là-dessus
-Tu veux bien m'épargner des serments superflus.
-Bien souvent ce ne sont que des mots d'habitude
-Qui joignent le parjure avec l'ingratitude.
-
--*who_monrose
 Va, j'en suis convaincu ; ce n'est pas d'aujourd'hui :
 Mais je ne veux pas être a la charge d'autrui.
 Vous dirai-je pourtant que la froideur d'Ariste
 Jette dans mon esprit un doute qui m'attriste ?
 
--*who_dornane
-C'est un homme fâché, qui voit avec dépit
-Que nous n'ayons point eu recours à son crédit.
-Eh ! combien n'est-il pas de ces gens tyranniques,
-De ces jaloux amis qui veulent être uniques ;
-Assez durs, pour trouver mauvais qu'un malheureux
-Leur fasse voir enfin qu'on peut se passer d'eux ?
-Heureux, qui peut ainsi mortifier leur gloire.
-Et venger l'amitié !... Mais si tu veux m'en croire,
-Le temps est cher, il faut, et même dès ce jour,
-Aller tête levée, et paraître à la Cour.
-
--*who_monrose
 Oui, c'est bien mon dessein, dès que je serai quitte
 Du rendez-vous d'Ariste.
 
--*who_dornane
-      Expédie au plus vite.
-Sans adieu. Tout ira comme je le prévois.
-Je vais nous faire écrire à dix ou douze endroits.
-
-**** *book_ *id_I09 *act_I *date_1737
-
--*who_aramont
-Moi, je vais faire un tour chez tous nos gens d'affaires,
-Pour rassembler ici ceux qui sont nécessaires.
-
-**** *book_ *id_I10 *act_I *date_1737
-
--*who_monrose
 Hortense, est-il possible ?... Ah, qu'il me serait doux
 D'avoir à vous offrir un rang digne de vous !
 
-**** *book_ *id_II01 *act_II *date_1737
-
--*who_monrose
 Quel entretien fâcheux !... Il finira peut-être ?
 
--*who_ariste
-Je puis donc vous parler ?
-
--*who_monrose
       Vous en êtes le Maître.
 Usez de tous vos droits.
 
--*who_ariste
-      Vous me le permettez ?
-
--*who_monrose
 Ma famille a toujours éprouvé vos bontés.
 
--*who_ariste
-Une étroite amitié m'unissait avec elle.
-Votre oncle n'eut jamais un ami plus fidèle,
-Et plus tendre que moi. Je vous trahirais tous,
-Si je dissimulais davantage avec vous.
-Vous vous perdez.
-
--*who_monrose
       Daignez me le faire connaître.
 
--*who_ariste
-Vous entrez dans le monde ; et vous allez paraître
-Sur ce fameux théâtre, où j'ignore comment
-J'ai pu me soutenir jusques à ce moment.
-Vous n'êtes pas encore instruit de ses mystères.
-Jusqu'ici vos emplois, vos devoirs militaires,
-Vous en ont écarté. La Cour est en tout temps
-Une terre inconnue à tous ses habitants.
-Après un long séjour, après un long usage,
-On s'y retrouve encore à son apprentissage ;
-On y marche toujours sur des pièges nouveaux ;
-On y vit, entouré d'un peuple de rivaux,
-Ou d'amis dangereux. Heureux qui les devine !
-On n'y peut s'élever que sur quelque ruine ;
-On n'y peut profiter que des fautes d'autrui.
-Tel, au gré de ses voeux, s'y maintient aujourd'hui,
-Qui demain ne pourra faire tête à l'orage :
-Et l'on finit souvent par y faire naufrage.
-Mais d'après ce portrait qu'on ne peut qu'ébaucher,
-N'avez-vous en secret rien à vous reprocher ?
-
--*who_monrose
 Je ne crois pas avoir de reproche à me faire :
 Et du moins le succès vous prouve le contraire.
 
--*who_ariste
-Le succès ! Puissiez-vous n'être point dans l'erreur !
-Je voudrais avoir pris une fausse terreur :
-Mais je tremble pour vous.
-
--*who_monrose
       Je vous suis redevable.
 
--*who_ariste
-Votre sécurité me semble inconcevable.
-
--*who_monrose
 J'apprends de toutes parts le bonheur que j'attends :
 N'ai-je pas à la Cour des droits assez constants ?
 Et d'ailleurs, un refus est-il en sa puissance ?
 Je dois tout espérer de sa reconnaissance.
 
--*who_ariste
-Dites de ses bontés.
-
--*who_monrose
       Je réclame mon bien.
 
--*who_ariste
-Vous méritez beaucoup ; mais on ne vous doit rien.
-
--*who_monrose
 Du moins on doit à ceux dont le Ciel m'a fait naître.
 
--*who_ariste
-Vous vous faites un droit qui pourrait ne pas être.
-Vos aïeux ont chacun obtenu dans leur temps,
-Le prix que méritaient leurs services constants.
-Ce sont leurs actions, plutôt que leurs Ancêtres,
-Qui les ont fait combler des faveurs de leurs Maîtres,
-Et monter aux honneurs que vous sollicitez.
-Les bienfaits sont à ceux qui les ont méritez.
-Les grâces ne sont point des biens héréditaires :
-Nous n'en sommes jamais que les dépositaires :
-Mais par la même voie on peut les obtenir.
-Vos pères ont laissé leur nom à soutenir,
-Leur vertu, leur exemple, et leur carrière à suivre.
-Voilà ce qu'après eux il faut faire revivre,
-Et dont vous vous devez mettre en possession.
-Tout le reste n'est point de leur succession.
-
--*who_monrose
 Ma poursuite, Monsieur, n'est donc pas raisonnable ?
 
--*who_ariste
-La façon pouvait être un peu plus convenable.
-Lorsque j'ose avancer qu'il ne vous est rien du,
-Je ne dis pas, Monsieur, qu'il vous soit défendu
-D'employer les moyens qui sont à votre usage,
-Pour sauver le débris d'un aussi grand naufrage.
-Vous y devez songer ; et je dois vous aider.
-
--*who_monrose
 Je ne vois pas en quoi j'ai pu me dégrader.
 Ce serait trop payer la plus haute fortune.
 Non, non, Monsieur, perdez cette crainte importune.
@@ -834,542 +1007,15 @@ Mais enfin, ma santé ne me l'a pas permis.
 S'ils ont agi pour moi, c'est sans me compromettre.
 J'ai même écrit en Cour...
 
--*who_ariste
-      La voici cette lettre.
-Quelqu'un veillait pour vous. Son bonheur a permis
-Qu'il ait su le danger où vous vous étiez mis.
-Quoi ? Vous osez, Monsieur, dans l'état où vous êtes,
-Poursuivre des bienfaits comme on poursuit des dettes ?
-L'orgueil et la fierté sollicitent pour vous ?
-Si vous aviez des droits, vous les détruiriez tous.
-C'est indirectement s'attaquer à son Maître,
-C'est l'offenser lui-même, et c'est le méconnaître,
-Quand on manque aux égards que l'on doit à son choix.
-
--*who_monrose
 Vous m'effrayez, Monsieur.
 
--*who_ariste
-      Je fais ce que je dois.
-Je ne sais point flatter quand le mal est extrême.
-Mais vous n'étiez pas fait pour vous perdre vous-même.
-Eh ! laissez-vous aller à votre naturel,
-Au caractère heureux qui vous est personnel.
-Vous êtes né prudent, humain, doux, et flexible :
-Ce sont-là les moyens qui rendent tout possible.
-Il faut gagner les coeurs ; la fortune les suit.
-Lorsque vous le pouvez, quelle erreur vous séduit ?
-On ne peut s'observer avec trop de scrupule,
-Un langage superbe est toujours ridicule :
-Plus on est élevé, plus il est messéant.
-C'est ainsi que le Peuple, au fond de son néant,
-Toujours séditieux, quelque bien qu'on lui fasse,
-Parle indiscrètement de ceux qui sont en place :
-Vous en seriez traité de même, à votre tour,
-Si vous étiez chargé de le régir un jour.
-
--*who_monrose
 Vous m'en dites assez ; épargnez-moi le reste.
 Vous venez de détruire un charme trop funeste.
 
--*who_ariste
-Que la décision n'est-elle en mon pouvoir !
-Mais c'est un dénouement que l'on ne peut prévoir.
-Peut-être est-il prochain : et votre destinée
-Peut, d'un moment à l'autre, être déterminée.
-Attendez votre sort ; et ne recevez plus
-Ces compliments suspects autant que superflus.
-Peut-être des amis un peu trop pleins de zèle,
-Ou des Rivaux, ont fait courir cette nouvelle.
-Un bruit trop favorable est souvent dangereux.
-Voyez des gens qui soient un peu mieux instruits qu'eux ;
-Et du reste daignez agréer mes services.
-
--*who_monrose
 C'est à moi d'implorer toujours vos bons offices.
 Souffrez que pour jamais je commence aujourd'hui
 À vous être attaché, comme à mon seul appui.
 
--*who_ariste
-Vous n'avez pas besoin de faire aucune instance.
-Allez : et moi, je vais prendre congé d'Hortense.
-
-**** *book_ *id_II02 *act_II *date_1737
-
--*who_ariste
-Cherchons en même temps à servir son amour.
-Sachons si sa Maîtresse a pour lui du retour.
-En cas qu'il soit aimé, je pourrais par la suite...
-Mais, la voici qui vient recevoir ma visite.
-
-**** *book_ *id_II03 *act_II *date_1737
-
--*who_ariste
-Ah ! Madame, excusez... en ce même moment
-J'allais vous prévenir dans votre appartement.
-
--*who_hortense
-Monsieur, j'ai su l'honneur que vous vouliez me faire.
-
--*who_ariste
-C'en est donc fait, Madame ! un départ nécessaire
-Éloigne de la Cour son plus bel ornement ?
-Il est bien douloureux de vous perdre, au moment
-Où tout semblait devoir fixer ici vos charmes.
-Que vous allez coûter de soupirs et de larmes !
-
--*who_hortense
-Je sais apprécier des discours si flatteurs.
-
--*who_ariste
-Ce sont les sentiments qui sont dans tous les coeurs.
-Madame, il en est un, sans vous parler du reste,
-Pour qui ce contretemps doit être bien funeste.
-Il semblait être fait pour vous appartenir.
-Pourrez-vous conserver un tendre souvenir ?
-Vous garantirez-vous des effets de l'absence ?
-
--*who_hortense
-Elle n'en aura point sur ma reconnaissance.
-
--*who_ariste
-Que deviendront ces noeuds que l'amour avait faits ?
-Votre coeur, votre main, sont les plus grands bienfaits,
-Que puissent procurer l'Amour et la Fortune.
-L'espoir va ranimer une foule importune.
-On cherchera sans doute à forcer votre choix.
-Vous ressouviendrez-vous qu'un autre avait des droits ?...
-
--*who_hortense
-Celui dont vous parlez mérite mon estime.
-
--*who_ariste
-Un sentiment plus doux est-il moins légitime ?
-
--*who_hortense
-Monsieur ; vous m'étonnez ?
-
--*who_ariste
-      Par des noeuds pleins d'appas
-Vous alliez être unis.
-
--*who_hortense
-      Nous ne le sommes pas.
-
--*who_ariste
-Quoi donc ? Que voulez-vous par-là me faire entendre ?
-
--*who_hortense
-Que pour m'abandonner au penchant le plus tendre,
-Il faudrait que l'hymen m'en eut fait un devoir.
-
--*who_ariste
-Quand l'amour vous aurait soumise à son pouvoir
-Sur la foi d'un hymen prochain et convenable...
-
--*who_hortense
-À vos yeux, comme aux miens, j'eusse été condamnable.
-Nous avons des devoirs qui ne sont que pour nous.
-Vous pouvez être amants avant que d'être époux,
-Et vous livrer sans crainte à votre ardeur extrême :
-Mais, que pour notre sexe il n'en est pas de même !
-Quand nous prenons trop-tôt un légitime amour,
-Il peut nous coûter cher. Par un affreux retour
-Il arrive souvent qu'on nous en fait un crime,
-Qu'un trop injuste époux nous ôte son estime :
-Et qu'il se croit alors en droit de nous taxer,
-D'avoir un coeur, hélas ! trop facile à blesser.
-
--*who_ariste
-Vous ne m'honorez point de votre confiance,
-Madame, je le vois : j'ai quelque expérience.
-Pourquoi me craignez-vous ? Ne dissimulez plus.
-
--*who_hortense
-Ah de grâce, cessez d'insister là-dessus.
-
--*who_ariste
-Un intérêt plus tendre, et plus fort qu'on ne pense,
-M'oblige à redoubler une si vive instance.
-J'espère par la suite obtenir mon pardon.
-À quelque chose enfin l'on peut vous être bon,
-Et même auprès de ceux dont vous allez dépendre.
-De mon faible crédit je puis assez prétendre...
-
--*who_hortense
-Un homme tel que vous...
-
--*who_ariste
-      Ah ! vous y comptez peu.
-Si vous ne daignez pas m'accorder votre aveu,
-Donnez-moi les moyens d'agir en assurance ;
-Dites-moi votre goût, ou votre répugnance ;
-Par pitié pour vous-même, ordonnez ; et comptez...
-
--*who_hortense
-Je ressens vivement de si grandes bontés :
-Mais je ne dois penser, ni vous dire autre chose.
-Pour changer d'entretien... Que dit-on de Monrose ?
-
--*who_ariste
-Que l'espoir d'être à vous faisait tout son bonheur.
-
--*who_hortense
-Parlons de sa fortune, et non pas de son coeur.
-
--*who_ariste
-Il est vrai que depuis qu'il est sous votre empire,
-Son coeur vous est assez connu pour n'en rien dire.
-
--*who_hortense
-Dites-moi seulement ce qu'il va devenir.
-
--*who_ariste
-Je vous l'ai demandé, sans pouvoir l'obtenir.
-
--*who_hortense
-Est-ce-là m'éclaircir ?... Lui rendra-t-on justice ?
-
--*who_ariste
-Il l'attendait de vous, Madame.
-
--*who_hortense
-      Ah, quel supplice ?
-Vous me persécutez.
-
--*who_ariste
-      J'en ai bien du regret.
-
--*who_hortense
-Eh bien, Monsieur, gardez aussi votre secret.
-
--*who_ariste
-Ah ! je ne métais pas trompé dans mon attente.
-Il faut vous deviner ; et vous serez contente.
-Je ne vous presse plus. Puisse un retour heureux
-Satisfaire au plutôt mes désirs et vos voeux !
-
-**** *book_ *id_II04 *act_II *date_1737
-
--*who_hortense
-Ses désirs, et mes voeux !
-
--*who_clorine
-      Le portrait est en vue.
-Monrose va rentrer ; attendons-en l'issue.
-
--*who_hortense
-Je ne puis revenir de mon émotion,
-Je viens de soutenir la persécution,
-L'attaque la plus vive, et la plus continue...
-Qu'ai-je fait ? Qu'ai-je dit ? Que suis-je devenue ?
-Conçois-tu les efforts, peut-être superflus,
-Que j'ai faits ?
-
--*who_clorine
-      Contre qui ? Je ne sais rien de plus.
-
--*who_hortense
-Pour pénétrer au fond de mon coeur trop sensible,
-Ariste...
-
--*who_clorine
-      Eh bien, Ariste ?
-
--*who_hortense
-      Il a fait son possible.
-
--*who_clorine
-C'est-à-dire qu'enfin cet homme a deviné.
-
--*who_hortense
-J'en serais accablée.
-
--*who_clorine
-      Il s'est imaginé
-Ce que depuis longtemps j'imagine moi-même.
-
--*who_hortense
-Conçois-tu ses desseins ? D'où vient ce soin extrême,
-Dis ?
-
--*who_clorine
-      C'est pour contenter certains vouloirs malins,
-Où naturellement les hommes sont enclins :
-Ils ont tous la fureur de savoir nos faiblesses.
-
--*who_hortense
-Je me flatte d'avoir éludé ses finesses.
-
--*who_clorine
-Et que sait-on ? Peut-être il vous trouve à son goût.
-
--*who_hortense
-Lui ?
-
--*who_clorine
-      Mon Dieu ! Pourquoi non ? Il faut s'attendre à tout,
-Quand on a, comme vous, tant d'attraits en partage.
-
--*who_hortense
-Va, tu n'y songes pas : c'est un homme trop sage.
-
--*who_clorine
-Ne sont-ce que des fous qui peuvent nous aimer ?
-Mais à propos d'amant, vous m'allez bien blâmer.
-
--*who_hortense
-De quoi donc ?
-
--*who_clorine
-      Que je cherche au fond de ma mémoire !
-C'est à l'occasion... tenez... voilà l'histoire.
-Il faut vous l'avouer ; c'est pour votre portrait...
-Que diantre ! Il ne peut pas se perdre tout-à-fait.
-
--*who_hortense
-Tu l'auras égaré. C'est une bagatelle.
-
--*who_clorine
-Je vais plus loin. Par tout ce que je me rappelle,
-Je ne sais... J'entrevois du mystère en ceci.
-
--*who_hortense
-Comment ?
-
--*who_clorine
-      Je gagerais qu'il n'est pas loin d'ici.
-
--*who_hortense
-Ni moi, ni mon portrait, n'intéressent personne.
-On le rapportera.
-
--*who_clorine
-      Celui que je soupçonne...
-Si Monrose l'avait !... Eh bien, vous m'entendez ?
-
--*who_hortense
-Que veux-tu qu'il en fasse ?
-
--*who_clorine
-      Ah ! vous me demandez
-Ce qu'on fait du portrait d'une femme qu'on aime ?
-
--*who_hortense
-Qui, lui, m'aimer encore ? Ah, quelle erreur extrême !
-Hélas ! Son infortune, ou quelqu'autre sujet,
-M'ont ôté son amour : je n'en suis plus l'objet.
-Tu vois depuis un temps comme il fuit ma présence.
-Lui-même il a déjà commencé notre absence.
-Nous sommes en exil dans la même maison.
-
--*who_clorine
-Si vous ne l'aimiez pas, il peut avoir raison.
-
--*who_hortense
-Si je ne l'aime pas... Étais-je la maîtresse ?
-Ne m'a-t-on pas livrée à toute ma faiblesse,
-Aux charmes d'un espoir que le sort a trahi ?
-Apprends-moi donc comment j'aurais désobéi.
-Qu'on s'en prenne au devoir : c'est lui qui m'a séduite.
-
--*who_clorine
-Madame, j'en reviens au soupçon qui m'agite.
-Monrose, si j'en crois ce que j'ai dans l'esprit,
-Aura votre portrait, comme je vous l'ai dit.
-La restitution peut en être incertaine.
-Madame, il vous convient de vous en mettre en peine.
-Enfin, à tout hasard, et sans plus marchander,
-Je vous conseillerais de le lui demander.
-
--*who_hortense
-Qui ! Moi, lorsqu'il me suit, je chercherais sa vue !
-
--*who_clorine
-Vous avez tous les deux besoin d'une entrevue.
-
--*who_hortense
-Ce serait trop risquer mon malheureux secret,
-Mon amour vient de prendre un essor indiscret ;
-C'est le dernier.
-
--*who_clorine
-      Mais si d'un air soumis et tendre
-Il vous le rapportait, sans vouloir vous le rendre !
-Pourriez-vous le forcer ?...
-
--*who_hortense
-      Puis-je faire autrement !
-Clorine, il faudrait bien...
-
--*who_clorine
-      Qu'il vienne seulement !
-
-**** *book_ *id_II05 *act_II *date_1737
-
--*who_aramont
-Ah ! Madame, c'est vous ! J'en suis comblé de joie.
-C'est à propos qu'ici la fortune m'envoie
-Pour vous marquer mon zèle et ma discrétion.
-
--*who_hortense
-Je n'ai jamais douté de votre attention.
-
--*who_aramont
-Je viens de ramasser ce portrait ici proche :
-Sans doute qu'il était tombé de votre poche :
-Quelqu'autre moins fidèle aurait pu s'en saisir.
-
--*who_clorine
-Eh bien, quel enragé !
-
--*who_aramont
-      Je me fais un plaisir...
-
--*who_hortense
-Clorine était en peine...
-
--*who_clorine
-      Et la voilà finie.
-Fussiez-vous dans le fond de votre Baronnie !
-
--*who_hortense
-Monsieur, je suis sensible à votre procédé.
-Reprenez ce portrait.
-
-**** *book_ *id_II06 *act_II *date_1737
-
--*who_clorine
-      Cet homme-est possédé.
-
--*who_aramont
-Ouais ! mon petit service est pris en déplaisance !
-
--*who_clorine
-En vous remerciant de votre diligence.
-
--*who_aramont
-Fallait-il le garder afin qu'on le cherchât,
-Et ne pas vous le rendre avant qu'on l'affichât ?
-
--*who_clorine
-J'aurais pu le trouver tout aussi bien qu'un autre.
-
--*who_aramont
-En cela mon bonheur a prévenu le vôtre.
-
--*who_clorine
-Il vaudrait tout autant qu'il eût été perdu.
-
--*who_aramont
-Ma foi, vous avez fait ce que vous avez pu.
-
--*who_clorine
-Donnez, Monsieur, donnez, puisqu'il faut le reprendre.
-Mais ce n'était pas vous qui deviez nous le rendre.
-
-**** *book_ *id_II07 *act_II *date_1737
-
--*who_aramont
-Je serais bien surpris si je n'étais qu'un sot,
-Oui, vraiment, à la fin j'entends à demi-mot.
-Il s'ensuit qu'il fallait d'abord entr'autre chose
-Remettre ce portrait dans les mains de Monrose :
-Et je conclus de-là qu'Hortense a le coeur pris.
-Travaillons là-dessus ; il n'importe à quel prix.
-
-**** *book_ *id_II08 *act_II *date_1737
-
--*who_dornane
-Parbleu, tu nous as fait une belle bévue !
-
--*who_aramont
-Laquelle ?
-
--*who_dornane
-      A ton avis ?
-
--*who_aramont
-      L'aurait-il déjà sue ?
-
--*who_dornane
-Tu prônes l'héritage...
-
--*who_aramont
-      Oui : c'est un tour d'ami.
-
--*who_dornane
-Et que le défunt laisse un argent infini.
-
--*who_aramont
-Sans doute : je l'ai dit en faveur de Monrose.
-Peut-on se maintenir à moins qu'on n'en impose ?
-Par-là, ses créanciers, prêts à fondre sur lui,
-Se sont tranquillisez.
-
--*who_dornane
-      Tu vas voir aujourd'hui
-Que ta finesse aura des suites bien contraires.
-Tous ces coquins mettront le feu dans les affaires.
-Ils savent qu'on les joue : ils vont saisir partout.
-J'ignore si Monrose en pourra voir le bout ;
-Pourvu que son honneur n'en soit pas la victime.
-
--*who_aramont
-Quelle chimère !
-
--*who_dornane
-      Point : ma crainte est légitime.
-Pour être serviable, il faut être prudent.
-On est bien dangereux, quand on est trop ardent.
-J'aimerais cent fois mieux une amitié stérile,
-Que celle qui me nuit, en voulant m'être utile.
-
--*who_aramont
-J'ignorais que mon zèle eut si mal réussi.
-Mais de plus d'un endroit il me revient aussi
-Que le vôtre n'a pas tout le succès possible :
-À Monrose, au contraire, on dit qu'il est nuisible.
-
--*who_dornane
-On dit, fut de tout temps la gazette des sots.
-
--*who_aramont
-C'est le Public.
-
--*who_dornane
-      Ah ! Ah ! Quels sont donc ces propos ?
-
--*who_aramont
-Que Monrose se perd, et que c'est par la faute
-De ceux qui lui font prendre une allure trop haute.
-La Cour trouve mauvais qu'il ait entretenu
-La croyance où l'on est qu'il a tout obtenu.
-
--*who_dornane
-La Cour trouve mauvais !
-
--*who_aramont
-      Voilà ce qui se passe.
-On conseille un ami, sans se mettre à sa place,
-Ce qui fait qu'on le perd, c'est qu'ordinairement
-La vanité, l'humeur, et le tempérament
-Suggèrent la plupart des avis qu'on lui donne.
-Il vaudrait cent fois mieux ne conseiller personne.
-
--*who_dornane
-Nous verrons qui des deux aura le plus de tort.
-Monrose qui survient va nous mettre d'accord.
-
-**** *book_ *id_II09 *act_II *date_1737
-
--*who_dornane
-Le Baron me contait de plaisantes nouvelles.
-
--*who_aramont
-Le Marquis m'en disait qui sont assez cruelles.
-
--*who_monrose
 Je faisais un beau songe ; il faut se réveiller.
 De quels biens à la fois je me vois dépouiller !
 La mort m'enlève un oncle, illustre, et secourable ;
@@ -1381,47 +1027,21 @@ De ses travaux, des miens, de toutes mes dépenses.
 Mon bien ne suffira qu'à peine à m'acquitter.
 Que vais-je devenir ? Il faudra tout quitter.
 
--*who_dornane
-Entendons-nous un peu. Quelle est cette aventure,
-Ou plutôt cette énigme ?
-
--*who_monrose
       Elle n'est point obscure.
 Tout est perdu.
 
--*who_dornane
-      Quel conte ?
-
--*who_monrose
       Oui ; c'est la vérité.
 On vient de me tirer de ma sécurité.
 
--*who_dornane
-Comment ? La Cour aurait !...
-
--*who_monrose
       Il lui plaît de répandre
 Ses grâces sur quelqu'un qui peut mieux y prétendre.
 Elle accorde au plus digne...
 
--*who_dornane
-      Eh ! dis au plus heureux.
-Le nomme-t-on ?
-
--*who_monrose
       Non : mais le fait n'est plus douteux.
 C'est un autre que moi.
 
--*who_dornane
-      N'es-tu point trop crédule ?
-
--*who_monrose
 Mon malheur est certain.
 
--*who_dornane
-      Mais il est ridicule.
-
--*who_monrose
 Ceux que je viens de voir ne m'ont que trop instruit.
 Un autre est désigné. Ce n'est point un faux bruit.
 Ma plus grande infortune en cette conjoncture
@@ -1429,29 +1049,9 @@ Vient d'avoir devancé ma fortune future.
 Comptant sur l'avenir que j'ai trop espéré,
 J'en avais pris l'état ; je me suis obéré.
 
--*who_dornane
-Parbleu, qui ne l'est pas ! Surtout parmi nous autres !
-Messieurs tes créanciers feront comme les nôtres.
-Ils prendront patience. Ils sont faits pour cela.
-Ne va pas, en payant, nous gâter ces gens-là.
-
--*who_aramont
-D'autant plus qu'ils ont fait avec vous leurs affaires.
-
--*who_dornane
-Ils t'auront rançonné : ce sont tous des Corsaires.
-
--*who_monrose
 Quand tout cela serait, j'en ai subi la loi.
 L'on ne me verra point réclamer contre moi.
 
--*who_dornane
-Ah ! si tu veux payer, il faut te laisser faire.
-Mais cela ne conduit à rien ; tout au contraire.
-Ou tu veux t'acquitter par un nouvel emprunt,
-Ou tu comptes beaucoup sur les biens du défunt ?
-
--*who_monrose
 Point du tout, je vous jure : et j'ai tout lieu de croire
 Que mon oncle, après lui, ne laisse que sa gloire.
 Il ne fut jamais riche : et tout ce que l'on dit
@@ -1460,38 +1060,15 @@ Je crois que je pourrai conserver ce Domaine,
 Que vous me connaissez au fond de la Touraine ;
 C'est-là que pour jamais je m'ensevelirai.
 
--*who_dornane
-J'empêcherai ta fuite.
-
--*who_aramont
-      Et moi, je vous suivrai.
-
--*who_monrose
 Le dessein en est pris, et j'y resterai ferme.
 Il faut s'exécuter.
 
--*who_dornane
-      Je n'entends point ce terme.
-
--*who_monrose
 Je veux me libérer.
 
--*who_dornane
-      Te libérer ? Comment ?
-
--*who_monrose
 Pour payer, je vendrai jusqu'à mon Régiment.
 
--*who_dornane
-C'est te couper la gorge.
-
--*who_monrose
       Il le faut bien. Que faire ?
 
--*who_dornane
-Que deviendras-tu ?
-
--*who_monrose
       Rien. Suis-je si nécessaire ?
 Faut-il pour soutenir toujours le même état ?
 À mille malheureux emprunter mon éclat ?
@@ -1500,235 +1077,45 @@ Les forcer de m'aider de leur propre substance,
 Et braver à la fois mes remords et leurs cris ?
 J'aime mieux n'être plus, que de vivre à ce prix.
 
--*who_dornane
-C'est une extrémité fâcheuse, abominable.
-Que diable ! au bout du compte elle n'est pas tenable.
-Je voudrais bien t'aider, mais je ne sais par où.
-Mon fripon d'Intendant dit qu'il n'a pas un sou.
-Mais qu'il en ait, ou non, il faut bien qu'il m'en donne :
-J'ai promis une fête à certaine personne,
-Que j'avais ménagée expressément pour toi.
-De plus, je te dirai... Tu le sais comme moi ;
-Il semble qu'on avait un présage infaillible,
-Qu'aux besoins d'un ami je serais trop sensible.
-On m'a lié les mains : sans quoi... Mais après tout,
-Ne précipitons rien. Il faut voir jusqu'au bout.
-La révolution me paraît un peu prompte.
-Je le saurais. Je vais m'en faire rendre compte.
-C'est encore un faux bruit que l'on aura semé.
-Ne conclus rien avant que j'en sois informé.
-
--*who_monrose
 Tu parais pénétré de mon malheur extrême.
 
--*who_aramont
-Je ne le soutiens pas aussi-bien que vous-même.
-
--*who_monrose
 Il faut s'en consoler.
 
--*who_aramont
-      Que nous veut le Marquis ?
-
--*who_dornane
-Je reviens. Quand j'y pense... Il faut tout mettre au pis.
-Nous vivons dans un siècle où rien n'est impossible ;
-Où, bien loin de servir, le mérite est nuisible.
-Il pourrait arriver que, sans savoir pourquoi,
-La Fortune aurait pris un travers avec toi.
-Tu perdrais à beau jeu. Mais en cas de disgrâce,
-J'entre dans tes raisons, je me mets à ta place.
-Je sens que le dépit justement irrité,
-Ton honneur, en un mot, et la nécessité,
-Malgré tous tes amis, pourraient bien te réduire
-À prendre le parti dont tu viens de m'instruire :
-En ce cas, je propose un accommodement,
-Qui nous arrangerait tous deux également.
-
--*who_monrose
 Parle.
 
--*who_dornane
-      Ton régiment est à ma bienséance.
-Pourrais-je de ta part avoir la préférence ?
-
--*who_monrose
 De tout mon coeur.
 
--*who_aramont
-      Oui : mais vous n'avez point d'argent.
-
--*who_dornane
-Parbleu, j'en trouverai.
-
--*who_aramont
-      Cet homme est obligeant.
-
--*who_dornane
-Pour un si bon usage, on n'est point sans ressources.
-Mes amis m'aideront...
-
--*who_aramont
-      Oui-da.
-
--*who_dornane
-      Si dans leurs bourses
-Je ne trouve pas tout, je ferai mon billet
-Du surplus.
-
--*who_aramont
-      Un billet : je suis votre valet.
-
--*who_monrose
 On peut s'ajuster.
 
--*who_aramont
-      Mal.
-
--*who_monrose
       Je t'en laisse l'arbitre.
 
--*who_dornane
-Je te suis obligé.
-
--*who_aramont
-      Ce serait à bon titre.
-
--*who_dornane
-Puisque nous convenons, mon cher, en attendant,
-Garde-moi le secret, de crainte d'accident.
-
-**** *book_ *id_II10 *act_II *date_1737
-
--*who_aramont
-La proposition me paraît surprenante,
-Et pour trancher le mot, elle est impertinente.
-Quoi ! de votre dépouille il veut s'accommoder,
-Après vous avoir dit qu'il ne peut vous aider ?
-
--*who_monrose
 Je ne vois pas d'où vient cette surprise extrême,
 Dornane ne peut rien pour moi ni pour lui-même,
 Mais quand il s'agira de faire son chemin,
 Sa famille pour lors y donnera la main.
 
--*who_aramont
-Ce marché ridicule aura donc lieu ?
-
--*who_monrose
       Sans doute.
 Puisqu'il faut que je vende. Heureux dans ma déroute
 De pouvoir obliger quelqu'un de mes amis
 C'est le dernier plaisir qui me sera permis !
 
--*who_aramont
-On pourrait s'en passer.
-
--*who_monrose
       Souffre que je te quitte.
 Je voudrais voir Ariste ; et j'y cours au plus vite.
 
-**** *book_ *id_II11 *act_II *date_1737
-
--*who_aramont
-Nous n'avons plus qu'Hortense en cette extrémité.
-Allons hâter le coup que j'ai prémédité ;
-Portons au coeur d'Hortense une atteinte fatale ;
-Faisons-lui redouter une heureuse rivale ;
-Et puisqu'il faut, contre elle, employer ce détour,
-Armons la jalousie en faveur de l'amour.
-
-**** *book_ *id_III01 *act_III *date_1737
-
--*who_ariste
-J'attendrai son retour. Surtout, qu'on l'avertisse,
-Sitôt qu'il rentrera.
-
-**** *book_ *id_III02 *act_III *date_1737
-
--*who_ariste
-      Faut-il que je ne puisse
-Lui dire mon secret ? Monrose est étonnant
-De ne pas voir quel est le péril imminent,
-Où son humeur facile expose sa fortune.
-La remontrance ici deviendrait importune ;
-Et loin de s'éclairer par mes avis secrets,
-Il irait les traduire à ces gens indiscrets,
-À qui sa confiance est un peu trop livrée.
-Oh ! jeunesse, toujours d'elle-même enivrée !
-Monrose est dans ce temps difficile à passer.
-Il faut y suppléer, et ne nous point lasser :
-Du moins j'ai réparé les fautes qu'ils ont faites.
-Quoi qu'il puisse arriver, j'ai mis ordre à ses dettes ;
-Il ne se perdra point.
-
-**** *book_ *id_III03 *act_III *date_1737
-
--*who_ariste
-      Nous nous cherchons tous deux.
-
--*who_monrose
 Oui, je sors de chez vous.
 
--*who_ariste
-      Quel est ce bruit fâcheux ?
-Ce qu'on dit, est-il vrai ? Vous quittez le service ?
-
--*who_monrose
 Je ferai malgré moi ce cruel sacrifice.
 
--*who_ariste
-On vous prendrait au mot.
-
--*who_monrose
       Je vends mon Régiment
 Afin de m'acquitter. Puis-je faire autrement ?
 
--*who_ariste
-Peut-être, rien ne presse encore ; il faut attendre...
-
--*who_monrose
 Attendre.... Quoi, Monsieur ? Qu'ai-je encore à prétendre ?
 C'est d'un autre que moi dont la Cour a fait choix.
 
--*who_ariste
-Savez vous si cet autre accepte ?
-
--*who_monrose
       Ah ! je le crois.
 
--*who_ariste
-Ou vous le supposez. Est-ce une conséquence ?
-On revient quelquefois de plus loin qu'on ne pense.
-Empêchez cependant qu'on n'aille débiter
-À la Cour, et par-tout, que vous voulez quitter.
-Un bruit si ridicule a l'air d'une menace,
-Ou du moins d'un dépit qui n'est pas à sa place.
-
--*who_monrose
 Ce sont mes ennemis...
 
--*who_ariste
-      Non ; ce n'est point eux.
-Il est bien d'autres gens qui sont plus dangereux.
-Ne croyez pas, Monsieur, que je taxe personne
-Dans ces réflexions que je vous abandonne.
-Quand j'y pense, entre nous, je vois présentement
-Que l'amitié se donne et se prend aisément ;
-Elle est, comme l'amour, hasardeuse et légère.
-Une conformité frivole et passagère
-D'âge, d'état, d'humeur, et surtout de plaisir,
-Sans nul autre examen, suffit pour nous saisir.
-Nous nous associons, comme on fait en voyage,
-Sans savoir avec qui le hasard nous engage ;
-Et l'on devient ami comme on devient amant :
-Pour faire une maîtresse, il ne faut qu'un moment :
-Mais l'amitié, du moins comme je l'envisage,
-De part et d'autre exige un long apprentissage ;
-Et vous devez savoir à vos propres dépens,
-Qu'un ami véritable est l'ouvrage du temps.
-
--*who_monrose
 On peut me reprocher quelques moments d'ivresse,
 Trop de facilité, des erreurs de jeunesse ;
 Ma confiance a pu s'égarer quelquefois
@@ -1747,30 +1134,13 @@ Ils s'en sont emparez. S'ils ne sont pas heureux,
 Que voulez-vous ? Du moins, je ne crains avec eux
 Aucune ingratitude, aucune fourberie.
 
--*who_ariste
-Mais ne craignez-vous rien de leur étourderie ?...
-Pardonnez ; je m'échappe ici mal-à-propos :
-C'est, je crois, vous en dire assez en peu de mots.
-Du reste est-il permis de vous parler d'Hortense ?
-
--*who_monrose
 Hélas !
 
--*who_ariste
-      Qu'est-ce ? On soupçonne un peu votre constance.
-Vous ne la voyez plus. D'où vient ce changement ?
-Parlez ; auriez-vous pris quelqu'autre engagement ?
-
--*who_monrose
 Quand la fortune change, et devient si cruelle,
 Le coeur d'un malheureux devrait changer comme elle.
 Ma constance est du moins un secret ignoré.
 Je dévore mes feux, et j'en suis dévoré.
 
--*who_ariste
-Qui peut vous imposer ce pénible silence ?
-
--*who_monrose
 La probité l'exige, et l'intérêt d'Hortense :
 Tous deux font qu'à ses yeux j'ai cessé de m'offrir.
 J'ai craint de l'offenser, j'ai craint de l'attendrir.
@@ -1781,834 +1151,106 @@ Il faut que son amant puisse être son époux.
 Ainsi je dois cesser une vaine poursuite.
 Je n'ai plus que les pleurs, le silence, et la fuite.
 
--*who_ariste
-C'est assez. On me mande ; et je vais à la Cour.
-Peut-être vous verrai-je avant la fin du jour.
-
-**** *book_ *id_III04 *act_III *date_1737
-
--*who_monrose
 Il n'est plus temps ; ses soins ne me serviront guéres.
 
-**** *book_ *id_III05 *act_III *date_1737
-
--*who_clorine
-On vous attend. Ce sont, je crois, des gens d'affaires ;
-Ils en ont bien la mine.
-
--*who_monrose
       Allons, je vais les voir.
 
--*who_clorine
-Le départ de Madame est fixé pour ce soir.
-
--*who_monrose
 Je sais que je lui dois rendre un compte fidèle.
 Dis-lui que je m'occupe à travailler pour elle.
 
-**** *book_ *id_III06 *act_III *date_1737
-
--*who_clorine
-S'il voulait la revoir, il ferait beaucoup mieux.
-Mais la voici qui vient d'achever ses adieux.
-
-**** *book_ *id_III07 *act_III *date_1737
-
--*who_hortense
-Je suis au désespoir ; la méprise est cruelle :
-Comment la réparer ?
-
--*who_clorine
-      Madame quelle est-elle ?
-
--*who_hortense
-Mes gens se sont trompez.
-
--*who_clorine
-      Peut-on savoir en quoi ?
-
--*who_hortense
-J'ai lu, sans y penser, ce qui n'est pas pour moi.
-
--*who_clorine
-Ah ! n'est-ce que cela ? Quitte à brûler la lettre,
-Et ne s'en pas vanter !
-
--*who_hortense
-      Il faut la lui remettre
-Absolument.
-
--*who_clorine
-      Madame, à qui donc, s'il vous plaît ?
-
--*who_hortense
-Et peut-être ai-je lu mon arrêt.
-On finit ses malheurs, s'il veut être sensible :
-Ce billet l'en assure.
-
--*who_clorine
-      Ah ! Serait-il possible ?
-
--*who_hortense
-Des offres qu'on lui fait il peut-être charmé.
-S'il n'est pas inconstant, du moins il est aimé.
-
--*who_clorine
-Oui, c'est un grand attrait.
-
--*who_hortense
-      Hélas ! qu'elle est heureuse
-De pouvoir à son gré se montrer généreuse,
-Et d'employer ainsi !...
-
--*who_clorine
-      Je ne sais ; mais enfin
-Cela sent la beauté qui touche à son déclin.
-
--*who_hortense
-Va trouver Aramont... lui-même. Il faut lui dire
-Que je veux lui parler, avant qu'il se retire.
-
--*who_clorine
-Eh, qu'en voulez-vous faire ? Ah ! si vous l'employez,
-Vous l'allez bien charmer. Mais si vous m'en croyez...
-Vous le voulez charger de rendre cette lettre ?
-
--*who_hortense
-Sans doute.
-
--*who_clorine
-      En quelles mains allez-vous la remettre ?
-
--*who_hortense
-La supprimerait-il ?
-
--*who_clorine
-      Ah ! n'en ayez pas peur.
-D'un bout du monde à l'autre il irait de bon coeur.
-Ils la liront ensemble ; et puis, gare la glose !
-Il fera ses efforts pour pervertir Monrose.
-
--*who_hortense
-Il n'importe.
-
--*who_clorine
-      Madame, il vous sacrifiera.
-
--*who_hortense
-Plus il est son ami, mieux il me servira.
-
--*who_clorine
-Monrose est son idole ; il l'aime ; il l'a vu naître ;
-Son zèle est sa folie ; il n'en est pas le maître.
-
--*who_hortense
-Sais-tu bien que je suis lasse de t'écouter ?
-
-**** *book_ *id_III08 *act_III *date_1737
-
--*who_hortense
-J'ai donc une rivale ? Il n'en faut point douter.
-La preuve que je tiens a de quoi me suffire.
-Je ne suis pas la seule à qui l'amour inspire
-En faveur de Monrose un projet généreux !
-Une autre s'intéresse à son sort malheureux...
-Si nous nous rencontrons dans la même pensée,
-J'ai le secret plaisir de l'avoir devancée...
-Mais on ne revient point... Ah ! que les Valets sont...
-
-**** *book_ *id_III09 *act_III *date_1737
-
--*who_levalet
-J'ai lassé le paquet chez Monsieur Aramont.
-
--*who_hortense
-Avez-vous bien pris garde à ne vous pas méprendre ?
-
--*who_levalet
-Oui. Son Valet de chambre aura soin de le lui rendre.
-
-**** *book_ *id_III10 *act_III *date_1737
-
--*who_hortense
-Qu'ai-je fait ? Quand je veux l'empêcher de périr,
-N'est-ce point un ingrat que je vais secourir ?
-Eh ! dois-je me livrer à cette inquiétude,
-Et le sacrifier à cette incertitude ?
-N'est-ce que l'intérêt qui doit nous émouvoir ?
-Pour être généreuse, a-t-on besoin d'espoir ?
-Employons les moyens qui sont en ma puissance.
-Et qu'il n'en ait jamais la moindre connaissance,
-Il est perdu pour moi. Sauvons le seulement :
-Que ce soit comme ami, si ce n'est comme amant.
-
-**** *book_ *id_III11 *act_III *date_1737
-
--*who_clorine
-On attend Aramont.
-
--*who_hortense
-      A-t-on quelques nouvelles ?
-
--*who_clorine
-Oui, Madame, beaucoup ; et même assez cruelles.
-
--*who_hortense
-Pourrais-je encore avoir de nouvelles douleurs ?
-
--*who_clorine
-Armez-vous de courage ; il est d'autres malheurs...
-Ils vous sont personnels.
-
--*who_hortense
-      Serais-je condamnée
-À passer sous le joug d'un cruel hyménée ?
-Ma fortune sans doute aura tenté quelqu'un,
-Et l'on m'accorde aux voeux d'un amant importun !
-
--*who_clorine
-Vous n'avez plus à craindre aucune violence.
-
--*who_hortense
-S'il est vrai, tu peux rompre un si cruel silence.
-Tu pleures ? Les détours deviennent superflus ; Parle.
-
--*who_clorine
-Vous étiez riche, et vous ne l'êtes plus.
-Cet Oncle de Monrose...
-
--*who_hortense
-      Explique ce mystère.
-
--*who_clorine
-Cet homme qu'on croyait un sûr dépositaire,
-Que votre père avait chargé de votre bien...
-
--*who_hortense
-L'aurait-il dissipé ?
-
--*who_clorine
-      L'on ne retrouve rien ;
-Rien du tout, en un mot.
-
--*who_hortense
-      Mais en es-tu bien sûre ?
-
--*who_clorine
-Hélas ! que trop, Madame ; et je vous en assure.
-À l'instant même on vient de lever le scellé.
-J'ai tout su d'un témoin qui me l'a révélé ;
-Et ce Témoin, Madame, est un des Commissaires.
-
--*who_hortense
-Que dit Monrose ?
-
--*who_clorine
-      Il est avec ces gens d'affaires.
-D'un oeil presque insensible il voyait ses malheurs :
-Les vôtres l'ont atteint des plus vives douleurs.
-On dirait que lui-même il s'en croit responsable :
-Dans son accablement il est méconnaissable :
-Toute sa fermeté se change en désespoir :
-Sans détourner les yeux, il n'a pas pu me voir :
-Il m'a caché des pleurs, que sans doute il dévore ;
-J'en ai versé moi-même ;... Et j'en répands encore.
-
--*who_hortense
-Ah ! c'est trop m'attendrir, et me désespérer.
-
--*who_clorine
-En l'apprenant, j'ai cru que j'allais expirer.
-
--*who_hortense
-Quel bonheur ! j'ai sauvé ce qui m'est nécessaire.
-
--*who_clorine
-Qu'allez-vous devenir ?
-
--*who_hortense
-      Ce sera mon affaire.
-
--*who_clorine
-J'envisage pour vous quelques soulagements
-Qui pourront...
-
--*who_hortense
-      Quels sont-ils ?
-
--*who_clorine
-      Ce sont vos diamants :
-Vous en avez ; ils sont d'un prix considérable.
-Du moins, vous vous ferez un sort moins déplorable.
-
--*who_hortense
-Le Baron par hasard saurait-il mon état ?
-
--*who_clorine
-La nouvelle n'a fait encore aucun éclat.
-Il peut n'en rien savoir.
-
--*who_hortense
-      Si cela pouvait être !
-
--*who_clorine
-Il n'était point ici quand... je le vois paraître.
-
--*who_hortense
-Songe un peu que je pars dans deux heures d'ici.
-
-**** *book_ *id_III12 *act_III *date_1737
-
--*who_aramont
-Voyons donc si ma lettre aura bien réussi.
-
--*who_hortense
-Voici l'instant fatal ; tout mon coeur en frissonne.
-Monsieur, en arrivant, n'avez-vous vu personne ?
-
--*who_aramont
-En entrant, on m'a dit que je devais vous voir ;
-Et je viens m'acquitter de ce premier devoir.
-
--*who_hortense
-Puis-je compter sur vous ?
-
--*who_aramont
-      Tout me sera facile.
-
--*who_hortense
-Je le souhaite.
-
--*who_aramont
-      En quoi puis-je vous être utile ?
-
--*who_hortense
-Avant de m'exposer, il faudrait m'assurer...
-
--*who_aramont
-Choisissez le serment ; je suis prêt à jurer.
-
--*who_hortense
-Le service est unique ; et je vais vous surprendre.
-
--*who_aramont
-Voilà précisément comme j'aime à les rendre.
-
--*who_hortense
-Peut-être pourrez-vous le trouver indiscret.
-Il faut bien du courage, et beaucoup de secret.
-
--*who_aramont
-Je ferai l'impossible. En serez-vous contente ?
-
--*who_hortense
-Vous vous engagez donc à remplir mon attente ?
-
--*who_aramont
-Je m'en fais un plaisir, un devoir, une loi.
-Je vous engage tout, mon honneur, et ma foi.
-Que je sois réputé le plus grand des parjures !...
-
--*who_hortense
-Je vais donc vous donner les preuves les plus sûres
-De l'état que je fais de votre probité.
-Mon coeur va s'épancher avec sécurité.
-Monrose vous est cher ?
-
--*who_aramont
-      Beaucoup plus que moi-même.
-
--*who_hortense
-Je vous crois trop sensible à son malheur extrême,
-Pour craindre de vous mettre avec moi de moitié,
-
--*who_aramont
-Sûrement.
-
--*who_hortense
-      Unissons... l'amour et l'amitié.
-Cachez-moi la surprise où ce discours vous jette.
-Votre ami va périr. Je sais ce qu'il projette.
-Puisque le sort s'obstine à le persécuter,
-Vous ne l'ignorez pas, il va s'exécuter.
-S'il vend son Régiment, sa perte est infaillible :
-Il met à sa fortune un obstacle invincible.
-
--*who_aramont
-Il est vrai ; son dessein est de quitter la Cour :
-Son malheur l'y contraint ; ce sera sans retour.
-Que ne puis-je empêcher ce cruel sacrifice !
-Ma fortune, mes biens, seraient à son service ;
-Je saurais employer des moyens détournez :
-Mais malheureusement mes pouvoirs sont bornez.
-
--*who_hortense
-Oserais-je vous prendre à vos propres paroles ?
-
--*who_aramont
-Je ne fais point ici des avances frivoles ;
-Et je voudrais pouvoir me vendre, où m'engager.
-Je n'ai qu'un revenu modique et viager ;
-C'est à quoi me réduit la fortune cruelle.
-Pour la première fois je murmure contre elle.
-Les malheurs d'un ami me font sentir les miens.
-
--*who_hortense
-Si quelqu'un par hasard vous offrait des moyens !...
-
--*who_aramont
-Je les saisirais tous : mais, hélas ! Qui sera-ce ?
-
--*who_hortense
-Moi-même.
-
--*who_aramont
-      Vous, Madame ?... Ah ! ah ! ceci me passe.
-
--*who_hortense
-Ne pourrais-je être aussi généreuse que vous ?
-Avez-vous des vertus qui ne soient pas pour nous ?
-
--*who_aramont
-Je sais qu'il n'en est point qui ne vous soit commune ;
-Mais avec tout cela, Madame, il en est une
-Que l'on n'a point laissée à votre liberté :
-C'est malheureusement la générosité :
-Quoique vous jouissiez d'un bien considérable,
-Vous ne pouvez en rien nous être secourable.
-
--*who_hortense
-Mais si par un hasard je le pouvais !... Hé bien ?
-
--*who_aramont
-Un si, rend tout possible, et ne conduit à rien.
-
--*who_hortense
-Peut-être.
-
--*who_aramont
-      Eh non. Les lois, votre sexe, votre âge,
-Vous mettant hors d'état...
-
--*who_hortense
-      Je sais notre esclavage.
-Si vous voulez pourtant ne vous pas opposer...
-J'ai quelque superflu dont je puis disposer.
-
--*who_aramont
-Comment ?
-
--*who_hortense
-      C'est peu de chose : et toutefois j'espère
-Que ce secours pourrait, du moins...
-
--*who_aramont
-      Quelle chimère !
-
-**** *book_ *id_III13 *act_III *date_1737
-
--*who_clorine
-Ah ! Madame... Monsieur, excusez, s'il vous plaît.
-Je suis toute saisie...
-
--*who_hortense
-      Eh bien, qu'est-ce que c'est ?
-
--*who_clorine
-Tout est perdu.
-
--*who_hortense
-      Quoi donc ?
-
--*who_clorine
-      Ce sont vos pierreries...
-
--*who_hortense
-Clorine, parle bas.
-
--*who_clorine
-      Qui sont évanouies :
-Je viens de les chercher, mais inutilement ;
-Et vous êtes volée... indubitablement.
-
--*who_hortense
-Que veux-tu que j'y fasse ?
-
--*who_clorine
-      Eh, comment donc, Madame ?
-Ne savez-vous pas bien que cela le réclame ?
-
--*who_hortense
-Ce n'en est pas la peine.
-
--*who_clorine
-      Ah ! vous me confondez.
-
--*who_hortense
-Taisez-vous.
-
--*who_clorine
-      Je ne sais comment vous l'entendez...
-Mais je ne comprends rien à cette politique.
-J'entrevois du mystère ici.
-
--*who_hortense
-      Point de réplique.
-Sortez ; retirez-vous.
-
-**** *book_ *id_III14 *act_III *date_1737
-
--*who_aramont
-      Me serais-je mépris ?
-Ce sont vos diamants qui vous ont été pris ?
-Permettez ; je m'en vais chez tous les lapidaires,
-Leur donner sur ce vol les avis nécessaires :
-Il faut entre leurs mains arrêter ces bijoux.
-
--*who_hortense
-Épargnez-vous ce soin, Monsieur ; ils sont chez vous.
-
--*who_aramont
-Chez moi ?
-
--*who_hortense
-      Je les ai fait porter, sans vous l'apprendre.
-Je craignais vos refus ; et j'ai du vous surprendre.
-
--*who_aramont
-Vous me l'aviez bien dit.
-
--*who_hortense
-      Enfin j'ai vos serments,
-Songez à satisfaire à vos engagements.
-Le salut de Monrose est en votre puissance.
-
--*who_aramont
-Ah ! C'est trop exiger de mon obéissance.
-
--*who_hortense
-Son sort est dans vos mains, et vous en répondez :
-Vous nous sauvez tous trois, si vous me secondez.
-
--*who_aramont
-Oh ! parbleu, serviteur.
-
--*who_hortense
-      Quelle froideur funeste ?
-Cette faible ressource est tout ce qui nous reste.
-
--*who_aramont
-Cessez de me séduire.
-
--*who_hortense
-      Eh quoi ! vous hésitez ?
-Puis-je mieux employer ces superfluités !
-Qui ne seraient pour moi qu'une charge importune !
-N'aurait-il pas joui de toute ma fortune ?
-
--*who_aramont
-Il l'aurait partagée.
-
--*who_hortense
-      Eh ! Peut-on me blâmer ?
-C'est un infortuné que l'on m'a fait aimer...
-C'est l'ami le plus cher que vous ayez au monde ;
-C'est sur vous à présent que notre espoir se fonde ;
-Par-là vous détournez son plus pressant malheur ;
-Et bientôt il devra le reste à sa valeur.
-
--*who_aramont
-Ce serait le moyen de lui sauver la vie.
-
--*who_hortense
-Hé bien, sauvez-le donc.
-
--*who_aramont
-      J'en aurais bien envie.
-Mais si par un malheur que je ne puis prévoir,
-Monrose, quelque jour, venait à le savoir,
-Comptez qu'il en aurait une douleur amère,
-Et qu'il m'accablerait de toute sa colère.
-Je le connais, Madame ; il serait furieux.
-
--*who_hortense
-Mais il serait sauvé. Lequel aimez-vous mieux ?
-Son courroux est-il plus à craindre que sa perte ?
-Comment en ferait-il la moindre découverte ?
-Il ne peut le savoir que de vous, ou de moi.
-Ainsi bannissez donc un ridicule effroi.
-Comptez sur mon secret ; je compte sur le vôtre.
-
--*who_aramont
-Ô sexe, toujours sûr de triompher du nôtre !
-L'action est si belle...
-
--*who_hortense
-      Ah ! J'éprouve en ce jour,
-Que l'amitié n'est pas moins tendre que l'amour.
-Allez ; que votre zèle ait une heureuse suite !
-De tous ces créanciers empêchez la poursuite.
-Ce n'est pas tout.
-
--*who_aramont
-      Encore ?
-
--*who_hortense
-      Oui ; j'exige de vous
-Un service moins grand, mais peut-être plus doux.
-Rendez-lui ce billet, qui s'adresse à lui-même :
-Il peut-être pour lui d'une importance extrême.
-
-**** *book_ *id_III15 *act_III *date_1737
-
--*who_monrose
 Je te cherche... Que vois-je ? Hortense ? Ah ! si je puis,
 Cachons-lui sa ruine, et l'état où je suis.
 
--*who_hortense
-J'ai pris à vos malheurs la part qu'on y doit prendre.
-
--*who_monrose
 Vous les adoucissez, en daignant me l'apprendre.
 Continuez un soin qui m'est si précieux.
 Madame, je comptais ne m'offrir à vos yeux,
 Qu'après avoir donné quelque ordre à vos affaires.
 Je m'occupais des soins qui vous sont nécessaires.
 
--*who_hortense
-Monsieur, occupez-vous d'un objet plus pressant.
-Ne nous direz-vous rien de plus intéressant ?
-
--*who_monrose
 Je me trouve garant de votre destinée ;
 Et je compte qu'avant la fin de la journée...
 
--*who_hortense
-N'avez-vous plus d'espoir du côté de la Cour ?
-La fortune cruelle est-elle sans retour ?
-
--*who_monrose
 Ce serait me flatter contre toute apparence.
 J'ai reçu mon arrêt avec indifférence.
 Le sort peut à présent multiplier ses coups :
 Les maux dont on me plaint sont les moindres de tous.
 
--*who_hortense
-Mais d'un si grand malheur quelle sera la suite ?
-
--*who_monrose
 Si de mon avenir vous daignez être instruite,
 J'irai traîner ailleurs le reste de mes jours :
 Du moins aucun remords n'en troublera le cours.
 Un tendre souvenir me tiendra lieu du reste.
 
--*who_hortense
-On voudrait détourner cet avenir funeste...
-Monsieur, vous n'êtes pas si fort abandonné...
-À des voeux impuissants l'on ne s'est pas borné...
-Si le sort vous poursuit...
-      Ô Ciel ! que vais-je faire ?
-Vous verrez que l'amour ne vous est pas contraire.
-Tenez...
-      Ma fermeté commence à succomber.
-Lisez...
-      À ses regards il faut me dérober.
-
-**** *book_ *id_III16 *act_III *date_1737
-
--*who_monrose
 Hortense se déclare.
 
--*who_aramont
-      On se lasse de feindre ;
-On vous aime.
-
--*who_monrose
       Voilà ce que j'avais à craindre.
 
--*who_aramont
-À craindre ? Votre coeur n'en est-il plus charmé ?
-
--*who_monrose
 Ne me parle jamais d'aimer, ni d'être aimé.
 
--*who_aramont
-Bon !
-
--*who_monrose
       Il ne manquait plus à cette infortunée
 Qu'un malheureux amour. Ah, quelle destinée !
 
--*who_aramont
-Quel changement est-il arrivé dans son coeur ?
-
--*who_monrose
 Si je veux renoncer à tout autre vainqueur,
 Elle offre... Ah ! je succombe à son malheur extrême.
 Vois comme elle m'écrit.
 
--*who_aramont
-      Eh ! Morbleu, c'est le même !
-
--*who_monrose
 Ce billet-là t'étonne ?
 
--*who_aramont
-      Il n'aurait jamais dû
-Tomber entre vos mains ; et j'en suis confondu.
-
--*who_monrose
 Eh, quand elle pourrait régler son hyménée,
 Que ferait-elle, hélas ! puisqu'elle est ruinée ?
 
--*who_aramont
-Elle est ruinée ?
-
--*who_monrose
       Oui.
 
--*who_aramont
-      Je suis désespéré.
-Tout de bon ?
-
--*who_monrose
       C'est un fait.
 
--*who_aramont
-      J'ai fort bien opéré.
-
--*who_monrose
 Je vois que tu la plains !
 
--*who_aramont
-      Point du tout, je me loue !
-Ah ! S'il savait le reste !
-
--*who_monrose
       Il faut que je l'avoue,
 Je ne reconnais guère Hortense à cet éclat.
 
--*who_aramont
-Pourquoi ne m'avoir pas instruit de son état ?
-
--*who_monrose
 Cher ami, le savais-je ? On vient de me confondre,
 
--*who_aramont
-Et moi, de même.
-
--*who_monrose
       Il faut cependant lui répondre.
 
--*who_aramont
-En voici la réponse. Il n'y faut plus penser.
-
--*who_monrose
 Je n'imagine pas pouvoir m'en dispenser.
 Faut-il que je l'abuse, ou que je la méprise ?
 Je ne puis.
 
--*who_aramont
-      Il faut donc avouer ma sottise.
-Si ce billet vous cause un si grand embarras,
-On peut vous en tirer.
-
--*who_monrose
       Que tu m'obligeras !
 
--*who_aramont
-Se déclarer un sot, est un grand sacrifice.
-
--*who_monrose
 Ne me refuse pas un aussi bon office.
 
--*who_aramont
-Vous vous tourmentez fort, vous vous creusez l'esprit
-Pour faire une réponse à ce maudit écrit ;
-Il n'en faut point.
-
--*who_monrose
       Pourquoi ?
 
--*who_aramont
-      Non, vous dis-je ; et pour cause.
-Il n'est point d'elle.
-
--*who_monrose
       Il n'est ?...
 
--*who_aramont
-      Oui ; j'en sais quelque chose.
-
--*who_monrose
 Il n'est point d'elle ?... Eh ; mais elle me l'a donné.
 N'en es-tu pas témoin ?
 
--*who_aramont
-      J'en suis fort étonné.
-Les femmes vont toujours plus loin que l'on ne pense,
-Et que l'on ne voudrait. J'ai fait une imprudence...
-
--*who_monrose
 Est-il d'une autre ?
 
--*who_aramont
-      Non.
-
--*who_monrose
       De grâce, explique-toi.
 
--*who_aramont
-Tempêtez, fulminez ; que diable ! il est de moi.
-
--*who_monrose
 De toi ?
 
--*who_aramont
-      Vous l'avez dit ?
-
--*who_monrose
       Quelle est ta frénésie ?
 
--*who_aramont
-Je voulais lui donner un peu de jalousie
-Pour tirer son secret. C'est un petit secours
-Que j'avais employé pour aider vos amours.
-
--*who_monrose
 Quelle fureur as-tu de signaler ton zèle ?
 Que sais-tu si je veux qu'on me serve auprès d'elle
 T'ai-je employé pour être éclairci de mon sort ?
 
--*who_aramont
-Eh ! n'est-on pas assez puni quand on a tort ?
-
--*who_monrose
 Ce serait à présent contre toute apparence
 Que je pourrais douter de son indifférence.
 Hortense vient de faire éclater son mépris.
 
--*who_aramont
-Oui.
-
--*who_monrose
       Si du moindre amour son coeur était épris,
 Elle aurait supprimé cette lettre fatale,
 Que sans doute elle a dû croire d'une rivale.
 
--*who_aramont
-Une amante ordinaire eut commencé par-là.
-
--*who_monrose
 C'est un malheur de moins. Mais laissons tout cela,
 Et songeons à l'état de cette infortunée,
 Que, je ne sais comment, mon oncle a ruinée.
 Je tenais tout de lui ; je n'avais presque rien.
 
--*who_aramont
-Il est vrai.
-
--*who_monrose
       Jusqu'ici j'ai vécu sur son bien ;
 J'ai jusques à sa mort surchargé sa dépense :
 Ainsi j'ai partagé les dépouilles d'Hortense.
@@ -2617,286 +1259,35 @@ Autant que je pourrai, je dois, et je prétends
 Réparer en secret des pertes aussi grandes.
 Il me reste une Terre. Il faut que tu la vendes.
 
--*who_aramont
-Eh ! ne vous chargez point de semblables remords.
-S'il fallait réparer les sottises des morts,
-Ma foi, leurs héritiers n'y pourraient pas suffire,
-Ce n'est pas votre faute : on n'a rien à vous dire.
-
--*who_monrose
 L'honnête homme ne doit s'en rapporter qu'à lui :
 Il se juge lui-même ; et jamais par autrui :
 Sitôt qu'il se condamne, on ne saurait l'absoudre.
 En un mot, je le veux.
 
--*who_aramont
-      Mais...
-
--*who_monrose
       Il faut t'y résoudre.
 Tiens ; voilà...
 
--*who_aramont
-      Qu'est-ceci ?
-
--*who_monrose
       Ma procuration.
 
--*who_aramont
-Doucement ; s'il vous plaît.
-
--*who_monrose
       Point d'obstination ;
 L'affaire presse. Avant que sa ruine éclate,
 Va, cours, vends à tout prix.
 
--*who_aramont
-      Ma foi, non.
-
--*who_monrose
       Je m'en flatte.
 
--*who_aramont
-À tort.
-
--*who_monrose
       Épargne-toi d'inutiles refus.
 
--*who_aramont
-Mais, vous dis-je...
-
--*who_monrose
       Je fuis ; je ne t'écoute plus.
 
-**** *book_ *id_III17 *act_III *date_1737
-
--*who_aramont
-Monrose, écoutez donc... Il est bien loin.
-Que faire ? C'est à vous, mon esprit, à me tirer d'affaire.
-Vous avez à combattre, en ce moment fâcheux,
-La probité, l'amour, et le diable avec eux.
-
-**** *book_ *id_IV01 *act_IV *date_1737
-
--*who_aramont
-Puis-je obtenir d'Hortense un moment d'audience ?
-
--*who_clorine
-Madame va venir ; donnez-vous patience.
-
--*who_aramont
-Clorine a le coeur triste, à ce qui me paraît ?
-
--*who_clorine
-Vous êtes pénétrant.
-
--*who_aramont
-      Ah ! je vois ce que c'est.
-Vous comptiez suivre Hortense au Couvent ; mais sa tante
-Avec impolitesse a frustré votre attente
-Par un sot compliment.
-
--*who_clorine
-      Pareil à vos discours.
-
--*who_aramont
-Où diable vouliez-vous achever vos beaux jours ?
-Dans les ennuis forcez d'une triste clôture,
-Vous, dont l'esprit actif, toujours à la torture,
-Pétille dans un corps de salpêtre et de feu ?
-D'ailleurs, si vous voulez, vous m'en ferez l'aveu ;
-Mais, à proportion, vous êtes mieux qu'Hortense.
-
--*who_clorine
-Vous y mettez bon ordre.
-
--*who_aramont
-      Et dans sa décadence
-Elle ne peut vous faire aucun bien désormais.
-
--*who_clorine
-Il me reste à gagner les biens qu'elle m'a faits.
-
--*who_aramont
-Clorine est héroïque !
-
--*who_clorine
-      Et vous ne l'êtes guère.
-Je voudrais me charger de toute sa misère.
-Que ne puis-je ?... Du moins, je ne suis pas de ceux,
-Qui savent abuser d'un coeur trop généreux.
-
--*who_aramont
-Écoute, mon enfant. Je vois qu'auprès d'Hortense
-Il faut que je te serve.
-
--*who_clorine
-      Ah ! je vous en dispense.
-
--*who_aramont
-Tu n'as jamais voulu me croire propre à rien ;
-Mais je veux t'en punir, en te faisant du bien.
-
--*who_clorine
-Non, Monsieur, s'il vous plaît.
-
--*who_aramont
-      Parbleu, Mademoiselle,
-Ce sera malgré vous... Mais je la vois ; c'est elle.
-
--*who_clorine
-Moi, je vais vous servir de la bonne façon.
-
--*who_aramont
-Cette fille paroît avoir quelque soupçon.
-
-**** *book_ *id_IV02 *act_IV *date_1737
-
--*who_hortense
-Vous m'apportiez, sans doute, une heureuse nouvelle ?
-Mon coeur impatient volait au devant d'elle.
-
--*who_aramont
-Oui-da.
-
--*who_hortense
-      N'êtes-vous pas notre libérateur ?
-
--*who_aramont
-Vous me donnez, Madame, un titre trop flatteur.
-
--*who_hortense
-Ne vous est-il pas dû ?
-
--*who_aramont
-      Que le Ciel m'en préserve ?
-
--*who_hortense
-D'où vient cet embarras ? Quelle est cette réserve ?
-Avez-vous fait usage ?...
-
--*who_aramont
-      Ils sont toujours chez moi :
-Et mon dessein n'est pas d'en faire aucun emploi.
-
--*who_hortense
-Que dites-vous, Monsieur ? Ô Ciel ! est-il croyable ?
-Est-ce donc-là cet homme utile et serviable ?
-Je le trouve en défaut quand j'ai besoin de lui !
-Vous vous démentez donc pour moi seule aujourd'hui ?
-
--*who_aramont
-Monrose m'est bien cher : mais je suis incapable
-De le servir ainsi. Je serais trop coupable.
-
--*who_hortense
-Eh ! Le serez-vous moins en le laissant périr ?
-
--*who_aramont
-Je voudrais, autrement, le pouvoir secourir.
-
--*who_hortense
-Vous prétendez l'aimer ?
-
--*who_aramont
-      Autant qu'il est possible.
-
--*who_hortense
-Ne vous en vantez plus... Serez-vous inflexible ?
-
--*who_aramont
-Ce n'est pas sans raison. Eh ! Madame en effet,
-Pouviez-vous recueillir le fruit de ce bienfait ?
-La gloire que mérite une action si belle,
-Devait s'ensevelir et se perdre avec elle.
-Vous ne pouviez passer pour en être l'auteur.
-
--*who_hortense
-Toute ma récompense est au fond de mon coeur.
-La générosité n'en veut pas davantage.
-
--*who_aramont
-L'intention suffit.
-
--*who_hortense
-      Eh ! quel est ce langage ?
-En périra-t-il moins ? Nous connaissons ses biens.
-Que peut faire un guerrier, borné dans ses moyens ?
-Il languit, s'il ne tient un état honorable ;
-Sa valeur n'est jamais dans un jour favorable.
-La gloire coûte cher à qui veut l'acquérir :
-Il la faut acheter ; il la faut conquérir.
-Et malheureusement (puisqu'il faut vous le dire)
-Le courage tout seul n'a pas de quoi suffire.
-Vous l'avez éprouvé.
-
--*who_aramont
-      Pour le faire briller.
-Du reste de vos biens faut-il vous dépouiller ?
-Songez à vous, Madame.
-      Il faut que je m'en tire.
-Vous êtes ruinée. Il est bon de vous dire
-Que vous n'avez plus rien que ces faibles débris.
-
--*who_hortense
-S'il est vrai, mon désastre y met un nouveau prix.
-L'usage que j'en fais me tient lieu de fortune.
-Mais quelle prévoyance, un peu trop importune,
-En cette occasion vous révolte si fort ?
-Un peu plus, un peu moins, ne fait rien à mon sort.
-
--*who_aramont
-Pour qui conservez-vous un intérêt si tendre ?
-Savez-vous seulement si ?...
-
--*who_hortense
-      C'est me faire entendre
-Que Monrose peut-être adresse ailleurs ses voeux.
-
--*who_aramont
-Jusqu'ici, vous avez si peu flatté ses feux...
-
--*who_hortense
-Eh ! ne vous chargez point d'excuser ce que j'aime :
-Je saurai mieux que vous m'en acquitter moi-même,
-Je lui pardonne tout pourvu qu'il soit heureux :
-Son bonheur me suffit, c'est tout ce que je veux.
-Et j'y dois concourir autant qu'il m'est possible.
-Pour trancher, en un mot, je demeure inflexible ;
-Vous ne me ferez point reprendre ce dépôt.
-Je désavouerai tout ; et je nierai plutôt...
-Au surplus, vous avez le secret de ma vie :
-Disposez-en, Monsieur, au gré de votre envie ;
-Voyez, quand je descends jusqu'à vous implorer,
-Si vous voulez me perdre, et vous déshonorer.
-
-**** *book_ *id_IV03 *act_IV *date_1737
-
--*who_aramont
-Oh ! parbleu, serviteur. Pour moi, je m'en désiste.
-Je remettrai le tout entre les mains d'Ariste.
-Allons...
-
-**** *book_ *id_IV04 *act_IV *date_1737
-
--*who_monrose
       Arrête. Un mot. Daigne un peu m'éclaircir.
 Tu me vois furieux. On vient de te noircir
 D'une accusation que je crois téméraire.
 Il me serait cruel de trouver le contraire.
 Clorine...
 
--*who_aramont
-      Ah ! C'en est fait.
-
--*who_monrose
       Vient de me confier
 Un mystère affreux. Songe à te justifier.
 
--*who_aramont
-Cette fille m'en veut.
-
--*who_monrose
       Ce n'est pas là répondre.
 Ne récrimine point, si tu veux la confondre.
 Cette fille fait plus que de te soupçonner.
@@ -2906,28 +1297,13 @@ Les aurais-tu reçus ? Parle, je t'en conjure.
 Tu conviens de ta faute, en n'osant la nier.
 Il ne s'agit donc plus que d'y remédier.
 
-**** *book_ *id_IV05 *act_IV *date_1737
-
--*who_levalet
-Monsieur, un étranger m'a chargé de vous rendre
-Ce paquet-là.
-
--*who_monrose
       Sachons ce que l'on veut m'apprendre.
 Que vois-je ? Mes billets qui me sont renvoyez !
 Oui, vraiment, ce sont eux ; ils se trouvent payez !
 
--*who_aramont
-Tant mieux.
-
--*who_monrose
       Ah, malheureux, c'est donc-là ton ouvrage ?
 Qu'elle indigne ressource as-tu mise en usage ?
 
--*who_aramont
-Aucune.
-
--*who_monrose
       À quel complot as tu prêté la main ?
 Il faut avoir un coeur bien dur, bien inhumain.
 J'aurais donné mon sang pour cette infortunée,
@@ -2936,182 +1312,48 @@ Tu connais sa ruine, et tu vas l'achever !
 Ah ! c'est m'assassiner, en voulant me sauver,
 Impitoyable ami, barbare que vous êtes !
 
--*who_aramont
-Est-ce ma faute, à moi, si l'on paye vos dettes ?
-J'ignore à qui l'on doit imputer ce bienfait :
-Mais je n'ai point de part au tour que l'on vous fait.
-Il est bien vrai qu'Hortense a voulu me séduire.
-Puisqu'enfin l'on m'y force, il faut vous en instruire.
-Elle avait fait porter chez moi ses diamants :
-Ils y sont : venez-y ; vous verrez si je mens.
-
--*who_monrose
 Ils y sont ? Et pourquoi ? Ne pouviez-vous les rendre ?
 
--*who_aramont
-Eh que diable ! ai-je pu les lui faire reprendre ?
-Ce que veut une femme est écrit dans le Ciel.
-Enfin, j'ai tenu bon : voilà l'essentiel.
-J'ai fait ce que j'ai pu contre cette obstinée,
-Jusqu'à lui découvrir qu'elle était ruinée.
-
--*who_monrose
 Nous étions convenus que tu n'en dirais rien,
 Puisque j'ai résolu d'y suppléer du mien.
 
--*who_aramont
-Elle a, fans sourciller, appris cette nouvelle.
-Alors, pour votre honneur, et par pitié pour elle,
-J'ai cru que je devais lui dire franchement
-Qu'elle n'est plus l'objet de votre attachement.
-
--*who_monrose
 Moi, je ne l'aime plus ! Moi, je suis infidèle !
 
--*who_aramont
-N'avez-vous pas rompu cette chaîne cruelle ?
-Je l'ai cru.
-
--*who_monrose
       Non ; jamais je n'en eus le dessein.
 Hélas ! c'est lui porter un poignard dans le sein.
 
--*who_aramont
-C'est pour son bien. Ma foi, j'ai cru faire merveilles.
-
--*who_monrose
 Ne me propose point des excuses pareilles...
 Mais à qui dois-je donc imputer ce bienfait ?
 
-**** *book_ *id_IV06 *act_IV *date_1737
-
--*who_dornane
-Tu grondes le Baron ! C'est toujours fort bien fait.
-Pardonne, si je viens troubler la vespérie.
-Sais-tu ce qui m'arrive ? Écoute, je te prie...
-Je n'en puis revenir. C'est pour ton régiment.
-Je pouvais me flatter d'en avoir l'agrément.
-Je vais chez qui tu sais en faire la poursuite.
-Je me nomme ; on m'annonce ; et j'entre tout de suite.
-Il me voit ; il se lève ; et d'un air prévenant
-Il m'embrasse, et me fait un accueil surprenant.
-Je le tire à quartier ; je lui fais ma semonce :
-Mon homme alors se trouble ; et voici sa réponse.
-"Je suis au désespoir (je crois qu'il disait vrai)
-Vous êtes malheureux pour votre coup d'essai."
-Bref, avec des discours à peu près de la sorte,
-Il s'est acheminé du côté de la porte.
-Nous nous sommes quittez. Ariste a manoeuvré :
-Il venait d'en sortir, lorsque je suis entré.
-Nous aurions fait ensemble une assez bonne affaire ;
-Car j'aurais rassemblé tout l'argent nécessaire :
-Mais enfin, je te rends ta parole.
-
--*who_aramont
-      Tant mieux.
-Il s'agit d'un service un peu plus sérieux.
-
--*who_monrose
 Il est vrai ; l'aventure est presque inconcevable.
 Dis-moi si c'est à toi que je suis redevable
 D'un service récent...
 
--*who_dornane
-      Ma foi, peut-être bien ;
-Car je sers tant de gens sans que j'en sache rien...
-
--*who_monrose
 Je viens de recevoir fous une simple adresse
 Tous mes billets.
 
--*who_dornane
-      Que t'a renvoyez ta maîtresse ?
-
--*who_monrose
 Non : mes créanciers.
 
--*who_dornane
-      Bon.
-
--*who_monrose
       Oui, te dis-je ; à l'instant.
 
--*who_dornane
-Je voudrais que les miens en pussent faire autant.
-
--*who_monrose
 Tu n'en devrais pas moins. Tout ce qui m'embarrasse,
 C'est de savoir celui qui s'est mis à leur place.
 Quelqu'un les a payez pour moi.
 
--*who_aramont
-      Sans contredit.
-
--*who_monrose
 Marquis, n'est-ce pas toi ?
 
--*who_dornane
-      Moi ! je te l'aurais dit.
-
--*who_monrose
 Quoi, véritablement ?
 
--*who_dornane
-      Non, parbleu, je te jure.
-
--*who_aramont
-Tu le prends pour un autre ; et c'est lui faire injure.
-
--*who_monrose
 Serait-ce le Baron ?
 
--*who_aramont
-      Si j'étais dans le cas,
-Ce serait un secret que je n'avouerais pas.
-
--*who_monrose
 Serait-ce Ariste ?
 
--*who_dornane
-      Ariste... Il mérite à merveille
-Qu'on mette sur son compte une action pareille.
-
--*who_monrose
 Tu l'en crois incapable ? Il n'est pas de ton goût.
 
--*who_dornane
-Ma foi, je crois qu'Ariste est capable de tout.
-Apprends où t'a conduit une erreur trop durable.
-Cet homme vertueux, ce sage inaltérable,
-Toujours pur au milieu d'un air empoisonné,
-Qui paraissait avoir acquis et moissonné
-De nouvelles vertus où l'on n'a que des vices ;
-Ce rare Courtisan, fameux par ses services,
-Dont tout autre que lui se serait prévalu,
-Qui pouvant être tout ce qu'il aurait voulu...
-
--*who_monrose
 Tu parais ironique !
 
--*who_dornane
-      Il faut cesser de l'être.
-Ce grave personnage, Ariste n'est qu'un traître ;
-C'est lui qui te dépouille ; il a tout envahi.
-
--*who_monrose
 Cela ne se peut pas.
 
--*who_aramont
-      Ariste l'a trahi ?
-
--*who_dornane
-Lui-même, il a commis une action si basse.
-Va le féliciter, te dis-je ; il est en place.
-Au moment que je parle, entouré de flatteurs.
-Le coupable et son crime ont des Adulateurs
-Eh bien ! Que penses-tu d'un tour de cette espèce ?
-
--*who_monrose
 Ah ! daignez-vous prêter à ma délicatesse.
 Je l'ai trop estimé pour ne pas l'excuser.
 Que savons-nous ? Sans doute il n'a pu refuser.
@@ -3120,70 +1362,13 @@ C'était des biens vacants, des grâces à répandre :
 Ariste en était digne ; il en est revêtu ;
 Et la Cour a du moins décoré la vertu.
 
--*who_dornane
-La vertu ! c'est un fourbe, et je ne puis m'en taire.
-Mais s'il t'avait servi, comme il aurait dû faire,
-Et comme j'eusse fait ; en parlerais-tu mieux ?
-Rends-lui justice : va, c'est un monstre odieux.
-Voilà mon dernier mot. Je le lui dirais en face,
-Et je l'afficherais... Si j'étais à ta place,
-Nous nous verrions de près.
-
--*who_aramont
-      L'avis est assez doux.
-
--*who_dornane
-Je n'écouterais plus qu'un trop juste courroux ;
-Du haut de sa grandeur je le ferais descendre ;
-Ou je le forcerais du moins à la défendre.
-
--*who_aramont
-Par ma foi, ce serait des exploits mal placés.
-Son déshonneur nous verge, et le punit assez.
-
--*who_dornane
-Et sur ce faible espoir sa vengeance se fonde ?
-Se déshonore-t-on maintenant dans le monde ?
-Voit on que cette crainte alarme bien des gens ?
-N'en soyons point surpris. Nous sommes indulgents.
-Grâce à cette ressource un peu trop éprouvée,
-Le plus vil des Mortels va la tête levée.
-Nous laissons, parmi nous, habiter des proscrits :
-Bientôt leur impudence épuise nos mépris ;
-Et nous avons enfin la basse politesse
-De jouir avec eux de leur scélératesse.
-Ariste y peut compter : et peut-être, à mon tour,
-Serai-je un jour forcé de lui faire ma cour.
-
--*who_aramont
-Non pas moi, sûrement.
-
--*who_monrose
       Ce dénouement m'étonne ? Ariste...
 Ah ! c'en est fait... Puisque tout m'abandonne,
 Va, j'ai pris mon parti.
 
--*who_dornane
-      C'est assez... je t'entends :
-Et j'ose me flatter que nous serons contents.
-Je m'en vais à la Cour savoir ce qui s'y passe ;
-Et je te l'écrirai. Serviteur ; je t'embrasse.
-
-**** *book_ *id_IV07 *act_IV *date_1737
-
--*who_monrose
 Voilà donc mon Arrêt ! Espoir, Fortune, Amour,
 Vous ne m'êtes plus rien : je perds tout en un jour.
 
--*who_aramont
-Le coup dont tu gémis est celui qui m'accable.
-Viens, cher ami ; fuyons un siècle trop coupable ;
-Sous un Ciel étranger allons vivre pour nous ;
-Pourvu que je te suive, il me sera trop doux.
-De ma faible fortune accepte le partage.
-Que ne m'est-il permis de t'offrir davantage !
-
--*who_monrose
 Hélas ! Je puis devoir beaucoup plus à tes soins.
 Écoute ; je suis quitte ; et je n'en dois pas moins
 À l'auteur inconnu d'un aussi grand service.
@@ -3207,86 +1392,10 @@ Si tu crains de souiller ton honneur et ma gloire,
 À tel prix que ce soit, remets-lui ses bienfaits :
 Alors j'accepterai l'offre que tu me fais.
 
-**** *book_ *id_IV08 *act_IV *date_1737
-
--*who_clorine
-Si vous avez un mot à dire à ma Maîtresse,
-Je viens vous avertir, Monsieur, que le temps presse.
-Elle part à l'instant.
-
--*who_monrose
       Ô Ciel ! Il faut... j'y cours.
 
-**** *book_ *id_IV09 *act_IV *date_1737
-
--*who_aramont
-En vous remerciant de tous vos beaux discours.
-
--*who_clorine
-En êtes vous content ? Pour moi, j'en suis ravie.
-Je vous devais cela, pour m'avoir bien servie.
-Vous êtes bon ami.
-
--*who_aramont
-      Vous vouliez me brouiller
-Avec Monrose ; mais...
-
--*who_clorine
-      Vous vouliez dépouiller
-Ma Maîtresse ; mais...
-
--*who_aramont
-      Moi.
-
--*who_clorine
-      La ressource est commode.
-Ruiner une femme est si fort à la mode,
-Que ce n'est presque plus la peine d'en parler.
-On ne voit autre chose ; c'est un pis-aller
-Permis, et toujours sûr. On ne s'en fait pas faute.
-
--*who_aramont
-Vous vous formez de nous une idée assez haute.
-
--*who_clorine
-Vous n'aviez pas dessein de m'en faire changer,
-Notre sexe, vous dis je, est un Peuple étranger,
-Un ennemi, sur qui tout est de bonne prise :
-Ce sont-là des exploits que l'amour autorise.
-
--*who_aramont
-Mais sachez donc....
-
--*who_clorine
-      Je sais que pour notre malheur
-Vous ne traitez pas mieux nos biens que notre honneur.
-
--*who_aramont
-Quand vous aurez lassé votre langue maudite,
-J'espère...
-
--*who_clorine
-      On vient. J'ai fait, j'ai dit, et je vous quitte.
-
-**** *book_ *id_IV10 *act_IV *date_1737
-
--*who_hortense
-Ah ! Ne m'exposez point devant un indiscret,
-Qui ne devait jamais avouer mon secret.
-
--*who_monrose
 Laisse-nous, cher ami ; ta présence la blesse.
 
-**** *book_ *id_IV11 *act_IV *date_1737
-
--*who_hortense
-Ainsi, grâce à leurs soins, vous savez ma faiblesse !
-N'êtes vous pas cruel de paraître à mes yeux ?
-À quoi nous serviront les plus tendres adieux ?
-Je partais sans vous voir, j'aurais fait l'impossible.
-Le sort qui me poursuit est toujours invincible.
-
--*who_monrose
 En suis-je mieux traité ? Pour comble de malheurs,
 Je dois le détester jusques dans ses faveurs.
 Il n'en est point pour moi qu'il n'ait empoisonnées.
@@ -3294,10 +1403,6 @@ L'amertume et le fiel les ont assaisonnées.
 Tout, jusqu'à votre amour... Quand m'est-il annoncé ?
 Ah, que pour mon malheur tout est bien compensé !
 
--*who_hortense
-Eh ! N'examinons point quel est le plus à plaindre.
-
--*who_monrose
 Il n'importe ; achevez. Je ne saurais plus craindre
 Tout ce qui peut servir à me désespérer.
 Hortense, il est donc vrai, j'ai pu vous inspirer ?...
@@ -3305,12 +1410,6 @@ Est-ce pour insulter davantage à vos larmes,
 Que j'ose demander un aveu plein de charmes,
 À qui doit me haïr autant que je me hais ?
 
--*who_hortense
-Pourquoi se reprocher des maux qu'on n'a point faits ?
-Voulez-vous que je sois injuste et malheureuse ?
-Ah ! C'est trop exiger....
-
--*who_monrose
       Quoi, toujours généreuse ?
 Hortense, hélas ! pourquoi nous avez-vous connus ?
 Un bonheur assuré, des plaisirs continus,
@@ -3325,42 +1424,10 @@ D'avoir aidé le sort à vous persécuter.
 J'ai le remords affreux d'en être le complice,
 D'être un de vos Bourreaux ; jugez de mon supplice.
 
--*who_hortense
-Me consolerez-vous en vous désespérant ?
-Des coups de la fortune êtes-vous le garant ?
-Vous me plaignez ! Eh quoi ! Ne peut-on vivre heureuse,
-Si ce n'est au milieu d'une Cour orageuse ?
-À l'égard de ce bien qui s'est évanoui,
-Ne pouvant être à vous, en aurais-je joui ?
-En effet, à quoi sert une opulence extrême,
-Si l'on ne la partage avec ce que l'on aime ?
-Je ne sens pas qu'on puisse en jouir autrement.
-
--*who_monrose
 Vous l'avez bien fait voir.
 
--*who_hortense
-      Et véritablement
-Ma ruine fera le repos de ma vie.
-Ma liberté me reste, on l'aurait poursuivie.
-L'autorité, contraire à nos voeux les plus doux,
-M'aurait voulu forcer à prendre un autre époux.
-
--*who_monrose
 Peut-être auriez-vous fait son bonheur et le vôtre.
 
--*who_hortense
-Il dépendait de vous ; je n'en connais point d'autre.
-J'ignore si l'on peut aimer plus d'une fois ;
-Mais quand on s'est livrée sans réserve à son choix,
-Il est bien dangereux de prendre d'autres chaînes.
-Que l'on s'apprête un jour de tourments et de peines !
-Sait-on ce que l'on donne ? Est-on bien sûr d'un coeur,
-Qu'on arrache de force à son premier Vainqueur ?
-Et, puisque mon amour s'irritait, à mesure
-Que je pouvais vous croire infidèle, ou parjure...
-
--*who_monrose
 Non, vous n'avez jamais cessé de m'enflammer.
 Hélas ! vous ignorez comme on peut vous aimer.
 Depuis que ma fortune incertaine et flottante
@@ -3378,54 +1445,20 @@ Si vous n'y suppléez, si vous n'en jugez pas
 Par ma discrétion et par ma retenue,
 La moitié de mes feux ne vous est pas connue.
 
--*who_hortense
-Hélas ! que dites-vous ? Croyez que mon devoir
-M'empêchait d'y répondre, et non pas de les voir.
-
--*who_monrose
 Quel aveu ! Permettez à mon âme ravie
 Un transport, qui sera le dernier de ma vie.
 Je puis donc une fois tomber à vos genoux !
 Ah ! Devrait-on survivre à des moments si doux ?
 
--*who_hortense
-Il le faut cependant. Si je vous intéresse,
-Vivez, pour illustrer l'objet de ma tendresse ;
-Remplissez mon idée ; elle est digne de vous ;
-Soyez tel qu'il fallait pour être mon époux ;
-Devenez l'Artisan de votre destinée.
-Il est beau de dompter la fortune obstinée,
-D'arracher ses bienfaits, au lieu d'en hériter,
-Et de n'avoir que ceux qu'on a su mériter.
-Ce sont-là mes adieux, mes voeux, et mon présage...
-Va, l'on ne peut manquer quand on a du courage...
-Imitez mon exemple ; et sachez...
-
--*who_monrose
       Vous pleurez !
 
--*who_hortense
-Séparons-nous ; adieu.
-
--*who_monrose
       Pour jamais !...
 
--*who_hortense
-      Demeurez.
-
--*who_monrose
 Je ne puis.
 
--*who_hortense
-      Je le veux.
-
--*who_monrose
       L'instance est superflue.
 Non ; dussai-je expirer, en vous perdant de vue !...
 
-**** *book_ *id_V01 *act_V *date_1737
-
--*who_monrose
 Quel état est le mien ! Fortune, en est-ce assez ?
 À peine suis-je né, mes beaux jours sont passés.
 Ai-je pu mériter un sort si déplorable ?
@@ -3435,10 +1468,6 @@ Ah ! je sens que mon coeur s'ouvre de toutes parts.
 Allons traîner ailleurs mon infortune extrême.
 Je ne puis plus ici me supporter moi-même.
 
--*who_aramont
-Quel est votre dessein ? Où voulez-vous aller ?
-
--*who_monrose
 Partout où je pourrai vivre, et me signaler.
 Dans l'état où je suis on n'a plus de Patrie :
 J'abandonne la mienne, où, malgré mon envie,
@@ -3446,137 +1475,51 @@ Je ne puis plus m'ouvrir un illustre tombeau :
 Un sujet inutile est pour elle un fardeau.
 Je vais mourir ailleurs, ou mériter de vivre.
 
--*who_aramont
-Je frémis du projet ; gardez-vous de le suivre.
-
--*who_monrose
 Je crois que tu voudrais m'obliger à rester ?
 
--*who_aramont
-Vous êtes enchaîné.
-
--*who_monrose
       Qui pourrait m'arrêter ?
 Quelles raisons ? En quoi suis-je ici nécessaire ?
 Tu restes ; on n'a point de reproche à me faire.
 
--*who_aramont
-On m'en ferait d'affreux, si vous vous écartez.
-
--*who_monrose
 Comment ?
 
--*who_aramont
-      Vous me perdez d'honneur, si vous partez.
-
--*who_monrose
 Quel rapport mon départ a-t-il avec ta gloire ?
 
--*who_aramont
-Le rapport est plus grand que vous ne pouvez croire.
-
--*who_monrose
 Je ne le comprends pas.
 
--*who_aramont
-      On m'accuse...
-
--*who_monrose
       Eh de quoi ?
 
--*who_aramont
-D'être votre complice.
-
--*who_monrose
       Ah ! Tout autre que toi...
 
--*who_aramont
-Le Destin a comblé toutes ses injustices.
-
--*who_monrose
 Depuis quand l'innocence a-t-elle des complices ?
 Ce nom convient au crime. Eh, quel est donc le mien ?
 
--*who_aramont
-Il est imaginaire.
-
--*who_monrose
       Ah ! ne me cache rien.
 Quel que soit mon destin, je saurai m'y soumettre :
 Dis...
 
--*who_aramont
-      Dornane m'écrit : jugez-en par sa lettre.
-"Je t'écris à la hâte. Ariste, non content
-Des biens de notre ami, lui ravit sa maîtresse ;
-Il l'a fait demander : le fait est très constant.
-Tu lui diras, en cas que cela l'intéresse.
-À propos ; on le croit riche ; et je te l'apprends.
-Entre nous, tu lui vaux cette galanterie.
-On l'accuse d'avoir détourné... tu m'entends ?
-Fait finir au plutôt cette plaisanterie."
-
--*who_monrose
 Je suis riche !
 
--*who_aramont
-      On le dit.
-
--*who_monrose
       Comment ? Explique-moi...
 Et je suis accusé d'avoir détourné ?.... Quoi ?
 
--*who_aramont
-Les effets du défunt, et tous les biens d'Hortense.
-L'on croit que je vous ai prêté mon assistance.
-
--*who_monrose
 Ah Ciel ! quelle noirceur ! Je deviens furieux.
 D'où peuvent provenir ces bruits injurieux ?
 L'horreur qu'on m'attribue est-elle imaginable ?
 Ah ! Si j'en connaissais l'auteur abominable...
 Jusques à mon honneur, quoi, l'on ose attenter !
 
--*who_aramont
-Il n'est point de malheur qui ne puisse augmenter.
-
--*who_monrose
 Qui peut avoir fondé cette imposture affreuse ?
 
--*who_aramont
-Mon amitié constante, et toujours malheureuse.
-Sans elle, notre honneur serait encore entier.
-Je vous ai fait passer pour un riche héritier.
-Ces bruits avantageux m'ont paru nécessaires
-Pour vous donner le temps d'arranger vos affaires.
-Je les ai répandus ; c'était pour votre bien.
-On m'a cru. Cependant il ne s'est trouvé rien.
-Et je suis soupçonné. Vous devinez le reste.
-
--*who_monrose
 Quoi ! l'amitié m'aura toujours été funeste !
 De mes jours malheureux elle est donc le fléau ?
 Le sort me réservait ce supplice nouveau.
 
--*who_aramont
-Soyez sûr que ces bruits ne seront pas durables.
-Vous n'êtes accusé que par des misérables :
-C'est par des gens comme eux que leurs discours sont crus.
-
--*who_monrose
 Dans la rage où je suis, je ne me connais plus.
 
--*who_aramont
-Opposez le courage à cette calomnie.
-
--*who_monrose
 Du courage ? En est-il contre l'ignominie ?
 On la mérite alors qu'on peut la supporter.
 
--*who_aramont
-Demeurez ; c'est à quoi j'ose vous exhorter.
-
--*who_monrose
 Non, tu n'entendras plus parler d'un misérable.
 Je comptais que mon nom me serait favorable :
 Il faut l'abandonner. Je ne dois plus songer
@@ -3585,75 +1528,29 @@ Dans une obscurité la plus impénétrable.
 Périssent ma mémoire, et le sang déplorable
 Qui m'a fait naître ?
 
--*who_aramont
-      Ô Ciel !
-
--*who_monrose
       Et toi, laisse-moi fuir.
 Pour la dernière fois, ne te fais point haïr.
 Adieu.
 
-**** *book_ *id_V02 *act_V *date_1737
-
--*who_monrose
       Mais que nous veut cet homme ? Ô Ciel ! Serait-ce ?
 
--*who_legarde
-Je suis chargé d'un ordre...
-
--*who_monrose
       Est-ce à moi qu'il s'adresse ?
 
--*who_legarde
-Oui, Monsieur. À regret je remplis un devoir...
-
--*who_monrose
 On m'arrête ! Eh pourquoi ?
 
--*who_legarde
-      Vous devez le savoir ?
-Souffrez que je m'acquitte...
-
--*who_monrose
       Allons. Que faut-il faire ?
 Faut-il que je vous suive ?
 
--*who_legarde
-      Il n'est pas nécessaire,
-Et vous m'avez été consigné seulement.
-
--*who_aramont
-Voulez-vous bien passer dans cet appartement.
-
-**** *book_ *id_V03 *act_V *date_1737
-
--*who_monrose
 On m'arrête ! Et déjà l'on me traite en coupable !
 On m'enchaîne au forfait dont on me croit capable !
 Mes fers me font horreur.
 
--*who_aramont
-      D'où vient cet accident ?
-Dornane aura parlé. C'est un homme imprudent.
-Vous aurez devant lui projeté votre fuite.
-Ce bruit vous aura nui. La Cour en est instruite :
-Et voilà ce qui fait qu'on s'assure de vous.
-
--*who_monrose
 Comme d'un criminel.
 
--*who_aramont
-      Vous les confondrez tous.
-
--*who_monrose
 Eh ! Comment les confondre ? Est-il en ma puissance.
 Le crime se défend bien mieux que l'innocence.
 Quelle preuve opposer ? Où pourrai-je en trouver !
 
--*who_aramont
-Votre ruine même.
-
--*who_monrose
       Eh, comment la prouver ?
 Par quels moyens veux-tu que je les désabuse ?
 En croit-on les serments de ceux que l'on accuse ?
@@ -3668,9 +1565,6 @@ Moi-même puis-je et dois-je éclaircir ce mystère ?
 Non : Il faut que ce soit un secret éternel.
 Je serai convaincu, sans être criminel.
 
-**** *book_ *id_V04 *act_V *date_1737
-
--*who_monrose
 Je me perds dans l'horreur de chaque circonstance.
 Lorsque pour réparer la ruine d'Hortense,
 Je détourne sur moi les indignes besoins,
@@ -3683,96 +1577,26 @@ Et je suis réputé le dernier des humains !
 On m'arrête, on me force à me purger d'un crime,
 Qu'est-ce qu'un scélérat a de plus à souffrir ?
 
--*who_hortense
-Le remords...
-
--*who_monrose
       Quelle voix, quel objet vient s'offrir.
 
--*who_hortense
-C'est une amante en pleurs. On empêche ma fuite ;
-J'ignore à quel dessein, je n'en suis pas instruite.
-On m'a fait revenir.
-
--*who_monrose
       Laissez-moi me cacher.
 
-**** *book_ *id_V05 *act_V *date_1737
-
--*who_hortense
-Quoi ! vous voulez me fuir ?
-
--*who_monrose
       Laissez-moi m'arracher.
 
--*who_hortense
-Eh ! ne nous quittons point dans l'état où nous sommes.
-
--*who_monrose
 Ces regards sont-ils faits pour le dernier des hommes ?
 Je ne puis soutenir vos yeux, ni mes revers.
 
--*who_hortense
-Je ne suis donc plus rien pour vous dans l'Univers ?
-Je ne croyais pas être un objet si funeste.
-Je ne puis que pleurer. Le temps fera le reste.
-
--*who_monrose
 Dites, mon désespoir.
 
--*who_hortense
-      Ah ! Cruel, arrêtez.
-
--*who_monrose
 Il finira bientôt des jours trop détestés.
 
--*who_hortense
-Mon état, mon amour, ma présence, et mes larmes.
-N'auront donc point assez de puissance et de charmes,
-Pour vous rendre un peu moins sensible à vos malheurs ?
-Qu'on ne nous vante plus le pouvoir de nos pleurs !
-Vous ne songez qu'à vous.
-
--*who_monrose
       Quel reproche !
 
--*who_hortense
-      Il ne tombe
-Que sur ce désespoir où votre coeur succombe,
-Je sais de quels bienfaits vous vouliez me combler.
-Du reste de vos biens vous vouliez m'accabler.
-
--*who_monrose
 Qui m'a trahi ?
 
--*who_hortense
-      C'est toi. Va, tu n'as qu'à poursuivre.
-Laisse-moi donc mourir, si tu ne veux plus vivre.
-
--*who_monrose
 Ah ! Madame, vivez... répondez-moi de vous,
 Et toute ma fureur expire à vos genoux.
 
--*who_hortense
-Que je vive ? Est-ce à moi d'avoir plus de courage ?
-Je conviens qu'on vous fait le plus sanglant outrage :
-Mais enfin ce n'est pas un opprobre éternel.
-Tombe-t-il sur vous seul ? M'est-il moins personnel ?
-L'amour qui nous unit n'admet point de partage.
-Je souffre autant que vous ; si ce n'est davantage.
-Et cependant mon coeur n'en est point abattu.
-La vérité fera triompher la vertu.
-Jusqu'à ce que le temps la mette en évidence,
-Ayons la fermeté qui sied à l'innocence :
-Elle en est la ressource, et le plus sûr garant.
-Rétablit-on sa gloire en se désespérant ?
-Le découragement autorise une injure.
-Il faut vivre pour vaincre ; et la victoire est sûre ;
-Et qui perd tout espoir mérite son malheur.
-Je vous parle sans doute avec trop de chaleur.
-Excusez une amante, ou plutôt une amie.
-
--*who_monrose
 Qui me condamne à vivre, accablé d'infamie !
 Le sort qui me poursuit peut-il aller plus loin ?
 Il ne me manque plus que d'être le témoin
@@ -3781,21 +1605,1053 @@ Ariste jusqu'ici vous a caché sa flamme ;
 Jusques dans votre coeur il veut m'assassiner :
 Pour être votre époux, il s'est fait destiner.
 
--*who_hortense
-Ariste, dites-vous ? L'entreprise est hardie.
-Il m'aime ? Il payera bien cher sa perfidie.
+      Eh bien ?
 
-**** *book_ *id_V06 *act_V *date_1737
+Comment ?
 
--*who_aramont
+      Quel embarras ?
+
+On n'en demande point à ceux qui sont heureux.
+
+      Que dites-vous ?
+
+      Ô Ciel ! Quelle surprise ?
+
+Je suis justifié !
+
+Fortune, c'est assez, je te quitte du reste.
+Mes voeux sont épuisez. Mon honneur m'est rendu.
+Madame, pardonnez à mon coeur éperdu
+Ce transport excessif...
+
+Monsieur, ce n'est pas-là tout ce que je vous dois.
+Mes créanciers...
+
+      Je vois.
+Que c'est à vous, Monsieur, que j'en suis redevable.
+
+Ah ! permettez du moins que ma reconnaissance.
+Se manifeste autant qu'il est en ma puissance.
+
+Ah ! Madame, souffrez que mon coeur se partage.
+Monsieur, je ne puis rien vous offrir davantage.
+Ô Fortune ! je sens et j'éprouve à présent.
+Qu'un ami véritable est ton plus grand présent.
+
+
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dornane
+
+Serviteur au Baron. J'aime à te rencontrer.
+Qu'as-tu fait de Monrose ?
+
+Tu ne le quittes plus ! Je te trouve adorable.
+Ah ! si l'événement lui devient favorable,
+Que d'amis fugitifs se verront confondus !
+
+Monrose n'aura point ce reproche à me faire :
+Et que la Cour lui soit favorable, ou contraire,
+Il n'en sera ni plus ni moins cher à mes yeux.
+
+On cesse d'être ami sitôt que l'on varie.
+D'abord que l'amitié balance, elle est trahie :
+La moindre alternative y porte un coup mortel ;
+Et ce n'est plus qu'un nom qui n'a rien de réel.
+
+      Voilà comme je pense.
+Mais ce n'est point assez ; j'agis en conséquence.
+Depuis qu'il est malade, on n'imagine pas
+Ce que j'ai vu de gens, combien j'ai fait de pas.
+J'ai mis en action toutes nos connaissances.
+N'ai-je pas fait ma cour à toutes les puissances ?
+
+      J'aurais été plus loin
+Si je l'avais trouvé possible et nécessaire :
+Mais Dieu sait de quel air j'ai mené cette affaire !
+
+      Je crois qu'il est permis
+De parler un peu haut quand c'est pour ses amis :
+
+      J'agis avec cette assurance
+Qui subjugue, ou détruit toute autre concurrence.
+Quoi qu'il en soit, j'ai mis l'épouvante et l'effroi
+Parmi les prétendants ; ils sont en désarroi.
+Je leur ai fait un tour qui nous sert à merveille...
+J'ai publié partout... en secret... à l'oreille...
+Que Monrose avait tout obtenu de la Cour :
+Et c'est, grâce à mes soins, la nouvelle du jour.
+Par-là j'ai dérouté la brigue et la cabale.
+
+Tu t'y connais !
+
+Comment donc ?
+
+C'est une minutie.
+
+L'amitié n'est point un héritage.
+
+Il le garde pour lui. Ce n'est qu'un homme adroit,
+Un Courtisan masqué par la misanthropie,
+Recouvert du manteau de la Philosophie ;
+Un Politique sombre, équivoque et caché,
+Qui se donne à la Cour pour être détaché
+Des postes, des emplois, des grandeurs, et des grâces ;
+Mais qui secrètement vise aux premières places ;
+Et dont l'ambition, quand il en sera temps,
+Se manifestera peut-être à nos dépens.
+
+      Lui ? Sur quel fondement ?
+Quand on est tel, crois-moi, l'on s'annonce autrement.
+En effet, l'amitié donne un air moins austère.
+Un véritable ami n'a d'autre caractère
+Que celui qui nous plaît. Il se règle sur nous,
+Il adopte nos moeurs ; il se fait à nos goûts ;
+Il se métamorphose au gré de nos caprices ;
+Il prend nos Passions, nos vertus, et nos vices :
+C'est un caméléon qui reçoit tour-à-tour...
+
+C'est Ariste ! Ah, morbleu !
+
+Ah ! Monsieur, qui pouvait vous croire-là ?
+
+      Tant-pis.
+
+Et moi, de la nouvelle...
+
+C'est qu'il te rend justice. On l'obtient quelquefois,
+Quand on a le secret de se la faire rendre.
+Une affaire dépend du tour qu'on lui fait prendre.
+La fortune et l'amour se ressemblent tous deux :
+C'est la même façon pour traiter avec eux.
+
+      Osais-tu te promettre
+Un aussi bon effet ?...
+
+      De cette lettre
+Qu'il a fallu te faire écrire, et t'arracher ?
+Car avec toi, mon cher, à moins de se fâcher...
+
+Eh ! Tant mieux. Tu voulais mesurer chaque terme.
+
+      Va, va, le style est bien.
+La souplesse est pour nous un indigne moyen,
+Presque toujours nuisible, et jamais légitime :
+Qui s'abaisse soi-même est sa propre victime.
+On ne cherche que trop à nous humilier.
+Nous devons exiger, et non pas supplier.
+N'est-il pas vrai, Monsieur ?
+
+Les empêcher ? Je dis que c'est un coup d'état.
+On n'y saurait donner trop de cours et d'éclat.
+Sur la foi de ce bruit heureux et profitable,
+Chacun trouve que rien n'était plus équitable.
+Tout le monde applaudit. Je vous laisse à penser
+Si la Cour, qui le voit, pourra se dispenser
+D'un acte d'équité que l'on trouve à sa place.
+Il ne dépend plus d'elle. Il faut qu'elle le fasse,
+Et qu'enfin elle cède à la nécessité...
+
+En seriez-vous surpris ?
+
+Et bien meilleur ami. C'est de quoi je me pique.
+
+      Enfin il se retire.
+
+      Éloignons cette idée ;
+Puisqu'aussi-bien l'affaire est presque décidée.
+D'ailleurs, ton désespoir m'était injurieux.
+Suis-je donc un ami si frivole à tes yeux ?
+Que le sort te trahisse, ou soit qu'il te seconde,
+Mets-toi bien dans l'esprit que je n'ai rien au monde
+Qui ne te soit acquis : je crois que là-dessus
+Tu veux bien m'épargner des serments superflus.
+Bien souvent ce ne sont que des mots d'habitude
+Qui joignent le parjure avec l'ingratitude.
+
+C'est un homme fâché, qui voit avec dépit
+Que nous n'ayons point eu recours à son crédit.
+Eh ! combien n'est-il pas de ces gens tyranniques,
+De ces jaloux amis qui veulent être uniques ;
+Assez durs, pour trouver mauvais qu'un malheureux
+Leur fasse voir enfin qu'on peut se passer d'eux ?
+Heureux, qui peut ainsi mortifier leur gloire.
+Et venger l'amitié !... Mais si tu veux m'en croire,
+Le temps est cher, il faut, et même dès ce jour,
+Aller tête levée, et paraître à la Cour.
+
+      Expédie au plus vite.
+Sans adieu. Tout ira comme je le prévois.
+Je vais nous faire écrire à dix ou douze endroits.
+
+Parbleu, tu nous as fait une belle bévue !
+
+      A ton avis ?
+
+Tu prônes l'héritage...
+
+Et que le défunt laisse un argent infini.
+
+      Tu vas voir aujourd'hui
+Que ta finesse aura des suites bien contraires.
+Tous ces coquins mettront le feu dans les affaires.
+Ils savent qu'on les joue : ils vont saisir partout.
+J'ignore si Monrose en pourra voir le bout ;
+Pourvu que son honneur n'en soit pas la victime.
+
+      Point : ma crainte est légitime.
+Pour être serviable, il faut être prudent.
+On est bien dangereux, quand on est trop ardent.
+J'aimerais cent fois mieux une amitié stérile,
+Que celle qui me nuit, en voulant m'être utile.
+
+On dit, fut de tout temps la gazette des sots.
+
+      Ah ! Ah ! Quels sont donc ces propos ?
+
+La Cour trouve mauvais !
+
+Nous verrons qui des deux aura le plus de tort.
+Monrose qui survient va nous mettre d'accord.
+
+Le Baron me contait de plaisantes nouvelles.
+
+Entendons-nous un peu. Quelle est cette aventure,
+Ou plutôt cette énigme ?
+
+      Quel conte ?
+
+Comment ? La Cour aurait !...
+
+      Eh ! dis au plus heureux.
+Le nomme-t-on ?
+
+      N'es-tu point trop crédule ?
+
+      Mais il est ridicule.
+
+Parbleu, qui ne l'est pas ! Surtout parmi nous autres !
+Messieurs tes créanciers feront comme les nôtres.
+Ils prendront patience. Ils sont faits pour cela.
+Ne va pas, en payant, nous gâter ces gens-là.
+
+Ils t'auront rançonné : ce sont tous des Corsaires.
+
+Ah ! si tu veux payer, il faut te laisser faire.
+Mais cela ne conduit à rien ; tout au contraire.
+Ou tu veux t'acquitter par un nouvel emprunt,
+Ou tu comptes beaucoup sur les biens du défunt ?
+
+J'empêcherai ta fuite.
+
+      Je n'entends point ce terme.
+
+      Te libérer ? Comment ?
+
+C'est te couper la gorge.
+
+Que deviendras-tu ?
+
+C'est une extrémité fâcheuse, abominable.
+Que diable ! au bout du compte elle n'est pas tenable.
+Je voudrais bien t'aider, mais je ne sais par où.
+Mon fripon d'Intendant dit qu'il n'a pas un sou.
+Mais qu'il en ait, ou non, il faut bien qu'il m'en donne :
+J'ai promis une fête à certaine personne,
+Que j'avais ménagée expressément pour toi.
+De plus, je te dirai... Tu le sais comme moi ;
+Il semble qu'on avait un présage infaillible,
+Qu'aux besoins d'un ami je serais trop sensible.
+On m'a lié les mains : sans quoi... Mais après tout,
+Ne précipitons rien. Il faut voir jusqu'au bout.
+La révolution me paraît un peu prompte.
+Je le saurais. Je vais m'en faire rendre compte.
+C'est encore un faux bruit que l'on aura semé.
+Ne conclus rien avant que j'en sois informé.
+
+Je reviens. Quand j'y pense... Il faut tout mettre au pis.
+Nous vivons dans un siècle où rien n'est impossible ;
+Où, bien loin de servir, le mérite est nuisible.
+Il pourrait arriver que, sans savoir pourquoi,
+La Fortune aurait pris un travers avec toi.
+Tu perdrais à beau jeu. Mais en cas de disgrâce,
+J'entre dans tes raisons, je me mets à ta place.
+Je sens que le dépit justement irrité,
+Ton honneur, en un mot, et la nécessité,
+Malgré tous tes amis, pourraient bien te réduire
+À prendre le parti dont tu viens de m'instruire :
+En ce cas, je propose un accommodement,
+Qui nous arrangerait tous deux également.
+
+      Ton régiment est à ma bienséance.
+Pourrais-je de ta part avoir la préférence ?
+
+Parbleu, j'en trouverai.
+
+Pour un si bon usage, on n'est point sans ressources.
+Mes amis m'aideront...
+
+      Si dans leurs bourses
+Je ne trouve pas tout, je ferai mon billet
+Du surplus.
+
+Je te suis obligé.
+
+Puisque nous convenons, mon cher, en attendant,
+Garde-moi le secret, de crainte d'accident.
+
+Tu grondes le Baron ! C'est toujours fort bien fait.
+Pardonne, si je viens troubler la vespérie.
+Sais-tu ce qui m'arrive ? Écoute, je te prie...
+Je n'en puis revenir. C'est pour ton régiment.
+Je pouvais me flatter d'en avoir l'agrément.
+Je vais chez qui tu sais en faire la poursuite.
+Je me nomme ; on m'annonce ; et j'entre tout de suite.
+Il me voit ; il se lève ; et d'un air prévenant
+Il m'embrasse, et me fait un accueil surprenant.
+Je le tire à quartier ; je lui fais ma semonce :
+Mon homme alors se trouble ; et voici sa réponse.
+"Je suis au désespoir (je crois qu'il disait vrai)
+Vous êtes malheureux pour votre coup d'essai."
+Bref, avec des discours à peu près de la sorte,
+Il s'est acheminé du côté de la porte.
+Nous nous sommes quittez. Ariste a manoeuvré :
+Il venait d'en sortir, lorsque je suis entré.
+Nous aurions fait ensemble une assez bonne affaire ;
+Car j'aurais rassemblé tout l'argent nécessaire :
+Mais enfin, je te rends ta parole.
+
+      Ma foi, peut-être bien ;
+Car je sers tant de gens sans que j'en sache rien...
+
+      Que t'a renvoyez ta maîtresse ?
+
+      Bon.
+
+Je voudrais que les miens en pussent faire autant.
+
+      Moi ! je te l'aurais dit.
+
+      Non, parbleu, je te jure.
+
+      Ariste... Il mérite à merveille
+Qu'on mette sur son compte une action pareille.
+
+Ma foi, je crois qu'Ariste est capable de tout.
+Apprends où t'a conduit une erreur trop durable.
+Cet homme vertueux, ce sage inaltérable,
+Toujours pur au milieu d'un air empoisonné,
+Qui paraissait avoir acquis et moissonné
+De nouvelles vertus où l'on n'a que des vices ;
+Ce rare Courtisan, fameux par ses services,
+Dont tout autre que lui se serait prévalu,
+Qui pouvant être tout ce qu'il aurait voulu...
+
+      Il faut cesser de l'être.
+Ce grave personnage, Ariste n'est qu'un traître ;
+C'est lui qui te dépouille ; il a tout envahi.
+
+Lui-même, il a commis une action si basse.
+Va le féliciter, te dis-je ; il est en place.
+Au moment que je parle, entouré de flatteurs.
+Le coupable et son crime ont des Adulateurs
+Eh bien ! Que penses-tu d'un tour de cette espèce ?
+
+La vertu ! c'est un fourbe, et je ne puis m'en taire.
+Mais s'il t'avait servi, comme il aurait dû faire,
+Et comme j'eusse fait ; en parlerais-tu mieux ?
+Rends-lui justice : va, c'est un monstre odieux.
+Voilà mon dernier mot. Je le lui dirais en face,
+Et je l'afficherais... Si j'étais à ta place,
+Nous nous verrions de près.
+
+Je n'écouterais plus qu'un trop juste courroux ;
+Du haut de sa grandeur je le ferais descendre ;
+Ou je le forcerais du moins à la défendre.
+
+Et sur ce faible espoir sa vengeance se fonde ?
+Se déshonore-t-on maintenant dans le monde ?
+Voit on que cette crainte alarme bien des gens ?
+N'en soyons point surpris. Nous sommes indulgents.
+Grâce à cette ressource un peu trop éprouvée,
+Le plus vil des Mortels va la tête levée.
+Nous laissons, parmi nous, habiter des proscrits :
+Bientôt leur impudence épuise nos mépris ;
+Et nous avons enfin la basse politesse
+De jouir avec eux de leur scélératesse.
+Ariste y peut compter : et peut-être, à mon tour,
+Serai-je un jour forcé de lui faire ma cour.
+
+      C'est assez... je t'entends :
+Et j'ose me flatter que nous serons contents.
+Je m'en vais à la Cour savoir ce qui s'y passe ;
+Et je te l'écrirai. Serviteur ; je t'embrasse.
+
+
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aramont
+
+Eh bien ! où sont-ils donc fourrez ? Hola, quelqu'un ?
+
+Quand le Maître est dehors, les Valets sont au diable.
+C'est Clorine ! Eh ! parbleu, je la trouve à propos.
+J'avais à vous parler. J'aurai fait en deux mots.
+Hortense s'en va donc ?
+
+Tant-pis.
+
+Cette vieille radote ; et ta maîtresse rêve.
+
+      C'est aujourd'hui que le scellé se lève.
+Hortense a tous ses biens.
+
+Elle est riche, et très riche.
+
+Ah ! je vous en réponds. D'autant plus que son père
+N'avait point d'intendant. C'était un vieux marin,
+Qui, pour être partout Maître de son destin,
+Ne posséda jamais, pour toutes Seigneuries,
+Qu'un riche porte-feuille, et force pierreries.
+
+Ainsi donc ta Maîtresse, outre ses diamants,
+Est un des grands partis qui soient peut-être en France :
+à moins que le défunt, contre toute apparence,
+N'ait altéré des biens confiez à ses soins ;
+Mais c'est ce que l'on doit appréhender le moins,
+Or cela supposé, comme aussi que Clorine
+Soit une fille aimable, intelligente, et fine...
+
+      Non ; vous vous abusez :
+Et quand cela serait, qu'importe ? On peut attendre.
+En faveur de Monrose, il faudrait nous entendre.
+Tu vois comme au moment de faire son bonheur,
+Son oncle un peu trop-tôt est mort au lit d'honneur :
+Tu sais, pour son neveu, quelle était sa tendresse ;
+Et qu'en le mariant à ta belle Maîtresse,
+Il lui cédait sa Charge et son Gouvernement :
+Il croyait être sûr d'en avoir l'agrément.
+Un coup de foudre a mis l'édifice par terre.
+Thésauriser n'est pas le fait des gens de guerre ;
+Et l'on doit peu compter sur leurs successions.
+Le défunt ne roulait que sur des pensions,
+De forts appointements, qu'il mangeait à mesure,
+Ainsi de ce côté la fortune est peu sûre.
+A l'égard de la Cour, je doute, et je ne sais
+Si l'on achèvera des projets commencés :
+Et franchement j'ai peur qu'en cet état funeste
+Ta Maîtresse ne soit le seul bien qui nous reste.
+Voila ce qu'il faudrait tous deux négocier.
+
+On exigera d'elle une infidélité :
+Vous n'y voyez aucune impossibilité.
+Si Monrose a son coeur...
+
+Elle n'en est pas moins l'objet de sa tendresse ;
+Mais il compte si peu sur un heureux destin,
+Ou du moins l'avenir est si fort incertain,
+Qu'il n'ose plus tenter d'achever sa conquête.
+Il est intimidé : voilà ce qui l'arrête.
+Tant de discrétion lui ferait trop de tort.
+Il faut les rapprocher, et les mettre d'accord.
+
+      Il faudrait donc autoriser mon zèle.
+Il n'est qu'un mot qui serve. Hortense l'aime-t-elle ?
+
+      Sans contredit.
+
+Elle-même, parbleu : Du moins je le suppose.
+Suivante et confidente est bien la même chose.
+
+      Ah ! ah ! mais en tout cas.
+On peut bien deviner.
+
+On surprend un secret qu'on ne veut pas nous dire ;
+On le lit dans les yeux, dans...
+
+Les filles d'à présent ne savent jamais rien
+De tout ce que l'on sait qu'elles savent très bien.
+
+      Oui, j'aime à m'en mêler.
+
+Je ne dispose pas de l'inclination.
+
+      Ils ont pris querelle en chemin.
+
+      Ah ! Trêve de mémoire.
+Il n'est pas question de faire mon histoire.
+C'est-à-dire qu'Hortense aura jusqu'à ce jour
+Fait perdre à notre ami son temps et son amour ?
+
+Eh ! ventrebleu, pourquoi se laisser rendre hommage,
+Lorsque l'on ne veut pas se laisser enflammer ?
+
+La complaisance est grande.
+
+      Se peut-il faire !...
+Eh mais, combien de temps faut-il donc pour lui plaire,
+Si depuis une année et plus qu'elle est ici,
+L'amour de son amant n'a pas mieux réussi ?
+Hortense s'amusait du plaisir d'être aimée.
+L'hymen se devait faire au retour de l'armée.
+
+      Cette époque est bonne à remarquer.
+À quoi pensait Hortense ? Elle allait s'embarquer ;
+Et toutefois l'amour n'était pas du voyage.
+
+Allez, morbleu, partez ; retournez au couvent.
+Ainsi Monrose est libre ; et s'il est raisonnable,
+On pourra lui trouver un parti convenable.
+Quelqu'autre aura des yeux, du bien, de la beauté ;
+Oui, l'on pourra tourner de tel autre côté,
+Que...
+
+Du moins, cette menace a fâché la suivante.
+Qu'elle aille à sa Maîtresse apprendre ce discours.
+Tant mieux. La jalousie est d'un puissant secours ;
+Et jamais la fierté ne doit être épargnée.
+Une femme piquée est à moitié gagnée.
+
+      Il va bientôt rentrer.
+
+Ils ne sont qu'égarez ; ils ne sont pas perdus.
+Cette espèce d'amis n'est pas la moins commune.
+Habiles à prévoir de loin une infortune,
+Ils ne paraissent plus dans le temps orageux.
+Le calme revient-il ? On peut compter sur eux.
+Il ramène avec lui leur troupe mercenaire.
+Dans le monde, en un mot, c'est l'usage ordinaire,
+Qui fut, et qui sera toujours comme aujourd'hui ;
+On n'aime à partager que le bonheur d'autrui.
+
+Sans doute. Le malheur est-il contagieux ?
+
+Sais-tu que tu dis vrai ?
+
+Car il faut bien les voir, quand on en a besoin.
+Quelle fatuité !
+
+De quel air, s'il vous plaît ?
+
+Tout est perdu.
+
+Je crains que cela n'ait une suite fatale.
+
+      Pour moi, je me borne à des soins
+Qui sont à ma portée ; et je risque un peu moins.
+Sans moi, des créanciers bloqueraient cette porte :
+J'ai du moins, pour un temps, écarté leur cohorte,
+
+      En disant partout avec éclat
+Que la succession est en très bon état
+Ainsi j'ai suspendu leurs cris et leurs poursuites.
+
+      On verra dans les suites.
+Mais au surplus, Marquis, n'es-tu pas étonné
+Que Monrose aujourd'hui se trouve abandonné
+Par l'homme, sur lequel il comptait d'avantage, Ariste ?
+
+Quoi ! l'ami le plus cher que le défunt ait eu,
+Laisse ainsi son neveu, tandis qu'il aurait pu
+Agir, et lui prêter son heureuse assistance ?
+Son appui nous serait d'une grande importance ;
+Car enfin son crédit est plus grand qu'on ne croit
+
+Cet Ariste pourtant... il avait paru prendre
+Au destin de Monrose un intérêt si tendre :
+Je l'ai cru son ami.
+
+      En cas de réussite.
+
+Moi, je vais faire un tour chez tous nos gens d'affaires,
+Pour rassembler ici ceux qui sont nécessaires.
+
+Ah ! Madame, c'est vous ! J'en suis comblé de joie.
+C'est à propos qu'ici la fortune m'envoie
+Pour vous marquer mon zèle et ma discrétion.
+
+Je viens de ramasser ce portrait ici proche :
+Sans doute qu'il était tombé de votre poche :
+Quelqu'autre moins fidèle aurait pu s'en saisir.
+
+      Je me fais un plaisir...
+
+Ouais ! mon petit service est pris en déplaisance !
+
+Fallait-il le garder afin qu'on le cherchât,
+Et ne pas vous le rendre avant qu'on l'affichât ?
+
+En cela mon bonheur a prévenu le vôtre.
+
+Ma foi, vous avez fait ce que vous avez pu.
+
+Je serais bien surpris si je n'étais qu'un sot,
+Oui, vraiment, à la fin j'entends à demi-mot.
+Il s'ensuit qu'il fallait d'abord entr'autre chose
+Remettre ce portrait dans les mains de Monrose :
+Et je conclus de-là qu'Hortense a le coeur pris.
+Travaillons là-dessus ; il n'importe à quel prix.
+
+Laquelle ?
+
+      L'aurait-il déjà sue ?
+
+      Oui : c'est un tour d'ami.
+
+Sans doute : je l'ai dit en faveur de Monrose.
+Peut-on se maintenir à moins qu'on n'en impose ?
+Par-là, ses créanciers, prêts à fondre sur lui,
+Se sont tranquillisez.
+
+Quelle chimère !
+
+J'ignorais que mon zèle eut si mal réussi.
+Mais de plus d'un endroit il me revient aussi
+Que le vôtre n'a pas tout le succès possible :
+À Monrose, au contraire, on dit qu'il est nuisible.
+
+C'est le Public.
+
+Que Monrose se perd, et que c'est par la faute
+De ceux qui lui font prendre une allure trop haute.
+La Cour trouve mauvais qu'il ait entretenu
+La croyance où l'on est qu'il a tout obtenu.
+
+      Voilà ce qui se passe.
+On conseille un ami, sans se mettre à sa place,
+Ce qui fait qu'on le perd, c'est qu'ordinairement
+La vanité, l'humeur, et le tempérament
+Suggèrent la plupart des avis qu'on lui donne.
+Il vaudrait cent fois mieux ne conseiller personne.
+
+Le Marquis m'en disait qui sont assez cruelles.
+
+D'autant plus qu'ils ont fait avec vous leurs affaires.
+
+      Et moi, je vous suivrai.
+
+Je ne le soutiens pas aussi-bien que vous-même.
+
+      Que nous veut le Marquis ?
+
+      Oui : mais vous n'avez point d'argent.
+
+      Cet homme est obligeant.
+
+      Oui-da.
+
+      Un billet : je suis votre valet.
+
+      Mal.
+
+      Ce serait à bon titre.
+
+La proposition me paraît surprenante,
+Et pour trancher le mot, elle est impertinente.
+Quoi ! de votre dépouille il veut s'accommoder,
+Après vous avoir dit qu'il ne peut vous aider ?
+
+Ce marché ridicule aura donc lieu ?
+
+On pourrait s'en passer.
+
+Nous n'avons plus qu'Hortense en cette extrémité.
+Allons hâter le coup que j'ai prémédité ;
+Portons au coeur d'Hortense une atteinte fatale ;
+Faisons-lui redouter une heureuse rivale ;
+Et puisqu'il faut, contre elle, employer ce détour,
+Armons la jalousie en faveur de l'amour.
+
+Voyons donc si ma lettre aura bien réussi.
+
+En entrant, on m'a dit que je devais vous voir ;
+Et je viens m'acquitter de ce premier devoir.
+
+      Tout me sera facile.
+
+      En quoi puis-je vous être utile ?
+
+Choisissez le serment ; je suis prêt à jurer.
+
+Voilà précisément comme j'aime à les rendre.
+
+Je ferai l'impossible. En serez-vous contente ?
+
+Je m'en fais un plaisir, un devoir, une loi.
+Je vous engage tout, mon honneur, et ma foi.
+Que je sois réputé le plus grand des parjures !...
+
+      Beaucoup plus que moi-même.
+
+Sûrement.
+
+Il est vrai ; son dessein est de quitter la Cour :
+Son malheur l'y contraint ; ce sera sans retour.
+Que ne puis-je empêcher ce cruel sacrifice !
+Ma fortune, mes biens, seraient à son service ;
+Je saurais employer des moyens détournez :
+Mais malheureusement mes pouvoirs sont bornez.
+
+Je ne fais point ici des avances frivoles ;
+Et je voudrais pouvoir me vendre, où m'engager.
+Je n'ai qu'un revenu modique et viager ;
+C'est à quoi me réduit la fortune cruelle.
+Pour la première fois je murmure contre elle.
+Les malheurs d'un ami me font sentir les miens.
+
+Je les saisirais tous : mais, hélas ! Qui sera-ce ?
+
+      Vous, Madame ?... Ah ! ah ! ceci me passe.
+
+Je sais qu'il n'en est point qui ne vous soit commune ;
+Mais avec tout cela, Madame, il en est une
+Que l'on n'a point laissée à votre liberté :
+C'est malheureusement la générosité :
+Quoique vous jouissiez d'un bien considérable,
+Vous ne pouvez en rien nous être secourable.
+
+Un si, rend tout possible, et ne conduit à rien.
+
+      Eh non. Les lois, votre sexe, votre âge,
+Vous mettant hors d'état...
+
+Comment ?
+
+      Quelle chimère !
+
+      Me serais-je mépris ?
+Ce sont vos diamants qui vous ont été pris ?
+Permettez ; je m'en vais chez tous les lapidaires,
+Leur donner sur ce vol les avis nécessaires :
+Il faut entre leurs mains arrêter ces bijoux.
+
+Chez moi ?
+
+Vous me l'aviez bien dit.
+
+Ah ! C'est trop exiger de mon obéissance.
+
+Oh ! parbleu, serviteur.
+
+Cessez de me séduire.
+
+Il l'aurait partagée.
+
+Ce serait le moyen de lui sauver la vie.
+
+      J'en aurais bien envie.
+Mais si par un malheur que je ne puis prévoir,
+Monrose, quelque jour, venait à le savoir,
+Comptez qu'il en aurait une douleur amère,
+Et qu'il m'accablerait de toute sa colère.
+Je le connais, Madame ; il serait furieux.
+
+Ô sexe, toujours sûr de triompher du nôtre !
+L'action est si belle...
+
+      Encore ?
+
+      On se lasse de feindre ;
+On vous aime.
+
+À craindre ? Votre coeur n'en est-il plus charmé ?
+
+Bon !
+
+Quel changement est-il arrivé dans son coeur ?
+
+      Eh ! Morbleu, c'est le même !
+
+      Il n'aurait jamais dû
+Tomber entre vos mains ; et j'en suis confondu.
+
+Elle est ruinée ?
+
+      Je suis désespéré.
+Tout de bon ?
+
+      J'ai fort bien opéré.
+
+      Point du tout, je me loue !
+Ah ! S'il savait le reste !
+
+Pourquoi ne m'avoir pas instruit de son état ?
+
+Et moi, de même.
+
+En voici la réponse. Il n'y faut plus penser.
+
+      Il faut donc avouer ma sottise.
+Si ce billet vous cause un si grand embarras,
+On peut vous en tirer.
+
+Se déclarer un sot, est un grand sacrifice.
+
+Vous vous tourmentez fort, vous vous creusez l'esprit
+Pour faire une réponse à ce maudit écrit ;
+Il n'en faut point.
+
+      Non, vous dis-je ; et pour cause.
+Il n'est point d'elle.
+
+      Oui ; j'en sais quelque chose.
+
+      J'en suis fort étonné.
+Les femmes vont toujours plus loin que l'on ne pense,
+Et que l'on ne voudrait. J'ai fait une imprudence...
+
+      Non.
+
+Tempêtez, fulminez ; que diable ! il est de moi.
+
+      Vous l'avez dit ?
+
+Je voulais lui donner un peu de jalousie
+Pour tirer son secret. C'est un petit secours
+Que j'avais employé pour aider vos amours.
+
+Eh ! n'est-on pas assez puni quand on a tort ?
+
+Oui.
+
+Une amante ordinaire eut commencé par-là.
+
+Il est vrai.
+
+Eh ! ne vous chargez point de semblables remords.
+S'il fallait réparer les sottises des morts,
+Ma foi, leurs héritiers n'y pourraient pas suffire,
+Ce n'est pas votre faute : on n'a rien à vous dire.
+
+      Mais...
+
+      Qu'est-ceci ?
+
+Doucement ; s'il vous plaît.
+
+      Ma foi, non.
+
+À tort.
+
+Mais, vous dis-je...
+
+Monrose, écoutez donc... Il est bien loin.
+Que faire ? C'est à vous, mon esprit, à me tirer d'affaire.
+Vous avez à combattre, en ce moment fâcheux,
+La probité, l'amour, et le diable avec eux.
+
+Puis-je obtenir d'Hortense un moment d'audience ?
+
+Clorine a le coeur triste, à ce qui me paraît ?
+
+      Ah ! je vois ce que c'est.
+Vous comptiez suivre Hortense au Couvent ; mais sa tante
+Avec impolitesse a frustré votre attente
+Par un sot compliment.
+
+Où diable vouliez-vous achever vos beaux jours ?
+Dans les ennuis forcez d'une triste clôture,
+Vous, dont l'esprit actif, toujours à la torture,
+Pétille dans un corps de salpêtre et de feu ?
+D'ailleurs, si vous voulez, vous m'en ferez l'aveu ;
+Mais, à proportion, vous êtes mieux qu'Hortense.
+
+      Et dans sa décadence
+Elle ne peut vous faire aucun bien désormais.
+
+Clorine est héroïque !
+
+Écoute, mon enfant. Je vois qu'auprès d'Hortense
+Il faut que je te serve.
+
+Tu n'as jamais voulu me croire propre à rien ;
+Mais je veux t'en punir, en te faisant du bien.
+
+      Parbleu, Mademoiselle,
+Ce sera malgré vous... Mais je la vois ; c'est elle.
+
+Cette fille paroît avoir quelque soupçon.
+
+Oui-da.
+
+Vous me donnez, Madame, un titre trop flatteur.
+
+      Que le Ciel m'en préserve ?
+
+      Ils sont toujours chez moi :
+Et mon dessein n'est pas d'en faire aucun emploi.
+
+Monrose m'est bien cher : mais je suis incapable
+De le servir ainsi. Je serais trop coupable.
+
+Je voudrais, autrement, le pouvoir secourir.
+
+      Autant qu'il est possible.
+
+Ce n'est pas sans raison. Eh ! Madame en effet,
+Pouviez-vous recueillir le fruit de ce bienfait ?
+La gloire que mérite une action si belle,
+Devait s'ensevelir et se perdre avec elle.
+Vous ne pouviez passer pour en être l'auteur.
+
+L'intention suffit.
+
+      Pour le faire briller.
+Du reste de vos biens faut-il vous dépouiller ?
+Songez à vous, Madame.
+      Il faut que je m'en tire.
+Vous êtes ruinée. Il est bon de vous dire
+Que vous n'avez plus rien que ces faibles débris.
+
+Pour qui conservez-vous un intérêt si tendre ?
+Savez-vous seulement si ?...
+
+Jusqu'ici, vous avez si peu flatté ses feux...
+
+Oh ! parbleu, serviteur. Pour moi, je m'en désiste.
+Je remettrai le tout entre les mains d'Ariste.
+Allons...
+
+      Ah ! C'en est fait.
+
+Cette fille m'en veut.
+
+Tant mieux.
+
+Aucune.
+
+Est-ce ma faute, à moi, si l'on paye vos dettes ?
+J'ignore à qui l'on doit imputer ce bienfait :
+Mais je n'ai point de part au tour que l'on vous fait.
+Il est bien vrai qu'Hortense a voulu me séduire.
+Puisqu'enfin l'on m'y force, il faut vous en instruire.
+Elle avait fait porter chez moi ses diamants :
+Ils y sont : venez-y ; vous verrez si je mens.
+
+Eh que diable ! ai-je pu les lui faire reprendre ?
+Ce que veut une femme est écrit dans le Ciel.
+Enfin, j'ai tenu bon : voilà l'essentiel.
+J'ai fait ce que j'ai pu contre cette obstinée,
+Jusqu'à lui découvrir qu'elle était ruinée.
+
+Elle a, fans sourciller, appris cette nouvelle.
+Alors, pour votre honneur, et par pitié pour elle,
+J'ai cru que je devais lui dire franchement
+Qu'elle n'est plus l'objet de votre attachement.
+
+N'avez-vous pas rompu cette chaîne cruelle ?
+Je l'ai cru.
+
+C'est pour son bien. Ma foi, j'ai cru faire merveilles.
+
+      Tant mieux.
+Il s'agit d'un service un peu plus sérieux.
+
+      Sans contredit.
+
+Tu le prends pour un autre ; et c'est lui faire injure.
+
+      Si j'étais dans le cas,
+Ce serait un secret que je n'avouerais pas.
+
+      Ariste l'a trahi ?
+
+      L'avis est assez doux.
+
+Par ma foi, ce serait des exploits mal placés.
+Son déshonneur nous verge, et le punit assez.
+
+Non pas moi, sûrement.
+
+Le coup dont tu gémis est celui qui m'accable.
+Viens, cher ami ; fuyons un siècle trop coupable ;
+Sous un Ciel étranger allons vivre pour nous ;
+Pourvu que je te suive, il me sera trop doux.
+De ma faible fortune accepte le partage.
+Que ne m'est-il permis de t'offrir davantage !
+
+En vous remerciant de tous vos beaux discours.
+
+      Vous vouliez me brouiller
+Avec Monrose ; mais...
+
+      Moi.
+
+Vous vous formez de nous une idée assez haute.
+
+Mais sachez donc....
+
+Quand vous aurez lassé votre langue maudite,
+J'espère...
+
+Quel est votre dessein ? Où voulez-vous aller ?
+
+Je frémis du projet ; gardez-vous de le suivre.
+
+Vous êtes enchaîné.
+
+On m'en ferait d'affreux, si vous vous écartez.
+
+      Vous me perdez d'honneur, si vous partez.
+
+Le rapport est plus grand que vous ne pouvez croire.
+
+      On m'accuse...
+
+D'être votre complice.
+
+Le Destin a comblé toutes ses injustices.
+
+Il est imaginaire.
+
+      Dornane m'écrit : jugez-en par sa lettre.
+"Je t'écris à la hâte. Ariste, non content
+Des biens de notre ami, lui ravit sa maîtresse ;
+Il l'a fait demander : le fait est très constant.
+Tu lui diras, en cas que cela l'intéresse.
+À propos ; on le croit riche ; et je te l'apprends.
+Entre nous, tu lui vaux cette galanterie.
+On l'accuse d'avoir détourné... tu m'entends ?
+Fait finir au plutôt cette plaisanterie."
+
+      On le dit.
+
+Les effets du défunt, et tous les biens d'Hortense.
+L'on croit que je vous ai prêté mon assistance.
+
+Il n'est point de malheur qui ne puisse augmenter.
+
+Mon amitié constante, et toujours malheureuse.
+Sans elle, notre honneur serait encore entier.
+Je vous ai fait passer pour un riche héritier.
+Ces bruits avantageux m'ont paru nécessaires
+Pour vous donner le temps d'arranger vos affaires.
+Je les ai répandus ; c'était pour votre bien.
+On m'a cru. Cependant il ne s'est trouvé rien.
+Et je suis soupçonné. Vous devinez le reste.
+
+Soyez sûr que ces bruits ne seront pas durables.
+Vous n'êtes accusé que par des misérables :
+C'est par des gens comme eux que leurs discours sont crus.
+
+Opposez le courage à cette calomnie.
+
+Demeurez ; c'est à quoi j'ose vous exhorter.
+
+      Ô Ciel !
+
+Voulez-vous bien passer dans cet appartement.
+
+      D'où vient cet accident ?
+Dornane aura parlé. C'est un homme imprudent.
+Vous aurez devant lui projeté votre fuite.
+Ce bruit vous aura nui. La Cour en est instruite :
+Et voilà ce qui fait qu'on s'assure de vous.
+
+      Vous les confondrez tous.
+
+Votre ruine même.
+
 Je viens d'être éclairci. Vous n'êtes arrêté,
 Qu'en vertu d'un propos que l'on vous a prêté.
 Dornane...
 
--*who_monrose
-      Eh bien ?
-
--*who_aramont
       Son zèle et sa prudence éclatent.
 C'est un homme qui veut que les autres se battent.
 Il dit que votre idée est de tirer raison
@@ -3803,143 +2659,353 @@ Du procédé d'Ariste, et de sa trahison :
 Et voilà ce qui fait que l'on vous garde à vue.
 Mais vous allez avoir une étrange entrevue.
 
--*who_monrose
-Comment ?
-
--*who_aramont
       Ariste... Il ose ici...
 
--*who_monrose
-      Quel embarras ?
-
--*who_clorine
-Vous l'allez voir paraître ; il marche sur mes pas.
-
--*who_hortense
-Ah Ciel ! que n'ai-je autant de charmes que de haine ?
-Je le veux accabler sous le poids de sa chaîne.
-
--*who_aramont
 Mais le voici qui vient ; contenons-nous un peu.
 
-**** *book_ *id_V07 *act_V *date_1737
-
--*who_ariste
-Vous pouvez nous laisser : votre ordre n'a plus lieu :
-Je me charge de tout ; la Cour en est instruite.
-
-**** *book_ *id_V08 *act_V *date_1737
-
--*who_ariste
-Je viens rendre raison de toute ma conduite.
-
--*who_monrose
-On n'en demande point à ceux qui sont heureux.
-
--*who_ariste
-Il est vrai, je le suis ; tout succède à mes voeux.
-
--*who_aramont
 Monsieur, vous voulez bien que je vous félicite !
 Vous voyez quels transports votre bonheur excite.
 
--*who_ariste
-Je n'en suis point surpris.
-
--*who_aramont
       Ma foi, je le crois bien.
 
--*who_ariste
-On m'a tout accordé.
-
--*who_aramont
       Pour qu'il n'y manque rien,
 Tenez ; voilà leur reste : ils n'en savaient que faire.
 Ni moi non plus... Prenez toujours ; c'est votre affaire.
 
--*who_ariste
-Madame...
-
--*who_hortense
-      Laissez-moi.
-
--*who_aramont
       Je suis hors d'embarras.
 
--*who_hortense
-Je ne sais ce que c'est, mais je n'ignore pas
-Qu'il vous a plu, Monsieur, d'empêcher ma retraite.
+      En quoi ?
 
--*who_ariste
+Quel conte !
+
+J'ai pensé m'en douter.
+
+      Bon, bon ; point de rancune :
+Pour moi, je vous réponds que je n'en garde aucune.
+
+
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
+Ce portrait-là, Monsieur, est celui de l'amour.
+
+      Mon abord vous étonne !
+
+Personne. Si j'ai bien entendu votre entretien...
+
+Les amis de Monrose étaient sur le tapis.
+Vous paraissez avoir épuisé la matière ;
+Et Monrose vous doit sa confiance entière.
+Oui, par provision vous nous excluez tous.
+Il ne doit plus compter sur d'autres que sur vous.
+Vous suffirez à tout ; du moins, je le souhaite.
+L'amitié qui se vante est souvent indiscrète.
+Cependant trouvez bon qu'au rang de ses amis
+Quelqu'autre puisse encore avec vous êtes mis.
+L'amitié n'admet point de basses jalousies,
+C'est à l'amour qu'il faut laisser ces frénésies.
+
+Votre santé va bien ; je vous en félicite.
+
+      Chacun a ses usages.
+
+      Qui ne sont pas plus sages.
+
+Quoi ! vous avez reçu tous ces vains compliments ?
+
+Vous n'empêcherez pas ces bruits de se répandre ?
+
+Vous en parlez, Monsieur, avec capacité.
+
+      Vous êtes politique.
+
+Contre cet étourdi je ne saurais tenir.
+Dans un instant, Monsieur, pourrais-je revenir ?
+
+      J'aurais eu quelque chose à vous dire.
+Je veux prendre mon temps.
+
+Je puis donc vous parler ?
+
+      Vous me le permettez ?
+
+Une étroite amitié m'unissait avec elle.
+Votre oncle n'eut jamais un ami plus fidèle,
+Et plus tendre que moi. Je vous trahirais tous,
+Si je dissimulais davantage avec vous.
+Vous vous perdez.
+
+Vous entrez dans le monde ; et vous allez paraître
+Sur ce fameux théâtre, où j'ignore comment
+J'ai pu me soutenir jusques à ce moment.
+Vous n'êtes pas encore instruit de ses mystères.
+Jusqu'ici vos emplois, vos devoirs militaires,
+Vous en ont écarté. La Cour est en tout temps
+Une terre inconnue à tous ses habitants.
+Après un long séjour, après un long usage,
+On s'y retrouve encore à son apprentissage ;
+On y marche toujours sur des pièges nouveaux ;
+On y vit, entouré d'un peuple de rivaux,
+Ou d'amis dangereux. Heureux qui les devine !
+On n'y peut s'élever que sur quelque ruine ;
+On n'y peut profiter que des fautes d'autrui.
+Tel, au gré de ses voeux, s'y maintient aujourd'hui,
+Qui demain ne pourra faire tête à l'orage :
+Et l'on finit souvent par y faire naufrage.
+Mais d'après ce portrait qu'on ne peut qu'ébaucher,
+N'avez-vous en secret rien à vous reprocher ?
+
+Le succès ! Puissiez-vous n'être point dans l'erreur !
+Je voudrais avoir pris une fausse terreur :
+Mais je tremble pour vous.
+
+Votre sécurité me semble inconcevable.
+
+Dites de ses bontés.
+
+Vous méritez beaucoup ; mais on ne vous doit rien.
+
+Vous vous faites un droit qui pourrait ne pas être.
+Vos aïeux ont chacun obtenu dans leur temps,
+Le prix que méritaient leurs services constants.
+Ce sont leurs actions, plutôt que leurs Ancêtres,
+Qui les ont fait combler des faveurs de leurs Maîtres,
+Et monter aux honneurs que vous sollicitez.
+Les bienfaits sont à ceux qui les ont méritez.
+Les grâces ne sont point des biens héréditaires :
+Nous n'en sommes jamais que les dépositaires :
+Mais par la même voie on peut les obtenir.
+Vos pères ont laissé leur nom à soutenir,
+Leur vertu, leur exemple, et leur carrière à suivre.
+Voilà ce qu'après eux il faut faire revivre,
+Et dont vous vous devez mettre en possession.
+Tout le reste n'est point de leur succession.
+
+La façon pouvait être un peu plus convenable.
+Lorsque j'ose avancer qu'il ne vous est rien du,
+Je ne dis pas, Monsieur, qu'il vous soit défendu
+D'employer les moyens qui sont à votre usage,
+Pour sauver le débris d'un aussi grand naufrage.
+Vous y devez songer ; et je dois vous aider.
+
+      La voici cette lettre.
+Quelqu'un veillait pour vous. Son bonheur a permis
+Qu'il ait su le danger où vous vous étiez mis.
+Quoi ? Vous osez, Monsieur, dans l'état où vous êtes,
+Poursuivre des bienfaits comme on poursuit des dettes ?
+L'orgueil et la fierté sollicitent pour vous ?
+Si vous aviez des droits, vous les détruiriez tous.
+C'est indirectement s'attaquer à son Maître,
+C'est l'offenser lui-même, et c'est le méconnaître,
+Quand on manque aux égards que l'on doit à son choix.
+
+      Je fais ce que je dois.
+Je ne sais point flatter quand le mal est extrême.
+Mais vous n'étiez pas fait pour vous perdre vous-même.
+Eh ! laissez-vous aller à votre naturel,
+Au caractère heureux qui vous est personnel.
+Vous êtes né prudent, humain, doux, et flexible :
+Ce sont-là les moyens qui rendent tout possible.
+Il faut gagner les coeurs ; la fortune les suit.
+Lorsque vous le pouvez, quelle erreur vous séduit ?
+On ne peut s'observer avec trop de scrupule,
+Un langage superbe est toujours ridicule :
+Plus on est élevé, plus il est messéant.
+C'est ainsi que le Peuple, au fond de son néant,
+Toujours séditieux, quelque bien qu'on lui fasse,
+Parle indiscrètement de ceux qui sont en place :
+Vous en seriez traité de même, à votre tour,
+Si vous étiez chargé de le régir un jour.
+
+Que la décision n'est-elle en mon pouvoir !
+Mais c'est un dénouement que l'on ne peut prévoir.
+Peut-être est-il prochain : et votre destinée
+Peut, d'un moment à l'autre, être déterminée.
+Attendez votre sort ; et ne recevez plus
+Ces compliments suspects autant que superflus.
+Peut-être des amis un peu trop pleins de zèle,
+Ou des Rivaux, ont fait courir cette nouvelle.
+Un bruit trop favorable est souvent dangereux.
+Voyez des gens qui soient un peu mieux instruits qu'eux ;
+Et du reste daignez agréer mes services.
+
+Vous n'avez pas besoin de faire aucune instance.
+Allez : et moi, je vais prendre congé d'Hortense.
+
+Cherchons en même temps à servir son amour.
+Sachons si sa Maîtresse a pour lui du retour.
+En cas qu'il soit aimé, je pourrais par la suite...
+Mais, la voici qui vient recevoir ma visite.
+
+Ah ! Madame, excusez... en ce même moment
+J'allais vous prévenir dans votre appartement.
+
+C'en est donc fait, Madame ! un départ nécessaire
+Éloigne de la Cour son plus bel ornement ?
+Il est bien douloureux de vous perdre, au moment
+Où tout semblait devoir fixer ici vos charmes.
+Que vous allez coûter de soupirs et de larmes !
+
+Ce sont les sentiments qui sont dans tous les coeurs.
+Madame, il en est un, sans vous parler du reste,
+Pour qui ce contretemps doit être bien funeste.
+Il semblait être fait pour vous appartenir.
+Pourrez-vous conserver un tendre souvenir ?
+Vous garantirez-vous des effets de l'absence ?
+
+Que deviendront ces noeuds que l'amour avait faits ?
+Votre coeur, votre main, sont les plus grands bienfaits,
+Que puissent procurer l'Amour et la Fortune.
+L'espoir va ranimer une foule importune.
+On cherchera sans doute à forcer votre choix.
+Vous ressouviendrez-vous qu'un autre avait des droits ?...
+
+Un sentiment plus doux est-il moins légitime ?
+
+      Par des noeuds pleins d'appas
+Vous alliez être unis.
+
+Quoi donc ? Que voulez-vous par-là me faire entendre ?
+
+Quand l'amour vous aurait soumise à son pouvoir
+Sur la foi d'un hymen prochain et convenable...
+
+Vous ne m'honorez point de votre confiance,
+Madame, je le vois : j'ai quelque expérience.
+Pourquoi me craignez-vous ? Ne dissimulez plus.
+
+Un intérêt plus tendre, et plus fort qu'on ne pense,
+M'oblige à redoubler une si vive instance.
+J'espère par la suite obtenir mon pardon.
+À quelque chose enfin l'on peut vous être bon,
+Et même auprès de ceux dont vous allez dépendre.
+De mon faible crédit je puis assez prétendre...
+
+      Ah ! vous y comptez peu.
+Si vous ne daignez pas m'accorder votre aveu,
+Donnez-moi les moyens d'agir en assurance ;
+Dites-moi votre goût, ou votre répugnance ;
+Par pitié pour vous-même, ordonnez ; et comptez...
+
+Que l'espoir d'être à vous faisait tout son bonheur.
+
+Il est vrai que depuis qu'il est sous votre empire,
+Son coeur vous est assez connu pour n'en rien dire.
+
+Je vous l'ai demandé, sans pouvoir l'obtenir.
+
+Il l'attendait de vous, Madame.
+
+      J'en ai bien du regret.
+
+Ah ! je ne métais pas trompé dans mon attente.
+Il faut vous deviner ; et vous serez contente.
+Je ne vous presse plus. Puisse un retour heureux
+Satisfaire au plutôt mes désirs et vos voeux !
+
+J'attendrai son retour. Surtout, qu'on l'avertisse,
+Sitôt qu'il rentrera.
+
+      Faut-il que je ne puisse
+Lui dire mon secret ? Monrose est étonnant
+De ne pas voir quel est le péril imminent,
+Où son humeur facile expose sa fortune.
+La remontrance ici deviendrait importune ;
+Et loin de s'éclairer par mes avis secrets,
+Il irait les traduire à ces gens indiscrets,
+À qui sa confiance est un peu trop livrée.
+Oh ! jeunesse, toujours d'elle-même enivrée !
+Monrose est dans ce temps difficile à passer.
+Il faut y suppléer, et ne nous point lasser :
+Du moins j'ai réparé les fautes qu'ils ont faites.
+Quoi qu'il puisse arriver, j'ai mis ordre à ses dettes ;
+Il ne se perdra point.
+
+      Nous nous cherchons tous deux.
+
+      Quel est ce bruit fâcheux ?
+Ce qu'on dit, est-il vrai ? Vous quittez le service ?
+
+On vous prendrait au mot.
+
+Peut-être, rien ne presse encore ; il faut attendre...
+
+Savez vous si cet autre accepte ?
+
+Ou vous le supposez. Est-ce une conséquence ?
+On revient quelquefois de plus loin qu'on ne pense.
+Empêchez cependant qu'on n'aille débiter
+À la Cour, et par-tout, que vous voulez quitter.
+Un bruit si ridicule a l'air d'une menace,
+Ou du moins d'un dépit qui n'est pas à sa place.
+
+      Non ; ce n'est point eux.
+Il est bien d'autres gens qui sont plus dangereux.
+Ne croyez pas, Monsieur, que je taxe personne
+Dans ces réflexions que je vous abandonne.
+Quand j'y pense, entre nous, je vois présentement
+Que l'amitié se donne et se prend aisément ;
+Elle est, comme l'amour, hasardeuse et légère.
+Une conformité frivole et passagère
+D'âge, d'état, d'humeur, et surtout de plaisir,
+Sans nul autre examen, suffit pour nous saisir.
+Nous nous associons, comme on fait en voyage,
+Sans savoir avec qui le hasard nous engage ;
+Et l'on devient ami comme on devient amant :
+Pour faire une maîtresse, il ne faut qu'un moment :
+Mais l'amitié, du moins comme je l'envisage,
+De part et d'autre exige un long apprentissage ;
+Et vous devez savoir à vos propres dépens,
+Qu'un ami véritable est l'ouvrage du temps.
+
+Mais ne craignez-vous rien de leur étourderie ?...
+Pardonnez ; je m'échappe ici mal-à-propos :
+C'est, je crois, vous en dire assez en peu de mots.
+Du reste est-il permis de vous parler d'Hortense ?
+
+      Qu'est-ce ? On soupçonne un peu votre constance.
+Vous ne la voyez plus. D'où vient ce changement ?
+Parlez ; auriez-vous pris quelqu'autre engagement ?
+
+Qui peut vous imposer ce pénible silence ?
+
+C'est assez. On me mande ; et je vais à la Cour.
+Peut-être vous verrai-je avant la fin du jour.
+
+Vous pouvez nous laisser : votre ordre n'a plus lieu :
+Je me charge de tout ; la Cour en est instruite.
+
+Je viens rendre raison de toute ma conduite.
+
+Il est vrai, je le suis ; tout succède à mes voeux.
+
+Je n'en suis point surpris.
+
+On m'a tout accordé.
+
+Madame...
+
 Je crois que vous pourrez en être satisfaite.
 
--*who_hortense
-Quelle audace ! Est-ce à vous que je dois mon retour ?
-
--*who_ariste
 Oui ; j'ai sollicité cet ordre de la Cour.
 On ne vous perdra point. L'amour et l'hyménée
 Y vont fixer vos jours, et votre destinée.
 On m'a favorisé...
 
--*who_hortense
-      Qui ? Vous, perfide ami ?
-C'est dans la trahison être bien affermi !
-Vous voulez que ma main couronne votre ouvrage ;
-Mais il faut repousser l'injure par l'outrage.
-Notre état différent vous rend audacieux.
-Vous croyez m'éblouir, et je lis dans vos yeux
-Un espoir insultant fondé sur mes disgrâces :
-Mais je ne connais point de ressources si basses...
-
--*who_ariste
 Non, Madame, l'hymen vous garde un sort plus doux.
 D'ailleurs, vous êtes riche.
 
--*who_aramont
-      En quoi ?
-
--*who_monrose
-      Que dites-vous ?
-
--*who_ariste
 Qu'il est faux que Madame ait été ruinée.
 
--*who_aramont
-Quel conte !
-
--*who_ariste
       Cette histoire est mal imaginée.
 Ce bruit injurieux s'est détruit aussitôt.
 Chez un homme public ses biens sont en dépôt.
 
--*who_hortense
-Qu'entends-je ?
-
--*who_clorine
-      Est-il possible ?
-
--*who_monrose
-      Ô Ciel ! Quelle surprise ?
-
--*who_ariste
 C'est la précaution que votre oncle avait prise.
 Oui, Monsieur, ce n'est plus un secret aujourd'hui.
 Il est justifié ; vous l'êtes comme lui.
 
--*who_monrose
-Je suis justifié !
-
--*who_ariste
       C'est moi qui vous l'atteste.
 
--*who_monrose
-Fortune, c'est assez, je te quitte du reste.
-Mes voeux sont épuisez. Mon honneur m'est rendu.
-Madame, pardonnez à mon coeur éperdu
-Ce transport excessif...
-
--*who_ariste
       Permettez ; je vous prie ;
 Il est bien juste aussi que je me justifie.
 J'ai dû jusqu'à la fin vous cacher des secrets,
@@ -3959,48 +3025,14 @@ Le Prince m'a permis de vous les céder tous :
 Et je vous les remets avec toute la joie...
 Souffrez qu'en m'acquittant tout mon coeur se déploie.
 
--*who_monrose
-Monsieur, ce n'est pas-là tout ce que je vous dois.
-Mes créanciers...
-
--*who_ariste
       Laissons cet incident.
 
--*who_monrose
-      Je vois.
-Que c'est à vous, Monsieur, que j'en suis redevable.
-
--*who_aramont
-J'ai pensé m'en douter.
-
--*who_hortense
-      Que je me sens coupable !
-
--*who_ariste
 Madame, c'est pour lui que je viens d'obtenir
 Le don de votre main : vous pourrez vous unir.
 
--*who_hortense
-J'ai des torts avec vous.
-
--*who_aramont
-      Bon, bon ; point de rancune :
-Pour moi, je vous réponds que je n'en garde aucune.
-
--*who_ariste
 Notre premier devoir nous appelle à la Cour.
 Venez ; partons ; l'hymen vous attend au retour.
 
--*who_monrose
-Ah ! permettez du moins que ma reconnaissance.
-Se manifeste autant qu'il est en ma puissance.
-
--*who_ariste
 En vous faisant jouir du destin le plus doux.
 Croyez-vous que je suis moins fortuné que vous ?
 
--*who_monrose
-Ah ! Madame, souffrez que mon coeur se partage.
-Monsieur, je ne puis rien vous offrir davantage.
-Ô Fortune ! je sens et j'éprouve à présent.
-Qu'un ami véritable est ton plus grand présent.

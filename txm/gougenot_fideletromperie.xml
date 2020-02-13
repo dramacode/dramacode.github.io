@@ -1,4 +1,4 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -3357,7 +3357,8 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
-          <head>SCENE SEPTIESME<pb n="152"/></head>
+          <pb n="152"/>
+          <head>SCENE SEPTIESME</head>
           <sp xml:id="V07-1" who="clidame">
             <l n="2294" xml:id="l2294">Dieux ! qu’est-ce que je voy, tout a changé de face,</l>
             <l n="2295" xml:id="l2295">Ceste Cour a repris le lustre de sa grace.</l>

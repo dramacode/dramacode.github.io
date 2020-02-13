@@ -1,476 +1,24 @@
 
 
-**** *book_ *id_epitre *date_1648 *creator_magnon
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
-Espitre. A MONSEIGNEUR MONSEIGNEUR LE TELLIER SEIGNEUR DE CHAVILLE CONSEILLER DU ROY en ses Conseils, Secretaire d'Estat, & des Commandemens de sa Majesté.
-
-MONSEIGNEUR,
-
-Vous vous estonnerez de ce qu'un homme qui vous est inconnu, vous consacre l'un de ses ouvrages : mais cette surprise doit cesser, quand vous considererez que si son nom n'est venu jusques à vos oreilles, il a entendu discourir du vostre à la Renommée : & qu'à ce regard, ce qu'elle publie de vostre merite, vous fait connoistre tout le monde, parce que tout le monde vous connoist.
-La France, MONSEIGNEUR, n'est pas assez / / estenduë pour contenir vostre Nom : qui ne vous a point veu, a oüy parler de vous ; & tous les Estrangers vous ont en une veneration si extraordinaire, que l'on vous soupçonneroit, par les loüanges qu'ils vous donnent, d'estre de leur intelligence⁎, si l'Estat n'estoit parfaitement asseuré de vostre fidelité.
-La haute confiance qu'ont en vous Leurs Majestez, est fondée sur ce zele⁎ infatiguable que vous avez pour les interests du Royaume : Vous estes dans le Ministere, ce que l'une des premieres intelligences est dans le Ciel ; & vous ne contribuez pas d'une legere assistance â ce grand Moteur de l'Estat, qui fait acheminer les affaires à la periode qu'il leur a prescrite : vous y donnez un grand bransle⁎ : vous aydez continuellement à faire rouler un fardeau, qui a desja fait suer tant d'Archimedes, & qui malgré leur insuffisance, ne laissera⁎ pas dans les nouvelles Constitutions où vous l'establissez tous les jours, de trouver le centre qu'ils luy avoient inutilement recherché.
-Ce sera un coup, MONSEIGNEUR, qui estoit reservé pour vostre siecle : Tant de mains qui s'appliquent aujourd'huy à ce glorieux travail, ne doivent pas estre vainement employées : mais principalement la vostre y porte ses coups avec tant de force & tant de justesse, que le premier Atlas de nostre Empire, qui semble plustost porter que faire rouler ce grand poids, remarque visiblement entre tous les secours qu'on luy donne, l'assistance que vous luy rendez.
-Ce seroit ici, MONSEIGNEUR, où je vous devrois entretenir de tant d'emplois importans que vous avez soustenus partout, & surtout dans l'Italie : mais je diray seulement que c'est-là où Monseigneur le Cardinal / / MAZARIN, qui a le don de connoistre les hommes extraordinaires, vous connut pour homme qui excedoit le commun, & digne desja par advance, de la glorieuse charge⁎ que vous exercez : & où par un mutuel estonnement⁎ vous découvristes en luy ces eminentes qualitez, qui l'acheminoient à grands pas au Ministere de nostre Etat.
-Vous ne vous trompastes point l'un & l'autre : vous voila dans les places où vous vous attendiez tous deux : que si du rang où il est assis, il donne les ordres qu'il reçoit de Leurs Majestez ; du degré où vous estes élevé, vous faites entendre au peuple les volontez souveraines : & l'importante fonction qui vous occupe, est si necessaire au Gouvernement, qu'elle attache à vostre conduite la plus belle partie du Royaume.
-Tous les gens de guerre sont sousmis à la parole que vous leur faites porter : & ces sortes de personnes, que le bruit des coups de canon empéche assez souvent d'entendre les loix, respectent avec tant de joye ce que vous leur prescrivez de la part du Prince, qu'on les voit courir au devant des ordres, & les entendre avec une soûmission où possible ils ne tomberoient point, si une autre main que la vostre avoit souscrit aux ordres du Conseil.
-Ce n'est point que je tombe en irreverence, ny que je vueille accuser les gens de guerre de des-obeyssance, dans un temps où ils prodiguent⁎ leurs biens & leurs vies pour le service de l'Estat : mais j'advance seulement, que tout ce qu'il y a de Chefs dans les armées, ne jure que par vostre Nom : & dés que LE TELLIER est au bas d'un ordre, qu'on se porte par un double mouvement, qui est le devoir pour le Prince, & l'estime pour vostre personne, à l'exe- / / cution des Commandemens Souverains.
-Enfin, je ne presume pas que vous soyez en doute de cette verité : la voix publique vous en a dit plus que la mienne.
-Ce qui me reste à vous dire, est, quoy qu'il vous importe peu de le sçavoir, qu'il n'est aucune occasion, quelque hazardeuse⁎ qu'elle fust, que je ne recherchasse aux dépens de ma vie, pour me faciliter vostre bien-veillance ; et que dans la certitude mesme de ne pouvoir me l'acquerir, je ne laisserois⁎ pas de sacrifier pour vous tout mon sang, si vous le souhaittiez, avec autant de joye, que si tous les interests du monde m'y invitoient.
-C'est la protestation que vous fait de tout son cœur,
-
-MONSEIGNEUR ,
-
-Vostre tres-humble & tres-obeyssant
-
-serviteur, de Magnon.
-
-**** *book_ *id_privilege *date_1648 *creator_magnon
-
-Extraict du Privilege du Roy.
-
-Par Grace & Privilege du Roy, donné à Paris le 20. jour de Novembre 1647.
-Signé, Par le Roy en son Conseil, le Brun, il est permis à Toussainct Quinet, Marchand Libraire à Paris, d'imprimer une piece de Theatre, intitulée, Tamerlan & Bajazet, Tragedie : & ce durant l'espace de sept ans, entiers & accomplis : & defences sont faites à toutes personnes, de quelque qualité qu'elles soient, de l'imprimer ou faire imprimer, sur les peines portées par ledit Privilege.
-
-Ledit Quinet a associé avec luy, Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l'accord fait entr'eux.
-
-Achevé d'imprimer pour la premiere fois, le 28.
-Mars 1648.
-
-Les Exemplaires ont esté fournis.
-
-**** *book_ *id_acteurs *date_1648 *creator_magnon
-
-LES ACTEURS.
-
-LE GRAND TAMERLAN ET BAJAZET. TRAGEDIE.
-
-**** *book_ *id_scene1-I *act_acteI *date_1648 *creator_magnon
-
--*who_dorize
-Au poinct que Bajazet & Tamerlan armez,
-Vont monstrer la fureur dont ils sont animez,
-Au lieu de soustenir la haine de vos peres,
-Vous negligez tous deux de servir leurs coleres,
-Vous vous formez, ce semble, un troisiesme party,
-
--*who_roxalie
-Ny son cœur⁎ ny le mien ne s'est point démenty,
-Et malgré nos amours, nous prenons leurs quereles⁎.
-
--*who_dorize
-Themir, & vous, Madame, estes tous deux rebeles,
-Avez-vous bien preveu la fin de ces amours ?
-
--*who_roxalie
-Helas ! il n'est plus temps d'en arrester le cours,
-Et cette passion⁎ que le Ciel m'a donnée,
-Procede moins de moy, que de la destinée.
-Ce sont des coups du sort⁎ qu'on ne peut divertir,
-Quoy que l'ame y repugne, elle y doit consentir :
-Tu sçais que Tamerlan nous assiegea dans Pruze,
-Et que l'ayant conquise, & par force & par ruse,
-Le sort⁎ nous reduisit au pouvoir d'un vainqueur ;
-Ce fut là que Themir s'assujettit mon cœur,
-Qu'il treuva dans mes yeux quelques mal-heureux charmes⁎,
-Que d'une main tremblante il essuya mes larmes,
-Et qu'il me protesta qu'il sentoit mes douleurs :
-Je levay dessus luy des yeux chargez de pleurs ;
-Et j'allois luy lancer un regard de colere,
-Quand il me demanda le pardon de son pere,
-Je regarday long-temps le Prince à mes genoux,
-Je pris en sa faveur un sentiment plus doux :
-Nous nous vismes tous deux avecque complaisance,
-Nostre amour aussi-tost en tira sa naissance :
-Nous sentismes en nous des secrets mouvemens,
-Dés le premier aspect nous devinsmes amans⁎ ;
-Dés ce charmant abord nos ames se connurent.
-Toutes nos qualitez en ce moment parurent ;
-Et nous envisageant d'un regard estonné⁎,
-Chacun sentit en soy ce qu'il avoit donné,
-Nos yeux incessamment se renvoyoient nos flammes⁎,
-Par nostre propre effort l'amour gaignoit nos ames ;
-Dans un si doux combat nous trahissions nos cœurs,
-Nous estions tour à tour, & vaincus & vainqueurs.
-Et nos yeux à l'envy contestant la victoire,
-Sembloient se reprocher, ou leur honte ou leur gloire.
-En me voyant rougir il m'en ceda l'honneur,
-Son ame eut repugnance à croire ce bon-heur ;
-Et refusant, ce semble, un si juste partage,
-Il me glorifia de tout cét advantage⁎,
-Quand mes yeux par des traits⁎ échappez par hazard,
-Allerent dire aux siens qu'ils en avoient leur part.
-
--*who_dorize
-Il est fils d'un vainqueur qui vous tient dans ses chaines.
-
--*who_roxalie 
-Mais Prince dont les soins⁎ ont adoucy nos peines.
-Mon cœur par ses respects comme presque forcé,
-Acheve ce que l'œil a si bien commencé,
-Et se sentant saisi d'une si douce flammes,
-S'arrache tout le fiel qu'il jettoit dans mon ame.
-Que nos peres instruits de ce funeste⁎ amour,
-Projettent aussi-tost de nous ravir⁎ le jour⁎,
-Nous irons au devant de ces grands parricides⁎,
-Recevoir en amans les tiltres de perfides ;
-Accepter un trêpas qu'ils auront ordonné,
-Et leur rendre le jour⁎ qu'ils nous auront donné.
-Qu'ils ne nous blasment point de des-obeyssance,
-Nous sçaurons maintenir les droicts de la naissance⁎,
-Et donnant à deux loix nos ames tour à tour,
-Nous sçaurons contenter, & le sang⁎ & l'amour,
-Au moins ils souffriront que la mort nous assemble.
-
--*who_dorize
-Je vois venir Themir.
-
--*who_roxalie
-      Sors, & nous laisse ensemble.
-
--*who_dorize 
-Vous luy devriez parler pour la derniere fois,
-
--*who_roxalie
-Inutile conseil ! il n'est plus à mon choix.
-
-**** *book_ *id_scene2-I *act_acteI *date_1648 *creator_magnon
-
--*who_themir
-Madame, il faut combattre, & desja nos armées
-De mesme qu'au butin, à la gloire animées
-Aux yeux l'une de l'autre ébranslent leur grand corps,
-
--*who_roxalie
-Serez-vous du combat ?
-
--*who_themir
-      J'y feray mes efforts.
-
--*who_roxalie
-Sur qui porterez-vous la pointe de vos armes ?
-
--*who_themir 
-O fatale rencontre & digne de nos larmes !
-
--*who_roxalie
-Ennemis eternels !
-
--*who_themir
-      O peres sans pitié !
-Faut-il que nous entrions dans vostre inimitié,
-Et devez-vous forcer⁎ vos enfans & vos femmes !
-
--*who_roxalie
-Ils veulent mettre en nous une part de leurs ames,
-Il leur faut ressembler, Seigneur, hayssons-nous,
-Portez, portez sur moy le premier de vos coups ;
-Et de ce mesme bras, de cette mesme épée,
-Dedans le mesme temps que vous m'aurez frappée ;
-Courez vers Bajazet pour luy percer le flanc ;
-Et tarissez en luy la source de mon sang⁎ :
-Non, non, quoy que ma voix vous porte à ce carnage,
-Mon œil qui la dément, tient un autre langage ;
-Desja vous vous pressiez de m'aller obeyr,
-Sur ce commandement m'auriez-vous pû trahir ?
-Enfin declarez-vous, combattrés-vous mon pere ?
-
--*who_themir 
-Je ne puis démeler qui des deux je prefere,
-J'écoute également l'amour & le devoir,
-Et tous deux sur mon ame ont un mesme pouvoir ;
-Enseignés-moy, Madame, un moyen legitime,
-Donnés-moy le secret de combattre sans crime.
-
--*who_roxalie
-Vous ne le pouvés pas.
-
--*who_themir
-      Quoy donc ?
-
--*who_roxalie
-      Il faut choisir,
-Et se refuser mesme un moment de loisir,
-Ma mere à nos amours cesse d'estre indulgente,
-Il n'est pas apparent que mon pere y consente ;
-Je n'ay point balancé l'amour & le devoir,
-Et tous deux sur mon ame ont different pouvoir ;
-De tant de passions dont l'ardeur nous emporte,
-Sans que nous en doutions, l'amour est la plus forte ;
-Et vous m'osez monstrer que c'est la moindre en vous,
-
--*who_themir
-S'il est de grands amans, je les surpasse tous ;
-Je pourray contenter Bajazet & mon pere, 8
-Je ne combattray point.
-
--*who_roxalie
-      La gloire est aussi chere,
-Ainsi que l'un des deux il la faut conserver.
-
--*who_themir
-Entre ces deux partis la pourray-je sauver ?
-
--*who_roxalie
-Ah ! c'est trop consulter ; m'aymez-vous ?
-
--*who_themir
-      Je vous ayme,
-
--*who_roxalie
-Et m'obeyrez-vous ? Répondez-moy.
-
--*who_themir
-      De mesme,
-J'amoindriray mon crime en vous obeyssant,
-Vos ordres me vont rendre un peu plus innocent ;
-J'en suis moins criminel, si je trouve un complice.
-
--*who_roxalie
-J'exige de vostre ame un rigoureux service,
-
--*who_themir 
-Commandez.
-
--*who_roxalie
-      Bajazet nous voit chez son vainqueur,
-Et nous luy retenons une part de son cœur⁎ :
-Vostre pere combat avec trop d'advantage,
-Allez donc vers le mail⁎ luy rendre le courage ;
-Et là luy demandant l'adveu⁎ de vos amours,
-Pour le mieux obtenir, offrez-luy du secours,
-Servez-le de vos vœux⁎ & de vostre personne.
-
--*who_themir
-Moy !
-
--*who_roxalie
-      Vous en pallissez.
-
--*who_themir
-      Vostre rigueur m'estonne⁎.
-
--*who_roxalie
-Vous avez deu fremir de ce commandement,
-Et vous devriez rougir de vostre estonnement.
-
--*who_themir
-Cruelle Roxalie !
-
--*who_roxalie 
-      Et vous Prince timide⁎ !
-
--*who_themir
-Quoy ! pour vous acquerir commettre un parricide⁎ !
-Que me demandez- vous ?
-
--*who_roxalie
-      Je ne veux point la mort.
-De vostre passion⁎ j'exige un moindre effort ;
-Mais puis qu'à ce combat vous avés repugnance,
-Je veux vous dispenser de vostre obeyssance.
-Infidele Themir, que rien ne peut toucher !
-Je me trouve en estat de vous tout reprocher ;
-En cecy ma vertu⁎ se pourra satisfaire,
-Vostre reconnoissance aura dequoy luy plaire :
-Et dedans les remords qu'elle me fait sentir,
-Elle voit avecque joye un juste repentir.
-Pourquoy luy donnez-vous ce mortel advantage ?
-Traités-vous mon amour avecque cét outrage ?
-Qu'il faille que mon cœur envers vous animé,
-Sente quelque regret de vous avoir aymé.
-Adieu.
-
--*who_themir
-      Cruel Adieu, mon ame l'a suivie,
-Elle emporte avec soy la moitié de ma vie.
-Allons perdre le reste.
-
-**** *book_ *id_scene3-I *act_acteI *date_1648 *creator_magnon 
-
--*who_indarthize
-      Hé bien agirons-nous ?
-Dedans leurs libertez vous interessez⁎-vous ?
-Et n'entrerez-vous point dedans mon entreprise⁎ ?
-
--*who_themir
-Mon ame avec regret consent à leur franchise⁎ ;
-N'importe, je veux suivre un conseil genereux⁎,
-Et je vay par honneur me rendre mal-heureux ;
-Que la vertu⁎ m'impose un sentiment bien rude !
-
--*who_indarthize
-Il les faut dégager de cette servitude.
-
--*who_themir
-Quoy les faire evader pendant nostre combat,
-Madame, on ne le peut.
-
--*who_indarthize 
-      Tout est en bon estat,
-Et leur évasion est si bien conjurée,
-Que vray-semblablement je puis estre asseurée,
-Vos Gardes & vous seul avez sceu mon secret.
-
--*who_themir
-Mon cœur s'y porte encor avec quelque regret :
-Vertu⁎ qui me combat, prends part à ma foiblesse,
-Je ne romps qu'en tremblant les fers⁎ de ma Princesse,
-Et mon amour timide⁎ au poinct de la sauver,
-Prevoit que pour jamais elle s'en va priver.
-
--*who_indarthize
-Faites-vous un effort.
-
--*who_themir
-      Je le ressens, Madame,
-Tel que sa violence émeut toute mon ame :
-Mais d'où vient cette ardeur que vous monstrez icy ?
-D'elle je vous voy prendre un eternel soucy :
-Vous ne m'en discourez qu'avec inquietude,
-Vous perdez le repos depuis leur servitude ;
-Quand Bajazet tiendroit & vos enfants & vous,
-Quand dessous son pouvoir il auroit vostre époux,
-Agiriez-vous pour tous avec un si grand zele⁎ ?
-
--*who_indarthize
-La generosité⁎ m'est assez naturelle.
-
--*who_themir
-J'entre bien plus avant dedans vos sentimens,
-Nulle des passions⁎ ne se cache aux Amans,
-Ils sçavent penetrer jusqu'au fonds des pensées,
-Juger des actions presentes & passées,
-Et discerner au vray ce qui semble à l'amour.
-
--*who_indarthize
-Enfin ma jalousie est mise dans son jour,
-Je veux bien l'advoüer, elle est trop legitime.
-
--*who_themir
-En effet tous ses soins⁎ ont surpassé l'estime,
-L'honneur dont il la traite, excede le respect,
-Enfin comme à vos yeux Tamerlan m'est suspect.
-
--*who_indarthize
-Il vous le peut bien estre, & selon l'apparence,
-
--*who_themir
-Qu'avez-vous presumé ?
-
--*who_indarthize 
-      Faut-il que je le pense,
-Et que je vous le die ?
-
--*who_themir
-      Enfin expliquez-vous :
-Mais sans que vous parliés vous me rendés jaloux :
-Caresse⁎-t'il la fille ?
-
--*who_indarthize
-      Aussi bien que la mere.
-
--*who_themir
-Quoy, je rencontrerois mon rival dans mon pere !
-Qu'auroit-il pretendu ? les veut-il épouser ?
-
--*who_indarthize
-Sans enfraindre nos loix il ne le peut oser,
-Je craind pour toutes deux un desastre bien pire,
-Que l'horreur que j'en ay m'empesche de vous dire.
-Son Serrail :
-
--*who_themir
-      Ah ! c'est trop : auroit-il des desirs
-D'immoler ma Princesse à ses lasches plaisirs ?
-Se pourroit-il resoudre à cette joüissance ?
-Mon ame avec horreur prevoit sa violence,
-Et ma main agitée aussi bien que mon cœur,
-Ressent jusque dans elle escouler sa fureur :
-Arreste icy mon bras, en vain mon cœur t'anime,
-Laisse-luy devorer le penser de ce crime,
-Et refusant d'agir selon ses mouvemens,
-Témoigne-luy ta crainte avec des tremblemens.
-Garde de te commettre⁎ à ce dangereux guide,
-Dedaigne avec honneur l'employ d'un parricide⁎,
-Et te tournant sur luy d'un effort courroucé,
-Vien frapper sans trembler celuy qui t'a poussé.
-Roxalie au Serrail ! ah ma vertu⁎ me laisse,
-Et mon ame ressent sa premiere foiblesse :
-Fust-il Pere, Roy, Dieu, je ne le puis souffrir,
-Il faut que l'un de nous se resolve à mourir.
-Je ne l'épargne point s'il ne me considere,
-Et cesse d'estre fils, s'il cesse d'estre pere :
-Roxalie au Serail ! dégageons-la d'icy.
-Et vous dont la vertu⁎ s'interresse en cecy,
-Vous formez un projet, apprenez-en un autre,
-Et sçachez mon dessein, puisque je sçay le vostre,
-Je vay de Bajazet me rendre prisonnier :
-
--*who_indarthize
-Quoy tenter ce moyen ?
-
--*who_themir 
-      Ce sera le dernier.
-
--*who_indarthize
-Dans ses fers⁎ !
-
--*who_themir
-      Ce secret vous semble bien estrange,
-Il force Tamerlan de conclurre un échange,
-Et de leurs libertés je deviens la rançon.
-
--*who_indarthize
-Pourrés-vous réussir sans donner du soupçon ?
-Je vay de mon costé tenter leurs délivrances.
-
--*who_themir
-Et je sçauray du mien sauver les apparences.
-
-**** *book_ *id_scene4-I *act_acteI *date_1648 *creator_magnon 
-
--*who_tamerlan
 Themir arrestés-vous, & vous, Madame, aussi,
 Vos frequens entretiens me donnent du soucy :
 Ce que vous concertés, est de quelque importance.
 
--*who_themir
-Tout ce que nous traitons, est peu de consequence.
-
--*who_indarthize
-Seigneur, nous discourons de la captivité,
-Du desir que chaque homme a de sa liberté :
-Comme tous les plaisirs sont imparfaits sans elle,
-Et comme son amour nous est si naturelle.
-
--*who_tamerlan
 De là vous étendant sur les plus grands revers⁎,
 Et courrant les mal-heurs qu'estale l'Univers ;
 Ces accidens fameux advenus par les armes,
 Au sort de Bajazet vous donnez quelques larmes.
 
--*who_indarthize
-En effet, son desastre est digne de nos pleurs,
-Roxalie & sa mere attiroient nos douleurs ;
-Le cœur le plus barbare y deviendroit sensible.
-
--*who_tamerlan
 J'ay de vostre tendresse une marque visible,
 Vous les voudriez sauver.
 
--*who_indarthize
-      C'est un vœu⁎ que je fais.
-
--*who_tamerlan
 Vous allez bien encore au de-là des souhaits :
 Promettre recompense aux soldats qui les gardent,
 Et pendant le combat vouloir qu'elles evadent.
 Est-ce une volonté qui se borne à l'effet ?
 
--*who_indarthize
-C'est un dessein, Seigneur, que vous-mesme avez fait,
-
--*who_tamerlan
 De vostre authorité sauver mes prisonnieres ;
 Employer le pouvoir, loin d'agir par prieres,
 Et vouloir entreprendre en ce double attentat⁎,
@@ -480,10 +28,6 @@ Et quelqu'autre raison les peut avoir tracées :
 Je la devine assez, c'est un conseil jaloux ;
 Mais encor declarez.
 
--*who_indarthize
-      Quoy ?
-
--*who_tamerlan
       Non, non, taisez-vous,
 Cachez vostre motif, je prend une autre cause,
 La vostre ne vaut pas que l'on se la propose ;
@@ -491,59 +35,20 @@ J'ayme mieux l'imputer à generosité⁎,
 Je donne à la vertu⁎ vostre infidelité ;
 Cette fausse couleur⁎ couvrira vostre crime⁎.
 
--*who_indarthize
-Par vertu⁎, par amour je le croy legitime ;
-Mon dessein est trop beau, je le veux advoüer,
-Et mon Juge luy-mesme a droict de m'en loüer :
-Leurs gardes m'ont trahy, & tous ces infideles
-Vous ont dit les projets que je formois pour elles ;
-Je veux donner du poids à ce qu'ils vous ont dit,
-Et par mon propre adveu leur donner du credit ;
-Il n'est pas de besoin que l'on me les confronte.
-
--*who_tamerlan
 Au moins témoignez-moy quelque sorte de honte.
 
--*who_indarthize
-La vertu⁎ ne sçait point ce que c'est que rougir,
-Elle seule en cecy me conseilla d'agir ;
-Et mon sexe⁎ & mon sang⁎ les voyant dans les chaisnes,
-Souffroient d'y regarder des femmes & des Reynes :
-Et quand ma jalousie y méleroit du sien,
-Il nous est naturel de chercher nostre bien ;
-Avecque des respects qu'il faut que je soupçonne,
-Et que vous ne devez qu'à ma seule personne :
-Par les plus grands honneurs que l'on puisse inventer,
-Vostre magnificence essaye à la tenter.
-
--*who_tamerlan
 Je luy rend les honneurs qu'on doit à sa naissance⁎,
 Vous qui vous excusez par ce profond silence ;
 Vous cherchez les moyens de vous justifier,
 De vous ainsi que d'elle on se doit défier ;
 Vous deviez partager la gloire de leur fuite.
 
--*who_themir 
-D'une action si noble elle a tout le merite ;
-Et je serois injuste en le luy ravissant.
-
--*who_tamerlan
 Ma femme me trahit, & mon fils y consent ;
 Il ose par ses vœux⁎ se rendre son complice !
 
--*who_themir
-Son ame malgré vous, vous rendoit ce service ;
-Elle a pris des desseins que vous deviez avoir.
-
--*who_tamerlan
 Quoy ! Themir, de vous deux j'apprendrois mon devoir ?
 Je sçay ce que la gloire enseigne à mes semblables.
 
--*who_themir
-Et ne la suivant pas ils en sont plus coulpables.
-Rendez à Bajazet.
-
--*who_tamerlan
       D'où vous naist cette ardeur ?
 Il semble que mon fils soit son ambassadeur :
 Quelqu'un doit arriver de la part de ce traistre,
@@ -551,186 +56,15 @@ Nous apprendrons l'employ qu'il aura de son maistre.
 Madame, il me suffit de sçavoir vos desseins,
 Je sçay bien le secret de les rendre tous vains.
 
--*who_indarthize
-Quoy, Seigneur !
-
--*who_tamerlan
       De ce pas allés dans vostre tente,
 Vous dans vostre quartier respondre à nostre attente ;
 Et d'une voix guerrierre animant vos soldats,
 Allés les preparer au plus grand des combats.
 
-**** *book_ *id_scene1-II *act_acteII *date_1648 *creator_magnon
-
--*who_bajazet
-Où sommes-nous, Selim, tu me vois dans sa tente,
-Tu vois un Empereur que l'on laisse en attente,
-Suis-je bien Bajazet en cét abaissement ?
-Et n'ay-je point changé par ce déguisement ?
-Pourra-t'on recognoistre à ces indignes marques,
-Le Souverain des Rois, & le Dieu des Monarques ?
-Effroyable misere où je suis parvenu !
-Je deviens, comme à tous, à moy-mesme incognu.
-
--*who_selim
-Quoy ! Seigneur, cét habit oste-il le courage ?
-
--*who_bajazet
-Tu me vois contre-faire un triste personnage ;
-Faut-il qu'en cét estat j'abaisse ma grandeur ?
-Que je sois devenu mon propre Ambassadeur ?
-Et par un motif lâche & mauvais stratagême,
-Que je sois deputé de la part de moy-mesme ?
-Regarde les dangers où mon amour m'a mis.
-
--*who_selim
-Vous estes incognu parmy vos ennemis.
-
--*who_bajazet
-Dans quel estonnement⁎ laisse-je mon armée ?
-Elle que ma presence a tousjours animée ?
-De pareils accidens ont produict de grands maux.
-
--*who_selim
-Manque-t'elle de Chefs ? elle a trois Generaux,
-Vos fils en vostre absence occupent vostre place.
-
--*who_bajazet
-Le malheur qui me suit va poursuivre ma race,
-Ils soustiennent en vain un Empire panchant,
-La grandeur Othomane incline à son Couchant,
-Desja de tous costez mon Empire succombe,
-Ils vont s'envelopper sous un thrône qui tombe,
-Et pensant retenir la pante qu'il a pris,
-Ils vont dessus leur teste attirer son débris.
-
--*who_selim 
-Quoy, le grand Bajazet, le vainqueur de la terre,
-Et qu'on a surnommé le foudre de la guerre,
-Se dément-il si tost d'un si superbe⁎ nom ?
-
--*who_bajazet
-Je sçauray conserver cét auguste renom,
-Cessant de conquerir, je cesseray de vivre :
-Mais mon bon-heur me quitte, il est las de me suivre,
-Et s'estant destaché d'avecque ma valeur,
-Ce lasche deserteur me livre à mon malheur.
-Luy qui m'avoit acquis tant de vastes Provinces,
-Qui m'avoit enrichy des Estats de cent Princes ;
-Me dépoüille aujourd'huy de ce qu'il m'a donné,
-Et rend par ce revers⁎ tout le monde estonné⁎.
-
--*who_selim
-Quoy ! redouteriez-vous de perdre vos conquestes ?
-
--*who_bajazet
-Que n'ay-je le plaisir de couronner cent testes ?
-De voir tout l'Univers du Couchant au Matin,
-S'ébranler & venir fondre⁎ sur ce butin !
-Mais qu'un seul Tamerlan joüisse de ma proye,
-C'est le dernier fleau que mon malheur m'envoye ;
-Il marche dans l'Asie en pas de Conquerant,
-Il prit & desola mes villes en courant ;
-Et tel qu'un fier torrent qu'ont grossy les tempestes,
-Ce cœur impetueux s'enfla de ses conquestes.
-Il s'est enorgueilly du gain de trois combats,
-Au premier Orthobule a trouvé son trépas :
-Au second armement Sebaste fut conquise,
-Dans nos derniers assauts ma famille fut prise.
-Jusque-là son bon-heur a suivy ses projets,
-Qu'il semble que le sort⁎ soit l'un de ses subjets :
-Quoy donc, mon ennemy possedera ma femme !
-Combien de mouvemens viennent saisir mon ame ?
-
--*who_selim
-Il vous la pourra rendre :
-
--*who_bajazet
-      Ah ! que me promets-tu ?
-Ce lasche usurpateur a-t'il tant de vertu⁎ ?
-Peut-estre que l'ingratte :
-
--*who_selim
-      Ostez-vous cét ombrage.
-
--*who_bajazet
-Veux-tu que je me flatte ? elle est dans l'esclavage,
-Elle est belle.
-
--*who_selim
-      Et par là, que redouteriez-vous ?
-
--*who_bajazet
-Une moindre apparence allarme un cœur jaloux,
-Tamerlan a des yeux, & ma femme a des charmes⁎.
-
--*who_selim
-C'est une ame de sang, qui n'ayme que les armes.
-
--*who_bajazet
-L'Amour sçait le secret d'adoucir ces cruels,
-Il sçait l'art d'amollir de si fiers⁎ naturels,
-Et dans ces passions dont l'ardeur les consomme,
-Il rend à des brutaux le naturel des hommes.
-Depuis qu'il a ma femme, il a changé de cœur,
-Ce monstre a dépoüillé sa premiere rigueur,
-Et son ame quittant tout ce qu'elle a d'horrible,
-De dur & de barbare, est touchée & sensible ;
-Témoins les traittemens que ce tyran luy fait,
-C'est de sa passion⁎ & la marque & l'effet :
-Qu'en doy-je presumer, s'il ne la veut point rendre ?
-
--*who_selim
-Il doit venir bien tost.
-
--*who_bajazet
-      Je suis las de l'attendre.
-
--*who_selim 
-Zilim de nostre part ; il vient nous aborder.
-
-**** *book_ *id_scene2-II *act_acteII *date_1648 *creator_magnon
-
--*who_bajazet
-Aurons-nous audiance ?
-
--*who_zilim
-      Il vient vous l'accorder,
-Il veut vous la donner dans cette mesme tente.
-
--*who_bajazet
-Depuis assez long-temps nous estions en attente.
-
--*who_zilim
-Jusques à certaine heure on ne le sçauroit voir :
-Il marche sur mes pas, venez le recevoir ;
-Il entre, abaissez-vous devant ce Dieu visible.
-
--*who_bajazet
-Que cette humilité m'est honteuse & sensible !
-
-**** *book_ *id_scene3-II *act_acteII *date_1648 *creator_magnon 
-
--*who_tamerlan
 Exposez vostre charge⁎.
 
--*who_bajazet
-      En voila la teneur.
-
--*who_tamerlan
 Lisez.
-
--*who_zilim
-      Le Chef des Chefs Bajazet grand Seigneur,
-Seigneur de Capadoce & de la Lycaonie,
-Prince de Cilicie, Attique, Bithinie,
-Grand Roy des Brysiens, des Sestes, Prigiens,
-Des Tribales, de Pont, des Macedoniens,
-Des Traces, de Nicée, & de la Pamphilie,
-Souverain de Phocide, & de la Natolie :
-A Tamerlan.
-
--*who_tamerlan 
+ 
       Ton Maistre a-t-il crû me braver ?
 Je le mettray plus bas qu'il ne veut s'élever :
 Les qualitez qu'il prend monstrent son arrogance ,
@@ -742,24 +76,12 @@ Et s'il rendoit le vol qu'il a fait à ces Princes,
 Sans se glorifier de ces noms differens,
 Il n'auroit que celuy du plus grand des Tyrans.
 
--*who_bajazet
-Pourquoy vous rendez-vous le Juge de mon Maistre ?
-
--*who_tamerlan
 Ne t'en informe point, j'ay le pouvoir de l'estre.
 
--*who_bajazet
-Par quel droict l'avez-vous ?
-
--*who_tamerlan
       Je suis le fleau de Dieu,
 Qui pour le chastier me conduit en ce lieu ;
 Le Sacrificateur n'attend que la victime.
 
--*who_bajazet
-Dequoy l'accusez-vous ?
-
--*who_tamerlan
       L'Univers sçait son crime :
 A peine eust-il monté sur le thrône Othoman,
 Qu'il se fist immoler son aisné Solyman ;
@@ -776,36 +98,10 @@ Et comme un incendie il embrasa la terre ;
 Sa mort doit satisfaire aux peuples qu'il arma,
 Et son sang doit esteindre un feu qu'il alluma.
 
--*who_bajazet
-Croyant parler de luy, tu parles de toy-mesme,
-Tu ravis à ton Prince & vie & diadême ;
-N'as-tu point usurpé les thrônes de vingt Rois ?
-N'as-tu point sousmis l'Inde & la Chine à tes loix ?
-Quels maux n'as-tu point fait dans ta propre patrie ?
-N'as-tu point opprimé le Cham de Tartarie ?
-Et prenant à ta solde un amas de bannis,
-Qui sous tes estandars se voyoient impunis,
-N'as-tu point envahy l'une & l'autre Scitie ?
-
--*who_tamerlan
 Insolent !
 
--*who_bajazet
-      L'on me force à cette repartie,
-N'offence point mon Maistre.
-
--*who_selim
-      Excusez son ardeur.
-
--*who_tamerlan
 Je pardonne ce zele⁎ en un Ambassadeur.
 
--*who_bajazet
-A-t'il jamais choqué les progrez de ta gloire ?
-Pourquoy donc t'opposer au cours de sa victoire ?
-Quel interest prends-tu dans tous ses differens ?
-
--*who_tamerlan
 L'interest de l'honneur est celuy que j'y prens,
 Les Rois qu'il mal-traitta, m'ont demandé vengeance,
 Je me suis engagé d'épouser leur deffence :
@@ -818,406 +114,48 @@ Qu'on batte en ses Estats sa monnoye à mon coin,
 Qu'il envoye en ma Cour ses enfans pour ostage,
 Et qu'il paye en tribut.
 
--*who_bajazet
-      N'en dy pas davantage ;
-Si tu te veux sousmettre aux loix que tu luy fais,
-Je le conjureray de te donner la paix.
-
--*who_tamerlan
 Insolent ! dy-moy donc le sujet qui t'ameine.
 
--*who_bajazet
-Je voy qu'apparemment mon ambassade⁎ est vaine.
-
--*who_tamerlan
 Achevez cette lettre, & sçachons ce qu'il dit.
 
--*who_zilim
-Celuy que je t'envoye, a receu tout credit,
-Il peut de plein pouvoir t'engager ma Couronne, 34
-Je le tiens aussi cher que ma propre personne,
-Et traittant avec luy, tu traittes avec moy.
-
--*who_tamerlan
 Expose sa demande, il se confie à toy.
 
--*who_bajazet
-Tu luy retiens sa femme, & c'est ce qu'il desire ;
-Il t'offre pour rançon le tiers de son Empire.
-
--*who_tamerlan
 Je ne puis la luy rendre, il ne l'aura jamais.
 
--*who_bajazet
-Recevez de sa part l'offre que je vous fais ;
-Voyez en quel estat je vous le fais parestre,
-Et comme je démens la grandeur de mon Maistre ;
-Il rougit dedans moy de se voir à vos pieds,
-C'est en cette posture où vous le chastiez ;
-Et vous-mesme estonné d'un si honteux langage,
-Ne prendrez qu'à regret ce honteux advantage⁎.
-
--*who_tamerlan
 Qu'on appelle sa femme.
 
--*who_bajazet 
-      Il s'est humilié :
-Mais quoy que Bajazet se soit tant oublié,
-C'est un abaissement dont il n'est point capable,
-Et dont à l'Amour seul vous estes redevable ;
-Il s'aneantiroit pour la tirer des fers⁎.
-
--*who_tamerlan
 Dispose Bajazet à souffrir ce revers⁎.
 
--*who_bajazet
-Puissiez-vous ressentir ce que ressent son ame,
-Aux mains de Bajazet voir tomber vostre femme,
-Envoyer dans son camp, ou vous-mesme y venir ;
-Enfin la demander, & ne pas l'obtenir :
-Je forme des souhaits qui ne peuvent pas estre,
-Et j'offence en mes vœux⁎ la vertu⁎ de mon Maistre ;
-Il vous la renvoyroit, & mesme sans rançon ;
-Mais tous n'agissent pas de la mesme façon.
-Au moins si sans soupçon vous le pouvez permettre,
-Souffrez que de sa part je luy donne une lettre ;
-Pouvez-vous m'accorder l'heur de l'entretenir ?
-
--*who_tamerlan
 C'est pour cette raison que je la fais venir :
 Regarde à son maintien si la prison l'afflige ;
 Rapporte à Bajazet.
 
--*who_bajazet
-      Vostre bonté l'oblige,
-Je suis de vos faveurs un fidele témoin,
-Et je luy rediray que vous en avez soin⁎.
-
-**** *book_ *id_scene4-II *act_acteII *date_1648 *creator_magnon
-
--*who_tamerlan
 Madame, Bajazet m'envoye une Ambassade⁎,
 L'offre qu'il fait pour vous en vain me persuade ;
 Je ne puis me resoudre à vous laisser partir,
 Et moins à ce départ pourriez-vous consentir.
 
--*who_orcazie
-Je veux bien advoüer que l'on me traitte en Reyne :
-Mais malgré ce bon-heur, ma chaisne est tousjours chaisne.
-Mes fers⁎, quoy que dorez, ne sont pas moins pesans,
-Et mes maux adoucis n'en sont pas moins cuisans :
-Hors des yeux d'un époux je n'ay point d'allegresse,
-Et ma joye en ce camp degenere en tristesse ;
-J'ignore en ma prison le sort de mon époux.
-
--*who_tamerlan
 Vous pouvez remarquer le soin⁎ qu'il a de vous ;
 Voilà ses Deputez.
 
--*who_orcazie
-      C'est Bajazet luy-mesme,
-C'est Selim, qu'est cecy ?
-
--*who_bajazet
-      N'en doutons plus, il l'ayme.
-
--*who_tamerlan
 Avecque confidence ils vous veulent parler,
 De la part d'un époux ils vous vont consoler,
 Je veux bien luy donner cette triste allegeance⁎.
 Vous ses Ambassadeurs pressez sa diligence,
 Je l'attends au combat.
 
--*who_bajazet
-      Il s'y prepare aussi.
-
--*who_tamerlan
 Que l'on les laisse seuls, Gardes sortez d'icy.
 
-**** *book_ *id_scene5-II *act_acteII *date_1648 *creator_magnon 
-
--*who_orcazie
-Que notre estonnement le cede à nos caresses !
-
--*who_bajazet
-Oüy donnons quelque tréve à toutes nos tristesses.
-
--*who_orcazie
-Seigneur, il faut joüir du plaisir de nous voir,
-Et puis qu'il nous arrive, il le faut recevoir.
-
--*who_bajazet
-Ayant voulu vous voir, faut-il que je vous voye ?
-Un secret déplaisir sert de frein à ma joye.
-
--*who_orcazie
-Quelle est donc vostre crainte, est-ce d'estre cognu ?
-
--*who_bajazet
-C'est ma moindre frayeur : Pourquoy suis-je venu ?
-Que je suis curieux ! quelle est mon imprudence ?
-A l'éclaircissement preferons l'ignorance,
-C'est apprendre un secret qu'on ne veut point sçavoir,
-Et vouloir regarder ce qu'on ne veut pas voir.
-
--*who_orcazie
-Vous m'informez assez de vostre jalousie,
-Et du cruel soupçon dont vostre ame est saisie.
-
--*who_bajazet
-Mon ame que partage un divers mouvement,
-Tombe enfin malgré moy dans ce raisonnement :
-Ma femme est prisonniere, & son vainqueur barbare,
-Peut-elle resister aux efforts d'un Tartare ?
-De cruels traittemens ont abattu son cœur,
-Une longue prison a flechy sa rigueur,
-Sa vertu dans les fers⁎ ne peut estre invincible,
-Moins pour luy qu'à ses maux elle devint sensible :
-Elle eut de la pitié pour ses propres douleurs,
-Et crut par ce secret adoucir ses malheurs.
-S'il est vray, sans rougir advoüez vostre crime⁎,
-Trop de necessité le rendoit legitime ;
-Vostre Juge vous plaind, loin de vous condamner.
-
--*who_orcazie
-Cruel ! quel entretien me venez-vous donner ?
-Sa vertu⁎ me demande une recognoissance.
-
--*who_bajazet
-Du respect qu'il vous rend, que faut-il que j'en pense ?
-Un tyran vous honore.
-
--*who_orcazie
-      Et je dois l'estimer.
-
--*who_bajazet
-Madame, c'est trop peu, vous le devez aymer ;
-Dessous ces faux honneurs l'amour se manifeste,
-En cecy sa rigueur m'eust esté moins funeste⁎ :
-Qu'il vous traitte en captive, & vous charge de fers⁎,
-Qu'il redouble les maux que vous avez souffers,
-Icy sa cruauté me seroit supportable.
-Ce tyran aujourd'huy vous seroit effroyable,
-Vous le regarderiez avec des yeux d'horreur,
-Vous ne le pourriez voir qu'avec quelque fureur ;
-Au lieu que ses biens-faits vous rendent plus traitable,
-Il treuve en ses faveurs l'art de se rendre aymable,
-Et negligeant la force, il crut que la douceur,
-Du cœur comme du corps le rendroit possesseur :
-Ainsi de tous costez je trouve lieu de craindre,
-Une longue souffrance aura pû vous contraindre,
-Et par des traittemens qui vous ont pû charmer⁎,
-Il sera parvenu jusqu'à se faire aymer.
-
--*who_orcazie
-A quelqu'autre pretexte imputez-en la cause.
-
--*who_bajazet
-Ce n'est pas la vertu⁎ qu'un tyran se propose :
-D'où naistroit le respect dont il traitte avec vous ?
-Honore-t'on la femme, en dédaignant l'époux ?
-Et sous quelles raisons que je ne puis comprendre,
-Cache-t'il le refus qu'il me fait de vous rendre ?
-
--*who_orcazie
-Je ne le cognois pas.
-
--*who_bajazet
-      Dites que c'est l'amour,
-Et que vous vous plaisez dans ce honteux sejour.
-
--*who_orcazie
-Il a des qualitez dignes de mon estime,
-Je ne puis le haïr sans espece de crime⁎,
-Et deussent vos soupçons s'accroistre de moitié,
-Je cheris sa vertu⁎.
-
--*who_bajazet
-      C'est peu que l'amitié,
-Qu'il se contente donc de ce simple advantage⁎.
-
--*who_orcazie
-Je ne puis luy ravir ce juste témoignage,
-Ny moins priver son fils des honneurs qu'on luy doit,
-Ni le loüer assez des biens qu'on en reçoit ;
-Par un rare bon-heur il ayme vostre fille.
-
--*who_bajazet
-Donc le pere & le fils partage ma famille.
-O glorieux destin ! incomparable honneur !
-Quoy ! dessus cét Amant⁎ vous fondez mon bon-heur ?
-O sang⁎ de Bajazet ! ô race Imperiale !
-Jusqu'à des incognus ta grandeur se ravale !
-Fille dénaturée, indigne de ton rang,
-Regarde en quelle source on confondra ton sang⁎.
-Vous femme sans honneur, & vous mere imprudente,
-De cette passion⁎ unique confidente,
-Allez participer à leur secret accord,
-Et dans ce double Hymen⁎ allez jurer ma mort :
-Je vais.
-
-**** *book_ *id_scene6-II *act_acteII *date_1648 *creator_magnon 
-
--*who_zilim
-      Arrestez-vous.
-
--*who_bajazet
-      Moy ! ton ordre m'estonne,
-L'on choque Bajazet en choquant ma personne :
-Quoy les Ambassadeurs ne sont-ils point sacrés ?
-
--*who_zilim
-Vous avez merité l'affront que vous souffrez.
-
--*who_bajazet
-Mon Maistre va venger un si sensible outrage.
-
--*who_zilim
-Bajazet, reprenez vostre vray personnage,
-Ne vous déguisez plus.
-
--*who_bajazet
-      Je suis donc recognu ?
-Au camp des ennemis je me voy retenu :
-Qui m'a trahy, Selim, qui m'a trahy, Madame ?
-Est-ce vous, mon Vizir, ou si c'est vous, ma femme ?
-Enfin respondez-moy, qui de vous deux me perd ?
-
--*who_orcazie
-Moy, Seigneur, & comment ?
-
--*who_bajazet
-      Vos yeux m'ont découvert,
-On a veu qui j'estois dessus vostre visage,
-Et tantost quelque signe a donné cét ombrage.
-
--*who_orcazie
-Faites de vostre femme un meilleur jugement.
-
--*who_bajazet
-D'où pourroit donc venir cét advertissement ?
-Est-ce de vous, Selim ?
-
--*who_zilim
-      Il vient de vostre armée.
-
--*who_bajazet
-Mon ambassade au camp s'est-elle donc semée ?
-Et qui de mes Bassas m'aura pû découvrir ?
-N'importe, à Tamerlan il faut aller s'offrir,
-Avec un front ouvert se faire recognoistre, 45
-Et le faire rougir de se servir d'un traistre.
-
--*who_zilim
-Mon Maistre vous remet en pleine liberté.
-
--*who_orcazie
-Seigneur, recognoissez sa generosité⁎.
-
--*who_bajazet
-C'est que je vous nuirois, il a trop de prudence,
-Et cét adroit Amant⁎ redoute ma presence ;
-Je ne l'impute point à generosité⁎ :
-N'importe, servons nous de cette liberté,
-Employons contre luy le pouvoir qu'il me donne,
-Et fions au hazard le soin de ma personne ;
-J'abandonne son camp. Vous, Selim, suivez-moy.
-
--*who_orcazie
-Et vous, Prince abusé, qui doutez de ma foy,
-Ma mort vous fera voir si je vous suis fidele.
-
--*who_selim
-Et bien tost mon trépas vous prouvera mon zele⁎.
-
--*who_bajazet
-De tous également je me dois deffier :
-Mais allons, le succez vous va justifier.
-
-**** *book_ *id_scene1-III *act_acteIII *date_1648 *creator_magnon
-
--*who_tamerlan
 S'il est leur prisonnier, c'est par son imprudence,
 Avecque ses vainqueurs il fut d'intelligence⁎.
 
--*who_mansor
-N'imputez à son ame aucune lâcheté,
-Sa prise est un malheur où son cœur l'a jetté.
-Douze mille chevaux qui venoient de la Thrace,
-Joignoient nos ennemis avecque tant d'audace,
-Que poussez de l'espoir dont ils estoient remplis,
-Ils croyoient nous voyans, nous avoir affoiblis.
-Themir dans son quartier se contraignoit à peine,
-Et portant ses regards sur chaque Capitaine,
-Il leur communiquoit cette ardeur qu'il avoit,
-Au poinct qu'il la donnoit, chacun la recevoit ;
-Tous d'un commun accord fondent avec furie,
-Ils viennent tous choquer cette Cavalerie :
-L'on voit de chaque part douze mille chevaux,
-Et de chaque costé douze mille rivaux
-Egallement épris & jaloux de leur gloire :
-Leurs yeux avant leurs mains se donnoient la victoire ;
-Nos deux camps suspendus les animoient des yeux,
-Et chacun des partis poussoient des vœux⁎ aux Cieux.
-Ils appelloient entr'eux ce premier témoignage
-Du combat general l'infaillible presage :
-Alors on s'est heurté d'un chocq si violent,
-Qu'on a veu dés l'abord chaque escadron tremblant ;
-L'on les a veu plier, & mesmes nos armées,
-D'un chocq si furieux puissamment allarmées,
-Ont monstré par leurs cris leur grand estonnement⁎,
-Et qu'elles prenoient part à cét ébranlement.
-Themir tout indigné traverse ses Gendarmes,
-Découvre aux yeux de tous la beauté de ses armes :
-Il leur semble monstrer sa naissance⁎ & son rang ;
-Et de là s'estant fait un passage de sang,
-Tout honteux de celuy qu'il venoit de respandre,
-Ce courage hautain cherche avec qui se prendre ;
-Choisit un ennemy digne de sa valeur :
-Un fils de Bajazet se monstre à son malheur :
-De si vaillans guerriers eurent dequoy se plaire,
-Et chacun dedans soy loüa son adversaire :
-Ils s'offrirent tous deux, & s'estans acceptez,
-L'on les vit au combat également portez ;
-Ils vindrent l'un sur l'autre à l'égal du tonnerre,
-Et chacun se laschant un coup de cimeterre⁎,
-Ils alloient par leur mort celebrer leur couroux,
-Quand dessus leurs chevaux descendirent leurs coups :
-Le cheval de Themir ressentant sa blesseure,
-Parmy nos ennemis se fit faire ouverture,
-Et reduisit son Maistre au plus fort du danger.
-
--*who_tamerlan
 Quoy ! ceux qui l'ont suivy n'ont peu le dégager ?
 
--*who_mansor
-Luy-mesme ne l'a pû, qui l'auroit donc pû faire ?
-Il tenta toutefois un combat temeraire ;
-Ziamet remonté sur un autre cheval,
-Avec un beau dessein poursuivit son rival ;
-Et d'un pas qui marquoit sa genereuse⁎ envie,
-Se hasta vers les siens pour luy sauver la vie :
-Themir la disputa, mais malgré sa valeur,
-Il fallut que son cœur⁎ le cedast au malheur :
-Lors qu'estonné de voir sa vaillance trompée,
-Au fils de Bajazet il rendit son espée :
-Ses soldats consternés se renversant sur nous,
-Nous leur ouvrons nos rangs.
-
--*who_tamerlan
       Se cacher parmy vous ?
 Ah lasches !
 
--*who_mansor
-      Ziamet content de leur deffaite,
-Sans les vouloir poursuivre, ordonna la retraitte.
-
--*who_tamerlan
 Qu'on m'ameine Orcazie, & bien secretement.
 
-**** *book_ *id_scene2-III *act_acteIII *date_1648 *creator_magnon
-
--*who_tamerlan
 Et bien qui doit regner, ou le pere, ou l'Amant⁎ ?
 J'entend par tout des voix, à qui doy-je respondre ?
 Où faut-il incliner ? mon ame où vas-tu fondre⁎ ?
@@ -1230,109 +168,36 @@ Avec quelle rançon te puis-je meriter ?
 S'il faut rendre Orcazie, en vain je delibere,
 Par ce prix infiny ta personne est trop chere.
 
-**** *book_ *id_scene3-III *act_acteIII *date_1648 *creator_magnon
-
--*who_indarthize
-Seigneur, je vien finir un combat si honteux,
-Que ne resolvés vous, ce choix est-il douteux ?
-Pourquoy vous plaisez-vous dans cette incertitude ?
-Laissez-vous vostre fils dedans la servitude ?
-Et vous mesme captif sous de divers liens,
-Pouvez-vous ressentir & vos fers⁎ & les siens ?
-
--*who_tamerlan
 Vous agissez, Madame, avec un trop grand zele⁎,
 Et vostre pieté vous rendra criminelle.
 
--*who_indarthize 
-L'amour, ny la vertu⁎ ne me font plus agir,
-De plus lasches motifs me forcent de rougir :
-Est-ce par l'interest qu'il faut toucher vostre ame ?
-Craignez-vous de faillir par la honte du blasme ?
-Et loin de vous regler sur de hauts sentimens,
-Vous laissez-vous aller à de bas mouvemens ?
-Seigneur, s'il est ainsi, revoyez Orcazie ;
-Non point pour contenter ma juste jalousie,
-Ny moins pour achever ma generosité⁎ ;
-Mais n'agissez icy que par utilité.
-
--*who_tamerlan
 Ah, Themir ! qu'as-tu fait ?
 
--*who_indarthize
-      Je voy vostre foiblesse ;
-Quelque reste d'honneur vous émeut & vous presse,
-La vertu⁎ dedans vous fait encor des effors,
-Et de si grands souspirs partent de vos remors :
-Mais poussez avec eux cette honteuse flame⁎,
-Et d'un poids si pesant affranchissez vostre ame ;
-D'un indigne esclavage exemptez vostre cœur,
-Délivrez vostre fils des prisons d'un vainqueur ;
-Degagez de vos fers⁎ & la fille & la mere,
-Consolez tout ensemble & l'époux & le pere,
-Entrez dans sa douleur, ressentez son ennuy⁎,
-Dedans cét accident jugez-vous par autruy,
-Et des tourmens qu'endure une ame quand elle ayme,
-Ou, sans le voir ailleurs, jugez-en par vous-mesme.
-
--*who_tamerlan
 Donnez-moy le repos dont mon ame a besoin,
 
--*who_indarthize
-Rendez-moy donc mon fils.
-
--*who_tamerlan
       Sortez, j'en auray soin,
 Je m'en vay mediter dessus quelque entreprise⁎,
 Ou par mes Deputez moyenner⁎ sa franchise⁎.
 
--*who_indarthize
-Ma rivale à mes yeux ! vous la faites venir.
-
--*who_tamerlan
 Demeurez.
 
--*who_indarthize
-      Va cruel, tu peux l'entretenir,
-Ma presence le choque ; ostons luy ce spectacle.
-
--*who_tamerlan
 Je te rend graces, Amour, de m'oster cét obstacle.
 Mansor, retire-toy, retourne en ton quartier.
 
-**** *book_ *id_scene4-III *act_acteIII *date_1648 *creator_magnon
-
--*who_tamerlan
 Madame, en vostre camp mon fils est prisonnier ;
 S'il est quelque douceur à trouver un semblable,
 Par sa captivité vous estes consolable.
 
--*who_orcazie
-Le plaisir est bien faux, un vaincu n'est heureux
-Qu'au moment qu'il rencontre un vainqueur genereux⁎,
-Que quand il doit servir, il rencontre un doux Maistre,
-Et tel qu'est Bajazet.
-
--*who_tamerlan
       Ou tel que je puis estre :
 Mon fils dans vostre camp a receu moins d'honneur,
 Eminemment sur luy vous avez ce bon-heur,
 Et si l'on le traittoit ainsi que l'on vous traitte,
 Il auroit quelque droict de loüer sa defaite.
 
--*who_orcazie
-Rien ne nous peut charmer⁎ hors de la liberté.
-
--*who_tamerlan
 Madame, par quel prix doit-il estre acheté ?
 Et quelle est la rançon que Bajazet desire ?
 En échange d'un fils je luy rend son Empire.
 
--*who_orcazie
-Que luy proposez-vous ? vostre offre a peu d'apas,
-Vous luy voulez donner ce que vous n'avez pas ;
-
--*who_tamerlan
 J'ay rendu Bajazet le plus humble des Princes,
 Du corps de son Estat détaché cent Provinces ;
 Et jusques à ce poinct ravalé son orgueil,
@@ -1346,10 +211,6 @@ D'un Prince humilié que le sort⁎ persecute,
 A cent peuples du thrône il donnera la loy,
 Et j'iray l'y placer un peu plus bas que moy.
 
--*who_orcazie
-Attendez le combat.
-
--*who_tamerlan
       C'est là que je me fonde,
 Je veux estre aujourd'huy le Monarque du monde,
 Et dans tout l'Univers faisant porter mes loix,
@@ -1361,12 +222,6 @@ Il est dit que mon Sceptre ira dedans vos mains ;
 Et que vous remettant mes marques souveraines,
 Je vous establiray la premiere des Reines.
 
--*who_orcazie
-Bajazet, Bajazet ! Seigneur échangez-nous ;
-Rendez le fils au pere, & la femme à l'époux ;
-La rançon de Themir est le prix de la nostre.
-
--*who_tamerlan
 Je n'y puis consentir, qu'il en demande une autre.
 Un garde trop entier entoure ce sejour⁎,
 Et mes mains ont fié vos chaisnes à l'Amour ;
@@ -1378,135 +233,34 @@ J'ay beau m'en dégager, & secoüer mes chaisnes,
 Loin de les amoindrir, je redouble mes peines,
 Et me trouve puny de vous vouloir sauver.
 
--*who_orcazie
-O Ciel ! qu'entend-je icy ?
-
--*who_tamerlan
       Je vous veux conserver :
 Bajazet tient mon fils, quand il auroit ma femme,
 Il n'obtiendra jamais cét adveu de mon ame ;
 Et loin de consentir à vostre liberté,
 Je prendrois part moy-mesme à ma captivité.
 
--*who_orcazie
-Quoy vostre amour !
-
--*who_tamerlan
       Souffrez que je vous le declare :
 
--*who_orcazie
-Honneur ! t'avois-je crû dans le cœur d'un barbare ?
-Je vous crûs genereux⁎ :
-
--*who_tamerlan
       Croyez-moy donc Amant⁎.
 
--*who_orcazie
-A peine je reviens de mon estonnement !
-Prince indigne d'honneur, rendez-moy mon estime ;
-Si j'ayme la vertu⁎, je deteste le crime⁎ :
-Pendant que j'éprouvois vos generositez⁎,
-J'admirois mal-gré moy vos belles qualitez ;
-Et me plaignant au sort⁎ du malheur de nos armes,
-Quand le ressouvenir me faisoit fondre en larmes,
-Qu'il venoit arracher des soûpirs de mon cœur,
-Je pleurois la victoire, & loüois le vainqueur :
-Aujourd'huy que vos soins⁎ partent d'une autre cause,
-Et qu'un indigne effet est ce qu'on se propose ;
-Je ne veux rien devoir à l'honneur qu'on m'a fait,
-Et blâme également sa cause & son effet.
-O Ciel ! en quel estat trouve-je Roxalie ?
-Ah ma fille ! est-ce ainsi qu'une fille s'oublie ?
-
-**** *book_ *id_scene5-III *act_acteIII *date_1648 *creator_magnon 
-
--*who_tamerlan
 Et quoy ! que tentez-vous dessous ce vestement ?
 Qu'avez-vous pretendu par ce déguisement ?
 
--*who_roxalie
-Themir est prisonnier, j'offre de vous le rendre.
-
--*who_tamerlan
 Cét offre advantageux a droict de me surprendre.
 
--*who_roxalie
-Voulez-vous en cecy vous confier à moy ?
-Respondez, voulez-vous vous remettre à ma foy ?
-Je rentreray bien-tost dedans mon esclavage,
-Vous avez ma parole, & ma mere en ostage :
-Seigneur, je suis Princesse, & sçay tenir mon rang,
-L'on ne reproche rien à celles de mon sang⁎ :
-Je vous blasme desja de trop de deffiance,
-Et d'un plus long delay vostre vertu⁎ s'offence :
-M'osez-vous soupçonner de quelque lascheté ?
-
--*who_tamerlan
 Hé bien, combattons-nous de generosité⁎.
 
--*who_orcazie
-Ah ! ton pere irrité d'une telle Ambassade⁎ :
-
--*who_roxalie
-En vain l'on me resiste, & l'on m'en dissuade ;
-Je m'en vay moyenner⁎ le retour de Themir :
-J'agis absolument proche du grand Vizir,
-Il prend dessus son Maistre une entiere creance,
-Et dessus luy j'exerce une égale puissance ;
-Il m'aymoit autresfois, & dés ce mesme jour
-Que mon pere empescha le cours de son amour,
-Il me conserve encore quelque reste de flame⁎,
-Et cette longue amour n'a point quitté son ame :
-Jugez de mon credit, puis qu'il a tout pouvoir.
-
--*who_tamerlan
 Verrez-vous Bajazet ?
 
--*who_roxalie
-      Je ne le veux point voir ;
-C'est pour cette raison qu'on me voit déguisée,
-Je rends par ce moyen mon entreprise⁎ aisée ;
-Pour peu que la Fortune⁎ assiste⁎ à mes desseins,
-Bien-tost ce prisonnier se verra dans vos mains.
-
--*who_tamerlan
 Et sous quelle rançon me le voulez-vous rendre ?
 
--*who_roxalie
-Je vous le veux donner, & non pas vous le vendre ;
-Je satisfaits au soin⁎ que l'on nous a rendu,
-Et monstre qu'un bien fait ne peut estre perdu :
-Si j'excede vos dons par ma recognoissance,
-J'ayme mieux qu'envers nous vous manquiez de puissance ;
-Le plaisir de bien faire a de si grands appas,
-Qu'il est presque d'un Dieu de faire des ingras.
-
--*who_tamerlan
 Les soins⁎ que l'on vous rend sont moins que sa personne,
 Je reçois en cecy bien plus que je ne donne,
 De vos profusions je me treuve surpris.
 
--*who_roxalie
-Je vous laisse à vous mesme à juger de son prix ;
-Je ne vous prescris rien, vous estes raisonnable ;
-Et si par vostre adveu vous m'estes redevable,
-Vous avez dans vos mains dequoy vous acquitter.
-
--*who_tamerlan
 Son prix est desja prest, s'il le faut acheter :
 Allez dans vostre camp, je vous laisse à vous-mesme.
 
--*who_roxalie
-Voyez de là, Themir, à quel poinct je vous ayme.
-Adieu, Madame :
-
--*who_orcazie
-      Adieu, tu te vas hazarder⁎ :
-Que n'ay-je le moyen de t'aller seconder !
-
-**** *book_ *id_scene6-III *act_acteIII *date_1648 *creator_magnon
-
--*who_tamerlan
 Hé bien tousjours cruelle, & tousjours insensible,
 Contre ma passion⁎ serez-vous invincible ?
 Voyez comme l'Amour met au dessous de vous,
@@ -1518,31 +272,14 @@ J'ay quitté loin de vous ma Souveraineté.
 Je tremble à vostre approche, & tant vostre œil me brave,
 Je me traine à vos pieds en posture d'esclave.
 
--*who_orcazie
-Tamerlan, levez-vous.
-
-**** *book_ *id_scene7-III *act_acteIII *date_1648 *creator_magnon
-
--*who_tamerlan
       Ah ! qu'est-ce que je voy ?
 
--*who_themir
-Vous voyez vostre fils.
-
--*who_tamerlan
       Quoy ! Themir, est-ce toy ?
 Je ne puis dissiper cette grande surprise :
 Quel favorable sort⁎ t'a rendu la franchise⁎ ?
 Comment es-tu sorty des mains des ennemis ?
 Et tes chaisnes :
 
--*who_themir
-      Mes fers⁎ sont rompus à demy,
-Jusque dans vostre camp j'en porte une partie,
-J'en traine l'une icy, l'autre est à ma sortie,
-Je les dois reünir, & je vien sur ma foy.
-
--*who_tamerlan
 Qu'est-ce que Bajazet oze exiger de moy ?
 Quelle est ton ambassade⁎, & quel est ton office ?
 Mon fils à Bajazet a rendu ce service,
@@ -1551,16 +288,8 @@ Et son propre ennemy travaille à sa grandeur.
 Voyons jusqu'où s'estend la charge⁎ qu'on te donne,
 Et sçachons la rançon qu'on veut pour ta personne.
 
--*who_themir
-Il demande sa fille ;
-
--*who_tamerlan
       Elle s'en va le voir.
 
--*who_themir 
-Quoy Roxalie est libre ?
-
--*who_tamerlan
       Elle est en son pouvoir.
 Sa genereuse⁎ envie est pareille à la tienne,
 Et celle qui t'ameine est conforme à la sienne ;
@@ -1568,45 +297,23 @@ Vous avez pris tous deux un semblable dessein,
 Ainsi vostre travail ne peut pas estre vain.
 Je garderay mon fils, qu'il retienne sa fille.
 
--*who_themir
-Il veut aussi Madame, & toute sa famille,
-Et telle que dans Pruze on a veu sa maison.
-
--*who_tamerlan
 Il ne peut l'obtenir.
 
--*who_themir
-      Je rentre en ma prison,
-Il y faut retourner, ma parole me lie.
-
--*who_tamerlan
 L'honneur t'engage moins que ne fait Roxalie ;
 Retourne dans son camp, va chez mes ennemis,
 Va, mesme contre moy, le combat t'est permis.
 
--*who_themir 
-Ah, Seigneur, que plustost !
-
--*who_tamerlan
       Va trouver ta Princesse,
 Va la dissuader de tenir sa promesse,
 Va rompre son serment, empescher son retour,
 Et contre sa parole opposer ton amour.
 
--*who_themir
-Ah ! Seigneur, entendez :
-
--*who_tamerlan
       Quoy vostre confidence,
 Que Roxalie & toy fustes d'intelligence⁎,
 Que vous avez formé ce dessein hazardeux⁎,
 Et trouvé ce secret de vous sauver tous deux :
 Vous aviez concerté cette double ambassade⁎.
 
--*who_themir
-Consultez l'apparence :
-
--*who_tamerlan
       Elle me persuade ;
 Et beaucoup de raisons soustiennent mon soupçon,
 Vous deviez de tous deux devenir la rançon :
@@ -1615,346 +322,28 @@ Et puis qu'à le revoir ta parole te lie,
 Avecque liberté tu t'en peux dégager,
 Et porter Bajazet à vous voir échanger.
 
--*who_themir
-Redonnez-luy sa femme.
-
--*who_tamerlan
       On ne peut la luy rendre.
 
--*who_orcazie
-Accordez-luy ce bien :
-
--*who_tamerlan
       Il n'y doit plus pretendre :
 Va dire à Bajazet que je suis en estat,
 Et qu'il s'y mette aussi d'advancer le combat.
 
--*who_themir
-Seigneur il est tout prest.
-
--*who_tamerlan
       Allons à la victoire.
-
--*who_themir
-Au moins dans mes souhaits j'auray part à sa gloire.
-
--*who_tamerlan 
+ 
 Sors, sors, voicy la fin de ta captivité.
 
--*who_themir
-Je fais mesme des vœux⁎ contre ma liberté.
-
--*who_tamerlan
 Madame, en peu de temps vous serez ma conqueste,
 Et cét indigne époux :
 
--*who_orcazie
-      M'offrirez-vous sa teste ?
-Pensez-vous par ce prix vous acquerir mon cœur ?
-Adieu cruel : 930
-
--*who_tamerlan
       Bien-tost vous me verrez vainqueur.
 
-**** *book_ *id_scene1-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_indarthize
-Sans cette trahison, je vous aurois sauvée.
-
--*who_orcazie
-A bien plus d'accidens je me vois reservée :
-En vain de ma prison l'on m'eust fait échapper,
-La Fortune⁎ a trop d'yeux, on ne la peut tromper,
-Elle m'auroit suivie aux deux bouts de la terre.
-
--*who_indarthize
-Madame, nos destins se lassent de la guerre,
-Et d'un consentement s'en vont déterminer,
-Ils sont prests à conclure :
-
--*who_orcazie
-      Où vont-ils incliner ?
-Et ces deux grands Demons qui se choquent ensemble,
-Que le malheur de l'un, ou bien de l'autre assemble ;
-Où doivent-ils porter l'effet de leurs accors ?
-
--*who_indarthize
-Ils arrivent enfin à leurs derniers effors,
-Et s'estans suspendus dessus nos deux armées,
-Tenant les nations de ce choix allarmées,
-Meditent un Arrest qu'ils leur vont prononcer,
-Et que la Renommée ira leur annoncer.
-
--*who_orcazie
-Le sort de Tamerlan reçoit tout l'advantage,
-Celuy de Bajazet a le moindre suffrage ;
-Dans le dernier conseil qu'ils tiennent aujourd'huy,
-Ce Prince abandonné n'a plus de voix pour luy.
-
--*who_indarthize
-Ce celebre combat se donne à vostre gloire,
-Et de quelque costé que tombe la victoire,
-Le destin le plus fort vous presente au vainqueur.
-
--*who_orcazie
-Helas !
-
--*who_indarthize
-      Quoy, des soûpirs sortent de vostre cœur !
-D'où part le déplaisir que vous faites parestre ?
-
--*who_orcazie
-De ma captivité.
-
--*who_indarthize
-      La vertu⁎ le fait naistre ?
-
--*who_orcazie
-Je ne vous puis celer ce que vous cognoissez,
-Je n'en diray pas plus :
-
--*who_indarthize
-      Vous m'en dites assez ;
-Ce n'est plus qu'à luy seul que j'impute son crime⁎,
-Et vostre procedé merite mon estime ;
-J'entreprend vostre fuitte, ou bien je periray ;
-Je me perdray moy-mesme, ou je vous sauveray :
-Que si nostre fortune⁎ avoit changé de face,
-J'attend de vos bontez une pareille grace ;
-Et que si j'éprouvois un semblable revers⁎,
-Que vos mains à leur tour viendroient rompre mes fers⁎.
-
--*who_orcazie
-Vueille empescher le Ciel ce favorable office,
-Et m'épargne le soin⁎ de vous rendre service !
-Nous sçaurons nostre sort devant la fin du jour.
-Mais qu'est-ce que je voy ? ma fille de retour !
-
-**** *book_ *id_scene2-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_orcazie
-Et bien ton ambassade⁎ eut-elle bonne issuë ?
-
--*who_roxalie
-Vous l'avez presagé, le succez m'a deceuë⁎ :
-Selim est un perfide, & ce lasche Vizir,
-Loin de porter son Maistre à delivrer Themir,
-L'en a dissuadé.
-
--*who_orcazie
-      Trahison trop insigne !
-Ce fut un noble employ, dont il estoit indigne.
-
--*who_roxalie
-A peine fus-je au camp, que j'allay le trouver,
-Il crût qu'en cét habit je m'estois pû sauver ;
-Je le desabusay d'une fauce creance,
-Et de tous mes desseins luy donnay cognoissance :
-Il me jura cent fois qu'il se sentoit ravir
-Par l'excez de l'honneur qu'il treuve à me servir.
-Pendant qu'il me flattoit, je vis entrer mon père ;
-A ce premier abord j'essuyay sa cholere,
-Tout ce qu'un grand transport nous peut faire sentir ;
-Il me traitta cent fois d'Amante⁎ de Themir :
-Et mesme il ne pouvoit dans son impatience,
-Ny souffrir mon discours, ny souffrir mon silence.
-Pendant ces mouvemens, Themir s'offrit à nous ;
-A ce nouvel objet il accrût son courrous,
-Et selon ses souhaits nous rencontrant ensemble :
-Je rends grace, dit-il, au sort⁎ qui vous assemble ;
-La mort, adjousta-t'il, … Il ne pût achever :
-Un combat dans son cœur commence à s'élever,
-Et ce cœur endurcy qu'attendrissent nos larmes,
-Cherche quelque pretexte à nous rendre les armes.
-Son œil presque changé nous dit, deffendez-vous ;
-Themir prenant son temps se jette à ses genoux :
-Bajazet, luy dit-il, j'adore Roxalie,
-C'est indifferemment que nostre amour s'allie ;
-Il a pû s'écouler dans nos ressentimens,
-Et d'ennemis mortels il nous a fait Amans⁎ :
-Je remets mesme à vous le soin de nous deffendre,
-Vous qui n'ignorez pas ce qu'il ose entreprendre ;
-Elle & moy choisissions un dessein hazardeux⁎,
-Et cherchions à perir pour nous sauver tous deux :
-Vous pourray-je adjouster, sans que je vous estonne
-Que ma prise est un bien que mon amour vous donne ?
-Je crûs que cét amour me mettant en danger,
-Que bien-tost l'amitié⁎ m'en viendroit dégager,
-Qu'elle m'échangeroit contre vostre famille,
-Et qu'elle vous rendroit Orcazie & sa fille :
-Je viens de l'éprouver une seconde fois ;
-Un pere est insensible, & n'entend plus ma voix ;
-Je n'ay peu reussir dedans mon stratageme,
-Et loin de les sauver, me suis perdu moy-mesme.
-
--*who_orcazie
-Effet prodigieux de generosité⁎ !
-
--*who_indarthize
-Il s'est fait prisonnier pour vostre liberté,
-J'avois sceu son secret :
-
--*who_orcazie
-      Merveilleuse entreprise⁎ !
-
--*who_roxalie
-Bajazet admira cette haute franchise,
-Et se laissant aller à son vray naturel,
-Son cœur se destacha d'un sentiment cruel ;
-Il quitta des rigueurs qui n'estoient qu'estrangères,
-Et reprit des douceurs naturelles aux peres ;
-Je le vy sur le poinct de renvoyer Themir,
-Quand à ses volontez s'opposa son Vizir.
-
--*who_orcazie
-Que je voy de desseins dans l'ame de ce traistre,
-Et qu'un tel General est fatal à son Maistre !
-
--*who_roxalie
-En effet Bajazet ne le voit qu'à demy,
-Il a dedans Selim son plus grand ennemy :
-Je laissay donc Themir dans le camp de mon pere.
-Tiens ta foy, me dit-il, & retourne à ta mere :
-Il me vint embrasser, & les larmes aux yeux,
-Il sembla se resoudre à d'éternels adieux :
-A peine son grand cœur⁎ eust fait cesser ses larmes,
-Qu'il commande à ses Chefs d'aller prendre les armes :
-Alors parmy les rangs un cry s'est élevé.
-
--*who_orcazie
-Quoy ! le combat se donne ?
-
--*who_roxalie
-      Il est presque achevé ;
-Par curiosité j'ay veu cette montagne
-Qui voit l'humilité d'une vaste campagne,
-Et dont le haut sommet semblant braver les Cieux,
-Ne panche qu'à regret devers de si bas lieux :
-L'on descouvre de là toute la Galatie,
-Ses plaines dans leur sein semblent porter l'Asie,
-Et ses champs sont couverts de tant de pavillons,
-Que la terre y fremit dessous les bataillons ;
-J'ay veu de chaque part une armée innombrable,
-Que la confusion me rendoit effroyable :
-Icy tout l'Orient s'estoit presque épuisé,
-Et pour estre trop fort, il s'estoit divisé ;
-J'ay veu s'entre-choquer ces deux grosses tempestes,
-Et marcher ces grands corps armez de leurs deux testes :
-La fleche a commencé le combat dedans l'air,
-Une épaisse forest me sembloit y voler ;
-A peine l'air immense a contenu leur nombre,
-Et l'éclat du Soleil n'a pû percer cette ombre :
-De là le cimeterre⁎ allant de rang en rang,
-Noyoit toute la plaine en un fleuve de sang ;
-Ils craignent que le jour leur manque de lumiere,
-Et que las de les voir il borne sa carriere,
-Cette peur est si grande entre ces combattans,
-Que d'apprehension qu'ils n'ayent besoin de temps,
-Loin de les ménager ils prodiguent⁎ leurs vies,
-Et pensent que trop tard elles leur sont ravies⁎ ;
-Leur obstination m'a donné de l'effroy,
-J'ay quitté la montagne, & mon ame hors de soy,
-Toute pleine d'horreur encor toute tremblante,
-J'ay repris le chemin qui mene à cette tente.
-Mais d'où vient ce grand bruit ? Dieu, des hommes armez !
-
-**** *book_ *id_scene3-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_themir
-Plus pour servir qu'à nuire ils se sont animez :
-Perdez cette frayeur, cognoissez ce visage.
-
--*who_indarthize
-Themir dedans ces lieux !
-
--*who_orcazie
-      Infortuné presage !
-Bajazet est vaincu.
-
--*who_roxalie
-      Que veut le sort⁎ de nous ?
-Prince, faut-il mourir ?
-
--*who_themir
-      Mes Dames sauvez-vous,
-Le sort⁎ vous est propice, acceptez ma conduite.
-
--*who_indarthize
-Par quel heureux moyen causerez-vous leur fuite ?
-
--*who_themir
-Bajazet m'a fié quatre mille chevaux,
-Desja par leur secours j'ay franchy cent travaux,
-J'ay passé comme un foudre à travers nos Gendarmes,
-J'ay laissé sur nos pas des marques de mes armes,
-J'ay percé jusqu'icy, partout l'on m'a fait jour,
-Rien n'a pû resister au cours de mon amour :
-Princesses, suivez-moy par le mesme passage,
-Que si vous differez un instant davantage,
-Je previens le regret de faillir mon dessein,
-Et je m'en vay plonger mon espée en mon sein.
-
--*who_roxalie
-Seigneur nous vous suivons.
-
-**** *book_ *id_scene4-IV *act_acteIV *date_1648 *creator_magnon 
-
--*who_le_soldat
-      Prince l'on suit vos traces,
-Et vous estes perdu :
-
--*who_themir
-      Inutiles menaces !
-Croy-tu m'épouvanter ? mourons en gens de cœur⁎.
-
--*who_le_soldat
-Desja mes compagnons adorent leur vainqueur,
-Et tous les armes bas implorent sa clemence.
-
--*who_themir
-Allons nous opposer contre cette puissance :
-Ah lasche !
-
--*who_le_soldat
-      Le grand nombre accable la vertu⁎.
-
--*who_themir
-Je leur pardonnerois s'ils avoient combattu :
-Allons à ce vainqueur exposer nostre teste :
-Que l'on me suive : ô Ciel !
-
-**** *book_ *id_scene5-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_tamerlan
       Qui que tu sois, arreste :
 Mansor, qu'on le desarme.
 
--*who_themir
-      Arreste icy ton bras,
-Ou cette mesme main te porte le trépas.
-Puis que mon entreprise⁎ est aujourd'huy trompée,
-Seigneur, ce n'est qu'à vous que je rend mon espée,
-Un pere seul a droict de triompher d'un fils.
-
--*who_tamerlan
 Ah traistre ! qu'as-tu fait, servir mes ennemis ?
 
--*who_indarthize
-Seigneur, considerez que vous estes son pere.
-
--*who_orcazie
-Ah ! Seigneur, que sur moy tombe vostre cholere.
-
--*who_roxalie 
-Que je sois exposée à vos ressentimens,
-Eclatez dessus moy vos premiers mouvemens.
-
--*who_tamerlan
 Sortez toutes d'icy ; Mansor, qu'on les emmeine.
 
-**** *book_ *id_scene6-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_tamerlan
 Toy fils dénaturé, si digne de ma haine.
 Crois-tu que je suis pere à qui ne m'est pas fils,
 Contre ton propre sang⁎ sers-tu mes ennemis ?
@@ -1980,11 +369,6 @@ Desja dans ton esprit ce grand crime s'est fait,
 Le penser t'en plaisoit, acheves-en l'effet,
 Cesse de t'estonner⁎, c'est assez te confondre.
 
--*who_themir
-Pendant ces mouvemens, je ne vous puis respondre,
-Je perdrois mes raisons :
-
--*who_tamerlan
       Ah, perfide ! en as-tu ?
 Chez tes pareils le crime a-t'il lieu de vertu⁎ ?
 Ah ! digne partisan d'un Bajazet, d'un lasche !
@@ -1997,26 +381,9 @@ Je dédaigne de suivre un ennemy qui fuit,
 Et l'abandonne en proye au remors qui le suit.
 Quoy, Selim dans mon camp !
 
-**** *book_ *id_scene7-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_selim
-      Je t'accepte pour Maistre,
-Et je me viens soustraire à l'Empire d'un traistre ;
-Je me lasse d'un joug que j'ay long-temps porté.
-
--*who_tamerlan
 Tu recevras chez moy plus que tu n'as quitté ;
 Je te suis obligé :
 
--*who_selim
-      C'est peu que ma personne,
-Juge en ce grand present de ce que je te donne ;
-Je livre entre tes mains Bajazet enchaisné,
-Et je viens d'ordonner qu'il te fust ammeiné.
-
-**** *book_ *id_scene8-IV *act_acteIV *date_1648 *creator_magnon
-
--*who_tamerlan
 Hé bien, grand criminel, que le Ciel me rameine,
 En vain tu te flattois d'échapper à ta peine ;
 Ce grand Maistre des Rois renverse tes projets,
@@ -2024,10 +391,6 @@ Et te donne en opprobre à tes propres subjets :
 Tes soldats t'ont laissé, tout ton camp t'abandonne,
 Et d'un si grand débris tu n'as que ta personne.
 
--*who_bajazet
-Tu n'as donc pas vaincu, puisque je suis trahy.
-
--*who_tamerlan
 Tes crimes t'ont rendu d'un monde entier hay,
 Tes forfaits t'ont acquis la haine generale,
 Et chez les nations te donnent du scandale :
@@ -2042,7 +405,781 @@ Et digne executeur & de l'un & de l'autre ;
 Je reçois un honneur qu'ils se sont deferé⁎,
 Et qu'ils ont si long-temps à l'envy⁎ desiré.
 
--*who_bajazet
+      Quoy, le vaincu me brave !
+
+Ne me peux-tu parler avec humilité ?
+A l'objet de tes fers⁎ abaisse ta fierté,
+Et tasche à reprimer cette langue insolente.
+
+Je te voy consterné, ta cheute t'a surpris,
+Tous tes crimes en foule assaillans ta memoire,
+Luy tracent de ton regne une effroyable histoire,
+Et donnant cette idée à ton ressouvenir,
+Ton propre accusateur commence à te punir ;
+Apres que ton remords aura fait son office,
+J'acheveray tes maux par un dernier supplice.
+
+Pour chastier ta vie, il faut un long trépas,
+Je veux continuer, non pas finir tes peines.
+
+Il fut en ton pouvoir de regler de ton sort,
+Il ne falloit pas fuïr pour prolonger ta vie.
+
+Non, non, son action merite recompense.
+
+Quelle faveur veux-tu ? je veux te l'accorder.
+
+      Hé bien, je te la donne ;
+Ce n'est qu'utilement que l'on sert ma personne.
+
+      Je cognois⁎ que le don t'est fatal.
+
+      Je te donne un rival.
+
+J'empescheray l'effet de cette jalousie.
+
+      Qu'on s'asseure de luy.
+Ma prudence, Zilim, le remet sous ta garde,
+Et tu m'en respondras.
+
+Je te l'adjouste encor, tu mourras dans les chaisnes.
+
+Qu'on te donne en spectacle à toute mon armée.
+Je veux t'humilier.
+
+      Non, non, je suis leur Maistre,
+Et je puis disposer d'un bien que j'ay conquis.
+Tu la possederas, ce present t'est acquis ;
+Mesme je te destine une autre recompense.
+
+Tu n'es pas encor mort, tardes-tu davantage ?
+
+      O sanglante advanture !
+O Themir trop vangé ! Qu'on les oste d'icy :
+Qu'on les porte au cercueil, & qu'on m'y meine aussi.
+FIN.
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_themir
+
+Madame, il faut combattre, & desja nos armées
+De mesme qu'au butin, à la gloire animées
+Aux yeux l'une de l'autre ébranslent leur grand corps,
+
+      J'y feray mes efforts.
+ 
+O fatale rencontre & digne de nos larmes !
+
+      O peres sans pitié !
+Faut-il que nous entrions dans vostre inimitié,
+Et devez-vous forcer⁎ vos enfans & vos femmes !
+ 
+Je ne puis démeler qui des deux je prefere,
+J'écoute également l'amour & le devoir,
+Et tous deux sur mon ame ont un mesme pouvoir ;
+Enseignés-moy, Madame, un moyen legitime,
+Donnés-moy le secret de combattre sans crime.
+
+      Quoy donc ?
+
+S'il est de grands amans, je les surpasse tous ;
+Je pourray contenter Bajazet & mon pere, 8
+Je ne combattray point.
+
+Entre ces deux partis la pourray-je sauver ?
+
+      Je vous ayme,
+
+      De mesme,
+J'amoindriray mon crime en vous obeyssant,
+Vos ordres me vont rendre un peu plus innocent ;
+J'en suis moins criminel, si je trouve un complice.
+ 
+Commandez.
+
+Moy !
+
+      Vostre rigueur m'estonne⁎.
+
+Cruelle Roxalie !
+
+Quoy ! pour vous acquerir commettre un parricide⁎ !
+Que me demandez- vous ?
+
+      Cruel Adieu, mon ame l'a suivie,
+Elle emporte avec soy la moitié de ma vie.
+Allons perdre le reste.
+
+Mon ame avec regret consent à leur franchise⁎ ;
+N'importe, je veux suivre un conseil genereux⁎,
+Et je vay par honneur me rendre mal-heureux ;
+Que la vertu⁎ m'impose un sentiment bien rude !
+
+Quoy les faire evader pendant nostre combat,
+Madame, on ne le peut.
+
+Mon cœur s'y porte encor avec quelque regret :
+Vertu⁎ qui me combat, prends part à ma foiblesse,
+Je ne romps qu'en tremblant les fers⁎ de ma Princesse,
+Et mon amour timide⁎ au poinct de la sauver,
+Prevoit que pour jamais elle s'en va priver.
+
+      Je le ressens, Madame,
+Tel que sa violence émeut toute mon ame :
+Mais d'où vient cette ardeur que vous monstrez icy ?
+D'elle je vous voy prendre un eternel soucy :
+Vous ne m'en discourez qu'avec inquietude,
+Vous perdez le repos depuis leur servitude ;
+Quand Bajazet tiendroit & vos enfants & vous,
+Quand dessous son pouvoir il auroit vostre époux,
+Agiriez-vous pour tous avec un si grand zele⁎ ?
+
+J'entre bien plus avant dedans vos sentimens,
+Nulle des passions⁎ ne se cache aux Amans,
+Ils sçavent penetrer jusqu'au fonds des pensées,
+Juger des actions presentes & passées,
+Et discerner au vray ce qui semble à l'amour.
+
+En effet tous ses soins⁎ ont surpassé l'estime,
+L'honneur dont il la traite, excede le respect,
+Enfin comme à vos yeux Tamerlan m'est suspect.
+
+Qu'avez-vous presumé ?
+
+      Enfin expliquez-vous :
+Mais sans que vous parliés vous me rendés jaloux :
+Caresse⁎-t'il la fille ?
+
+Quoy, je rencontrerois mon rival dans mon pere !
+Qu'auroit-il pretendu ? les veut-il épouser ?
+
+      Ah ! c'est trop : auroit-il des desirs
+D'immoler ma Princesse à ses lasches plaisirs ?
+Se pourroit-il resoudre à cette joüissance ?
+Mon ame avec horreur prevoit sa violence,
+Et ma main agitée aussi bien que mon cœur,
+Ressent jusque dans elle escouler sa fureur :
+Arreste icy mon bras, en vain mon cœur t'anime,
+Laisse-luy devorer le penser de ce crime,
+Et refusant d'agir selon ses mouvemens,
+Témoigne-luy ta crainte avec des tremblemens.
+Garde de te commettre⁎ à ce dangereux guide,
+Dedaigne avec honneur l'employ d'un parricide⁎,
+Et te tournant sur luy d'un effort courroucé,
+Vien frapper sans trembler celuy qui t'a poussé.
+Roxalie au Serrail ! ah ma vertu⁎ me laisse,
+Et mon ame ressent sa premiere foiblesse :
+Fust-il Pere, Roy, Dieu, je ne le puis souffrir,
+Il faut que l'un de nous se resolve à mourir.
+Je ne l'épargne point s'il ne me considere,
+Et cesse d'estre fils, s'il cesse d'estre pere :
+Roxalie au Serail ! dégageons-la d'icy.
+Et vous dont la vertu⁎ s'interresse en cecy,
+Vous formez un projet, apprenez-en un autre,
+Et sçachez mon dessein, puisque je sçay le vostre,
+Je vay de Bajazet me rendre prisonnier :
+ 
+      Ce sera le dernier.
+
+      Ce secret vous semble bien estrange,
+Il force Tamerlan de conclurre un échange,
+Et de leurs libertés je deviens la rançon.
+
+Et je sçauray du mien sauver les apparences.
+
+Tout ce que nous traitons, est peu de consequence.
+ 
+D'une action si noble elle a tout le merite ;
+Et je serois injuste en le luy ravissant.
+
+Son ame malgré vous, vous rendoit ce service ;
+Elle a pris des desseins que vous deviez avoir.
+
+Et ne la suivant pas ils en sont plus coulpables.
+Rendez à Bajazet.
+
+Vous voyez vostre fils.
+
+      Mes fers⁎ sont rompus à demy,
+Jusque dans vostre camp j'en porte une partie,
+J'en traine l'une icy, l'autre est à ma sortie,
+Je les dois reünir, & je vien sur ma foy.
+
+Il demande sa fille ;
+ 
+Quoy Roxalie est libre ?
+
+Il veut aussi Madame, & toute sa famille,
+Et telle que dans Pruze on a veu sa maison.
+
+      Je rentre en ma prison,
+Il y faut retourner, ma parole me lie.
+ 
+Ah, Seigneur, que plustost !
+
+Ah ! Seigneur, entendez :
+
+Consultez l'apparence :
+
+Redonnez-luy sa femme.
+
+Seigneur il est tout prest.
+
+Au moins dans mes souhaits j'auray part à sa gloire.
+
+Je fais mesme des vœux⁎ contre ma liberté.
+
+Plus pour servir qu'à nuire ils se sont animez :
+Perdez cette frayeur, cognoissez ce visage.
+
+      Mes Dames sauvez-vous,
+Le sort⁎ vous est propice, acceptez ma conduite.
+
+Bajazet m'a fié quatre mille chevaux,
+Desja par leur secours j'ay franchy cent travaux,
+J'ay passé comme un foudre à travers nos Gendarmes,
+J'ay laissé sur nos pas des marques de mes armes,
+J'ay percé jusqu'icy, partout l'on m'a fait jour,
+Rien n'a pû resister au cours de mon amour :
+Princesses, suivez-moy par le mesme passage,
+Que si vous differez un instant davantage,
+Je previens le regret de faillir mon dessein,
+Et je m'en vay plonger mon espée en mon sein.
+
+      Inutiles menaces !
+Croy-tu m'épouvanter ? mourons en gens de cœur⁎.
+
+Allons nous opposer contre cette puissance :
+Ah lasche !
+
+Je leur pardonnerois s'ils avoient combattu :
+Allons à ce vainqueur exposer nostre teste :
+Que l'on me suive : ô Ciel !
+
+      Arreste icy ton bras,
+Ou cette mesme main te porte le trépas.
+Puis que mon entreprise⁎ est aujourd'huy trompée,
+Seigneur, ce n'est qu'à vous que je rend mon espée,
+Un pere seul a droict de triompher d'un fils.
+
+Pendant ces mouvemens, je ne vous puis respondre,
+Je perdrois mes raisons :
+
+Ah, traistre !
+
+Quoy, le recompenser !
+ 
+Juste indignation dont mon ame est saisie !
+
+N'attends pas de joüir des delices d'autruy :
+Ah, lasche ! tu mourras.
+
+      Pere & Prince inhumain !
+Je laisse aller mon cœur, si je retiens ma main,
+Et je pense former un souhait legitime,
+Quand j'implore la mort de qui soustient le crime,
+De qui te recompense, & qui te doit punir.
+
+      Ah, Prince malheureux !
+Ah, pere trop barbare !
+ 
+      Plustost ma mort !
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indarthize
+
+      Hé bien agirons-nous ?
+Dedans leurs libertez vous interessez⁎-vous ?
+Et n'entrerez-vous point dedans mon entreprise⁎ ?
+
+Il les faut dégager de cette servitude.
+ 
+      Tout est en bon estat,
+Et leur évasion est si bien conjurée,
+Que vray-semblablement je puis estre asseurée,
+Vos Gardes & vous seul avez sceu mon secret.
+
+Faites-vous un effort.
+
+La generosité⁎ m'est assez naturelle.
+
+Enfin ma jalousie est mise dans son jour,
+Je veux bien l'advoüer, elle est trop legitime.
+
+Il vous le peut bien estre, & selon l'apparence,
+ 
+      Faut-il que je le pense,
+Et que je vous le die ?
+
+      Aussi bien que la mere.
+
+Sans enfraindre nos loix il ne le peut oser,
+Je craind pour toutes deux un desastre bien pire,
+Que l'horreur que j'en ay m'empesche de vous dire.
+Son Serrail :
+
+Quoy tenter ce moyen ?
+
+Dans ses fers⁎ !
+
+Pourrés-vous réussir sans donner du soupçon ?
+Je vay de mon costé tenter leurs délivrances.
+
+Seigneur, nous discourons de la captivité,
+Du desir que chaque homme a de sa liberté :
+Comme tous les plaisirs sont imparfaits sans elle,
+Et comme son amour nous est si naturelle.
+
+En effet, son desastre est digne de nos pleurs,
+Roxalie & sa mere attiroient nos douleurs ;
+Le cœur le plus barbare y deviendroit sensible.
+
+      C'est un vœu⁎ que je fais.
+
+C'est un dessein, Seigneur, que vous-mesme avez fait,
+
+      Quoy ?
+
+Par vertu⁎, par amour je le croy legitime ;
+Mon dessein est trop beau, je le veux advoüer,
+Et mon Juge luy-mesme a droict de m'en loüer :
+Leurs gardes m'ont trahy, & tous ces infideles
+Vous ont dit les projets que je formois pour elles ;
+Je veux donner du poids à ce qu'ils vous ont dit,
+Et par mon propre adveu leur donner du credit ;
+Il n'est pas de besoin que l'on me les confronte.
+
+La vertu⁎ ne sçait point ce que c'est que rougir,
+Elle seule en cecy me conseilla d'agir ;
+Et mon sexe⁎ & mon sang⁎ les voyant dans les chaisnes,
+Souffroient d'y regarder des femmes & des Reynes :
+Et quand ma jalousie y méleroit du sien,
+Il nous est naturel de chercher nostre bien ;
+Avecque des respects qu'il faut que je soupçonne,
+Et que vous ne devez qu'à ma seule personne :
+Par les plus grands honneurs que l'on puisse inventer,
+Vostre magnificence essaye à la tenter.
+
+Quoy, Seigneur !
+
+Seigneur, je vien finir un combat si honteux,
+Que ne resolvés vous, ce choix est-il douteux ?
+Pourquoy vous plaisez-vous dans cette incertitude ?
+Laissez-vous vostre fils dedans la servitude ?
+Et vous mesme captif sous de divers liens,
+Pouvez-vous ressentir & vos fers⁎ & les siens ?
+ 
+L'amour, ny la vertu⁎ ne me font plus agir,
+De plus lasches motifs me forcent de rougir :
+Est-ce par l'interest qu'il faut toucher vostre ame ?
+Craignez-vous de faillir par la honte du blasme ?
+Et loin de vous regler sur de hauts sentimens,
+Vous laissez-vous aller à de bas mouvemens ?
+Seigneur, s'il est ainsi, revoyez Orcazie ;
+Non point pour contenter ma juste jalousie,
+Ny moins pour achever ma generosité⁎ ;
+Mais n'agissez icy que par utilité.
+
+      Je voy vostre foiblesse ;
+Quelque reste d'honneur vous émeut & vous presse,
+La vertu⁎ dedans vous fait encor des effors,
+Et de si grands souspirs partent de vos remors :
+Mais poussez avec eux cette honteuse flame⁎,
+Et d'un poids si pesant affranchissez vostre ame ;
+D'un indigne esclavage exemptez vostre cœur,
+Délivrez vostre fils des prisons d'un vainqueur ;
+Degagez de vos fers⁎ & la fille & la mere,
+Consolez tout ensemble & l'époux & le pere,
+Entrez dans sa douleur, ressentez son ennuy⁎,
+Dedans cét accident jugez-vous par autruy,
+Et des tourmens qu'endure une ame quand elle ayme,
+Ou, sans le voir ailleurs, jugez-en par vous-mesme.
+
+Rendez-moy donc mon fils.
+
+Ma rivale à mes yeux ! vous la faites venir.
+
+      Va cruel, tu peux l'entretenir,
+Ma presence le choque ; ostons luy ce spectacle.
+
+Sans cette trahison, je vous aurois sauvée.
+
+Madame, nos destins se lassent de la guerre,
+Et d'un consentement s'en vont déterminer,
+Ils sont prests à conclure :
+
+Ils arrivent enfin à leurs derniers effors,
+Et s'estans suspendus dessus nos deux armées,
+Tenant les nations de ce choix allarmées,
+Meditent un Arrest qu'ils leur vont prononcer,
+Et que la Renommée ira leur annoncer.
+
+Ce celebre combat se donne à vostre gloire,
+Et de quelque costé que tombe la victoire,
+Le destin le plus fort vous presente au vainqueur.
+
+      Quoy, des soûpirs sortent de vostre cœur !
+D'où part le déplaisir que vous faites parestre ?
+
+      La vertu⁎ le fait naistre ?
+
+      Vous m'en dites assez ;
+Ce n'est plus qu'à luy seul que j'impute son crime⁎,
+Et vostre procedé merite mon estime ;
+J'entreprend vostre fuitte, ou bien je periray ;
+Je me perdray moy-mesme, ou je vous sauveray :
+Que si nostre fortune⁎ avoit changé de face,
+J'attend de vos bontez une pareille grace ;
+Et que si j'éprouvois un semblable revers⁎,
+Que vos mains à leur tour viendroient rompre mes fers⁎.
+
+Il s'est fait prisonnier pour vostre liberté,
+J'avois sceu son secret :
+
+Themir dedans ces lieux !
+
+Par quel heureux moyen causerez-vous leur fuite ?
+
+Seigneur, considerez que vous estes son pere.
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zilim
+
+      Il vient vous l'accorder,
+Il veut vous la donner dans cette mesme tente.
+
+Jusques à certaine heure on ne le sçauroit voir :
+Il marche sur mes pas, venez le recevoir ;
+Il entre, abaissez-vous devant ce Dieu visible.
+
+      Le Chef des Chefs Bajazet grand Seigneur,
+Seigneur de Capadoce & de la Lycaonie,
+Prince de Cilicie, Attique, Bithinie,
+Grand Roy des Brysiens, des Sestes, Prigiens,
+Des Tribales, de Pont, des Macedoniens,
+Des Traces, de Nicée, & de la Pamphilie,
+Souverain de Phocide, & de la Natolie :
+A Tamerlan.
+
+Celuy que je t'envoye, a receu tout credit,
+Il peut de plein pouvoir t'engager ma Couronne, 34
+Je le tiens aussi cher que ma propre personne,
+Et traittant avec luy, tu traittes avec moy.
+
+      Arrestez-vous.
+
+Vous avez merité l'affront que vous souffrez.
+
+Bajazet, reprenez vostre vray personnage,
+Ne vous déguisez plus.
+
+      Il vient de vostre armée.
+
+Mon Maistre vous remet en pleine liberté.
+
+      Ce devoir me regarde,
+Je m'en acquiteray.
+
+C'est ainsi qu'un perfide est puny par mon Maistre :
+Ordonne contre luy le trépas qui te plaist,
+Prononces-en sur l'heure & le genre & l'arrest ;
+Le choix t'en est permis, Tamerlan te l'envoye.
+
+Va devers Tamerlan apprendre ton arrest.
+Que quelqu'un l'y conduise.
+
+C'est ainsi, Bajazet, que l'on te recompense,
+Tu vois dedans mon Prince un vainqueur genereux⁎,
+Et mesme avec regret il te void malheureux,
+Il ne tiendra qu'à toy de sortir de tes chaisnes.
+
+J'ay le commandement de t'oster de ces fers⁎.
+
+      Joüis de ta franchise⁎,
+Et vange dessus toy la honte de ta prise.
+
+      Il faut mourir, Bajazet : tu fremis,
+Quoy, la mort t'épouvante !
+
+Mon Maistre en a laissé le choix à ton envie :
+Accepte ce poignard, dont il te fait present ;
+Si tu veux du poison ?
+
+      L'évenement nous trompe,
+Le sort⁎ en a destruit le superbe⁎ appareil,
+Et le camp de mon Prince est tout remply de dueil.
+Meurs, Bajazet.
+
+Commande.
+
+Soldats qu'on le contente, éloignez-vous d'icy.
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_bajazet
+
+Où sommes-nous, Selim, tu me vois dans sa tente,
+Tu vois un Empereur que l'on laisse en attente,
+Suis-je bien Bajazet en cét abaissement ?
+Et n'ay-je point changé par ce déguisement ?
+Pourra-t'on recognoistre à ces indignes marques,
+Le Souverain des Rois, & le Dieu des Monarques ?
+Effroyable misere où je suis parvenu !
+Je deviens, comme à tous, à moy-mesme incognu.
+
+Tu me vois contre-faire un triste personnage ;
+Faut-il qu'en cét estat j'abaisse ma grandeur ?
+Que je sois devenu mon propre Ambassadeur ?
+Et par un motif lâche & mauvais stratagême,
+Que je sois deputé de la part de moy-mesme ?
+Regarde les dangers où mon amour m'a mis.
+
+Dans quel estonnement⁎ laisse-je mon armée ?
+Elle que ma presence a tousjours animée ?
+De pareils accidens ont produict de grands maux.
+
+Le malheur qui me suit va poursuivre ma race,
+Ils soustiennent en vain un Empire panchant,
+La grandeur Othomane incline à son Couchant,
+Desja de tous costez mon Empire succombe,
+Ils vont s'envelopper sous un thrône qui tombe,
+Et pensant retenir la pante qu'il a pris,
+Ils vont dessus leur teste attirer son débris.
+
+Je sçauray conserver cét auguste renom,
+Cessant de conquerir, je cesseray de vivre :
+Mais mon bon-heur me quitte, il est las de me suivre,
+Et s'estant destaché d'avecque ma valeur,
+Ce lasche deserteur me livre à mon malheur.
+Luy qui m'avoit acquis tant de vastes Provinces,
+Qui m'avoit enrichy des Estats de cent Princes ;
+Me dépoüille aujourd'huy de ce qu'il m'a donné,
+Et rend par ce revers⁎ tout le monde estonné⁎.
+
+Que n'ay-je le plaisir de couronner cent testes ?
+De voir tout l'Univers du Couchant au Matin,
+S'ébranler & venir fondre⁎ sur ce butin !
+Mais qu'un seul Tamerlan joüisse de ma proye,
+C'est le dernier fleau que mon malheur m'envoye ;
+Il marche dans l'Asie en pas de Conquerant,
+Il prit & desola mes villes en courant ;
+Et tel qu'un fier torrent qu'ont grossy les tempestes,
+Ce cœur impetueux s'enfla de ses conquestes.
+Il s'est enorgueilly du gain de trois combats,
+Au premier Orthobule a trouvé son trépas :
+Au second armement Sebaste fut conquise,
+Dans nos derniers assauts ma famille fut prise.
+Jusque-là son bon-heur a suivy ses projets,
+Qu'il semble que le sort⁎ soit l'un de ses subjets :
+Quoy donc, mon ennemy possedera ma femme !
+Combien de mouvemens viennent saisir mon ame ?
+
+      Ah ! que me promets-tu ?
+Ce lasche usurpateur a-t'il tant de vertu⁎ ?
+Peut-estre que l'ingratte :
+
+Veux-tu que je me flatte ? elle est dans l'esclavage,
+Elle est belle.
+
+Une moindre apparence allarme un cœur jaloux,
+Tamerlan a des yeux, & ma femme a des charmes⁎.
+
+L'Amour sçait le secret d'adoucir ces cruels,
+Il sçait l'art d'amollir de si fiers⁎ naturels,
+Et dans ces passions dont l'ardeur les consomme,
+Il rend à des brutaux le naturel des hommes.
+Depuis qu'il a ma femme, il a changé de cœur,
+Ce monstre a dépoüillé sa premiere rigueur,
+Et son ame quittant tout ce qu'elle a d'horrible,
+De dur & de barbare, est touchée & sensible ;
+Témoins les traittemens que ce tyran luy fait,
+C'est de sa passion⁎ & la marque & l'effet :
+Qu'en doy-je presumer, s'il ne la veut point rendre ?
+
+      Je suis las de l'attendre.
+
+Aurons-nous audiance ?
+
+Depuis assez long-temps nous estions en attente.
+
+Que cette humilité m'est honteuse & sensible !
+
+      En voila la teneur.
+
+Pourquoy vous rendez-vous le Juge de mon Maistre ?
+
+Par quel droict l'avez-vous ?
+
+Dequoy l'accusez-vous ?
+
+Croyant parler de luy, tu parles de toy-mesme,
+Tu ravis à ton Prince & vie & diadême ;
+N'as-tu point usurpé les thrônes de vingt Rois ?
+N'as-tu point sousmis l'Inde & la Chine à tes loix ?
+Quels maux n'as-tu point fait dans ta propre patrie ?
+N'as-tu point opprimé le Cham de Tartarie ?
+Et prenant à ta solde un amas de bannis,
+Qui sous tes estandars se voyoient impunis,
+N'as-tu point envahy l'une & l'autre Scitie ?
+
+      L'on me force à cette repartie,
+N'offence point mon Maistre.
+
+A-t'il jamais choqué les progrez de ta gloire ?
+Pourquoy donc t'opposer au cours de sa victoire ?
+Quel interest prends-tu dans tous ses differens ?
+
+      N'en dy pas davantage ;
+Si tu te veux sousmettre aux loix que tu luy fais,
+Je le conjureray de te donner la paix.
+
+Je voy qu'apparemment mon ambassade⁎ est vaine.
+
+Tu luy retiens sa femme, & c'est ce qu'il desire ;
+Il t'offre pour rançon le tiers de son Empire.
+
+Recevez de sa part l'offre que je vous fais ;
+Voyez en quel estat je vous le fais parestre,
+Et comme je démens la grandeur de mon Maistre ;
+Il rougit dedans moy de se voir à vos pieds,
+C'est en cette posture où vous le chastiez ;
+Et vous-mesme estonné d'un si honteux langage,
+Ne prendrez qu'à regret ce honteux advantage⁎.
+ 
+      Il s'est humilié :
+Mais quoy que Bajazet se soit tant oublié,
+C'est un abaissement dont il n'est point capable,
+Et dont à l'Amour seul vous estes redevable ;
+Il s'aneantiroit pour la tirer des fers⁎.
+
+Puissiez-vous ressentir ce que ressent son ame,
+Aux mains de Bajazet voir tomber vostre femme,
+Envoyer dans son camp, ou vous-mesme y venir ;
+Enfin la demander, & ne pas l'obtenir :
+Je forme des souhaits qui ne peuvent pas estre,
+Et j'offence en mes vœux⁎ la vertu⁎ de mon Maistre ;
+Il vous la renvoyroit, & mesme sans rançon ;
+Mais tous n'agissent pas de la mesme façon.
+Au moins si sans soupçon vous le pouvez permettre,
+Souffrez que de sa part je luy donne une lettre ;
+Pouvez-vous m'accorder l'heur de l'entretenir ?
+
+      Vostre bonté l'oblige,
+Je suis de vos faveurs un fidele témoin,
+Et je luy rediray que vous en avez soin⁎.
+
+      N'en doutons plus, il l'ayme.
+
+      Il s'y prepare aussi.
+
+Oüy donnons quelque tréve à toutes nos tristesses.
+
+Ayant voulu vous voir, faut-il que je vous voye ?
+Un secret déplaisir sert de frein à ma joye.
+
+C'est ma moindre frayeur : Pourquoy suis-je venu ?
+Que je suis curieux ! quelle est mon imprudence ?
+A l'éclaircissement preferons l'ignorance,
+C'est apprendre un secret qu'on ne veut point sçavoir,
+Et vouloir regarder ce qu'on ne veut pas voir.
+
+Mon ame que partage un divers mouvement,
+Tombe enfin malgré moy dans ce raisonnement :
+Ma femme est prisonniere, & son vainqueur barbare,
+Peut-elle resister aux efforts d'un Tartare ?
+De cruels traittemens ont abattu son cœur,
+Une longue prison a flechy sa rigueur,
+Sa vertu dans les fers⁎ ne peut estre invincible,
+Moins pour luy qu'à ses maux elle devint sensible :
+Elle eut de la pitié pour ses propres douleurs,
+Et crut par ce secret adoucir ses malheurs.
+S'il est vray, sans rougir advoüez vostre crime⁎,
+Trop de necessité le rendoit legitime ;
+Vostre Juge vous plaind, loin de vous condamner.
+
+Du respect qu'il vous rend, que faut-il que j'en pense ?
+Un tyran vous honore.
+
+Madame, c'est trop peu, vous le devez aymer ;
+Dessous ces faux honneurs l'amour se manifeste,
+En cecy sa rigueur m'eust esté moins funeste⁎ :
+Qu'il vous traitte en captive, & vous charge de fers⁎,
+Qu'il redouble les maux que vous avez souffers,
+Icy sa cruauté me seroit supportable.
+Ce tyran aujourd'huy vous seroit effroyable,
+Vous le regarderiez avec des yeux d'horreur,
+Vous ne le pourriez voir qu'avec quelque fureur ;
+Au lieu que ses biens-faits vous rendent plus traitable,
+Il treuve en ses faveurs l'art de se rendre aymable,
+Et negligeant la force, il crut que la douceur,
+Du cœur comme du corps le rendroit possesseur :
+Ainsi de tous costez je trouve lieu de craindre,
+Une longue souffrance aura pû vous contraindre,
+Et par des traittemens qui vous ont pû charmer⁎,
+Il sera parvenu jusqu'à se faire aymer.
+
+Ce n'est pas la vertu⁎ qu'un tyran se propose :
+D'où naistroit le respect dont il traitte avec vous ?
+Honore-t'on la femme, en dédaignant l'époux ?
+Et sous quelles raisons que je ne puis comprendre,
+Cache-t'il le refus qu'il me fait de vous rendre ?
+
+      Dites que c'est l'amour,
+Et que vous vous plaisez dans ce honteux sejour.
+
+      C'est peu que l'amitié,
+Qu'il se contente donc de ce simple advantage⁎.
+
+Donc le pere & le fils partage ma famille.
+O glorieux destin ! incomparable honneur !
+Quoy ! dessus cét Amant⁎ vous fondez mon bon-heur ?
+O sang⁎ de Bajazet ! ô race Imperiale !
+Jusqu'à des incognus ta grandeur se ravale !
+Fille dénaturée, indigne de ton rang,
+Regarde en quelle source on confondra ton sang⁎.
+Vous femme sans honneur, & vous mere imprudente,
+De cette passion⁎ unique confidente,
+Allez participer à leur secret accord,
+Et dans ce double Hymen⁎ allez jurer ma mort :
+Je vais.
+
+      Moy ! ton ordre m'estonne,
+L'on choque Bajazet en choquant ma personne :
+Quoy les Ambassadeurs ne sont-ils point sacrés ?
+
+Mon Maistre va venger un si sensible outrage.
+
+      Je suis donc recognu ?
+Au camp des ennemis je me voy retenu :
+Qui m'a trahy, Selim, qui m'a trahy, Madame ?
+Est-ce vous, mon Vizir, ou si c'est vous, ma femme ?
+Enfin respondez-moy, qui de vous deux me perd ?
+
+      Vos yeux m'ont découvert,
+On a veu qui j'estois dessus vostre visage,
+Et tantost quelque signe a donné cét ombrage.
+
+D'où pourroit donc venir cét advertissement ?
+Est-ce de vous, Selim ?
+
+Mon ambassade au camp s'est-elle donc semée ?
+Et qui de mes Bassas m'aura pû découvrir ?
+N'importe, à Tamerlan il faut aller s'offrir,
+Avec un front ouvert se faire recognoistre, 45
+Et le faire rougir de se servir d'un traistre.
+
+C'est que je vous nuirois, il a trop de prudence,
+Et cét adroit Amant⁎ redoute ma presence ;
+Je ne l'impute point à generosité⁎ :
+N'importe, servons nous de cette liberté,
+Employons contre luy le pouvoir qu'il me donne,
+Et fions au hazard le soin de ma personne ;
+J'abandonne son camp. Vous, Selim, suivez-moy.
+
+De tous également je me dois deffier :
+Mais allons, le succez vous va justifier.
+
+Tu n'as donc pas vaincu, puisque je suis trahy.
+
 Que ne prends-tu l'employ de te punir toy-mesme,
 Et que ne previens-tu la vengeance suprême ?
 Tu vis à la façon de ces grands criminels,
@@ -2061,153 +1198,35 @@ M'accusant de larcin tu voles mes Estats,
 Et tu te dits le fleau des mauvais Potentats ;
 Tyran, usurpateur !
 
--*who_tamerlan
-      Quoy, le vaincu me brave !
-
--*who_bajazet
 N'attends pas que je prenne un naturel d'esclave.
 
--*who_tamerlan
-Ne me peux-tu parler avec humilité ?
-A l'objet de tes fers⁎ abaisse ta fierté,
-Et tasche à reprimer cette langue insolente.
-
--*who_bajazet
 Ne considere point ma fortune⁎ presente,
 Et traite un malheureux avec moins de mépris.
-
--*who_tamerlan
-Je te voy consterné, ta cheute t'a surpris,
-Tous tes crimes en foule assaillans ta memoire,
-Luy tracent de ton regne une effroyable histoire,
-Et donnant cette idée à ton ressouvenir,
-Ton propre accusateur commence à te punir ;
-Apres que ton remords aura fait son office,
-J'acheveray tes maux par un dernier supplice.
-
--*who_bajazet 
+ 
 Si je l'ay merité, ne le differe pas.
 
--*who_tamerlan
-Pour chastier ta vie, il faut un long trépas,
-Je veux continuer, non pas finir tes peines.
-
--*who_bajazet
 Cruel, quel passe-temps de me voir dans les chaisnes !
 Comme un souverain bien, je demande la mort.
 
--*who_tamerlan
-Il fut en ton pouvoir de regler de ton sort,
-Il ne falloit pas fuïr pour prolonger ta vie.
-
--*who_bajazet
 Sa conservation ne fut point mon envie,
 J'allois chez mes voisins me remettre en estat,
 Et tenter le hazard par un dernier combat :
 L'infidele Selim a borné⁎ ma poursuite.
 
--*who_selim
-Advouë ingenuëment que j'empeschay ta fuite,
-Il falloit ou mourir, ou vaincre dans ces lieux.
-
--*who_bajazet
 Ah, perfide ! ta veuë est fatale à mes yeux :
 Va te punir toy-mesme, oste-moy ta presence.
 
--*who_tamerlan
-Non, non, son action merite recompense.
-
--*who_selim
-Oüy je l'ay meritée, & l'ose demander.
-
--*who_tamerlan
-Quelle faveur veux-tu ? je veux te l'accorder.
-
--*who_selim
-Je demande sa fille :
-
--*who_tamerlan
-      Hé bien, je te la donne ;
-Ce n'est qu'utilement que l'on sert ma personne.
-
--*who_themir
-Ah, traistre !
-
--*who_tamerlan
-      Je cognois⁎ que le don t'est fatal.
-
--*who_themir
-Quoy, le recompenser !
-
--*who_tamerlan
-      Je te donne un rival.
-
--*who_themir 
-Juste indignation dont mon ame est saisie !
-
--*who_tamerlan
-J'empescheray l'effet de cette jalousie.
-
--*who_themir
-N'attends pas de joüir des delices d'autruy :
-Ah, lasche ! tu mourras.
-
--*who_tamerlan
-      Qu'on s'asseure de luy.
-Ma prudence, Zilim, le remet sous ta garde,
-Et tu m'en respondras.
-
--*who_zilim
-      Ce devoir me regarde,
-Je m'en acquiteray.
-
--*who_themir
-      Pere & Prince inhumain !
-Je laisse aller mon cœur, si je retiens ma main,
-Et je pense former un souhait legitime,
-Quand j'implore la mort de qui soustient le crime,
-De qui te recompense, & qui te doit punir.
-
--*who_bajazet
 Hé bien, mon mauvais sort ne doit-il point finir ?
 Te viens-tu divertir à m'inventer des peines ?
 
--*who_tamerlan
-Je te l'adjouste encor, tu mourras dans les chaisnes.
-
--*who_bajazet
 Cruel, dénaturé, monstre, opprobre des Rois,
 Homme que la Fortune⁎ éleva dans les bois !
 Est-ce ainsi qu'un vainqueur sauve sa renommée ?
 
--*who_tamerlan
-Qu'on te donne en spectacle à toute mon armée.
-Je veux t'humilier.
-
--*who_themir
-      Ah, Prince malheureux !
-Ah, pere trop barbare !
-
--*who_bajazet
       Ah, fils trop genereux⁎!
 Verrez-vous Orcazie au pouvoir de ce traistre ?
 Adieu.
 
--*who_themir 
-      Plustost ma mort !
-
--*who_tamerlan
-      Non, non, je suis leur Maistre,
-Et je puis disposer d'un bien que j'ay conquis.
-Tu la possederas, ce present t'est acquis ;
-Mesme je te destine une autre recompense.
-
--*who_selim
-Vous verrez des effets de ma recognoissance.
-
-**** *book_ *id_scene1-V *act_acteV *date_1648 *creator_magnon
-
--*who_bajazet
 Me donnez-vous relasche, & puis-je soûpirer ?
 Le pouvant, mes douleurs ! que ne quis-je expirer !
 Pour me forcer à vivre estes-vous eternelles ?
@@ -2233,11 +1252,6 @@ Et me le presentant ne me le donnent pas ;
 Je demande la mort, & l'on me la dénie.
 Bourreaux !
 
--*who_un_garde
-      Tu dois souffrir une peine infinie,
-Prend dedans ce delay de nouvelles vigueurs.
-
--*who_bajazet
 Inhumains, je suis prest, redoublez vos rigueurs !
 C'est assez respirer, je viens de prendre haleine,
 Et me trouve en estat de ressentir ma peine :
@@ -2282,91 +1296,19 @@ Luy servir de degrez pour monter à cheval !
 A ce ressouvenir je meurs. Quelle autre image,
 Tu t'offres à mes yeux, viens-tu voir ton ouvrage ?
 
-**** *book_ *id_scene2-V *act_acteV *date_1648 *creator_magnon
-
--*who_bajazet
 Je te vois enchaisné, le salaire t'est deu.
-
--*who_selim
-Je me perds, Bajazet, après t'avoir rendu.
-
--*who_bajazet 
+ 
 Est-ce pour m'affliger qu'on m'envoye ce traistre ?
 
--*who_zilim
-C'est ainsi qu'un perfide est puny par mon Maistre :
-Ordonne contre luy le trépas qui te plaist,
-Prononces-en sur l'heure & le genre & l'arrest ;
-Le choix t'en est permis, Tamerlan te l'envoye.
-
--*who_bajazet
 Malgré mes déplaisirs, je ressens quelque joye,
 J'estime mon vainqueur de te manquer de foy,
 Et que juste, une fois, il te renvoye à moy ;
 Tu ne jouïras point de cette perfidie,
 Pourquoy m'as-tu trahy ?
 
--*who_selim
-      Veux-tu qu'on te le die ?
-Tu fuyois dans la Thrace avec mille chevaux,
-Au lieu de les finir, tu prolongeois tes maux ;
-Et le desir de vivre est si grand en ton ame,
-Que tu laissois tes Chefs, tes enfans, & ta femme ;
-M'estoit-il glorieux de t'avoir pour Seigneur,
-Et me falloit-il vivre avec ce deshonneur ?
-Ce n'est pas encor là le motif de mon crime⁎,
-De plus fortes raisons le rendent legitime ;
-Ne te souvient-il plus des crimes que j'ay faits,
-Et que tu prends ta part dedans tous mes forfaits ?
-Que dis-je, ils sont les tiens, je ne suis que complice,
-Mes attentats⁎ chez toy s'imputent à service :
-S'il est vray, Prince ingrat, que je te l'ay rendu,
-Le juste souvenir s'en est bien-tost perdu.
-J'estois desja Vizir du vivant de ton pere,
-Tu sçais qu'à son trépas il me commit⁎ ton frere ;
-A ton ambition j'immolay cét aisné,
-Du bras qui le tua, tu te vis couronné :
-Je fis dans le Divan ta ligue la plus forte,
-Mon credit te gaigna tous les Grands de la Porte ;
-Et tout fumant encor du sang que je versay,
-Tu montas sur un rang dont je le renversay.
-Lors tu me commandas d'entrer dans ta famille,
-Tu me fis esperer l'heur d'épouser ta fille ;
-Et sans aucun sujet, & contre ton serment,
-Ton ame à mon endroit changea de sentiment :
-Peut-estre que ton cœur garde cette maxime,
-Qu'à celuy qu'on immole il faut une victime,
-Qu'il faut que son meurtrier luy soit sacrifié ;
-Malgré tes faux-semblans je m'en suis defié,
-Que s'il faut à ton frere un sanglant sacrifice,
-Fais que tes propres mains luy rendent cét office ;
-Et loin que par ma mort ton crime soit caché,
-Aux yeux d'un monde entier expose ton peché ;
-Va laver dans ton sang mon offence & la tienne,
-Tu cherchois ta vengeance, & je cherchois la mienne.
-Nous la trouvons tous deux, je te perds, tu me perds,
-Tous deux sans y penser nous nous voyons aux fers⁎ :
-Il faut que sur ton sort chaque Prince contemple,
-Et qu'il daigne s'apprendre en voyant cét exemple,
-Qu'aux subjets qu'il irrite il ne doit rien fier.
-
--*who_bajazet
 Traistre ! à d'autre qu'à moy va te justifier ;
 Ay-je pû t'escouter ? choisis un autre Juge.
-
--*who_selim
-Ne t'imagine point que je cherche un refuge,
-Prononce mon arrest, je n'y recule pas :
-Et pour te faire voir que j'attends mon trépas,
-Sçache que par mes mains ta Roxalie est morte,
-Je l'ay tuée. Et quoy, ta tristesse t'emporte !
-Tu pâlis ! je sçay bien que ce coup t'est fatal :
-Quoy ! je l'aurois laissée aux mains de mon rival ?
-D'un mortel deshonneur j'ay sauvé ta famille,
-Des mains d'un ennemy j'ay dégagé ta fille ;
-Tu m'en es redevable, & tu vas m'en punir :
-
--*who_bajazet 
+ 
 Ah ! de quels attentats⁎ viens-tu m'entretenir ?
 Que ne puis-je moy-mesme exercer ma vengeance !
 Chaisnes, qui me mettez dedans cette impuissance !
@@ -2386,61 +1328,20 @@ Puisse-t'il le traitter avec mesme rigueur,
 Et le mettre à son tour au pouvoir d'un vainqueur.
 Sors, sors.
 
--*who_selim
-      Je vay mourir, bien-tost tu me vas suivre,
-Tu n'auras pas long-temps l'honneur de me survivre.
-
--*who_zilim
-Va devers Tamerlan apprendre ton arrest.
-Que quelqu'un l'y conduise.
-
--*who_selim
-      Oüy, tout tyran qu'il est,
-J'ayme mieux par luy-mesme apprendre ma sentence.
-
-**** *book_ *id_scene3-V *act_acteV *date_1648 *creator_magnon
-
--*who_zilim
-C'est ainsi, Bajazet, que l'on te recompense,
-Tu vois dedans mon Prince un vainqueur genereux⁎,
-Et mesme avec regret il te void malheureux,
-Il ne tiendra qu'à toy de sortir de tes chaisnes.
-
--*who_bajazet
 Que ne ferois-je point pour abreger mes peines,
 Et pour finir enfin les maux que j'ay souffers ?
-
--*who_zilim
-J'ay le commandement de t'oster de ces fers⁎.
-
--*who_bajazet 
+ 
 Je ne suis plus captif.
 
--*who_zilim
-      Joüis de ta franchise⁎,
-Et vange dessus toy la honte de ta prise.
-
--*who_bajazet
 Comment ?
 
--*who_zilim
-      Il faut mourir, Bajazet : tu fremis,
-Quoy, la mort t'épouvante !
-
--*who_bajazet
       Obligeans ennemis !
 O courtois Tamerlan ! ô nouvelle agreable !
 La mort a des appas, loin de m'estre effroyable :
 Puis-je estre moins joyeux sortant de ma prison ?
 Mourons ; mais quoy ! ma main n'a ny fer⁎, ny poison :
 A quel genre de mort destine t'on ma vie ?
-
--*who_zilim
-Mon Maistre en a laissé le choix à ton envie :
-Accepte ce poignard, dont il te fait present ;
-Si tu veux du poison ?
-
--*who_bajazet 
+ 
       Cét objet m'est charmant,
 C'est le don que je veux, & qu'il me plaist élire ;
 Apres cette faveur, qu'il garde mon Empire.
@@ -2449,31 +1350,14 @@ L'esprit de Tamerlan tourne bien promptement :
 Il avait projetté de me conduire en pompe,
 Et par tout l'Orient.
 
--*who_zilim
-      L'évenement nous trompe,
-Le sort⁎ en a destruit le superbe⁎ appareil,
-Et le camp de mon Prince est tout remply de dueil.
-Meurs, Bajazet.
-
--*who_bajazet
       Mourrons ; mais mourrons en Monarque,
 Zilim, de ma grandeur laisse-moy quelque marque,
 Permets à Bajazet de regner en mourrant.
 
--*who_zilim
-Commande.
-
--*who_bajazet
       Ne vois point un Monarque expirant,
 Je ne te veux point voir, ny qu'aucun me regarde ;
 Que je meure en repos, oste d'icy ta garde.
 
--*who_zilim
-Soldats qu'on le contente, éloignez-vous d'icy.
-
-**** *book_ *id_scene4-V *act_acteV *date_1648 *creator_magnon 
-
--*who_bajazet
 Hé bien, cruelle mort ! il me reste un soucy,
 Pourquoy m'affliges-tu par cette inquietude,
 Et me faut-il finir par un tourment si rude ?
@@ -2490,22 +1374,485 @@ Mourons. Mais je la voy, cachons luy ce poignard,
 Suspendons quelque instant nostre derniere envie,
 Et pour quelques momens revenons à la vie.
 
-**** *book_ *id_scene5-V *act_acteV *date_1648 *creator_magnon 
-
--*who_bajazet
 Hé bien ! quel est ton sort ?
 
--*who_orcazie
-      Le vostre.
-
--*who_bajazet
       Quoy, le mien !
 Vis heureuse, Orcazie, & va joüir du tien,
 Je ne suis plus jaloux d'un si grand advantage⁎ :
 Mais je voy dans tes yeux quelque mortel presage ;
 Quel malheur ?
 
--*who_orcazie
+      Trop fatale Princesse,
+Trop genereux⁎ Themir, que vous causez de sang !
+
+      Mon choix est desja fait.
+
+      Je vay cesser de vivre ;
+Je te vais preceder, mais il faudra me suivre ;
+Je t'enseigne un chemin qu'a tracé la vertu⁎,
+Et que mille affligez avant nous ont battu :
+Sortons de ces malheurs par cette belle voye.
+
+Servons-nous du poignard, dédaignons le poison,
+Une clef si sanglante ouvre mieux ma prison ;
+Tu m'as fait un present, & je t'en fais un autre.
+ 
+Faut-il que je te fasse un present si fatal ?
+
+Tu meurs donc, Orcazie, & je te vois mourir ?
+
+      De son amour témoignage visible !
+Ne veux-je pas mourir ? rien ne peut m'arrester,
+Il me reste la vie, il me la faut oster.
+Toy poignard tout fumant du beau sang de ma femme,
+En vain dedans mon corps vas-tu chercher mon ame :
+Puisqu'Orcazie est morte, il n'est plus animé,
+Et mon ame vivoit dedans l'objet aymé.
+
+Viens-tu considerer une si triste image ?
+Voila les premiers traits⁎ que je vien te tracer :
+Et si jusqu'à ton cœur mon bras pouvoit passer,
+Il iroit t'en donner la seconde peinture.
+En voila la troisiéme.
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_roxalie
+
+Ny son cœur⁎ ny le mien ne s'est point démenty,
+Et malgré nos amours, nous prenons leurs quereles⁎.
+
+Helas ! il n'est plus temps d'en arrester le cours,
+Et cette passion⁎ que le Ciel m'a donnée,
+Procede moins de moy, que de la destinée.
+Ce sont des coups du sort⁎ qu'on ne peut divertir,
+Quoy que l'ame y repugne, elle y doit consentir :
+Tu sçais que Tamerlan nous assiegea dans Pruze,
+Et que l'ayant conquise, & par force & par ruse,
+Le sort⁎ nous reduisit au pouvoir d'un vainqueur ;
+Ce fut là que Themir s'assujettit mon cœur,
+Qu'il treuva dans mes yeux quelques mal-heureux charmes⁎,
+Que d'une main tremblante il essuya mes larmes,
+Et qu'il me protesta qu'il sentoit mes douleurs :
+Je levay dessus luy des yeux chargez de pleurs ;
+Et j'allois luy lancer un regard de colere,
+Quand il me demanda le pardon de son pere,
+Je regarday long-temps le Prince à mes genoux,
+Je pris en sa faveur un sentiment plus doux :
+Nous nous vismes tous deux avecque complaisance,
+Nostre amour aussi-tost en tira sa naissance :
+Nous sentismes en nous des secrets mouvemens,
+Dés le premier aspect nous devinsmes amans⁎ ;
+Dés ce charmant abord nos ames se connurent.
+Toutes nos qualitez en ce moment parurent ;
+Et nous envisageant d'un regard estonné⁎,
+Chacun sentit en soy ce qu'il avoit donné,
+Nos yeux incessamment se renvoyoient nos flammes⁎,
+Par nostre propre effort l'amour gaignoit nos ames ;
+Dans un si doux combat nous trahissions nos cœurs,
+Nous estions tour à tour, & vaincus & vainqueurs.
+Et nos yeux à l'envy contestant la victoire,
+Sembloient se reprocher, ou leur honte ou leur gloire.
+En me voyant rougir il m'en ceda l'honneur,
+Son ame eut repugnance à croire ce bon-heur ;
+Et refusant, ce semble, un si juste partage,
+Il me glorifia de tout cét advantage⁎,
+Quand mes yeux par des traits⁎ échappez par hazard,
+Allerent dire aux siens qu'ils en avoient leur part.
+ 
+Mais Prince dont les soins⁎ ont adoucy nos peines.
+Mon cœur par ses respects comme presque forcé,
+Acheve ce que l'œil a si bien commencé,
+Et se sentant saisi d'une si douce flammes,
+S'arrache tout le fiel qu'il jettoit dans mon ame.
+Que nos peres instruits de ce funeste⁎ amour,
+Projettent aussi-tost de nous ravir⁎ le jour⁎,
+Nous irons au devant de ces grands parricides⁎,
+Recevoir en amans les tiltres de perfides ;
+Accepter un trêpas qu'ils auront ordonné,
+Et leur rendre le jour⁎ qu'ils nous auront donné.
+Qu'ils ne nous blasment point de des-obeyssance,
+Nous sçaurons maintenir les droicts de la naissance⁎,
+Et donnant à deux loix nos ames tour à tour,
+Nous sçaurons contenter, & le sang⁎ & l'amour,
+Au moins ils souffriront que la mort nous assemble.
+
+      Sors, & nous laisse ensemble.
+
+Inutile conseil ! il n'est plus à mon choix.
+
+Serez-vous du combat ?
+
+Sur qui porterez-vous la pointe de vos armes ?
+
+Ennemis eternels !
+
+Ils veulent mettre en nous une part de leurs ames,
+Il leur faut ressembler, Seigneur, hayssons-nous,
+Portez, portez sur moy le premier de vos coups ;
+Et de ce mesme bras, de cette mesme épée,
+Dedans le mesme temps que vous m'aurez frappée ;
+Courez vers Bajazet pour luy percer le flanc ;
+Et tarissez en luy la source de mon sang⁎ :
+Non, non, quoy que ma voix vous porte à ce carnage,
+Mon œil qui la dément, tient un autre langage ;
+Desja vous vous pressiez de m'aller obeyr,
+Sur ce commandement m'auriez-vous pû trahir ?
+Enfin declarez-vous, combattrés-vous mon pere ?
+
+Vous ne le pouvés pas.
+
+      Il faut choisir,
+Et se refuser mesme un moment de loisir,
+Ma mere à nos amours cesse d'estre indulgente,
+Il n'est pas apparent que mon pere y consente ;
+Je n'ay point balancé l'amour & le devoir,
+Et tous deux sur mon ame ont different pouvoir ;
+De tant de passions dont l'ardeur nous emporte,
+Sans que nous en doutions, l'amour est la plus forte ;
+Et vous m'osez monstrer que c'est la moindre en vous,
+
+      La gloire est aussi chere,
+Ainsi que l'un des deux il la faut conserver.
+
+Ah ! c'est trop consulter ; m'aymez-vous ?
+
+Et m'obeyrez-vous ? Répondez-moy.
+
+J'exige de vostre ame un rigoureux service,
+
+      Bajazet nous voit chez son vainqueur,
+Et nous luy retenons une part de son cœur⁎ :
+Vostre pere combat avec trop d'advantage,
+Allez donc vers le mail⁎ luy rendre le courage ;
+Et là luy demandant l'adveu⁎ de vos amours,
+Pour le mieux obtenir, offrez-luy du secours,
+Servez-le de vos vœux⁎ & de vostre personne.
+
+      Vous en pallissez.
+
+Vous avez deu fremir de ce commandement,
+Et vous devriez rougir de vostre estonnement.
+ 
+      Et vous Prince timide⁎ !
+
+      Je ne veux point la mort.
+De vostre passion⁎ j'exige un moindre effort ;
+Mais puis qu'à ce combat vous avés repugnance,
+Je veux vous dispenser de vostre obeyssance.
+Infidele Themir, que rien ne peut toucher !
+Je me trouve en estat de vous tout reprocher ;
+En cecy ma vertu⁎ se pourra satisfaire,
+Vostre reconnoissance aura dequoy luy plaire :
+Et dedans les remords qu'elle me fait sentir,
+Elle voit avecque joye un juste repentir.
+Pourquoy luy donnez-vous ce mortel advantage ?
+Traités-vous mon amour avecque cét outrage ?
+Qu'il faille que mon cœur envers vous animé,
+Sente quelque regret de vous avoir aymé.
+Adieu.
+
+Themir est prisonnier, j'offre de vous le rendre.
+
+Voulez-vous en cecy vous confier à moy ?
+Respondez, voulez-vous vous remettre à ma foy ?
+Je rentreray bien-tost dedans mon esclavage,
+Vous avez ma parole, & ma mere en ostage :
+Seigneur, je suis Princesse, & sçay tenir mon rang,
+L'on ne reproche rien à celles de mon sang⁎ :
+Je vous blasme desja de trop de deffiance,
+Et d'un plus long delay vostre vertu⁎ s'offence :
+M'osez-vous soupçonner de quelque lascheté ?
+
+En vain l'on me resiste, & l'on m'en dissuade ;
+Je m'en vay moyenner⁎ le retour de Themir :
+J'agis absolument proche du grand Vizir,
+Il prend dessus son Maistre une entiere creance,
+Et dessus luy j'exerce une égale puissance ;
+Il m'aymoit autresfois, & dés ce mesme jour
+Que mon pere empescha le cours de son amour,
+Il me conserve encore quelque reste de flame⁎,
+Et cette longue amour n'a point quitté son ame :
+Jugez de mon credit, puis qu'il a tout pouvoir.
+
+      Je ne le veux point voir ;
+C'est pour cette raison qu'on me voit déguisée,
+Je rends par ce moyen mon entreprise⁎ aisée ;
+Pour peu que la Fortune⁎ assiste⁎ à mes desseins,
+Bien-tost ce prisonnier se verra dans vos mains.
+
+Je vous le veux donner, & non pas vous le vendre ;
+Je satisfaits au soin⁎ que l'on nous a rendu,
+Et monstre qu'un bien fait ne peut estre perdu :
+Si j'excede vos dons par ma recognoissance,
+J'ayme mieux qu'envers nous vous manquiez de puissance ;
+Le plaisir de bien faire a de si grands appas,
+Qu'il est presque d'un Dieu de faire des ingras.
+
+Je vous laisse à vous mesme à juger de son prix ;
+Je ne vous prescris rien, vous estes raisonnable ;
+Et si par vostre adveu vous m'estes redevable,
+Vous avez dans vos mains dequoy vous acquitter.
+
+Voyez de là, Themir, à quel poinct je vous ayme.
+Adieu, Madame :
+
+Vous l'avez presagé, le succez m'a deceuë⁎ :
+Selim est un perfide, & ce lasche Vizir,
+Loin de porter son Maistre à delivrer Themir,
+L'en a dissuadé.
+
+A peine fus-je au camp, que j'allay le trouver,
+Il crût qu'en cét habit je m'estois pû sauver ;
+Je le desabusay d'une fauce creance,
+Et de tous mes desseins luy donnay cognoissance :
+Il me jura cent fois qu'il se sentoit ravir
+Par l'excez de l'honneur qu'il treuve à me servir.
+Pendant qu'il me flattoit, je vis entrer mon père ;
+A ce premier abord j'essuyay sa cholere,
+Tout ce qu'un grand transport nous peut faire sentir ;
+Il me traitta cent fois d'Amante⁎ de Themir :
+Et mesme il ne pouvoit dans son impatience,
+Ny souffrir mon discours, ny souffrir mon silence.
+Pendant ces mouvemens, Themir s'offrit à nous ;
+A ce nouvel objet il accrût son courrous,
+Et selon ses souhaits nous rencontrant ensemble :
+Je rends grace, dit-il, au sort⁎ qui vous assemble ;
+La mort, adjousta-t'il, … Il ne pût achever :
+Un combat dans son cœur commence à s'élever,
+Et ce cœur endurcy qu'attendrissent nos larmes,
+Cherche quelque pretexte à nous rendre les armes.
+Son œil presque changé nous dit, deffendez-vous ;
+Themir prenant son temps se jette à ses genoux :
+Bajazet, luy dit-il, j'adore Roxalie,
+C'est indifferemment que nostre amour s'allie ;
+Il a pû s'écouler dans nos ressentimens,
+Et d'ennemis mortels il nous a fait Amans⁎ :
+Je remets mesme à vous le soin de nous deffendre,
+Vous qui n'ignorez pas ce qu'il ose entreprendre ;
+Elle & moy choisissions un dessein hazardeux⁎,
+Et cherchions à perir pour nous sauver tous deux :
+Vous pourray-je adjouster, sans que je vous estonne
+Que ma prise est un bien que mon amour vous donne ?
+Je crûs que cét amour me mettant en danger,
+Que bien-tost l'amitié⁎ m'en viendroit dégager,
+Qu'elle m'échangeroit contre vostre famille,
+Et qu'elle vous rendroit Orcazie & sa fille :
+Je viens de l'éprouver une seconde fois ;
+Un pere est insensible, & n'entend plus ma voix ;
+Je n'ay peu reussir dedans mon stratageme,
+Et loin de les sauver, me suis perdu moy-mesme.
+
+Bajazet admira cette haute franchise,
+Et se laissant aller à son vray naturel,
+Son cœur se destacha d'un sentiment cruel ;
+Il quitta des rigueurs qui n'estoient qu'estrangères,
+Et reprit des douceurs naturelles aux peres ;
+Je le vy sur le poinct de renvoyer Themir,
+Quand à ses volontez s'opposa son Vizir.
+
+En effet Bajazet ne le voit qu'à demy,
+Il a dedans Selim son plus grand ennemy :
+Je laissay donc Themir dans le camp de mon pere.
+Tiens ta foy, me dit-il, & retourne à ta mere :
+Il me vint embrasser, & les larmes aux yeux,
+Il sembla se resoudre à d'éternels adieux :
+A peine son grand cœur⁎ eust fait cesser ses larmes,
+Qu'il commande à ses Chefs d'aller prendre les armes :
+Alors parmy les rangs un cry s'est élevé.
+
+      Il est presque achevé ;
+Par curiosité j'ay veu cette montagne
+Qui voit l'humilité d'une vaste campagne,
+Et dont le haut sommet semblant braver les Cieux,
+Ne panche qu'à regret devers de si bas lieux :
+L'on descouvre de là toute la Galatie,
+Ses plaines dans leur sein semblent porter l'Asie,
+Et ses champs sont couverts de tant de pavillons,
+Que la terre y fremit dessous les bataillons ;
+J'ay veu de chaque part une armée innombrable,
+Que la confusion me rendoit effroyable :
+Icy tout l'Orient s'estoit presque épuisé,
+Et pour estre trop fort, il s'estoit divisé ;
+J'ay veu s'entre-choquer ces deux grosses tempestes,
+Et marcher ces grands corps armez de leurs deux testes :
+La fleche a commencé le combat dedans l'air,
+Une épaisse forest me sembloit y voler ;
+A peine l'air immense a contenu leur nombre,
+Et l'éclat du Soleil n'a pû percer cette ombre :
+De là le cimeterre⁎ allant de rang en rang,
+Noyoit toute la plaine en un fleuve de sang ;
+Ils craignent que le jour leur manque de lumiere,
+Et que las de les voir il borne sa carriere,
+Cette peur est si grande entre ces combattans,
+Que d'apprehension qu'ils n'ayent besoin de temps,
+Loin de les ménager ils prodiguent⁎ leurs vies,
+Et pensent que trop tard elles leur sont ravies⁎ ;
+Leur obstination m'a donné de l'effroy,
+J'ay quitté la montagne, & mon ame hors de soy,
+Toute pleine d'horreur encor toute tremblante,
+J'ay repris le chemin qui mene à cette tente.
+Mais d'où vient ce grand bruit ? Dieu, des hommes armez !
+
+      Que veut le sort⁎ de nous ?
+Prince, faut-il mourir ?
+
+Seigneur nous vous suivons.
+ 
+Que je sois exposée à vos ressentimens,
+Eclatez dessus moy vos premiers mouvemens.
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orcazie
+
+Je veux bien advoüer que l'on me traitte en Reyne :
+Mais malgré ce bon-heur, ma chaisne est tousjours chaisne.
+Mes fers⁎, quoy que dorez, ne sont pas moins pesans,
+Et mes maux adoucis n'en sont pas moins cuisans :
+Hors des yeux d'un époux je n'ay point d'allegresse,
+Et ma joye en ce camp degenere en tristesse ;
+J'ignore en ma prison le sort de mon époux.
+
+      C'est Bajazet luy-mesme,
+C'est Selim, qu'est cecy ?
+
+Que notre estonnement le cede à nos caresses !
+
+Seigneur, il faut joüir du plaisir de nous voir,
+Et puis qu'il nous arrive, il le faut recevoir.
+
+Quelle est donc vostre crainte, est-ce d'estre cognu ?
+
+Vous m'informez assez de vostre jalousie,
+Et du cruel soupçon dont vostre ame est saisie.
+
+Cruel ! quel entretien me venez-vous donner ?
+Sa vertu⁎ me demande une recognoissance.
+
+      Et je dois l'estimer.
+
+A quelqu'autre pretexte imputez-en la cause.
+
+Je ne le cognois pas.
+
+Il a des qualitez dignes de mon estime,
+Je ne puis le haïr sans espece de crime⁎,
+Et deussent vos soupçons s'accroistre de moitié,
+Je cheris sa vertu⁎.
+
+Je ne puis luy ravir ce juste témoignage,
+Ny moins priver son fils des honneurs qu'on luy doit,
+Ni le loüer assez des biens qu'on en reçoit ;
+Par un rare bon-heur il ayme vostre fille.
+
+Moy, Seigneur, & comment ?
+
+Faites de vostre femme un meilleur jugement.
+
+Seigneur, recognoissez sa generosité⁎.
+
+Et vous, Prince abusé, qui doutez de ma foy,
+Ma mort vous fera voir si je vous suis fidele.
+
+Le plaisir est bien faux, un vaincu n'est heureux
+Qu'au moment qu'il rencontre un vainqueur genereux⁎,
+Que quand il doit servir, il rencontre un doux Maistre,
+Et tel qu'est Bajazet.
+
+Rien ne nous peut charmer⁎ hors de la liberté.
+
+Que luy proposez-vous ? vostre offre a peu d'apas,
+Vous luy voulez donner ce que vous n'avez pas ;
+
+Attendez le combat.
+
+Bajazet, Bajazet ! Seigneur échangez-nous ;
+Rendez le fils au pere, & la femme à l'époux ;
+La rançon de Themir est le prix de la nostre.
+
+O Ciel ! qu'entend-je icy ?
+
+Quoy vostre amour !
+
+Honneur ! t'avois-je crû dans le cœur d'un barbare ?
+Je vous crûs genereux⁎ :
+
+A peine je reviens de mon estonnement !
+Prince indigne d'honneur, rendez-moy mon estime ;
+Si j'ayme la vertu⁎, je deteste le crime⁎ :
+Pendant que j'éprouvois vos generositez⁎,
+J'admirois mal-gré moy vos belles qualitez ;
+Et me plaignant au sort⁎ du malheur de nos armes,
+Quand le ressouvenir me faisoit fondre en larmes,
+Qu'il venoit arracher des soûpirs de mon cœur,
+Je pleurois la victoire, & loüois le vainqueur :
+Aujourd'huy que vos soins⁎ partent d'une autre cause,
+Et qu'un indigne effet est ce qu'on se propose ;
+Je ne veux rien devoir à l'honneur qu'on m'a fait,
+Et blâme également sa cause & son effet.
+O Ciel ! en quel estat trouve-je Roxalie ?
+Ah ma fille ! est-ce ainsi qu'une fille s'oublie ?
+
+Ah ! ton pere irrité d'une telle Ambassade⁎ :
+
+      Adieu, tu te vas hazarder⁎ :
+Que n'ay-je le moyen de t'aller seconder !
+
+Tamerlan, levez-vous.
+
+Accordez-luy ce bien :
+
+      M'offrirez-vous sa teste ?
+Pensez-vous par ce prix vous acquerir mon cœur ?
+Adieu cruel : 930
+
+A bien plus d'accidens je me vois reservée :
+En vain de ma prison l'on m'eust fait échapper,
+La Fortune⁎ a trop d'yeux, on ne la peut tromper,
+Elle m'auroit suivie aux deux bouts de la terre.
+
+      Où vont-ils incliner ?
+Et ces deux grands Demons qui se choquent ensemble,
+Que le malheur de l'un, ou bien de l'autre assemble ;
+Où doivent-ils porter l'effet de leurs accors ?
+
+Le sort de Tamerlan reçoit tout l'advantage,
+Celuy de Bajazet a le moindre suffrage ;
+Dans le dernier conseil qu'ils tiennent aujourd'huy,
+Ce Prince abandonné n'a plus de voix pour luy.
+
+Helas !
+
+De ma captivité.
+
+Je ne vous puis celer ce que vous cognoissez,
+Je n'en diray pas plus :
+
+Vueille empescher le Ciel ce favorable office,
+Et m'épargne le soin⁎ de vous rendre service !
+Nous sçaurons nostre sort devant la fin du jour.
+Mais qu'est-ce que je voy ? ma fille de retour !
+
+Et bien ton ambassade⁎ eut-elle bonne issuë ?
+
+      Trahison trop insigne !
+Ce fut un noble employ, dont il estoit indigne.
+
+Effet prodigieux de generosité⁎ !
+
+      Merveilleuse entreprise⁎ !
+
+Que je voy de desseins dans l'ame de ce traistre,
+Et qu'un tel General est fatal à son Maistre !
+
+Quoy ! le combat se donne ?
+
+      Infortuné presage !
+Bajazet est vaincu.
+
+Ah ! Seigneur, que sur moy tombe vostre cholere.
+
+      Le vostre.
+
       Que de sang a respandu l'amour !
 Et combien d'accidens⁎ se suivent dans un jour ?
 A peine Tamerlan eust gaigné la victoire,
@@ -2551,11 +1898,6 @@ Je veux que ce poignard seconde ma douleur :
 Il s'en porta le coup avec tant de vistesse,
 Qu'on ne peût l'empescher.
 
--*who_bajazet
-      Trop fatale Princesse,
-Trop genereux⁎ Themir, que vous causez de sang !
-
--*who_orcazie
 Un mortel déplaisir alla de rang en rang ;
 Tamerlan demeura dans un profond silence,
 Et pendant quelque temps medita sa vengeance ;
@@ -2570,69 +1912,147 @@ Au bras d'un furieux dérobez vostre teste,
 Recevez ce present que la Reyne m'a fait :
 Acceptez ce poison :
 
--*who_bajazet
-      Mon choix est desja fait.
-
--*who_orcazie
 Quoy ! vous pouvez mourir ?
 
--*who_bajazet
-      Je vay cesser de vivre ;
-Je te vais preceder, mais il faudra me suivre ;
-Je t'enseigne un chemin qu'a tracé la vertu⁎,
-Et que mille affligez avant nous ont battu :
-Sortons de ces malheurs par cette belle voye.
-
--*who_orcazie
 J'entre dans ce sentier avec beaucoup de joye.
 
--*who_bajazet
-Servons-nous du poignard, dédaignons le poison,
-Une clef si sanglante ouvre mieux ma prison ;
-Tu m'as fait un present, & je t'en fais un autre.
-
--*who_orcazie
 Je veux, mon Bajazet, je veux user du vostre.
 
--*who_bajazet 
-Faut-il que je te fasse un present si fatal ?
-
--*who_orcazie
 C'est trop vivre. Voyez si ce coup m'a fait mal ?
 Je vous témoigne assez si mon amour est vraye,
 Et vous semble montrer tout mon cœur par ma playe.
 
--*who_bajazet
-Tu meurs donc, Orcazie, & je te vois mourir ?
-
--*who_orcazie
 Le coup que j'ay receu, ne m'a point fait souffrir,
 Celuy qui vous tuëra me sera plus sensible.
 Je meurs !
 
--*who_bajazet
-      De son amour témoignage visible !
-Ne veux-je pas mourir ? rien ne peut m'arrester,
-Il me reste la vie, il me la faut oster.
-Toy poignard tout fumant du beau sang de ma femme,
-En vain dedans mon corps vas-tu chercher mon ame :
-Puisqu'Orcazie est morte, il n'est plus animé,
-Et mon ame vivoit dedans l'objet aymé.
 
-**** *book_ *id_scene6-V *act_acteV *date_1648 *creator_magnon 
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorize
 
--*who_tamerlan
-Tu n'es pas encor mort, tardes-tu davantage ?
+Au poinct que Bajazet & Tamerlan armez,
+Vont monstrer la fureur dont ils sont animez,
+Au lieu de soustenir la haine de vos peres,
+Vous negligez tous deux de servir leurs coleres,
+Vous vous formez, ce semble, un troisiesme party,
 
--*who_bajazet
-Viens-tu considerer une si triste image ?
-Voila les premiers traits⁎ que je vien te tracer :
-Et si jusqu'à ton cœur mon bras pouvoit passer,
-Il iroit t'en donner la seconde peinture.
-En voila la troisiéme.
+Themir, & vous, Madame, estes tous deux rebeles,
+Avez-vous bien preveu la fin de ces amours ?
 
--*who_tamerlan
-      O sanglante advanture !
-O Themir trop vangé ! Qu'on les oste d'icy :
-Qu'on les porte au cercueil, & qu'on m'y meine aussi.
-FIN.
+Il est fils d'un vainqueur qui vous tient dans ses chaines.
+
+Je vois venir Themir.
+ 
+Vous luy devriez parler pour la derniere fois,
+
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+
+Quoy ! Seigneur, cét habit oste-il le courage ?
+
+Vous estes incognu parmy vos ennemis.
+
+Manque-t'elle de Chefs ? elle a trois Generaux,
+Vos fils en vostre absence occupent vostre place.
+ 
+Quoy, le grand Bajazet, le vainqueur de la terre,
+Et qu'on a surnommé le foudre de la guerre,
+Se dément-il si tost d'un si superbe⁎ nom ?
+
+Quoy ! redouteriez-vous de perdre vos conquestes ?
+
+Il vous la pourra rendre :
+
+      Ostez-vous cét ombrage.
+
+      Et par là, que redouteriez-vous ?
+
+C'est une ame de sang, qui n'ayme que les armes.
+
+Il doit venir bien tost.
+ 
+Zilim de nostre part ; il vient nous aborder.
+
+      Excusez son ardeur.
+
+Et bien tost mon trépas vous prouvera mon zele⁎.
+
+      Je t'accepte pour Maistre,
+Et je me viens soustraire à l'Empire d'un traistre ;
+Je me lasse d'un joug que j'ay long-temps porté.
+
+      C'est peu que ma personne,
+Juge en ce grand present de ce que je te donne ;
+Je livre entre tes mains Bajazet enchaisné,
+Et je viens d'ordonner qu'il te fust ammeiné.
+
+Advouë ingenuëment que j'empeschay ta fuite,
+Il falloit ou mourir, ou vaincre dans ces lieux.
+
+Oüy je l'ay meritée, & l'ose demander.
+
+Je demande sa fille :
+
+Vous verrez des effets de ma recognoissance.
+
+Je me perds, Bajazet, après t'avoir rendu.
+
+      Veux-tu qu'on te le die ?
+Tu fuyois dans la Thrace avec mille chevaux,
+Au lieu de les finir, tu prolongeois tes maux ;
+Et le desir de vivre est si grand en ton ame,
+Que tu laissois tes Chefs, tes enfans, & ta femme ;
+M'estoit-il glorieux de t'avoir pour Seigneur,
+Et me falloit-il vivre avec ce deshonneur ?
+Ce n'est pas encor là le motif de mon crime⁎,
+De plus fortes raisons le rendent legitime ;
+Ne te souvient-il plus des crimes que j'ay faits,
+Et que tu prends ta part dedans tous mes forfaits ?
+Que dis-je, ils sont les tiens, je ne suis que complice,
+Mes attentats⁎ chez toy s'imputent à service :
+S'il est vray, Prince ingrat, que je te l'ay rendu,
+Le juste souvenir s'en est bien-tost perdu.
+J'estois desja Vizir du vivant de ton pere,
+Tu sçais qu'à son trépas il me commit⁎ ton frere ;
+A ton ambition j'immolay cét aisné,
+Du bras qui le tua, tu te vis couronné :
+Je fis dans le Divan ta ligue la plus forte,
+Mon credit te gaigna tous les Grands de la Porte ;
+Et tout fumant encor du sang que je versay,
+Tu montas sur un rang dont je le renversay.
+Lors tu me commandas d'entrer dans ta famille,
+Tu me fis esperer l'heur d'épouser ta fille ;
+Et sans aucun sujet, & contre ton serment,
+Ton ame à mon endroit changea de sentiment :
+Peut-estre que ton cœur garde cette maxime,
+Qu'à celuy qu'on immole il faut une victime,
+Qu'il faut que son meurtrier luy soit sacrifié ;
+Malgré tes faux-semblans je m'en suis defié,
+Que s'il faut à ton frere un sanglant sacrifice,
+Fais que tes propres mains luy rendent cét office ;
+Et loin que par ma mort ton crime soit caché,
+Aux yeux d'un monde entier expose ton peché ;
+Va laver dans ton sang mon offence & la tienne,
+Tu cherchois ta vengeance, & je cherchois la mienne.
+Nous la trouvons tous deux, je te perds, tu me perds,
+Tous deux sans y penser nous nous voyons aux fers⁎ :
+Il faut que sur ton sort chaque Prince contemple,
+Et qu'il daigne s'apprendre en voyant cét exemple,
+Qu'aux subjets qu'il irrite il ne doit rien fier.
+
+Ne t'imagine point que je cherche un refuge,
+Prononce mon arrest, je n'y recule pas :
+Et pour te faire voir que j'attends mon trépas,
+Sçache que par mes mains ta Roxalie est morte,
+Je l'ay tuée. Et quoy, ta tristesse t'emporte !
+Tu pâlis ! je sçay bien que ce coup t'est fatal :
+Quoy ! je l'aurois laissée aux mains de mon rival ?
+D'un mortel deshonneur j'ay sauvé ta famille,
+Des mains d'un ennemy j'ay dégagé ta fille ;
+Tu m'en es redevable, & tu vas m'en punir :
+
+      Je vay mourir, bien-tost tu me vas suivre,
+Tu n'auras pas long-temps l'honneur de me survivre.
+
+      Oüy, tout tyran qu'il est,
+J'ayme mieux par luy-mesme apprendre ma sentence.
+

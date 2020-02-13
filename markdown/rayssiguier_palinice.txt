@@ -1,6 +1,6 @@
 ---
 identifier: rayssiguier_palinice  
-creator: Rayssiguier, De  
+creator: Rayssiguier, De ; Georges Forestier.  
 date: 1634  
 title: Palinice, Circeine et Florice. Tragi-comédie pastorale tirée de l'Astrée  
 ---

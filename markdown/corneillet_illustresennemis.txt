@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_illustresennemis  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1657  
 title: Les Illustres ennemis. Comédie  
 ---

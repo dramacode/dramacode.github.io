@@ -1,53 +1,11 @@
 
 
-**** *book_ *id_body-1 *date_1642 *creator_la_calprenede
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_helene
 
-EXTRAICT DU PRIVILEGE DU ROY.
-
-Par grace et Privilege du Roy, en datte du 3. jour de May 1641. signé par le Roy, en son Conseil le Brun.
-Il est permis à ANTOINE DE SOMMAVILLE Marchand Libraire à Paris, d'Imprimer ou faire imprimer une piece de Theatre intitulée PHALANTE TRAGEDIE, et ce durant le temps de cinq ans.
-Et deffence sont faictes à tous autres de quelque qualité et condition qu'ils soient d'en vendre d'autres que celle qu'aura faict imprimer ledit de Sommaville, sur les peines portées pas lesdites lettres.
-
-Achevé d'imprimer le 12.
-Novembre, 1641.
-
-**** *book_ *id_I01 *act_I *date_1642 *creator_la_calprenede
-
--*who_philoxene
-Ces regards enflammés que lancent vos beaus yeus,
-Ne sont que des esclairs pour cet audacieus,
-Et sa presomption a merité la foudre⁎,
-Dont ils s'arment desja pour le reduire en poudre.
-Ouy, Madame, il est juste, et vostre Majesté
-Me doit enfin punir de ma temerité ;
-J'abuse insolemment des bontés de ma Reine,
-Du respect qu'un vassal doit à sa Souveraine,
-Et dans⁎ ma passion⁎ je ne recognoy pas,
-Et combien elle est haute, et combien je suis bas.
-Mon audace a rendu ma faute irrémissible,
-Ma flamme⁎ est criminelle en tant qu'elle est visible,
-Aussi n'ay-je peché qu'en vous la descouvrant,
-Et je devois mourir, et me taire en mourant :
-Mais quelque passion⁎ qui rompe mon silence,
-Ne m'en accusez point, on me fait violence,
-Et ce Tyran des Dieux, d'un insolent pouvoir ;
-Dans⁎ mon aveuglement estouffe mon devoir,
-Ma passion⁎ l'emporte avec trop d'avantage,
-Et ceux à qui vos yeux laissent encor l'usage,
-Et de la cognoissance et du raisonnement⁎,
-Quelques prudens qu'ils soient, manquent de jugement,
-Si l'on brûloit pour vous d'une flamme⁎ commune ;
-
--*who_helene
 Philoxene il suffit, ce discours m'importune,
 Lassés-vous à la fin de me persecuter,
 Comme ma patience est lasse d'escouter.
 
--*who_philoxene
-Si pour vous adorer j'ay pû commettre un crime,
-J'ay failly,
-
--*who_helene
       Ce n'est pas que je ne vous estime
 Philoxene je sçay ce que vous meritez
 Et pour vostre naissance et pour vos qualitez,
@@ -56,75 +14,16 @@ Vostre amour me desplaist plus que vostre personne,
 Et je vous rediray puisque vous m'y forcés,
 Que vous devés guerir si vous vous cognoissés.
 
--*who_philoxene
-Je me cognois Madame, et ceste amour extréme,
-Qui m'a presque en naissant detaché de moy mesme,
-Ne m'aveugle pas tant, que pour comble d'ennuys⁎
-Je ne puisse juger qui j'ayme et qui je suis,
-Si de vous adorer la gloire⁎ est interdite,
-A ceux que la grandeur, le sang et le merite,
-Ne rendent point egaux à vostre Majesté,
-Qui se pourra vanter de l'avoir merité ?
-Mais si par les ardeurs d'une flame⁎ eternelle
-Par un profond respect, par un feu⁎ plein de zele,
-Par des preuves d'amour, de constance et de foy,
-On le peut espérer, qui le doit mieux que moy ?
-Tousjours vos volontés ont fait mes destinées⁎,
-Je vous ay dedié mes premieres années.
-Naissant je vous servis, et les Dieux sont tesmoins
-Que le Sceptre à vos loix m'assujetit le moins,
-Que mon cœur asservy du plus bas de mon âge,
-Sans contrainte à vos pieds rendit un double hommage,
-Et ne mesla jamais dans⁎ ses sainctes ardeurs,
-A l'interest d'amour l'interest des grandeurs :
-Je fus deux fois subjet, vous deux fois Souveraine,
-Et vivant avec gloire⁎, esclave de ma Reyne,
-J'eus dés vos jeunes ans, eslevé pres de vous,
-Et des bon-heurs plus grands, et des momens plus dous.
-Vous excusiez pour lors ma passion⁎ naissante,
-Qui vous entretenoit d'un amour innocente,
-Vostre esprit jeune encor differoit mon trespas,
-Et me pleignoit d'un mal qu'il ne cognoissoit pas.
-Mais helas ! que le Ciel a mis de difference
-A la suitte d'un bien si grand dans sa naissance !
-Mon cœur ne changea point, mais le vostre changea,
-Si-tost que sous vos loix Corinthe se rangea :
-Quand vostre dignité s'accrut avec vostre aage,
-Et que la majesté qui brille en ce visage,
-Receut d'une couronne un esclat tout nouveau,
-Toute mon esperance entra dans le tombeau,
-Vous ne cogneustes plus le pauvre Philoxene,
-Son amour seulement fit naistre votre haine,
-Et ce ressentiment⁎ qui vous peut animer
-Ne vous le fait haïr que pour vous trop aymer.
-
--*who_helene
 Si je vous haïssois autant que vous le dites,
 Je me garantirois de toutes vos visites.
 Et ne preferant point vostre repos au mien,
 Je me delivrerois d'un facheux entretien,
 Suffit que je vous soufre et que trop indulgente,
 
-**** *book_ *id_I02 *act_I *date_1642 *creator_la_calprenede
-
--*who_cleone
-Madame, quelqu'un vient.
-
--*who_huissier
-      C'est le Prince Phalante.
-
--*who_helene
 Qu'il entre ; le cruel revient pour m'affliger,
 Mais non pas pour me plaindre ou pour me soulager,
 Ah ! l'ingrat, le voicy, cache un peu ta foiblesse.
 
--*who_philoxene
-Qu'il arrive à propos, cher amy je vous laisse,
-Ma vie est en vos mains et j'attens tout de vous.
-
-**** *book_ *id_I03 *act_I *date_1642 *creator_la_calprenede 
-
--*who_helene
 Depuis que vos malheurs sont des bon-heurs pour nous,
 Et que nous benissons le succés de ces guerres,
 Qui pour nous visiter vous font quitter vos terres,
@@ -135,63 +34,11 @@ Ma Cour⁎ est un exil pour un si brave Prince.
 Mais pourtant un exil qui peut estre adoucy,
 Par l'absolu pouvoir que vous avez icy.
 
--*who_phalante
-Madame, vos bontez sont pour moy sans limites
-Et m'ayant honoré⁎ par dessus mes merites,
-Vos faveurs m'ont fait tort, m'ayant mis en estat,
-Ou de mourir pour vous, ou de mourir ingrat,
-Que peut un mal-heureux que les Dieux et la guerre,
-Font errer fugitif de sa natale terre ?
-Et qui devoit perir si vostre Majesté
-N'eut soulagé sa perte avec tant de bonté ;
-Certes de tous les maux dont le ciel persecute
-Celuy que son courroux semble avoir pris en butte.
-La plus vive douleur qu'il pouvoit recevoir,
-C'est de vous devoir tant et de ne rien pouvoir :
-Vous avez relevé ma dignité panchante,
-Recueilly les debris de ma fortune⁎ errante,
-Et par mille faveurs et par mille bien-faits
-Vous m'avez mis plus haut que je ne fus jamais.
-Aussy de quelque aigreur dont la fortune⁎ averse
-Dans⁎ mes plus beaux desseins sans cesse me traverse⁎,
-Je la voudrois benir et tous mes ennemis,
-De l'estat glorieux où leur rage m'a mis.
-Si de tant de bon-heur dont vous estes la source,
-Un sensible regret ne traversoit⁎ la course,
-Un regret qui me tuë, et qui fera perir,
-Ce qu'en vain vos bontez ont daigné secourir ;
-Pardonnez un discours que la douleur arrache.
-
--*who_helene
 Ce n'est pas tout Phalante, il faut que je le sçache,
 Et si par mon credit il se peut soulager,
 Je ne refuse rien qui vous puisse obliger,
 Souffrez⁎ ma confidence, et recevez mon ayde.
 
--*who_phalante
-De vous seule depend le mal et le remede
-Et vostre charité du tombeau tirera
-Et l'amy qui se meurt, et l'amy qui moura.
-Ce n'est pas d'aujourd'huy que ma bouche importune⁎
-Regrette à vos genous sa mauvaise fortune⁎,
-Et qu'affligé d'un mal que je souffre à demy,
-Je demande à vos pieds le salut⁎ d'un amy.
-Certes si la pitié peut attendrir une ame,
-Et si quelque rayon de la plus belle flame⁎,
-Dont le cœur d'un amant⁎ fut jamais embrasé,
-Peut toucher de son mal celle qui l'a causé,
-Vous estes obligée à soulager la peine⁎
-Qu'on voit souffrir pour vous au pauvre Philoxene.
-Jamais cœur ne brusla dans⁎ un si grand respect,
-Et bien que l'amitié⁎ me peut rendre suspect,
-J'atteste des grands Dieux la puissance supréme
-Que jamais un mortel n'ayma comme il vous ayme :
-C'est de ceste pitié que naissent tous mes soins⁎,
-Et cet estroit lien dont nos esprits sont joints.
-Quelque bien, quelque mal, quelque honneur⁎ qu'on me face
-M'a rendu mal-heureux dans⁎ sa seule disgrace.
-
--*who_helene
 Belle et digne amitié⁎ d'un cœur si genereus,
 Que dans⁎ tous les malheurs Philoxene est heureus,
 D'avoir fait un amy dont la vertu trop haute,
@@ -208,41 +55,6 @@ Il vous croira sans doute, et par raisonnement⁎
 Il se retirera de son aveuglement :
 Employez-y vos soins⁎.
 
--*who_phalante
-      O ciel ! est-il possible
-Qu'à tant de passion⁎ vostre cœur insensible
-A cét Amant⁎ fidele ordonne le trespas,
-Puis que sans ce remede il ne guerira pas ?
-Ceux qui peuvent sentir les atteintes mortelles
-Dont vos yeux ont blessé les ames les plus belles,
-Quoy que fassent pour eux le temps et la raison⁎,
-Dans la mort seulement treuvent leur guerison :
-Certes si vous pouviez sans mépris ou sans haine
-Considerer les maux du pauvre Philoxene.
-Et voir le triste estat où vous l'avez reduit
-Depuis qu'il vous adore avec si peu de fruit,
-Vous verriez qu'un conseil d'une telle nature,
-Au lieu de l'adoucir aigriroit sa blessure.
-Helas combien de fois pasle et sans mouvement,
-Ses yeux devers le ciel eslevez lentement,
-Ses yeux à qui des pleurs la course continuë,
-Auroit presque ravy l'usage de la veuë,
-L'ay-je veu demander pour un dernier secours
-La fin de vos rigueurs dans⁎ la fin de ses jours ?
-Il est vray, ses douleurs faisoient naistre les miennes,
-Mes larmes, je l'avouë, accompagnoient les siennes,
-Mon ame par pitié blâmoit vostre rigueur,
-Et ses ardans souspirs me touchoient jusqu'au cœur,
-Ce fut cette pitié qui me fit temeraire,
-Et bien que le respect m'obligeât à me taire,
-Cette compassion me le fit violer,
-Et pour le secourir me força de parler,
-Mais Dieux ! que mes discours ont eu peu d'eficace,
-Mes importunitez⁎ augmentent sa disgrace,
-Et redoublent le mal qui l'accable aujourd'huy,
-Parce qu'un mal-heureux intercede pour luy.
-
--*who_helene
 Faut-il que ce discours si vivement me touche,
 Et que pour Philoxene il sorte de sa bouche :
 O Dieux ! qui l'escoutez, puis qu'il s'adresse à moy,
@@ -258,16 +70,6 @@ Tes yeux ont des attraits qui le pourront toucher,
 Force cette pudeur qui te fait violence.
 Ah ! pardon, ma vertu,
 
--*who_phalante 
-      La princesse balance,
-Sans doute mes discours auront fait quelque fruit.
-Ah ! cruauté du ciel où m'avez-vous reduit ?
-Faut-il que je poursuive avecque tant d'envie,
-Dans⁎ le bien d'un amy la perte de ma vie ?
-Que je donne vainqueur ma vie à l'amitié⁎,
-Ou que n'obtenant rien je meure de pitié ?
-
--*who_helene
 Ma vertu, ma pudeur, mon action vous blesse,
 Mais à ma passion⁎ pardonnez ma foiblesse,
 Ma flamme⁎ est innocente et n'a point de penser,
@@ -302,11 +104,6 @@ Sur mon front innocent, m'a desja reproché,
 Qu'il en falloit rougir ainsi que d'un peché :
 En fin Phalante, j'ayme, ô Dieu ! ce mot me tuë.
 
--*who_phalante
-Doncques pour mon amy l'esperance est perduë
-Quoy vous aymez Madame, et son zele et sa foy.
-
--*who_helene
 Croyez que son repos ne depend plus de moy,
 Et confessez aussi qu'en cette confidence,
 Philoxene tesmoigne une haute imprudence :
@@ -325,10 +122,6 @@ Ils ne parlent que trop à mon desadvantage :
 Ils sont assez changez par la honte qu'ils ont,
 Et paroissent confus de l'office⁎ qu'ils font.
 
--*who_phalante
-O Dieux ! que deviendray-je ? ah ! Madame.
-
--*who_helene
       De grace,
 Dequoy que mon destin⁎ me flatte ou me menace,
 Faites reflection encore un peu de temps,
@@ -338,9 +131,6 @@ Qu'apres ce grand effort mon ame se remette :
 Elle est toute troublée⁎ en cette extremité,
 Adieu pardonnez-moy cette incivilité⁎.
 
-**** *book_ *id_I04 *act_I *date_1642 *creator_la_calprenede 
-
--*who_helene
 Restes d'une pudeur laschement offensée,
 Dignité de mon Sceptre indignement blessée,
 Manes de mes parens, noble suite d'ayeux,
@@ -396,13 +186,6 @@ Allume un plus grand feu que celui d'Ilion.
 Si je devois brusler pourquoy dedans son ame
 N'allumiez-vous de mesme.
 
--*who_aminte
-      Esperez-le Madame,
-Bannissez cette crainte, et recognoissez mieux,
-Cet amour qui triomphe et brille dans vos yeux :
-Si l'on n'en doit juger que selon l'apparance,
-
--*who_helene
 Dans⁎ cette affection⁎ j'ay bien peu d'esperance :
 Et j'ay d'un mal prochain cent presages mauvais :
 Cent tristes visions, cent songes que j'ay faits,
@@ -411,60 +194,494 @@ Grands Dieux si dans⁎ ma peur je ne suis point deceuë⁎,
 Et si vous haïssez un feu⁎ qui me fait tort,
 Envoyez moy bien-tost le remede ou la mort.
 
-**** *book_ *id_II01 *act_II *date_1642 *creator_la_calprenede
+Ne vois-je pas Phalante ?
 
--*who_timandre
-Nous serions trop ingrats à tant de bons offices⁎,
-Dont vous avez desja prévenu⁎ nos services,
-Si nous ne vous pressions pour apprendre de vous
-La cause d'un chagrin qui nous afflige tous,
-Vous estes tout changé d'humeur et de visage,
-Et je cognois trop bien ce genereux courage,
-Qui s'est tousjours muny d'une haute vertu,
-Et que tant de revers ont en vain combatu,
-Pour craindre que des maux de si peu d'importance,
-En puissent esbranler l'invincible constance :
-Si des rebellions ont troublé⁎ vostre Estat,
-Si vous avez perdu vostre premier estat,
-Et s'il vous faut ceder au malheur d'une guerre,
-Qui vous fait esloigner de vostre ingrate terre :
-Pour le moins vostre sort⁎ me paroist assez doux
-Dans le port asseuré qu'il vous offre chez nous
-Icy tout vous adore et jamais autre prince,
-Ne fut plus reveré dans sa propre province,
-Vostre vertu d'abord a produit mille effets,
-Vous a gaigné des cœurs, vous a fait des subjets
-Vous a fait surmonter et l'enuie et la haine,
-Et vous a si bien mis dans l'esprit de la Reyne,
-Que pour cette bonté qui les oblige tous,
-Les Princes du pays n'ont plus recours qu'à vous ;
-Mesmes vos interest⁎ l'ont si fort animée,
-Qu'elle rompt l'alliance, et forme un corps d'armée :
-Vous donnant le secours qu'elle vous a promis,
-Pour vous aller servir contre vos ennemis.
-Phalante ces raisons me font assez cognoistre,
-Que ce nouveau chagrin que vos yeux font paroistre :
-Et la vive douleur qui vous change à ce poinct,
-Ont quelque autre subjet que nous ne sçavons point.
-Si l'amitié⁎ jurée, et quelque experience,
-Ont merité l'honneur⁎ de vostre confidence,
-Ne dissimulez-plus à des amis discrets,
-Vos soings⁎ plus importans, et vos maux plus secrets.
+Quoy tu trembles mon cœur ! quoy mon ame tu crains !
+Et sembles redouter la mortelle sentence :
+Mais le voicy l'ingrat, arme toy de constance.
+ 
+Ah ! Phalante, à vous seul elles sont adressées,
+Et si la solitude a pour moy rien de doux,
+Je l'ayme seulement pour mieux songer à vous.
+Depuis que pour vous seul mon esprit est malade,
+Je gouste des douceurs dans cette promenade,
+Qui me font oublier le soing⁎ de mes estats,
+Pour trouver du repos loing de tant d'embarras,
+C'est icy que je cherche à resver et me plaindre,
+Et ce n'est que pour vous, il n'est plus temps de feindre.
+J'ay tout franchy Phalante, et je vous ay fait voir,
+Malgré l'honneur⁎ du sexe, et malgré mon devoir,
+Forçant mon naturel, mon silence et ma crainte,
+De quelle passion⁎ mon ame estoit atteinte :
+Je n'en ay que trop dit, et quelque affection⁎
+Qui puisse authoriser une indigne action,
+Je devois conserver ce pouvoir sur mon ame,
+De souffrir sans parler, ou de mourir sans blâme :
+J'ay fait une bassesse indigne de mon rang,
+Qui blesse ma beauté, mon courage et mon sang,
+Et vous donne sans doute une injuste croyance,
+D'une facilité⁎ dont ma vertu s'offence.
+Mais si vous le pouvez apres l'impression
+Qu'aura fait sur vostre ame une telle action,
+Ne souffrez⁎ point de grace un penser qui m'outrage,
+Et ne soupçonnez rien à mon desavantage,
+Je vous ayme, et mon mal vous est assez connu :
+Mais à quelque degré qu'il soit déja venu,
+Quelque transport⁎ estrange⁎, et quelque violence,
+Qui contre mon devoir ayt rompu mon silence,
+La plus haute vertu ne se peut offencer,
+De mon plus criminel et plus lasche penser,
+Et je puis esperer sans reproche et sans blâme,
+Le remede du mal, et le repos de l'ame :
+Estant si bien instruit de mon intention,
+Que ne respondez-vous à mon affection⁎,
+Que ne m'apprenez-vous ce que j'en puis attendre,
+Vostre silence, ô Dieux ! me le fait trop comprendre,
+Vous en estes confus, vous rougissez pour moy,
+Et ce discours muët m'apprend ce que je doy.
 
--*who_philoxene
-Quelques vaines raisons que sa froideur m'oppose,
-Si Phalante pouvoit me cacher quelque chose,
-J'aurois subjet de plainte, et croirois desormais,
-N'en estant plus aymé qu'il ne m'ayma jamais.
-Je vous conjure donc par toute la franchise,
-Et toute l'amitié⁎ que vous m'avez promise,
-De ne me cacher plus ce qui me fait mourir,
-Et pour vous soulager s'il ne faut que perir,
-S'il ne faut prodiguer que mon sang et ma vie,
-Soyés tres-asseuré que j'en brusle d'envie,
-Et que pour vous servir j'embrasseray la mort.
+      O surprise importune⁎,
+Ces gardes ont failly, je l'avois deffendu.
 
--*who_phalante
+Phalante une autre fois vous me direz le reste,
+J'en attends le succez favorable ou funeste.
+ 
+      Vous en serez, Phalante.
+
+      Venez donc avec nous.
+Je ne veux rien oüir ny resoudre sans vous.
+
+Ingrat, ce mot eschape à cette vive ardeur,
+Que vous reconnoissez avec tant de froideur.
+Ingrat, pouvez-vous bien vous obstiner encore
+à me persecuter pour celuy que j'abhorre,
+Et traiter une Reyne avec tant de mépris,
+En dedaignant un cœur que vous seul avez pris ?
+Quoy mon affection⁎ est donc si peu de chose,
+Qu'en faveur d'un amy vostre soin⁎ en dispose :
+Et que vous rejettez comme indigne de vous,
+Un plus digne sujet, d'un traitement plus doux ?
+Vous croyez m'honorer⁎, m'offrant à Philoxene,
+Ah ! j'en cognois la cause, et souffre⁎ cette peine⁎,
+Comme le juste prix d'une facilité⁎,
+Que vous devez traitter avec indignité,
+Vostre cœur méprisant une gloire⁎ flestrie,
+Dedaignant justement une Amante⁎ qui prie,
+Et par ce traitement m'enseignant mon devoir,
+A la honte pour moy que je devois avoir.
+J'ai failly, je l'avoüe, et puis que ma foiblesse
+N'avoit peu resister à ce coup qui me blesse,
+Et qu'un Dieu trop puissant me contraignit d'aymer,
+Ma flame⁎ pour le moins me devoit consommer⁎.
+Ouy je devois sans doute ou mourir ou me taire :
+Mais puis que mon mal-heur fut un mal necessaire,
+Et que malgré mon rang, mon sexe, et mon honneur⁎
+Ma passion⁎ parut en trahissant mon cœur,
+Je sçauray bien lever cette honteuse tache,
+Qui par mon imprudence à ma gloire⁎ s'attache,
+Et punir ce cœur bas de l'avoir entrepris,
+Et par sa lâcheté merité vos mépris.
+ 
+      Ces discours superflus
+M'aigrissent contre luy, bien, bien, n'en parlons plus,
+Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,
+Cet importun⁎ me nuit, je sçauray m'en deffaire,
+Et le chasser si loin qu'avant que me revoir,
+Peut-estre on le verra rentré dans⁎ son devoir.
+
+      Songez plustost vous-mesme.
+
+      Et qu'Helene vous ayme.
+
+      Verrez-vous mon trespas ?
+ 
+      Ne m'oublierez-vous pas ?
+
+      Prierez-vous pour un autre ?
+
+      Esteindra-il le vostre ?
+
+Deportez⁎-vous enfin de ce cruël dessein,
+Ou me portez vous-mesme un poignard dans le sein.
+Ce traittement de vous sera plus supportable
+Que l'outrageux mespris dont vous estes coupable,
+A cause qu'il me nuit vos soins⁎ officieux⁎
+A ce cœur irrité le rendent odieux,
+Autrefois je l'ay veu sans mespris et sans haine,
+Maintenant je mesprise, et je hay Philoxene,
+Et si cet insolent m'en vient entretenir,
+De sa presomption je le sçauray punir,
+Et luy faire cognoistre
+
+      Ah ! Phalante.
+
+      Une Reyne mourante.
+
+      Je fais ce que je puis.
+
+      Et voyez qui je suis.
+
+      Je ne puis sans mourir,
+Et sans m'assassiner vous ne pouvez encore
+M'entretenir de luy.
+
+Et j'adore Phalante.
+ 
+      Je meurs aussi.
+
+      Enfin l'ingrat balance,
+Amour en ma faveur témoigne ta puissance :
+Fay grand Dieu quelque effort sur ce cœur endurcy.
+
+Va cruël, va plus loin signaler ta rigueur,
+Et sors de ma presence ainsi que de mon cœur,
+Je ne veux plus aymer un ingrat qui me tuë,
+Contre ma passion⁎ ma vertu s'évertuë,
+Et me tirant enfin de mon aveuglement,
+Fait ceder mon amour à mon ressentiment,
+Tes mespris insolens ont attiré ma haine,
+J'ay vescu, je veux vivre, et veux mourir en Reyne,
+Et reprendre l'éclat de cette dignité
+Que je deshonorois⁎ par une lascheté.
+Ce n'est qu'en ta faveur que je me suis trahie,
+Parce que je t'aymois cruël, tu m'as haïe,
+Recevant un amour avecque du mespris,
+Qui de mille travaux devoit estre le prix :
+Cent Princes mes voisins, dont la haute puissance
+A cent peuples sousmis sous leur obeissance,
+Plus relevez que toy de merite et de rang,
+La voudroient acheter au prix de tout leur sang.
+Je n'aymois rien que toy, tu m'as seul mesprisée,
+Je te donnois mon ame, et tu l'as refusée,
+Estimant peu le bien qu'on t'avoit presenté,
+Parce qu'on te l'offroit sans l'avoir merité :
+Mais ne t'abuse plus monstre d'ingratitude,
+J'ay brisé cette lasche et vile servitude,
+Un moment m'a guerie, et mon cœur satisfait,
+Pour reparer sa faute, abhorre qui le hait.
+C'est par aveuglement que je fus embrasée,
+Je te treuvois aymable, et j'estois abusée.
+Ma raison⁎ qui revient fait voir à mon esprit,
+Luy monstrant tes deffaux, l'erreur qui le surprit.
+La cognoissance enfin de mon ame t'efface,
+L'aveuglement t'y mit, et la raison⁎ t'en chasse,
+Te rendant odieux à cet esprit remis
+Plus que le plus cruël de tous mes ennemis.
+Foibles raisonnemens⁎ dont je me fortifie,
+Retirez-vous de moy, l'insolent m'en défie,
+En vain vostre secours me le rend odieux,
+Et si-tost que l'ingrat revient devant mes yeux,
+Quelque ressentiment dont je sois animée,
+Foibles raisonnemens⁎ vous allez en fumée.
+Pardonne, cher Phalante, à ma temerité,
+Crois que je me repens de l'avoir attenté,
+Et si dans⁎ mon transport⁎ j'ay fait quelque blaspheme,
+Que mon ressentiment⁎ l'a fait contre moy-mesme.
+Je t'ayme tout cruël et tout mécognoissant,
+Et cette vive ardeur que mon ame ressent,
+Quelque excez de malheur dont elle soit suivie,
+Ne treuvera de fin qu'en celle de ma vie.
+En vain de ces desdains tu t'armes contre moy,
+Ce cœur si mal traité n'a brûlé que pour toy,
+Rien ne peut partager une ame toute entiere,
+Et sa premiere ardeur doit estre la derniere.
+Helene, pauvre Helene, à quoy te resous-tu ?
+Songe à ce que tu fais, r'appelle ta vertu,
+Et par des actions fatales à ta gloire⁎
+Ne deshonore⁎ point une illustre memoire,
+Revien à ton devoir, songe à ce que tu fus,
+Ah ! raison, ah ! devoir, ne m'importunez⁎ plus,
+De vos foibles conseils mon ame est incapable,
+Et pour vous escouter Phalante est trop aymable.
+Je l'ayme, ma raison⁎, et je le veux aymer,
+Enfin c'est un buscher qui me doit consommer⁎ :
+C'est un feu⁎ qui me plaist, et je serois marrie
+Si du mal qu'il me fait mon ame estoit guerie.
+
+Ah ! que mal à propos l'importun⁎ vient à moy,
+Je luy montreray bien qu'il desplaist à la Reyne,
+Et du mal qu'il me fait il portera la peine⁎.
+
+Cest plutost un effet de cholere et de haine,
+Souvenez vous enfin que je suis vostre Reyne,
+Et que vous déportant⁎ de vos soins⁎ superflus,
+Vous devez vous cognoistre, et ne me facher plus.
+
+      Perdez-en l'esperance.
+Et si par mes bontez vous en avez conçeu,
+Croyez que jusqu'icy vous vous estes deçeu⁎,
+Si c'est par des devoirs que vostre amour espere,
+Sçachez qu'il n'a rien fait que vous ne deussiez faire,
+Que je souffre⁎ vos soins⁎, mais que je les reçoy,
+Non pas comme il vous plaist, mais comme je le doy :
+Ne parlez donc jamais d'une amour qui m'offence,
+Et si vous osez plus enfreindre ma deffence,
+Soyez tres-asseuré que je vous feray voir
+Et quelle est vostre faute, et quel est mon pouvoir.
+
+Osez-vous me parler avec tant d'insolence ?
+Sortez audacieux, sortez de ma presence,
+Et n'importunez⁎ plus un esprit irrité,
+Qui puniroit enfin vostre temerité :
+Mais sçachez pour borner vostre inutile attente,
+Que vos soupçons sont vrais, que j'adore Phalante,
+Et que vous auriez eu des traitements plus doux,
+En me parlant pour luy comme il parle pour vous.
+ 
+      Evitez ma cholere,
+Et si vostre fureur vous porte à luy déplaire,
+Sçachez que je l'appuye, et que j'ay le pouvoir
+De punir un subjet qui sort de son devoir.
+
+J'approuve vos souhaits, et vous veux satisfaire,
+Mais assez d'importance est jointe à cette affaire,
+Pour vouloir qu'on y songe encore un peu de temps,
+Adieu, dans peu de jours je vous rendray contens.
+
+Timandre demeurez, j'ay deux mots à vous dire.
+
+Je vous veux advertir de la haute insolence
+De vostre Philoxene.
+
+      Son imprudence
+N'a pas craint aujourd'huy de me desobliger :
+Mais sans vostre respect je m'en sçaurois vanger.
+C'est vous seul que j'estime et que je considere,
+Et la faute du fils je la pardonne au pere,
+Sans crainte et sans respect, l'insolent à mes yeux
+A menacé Phalante, a fait le furieux⁎,
+Et m'a fait, l'imprudent, un reproche à moy-mesme,
+Que j'ay souffert⁎ de luy parce que je vous ayme.
+
+Timandre c'est assez, ce discours me déplaist,
+Et je le hay tout Prince et tout brave qu'il est :
+Sa derniere action, et sa haute insolence,
+M'ont assez témoigné qu'il perd la cognoissance :
+Mais s'il ne se remet dans⁎ son premier devoir,
+Quelque Prince qu'il soit, il verra mon pouvoir.
+Devant moy l'orgueilleux a menacé Phalante,
+Vous sçavez son caprice et son humeur boüillante,
+Gardez qu'il ne s'attaque à ce Prince estranger
+Puis que je le protege, et le sçauray venger.
+
+      Helas ! il est trop lent,
+Et le cruel servant mon ingrate fortune⁎,
+Laisse par trop durer une vie importune⁎ :
+Mais bien qu'il soit si lent à servir ma douleur,
+Je sens bien mes amis qu'il approche du cœur,
+Qu'il gaigne ceste noble et derniere partie,
+Et que desja mon ame est prés de sa sortie.
+Ne respandez donc plus tant d'inutiles pleurs,
+Et ne me donnez point par vos vives douleurs
+Celle de vous quitter, et ceste preuve insigne
+D'une fidelité dont je me sens indigne,
+Ne me regrettez point trop fideles sujects,
+Ma derniere action condamne vos regrets,
+Et par des laschetés dont le remords m'accable,
+Du rang que j'ay tenu, je me rends incapable :
+Celle qui du devoir a fait si peu d'estat,
+Et qui s'est abaissée à prier un ingrat,
+Soubmettant à ses pieds son Sceptre et sa personne,
+Est indigne à jamais de porter la Couronne,
+Et de regner encor sur des gens comme vous,
+Apres des laschetez qui les offencent tous.
+Ceste seule raison m'a sans doute poussée
+A vanger par ma mort ma dignité blessée,
+Et satisfaire ainsi mon peuple et mon devoir,
+Plustost par la raison⁎ que par le desespoir.
+Ce n'est point mes amis une amour qui me porte
+A donner de mon deüil une preuve si forte,
+Si je mourois pour luy, l'ingrat seroit trop vain,
+Et j'ay dans⁎ mon trespas un plus juste dessein,
+Je meurs pour me donner la peine⁎ qui m'est deuë,
+Et ne survivre point à ma gloire⁎ perduë.
+Heureuse en mon trespas, si de vostre penser
+La cause de ma mort se pouvoit effacer,
+Et s'il peut parmy vous sauver la renommée
+De celle qu'autresfois vous avez tant aymée,
+J'ay voulu mes amis vous voir tous en ce lieu,
+Pour vous en supplier, et pour vous dire adieu.
+Veüillent les immortels eslever à ma place
+Un Roy digne de vous, et qui vous satisface
+Par sa protection et par mille bien-faits
+Autant que mon malheur vous a peu satisfaits.
+
+      O grands Dieux le voicy.
+Ah ! le cruel, mon cœur fremit à ceste veuë,
+Et d'un object si cher mon ame retenuë,
+Bien que cet inhumain la presse de partir,
+S'arreste sur le bord toute preste à sortir.
+Approchez-vous Phalante, et si dans⁎ vostre haine
+Vous estes insensible aux malheurs d'une Reyne,
+Que vostre cruauté met en ce triste estat,
+Par ce funeste object soulez⁎ ce cœur ingrat.
+Je vous ay fait sortir de ces demeures sombres,
+Où vous vous occupez à l'entretien des ombres,
+Pour donner à vos yeux un divertissement,
+Qui doit à vos douleurs servir d'allegement,
+Pour reparer ma faute et souler⁎ vostre haine,
+Je vay dans les enfers redire à Philoxene
+Par quel trait de constance ou d'inhumanité,
+Vous signalez encor vostre fidelité,
+Puis que par mon trepas je respare mon crime,
+Et qu'il reçoit de vous une telle victime ;
+S'il conserve pour nous quelque reste de foy
+Il sera satisfait et de vous et de moy.
+Pour vous, bien qu'il me reste un suject assés ample,
+D'accuser en mourant des rigueurs sans exemple,
+Et qu'ayant merité des traitemens plus doux,
+J'eusse quelque raison de me plaindre de vous,
+Les Dieux me sont tesmoins que je vous voy sans haine,
+Et que de mon erreur je vais souffrir⁎ la peine⁎,
+En demandant au Ciel pour dernieres faveurs,
+Qu'il face prosperer l'ingrat pour qui je meurs ;
+Vivez dans le repos où ma mort vous fait vivre,
+Les importunitez⁎ dont elle vous delivre
+Ne viendront plus troubler⁎ vostre tranquillité,
+Et n'esbranleront plus vostre fidelité.
+J'ay pris pour ce dessein un poison salutaire⁎,
+Qui doit laver ma faute, et vous doit satisfaire,
+Vous faisant avoüer que je meurs à propos,
+Pour l'honneur⁎ qui me reste et pour vostre repos.
+Cependant si je puis apres tant de prieres
+Croire que vos bontez exaucent les dernieres,
+Accordez moy ce bien quelque amour qu'il ayt eu
+De croire que mon cœur adoroit la vertu,
+Et que jamais peut estre une plus saincte flame⁎,
+Ny de plus beaux desseins n'allumerent une ame,
+Si j'obtiens en mourant ceste grace de vous
+Dans mon dernier moment mon sort⁎ sera plus doux,
+Et mon ame aux enfers ira tres-satisfaite,
+En ayant obtenu tout ce que je souhaite.
+
+O reparation qui n'est plus legitime,
+Ah ! Phalante.
+
+Ah ! cruel à moy seule, et non pas à toy-mesme,
+Qui te donnes la mort à cause que je t'ayme,
+Pour me perdre deux fois, faisant un double effort,
+Et cruel dans ta vie, et cruel dans ta mort.
+Acheve, acheve ingrat, et s'il te reste encore,
+Un rayon de pitié pour celle qui t'adore,
+Finis ton homicide et preste en ma faveur
+Et ton fer et ta main pour en percer ce cœur,
+C'est là qu'il faut donner la derniere blessure,
+Et que tu dois percer ta vivante figure,
+Ta derniere retraite⁎ est dans cette prison
+Cherche toy la, cruel, et previen⁎ le poison,
+Il est lasche, il est lent, suppleons,
+
+      Ah ! Phalante.
+ 
+      Il est mort, et moy je suis vivante.
+Et l'effort du poison est si foible et si lent,
+Pour me faire mourir d'un coup plus violent,
+Bien que par ton moyen ma mort soit asseurée,
+Je te maudis cruel qui l'as tant differée,
+Et qui par ton secours me pourrois garantir
+Du regret qui me tuë avant que de partir.
+Ah ! je sens son approche, une mortelle glace
+Gagne desja mon cœur et l'ame qu'elle chasse,
+Va rejoindre Phalante au partir de ce lieu,
+Adieu mes chers amis ne pleurez plus, Adieu.
+
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
+
+Madame, vos bontez sont pour moy sans limites
+Et m'ayant honoré⁎ par dessus mes merites,
+Vos faveurs m'ont fait tort, m'ayant mis en estat,
+Ou de mourir pour vous, ou de mourir ingrat,
+Que peut un mal-heureux que les Dieux et la guerre,
+Font errer fugitif de sa natale terre ?
+Et qui devoit perir si vostre Majesté
+N'eut soulagé sa perte avec tant de bonté ;
+Certes de tous les maux dont le ciel persecute
+Celuy que son courroux semble avoir pris en butte.
+La plus vive douleur qu'il pouvoit recevoir,
+C'est de vous devoir tant et de ne rien pouvoir :
+Vous avez relevé ma dignité panchante,
+Recueilly les debris de ma fortune⁎ errante,
+Et par mille faveurs et par mille bien-faits
+Vous m'avez mis plus haut que je ne fus jamais.
+Aussy de quelque aigreur dont la fortune⁎ averse
+Dans⁎ mes plus beaux desseins sans cesse me traverse⁎,
+Je la voudrois benir et tous mes ennemis,
+De l'estat glorieux où leur rage m'a mis.
+Si de tant de bon-heur dont vous estes la source,
+Un sensible regret ne traversoit⁎ la course,
+Un regret qui me tuë, et qui fera perir,
+Ce qu'en vain vos bontez ont daigné secourir ;
+Pardonnez un discours que la douleur arrache.
+
+De vous seule depend le mal et le remede
+Et vostre charité du tombeau tirera
+Et l'amy qui se meurt, et l'amy qui moura.
+Ce n'est pas d'aujourd'huy que ma bouche importune⁎
+Regrette à vos genous sa mauvaise fortune⁎,
+Et qu'affligé d'un mal que je souffre à demy,
+Je demande à vos pieds le salut⁎ d'un amy.
+Certes si la pitié peut attendrir une ame,
+Et si quelque rayon de la plus belle flame⁎,
+Dont le cœur d'un amant⁎ fut jamais embrasé,
+Peut toucher de son mal celle qui l'a causé,
+Vous estes obligée à soulager la peine⁎
+Qu'on voit souffrir pour vous au pauvre Philoxene.
+Jamais cœur ne brusla dans⁎ un si grand respect,
+Et bien que l'amitié⁎ me peut rendre suspect,
+J'atteste des grands Dieux la puissance supréme
+Que jamais un mortel n'ayma comme il vous ayme :
+C'est de ceste pitié que naissent tous mes soins⁎,
+Et cet estroit lien dont nos esprits sont joints.
+Quelque bien, quelque mal, quelque honneur⁎ qu'on me face
+M'a rendu mal-heureux dans⁎ sa seule disgrace.
+
+      O ciel ! est-il possible
+Qu'à tant de passion⁎ vostre cœur insensible
+A cét Amant⁎ fidele ordonne le trespas,
+Puis que sans ce remede il ne guerira pas ?
+Ceux qui peuvent sentir les atteintes mortelles
+Dont vos yeux ont blessé les ames les plus belles,
+Quoy que fassent pour eux le temps et la raison⁎,
+Dans la mort seulement treuvent leur guerison :
+Certes si vous pouviez sans mépris ou sans haine
+Considerer les maux du pauvre Philoxene.
+Et voir le triste estat où vous l'avez reduit
+Depuis qu'il vous adore avec si peu de fruit,
+Vous verriez qu'un conseil d'une telle nature,
+Au lieu de l'adoucir aigriroit sa blessure.
+Helas combien de fois pasle et sans mouvement,
+Ses yeux devers le ciel eslevez lentement,
+Ses yeux à qui des pleurs la course continuë,
+Auroit presque ravy l'usage de la veuë,
+L'ay-je veu demander pour un dernier secours
+La fin de vos rigueurs dans⁎ la fin de ses jours ?
+Il est vray, ses douleurs faisoient naistre les miennes,
+Mes larmes, je l'avouë, accompagnoient les siennes,
+Mon ame par pitié blâmoit vostre rigueur,
+Et ses ardans souspirs me touchoient jusqu'au cœur,
+Ce fut cette pitié qui me fit temeraire,
+Et bien que le respect m'obligeât à me taire,
+Cette compassion me le fit violer,
+Et pour le secourir me força de parler,
+Mais Dieux ! que mes discours ont eu peu d'eficace,
+Mes importunitez⁎ augmentent sa disgrace,
+Et redoublent le mal qui l'accable aujourd'huy,
+Parce qu'un mal-heureux intercede pour luy.
+ 
+      La princesse balance,
+Sans doute mes discours auront fait quelque fruit.
+Ah ! cruauté du ciel où m'avez-vous reduit ?
+Faut-il que je poursuive avecque tant d'envie,
+Dans⁎ le bien d'un amy la perte de ma vie ?
+Que je donne vainqueur ma vie à l'amitié⁎,
+Ou que n'obtenant rien je meure de pitié ?
+
+Doncques pour mon amy l'esperance est perduë
+Quoy vous aymez Madame, et son zele et sa foy.
+
+O Dieux ! que deviendray-je ? ah ! Madame.
+
 C'est assez, cher amy, ce penser me fait tort :
 Et vous avez blessé l'amitié⁎ qui nous lie
 En souffrant⁎ ce soupçon de ma melancholie⁎,
@@ -497,58 +714,6 @@ Si pour vous le bon-heur secondoit mes souhaits,
 Et si de vos malheurs mon ame combatuë,
 Ne ressentoit pour vous,
 
--*who_philoxene
-      Ah ! ce discours me tuë :
-Juste ciel falloit-il pour comble de douleur,
-Qu'un innocent amy partageât mon malheur,
-Et que n'ayans qu'un cœur et qu'une ame commune,
-Nous ne deussions avoir qu'une mesme fortune⁎ ?
-Certes, de tous les coups de mon sort⁎ rigoureux
-C'est là le plus sensible et le plus douloureux,
-Et mon mal ne pouvoit venir au poinct extreme,
-Qu'en se communiquant à cet autre moy-mesme.
-Malheureux Philoxene, Amant⁎ infortuné,
-Regarde à quelle fin le ciel t'a destiné⁎,
-Voy de quelle rigueur sa cholere t'accable,
-Il fait de ta misere un autre miserable :
-Et punit de ta faute un innocent amy,
-Pour voir perir un tout qui souffroit à demy.
-Ah ! Phalante, c'est trop, et je hay trop ma vie,
-Dans⁎ les maux eternels dont je la voy suivie,
-Pour souhaitter encor qu'elle dure à ce prix,
-Laissons, laissons Helene avecque ses mépris :
-S'ils ne m'ont pû guerir que la mort m'en delivre,
-Mon amour l'importune⁎ et je suis las de vivre.
-Philoxene au tombeau n'importunera⁎ plus
-La Reyne et son amy par des soins⁎ superflus,
-Et le profond repos qu'il goustera luy-mesme,
-Dans⁎ un mesme repos mettra tout ce qu'il ayme.
-
--*who_timandre
-La Reyne le méprise avec peu de raison⁎,
-Elle doit mieux traitter une illustre maison :
-Et juger quelque rang qu'un changement nous donne,
-Qu'autrefois nos ayeulx ont porté sa couronne,
-Je suis subjet, mais Prince, et son pere en mourant
-Fit de nostre maison un cas bien different,
-Et mettant en mes mains son Sceptre et sa famille,
-Il me nomma Regent et Tuteur de sa fille :
-Quelque faiste d'honneur⁎ où je fusse monté,
-Je n'abusay jamais de cette authorité.
-Je pouvois au despens d'une foible jeunesse,
-Agrandir ma maison des biens que je luy laisse :
-Et me rendre si grand qu'elle eut bien souhaitté,
-Celuy qu'elle rejette avec indignité,
-Mais le ciel m'est tesmoin qu'en ma charge importune⁎,
-Je ne consideray ny moy ny ma fortune⁎ :
-Et quoy que ce pays deust beaucoup à mes soins⁎,
-Que de tous mes voisins j'y profitay le moins,
-Certes sa Majesté le devroit mieux cognoistre
-Que par ce grand mépris qu'elle nous fait paroistre
-Et mieux considerer le merite et le sang,
-De ceux qui dans l'Estat tiennent le premier rang.
-
--*who_phalante
 Il m'est encor resté quelque peu d'esperance,
 Qu'on la pourra gaigner par la perseverance ;
 Et je croy qu'à la fin son ame se rendra,
@@ -556,38 +721,13 @@ Du moins pour vous servir Phalante se perdra :
 Et quand pour ce dessein il donneroit sa vie,
 Il la croira toujours heureusement ravie,
 Si le ciel luy permet de la perdre pour vous ;
-
--*who_philoxene
-O Dieu ! qu'en mes malheurs ce souvenir m'est doux,
-Et que j'ay de bonheur parmy tant de disgrace,
-D'avoir fait un amy,
-
--*who_phalante 
+ 
       Souffrez⁎ que je vous chasse :
 Adieu laissez moy seul y rever un moment,
 Vous trouverez la Reyne en son appartement.
 
-**** *book_ *id_II02 *act_II *date_1642 *creator_la_calprenede
-
--*who_arbante
-Seigneur de quelque soing⁎ que vostre ame agitée,
-Déguise la douleur dont elle est tourmentée,
-Je voy bien au travers de ce déguisement,
-Ce qu'à ma passion⁎ vous cachez vainement.
-Pardonnez-moy Seigneur, si je vous importune⁎,
-Mais vous n'aurez jamais de mauvaise fortune⁎ :
-Que mon affection⁎ ne ressente avec vous,
-Si pour s'en décharger un mal devient plus doux,
-Et si vous conservez encor quelque memoire,
-D'une fidelité qui fut toute ma gloire⁎,
-Recompensez Seigneur, ces preuves de ma foy.
-
--*who_phalante
 Je n'ay rien à te dire, Arbante laisse moy,
 
-**** *book_ *id_II03 *act_II *date_1642 *creator_la_calprenede 
-
--*who_phalante
 Enfin je reste seul, et cette ingrate flame⁎,
 Qui sans aucun espoir tirannise mon ame,
 Peut enfin éclater à la clarté des cieux.
@@ -692,71 +832,14 @@ Mais j'apperçois la Reyne, ô rencontre cruelle !
 Que dois-je devenir, dois-je m'esloigner d'elle ?
 Evite son abord, fuy miserable fuy.
 
-**** *book_ *id_II04 *act_II *date_1642 *creator_la_calprenede 
-
--*who_helene
-Ne vois-je pas Phalante ?
-
--*who_cleone
-      Oüy Madame, c'est luy.
-
--*who_phalante
 Mais je suis découvert, ah ! deffend toy, mon ame,
 Arme toy de vertu, cache, cache ta flame⁎,
 Et ne relâche point de tes premiers desseins.
 
--*who_helene
-Quoy tu trembles mon cœur ! quoy mon ame tu crains !
-Et sembles redouter la mortelle sentence :
-Mais le voicy l'ingrat, arme toy de constance.
-
--*who_phalante
 Je craignois d'approcher de vostre Majesté,
 Et m'allois retirer dans ce bois escarté,
 Pour n'interrompre point vos secrettes pensées.
 
--*who_helene 
-Ah ! Phalante, à vous seul elles sont adressées,
-Et si la solitude a pour moy rien de doux,
-Je l'ayme seulement pour mieux songer à vous.
-Depuis que pour vous seul mon esprit est malade,
-Je gouste des douceurs dans cette promenade,
-Qui me font oublier le soing⁎ de mes estats,
-Pour trouver du repos loing de tant d'embarras,
-C'est icy que je cherche à resver et me plaindre,
-Et ce n'est que pour vous, il n'est plus temps de feindre.
-J'ay tout franchy Phalante, et je vous ay fait voir,
-Malgré l'honneur⁎ du sexe, et malgré mon devoir,
-Forçant mon naturel, mon silence et ma crainte,
-De quelle passion⁎ mon ame estoit atteinte :
-Je n'en ay que trop dit, et quelque affection⁎
-Qui puisse authoriser une indigne action,
-Je devois conserver ce pouvoir sur mon ame,
-De souffrir sans parler, ou de mourir sans blâme :
-J'ay fait une bassesse indigne de mon rang,
-Qui blesse ma beauté, mon courage et mon sang,
-Et vous donne sans doute une injuste croyance,
-D'une facilité⁎ dont ma vertu s'offence.
-Mais si vous le pouvez apres l'impression
-Qu'aura fait sur vostre ame une telle action,
-Ne souffrez⁎ point de grace un penser qui m'outrage,
-Et ne soupçonnez rien à mon desavantage,
-Je vous ayme, et mon mal vous est assez connu :
-Mais à quelque degré qu'il soit déja venu,
-Quelque transport⁎ estrange⁎, et quelque violence,
-Qui contre mon devoir ayt rompu mon silence,
-La plus haute vertu ne se peut offencer,
-De mon plus criminel et plus lasche penser,
-Et je puis esperer sans reproche et sans blâme,
-Le remede du mal, et le repos de l'ame :
-Estant si bien instruit de mon intention,
-Que ne respondez-vous à mon affection⁎,
-Que ne m'apprenez-vous ce que j'en puis attendre,
-Vostre silence, ô Dieux ! me le fait trop comprendre,
-Vous en estes confus, vous rougissez pour moy,
-Et ce discours muët m'apprend ce que je doy.
-
--*who_phalante
 Que vostre Majesté ne trouve point estrange⁎,
 Si par un tel discours mon visage se change,
 Et si je fais paroistre en cette occasion,
@@ -771,110 +854,10 @@ Cet honneur⁎ m'ébloüit, et je ne le reçoy,
 Indigne que j'en suis que comme je le doy.
 Un Dieu rechercheroit ceste bonne fortune⁎.
 
--*who_cleone
-Arate et Cleomede.
-
--*who_helene
-      O surprise importune⁎,
-Ces gardes ont failly, je l'avois deffendu.
-
--*who_phalante
 Helas ! sans ce secours Phalante estoit perdu.
 
-**** *book_ *id_II05 *act_II *date_1642 *creator_la_calprenede
-
--*who_helene
-Phalante une autre fois vous me direz le reste,
-J'en attends le succez favorable ou funeste.
-
--*who_cleomede
-Madame pardonnez nostre importunité⁎,
-On n'attend au conseil que vostre Majesté,
-Et l'affaire qu'on traitte est assez importante
-Pour divertir un peu,
-
--*who_helene 
-      Vous en serez, Phalante.
-
--*who_phalante
 Vous me comblez d'honneur⁎.
 
--*who_helene
-      Venez donc avec nous.
-Je ne veux rien oüir ny resoudre sans vous.
-
-**** *book_ *id_III01 *act_III *date_1642 *creator_la_calprenede
-
--*who_philoxene
-La Reyne ayme Phalante.
-
--*who_cleone
-      Oüy Seigneur.
-
--*who_philoxene
-      Ah ! Cleone,
-Regarde la douleur que ce discours me donne,
-Et si ton amitié⁎ ne me peut secourir,
-Du moins n'invente rien qui me fasse mourir :
-Tu lances sur ma vie une mortelle foudre⁎,
-
--*who_cleone
-Asseurez vous, Seigneur, qu'avant que m'y resoudre,
-Je n'ay point épargné ma peine⁎ ny mes soins⁎,
-J'ay tout ozé pour vous, les Dieux m'en sont témoins :
-Et que pour destourner le coup qui vous menace,
-Je n'ay point redouté d'encourir sa disgrace,
-J'ay forcé le respect et la discretion
-Pour condamner cent fois sa folle passion⁎ :
-Et cent fois m'opposant à cette amour naissante,
-Contre mes sentimens j'ay médit de Phalante.
-
--*who_philoxene
-Tu m'offençois Cleone, et quoy que mon salut⁎,
-
--*who_cleone
-Croyez qu'en mes discours j'avois un autre but,
-Et que je travaillois à forcer son caprice,
-Qui le luy rend aymable à vostre prejudice.
-Je voulois qu'à ses yeux il parust moins parfait,
-Et luy representant le tort qu'elle se fait,
-D'aymer un Estranger, et rechercher un Prince,
-Dépouillé de ses biens, chassé de sa province :
-à qui pour tout recours il ne restoit plus rien,
-Qu'un refuge chez elle, et d'appuy que le sien.
-Je luy representois vos fideles services,
-Le rang que vous tenez, et mille bons offices⁎,
-Que dans ses jeunes ans sa foiblesse receut,
-Des soins⁎ de vostre pere en la charge qu'il eut :
-Mais Seigneur ces discours ont redoublé sa flame⁎,
-Et cette resistance ayant picqué son ame,
-Elle s'est obstinée avec trop de mépris,
-Et contre la raison, et contre mes avis.
-
--*who_philoxene
-Et Phalante,
-
--*who_cleone
-      Je croy qu'il n'est pas insensible,
-Et que s'il n'est formé de nature impassible,
-S'il n'a les duretez d'un arbre ou d'un rocher,
-La Reyne a des appas qui le doivent toucher.
-
--*who_philoxene
-C'est assez, juste ciel !
-
--*who_cleone
-      Gardez moy le silence,
-Vous me perdriez, Seigneur.
-
--*who_philoxene
-      Vy dans⁎ cette asseurance,
-Et previens⁎ cet esprit de tes bonnes leçons,
-Mais entrons, je veux mieux éclaircir mes soupçons.
-
-**** *book_ *id_III02 *act_III *date_1642 *creator_la_calprenede 
-
--*who_phalante
 Les Dieux me sont tesmoins que mon ame troublée⁎,
 De ces excez d'honneur⁎ dont vous l'avez comblée,
 N'a pas si fort perdu tout son raisonnement⁎,
@@ -926,39 +909,6 @@ Que je puisse esperer de vostre Majesté,
 Et si vostre pitié s'accorde à mon envie,
 En sauvant mon amy vous me sauvez la vie.
 
--*who_helene
-Ingrat, ce mot eschape à cette vive ardeur,
-Que vous reconnoissez avec tant de froideur.
-Ingrat, pouvez-vous bien vous obstiner encore
-à me persecuter pour celuy que j'abhorre,
-Et traiter une Reyne avec tant de mépris,
-En dedaignant un cœur que vous seul avez pris ?
-Quoy mon affection⁎ est donc si peu de chose,
-Qu'en faveur d'un amy vostre soin⁎ en dispose :
-Et que vous rejettez comme indigne de vous,
-Un plus digne sujet, d'un traitement plus doux ?
-Vous croyez m'honorer⁎, m'offrant à Philoxene,
-Ah ! j'en cognois la cause, et souffre⁎ cette peine⁎,
-Comme le juste prix d'une facilité⁎,
-Que vous devez traitter avec indignité,
-Vostre cœur méprisant une gloire⁎ flestrie,
-Dedaignant justement une Amante⁎ qui prie,
-Et par ce traitement m'enseignant mon devoir,
-A la honte pour moy que je devois avoir.
-J'ai failly, je l'avoüe, et puis que ma foiblesse
-N'avoit peu resister à ce coup qui me blesse,
-Et qu'un Dieu trop puissant me contraignit d'aymer,
-Ma flame⁎ pour le moins me devoit consommer⁎.
-Ouy je devois sans doute ou mourir ou me taire :
-Mais puis que mon mal-heur fut un mal necessaire,
-Et que malgré mon rang, mon sexe, et mon honneur⁎
-Ma passion⁎ parut en trahissant mon cœur,
-Je sçauray bien lever cette honteuse tache,
-Qui par mon imprudence à ma gloire⁎ s'attache,
-Et punir ce cœur bas de l'avoir entrepris,
-Et par sa lâcheté merité vos mépris.
-
--*who_phalante
 Ah ! Madame cessez un discours qui me tuë,
 Pleust à Dieu vissiez-vous mon ame toute nuë,
 Et vous feriez sans doute un jugement plus doux,
@@ -1003,51 +953,18 @@ Et vous ne pouvez plus sans faire une injustice,
 Luy refuser le prix qu'on doit à son service.
 Sa vertu, son amour,
 
--*who_helene 
-      Ces discours superflus
-M'aigrissent contre luy, bien, bien, n'en parlons plus,
-Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,
-Cet importun⁎ me nuit, je sçauray m'en deffaire,
-Et le chasser si loin qu'avant que me revoir,
-Peut-estre on le verra rentré dans⁎ son devoir.
-
--*who_phalante
 Ah ! Madame, songez.
 
--*who_helene
-      Songez plustost vous-mesme.
-
--*who_phalante
 Que Philoxene meurt.
 
--*who_helene
-      Et qu'Helene vous ayme.
-
--*who_phalante
 Le lairrez-vous perir ?
 
--*who_helene
-      Verrez-vous mon trespas ?
-
--*who_phalante
 Pouvez-vous l'oublier ?
 
--*who_helene 
-      Ne m'oublierez-vous pas ?
-
--*who_phalante
 Prieray-je sans espoir ?
 
--*who_helene
-      Prierez-vous pour un autre ?
-
--*who_phalante
 L'interest⁎ que j'y prends.
 
--*who_helene
-      Esteindra-il le vostre ?
-
--*who_phalante
 Celuy de mon amy sera tousjours le mien,
 Le bien qu'on luy fera sera mon propre bien,
 Et si vous l'honorez⁎ d'une amour parfaite,
@@ -1057,67 +974,23 @@ L'empeschant de mourir vous me ressuscitez,
 Et l'elevant au poinct de sa gloire⁎ supreme,
 A ce dernier bonheur vous m'elevez moy-mesme.
 
--*who_helene
-Deportez⁎-vous enfin de ce cruël dessein,
-Ou me portez vous-mesme un poignard dans le sein.
-Ce traittement de vous sera plus supportable
-Que l'outrageux mespris dont vous estes coupable,
-A cause qu'il me nuit vos soins⁎ officieux⁎
-A ce cœur irrité le rendent odieux,
-Autrefois je l'ay veu sans mespris et sans haine,
-Maintenant je mesprise, et je hay Philoxene,
-Et si cet insolent m'en vient entretenir,
-De sa presomption je le sçauray punir,
-Et luy faire cognoistre
-
--*who_phalante
       Ah ! Madame.
 
--*who_helene
-      Ah ! Phalante.
-
--*who_phalante
 Doit-on pas secourir
 
--*who_helene
-      Une Reyne mourante.
-
--*who_phalante
 Je fais ce que je dois.
-
--*who_helene
-      Je fais ce que je puis.
-
--*who_phalante 
+ 
 Jugez de mon devoir.
 
--*who_helene
-      Et voyez qui je suis.
-
--*who_phalante
 Vous estes en merite en beauté grande Reyne,
 Un chef-d'œuvre du ciel, mais j'ayme Philoxene,
 Et par ma propre mort je le dois secourir,
 Sauvez-le par pitié.
 
--*who_helene
-      Je ne puis sans mourir,
-Et sans m'assassiner vous ne pouvez encore
-M'entretenir de luy.
-
--*who_phalante
       Madame il vous adore.
 
--*who_helene
-Et j'adore Phalante.
-
--*who_phalante
       Il meurt.
 
--*who_helene 
-      Je meurs aussi.
-
--*who_phalante
 Que fais-tu miserable ! esloigne toy d'icy,
 Ne persecute plus une Reyne qui t'ayme,
 Ne perds point ton amy, ne te perds point toy-mesme.
@@ -1125,423 +998,24 @@ Amant⁎ infortuné, mal-heureux confident,
 Et sauve ta vertu d'un naufrage evident.
 Elle rend les abois.
 
--*who_helene
-      Enfin l'ingrat balance,
-Amour en ma faveur témoigne ta puissance :
-Fay grand Dieu quelque effort sur ce cœur endurcy.
-
--*who_phalante
 Je prends congé, Madame, et m'esloigne d'icy,
 Pour regretter ailleurs ma mauvaise fortune⁎,
 Qui vous rend mon discours et ma veuë importune⁎.
 
-**** *book_ *id_III03 *act_III *date_1642 *creator_la_calprenede 
-
--*who_helene
-Va cruël, va plus loin signaler ta rigueur,
-Et sors de ma presence ainsi que de mon cœur,
-Je ne veux plus aymer un ingrat qui me tuë,
-Contre ma passion⁎ ma vertu s'évertuë,
-Et me tirant enfin de mon aveuglement,
-Fait ceder mon amour à mon ressentiment,
-Tes mespris insolens ont attiré ma haine,
-J'ay vescu, je veux vivre, et veux mourir en Reyne,
-Et reprendre l'éclat de cette dignité
-Que je deshonorois⁎ par une lascheté.
-Ce n'est qu'en ta faveur que je me suis trahie,
-Parce que je t'aymois cruël, tu m'as haïe,
-Recevant un amour avecque du mespris,
-Qui de mille travaux devoit estre le prix :
-Cent Princes mes voisins, dont la haute puissance
-A cent peuples sousmis sous leur obeissance,
-Plus relevez que toy de merite et de rang,
-La voudroient acheter au prix de tout leur sang.
-Je n'aymois rien que toy, tu m'as seul mesprisée,
-Je te donnois mon ame, et tu l'as refusée,
-Estimant peu le bien qu'on t'avoit presenté,
-Parce qu'on te l'offroit sans l'avoir merité :
-Mais ne t'abuse plus monstre d'ingratitude,
-J'ay brisé cette lasche et vile servitude,
-Un moment m'a guerie, et mon cœur satisfait,
-Pour reparer sa faute, abhorre qui le hait.
-C'est par aveuglement que je fus embrasée,
-Je te treuvois aymable, et j'estois abusée.
-Ma raison⁎ qui revient fait voir à mon esprit,
-Luy monstrant tes deffaux, l'erreur qui le surprit.
-La cognoissance enfin de mon ame t'efface,
-L'aveuglement t'y mit, et la raison⁎ t'en chasse,
-Te rendant odieux à cet esprit remis
-Plus que le plus cruël de tous mes ennemis.
-Foibles raisonnemens⁎ dont je me fortifie,
-Retirez-vous de moy, l'insolent m'en défie,
-En vain vostre secours me le rend odieux,
-Et si-tost que l'ingrat revient devant mes yeux,
-Quelque ressentiment dont je sois animée,
-Foibles raisonnemens⁎ vous allez en fumée.
-Pardonne, cher Phalante, à ma temerité,
-Crois que je me repens de l'avoir attenté,
-Et si dans⁎ mon transport⁎ j'ay fait quelque blaspheme,
-Que mon ressentiment⁎ l'a fait contre moy-mesme.
-Je t'ayme tout cruël et tout mécognoissant,
-Et cette vive ardeur que mon ame ressent,
-Quelque excez de malheur dont elle soit suivie,
-Ne treuvera de fin qu'en celle de ma vie.
-En vain de ces desdains tu t'armes contre moy,
-Ce cœur si mal traité n'a brûlé que pour toy,
-Rien ne peut partager une ame toute entiere,
-Et sa premiere ardeur doit estre la derniere.
-Helene, pauvre Helene, à quoy te resous-tu ?
-Songe à ce que tu fais, r'appelle ta vertu,
-Et par des actions fatales à ta gloire⁎
-Ne deshonore⁎ point une illustre memoire,
-Revien à ton devoir, songe à ce que tu fus,
-Ah ! raison, ah ! devoir, ne m'importunez⁎ plus,
-De vos foibles conseils mon ame est incapable,
-Et pour vous escouter Phalante est trop aymable.
-Je l'ayme, ma raison⁎, et je le veux aymer,
-Enfin c'est un buscher qui me doit consommer⁎ :
-C'est un feu⁎ qui me plaist, et je serois marrie
-Si du mal qu'il me fait mon ame estoit guerie.
-
-**** *book_ *id_III04 *act_III *date_1642 *creator_la_calprenede 
-
--*who_philoxene
-Que fait la Reyne, Aminte ?
-
--*who_aminte
-      Elle est triste.
-
--*who_philoxene
-      Et de quoy.
-
--*who_helene
-Ah ! que mal à propos l'importun⁎ vient à moy,
-Je luy montreray bien qu'il desplaist à la Reyne,
-Et du mal qu'il me fait il portera la peine⁎.
-
--*who_philoxene
-Puis-je bien approcher de vostre Majesté,
-Et divertir ses soins⁎ sans importunité⁎ ?
-Quelque nouveau chagrin paroist sur son visage,
-Pleust aux Dieux que je peusse en tirer avantage,
-Et que cette douleur dont je sens la moitié,
-Fut dans vostre belle ame un effet de pitié.
-
--*who_helene
-Cest plutost un effet de cholere et de haine,
-Souvenez vous enfin que je suis vostre Reyne,
-Et que vous déportant⁎ de vos soins⁎ superflus,
-Vous devez vous cognoistre, et ne me facher plus.
-
--*who_philoxene
-Bien que je me cognoisse, et que dans vostre estime
-Ma passion⁎ aveugle ait passé pour un crime,
-Je ne suis pas sorty des termes du devoir,
-Et si vostre bonté m'en donne le pouvoir,
-Je vous diray Madame avec quelque licence⁎,
-Que cette passion⁎ ne vous fait point d'offence.
-Bien que je sois sujet, on sçait assez mon rang,
-Que parmy vos vassaux je suis prince du sang.
-Qu'autrefois mes ayeulx ont porté la couronne,
-Et qu'en me regardant je ne cognoy personne
-De ceux que la naissance a mis sous vostre loy,
-Qui de sang et de biens ne soit plus bas que moy.
-Mais ce n'est point par là que mon cœur se propose
-De pouvoir pres de vous meriter quelque chose,
-Mon amour seulement m'a donné cest espoir,
-Et depuis que je sers par un double devoir,
-Dans⁎ une passion⁎ si sainte et si fidele,
-Je vous ay témoigné tant d'ardeur et de zele.
-Et sans en murmurer j'ay tant souffert pour vous,
-Que j'ay creu meriter un traitement plus doux,
-Accordez-le, Madame, à ma perseverance :
-Et donnez par pitié.
-
--*who_helene
-      Perdez-en l'esperance.
-Et si par mes bontez vous en avez conçeu,
-Croyez que jusqu'icy vous vous estes deçeu⁎,
-Si c'est par des devoirs que vostre amour espere,
-Sçachez qu'il n'a rien fait que vous ne deussiez faire,
-Que je souffre⁎ vos soins⁎, mais que je les reçoy,
-Non pas comme il vous plaist, mais comme je le doy :
-Ne parlez donc jamais d'une amour qui m'offence,
-Et si vous osez plus enfreindre ma deffence,
-Soyez tres-asseuré que je vous feray voir
-Et quelle est vostre faute, et quel est mon pouvoir.
-
--*who_philoxene
-Vostre pouvoir est grand, et ma faute est plus grande ;
-Mais si pour l'expier, c'est mon sang qu'on demande,
-J'espargneray la peine⁎ à vostre Majesté,
-De me faire punir de ma temerité.
-Cent fois en vous servant on me l'a veu répandre,
-Et puis que cest arrest me le fait trop comprendre,
-Et que dans vos discours je voy vostre desir,
-Mon ame obeyssante y court avec plaisir,
-Je quitte sans regret une vie importune⁎,
-Ma perte seulement establit ma fortune,
-Et je meurs trop heureux puis que dans⁎ mon trespas
-Je vous rends un devoir qui ne vous déplaist pas :
-Pour le moins ce bonheur dont ma mort est suivie,
-M'est plus advantageux que tous ceux de ma vie,
-Vivant je vous dépleus, je vous plais en mourant,
-Et je vous rends encore un service assez grand,
-Puis que par mon trespas j'asseure les delices,
-De celuy qui reçoit le prix de mes services :
-Je porte le respect dans⁎ une extremité,
-Où par vos traitemens je suis precipité,
-Et mon ressentiment⁎ me force de vous dire
-Qu'un autre plus heureux a ce que je desire :
-Et malgré mon amour, ma constance et ma foy,
-Emporte le beau prix qui n'estoit deu qu'à moy.
-
--*who_helene
-Osez-vous me parler avec tant d'insolence ?
-Sortez audacieux, sortez de ma presence,
-Et n'importunez⁎ plus un esprit irrité,
-Qui puniroit enfin vostre temerité :
-Mais sçachez pour borner vostre inutile attente,
-Que vos soupçons sont vrais, que j'adore Phalante,
-Et que vous auriez eu des traitements plus doux,
-En me parlant pour luy comme il parle pour vous.
-
--*who_philoxene
-Phalante, ah ! le perfide.
-
--*who_helene 
-      Evitez ma cholere,
-Et si vostre fureur vous porte à luy déplaire,
-Sçachez que je l'appuye, et que j'ay le pouvoir
-De punir un subjet qui sort de son devoir.
-
-**** *book_ *id_IV01 *act_IV *date_1642 *creator_la_calprenede
-
--*who_cleomede
-Enfin ce sont les vœux de toute la province,
-Vos fideles sujets vous demandent un prince,
-Et d'un commun accord vous prient par ma voix,
-De faire vivre en vous la race de nos Roys.
-Ce n'est pas qu'en effet le peuple et la noblesse
-Treuvent en vostre regne aucun trait de foiblesse,
-Et que l'on n'y remarque avec estonnement⁎
-Les plus heureux succez d'un bon gouvernement :
-On ne regna jamais avec plus de justice,
-Et jamais Souverain ne maintint sa police
-Avec plus de prudence, et plus d'authorité,
-Qu'on la voit maintenir à vostre Majesté :
-Depuis le bon succez de nos dernieres guerres,
-Vous avez estably le repos dans vos terres,
-Et par une honorable⁎ et glorieuse⁎ paix,
-Vous leur avez donné le calme pour jamais.
-Tout le monde l'admire en ce sexe, en cet aage,
-Et toutes ces raisons m'animent davantage,
-A vous impotuner et vous prier pour tous
-De nous donner un jour des Roys sortis de vous,
-
--*who_arate
-De vos predecesseurs la recente memoire
-Vit encor dans nos cœurs avecque tant de gloire⁎,
-Et laisse dans Corinthe un si beau souvenir,
-Que la suite des ans ne le sçaurait bannir :
-Le feu Roy vostre pere, et tous vos bons Ancestres,
-Que ce Royaume illustre a cogneu pour ses Maistres,
-Bien qu'ils soient morts pour nous ont laissé desormais
-Un amour parmy nous qui ne mourra jamais.
-Ce sacré souvenir, Madame, vous oblige
-A conserver en vous le reste d'une tige,
-De qui le sang illustre à la posterité
-A regné parmy nous avec tant de bonté.
-Considerez les vœux d'un peuple qui desire,
-Qu'à jamais vostre sang gouverne cet Empire,
-Et qui ne verra point sans mourir mille fois,
-Au trône hereditaire eslever d'autres Roys.
-
--*who_timandre
-Lors que par un mary vous serez soulagée,
-De ce pesant fardeau, vostre ame dégagée,
-Dans un calme profond goustera le repos,
-Qu'un soing⁎ continuel luy trouble⁎ à tout propos,
-D'un peuple satisfait vous serez reverée,
-Et d'un prince obligé vous serez adorée :
-Qui trouvant à vos pieds un empire plus doux,
-Y mettra le bandeau qu'il recevra de vous.
-Vous donnerez un Roy de qui vous serez Reyne,
-Il vous reconnoistra comme sa Souveraine :
-Et conservant le rang et l'estat d'aujourd'huy,
-Plus que sur vos sujets vous regnerez sur luy.
-
--*who_helene
-J'approuve vos souhaits, et vous veux satisfaire,
-Mais assez d'importance est jointe à cette affaire,
-Pour vouloir qu'on y songe encore un peu de temps,
-Adieu, dans peu de jours je vous rendray contens.
-
--*who_timandre
-Dieux ! rendez son dessein tel que je le desire.
-
-**** *book_ *id_IV02 *act_IV *date_1642 *creator_la_calprenede 
-
--*who_helene
-Timandre demeurez, j'ay deux mots à vous dire.
-
--*who_timandre
-Quel espoir pour mon fils cache tes sentimens,
-Voulez-vous m'honorer⁎ de vos commandemens ?
-
--*who_helene
-Je vous veux advertir de la haute insolence
-De vostre Philoxene.
-
--*who_timandre
-      O Dieux !
-
--*who_helene
-      Son imprudence
-N'a pas craint aujourd'huy de me desobliger :
-Mais sans vostre respect je m'en sçaurois vanger.
-C'est vous seul que j'estime et que je considere,
-Et la faute du fils je la pardonne au pere,
-Sans crainte et sans respect, l'insolent à mes yeux
-A menacé Phalante, a fait le furieux⁎,
-Et m'a fait, l'imprudent, un reproche à moy-mesme,
-Que j'ay souffert⁎ de luy parce que je vous ayme.
-
--*who_timandre
-Il a tort de déplaire à vostre Majesté,
-Mais dans⁎ le desespoir où vous l'avez jetté,
-Par les cruels effets d'une rigueur extreme,
-Il ne recognoit plus son devoir ny soy-mesme :
-L'aveuglé dans⁎ l'estat où vous l'avez reduit,
-Recevra mes leçons avec fort peu de fruit :
-Et ne recouvrera sa sagesse premiere
-Qu'au funeste moment qu'il perdra la lumiere.
-Helas ! qu'ay-je commis dans un gouvernement,
-Où j'ay consideré vostre bien seulement ?
-Qu'ay-je fait contre vous pour plonger ma vieillesse
-Dans⁎ une si sensible et mortelle tristesse,
-Pour me priver d'un fils dont l'appuy m'est si doux,
-Et de qui tout le crime est de mourir pour vous ?
-Un feu⁎ plein de respect le rend-il si coulpable ?
-Peche-t'il d'adorer un sujet adorable ?
-Et sa condition le met-elle si bas,
-Que sa presomption soit digne du trespas ?
-Ah ! vous cognoissez mieux son rang et sa naissance,
-L'amour d'un tel sujet ne vous fait point d'offence.
-Et mesme le feu Roy dans vostre âge plus bas,
-En vid les fondemens qu'il ne condamna pas.
-On ne peut mépriser son sang ny sa personne,
-Et son deffaut enfin n'est que d'une couronne.
-
--*who_helene
-Timandre c'est assez, ce discours me déplaist,
-Et je le hay tout Prince et tout brave qu'il est :
-Sa derniere action, et sa haute insolence,
-M'ont assez témoigné qu'il perd la cognoissance :
-Mais s'il ne se remet dans⁎ son premier devoir,
-Quelque Prince qu'il soit, il verra mon pouvoir.
-Devant moy l'orgueilleux a menacé Phalante,
-Vous sçavez son caprice et son humeur boüillante,
-Gardez qu'il ne s'attaque à ce Prince estranger
-Puis que je le protege, et le sçauray venger.
-
-**** *book_ *id_IV03 *act_IV *date_1642 *creator_la_calprenede 
-
--*who_philoxene
-Reste d'une amitié⁎, que le traistre a blessee,
-Vains restes d'amitié⁎, sortez de ma pensee,
-Et ne tourmentez point, souvenirs superflus,
-Un cœur desesperé qui ne vous cognoist plus.
-Malheureuse amitié⁎ dans nos ames esteintes,
-Va retrouver Phalante, et luy faire ta plainte,
-Ce traistre le premier a violé sa foy,
-Et je suis le dernier qui peche contre toy,
-Quitte donc pour jamais une ame desolée,
-Et ne l'accuse point de t'avoir violée,
-Cet esprit innocent ne se sent point touché
-Par le moindre remords d'un semblable peché,
-Et pour te témoigner comme il te fut fidelle,
-Amitié⁎ violée il prendra ta querelle :
-Il perdra la lumiere, ou punira l'ingrat,
-Qui de tes saintes loix a fait si peu d'estat,
-Et sans craindre l'horreur dont sa faute est suivie,
-T'a le premier enfrainte aux dépens de ma vie.
-Monstre d'ingratitude et d'infidelité,
-Regarde en quel estat tu m'as precipité ?
-Regarde desloyal de combien de supplices
-Ou de combien de morts tu payes mes services ?
-Mais ne te vante pas, monstre de cruauté,
-De m'arracher la vie avec impunité :
-Perfide en quelque endroit que le Soleil t'éclaire,
-Rien ne te peut ravir à ma juste cholere :
-Cherche pour ton salut⁎ cent aziles divers⁎,
-Ou monte dans les cieux, ou descens aux enfers.
-Le ciel, ny les enfers, ny la terre, ny l'onde,
-Te deussent-ils cacher aux yeux de tout le monde,
-Ne te sçauroient cacher à mon juste courroux ;
-J'arracheray ce cœur percé de mille coups,
-Et goustant dans sa veuë une derniere joye,
-Je mourray satisfait, pourveu que je le voye.
-Que je puisse à ce cœur noircy de lâchetez,
-Reprocher en mourant ses infidelitez.
-Et laver dans ton sang la faute que j'ay faite,
-D'honorer⁎ un ingrat d'une amitié⁎ parfaite.
-
-**** *book_ *id_IV04 *act_IV *date_1642 *creator_la_calprenede 
-
--*who_phalante
 Laissez-moy seul, Arbante !
 
--*who_philoxene
-      O grands Dieux je le voy.
-
--*who_arbante
-Je vous suivray, Seigneur.
-
--*who_phalante
       Arbante laisse moy.
 
--*who_philoxene
-Il faut mourir perfide.
-
--*who_phalante
       O Dieux !
 
--*who_philoxene 
-      Deffends toy traistre,
-Cette confusion que tu me fais paroistre,
-Est un effet leger du remords que tu sens,
-Mais il en faut mourir.
-
--*who_phalante
       Estes-vous hors du sens⁎
 Amy ?
 
--*who_philoxene
-      Quitte ce nom que ton crime viole,
-Homme sans cœur, sans foy, sans honneur⁎, sans parole,
-Ce nom ne t'est plus deu.
-
--*who_phalante
       Bons Dieux ! je suis confus,
 Philoxene, deux mots, ne me cognois-tu plus ?
 
--*who_philoxene
-Ouy je te cognois trop, et cette cognoissance
-Arme ce bras vangeur.
-
--*who_phalante
       Contre mon innocence.
 
--*who_philoxene 
-Ton innocence traistre, ah ! c'est estre innocent,
-De violer sa foy, de trahir un absent,
-Et d'oster lâchement par haine ou par envie,
-A son meilleur amy le repos et la vie ;
-C'est là ton innocence, et c'est trop discourir,
-Resous toy desloyal à tuer ou mourir.
-
--*who_phalante
 A mourir je suis prest, mais ce danger extreme
 Ne m'armera jamais contre un autre moy-mesme,
 Et tu verras ce fer se tourner contre moy,
@@ -1564,22 +1038,6 @@ Au souvenir d'un bien de ton ame effacé,
 De ne me cacher plus en quoy t'ay-je offencé,
 Et si c'est quelque erreur où ton ame demeure.
 
--*who_philoxene
-Ouy, perfide il est juste, et devant que je meure,
-Je te veux reprocher une infidelité
-Qui te rend detestable à la posterité,
-Je t'avois donc fié⁎ le secret de ma flame⁎,
-A toy seul, desloyal, j'avois ouvert mon ame,
-Pour trahir ma franchise, et rechercher pour toy
-Un bien que tu feignois de souhaitter pour moy :
-C'estoit donc l'amitié⁎ que tu m'avois promise,
-C'est ce que ta bonté rendoit à ma franchise,
-Et ce que tu devois à toute ma maison,
-Se devoit donc payer par cette trahison ?
-Tu t'acquitois, ingrat, en m'enlevant Helene,
-Et portant mille morts
-
--*who_phalante
       C'est assez Philoxene,
 Je t'entends, mais les Dieux, juges de tous mes soins⁎,
 Sont de mon proceder veritables tesmoins :
@@ -1589,15 +1047,6 @@ Si je ne t'ay servy dans cette occasion
 Avec plus de franchise et plus d'affection⁎
 Que jamais un amy.
 
--*who_philoxene
-      Je n'en suis plus en doute,
-Cherche pour t'excuser un autre qui t'écoute,
-Deffends-toy seulement : quoy tu manques de cœur ?
-Ah ! lasche deffends-toy, je te perdray d'honneur⁎,
-Et faisant à ta gloire⁎ une eternelle tache,
-Je publiray par tout
-
--*who_phalante
       Ah ! je ne suis point lâche,
 Tu le sçais Piloxene, et tu m'as veu souvent
 Dans⁎ de plus grands perils engagé trop avant,
@@ -1608,17 +1057,6 @@ Tu le devrois cognoistre au lieu d'en abuser,
 Et dans un procéder qui te doit satisfaire,
 Voir que je fais pour toy plus que je ne dois faire.
 
--*who_philoxene
-Tu dois mourir perfide, ah ! c'est trop écouter,
-Apres des trahisons dont je ne puis douter :
-J'en suis trop bien instruit, mets toy donc en deffence,
-Et témoigne à ta mort un peu de resistance,
-Bien que ma main resiste et s'arme contre toy,
-Sçache que tous les coups s'adresseront à moy :
-Et que tu me contraints de tirer une espée
-Que dans mon propre sang j'eusse plustost trempée.
-
--*who_phalante
 Les Dieux me sont tesmoins que j'ay souffert⁎ de toy
 Plus que tu n'esperois et plus que je ne doy,
 Et que sans ressentir une douleur extreme
@@ -1628,82 +1066,13 @@ Cherchons pour t'assouvir un lieu plus escarté,
 On nous peut descouvrir du quartier de la Reyne,
 Ce bois est plus commode, entrons-y Philoxene.
 
-**** *book_ *id_IV05 *act_IV *date_1642 *creator_la_calprenede
-
--*who_timandre
-Dieux ! que mon fils est prompt, et que sa folle humeur
-A ses meilleurs amis va causer de douleur !
-Dans⁎ les bouillans transports⁎ d'une aveugle cholere,
-Il n'escoute raison⁎, ny conseil, ny priere.
-Et suit de sa fureur l'aveugle mouvement :
-O jeune homme insensé !
-
--*who_cleomede
-      Courons-y promptement,
-Icy la diligence est assez importante,
-Arbante en quel endroit as-tu laissé Phalante ?
-
--*who_arbante
-Presque en ce mesme lieu, mais à mon grand regret,
-Lisant dans son visage un deplaisir secret,
-Que ses yeux et son teint ne font que trop paraistre,
-J'ay bien veu Philoxene approcher de mon maistre.
-
--*who_cleomede
-N'as-tu rien entendu ?
-
--*who_arbante
-      J'estois trop esloigné,
-Et mon maistre en partant ne m'a rien témoigné,
-Qui me fist redouter de les laisser ensemble,
-Estant si bons amis, je croyois
-
--*who_timandre
-      Dieux je tremble !
-Courons, ah ! que je crains que ce ne soit trop tard,
-Grands Dieux ! guidez mes pas.
-
--*who_cleomede
-      Courez d'une autre part.
-
-**** *book_ *id_IV06 *act_IV *date_1642 *creator_la_calprenede 
-
--*who_philoxene
-La justice des Dieux en ta faveur éclate,
-Et leur courroux enfin punit une ame ingrate,
-
--*who_phalante
 Philoxene.
 
--*who_philoxene
-      Je meurs, et ma temerité
-Reçoit enfin le prix qu'elle avoit merité,
-Je meurs, mais d'une mort qui n'est pas assez rude
-Pour punir cest ingrat de son ingratitude.
-
--*who_phalante
 Helas ! je reculois et je parois tes coups,
 Et toy seul transporté⁎ d'un trop boüillant courroux,
 Mesprisant une espée à son maistre infidelle,
 Tu t'es precipité dans sa pointe mortelle.
 
--*who_philoxene 
-Phalante, les Dieux seuls m'ont mis en cet estat,
-Mais si tu peux encore escouter un ingrat,
-Et si le souvenir d'une amitié⁎ passée
-Me peut encor laisser un lieu dans ta pensée,
-Pardonne, cher Phalante, à mon ressentiment,
-Je reconnois mon crime et mon aveuglement,
-J'eus tort de soupçonner une vertu si haute,
-Mais puis que je reçoy la peine⁎ de ma faute,
-Et lave de mon sang le mal que j'ay commis,
-Souffre⁎ qu'à mon trespas nous demeurions amis,
-Et que rien ne separe une amitié⁎ si sainte,
-Je l'ay par mon erreur indignement enfreinte,
-Mais croy s'il m'est permis apres ce que j'ay fait,
-Que mourant ton amy, je mourray satisfait.
-
--*who_phalante
 Quelque vive douleur que mon visage exprime,
 N'espere point de moy que j'excuse mon crime,
 Et que par ma douleur ou par quelque raison⁎
@@ -1730,38 +1099,6 @@ Si je n'ay fait pour toy dans ma commission
 Tout ce que ma promesse et ton affection⁎
 Ont jamais demandé d'une amitié⁎ parfaite.
 
--*who_philoxene
-Helas ! de ce costé mon ame est satisfaite,
-Vous n'avez que trop fait, mais puisque par pitié
-Vous me gardez encor cette entiere amitié⁎,
-Qui si peu meritée et si mal recogneuë
-Dans l'offence et le sang s'est tousjours maintenuë,
-Ne me refusez point pour mon soulagement
-Ma derniere requeste à mon dernier moment :
-Je ne puis plus douter qu'Helene ne vous ayme,
-Je le sçavois d'ailleurs et l'ay sceu d'elle-mesme.
-Vous la sçavez aussi, quoy que vostre vertu
-Pour un indigne amy contre elle ayt combatu.
-Vivez pour la servir, puis que les destinées⁎
-Trenchent pour son repos le cours de mes années,
-Faites luy desormais un traitement plus doux,
-Vous estes digne d'elle, elle est digne de vous,
-Et j'estois criminel en mettant quelque obstacle.
-
-**** *book_ *id_IV07 *act_IV *date_1642 *creator_la_calprenede
-
--*who_arbante
-Nous arrivons trop tard.
-
--*who_cleomede
-      Dieux, le triste spectacle !
-
--*who_timandre
-Acheve, acheve ingrat, apres ta trahison,
-Et te soüille du sang de toute ma maison,
-Meurs ou me fais mourir.
-
--*who_phalante
       Il est juste Timandre.
 Voicy, voicy le sang que vous devez répandre,
 Je suis ce desloyal, ce cruel, cet ingrat,
@@ -1774,44 +1111,12 @@ Vous qui vous opposez à sa juste cholere,
 Pourquoy retenés-vous les mouvemens d'un pere.
 Retirés-vous Arbante.
 
--*who_philoxene
-      Ah ! mon pere, deux mots,
-Et si vous desirés que je meure en repos,
-Ayez plus de respect pour un autre moy-mesme,
-Traictés mieux mon amy.
-
--*who_timandre
-      Quoy, tu veux que je l'ayme,
-Celuy qui de ton sang rougit indignement,
-Ce meurtrier de mon fils.
-
--*who_philoxene
-      Ah ! je meurs doublement.
-
--*who_timandre
-Ce monstre, ce cruel.
-
--*who_phalante
       Encore plus Timandre,
 Ce traistre, ce bourreau.
 
--*who_philoxene
-      Me voulez-vous entendre
-Mon Pere ? par ce nom et si cher et si doux,
-Par la clarté du jour que je receus de vous,
-Et qui dans un moment me doit estre ravie
-Dans les bras de celuy de qui je tiens la vie,
-Aymés, aymés Phalante, autant ou plus que moy,
-C'est un amy sans tache.
-
--*who_phalante
       Il t'a manqué de foy,
 T'a trahy, t'a tué.
 
--*who_philoxene
-      Ce desespoir m'offence.
-
--*who_phalante
 Non, non, si ce discours retarde sa vangeance,
 S'il a si peu de cœur et si peu d'amitié⁎,
 Que d'espargner un traistre indigne de pitié,
@@ -1820,24 +1125,11 @@ Ceste main qui me reste en est desja capable,
 M'ayant peu de ma vie enlever la moitié
 Penses-tu que pour l'autre elle ayt plus de pitié ?
 
--*who_timandre
-Ah ! mon fils, seul appuy d'une foible vieillesse,
-Seul espoir de mes jours, crois-tu que je te laisse ?
-
--*who_cleomede
-Il n'est plus temps de plaindre, il le faut secourir,
-Emportons-le chez vous, il peut encor guerir.
-Arbante assistez nous.
-
--*who_phalante
       O pitoyable office⁎,
 Helas avec quel cœur te rends-je ce service !
 Cher et noble fardeau d'un mal-heureux amy
 Dans⁎ ce reste d'espoir dois-je vivre à demy ?
 
-**** *book_ *id_V01 *act_V *date_1642 *creator_la_calprenede
-
--*who_phalante
 Esprit d'un cher amy que ma main meurtriere,
 Pour me priver de vie, a privé de lumiere,
 Belle ombre qui là bas errante sans soucy,
@@ -1932,35 +1224,15 @@ Il est comme un esclair dans mon ame passé
 Il se formoit à peine et tu l'as effacé,
 Mais je sçay qu'il t'offence et merite ta haine.
 
-**** *book_ *id_V02 *act_V *date_1642 *creator_la_calprenede
-
--*who_arbante
-Aminte vous vient voir de la part de la Reyne.
-
--*who_phalante
 Cruel redoublement à mes vives douleurs,
 Reyne pour qui je crains, Reyne pour qui je meurs,
 Quel soin⁎ te peut encor rester d'une ame ingrate.
 
--*who_aminte
-Encor ce mouvement de quelque espoir me flate,
-Il parle de la Reyne, ô Dieux changez ce cœur !
-
--*who_phalante
 Aminte quel dessein.
 
--*who_aminte 
-      Vous me voyez Seigneur
-Par le commandement d'une Reyne affligée.
-
--*who_phalante
 Dieux, pourquoy par ma mort n'est-elle soulagée ?
 Et je la souffrirois⁎ avec tant de plaisir.
 
--*who_aminte
-Seigneur dans ce papier vous verrés son desir.
-
--*who_phalante
 Si tout ce que j'ay faict n'a pû vous esmouvoir,
 Souffrés⁎ à mon trespas que je me satisface,
 Et que vous demandant le bon-heur de vous voir,
@@ -1968,7 +1240,6 @@ Pour la derniere fois j'obtienne ceste grace ;
 Je n'attens plus que vous pour partir de ce lieu,
 Que je ne puis quitter sans vous dire un adieu.
 
--*who_phalante
 Il est juste, il est temps que la mort nous separe,
 Mais toute sa rigueur n'est que pour ce barbare,
 Ma Reyne, ton escrit m'enseigne mon devoir,
@@ -1976,151 +1247,8 @@ C'est le plus doux arrest que j'en puis recevoir,
 Allons dire un adieu qui finit ma disgrace.
 Il est juste, il est temps que je te satisfasse.
 
-**** *book_ *id_V03 *act_V *date_1642 *creator_la_calprenede
-
--*who_arate
-Ah ! Madame, voyez nos sensibles regrets,
-Helas ! que vous ont fait vos fideles sujects,
-Qui vous puisse obliger par un excez de haine
-A les faire mourir dans⁎ la mort de leur Reyne ?
-Ouy Madame mourir, vostre Empire est si doux,
-Que ce Royaume entier doit perir avec vous :
-Et quand par ceste mort vous leur serez ravie,
-Ce coup enlevera leur repos et leur vie.
-C'est ce qu'à leurs souhaits vous aviez donc promis,
-C'est le sanglant arrest que vous aviez remis,
-Et vos rigueurs, Madame, à leur douce semonce
-Destinoient⁎ ceste ingrate et cruelle responce.
-Helas ! considerez à quelle extremité
-Vous nous reduisez tous par ceste cruauté,
-Et si vous dédaignez un peuple qui vous ayme,
-Considerez quel tort vous faites à vous mesme,
-Combien on blâmera ce dessein furieux⁎,
-Combien ce desespoir irritera les Dieux.
-Et de quelle importance est une telle injure,
-Et contre les grands Dieux et contre la Nature.
-
--*who_cleomede
-Destruirez-vous ainsi leur chef-d'œuvre plus beau,
-Et par vos propres mains mettrez-vous au tombeau
-La plus grande, plus juste, et plus belle personne,
-Qui parmy les mortels ayt porté la couronne.
-Madame, par pitié songez encore à vous,
-Vos fideles subjects vous en conjurent tous.
-Ah ! ne refusez plus leur priere et leur ayde,
-On peut encore au mal donner quelque remede,
-Peut estre ce poison n'est pas si violent
-Qu'on n'y puisse apporter
-
--*who_helene
-      Helas ! il est trop lent,
-Et le cruel servant mon ingrate fortune⁎,
-Laisse par trop durer une vie importune⁎ :
-Mais bien qu'il soit si lent à servir ma douleur,
-Je sens bien mes amis qu'il approche du cœur,
-Qu'il gaigne ceste noble et derniere partie,
-Et que desja mon ame est prés de sa sortie.
-Ne respandez donc plus tant d'inutiles pleurs,
-Et ne me donnez point par vos vives douleurs
-Celle de vous quitter, et ceste preuve insigne
-D'une fidelité dont je me sens indigne,
-Ne me regrettez point trop fideles sujects,
-Ma derniere action condamne vos regrets,
-Et par des laschetés dont le remords m'accable,
-Du rang que j'ay tenu, je me rends incapable :
-Celle qui du devoir a fait si peu d'estat,
-Et qui s'est abaissée à prier un ingrat,
-Soubmettant à ses pieds son Sceptre et sa personne,
-Est indigne à jamais de porter la Couronne,
-Et de regner encor sur des gens comme vous,
-Apres des laschetez qui les offencent tous.
-Ceste seule raison m'a sans doute poussée
-A vanger par ma mort ma dignité blessée,
-Et satisfaire ainsi mon peuple et mon devoir,
-Plustost par la raison⁎ que par le desespoir.
-Ce n'est point mes amis une amour qui me porte
-A donner de mon deüil une preuve si forte,
-Si je mourois pour luy, l'ingrat seroit trop vain,
-Et j'ay dans⁎ mon trespas un plus juste dessein,
-Je meurs pour me donner la peine⁎ qui m'est deuë,
-Et ne survivre point à ma gloire⁎ perduë.
-Heureuse en mon trespas, si de vostre penser
-La cause de ma mort se pouvoit effacer,
-Et s'il peut parmy vous sauver la renommée
-De celle qu'autresfois vous avez tant aymée,
-J'ay voulu mes amis vous voir tous en ce lieu,
-Pour vous en supplier, et pour vous dire adieu.
-Veüillent les immortels eslever à ma place
-Un Roy digne de vous, et qui vous satisface
-Par sa protection et par mille bien-faits
-Autant que mon malheur vous a peu satisfaits.
-
--*who_arate
-Ah ! discours qui me blesse au plus vif de mon ame.
-
-**** *book_ *id_V04 *act_V *date_1642 *creator_la_calprenede
-
--*who_phalante
 Quel estrange⁎ spectacle ?
 
--*who_cleone
-      Ah ! je meurs.
-
--*who_cleomede
-      Ah ! Madame,
-Vous pouvés-vous resoudre à nous quitter ainsi ?
-Eh bien, nous vous suivrons.
-
--*who_helene
-      O grands Dieux le voicy.
-Ah ! le cruel, mon cœur fremit à ceste veuë,
-Et d'un object si cher mon ame retenuë,
-Bien que cet inhumain la presse de partir,
-S'arreste sur le bord toute preste à sortir.
-Approchez-vous Phalante, et si dans⁎ vostre haine
-Vous estes insensible aux malheurs d'une Reyne,
-Que vostre cruauté met en ce triste estat,
-Par ce funeste object soulez⁎ ce cœur ingrat.
-Je vous ay fait sortir de ces demeures sombres,
-Où vous vous occupez à l'entretien des ombres,
-Pour donner à vos yeux un divertissement,
-Qui doit à vos douleurs servir d'allegement,
-Pour reparer ma faute et souler⁎ vostre haine,
-Je vay dans les enfers redire à Philoxene
-Par quel trait de constance ou d'inhumanité,
-Vous signalez encor vostre fidelité,
-Puis que par mon trepas je respare mon crime,
-Et qu'il reçoit de vous une telle victime ;
-S'il conserve pour nous quelque reste de foy
-Il sera satisfait et de vous et de moy.
-Pour vous, bien qu'il me reste un suject assés ample,
-D'accuser en mourant des rigueurs sans exemple,
-Et qu'ayant merité des traitemens plus doux,
-J'eusse quelque raison de me plaindre de vous,
-Les Dieux me sont tesmoins que je vous voy sans haine,
-Et que de mon erreur je vais souffrir⁎ la peine⁎,
-En demandant au Ciel pour dernieres faveurs,
-Qu'il face prosperer l'ingrat pour qui je meurs ;
-Vivez dans le repos où ma mort vous fait vivre,
-Les importunitez⁎ dont elle vous delivre
-Ne viendront plus troubler⁎ vostre tranquillité,
-Et n'esbranleront plus vostre fidelité.
-J'ay pris pour ce dessein un poison salutaire⁎,
-Qui doit laver ma faute, et vous doit satisfaire,
-Vous faisant avoüer que je meurs à propos,
-Pour l'honneur⁎ qui me reste et pour vostre repos.
-Cependant si je puis apres tant de prieres
-Croire que vos bontez exaucent les dernieres,
-Accordez moy ce bien quelque amour qu'il ayt eu
-De croire que mon cœur adoroit la vertu,
-Et que jamais peut estre une plus saincte flame⁎,
-Ny de plus beaux desseins n'allumerent une ame,
-Si j'obtiens en mourant ceste grace de vous
-Dans mon dernier moment mon sort⁎ sera plus doux,
-Et mon ame aux enfers ira tres-satisfaite,
-En ayant obtenu tout ce que je souhaite.
-
--*who_phalante
 Esprit de mon amy plein d'amour et de foy,
 Toy qui sçais maintenant ce que j'ay fait pour toy,
 Si de mes actions la derniere t'offence,
@@ -2197,33 +1325,8 @@ Et vous ressouvenez que pour vous contenter
 Vos yeux dessus ce fer l'ont veu precipiter,
 Et que sa mort est douce en reparant son crime.
 
--*who_helene
-O reparation qui n'est plus legitime,
-Ah ! Phalante.
-
--*who_arbante
-      Ah ! mon Maistre, ô malheur de mes jours !
-Helas ! assistés-moy.
-
--*who_phalante
       J'abhorre ton secours.
 
--*who_helene
-Ah ! cruel à moy seule, et non pas à toy-mesme,
-Qui te donnes la mort à cause que je t'ayme,
-Pour me perdre deux fois, faisant un double effort,
-Et cruel dans ta vie, et cruel dans ta mort.
-Acheve, acheve ingrat, et s'il te reste encore,
-Un rayon de pitié pour celle qui t'adore,
-Finis ton homicide et preste en ma faveur
-Et ton fer et ta main pour en percer ce cœur,
-C'est là qu'il faut donner la derniere blessure,
-Et que tu dois percer ta vivante figure,
-Ta derniere retraite⁎ est dans cette prison
-Cherche toy la, cruel, et previen⁎ le poison,
-Il est lasche, il est lent, suppleons,
-
--*who_phalante
       Ah ! Madame,
 De grace en ce moment où je vous rends une ame
 Toute pleine de zele et d'amour et de foy,
@@ -2234,21 +1337,640 @@ Et qu'ayant fait mourir ma Reyne et mon amy,
 Je ne puis en mourant les payer qu'à demy.
 Je perds la voix, adieu recevez
 
--*who_helene
-      Ah ! Phalante.
 
--*who_arbante
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
+
+Ces regards enflammés que lancent vos beaus yeus,
+Ne sont que des esclairs pour cet audacieus,
+Et sa presomption a merité la foudre⁎,
+Dont ils s'arment desja pour le reduire en poudre.
+Ouy, Madame, il est juste, et vostre Majesté
+Me doit enfin punir de ma temerité ;
+J'abuse insolemment des bontés de ma Reine,
+Du respect qu'un vassal doit à sa Souveraine,
+Et dans⁎ ma passion⁎ je ne recognoy pas,
+Et combien elle est haute, et combien je suis bas.
+Mon audace a rendu ma faute irrémissible,
+Ma flamme⁎ est criminelle en tant qu'elle est visible,
+Aussi n'ay-je peché qu'en vous la descouvrant,
+Et je devois mourir, et me taire en mourant :
+Mais quelque passion⁎ qui rompe mon silence,
+Ne m'en accusez point, on me fait violence,
+Et ce Tyran des Dieux, d'un insolent pouvoir ;
+Dans⁎ mon aveuglement estouffe mon devoir,
+Ma passion⁎ l'emporte avec trop d'avantage,
+Et ceux à qui vos yeux laissent encor l'usage,
+Et de la cognoissance et du raisonnement⁎,
+Quelques prudens qu'ils soient, manquent de jugement,
+Si l'on brûloit pour vous d'une flamme⁎ commune ;
+
+Si pour vous adorer j'ay pû commettre un crime,
+J'ay failly,
+
+Je me cognois Madame, et ceste amour extréme,
+Qui m'a presque en naissant detaché de moy mesme,
+Ne m'aveugle pas tant, que pour comble d'ennuys⁎
+Je ne puisse juger qui j'ayme et qui je suis,
+Si de vous adorer la gloire⁎ est interdite,
+A ceux que la grandeur, le sang et le merite,
+Ne rendent point egaux à vostre Majesté,
+Qui se pourra vanter de l'avoir merité ?
+Mais si par les ardeurs d'une flame⁎ eternelle
+Par un profond respect, par un feu⁎ plein de zele,
+Par des preuves d'amour, de constance et de foy,
+On le peut espérer, qui le doit mieux que moy ?
+Tousjours vos volontés ont fait mes destinées⁎,
+Je vous ay dedié mes premieres années.
+Naissant je vous servis, et les Dieux sont tesmoins
+Que le Sceptre à vos loix m'assujetit le moins,
+Que mon cœur asservy du plus bas de mon âge,
+Sans contrainte à vos pieds rendit un double hommage,
+Et ne mesla jamais dans⁎ ses sainctes ardeurs,
+A l'interest d'amour l'interest des grandeurs :
+Je fus deux fois subjet, vous deux fois Souveraine,
+Et vivant avec gloire⁎, esclave de ma Reyne,
+J'eus dés vos jeunes ans, eslevé pres de vous,
+Et des bon-heurs plus grands, et des momens plus dous.
+Vous excusiez pour lors ma passion⁎ naissante,
+Qui vous entretenoit d'un amour innocente,
+Vostre esprit jeune encor differoit mon trespas,
+Et me pleignoit d'un mal qu'il ne cognoissoit pas.
+Mais helas ! que le Ciel a mis de difference
+A la suitte d'un bien si grand dans sa naissance !
+Mon cœur ne changea point, mais le vostre changea,
+Si-tost que sous vos loix Corinthe se rangea :
+Quand vostre dignité s'accrut avec vostre aage,
+Et que la majesté qui brille en ce visage,
+Receut d'une couronne un esclat tout nouveau,
+Toute mon esperance entra dans le tombeau,
+Vous ne cogneustes plus le pauvre Philoxene,
+Son amour seulement fit naistre votre haine,
+Et ce ressentiment⁎ qui vous peut animer
+Ne vous le fait haïr que pour vous trop aymer.
+
+Qu'il arrive à propos, cher amy je vous laisse,
+Ma vie est en vos mains et j'attens tout de vous.
+
+Quelques vaines raisons que sa froideur m'oppose,
+Si Phalante pouvoit me cacher quelque chose,
+J'aurois subjet de plainte, et croirois desormais,
+N'en estant plus aymé qu'il ne m'ayma jamais.
+Je vous conjure donc par toute la franchise,
+Et toute l'amitié⁎ que vous m'avez promise,
+De ne me cacher plus ce qui me fait mourir,
+Et pour vous soulager s'il ne faut que perir,
+S'il ne faut prodiguer que mon sang et ma vie,
+Soyés tres-asseuré que j'en brusle d'envie,
+Et que pour vous servir j'embrasseray la mort.
+
+      Ah ! ce discours me tuë :
+Juste ciel falloit-il pour comble de douleur,
+Qu'un innocent amy partageât mon malheur,
+Et que n'ayans qu'un cœur et qu'une ame commune,
+Nous ne deussions avoir qu'une mesme fortune⁎ ?
+Certes, de tous les coups de mon sort⁎ rigoureux
+C'est là le plus sensible et le plus douloureux,
+Et mon mal ne pouvoit venir au poinct extreme,
+Qu'en se communiquant à cet autre moy-mesme.
+Malheureux Philoxene, Amant⁎ infortuné,
+Regarde à quelle fin le ciel t'a destiné⁎,
+Voy de quelle rigueur sa cholere t'accable,
+Il fait de ta misere un autre miserable :
+Et punit de ta faute un innocent amy,
+Pour voir perir un tout qui souffroit à demy.
+Ah ! Phalante, c'est trop, et je hay trop ma vie,
+Dans⁎ les maux eternels dont je la voy suivie,
+Pour souhaitter encor qu'elle dure à ce prix,
+Laissons, laissons Helene avecque ses mépris :
+S'ils ne m'ont pû guerir que la mort m'en delivre,
+Mon amour l'importune⁎ et je suis las de vivre.
+Philoxene au tombeau n'importunera⁎ plus
+La Reyne et son amy par des soins⁎ superflus,
+Et le profond repos qu'il goustera luy-mesme,
+Dans⁎ un mesme repos mettra tout ce qu'il ayme.
+
+O Dieu ! qu'en mes malheurs ce souvenir m'est doux,
+Et que j'ay de bonheur parmy tant de disgrace,
+D'avoir fait un amy,
+
+La Reyne ayme Phalante.
+
+      Ah ! Cleone,
+Regarde la douleur que ce discours me donne,
+Et si ton amitié⁎ ne me peut secourir,
+Du moins n'invente rien qui me fasse mourir :
+Tu lances sur ma vie une mortelle foudre⁎,
+
+Tu m'offençois Cleone, et quoy que mon salut⁎,
+
+Et Phalante,
+
+C'est assez, juste ciel !
+
+      Vy dans⁎ cette asseurance,
+Et previens⁎ cet esprit de tes bonnes leçons,
+Mais entrons, je veux mieux éclaircir mes soupçons.
+
+Que fait la Reyne, Aminte ?
+
+      Et de quoy.
+
+Puis-je bien approcher de vostre Majesté,
+Et divertir ses soins⁎ sans importunité⁎ ?
+Quelque nouveau chagrin paroist sur son visage,
+Pleust aux Dieux que je peusse en tirer avantage,
+Et que cette douleur dont je sens la moitié,
+Fut dans vostre belle ame un effet de pitié.
+
+Bien que je me cognoisse, et que dans vostre estime
+Ma passion⁎ aveugle ait passé pour un crime,
+Je ne suis pas sorty des termes du devoir,
+Et si vostre bonté m'en donne le pouvoir,
+Je vous diray Madame avec quelque licence⁎,
+Que cette passion⁎ ne vous fait point d'offence.
+Bien que je sois sujet, on sçait assez mon rang,
+Que parmy vos vassaux je suis prince du sang.
+Qu'autrefois mes ayeulx ont porté la couronne,
+Et qu'en me regardant je ne cognoy personne
+De ceux que la naissance a mis sous vostre loy,
+Qui de sang et de biens ne soit plus bas que moy.
+Mais ce n'est point par là que mon cœur se propose
+De pouvoir pres de vous meriter quelque chose,
+Mon amour seulement m'a donné cest espoir,
+Et depuis que je sers par un double devoir,
+Dans⁎ une passion⁎ si sainte et si fidele,
+Je vous ay témoigné tant d'ardeur et de zele.
+Et sans en murmurer j'ay tant souffert pour vous,
+Que j'ay creu meriter un traitement plus doux,
+Accordez-le, Madame, à ma perseverance :
+Et donnez par pitié.
+
+Vostre pouvoir est grand, et ma faute est plus grande ;
+Mais si pour l'expier, c'est mon sang qu'on demande,
+J'espargneray la peine⁎ à vostre Majesté,
+De me faire punir de ma temerité.
+Cent fois en vous servant on me l'a veu répandre,
+Et puis que cest arrest me le fait trop comprendre,
+Et que dans vos discours je voy vostre desir,
+Mon ame obeyssante y court avec plaisir,
+Je quitte sans regret une vie importune⁎,
+Ma perte seulement establit ma fortune,
+Et je meurs trop heureux puis que dans⁎ mon trespas
+Je vous rends un devoir qui ne vous déplaist pas :
+Pour le moins ce bonheur dont ma mort est suivie,
+M'est plus advantageux que tous ceux de ma vie,
+Vivant je vous dépleus, je vous plais en mourant,
+Et je vous rends encore un service assez grand,
+Puis que par mon trespas j'asseure les delices,
+De celuy qui reçoit le prix de mes services :
+Je porte le respect dans⁎ une extremité,
+Où par vos traitemens je suis precipité,
+Et mon ressentiment⁎ me force de vous dire
+Qu'un autre plus heureux a ce que je desire :
+Et malgré mon amour, ma constance et ma foy,
+Emporte le beau prix qui n'estoit deu qu'à moy.
+
+Phalante, ah ! le perfide.
+
+Reste d'une amitié⁎, que le traistre a blessee,
+Vains restes d'amitié⁎, sortez de ma pensee,
+Et ne tourmentez point, souvenirs superflus,
+Un cœur desesperé qui ne vous cognoist plus.
+Malheureuse amitié⁎ dans nos ames esteintes,
+Va retrouver Phalante, et luy faire ta plainte,
+Ce traistre le premier a violé sa foy,
+Et je suis le dernier qui peche contre toy,
+Quitte donc pour jamais une ame desolée,
+Et ne l'accuse point de t'avoir violée,
+Cet esprit innocent ne se sent point touché
+Par le moindre remords d'un semblable peché,
+Et pour te témoigner comme il te fut fidelle,
+Amitié⁎ violée il prendra ta querelle :
+Il perdra la lumiere, ou punira l'ingrat,
+Qui de tes saintes loix a fait si peu d'estat,
+Et sans craindre l'horreur dont sa faute est suivie,
+T'a le premier enfrainte aux dépens de ma vie.
+Monstre d'ingratitude et d'infidelité,
+Regarde en quel estat tu m'as precipité ?
+Regarde desloyal de combien de supplices
+Ou de combien de morts tu payes mes services ?
+Mais ne te vante pas, monstre de cruauté,
+De m'arracher la vie avec impunité :
+Perfide en quelque endroit que le Soleil t'éclaire,
+Rien ne te peut ravir à ma juste cholere :
+Cherche pour ton salut⁎ cent aziles divers⁎,
+Ou monte dans les cieux, ou descens aux enfers.
+Le ciel, ny les enfers, ny la terre, ny l'onde,
+Te deussent-ils cacher aux yeux de tout le monde,
+Ne te sçauroient cacher à mon juste courroux ;
+J'arracheray ce cœur percé de mille coups,
+Et goustant dans sa veuë une derniere joye,
+Je mourray satisfait, pourveu que je le voye.
+Que je puisse à ce cœur noircy de lâchetez,
+Reprocher en mourant ses infidelitez.
+Et laver dans ton sang la faute que j'ay faite,
+D'honorer⁎ un ingrat d'une amitié⁎ parfaite.
+
+      O grands Dieux je le voy.
+
+Il faut mourir perfide.
+ 
+      Deffends toy traistre,
+Cette confusion que tu me fais paroistre,
+Est un effet leger du remords que tu sens,
+Mais il en faut mourir.
+
+      Quitte ce nom que ton crime viole,
+Homme sans cœur, sans foy, sans honneur⁎, sans parole,
+Ce nom ne t'est plus deu.
+
+Ouy je te cognois trop, et cette cognoissance
+Arme ce bras vangeur.
+ 
+Ton innocence traistre, ah ! c'est estre innocent,
+De violer sa foy, de trahir un absent,
+Et d'oster lâchement par haine ou par envie,
+A son meilleur amy le repos et la vie ;
+C'est là ton innocence, et c'est trop discourir,
+Resous toy desloyal à tuer ou mourir.
+
+Ouy, perfide il est juste, et devant que je meure,
+Je te veux reprocher une infidelité
+Qui te rend detestable à la posterité,
+Je t'avois donc fié⁎ le secret de ma flame⁎,
+A toy seul, desloyal, j'avois ouvert mon ame,
+Pour trahir ma franchise, et rechercher pour toy
+Un bien que tu feignois de souhaitter pour moy :
+C'estoit donc l'amitié⁎ que tu m'avois promise,
+C'est ce que ta bonté rendoit à ma franchise,
+Et ce que tu devois à toute ma maison,
+Se devoit donc payer par cette trahison ?
+Tu t'acquitois, ingrat, en m'enlevant Helene,
+Et portant mille morts
+
+      Je n'en suis plus en doute,
+Cherche pour t'excuser un autre qui t'écoute,
+Deffends-toy seulement : quoy tu manques de cœur ?
+Ah ! lasche deffends-toy, je te perdray d'honneur⁎,
+Et faisant à ta gloire⁎ une eternelle tache,
+Je publiray par tout
+
+Tu dois mourir perfide, ah ! c'est trop écouter,
+Apres des trahisons dont je ne puis douter :
+J'en suis trop bien instruit, mets toy donc en deffence,
+Et témoigne à ta mort un peu de resistance,
+Bien que ma main resiste et s'arme contre toy,
+Sçache que tous les coups s'adresseront à moy :
+Et que tu me contraints de tirer une espée
+Que dans mon propre sang j'eusse plustost trempée.
+
+La justice des Dieux en ta faveur éclate,
+Et leur courroux enfin punit une ame ingrate,
+
+      Je meurs, et ma temerité
+Reçoit enfin le prix qu'elle avoit merité,
+Je meurs, mais d'une mort qui n'est pas assez rude
+Pour punir cest ingrat de son ingratitude.
+ 
+Phalante, les Dieux seuls m'ont mis en cet estat,
+Mais si tu peux encore escouter un ingrat,
+Et si le souvenir d'une amitié⁎ passée
+Me peut encor laisser un lieu dans ta pensée,
+Pardonne, cher Phalante, à mon ressentiment,
+Je reconnois mon crime et mon aveuglement,
+J'eus tort de soupçonner une vertu si haute,
+Mais puis que je reçoy la peine⁎ de ma faute,
+Et lave de mon sang le mal que j'ay commis,
+Souffre⁎ qu'à mon trespas nous demeurions amis,
+Et que rien ne separe une amitié⁎ si sainte,
+Je l'ay par mon erreur indignement enfreinte,
+Mais croy s'il m'est permis apres ce que j'ay fait,
+Que mourant ton amy, je mourray satisfait.
+
+Helas ! de ce costé mon ame est satisfaite,
+Vous n'avez que trop fait, mais puisque par pitié
+Vous me gardez encor cette entiere amitié⁎,
+Qui si peu meritée et si mal recogneuë
+Dans l'offence et le sang s'est tousjours maintenuë,
+Ne me refusez point pour mon soulagement
+Ma derniere requeste à mon dernier moment :
+Je ne puis plus douter qu'Helene ne vous ayme,
+Je le sçavois d'ailleurs et l'ay sceu d'elle-mesme.
+Vous la sçavez aussi, quoy que vostre vertu
+Pour un indigne amy contre elle ayt combatu.
+Vivez pour la servir, puis que les destinées⁎
+Trenchent pour son repos le cours de mes années,
+Faites luy desormais un traitement plus doux,
+Vous estes digne d'elle, elle est digne de vous,
+Et j'estois criminel en mettant quelque obstacle.
+
+      Ah ! mon pere, deux mots,
+Et si vous desirés que je meure en repos,
+Ayez plus de respect pour un autre moy-mesme,
+Traictés mieux mon amy.
+
+      Ah ! je meurs doublement.
+
+      Me voulez-vous entendre
+Mon Pere ? par ce nom et si cher et si doux,
+Par la clarté du jour que je receus de vous,
+Et qui dans un moment me doit estre ravie
+Dans les bras de celuy de qui je tiens la vie,
+Aymés, aymés Phalante, autant ou plus que moy,
+C'est un amy sans tache.
+
+      Ce desespoir m'offence.
+
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_timandre
+
+Nous serions trop ingrats à tant de bons offices⁎,
+Dont vous avez desja prévenu⁎ nos services,
+Si nous ne vous pressions pour apprendre de vous
+La cause d'un chagrin qui nous afflige tous,
+Vous estes tout changé d'humeur et de visage,
+Et je cognois trop bien ce genereux courage,
+Qui s'est tousjours muny d'une haute vertu,
+Et que tant de revers ont en vain combatu,
+Pour craindre que des maux de si peu d'importance,
+En puissent esbranler l'invincible constance :
+Si des rebellions ont troublé⁎ vostre Estat,
+Si vous avez perdu vostre premier estat,
+Et s'il vous faut ceder au malheur d'une guerre,
+Qui vous fait esloigner de vostre ingrate terre :
+Pour le moins vostre sort⁎ me paroist assez doux
+Dans le port asseuré qu'il vous offre chez nous
+Icy tout vous adore et jamais autre prince,
+Ne fut plus reveré dans sa propre province,
+Vostre vertu d'abord a produit mille effets,
+Vous a gaigné des cœurs, vous a fait des subjets
+Vous a fait surmonter et l'enuie et la haine,
+Et vous a si bien mis dans l'esprit de la Reyne,
+Que pour cette bonté qui les oblige tous,
+Les Princes du pays n'ont plus recours qu'à vous ;
+Mesmes vos interest⁎ l'ont si fort animée,
+Qu'elle rompt l'alliance, et forme un corps d'armée :
+Vous donnant le secours qu'elle vous a promis,
+Pour vous aller servir contre vos ennemis.
+Phalante ces raisons me font assez cognoistre,
+Que ce nouveau chagrin que vos yeux font paroistre :
+Et la vive douleur qui vous change à ce poinct,
+Ont quelque autre subjet que nous ne sçavons point.
+Si l'amitié⁎ jurée, et quelque experience,
+Ont merité l'honneur⁎ de vostre confidence,
+Ne dissimulez-plus à des amis discrets,
+Vos soings⁎ plus importans, et vos maux plus secrets.
+
+La Reyne le méprise avec peu de raison⁎,
+Elle doit mieux traitter une illustre maison :
+Et juger quelque rang qu'un changement nous donne,
+Qu'autrefois nos ayeulx ont porté sa couronne,
+Je suis subjet, mais Prince, et son pere en mourant
+Fit de nostre maison un cas bien different,
+Et mettant en mes mains son Sceptre et sa famille,
+Il me nomma Regent et Tuteur de sa fille :
+Quelque faiste d'honneur⁎ où je fusse monté,
+Je n'abusay jamais de cette authorité.
+Je pouvois au despens d'une foible jeunesse,
+Agrandir ma maison des biens que je luy laisse :
+Et me rendre si grand qu'elle eut bien souhaitté,
+Celuy qu'elle rejette avec indignité,
+Mais le ciel m'est tesmoin qu'en ma charge importune⁎,
+Je ne consideray ny moy ny ma fortune⁎ :
+Et quoy que ce pays deust beaucoup à mes soins⁎,
+Que de tous mes voisins j'y profitay le moins,
+Certes sa Majesté le devroit mieux cognoistre
+Que par ce grand mépris qu'elle nous fait paroistre
+Et mieux considerer le merite et le sang,
+De ceux qui dans l'Estat tiennent le premier rang.
+
+Lors que par un mary vous serez soulagée,
+De ce pesant fardeau, vostre ame dégagée,
+Dans un calme profond goustera le repos,
+Qu'un soing⁎ continuel luy trouble⁎ à tout propos,
+D'un peuple satisfait vous serez reverée,
+Et d'un prince obligé vous serez adorée :
+Qui trouvant à vos pieds un empire plus doux,
+Y mettra le bandeau qu'il recevra de vous.
+Vous donnerez un Roy de qui vous serez Reyne,
+Il vous reconnoistra comme sa Souveraine :
+Et conservant le rang et l'estat d'aujourd'huy,
+Plus que sur vos sujets vous regnerez sur luy.
+
+Dieux ! rendez son dessein tel que je le desire.
+
+Quel espoir pour mon fils cache tes sentimens,
+Voulez-vous m'honorer⁎ de vos commandemens ?
+
+      O Dieux !
+
+Il a tort de déplaire à vostre Majesté,
+Mais dans⁎ le desespoir où vous l'avez jetté,
+Par les cruels effets d'une rigueur extreme,
+Il ne recognoit plus son devoir ny soy-mesme :
+L'aveuglé dans⁎ l'estat où vous l'avez reduit,
+Recevra mes leçons avec fort peu de fruit :
+Et ne recouvrera sa sagesse premiere
+Qu'au funeste moment qu'il perdra la lumiere.
+Helas ! qu'ay-je commis dans un gouvernement,
+Où j'ay consideré vostre bien seulement ?
+Qu'ay-je fait contre vous pour plonger ma vieillesse
+Dans⁎ une si sensible et mortelle tristesse,
+Pour me priver d'un fils dont l'appuy m'est si doux,
+Et de qui tout le crime est de mourir pour vous ?
+Un feu⁎ plein de respect le rend-il si coulpable ?
+Peche-t'il d'adorer un sujet adorable ?
+Et sa condition le met-elle si bas,
+Que sa presomption soit digne du trespas ?
+Ah ! vous cognoissez mieux son rang et sa naissance,
+L'amour d'un tel sujet ne vous fait point d'offence.
+Et mesme le feu Roy dans vostre âge plus bas,
+En vid les fondemens qu'il ne condamna pas.
+On ne peut mépriser son sang ny sa personne,
+Et son deffaut enfin n'est que d'une couronne.
+
+Dieux ! que mon fils est prompt, et que sa folle humeur
+A ses meilleurs amis va causer de douleur !
+Dans⁎ les bouillans transports⁎ d'une aveugle cholere,
+Il n'escoute raison⁎, ny conseil, ny priere.
+Et suit de sa fureur l'aveugle mouvement :
+O jeune homme insensé !
+
+      Dieux je tremble !
+Courons, ah ! que je crains que ce ne soit trop tard,
+Grands Dieux ! guidez mes pas.
+
+Acheve, acheve ingrat, apres ta trahison,
+Et te soüille du sang de toute ma maison,
+Meurs ou me fais mourir.
+
+      Quoy, tu veux que je l'ayme,
+Celuy qui de ton sang rougit indignement,
+Ce meurtrier de mon fils.
+
+Ce monstre, ce cruel.
+
+Ah ! mon fils, seul appuy d'une foible vieillesse,
+Seul espoir de mes jours, crois-tu que je te laisse ?
+
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomede
+
+Madame pardonnez nostre importunité⁎,
+On n'attend au conseil que vostre Majesté,
+Et l'affaire qu'on traitte est assez importante
+Pour divertir un peu,
+
+Enfin ce sont les vœux de toute la province,
+Vos fideles sujets vous demandent un prince,
+Et d'un commun accord vous prient par ma voix,
+De faire vivre en vous la race de nos Roys.
+Ce n'est pas qu'en effet le peuple et la noblesse
+Treuvent en vostre regne aucun trait de foiblesse,
+Et que l'on n'y remarque avec estonnement⁎
+Les plus heureux succez d'un bon gouvernement :
+On ne regna jamais avec plus de justice,
+Et jamais Souverain ne maintint sa police
+Avec plus de prudence, et plus d'authorité,
+Qu'on la voit maintenir à vostre Majesté :
+Depuis le bon succez de nos dernieres guerres,
+Vous avez estably le repos dans vos terres,
+Et par une honorable⁎ et glorieuse⁎ paix,
+Vous leur avez donné le calme pour jamais.
+Tout le monde l'admire en ce sexe, en cet aage,
+Et toutes ces raisons m'animent davantage,
+A vous impotuner et vous prier pour tous
+De nous donner un jour des Roys sortis de vous,
+
+      Courons-y promptement,
+Icy la diligence est assez importante,
+Arbante en quel endroit as-tu laissé Phalante ?
+
+N'as-tu rien entendu ?
+
+      Courez d'une autre part.
+
+      Dieux, le triste spectacle !
+
+Il n'est plus temps de plaindre, il le faut secourir,
+Emportons-le chez vous, il peut encor guerir.
+Arbante assistez nous.
+
+Destruirez-vous ainsi leur chef-d'œuvre plus beau,
+Et par vos propres mains mettrez-vous au tombeau
+La plus grande, plus juste, et plus belle personne,
+Qui parmy les mortels ayt porté la couronne.
+Madame, par pitié songez encore à vous,
+Vos fideles subjects vous en conjurent tous.
+Ah ! ne refusez plus leur priere et leur ayde,
+On peut encore au mal donner quelque remede,
+Peut estre ce poison n'est pas si violent
+Qu'on n'y puisse apporter
+
+      Ah ! Madame,
+Vous pouvés-vous resoudre à nous quitter ainsi ?
+Eh bien, nous vous suivrons.
+
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arbante
+
+Seigneur de quelque soing⁎ que vostre ame agitée,
+Déguise la douleur dont elle est tourmentée,
+Je voy bien au travers de ce déguisement,
+Ce qu'à ma passion⁎ vous cachez vainement.
+Pardonnez-moy Seigneur, si je vous importune⁎,
+Mais vous n'aurez jamais de mauvaise fortune⁎ :
+Que mon affection⁎ ne ressente avec vous,
+Si pour s'en décharger un mal devient plus doux,
+Et si vous conservez encor quelque memoire,
+D'une fidelité qui fut toute ma gloire⁎,
+Recompensez Seigneur, ces preuves de ma foy.
+
+Je vous suivray, Seigneur.
+
+Presque en ce mesme lieu, mais à mon grand regret,
+Lisant dans son visage un deplaisir secret,
+Que ses yeux et son teint ne font que trop paraistre,
+J'ay bien veu Philoxene approcher de mon maistre.
+
+      J'estois trop esloigné,
+Et mon maistre en partant ne m'a rien témoigné,
+Qui me fist redouter de les laisser ensemble,
+Estant si bons amis, je croyois
+
+Nous arrivons trop tard.
+
+Aminte vous vient voir de la part de la Reyne.
+
+      Ah ! mon Maistre, ô malheur de mes jours !
+Helas ! assistés-moy.
+
 Ah ! Seigneur.
 
--*who_helene 
-      Il est mort, et moy je suis vivante.
-Et l'effort du poison est si foible et si lent,
-Pour me faire mourir d'un coup plus violent,
-Bien que par ton moyen ma mort soit asseurée,
-Je te maudis cruel qui l'as tant differée,
-Et qui par ton secours me pourrois garantir
-Du regret qui me tuë avant que de partir.
-Ah ! je sens son approche, une mortelle glace
-Gagne desja mon cœur et l'ame qu'elle chasse,
-Va rejoindre Phalante au partir de ce lieu,
-Adieu mes chers amis ne pleurez plus, Adieu.
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
+
+Madame, quelqu'un vient.
+
+      Oüy Madame, c'est luy.
+
+Arate et Cleomede.
+
+      Oüy Seigneur.
+
+Asseurez vous, Seigneur, qu'avant que m'y resoudre,
+Je n'ay point épargné ma peine⁎ ny mes soins⁎,
+J'ay tout ozé pour vous, les Dieux m'en sont témoins :
+Et que pour destourner le coup qui vous menace,
+Je n'ay point redouté d'encourir sa disgrace,
+J'ay forcé le respect et la discretion
+Pour condamner cent fois sa folle passion⁎ :
+Et cent fois m'opposant à cette amour naissante,
+Contre mes sentimens j'ay médit de Phalante.
+
+Croyez qu'en mes discours j'avois un autre but,
+Et que je travaillois à forcer son caprice,
+Qui le luy rend aymable à vostre prejudice.
+Je voulois qu'à ses yeux il parust moins parfait,
+Et luy representant le tort qu'elle se fait,
+D'aymer un Estranger, et rechercher un Prince,
+Dépouillé de ses biens, chassé de sa province :
+à qui pour tout recours il ne restoit plus rien,
+Qu'un refuge chez elle, et d'appuy que le sien.
+Je luy representois vos fideles services,
+Le rang que vous tenez, et mille bons offices⁎,
+Que dans ses jeunes ans sa foiblesse receut,
+Des soins⁎ de vostre pere en la charge qu'il eut :
+Mais Seigneur ces discours ont redoublé sa flame⁎,
+Et cette resistance ayant picqué son ame,
+Elle s'est obstinée avec trop de mépris,
+Et contre la raison, et contre mes avis.
+
+      Je croy qu'il n'est pas insensible,
+Et que s'il n'est formé de nature impassible,
+S'il n'a les duretez d'un arbre ou d'un rocher,
+La Reyne a des appas qui le doivent toucher.
+
+      Gardez moy le silence,
+Vous me perdriez, Seigneur.
+
+      Ah ! je meurs.
+
+
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
+
+      Esperez-le Madame,
+Bannissez cette crainte, et recognoissez mieux,
+Cet amour qui triomphe et brille dans vos yeux :
+Si l'on n'en doit juger que selon l'apparance,
+
+      Elle est triste.
+
+Encor ce mouvement de quelque espoir me flate,
+Il parle de la Reyne, ô Dieux changez ce cœur !
+ 
+      Vous me voyez Seigneur
+Par le commandement d'une Reyne affligée.
+
+Seigneur dans ce papier vous verrés son desir.
+

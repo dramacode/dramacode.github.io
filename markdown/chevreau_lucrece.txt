@@ -1,6 +1,6 @@
 ---
 identifier: chevreau_lucrece  
-creator: Chevreau, Urbain  
+creator: Chevreau, Urbain ; Georges Forestier.  
 date: 1637  
 title: La Lucresse romaine. Tragédie  
 ---
@@ -2729,7 +2729,7 @@ Le puis-je déchirer s'il me fait le sçavoir ?
 Croiray-je à cét écrit qui cause ma tristesse⁎ ?  
 Le papier souffre⁎ tout, mais il est de Lucresse.  
 Portes-y donc les yeux mal-heureux Colatin,  
-Pour y lire l'arrest de ton mauvais destin.  < LETTRE DE LUCRESSE. >
+Pour y lire l'arrest de ton mauvais destin.   [326]
 *Vous cherchez le fer* [326]*et la flame* [327],  
 Pour mourir dans un lict d'honneur⁎,  
 Le vostre n'en a plus, et vostre pauvre fame  
@@ -4166,6 +4166,8 @@ Grammaire de la langue française du XVII*e* siècle
 [324] Signifie : tout de suite. (R.80)
 
 [325] Si signifie est-ce que ou au contraire.
+
+[326] LETTRE DE LUCRESSE.
 
 [326] Renvoie à l'épée.
 

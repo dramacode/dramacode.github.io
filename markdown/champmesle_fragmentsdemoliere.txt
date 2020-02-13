@@ -1,6 +1,6 @@
 ---
 identifier: champmesle_fragmentsdemoliere  
-creator: Champmeslé  
+creator: Champmeslé ; Georges Forestier.  
 date: 1682  
 title: Les Fragmens de Molière. Comédie.  
 ---

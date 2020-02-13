@@ -1,6 +1,6 @@
 ---
 identifier: nanteuil_amoursentinelle  
-creator: Clerselier, Denis ; dit Nanteuil  
+creator: Clerselier, Denis ; dit Nanteuil ; Georges Forestier.  
 date: 1669  
 title: L'Amour sentinelle ou Le Cadenas forcé. Comédie  
 ---
@@ -694,7 +694,7 @@ object (v. 93, 324) ; effect (v. 166), faict (v. 518). « La première éditio
 aage (v. 90), feeslée (v. 604). « Elle Académie … élimine un grand nombre d'anciens hiatus (dans *aage/âge, rheume/rhume, sceel/scel*, etc.) » [71].
 
 
-# L'AMOUR SENTINELLE OU LE CADENAS FORCÉ. COMEDIE.
+# L'AMOUR SENTINELLE OU LE CADENAS FORCÉ. COMEDIE. 
 
 
 ## A SON ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE [72].
@@ -2296,7 +2296,7 @@ Vous porter ce billet⁎.
     FERNANT.
                     Voyez son compliment.  
 
-    FLORANT.< LETTRE >
+    FLORANT. [145]
 MONSIEUR.
 Vous devez estre sans doute surpris de la maniere que j'en agis avec vous, c'est moy qui ay gardé Isabelle chez vous avec Croctin mon valet, elle est entre mes mains, et si vous souhaitez nostre alliance, vous aurez la bonté de me le faire sçavoir par le porteur de ce billet⁎.
 Clidamant.
@@ -2848,6 +2848,8 @@ Revue des traditions populaires
 [143] Isabelle donne le bracelet de ses cheveux comme une preuve de son amour à Clidamant.
 
 [144] Voir la note du vers 459.
+
+[145] LETTRE
 
 [145] ***Devant*** et *avant* ne se distinguent pas encore l'un de l'autre d'une manière précise. Tous les auteurs du XVII*e* siècle emploient *devant* au lieu de *avant* tantôt comme préposition, tantôt comme adverbe, et le construisent avec le que comparatif. La langue actuelle, tout en considérant *avant* comme préposition et adverbe de temps et *devant* comme préposition de lieu, peut donner quelquefois à *devant* le sens d'un adverbe de temps. (*Haase* A. *Syntaxe française du XVII*e* siècle*, Paris, 1975, p. 354-355).
 

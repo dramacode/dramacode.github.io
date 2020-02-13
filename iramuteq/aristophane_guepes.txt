@@ -1,2169 +1,1047 @@
 
 
-**** *book_ *id_I01 *act_I
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosias
 
--*who_sosias
-Holà !
-Hé !
-Que fais-tu là, infortuné Xanthias ?
+Holà ! Hé ! Que fais-tu là, infortuné Xanthias ?
 
--*who_xanthias
-J'essaie une diversion à ma garde de nuit.
+Tes côtes ont donc encouru quelque grand châtiment ? Ne sais-tu pas quel animal nous gardons là ?
 
--*who_sosias
-Tes côtes ont donc encouru quelque grand châtiment ?
-Ne sais-tu pas quel animal nous gardons là ?
-
--*who_xanthias
-Je le sais ; mais j'ai envie de dormir un peu.
-
--*who_sosias
 Cours-en donc le risque, d'autant que, moi aussi, je sens sur mes paupières se répandre un doux sommeil.
 
--*who_xanthias
-Es-tu fou réellement, ou délires-tu comme les Korybantes ?
-
--*who_sosias
 Non, mais je suis pris d'un sommeil émanant de Sabazios.
 
--*who_xanthias
-Comme moi tu adores donc Sabazios ; car tout à l'heure a fondu en vrai Mède, sur mes paupières, un sommeil alourdissant, et j'ai vu récemment un songe merveilleux.
+Et moi, vraiment, j'en ai eu un tel que je n'en vis jamais. Mais toi, parle le premier.
 
--*who_sosias
-Et moi, vraiment, j'en ai eu un tel que je n'en vis jamais.
-Mais toi, parle le premier.
-
--*who_xanthias
-Il m'a semblé voir un aigle d'une taille énorme s'abattre sur l'Agora, saisir dans ses serres un bouclier d'airain, l'emporter jusqu'au ciel, et puis ce bouclier tomber des mains de Kléonymos.
-
--*who_sosias
 Ce Kléonymos ne diffère donc en rien d'un logogriphe.
 
--*who_xanthias
-Pourquoi cela ?
-
--*who_sosias
 Quelqu'un des convives demandera comment le même monstre a perdu son bouclier sur la terre, dans le ciel et dans la mer.
 
--*who_xanthias
-Hélas !
-Quel malheur va-t-il m'arriver après la vue d'un pareil songe ?
+Ne t'inquiète pas. Il ne t'arrivera rien de terrible, j'en atteste les dieux.
 
--*who_sosias
-Ne t'inquiète pas.
-Il ne t'arrivera rien de terrible, j'en atteste les dieux.
-
--*who_xanthias
-C'est cependant quelque chose de terrible qu'un homme qui jette ses armes.
-Mais à toi de me dire le tien.
-
--*who_sosias
 Il a de l'importance : il s'y agit du vaisseau de l'État tout entier.
 
--*who_xanthias
-Dis-moi vite le fond de cale de l'affaire.
-
--*who_sosias
 Il m'a semblé, dans mon premier sommeil, voir sur la Pnyx des moutons réunis en séance, ayant bâtons et manteaux ; puis, au milieu de ces moutons, j'ai cru entendre pérorer une baleine vorace, qui avait la voix d'une truie qu'on grille.
 
--*who_xanthias
-Pouah !
-
--*who_sosias
 Qu'est-ce donc ?
 
--*who_xanthias
-Finis, finis : n'en dis pas davantage.
-Ce songe sent une odeur puante de cuir pourri.
-
--*who_sosias
 Cette maudite baleine avait une balance et pesait de la graisse de boeuf.
 
--*who_xanthias
-Hélas !
-Malheur !
-Il veut dépecer notre peau.
+J'ai cru voir auprès d'elle assis par terre Théoros avec une tête de corbeau. Alors Alkibiadès me dit, en grasseyant : «Legalde Théolos ; il a la tête d'un colbeau.»
 
--*who_sosias
-J'ai cru voir auprès d'elle assis par terre Théoros avec une tête de corbeau.
-Alors Alkibiadès me dit, en grasseyant : «Legalde Théolos ; il a la tête d'un colbeau.»
-
--*who_xanthias
-Excellent ce grasseyement d'Alkibiadès.
-
--*who_sosias
 N'est-ce pas là un présage étrange, Théoros devenu corbeau ?
 
--*who_xanthias
-Pas du tout, au contraire, c'est fort heureux.
-
--*who_sosias
 Comment ?
 
--*who_xanthias
-Comment ?
-D'homme il est devenu corbeau tout à coup.
-N'est-ce pas un présage évident qu'il va s'envoler de chez nous pour aller aux corbeaux ?
-
--*who_sosias
 Et je ne te donnerais pas deux oboles de récompense, à toi qui interprètes si sagement les songes !
 
--*who_xanthias
-Attends que j'explique le sujet aux spectateurs et que je leur expose quelques idées que voici : qu'on n'attende de nous rien de trop grand, ni un rire dérobé à Mégara.
-Nous n'avons pas deux esclaves lançant aux spectateurs des noix tirées d'une corbeille ; ni un Hèraklès frustré d'un dîner, ni Euripidès, criblé une seconde fois de nos railleries.
-Et si Kléôn a brillé, grâce à la Fortune, nous ne remettrons pas le même homme à la sauce piquante.
-Mais notre modeste sujet a une intention : sans aller au delà de votre finesse, il a plus de portée qu'une comédie banale.
-Nous avons un maître, qui dort là-haut, homme de mérite, sous le toit.
-Il nous a donné l'ordre, à nous deux, de garder son père, enfermé là dedans, afin qu'il ne franchisse pas la porte.
-Ce père est malade d'une maladie étrange, que pas un de vous ne connaîtrait, ni ne supposerait, si vous ne l'appreniez de nous.
-Devinez.
-Amynias, fils de Pronapos, ici présent, dit qu'il aime les dés : ce n'est pas vrai.
+De par Zeus ! Il juge de cette maladie d'après la sienne.
 
--*who_sosias
-De par Zeus !
-Il juge de cette maladie d'après la sienne.
-
--*who_xanthias
-Et ce n'est pas cela : il y a bien du «philo» dans l'origine de son mal.
-Mais sosias, ici présent, dit à Derkylos qu'il est «philopot».
-
--*who_sosias
 Pas du tout : c'est là une maladie d'honnêtes gens.
 
--*who_xanthias
-De son côté Nikostratos, du dême de Skambôn, prétend qu'il est «philothyte» ou «philoxènos».
-
--*who_sosias
 Par le Chien ! ô Nikostratos, il n'est pas «philoxènos», car Philoxènos est un prostitué.
 
--*who_xanthias
-Laissez là ces niaiseries : vous ne trouverez pas.
-Or, si vous désirez le savoir, taisez-vous.
-Je vais vous dire tout de suite la maladie de notre maître.
-Il est philhèliaste, le cher homme, comme pas un.
-Sa passion est de juger.
-Il gémit, s'il ne se trouve pas assis au premier banc ; la nuit, il ne goûte pas un brin de sommeil.
-Ferme-t-il les yeux un instant, son esprit voltige encore autour de la clepsydre.
-L'habitude qu'il a de tenir les suffrages fait qu'il se réveille en serrant ses trois doigts, comme celui qui offre de l'encens, à la nouvelle lune.
-Par Zeus ! s'il voit écrit sur une porte : «Charmant Dèmos, fils de Pyrilampès !» il va écrire à côté : «Charmante urne aux suffrages !»
-Son coq s'étant mis à chanter le soir, il dit que pour l'éveiller tard, il avait été gagné par l'argent des accusés.
-À peine a-t-il songé, qu'il demande en criant ses chaussures ; il court au tribunal bien avant le jour, et il s'y endort, comme un coquillage, au pied de la colonne.
-Sa mauvaise humeur lui faisant inscrire contre tous la longue ligne, il sort, en manière d'abeille ou de bourdon, les ongles enduits de cire.
-Ayant peur de manquer de cailloux à suffrages, et voulant avoir de quoi juger, il entasse chez lui toute une grève.
-Telle est sa manie.
-On le remet dans le droit chemin, mais toujours il juge de plus belle.
-Voilà pourquoi nous le gardons enfermé sous les verrous, afin qu'il ne s'échappe pas.
-Son fils, en effet, est désolé de cette maladie.
-D'abord il le sermonna en usant de bonnes paroles, l'engageant à ne plus porter de manteau et à ne pas s'éloigner de la porte ; mais il n'y réussit point.
-Ensuite, il le baigna, le purifia : pas plus de succès.
-Puis il le soumit aux pratiques des Korybantes ; mais le père, muni du tambour, courut juger au Kaenon.
-Voyant que toutes ces initiations ne servaient de rien, il fit voile vers AEgina.
-Là il le fait coucher la nuit dans le temple d'Asklèpios ; dès la pointe du jour, il paraît au barreau du tribunal.
-Depuis, nous ne le laissons plus sortir.
-Il s'enfuit par les gouttières et par les tuyaux.
-Nous, tout ce qu'il y avait de trous, nous les avons bouchés avec du vieux linge et rendus impénétrables.
-Lui, en vrai geai, enfonçait des piquets dans le mur et sautait de branche en branche.
-Nous, nous avons tendu des filets tout autour de la cour, et nous montons la garde.
-Le nom du vieux est Philokléôn, soit dit de par Zeus ! et celui du fils est Bdélykléôn, homme qui veut guérir les orgueils insolents.
-
-**** *book_ *id_I02 *act_I
-
--*who_bdelikleon
-Xanthias, Sosias, Dormez-vous ?
-
--*who_xanthias
-Oh !
-Oh !
-
--*who_sosias
 Qu'y a-t-il ?
 
--*who_xanthias
+Eh bien ! Ne vous sauverez-vous pas ? Allez aux corbeaux ! Vous ne partez pas ?... Joue du bâton.
+
+
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xanthias
+
+J'essaie une diversion à ma garde de nuit.
+
+Je le sais ; mais j'ai envie de dormir un peu.
+
+Es-tu fou réellement, ou délires-tu comme les Korybantes ?
+
+Comme moi tu adores donc Sabazios ; car tout à l'heure a fondu en vrai Mède, sur mes paupières, un sommeil alourdissant, et j'ai vu récemment un songe merveilleux.
+
+Il m'a semblé voir un aigle d'une taille énorme s'abattre sur l'Agora, saisir dans ses serres un bouclier d'airain, l'emporter jusqu'au ciel, et puis ce bouclier tomber des mains de Kléonymos.
+
+Pourquoi cela ?
+
+Hélas ! Quel malheur va-t-il m'arriver après la vue d'un pareil songe ?
+
+C'est cependant quelque chose de terrible qu'un homme qui jette ses armes. Mais à toi de me dire le tien.
+
+Dis-moi vite le fond de cale de l'affaire.
+
+Pouah !
+
+Finis, finis : n'en dis pas davantage. Ce songe sent une odeur puante de cuir pourri.
+
+Hélas ! Malheur ! Il veut dépecer notre peau.
+
+Excellent ce grasseyement d'Alkibiadès.
+
+Pas du tout, au contraire, c'est fort heureux.
+
+Comment ? D'homme il est devenu corbeau tout à coup. N'est-ce pas un présage évident qu'il va s'envoler de chez nous pour aller aux corbeaux ?
+
+Attends que j'explique le sujet aux spectateurs et que je leur expose quelques idées que voici : qu'on n'attende de nous rien de trop grand, ni un rire dérobé à Mégara. Nous n'avons pas deux esclaves lançant aux spectateurs des noix tirées d'une corbeille ; ni un Hèraklès frustré d'un dîner, ni Euripidès, criblé une seconde fois de nos railleries. Et si Kléôn a brillé, grâce à la Fortune, nous ne remettrons pas le même homme à la sauce piquante. Mais notre modeste sujet a une intention : sans aller au delà de votre finesse, il a plus de portée qu'une comédie banale. Nous avons un maître, qui dort là-haut, homme de mérite, sous le toit. Il nous a donné l'ordre, à nous deux, de garder son père, enfermé là dedans, afin qu'il ne franchisse pas la porte. Ce père est malade d'une maladie étrange, que pas un de vous ne connaîtrait, ni ne supposerait, si vous ne l'appreniez de nous. Devinez. Amynias, fils de Pronapos, ici présent, dit qu'il aime les dés : ce n'est pas vrai.
+
+Et ce n'est pas cela : il y a bien du «philo» dans l'origine de son mal. Mais sosias, ici présent, dit à Derkylos qu'il est «philopot».
+
+De son côté Nikostratos, du dême de Skambôn, prétend qu'il est «philothyte» ou «philoxènos».
+
+Laissez là ces niaiseries : vous ne trouverez pas. Or, si vous désirez le savoir, taisez-vous. Je vais vous dire tout de suite la maladie de notre maître. Il est philhèliaste, le cher homme, comme pas un. Sa passion est de juger. Il gémit, s'il ne se trouve pas assis au premier banc ; la nuit, il ne goûte pas un brin de sommeil. Ferme-t-il les yeux un instant, son esprit voltige encore autour de la clepsydre. L'habitude qu'il a de tenir les suffrages fait qu'il se réveille en serrant ses trois doigts, comme celui qui offre de l'encens, à la nouvelle lune. Par Zeus ! s'il voit écrit sur une porte : «Charmant Dèmos, fils de Pyrilampès !» il va écrire à côté : «Charmante urne aux suffrages !» Son coq s'étant mis à chanter le soir, il dit que pour l'éveiller tard, il avait été gagné par l'argent des accusés. À peine a-t-il songé, qu'il demande en criant ses chaussures ; il court au tribunal bien avant le jour, et il s'y endort, comme un coquillage, au pied de la colonne. Sa mauvaise humeur lui faisant inscrire contre tous la longue ligne, il sort, en manière d'abeille ou de bourdon, les ongles enduits de cire. Ayant peur de manquer de cailloux à suffrages, et voulant avoir de quoi juger, il entasse chez lui toute une grève. Telle est sa manie. On le remet dans le droit chemin, mais toujours il juge de plus belle. Voilà pourquoi nous le gardons enfermé sous les verrous, afin qu'il ne s'échappe pas. Son fils, en effet, est désolé de cette maladie. D'abord il le sermonna en usant de bonnes paroles, l'engageant à ne plus porter de manteau et à ne pas s'éloigner de la porte ; mais il n'y réussit point. Ensuite, il le baigna, le purifia : pas plus de succès. Puis il le soumit aux pratiques des Korybantes ; mais le père, muni du tambour, courut juger au Kaenon. Voyant que toutes ces initiations ne servaient de rien, il fit voile vers AEgina. Là il le fait coucher la nuit dans le temple d'Asklèpios ; dès la pointe du jour, il paraît au barreau du tribunal. Depuis, nous ne le laissons plus sortir. Il s'enfuit par les gouttières et par les tuyaux. Nous, tout ce qu'il y avait de trous, nous les avons bouchés avec du vieux linge et rendus impénétrables. Lui, en vrai geai, enfonçait des piquets dans le mur et sautait de branche en branche. Nous, nous avons tendu des filets tout autour de la cour, et nous montons la garde. Le nom du vieux est Philokléôn, soit dit de par Zeus ! et celui du fils est Bdélykléôn, homme qui veut guérir les orgueils insolents.
+
+Oh ! Oh !
+
 Bdélykléôn est levé.
 
--*who_bdelikleon
-Que l'un de vous deux accoure vite ici !
-Mon père est dans l'étuve, et il fouille comme un rat qui se cache dans un trou.
-Toi, aie l'oeil sur le tuyau, afin qu'il ne s'échappe point par là ; et toi, colle-toi contre la porte.
-
--*who_xanthias
 C'est fait, maître.
 
--*who_bdelikleon
-Souverain Poséidôn, quel est ce bruit dans la cheminée ?
-Hé ! là-haut, qui es-tu ?
-
--*who_philokleon
-Je suis la fumée qui sort.
-
--*who_bdelikleon
-La fumée ?
-Et de quel bois es-tu donc ?
-
--*who_philokleon
-De figuier.
-
--*who_bdelikleon
-Par Zeus !
-C'est la plus âcre des fumées.
-Mais, je t'en réponds, tu ne t'échapperas pas.
-Où est le couvercle ?
-Rentre.
-Allons, je vais ajouter une traverse.
-Cherche alors quelque autre machine.
-Vraiment, je suis malheureux comme pas un ; on va m'appeler maintenant le fils de «l'Enfumé».
-Enfant, tiens la porte, pèse dessus ferme, vigoureusement.
-J'y vais venir aussi.
-Veille à la serrure ; et, pour le verrou, prends garde qu'il ne ronge le fermoir.
-
--*who_philokleon
-Que faites-vous ?
-Ne me laisserez-vous pas aller juger, tas de coquins ?
-Va-t-on absoudre Drakontidès ?
-
--*who_bdelikleon
-Cela te ferait donc beaucoup de peine ?
-
--*who_philokleon
-Oui, car le Dieu m'a répondu, un jour où je consultais l'oracle de Delphoe, que si un accusé échappait de mes mains, je mourrais desséché.
-
--*who_bdelikleon
-Apollon sauveur, quel oracle !
-
--*who_philokleon
-Allons, je t'en conjure, laisse-moi sortir, de peur que je ne crève.
-
--*who_bdelikleon
-Non par Poséidon !
-Philokléôn, jamais.
-
--*who_philokleon
-Je rongerai donc le filet à belles dents.
-
--*who_bdelikleon
-À belles dents ?
-Mais tu n'en as pas.
-
--*who_philokleon
-Malheur !
-Infortuné que je suis.
-Comment faire pour te tuer ?
-Comment ?
-Donnez-moi une épée tout de suite, ou la tablette aux condamnations.
-
--*who_bdelikleon
-Cet homme va faire quelque mauvais coup.
-
--*who_philokleon
-Mais non, de par Zeus !
-Je veux aller vendre mon âne tout bâté : c'est la nouvelle lune.
-
--*who_bdelikleon
-Pourquoi n'irais-je pas le vendre, moi ?
-
--*who_philokleon
-Non ; pas comme moi.
-
--*who_bdelikleon
-Mais mieux, j'en atteste Zeus !
-
--*who_philokleon
-Voyons, amène l'âne.
-
--*who_xanthias
 Le bon prétexte qu'il a imaginé ! quelle finesse pour que tu le laisses aller plus vite !
 
--*who_bdelikleon
-Mais il n'a rien attrapé ; j'ai éventé sa ruse.
-Entrons toutefois ; je vais moi-même faire sortir l'âne, afin que le vieillard ne s'échappe pas de nouveau.
+Bonne bourrique, pourquoi pleures-tu ? Parce qu'on va te vendre aujourd'hui ? Avance plus vite. Pourquoi gémis-tu, à moins que tu ne portes quelque Odysseus ? Mais, de par Zeus ! il porte quelqu'un qui s'est glissé sous son ventre !
 
--*who_xanthias
-Bonne bourrique, pourquoi pleures-tu ?
-Parce qu'on va te vendre aujourd'hui ?
-Avance plus vite.
-Pourquoi gémis-tu, à moins que tu ne portes quelque Odysseus ?
-Mais, de par Zeus ! il porte quelqu'un qui s'est glissé sous son ventre !
-
--*who_bdelikleon
-Qui cela ?
-Voyons !
-
--*who_xanthias
 C'est lui !
 
--*who_bdelikleon
-Qu'est-ce que c'est ?
-Qui es-tu, l'homme ?
-Dis-le nettement.
+Malheur à moi ! D'où me tombe cette motte de terre ?
 
--*who_philokleon
-Outis, de par Zeus !
+Un rat ! Non, par Zeus ! C'est cet hèliaste de gouttière, qui s'est glissé sous les tuiles du toit.
 
--*who_bdelikleon
-Outis, toi ?
-De quel pays ?
-
--*who_philokleon
-D'Ithakè, fils d'Apodrasippidès.
-
--*who_bdelikleon
-Outis, j'en atteste Zeus ! tu n'auras pas à te réjouir.
-Entraîne-le vite.
-Ah ! le misérable.
-Où s'est-il glissé ?
-À mes yeux, il est tout ce qu'il y a de plus ressemblant avec l'ânon d'un témoin.
-
--*who_philokleon
-Si vous ne me laissez pas tranquille, nous plaiderons.
-
--*who_bdelikleon
-Et sur quoi notre procès ?
-
--*who_philokleon
-Sur l'ombre d'un âne.
-
--*who_bdelikleon
-Tu es un méchant sans malice et rempli d'audace.
-
--*who_philokleon
-Moi, un méchant !
-Non, de par Zeus !
-Tu ne sais pas maintenant tout mon mérite ; mais peut-être le sauras-tu, lorsque tu mangeras le sous-ventre du vieux juge de l'Hèliaea.
-
--*who_bdelikleon
-Fais rentrer l'âne et toi-même dans la maison.
-
--*who_philokleon
-Ô juges, mes collègues, et toi, Kléôn, venez à mon aide !
-
--*who_bdelikleon
-Une fois là dedans, hurle, la porte fermée.
-Toi, roule un tas de pierres à l'entrée, remets le verrou dans la traverse, et hâte-toi d'appuyer ce gros mortier contre la poutre, pour servir de barricade.
-
--*who_xanthias
-Malheur à moi !
-D'où me tombe cette motte de terre ?
-
--*who_bdelikleon
-C'est peut-être quelque rat qui te l'a jetée.
-
--*who_xanthias
-Un rat !
-Non, par Zeus !
-C'est cet hèliaste de gouttière, qui s'est glissé sous les tuiles du toit.
-
--*who_bdelikleon
-Malheur à moi !
-Voilà notre homme devenu moineau !
-Il va s'envoler.
-Où est le filet ?
-Où est-il ?
-Psichtt ! psichtt !
-Hé !
-Psichtt !...
-Par Zeus !
-J'aimerais mieux garder Skiônè qu'un tel père.
-
--*who_xanthias
 Voyons, maintenant que nous l'avons chassé, et qu'il n'y a pas moyen qu'il nous échappe furtivement, pourquoi ne dormirions-nous pas un tantinet ?
 
--*who_bdelikleon
-Mais, malheureux, dans un instant vont arriver les autres juges ses collègues, pour appeler mon père !
+Que dis-tu ? Le jour se lève à peine.
 
--*who_xanthias
-Que dis-tu ?
-Le jour se lève à peine.
-
--*who_bdelikleon
-Par Zeus !
-Ils se sont levés tard aujourd'hui.
-C'est toujours vers le milieu de la nuit qu'ils viennent le chercher, apportant des lanternes, et fredonnant les chants antiques des Sidoniennes de Phrynikhos, qui leur servent à l'appeler.
-
--*who_xanthias
 Eh bien, s'il le faut, nous nous mettrons à leur lancer des pierres.
 
--*who_bdelikleon
-Mais, malheureux, cette engeance de vieux, quand on la met en colère, devient semblable à un essaim de guêpes !
-En effet, ils ont, au bas des reins, un dard des plus aigus, dont ils piquent ; ils bondissent en criant, et ils le lancent comme des étincelles.
+Ne t'inquiète pas ! Que j'aie des pierres, et je disperserai cette guêpière de juges...
 
--*who_xanthias
-Ne t'inquiète pas !
-Que j'aie des pierres, et je disperserai cette guêpière de juges...
-
-**** *book_ *id_I03 *act_I
-
--*who_lechoeur
-Avance, marche ferme !
-Ô Komias, tu traînes ?
-Par Zeus ! ce n'est plus comme autrefois ; tu étais une lanière à chien.
-Aujourd'hui Kharinadès est meilleur marcheur que toi.
-Ô Strymodoros de Konthylè, le plus distingué de nos confrères, Evergidès est-il ici, ou Khabès le Phlyen ?
-Ils y sont.
-Il s'y trouve aussi,--appapae, papaeax--le reste de cette jeunesse, qui était avec nous à Byzantion, lorsque nous montions la garde, moi et toi.
-Dans nos excursions de nuit, nous dérobâmes en secret le pétrin de la boulangère et nous le fendîmes pour y faire cuire nos gros légumes...
-Mais hâtons-nous, mes amis ; c'est aujourd'hui le tour de Lakhès : tout le monde dit que sa ruche est pleine d'argent.
-Aussi Kléôn, notre soutien, nous a-t-il enjoint hier de venir de bonne heure, avec une provision de trois jours de colère furieuse contre l'accusé, pour le punir de ses méfaits.
-Hâtons-nous donc, braves amis, avant que le jour paraisse.
-Marchons, et regardons bien de tous côtés avec nos lampes, de peur que quelque pierre ne nous fasse obstacle et ne nous mette à mal.
-
--*who_enfants
-Un bourbier, père, père !
-Prends-y garde !
-
--*who_lechoeur
-Prends par terre un brin de paille et mouche la lampe.
-
--*who_enfants
-Non ; je la moucherai bien, je pense, avec mon doigt.
-
--*who_lechoeur
-Pourquoi donc allonges-tu la mèche avec ton doigt, lorsque l'huile manque, petit niais ?
-Ce n'est pas toi qui en souffres, quand il faut en payer le prix.
-
--*who_enfants
-De par Zeus ! si vous nous faites encore la leçon à coups de poing, nous éteignons les lampes, et nous retournons à la maison seuls.
-Alors, sans doute, au milieu des ténèbres, privé de clarté, tu barboteras, en marchant dans la boue comme un francolin.
-
--*who_lechoeur
-Oui, j'en châtie d'autres plus grands que toi.
-Mais il me semble que je patauge dans cette boue.
-Il n'est pas possible que d'ici à quatre jours le Dieu ne fasse pas tomber de l'eau en abondance, tant nos lampes se couvrent de champignons.
-C'est l'habitude, quand cela se produit, qu'il y ait une pluie torrentielle.
-Et puis, tout ce qu'il y a de fruits encore verts a besoin d'eau et du souffle de Boréas.
-Mais qu'est-il donc arrivé à notre collègue, habitant cette maison, pour qu'il ne paraisse pas ici dans notre groupe ?
-On n'avait pas besoin jadis de le remorquer : il marchait le premier de nous, en fredonnant du Phrynikhos ; car c'est un amateur de chant.
-Mon avis, chers camarades, est de nous arrêter ici et de l'appeler en chantant ; s'il entend ma musique, le plaisir l'attirera vers la porte.
-Mais pourquoi ce vieillard ne se montre-t-il pas à nous, devant sa porte, et ne nous répond-il pas ?
-A-t-il perdu ses chaussures ?
-Ou bien s'est-il cogné l'orteil dans l'obscurité, et y a-t-il une inflammation à la cheville du pauvre vieux ?
-Peut-être aussi a-t-il une tumeur à l'aine.
-Il était pourtant le plus âpre de nous tous et le seul inexorable.
-Si quelqu'un le suppliait, il baissait la tête, et : «Tu veux cuire une pierre,» disait-il.
-Peut-être est-ce à cause de l'homme qui nous a échappé hier par mensonges, en disant qu'il était ami d'Athènes et qu'il avait révélé le premier les affaires de Samos : la peine qu'il en a ressentie l'aura fait coucher avec la fièvre : car voilà l'homme.
-Mais, mon bon, lève-toi, ne te ronge pas ainsi, ne te fâche pas : il nous arrive un homme gras, un de ceux qui ont livré la Thrakè : tu vas le condamner à mort.
-Avance, enfant, avance.
-
--*who_enfants
-Voudrais-tu bien me donner, mon père, ce que je vais te demander ?
-
--*who_lechoeur
-Sans doute, mon enfant.
-Mais dis-moi ce que tu veux que je t'achète de beau.
-Je pense que tu aimes sans doute les osselets, mon enfant.
-
--*who_enfants
-Non, par Zeus !
-J'aime mieux les figues, petit père ; c'est plus doux.
-
--*who_lechoeur
-Eh bien, non, par Zeus !
-Dussiez-vous aller vous pendre !
-
--*who_enfants
-Alors, par Zeus ! je ne vous conduirai plus.
-
--*who_lechoeur
-Ainsi, avec mon chétif salaire j'ai trois choses à acheter, farine, bois et comestibles, et tu me demandes encore des figues !
-
--*who_enfants
-Mais, voyons, mon père, si l'arkhonte ne convoque pas tout de suite le tribunal, où achèterons-nous à dîner ?
-As-tu quelque heureux espoir à nous offrir ou le chemin sacré de Hellè ?
-
--*who_lechoeur
-Oh !
-Oh !
-Hélas !
-Oh !
-Oh !
-Hélas !
-J'en atteste Zeus, je ne sais pas comment nous dînerons.
-
--*who_enfants
-Pourquoi, malheureuse mère, m'as-tu mis au monde ?
-
--*who_lechoeur
-Pour me donner le mal de te nourrir.
-
--*who_enfants
-Ô mon petit sac, tu n'es donc qu'un ornement inutile !
-Hélas !
-Hélas !
-C'est notre lot de gémir.
-
--*who_philokleon
-Amis, il y a longtemps que je dessèche à vous entendre de cette fenêtre, mais je ne puis chanter avec vous.
-Que ferai-je ?
-Je suis gardé par les gens qui sont là, parce que je veux depuis longtemps aller avec vous du côté des urnes et y faire du mal.
-Ô Zeus au tonnerre retentissant, change-moi tout de suite en fumée ou en Proxénidès, ou en fils de Sellos, ce hâbleur.
-N'hésite pas, roi du ciel, à me faire cette grâce : prends pitié de mon malheur.
-Que ta foudre ardente me réduise en cendre à l'instant, et qu'ensuite ton souffle m'enlève et me jette dans une saumure bouillante, ou bien fais de moi la pierre sur laquelle on compte les suffrages.
-
--*who_lechoeur
-Qui donc est celui qui te retient et qui ferme la porte ?
-Parle ; tu t'adresses à des amis.
-
--*who_philokleon
-C'est mon fils ; ne criez pas : il est là devant, il dort ; baissez la voix.
-
--*who_lechoeur
-Mais quelle défense, mon pauvre homme, veut-il t'imposer en agissant de la sorte ?
-Quel prétexte est le sien ?
-
--*who_philokleon
-Mes amis, il ne veut pas me laisser juger ni faire du mal à personne ; il est disposé à me faire faire bonne chère, et moi, je ne veux pas.
-
--*who_lechoeur
-Les paroles audacieuses de cet infâme Dèmologokléôn sont provoquées par ce que tu dis la vérité au sujet de la flotte.
-Cet homme n'aurait pas cette audace de paroles s'il ne tramait quelque conspiration.
-Mais c'est le moment de chercher quelque nouveau moyen qui, à l'insu de cet homme, te permette de descendre ici.
-
--*who_philokleon
-Quel serait-il ?
-Cherchez, vous.
-Moi, je serais prêt à tout, tant je désire parcourir les bancs avec ma coquille.
-
--*who_lechoeur
-Y a-t-il quelque ouverture que tu puisses creuser à l'intérieur pour t'en échapper, couvert de haillons, comme l'industrieux Odysseus.
-
--*who_philokleon
-Tout est bouché : il n'y a pas la moindre fissure par où passerait un moucheron.
-Il faut donc que vous cherchiez quelque autre chose : pas de trou possible.
-
--*who_lechoeur
-Te souviens-tu comment, étant à l'armée et ayant volé quelques broches que tu fichais toi-même dans le mur, tu en descendis très vite ?
-C'était à la prise de Naxos.
-
--*who_philokleon
-Je sais.
-Mais à quoi bon ?
-Il n'y a pas en ceci la moindre ressemblance.
-J'étais jeune alors, capable de voler et plein de vigueur ; personne ne me gardait, mais il m'était permis de fuir sans crainte.
-Maintenant, des hommes armés, rangés sur les routes, y font sentinelle.
-Deux d'entre eux sont devant ces portes, broches en main, et m'épient comme un chat qui a volé un morceau de viande.
-
--*who_lechoeur
-Trouve donc au plus tôt quelque machine ; car voici le jour, mon doux ami.
-
--*who_philokleon
-Il n'y a donc rien de mieux pour moi que de ronger mon filet.
-Que Diktynna me pardonne pour ce filet !
-
--*who_lechoeur
-C'est bien le fait d'un homme qui travaille à son salut.
-Allons !
-Joue de la mâchoire.
-
--*who_philokleon
-Voilà qui est rongé ; mais ne criez pas : veillez, au contraire, à ce que Bdélykléôn ne s'aperçoive de rien.
-
--*who_lechoeur
-Ne crains rien mon cher, rien.
-S'il souffle mot, je le forcerai à se ronger le coeur et à courir la course pour sa propre vie : il verra bien qu'il ne faut pas fouler aux pieds les lois des deux Déesses.
-Attache donc une corde à la fenêtre, entoures-en ton corps et laisse-toi descendre, l'âme remplie de la fureur de Diopithès.
-
--*who_philokleon
-Voyons donc !
-Mais si ces deux hommes s'en aperçoivent, qu'ils essaient de me repêcher et de me remonter dans la maison, que ferez-vous ?
-Parlez vite !
-
--*who_lechoeur
-Nous te porterons secours, faisant appel à tout notre coeur d'yeuse, si bien qu'il sera impossible de te renfermer.
-Voilà ce que nous ferons.
-
--*who_philokleon
-J'agirai donc, confiant en vous.
-Mais retenez bien ceci : s'il m'arrive malheur, prenez mon corps, baignez-le de vos larmes, et enterrez-le sous la barre du tribunal.
-
--*who_lechoeur
-Il ne t'arrivera rien ; sois sans crainte.
-Ainsi, mon cher ami, descends avec confiance, en invoquant les dieux de la patrie.
-
--*who_philokleon
-Ô souverain Lykos, héros, mon voisin, tu te plais, comme moi, aux larmes éternelles et aux gémissements des accusés, et voilà justement pourquoi tu es venu habiter ici, afin de les entendre ; tu as voulu, seul de tous les héros, séjourner auprès des gémissants.
-Aie pitié de moi, sauve aujourd'hui ton voisin.
-Je jure que je ne pisserai ni ne pèterai jamais devant ta balustrade.
-
-**** *book_ *id_I04 *act_I
-
--*who_bdelikleon
-Holà !
-L'homme !
-Éveille-toi.
-
--*who_xanthias
 Qu'y a-t-il ?
 
--*who_bdelikleon
-J'entends comme le son d'une voix.
-
--*who_xanthias
 Est-ce que le vieux se glisse quelque part ?
 
--*who_bdelikleon
-Non, de par Zeus !
-Mais il descend lié à une corde.
+Ah ! Scélérat ! Que fais-tu ? Ne t'avise pas de descendre.
 
--*who_xanthias
-Ah !
-Scélérat !
-Que fais-tu ?
-Ne t'avise pas de descendre.
+Par Hèraklès ! Ils ont des dards. Ne les vois-tu pas, maître ?
 
--*who_bdelikleon
-Remonte vite par l'autre fenêtre et frappe-le avec les branches sèches ; peut-être retournera-t-il la poupe, frappé par les branches d'olivier.
+Cela va être rude, de par Zeus ! Si le combat s'engage : moi, je tremble de peur à la vue de tous ces aiguillons.
 
-**** *book_ *id_I05 *act_I
-
--*who_philokleon
-À l'aide, vous tous qui devez avoir des procès cette année, Smikythiôn, Tisiadès, Chrèmôn, Phérédipnos !
-Quand donc viendrez-vous à mon secours, si ce n'est maintenant, avant qu'on m'ait renfermé ?
-
--*who_lechoeur
-Dis-moi, que tardons-nous à mettre en mouvement cette colère qui nous prend, quand on irrite nos essaims ?
-Oui, voilà, voilà que se dresse ce dard irascible, aigu, qui nous sert à châtier.
-Allons, jetez vite vos manteaux, enfants, courez, criez, annoncez ceci à Kléôn ; dites-lui de venir combattre un ennemi de la république, qui mérite de périr, puisqu'il ose dire qu'il ne faut pas juger les procès.
-
--*who_bdelikleon
-Braves gens, écoutez la chose, et ne criez pas !
-
--*who_lechoeur
-De par Zeus !
-Jusqu'au ciel !
-
--*who_bdelikleon
-Je ne le lâcherai pas !
-
--*who_lechoeur
-Mais c'est affreux ; c'est une tyrannie manifeste !
-Ô cité de Théoros, ennemi des dieux, et quels que soient les flatteurs qui nous gouvernent !
-
--*who_xanthias
-Par Hèraklès !
-Ils ont des dards.
-Ne les vois-tu pas, maître ?
-
--*who_bdelikleon
-Oui, c'est avec cela qu'ils ont tué en justice Philippos, fils de Gorgias.
-
--*who_lechoeur
-Et toi aussi tu en mourras !
-Tournez-vous tous par ici, le dard en avant, et marchez contre lui, serrés, en bon ordre, tout gonflés de colère et de rage, afin qu'il sache bien plus tard de quel essaim il a irrité la colère.
-
--*who_xanthias
-Cela va être rude, de par Zeus !
-Si le combat s'engage : moi, je tremble de peur à la vue de tous ces aiguillons.
-
--*who_lechoeur
-Alors, lâche cet homme ; sinon, je dis, moi, que tu envieras la peau des tortues.
-
--*who_philokleon
-Allons, juges mes collègues, guêpes au coeur dur, mettez-vous en fureur ; qu'une partie de vous leur pique le derrière, une autre les yeux et les doigts.
-
--*who_bdelikleon
-Midas, Phryx, accourez à l'aide ; toi aussi, Masyntias ; saisissez-le et ne le remettez aux mains de personne.
-Autrement, je vous mets de lourdes entraves, et vous y jeûnerez.
-J'ai entendu le crépitement de nombreuses feuilles de figuier.
-
--*who_lechoeur
-Si tu ne le lâches pas, quelque chose te poindra.
-
--*who_bdelikleon
-Ô Kékrops, héros souverain à la queue de dragon, souffriras-tu que je sois ainsi la proie d'hommes barbares, à qui j'ai appris à verser quatre mesures de larmes par khoenix ?
-
--*who_lechoeur
-Mille maux ne viennent-ils pas fondre sur la vieillesse ?
-C'est évident.
-Voilà deux esclaves qui retiennent de force leur vieux maître.
-Ils laissent dans l'oubli du passé les peaux, les exomides qu'il achetait pour eux, les casquettes de chien, les services rendus à leurs pieds munis durant l'hiver contre le froid.
-Ils n'ont ni en eux-mêmes, ni dans leurs regards le respect des chaussures d'autrefois.
-
--*who_philokleon
-Tu ne me lâcheras donc pas maintenant, méchante bête ?
-Tu ne te rappelles plus qu'un jour, t'ayant surpris volant du raisin, je t'attachai à un olivier et t'écorchai si bien et si virilement que tu faisais des jaloux.
-Et cependant tu es un ingrat.
-Mais lâchez-moi donc, toi et toi, avant que mon fils accoure.
-
--*who_lechoeur
-Vous allez être punis bel et bien de votre conduite, avant peu ; et vous connaîtrez quel est le caractère d'hommes irascibles, justes, aux regards âcres comme le cresson.
-
--*who_bdelikleon
-Frappe, frappe, Xanthias, chasse ces guêpes de la maison !
-
--*who_xanthias
 C'est ce que je fais.
 
--*who_bdelikleon
-Et toi, répands une épaisse fumée.
+Toi, pour faire de la fumée, mets le feu à AEskhinès, fils de Sellartios. Nous devons, avec le temps, finir par vous chasser.
 
--*who_sosias
-Eh bien !
-Ne vous sauverez-vous pas ?
-Allez aux corbeaux !
-Vous ne partez pas ?...
-Joue du bâton.
-
--*who_xanthias
-Toi, pour faire de la fumée, mets le feu à AEskhinès, fils de Sellartios.
-Nous devons, avec le temps, finir par vous chasser.
-
--*who_bdelikleon
-Mais, de par Zeus !
-Tu ne les aurais pas facilement mis en fuite, s'ils s'étaient trouvés nourris des vers de Philoklès.
-
--*who_lechoeur
-N'est-il pas évident pour les pauvres que la tyrannie à mon insu s'est glissée furtivement ici ?
-Oui, toi, plus mauvais que le mal, émule d'Amynias le chevelu, tu nous empêches d'exécuter les lois établies par la ville, et cela sans avoir aucun prétexte, ni une éloquence ingénieuse, et pour commander seul.
-
--*who_bdelikleon
-N'y a-t-il pas moyen, sans bataille et sans cris aigus, d'entrer en pourparlers et en accommodements ?
-
--*who_lechoeur
-Des pourparlers avec toi, haïsseur du peuple, ami de la monarchie, complice de Brasidas, toi qui portes des franges de laine et qui nourris une épaisse moustache !
-
--*who_bdelikleon
-Hé !
-Par Zeus !
-Mieux vaudrait pour moi abandonner tout à fait mon père, que de lutter chaque jour contre des flots si orageux.
-
--*who_lechoeur
-Et pourtant tu n'en es qu'au persil et à la rue, pour nous servir d'un terme emprunté aux marchands de vin.
-Maintenant, en effet, tu n'as rien à souffrir, mais tu verras quand l'accusateur entassera contre toi ces mêmes griefs et citera tes complices.
-
--*who_bdelikleon
-Enfin, au nom des dieux, est-ce que vous n'allez pas me débarrasser de vous ?
-Avez-vous résolu que moi j'éreinte et que vous soyez éreintés tout le jour ?
-
--*who_lechoeur
-Non, jamais, tant qu'il me restera le souffle, au lieu que tu aspires à nous tyranniser.
-
--*who_bdelikleon
-Comme tout est pour vous tyrannie et conspirations, quelle que soit l'affaire, grande ou petite, mise en cause !
-Pour moi, je n'ai pas entendu ce mot durant cinquante années.
-Aujourd'hui, il est plus commun que le poisson salé.
-C'est au point qu'il roule dans toute l'Agora.
-Si quelqu'un achète des orphes et ne veut pas de membrades, le marchand d'à côté, qui vend des membrades, se met à crier : «La cuisine de cet homme m'a l'air de sentir la tyrannie.»
-Un autre demande du poireau, pour assaisonner ces anchois ; la marchande de légumes le regarde de travers et lui dit : «NTu demandes du poireau, est-ce en vue de la tyrannie ?
-Penses-tu qu'Athènes doive te fournir des assaisonnements ?»
-
--*who_xanthias
 Moi, hier, j'entre chez une fille, à l'heure de midi, et je lui propose une chevauchée ; elle se fâche et elle me demande si je veux rétablir la tyrannie d'Hippias.
 
--*who_bdelikleon
-Ces propos leur sont agréables à entendre, et moi, parce que je veux arracher mon père à ces sorties matinales de misérable calomniateur en justice, afin de vivre une bonne vie comme Morykhos, on m'accuse d'agir en conspirateur et de songer à la tyrannie.
+Va-t'en aux corbeaux ! Nourrir un pareil chien !
 
--*who_philokleon
-Et, de par Zeus !
-On a raison ; car, pour moi, je préfère au lait des poules la vie dont tu veux aujourd'hui me priver.
-Je n'aime ni les raies, ni les anguilles, mais je mangerais avec plaisir un tout petit procès, cuit sur le plat à l'étouffée.
-
--*who_bdelikleon
-Par Zeus !
-Tu t'es habitué à te régaler de ces affaires.
-Mais, si tu gardes le silence pour écouter ce que je dis, tu reconnaîtras, je pense, que tu te trompes du tout au tout.
-
--*who_philokleon
-Je me trompe en rendant la justice ?
-
--*who_bdelikleon
-Tu ne sens pas que tu es la risée de ces hommes auxquels tu rends une sorte de culte, mais dont tu es l'esclave à ton insu.
-
--*who_philokleon
-Cesse de parler d'esclavage : je règne sur tous.
-
--*who_bdelikleon
-Non, pas toi ; tu n'es qu'un esclave, en croyant commander.
-Dis-nous, mon père, quel honneur te revient-il des tributs de la Hellas ?
-
--*who_philokleon
-Beaucoup assurément : j'en veux faire juges les gens qui sont ici.
-
--*who_bdelikleon
-Et moi également.
-Laissez-le tous en liberté ; donnez-moi une épée.
-Si je suis vaincu dans cette lutte de parole, je tomberai percé de cette épée.
-Et toi, que je ne nomme pas, dis-moi si tu récuses l'arrêt...
-
--*who_philokleon
-Que je ne boive jamais ma part de vin pur en l'honneur du Bon Génie !
-
--*who_lechoeur
-C'est maintenant qu'il te faut tirer de notre arsenal quelque discours nouveau ; mais ne parle pas dans le sens de ce jeune homme.
-Tu vois quelle est pour toi l'importance de ce combat ; c'est le tout pour le tout si, ce qu'aux dieux ne plaise, il venait à l'emporter.
-
--*who_bdelikleon
-Qu'on m'apporte mes tablettes, et faites vite.
-
--*who_lechoeur
-Ah !
-Quel air tu as en donnant cet ordre !
-
--*who_bdelikleon
-J'y veux simplement écrire, pour mémoire, tout ce qu'il dira.
-
--*who_philokleon
-Mais que diriez-vous s'il triomphait dans la discussion ?
-
--*who_lechoeur
-La troupe des vieillards ne servirait plus de rien absolument.
-Raillés dans toutes les rues, on nous appellerait thallophores et sacs à procès.
-Toi donc, qui vas défendre notre souveraineté, déploie en ce moment tout le courage de ton éloquence.
-
--*who_bdelikleon
-Et d'abord, dès mon entrée en la carrière, et pour point de départ, je montrerai que notre pouvoir ne le cède à aucune royauté.
-Y a-t-il quelqu'un de plus heureux, de plus fortuné ici-bas qu'un juge, un être plus gâté et plus redoutable, et cela, si c'est un vieillard ?
-Dès qu'il sort du lit, il est escorté jusqu'au tribunal par des hommes superbes, hauts de quatre coudées.
-Ensuite, sur la route, je me sens pressé par une main douce, qui a volé les deniers de l'État ; on supplie, on s'incline, on dit d'une voix lamentable :
-    « Aie pitié de moi, mon père, je t'en conjure, si jamais tu as dérobé toi-même dans l'exercice de tes fonctions ou dans les marchés pour l'approvisionnement des troupes.»
-Eh bien, il ne saurait pas même que j'existe sans son premier acquittement.
-
--*who_bdelikleon
-Que cet article relatif aux suppliants soit mentionné sur mes tablettes !
-
--*who_philokleon
-Puis, lorsque j'entre, chargé de supplications et la colère calmée, je ne fais rien de tout ce que j'ai dit ; seulement j'écoute de toutes parts les plaintes des gens qui espèrent l'acquittement.
-Vois-tu ?
-On n'entend plus que flatteries à l'adresse du juge.
-Les uns déplorent leur misère, et ajoutent des maux supposés à ceux qui sont réels, pour les égaler aux miens ; les autres nous racontent des histoires ou quelque trait comique d'AEsopos.
-D'autres lancent une raillerie pour me faire rire et apaiser ma rigueur.
-Si rien de tout cela ne nous touche, ils nous amènent aussitôt par la main leurs enfants, filles et garçons : j'écoute ; ils se prosternent et bêlent à l'unisson.
-Alors le père, saisi de crainte, me supplie, comme un dieu, par pitié pour ses enfants, de lui faire remise de la peine.
-    « Si tu aimes la voix d'un agneau, sois sensible à la voix de ce garçon.»
-Mais si j'aime la voix des petites truies, il essaie de me toucher par celle de sa fille.
-Et nous, par égard pour lui, nous détendons un peu les cordes de notre colère.
-N'est-ce pas là un grand pouvoir, qui permet de dédaigner la richesse ?
-
--*who_bdelikleon
-Second point de son discours que je note : «Qui permet de dédaigner la richesse.»
-Dis-moi maintenant les avantages que tu prétends tirer de ta souveraineté sur la Hellas ?
-
--*who_philokleon
-Chargés de constater l'âge des enfants, nous avons le droit de voir leurs parties honteuses.
-Qu'OEagros soit cité en justice, il ne sera pas absous avant de nous avoir récité la plus belle tirade de Niobè.
-Un joueur de flûte gagne-t-il sa cause, en reconnaissance, il se bride la joue avec sa courroie, et joue un air aux juges à leur sortie.
-Si un père, en mourant, désigne par testament l'époux destiné à sa fille, son unique héritière, nous envoyons là-bas pleurer toutes les larmes de leur tête le testament et la coquille solennellement appliquée au cachet, et nous donnons la fille à celui dont les prières nous ont convaincus.
-Avec cela, point de comptes à rendre de nos actions : ce que n'a aucune autre magistrature.
-
--*who_bdelikleon
-Effectivement, et c'est la seule des choses que tu as dites dont je puisse te féliciter.
-Mais, quand tu enlèves la coquille au cachet du testament d'une héritière, tu commets une injustice.
-
--*who_philokleon
-De plus, quand le Conseil et le peuple sont embarrassés de juger sur quelque grave affaire, un décret renvoie les coupables devant les juges.
-C'est alors qu'Euathlos et ce grand Kolakonymos, lâcheur du bouclier, protestent qu'ils ne nous trahiront pas et qu'ils combattront pour le peuple.
-Et jamais, dans l'assemblée, aucun orateur n'a fait triompher son avis, s'il n'a dit que les tribunaux ont le droit de se retirer, aussitôt qu'ils ont jugé une affaire.
-Kléôn lui-même, ce grand braillard, ne mord pas sur nous, mais il nous garde, nous caresse de la main et nous préserve des mouches, tandis que toi, tu n'as jamais rien fait de tout cela à ton père.
-Et Théoros, quoique ce soit un homme qui n'est pas au-dessous d'Euphèmios, il prend l'éponge dans le bassin et décrotte nos chaussures.
-Vois de quels biens tu veux me priver, me dépouiller.
-Voilà ce que tu appelles de l'esclavage, de la servitude, et tu prétends le prouver.
-
--*who_bdelikleon
-Parle à satiété : car un jour mettra fin à cette puissance imposante, et tu ne seras plus qu'un derrière qui défie le bain.
-
--*who_philokleon
-Mais le plus agréable de tout cela, et que j'allais oublier, c'est quand je rentre à la maison, rapportant mon salaire : tout le monde arrive en même temps me faire des caresses, en raison de cet argent ; et d'abord ma fille me lave les pieds, les parfume, se penche pour me baiser, m'appelle «son petit papa» et, de sa langue, va pêcher le triobole.
-Ma femme, douce cajoleuse, m'apporte une galette bien levée, s'assoit près de moi, et, faisant des instances : «Mange ceci, goûte cela.»
-Je suis ravi, et je n'ai pas besoin de me tourner vers toi ou vers l'intendant pour savoir quand il apportera le dîner, en maugréant et en grommelant.
-D'ailleurs, s'il ne se hâte de me pétrir un gâteau, j'ai là un rempart contre les maux, un préservatif contre les traits.
-Si tu ne me verses pas à boire, j'ai apporté un vase à longues oreilles, plein de vin ; je me penche et je bois, et lui, ouvrant la bouche pour braire, oppose au bruit de ta coupe une grosse pétarade digne d'un bataillon.
-N'est-ce pas là exercer une grande souveraineté et qui ne le cède point à celle de Zeus, moi qui entends de moi ce que Zeus entend de lui ?
-Si nous sommes tumultueux, quelque passant s'écrie : «Quel tonnerre dans le tribunal, ô Zeus souverain !»
-Si je lance l'éclair, les riches ahanent d'émoi, et ils lâchent tout sous eux ; et de même les gens tout à fait vénérables.
-Et toi-même, tu as grand'peur de moi ; oui, par Dèmètèr !
-Tu as peur ; et moi, que je me meure, si j'ai peur de toi.
-
--*who_lechoeur
-Non, jamais nous n'avons entendu personne parler avec tant de correction et d'intelligence.
-
--*who_philokleon
-Mais non, il se figurait qu'il vendangerait aisément une vigne abandonnée ; car il savait toute la supériorité de mon talent.
-
--*who_lechoeur
-Comme il a tout passé en revue, sans rien omettre !
-C'est au point que je grandissais en l'entendant et qu'il me semblait juger aux Iles Fortunées, ravi de son éloquence.
-
--*who_bdelikleon
-Le voilà qui se pâme d'aise, qu'il est tout hors de lui !
-Va, aujourd'hui, je te ferai regarder les étrivières !
-
--*who_lechoeur
-Il faut que tu ourdisses toutes sortes de trames pour échapper : car il n'est pas facile d'adoucir ma colère, quand on ne parle pas dans mon sens.
-C'est donc le cas pour toi de chercher une bonne meule et toute neuve, lorsque tu vas parler, afin d'écraser ma mauvaise humeur.
-
--*who_bdelikleon
-C'est une entreprise difficile, rude et d'une trop haute portée pour des poètes de vendanger, de guérir une maladie ancienne et invétérée dans la cité.
-Cependant, ô mon père, descendant de Kronos...
-
--*who_philokleon
-Arrête, et ne me donne plus le nom de père.
-Si tu ne me prouves pas, tout de suite, que je suis esclave, rien ne m'empêchera de te faire mourir, dût-on me priver de ma part des festins sacrés.
-
--*who_bdelikleon
-Écoute maintenant, petit papa, et détends un peu ton visage.
-Et d'abord calcule, simplement, non pas avec des cailloux, mais sur tes doigts, le revenu total des tributs payés par les villes ; compte, en outre, les cotes personnelles, les nombreux centièmes, les prytanies, les mines, les droits des marchés et des ports, les taxes, les confiscations : la somme de ces revenus monte à près de deux mille talents.
-Compte maintenant les honoraires annuels des juges, au nombre de six mille ; car il n'y en eut jamais davantage ici : cela nous fait cent cinquante talents.
-
--*who_philokleon
-Ce n'est donc pas même le dixième des revenus de l'État que nous touchons pour salaire.
-
--*who_bdelikleon
-Non, par Zeus !
-Et où va donc le reste ?
-
--*who_philokleon
-À ces gens qui disent : «Je ne trahirai jamais la populace d'Athènes, mais je combattrai toujours pour le peuple.»
-
--*who_bdelikleon
-Et toi, mon père, tu te laisses mener par eux, charmé de leurs paroles.
-Ils extorquent aux villes des cinquantaines de talents, les effrayant de leurs menaces et de leurs cris : «Payez le tribut, ou je tonne et je foudroie votre ville !»
-Et toi tu te contentes de grignoter les résidus de ton pouvoir.
-Les alliés, remarquant que le reste de la foule vit maigrement de lécher les assiettes et de mâcher à vide, t'estiment à l'égal du suffrage de Konnos, et apportent aux autres, en présent, terrines salées, vin, tapis, fromage, miel, sésame, coussins, fioles, couvertures de laine, couronnes, colliers, coupes, richesse et santé.
-Et toi, leur maître, pour prix de tes nombreux labeurs sur la terre et sur l'onde, il n'y en a pas un qui te donne même une tête d'ail pour tes fritures.
-
--*who_philokleon
-Oui, par Zeus !
-J'ai envoyé chercher moi-même trois gousses d'ail chez Eukharidès ; mais cette servitude où je suis, tu ne me la montres pas et tu me chagrines.
-
--*who_bdelikleon
-N'est-ce donc pas une grande servitude de voir tous ces gens-là investis des magistratures et leurs flatteurs richement rémunérés, tandis que toi, si on te donne trois oboles, te voilà content ?
-Et c'est en combattant sur mer, sur terre à la prise des villes que tu les as gagnées, en te surmenant de fatigues.
-Il y a plus, et c'est ce qui m'exaspère au plus haut point, un ordre t'oblige à te rendre à l'assemblée, parce qu'un jeune débauché, le fils de Khaeréas, aux jambes écartées, au corps balancé d'un mouvement lascif, est venu te prescrire de juger au tribunal, le matin et à l'heure dite, sous peine pour quiconque arrivera passé le signal, de ne pas toucher le triobole.
-Et cependant lui-même il reçoit la drakhme accordée à l'accusateur, bien qu'il soit arrivé en retard.
-Il partage avec quelque autre des juges, ses collègues, le présent qu'a pu lui donner un des accusés ; puis ils s'entendent tous deux pour arranger l'affaire, à la façon des scieurs de long, dont l'un tire et l'autre pousse.
-En attendant, toi tu regardes, la bouche béante, le kolakrète, et tu ne sais rien de ce qui s'est fait.
-
--*who_philokleon
-Eux me traiter ainsi !
-Hélas !
-Que dis-tu ?
-Mon coeur est comme une mer démontée : tu t'empares de toute mon intelligence, et je ne sais pas où tu me conduis.
-
--*who_bdelikleon
-Vois pourtant comment il t'est permis d'être riche, ainsi que tous les tiens ; mais grâce à ces flagorneurs du peuple, tu disparais dans je ne sais quelle machine.
-Maître d'une foule de villes, depuis le Pontos jusqu'à la Sardô, tu ne jouis de rien, sinon de ce misérable salaire : c'est un flocon de laine où l'on verse avec une parcimonie contenue, et pour que tu vives, comme qui dirait une goutte d'huile.
-En effet, ils veulent que tu sois pauvre, et je te dirai pourquoi : c'est afin que tu connaisses la main qui te nourrit, et que, si l'un d'eux t'excite en sifflant, tu te lances d'un bond féroce sur l'ennemi.
-Car s'ils voulaient assurer la subsistance du peuple, ce serait chose facile.
-Il y a bien mille cités qui maintenant nous paient tribut.
-Si l'on enjoignait à chacune d'elles de nourrir vingt personnes, deux myriades de nos concitoyens ne vivraient que de lièvres, la tête ceinte de toutes sortes de couronnes, et ne boiraient que du lait pur ou bouilli, délices dignes de notre patrie et du trophée de Marathon.
-Aujourd'hui, comme des mercenaires récoltant des olives, vous êtes à la merci de celui qui détient votre salaire.
-
--*who_philokleon
-Hélas !
-Quel froid de glace engourdit ma main !
-Je ne puis tenir mon épée ; je sens que je faiblis.
-
--*who_bdelikleon
-Mais lorsque ces hommes craignent pour eux-mêmes, ils vous donnent l'Euboea, et vous promettent la fourniture de quelque cinquante médimnes de froment ; eux qui ne t'ont jamais rien donné, sauf, tout récemment, cinq médimnes d'orge ; et encore tu ne les reçus qu'à grand'peine, khoenix par khoenix, et en te justifiant de l'accusation d'être étranger.
-Voilà pourquoi je t'ai toujours tenu renfermé, afin de te nourrir moi-même et de ne pas les voir rire des insolences dirigées contre toi.
-Et maintenant je veux franchement te fournir tout ce que tu désires, hors le lait du kolakrète.
-
--*who_lechoeur
-Il était sage celui qui a dit : «Avant d'avoir entendu le discours des deux parties, ne prononcez pas.»
-C'est toi, en effet, qui me parais maintenant avoir largement gagné la cause.
-Cela fait que ma colère se calme et que je jette ces bâtons.
-Et toi, notre contemporain et notre camarade, cède, cède à ses raisons, de peur de paraître un homme atteint de folie, d'entêtement exagéré, et intraitable.
-Qu'il m'eût été utile d'avoir moi-même un tuteur, un parent, pour me remettre ainsi dans le vrai sens !
-Aujourd'hui, un dieu présent vient manifestement à ton aide dans cette occurrence ; on voit qu'il t'accorde sa faveur : accepte-la sans attendre.
-
--*who_bdelikleon
-Oui, je le nourrirai ; je fournirai à ce vieillard tout ce qu'il lui faut, gruau à lécher, manteau doublé, couverture, fille qui lui frottera les reins et le reste.
-Mais qu'il se taise et ne souffle mot, cela ne peut me plaire.
-
--*who_lechoeur
-Il s'est remis lui-même dans le bon sens sur les points où il extravaguait : il a reconnu tout à l'heure sa folie et il se reproche de n'avoir pas suivi tes conseils.
-Maintenant peut-être va-t-il se laisser convaincre par tes observations, et avoir la sagesse de changer de conduite en t'obéissant.
-
--*who_philokleon
-Hélas !
-Malheur à moi !
-
--*who_bdelikleon
-Eh bien, pourquoi cries-tu ?
-
--*who_philokleon
-Laisse-moi là toutes ces promesses ! «Ce que j'aime est là-bas, c'est là-bas que je veux être,» où le héraut crie : «Qui donc n'a pas voté ?
-Qu'il se lève !»
-Que ne puis-je être debout devant les urnes, le dernier des votants !
-Hâte-toi, mon âme !
-Où est mon âme ? «Ténèbres, livrez-moi passage.»
-Par Hèraklès ! puissé-je arriver à temps auprès des juges pour convaincre Kléôn de vol !
-
--*who_bdelikleon
-Allons, mon père, au nom des dieux, obéis-moi !
-
--*who_philokleon
-T'obéir ?
-Dis ce que tu veux, sauf une chose.
-
--*who_bdelikleon
-Laquelle ?
-Parle.
-
--*who_philokleon
-Ne pas juger.
-Hadès aura décidé de moi avant que je consente.
-
--*who_bdelikleon
-Eh bien, si tu fais ton bonheur de rendre la justice, ne sors pas d'ici, reste chez toi et juge tes serviteurs.
-
--*who_philokleon
-Et que juger ?
-Tu plaisantes.
-
--*who_bdelikleon
-Tu feras tout comme là-bas.
-Si une servante ouvre la porte clandestinement, tu décréteras contre elle une simple amende, absolument comme tu le faisais au tribunal.
-Et tout cela se passe au mieux.
-Si le soleil luit dès le matin, tu jugeras au soleil.
-Si la neige tombe ou s'il pleut, tu t'assiéras auprès du feu, pour instruire l'affaire.
-Si tu te lèves à midi, aucun thesmothète ne t'exclura de l'enceinte.
-
--*who_philokleon
-Cela me convient.
-
--*who_bdelikleon
-Il y a plus : si un plaideur n'en finit pas, tu n'attendras pas à jeun, te rongeant toi-même ainsi que l'orateur.
-
--*who_philokleon
-Mais comment pourrai-je bien connaître l'affaire, de même qu'auparavant, si j'ai encore la bouche pleine ?
-
--*who_bdelikleon
-Beaucoup mieux.
-On dit que les juges, entourés de faux témoins, ne parviennent à connaître les affaires qu'en ruminant.
-
--*who_philokleon
-Tu me décides.
-Mais tu ne me dis pas de qui je recevrai les honoraires.
-
--*who_bdelikleon
-De moi.
-
--*who_philokleon
-Bien : je serai payé à part, et non avec les autres.
-Car c'est un tour indigne que m'a joué Lysistratos, ce bouffon.
-Dernièrement, il avait reçu une drakhme pour nous deux.
-Il va faire de la monnaie au marché des poissons, et il me remet trois écailles de mulet.
-Moi, je les fourre dans ma bouche, les ayant prises pour des oboles : dégoûté par l'odeur, je les crache et je le traîne en justice.
-
--*who_bdelikleon
-Et que répliqua-t-il ?
-
--*who_philokleon
-Eh bien, il prétendit que j'avais un estomac de coq. «Tu as été vite à digérer l'argent,» dit-il.
-
--*who_bdelikleon
-Tu vois quel avantage cela t'offre encore.
-
--*who_philokleon
-Et qui n'est pas mince du tout.
-Mais exécute ce que tu veux faire.
-
--*who_bdelikleon
-Attends un moment.
-Je vais tout apporter.
-
--*who_philokleon
-Vois la chose et comment les oracles s'accomplissent.
-J'avais entendu dire qu'un jour viendrait où les Athéniens jugeraient les procès dans leurs maisons et où chaque individu se bâtirait, dans son vestibule, un tout petit tribunal, comme un hèkatéion, partout devant les portes.
-
--*who_bdelikleon
-Tiens, qu'en dis-tu ?
-Je t'apporte tout ce que je t'ai dit, et beaucoup plus même.
-Voici un pot de chambre, si tu as envie d'uriner ; on va le pendre, près de toi, à un clou.
-
--*who_philokleon
-Bonne idée, pour un vieux !
-Tu as trouvé là, franchement, un utile remède à la rétention d'urine.
-
--*who_bdelikleon
-Et puis du feu et des lentilles dessus, si tu as besoin de manger une bouchée.
-
--*who_philokleon
-Pas maladroit du tout !
-Car même si j'ai la fièvre, je toucherai mon salaire.
-Sans bouger d'ici je mangerai mes lentilles.
-Mais à quoi bon m'avez-vous apporté cet oiseau ?
-
--*who_bdelikleon
-Afin que, si tu t'endors pendant une plaidoirie, il t'éveille de là-haut.
-
--*who_philokleon
-Je voudrais encore une chose ; car le reste me suffit.
-
--*who_bdelikleon
-Laquelle ?
-
--*who_philokleon
-Qu'on m'apportât ici la statue de Lykos.
-
--*who_bdelikleon
-La voici : on dirait le Dieu lui-même.
-
--*who_philokleon
-Souverain héros, que tu n'es guère agréable à voir !
-
--*who_bdelikleon
-C'est à nos yeux le portrait même de Kléonymos.
-
--*who_philokleon
-Tout héros qu'il est, il n'a donc pas d'armes non plus.
-
--*who_bdelikleon
-Si tu te hâtais de siéger, je me hâterais d'appeler une cause.
-
--*who_philokleon
-Appelle tout de suite ; il y a longtemps que je siège.
-
--*who_bdelikleon
-Voyons, quelle cause introduirai-je tout d'abord ?
-Quelle sottise a faite quelqu'un de la maison ?
-Thratta ayant dernièrement laissé brûler la marmite...
-
--*who_philokleon
-Holà, arrête !
-Peu s'en faut que tu ne me fasses mourir.
-Tu allais appeler une cause avant d'avoir posé la balustrade : c'est la première condition de nos mystères.
-
--*who_bdelikleon
-Mais, par Zeus ! il n'y en a pas.
-
--*who_philokleon
-Eh bien, je cours, et j'en rapporte une tout de suite de la maison.
-
--*who_bdelikleon
-Ce que c'est pourtant !
-Quelle force a l'habitude du local !
-
-**** *book_ *id_I06 *act_I
-
--*who_xanthias
-Va-t'en aux corbeaux !
-Nourrir un pareil chien !
-
--*who_bdelikleon
-Qu'y a-t-il donc ?
-
--*who_xanthias
 Ne voilà-t-il pas Labès, votre chien, qui vient d'entrer dans la cuisine et de manger un fromage de Sikélia !
 
--*who_bdelikleon
-Voilà le premier délit à déférer à mon père.
-Toi, porte l'accusation.
+Pas moi, de par Zeus ! Mais un autre chien se porte comme accusateur, si l'affaire est appelée.
 
--*who_xanthias
-Pas moi, de par Zeus !
-Mais un autre chien se porte comme accusateur, si l'affaire est appelée.
-
--*who_bdelikleon
-Voyons, maintenant, amène-les tous deux ici.
-
--*who_xanthias
 C'est ce qu'on va faire.
 
--*who_bdelikleon
-Qu'apportes-tu là ?
+Vous avez entendu, citoyens juges, l'accusation que j'ai formulée contre celui-ci. Il a commis le plus affreux des attentats contre moi et contre la marine. Il s'est sauvé dans un coin, à la mode Sikélienne, avec un énorme fromage, dont il s'est repu dans les ténèbres.
 
--*who_philokleon
-La bauge aux porcs consacrés à Hestia.
+Et il ne m'a rien donné, à ma requête. Or, qui voudra vous rendre service, si l'on ne me jette rien à moi, votre chien ?
 
--*who_bdelikleon
-Tu oses y porter une main sacrilège ?
-
--*who_philokleon
-Non, mais c'est en sacrifiant d'abord à Hestia, que j'écraserai quelque adversaire.
-Allons, hâte-toi de les amener.
-Je vois déjà la peine encourue.
-
--*who_bdelikleon
-Voyons, maintenant, j'apporte les tablettes et les registres.
-
--*who_philokleon
-Ah !
-Tu m'assommes, tu me tues, avec tes délais.
-J'aurais pu tracer les mots par terre.
-
--*who_bdelikleon
-Voici.
-
--*who_philokleon
-Appelle donc.
-
--*who_bdelikleon
-J'y suis.
-
--*who_philokleon
-Qu'est-ce d'abord, celui-ci ?
-
--*who_bdelikleon
-Aux corbeaux !
-Quel ennui !
-J'ai oublié d'apporter les urnes aux suffrages.
-
--*who_philokleon
-Eh bien, où cours-tu ?
-
--*who_bdelikleon
-Chercher les urnes.
-
--*who_philokleon
-Inutile : j'avais là ces vases.
-
--*who_bdelikleon
-On ne peut mieux.
-Nous avons tout ce qu'il nous faut, excepté pourtant la klepsydre.
-
--*who_philokleon
-Et ceci ?
-N'est-ce pas une klepsydre ?
-
--*who_bdelikleon
-Tu excelles à fournir les objets nécessaires et locaux.
-Mais qu'on se hâte d'apporter de la maison le feu, les myrtes et l'encens, afin de commencer par invoquer les dieux.
-
--*who_lechoeur
-Et nous, pendant les libations et les prières, nous vous dirons de bonnes paroles, parce que de la lutte et de la dispute vous en êtes venus à une généreuse réconciliation.
-
--*who_bdelikleon
-Débutez donc par les bonnes paroles.
-
--*who_lechoeur
-Ô Phoebos Apollon Pythios, bonne chance à l'affaire instruite par ce magistrat devant sa porte ; accord entre nous tous tirés de nos erreurs !
-Io Paean !
-
--*who_bdelikleon
-Ô Souverain maître, mon voisin, dieu de ma rue, gardien de mon vestibule, accepte, seigneur, ce nouveau sacrifice, que nous innovons en l'honneur de mon père.
-Adoucis cette humeur trop rêche et dure comme l'yeuse, mêle à ce coeur quelques gouttes de miel.
-Qu'il soit désormais doux pour les hommes, plus clément à l'accusé qu'à l'accusateur, prêt à pleurer avec ceux qui l'implorent ; qu'il se dépouille de son aigreur et qu'il arrache les orties de sa colère !
-
--*who_lechoeur
-Nos prières s'unissent aux tiennes, et nos chants en faveur du nouveau magistrat s'accordent avec les paroles que tu as prononcées.
-Oui, tu as notre bienveillance, depuis que nous voyons que tu aimes le peuple bien plus que ne le fait aucun des jeunes.
-
--*who_bdelikleon
-S'il se trouve devant les portes quelque héliaste, qu'il entre.
-Dès qu'on aura commencé à parler, nous n'ouvrirons plus.
-
-**** *book_ *id_I07 *act_I
-
--*who_philokleon
-Quel est l'accusé ?
-
--*who_bdelikleon
-Celui-ci.
-
--*who_philokleon
-Quelle peine va le frapper ?
-
--*who_bdelikleon
-Écoutez l'acte d'accusation.
-Le soussigné chien de Kydathènè accuse Labès d'AExonè d'avoir seul, contre toute justice, mangé un fromage Sikélien.
-Peine : un collier de figuier.
-
--*who_philokleon
-C'est-à-dire une mort de chien, une fois convaincu.
-
--*who_bdelikleon
-L'accusé Labès est ici présent.
-
--*who_bdelikleon
-Oh !
-Le vilain chien !
-Quels yeux de voleur !
-Comme, en serrant les dents, il se flatte de me tromper ?
-Où est le plaignant, le chien de Kydathènè ?
-Le chien !
-Au !
-Au !
-
--*who_bdelikleon
-Le voici.
-
--*who_philokleon
-C'est un second Labès, bon aboyeur et lécheur de marmites.
-
--*who_bdelikleon
-Silence, assis !
-Toi, monte à la tribune et accuse.
-
--*who_philokleon
-Voyons ; en même temps je vais me verser et boire un coup.
-
--*who_xanthias
-Vous avez entendu, citoyens juges, l'accusation que j'ai formulée contre celui-ci.
-Il a commis le plus affreux des attentats contre moi et contre la marine.
-Il s'est sauvé dans un coin, à la mode Sikélienne, avec un énorme fromage, dont il s'est repu dans les ténèbres.
-
--*who_philokleon
-De par Zeus !
-Il est pris sur le fait.
-Tout à l'heure il m'a lâché un gros rot au fromage, le coquin !
-
--*who_xanthias
-Et il ne m'a rien donné, à ma requête.
-Or, qui voudra vous rendre service, si l'on ne me jette rien à moi, votre chien ?
-
--*who_philokleon
-Et il n'a rien donné ?
-
--*who_xanthias
 Rien à moi, son camarade.
 
--*who_philokleon
-Voilà un gaillard aussi bouillant que ces lentilles !
+N'allez pas l'absoudre. C'est de tous les chiens l'être le plus égoïste et le plus glouton, lui qui, louvoyant autour d'un mortier, a dévoré la croûte des villes !
 
--*who_bdelikleon
-Au nom des dieux, mon père, ne prononce pas avant de les avoir entendus tous les deux.
+Châtiez-le donc. Jamais une seule cuisine ne pourrait nourrir deux voleurs. Je ne puis pourtant pas, moi, aboyer le ventre vide : aussi dorénavant je n'aboierai plus.
 
--*who_philokleon
-Mais, mon bon, la chose est claire ; elle crie d'elle-même.
+Heureuses les tortues d'avoir une carapace ! Trois fois heureuses de l'enveloppe qui recouvre leurs flancs ! Avec quelle prudence et quelle ingéniosité vous avez garni votre dos d'une écaille pour vous garantir des coups ! Moi je suis mort, sillonné par le bâton !
 
--*who_xanthias
-N'allez pas l'absoudre.
-C'est de tous les chiens l'être le plus égoïste et le plus glouton, lui qui, louvoyant autour d'un mortier, a dévoré la croûte des villes !
+Il y a que ce n'est plus un vieillard, mais le fléau le plus hideux : il s'est montré de beaucoup le plus pris de vin des convives, quoiqu'il y eût là Hippyllos, Antiphôn, Lykôn, Lysistratos, Théophrastos, Phrynikhos. Il les a tous surpassés en effronterie. Une fois gorgé de bons morceaux, il danse, il saute, il pète, il rit, comme un ânon régalé d'orge ; puis il me rosse gaillardement, en criant : «Enfant ! Enfant !» Le voyant dans cet état, Lysistratos l'apostrophe : «Tu me fais l'effet, vieillard, d'une canaille enrichie, ou d'un baudet courant à la paille.» Et l'autre s'écrie : «Et toi d'une sauterelle, dont le manteau est usé jusqu'à la corde, ou de Sthénélos, dépouillé de sa garde-robe.» Chacun d'applaudir, à l'exception de Théophrastos tout seul, qui se mord les lèvres, en homme bien appris. Le vieillard, s'adressant à Théophrastos : «Dis-moi donc pourquoi tu fais le fier et le suffisant, toi qui ne cesses jamais d'être le bouffon et le parasite des riches ?» Ainsi les drape-t-il, chacun à son tour, de ses railleries grossières, débitant les propos les plus ineptes et les plus impertinents. Quand il est bien ivre, il rentre à la maison, et bat tous ceux qui lui tombent sous la main. Mais le voici qui s'avance en titubant. Moi, je me sauve pour ne pas recevoir de coups.
 
--*who_philokleon
-Aussi n'ai-je pas même de quoi boucher les fentes de ma cruche.
+Par Dionysos ! Je ne sais quel mauvais génie a tout mis sens dessus dessous dans notre maison. À peine le vieux, après avoir bu pendant longtemps, a-t-il entendu les sons de la flûte, que, le coeur plein de joie, il s'est mis à danser, toute la nuit, et à reproduire la vieille chorégraphie de Thespis. Il prétend démontrer tout de suite, en dansant, que les tragiques de nos jours sont des radoteurs.
 
--*who_xanthias
-Châtiez-le donc.
-Jamais une seule cuisine ne pourrait nourrir deux voleurs.
-Je ne puis pourtant pas, moi, aboyer le ventre vide : aussi dorénavant je n'aboierai plus.
-
--*who_philokleon
-Oh ! oh ! que de scélératesses il nous a dénoncées !
-C'est la friponnerie faite homme.
-N'est-ce pas ton avis, mon coq ?
-Par Zeus !
-Il dit que oui.
-Le thesmothète, où est-il ?
-Ohé !
-Donne-moi le pot.
-
--*who_bdelikleon
-Prends-le toi-même.
-Je suis en train d'appeler les témoins.
-Paraissez, témoins à la charge de Labès, plat, pilon, racloire à fromage, fourneau, marmite et autres ustensiles brûlés !
-Mais pisses-tu encore ?
-Ne sièges-tu plus ?
-
--*who_philokleon
-C'est lui, je crois, qui va faire sous lui aujourd'hui.
-
--*who_bdelikleon
-Ne cesseras-tu pas d'être dur et intraitable pour les accusés ?
-Tu les déchires à belles dents !
-Monte à la tribune ; défends-toi.
-D'où vient ton silence ?
-Parle.
-
--*who_philokleon
-Mais il semble qu'il n'ait rien à dire.
-
--*who_bdelikleon
-Non pas, mais il me paraît être dans la même situation que jadis Thoukydidès accusé.
-Ses mâchoires furent tout à coup paralysées.
-Retire-toi ; c'est moi qui présenterai ta défense.
-Il est difficile, citoyens, de faire l'apologie d'un chien calomnié ; je parlerai cependant.
-C'est une bonne bête, et il chasse les loups.
-
--*who_philokleon
-C'est un voleur et un conspirateur.
-
--*who_bdelikleon
-Par Zeus !
-C'est le meilleur des chiens d'aujourd'hui, capable de garder de nombreux moutons.
-
--*who_philokleon
-À quoi cela sert-il, s'il mange le fromage ?
-
--*who_bdelikleon
-Oui, mais il se bat pour toi, il garde la porte, et il excelle dans tout le reste.
-S'il a fait un larcin, pardonne-lui.
-Il est vrai qu'il ne sait pas jouer de la kithare.
-
--*who_philokleon
-Moi, je voudrais qu'il ne sût pas lire, pour ne pas nous faire l'apologie de son crime.
-
--*who_bdelikleon
-Écoute, juge équitable, mes témoins.
-Monte, racloire à fromage, et parle à haute voix.
-Tu exerçais alors la charge de payeur : réponds clairement.
-N'as-tu pas raclé les parts que tu avais reçues pour les soldats ?
-Elle répond qu'elle les a raclées.
-
--*who_philokleon
-Mais, par Zeus !
-Elle ment.
-
--*who_bdelikleon
-Juge compatissant, prends pitié des malheureux.
-Notre Labès ne vit que de têtes et d'arêtes de poissons ; jamais il ne demeure en place.
-L'autre n'est bon qu'à garder la maison : il reste là, attendant ce qu'on apporte et en demandant sa part ; autrement, il mord.
-
--*who_philokleon
-Ouf !
-Quel mal me prend qui fait que je m'attendris ?
-Le malaise dure, et je me sens convaincre.
-
--*who_bdelikleon
-Ah !
-Je t'en conjure, pitié pour lui, mon père !
-Ne le sacrifiez point.
-Où sont les enfants ?
-Montez, malheureux !
-Jappez, priez, suppliez et pleurez !
-
--*who_philokleon
-Descends, descends, descends, descends !
-
--*who_bdelikleon
-Je vais descendre.
-Et quoique ce «descends» en ait trompé bien d'autres, je vais pourtant descendre.
-
--*who_philokleon
-Aux corbeaux !
-Ah !
-Ce n'est pas bon d'avoir mangé.
-Je viens de pleurer, et je n'en vois pas d'autre raison que de m'être bourré de lentilles.
-
--*who_bdelikleon
-Il ne sera donc pas acquitté ?
-
--*who_philokleon
-C'est difficile à savoir.
-
--*who_bdelikleon
-Voyons, mon petit papa, tourne-toi vers de meilleurs sentiments.
-Prends ce suffrage ; passe, de sens rassis, du côté de la seconde urne, et absous-le, mon père.
-
--*who_philokleon
-Non, certes.
-Je ne sais pas jouer de la cithare.
-
--*who_bdelikleon
-Viens à l'instant, je vais t'y conduire au plus vite.
-
--*who_philokleon
-Est-ce la première urne ?
-
--*who_bdelikleon
-Oui.
-
--*who_philokleon
-J'y jette mon suffrage.
-
--*who_bdelikleon
-Il est attrapé ; il vient d'absoudre sans le vouloir.
-
--*who_philokleon
-Attends, que je verse les suffrages.
-Voyons l'issue du débat.
-
--*who_bdelikleon
-Le fait va le prouver.
-Tu es absous, Labès.
-Père, père, que t'arrive-t-il ?
-
--*who_philokleon
-Ah !
-Dieux ! vite de l'eau.
-
--*who_bdelikleon
-Reviens à toi.
-
--*who_philokleon
-Dis-moi la chose comme elle est.
-Est-il réellement absous ?
-
--*who_bdelikleon
-Oui, de par Zeus !
-
--*who_philokleon
-Je suis réduit à rien.
-
--*who_bdelikleon
-Pas de souci, cher père : relève-toi.
-
--*who_philokleon
-Comment, en face de moi-même, supporterai-je l'idée d'avoir absous un accusé ?
-Qu'adviendra-t-il de moi ?
-O dieux vénérés, accordez-moi mon pardon : c'est malgré moi que je l'ai fait : ce n'est pas mon habitude.
-
--*who_bdelikleon
-Ne te fâche pas.
-Moi je veux, mon père, te bien nourrir, te mener avec moi partout, aux dîners, aux banquets, aux spectacles, de manière à passer agréablement le reste de ta vie.
-Hyperbolos ne te rira plus au nez en te dupant, mais entrons.
-
--*who_philokleon
-Oui, maintenant, si bon te semble.
-
-**** *book_ *id_I08 *act_I
-
--*who_lechoeur
-Oui, allez gaiement où vous voulez.
-Pour vous, myriades incalculables, les bonnes choses qu'on va vous dire maintenant, gardez-vous de les laisser négligemment tomber par terre.
-C'est affaire à des spectateurs inintelligents, et non pas à vous.
-Et maintenant, peuple, prêtez-nous attention, si vous aimez un langage sincère.
-Le poète désire, à présent, adresser des reproches aux spectateurs.
-Il prétend qu'on lui a fait une injustice, à lui qui s'est souvent bien conduit envers vous, pas ouvertement sans doute, mais en aidant secrètement d'autres poètes.
-Imitateur des prophéties et des procédés d'Euryklès, il fit passer dans d'autres ventres bon nombre de ses traits comiques.
-Bientôt, il affronta le risque de se montrer ouvertement et de lui-même, prenant en mains les rênes, non plus de la bouche d'autrui, mais de celle de ses propres muses.
-Porté au sommet de la grandeur, plus honoré que jamais personne d'entre vous, il dit n'avoir pas atteint le comble, ni être gonflé d'orgueil, ni parcourir les palestres en séducteur.
-Si quelque amant, mû par la haine, accourait sur lui pour s'être raillé comiquement de ses amours, il dit qu'il n'a jamais fléchi devant personne, gardant la ferme résolution de ne pas faire jouer aux muses dont il s'inspire, le rôle d'entremetteuses.
-La première fois qu'il joua, il n'eut pas, selon lui, à combattre des hommes, mais à s'armer du courage de Hèraklès, pour attaquer les plus grands monstres, assaillant tout d'abord avec vigueur la bête aux dents aiguës, dans les yeux de laquelle luisaient des rayons terribles comme les yeux de Kynna, et dont les cent têtes étaient léchées en cercle par des flatteurs, gémissant autour de son cou : elle avait la voix redoutable d'un torrent qui grossit, l'odeur d'un phoque, les testicules malpropres d'une Lamia, et le derrière d'un chameau.
-A la vue de ce monstre, notre poète dit que la peur ne lui fera pas offrir des présents, mais qu'aujourd'hui encore il va combattre pour vous.
-Il ajoute qu'après ce monstre, il lutta, l'an passé, contre des démons sinistres, des êtres fiévreux, qui, la nuit, étranglaient les pères, étouffaient les grands-pères, s'asseyaient à la couche de vos concitoyens inoffensifs, les inondaient de contre-serments, de citations, de témoignages, au point qu'un bon nombre bondissaient terrifiés chez le polémarkhe.
-Après avoir trouvé un tel défenseur, un tel sauveur de ce pays, vous l'avez abandonné, l'année dernière, lorsqu'il semait ses pensées les plus neuves, dont, faute de les bien comprendre, vous avez arrêté la pousse.
-Cependant, au milieu de nombreuses libations, il atteste Dionysos que jamais on n'entendit de meilleurs vers comiques.
-C'est une honte pour vous de ne pas les avoir appréciés sur-le-champ ; mais le poète n'est pas estimé à une moindre valeur par les hommes éclairés, quoique, devançant ses rivaux, il ait eu son espérance brisée.
-Mais, à l'avenir, braves gens, si vous avez des poètes qui cherchent des paroles et des idées neuves, aimez-les, favorisez-les davantage, et conservez leurs pensées : enfermez-les dans vos coffres avec les fruits.
-En agissant ainsi, vos vêtements exhaleront toute l'année une odeur de sagesse.
-Ô nous, autrefois vaillants dans les choeurs, vaillants dans les combats, et hommes plus vaillants encore par ce côté seul, tout cela est passé, bien passé.
-Aujourd'hui la blancheur florissante de nos cheveux surpasse celle du cygne.
-Toutefois il faut que de ces restes surgisse la vigueur du jeune âge : pour moi, je suis convaincu que ma vieillesse vaut mieux que les boucles de beaucoup de jeunes gens, que leur parure et leur derrière élargi.
-Si quelqu'un de vous, spectateurs, à l'aspect de mon costume, s'étonne de me voir avec un corsage de guêpe, et de ce que signifie notre aiguillon, je le lui expliquerai aisément, quelle que soit son ignorance première.
-Nous sommes, nous qui avons cet appendice au derrière, les Attiques, seuls vraiment nobles, autochthones, race la plus vaillante, qui rendit à la ville les plus nombreux services dans les combats, quand vint le Barbare, couvrant la ville de fumée, mettant tout en feu, et voulant nous enlever violemment nos ruches.
-Aussitôt, armés de la lance et du bouclier, nous accourons pour les combattre, le coeur enivré de colère, debout, homme contre homme, dévorant nos lèvres de fureur, la grêle des flèches dérobant la vue du ciel.
-Cependant, avec l'aide des dieux, nous les mettons en déroute vers le soir.
-Une chouette, avant la bataille, avait passé au-dessus de notre armée.
-Puis nous les poursuivons, les piquant comme des taons sous leurs longs vêtements, et ils s'enfuient, les joues et les sourcils criblés de dards ; si bien que chez les Barbares, partout et maintenant encore, on ne désigne rien de plus redoutable que la guêpe attique.
-Certes alors j'étais terrible, n'ayant peur de rien : je mis en fuite les ennemis, cinglant où il fallait sur nos trières.
-Car nous n'avions pas alors le souci d'arrondir une phrase, ni la pensée de dénoncer quelqu'un, mais le désir d'être le meilleur rameur.
-Aussi, après avoir enlevé aux Mèdes un grand nombre de villes, méritions-nous de recevoir ici les tributs, que volent les jeunes gens.
-Examinez-nous du haut en bas et sous tous les aspects, vous nous trouverez, pour le caractère et pour la manière de vivre, absolument semblables aux guêpes.
-Et d'abord il n'y a pas d'animal plus irritable que nous, ni plus colère, ni plus impatient.
-Ensuite, toutes nos différentes occupations ressemblent à celles des guêpes.
-Groupés par essaims, comme ceux des ruches, les uns d'entre nous s'en vont chez l'arkhonte, les autres chez les Onze, d'autres à l'Odéôn : quelques-uns serrés contre les murs, la tête baissée vers la terre, remuent à peine, comme les chenilles dans leurs alvéoles.
-Pour le reste de la vie nous abondons en ressources.
-En piquant un chacun, nous nous procurons de quoi vivre.
-Mais nous avons parmi nous des frelons inactifs, dépourvus d'aiguillon, et qui, séjournant à l'intérieur du logis, dévorent notre travail, sans se donner aucune peine.
-C'est pour nous une chose des plus douloureuses qu'un être qui se dispense du service, nous ravisse notre salaire, lui qui, pour la défense de ce pays, ne prend ni rame, ni lance, ni ampoule.
-Il me semble, en un mot, que ceux des citoyens qui n'auront pas d'aiguillon, ne doivent pas toucher le triobole.
-
--*who_philokleon
-Jamais de la vie je ne quitterai plus ce manteau, qui seul me sauva dans la bataille où le puissant Boréas nous fit la guerre.
-
--*who_bdelikleon
-Tu sembles n'avoir aucun souci de ton bien.
-
--*who_philokleon
-De par Zeus !
-Je me passe aisément des choses de luxe.
-Dernièrement je me régalais d'une friture, et je payai un triobole dû au dégraisseur.
-
--*who_bdelikleon
-Fais du moins l'épreuve, puisque, une bonne fois, tu t'es livré à moi pour bien vivre.
-
--*who_philokleon
-Que m'ordonnes-tu donc de faire ?
-
--*who_bdelikleon
-Quitte ce manteau usé et endosse cette laena en guise de manteau.
-
--*who_philokleon
-Faites donc des enfants et élevez-les : voilà le mien maintenant qui veut m'étouffer !
-
--*who_bdelikleon
-Voyons, prends-la, mets-la, et ne dis rien.
-
--*who_philokleon
-Qu'est-ce que c'est que cette mauvaise chose, au nom de tous les dieux ?
-
--*who_bdelikleon
-Les uns l'appellent une persique, les autres une kaunakè.
-
--*who_philokleon
-Moi, je la prenais pour une couverture de Thymoetè.
-
--*who_bdelikleon
-Ce n'est pas étonnant ; tu n'es jamais allé à Sardes ; tu la connaîtrais alors, tandis que maintenant tu ne la connais pas.
-
--*who_philokleon
-Moi ?
-Non, de par Zeus !
-Mais cela me paraissait ressembler absolument à la casaque pluchée de Morykhos.
-
--*who_bdelikleon
-Erreur ; c'est à Ekbatana qu'on fait ces tissus.
-
--*who_philokleon
-Est-ce qu'à Ekbatana on fait des intestins de laine ?
-
--*who_bdelikleon
-Pas du tout, mon bon ; mais chez les Barbares cette étoffe se tisse à grands frais.
-Ainsi ce vêtement mange bien pour un talent de laine.
-
--*who_philokleon
-Il serait donc plus juste de l'appeler mange-laine que kaunakè.
-
--*who_bdelikleon
-Voyons, mon bon, tiens-toi et endosse-la.
-
--*who_philokleon
-Malheureux que je suis !
-Quelle chaleur la malpropre m'a rotée au nez !
-
--*who_bdelikleon
-Ne l'endosses-tu pas ?
-
--*who_philokleon
-Non, de par Zeus !
-Mais, mon bon, si c'est indispensable, mettez-moi dans un four.
-
--*who_bdelikleon
-Allons, c'est moi qui te la passerai ; viens donc ici.
-
--*who_philokleon
-Au moins place là un croc.
-
--*who_bdelikleon
-Pour quoi faire ?
-
--*who_philokleon
-Pour me retirer avant que je sois fondu.
-
--*who_bdelikleon
-Voyons, maintenant, ôte ces maudites savates, et mets vite cette chaussure lakonienne.
-
--*who_philokleon
-Moi ?
-Je n'aurai jamais le coeur de mettre d'odieuses chaussures fabriquées par des ennemis !
-
--*who_bdelikleon
-Allons, mon cher, marche hardiment sur le sol lakonien : fais vite.
-
--*who_philokleon
-C'est mal à toi de me faire le pied au pays ennemi.
-
--*who_bdelikleon
-Allons, l'autre pied !...
-
--*who_philokleon
-Impossible pour celui-là ; il a un de ses doigts qui déteste tout à fait les Lakoniens.
-
--*who_bdelikleon
-Il ne peut pas en être autrement.
-
--*who_philokleon
-Malheureux que je suis de n'avoir pas d'engelure dans ma vieillesse !
-
--*who_bdelikleon
-Finis-en de te chausser ; puis marche à la façon des riches, avec un balancement voluptueux et efféminé.
-
--*who_philokleon
-Regarde : vois cette tournure, et juge de qui des riches ma démarche se rapproche le plus.
-
--*who_bdelikleon
-De qui ?
-D'un furoncle revêtu d'ail.
-
--*who_philokleon
-Aussi ai-je envie de tortiller des fesses.
-
--*who_bdelikleon
-Voyons, maintenant, sauras-tu tenir un langage grave devant des hommes instruits et habiles ?
-
--*who_philokleon
-Oui.
-
--*who_bdelikleon
-Que diras-tu ?
-
--*who_philokleon
-Beaucoup de choses.
-D'abord comment Lamia, se voyant prise, s'est mise à péter ; puis comment Kardopiôn frappa sa mère.
-
--*who_bdelikleon
-Non, pas de fables, mais des choses de la vie humaine, tels que nos sujets ordinaires d'entretien à la maison.
-
--*who_philokleon
-Ah !
-J'en sais du genre de ce qui se dit à la maison, par exemple : «Il y avait une fois une souris et un chat.»
-
--*who_bdelikleon
-«Être sot et grossier», comme dit Théogénès au vidangeur, en lui faisant des reproches, vas-tu parler de souris et de chats à des hommes ?
-
--*who_philokleon
-De qui faut-il donc que je parle ?
-
--*who_bdelikleon
-De personnages éminents, de tes collègues en députation Androklès et Klisthénès.
-
--*who_philokleon
-Moi !
-Jamais je ne suis allé en députation, excepté à Paros, et j'ai reçu pour cela deux oboles.
-
--*who_bdelikleon
-Eh bien, dis-nous donc comment Éphoudiôn combattit glorieusement au pankration avec Askondas : tout vieux qu'il était et blanchi, il avait de larges reins, des poignets, des flancs et un thorax superbes.
-
--*who_philokleon
-Assez, assez, tu ne sais ce que tu dis.
-À quoi bon le thorax pour se battre au pankration ?
-
--*who_bdelikleon
-Telle est la manière de converser des sages.
-Mais dis-moi autre chose.
-Si tu étais à boire avec des étrangers, quel est celui des actes de ta jeunesse que tu citerais comme le plus viril ?
-
--*who_philokleon
-Le plus viril, oui, le plus viril de mes exploits, c'est d'avoir dérobé les échalas d'Ergasiôn.
-
--*who_bdelikleon
-Tu m'assommes.
-Quels échalas ?
-Dis comment tu as poursuivi un sanglier, un lièvre, fait la course des torches ; trouve quelque chose de très juvénile.
-
--*who_philokleon
-Ah oui ; voici quelque chose de très juvénile.
-C'est lorsque, encore jouvenceau, je poursuivis le coureur Phayllos, qui m'avait insulté, et le battis de deux voix.
-
--*who_bdelikleon
-Assez.
-Mais place-toi sur ce lit et apprends à être un bon convive, un homme de bonne compagnie.
-
--*who_philokleon
-Comment donc me placer ?
-Dis-moi vite.
-
--*who_bdelikleon
-Décemment.
-
--*who_philokleon
-Est-ce ainsi qu'il faut se placer ?
-
--*who_bdelikleon
-Pas du tout.
-
--*who_philokleon
-Comment donc ?
-
--*who_bdelikleon
-Écarte les genoux, et, à la façon des gymnastes, étends-toi avec souplesse sur les tapisseries ; puis fais l'éloge des bronzes, regarde le plafond, admire les tentures de la cour.
-Voici l'eau pour les mains ; on apporte les tables : nous soupons ; les ablutions sont faites : nous offrons les libations.
-
--*who_philokleon
-Au nom des dieux, est-ce en rêve que nous soupons ?
-
--*who_bdelikleon
-La joueuse de flûte s'est fait entendre : les convives sont Théoros, AEskhinès, Phanos, Kléôn, et je ne sais quel autre invité dans le voisinage de la tête d'Akestor.
-Tu fais partie de la société : aie soin de bien suivre les skolies.
-
--*who_philokleon
-Très bien.
-
--*who_bdelikleon
-Dis-tu vrai ?
-
--*who_philokleon
-Comme pas un habitant de la Diakria ne les suivrait.
-
--*who_bdelikleon
-Je m'en assure.
-Je suis Kléôn : j'entonne le premier le skolie de Harmodios ; tu vas suivre, toi. «Il n'y eut jamais dans Athènes...»
-
--*who_philokleon
-«Un être aussi méchant, un semblable voleur.»
-
--*who_bdelikleon
-C'est là ce que tu répondras ?
-Tu es un homme perdu.
-Il va se mettre à crier qu'il veut te mettre à mal, te déchirer, te chasser du pays.
-
--*who_philokleon
-Et moi, s'il menace, de par Zeus !
-Je lui en chanterai un autre : «Ohé !
-L'homme !
-Dans ton désir furieux du pouvoir suprême, tu détruis la cité qui déjà penche vers sa ruine.»
-
--*who_bdelikleon
-Et lorsque Théoros, couché aux pieds de Kléôn, lui prendra la main et chantera : «Ami, tu connais l'histoire d'Admètos, aime donc les braves,» par quel skolie lui répondras-tu ?
-
--*who_philokleon
-Je lui dirai avec raison : «Il ne s'agit pas de faire le renard et d'être l'ami des deux partis.»
-
--*who_bdelikleon
-Après lui AEskhinès, fils de Sellos, continuera : «C'est un homme sage, ami des Muses.»
-Il chantera : «Richesse et bien vivre à Klitagoras et à moi, avec les Thessaliens.»
-
--*who_philokleon
-«Nous en avons beaucoup dépensé, toi et moi.»
-
--*who_bdelikleon
-Sur ce point, tu en sais convenablement.
-Mais allons souper chez Philoktèmôn.
-Enfant, enfant, Khrysos, emporte les plats avec nous, afin de nous enivrer à notre aise.
-
--*who_philokleon
-Pas du tout : c'est mauvais de boire.
-Du vin naît le bris des portes, les coups, les pierres ; puis il faut donner de l'argent, au sortir de l'ivresse.
-
--*who_bdelikleon
-Mais non, si tu es avec des hommes bons et beaux : ils apaisent l'offensé ; ou bien tu dis quelque mot spirituel, un joli conte à la façon d'AEsopos ou de Sybaris, que tu as appris à table ; tu tournes la chose en plaisanterie, et il te laisse aller.
-
--*who_philokleon
-Je vais donc apprendre beaucoup de contes, afin de n'encourir aucune peine, si je fais mal.
-
--*who_bdelikleon
-Allons, partons : que rien ne nous retienne.
-
-**** *book_ *id_I09 *act_I
-
--*who_lechoeur
-Souvent il m'a paru que de ma nature j'avais de la finesse, et de la sottise jamais.
-Mais combien est supérieur Amynias, fils de Sellos, de la race de Krobylos, que j'ai vu jadis, nanti d'une pomme et d'une grenade, manger à la table de Léogoras ; car il est aussi meurt-de-faim qu'Antiphôn.
-Il est allé en légation à Pharsalos ; mais là, seul, il communiquait seulement avec les pénestes (domestiques) des Thessaliens, non moins péneste que les autres.
-Bienheureux Automénès, que nous te trouvons heureux d'avoir pour enfants de très habiles artistes !
-Le premier, ami de tout le monde, est un homme fort avisé, kithariste accompli, et que la grâce accompagne ; le second un acteur d'un incomparable talent.
-Vient ensuite Ariphradès, le plus intelligent des trois.
-Son père jurait qu'il n'avait rien appris de personne, et qu'une heureuse nature lui avait spontanément enseigné à jouer de la langue dans les lupanars qu'il hante chaque jour...
-Il y en a qui ont prétendu que je m'étais réconcilié avec Kléôn, pendant qu'il s'acharnait sur moi, me trépignait et me lardait d'outrages.
-Au moment où j'étais mis en pièces, ceux du dehors riaient, en me voyant jeter de hauts cris, n'ayant nul souci de moi, mais seulement pour savoir si, foulé aux pieds, je lancerais quelque brocard.
-Ce que voyant, je me suis adouci comme un singe.
-Et depuis lors : «l'échalas manque à la vigne.»
-
--*who_xanthias
-Heureuses les tortues d'avoir une carapace !
-Trois fois heureuses de l'enveloppe qui recouvre leurs flancs !
-Avec quelle prudence et quelle ingéniosité vous avez garni votre dos d'une écaille pour vous garantir des coups !
-Moi je suis mort, sillonné par le bâton !
-
--*who_lechoeur
-Qu'y a-t-il, enfant ?
-Car on a le droit d'appeler enfant, fût-il un vieillard, quiconque reçoit des coups.
-
--*who_xanthias
-Il y a que ce n'est plus un vieillard, mais le fléau le plus hideux : il s'est montré de beaucoup le plus pris de vin des convives, quoiqu'il y eût là Hippyllos, Antiphôn, Lykôn, Lysistratos, Théophrastos, Phrynikhos.
-Il les a tous surpassés en effronterie.
-Une fois gorgé de bons morceaux, il danse, il saute, il pète, il rit, comme un ânon régalé d'orge ; puis il me rosse gaillardement, en criant : «Enfant !
-Enfant !»
-Le voyant dans cet état, Lysistratos l'apostrophe : «Tu me fais l'effet, vieillard, d'une canaille enrichie, ou d'un baudet courant à la paille.»
-Et l'autre s'écrie : «Et toi d'une sauterelle, dont le manteau est usé jusqu'à la corde, ou de Sthénélos, dépouillé de sa garde-robe.»
-Chacun d'applaudir, à l'exception de Théophrastos tout seul, qui se mord les lèvres, en homme bien appris.
-Le vieillard, s'adressant à Théophrastos : «Dis-moi donc pourquoi tu fais le fier et le suffisant, toi qui ne cesses jamais d'être le bouffon et le parasite des riches ?»
-Ainsi les drape-t-il, chacun à son tour, de ses railleries grossières, débitant les propos les plus ineptes et les plus impertinents.
-Quand il est bien ivre, il rentre à la maison, et bat tous ceux qui lui tombent sous la main.
-Mais le voici qui s'avance en titubant.
-Moi, je me sauve pour ne pas recevoir de coups.
-
-**** *book_ *id_I10 *act_I
-
--*who_philokleon
-Laissez-moi ; retirez-vous.
-Je vais faire gémir quelqu'un de ceux qui me suivent.
-Ah !
-Si vous ne décampez pas, gredins, je vous grille avec une torche.
-
--*who_bdelikleon
-Demain tu nous paieras cela à nous tous, malgré tes allures de jeune homme.
-Nous viendrons en foule t'assigner.
-
--*who_philokleon
-Ah !
-Ah !
-M'assigner !
-Vieux jeu !
-Sachez donc que je ne puis plus entendre le mot procès.
-Hé !
-Hé !
-Hé !
-Cela me suffit.
-Jetez les urnes.
-Tu n'es pas parti ?
-Où est l'hèliaste ?
-Disparu.
-Monte ici, mon petit hanneton d'or ; prends cette corde dans ta main : tiens ferme et prends garde, car la corde est usée !
-Cependant elle ne sera pas fâchée qu'on la frotte.
-Vois comme je t'ai adroitement soustraite aux procédés lesbiens des convives.
-Pour cela montre-toi reconnaissante envers ma brochette.
-Mais tu ne le feras point, tu ne l'essaieras même pas, je le sais : tu me tromperas, tu me riras au nez comme tu l'as déjà fait à tant d'autres.
-Et pourtant si tu voulais maintenant n'être pas une méchante, je te promets, quand mon fils sera mort, de te racheter et de t'avoir pour maîtresse, bijou mignon.
-Aujourd'hui je ne dispose pas de mon bien, parce que je suis jeune et qu'on me surveille de près.
-Mon cher fils m'observe, et il n'est pas commode : c'est un homme à scier en deux un grain de cumin et à gratter des brins de cresson : aussi a-t-il peur que je me perde ; car il n'a pas d'autre père que moi.
-Mais le voici qui accourt vers toi et moi.
-Fais bonne contenance et prends-moi vite ces torches : je vais lui faire un de ces tours de jeune homme comme il m'en faisait, avant que je fusse initié à ces mystères.
-
--*who_bdelikleon
-Oh !
-Oh !
-Vieux radoteur, manieur de derrières, tu désires et tu aimes, ce me semble, les jolis cercueils ; mais, j'en jure par Apollon, ce n'est pas impunément que tu agiras ainsi.
-
--*who_philokleon
-Comme tu te régalerais agréablement d'un procès à la sauce piquante !
-
--*who_bdelikleon
-N'est-ce pas nous jouer d'un vilain tour que d'enlever la joueuse de flûte aux convives ?
-
--*who_philokleon
-Quelle joueuse de flûte ?
-Bats-tu la campagne comme si tu sortais de la tombe ?
-
--*who_bdelikleon
-Non pas, de par Zeus !
-C'est cette Dardanienne que tu as avec toi.
-
--*who_philokleon
-Pas du tout : c'est une torche qui brûle en l'honneur des dieux sur l'Agora.
-
--*who_bdelikleon
-Une torche, cette donzelle ?
-
--*who_philokleon
-Oui, une torche !
-Tu ne vois pas qu'elle est de toutes les couleurs ?
-
--*who_bdelikleon
-Mais qu'est-ce qu'il y a donc de noir au milieu ?
-
--*who_philokleon
-La résine, sans doute, qui sort de la flamme.
-
--*who_bdelikleon
-Et du côté inverse n'est-ce pas un derrière ?
-
--*who_philokleon
-Non, c'est sans doute une branche de la torche qui ressort par là.
-
--*who_bdelikleon
-Que dis-tu ?
-Quelle branche ?
-Allons, viens ici.
-
--*who_philokleon
-Ah !
-Ah !
-Que vas-tu faire ?
-
--*who_bdelikleon
-La prendre, l'emmener et te l'enlever, certain que tu es usé et impuissant à rien faire.
-
--*who_philokleon
-Écoute-moi un instant.
-J'assistais aux Jeux Olympiques, lorsque Éphoudiôn combattit glorieusement contre Askondas : il était vieux, et pourtant d'un coup de poing le vieux renversa le jeune.
-Ainsi prends garde de recevoir quelques pochons sur l'oeil.
-
--*who_bdelikleon
-De par Zeus ! tu connais bien Olympia.
-
-**** *book_ *id_I11 *act_I
-
--*who_laboulangere
-A moi, à l'aide, je t'en conjure au nom des dieux !
-Cet homme m'a mise à mal en me frappant avec sa torche ; il a jeté par terre dix pains d'une obole, et quatre autres par-dessus le marché.
-
--*who_bdelikleon
-Vois-tu ce que tu as fait ?
-Des affaires, des procès, voilà ce que nous attire ton ivrognerie.
-
--*who_philokleon
-Pas du tout.
-Des contes spirituels arrangeront tout cela.
-Je saurai bien me raccommoder avec elle.
-
--*who_laboulangere
-Non, non, par les deux Déesses ! tu ne te seras pas moqué impunément de Myrtia, fille d'Ankyliôn et de Sostrata, en venant gâter ma marchandise.
-
--*who_philokleon
-Écoute, femme ; je veux te raconter une jolie histoire.
-
--*who_laboulangere
-Non, de par Zeus !
-Mon pauvre homme !
-
--*who_philokleon
-AEsopos, un soir, revenant de souper, était poursuivi par les aboiements d'une chienne effrontée et prise de vin. «Chienne, chienne, lui dit-il, de par Zeus !
-Si tu échangeais ta méchante langue contre un morceau de pain, à mon avis, tu me semblerais sage.»
-
--*who_laboulangere
-Tu te moques de moi.
-Qui que tu sois, je t'assignerai devant les agoranomes pour dommages faits à ma marchandise, et j'ai pour témoin khaeréphôn que voici.
-
--*who_philokleon
-Par Zeus !
-Écoute-moi donc, si je dis quelque chose qui t'agrée.
-Un jour Lasos et Simonidès se faisaient concurrence.
-Lasos dit : «Cela m'est bien égal.»
-
--*who_laboulangere
-Vraiment, mon cher homme ?
-
--*who_philokleon
-Et toi, khaeréphôn, tu vas donc servir de témoin à une femme au teint jaune, à une Ino, qui d'un rocher se jette aux pieds d'Euripidès ?
-
--*who_bdelikleon
-En voici un autre, qui a l'air de vouloir t'assigner : il a un témoin avec lui.
-
--*who_laccusateur
-Malheureux que je suis !
-Vieillard, je t'assigne pour outrage.
-
--*who_bdelikleon
-Pour outrage ?
-Non, non ; ne l'assigne pas, au nom des dieux !
-Je te ferai en sa place telle réparation que tu fixeras, et je t'en saurai gré.
-
--*who_philokleon
-Et moi j'entre volontiers en arrangement avec lui.
-Je conviens de l'avoir battu, lapidé ; mais viens ici.
-T'en rapportes-tu à moi pour la somme d'argent qu'exige l'affaire et pour rester toujours amis, ou préfères-tu la fixer ?
-
--*who_laccusateur
-Dis toi-même ; car je n'ai besoin ni de procès, ni d'affaires.
-
--*who_philokleon
-Un Sybarite tombe d'un char, et peu s'en faut qu'il ne se fende très grièvement la tête, vu qu'il n'était pas très fort en science hippique.
-Un de ses amis survient, qui lui dit : «Que chacun fasse son métier !»
-De même toi, tu n'as qu'à courir chez Pittalos.
-
--*who_bdelikleon
-Rien de changé en toi, tu as toujours la même humeur.
-
--*who_laccusateur
-Souviens-toi bien, toi, de ce qu'il a répondu.
-
--*who_philokleon
-Écoute, ne t'en va pas.
-Un jour, à Sybaris, une femme brise un coffret.
-
--*who_laccusateur
-Je te prends à témoin.
-
--*who_philokleon
-Le coffret prend un témoin.
-Le Sybarite lui dit : «Par Kora, laisse donc là tous ces témoignages, et achète des ligatures, tu feras preuve de plus de bon sens.»
-
--*who_laccusateur
-Fais l'insolent jusqu'à ce que l'arkhonte appelle l'affaire.
-
--*who_bdelikleon
-Par Dèmètèr !
-Tu ne resteras pas ici davantage, mais je t'enlève et je t'emporte.
-
--*who_philokleon
-Que fais-tu ?
-
--*who_bdelikleon
-Ce que je fais ?
-Je veux te porter d'ici dans la maison : autrement, les témoins manqueront aux accusateurs.
-
--*who_philokleon
-Un jour AEsopos étant à Delphoe...
-
--*who_bdelikleon
-Cela m'est bien égal.
-
--*who_philokleon
-Est accusé d'avoir volé un vase consacré au Dieu.
-Alors il leur raconte comment l'escarbot...
-
--*who_bdelikleon
-La peste !
-Tu m'assommes avec tes escarbots.
-
-**** *book_ *id_I12 *act_I
-
--*who_lechoeur
-Je t'envie pour ton bonheur, vieillard.
-Quelle différence avec ses habitudes frugales et son existence !
-Instruit maintenant d'une manière tout autre, il va sans doute changer de sentiment au sujet des jouissances et de la mollesse.
-Peut-être cependant ne voudra-t-il pas ; car il est difficile de renoncer au naturel que l'on a toujours eu.
-Bien des gens l'ont fait pourtant, et entrant dans les idées d'autrui ont changé leurs manières.
-Du moins j'accorderai, avec tous les hommes sages, beaucoup d'éloges, à cause de sa sagesse et de l'affection qu'il a pour son père, au fils de
-
--*who_philokleon
-Je n'ai jamais rencontré quelqu'un de plus aimable, jamais caractère ne m'a inspiré une si folle affection et ne m'a fait m'épanouir ainsi.
-Sur quel point de la discussion s'est-il laissé battre, quand il voulait ramener son père à des façons plus honorables ?
-
--*who_xanthias
-Par Dionysos !
-Je ne sais quel mauvais génie a tout mis sens dessus dessous dans notre maison.
-À peine le vieux, après avoir bu pendant longtemps, a-t-il entendu les sons de la flûte, que, le coeur plein de joie, il s'est mis à danser, toute la nuit, et à reproduire la vieille chorégraphie de Thespis.
-Il prétend démontrer tout de suite, en dansant, que les tragiques de nos jours sont des radoteurs.
-
--*who_philokleon
-Qui donc se tient à l'entrée du vestibule ?
-
--*who_xanthias
 Voilà le fléau qui approche.
 
--*who_philokleon
-Abaissez les barrières : voici le commencement de la figure.
-
--*who_xanthias
 C'est bien plutôt le commencement de la folie.
 
--*who_philokleon
-Elle courbe mes flancs avec violence.
-Comme mes narines mugissent !
-Comme mes vertèbres résonnent !
-
--*who_xanthias
 Prends de l'ellébore !
 
--*who_philokleon
-Phrynikhos est un coq qui jette l'épouvante.
-
--*who_xanthias
 Gare les coups de pied !
 
--*who_philokleon
-Sa jambe lance des ruades jusqu'au ciel : son derrière est béant.
-
--*who_xanthias
 Fais donc attention !
 
--*who_philokleon
-Maintenant les articulations de mes membres jouent avec souplesse.
+Ce n'est pas bon tout cela, de par Zeus ! C'est de la folie.
 
--*who_xanthias
-Ce n'est pas bon tout cela, de par Zeus !
-C'est de la folie.
-
--*who_philokleon
-Voyez, maintenant ; j'appelle et défie les antagonistes.
-Si quelque tragique prétend danser avec grâce, qu'il vienne ici jouter avec moi.
-Y a-t-il quelqu'un ou n'y a-t-il personne ?
-
--*who_xanthias
 Un seul que voici.
 
--*who_philokleon
-Et quel est le malheureux ?
-
--*who_xanthias
 Le second fils de Karkinos.
 
--*who_philokleon
-Je n'en ferai qu'une bouchée.
-Je l'anéantirai sous une emmélie de coups.
-En fait de rhythme, il n'y entend rien.
-
--*who_xanthias
 Mais, malheureux, il y a un second tragique de la dynastie des Karkinos, qui se présente : c'est le frère de l'autre.
 
--*who_philokleon
-De par Zeus !
-J'en fais mon dîner.
+Mais, de par Zeus ! Tu n'auras que des cancres : voici encore un troisième Karkinos.
 
--*who_xanthias
-Mais, de par Zeus !
-Tu n'auras que des cancres : voici encore un troisième Karkinos.
 
--*who_philokleon
-Qui est-ce qui rampe donc ainsi ?
-Une écrevisse ou un faucheux ?
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bdelikleon
 
--*who_bdelikleon
+Xanthias, Sosias, Dormez-vous ?
+
+Que l'un de vous deux accoure vite ici ! Mon père est dans l'étuve, et il fouille comme un rat qui se cache dans un trou. Toi, aie l'oeil sur le tuyau, afin qu'il ne s'échappe point par là ; et toi, colle-toi contre la porte.
+
+Souverain Poséidôn, quel est ce bruit dans la cheminée ? Hé ! là-haut, qui es-tu ?
+
+La fumée ? Et de quel bois es-tu donc ?
+
+Par Zeus ! C'est la plus âcre des fumées. Mais, je t'en réponds, tu ne t'échapperas pas. Où est le couvercle ? Rentre. Allons, je vais ajouter une traverse. Cherche alors quelque autre machine. Vraiment, je suis malheureux comme pas un ; on va m'appeler maintenant le fils de «l'Enfumé». Enfant, tiens la porte, pèse dessus ferme, vigoureusement. J'y vais venir aussi. Veille à la serrure ; et, pour le verrou, prends garde qu'il ne ronge le fermoir.
+
+Cela te ferait donc beaucoup de peine ?
+
+Apollon sauveur, quel oracle !
+
+Non par Poséidon ! Philokléôn, jamais.
+
+À belles dents ? Mais tu n'en as pas.
+
+Cet homme va faire quelque mauvais coup.
+
+Pourquoi n'irais-je pas le vendre, moi ?
+
+Mais mieux, j'en atteste Zeus !
+
+Mais il n'a rien attrapé ; j'ai éventé sa ruse. Entrons toutefois ; je vais moi-même faire sortir l'âne, afin que le vieillard ne s'échappe pas de nouveau.
+
+Qui cela ? Voyons !
+
+Qu'est-ce que c'est ? Qui es-tu, l'homme ? Dis-le nettement.
+
+Outis, toi ? De quel pays ?
+
+Outis, j'en atteste Zeus ! tu n'auras pas à te réjouir. Entraîne-le vite. Ah ! le misérable. Où s'est-il glissé ? À mes yeux, il est tout ce qu'il y a de plus ressemblant avec l'ânon d'un témoin.
+
+Et sur quoi notre procès ?
+
+Tu es un méchant sans malice et rempli d'audace.
+
+Fais rentrer l'âne et toi-même dans la maison.
+
+Une fois là dedans, hurle, la porte fermée. Toi, roule un tas de pierres à l'entrée, remets le verrou dans la traverse, et hâte-toi d'appuyer ce gros mortier contre la poutre, pour servir de barricade.
+
+C'est peut-être quelque rat qui te l'a jetée.
+
+Malheur à moi ! Voilà notre homme devenu moineau ! Il va s'envoler. Où est le filet ? Où est-il ? Psichtt ! psichtt ! Hé ! Psichtt !... Par Zeus ! J'aimerais mieux garder Skiônè qu'un tel père.
+
+Mais, malheureux, dans un instant vont arriver les autres juges ses collègues, pour appeler mon père !
+
+Par Zeus ! Ils se sont levés tard aujourd'hui. C'est toujours vers le milieu de la nuit qu'ils viennent le chercher, apportant des lanternes, et fredonnant les chants antiques des Sidoniennes de Phrynikhos, qui leur servent à l'appeler.
+
+Mais, malheureux, cette engeance de vieux, quand on la met en colère, devient semblable à un essaim de guêpes ! En effet, ils ont, au bas des reins, un dard des plus aigus, dont ils piquent ; ils bondissent en criant, et ils le lancent comme des étincelles.
+
+Holà ! L'homme ! Éveille-toi.
+
+J'entends comme le son d'une voix.
+
+Non, de par Zeus ! Mais il descend lié à une corde.
+
+Remonte vite par l'autre fenêtre et frappe-le avec les branches sèches ; peut-être retournera-t-il la poupe, frappé par les branches d'olivier.
+
+Braves gens, écoutez la chose, et ne criez pas !
+
+Je ne le lâcherai pas !
+
+Oui, c'est avec cela qu'ils ont tué en justice Philippos, fils de Gorgias.
+
+Midas, Phryx, accourez à l'aide ; toi aussi, Masyntias ; saisissez-le et ne le remettez aux mains de personne. Autrement, je vous mets de lourdes entraves, et vous y jeûnerez. J'ai entendu le crépitement de nombreuses feuilles de figuier.
+
+Ô Kékrops, héros souverain à la queue de dragon, souffriras-tu que je sois ainsi la proie d'hommes barbares, à qui j'ai appris à verser quatre mesures de larmes par khoenix ?
+
+Frappe, frappe, Xanthias, chasse ces guêpes de la maison !
+
+Et toi, répands une épaisse fumée.
+
+Mais, de par Zeus ! Tu ne les aurais pas facilement mis en fuite, s'ils s'étaient trouvés nourris des vers de Philoklès.
+
+N'y a-t-il pas moyen, sans bataille et sans cris aigus, d'entrer en pourparlers et en accommodements ?
+
+Hé ! Par Zeus ! Mieux vaudrait pour moi abandonner tout à fait mon père, que de lutter chaque jour contre des flots si orageux.
+
+Enfin, au nom des dieux, est-ce que vous n'allez pas me débarrasser de vous ? Avez-vous résolu que moi j'éreinte et que vous soyez éreintés tout le jour ?
+
+Comme tout est pour vous tyrannie et conspirations, quelle que soit l'affaire, grande ou petite, mise en cause ! Pour moi, je n'ai pas entendu ce mot durant cinquante années. Aujourd'hui, il est plus commun que le poisson salé. C'est au point qu'il roule dans toute l'Agora. Si quelqu'un achète des orphes et ne veut pas de membrades, le marchand d'à côté, qui vend des membrades, se met à crier : «La cuisine de cet homme m'a l'air de sentir la tyrannie.» Un autre demande du poireau, pour assaisonner ces anchois ; la marchande de légumes le regarde de travers et lui dit : «NTu demandes du poireau, est-ce en vue de la tyrannie ? Penses-tu qu'Athènes doive te fournir des assaisonnements ?»
+
+Ces propos leur sont agréables à entendre, et moi, parce que je veux arracher mon père à ces sorties matinales de misérable calomniateur en justice, afin de vivre une bonne vie comme Morykhos, on m'accuse d'agir en conspirateur et de songer à la tyrannie.
+
+Par Zeus ! Tu t'es habitué à te régaler de ces affaires. Mais, si tu gardes le silence pour écouter ce que je dis, tu reconnaîtras, je pense, que tu te trompes du tout au tout.
+
+Tu ne sens pas que tu es la risée de ces hommes auxquels tu rends une sorte de culte, mais dont tu es l'esclave à ton insu.
+
+Non, pas toi ; tu n'es qu'un esclave, en croyant commander. Dis-nous, mon père, quel honneur te revient-il des tributs de la Hellas ?
+
+Et moi également. Laissez-le tous en liberté ; donnez-moi une épée. Si je suis vaincu dans cette lutte de parole, je tomberai percé de cette épée. Et toi, que je ne nomme pas, dis-moi si tu récuses l'arrêt...
+
+Qu'on m'apporte mes tablettes, et faites vite.
+
+J'y veux simplement écrire, pour mémoire, tout ce qu'il dira.
+
+Et d'abord, dès mon entrée en la carrière, et pour point de départ, je montrerai que notre pouvoir ne le cède à aucune royauté. Y a-t-il quelqu'un de plus heureux, de plus fortuné ici-bas qu'un juge, un être plus gâté et plus redoutable, et cela, si c'est un vieillard ? Dès qu'il sort du lit, il est escorté jusqu'au tribunal par des hommes superbes, hauts de quatre coudées. Ensuite, sur la route, je me sens pressé par une main douce, qui a volé les deniers de l'État ; on supplie, on s'incline, on dit d'une voix lamentable : « Aie pitié de moi, mon père, je t'en conjure, si jamais tu as dérobé toi-même dans l'exercice de tes fonctions ou dans les marchés pour l'approvisionnement des troupes.» Eh bien, il ne saurait pas même que j'existe sans son premier acquittement.
+
+Que cet article relatif aux suppliants soit mentionné sur mes tablettes !
+
+Second point de son discours que je note : «Qui permet de dédaigner la richesse.» Dis-moi maintenant les avantages que tu prétends tirer de ta souveraineté sur la Hellas ?
+
+Effectivement, et c'est la seule des choses que tu as dites dont je puisse te féliciter. Mais, quand tu enlèves la coquille au cachet du testament d'une héritière, tu commets une injustice.
+
+Parle à satiété : car un jour mettra fin à cette puissance imposante, et tu ne seras plus qu'un derrière qui défie le bain.
+
+Le voilà qui se pâme d'aise, qu'il est tout hors de lui ! Va, aujourd'hui, je te ferai regarder les étrivières !
+
+C'est une entreprise difficile, rude et d'une trop haute portée pour des poètes de vendanger, de guérir une maladie ancienne et invétérée dans la cité. Cependant, ô mon père, descendant de Kronos...
+
+Écoute maintenant, petit papa, et détends un peu ton visage. Et d'abord calcule, simplement, non pas avec des cailloux, mais sur tes doigts, le revenu total des tributs payés par les villes ; compte, en outre, les cotes personnelles, les nombreux centièmes, les prytanies, les mines, les droits des marchés et des ports, les taxes, les confiscations : la somme de ces revenus monte à près de deux mille talents. Compte maintenant les honoraires annuels des juges, au nombre de six mille ; car il n'y en eut jamais davantage ici : cela nous fait cent cinquante talents.
+
+Non, par Zeus ! Et où va donc le reste ?
+
+Et toi, mon père, tu te laisses mener par eux, charmé de leurs paroles. Ils extorquent aux villes des cinquantaines de talents, les effrayant de leurs menaces et de leurs cris : «Payez le tribut, ou je tonne et je foudroie votre ville !» Et toi tu te contentes de grignoter les résidus de ton pouvoir. Les alliés, remarquant que le reste de la foule vit maigrement de lécher les assiettes et de mâcher à vide, t'estiment à l'égal du suffrage de Konnos, et apportent aux autres, en présent, terrines salées, vin, tapis, fromage, miel, sésame, coussins, fioles, couvertures de laine, couronnes, colliers, coupes, richesse et santé. Et toi, leur maître, pour prix de tes nombreux labeurs sur la terre et sur l'onde, il n'y en a pas un qui te donne même une tête d'ail pour tes fritures.
+
+N'est-ce donc pas une grande servitude de voir tous ces gens-là investis des magistratures et leurs flatteurs richement rémunérés, tandis que toi, si on te donne trois oboles, te voilà content ? Et c'est en combattant sur mer, sur terre à la prise des villes que tu les as gagnées, en te surmenant de fatigues. Il y a plus, et c'est ce qui m'exaspère au plus haut point, un ordre t'oblige à te rendre à l'assemblée, parce qu'un jeune débauché, le fils de Khaeréas, aux jambes écartées, au corps balancé d'un mouvement lascif, est venu te prescrire de juger au tribunal, le matin et à l'heure dite, sous peine pour quiconque arrivera passé le signal, de ne pas toucher le triobole. Et cependant lui-même il reçoit la drakhme accordée à l'accusateur, bien qu'il soit arrivé en retard. Il partage avec quelque autre des juges, ses collègues, le présent qu'a pu lui donner un des accusés ; puis ils s'entendent tous deux pour arranger l'affaire, à la façon des scieurs de long, dont l'un tire et l'autre pousse. En attendant, toi tu regardes, la bouche béante, le kolakrète, et tu ne sais rien de ce qui s'est fait.
+
+Vois pourtant comment il t'est permis d'être riche, ainsi que tous les tiens ; mais grâce à ces flagorneurs du peuple, tu disparais dans je ne sais quelle machine. Maître d'une foule de villes, depuis le Pontos jusqu'à la Sardô, tu ne jouis de rien, sinon de ce misérable salaire : c'est un flocon de laine où l'on verse avec une parcimonie contenue, et pour que tu vives, comme qui dirait une goutte d'huile. En effet, ils veulent que tu sois pauvre, et je te dirai pourquoi : c'est afin que tu connaisses la main qui te nourrit, et que, si l'un d'eux t'excite en sifflant, tu te lances d'un bond féroce sur l'ennemi. Car s'ils voulaient assurer la subsistance du peuple, ce serait chose facile. Il y a bien mille cités qui maintenant nous paient tribut. Si l'on enjoignait à chacune d'elles de nourrir vingt personnes, deux myriades de nos concitoyens ne vivraient que de lièvres, la tête ceinte de toutes sortes de couronnes, et ne boiraient que du lait pur ou bouilli, délices dignes de notre patrie et du trophée de Marathon. Aujourd'hui, comme des mercenaires récoltant des olives, vous êtes à la merci de celui qui détient votre salaire.
+
+Mais lorsque ces hommes craignent pour eux-mêmes, ils vous donnent l'Euboea, et vous promettent la fourniture de quelque cinquante médimnes de froment ; eux qui ne t'ont jamais rien donné, sauf, tout récemment, cinq médimnes d'orge ; et encore tu ne les reçus qu'à grand'peine, khoenix par khoenix, et en te justifiant de l'accusation d'être étranger. Voilà pourquoi je t'ai toujours tenu renfermé, afin de te nourrir moi-même et de ne pas les voir rire des insolences dirigées contre toi. Et maintenant je veux franchement te fournir tout ce que tu désires, hors le lait du kolakrète.
+
+Oui, je le nourrirai ; je fournirai à ce vieillard tout ce qu'il lui faut, gruau à lécher, manteau doublé, couverture, fille qui lui frottera les reins et le reste. Mais qu'il se taise et ne souffle mot, cela ne peut me plaire.
+
+Eh bien, pourquoi cries-tu ?
+
+Allons, mon père, au nom des dieux, obéis-moi !
+
+Laquelle ? Parle.
+
+Eh bien, si tu fais ton bonheur de rendre la justice, ne sors pas d'ici, reste chez toi et juge tes serviteurs.
+
+Tu feras tout comme là-bas. Si une servante ouvre la porte clandestinement, tu décréteras contre elle une simple amende, absolument comme tu le faisais au tribunal. Et tout cela se passe au mieux. Si le soleil luit dès le matin, tu jugeras au soleil. Si la neige tombe ou s'il pleut, tu t'assiéras auprès du feu, pour instruire l'affaire. Si tu te lèves à midi, aucun thesmothète ne t'exclura de l'enceinte.
+
+Il y a plus : si un plaideur n'en finit pas, tu n'attendras pas à jeun, te rongeant toi-même ainsi que l'orateur.
+
+Beaucoup mieux. On dit que les juges, entourés de faux témoins, ne parviennent à connaître les affaires qu'en ruminant.
+
+De moi.
+
+Et que répliqua-t-il ?
+
+Tu vois quel avantage cela t'offre encore.
+
+Attends un moment. Je vais tout apporter.
+
+Tiens, qu'en dis-tu ? Je t'apporte tout ce que je t'ai dit, et beaucoup plus même. Voici un pot de chambre, si tu as envie d'uriner ; on va le pendre, près de toi, à un clou.
+
+Et puis du feu et des lentilles dessus, si tu as besoin de manger une bouchée.
+
+Afin que, si tu t'endors pendant une plaidoirie, il t'éveille de là-haut.
+
+Laquelle ?
+
+La voici : on dirait le Dieu lui-même.
+
+C'est à nos yeux le portrait même de Kléonymos.
+
+Si tu te hâtais de siéger, je me hâterais d'appeler une cause.
+
+Voyons, quelle cause introduirai-je tout d'abord ? Quelle sottise a faite quelqu'un de la maison ? Thratta ayant dernièrement laissé brûler la marmite...
+
+Mais, par Zeus ! il n'y en a pas.
+
+Ce que c'est pourtant ! Quelle force a l'habitude du local !
+
+Qu'y a-t-il donc ?
+
+Voilà le premier délit à déférer à mon père. Toi, porte l'accusation.
+
+Voyons, maintenant, amène-les tous deux ici.
+
+Qu'apportes-tu là ?
+
+Tu oses y porter une main sacrilège ?
+
+Voyons, maintenant, j'apporte les tablettes et les registres.
+
+Voici.
+
+J'y suis.
+
+Aux corbeaux ! Quel ennui ! J'ai oublié d'apporter les urnes aux suffrages.
+
+Chercher les urnes.
+
+On ne peut mieux. Nous avons tout ce qu'il nous faut, excepté pourtant la klepsydre.
+
+Tu excelles à fournir les objets nécessaires et locaux. Mais qu'on se hâte d'apporter de la maison le feu, les myrtes et l'encens, afin de commencer par invoquer les dieux.
+
+Débutez donc par les bonnes paroles.
+
+Ô Souverain maître, mon voisin, dieu de ma rue, gardien de mon vestibule, accepte, seigneur, ce nouveau sacrifice, que nous innovons en l'honneur de mon père. Adoucis cette humeur trop rêche et dure comme l'yeuse, mêle à ce coeur quelques gouttes de miel. Qu'il soit désormais doux pour les hommes, plus clément à l'accusé qu'à l'accusateur, prêt à pleurer avec ceux qui l'implorent ; qu'il se dépouille de son aigreur et qu'il arrache les orties de sa colère !
+
+S'il se trouve devant les portes quelque héliaste, qu'il entre. Dès qu'on aura commencé à parler, nous n'ouvrirons plus.
+
+Celui-ci.
+
+Écoutez l'acte d'accusation. Le soussigné chien de Kydathènè accuse Labès d'AExonè d'avoir seul, contre toute justice, mangé un fromage Sikélien. Peine : un collier de figuier.
+
+L'accusé Labès est ici présent.
+
+Oh ! Le vilain chien ! Quels yeux de voleur ! Comme, en serrant les dents, il se flatte de me tromper ? Où est le plaignant, le chien de Kydathènè ? Le chien ! Au ! Au !
+
+Le voici.
+
+Silence, assis ! Toi, monte à la tribune et accuse.
+
+Au nom des dieux, mon père, ne prononce pas avant de les avoir entendus tous les deux.
+
+Prends-le toi-même. Je suis en train d'appeler les témoins. Paraissez, témoins à la charge de Labès, plat, pilon, racloire à fromage, fourneau, marmite et autres ustensiles brûlés ! Mais pisses-tu encore ? Ne sièges-tu plus ?
+
+Ne cesseras-tu pas d'être dur et intraitable pour les accusés ? Tu les déchires à belles dents ! Monte à la tribune ; défends-toi. D'où vient ton silence ? Parle.
+
+Non pas, mais il me paraît être dans la même situation que jadis Thoukydidès accusé. Ses mâchoires furent tout à coup paralysées. Retire-toi ; c'est moi qui présenterai ta défense. Il est difficile, citoyens, de faire l'apologie d'un chien calomnié ; je parlerai cependant. C'est une bonne bête, et il chasse les loups.
+
+Par Zeus ! C'est le meilleur des chiens d'aujourd'hui, capable de garder de nombreux moutons.
+
+Oui, mais il se bat pour toi, il garde la porte, et il excelle dans tout le reste. S'il a fait un larcin, pardonne-lui. Il est vrai qu'il ne sait pas jouer de la kithare.
+
+Écoute, juge équitable, mes témoins. Monte, racloire à fromage, et parle à haute voix. Tu exerçais alors la charge de payeur : réponds clairement. N'as-tu pas raclé les parts que tu avais reçues pour les soldats ? Elle répond qu'elle les a raclées.
+
+Juge compatissant, prends pitié des malheureux. Notre Labès ne vit que de têtes et d'arêtes de poissons ; jamais il ne demeure en place. L'autre n'est bon qu'à garder la maison : il reste là, attendant ce qu'on apporte et en demandant sa part ; autrement, il mord.
+
+Ah ! Je t'en conjure, pitié pour lui, mon père ! Ne le sacrifiez point. Où sont les enfants ? Montez, malheureux ! Jappez, priez, suppliez et pleurez !
+
+Je vais descendre. Et quoique ce «descends» en ait trompé bien d'autres, je vais pourtant descendre.
+
+Il ne sera donc pas acquitté ?
+
+Voyons, mon petit papa, tourne-toi vers de meilleurs sentiments. Prends ce suffrage ; passe, de sens rassis, du côté de la seconde urne, et absous-le, mon père.
+
+Viens à l'instant, je vais t'y conduire au plus vite.
+
+Oui.
+
+Il est attrapé ; il vient d'absoudre sans le vouloir.
+
+Le fait va le prouver. Tu es absous, Labès. Père, père, que t'arrive-t-il ?
+
+Reviens à toi.
+
+Oui, de par Zeus !
+
+Pas de souci, cher père : relève-toi.
+
+Ne te fâche pas. Moi je veux, mon père, te bien nourrir, te mener avec moi partout, aux dîners, aux banquets, aux spectacles, de manière à passer agréablement le reste de ta vie. Hyperbolos ne te rira plus au nez en te dupant, mais entrons.
+
+Tu sembles n'avoir aucun souci de ton bien.
+
+Fais du moins l'épreuve, puisque, une bonne fois, tu t'es livré à moi pour bien vivre.
+
+Quitte ce manteau usé et endosse cette laena en guise de manteau.
+
+Voyons, prends-la, mets-la, et ne dis rien.
+
+Les uns l'appellent une persique, les autres une kaunakè.
+
+Ce n'est pas étonnant ; tu n'es jamais allé à Sardes ; tu la connaîtrais alors, tandis que maintenant tu ne la connais pas.
+
+Erreur ; c'est à Ekbatana qu'on fait ces tissus.
+
+Pas du tout, mon bon ; mais chez les Barbares cette étoffe se tisse à grands frais. Ainsi ce vêtement mange bien pour un talent de laine.
+
+Voyons, mon bon, tiens-toi et endosse-la.
+
+Ne l'endosses-tu pas ?
+
+Allons, c'est moi qui te la passerai ; viens donc ici.
+
+Pour quoi faire ?
+
+Voyons, maintenant, ôte ces maudites savates, et mets vite cette chaussure lakonienne.
+
+Allons, mon cher, marche hardiment sur le sol lakonien : fais vite.
+
+Allons, l'autre pied !...
+
+Il ne peut pas en être autrement.
+
+Finis-en de te chausser ; puis marche à la façon des riches, avec un balancement voluptueux et efféminé.
+
+De qui ? D'un furoncle revêtu d'ail.
+
+Voyons, maintenant, sauras-tu tenir un langage grave devant des hommes instruits et habiles ?
+
+Que diras-tu ?
+
+Non, pas de fables, mais des choses de la vie humaine, tels que nos sujets ordinaires d'entretien à la maison.
+
+«Être sot et grossier», comme dit Théogénès au vidangeur, en lui faisant des reproches, vas-tu parler de souris et de chats à des hommes ?
+
+De personnages éminents, de tes collègues en députation Androklès et Klisthénès.
+
+Eh bien, dis-nous donc comment Éphoudiôn combattit glorieusement au pankration avec Askondas : tout vieux qu'il était et blanchi, il avait de larges reins, des poignets, des flancs et un thorax superbes.
+
+Telle est la manière de converser des sages. Mais dis-moi autre chose. Si tu étais à boire avec des étrangers, quel est celui des actes de ta jeunesse que tu citerais comme le plus viril ?
+
+Tu m'assommes. Quels échalas ? Dis comment tu as poursuivi un sanglier, un lièvre, fait la course des torches ; trouve quelque chose de très juvénile.
+
+Assez. Mais place-toi sur ce lit et apprends à être un bon convive, un homme de bonne compagnie.
+
+Décemment.
+
+Pas du tout.
+
+Écarte les genoux, et, à la façon des gymnastes, étends-toi avec souplesse sur les tapisseries ; puis fais l'éloge des bronzes, regarde le plafond, admire les tentures de la cour. Voici l'eau pour les mains ; on apporte les tables : nous soupons ; les ablutions sont faites : nous offrons les libations.
+
+La joueuse de flûte s'est fait entendre : les convives sont Théoros, AEskhinès, Phanos, Kléôn, et je ne sais quel autre invité dans le voisinage de la tête d'Akestor. Tu fais partie de la société : aie soin de bien suivre les skolies.
+
+Dis-tu vrai ?
+
+Je m'en assure. Je suis Kléôn : j'entonne le premier le skolie de Harmodios ; tu vas suivre, toi. «Il n'y eut jamais dans Athènes...»
+
+C'est là ce que tu répondras ? Tu es un homme perdu. Il va se mettre à crier qu'il veut te mettre à mal, te déchirer, te chasser du pays.
+
+Et lorsque Théoros, couché aux pieds de Kléôn, lui prendra la main et chantera : «Ami, tu connais l'histoire d'Admètos, aime donc les braves,» par quel skolie lui répondras-tu ?
+
+Après lui AEskhinès, fils de Sellos, continuera : «C'est un homme sage, ami des Muses.» Il chantera : «Richesse et bien vivre à Klitagoras et à moi, avec les Thessaliens.»
+
+Sur ce point, tu en sais convenablement. Mais allons souper chez Philoktèmôn. Enfant, enfant, Khrysos, emporte les plats avec nous, afin de nous enivrer à notre aise.
+
+Mais non, si tu es avec des hommes bons et beaux : ils apaisent l'offensé ; ou bien tu dis quelque mot spirituel, un joli conte à la façon d'AEsopos ou de Sybaris, que tu as appris à table ; tu tournes la chose en plaisanterie, et il te laisse aller.
+
+Allons, partons : que rien ne nous retienne.
+
+Demain tu nous paieras cela à nous tous, malgré tes allures de jeune homme. Nous viendrons en foule t'assigner.
+
+Oh ! Oh ! Vieux radoteur, manieur de derrières, tu désires et tu aimes, ce me semble, les jolis cercueils ; mais, j'en jure par Apollon, ce n'est pas impunément que tu agiras ainsi.
+
+N'est-ce pas nous jouer d'un vilain tour que d'enlever la joueuse de flûte aux convives ?
+
+Non pas, de par Zeus ! C'est cette Dardanienne que tu as avec toi.
+
+Une torche, cette donzelle ?
+
+Mais qu'est-ce qu'il y a donc de noir au milieu ?
+
+Et du côté inverse n'est-ce pas un derrière ?
+
+Que dis-tu ? Quelle branche ? Allons, viens ici.
+
+La prendre, l'emmener et te l'enlever, certain que tu es usé et impuissant à rien faire.
+
+De par Zeus ! tu connais bien Olympia.
+
+Vois-tu ce que tu as fait ? Des affaires, des procès, voilà ce que nous attire ton ivrognerie.
+
+En voici un autre, qui a l'air de vouloir t'assigner : il a un témoin avec lui.
+
+Pour outrage ? Non, non ; ne l'assigne pas, au nom des dieux ! Je te ferai en sa place telle réparation que tu fixeras, et je t'en saurai gré.
+
+Rien de changé en toi, tu as toujours la même humeur.
+
+Par Dèmètèr ! Tu ne resteras pas ici davantage, mais je t'enlève et je t'emporte.
+
+Ce que je fais ? Je veux te porter d'ici dans la maison : autrement, les témoins manqueront aux accusateurs.
+
+Cela m'est bien égal.
+
+La peste ! Tu m'assommes avec tes escarbots.
+
 C'est un pinnotère, le plus petit de sa race, celui qui fait de la tragédie.
 
--*who_philokleon
-Ô Karkinos, heureux père d'une belle lignée, quelle foule de roitelets vient s'abattre ici !
-Cependant il faut jouter avec eux, infortuné !
-Préparez pour eux de la saumure, si je suis vainqueur.
 
--*who_lechoeur
-Allons !
-Laissons-leur à tous un peu d'espace, afin qu'ils pirouettent devant nous, à leur aise.
-Voyons, enfants renommés d'un dieu marin, bondissez sur le sable et sur le rivage de la mer stérile, frères des squilles.
-Agitez en rond votre pied léger ; faites des écarts à la façon de Phrynikhos, si bien que, voyant vos jambes en l'air, les spectateurs se récrient.
-Tourne, pirouette, frappe-toi le ventre, lance ta jambe vers le ciel : devenez des toupies.
-Voici venir ton illustre père, le souverain des mers, émerveillé de sa postérité, si virilement pourvue.
-Mais conduisez-nous vite, si bon vous semble, jusqu'à la porte, et dansez ; car jamais personne jusqu'ici n'a vu un choeur dansant terminer une tragédie.
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philokleon
+
+Je suis la fumée qui sort.
+
+De figuier.
+
+Que faites-vous ? Ne me laisserez-vous pas aller juger, tas de coquins ? Va-t-on absoudre Drakontidès ?
+
+Oui, car le Dieu m'a répondu, un jour où je consultais l'oracle de Delphoe, que si un accusé échappait de mes mains, je mourrais desséché.
+
+Allons, je t'en conjure, laisse-moi sortir, de peur que je ne crève.
+
+Je rongerai donc le filet à belles dents.
+
+Malheur ! Infortuné que je suis. Comment faire pour te tuer ? Comment ? Donnez-moi une épée tout de suite, ou la tablette aux condamnations.
+
+Mais non, de par Zeus ! Je veux aller vendre mon âne tout bâté : c'est la nouvelle lune.
+
+Non ; pas comme moi.
+
+Voyons, amène l'âne.
+
+Outis, de par Zeus !
+
+D'Ithakè, fils d'Apodrasippidès.
+
+Si vous ne me laissez pas tranquille, nous plaiderons.
+
+Sur l'ombre d'un âne.
+
+Moi, un méchant ! Non, de par Zeus ! Tu ne sais pas maintenant tout mon mérite ; mais peut-être le sauras-tu, lorsque tu mangeras le sous-ventre du vieux juge de l'Hèliaea.
+
+Ô juges, mes collègues, et toi, Kléôn, venez à mon aide !
+
+Amis, il y a longtemps que je dessèche à vous entendre de cette fenêtre, mais je ne puis chanter avec vous. Que ferai-je ? Je suis gardé par les gens qui sont là, parce que je veux depuis longtemps aller avec vous du côté des urnes et y faire du mal. Ô Zeus au tonnerre retentissant, change-moi tout de suite en fumée ou en Proxénidès, ou en fils de Sellos, ce hâbleur. N'hésite pas, roi du ciel, à me faire cette grâce : prends pitié de mon malheur. Que ta foudre ardente me réduise en cendre à l'instant, et qu'ensuite ton souffle m'enlève et me jette dans une saumure bouillante, ou bien fais de moi la pierre sur laquelle on compte les suffrages.
+
+C'est mon fils ; ne criez pas : il est là devant, il dort ; baissez la voix.
+
+Mes amis, il ne veut pas me laisser juger ni faire du mal à personne ; il est disposé à me faire faire bonne chère, et moi, je ne veux pas.
+
+Quel serait-il ? Cherchez, vous. Moi, je serais prêt à tout, tant je désire parcourir les bancs avec ma coquille.
+
+Tout est bouché : il n'y a pas la moindre fissure par où passerait un moucheron. Il faut donc que vous cherchiez quelque autre chose : pas de trou possible.
+
+Je sais. Mais à quoi bon ? Il n'y a pas en ceci la moindre ressemblance. J'étais jeune alors, capable de voler et plein de vigueur ; personne ne me gardait, mais il m'était permis de fuir sans crainte. Maintenant, des hommes armés, rangés sur les routes, y font sentinelle. Deux d'entre eux sont devant ces portes, broches en main, et m'épient comme un chat qui a volé un morceau de viande.
+
+Il n'y a donc rien de mieux pour moi que de ronger mon filet. Que Diktynna me pardonne pour ce filet !
+
+Voilà qui est rongé ; mais ne criez pas : veillez, au contraire, à ce que Bdélykléôn ne s'aperçoive de rien.
+
+Voyons donc ! Mais si ces deux hommes s'en aperçoivent, qu'ils essaient de me repêcher et de me remonter dans la maison, que ferez-vous ? Parlez vite !
+
+J'agirai donc, confiant en vous. Mais retenez bien ceci : s'il m'arrive malheur, prenez mon corps, baignez-le de vos larmes, et enterrez-le sous la barre du tribunal.
+
+Ô souverain Lykos, héros, mon voisin, tu te plais, comme moi, aux larmes éternelles et aux gémissements des accusés, et voilà justement pourquoi tu es venu habiter ici, afin de les entendre ; tu as voulu, seul de tous les héros, séjourner auprès des gémissants. Aie pitié de moi, sauve aujourd'hui ton voisin. Je jure que je ne pisserai ni ne pèterai jamais devant ta balustrade.
+
+À l'aide, vous tous qui devez avoir des procès cette année, Smikythiôn, Tisiadès, Chrèmôn, Phérédipnos ! Quand donc viendrez-vous à mon secours, si ce n'est maintenant, avant qu'on m'ait renfermé ?
+
+Allons, juges mes collègues, guêpes au coeur dur, mettez-vous en fureur ; qu'une partie de vous leur pique le derrière, une autre les yeux et les doigts.
+
+Tu ne me lâcheras donc pas maintenant, méchante bête ? Tu ne te rappelles plus qu'un jour, t'ayant surpris volant du raisin, je t'attachai à un olivier et t'écorchai si bien et si virilement que tu faisais des jaloux. Et cependant tu es un ingrat. Mais lâchez-moi donc, toi et toi, avant que mon fils accoure.
+
+Et, de par Zeus ! On a raison ; car, pour moi, je préfère au lait des poules la vie dont tu veux aujourd'hui me priver. Je n'aime ni les raies, ni les anguilles, mais je mangerais avec plaisir un tout petit procès, cuit sur le plat à l'étouffée.
+
+Je me trompe en rendant la justice ?
+
+Cesse de parler d'esclavage : je règne sur tous.
+
+Beaucoup assurément : j'en veux faire juges les gens qui sont ici.
+
+Que je ne boive jamais ma part de vin pur en l'honneur du Bon Génie !
+
+Mais que diriez-vous s'il triomphait dans la discussion ?
+
+Puis, lorsque j'entre, chargé de supplications et la colère calmée, je ne fais rien de tout ce que j'ai dit ; seulement j'écoute de toutes parts les plaintes des gens qui espèrent l'acquittement. Vois-tu ? On n'entend plus que flatteries à l'adresse du juge. Les uns déplorent leur misère, et ajoutent des maux supposés à ceux qui sont réels, pour les égaler aux miens ; les autres nous racontent des histoires ou quelque trait comique d'AEsopos. D'autres lancent une raillerie pour me faire rire et apaiser ma rigueur. Si rien de tout cela ne nous touche, ils nous amènent aussitôt par la main leurs enfants, filles et garçons : j'écoute ; ils se prosternent et bêlent à l'unisson. Alors le père, saisi de crainte, me supplie, comme un dieu, par pitié pour ses enfants, de lui faire remise de la peine. « Si tu aimes la voix d'un agneau, sois sensible à la voix de ce garçon.» Mais si j'aime la voix des petites truies, il essaie de me toucher par celle de sa fille. Et nous, par égard pour lui, nous détendons un peu les cordes de notre colère. N'est-ce pas là un grand pouvoir, qui permet de dédaigner la richesse ?
+
+Chargés de constater l'âge des enfants, nous avons le droit de voir leurs parties honteuses. Qu'OEagros soit cité en justice, il ne sera pas absous avant de nous avoir récité la plus belle tirade de Niobè. Un joueur de flûte gagne-t-il sa cause, en reconnaissance, il se bride la joue avec sa courroie, et joue un air aux juges à leur sortie. Si un père, en mourant, désigne par testament l'époux destiné à sa fille, son unique héritière, nous envoyons là-bas pleurer toutes les larmes de leur tête le testament et la coquille solennellement appliquée au cachet, et nous donnons la fille à celui dont les prières nous ont convaincus. Avec cela, point de comptes à rendre de nos actions : ce que n'a aucune autre magistrature.
+
+De plus, quand le Conseil et le peuple sont embarrassés de juger sur quelque grave affaire, un décret renvoie les coupables devant les juges. C'est alors qu'Euathlos et ce grand Kolakonymos, lâcheur du bouclier, protestent qu'ils ne nous trahiront pas et qu'ils combattront pour le peuple. Et jamais, dans l'assemblée, aucun orateur n'a fait triompher son avis, s'il n'a dit que les tribunaux ont le droit de se retirer, aussitôt qu'ils ont jugé une affaire. Kléôn lui-même, ce grand braillard, ne mord pas sur nous, mais il nous garde, nous caresse de la main et nous préserve des mouches, tandis que toi, tu n'as jamais rien fait de tout cela à ton père. Et Théoros, quoique ce soit un homme qui n'est pas au-dessous d'Euphèmios, il prend l'éponge dans le bassin et décrotte nos chaussures. Vois de quels biens tu veux me priver, me dépouiller. Voilà ce que tu appelles de l'esclavage, de la servitude, et tu prétends le prouver.
+
+Mais le plus agréable de tout cela, et que j'allais oublier, c'est quand je rentre à la maison, rapportant mon salaire : tout le monde arrive en même temps me faire des caresses, en raison de cet argent ; et d'abord ma fille me lave les pieds, les parfume, se penche pour me baiser, m'appelle «son petit papa» et, de sa langue, va pêcher le triobole. Ma femme, douce cajoleuse, m'apporte une galette bien levée, s'assoit près de moi, et, faisant des instances : «Mange ceci, goûte cela.» Je suis ravi, et je n'ai pas besoin de me tourner vers toi ou vers l'intendant pour savoir quand il apportera le dîner, en maugréant et en grommelant. D'ailleurs, s'il ne se hâte de me pétrir un gâteau, j'ai là un rempart contre les maux, un préservatif contre les traits. Si tu ne me verses pas à boire, j'ai apporté un vase à longues oreilles, plein de vin ; je me penche et je bois, et lui, ouvrant la bouche pour braire, oppose au bruit de ta coupe une grosse pétarade digne d'un bataillon. N'est-ce pas là exercer une grande souveraineté et qui ne le cède point à celle de Zeus, moi qui entends de moi ce que Zeus entend de lui ? Si nous sommes tumultueux, quelque passant s'écrie : «Quel tonnerre dans le tribunal, ô Zeus souverain !» Si je lance l'éclair, les riches ahanent d'émoi, et ils lâchent tout sous eux ; et de même les gens tout à fait vénérables. Et toi-même, tu as grand'peur de moi ; oui, par Dèmètèr ! Tu as peur ; et moi, que je me meure, si j'ai peur de toi.
+
+Mais non, il se figurait qu'il vendangerait aisément une vigne abandonnée ; car il savait toute la supériorité de mon talent.
+
+Arrête, et ne me donne plus le nom de père. Si tu ne me prouves pas, tout de suite, que je suis esclave, rien ne m'empêchera de te faire mourir, dût-on me priver de ma part des festins sacrés.
+
+Ce n'est donc pas même le dixième des revenus de l'État que nous touchons pour salaire.
+
+À ces gens qui disent : «Je ne trahirai jamais la populace d'Athènes, mais je combattrai toujours pour le peuple.»
+
+Oui, par Zeus ! J'ai envoyé chercher moi-même trois gousses d'ail chez Eukharidès ; mais cette servitude où je suis, tu ne me la montres pas et tu me chagrines.
+
+Eux me traiter ainsi ! Hélas ! Que dis-tu ? Mon coeur est comme une mer démontée : tu t'empares de toute mon intelligence, et je ne sais pas où tu me conduis.
+
+Hélas ! Quel froid de glace engourdit ma main ! Je ne puis tenir mon épée ; je sens que je faiblis.
+
+Hélas ! Malheur à moi !
+
+Laisse-moi là toutes ces promesses ! «Ce que j'aime est là-bas, c'est là-bas que je veux être,» où le héraut crie : «Qui donc n'a pas voté ? Qu'il se lève !» Que ne puis-je être debout devant les urnes, le dernier des votants ! Hâte-toi, mon âme ! Où est mon âme ? «Ténèbres, livrez-moi passage.» Par Hèraklès ! puissé-je arriver à temps auprès des juges pour convaincre Kléôn de vol !
+
+T'obéir ? Dis ce que tu veux, sauf une chose.
+
+Ne pas juger. Hadès aura décidé de moi avant que je consente.
+
+Et que juger ? Tu plaisantes.
+
+Cela me convient.
+
+Mais comment pourrai-je bien connaître l'affaire, de même qu'auparavant, si j'ai encore la bouche pleine ?
+
+Tu me décides. Mais tu ne me dis pas de qui je recevrai les honoraires.
+
+Bien : je serai payé à part, et non avec les autres. Car c'est un tour indigne que m'a joué Lysistratos, ce bouffon. Dernièrement, il avait reçu une drakhme pour nous deux. Il va faire de la monnaie au marché des poissons, et il me remet trois écailles de mulet. Moi, je les fourre dans ma bouche, les ayant prises pour des oboles : dégoûté par l'odeur, je les crache et je le traîne en justice.
+
+Eh bien, il prétendit que j'avais un estomac de coq. «Tu as été vite à digérer l'argent,» dit-il.
+
+Et qui n'est pas mince du tout. Mais exécute ce que tu veux faire.
+
+Vois la chose et comment les oracles s'accomplissent. J'avais entendu dire qu'un jour viendrait où les Athéniens jugeraient les procès dans leurs maisons et où chaque individu se bâtirait, dans son vestibule, un tout petit tribunal, comme un hèkatéion, partout devant les portes.
+
+Bonne idée, pour un vieux ! Tu as trouvé là, franchement, un utile remède à la rétention d'urine.
+
+Pas maladroit du tout ! Car même si j'ai la fièvre, je toucherai mon salaire. Sans bouger d'ici je mangerai mes lentilles. Mais à quoi bon m'avez-vous apporté cet oiseau ?
+
+Je voudrais encore une chose ; car le reste me suffit.
+
+Qu'on m'apportât ici la statue de Lykos.
+
+Souverain héros, que tu n'es guère agréable à voir !
+
+Tout héros qu'il est, il n'a donc pas d'armes non plus.
+
+Appelle tout de suite ; il y a longtemps que je siège.
+
+Holà, arrête ! Peu s'en faut que tu ne me fasses mourir. Tu allais appeler une cause avant d'avoir posé la balustrade : c'est la première condition de nos mystères.
+
+Eh bien, je cours, et j'en rapporte une tout de suite de la maison.
+
+La bauge aux porcs consacrés à Hestia.
+
+Non, mais c'est en sacrifiant d'abord à Hestia, que j'écraserai quelque adversaire. Allons, hâte-toi de les amener. Je vois déjà la peine encourue.
+
+Ah ! Tu m'assommes, tu me tues, avec tes délais. J'aurais pu tracer les mots par terre.
+
+Appelle donc.
+
+Qu'est-ce d'abord, celui-ci ?
+
+Eh bien, où cours-tu ?
+
+Inutile : j'avais là ces vases.
+
+Et ceci ? N'est-ce pas une klepsydre ?
+
+Quel est l'accusé ?
+
+Quelle peine va le frapper ?
+
+C'est-à-dire une mort de chien, une fois convaincu.
+
+C'est un second Labès, bon aboyeur et lécheur de marmites.
+
+Voyons ; en même temps je vais me verser et boire un coup.
+
+De par Zeus ! Il est pris sur le fait. Tout à l'heure il m'a lâché un gros rot au fromage, le coquin !
+
+Et il n'a rien donné ?
+
+Voilà un gaillard aussi bouillant que ces lentilles !
+
+Mais, mon bon, la chose est claire ; elle crie d'elle-même.
+
+Aussi n'ai-je pas même de quoi boucher les fentes de ma cruche.
+
+Oh ! oh ! que de scélératesses il nous a dénoncées ! C'est la friponnerie faite homme. N'est-ce pas ton avis, mon coq ? Par Zeus ! Il dit que oui. Le thesmothète, où est-il ? Ohé ! Donne-moi le pot.
+
+C'est lui, je crois, qui va faire sous lui aujourd'hui.
+
+Mais il semble qu'il n'ait rien à dire.
+
+C'est un voleur et un conspirateur.
+
+À quoi cela sert-il, s'il mange le fromage ?
+
+Moi, je voudrais qu'il ne sût pas lire, pour ne pas nous faire l'apologie de son crime.
+
+Mais, par Zeus ! Elle ment.
+
+Ouf ! Quel mal me prend qui fait que je m'attendris ? Le malaise dure, et je me sens convaincre.
+
+Descends, descends, descends, descends !
+
+Aux corbeaux ! Ah ! Ce n'est pas bon d'avoir mangé. Je viens de pleurer, et je n'en vois pas d'autre raison que de m'être bourré de lentilles.
+
+C'est difficile à savoir.
+
+Non, certes. Je ne sais pas jouer de la cithare.
+
+Est-ce la première urne ?
+
+J'y jette mon suffrage.
+
+Attends, que je verse les suffrages. Voyons l'issue du débat.
+
+Ah ! Dieux ! vite de l'eau.
+
+Dis-moi la chose comme elle est. Est-il réellement absous ?
+
+Je suis réduit à rien.
+
+Comment, en face de moi-même, supporterai-je l'idée d'avoir absous un accusé ? Qu'adviendra-t-il de moi ? O dieux vénérés, accordez-moi mon pardon : c'est malgré moi que je l'ai fait : ce n'est pas mon habitude.
+
+Oui, maintenant, si bon te semble.
+
+Jamais de la vie je ne quitterai plus ce manteau, qui seul me sauva dans la bataille où le puissant Boréas nous fit la guerre.
+
+De par Zeus ! Je me passe aisément des choses de luxe. Dernièrement je me régalais d'une friture, et je payai un triobole dû au dégraisseur.
+
+Que m'ordonnes-tu donc de faire ?
+
+Faites donc des enfants et élevez-les : voilà le mien maintenant qui veut m'étouffer !
+
+Qu'est-ce que c'est que cette mauvaise chose, au nom de tous les dieux ?
+
+Moi, je la prenais pour une couverture de Thymoetè.
+
+Moi ? Non, de par Zeus ! Mais cela me paraissait ressembler absolument à la casaque pluchée de Morykhos.
+
+Est-ce qu'à Ekbatana on fait des intestins de laine ?
+
+Il serait donc plus juste de l'appeler mange-laine que kaunakè.
+
+Malheureux que je suis ! Quelle chaleur la malpropre m'a rotée au nez !
+
+Non, de par Zeus ! Mais, mon bon, si c'est indispensable, mettez-moi dans un four.
+
+Au moins place là un croc.
+
+Pour me retirer avant que je sois fondu.
+
+Moi ? Je n'aurai jamais le coeur de mettre d'odieuses chaussures fabriquées par des ennemis !
+
+C'est mal à toi de me faire le pied au pays ennemi.
+
+Impossible pour celui-là ; il a un de ses doigts qui déteste tout à fait les Lakoniens.
+
+Malheureux que je suis de n'avoir pas d'engelure dans ma vieillesse !
+
+Regarde : vois cette tournure, et juge de qui des riches ma démarche se rapproche le plus.
+
+Aussi ai-je envie de tortiller des fesses.
+
+Oui.
+
+Beaucoup de choses. D'abord comment Lamia, se voyant prise, s'est mise à péter ; puis comment Kardopiôn frappa sa mère.
+
+Ah ! J'en sais du genre de ce qui se dit à la maison, par exemple : «Il y avait une fois une souris et un chat.»
+
+De qui faut-il donc que je parle ?
+
+Moi ! Jamais je ne suis allé en députation, excepté à Paros, et j'ai reçu pour cela deux oboles.
+
+Assez, assez, tu ne sais ce que tu dis. À quoi bon le thorax pour se battre au pankration ?
+
+Le plus viril, oui, le plus viril de mes exploits, c'est d'avoir dérobé les échalas d'Ergasiôn.
+
+Ah oui ; voici quelque chose de très juvénile. C'est lorsque, encore jouvenceau, je poursuivis le coureur Phayllos, qui m'avait insulté, et le battis de deux voix.
+
+Comment donc me placer ? Dis-moi vite.
+
+Est-ce ainsi qu'il faut se placer ?
+
+Comment donc ?
+
+Au nom des dieux, est-ce en rêve que nous soupons ?
+
+Très bien.
+
+Comme pas un habitant de la Diakria ne les suivrait.
+
+«Un être aussi méchant, un semblable voleur.»
+
+Et moi, s'il menace, de par Zeus ! Je lui en chanterai un autre : «Ohé ! L'homme ! Dans ton désir furieux du pouvoir suprême, tu détruis la cité qui déjà penche vers sa ruine.»
+
+Je lui dirai avec raison : «Il ne s'agit pas de faire le renard et d'être l'ami des deux partis.»
+
+«Nous en avons beaucoup dépensé, toi et moi.»
+
+Pas du tout : c'est mauvais de boire. Du vin naît le bris des portes, les coups, les pierres ; puis il faut donner de l'argent, au sortir de l'ivresse.
+
+Je vais donc apprendre beaucoup de contes, afin de n'encourir aucune peine, si je fais mal.
+
+Laissez-moi ; retirez-vous. Je vais faire gémir quelqu'un de ceux qui me suivent. Ah ! Si vous ne décampez pas, gredins, je vous grille avec une torche.
+
+Ah ! Ah ! M'assigner ! Vieux jeu ! Sachez donc que je ne puis plus entendre le mot procès. Hé ! Hé ! Hé ! Cela me suffit. Jetez les urnes. Tu n'es pas parti ? Où est l'hèliaste ? Disparu. Monte ici, mon petit hanneton d'or ; prends cette corde dans ta main : tiens ferme et prends garde, car la corde est usée ! Cependant elle ne sera pas fâchée qu'on la frotte. Vois comme je t'ai adroitement soustraite aux procédés lesbiens des convives. Pour cela montre-toi reconnaissante envers ma brochette. Mais tu ne le feras point, tu ne l'essaieras même pas, je le sais : tu me tromperas, tu me riras au nez comme tu l'as déjà fait à tant d'autres. Et pourtant si tu voulais maintenant n'être pas une méchante, je te promets, quand mon fils sera mort, de te racheter et de t'avoir pour maîtresse, bijou mignon. Aujourd'hui je ne dispose pas de mon bien, parce que je suis jeune et qu'on me surveille de près. Mon cher fils m'observe, et il n'est pas commode : c'est un homme à scier en deux un grain de cumin et à gratter des brins de cresson : aussi a-t-il peur que je me perde ; car il n'a pas d'autre père que moi. Mais le voici qui accourt vers toi et moi. Fais bonne contenance et prends-moi vite ces torches : je vais lui faire un de ces tours de jeune homme comme il m'en faisait, avant que je fusse initié à ces mystères.
+
+Comme tu te régalerais agréablement d'un procès à la sauce piquante !
+
+Quelle joueuse de flûte ? Bats-tu la campagne comme si tu sortais de la tombe ?
+
+Pas du tout : c'est une torche qui brûle en l'honneur des dieux sur l'Agora.
+
+Oui, une torche ! Tu ne vois pas qu'elle est de toutes les couleurs ?
+
+La résine, sans doute, qui sort de la flamme.
+
+Non, c'est sans doute une branche de la torche qui ressort par là.
+
+Ah ! Ah ! Que vas-tu faire ?
+
+Écoute-moi un instant. J'assistais aux Jeux Olympiques, lorsque Éphoudiôn combattit glorieusement contre Askondas : il était vieux, et pourtant d'un coup de poing le vieux renversa le jeune. Ainsi prends garde de recevoir quelques pochons sur l'oeil.
+
+Pas du tout. Des contes spirituels arrangeront tout cela. Je saurai bien me raccommoder avec elle.
+
+Écoute, femme ; je veux te raconter une jolie histoire.
+
+AEsopos, un soir, revenant de souper, était poursuivi par les aboiements d'une chienne effrontée et prise de vin. «Chienne, chienne, lui dit-il, de par Zeus ! Si tu échangeais ta méchante langue contre un morceau de pain, à mon avis, tu me semblerais sage.»
+
+Par Zeus ! Écoute-moi donc, si je dis quelque chose qui t'agrée. Un jour Lasos et Simonidès se faisaient concurrence. Lasos dit : «Cela m'est bien égal.»
+
+Et toi, khaeréphôn, tu vas donc servir de témoin à une femme au teint jaune, à une Ino, qui d'un rocher se jette aux pieds d'Euripidès ?
+
+Et moi j'entre volontiers en arrangement avec lui. Je conviens de l'avoir battu, lapidé ; mais viens ici. T'en rapportes-tu à moi pour la somme d'argent qu'exige l'affaire et pour rester toujours amis, ou préfères-tu la fixer ?
+
+Un Sybarite tombe d'un char, et peu s'en faut qu'il ne se fende très grièvement la tête, vu qu'il n'était pas très fort en science hippique. Un de ses amis survient, qui lui dit : «Que chacun fasse son métier !» De même toi, tu n'as qu'à courir chez Pittalos.
+
+Écoute, ne t'en va pas. Un jour, à Sybaris, une femme brise un coffret.
+
+Le coffret prend un témoin. Le Sybarite lui dit : «Par Kora, laisse donc là tous ces témoignages, et achète des ligatures, tu feras preuve de plus de bon sens.»
+
+Que fais-tu ?
+
+Un jour AEsopos étant à Delphoe...
+
+Est accusé d'avoir volé un vase consacré au Dieu. Alors il leur raconte comment l'escarbot...
+
+Je n'ai jamais rencontré quelqu'un de plus aimable, jamais caractère ne m'a inspiré une si folle affection et ne m'a fait m'épanouir ainsi. Sur quel point de la discussion s'est-il laissé battre, quand il voulait ramener son père à des façons plus honorables ?
+
+Qui donc se tient à l'entrée du vestibule ?
+
+Abaissez les barrières : voici le commencement de la figure.
+
+Elle courbe mes flancs avec violence. Comme mes narines mugissent ! Comme mes vertèbres résonnent !
+
+Phrynikhos est un coq qui jette l'épouvante.
+
+Sa jambe lance des ruades jusqu'au ciel : son derrière est béant.
+
+Maintenant les articulations de mes membres jouent avec souplesse.
+
+Voyez, maintenant ; j'appelle et défie les antagonistes. Si quelque tragique prétend danser avec grâce, qu'il vienne ici jouter avec moi. Y a-t-il quelqu'un ou n'y a-t-il personne ?
+
+Et quel est le malheureux ?
+
+Je n'en ferai qu'une bouchée. Je l'anéantirai sous une emmélie de coups. En fait de rhythme, il n'y entend rien.
+
+De par Zeus ! J'en fais mon dîner.
+
+Qui est-ce qui rampe donc ainsi ? Une écrevisse ou un faucheux ?
+
+Ô Karkinos, heureux père d'une belle lignée, quelle foule de roitelets vient s'abattre ici ! Cependant il faut jouter avec eux, infortuné ! Préparez pour eux de la saumure, si je suis vainqueur.
+
+
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
+
+Avance, marche ferme ! Ô Komias, tu traînes ? Par Zeus ! ce n'est plus comme autrefois ; tu étais une lanière à chien. Aujourd'hui Kharinadès est meilleur marcheur que toi. Ô Strymodoros de Konthylè, le plus distingué de nos confrères, Evergidès est-il ici, ou Khabès le Phlyen ? Ils y sont. Il s'y trouve aussi,--appapae, papaeax--le reste de cette jeunesse, qui était avec nous à Byzantion, lorsque nous montions la garde, moi et toi. Dans nos excursions de nuit, nous dérobâmes en secret le pétrin de la boulangère et nous le fendîmes pour y faire cuire nos gros légumes... Mais hâtons-nous, mes amis ; c'est aujourd'hui le tour de Lakhès : tout le monde dit que sa ruche est pleine d'argent. Aussi Kléôn, notre soutien, nous a-t-il enjoint hier de venir de bonne heure, avec une provision de trois jours de colère furieuse contre l'accusé, pour le punir de ses méfaits. Hâtons-nous donc, braves amis, avant que le jour paraisse. Marchons, et regardons bien de tous côtés avec nos lampes, de peur que quelque pierre ne nous fasse obstacle et ne nous mette à mal.
+
+Prends par terre un brin de paille et mouche la lampe.
+
+Pourquoi donc allonges-tu la mèche avec ton doigt, lorsque l'huile manque, petit niais ? Ce n'est pas toi qui en souffres, quand il faut en payer le prix.
+
+Oui, j'en châtie d'autres plus grands que toi. Mais il me semble que je patauge dans cette boue. Il n'est pas possible que d'ici à quatre jours le Dieu ne fasse pas tomber de l'eau en abondance, tant nos lampes se couvrent de champignons. C'est l'habitude, quand cela se produit, qu'il y ait une pluie torrentielle. Et puis, tout ce qu'il y a de fruits encore verts a besoin d'eau et du souffle de Boréas. Mais qu'est-il donc arrivé à notre collègue, habitant cette maison, pour qu'il ne paraisse pas ici dans notre groupe ? On n'avait pas besoin jadis de le remorquer : il marchait le premier de nous, en fredonnant du Phrynikhos ; car c'est un amateur de chant. Mon avis, chers camarades, est de nous arrêter ici et de l'appeler en chantant ; s'il entend ma musique, le plaisir l'attirera vers la porte. Mais pourquoi ce vieillard ne se montre-t-il pas à nous, devant sa porte, et ne nous répond-il pas ? A-t-il perdu ses chaussures ? Ou bien s'est-il cogné l'orteil dans l'obscurité, et y a-t-il une inflammation à la cheville du pauvre vieux ? Peut-être aussi a-t-il une tumeur à l'aine. Il était pourtant le plus âpre de nous tous et le seul inexorable. Si quelqu'un le suppliait, il baissait la tête, et : «Tu veux cuire une pierre,» disait-il. Peut-être est-ce à cause de l'homme qui nous a échappé hier par mensonges, en disant qu'il était ami d'Athènes et qu'il avait révélé le premier les affaires de Samos : la peine qu'il en a ressentie l'aura fait coucher avec la fièvre : car voilà l'homme. Mais, mon bon, lève-toi, ne te ronge pas ainsi, ne te fâche pas : il nous arrive un homme gras, un de ceux qui ont livré la Thrakè : tu vas le condamner à mort. Avance, enfant, avance.
+
+Sans doute, mon enfant. Mais dis-moi ce que tu veux que je t'achète de beau. Je pense que tu aimes sans doute les osselets, mon enfant.
+
+Eh bien, non, par Zeus ! Dussiez-vous aller vous pendre !
+
+Ainsi, avec mon chétif salaire j'ai trois choses à acheter, farine, bois et comestibles, et tu me demandes encore des figues !
+
+Oh ! Oh ! Hélas ! Oh ! Oh ! Hélas ! J'en atteste Zeus, je ne sais pas comment nous dînerons.
+
+Pour me donner le mal de te nourrir.
+
+Qui donc est celui qui te retient et qui ferme la porte ? Parle ; tu t'adresses à des amis.
+
+Mais quelle défense, mon pauvre homme, veut-il t'imposer en agissant de la sorte ? Quel prétexte est le sien ?
+
+Les paroles audacieuses de cet infâme Dèmologokléôn sont provoquées par ce que tu dis la vérité au sujet de la flotte. Cet homme n'aurait pas cette audace de paroles s'il ne tramait quelque conspiration. Mais c'est le moment de chercher quelque nouveau moyen qui, à l'insu de cet homme, te permette de descendre ici.
+
+Y a-t-il quelque ouverture que tu puisses creuser à l'intérieur pour t'en échapper, couvert de haillons, comme l'industrieux Odysseus.
+
+Te souviens-tu comment, étant à l'armée et ayant volé quelques broches que tu fichais toi-même dans le mur, tu en descendis très vite ? C'était à la prise de Naxos.
+
+Trouve donc au plus tôt quelque machine ; car voici le jour, mon doux ami.
+
+C'est bien le fait d'un homme qui travaille à son salut. Allons ! Joue de la mâchoire.
+
+Ne crains rien mon cher, rien. S'il souffle mot, je le forcerai à se ronger le coeur et à courir la course pour sa propre vie : il verra bien qu'il ne faut pas fouler aux pieds les lois des deux Déesses. Attache donc une corde à la fenêtre, entoures-en ton corps et laisse-toi descendre, l'âme remplie de la fureur de Diopithès.
+
+Nous te porterons secours, faisant appel à tout notre coeur d'yeuse, si bien qu'il sera impossible de te renfermer. Voilà ce que nous ferons.
+
+Il ne t'arrivera rien ; sois sans crainte. Ainsi, mon cher ami, descends avec confiance, en invoquant les dieux de la patrie.
+
+Dis-moi, que tardons-nous à mettre en mouvement cette colère qui nous prend, quand on irrite nos essaims ? Oui, voilà, voilà que se dresse ce dard irascible, aigu, qui nous sert à châtier. Allons, jetez vite vos manteaux, enfants, courez, criez, annoncez ceci à Kléôn ; dites-lui de venir combattre un ennemi de la république, qui mérite de périr, puisqu'il ose dire qu'il ne faut pas juger les procès.
+
+De par Zeus ! Jusqu'au ciel !
+
+Mais c'est affreux ; c'est une tyrannie manifeste ! Ô cité de Théoros, ennemi des dieux, et quels que soient les flatteurs qui nous gouvernent !
+
+Et toi aussi tu en mourras ! Tournez-vous tous par ici, le dard en avant, et marchez contre lui, serrés, en bon ordre, tout gonflés de colère et de rage, afin qu'il sache bien plus tard de quel essaim il a irrité la colère.
+
+Alors, lâche cet homme ; sinon, je dis, moi, que tu envieras la peau des tortues.
+
+Si tu ne le lâches pas, quelque chose te poindra.
+
+Mille maux ne viennent-ils pas fondre sur la vieillesse ? C'est évident. Voilà deux esclaves qui retiennent de force leur vieux maître. Ils laissent dans l'oubli du passé les peaux, les exomides qu'il achetait pour eux, les casquettes de chien, les services rendus à leurs pieds munis durant l'hiver contre le froid. Ils n'ont ni en eux-mêmes, ni dans leurs regards le respect des chaussures d'autrefois.
+
+Vous allez être punis bel et bien de votre conduite, avant peu ; et vous connaîtrez quel est le caractère d'hommes irascibles, justes, aux regards âcres comme le cresson.
+
+N'est-il pas évident pour les pauvres que la tyrannie à mon insu s'est glissée furtivement ici ? Oui, toi, plus mauvais que le mal, émule d'Amynias le chevelu, tu nous empêches d'exécuter les lois établies par la ville, et cela sans avoir aucun prétexte, ni une éloquence ingénieuse, et pour commander seul.
+
+Des pourparlers avec toi, haïsseur du peuple, ami de la monarchie, complice de Brasidas, toi qui portes des franges de laine et qui nourris une épaisse moustache !
+
+Et pourtant tu n'en es qu'au persil et à la rue, pour nous servir d'un terme emprunté aux marchands de vin. Maintenant, en effet, tu n'as rien à souffrir, mais tu verras quand l'accusateur entassera contre toi ces mêmes griefs et citera tes complices.
+
+Non, jamais, tant qu'il me restera le souffle, au lieu que tu aspires à nous tyranniser.
+
+C'est maintenant qu'il te faut tirer de notre arsenal quelque discours nouveau ; mais ne parle pas dans le sens de ce jeune homme. Tu vois quelle est pour toi l'importance de ce combat ; c'est le tout pour le tout si, ce qu'aux dieux ne plaise, il venait à l'emporter.
+
+Ah ! Quel air tu as en donnant cet ordre !
+
+La troupe des vieillards ne servirait plus de rien absolument. Raillés dans toutes les rues, on nous appellerait thallophores et sacs à procès. Toi donc, qui vas défendre notre souveraineté, déploie en ce moment tout le courage de ton éloquence.
+
+Non, jamais nous n'avons entendu personne parler avec tant de correction et d'intelligence.
+
+Comme il a tout passé en revue, sans rien omettre ! C'est au point que je grandissais en l'entendant et qu'il me semblait juger aux Iles Fortunées, ravi de son éloquence.
+
+Il faut que tu ourdisses toutes sortes de trames pour échapper : car il n'est pas facile d'adoucir ma colère, quand on ne parle pas dans mon sens. C'est donc le cas pour toi de chercher une bonne meule et toute neuve, lorsque tu vas parler, afin d'écraser ma mauvaise humeur.
+
+Il était sage celui qui a dit : «Avant d'avoir entendu le discours des deux parties, ne prononcez pas.» C'est toi, en effet, qui me parais maintenant avoir largement gagné la cause. Cela fait que ma colère se calme et que je jette ces bâtons. Et toi, notre contemporain et notre camarade, cède, cède à ses raisons, de peur de paraître un homme atteint de folie, d'entêtement exagéré, et intraitable. Qu'il m'eût été utile d'avoir moi-même un tuteur, un parent, pour me remettre ainsi dans le vrai sens ! Aujourd'hui, un dieu présent vient manifestement à ton aide dans cette occurrence ; on voit qu'il t'accorde sa faveur : accepte-la sans attendre.
+
+Il s'est remis lui-même dans le bon sens sur les points où il extravaguait : il a reconnu tout à l'heure sa folie et il se reproche de n'avoir pas suivi tes conseils. Maintenant peut-être va-t-il se laisser convaincre par tes observations, et avoir la sagesse de changer de conduite en t'obéissant.
+
+Et nous, pendant les libations et les prières, nous vous dirons de bonnes paroles, parce que de la lutte et de la dispute vous en êtes venus à une généreuse réconciliation.
+
+Ô Phoebos Apollon Pythios, bonne chance à l'affaire instruite par ce magistrat devant sa porte ; accord entre nous tous tirés de nos erreurs ! Io Paean !
+
+Nos prières s'unissent aux tiennes, et nos chants en faveur du nouveau magistrat s'accordent avec les paroles que tu as prononcées. Oui, tu as notre bienveillance, depuis que nous voyons que tu aimes le peuple bien plus que ne le fait aucun des jeunes.
+
+Oui, allez gaiement où vous voulez. Pour vous, myriades incalculables, les bonnes choses qu'on va vous dire maintenant, gardez-vous de les laisser négligemment tomber par terre. C'est affaire à des spectateurs inintelligents, et non pas à vous. Et maintenant, peuple, prêtez-nous attention, si vous aimez un langage sincère. Le poète désire, à présent, adresser des reproches aux spectateurs. Il prétend qu'on lui a fait une injustice, à lui qui s'est souvent bien conduit envers vous, pas ouvertement sans doute, mais en aidant secrètement d'autres poètes. Imitateur des prophéties et des procédés d'Euryklès, il fit passer dans d'autres ventres bon nombre de ses traits comiques. Bientôt, il affronta le risque de se montrer ouvertement et de lui-même, prenant en mains les rênes, non plus de la bouche d'autrui, mais de celle de ses propres muses. Porté au sommet de la grandeur, plus honoré que jamais personne d'entre vous, il dit n'avoir pas atteint le comble, ni être gonflé d'orgueil, ni parcourir les palestres en séducteur. Si quelque amant, mû par la haine, accourait sur lui pour s'être raillé comiquement de ses amours, il dit qu'il n'a jamais fléchi devant personne, gardant la ferme résolution de ne pas faire jouer aux muses dont il s'inspire, le rôle d'entremetteuses. La première fois qu'il joua, il n'eut pas, selon lui, à combattre des hommes, mais à s'armer du courage de Hèraklès, pour attaquer les plus grands monstres, assaillant tout d'abord avec vigueur la bête aux dents aiguës, dans les yeux de laquelle luisaient des rayons terribles comme les yeux de Kynna, et dont les cent têtes étaient léchées en cercle par des flatteurs, gémissant autour de son cou : elle avait la voix redoutable d'un torrent qui grossit, l'odeur d'un phoque, les testicules malpropres d'une Lamia, et le derrière d'un chameau. A la vue de ce monstre, notre poète dit que la peur ne lui fera pas offrir des présents, mais qu'aujourd'hui encore il va combattre pour vous. Il ajoute qu'après ce monstre, il lutta, l'an passé, contre des démons sinistres, des êtres fiévreux, qui, la nuit, étranglaient les pères, étouffaient les grands-pères, s'asseyaient à la couche de vos concitoyens inoffensifs, les inondaient de contre-serments, de citations, de témoignages, au point qu'un bon nombre bondissaient terrifiés chez le polémarkhe. Après avoir trouvé un tel défenseur, un tel sauveur de ce pays, vous l'avez abandonné, l'année dernière, lorsqu'il semait ses pensées les plus neuves, dont, faute de les bien comprendre, vous avez arrêté la pousse. Cependant, au milieu de nombreuses libations, il atteste Dionysos que jamais on n'entendit de meilleurs vers comiques. C'est une honte pour vous de ne pas les avoir appréciés sur-le-champ ; mais le poète n'est pas estimé à une moindre valeur par les hommes éclairés, quoique, devançant ses rivaux, il ait eu son espérance brisée. Mais, à l'avenir, braves gens, si vous avez des poètes qui cherchent des paroles et des idées neuves, aimez-les, favorisez-les davantage, et conservez leurs pensées : enfermez-les dans vos coffres avec les fruits. En agissant ainsi, vos vêtements exhaleront toute l'année une odeur de sagesse. Ô nous, autrefois vaillants dans les choeurs, vaillants dans les combats, et hommes plus vaillants encore par ce côté seul, tout cela est passé, bien passé. Aujourd'hui la blancheur florissante de nos cheveux surpasse celle du cygne. Toutefois il faut que de ces restes surgisse la vigueur du jeune âge : pour moi, je suis convaincu que ma vieillesse vaut mieux que les boucles de beaucoup de jeunes gens, que leur parure et leur derrière élargi. Si quelqu'un de vous, spectateurs, à l'aspect de mon costume, s'étonne de me voir avec un corsage de guêpe, et de ce que signifie notre aiguillon, je le lui expliquerai aisément, quelle que soit son ignorance première. Nous sommes, nous qui avons cet appendice au derrière, les Attiques, seuls vraiment nobles, autochthones, race la plus vaillante, qui rendit à la ville les plus nombreux services dans les combats, quand vint le Barbare, couvrant la ville de fumée, mettant tout en feu, et voulant nous enlever violemment nos ruches. Aussitôt, armés de la lance et du bouclier, nous accourons pour les combattre, le coeur enivré de colère, debout, homme contre homme, dévorant nos lèvres de fureur, la grêle des flèches dérobant la vue du ciel. Cependant, avec l'aide des dieux, nous les mettons en déroute vers le soir. Une chouette, avant la bataille, avait passé au-dessus de notre armée. Puis nous les poursuivons, les piquant comme des taons sous leurs longs vêtements, et ils s'enfuient, les joues et les sourcils criblés de dards ; si bien que chez les Barbares, partout et maintenant encore, on ne désigne rien de plus redoutable que la guêpe attique. Certes alors j'étais terrible, n'ayant peur de rien : je mis en fuite les ennemis, cinglant où il fallait sur nos trières. Car nous n'avions pas alors le souci d'arrondir une phrase, ni la pensée de dénoncer quelqu'un, mais le désir d'être le meilleur rameur. Aussi, après avoir enlevé aux Mèdes un grand nombre de villes, méritions-nous de recevoir ici les tributs, que volent les jeunes gens. Examinez-nous du haut en bas et sous tous les aspects, vous nous trouverez, pour le caractère et pour la manière de vivre, absolument semblables aux guêpes. Et d'abord il n'y a pas d'animal plus irritable que nous, ni plus colère, ni plus impatient. Ensuite, toutes nos différentes occupations ressemblent à celles des guêpes. Groupés par essaims, comme ceux des ruches, les uns d'entre nous s'en vont chez l'arkhonte, les autres chez les Onze, d'autres à l'Odéôn : quelques-uns serrés contre les murs, la tête baissée vers la terre, remuent à peine, comme les chenilles dans leurs alvéoles. Pour le reste de la vie nous abondons en ressources. En piquant un chacun, nous nous procurons de quoi vivre. Mais nous avons parmi nous des frelons inactifs, dépourvus d'aiguillon, et qui, séjournant à l'intérieur du logis, dévorent notre travail, sans se donner aucune peine. C'est pour nous une chose des plus douloureuses qu'un être qui se dispense du service, nous ravisse notre salaire, lui qui, pour la défense de ce pays, ne prend ni rame, ni lance, ni ampoule. Il me semble, en un mot, que ceux des citoyens qui n'auront pas d'aiguillon, ne doivent pas toucher le triobole.
+
+Souvent il m'a paru que de ma nature j'avais de la finesse, et de la sottise jamais. Mais combien est supérieur Amynias, fils de Sellos, de la race de Krobylos, que j'ai vu jadis, nanti d'une pomme et d'une grenade, manger à la table de Léogoras ; car il est aussi meurt-de-faim qu'Antiphôn. Il est allé en légation à Pharsalos ; mais là, seul, il communiquait seulement avec les pénestes (domestiques) des Thessaliens, non moins péneste que les autres. Bienheureux Automénès, que nous te trouvons heureux d'avoir pour enfants de très habiles artistes ! Le premier, ami de tout le monde, est un homme fort avisé, kithariste accompli, et que la grâce accompagne ; le second un acteur d'un incomparable talent. Vient ensuite Ariphradès, le plus intelligent des trois. Son père jurait qu'il n'avait rien appris de personne, et qu'une heureuse nature lui avait spontanément enseigné à jouer de la langue dans les lupanars qu'il hante chaque jour... Il y en a qui ont prétendu que je m'étais réconcilié avec Kléôn, pendant qu'il s'acharnait sur moi, me trépignait et me lardait d'outrages. Au moment où j'étais mis en pièces, ceux du dehors riaient, en me voyant jeter de hauts cris, n'ayant nul souci de moi, mais seulement pour savoir si, foulé aux pieds, je lancerais quelque brocard. Ce que voyant, je me suis adouci comme un singe. Et depuis lors : «l'échalas manque à la vigne.»
+
+Qu'y a-t-il, enfant ? Car on a le droit d'appeler enfant, fût-il un vieillard, quiconque reçoit des coups.
+
+Je t'envie pour ton bonheur, vieillard. Quelle différence avec ses habitudes frugales et son existence ! Instruit maintenant d'une manière tout autre, il va sans doute changer de sentiment au sujet des jouissances et de la mollesse. Peut-être cependant ne voudra-t-il pas ; car il est difficile de renoncer au naturel que l'on a toujours eu. Bien des gens l'ont fait pourtant, et entrant dans les idées d'autrui ont changé leurs manières. Du moins j'accorderai, avec tous les hommes sages, beaucoup d'éloges, à cause de sa sagesse et de l'affection qu'il a pour son père, au fils de
+
+Allons ! Laissons-leur à tous un peu d'espace, afin qu'ils pirouettent devant nous, à leur aise. Voyons, enfants renommés d'un dieu marin, bondissez sur le sable et sur le rivage de la mer stérile, frères des squilles. Agitez en rond votre pied léger ; faites des écarts à la façon de Phrynikhos, si bien que, voyant vos jambes en l'air, les spectateurs se récrient. Tourne, pirouette, frappe-toi le ventre, lance ta jambe vers le ciel : devenez des toupies. Voici venir ton illustre père, le souverain des mers, émerveillé de sa postérité, si virilement pourvue. Mais conduisez-nous vite, si bon vous semble, jusqu'à la porte, et dansez ; car jamais personne jusqu'ici n'a vu un choeur dansant terminer une tragédie.
+
+
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enfants
+
+Un bourbier, père, père ! Prends-y garde !
+
+Non ; je la moucherai bien, je pense, avec mon doigt.
+
+De par Zeus ! si vous nous faites encore la leçon à coups de poing, nous éteignons les lampes, et nous retournons à la maison seuls. Alors, sans doute, au milieu des ténèbres, privé de clarté, tu barboteras, en marchant dans la boue comme un francolin.
+
+Voudrais-tu bien me donner, mon père, ce que je vais te demander ?
+
+Non, par Zeus ! J'aime mieux les figues, petit père ; c'est plus doux.
+
+Alors, par Zeus ! je ne vous conduirai plus.
+
+Mais, voyons, mon père, si l'arkhonte ne convoque pas tout de suite le tribunal, où achèterons-nous à dîner ? As-tu quelque heureux espoir à nous offrir ou le chemin sacré de Hellè ?
+
+Pourquoi, malheureuse mère, m'as-tu mis au monde ?
+
+Ô mon petit sac, tu n'es donc qu'un ornement inutile ! Hélas ! Hélas ! C'est notre lot de gémir.
+
+
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laboulangere
+
+A moi, à l'aide, je t'en conjure au nom des dieux ! Cet homme m'a mise à mal en me frappant avec sa torche ; il a jeté par terre dix pains d'une obole, et quatre autres par-dessus le marché.
+
+Non, non, par les deux Déesses ! tu ne te seras pas moqué impunément de Myrtia, fille d'Ankyliôn et de Sostrata, en venant gâter ma marchandise.
+
+Non, de par Zeus ! Mon pauvre homme !
+
+Tu te moques de moi. Qui que tu sois, je t'assignerai devant les agoranomes pour dommages faits à ma marchandise, et j'ai pour témoin khaeréphôn que voici.
+
+Vraiment, mon cher homme ?
+
+
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laccusateur
+
+Malheureux que je suis ! Vieillard, je t'assigne pour outrage.
+
+Dis toi-même ; car je n'ai besoin ni de procès, ni d'affaires.
+
+Souviens-toi bien, toi, de ce qu'il a répondu.
+
+Je te prends à témoin.
+
+Fais l'insolent jusqu'à ce que l'arkhonte appelle l'affaire.
+

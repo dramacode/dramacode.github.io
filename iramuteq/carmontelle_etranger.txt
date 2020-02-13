@@ -1,789 +1,365 @@
 
 
-**** *book_ *id_I01 *act_I *date_1780
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtrotberg
 
--*who_monsieurdubreuilpere
-Monsieur, voilà votre appartement.
-
--*who_monsieurtrotberg
 Appartement ?
 
--*who_monsieurdubreuilpere
-Oui, votre logement.
+Ah, logement, c'est appartement ; je comprends fort bon. Il est fort joli.
 
--*who_monsieurtrotberg
-Ah, logement, c'est appartement ; je comprends fort bon.
-Il est fort joli.
-
--*who_monsieurdubreuilpere
-Monsieur, je voudrais que vous vous trouvassiez bien chez moi, je vous ai tant d'obligation d'avoir bien voulu recevoir mon fils à Nuremberg, que je ne puis assez vous en marquer ma reconnaissance.
-
--*who_monsieurtrotberg
 Monsieur, vous dites logement ; c'est appartement ?
 
--*who_monsieurdubreuilpere
-Oui, Monsieur.
-
--*who_monsieurtrotberg
 C'est que j'écris à mesure que je entend poux garder dans le mémoire.
 
--*who_monsieurdubreuilpere
-C'est une très bonne façon d'apprendre le français.
-
--*who_monsieurtrotberg
 Oui, c'est que comme cela on apprend meilleur, et j'ai commandé de même à Monsieur votre fils dans sa voyage d'Allemagne.
 
--*who_monsieurdubreuilpere
-C'est un bon avis que vous lui avez donné.
-
--*who_monsieurtrotberg
 Avis ?
 
--*who_monsieurdubreuilpere
-Oui, Monsieur.
-
--*who_monsieurtrotberg
 Je n'ai rien donné qui soit avis.
 
--*who_monsieurdubreuilpere
-Je vous demande pardon ; avis, c'est conseil, avertissement.
-
--*who_monsieurtrotberg
 Ah, permettez que j'écrive avertissement, conseil, c'est avis.
 
--*who_monsieurdubreuilpere
-Oui, Monsieur.
-
--*who_monsieurtrotberg
 Tiaple, je croyais à Nuremberg savoir bien la langue du français, je vois à présent que c'est bien autrement encore que je disais.
 
--*who_monsieurdubreuilpere
-Vous parlez bien cependant.
-
--*who_monsieurtrotberg
 Ah, comme cela, pas trop autrement, et je suis impatientement que Monsieur votre fils, il soit ici, pour me expliquer mieux.
 
--*who_monsieurdubreuilpere
-Il arrivera bientôt, il n'est qu'à trois lieues d'ici, il sait que vous devez venir, et je l'ai envoyé quérir.
+Quérir ? Est-ce courir ?
 
--*who_monsieurtrotberg
-Quérir ?
-Est-ce courir ?
+Chercher, c'est quérir ? Il faut que je écrive aussi quérir, chercher, quérir.
 
--*who_monsieurdubreuilpere
-Non, quérir, c'est chercher.
-
--*who_monsieurtrotberg
-Chercher, c'est quérir ?
-Il faut que je écrive aussi quérir, chercher, quérir.
-
--*who_monsieurdubreuilpere
-Monsieur, je vous prie de vous regarder ici comme le maître de la maison, ordonnez, et l'on vous donnera tout ce que vous voudrez.
-
--*who_monsieurtrotberg
 À moi ?
 
--*who_monsieurdubreuilpere
-À vous.
-
--*who_monsieurtrotberg
 Pour mon besoin ?
 
--*who_monsieurdubreuilpere
-Tout ce qui vous sera nécessaire.
-
--*who_monsieurtrotberg
 Nécessaire, cela veut dire ?...
 
--*who_monsieurdubreuilpere
-Besoin.
-
--*who_monsieurtrotberg
 Tiaple, vous avez toujours deux mots pour un, je comprends pas cela, vous dites besoin ; c'est nécessaire ?
 
--*who_monsieurdubreuilpere
-Oui, nécessaire.
-
--*who_monsieurtrotberg
 Je écris aussi.
 
--*who_monsieurdubreuilpere
-C'est très bien fait.
-
--*who_monsieurtrotberg
 Allons, je ne veux parler que français quand je reste dans cette pays, même quand je suis avec moi tout seul, cela il me apprendra.
 
--*who_monsieurdubreuilpere
-C'est un bon moyen ?
-
--*who_monsieurtrotberg
 Un bon moyen ?
 
--*who_monsieurdubreuilpere
-Oui, une méthode très bonne.
-
--*who_monsieurtrotberg
 Encore moyen ; c'est méthode.
 
--*who_monsieurdubreuilpere
-Oui dans ce cas-là ; mais il vaut mieux dire méthode.
-
--*who_monsieurtrotberg
 Je écris donc méthode, puisqu'il est le meilleur.
 
--*who_monsieurdubreuilpere
-Oui, oui, mettez méthode.
-
--*who_monsieurtrotberg
 Je suis fort obligé, je demande bien pardon.
 
--*who_monsieurdubreuilpere
-Vous vous moquez de moi.
-
--*who_monsieurtrotberg
 Moi non, je ne moque pas de vous ; moquer c'est comme rire, n'est-ce pas ?
 
--*who_monsieurdubreuilpere
-Oui.
+Oui ? J'ai écrit déjà plusieurs fois, et vous voyez bien que je ne ris pas.
 
--*who_monsieurtrotberg
-Oui ?
-J'ai écrit déjà plusieurs fois, et vous voyez bien que je ne ris pas.
+C'est un affaire peut-être, il faut aller, marcher. Je suis fort bon ici.
 
-**** *book_ *id_I02 *act_I *date_1780
-
--*who_lapierre
-Monsieur, il y a un Monsieur dans votre cabinet qui vous attend.
-
--*who_monsieurdubreuilpere
-C'est bon ; je vais y aller.
-
--*who_monsieurtrotberg
-C'est un affaire peut-être, il faut aller, marcher.
-Je suis fort bon ici.
-
--*who_monsieurdubreuilpere
-Voilà du papier, de l'encre ; je reviendrai vous tenir compagnie bientôt.
-
--*who_monsieurtrotberg
 Je suis ici avec ma portefeuille, je lis tout cela.
 
--*who_monsieurdubreuilpere
-Si vous avez besoin de quelque chose, appelez Lapierre.
+Besoin, c'est nécessaire, je me souviens. Et Lapierre ?
 
--*who_monsieurtrotberg
-Besoin, c'est nécessaire, je me souviens.
-Et Lapierre ?
-
--*who_monsieurdubreuilpere
-C'est cet homme-là.
-
--*who_monsieurtrotberg
 Cet homme-là, on l'appelle une pierre ?
 
--*who_monsieurdubreuilpere
-Oui ; c'est son nom.
-
--*who_monsieurtrotberg
 Je entend bien ; c'est comme nous disons un arbre de noix, arbre d'olive.
 
--*who_monsieurdubreuilpere
-Oui, du noyer, olivier.
-
--*who_monsieurtrotberg
-Du noyer, noix; olivier, olive.
-Je écris, permettez.
+Du noyer, noix; olivier, olive. Je écris, permettez.
 Je finis.
 
--*who_monsieurdubreuilpere
-Vous aurez tout ce que vous voudrez.
-Si vous voulez envoyer quelque part, dites où.
-
--*who_monsieurtrotberg
 Où ?
 
--*who_monsieurdubreuilpere
-Oui.
-Si vous voulez manger, dites quoi.
-
--*who_monsieurtrotberg
 Quoi ?
 
--*who_monsieurdubreuilpere
-Oui.
-Si vous voulez boire, dites-le.
-
--*who_monsieurtrotberg
 Le ?
 
--*who_monsieurdubreuilpere
-Si vous voulez sortir, dites quand.
-
--*who_monsieurtrotberg
 Quand ?
 
--*who_monsieurdubreuilpere
-Oui.
-
--*who_monsieurtrotberg
 C'est pour sortir ? soif bon.
 
--*who_monsieurdubreuilpere
-Si vous voulez vous coucher, dites l'heure.
-
--*who_monsieurtrotberg
 Pour coucher ?
 
--*who_monsieurdubreuilpere
-Pour lever, de même.
+C'est fort singulier. Voilà un pour deux à présent.
 
--*who_monsieurtrotberg
-C'est fort singulier.
-Voilà un pour deux à présent.
-
--*who_monsieurdubreuilpere
-J'espère que mon fils va arriver, et il vous tiendra compagnie.
-
--*who_monsieurtrotberg
 Oh, j'ai pas besoin, j'ai ici ma occupation.
 
--*who_monsieurdubreuilpere
-Lapierre va rester dans votre antichambre.
-Tu entends bien, Lapierre ?
-
--*who_lapierre
-Oui, Monsieur.
-
--*who_monsieurdubreuilpere
-Et tu feras ce que Monsieur te dira.
-
--*who_lapierre
-Oui, oui, Monsieur.
-
--*who_monsieurdubreuilpere
-Ah ça, Monsieur, je vous laisse, je suis bien votre serviteur.
-
--*who_monsieurtrotberg
 Serviteur, Monsieur, Serviteur.
 
-**** *book_ *id_I03 *act_I *date_1780
+Je vous laisse. Laisse. Je comprends pas laisse. Pourquoi j'ai pas demandé. Laisse ? Laisse ! Il faut que je sache à ce moment pour écrire. Lapierre ?
 
--*who_monsieurtrotberg
-Je vous laisse.
-Laisse.
-Je comprends pas laisse.
-Pourquoi j'ai pas demandé.
-Laisse ?
-Laisse !
-Il faut que je sache à ce moment pour écrire.
-Lapierre ?
-
-**** *book_ *id_I04 *act_I *date_1780
-
--*who_lapierre
-Monsieur.
-
--*who_monsieurtrotberg
 Entre ici.
 
--*who_lapierre
-Me voilà, Monsieur.
-
--*who_monsieurtrotberg
 Qu'est-ce que c'est que laisse il veut dire ?
 
--*who_lapierre
-Laisse ?
-
--*who_monsieurtrotberg
 Oui, laisse ?
 
--*who_lapierre
-Lesse ?
-Je ne sais pas, Monsieur.
-
--*who_monsieurtrotberg
 Monsieur Dubreuil, il a dit, lesse.
 
--*who_lapierre
-Lesse ?
-Ah, Monsieur, c'est à votre chapeau.
-
--*who_monsieurtrotberg
 À mon chapeau, laisse ?
 
--*who_lapierre
-Oui, Monsieur, je vais vous montrer.
-Tenez voilà ce que c'est qu'une lesse.
-
--*who_monsieurtrotberg
 Cela il est une lesse.
 
--*who_lapierre
-Oui, Monsieur.
-
--*who_monsieurtrotberg
 Monsieur Dubreuil, il ne m'a point parlé de chapeau.
 
--*who_lapierre
-C'est pourtant cela.
-
--*who_monsieurtrotberg
 Allons, va-t-en ; je demande à lui-même quand il viendra.
 
-**** *book_ *id_I05 *act_I *date_1780
+C'est un langue de tous les tiables. La fils de Monsieur Dubreuil, il sera fort bon pour moi ici.
+Ah, je trouve ici un lettre qu'il faut que j'envoie tout présentement. Lapierre.
 
--*who_monsieurtrotberg
-C'est un langue de tous les tiables.
-La fils de Monsieur Dubreuil, il sera fort bon pour moi ici.
-Ah, je trouve ici un lettre qu'il faut que j'envoie tout présentement.
-Lapierre.
-
-**** *book_ *id_I06 *act_I *date_1780
-
--*who_lapierre
-Monsieur.
-
--*who_monsieurtrotberg
 Tiens, où.
 
--*who_lapierre
-Qu'est-ce que vous voulez, Monsieur ?
-
--*who_monsieurtrotberg
 Où.
 
--*who_lapierre
-Où ?
-Qu'est-ce qu'il faut faire ?
-
--*who_monsieurtrotberg
 Je te dis, où.
 
--*who_lapierre
-Où ; mais je n'entends point l'Allemand.
-
--*who_monsieurtrotberg
-Mais, c'est français, où.
-Il est sur mon tablette.
+Mais, c'est français, où. Il est sur mon tablette.
 Oui, où.
 
--*who_lapierre
-Non, Monsieur, où ne veut rien dire.
+Ce tiaple de français, ils ne savent point la langage de leur pays. Monsieur Dubreuil, il m'a dit, où, quand on veut envoyer quelque part.
 
--*who_monsieurtrotberg
-Ce tiaple de français, ils ne savent point la langage de leur pays.
-Monsieur Dubreuil, il m'a dit, où, quand on veut envoyer quelque part.
-
--*who_lapierre
-Pour envoyer, on ne dit point, où, on dit allez là.
-
--*who_monsieurtrotberg
 Allez là ?
 
--*who_lapierre
-Oui, Monsieur.
-
--*who_monsieurtrotberg
-Il faut donc que j'écrive allez là, aussi ; mais je demanderai.
-Attends à cette moment.
+Il faut donc que j'écrive allez là, aussi ; mais je demanderai. Attends à cette moment.
 Allez là.
 
--*who_lapierre
-Là, c'est sur la lettre.
+Sur la lettre là ? Non, c'est l'adresse.
 
--*who_monsieurtrotberg
-Sur la lettre là ?
-Non, c'est l'adresse.
-
--*who_lapierre
-Eh bien, oui.
-
--*who_monsieurtrotberg
 Là ; c'est l'adresse ?
 
--*who_lapierre
-L'adresse est là-dessus, dessus la lettre.
+Oui. Je comprends pas jamais. Revenez sur la moment.
 
--*who_monsieurtrotberg
-Oui.
-Je comprends pas jamais.
-Revenez sur la moment.
-
--*who_lapierre
-Je vais l'envoyer par quelqu'un ; parce que je ne dois pas vous quitter.
-
--*who_monsieurtrotberg
 Fort bien, fort bien.
 
-**** *book_ *id_I07 *act_I *date_1780
+Il faut un bon patience avec cette domestique ; je ne sais pas pourquoi il m'a donné comme cela un bête pour mon service. Je suis tout en échauffement de cette garçon qu'il ne m'entend pas. J'ai envie de faire porter un glas de bier, non, non, un verre de bière qu'il faut dire en français. Je veux parler autrement jamais à présent. Lapierre. Lapierre.
 
--*who_monsieurtrotberg
-Il faut un bon patience avec cette domestique ; je ne sais pas pourquoi il m'a donné comme cela un bête pour mon service.
-Je suis tout en échauffement de cette garçon qu'il ne m'entend pas.
-J'ai envie de faire porter un glas de bier, non, non, un verre de bière qu'il faut dire en français.
-Je veux parler autrement jamais à présent.
-Lapierre.
-Lapierre.
-
-**** *book_ *id_I08 *act_I *date_1780
-
--*who_lapierre
-Monsieur, qu'est-ce que vous voulez ?
-Votre lettre est partie.
-
--*who_monsieurtrotberg
 Je veux, le.
 
--*who_lapierre
-Le ?
-
--*who_monsieurtrotberg
 Oui, je dis, le.
 
--*who_lapierre
-Le quoi ?
-
--*who_monsieurtrotberg
 Je veux pas quoi, je veux, le.
 
--*who_lapierre
-Le ?
-Je ne sais pas ce que vous voulez dire, dites quoi.
-
--*who_monsieurtrotberg
 Je veux pas dire quoi, je veux dire, le.
 
--*who_lapierre
-Je ne peux pas vous deviner.
-
--*who_monsieurtrotberg
-Que tiaple !
-Est ce que je ferais un faute ?
+Que tiaple ! Est ce que je ferais un faute ?
 Non, c'est, le.
 
--*who_lapierre
-Le quoi.
+Eh bien, donne moi quoi ? Tu donneras après le ; puisque tu veux donner quoi.
 
--*who_monsieurtrotberg
-Eh bien, donne moi quoi ?
-Tu donneras après le ; puisque tu veux donner quoi.
-
--*who_lapierre
-Je ne vous entends pas, Monsieur.
-
--*who_monsieurtrotberg
 C'est pourtant Monsieur Dubreuil, qui m'a dit de dire, le.
 
--*who_lapierre
-Le quoi ?
-
--*who_monsieurtrotberg
 Quand je dis le, je dis pas quoi : quand je dis quoi, je dis pas le.
 
--*who_lapierre
-Je ne puis vous donner que ce que vous de dites.
-
--*who_monsieurtrotberg
 Je dis le ; mais faites marcher ici Monsieur Dubreuil, il dira si je dis pas bien.
 
--*who_lapierre
-Il vient de sortir.
+Sortir. C'est quand.
 
--*who_monsieurtrotberg
-Sortir.
-C'est quand.
-
--*who_lapierre
-Quand ?
-Tout à l'heure.
-
--*who_monsieurtrotberg
 L'heure, c'est coucher, il m'a dit.
 
--*who_lapierre
-Je ne dis pas qu'il est couché, je dis qu'il vient de sortir.
-
--*who_monsieurtrotberg
 Eh bien, sortir, quand.
 
--*who_lapierre
-Quand ?
-Je vous dis tout à l'heure.
-
--*who_monsieurtrotberg
 L'heure c'est coucher, je sais fort bon ; mais on ne peut pas être couché et être sorti, je puis pas souffrir le mensonge.
 
--*who_lapierre
-Mais je ne dis pas qu'il est couché non plus.
-
--*who_monsieurtrotberg
 Que tiable dis-tu donc ?
 
--*who_lapierre
-Je dis qu'il vient de sortir.
-
--*who_monsieurtrotberg
 Quand ?
 
--*who_lapierre
-Tout à l'heure.
-
--*who_monsieurtrotberg
 Je tiens plus, je vais quand, aussi moi de cette logis.
 
--*who_lapierre
-Tenez, j'entends Monsieur Dubreuil le fils, il sait l'allemand, il vous entendra.
-
--*who_monsieurtrotberg
 Je parle Français encore, c'est un grand impatientement que cette garçon-là.
 
-**** *book_ *id_I09 *act_I *date_1780
-
--*who_monsieurdubreuilfils
-Ah, Monsieur Trotberg, je suis charmé de vous voir à Paris.
-
--*who_monsieurtrotberg
 Je suis bien content aussi, véritablement.
 
--*who_monsieurdubreuilfils
-Je comptais que vous n'arriveriez que demain, je vous demande bien pardon de n'avoir pas été ici à votre arrivée.
-
--*who_monsieurtrotberg
 J'ai vu Monsieur votre père; mais il m'a mis de l'embarras avec cette garçon ; parce que les miens ils sont tous malades de la poste, et puis ils savent pas la langage de cette pays, et je puis pas expliquer à cette Pierre, qu'il n'entend pas.
 
--*who_monsieurdubreuilfils
-Cette Pierre ?
-
--*who_lapierre
-Oui, c'est moi, Lapierre ; qu'il veut dire;
-
--*who_monsieurtrotberg
 Est-ce qu'il n'est pas français Lapierre ?
 
--*who_monsieurdubreuilfils
-Pardonnez-moi.
-
--*who_monsieurtrotberg
 Il ne sait donc pas les mots de son pays !
 
--*who_monsieurdubreuilfils
-Comment ?
-
--*who_lapierre
-Monsieur, il me dit le, quoi, quand, l'heure ; je ne sais pas si c'est allemand ou français.
-
--*who_monsieurtrotberg
 Vous voyez bien qu'il dit lui-même.
 
--*who_monsieurdubreuilfils
-Je n'entends pas non plus.
-Mais si vous voulez quelque chose, dites-moi, et vous l'aurez.
-
--*who_monsieurtrotberg
 Eh bien, je veux le.
 
--*who_monsieurdubreuilfils
-Le quoi ?
-
--*who_monsieurtrotberg
 Eh, il dit aussi lui Lapierre, quoi, pour lois que je dis, le.
 
--*who_monsieurdubreuilfils
-C'est singulier cela.
-Dites-moi en allemand ce que vous voulez.
+Non, j'ai juré de parler toujours Français dans cette pays. Et Monsieur votre père il m'a dit de dire, le.
 
--*who_monsieurtrotberg
-Non, j'ai juré de parler toujours Français dans cette pays.
-Et Monsieur votre père il m'a dit de dire, le.
-
--*who_monsieurdubreuilfils
-Le quoi ?
-
--*who_monsieurtrotberg
 Non, ce n'est pas quoi, c'est le.
 
--*who_monsieurdubreuilfils
-Lapierre, dis à mon père que je le prie de monter.
-
--*who_monsieurtrotberg
 Monsieur votre père, il est quand et l'heure, à ce qu'il dit.
 
--*who_monsieurdubreuilfils
-Quand et l'heure ?
-
--*who_lapierre
-Oui.
-Je ne sais pas ce qu'il veut dire.
-
--*who_monsieurtrotberg
 Ni moi non plus, je croyais savoir mieux le Français, il m'a pourtant dit de dire comme cela, Monsieur Dubreuil.
 
--*who_monsieurdubreuilfils
-Le voilà, nous allons savoir ce que cela veut dire.
-
--*who_monsieurtrotberg
 Vous verrez que j'ai dit raisonnablement.
 
-**** *book_ *id_I10 *act_I *date_1780
-
--*who_monsieurdubreuilpere
-Monsieur, je vous demande bien pardon ; mais j'ai été obligé de sortir...
-
--*who_monsieurtrotberg
 Oui, je sais quand, vous voyez bien.
 
--*who_monsieurdubreuilpere
-Oui, mais ne vous a-t-il rien manqué ?
+Et cependant, Monsieur, vous m'avez dit de dire le, et je demande le, il veut me donner quoi. Et puis je voulais parler à vous, il m'a dit quand, et l'heure ; c'est un tiable d'homme, qui me serait être un fou, cette Lapierre.
 
--*who_monsieurdubreuilfils
-Voilà l'embarras, Monsieur Trotberg a demandé tout plein de choses, que Lapierre n'a pu lui donner.
-
--*who_monsieurdubreuilpere
-Parce que je n'ai pu rien comprendre.
-
--*who_monsieurdubreuilfils
-Ni moi non plus.
-
--*who_monsieurtrotberg
-Et cependant, Monsieur, vous m'avez dit de dire le, et je demande le, il veut me donner quoi.
-Et puis je voulais parler à vous, il m'a dit quand, et l'heure ; c'est un tiable d'homme, qui me serait être un fou, cette Lapierre.
-
--*who_monsieurdubreuilpere
-Je suis aussi embarrassé que vous.
-
--*who_monsieurtrotberg
 Mais, Monsieur, je puis bien vous dire ; j'ai écrit ici.
 Ne m'avez-vous pas dit si vous voulez envoyer quelque part, dites, où.
 
--*who_monsieurdubreuilpere
-Oui.
-
--*who_monsieurtrotberg
 J'ai dit où, aussi, il ne voulait pas entendre ; mais après il a envoyé.
 
--*who_monsieurdubreuilpere
-Lapierre, as-tu envoyé ?
-
--*who_lapierre
-Oui, Monsieur, c'était une lettre, et l'adresse était dessus.
-
--*who_monsieurdubreuilpere
-C'est bon.
-
--*who_monsieurtrotberg
 Oui, mais j'ai eu un grand peine.
 
--*who_lapierre
-Il disait toujours, où, où, où.
-Je ne savais pas ce qu'il voulait dire.
-
--*who_monsieurtrotberg
 Mais j'ai dit bien, n'est-ce pas Monsieur Dubreuil ?
 
--*who_monsieurdubreuilpere
-Je crois que oui.
+Après j'ai veux boire, je dis le, il veut me donner quoi. Moi, je veux pas quoi je veux le.
 
--*who_monsieurtrotberg
-Après j'ai veux boire, je dis le, il veut me donner quoi.
-Moi, je veux pas quoi je veux le.
+Oui. Je puis pas expliquer, je demander à parler à vous, il dit que vous êtes quand et l'heure. Je puis pas entendre.
 
--*who_monsieurdubreuilpere
-Le ?
-
--*who_monsieurtrotberg
-Oui.
-Je puis pas expliquer, je demander à parler à vous, il dit que vous êtes quand et l'heure.
-Je puis pas entendre.
-
--*who_monsieurdubreuilpere
-Ma foi ni moi non plus.
-
--*who_monsieurtrotberg
 J'ai pourtant dit comme vous m'aviez dit de dire.
 
--*who_monsieurdubreuilpere
-Moi ?
-
--*who_monsieurdubreuilfils
-C'est-il vrai, mon père ?
-
--*who_monsieurdubreuilpere
-Je n'ai pas dit cela.
-
--*who_monsieurtrotberg
 Vous n'avez pas dit, Monsieur, j'ai pourtant écrit sur mon tablette.
 
--*who_monsieurdubreuilfils
-Eh bien, lisez-nous ce qu'il y a.
+Quand vous voulez envoyer quelque part, dites où. J'ai dit où.
 
--*who_monsieurtrotberg
-Quand vous voulez envoyer quelque part, dites où.
-J'ai dit où.
+Où il faut aller ? Ah tiable, je savais pas. Je écrirai après. Je lis encore. Si vous voulez boire, dites-le. Je dis le, il dit quoi, je veux pas quoi moi, je veux le.
 
--*who_monsieurdubreuilpere
-Où ; mais il faut dire où il faut aller.
+Ah, je comprends. Après j'ai écrit, si vous voulez manger, dites quoi.
 
--*who_monsieurtrotberg
-Où il faut aller ?
-Ah tiable, je savais pas.
-Je écrirai après.
-Je lis encore.
-Si vous voulez boire, dites-le.
-Je dis le, il dit quoi, je veux pas quoi moi, je veux le.
-
--*who_monsieurdubreuilpere
-Cela veut dire, si vous voulez boire, dites-le, dites que vous voulez boire.
-
--*who_monsieurtrotberg
-Ah, je comprends.
-Après j'ai écrit, si vous voulez manger, dites quoi.
-
--*who_monsieurdubreuilpere
-Quoi, c'est ce que vous voulez manger.
-
--*who_monsieurtrotberg
 C'est cela sûrement.
 
--*who_monsieurdubreuilfils
-Sans doute.
-
--*who_monsieurtrotberg
 Je pensais pas.
 Si vous voulez sortir, dites quand.
 
--*who_monsieurdubreuilpere
-Quand vous voudrez sortir.
-
--*who_monsieurtrotberg
-Ah, je croyais que quand, vouloir dire sortir, je entend présentement.
-Et puis...
+Ah, je croyais que quand, vouloir dire sortir, je entend présentement. Et puis...
 Si vous voulez vous coucher, dites l'heure.
 
--*who_monsieurdubreuilfils
-C'est l'heure que vous voulez vous coucher.
+Coucher, ou vous lever ; voilà pourquoi je comprenais pas. C'est mon faute de n'être pas plus savant du langue français.
 
--*who_monsieurtrotberg
-Coucher, ou vous lever ; voilà pourquoi je comprenais pas.
-C'est mon faute de n'être pas plus savant du langue français.
-
--*who_monsieurdubreuilpere
-Ce n'est rien que cela.
-
--*who_monsieurtrotberg
 Ah, je demande pardon, je dirai le chose dont je veux à présent.
 
--*who_monsieurdubreuilpere
-Venez, venez souper, vous devez en avoir besoin.
-
--*who_monsieurtrotberg
 Je ferai avec plaisir, je suis embarrassé avec vous de mon colère.
 
--*who_monsieurdubreuilfils
+Je marche avec vous, Messieurs.
+
+
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdubreuilfils
+
+Ah, Monsieur Trotberg, je suis charmé de vous voir à Paris.
+
+Je comptais que vous n'arriveriez que demain, je vous demande bien pardon de n'avoir pas été ici à votre arrivée.
+
+Cette Pierre ?
+
+Pardonnez-moi.
+
+Comment ?
+
+Je n'entends pas non plus. Mais si vous voulez quelque chose, dites-moi, et vous l'aurez.
+
+Le quoi ?
+
+C'est singulier cela. Dites-moi en allemand ce que vous voulez.
+
+Le quoi ?
+
+Lapierre, dis à mon père que je le prie de monter.
+
+Quand et l'heure ?
+
+Le voilà, nous allons savoir ce que cela veut dire.
+
+Voilà l'embarras, Monsieur Trotberg a demandé tout plein de choses, que Lapierre n'a pu lui donner.
+
+Ni moi non plus.
+
+C'est-il vrai, mon père ?
+
+Eh bien, lisez-nous ce qu'il y a.
+
+Sans doute.
+
+C'est l'heure que vous voulez vous coucher.
+
 En buvant tout cela se passera.
 
--*who_monsieurdubreuilpere
-Allons, allons, venez.
 
--*who_monsieurtrotberg
-Je marche avec vous, Messieurs.
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
+
+Monsieur, il y a un Monsieur dans votre cabinet qui vous attend.
+
+Oui, Monsieur.
+
+Oui, oui, Monsieur.
+
+Monsieur.
+
+Me voilà, Monsieur.
+
+Laisse ?
+
+Lesse ? Je ne sais pas, Monsieur.
+
+Lesse ? Ah, Monsieur, c'est à votre chapeau.
+
+Oui, Monsieur, je vais vous montrer.
+Tenez voilà ce que c'est qu'une lesse.
+
+Oui, Monsieur.
+
+C'est pourtant cela.
+
+Monsieur.
+
+Qu'est-ce que vous voulez, Monsieur ?
+
+Où ? Qu'est-ce qu'il faut faire ?
+
+Où ; mais je n'entends point l'Allemand.
+
+Non, Monsieur, où ne veut rien dire.
+
+Pour envoyer, on ne dit point, où, on dit allez là.
+
+Oui, Monsieur.
+
+Là, c'est sur la lettre.
+
+Eh bien, oui.
+
+L'adresse est là-dessus, dessus la lettre.
+
+Je vais l'envoyer par quelqu'un ; parce que je ne dois pas vous quitter.
+
+Monsieur, qu'est-ce que vous voulez ? Votre lettre est partie.
+
+Le ?
+
+Le quoi ?
+
+Le ? Je ne sais pas ce que vous voulez dire, dites quoi.
+
+Je ne peux pas vous deviner.
+
+Le quoi.
+
+Je ne vous entends pas, Monsieur.
+
+Le quoi ?
+
+Je ne puis vous donner que ce que vous de dites.
+
+Il vient de sortir.
+
+Quand ? Tout à l'heure.
+
+Je ne dis pas qu'il est couché, je dis qu'il vient de sortir.
+
+Quand ? Je vous dis tout à l'heure.
+
+Mais je ne dis pas qu'il est couché non plus.
+
+Je dis qu'il vient de sortir.
+
+Tout à l'heure.
+
+Tenez, j'entends Monsieur Dubreuil le fils, il sait l'allemand, il vous entendra.
+
+Oui, c'est moi, Lapierre ; qu'il veut dire;
+
+Monsieur, il me dit le, quoi, quand, l'heure ; je ne sais pas si c'est allemand ou français.
+
+Oui. Je ne sais pas ce qu'il veut dire.
+
+Oui, Monsieur, c'était une lettre, et l'adresse était dessus.
+
+Il disait toujours, où, où, où. Je ne savais pas ce qu'il voulait dire.
+

@@ -1,78 +1,7 @@
 
 
-**** *book_ *id_epitre *date_1638 *creator_monleon
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_atree
 
-EPISTRE A TRES-HAUT ET TRES PUISSANT PRINCE MONSEIGNEUR LOUIS DE VALOIS, COMTE D'ALLEZ, Chevalier des Ordres du Roy, Colonel, General de la Cavallerie légère de France, Gouverneur & Lieutenant General pour sa Majesté de ses Pays & Armées de Provence.
-
-MONSEIGNEUR,
-
-Apres l'estime que vous avez faite de cet ouvrage, je me persuade que je puis sans crainte l'exposer aux yeux du public, & que vous ne treuverez⁎ pas estrange⁎ la hardiesse que je prens de vous le dédier : Comme j'oze espérer que vous daignerez le recevoir, j'ay la vanité de croire que chacun l'estimera : & l'approbation que vous luy avez donnée me fait attendre celle de tout le monde.
-
-Ceux qui par de favorables violences l'ont arraché de mon cabinet pour en mieux voir la conduite par sa représentation, bien qu'ils m'ayent exposé parmy les orages furieux de l'envie & de l'ignorance, sçachant dans quel port je suis en seureté, & ce que j'ay gaigné auprès de vous, seront ravis de m'avoir fait hazarder⁎ si peu, pour acquérir de si grands trésors.
-Et certes en quelque degré éminent que la nature ayt eslevés les Princes, & quelques grands qu'ils se soient faits par eux-mesmes, comme il est asseuré que les affections des Rois, bien qu'elles n'augmentent ny leur vertu ny leur mérite, adjoustent de grands ornemens à leur gloire, & la font esclater⁎ avec beaucoup plus d'advantage.
-Il est aussi très véritable, que quelques excellens que soient les ouvrages du reste des hommes, que l'estime de ces Princes fait leur plus bel esclat⁎ ; & leur support, un puissant bouclier pour les mettre à couvert des trais⁎ de la médisance, & de la jalousie : Et quiconque se peut vanter comme moy de posséder ces faveurs, comme il n'a rien plus à craindre, il n'a rien plus à souhaiter.
-
-Ce n'est pas (MONSEIGNEVR) que j'eusse eu la témérité de croire que ce bien me pût arriver, ou que mon imagination se fust jamais flatee d'une prétention si haute, si vostre propre bouche ne m'eust asseuré que quelques petits & inutiles que soient mes devoirs &. mes services, ils vous seraient toutesfois agréables, & que je ne vous offencerois point en vous offrant une chose que vous avez estimée digne du jour : J'ay obey à cette voix, & je vous l'offre avec ma vie ; c'est peu pour un Prince : mais c'est tout ce que vous peut offrir,
-
-MONSEIGNEUR,
-
-Vostre tres-humble & tres-
-
-obeïssant serviteur,
-
-DE MONLEON.
-
-**** *book_ *id_au-lecteur *date_1638 *creator_monleon
-
-AU LECTEUR.
-
-Si je t'avois donné cette Tragédie de la façon que Carcinome, ou Seneque l'ont traittee, peut-estre (Lecteur) y aurois-tu trouvé plus d'agreemens, & peut-estre aussi l'aurois tu estimée trop nue pour le Théâtre d'aujourd'huy.
-Les Grecs & les Latins ont fait à la Grecque, & à la Romaine, ce que je fais à la Françoise, & comme les esprits de ce temps embrassent davantage, il a fallu aussi dequoy davantage les contenter : J'ay tasché à le faire, non pas sans beaucoup de peine & de sueur, par l'entreprise d'un ouvrage ou plusieurs se sont lassez, et le peu de matière, et l'horreur du sujet ayant arresté leur plume ; m'ont fait prendre la mienne à dessein de rendre supportable aux yeux, & aux cœurs des moins cruels de la Nature, ce que la Nature mesme abhorre, & ce qu'on n'auroit jamais peu croire s'il n'estoit arrivé dans la race de Tantale.
-
-On m'a voulu persuader que cet effort avoit favorablement réussi : Mais quand je considère mes forces, et le grand personnage qu'il m'a fallu soustenir, soit dans la disposition de l'Histoire, dans les pensées, ou dans les raisonnemens, une frayeur me saisit ; je rends les armes premier que⁎ de combatre ; & si l'on tient pour fabuleux ce qu'Homère assure de ces Dieux qui combatoient pour les hommes, je n'ay pas dequoy soustenir leur opinion, & ma vanité ne m'aveugle pas jusques au poinct de les croire.
-
-Quoy qu'il en soit, (Lecteur) & quelque jugement que tu en fasses, apprens que la disposition du sujet est absolument mienne, et que j'ay eslevé sur le fondement de l'histoire & de l'antiquité un ouvrage à la moderne.
-Les enrichissemens que j'ay rencontrez parmy leurs matériaux en font l'embellissement ; et bien que je me sois rendu plus prodigue qu'eux à m'estendre, pour contenter les esprits de ce siècle, je n'ay pas toutefois voulu sortir de leurs estroites règles qui me semblent si judicieuses, & si parfaites, que sans elles, (quoy qu'au jugement de plusieurs, il s'en rencontre tous les jours) j'ay de la peine à croire qu'aucun Poëme puisse estre agréable.
-Regarde donc si j'auray péché contre mon dessein ; monstre moy charitablement mes deffauts, alors tu recognoistras par mes actions de grâce, & de combien je te seray obligé, & combien me sera douce cette correction.
-Je laisse dans leurs foiblesses, et leur bigearreries⁎ ceux qui s'estiment parfaicts, leurs cerveaux ont besoin d'hellébore, et tels esprits sont plus dignes de blasme que de louange : quand on présume moins de soy, on mérite davantage, & par la seule humilité nous nous eslevons au trosne de la gloire.
-
-Parle donc hardiment, je suis exempt de cette erreur, & de ce crime, & pour t'en asseurer, je sçay que je suis homme.
-
-**** *book_ *id_body-3 *date_1638 *creator_monleon
-
-Extraict du Privilège du Roy.
-
-Par grâce et privilège du Roy, il est permis à Pierre Guillemot Marchand Libraire à Paris, d'imprimer, ou faire imprimer un livre intitulé Le Thyeste, Tragédie, compose par le Sieur de Monleon : Et deffenses sont faites à tous Libraires & Imprimeurs d'imprimer, ou faire imprimer, vendre ny distribuer aucun desdits Livres, sans sa permission, ou de ceux qui auront droict de lui, & ce pendant le temps & espace de huit ans, à compter du jour que ledit Livre sera parachevé d'imprimer pour la première fois, à peine aux contrevenans, de trois mil livres d'amende, confiscation des exemplaires qui se trouveront contrefaits & de tous despens ; dommages & intérests, ainsi qu'il est contenu plus au long ausdites Lettres de Privilège.
-Donné à Paris le sixiesme d'Aoust mil six cent trente-huict.
-Par le Roy en son conseil, Signé
-
-CONRART.
-
-Achevé d'imprimer le 9.
-Aoust 1638,
-
-**** *book_ *id_body-4 *date_1638 *creator_monleon
-
-Quelques fautes reconnues depuis l'Errata.
-
-Page 81. il y a changer, il faut charger.
-Page 88.
-Scène 2.
-Criton sans voir Atree s'est estonné, il faut mettre est.
-
-**** *book_ *id_body-5 *date_1638 *creator_monleon
-
-ERRATA
-
-Lecteur, je te laisse des fautes que je n'ai point reconnues, et qui sont miennes, tu les corrigeras, s'il te plaist : pour celles de l'imprimeur, elles sont les moindres, tu suppléeras en lisant quelques syllabes qu'il a obmises, et changeras plusieurs lettres qui font une autre prononciation.
-A la page 6, vers 6 il y a fefons pour fesons.
-Page 46, vers 1 noyoit dans, il faut dedans.
-Page 48. il y a deux fois ces, dans la page 93.
-A la marge, après trois ou quatre verres, il faut adjouster il se lesve : ainsi plusieurs autres de cette qualité, ausquelles on peut suppléer, & ce qui me semblent de peu d'importance.
-
-**** *book_ *id_I01 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Qu'on estouffe⁎ à mes yeux ces objets⁎ de ma rage :
 Je veus manquer de foy⁎ plustot que de courage.
 Un daemon⁎ de colère enflâme tous mes sens⁎ :
@@ -96,55 +25,24 @@ Il eust plus de furie⁎, & j'ay plus de mal-heur.
 Et souffrant⁎ plus qu'eus tous de honte & de disgrâce⁎,
 Je ne suis point vengé si je ne les surpasse.
 
-**** *book_ *id_I02 *act_ *date_1638 *creator_monleon
-
--*who_criton
-Quel trouble furieux⁎ agite un si grand Roy ?
-
--*who_atree
 Tu le sçauras, Criton, approche, approche-toy
 Fidèle⁎ confident de toutes mes pensées ;
 J'ay treuvé⁎ des tourmens⁎ pour les fautes passées,
 Qui vengeront l'inceste⁎, & le tort qu'on m'a fait,
 Thyeste de sa main punira son forfait.
 
--*who_criton
-Craignez qu'un bruit fascheus⁎ volant par la province.
-Ne trouble le respect que l'on doit à son Prince.
-
--*who_atree
 Les Rois enfans des Dieus peuvent tout icy bas :
 Leurs plaisirs sont des Loys, & l'on n'oseroit pas
 Parler de leurs desseins, ny condamner leurs crimes,
 Toutes leurs actions passent pour légitimes.
 
--*who_criton
-A suivre absolument ce qu'ils ont projette
-Ils forcent bien les corps, mais non la volonté.
-Autant que sa fureur fait un Roy redoutable,
-Autant sa courtoisie à tous le rend aimable.
-Ses noires actions font naistre son mespris,
-Et sa seule douceur luy gaigne⁎ les espris.
-
--*who_atree
 Il doit bon-gré, mal-gré, prendre ce qu'on luy nie⁎.
 
--*who_criton
-Un règne est mal fondé dessus⁎ la tirannie,
-Et ce grand bastiment tombe bien-tost à bas,
-Quand l'honneur & la foy⁎ ne le soustiennent pas.
-
--*who_atree
 Qu'ils sortent d'avec moy, qu'un Royaume périsse,
 Pourveu qu'on n'oste point Thyeste à ma justice ;
 La rage a dans mon cœur allumé ce dessein,
 Je veux l'exécuter.
 
--*who_criton
-      Dieus qu'il est inhumain
-Contre un frère.
-
--*who_atree
       A-t-il craint d'attenter à ma vie
 De voiler la toison, & portant son envie
 Au delà des transpors⁎ d'un appétit brutal⁎,
@@ -152,61 +50,29 @@ De commettre un inceste⁎ en mon lict nuptial ?
 Il faut, il faut, Criton, avoir plus d'asseurance,
 Et moins de pieté⁎ pour venger ceste offence⁎.
 
--*who_criton
-Grand Roy je suis à vous, disposez de mon bras,
-
--*who_atree
 Le perdrons-nous d'un coup⁎ ? non, il ne le faut pas,
 Songeons à des tourmens⁎.
 
--*who_criton
-      La mort est plus certaine.
-
--*who_atree
 Tu me parles Criton, de la fin de sa peine⁎ ;
 Je la veus commencer, & qu'un estrange⁎ sort
 Apres mille langueurs le conduise à la mort.
 
--*who_criton
-Auriez-vous jusques-là le cœur impitoyable ? 
-
--*who_atree
 A quel pris que ce soit je le rends miserable⁎,
 Ma colère l'ordonne à mes ressentimens⁎.
 
--*who_criton
-Mais à quoy pensez-vous ?
-
--*who_atree
       A des contentemens
 Que déjà mon esprit dévore en son attente,
 Mon cœur en sa fureur treuve⁎ qui le contente,
 Il peut tout entreprendre, & tout crime est permis,
 Pour punir clignement celuy qui l'a commis.
 
--*who_criton
-Voulez-vous par le fer⁎ en tirer la vengeance ?
-
--*who_atree
 Ce supplice est trop dous pour punir son offence.
 
--*who_criton
-Le feu⁎ suffira-t-il ?
-
--*who_atree
       Il est trop criminel,
 Il en faut un plus lent, & qui soit plus cruel.
 
--*who_criton
-Où le trouverez-vous ?
-
--*who_atree
       Dans le mesme Thyeste.
 
--*who_criton
-Quel est donc ce tourment⁎ si grand & si funeste⁎ ? 
-
--*who_atree
 Celuy qu'un seul Atree a pu s'imaginer.
 Et que tous les daemons⁎ ne sçauroient deviner.
 Mais d'où vient que mes yeux sont couverts d'un nuage
@@ -219,10 +85,6 @@ Les Dieus mesme sçachant ce projet furieux⁎,
 De crainte de le voir ont detorné les yeus.
 Je le veus, il me plaist, puis qu'il est si terrible.
 
--*who_criton
-A vous oùir parler il faut qu'il soit horrible ?
-
--*who_atree
 Je ne sçay toutefois, il me remplit d'effroy,
 Et je pense en ceci qu'il est digne de moy.
 Accomplissons-le donc, & dedans cet ouvrage
@@ -236,20 +98,12 @@ Que son sein⁎ criminel leur serve de tombeau,
 Que la mère estoufant ce qu'elle a mis au monde,
 Monstre que ma fureur n'a rien qui la seconde.
 
--*who_criton
-Vous en voulez beaucoup : mais comment l'atrapper ?
-
--*who_atree
 Par les mesmes moyens dont il nous veut tromper :
 Ce traistre plein de fourbe⁎ en ces lieus s'achemine,
 Et prétend⁎ de treuver⁎ sa gloire en ma ruine⁎ :
 L'esclat⁎ de ma grandeur esbloùit ses espris,
 Et par ces faus appas nous l'avons comme pris.
 
--*who_criton
-Thyeste contre vous a trop de deffiance.
-
--*who_atree
 Un perfide est tousjours de légère croyance.
 Outre que dés long temps⁎ Merope entre mes mains
 Procure son retour sans sçavoir mes desseins :
@@ -264,10 +118,6 @@ Elle appelle Thyeste, & ses effors puissans
 Ont tellement réduit cette ame criminelle,
 Qu'elle vient sans contrainte où son malheur l'appelle.
 
--*who_criton
-Peut-estre que la Reyne abuse vostre esprit.
-
--*who_atree
 Reconnoy cette Lettre, & voy dans cet escrit
 Ce qu'il nous a promis.
 LETTRE DE THYESTE A ATREE.
@@ -299,10 +149,6 @@ Et m'accordant cette prière,
 Ils me précéderont, & je suivray leurs pas.
 THYESTE.
 
--*who_criton
-      Je plains son infortune⁎.
-
--*who_atree
 Je la veus faire esgalle, & la rendre commune.
 La mère & les enfans sentiront aujourd'huy
 Que Thyeste les rend coulpables comme luy.
@@ -311,24 +157,13 @@ Commençons ce beau coup⁎, & que leur confidente
 Que je tiens dés long temps⁎ à ma dévotion
 Nous ouvre le chemin de leur punition.
 
--*who_criton
-La fera-t-on mourir ?
-
--*who_atree
       Il faut que son courage
 Contente mon désir, & commence l'ouvrage.
 
--*who_criton
-Elle les aime trop. 
-
--*who_atree
       Elle s'aime bien mieus,
 Et n'irritera par mon esprit furieus⁎ ;
 Va la voir seulement, & soudain me l'ameine.
 
-**** *book_ *id_I03 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Toutesfois ce dessein me donne de la peine⁎ :
 Quelque fascheus⁎ daemon⁎ qui pousse ma fureur,
 La pitié me fait voir ce crime plein d'horreur,
@@ -353,29 +188,14 @@ Ce que feroit un dieu s'il estoit à ta place ;
 Establis⁎ désormais ta vie & ton repos⁎ :
 Mais que ces deus amys arrivent à propos.
 
-**** *book_ *id_I04 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Apres tant de bien-faits, si tu m'es infidelle⁎
 Est-il pour te punir de mort assez cruelle ;
 Et si dans le besoin⁎ tu me manques de foy⁎,
 Melinthe, qu'attens-tu de la fureur du Roy ?
 
--*who_melinthe
-Tous les maus où me peut condamner sa justice,
-Et tout ce qu'a l'enfer d'horreur & de supplice.
-
--*who_atree
 Ce courage⁎ me plaist en ce commencement :
 Mais garde de changer à mon commandement.
 
--*who_melinthe
-Grand Prince, si ma vie asseure⁎ la couronne,
-Vous me l'avez donnée ; & je vous la redonne ;
-Melinthe treuvera⁎ son supplice fort dous,
-Et ne peut mieus mourir, que de mourir pour vous.
-
--*who_atree
 Conserve-toy Melinthe, & conserve ma vie,
 Termine les malheurs dont elle est poursuivie,
 Et par un rare effect de ta fidélité⁎
@@ -389,11 +209,6 @@ Avalle le poison que ma main luy présente ;
 S'asseure⁎ en mes discours⁎, & son ambition
 Par un espoir flatteur⁎ trompe sa passion.
 
--*who_melinthe
-Ses pleurs &. ses soupirs ont de vostre colère
-Estaint tous les flambeaus.
-
--*who_atree
       Ah croyance légère !
 Crois-tu qu'après avoir d'un projet monstrueus
 Fait d'un throsne Royal un lict incestueus,
@@ -408,10 +223,6 @@ Vengeances, cruautez, faites vostre devoir.
 Escoute-moy Melinthe, & commençons l'ouvrage :
 Mais tu trembles, chetive⁎, & tu pers le courage.
 
--*who_melinthe
-J'appréhende, Grand Roy, ce funeste⁎ dessein,
-
--*who_atree
 Mon cœur pour t'asseurer passera dans ton sein⁎ :
 Tu sçais bien que pour toy mon amour est extrême,
 Qu'il m'a déjà rendu plus à toy qu'à moy-mesme.
@@ -422,44 +233,21 @@ Ta haine ou ton amour se fera reconnoistre⁎ ;
 L'un te donne mon lict, & l'autre le tombeau ;
 Choùesis celuy des deus qui te semble plus beau.
 
--*who_melinthe
-La mort pour vous servir me seroit glorieuse
-Mais ô vous qui portez une ame généreuse⁎,
-Domptez ces passions qui domptent vostre cœur ;
-Faites les actions⁎ d'un Prince & d'un vainqueur.
-
--*who_atree
 Melinthe, c'est en vain que ton discours⁎ me flatte⁎.
 Je suis dedans un point qu'il faut que tout esclatte⁎ ;
 Un mal si furieus⁎ ne veut point d'appareil⁎,
 J'ay besoin de la main, & non pas de conseil.
 
--*who_melinthe
-Que peut pour vous, grand Prince, une main imbecille⁎.
-
--*who_atree
 Elle peut commencer un ouvrage facile ;
 Resous-toy seulement à complaire à mes veus :
 Escoute.
 
--*who_melinthe
-      O Justes Dieus !
-
--*who_atree
       Il le faut, je le veus !
 
--*who_melinthe
-Que cette cruauté me semble détestable.
-
--*who_atree
 Je voudrais qu'elle fust encor plus effroyable,
 Elle me plairait plus, & mon cœur en effet
 Se treuveroit⁎ vengé : mais non pas satisfait⁎.
 
--*who_melinthe
-Grand Roy !
-
--*who_atree
       Tous vos discours⁎ m'importunent, Melinthe,
 Que je n'entende plus de raison ny de plainte⁎ :
 Vous contestez en vain ; il est délibéré :
@@ -473,250 +261,6 @@ Et vous seule debvez en mériter la gloire.
 Doncques résolvez-vous à perdre ouvertement
 Ce qui perd vostre gloire & mon contentement.
 
-**** *book_ *id_I05 *act_ *date_1638 *creator_monleon
-
--*who_melinthe
-Dieus quel commandement, quel barbare⁎ courage !
-Pour esteindre le feu⁎ de son ardente rage,
-Doibs-je souiller mes mains d'un horrible trespas,
-Perdre des innocens, non je ne le dois pas ?
-Et de quelque grandeur dont on flatte⁎ mon ame,
-Je ne sçaurois tremper dedans ce crime infâme,
-Il est trop odieus. Toutesfois que dis-tu,
-En quelle extrémité te porte ta vertu⁎ :
-Tu les veus guarantir⁎ de ce mal-heur extrême ;
-Et tu ne le sçaurois sans te perdre toy-mesme :
-Tu crains que sa fureur ne les fasse mourir,
-Et crains de te sauver en les faisant périr.
-En cet estât fascheus⁎ où tout m'est si contraire,
-Honneur, ambition, crainte, que dois-je faire,
-Ma perte, ou vostre mort doit contenter le Roy :
-J'ay du zèle pour vous, mais de l'amour pour moy.
-Il est vray que l'horreur de ce coup⁎ m'espouvente
-Mais aussi mon trespas à mes yeux se présente
-Horrible, espouventable, & tel que mes espris
-De crainte & de frayeur entièrement surpris
-Pour esviter l'abord⁎ de ce monstre effroyable,
-Consentent aus effets⁎ d'un acte abominable,
-Mourez Princes, mourez, un interest plus fort
-Pour conserver ma vie ordonne vostre mort.
-Mais j'apperçoy, Criton, qui vient pour me surprendre,
-Contre un si noir dessein, feignons de nous deffendre :
-Et que forcée en fin, mais avec de l'effroy,
-On entreprend ce coup⁎ pour contenter le Roy
-
-**** *book_ *id_I06 *act_ *date_1638 *creator_monleon
-
--*who_melinthe
-Le voila près de nous.
-
--*who_criton
-      En fin belle Melinthe,
-Vostre esprit genereus⁎ aura chassé la crainte
-Qui jettoit dans vos sens cette vaine terreur :
-Ces fruis vous feront-ils encore de l'horreur ?
-C'est par eus que se doibt establir⁎ vostre gloire,
-Et par eus vous vaincrés.
-
--*who_melinthe
-      Dangereuse victoire ?
-
--*who_criton
-Le Sceptre vous attend.
-
--*who_melinthe
-      Et par le mesme sort
-Que je l'auray fait mien, je mérite la mort.
-
--*who_criton
-Vous vous perdez, Melinthe, & refusant Atree,
-La mort que vous craignez vous est fort asseuree.
-
--*who_melinthe
-Refusant à ce Roy de suivre ses transpors⁎,
-Je change seulement en une mille morts.
-
--*who_criton
-Ces fruis empoisonnés pouvant d'un coup⁎ esteindre
-Merope, & ses enfans, qu'avés-vous plus à craindre.
-
--*who_melinthe
-Outre le desplaisir⁎ d'un remors éternel,
-Un supplice qui suit par tout le criminel.
-
--*who_criton
-Dans le trosne d'un Roy vous estes asseuree. 
-
--*who_melinthe
-C'est là que ma douleur sera démesurée,
-Où personne n'osant m'attaquer en effet ;
-J'ay l'infortune⁎ à craindre, & ce que j'auray fait.
-
--*who_criton
-Une vaine terreur se glisse dans vostre ame.
-
--*who_melinthe
-Dittes plustost l'horreur d'un homicide infame.
-
--*who_criton
-On doit suivre en tous points la volonté des Roys,
-Ce qui leur plaist est juste.
-
--*who_melinthe
-      Inévitables loys.
-
--*who_criton
-Faites donc une fois ce qu'elles vous commandent.
-
--*who_melinthe
-Grand Roy, pardonnés-moy si mes sens⁎ appréhendent
-A porter cette mort, elle a de la terreur,
-Et mon esprit craintif redoutte sa fureur :
-Donne-moy ce présent.
-
--*who_criton
-      Courage⁎ magnanime,
-Immolés, immolés cette douce victime
-Qui nous doibt apporter la victoire & la pais
-Mais en impatience il est dans le Palais,
-Qui veut sçavoir de vous sans aucune remise,
-Si vous accepterez cette belle entreprise.
-
--*who_melinthe
-Je m'en vay le treuver⁎.
-
--*who_criton
-      Vous ferez sagement ;
-Ce Prince n'attend plus que ce contentement :
-Accordez sans contrainte à son ame agitée,
-Ce qu'elle veut de vous pour estre contentée.
-
-**** *book_ *id_I07 *act_ *date_1638 *creator_monleon
-
--*who_criton
-Si la gloire des Roys a quelque dous appas,
-Leur vie a des rigueurs que l'on ne connoist pas,
-Leur grandeur est un roc que la nature mine.
-Leur sceptre est de roseau, leur coronne est d'espine :
-Leurs coeurs sont traversés d'incroyables ennuis⁎.
-S'ils ont quelques beaus jours, ils souffrent⁎ mille nuis :
-Les soubçons, les terreurs, les vengeances, les rages,
-Sans cesse font en eus de furieus⁎ orages.
-Heureus de qui l'esprit vit sans ambition :
-Il est Roy véritable, & sa condition⁎
-Hors de tous les mal-heurs d'une vie importune,
-Surpasse des grands Roys la gloire & la fortune⁎.
-
-**** *book_ *id_I08 *act_ *date_1638 *creator_monleon 
-
--*who_lycostene
-Que j'arrive à propos en ces lieus désirés,
-Criton.
-
--*who_criton
-      Cher Lycostene.
-
--*who_lycostene
-      En fin presque expirés
-Dans un exil fascheus⁎, sous le fais⁎ des miseres,
-Nous sommes de retour au séjour de nos pères.
-Fassent les dieus puissans que nos maus terminés,
-Nous vivions désormais un peu plus fortunés⁎.
-
--*who_criton
-Fassent les dieus puissans, fidelle⁎ Lycostene,
-Qu'un éternel repos⁎ succède à vostre peine⁎,
-Et qu'après les erreurs⁎ d'un long bannissement,
-Vous treuviez⁎ en ces lieus un plus dous élement.
-
--*who_lycostene
-Les dieus qui l'ont promis pour terminer nos peines⁎,
-Conduiront dedans peu Thyeste dans Mycenes,
-Et je viens de sa part en advertir le Roy. 
-
--*who_criton
-Il est trop genereux⁎ pour manquer à sa foy⁎.
-
--*who_lycostene
-Deus Princes, mais deus dieus qui suivent mon message
-En plaigeant⁎ ma parole, & luy servant d'ostage,
-Tesmoigneront au Roy quels sont ses desplaisirs⁎.
-
--*who_criton
-Justes Dieux, comme tout succède à nos désirs !
-Mais sont-ils esloignez ?
-
--*who_lycostene
-      Theombre les amené,
-Et je les ay laissez au milieu de la plaine.
-
--*who_criton
-Et Thyeste les suit ?
-
--*who_lycostene
-      Il attend mon retour.
-
--*who_criton
-Ah fortuné⁎ succez⁎ ! incomparable jour,
-Allons treuver⁎ mon Prince, on ne peut davantage
-Sans crime luy celer un si plaisant message.
-Fin du premier Acte.
-
-**** *book_ *id_II01 *act_ *date_1638 *creator_monleon
-
--*who_criton
-Amy pardonnez-moy si j'ay trop demeuré.
-
--*who_lycostene
-Un bien⁎ n'est pas perdu pour estre différé.
-
--*who_criton
-Ravy par les transpors⁎ de son amour extrême,
-Ce Prince en m'escoutant presque hors de soy-mesme,
-M'engagea⁎ mille fois dans le mesme propos.
-Et je leus dans ses yeus l'espoir de son repos⁎.
-
--*who_lycostene
-Doncq il est satisfait.
-
--*who_criton
-      Autant qu'on le peut estre
-Et l'excès du plaisir qu'il me faisoit paroistre
-S'imaginant d'avoir ces enfans en depost,
-M'a tenu si long-temps.
-
--*who_lycostene
-      On revient assez tost
-Quand on revient porteur d'une bonne nouvelle.
-
--*who_criton
-Connoissés doncq l'excès d'une Amour⁎ fraternelle,
-Jugés de ses plaisirs par son ravissement,
-Et sçachez que l'objet⁎ de son contentement
-Consiste à caresser⁎ un frère qu'il adore.
-
--*who_lycostene
-Vous la-t-il asseuré ?
-
--*who_criton
-      Luy-mesme veut-encore
-Vous le dire de bouche.
-
--*who_lycostene
-      Incroyable bonté,
-Qui peut assez louer ta générosité⁎,
-Et dire la valeur de ce cœur⁎ qui t'anime.
-O des Roys le plus dous & le plus magnanime !
-
--*who_criton
-Desja pour recevoir le Prince à son retour,
-Il envoyé au devant, il fait parer la cour ;
-Et vous l'auriez icy sans ce soing⁎ qui le presse
-Mais le voila qui sort, voyez son allégresse.
-
-**** *book_ *id_II02 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Bons Dieus, que ton message augmente mes plaisirs,
 Que j'ay d'impatience, & que j'ay de désirs
 De me recompenser de cette longue absence.
@@ -728,41 +272,17 @@ Que j'estime cest heur⁎ le plus dous de ma vie,
 Et qu'il ne craigne rien, sinon qu'entre ses bras
 Un excès de plaisir me donne le trespas.
 
--*who_lycostene
-Monarque genereuse⁎, dont la valeur extrême
-Paroist incomparable à se vaincre soy-mesme :
-Que cette pieté⁎ va mériter d'autels,
-Et que vous estes dous envers des criminels.
-II est vray qu'un regret joinct à leur pénitence
-Mérite aucunement cette juste clémence.
-
--*who_atree
 Je sçay bien que l'exil, la faim & les travaus⁎,
 En ce cœur ont esté les moindres⁎ de ses maus :
 Qu'ils n'ont jamais touché⁎ cet esprit magnanime,
 Et qu'il n'a que souffert par l'horreur de son crime.
 
--*who_lycostene
-Ses regrets & ses maus vous l'ont pu faire voir.
-
--*who_atree
 Ne diffère doncq plus, achevé⁎ ton devoir,
 Soulage ses ennuis⁎, & mon impatience
 Redonne à mes plaisirs son aimable présence.
 
--*who_lycostene
-Comme un mesme destin semble vous approcher⁎ ;
-Atree est aujourd'huy ce qu'il a de plus cher.
-
--*who_atree
 Et Thyeste aujourd'huy tout ce que je désire.
 
--*who_lycostene
-Vous le verres bien-tost.
-
-**** *book_ *id_II03 *act_ *date_1638 *creator_monleon
-
--*who_atree
       Il est temps qu'il expire,
 Son crime dure trop, & son ambition
 Doit rencontrer⁎ sa fin dans sa punition.
@@ -779,25 +299,12 @@ De leurs malheurs passés viennent me rendre compte :
 Melinthe les attend, j'attends ce desloyal,
 Et ce jour à tous deus nous doit estre fatal⁎.
 
--*who_criton
-Je crains.
-
--*who_atree
       Quoy, que crains-tu ?
 
--*who_criton
-      Que Melinthe craintifve
-N'empesche qu'aujourd'huy vostredessein n'arrive.
-
--*who_atree
 Son esprit résolu presqu'autant que le mien,
 Sçait que de là despend ou son mal ou son bien⁎,
 Et l'espoir de mon lit a chatouillé son ame.
 
--*who_criton
-J'ay crainte toustefois, Melinthe est une femme. 
-
--*who_atree
 Ce sexe audacieus en son ambition,
 N'admet point de milieu dedans sa passion.
 Quand elle a de l'amour, son amour la transporte,
@@ -805,13 +312,6 @@ Et la haine qu'elle a la traitte de la sorte.
 Et j'oserois jurer que son cœur⁎ & son bras,
 Par un autre respect ne s'esbranleront pas.
 
--*who_criton
-J'espère dedans peu d'en voir l'expérience.
-Mais ne voyez-vous pas la Reyne qui s'avance.
-
-**** *book_ *id_II04 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Cachons les mouvemens⁎ de nos cœurs agitez,
 Allons la recevoir. Reyne dont les beautez
 Impriment dans les cœurs une amour incroyable,
@@ -819,14 +319,8 @@ Et de qui la vertu⁎ n'est pas moins adorable.
 Le Ciel en fin lassé de vos longues douleurs,
 Pour bannir vos regrets, & finir nos malheurs,
 Et ne se monstrer plus à nos veus si contraire,
-Vous donnant un espous, me redonnent un frère. 
+Vous donnant un espous, me redonnent un frère.
 
--*who_merope
-Vous faites son destin, Monarque genereux⁎,
-Il peut vivre contant, ou vivre malheureus,
-Ordonnez son retour, commandez sa retraitte⁎.
-
--*who_atree
 Que cette obéissance est louable & parfaite :
 Non, je veus embrasser⁎ cet objet⁎ plein d'amour ;
 Qu'il quitte les desers⁎, qu'il revienne à la Cour :
@@ -836,46 +330,21 @@ Il doit vivre en ces lieus plein de gloire & d'honneur.
 …………………………………………………………
 Mais qui s'en vient à nous ?
 
--*who_criton
-      Oronte.
-
--*who_atree
       Son visage,
 De quelque heureux succez⁎ nous porte le présage.
 
-**** *book_ *id_II05 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Approche cher Oronte, & le plus promptement,
-Fais nous sçavoir l'excès de ton contentement. 
+Fais nous sçavoir l'excès de ton contentement.
 
--*who_oronte
-Deux Princes arrivez en toute diligence,
-Vous viennent (ô grand Roy) faire la révérence,
-Et desja leur désir les rend impatiens.
-
--*who_atree
 De quel âge & quel port ?
 
--*who_oronte
-      Le plus vieil de sept ans.
-
--*who_atree
 Beaus.
 
--*who_oronte
-      Comme le Soleil, quand on voudrait encore,
-Adjouster à ses trais les beautez de l'aurore.
-
--*who_atree
 Mère trois fois heureuse, ô Roy trop glorieux,
 Allez Criton allez leur dire qu'en ces lieux,
 Ils nous viennent donner leur aymable présence,
 Et qu'ils sont attendus avec impatience.
 
-**** *book_ *id_II06 *act_ *date_1638 *creator_monleon
-
--*who_atree
 En fin nous les verrons ces enfans desirez,
 Un excès de malheur nous avoit séparez,
 Un excès de bon-heur aujourd'huy nous rassemble,
@@ -885,23 +354,6 @@ La pitié se vient jondre à mes contentemens :
 Et par les dous plaisirs que le Ciel nous envoyé,
 Attire des soupirs & des larmes de joye.
 
--*who_merope
-Que ces ressentimens⁎ & ces traits⁎ amoureus
-Procèdent bien d'un cœur Royal & genereus⁎ ;
-Que par cette action vostre gloire s'augmente.
-Mais ô Roy sans pareil, j'aurois l'ame contente⁎
-Si ces deux innocens que l'on fait appeller,
-Dont le plus raisonnable à peine⁎ sçait parler,
-Ne pouvant exprimer ce que Thyeste endure,
-Pouvoient dessus⁎ leur front en porter la peinture,
-Vous verriez son esprit cruellement pressé⁎
-Par les cuisans remors dont il est traversé,
-Souffrir⁎ mille langueurs, vivre en impatience⁎,
-Faire une mer de pleurs, y laver son offence⁎,
-Et reclamer au nom d'une saincte amitié⁎,
-Avecques son pardon vostre extrême pitié.
-
--*who_atree
 Je sçay que ses regrets sont plus grands qu'on estime⁎,
 Et que ses desplaisirs⁎ ont effacé son crime :
 Son cœur m'est trop connu. Mais trefve à ce discours⁎,
@@ -909,21 +361,6 @@ Un plus heureus succès⁎ en doit rompre le cours.
 Et par mille plaisirs soulager nostre peine⁎ :
 Parlons de ces enfans que le Ciel nous ramené.
 
-**** *book_ *id_II07 *act_ *date_1638 *creator_monleon
-
--*who_merope
-Ne les voyez-vous pas qui s'en viennent à vous ?
-Embrassez⁎ chers enfans, embrassez⁎ les genous
-Du plus juste des Roys, & du plus pitoyable⁎ :
-C'est luy qui veut changer cet estât misérable,
-Où l'exil & le sort vous avoient confinez.
-C'est luy de qui l'Amour rend vos jours fortunez⁎,
-Et qui pour relever désormais vostre gloire,
-Emporte sur luy-mesme une belle victoire ;
-Et vous promet un sort digne de vos ayeus,
-Demandez-luy pardon de la langue ou des yeus.
-
--*who_atree
 Reyne dont la vertu⁎ nous paroist sans exemple ;
 Et plus je vous entends, & plus je vous contemple,
 Plus je me sens⁎ ravir⁎ par vos perfections,
@@ -933,32 +370,11 @@ Embrassez⁎, embrassez mon sceptre & ma coronne ;
 Donnez mille baisers à ces biens préparez,
 Car j'espère par vous qu'ils seront asseurez.
 
--*who_merope
-Ces excez de faveurs qui vous sont ordinaires,
-Sont pour des criminels de trop amples salaires.
-Parlez, parlez enfans.
-
--*who_theandre_lysis
-      Grand Roy, mille pardons !
-Thyeste les implore, & nous les demandons.
-
--*who_atree
 Cette innocente vois vient à blesser mon ame,
 Et je sens⁎ dans le cœur une excessive flame,
 Dont l'ardeur⁎ me consomme⁎ ? Ah gage precieus !
 Que vous rendez Atree aujourd'huy glorieus.
 
--*who_theombre
-Grand Roy, c'est le depost que Thyeste vous donne
-Pour monstrer que jamais contre vostre coronne
-Son cœur n'a projette de sinistres desseins,
-Elle ne peut jamais estre mieus qu'en vos mains ;
-Vous la possédez seul avec un juste tiltre,
-Seul vous estes aussi son légitime arbitre :
-Le désir seulement de vous crier mercy,
-Ameine le coulpable, & le conduit icy.
-
--*who_atree
 Qu'on ne me parle plus de cette repentance,
 En accusant Thyeste, on m'accuse & l'offence,
 Atree a seul fally, mon frère est innocent,
@@ -976,195 +392,6 @@ Caressez⁎ ce présent & gardez moy ce gage,
 Qui de tous mes trésors m'est le plus précieux,
 Prenez mille baisers sur sa bouche & ses yeux.
 
-**** *book_ *id_II08 *act_ *date_1638 *creator_monleon 
-
--*who_merope
-Dans l'excès des plaisirs où je me voy plongée,
-La fortune⁎ à mon gré si promptement changée,
-Et son ame inconstante en tous ses mouvemens,
-Me fait appréhender de soudains changemens.
-Qu'en dittes-vous, Melinthe ?
-
--*who_melinthe
-      Apres de longs supplices,
-Les biens les plus communs nous semblent des délices.
-La misère, l'exil, & tant de maus souffers
-Vous font trouver tout dous au respect de vos fers⁎.
-Mais si vous regardés quel est cet advantage,
-Vous verrez que le Ciel ne fait que le partage
-D'un sceptre qui devoit tomber entre deux mains,
-Et qu'il veut le repos⁎ de deux frères germains⁎.
-
--*who_merope
-Que le Sceptre, Melinthe, est une chose aimable !
-
--*who_melinthe
-Vous le posséderez,
-
--*who_merope
-      Cet estât desplorable⁎
-Sous lequel aujourd'huy le sort nous a soubmis,
-Me deffend d'espérer.
-
--*who_melinthe
-      Le Roy vous l'a promis.
-
--*who_merope
-Il est entre ses mains bien mieus qu'entre les nostres.
-
--*who_melinthe
-Il veut vous le donner pour vous & pour les vostres.
-
--*who_merope
-Donc c'est pour vous, enfans, que l'on l'a préparé,
-Par vous nostre malheur aujourd'huy terminé,
-A nos longs desplaisirs⁎ fait succéder la joye :
-Thyeste a son pardon, & le Ciel nous l'envoyé,
-Vous estes dans mes bras, dous excès de plaisir ;
-Il faut que je vous baise & rebaise à louesir,
-Que ma lèvre se colle à vostre lèvre humide,
-Et que pour satisfaire⁎ à mon cœur plus avide,
-Vous donnant mon esprit, j'expire doucement,
-Et que vous me donniez le vostre esgallement.
-
--*who_melinthe
-De ses plaisirs perdus, elle prend les usures.
-
--*who_merope
-Vous ne me dittes mots, petites créatures :
-Parlez-moy de Thyeste, où l'avez-vous laissé ;
-Vous a-t-il dit adieu, l'avez-vous embrassé⁎ ?
-
--*who_theandre_lysis
-Pour vous cent & cent fois.
-
--*who_merope
-      Il faut donc à mon aise⁎
-Que pour luy mille fois aujourd'huy je vous baise,
-Mais ils s'en vont à toy ?
-
--*who_melinthe
-      Je les puis recevoir.
-
--*who_merope
-Dieux que ces fruits sont beaux, chacun les veut avoir,
-Donne moy ce présent, j'en feray le partage,
-A qui dois-je des deux en donner davantage,
-Aux deux esgallement ayant donné le jour :
-Si Theandre a mon cœur, Lysis a mon amour,
-Toutefois un désir plus avant dans mon ame,
-L'emporte dans les lieux, où s'envole ma flame.
-Que faict mon cher Thyeste, où le laissastes-vous ?
-
--*who_theombre
-Sur le poinct de partir aussi tost comme nous.
-
--*who_merope
-Songe-t- il à Merope ?
-
--*who_theombre
-      Autant comme à luy-mesme. 
-
--*who_merope
-Ah Prince sans pareil ! que ton amour extrême
-Mérite d'autres vœus que ceux que tu reçois :
-Bons Dieus ! pouvois-je faire un plus louable chois :
-Mais je ne puis souffrir⁎ sa trop longue demeure.
-
--*who_theombre
-Vous l'auré dans ces lieux au plus tard dans une heure.
-
--*who_merope
-O trois & quatre fois favorable retour !
-
--*who_melinthe
-Madame, icy Madame !
-
--*who_merope
-      Ah ! lamentable jour.
-Détestables faveurs.
-
--*who_theombre
-      Courez icy Madame !
-
--*who_merope
-A quelle fin grands Dieus reservez-vous mon ame,
-Quelle est vostre justice, & quels sont mes mal-heurs,
-Pourquoy ne puis-je pas partager mes douleurs,
-Ah Lysis ! mais où vais-je, ah ! rigueur trop cruelle,
-Je cours à toy Lysis, & Theandre m'appelle,
-Ah Theandre ! ah Lysis ! dous objets⁎ de mes voaus,
-Amour en mesme temps m'appelle à tous les deus,
-Et mon nouveau malheur en ce poinct est extrême,
-Que je ne puis choûésir des deux celuy que j'ayme.
-
--*who_melinthe
-Madame, ces transpors⁎ ne sont pas de saison,
-Avecque vos enfans vous perdez la raison,
-Songeons à leur salut, leurs pous donne espérance
-De quelque guarison⁎.
-
--*who_merope
-      A fascheuse⁎ apparence⁎ !
-Espoir foible & cruel ?
-
--*who_melinthe
-      Avec tous ces discours⁎,
-Nous resterons icy sans force & sans secours.
-
-**** *book_ *id_II09 *act_ *date_1638 *creator_monleon
-
--*who_criton
-Quels fascheux⁎ accidens⁎ troublent ainsi la Reyne ?
-
--*who_melinthe
-Emportez ces enfans dans la chambre prochaine,
-Vous sçaurez leur malheur : Madame suivez-les,
-De tout cet accident⁎ vous verrez le succez⁎.
-
--*who_merope
-Helas ! que mes malheurs sont bien fort manifestes
-Que verray-je de plus dans ces objects⁎ funestes⁎
-Que l'effet⁎ d'une haine, &. l'horreur du poizon
-Que ma perte asseuree, & que ta trahison.
-Justes Dieus qui voyez une ame si perfide,
-Vengez, vengez pour moy ce cruel homicide ?
-
--*who_melinthe
-Vous m'accusez à tort : mais le temps ne veut pas
-Que je me justifie : Allez, suivez leurs pas :
-Je cours au Médecin.
-
-**** *book_ *id_II10 *act_ *date_1638 *creator_monleon
-
--*who_melinthe
-      Ces véritables plainte⁎
-Donnent à mon esprit de sensibles⁎ atteintes⁎.
-Et quelque advantageus que me soit ce forfait,
-Je sens⁎ secrètement⁎ que c'est moy qui l'a fait :
-Un remors dans le cœur va m'objectant sans cesse,
-Que j'ay trahy ma foy⁎, trahissant ma Princesse.
-Mais que mon repentir me semble furieus⁎ :
-Je les ai veus mourir tous deux devant mes yeus.
-Par leur mort seulement j'ay conservé ma vie :
-Par leur mort j'ay repris ma liberté ravie,
-Et ces enfans perdus asseurent mon repos⁎.
-La volonté d'un Prince est de tous mes complos
-C'est luy qui m'a portée à ce cruel office⁎ ;
-C'est luy qui doit payer mon fidelle⁎ service,
-La coronne m'attend après ces beaux desseins,
-Je veus que ces effets⁎ se trouvent inhumains,
-Que je passe par tout pour ingrate & perfide,
-Et que mon crime soit pire qu'un parricide,
-Un diadesme⁎ peut couvrir⁎ tous mes deffauts⁎,
-On feroit pour régner mille fois plus de maux,
-Et ce coup⁎ en tout cas n'est que trop légitime,
-Pour que je ne préviens que Merope en son crime.
-Fin du Second Acte.
-
-**** *book_ *id_III01 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Perfides sentimens, mouvemens⁎ déréglez,
 Où voulez-vous porter mes esprits aveuglez ;
 Quelle lasche pitié, vient esbranler mon ame ;
@@ -1198,13 +425,6 @@ Et chacun de vos corps dans le sien s'espandra.
 Ainsi remply de vous autant que de son crime,
 Vous aurez un tombeau, luy son sort légitime.
 
-**** *book_ *id_III02 *act_ *date_1638 *creator_monleon 
-
--*who_criton
-De ses transports⁎ tousjours vostre esprit agité,
-Médite sa vengeance, & quelque cruauté.
-
--*who_atree
 L'un & l'autre me plaist, & tous deux, s'il me semble,
 Pour mon contentement doivent se joindre ensemble.
 Vengeance, cruauté, violence, transports⁎,
@@ -1219,12 +439,6 @@ Et si mesmes les Dieus consentoient à ce tort,
 Contre eux mon bras feroit un plus sanglant effort ;
 Tant je veux surpasser le crime de mon père.
 
--*who_criton
-Justes Dieux ! appaisez l'ardeur⁎ de sa colere
-Sur ce cœur furieus⁎ estendez vostre main.
-Hé ne vous souillez plus de ce crime inhumain.
-
--*who_atree
 C'est par là que je veus obtenir la victoire.
 C'est par là que je veus qu'une estrange⁎ mémoire
 Conserve à nos neveus jusqu'aus derniers momens
@@ -1234,19 +448,11 @@ Je ne veus avec moy que de funestes⁎ ombres⁎ ;
 Et je seray contant si je fais en effet
 Ce qu'un frère voudroit contre nous avoir fait.
 
--*who_criton
-Estrange⁎passion⁎.
-
--*who_atree
       Nécessaire & loüable.
 A qui veut se venger d'une injure semblable,
 Il ne faut point flatter⁎ un tel ressentiment⁎
 Et l'on ne doit jamais se venger laschement.
 
--*who_criton
-Ordonnez, je suis prest.
-
--*who_atree
       J'estime ta franchise⁎,
 Capable seulement d'achever⁎ l'entreprise.
 Monstre toy donc icy fidelle⁎ & valeureus,
@@ -1255,148 +461,47 @@ Ton courage⁎ me plaist, ta vertu⁎ me contente,
 Et j'espère des deus l'effet⁎ de mon attente.
 Mais que joyeusement Melinthe vient à nous.
 
-**** *book_ *id_III03 *act_ *date_1638 *creator_monleon
-
--*who_melinthe
-Vivez grand Roy, vivez, la victoire est à vous ;
-Ma main sans redouter ce sanglant sacrifice
-A généreusement⁎ achevé⁎ son office⁎.
-
--*who_atree
 Donc ces enfans sont morts ?
 
--*who_melinthe
-      Ouy.
-
--*who_atree
       Las que me dis-tu ?
 Que je suis redevable à ta rare vertu⁎ : Ils sont morts ?
 Justes Dieus ! quel coup⁎ plus favorable
 Pouvoit me rendre heureux⁎, & Melinthe adorable ?
 Ils sont morts ?
 
--*who_melinthe
-      Ils sont morts.
-
--*who_atree
       Mais dy moy de quels yeus
-Elle a pu voir l'effet⁎ de son crime odieus ? 
+Elle a pu voir l'effet⁎ de son crime odieus ?
 
--*who_melinthe
-Des yeux que la douleur noyoit dedans leurs larmes.
-
--*who_atree
 Quels furent ses discours⁎ ?
 
--*who_melinthe
-      Tous tels qu'en ces allarmes
-Arrache malgré nous par ses effors puissans,
-La Rage qui maistrise & le cœur & les sens⁎.
-
--*who_atree
 C'est tout ce qu'il falloit à cette ame perfide :
 Mais elle mesme a fait de sa main l'homicide.
 
--*who_melinthe
-Elle mesme.
-
--*who_atree
       Et tu pus luy donner ce poison.
 
--*who_melinthe
-A propos.
-
--*who_atree
       O trois fois heureuse trahison !
 Généreuse⁎ Melinthe, en ce bien-fait extrême
 Mon repos⁎ s'establit⁎, & ta gloire est suprême ;
 Fais nous donc le récit de tout cet accident⁎.
 
--*who_melinthe
-Voyant ses deux Soleils dedans leur occident.
-
--*who_atree
 Elle s'en vint à toy.
 
--*who_melinthe
-      Son amour partagee
-Fit voir comme à tous deux elle estoit engagée
-Et que le sang faisoit une commune loy.
-Elle alloit vers Theombre, & puis couroit à moy ;
-S'arrestoit incertaine, & son cœur & son ame
-Brusloient pour tous les deux d'une pareille flame.
-
--*who_atree
 En fin tout succéda⁎ selon nostre désir.
 
--*who_melinthe
-Sire, vous le sçaurez tantost plus à louesir.
-Je fus au Médecin pour me retirer d'elle.
-Criton vit le spectacle.
-
--*who_atree
       Ah l'aimable nouvelle !
 Amy, satisfaits⁎ donc à mon contentement :
 Quels furent les transpors⁎ d'un dueil si véhément⁎ ?
 Dy, quels furent ces pleurs, quelles furent ces plaintes⁎ ?
 
--*who_criton
-Reconnoissant au vray les mortelles attaintes⁎,
-Qui forçoient ces esprits de sortir de ces lieus ;
-Le poison achevant⁎ vos desseins glorieus ;
-Et Merope voyant ce qu'elle pouvoit craindre,
-S'arrache les cheveus, & commence à se plaindre⁎ :
-A tous ces mouvemens⁎ sa main s'abandonnoit :
-De ses tristes⁎ sanglots la chambre resonnoit,
-Et ses yeus presque estains, & son pasle visage,
-Faisoient voir de sa mort le funeste⁎ présage.
-
--*who_atree
 Si ce commencement causa tant de douleurs,
 Que fit-elle voyant l'objet⁎ de ses malheurs.
 
--*who_criton
-Trois fois en se pasmant elle voulut les suivre :
-Mais son cruel destin trois fois la fit revivre :
-Trois fois elle voulut finir par leur trespas.
-Trois fois la mort l'approche & ne la touche⁎ pas.
-En fin & la Douleur, & l'Amour, & la Rage,
-Luy ravirent le pous, l'esprit & le courage⁎,
-Elle s'esvanouyt comme le Médecin
-Entre dedans la chambre.
-
--*who_atree
       Acheve⁎ : cette fin
 
--*who_criton
-L'estonne⁎, le surprend, & fait qu'il se propose
-De chercher dans ces corps & l'effet⁎ & la cause :
-On les ouvre aussi-tost, on treuve⁎ le poison,
-La Reyne se resveille & sort de pasmoison.
-Et d'une voix qui sort à peine⁎ de sa bouche,
-Elle veut exprimer la douleur qui la touche⁎.
-Puis retournant les yeus de larmes tous couverts,
-Ainsi qu'elle apperçoit ces deux corps entr'ouverts,
-Une estrange⁎ douleur s'emparant de son ame,
-Pour la quatriesme fois encor elle se pasme.
-
--*who_atree
 Que fistes-vous après ?
 
--*who_criton
-      Nous emportons son corps,
-Et laissons seulement, Oronte avec les mors
-Pour faire.
-
--*who_atree
       C'est assez à tout cecy, Theombre.
 
--*who_criton
-Presque tout immobile, & plus pasle qu'une ombre,
-Il a recours à moy, je flatte⁎ son ennuy⁎,
-Et dedans cette tour je m'asseure de luy.
-
--*who_atree
 Vertueuse⁎ conduite, amy trop véritable,
 Mais que vos passions, Melinthe incomparable,
 Me donnent de désirs de les recompenser.
@@ -1406,33 +511,18 @@ Satisfaire⁎ à la mienne, & vous faire Princesse.
 Toutesfois ce bon-heur doit estre différé,
 Il faut avoir le Sceptre, & le rendre asseuré.
 
--*who_melinthe
-Que vous reste-t-il plus ? 
-
--*who_atree
       A faire deux conquestes,
 Pour nous mettre à l'abry des vens & des tempestes,
 A faire ce qui peut un jour nous contenter
 Mais ce que vostre cœur ne sçauroit supporter.
 
--*who_melinthe
-Melinthe cependant sera-t-elle inutile ?
-
--*who_atree
 A tout autre qu'à moy la chose est difficile,
 
--*who_melinthe
-Où dois-je donc aller ?
-
--*who_atree
       Dans des lieux préparez
 Aux dous contentemens qui nous sont asseurez,
 Où nous devons jouyr d'une gloire parfaite.
 Le palais du jardin sera vostre retraite⁎.
 
-**** *book_ *id_III04 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Tu vois comme en tous poincts la fortune⁎ me rit :
 Voila comme il falloit attrapper cet esprit,
 L'amorcer⁎ doucement, & par mille artifices⁎
@@ -1441,27 +531,15 @@ La seule ambition dont son cœur fut espris,
 Pour tous mes sentimens anima ses espris,
 Et fist qu'à tous mes vœux son ame s'abandonne.
 
--*who_criton
-On pesche bien pour moins que pour une coronne.
-
--*who_atree
 Crédule, penses-tu que j'y sois obligé⁎,
 Que par cette action mon honneur engagé
 Pour la recompenser de son juste salaire,
 Doive un si beau présent à ce cœur⁎ mercenaire ?
 
--*who_criton
-Vostre honneur vous oblige⁎ à tenir vostre foy⁎.
-
--*who_atree
 J'en manque pour un frère, il en manqua pour moy :
 Elle n'en a point eu pour servir sa Princesse ;
 Et je n'en auray point pour tenir ma promesse.
 
--*who_criton
-Donc son obéissance a causé son malheur.
-
--*who_atree
 Elle seroit sans crime, & ma juste douleur
 Seroit sans fondement contre cette perfide,
 Ayant tant seulement trempé dans l'homicide,
@@ -1475,10 +553,6 @@ Et je serois ingrat si son obéissance
 N'obtenoit à l'instant sa juste recompense.
 Mais ?
 
--*who_criton
-      Certes ce secret me faisoit estonner⁎.
-
--*who_atree
 Il faut auparavant sa vie examiner,
 Et deux mots sur ce poinct nous la feront connoistre,
 Lors que⁎ par mille morts ma main faisoit paroistre
@@ -1491,18 +565,9 @@ S'estiment asseurez⁎ pour avoir deux enfans,
 Que Melinthe en secret porte chez la nourrice
 Pour mieux continuer son détestable office⁎.
 
--*who_criton
-Peut-estre le fit-elle à dessein de cacher
-Ce que tous ses efforts ne pouvoient empescher ?
-
--*who_atree
 Surprise par l'amour & les dons de Thyeste,
-Elle seule porta Merope à cet inceste⁎. 
+Elle seule porta Merope à cet inceste⁎.
 
--*who_criton
-Vous la pouviez punir la tenant en vos mains.
-
--*who_atree
 Cette punition rompoit tous mes desseins :
 Tu sçais que ma valeur par d'invincibles charmes⁎
 Obligea⁎ la Fortune⁎ à seconder mes armes,
@@ -1531,131 +596,53 @@ Voudrait de leurs malheurs endurer la moitié.
 En fin j'ay si bien fait qu'ils sont en ma puissance,
 Et qu'il ne reste plus qu'à tirer ma vengeance.
 
--*who_criton
-Je ne puis excuser son infidélité⁎.
-
--*who_atree
 Le Ciel luy donnera ce qu'elle a mérité :
 Et pour la mieux punir, & payer son service ;
 Je veux pour quelque temps différer son supplice ;
 Et je l'ay fait descendre à dessein dans ces lieux.
 
-**** *book_ *id_III05 *act_ *date_1638 *creator_monleon
-
--*who_criton
-La Reyne vient à vous,
-
--*who_merope
-      Monarque glorieux,
-A qui tout l'Univers doit eslever des Temples,
-Et de qui les vertus⁎ n'eurent jamais d'exemples.
-
--*who_atree
 Je ne sçaurois souffrir⁎ce discours⁎ odieux,
-Dittes le plus honteux qui vive sous les Cieux. 
+Dittes le plus honteux qui vive sous les Cieux.
 
--*who_merope
-Apres tant de lauriers, de palmes & de gloire,
-
--*who_atree
 On a troublé l'honneur de toute ma victoire.
 
--*who_merope
-Il est vray, deux enfans dedans vostre maison
-Ont ressenty l'effort⁎ d'un funeste⁎ poison ;
-Aussi tost arrivez une main desloyalle
-A souillé de ce crime une maison royalle.
-
--*who_atree
 Je jure tous les Dieux, que celuy qui l'a fait
 Ne survivra jamais une heure à son forfait,
 Et quiconque en ces lieux se soit monstre perfide,
 Se punira soy-mesme en son propre⁎ homicide.
 
--*who_merope
-Ah prudence incroyable ! Ah Justice de Roy !
-
--*who_atree
 Dittes, dittes plustost inévitable Loy ;
 Ce que je vous promets est fort inviolable :
 Et juste ou non il faut qu'on le treuve⁎ équitable.
 
--*who_merope
-Vengez vos héritiers !
-
--*who_atree
       Je n'en ay point perdu,
 Ce tiltre ny ce nom ne leur estoit pas deu :
-Ils sont à vous, Merope, & leur père est Thyeste. 
+Ils sont à vous, Merope, & leur père est Thyeste.
 
--*who_merope
-Ah grand Prince ! ah Merope ! ah response funeste⁎ !
-Vous les avez receus au pardon comme nous.
-
--*who_atree
 Et je feray pour eus autant comme pour vous.
 
--*who_merope
-Helas ! ils ne sont plus, & leur sort vous demande.
-
--*who_atree
 Ce qu'ils auront bien tost.
 
--*who_merope
-      Que mon ame appréhende,
-Et conçoit à ces mots de crainte & de soupçons.
-Justes Dieus ?
-
--*who_atree
       Mais à quoy ces estranges façons ?
 Et pourquoy doubter tant d'une chose asseuree ?
 Estes-vous pas Merope ? & suis-je pas Atree ?
 
--*who_merope
-Vous Testes, & mon cœur n'en a jamais doubté,
-Je ne l'ay que trop veu par l'extrême bonté
-Dont tant de criminels ont fait l'expérience :
-Mais ces deux Princes morts vous demandent vengeance.
-
--*who_atree
 Je l'ai desja promise, & puissent tous les Dieus
 A jamais contre moy se monstrer furieus⁎,
 Si l'effect dedans peu ne vous rend asseuree,
 Que vous estes Merope, & que je suis Atree.
 
--*who_merope
-Dois-je avoir de l'espoir ?
-
--*who_atree
       Il seroit superflus,
 Et vostre seul espoir est de n'en avoir plus.
 
--*who_merope
-Las par combien de morts mon ame est deschiree !
-
--*who_atree
 Estes-vous pas Merope, & suis-je pas Atree ?
 
--*who_merope
-Il est vray, je la suis, mes estranges malheurs
-Me le monstrent assez, & mes vives douleurs
-De l'autheur de mon mal me rendent asseuree.
-
--*who_atree
 Estes-vous pas Merope, & suis-je pas Atree ?
 
--*who_merope
-Mais un Tygre ?
-
--*who_atree
       Ces noms me sont indifferens,
 Mais que je vienne à bout de ce que j'entreprens
 Que je venge un affront.
 
--*who_merope
-Qu'estes-vous devenue, Inviolable foy⁎ ?
-
--*who_atree
       Me l'avez vous tenue ?
 L'inviolable foy⁎ que vous implorez tant :
 Vous l'avez violée, & j'en veux faire autant ;
@@ -1664,25 +651,10 @@ Vous avez fait un crime & j'en veux faire autre,
 Si je suis criminel de suivre un mouvement⁎,
 Où l'équité me porte & mon ressentiment⁎.
 
--*who_merope
-Il falloit, il falloit pour paroistre équitable,
-Sauver les innocens, & perdre la coulpable
-Ces victimes estoient indignes de vos cous.
-
--*who_atree
 J'ay trouvé dans leur mort quelque chose de dous.
 
--*who_merope
-Oyez terres ! Oyez ce désir tyrannique !
-Escoutez les fureurs⁎ d'une ame frénétique.
-
--*who_atree
 Pour un commencement tu festonnes⁎ beaucoup.
 
--*who_merope
-Détestable assassin.
-
--*who_atree
       Toy-mesme as fait le coup⁎,
 Melinthe t'a servie en cette felonnie :
 Toy-mesme m'as vengé, toy-mesme t'es punie ;
@@ -1691,442 +663,11 @@ Dedans les mesmes lieux ils sont empoisonnez.
 Ta main qui fit ce meurtre en doit estre asseurée.
 Connoy⁎-toy donc Merope, & reconnois Atree.
 
-**** *book_ *id_III06 *act_ *date_1638 *creator_monleon
-
--*who_merope
-Il n'en faut plus doubter, ce tyran furieux⁎
-Est le seul instrument de ce crime odieux !
-Sa rage a commencé ce dessein si funeste⁎,
-Afin de l'achever⁎ par la mort de Thyeste.
-Divertissons⁎ ce coup⁎, & ne permettons pas
-Qu'il triomphe jamais d'un si noble trespas ?
-Merope, c'est à toy d'en esviter l'orage :
-C'est toy qui l'as perdu. Mais ô Dieux, quelle rage
-S'obstine incessamment contre des malheureux ?
-Las ! pour te secourir je n'ay rien que des vœux,
-Tous ces lieux sont fermez, je n'ay point de passage,
-Je manque de pouvoir, mais non pas de courage,
-Insolentes fureurs du sort qui m'est fatal⁎ :
-Quoy, me reservez vous encor à quelque mal ?
-Mon exil n'a-t-il point contenté vos caprices⁎ ?
-Est-il pour me punir de plus cruels supplices,
-Apres avoir trahy Thyeste &. mon amour,
-Estouffé⁎ deux enfans que j'avois mis au jour.
-Avez-vous, avez-vous quelque chose de pire
-Pour me faire souffrir⁎ tandis que je respire.
-J'ay veu de mes deux yeux ces objects⁎ estendus,
-Sans pous, sans mouvement, & je les ay perdus,
-Et je ne suis pas morte ? Ah mère détestable,
-Que ton impieté⁎ te rend abominable !
-Tu survis à ce coup⁎ plein de rage & d'horreur,
-Tu manques de courage en ta juste fureur :
-Apres avoir commis un si grand parricide,
-Contre qui pouvois-tu te monstrer plus perfide ?
-Ah nature ! ah pitié que faisiez-vous alors ?
-Que ne m'assistiez-vous avec tous vos efforts,
-Pour ne survivre pas à l'action cruelle,
-Ne me trouviez-vous pas encores criminelle,
-Falloit-il adjouster à mon crime odieux,
-La mort de mon Thyeste & le mespris des Dieux ?
-Et premier⁎ que ma mort expiast mon offence⁎,
-Me faire reconnoistre Atree & sa vengeance.
-M'exposer aux fureurs⁎ de ce Tygre inhumain,
-Du sang de mes enfans ensanglanter ma main,
-Perdre des innocens, destruire mon ouvrage,
-Ah Dieux ! fut-il jamais une pareille rage ?
-Mais vous à qui ce bras a servy de bourreau,
-Devois-je en vous perdant faire un crime nouveau ?
-Et falloit-il qu'un Roy pour se rendre effroyable,
-Vous perdist par ma main, & sauvast la coulpable ?
-
-**** *book_ *id_III07 *act_ *date_1638 *creator_monleon
-
--*who_criton
-Madame, ce grand Roy que vous blasmez à tort,
-Des esprits affligez l'azyle & le support,
-Voyant de vos douleurs l'extrême violence,
-Vous exhorte par nous à quelque patience⁎.
-
--*who_merope
-Ce grand Roy, dont le cœur & lasche & furieux⁎,
-Horreur de la nature & la haine des Dieux,
-Nous assouvy du sang d'une tendre jeunesse,
-Veut encor esprouver mon cœur & sa foiblesse :
-Fidelles⁎ confidens de cet empoisonneur,
-Qui venez à dessein de tenter mon honneur,
-Dittes-luy que j'auray dans ce malheur extrême,
-La resolution qu'il doit avoir luy-mesme.
-
--*who_criton
-Pourveu que ces transpors⁎ cèdent à la raison,
-Il treuvera⁎ la sienne en vostre guarison⁎.
-
--*who_merope
-Et c'est cette raison qui doit à cet infâme
-Faire voir en mes maus les bourreaux de son ame.
-
--*who_criton
-Pour empescher ce coup⁎ vous vous devez guarir⁎.
-
--*who_merope
-Un moment, un moment me pourra secourir.
-Un seul coup⁎ finira ma vie avec ma peine⁎.
-
--*who_criton
-Certes vous commencez d'estre moins inhumaine ;
-Et pour exécuter un si noble désir,
-Voicy dequoy Madame, & vous pouvez chouesir.
-
--*who_merope
-Objects⁎ doux & charmans, presens incomparables,
-Qui devez terminer mes maux insupportables,
-Favorable ennemy, Monarque glorieux,
-Qui fais pour mon repos⁎ autant que tous les Dieux.
-Tu sçays qu'après ces morts je ne sçaurois plus vivre,
-Que mon amour m'invite, & m'oblige⁎ à les suivre,
-Et que pour mieux punir ma lasche trahison,
-Ainsi qu'eux je devois finir par le poison.
-Il le faut, je le dois, ça, prenons ce breuvage ?
-En retardant son coup⁎ j'offence mon courage.
-Mais soyez les tesmoins comme je le reçoy⁎,
-Voyez avec quel front⁎ & quels yeux je le boy,
-Et dittes à ce Roy dont je foulle la haine,
-Que Merope mourant, mourut comme une Reyne.
-Le voila ; c'en est fait, il est victorieux,
-Et mon esprit contant va sortir de ces lieux.
-Allez luy rapporter de si douces nouvelles,
-Je vay suivre les pas de ces ombres fidelles⁎.
-Enfans je suis à vous, attendez un moment,
-Thyeste me retarde en ces lieux seulement.
-C'est moy qui t'ay perdu, c'est ta seule Merope,
-Qui dedans ses malheurs aujourd'huy t'envelope.
-Ah trop crédule amant ! j'expie en ce trespas
-Tous mes forfaits passez, & ne te sauve pas.
-Contre toy leur furie⁎ ose tout entreprendre,
-On m'oste les moyens de te pouvoir deffendre.
-Espere toutesfois, mon esprit hors du corps,
-Premier⁎ que de passer au Royaume des morts,
-Où que tu sois, Thyeste, ira joindre ton ame,
-Et te rendre les vœux de sa dernière flame.
-Il s'en va, c'en est fait, Ministres généreux⁎,
-Monstrez-moy mes enfans, que j'expire sur eux ;
-Vous ferez à Merope un agréable office⁎,
-Et vous augmenterez l'horreur de son supplice.
-Fin du troisiesme Acte.
-
-**** *book_ *id_IV01 *act_ *date_1638 *creator_monleon
-
--*who_thyeste
-Apres les longs travaux⁎ d'un exil rigoureux,
-Où mon crime & le sort me rendoient malheureux :
-Je vous revoy beaux lieux, où jadis ma jeunesse
-Fist admirer⁎ de tous sa force & son adresse.
-Agréables Palais, superbes bastimens,
-Doux & puissans sujets de mes contentemens,
-Où les objets charmans d'une rare structure,
-Semblent avoir lassé & l'art & la nature.
-En fin ma destinée après un long courroux,
-A calmé ses fureurs, & me conduit à vous :
-Tout le peuple d'Argos se présente à ma veuë ;
-De mille doux plaisirs mon ame entretenuë ;
-S'imagine en soy-mesme, & pense de le voir,
-Reconnoistre son Prince, & faire son devoir.
-Atree à bras ouverts vient embrasser⁎ son frère :
-Atree ? Ah que dis-tu, crains plustost sa colère,
-Abandonne ces lieux, cherche un autre élément,
-Reprens le premier cours de ton banissement,
-Visite des forests les cavernes plus sombres,
-Et préfère à ce lieu la retraite⁎ des ombres,
-Afin que ny l'esclat⁎, ny la pourpre des Rois,
-Ne vienne à t'esblouyr pour la seconde fois.
-Mais d'où vient qu'aujourd'huy mon esprit s'espouvante,
-l'art et la nature ont tant travaillé.
-Que mon trouble s'accroist, & ma fureur s'augmente,
-Et mal-gré moy m'emporte.
-
--*who_lycostene
-      Estrange mouvement⁎,
-Grand Prince, d'où vient ce transport⁎ véhément⁎ ?
-
--*who_thyeste
-Tu chancelles, mon ame, & ton inquiétude⁎
-Te jette & te retient dedans l'incertitude ;
-Ton frère & son Royaume ont troublé ta raison ;
-Sous des morceaux dorez tu manges du poison,
-Et tu n'apperçois pas la malice couverte⁎
-De ces deux ennemis qui conspirent ta perte.
-Crains-tu, crains-tu des maux autrefois supportez
-Et que ta patience⁎ a desja surmontez ?
-Retire-toy d'icy, ton repos⁎ te l'ordonne,
-Esvite les malheurs qui suivent la coronne.
-
--*who_lycostene
-Ce soudain changement rend mes sens⁎ esbahys ;
-Quel accident⁎ vous force à quitter le pays :
-Tout le monde vous veut, un frère vous demande,
-Son sceptre vous attend.
-
--*who_thyeste
-      C'est ce que j'appréhende.
-
--*who_lycostene
-Craignez-vous le repos⁎ qui vous est présenté ?
-
--*who_thyeste
-Je crains de trop avoir n'ayant rien mérité.
-
--*who_lycostene
-Craindre sans fondement.
-
--*who_thyeste
-      Il est vray, Lycostene,
-Je souffre⁎ sans sçavoir la cause de ma peine⁎ ;
-J'ignore le soupçon qui me va tormentant⁎,
-Je ne vois rien à craindre, & si je crains pourtant
-De mesme qu'un navire approchant du rivage,
-Se voit porter ailleurs par les vens & l'orage.
-Quand je voy ce séjour plein d'amour & d'appas,
-J'avance, & malgré moy je porte ailleurs mes pas.
-
--*who_lycostene
-Surmontons les dangers, suivons nostre fortune⁎,
-Et foulons sous les pieds cette crainte importune.
-Les pensers⁎ d'un exil troublent vostre bon-heur ;
-Voyez que ce retour vous prépare d'honneur,
-Vous pouvez estre Roy.
-
--*who_thyeste
-      Je puis mourir encore.
-
--*who_lycostene
-Un Prince est comme un Dieu que tout le monde adore.
-
--*who_thyeste
-Il ne faut qu'un Soleil pour esclairer les cieux :
-Un seul bras pour un sceptre.
-
--*who_lycostene
-      Ah desseins furieux⁎ !
-De deux conditions faut-il choüesir la pire.
-
--*who_thyeste
-Pensant trouver son bien⁎, on trouve son martyre,
-Tousjours dans la grandeur comme dessus les flots,
-Un orage inconnu trouble nostre repos⁎.
-Ah ! qu'il est bien plus doux, sans crainte de personne,
-De se nourrir des fruicts que la nature donne,
-De prendre ses repas en toute seureté,
-Loin de la perfidie & de la vanité,
-Qui dedans ces Palais où le luxe & le crime
-Régnent impunément ; & font tout légitime.
-J'en sçay l'expérience, & que la trahison
-Dans une couppe d'or nous donne du poison,
-Nous prépare la mort, & par ses artifices⁎,
-Nous la fait avaller avec des délices.
-Que c'est bien acheter un sceptre chèrement ;
-Lycostene, croy moy, tout le contentement
-Est de pouvoir régner sans sceptre & sans coronne.
-
--*who_lycostene
-Pourquoy les refuser quand le ciel nous les donne ?
-
--*who_thyeste
-Pourquoy les desirer ?
-
--*who_lycostene
-      Quand un frere le veut,
-Luy feriez-vous ce tort ?
-
--*who_thyeste
-      Mais quand il ne se peut.
-
--*who_lycostene
-Par ses plus grands désirs, son cœur vous en conjure.
-
--*who_thyeste
-Ses vœus me sont suspects, & je crains quelque injure⁎.
-
--*who_lycostene
-Pourriez-vous bien douter encores de sa foy⁎ ?
-Vous la-t-il point donnée en qualité de Roy,
-Et par tous ses escrits si sainctement jurée :
-Est-il pas vostre frère ?
-
--*who_thyeste
-      Il est de plus Atree.
-
--*who_lycostene
-Il vous aime. 
-
--*who_thyeste
-      Ah ! sortez d'une si grande erreur,
-Je sçay quel est Atree, & quelle est sa fureur.
-
--*who_lycostene
-Que craignez-vous si fort ?
-
--*who_thyeste
-      Tout ce que l'on peut craindre :
-Car sa haine est un feu⁎ qu'on ne sçauroit esteindre,
-Il hait autant qu'il peut.
-
--*who_lycostene
-      Que peut-il contre vous ?
-
--*who_thyeste
-Rien du tout.
-
--*who_lycostene
-      Pourquoy donc craindre tant son courroux ?
-
--*who_thyeste
-Ayant entre ses mains le seul bien qui me reste,
-Je crains pour mes enfans, & non pas pour Thyeste. 
-
--*who_lycostene
-Lors que⁎ dans des liens le sort nous a jette,
-Il n'est plus temps de craindre une captivité,
-Il la fallait prévoir.
-
--*who_thyeste
-      Tu dis vray, Lycostene :
-Mais l'amour m'aveugla pour complaire à ma Reyne ;
-Et ce Dieu maintenant fait voir à mes esprits
-Des objects⁎ de terreur.
-
--*who_lycostene
-      C'est luy qui vous a pris,
-Luy seul vous doit sauver.
-
--*who_thyeste
-      Mon mal est sans remède,
-Suivons la volonté du sort qui nous possède :
-Contre sa violence en vain je me deffens,
-Nature, amour, pitié, Merope, chers enfans,
-Où m'avez-vous traisné, vostre estât misérable
-Eut peut-estre pour vous esté moins déplorable⁎.
-
-**** *book_ *id_IV02 *act_ *date_1638 *creator_monleon 
-
--*who_criton
-Bons Dieus, il est icy plus tost qu'on ne pensoit,
-Advertissons le Roy, mais il nous apperçoit,
-Allons sans différer luy rendre nostre hommage.
-Prince aussi vertueux⁎ que remply de courage⁎,
-A qui le sort devoit un traitement plus doux.
-Il est temps que le Ciel nous approche⁎ de vous,
-Que nous donnant un calme après tant de tempestes,
-Il augmente par vous l'honneur de nos conquestes.
-
--*who_thyeste
-Cavalier⁎généreux⁎, si ma captivité
-Augmente en quelque poinct vostre félicité :
-Atree a ce qu'il veut, son ame généreuse⁎
-De Thyeste aujourd'huy se rend victorieuse :
-Apres de longs ennuis⁎ & tant de maux souffers,
-Je seray glorieux de vivre dans ses fers⁎ :
-S'il veut ma liberté, s'il désire ma vie,
-Je viens rendre à ses vœux l'une & l'autre asservie,
-Et mettre entre ses mains un trésor pretieux,
-Un bien incomparable, un frère !
-
--*who_criton
-      Ah justes Dieus !
-Vous luy pouviez donner tout le monde en partage
-Mais vous ne pouviez pas l'obliger⁎ davantage.
-Toutesfois,
-
--*who_thyeste
-      Que crains-tu ?
-
--*who_criton
-      Qu'il ne soit estonné⁎
-De vous voir en ces lieux sans estre accompagné.
-
--*who_thyeste
-Je sçay que sa grandeur a passé⁎ l'ordinaire,
-Et fait trop d'appareil⁎ pour recevoir un frère.
-Mais certes tous ces gens⁎ que j'ay vus de mes yeux
-Amy, ne songent pas que je sois en ces lieux :
-Ces trouppes que tu dis cherchent dedans la pleine
-Celuy que tu vois seul avecque Lycostene.
-
--*who_criton
-Vous avez donc trompé leurs soings⁎ & nos désirs,
-Et mon Roy se verra frustré de ses plaisirs.
-
--*who_thyeste
-Ce superbe appareil⁎ à mon exil contraire
-Eust offencé mes yeux plustost que de leur plaire ;
-Inconnu m'esquivant par un autre chemin,
-J'ay fuy de leur présence, & suivy mon destin :
-Ainsi tu me vois seul.
-
--*who_criton
-      Trop heureuse⁎ rencontre⁎,
-Que le Ciel à nos yeux favorable se monstre :
-Mais il faut que mon Roy sçache vostre retour,
-Et qu'appaisant l'ardeur⁎ d'une excessive amour,
-Il soulage son cœur, & contente sa veuë ;
-Je cours l'en advertir.
-
--*who_thyeste
-      Ah faveur impreveuë !
-Je veux pour le surprendre accompagner tes pas.
-
--*who_criton
-A moins de l'offencer, vous ne le devez pas,
-Ayez, grand Prince, encor un peu de patience.
-
--*who_thyeste
-Soit, je l'attends icy.
-
-**** *book_ *id_IV03 *act_ *date_1638 *creator_monleon
-
--*who_lycostene
-      Comme vostre présence
-Remplit⁎ ces lieux d'amour & de contentement ;
-Jugez donc de la fin par ce commencement.
-
--*who_thyeste
-Ainsi sous la beauté du lys & de la rose,
-Et l'espine se cache, & le serpent repose.
-
--*who_lycostene
-Sinistres sentimens⁎.
-
--*who_thyeste
-      Que veux-tu ; sans dessein
-Je nourris le Vaultour qui me ronge le sein⁎ :
-Peut-estre je me plonge en une erreur extrême,
-Et je suis sans raison ennemy de moy-mesme,
-Puis que dans les faveurs qu'aujourd'huy je reçoy⁎,
-Mon trouble semble injuste, & ne vient que de moy,
-Je l'advouë, il est vray, mais de quelque advantage
-Dont le destin m'oblige⁎ & flate⁎ mon courage⁎,
-Je le veus, & ne puis esloigner de mon cœur
-Les trais⁎ que je ressens d'une injuste langueur :
-Asseuré je crains tout, & mon ame agitée
-Par de troubles⁎ secrets se voit espouvantee.
-
--*who_atree
 En fin, il est à nous, & les Dieux immortels
 Conduisent la victime aux pieds de nos autels ;
 Son crime qui ne peut éviter son supplice
 L'entraîne, & le fait cheoir au fond du précipice.
 
--*who_thyeste
-Lycostene, voy-tu dans ce tableau,
-Il semble que le ciel par un secret nouveau
-Ayt fait peindre mon sort, regardez-en l'image.
-
--*who_lycostene
-C'est un prince trahy. 
-
--*who_thyeste
-      N'en dis pas advantage :
-
--*who_atree
 Un plaisir inconnu me vient entretenir
 Et mon esprit se peut à peine⁎ contenir,
 Tant la douleur l'agite et la fureur l'emporte.
@@ -2134,14 +675,6 @@ Mais il faut devant lui paroistre d'autre sorte ;
 Feindre⁎ mille regrets, & l'œil couvert de pleurs
 Tesmoigner qu'on prend part à ses justes douleurs.
 
--*who_thyeste
-En vain pour eschapper ce prince s'esvertuë :
-Voy comme en le baisant ce perfide le tuë.
-
--*who_lycostene
-Pour le faire abhorrer ce crime est ainsi feint⁎.
-
--*who_atree
 Il semble que son cœur de frayeur soit atteint :
 Voyez comme il commence à paroistre sauvage,
 Son crime et son exil sont peins sur son visage.
@@ -2156,26 +689,6 @@ Effaçons ces objects⁎ qui troublent nos pensées.
 Estouffons⁎ ces bourreaux qui nous percent⁎ le flanc,
 Et que la pitié se mesle avec le sang.
 
--*who_thyeste
-Vostre amour m'a vaincu, je suis sans résistance ;
-Si vous estiez moins doux, je serois sans offence⁎.
-En excusant ma faute un Dieu seroit pour moy,
-Et mon ame forcée auroit suivy sa loy ;
-Le Ciel à m'assister se rendrait favorable,
-Si vostre excez d'amour ne me faisoit coulpable.
-Mais puis qu'à mon malheur pour estre criminel,
-Il suffit seulement que vous m'avez creu tel ;
-Il n'est point de forfait dont je ne sois complice,
-J'ay plus que d'une fois mérité le supplice,
-Et sans la pieté⁎ que vous avez pour nous,
-Je ne meritois pas un traictement si doux.
-Je l'implore, mon frère, & si mes justes larmes
-Manquent pour l'attirer de puissance & de charmes,
-Par ces pieds que j'embrasse⁎, & ce front glorieux,
-Perdez le souvenir de mon crime odieux,
-Octroyez un pardon qu'un frère vous reclame.
-
--*who_atree
 Comme la passion⁎ vient à troubler mon ame,
 Une juste pitié fait mouvoir tous mes sens⁎ ;
 Je ne puis plus souffrir⁎ ces discours⁎ languissans.
@@ -2196,50 +709,17 @@ De remettre en commun, un commun diadesme⁎ :
 Le sort nous donne un Sceptre en nous favorisant,
 Et c'est une vertu⁎ que d'en faire un présent.
 
--*who_thyeste
-Que le Ciel recompense un Monarque invincible :
-Mais à tous vos presens mon cœur est insensible :
-Ce front couvert de honte, & plein d'estonnement⁎,
-Ne sçauroit plus porter un si digne ornement :
-Cette main fuit le sceptre, & mon cœur solitaire
-Parmy tant de grandeurs commence à se desplaire.
-
--*who_atree
 Le Royaume est à deux, & vous y succédez.
 
--*who_thyeste
-Le Royaume est à moy quand vous le possédez.
-
--*who_atree
 Dieux, à qui fust jamais cette grâce importune !
 Et qui la hait :
 
--*who_thyeste
-      Celuy qui connoist la fortune⁎ :
-Qui sçait son mouvement, & son cours incertain ;
-Aujourd'huy flatte⁎-t-elle, elle trahit demain.
-
--*who_atree
 Quoy ? me frustrerez-vous du bien de mon attente.
 
--*who_thyeste
-Vostre gloire est parfaite, & mon ame est contente⁎ 
-
--*who_atree
 Donc vous ne voulez pas une fois m'obliger⁎,
 
--*who_thyeste
-Ce faiz⁎ est trop pesant, je ne m'en puis charger.
-
--*who_atree
 Mesprisez la coronne, & je quitte la mienne.
 
--*who_thyeste
-Je l'accepteray donc : mais quoy que je la tienne,
-Ne pensez-pas mon frère, avoir un autre Roy,
-Vous seul commanderez, je suivray vostre loy.
-
--*who_atree
 A peine⁎ mon esprit se contient dans la joye,
 Acceptez les presens que le Ciel vous envoyé,
 Allons sur les autels d'un cœur devotieux⁎,
@@ -2247,84 +727,6 @@ Pour cet heureux⁎ retour rendre grâce aux Dieux.
 Mais pour plus dignement célébrer cette feste,
 Criton, soyez soigneux⁎ que le festin s'appreste.
 
-**** *book_ *id_IV04 *act_ *date_1638 *creator_monleon
-
--*who_criton
-A ce commandement, je frissonne d'horreur,
-Et mon esprit saisi de crainte & de terreur,
-Tremble de s'effrayer contre son ordinaire :
-Ce funeste⁎ dessein commance à me desplaire ;
-Ma trahison s'arreste au milieu de son cours.
-Mais quels sont tes pensers⁎, & quels sont tes discours⁎,
-Quels remors sans raison veut engager⁎ ton ame
-A se perdre à jamais dans la honte & le blasme :
-Tu sers un Roy qui t'aime, & ta timidité⁎
-Veut perdre son repos⁎ par une lascheté.
-Sa foy⁎ s'est plainement sur la tienne asseuree,
-Et tu crains d'asseurer la coronne d'Atree.
-Ah Criton !
-
-**** *book_ *id_IV05 *act_ *date_1638 *creator_monleon
-
--*who_oronte
-      Tousjours triste⁎ & tousjours soucieux⁎.
-
--*who_criton
-Amy, qu'un bon démon⁎ t'a conduit en ces lieux.
-
--*who_oronte
-Que voulez-vous de moy ?
-
--*who_criton
-      Qu'achevant⁎ ton office
-Tu tiennes préparez la table & le service,
-Le Prince est de retour.
-
--*who_oronte
-      Il est tout prest.
-
--*who_criton
-Adieu ! Je voile dans le Temple, & te quitte en ce lieu.
-
--*who_oronte
-Seroit-il survenu quelque accident⁎ funeste⁎ ?
-
--*who_criton
-Non, mais pour l'esviter il veut tromper Thyeste :
-Tu sçais bien qu'il devrait estre de ce repas :
-Mais c'est ce qu'il ne peut, & ce qu'il ne veut pas ;
-Soit que ne pouvant point maistriser son courage⁎,
-Il se vit obligé⁎ de complaire à la rage
-Qu'allume dans nos coeurs un object⁎ odieux,
-Où qu'estouffant⁎ Atree il fust moins furieux⁎ :
-Soit qu'un frère estonné⁎ de voir son abstinence,
-Contre luy justement n'entrast en deffïance,
-Et voyant les transports⁎ de son coeur agité,
-Il ne vist ruiné ce qu'il a projette. Il se resoult.
-
--*who_oronte
-A quoy ?
-
--*who_criton
-      A feindre⁎ une foiblesse,
-Et monstrant que l'excez de la douleur le presse⁎,
-Il se fera conduire en un lieu de repos⁎.
-
--*who_oronte
-Que deviendra Thyeste ?
-
--*who_criton
-      Apres quelques propos
-Et quelques complimens⁎, nous conduirons à table
-Ce Prince infortuné.
-
--*who_oronte
-      Prudence inimitable.
-Fin du quatriesme Acte.
-
-**** *book_ *id_V01 *act_ *date_1638 *creator_monleon
-
--*who_atree
 Quel bon-heur fut jamais à mon bon-heur pareil ?
 Quel Monarque aujourd'huy regarde le Soleil
 Avecque plus de gloire & moins de jalousie ?
@@ -2358,38 +760,18 @@ Fais luy, fais luy sentir⁎ son crime et son tourment⁎,
 Que de ces doux objects⁎ on contente sa veuë,
 Et qu'il voye à quel poinct ma vengeance est venue.
 
-**** *book_ *id_V02 *act_ *date_1638 *creator_monleon 
-
--*who_criton
-Quel nuage importun nous desrobe le jour,
-Le Soleil se retire au milieu de son tour,
-Une profonde nuict couvre toute la terre.
-
--*who_atree
 Tu vois, Criton, tu vois comme je fais la guerre ;
 Le jour s'en est caché, les Dieux en ont horreur,
 Et je n'ay qu'à demy contenté⁎ ma fureur.
 Voy donc combien sera ma vengeance effroyable,
 Lors que⁎ j'auray rendu Thyeste misérable.
 
--*who_criton
-Les Roys qui n'ont jamais de foibles sentimens
-Doivent aux desplaisirs⁎ esgaller les tormens⁎,
-Comme à recompenser leur douceur et extresme,
-Il faut qu'à nous punir leur rigueur soit de mesme. 
-
--*who_atree
 Si le courrier du jour n'eust rebroussé ses pas,
 Il eust vu ma vengeance en ce noble repas,
 Où mon cœur a rendu sa fureur manifeste,
 Esgaller pour le moins le crime de Thyeste.
 Mais pour ne laisser rien aujourd'hui d'imparfait,
 
--*who_criton
-Nous avons de tous poincts à vos vœux satisfait⁎,
-Il ne soupçonne rien.
-
--*who_atree
       Agréable service,
 Que ta fidélité⁎ m'a fait un bon office⁎ :
 Mais il ne nous faut point travailler⁎ à demy,
@@ -2397,33 +779,15 @@ Il faut parachever, incomparable amy,
 Et dans l'occasion⁎ redoubler son courage.
 Qu'une excellente fin coronne nostre ouvrage.
 
--*who_criton
-Que reste-t-il à faire après tant de trépas ?
-
--*who_atree
 Tout ce que ton esprit ne s'imagine pas,
 Et qui ne peut tomber que dessous ma pensée,
 Ou d'une autre à l'esgal de la mienne offencee.
 Qu'as-tu fait seulement ?
 
--*who_criton
-      Ce qu'on m'avoit prescrit.
-
--*who_atree
 As-tu subtilement⁎ endormy cet esprit ?
 
--*who_criton
-Que voulez-vous de plus, si son ame est contente⁎,
-Et s'il ne vous a point frustré de vostre attente ?
-
--*who_atree
 Que fait-il ce perfide ?
 
--*who_criton
-      Il finit son festin,
-Et s'enyvre de joye.
-
--*who_atree
       Ah fortuné⁎ destin !
 Que je te dois de vœux, que ta faveur est grande,
 Tu l'as réduit au poinct où mon cœur le demande,
@@ -2454,10 +818,6 @@ Je veux voir en naissant sa misère & sa rage.
 Toutesfois mon dessein se verrait imparfait
 Si je l'interrompois.
 
--*who_criton
-      Il aura bien tost fait. 
-
--*who_atree
 Va donc l'entretenir, & dy luy qu'il espère
 Dans un moment d'icy de boire avec son frère :
 Que je me rends à luy : mais cache ce présent,
@@ -2465,25 +825,309 @@ Et verse au lieu de vin ce breuvage plaisant.
 Alors que l'invitant à faire le semblable,
 Par ce dernier devoir nous fermerons la table.
 
--*who_criton
-Je m'en vay le treuver⁎.
-
--*who_atree
       Je te quitte à dessein.
 
--*who_criton
-Dieux ! de quelle liqueur veut-il remplit son sein⁎
-Incroyable fureur⁎.
+Puis que dans les faveurs que le Ciel nous envoyé,
+Aujourd'huy tout nous parle &. d'amour &. de joye,
+Que tout porte nos cœurs à ces ressentimens⁎,
+Cher frère, par l'excez de nos contentemens,
+Et par les doux plaisirs où le sort nous appelle,
+Rendons de ce beau jour la mémoire éternelle ;
+Finissons nos malheurs, & goustons désormais
+Les aymables douceurs d'une immortelle paix.
 
-**** *book_ *id_V03 *act_ *date_1638 *creator_monleon 
+Noble ressentiment⁎, affection⁎ d'un père,
+Vous voulez vos enfans, vous les aurez mon frère,
+Jamais ils ne seront de vos bras arrachez ;
+Ces objets⁎ à vos yeux ne seront point cachez,
+Et baisant à louezir leur aymable visage,
+Vous vous en soullerez⁎ : mais tandis que ce Page,
+Ira leur tesmoigner quel est vostre dessain :
+Noyons tous nos soucis, prenons la couppe en main,
+Renouvelions l'amour que le Ciel renouvelle.
 
--*who_criton
-      Mais ce Prince repose⁎,
-Il est dessus⁎ le lict le front couvert de rose.
-Dieux qu'il est bien changé de port & d'ornement,
-De celuy qu'il estoit dans son bannissement.
+Vous aurez dedans peu ces précieux hostages.
 
--*who_thyeste
+      Que ne tends-tu les bras ?
+Ils sont desja venus ne les connois⁎-tu pas ?
+
+Mon frère que ton cœur soit un peu plus remis ;
+Tu veux tes chers enfans, je te les ay promis :
+Reçoy sans différer l'effet⁎ de ma promesse.
+
+Ton ame injustement contre ma foy⁎ déteste,
+Tu vois ce que j'en ay, tu tiens tout ce qui reste.
+
+Pourquoy veux-tu sçavoir ma vengeance & ta rage ?
+Tu les viens de manger, en veux-tu davantage ?
+
+Si je t'avois puny moins rigoureusement,
+Ma vengeance serait sans son contentement :
+Je n'ay fait qu'à demy ce que je voulois faire :
+Il falloit, il falloit, pour soulier ma colère,
+Et pour plaire aux transpors⁎ qui me vont assaillant,
+T'enyvrer de leur sang tout fumeux & bouillant,
+Leur livrer à tes yeux milles nouvelles géhennes⁎,
+Et les faire passer tous vivans dans tes veines.
+Mais tous ces vains propos, & si remplis d'horreurs,
+Ne sont que les tesmoins de ma juste fureur.
+J'ay moi-mesme arraché le cœur à ces infames ;
+J'ay moi-mesme allumé les charbons et les flames,
+Sur qui j'ay vu rostir les mets qui t'ont repu ;
+Un père l'eust mieux fait, mais il ne s'est pas pu,
+Et de ce doux plaisir ma vengeance est frustrée.
+Il est vray que soullant⁎ sa faim démesurée,
+Lui-mesme a deschiré ces morceaux delicats ;
+Mais c'estoitsans douleur ne les connoissant⁎ pas.
+
+Non, ton juste remors me vengera de toy,
+Et ton regret qui va jusqu'où j'avois envie,
+D'un excez de plaisir rend mon ame ravie⁎ :
+J'estois vaincu, Thyeste estant moins affligé,
+Et sans cette douleur, je n'estois pas vengé.
+Tes pleurs et tes soupirs me donnent la victoire,
+De ton cceur abbatu je voy naistre ma gloire,
+Et ton affliction apporte à tous momens,
+A mes ennuis⁎ passez mille soulagemens.
+J'estime⁎ ma valeur, & croy qu'on me redonne
+Plus qu'on n'avoit ravy d'honneur à ma couronne.
+
+      Il est vray qu'avec juste raison
+Tu la peux accuser de cette trahison,
+Elle les a perdus mais voy comme la peine⁎
+A suivy le forfait de cette ame inhumaine.
+
+      Adjouste à ce discours⁎
+Le juste punisseur de tes lasches amours.
+
+Que la mort met hors de mes liens.
+
+      Non : mais ils estaient tiens.
+
+Mais l'unique moyen de venger mon injure.
+
+Et les Dieux de l'Hymen⁎ ne me vengent-ils pas ?
+
+Moy, moy ; mais ce n'est pas la cause légitime
+Du despit⁎ furieux⁎ qui trouble tes esprits ;
+Tu voulois prendre Atree, &. c'est luy qui t'a pris :
+Tu voulois le premier exposer sur sa table
+Ce présent gratieux, ce mets incomparable ;
+Et ta douleur n'est pas de l'avoir dévoré,
+Mais de voir ce repas sans l'avoir préparé :
+Tu t'en es retenu le croyant à Thyeste,
+Et tu n'as pas songé qu'il estoit d'un inceste⁎.
+
+Et bien, ne vois-tu pas l'effet⁎ de mes promesses ?
+Soulle-toy, soullez-les de tes douces caresses.
+
+Contant d'avoir porté ma vangeance à l'extrême,
+Je laisse à tes enfans à te punir toy-mesme.
+FIN
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_thyeste
+
+Apres les longs travaux⁎ d'un exil rigoureux,
+Où mon crime & le sort me rendoient malheureux :
+Je vous revoy beaux lieux, où jadis ma jeunesse
+Fist admirer⁎ de tous sa force & son adresse.
+Agréables Palais, superbes bastimens,
+Doux & puissans sujets de mes contentemens,
+Où les objets charmans d'une rare structure,
+Semblent avoir lassé & l'art & la nature.
+En fin ma destinée après un long courroux,
+A calmé ses fureurs, & me conduit à vous :
+Tout le peuple d'Argos se présente à ma veuë ;
+De mille doux plaisirs mon ame entretenuë ;
+S'imagine en soy-mesme, & pense de le voir,
+Reconnoistre son Prince, & faire son devoir.
+Atree à bras ouverts vient embrasser⁎ son frère :
+Atree ? Ah que dis-tu, crains plustost sa colère,
+Abandonne ces lieux, cherche un autre élément,
+Reprens le premier cours de ton banissement,
+Visite des forests les cavernes plus sombres,
+Et préfère à ce lieu la retraite⁎ des ombres,
+Afin que ny l'esclat⁎, ny la pourpre des Rois,
+Ne vienne à t'esblouyr pour la seconde fois.
+Mais d'où vient qu'aujourd'huy mon esprit s'espouvante,
+l'art et la nature ont tant travaillé.
+Que mon trouble s'accroist, & ma fureur s'augmente,
+Et mal-gré moy m'emporte.
+
+Tu chancelles, mon ame, & ton inquiétude⁎
+Te jette & te retient dedans l'incertitude ;
+Ton frère & son Royaume ont troublé ta raison ;
+Sous des morceaux dorez tu manges du poison,
+Et tu n'apperçois pas la malice couverte⁎
+De ces deux ennemis qui conspirent ta perte.
+Crains-tu, crains-tu des maux autrefois supportez
+Et que ta patience⁎ a desja surmontez ?
+Retire-toy d'icy, ton repos⁎ te l'ordonne,
+Esvite les malheurs qui suivent la coronne.
+
+      C'est ce que j'appréhende.
+
+Je crains de trop avoir n'ayant rien mérité.
+
+      Il est vray, Lycostene,
+Je souffre⁎ sans sçavoir la cause de ma peine⁎ ;
+J'ignore le soupçon qui me va tormentant⁎,
+Je ne vois rien à craindre, & si je crains pourtant
+De mesme qu'un navire approchant du rivage,
+Se voit porter ailleurs par les vens & l'orage.
+Quand je voy ce séjour plein d'amour & d'appas,
+J'avance, & malgré moy je porte ailleurs mes pas.
+
+      Je puis mourir encore.
+
+Il ne faut qu'un Soleil pour esclairer les cieux :
+Un seul bras pour un sceptre.
+
+Pensant trouver son bien⁎, on trouve son martyre,
+Tousjours dans la grandeur comme dessus les flots,
+Un orage inconnu trouble nostre repos⁎.
+Ah ! qu'il est bien plus doux, sans crainte de personne,
+De se nourrir des fruicts que la nature donne,
+De prendre ses repas en toute seureté,
+Loin de la perfidie & de la vanité,
+Qui dedans ces Palais où le luxe & le crime
+Régnent impunément ; & font tout légitime.
+J'en sçay l'expérience, & que la trahison
+Dans une couppe d'or nous donne du poison,
+Nous prépare la mort, & par ses artifices⁎,
+Nous la fait avaller avec des délices.
+Que c'est bien acheter un sceptre chèrement ;
+Lycostene, croy moy, tout le contentement
+Est de pouvoir régner sans sceptre & sans coronne.
+
+Pourquoy les desirer ?
+
+      Mais quand il ne se peut.
+
+Ses vœus me sont suspects, & je crains quelque injure⁎.
+
+      Il est de plus Atree.
+
+      Ah ! sortez d'une si grande erreur,
+Je sçay quel est Atree, & quelle est sa fureur.
+
+      Tout ce que l'on peut craindre :
+Car sa haine est un feu⁎ qu'on ne sçauroit esteindre,
+Il hait autant qu'il peut.
+
+Rien du tout.
+
+Ayant entre ses mains le seul bien qui me reste,
+Je crains pour mes enfans, & non pas pour Thyeste.
+
+      Tu dis vray, Lycostene :
+Mais l'amour m'aveugla pour complaire à ma Reyne ;
+Et ce Dieu maintenant fait voir à mes esprits
+Des objects⁎ de terreur.
+
+      Mon mal est sans remède,
+Suivons la volonté du sort qui nous possède :
+Contre sa violence en vain je me deffens,
+Nature, amour, pitié, Merope, chers enfans,
+Où m'avez-vous traisné, vostre estât misérable
+Eut peut-estre pour vous esté moins déplorable⁎.
+
+Cavalier⁎généreux⁎, si ma captivité
+Augmente en quelque poinct vostre félicité :
+Atree a ce qu'il veut, son ame généreuse⁎
+De Thyeste aujourd'huy se rend victorieuse :
+Apres de longs ennuis⁎ & tant de maux souffers,
+Je seray glorieux de vivre dans ses fers⁎ :
+S'il veut ma liberté, s'il désire ma vie,
+Je viens rendre à ses vœux l'une & l'autre asservie,
+Et mettre entre ses mains un trésor pretieux,
+Un bien incomparable, un frère !
+
+      Que crains-tu ?
+
+Je sçay que sa grandeur a passé⁎ l'ordinaire,
+Et fait trop d'appareil⁎ pour recevoir un frère.
+Mais certes tous ces gens⁎ que j'ay vus de mes yeux
+Amy, ne songent pas que je sois en ces lieux :
+Ces trouppes que tu dis cherchent dedans la pleine
+Celuy que tu vois seul avecque Lycostene.
+
+Ce superbe appareil⁎ à mon exil contraire
+Eust offencé mes yeux plustost que de leur plaire ;
+Inconnu m'esquivant par un autre chemin,
+J'ay fuy de leur présence, & suivy mon destin :
+Ainsi tu me vois seul.
+
+      Ah faveur impreveuë !
+Je veux pour le surprendre accompagner tes pas.
+
+Soit, je l'attends icy.
+
+Ainsi sous la beauté du lys & de la rose,
+Et l'espine se cache, & le serpent repose.
+
+      Que veux-tu ; sans dessein
+Je nourris le Vaultour qui me ronge le sein⁎ :
+Peut-estre je me plonge en une erreur extrême,
+Et je suis sans raison ennemy de moy-mesme,
+Puis que dans les faveurs qu'aujourd'huy je reçoy⁎,
+Mon trouble semble injuste, & ne vient que de moy,
+Je l'advouë, il est vray, mais de quelque advantage
+Dont le destin m'oblige⁎ & flate⁎ mon courage⁎,
+Je le veus, & ne puis esloigner de mon cœur
+Les trais⁎ que je ressens d'une injuste langueur :
+Asseuré je crains tout, & mon ame agitée
+Par de troubles⁎ secrets se voit espouvantee.
+
+Lycostene, voy-tu dans ce tableau,
+Il semble que le ciel par un secret nouveau
+Ayt fait peindre mon sort, regardez-en l'image.
+
+      N'en dis pas advantage :
+
+En vain pour eschapper ce prince s'esvertuë :
+Voy comme en le baisant ce perfide le tuë.
+
+Vostre amour m'a vaincu, je suis sans résistance ;
+Si vous estiez moins doux, je serois sans offence⁎.
+En excusant ma faute un Dieu seroit pour moy,
+Et mon ame forcée auroit suivy sa loy ;
+Le Ciel à m'assister se rendrait favorable,
+Si vostre excez d'amour ne me faisoit coulpable.
+Mais puis qu'à mon malheur pour estre criminel,
+Il suffit seulement que vous m'avez creu tel ;
+Il n'est point de forfait dont je ne sois complice,
+J'ay plus que d'une fois mérité le supplice,
+Et sans la pieté⁎ que vous avez pour nous,
+Je ne meritois pas un traictement si doux.
+Je l'implore, mon frère, & si mes justes larmes
+Manquent pour l'attirer de puissance & de charmes,
+Par ces pieds que j'embrasse⁎, & ce front glorieux,
+Perdez le souvenir de mon crime odieux,
+Octroyez un pardon qu'un frère vous reclame.
+
+Que le Ciel recompense un Monarque invincible :
+Mais à tous vos presens mon cœur est insensible :
+Ce front couvert de honte, & plein d'estonnement⁎,
+Ne sçauroit plus porter un si digne ornement :
+Cette main fuit le sceptre, & mon cœur solitaire
+Parmy tant de grandeurs commence à se desplaire.
+
+Le Royaume est à moy quand vous le possédez.
+
+      Celuy qui connoist la fortune⁎ :
+Qui sçait son mouvement, & son cours incertain ;
+Aujourd'huy flatte⁎-t-elle, elle trahit demain.
+
+Vostre gloire est parfaite, & mon ame est contente⁎
+
+Ce faiz⁎ est trop pesant, je ne m'en puis charger.
+
+Je l'accepteray donc : mais quoy que je la tienne,
+Ne pensez-pas mon frère, avoir un autre Roy,
+Vous seul commanderez, je suivray vostre loy.
+
 
 Destin, que tes coups⁎ sont secrets,
 Qu'ils trompent nostre prévoyance,
@@ -2532,79 +1176,30 @@ Et je croy qu'il m'annonce encores des malheurs.
 Et bien, suivons ces loix qu'on ne sçauroit enfraindre,
 Tu t'avises trop tard, il n'est plus temps de craindre.
 
-**** *book_ *id_V04 *act_ *date_1638 *creator_monleon
-
--*who_thyeste
 Approche cher Criton, & pour m/obliger⁎ mieux
 Parle avec ta bouche, ainsi qu'avec tes yeux ;
 Si je ne me deçoy⁎, je lis en ton visage
 Les marques & les trais de quelque heureux⁎ présage :
 Le Roy repose-t-il ?
 
--*who_criton
-      Mais vient-il en ces lieux
-Verser avecque vous ce que l'on doit aux Dieux ;
-Boire le dernier coup⁎, 
-
--*who_thyeste
       Ah faveur incroyable !
 La Reyne le suit-elle ?
 
--*who_criton
-      Elle est encore à table.
-
--*who_thyeste
 L'a-t-on fait advertir que j'estois à la Cour ?
 
--*who_criton
-Le Roy pour la surprendre a tu vostre retour.
-
--*who_thyeste
 La verrons-nous bien tost ?
 
--*who_criton
-      Il veut que Lycostene
-Pour augmenter sa joye, en augmentant sa peine⁎,
-Luy dise qu'on ne peut vous voir encore icy :
-Si vous le permettez,
-
--*who_thyeste
       Et je le veux aussi,
 Allez donc pomptement faire ce qu'on désire :
 Voyez ces doux objects⁎ pour qui mon cœur soûpire,
 Dites leur que le sort est devenu plus doux,
 Qu'il travaille pour eux : mais le Roy vient à nous.
 
-**** *book_ *id_V05 *act_ *date_1638 *creator_monleon
-
--*who_atree
-Puis que dans les faveurs que le Ciel nous envoyé,
-Aujourd'huy tout nous parle &. d'amour &. de joye,
-Que tout porte nos cœurs à ces ressentimens⁎,
-Cher frère, par l'excez de nos contentemens,
-Et par les doux plaisirs où le sort nous appelle,
-Rendons de ce beau jour la mémoire éternelle ;
-Finissons nos malheurs, & goustons désormais
-Les aymables douceurs d'une immortelle paix.
-
--*who_thyeste
 Ma gloire est sans seconde, & vostre grâce extrême :
 Mais pour faire aujourd'huy que tout en soit de mesme
 Et rendre nos plaisirs de nos maux triomphans,
-Que la Reyne mandée⁎ ameine ses enfans. 
+Que la Reyne mandée⁎ ameine ses enfans.
 
--*who_atree
-Noble ressentiment⁎, affection⁎ d'un père,
-Vous voulez vos enfans, vous les aurez mon frère,
-Jamais ils ne seront de vos bras arrachez ;
-Ces objets⁎ à vos yeux ne seront point cachez,
-Et baisant à louezir leur aymable visage,
-Vous vous en soullerez⁎ : mais tandis que ce Page,
-Ira leur tesmoigner quel est vostre dessain :
-Noyons tous nos soucis, prenons la couppe en main,
-Renouvelions l'amour que le Ciel renouvelle.
-
--*who_thyeste
 Acceptons le présent d'une amour⁎ fraternelle,
 Et versons dans ces lieux qui serviront d'autels,
 Les honneurs que l'on doit aux mânes paternels.
@@ -2616,12 +1211,8 @@ S'esloignent de mon cœur ; ce tremblement de terre
 M'est l'augure certain de quelque horrible guerre :
 Les Astres retirez laissent le firmament.
 Ah grand Dieu ! sur ce corps vengez-vous seulement,
-Pardonnez aux enfans, rendez-moi ces doux gages. 
+Pardonnez aux enfans, rendez-moi ces doux gages.
 
--*who_atree
-Vous aurez dedans peu ces précieux hostages.
-
--*who_thyeste
 Las ! qui dedans mes sens⁎ excite tant de flots,
 Quel secret desplaisir⁎ trouble⁎ ainsi mon repos⁎ ?
 Sous le fais⁎ des douleurs mon ame est abbatuë,
@@ -2632,11 +1223,6 @@ Merope, chers enfans, de vostre seule veuë
 Despends la guerison du regret qui me tuë.
 Mais d'où me parlent-ils ?
 
--*who_atree
-      Que ne tends-tu les bras ?
-Ils sont desja venus ne les connois⁎-tu pas ?
-
--*who_thyeste
 Je reconnois mon frère, ame noire &. perfide ;
 Terre, peux-tu souffrir⁎ ce cruel homicide ?
 Que n'ouvres-tu ton sein⁎ afin de l'engloutir :
@@ -2652,12 +1238,6 @@ Sont pour nous chastier de trop foibles tormens⁎ :
 Mais tout à mon malheur insensible demeure,
 Je le vois, & le Ciel ne veut pas que je meure.
 
--*who_atree
-Mon frère que ton cœur soit un peu plus remis ;
-Tu veux tes chers enfans, je te les ay promis :
-Reçoy sans différer l'effet⁎ de ma promesse.
-
--*who_thyeste
 Voila les noirs effets⁎ d'une ame vengeresse,
 D'une haine brutale ; & d'un Prince sans foy⁎.
 Je ne demande pas ce qui fait contre toy,
@@ -2666,19 +1246,9 @@ Mais de ces innocens le reste desplorable⁎ :
 Non point pour conserver ce trésor précieux,
 Mais afin de le perdre, & le perdre tes yeux.
 
--*who_atree
-Ton ame injustement contre ma foy⁎ déteste,
-Tu vois ce que j'en ay, tu tiens tout ce qui reste.
-
--*who_thyeste
 Sont-ils point les repas des loups et des corbeaux ?
 Ou les reserve-t-on à des monstres nouveaux ?
 
--*who_atree
-Pourquoy veux-tu sçavoir ma vengeance & ta rage ?
-Tu les viens de manger, en veux-tu davantage ?
-
--*who_thyeste
 Et c'est là le sujet qui force tous les Dieux
 De s'esloigner de nous, & de quitter ces lieux,
 Et qui changeant le jour en une nuict obscure,
@@ -2708,100 +1278,25 @@ Quel père fut jamais à ce point malheureux ?
 J'ay mangé mes enfans ? horreurs ! forceneries⁎ !
 Tu te pouvois venger par de moindres⁎ furies⁎.
 
--*who_atree
-Si je t'avois puny moins rigoureusement,
-Ma vengeance serait sans son contentement :
-Je n'ay fait qu'à demy ce que je voulois faire :
-Il falloit, il falloit, pour soulier ma colère,
-Et pour plaire aux transpors⁎ qui me vont assaillant,
-T'enyvrer de leur sang tout fumeux & bouillant,
-Leur livrer à tes yeux milles nouvelles géhennes⁎,
-Et les faire passer tous vivans dans tes veines.
-Mais tous ces vains propos, & si remplis d'horreurs,
-Ne sont que les tesmoins de ma juste fureur.
-J'ay moi-mesme arraché le cœur à ces infames ;
-J'ay moi-mesme allumé les charbons et les flames,
-Sur qui j'ay vu rostir les mets qui t'ont repu ;
-Un père l'eust mieux fait, mais il ne s'est pas pu,
-Et de ce doux plaisir ma vengeance est frustrée.
-Il est vray que soullant⁎ sa faim démesurée,
-Lui-mesme a deschiré ces morceaux delicats ;
-Mais c'estoitsans douleur ne les connoissant⁎ pas.
-
--*who_thyeste
 Apres ces actions & ces desseins funestes⁎
 Serois-tu pas sans cceur d'en laisser quelques restes ?
 Soulle-toy de ton crime, & l'achevés⁎ sur moy.
 
--*who_atree
-Non, ton juste remors me vengera de toy,
-Et ton regret qui va jusqu'où j'avois envie,
-D'un excez de plaisir rend mon ame ravie⁎ :
-J'estois vaincu, Thyeste estant moins affligé,
-Et sans cette douleur, je n'estois pas vengé.
-Tes pleurs et tes soupirs me donnent la victoire,
-De ton cceur abbatu je voy naistre ma gloire,
-Et ton affliction apporte à tous momens,
-A mes ennuis⁎ passez mille soulagemens.
-J'estime⁎ ma valeur, & croy qu'on me redonne
-Plus qu'on n'avoit ravy d'honneur à ma couronne.
+Ah Merope !
 
--*who_thyeste
-Ah Merope ! 
-
--*who_atree
-      Il est vray qu'avec juste raison
-Tu la peux accuser de cette trahison,
-Elle les a perdus mais voy comme la peine⁎
-A suivy le forfait de cette ame inhumaine.
-
--*who_thyeste
 Demon⁎ noir & sanglant.
 
--*who_atree
-      Adjouste à ce discours⁎
-Le juste punisseur de tes lasches amours.
-
--*who_thyeste
 Détestable assassin, qu'avoit fait l'innocence
 Pour souffrir⁎ d'une telle vengeance ? Des enfans,
 
--*who_atree
-Que la mort met hors de mes liens. 
-
--*who_thyeste
 Estoient-ils criminels ?
 
--*who_atree
-      Non : mais ils estaient tiens.
-
--*who_thyeste
 Mets triste⁎ & furieux⁎, estrange⁎ nourriture.
 
--*who_atree
-Mais l'unique moyen de venger mon injure.
-
--*who_thyeste
 Grands Dieus, vangés pour moy cet horrible repas.
 
--*who_atree
-Et les Dieux de l'Hymen⁎ ne me vengent-ils pas ?
-
--*who_thyeste
 Qui compensa jamais un crime par un crime ?
 
--*who_atree
-Moy, moy ; mais ce n'est pas la cause légitime
-Du despit⁎ furieux⁎ qui trouble tes esprits ;
-Tu voulois prendre Atree, &. c'est luy qui t'a pris :
-Tu voulois le premier exposer sur sa table
-Ce présent gratieux, ce mets incomparable ;
-Et ta douleur n'est pas de l'avoir dévoré,
-Mais de voir ce repas sans l'avoir préparé :
-Tu t'en es retenu le croyant à Thyeste,
-Et tu n'as pas songé qu'il estoit d'un inceste⁎. 
-
--*who_thyeste
 Quel père fut jamais en l'estat où je suis ?
 Toy seul des immortels qui connois mes ennuis⁎,
 Et qui vois de mon sort la violence extrême,
@@ -2833,15 +1328,965 @@ Je chéris des objets⁎ qui me sont effroyables.
 Merope, Enfans, Amour, quel est mon desespoir,
 Je ne vous puis quitter, & je ne vous puis voir.
 
--*who_atree
-Et bien, ne vois-tu pas l'effet⁎ de mes promesses ?
-Soulle-toy, soullez-les de tes douces caresses.
-
--*who_thyeste
 Dieux qui voyez l'horreur d'un crime si nouveau,
 Je vous laisse à punir cet infâme bourreau.
 
--*who_atree
-Contant d'avoir porté ma vangeance à l'extrême,
-Je laisse à tes enfans à te punir toy-mesme.
-FIN
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_merope
+
+Vous faites son destin, Monarque genereux⁎,
+Il peut vivre contant, ou vivre malheureus,
+Ordonnez son retour, commandez sa retraitte⁎.
+
+Que ces ressentimens⁎ & ces traits⁎ amoureus
+Procèdent bien d'un cœur Royal & genereus⁎ ;
+Que par cette action vostre gloire s'augmente.
+Mais ô Roy sans pareil, j'aurois l'ame contente⁎
+Si ces deux innocens que l'on fait appeller,
+Dont le plus raisonnable à peine⁎ sçait parler,
+Ne pouvant exprimer ce que Thyeste endure,
+Pouvoient dessus⁎ leur front en porter la peinture,
+Vous verriez son esprit cruellement pressé⁎
+Par les cuisans remors dont il est traversé,
+Souffrir⁎ mille langueurs, vivre en impatience⁎,
+Faire une mer de pleurs, y laver son offence⁎,
+Et reclamer au nom d'une saincte amitié⁎,
+Avecques son pardon vostre extrême pitié.
+
+Ne les voyez-vous pas qui s'en viennent à vous ?
+Embrassez⁎ chers enfans, embrassez⁎ les genous
+Du plus juste des Roys, & du plus pitoyable⁎ :
+C'est luy qui veut changer cet estât misérable,
+Où l'exil & le sort vous avoient confinez.
+C'est luy de qui l'Amour rend vos jours fortunez⁎,
+Et qui pour relever désormais vostre gloire,
+Emporte sur luy-mesme une belle victoire ;
+Et vous promet un sort digne de vos ayeus,
+Demandez-luy pardon de la langue ou des yeus.
+
+Ces excez de faveurs qui vous sont ordinaires,
+Sont pour des criminels de trop amples salaires.
+Parlez, parlez enfans.
+
+Dans l'excès des plaisirs où je me voy plongée,
+La fortune⁎ à mon gré si promptement changée,
+Et son ame inconstante en tous ses mouvemens,
+Me fait appréhender de soudains changemens.
+Qu'en dittes-vous, Melinthe ?
+
+Que le Sceptre, Melinthe, est une chose aimable !
+
+      Cet estât desplorable⁎
+Sous lequel aujourd'huy le sort nous a soubmis,
+Me deffend d'espérer.
+
+Il est entre ses mains bien mieus qu'entre les nostres.
+
+Donc c'est pour vous, enfans, que l'on l'a préparé,
+Par vous nostre malheur aujourd'huy terminé,
+A nos longs desplaisirs⁎ fait succéder la joye :
+Thyeste a son pardon, & le Ciel nous l'envoyé,
+Vous estes dans mes bras, dous excès de plaisir ;
+Il faut que je vous baise & rebaise à louesir,
+Que ma lèvre se colle à vostre lèvre humide,
+Et que pour satisfaire⁎ à mon cœur plus avide,
+Vous donnant mon esprit, j'expire doucement,
+Et que vous me donniez le vostre esgallement.
+
+Vous ne me dittes mots, petites créatures :
+Parlez-moy de Thyeste, où l'avez-vous laissé ;
+Vous a-t-il dit adieu, l'avez-vous embrassé⁎ ?
+
+      Il faut donc à mon aise⁎
+Que pour luy mille fois aujourd'huy je vous baise,
+Mais ils s'en vont à toy ?
+
+Dieux que ces fruits sont beaux, chacun les veut avoir,
+Donne moy ce présent, j'en feray le partage,
+A qui dois-je des deux en donner davantage,
+Aux deux esgallement ayant donné le jour :
+Si Theandre a mon cœur, Lysis a mon amour,
+Toutefois un désir plus avant dans mon ame,
+L'emporte dans les lieux, où s'envole ma flame.
+Que faict mon cher Thyeste, où le laissastes-vous ?
+
+Songe-t- il à Merope ?
+
+Ah Prince sans pareil ! que ton amour extrême
+Mérite d'autres vœus que ceux que tu reçois :
+Bons Dieus ! pouvois-je faire un plus louable chois :
+Mais je ne puis souffrir⁎ sa trop longue demeure.
+
+O trois & quatre fois favorable retour !
+
+      Ah ! lamentable jour.
+Détestables faveurs.
+
+A quelle fin grands Dieus reservez-vous mon ame,
+Quelle est vostre justice, & quels sont mes mal-heurs,
+Pourquoy ne puis-je pas partager mes douleurs,
+Ah Lysis ! mais où vais-je, ah ! rigueur trop cruelle,
+Je cours à toy Lysis, & Theandre m'appelle,
+Ah Theandre ! ah Lysis ! dous objets⁎ de mes voaus,
+Amour en mesme temps m'appelle à tous les deus,
+Et mon nouveau malheur en ce poinct est extrême,
+Que je ne puis choûésir des deux celuy que j'ayme.
+
+      A fascheuse⁎ apparence⁎ !
+Espoir foible & cruel ?
+
+Helas ! que mes malheurs sont bien fort manifestes
+Que verray-je de plus dans ces objects⁎ funestes⁎
+Que l'effet⁎ d'une haine, &. l'horreur du poizon
+Que ma perte asseuree, & que ta trahison.
+Justes Dieus qui voyez une ame si perfide,
+Vengez, vengez pour moy ce cruel homicide ?
+
+      Monarque glorieux,
+A qui tout l'Univers doit eslever des Temples,
+Et de qui les vertus⁎ n'eurent jamais d'exemples.
+
+Apres tant de lauriers, de palmes & de gloire,
+
+Il est vray, deux enfans dedans vostre maison
+Ont ressenty l'effort⁎ d'un funeste⁎ poison ;
+Aussi tost arrivez une main desloyalle
+A souillé de ce crime une maison royalle.
+
+Ah prudence incroyable ! Ah Justice de Roy !
+
+Vengez vos héritiers !
+
+Ah grand Prince ! ah Merope ! ah response funeste⁎ !
+Vous les avez receus au pardon comme nous.
+
+Helas ! ils ne sont plus, & leur sort vous demande.
+
+      Que mon ame appréhende,
+Et conçoit à ces mots de crainte & de soupçons.
+Justes Dieus ?
+
+Vous Testes, & mon cœur n'en a jamais doubté,
+Je ne l'ay que trop veu par l'extrême bonté
+Dont tant de criminels ont fait l'expérience :
+Mais ces deux Princes morts vous demandent vengeance.
+
+Dois-je avoir de l'espoir ?
+
+Las par combien de morts mon ame est deschiree !
+
+Il est vray, je la suis, mes estranges malheurs
+Me le monstrent assez, & mes vives douleurs
+De l'autheur de mon mal me rendent asseuree.
+
+Mais un Tygre ?
+
+Qu'estes-vous devenue, Inviolable foy⁎ ?
+
+Il falloit, il falloit pour paroistre équitable,
+Sauver les innocens, & perdre la coulpable
+Ces victimes estoient indignes de vos cous.
+
+Oyez terres ! Oyez ce désir tyrannique !
+Escoutez les fureurs⁎ d'une ame frénétique.
+
+Détestable assassin.
+
+Il n'en faut plus doubter, ce tyran furieux⁎
+Est le seul instrument de ce crime odieux !
+Sa rage a commencé ce dessein si funeste⁎,
+Afin de l'achever⁎ par la mort de Thyeste.
+Divertissons⁎ ce coup⁎, & ne permettons pas
+Qu'il triomphe jamais d'un si noble trespas ?
+Merope, c'est à toy d'en esviter l'orage :
+C'est toy qui l'as perdu. Mais ô Dieux, quelle rage
+S'obstine incessamment contre des malheureux ?
+Las ! pour te secourir je n'ay rien que des vœux,
+Tous ces lieux sont fermez, je n'ay point de passage,
+Je manque de pouvoir, mais non pas de courage,
+Insolentes fureurs du sort qui m'est fatal⁎ :
+Quoy, me reservez vous encor à quelque mal ?
+Mon exil n'a-t-il point contenté vos caprices⁎ ?
+Est-il pour me punir de plus cruels supplices,
+Apres avoir trahy Thyeste &. mon amour,
+Estouffé⁎ deux enfans que j'avois mis au jour.
+Avez-vous, avez-vous quelque chose de pire
+Pour me faire souffrir⁎ tandis que je respire.
+J'ay veu de mes deux yeux ces objects⁎ estendus,
+Sans pous, sans mouvement, & je les ay perdus,
+Et je ne suis pas morte ? Ah mère détestable,
+Que ton impieté⁎ te rend abominable !
+Tu survis à ce coup⁎ plein de rage & d'horreur,
+Tu manques de courage en ta juste fureur :
+Apres avoir commis un si grand parricide,
+Contre qui pouvois-tu te monstrer plus perfide ?
+Ah nature ! ah pitié que faisiez-vous alors ?
+Que ne m'assistiez-vous avec tous vos efforts,
+Pour ne survivre pas à l'action cruelle,
+Ne me trouviez-vous pas encores criminelle,
+Falloit-il adjouster à mon crime odieux,
+La mort de mon Thyeste & le mespris des Dieux ?
+Et premier⁎ que ma mort expiast mon offence⁎,
+Me faire reconnoistre Atree & sa vengeance.
+M'exposer aux fureurs⁎ de ce Tygre inhumain,
+Du sang de mes enfans ensanglanter ma main,
+Perdre des innocens, destruire mon ouvrage,
+Ah Dieux ! fut-il jamais une pareille rage ?
+Mais vous à qui ce bras a servy de bourreau,
+Devois-je en vous perdant faire un crime nouveau ?
+Et falloit-il qu'un Roy pour se rendre effroyable,
+Vous perdist par ma main, & sauvast la coulpable ?
+
+Ce grand Roy, dont le cœur & lasche & furieux⁎,
+Horreur de la nature & la haine des Dieux,
+Nous assouvy du sang d'une tendre jeunesse,
+Veut encor esprouver mon cœur & sa foiblesse :
+Fidelles⁎ confidens de cet empoisonneur,
+Qui venez à dessein de tenter mon honneur,
+Dittes-luy que j'auray dans ce malheur extrême,
+La resolution qu'il doit avoir luy-mesme.
+
+Et c'est cette raison qui doit à cet infâme
+Faire voir en mes maus les bourreaux de son ame.
+
+Un moment, un moment me pourra secourir.
+Un seul coup⁎ finira ma vie avec ma peine⁎.
+
+Objects⁎ doux & charmans, presens incomparables,
+Qui devez terminer mes maux insupportables,
+Favorable ennemy, Monarque glorieux,
+Qui fais pour mon repos⁎ autant que tous les Dieux.
+Tu sçays qu'après ces morts je ne sçaurois plus vivre,
+Que mon amour m'invite, & m'oblige⁎ à les suivre,
+Et que pour mieux punir ma lasche trahison,
+Ainsi qu'eux je devois finir par le poison.
+Il le faut, je le dois, ça, prenons ce breuvage ?
+En retardant son coup⁎ j'offence mon courage.
+Mais soyez les tesmoins comme je le reçoy⁎,
+Voyez avec quel front⁎ & quels yeux je le boy,
+Et dittes à ce Roy dont je foulle la haine,
+Que Merope mourant, mourut comme une Reyne.
+Le voila ; c'en est fait, il est victorieux,
+Et mon esprit contant va sortir de ces lieux.
+Allez luy rapporter de si douces nouvelles,
+Je vay suivre les pas de ces ombres fidelles⁎.
+Enfans je suis à vous, attendez un moment,
+Thyeste me retarde en ces lieux seulement.
+C'est moy qui t'ay perdu, c'est ta seule Merope,
+Qui dedans ses malheurs aujourd'huy t'envelope.
+Ah trop crédule amant ! j'expie en ce trespas
+Tous mes forfaits passez, & ne te sauve pas.
+Contre toy leur furie⁎ ose tout entreprendre,
+On m'oste les moyens de te pouvoir deffendre.
+Espere toutesfois, mon esprit hors du corps,
+Premier⁎ que de passer au Royaume des morts,
+Où que tu sois, Thyeste, ira joindre ton ame,
+Et te rendre les vœux de sa dernière flame.
+Il s'en va, c'en est fait, Ministres généreux⁎,
+Monstrez-moy mes enfans, que j'expire sur eux ;
+Vous ferez à Merope un agréable office⁎,
+Et vous augmenterez l'horreur de son supplice.
+Fin du troisiesme Acte.
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_melinthe
+
+Tous les maus où me peut condamner sa justice,
+Et tout ce qu'a l'enfer d'horreur & de supplice.
+
+Grand Prince, si ma vie asseure⁎ la couronne,
+Vous me l'avez donnée ; & je vous la redonne ;
+Melinthe treuvera⁎ son supplice fort dous,
+Et ne peut mieus mourir, que de mourir pour vous.
+
+Ses pleurs &. ses soupirs ont de vostre colère
+Estaint tous les flambeaus.
+
+J'appréhende, Grand Roy, ce funeste⁎ dessein,
+
+La mort pour vous servir me seroit glorieuse
+Mais ô vous qui portez une ame généreuse⁎,
+Domptez ces passions qui domptent vostre cœur ;
+Faites les actions⁎ d'un Prince & d'un vainqueur.
+
+Que peut pour vous, grand Prince, une main imbecille⁎.
+
+      O Justes Dieus !
+
+Que cette cruauté me semble détestable.
+
+Grand Roy !
+
+Dieus quel commandement, quel barbare⁎ courage !
+Pour esteindre le feu⁎ de son ardente rage,
+Doibs-je souiller mes mains d'un horrible trespas,
+Perdre des innocens, non je ne le dois pas ?
+Et de quelque grandeur dont on flatte⁎ mon ame,
+Je ne sçaurois tremper dedans ce crime infâme,
+Il est trop odieus. Toutesfois que dis-tu,
+En quelle extrémité te porte ta vertu⁎ :
+Tu les veus guarantir⁎ de ce mal-heur extrême ;
+Et tu ne le sçaurois sans te perdre toy-mesme :
+Tu crains que sa fureur ne les fasse mourir,
+Et crains de te sauver en les faisant périr.
+En cet estât fascheus⁎ où tout m'est si contraire,
+Honneur, ambition, crainte, que dois-je faire,
+Ma perte, ou vostre mort doit contenter le Roy :
+J'ay du zèle pour vous, mais de l'amour pour moy.
+Il est vray que l'horreur de ce coup⁎ m'espouvente
+Mais aussi mon trespas à mes yeux se présente
+Horrible, espouventable, & tel que mes espris
+De crainte & de frayeur entièrement surpris
+Pour esviter l'abord⁎ de ce monstre effroyable,
+Consentent aus effets⁎ d'un acte abominable,
+Mourez Princes, mourez, un interest plus fort
+Pour conserver ma vie ordonne vostre mort.
+Mais j'apperçoy, Criton, qui vient pour me surprendre,
+Contre un si noir dessein, feignons de nous deffendre :
+Et que forcée en fin, mais avec de l'effroy,
+On entreprend ce coup⁎ pour contenter le Roy
+
+Le voila près de nous.
+
+      Dangereuse victoire ?
+
+      Et par le mesme sort
+Que je l'auray fait mien, je mérite la mort.
+
+Refusant à ce Roy de suivre ses transpors⁎,
+Je change seulement en une mille morts.
+
+Outre le desplaisir⁎ d'un remors éternel,
+Un supplice qui suit par tout le criminel.
+
+C'est là que ma douleur sera démesurée,
+Où personne n'osant m'attaquer en effet ;
+J'ay l'infortune⁎ à craindre, & ce que j'auray fait.
+
+Dittes plustost l'horreur d'un homicide infame.
+
+      Inévitables loys.
+
+Grand Roy, pardonnés-moy si mes sens⁎ appréhendent
+A porter cette mort, elle a de la terreur,
+Et mon esprit craintif redoutte sa fureur :
+Donne-moy ce présent.
+
+Je m'en vay le treuver⁎.
+
+      Apres de longs supplices,
+Les biens les plus communs nous semblent des délices.
+La misère, l'exil, & tant de maus souffers
+Vous font trouver tout dous au respect de vos fers⁎.
+Mais si vous regardés quel est cet advantage,
+Vous verrez que le Ciel ne fait que le partage
+D'un sceptre qui devoit tomber entre deux mains,
+Et qu'il veut le repos⁎ de deux frères germains⁎.
+
+Vous le posséderez,
+
+      Le Roy vous l'a promis.
+
+Il veut vous le donner pour vous & pour les vostres.
+
+De ses plaisirs perdus, elle prend les usures.
+
+      Je les puis recevoir.
+
+Madame, icy Madame !
+
+Madame, ces transpors⁎ ne sont pas de saison,
+Avecque vos enfans vous perdez la raison,
+Songeons à leur salut, leurs pous donne espérance
+De quelque guarison⁎.
+
+      Avec tous ces discours⁎,
+Nous resterons icy sans force & sans secours.
+
+Emportez ces enfans dans la chambre prochaine,
+Vous sçaurez leur malheur : Madame suivez-les,
+De tout cet accident⁎ vous verrez le succez⁎.
+
+Vous m'accusez à tort : mais le temps ne veut pas
+Que je me justifie : Allez, suivez leurs pas :
+Je cours au Médecin.
+
+      Ces véritables plainte⁎
+Donnent à mon esprit de sensibles⁎ atteintes⁎.
+Et quelque advantageus que me soit ce forfait,
+Je sens⁎ secrètement⁎ que c'est moy qui l'a fait :
+Un remors dans le cœur va m'objectant sans cesse,
+Que j'ay trahy ma foy⁎, trahissant ma Princesse.
+Mais que mon repentir me semble furieus⁎ :
+Je les ai veus mourir tous deux devant mes yeus.
+Par leur mort seulement j'ay conservé ma vie :
+Par leur mort j'ay repris ma liberté ravie,
+Et ces enfans perdus asseurent mon repos⁎.
+La volonté d'un Prince est de tous mes complos
+C'est luy qui m'a portée à ce cruel office⁎ ;
+C'est luy qui doit payer mon fidelle⁎ service,
+La coronne m'attend après ces beaux desseins,
+Je veus que ces effets⁎ se trouvent inhumains,
+Que je passe par tout pour ingrate & perfide,
+Et que mon crime soit pire qu'un parricide,
+Un diadesme⁎ peut couvrir⁎ tous mes deffauts⁎,
+On feroit pour régner mille fois plus de maux,
+Et ce coup⁎ en tout cas n'est que trop légitime,
+Pour que je ne préviens que Merope en son crime.
+Fin du Second Acte.
+
+Vivez grand Roy, vivez, la victoire est à vous ;
+Ma main sans redouter ce sanglant sacrifice
+A généreusement⁎ achevé⁎ son office⁎.
+
+      Ouy.
+
+      Ils sont morts.
+
+Des yeux que la douleur noyoit dedans leurs larmes.
+
+      Tous tels qu'en ces allarmes
+Arrache malgré nous par ses effors puissans,
+La Rage qui maistrise & le cœur & les sens⁎.
+
+Elle mesme.
+
+A propos.
+
+Voyant ses deux Soleils dedans leur occident.
+
+      Son amour partagee
+Fit voir comme à tous deux elle estoit engagée
+Et que le sang faisoit une commune loy.
+Elle alloit vers Theombre, & puis couroit à moy ;
+S'arrestoit incertaine, & son cœur & son ame
+Brusloient pour tous les deux d'une pareille flame.
+
+Sire, vous le sçaurez tantost plus à louesir.
+Je fus au Médecin pour me retirer d'elle.
+Criton vit le spectacle.
+
+Que vous reste-t-il plus ?
+
+Melinthe cependant sera-t-elle inutile ?
+
+Où dois-je donc aller ?
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_criton
+
+Quel trouble furieux⁎ agite un si grand Roy ?
+
+Craignez qu'un bruit fascheus⁎ volant par la province.
+Ne trouble le respect que l'on doit à son Prince.
+
+A suivre absolument ce qu'ils ont projette
+Ils forcent bien les corps, mais non la volonté.
+Autant que sa fureur fait un Roy redoutable,
+Autant sa courtoisie à tous le rend aimable.
+Ses noires actions font naistre son mespris,
+Et sa seule douceur luy gaigne⁎ les espris.
+
+Un règne est mal fondé dessus⁎ la tirannie,
+Et ce grand bastiment tombe bien-tost à bas,
+Quand l'honneur & la foy⁎ ne le soustiennent pas.
+
+      Dieus qu'il est inhumain
+Contre un frère.
+
+Grand Roy je suis à vous, disposez de mon bras,
+
+      La mort est plus certaine.
+
+Auriez-vous jusques-là le cœur impitoyable ?
+
+Mais à quoy pensez-vous ?
+
+Voulez-vous par le fer⁎ en tirer la vengeance ?
+
+Le feu⁎ suffira-t-il ?
+
+Où le trouverez-vous ?
+
+Quel est donc ce tourment⁎ si grand & si funeste⁎ ?
+
+A vous oùir parler il faut qu'il soit horrible ?
+
+Vous en voulez beaucoup : mais comment l'atrapper ?
+
+Thyeste contre vous a trop de deffiance.
+
+Peut-estre que la Reyne abuse vostre esprit.
+
+      Je plains son infortune⁎.
+
+La fera-t-on mourir ?
+
+Elle les aime trop.
+
+      En fin belle Melinthe,
+Vostre esprit genereus⁎ aura chassé la crainte
+Qui jettoit dans vos sens cette vaine terreur :
+Ces fruis vous feront-ils encore de l'horreur ?
+C'est par eus que se doibt establir⁎ vostre gloire,
+Et par eus vous vaincrés.
+
+Le Sceptre vous attend.
+
+Vous vous perdez, Melinthe, & refusant Atree,
+La mort que vous craignez vous est fort asseuree.
+
+Ces fruis empoisonnés pouvant d'un coup⁎ esteindre
+Merope, & ses enfans, qu'avés-vous plus à craindre.
+
+Dans le trosne d'un Roy vous estes asseuree.
+
+Une vaine terreur se glisse dans vostre ame.
+
+On doit suivre en tous points la volonté des Roys,
+Ce qui leur plaist est juste.
+
+Faites donc une fois ce qu'elles vous commandent.
+
+      Courage⁎ magnanime,
+Immolés, immolés cette douce victime
+Qui nous doibt apporter la victoire & la pais
+Mais en impatience il est dans le Palais,
+Qui veut sçavoir de vous sans aucune remise,
+Si vous accepterez cette belle entreprise.
+
+      Vous ferez sagement ;
+Ce Prince n'attend plus que ce contentement :
+Accordez sans contrainte à son ame agitée,
+Ce qu'elle veut de vous pour estre contentée.
+
+Si la gloire des Roys a quelque dous appas,
+Leur vie a des rigueurs que l'on ne connoist pas,
+Leur grandeur est un roc que la nature mine.
+Leur sceptre est de roseau, leur coronne est d'espine :
+Leurs coeurs sont traversés d'incroyables ennuis⁎.
+S'ils ont quelques beaus jours, ils souffrent⁎ mille nuis :
+Les soubçons, les terreurs, les vengeances, les rages,
+Sans cesse font en eus de furieus⁎ orages.
+Heureus de qui l'esprit vit sans ambition :
+Il est Roy véritable, & sa condition⁎
+Hors de tous les mal-heurs d'une vie importune,
+Surpasse des grands Roys la gloire & la fortune⁎.
+
+      Cher Lycostene.
+
+Fassent les dieus puissans, fidelle⁎ Lycostene,
+Qu'un éternel repos⁎ succède à vostre peine⁎,
+Et qu'après les erreurs⁎ d'un long bannissement,
+Vous treuviez⁎ en ces lieus un plus dous élement.
+
+Il est trop genereux⁎ pour manquer à sa foy⁎.
+
+Justes Dieux, comme tout succède à nos désirs !
+Mais sont-ils esloignez ?
+
+Et Thyeste les suit ?
+
+Ah fortuné⁎ succez⁎ ! incomparable jour,
+Allons treuver⁎ mon Prince, on ne peut davantage
+Sans crime luy celer un si plaisant message.
+Fin du premier Acte.
+
+Amy pardonnez-moy si j'ay trop demeuré.
+
+Ravy par les transpors⁎ de son amour extrême,
+Ce Prince en m'escoutant presque hors de soy-mesme,
+M'engagea⁎ mille fois dans le mesme propos.
+Et je leus dans ses yeus l'espoir de son repos⁎.
+
+      Autant qu'on le peut estre
+Et l'excès du plaisir qu'il me faisoit paroistre
+S'imaginant d'avoir ces enfans en depost,
+M'a tenu si long-temps.
+
+Connoissés doncq l'excès d'une Amour⁎ fraternelle,
+Jugés de ses plaisirs par son ravissement,
+Et sçachez que l'objet⁎ de son contentement
+Consiste à caresser⁎ un frère qu'il adore.
+
+      Luy-mesme veut-encore
+Vous le dire de bouche.
+
+Desja pour recevoir le Prince à son retour,
+Il envoyé au devant, il fait parer la cour ;
+Et vous l'auriez icy sans ce soing⁎ qui le presse
+Mais le voila qui sort, voyez son allégresse.
+
+Je crains.
+
+      Que Melinthe craintifve
+N'empesche qu'aujourd'huy vostredessein n'arrive.
+
+J'ay crainte toustefois, Melinthe est une femme.
+
+J'espère dedans peu d'en voir l'expérience.
+Mais ne voyez-vous pas la Reyne qui s'avance.
+
+      Oronte.
+
+Quels fascheux⁎ accidens⁎ troublent ainsi la Reyne ?
+
+De ses transports⁎ tousjours vostre esprit agité,
+Médite sa vengeance, & quelque cruauté.
+
+Justes Dieux ! appaisez l'ardeur⁎ de sa colere
+Sur ce cœur furieus⁎ estendez vostre main.
+Hé ne vous souillez plus de ce crime inhumain.
+
+Estrange⁎passion⁎.
+
+Ordonnez, je suis prest.
+
+Reconnoissant au vray les mortelles attaintes⁎,
+Qui forçoient ces esprits de sortir de ces lieus ;
+Le poison achevant⁎ vos desseins glorieus ;
+Et Merope voyant ce qu'elle pouvoit craindre,
+S'arrache les cheveus, & commence à se plaindre⁎ :
+A tous ces mouvemens⁎ sa main s'abandonnoit :
+De ses tristes⁎ sanglots la chambre resonnoit,
+Et ses yeus presque estains, & son pasle visage,
+Faisoient voir de sa mort le funeste⁎ présage.
+
+Trois fois en se pasmant elle voulut les suivre :
+Mais son cruel destin trois fois la fit revivre :
+Trois fois elle voulut finir par leur trespas.
+Trois fois la mort l'approche & ne la touche⁎ pas.
+En fin & la Douleur, & l'Amour, & la Rage,
+Luy ravirent le pous, l'esprit & le courage⁎,
+Elle s'esvanouyt comme le Médecin
+Entre dedans la chambre.
+
+L'estonne⁎, le surprend, & fait qu'il se propose
+De chercher dans ces corps & l'effet⁎ & la cause :
+On les ouvre aussi-tost, on treuve⁎ le poison,
+La Reyne se resveille & sort de pasmoison.
+Et d'une voix qui sort à peine⁎ de sa bouche,
+Elle veut exprimer la douleur qui la touche⁎.
+Puis retournant les yeus de larmes tous couverts,
+Ainsi qu'elle apperçoit ces deux corps entr'ouverts,
+Une estrange⁎ douleur s'emparant de son ame,
+Pour la quatriesme fois encor elle se pasme.
+
+      Nous emportons son corps,
+Et laissons seulement, Oronte avec les mors
+Pour faire.
+
+Presque tout immobile, & plus pasle qu'une ombre,
+Il a recours à moy, je flatte⁎ son ennuy⁎,
+Et dedans cette tour je m'asseure de luy.
+
+On pesche bien pour moins que pour une coronne.
+
+Vostre honneur vous oblige⁎ à tenir vostre foy⁎.
+
+Donc son obéissance a causé son malheur.
+
+      Certes ce secret me faisoit estonner⁎.
+
+Peut-estre le fit-elle à dessein de cacher
+Ce que tous ses efforts ne pouvoient empescher ?
+
+Vous la pouviez punir la tenant en vos mains.
+
+Je ne puis excuser son infidélité⁎.
+
+La Reyne vient à vous,
+
+Madame, ce grand Roy que vous blasmez à tort,
+Des esprits affligez l'azyle & le support,
+Voyant de vos douleurs l'extrême violence,
+Vous exhorte par nous à quelque patience⁎.
+
+Pourveu que ces transpors⁎ cèdent à la raison,
+Il treuvera⁎ la sienne en vostre guarison⁎.
+
+Pour empescher ce coup⁎ vous vous devez guarir⁎.
+
+Certes vous commencez d'estre moins inhumaine ;
+Et pour exécuter un si noble désir,
+Voicy dequoy Madame, & vous pouvez chouesir.
+
+Bons Dieus, il est icy plus tost qu'on ne pensoit,
+Advertissons le Roy, mais il nous apperçoit,
+Allons sans différer luy rendre nostre hommage.
+Prince aussi vertueux⁎ que remply de courage⁎,
+A qui le sort devoit un traitement plus doux.
+Il est temps que le Ciel nous approche⁎ de vous,
+Que nous donnant un calme après tant de tempestes,
+Il augmente par vous l'honneur de nos conquestes.
+
+      Ah justes Dieus !
+Vous luy pouviez donner tout le monde en partage
+Mais vous ne pouviez pas l'obliger⁎ davantage.
+Toutesfois,
+
+      Qu'il ne soit estonné⁎
+De vous voir en ces lieux sans estre accompagné.
+
+Vous avez donc trompé leurs soings⁎ & nos désirs,
+Et mon Roy se verra frustré de ses plaisirs.
+
+      Trop heureuse⁎ rencontre⁎,
+Que le Ciel à nos yeux favorable se monstre :
+Mais il faut que mon Roy sçache vostre retour,
+Et qu'appaisant l'ardeur⁎ d'une excessive amour,
+Il soulage son cœur, & contente sa veuë ;
+Je cours l'en advertir.
+
+A moins de l'offencer, vous ne le devez pas,
+Ayez, grand Prince, encor un peu de patience.
+
+A ce commandement, je frissonne d'horreur,
+Et mon esprit saisi de crainte & de terreur,
+Tremble de s'effrayer contre son ordinaire :
+Ce funeste⁎ dessein commance à me desplaire ;
+Ma trahison s'arreste au milieu de son cours.
+Mais quels sont tes pensers⁎, & quels sont tes discours⁎,
+Quels remors sans raison veut engager⁎ ton ame
+A se perdre à jamais dans la honte & le blasme :
+Tu sers un Roy qui t'aime, & ta timidité⁎
+Veut perdre son repos⁎ par une lascheté.
+Sa foy⁎ s'est plainement sur la tienne asseuree,
+Et tu crains d'asseurer la coronne d'Atree.
+Ah Criton !
+
+Amy, qu'un bon démon⁎ t'a conduit en ces lieux.
+
+      Qu'achevant⁎ ton office
+Tu tiennes préparez la table & le service,
+Le Prince est de retour.
+
+Adieu ! Je voile dans le Temple, & te quitte en ce lieu.
+
+Non, mais pour l'esviter il veut tromper Thyeste :
+Tu sçais bien qu'il devrait estre de ce repas :
+Mais c'est ce qu'il ne peut, & ce qu'il ne veut pas ;
+Soit que ne pouvant point maistriser son courage⁎,
+Il se vit obligé⁎ de complaire à la rage
+Qu'allume dans nos coeurs un object⁎ odieux,
+Où qu'estouffant⁎ Atree il fust moins furieux⁎ :
+Soit qu'un frère estonné⁎ de voir son abstinence,
+Contre luy justement n'entrast en deffïance,
+Et voyant les transports⁎ de son coeur agité,
+Il ne vist ruiné ce qu'il a projette. Il se resoult.
+
+      A feindre⁎ une foiblesse,
+Et monstrant que l'excez de la douleur le presse⁎,
+Il se fera conduire en un lieu de repos⁎.
+
+      Apres quelques propos
+Et quelques complimens⁎, nous conduirons à table
+Ce Prince infortuné.
+
+Quel nuage importun nous desrobe le jour,
+Le Soleil se retire au milieu de son tour,
+Une profonde nuict couvre toute la terre.
+
+Les Roys qui n'ont jamais de foibles sentimens
+Doivent aux desplaisirs⁎ esgaller les tormens⁎,
+Comme à recompenser leur douceur et extresme,
+Il faut qu'à nous punir leur rigueur soit de mesme.
+
+Nous avons de tous poincts à vos vœux satisfait⁎,
+Il ne soupçonne rien.
+
+Que reste-t-il à faire après tant de trépas ?
+
+      Ce qu'on m'avoit prescrit.
+
+Que voulez-vous de plus, si son ame est contente⁎,
+Et s'il ne vous a point frustré de vostre attente ?
+
+      Il finit son festin,
+Et s'enyvre de joye.
+
+      Il aura bien tost fait.
+
+Je m'en vay le treuver⁎.
+
+Dieux ! de quelle liqueur veut-il remplit son sein⁎
+Incroyable fureur⁎.
+
+      Mais ce Prince repose⁎,
+Il est dessus⁎ le lict le front couvert de rose.
+Dieux qu'il est bien changé de port & d'ornement,
+De celuy qu'il estoit dans son bannissement.
+
+      Mais vient-il en ces lieux
+Verser avecque vous ce que l'on doit aux Dieux ;
+Boire le dernier coup⁎,
+
+      Elle est encore à table.
+
+Le Roy pour la surprendre a tu vostre retour.
+
+      Il veut que Lycostene
+Pour augmenter sa joye, en augmentant sa peine⁎,
+Luy dise qu'on ne peut vous voir encore icy :
+Si vous le permettez,
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lycostene
+
+Que j'arrive à propos en ces lieus désirés,
+Criton.
+
+      En fin presque expirés
+Dans un exil fascheus⁎, sous le fais⁎ des miseres,
+Nous sommes de retour au séjour de nos pères.
+Fassent les dieus puissans que nos maus terminés,
+Nous vivions désormais un peu plus fortunés⁎.
+
+Les dieus qui l'ont promis pour terminer nos peines⁎,
+Conduiront dedans peu Thyeste dans Mycenes,
+Et je viens de sa part en advertir le Roy.
+
+Deus Princes, mais deus dieus qui suivent mon message
+En plaigeant⁎ ma parole, & luy servant d'ostage,
+Tesmoigneront au Roy quels sont ses desplaisirs⁎.
+
+      Theombre les amené,
+Et je les ay laissez au milieu de la plaine.
+
+      Il attend mon retour.
+
+Un bien⁎ n'est pas perdu pour estre différé.
+
+Doncq il est satisfait.
+
+      On revient assez tost
+Quand on revient porteur d'une bonne nouvelle.
+
+Vous la-t-il asseuré ?
+
+      Incroyable bonté,
+Qui peut assez louer ta générosité⁎,
+Et dire la valeur de ce cœur⁎ qui t'anime.
+O des Roys le plus dous & le plus magnanime !
+
+Monarque genereuse⁎, dont la valeur extrême
+Paroist incomparable à se vaincre soy-mesme :
+Que cette pieté⁎ va mériter d'autels,
+Et que vous estes dous envers des criminels.
+II est vray qu'un regret joinct à leur pénitence
+Mérite aucunement cette juste clémence.
+
+Ses regrets & ses maus vous l'ont pu faire voir.
+
+Comme un mesme destin semble vous approcher⁎ ;
+Atree est aujourd'huy ce qu'il a de plus cher.
+
+Vous le verres bien-tost.
+
+      Estrange mouvement⁎,
+Grand Prince, d'où vient ce transport⁎ véhément⁎ ?
+
+Ce soudain changement rend mes sens⁎ esbahys ;
+Quel accident⁎ vous force à quitter le pays :
+Tout le monde vous veut, un frère vous demande,
+Son sceptre vous attend.
+
+Craignez-vous le repos⁎ qui vous est présenté ?
+
+Craindre sans fondement.
+
+Surmontons les dangers, suivons nostre fortune⁎,
+Et foulons sous les pieds cette crainte importune.
+Les pensers⁎ d'un exil troublent vostre bon-heur ;
+Voyez que ce retour vous prépare d'honneur,
+Vous pouvez estre Roy.
+
+Un Prince est comme un Dieu que tout le monde adore.
+
+      Ah desseins furieux⁎ !
+De deux conditions faut-il choüesir la pire.
+
+Pourquoy les refuser quand le ciel nous les donne ?
+
+      Quand un frere le veut,
+Luy feriez-vous ce tort ?
+
+Par ses plus grands désirs, son cœur vous en conjure.
+
+Pourriez-vous bien douter encores de sa foy⁎ ?
+Vous la-t-il point donnée en qualité de Roy,
+Et par tous ses escrits si sainctement jurée :
+Est-il pas vostre frère ?
+
+Il vous aime.
+
+Que craignez-vous si fort ?
+
+      Que peut-il contre vous ?
+
+      Pourquoy donc craindre tant son courroux ?
+
+Lors que⁎ dans des liens le sort nous a jette,
+Il n'est plus temps de craindre une captivité,
+Il la fallait prévoir.
+
+      C'est luy qui vous a pris,
+Luy seul vous doit sauver.
+
+      Comme vostre présence
+Remplit⁎ ces lieux d'amour & de contentement ;
+Jugez donc de la fin par ce commencement.
+
+Sinistres sentimens⁎.
+
+C'est un prince trahy.
+
+Pour le faire abhorrer ce crime est ainsi feint⁎.
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theombre
+
+Grand Roy, c'est le depost que Thyeste vous donne
+Pour monstrer que jamais contre vostre coronne
+Son cœur n'a projette de sinistres desseins,
+Elle ne peut jamais estre mieus qu'en vos mains ;
+Vous la possédez seul avec un juste tiltre,
+Seul vous estes aussi son légitime arbitre :
+Le désir seulement de vous crier mercy,
+Ameine le coulpable, & le conduit icy.
+
+Sur le poinct de partir aussi tost comme nous.
+
+      Autant comme à luy-mesme.
+
+Vous l'auré dans ces lieux au plus tard dans une heure.
+
+      Courez icy Madame !
+
+
+**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oronte
+
+Deux Princes arrivez en toute diligence,
+Vous viennent (ô grand Roy) faire la révérence,
+Et desja leur désir les rend impatiens.
+
+      Le plus vieil de sept ans.
+
+      Comme le Soleil, quand on voudrait encore,
+Adjouster à ses trais les beautez de l'aurore.
+
+      Tousjours triste⁎ & tousjours soucieux⁎.
+
+Que voulez-vous de moy ?
+
+      Il est tout prest.
+
+Seroit-il survenu quelque accident⁎ funeste⁎ ?
+
+A quoy ?
+
+Que deviendra Thyeste ?
+
+      Prudence inimitable.
+Fin du quatriesme Acte.
+

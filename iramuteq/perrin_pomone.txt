@@ -1,16 +1,7 @@
 
 
-**** *book_ *id_body-3 *date_1671 *creator_perrin
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
 
-Prologue a la louange du roy.
-
--*who_lanymphedelaseine
-Toy qui vis autrefois le Fleuve des Romains
-Triompher des humains,
-Et porter le Sceptre du monde ?
-Vertumne, que dis-tu, de ma rive feconde.
-
--*who_vertumne
 J'admire, j'admire tes grandeurs, et la felicité
 De ta belle Cité ;
 Mais ta merveille la plus grande,
@@ -21,373 +12,18 @@ Dans sa Ville superbe une nouvelle Rome ?
 Jamais, Jamais un si grand homme,
 Ne fut assis au Thrône des Cesars ; (bis)
 
--*who_lanymphedelaseine
-Aussi sur la Terre et sur l'Onde,
-Ce Monarque puissant ne fait point de projets
-que le Ciel ne seconde ?
-Il est l'amour,
-
--*who_vertumne
 Il est l'amour et la terreur,
 
--*who_lanymphedelaseine_vertumne
-Il est l'amour et la terreur du monde,
-
--*who_vertumne
 L'effroy de ses voisins,
 
--*who_lanymphedelaseine
-Le cœur des ses sujets,
-
--*who_lanymphedelaseine_vertumne
-L'effroy de ses voisins, Le cœur de ses sujets ;
-
--*who_lanymphedelaseine
-Mais quel dessein t'amene,
-Sur le bord de la Seine.
-
--*who_vertumne
 Moy qui forge les visions,
 Je viens tromper ses yeux de mes illusions,
 Et luy montrer mes anciennes merveilles ?
 
--*who_lanymphedelaseine
 Sus donc
 
--*who_vertumne
-Sus donc
-
--*who_lanymphedelaseine_vertumne
-Par nos accords amoureux, par nos accords amoureux et touchans,
-Commençons de charmer son cœur et ses oreilles,
-Meslons nos voix, et remplissons les Champs,
-Du doux bruit de nos Chants.
-Meslons nos voix, et remplissons les Champs,
-
--*who_vertumne
 Du doux bruit
 
--*who_lanymphedelaseine
-Du doux bruit du doux bruit
-
--*who_vertumne_lanymphedelaseine
-De nos Chants.
-
-**** *book_ *id_I01 *act_ *date_1671 *creator_perrin
-
--*who_pomone
-Passons nos jours
-Dans ces vergers,
-Loin des amours
-Et des Bergers ?
-Passons nos jours,
-
--*who_pomone
-      passons nos jours
-Loin des Bergers et des amours.
-
--*who_pomone
-Qui voudra s'engage
-Sous les loix d'amour,
-Qui voudra s'engage,
-Et fasse la cour
-A ce Dieu volage ;
-Qui voudra l'adore,
-Pour moy je l'abhorre,
-Le flot de la mer
-Est moins infidele,
-La fleur en est belle,
-Mais le fruit amer.
-
--*who_pomone
-La fleur en est belle,
-Mais le fruit amer.
-
--*who_venilie
-Qui croit ce Cajolleur,
-N'a que peine et douleur.
-
--*who_juturne
-Dans l'empire amoureux
-Le sort le plus heureux,
-Est le plus dangereux ;
-
--*who_venilie
-Le flot de la mer est moins infidele,
-
--*who_juturne
-La fleur en est belle,
-Mais le fruit amer.
-
--*who_juturne_venilie
-La fleur en est belle,
-Mais le fruit amer.
-
--*who_venilie
-Le doux plaisir d'amourette,
-Est une tendre fleurette,
-Qui ne dure qu'un matin,
-Il a le destin
-Des plus belles choses,
-Il naist, il fleurit, il passe en un jour,
-Les chaisnes d'amour
-Sont chaisnes de roses, (bis)
-
--*who_venilie
-Les chaisnes d'amour
-Sont chaisnes de roses,
-Les chaisnes d'amour
-Sont chaisnes
-
--*who_pomone
-Passons nos jours
-Dans ces vergers,
-Loin des amours
-Et des Bergers ?
-Passons nos jours,
-
--*who_pomone_venilie_juturne_beroe
-Passons nos jours,
-Loin des Bergers et des amours.
-
-**** *book_ *id_I02 *act_ *date_1671 *creator_perrin
-
--*who_flore
-Ah ! ma Sœur, à quoy penses-tu,
-Veux tu bannir de ton empire,
-Ce Dieu puissant dont la vertu
-Anime tout ce qui respire,
-Et dont les fecondes chaleurs,
-Font naistre tes fruits et mes fleurs.
-
--*who_pomone
-Je consens que ses flames
-Bruslent tout l'Univers ;
-Pourveu que dans nos ames,
-Il trouve incessamment la glace et les hyvers ?
-
--*who_flore
-Ah ! si tu connoissois comme moy ses delices ?
-
--*who_beroe
-Ah ! si tu connoissois comme moy ses malices.
-
--*who_flore
-De combien de douceurs il flate nos desirs.
-
--*who_beroe
-Combien il cause de soûpirs,
-
--*who_flore
-Que ses fers
-
--*who_beroe
-      Que ses loix
-
--*who_flore
-      sont doux ,
-
--*who_beroe
-      sont inhumaines,
-
--*who_flore
-Qu'il est beau
-
--*who_beroe
-      Qu'il est dur
-
--*who_flore_beroe
-de vivre dans ses chaisnes.
-
--*who_pomone
-Il a ses biens, il a ses peines,
-Et je ne veux que des plaisirs.
-
-**** *book_ *id_I03 *act_ *date_1671 *creator_perrin
-
--*who_dieudesjardins
-Soulage donc les flames du grand Dieu des Jardins.
-De plaisirs eternels il sçait remplir les ames,
-Renonce pour jamais à l'amour des blondins,
-Foibles, trompeurs, inconstans et badins,
-Unissons, Unissons nos cœurs et nos empires,
-Adjouste au fruit de tes vergers,
-Les herbes de mes potagers ;
-Joint mes Melons à tes Poncires,
-Et mesle parmy tes pignons,
-Mes truffes et mes champigons.
-
-**** *book_ *id_I04 *act_ *date_1671 *creator_perrin
-
--*who_faune
-C'est bien à toy, Dieu miserable,
-De pretendre à tes maux quelque soulagement ;
-
--*who_dieudesjardins
-C'est bien à toy, Monstre effroyable,
-De servir un objet si rare et si charmant ?
-
--*who_faune
-Elle a beau resister et faire la mutine ?
-C'est à moy,
-
--*who_dieudesjardins
-      C'est à moy,
-
--*who_faune
-      C'est à moy,
-
--*who_dieudesjardins
-      C'est à moy,
-
--*who_faune_dieudesjardins
-C'est à moy, C'est à moy que le Ciel la destine :
-
--*who_dieudesjardins
-Tout cede,
-
--*who_faune
-      Tout se rend,
-
--*who_dieudesjardins
-      Tout cede,
-
--*who_faune
-      Tout se rend,
-
--*who_faune_dieudesjardins
-Tout cede, tout se rend à mon pouvoir divin:/ ?
-
--*who_flore
-Vous le dites en vain,
-On vo° connoist tous deux,
-Mais éprouvons les vostres?
-Faites danser les uns, faites chanter les autres:
-
--*who_jardinier2
-Vive le Dieu des Jardiniers, il est toûjours prest à bien faire;
-
--*who_jardinier1_jardinier2_jardinier3
-Vive le Dieu des Jardiniers, il est toûjours prest à bien faire;/?/;
-
--*who_jardinier2
-Bergeres portez vos paniers, il a dequoy vous satisfaire,
-
--*who_jardinier1_jardinier2_jardinier3
-Bergeres, portez vos paniers, il a dequoy vous satisfaire:
-
--*who_jardinier1
-Sans luy les Jeux, les Passe temps Ont une douceur imparfaite,
-Et s'il n'est de la Feste,
-L'on ne rit pas longtemps, (bis)
-
--*who_jardinier1_jardinier2_jardinier3
-Et s'il n'est de la Feste,
-L'on ne rit pas longtemps. (bis)
-
--*who_jardinier1
-Rien n'est si doux que sa fureur,
-Ny si plaisant que sa folie,
-Elle bannit de nostre cœur
-La plus noire melancholie?
-Sans luy les Jeux, les Passe temps,
-N'ont qu'une douceur imparfaite,
-Et s'il n'est de la Feste,
-L'on ne rit pas longtemps. (bis)
-
--*who_jardinier1_jardinier2_jardinier3
-Et s'il n'est de la Feste, l'on ne rit pas longtemps. (bis)
-
--*who_dieudesjardins
-He bien: dans tes buissons,
-Tes Oyseaux, chantent-ils de pareilles Chansons :
-
--*who_faune
-Il est vray que jamais Rossignols d'Arcadie,
-N'ont fait, N'ont fait plus douce melodie.
-
--*who_dieudesjardins
-A vous Bouviers, illustre bande,
-Touchez, Touchez n'importe Menestriers,
-Passepied, Menüet, Gavote ou Sarabande.
-
--*who_dieudesjardins
-Couronnez il est temps, couronnez le vainqueur:
-
--*who_faune
-Donnez-lui vostre main.
-
--*who_dieudesjardins
-Donnez-luy,
-
--*who_faune
-Donnez-luy,
-
--*who_dieudesjardins
-Donnez-luy,
-
--*who_faune_dieudesjardins
-Donnez-luy vostre cœur.
-
--*who_pomone
-Cueillez Nymphes dans ces prairies,
-Cueillez pour eux des guirlandes fleuries,
-Et vous ma sœur couronnez le vainqueur.
-
-**** *book_ *id_I05 *act_ *date_1671 *creator_perrin
-
--*who_dieudesjardins
-Donnez-luy vostre main,
-
--*who_faune
-      Donnez-luy vostre cœur,
-
--*who_dieudesjardins
-Donnez-luy,
-
--*who_faune
-Donnez-luy,
-
--*who_dieudesjardins
-Donnez-luy,
-
--*who_faune_dieudesjardins
-      Donnez-luy vostre cœur.
-
--*who_flore
-Venez voir couronner vos tendres amourettes,
-Et recevoir le premier de ses dons?
-Ah! pour un plus heureux on garde les fleurettes,
-Pour vous l'Epine et les chardons?
-
--*who_flore_venilie
-      Ah!
-
--*who_flore_venilie_juturne
-Ah ! Pour un plus heureux on garde, on garde les fleurettes,
-Pour vous, Pour vous l'Epine et les chardons.
-
-**** *book_ *id_I06 *act_ *date_1671 *creator_perrin
-
--*who_faune
-Voila le prix de vos Musiques,
-Et ce que meritent vos Chans?
-Voila le prix, Voila le prix de vos Musiques.
-SECONDE ENTRÉE DES BOUVIERS.
-
--*who_dieudesjardins
-Voila le fruit du Dieu des Champs,
-Et dequoy paistre ses bourriques. (bis)
-
--*who_jardinier1_jardinier2_jardinier3
-Voicy le fruit du Dieu des Champs,
-Et dequoy paistre, paistre ses bourriques.
-Voicy le fruit du Dieu des Champs,
-Et dequoy paistre ses bourriques. (bis)
-
-**** *book_ *id_I07 *act_ *date_1671 *creator_perrin
-
--*who_vertumne
 Helas ! Que me sert-il de changer tous les jours
 De forme et de figure,
 Et de me déguiser à toute la nature,
@@ -406,27 +42,8 @@ Hola!folets venez, volez, suivez mes pas;
 Mais ne vous montrez pas,
 A mes loix seulement rendez obeïssance.
 Fin du premier Acte.
-Entr'acte.
-INTERMEDE I. Symphonie.
+Entr'acte. INTERMEDE I. Symphonie.
 
-**** *book_ *id_II01 *act_ *date_1671 *creator_perrin
-
--*who_beroe
-Ah! N'est-ce pas assez qu'on ayme et qu'on soûpire,
-Pendant le cours de sa jeune saison?
-Pourquoy faut-il amour étendre ton empire.
-Jusques sur nostre aage grison:
-Malgré tous mes efforts, malgré toutes mes feintes,
-Je sens vivre tes feux dans mes cendres éteintes,
-D'une cruelle ardeur je me voy, je me voy consumer,
-Que la glace des ans ne fait que r'allumer:
-J'ayme un Dieu, le voicy, tachons de le surprendre,
-Il resve à ses amours,
-Cachons-nous pour l'entendre.
-
-**** *book_ *id_II02 *act_ *date_1671 *creator_perrin
-
--*who_vertumne
 O Doux Zephir vous enflammez la terre par vos soûpirs,
 Et de vos pleurs,
 On voit dans ce parterre naistre des fleurs?
@@ -440,34 +57,167 @@ Joins à l'amour la ruse et la surprise;
 Il faut l'attendre icy dans ce boccage vert,
 Elle y cherche souvent le frais et le couvert.
 
-**** *book_ *id_II03 *act_ *date_1671 *creator_perrin
+Le ridicule objet,
+l'Enfer l'amene icy pour troubler mon projet.
 
--*who_beroe
+      Evitons sa poursuite?
+
+Il faut l'épouvanter et luy donner la fuite?
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lanymphedelaseine
+
+Toy qui vis autrefois le Fleuve des Romains
+Triompher des humains,
+Et porter le Sceptre du monde ?
+Vertumne, que dis-tu, de ma rive feconde.
+
+Aussi sur la Terre et sur l'Onde,
+Ce Monarque puissant ne fait point de projets
+que le Ciel ne seconde ?
+Il est l'amour,
+
+Le cœur des ses sujets,
+
+Mais quel dessein t'amene,
+Sur le bord de la Seine.
+
+Sus donc
+
+Du doux bruit du doux bruit
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pomone
+
+Passons nos jours
+Dans ces vergers,
+Loin des amours
+Et des Bergers ?
+Passons nos jours,
+
+      passons nos jours
+Loin des Bergers et des amours.
+
+Qui voudra s'engage
+Sous les loix d'amour,
+Qui voudra s'engage,
+Et fasse la cour
+A ce Dieu volage ;
+Qui voudra l'adore,
+Pour moy je l'abhorre,
+Le flot de la mer
+Est moins infidele,
+La fleur en est belle,
+Mais le fruit amer.
+
+La fleur en est belle,
+Mais le fruit amer.
+
+Passons nos jours
+Dans ces vergers,
+Loin des amours
+Et des Bergers ?
+Passons nos jours,
+
+Je consens que ses flames
+Bruslent tout l'Univers ;
+Pourveu que dans nos ames,
+Il trouve incessamment la glace et les hyvers ?
+
+Il a ses biens, il a ses peines,
+Et je ne veux que des plaisirs.
+
+Cueillez Nymphes dans ces prairies,
+Cueillez pour eux des guirlandes fleuries,
+Et vous ma sœur couronnez le vainqueur.
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_venilie
+
+Qui croit ce Cajolleur,
+N'a que peine et douleur.
+
+Le flot de la mer est moins infidele,
+
+Le doux plaisir d'amourette,
+Est une tendre fleurette,
+Qui ne dure qu'un matin,
+Il a le destin
+Des plus belles choses,
+Il naist, il fleurit, il passe en un jour,
+Les chaisnes d'amour
+Sont chaisnes de roses, (bis)
+
+Les chaisnes d'amour
+Sont chaisnes de roses,
+Les chaisnes d'amour
+Sont chaisnes
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flore
+
+Ah ! ma Sœur, à quoy penses-tu,
+Veux tu bannir de ton empire,
+Ce Dieu puissant dont la vertu
+Anime tout ce qui respire,
+Et dont les fecondes chaleurs,
+Font naistre tes fruits et mes fleurs.
+
+Ah ! si tu connoissois comme moy ses delices ?
+
+De combien de douceurs il flate nos desirs.
+
+Que ses fers
+
+      sont doux ,
+
+Qu'il est beau
+
+Vous le dites en vain,
+On vo° connoist tous deux,
+Mais éprouvons les vostres?
+Faites danser les uns, faites chanter les autres:
+
+Venez voir couronner vos tendres amourettes,
+Et recevoir le premier de ses dons?
+Ah! pour un plus heureux on garde les fleurettes,
+Pour vous l'Epine et les chardons?
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_beroe
+
+Ah ! si tu connoissois comme moy ses malices.
+
+Combien il cause de soûpirs,
+
+      Que ses loix
+
+      sont inhumaines,
+
+      Qu'il est dur
+
+Ah! N'est-ce pas assez qu'on ayme et qu'on soûpire,
+Pendant le cours de sa jeune saison?
+Pourquoy faut-il amour étendre ton empire.
+Jusques sur nostre aage grison:
+Malgré tous mes efforts, malgré toutes mes feintes,
+Je sens vivre tes feux dans mes cendres éteintes,
+D'une cruelle ardeur je me voy, je me voy consumer,
+Que la glace des ans ne fait que r'allumer:
+J'ayme un Dieu, le voicy, tachons de le surprendre,
+Il resve à ses amours,
+Cachons-nous pour l'entendre.
+
 Quoy? Toûjours inflexible,
 Toûjours sourd à mes vœux,
 Et toûjours amoureux
 D'une belle insensible.
 
--*who_vertumne
-Le ridicule objet,
-l'Enfer l'amene icy pour troubler mon projet.
-
--*who_beroe
 Quoy? Tant d'amour. ingrat:
 
--*who_vertumne
-      Evitons sa poursuite?
-
--*who_beroe
 Arreste et voy du moins ma peine et mes langueurs,
 Un moment encor et je meurs.
 
--*who_vertumne
-Il faut l'épouvanter et luy donner la fuite?
-
-**** *book_ *id_II04 *act_ *date_1671 *creator_perrin
-
--*who_beroe
 Que voyez-vous mes yeux,
 Quel Dragon furieux ;
 Mais non r'assurons-nous, c'est luy qui se transforme
@@ -480,13 +230,81 @@ Je beniray mon sort,
 Et je ne puis mourir,
 Et je ne puis mourir d'une plus douce mort ?
 
-**** *book_ *id_II05 *act_ *date_1671 *creator_perrin
-Mais quel éclair, quel horrible tonnerre,
-Quel tremblement de terre ?
-Quels fantosmes affreux et quelles visions ?
-Que de Monstres armez, de feu, de fer, de foudre,
-Pour me reduire en poudre ?
-Je vous connois folets et vos illusions ;
-Vous croyez m'étonner par ces alarmes feintes,
-Et me joüer à vostre tour :
-Mais l'on ne peut for-
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_faune
+
+C'est bien à toy, Dieu miserable,
+De pretendre à tes maux quelque soulagement ;
+
+Elle a beau resister et faire la mutine ?
+C'est à moy,
+
+      C'est à moy,
+
+      Tout se rend,
+
+      Tout se rend,
+
+Il est vray que jamais Rossignols d'Arcadie,
+N'ont fait, N'ont fait plus douce melodie.
+
+Donnez-lui vostre main.
+
+Donnez-luy,
+
+      Donnez-luy vostre cœur,
+
+Donnez-luy,
+
+Voila le prix de vos Musiques,
+Et ce que meritent vos Chans?
+Voila le prix, Voila le prix de vos Musiques.
+SECONDE ENTRÉE DES BOUVIERS.
+
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dieudesjardins
+
+Soulage donc les flames du grand Dieu des Jardins.
+De plaisirs eternels il sçait remplir les ames,
+Renonce pour jamais à l'amour des blondins,
+Foibles, trompeurs, inconstans et badins,
+Unissons, Unissons nos cœurs et nos empires,
+Adjouste au fruit de tes vergers,
+Les herbes de mes potagers ;
+Joint mes Melons à tes Poncires,
+Et mesle parmy tes pignons,
+Mes truffes et mes champigons.
+
+C'est bien à toy, Monstre effroyable,
+De servir un objet si rare et si charmant ?
+
+      C'est à moy,
+
+      C'est à moy,
+
+Tout cede,
+
+      Tout cede,
+
+He bien: dans tes buissons,
+Tes Oyseaux, chantent-ils de pareilles Chansons :
+
+A vous Bouviers, illustre bande,
+Touchez, Touchez n'importe Menestriers,
+Passepied, Menüet, Gavote ou Sarabande.
+
+Couronnez il est temps, couronnez le vainqueur:
+
+Donnez-luy,
+
+Donnez-luy,
+
+Donnez-luy vostre main,
+
+Donnez-luy,
+
+Donnez-luy,
+
+Voila le fruit du Dieu des Champs,
+Et dequoy paistre ses bourriques. (bis)
+

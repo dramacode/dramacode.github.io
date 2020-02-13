@@ -1,6 +1,6 @@
 ---
 identifier: beys_celine  
-creator: Beys, Charles de  
+creator: Beys, Charles de ; Georges Forestier.  
 date: 1637  
 title: Céline ou Les Frères rivaux. Tragi-comédie  
 ---

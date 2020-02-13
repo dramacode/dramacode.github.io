@@ -1,6 +1,6 @@
 ---
 identifier: pradon_regulus  
-creator: Pradon, Nicolas  
+creator: Pradon, Nicolas ; Georges Forestier.  
 date: 1688  
 title: Régulus. Tragédie  
 ---

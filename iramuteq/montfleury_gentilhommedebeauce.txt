@@ -1,290 +1,29 @@
 
 
-**** *book_ *id_dedicace *date_1670 *creator_montfleury
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lebeauceron
 
-A LEURS ALTESSES SERENISSIMES MESSEIGNEURS LES PRINCES DE BRUNSWIK ET DE LUNEBOURG.
-
-MESSEIGNEURS,
-
-Ne Vous estonnez pas de l'hommage que le Gentil-homme de Beauce va rendre à vos ALTESSES SERENISSIMES, ce campagnart⁎ est tellement fier du bon-heur⁎ qu'il eu de paroistre aux yeux de nostre Grand Monarque, qu'il ne peut s'imaginer qu'il soit tout-à-fait indigne de paroistre aux vostres, quelque soin que je prenne à l'en détourner, je me vois contraint de l'abandonner à son opiniâtreté ; & quelque reflexion que je face sur ses défauts, je ne puis me dispenser de donner quelque chose à mon zele : Je me suis en vain efforcé de mettre devant ses yeux tout ce qui le devoit intimider, de luy dire qu'il alloit s'exposer aux yeux de trois Princes si éclairez, si galans⁎ & si accomplis, que l'ouvrage le plus parfait meriteroit à peine l'honneur de leur estre offert, & que si l'indulgence qu'on a eüe pour luy à Paris, l'a fait trouver supportable ; le juste discernement que vos ALTESSES SERENISSIMES sçavent faire de toutes choses, luy devoit faire perdre l'envie de sortir de son pays.
-Ces considerations l'auroient peut-estre fait rentrer en luy-mesme, si les merveilles que la renommée publie icy de vous chaque jour, ne luy avoient donné autant de curiosité que d'étonnement : Il a sceu par sa voix que l'Allemagne a produit en vos A.S. trois Princes aussi Illustres par leur merite que considerables par leur Rang, aussi redoutables par leur Valeur, que Glorieux par leurs Victoires, aussi admirables par leur Prudence, que étonnans par la vivacité de leur Esprit, & aussi remarquables par leur Magnificence qu'extraordinaires par leur generosité⁎.
-Il a sceu que la bonté vous est aussi naturelle que la justice, & n'a pû s'imaginer que la facilité que vous avez à connoistre les défauts, détruise en vos A.S. le penchant qu'elles ont à les excuser.
-Voilà le digne sujet⁎ de son empressement, voilà ce qui peut justifier sa hardiesse ; & j'ose dire sans la vouloir authoriser, que la curiosité n'est pas tout-à-fait blâmable quand elle est aussi bien fondée.
-En effet, MESSEIGNEURS, ce n'est qu'en vostre seule Cour où la nature prodigue de Heros, fait voir en trois Illustres Freres, trois Princes dont l'union & les Vertus éclatantes donne de l'admiration à tout le reste du Monde ; ce n'est qu'en vos A.S. que le Ciel a doüé trois Freres de tout ce qui peut rendre trois Princes également parfaits, & ce n'est qu'à chacun de vous seuls en particulier, à qui le Ciel a donné deux Princes & deux Heros pour Freres.
-Je sçais bien que je me pouvois empécher d'avoir part à la temerité du Provincial que je vous offre, que je luy pouvois refuser mon aveu⁎, & que si son bon-heur⁎ le conduisoit en Allemagne, je le pouvois laisser aller en vagabond, en une Cour où ses défauts ne peuvent avoir que vos bontez pour azile : Mais si la raison me le conseilloit, ma reconnoissance n'a pu s'y resoudre, & les biens-faits que vous avez tous si genereusement répandus sur une partie de nostre famille, vous ont tellement acquis l'autre, que j'ayme mieux vous faire un present si peu digne de vous, que de ne pas publier par tout la passion⁎ respectueuse avec laquelle je suis,
-
-DE VOS ALTESSES SERENISSIMES,
-
-MESSEIGNEURS,
-
-Le tres-humble & tres obeissant serviteur.
-
-MONT-FLEURY.
-
-**** *book_ *id_privilege *date_1670 *creator_montfleury
-
-Extrait du Privilege du Roy.
-
-Par Grace & Privilege du Roy, donné à Paris le 7. jour de Septembre 1670.
-Signé par le Roy en son Conseil, le Rouge : Il est permis au Sieur Mont-Fleury de faire imprimer, vendre & debiter une Piece de Theatre intitulée, Le Gentil-homme de Beauce, fait par ledit sieur de Mont-Fleury ; Et ce durant le temps de cinq ans, à commencer du jour qu'il fera achevé d'imprimer pour la premiere fois : Et deffenses sont faites à tous Libraires & Imprimeurs, d'imprimer, faire imprimer, vendre & debiter ladite Piece, sans le consentement de l'exposant, ou de ceux qui auront droit de luy, à peine de cinq cens livres d'amende, confiscation des Exemplaires contrefaits, & de tous despens⁎, dommages & interests, ainsi qu'il est porté plus au long par ledit Privilege.
-
-Et ledit sieur de Mont-Fleury a cedé son droit de Privilege à Anne David Femme de Jean Ribou, suivant l'accord fait entr'eux.
-
-Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour de Parlement, le 18.
-Septembre 1670.
-
-Signé, L. SEVESTRE, Syndic.
-
-Les Exemplaires ont esté fournis.
-
-Achevé d'imprimer pour la premiere fois le 18. jour de Septembre 1670.
-
-**** *book_ *id_I01 *act_I *date_1670 *creator_montfleury
-
--*who_beatrix
-Quoy vous espouseriez ce cousin ? ce magot⁎
-Supplanteroit Leandre & vous ne diriez mot ?
-Ce pied-plat⁎ qui se plaint⁎ habits, souliers & chausse,
-En un mot ce bouru Gentil homme de Beauce,
-Parce qu'il a du bien croit ce cœur destiné,
-Au Seigneur campagnard d'un hameau ruiné ?
-Qu'à le suivre en Province une fille s'engage ?
-Ma foy c'est pour son nez ; qu'il aille en son village,
-Conter ses poulets-d'inde⁎ & qu'il nous laisse en paix.
-
--*who_climenne
-Ma mere dans son bien a trouvé tant d'attraits,
-Qu'elle veut de mon cœur forcer la repugnance,
-Et luy pour m'épouzer n'attend qu'une dispense,
-Estant logé chez-nous…
-
--*who_beatrix
-      Il est vray qu'il est bon,
-Il est icy venu debarquer sans façon⁎,
-Et depuis empaumant⁎ nostre mere eternelle,
-Il fait dans la maison le maistre bien plus qu'elle ;
-Car souvent pour un rien, il nous menace tous,
-Ou de mettre dehors ou de donner cent coups,
-Lors que je me remets⁎ son burlesque visage⁎,
-Sa monture, son train⁎, & tout son equipage⁎,
-Et l'air⁎ dont ce mâtin⁎ vous vint sauter au cou,
-Je ne puis m'empescher d'en rire tout mon sou.
-
--*who_climenne
-Il s'est fait habiller.
-
--*who_beatrix
-      Ouy, mais ce lunatique
-Avec son habit neuf sent⁎ sa medaille⁎ antique,
-Son tailleur avec luy pensa perdre l'Esprit
-Quand il le fit venir, & touchant⁎ cet habit,
-Ce bouru mesprisant ses avis⁎ & les nostres,
-N'a pas voulu qu'en rien il fust semblable aux autres,
-Il dit que ses ayeuls estoient ainsi vestus,
-Et qu'il veut imiter leur mode & leurs vertus,
-A propos dites-moy, Madame je vous prie.
-
--*who_climenne
-Quoy ?
-
--*who_beatrix
-      Quand pretendez⁎-vous tirer la lotterie ?
-Vous disiez…
-
--*who_climenne
-      Pas si tost.
-
--*who_beatrix
-      Et pourquoy ?
-
--*who_climenne
-      Pour raison.
-
--*who_beatrix
-J'ay de voir mes billets grande demangeaison,
-
--*who_climenne
-Je le crois, mais apprens pour te voir satisfaite,
-Pourquoy je la differe, & pourquoy je l'ay faite,
-Depuis que pour mes maux ce cousin est chez-nous,
-Je n'osois voir personne, & sous ce nom d'époux,
-Il m'obsedoit⁎ par tout, & pour voir compagnie⁎,
-J'ay comme tu le vois fait une lotterie.
-Tâche à trouver Leandre, anime son espoir,
-Sous pretexte d'y mettre il peut me venir voir,
-Qu'il mette un jour pour luy, le landemain pour d'autres,
-Et les soins⁎ de l'amour seconderont les nostres.
-
--*who_beatrix
-Il est vray qu'à l'aspect du cousin, vos amis,
-Ont en fort peu de temps deserté le logis,
-Car vous aviez toûjours fort bonne compagnie⁎,
-Cela vous tient au cœur, mais depuis leur sortie,
-N'avez-vous rien appris du pauvre Chevalier ?
-D'Alchante ? de Damon ? car pour le Maltostier⁎,
-Il est mort.
-
--*who_climenne
-      Je souffrois⁎ ces gens par bien-seance,
-Et de Leandre seul je regrette l'absence.
-
--*who_beatrix
-Si vous la regrettez, j'y perd beaucoup aussi,
-Le Basque son valet n'ose venir ici,
-Je l'aimois, & je sçais qu'il m'ayme avec tendresse⁎.
-
--*who_climenne
-Dis luy si tu le vois qu'avec un peu d'adresse…
-
--*who_beatrix
-J'y suis interessée & diray ce qu'il faut.
-
-**** *book_ *id_I02 *act_I *date_1670 *creator_montfleury
-
--*who_le_gascon
-Hola, quelqu'un, lacquais faut il monter en haut ?
-Personne ne respond.
-
--*who_beatrix
-      J'entens quelqu'un qui crie.
-Que vous plaist-il, Monsieur ?
-
--*who_le_gascon
-      Et dont la lotterie,
-Je porte icy d'argent.
-
--*who_beatrix
-      Pour combien de billets.
-
--*who_le_gascon
-Pour douze, mais ou sont vos gens⁎ ou vos valets,
-Qui donne ces billets ? seroit-ce quelque fame ?
-
--*who_beatrix
-Non, c'est le Precepteur du frere de Madame.
-
--*who_le_gascon
-Il s'appelle ?
-
--*who_beatrix
-      Martin.
-
--*who_le_gascon
-      Habille ?
-
--*who_beatrix
-      Pas tant sot.
-
--*who_le_gascon
-Je voudrois qu'il m'apprit à gagner un gros lot,
-Je m'en suis desja fait pour cinquante pistoles⁎,
-Dieu me damne, & je dis ceci sans hiperboles,
-J'avois trente billets chez Madame du Bois,
-Chez Monsieur du Buisson, j'en avois vingt & trois
-J'en avois douze, chez Madame la Fontaine,
-Chez Monsieur de la Vigne encor autre douzaine :
-J'ay pris tous billets blancs ; il faut voir jusqu'au bout.
-
--*who_climenne
-Vous estes mal-heureux en lotterie.
-
--*who_le_gascon
-      En tout,
-Si pour m'indamniser j'estois heureux en belles,
-Je m'en consolerois.
-
--*who_climenne
-      Vous sont-elles cruelles ?
-
--*who_le_gascon
-Il ne tiendra qu'à vous de m'apprendre que non,
-Vous riez. Vous voyez que je suis sans façon⁎,
-Tous nous autres Gascons sommes francs.
-
--*who_climenne
-      Je l'advouë.
-
--*who_le_gascon
-Loin de nous en blâmer, un chacun nous en louë,
-Vos lots seront-ils gros ?
-
-**** *book_ *id_I03 *act_I *date_1670 *creator_montfleury
-
--*who_le_beauceron
       Quel est cet évelier⁎ ?
 
--*who_le_gascon
-Vostre fons⁎ est-il grand ?
-
--*who_le_beauceron
       Le drôle⁎ est familier.
 
--*who_beatrix
-Ouy, jusques à present le fonds⁎ en est passable,
-Beaucoup de gens ont mis, & la somme est notable :
-Mais comme à la tirer on n'est pas encor prest,
-Il peut avec le temps estre plus grand qu'il n'est,
-Pour la fidelité…
-
--*who_le_gascon
-      Je connois bien Madame,
-Je suis vostre voisin, & j'y mettrois mon ame,
-Si son cœur me pouvoit venir pour un gros lot.
-
--*who_le_beauceron
 Ils jaseront toûjours si je ne leur dis mot.
 
--*who_beatrix
-Voicy vostre cousin & vous aurez aubade.
-
--*who_le_gascon
-Ah ! Monsieur.
-
--*who_le_beauceron
       Et mort-bleu d'où vient donc l'embrassade ?
 La peste vous estouffe avec vostre jargon⁎.
 
--*who_le_gascon
-Monsieur de Coutreville…
-
--*who_le_beauceron
       Il est vray c'est mon nom.
 
--*who_le_gascon
-Vous ne connoissez⁎ plus vos amis.
-
--*who_le_beauceron
       Et de grace.
 Laissez-moy prendre haleine, & vous revoir en face,
 Voulez-vous m'estouffer, enfin je vous connois ?
 
--*who_le_gascon
-Sans doute.
-
--*who_le_beauceron
       Et depuis quant ?
 
--*who_le_gascon
-      Depuis plus de dix mois.
-Vous estes Beauceron volontiers,
-
--*who_le_beauceron
       Je le pense,
 C'est un galand⁎ qui cherche à faire connoissance.
 
--*who_le_gascon
-J'estois, & vous m'allez connoistre⁎ asseurement,
-Capitaine, & Major, dans certain Regiment,
-Qui passa l'an dernier dedans vostre village.
-
--*who_le_beauceron
 Ah ! ouy, les grands fripons !
 
--*who_le_gascon
-      On fit quelque ravage,
-J'en demeure d'accord, mais je fus des premiers…
-
--*who_le_beauceron
 Vous estes donc Monsieur de ces avanturiers ?
 De ces ames de feu ? de poudre ? & de salpestre ?
 De ces gens avec qui chez soy l'on n'est point maistre ?
@@ -297,33 +36,15 @@ Mettez effrontement un honneur⁎ aux abois ?
 N'employez tous vos soins⁎ qu'à gaster⁎ un ménage,
 Et n'estes point content que le mary n'enrage ?
 
--*who_le_gascon
-Espargnez vos amis.
-
--*who_le_beauceron
       Apprenez que je suis,
 Ennemy capital de semblables amis ;
 Mais enfin dites-nous quel motif vous amenne ?
 
--*who_le_gascon
-Je viens pour des billets, & rencontrant Climenne,
-J'ay pris occasion…
-
--*who_le_beauceron
       C'est donc assez jaser,
 Qui vient pour des billets ne vient pas pour causer,
 
--*who_le_gascon
-Mort-bleu j'ayme le sexe⁎, & ma joye est extrême,
-Quand je trouve…
-
--*who_le_beauceron
       Tout doux.
 
--*who_le_gascon
-      Sçachez…
-
--*who_le_beauceron
       Sçachez vous-mesme,
 Si vous ne le sçavez, que vous voyez en nous,
 Le cousin de Climenne, & son futur Epoux ;
@@ -336,30 +57,13 @@ Mon logement doit estre exempt de gens de guerre,
 Et qu'enfin je pretens⁎ en cette qualité,
 Que je puis faire nargue à la majorité.
 
--*who_le_gascon
-Suffit je vous entens⁎.
-
--*who_le_beauceron
       C'est ce que je demande,
 Cherchez fortune ailleurs.
 
--*who_le_gascon
-      La faute n'est pas grande,
-Je le veux, c'est assez m'en dire sur le point ;
-Mais ce Monsieur Martin, il est là haut non point ?
-
--*who_le_beauceron
 Je le crois.
 
--*who_le_gascon
-      Prés de luy je m'en vais donc me rendre.
-
--*who_le_beauceron
 Et par l'autre escalier qu'on le face descendre.
 
-**** *book_ *id_I04 *act_I *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Enfin vous voulez donc en tous lieux & toûjours,
 De vostre humeur⁎ galante⁎ entretenir le cours ?
 Voir toûjours près de vous quelque face chocquante⁎,
@@ -371,13 +75,6 @@ Sçache à brûle pour-point tirer une fleurette⁎ ?
 Qui vous serre les mains, & qui pour mes pechez,
 Vous parle incessamment à quatre doits du nez ?
 
--*who_climenne
-Comme je suis chez-moy, je crois par bien-seance,
-Ne pouvoir me parer de quelque complaisance,
-Et principalement, lors que je vois des gens,
-De qui la mine⁎, & l'air⁎, exigent…
-
--*who_le_beauceron
       Je pretens⁎,
 Qu'on peut payer⁎ ces gens malgré la bien-seance,
 D'un adieu bien succint & d'une reverence.
@@ -389,18 +86,8 @@ Et l'on est bien venu lors que l'on est paré,
 D'un point⁎ Venitien ou manufacturé,
 Moy qui ne suis pas fait sur de pareils modelles…
 
--*who_climenne
-Mais enfin…
-
--*who_le_beauceron
       Mais enfin je sçay de vos nouvelles.
 
--*who_climenne
-La lotterie attire icy beaucoup de gens,
-Et la porte doit estre ouverte à tous venans,
-Et vous voyez s'il est aisé qu'on s'en défende.
-
--*who_le_beauceron
 Il est vray que jamais rage ne fut plus grande,
 Ouy, je croy qu'en effet le monde devient fou,
 On se bat pour donner jusques au dernier sou ;
@@ -418,11 +105,6 @@ Chez des gens plus fins qu'eux qu'ils croyent assez sots,
 Pour les gratifier bonnement des gros lots,
 A-t-on jamais parlé d'une telle folie ?
 
--*who_climenne
-Vous avez cependant imité leur manie⁎ :
-Et pris quatre billets chez Oronte.
-
--*who_le_beauceron
       D'accord,
 Mais celle-là n'a point aux autres de rapport ;
 Et je m'en sçais bon gré, bien-loin que je m'en blâme,
@@ -430,41 +112,20 @@ L'interest ne sçauroit toucher cette grande ame ;
 C'est pour un cœur si noble un sentiment trop bas,
 Tout s'y fera dans l'ordre & je n'en doute pas.
 
--*who_climenne
-On peut ailleurs aussi…
-
--*who_le_beauceron
       Vostre erreur est extrême.
 
--*who_climenne
-C'est vostre sentiment⁎, pour mettre ailleurs de même ;
-Le peuple a ses raisons.
-
--*who_le_beauceron
       Le peuple a ses raisons ?
 Et mort-bleu que fait-on des petites maisons.
 
--*who_climenne
-C'est un lieu trop petit pour tous les foux de France.
-
--*who_le_beauceron
 Ah ! si sur le public⁎ j'avois quelque puissance,
 Qui m'en fit ménager le bien, ou l'interest,
 Le peuple deviendroit plus ménager⁎ qu'il n'est,
 Ou du moins…
 
--*who_climenne
-      Que feroit vostre humeur⁎ prevoyante,
-
--*who_le_beauceron
 Moy ? je mettrois l'argent de tous ces fous en rente ;
 Et je ferois donner au pere, ou bien au fils,
 De vingt ans, en vingt ans, autant qu'ils auroient mis.
 
--*who_climenne
-Cela seroit fort beau⁎.
-
--*who_le_beauceron
       Mais dites-moy de grace.
 Cet embarras⁎ est grand, n'en estes-vous point lasse ?
 A chaque instant du jour un lacquais effaré,
@@ -476,257 +137,40 @@ Et l'on diroit enfin à les voir courir tous,
 Et faire chaque jour pareille violence,
 Qu'ils auroient aux talons tous les Prevosts de France.
 
--*who_climenne
-Mais j'y suis engagée, il faut voir jusqu'au bout,
-Laisser passer la foule, & se resoudre à tout,
-Pourrois-je l'empescher enfin, quoy que je fisse ?
-
--*who_le_beauceron
 Le Beau⁎ doute.
 
--*who_climenne
-      Et comment ?
-
--*who_le_beauceron
       Il faut avoir un Suisse,
 Mettre en teste à ces gens un hardaut⁎ sans pitié,
 Qui dessus leur argent soit le premier payé.
 
--*who_climenne
-C'est un autre embarras⁎, il seroit necessaire…
-
--*who_beatrix
-Madame, j'en sçais un qui sera vostre affaire.
-
--*who_climenne
-Où le prendre ?
-
--*who_beatrix
-      Il demeure à vingt pas du logis,
-Il est nouvellement venu de son païs ;
-On n'entend⁎ presque rien de tout ce qu'il veut dire,
-Il est si plaisamment vestu qu'il en fait rire,
-Madame, il est mutin⁎, parle fort son jargon⁎,
-Et n'entend⁎ à le voir ny rime ny raison,
-Il frape comme un sourd, ne cherche qu'à se battre,
-Il est fort comme deux, & méchant⁎ comme quatre,
-Avec sa mine⁎ froide il a le sang fort chaud.
-
--*who_le_beauceron
 Bon, voilà justement le Suisse qu'il nous faut.
 
--*who_beatrix
-Je vous le feray voir.
-
--*who_le_beauceron
       Au plûtost, sa presence…
 A propos le Gascon n'est pas sorty je pense.
 Il cherche à s'introduire ou j'en ay mal jugé ;
 Je vais s'il ne l'est pas luy donner son congé.
 
-**** *book_ *id_I05 *act_I *date_1670 *creator_montfleury
-
--*who_climenne
-De quoy t'es tu meslée ? est-ce pour mon supplice,
-Que tu veux t'ingerer de nous donner un Suisse ?
-Je ne puis voir Leandre, & n'est ce pas assez ?…
-
--*who_beatrix
-Je me sers, & vous sers plus que vous ne pensez,
-
--*who_climenne
-Comment ? s'il est ainsi, fais-le moy donc connoistre.
-
--*who_beatrix
-Si j'en veux au valet vous en voulez au Maistre,
-N'est-il pas vray ?
-
--*who_climenne
-      D'accort.
-
--*who_beatrix
-      Et le Basque est celuy,
-Que je pretens⁎ pour Suisse introduire aujourd'huy.
-
--*who_climenne
-As-tu perdu l'esprit ? le grossier artifice⁎,
-Crois-tu qu'il puisse prendre un Basque pour un Suisse ?
-En le faisant parler…
-
--*who_beatrix
-      Il contre fait si bien
-Le Suisse, que jamais on n'y connoistra⁎ rien,
-Vous jugerez bien-tost de ce que j'en puis dire,
-Ce folastre ceans⁎ m'en a cent fois fait rire,
-Personne ne l'a veu qui ne s'y soit trompé,
-Et je ne doute pas qu'il n'y soit attrapé.
-Je m'en suis avisée⁎ à propos, & Leandre,
-Sans cela prés de vous eust eu peine à se rendre,
-Si le Cousin eust pris sans nous en advertir,
-Un Suisse, il eust falu se resoudre à pâtir.
-
--*who_climenne
-Pour avoir le valet tasche à trouver le Maistre,
-Tu luy diras.
-
--*who_beatrix
-      J'y cours, mais je le vois paroistre.
-
-**** *book_ *id_I06 *act_I *date_1670 *creator_montfleury
-
--*who_leandre
-Je trouve en mon mal-heur quelque chose de doux,
-Puis qu'il permet encor que j'approche de vous,
-Ce moyen de vous voir que le hazard m'envoye,
-Suspend mon desespoir & fait place à ma joye,
-Mais qu'elle est imparfaite, & qu'un cœur alarmé⁎,
-Sent de maux quand il pert ce qu'il a tant aimé.
-L'époux qu'on vous destine a peu dequoy vous plaire,
-Madame, pourrez vous l'espouser & vous taire ?
-Et sans faire éclater⁎ luy donnant vostre foy⁎,
-Quelque reste des feux que vous sentiez pour moy.
-
--*who_climenne
-On veut que je l'épouse, & cet ordre me tuë,
-Mais la dispense enfin n'est pas encor venuë ;
-L'amour jusqu'à ce temps pourra faire pour nous…
-
--*who_leandre
-Mais s'il faut qu'elle vienne il sera vostre époux.
-
--*who_climenne
-Ne vous alarmez⁎ point, quoy que sa flame éclate⁎,
-Et souffrez⁎ jusques là qu'un peu d'espoir nous flate⁎
-
--*who_leandre
-De quel espoir helas ! flater⁎ ma passion ?
-
--*who_beatrix
-Que de discours, voicy dont il est question,
-Pour empescher qu'ici la foule ne se glisse,
-Le cousin Beauceron, veut que l'on prenne un Suisse,
-Vous sçavez que le Basque est un original,
-Qui le contre-fait bien.
-
--*who_leandre
-      Il ne le fait pas mal,
-Mesme de ce jargon⁎ s'est fait une habitude,
-Le drôle⁎ a de l'esprit, & mesme un peu d'estude,
-Il est plaisant, pourveu qu'il ne s'enyvre point,
-Tout iray bien.
-
--*who_beatrix
-      J'auray soin de luy sur ce point ;
-Trouvez-luy quelque habit de Suisse, & pour l'instruire,
-Qu'il me vienne trouver je le dois introduire.
-
--*who_leandre
-Mais…
-
--*who_beatrix
-      Ne demandez point ny comment, ny pourquoy,
-Despechez, & de tout reposez-vous sur moy.
-
--*who_leandre
-Je t'entens⁎, & je voy combien il nous importe,
-De rendre mon valet le maistre de la porte ;
-Je vais y donner ordre, & cet espoir m'est doux :
-Mais puis-je me flater⁎ en m'éloignant de vous ?
-
--*who_climenne
-Allez, & soyez seur que malgré l'advantage
-Qu'on veut me faire voir dedans ce mariage,
-Si l'amour, et le sort, secondent mes desirs,
-De l'espoir d'estre à vous je fais tous mes plaisirs ;
-Et que rien ne sçauroit esbranler ma constance.
-
--*who_leandre
-Que cet espoir m'est doux & que cette asseurance,
-Malgré ce que je crains rend mes desirs contens.
-
-**** *book_ *id_I07 *act_I *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Le Gascon est dehors, voicy l'autre dedans,
 Ils parlent d'action, peste quelle novice !
 
--*who_climenne
-Mon cœur vous en respond⁎.
-
--*who_le_beauceron
       Ah nous aurons un Suisse,
 Le deussay-je payer à mes dépens, je veux…
 
--*who_leandre
-Que ne vous dois-je point de souffrir⁎ que mes feux…
-
--*who_le_beauceron
 Puis qu'à remercier son ardeur est si prompte ;
 On peut s'imaginer que le drôle⁎ a son compte.
 
--*who_beatrix
-Voicy vostre cousin.
-
--*who_climenne
-      Ne vous alarmez⁎ point.
-Secondez seulement ma feinte sur ce point.
-Tous nos billets sont blancs, vous le voyez Leandre ;
-Mais enfin ce mal-heur ne nous doit pas surprendre,
-Il faut que quelqu'un perde, & le sort, aux despens :
-De mille mal-heureux, fait si peu de contens ;
-Que loin de s'en fascher il faut que l'on en rie.
-
--*who_le_beauceron
 Elle deviendra folle avec sa lotterie.
 
--*who_beatrix
-Ils sont blancs comme nege.
-
--*who_leandre
-      Il m'eust esté bien-doux,
-De pouvoir partager un lot avecque⁎ vous,
-Vous deviez avec vous associer quelqu'autre,
-Je crains que mon mal-heur n'ait fait naistre le vostre,
-Jamais l'évenement⁎ ne respond à mes veux.
-
--*who_climenne
-Peut estre une autre fois nous serons plus heureux,
-Je le souhaite au moins.
-
--*who_leandre
-      Madame, je l'espere,
-Et prens congé de vous.
-
--*who_le_beauceron
       La peste quel compere⁎.
 
-**** *book_ *id_I08 *act_I *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Et deux cousine, & deux, parlons de bonne foy,
 Il vous remercioit, peut-on sçavoir de quoy ?
 
--*who_climenne
-De rien.
-
--*who_le_beauceron
       Mais chacun sçait par son experience,
 Que qui ne reçoit rien ne donne point quittance.
 
--*who_climenne
-Nous avions dix billets ensemble chez Damis,
-Leandre s'y trouvant ce matin, les a pris,
-Il m'apportoit ma boëtte, & nous l'avons ouverte
-Et nous nous consolions tous deux de nostre perte ;
-Quoy que dans mes billets il n'eust que peu de part.
-
--*who_le_beauceron
 Combien avoit-il mis ?
 
--*who_climenne
-      Il n'estoit que d'un quart.
-
--*who_le_beauceron
 Le detour est adroit, ah ma chere cousine !
 D'un fleau de mary vous avez bien la mine⁎,
 Dites que ce galand⁎ avoit pour mon mal-heur ;
@@ -743,10 +187,6 @@ Et que sa bouche enfin entre chaque parole,
 Du vent de ses soûpirs encensoit vostre idole.
 Je l'ay veu…
 
--*who_climenne
-      Quoy, toûjours quelque soupçon nouveau ?
-
--*who_le_beauceron
 Ah ! cousine m'amie il faut changer de peau,
 Peut estre esperez-vous si le Ciel ne m'exauce,
 Sçachant que les forests sont rares dans la Beauce ;
@@ -754,42 +194,16 @@ Pourvoir à nos besoins pour une bonne fois,
 Et me faire à Paris provision de bois ;
 Mais enfin…
 
--*who_climenne
-      Ce courroux est assez legitime,
-Si vous n'avez pour moy qu'une si foible estime.
-
--*who_le_beauceron
 Qu'entens-je ?
 
--*who_climenne
-      Vous devez…
-
--*who_le_beauceron
       Rentrez, j'entens du bruit.
 
--*who_climenne
-Je pretens⁎…
-
--*who_le_beauceron
       Et mort-bleu faites ce qu'on vous dit.
 
-**** *book_ *id_I09 *act_I *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Où cours-tu ? que fais-tu ? quel couroux te transporte,
 
--*who_champagne
-Monsieur, on vient là bas de forcer nostre porte,
-Avec leur lotterie ils ont le diable au corps.
-
--*who_le_beauceron
 Maudit soit l'embarras⁎.
 
--*who_champagne
-      J'ay fait tous mes efforts,
-Avecque⁎ le cocher & la presse⁎ est si grande…
-
--*who_le_beauceron
 Avant que jusqu'à nous cette foule s'estende,
 Prens avec toy la brie & courez promptement,
 Prés de Climenne, elle est dans son appartement⁎,
@@ -797,153 +211,34 @@ Deffendez-en l'entrée, & que pas un n'en sorte,
 Et taschez d'empescher qu'on ne force sa porte.
 O Beatrix !
 
-**** *book_ *id_I10 *act_I *date_1670 *creator_montfleury
-
--*who_beatrix
-      Monsieur.
-
--*who_le_beauceron
       Va chercher de ce pas,
 Le Suisse que tu dis.
 
--*who_beatrix
-      J'y vais.
-
--*who_le_beauceron
       Quel embarras⁎ !
 Le peuple, & les Galans⁎, tour à tour font ma peine,
 Ah ! je ne pretens⁎ plus quitter d'un pas Climenne,
 Rentrons, le bruit augmente, & le peuple est mutin⁎ ;
 Afin de l'appaiser envoyons luy martin.
 
-**** *book_ *id_II01 *act_II *date_1670 *creator_montfleury
-
--*who_le_basque
-Lestre dans sty lochis que sty Monser dimeure ?
-Qu'il dir que je viendre moy ly servir tout à stheure⁎ !
-
--*who_beatrix
-Tréve de gravité personne ne nous voit.
-
--*who_le_basque
-As-tu bien regardé ?
-
--*who_beatrix
-      Ouy, nous sommes seuls.
-
--*who_le_basque
-      Soit
-Ma chere Beatrix !
-
--*who_beatrix
-      Ah laissons la sornette,
-Suisse fait à la haste.
-
--*who_le_basque
-      Ah ! charmante Soubrette,
-Si tu voulois ; pour toy je souffre nuit & jour,
-Tes yeux m'ont fait pour toy galerien d'amour,
-Je ne suis mesme icy Suisse que pour te plaire,
-Ah ! si je puis un jour ramer dans ta galere,
-Ne m'aimerois tu plus !
-
--*who_beatrix
-      Ne sçais-tu pas que si.
-
--*who_le_basque
-Puis que tu m'aimes donc, & que je t'aime aussi,
-Pourquoy tant de façons⁎ ?
-
--*who_beatrix
-      Il n'est pas temps de rire, 
-Tu vois ce qu'il faut faire & sçais ce qu'il faut dire,
-Songe à jouër icy ton roolle comme il faut,
-Je vais au Beauceron te conduire là haut,
-Il vient, prepare toy.
-
-**** *book_ *id_II02 *act_II *date_1670 *creator_montfleury
-
--*who_beatrix
-      Monsieur, voilà le Suisse.
-
--*who_le_basque
-Monser chil viendre icy ly rendre moy serfice,
-Si vous ly prendre moy je ly servir fort bien,
-Si vous nestry content moy ly dimandi rien.
-
--*who_le_beauceron
 On ne peut mieux parler ; tu n'as rien fait qui vaille.
 
--*who_beatrix
-Ce Suisse est vostre fait⁎.
-
--*who_le_beauceron
       D'un Suisse a-t-il la taille ?
 
--*who_beatrix
-Quoy celuy-cy, Monsieur, n'est pas à vostre gré ?
-
--*who_le_beauceron
 Il en faloit prendre un gras, grand, joufflu, carré,
 Barbu de deux bons pieds⁎, & qui fut fait de sorte,
 Que de son ventre seul, il peut boucher la porte.
 C'est un méchant⁎ ménage, & pour un tel logis,
 Il en faudroit un gros, ou du moins deux petits.
 
--*who_beatrix
-Ces gros Suisses, Monsieur, avec leur barbe salle ;
-Et leur ventre de son, sont des Suisses de balle.
-Estant plus maigre qu'eux il sera plus dispos,
-Et je l'aymerois mieux comme il est, que plus gros.
-Escoutez, & voyez.
-
--*who_le_basque
-      Matame Piatille
-Mafre dit que Monser voudre aver un bon drille⁎,
-Per garder sty maison che ly garder pien moy.
-
--*who_le_beauceron
 En avez-vous gardé quelqu'autre-part ?
 
--*who_le_basque
-      Mon foy,
-Lautry chour un Monser tonner un Cometie⁎,
-Tans son champre⁎, il tient la dy fort bon companie⁎.
-Dy fort pon fiolon, ly sthom afre moy pris,
-Per faire moy garder ly maison dy lochis,
-Ly voudrois pien pescher, car il afre in bel fame,
-Qu'un grand petit Monser parlit point à Montame,
-Il vient, chil pousser luy, cocquin, dir luy, party
-Chy lestre point cocquin, moy toy lafre menty ;
-Ly donne un cou di pié dan mon cu par derriere,
-Et dir qu'il donner moy bien de cou ditrifiere,
-Titrifiere, à moy tiche, avec stuy gros martiau,
-Dil porte en ly fermant chil casser son musiau.
-
--*who_le_beauceron
 Fort-bien.
 
--*who_beatrix
-      Entendez⁎-vous toute cette Harangue ?
-
--*who_le_beauceron
 Le beau⁎ doute, j'entens⁎ toute sorte de langue.
 Je ris de son recit, le drôle⁎ n'est point sot.
 
--*who_beatrix
-Et moy Monsieur, j'en ris sans entendre⁎ un seul mot.
-
--*who_le_beauceron
 Entra-t-il ?
 
--*who_le_basque
-      Lentry don si lentry par firnaitre ;
-La Matame safre ça, & ly veut que mon maistre,
-Chasser moy, mais party mon Maistre y jur son foy,
-Que chestre pon quarson & qu'il chasser point moy.
-Y pour mon riconpans my tonne un grand pistole⁎.
-
--*who_le_beauceron
 Que ce Suisse pour nous estoit en bonne escole ?
 Et qu'il me fait bien voir par sa naïfveté,
 Qu'il a servy des gens tous pleins d'honesteté,
@@ -951,49 +246,23 @@ Beatrix a raison, il est sans artifice⁎ ;
 Et ce n'est pas la taille enfin qui fait le Suisse.
 Comment vous nommez-vous ?
 
--*who_le_basque
-      Torften.
-
--*who_le_beauceron
       De quel Canton ?
 
--*who_le_basque
-Dy berne il estre bon sty Canton.
-
--*who_le_beauceron
       Ouy fort bon.
 Faisons luy sa leçon,
       allez dire à Climenne,
 Que de descendre en bas elle prenne la peine,
 Et qu'elle vienne voir nostre officier nouveau.
 
--*who_beatrix
-J'y vais, nostre cousin donne dans le panneau.
-
-**** *book_ *id_II03 *act_II *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Suisse.
 
--*who_le_basque
-      Plaist-il Monser.
-
--*who_le_beauceron
       Il faut servir de zele.
 Estre exact, assidu, civil⁎, hardy, fidelle.
 
--*who_le_basque
-Ouy, Monser.
-
--*who_le_beauceron
       Gardez⁎-vous d'estre l'introducteur,
 De ces certains Messieurs, comme ce grand Monsieur,
 Qu'on vouloit empescher de parler à Madame.
 
--*who_le_basque
-Ouy, Monser, lafre fou dans sty maison son fame,
-
--*who_le_beauceron
 Non pas, mais vous sçaurez pour ne point perdre temps,
 Que je dois épouser la fille⁎ de ceans⁎ ;
 Et que lors que je vois le galant⁎ qui l'approche,
@@ -1001,57 +270,23 @@ La coquette⁎ toûjours a sa défaite⁎ en poche,
 Je pretens⁎ l'empescher & veux que sur ce point,
 Vous soyez…
 
--*who_le_basque
-      Mais Monser tir fou ly craindre point,
-Si lestre son mary…sty Matame dy France,
-Ayme avec ly Monser le ptit rechouissance.
-
--*who_le_beauceron
 Nous y donnerons ordre.
 
--*who_le_basque
-      Un camarate à moy,
-Qui lafre pris un fam dan sty Paris, mon foy,
-Lestre riche, aure ly dans son pitit minache,
-Dy pon pip, dy pon vin, pon tabac pon formache
-Sty carogne⁎ dy fame y sty Monser Calan,
-Fisant sty suis cournar manchy tout son larchan.
-
--*who_le_beauceron
 Si nostre jeune oyson prenant l'affirmative,
 Pour quelque protestant⁎ fait quelque tentative,
 Il faudra m'advertir.
 
--*who_le_basque
-      Moy lentendre⁎ point vous.
-
--*who_le_beauceron
 Si la belle d'icy dont je dois estre époux,
 Pour voir quelqu'un de ceux que son bel œil attire ;
 Vous parloit pour l'un deux, il faudra me redire,
 Tout ce qu'elle aura dit, en quel temps, & comment.
 
--*who_le_basque
-Ouy Monser, j'il tir fou moy tout caillardement,
-
--*who_le_beauceron
 Bouche close ; il suffit, je voy venir Climenne.
 
-**** *book_ *id_II04 *act_II *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Venez, que dites-vous du Suisse qu'on m'ameine ?
 
--*who_climenne
-Je le trouve fort bien s'il est à vostre gré.
-
--*who_le_beauceron
 Voyez.
 
--*who_climenne
-      Comme il est fait ? ce Suisse est fort paré.
-
--*who_le_beauceron
 Vous riez, c'est ainsi que l'on voit dans les ruës,
 Ceux qui de leur païs viennent pour des recreües,
 L'innocence paroist dans cet habillement ;
@@ -1063,24 +298,8 @@ Les habits qu'on leur voit sont-ce leurs vrais habis,
 Non, & j'appelle enfin ces ames mercenaires,
 Des Suisses renegats des modes de leurs peres.
 
--*who_climenne
-Je veux croire avec vous qu'il est bien mieux ainsi,
-Et puis qu'il vous agrée, il me plaist fort aussi,
-A vostre jugement il faut que je me rende :
-Mais servira-t-il bien ?
-
--*who_le_basque
-      Party li pel⁎ dimande.
-Chil voudre moy garder si pien ly porte à vous,
-Que mon Maistre estre pien content.
-
--*who_le_beauceron
       Il est à nous.
 
--*who_climenne
-Quand il sera content je seray satisfaite.
-
--*who_le_beauceron
 Par-bleu voilà pour nous la premiere fleurette⁎,
 Elle est prise, & voit-bien qu'il faut changer de ton :
 Le Suisse opere, il faut commencer tout de bon⁎.
@@ -1088,12 +307,6 @@ Suisse, allez de ce pas vous poster à la porte,
 Le peuple est fort mutin⁎ ; mais il faut faire en sorte,
 Que sans confusion il donne son argent.
 
--*who_le_basque
-O Monser, j'y n'y fair moy point dy manquement.
-
-**** *book_ *id_II05 *act_II *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Cette acquisition est fort bonne, & ce Suisse
 Est comme je le veux, naif sans artifice⁎,
 Et nous allons avoir un peu plus de repos⁎ :
@@ -1105,12 +318,6 @@ Car enfin ainsi qu'eux, franchement, je suis las
 De tous les sots discours qu'on est forcé d'entendre
 Quant la tirerez-vous ? ne sçauroit-on l'apprendre ?
 
--*who_climenne
-Je ne sçais ; mais enfin estant sans interest,
-On peut rendre l'argent si cela vous déplaist ;
-Mesme des à present on peut le faire dire.
-
--*who_le_beauceron
 Qu'on ne se presse point, je veux bien qu'on la tire ;
 Cet espoir a pour moy quelque chose de dous,
 Car enfin à parler franchement entre-nous ;
@@ -1121,91 +328,37 @@ Nous sçavons supputer⁎, & suivant mon calcul :
 Ce qu'on y peut gagner, doit payer le carosse,
 Les chevaux, les habits, & les frais de la nosse.
 
--*who_climenne
-Quoy volant le public⁎ avoir le peuple à dos ?
-
--*who_le_beauceron
 Quoy pretendre⁎ employer tout cet argent en los ?
 
--*who_climenne
-Comment donc ?
-
--*who_le_beauceron
       Dites-moy quelle ceremonie,
 Pensez-vous observer tirant la lotterie ?
 
--*who_climenne
-Je pretens⁎ pour ne point faire de mécontens,
-Méler tous les billets.
-
--*who_le_beauceron
       Quoy les noirs & les blancs ?
 
--*who_climenne
-Sans doute, & que ce soit un lacquais qui les tire,
-Au hazard, & sans choix.
-
--*who_le_beauceron
       Ma foy je vous admire⁎.
 
--*who_climenne
-Puis faire cacheter d'un cachet peu commun,
-Les boëttes où seront les billets d'un chacun :
-Eviter si l'on peut le bruit & la cohuë,
-Et que fidelement quelqu'un les distribuë.
-
--*who_le_beauceron
 Sans les décacheter.
 
--*who_climenne
-      Je le pretens⁎ ainsi.
-
--*who_le_beauceron
 Et sans en supposer⁎ ?
 
--*who_climenne
-      Je le pretens⁎ aussi,
-Si je sçay que quelqu'un ait une telle envie.
-
--*who_le_beauceron
 Fy vous ne sçavez pas faire une lotterie,
 Et ne meritez pas, dans un employ si doux,
 La bonne opinion que le peuple a de vous.
 
--*who_climenne
-Je ne vous entens⁎ point.
-
--*who_le_beauceron
       Voyez-vous bien ce livre ?
 C'est luy qui vous devroit avoir appris à vivre,
 Le voilà le Docteur⁎ qu'il faloit consulter,
 Au Palais tout exprés je le viens d'acheter,
 Et vais vous en citer quelque petit chapitre.
 
--*who_climenne
-Qui l'a fait ?
-
--*who_le_beauceron
       Un Abbé plein d'esprit.
 
--*who_climenne
-      Sous quel titre.
-
--*who_le_beauceron
 Le titre en est divin.
 
--*who_climenne
-      Montrez- le moy.
-
--*who_le_beauceron
       Tous doux,
 Il l'intitule, avis aux Thresoriers des foux :
 C'est comme on nomme ceux qui font des lotteries.
 
--*who_climenne
-Ce sont d'un esprit creux quelques plaisanteries.
-
--*who_le_beauceron
 C'est un fort habille homme, & je vous en responds⁎,
 Ecoutez vous verrez s'il en raisonne à fonds.
 Tout homme qui voudra faire une lotterie,
@@ -1215,11 +368,6 @@ Doit demeurer dans la maison .
 Voilà le premier point qu'il faut qu'on établisse,
 Le fondement la baze…
 
--*who_climenne
-      Est-il quelque justice,
-A piller le public⁎ ? & n'est-ce pas voler.
-
--*who_le_beauceron
 C'est ce qu'il faut sçavoir ou ne s'en pas méler,
 Voilà le premier point dont il faut qu'on se serve ;
 Et voicy le second qu'il faut que l'on observe.
@@ -1235,24 +383,10 @@ Et faire profiter jusques au dernier double⁎,
 Au denier⁎ quatre si l'on peut :
 Voilà mort-bleu, voilà raffiner sur la chose.
 
--*who_climenne
-Quelques expediens que cet autheur propose,
-C'est un dépost sacré que l'argent du Public⁎,
-En feroit-on trafic.
-
--*who_le_beauceron
       Si l'on en fait trafic.
 
--*who_climenne
-C'est ce que j'ignorois & ne suis point capable…
-
--*who_le_beauceron
 Vous l'ignoriez ?
 
--*who_climenne
-      Sans doute.
-
--*who_le_beauceron
       Et mort-bleu dequoy diable,
 Vous ingerez-vous donc si vous ne le sçavez ?
 Dequoy vous sert l'esprit qu'on dit que vous avez ?
@@ -1260,11 +394,6 @@ Il faloit donc avant que la chose fust faite
 D'un livre tout pareil faire une bonne emplette,
 Aprendre chaque article & n'en obmettre aucun.
 
--*who_climenne
-Mais j'en ferois scrupule & quand j'en aurois un :
-Je ne puis…
-
--*who_le_beauceron
       Et cela ne fait peine à personne,
 Escoutez sur ce point comme l'auteur raisonne.
 Le scrupulle en ce cas ne doit point s'écouter ;
@@ -1272,10 +401,6 @@ Et chacun doit sçavoir touchant⁎ les lotteries,
 Que comme il est des fous pour faire des folies :
 Il n'est des gens sensez que pour en profiter.
 
--*who_climenne
-Je ne puis me servir de cette Politique.
-
--*who_le_beauceron
 Quand on la veut tirer voicy ce qu'on pratique :
 Le tiers des billets noirs qu'on doit mettre à couvert⁎,
 Doit estre donné de concert⁎,
@@ -1283,10 +408,6 @@ Avec ses gens⁎ faut s'entendre ;
 Et leur en faire échoir exprés :
 Le profit…
 
--*who_climenne
-      Quel profit en pourroit-on attendre ?
-
--*who_le_beauceron
 C'est où je vous attens vous l'allez voir après.
 Il faut que de concert⁎ un lot considerable,
 Et non pas un lot tel que tel ,
@@ -1312,11 +433,6 @@ Aussi⁎ bien le Proverbe dit,
 Que qui s'acquitte s'enrichit.
 Que cet homme a d'esprit !
 
--*who_climenne
-      Il n'est pas necessaire,
-Pour moy qui ne dois rien.
-
--*who_le_beauceron
       Ah ! voicy vostre affaire.
 Quand à ceux qui n'ont point de debtes à payer,
 Ny de gens mécontens, ils pourront employer ;
@@ -1331,23 +447,12 @@ Jusqu'à son lit, sans conséquence ;
 Et quoy qu'il soit de cinq ou six cens francs au plus,
 Le faire effrontement valoir six cens écus⁎.
 
--*who_climenne
-D'accort mais sur ce point la semaine derniere,
-Tels eurent un procés sur semblable matiere :
-On vouloit le surplus le tour est délicat.
-
--*who_le_beauceron
 Il est vray sur ce point qu'un Flandrin⁎ d'Advocat,
 De figure fort longue, & de courte éloquence,
 Tira par ses cheveux Cujax à l'Audiance ;
 Et vouloit qu'à le rendre ils fussent condamnez :
 Mais qu'en arriva-t-il ? il n'eut qu'un pied de nez.
 
--*who_climenne
-Je craindrois du public⁎ le reproche ou la plainte ;
-Et ne pourrois…
-
--*who_le_beauceron
       Chacun en use ainsi sans crainte,
 L'artisan fait ses lots d'un plat de son métier,
 Le bourgeois y met tout ce qu'il peut employer ;
@@ -1362,17 +467,9 @@ Fait chez-luy le gros lot d'un garde magazin⁎ ;
 Et mesme l'autre jour chez un Apoticaire,
 Pour un des moindres lots on mettoit un clistaire.
 
--*who_climenne
-Mais le peuple s'en mocque & l'on devroit tâcher…
-
--*who_le_beauceron
 Tant mieux c'est un plaisir qui luy coûte assez cher ;
 On peut à ses dépens luy permettre d'en rire.
 
--*who_climenne
-Mais…
-
--*who_le_beauceron
       Contre cet Autheur vous n'avez rien à dire,
 Quoy d'une lotterie on aura l'embarras⁎ ;
 Et celuy qui la fait n'en profiteroit pas ?
@@ -1389,248 +486,30 @@ Allez de cet Autheur parcourir chaque page ;
 Et tandis qu'à loisir vous lirez ces advis,
 Je vais auprés de vous écrire à mon païs.
 
--*who_climenne
-Va porter mon billet.
-
-**** *book_ *id_II06 *act_II *date_1670 *creator_montfleury
-
--*who_beatrix
-      Pendant que ce fantasque,
-Ecrit, allons parler à nostre Suisse Basque ;
-Il vient de debuter plaisamment, à ce fou,
-L'a pris pour duppe, & m'a fait rire tout mon sou,
-Mais je le vois venir, de me voir il petille,
-Si quelqu'un…
-
-**** *book_ *id_II07 *act_II *date_1670 *creator_montfleury
-
--*who_le_basque
-      Pon chour fou Matame Piatille,
-
--*who_beatrix
-Laisse-là ton jargon⁎ nous sommes seuls.
-
--*who_le_basque
-      Ma foy
-J'en suis ravy, tant mieux ; mais que dis-tu de moy ?
-
--*who_beatrix
-Que je crois que l'on peut dire à ton avantage,
-Que tu fais mieux le fou que tu ne fais le sage.
-
--*who_le_basque
-J'en demeure d'accort, mais…
-
--*who_beatrix
-      Quoy mais…
-
--*who_le_basque
-      Je voudrois,
-T'apprendre à faire un peu la folle⁎.
-
--*who_beatrix
-      Une autre fois.
-
--*who_le_basque
-Ah ! si tu me voulois faire sans consequence,
-Sur nostre Hymen futur quelque petite avance.
-
--*who_beatrix
-Tu me prens pour une autre.
-
--*who_le_basque
-      Ah ! point du tout ma foy,
-Si je te prens jamais, je te prendray pour moy.
-
--*who_beatrix
-J'entens quelqu'un.
-
--*who_le_basque
-      Party si toy l'est pien timeure,
-Ty lafre biau cogner, chy loufre d'un cartheure
-Si chil prent mon libarte ô party…quoy ?
-
--*who_beatrix
-      Tais-toy,
-Ce n'est rien.
-
--*who_le_basque
-      Comment donc te mocques-tu de moy ?
-
--*who_beatrix
-On peut dans cette sale aisement nous surprendre.
-
--*who_le_basque
-Viens dedans mon taudis.
-
--*who_beatrix
-      Non, mais je veux t'apprendre,
-Que je voudrois parler à ton Maistre aujourd'huy.
-
--*who_le_basque
-Quelqu'un heurte à la porte & je croy que c'est luy,
-
--*who_beatrix
-Ouvre luy.
-
--*who_le_basque
-      Qu'ay-je fait de la clef de la porte ?
-La voicy.
-
--*who_beatrix
-      Va donc viste il attend.
-
--*who_le_basque
-      Et qu'importe.
-
--*who_beatrix
-Preparons le billet que ma Maistresse écrit,
-A Leandre, Il verra que le tout est d'esprit ;
-Mais je le voys.
-
-**** *book_ *id_II08 *act_II *date_1670 *creator_montfleury
-
--*who_leandre
-      Et bien ne puis-je voir Climenne ?
-
--*who_beatrix
-Si vous vous en flattez⁎ vostre esperance est veine,
-Et si vous m'en croyez, retournez sur vos pas,
-
--*who_leandre
-Pourquoy ?
-
--*who_beatrix
-      Nostre bouru ne l'abandonne pas,
-Et depuis que tantost avec vous il l'a veuë,
-A l'obseder⁎ ainsi son ame est resoluë,
-Ce maudit Beauceron, pour la mieux tourmenter,
-A fait mille sermens de ne la plus quitter,
-Il dit qu'on fait icy des tours de passe passe,
-Qu'il veut estre témoin de tout ce qu'il se passe,
-Qu'il pretend⁎ y mettre ordre, & qu'il veut empescher
-Que pas un soûpirant ne la puisse approcher ;
-Il vient de s'enfermer dans sa chambre avec elle.
-
--*who_leandre
-Ah, que pour mon Amour la fortune⁎ est cruelle !
-Quoy donc m'estant flatté⁎ du plaisir de la voir ;
-Il faut perdre à la fois sa veuë & mon espoir ;
-Voir qu'à de si beaux nœuds on face violence ?
-Ah ! Beatrix ce coup accable ma constance.
-
--*who_beatrix
-Avecque⁎ ce billet prenez un peu d'espoir,
-Et jugez si Climenne a dessein de vous voir,
-Et si son cœur pour vous de tendresse⁎ est capable.
-
--*who_leandre
-Je n'en sçaurois douter, le tour est admirable :
-Que ne te dois-je point, je n'y manqueray pas,
-Beatrix, dis luy bien que je vais de ce pas ;
-En suivant cet advis⁎ éloigner le fantasque ;
-Mais il me faut icy quelqu'un.
-
--*who_beatrix
-      Prenez le Basque.
-
--*who_leandre
-Et s'il s'en apperçoit, & demande pourquoy
-Il est dehors ?
-
--*who_beatrix
-      Allez je prens cela pour moy,
-Je l'excuseray bien, c'est à quoy je m'engage.
-
--*who_leandre
-Il faut faire pour nous un autre personnage,
-Basque.
-
--*who_beatrix
-      Et jouër encor un tour aussi subtil.
-
--*who_le_basque
-Et bien me voilà prest, mais dequoy s'agit-il ?
-
--*who_leandre
-Je t'instruiray de tout, j'engage ma parole,
-Qu'auprés du Beauceron il jouëra bien son roole,
-Et qu'il luy va donner à courre comme il faut :
-Adieu je sors.
-
--*who_beatrix
-      Et moy je remonte là haut.
-
-**** *book_ *id_III01 *act_III *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Eh Suisse, Beatrix, eh Champagne la Brie,
 La peste soit des lots & de la lotterie,
 Quelle confusion !
 
-**** *book_ *id_III02 *act_III *date_1670 *creator_montfleury
-
--*who_beatrix
-      Monsieur, que voulez-vous ?
-
--*who_le_beauceron
 De grace dites-moy, d'où viennent tous ces fous,
 Dont auprés de Martin, la chambre est toute pleine ?
 
--*who_beatrix
-A donner leur argent ils ont assez de peine.
-
--*who_le_beauceron
 Quoy nostre nouveau Suisse au lieu de s'aguerir⁎,
 Les laisse entrer ?
 
--*who_beatrix
-      Le Suisse est allé voir mourir,
-Sa femme, qui dit-on est preste à rendre l'ame.
-
--*who_le_beauceron
 Elle prend bien son temps pour mourir cette femme,
 Que Diable n'attend-elle au moins encor un jour,
 Qui prend garde à la porte ?
 
--*who_beatrix
-      Attendant son retour,
-Champagne…
-
--*who_le_beauceron
       Ce maraut⁎ laisse entrer tout le monde ;
 
--*who_beatrix
-Il est constant Monsieur, il faut que je l'en gronde ;
-Et j'y vais de ce pas.
-
-**** *book_ *id_III03 *act_III *date_1670 *creator_montfleury
-
--*who_le_beauceron
       C'est fort bien fait à toy,
 Quel sabat, quel fracas ! ah je suis hors de moy ;
 Ce desordre est enfin tout ce que j'apprehende.
 
-**** *book_ *id_III04 *act_III *date_1670 *creator_montfleury
-
--*who_champagne
-Avec empressement un homme vous demande.
-
--*who_le_beauceron
 Que veut-il ?
 
--*who_champagne
-      Je ne sçay.
-
--*who_le_beauceron
       Mais comment est-il fait ?
 
--*who_champagne
-C'est un homme qui porte un fort petit colet⁎,
-Avec un habit noir, enfin c'est ce me semble,
-Quelque façon d'Abbé, du moins il leur ressemble.
-
--*who_le_beauceron
 Qu'il entre, ce sera quelque Abbé de bibus,
 Ah ! que ce nom d'Abbé, fait à Paris d'abus.
 Mille Abbez du faux coin en dérobent le titre,
@@ -1650,143 +529,51 @@ Ah cet avis⁎ enfin vaudroit je croy bien l'autre,
 Il vient je m'en doutois & c'est un cuistre⁎ aussi ;
 Que me veut-il ?
 
-**** *book_ *id_III05 *act_III *date_1670 *creator_montfleury
-
--*who_le_basque
-      Joüons bien nostre roole icy,
-Monsieur puis qu'un hazart me donne la licence,
-De vous pouvoir icy faire la reverence…
-
--*who_le_beauceron
 Monsieur sans compliment vostre civilité…
 
--*who_le_basque
-Je sçais ce que je dois à vostre qualité…
-
--*who_le_beauceron
 Tréve de reverence il suffit d'une couple,
 Monsieur en quatre mots j'ay le jaret peu souple,
 Finissons
 
--*who_le_basque
-      Je dois trop…
-
--*who_le_beauceron
       Vous l'avez déja dit,
 Si vous me les devez je vous en fais credit ;
 Que voulez vous de moy ? que le Ciel vous confonde,
 Si vous ne répondez.
 
--*who_le_basque
-      S'il faut que je réponde,
-Je vous diray Monsieur que je suis Beauceron.
-
--*who_le_beauceron
 Que m'importe ?
 
--*who_le_basque
-      Et cousin de vostre vigneron.
-
--*who_le_beauceron
 Et que me fait cela.
 
--*who_le_basque
-      J'ay mesme l'avantage,
-D'estre l'un des neveux du Curé du village ;
-J'ay sceu depuis huit jours que vous estiez icy.
-
--*who_le_beauceron
 D'accort.
 
--*who_le_basque
-      J'en suis fort aise⁎.
-
--*who_le_beauceron
       Et moy fort aise⁎ aussi.
 
--*who_le_basque
-Que vous vous portez bien !
-
--*who_le_beauceron
       Qui vous dit le contraire ?
 
--*who_le_basque
-Vous vous mariez donc ?
-
--*who_le_beauceron
       Cela se pourra faire.
 
--*who_le_basque
-Et vostre épouse est jeune et belle.
-
--*who_le_beauceron
       L'on le croit.
 
--*who_le_basque
-Je m'appelle la roche.
-
--*who_le_beauceron
       Et bien la roche soit.
 
--*who_le_basque
-Pour goûter sous l'Hymen les plaisirs de la vie,
-Vous irez au pays ?
-
--*who_le_beauceron
       Ouy, s'il m'en prend envie.
 
--*who_le_basque
-Vous demeurez ceans⁎ ?
-
--*who_le_beauceron
       Toûjours si je n'en sors.
 
--*who_le_basque
-Vous manque-t-on souvent ?
-
--*who_le_beauceron
       Tant que je suis dehors.
 
--*who_le_basque
-Pour vous rendre mes soins⁎ mon ardeur est si forte.
-
--*who_le_beauceron
 Eh mort-bleu voulez-vous finir de quelque sorte.
 Beauceron trop poly, parce que vous sçavez
 Faire vingt pieds de veau, de deux que vous avez,
 Voulez-vous m'insulter ? & venir par bravades,
 Me payer le respect qu'on me doit en gambades.
 
--*who_le_basque
-Mais Monsieur…
-
--*who_le_beauceron
       Mais voilà la porte, & me voicy,
 Choisissez de conclure, ou de sortir d'icy,
 Toutes vos questions lassent ma patience.
 
--*who_le_basque
-Et bien je vais Monsieur conclure en diligence ;
-Et rendre mon discours plus clair dessus cela
-Qu'un syllogisme n'est, fust-il en barbara.
-
--*who_le_beauceron
 O le facheux⁎ pedant⁎ ! depeschez je vous prie,
 
--*who_le_basque
-Chez Oronte on tira des hier la lotterie ;
-J'estois prés d'une table où l'on distribuoit
-La boëtte & les billets, de qui les demandoit,
-Chacun voulant les siens, plusieurs s'en approcherent
-Et la firent pencher ; quelques boëttes tomberent,
-J'en pris une, & voulus voir sa suscription⁎ :
-In capite libri ; J'apperceus vostre nom,
-Je la serray⁎, de peur qu'elle ne fut perduë ;
-Et des hier sans la nuit je vous l'aurois renduë :
-Trop content de pouvoir quand je le croy le moins,
-Vous rendre ce service, & vous prouver mes soins⁎.
-
--*who_le_beauceron
 Que ne vous dois-je point ? dedans cette mélée,
 Sans vous ma boëtte estoit ou perduë ou volée :
 Que je vous sçais bon gré de n'estre point larron ?
@@ -1796,45 +583,21 @@ Cousin du directeur general de mes vignes :
 Mais puis qu'enfin pour moy, vous avez pris ce soin,
 De ce qu'il en sera vous serez le témoin.
 
--*who_le_basque
-Monsieur il me suffit…
-
--*who_le_beauceron
       Ah ! Monsieur de la roche,
 Demeurez.
 
--*who_le_basque
-      J'obeys.
-
--*who_le_beauceron
       J'ay des cizeaux en poche,
 Voyons dans ce premier.
 
--*who_le_basque
-      S'il pouvoit estre noir.
-
--*who_le_beauceron
 Ah ! par-bleu, je commen…
 
--*who_le_basque
-      Et bien.
-
--*who_le_beauceron
       A ne rien voir,
 Deux & trois tous pareils alors qu'on se propose,
 De gagner…Ah ! ma foy.
 
--*who_le_basque
-      Quoy ?
-
--*who_le_beauceron
       Je voy quelque chose,
 C'est du noir ; Ouy c'en est : numero vingt-&-six.
 
--*who_le_basque
-Si c'estoit le gros lot ?
-
--*who_le_beauceron
       Voyons, trois cent Louys⁎.
 Mort-bleu trois cent Louys⁎, n'ay-je point la berluë,
 Lisons trois cent Louys⁎ non j'ay fort bonne veuë,
@@ -1846,64 +609,26 @@ Civil⁎, officieux⁎, & des-interessé,
 Ah ! pourquoy des tantost⁎ ne vous ay-je embrassé ?
 Mais je pretens⁎ enfin reparer cette faute.
 
--*who_le_basque
-Ah ! vous m'enfoncerez, Monsieur plus d'une coste.
-
--*who_le_beauceron
 Et vous témoin muet de tant de probité,
 Digne certificat de son integrité.
 
--*who_le_basque
-Si vous me soupçonniez cecy vous desabuse.
-
--*who_le_beauceron
 Ah ! Monsieur mille fois je vous demande excuse ;
 Oublions le passé, je vous tiens à present,
 Pour un homme d'honneur & sur tout bien-faisant.
 
--*who_le_basque
-Comme je n'aspirois qu'à vous rendre service,
-J'excuse le transport⁎ qui m'a fait injustice ;
-Et vous honore trop pour en dire un seul mot,
-Si vous voulez tantost⁎ vous aurez vostre lot :
-On les doit délivrer, & mesme l'heure approche ;
-Je prens congé de vous.
-
--*who_le_beauceron
       Ah ! Monsieur de la Roche.
 Je suis reconnoissant, & vous me faites tort,
 De me quitter ainsi, le present n'est pas fort ;
 Mais daignez accepter ces vingt Louys⁎.
 
--*who_le_basque
-      De grace,
-Croyez…
-
--*who_le_beauceron
       Dans vostre cœur je sçay ce qui se passe.
 
--*who_le_basque
-L'interest…
-
--*who_le_beauceron
       Je le sçais mais enfin je pretens.
 
--*who_le_basque
-C'est pour vous obliger, Monsieur que je les prens.
-
--*who_le_beauceron
 Adieu venez me voir quelquesfois.
 
--*who_le_basque
-      Je l'espere,
-Il en tient.
-
--*who_le_beauceron
       Serviteur.
 
-**** *book_ *id_III06 *act_III *date_1670 *creator_montfleury
-
--*who_le_beauceron
       Non je ne puis m'en taire ;
 Je ne sçaurois assez admirer⁎ mon bon-heur⁎,
 Ce que c'est que d'avoir affaire aux gens d'honneur :
@@ -1922,9 +647,6 @@ D'introduire quelqu'un sans que j'en sceusse rien :
 Allons voir si le Suisse est de retour ; son zelle…
 Mais Climenne paroist que Diable cherche-t-elle.
 
-**** *book_ *id_III07 *act_III *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Est-ce pour un galand⁎ que l'amour en argus,
 Vous poste en sentinelle ou vous met à l'affus ?
 Venez-vous voir quittant vostre chambre si viste,
@@ -1950,16 +672,6 @@ Dont les coins⁎ empoulez⁎ sont lardez⁎ de poinçons⁎,
 Et vos façons⁎ de plus en tout si peu communes,
 Font voir que tout cela n'est pas mis pour des prunes.
 
--*who_climenne
-Ne voulez-vous songer qu'à me persecuter ?
-Et n'estre ingenieux que pour me tourmenter ?
-La plus rare beauté veut que l'art la seconde,
-Il faut estre à la mode, ou renoncer au monde,
-Outre que je ne voy dans mon ajustement⁎,
-Rien que de fort modeste⁎, à parler franchement,
-Tout vous choque, & sur tout vous voulez me contraindre.
-
--*who_le_beauceron
 Il est vray j'ay grand tort cousine de me plaindre.
 Je devois sans troubler tantost vostre entretien⁎
 Avec ces deux Messieurs, passer sans dire rien
@@ -1972,30 +684,12 @@ Mais on en diroit trop si je pouvois m'en taire,
 Je suis sur ce sujet difficile à ferrer,
 Et ne fais pas façon⁎ de vous le declarer.
 
--*who_climenne
-Des discours si picquans⁎ ont un peu trop de suite ;
-Mais surquoy pouvez-vous censurer ma conduite ?
-Ay-je dans mes habits rien qu'on puisse blamer ?
-
--*who_le_beauceron
 Non.
 
--*who_climenne
-      Rien dans mes discours qui vous doive alarmer⁎ ?
-
--*who_le_beauceron
 Non.
 
--*who_climenne
-      Rien dans l'entretien⁎ contre la bien-seance ?
-
--*who_le_beauceron
 Non.
 
--*who_climenne
-      Surquoy fondez-vous donc tant de défiance ?
-
--*who_le_beauceron
 Voyez vous les habits, les discours, l'entretien⁎ ;
 Cela c'est quelque chose, & si cela n'est rien ;
 C'est vostre cœur qui donne entrée à la fleurette⁎ ;
@@ -2003,22 +697,10 @@ C'est entre cuir & chair que vous estes coquette⁎ ;
 Et je voudrois enfin pour voir mes feux contens,
 Avec moins du dehors avoir plus du dedans.
 
--*who_climenne
-Je vous entens toûjours plaindre de quelque chose.
-
--*who_le_beauceron
 Je trouve auprés de vous toûjours quelqu'un qui cause.
 
--*who_climenne
-Puis-je estre auprés des gens & ne leur dire mot ?
-
--*who_le_beauceron
 Et puis-je l'endurer sans passer pour un sot⁎ ?
 
--*who_climenne
-La civilité veut…
-
--*who_le_beauceron
       Afin que sans surprise,
 L'amour de nostre Hymen face un Hymen de mise,
 Qui n'ait pour compagnon jamais le repentir,
@@ -2053,17 +735,9 @@ En peu de mots voilà matiere à decider,
 Vous verrez si cela vous peut accommoder,
 Et me direz tantost⁎ quelle est vostre pensée.
 
--*who_climenne
-Sans attendre…
-
--*who_le_beauceron
       Et cela n'est pas chose pressée ;
 Je n'ay pas le loisir.
 
--*who_climenne
-      Mais…
-
--*who_le_beauceron
       Mais c'en est assez,
 Vous me direz tantost⁎ ce que vous en pensez.
 M'en voila délivré, courons en diligence,
@@ -2071,48 +745,22 @@ Recevoir cet argent, mais cachons nostre absence,
 Je vais donner mon ordre, au Suisse sur ce point.
 Le voicy.
 
-**** *book_ *id_III08 *act_III *date_1670 *creator_montfleury
-
--*who_le_basque
-      Chyl tir toy party qui lentry point,
-Toy ly veut voir Montam chi lestre point un peste.
-
--*who_le_beauceron
 Qu'est-ce Canton de Berne.
 
--*who_le_basque
-      Il my rompre⁎ mon teste,
-Un Gascon pour lentrer jil jeter son chapiau,
-D'un cou de mon libarte au mitan⁎ di russiau⁎.
-
--*who_le_beauceron
 Vous avez fort bien-fait…mais Suisse vostre fame,
 A ce que l'on m'a dit est preste à rendre l'ame.
 
--*who_le_basque
-O point chi ly reviendre, un Monser Medeçain 
-Tir moy qu'il estre rien, qu'il moury que timain.
-
--*who_le_beauceron
 Le repy n'est pas grand, son sens froit me fait rire,
 Ce n'est rien, un Monsieur Medecin vient de dire,
 Que ce n'est que demain que sa femme moura,
 Ah vous n'en estes pas plus emeu que cela ?
 
--*who_le_basque
-O ly connestre pien Medicain.
-
--*who_le_beauceron
       Une affaire
 M'oblige de sortir, il sera necessaire,
 Si quelqu'un me demande, après m'avoir cherché,
 De dire que je suis dans ma chambre empesché⁎,
 Mesme à ceux du logis, à moins que de me suivre.
 
--*who_le_basque
-Chil tir quil tormi vou pien fort & quil estre yvre.
-
--*who_le_beauceron
 J'aymerois mieux encor que l'on me creust dehors,
 Qu'yvre dans le logis, je crains bien si je sors,
 Que ce Suisse ingenu ne gaste⁎ le mystere,
@@ -2124,227 +772,21 @@ Que l'on n'en reçoit plus, que demain on la tire,
 Et pour les empescher de vous persecuter,
 Il faut ne point respondre & les laisser heurter.
 
--*who_le_basque
-Ouy, Monser.
-
--*who_le_beauceron
       Et sur tout ne point ouvrir la porte,
 Jusques à mon retour à personne, il m'importe,
 Qu'on soit exact.
 
--*who_le_basque
-      Sur fou party quil lentrera,
-Rien point d'aut que mon Maistre ou pien moy…
-
--*who_le_beauceron
       Bon cela⁎,
 C'est assez & je sors aprés cette asseurance.
 
--*who_le_basque
-Il en tient.
-
--*who_le_beauceron
       Mais sur tout cachez bien mon absence.
 A tous ceux du logis.
 
--*who_le_basque
-      O fou me lafre dit.
-Qu'il est duppe.
-
--*who_le_beauceron
       Si…
 
--*who_le_basque
-      Quoy Monser.
-
--*who_le_beauceron
       J'entens du bruit.
 Cela suffit je sors.
 
--*who_le_basque
-      Chil louvre fou sty porte.
-
-**** *book_ *id_III09 *act_III *date_1670 *creator_montfleury
-
--*who_beatrix
-Enfin il est dehors, que Belzebut l'emporte,
-Sans oublier quiconque en aura du soucy⁎,
-Je suis depuis une heure en sentinelle icy,
-Pour voir s'il sortiroit, combien il a de peine⁎,
-À sortir, mais allons avertir Climenne,
-Ne vois-je pas Leandre ?
-
-**** *book_ *id_III10 *act_III *date_1670 *creator_montfleury
-
--*who_beatrix
-      Estiez- vous à l'affus ?
-Pour estre icy si-tost.
-
--*who_leandre
-      Depuis une heure & plus,
-J'attendois sur le pas d'une porte voisine,
-Qu'il sortit.
-
--*who_le_basque
-      L'on n'a point éventé nostre mine.
-
--*who_leandre
-Mais quand reviendra-t-il, dis moy te l'a-t-il dit ?
-
--*who_beatrix
-Quoy qu'il face, il ne peut revenir qu'à la nuit,
-Oronte loge loin d'icy, quoy qu'il se presse…
-
--*who_leandre
-Tant mieux, je vais donc voir ta charmante Maistresse.
-
--*who_beatrix
-Venez.
-
--*who_leandre
-      Mais souviens toy qu'il faut bien achever.
-
--*who_le_basque
-Vivez en repos.
-      Toy…
-
--*who_beatrix
-      Je viens te retrouver.
-
--*who_le_basque
-D'accort, & nous pourrons nous sentant de la Feste,
-Regler nostre entretien⁎ dessus leur teste à teste.
-
-**** *book_ *id_IV01 *act_IV *date_1670 *creator_montfleury
-
--*who_le_gascon
-À la fin j'ay trouvé moyen d'entrer ceans⁎,
-La porte est à present ouverte à tous venans :
-Grace au Suisse qui dort & qui sans doute est yvre,
-C'est un fâcheux⁎ maraut⁎ dont le Ciel me delivre ;
-S'il n'estoit endormy j'aurois pû me venger,
-Ce cocquin m'a cent fois pensé faire enrager,
-Et des que je venois me montrer à la porte ;
-Me la fermoit au nez tres-rudement, n'importe ;
-Je la luy garde bonne, & devant⁎ qu'il soit peu,
-Nous conterons ensemble & nous verrons beau jeu ;
-Je sçay qu'il ne l'a fait que pour me faire niche :
-Mais de coups de baston le Ciel m'a fait peu chiche.
-Où se sont donc fourrez tous les gens⁎ du logis,
-Mais n'apperçois-je pas Monsieur Martin ?
-
-**** *book_ *id_IV02 *act_IV *date_1670 *creator_montfleury
-
--*who_martin
-      Quid vis.
-
--*who_le_gascon
-Que vous parliez François dites franc je vous prie,
-Quand pretend⁎-t-on ceans⁎ tirer la lotterie ?
-
--*who_martin
-Cette affaire demande une uniformité,
-De candeur, de loisir & de sagacité.
-Un Auteur tres-sensé dit que l'exactitude,
-Se trouve rarement avec la promptitude.
-Le peuple cependant abordant à milliers,
-Et la foule causant des debats⁎ journaliers,
-Du contraste⁎, du bruit, d'autres choses fâcheuses⁎,
-Des altercations mesme contentieuses,
-Je suscrits aujourd'huy les boëttes de ma main,
-Et l'on pretend⁎ tirer les billets des demain.
-
--*who_le_gascon
-Dieu me damne j'en suis au comble de la joye,
-Pour me mettre en repos⁎ je n'ay que cette voye,
-Comment à chaque jour je creve dans ma peau,
-J'ay toûjours aux talons quelque fâcheux⁎ nouveau,
-Après moy sans quartier sans cesse quelqu'un crie,
-Et si l'on ne tiroit bien-tost la lotterie…
-
--*who_martin
-Eh ! qu'importe à ces gens qu'on face cet effort ?
-
--*who_le_gascon
-Comment diable qu'importe, il importe tres-fort,
-Les gens que je vous dis qui m'obsedent⁎ sans cesse,
-Sont six creanciers miens ; comme chacun d'eux presse,
-Je me suis à la fin resolu d'assigner,
-Leurs debtes sur les lots que je m'en vais gagner,
-Brûlant d'estre payez jugez s'il leur importe.
-
--*who_martin
-Quoy vous croyez payer vos debtes de la sorte ?
-Et vos creanciers foux au supresme degré,
-Prennent pour hypotecque un lot mal assuré ?
-C'est vouloir les berner, depuis quand l'esperance,
-Pour payer des debets⁎ a-t-elle cours en France ?
-Si vous avez dessein de payer ces Messieurs,
-Croyez-moy cherchez leur un autre fons⁎ ailleurs.
-
--*who_le_gascon
-Vous m'embarassez fort, à vostre lotterie,
-Feroit-on dites-moy quelque friponnerie ?
-
--*who_martin
-Vous avez tort, Monsieur, d'avoir un tel soupçon.
-
--*who_le_gascon
-Veut-on favoriser quelqu'un des gros lots ?
-
--*who_martin
-      Non.
-
--*who_le_gascon
-Comment donc tous ces lots que ceans⁎ on doit faire,
-N'est-ce pas de l'argent content ?
-
--*who_martin
-      La chose est claire,
-Mais il faut pour avoir les gros lots de ceans⁎,
-Les gagner.
-
--*who_le_gascon
-      Cadedy⁎ c'est comme je l'entens,
-Je pretens⁎ du gros lot acquitter quatre debtes,
-Et le gagner s'entend ; quelle mine⁎ vous faites.
-
--*who_martin
-Je voy gagnant des lots que tout ira fort bien,
-Mais qui les payera si vous ne gagnez rien ?
-
--*who_le_gascon
-Cela ne se peut pas, que diable allez vous dire ?
-
--*who_martin
-Je croy que vous n'aurez pas grand sujet d'en rire.
-
--*who_le_gascon
-Comment vous le croyez ?
-
--*who_martin
-      Ouy je vous en repons⁎.
-
--*who_le_gascon
-Je ne gagneray rien ? & bien nous le verrons :
-Je vous ay franchement dit toute mon affaire,
-Il me faut quatre lots tout au moins pour la faire,
-Si je ne gagne rien je pretens⁎…Vous verrez.
-Ne m'en prendre qu'à vous & vous m'en respondrez.
-
-**** *book_ *id_IV03 *act_IV *date_1670 *creator_montfleury
-
--*who_martin
-À moy Monsieur à moy cet homme n'est pas sage,
-A-t-on jamais tenu de semblable langage ;
-S'il n'a pas quatre lots il s'en va prendre à moy,
-Il a perdu l'esprit, mais quelqu'un vient je croy :
-De peur que ce n'estoit quelque fou comme l'autre ;
-Sortons de cette chambre & montons dans la nostre.
-
-**** *book_ *id_IV04 *act_IV *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Ouy je suis pris pour duppe & voy la fausseté
 La boëtte est supposée⁎ & le cuistre⁎ aposté⁎ ;
 C'est un tour qu'on m'a fait j'ay receu chez Oronte ;
@@ -2373,76 +815,14 @@ Si l'on me croit dehors j'en puis estre éclaircy,
 Et voir sans estre veu ce qui se passe icy :
 Quelqu'un vient écoutons.
 
-**** *book_ *id_IV05 *act_IV *date_1670 *creator_montfleury
-
--*who_beatrix
-      Il est nuit l'heure presse,
-Et je croy qu'il est temps d'avertir ma maistresse ;
-Et nostre Beauceron pourroit bien revenir,
-Climenne avec Leandre a pû s'entretenir,
-Depuis qu'il est dehors ils n'ont bougé d'ensemble.
-
--*who_le_beauceron
 Quoy Leandre est ceans⁎ ?
 
--*who_beatrix
-      Quand un hazart assemble,
-Deux Amans⁎ que l'amour unit en mesme temps,
-Il se passe ma foy des momens bien plaisans :
-On cajole⁎ on badine, on ne songe qu'à plaire,
-L'œil devient plus brillant qu'il n'est à l'ordinaire :
-Un certain rouge au teint donne un nouvel esclat,
-On a de l'enjouëment le sang boust le cœur bat.
-On s'entretient un temps puis on fait quelques pauses ;
-On se fait, on se dit mille sortes de choses :
-De mille plaisans mots on larde⁎ l'entretien⁎ ;
-Et sans le teste à teste enfin l'amour n'est rien.
-
--*who_le_beauceron
 La peste qu'elle en sçait.
 
--*who_beatrix
-      Je juge par moy-mesme,
-Du plaisir que l'on a d'estre avec ce qu'on aime ;
-Le Basque & moy voyïons tantost nos feux contens,
-Nous avons assez bien employé nostre temps.
-Enfin à sa maniere il me contoit sa peine,
-Il estoit mon Leandre & j'estois sa Climenne ;
-L'amour dans ce logis estoit pris au collet,
-Et je disois pour lors tel Maistre tel valet ;
-C'est un plaisant garçon & pas un n'en approche,
-Qu'il a plaisemment fait le Monsieur de la roche.
-Et pour faire sortir d'icy le Beauceron,
-Qu'il a bien contrefait son visage & son ton :
-Les vingt Louïs⁎ en sont une assez bonne marque.
-
--*who_le_beauceron
 Ah ! masque⁎ c'est donc vous qui conduisez la barque.
 
--*who_beatrix
-D'abort qu'il a trouvé numero vingt-&-six
-Il a crû bonnement que les trois cent Loüis⁎,
-L'attendoient tous contez, il est sorty sur l'heure,
-Comme nous l'esperions, il est bon ou je meure ;
-On luy garde des lots par ma foy ce magot⁎,
-Meriteroit d'avoir des cornes pour son lot.
-
--*who_le_beauceron
 Advis au Lecteur.
 
--*who_beatrix
-      Mais il doit sçavoir je pense,
-Que l'on l'a pris pour duppe & j'en ris par avance,
-Ce n'est qu'entre ses dents qu'on le verra pester,
-Il est trop glorieux pour s'en venir vanter ;
-Je voudrois bien avoir le plaisir de l'entendre,
-Mais je ne vois venir Climenne ny Leandre ;
-Allons les separer dedans cet entretien⁎,
-Ils passeront la nuit si l'on ne leur dit rien.
-
-**** *book_ *id_IV06 *act_IV *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Ah ! ah ! chacun icy cajole⁎ à tour de roole,
 Leandre est seul auprés de Climene & le drôle⁎,
 Avec ceux du logis estoit donc du complot,
@@ -2468,94 +848,14 @@ Il s'appelle le Basque & je le viens d'apprendre,
 Je ne le connois point mais je pretens⁎ ravoir…
 Quelqu'un vient écoutons sans qu'on nous puisse voir.
 
-**** *book_ *id_IV07 *act_IV *date_1670 *creator_montfleury
-
--*who_leandre
-Faut-il nous separer ? que cet ordre est severe.
-
--*who_beatrix
-J'en demeure d'acort cela ne vous plaist guerre,
-Pour quitter ce qu'on ayme il n'est jamais trop tart,
-Cependant il est temps de faire bande à part.
-
--*who_leandre
-Je vois bien qu'il me faut esloigner de Climenne,
-Mais souffre⁎ en la quittant que je flate⁎ ma peine,
-Laisse agir mon respect & ma flame en ce lieu,
-Jusqu'au dernier moment de ce funeste adieu :
-Le mortel déplaisir où cet adieu me plonge,
-Me fait envisager mon bon-heur comme un songe,
-Un demy jour a veu sa naissance & sa fin,
-Madame, & cet effet de mon mauvais destin :
-Me fait apprehender de me voir plus à plaindre,
-Qu'un brutal dont l'ardeur s'éforce à vous contraindre,
-Et que je percerois plûtost de mille coups,
-Que de souffrir⁎ jamais qu'il devient vostre espoux.
-
--*who_le_beauceron
 Ah ! le facheux⁎ rival.
 
--*who_climenne
-      Cette plainte m'offence,
-Et mon amour vous doit tenir lieu d'asseurance ;
-Ce cousin de nos coups n'a pû se garentir,
-Loin de s'en allarmer⁎ il faut s'en divertir,
-Flater⁎ en le joüant nostre ardeur mutuelle,
-Luy faire chaque jour quelque piece nouvelle,
-C'est un Provincial épais⁎ materiel⁎,
-Qui duppe au dernier point se croit spirituel⁎.
-De tous autres enfin son humeur⁎ le discerne,
-Et de pareils lourdeaux meritent qu'on les berne.
-
--*who_le_beauceron
 C'est encor trop d'honneur, où m'estois-je fouré ?
 
--*who_beatrix
-Si j'y puis quelque chose il doit estre asseuré ;
-Que nous le bernerons de la bonne maniere,
-Et qu'à m'en divertir je seray la premiere.
-
--*who_le_beauceron
 Je me le tiens pour dit :
 
--*who_leandre
-      Et le Basque je croy,
-Ne negligera pas ses soins⁎ non plus que moy,
-De ce que nous ferons vous serez advertie.
-
--*who_le_beauceron
 Vous faites pour le coup fort mal vostre partie⁎.
 
--*who_climenne
-Je connois vostre amour vous connoissez le mien,
-Il faut que nostre adieu borne nostre entretien⁎ :
-C'est perdre en vains discours les momens qui se passent,
-Separons nous, la nuit & mon devoir vous chassent
-
--*who_leandre
-Quand nous reverrons-nous ?
-
--*who_climenne
-      Demain.
-
--*who_leandre
-      Où ?
-
--*who_climenne
-      Dans ce lieu.
-
--*who_beatrix
-Vous le sçaurez du Basque.
-
--*who_leandre
-      Adieu Madame.
-
--*who_climenne
-      Adieu.
-
-**** *book_ *id_IV08 *act_IV *date_1670 *creator_montfleury
-
--*who_le_beauceron
 J'en tiens, ils ont assez agité la matiere,
 Je suis pris pour un sot⁎ de plus d'une maniere,
 Je suis suffisamment esclaircy de leurs feux,
@@ -2581,135 +881,18 @@ De l'ingenuité c'est un parfait modelle ;
 Et pour ce Suisse enfin ma bonté se resout,
 Mais quelqu'un vient encor écoutons jusqu'au bout.
 
-**** *book_ *id_IV09 *act_IV *date_1670 *creator_montfleury
-
--*who_beatrix
-Basque.
-
--*who_le_beauceron
       C'est Beatrix elle appelle le Basque,
 Examinons-le avant que de lever le masque.
 
-**** *book_ *id_IV10 *act_IV *date_1670 *creator_montfleury
-
--*who_le_basque
-Que veux-tu.
-
--*who_beatrix
-      Pour dormir prens tu pas bien ton temps ?
-Nostre bouru dans peu doit se rendre ceans⁎,
-Il est dans ce moment prest à rentrer peut-estre.
-
--*who_le_basque
-Qu'importe.
-
--*who_le_beauceron
       C'est le Suisse, ouy luy-mesme ! ah le traistre.
 
--*who_le_basque
-Par ma foy finissant tantost nostre entretien⁎,
-J'ay bû neuf ou dix coups qui m'ont fait bien du bien.
-
--*who_le_beauceron
 Il parle bon François, ah ! ah Canton de Berne,
 Vous estes du complot aussi quand on me berne.
 
--*who_le_basque
-Qu'on vend dans ce quartier d'admirable sirot,
-
--*who_beatrix
-Mais veux-tu me brider le nez de ton falot.
-
--*who_le_basque
-A trais frequens & longs j'ay vuidé trois bouteilles,
-Qui m'ont mort-bleu qui m'ont fait dormir à merveilles.
-
--*who_beatrix
-Et si pendant ce temps le cousin fust venu,
-Ou qu'il fut mesme entré sans que tu l'eusses veu.
-C'est une occasion qui pourroit s'estre offerte,
-Et quelqu'un auroit pû laisser la porte ouverte.
-
--*who_le_basque
-Ouy-da⁎ comme tu dis cela se pouvoit bien.
-Ta raison est fort bonne & mesme… Il n'en est rien.
-Laissons-là le passé dis moy donc.
-
--*who_beatrix
-      Qu'est-ce ?
-
--*who_le_basque
-      Escoute.
-
--*who_beatrix
-Te voilà beau⁎ garçon.
-
--*who_le_basque
-      N'est-il pas vray.
-
--*who_beatrix
-      Sans doute.
-
--*who_le_beauceron
 Que le cocquin est fou.
 
--*who_le_basque
-      Faut-il encor long-temps,
-Faire soir & matin sentinelle ceans⁎.
-
--*who_beatrix
-Cela pourra cesser si le Ciel nous exauce.
-
--*who_le_basque
-Ah ! le vilain Monsieur, que ce Monsieur de Beauce.
-Je me tromperois fort s'il n'estoit pas cornart.
-
--*who_le_beauceron
 Vous en aurez menty Suisse de Vaugirart.
 
--*who_beatrix
-C'est assez raisonner ne bois de la soirée,
-Et tasche à ratraper ta raison égarée.
-Si le Beauceron vient ne luy dis que deux mots,
-Il vaut mieux en moins dire & parler à propos ;
-Jusques à son retour prens bien garde à la porte.
-Adieu.
-
--*who_le_basque
-      Quoy tu voudrois me quitter de la sorte ?
-
--*who_beatrix
-Tes discours à present n'auront jamais de fin.
-
--*who_le_basque
-Encor un petit mot :
-
--*who_beatrix
-      Ah ! que tu sens le vin.
-
--*who_le_basque
-Que j'ayme à t'embrasser.
-
--*who_beatrix
-      Que je hais un yvrongne.
-
--*who_le_basque
-Beatrix.
-
--*who_beatrix
-      Laisse-moy.
-
--*who_le_basque
-      Peste de la carogne⁎.
-A l'entendre on croirait ma foy que je suis sou,
-Je l'aimerois encor je serois un grand fou ;
-Tu me quittes je vais te rendre la pareille,
-Et ne veux desormais aymer que ma bouteille :
-Mais en nous retirant gardons de⁎ nous heurter.
-
-**** *book_ *id_IV11 *act_IV *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Tous sont d'inteligence⁎ & je n'en puis douter,
 A traficquer d'amour chacun icy s'exerce,
 Par de differens soins⁎ on fait mesme commerce⁎ :
@@ -2728,148 +911,40 @@ Laisser jusqu'à ce temps rassoir ma bille émeuë⁎ : 
 Et pour passer en paix le reste de la nuit,
 Je vais me retirer dans ma chambre sans bruit.
 
-**** *book_ *id_V01 *act_V *date_1670 *creator_montfleury
-
--*who_beatrix
-Quoy, tu voudrois encor soûtenir le contraire ?
-L'effronterie est grande & je ne puis m'en taire.
-
--*who_le_basque
-Ouy, je te le soûtiens, il a couché dehors,
-Il n'est point revenu, j'en respons corps pour corps.
-
--*who_beatrix
-Quoy nostre Beauceron est dehors ?
-
--*who_le_basque
-      Ouy, luy-mesme.
-
--*who_beatrix
-Il n'est point rentré?
-
--*who_le_basque
-      Non.
-
--*who_beatrix
-      L'impudence est extréme.
-
--*who_le_basque
-Je gage contre toy que depuis hier au soir…
-
--*who_beatrix
-L'obstiné ! je te dis que je le viens de voir :
-Qu'il est dans le jardin tout seul qui se promene,
-Et qu'il m'a demandé ce que faisoit Climenne.
-
--*who_le_basque
-Aujourd'huy ?
-
--*who_beatrix
-      Ouy, depuis un cart-d'heure de temps.
-
--*who_le_basque
-Tu l'as veu si tu veux ; mais il n'est pas ceans⁎,
-Car icy depuis hier il n'est entré personne,
-Quoy que cette raison peut seule estre fort bonne :
-J'adjouste pour parler cathegoriquement,
-Que je n'ay pas quitté la porte d'un moment,
-Que j'en ay toûjours eu la clef dedans ma poche,
-Qu'on ne peut justement m'en faire de reproche,
-Que ce fou que tu viens dis tu de rencontrer,
-Ne s'est pas seulement presenté pour entrer,
-Que tu m'en fais icy des plaintes inutiles,
-Et que s'il est entré c'est par dessus les tuilles,
-Tu peux dire à present tout ce que tu voudras.
-
--*who_beatrix
-Toûjours mesme chanson ? ma foy tu le verras,
-Ce n'est que par tes yeux que je veux te confondre :
-Le voicy qu'en dis tu.
-
-**** *book_ *id_V02 *act_V *date_1670 *creator_montfleury
-
--*who_le_basque
-      Je n'ay rien à respondre ;
-Je voy qu'il est entré, mais je ne sçay par où,
-Sans doute ce sera pendant que j'estois sou.
-
--*who_le_beauceron
 Allez voir si Climenne à present est visible,
 Et luy dites en cas qu'elle soit accessible :
 Que je veux luy parler, & voudrois bien sçavoir,
 S'il faut que je l'attende, ou si je l'iray voir ;
 Je parle à Beatrix laissez-la faire Suisse.
 
-**** *book_ *id_V03 *act_V *date_1670 *creator_montfleury
-
--*who_le_basque
-Chi ly veut moy tout jour rendre à vou bon service.
-
--*who_le_beauceron
 Eh je m'en doute bien, ah ! l'effronté cocquin !
 
--*who_le_basque
-Chil tir quen tiri point sty lotry que timain.
-Tout que vous ly tir moy je lafre fait tout comme ;
-
--*who_le_beauceron
 Vous estes je le sçais un fort joly jeune-homme.
 
--*who_le_basque
-Lentry point dy Monser mon foy dans sty maison,
-Chil servir pien mon Maistre.
-
--*who_le_beauceron
       Ouy, vous avez raison,
 Fort bien, fut-il jamais une telle insolence !
 
--*who_le_basque
-Chil servir tout jour vou di mesme.
-
--*who_le_beauceron
       Je le pense,
 Il n'est pas mal-aisé je vous croy sans prier.
 
--*who_le_basque
-Chy li fair moy…
-
--*who_le_beauceron
       Mort-bleu c'en est trop endurer,
 S'il ne se taist…
 
--*who_le_basque
-      Chil feut fair moy vou souvenance.
-
--*who_le_beauceron
 Tiens de tant de babil voilà la recompense ?
 C'est sur mes vingt Louys⁎ toûjours en rabatant.
 
--*who_le_basque
-O Monser.
-
--*who_le_beauceron
       Qu'on se taise ou j'en redonne autant,
 Mais je vois avancer Beatrix & Climenne.
 
-**** *book_ *id_V04 *act_V *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Je ne pretendois pas vous donner tant de peine⁎ :
 Mais puis que vous voilà, donnez nous deux fauteüils,
 Montrez-nous les talons.
       Et vous laissez-nous seuls.
 
-**** *book_ *id_V05 *act_V *date_1670 *creator_montfleury
-
--*who_le_beauceron
 Approchez-vous Climenne, & prenez vostre place,
 Je pretens⁎ vous parler, & vous voir face à face,
 De ce que je diray tâchez à profiter.
 
--*who_climenne
-Parlez, vous me voyez preste à vous écouter.
-
--*who_le_beauceron
 Je ne sçay si mon air⁎ mon humeur⁎ ou ma mine⁎,
 Vous forcent à vouloir n'estre que ma cousine ;
 Ou si nature enfin ne m'a pas honoré,
@@ -2878,10 +953,6 @@ Si trop laid à vos yeux, ou trop vieux quoy que riche,
 De tendresse⁎ pour nous vostre cœur est né chiche,
 Ny mesme si j'en dois estre bien-aise⁎ ou non.
 
--*who_climenne
-Vous sçavez…
-
--*who_le_beauceron
       Taupe à tout, mais vous trouverez bon,
 Sans m'échaufer le sang, que plus franc que les autres,
 Après mes veritez je vous dise les vostres ;
@@ -2987,7 +1058,320 @@ A-t-on jamais parlé de trahisons si noires !
 Parlez & dites-moy si j'ay de bons memoires,
 Et si je puis de vous m'estre informé sans fruit.
 
--*who_climenne
+      En fonds⁎ d'esprit,
+Le voilà le tresor portatif que personne
+Ne vous sçauroit oster, que le Ciel seul nous donne :
+Qu'on doit plus que ses biens priser⁎ avec raison ;
+Et qu'on peut…
+
+      En voilà tout autant qu'il en faut,
+Treve de paralelle, ainsi nostre cousine
+Vous aymeriez donc mieux vostre idole⁎ blondine ?
+
+Je vais puis qu'à ce point sa flame vous est chere,
+En dire sur le champ deux mots à vostre mere,
+Luy conter vos amours, luy vanter vostre choix,
+Et j'espere devant⁎ qu'il soit trois fois les Rois :
+Qu'il en sera parlé, donnez vous patience.
+
+Leandre, revenez, parlons de vostre flame,
+Vous aymez ce Monsieur, vous vous aymez Madame,
+Il vous ayme beaucoup, vous en estes chery,
+Si le cœur vous en dit vous serez son mary ;
+Sa mere ayant appris vostre ardeur mutuelle,
+Veut bien que vous soyez l'espoux de cette belle ;
+Et pour moy qui m'estois chargé de ce soucy⁎,
+De peur d'estre cocu je le veux bien aussi.
+Je ne me picque⁎ pas d'estre à ce point commode,
+Pour Monsieur qui pretent⁎ toûjours estre à la mode,
+Il peut tenter fortune, & je le tiens bien fin,
+S'il s'en sauve.
+
+      Enfin,
+Quoy que vous en disiez elle en est la Maistresse.
+
+C'est Monsieur que je vais partir pour mon pays ;
+J'ay conceu pour Paris une haine mortelle,
+Et mon front vient icy de l'eschapper trop belle,
+Je fuis ce maudit lieu de cocquettes⁎ farcy,
+Et ne suis plus si sot que de rester icy :
+Les filles à Paris sont pour nous trop sçavantes⁎,
+Il faut des gens galans⁎, pour des filles⁎ galantes⁎,
+Et je m'en tiens au nœud de consanguinité ;
+Je vais dire au pays comme l'on m'a traité ;
+Et je me trompe fort quoy qu'il sente de flame,
+Si jamais Beauceron vient icy prendre femme.
+
+      Serviteur.
+
+Non je vous en repons⁎ ; jusqu'au revoir cousine.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climenne
+
+Ma mere dans son bien a trouvé tant d'attraits,
+Qu'elle veut de mon cœur forcer la repugnance,
+Et luy pour m'épouzer n'attend qu'une dispense,
+Estant logé chez-nous…
+
+Il s'est fait habiller.
+
+Quoy ?
+
+      Pas si tost.
+
+      Pour raison.
+
+Je le crois, mais apprens pour te voir satisfaite,
+Pourquoy je la differe, & pourquoy je l'ay faite,
+Depuis que pour mes maux ce cousin est chez-nous,
+Je n'osois voir personne, & sous ce nom d'époux,
+Il m'obsedoit⁎ par tout, & pour voir compagnie⁎,
+J'ay comme tu le vois fait une lotterie.
+Tâche à trouver Leandre, anime son espoir,
+Sous pretexte d'y mettre il peut me venir voir,
+Qu'il mette un jour pour luy, le landemain pour d'autres,
+Et les soins⁎ de l'amour seconderont les nostres.
+
+      Je souffrois⁎ ces gens par bien-seance,
+Et de Leandre seul je regrette l'absence.
+
+Dis luy si tu le vois qu'avec un peu d'adresse…
+
+Vous estes mal-heureux en lotterie.
+
+      Vous sont-elles cruelles ?
+
+      Je l'advouë.
+
+Comme je suis chez-moy, je crois par bien-seance,
+Ne pouvoir me parer de quelque complaisance,
+Et principalement, lors que je vois des gens,
+De qui la mine⁎, & l'air⁎, exigent…
+
+Mais enfin…
+
+La lotterie attire icy beaucoup de gens,
+Et la porte doit estre ouverte à tous venans,
+Et vous voyez s'il est aisé qu'on s'en défende.
+
+Vous avez cependant imité leur manie⁎ :
+Et pris quatre billets chez Oronte.
+
+On peut ailleurs aussi…
+
+C'est vostre sentiment⁎, pour mettre ailleurs de même ;
+Le peuple a ses raisons.
+
+C'est un lieu trop petit pour tous les foux de France.
+
+      Que feroit vostre humeur⁎ prevoyante,
+
+Cela seroit fort beau⁎.
+
+Mais j'y suis engagée, il faut voir jusqu'au bout,
+Laisser passer la foule, & se resoudre à tout,
+Pourrois-je l'empescher enfin, quoy que je fisse ?
+
+      Et comment ?
+
+C'est un autre embarras⁎, il seroit necessaire…
+
+Où le prendre ?
+
+De quoy t'es tu meslée ? est-ce pour mon supplice,
+Que tu veux t'ingerer de nous donner un Suisse ?
+Je ne puis voir Leandre, & n'est ce pas assez ?…
+
+Comment ? s'il est ainsi, fais-le moy donc connoistre.
+
+      D'accort.
+
+As-tu perdu l'esprit ? le grossier artifice⁎,
+Crois-tu qu'il puisse prendre un Basque pour un Suisse ?
+En le faisant parler…
+
+Pour avoir le valet tasche à trouver le Maistre,
+Tu luy diras.
+
+On veut que je l'épouse, & cet ordre me tuë,
+Mais la dispense enfin n'est pas encor venuë ;
+L'amour jusqu'à ce temps pourra faire pour nous…
+
+Ne vous alarmez⁎ point, quoy que sa flame éclate⁎,
+Et souffrez⁎ jusques là qu'un peu d'espoir nous flate⁎
+
+Allez, & soyez seur que malgré l'advantage
+Qu'on veut me faire voir dedans ce mariage,
+Si l'amour, et le sort, secondent mes desirs,
+De l'espoir d'estre à vous je fais tous mes plaisirs ;
+Et que rien ne sçauroit esbranler ma constance.
+
+Mon cœur vous en respond⁎.
+
+      Ne vous alarmez⁎ point.
+Secondez seulement ma feinte sur ce point.
+Tous nos billets sont blancs, vous le voyez Leandre ;
+Mais enfin ce mal-heur ne nous doit pas surprendre,
+Il faut que quelqu'un perde, & le sort, aux despens :
+De mille mal-heureux, fait si peu de contens ;
+Que loin de s'en fascher il faut que l'on en rie.
+
+Peut estre une autre fois nous serons plus heureux,
+Je le souhaite au moins.
+
+De rien.
+
+Nous avions dix billets ensemble chez Damis,
+Leandre s'y trouvant ce matin, les a pris,
+Il m'apportoit ma boëtte, & nous l'avons ouverte
+Et nous nous consolions tous deux de nostre perte ;
+Quoy que dans mes billets il n'eust que peu de part.
+
+      Il n'estoit que d'un quart.
+
+      Quoy, toûjours quelque soupçon nouveau ?
+
+      Ce courroux est assez legitime,
+Si vous n'avez pour moy qu'une si foible estime.
+
+      Vous devez…
+
+Je pretens⁎…
+
+Je le trouve fort bien s'il est à vostre gré.
+
+      Comme il est fait ? ce Suisse est fort paré.
+
+Je veux croire avec vous qu'il est bien mieux ainsi,
+Et puis qu'il vous agrée, il me plaist fort aussi,
+A vostre jugement il faut que je me rende :
+Mais servira-t-il bien ?
+
+Quand il sera content je seray satisfaite.
+
+Je ne sçais ; mais enfin estant sans interest,
+On peut rendre l'argent si cela vous déplaist ;
+Mesme des à present on peut le faire dire.
+
+Quoy volant le public⁎ avoir le peuple à dos ?
+
+Comment donc ?
+
+Je pretens⁎ pour ne point faire de mécontens,
+Méler tous les billets.
+
+Sans doute, & que ce soit un lacquais qui les tire,
+Au hazard, & sans choix.
+
+Puis faire cacheter d'un cachet peu commun,
+Les boëttes où seront les billets d'un chacun :
+Eviter si l'on peut le bruit & la cohuë,
+Et que fidelement quelqu'un les distribuë.
+
+      Je le pretens⁎ ainsi.
+
+      Je le pretens⁎ aussi,
+Si je sçay que quelqu'un ait une telle envie.
+
+Je ne vous entens⁎ point.
+
+Qui l'a fait ?
+
+      Sous quel titre.
+
+      Montrez- le moy.
+
+Ce sont d'un esprit creux quelques plaisanteries.
+
+      Est-il quelque justice,
+A piller le public⁎ ? & n'est-ce pas voler.
+
+Quelques expediens que cet autheur propose,
+C'est un dépost sacré que l'argent du Public⁎,
+En feroit-on trafic.
+
+C'est ce que j'ignorois & ne suis point capable…
+
+      Sans doute.
+
+Mais j'en ferois scrupule & quand j'en aurois un :
+Je ne puis…
+
+Je ne puis me servir de cette Politique.
+
+      Quel profit en pourroit-on attendre ?
+
+      Il n'est pas necessaire,
+Pour moy qui ne dois rien.
+
+D'accort mais sur ce point la semaine derniere,
+Tels eurent un procés sur semblable matiere :
+On vouloit le surplus le tour est délicat.
+
+Je craindrois du public⁎ le reproche ou la plainte ;
+Et ne pourrois…
+
+Mais le peuple s'en mocque & l'on devroit tâcher…
+
+Mais…
+
+Va porter mon billet.
+
+Ne voulez-vous songer qu'à me persecuter ?
+Et n'estre ingenieux que pour me tourmenter ?
+La plus rare beauté veut que l'art la seconde,
+Il faut estre à la mode, ou renoncer au monde,
+Outre que je ne voy dans mon ajustement⁎,
+Rien que de fort modeste⁎, à parler franchement,
+Tout vous choque, & sur tout vous voulez me contraindre.
+
+Des discours si picquans⁎ ont un peu trop de suite ;
+Mais surquoy pouvez-vous censurer ma conduite ?
+Ay-je dans mes habits rien qu'on puisse blamer ?
+
+      Rien dans mes discours qui vous doive alarmer⁎ ?
+
+      Rien dans l'entretien⁎ contre la bien-seance ?
+
+      Surquoy fondez-vous donc tant de défiance ?
+
+Je vous entens toûjours plaindre de quelque chose.
+
+Puis-je estre auprés des gens & ne leur dire mot ?
+
+La civilité veut…
+
+Sans attendre…
+
+      Mais…
+
+      Cette plainte m'offence,
+Et mon amour vous doit tenir lieu d'asseurance ;
+Ce cousin de nos coups n'a pû se garentir,
+Loin de s'en allarmer⁎ il faut s'en divertir,
+Flater⁎ en le joüant nostre ardeur mutuelle,
+Luy faire chaque jour quelque piece nouvelle,
+C'est un Provincial épais⁎ materiel⁎,
+Qui duppe au dernier point se croit spirituel⁎.
+De tous autres enfin son humeur⁎ le discerne,
+Et de pareils lourdeaux meritent qu'on les berne.
+
+Je connois vostre amour vous connoissez le mien,
+Il faut que nostre adieu borne nostre entretien⁎ :
+C'est perdre en vains discours les momens qui se passent,
+Separons nous, la nuit & mon devoir vous chassent
+
+      Demain.
+
+      Dans ce lieu.
+
+      Adieu.
+
+Parlez, vous me voyez preste à vous écouter.
+
+Vous sçavez…
+
 Je ne sçais qui vous peut avoir si bien instruit :
 Mais vous deviez enfin donner moins de creance⁎,
 Aux bruits que contre moy seme la médisance ;
@@ -3026,14 +1410,6 @@ Que pour vous faire honneur vostre esprit vous rend chere :
 Car comme sur ce point mille gens nous ont dit :
 Enquoy consistent-ils ? parlez ?
 
--*who_le_beauceron
-      En fonds⁎ d'esprit,
-Le voilà le tresor portatif que personne
-Ne vous sçauroit oster, que le Ciel seul nous donne :
-Qu'on doit plus que ses biens priser⁎ avec raison ;
-Et qu'on peut…
-
--*who_climenne
       En ce cas vostre conte est fort bon ;
 Vous vous plaigniez dequoy j'ay souffert compagnie⁎ :
 Sans la societé dequoy nous sert la vie ?
@@ -3068,81 +1444,29 @@ Pour un homme du temps, vous pour une anticaille,
 S'il n'a pas tant de bien ce n'est pas un défaut ;
 Qui détruise…
 
--*who_le_beauceron
-      En voilà tout autant qu'il en faut,
-Treve de paralelle, ainsi nostre cousine
-Vous aymeriez donc mieux vostre idole⁎ blondine ?
-
--*who_climenne
 Il est vray je l'écoute, & j'approuve son feu,
 Je l'ayme, & je veux bien vous en faire l'aveu.
 
--*who_le_beauceron
-Je vais puis qu'à ce point sa flame vous est chere,
-En dire sur le champ deux mots à vostre mere,
-Luy conter vos amours, luy vanter vostre choix,
-Et j'espere devant⁎ qu'il soit trois fois les Rois :
-Qu'il en sera parlé, donnez vous patience.
-
-**** *book_ *id_V06 *act_V *date_1670 *creator_montfleury
-
--*who_climenne
 On va tout exiger de mon obeyssance,
 Et l'on va me forcer…Ah Beatrix sçais-tu ?….
 
-**** *book_ *id_V07 *act_V *date_1670 *creator_montfleury
-
--*who_beatrix
-Je sçay tout comme vous car j'ay tout entendu.
-
--*who_climenne
 Enfin mon mal-heur veut que je perde Leandre,
 Au nom de mon époux il ne peut plus pretendre :
 Ma mere, & ce cousin, qui me veut malgré moy,
 Par de nouveaux sermens vont engager ma foy⁎,
 Il y court, & tu viens d'entendre sa menace.
 
--*who_beatrix
-Je me mocquerois bien d'eux deux en vostre place :
-Ouy, je me lasserois d'avoir les bras liez,
-Une fois c'est pour vous que vous vous mariez,
-Vostre mere le veut, on me la baille belle,
-S'il est tant à son gré que ne l'espouse-t-elle.
-
--*who_climenne
 Mais pour t'en dispenser qu'est-ce que tu ferois.
 
--*who_beatrix
-En quatre mots voilà ce que je luy dirois,
-Qu'on me laisse en repos⁎, je n'ayme que Leandre,
-Je hais le Beauceron, qu'il s'aille faire pendre.
-
-**** *book_ *id_V08 *act_V *date_1670 *creator_montfleury
-
--*who_le_basque
-Mon Maistre…
-
--*who_climenne
       Que veut-il ?
 
--*who_le_basque
-      Me fait vous demander,
-S'il peut vous venir voir.
-
--*who_climenne
       Dis luy qu'il peut entrer.
 
-**** *book_ *id_V09 *act_V *date_1670 *creator_montfleury
-
--*who_climenne
 En vain j'empescherois son amour de parestre,
 C'est la derniere fois qu'il me verra peut estre ;
 Le plus severe honneur⁎ peut permettre en ce jour,
 De donner ce dernier moment à nostre amour.
 
-**** *book_ *id_V10 *act_V *date_1670 *creator_montfleury
-
--*who_climenne
 Rien ne peut plus flater⁎ ma flame ny la vostre,
 Leandre, pour espoux on m'en destine un autre :
 Ce cousin pretent⁎ l'estre ; il sçait tout aujourd'huy,
@@ -3154,32 +1478,131 @@ Il est rentré disant que devant⁎ qu'il soit peu,
 Il en sera parlé, qu'il alloit voir ma mere,
 Vous sçavez ce qu'il faut helas ! que j'en espere.
 
--*who_leandre
+Vous sçavez à quel point ma mere est absoluë⁎,
+Il faudra l'espouser si la chose est concluë.
+
+      Et le reste du jour,
+Puis qu'elle veut enfin approuver nostre amour,
+Nous pourrons, empeschant que le peuple ne crie,
+Par divertissement tirer la Lotterie.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_leandre
+
+Je trouve en mon mal-heur quelque chose de doux,
+Puis qu'il permet encor que j'approche de vous,
+Ce moyen de vous voir que le hazard m'envoye,
+Suspend mon desespoir & fait place à ma joye,
+Mais qu'elle est imparfaite, & qu'un cœur alarmé⁎,
+Sent de maux quand il pert ce qu'il a tant aimé.
+L'époux qu'on vous destine a peu dequoy vous plaire,
+Madame, pourrez vous l'espouser & vous taire ?
+Et sans faire éclater⁎ luy donnant vostre foy⁎,
+Quelque reste des feux que vous sentiez pour moy.
+
+Mais s'il faut qu'elle vienne il sera vostre époux.
+
+De quel espoir helas ! flater⁎ ma passion ?
+
+      Il ne le fait pas mal,
+Mesme de ce jargon⁎ s'est fait une habitude,
+Le drôle⁎ a de l'esprit, & mesme un peu d'estude,
+Il est plaisant, pourveu qu'il ne s'enyvre point,
+Tout iray bien.
+
+Mais…
+
+Je t'entens⁎, & je voy combien il nous importe,
+De rendre mon valet le maistre de la porte ;
+Je vais y donner ordre, & cet espoir m'est doux :
+Mais puis-je me flater⁎ en m'éloignant de vous ?
+
+Que cet espoir m'est doux & que cette asseurance,
+Malgré ce que je crains rend mes desirs contens.
+
+Que ne vous dois-je point de souffrir⁎ que mes feux…
+
+      Il m'eust esté bien-doux,
+De pouvoir partager un lot avecque⁎ vous,
+Vous deviez avec vous associer quelqu'autre,
+Je crains que mon mal-heur n'ait fait naistre le vostre,
+Jamais l'évenement⁎ ne respond à mes veux.
+
+      Madame, je l'espere,
+Et prens congé de vous.
+
+      Et bien ne puis-je voir Climenne ?
+
+Pourquoy ?
+
+Ah, que pour mon Amour la fortune⁎ est cruelle !
+Quoy donc m'estant flatté⁎ du plaisir de la voir ;
+Il faut perdre à la fois sa veuë & mon espoir ;
+Voir qu'à de si beaux nœuds on face violence ?
+Ah ! Beatrix ce coup accable ma constance.
+
+Je n'en sçaurois douter, le tour est admirable :
+Que ne te dois-je point, je n'y manqueray pas,
+Beatrix, dis luy bien que je vais de ce pas ;
+En suivant cet advis⁎ éloigner le fantasque ;
+Mais il me faut icy quelqu'un.
+
+Et s'il s'en apperçoit, & demande pourquoy
+Il est dehors ?
+
+Il faut faire pour nous un autre personnage,
+Basque.
+
+Je t'instruiray de tout, j'engage ma parole,
+Qu'auprés du Beauceron il jouëra bien son roole,
+Et qu'il luy va donner à courre comme il faut :
+Adieu je sors.
+
+      Depuis une heure & plus,
+J'attendois sur le pas d'une porte voisine,
+Qu'il sortit.
+
+Mais quand reviendra-t-il, dis moy te l'a-t-il dit ?
+
+Tant mieux, je vais donc voir ta charmante Maistresse.
+
+      Mais souviens toy qu'il faut bien achever.
+
+Faut-il nous separer ? que cet ordre est severe.
+
+Je vois bien qu'il me faut esloigner de Climenne,
+Mais souffre⁎ en la quittant que je flate⁎ ma peine,
+Laisse agir mon respect & ma flame en ce lieu,
+Jusqu'au dernier moment de ce funeste adieu :
+Le mortel déplaisir où cet adieu me plonge,
+Me fait envisager mon bon-heur comme un songe,
+Un demy jour a veu sa naissance & sa fin,
+Madame, & cet effet de mon mauvais destin :
+Me fait apprehender de me voir plus à plaindre,
+Qu'un brutal dont l'ardeur s'éforce à vous contraindre,
+Et que je percerois plûtost de mille coups,
+Que de souffrir⁎ jamais qu'il devient vostre espoux.
+
+      Et le Basque je croy,
+Ne negligera pas ses soins⁎ non plus que moy,
+De ce que nous ferons vous serez advertie.
+
+Quand nous reverrons-nous ?
+
+      Où ?
+
+      Adieu Madame.
+
 Quel revers si soudain que je n'ay pu prevoir,
 Peut en si peu de temps destruire tant d'espoir ?
 Mon mal-heur à mes feux incessamment s'oppose.
 
--*who_le_basque
-J'ay bien veu des tantost⁎ qu'il sçavoit quelque chose.
-Et j'en aurois jurez.
-
--*who_leandre
       Par qui l'as tu donc sceu ?
 
--*who_le_basque
-Par un fort grand soufflet Monsieur que j'ay receu,
-J'ay bien veu qu'il cherchoit à me faire querelle.
-
--*who_leandre
 Si pour vous à ce point vostre mere est cruelle,
 Et s'obstine à vouloir vous donner cet espoux,
 Que ferez-vous Madame, helas vous tairez-vous ?
 
--*who_climenne
-Vous sçavez à quel point ma mere est absoluë⁎,
-Il faudra l'espouser si la chose est concluë.
-
--*who_leandre
 Quoy jusqu'à cet effort vostre cœur peut aller ?
 On ose vous contraindre & vous n'osez parler ?
 Madame, & tout l'espoir qui flatoit⁎ ma constance,
@@ -3191,71 +1614,929 @@ Mon amour aussi bien est trop grand pour le vostre.
 Adieu vous me voyez pour la derniere fois,
 Obeyssez Madame, & faites vostre choix.
 
-**** *book_ *id_V11 *act_V *date_1670 *creator_montfleury
-
--*who_le_beauceron
-Leandre, revenez, parlons de vostre flame,
-Vous aymez ce Monsieur, vous vous aymez Madame,
-Il vous ayme beaucoup, vous en estes chery,
-Si le cœur vous en dit vous serez son mary ;
-Sa mere ayant appris vostre ardeur mutuelle,
-Veut bien que vous soyez l'espoux de cette belle ;
-Et pour moy qui m'estois chargé de ce soucy⁎,
-De peur d'estre cocu je le veux bien aussi.
-Je ne me picque⁎ pas d'estre à ce point commode,
-Pour Monsieur qui pretent⁎ toûjours estre à la mode,
-Il peut tenter fortune, & je le tiens bien fin,
-S'il s'en sauve.
-
--*who_leandre
       Je crains peu ce danger,
 
--*who_le_beauceron
-      Enfin,
-Quoy que vous en disiez elle en est la Maistresse.
-
--*who_leandre
 Quel bon-heur⁎ aujourd'huy vous rend à ma tendresse⁎ ?
 Mais enfin quel motif vous fait changer d'habits.
 
--*who_le_beauceron
-C'est Monsieur que je vais partir pour mon pays ;
-J'ay conceu pour Paris une haine mortelle,
-Et mon front vient icy de l'eschapper trop belle,
-Je fuis ce maudit lieu de cocquettes⁎ farcy,
-Et ne suis plus si sot que de rester icy :
-Les filles à Paris sont pour nous trop sçavantes⁎,
-Il faut des gens galans⁎, pour des filles⁎ galantes⁎,
-Et je m'en tiens au nœud de consanguinité ;
-Je vais dire au pays comme l'on m'a traité ;
-Et je me trompe fort quoy qu'il sente de flame,
-Si jamais Beauceron vient icy prendre femme.
-
--*who_champagne
-Vostre cheval Monsieur, & vostre postillon,
-Sont là bas.
-
--*who_le_beauceron
-      Serviteur.
-
--*who_leandre
       Comment c'est tout de bon⁎ ?
 Quoy vous ne verriez pas ce qu'amour nous destine ?
 
--*who_le_beauceron
-Non je vous en repons⁎ ; jusqu'au revoir cousine.
-
-**** *book_ *id_V12 *act_V *date_1670 *creator_montfleury
-
--*who_leandre
 Allons voir vostre mere.
 
--*who_climenne
-      Et le reste du jour,
-Puis qu'elle veut enfin approuver nostre amour,
-Nous pourrons, empeschant que le peuple ne crie,
-Par divertissement tirer la Lotterie.
-
--*who_leandre
 Et quand de nostre amour l'Hymen sera le prix,
 Il faudra marier le Basque & Beatrix.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lebasque
+
+Lestre dans sty lochis que sty Monser dimeure ?
+Qu'il dir que je viendre moy ly servir tout à stheure⁎ !
+
+As-tu bien regardé ?
+
+      Soit
+Ma chere Beatrix !
+
+      Ah ! charmante Soubrette,
+Si tu voulois ; pour toy je souffre nuit & jour,
+Tes yeux m'ont fait pour toy galerien d'amour,
+Je ne suis mesme icy Suisse que pour te plaire,
+Ah ! si je puis un jour ramer dans ta galere,
+Ne m'aimerois tu plus !
+
+Puis que tu m'aimes donc, & que je t'aime aussi,
+Pourquoy tant de façons⁎ ?
+
+Monser chil viendre icy ly rendre moy serfice,
+Si vous ly prendre moy je ly servir fort bien,
+Si vous nestry content moy ly dimandi rien.
+
+      Matame Piatille
+Mafre dit que Monser voudre aver un bon drille⁎,
+Per garder sty maison che ly garder pien moy.
+
+      Mon foy,
+Lautry chour un Monser tonner un Cometie⁎,
+Tans son champre⁎, il tient la dy fort bon companie⁎.
+Dy fort pon fiolon, ly sthom afre moy pris,
+Per faire moy garder ly maison dy lochis,
+Ly voudrois pien pescher, car il afre in bel fame,
+Qu'un grand petit Monser parlit point à Montame,
+Il vient, chil pousser luy, cocquin, dir luy, party
+Chy lestre point cocquin, moy toy lafre menty ;
+Ly donne un cou di pié dan mon cu par derriere,
+Et dir qu'il donner moy bien de cou ditrifiere,
+Titrifiere, à moy tiche, avec stuy gros martiau,
+Dil porte en ly fermant chil casser son musiau.
+
+      Lentry don si lentry par firnaitre ;
+La Matame safre ça, & ly veut que mon maistre,
+Chasser moy, mais party mon Maistre y jur son foy,
+Que chestre pon quarson & qu'il chasser point moy.
+Y pour mon riconpans my tonne un grand pistole⁎.
+
+      Torften.
+
+Dy berne il estre bon sty Canton.
+
+      Plaist-il Monser.
+
+Ouy, Monser.
+
+Ouy, Monser, lafre fou dans sty maison son fame,
+
+      Mais Monser tir fou ly craindre point,
+Si lestre son mary…sty Matame dy France,
+Ayme avec ly Monser le ptit rechouissance.
+
+      Un camarate à moy,
+Qui lafre pris un fam dan sty Paris, mon foy,
+Lestre riche, aure ly dans son pitit minache,
+Dy pon pip, dy pon vin, pon tabac pon formache
+Sty carogne⁎ dy fame y sty Monser Calan,
+Fisant sty suis cournar manchy tout son larchan.
+
+      Moy lentendre⁎ point vous.
+
+Ouy Monser, j'il tir fou moy tout caillardement,
+
+      Party li pel⁎ dimande.
+Chil voudre moy garder si pien ly porte à vous,
+Que mon Maistre estre pien content.
+
+O Monser, j'y n'y fair moy point dy manquement.
+
+      Pon chour fou Matame Piatille,
+
+      Ma foy
+J'en suis ravy, tant mieux ; mais que dis-tu de moy ?
+
+J'en demeure d'accort, mais…
+
+      Je voudrois,
+T'apprendre à faire un peu la folle⁎.
+
+Ah ! si tu me voulois faire sans consequence,
+Sur nostre Hymen futur quelque petite avance.
+
+      Ah ! point du tout ma foy,
+Si je te prens jamais, je te prendray pour moy.
+
+      Party si toy l'est pien timeure,
+Ty lafre biau cogner, chy loufre d'un cartheure
+Si chil prent mon libarte ô party…quoy ?
+
+      Comment donc te mocques-tu de moy ?
+
+Viens dedans mon taudis.
+
+Quelqu'un heurte à la porte & je croy que c'est luy,
+
+      Qu'ay-je fait de la clef de la porte ?
+La voicy.
+
+      Et qu'importe.
+
+Et bien me voilà prest, mais dequoy s'agit-il ?
+
+      Joüons bien nostre roole icy,
+Monsieur puis qu'un hazart me donne la licence,
+De vous pouvoir icy faire la reverence…
+
+Je sçais ce que je dois à vostre qualité…
+
+      Je dois trop…
+
+      S'il faut que je réponde,
+Je vous diray Monsieur que je suis Beauceron.
+
+      Et cousin de vostre vigneron.
+
+      J'ay mesme l'avantage,
+D'estre l'un des neveux du Curé du village ;
+J'ay sceu depuis huit jours que vous estiez icy.
+
+      J'en suis fort aise⁎.
+
+Que vous vous portez bien !
+
+Vous vous mariez donc ?
+
+Et vostre épouse est jeune et belle.
+
+Je m'appelle la roche.
+
+Pour goûter sous l'Hymen les plaisirs de la vie,
+Vous irez au pays ?
+
+Vous demeurez ceans⁎ ?
+
+Vous manque-t-on souvent ?
+
+Pour vous rendre mes soins⁎ mon ardeur est si forte.
+
+Mais Monsieur…
+
+Et bien je vais Monsieur conclure en diligence ;
+Et rendre mon discours plus clair dessus cela
+Qu'un syllogisme n'est, fust-il en barbara.
+
+Chez Oronte on tira des hier la lotterie ;
+J'estois prés d'une table où l'on distribuoit
+La boëtte & les billets, de qui les demandoit,
+Chacun voulant les siens, plusieurs s'en approcherent
+Et la firent pencher ; quelques boëttes tomberent,
+J'en pris une, & voulus voir sa suscription⁎ :
+In capite libri ; J'apperceus vostre nom,
+Je la serray⁎, de peur qu'elle ne fut perduë ;
+Et des hier sans la nuit je vous l'aurois renduë :
+Trop content de pouvoir quand je le croy le moins,
+Vous rendre ce service, & vous prouver mes soins⁎.
+
+Monsieur il me suffit…
+
+      J'obeys.
+
+      S'il pouvoit estre noir.
+
+      Et bien.
+
+      Quoy ?
+
+Si c'estoit le gros lot ?
+
+Ah ! vous m'enfoncerez, Monsieur plus d'une coste.
+
+Si vous me soupçonniez cecy vous desabuse.
+
+Comme je n'aspirois qu'à vous rendre service,
+J'excuse le transport⁎ qui m'a fait injustice ;
+Et vous honore trop pour en dire un seul mot,
+Si vous voulez tantost⁎ vous aurez vostre lot :
+On les doit délivrer, & mesme l'heure approche ;
+Je prens congé de vous.
+
+      De grace,
+Croyez…
+
+L'interest…
+
+C'est pour vous obliger, Monsieur que je les prens.
+
+      Je l'espere,
+Il en tient.
+
+      Chyl tir toy party qui lentry point,
+Toy ly veut voir Montam chi lestre point un peste.
+
+      Il my rompre⁎ mon teste,
+Un Gascon pour lentrer jil jeter son chapiau,
+D'un cou de mon libarte au mitan⁎ di russiau⁎.
+
+O point chi ly reviendre, un Monser Medeçain 
+Tir moy qu'il estre rien, qu'il moury que timain.
+
+O ly connestre pien Medicain.
+
+Chil tir quil tormi vou pien fort & quil estre yvre.
+
+Ouy, Monser.
+
+      Sur fou party quil lentrera,
+Rien point d'aut que mon Maistre ou pien moy…
+
+Il en tient.
+
+      O fou me lafre dit.
+Qu'il est duppe.
+
+      Quoy Monser.
+
+      Chil louvre fou sty porte.
+
+      L'on n'a point éventé nostre mine.
+
+Vivez en repos.
+      Toy…
+
+D'accort, & nous pourrons nous sentant de la Feste,
+Regler nostre entretien⁎ dessus leur teste à teste.
+
+Que veux-tu.
+
+Qu'importe.
+
+Par ma foy finissant tantost nostre entretien⁎,
+J'ay bû neuf ou dix coups qui m'ont fait bien du bien.
+
+Qu'on vend dans ce quartier d'admirable sirot,
+
+A trais frequens & longs j'ay vuidé trois bouteilles,
+Qui m'ont mort-bleu qui m'ont fait dormir à merveilles.
+
+Ouy-da⁎ comme tu dis cela se pouvoit bien.
+Ta raison est fort bonne & mesme… Il n'en est rien.
+Laissons-là le passé dis moy donc.
+
+      Escoute.
+
+      N'est-il pas vray.
+
+      Faut-il encor long-temps,
+Faire soir & matin sentinelle ceans⁎.
+
+Ah ! le vilain Monsieur, que ce Monsieur de Beauce.
+Je me tromperois fort s'il n'estoit pas cornart.
+
+      Quoy tu voudrois me quitter de la sorte ?
+
+Encor un petit mot :
+
+Que j'ayme à t'embrasser.
+
+Beatrix.
+
+      Peste de la carogne⁎.
+A l'entendre on croirait ma foy que je suis sou,
+Je l'aimerois encor je serois un grand fou ;
+Tu me quittes je vais te rendre la pareille,
+Et ne veux desormais aymer que ma bouteille :
+Mais en nous retirant gardons de⁎ nous heurter.
+
+Ouy, je te le soûtiens, il a couché dehors,
+Il n'est point revenu, j'en respons corps pour corps.
+
+      Ouy, luy-mesme.
+
+      Non.
+
+Je gage contre toy que depuis hier au soir…
+
+Aujourd'huy ?
+
+Tu l'as veu si tu veux ; mais il n'est pas ceans⁎,
+Car icy depuis hier il n'est entré personne,
+Quoy que cette raison peut seule estre fort bonne :
+J'adjouste pour parler cathegoriquement,
+Que je n'ay pas quitté la porte d'un moment,
+Que j'en ay toûjours eu la clef dedans ma poche,
+Qu'on ne peut justement m'en faire de reproche,
+Que ce fou que tu viens dis tu de rencontrer,
+Ne s'est pas seulement presenté pour entrer,
+Que tu m'en fais icy des plaintes inutiles,
+Et que s'il est entré c'est par dessus les tuilles,
+Tu peux dire à present tout ce que tu voudras.
+
+      Je n'ay rien à respondre ;
+Je voy qu'il est entré, mais je ne sçay par où,
+Sans doute ce sera pendant que j'estois sou.
+
+Chi ly veut moy tout jour rendre à vou bon service.
+
+Chil tir quen tiri point sty lotry que timain.
+Tout que vous ly tir moy je lafre fait tout comme ;
+
+Lentry point dy Monser mon foy dans sty maison,
+Chil servir pien mon Maistre.
+
+Chil servir tout jour vou di mesme.
+
+Chy li fair moy…
+
+      Chil feut fair moy vou souvenance.
+
+O Monser.
+
+Mon Maistre…
+
+      Me fait vous demander,
+S'il peut vous venir voir.
+
+J'ay bien veu des tantost⁎ qu'il sçavoit quelque chose.
+Et j'en aurois jurez.
+
+Par un fort grand soufflet Monsieur que j'ay receu,
+J'ay bien veu qu'il cherchoit à me faire querelle.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+
+Quoy vous espouseriez ce cousin ? ce magot⁎
+Supplanteroit Leandre & vous ne diriez mot ?
+Ce pied-plat⁎ qui se plaint⁎ habits, souliers & chausse,
+En un mot ce bouru Gentil homme de Beauce,
+Parce qu'il a du bien croit ce cœur destiné,
+Au Seigneur campagnard d'un hameau ruiné ?
+Qu'à le suivre en Province une fille s'engage ?
+Ma foy c'est pour son nez ; qu'il aille en son village,
+Conter ses poulets-d'inde⁎ & qu'il nous laisse en paix.
+
+      Il est vray qu'il est bon,
+Il est icy venu debarquer sans façon⁎,
+Et depuis empaumant⁎ nostre mere eternelle,
+Il fait dans la maison le maistre bien plus qu'elle ;
+Car souvent pour un rien, il nous menace tous,
+Ou de mettre dehors ou de donner cent coups,
+Lors que je me remets⁎ son burlesque visage⁎,
+Sa monture, son train⁎, & tout son equipage⁎,
+Et l'air⁎ dont ce mâtin⁎ vous vint sauter au cou,
+Je ne puis m'empescher d'en rire tout mon sou.
+
+      Ouy, mais ce lunatique
+Avec son habit neuf sent⁎ sa medaille⁎ antique,
+Son tailleur avec luy pensa perdre l'Esprit
+Quand il le fit venir, & touchant⁎ cet habit,
+Ce bouru mesprisant ses avis⁎ & les nostres,
+N'a pas voulu qu'en rien il fust semblable aux autres,
+Il dit que ses ayeuls estoient ainsi vestus,
+Et qu'il veut imiter leur mode & leurs vertus,
+A propos dites-moy, Madame je vous prie.
+
+      Quand pretendez⁎-vous tirer la lotterie ?
+Vous disiez…
+
+      Et pourquoy ?
+
+J'ay de voir mes billets grande demangeaison,
+
+Il est vray qu'à l'aspect du cousin, vos amis,
+Ont en fort peu de temps deserté le logis,
+Car vous aviez toûjours fort bonne compagnie⁎,
+Cela vous tient au cœur, mais depuis leur sortie,
+N'avez-vous rien appris du pauvre Chevalier ?
+D'Alchante ? de Damon ? car pour le Maltostier⁎,
+Il est mort.
+
+Si vous la regrettez, j'y perd beaucoup aussi,
+Le Basque son valet n'ose venir ici,
+Je l'aimois, & je sçais qu'il m'ayme avec tendresse⁎.
+
+J'y suis interessée & diray ce qu'il faut.
+
+      J'entens quelqu'un qui crie.
+Que vous plaist-il, Monsieur ?
+
+      Pour combien de billets.
+
+Non, c'est le Precepteur du frere de Madame.
+
+      Martin.
+
+      Pas tant sot.
+
+Ouy, jusques à present le fonds⁎ en est passable,
+Beaucoup de gens ont mis, & la somme est notable :
+Mais comme à la tirer on n'est pas encor prest,
+Il peut avec le temps estre plus grand qu'il n'est,
+Pour la fidelité…
+
+Voicy vostre cousin & vous aurez aubade.
+
+Madame, j'en sçais un qui sera vostre affaire.
+
+      Il demeure à vingt pas du logis,
+Il est nouvellement venu de son païs ;
+On n'entend⁎ presque rien de tout ce qu'il veut dire,
+Il est si plaisamment vestu qu'il en fait rire,
+Madame, il est mutin⁎, parle fort son jargon⁎,
+Et n'entend⁎ à le voir ny rime ny raison,
+Il frape comme un sourd, ne cherche qu'à se battre,
+Il est fort comme deux, & méchant⁎ comme quatre,
+Avec sa mine⁎ froide il a le sang fort chaud.
+
+Je vous le feray voir.
+
+Je me sers, & vous sers plus que vous ne pensez,
+
+Si j'en veux au valet vous en voulez au Maistre,
+N'est-il pas vray ?
+
+      Et le Basque est celuy,
+Que je pretens⁎ pour Suisse introduire aujourd'huy.
+
+      Il contre fait si bien
+Le Suisse, que jamais on n'y connoistra⁎ rien,
+Vous jugerez bien-tost de ce que j'en puis dire,
+Ce folastre ceans⁎ m'en a cent fois fait rire,
+Personne ne l'a veu qui ne s'y soit trompé,
+Et je ne doute pas qu'il n'y soit attrapé.
+Je m'en suis avisée⁎ à propos, & Leandre,
+Sans cela prés de vous eust eu peine à se rendre,
+Si le Cousin eust pris sans nous en advertir,
+Un Suisse, il eust falu se resoudre à pâtir.
+
+      J'y cours, mais je le vois paroistre.
+
+Que de discours, voicy dont il est question,
+Pour empescher qu'ici la foule ne se glisse,
+Le cousin Beauceron, veut que l'on prenne un Suisse,
+Vous sçavez que le Basque est un original,
+Qui le contre-fait bien.
+
+      J'auray soin de luy sur ce point ;
+Trouvez-luy quelque habit de Suisse, & pour l'instruire,
+Qu'il me vienne trouver je le dois introduire.
+
+      Ne demandez point ny comment, ny pourquoy,
+Despechez, & de tout reposez-vous sur moy.
+
+Voicy vostre cousin.
+
+Ils sont blancs comme nege.
+
+      Monsieur.
+
+      J'y vais.
+
+Tréve de gravité personne ne nous voit.
+
+      Ouy, nous sommes seuls.
+
+      Ah laissons la sornette,
+Suisse fait à la haste.
+
+      Ne sçais-tu pas que si.
+
+      Il n'est pas temps de rire, 
+Tu vois ce qu'il faut faire & sçais ce qu'il faut dire,
+Songe à jouër icy ton roolle comme il faut,
+Je vais au Beauceron te conduire là haut,
+Il vient, prepare toy.
+
+      Monsieur, voilà le Suisse.
+
+Ce Suisse est vostre fait⁎.
+
+Quoy celuy-cy, Monsieur, n'est pas à vostre gré ?
+
+Ces gros Suisses, Monsieur, avec leur barbe salle ;
+Et leur ventre de son, sont des Suisses de balle.
+Estant plus maigre qu'eux il sera plus dispos,
+Et je l'aymerois mieux comme il est, que plus gros.
+Escoutez, & voyez.
+
+      Entendez⁎-vous toute cette Harangue ?
+
+Et moy Monsieur, j'en ris sans entendre⁎ un seul mot.
+
+J'y vais, nostre cousin donne dans le panneau.
+
+      Pendant que ce fantasque,
+Ecrit, allons parler à nostre Suisse Basque ;
+Il vient de debuter plaisamment, à ce fou,
+L'a pris pour duppe, & m'a fait rire tout mon sou,
+Mais je le vois venir, de me voir il petille,
+Si quelqu'un…
+
+Laisse-là ton jargon⁎ nous sommes seuls.
+
+Que je crois que l'on peut dire à ton avantage,
+Que tu fais mieux le fou que tu ne fais le sage.
+
+      Quoy mais…
+
+      Une autre fois.
+
+Tu me prens pour une autre.
+
+J'entens quelqu'un.
+
+      Tais-toy,
+Ce n'est rien.
+
+On peut dans cette sale aisement nous surprendre.
+
+      Non, mais je veux t'apprendre,
+Que je voudrois parler à ton Maistre aujourd'huy.
+
+Ouvre luy.
+
+      Va donc viste il attend.
+
+Preparons le billet que ma Maistresse écrit,
+A Leandre, Il verra que le tout est d'esprit ;
+Mais je le voys.
+
+Si vous vous en flattez⁎ vostre esperance est veine,
+Et si vous m'en croyez, retournez sur vos pas,
+
+      Nostre bouru ne l'abandonne pas,
+Et depuis que tantost avec vous il l'a veuë,
+A l'obseder⁎ ainsi son ame est resoluë,
+Ce maudit Beauceron, pour la mieux tourmenter,
+A fait mille sermens de ne la plus quitter,
+Il dit qu'on fait icy des tours de passe passe,
+Qu'il veut estre témoin de tout ce qu'il se passe,
+Qu'il pretend⁎ y mettre ordre, & qu'il veut empescher
+Que pas un soûpirant ne la puisse approcher ;
+Il vient de s'enfermer dans sa chambre avec elle.
+
+Avecque⁎ ce billet prenez un peu d'espoir,
+Et jugez si Climenne a dessein de vous voir,
+Et si son cœur pour vous de tendresse⁎ est capable.
+
+      Prenez le Basque.
+
+      Allez je prens cela pour moy,
+Je l'excuseray bien, c'est à quoy je m'engage.
+
+      Et jouër encor un tour aussi subtil.
+
+      Et moy je remonte là haut.
+
+      Monsieur, que voulez-vous ?
+
+A donner leur argent ils ont assez de peine.
+
+      Le Suisse est allé voir mourir,
+Sa femme, qui dit-on est preste à rendre l'ame.
+
+      Attendant son retour,
+Champagne…
+
+Il est constant Monsieur, il faut que je l'en gronde ;
+Et j'y vais de ce pas.
+
+Enfin il est dehors, que Belzebut l'emporte,
+Sans oublier quiconque en aura du soucy⁎,
+Je suis depuis une heure en sentinelle icy,
+Pour voir s'il sortiroit, combien il a de peine⁎,
+À sortir, mais allons avertir Climenne,
+Ne vois-je pas Leandre ?
+
+      Estiez- vous à l'affus ?
+Pour estre icy si-tost.
+
+Quoy qu'il face, il ne peut revenir qu'à la nuit,
+Oronte loge loin d'icy, quoy qu'il se presse…
+
+Venez.
+
+      Je viens te retrouver.
+
+      Il est nuit l'heure presse,
+Et je croy qu'il est temps d'avertir ma maistresse ;
+Et nostre Beauceron pourroit bien revenir,
+Climenne avec Leandre a pû s'entretenir,
+Depuis qu'il est dehors ils n'ont bougé d'ensemble.
+
+      Quand un hazart assemble,
+Deux Amans⁎ que l'amour unit en mesme temps,
+Il se passe ma foy des momens bien plaisans :
+On cajole⁎ on badine, on ne songe qu'à plaire,
+L'œil devient plus brillant qu'il n'est à l'ordinaire :
+Un certain rouge au teint donne un nouvel esclat,
+On a de l'enjouëment le sang boust le cœur bat.
+On s'entretient un temps puis on fait quelques pauses ;
+On se fait, on se dit mille sortes de choses :
+De mille plaisans mots on larde⁎ l'entretien⁎ ;
+Et sans le teste à teste enfin l'amour n'est rien.
+
+      Je juge par moy-mesme,
+Du plaisir que l'on a d'estre avec ce qu'on aime ;
+Le Basque & moy voyïons tantost nos feux contens,
+Nous avons assez bien employé nostre temps.
+Enfin à sa maniere il me contoit sa peine,
+Il estoit mon Leandre & j'estois sa Climenne ;
+L'amour dans ce logis estoit pris au collet,
+Et je disois pour lors tel Maistre tel valet ;
+C'est un plaisant garçon & pas un n'en approche,
+Qu'il a plaisemment fait le Monsieur de la roche.
+Et pour faire sortir d'icy le Beauceron,
+Qu'il a bien contrefait son visage & son ton :
+Les vingt Louïs⁎ en sont une assez bonne marque.
+
+D'abort qu'il a trouvé numero vingt-&-six
+Il a crû bonnement que les trois cent Loüis⁎,
+L'attendoient tous contez, il est sorty sur l'heure,
+Comme nous l'esperions, il est bon ou je meure ;
+On luy garde des lots par ma foy ce magot⁎,
+Meriteroit d'avoir des cornes pour son lot.
+
+      Mais il doit sçavoir je pense,
+Que l'on l'a pris pour duppe & j'en ris par avance,
+Ce n'est qu'entre ses dents qu'on le verra pester,
+Il est trop glorieux pour s'en venir vanter ;
+Je voudrois bien avoir le plaisir de l'entendre,
+Mais je ne vois venir Climenne ny Leandre ;
+Allons les separer dedans cet entretien⁎,
+Ils passeront la nuit si l'on ne leur dit rien.
+
+J'en demeure d'acort cela ne vous plaist guerre,
+Pour quitter ce qu'on ayme il n'est jamais trop tart,
+Cependant il est temps de faire bande à part.
+
+Si j'y puis quelque chose il doit estre asseuré ;
+Que nous le bernerons de la bonne maniere,
+Et qu'à m'en divertir je seray la premiere.
+
+Vous le sçaurez du Basque.
+
+Basque.
+
+      Pour dormir prens tu pas bien ton temps ?
+Nostre bouru dans peu doit se rendre ceans⁎,
+Il est dans ce moment prest à rentrer peut-estre.
+
+Mais veux-tu me brider le nez de ton falot.
+
+Et si pendant ce temps le cousin fust venu,
+Ou qu'il fut mesme entré sans que tu l'eusses veu.
+C'est une occasion qui pourroit s'estre offerte,
+Et quelqu'un auroit pû laisser la porte ouverte.
+
+      Qu'est-ce ?
+
+Te voilà beau⁎ garçon.
+
+      Sans doute.
+
+Cela pourra cesser si le Ciel nous exauce.
+
+C'est assez raisonner ne bois de la soirée,
+Et tasche à ratraper ta raison égarée.
+Si le Beauceron vient ne luy dis que deux mots,
+Il vaut mieux en moins dire & parler à propos ;
+Jusques à son retour prens bien garde à la porte.
+Adieu.
+
+Tes discours à present n'auront jamais de fin.
+
+      Ah ! que tu sens le vin.
+
+      Que je hais un yvrongne.
+
+      Laisse-moy.
+
+Quoy, tu voudrois encor soûtenir le contraire ?
+L'effronterie est grande & je ne puis m'en taire.
+
+Quoy nostre Beauceron est dehors ?
+
+Il n'est point rentré?
+
+      L'impudence est extréme.
+
+L'obstiné ! je te dis que je le viens de voir :
+Qu'il est dans le jardin tout seul qui se promene,
+Et qu'il m'a demandé ce que faisoit Climenne.
+
+      Ouy, depuis un cart-d'heure de temps.
+
+Toûjours mesme chanson ? ma foy tu le verras,
+Ce n'est que par tes yeux que je veux te confondre :
+Le voicy qu'en dis tu.
+
+Je sçay tout comme vous car j'ay tout entendu.
+
+Je me mocquerois bien d'eux deux en vostre place :
+Ouy, je me lasserois d'avoir les bras liez,
+Une fois c'est pour vous que vous vous mariez,
+Vostre mere le veut, on me la baille belle,
+S'il est tant à son gré que ne l'espouse-t-elle.
+
+En quatre mots voilà ce que je luy dirois,
+Qu'on me laisse en repos⁎, je n'ayme que Leandre,
+Je hais le Beauceron, qu'il s'aille faire pendre.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legascon
+
+Hola, quelqu'un, lacquais faut il monter en haut ?
+Personne ne respond.
+
+      Et dont la lotterie,
+Je porte icy d'argent.
+
+Pour douze, mais ou sont vos gens⁎ ou vos valets,
+Qui donne ces billets ? seroit-ce quelque fame ?
+
+Il s'appelle ?
+
+      Habille ?
+
+Je voudrois qu'il m'apprit à gagner un gros lot,
+Je m'en suis desja fait pour cinquante pistoles⁎,
+Dieu me damne, & je dis ceci sans hiperboles,
+J'avois trente billets chez Madame du Bois,
+Chez Monsieur du Buisson, j'en avois vingt & trois
+J'en avois douze, chez Madame la Fontaine,
+Chez Monsieur de la Vigne encor autre douzaine :
+J'ay pris tous billets blancs ; il faut voir jusqu'au bout.
+
+      En tout,
+Si pour m'indamniser j'estois heureux en belles,
+Je m'en consolerois.
+
+Il ne tiendra qu'à vous de m'apprendre que non,
+Vous riez. Vous voyez que je suis sans façon⁎,
+Tous nous autres Gascons sommes francs.
+
+Loin de nous en blâmer, un chacun nous en louë,
+Vos lots seront-ils gros ?
+
+Vostre fons⁎ est-il grand ?
+
+      Je connois bien Madame,
+Je suis vostre voisin, & j'y mettrois mon ame,
+Si son cœur me pouvoit venir pour un gros lot.
+
+Ah ! Monsieur.
+
+Monsieur de Coutreville…
+
+Vous ne connoissez⁎ plus vos amis.
+
+Sans doute.
+
+      Depuis plus de dix mois.
+Vous estes Beauceron volontiers,
+
+J'estois, & vous m'allez connoistre⁎ asseurement,
+Capitaine, & Major, dans certain Regiment,
+Qui passa l'an dernier dedans vostre village.
+
+      On fit quelque ravage,
+J'en demeure d'accord, mais je fus des premiers…
+
+Espargnez vos amis.
+
+Je viens pour des billets, & rencontrant Climenne,
+J'ay pris occasion…
+
+Mort-bleu j'ayme le sexe⁎, & ma joye est extrême,
+Quand je trouve…
+
+      Sçachez…
+
+Suffit je vous entens⁎.
+
+      La faute n'est pas grande,
+Je le veux, c'est assez m'en dire sur le point ;
+Mais ce Monsieur Martin, il est là haut non point ?
+
+      Prés de luy je m'en vais donc me rendre.
+
+À la fin j'ay trouvé moyen d'entrer ceans⁎,
+La porte est à present ouverte à tous venans :
+Grace au Suisse qui dort & qui sans doute est yvre,
+C'est un fâcheux⁎ maraut⁎ dont le Ciel me delivre ;
+S'il n'estoit endormy j'aurois pû me venger,
+Ce cocquin m'a cent fois pensé faire enrager,
+Et des que je venois me montrer à la porte ;
+Me la fermoit au nez tres-rudement, n'importe ;
+Je la luy garde bonne, & devant⁎ qu'il soit peu,
+Nous conterons ensemble & nous verrons beau jeu ;
+Je sçay qu'il ne l'a fait que pour me faire niche :
+Mais de coups de baston le Ciel m'a fait peu chiche.
+Où se sont donc fourrez tous les gens⁎ du logis,
+Mais n'apperçois-je pas Monsieur Martin ?
+
+Que vous parliez François dites franc je vous prie,
+Quand pretend⁎-t-on ceans⁎ tirer la lotterie ?
+
+Dieu me damne j'en suis au comble de la joye,
+Pour me mettre en repos⁎ je n'ay que cette voye,
+Comment à chaque jour je creve dans ma peau,
+J'ay toûjours aux talons quelque fâcheux⁎ nouveau,
+Après moy sans quartier sans cesse quelqu'un crie,
+Et si l'on ne tiroit bien-tost la lotterie…
+
+Comment diable qu'importe, il importe tres-fort,
+Les gens que je vous dis qui m'obsedent⁎ sans cesse,
+Sont six creanciers miens ; comme chacun d'eux presse,
+Je me suis à la fin resolu d'assigner,
+Leurs debtes sur les lots que je m'en vais gagner,
+Brûlant d'estre payez jugez s'il leur importe.
+
+Vous m'embarassez fort, à vostre lotterie,
+Feroit-on dites-moy quelque friponnerie ?
+
+Veut-on favoriser quelqu'un des gros lots ?
+
+Comment donc tous ces lots que ceans⁎ on doit faire,
+N'est-ce pas de l'argent content ?
+
+      Cadedy⁎ c'est comme je l'entens,
+Je pretens⁎ du gros lot acquitter quatre debtes,
+Et le gagner s'entend ; quelle mine⁎ vous faites.
+
+Cela ne se peut pas, que diable allez vous dire ?
+
+Comment vous le croyez ?
+
+Je ne gagneray rien ? & bien nous le verrons :
+Je vous ay franchement dit toute mon affaire,
+Il me faut quatre lots tout au moins pour la faire,
+Si je ne gagne rien je pretens⁎…Vous verrez.
+Ne m'en prendre qu'à vous & vous m'en respondrez.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martin
+
+      Quid vis.
+
+Cette affaire demande une uniformité,
+De candeur, de loisir & de sagacité.
+Un Auteur tres-sensé dit que l'exactitude,
+Se trouve rarement avec la promptitude.
+Le peuple cependant abordant à milliers,
+Et la foule causant des debats⁎ journaliers,
+Du contraste⁎, du bruit, d'autres choses fâcheuses⁎,
+Des altercations mesme contentieuses,
+Je suscrits aujourd'huy les boëttes de ma main,
+Et l'on pretend⁎ tirer les billets des demain.
+
+Eh ! qu'importe à ces gens qu'on face cet effort ?
+
+Quoy vous croyez payer vos debtes de la sorte ?
+Et vos creanciers foux au supresme degré,
+Prennent pour hypotecque un lot mal assuré ?
+C'est vouloir les berner, depuis quand l'esperance,
+Pour payer des debets⁎ a-t-elle cours en France ?
+Si vous avez dessein de payer ces Messieurs,
+Croyez-moy cherchez leur un autre fons⁎ ailleurs.
+
+Vous avez tort, Monsieur, d'avoir un tel soupçon.
+
+      Non.
+
+      La chose est claire,
+Mais il faut pour avoir les gros lots de ceans⁎,
+Les gagner.
+
+Je voy gagnant des lots que tout ira fort bien,
+Mais qui les payera si vous ne gagnez rien ?
+
+Je croy que vous n'aurez pas grand sujet d'en rire.
+
+      Ouy je vous en repons⁎.
+
+À moy Monsieur à moy cet homme n'est pas sage,
+A-t-on jamais tenu de semblable langage ;
+S'il n'a pas quatre lots il s'en va prendre à moy,
+Il a perdu l'esprit, mais quelqu'un vient je croy :
+De peur que ce n'estoit quelque fou comme l'autre ;
+Sortons de cette chambre & montons dans la nostre.
+
+
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
+
+Monsieur, on vient là bas de forcer nostre porte,
+Avec leur lotterie ils ont le diable au corps.
+
+      J'ay fait tous mes efforts,
+Avecque⁎ le cocher & la presse⁎ est si grande…
+
+Avec empressement un homme vous demande.
+
+      Je ne sçay.
+
+C'est un homme qui porte un fort petit colet⁎,
+Avec un habit noir, enfin c'est ce me semble,
+Quelque façon d'Abbé, du moins il leur ressemble.
+
+Vostre cheval Monsieur, & vostre postillon,
+Sont là bas.
+

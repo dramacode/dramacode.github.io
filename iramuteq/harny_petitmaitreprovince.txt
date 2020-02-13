@@ -1,287 +1,13 @@
 
 
-**** *book_ *id_I01 *act_I *date_1765
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
--*who_lemarquis
-De ma voiture nouvelle
-Est-ce-là  le modèle ?
-Il est assez bien.
-Je veux, pour mon mariage,
-Avoir cet équipage ;
-Que l'on n'épargne rien.
-Vite, à  Paris, allez, la France ;
-Que l'on travaille en diligence,
-Et rapportez, en revenant,
-Ces Magots pour le Président.
-Vous, la Fleur, passez chez Hortense,
-Chez Cydalise, chez Constance,
-Dites-leur qu'au premier moment,
-Je les verrai certainement.
-Mais qu'on abrège les mystères :
-De ce tracas,
-Je suis, si las !
-J'ai trop d'affaires,
-Je n'y tiens pas.
-Qu'on mette les chevaux.... Lépine,
-Où donc est ce cocher, qu'on dit des plus adroits ?
-
--*who_lepine
-Le voici, Monsieur.
-
--*who_lemarquis
-      Quoi ! Tu plaisantes, je crois.
-
--*who_lepine
-C'est un très bon cocher.
-
--*who_lemarquis
-      Il est petit, sans mine...
-
--*who_lepine
-Peut-être celui ci vous conviendra-t-il mieux ?
-
--*who_lemarquis
-Ah ! passe encor. Voilà  du moins un homme.
-Je le retiens.
-
--*who_lepine
-      Il n'est pas trop fameux.
-
--*who_lemarquis
-Il est grand et bienfait. Sais-tu comme il se nomme ?
-
--*who_lepine
-Brillant.
-
--*who_lemarquis
-      Le nom est heureux.
-Là -bas prends soin de le conduire,
-Et quand tout sera prèt, tu viendras me le dire.
-
-**** *book_ *id_I02 *act_I *date_1765
-
--*who_dainval
-Ah ! Voici le Marquis. On le dit mon rival.
-Sachons s'il est aimé.
-
--*who_lemarquis
-      Bonjour, mon cher Dainval ;
-Qui t'amène en ces lieux ?
-
--*who_dainval
-      J'y suis pour quelque affaire ;
-Mais toi, Marquis, qu'y viens-tu faire ?
-
--*who_lemarquis
-Tu connais à  Paris la Comtesse Dorgé,
-Sœur d'un certain Baron, Seigneur de ce village.
-Pour me donner sa nièce, elle a tout arrangé,
-Et j'ai, sur sa parole, entrepris le voyage ;
-Mais je n'ai pu trouver en arrivant ici,
-Que la mère et la fille avec beaucoup d'ennui,
-Le Baron, m'a-t-on dit, est un homme sauvage,
-Amateur de ses prés, de ses eaux, de ses bois,
-Et qui de son château n'est sorti qu'une fois.
-Ce doit être, je pense, un plaisant personnage !
-
--*who_dainval
-C'est un homme sensé, qui ne vit que chez lui.
-
--*who_lemarquis
-Absent depuis un mois, il arrive aujourd'hui.
-Sa femme peut passer comme on passe en province ;
-Car tout est en ces lieux d'un mérite si mince !
-
--*who_dainval
-Et la fille ? Elle est belle. Épris de ses attraits,
-Sans doute en arrivant, dès la première vue,
-Tu fixas tes désirs.
-
--*who_lemarquis
-      Je ne l'ai pas trop vue.
-
--*who_dainval
-Et tu vas l'épouser ?
-
--*who_lemarquis
-      Que m'importent ses traits ?
-Je ne viens point adorer ma bergère,
-Et filer à  ses pieds les sentiments parfaits.
-Ma femme me sera toujours fort étrangère.
-
--*who_dainval
-Se marier ainsi, c'est assez l'ordinaire.
-Sans trop examiner, l'époux, comme un joueur,
-Des effets du hasard attend tout son bonheur.
-
--*who_lemarquis
-Le mariage
-N'est plus un esclavage
-Dont on redoute les rigueurs.
-S'il nous offre encore une chaîne,
-Ce n'est qu'une chaîne de fleurs,
-On la brise sans peine.
-La liberté, l'âme de ce lien,
-Ôte à  présent l'épine de la rose.
-De soi-même chacun dispose,
-Et chacun s'en trouve assez bien.
-
-**** *book_ *id_I03 *act_I *date_1765
-
--*who_lepine
-Monsieur, votre voiture est prête, on vous attend.
-
--*who_dainval
-Ah ! Ah ! Quelle magnificence !
-L'habit de tes valets est tout-à-fait brillant.
-
--*who_lemarquis
-Il n'est pas des plus mal, je pense.
-
--*who_dainval
-Très bien.
-
--*who_lemarquis
-      Et le chapeau ?
-
--*who_dainval
-      Tout en est élégant.
-
--*who_lemarquis
-Cet habit n'est-il pas mille fois plus galant
-Que les sombres couleurs d'une triste livrée ?
-
--*who_dainval
-Peut-être est-il moins noble.
-
--*who_lemarquis
-      Aujourd'hui les Seigneurs,
-Pour de bonnes raisons, ont quitté les couleurs.
-
--*who_dainval
-La Province bientôt, par tes soins éclairée,
-Va prendre tout un autre ton ;
-Mème on dit que tu veux, sensible aux ridicules,
-Sur l'honneur, la vertu, le mépris, la raison,
-De nos Provinciaux dissiper les scrupules,
-Et de tout préjugé l'aveuglement fatal.
-
--*who_lemarquis
-On ne voit tout ici qu'à  travers un cristal.
-Le mépris est un mot ; l'honneur une chimère ;
-L'innocence, un beau titre auquel on ne croit guère :
-La raison, un masque emprunté
-Pour cacher la difformité :
-La vertu, le talent de vendre sa défaire :
-Le sentiment, le fard d'une vieille coquette,
-Qui de ses yeux éteints veut bien donner avis :
-Et la fidélité, terme du vieux langage,
-Un droit fort incertain, vanté par les maris ;
-Mais dont aucun encor n'a pu trouver l'usage.
-
-**** *book_ *id_I04 *act_I *date_1765
-
--*who_dainval
-Quel fat ! Voilà  pourtant nos hommes du bel air.
-Avec ce persiflage on se fait adorer.
-
-**** *book_ *id_I05 *act_I *date_1765
-
--*who_dainval
-Ah ! Vous voilà , belle Julie !
-Rassurez un coeur incertain.
-
--*who_julie
-Que craignez-vous, Dainval ?
-
--*who_dainval
-      Excusez, mais enfin
-Il y va du bien de ma vie.
-Le Marquis vous voit tous les jours,
-Peut-être est-il fait pour séduire.
-
--*who_julie
-Pouvez-vous me tenir un semblable discours,
-Et dans mes yeux ne savez-vous plus lire ?
-Les dehors les plus séduisants
-Ne touchent pas toujours une âme.
-Ce n'est que pour les cœurs constants
-Que l'Amour fait briller sa flamme.
-Je ne connais point l'art trompeur
-D'abuser l'Amant que j'engage ;
-Et je laisse parler mon cœur.
-C'est mon plus cher langage.
-Bannissez tout soupçon jaloux :
-Ne suis-je pas toujours la même ?
-Pour moi, c'est un plaisir bien doux
-De vous dire que je vous aime.
-Mon bonheur serait assuré
-Si je pouvais faire le vôtre.
-Le bonheur d'un objet aimé
-Devient toujours le nôtre.
-
-**** *book_ *id_I06 *act_I *date_1765
-
--*who_marton
-Ah, ah.
-
--*who_julie
-      Qu'avez-vous donc, Marton ?
-
--*who_marton
-Pardonnez ; mais je ris de Monsieur le Baron.
-Les grands airs à  la mode ont peu l'art de lui plaire.
-
--*who_dainval
-Est-il de retour ?
-
--*who_marton
-      Oui, vraiment.
-À faire grand tapage il s'occupe à  présent.
-
--*who_julie
-Qui peut attirer sa colère ?
-
--*who_marton
-Vous savez qu'il est surprenant
-À quel point la Baronne au Marquis s'intéresse :
-Ce qu'il dit, ce qu'il fait, tout lui paraît charmant.
-Monsieur n'a point la même politesse.
-Madame, à  certains changements
-Que le Marquis nommait des embellissements,
-S'est prêtée avec complaisance.
-Monsieur a peu goûté toute cette élégance,
-Et d'abord en entrant s'est mis fort en courroux.
-
-**** *book_ *id_I07 *act_I *date_1765
-
--*who_lebaron
 Maraud, je te rouerai de coups.
 
--*who_blaise
-Morgué, je n'y pouvais que faire.
-
--*who_julie
-Ah ! Mon père,
-Que j'ai de joie à  vous revoir !
-
--*who_lebaron
 Je vais t'apprendre ton devoir.
 
--*who_dainval
-Baron, calmez votre colère.
-
--*who_labaronne
-Eh ! mais, Monsieur, y pensez-vous ?
-
--*who_lebaron
 Laissez-moi l'assommer de coups.
 
--*who_labaronne
-Continuez, Monsieur ; de votre humeur bourrue
-Faites sentir les traits à  toute la maison.
-
--*who_lebaron
 Les femmes ont toujours raison.
 Tu connais, mon ami, cette belle avenue
 Qui conduit à  mon bois par trois chemins égaux.
@@ -294,16 +20,6 @@ Ma grange une remise, et d'un clos excellent
 On a pris la moitié pour en faire un parterre.
 C'est ce coquin.
 
--*who_blaise
-      C'était bien malgré moi, Monsieur.
-Nous avions là  des choux d'une si bonne meine !
-Quand je les arrachais, ça me fendait le cœur.
-
--*who_labaronne
-On voudrait embellir votre triste domaine.
-Mais vous avez si peu de goût !
-
--*who_lebaron
 Trêve à  vos ornements. Pensons au nécessaire.
 Corbleu, si l'on vous laissait faire,
 Nous pourrions avant peu manquer ici de tout.
@@ -329,15 +45,6 @@ Poussés par un vent orageux,
 Pour mes terres
 Seraient moins dangereux.
 
--*who_labaronne
-Osez-vous regretter deux mauvaises tourelles,
-D'une antique chaumière enseignes éternelles.
-Votre nouveau Château pourra vous faire honneur.
-Voulez-vous avoir l'air d'un campagnard stupide,
-De ses fossés bourbeux défenseur intrépide,
-Et de son pont-levis superbe admirateur ?
-
--*who_lebaron
 Comment donc ! ce petit Monsieur,
 Que je ne connais point et ne connaîtrai guère,
 Dans ces lieux adressé par ma folle de sœur,
@@ -347,24 +54,9 @@ Mais j'entends des chevaux ; je pense que c'est lui.
 Je vais lui parler net, et je saurai lui dire
 Sans façon ma pensée.
 
--*who_labaronne
-      Et moi, je me retire.
-Je ne veux point rougir de votre air impoli.
-
--*who_lebaron
 Tant mieux. Toi, prends le soin d'observer aujourd'hui
 Ma fille, et le Marquis.
 
--*who_blaise
-      Il suffit ; laissez faire,
-Je vous rendrai de tout un compte fort sincère.
-
-**** *book_ *id_I08 *act_I *date_1765
-
--*who_lemarquis
-Ces chevaux sont si vifs qu'on craint de les toucher.
-
--*who_lebaron
 Il est avec son cocher.
 Il faut encor par déférence
 Ne lui rien dire en sa présence.
@@ -372,292 +64,151 @@ Monsieur, votre humble serviteur.
 Mon ami, laissez-nous.
       Passez donc, je vous prie.
 
--*who_lepine
-Ah ! Monsieur.
-
--*who_lebaron
       Sans cérémonie.
 
--*who_lepine
-Ah !
-
--*who_lebaron
       Point de façons.
 
--*who_lepine
-      Ah ! Monsieur.
-
--*who_lebaron
 Ce Cocher m'a tout l'air d'un insolent rieur.
 Faites ainsi que moi, mettez-vous à  votre aise.
 Laissez-nous donc.
       Voulez-vous une chaise ?
 
--*who_dainval
-Vous vous trompez, Baron.
-
--*who_lebaron
       Quoi ?
 
--*who_dainval
-      Voilà  le Marquis.
-
--*who_lebaron
 Le Marquis !
 
--*who_dainval
-      Oui, vraiment.
-
--*who_lemarquis
-      Cette erreur est divine !
-
--*who_lebaron
 Et ce Monsieur ?
 
--*who_dainval
-      Ce Monsieur, c'est Lépine,
-Un Valet.
-
--*who_lebaron
       Un Valet ! Je me suis bien mépris.
 Sous un tel attirail qui pourrait vous connaître ?
 Cet homme porte donc les habits de son maître ?
 
--*who_dainval
-Non. C'est le sien.
-
--*who_lebaron
       Le sien !
 
--*who_dainval
-      C'est le goût d'à  présent.
-
--*who_lebaron
 Je ne m'étonne plus s'il a l'air insolent.
 
--*who_dainval
-La raison lutte en vain, la mode est la plus forte.
-
--*who_lemarquis
-Tout vous surprend ici.
-
--*who_lebaron
       Sans se rendre indiscret
 Peut on demander qui vous porte
 A vous masquer ainsi sous un dehors peu fait
 Pour un homme de votre sorte ?
 
--*who_lemarquis
-Le plaisir.
-
--*who_lebaron
       Le plaisir ?
 
--*who_lemarquis
-      Je viens dans le moment
-D'essayer six bidets, qui font un attelage
-À se mettre à  genoux devant.
-
--*who_lebaron
 C'est donc un plaisir bien charmant
 Que de conduire un équipage ?
 
--*who_lemarquis
-Un plaisir ! je dis plus, un devoir. A présent
-Paraître sur les Cours dans un diable élégant ;
-Tout droit, et sans appui, d'un air fier, avec grâce,
-De cent détours nouveaux tracer le court espace,
-Modérer ses chevaux, les presser faiblement,
-Animer tout-à -coup leur fougue impatiente,
-Serrer le fantassin culbuté d'épouvante,
-Dans un passage étroit courir rapidement,
-Près d'un char renversé voltiger d'un air libre,
-Et malgré les cahots soutenir l'équilibre,
-D'un jeune homme éduqué c'est le premier talent.
-
--*who_lebaron
 J'aperçois d'un coup d'œil que ces gens que l'on cite,
 Qui dans Paris sont des héros,
 Doivent souvent tout leur mérite
 A la vigueur de leurs chevaux.
 
--*who_lemarquis
-J'ai connu longtemps, je vous jure,
-Une femme charmante, et d'un esprit divin,
-Qui pour Amant jamais ne voulut d'un Robin,
-Quoiqu'il fût très-bien de figure :
-Mais il ne savait pas conduire une voiture,
-Et surtout il tenait ses guides et son fouet
-Comme une pièce d'écriture.
-
--*who_lebaron
 Que m'importent les torts d'un petit freluquet ?
 Traitons ensemble un fait de plus grande importance.
 
--*who_lemarquis
-Je veux vous montrer un chef-d'œuvre d'élégance,
-Le plus joli diable chinois.
-
--*who_lebaron
 Écoutez-vous les gens par fois ?
 Paris ne forme pas des tètes bien parfaites.
 Excusez, je suis franc, un Campagnard tout rond.
 
--*who_lemarquis
-Je le vois bien, Monsieur.
-
--*who_lebaron
       Pour plaire à  des caillettes
 On immole à  l'éclat ses biens et sa raison.
 
--*who_lemarquis
-Le seul homme du jour jouit de l'avantage
-De fixer tous les yeux.
-
--*who_lebaron
       Le brillant apanage
 À troquer contre du bon sens !
 Nous savons en Province employer mieux le temps.
 
--*who_lemarquis
-Dans le monde veut-on paraître un personnage :
-Il faut par les dehors subjuguer les esprits,
-Prendre un ton décisif, l'afficher sans scrupule,
-Pour se faire admirer parcourir tout Paris,
-Sur chacun en passant jeter un ridicule,
-Au Spectacle du jour arriver à  grand bruit,
-Dans chaque loge entrer, quoiqu'on n'ait rien à  dire,
-N'y rester que le temps de montrer un habit,
-Au milieu des foyers ameuter la satyre,
-Tout haut sur l'escalier confier ses secrets,
-D'un ton impatient appeler ses valets,
-Annoncer en partant quelque réduit commode,
-Où l'on voit tour à  tour les Beautés à  la mode ;
-Les jouer, les tromper toutes également,
-D'un changement heureux se réserver la gloire,
-D'un jaloux que l'on dupe éterniser l'histoire,
-Forger même au besoin un triomphe saillant ;
-Le plaisir est un Dieu que la contrainte atterre.
-À de brillants succès l'aimable homme attendu,
-Doit chercher le grand jour, doit rougir de se taire.
-Il est anéanti, perdu,
-Si dans la foule une fois confondu
-On peut le forcer au mystère.
-
--*who_lebaron
 Adieu, Monsieur. Je vois que vos gens merveilleux,
 S'ils étaient moins connus, en vaudraient beaucoup mieux.
 
-**** *book_ *id_I09 *act_I *date_1765
+Il me fuit. Ah ! tant mieux ; je serais trop content
+S'il pouvait pour toujours éviter ma présence.
+À ma fille, surtout, il ne faut plus qu'il pense.
+En faveur d'un ami, je vais en disposer.
 
--*who_lemarquis
-L'Aimable Seigneur ! ah ! j'enrage !
-Qu'on doit être flatté de vivre en un village !
-On assure pourtant que, follement épris,
-Tu viens dans ce canton filer l'amour champêtre.
-Je ne te croyais pas aussi dupe.
+Pour relever son nom, s'il compte sur Julie,
+Il peut bien renoncer à  sa postérité :
+On pourrait à  bon droit me taxer de folie,
+Si j'acceptais pour gendre un pareil éventé.
 
--*who_dainval
-      Marquis,
-S'attacher en ces lieux, c'est éviter de l'être.
-Un objet raisonnable et des Grâces chéri
-Apporte à  son époux le bonheur de la vie.
+Ah ! Ah ! Ce procédé me paraît neuf et rare.
 
--*who_lemarquis
-Tu la prends donc un peu jolie ?
+Ne vous figurez pas que votre ton m'arrète.
 
--*who_dainval
-Elle est belle.
+      Corbleu, tout est tout vû.
 
--*who_lemarquis
-      Tant mieux.
+Je ne me suis que trop du contraire apperçu.
 
--*who_dainval
-      Comment ? Tant mieux.
+Pourquoi donc ?
 
--*who_lemarquis
-      Eh ! oui.
-Abondance de bien est l'âme du commerce.
+En voici bien d'un autre !
 
--*who_dainval
-Propos d'avantageux dont la langue s'exerce.
+      Quel est donc ce projet ?
 
--*who_lemarquis
-Tu crois aux feux constants. Je ne te savais point
-Novice encore à  pareil point.
-Badinons la tendresse,
-C'est le vrai moyen de jouir ;
-Le plaisir
-Toujours intéresse.
-On rit des époux amants :
-Toutes nos Belles
-Savent depuis long-temps
-Que l'Amour porte des ailes.
+Vous voyez.
 
--*who_dainval
-Je rends plus de justice à  ce sexe charmant.
-Du monde, en ces beaux jours, le premier ornement.
-La vertu, la douceur, forment son caractère,
-Et l'air décent pare encor sa beauté.
-La femme vertueuse, avec le don de plaire,
-Est un rayon de la Divinité.
+Approchez un instant, Julie....
+Ce soir avec Dainval vous devez être unie.
+À recevoir sa main il faut vous disposer.
 
--*who_lemarquis
-Adieu.
+Prétendez vous, au gré de votre humeur mutine,
+Me conduire ?
 
--*who_dainval
-      Quoi donc ?
+Madame la Baronne.
 
--*who_lemarquis
-      Je fuis, pour sauver ma défaite.
-Si je restais encor quelques instants,
-Tu me déciderais à  prendre une houlette.
+Je vous ordonne
+D'épouser Dainval dès ce soir.
 
--*who_dainval
-Ne crains rien ; je ne puis demeurer plus longtemps.
-La Baronne paraît. Je lui cède la place.
+Cours vite chercher la Baronne.
 
-**** *book_ *id_I10 *act_I *date_1765
+      Comment ! Morbleu.
 
--*who_labaronne
+Je vais...
+
+      Ah ! Bon.
+
+      Paix.
+
+À votre tour, parbleu.
+
+Doucement ; ce qu'il dit est assez véritable.
+
+Vous nous peignez de la belle manière.
+
+      Quoi ! Vous osez.....
+
+En termes clairs et nets ce billet-là  s'explique.
+
+Je lui conseille encor de faire le plaisant !
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+
+Eh ! mais, Monsieur, y pensez-vous ?
+
+Continuez, Monsieur ; de votre humeur bourrue
+Faites sentir les traits à  toute la maison.
+
+On voudrait embellir votre triste domaine.
+Mais vous avez si peu de goût !
+
+Osez-vous regretter deux mauvaises tourelles,
+D'une antique chaumière enseignes éternelles.
+Votre nouveau Château pourra vous faire honneur.
+Voulez-vous avoir l'air d'un campagnard stupide,
+De ses fossés bourbeux défenseur intrépide,
+Et de son pont-levis superbe admirateur ?
+
+      Et moi, je me retire.
+Je ne veux point rougir de votre air impoli.
+
 Marquis, irons-nous promener ?
 
--*who_lemarquis
-Vous obéir, pour moi c'est une grâce ;
-Et c'est à  vous, Madame, d'ordonner.
-
--*who_labaronne
 Ferons-nous quelque visite ?
 
--*who_lemarquis
-Comme il vous plaira. Mais...
-
--*who_labaronne
       Ah ! Je vous en tiens quitte.
 Nos Campagnards ne sont pas amusants.
 
--*who_lemarquis
-Pardonnez ; quelquefois ils sont assez plaisants.
-J'aime l'air affairé, les manières discrètes
-D'un conteur suranné, qui des vieilles gazettes
-Daigne dix fois par jour vous détailler les faits :
-Ou le feu d'un Chasseur qui vous dira l'histoire
-De ses lévriers, de ses bassets,
-Et vous donnera le mémoire
-De tous les exploits qu'ils ont faits.
-
--*who_labaronne
 Il est charmant !
 
--*who_lemarquis
-Surtout rien n'est plus admirable,
-Que l'air et sublime et capable
-D'un Bel-esprit l'honneur du nom provincial,
-Par quelque logogriphe arrivant à  la gloire,
-Et se croyant inscrit au Temple de Mémoire,
-Quand il est enterré dans un triste Journal.
-
--*who_labaronne
 Et les femmes, Marquis ? J'en connois d'excellentes,
 D'insipides beautés, des graces nonchalantes :
 L'éternelle Clarice aux yeux tendres et doux,
@@ -672,253 +223,127 @@ Vous riez ! Il est vrai pourtant
 Qu'à  parler mal d'autrui, j'ai très peu de penchant...
 Ah ! voici le Baron.
 
--*who_lemarquis
-      Souffrez que je vous quitte.
-Par amitié pour moi, sauvez-moi sa visite ;
-Je reviendrai bientôt en habit plus décent.
-
-**** *book_ *id_I11 *act_I *date_1765
-
--*who_lebaron
-Il me fuit. Ah ! tant mieux ; je serais trop content
-S'il pouvait pour toujours éviter ma présence.
-À ma fille, surtout, il ne faut plus qu'il pense.
-En faveur d'un ami, je vais en disposer.
-
--*who_labaronne
 Quoi ! Monsieur, dans l'instant que prêt à  l'épouser...
 
--*who_lebaron
-Pour relever son nom, s'il compte sur Julie,
-Il peut bien renoncer à  sa postérité :
-On pourrait à  bon droit me taxer de folie,
-Si j'acceptais pour gendre un pareil éventé.
-
--*who_labaronne
 Et moi, Monsieur, je vous déclare
 Que ma fille jamais n'aura que le Marquis.
 
--*who_lebaron
-Ah ! Ah ! Ce procédé me paraît neuf et rare.
-
--*who_labaronne
 Le fait sera pourtant comme je vous le dis.
 
--*who_lebaron
-Ne vous figurez pas que votre ton m'arrète.
-
--*who_labaronne
 C'est ce que nous verrons.
 
--*who_lebaron
-      Corbleu, tout est tout vû.
-
--*who_labaronne
 Vous croyez donc, Monsieur, que je n'ai pas de tète ?
 
--*who_lebaron
-Je ne me suis que trop du contraire apperçu.
-
-**** *book_ *id_I12 *act_I *date_1765
-
--*who_blaise
-Monsieur, je vians charcher mon congé tout à  ç't'heure.
-
--*who_lebaron
-Pourquoi donc ?
-
--*who_blaise
-      Y n'est pas moyen que je demeure :
-Votre Marquis me fait trop enrager.
-
--*who_labaronne
 Que dit donc ce nigaud ?
 
--*who_blaise
-      C'est bian pis qu'un parterre.
-Y va, si l'on le laisse faire,
-Ranvarser tout le potager.
-
--*who_lebaron
-En voici bien d'un autre !
-
--*who_blaise
-      Y s'est mis dans la tète
-Certain micmac auquel je n'entends rien, tout net ;
-Il vient de m'assurer qu'il faut que je m'apprête
-À travailler demain afin d'en voir l'effet.
-J'aime mieux m'en aller.
-
--*who_lebaron
-      Quel est donc ce projet ?
-
--*who_blaise
-Morgué, pour moi c'est un grimoire :
-De mon esprit j'use eu vain les ressorts.
-Je ne sais ce que j'en dois croire ;
-Il faut qu'il ait le diable au corps.
-Il prétend que je lui donne
-Des pèches dans le Printemps,
-Des cerises en Automne,
-Et des fraises en tout temps.
-J'ai beau lui faire entendre,
-Qu'il faut attendre
-La saison de chaque fruit :
-Il en rit.
-Quelque jour il mettra le jardin dans la cave.
-Le Soleil, selon son dicton,
-Pour mûrir n'est pas assez bon.
-Pour faire pousser une rave,
-Une asperge, un melon,
-Il ne lui faut que du charbon.
-Enfin tant est qu'il dit que les fruits de l'Automne
-Ne sont faits que pour un manant,
-Et que toute honnête personne
-Doit en manger six mois devant.
-
--*who_lebaron
-Vous voyez.
-
--*who_labaronne
       Oui, je vois que le travail étonne
 Un lâche, un paresseux.
 
--*who_blaise
-      Pargué, suis-je sorcier ?
-
-**** *book_ *id_I13 *act_I *date_1765
-
--*who_lebaron
-Approchez un instant, Julie....
-Ce soir avec Dainval vous devez être unie.
-À recevoir sa main il faut vous disposer.
-
--*who_labaronne
 Le Marquis est celui que mon cœur vous destine.
 Il faut vous préparer, ma fille, à l'épouser.
 
--*who_lebaron
-Prétendez vous, au gré de votre humeur mutine,
-Me conduire ?
-
--*who_labaronne
       Selon vos vœux extravagants,
 Avez-vous cru pouvoir me mener plus longtemps ?
 
--*who_lebaron
-Madame la Baronne.
-
--*who_labaronne
 Monsieur le Baron.
 
--*who_lebaronetlabaronne
-Prenez-le sur un autre ton.
-
--*who_lebaron
-Je vous ordonne
-D'épouser Dainval dès ce soir.
-
--*who_labaronne
 Je vous ordonne
 D'épouser le Marquis ce soir.
 
--*who_lebaronetlabaronne
-C'est ce qu'il faudra voir,
+      Paix donc.
+Faut-il, pour un seul mot, se cabrer de la sorte ?
 
--*who_julie
+      Écoutez donc ?
+
+Doucement ; ce qu'il dit est assez véritable.
+
+      Comment !
+
+Peut-on plus loin pousser l'audace ?
+
+      Sortez, Marton.
+
+Votre crayon ne flatte guère.
+
+Vous nommez cela son congé.
+
+Dainval, ma fille a su vous plaire.
+Avec plaisir à  l'aveu de son père,
+Pour vous voir son époux, je joins mon agrément.
+Un fat peut quelquefois nous séduire un moment ;
+Mais il n'obtient jamais un aveu légitime
+Et l'honnête homme seul a droit à notre estime.
+L'éclat est le moyen de plaire
+Dans ce siècle colifichet ;
+La raison semble roturière,
+Et devant le faste se tait :
+Un brillant, un leste équipage;
+D'un sot fait un grand personnage ;
+Rien de vrai, beaucoup de clinquant ;
+Voi-là  les hommes d'à pré-sent.
+
+Le petit Marchand, le Dimanche,
+En cabriolet se fait voir.
+A rendre la peau fine et blanche
+Le Médecin met son savoir.
+Le Vieillard donne à  des Grisettes,
+Et l'homme à  talents fait des dettes.
+Rien de vrai, beaucoup de clinquant ;
+Voilà  les hommes d'à  présent.
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
+Que craignez-vous, Dainval ?
+
+Pouvez-vous me tenir un semblable discours,
+Et dans mes yeux ne savez-vous plus lire ?
+Les dehors les plus séduisants
+Ne touchent pas toujours une âme.
+Ce n'est que pour les cœurs constants
+Que l'Amour fait briller sa flamme.
+Je ne connais point l'art trompeur
+D'abuser l'Amant que j'engage ;
+Et je laisse parler mon cœur.
+C'est mon plus cher langage.
+Bannissez tout soupçon jaloux :
+Ne suis-je pas toujours la même ?
+Pour moi, c'est un plaisir bien doux
+De vous dire que je vous aime.
+Mon bonheur serait assuré
+Si je pouvais faire le vôtre.
+Le bonheur d'un objet aimé
+Devient toujours le nôtre.
+
+      Qu'avez-vous donc, Marton ?
+
+Qui peut attirer sa colère ?
+
+Ah ! Mon père,
+Que j'ai de joie à  vous revoir !
+
 Ah ! Mon père !
 
--*who_lebaronetlabaronne
-Ne me mettez point en colère,
-Je vous en ferais repentir.
-
--*who_julie
 Ah ! Ma mère !
 
--*who_lebaronetlabaronne
-C'est à  moi qu'il faut obéir.
-
-**** *book_ *id_I14 *act_I *date_1765
-
--*who_marton
-Ah ! Voilà  pour le coup du bien en abondance.
-Deux maris au lieu d'un ! Mais rien n'est plus heureux.
-
--*who_julie
 Ah ! Ne plaisante point ; je perds toute espérance.
 
--*who_marton
-Pour les mettre d'accord, épousez-les tous deux.
-
--*who_julie
 Il n'est qu'un seul moyen pour me tirer de peine ;
 Employons-le. Va-t-en.
 
--*who_blaise
-      Ah ! Oui-dà  ! Jarniguenne,
-De nous on se méfie ! Observons-les de loin,
-Allons nous mettre dans ce coin.
-
--*who_marton
-L'Amour, à notre âge,
-N'est qu'un vrai tourment.
-C'est pourtant grand dommage,
-Car il est bien charmant.
-Sitôt quelle aime, une fillette
-A toujours lieu d'être inquiète.
-Par les désirs,
-Par les soupirs,
-La pauvre enfant achète
-Fort souvent
-Le faux espoir d'un bon moment.
-L'Amour, etc.
-
--*who_julie
 Tiens, Marton ; au Marquis tu rendras cette lettre.
 
--*who_marton
-Le voici justement.
-
--*who_julie
       Paix. Ne la montre pas.
 Mais quand il sera seul, tu la lui remettras.
 
-**** *book_ *id_I15 *act_I *date_1765
-
--*who_lemarquis
-Peut-on vous interrompre, et voulez-vous permettre
-Qu'on vous fasse sa cour ?
-
--*who_julie
       Monsieur.
 
--*who_lemarquis
-      Eh ! Quoi ! Déjà.
-Vous rougissez. Mais pourquoi donc cela ?
-Quittez ces manières bourgeoises ;
-On ne rougit que dans le tiers-état.
-Ces airs déconcertés, antiquités Gauloises,
-De deux beaux yeux éteignent tout l'éclat.
-Encor !... Depuis un mois que je vous gronde,
-Quand prendrez-vous le ton du monde ?
-
--*who_julie
 Ce monde, selon vous, est donc bien merveilleux ?
 
--*who_lemarquis
-Certainement.
-
--*who_julie
       J'en connais peu l'usage.
 Je voudrais cependant que l'on pût à  mes yeux,
 Sous des traits ressemblants en présenter l'image.
 
--*who_lemarquis
-On peut vous satisfaire. Ah ! Passe pour cela :
-J'approuve fort ce désir-là .
-Vous devenez intéressante.
-
--*who_julie
 Des Dames de Paris la vie est si charmante,
 Si l'on en juge d'après vous,
 Que je voudrais peser leur destin et le nôtre,
@@ -943,7 +368,252 @@ Que la félicité
 Est dans la vérité.
 La Nature, etc.
 
--*who_lemarquis
+De vos bontés, Monsieur, je suis reconnaissante.
+Je vous en remercie, et je sors très contente.
+Rien ne m'a paru si plaisant.
+
+Le joli Robin en épée
+Siffle la petite chanson.
+L'Abbé, droit comme une poupée,
+Chante à  son tour sur plus d'un ton.
+Tous deux s'annoncent sans mystère
+Pour les vrais héros de Cythère.
+Rien de vrai, beaucoup de clinquant,
+Voilà  les hommes d'à  présent.
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
+De ma voiture nouvelle
+Est-ce-là  le modèle ?
+Il est assez bien.
+Je veux, pour mon mariage,
+Avoir cet équipage ;
+Que l'on n'épargne rien.
+Vite, à  Paris, allez, la France ;
+Que l'on travaille en diligence,
+Et rapportez, en revenant,
+Ces Magots pour le Président.
+Vous, la Fleur, passez chez Hortense,
+Chez Cydalise, chez Constance,
+Dites-leur qu'au premier moment,
+Je les verrai certainement.
+Mais qu'on abrège les mystères :
+De ce tracas,
+Je suis, si las !
+J'ai trop d'affaires,
+Je n'y tiens pas.
+Qu'on mette les chevaux.... Lépine,
+Où donc est ce cocher, qu'on dit des plus adroits ?
+
+      Quoi ! Tu plaisantes, je crois.
+
+      Il est petit, sans mine...
+
+Ah ! passe encor. Voilà  du moins un homme.
+Je le retiens.
+
+Il est grand et bienfait. Sais-tu comme il se nomme ?
+
+      Le nom est heureux.
+Là -bas prends soin de le conduire,
+Et quand tout sera prèt, tu viendras me le dire.
+
+      Bonjour, mon cher Dainval ;
+Qui t'amène en ces lieux ?
+
+Tu connais à  Paris la Comtesse Dorgé,
+Sœur d'un certain Baron, Seigneur de ce village.
+Pour me donner sa nièce, elle a tout arrangé,
+Et j'ai, sur sa parole, entrepris le voyage ;
+Mais je n'ai pu trouver en arrivant ici,
+Que la mère et la fille avec beaucoup d'ennui,
+Le Baron, m'a-t-on dit, est un homme sauvage,
+Amateur de ses prés, de ses eaux, de ses bois,
+Et qui de son château n'est sorti qu'une fois.
+Ce doit être, je pense, un plaisant personnage !
+
+Absent depuis un mois, il arrive aujourd'hui.
+Sa femme peut passer comme on passe en province ;
+Car tout est en ces lieux d'un mérite si mince !
+
+      Je ne l'ai pas trop vue.
+
+      Que m'importent ses traits ?
+Je ne viens point adorer ma bergère,
+Et filer à  ses pieds les sentiments parfaits.
+Ma femme me sera toujours fort étrangère.
+
+Le mariage
+N'est plus un esclavage
+Dont on redoute les rigueurs.
+S'il nous offre encore une chaîne,
+Ce n'est qu'une chaîne de fleurs,
+On la brise sans peine.
+La liberté, l'âme de ce lien,
+Ôte à  présent l'épine de la rose.
+De soi-même chacun dispose,
+Et chacun s'en trouve assez bien.
+
+Il n'est pas des plus mal, je pense.
+
+      Et le chapeau ?
+
+Cet habit n'est-il pas mille fois plus galant
+Que les sombres couleurs d'une triste livrée ?
+
+      Aujourd'hui les Seigneurs,
+Pour de bonnes raisons, ont quitté les couleurs.
+
+On ne voit tout ici qu'à  travers un cristal.
+Le mépris est un mot ; l'honneur une chimère ;
+L'innocence, un beau titre auquel on ne croit guère :
+La raison, un masque emprunté
+Pour cacher la difformité :
+La vertu, le talent de vendre sa défaire :
+Le sentiment, le fard d'une vieille coquette,
+Qui de ses yeux éteints veut bien donner avis :
+Et la fidélité, terme du vieux langage,
+Un droit fort incertain, vanté par les maris ;
+Mais dont aucun encor n'a pu trouver l'usage.
+
+Ces chevaux sont si vifs qu'on craint de les toucher.
+
+      Cette erreur est divine !
+
+Tout vous surprend ici.
+
+Le plaisir.
+
+      Je viens dans le moment
+D'essayer six bidets, qui font un attelage
+À se mettre à  genoux devant.
+
+Un plaisir ! je dis plus, un devoir. A présent
+Paraître sur les Cours dans un diable élégant ;
+Tout droit, et sans appui, d'un air fier, avec grâce,
+De cent détours nouveaux tracer le court espace,
+Modérer ses chevaux, les presser faiblement,
+Animer tout-à -coup leur fougue impatiente,
+Serrer le fantassin culbuté d'épouvante,
+Dans un passage étroit courir rapidement,
+Près d'un char renversé voltiger d'un air libre,
+Et malgré les cahots soutenir l'équilibre,
+D'un jeune homme éduqué c'est le premier talent.
+
+J'ai connu longtemps, je vous jure,
+Une femme charmante, et d'un esprit divin,
+Qui pour Amant jamais ne voulut d'un Robin,
+Quoiqu'il fût très-bien de figure :
+Mais il ne savait pas conduire une voiture,
+Et surtout il tenait ses guides et son fouet
+Comme une pièce d'écriture.
+
+Je veux vous montrer un chef-d'œuvre d'élégance,
+Le plus joli diable chinois.
+
+Je le vois bien, Monsieur.
+
+Le seul homme du jour jouit de l'avantage
+De fixer tous les yeux.
+
+Dans le monde veut-on paraître un personnage :
+Il faut par les dehors subjuguer les esprits,
+Prendre un ton décisif, l'afficher sans scrupule,
+Pour se faire admirer parcourir tout Paris,
+Sur chacun en passant jeter un ridicule,
+Au Spectacle du jour arriver à  grand bruit,
+Dans chaque loge entrer, quoiqu'on n'ait rien à  dire,
+N'y rester que le temps de montrer un habit,
+Au milieu des foyers ameuter la satyre,
+Tout haut sur l'escalier confier ses secrets,
+D'un ton impatient appeler ses valets,
+Annoncer en partant quelque réduit commode,
+Où l'on voit tour à  tour les Beautés à  la mode ;
+Les jouer, les tromper toutes également,
+D'un changement heureux se réserver la gloire,
+D'un jaloux que l'on dupe éterniser l'histoire,
+Forger même au besoin un triomphe saillant ;
+Le plaisir est un Dieu que la contrainte atterre.
+À de brillants succès l'aimable homme attendu,
+Doit chercher le grand jour, doit rougir de se taire.
+Il est anéanti, perdu,
+Si dans la foule une fois confondu
+On peut le forcer au mystère.
+
+L'Aimable Seigneur ! ah ! j'enrage !
+Qu'on doit être flatté de vivre en un village !
+On assure pourtant que, follement épris,
+Tu viens dans ce canton filer l'amour champêtre.
+Je ne te croyais pas aussi dupe.
+
+Tu la prends donc un peu jolie ?
+
+      Tant mieux.
+
+      Eh ! oui.
+Abondance de bien est l'âme du commerce.
+
+Tu crois aux feux constants. Je ne te savais point
+Novice encore à  pareil point.
+Badinons la tendresse,
+C'est le vrai moyen de jouir ;
+Le plaisir
+Toujours intéresse.
+On rit des époux amants :
+Toutes nos Belles
+Savent depuis long-temps
+Que l'Amour porte des ailes.
+
+Adieu.
+
+      Je fuis, pour sauver ma défaite.
+Si je restais encor quelques instants,
+Tu me déciderais à  prendre une houlette.
+
+Vous obéir, pour moi c'est une grâce ;
+Et c'est à  vous, Madame, d'ordonner.
+
+Comme il vous plaira. Mais...
+
+Pardonnez ; quelquefois ils sont assez plaisants.
+J'aime l'air affairé, les manières discrètes
+D'un conteur suranné, qui des vieilles gazettes
+Daigne dix fois par jour vous détailler les faits :
+Ou le feu d'un Chasseur qui vous dira l'histoire
+De ses lévriers, de ses bassets,
+Et vous donnera le mémoire
+De tous les exploits qu'ils ont faits.
+
+Surtout rien n'est plus admirable,
+Que l'air et sublime et capable
+D'un Bel-esprit l'honneur du nom provincial,
+Par quelque logogriphe arrivant à  la gloire,
+Et se croyant inscrit au Temple de Mémoire,
+Quand il est enterré dans un triste Journal.
+
+      Souffrez que je vous quitte.
+Par amitié pour moi, sauvez-moi sa visite ;
+Je reviendrai bientôt en habit plus décent.
+
+Peut-on vous interrompre, et voulez-vous permettre
+Qu'on vous fasse sa cour ?
+
+      Eh ! Quoi ! Déjà.
+Vous rougissez. Mais pourquoi donc cela ?
+Quittez ces manières bourgeoises ;
+On ne rougit que dans le tiers-état.
+Ces airs déconcertés, antiquités Gauloises,
+De deux beaux yeux éteignent tout l'éclat.
+Encor !... Depuis un mois que je vous gronde,
+Quand prendrez-vous le ton du monde ?
+
+Certainement.
+
+On peut vous satisfaire. Ah ! Passe pour cela :
+J'approuve fort ce désir-là .
+Vous devenez intéressante.
+
 Cette vie uniforme, entre nous, est peu faite
 Pour fixer les désirs ; mais daignez un instant
 M'écouter, et bientôt une leçon complète
@@ -981,192 +651,180 @@ Raille, poursuit, lutine, excède ;
 Chacun fuit en l'admirant.
 Est-il un plaisir plus charmant ?
 
--*who_julie
-De vos bontés, Monsieur, je suis reconnaissante.
-Je vous en remercie, et je sors très contente.
-Rien ne m'a paru si plaisant.
-
-**** *book_ *id_I16 *act_I *date_1765
-
--*who_marton
-Que dites-vous de son air d'innocence ?
-
--*who_lemarquis
 C'est un enfant.
 
--*who_marton
-      Voici ce que cet enfant-là 
-M'a donné pour vous rendre.
-
--*who_blaise
-      Ils sont d'intelligence.
-J'ons bian fait d'acouter.
-
--*who_lemarquis
       Elle se formera.
 
--*who_blaise
-Appelons notre maître ; il n'est pas loin, je pense.
-
--*who_lemarquis
 Voyons ce que dit le Billet.
 La Nature, Monsieur, vous forma très aimable.
 Ah !
 
--*who_marton
-      Vous n'achevez pas.
-
--*who_lemarquis
       Bon ! Bon ! Je suis au fait.
 
--*who_marton
-Vous en avez tant vu !... Il serait raisonnable...
-
--*who_lemarquis
 Je ne finirais pas, si je les lisais tous.
 
-**** *book_ *id_I17 *act_I *date_1765
-
--*who_lemarquis
 Parlons de toi. Sais-tu que ta beauté m'étonne ?
 
--*who_blaise
-Eh bien ! Morgué, qu'en dites-vous ?
-
--*who_lebaron
-Cours vite chercher la Baronne.
-
--*who_blaise
-Je l'aperçois.
-
--*who_lemarquis
       Il faudra qu'avec nous
 Tu viennes à  Paris. Je te trouve jolie :
 Je t'y ferai bientôt le destin le plus doux.
 
--*who_marton
-Au moment d'épouser Julie,
-Pouvez-vous me tenir un semblable discours ?
-
--*who_lemarquis
 Va, va ; l'Hymen n'est plus l'ennemi des Amours.
 Mais laissons-là  ce badinage :
 Est-ce donc avec un Seigneur
 De ma figure et de mon âge,
 Que l'on doit avoir de l'humeur ?
 
-**** *book_ *id_I18 *act_I *date_1765
-
--*who_marton
-Votre façon d'aimer est tout-à-fait commode ;
-Mais croyez-vous, Monsieur, qu'en suivant cette mode,
-Vous plairez à  Julie ainsi qu'à ses parents ?
-
--*who_lemarquis
 De plaire à son épouse on a toujours le temps.
 Quant au Baron, que m'importe ?
 Un franc Provincial.
 
--*who_lebaron
-      Comment ! Morbleu.
-
--*who_labaronne
-      Paix donc.
-Faut-il, pour un seul mot, se cabrer de la sorte ?
-
--*who_lemarquis
 Un campagnard épris de son petit canton,
 Ayant pour ses lapins une estime profonde,
 Et surtout admirant, d'un air toujours surpris,
 Le goût de son Château bâti sous Charles-VI.
 
--*who_lebaron
-Je vais...
-
--*who_labaronne
-      Écoutez donc ?
-
--*who_lemarquis
       Sans usage du monde,
 Tout fier de sa récolte et par-tout étranger
 Hors de sa ferme et de son potager.
 
--*who_labaronne
-Doucement ; ce qu'il dit est assez véritable.
-
--*who_lemarquis
 Pour sa chère moitié, qui veut faire l'aimable,
 C'est une folle.
 
--*who_lebaron
-      Ah ! Bon.
-
--*who_labaronne
-      Comment !
-
--*who_lebaron
-      Paix.
-
--*who_lemarquis
       D'un souris
 La Belle quelquefois veut flatter ses amis ;
 Mais par malheur se trompe, et fait une grimace.
 
--*who_labaronne
-Peut-on plus loin pousser l'audace ?
-
--*who_lebaron
-À votre tour, parbleu.
-
--*who_lemarquis
       Qui, d'un coup de pinceau,
 Pense sur ses voisins jeter un ridicule,
 Et ne s'aperçoit pas, tant la Dame est crédule,
 Qu'elle-même devient le sujet du tableau.
 
--*who_lebaron
-Doucement ; ce qu'il dit est assez véritable.
-
--*who_lemarquis
 Oh ! c'est un couple admirable !
 L'un est un bavard éternel ;
 L'autre, un esprit tortu.
 
--*who_labaronne
-      Sortez, Marton.
-
--*who_marton
-      Ah ! Ciel !
-
--*who_lemarquis
 Ah ! Ah ! Ah ! Ah !
 
--*who_lebaron
-Vous nous peignez de la belle manière.
-
--*who_lemarquis
 Ah ! ah ! quoi ! vous étiez donc là  ?
 Rien n'est si plaisant que cela.
 
--*who_labaronne
-Votre crayon ne flatte guère.
-
--*who_blaise
-Ah ! Vous n'aurez pas de chalands ;
-Vos portraits sont trop ressemblants.
-
--*who_lemarquis
 Ah ! L'aventure est singulière !
 
--*who_lebaron,labaronne,blaise
-Je pense encor qu'il en rira !
-
--*who_lemarquis
 Rien n'est plaisant que cela.
 
-**** *book_ *id_I19 *act_I *date_1765
+Tu deviens mon rival. Le trait est excellent !
 
--*who_dainval
+      Bon ! Pure plaisanterie !
+
+Tant pis, et je te plains.
+
+      Sans contredit.
+Prends ton parti, crois-moi ; quelque espoir qui te flatte.
+Tiens, lis, je te remets ton congé par écrit.
+
+      Eh ! Mais oui.
+
+Lis donc ?
+
+      Sois raisonnable.
+
+Voilà , sur ma parole, un tour charmant, unique !
+Tu me connais altéré J'ai tant vu de ces traits !
+Par humeur on écrit ce qu'on dément après.
+Sans adieu, belle Dame. Au premier jour j'espere
+Recevoir de vos mains un billet plus sincère.
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dainval
+
+Ah ! Voici le Marquis. On le dit mon rival.
+Sachons s'il est aimé.
+
+      J'y suis pour quelque affaire ;
+Mais toi, Marquis, qu'y viens-tu faire ?
+
+C'est un homme sensé, qui ne vit que chez lui.
+
+Et la fille ? Elle est belle. Épris de ses attraits,
+Sans doute en arrivant, dès la première vue,
+Tu fixas tes désirs.
+
+Et tu vas l'épouser ?
+
+Se marier ainsi, c'est assez l'ordinaire.
+Sans trop examiner, l'époux, comme un joueur,
+Des effets du hasard attend tout son bonheur.
+
+Ah ! Ah ! Quelle magnificence !
+L'habit de tes valets est tout-à-fait brillant.
+
+Très bien.
+
+      Tout en est élégant.
+
+Peut-être est-il moins noble.
+
+La Province bientôt, par tes soins éclairée,
+Va prendre tout un autre ton ;
+Mème on dit que tu veux, sensible aux ridicules,
+Sur l'honneur, la vertu, le mépris, la raison,
+De nos Provinciaux dissiper les scrupules,
+Et de tout préjugé l'aveuglement fatal.
+
+Quel fat ! Voilà  pourtant nos hommes du bel air.
+Avec ce persiflage on se fait adorer.
+
+Ah ! Vous voilà , belle Julie !
+Rassurez un coeur incertain.
+
+      Excusez, mais enfin
+Il y va du bien de ma vie.
+Le Marquis vous voit tous les jours,
+Peut-être est-il fait pour séduire.
+
+Est-il de retour ?
+
+Baron, calmez votre colère.
+
+Vous vous trompez, Baron.
+
+      Voilà  le Marquis.
+
+      Oui, vraiment.
+
+      Ce Monsieur, c'est Lépine,
+Un Valet.
+
+Non. C'est le sien.
+
+      C'est le goût d'à  présent.
+
+La raison lutte en vain, la mode est la plus forte.
+
+      Marquis,
+S'attacher en ces lieux, c'est éviter de l'être.
+Un objet raisonnable et des Grâces chéri
+Apporte à  son époux le bonheur de la vie.
+
+Elle est belle.
+
+      Comment ? Tant mieux.
+
+Propos d'avantageux dont la langue s'exerce.
+
+Je rends plus de justice à  ce sexe charmant.
+Du monde, en ces beaux jours, le premier ornement.
+La vertu, la douceur, forment son caractère,
+Et l'air décent pare encor sa beauté.
+La femme vertueuse, avec le don de plaire,
+Est un rayon de la Divinité.
+
+      Quoi donc ?
+
+Ne crains rien ; je ne puis demeurer plus longtemps.
+La Baronne paraît. Je lui cède la place.
+
 Laissez-moi lui parler. Il faut qu'on se décide.
 Vous m'arrêtez en vain et rien ne m'intimide.
 Baron, vous connaissez les désirs de mon cœur ;
@@ -1175,61 +833,27 @@ Mais toute incertitude est pour moi trop pesante ;
 Je n'en puis soutenir l'amertume accablante.
 Du Marquis ou de moi, choisissez à l'instant.
 
--*who_lemarquis
-Tu deviens mon rival. Le trait est excellent !
-
--*who_dainval
 J'ai cette audace.
 
--*who_lemarquis
-      Bon ! Pure plaisanterie !
-
--*who_dainval
 Non. J'aime et c'est pour la vie.
 
--*who_lemarquis
-Tant pis, et je te plains.
-
--*who_dainval
       Comment ?
 
--*who_lemarquis
-      Sans contredit.
-Prends ton parti, crois-moi ; quelque espoir qui te flatte.
-Tiens, lis, je te remets ton congé par écrit.
-
--*who_dainval
 Ah ! Ciel ! Qui l'aurait cru ?
 
--*who_lebaron
-      Quoi ! Vous osez.....
-
--*who_dainval
       Ingrate !
 Lisons : je veux assurer mon dépit.
 La Nature, Monsieur, vous forma très aimable.
 Très aimable !
 
--*who_lemarquis
-      Eh ! Mais oui.
-
--*who_dainval
       Ce style est admirable !
 Embellissez Paris, qui sans vous plairait moins.
 Fort bien.
       Continuez à  lui donner vos soins.
 De mieux en mieux.
 
--*who_lemarquis
-Lis donc ?
-
--*who_dainval
       Oui, oui.
 
--*who_lemarquis
-      Sois raisonnable.
-
--*who_dainval
 Continuez à  lui donner vos soins ;
 Mais de les partager je me sens incapable.
 Par des nœuds plus chers à  mon cœur
@@ -1238,59 +862,154 @@ Et je vous devrai mon bonheur,
 Si de vous je suis oubliée.
 Ah ! Julie ! Ah ! Marquis, je te suis obligé.
 
--*who_labaronne
-Vous nommez cela son congé.
 
--*who_lebaron
-En termes clairs et nets ce billet-là  s'explique.
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
--*who_lemarquis
-Voilà , sur ma parole, un tour charmant, unique !
-Tu me connais altéré J'ai tant vu de ces traits !
-Par humeur on écrit ce qu'on dément après.
-Sans adieu, belle Dame. Au premier jour j'espere
-Recevoir de vos mains un billet plus sincère.
+Ah, ah.
 
--*who_lebaron
-Je lui conseille encor de faire le plaisant !
+Pardonnez ; mais je ris de Monsieur le Baron.
+Les grands airs à  la mode ont peu l'art de lui plaire.
 
--*who_labaronne
-Dainval, ma fille a su vous plaire.
-Avec plaisir à  l'aveu de son père,
-Pour vous voir son époux, je joins mon agrément.
-Un fat peut quelquefois nous séduire un moment ;
-Mais il n'obtient jamais un aveu légitime
-Et l'honnête homme seul a droit à notre estime.
-L'éclat est le moyen de plaire
-Dans ce siècle colifichet ;
-La raison semble roturière,
-Et devant le faste se tait :
-Un brillant, un leste équipage;
-D'un sot fait un grand personnage ;
-Rien de vrai, beaucoup de clinquant ;
-Voi-là  les hommes d'à pré-sent.
+      Oui, vraiment.
+À faire grand tapage il s'occupe à  présent.
 
--*who_labaronne
-Le petit Marchand, le Dimanche,
-En cabriolet se fait voir.
-A rendre la peau fine et blanche
-Le Médecin met son savoir.
-Le Vieillard donne à  des Grisettes,
-Et l'homme à  talents fait des dettes.
-Rien de vrai, beaucoup de clinquant ;
-Voilà  les hommes d'à  présent.
+Vous savez qu'il est surprenant
+À quel point la Baronne au Marquis s'intéresse :
+Ce qu'il dit, ce qu'il fait, tout lui paraît charmant.
+Monsieur n'a point la même politesse.
+Madame, à  certains changements
+Que le Marquis nommait des embellissements,
+S'est prêtée avec complaisance.
+Monsieur a peu goûté toute cette élégance,
+Et d'abord en entrant s'est mis fort en courroux.
 
--*who_julie
-Le joli Robin en épée
-Siffle la petite chanson.
-L'Abbé, droit comme une poupée,
-Chante à  son tour sur plus d'un ton.
-Tous deux s'annoncent sans mystère
-Pour les vrais héros de Cythère.
-Rien de vrai, beaucoup de clinquant,
-Voilà  les hommes d'à  présent.
+Ah ! Voilà  pour le coup du bien en abondance.
+Deux maris au lieu d'un ! Mais rien n'est plus heureux.
 
--*who_blaise
+Pour les mettre d'accord, épousez-les tous deux.
+
+L'Amour, à notre âge,
+N'est qu'un vrai tourment.
+C'est pourtant grand dommage,
+Car il est bien charmant.
+Sitôt quelle aime, une fillette
+A toujours lieu d'être inquiète.
+Par les désirs,
+Par les soupirs,
+La pauvre enfant achète
+Fort souvent
+Le faux espoir d'un bon moment.
+L'Amour, etc.
+
+Le voici justement.
+
+Que dites-vous de son air d'innocence ?
+
+      Voici ce que cet enfant-là 
+M'a donné pour vous rendre.
+
+      Vous n'achevez pas.
+
+Vous en avez tant vu !... Il serait raisonnable...
+
+Au moment d'épouser Julie,
+Pouvez-vous me tenir un semblable discours ?
+
+Votre façon d'aimer est tout-à-fait commode ;
+Mais croyez-vous, Monsieur, qu'en suivant cette mode,
+Vous plairez à  Julie ainsi qu'à ses parents ?
+
+      Ah ! Ciel !
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+
+Le voici, Monsieur.
+
+C'est un très bon cocher.
+
+Peut-être celui ci vous conviendra-t-il mieux ?
+
+      Il n'est pas trop fameux.
+
+Brillant.
+
+Monsieur, votre voiture est prête, on vous attend.
+
+Ah ! Monsieur.
+
+Ah !
+
+      Ah ! Monsieur.
+
+
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
+Morgué, je n'y pouvais que faire.
+
+      C'était bien malgré moi, Monsieur.
+Nous avions là  des choux d'une si bonne meine !
+Quand je les arrachais, ça me fendait le cœur.
+
+      Il suffit ; laissez faire,
+Je vous rendrai de tout un compte fort sincère.
+
+Monsieur, je vians charcher mon congé tout à  ç't'heure.
+
+      Y n'est pas moyen que je demeure :
+Votre Marquis me fait trop enrager.
+
+      C'est bian pis qu'un parterre.
+Y va, si l'on le laisse faire,
+Ranvarser tout le potager.
+
+      Y s'est mis dans la tète
+Certain micmac auquel je n'entends rien, tout net ;
+Il vient de m'assurer qu'il faut que je m'apprête
+À travailler demain afin d'en voir l'effet.
+J'aime mieux m'en aller.
+
+Morgué, pour moi c'est un grimoire :
+De mon esprit j'use eu vain les ressorts.
+Je ne sais ce que j'en dois croire ;
+Il faut qu'il ait le diable au corps.
+Il prétend que je lui donne
+Des pèches dans le Printemps,
+Des cerises en Automne,
+Et des fraises en tout temps.
+J'ai beau lui faire entendre,
+Qu'il faut attendre
+La saison de chaque fruit :
+Il en rit.
+Quelque jour il mettra le jardin dans la cave.
+Le Soleil, selon son dicton,
+Pour mûrir n'est pas assez bon.
+Pour faire pousser une rave,
+Une asperge, un melon,
+Il ne lui faut que du charbon.
+Enfin tant est qu'il dit que les fruits de l'Automne
+Ne sont faits que pour un manant,
+Et que toute honnête personne
+Doit en manger six mois devant.
+
+      Pargué, suis-je sorcier ?
+
+      Ah ! Oui-dà  ! Jarniguenne,
+De nous on se méfie ! Observons-les de loin,
+Allons nous mettre dans ce coin.
+
+      Ils sont d'intelligence.
+J'ons bian fait d'acouter.
+
+Appelons notre maître ; il n'est pas loin, je pense.
+
+Eh bien ! Morgué, qu'en dites-vous ?
+
+Je l'aperçois.
+
+Ah ! Vous n'aurez pas de chalands ;
+Vos portraits sont trop ressemblants.
+
 L'Avocat Babille babille ;
 L'homme de cour promet beaucoup ;
 Sans cesse le Savant compile :
@@ -1299,3 +1018,4 @@ Par le crédit brille un Notaire ;
 Un Juge par son sécretaire.
 Rien de vrai, beaucoup de clinquant :
 Voilà  les hommes d'à  présent.
+

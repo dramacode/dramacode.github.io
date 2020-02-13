@@ -1,112 +1,33 @@
 
 
-**** *book_ *id_I01 *act_I *date_v.15
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jenin
 
--*who_lafemme
-Or est-il mort, hélas ! Hélas !
-Jenin Landore, mon mari,
-Mon espoir, mon bien, mon soulas.
-Or est-il mort, hélas ! hélas !
-Quand m'en souvient, je perds ébats,
-Et ai le coeur triste et marri.
-Or est-il mort, hélas ! Hélas !
-Jenin Landore, mon mari.
-
--*who_lecure
-Quand il était enseveli
-Il demandait au clerc à boire.
-
--*who_leclerc
-Toutefois (il) est mort.
-
--*who_lafemme
-      Hélas ! voire.
-
--*who_lecure
-Il mourut de soif.
-
--*who_lafemme
-      Se fit mon.
-
--*who_lecure
-Se était un bon biberon
-En son voire ne laissait rien.
-
--*who_leclerc
-De cela vous ressemblait bien
-(Car) volontiers vins allait tâtant.
-
--*who_lafemme
-Fallait-il, puisque l'aimais tant,
-Que mort le vint ainsi abattre ?
-
--*who_lecure
-Il était assez bon folâtre,
-Et se marchait de bon pied.
-
--*who_jenin
 Bona dies, bona journus.
 A déchiffré par le menu,
 C'est-à-dire en latin Dieu gard.
 Retirez-vous à part, à part,
 J'en viens, j'en viens, je y ai été.
 
--*who_lafemme
-Qu'est-ce ici ? Benedicite,
-Notre-Dame de Réconfort !
-
--*who_jenin
 C'est votre mari.
 
--*who_lafemme
-      Il est mort.
-Jamais ne fus si ébahie.
-
--*who_jenin
 Je suis mort et je suis en vie,
 Tout aussi vrai que je le dis.
 
--*who_lafemme
-D'où venez-vous ?
-
--*who_jenin
       De Paradis.
 Qu'est-ce ici ? C'est trop caqueté
 Mon suaire en ai apporté,
 Et suis passé par purgatoire.
 
--*who_lafemme
-Vous n'êtes point Jenin Landore ;
-Ne sais que faire ici venez.
-
--*who_jenin
 Si suis-je Jenin par le nez
 Et Landore par le menton.
 
--*who_lecure
-C'est lui sans autre.
-
--*who_jenin
       Se suis mon.
 
--*who_lafemme
-Si ne veux-je pas qu'il me touche.
-
--*who_jenin
 Si je voulais ouvrir la bouche,
 Je vous dirais bien des nouvelles.
 
--*who_lafemme
-Et je vous prie, dites-nous quelles
-Ici rien celer ne vous faut.
-
--*who_jenin
 J'ai vu faire un terrible assaut.
 
--*who_lecure
-Y a-il eu quelque meschef ?
-
--*who_jenin
 J'ai vu Saint Pierre atout sa clef
 Et Saint Paul atout son épée,
 Qui avait la tête coupée
@@ -122,19 +43,9 @@ Ainsi frapper, il est notoire
 Qu'à Saint François donna victoire
 Mais je m'en vins de pour des coups.
 
--*who_lecure
-Jenin Landore, dites-nous,
-Que faisait alors Saint George ?
-
--*who_jenin
 Il n'était point en bonne forge,
 Car il craignait fort l'intérêt.
 
--*who_lecure
-Ainsi, comme il nous apparaît,
-Il y eut terrible bataille.
-
--*who_jenin
 Il faut clorr la muraille
 De Paradis soudainement.
 Autour a été sûrement
@@ -146,12 +57,6 @@ Dieu leur fit, plutôt que plus tard,
 À chacun (un) paradis à part
 Car de longtemps haïent l'un l'autre.
 
--*who_leclerc
-Tout beau, il y a de la faute
-C'est donc un paradis nouveau
-Fait et construit nouvellement.
-
--*who_jenin
 Or c'est mon, par mon serment.
 Mais, ainsi qu'on s'entrebattait
 Saint Laurent, qui s'ébattait
@@ -160,33 +65,15 @@ Tout ainsi qu'on fait les saucisses
 À une taverne en hiver.
 Garde n'avais de m'y trouver.
 
--*who_lecure
-Raison ?
-
--*who_jenin
       Je crains trop coups de piques.
 
--*who_lafemme
-Dites nous, sans plus de répliques,
-Que c'est de paradis.
-
--*who_jenin
 Je vous promets que ce n'est pas
 Ainsi comme le temps passé.
 
--*who_leclerc
-C'est bien dit, massé ?
-La raison ?
-
--*who_jenin
       Il n'y a rien qui change.
 Sous les pieds de Saint Michel l'ange
 A une femme en lieu d'un diable.
 
--*who_lecure
-Cela n'est pas bien convenable.
-
--*who_jenin
 Si est-il ainsi, demi dieux
 Il y a Saint Benoît le vieux.
 Qui tient bien la loi ancienne
@@ -195,58 +82,26 @@ De l'Eglise ne prend plus soin ;
 Il porte l'oiseau sur le poing
 Et tranche du bragard.
 
--*who_lecure
-      En somme,
-Jenin Landore en parle bien.
-
--*who_jenin
 J'en puis parler quand j'en viens
 Tout aussi droit qu'une faucille.
 Se j'eusse été bien habile,
 Je ne serais pas retourné.
 
--*who_lafemme
-Avez-vous longtemps séjourné
-En Paradis ?
-
--*who_jenin
       Certes, mamie.
 Je vous promets qu'i n'y ennuye,
 Non plus que quand on est à table.
 
--*who_lecure
-Je crois bien qu'il est véritable
-Et qu'on n'y endure nul mal.
-
--*who_jenin
 Saint Christophe y va à cheval.
 
--*who_leclerc
-Saint Martin, qu'est-ce que de lui ?
-
--*who_jenin
 Il va à pied pour le jourd'hui.
 
--*who_lafemme
-Dites, qu'y faisaient les apôtres ?
-
--*who_jenin
 Ils disent tous leurs patenôtres.
 
--*who_lecure
-En Paradis fait-on excès ?
-
--*who_jenin
 Il n'y a ne plaid ne procès,
 Guerre, envie, ne débat ;
 Car il n'y a qu'un avocat,
 Par quoi il n'y faut nuls plaideurs.
 
--*who_leclerc
-Combien y a-il de procureurs ?
-Dites-nous s'il y en a point ?
-
--*who_jenin
 Ma foi, je n'en mentirai point.
 Je le dirai devant chacun,
 Je n'y en ai vu pas un
@@ -256,86 +111,36 @@ Mais, quand vint à entrer au lieu,
 Il rompit tant la tête à Dieu
 Qu'on le chassa hors de léans.
 
--*who_leclerc
-Çà, Jenin, quant est de sergents,
-Paradis en est bien pourvu ?
-
--*who_jenin
 Corbieu, je n'y en ai point vu.
 
--*who_lecure
-Tout fait, tout dit et tout comprit,
-Quelque chose y avez-vous apprit ?
-
--*who_jenin
 Say mon dea.
 
--*who_lecure
-      Or nous l'apprenez.
-
--*who_jenin
 J'ai appris, si le retenez
 Mais faites silence.
 
--*who_leclerc
-Quoi ?
-
--*who_jenin
       Une science.
 
--*who_lafemme
-Quelle ? Ne la veuillez celer.
-
--*who_jenin
 Garder les femmes de parler,
 Quand je veux.
 
--*who_lecure
-      C'est une grand chose.
-Par l'âme qui en moi repose,
-Je verrais volontiers l'usage.
-
--*who_jenin
 Voire.
 
--*who_lafemme
-      Et comment, Jenin ?
-
--*who_jenin
 Baillez-leur à boire.
 Car je croi, tandis qu'ils bevront,
 Que alors point ils ne parleront ;
 Il est tout vrai, la chose est telle.
 
--*who_leclerc
-Quelle autre science nouvelle
-Savez-vous Jenin ?
-
--*who_jenin
       J'en sais bien une :
 Je dis bien la bonne aventure
 Des gens, si tôt que vois leurs mains.
 
--*who_leclerc
-Est-il vrai ?
-
--*who_jenin
       Tout ne plus ne moins.
 Voire, par Saint Pierre l'apôtre,
 Curate, montrez-moi la vôtre
 Hardiment.
 
--*who_lecure
-      Tenez, beau sire.
-
--*who_jenin
 Je vois ce que je n'ose dire.
 
--*who_lecure
-Je vous avoue que l'on propose
-Tout ce qu'on voudra proposer.
-
--*who_jenin
 Pour la vérité exposer,
 Vous êtes ivre et gourmand,
 Par quoi vous vivrez longuement.
@@ -343,74 +148,34 @@ Et si aimez le féminin
 Et appétez boire bon vin.
 Ailleurs ne vous voulez ébattre.
 
--*who_lecure
-Dieu met en mal an le folâtre.
-
--*who_jenin
 Tibi soli.
 
--*who_lafemme
-      Et dea, Jenin,
-Qu'est-ce ci ? Vous parlez latin ?
-Je ne puis entendre vos dits.
-
--*who_jenin
 C'est du latin de paradis,
 Qui m'avait enflé tout le corps.
 Se ne l'eusse bouté dehors,
 Crevé fusse pour tout certain..
 
--*who_leclerc
-Sa, sa, regardez ma main.
-
--*who_jenin
 Que tu es une bonne bête.
 
--*who_leclerc
-Dea, Jenin, vous hochez la teste.
-
--*who_jenin
 C'est pour le sang de ma cervelle,
 Qui dedans ma tête se mêle
 Car mon engin est trop subtil.
 
--*who_leclerc
-Sus, que suis-je ?
-
--*who_jenin
       Poisson d'avril.
 
--*who_leclerc
-Poisson d'avril ?
-
--*who_jenin
       Voilà le cas.
 
--*who_leclerc
-Et voire, mais je n'entends
-Que c'est pas à dire.
-
--*who_jenin
       Voici rage
 Quand on met une pie en cage,
 Que lui aprend-on de nouveau
 À dire ? Parle.
 
--*who_leclerc
-      Maquereau.
-
--*who_jenin
 Clerice, tu es tout gentil.
 Maquereau c'est poisson d'avril
 Ainsi es-tu, je te le jure
 La fin de ta bonne aventure,
 C'est que tu aimes ton repos.
 
--*who_lafemme
-Or ça mon ami, quels propos
-Direz-vous de moi.
-
--*who_jenin
       Par ma foi,
 Je ne veux rien savoir, ma femme,
 De peur de trouver quelque blâme.
@@ -419,36 +184,15 @@ Peut-être que je trouverais,
 Quelque cas qui me déplairait.
 Et puis.
 
--*who_lafemme
-      (Et puis) quoi ?
-
--*who_jenin
       Jenin se tairait.
 
--*who_lafemme
-Et auriez-vous bien le courage ?
-
--*who_jenin
 Ma foi, ma femme, un homme sage
 Ne s'enquiert jamais de sa femme,
 Que le moins qu'il peut.
 
--*who_lecure
-      C'est la gamme.
-Cela évite maints courroux.
-
--*who_lafemme
-Jenin, quel(le) science avez-vous
-Encores appris en Paradis ?
-
--*who_jenin
 Se vous n'êtes tous bien hardis,
 Belle pour vous ferai tantôt.
 
--*who_leclerc
-Et comment ?
-
--*who_jenin
       Or, ne dictes,
 Et mot, vous verrez chose terrible
 Car je me ferai invisible
@@ -456,46 +200,130 @@ Quand je veux plus n'en faut enquerre.
 Voici les rets de quoi Saint Pierre
 Et Saint André pêchent tous deux.
 
--*who_leclerc
-Je vous en crois bien, par mes dieux ;
-Vous savez procurer votre cas
-
--*who_jenin
 Ma foi, vous ne me voyez pas.
 
--*who_leclerc
-Mais dis-nous, où est-ce que tu vas ?
-
--*who_jenin
 Le corps bieu, vous n'en saurez rien.
 Or sus, vous ne me voyez pas
 Maintenant, et je vous vois bien.
 
--*who_lafemme
-Dea, Jenin Landore, combien
-Serez-vous bien en cette mode ?
-
--*who_jenin
 Autant que fut le roi Hérode
 À décoller les innocents.
 Ennuis verrez que par mon sens,
 Aurai bruit entre les hardis.
 
--*who_lecure
-Gens qui viennent de paradis
-Sans faute sont tous invisibles.
-
--*who_lafemme
-On ne voit point, sans contredis,
-Ceux qui viennent de paradis.
-
--*who_jenin
 Bonjour, bonsoir, adieu vous dis.
 
--*who_leclerc
-Jenin fait choses impossibles.
-
--*who_jenin
 Je ferais des choses terribles
 Se j'étais un peu reposé.
 Adieu vous dis. Je prends congé.
+
+
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecure
+
+Quand il était enseveli
+Il demandait au clerc à boire.
+
+Il mourut de soif.
+
+Se était un bon biberon
+En son voire ne laissait rien.
+
+Il était assez bon folâtre,
+Et se marchait de bon pied.
+
+C'est lui sans autre.
+
+Y a-il eu quelque meschef ?
+
+Jenin Landore, dites-nous,
+Que faisait alors Saint George ?
+
+Ainsi, comme il nous apparaît,
+Il y eut terrible bataille.
+
+Raison ?
+
+Cela n'est pas bien convenable.
+
+      En somme,
+Jenin Landore en parle bien.
+
+Je crois bien qu'il est véritable
+Et qu'on n'y endure nul mal.
+
+En Paradis fait-on excès ?
+
+Tout fait, tout dit et tout comprit,
+Quelque chose y avez-vous apprit ?
+
+      Or nous l'apprenez.
+
+      C'est une grand chose.
+Par l'âme qui en moi repose,
+Je verrais volontiers l'usage.
+
+      Tenez, beau sire.
+
+Je vous avoue que l'on propose
+Tout ce qu'on voudra proposer.
+
+Dieu met en mal an le folâtre.
+
+      C'est la gamme.
+Cela évite maints courroux.
+
+Gens qui viennent de paradis
+Sans faute sont tous invisibles.
+
+
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leclerc
+
+Toutefois (il) est mort.
+
+De cela vous ressemblait bien
+(Car) volontiers vins allait tâtant.
+
+Tout beau, il y a de la faute
+C'est donc un paradis nouveau
+Fait et construit nouvellement.
+
+C'est bien dit, massé ?
+La raison ?
+
+Saint Martin, qu'est-ce que de lui ?
+
+Combien y a-il de procureurs ?
+Dites-nous s'il y en a point ?
+
+Çà, Jenin, quant est de sergents,
+Paradis en est bien pourvu ?
+
+Quoi ?
+
+Quelle autre science nouvelle
+Savez-vous Jenin ?
+
+Est-il vrai ?
+
+Sa, sa, regardez ma main.
+
+Dea, Jenin, vous hochez la teste.
+
+Sus, que suis-je ?
+
+Poisson d'avril ?
+
+Et voire, mais je n'entends
+Que c'est pas à dire.
+
+      Maquereau.
+
+Et comment ?
+
+Je vous en crois bien, par mes dieux ;
+Vous savez procurer votre cas
+
+Mais dis-nous, où est-ce que tu vas ?
+
+Jenin fait choses impossibles.
+

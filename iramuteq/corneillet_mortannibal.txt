@@ -1,48 +1,7 @@
 
 
-**** *book_ *id_epitre *date_1669 *creator_corneille
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_prusias
 
-EPISTRE
-
-A Monseigneur le Marquis de Seignelay, Secretaire d'Estat.
-
-Monseigneur,
-
-Quelque ardeur que j'aye depuis long-temps de vous donner des marques publiques de l'empressement de mon Zele, je ne prendrois pas la liberté de vous presenter cet Ouvrage, si je n'esperois que la dignité de la matiere supléera auprés de vous à ce que la foiblesse de mon genie luy a dérobé d'ornements.
-Je sçay que vous le trouverez dénué de ces passions tumultueuses qui ébloüissent aujourd'huy la pluspart de nos Auditeurs, et qu'il sera difficile qu'il soit au goust de ceux qui n'aimant que les delicates expressions de l'amour, pretendent que l'action languit dés que la politique ou le raisonnement y ont quelque part ; mais, MONSEIGNEUR, vous avez des lumieres trop penetrantes pour ne pas voir ce que demande la justesse des caracteres, et si les Scenes de tendresse ont leurs graces pour vous quand le vray-semblable s'y rencontre, vous n'approuveriez point sans doute qu'on s'amusast à dire des douceurs dans un temps qui devroit estre employé à de plus pressants interests.
-Ainsi, MONSEIGNEUR, je vous offre Annibal avec d'autant plus de confiance que je sçay que vous n'y chercherez qu'Annibal, je veux dire cette inébranlable fermeté de haine pour les Ennemis de sa Patrie, qui nous le fait regarder comme un des plus grands Hommes de l'Antiquité.
-Ce n'est pas que je sois assez vain pour croire que les Episodes que j'y ay meslez soient tellement purgez de defauts, que vous n'y trouviez beaucoup de choses à condamner ; Mais, MONSEIGNEUR, j'espere tout de vostre indulgence, et ce ne sera pas le premier témoignage de bonté qu'il vous aura plû de me donner.
-Les justes remarques que vous avez faites sur ce que j'ay eu quelquefois l'honneur de vous lire, m'ont assez convaincu que c'est mettre son insuffisance en plein jour que d'exposer quelque Ouvrage à vostre jugement, mais quoy que rien ne puisse échaper à sa delicatesse, on a du moins cette consolation que vous avez toûjours plus d'égard à ce qui est supportable qu'à ce qui vous paroist defectueux ; et faut-il s'estonner qu'on trouve en vous cette favorable disposition d'esprit, en vous, dis-je, qui avez l'avantage d'estre Fils de ce grand Homme, qui dans l'accablement des emplois les plus relevez, et au milieu de toute la gloire dont il est revestu, ne dédaigne pas celle de se declarer Protecteur des beaux Arts et des plus nobles Sciences ?
-Il me semble, MONSEIGNEUR, que je vous vois attacher incessamment vos regards sur un si illustre Modelle, et que vous proposant pour unique exemple la solide vertu qui l'a rendu digne de son élevation, vous voyez avec une joye bien sensible que cette élevation n'ait rien qui l'égale que sa vertu.
-Ces rares Personnes que le Ciel fait naistre pour le soulagement des Princes qui se reposent sur leur Ministere d'une partie des soins où les engage le gouvernement de leurs Estats, ont toûjours eu une place tres-considerable dans nos Histoires, mais estre le choix de LOUIS XIV, de cet Auguste Monarque qui est l'ame de son Empire, qui en fait mouvoir le grand corps par luy-mesme, et qui ne répand sa confiance que sur le merite le plus veritablement consommé, c'est l'achevement de la gloire, et il n'y aura jamais de Ministre qui porte chez la Posterité une si éclatante recommandation.
-Elle ne sera pas moins forte pour vous, MONSEIGNEUR, et quand dés vos premieres années vous n'auriez point attiré nostre admiration par tout ce que l'esprit le plus solide peut faire paroistre de vivacité et de force, ce nous seroit assez pour vous mettre au dessus du plus haut éloge, d'avoir veu que le Roy qui n'a que des connoissances infiniment éclairées, a voulu prévenir les services qu'il vous a jugé capable de luy rendre, en vous honorant dans une si grande jeunesse d'une des plus importantes Charges de l'Estat.
-L'application merveilleuse que vous avez déjà pour les affaires, fait assez voir combien vous estiez digne d'un si glorieux privilege ; et s'il a servy à vous avancer les recompenses qu'un merite aussi veritable que le vostre avoit droit de se promettre, vous remplissez si avantageusement l'opinion qu'on a conceuë de ce merite, qu'il semble qu'on ne le pouvoit reconnoistre par un moindre rang que celuy où vous estes élevé.
-C'est, MONSEIGNEUR, avec un applaudissement general que nous vous le voyons occuper, et si cet heureux préjugé des honneurs qui vous attendent donne de la joye à tout le monde, vous serez aisément persuadé des vœux que je fais pour vous en haster la joüissance, si vous daignez rendre justice à la passion respectueuse avec laquelle je suis,
-
-MONSEIGNEUR,
-
-Vostre tres-humble et tres-obeïssant serviteur,
-
-T. CORNEILLE
-
-**** *book_ *id_I01 *act_I *date_1669 *creator_corneille
-
--*who_attale
-Seigneur, ne croyez pas qu'un Trône m'éblouisse⁎
-Jusqu'à rendre mon cœur capable d'injustice,
-Et me faire oublier quel excez de bonté
-Vous fit prendre interest à ma captivité.
-Prisonnier d'Annibal qui triomphoit d'Eumene
-Je vous vis adoucir et mes fers et ma peine,
-Et vouloir que chez vous on respectast⁎ en moy
-Le sang infortuné de ce malheureux Roy.
-Aujourd'huy que sa mort m'asseure sa Couronne,
-Je croirois faire outrage au Ciel qui me la donne
-Si dans ce nouveau rang j'avois rien de plus doux
-Que chercher les moyens de m'acquiter vers vous.
-Quoy qu'Eumene…
-
--*who_prusias
       Seigneur, ne parlons plus d'Eumene.
 Il eust nourry pour nous une eternelle haine,
 Et malgré vous, l'honneur vous eust fait une loy
@@ -64,34 +23,8 @@ Je ne m'en suis voulu reserver⁎ que la gloire,
 Pergame est tout à vous, et je vous ay rendu
 Ce qu'à droit de conqueste on sçait qui m'estoit dû.
 
--*who_attale
-Ce rare et grand effort d'une vertu⁎ sublime
-De l'Univers entier vous asseure l'estime ;
-Mais, Seigneur, tant de biens sont pour moy superflus
-Si vous devant beaucoup je n'obtiens encor plus.
-Quand voulant entre nous voir la guerre finie
-Vous brisastes mes fers dans votre Bithynie,
-Déja depuis long temps charmé dans cette Cour
-J'estois moins Prisonnier de guerre que d'Amour.
-Deux beaux yeux en secret captivoient ma franchise⁎.
-J'avois, j'avois trop veu l'incomparable Elise.
-
--*who_prusias
 La Fille d'Annibal ?
 
--*who_attale
-      Oüy, je l'aime, Seigneur,
-L'absence ny le temps n'ont pû changer mon cœur,
-Et si de vostre appuy j'ose flater mon ame
-Je puis me tenir seur du succez de ma flame.
-Le fameux Annibal receu dans vos Estats
-Si vous estes pour moy ne vous dédira pas.
-Contre ses Ennemis vous luy prestez retraite⁎,
-Et dans l'incertitude⁎ où ce besoin le jette,
-Deux Rois pourront tenir son Destin affermy
-S'il en a l'un pour Gendre, et l'autre pour amy.
-
--*who_prusias
 La vertu⁎ d'Annibal paroist si peu commune
 Que sans doute il est beau d'embrasser sa fortune,
 Et vous ne sçauriez mieux vous en faire l'appuy
@@ -109,26 +42,12 @@ J'ay promis, j'ay donné retraite⁎ à ce grand homme,
 Et dois trop aux serments qu'il a receus de moy
 Pour rien faire jamais qui démente ma foy⁎.
 
--*who_attale
-Aussi ne suis-je pas assez vain pour prétendre
-Qu'Annibal dust me suivre en m'acceptant pour Gendre,
-Content de posseder un Objet plein d'appas
-Je le verray, Seigneur, vivre dans vos Estats.
-Ainsi le retenant vous pouvez sans scrupule…
-
--*who_prusias
 Seigneur, il ne faut point que je vous dissimule,
 Je doute qu'Annibal n'imputast à mépris
 Si je parlois pour vous plûtost que pour mon Fils
 Vous sçavez prés de luy quel rang ce Fils possede,
 Que tout jeune qu'il est…
 
--*who_attale
-      Ah, Seigneur, je luy cede,
-Quoy qu'Elise à mes yeux fasse briller d'appas,
-Si le Prince y prétend…
-
--*who_prusias
       Non, il n'y pense pas,
 Mais il faut éviter, en cherchant mon suffrage
 Ce qui pourroit vous nuire, ou donner de l'ombrage⁎.
@@ -138,58 +57,20 @@ Contre vous pour un Fils bien loin que je m'employe,
 Faites-les agréer, j'en auray de la joye.
 Mais laissez-moy me taire où vos feux parleront.
 
--*who_attale
-Seigneur, vous apprendrez le succez qu'ils auront.
-
-**** *book_ *id_I02 *act_I *date_1669 *creator_corneille 
-
--*who_araxe
-Me trompay-je, Seigneur, dans ce que je présume ?
-Attale craint qu'un jour la guerre se rallume,
-Et de peur qu'Annibal n'ose vous secourir
-En épousant sa Fille il veut se l'acquerir.
-
--*who_prusias
 J'ignore les motifs du dessein qu'il m'explique⁎,
 Mais enfin soit amour, Araxe, ou Politique,
 Cet hymen… Dieux !
 
--*who_araxe
-      D'où vient…
-
--*who_prusias
       Qu'il doit m'estre fatal !
 
--*who_araxe
-A vous, Seigneur ?
-
--*who_prusias
       Tu vois qu'il nous oste Annibal.
 
--*who_araxe
-Pouvez-vous regreter qu'il chasse ailleurs un homme
-Dont la retraite⁎ icy vous rend suspect à Rome ?
-
--*who_prusias
 Mais il faudra qu'Elise…
 
--*who_araxe
-      Eh bien, quel interest…
-
--*who_prusias
 Quoy, d'Elise…
 
--*who_araxe 
-      Seigneur, je crois qu'elle vous plaist ?
-
--*who_prusias
 A moy ? qui te l'a dit ?
 
--*who_araxe
-      Je l'apprens de vous-mesme,
-Ce trouble…
-
--*who_prusias
       Il me trahit, je l'avouë, oüy, je l'aime,
 Et par mille combats rendus jusqu'à ce jour
 J'ay tâché vainement d'étouffer cet amour.
@@ -198,11 +79,6 @@ Ont beau sur son ardeur refroidir mon courage⁎,
 Elise a tous mes vœux⁎, Elise a tout mon cœur,
 Et pour moy sans Elise il n'est point de bonheur⁎.
 
--*who_araxe
-Mais en vous declarant doutez-vous qu'avec joye
-Annibal…
-
--*who_prusias
       Non, je sçay ce qu'il faut que j'en croye.
 Mon hymen d'Annibal rempliroit tous les vœux⁎,
 Je n'ay qu'à dire un mot, et je me rends heureux.
@@ -239,9 +115,6 @@ A moins que de ce mal mon Fils soit le remede.
 Confident d'Annibal, s'il craint tout de ma foy⁎,
 Par de nouveaux serments il peut… mais je le voy.
 
-**** *book_ *id_I03 *act_I *date_1669 *creator_corneille
-
--*who_prusias
 Prince, Annibal sans doute aura quelques alarmes
 De voir qu'Attale et moy nous mettions bas les armes,
 Et que la paix jurée asseure à nos Estats
@@ -255,17 +128,6 @@ Je luy faisois d'Attale embrasser la querelle,
 Et l'éclat d'un refus pour nous trop hazardeux
 Au lieu d'un Ennemy, nous en attiroit deux.
 
--*who_nicomede
-Quelque bouillante ardeur que la guerre m'inspire,
-Vous preferez la paix, c'est à moi d'y souscrire ;
-Mais permettez, Seigneur, que contre les Romains
-J'oppose vos bontez au malheur que je crains.
-Je sçay que d'Annibal ils cherchent la ruine,
-Que toûjours mesme haine en leurs cœurs s'enracine,
-L'adroit Flaminius a beau dissimuler,
-Il ne vient…
-
--*who_prusias
       C'est surquoy je voulais vous parler.
 Depuis que dans ces lieux Flaminius m'observe,
 J'ay dû pour Annibal montrer quelque reserve⁎,
@@ -277,45 +139,16 @@ Prevenez Annibal, et luy jurez pour moy
 Tout ce qu'a de sacré la parole d'un Roy ;
 Que le Romain party, je dois trop à ma gloire
 Pour…
-
--*who_nicomede
-      Il est un moyen de luy faire tout croire.
-Si vous l'autorisez…
-
--*who_prusias 
+ 
       Quel que soit ce moyen,
 Offrez, promettez tout, je ne reserve⁎ rien.
 
--*who_nicomede
-Aprés ce doux aveu⁎, Seigneur, j'ose vous dire
-Que mon cœur en secret depuis long-temps soûpire,
-Et que par un pouvoir à mon repos fatal,
-Elise…
-
--*who_prusias
       Vous aimez la Fille d'Annibal ?
 
--*who_nicomede
-Oüy, Seigneur, je l'adore, et ne puis plus vous taire
-Que la Fille sur moy peut autant que le Pere,
-Si la vertu⁎ de l'un tient tout mon cœur charmé,
-Pour la beauté de l'autre il est tout enflamé,
-Et dans la passion où ce cœur s'abandonne…
-
--*who_prusias
 N'avez-vous découvert cet amour à personne ?
 
--*who_nicomede
-Il est connu d'Elise, à qui j'ay crû devoir…
-
--*who_prusias
 Vous en estes aimé  ?
 
--*who_nicomede
-      Je n'ay pû le sçavoir,
-Mais sans doute son choix suivra celuy d'un Pere.
-
--*who_prusias
 Je pardonne à vostre âge un aveu⁎ temeraire,
 Prince, vous estes jeune, et vostre aveuglement
 Presse plus ma pitié que mon ressentiment.
@@ -336,29 +169,7 @@ Et sans cette amitié que mes soins⁎ renouvellent,
 Nous nous verrions reduits à courber sous le poids
 Sous qui déja par tout gemissent tant de Rois,
 Profitons de l'exemple, et craignons leur disgrace.
-
--*who_nicomede
-Les exemples, Seigneur, n'ont rien qui m'embarrasse,
-Chacun a sa conduite, et tel peut succomber
-Où tout autre apres luy craindra peu de tomber,
-Non que par cét hymen qui semble vous déplaire
-Je cherche à vous oster une amitié si chere ;
-Bien loin qu'il ait dequoy faire ombrage⁎ aux Romains
-Pourroient-ils mettre Elise en de plus seures mains ?
-Il n'est rien que pour eux vostre foy⁎ ne previenne⁎,
-Ils trouveront en elle un garand de la mienne,
-Et dans le Fils d'un Roy qui les veut respecter⁎,
-Le Gendre d'Annibal n'est point à redouter.
-Que si de ce projet Rome se rend l'arbitre,
-Seigneur, vous estes Roy, soustenez ce grand titre,
-Et sans vous ebloüir⁎ de devoirs apparents,
-Negligez des amis qui se font vos Tyrans.
-Rejettez une indigne et basse dépendance,
-Cent Princes opprimez prendront votre défence,
-Toute l'Asie aspire à voir briser ses fers,
-Tirez-la d'esclavage, et vangez l'Univers.
-
--*who_prusias 
+ 
 Voila les sentiments que l'amour vous inspire ?
 Elise vous apprend ce que vous m'osez dire,
 Et ce parfait rapport de haine et d'interest
@@ -376,15 +187,6 @@ Ils vous pressent d'oser, il est beau de les croire,
 Et de chercher comme eux par d'illustres desseins
 A servir de triomphe aux armes des Romains.
 
--*who_nicomede
-Du moins, Seigneur, du moins j'auray cét avantage
-Qu'ils ne pourront jamais sousmettre mon courage⁎,
-Et si l'indignité de quelque dur revers⁎
-Me reduit quelque jour à la honte des fers,
-Je n'imiteray point l'abaissement extréme
-Qui va les mandier jusques dans Rome mesme.
-
--*who_prusias
 Et moy, je sçauray bien, si vous vous emportez,
 Arrester⁎ la fureur de vos temeritez ;
 Non que dans un discours dont la fierté m'outrage
@@ -397,15 +199,6 @@ Et les nœuds les plus doux n'ont rien qu'avec éclat
 Ma justice n'immole au repos de l'Estat.    
 Pensez-y meurement, allez.
 
--*who_nicomede
-      Je me retire,
-Mais trouvez bon, Seigneur, que j'ose encor vous dire
-Que si pour plaire à Rome il faut trahir son rang
-Elle peut de bonne heure ordonner de mon sang.
-
-**** *book_ *id_I04 *act_I *date_1669 *creator_corneille
-
--*who_prusias
 Qui jamais en aimant plus que moy fut à plaindre ?
 Un Rival m'alarmoit, j'en trouve deux à craindre,
 Et d'un fatal hymen les nœuds mal assortis
@@ -418,13 +211,6 @@ Et voulant l'arracher de l'abysme qu'il s'ouvre
 Je cherche à ne point voir ce que je luy découvre.
 Quel conseil prendre, Araxe, en ces extrémitez ?
 
--*who_araxe
-La raison le dira si vous l'en consultez.
-L'amitié des Romains faisant vostre asseurance
-Il vous faut d'Annibal éviter l'alliance.
-Seigneur, servez Attale, et secondez ses feux.
-
--*who_prusias
 Quoy, je pourrois souffrir⁎ qu'Attale fust heureux ?
 Je sçay que quelques soins⁎ que l'amour me suggere,
 Mon fils ainsi qu'Attale aura plus dequoy plaire,
@@ -435,27 +221,8 @@ Et sçachant qui des deux son amour favorise,
 Attaquons ce Rival, et cherchons du repos
 A détruire…
 
--*who_araxe
-      Seigneur, elle vient à propos.
-
-**** *book_ *id_I05 *act_I *date_1669 *creator_corneille
-
--*who_prusias
 Quoy, Madame, toûjours cet air melancolique⁎  ?
-
--*who_elise
-Quelle joye en mes yeux voulez-vous qui s'explique⁎,
-Seigneur, lors que par tout les Destins conjurez
-A nous persecuter se montrent preparez ?
-Si nous trouvons chez vous, par un doux avantage
-Dequoy nous consoler de l'exil de Cartage,
-Les Romains aussi-tost de ce bonheur⁎ jaloux
-S'opposent aux bontez que vous avez pour nous.
-Avecque sa fortune errante et vagabonde
-Un seul homme fait peur à ces Maistres du monde.
-A nous voir vostre appuy, leur trouble est sans égal.
-
--*who_prusias 
+ 
 Madame, je ne sçay ce qu'en juge Annibal,
 Mais si j'ay le malheur qu'aprés mille asseurances
 Rome le fasse entrer en quelques défiances⁎,
@@ -466,21 +233,6 @@ Et mesme on craint si peu que rien nous desunisse,
 Que pour vous obtenir, vos Amants aujourd'huy
 Implorent mon suffrage, et briguent mon appuy.
 
--*who_elise
-Que parlez-vous d'Amants, Seigneur ? est-il croyable
-Qu'en l'état où je suis on pust me croire aimable,
-Et sur mon triste sort fermer assez les yeux
-Pour s'unir au rebut des hommes et des Dieux ?
-Non, non, il faut me fuir ; il n'est revers⁎ ny peine
-Qu'en tous lieux avec moy ma disgrace ne traîne,
-Et me vouloir aimer, seroit sans aucun fruit
-Livrer sa destinée au malheur qui me suit.
-Aussi mon cœur n'est pas un bien où l'on aspire,
-Et si me regardant quelquefois on soûpire,
-La pitié que mes maux s'attirent chaque jour
-Laisse dans ces soûpirs peu de part à l'amour.
-
--*who_prusias
 Et ce sont ces malheurs qui vous rendent à craindre.
 Pour estre tout à vous il ne faut que vous plaindre,
 Et voir dans vos beaux yeux cette douce langueur
@@ -492,18 +244,6 @@ Ils se fussent servis de toute leur fierté,
 Mais l'adoucissement qu'y meslent vos disgraces
 Fait briller…
 
--*who_elise 
-      Ces douceurs sont pour les ames basses,
-Seigneur, et mon orgueil s'en accommode mal,
-De grace, traitez mieux la Fille d'Annibal.
-Mes yeux ont démenty la fierté de mon ame
-S'ils la font soupçonner de quelque lâche flame,
-Attale sort d'un sang qui peut prétendre à moy
-Mais il fut dans vos fers avant que d'estre Roy,
-Et l'éclat de ce Trône où je le voy qui monte
-N'a pas encor assez effacé cette honte.
-
--*who_prusias
 Ah, que cette fierté paroist digne de vous !
 J'en conçois pour mon Fils un augure bien doux,
 Pour vos charmants appas vous sçavez qu'il soûpire,
@@ -511,21 +251,6 @@ Ses respects⁎ ont cent fois pris soin de vous le dire,
 Il n'aime qu'à vous plaire ; à des feux si soumis,
 Madame, expliquez⁎-vous, quel espoir est permis ?
 
--*who_elise
-Quoy, vous croyez qu'Elise ait l'ame assez ingrate
-Pour pouvoir consentir que cet amour la flate,
-Et que pour prix des soins⁎ qu'en eut vostre pitié
-Son hymen des Romains vous couste l'amitié ?
-Si déja sur l'appuy que trouve icy mon Pere
-Nous voyons dans leur plainte éclater leur colere,
-Que n'essuyerez vous point de leurs chagrins jaloux
-Si des nœuds plus estroits nous unissent à vous ?
-Fuyez, fuyez les maux qui suivent nos personnes,
-Ces dignes Conquerants sont maistres des Couronnes,
-Et quoy que vous fist croire un dépit genereux,
-Pour regner seurement, il faut regner par eux.
-
--*who_prusias
 De ma fidelité Rome a trop d'asseurance
 Pour me laisser long temps craindre sa défiance⁎,
 Et sur cette union, quel qu'en soit le danger
@@ -533,23 +258,6 @@ S'il nous faut son aveu⁎, je puis le ménager.
 Pourveu que de mon Fils vous approuviez la flame,
 Que ses vœux⁎…
 
--*who_elise
-      Connoissez, Seigneur, toute mon ame,
-Le Prince a des vertus⁎ qu'on ne peut égaler,
-Mais quelque feu pour luy dont je pusse brûler,
-Je le dédaignerois si d'une ardeur ouverte
-Des Romains que j'abhorre il ne juroit la perte,
-De ma haine pour eux mon amour prend la loy,
-Et c'est la seule dot que j'apporte avec moy.
-Ainsi point de mary capable de me plaire
-Qui ne vange Cartage, et l'exil de mon Pere.
-L'Univers affranchy de ses cruels Tyrans
-Est tout ce qui me flate, à ce prix je me rends.
-Adieu, Seigneur.
-
-**** *book_ *id_I06 *act_I *date_1669 *creator_corneille
-
--*who_prusias
       Et bien, quelle preuve plus claire
 Que mon Fils est aimé, que c'est luy qu'on prefere ?
 La haine que pour Rome ils montrent tour à tour
@@ -563,324 +271,643 @@ Il faut luy découvrir que mon Fils aime Elise,
 Et demain avec luy, sans en faire d'éclat,
 Sous pretexte d'honneur l'envoyer au Senat.
 
--*who_araxe
-Mais si vous regardez son amour comme un crime,
-Comment rendre, Seigneur, le vostre legitime ?
-Rome vous verra-t'elle impunément joüir…
-
--*who_prusias
 Mon zele aura paru, c'est dequoy l'ébloüir⁎.
 Peut-estre qu'elle mesme, obligée⁎ à se rendre
 Redoutant Annibal me voudra voir son Gendre,    
 Et s'asseurer par moy de l'inquiete⁎ ardeur,
 Qui l'a toûjours rendu jaloux de sa grandeur.
 
--*who_araxe
-Mais d'une et d'autre part vostre esperance est vaine,
-Elise veut, Seigneur, qu'on épouse sa haine,
-Et que…
-
--*who_prusias
       Lors qu'il s'agit de voir nos vœux⁎ contents,
 Promettons tout, Araxe, et laissons faire au temps.
 
-**** *book_ *id_II01 *act_II *date_1669 *creator_corneille
+Et bien, Seigneur, enfin me rendrez-vous justice ?
+Ay-je fait aux Romains un honteux sacrifice,
+Et leur Flaminius que j'éloigne de nous
+Vous répond-il assez que mon cœur est à vous ?
+Vous restez dans ma Cour, et je vous tiens parole.
 
--*who_elise
-Le Prince doit partir ! ne t'es-tu point trompée ?
+Jugez par là, Seigneur, si mon zele est extréme.
+Je cherche à détourner vos malheurs sur moy mesme,
+Et pour vous soustenir contre vos ennemis,
+Me garder tout à vous, je leur livre mon Fils.
 
--*who_alcine
-J'ay douté de ce bruit d'abord qu'il m'a frapée,
-Mais dans toute la Cour, Madame, il fait éclat.
-Prusias sur la paix le députe au Senat,
-Et luy rend cet honneur de vouloir par sa bouche
-Expliquer⁎ à quel point ce grand Accord le touche,
-Flaminius l'emmene, ils partent dés demain.
+Ils estoient grands sans doute avec un tel secours,
+Mais pour esperer vaincre on ne vainc pas toûjours,
+Souvent l'occasion y fait plus que le nombre.
+Les plus grands corps, Seigneur, produisent le plus d'ombre.
+Et si faisant la paix j'ay rendu des Estats,
+Voyez si j'avois lieu de ne le faire pas.
+Je voyois en Syrie, en Macedoine, en Grece,
+Les Peuples abatus, tremblans, pleins de foiblesse,
+Philippe estoit défait, Antiochus détruit,
+Et par tout les Romains triomphoient à grand bruit.
+De tant d'heureux succez leurs legions trop fieres
+Cherchoient à leurs exploits de nouvelles matieres,
+Et si j'eusse trop haut porté le nom de Roy
+Toutes se ramassant alloient fondre sur moy.
+Seul à tant d'Ennemis ne pouvant faire teste
+Par une fausse paix j'écarte la tempeste ;
+Pour trouver les Romains à vaincre plus aisez
+J'attens par quelque guerre à les voir divisez,
+Cependant⁎ du Sénat dont je crains la puissance
+Luy commettant⁎ mon Fils, j'acquiers la confiance,
+Pour voir Attale à moy je le rends mon égal,
+Fais des Amis par tout, et retiens Annibal.
 
--*who_elise
-Et le Prince y consent ?
+      Vouloir quitter un Roy
+Qui ne reserve⁎ rien pour vous prouver sa foy⁎,
+Qui vous fait partager la puissance suprême,
+Respecter⁎ dans sa Cour à l'égal de luy-mesme,
+Et pour vostre repos…
 
--*who_alcine
-      Son refus seroit vain.
-Où l'ordre est absolu, que peut sa resistance ?
+A quoy le Ciel encor me veut-il reserver⁎ ?
+Pour garder Annibal en faveur de ma flame,
+J'ose exiler mon Fils, j'en accepte le blâme,
+Et contre mon attente, un interest fatal,
+Si j'éloigne ce Fils fait partir Annibal.
+Voyons Flaminius, l'infortune est égale,
+J'ai parlé contre un Fils, parlons-lui contre Attale,
+Et ménageons si bien l'éclat de son couroux,
+Qu'Annibal soit reduit à n'esperer qu'en nous.
 
--*who_elise
-Quoy, son cœur à ceder n'a point de repugnance ?
+La paix qu'elle nous donne à ce devoir m'engage,
+Mon Fils d'un tel honneur a lieu d'estre jaloux.
 
--*who_alcine 
-J'ay peu l'art de connoistre un cœur comme le sien.
-Mais pourquoy…
+Je ne condamne rien au projet que vous faites,
+Mais assez de couleurs pourroient le palier,
+Sans chercher mon exemple à vous justifier.
+Antiochus défait, Annibal pouvoit nuire,
+Trouver quelque autre Roy qui s'en laissast seduire,
+J'estois maistre en ma Cour de son ressentiment,
+Ainsi je le receus, mais sans attachement,
+Et l'on me voit pour Rome une foy⁎ trop sincere    
+Pour douter des motifs de ce que j'osay faire.
 
--*who_elise
-      C'est assez, je ne demande rien,
-Ma curiosité sans doute est indiscrette.
+Son azyle estoit seur, vous l'y pouviez laisser.
 
--*who_alcine
-Au moins vous en aviez quelque raison secrette ?
+      Mais enfin vous épousez sa Fille ?
 
--*who_elise
-Je ne sçay, mais enfin ce que j'aime à sçavoir
-C'est que mon triste cœur n'en devroit pas avoir.
+Quoy l'on me voit pretendre au nom de son Espoux ?
 
--*who_alcine
-Ne dissimulez point. Le Prince a sçeu vous plaire.
+N'espargnez point mon zele en ce peril insigne,
+Aprés deux ans d'azyle Annibal qui me fuit
+De ma fidelité me peut ravir le fruit,
+Vous troubler chez Attale ; et de cette entreprise
+J'empescherois le coup en retenant Elise,
+Parlez, et dans ma Cour je la fais arrester⁎.
 
--*who_elise
-Moy l'aimer ?
+On s'oublie aisément avec une Couronne,
+Il est jeune, et l'amour qu'anime la fierté
+Va plus loin quelquefois que l'on n'a projetté.
+Ainsi voyez, Seigneur, ce que Rome hazarde
+A souffrir⁎ qu'Annibal…
 
--*who_alcine
-      Sa vertu⁎ vous doit estre assez chere.
+Quoi, vous consentiriez à luy donner Elise ?
 
--*who_elise
-Il est vray qu'il sçait joindre à l'éclat de son rang
-Toutes les qualitez que demande un beau sang,
-Jamais plus de merite avec tant d'avantage
-Ne sçeut de tous les cœurs s'acquerir le suffrage,
-Moy-mesme je me sents forcée à l'estimer,
-J'admire sa vertu⁎, mais ce n'est pas l'aimer.
+Par moy, Seigneur, par moy dont vous sçavez le zele,
+Et qui tout au Senat ne puis voir sans rougir
+Que je parle, et qu'un autre ait la gloire d'agir.
 
--*who_alcine
-Avec tant de chaleur loüer ce qu'on estime,
-Madame, croyez-moy, c'est l'amour qui s'exprime.
+      Que pour vous estre utile
+Je voulus qu'Annibal chez moy trouvast azile,
+Et qu'avec mesme ardeur, du mesme esprit poussé,
+J'acheveray pour vous ce que j'ay commencé.
+J'épouseray sa Fille.
 
--*who_elise
-Quoy, tu crois que je l'aime, et que pour faire cas…
+Je sers la Republique, et j'en reçois le prix.
 
--*who_alcine
-Mais vous mesme avec moy ne le croyez-vous pas ?
+Le mien ne promet rien que ma foy⁎ n'accomplisse.
 
--*who_elise
-Je veux bien t'advouër que son depart m'afflige,
-Que l'ordre qu'on luy donne à soûpirer m'oblige⁎,
-Mais sans doute mon cœur dans cét éloignement
-Soûpire pour un pere, et non pour un Amant.
-Le Prince hors d'icy, Prusias n'est point homme
-A resister long-temps aux poursuites de Rome,
-Elle hait Annibal, et je crains que le Roy
-N'ait pas la fermeté de nous garder sa foy⁎.
-Son fils estoit pour nous un appuy necessaire.
+Jamais je n'en auray le moindre repentir,
+Et pourveu…
 
--*who_alcine
-J'en croiray ce motif s'il s'agit de vous plaire,
-Le Prince peut icy vous manquer au besoin,
-Mais on ne prévoit pas les malheurs de si loin,
-Et lors que tant d'ardeur fait que l'on s'interesse…
+Et bien, j'aime, Seigneur, puisqu'il faut vous le dire,
+Joüissez d'un aveu⁎ qu'il vous plaist d'arracher.
 
--*who_elise
-Qui te porte à vouloir joüir de ma foiblesse ?
-Ne force point mon cœur à se trop declarer,
-Et s'il aime en secret laisse-moy l'ignorer.
-Voicy le Prince, ah Dieux !
+Jugez par cet effort si je vous suis fidelle.
+Envain mes yeux cent fois m'ont dit qu'elle estoit belle,
+Envain mon cœur surpris en a crû sa langueur,
+J'ay fait taire mes yeux, j'ay démenty mon cœur,
+Et ce m'estoit assez pour chercher à le faire
+De songer qu'en aimant je pouvois vous déplaire ;
+Mais enfin aujourd'huy que vous me faites voir
+Que cet amour n'a rien qui blesse mon devoir,
+Et que par un motif que Rome favorise
+Je puis vous obliger⁎ en épousant Elise,
+Je rappelle des feux dont les charmes trop doux
+N'avoient esté bannis que par respect⁎ pour vous,
+Vostre interest soustient l'ardeur qui me consume,
+Luy seul l'avoit éteinte, et luy seul la rallume.
+Accordez donc, Seigneur, à mes brulants souhaits
+La gloire d'un hymen qui confirme la paix.
+Quelque flateur appas que mon amour y voye,
+Montrer mon zele à Rome est ma plus forte joye,
+Et j'atteste les Dieux qu'en un si grand projet
+Tout mon cœur est pour elle, et n'a point d'autre objet.
 
--*who_alcine
-      Redoutez-vous sa veuë ?
+Luy devant tout, Seigneur, qu'aurois-je à refuser ?
 
--*who_elise
-Je sents que tout à coup mon ame s'est émeuë⁎,
-Mais ce trouble, inconnu pour moy jusqu'à ce jour,
-Se donne à sa disgrace, et non pas à l'amour.
+Vous livrer Annibal ! Ah, Seigneur, voulez-vous
+Me mettre en bute aux Dieux, m'attirer leur courroux ?
+Cent serments d'une foy⁎ sacrée, inviolable,
+De tant de trahison me laissent-ils capable ?
+Souffre-t'il⁎ que mon cœur ébloüy⁎ de ses feux
+Ose…
 
-**** *book_ *id_II02 *act_II *date_1669 *creator_corneille
+Et par où cependant⁎ gagner le cœur d'Elise ?
+Mettre en vostre pouvoir ce qu'elle a de plus cher,
+Sera-ce le moyen, Seigneur, de la toucher ?
+Obtiendray-je par là que son amour s'explique⁎ ?
 
--*who_elise
-Vous vous éloignez, Prince ?
+Maistres de tant de Roix, soûmis, obeïssants,
+Craignez-vous d'un vieillard les destins impuissants ?
 
--*who_nicomede
-      On m'y force, Madame,
-Mais dans ce déplaisir ce qui flate mon ame,
-C'est que Flaminius s'éloignant avec moy
-N'aura plus contre vous d'empire sur le Roy.
-Son depart en ces lieux asseure vostre azyle.
+Si cet hymen vous porte à soupçonner ma foy⁎,
+N'aurez-vous pas mon Fils qui répondra de moy ?
+Vous en puis-je donner un gage plus sincere ?
 
--*who_elise
-Rome pour nous troubler trouvera tout facile,
-Elle a d'autres Agents dont le secret pouvoir
-De vostre éloignement sçaura se prévaloir.
-Quoy qu'ils vueillent oser, nous restons sans défence.
+Me soüiller par l'horreur d'une telle entreprise ?
 
--*who_nicomede
-Madame, attendez tout de mon impatience⁎,
-Par un retour si prompt, s'il vous faut mon secours…
+Attale, quoy qu'il aime, a trop de fierté d'ame,
+Et bien loin que pour luy le crime ait quelque appas…
 
--*who_elise
-Ah Prince, vous party, vous l'estes pour toûjours.
-Ne vous offencez point de ce triste presage,
-Rome pour Annibal vous demande en ostage,
-Et vous n'en reviendrez qu'apres que nos Tyrans
-De sa ruine entiere auront de seurs garands.
+Adieu, Seigneur, je voy Procule qui s'avance,
+Consultez avec luy si mon zele et ma foy⁎
+Ne peuvent meriter que l'on me traite en Roy.
 
--*who_nicomede
-Quoy, le Roy soufriroit…
+Si mon abord vous nuit je vay me retirer,
+Si-tost que je parois Flaminius vous quitte.
 
--*who_elise
-      J'oseray plus vous dire,
-A vous voir éloigné le Roy luy mesme aspire,
-Et cét ordre soudain qui nous prive de vous
-N'est que l'indigne effet d'un mouvement jaloux.
-Je n'en sçaurois douter, Prince, j'ay sçeu luy plaire,
-Ses regards enflamez ne me le peuvent taire,
-Ma veuë est le seul bien dont il cherche à joüir,
-Et souvent j'entens plus que je ne veux oüir.
+Je n'ay point de secret qui m'oblige⁎ à le voir,
+Mais si vous me souffrez⁎ un peu de confidence,
+Quel estoit le sujet de vostre conference ?
 
--*who_nicomede
-Pardonnez mon desordre à ma surprise extréme.
-Quoy, Madame, il se peut que Prusias vous aime,
-Que l'ordre de partir…
+S'il est tel que vos feux permettent qu'on le croye,
+Vous pourriez sans peril m'avancer cette joye.
 
--*who_elise 
-      Si vous obeïssez,
-Prince, voyez de grace à qui vous me laissez.
+Flaminius consent…
 
--*who_nicomede
-Si j'osois le bien voir je craindrois de trop dire.
-Adieu, Madame.
+      Et pour un si grand bien
+Vous avez crû devoir ne luy refuser rien ?
 
--*who_elise
-      Helas !
+Quoy, ceder à l'amour, et s'en laisser surprendre,
+Jusqu'à…
 
--*who_nicomede
-      Quoy, vostre cœur soûpire ?
-A quoy dois-je imputer ce tendre mouvement ?
-Quand je trouve un Rival l'obtiens-je comme Amant ?
-Parlez.
+C'est à fuir ce qui plaist qu'on montre son courage⁎.
 
--*who_elise
-      Que vous diray-je ?
+Et jeune, et plein d'amour j'aurois soin de ma gloire.
+ 
+C'est dont pourtant d'abord⁎ vous faisiez peu de compte.
 
--*who_nicomede
-      Expliquez⁎ vous de grace.
+J'en penetre la cause, et j'ay quelques clartez…
 
--*who_elise
-Un soûpir dit beaucoup quand le cœur s'embarasse,
-Et qui peut l'arracher apres mille combats
-Le meriteroit peu s'il ne l'entendoit pas.
+Qu'y soupçonneroit-on qui pust répondre mal…
 
--*who_nicomede
-O trop charmant aveu⁎ de la plus belle flame
-Dont ait pû jusqu'icy brûler une grande ame !
-Que le Ciel m'abandonne à son plus vif couroux,
-J'en craindray peu les traits estant aimé de vous.
-Mon exil me plaira si dans la Bithynie
-Il vous fait des Romains braver la tyrannie.
-Heureux cent et cent fois de voir ma liberté
-Servir d'un digne prix pour vostre seureté.
-Avec la mesme ardeur qu'elle vous est offerte
-Je voudrois de mon sang racheter vostre perte,
-Et par ce sacrifice apprendre assez à tous
-Que peut-estre mon cœur estoit digne de vous.
+Va, traistre, et puisqu'enfin le crime peut te plaire
+Pour obtenir la Fille assassine le Pere.
+Que je suis malheureux ! tout me pert, tout me nuit,
+Si je forme un projet, mon Rival le détruit,
+Et Rome en un moment par de lâches surprises
+Fait tourner contre moy toutes mes entreprises.
+Impitoyable amour, que ne t'ay-je étouffé
+Avant que de mon cœur ta flame eust triomphé !
+Je ne me verrois pas esclave d'une haine
+Qui veut que je m'oppose à la fierté Romaine,
+Et tout à ma grandeur, sans plus rien épargner,
+Aux dépens d'Annibal, j'apprendrois à regner.
+Mais pourquoy t'oser croire, ô grandeur importune,
+Serviles interests d'estats et de fortune,
+Qui pour me conserver le vain titre de Roy
+M'ostez la liberté de disposer de moy,
+Sans vous de l'amour seul j'écouterois la flame,
+Le Trône n'auroit rien qui partageast mon ame,
+Au lieu que l'un et l'autre attirant tous mes vœux,
+Sans ceder à pas un je cede à tous les deux.
+O desirs de grandeur, fiers mouvemens de gloire,
+Amour, Rome, Annibal, qui de vous dois-je croire ?
+Qui de vous deux mon cœur doit enfin l'emporter ?
 
--*who_elise 
-Quoy, si ce pur amour fait toute vostre gloire,
-Il faut m'abandonner pour me le faire croire ?
+      Perdre Annibal ! helas !
 
--*who_nicomede
-Quoy, pour vostre repos je pourrois lâchement
-Refuser de souscrire à mon éloignement ?
-De nos jaloux destins tel est l'ordre barbare
-Que l'amour qui nous joint luy mesme nous separe.
-En vain pour nous unir nous ferions nos efforts,
-Vous ne restez icy que parce que j'en sorts,
-Et le coup que fuit l'un devant tomber sur l'autre,
-Mon exil évité seroit l'arrest du vostre.
-Cedons, cedons, Madame, à d'injustes projets.
+      Ah le perfide !
+Mais le feray-je moins si ma flame en decide ?
 
--*who_elise
-Ainsi vous me quittez peut-estre pour jamais ?
+Mais c'est flater mon feu d'un espoir inutile
+Si l'on voit que par moy…
 
--*who_nicomede
-Le Ciel adoucira cette rigueur extréme.
+Tu dis vray, je me rends, ma passion l'ordonne.
+A ces brûlants transports tout mon cœur s'abandonne ;
+Dust ce que j'entreprens me devenir fatal,
+Je ne puis endurer le bon-heur⁎ d'un Rival.
+C'en est fait, perdons tout dans ce besoin extréme,
+Attale par mon Fils, Annibal par moy mesme,
+Et comme à triompher voicy nostre grand jour,
+Perdons jusqu'à ce Fils s'il nuit à mon amour,
+Le voicy.
 
--*who_elise
-Que faire cependant⁎ ?
+      Viens sçavoir, et venger tout ensemble
+Un crime dont encor l'horreur fait que je tremble.
+A l'amour d'un Perfide on s'est enfin rendu,
+Flaminius triomphe, Annibal est vendu.
+Pour prix d'une si lâche et honteuse entreprise
+Attale qui le vend reçoit la main d'Elise.
 
--*who_nicomede
-      Songer que je vous aime,
-Et si le Roy vous presse, accepter de sa foy⁎
-Ce que je ne veux pas que vous perdiez pour moy.
+A sauver Annibal l'honneur, tout nous convie,
+Adieu, je vay luy faire un rempart de ma vie.
+Cependant⁎ cherche Attale, ose, il est important,
+Et si tu sçais aimer, voy le prix qui t'attend.
 
--*who_elise
-Ah, Prince, songez-vous jusqu'où va cét outrage,
-Et quand mon interest à l'exil vous engage,
-Les maux que vous croyez qu'il me fasse éviter
-Approchent-ils de ceux qu'il m'ofre à redouter ?
-Donc, j'ayderois moy mesme au destin qui vous brave,
-J'aurois le nom de Reine, et vous celuy d'esclave,
-Et les fers que dans Rome on vous feroit traisner
-Me vaudroient la douceur de me voir couronner ?
+Pour détruire un projet à nos vœux⁎ si contraire
+Je n'ay rien oublié de ce que j'ay pû faire.
+A peine l'ay-je appris que ce rapport fatal
+M'a fait tout indigné courir vers Annibal ;
+J'ay mis autour de luy ceux des Miens dont le zele
+M'a pour le seconder paru le plus fidelle,
+Mais voyant les Romains, malgré tous nos efforts
+Contre luy, contre moy se rendre les plus forts,
+J'ay crû que pour répondre à la foy⁎ qui m'engage
+Il falloit empescher qu'on ne vous fist outrage,
+Voila ce qui m'amene, et je viens vous offrir
+Tout ce que peut un Roy qui veut vous secourir.
 
--*who_nicomede 
-Et quel repos pour moy pretendre en Bithynie
-Si faute d'en partir je vous en vois bannie,
-Et de nouveau reduite au funeste revers⁎
-D'aller de Cour en Cour, et de passer les mers ?
-En soufriray-je moins quand la main qui m'opprime
-De l'orgueil des Romains vous fera la victime,
-Et que vous deviendrez sous leurs indignes loix
-Et le joüet des vents, et le mépris des Rois ?
-Pour m'épargner l'horreur d'un si cruel supplice,
-Madame, au nom des Dieux soufrez que j'obeïsse,
-Et que jusques dans Rome affrontant vos tyrans
-J'aille vous arracher à vos destins errants.
-J'y porteray des fers en y portant les vostres,
-Mais ce cœur tout à vous n'en recevra point d'autres,
-Et j'y conserveray l'entiere liberté
-Que du sang dont je sorts exige la fierté.
-Quelque maistre des Rois que le Senat se nomme…
-Mais Annibal…
+Ah, si vous connoissiez l'ardeur dont il m'anime,
+Quels feux depuis long-temps dans mon cœur renfermez
+Vous ont faite…
 
-**** *book_ *id_II03 *act_II *date_1669 *creator_corneille
+Si le Ciel aujourd'huy me met dans l'impuissance
+D'empescher une injuste et lâche violence,
+Au moins, Madame, au moins de cette trahison
+Il ne tiendra qu'à vous que vous n'ayez raison.
+Venez dans mes Estats, et toute à vostre haine
+Acceptez mon secours avec le nom de Reyne.
+Pour vanger Annibal il n'est rien qu'avec vous
+Contre ses Assassins ne tente mon couroux,
+Rien qu'à son sang versé ma passion n'immole.
 
--*who_annibal
+Quoy, du crime d'Attale il faut qu'on me soupçonne,
+Et quand ouvertement on voit que le Romain
+Pour prix de son forfait luy donne vostre main,
+Cet Attale…
+
+Voyez si c'est pour eux un exemple pressant.
+
+Par les commencements on peut prévoir la suite,
+Vous trouvez, distes-vous, vostre Garde seduite,
+Et le mesme interest qui retient vos Soldats
+Sur le point d'oser tout retiendra vostre bras.
+ 
+Nous verrons s'il sera difficile à répandre
+Quand vous attaquerez ce que je viens défendre.
+
+Quels que soient les malheurs qui vous font plaindre un Pere,
+Madame, je n'ay fait que ce que j'ay dû faire,
+Et vous n'avez pas lieu de me les reprocher
+Lors qu'à son mauvais sort je viens vous arracher.
+Pour fuir avec honneur celuy qui vous menace,
+Prenez mon Trône offert, je vous y donne place.
+ 
+Mon Fils a l'insolence…
+
+      Et bien, Seigneur, aux dépens de mon Fils
+Vous me verrez tenir tout ce que j'ay promis.
+Bien loin d'en appuyer la criminelle audace,
+Sur luy, sur tous les Siens je vay faire main basse,
+Et ses jours immolez pourront vous faire voir
+S'il est dans ce qu'il ose armé de mon pouvoir.
+
+
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_attale
+
+Seigneur, ne croyez pas qu'un Trône m'éblouisse⁎
+Jusqu'à rendre mon cœur capable d'injustice,
+Et me faire oublier quel excez de bonté
+Vous fit prendre interest à ma captivité.
+Prisonnier d'Annibal qui triomphoit d'Eumene
+Je vous vis adoucir et mes fers et ma peine,
+Et vouloir que chez vous on respectast⁎ en moy
+Le sang infortuné de ce malheureux Roy.
+Aujourd'huy que sa mort m'asseure sa Couronne,
+Je croirois faire outrage au Ciel qui me la donne
+Si dans ce nouveau rang j'avois rien de plus doux
+Que chercher les moyens de m'acquiter vers vous.
+Quoy qu'Eumene…
+
+Ce rare et grand effort d'une vertu⁎ sublime
+De l'Univers entier vous asseure l'estime ;
+Mais, Seigneur, tant de biens sont pour moy superflus
+Si vous devant beaucoup je n'obtiens encor plus.
+Quand voulant entre nous voir la guerre finie
+Vous brisastes mes fers dans votre Bithynie,
+Déja depuis long temps charmé dans cette Cour
+J'estois moins Prisonnier de guerre que d'Amour.
+Deux beaux yeux en secret captivoient ma franchise⁎.
+J'avois, j'avois trop veu l'incomparable Elise.
+
+      Oüy, je l'aime, Seigneur,
+L'absence ny le temps n'ont pû changer mon cœur,
+Et si de vostre appuy j'ose flater mon ame
+Je puis me tenir seur du succez de ma flame.
+Le fameux Annibal receu dans vos Estats
+Si vous estes pour moy ne vous dédira pas.
+Contre ses Ennemis vous luy prestez retraite⁎,
+Et dans l'incertitude⁎ où ce besoin le jette,
+Deux Rois pourront tenir son Destin affermy
+S'il en a l'un pour Gendre, et l'autre pour amy.
+
+Aussi ne suis-je pas assez vain pour prétendre
+Qu'Annibal dust me suivre en m'acceptant pour Gendre,
+Content de posseder un Objet plein d'appas
+Je le verray, Seigneur, vivre dans vos Estats.
+Ainsi le retenant vous pouvez sans scrupule…
+
+      Ah, Seigneur, je luy cede,
+Quoy qu'Elise à mes yeux fasse briller d'appas,
+Si le Prince y prétend…
+
+Seigneur, vous apprendrez le succez qu'ils auront.
+
+Qu'obtiendra mon respect⁎ ? vous le voyez, Madame,
+Je viens mettre à vos pieds mon espoir et ma flame,
+Si l'une a sceu borner mon espoir le plus doux
+Je ne puis consentir à l'autre malgré vous,
+Et du plus heureux sort je fuirois l'asseurance
+S'il coustoit à vos vœux⁎ la moindre violence,
+Ainsi quoi qu'Annibal m'ait permis d'esperer…
+
+Que Rome à sa fierté jamais m'assujetisse !
+Que mon cœur se ravale à s'en faire complice,
+Et qu'assis sur ce Trône où j'aspire à vous voir
+Je m'y laisse ébloüir⁎ d'un tiltre sans pouvoir !
+Madame, jugez mieux de l'ardeur qui m'enflame,
+L'orgueil d'un si beau feu répond d'une belle ame,
+Et l'honneur de prétendre à vos divins appas
+Dans qui vous ose aimer ne souffre⁎ rien de bas.
+Ainsi ne craignez point qu'aucune dépendance
+Me fasse démentir les droits de ma naissance.
+De l'éclat de mon rang ce cœur vrayment jaloux,
+S'il doit prendre des loix, n'en prendra que de vous.
+Sur lui, sur ses desirs, il vous fait souveraine,
+C'est un Roy fier, hautain, dont vous estes la Reyne,
+Mais lors qu'à vostre empire il se rend si soûmis,
+De grace, quel espoir lui laissez-vous permis ?
+Croira-t'il qu'une ardeur et si tendre et si forte,
+Touche assez vos desirs…
+
+Ah, que plûtost sur moy le sort le plus funeste…
+
+Seigneur, de quel espoir puis-je enfin me flater ?
+Mon cœur vous est offert, venez-vous l'accepter,
+Et du grand Annibal ma flame obtiendra-t'elle
+Qu'une heureuse union soit le prix de mon zele ?
+
+Pour disposer de moy prens-je loy de personne ?
+Seigneur, j'en croy ma flame, et ne consulte plus.
+ 
+Je ne sçay pas, Seigneur, ce que l'on vous a dit,
+Mais ce que je vous dois m'asseure trop de gloire
+Pour souffrir⁎ que jamais j'en perde la memoire,
+Vous trouverez en moy toûjours un zele égal,
+Et si dans mes Estats je reçois Annibal,
+Comme j'agis par tout d'un cœur franc et sincere
+Ce n'est pas un secret que je cherche à vous faire.
+
+      Seigneur, donnez-moy vostre aveu⁎,
+Et l'hymen dés demain couronnera mon feu.
+
+Je connois mal, Seigneur, par où j'ay merité
+Un reproche si dur à ma fidelité.
+L'ardeur qui la soûtient le rend peu legitime,
+Je reçois Annibal, mais ce n'est pas un crime,
+Ou vers Rome par là si je noircis ma foy⁎,
+Croirez-vous Prusias moins coupable que moy ?
+D'Antiochus à peine il apprit la défaite
+Qu'à ce mesme Annibal il accorda retraite⁎,
+Le receut tout fumant de ce fameux débris⁎.
+Cependant⁎ ce qu'il fit blessa-t'il les esprits ?
+Vous parut-il suspect de pratiques secretes ?
+ 
+Ce zele si vanté dont vous estes jaloux
+N'est pas moins fort en moy qu'il pourroit l'estre en vous.
+Et quand vers Annibal ma parole m'engage
+Rome n'a pas plus lieu d'en prendre de l'ombrage⁎.
+
+Vous voyez toutefois qu'il y veut renoncer,
+Et que dans vostre foy⁎ le vif éclat qui brille
+Ne sçauroit…
+
+Je n'avois pas préveu que contre le Senat
+Disposer de mon cœur deust estre un attentat.
+Pour Elise, il est vray, l'amour me sollicite,
+Mais dequoy m'accuser lors que je vous imite ?
+
+Non, Seigneur, ce soupçon ne tombe point sur vous,
+L'hymen vous sieroit mal, et dans l'âge où vous estes
+Aux tendres passions peu d'ames sont sujettes,
+Mais lors que d'Annibal vous vous fistes l'appuy
+Vous vouliez seulement vous asseurer de luy,
+Prévenir ce qu'ailleurs il pouvoit entreprendre ?
+Par un zele aussi pur je veux estre son Gendre,
+Et l'empescher de mettre en de mauvaises mains
+Un dépost dont la garde est utile aux Romains.
+
+Touchant quelque hauteur qui semble me confondre
+Je laisse à Prusias le soin de vous répondre,
+Seigneur, ce qu'il dira sera d'un plus grand poids.
+Il a part au mépris que vous faites des Roix,
+Et comme dés longtemps il sçait ce que demande
+La majesté du rang qu'il est beau qu'il défende,
+Il sçaura contre vous soustenir mieux que moy
+Et la splendeur du Trône, et le tiltre de Roy.
+Au regard d'Annibal, et de l'Hymen d'Elise,
+Advoüant mon amour j'ay montré ma franchise⁎,
+Et s'il doit m'attirer les foudres du Senat
+Vous m'en donnez l'avis, j'en attendray l'éclat,
+Voyez bien seulement si j'en paroistray digne.
+
+      Seigneur, je connois mon devoir,
+Et ce que j'ay pensé…
+
+Cet heureux changement a dequoy me surprendre.
+Seigneur, à mon amour vous daignez donc vous rendre,
+Confier Annibal et sa haine à ma foy⁎ ?
+
+Seigneur, j'aime la gloire, et c'est assez vous dire.
+
+Veniez-vous à dessein de luy rendre visite ?
+Vous n'auriez qu'à le suivre, il peut la recevoir.
+
+Un projet, grand, illustre, et des plus importants,
+Et que je vous diray quand il en sera temps.
+
+Il est vray qu'aimant Rome au point que vous l'aimez
+Vous prendrez part à l'heur qui tient mes sens charmez,
+Flaminius d'abord⁎ m'a traité de rebelle,
+Mais enfin le voulant convaincre de mon zele,
+J'ay sceu si bien entrer dans tous ses interests
+Que par l'hymen d'Elise il comble mes souhaits.
+ 
+      Oüy, que j'épouse Elise,
+Vous en voyez ma joye, envain je la déguise,
+Mes yeux la font paroistre.
+
+Il n'est vers le Senat aucun refus sans crime,
+Quoy qu'il veuille exiger il rend tout legitime ;    
+Et puis, pour un Objet où brillent mille appas,
+Quand l'amour est pressant, que ne feroit-on pas ?
+
+      Que voulez-vous, Seigneur, j'ay le cœur tendre,
+Et n'ay pas tant vescu qu'on doive présumer
+Que déja je me fasse une honte d'aimer.
+
+Ce genre de prudence est un effet de l'âge,
+Et jeune, et plein d'amour, au point où je me voy,
+Peut-estre seriez-vous aussi foible que moy.
+
+Vous estes hors d'estat de me le faire croire,
+Mais puis-je de la mienne asseurer mieux l'éclat
+Qu'à ne pretendre rien sans l'adveu⁎ du Senat ?
+
+Selon l'occasion on peut changer sans honte.
+
+Songez-vous bien, Seigneur, que vous vous emportez,
+Et que d'autres que moy soupçonneroient peut-estre
+Que vostre cœur n'est pas tout ce qu'il veut paroistre.
+
+Voyez l'Ambassadeur, j'entre chez Annibal.
+ 
+      Ah, Madame, je jure
+Qu'on me fera…
+
+Quoy, me tenir suspect, moy qui…
+
+Saisi d'étonnement⁎, je n'ay que le silence
+Qui puisse contre vous prouver mon innocence,
+Il en devroit bien estre un témoin asseuré,
+Si j'estois criminel je viendrois preparé.
+Flaminius changé m'accorde ce que j'aime,
+Son adveu⁎ vous surprend, il me surprend moy-mesme,
+Et je penetre mal par quels soins⁎ dés demain
+Il me presse à ses yeux de vous donner la main ;
+Mais ces fausses couleurs qui me peignent coupable
+Sont de quelque Ennemy le trait inévitable,
+Et pour me donner lieu de soupçonner sa foy⁎
+Prusias s'est assez declaré contre moy.
+Il ne sçauroit souffrir⁎ que mon amour obtienne
+Que vous quittiez sa Cour pour venir dans la mienne
+Seigneur, et je crains bien que son chagrin jaloux
+Feignant tout contre moy, n'ose tout contre vous.
+Non qu'on m'en ait rien dit, mais d'un crime semblable
+Voyez qui de nous deux seroit le plus capable.
+Tandis qu'au vain orgueil de ses chers Favoris
+Sa lâche Politique ose immoler son Fils,
+Malgré Flaminius pour vous je me declare,
+J'attens sans m'ébranler les foudres qu'il prépare,
+Et fais que Rome enfin, toute fiere qu'elle est,
+Se sousmet à ma flame, et veut ce qui me plaist.
+
+Ah, Seigneur, qui pourroit avoir le cœur si bas…
+
+Dites, dites plutost que mon espoir est vain,
+Que vous me soupçonnez pour m'oster vostre main,
+Et que des feux plus doux l'emportant sur ma flame…
+
+Les Romains nous surprendre !
+
+Madame, les effets me vont faire connoistre,
+Je voy la trahison, et trouveray le traistre,
+Vous verrez si mon cœur sous Rome est asservy.
+Heureusement, Seigneur, ma Garde m'a suivy.
+Dans cet Apartement elle m'a fait escorte,
+Je vay l'encourager à nous prester main forte,
+Et j'atteste les Dieux qu'en ce pressant danger,
+Je periray moi-mesme, ou sçauray vous vanger.
+
+Madame, craignons tout, c'est peu qu'on vous trahisse,
+De ses pieges sur moy Rome étend l'artifice,
+Et ma Garde seduite, au lieu de m'écouter,
+Me fermant le passage, a voulu m'arrester⁎,
+Je me le suis ouvert malgré sa resistance,
+J'ay rejoint Annibal, embrassé sa défence,
+Mais j'ay bientost connu que contre les Romains,
+Trahis de toutes parts, nos efforts estoient vains.
+Ceux qui l'environnoient, quoy qu'il en dust attendre,
+Le livroient bien plûtost qu'ils ne l'osoient défendre,
+Ils m'ont mis hors d'estat de le plus seconder,
+Et le voyant au nombre obligé⁎ de ceder,
+Contre les noirs complots d'une jalouse envie
+Je suis icy venu vous apporter ma vie ;
+Disposez-en, Madame, et pour vous secourir
+Servons-nous des moyens qui se pourront offrir,
+J'ose tout entreprendre, et puisque je vous aime…
+
+D'un reproche si dur l'injustice m'étonne⁎.
+J'abandonne, il est vray, mais quand on m'abandonne,
+Et je rendray bientost vostre esprit éclaircy,
+Si c'est pour m'épargner que je parois icy.
+
+Gardez qu'à vos dépens vous le puissiez connoistre,
+Si la trahison plaist on abhorre le Traistre,
+Et pour gouster le fruit de vos desseins jaloux,
+Tout mon sang à verser est de l'employ pour vous.
+
+Ouy, le sang d'Annibal doit estre défendu,
+Mais de ses Défenseurs on sçait qui l'a vendu.
+
+C'est trop, c'est trop souffrir⁎ qu'un Perfide se cache.
+Vous l'allez voir ce cœur qui vous a paru lâche,
+Et juger qui de nous par son manque de foy⁎
+Meritoit les soupçons qui sont tombez sur moy.
+A quel titre, à quel droit vos jalouses envies
+Vous peuvent-elles rendre arbitres de nos vies,
+Et qui vous fait ainsi selon vostre interest
+Disposer de nos jours quand et comme il vous plaist ?
+Est-ce par l'amitié que le Senat me garde
+Que vous avez pris soin de corrompre ma Garde,
+Et les plus noirs forfaits, à vous seuls reservez⁎,
+Deviennent-ils permis quand vous les approuvez ?
+Quels droits sur ce beau sang que l'on vient de vous vendre,
+Celuy qui vous le vend avoit-il à pretendre ?
+Ce que jamais sans vous il n'eust sacrifié,
+L'a-t'il pû par l'honneur d'estre vostre allié ?
+Honneur injurieux ! captieuse Alliance !
+J'y renonce, et d'Elise entreprens la défence,
+Point d'autres loix pour moy que son ressentiment.
+
+La Majesté des Rois toûjours brillante et pure
+N'a ny vos volontez ny le temps pour mesure,
+Et qui l'est un moment, doit contre vos souhaits
+Prendre assez de fierté pour n'obeïr jamais.
+
+Eumene !
+
+Faites, faites regner un Fantosme en ma place,
+Je vous fais peur au Trône, il faut que l'on m'en chasse ;
+Je vous l'avois bien dit, et voila de leurs coups,
+Je suis trahy, Madame, et trahy plus que vous,
+Mais pour vous et pour moy je vay faire connoistre
+Que je sçay mieux punir que seconder un Traistre.
+
+
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_annibal
+
       J'apprens que vous allez à Rome,
 Prince.
-
--*who_elise
-      Rompez, Seigneur, cet injuste projet.
-De sa hayne par vous les Romains sont l'objet.
-Laisseriez-vous ainsi détruire vostre ouvrage ?
-
--*who_annibal 
+ 
 J'ay d'asseurez moyens de rompre ce voyage,
 Ne vous alarmez point.
 
--*who_elise
-      Ah, je le jugeois bien,
-Que si…
-
--*who_annibal
       Laissez-nous seuls, et n'apprehendez rien.
 
-**** *book_ *id_II04 *act_II *date_1669 *creator_corneille
-
--*who_nicomede
-Seigneur, n'enviez point à ma reconnoissance
-La gloire d'un depart qui fait vostre asseurance,
-Et souffrez⁎ qu'en aveugle obeïssant au Roy
-Je cherche à m'acquiter de ce que je vous doy.
-A moins oser pour vous, je ferois mal connoistre
-L'heureux fruit des leçons de mon illustre Maistre,
-Et que c'est sous luy seul que l'on peut à son choix
-Apprendre les vertus⁎ les plus dignes des Rois.
-
--*who_annibal
 Si mes foibles avis ont eu l'heur de vous plaire,
 Ce me doit estre, Prince, une gloire trop chere
 Pour pouvoir consentir que mes fiers Ennemis
 Me dérobent l'effet que je m'en suis promis.
 Vous n'irez point à Rome.
 
--*who_nicomede
-      Ah, Seigneur, prenez garde…
-
--*who_annibal
 Ne vous alarmez point de ce qui me regarde,
 Je sçay par où je puis tourner l'esprit du Roy,
 J'en répons.
 
--*who_nicomede
-      Mais, Seigneur…
-
--*who_annibal
       De grace, écoutez-moy.
 J'eus toujours pour vous, Prince, une tendresse extrême,
 Et vous considerant comme un autre moy-mesme,
@@ -919,18 +946,6 @@ Ainsi vous n'aurez plus à leur servir d'ostage,
 Et mon depart rompant un ordre rigoureux
 Vous laissera paisible, et Prusias heureux.
 
--*who_nicomede
-Vous perdre est un malheur que merite mon Pere,
-Mais sçavez-vous, Seigneur, ce que vous allez faire ?
-Je meurs par cet hymen s'il se doit achever,
-Et vous m'assassinez en me voulant sauver,
-Ah, pourquoy si long-temps ma trop timide⁎ flame
-S'est-elle par respect⁎ renfermée en mon ame ?
-Mais quoy, mille devoirs, mille soins⁎ empressez,
-Mes soûpirs, mes langueurs, vous en ont dit assez,
-Combien m'avez-vous veu pour la charmante Elise…
-
--*who_annibal
 Oüy, Prince, il ne faut point que je vous le déguise,
 J'ay connu vostre amour, et comme il m'a fait voir
 Que ma haine pour Rome a sur vous plein pouvoir,
@@ -939,17 +954,6 @@ J'en voudrois de mon sang reconnoistre le zele,
 Mais quoy que pour vos feux il puisse m'inspirer,
 Vous me connoissez trop pour en rien esperer.
 
--*who_nicomede
-Pour en rien esperer ! Ah, Seigneur, par quel crime
-Ay-je pû meriter de perdre vostre estime ?
-A quoy que vos souhaits puissent estre attachez
-N'avez-vous pas en moy tout ce que vous cherchez ?
-Trouverez-vous ailleurs une ame plus fidelle ?
-Plus de respect pour vous, plus d'ardeur, plus de zele,
-Et si de vostre haine il faut prendre la loy,
-Detester vos Tyrans, qui les hait plus que moy ?
-
--*who_annibal
 Je dois vous l'avouër ; j'ay beau chercher une ame
 Que du solide honneur l'interest seul enflame,
 Ce n'est qu'abaissement dans tout ce que je vois,
@@ -991,60 +995,17 @@ Triompher d'une haine à ce point affermie,
 Et faire negliger à ses transports mourants
 L'heureuse occasion d'abaisser mes Tyrans.
 
--*who_nicomede
-Eh, pleust aux Dieux, Seigneur, que pour flater ma peine
-Vous connussiez l'amour aussi-bien que la haine,
-Ou que vous jugeassiez de cette passion
-Par les brulants transports de vostre aversion !
-Vous verriez une force égale en l'un et l'autre,
-Que mon cœur n'est pas moins enflamé que le vostre,
-Et que les tendres feux qu'il renferme au dedans,
-Pour estre un peu plus doux, n'en sont pas moins ardents.
-Vous verriez que ce cœur ne vit que pour Elise,
-Qu'il immole à ses pieds repos, gloire, franchise⁎,
-Et… pardonnez, Seigneur, à ce transport jaloux,
-J'ay pensé dire encore, tout ce qu'il sent pour vous.
-Non, non, quelques rigueurs dont vous payiez mon zele,
-Ne craignez rien de moy, je vous seray fidelle,
-Et periray plûtost que de rendre suspect
-Ce qu'au grand Annibal j'ay juré de respect⁎.
-Trop heureux, si mourant pour ne luy pas déplaire,
-J'apprens qu'il daigne plaindre un feu qu'il desespere,
-Et voir dans ce moment d'un regard de pitié
-Ce que par moy l'amour immole à l'amitié.
-
--*who_annibal
 Ah, Prince, c'en est trop, cachez-moy tant de zele,
 Ma haine à vous ouïr déja presque chancelle,
 Et jamais les Romains pour fléchir mon couroux
 N'eurent un Partisan plus à craindre que vous.
 
--*who_nicomede
-Vostre haine pour eux ne peut estre assez fiere,
-Je ne l'attaque point, gardez-la toute entiere,
-Mais si vous ne cherchez à me priver du jour
-Suspendez-en l'effet en faveur de l'amour.
-Flaminius nous quitte, et Prusias peut-estre
-N'attend que son départ pour se faire connoistre,
-Pour vous laisser de Rome affranchir son Estat.
-
--*who_annibal
 Et c'est dans ce dessein qu'il vous livre au Senat ?
 Je veux bien luy parler, et d'un honteux voyage
 Par mes soins⁎, s'il se peut, vous épargner l'outrage,
 Je puis remettre Attale, et n'engager ma foy⁎
 Qu'aprés que Prusias… laissez-nous, je le voy.
-
-**** *book_ *id_II05 *act_II *date_1669 *creator_corneille
-
--*who_prusias
-Et bien, Seigneur, enfin me rendrez-vous justice ?
-Ay-je fait aux Romains un honteux sacrifice,
-Et leur Flaminius que j'éloigne de nous
-Vous répond-il assez que mon cœur est à vous ?
-Vous restez dans ma Cour, et je vous tiens parole.
-
--*who_annibal 
+ 
 Je voy qu'il s'est flaté d'une attente frivole,
 Et vous dois d'autant plus, Seigneur, qu'en vain par luy
 Rome a tout employé pour m'oster vostre appuy.
@@ -1081,13 +1042,6 @@ Que vous mettez demain le Prince en leur puissance,
 Ou par quelque dessein dont nous verrons l'éclat,
 Va-t'il comme Espion amuser⁎ le Senat ?
 
--*who_prusias
-Jugez par là, Seigneur, si mon zele est extréme.
-Je cherche à détourner vos malheurs sur moy mesme,
-Et pour vous soustenir contre vos ennemis,
-Me garder tout à vous, je leur livre mon Fils.
-
--*who_annibal
 Et pourquoy vous sousmettre à l'affront volontaire
 De recevoir la loy quand vous la pouviez faire ?
 Toute l'Asie émeuë⁎, et presque sous vos loix
@@ -1103,31 +1057,6 @@ Il falloit les tenir les armes à la main.
 Où pourrez vous jamais pour vanger vos outrages
 Recouvrer à la fois de pareils avantages ?
 
--*who_prusias
-Ils estoient grands sans doute avec un tel secours,
-Mais pour esperer vaincre on ne vainc pas toûjours,
-Souvent l'occasion y fait plus que le nombre.
-Les plus grands corps, Seigneur, produisent le plus d'ombre.
-Et si faisant la paix j'ay rendu des Estats,
-Voyez si j'avois lieu de ne le faire pas.
-Je voyois en Syrie, en Macedoine, en Grece,
-Les Peuples abatus, tremblans, pleins de foiblesse,
-Philippe estoit défait, Antiochus détruit,
-Et par tout les Romains triomphoient à grand bruit.
-De tant d'heureux succez leurs legions trop fieres
-Cherchoient à leurs exploits de nouvelles matieres,
-Et si j'eusse trop haut porté le nom de Roy
-Toutes se ramassant alloient fondre sur moy.
-Seul à tant d'Ennemis ne pouvant faire teste
-Par une fausse paix j'écarte la tempeste ;
-Pour trouver les Romains à vaincre plus aisez
-J'attens par quelque guerre à les voir divisez,
-Cependant⁎ du Sénat dont je crains la puissance
-Luy commettant⁎ mon Fils, j'acquiers la confiance,
-Pour voir Attale à moy je le rends mon égal,
-Fais des Amis par tout, et retiens Annibal.
-
--*who_annibal
 Ces projets déguisez dont vostre ame est charmée
 Marquent une prudence et rare et consommée ;
 Mais pardonnez, Seigneur, si je ne puis cacher
@@ -1152,14 +1081,6 @@ Mon depart laissera le Prince en asseurance,
 Ma haine en liberté, Rome sans défiance⁎.
 Ainsi souffrez⁎, Seigneur…
 
--*who_prusias
-      Vouloir quitter un Roy
-Qui ne reserve⁎ rien pour vous prouver sa foy⁎,
-Qui vous fait partager la puissance suprême,
-Respecter⁎ dans sa Cour à l'égal de luy-mesme,
-Et pour vostre repos…
-
--*who_annibal
       C'est me connoistre mal.
 Quoy, parler de repos pour moy, pour Annibal ?
 Instruit de ses travaux, avez-vous lieu de croire
@@ -1181,110 +1102,7 @@ Le Prince doit partir, les ordres sont receus,
 Faites les revoquer, ou sans vous en plus dire
 Chez Attale demain, Seigneur, je me retire,
 J'attens vostre réponse, et vous laisse y resver.
-
-**** *book_ *id_II06 *act_II *date_1669 *creator_corneille
-
--*who_prusias
-A quoy le Ciel encor me veut-il reserver⁎ ?
-Pour garder Annibal en faveur de ma flame,
-J'ose exiler mon Fils, j'en accepte le blâme,
-Et contre mon attente, un interest fatal,
-Si j'éloigne ce Fils fait partir Annibal.
-Voyons Flaminius, l'infortune est égale,
-J'ai parlé contre un Fils, parlons-lui contre Attale,
-Et ménageons si bien l'éclat de son couroux,
-Qu'Annibal soit reduit à n'esperer qu'en nous.
-
-**** *book_ *id_III01 *act_III *date_1669 *creator_corneille
-
--*who_attale
-Qu'obtiendra mon respect⁎ ? vous le voyez, Madame,
-Je viens mettre à vos pieds mon espoir et ma flame,
-Si l'une a sceu borner mon espoir le plus doux
-Je ne puis consentir à l'autre malgré vous,
-Et du plus heureux sort je fuirois l'asseurance
-S'il coustoit à vos vœux⁎ la moindre violence,
-Ainsi quoi qu'Annibal m'ait permis d'esperer…
-
--*who_elise
-Vous l'avez déja veu, faites-le declarer,
-Seigneur, ses ordres seuls reglent ma destinée,
-Et sur les interests de ce grand hymenée,
-Pourveu que ses desirs vers vous puissent pancher,
-Ma joye ou mon chagrin vous doivent peu toucher.
-Voyez bien seulement avant que d'y pretendre
-Si vous vous connoissez digne d'estre son Gendre.
-Il n'est rien de plus fier que le sang d'Annibal,
-S'il monte sur le Trône il obeïra mal,
-Et vos Maistres du Monde à qui les Rois déferent
-S'ils pensent l'asservir, n'ont pas ce qu'ils esperent.
-Là suivant de mon sort l'orgueilleux ascendant
-Ils me verront porter un cœur indépendant,
-Un cœur resolu, ferme, et capable peut-estre
-De haïr un Epoux s'il enduroit un Maistre.
-Ne vous exposez point à l'affront de me voir
-Maintenir malgré vous le suprême pouvoir,
-Et si vous vous sentez et l'ame et le courage⁎
-Par de basses frayeurs tournez à l'esclavage,
-Renoncez à des nœuds qui pourroient vous trahir
-Jusqu'à vous dérober la honte d'obeïr.
-
--*who_attale
-Que Rome à sa fierté jamais m'assujetisse !
-Que mon cœur se ravale à s'en faire complice,
-Et qu'assis sur ce Trône où j'aspire à vous voir
-Je m'y laisse ébloüir⁎ d'un tiltre sans pouvoir !
-Madame, jugez mieux de l'ardeur qui m'enflame,
-L'orgueil d'un si beau feu répond d'une belle ame,
-Et l'honneur de prétendre à vos divins appas
-Dans qui vous ose aimer ne souffre⁎ rien de bas.
-Ainsi ne craignez point qu'aucune dépendance
-Me fasse démentir les droits de ma naissance.
-De l'éclat de mon rang ce cœur vrayment jaloux,
-S'il doit prendre des loix, n'en prendra que de vous.
-Sur lui, sur ses desirs, il vous fait souveraine,
-C'est un Roy fier, hautain, dont vous estes la Reyne,
-Mais lors qu'à vostre empire il se rend si soûmis,
-De grace, quel espoir lui laissez-vous permis ?
-Croira-t'il qu'une ardeur et si tendre et si forte,
-Touche assez vos desirs…
-
--*who_elise
-      Seigneur, que vous importe ?
-Si jamais vous avez le nom de mon Epoux,
-Je connois mon devoir, et c'est assez pour vous.
-Sans égard à l'amour, de pareils hymenées
-Ne font que décider des grandes Destinées,
-Et quand on voit par où bien remplir ce qu'on est,
-Aimer ou n'aimer pas est un foible interest.
-Il faut se mettre au rang des ames trop communes
-Pour laisser à l'amour balancer les Fortunes,
-Et les charmes secrets qui suivent ses langueurs
-Sont des abaissements indignes des grands cœurs.
-Le mien les connoit peu ; qu'Annibal vous choisisse,
-Que de ma main pour vous il fasse un sacrifice,
-Ce cœur fera soudain vanité d'obeïr,
-Mais bien moins pour aimer qu'afin de mieux haïr,
-C'est le seul interest où ma gloire m'engage,
-Voir un Roy craindre Rome irrite mon courage⁎,
-Et l'Espoux me plaira, dont l'intrepidité
-M'offrira les moyens d'en braver la fierté.
-
--*who_attale
-Ah, que plûtost sur moy le sort le plus funeste…
-
--*who_elise
-J'aperçois Annibal, vous lui direz le reste.
-
-**** *book_ *id_III02 *act_III *date_1669 *creator_corneille
-
--*who_attale
-Seigneur, de quel espoir puis-je enfin me flater ?
-Mon cœur vous est offert, venez-vous l'accepter,
-Et du grand Annibal ma flame obtiendra-t'elle
-Qu'une heureuse union soit le prix de mon zele ?
-
--*who_annibal 
+ 
 Il doit m'estre bien doux de voir que mon malheur
 A mes Amis pour moi laisse tant de chaleur.
 D'un Prince tel que vous l'alliance m'honore,
@@ -1297,96 +1115,29 @@ Voyez Flaminius ; sur ce qu'il vous dira
 Peut-estre en vostre cœur l'amour s'allentira⁎.
 Le grand nom d'Allié que le Senat vous donne…
 
--*who_attale
-Pour disposer de moy prens-je loy de personne ?
-Seigneur, j'en croy ma flame, et ne consulte plus.
-
--*who_annibal
 Vous vous expliquerez⁎, voicy Flaminius.
 
-**** *book_ *id_III03 *act_III *date_1669 *creator_corneille
-
--*who_flaminius
-Seigneur, par le pouvoir qu'on m'a daigné commettre⁎
-Jusques dans vos Estats j'aurois dû vous remettre,
-Mais je vous voy partir trop bien accompagné
-Pour ne m'en croire pas le voyage épargné,
-Et sur ce que j'apprens j'aurois mauvaise grace
-De vous offrir encor un secours qui vous lasse,
-On vous a mis au Trône, et cela vous suffit.
-
--*who_attale 
-Je ne sçay pas, Seigneur, ce que l'on vous a dit,
-Mais ce que je vous dois m'asseure trop de gloire
-Pour souffrir⁎ que jamais j'en perde la memoire,
-Vous trouverez en moy toûjours un zele égal,
-Et si dans mes Estats je reçois Annibal,
-Comme j'agis par tout d'un cœur franc et sincere
-Ce n'est pas un secret que je cherche à vous faire.
-
--*who_flaminius
-Dans le sein de la guerre ayant toûjours vescu
-Il vous apprendra l'art de n'estre plus vaincu,
-Et quelques Ennemis qui pensent vous abatre
-Pour triompher d'abord⁎ vous n'aurez qu'à combatre.
-
--*who_annibal
 S'il n'apprend pas de moy l'art de vaincre aisément,
 Il apprendra celuy de fuir l'abaissement,
 Et de rester toûjours par un pouvoir suprême
 Maistre de son destin malgré le Destin mesme.
 
--*who_flaminius
-De si grandes leçons ont dequoy faire bruit,
-Le faste m'en plairoit, mais j'en craindrois le fruit,
-Et si je l'ose dire, Antiochus peut-estre
-Se seroit bien passé de vous avoir pour Maistre.
-
--*who_annibal
 Pour peu qu'en mes leçons il se fust affermy
 Il vous eust mis en teste un facheux Ennemy,
 Mais son insuffisance à les mettre en usage
 Vous a vendu sa gloire, et livré son courage⁎.
-
--*who_flaminius
-Leur pratique est en vous ce qu'il faut admirer,
-De Royaume en Royaume elle vous fait errer,
-Et chercher dans l'exil tout ce que l'on peut croire
-Que doive un grand courage⁎ au soucy de sa gloire.
-
--*who_annibal 
+ 
 Cet exil qui déja m'a fait voir tant d'Estats
 Vous couste quelques soins⁎ que vous ne dites pas,
 Et pour tenir vostre ame en tous lieux alarmée,
 C'est beaucoup d'Annibal, et mesme sans armée.
 
--*who_flaminius
-On doit craindre en effet le bonheur⁎ qui le suit,
-Mais faites-moy raison, Seigneur, d'un autre bruit,
-On dit que vous songez à faire Elise Reyne.
-
--*who_annibal
 Que ma presence n'ait, Seigneur, rien qui vous gesne⁎,
 Vous sçavez que…
 
--*who_attale
-      Seigneur, donnez-moy vostre aveu⁎,
-Et l'hymen dés demain couronnera mon feu.
-
--*who_annibal
 Vous voyez que malgré les malheurs qu'on m'oppose
 L'honneur d'estre mon Gendre est encor quelque chose.
 
--*who_flaminius
-Attale a fait sans doute un choix bien glorieux,
-Mais s'il m'en vouloit croire il y penseroit mieux.
-Seigneur, souvenez-vous que si vous estes Maistre
-Rome hait les ingrats, et le fera connoistre,
-Vous pouvez là-dessus écouter vostre amour,
-Prenez pour y songer le reste de ce jour,
-Pour ne vous perdre pas ma bonté vous le donne.
-
--*who_annibal
 Pour moy, j'ignore l'art de contraindre personne,
 Et sans m'inquieter⁎ de ce qu'il resoudra
 Je luy laisse à son choix tout le temps qu'il voudra.
@@ -1395,99 +1146,146 @@ Il craindra peu l'affront de trahir sa naissance,
 Et que jamais l'exil d'un homme tel que moy
 N'aura rien dont l'éclat fasse rougir un Roy.
 
--*who_flaminius
-Vous avez le cœur haut, le bel orgueil y regne.
-
--*who_annibal
 Assez pour empescher qu'aucun Roy ne vous craigne,
 Et si de Prusias mes conseils sont suivis
 Rome attendra long-temps qu'il vous livre son Fils.
 Le voir trop s'abaisser sous vostre tyrannie
 Est tout ce qui me peut chasser de Bithynie.
 
-**** *book_ *id_III04 *act_III *date_1669 *creator_corneille
-
--*who_annibal
 Parlez, Seigneur, enfin qu'avez-vous resolu ?
 Vostre Rome aura-t'elle un pouvoir absolu ?
 Obligez-vous⁎ le Prince à faire le voyage ?
 
--*who_prusias
-La paix qu'elle nous donne à ce devoir m'engage,
-Mon Fils d'un tel honneur a lieu d'estre jaloux.
-
--*who_annibal
 Il me suffit ;
       Demain je parts avecque vous,
 Seigneur, deliberez, vous avez ma réponse.
 
-**** *book_ *id_III05 *act_III *date_1669 *creator_corneille 
+C'est trop voir le Destin confondre mon attente,
+Il est temps de fixer vostre fortune errante,
+Ma Fille, et qu'un Epoux par le don de sa foy⁎
+Vous dérobe aux malheurs que je traisne avec moy.
+Il vous faut du repos, Attale vous l'asseure,
+Du sort qui me poursuit j'en craindray moins l'injure,
+Et croiray triompher de ses plus rudes coups
+Si j'empesche par là qu'ils n'aillent jusqu'à vous.
 
--*who_flaminius
+Ouy, Seigneur, c'est envain qu'on voudroit me surprendre,
+Je fais un digne choix en vous prenant pour Gendre,
+Et ces grands sentiments vous mettent au dessus
+Des odieux soupçons que ma Fille a conçeus.
+Mesme de Prusias je crains peu la surprise,
+Il peut vouloir me perdre, en former l'entreprise,
+Dans ce lâche projet se montrer affermy,
+Mais le Ciel me reserve⁎ un plus noble Ennemy.
+Il ne m'a pas sauvé des Tyrans que je brave
+Pour me laisser perir aux mains de leur Esclave,
+Et souffrir⁎ qu'un Parjure au mépris de sa foy⁎
+M'ose faire un destin si peu digne de moy.
+Il sçait ce qu'il me doit, et s'il avoit pû croire
+Que Rome eust merité l'éclat de tant de gloire,
+Il eust sçeu de ma perte honorer les grands noms,
+Prendre les Fabius, choisir les Scipions.
+Moy seul je puis pretendre à cet honneur supréme,
+Et pour perdre Annibal il faut Annibal mesme.
+
+Le temps nous est trop cher pour le perdre en paroles,    
+Sans trop chercher l'Autheur de cette trahison,
+Il faut malgré le Sort, nous en faire raison.
+Par une belle audace, estonnons⁎ des Perfides,
+Allons au devant d'eux, les Traistres sont timides⁎.
+Et pour épouvanter leur lâche General
+Peut-estre il ne faudra que montrer Annibal.
+Au moins s'il faut perir, en leur vendant ma vie,
+Faisons-les souvenir de Cannes, de Trebie.
+Vous, demeurez, ma Fille, et retenez vos pleurs,
+C'est du sang qu'il nous faut en de pareils malheurs.
+Vivez, et s'il vous peut estre honteux de vivre,
+Vous aurez mon exemple, apprenez à le suivre.
+
+      Ouy, que le Ciel ramene,
+Pour vous faire encor mieux heriter de ma haine.
+De nos mauvais destins si vous venez à bout,
+Voicy le bras, ma Fille, à qui vous devrez tout.
+
+Elle doit à vos yeux estre d'autant plus chere
+Que l'on voit chaque jour que Rome degenere.
+Pyrrus armant contre elle un dangereux party,
+D'un poison préparé fut par elle adverty.
+Quelque animosité qu'elle se crust permise
+Elle n'en voulut point triompher par surprise,
+Cependant⁎ aujourd'huy le crime est de ses droits,
+Et pour perdre Annibal, elle corrompt les Rois.
+
+C'est trop, il ne faut plus que vostre amour se cache,
+Le Prince vous merite, il est enfin sans tache,
+Prenez-le pour Epoux, et dans tous vos desseins
+Ayez pour seul objet la perte des Romains.
+Aprés un trop long faste un jour viendra peut-estre
+Où ces Tyrans du monde adoreront un Maistre,
+Et tremblant sous le joug qu'ils m'osoient destiner
+Se sousmettront aux loix qu'ils n'ont pu me donner.
+Puissent-ils, attendant ce honteux esclavage,
+Tourner contre leur sein leur plus sanglante rage,
+Se déchirer l'un l'autre, et d'un acier fatal
+Eux-mesmes s'immoler aux Manes d'Annibal.
+
+      Quoy, vous auriez pû croire
+Que j'eusse pris si peu l'interest de ma gloire,
+Qu'aux mains de mes Tyrans m'estant veu sans secours,
+Je leur eusse laissé quelque droit sur mes jours ?
+Cet anneau m'a fourny dequoy ne les pas craindre,
+Je meurs empoisonné.
+
+      Gardez de me plaindre,
+Avecque trop d'éclat j'ay sçeu remplir mon sort
+Pour vous donner sujet de regreter ma mort.
+Vivez pour haïr Rome, et maistres de vos vies,
+Si d'un jaloux destin elles sont poursuivies,
+Envisageant toûjours sa rigueur sans effroy,
+Bravez la Tyrannie, et mourez comme moy.
+
+
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flaminius
+
+Seigneur, par le pouvoir qu'on m'a daigné commettre⁎
+Jusques dans vos Estats j'aurois dû vous remettre,
+Mais je vous voy partir trop bien accompagné
+Pour ne m'en croire pas le voyage épargné,
+Et sur ce que j'apprens j'aurois mauvaise grace
+De vous offrir encor un secours qui vous lasse,
+On vous a mis au Trône, et cela vous suffit.
+
+Dans le sein de la guerre ayant toûjours vescu
+Il vous apprendra l'art de n'estre plus vaincu,
+Et quelques Ennemis qui pensent vous abatre
+Pour triompher d'abord⁎ vous n'aurez qu'à combatre.
+
+De si grandes leçons ont dequoy faire bruit,
+Le faste m'en plairoit, mais j'en craindrois le fruit,
+Et si je l'ose dire, Antiochus peut-estre
+Se seroit bien passé de vous avoir pour Maistre.
+
+Leur pratique est en vous ce qu'il faut admirer,
+De Royaume en Royaume elle vous fait errer,
+Et chercher dans l'exil tout ce que l'on peut croire
+Que doive un grand courage⁎ au soucy de sa gloire.
+
+On doit craindre en effet le bonheur⁎ qui le suit,
+Mais faites-moy raison, Seigneur, d'un autre bruit,
+On dit que vous songez à faire Elise Reyne.
+
+Attale a fait sans doute un choix bien glorieux,
+Mais s'il m'en vouloit croire il y penseroit mieux.
+Seigneur, souvenez-vous que si vous estes Maistre
+Rome hait les ingrats, et le fera connoistre,
+Vous pouvez là-dessus écouter vostre amour,
+Prenez pour y songer le reste de ce jour,
+Pour ne vous perdre pas ma bonté vous le donne.
+
+Vous avez le cœur haut, le bel orgueil y regne.
+
 C'est donc ainsi qu'Attale à ses Amis renonce ?
 
--*who_attale
-Je connois mal, Seigneur, par où j'ay merité
-Un reproche si dur à ma fidelité.
-L'ardeur qui la soûtient le rend peu legitime,
-Je reçois Annibal, mais ce n'est pas un crime,
-Ou vers Rome par là si je noircis ma foy⁎,
-Croirez-vous Prusias moins coupable que moy ?
-D'Antiochus à peine il apprit la défaite
-Qu'à ce mesme Annibal il accorda retraite⁎,
-Le receut tout fumant de ce fameux débris⁎.
-Cependant⁎ ce qu'il fit blessa-t'il les esprits ?
-Vous parut-il suspect de pratiques secretes ?
-
--*who_prusias
-Je ne condamne rien au projet que vous faites,
-Mais assez de couleurs pourroient le palier,
-Sans chercher mon exemple à vous justifier.
-Antiochus défait, Annibal pouvoit nuire,
-Trouver quelque autre Roy qui s'en laissast seduire,
-J'estois maistre en ma Cour de son ressentiment,
-Ainsi je le receus, mais sans attachement,
-Et l'on me voit pour Rome une foy⁎ trop sincere    
-Pour douter des motifs de ce que j'osay faire.
-
--*who_attale 
-Ce zele si vanté dont vous estes jaloux
-N'est pas moins fort en moy qu'il pourroit l'estre en vous.
-Et quand vers Annibal ma parole m'engage
-Rome n'a pas plus lieu d'en prendre de l'ombrage⁎.
-
--*who_prusias
-Son azyle estoit seur, vous l'y pouviez laisser.
-
--*who_attale
-Vous voyez toutefois qu'il y veut renoncer,
-Et que dans vostre foy⁎ le vif éclat qui brille
-Ne sçauroit…
-
--*who_prusias
-      Mais enfin vous épousez sa Fille ?
-
--*who_attale
-Je n'avois pas préveu que contre le Senat
-Disposer de mon cœur deust estre un attentat.
-Pour Elise, il est vray, l'amour me sollicite,
-Mais dequoy m'accuser lors que je vous imite ?
-
--*who_prusias
-Quoy l'on me voit pretendre au nom de son Espoux ?
-
--*who_attale
-Non, Seigneur, ce soupçon ne tombe point sur vous,
-L'hymen vous sieroit mal, et dans l'âge où vous estes
-Aux tendres passions peu d'ames sont sujettes,
-Mais lors que d'Annibal vous vous fistes l'appuy
-Vous vouliez seulement vous asseurer de luy,
-Prévenir ce qu'ailleurs il pouvoit entreprendre ?
-Par un zele aussi pur je veux estre son Gendre,
-Et l'empescher de mettre en de mauvaises mains
-Un dépost dont la garde est utile aux Romains.
-
--*who_flaminius
 J'ay voulu vous laisser par ces raisons frivoles
 Estaler vostre esprit et perdre des paroles.
 Mais enfin, moy present, et sans m'en consulter,
@@ -1513,32 +1311,6 @@ Accordez tout contre elle à vostre ingratitude,
 Le temps vous apprendra s'il vous estoit permis
 De vous unir contre elle avec ses ennemis.
 
--*who_attale
-Touchant quelque hauteur qui semble me confondre
-Je laisse à Prusias le soin de vous répondre,
-Seigneur, ce qu'il dira sera d'un plus grand poids.
-Il a part au mépris que vous faites des Roix,
-Et comme dés longtemps il sçait ce que demande
-La majesté du rang qu'il est beau qu'il défende,
-Il sçaura contre vous soustenir mieux que moy
-Et la splendeur du Trône, et le tiltre de Roy.
-Au regard d'Annibal, et de l'Hymen d'Elise,
-Advoüant mon amour j'ay montré ma franchise⁎,
-Et s'il doit m'attirer les foudres du Senat
-Vous m'en donnez l'avis, j'en attendray l'éclat,
-Voyez bien seulement si j'en paroistray digne.
-
-**** *book_ *id_III06 *act_III *date_1669 *creator_corneille
-
--*who_prusias
-N'espargnez point mon zele en ce peril insigne,
-Aprés deux ans d'azyle Annibal qui me fuit
-De ma fidelité me peut ravir le fruit,
-Vous troubler chez Attale ; et de cette entreprise
-J'empescherois le coup en retenant Elise,
-Parlez, et dans ma Cour je la fais arrester⁎.
-
--*who_flaminius
 Vostre amitié pour nous ne peut mieux éclater,
 Seigneur, et j'auray soin que Rome soit instruite
 Du procédé d'Attale, et de vostre conduite.
@@ -1546,14 +1318,6 @@ Mais vous défendrez-vous d'admirer avec moy
 Jusqu'où l'orgueil du Trône enfle ce jeune Roy ?
 Pour l'empescher d'aimer il n'est rien qui l'étonne⁎.
 
--*who_prusias
-On s'oublie aisément avec une Couronne,
-Il est jeune, et l'amour qu'anime la fierté
-Va plus loin quelquefois que l'on n'a projetté.
-Ainsi voyez, Seigneur, ce que Rome hazarde
-A souffrir⁎ qu'Annibal…
-
--*who_flaminius
       C'est à quoy je prens garde,
 Mais aussi je ne puis voir tout à coup perdus
 Les services qu'Attale au Senat a rendus.
@@ -1570,88 +1334,29 @@ A vouloir faire teste à la grandeur Romaine,
 Et sur cet hymenée où je le voy porté
 Sa foy⁎ nous répondra de sa sincerité.
 
--*who_prusias
-Quoi, vous consentiriez à luy donner Elise ?
-
--*who_flaminius
 C'est à quoy du Senat l'interest m'autorise.
 Ne pouvant éviter qu'elle prenne un Espoux,
 Si je refuse Attale, où le choisirons-nous ?
 Par qui mieux que par luy pouvoir s'asseurer d'elle ?
 
--*who_prusias
-Par moy, Seigneur, par moy dont vous sçavez le zele,
-Et qui tout au Senat ne puis voir sans rougir
-Que je parle, et qu'un autre ait la gloire d'agir.
-
--*who_flaminius
 Que dites-vous, Seigneur ?
 
--*who_prusias
-      Que pour vous estre utile
-Je voulus qu'Annibal chez moy trouvast azile,
-Et qu'avec mesme ardeur, du mesme esprit poussé,
-J'acheveray pour vous ce que j'ay commencé.
-J'épouseray sa Fille.
-
--*who_flaminius
       O digne effort d'un zele
 Qui ne cherchant que Rome immole tout pour elle !
 Vous forcer à l'Hymen ! vous m'en voyez surpris.
 
--*who_prusias
-Je sers la Republique, et j'en reçois le prix.
-
--*who_flaminius
 Non, non, elle doit trop à vos rares services
 Pour accepter de vous de pareils sacrifices.
 Quoy qu'Annibal impute à ses justes rigueurs,
 Elle se connoist mal à contraindre les cœurs.
 
--*who_prusias
-Le mien ne promet rien que ma foy⁎ n'accomplisse.
-
--*who_flaminius
 Un Hymen sans amour est un trop dur supplice.
 
--*who_prusias
-Jamais je n'en auray le moindre repentir,
-Et pourveu…
-
--*who_flaminius
       Non, Seigneur, je n'y puis consentir,
 Aux interests de Rome Attale peut suffire.
 
--*who_prusias
-Et bien, j'aime, Seigneur, puisqu'il faut vous le dire,
-Joüissez d'un aveu⁎ qu'il vous plaist d'arracher.
-
--*who_flaminius
 Vous aimeriez Elise, et l'auriez pû cacher ?
 
--*who_prusias
-Jugez par cet effort si je vous suis fidelle.
-Envain mes yeux cent fois m'ont dit qu'elle estoit belle,
-Envain mon cœur surpris en a crû sa langueur,
-J'ay fait taire mes yeux, j'ay démenty mon cœur,
-Et ce m'estoit assez pour chercher à le faire
-De songer qu'en aimant je pouvois vous déplaire ;
-Mais enfin aujourd'huy que vous me faites voir
-Que cet amour n'a rien qui blesse mon devoir,
-Et que par un motif que Rome favorise
-Je puis vous obliger⁎ en épousant Elise,
-Je rappelle des feux dont les charmes trop doux
-N'avoient esté bannis que par respect⁎ pour vous,
-Vostre interest soustient l'ardeur qui me consume,
-Luy seul l'avoit éteinte, et luy seul la rallume.
-Accordez donc, Seigneur, à mes brulants souhaits
-La gloire d'un hymen qui confirme la paix.
-Quelque flateur appas que mon amour y voye,
-Montrer mon zele à Rome est ma plus forte joye,
-Et j'atteste les Dieux qu'en un si grand projet
-Tout mon cœur est pour elle, et n'a point d'autre objet.
-
--*who_flaminius
 Apres tant de vertu⁎ Rome seroit ingrate
 Si vos feux n'obtenoient l'heureux prix qui les flatte.
 Elle vous l'abandonne, et quand sans balancer
@@ -1659,23 +1364,10 @@ Elle fait plus pour vous que vous n'osiez penser,
 Elle a quelque sujet d'esperer qu'un beau zele
 Vous fera faire aussi quelque chose pour elle.
 
--*who_prusias
-Luy devant tout, Seigneur, qu'aurois-je à refuser ?
-
--*who_flaminius
 Ainsi de vostre main vous pouvez disposer.
 Rome approuve l'ardeur dont vostre ame est éprise.
 Livrez nous Annibal, elle vous donne Elise.
 
--*who_prusias
-Vous livrer Annibal ! Ah, Seigneur, voulez-vous
-Me mettre en bute aux Dieux, m'attirer leur courroux ?
-Cent serments d'une foy⁎ sacrée, inviolable,
-De tant de trahison me laissent-ils capable ?
-Souffre-t'il⁎ que mon cœur ébloüy⁎ de ses feux
-Ose…
-
--*who_flaminius
       Et quoy, Prusias, vous estes scrupuleux ?
 Apprenez, apprenez pour solides maximes,
 Que qui sert le Senat ne peut faire de crimes,
@@ -1683,33 +1375,15 @@ Et que de mille horreurs un forfait revestu
 Quand il est fait pour luy doit passer pour vertu⁎ ;
 Que par tout cette gloire est la seule qu'on prise.
 
--*who_prusias
-Et par où cependant⁎ gagner le cœur d'Elise ?
-Mettre en vostre pouvoir ce qu'elle a de plus cher,
-Sera-ce le moyen, Seigneur, de la toucher ?
-Obtiendray-je par là que son amour s'explique⁎ ?
-
--*who_flaminius
 C'est ne voir guere loin pour un grand Politique.
 Sans livrer Annibal laissez-nous l'enlever,
 Envoyez apres nous comme pour le sauver,
 Flattez Elise ensuite, armez⁎ pour son offence,
 Et recevez sa main pour prix de sa vangeance.
 
--*who_prusias
-Maistres de tant de Roix, soûmis, obeïssants,
-Craignez-vous d'un vieillard les destins impuissants ?
-
--*who_flaminius
 Quoy, nous vous laisserons au pouvoir d'une femme
 Dont la haine à son gré sçaura tourner vostre ame ?
 
--*who_prusias
-Si cet hymen vous porte à soupçonner ma foy⁎,
-N'aurez-vous pas mon Fils qui répondra de moy ?
-Vous en puis-je donner un gage plus sincere ?
-
--*who_flaminius
 Non, si c'estoit un Fils que vous vissiez en Pere.
 Mais ce Fils aime Elise, et vos transports jaloux
 Le livrent aux Romains moins pour eux que pour vous.
@@ -1719,19 +1393,10 @@ Ainsi dans vostre Cour gardez vostre Rival,
 Nous vous rendons le Prince, il nous faut Annibal,
 Ce n'est qu'à ce prix seul que l'on obtient Elise.
 
--*who_prusias
-Me soüiller par l'horreur d'une telle entreprise ?
-
--*who_flaminius
 Ces scrupules sont beaux, mais craignez que pour nous
 Attale plus zelé n'en ait pas tant que vous,
 Il aime, et vos refus obligeront⁎ sa flame.
 
--*who_prusias
-Attale, quoy qu'il aime, a trop de fierté d'ame,
-Et bien loin que pour luy le crime ait quelque appas…
-
--*who_flaminius
 Son esprit m'est connu, ne vous y fiez pas,
 Je ne vous ay que trop observez l'un et l'autre.
 Son pouvoir en ce lieu se trouve égal au vostre,
@@ -1739,30 +1404,8 @@ Pareil nombre l'escorte, et pour ce grand dessein,
 Je voulois vostre bras, j'emprunteray sa main.
 Rome aprés, entre vous fera la difference.
 
--*who_prusias
-Adieu, Seigneur, je voy Procule qui s'avance,
-Consultez avec luy si mon zele et ma foy⁎
-Ne peuvent meriter que l'on me traite en Roy.
-
-**** *book_ *id_III07 *act_III *date_1669 *creator_corneille 
-
--*who_procule
-Seigneur, sur un secret d'une importance extréme
-Un Soldat Phrygien veut s'ouvrir à vous mesme.
-A trente pas d'icy je viens de le quitter.
-Il presse fort.
-
--*who_flaminius
       Allons, il le faut écouter.
 
-**** *book_ *id_IV01 *act_IV *date_1669 *creator_corneille
-
--*who_procule
-Apres quelque chagrin que faut-il que je croye
-De voir sur vostre front éclater tant de joye ?
-Auriez-vous pû, Seigneur, ébranler Prusias ?
-
--*who_flaminius
 J'estois embarassé, je ne le cele pas.
 Deux Rois épris d'amour me paroissoient à craindre,
 Envain j'en murmurois, envain j'osois me plaindre,
@@ -1771,10 +1414,6 @@ De sa foy⁎ contre nous eust pû venir à bout.
 Une heureuse nouvelle a fait cesser ma peine,
 J'ay sçeu du Phrygien la fausse mort d'Eumene.
 
--*who_procule
-Eumene vit encor ?
-
--*who_flaminius
       Cette lettre est de luy,
 Par elle contre Attale il cherche mon appuy,
 Et doutant que ce Frere aisément abandonne
@@ -1787,10 +1426,6 @@ Quoy que puisse ordonner ce jeune et nouveau Roy
 M'ont promis en secret de n'obeïr qu'à moy.
 Ainsi tous ses projets n'ont plus rien qui me gesne⁎.
 
--*who_procule
-Mais la mort de ce Frere avoit paru certaine ?
-
--*who_flaminius
 Sautant de bord en bord pour animer les Siens
 Dans un combat Naval contre les Rhodiens,
 Il receut tant de coups qu'à force de blesseures
@@ -1802,10 +1437,6 @@ Ravit aux Rhodiens cette illustre conqueste,
 Et son bon-heur⁎ fut tel que par un prompt secours
 Sans le faire connoistre on prit soin de ses jours.
 
--*who_procule
-C'est ce qu'Attale ignore ?
-
--*who_flaminius
       Et ce qu'il faut luy taire
 Jusqu'au flateur hymen que son amour espere.
 Permettre qu'Annibal remplisse cet espoir
@@ -1819,21 +1450,10 @@ Pour oser rien de ferme a trop d'incertitude⁎.
 Attale à ce défaut d'Elise estant l'Epoux
 Nous ostera…
 
--*who_procule
-      Voyez qu'il s'avance vers vous.
-
-**** *book_ *id_IV02 *act_IV *date_1669 *creator_corneille
-
--*who_flaminius
 Sans doute vous aurez d'une ame plus tranquille
 Examiné quel choix vous est le plus utile,
 Rome vaut bien…
 
--*who_attale
-      Seigneur, je connois mon devoir,
-Et ce que j'ay pensé…
-
--*who_flaminius
       Je n'en veux rien sçavoir.
 La fierté qui tantost soustenoit vostre flame,
 M'a paru d'un cœur franc, digne d'une grande ame,
@@ -1848,22 +1468,12 @@ Vous craigniez mes refus, n'en prenez plus d'alarmes,
 J'y consents, et vois trop qu'aprouver vos desseins
 C'est mettre ce dépost en de fideles mains.
 
--*who_attale
-Cet heureux changement a dequoy me surprendre.
-Seigneur, à mon amour vous daignez donc vous rendre,
-Confier Annibal et sa haine à ma foy⁎ ?
-
--*who_flaminius
 Rome sert qui l'honore ; elle vous a fait Roy,
 Et veut par cét hymen qu'elle rend legitime
 Vous marquer mieux encor jusqu'où va son estime.
 Demeurez luy fidelle, et n'oubliez jamais
 Qu'elle a tousiours puny les ingrats qu'elle a faits.
 
--*who_attale
-Seigneur, j'aime la gloire, et c'est assez vous dire.
-
--*who_flaminius
 Pressons cet hymenée où vostre flame aspire.
 Dans le rang que je tiens c'est peu d'y consentir.
 J'en veux estre témoin avant que de partir.
@@ -1875,238 +1485,536 @@ Cependant⁎ Prusias vous montre assez de zele
 Pour meriter par vous d'en sçavoir la nouvelle,
 Vous pourrez avec luy, Seigneur, vous declarer.
 
-**** *book_ *id_IV03 *act_IV *date_1669 *creator_corneille 
+Moderez un transport dont j'aurois à me plaindre,
+Pour le sang d'Annibal vous n'avez rien à craindre.
+Entre les mains des Miens à qui je l'ay remis,
+Pourveu qu'il vienne à Rome, il n'a plus d'Ennemis.
+De sa haine outrageante il luy doit quelque compte.
+Dans la paix de Cartage il trouva de la honte,
+S'en bannit pour nous nuire, et sur ce faux abus
+Vint enfin contre nous armer⁎ Antiochus,
+Il s'en justifiera ; pour vous, dont le seul crime
+Est de croire un peu trop le sang qui vous anime,
+Vous n'avez point de Rome à craindre le couroux,
+Elle est juste, et vous offre un traitement plus doux.
+Saisi de son pouvoir j'aime à vous faire grace,
+Recevez son appuy sans orgueil, sans audace,
+Et quelques biens par là qui vous soient accordez,
+Voyez toûjours la main de qui vous dépendez.
 
--*who_prusias
-Si mon abord vous nuit je vay me retirer,
-Si-tost que je parois Flaminius vous quitte.
+Pour un Roy de deux jours c'est parler hautement.
 
--*who_attale
-Veniez-vous à dessein de luy rendre visite ?
-Vous n'auriez qu'à le suivre, il peut la recevoir.
+Je plains de cet orgueil l'aveuglement extrême,
+Pour me connoistre mieux connoissez-vous vous-mesme,
+Et sur ce que pour vous le Trône a d'éclatant,
+Retournez à Pergame, Eumene vous attend.
 
--*who_prusias
-Je n'ay point de secret qui m'oblige⁎ à le voir,
-Mais si vous me souffrez⁎ un peu de confidence,
-Quel estoit le sujet de vostre conference ?
+      Ouy, c'est par luy que le Ciel y rappelle
+Que vous avez trouvé vostre Garde infidelle,
+Quand nous le croyions mort, la mer nous l'a rendu,
+Et vous sçaurez de luy le respect⁎ qui m'est dû.
 
--*who_attale
-Un projet, grand, illustre, et des plus importants,
-Et que je vous diray quand il en sera temps.
+Qu'on l'observe, et d'abord⁎, s'il ose rien tenter,
+Donnez ordre, Procule, à le faire arrester⁎.
 
--*who_prusias
-S'il est tel que vos feux permettent qu'on le croye,
-Vous pourriez sans peril m'avancer cette joye.
+      Ouy, Madame, et si vous balancez
+J'oseray contre vous plus que vous ne pensez,
+J'arresteray⁎ le cours de cette humeur altiere.
 
--*who_attale
-Il est vray qu'aimant Rome au point que vous l'aimez
-Vous prendrez part à l'heur qui tient mes sens charmez,
-Flaminius d'abord⁎ m'a traité de rebelle,
-Mais enfin le voulant convaincre de mon zele,
-J'ay sceu si bien entrer dans tous ses interests
-Que par l'hymen d'Elise il comble mes souhaits.
+Si vous bravez la Mort, le triomphe peut-estre…
 
--*who_prusias
-Flaminius consent…
+      Eclatez, Prusias,
+L'entreprise est manquée, et je n'en doute pas.
+Vous voyant l'ame foible, et jamais arrestée⁎,
+Ma défiance⁎ exprés l'avoit precipitée,
+Et je ne voulois pas à vostre esprit leger
+Laisser l'occasion ny le temps de changer.
+Le Prince agit par vous, son audace est la vostre.
+Vous donnez d'une main, et retenez de l'autre,
+Mais Rome…
 
--*who_attale 
-      Oüy, que j'épouse Elise,
-Vous en voyez ma joye, envain je la déguise,
-Mes yeux la font paroistre.
+La victoire pour vous n'est pas encore entiere,
+Et je vay donner ordre à vous revoir moins fiere.
 
--*who_prusias
-      Et pour un si grand bien
-Vous avez crû devoir ne luy refuser rien ?
+Rome de ces mépris sçaura vous tenir compte.
 
--*who_attale
-Il n'est vers le Senat aucun refus sans crime,
-Quoy qu'il veuille exiger il rend tout legitime ;    
-Et puis, pour un Objet où brillent mille appas,
-Quand l'amour est pressant, que ne feroit-on pas ?
 
--*who_prusias
-Quoy, ceder à l'amour, et s'en laisser surprendre,
-Jusqu'à…
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_nicomede
 
--*who_attale
-      Que voulez-vous, Seigneur, j'ay le cœur tendre,
-Et n'ay pas tant vescu qu'on doive présumer
-Que déja je me fasse une honte d'aimer.
+Quelque bouillante ardeur que la guerre m'inspire,
+Vous preferez la paix, c'est à moi d'y souscrire ;
+Mais permettez, Seigneur, que contre les Romains
+J'oppose vos bontez au malheur que je crains.
+Je sçay que d'Annibal ils cherchent la ruine,
+Que toûjours mesme haine en leurs cœurs s'enracine,
+L'adroit Flaminius a beau dissimuler,
+Il ne vient…
 
--*who_prusias
-C'est à fuir ce qui plaist qu'on montre son courage⁎.
+      Il est un moyen de luy faire tout croire.
+Si vous l'autorisez…
 
--*who_attale
-Ce genre de prudence est un effet de l'âge,
-Et jeune, et plein d'amour, au point où je me voy,
-Peut-estre seriez-vous aussi foible que moy.
+Aprés ce doux aveu⁎, Seigneur, j'ose vous dire
+Que mon cœur en secret depuis long-temps soûpire,
+Et que par un pouvoir à mon repos fatal,
+Elise…
 
--*who_prusias
-Et jeune, et plein d'amour j'aurois soin de ma gloire.
+Oüy, Seigneur, je l'adore, et ne puis plus vous taire
+Que la Fille sur moy peut autant que le Pere,
+Si la vertu⁎ de l'un tient tout mon cœur charmé,
+Pour la beauté de l'autre il est tout enflamé,
+Et dans la passion où ce cœur s'abandonne…
 
--*who_attale
-Vous estes hors d'estat de me le faire croire,
-Mais puis-je de la mienne asseurer mieux l'éclat
-Qu'à ne pretendre rien sans l'adveu⁎ du Senat ?
+Il est connu d'Elise, à qui j'ay crû devoir…
 
--*who_prusias 
-C'est dont pourtant d'abord⁎ vous faisiez peu de compte.
+      Je n'ay pû le sçavoir,
+Mais sans doute son choix suivra celuy d'un Pere.
 
--*who_attale
-Selon l'occasion on peut changer sans honte.
+Les exemples, Seigneur, n'ont rien qui m'embarrasse,
+Chacun a sa conduite, et tel peut succomber
+Où tout autre apres luy craindra peu de tomber,
+Non que par cét hymen qui semble vous déplaire
+Je cherche à vous oster une amitié si chere ;
+Bien loin qu'il ait dequoy faire ombrage⁎ aux Romains
+Pourroient-ils mettre Elise en de plus seures mains ?
+Il n'est rien que pour eux vostre foy⁎ ne previenne⁎,
+Ils trouveront en elle un garand de la mienne,
+Et dans le Fils d'un Roy qui les veut respecter⁎,
+Le Gendre d'Annibal n'est point à redouter.
+Que si de ce projet Rome se rend l'arbitre,
+Seigneur, vous estes Roy, soustenez ce grand titre,
+Et sans vous ebloüir⁎ de devoirs apparents,
+Negligez des amis qui se font vos Tyrans.
+Rejettez une indigne et basse dépendance,
+Cent Princes opprimez prendront votre défence,
+Toute l'Asie aspire à voir briser ses fers,
+Tirez-la d'esclavage, et vangez l'Univers.
 
--*who_prusias
-J'en penetre la cause, et j'ay quelques clartez…
+Du moins, Seigneur, du moins j'auray cét avantage
+Qu'ils ne pourront jamais sousmettre mon courage⁎,
+Et si l'indignité de quelque dur revers⁎
+Me reduit quelque jour à la honte des fers,
+Je n'imiteray point l'abaissement extréme
+Qui va les mandier jusques dans Rome mesme.
 
--*who_attale
-Songez-vous bien, Seigneur, que vous vous emportez,
-Et que d'autres que moy soupçonneroient peut-estre
-Que vostre cœur n'est pas tout ce qu'il veut paroistre.
+      Je me retire,
+Mais trouvez bon, Seigneur, que j'ose encor vous dire
+Que si pour plaire à Rome il faut trahir son rang
+Elle peut de bonne heure ordonner de mon sang.
 
--*who_prusias
-Qu'y soupçonneroit-on qui pust répondre mal…
+      On m'y force, Madame,
+Mais dans ce déplaisir ce qui flate mon ame,
+C'est que Flaminius s'éloignant avec moy
+N'aura plus contre vous d'empire sur le Roy.
+Son depart en ces lieux asseure vostre azyle.
 
--*who_attale
-Voyez l'Ambassadeur, j'entre chez Annibal.
+Madame, attendez tout de mon impatience⁎,
+Par un retour si prompt, s'il vous faut mon secours…
 
-**** *book_ *id_IV04 *act_IV *date_1669 *creator_corneille
+Quoy, le Roy soufriroit…
 
--*who_prusias
-Va, traistre, et puisqu'enfin le crime peut te plaire
-Pour obtenir la Fille assassine le Pere.
-Que je suis malheureux ! tout me pert, tout me nuit,
-Si je forme un projet, mon Rival le détruit,
-Et Rome en un moment par de lâches surprises
-Fait tourner contre moy toutes mes entreprises.
-Impitoyable amour, que ne t'ay-je étouffé
-Avant que de mon cœur ta flame eust triomphé !
-Je ne me verrois pas esclave d'une haine
-Qui veut que je m'oppose à la fierté Romaine,
-Et tout à ma grandeur, sans plus rien épargner,
-Aux dépens d'Annibal, j'apprendrois à regner.
-Mais pourquoy t'oser croire, ô grandeur importune,
-Serviles interests d'estats et de fortune,
-Qui pour me conserver le vain titre de Roy
-M'ostez la liberté de disposer de moy,
-Sans vous de l'amour seul j'écouterois la flame,
-Le Trône n'auroit rien qui partageast mon ame,
-Au lieu que l'un et l'autre attirant tous mes vœux,
-Sans ceder à pas un je cede à tous les deux.
-O desirs de grandeur, fiers mouvemens de gloire,
-Amour, Rome, Annibal, qui de vous dois-je croire ?
-Qui de vous deux mon cœur doit enfin l'emporter ?
+Pardonnez mon desordre à ma surprise extréme.
+Quoy, Madame, il se peut que Prusias vous aime,
+Que l'ordre de partir…
 
--*who_araxe
-Sçachant ce qui se passe avez-vous à douter !
-Il faut perdre Annibal ; cette seule entreprise
-Affermit vostre Trône, et vous acquiert Elise,
-Par là vous gagnez tout.
+Si j'osois le bien voir je craindrois de trop dire.
+Adieu, Madame.
 
--*who_prusias
-      Perdre Annibal ! helas !
+      Quoy, vostre cœur soûpire ?
+A quoy dois-je imputer ce tendre mouvement ?
+Quand je trouve un Rival l'obtiens-je comme Amant ?
+Parlez.
 
--*who_araxe
-Estes-vous en estat de ne le perdre pas ?
-Decidant de ses jours Attale…
+      Expliquez⁎ vous de grace.
 
--*who_prusias
-      Ah le perfide !
-Mais le feray-je moins si ma flame en decide ?
+O trop charmant aveu⁎ de la plus belle flame
+Dont ait pû jusqu'icy brûler une grande ame !
+Que le Ciel m'abandonne à son plus vif couroux,
+J'en craindray peu les traits estant aimé de vous.
+Mon exil me plaira si dans la Bithynie
+Il vous fait des Romains braver la tyrannie.
+Heureux cent et cent fois de voir ma liberté
+Servir d'un digne prix pour vostre seureté.
+Avec la mesme ardeur qu'elle vous est offerte
+Je voudrois de mon sang racheter vostre perte,
+Et par ce sacrifice apprendre assez à tous
+Que peut-estre mon cœur estoit digne de vous.
 
--*who_araxe
-De tels crimes au Sort doivent estre imputez.
-Il a donné l'arrest, et vous l'executez.
-Annibal est trahy ; puisqu'il faut qu'il perisse
-Attirez vous le fruit de ce grand sacrifice,
-Voyez Flaminius, et sans plus differer,
-Quoy qu'Attale ait promis, faites-vous préferer.
+Quoy, pour vostre repos je pourrois lâchement
+Refuser de souscrire à mon éloignement ?
+De nos jaloux destins tel est l'ordre barbare
+Que l'amour qui nous joint luy mesme nous separe.
+En vain pour nous unir nous ferions nos efforts,
+Vous ne restez icy que parce que j'en sorts,
+Et le coup que fuit l'un devant tomber sur l'autre,
+Mon exil évité seroit l'arrest du vostre.
+Cedons, cedons, Madame, à d'injustes projets.
 
--*who_prusias
-Mais c'est flater mon feu d'un espoir inutile
-Si l'on voit que par moy…
+Le Ciel adoucira cette rigueur extréme.
 
--*who_araxe
-      Le remede est facile.
-Employez des Romains, et par eux seulement
-Faites prendre Annibal dans son appartement.
-Le coup fait, plaignez-vous de cette violence,
-Rendez suspect Attale, et demandez vangeance.
-Enfin quand le succez manqueroit à vos feux
-C'est beaucoup d'empescher qu'un Rival soit heureux.
+      Songer que je vous aime,
+Et si le Roy vous presse, accepter de sa foy⁎
+Ce que je ne veux pas que vous perdiez pour moy.
+ 
+Et quel repos pour moy pretendre en Bithynie
+Si faute d'en partir je vous en vois bannie,
+Et de nouveau reduite au funeste revers⁎
+D'aller de Cour en Cour, et de passer les mers ?
+En soufriray-je moins quand la main qui m'opprime
+De l'orgueil des Romains vous fera la victime,
+Et que vous deviendrez sous leurs indignes loix
+Et le joüet des vents, et le mépris des Rois ?
+Pour m'épargner l'horreur d'un si cruel supplice,
+Madame, au nom des Dieux soufrez que j'obeïsse,
+Et que jusques dans Rome affrontant vos tyrans
+J'aille vous arracher à vos destins errants.
+J'y porteray des fers en y portant les vostres,
+Mais ce cœur tout à vous n'en recevra point d'autres,
+Et j'y conserveray l'entiere liberté
+Que du sang dont je sorts exige la fierté.
+Quelque maistre des Rois que le Senat se nomme…
+Mais Annibal…
 
--*who_prusias
-Tu dis vray, je me rends, ma passion l'ordonne.
-A ces brûlants transports tout mon cœur s'abandonne ;
-Dust ce que j'entreprens me devenir fatal,
-Je ne puis endurer le bon-heur⁎ d'un Rival.
-C'en est fait, perdons tout dans ce besoin extréme,
-Attale par mon Fils, Annibal par moy mesme,
-Et comme à triompher voicy nostre grand jour,
-Perdons jusqu'à ce Fils s'il nuit à mon amour,
-Le voicy.
+Seigneur, n'enviez point à ma reconnoissance
+La gloire d'un depart qui fait vostre asseurance,
+Et souffrez⁎ qu'en aveugle obeïssant au Roy
+Je cherche à m'acquiter de ce que je vous doy.
+A moins oser pour vous, je ferois mal connoistre
+L'heureux fruit des leçons de mon illustre Maistre,
+Et que c'est sous luy seul que l'on peut à son choix
+Apprendre les vertus⁎ les plus dignes des Rois.
 
-**** *book_ *id_IV05 *act_IV *date_1669 *creator_corneille
+      Ah, Seigneur, prenez garde…
 
--*who_prusias
-      Viens sçavoir, et venger tout ensemble
-Un crime dont encor l'horreur fait que je tremble.
-A l'amour d'un Perfide on s'est enfin rendu,
-Flaminius triomphe, Annibal est vendu.
-Pour prix d'une si lâche et honteuse entreprise
-Attale qui le vend reçoit la main d'Elise.
+      Mais, Seigneur…
 
--*who_nicomede
+Vous perdre est un malheur que merite mon Pere,
+Mais sçavez-vous, Seigneur, ce que vous allez faire ?
+Je meurs par cet hymen s'il se doit achever,
+Et vous m'assassinez en me voulant sauver,
+Ah, pourquoy si long-temps ma trop timide⁎ flame
+S'est-elle par respect⁎ renfermée en mon ame ?
+Mais quoy, mille devoirs, mille soins⁎ empressez,
+Mes soûpirs, mes langueurs, vous en ont dit assez,
+Combien m'avez-vous veu pour la charmante Elise…
+
+Pour en rien esperer ! Ah, Seigneur, par quel crime
+Ay-je pû meriter de perdre vostre estime ?
+A quoy que vos souhaits puissent estre attachez
+N'avez-vous pas en moy tout ce que vous cherchez ?
+Trouverez-vous ailleurs une ame plus fidelle ?
+Plus de respect pour vous, plus d'ardeur, plus de zele,
+Et si de vostre haine il faut prendre la loy,
+Detester vos Tyrans, qui les hait plus que moy ?
+
+Eh, pleust aux Dieux, Seigneur, que pour flater ma peine
+Vous connussiez l'amour aussi-bien que la haine,
+Ou que vous jugeassiez de cette passion
+Par les brulants transports de vostre aversion !
+Vous verriez une force égale en l'un et l'autre,
+Que mon cœur n'est pas moins enflamé que le vostre,
+Et que les tendres feux qu'il renferme au dedans,
+Pour estre un peu plus doux, n'en sont pas moins ardents.
+Vous verriez que ce cœur ne vit que pour Elise,
+Qu'il immole à ses pieds repos, gloire, franchise⁎,
+Et… pardonnez, Seigneur, à ce transport jaloux,
+J'ay pensé dire encore, tout ce qu'il sent pour vous.
+Non, non, quelques rigueurs dont vous payiez mon zele,
+Ne craignez rien de moy, je vous seray fidelle,
+Et periray plûtost que de rendre suspect
+Ce qu'au grand Annibal j'ay juré de respect⁎.
+Trop heureux, si mourant pour ne luy pas déplaire,
+J'apprens qu'il daigne plaindre un feu qu'il desespere,
+Et voir dans ce moment d'un regard de pitié
+Ce que par moy l'amour immole à l'amitié.
+
+Vostre haine pour eux ne peut estre assez fiere,
+Je ne l'attaque point, gardez-la toute entiere,
+Mais si vous ne cherchez à me priver du jour
+Suspendez-en l'effet en faveur de l'amour.
+Flaminius nous quitte, et Prusias peut-estre
+N'attend que son départ pour se faire connoistre,
+Pour vous laisser de Rome affranchir son Estat.
+
 Attale ! Et bien, avant qu'on me livre aux Romains,
 Il faut mettre, Seigneur, Elise entre vos mains.
 
--*who_prusias
-A sauver Annibal l'honneur, tout nous convie,
-Adieu, je vay luy faire un rempart de ma vie.
-Cependant⁎ cherche Attale, ose, il est important,
-Et si tu sçais aimer, voy le prix qui t'attend.
-
-**** *book_ *id_IV06 *act_IV *date_1669 *creator_corneille
-
--*who_elise
-Que vous disoit le Roy, Prince, et d'où naist ce trouble ?
-
--*who_nicomede
 Dans mon cœur à vous voir je le sents qui redouble,
 Mais, Madame, jugez s'il doit estre pressant,
 Aux vœux⁎ de mon Rival Flaminius consent,
 Attale vous obtient.
-
--*who_elise
-      C'est ce qui vous estonne⁎ ?
-Pour tirer mon adveu⁎ la voye est assez bonne,
-Et Rome à qui je porte un courage⁎ soûmis
-Peut répondre de moy quand elle aura promis.
-
--*who_nicomede 
+ 
 Mais on livre Annibal, et c'est ce qu'on vous cache.
 
--*who_elise
-Mon Pere ?
-
--*who_nicomede
       Il est le prix de l'adveu⁎ qu'on arrache ;
 Ne craignez rien pourtant de cette trahison,
 Je vay trouver Attale, il m'en fera raison,
 Et s'il ose…
 
--*who_elise
-      Arrestez⁎, que pretendez-vous faire ?
-Cet advis m'est suspect, il part de vostre Pere,
-Qui craignant deux Rivaux, pour en venir à bout,
-Veut perdre l'un par l'autre, et desaduoüer tout.
-
--*who_nicomede
 Ainsi donc il vous plaist que sans rien entreprendre
 Je laisse à mon Rival le temps de vous surprendre,
 Ou si l'advis est faux, vous voulez que ma foy⁎
 Cede à ses vœux⁎ un cœur qui sembloit estre à moy ?
 
--*who_elise
+Ces sentiments sont grands, illustres, magnanimes,
+Mais quoy que l'on promette à leur noble fierté
+Quel cœur de vostre haine aura la fermeté ?
+Qui vous asseurera qu'Attale soit sincere ?
+
+En est-il dont la suite offre à vostre disgrace…
+
+Et bien, Madame, il faut dans ce peril extréme
+Oser tout, faire tout pour vous contre moi-mesme,
+Rompre avec les Romains, leur ravir Annibal,
+Et tout cela, peut-estre en faveur d'un Rival.
+Au moins souvenez-vous, si ma mort vous arrache
+A l'indigne attentat qu'un Perfide vous cache,
+Que qui cherche à mourir pour en rompre les coups
+Pouvoit sans trop d'audace oser vivre pour vous.
+
+Seigneur, le Ciel peut-il favoriser un Traistre ?
+
+Quoy, mon Pere…
+
+O triomphe pour moy de trop peu de durée !
+N'importe, osons, Seigneur, tant que j'auray du sang
+J'appuyeray vostre haine, et soûtiendray mon rang.
+
+Araxe.
+
+      O funeste journée !
+Mon Pere ne vit plus.
+
+O succez déplorable ! ô perte trop amere !
+Romains, qui me coustez la vertu⁎ de mon Pere,
+Vous m'en ferez raison ; pour ce noble soucy,
+Donnez l'ordre, Seigneur, vous estes maistre icy.
+
+      Dieux !
+
+      Ah, Madame !
+Que d'ennuis⁎ à la fois s'emparent de mon ame !
+Allons en Bithynie, et pour nous soulager
+Faisons-y tout servir au soin de nous vanger.
+
+
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_elise
+
+Quelle joye en mes yeux voulez-vous qui s'explique⁎,
+Seigneur, lors que par tout les Destins conjurez
+A nous persecuter se montrent preparez ?
+Si nous trouvons chez vous, par un doux avantage
+Dequoy nous consoler de l'exil de Cartage,
+Les Romains aussi-tost de ce bonheur⁎ jaloux
+S'opposent aux bontez que vous avez pour nous.
+Avecque sa fortune errante et vagabonde
+Un seul homme fait peur à ces Maistres du monde.
+A nous voir vostre appuy, leur trouble est sans égal.
+
+Que parlez-vous d'Amants, Seigneur ? est-il croyable
+Qu'en l'état où je suis on pust me croire aimable,
+Et sur mon triste sort fermer assez les yeux
+Pour s'unir au rebut des hommes et des Dieux ?
+Non, non, il faut me fuir ; il n'est revers⁎ ny peine
+Qu'en tous lieux avec moy ma disgrace ne traîne,
+Et me vouloir aimer, seroit sans aucun fruit
+Livrer sa destinée au malheur qui me suit.
+Aussi mon cœur n'est pas un bien où l'on aspire,
+Et si me regardant quelquefois on soûpire,
+La pitié que mes maux s'attirent chaque jour
+Laisse dans ces soûpirs peu de part à l'amour.
+ 
+      Ces douceurs sont pour les ames basses,
+Seigneur, et mon orgueil s'en accommode mal,
+De grace, traitez mieux la Fille d'Annibal.
+Mes yeux ont démenty la fierté de mon ame
+S'ils la font soupçonner de quelque lâche flame,
+Attale sort d'un sang qui peut prétendre à moy
+Mais il fut dans vos fers avant que d'estre Roy,
+Et l'éclat de ce Trône où je le voy qui monte
+N'a pas encor assez effacé cette honte.
+
+Quoy, vous croyez qu'Elise ait l'ame assez ingrate
+Pour pouvoir consentir que cet amour la flate,
+Et que pour prix des soins⁎ qu'en eut vostre pitié
+Son hymen des Romains vous couste l'amitié ?
+Si déja sur l'appuy que trouve icy mon Pere
+Nous voyons dans leur plainte éclater leur colere,
+Que n'essuyerez vous point de leurs chagrins jaloux
+Si des nœuds plus estroits nous unissent à vous ?
+Fuyez, fuyez les maux qui suivent nos personnes,
+Ces dignes Conquerants sont maistres des Couronnes,
+Et quoy que vous fist croire un dépit genereux,
+Pour regner seurement, il faut regner par eux.
+
+      Connoissez, Seigneur, toute mon ame,
+Le Prince a des vertus⁎ qu'on ne peut égaler,
+Mais quelque feu pour luy dont je pusse brûler,
+Je le dédaignerois si d'une ardeur ouverte
+Des Romains que j'abhorre il ne juroit la perte,
+De ma haine pour eux mon amour prend la loy,
+Et c'est la seule dot que j'apporte avec moy.
+Ainsi point de mary capable de me plaire
+Qui ne vange Cartage, et l'exil de mon Pere.
+L'Univers affranchy de ses cruels Tyrans
+Est tout ce qui me flate, à ce prix je me rends.
+Adieu, Seigneur.
+
+Le Prince doit partir ! ne t'es-tu point trompée ?
+
+Et le Prince y consent ?
+
+Quoy, son cœur à ceder n'a point de repugnance ?
+
+      C'est assez, je ne demande rien,
+Ma curiosité sans doute est indiscrette.
+
+Je ne sçay, mais enfin ce que j'aime à sçavoir
+C'est que mon triste cœur n'en devroit pas avoir.
+
+Moy l'aimer ?
+
+Il est vray qu'il sçait joindre à l'éclat de son rang
+Toutes les qualitez que demande un beau sang,
+Jamais plus de merite avec tant d'avantage
+Ne sçeut de tous les cœurs s'acquerir le suffrage,
+Moy-mesme je me sents forcée à l'estimer,
+J'admire sa vertu⁎, mais ce n'est pas l'aimer.
+
+Quoy, tu crois que je l'aime, et que pour faire cas…
+
+Je veux bien t'advouër que son depart m'afflige,
+Que l'ordre qu'on luy donne à soûpirer m'oblige⁎,
+Mais sans doute mon cœur dans cét éloignement
+Soûpire pour un pere, et non pour un Amant.
+Le Prince hors d'icy, Prusias n'est point homme
+A resister long-temps aux poursuites de Rome,
+Elle hait Annibal, et je crains que le Roy
+N'ait pas la fermeté de nous garder sa foy⁎.
+Son fils estoit pour nous un appuy necessaire.
+
+Qui te porte à vouloir joüir de ma foiblesse ?
+Ne force point mon cœur à se trop declarer,
+Et s'il aime en secret laisse-moy l'ignorer.
+Voicy le Prince, ah Dieux !
+
+Je sents que tout à coup mon ame s'est émeuë⁎,
+Mais ce trouble, inconnu pour moy jusqu'à ce jour,
+Se donne à sa disgrace, et non pas à l'amour.
+
+Vous vous éloignez, Prince ?
+
+Rome pour nous troubler trouvera tout facile,
+Elle a d'autres Agents dont le secret pouvoir
+De vostre éloignement sçaura se prévaloir.
+Quoy qu'ils vueillent oser, nous restons sans défence.
+
+Ah Prince, vous party, vous l'estes pour toûjours.
+Ne vous offencez point de ce triste presage,
+Rome pour Annibal vous demande en ostage,
+Et vous n'en reviendrez qu'apres que nos Tyrans
+De sa ruine entiere auront de seurs garands.
+
+      J'oseray plus vous dire,
+A vous voir éloigné le Roy luy mesme aspire,
+Et cét ordre soudain qui nous prive de vous
+N'est que l'indigne effet d'un mouvement jaloux.
+Je n'en sçaurois douter, Prince, j'ay sçeu luy plaire,
+Ses regards enflamez ne me le peuvent taire,
+Ma veuë est le seul bien dont il cherche à joüir,
+Et souvent j'entens plus que je ne veux oüir.
+ 
+      Si vous obeïssez,
+Prince, voyez de grace à qui vous me laissez.
+
+      Helas !
+
+      Que vous diray-je ?
+
+Un soûpir dit beaucoup quand le cœur s'embarasse,
+Et qui peut l'arracher apres mille combats
+Le meriteroit peu s'il ne l'entendoit pas.
+ 
+Quoy, si ce pur amour fait toute vostre gloire,
+Il faut m'abandonner pour me le faire croire ?
+
+Ainsi vous me quittez peut-estre pour jamais ?
+
+Que faire cependant⁎ ?
+
+Ah, Prince, songez-vous jusqu'où va cét outrage,
+Et quand mon interest à l'exil vous engage,
+Les maux que vous croyez qu'il me fasse éviter
+Approchent-ils de ceux qu'il m'ofre à redouter ?
+Donc, j'ayderois moy mesme au destin qui vous brave,
+J'aurois le nom de Reine, et vous celuy d'esclave,
+Et les fers que dans Rome on vous feroit traisner
+Me vaudroient la douceur de me voir couronner ?
+
+      Rompez, Seigneur, cet injuste projet.
+De sa hayne par vous les Romains sont l'objet.
+Laisseriez-vous ainsi détruire vostre ouvrage ?
+
+      Ah, je le jugeois bien,
+Que si…
+
+Vous l'avez déja veu, faites-le declarer,
+Seigneur, ses ordres seuls reglent ma destinée,
+Et sur les interests de ce grand hymenée,
+Pourveu que ses desirs vers vous puissent pancher,
+Ma joye ou mon chagrin vous doivent peu toucher.
+Voyez bien seulement avant que d'y pretendre
+Si vous vous connoissez digne d'estre son Gendre.
+Il n'est rien de plus fier que le sang d'Annibal,
+S'il monte sur le Trône il obeïra mal,
+Et vos Maistres du Monde à qui les Rois déferent
+S'ils pensent l'asservir, n'ont pas ce qu'ils esperent.
+Là suivant de mon sort l'orgueilleux ascendant
+Ils me verront porter un cœur indépendant,
+Un cœur resolu, ferme, et capable peut-estre
+De haïr un Epoux s'il enduroit un Maistre.
+Ne vous exposez point à l'affront de me voir
+Maintenir malgré vous le suprême pouvoir,
+Et si vous vous sentez et l'ame et le courage⁎
+Par de basses frayeurs tournez à l'esclavage,
+Renoncez à des nœuds qui pourroient vous trahir
+Jusqu'à vous dérober la honte d'obeïr.
+
+      Seigneur, que vous importe ?
+Si jamais vous avez le nom de mon Epoux,
+Je connois mon devoir, et c'est assez pour vous.
+Sans égard à l'amour, de pareils hymenées
+Ne font que décider des grandes Destinées,
+Et quand on voit par où bien remplir ce qu'on est,
+Aimer ou n'aimer pas est un foible interest.
+Il faut se mettre au rang des ames trop communes
+Pour laisser à l'amour balancer les Fortunes,
+Et les charmes secrets qui suivent ses langueurs
+Sont des abaissements indignes des grands cœurs.
+Le mien les connoit peu ; qu'Annibal vous choisisse,
+Que de ma main pour vous il fasse un sacrifice,
+Ce cœur fera soudain vanité d'obeïr,
+Mais bien moins pour aimer qu'afin de mieux haïr,
+C'est le seul interest où ma gloire m'engage,
+Voir un Roy craindre Rome irrite mon courage⁎,
+Et l'Espoux me plaira, dont l'intrepidité
+M'offrira les moyens d'en braver la fierté.
+
+J'aperçois Annibal, vous lui direz le reste.
+
+Que vous disoit le Roy, Prince, et d'où naist ce trouble ?
+
+      C'est ce qui vous estonne⁎ ?
+Pour tirer mon adveu⁎ la voye est assez bonne,
+Et Rome à qui je porte un courage⁎ soûmis
+Peut répondre de moy quand elle aura promis.
+
+Mon Pere ?
+
+      Arrestez⁎, que pretendez-vous faire ?
+Cet advis m'est suspect, il part de vostre Pere,
+Qui craignant deux Rivaux, pour en venir à bout,
+Veut perdre l'un par l'autre, et desaduoüer tout.
+
 Si l'advis n'est pas vray, je veux que vostre flame
 Prenne pour seul objet la fierté de mon ame,
 Je vous aime, et l'adveu⁎ peut-estre m'en sied mal,
@@ -2125,54 +2033,19 @@ Malgré ce qu'en mon cœur vos feux trouvent d'appuy
 Je feray vanité de me donner à luy.
 Voila de mon orgueil quelles sont les maximes.
 
--*who_nicomede
-Ces sentiments sont grands, illustres, magnanimes,
-Mais quoy que l'on promette à leur noble fierté
-Quel cœur de vostre haine aura la fermeté ?
-Qui vous asseurera qu'Attale soit sincere ?
-
--*who_elise
 N'en soyez point en peine, il entretient mon Pere,
 Et s'il obtient de luy ce que vous meritez,
 Ma main en se donnant prendra ses seuretez.
 
--*who_nicomede
-En est-il dont la suite offre à vostre disgrace…
-
--*who_elise
 Ayez soin seulement de voir ce qui se passe,
 Et croyez que l'effort où s'appreste ma foy⁎,
 Quoy qu'il ait de fâcheux, sera digne de moy.
 
--*who_nicomede
-Et bien, Madame, il faut dans ce peril extréme
-Oser tout, faire tout pour vous contre moi-mesme,
-Rompre avec les Romains, leur ravir Annibal,
-Et tout cela, peut-estre en faveur d'un Rival.
-Au moins souvenez-vous, si ma mort vous arrache
-A l'indigne attentat qu'un Perfide vous cache,
-Que qui cherche à mourir pour en rompre les coups
-Pouvoit sans trop d'audace oser vivre pour vous.
-
--*who_elise
 Prince, mon cœur est juste, et sçait ce qu'il doit faire.
 Adieu, je vois Attale, il sort avec mon Pere,
 Evitez leur presence, et prenez garde à tout
 Tandis que j'apprendray ce qu'Annibal resout.
 
-**** *book_ *id_IV07 *act_IV *date_1669 *creator_corneille 
-
--*who_annibal
-C'est trop voir le Destin confondre mon attente,
-Il est temps de fixer vostre fortune errante,
-Ma Fille, et qu'un Epoux par le don de sa foy⁎
-Vous dérobe aux malheurs que je traisne avec moy.
-Il vous faut du repos, Attale vous l'asseure,
-Du sort qui me poursuit j'en craindray moins l'injure,
-Et croiray triompher de ses plus rudes coups
-Si j'empesche par là qu'ils n'aillent jusqu'à vous.
-
--*who_elise
 Qu'ils n'aillent jusqu'à moy ! s'il faut mourir ou vivre,
 C'est vostre exemple seul, Seigneur, que je veux suivre.
 Jusqu'icy vostre sort a reglé mon destin,
@@ -2187,19 +2060,10 @@ Mais quand je la sousmets à ce qu'elle vous doit,
 Sçavez-vous à quel prix Attale la reçoit ?
 Il vous livre aux Romains.
 
--*who_attale 
-      Ah, Madame, je jure
-Qu'on me fera…
-
--*who_elise
       Seigneur, ce peut estre imposture,
 Mais quand on vous accuse, à vous parler sans fard,
 L'apparence au soupçon vous donne grande part.
 
--*who_attale
-Quoy, me tenir suspect, moy qui…
-
--*who_elise
       Sçachons, de grace,
 D'où vient que du Romain la colere se passe,
 Et que de vostre amour dans l'abord irrité,
@@ -2209,66 +2073,10 @@ Peut-il en un moment devenir legitime,
 Et tout à l'heure encor, que peut-on concevoir
 Du secret entretien que vous venez d'avoir ?
 
--*who_attale
-Saisi d'étonnement⁎, je n'ay que le silence
-Qui puisse contre vous prouver mon innocence,
-Il en devroit bien estre un témoin asseuré,
-Si j'estois criminel je viendrois preparé.
-Flaminius changé m'accorde ce que j'aime,
-Son adveu⁎ vous surprend, il me surprend moy-mesme,
-Et je penetre mal par quels soins⁎ dés demain
-Il me presse à ses yeux de vous donner la main ;
-Mais ces fausses couleurs qui me peignent coupable
-Sont de quelque Ennemy le trait inévitable,
-Et pour me donner lieu de soupçonner sa foy⁎
-Prusias s'est assez declaré contre moy.
-Il ne sçauroit souffrir⁎ que mon amour obtienne
-Que vous quittiez sa Cour pour venir dans la mienne
-Seigneur, et je crains bien que son chagrin jaloux
-Feignant tout contre moy, n'ose tout contre vous.
-Non qu'on m'en ait rien dit, mais d'un crime semblable
-Voyez qui de nous deux seroit le plus capable.
-Tandis qu'au vain orgueil de ses chers Favoris
-Sa lâche Politique ose immoler son Fils,
-Malgré Flaminius pour vous je me declare,
-J'attens sans m'ébranler les foudres qu'il prépare,
-Et fais que Rome enfin, toute fiere qu'elle est,
-Se sousmet à ma flame, et veut ce qui me plaist.
-
--*who_annibal
-Ouy, Seigneur, c'est envain qu'on voudroit me surprendre,
-Je fais un digne choix en vous prenant pour Gendre,
-Et ces grands sentiments vous mettent au dessus
-Des odieux soupçons que ma Fille a conçeus.
-Mesme de Prusias je crains peu la surprise,
-Il peut vouloir me perdre, en former l'entreprise,
-Dans ce lâche projet se montrer affermy,
-Mais le Ciel me reserve⁎ un plus noble Ennemy.
-Il ne m'a pas sauvé des Tyrans que je brave
-Pour me laisser perir aux mains de leur Esclave,
-Et souffrir⁎ qu'un Parjure au mépris de sa foy⁎
-M'ose faire un destin si peu digne de moy.
-Il sçait ce qu'il me doit, et s'il avoit pû croire
-Que Rome eust merité l'éclat de tant de gloire,
-Il eust sçeu de ma perte honorer les grands noms,
-Prendre les Fabius, choisir les Scipions.
-Moy seul je puis pretendre à cet honneur supréme,
-Et pour perdre Annibal il faut Annibal mesme.
-
--*who_attale
-Ah, Seigneur, qui pourroit avoir le cœur si bas…
-
--*who_elise
 Je veux bien n'accuser ny vous ny Prusias,
 Mais dans ce qu'on publie, il est de la prudence
 De ne pas s'exposer à trop de confiance.
 
--*who_attale
-Dites, dites plutost que mon espoir est vain,
-Que vous me soupçonnez pour m'oster vostre main,
-Et que des feux plus doux l'emportant sur ma flame…
-
--*who_elise
 Quoy, vous croyez en moy tant de bassesse d'ame ?
 Quand j'aurois de l'amour il sçauroit m'obeïr,
 Mais je l'ay dit cent fois, je ne sçay que haïr,
@@ -2285,88 +2093,23 @@ Son sang sera le sceau de la foy⁎ conjugale ;
 Mais que Flaminius, si j'accepte un Epoux,
 Se mesle insolemment de me donner à vous !
 
-**** *book_ *id_IV08 *act_IV *date_1669 *creator_corneille
-
--*who_alcine
-Ah, Madame ! Ah, Seigneur, songez à vous défendre,
-Sans doute les Romains cherchent à vous surprendre.
-De la Cour du Palais maistres en un moment
-Ils ont presque investy tout cet apartement.
-Jugez s'ils auront peine à s'y faire passage.
-
--*who_elise
 Et bien, Attale, et bien, mon soupçon vous outrage ?
 
--*who_attale
-Les Romains nous surprendre !
-
--*who_elise
       Et pour ce coup fatal,
 Tandis qu'on s'y prepare, on amuse⁎ Annibal.
 
--*who_attale
-Madame, les effets me vont faire connoistre,
-Je voy la trahison, et trouveray le traistre,
-Vous verrez si mon cœur sous Rome est asservy.
-Heureusement, Seigneur, ma Garde m'a suivy.
-Dans cet Apartement elle m'a fait escorte,
-Je vay l'encourager à nous prester main forte,
-Et j'atteste les Dieux qu'en ce pressant danger,
-Je periray moi-mesme, ou sçauray vous vanger.
-
--*who_elise
 Seigneur, vous fierez-vous à des serments frivoles ?
 
--*who_annibal
-Le temps nous est trop cher pour le perdre en paroles,    
-Sans trop chercher l'Autheur de cette trahison,
-Il faut malgré le Sort, nous en faire raison.
-Par une belle audace, estonnons⁎ des Perfides,
-Allons au devant d'eux, les Traistres sont timides⁎.
-Et pour épouvanter leur lâche General
-Peut-estre il ne faudra que montrer Annibal.
-Au moins s'il faut perir, en leur vendant ma vie,
-Faisons-les souvenir de Cannes, de Trebie.
-Vous, demeurez, ma Fille, et retenez vos pleurs,
-C'est du sang qu'il nous faut en de pareils malheurs.
-Vivez, et s'il vous peut estre honteux de vivre,
-Vous aurez mon exemple, apprenez à le suivre.
-
--*who_elise
 Pour vous quitter, Seigneur, je sçay trop mon devoir.
 L'exemple sera grand, je vay le recevoir.
 
-**** *book_ *id_V01 *act_V *date_1669 *creator_corneille
-
--*who_elise
 Quoy, je vous voy, Seigneur, et bien que l'insolence
 Dont on use envers nous vous demande vangeance,
 Vostre honneur, vostre foy⁎ sont des Fantômes vains
 Lors qu'il faut s'opposer au crime des Romains ?
-
--*who_prusias
-Pour détruire un projet à nos vœux⁎ si contraire
-Je n'ay rien oublié de ce que j'ay pû faire.
-A peine l'ay-je appris que ce rapport fatal
-M'a fait tout indigné courir vers Annibal ;
-J'ay mis autour de luy ceux des Miens dont le zele
-M'a pour le seconder paru le plus fidelle,
-Mais voyant les Romains, malgré tous nos efforts
-Contre luy, contre moy se rendre les plus forts,
-J'ay crû que pour répondre à la foy⁎ qui m'engage
-Il falloit empescher qu'on ne vous fist outrage,
-Voila ce qui m'amene, et je viens vous offrir
-Tout ce que peut un Roy qui veut vous secourir.
-
--*who_elise 
+ 
 Ce zele est obligeant⁎, genereux, magnanime.
 
--*who_prusias
-Ah, si vous connoissiez l'ardeur dont il m'anime,
-Quels feux depuis long-temps dans mon cœur renfermez
-Vous ont faite…
-
--*who_elise
       Oüy, Seigneur, je sçay que vous m'aimez,
 Mais enfin il falloit, si vous me vouliez plaire,
 Ne m'en venir rien dire, et mourir pour mon Pere.
@@ -2377,18 +2120,6 @@ Dans cet appartement on me tient prisonniere,
 Mes efforts pour sortir ont esté superflus,
 On m'arreste⁎, et peut-estre Annibal ne vit plus.
 
--*who_prusias
-Si le Ciel aujourd'huy me met dans l'impuissance
-D'empescher une injuste et lâche violence,
-Au moins, Madame, au moins de cette trahison
-Il ne tiendra qu'à vous que vous n'ayez raison.
-Venez dans mes Estats, et toute à vostre haine
-Acceptez mon secours avec le nom de Reyne.
-Pour vanger Annibal il n'est rien qu'avec vous
-Contre ses Assassins ne tente mon couroux,
-Rien qu'à son sang versé ma passion n'immole.
-
--*who_elise
 C'est donc là comme un Roy luy doit tenir parole ?
 Vous voyez qu'on l'attaque, et fuyant le danger
 Vous le laissez perir afin de le vanger ?
@@ -2398,42 +2129,10 @@ Ah, si le Prince au moins… mais dequoy me flater,
 Vos lâches Partisans l'auront fait arrester⁎,
 Il ne peut rien pour nous, et tout nous abandonne.
 
--*who_prusias
-Quoy, du crime d'Attale il faut qu'on me soupçonne,
-Et quand ouvertement on voit que le Romain
-Pour prix de son forfait luy donne vostre main,
-Cet Attale…
-
--*who_elise
       Du moins il fait ce qu'il doit faire,
 Il anime les siens à défendre mon Pere,
 Se donne pour exemple, et les enhardissant…
 
--*who_prusias
-Voyez si c'est pour eux un exemple pressant.
-
-**** *book_ *id_V02 *act_V *date_1669 *creator_corneille
-
--*who_attale
-Madame, craignons tout, c'est peu qu'on vous trahisse,
-De ses pieges sur moy Rome étend l'artifice,
-Et ma Garde seduite, au lieu de m'écouter,
-Me fermant le passage, a voulu m'arrester⁎,
-Je me le suis ouvert malgré sa resistance,
-J'ay rejoint Annibal, embrassé sa défence,
-Mais j'ay bientost connu que contre les Romains,
-Trahis de toutes parts, nos efforts estoient vains.
-Ceux qui l'environnoient, quoy qu'il en dust attendre,
-Le livroient bien plûtost qu'ils ne l'osoient défendre,
-Ils m'ont mis hors d'estat de le plus seconder,
-Et le voyant au nombre obligé⁎ de ceder,
-Contre les noirs complots d'une jalouse envie
-Je suis icy venu vous apporter ma vie ;
-Disposez-en, Madame, et pour vous secourir
-Servons-nous des moyens qui se pourront offrir,
-J'ose tout entreprendre, et puisque je vous aime…
-
--*who_elise
 L'asseurance est pour moy d'une douceur extrême.
 Venez, venez tous deux, nobles Heros d'Amour,
 Qui tandis qu'on se bat me faites vostre cour.
@@ -2446,33 +2145,6 @@ Lors que d'un cœur si bas vos offres sont suivies ?
 Pour m'arracher au Sort, en braver le couroux,
 S'il ne faut que mourir, je mourray bien sans vous.
 
--*who_attale
-D'un reproche si dur l'injustice m'étonne⁎.
-J'abandonne, il est vray, mais quand on m'abandonne,
-Et je rendray bientost vostre esprit éclaircy,
-Si c'est pour m'épargner que je parois icy.
-
--*who_prusias
-Par les commencements on peut prévoir la suite,
-Vous trouvez, distes-vous, vostre Garde seduite,
-Et le mesme interest qui retient vos Soldats
-Sur le point d'oser tout retiendra vostre bras.
-
--*who_attale
-Gardez qu'à vos dépens vous le puissiez connoistre,
-Si la trahison plaist on abhorre le Traistre,
-Et pour gouster le fruit de vos desseins jaloux,
-Tout mon sang à verser est de l'employ pour vous.
-
--*who_prusias 
-Nous verrons s'il sera difficile à répandre
-Quand vous attaquerez ce que je viens défendre.
-
--*who_attale
-Ouy, le sang d'Annibal doit estre défendu,
-Mais de ses Défenseurs on sçait qui l'a vendu.
-
--*who_elise
 Qu'importe qui de vous m'asseure d'un vray zele
 Quand Annibal vous voit l'un et l'autre infidelle ?
 C'estoit autour de luy qu'il faloit étaler
@@ -2506,33 +2178,11 @@ Esclaves en effet soyez Rois en paroles,
 Envain du plein pouvoir vous deviendrez jaloux,
 S'il n'est plus d'Annibal, plus de Trônes pour vous.
 
-**** *book_ *id_V03 *act_V *date_1669 *creator_corneille
-
--*who_elise
 Et bien, Flaminius, ton Ambassade est faite ?
 Un lâche t'a vendu ce que Rome souhaite,
 Pour combler ton triomphe, et le voir sans égal,
 Viens-tu joindre mon sang à celuy d'Annibal ?
 
--*who_flaminius
-Moderez un transport dont j'aurois à me plaindre,
-Pour le sang d'Annibal vous n'avez rien à craindre.
-Entre les mains des Miens à qui je l'ay remis,
-Pourveu qu'il vienne à Rome, il n'a plus d'Ennemis.
-De sa haine outrageante il luy doit quelque compte.
-Dans la paix de Cartage il trouva de la honte,
-S'en bannit pour nous nuire, et sur ce faux abus
-Vint enfin contre nous armer⁎ Antiochus,
-Il s'en justifiera ; pour vous, dont le seul crime
-Est de croire un peu trop le sang qui vous anime,
-Vous n'avez point de Rome à craindre le couroux,
-Elle est juste, et vous offre un traitement plus doux.
-Saisi de son pouvoir j'aime à vous faire grace,
-Recevez son appuy sans orgueil, sans audace,
-Et quelques biens par là qui vous soient accordez,
-Voyez toûjours la main de qui vous dépendez.
-
--*who_elise
 Et bien, mes Défenseurs, me voicy donc Esclave,
 Sans rien faire pour moy vous souffrez⁎ qu'on me brave,
 Et malgré vos serments de ne me point trahir
@@ -2542,96 +2192,17 @@ Traistres, qui me livrez aussi-bien que mon Pere,
 Et quand il faut montrer qu'un de vous ne l'est pas,
 Que devient vostre cœur, que devient vostre bras ?
 
--*who_attale
-C'est trop, c'est trop souffrir⁎ qu'un Perfide se cache.
-Vous l'allez voir ce cœur qui vous a paru lâche,
-Et juger qui de nous par son manque de foy⁎
-Meritoit les soupçons qui sont tombez sur moy.
-A quel titre, à quel droit vos jalouses envies
-Vous peuvent-elles rendre arbitres de nos vies,
-Et qui vous fait ainsi selon vostre interest
-Disposer de nos jours quand et comme il vous plaist ?
-Est-ce par l'amitié que le Senat me garde
-Que vous avez pris soin de corrompre ma Garde,
-Et les plus noirs forfaits, à vous seuls reservez⁎,
-Deviennent-ils permis quand vous les approuvez ?
-Quels droits sur ce beau sang que l'on vient de vous vendre,
-Celuy qui vous le vend avoit-il à pretendre ?
-Ce que jamais sans vous il n'eust sacrifié,
-L'a-t'il pû par l'honneur d'estre vostre allié ?
-Honneur injurieux ! captieuse Alliance !
-J'y renonce, et d'Elise entreprens la défence,
-Point d'autres loix pour moy que son ressentiment.
-
--*who_flaminius
-Pour un Roy de deux jours c'est parler hautement.
-
--*who_attale
-La Majesté des Rois toûjours brillante et pure
-N'a ny vos volontez ny le temps pour mesure,
-Et qui l'est un moment, doit contre vos souhaits
-Prendre assez de fierté pour n'obeïr jamais.
-
--*who_flaminius
-Je plains de cet orgueil l'aveuglement extrême,
-Pour me connoistre mieux connoissez-vous vous-mesme,
-Et sur ce que pour vous le Trône a d'éclatant,
-Retournez à Pergame, Eumene vous attend.
-
--*who_attale
-Eumene !
-
--*who_flaminius
-      Ouy, c'est par luy que le Ciel y rappelle
-Que vous avez trouvé vostre Garde infidelle,
-Quand nous le croyions mort, la mer nous l'a rendu,
-Et vous sçaurez de luy le respect⁎ qui m'est dû.
-
--*who_attale
-Faites, faites regner un Fantosme en ma place,
-Je vous fais peur au Trône, il faut que l'on m'en chasse ;
-Je vous l'avois bien dit, et voila de leurs coups,
-Je suis trahy, Madame, et trahy plus que vous,
-Mais pour vous et pour moy je vay faire connoistre
-Que je sçay mieux punir que seconder un Traistre.
-
--*who_flaminius
-Qu'on l'observe, et d'abord⁎, s'il ose rien tenter,
-Donnez ordre, Procule, à le faire arrester⁎.
-
-**** *book_ *id_V04 *act_V *date_1669 *creator_corneille 
-
--*who_elise
 Seigneur, c'est donc à vous que de ce grand ouvrage
 Doit enfin enfin sans debat demeurer l'avantage,
 Et grace à vos bontez, tout l'honneur vous est dû
 Et d'Elise trahie, et d'Annibal vendu ?
 
--*who_prusias
-Quels que soient les malheurs qui vous font plaindre un Pere,
-Madame, je n'ay fait que ce que j'ay dû faire,
-Et vous n'avez pas lieu de me les reprocher
-Lors qu'à son mauvais sort je viens vous arracher.
-Pour fuir avec honneur celuy qui vous menace,
-Prenez mon Trône offert, je vous y donne place.
-
--*who_elise
 Vostre Trône ?
 
--*who_flaminius
-      Ouy, Madame, et si vous balancez
-J'oseray contre vous plus que vous ne pensez,
-J'arresteray⁎ le cours de cette humeur altiere.
-
--*who_elise
 Parles-tu de mourir ? La menace est legere.
 Pour qui porte en son cœur le pur sang d'Annibal,
 Ce qui finit les maux ne sçauroit estre un mal.
 
--*who_flaminius
-Si vous bravez la Mort, le triomphe peut-estre…
-
--*who_elise
 Il sera beau pour toy d'avoir séduit un Traistre,
 Et tes fourbes, dont l'art nous a mis sous tes loix,
 Pour annoblir ton nom sont de fameux exploits,
@@ -2643,58 +2214,13 @@ L'affront d'y succomber me fera moins d'injure
 Que si je partageois le Trône d'un Parjure.
 De son manque de foy⁎ quoy qu'il se soit promis…
 
-**** *book_ *id_V05 *act_V *date_1669 *creator_corneille
-
--*who_alcine
-Madame, esperez tout, les Dieux nous sont amis,
-Au point que les Romains enlevoient vostre Pere,
-Le Prince…
-
--*who_elise
       Et bien ?
 
--*who_alcine
-      A fait tout ce que l'on peut faire.
-Fort d'un nombre d'Amis à la haste amassez
-Jusque dans le Palais il les a repoussez,
-Et tous, tremblant d'effroy dés qu'ils l'ont veu paroistre,
-Negligeant Annibal, l'en ont laissé le maistre.
-
--*who_prusias 
-Mon Fils a l'insolence…
-
--*who_flaminius
-      Eclatez, Prusias,
-L'entreprise est manquée, et je n'en doute pas.
-Vous voyant l'ame foible, et jamais arrestée⁎,
-Ma défiance⁎ exprés l'avoit precipitée,
-Et je ne voulois pas à vostre esprit leger
-Laisser l'occasion ny le temps de changer.
-Le Prince agit par vous, son audace est la vostre.
-Vous donnez d'une main, et retenez de l'autre,
-Mais Rome…
-
--*who_prusias
-      Et bien, Seigneur, aux dépens de mon Fils
-Vous me verrez tenir tout ce que j'ay promis.
-Bien loin d'en appuyer la criminelle audace,
-Sur luy, sur tous les Siens je vay faire main basse,
-Et ses jours immolez pourront vous faire voir
-S'il est dans ce qu'il ose armé de mon pouvoir.
-
-**** *book_ *id_V06 *act_V *date_1669 *creator_corneille
-
--*who_elise
 Poursuy, Flaminius, et pour te satisfaire
 Contre le sang du Fils arme⁎ le bras du Pere.
 Tu vois par Annibal échapé de tes mains
 Comme le Ciel par tout seconde tes desseins.
-
--*who_flaminius
-La victoire pour vous n'est pas encore entiere,
-Et je vay donner ordre à vous revoir moins fiere.
-
--*who_elise 
+ 
 Je te conseillerois de ne t'éloigner pas.
 Que sçais-tu si le Prince est maistre de son bras  ?
 Tu peux avoir besoin que je t'obtienne grace,
@@ -2702,78 +2228,164 @@ Et malgré l'attentat dont il punit l'audace,
 Je te dédaigne assez pour fuir l'abaissement
 D'abandonner ta vie à mon ressentiment.
 
--*who_flaminius
-Rome de ces mépris sçaura vous tenir compte.
+Va, va, je sçay l'accueil que Rome nous prepare,
+Et consents qu'elle songe à se faire valoir
+Quand je seray d'humeur à l'aller recevoir.
 
-**** *book_ *id_V07 *act_V *date_1669 *creator_corneille
+Ah, Seigneur, c'est donc vous ?
 
--*who_alcine
+Mais ce Traistre à vos yeux ne s'est pas fait connoistre,
+Vous allez trembler, Prince, au nom de Prusias.
+
+      Ouy, de luy viennent ces attentats.
+L'innocence d'Attale est assez averée.
+
+Aux Manes d'Annibal ?
+
+C'en est fait, il expire, ah, Seigneur !
+
+
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alcine
+
+J'ay douté de ce bruit d'abord qu'il m'a frapée,
+Mais dans toute la Cour, Madame, il fait éclat.
+Prusias sur la paix le députe au Senat,
+Et luy rend cet honneur de vouloir par sa bouche
+Expliquer⁎ à quel point ce grand Accord le touche,
+Flaminius l'emmene, ils partent dés demain.
+
+      Son refus seroit vain.
+Où l'ordre est absolu, que peut sa resistance ?
+ 
+J'ay peu l'art de connoistre un cœur comme le sien.
+Mais pourquoy…
+
+Au moins vous en aviez quelque raison secrette ?
+
+Ne dissimulez point. Le Prince a sçeu vous plaire.
+
+      Sa vertu⁎ vous doit estre assez chere.
+
+Avec tant de chaleur loüer ce qu'on estime,
+Madame, croyez-moy, c'est l'amour qui s'exprime.
+
+Mais vous mesme avec moy ne le croyez-vous pas ?
+
+J'en croiray ce motif s'il s'agit de vous plaire,
+Le Prince peut icy vous manquer au besoin,
+Mais on ne prévoit pas les malheurs de si loin,
+Et lors que tant d'ardeur fait que l'on s'interesse…
+
+      Redoutez-vous sa veuë ?
+
+Ah, Madame ! Ah, Seigneur, songez à vous défendre,
+Sans doute les Romains cherchent à vous surprendre.
+De la Cour du Palais maistres en un moment
+Ils ont presque investy tout cet apartement.
+Jugez s'ils auront peine à s'y faire passage.
+
+Madame, esperez tout, les Dieux nous sont amis,
+Au point que les Romains enlevoient vostre Pere,
+Le Prince…
+
+      A fait tout ce que l'on peut faire.
+Fort d'un nombre d'Amis à la haste amassez
+Jusque dans le Palais il les a repoussez,
+Et tous, tremblant d'effroy dés qu'ils l'ont veu paroistre,
+Negligeant Annibal, l'en ont laissé le maistre.
+
 Madame, à le braver n'estes-vous point trop prompte ?
 Le Prince perira plûtost que vous trahir,
 Mais est-il en estat de se faire obeïr ?
 Prusias est le Maistre, et comme il se declare…
 
--*who_elise
-Va, va, je sçay l'accueil que Rome nous prepare,
-Et consents qu'elle songe à se faire valoir
-Quand je seray d'humeur à l'aller recevoir.
 
-**** *book_ *id_V08 *act_V *date_1669 *creator_corneille 
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
 
--*who_elise
-Ah, Seigneur, c'est donc vous ?
+Seigneur, sur un secret d'une importance extréme
+Un Soldat Phrygien veut s'ouvrir à vous mesme.
+A trente pas d'icy je viens de le quitter.
+Il presse fort.
 
--*who_annibal
-      Ouy, que le Ciel ramene,
-Pour vous faire encor mieux heriter de ma haine.
-De nos mauvais destins si vous venez à bout,
-Voicy le bras, ma Fille, à qui vous devrez tout.
+Apres quelque chagrin que faut-il que je croye
+De voir sur vostre front éclater tant de joye ?
+Auriez-vous pû, Seigneur, ébranler Prusias ?
 
--*who_nicomede
-Seigneur, le Ciel peut-il favoriser un Traistre ?
+Eumene vit encor ?
 
--*who_elise
-Mais ce Traistre à vos yeux ne s'est pas fait connoistre,
-Vous allez trembler, Prince, au nom de Prusias.
+Mais la mort de ce Frere avoit paru certaine ?
 
--*who_nicomede
-Quoy, mon Pere…
+C'est ce qu'Attale ignore ?
 
--*who_elise
-      Ouy, de luy viennent ces attentats.
-L'innocence d'Attale est assez averée.
+      Voyez qu'il s'avance vers vous.
 
--*who_nicomede
-O triomphe pour moy de trop peu de durée !
-N'importe, osons, Seigneur, tant que j'auray du sang
-J'appuyeray vostre haine, et soûtiendray mon rang.
 
--*who_annibal
-Elle doit à vos yeux estre d'autant plus chere
-Que l'on voit chaque jour que Rome degenere.
-Pyrrus armant contre elle un dangereux party,
-D'un poison préparé fut par elle adverty.
-Quelque animosité qu'elle se crust permise
-Elle n'en voulut point triompher par surprise,
-Cependant⁎ aujourd'huy le crime est de ses droits,
-Et pour perdre Annibal, elle corrompt les Rois.
+**** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
 
-**** *book_ *id_V09 *act_V *date_1669 *creator_corneille
+Me trompay-je, Seigneur, dans ce que je présume ?
+Attale craint qu'un jour la guerre se rallume,
+Et de peur qu'Annibal n'ose vous secourir
+En épousant sa Fille il veut se l'acquerir.
 
--*who_araxe
+      D'où vient…
+
+A vous, Seigneur ?
+
+Pouvez-vous regreter qu'il chasse ailleurs un homme
+Dont la retraite⁎ icy vous rend suspect à Rome ?
+
+      Eh bien, quel interest…
+ 
+      Seigneur, je crois qu'elle vous plaist ?
+
+      Je l'apprens de vous-mesme,
+Ce trouble…
+
+Mais en vous declarant doutez-vous qu'avec joye
+Annibal…
+
+La raison le dira si vous l'en consultez.
+L'amitié des Romains faisant vostre asseurance
+Il vous faut d'Annibal éviter l'alliance.
+Seigneur, servez Attale, et secondez ses feux.
+
+      Seigneur, elle vient à propos.
+
+Mais si vous regardez son amour comme un crime,
+Comment rendre, Seigneur, le vostre legitime ?
+Rome vous verra-t'elle impunément joüir…
+
+Mais d'une et d'autre part vostre esperance est vaine,
+Elise veut, Seigneur, qu'on épouse sa haine,
+Et que…
+
+Sçachant ce qui se passe avez-vous à douter !
+Il faut perdre Annibal ; cette seule entreprise
+Affermit vostre Trône, et vous acquiert Elise,
+Par là vous gagnez tout.
+
+Estes-vous en estat de ne le perdre pas ?
+Decidant de ses jours Attale…
+
+De tels crimes au Sort doivent estre imputez.
+Il a donné l'arrest, et vous l'executez.
+Annibal est trahy ; puisqu'il faut qu'il perisse
+Attirez vous le fruit de ce grand sacrifice,
+Voyez Flaminius, et sans plus differer,
+Quoy qu'Attale ait promis, faites-vous préferer.
+
+      Le remede est facile.
+Employez des Romains, et par eux seulement
+Faites prendre Annibal dans son appartement.
+Le coup fait, plaignez-vous de cette violence,
+Rendez suspect Attale, et demandez vangeance.
+Enfin quand le succez manqueroit à vos feux
+C'est beaucoup d'empescher qu'un Rival soit heureux.
+
 Seigneur, de Prusias plaignez la destinée.
 
--*who_nicomede
-Araxe.
-
--*who_araxe
       Il ne vit plus.
 
--*who_nicomede
-      O funeste journée !
-Mon Pere ne vit plus.
-
--*who_araxe
       A peine a-t-il appris
 Ce que pour Annibal vous avez entrepris,
 Que saisi tout à coup d'une fureur extrême,
@@ -2793,68 +2405,3 @@ Ils s'animent l'un l'autre, envelopent Attale,
 L'arrestent⁎, et craignant quelques malheurs nouveaux,
 Flaminius, dit-on, regagne ses vaisseaux.
 
--*who_nicomede
-O succez déplorable ! ô perte trop amere !
-Romains, qui me coustez la vertu⁎ de mon Pere,
-Vous m'en ferez raison ; pour ce noble soucy,
-Donnez l'ordre, Seigneur, vous estes maistre icy.
-
--*who_annibal
-C'est trop, il ne faut plus que vostre amour se cache,
-Le Prince vous merite, il est enfin sans tache,
-Prenez-le pour Epoux, et dans tous vos desseins
-Ayez pour seul objet la perte des Romains.
-Aprés un trop long faste un jour viendra peut-estre
-Où ces Tyrans du monde adoreront un Maistre,
-Et tremblant sous le joug qu'ils m'osoient destiner
-Se sousmettront aux loix qu'ils n'ont pu me donner.
-Puissent-ils, attendant ce honteux esclavage,
-Tourner contre leur sein leur plus sanglante rage,
-Se déchirer l'un l'autre, et d'un acier fatal
-Eux-mesmes s'immoler aux Manes d'Annibal.
-
--*who_elise
-Aux Manes d'Annibal ?
-
--*who_annibal
-      Quoy, vous auriez pû croire
-Que j'eusse pris si peu l'interest de ma gloire,
-Qu'aux mains de mes Tyrans m'estant veu sans secours,
-Je leur eusse laissé quelque droit sur mes jours ?
-Cet anneau m'a fourny dequoy ne les pas craindre,
-Je meurs empoisonné.
-
--*who_nicomede
-      Dieux !
-
--*who_annibal
-      Gardez de me plaindre,
-Avecque trop d'éclat j'ay sçeu remplir mon sort
-Pour vous donner sujet de regreter ma mort.
-Vivez pour haïr Rome, et maistres de vos vies,
-Si d'un jaloux destin elles sont poursuivies,
-Envisageant toûjours sa rigueur sans effroy,
-Bravez la Tyrannie, et mourez comme moy.
-
--*who_elise
-C'en est fait, il expire, ah, Seigneur !
-
--*who_nicomede
-      Ah, Madame !
-Que d'ennuis⁎ à la fois s'emparent de mon ame !
-Allons en Bithynie, et pour nous soulager
-Faisons-y tout servir au soin de nous vanger.
-
-**** *book_ *id_privilege *date_1669 *creator_corneille
-
-Extrait du privilège du Roy
-
-Par grace et Privilege du Roy donné à S. Germain en Laye le 27 Février 1670.
-Signé d'ALENCE : Il est permis à Claude Barbin Marchand Libraire à Paris, de faire imprimer la Tragedie d'Annibal de Monsieur de Corneille, pendant le temps et espace de sept années ; avec défences à tous Libraires et Imprimeurs de l'imprimer, sans l'exprés consentement dudit sieur, suivant les peines portées par lesdites Lettres.
-
-Registré sur le Livre de la Communauté des Libraires et Imprimeurs, suivant l'Arrest de la Cour de Parlement.
-Signé SOUBRON.
-
-Achevé d'imprimer pour la premiere fois, le 12 Avril 1670. à Roüen par L. Maurry.
-
-Et ledit Sieur Corneille a transporté ledit Privilege aux sieurs Guillaume de Luyne et Claude Barbin, Marchands Libraires au Palais, pour en joüir suivant l'accord fait entr'eux.

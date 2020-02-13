@@ -1,4 +1,4 @@
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -8,7 +8,8 @@
         <editor>Garlonn Moreau</editor>
       </titleStmt>
       <editionStmt>
-        <edition>Édition critique établie par Garlonn Moreau dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2001-2002)</edition>
+        <edition>Édition critique établie par Garlonn Moreau dans le cadre d'un mémoire de maîtrise
+          sous la direction de Georges Forestier (2001-2002)</edition>
         <respStmt>
           <name>Amélie Canu</name>
           <resp>Édition XML/TEI</resp>
@@ -35,26 +36,45 @@
       <langUsage>
         <language ident="fre"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
     </profileDesc>
-    <textClass>
-      <keywords>
-        <term subtype="tragedy" type="genre">Tragédie</term>
-      </keywords>
-    </textClass>
   </teiHeader>
   <text>
     <body>
       <head>LAODICE REINE DE CAPPADOCE, TRAGÉDIE</head>
       <div type="dedication">
         <head>AU LECTEUR.</head>
-        <p>LE sujet de cette Tragedie est tiré du trente-septiéme livre de Justin. Ceux qui auront la curiosité de l’y chercher, connoistront ce que j’ay adjousté à l’Histoire pour l’accomoder à nostre Theatre. L’Action principale y est si forte qu’elle m’a contraint d’affoiblir les Episodes, et de negliger beaucoup d’ornemens pour laisser à Laodice toute l’étenduë de son caractere. La matiere estoit belle pour l’ambition, et je ne doute point qu’un autre n’en eust fait voir des peintures plus achevées. Pour moy, j’avoüe que mes forces n’ont pû aller plus loin, et que je ne demande l’indulgence dont j’ay besoin pour cét Ouvrage, qu’aprés avoir employé tous mes soins pour adoucir les defauts dont je n’ay pû entierement le purger.</p>
+        <p>LE sujet de cette Tragedie est tiré du trente-septiéme livre de Justin. Ceux qui auront
+          la curiosité de l’y chercher, connoistront ce que j’ay adjousté à l’Histoire pour
+          l’accomoder à nostre Theatre. L’Action principale y est si forte qu’elle m’a contraint
+          d’affoiblir les Episodes, et de negliger beaucoup d’ornemens pour laisser à Laodice toute
+          l’étenduë de son caractere. La matiere estoit belle pour l’ambition, et je ne doute point
+          qu’un autre n’en eust fait voir des peintures plus achevées. Pour moy, j’avoüe que mes
+          forces n’ont pû aller plus loin, et que je ne demande l’indulgence dont j’ay besoin pour
+          cét Ouvrage, qu’aprés avoir employé tous mes soins pour adoucir les defauts dont je n’ay
+          pû entierement le purger.</p>
       </div>
       <div type="appendix">
         <head>Extrait du Privilege du Roy.</head>
-        <p>PAr grace et Privilege du Roy donné à S. Germain en Laye le 21 de Février 1668. Signé de MALON, il est permis au sieur T. CORNEILLE de faire imprimer, vendre et debiter par tel Imprimeur et Libraire qu’il voudra choisir, une piece de Theatre de sa composition, intitulée <hi rend="i">Laodice Reyne de Cappadoce</hi>, pendant le temps et espace de cinq ans entiers et accomplis, à compter du jour que ladite piece de Theatre sera achevée d’imprimer ; et défences sont faites à tous autres de quelque qualité et condition qu’ils soient de faire imprimer la dite Piece sur peine de trois mille livres d’amende, et tous dépens, dommages et interests, ainsi qu’il est plus amplement porté par lesdites lettres.</p>
+        <p>PAr grace et Privilege du Roy donné à S. Germain en Laye le 21 de Février 1668. Signé de
+          MALON, il est permis au sieur T. CORNEILLE de faire imprimer, vendre et debiter par tel
+          Imprimeur et Libraire qu’il voudra choisir, une piece de Theatre de sa composition,
+          intitulée <hi rend="i">Laodice Reyne de Cappadoce</hi>, pendant le temps et espace de cinq
+          ans entiers et accomplis, à compter du jour que ladite piece de Theatre sera achevée
+          d’imprimer ; et défences sont faites à tous autres de quelque qualité et condition qu’ils
+          soient de faire imprimer la dite Piece sur peine de trois mille livres d’amende, et tous
+          dépens, dommages et interests, ainsi qu’il est plus amplement porté par lesdites
+          lettres.</p>
         <p><hi rend="i">Registré sur le livre de la communauté le cinquième de mars 1668</hi>.</p>
         <p>Signé THIERRY Adjoint.</p>
-        <p>Achevé d’imprimer pour la premiere fois le 8 Mars 1668. à Roüen, par L. MAURRY, aus dépens de l’Autheur, lequel a traité la presente impression et du Privilege à l’avenir avec CLAUDE BARBIN, et GABRIEL QUINET Marchands Libraires à Paris, pour en joüir suivant l’accord fait entr’eux.</p>
+        <p>Achevé d’imprimer pour la premiere fois le 8 Mars 1668. à Roüen, par L. MAURRY, aus
+          dépens de l’Autheur, lequel a traité la presente impression et du Privilege à l’avenir
+          avec CLAUDE BARBIN, et GABRIEL QUINET Marchands Libraires à Paris, pour en joüir suivant
+          l’accord fait entr’eux.</p>
         <p rend="center">
           <hi rend="i">Les Exemplaires ont esté fournis.</hi>
         </p>
@@ -68,17 +88,20 @@
         <div type="scene">
           <head>Scène première.</head>
           <sp who="axiane">
-            <l n="1" xml:id="l1">Quoy, le Senat <ref target="#deputer">députe*</ref>, et sans daigner attendre</l>
+            <l n="1" xml:id="l1">Quoy, le Senat <ref target="#deputer">députe*</ref>, et sans
+              daigner attendre</l>
             <l n="2" xml:id="l2">Qu’icy l’Ambassadeur ait le temps de se rendre,</l>
             <l n="3" xml:id="l3">La Reyne sur ce choix ne consultant que soy,</l>
             <l n="4" xml:id="l4">Veut à la Cappadoce enfin donner un Roy ? </l>
           </sp>
           <sp who="alcine">
-            <l n="5" xml:id="l5">Vous en estonnez-vous quand  Rome s’interesse</l>
+            <l n="5" xml:id="l5">Vous en estonnez-vous quand Rome
+                s’interesse</l>
             <l n="6" xml:id="l6">A l’Espoux qu’elle doit choisir pour la Princesse ?</l>
             <l n="7" xml:id="l7">Déja depuis long-temps le peuple à haute voix<pb n="2" xml:id="p2"/></l>
-            <l n="8" xml:id="l8">Afin d’avoir un Roy <ref target="#presser">presse*</ref> pour ce grand choix,</l>
-            <l n="9" xml:id="l9">Et comme Aquilius  que ce projet amene</l>
+            <l n="8" xml:id="l8">Afin d’avoir un Roy <ref target="#presser">presse*</ref> pour ce
+              grand choix,</l>
+            <l n="9" xml:id="l9">Et comme Aquilius que ce projet amene</l>
             <l n="10" xml:id="l10">Arrivant tout à coup peut surprendre la Reyne,</l>
             <l n="11" xml:id="l11">Pour prévenir son ordre, elle veut aujourd’huy</l>
             <l n="12" xml:id="l12">Nous donner seule un maistre et s’en faire un appuy.</l>
@@ -100,7 +123,7 @@
             <l n="24" xml:id="l24">Par qui tous ces Estats vous estoient destinez !</l>
             <l n="25" xml:id="l25">L’Hymen qui vous eust jointe à l’aisné de ces Princes</l>
             <l n="26" xml:id="l26">Vous auroit fait regner sur toutes ces Provinces,</l>
-            <l n="27" xml:id="l27">Et vos Ciliciens par ce nœud  glorieux</l>
+            <l n="27" xml:id="l27">Et vos Ciliciens par ce nœud glorieux</l>
             <l n="28" xml:id="l28">Eussent veu leur Princesse au rang de ses Ayeux.</l>
           </sp>
           <sp who="axiane">
@@ -109,16 +132,19 @@
             <l n="31" xml:id="l31">Et par l’ordre de Rome envoyée en ces lieux</l>
             <l n="32" xml:id="l32">J’y pouvois esperer un destin glorieux,</l>
             <l n="33" xml:id="l33">Du moins Rome, en donnant mes Estats à la Reyne,</l>
-            <l n="34" xml:id="l34">Sembla me <ref target="#reserver">reserver*</ref> au rang de Souveraine,</l>
+            <l n="34" xml:id="l34">Sembla me <ref target="#reserver">reserver*</ref> au rang de
+              Souveraine,</l>
             <l n="35" xml:id="l35">Et pour les voir au siens plus seurement unis</l>
             <l n="36" xml:id="l36">Me destina pour Femme à l’Aisné de ses Fils ;</l>
             <l n="37" xml:id="l37">Mais ils ne vivent plus, et quoy que l’on se flate<pb n="3 A ij" xml:id="p3"/></l>
-            <l n="38" xml:id="l38">Que le Ciel a sauvé le jeune Ariarate,</l>
+            <l n="38" xml:id="l38">Que le Ciel a sauvé le jeune
+              Ariarate,</l>
             <l n="39" xml:id="l39">Arsinoé sa Sœur a droit seule aujourd’huy</l>
             <l n="40" xml:id="l40">De posseder le rang que j’attendois de luy.</l>
           </sp>
           <sp who="alcine">
-            <l n="41" xml:id="l41">Aux <ref target="#voeux">vœux*</ref> d’Arsinoé quoy que ce rang promette,</l>
+            <l n="41" xml:id="l41">Aux <ref target="#voeux">vœux*</ref> d’Arsinoé quoy que ce rang
+              promette,</l>
             <l n="42" xml:id="l42">Ariarate encor la peut laisser Sujette.</l>
             <l n="43" xml:id="l43">Le plus riant espoir nous trompe assez souvent,</l>
             <l n="44" xml:id="l44">Que sçait-on si ce Frere enfin n’est point vivant ?</l>
@@ -131,7 +157,8 @@
             <l n="49" xml:id="l49">Et des jours de son Fils la frivole asseurance</l>
             <l n="50" xml:id="l50">Tenoit toûjours l’hymen de sa Fille en balance,</l>
             <l n="51" xml:id="l51">Qui de son Frere encore attendroit le retour,</l>
-            <l n="52" xml:id="l52">Si le Peuple ennuyé ne <ref target="#presser">pressoit*</ref> ce grand jour,</l>
+            <l n="52" xml:id="l52">Si le Peuple ennuyé ne <ref target="#presser">pressoit*</ref> ce grand
+              jour,</l>
             <l n="53" xml:id="l53">Il croit ce Prince mort, et veut avoir un maistre.</l>
           </sp>
           <sp who="alcine">
@@ -168,7 +195,7 @@
             <l n="70" xml:id="l70">Et dans l’avidité de la grandeur suprême,</l>
             <l n="71" xml:id="l71">Chacun pour son Hymen qui les fera regner</l>
             <l n="72" xml:id="l72">Brigue la voix d’Oronte, et tâche à le gagner.</l>
-            <l n="73" xml:id="l73">Ce fameux Inconnu peut beaucoup sur la  Reyne.</l>
+            <l n="73" xml:id="l73">Ce fameux Inconnu peut beaucoup sur la Reyne.</l>
           </sp>
           <sp who="axiane">
             <l n="74" xml:id="l74" part="I">Son merite est bien rare.</l>
@@ -185,12 +212,14 @@
             <l n="78" xml:id="l78">Qu’afin de l’arrester on ne peut assez faire.</l>
             <l n="79" xml:id="l79">Depuis plus de deux ans que la faveur des Dieux</l>
             <l n="80" xml:id="l80">Nous l’ayant envoyé le retient en ces lieux,</l>
-            <l n="81" xml:id="l81">De nos <ref target="#fier">fiers*</ref> Ennemis l’insolence estoufée</l>
+            <l n="81" xml:id="l81">De nos <ref target="#fier">fiers*</ref> Ennemis l’insolence
+              estoufée</l>
             <l n="82" xml:id="l82">A ses moindres exploits a servy de trophée,</l>
-            <l n="83" xml:id="l83">Et ce que leur audace ou medite  ou produit</l>
+            <l n="83" xml:id="l83">Et ce que leur audace ou medite ou produit</l>
             <l n="84" xml:id="l84">Par ses sages conseils est aussy-tost détruit ;</l>
             <l n="85" xml:id="l85">Mais ces rares effets de valeur, de prudence,</l>
-            <l n="86" xml:id="l86">Luy donnent de la <ref target="#gloire">gloire*</ref>, et non de la naissance,</l>
+            <l n="86" xml:id="l86">Luy donnent de la <ref target="#gloire">gloire*</ref>, et non de
+              la naissance,</l>
             <l n="87" xml:id="l87">Et le rang inégal où le Ciel l’a formé</l>
             <l n="88" xml:id="l88">Ne l’empesche pas moins d’esperer d’estre aimé.</l>
           </sp>
@@ -198,7 +227,7 @@
             <l n="89" xml:id="l89">Il se peut qu’en son cœur cét espoir n’ose naistre,<pb n="5 A iij" xml:id="p5"/></l>
             <l n="90" xml:id="l90">Mais, Alcine, pourquoy ne pourroit-il pas l’estre ?</l>
             <l n="91" xml:id="l91">L’amour, de la raison est-il toûjours l’effet,</l>
-            <l n="92" xml:id="l92">Et n’aime-t-on jamais  sans sçavoir ce qu’on fait ?</l>
+            <l n="92" xml:id="l92">Et n’aime-t-on jamais sans sçavoir ce qu’on fait ?</l>
           </sp>
           <sp who="alcine">
             <l n="93" xml:id="l93">Je croirois que son rang trop different du vostre…</l>
@@ -217,7 +246,8 @@
             <l n="99" xml:id="l99">Et dans la liberté de voir et d’estimer,</l>
             <l n="100" xml:id="l100">Lors qu’on aime en effet, s’apperçoit-on d’aimer ?</l>
             <l n="101" xml:id="l101">D’un doux je ne sçay quoi la plus flateuse <ref target="#amorce">amorce*</ref></l>
-            <l n="102" xml:id="l102">N’est d’abord qu’un tribut <ref target="#ou">où*</ref> la vertu nous force.</l>
+            <l n="102" xml:id="l102">N’est d’abord qu’un tribut
+              <ref target="#ou">où*</ref> la vertu nous force.</l>
             <l n="103" xml:id="l103">L’éclat dont elle brille aux yeux de cent témoins</l>
             <l n="104" xml:id="l104">D’un cœur qui la connoist ne peut attendre moins.</l>
             <l n="105" xml:id="l105">L’ame a beau s’en trouver inquiete, interdite,</l>
@@ -243,8 +273,8 @@
             <l n="123" xml:id="l123" part="I">En sçait-il le secret ?</l>
           </sp>
           <sp who="axiane">
-            <l part="F">Je tâche à luy  cacher</l>
-            <l n="124" xml:id="l124">Ce qu’en vain de mon  cœur je voudrois arracher,</l>
+            <l part="F">Je tâche à luy cacher</l>
+            <l n="124" xml:id="l124">Ce qu’en vain de mon cœur je voudrois arracher,</l>
             <l n="125" xml:id="l125">Je m’observe sans cesse en tout ce qu’il m’inspire,</l>
             <l n="126" xml:id="l126">Mais l’amour dit beaucoup lors qu’il croit ne rien dire,</l>
             <l n="127" xml:id="l127">Et quelque soin qu’on prenne à bien dissimuler,</l>
@@ -273,12 +303,14 @@
             <l n="142" xml:id="l142">Sa fille Arsinoé prend aujourd’huy sa place,</l>
             <l n="143" xml:id="l143">Et l’Espoux que pour elle a resolu son choix</l>
             <l n="144" xml:id="l144">Montant par elle au Trône y va donner des loix.</l>
-            <l n="145" xml:id="l145">Quelle <ref target="#douceur">douceur*</ref> pour moy si dans cette journée</l>
+            <l n="145" xml:id="l145">Quelle <ref target="#douceur">douceur*</ref> pour moy si dans
+              cette journée</l>
             <l n="146" xml:id="l146">Au lieu d’Arsinoé vous estiez couronnée !</l>
             <l n="147" xml:id="l147">Quand Rome disposa de vos Estats conquis</l>
             <l n="148" xml:id="l148">La Reyne pour Espoux vous destina son Fils,</l>
             <l n="149" xml:id="l149">Et dans la Cappadoce on vous vit élevée</l>
-            <l n="150" xml:id="l150">Pour la <ref target="#gloire">gloire*</ref> <ref target="#ou">où*</ref> ce choix vous avoit <ref target="#reserver">reservée*</ref>.</l>
+            <l n="150" xml:id="l150">Pour la <ref target="#gloire">gloire*</ref>
+              <ref target="#ou">où*</ref> ce choix vous avoit <ref target="#reserver">reservée*</ref>.</l>
             <l n="151" xml:id="l151">Plust au Ciel qu’il parust ce Fils, et qu’il fust prest...</l>
           </sp>
           <sp who="axiane">
@@ -315,8 +347,9 @@
           </sp>
           <sp who="axiane">
             <l part="F">Ce soupçon va trop loin pour ma <ref target="#gloire">gloire*</ref></l>
-            <l n="170" xml:id="l170">Mais enfin  quel sujet auriez-vous de le croire ?</l>
-            <l n="171" xml:id="l171">D’aucuns <ref target="#voeux">vœux*</ref>, d’aucuns <ref target="#soins">soins*</ref> m’a-t’on veu faire cas ?</l>
+            <l n="170" xml:id="l170">Mais enfin quel sujet auriez-vous de le croire ?</l>
+            <l n="171" xml:id="l171">D’aucuns <ref target="#voeux">vœux*</ref>, d’aucuns
+              <ref target="#soins">soins*</ref> m’a-t’on veu faire cas ?</l>
           </sp>
           <sp who="ariarate">
             <l n="172" xml:id="l172">Madame, au nom des Dieux ne me le cachez pas.</l>
@@ -334,14 +367,16 @@
           <sp who="ariarate">
             <l n="176" xml:id="l176">Vous sçavez le credit où la faveur m’a mis,</l>
             <l n="177" xml:id="l177">Je puis ce que je veux sur l’esprit de la Reyne,</l>
-            <l n="178" xml:id="l178">Et quand le choix  d’un  Roy luy tient l’ame incertaine,</l>
+            <l n="178" xml:id="l178">Et quand le choix d’un Roy luy tient l’ame incertaine,</l>
             <l n="179" xml:id="l179">Nommant qui vous aimez vous n’auriez point l’ennuy<pb n="9" xml:id="p9"/></l>
             <l n="180" xml:id="l180">De craindre que ce choix pust s’arrester sur luy,</l>
-            <l n="181" xml:id="l181">J’en sçaurois à vos <ref target="#voeux">vœux*</ref> espargner le suplice.</l>
+            <l n="181" xml:id="l181">J’en sçaurois à vos <ref target="#voeux">vœux*</ref> espargner
+              le suplice.</l>
           </sp>
           <sp who="axiane">
             <l n="182" xml:id="l182">Je luy ferois peut-estre un peu moins d’injustice,</l>
-            <l n="183" xml:id="l183">Et croirois que ma <ref target="#gloire">gloire*</ref> auroit à s’indigner</l>
+            <l n="183" xml:id="l183">Et croirois que ma <ref target="#gloire">gloire*</ref> auroit à
+              s’indigner</l>
             <l n="184" xml:id="l184">Si mon cœur luy coustoit la <ref target="#douceur">douceur*</ref> de regner.</l>
             <l n="185" xml:id="l185">Mais ma crainte par là trouve peu de matiere,</l>
             <l n="186" xml:id="l186">Et pour vous en donner la marque toute entiere,</l>
@@ -426,7 +461,8 @@
           </sp>
           <sp who="phradate">
             <l n="230" xml:id="l230">Que je la trouve heureuse, et que je suis à plaindre !</l>
-            <l n="231" xml:id="l231">Quoy que d’Arsinoé tous les <ref target="#voeux">vœux*</ref> soient pour moy,</l>
+            <l n="231" xml:id="l231">Quoy que d’Arsinoé tous les <ref target="#voeux">vœux*</ref>
+              soient pour moy,</l>
             <l n="232" xml:id="l232">J’ay des Rivaux, Oronte, et j’en tremble d’effroy,</l>
             <l n="233" xml:id="l233">Car vous ne doutez point que leur jalouse envie</l>
             <l n="234" xml:id="l234">M’ostant Arsinoé ne me couste la vie.</l>
@@ -495,7 +531,7 @@
             <l n="272" xml:id="l272">Le secret de son Fils n’est connu que de moy,</l>
             <l n="273" xml:id="l273">Elle-mesme l’ignore, et pour ne vous rien taire</l>
             <l n="274" xml:id="l274">A vous qui m’honorez d’une amitié sincere,</l>
-            <l n="275" xml:id="l275">Aquilius qu’exprès  Rome envoye en ces lieux</l>
+            <l n="275" xml:id="l275">Aquilius qu’exprès Rome envoye en ces lieux</l>
             <l n="276" xml:id="l276">Vient rétablir ce Prince au rang de ses Ayeux.</l>
           </sp>
           <sp who="phradate">
@@ -581,7 +617,8 @@
             <l n="340" xml:id="l340">Pour l’appuy de son Sceptre elle estime mes <ref target="#soins">soins*</ref>.</l>
             <l n="341" xml:id="l341">J’ay <ref target="#d-ailleurs">d’ailleurs*</ref> la <ref target="#douceur">douceur*</ref> d’avoir pû sans Couronne</l>
             <l n="342" xml:id="l342">Attacher Axiane à ma seule personne,</l>
-            <l n="343" xml:id="l343">En voir mes <ref target="#voeux">vœux*</ref> receus sans qu’un feu si discret</l>
+            <l n="343" xml:id="l343">En voir mes <ref target="#voeux">vœux*</ref> receus sans qu’un
+              feu si discret</l>
             <l n="344" xml:id="l344">Pour les faire agréer ait trahy mon secret.</l>
             <l n="345" xml:id="l345">J’aime à le taire exprés jusqu’à ce qu’elle apprenne</l>
             <l n="346" xml:id="l346">Qu’Ariarate vit, et vient la faire Reyne,</l>
@@ -600,7 +637,8 @@
         <div type="scene">
           <head>Scène IV.</head>
           <sp who="anaxandre">
-            <l n="352" xml:id="l352">Phradate prend grand soin de vous faire sa Cour,<pb n="16" xml:id="p16"/></l>
+            <l n="352" xml:id="l352">Phradate prend grand soin de vous faire sa
+                Cour,<pb n="16" xml:id="p16"/></l>
             <l n="353" xml:id="l353">Et je ne doute point qu’il n’ait quelque avantage</l>
             <l n="354" xml:id="l354">Sur quiconque voudra briguer vôtre suffrage.</l>
             <l n="355" xml:id="l355">La secrete amitié qu’on remarque entre vous…</l>
@@ -622,7 +660,7 @@
           <sp who="anaxandre">
             <l n="363" xml:id="l363">Si vous me dites vray, je puis tout esperer.</l>
             <l n="364" xml:id="l364">Chacun en ma faveur aime à se declarer,</l>
-            <l n="365" xml:id="l365">Et quoy  qu’à mes Rivaux nous voyions entreprendre,</l>
+            <l n="365" xml:id="l365">Et quoy qu’à mes Rivaux nous voyions entreprendre,</l>
             <l n="366" xml:id="l366">Si vous n’estes pour eux, ils n’ont rien à prétendre,</l>
             <l n="367" xml:id="l367">Mais comme c’est par vous que je veux estre Roy,</l>
             <l n="368" xml:id="l368">Le Trône, si j’y monte, est plus à vous qu’à moy,</l>
@@ -717,7 +755,8 @@
           <sp who="laodice">
             <l n="422" xml:id="l422">Et pouvant le prévoir tu crois que je m’y fie,</l>
             <l n="423" xml:id="l423">Et soufre qu’aujourd’huy par le don de sa main</l>
-            <l n="424" xml:id="l424">Ma fille ait la <ref target="#douceur">douceur*</ref> de faire un Souverain ?</l>
+            <l n="424" xml:id="l424">Ma fille ait la <ref target="#douceur">douceur*</ref> de faire
+              un Souverain ?</l>
           </sp>
           <sp who="cleone">
             <l n="425" xml:id="l425">Pour qui donc cét Espoux qui doit monter au Trône ?</l>
@@ -731,7 +770,8 @@
           </sp>
           <sp who="laodice">
             <l n="428" xml:id="l428">Quoy donc, à son orgueil il faut m’assujetir,</l>
-            <l n="429" xml:id="l429">Et quand des droits du Trône on me doit voir instruite</l>
+            <l n="429" xml:id="l429">Et quand des droits du Trône on me doit
+              voir instruite</l>
             <l n="430" xml:id="l430">Cette Reyne des Rois reglera ma conduite ?</l>
             <l n="431" xml:id="l431">Qu’elle en murmure ou non, je sçauray faire un Roy</l>
             <l n="432" xml:id="l432">Qui dédaignant ses loix n’en prenne que de moy,</l>
@@ -749,7 +789,8 @@
             <l n="442" xml:id="l442">Je ne demande plus quel choix vous allez faire.</l>
             <l n="443" xml:id="l443">Tant d’honneurs sur Oronte à pleines mains versez</l>
             <l n="444" xml:id="l444">Sans vous l’oüir nommer me l’apprennent assez,</l>
-            <l n="445" xml:id="l445">Son <ref target="#zele">zéle*</ref> exact et pur, sa valeur, sa prudence…</l>
+            <l n="445" xml:id="l445">Son <ref target="#zele">zéle*</ref> exact et pur, sa valeur, sa
+              prudence…</l>
           </sp>
           <sp who="laodice">
             <l n="446" xml:id="l446">Dy qu’il est Estranger, sans appuy de naissance,</l>
@@ -773,12 +814,13 @@
             <l n="459" xml:id="l459">Et qu’une insatiable et vaste ambition</l>
             <l n="460" xml:id="l460">Me faisoit dédaigner toute autre passion.</l>
             <l n="461" xml:id="l461">Pour en remplir l’ardeur, je traitay de foiblesse</l>
-            <l n="462" xml:id="l462">Ce que peut la <ref target="#nature">Nature*</ref> inspirer de tendresse,</l>
+            <l n="462" xml:id="l462">Ce que peut la <ref target="#nature">Nature*</ref> inspirer de
+              tendresse,</l>
             <l n="463" xml:id="l463">Et quoy qu’elle en gemist, dans la mort de cinq Fils</l>
-            <l n="464" xml:id="l464">Le charme de regner fut  tout ce que je vis.</l>
+            <l n="464" xml:id="l464">Le charme de regner fut tout ce que je vis.</l>
             <l n="465" xml:id="l465">Le sixiéme qu’à Rome on gardoit en ostage</l>
             <l n="466" xml:id="l466">A mes jaloux desirs faisoit encor ombrage.</l>
-            <l n="467" xml:id="l467">De peur qu’un jour du Trône il osast me priver,  <pb n="21" xml:id="p21"/></l>
+            <l n="467" xml:id="l467">De peur qu’un jour du Trône il osast me priver, <pb n="21" xml:id="p21"/></l>
             <l n="468" xml:id="l468">Sans pitié, sans remords, je le fis enlever,</l>
             <l n="469" xml:id="l469">Et voulus que sa mort parust estre incertaine</l>
             <l n="470" xml:id="l470">Pour suspendre les droits qui font ma Fille Reyne,</l>
@@ -791,7 +833,8 @@
             <l n="477" xml:id="l477">J’y trouve de la honte, et ma fierté s’en fâche,</l>
             <l n="478" xml:id="l478">Je me traite en secret et de foible et de lâche,</l>
             <l n="479" xml:id="l479">Et cependant mon cœur ne se peut arracher</l>
-            <l n="480" xml:id="l480">Aux flateuses douceurs qui l’ont trop sceu toucher,</l>
+            <l n="480" xml:id="l480">Aux flateuses douceurs qui l’ont trop sceu
+                toucher,</l>
             <l n="481" xml:id="l481">Je voy sans cesse Oronte actif, ardent, fidelle,</l>
             <l n="482" xml:id="l482">Par cent <ref target="#soins">soins*</ref> empressez me signaler son <ref target="#zele">zéle*</ref>,</l>
             <l n="483" xml:id="l483">Au seul bien de me plaire attacher tous ses vœux,</l>
@@ -836,15 +879,18 @@
             <l n="511" xml:id="l511">Et tous pouvant prétendre à l’honneur de mon choix,</l>
             <l n="512" xml:id="l512">Tous de Rome en secret ont fait briguer la voix,</l>
             <l n="513" xml:id="l513">Aquilius entr’eux vient resoudre d’un Maistre,</l>
-            <l n="514" xml:id="l514">Et l’on voit quelle honte au rang où j’ai sceu naistre</l>
+            <l n="514" xml:id="l514">Et l’on voit quelle honte au rang où j’ai
+              sceu naistre</l>
             <l n="515" xml:id="l515">Si pour moy dans ce choix qu’exprés je veux haster</l>
             <l n="516" xml:id="l516">Les ordres du Senat estoient à respecter.</l>
             <l n="517" xml:id="l517">Mais quoy qu’il ne soit pas indigne d’une Reyne</l>
             <l n="518" xml:id="l518">De refuser le joug de la grandeur Romaine,</l>
-            <l n="519" xml:id="l519">Les Dieux me sont témoins qu’un interest plus cher</l>
+            <l n="519" xml:id="l519">Les Dieux me sont témoins qu’un interest
+              plus cher</l>
             <l n="520" xml:id="l520">Fait naistre icy l’orgueil qu’on me peut reprocher,</l>
             <l n="521" xml:id="l521">Et que dans cét orgueil à mon rang necessaire<pb n="23" xml:id="p23"/></l>
-            <l n="522" xml:id="l522">Tout ce que je regarde est un devoir de mere</l>
+            <l n="522" xml:id="l522">Tout ce que je regarde est un devoir de
+              mere</l>
             <l n="523" xml:id="l523">Qui toujoûrs pour mon Fils m’engage à conserver</l>
             <l n="524" xml:id="l524">Un sceptre dont je vois qu’on cherche à le priver.</l>
             <l n="525" xml:id="l525">C’est ce que je veux faire avec cette tendresse</l>
@@ -852,13 +898,16 @@
             <l n="527" xml:id="l527">Et comme de son Trône on voit en vous l’appuy</l>
             <l n="528" xml:id="l528">C’est de vous jusqu’au bout que j’attens tout pour luy.</l>
             <l n="529" xml:id="l529">Il est vivant sans doute, et le Ciel qui m’inspire</l>
-            <l n="530" xml:id="l530">Me promet la <ref target="#douceur">douceur*</ref> de luy rendre l’Empire,</l>
-            <l n="531" xml:id="l531">Si toûjours d’un vray <ref target="#zele">zéle*</ref> Oronte prévenu</l>
+            <l n="530" xml:id="l530">Me promet la <ref target="#douceur">douceur*</ref> de luy
+              rendre l’Empire,</l>
+            <l n="531" xml:id="l531">Si toûjours d’un vray <ref target="#zele">zéle*</ref> Oronte
+                prévenu</l>
             <l n="532" xml:id="l532">Veut demeurer pour moy ce que je l’ay connu.</l>
           </sp>
           <sp who="ariarate">
             <l n="533" xml:id="l533">Madame, pardonnez si mon chagrin s’exprime</l>
-            <l n="534" xml:id="l534">Quand je vous voy douter du <ref target="#zele">zéle*</ref> qui m’anime.</l>
+            <l n="534" xml:id="l534">Quand je vous voy douter du <ref target="#zele">zéle*</ref> qui
+              m’anime.</l>
             <l n="535" xml:id="l535">Mes plus doux vœux sans doute auront esté remplis</l>
             <l n="536" xml:id="l536">Si je puis voir régner le Prince vostre Fils.</l>
             <l n="537" xml:id="l537">Mais pour vos interests tel est ce zéle extréme</l>
@@ -872,14 +921,15 @@
             <l n="545" xml:id="l545">Jugez aprés cela si je veux toûjours estre</l>
             <l n="546" xml:id="l546">Ce que jusques icy vous m’avez sceu connoistre,</l>
             <l n="547" xml:id="l547">Et si j’ay merité que peu seure de moy</l>
-            <l n="548" xml:id="l548">A de nouveaux serments vous obligiez ma <ref target="#foy">foy*</ref>.</l>
+            <l n="548" xml:id="l548">A de nouveaux serments vous obligiez ma
+                <ref target="#foy">foy*</ref>.</l>
           </sp>
           <sp who="laodice">
             <l n="549" xml:id="l549">Je n’attendois pas moins de ce noble courage</l>
             <l n="550" xml:id="l550">Qu’à soustenir l’Estat mon interest engage,</l>
             <l n="551" xml:id="l551">Aussi quand il me faut sur des droits incertains</l>
             <l n="552" xml:id="l552">Mettre en dépost le Trône en de fidelles mains,</l>
-            <l n="553" xml:id="l553">Voyant combien d’orgueil nos Princes font paroistre,  <pb n="24" xml:id="p24"/></l>
+            <l n="553" xml:id="l553">Voyant combien d’orgueil nos Princes font paroistre, <pb n="24" xml:id="p24"/></l>
             <l n="554" xml:id="l554">Je crains tout si par moy l’un d’eux en devient maistre,</l>
             <l n="555" xml:id="l555">Et dans l’ambition qui les aveuglent tous</l>
             <l n="556" xml:id="l556">Je n’ose pour ce choix m’asseurer que sur vous,</l>
@@ -894,7 +944,8 @@
             <l n="563" xml:id="l563">Non, non, quelques dédains qu’elle fasse éclater</l>
             <l n="564" xml:id="l564">Mon sort trop inégal me les fait meriter,</l>
             <l n="565" xml:id="l565">Elle se rend justice, et si la faisant Reyne</l>
-            <l n="566" xml:id="l566">Par l’interest d’un Fils sa grandeur vous fait peine,</l>
+            <l n="566" xml:id="l566">Par l’interest d’un Fils sa grandeur vous
+              fait peine,</l>
             <l n="567" xml:id="l567">Il est d’autres moyens de ne point hazarder</l>
             <l n="568" xml:id="l568">Le Trône qu’à ce Fils il vous plaist de garder.</l>
           </sp>
@@ -909,7 +960,7 @@
             <l n="576" xml:id="l576">Si ma main vous acquiert la qualité de Roy.</l>
             <l n="577" xml:id="l577">Ce dessein vous surprend, et quinze ans de veufvage,</l>
             <l n="578" xml:id="l578">M’éloignant des soupçons d’un second mariage,</l>
-            <l n="579" xml:id="l579">Il paroistra nouveau qu’au rang où  je me vois</l>
+            <l n="579" xml:id="l579">Il paroistra nouveau qu’au rang où je me vois</l>
             <l n="580" xml:id="l580">D’un Epoux tout à coup une Reyne ait fait choix,</l>
             <l n="581" xml:id="l581">Mais fust-ce en démentir l’orgueilleux caractere</l>
             <l n="582" xml:id="l582">Ma principale gloire est d’estre bonne mere,</l>
@@ -926,7 +977,8 @@
           </sp>
           <sp who="ariarate">
             <l n="593" xml:id="l593">Ah, pour tant de bontez c’est trop peu qu’une vie</l>
-            <l n="594" xml:id="l594">Qu’aujourd’huy de nouveau ma <ref target="#foy">foy*</ref> vous sacrifie,</l>
+            <l n="594" xml:id="l594">Qu’aujourd’huy de nouveau ma <ref target="#foy">foy*</ref> vous
+              sacrifie,</l>
             <l n="595" xml:id="l595">Et tout mon sang pour vous répandu mille fois</l>
             <l n="596" xml:id="l596">Ne pourroit m’acquitter de ce que je vous dois.</l>
             <l n="597" xml:id="l597">Aprés m’avoir déja par un effort d’estime</l>
@@ -936,7 +988,8 @@
             <l n="601" xml:id="l601">Et par tout ce qu’aux Roys il donne d’avantage,</l>
             <l n="602" xml:id="l602">Dans vôtre Creature achevez vôtre ouvrage.</l>
             <l n="603" xml:id="l603">Madame, s’il se peut, penetrez dans mon cœur</l>
-            <l n="604" xml:id="l604">Ce qu’un <ref target="#zele">zele*</ref> soûmis y renferme d’ardeur.</l>
+            <l n="604" xml:id="l604">Ce qu’un <ref target="#zele">zele*</ref> soûmis y renferme
+              d’ardeur.</l>
             <l n="605" xml:id="l605">Voyez-y ce qu’il faut enfin que vous explique…</l>
           </sp>
           <sp who="laodice">
@@ -985,7 +1038,8 @@
           <sp who="laodice">
             <l n="635" xml:id="l635">Prince, n’abusez point d’un excez de bonté</l>
             <l n="636" xml:id="l636">Qui m’oblige à soufrir vostre témerité,</l>
-            <l n="637" xml:id="l637">Je sçay ce que je dois à l’Estat, à ma gloire.<pb n="27 C ij" xml:id="p27"/></l>
+            <l n="637" xml:id="l637">Je sçay ce que je dois à l’Estat, à ma
+                gloire.<pb n="27 C ij" xml:id="p27"/></l>
           </sp>
           <sp who="anaxandre">
             <l n="638" xml:id="l638">Oronte ! Et le Senat voudra-t’il vous en croire,</l>
@@ -1034,13 +1088,15 @@
           </sp>
           <sp who="ariarate">
             <l n="665" xml:id="l665">Si le ciel pour regner de quelques droits me flate,</l>
-            <l n="666" xml:id="l666">Je n’entreprendray point sur ceux d’Ariarate,</l>
+            <l n="666" xml:id="l666">Je n’entreprendray point sur ceux
+              d’Ariarate,</l>
             <l n="667" xml:id="l667">Le temps éclaircira s’il est vivant ou non.</l>
           </sp>
           <sp who="anaxandre">
             <l n="668" xml:id="l668">C’est ainsy qu’un Heros doit se faire un grand nom,</l>
             <l n="669" xml:id="l669">Aussy bien de quelque œil que le Senat vous voye</l>
-            <l n="670" xml:id="l670">Vostre Hymen <ref target="#prevenir">préviendra*</ref> les ordres qu’il envoye,</l>
+            <l n="670" xml:id="l670">Vostre Hymen <ref target="#prevenir">préviendra*</ref> les
+              ordres qu’il envoye,</l>
             <l n="671" xml:id="l671">Et je le croy trop juste, après de si beaux nœuds,</l>
             <l n="672" xml:id="l672">Pour ne pas consentir à vous laisser heureux,</l>
             <l n="673" xml:id="l673">Sans trouble de sa part votre gloire est certaine.</l>
@@ -1228,7 +1284,8 @@
             <l n="790" xml:id="l790">Par l’ofre de sa main te causoit quelque peine !</l>
             <l n="791" xml:id="l791">Tu regnois, et l’éclat d’un sort si glorieux</l>
             <l n="792" xml:id="l792">Pour les tourner vers moy ne te laissoit plus d’yeux.</l>
-            <l n="793" xml:id="l793">Tu te livrois entier aux charmes d’un Empire</l>
+            <l n="793" xml:id="l793">Tu te livrois entier aux charmes d’un
+              Empire</l>
             <l n="794" xml:id="l794" part="I">Dont ton amour vaincu…</l>
           </sp>
           <sp who="ariarate">
@@ -1241,7 +1298,8 @@
           </sp>
           <sp who="ariarate">
             <l n="797" xml:id="l797">L’amour, ce pur amour dont tout l’excez éclate</l>
-            <l n="798" xml:id="l798">Lors qu’Oronte vous cede aux <ref target="#voeux">vœux*</ref> d’Ariarate.</l>
+            <l n="798" xml:id="l798">Lors qu’Oronte vous cede aux <ref target="#voeux">vœux*</ref>
+              d’Ariarate.</l>
             <l n="799" xml:id="l799">Peut-il vous arracher à l’Hymen d’un grand Roy ?</l>
           </sp>
           <sp who="axiane">
@@ -1250,7 +1308,8 @@
             <l n="802" xml:id="l802">Immole à ma grandeur tout l’espoir de ta flame,</l>
             <l n="803" xml:id="l803">Mais seroit-ce une honte indigne d’un grand cœur</l>
             <l n="804" xml:id="l804">D’en laisser échaper du moins quelque douleur ?</l>
-            <l n="805" xml:id="l805">Ne sçaurois-tu <ref target="#souffrir">souffrir*</ref>, ingrat, qu’une Princesse</l>
+            <l n="805" xml:id="l805">Ne sçaurois-tu <ref target="#souffrir">souffrir*</ref>, ingrat,
+              qu’une Princesse</l>
             <l n="806" xml:id="l806">Pour prix de son amour te couste une foiblesse,</l>
             <l n="807" xml:id="l807">Ou crois-tu qu’à rougir il falust t’apprester</l>
             <l n="808" xml:id="l808">Si quand tu perds mon cœur tu l’osois regretter ?</l>
@@ -1291,7 +1350,7 @@
             <l n="834" xml:id="l834">Il n’est plus rien ailleurs qui m’attire ou me flate,</l>
             <l n="835" xml:id="l835">Et que sa main m’asseure un bonheur si parfait</l>
             <l n="836" xml:id="l836">Que j’aurois fait ce choix si Rome ne l’eust fait.</l>
-            <l n="837" xml:id="l837">Aussy  bien quand j’aurois à soûpirer sans cesse,</l>
+            <l n="837" xml:id="l837">Aussy bien quand j’aurois à soûpirer sans cesse,</l>
             <l n="838" xml:id="l838">Il suffit qu’une fois j’ay fait une bassesse,</l>
             <l n="839" xml:id="l839">Je t’empescherois bien d’esperer la <ref target="#douceur">douceur*</ref></l>
             <l n="840" xml:id="l840">De t’applaudir jamais des peines de mon cœur,</l>
@@ -1362,7 +1421,8 @@
         <div type="scene">
           <head>Scène III.</head>
           <sp who="ariarate">
-            <l n="885" xml:id="l885">Madame, j’attendois à vous faire paroistre <pb n="38" xml:id="p38"/></l>
+            <l n="885" xml:id="l885">Madame, j’attendois à vous faire paroistre
+              <pb n="38" xml:id="p38"/></l>
             <l n="886" xml:id="l886">Quelle joye en mon cœur la vôtre avoit fait naistre,</l>
             <l n="887" xml:id="l887">Apprenant que le Ciel propice à vos souhaits…</l>
           </sp>
@@ -1382,7 +1442,8 @@
             <l n="896" xml:id="l896">Mais je ne puis soufrir l’esclave des Romains.</l>
             <l n="897" xml:id="l897">Sousmis à ces Tyrans que bravoient nos Ancestres</l>
             <l n="898" xml:id="l898">Il vient nous asservir sous l’orgueil de ses Maistres,</l>
-            <l n="899" xml:id="l899">Nous faire part des fers qu’il s’abaisse à traîner,</l>
+            <l n="899" xml:id="l899">Nous faire part des fers qu’il s’abaisse à
+              traîner,</l>
             <l n="900" xml:id="l900">Et j’aurois quelque joye à le voir couronner ?</l>
             <l n="901" xml:id="l901">Non, non, l’espoir du Trône en vain l’a pû surprendre,</l>
             <l n="902" xml:id="l902">Point d’ordre du Senat s’il y vouloit prétendre,</l>
@@ -1390,7 +1451,8 @@
           </sp>
           <sp who="ariarate">
             <l n="904" xml:id="l904">Le sang dans vôtre cœur se laisse donc trahir.</l>
-            <l n="905" xml:id="l905">Si le Senat <ref target="#deputer">depute*</ref>, est-ce l’avoir pour Maistre<pb n="39 Dij" xml:id="p39"/></l>
+            <l n="905" xml:id="l905">Si le Senat <ref target="#deputer">depute*</ref>, est-ce
+              l’avoir pour Maistre<pb n="39 Dij" xml:id="p39"/></l>
             <l n="906" xml:id="l906">Que prendre son adveu pour se faire connoistre ?</l>
             <l n="907" xml:id="l907">Sans luy, sans les Romains qui l’ont nourry chez eux,</l>
             <l n="908" xml:id="l908">Le destin de ce Fils seroit-il pas douteux ?</l>
@@ -1400,7 +1462,8 @@
             <l n="910" xml:id="l910">Je sçay qu’il faut par eux que sa naissance éclate,</l>
             <l n="911" xml:id="l911">Mais enfin avec luy si Rome estoit d’accord,</l>
             <l n="912" xml:id="l912">A quoy bon si long-temps m’avoir caché son sort ?</l>
-            <l n="913" xml:id="l913">Quand deputant vers moy l’on m’a tant fait connoistre</l>
+            <l n="913" xml:id="l913">Quand deputant vers moy l’on m’a tant fait
+                connoistre</l>
             <l n="914" xml:id="l914">Qu’elle vouloit m’aider à faire choix d’un Maistre,</l>
             <l n="915" xml:id="l915">Par quel rare motif ne m’a-t’on pas appris</l>
             <l n="916" xml:id="l916">Que son Ambassadeur me ramenoit mon Fils ?</l>
@@ -1412,7 +1475,8 @@
             <l n="922" xml:id="l922">Dans ces précautions je la voy qui s’explique,</l>
             <l n="923" xml:id="l923">Et cherche à m’arracher par des moyens si bas</l>
             <l n="924" xml:id="l924">Ce qu’ils ont présumé que je ne rendrois pas.</l>
-            <l n="925" xml:id="l925">Par l’Hymen de ma Fille <ref target="#ou">où*</ref> l’on me crut forcée,</l>
+            <l n="925" xml:id="l925">Par l’Hymen de ma Fille <ref target="#ou">où*</ref> l’on me
+              crut forcée,</l>
             <l n="926" xml:id="l926">Ils ont voulu d’abord penetrer ma pensée,</l>
             <l n="927" xml:id="l927">Et le choix que de vous ils sçauront que j’ay fait</l>
             <l n="928" xml:id="l928">A leurs jaloux soupçons tiendra lieu de forfait,</l>
@@ -1437,7 +1501,8 @@
             <l n="943" xml:id="l943">Armé de ce grand tître et d’Espoux et de Roy</l>
             <l n="944" xml:id="l944">Manquerez-vous de cœur à combatre pour moy ?</l>
             <l n="945" xml:id="l945">Vous trouveray-je moins cét invincible Oronte</l>
-            <l n="946" xml:id="l946">Que nos plus <ref target="#fier">fiers*</ref> Voisins n’ont connu qu’à leur honte,</l>
+            <l n="946" xml:id="l946">Que nos plus <ref target="#fier">fiers*</ref> Voisins n’ont
+              connu qu’à leur honte,</l>
             <l n="947" xml:id="l947">Et l’orage que veut éviter vostre soin</l>
             <l n="948" xml:id="l948">Est-il plus dangereux pour venir de plus loin ?</l>
           </sp>
@@ -1449,13 +1514,15 @@
           </sp>
           <sp who="laodice">
             <l n="953" xml:id="l953">Et bien, si vous craignez qu’à sa veuë on ne cede,</l>
-            <l n="954" xml:id="l954">C’est un mal <ref target="#ou">où*</ref> peut-estre il est quelque remede.</l>
+            <l n="954" xml:id="l954">C’est un mal <ref target="#ou">où*</ref> peut-estre il est
+              quelque remede.</l>
           </sp>
           <sp who="ariarate">
             <l n="955" xml:id="l955">En est-il quand déja son nom seul en ces lieux…</l>
           </sp>
           <sp who="laodice">
-            <l n="956" xml:id="l956">Vous ne m’<ref target="#entendre">entendez*</ref> pas il faut m’expliquer mieux.</l>
+            <l n="956" xml:id="l956">Vous ne m’<ref target="#entendre">entendez*</ref> pas il faut
+              m’expliquer mieux.</l>
             <l n="957" xml:id="l957">La rigueur me fait peine, et depuis que je regne</l>
             <l n="958" xml:id="l958">Si pour ma seureté je soufre qu’on me craigne,</l>
             <l n="959" xml:id="l959">Contre mille ennemis de ma grandeur jaloux</l>
@@ -1497,7 +1564,8 @@
             <l n="986" xml:id="l986">Peut-estre avez-vous sceu quels fâcheux bruits coururent,</l>
             <l n="987" xml:id="l987">J’en dédaignay l’outrage, et crus de tels malheurs,</l>
             <l n="988" xml:id="l988">Puisque j’étois au Trône, indignes de mes pleurs.</l>
-            <l n="989" xml:id="l989">Dans le <ref target="#charmer">charme*</ref> secret d’un si brillant partage</l>
+            <l n="989" xml:id="l989">Dans le <ref target="#charmer">charme*</ref> secret d’un si
+              brillant partage</l>
             <l n="990" xml:id="l990">Pour me l’asseurer mieux je mis tout en usage;</l>
             <l n="991" xml:id="l991">Ariarate à Rome en ostage élevé</l>
             <l n="992" xml:id="l992">Pouvoit me le ravir s’il n’estoit enlevé,</l>
@@ -1527,7 +1595,8 @@
             <l n="1014" xml:id="l1014">Qu’en regardant sa Mere il la cherche attendrie,</l>
             <l n="1015" xml:id="l1015">Et qu’enfin à vos pieds il vous dit par ma voix,</l>
             <l n="1016" xml:id="l1016"><hi rend="i">Accordez moy la vie une seconde fois</hi>,</l>
-            <l n="1017" xml:id="l1017"><hi rend="i">Je vous suis odieux, mais quoy qui vous anime</hi>,</l>
+            <l n="1017" xml:id="l1017"><hi rend="i">Je vous suis odieux, mais quoy qui vous
+                anime</hi>,</l>
             <l n="1018" xml:id="l1018">
               <hi rend="i">Estre né vostre Fils n’est pas un si grand crime.</hi>
             </l>
@@ -1535,9 +1604,11 @@
               <hi rend="i">Daignez luy faire grace en faveur</hi>
               <hi rend="i"> d’un respect</hi>
             </l>
-            <l n="1020" xml:id="l1020"><hi rend="i">Que jamais rien de moy ne vous rendra suspect</hi>,</l>
+            <l n="1020" xml:id="l1020"><hi rend="i">Que jamais rien de moy ne vous rendra
+                suspect</hi>,</l>
             <l n="1021" xml:id="l1021">
-              <hi rend="i">Prenez-en pour garand la <ref target="#foy">foy*</ref> sincere et pure</hi>
+              <hi rend="i">Prenez-en pour garand la <ref target="#foy">foy*</ref> sincere et
+                pure</hi>
             </l>
             <l n="1022" xml:id="l1022"><hi rend="i">Qu’à la face du Ciel</hi><hi rend="i"> ma tendresse vous jure</hi>,</l>
             <l n="1023" xml:id="l1023">
@@ -1566,7 +1637,8 @@
             <l n="1042" xml:id="l1042">Pour me sauver de l’un, ou le punir de l’autre.</l>
             <l n="1043" xml:id="l1043">Enfin, plus de replique, il faut vous declarer,</l>
             <l n="1044" xml:id="l1044">Et choisir qui des deux vous voulez préferer.</l>
-            <l n="1045" xml:id="l1045">Si du sang à verser vous <ref target="#emeu">esmeut*</ref>, vous fait peine,</l>
+            <l n="1045" xml:id="l1045">Si du sang à verser vous <ref target="#emeu">esmeut*</ref>,
+              vous fait peine,</l>
             <l n="1046" xml:id="l1046">J’en sçay qui sans scrupule en croiront une Reyne,</l>
             <l n="1047" xml:id="l1047">Et qui pour un seul crime exigé de leur foy,</l>
             <l n="1048" xml:id="l1048">Ne dédaigneront pas de régner avec moy.</l>
@@ -1637,13 +1709,14 @@
             <l n="1077" xml:id="l1077">Madame ; si j’osois parler sans vous déplaire…</l>
           </sp>
           <sp who="laodice">
-            <l n="1078" xml:id="l1078">Ah, Cleone, ce Fils dont j’ay crû  me défaire,</l>
+            <l n="1078" xml:id="l1078">Ah, Cleone, ce Fils dont j’ay crû me défaire,</l>
             <l n="1079" xml:id="l1079">Ce Fils dont je feignois d’attendre le retour…</l>
             <l n="1080" xml:id="l1080" part="I">Dieux !</l>
           </sp>
           <sp who="cleone">
             <l part="F">Un si prompt revers change bien ce grand jour.</l>
-            <l n="1081" xml:id="l1081">Mais il semble <ref target="#d-ailleurs">d’ailleurs*</ref> que quelque autre <ref target="#disgrace">disgrace*</ref></l>
+            <l n="1081" xml:id="l1081">Mais il semble <ref target="#d-ailleurs">d’ailleurs*</ref>
+              que quelque autre <ref target="#disgrace">disgrace*</ref></l>
             <l n="1082" xml:id="l1082">Se joigne à la rigueur du sort qui vous menace ;</l>
             <l n="1083" xml:id="l1083">Dans le moment qu’Oronte est sorty d’avec vous</l>
             <l n="1084" xml:id="l1084">J’ay crû vous voir contraindre un violent couroux.</l>
@@ -1680,7 +1753,7 @@
             <l n="1102" xml:id="l1102">Vos jours seuls immolez feront son asseurance,</l>
             <l n="1103" xml:id="l1103">C’est ce que vous avez sans doute à <ref target="#prevenir">prévenir*</ref>.</l>
             <l n="1104" xml:id="l1104">Anaxandre promet, mais pourra-t’il tenir ?</l>
-            <l n="1105" xml:id="l1105">En jurant cette mort voyez ce qu’il hazarde ;  <pb n="48 Ic" xml:id="p48"/></l>
+            <l n="1105" xml:id="l1105">En jurant cette mort voyez ce qu’il hazarde ; <pb n="48 Ic" xml:id="p48"/></l>
             <l n="1106" xml:id="l1106">Le Prince autour de luy doit avoir quelque Garde,</l>
             <l n="1107" xml:id="l1107">C’est un foible secours que vous ne craignez pas,</l>
             <l n="1108" xml:id="l1108">Mais verra-t’on le coup sans connoistre le bras ?</l>
@@ -1697,7 +1770,7 @@
             <l n="1117" xml:id="l1117">Il m’a fait consentir qu’ils nommassent Oronte.</l>
           </sp>
           <sp who="cleone">
-            <l n="1118" xml:id="l1118">Quoy,  pour ce malheureux une hayne si prompte,</l>
+            <l n="1118" xml:id="l1118">Quoy, pour ce malheureux une hayne si prompte,</l>
             <l n="1119" xml:id="l1119">Madame? Et vôtre amour a pû si tost ceder ?</l>
           </sp>
           <sp who="laodice">
@@ -1707,7 +1780,8 @@
             <l n="1123" xml:id="l1123">Et de vouloir sur luy rejetter l’attentat</l>
             <l n="1124" xml:id="l1124">Qui malgré son refus est prest de faire éclat,</l>
             <l n="1125" xml:id="l1125">Mais enfin quoy qu’Oronte ait merité ma hayne,</l>
-            <l n="1126" xml:id="l1126">Contre luy dans mon cœur elle est foible, elle est vaine ;</l>
+            <l n="1126" xml:id="l1126">Contre luy dans mon cœur elle est foible, elle est
+              vaine ;</l>
             <l n="1127" xml:id="l1127">Ce refus d’un forfait dont il me sçait le prix,</l>
             <l n="1128" xml:id="l1128">Après ce qu’il me doit joint l’injure au mépris,</l>
             <l n="1129" xml:id="l1129">Et par un sentiment qu’en vain je desavouë,</l>
@@ -1716,7 +1790,8 @@
             <l n="1132" xml:id="l1132">De se sentir contraint d’estimer la vertu !</l>
             <l n="1133" xml:id="l1133">Ouy, telle que je suis, aux forfaits enchaînée</l>
             <l n="1134" xml:id="l1134">Par le dur Ascendant que prend la Destinée,</l>
-            <l n="1135" xml:id="l1135">Je me voy malgré-moy forcée à respecter<pb n="49E" xml:id="p49"/></l>
+            <l n="1135" xml:id="l1135">Je me voy malgré-moy forcée à
+                respecter<pb n="49E" xml:id="p49"/></l>
             <l n="1136" xml:id="l1136">Ce qu’un fatal penchant me defend d’imiter ;</l>
             <l n="1137" xml:id="l1137">Plus Oronte du crime a rejetté l’amorce,</l>
             <l n="1138" xml:id="l1138">Plus mon amour pour luy semble avoir pris de force,</l>
@@ -1775,7 +1850,8 @@
           </sp>
           <sp who="phradate">
             <l n="1173" xml:id="l1173">L’aveugle emportement que semble avoir fait naistre</l>
-            <l n="1174" xml:id="l1174">Dans un grand peuple <ref target="#emeu">émeu*</ref> la perte de son Maistre,</l>
+            <l n="1174" xml:id="l1174">Dans un grand peuple <ref target="#emeu">émeu*</ref> la perte
+              de son Maistre,</l>
             <l n="1175" xml:id="l1175">Son desespoir éclate, et dans ses cris confus…</l>
           </sp>
           <sp who="laodice">
@@ -1804,7 +1880,8 @@
             <l n="1196" xml:id="l1196">Suivy d’Aquilius et d’un gros de Romains.</l>
             <l n="1197" xml:id="l1197">D’une foy toute pure il a d’abord pour gages</l>
             <l n="1198" xml:id="l1198">Nos plus profonds respects, nos plus soûmis hommages,</l>
-            <l n="1199" xml:id="l1199">Il <ref target="#souffrir">soufre*</ref> avec plaisir qu’on le puisse approcher,</l>
+            <l n="1199" xml:id="l1199">Il <ref target="#souffrir">soufre*</ref> avec plaisir qu’on
+              le puisse approcher,</l>
             <l n="1200" xml:id="l1200">Et nos devoirs rendus on commence à marcher.</l>
             <l n="1201" xml:id="l1201">C’est lors qu’entre deux Chefs un interest de gloire</l>
             <l n="1202" xml:id="l1202">Fait naistre un different qu’on aura peine à croire,</l>
@@ -1831,16 +1908,18 @@
             <l n="1221" xml:id="l1221">Ce tumulte impréveu cache quelque mystere,</l>
             <l n="1222" xml:id="l1222">Rome a pour l’éclaircir le pouvoir d’une Mere ;</l>
             <l n="1223" xml:id="l1223">Ayant nourry mon Fils elle est au mesme rang,</l>
-            <l n="1224" xml:id="l1224">Elle est aux mesmes droits <ref target="#ou">où*</ref> je suis par le sang ;</l>
+            <l n="1224" xml:id="l1224">Elle est aux mesmes droits <ref target="#ou">où*</ref> je
+              suis par le sang ;</l>
             <l n="1225" xml:id="l1225">Mesme interest l’engage à se faire justice,</l>
             <l n="1226" xml:id="l1226">Et de quelque façon qu’un Monarque perisse,</l>
             <l n="1227" xml:id="l1227">Fust-ce par un malheur qu’on n’eust sceu <ref target="#prevenir">prévenir*</ref>,</l>
             <l n="1228" xml:id="l1228">Ce crime du hazard est un crime à punir.</l>
-            <l n="1229" xml:id="l1229">Princesse, à ma douleur prestez  encor la vôtre,</l>
+            <l n="1229" xml:id="l1229">Princesse, à ma douleur prestez encor la vôtre,</l>
             <l n="1230" xml:id="l1230">Pour mieux vanger ce Fils pressons l’une par l’autre,</l>
             <l n="1231" xml:id="l1231">Il vous eust mise au Trône, et pour en démentir</l>
             <l n="1232" xml:id="l1232">L’injustice du sort qui n’y peut consentir,</l>
-            <l n="1233" xml:id="l1233">Si Rome de ses dons <ref target="#souffrir">soufre*</ref> que je dispose</l>
+            <l n="1233" xml:id="l1233">Si Rome de ses dons <ref target="#souffrir">soufre*</ref> que
+              je dispose</l>
             <l n="1234" xml:id="l1234">Vôtre espoir n’aura rien où mon chagrin s’oppose,</l>
             <l n="1235" xml:id="l1235">Obtenez son adveu, je vous rends vos Estats.</l>
           </sp>
@@ -1860,11 +1939,12 @@
           <sp who="anaxandre">
             <l part="F">Ouy, Madame,</l>
             <l n="1242" xml:id="l1242">Dans les bras des Romains il vient de rendre l’ame,</l>
-            <l n="1243" xml:id="l1243">Sa <ref target="#gloire">gloire*</ref> a fait sa perte, et jamais on n’a veu</l>
+            <l n="1243" xml:id="l1243">Sa <ref target="#gloire">gloire*</ref> a fait sa perte, et
+              jamais on n’a veu</l>
             <l n="1244" xml:id="l1244">Revers plus surprenant ny coup plus impréveu.</l>
           </sp>
           <sp who="laodice">
-            <l n="1245" xml:id="l1245">De ce  coup du hazard je perce le mystere,</l>
+            <l n="1245" xml:id="l1245">De ce coup du hazard je perce le mystere,</l>
             <l n="1246" xml:id="l1246">Voyla ce que me couste un Peuple temeraire,</l>
             <l n="1247" xml:id="l1247">Qui me voulant contraindre à faire choix d’un Roy</l>
             <l n="1248" xml:id="l1248">Preste à l’ambition des armes contre moy.</l>
@@ -1884,7 +1964,7 @@
             <l n="1258" xml:id="l1258">Madame il est fâcheux de voir qu’on nous soupçonne,</l>
             <l n="1259" xml:id="l1259">Mais si l’espoir du Trône a pû nous engager</l>
             <l n="1260" xml:id="l1260">A resoudre une mort que vous devez vanger,</l>
-            <l n="1261" xml:id="l1261">Que croira-t’on  d’Oronte à qui dans ce jour mesme <pb n="54" xml:id="p54"/></l>
+            <l n="1261" xml:id="l1261">Que croira-t’on d’Oronte à qui dans ce jour mesme <pb n="54" xml:id="p54"/></l>
             <l n="1262" xml:id="l1262">Vôtre hymen resolu donnoit le Diadême ?</l>
             <l n="1263" xml:id="l1263">Je ne l’accuse point, mais on est estonné</l>
             <l n="1264" xml:id="l1264">Que venant pour le Prince il l’ait abandonné ;</l>
@@ -1900,7 +1980,7 @@
           </sp>
           <sp who="anaxandre">
             <l n="1272" xml:id="l1272">Je sçay que sa vertu luy doit servir d’appuy,</l>
-            <l n="1273" xml:id="l1273">Qu’un  vray Heros est ferme, et jamais ne s’oublie,</l>
+            <l n="1273" xml:id="l1273">Qu’un vray Heros est ferme, et jamais ne s’oublie,</l>
             <l n="1274" xml:id="l1274">Mais Aquilius sçait ce que l’on en publie,</l>
             <l n="1275" xml:id="l1275">Et dans l’horreur du crime où va la trahison</l>
             <l n="1276" xml:id="l1276">Peut-il se dispenser d’en demander raison ?</l>
@@ -1918,10 +1998,12 @@
             <l n="1284" xml:id="l1284">Pensez-vous qu’il suffist de le croire innocent ?</l>
           </sp>
           <sp who="axiane">
-            <l n="1285" xml:id="l1285">Le voicy qui paroist, <ref target="#souffrir">soufrez*</ref> que je vous quitte.</l>
+            <l n="1285" xml:id="l1285">Le voicy qui paroist, <ref target="#souffrir">soufrez*</ref>
+              que je vous quitte.</l>
             <l n="1286" xml:id="l1286">Un sensible interest à punir vous invite,</l>
             <l n="1287" xml:id="l1287">Madame, et je craindrois dans un sort si cruel</l>
-            <l n="1288" xml:id="l1288">D’avoir de mauvais yeux à voir le criminel.</l>
+            <l n="1288" xml:id="l1288">D’avoir de mauvais yeux à voir le
+              criminel.</l>
           </sp>
         </div>
         <div type="scene">
@@ -1939,7 +2021,7 @@
           <sp who="laodice">
             <l n="1295" xml:id="l1295">Dans le superbe espoir que je t’avois donné</l>
             <l n="1296" xml:id="l1296">C’est estre criminel que d’estre soupçonné,</l>
-            <l n="1297" xml:id="l1297">On murmure, on  se plaint, qu’as-tu pour te défendre ?</l>
+            <l n="1297" xml:id="l1297">On murmure, on se plaint, qu’as-tu pour te défendre ?</l>
           </sp>
           <sp who="ariarate">
             <l n="1298" xml:id="l1298">Peut-estre est-ce un peu trop que d’en croire Anaxandre.</l>
@@ -2066,7 +2148,8 @@
           <sp who="anaxandre">
             <l part="F">Il faut ceder, Madame, <pb n="59" xml:id="p59"/></l>
             <l n="1374" xml:id="l1374">Mais pour m’en consoler vous connoissez mon ame,</l>
-            <l n="1375" xml:id="l1375">Et ne <ref target="#souffrir">soufrirez*</ref> pas que l’on me pousse à bout.</l>
+            <l n="1375" xml:id="l1375">Et ne <ref target="#souffrir">soufrirez*</ref> pas que l’on
+              me pousse à bout.</l>
           </sp>
           <sp who="aquilius">
             <l n="1376" xml:id="l1376">Suivez, Lucilian, et prenez garde à tout.</l>
@@ -2093,7 +2176,8 @@
             <l part="F">Que toûjours équitable</l>
             <l n="1386" xml:id="l1386">Le Ciel à l’attentat n’a livré qu’un Coupable,</l>
             <l n="1387" xml:id="l1387">Qui dérobant le nom du Prince vostre Fils</l>
-            <l n="1388" xml:id="l1388">A la fourbe déja croyoit le Trône acquis.</l>
+            <l n="1388" xml:id="l1388">A la fourbe déja croyoit
+              le Trône acquis.</l>
             <l n="1389" xml:id="l1389">Rome vous l’envoyoit pour en punir l’audace.</l>
           </sp>
           <sp who="laodice">
@@ -2108,7 +2192,8 @@
             <l n="1396" xml:id="l1396">Pour ne l’exposer pas, se crut l’abus permis.</l>
             <l n="1397" xml:id="l1397">Elle en prit toûjours soin, et preste à vous le rendre</l>
             <l n="1398" xml:id="l1398">Tel que d’elle aujourd’huy vous le pouvez attendre,</l>
-            <l n="1399" xml:id="l1399">Elle a voulu d’abord <ref target="#prevenir">prévenir*</ref> en ces lieux</l>
+            <l n="1399" xml:id="l1399">Elle a voulu d’abord <ref target="#prevenir">prévenir*</ref>
+              en ces lieux</l>
             <l n="1400" xml:id="l1400">Ce qu’elle soupçonnoit de quelques Factieux.</l>
             <l n="1401" xml:id="l1401">Vous en voyez l’effet, et leur rage peut-estre</l>
             <l n="1402" xml:id="l1402">Sur un Fourbe avortée aura peine à renaistre,</l>
@@ -2147,7 +2232,8 @@
             <l n="1429" xml:id="l1429">Ce triomphe est le seul où ma tendresse aspire,</l>
             <l n="1430" xml:id="l1430">Jusque-là dans ces lieux prenez un plein empire,</l>
             <l n="1431" xml:id="l1431">Venez pourvoir à tout, et selon vos souhaits</l>
-            <l n="1432" xml:id="l1432">Ordonnez de la ville ainsy que du Palais.</l>
+            <l n="1432" xml:id="l1432">Ordonnez de la ville ainsy que du
+              Palais.</l>
             <p rend="center">Fin du quatriéme Acte.</p>
           </sp>
         </div>
@@ -2166,18 +2252,22 @@
             <l n="1437" xml:id="l1437">Dans son emportement ne cherchant qu’où se prendre,</l>
             <l n="1438" xml:id="l1438">Quoy qu’ait fait Theodot s’est saisy d’Anaxandre,</l>
             <l n="1439" xml:id="l1439">Et sans vouloir soufrir qu’on le menast au Fort,</l>
-            <l n="1440" xml:id="l1440">Du Prince Ariarate il faut vanger la  mort,</l>
+            <l n="1440" xml:id="l1440">Du Prince Ariarate il faut vanger la mort,</l>
             <l n="1441" xml:id="l1441">A-t’il dit, et soudain, comme seur de son crime</l>
             <l n="1442" xml:id="l1442">Sans rien examiner il l’a pris pour victime.</l>
             <l n="1443" xml:id="l1443">Anaxandre mourant fait oüir à hauts cris</l>
             <l n="1444" xml:id="l1444">Que la Reyne elle seule a fait perir son Fils,</l>
-            <l n="1445" xml:id="l1445">Et de ce Peuple <ref target="#emeu">esmeu*</ref> l’impatiente rage</l>
+            <l n="1445" xml:id="l1445">Et de ce Peuple <ref target="#emeu">esmeu*</ref> l’impatiente
+              rage</l>
             <l n="1446" xml:id="l1446">Eust pû jusques sur elle achever son ouvrage,</l>
             <l n="1447" xml:id="l1447">Si d’un faux attentat le bruit par tout semé</l>
-            <l n="1448" xml:id="l1448">En le tirant d’erreur ne l’eust pas desarmé.</l>
-            <l n="1449" xml:id="l1449">A voir par ses transports quel doux espoir le flate<pb n="63 F ij" xml:id="p63"/></l>
+            <l n="1448" xml:id="l1448">En le tirant d’erreur
+              ne l’eust pas desarmé.</l>
+            <l n="1449" xml:id="l1449">A voir par ses transports quel doux espoir le
+                flate<pb n="63 F ij" xml:id="p63"/></l>
             <l n="1450" xml:id="l1450">Sçachant qu’il n’a pleuré qu’un feint Ariarate,</l>
-            <l n="1451" xml:id="l1451">Il semble qu’il connoit déja pour son repos</l>
+            <l n="1451" xml:id="l1451">Il semble qu’il connoit déja pour son
+              repos</l>
             <l n="1452" xml:id="l1452">Que le Ciel va pour Roy luy donner un Heros,</l>
             <l n="1453" xml:id="l1453">Qu’il n’est bonheur sous vous qu’il n’ait sujet d’attendre.</l>
           </sp>
@@ -2206,7 +2296,8 @@
           <sp who="ariarate">
             <l n="1472" xml:id="l1472">C’est trop soufrir l’abysme où sa hayne m’a mis,</l>
             <l n="1473" xml:id="l1473">Si mes soûmissions ne servent qu’à l’accroistre</l>
-            <l n="1474" xml:id="l1474">Estonnons cette hayne en me faisant connoistre,</l>
+            <l n="1474" xml:id="l1474">Estonnons cette hayne
+              en me faisant connoistre,</l>
             <l n="1475" xml:id="l1475">Et voyons si ce Fils par son orgueil trahy</l>
             <l n="1476" xml:id="l1476">Connu pour ce qu’il est sera toûjours hay.</l>
             <l n="1477" xml:id="l1477">La voicy, laissez-moy sur cette ame trop dure</l>
@@ -2218,7 +2309,8 @@
           <head>Scène II.</head>
           <sp who="laodice">
             <l n="1480" xml:id="l1480">Vous l’emportez, Oronte, et mon Fils est sauvé, <pb n="64" xml:id="p64"/></l>
-            <l n="1481" xml:id="l1481">Contre les <ref target="#fier">fiers*</ref> projets de ma jalouse envie</l>
+            <l n="1481" xml:id="l1481">Contre les <ref target="#fier">fiers*</ref> projets de ma jalouse
+              envie</l>
             <l n="1482" xml:id="l1482">Déja le Ciel deux fois a défendu sa vie,</l>
             <l n="1483" xml:id="l1483">Deux fois de ma fureur il a rompu les coups,</l>
             <l n="1484" xml:id="l1484">Mais il n’eust pu jamais en triompher sans vous.</l>
@@ -2253,7 +2345,8 @@
             <l n="1509" xml:id="l1509">Je suis juste, et vois trop à quelle défiance</l>
             <l n="1510" xml:id="l1510">Le doit de mes projets porter la connoissance</l>
             <l n="1511" xml:id="l1511">Pour exiger de luy que s’asseurant sur moy</l>
-            <l n="1512" xml:id="l1512">Il <ref target="#souffrir">soufrist*</ref> ma presence et régnast sans effroy.</l>
+            <l n="1512" xml:id="l1512">Il <ref target="#souffrir">soufrist*</ref> ma presence et
+              régnast sans effroy.</l>
             <l n="1513" xml:id="l1513">J’ay conspiré sa perte, et pour m’en voir punie</l>
             <l n="1514" xml:id="l1514">Je m’impose l’exil de la Lycaonie,</l>
             <l n="1515" xml:id="l1515">C’est là que le Senat m’autorise à régner,</l>
@@ -2267,7 +2360,8 @@
             <l n="1523" xml:id="l1523">A vous voir mon Espoux mes voeux sont limitez.</l>
           </sp>
           <sp who="ariarate">
-            <l n="1524" xml:id="l1524">Je sçay ce que je dois à vos rares bontez,</l>
+            <l n="1524" xml:id="l1524">Je sçay ce que je dois à vos rares
+              bontez,</l>
             <l n="1525" xml:id="l1525">Mais quand il vous a plû de me laisser prétendre</l>
             <l n="1526" xml:id="l1526">Aux pompes d’un Hymen qui vous faisoit descendre,</l>
             <l n="1527" xml:id="l1527">Craignant tout des Romains, dans ce pressant besoin</l>
@@ -2322,7 +2416,7 @@
             <l n="1559" xml:id="l1559">La constance en amour est digne d’un Heros.</l>
           </sp>
           <sp who="ariarate">
-            <l n="1560" xml:id="l1560">Mes voeux n’ont reüssy que trop pour mon repos.  <pb n="67" xml:id="p67"/></l>
+            <l n="1560" xml:id="l1560">Mes voeux n’ont reüssy que trop pour mon repos. <pb n="67" xml:id="p67"/></l>
             <l n="1561" xml:id="l1561">Quel dur revers, Madame, et qui l’auroit pû croire ?</l>
             <l n="1562" xml:id="l1562">Pour estre aimé de vous j’ay cherché de la gloire,</l>
             <l n="1563" xml:id="l1563">Et je me vois reduit à la necessité</l>
@@ -2357,7 +2451,7 @@
             <l n="1584" xml:id="l1584">Et vos voeux triomphans en feront les effets ?</l>
             <l n="1585" xml:id="l1585">Non, il faut qu’entre nous cette hayne en decide,</l>
             <l n="1586" xml:id="l1586">Elle offre le defy du plus prompt <ref target="#parricide">parricide*</ref>,</l>
-            <l n="1587" xml:id="l1587">Et du moins, si les Dieux ont trompé mon amour,  <pb n="68" xml:id="p68"/></l>
+            <l n="1587" xml:id="l1587">Et du moins, si les Dieux ont trompé mon amour, <pb n="68" xml:id="p68"/></l>
             <l n="1588" xml:id="l1588">Il vous en coustera l’innocence, ou le jour.</l>
             <l n="1589" xml:id="l1589">Pour vous conserver l’une, il vous faut perdre l’autre,</l>
             <l n="1590" xml:id="l1590">Devenir ma victime, ou me faire la vostre,</l>
@@ -2382,11 +2476,13 @@
             <l n="1604" xml:id="l1604">N’eust pas eu contre vous de foible à redouter,</l>
             <l n="1605" xml:id="l1605">Mais en vous déguisant vous m’avez sceu contraindre</l>
             <l n="1606" xml:id="l1606">A cherir l’Ennemy que j’avois seul à craindre,</l>
-            <l n="1607" xml:id="l1607">Vos <ref target="#flatter">flateuses*</ref> vertus par des <ref target="#charmer">charmes*</ref> trop doux</l>
+            <l n="1607" xml:id="l1607">Vos <ref target="#flatter">flateuses*</ref> vertus par des
+                <ref target="#charmer">charmes*</ref> trop doux</l>
             <l n="1608" xml:id="l1608">Ont pris intelligence avecque mon couroux,</l>
             <l n="1609" xml:id="l1609">Et dans ce qu’à mon coeur elles offrent d’<ref target="#amorce">amorce*</ref>,</l>
             <l n="1610" xml:id="l1610">Quand il veut vous haïr, il n’en a pas la force,</l>
-            <l n="1611" xml:id="l1611">De tout ce qu’il resout vous l’osez détourner.</l>
+            <l n="1611" xml:id="l1611">De tout ce qu’il resout vous l’osez
+              détourner.</l>
             <l n="1612" xml:id="l1612">Ah, ce crime est trop grand pour vous le pardonner,</l>
             <l n="1613" xml:id="l1613">Cinq enfans immolez par mes trames secretes</l>
             <l n="1614" xml:id="l1614">Me laissent encor moins coupable que vous n’estes ;</l>
@@ -2439,7 +2535,8 @@
           </sp>
           <sp who="ariarate">
             <l n="1657" xml:id="l1657">Où la trouverez-vous pour un Fils qui vous aime,</l>
-            <l n="1658" xml:id="l1658">Qu’en daignant partager la puissance suprême ?</l>
+            <l n="1658" xml:id="l1658">Qu’en daignant
+              partager la puissance suprême ?</l>
             <l n="1659" xml:id="l1659">Soyez par vos conseils l’appuy de ses Estats,</l>
             <l n="1660" xml:id="l1660" part="I">Et regnant avec luy...</l>
           </sp>
@@ -2447,7 +2544,8 @@
             <l part="F">Ne vous y fiez pas.</l>
             <l n="1661" xml:id="l1661">Quoy que j’eusse promis, l’ambition peut-estre</l>
             <l n="1662" xml:id="l1662">Estouferoit l’amour qui s’en est rendu Maistre,</l>
-            <l n="1663" xml:id="l1663">Et dans les bras d’autruy ce qu’on aima le mieux</l>
+            <l n="1663" xml:id="l1663">Et dans les bras d’autruy ce qu’on aima le
+              mieux</l>
             <l n="1664" xml:id="l1664">Devient bien-tost pour nous un objet odieux.</l>
             <l n="1665" xml:id="l1665">Contre un peril si grand asseurons vôtre vie,</l>
             <l n="1666" xml:id="l1666">Par son Ambassadeur le Senat m’y convie,</l>
@@ -2486,14 +2584,18 @@
             <l n="1684" xml:id="l1684">Non, croyez cet amour, il ne vous trompe pas,</l>
             <l n="1685" xml:id="l1685">Je suis Ariarate, et si de ma naissance<pb n="72" xml:id="p72"/></l>
             <l n="1686" xml:id="l1686">Je vous ay dérobé toûjours la connoissance,</l>
-            <l n="1687" xml:id="l1687">J’ay voulu par mes <ref target="#soins">soins*</ref> meriter d’estre aimé</l>
+            <l n="1687" xml:id="l1687">J’ay voulu par mes <ref target="#soins">soins*</ref> meriter
+              d’estre aimé</l>
             <l n="1688" xml:id="l1688">Sans que le Trône eust part au feu qui m’a charmé,</l>
-            <l n="1689" xml:id="l1689"><ref target="#d-ailleurs">D’ailleurs*</ref>, je m’asseurois de l’esprit de la Reyne.</l>
+            <l n="1689" xml:id="l1689"><ref target="#d-ailleurs">D’ailleurs*</ref>, je m’asseurois
+              de l’esprit de la Reyne.</l>
           </sp>
           <sp who="axiane">
-            <l n="1690" xml:id="l1690">D’un Peuple <ref target="#emeu">émeu*</ref> contre elle on doit craindre la haine,</l>
+            <l n="1690" xml:id="l1690">D’un Peuple <ref target="#emeu">émeu*</ref> contre elle on
+              doit craindre la haine,</l>
             <l n="1691" xml:id="l1691">Il s’assemble, il menace, et crie à haute voix</l>
-            <l n="1692" xml:id="l1692">Que d’une <ref target="#parricide">Parricide*</ref> il abhorre les loix,</l>
+            <l n="1692" xml:id="l1692">Que d’une <ref target="#parricide">Parricide*</ref> il
+              abhorre les loix,</l>
             <l n="1693" xml:id="l1693">Que lors que sa fureur contre son sang éclate,</l>
             <l n="1694" xml:id="l1694">Ne l’en oser punir c’est perdre Ariarate.</l>
             <l n="1695" xml:id="l1695">La fuite est dangereuse, et dans un pareil sort...</l>
@@ -2513,7 +2615,7 @@
           </sp>
           <sp who="aquilius">
             <l n="1702" xml:id="l1702">Tout se perdroit, Seigneur, par un plus long silence.</l>
-            <l n="1703" xml:id="l1703">J’ay rencontré la Reyne, et je viens devant  tous</l>
+            <l n="1703" xml:id="l1703">J’ay rencontré la Reyne, et je viens devant tous</l>
             <l n="1704" xml:id="l1704">De luy redire encor ce qu’elle a sceu de vous,</l>
             <l n="1705" xml:id="l1705">Mais ce n’est point assez ; il faut par vostre veuë<pb n="73 G" xml:id="p73"/></l>
             <l n="1706" xml:id="l1706">Appaiser promptement la populace <ref target="#emeu">esmeuë*</ref>,</l>
@@ -2523,7 +2625,8 @@
             <l n="1710" xml:id="l1710">Et peut-estre il suivroit la fureur qui le guide</l>
             <l n="1711" xml:id="l1711">Si pour la retenir et calmer son effroy</l>
             <l n="1712" xml:id="l1712">Nous differions encor à luy montrer son Roy,</l>
-            <l n="1713" xml:id="l1713">Hastons-nous, le temps presse, et tout paroist à craindre.</l>
+            <l n="1713" xml:id="l1713">Hastons-nous, le temps presse, et tout paroist à
+              craindre.</l>
           </sp>
           <sp who="axiane">
             <l n="1714" xml:id="l1714">Allez, Seigneur, ce feu ne peut trop tost s’éteindre,</l>
@@ -2549,17 +2652,19 @@
             <l n="1719" xml:id="l1719">Ayant sceu que le Peuple au Palais amassé</l>
             <l n="1720" xml:id="l1720">Pour voir son nouveau Maistre avoit déja pressé,</l>
             <l n="1721" xml:id="l1721">Sur l’appuy d’un Balcon obstinée à paroistre <pb n="74" xml:id="p74"/></l>
-            <l n="1722" xml:id="l1722">La  Reyne aux Factieux se fait d’abord connoistre,</l>
+            <l n="1722" xml:id="l1722">La Reyne aux Factieux se fait d’abord connoistre,</l>
             <l n="1723" xml:id="l1723">Et sa veuë aussi-tost animant leur fureur,</l>
             <l n="1724" xml:id="l1724">Tous pour elle à la fois ont marqué de l’horreur.</l>
             <l n="1725" xml:id="l1725">Joignant insolemment l’injure à la menace</l>
             <l n="1726" xml:id="l1726">Du plus sanglant reproche ils armoient leur audace</l>
             <l n="1727" xml:id="l1727">Quand d’un ton qui de loin pouvoit estre entendu,</l>
-            <l n="1728" xml:id="l1728"><hi rend="i">Va</hi>, dit-elle,<hi rend="i"> sans toy je sçay ce qui m’est deu</hi>,</l>
+            <l n="1728" xml:id="l1728"><hi rend="i">Va</hi>, dit-elle,<hi rend="i"> sans toy je sçay
+                ce qui m’est deu</hi>,</l>
             <l n="1729" xml:id="l1729">
               <hi rend="i">Peuple lâche, et de qui les timides maximes</hi>
             </l>
-            <l n="1730" xml:id="l1730"><hi rend="i">T’ont fait jusques icy dissimuler mes crimes</hi>,</l>
+            <l n="1730" xml:id="l1730"><hi rend="i">T’ont fait jusques icy dissimuler mes
+                crimes</hi>,</l>
             <l n="1731" xml:id="l1731">
               <hi rend="i">Sans moy qui contre moy te veux prester mon bras</hi>
             </l>

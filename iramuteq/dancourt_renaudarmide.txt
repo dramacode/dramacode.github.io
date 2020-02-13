@@ -1,1311 +1,640 @@
 
 
-**** *book_ *id_I01 *act_I *date_1697
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrognac
 
--*who_monsieurgrognac
-L'étrange chose que le monde !
-Et qu'il est malaisé de vivre content !
-Je suis riche et veuf, exempt d'avarice, sans ambition, sans amour, et je ne suis pas heureux.
-Il est vrai que j'ai une sœur tout à fait folle, et deux filles qui ne seront pas trop sages, peut-être.
-Ah, qu'on est sot de faire des enfants, et de n'être pas tout seul de la famille !
+L'étrange chose que le monde ! Et qu'il est malaisé de vivre content ! Je suis riche et veuf, exempt d'avarice, sans ambition, sans amour, et je ne suis pas heureux. Il est vrai que j'ai une sœur tout à fait folle, et deux filles qui ne seront pas trop sages, peut-être. Ah, qu'on est sot de faire des enfants, et de n'être pas tout seul de la famille !
 
-**** *book_ *id_I02 *act_I *date_1697
-
--*who_lisette
-Qu'avez-vous donc, Monsieur ?
-Vous êtes toujours chagrin, et depuis dix ans que je vous sers, je ne vous ai jamais vu de bonne humeur, pas même à la mort de Madame votre femme.
-En vérité, je ne vous comprends point ; et j'avais toujours ouï dire, moi, que les plus grands fous avaient quelquefois de bons intervalles.
-
--*who_monsieurgrognac
 Écoutez, ma mie, vous êtes une insolente qui vous ferez chasser, je vous en avertis ; vous prenez des libertés qui ne me plaisent point du tout, et…
 
--*who_lisette
-Ah, le petit brutal, comme il prend les choses !
-Quelle vivacité !
-En vérité, la jeunesse d'aujourd'hui a l'esprit tourné d'une étrange manière.
+Qu'est-ce à dire la jeunesse ! Je ne suis point jeune, et…
 
--*who_monsieurgrognac
-Qu'est-ce à dire la jeunesse !
-Je ne suis point jeune, et…
-
--*who_lisette
-Vous n'êtes pas jeune ?
-Et fi donc, Monsieur, ne dites pas cela.
-
--*who_monsieurgrognac
 Que je ne dise pas cela ?
 
--*who_lisette
-Non.
+Et pourquoi ne le dirai-je pas ? J'ai cinquante-huit ans bien comptés.
 
--*who_monsieurgrognac
-Et pourquoi ne le dirai-je pas ?
-J'ai cinquante-huit ans bien comptés.
-
--*who_lisette
-Hé, paix, paix, Monsieur, on ne vous croira point.
-
--*who_monsieurgrognac
 On ne me croira point.
 
--*who_lisette
-Non, vous dis-je : ne voyez-vous pas vous-même que vous n'êtes point assez raisonnable pour avoir cet âge-là ?
-
--*who_monsieurgrognac
 Comment, coquine, je ne suis pas raisonnable ?
 
--*who_lisette
-Hé, non vraiment : si vous l'étiez, auriez-vous fait le dessein ridicule de donner votre fille à un subalterne de robe, un vieux conseiller Présidial, un crasseux qui…
+Ah, ah ? Voici qui est admirable ! Et qui suis-je donc, moi, pour prétendre un parti plus considérable ?
 
--*who_monsieurgrognac
-Ah, ah ?
-Voici qui est admirable !
-Et qui suis-je donc, moi, pour prétendre un parti plus considérable ?
-
--*who_lisette
-Vous êtes un peu crasseux aussi, j'en demeure d'accord, puisque vous le voulez ; mais comme vous avez du bien… croyez-moi, Monsieur, je ferais un peu décrasser ma fille, si j'étais à votre place.
-
--*who_monsieurgrognac
 Tu ferais, tu ferais comme je ne ferai pas.
 
--*who_lisette
-Tant pis pour vous.
-Mademoiselle Angélique est une personne propre, qui se fera décrasser d'elle-même, je vous en avertis.
+Oui ? Oh je t'entends. Écoute : si les sentiments de ma fille ne sont pas conformes aux miens, je saurai à qui m'en prendre, et… Que je trouve quelque obstacle à mes intentions seulement, tu verras ce qui en arrivera.
 
--*who_monsieurgrognac
-Oui ?
-Oh je t'entends.
-Écoute : si les sentiments de ma fille ne sont pas conformes aux miens, je saurai à qui m'en prendre, et… Que je trouve quelque obstacle à mes intentions seulement, tu verras ce qui en arrivera.
+Ah ! Je vous trouve à propos, ma sœur, et je reviens exprès pour vous dire que votre procès se juge demain, et que si vous négligez de voir aujourd'hui votre rapporteur, vous pouvez compter votre affaire perdue.
 
-**** *book_ *id_I03 *act_I *date_1697
+Tu diras à ma fille, toi, que le mari que je lui destine soupe ici ce soir, et que nous aurons les violons ensuite. Qu'elle se pare, qu'elle s'ajuste : je vais faire dresser son contrat de mariage, et nous le signerons demain ; qu'elle songe à être de bonne humeur sur toutes choses.
 
--*who_lisette
-Il en arrivera tout ce qui pourra, nous ne laisserons pas d'y en mettre, si nous pouvons.
-Mais voyez un peu quelle extravagance !
-Vouloir forcer une jeune fille de bourgeois et de bon esprit à se contenter d'un homme de Robe, et en hiver encore ?
-En été, passe, on prend ce qu'on trouve : mais dans le bon temps on serait bien sotte de n'en pas profiter.
-Allons, allons, mort de ma vie, je n'en aurai pas le démenti ; et je ne veux pas qu'il soit dit dans le monde qu'aucune fille de la connaissance de Lisette se soit engeancée d'un Robin.
+Moi, je ne sais. Qui est cet homme-là ? Parle.
 
-**** *book_ *id_I04 *act_I *date_1697
+Quelque voleur que cette coquine-là m'attire chez moi.
 
--*who_mimi
-Ma chère Lisette, que je t'embrasse.
+Que veut dire ce misérable-là, avec son impertinente chanson ?
 
--*who_lisette
-Ah, ah !
-Quels nouveaux transports de joie et d'amitié sont-ce là ?
+Oui, oui, c'est le moyen de lui apprendre à parler.
 
--*who_mimi
-Je ne retournerai plus dans le Couvent, ma chère enfant, je ne retournerai plus dans le Couvent.
+Attends, attends, je vais te payer de ton avis.
 
--*who_lisette
-Vous n'y retournerez plus !
-En êtes-vous bien sûre ?
+Montons là-haut, nous y trouverons ma fille et ma sœur, et nous en saurons davantage.
 
--*who_mimi
-On ne peut pas l'être davantage.
-On marie ma sœur aujourd'hui ou demain, ma tante vient de me le dire.
-Je serai de la noce premièrement ; et quand ma sœur sera une fois mariée, il faudra bien que je demeure à la maison, moi, afin que mon tour vienne.
+Ouais, je perds patience, et je me fâcherai à la fin.
 
--*who_lisette
-Cela est fort bien réglé dans notre petite imagination !
-Mais votre père et votre tante ne seront pas de votre avis, peut-être, et…
+Nous verrons la fin de tout ceci.
 
--*who_mimi
-Oh si fait, si fait, ma tante m'aime bien, je te réponds d'elle.
-Je la caresse tant, je lui dis qu'elle est jeune, jolie, bien faite, spirituelle ; elle croit tout cela, car elle est un peu folle, et elle me baise, elle me baise : et moi je me moque d'elle, au moins, je t'en avertis.
+Il faut voir ce que c'est, et s'il n'y a point de remède.
 
--*who_lisette
-Voilà qui est bien pour votre tante : mais votre père, de qui la chose dépend le plus…
+Il est dangereux quelquefois d'avoir trop de sévérité, Monsieur Filassier.
 
--*who_mimi
-Bon, mon père, c'est le plus facile à attraper, on le gouverne comme un enfant, il querelle toujours sans savoir pourquoi.
-Vous l'obstinez tous, vous le chagrinez ; et moi je lui dis toujours qu'il a raison de quereller, que vous êtes des canailles ; il ne faut que cela pour être de ses amis.
-Tiens, mon enfant, il ne trouve que moi de raisonnable dans toute la maison, je gage.
+Non, vraiment, il n'y a que du bonheur.
 
--*who_lisette
-Oh, sur ce pied-là vous y demeurerez ; il n'y aura plus de Couvent pour vous, je vois bien cela.
+Voilà une plaisante folie !
 
--*who_mimi
-Je suis sûre de mon fait, te dis-je ; et le mari de ma sœur parlera aussi pour moi en cas de besoin.
+Cette folie-là n'est pas dangereuse, et dans la suite…
 
--*who_lisette
-Oui ?
-Il est donc de vos amis, à ce compte ?
+Cela est chagrinant.
 
--*who_mimi
-S'il en est ?
-Il en doit être plus qu'un autre.
-Je me fais si grande violence pour lui dire des honnêtetés.
-Ah le vilain homme, Lisette, le vilain homme ?
+Il ne s'est point fait de mal en se jetant par la fenêtre ?
 
--*who_lisette
-N'est-il pas vrai que c'est un laid mâtin ?
+On devrait faire un bon exemple de ces coquines-là, qui débauchent ainsi la jeunesse.
 
--*who_mimi
-Oh pour cela oui.
-Je ne suis pourtant pas fâchée qu'on le donne à ma sœur.
+Parle donc, hé maraud, sais-tu bien que c'est moi qui suis Monsieur Grognac ?
 
--*who_lisette
-Hé que vous a-t-elle fait ?
-Pourquoi cela ?
+Tu es un insolent…
 
--*who_mimi
-Pourquoi ?
-Mon père sera fâché dans quelque temps de lui avoir fait épouser ce magot-là ; et cela fera qu'il me mariera mieux, ou qu'il me laissera peut-être choisir moi-même un petit mari comme je le voudrai.
+Ce coquin-là…
 
--*who_lisette
-Mort de ma vie, vous ne choisiriez pas mal, je pense.
+Ouais, qu'est-ce que tout cela signifie ?
 
--*who_mimi
-Ah, ah !
-Mieux que mon père et ma tante, je vous en réponds.
-Si tu savais comme elle est amoureuse.
+Il faut que je vois un peu cela de plus près.
 
--*who_lisette
-Votre tante amoureuse ?
+Allez, ma sœur, vous êtes une vieille folle, avec vos visions.
 
--*who_mimi
-Paix, qu'elle ne sache pas que je vous ai dit cela, au moins.
+Et vous, Monsieur, qui vous mettez dans la cervelle.
 
--*who_lisette
-Non, non, ne craignez rien.
+Mais, vraiment oui, je pense que c'est tout de bon, qu'ils ont perdu l'esprit l'un et l'autre.
 
--*who_mimi
-Elle ne croit pas que j'y prenne garde : mais je vois tout, moi.
+Il en faut rire malgré moi.
 
--*who_lisette
-Et que voyez-vous ?
+Oui, ma fille, mais cela n'empêchera pas…
 
--*who_mimi
-Il vient un petit homme causer avec elle dans sa loge toutes les fois que nous allons à l'Opéra.
+Ah ! Voici qui est plaisant. Le valet est aussi fou que le maître, je pense.
 
--*who_lisette
-Je ne m'étonne plus qu'elle y aille si souvent.
-Et entendez-vous ce qu'ils disent ?
+On nous joue, Monsieur Filassier, sur ma parole.
 
--*who_mimi
-Si je l'entends ?
-Oh, ils sont tous deux bien amoureux et bien ridicules.
-Il l'appelle Armide, elle l'appelle son petit Renaud ; et quand quelque endroit de l'Opéra leur fait plaisir, ils se serrent les mains, ils se regardent, ils font des mines : et moi je crève de rire.
+Pour vous, ou pour lui, cela m'est indifférent, pourvu que ce ne soit pas une vraie folie ; et que ma sœur…
 
--*who_lisette
-Voilà une bonne petite personne.
-Mais voici votre tante, je pense : c'est elle-même.
 
-**** *book_ *id_I05 *act_I *date_1697
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejaquinet
 
--*who_madamejaquinet
 Hé, laquais, laquais, holà, laquais, petit laquais.
 
--*who_jasmin
-Madame ?
+Qu'on aille dire à la Coliquet de me garder mes places pour demain. Entendez-vous ?
 
--*who_madamejaquinet
-Qu'on aille dire à la Coliquet de me garder mes places pour demain.
-Entendez-vous ?
+Qu'on n'y manque pas, au moins, cela est plus de conséquence qu'on ne s'imagine. Ah, ah ! Que faites-vous donc là, petite fille.
 
--*who_mimi
-Oui, Madame.
-
--*who_madamejaquinet
-Qu'on n'y manque pas, au moins, cela est plus de conséquence qu'on ne s'imagine.
-Ah, ah !
-Que faites-vous donc là, petite fille.
-
--*who_mimi
-Je contais à Lisette comme je vous aime, et combien je suis heureuse d'avoir une belle tante comme vous.
-
--*who_madamejaquinet
 Vous n'avez point été à votre Clavecin d'aujourd'hui ?
 
--*who_mimi
-Pardonnez-moi, ma tante, toute la matinée.
-
--*who_madamejaquinet
 Hé bien, votre maître d'Italien va venir, allez-vous-en l'attendre dans ma chambre.
 
--*who_mimi
-J'y vais, ma tante.
+C'est la seule que j'aime de toute la famille. Elle a un si bon petit cœur, c'est une simplicité, une complaisance, une discrétion… Il n'y a point de secrets que je ne confiasse à cet enfant-là.
 
-**** *book_ *id_I06 *act_I *date_1697
+Mon héritière ! Elle mon héritière ! Oh si par malheur j'ai jamais des héritiers, je prétends bien qu'ils soient de ma façon, s'il vous plaît
 
--*who_lisette
-Vous avez-là une aimable petite nièce, Madame.
-
--*who_madamejaquinet
-C'est la seule que j'aime de toute la famille.
-Elle a un si bon petit cœur, c'est une simplicité, une complaisance, une discrétion… Il n'y a point de secrets que je ne confiasse à cet enfant-là.
-
--*who_lisette
-Ils seraient en bonne main.
-Vous en ferez votre héritière, apparemment ?
-
--*who_madamejaquinet
-Mon héritière !
-Elle mon héritière !
-Oh si par malheur j'ai jamais des héritiers, je prétends bien qu'ils soient de ma façon, s'il vous plaît
-
--*who_lisette
-De votre façon, Madame ?
-
--*who_madamejaquinet
 Hé vraiment oui, de ma façon.
 
--*who_lisette
-Vous avez donc des vues pour le mariage, Madame ?
-
--*who_madamejaquinet
-Si j'en ai ?
-La plaisante demande !
-Si j'en ai ?
-Oui vraiment, j'en ai, et de très belles, et de très vives, et de très prochaines.
+Si j'en ai ? La plaisante demande ! Si j'en ai ? Oui vraiment, j'en ai, et de très belles, et de très vives, et de très prochaines.
 Au temps heureux où l'on sait plaire,
 Il est doux d'aimer tendrement.
 
--*who_lisette
-C'est l'Opéra tout pur, madame ; je vous entends, vous aimez ?
+Oui, ma chère Lisette, le plus aimable enfant, le plus joli petit homme ! Tu le verras ; il doit venir ici, je veux lui donner aujourd'hui un petit régal dans mon appartement, j'ai pris toutes mes mesures pour cela, et…
 
--*who_madamejaquinet
-Oui, ma chère Lisette, le plus aimable enfant, le plus joli petit homme !
-Tu le verras ; il doit venir ici, je veux lui donner aujourd'hui un petit régal dans mon appartement, j'ai pris toutes mes mesures pour cela, et…
+Monsieur mon frère ! C'est un plaisant animal que Monsieur mon frère. Est-il mon tuteur ?
 
--*who_lisette
-Vous n'y songez pas, Madame, et Monsieur votre frère est un bourru, comme vous savez.
-
--*who_madamejaquinet
-Monsieur mon frère !
-C'est un plaisant animal que Monsieur mon frère.
-Est-il mon tuteur ?
-
--*who_lisette
-Oh pour cela non, vous êtes hors de tutelle, sans contredit.
-
--*who_madamejaquinet
 S'il voulait me chagriner sur l'âge, je trouverais fort bien les moyens de me faire émanciper.
 
--*who_lisette
-Assurément.
-
--*who_madamejaquinet
 Oh çà donc, ma chère enfant, tu es une fille d'esprit, je veux te faire voir mon petit homme, afin que tu m'en dise ton sentiment.
 
--*who_lisette
-Très volontiers, Madame.
-
--*who_madamejaquinet
 Il sera de ton goût, j'en suis sûre, il est enchanté de moi, tiens, mon enfant.
 Il fait sa gloire de me plaire,
 Et tout son bonheur de me voir.
 
--*who_lisette
-Cela est bien tendre.
+N'est-il pas vrai ? Il perd l'esprit, te dis-je, et il me le fait perdre à moi, voilà ce qui est admirable.
 
--*who_madamejaquinet
-N'est-il pas vrai ?
-Il perd l'esprit, te dis-je, et il me le fait perdre à moi, voilà ce qui est admirable.
-
-**** *book_ *id_I07 *act_I *date_1697
-
--*who_monsieurgrognac
-Ah !
-Je vous trouve à propos, ma sœur, et je reviens exprès pour vous dire que votre procès se juge demain, et que si vous négligez de voir aujourd'hui votre rapporteur, vous pouvez compter votre affaire perdue.
-
--*who_madamejaquinet
 J'irai, mon frère, j'irai ; voilà qui est bien, je vous remercie.
 
--*who_monsieurgrognac
-Tu diras à ma fille, toi, que le mari que je lui destine soupe ici ce soir, et que nous aurons les violons ensuite.
-Qu'elle se pare, qu'elle s'ajuste : je vais faire dresser son contrat de mariage, et nous le signerons demain ; qu'elle songe à être de bonne humeur sur toutes choses.
-
--*who_lisette
-Oui, elle sera fort gaie, Monsieur, voilà une nouvelle bien réjouissante.
-
-**** *book_ *id_I08 *act_I *date_1697
-
--*who_madamejaquinet
 Mon procès se juge demain ; mais voyez cet animal de Rapporteur, précipiter ainsi les choses sans qu'on l'en prie, dans le temps que je me propose une partie aussi gracieuse.
 
--*who_lisette
-Avec le petit homme, n'est-ce pas ?
-Nous ferons, vos nièces et moi, les honneurs du logis, Madame.
-
-**** *book_ *id_I09 *act_I *date_1697
-
--*who_angelique
-Hé bien, ma pauvre Lisette, as-tu sondé l'esprit de mon père sur mon mariage ?
-Est-il toujours dans la résolution…
-
--*who_lisette
-Voilà votre tante.
-
--*who_angelique
-Ah !
-Madame, je ne vous voyais pas, je vous demande pardon.
-
--*who_madamejaquinet
 Que je ne vous contraigne point, parlez, parlez : vous êtes bien aise qu'on vous marie.
 
--*who_angelique
-Ah, Ciel !
-Que je suis malheureuse !
-
--*who_madamejaquinet
 Comment donc malheureuse ?
 
--*who_angelique
-Madame…
+Quoi ! C'est le mariage…
 
--*who_lisette
-Hé, mort de ma vie, expliquez-vous, faut-il faire tant de façons ?
-Vous avez une tante, qui est la meilleure personne du monde, elle est dans vos intérêts, et je suis sûre qu'elle vous aidera de tout son cœur à rompre le mariage qui vous chagrine.
+Oh ! Pour cela vous avez raison, et monsieur Filassier, le Conseiller d'Amiens, mon prétendu neveu, est un personnage très peu ragoûtant, très peu ragoûtant, très peu ragoûtant.
 
--*who_madamejaquinet
-Quoi !
-C'est le mariage…
+Vous ne le trouvez qu'injuste : il est fou, ma nièce. Allez, allez, croyez-moi, mon enfant, moquez-vous de lui, je suis de moitié.
 
--*who_lisette
-Oui, Madame.
-Nous savons pourtant bien que c'est quelque chose de bon qu'un bon mariage : mais celui que nous propose Monsieur votre frère, n'est point du tout de notre goût, je vous assure.
+Il veut vous marier à sa fantaisie, il prétend que je ne me marie pas, moi : vous avez quelque amant, sans doute, je ne suis pas sans cela, comme vous jugez bien. Sais-tu le parti qu'il faut prendre, Lisette ?
 
--*who_madamejaquinet
-Oh !
-Pour cela vous avez raison, et monsieur Filassier, le Conseiller d'Amiens, mon prétendu neveu, est un personnage très peu ragoûtant, très peu ragoûtant, très peu ragoûtant.
-
--*who_angelique
-N'est-il pas vrai, ma tante, que mon père est bien injuste de vouloir me forcer à prendre un engagement…
-
--*who_madamejaquinet
-Vous ne le trouvez qu'injuste : il est fou, ma nièce.
-Allez, allez, croyez-moi, mon enfant, moquez-vous de lui, je suis de moitié.
-
--*who_lisette
-La bonne tante que vous avez-là.
-
--*who_madamejaquinet
-Il veut vous marier à sa fantaisie, il prétend que je ne me marie pas, moi : vous avez quelque amant, sans doute, je ne suis pas sans cela, comme vous jugez bien.
-Sais-tu le parti qu'il faut prendre, Lisette ?
-
--*who_lisette
-Et quel, Madame ?
-
--*who_madamejaquinet
 De faire nos petites noces en notre petit particulier ; et quand cela sera fait, que le bonhomme crie tant qu'il voudra, nous le laisserons crier tout à son aise.
 
--*who_angelique
-Comment, ma tante, vous êtes dans la résolution…
+Ah ! L'heureuse faiblesse, ma chère Lisette ! L'heureuse faiblesse que celle qui me domine !
 
--*who_lisette
-Vraiment oui, chacun a sa faiblesse dans le monde : Madame a la bonté de se prêter à la vôtre, il faut bien que vous lui passez la sienne.
+Ce sera une petite partie carrée bien aimable et bien assortie, ma nièce. Tiens, Lisette, je veux faire de mon appartement une espèce de petit palais enchanté, où nous les mettrons ensemble, de peur qu'ils ne s'ennuient.
 
--*who_madamejaquinet
-Ah !
-L'heureuse faiblesse, ma chère Lisette !
-L'heureuse faiblesse que celle qui me domine !
-
--*who_angelique
-Quoi !
-Sérieusement, ma tante…
-
--*who_lisette
-Hé oui, vous dis-je : vous aimez un joli petit homme, Madame aime un joli petit homme aussi, et vous aurez chacune votre joli petit homme.
-Oh, cela sera fort joli, au moins.
-
--*who_madamejaquinet
-Ce sera une petite partie carrée bien aimable et bien assortie, ma nièce.
-Tiens, Lisette, je veux faire de mon appartement une espèce de petit palais enchanté, où nous les mettrons ensemble, de peur qu'ils ne s'ennuient.
-
--*who_lisette
-Que cela est bien imaginé, Madame !
-Ce sont de fort jolis oiseaux à tenir en cage, au moins : il n'y a qu'une petite difficulté qui nous embarrasse nous autres.
-
--*who_madamejaquinet
 Comment ?
 
--*who_lisette
-Nous ne savons où prendre le nôtre, nous ignorons où il est, il ne sait où nous sommes, et il y a près de trois mois que nous n'avons eu de ses nouvelles.
+Trois mois ! Trois mois ! Il le faut faire afficher : Amant perdu, dix pistoles à gagner. Vous le retrouverez, j'ai retrouvé ma chienne.
 
--*who_madamejaquinet
-Trois mois !
-Trois mois !
-Il le faut faire afficher : Amant perdu, dix pistoles à gagner.
-Vous le retrouverez, j'ai retrouvé ma chienne.
-
--*who_lisette
-Oui, il n'y a qu'à bien marquer dans l'affiche le poil et les oreilles, quelque curieuse le ramènera, peut-être.
-
--*who_madamejaquinet
 En attendant que le vôtre revienne, je vous ferai voir le mien ; mais au moins, ma nièce, écoutez donc…
 
--*who_lisette
-Non, non, ne craignez rien, Madame, nous n'irons point sur vos brisées.
-
--*who_madamejaquinet
-J'ai quelques ordres à donner pour recevoir ce pauvre enfant, et il faut que je sorte ; je ne vous dis pourtant pas adieu, ma nièce.
-Que nous allons passer d'heureux moments, Lisette !
+J'ai quelques ordres à donner pour recevoir ce pauvre enfant, et il faut que je sorte ; je ne vous dis pourtant pas adieu, ma nièce. Que nous allons passer d'heureux moments, Lisette !
 C'est aux jeux, c'est aux Amours,
 Qu'il faut donner ses plus beaux jours.
 
-**** *book_ *id_I10 *act_I *date_1697
+Taisez-vous, mon frère, vous ne savez ce que vous dites.
 
--*who_angelique
-Ma tante devient tout à fait folle, ma pauvre Lisette.
+On juge mon procès, je vais solliciter,
+Bon droit a toujours besoin d'aide :
+Mon juge est un vieux fou que ma partie obsède,
+Et que l'argent seul peut tenter.
 
--*who_lisette
-Je voudrais qu'elle le fût cent fois davantage, et que sa folie pût nous être utile à détourner, ou à différer, du moins, ce maudit mariage que votre père s'est mis dans la tête.
+Voyez avec qui je vous laisse.
 
--*who_angelique
-Quelle apparence d'y réussir par là, et de quelle utilité…
+N'en contez donc plus à ma nièce.
 
--*who_lisette
-Si nous pouvions ménager un conflit d'extravagance entre Monsieur votre père et Madame votre tante, et que cela pût nous donner le temps… Écoutez, il arrive quelquefois de certaines choses à quoi l'on ne s'attend point du tout.
+Pour cela, je fais de belles passions, n'est-il pas vrai ?
 
--*who_angelique
-Que peut-il arriver qui me fasse plaisir dans la cruelle situation où je me trouve ?
+Hé bien, mon frère, vous êtes témoin de notre amour extrême, ayez bien soin de ce pauvre garçon pendant mon absence, je ne serai pas longtemps sans revenir.
 
--*who_lisette
-Mort de ma vie, vous le méritez bien.
-Voilà ce que vous coûte votre dissimulation, et vos scrupules chimériques d'une bienséance ridicule, que vous enragez d'avoir eus, je gage.
+Je te le recommande aussi, Lisette.
 
--*who_angelique
-Que voulais-tu que je fisse davantage ?
-Je vais avec toi l'été dernier aux Tuileries, un jeune homme tout des mieux faits, et des plus spirituels nous aborde.
+Hé bien, ma chère Lisette, ce pauvre Renaud ne s'est-il point ennuyé pendant mon absence ?
 
--*who_lisette
-Que son valet de chambre avait bonne mine !
-Vous en souvient-il, Madame !
+Avec la Gloire ? C'est ma nièce.
+Vous partez, Renaud, vous partez,
+Suivez ses pas, démons, démons…
+Ah ! Je suis au désespoir.
 
--*who_angelique
-La physionomie du Cavalier me prévient en sa faveur.
+Ah, je n'en puis plus, je me meurs ; perfide, barbare !
+Tu jouis en partant,
+Du plaisir de m'ôter la vie.
 
--*who_lisette
-L'air insinuant du valet de chambre me donne dans la vue.
+Traître, attends, je le tiens, je le tiens, son cœur perfide. Ah ! Je ne tiens rien, je suis trahie, je suis outrée ; mais je me vengerai, je me vengerai.
+L'espoir de la Vengeance est le seul qui me reste,
+Démons, démons, détruisez ce Palais,
+Détruisez ce Palais.
 
--*who_angelique
-Sa conversation m'enchante.
 
--*who_lisette
-Ses petits quolibets me touchèrent l'âme.
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfilassier
 
--*who_angelique
-Nous nous voyons plusieurs jours de suite.
+Ah ! Te voilà. Bonjour, Lisette.
 
--*who_lisette
-Sans nous ennuyer, n'est-il pas vrai ?
+Avec qui es-tu là, n'est-ce pas là… oui, vraiment. Ah, ah ! Que faites-vous de ce coquin-là chez vous, Monsieur ?
 
--*who_angelique
-Il me parle de son amour.
-
--*who_lisette
-Il me fit ses petites propositions.
-
--*who_angelique
-J'y devins sensible plus que je ne devais.
-
--*who_lisette
-Je ne m'éloignai pas trop de les accepter.
-
--*who_angelique
-Je lui cache mon nom et mon logis.
-
--*who_lisette
-Et vous fîtes fort mal.
-
--*who_angelique
-Je lui défends de me faire suivre.
-
--*who_lisette
-Il a très sottement fait de vous obéir : voyez où nous en sommes.
-
--*who_angelique
-Pouvait-on prévoir que mon père nous emmènerait si précipitamment à la campagne ?
-
--*who_lisette
-Et que nous ne reviendrions qu'à la Saint Martin ?
-C'est une saison morte pour les amants des Tuileries que la Saint-Martin, ils décampent avec les feuilles.
-
--*who_angelique
-Serait-il possible qu'il fût tranquille quand je ne suis occupée que de son souvenir ?
-
--*who_lisette
-Oh, pour cela oui, cela est fort possible, il n'y a rien de plus naturel même.
-
--*who_angelique
-Non, Lisette, il paraissait m'aimer si tendrement : son inquiétude est égale à la mienne ; il me cherche partout avec empressement, je gage, à l'Opéra, aux Comédies ?
-
--*who_lisette
-Il ne vous trouvera pas, à coup sûr : et comme ce sont les spectacles qui ont fait tourner la cervelle à Madame votre tante, votre père ne permettra jamais que vous y alliez.
-
--*who_angelique
-Qu'il est étrange de ne nous pas laisser cette liberté, et que…
-
--*who_lisette
-Il n'est ma foi pas trop mal inspiré, Madame ; et vous en feriez, comme vous voyez, un usage fort contraire à ses intentions.
-
-**** *book_ *id_I11 *act_I *date_1697
-
--*who_lolive
-Faites-moi, s'il vous plaît, la grâce de m'enseigner l'appartement de Madame Jaquinet.
-Je ne trouve personne ici.
-
--*who_lisette
-Miséricorde, que vois-je, Madame ?
-
--*who_lolive
-Aurais-je la berlue ?
-
--*who_angelique
-Qu'est-ce que c'est ?
-Qu'es-tu donc, Lisette ?
-
--*who_lisette
-Le valet de chambre de votre petit homme qui demande votre tante !
-
--*who_angelique
-Il n'est pas possible !
-
--*who_lolive
-Je ne me trompe point, ce sont elles-mêmes.
-Holà, ho, Monsieur mon maître, montez vite.
-
-**** *book_ *id_I12 *act_I *date_1697
-
--*who_clitandre
-Hé bien, Lolive, as-tu trouvé…
-
--*who_lolive
-Ho, par ma foi, oui, j'ai trouvé ; et j'ai trouvé mieux que nous ne cherchions même.
-
--*who_clitandre
-Comment ?
-
--*who_lolive
-Regardez, Monsieur, regardez, hem !
-
--*who_clitandre
-Mon pauvre Lolive !
-
--*who_lisette
-Le voilà retrouvé, Madame, et sans affiches.
-
--*who_angelique
-Ah, Ciel !
-Quelle aimable surprise, tous mes sens sont troublés, ma force m'abandonne ; soutiens-moi, Lisette.
-
--*who_lisette
-Hé !
-Que faites-vous donc, Madame ?
-Vous n'y pensez pas.
-
--*who_lolive
-L'occasion est belle, prenez-la dans vos bras, Monsieur.
-
--*who_clitandre
-Quelle étrange révolution !
-Je n'en puis plus, je me meurs, Lolive.
-
--*who_lolive
-Monsieur, holà, Monsieur ?
-Mais écoutez donc.
-Voilà un beau contretemps de sympathie !
-Maugrebleu des sottes gens.
-
--*who_lisette
-Je ne puis plus vous soutenir, je vous en avertis, Madame.
-
--*who_lolive
-Il pèse comme un diable.
-Je vous laisserai tomber, la peste m'étouffe.
-
--*who_lisette
-Voyons donc ce que nous en ferons.
-
--*who_lolive
-Je meurs d'envie de t'embrasser, moi, et de te dire bonjour de plus près.
-
--*who_lisette
-Et moi aussi.
-
--*who_lolive
-Cela est embarrassant.
-
--*who_lisette
-Hé bien, qu'est-ce, Monsieur de Lolive !
-Vous n'avez guère pensé à moi depuis que nous ne nous sommes vus ?
-
--*who_lolive
-Si fait, mon enfant, quelquefois par-ci, par-là dans de certains moments.
-
--*who_angelique
-Ah, Ciel !
-
--*who_lisette
-Hé allons, mort de ma vie, revenez à vous : vous prenez bien mal votre temps pour vous évanouir.
-
--*who_lolive
-Allons donc aussi, vous.
-
--*who_clitandre
-Hélas !
-
--*who_lolive
-Hélas !
-Le grand dadais avec son hélas !
-Cela n'a non plus de force…
-
--*who_angelique
-Je vous revois après une longue absence, Monsieur ; mais je vous revois infidèle peut-être ?
-
--*who_clitandre
-Moi, infidèle, Madame ?
-Ah !
-Ne m'accablez point par un reproche aussi cruel qu'injuste, je vous jure…
-
--*who_angelique
-Ne jurez point, Monsieur : ce n'est pas moi que vous cherchez ici.
-
--*who_clitandre
-Ce n'est pas vous ?
-
--*who_lisette
-Oh !
-Pour cela non : c'est notre tante ; on a demandé Madame Jaquinet.
-
--*who_clitandre
-Lolive.
-
--*who_lolive
-Cela est vrai, Monsieur, nous sommes pris pour dupes.
-
--*who_clitandre
-Croyez, Madame, que la seule passion que j'ai pour vous…
-
--*who_angelique
-N'espérez pas m'abuser, Monsieur.
-
--*who_lisette
-Oh !
-Pour cela, non.
-On sait de vos fredaines ; c'est Madame Jaquinet à qui vous en voulez, vous avez des rendez-vous avec elle tous les jours d'Opéra ; elle vous attend ici aujourd'hui, vous y venez, vous nous trouvez, vous vous évanouissez, vous nous en recontez.
-Mort de ma vie, vous êtes un fripon ; qu'avez-vous à dire ?
-
--*who_clitandre
-Si je connais votre tante, Madame, si je l'ai jamais vue…
-
-**** *book_ *id_I13 *act_I *date_1697
-
--*who_mimi
-Ma sœur, ma tante vous prie de lui venir parler tout à l'heure, elle veut vous montrer… Ah !
-Ah !
-Vous voilà ici, Monsieur, est-ce qu'on vous a permis d'y venir ?
-Qui vous a dit où nous demeurions ?
-
--*who_clitandre
-L'embarrassante conjoncture !
-
--*who_lisette
-Comment !
-Est-ce que vous connaissez ce Monsieur-là, Mademoiselle Mimi ?
-
--*who_mimi
-Si je le connais ?
-C'est le petit Renaud de ma tante.
-Si vous saviez, ma sœur, toutes les caresses qu'il lui fait, et comme ils s'aiment.
-Oh !
-Vous verrez cela, vous en mourrez de rire.
-
--*who_lisette
-Cela sera bien divertissant.
-
--*who_angelique
-Vous vous trompez, Mimi, Monsieur ne connaît pas ma tante, il ne l'a jamais vue.
-
--*who_mimi
-Il ne l'a jamais vue qu'à la chandelle, peut-être, dans la loge de l'Opéra : c'est ce qui fait qu'il l'aime.
-
--*who_lolive
-L'enfant dit vrai, Monsieur : on se moque de nous, il faut tout avouer.
-
--*who_clitandre
-Je suis au désespoir.
-
--*who_lisette
-Je le savais bien, moi, qu'on cherchait Madame Jaquinet, et que c'était là son petit homme de l'Opéra.
-
--*who_mimi
-Hé, vraiment oui, c'est lui-même, vous dis-je ; je m'en vais dire à ma tante qu'il est ici, vous allez voir comme ils se connaissent.
-
--*who_angelique
-Attends, attends, Mimi.
-
--*who_mimi
-Non, non, je m'en vais vous l'amener, laissez-moi, faire.
-
-**** *book_ *id_I14 *act_I *date_1697
-
--*who_angelique
-Vous m'avez trahie, Monsieur, le hasard vous trahit à votre tour : je suis fâchée que votre procédé…
-
--*who_clitandre
-Faites-moi la grâce de m'écouter un moment, Madame, et vous verrez…
-
--*who_lolive
-Je me donne au diable, nous ne sommes point coupables ; il n'y a point de quoi fesser un chat, ou la peste m'étouffe.
-
--*who_lisette
-Écoutons-les, Madame, peut-être y a-t-il du malentendu dans tout ceci.
-
--*who_angelique
-Allez, Monsieur, le choix que vous avez fait, me venge bien de votre légèreté, je vous assure : cela suffit, et je ne prétends pas…
-
--*who_lolive
-Comment le choix ?
-Qu'est-ce à dire le choix ?
-Oh, ce n'est point par choix que nous voyons Madame Jaquinet, c'est par une nécessité presque indispensable.
-
--*who_lisette
-Par une nécessité indispensable ?
-
--*who_lolive
-Oui, il faut avoir de la conduite dans le monde, on se trouve dans de certaines situations… Tenez, avec tous ces grands airs que vous voyez à ce petit Gentilhomme-là, ce n'est qu'un écolier de Droit, je vous en avertis.
-
--*who_clitandre
-Ah, malheureux !
-Que vas-tu dire ?
-
--*who_lolive
-Paix, laissez-moi faire.
-
--*who_lisette
-Un écolier, Madame, un écolier !
-
--*who_lolive
-Oui, vraiment, un écolier.
-Il est vrai que depuis que nous vous avons perdues, désespérés de ne point trouver dans le quartier de l'Université de quoi nous consoler de notre infortune, nous nous sommes logés dans le faubourg ; et par les conseils de Madame Jaquinet, Monsieur postule pour être Officier de Dragons.
-
--*who_lisette
-Votre tante aime furieusement ce corps-là, Madame.
-
--*who_lolive
-Nous n'y demeurons que pendant l'hiver, jusqu'au commencement de la campagne, en attendant qu'il nous vienne de l'argent pour acheter une charge.
-Nous songeons à notre établissement, comme vous voyez.
-
--*who_clitandre
-Dans la seule vue de vous plaire, Madame ; de me rendre digne de vous, et de vous aimer toute ma vie.
-
--*who_lolive
-Voilà le fait, Madame.
-Pour vous aimer toute sa vie, il faut vivre ; pour vivre, il faut de l'argent : et comme une espèce de père que nous avons en Province ne nous en envoie point, et que Madame Jaquinet a la réputation d'en avoir ; que c'est une de ces âmes charitables qui s'intéressent aux petits besoins des jolis enfants de famille, une de ces généreuses personnes, que nous nommons entre nous autres, les Dames de la Providence… Enfin, Madame, vous comprenez bien qu'il n'y a point d'amour dans notre fait, et que notre visite et nos intentions ne sont point criminelles.
-
--*who_lisette
-Ces excuses là ne sont point trop mauvaises, qu'en dites-vous, Madame !
-Il n'y a pas de mal de songer au solide : il faut vivre, une fois.
-
--*who_clitandre
-Je vous proteste, Madame, que si vous me permettez de vous aimer, si vous me rendez votre cœur…
-
--*who_angelique
-Si le vôtre était tout à moi…
-
--*who_lisette
-Et oui, vous vous aimez tous deux, ce n'est pas là l'affaire.
-Il y a une autre difficulté qui est bien plus embarrassante.
-Son père la marie ce soir ou demain, on dresse le contrat.
-
--*who_lolive
-Ce soir ou demain !
-Quel est le mari qu'on lui destine ?
-
--*who_lisette
-C'est un certain Monsieur Filassier, de par le monde.
-
--*who_lolive
-Monsieur Filassier, Monsieur ?
-
--*who_lisette
-Oui, un Conseiller d'Amiens.
-
--*who_clitandre
-Mon père, Lolive !
-
--*who_angelique
-Votre père !
-
--*who_lolive
-Oui, Madame, cette espèce de père qui ne nous envoie point d'argent.
-Ah le vieux penard !
-Il nous réduit par son avarice, à faire notre cour à des vieilles, pendant qu'il veut épouser les jeunes, lui.
-Oh par ma foi, j'en suis bien aise, il n'a qu'à se bien tenir.
-
--*who_clitandre
-Te proposes-tu quelques moyens ?
-
--*who_lolive
-Il en viendra.
-Nous allons raisonner Lisette et moi ; laissez-nous tête à tête seulement, et allez-vous-en trouver la tante.
-
--*who_clitandre
-Mais…
-
--*who_lolive
-Mais, mais, allez joindre la tante, vous dis-je, continuez avec elle sur le même ton.
-Et vous, Madame, point de caprice, ni de jalousie ; vous aurez bientôt de mes nouvelles.
-
--*who_clitandre
-Je m'abandonne à ta conduite.
-
--*who_angelique
-Soyez sûre d'une parfaite reconnaissance, si vous réussissez à nous rendre heureux.
-
-**** *book_ *id_I15 *act_I *date_1697
-
--*who_lisette
-Tu nous embarques là dans une affaire…
-
--*who_lolive
-Nous en sortirons bien, ne te mets pas en peine : notre Monsieur Filassier aime Monsieur son fils à la folie, quoiqu'il n'en use pas bien avec lui : il n'a que cet enfant-là.
-
--*who_lisette
-Et tu dis qu'il ne lui donne pas un sol ?
-
--*who_lolive
-Oh diable, c'est qu'il aime l'argent encore plus que le fils, et s'il trouvait occasion de l'établir sans… Elle a la réputation d'être un peu folle, Madame Jaquinet.
-
--*who_lisette
-Elle l'est en perfection, la réputation n'est pas fausse.
-
--*who_lolive
-Bon.
-Mais quelle heureuse folie est à présent en quartier chez elle ?
-
--*who_lisette
-Celle de l'amour et de l'Opéra surtout, ce sont les dominantes.
-
--*who_lolive
-Et sais-tu ce que c'est que l'Opéra, toi ?
-Y as-tu été ?
-
--*who_lisette
-Si je le sais ?
-J'ai vu Armide trois ou quatre fois avec Madame Jaquinet, dans les commencements, avant que vous eussiez fait connaissance.
-
--*who_lolive
-Trois ou quatre fois !
-Tu dois savoir cet Opéra-là par cœur ?
-
--*who_lisette
-Ma foi, je n'en ai guères retenu.
-Je ne suis pas fort pour la musique, moi.
-Le Prologue m'ennuie, le premier Acte m'assoupit, cet endroit du Sommeil m'endort, et je ne me réveille qu'à ce grand tintamarre de la fin.
-
--*who_lolive
-Mais enfin, n'en as-tu rien retenu du tout ?
-
--*who_lisette
-Fort peu, te dis-je, quelques petits endroits par-ci par-là, ceux que tout le monde chante.
-
--*who_lolive
-Cela suffit, en voilà de reste.
-
--*who_lisette
-Mais quel est ton dessein ?
-
--*who_lolive
-Tu le sauras, il faut…
-
--*who_lisette
-Voici le père de ma maîtresse, et Monsieur Filassier ; il ne serait pas à propos qu'ils se vissent.
-
--*who_lolive
-Tu as raison.
-Comment nous en débarrasser ?
-
--*who_lisette
-Ma foi je ne sais.
-
--*who_lolive
-Attends, attends, je vais faire Ubalde et le Chevalier Danois.
-Voici à propos une espèce de sceptre.
-
--*who_lisette
-Que diantre veut-il dire ?
-Il est aussi devenu fou, je pense.
-
-**** *book_ *id_I16 *act_I *date_1697
-
--*who_monsieurfilassier
-Ah !
-Te voilà.
-Bonjour, Lisette.
-
--*who_lisette
-Votre servante, Monsieur.
-
--*who_monsieurfilassier
-Avec qui es-tu là, n'est-ce pas là… oui, vraiment.
-Ah, ah !
-Que faites-vous de ce coquin-là chez vous, Monsieur ?
-
--*who_monsieurgrognac
-Moi, je ne sais.
-Qui est cet homme-là ?
-Parle.
-
--*who_lisette
-Est-ce que je le connais moi ?
-Qu'il vous le dise lui-même.
-
--*who_monsieurfilassier
 C'est un maraud que je veux faire pendre.
 
--*who_monsieurgrognac
-Quelque voleur que cette coquine-là m'attire chez moi.
+Non, non, c'est le laquais de mon coquin de fils, il ne vient pas ici pour rien, mais si je prends un bâton.
 
--*who_lolive
+On se moque ici de vous et de moi, je pense ?
+
+C'est bien dit, allons.
+
+Mais qu'est-ce donc que cela ? Me fait-on venir pour m'insulter ? Est-ce une Comédie que nous jouons, s'il vous plaît ?
+
+Un Opéra, bourreau ! Un Opéra ! Il faut que je t'étrangle.
+
+Quoi ! Si je savais ? Chien que tu es.
+
+Mon fils !
+
+C'est toi qui me le gâtes, coquin, et qui lui as fait quitter ses études pour mener une vie…
+
+Je le renonce pour mon enfant.
+
+Il lui est arrivé quelque accident ?
+
+Mon fils est devenu fou ?
+
+Mon fils est devenu fou, mon cher ami ?
+
+Hem, quoi ? Que dites-vous ?
+
+Mais où est-il ? Que fait-il ? Que dit-il ?
+
+Et comment ce malheur-là lui est-il arrivé ?
+
+Dans mes dernières lettres ?
+
+Que je suis malheureux ! Mais de quelle espèce de folie est-il attaqué encore ?
+
+Mais comment cela a-t-il commencé, encore ? Dis.
+
+Sept ou huit cents pistoles ! Il n'y a point de folie jusques-là.
+
+Mais je ne vois point encore moi…
+
+Finis donc.
+
+Ah ! Le misérable a fait quelque mauvais coup ?
+
+Amoureux d'une vieille ! Et n'a-t-il que cette folie-là encore ?
+
+Il croit être Renaud ?
+
+Hé bien, quand il ne la voit point ?
+
+Voilà qui est étrange !
+
+Comment ? Qu'a-t-il fait ?
+
+Hé bien ?
+
+Le pauvre enfant !
+
+Par la fenêtre, mon cher enfant ! Miséricorde !
+
+Que je te suis obligé, mon pauvre Lolive.
+
+Et qui est cette créature-là, dis ?
+
+Madame Jaquinet, monsieur Grognac !
+
+Monsieur Grognac ?
+
+Un peu de patience… Mon fils est donc ici, apparemment ?
+
+C'est bien dit : allons, mène-moi où il est, que je le vois.
+
+Comment ? Qu'est-ce que cela signifie ?
+
+Point, point, elle a raison. Hé plût au Ciel que cela pût réussir !
+
+Ah ! Mon enfant, mon cher enfant !
+
+Hélas non, il n'est que trop vrai.
+
+Mais c'est entretenir son extravagance, au lieu de songer à le guérir.
+
+Oh ! Si tu les tires de là, je te paierai bien, je t'en réponds.
+
+C'est Angélique, la fille de Monsieur Grognac.
+
+Comment donc ?
+
+Et de quelle manière en faire l'expérience ?
+
+Cela est fort bien, mais…
+
+Mais est-il aussi fou que tu le dis ?
+
+De quelque manière que la chose puisse être, je vous demande votre fille pour mon fils, me la refuserez-vous ?
+
+Entrons là-dedans, nous y parlerons sérieusement de cette affaire. Allons, Monsieur Grognac, venez.
+
+
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
+Hé bien, ma pauvre Lisette, as-tu sondé l'esprit de mon père sur mon mariage ? Est-il toujours dans la résolution…
+
+Ah ! Madame, je ne vous voyais pas, je vous demande pardon.
+
+Ah, Ciel ! Que je suis malheureuse !
+
+Madame…
+
+N'est-il pas vrai, ma tante, que mon père est bien injuste de vouloir me forcer à prendre un engagement…
+
+Comment, ma tante, vous êtes dans la résolution…
+
+Quoi ! Sérieusement, ma tante…
+
+Ma tante devient tout à fait folle, ma pauvre Lisette.
+
+Quelle apparence d'y réussir par là, et de quelle utilité…
+
+Que peut-il arriver qui me fasse plaisir dans la cruelle situation où je me trouve ?
+
+Que voulais-tu que je fisse davantage ? Je vais avec toi l'été dernier aux Tuileries, un jeune homme tout des mieux faits, et des plus spirituels nous aborde.
+
+La physionomie du Cavalier me prévient en sa faveur.
+
+Sa conversation m'enchante.
+
+Nous nous voyons plusieurs jours de suite.
+
+Il me parle de son amour.
+
+J'y devins sensible plus que je ne devais.
+
+Je lui cache mon nom et mon logis.
+
+Je lui défends de me faire suivre.
+
+Pouvait-on prévoir que mon père nous emmènerait si précipitamment à la campagne ?
+
+Serait-il possible qu'il fût tranquille quand je ne suis occupée que de son souvenir ?
+
+Non, Lisette, il paraissait m'aimer si tendrement : son inquiétude est égale à la mienne ; il me cherche partout avec empressement, je gage, à l'Opéra, aux Comédies ?
+
+Qu'il est étrange de ne nous pas laisser cette liberté, et que…
+
+Qu'est-ce que c'est ? Qu'es-tu donc, Lisette ?
+
+Il n'est pas possible !
+
+Ah, Ciel ! Quelle aimable surprise, tous mes sens sont troublés, ma force m'abandonne ; soutiens-moi, Lisette.
+
+Ah, Ciel !
+
+Je vous revois après une longue absence, Monsieur ; mais je vous revois infidèle peut-être ?
+
+Ne jurez point, Monsieur : ce n'est pas moi que vous cherchez ici.
+
+N'espérez pas m'abuser, Monsieur.
+
+Vous vous trompez, Mimi, Monsieur ne connaît pas ma tante, il ne l'a jamais vue.
+
+Attends, attends, Mimi.
+
+Vous m'avez trahie, Monsieur, le hasard vous trahit à votre tour : je suis fâchée que votre procédé…
+
+Allez, Monsieur, le choix que vous avez fait, me venge bien de votre légèreté, je vous assure : cela suffit, et je ne prétends pas…
+
+Si le vôtre était tout à moi…
+
+Votre père !
+
+Soyez sûre d'une parfaite reconnaissance, si vous réussissez à nous rendre heureux.
+
+Est-il vrai, mon père, que ce jeune Monsieur qui a perdu l'esprit est le fils de Monsieur Filassier ?
+
+
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mimi
+
+Ma chère Lisette, que je t'embrasse.
+
+Je ne retournerai plus dans le Couvent, ma chère enfant, je ne retournerai plus dans le Couvent.
+
+On ne peut pas l'être davantage. On marie ma sœur aujourd'hui ou demain, ma tante vient de me le dire. Je serai de la noce premièrement ; et quand ma sœur sera une fois mariée, il faudra bien que je demeure à la maison, moi, afin que mon tour vienne.
+
+Oh si fait, si fait, ma tante m'aime bien, je te réponds d'elle. Je la caresse tant, je lui dis qu'elle est jeune, jolie, bien faite, spirituelle ; elle croit tout cela, car elle est un peu folle, et elle me baise, elle me baise : et moi je me moque d'elle, au moins, je t'en avertis.
+
+Bon, mon père, c'est le plus facile à attraper, on le gouverne comme un enfant, il querelle toujours sans savoir pourquoi. Vous l'obstinez tous, vous le chagrinez ; et moi je lui dis toujours qu'il a raison de quereller, que vous êtes des canailles ; il ne faut que cela pour être de ses amis. Tiens, mon enfant, il ne trouve que moi de raisonnable dans toute la maison, je gage.
+
+Je suis sûre de mon fait, te dis-je ; et le mari de ma sœur parlera aussi pour moi en cas de besoin.
+
+S'il en est ? Il en doit être plus qu'un autre. Je me fais si grande violence pour lui dire des honnêtetés. Ah le vilain homme, Lisette, le vilain homme ?
+
+Oh pour cela oui. Je ne suis pourtant pas fâchée qu'on le donne à ma sœur.
+
+Pourquoi ? Mon père sera fâché dans quelque temps de lui avoir fait épouser ce magot-là ; et cela fera qu'il me mariera mieux, ou qu'il me laissera peut-être choisir moi-même un petit mari comme je le voudrai.
+
+Ah, ah ! Mieux que mon père et ma tante, je vous en réponds. Si tu savais comme elle est amoureuse.
+
+Paix, qu'elle ne sache pas que je vous ai dit cela, au moins.
+
+Elle ne croit pas que j'y prenne garde : mais je vois tout, moi.
+
+Il vient un petit homme causer avec elle dans sa loge toutes les fois que nous allons à l'Opéra.
+
+Si je l'entends ? Oh, ils sont tous deux bien amoureux et bien ridicules. Il l'appelle Armide, elle l'appelle son petit Renaud ; et quand quelque endroit de l'Opéra leur fait plaisir, ils se serrent les mains, ils se regardent, ils font des mines : et moi je crève de rire.
+
+Oui, Madame.
+
+Je contais à Lisette comme je vous aime, et combien je suis heureuse d'avoir une belle tante comme vous.
+
+Pardonnez-moi, ma tante, toute la matinée.
+
+J'y vais, ma tante.
+
+Ma sœur, ma tante vous prie de lui venir parler tout à l'heure, elle veut vous montrer… Ah ! Ah ! Vous voilà ici, Monsieur, est-ce qu'on vous a permis d'y venir ? Qui vous a dit où nous demeurions ?
+
+Si je le connais ? C'est le petit Renaud de ma tante. Si vous saviez, ma sœur, toutes les caresses qu'il lui fait, et comme ils s'aiment. Oh ! Vous verrez cela, vous en mourrez de rire.
+
+Il ne l'a jamais vue qu'à la chandelle, peut-être, dans la loge de l'Opéra : c'est ce qui fait qu'il l'aime.
+
+Hé, vraiment oui, c'est lui-même, vous dis-je ; je m'en vais dire à ma tante qu'il est ici, vous allez voir comme ils se connaissent.
+
+Non, non, je m'en vais vous l'amener, laissez-moi, faire.
+
+
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
+Hé bien, Lolive, as-tu trouvé…
+
+Comment ?
+
+Mon pauvre Lolive !
+
+Quelle étrange révolution ! Je n'en puis plus, je me meurs, Lolive.
+
+Hélas !
+
+Moi, infidèle, Madame ? Ah ! Ne m'accablez point par un reproche aussi cruel qu'injuste, je vous jure…
+
+Ce n'est pas vous ?
+
+Lolive.
+
+Croyez, Madame, que la seule passion que j'ai pour vous…
+
+Si je connais votre tante, Madame, si je l'ai jamais vue…
+
+L'embarrassante conjoncture !
+
+Je suis au désespoir.
+
+Faites-moi la grâce de m'écouter un moment, Madame, et vous verrez…
+
+Ah, malheureux ! Que vas-tu dire ?
+
+Dans la seule vue de vous plaire, Madame ; de me rendre digne de vous, et de vous aimer toute ma vie.
+
+Je vous proteste, Madame, que si vous me permettez de vous aimer, si vous me rendez votre cœur…
+
+Mon père, Lolive !
+
+Te proposes-tu quelques moyens ?
+
+Mais…
+
+Je m'abandonne à ta conduite.
+
+Armide, vous m'allez quitter.
+
+Armide, vous m'allez quitter.
+
+Puis-je rien voir que vos appas ?
+
+Volontiers, mais ne tardez pas.
+
+Comment tout cela finira-t-il, mon pauvre Lolive ?
+
+Que vois-je ? Quel éclat vient de frapper mes yeux !
+
+Ciel ! Quelle honte de paraître
+Dans l'indigne état où je suis.
+
+Mon père, je vous demande…
+
+
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
+Faites-moi, s'il vous plaît, la grâce de m'enseigner l'appartement de Madame Jaquinet. Je ne trouve personne ici.
+
+Aurais-je la berlue ?
+
+Je ne me trompe point, ce sont elles-mêmes. Holà, ho, Monsieur mon maître, montez vite.
+
+Ho, par ma foi, oui, j'ai trouvé ; et j'ai trouvé mieux que nous ne cherchions même.
+
+Regardez, Monsieur, regardez, hem !
+
+L'occasion est belle, prenez-la dans vos bras, Monsieur.
+
+Monsieur, holà, Monsieur ? Mais écoutez donc. Voilà un beau contretemps de sympathie ! Maugrebleu des sottes gens.
+
+Il pèse comme un diable. Je vous laisserai tomber, la peste m'étouffe.
+
+Je meurs d'envie de t'embrasser, moi, et de te dire bonjour de plus près.
+
+Cela est embarrassant.
+
+Si fait, mon enfant, quelquefois par-ci, par-là dans de certains moments.
+
+Allons donc aussi, vous.
+
+Hélas ! Le grand dadais avec son hélas ! Cela n'a non plus de force…
+
+Cela est vrai, Monsieur, nous sommes pris pour dupes.
+
+L'enfant dit vrai, Monsieur : on se moque de nous, il faut tout avouer.
+
+Je me donne au diable, nous ne sommes point coupables ; il n'y a point de quoi fesser un chat, ou la peste m'étouffe.
+
+Comment le choix ? Qu'est-ce à dire le choix ? Oh, ce n'est point par choix que nous voyons Madame Jaquinet, c'est par une nécessité presque indispensable.
+
+Oui, il faut avoir de la conduite dans le monde, on se trouve dans de certaines situations… Tenez, avec tous ces grands airs que vous voyez à ce petit Gentilhomme-là, ce n'est qu'un écolier de Droit, je vous en avertis.
+
+Paix, laissez-moi faire.
+
+Oui, vraiment, un écolier. Il est vrai que depuis que nous vous avons perdues, désespérés de ne point trouver dans le quartier de l'Université de quoi nous consoler de notre infortune, nous nous sommes logés dans le faubourg ; et par les conseils de Madame Jaquinet, Monsieur postule pour être Officier de Dragons.
+
+Nous n'y demeurons que pendant l'hiver, jusqu'au commencement de la campagne, en attendant qu'il nous vienne de l'argent pour acheter une charge. Nous songeons à notre établissement, comme vous voyez.
+
+Voilà le fait, Madame. Pour vous aimer toute sa vie, il faut vivre ; pour vivre, il faut de l'argent : et comme une espèce de père que nous avons en Province ne nous en envoie point, et que Madame Jaquinet a la réputation d'en avoir ; que c'est une de ces âmes charitables qui s'intéressent aux petits besoins des jolis enfants de famille, une de ces généreuses personnes, que nous nommons entre nous autres, les Dames de la Providence… Enfin, Madame, vous comprenez bien qu'il n'y a point d'amour dans notre fait, et que notre visite et nos intentions ne sont point criminelles.
+
+Ce soir ou demain ! Quel est le mari qu'on lui destine ?
+
+Monsieur Filassier, Monsieur ?
+
+Oui, Madame, cette espèce de père qui ne nous envoie point d'argent. Ah le vieux penard ! Il nous réduit par son avarice, à faire notre cour à des vieilles, pendant qu'il veut épouser les jeunes, lui. Oh par ma foi, j'en suis bien aise, il n'a qu'à se bien tenir.
+
+Il en viendra. Nous allons raisonner Lisette et moi ; laissez-nous tête à tête seulement, et allez-vous-en trouver la tante.
+
+Mais, mais, allez joindre la tante, vous dis-je, continuez avec elle sur le même ton. Et vous, Madame, point de caprice, ni de jalousie ; vous aurez bientôt de mes nouvelles.
+
+Nous en sortirons bien, ne te mets pas en peine : notre Monsieur Filassier aime Monsieur son fils à la folie, quoiqu'il n'en use pas bien avec lui : il n'a que cet enfant-là.
+
+Oh diable, c'est qu'il aime l'argent encore plus que le fils, et s'il trouvait occasion de l'établir sans… Elle a la réputation d'être un peu folle, Madame Jaquinet.
+
+Bon. Mais quelle heureuse folie est à présent en quartier chez elle ?
+
+Et sais-tu ce que c'est que l'Opéra, toi ? Y as-tu été ?
+
+Trois ou quatre fois ! Tu dois savoir cet Opéra-là par cœur ?
+
+Mais enfin, n'en as-tu rien retenu du tout ?
+
+Cela suffit, en voilà de reste.
+
+Tu le sauras, il faut…
+
+Tu as raison. Comment nous en débarrasser ?
+
+Attends, attends, je vais faire Ubalde et le Chevalier Danois. Voici à propos une espèce de sceptre.
+
 Ah ! Que d'objets horribles,
 Que de monstres horribles.
 
--*who_monsieurgrognac
-Que veut dire ce misérable-là, avec son impertinente chanson ?
-
--*who_lisette
-C'est un pauvre diable, qui a perdu l'esprit, apparemment ; laissez-le là, si vous m'en croyez.
-
--*who_monsieurfilassier
-Non, non, c'est le laquais de mon coquin de fils, il ne vient pas ici pour rien, mais si je prends un bâton.
-
--*who_monsieurgrognac
-Oui, oui, c'est le moyen de lui apprendre à parler.
-
--*who_lolive
 Laissez-nous un libre passage,
 Monstres, allez cacher votre inutile rage
 Dans l'abîme profond dont vous êtes sortis.
 
--*who_monsieurgrognac,monsieurfilassier
-Comment, pendart ?
-
--*who_lolive
 Messieurs les monstres, si vous m'approchez de trop près, le sceptre enchanté jouera son jeu, je vous en avertis.
 
--*who_monsieurgrognac
-Attends, attends, je vais te payer de ton avis.
+Ne pourrions-nous point les retenir par quelque chose de bien amusant ? Ces chansons du quatrième Acte d'Armide, par exemple.
 
--*who_lisette
-Et, Monsieur, qu'allez-vous faire ?
-Vous voyez bien que c'est un extravagant, vous n'auriez pas d'honneur de le battre ; il vous donnerait peut-être quelque coup qui vous ferait mal.
-
--*who_monsieurfilassier
-On se moque ici de vous et de moi, je pense ?
-
--*who_monsieurgrognac
-Montons là-haut, nous y trouverons ma fille et ma sœur, et nous en saurons davantage.
-
--*who_monsieurfilassier
-C'est bien dit, allons.
-
--*who_lisette
-Ils vont surprendre ton maître avec elles, ils ne sont encore avertis de rien.
-
--*who_lolive
-Ne pourrions-nous point les retenir par quelque chose de bien amusant ?
-Ces chansons du quatrième Acte d'Armide, par exemple.
-
--*who_lisette
-Oui, cela est bien amusant, tu as raison.
-
--*who_lolive,lisette
-Voici la charmante retraite
-De la félicité parfaite,
-Voici l'heureux séjour
-Des Jeux et de l'Amour.
-
--*who_monsieurgrognac
-Ouais, je perds patience, et je me fâcherai à la fin.
-
--*who_monsieurfilassier
-Mais qu'est-ce donc que cela ?
-Me fait-on venir pour m'insulter ?
-Est-ce une Comédie que nous jouons, s'il vous plaît ?
-
--*who_lolive
 Non, Monsieur, c'est un Opéra.
 
--*who_monsieurfilassier
-Un Opéra, bourreau !
-Un Opéra !
-Il faut que je t'étrangle.
+Hé ! N'en faites rien, Monsieur, ce serait trop grand dommage. Si vous saviez…
 
--*who_lolive
-Hé !
-N'en faites rien, Monsieur, ce serait trop grand dommage.
-Si vous saviez…
-
--*who_monsieurfilassier
-Quoi !
-Si je savais ?
-Chien que tu es.
-
--*who_lolive
 Je perds l'esprit, Monsieur, je vous l'avoue, et c'est Monsieur votre fils qui me le fait perdre.
 
--*who_monsieurfilassier
-Mon fils !
-
--*who_lolive
 Oui, Monsieur.
 
--*who_lisette
-Je vous le disais bien, que c'était un extravagant…
+Oh ! Oui, il mène une vie fort agréable, et vous avez bien sujet de vous en plaindre. Ah ! Mon maître, mon cher maître, mon pauvre maître !
 
--*who_monsieurgrognac
-Nous verrons la fin de tout ceci.
+Vous avez tort, il est bien votre fils, je vous assure. Quel accident ! Le pauvre garçon !
 
--*who_monsieurfilassier
-C'est toi qui me le gâtes, coquin, et qui lui as fait quitter ses études pour mener une vie…
-
--*who_lolive
-Oh !
-Oui, il mène une vie fort agréable, et vous avez bien sujet de vous en plaindre.
-Ah !
-Mon maître, mon cher maître, mon pauvre maître !
-
--*who_monsieurfilassier
-Je le renonce pour mon enfant.
-
--*who_lolive
-Vous avez tort, il est bien votre fils, je vous assure.
-Quel accident !
-Le pauvre garçon !
-
--*who_monsieurfilassier
-Il lui est arrivé quelque accident ?
-
--*who_lolive
 Vraiment, il est devenu fou, Monsieur.
 
--*who_monsieurfilassier
-Mon fils est devenu fou ?
-
--*who_lolive
 Oui, Monsieur, vous voyez bien qu'il tient furieusement de vous ce garçon-là.
 
--*who_monsieurfilassier
-Mon fils est devenu fou, mon cher ami ?
-
--*who_monsieurgrognac
-Il faut voir ce que c'est, et s'il n'y a point de remède.
-
--*who_lolive
 Va, va-t'en lui dire de venir ici, et de faire le fou, mais à outrance.
 
--*who_lisette
-Je lui ferai répéter son rôle, laisse-moi faire.
-
--*who_monsieurfilassier
-Hem, quoi ?
-Que dites-vous ?
-
-**** *book_ *id_I17 *act_I *date_1697
-
--*who_lolive
 Nous disons, Monsieur, que c'est une belle cure à faire.
 
--*who_monsieurfilassier
-Mais où est-il ?
-Que fait-il ?
-Que dit-il ?
-
--*who_lolive
 Il est, Monsieur, il fait, il dit des choses qui vous feraient saigner le cœur.
 
--*who_monsieurfilassier
-Et comment ce malheur-là lui est-il arrivé ?
-
--*who_lolive
 Il lui est arrivé par la poste, Monsieur, dans vos dernières lettres.
 
--*who_monsieurfilassier
-Dans mes dernières lettres ?
+Oui vraiment, vous lui écriviez des choses si désespérantes, cela l'a saisi. Il vous aime tendrement.
 
--*who_lolive
-Oui vraiment, vous lui écriviez des choses si désespérantes, cela l'a saisi.
-Il vous aime tendrement.
+Oui, n'est-il pas vrai, Monsieur ? Vous êtes un bon père, vous, je vois bien cela.
 
--*who_monsieurgrognac
-Il est dangereux quelquefois d'avoir trop de sévérité, Monsieur Filassier.
+Ah ! Monsieur ; d'une folie, d'une folie toute des plus folles, ou la peste m'étouffe.
 
--*who_lolive
-Oui, n'est-il pas vrai, Monsieur ?
-Vous êtes un bon père, vous, je vois bien cela.
+Cela a commencé par une grande fâcherie. Désespéré de vous avoir déplu, et de voir que nous ne recevions plus ni de vos nouvelles, ni de votre argent, il s'est abandonné à la douleur, il s'est jeté dans le jeu à corps perdu, il a gagné sept ou huit cents pistoles.
 
--*who_monsieurfilassier
-Que je suis malheureux !
-Mais de quelle espèce de folie est-il attaqué encore ?
+Du bonheur ? Ah ! Monsieur, c'est cet argent-là qui nous a perdus, cela lui a augmenté la folie du jeu, cela lui a donné celle des femmes et de la bonne chère. Si vous aviez vu, Monsieur, la vie que nous faisions, toujours au cabaret. Ah ! Monsieur, cela est bien chagrinant.
 
--*who_lolive
-Ah !
-Monsieur ; d'une folie, d'une folie toute des plus folles, ou la peste m'étouffe.
+Vous ne voyez point ? Oh vous allez voir, donnez-vous patience.
 
--*who_monsieurfilassier
-Mais comment cela a-t-il commencé, encore ?
-Dis.
+Tout à l'heure, Monsieur. Le jeu, le cabaret et les femmes, sept ou huit cents pistoles ne mènent pas loin avec ces Messieurs-là ; il a dépensé, il a perdu, il a fallu avoir recours aux expédients…
 
--*who_lolive
-Cela a commencé par une grande fâcherie.
-Désespéré de vous avoir déplu, et de voir que nous ne recevions plus ni de vos nouvelles, ni de votre argent, il s'est abandonné à la douleur, il s'est jeté dans le jeu à corps perdu, il a gagné sept ou huit cents pistoles.
-
--*who_monsieurfilassier
-Sept ou huit cents pistoles !
-Il n'y a point de folie jusques-là.
-
--*who_monsieurgrognac
-Non, vraiment, il n'y a que du bonheur.
-
--*who_lolive
-Du bonheur ?
-Ah !
-Monsieur, c'est cet argent-là qui nous a perdus, cela lui a augmenté la folie du jeu, cela lui a donné celle des femmes et de la bonne chère.
-Si vous aviez vu, Monsieur, la vie que nous faisions, toujours au cabaret.
-Ah !
-Monsieur, cela est bien chagrinant.
-
--*who_monsieurfilassier
-Mais je ne vois point encore moi…
-
--*who_lolive
-Vous ne voyez point ?
-Oh vous allez voir, donnez-vous patience.
-
--*who_monsieurfilassier
-Finis donc.
-
--*who_lolive
-Tout à l'heure, Monsieur.
-Le jeu, le cabaret et les femmes, sept ou huit cents pistoles ne mènent pas loin avec ces Messieurs-là ; il a dépensé, il a perdu, il a fallu avoir recours aux expédients…
-
--*who_monsieurfilassier
-Ah !
-Le misérable a fait quelque mauvais coup ?
-
--*who_lolive
 Vous l'avez deviné, Monsieur il est devenu amoureux d'une vieille.
 
--*who_monsieurfilassier
-Amoureux d'une vieille !
-Et n'a-t-il que cette folie-là encore ?
+Et n'est-ce pas assez, Monsieur ? C'est à l'Opéra qu'il est devenu amoureux, et à l'Opéra d'Armide encore. Figurez-vous ce que c'est, Monsieur, qu'un amour qui prend naissance à l'Opéra. Il s'est mis dans la tête des idées confuses de Palais, de Démons, d'enchantements, il croit être Renaud.
 
--*who_lolive
-Et n'est-ce pas assez, Monsieur ?
-C'est à l'Opéra qu'il est devenu amoureux, et à l'Opéra d'Armide encore.
-Figurez-vous ce que c'est, Monsieur, qu'un amour qui prend naissance à l'Opéra.
-Il s'est mis dans la tête des idées confuses de Palais, de Démons, d'enchantements, il croit être Renaud.
-
--*who_monsieurfilassier
-Il croit être Renaud ?
-
--*who_monsieurgrognac
-Voilà une plaisante folie !
-
--*who_lolive
 Oui, Monsieur, et quand il ne voit point sa vieille, qu'il appelle Armide, parce qu'elle fait assez bien les choses…
 
--*who_monsieurfilassier
-Hé bien, quand il ne la voit point ?
-
--*who_lolive
 Sa folie augmente, il est dans des agitations… Quelques-uns de ses amis et moi, nous faisons ce que nous pouvons pour le divertir ; mais il nous dit avec une colère qui tient un peu de la fureur :
 Allez, allez, éloignez-vous de moi,
 Doux plaisirs, attendez qu'Armide vous ramène.
 
--*who_monsieurfilassier
-Voilà qui est étrange !
+Elle n'est pas dangereuse ? Si vous saviez ce qu'il nous a fait aujourd'hui.
 
--*who_monsieurgrognac
-Cette folie-là n'est pas dangereuse, et dans la suite…
-
--*who_lolive
-Elle n'est pas dangereuse ?
-Si vous saviez ce qu'il nous a fait aujourd'hui.
-
--*who_monsieurfilassier
-Comment ?
-Qu'a-t-il fait ?
-
--*who_lolive
 Nous étions auprès de lui trois ou quatre ; car on le garde à vue, afin que vous le sachiez.
 
--*who_monsieurfilassier
-Hé bien ?
-
--*who_lolive
 Il nous a pris pour des Démons, et il voulait à toute force que nous l'emportassions au bout de l'univers.
 
--*who_monsieurfilassier
-Le pauvre enfant !
-
--*who_monsieurgrognac
-Cela est chagrinant.
-
--*who_lolive
 Nous n'en avons rien voulu faire, comme vous jugez bien ; et pour y aller tout seul, il a sauté par la fenêtre.
 
--*who_monsieurfilassier
-Par la fenêtre, mon cher enfant !
-Miséricorde !
-
--*who_lolive
 Ne vous affligez point, Monsieur, il ne s'est point fait de mal.
 
--*who_monsieurgrognac
-Il ne s'est point fait de mal en se jetant par la fenêtre ?
+Non, Monsieur. Dans les commencements de sa maladie, j'ai eu la précaution de le loger dans une salle basse.
 
--*who_lolive
-Non, Monsieur.
-Dans les commencements de sa maladie, j'ai eu la précaution de le loger dans une salle basse.
+Oh, Monsieur, il n'y a pas de quoi, je vous assure. Tout ce qui me chagrine, c'est que quand il a été échappé, il s'est d'abord enfui chez sa vieille, qui le tient à l'heure qu'il est, et qui est aussi folle que lui, pour le moins.
 
--*who_monsieurfilassier
-Que je te suis obligé, mon pauvre Lolive.
-
--*who_lolive
-Oh, Monsieur, il n'y a pas de quoi, je vous assure.
-Tout ce qui me chagrine, c'est que quand il a été échappé, il s'est d'abord enfui chez sa vieille, qui le tient à l'heure qu'il est, et qui est aussi folle que lui, pour le moins.
-
--*who_monsieurgrognac
-On devrait faire un bon exemple de ces coquines-là, qui débauchent ainsi la jeunesse.
-
--*who_monsieurfilassier
-Et qui est cette créature-là, dis ?
-
--*who_lolive
 Une extravagante, de par le monde, qu'on appelle Madame Jaquinet.
 
--*who_monsieurfilassier
-Madame Jaquinet, monsieur Grognac !
-
--*who_lolive
 Oui, justement, la sœur d'un Monsieur Grognac, qui est un grand imbécile, à ce qu'on dit.
 
--*who_monsieurgrognac
-Parle donc, hé maraud, sais-tu bien que c'est moi qui suis Monsieur Grognac ?
+Monsieur Grognac l'imbécile ? Je vous demande pardon, Monsieur, je ne vous connaissais que de réputation.
 
--*who_lolive
-Monsieur Grognac l'imbécile ?
-Je vous demande pardon, Monsieur, je ne vous connaissais que de réputation.
-
--*who_monsieurgrognac
-Tu es un insolent…
-
--*who_monsieurfilassier
-Monsieur Grognac ?
-
--*who_monsieurgrognac
-Ce coquin-là…
-
--*who_monsieurfilassier
-Un peu de patience… Mon fils est donc ici, apparemment ?
-
--*who_lolive
 Oui, Monsieur.
 C'est ici le séjour enchanté
 D'Armide et du Héros qu'elle aime.
@@ -1313,314 +642,297 @@ Quand vous êtes venu, Monsieur, je répétais le rôle d'Ubalde, s'il vous en s
 Peut-être quand il vous verra, il rougira de faiblesse,
 Et nous l'engagerons à partir de ces lieux.
 
--*who_monsieurfilassier
-C'est bien dit : allons, mène-moi où il est, que je le vois.
+Ils sont dans l'accès ? Quelle pitié, Monsieur ! Ils sont dans l'accès.
 
--*who_monsieurgrognac
-Ouais, qu'est-ce que tout cela signifie ?
-
-**** *book_ *id_I18 *act_I *date_1697
-
--*who_lisette
-Ah !
-Messieurs, où allez-vous ?
-Le triste objet à voir !
-La folie de ce pauvre jeune homme et l'extravagance de Madame Jaquinet, ne font que croître et embellir.
-Ils sont dans l'accès à l'heure que je vous parle.
-
--*who_lolive
-Ils sont dans l'accès ?
-Quelle pitié, Monsieur !
-Ils sont dans l'accès.
-
--*who_monsieurgrognac
-Il faut que je vois un peu cela de plus près.
-
-**** *book_ *id_I19 *act_I *date_1697
-
--*who_lisette
-Il a fallu leur aller chercher dans l'Office des feuilles et des fleurs, pour faire des guirlandes.
-Si vous voyez comme il est bâti ; il se tourne quelquefois du côté d'Angélique, qu'il appelle la Gloire : cela fait juroter Madame Jaquinet.
-
--*who_lolive
 Bon, bon, bon, Monsieur, il a encore du goût pour la gloire ; cela veut dire quelque chose.
 
--*who_monsieurfilassier
-Comment ?
-Qu'est-ce que cela signifie ?
-
--*who_lisette
-Cela signifie qu'un clou chasse l'autre, comme vous savez ; et s'il pouvait prendre de l'amour pour quelque jolie personne qu'on lui ferait épouser… Vous comprenez bien, Monsieur.
-
--*who_lolive
 Tu n'y songes pas : marier un homme pour le remettre dans le bon sens ; c'est le moyen de le faire devenir fou.
 
--*who_monsieurfilassier
-Point, point, elle a raison.
-Hé plût au Ciel que cela pût réussir !
+Oui, vous êtes de cet avis-là ? Oh bien, laissez-nous flatter un peu sa manie pendant quelques moments.
 
--*who_lolive
-Oui, vous êtes de cet avis-là ?
-Oh bien, laissez-nous flatter un peu sa manie pendant quelques moments.
-
--*who_lisette
-Les voici avec Monsieur Grognac, je pense.
-
--*who_monsieurfilassier
-Ah !
-Mon enfant, mon cher enfant !
-
--*who_lolive
 Ne pleurez donc pas comme cela, Monsieur, vous ferez rire tout le monde.
 
-**** *book_ *id_I20 *act_I *date_1697
-
--*who_monsieurgrognac
-Allez, ma sœur, vous êtes une vieille folle, avec vos visions.
-
--*who_madamejaquinet
-Taisez-vous, mon frère, vous ne savez ce que vous dites.
-
--*who_monsieurgrognac
-Et vous, Monsieur, qui vous mettez dans la cervelle.
-
--*who_lolive
 Comme il se tourmente, voyez-vous ?
 
--*who_clitandre
-Armide, vous m'allez quitter.
-
--*who_madamejaquinet
-On juge mon procès, je vais solliciter,
-Bon droit a toujours besoin d'aide :
-Mon juge est un vieux fou que ma partie obsède,
-Et que l'argent seul peut tenter.
-
--*who_clitandre
-Armide, vous m'allez quitter.
-
--*who_madamejaquinet
-Voyez avec qui je vous laisse.
-
--*who_clitandre
-Puis-je rien voir que vos appas ?
-
--*who_madamejaquinet
-N'en contez donc plus à ma nièce.
-
--*who_clitandre
-Volontiers, mais ne tardez pas.
-
--*who_madamejaquinet
-Pour cela, je fais de belles passions, n'est-il pas vrai ?
-
--*who_lolive
 Vous voyez bien, Monsieur, ce n'est pas un conte.
 
--*who_monsieurfilassier
-Hélas non, il n'est que trop vrai.
-
--*who_monsieurgrognac
-Mais, vraiment oui, je pense que c'est tout de bon, qu'ils ont perdu l'esprit l'un et l'autre.
-
--*who_madamejaquinet
-Hé bien, mon frère, vous êtes témoin de notre amour extrême, ayez bien soin de ce pauvre garçon pendant mon absence, je ne serai pas longtemps sans revenir.
-
--*who_monsieurgrognac
-Il en faut rire malgré moi.
-
--*who_madamejaquinet
-Je te le recommande aussi, Lisette.
-
-**** *book_ *id_I21 *act_I *date_1697
-
--*who_lisette
-Allez, allez, Madame ; et nous,
-Jusqu'à son retour, par d'agréables jeux,
-Occupons le Héros qu'elle aime.
-
--*who_lolive
 C'est fort bien dit.
 
--*who_clitandre
-Comment tout cela finira-t-il, mon pauvre Lolive ?
-
--*who_lolive
 Cela finira bien, nous approchons du dénouement.
 Allons, Messieurs, venez-vous-en faire de vieux diables, sous la figure des plaisirs.
 
--*who_monsieurgrognac,monsieurfilassier
-Que nous fassions les diables ?
+Point du tout, au contraire, Monsieur, donnez-vous patience, Lisette et moi nous le divertirons bien tout seuls. Allons, ma Reine, la passacaille d'Armide ; chorus, vous autres.
 
--*who_lisette
-Et vraiment oui, il faut bien amuser cet enfant-là, en attendant qu'Armide revienne.
-
--*who_monsieurfilassier
-Mais c'est entretenir son extravagance, au lieu de songer à le guérir.
-
--*who_lolive
-Point du tout, au contraire, Monsieur, donnez-vous patience, Lisette et moi nous le divertirons bien tout seuls.
-Allons, ma Reine, la passacaille d'Armide ; chorus, vous autres.
-
--*who_lolive,lisette
-Si mon Maître est atteint de folie,
-C'est l'Amour qui cache sa manie ;
-Que d'Amants que je vois,
-Sont plus fous mille fois.
-
--*who_lolive
 C'est l'Amour qui le tient dans les chaînes,
 C'est moi seul qui travaille à le rendre content.
 Sans l'espoir de voir payer ses peines,
 Par la mort non d'un diable, on n'en prendrait pas tant.
 
--*who_monsieurfilassier
-Oh !
-Si tu les tires de là, je te paierai bien, je t'en réponds.
+Que vois-je, Monsieur ? Ah, Ciel !
 
-**** *book_ *id_I22 *act_I *date_1697
-
--*who_angelique
-Est-il vrai, mon père, que ce jeune Monsieur qui a perdu l'esprit est le fils de Monsieur Filassier ?
-
--*who_monsieurgrognac
-Oui, ma fille, mais cela n'empêchera pas…
-
--*who_lolive
-Que vois-je, Monsieur ?
-Ah, Ciel !
-
--*who_monsieurfilassier
-C'est Angélique, la fille de Monsieur Grognac.
-
--*who_lolive
 Voilà le remède qu'il faut à votre fils, Monsieur, que cette grande fille-là.
 
--*who_monsieurgrognac
-Ah !
-Voici qui est plaisant.
-Le valet est aussi fou que le maître, je pense.
-
--*who_monsieurfilassier
-Comment donc ?
-
--*who_lolive
 Oui, vous dis-je : voulez-vous en faire l'expérience ?
 
--*who_monsieurfilassier
-Et de quelle manière en faire l'expérience ?
-
--*who_lolive
 Cela ne sera pas bien difficile, tenez.
 Tout va bien.
 Profitez d'un temps si précieux.
 
--*who_clitandre
-Que vois-je ?
-Quel éclat vient de frapper mes yeux !
-
--*who_lisette
-Ô merveilleux effet de la sympathie !
-
--*who_lolive
 Le Ciel veut vous faire connaître,
 L'erreur dont vos sens sont séduits.
 
--*who_clitandre
-Ciel ! Quelle honte de paraître
-Dans l'indigne état où je suis.
-
--*who_lolive
 Hé bien, Monsieur, n'avais-je pas raison : qu'en dites-vous ?
 
--*who_monsieurfilassier
-Cela est fort bien, mais…
+Mariez-le avec cette fille-là, si vous m'en croyez. Je vous le garantis fou à lier s'il ne l'épouse.
 
--*who_lolive
-Mariez-le avec cette fille-là, si vous m'en croyez.
-Je vous le garantis fou à lier s'il ne l'épouse.
-
--*who_monsieurfilassier
-Mais est-il aussi fou que tu le dis ?
-
--*who_lolive
 Oh pour cela, oui, le diable m'emporte, il ne tient qu'à lui de l'être davantage même, vous n'avez qu'à dire.
 
--*who_monsieurgrognac
-On nous joue, Monsieur Filassier, sur ma parole.
-
--*who_monsieurfilassier
-De quelque manière que la chose puisse être, je vous demande votre fille pour mon fils, me la refuserez-vous ?
-
--*who_monsieurgrognac
-Pour vous, ou pour lui, cela m'est indifférent, pourvu que ce ne soit pas une vraie folie ; et que ma sœur…
-
--*who_lisette
-La voici, nous n'avons qu'à nous bien tenir.
-
--*who_lolive
 Dérobez-vous aux pleurs d'Armide.
 
--*who_clitandre
-Mon père, je vous demande…
+La folie de mon maître était plus facile à guérir que celle de Madame Jaquinet. Si tu voulais m'épouser aussi, toi, pour me guérir la mienne ? Qu'en dis-tu.
 
--*who_monsieurfilassier
-Entrons là-dedans, nous y parlerons sérieusement de cette affaire.
-Allons, Monsieur Grognac, venez.
+Et va, va, mon enfant, tu n'en mourras pas non plus qu'une autre.
 
-**** *book_ *id_I23 *act_I *date_1697
+Oui vraiment.
 
--*who_madamejaquinet
-Hé bien, ma chère Lisette, ce pauvre Renaud ne s'est-il point ennuyé pendant mon absence ?
 
--*who_lisette
-Lui, Madame, ennuyé ?
-Il est gai comme un Pinson, le voilà qui décampe avec la Gloire.
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
 
--*who_madamejaquinet
-Avec la Gloire ?
-C'est ma nièce.
-Vous partez, Renaud, vous partez,
-Suivez ses pas, démons, démons…
-Ah ! Je suis au désespoir.
+Qu'avez-vous donc, Monsieur ? Vous êtes toujours chagrin, et depuis dix ans que je vous sers, je ne vous ai jamais vu de bonne humeur, pas même à la mort de Madame votre femme. En vérité, je ne vous comprends point ; et j'avais toujours ouï dire, moi, que les plus grands fous avaient quelquefois de bons intervalles.
 
--*who_lisette
+Ah, le petit brutal, comme il prend les choses ! Quelle vivacité ! En vérité, la jeunesse d'aujourd'hui a l'esprit tourné d'une étrange manière.
+
+Vous n'êtes pas jeune ? Et fi donc, Monsieur, ne dites pas cela.
+
+Non.
+
+Hé, paix, paix, Monsieur, on ne vous croira point.
+
+Non, vous dis-je : ne voyez-vous pas vous-même que vous n'êtes point assez raisonnable pour avoir cet âge-là ?
+
+Hé, non vraiment : si vous l'étiez, auriez-vous fait le dessein ridicule de donner votre fille à un subalterne de robe, un vieux conseiller Présidial, un crasseux qui…
+
+Vous êtes un peu crasseux aussi, j'en demeure d'accord, puisque vous le voulez ; mais comme vous avez du bien… croyez-moi, Monsieur, je ferais un peu décrasser ma fille, si j'étais à votre place.
+
+Tant pis pour vous. Mademoiselle Angélique est une personne propre, qui se fera décrasser d'elle-même, je vous en avertis.
+
+Il en arrivera tout ce qui pourra, nous ne laisserons pas d'y en mettre, si nous pouvons. Mais voyez un peu quelle extravagance ! Vouloir forcer une jeune fille de bourgeois et de bon esprit à se contenter d'un homme de Robe, et en hiver encore ? En été, passe, on prend ce qu'on trouve : mais dans le bon temps on serait bien sotte de n'en pas profiter. Allons, allons, mort de ma vie, je n'en aurai pas le démenti ; et je ne veux pas qu'il soit dit dans le monde qu'aucune fille de la connaissance de Lisette se soit engeancée d'un Robin.
+
+Ah, ah ! Quels nouveaux transports de joie et d'amitié sont-ce là ?
+
+Vous n'y retournerez plus ! En êtes-vous bien sûre ?
+
+Cela est fort bien réglé dans notre petite imagination ! Mais votre père et votre tante ne seront pas de votre avis, peut-être, et…
+
+Voilà qui est bien pour votre tante : mais votre père, de qui la chose dépend le plus…
+
+Oh, sur ce pied-là vous y demeurerez ; il n'y aura plus de Couvent pour vous, je vois bien cela.
+
+Oui ? Il est donc de vos amis, à ce compte ?
+
+N'est-il pas vrai que c'est un laid mâtin ?
+
+Hé que vous a-t-elle fait ? Pourquoi cela ?
+
+Mort de ma vie, vous ne choisiriez pas mal, je pense.
+
+Votre tante amoureuse ?
+
+Non, non, ne craignez rien.
+
+Et que voyez-vous ?
+
+Je ne m'étonne plus qu'elle y aille si souvent. Et entendez-vous ce qu'ils disent ?
+
+Voilà une bonne petite personne. Mais voici votre tante, je pense : c'est elle-même.
+
+Vous avez-là une aimable petite nièce, Madame.
+
+Ils seraient en bonne main. Vous en ferez votre héritière, apparemment ?
+
+De votre façon, Madame ?
+
+Vous avez donc des vues pour le mariage, Madame ?
+
+C'est l'Opéra tout pur, madame ; je vous entends, vous aimez ?
+
+Vous n'y songez pas, Madame, et Monsieur votre frère est un bourru, comme vous savez.
+
+Oh pour cela non, vous êtes hors de tutelle, sans contredit.
+
+Assurément.
+
+Très volontiers, Madame.
+
+Cela est bien tendre.
+
+Oui, elle sera fort gaie, Monsieur, voilà une nouvelle bien réjouissante.
+
+Avec le petit homme, n'est-ce pas ? Nous ferons, vos nièces et moi, les honneurs du logis, Madame.
+
+Voilà votre tante.
+
+Hé, mort de ma vie, expliquez-vous, faut-il faire tant de façons ? Vous avez une tante, qui est la meilleure personne du monde, elle est dans vos intérêts, et je suis sûre qu'elle vous aidera de tout son cœur à rompre le mariage qui vous chagrine.
+
+Oui, Madame. Nous savons pourtant bien que c'est quelque chose de bon qu'un bon mariage : mais celui que nous propose Monsieur votre frère, n'est point du tout de notre goût, je vous assure.
+
+La bonne tante que vous avez-là.
+
+Et quel, Madame ?
+
+Vraiment oui, chacun a sa faiblesse dans le monde : Madame a la bonté de se prêter à la vôtre, il faut bien que vous lui passez la sienne.
+
+Hé oui, vous dis-je : vous aimez un joli petit homme, Madame aime un joli petit homme aussi, et vous aurez chacune votre joli petit homme. Oh, cela sera fort joli, au moins.
+
+Que cela est bien imaginé, Madame ! Ce sont de fort jolis oiseaux à tenir en cage, au moins : il n'y a qu'une petite difficulté qui nous embarrasse nous autres.
+
+Nous ne savons où prendre le nôtre, nous ignorons où il est, il ne sait où nous sommes, et il y a près de trois mois que nous n'avons eu de ses nouvelles.
+
+Oui, il n'y a qu'à bien marquer dans l'affiche le poil et les oreilles, quelque curieuse le ramènera, peut-être.
+
+Non, non, ne craignez rien, Madame, nous n'irons point sur vos brisées.
+
+Je voudrais qu'elle le fût cent fois davantage, et que sa folie pût nous être utile à détourner, ou à différer, du moins, ce maudit mariage que votre père s'est mis dans la tête.
+
+Si nous pouvions ménager un conflit d'extravagance entre Monsieur votre père et Madame votre tante, et que cela pût nous donner le temps… Écoutez, il arrive quelquefois de certaines choses à quoi l'on ne s'attend point du tout.
+
+Mort de ma vie, vous le méritez bien. Voilà ce que vous coûte votre dissimulation, et vos scrupules chimériques d'une bienséance ridicule, que vous enragez d'avoir eus, je gage.
+
+Que son valet de chambre avait bonne mine ! Vous en souvient-il, Madame !
+
+L'air insinuant du valet de chambre me donne dans la vue.
+
+Ses petits quolibets me touchèrent l'âme.
+
+Sans nous ennuyer, n'est-il pas vrai ?
+
+Il me fit ses petites propositions.
+
+Je ne m'éloignai pas trop de les accepter.
+
+Et vous fîtes fort mal.
+
+Il a très sottement fait de vous obéir : voyez où nous en sommes.
+
+Et que nous ne reviendrions qu'à la Saint Martin ? C'est une saison morte pour les amants des Tuileries que la Saint-Martin, ils décampent avec les feuilles.
+
+Oh, pour cela oui, cela est fort possible, il n'y a rien de plus naturel même.
+
+Il ne vous trouvera pas, à coup sûr : et comme ce sont les spectacles qui ont fait tourner la cervelle à Madame votre tante, votre père ne permettra jamais que vous y alliez.
+
+Il n'est ma foi pas trop mal inspiré, Madame ; et vous en feriez, comme vous voyez, un usage fort contraire à ses intentions.
+
+Miséricorde, que vois-je, Madame ?
+
+Le valet de chambre de votre petit homme qui demande votre tante !
+
+Le voilà retrouvé, Madame, et sans affiches.
+
+Hé ! Que faites-vous donc, Madame ? Vous n'y pensez pas.
+
+Je ne puis plus vous soutenir, je vous en avertis, Madame.
+
+Voyons donc ce que nous en ferons.
+
+Et moi aussi.
+
+Hé bien, qu'est-ce, Monsieur de Lolive ! Vous n'avez guère pensé à moi depuis que nous ne nous sommes vus ?
+
+Hé allons, mort de ma vie, revenez à vous : vous prenez bien mal votre temps pour vous évanouir.
+
+Oh ! Pour cela non : c'est notre tante ; on a demandé Madame Jaquinet.
+
+Oh ! Pour cela, non. On sait de vos fredaines ; c'est Madame Jaquinet à qui vous en voulez, vous avez des rendez-vous avec elle tous les jours d'Opéra ; elle vous attend ici aujourd'hui, vous y venez, vous nous trouvez, vous vous évanouissez, vous nous en recontez. Mort de ma vie, vous êtes un fripon ; qu'avez-vous à dire ?
+
+Comment ! Est-ce que vous connaissez ce Monsieur-là, Mademoiselle Mimi ?
+
+Cela sera bien divertissant.
+
+Je le savais bien, moi, qu'on cherchait Madame Jaquinet, et que c'était là son petit homme de l'Opéra.
+
+Écoutons-les, Madame, peut-être y a-t-il du malentendu dans tout ceci.
+
+Par une nécessité indispensable ?
+
+Un écolier, Madame, un écolier !
+
+Votre tante aime furieusement ce corps-là, Madame.
+
+Ces excuses là ne sont point trop mauvaises, qu'en dites-vous, Madame ! Il n'y a pas de mal de songer au solide : il faut vivre, une fois.
+
+Et oui, vous vous aimez tous deux, ce n'est pas là l'affaire. Il y a une autre difficulté qui est bien plus embarrassante. Son père la marie ce soir ou demain, on dresse le contrat.
+
+C'est un certain Monsieur Filassier, de par le monde.
+
+Oui, un Conseiller d'Amiens.
+
+Tu nous embarques là dans une affaire…
+
+Et tu dis qu'il ne lui donne pas un sol ?
+
+Elle l'est en perfection, la réputation n'est pas fausse.
+
+Celle de l'amour et de l'Opéra surtout, ce sont les dominantes.
+
+Si je le sais ? J'ai vu Armide trois ou quatre fois avec Madame Jaquinet, dans les commencements, avant que vous eussiez fait connaissance.
+
+Ma foi, je n'en ai guères retenu. Je ne suis pas fort pour la musique, moi. Le Prologue m'ennuie, le premier Acte m'assoupit, cet endroit du Sommeil m'endort, et je ne me réveille qu'à ce grand tintamarre de la fin.
+
+Fort peu, te dis-je, quelques petits endroits par-ci par-là, ceux que tout le monde chante.
+
+Mais quel est ton dessein ?
+
+Voici le père de ma maîtresse, et Monsieur Filassier ; il ne serait pas à propos qu'ils se vissent.
+
+Ma foi je ne sais.
+
+Que diantre veut-il dire ? Il est aussi devenu fou, je pense.
+
+Votre servante, Monsieur.
+
+Est-ce que je le connais moi ? Qu'il vous le dise lui-même.
+
+C'est un pauvre diable, qui a perdu l'esprit, apparemment ; laissez-le là, si vous m'en croyez.
+
+Et, Monsieur, qu'allez-vous faire ? Vous voyez bien que c'est un extravagant, vous n'auriez pas d'honneur de le battre ; il vous donnerait peut-être quelque coup qui vous ferait mal.
+
+Ils vont surprendre ton maître avec elles, ils ne sont encore avertis de rien.
+
+Oui, cela est bien amusant, tu as raison.
+
+Je vous le disais bien, que c'était un extravagant…
+
+Je lui ferai répéter son rôle, laisse-moi faire.
+
+Ah ! Messieurs, où allez-vous ? Le triste objet à voir ! La folie de ce pauvre jeune homme et l'extravagance de Madame Jaquinet, ne font que croître et embellir. Ils sont dans l'accès à l'heure que je vous parle.
+
+Il a fallu leur aller chercher dans l'Office des feuilles et des fleurs, pour faire des guirlandes. Si vous voyez comme il est bâti ; il se tourne quelquefois du côté d'Angélique, qu'il appelle la Gloire : cela fait juroter Madame Jaquinet.
+
+Cela signifie qu'un clou chasse l'autre, comme vous savez ; et s'il pouvait prendre de l'amour pour quelque jolie personne qu'on lui ferait épouser… Vous comprenez bien, Monsieur.
+
+Les voici avec Monsieur Grognac, je pense.
+
+Allez, allez, Madame ; et nous,
+Jusqu'à son retour, par d'agréables jeux,
+Occupons le Héros qu'elle aime.
+
+Et vraiment oui, il faut bien amuser cet enfant-là, en attendant qu'Armide revienne.
+
+Ô merveilleux effet de la sympathie !
+
+La voici, nous n'avons qu'à nous bien tenir.
+
+Lui, Madame, ennuyé ? Il est gai comme un Pinson, le voilà qui décampe avec la Gloire.
+
 Ne vous désespérez point, Madame.
 Vous serez après la gloire,
 Ce qu'il aimera le mieux.
 
--*who_madamejaquinet
-Ah, je n'en puis plus, je me meurs ; perfide, barbare !
-Tu jouis en partant,
-Du plaisir de m'ôter la vie.
-
--*who_lisette
 Hé, allons, Madame, contre fortune bon cœur.
 
--*who_madamejaquinet
-Traître, attends, je le tiens, je le tiens, son cœur perfide.
-Ah !
-Je ne tiens rien, je suis trahie, je suis outrée ; mais je me vengerai, je me vengerai.
-L'espoir de la Vengeance est le seul qui me reste,
-Démons, démons, détruisez ce Palais,
-Détruisez ce Palais.
-
--*who_lolive
-La folie de mon maître était plus facile à guérir que celle de Madame Jaquinet.
-Si tu voulais m'épouser aussi, toi, pour me guérir la mienne ?
-Qu'en dis-tu.
-
--*who_lisette
 Moi, je dis que La chaîne de l'hymen m'étonne.
 
--*who_lolive
-Et va, va, mon enfant, tu n'en mourras pas non plus qu'une autre.
-
--*who_lisette
 M'en répons-tu ?
 
--*who_lolive
-Oui vraiment.
-
--*who_lisette
 Allons donc ; et si nos maîtres sont d'accord, nous n'aurons pas de peine à nous accorder.
+

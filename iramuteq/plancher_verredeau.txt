@@ -1,1087 +1,596 @@
 
 
-**** *book_ *id_I01 *act_I *date_1788
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechevalier
 
--*who_marton
-Comment, Madame, de quatre amoureux pas un ne peut vous fixer ?
-
--*who_lacomtesse
-Je n'en aime aucun.
-
--*who_marton
-Mais cependant tous se flattent en secret...
-
--*who_lacomtesse
-Il le faut bien ; le grand art d'une jolie femme est d'avoir une cour nombreuse, beaucoup de prétendants.
-
--*who_marton
-Mais il faut enfin faire un choix.
-
--*who_lacomtesse
-Pour tromper ou être trompée ?
-Non, ma chère, non ; amusons-nous de tout ; qu'ils espèrent ces Messieurs, on se décidera peut-être un jour.
-
--*who_marton
-Et si vous vous décidez mal, qu'en arrivera-t-il ?
-
--*who_lacomtesse
-Ce qui arrive à tant d'autres : l'illusion prolonge le bonheur, et quand il tire à sa fin, on se retourne.
-
--*who_marton
-Je ne pense pas comme cela, moi ; bien ou mal tombée je m'y tiendrai.
-
--*who_lacomtesse
-Oui, c'est bien dit, on pensait ainsi autrefois ; mais nous avons changé tout cela.
-
--*who_marton
-Que prétendez-vous donc faire ?
-
--*who_lacomtesse
-Des heureux.
-C'est rendre service aux hommes que de leur résister, les mystifier même...
-Mais à propos !...
-
--*who_marton
-Mais, Madame, je ne vous conçois pas, je n'ai qu'un prétendu, car je ne compte pas Nicaise, quoiqu'il me fasse les yeux doux, ce n'est pas qu'il ne rendît, je pense, une femme très heureuse ; mais le pauvre garçon est si bête !
-Hé bien, Madame, pour revenir à mon prétendu, car je me proposais de ne pas l'accepter sans vous en avoir prévenue, et sans avoir obtenu votre agrément, hé bien, lui seul m'a décidée, et tous les autres sont éconduits et congédiés.
-
--*who_lacomtesse
-Tu as tort, ma chère enfant, tu as tort ; le grand nombre de soupirants semble ajouter au mérite d'une jolie femme, et le tien, pour peu que tu en aies, pensant comme tu fais, est rétréci de moitié.
-
--*who_marton
-Mais il faut en finir : un homme qui vous épouse vaut mieux que quatre qui vous recherchent et vous amusent.
-
--*who_lacomtesse
-Tu le crois ?
-
--*who_marton
-Certainement.
-
--*who_lacomtesse
-Et tu es dans l'erreur.
-La liberté, ma fille, fait le bonheur suprême ; jamais d'engagements sérieux : souffrons qu'on nous aime, mais n'aimons jamais.
-
--*who_marton
-Pensez-vous comme cela ?
-
--*who_lacomtesse
-À peu près.
-
--*who_marton
-Tant pis pour vous et tant mieux pour moi de penser différemment ; le bonheur et le plaisir ne vous seront jamais familiers.
-
--*who_lacomtesse
-Chacun le prend, le goûte à sa manière.
-
--*who_marton
-La mienne est d'aimer, d'être aimée, et d'en venir à la preuve, par devant notaire s'entend.
-
--*who_lacomtesse
-C'est précisément un des premiers inconvénients du mariage ; une femme perd sont teint, sa fraîcheur, son enjouement, ses grâces, et pour qui ?
-Pour un mari qui souvent, loin de lui en savoir gré, calcule indignement si le fruit d'une maternité précoce, cadre avec le terme qu'il s'était proposé d'attendre.
-
--*who_marton
-Si bien donc, Madame, que vous n'aurez jamais d'époux ?
-
--*who_lacomtesse
-J'en jurerais presque ; pour tirer parti des hommes, il n'en faut point adopter : celui qu'on préfère est celui qui, abusant d'une autorité chimérique, veut tenir une épouse dans les liens de la captivité.
-On peut aimer son esclave, mais rarement l'esclave aime son maître.
-
--*who_marton
-Savez-vous bien que vous commencez à m'intimider.
-Cependant tout cela ne m'arrivera pas, j'aimerai de si bonne foi qu'il faudra être un monstre pour n'en pas faire autant.
-
--*who_lacomtesse
-Tu le crois.
-Si j'entrais avec toi dans des détails...
-
--*who_marton
-Vous avez été trompée, je le vois, je le gage.
-
--*who_lacomtesse
-Tu te trompes toi-même.
-
--*who_marton
-Cependant vous vous méfiez ?...
-
--*who_lacomtesse
-De moi ; et je suis si en garde que le plus fin ne pourra me surprendre.
-
--*who_marton
-Quelle est la femme assez hardie pour en dire autant ?
-Car enfin, Madame, il est certains moments...
-
--*who_lacomtesse
-Qu'il faut éviter...
-N'ai-je pas congédié trois soupirants des plus pressants !
-J'avais mes raisons, il peut s'en présenter d'autres, je les recevrai ; quant au Chevalier...
-
--*who_marton
-Moi, je le trouverais dangereux.
-
--*who_lacomtesse
-Pour toi dont le coeur est pusillanime, mais le mien est de bronze.
-
--*who_marton
-Madame, le bronze est alliable aussitôt qu'il est fondu.
-
--*who_lacomtesse
-Ne crains de ma part aucune faiblesse, je réponds de moi ; et ma tête mieux organisée que celle d'une femme ordinaire, ne me laissera jamais faire de sottises ; tu verras comme je recevrai ce petit Monsieur.
-Oh !
-D'abord je lui laisserai prendre feu, il en faut pour jouir de son triomphe, mais je saurai l'abaisser sans me compromettre.
-S'il vient, reçois-le gracieusement, contribue à le faire espérer, dispose de ma main, fais tout pour qu'il s'enflamme, et je me charge du reste.
-
-**** *book_ *id_I02 *act_I *date_1788
-
--*who_marton
-Quel singulier caractère !
-Il est indéfinissable !
-Car enfin on veut ou on ne veut pas !
-Vouloir des amants, faire tout pour les attirer, les fixer, si l'on peut, et n'en prendre aucun pour son compte, cela est incroyable !
-Enfin qu'y faire ?
-Ma maîtresse est comme cela, elle joue l'amour, mais qu'elle prenne garde à elle ; l'amour la jouera, et ce fera bien fait.
-Ce Dieu a ses agréments et ses désagréments ; quand on s'accorde avec lui, il est bon diable, il s'humanise, on en tire parti, et c'est ce que je compte bien faire.
-
-**** *book_ *id_I03 *act_I *date_1788
-
--*who_nicaise
-Madame n'est pas ici, mamzelle, tant mieux !
-Car j'ai bien des choses à vous dégoiser, allez, j'me vante.
-
--*who_marton
-Et moi je ne veux rien entendre.
-
--*who_nicaise
-Bah !
-C'est égal, j'm'en vais toujours deviser, et puis vous m'entendrez sans le faire exprès.
-
--*who_marton
-Que veux-tu ?
-
--*who_nicaise
-Mais faut que vous me répondiez sans faire semblant de rien.
-
--*who_marton
-Après.
-
--*who_nicaise
-Tiens, après !
-J'n'ai encore rien dit ; elle est drôle au moins !
-
--*who_marton
-Finiras-tu ?
-
--*who_nicaise
-Faut commencer auparavant.
-
--*who_marton
-Ah !
-Tu m'impatientes.
-En vérité ce benêt-là....
-
--*who_nicaise
-Benêt !
-C'est ça, v'la que vous avez mis le doigt dessus.
-
--*who_marton
-Sur quoi ?
-
--*who_nicaise
-Sur le fil de mon discours.
-Je voulais vous demander pour au sujet de quoi est-ce que mon air ne vous revient pas.
-
--*who_marton
-Est-ce qu'on fait cela ?
-
--*who_nicaise
-Ne suis-je-ti pas bon enfant ?
-
--*who_marton
-Je le pense.
-
--*who_nicaise
-Ne suis-je-ti pas votre service les trois quarts du temps ?
-
--*who_marton
-J'en conviens.
-
--*who_nicaise
-Témoin ce jour que vous avez tant et tant jasé avec Monsieur Léveillé ; y vous plaît ben stila !
-
--*who_marton
-Est-ce que vous nous avez écouté ?
-
--*who_nicaise
-Oh !
-Je m'en vante, et d'une fière force.
-
--*who_marton
-Comment donc Monsieur Nicaise, mais c'est indigne.
-
--*who_nicaise
-Est-ce c'qui vous disait, ou c'qui vous faisait ?
-N'importe, j'en conviens, c'est indigne.
-
--*who_marton
-Mais voyez un peu ce que veut dire ce visage.
-
--*who_nicaise
-Visage, mamzelle !
-Dame, chacun a le sien, le mien ne fait de mal à personne, et ceux qui n'en veulent pas n'ont qu'à le laisser...
-Au surplus, mamzelle, puisque ça vous fâche, prenez que je n'aie rien dit, prenez que je n'aie rien vu, plus de reproches entre nous ; aimez-moi ou ne m'aimez pas, c'est égal : que je vous épouse tant feulement une fois, et puis vous verrez, vous verrez.
-
--*who_marton
-Peste, quel dégourdi !
-
--*who_nicaise
-Oh !
-Que oui, je le suis ; je commence à être drôle ; allez quand je m'y mets.
-
--*who_marton
-Et vous y mettez-vous souvent ?
-
--*who_nicaise
-Oh !
-Je dis, pour ce qui est en cas de ça, ça dépend de vous, si vous voulez....
-Bah !
-
--*who_marton
-Nous attendrons que l'esprit vous soit tout-à-fait poussé.
-
--*who_nicaise
-Vous savez bien qu'on ne se marie pas avec l'esprit d'un garçon ; et puis je me suis bien déluré depuis que je hante...
-
--*who_marton
-La voisine, sans doute ?
-On ne sait sur quoi compter avec vous ; vous avez des allures, Monsieur Nicaise, et cela nuira à votre établissement.
-
--*who_nicaise
-Ça s'rait-i possible ça, mamzelle ?
-Et qui vous a dit ça ?
-
--*who_marton
-Comment, qui me l'a dit, tout le quartier, tous les voisins.
-
--*who_nicaise
-C'est que les voisins du quartier m'en veulent, et ça n'est pas juste.
-Ils ont ben tort, car j'n'en veux qu'aux voisines, moi.
-
--*who_marton
-Comptez donc sur Monsieur.
-
--*who_nicaise
-Oh !
-Quand je dis ça, pourtant ce n'est que par manière de conversation, car je fuis trop amoureux de votre personne, c'est pis qu'un sort, et si ce n'était l'appétit qui me fait vivre, je crois que j'en mourrais.
-
--*who_marton
-Comment donc, Nicaise, mais voilà un amour bien triste.
-
--*who_nicaise
-Et bien dolent da ; dame c'est qu'on ne sait sur quel pied danser avec vous, mamzelle.
-
--*who_marton
-Console-toi Nicaise, cela viendra peut-être, que sait-on, si je te voyais assidu, entreprenant, jusqu'à un certain point pourtant...
-
--*who_nicaise
-Pour assidu, cela se peut, mamzelle ; mais entreprenant, je crains trop....
-
--*who_marton
-Les reproches ?
-
--*who_nicaise
-Ptête ben qu'oui, savez-vous ben, mamzelle, que pour être entreprenant i faut ben des choses.
-
--*who_marton
-Que vous n'avez pas.
-
--*who_nicaise
-Oh !
-Que je sais bien cependant : tenez, il faut premièrement d'abord...
-
--*who_marton
-C'est assez, je t'entends.
-
--*who_nicaise
-Tant pis pour vous si vous savez déjà ça, mais tenez vlà l'autre ; i vous dira mieux que moi de quoi i retourne, faut pourtant que je lui cède ma place : queu peine, queu tourment !
-
-**** *book_ *id_I04 *act_I *date_1788
-
--*who_leveille
-Que faisais-tu donc avec ce benêt là ?
-
--*who_marton
-Moi, rien du tout.
-À quoi cela est-il propre ?
-
--*who_leveille
-À pas grand chose, j'en conviens, mais il t'en conte, et cela me déplaît ; j'avais résolu de m'en défaire, ce n'est que le genre de mort qui m'a embarrassé ; car il faut éviter les démêlés avec la justice.
-Je l'ai déjà fait manger sans boire, le coquin n'a pas étouffé ; je l'ai fait boire sans manger, le drôle m'escamotait encore mon vin, et j'en étais pour ma dépense ; j'ai mis en avant quelques coups de pied, quelques coups de poing, le maraud est invulnérable.
-C'est vraiment pénible !
-Il y a comme cela des êtres dont on ne fait que faire, et dont ou ne peut se défaire.
-
--*who_marton
-Tu le crois donc un rival bien dangereux ?
-
--*who_leveille
-Eh !
-Qui diable entend rien à la bizarrerie du goût des femmes !
-Je suis joli homme, cela se voit du premier coup-d'oeil ; spirituel, tout le monde le sait ; pétri de grâces, mon miroir me le dit tous les matins ; fait pour tourner toutes les têtes : cet autre est un imbécile, une cruche, un magot, n'importe souvent les moindres causes ont occasionné ou détruit les plus grands événements.
-
--*who_marton
-Monsieur Léveillé, votre génie vaste voit tout en grand, mais moi dont le mérite est renfermé dans un cercle plus étroit, je pense comme le vulgaire qu'il faut tout entendre.
-
--*who_leveille
-Tout entendre ?
-
--*who_marton
-Oui ; tout voir.
-
--*who_leveille
-Tout voir ?
-
--*who_marton
-Et choisir.
-
--*who_leveille
-Et choisir ?
-
--*who_marton
-Oui...
-Monsieur, choisir ; et encore souvent...
-
--*who_leveille
-Prend-on le pis ; mais je ne sais, sans fatuité, j'avais droit de m'imaginer que j'avais mérité la préférence.
-Quoi !
-Cela n'est pas encore décidé ?
-Le choix de mademoiselle n'est pas fait ?
-
--*who_marton
-Jusqu'à présent c'est mon cher Léveillé.
-
--*who_leveille
-Jusqu'à préfent, fort bien !
-Ah ; fort bien !
-C'est-à-dire que je suis votre cher Léveillé jusqu'à ce que...
-
--*who_marton
-Déjà de la jalousie ?
-
--*who_leveille
-N'en croyez rien, mon infante.
-On sait ce qu'on vaut, et des hommes de mon calibre ne se remplacent pas facilement.
-
--*who_marton
-Le coquin est bien fort, parce qu'il connaît mon faible.
-
--*who_leveille
-Oui, ma Princesse, j'ose vous défier de rompre des liens...
-
-**** *book_ *id_I05 *act_I *date_1788
-
--*who_lechevalier
 Bien, bien, fort bien, je suis enchanté de vous voir en bonne intelligence.
 
--*who_marton
-Monsieur, l'union règne entre nous, il n'y a jusqu'ici qu'une promesse de mariage.
-
--*who_leveille
-Encore qui sait si elle aura son exécution ?
-
--*who_marton
-Il le faudra bien ; arrange-toi comme tu voudras, il me faut un mari ; tu t'es offert, je t'ai accepté, préféré même à tant d'autres à qui je n'ai pu faire entendre raison qu'en promettant la survivance.
-
--*who_leveille
-Peste !
-Tu prends tes précautions de bonne heure.
-
--*who_lechevalier
 Laissons-là vos amours, et parlons de ce qui m'intéresse.
-Crois-tu que Cidalise puisse se fixer ?
-Crois-tu qu'elle se décide en ma faveur ?
-Puis-je enfin espérer ?
-Tu m'entends ?
-Tu me comprends ?
+Crois-tu que Cidalise puisse se fixer ? Crois-tu qu'elle se décide en ma faveur ? Puis-je enfin espérer ? Tu m'entends ? Tu me comprends ?
 
--*who_marton
-Monsieur, à vous parler vrai ; ma maîtresse est impénétrable : cependant...
+Eh bien ? Achève.....
 
--*who_lechevalier
-Eh bien ?
-Achève.....
+Quoi la Comtesse les a congédiés ! Ô bonheur inattendu !
 
--*who_marton
-Un congé donné en bonnes formes à trois de vos rivaux me serait espérer...
+Comment ! Depuis deux grands mois je l'aime, depuis deux mois je lui en ai fait l'aveu, et depuis deux mois elle me résiste.
 
--*who_lechevalier
-Quoi la Comtesse les a congédiés !
-Ô bonheur inattendu !
-
--*who_marton
-Monsieur, Monsieur, vous avez encore du chemin à faire ; une femme ne se rend pas à la première attaque, ce serait se déshonorer, et violer les lois de la décence auxquelles la nature a soumis les deux sexes ; le vôtre en a franchi les bornes, il en tire même vanité, la bonne heure ; mais, telle est la force du préjugé, ce qui glorifie une sexe fait le déshonneur de l'autre.
-
--*who_lechevalier
-Comment !
-Depuis deux grands mois je l'aime, depuis deux mois je lui en ai fait l'aveu, et depuis deux mois elle me résiste.
-
--*who_leveille
-Depuis deux grands mois !
-Oh ma foi, le terme est trop long !
-Il y aurait déjà six semaines que j'aurais quitté la partie.
-
--*who_marton
-Oui ; mais qui quitte la partie la perd ; entendez-vous, mon bon ami ?
-
--*who_leveille
-Que veux-tu dire ?
-
--*who_marton
-Que les absents ont toujours tort.
-
--*who_leveille
-Je profiterai de l'avis.
-
--*who_lechevalier
 Si ta maîtresse pense comme toi, il faudra de l'assiduité ?
 
--*who_marton
-N'en doutez pas.
-
--*who_lechevalier
 Des complaisances ?
 
--*who_marton
-Sans nombre ; de l'amour, des égards, des procédés, du respect, de la soumission.
-
--*who_lechevalier
 De la soumission !
 
--*who_marton
-Oui, Monsieur le Chevalier, de la soumission ; ne vous y trompez pas : prévenue comme elle est contre les hommes, ce n'est qu'une entière déférence à ses volontés et une respectueuse persévérance qui pourront mériter son coeur et sa main, et quand même elle n'aurait pas cet éloignement étrange pour le mariage, croyez-vous qu'on réussisse, auprès d'une femme qui pense, avec des airs avantageux ?
-Eh mais, notre sexe est bien fait pour donner la loi, c'est bien le moins puisque c'est le seul instant de son triomphe ; je vous le répète un avantageux souvent se fait éconduire ; oui, soit dit entre nous.
-Et Monsieur Léveillé qui n'est pas de trop ici, peut prendre sa part de cette leçon, joignez à cela de temps en temps, quelques cadeaux, car cela flatte une femme, et l'engage souvent sans qu'elle y pense.
-
--*who_leveille
-La fine mouche !
-Il vous en faut sans doute aussi, friponne ?
-Hé bien, on vous en fera, mon ange, on vous en fera.
-
--*who_lechevalier
 Si ce moyen pouvait la décider en ma faveur, je n'épargnerais rien, et ma générosité sans bornes s'étendrait également sur elle, et sur celle qui l'approche.
 
--*who_marton
-En ce cas, Monsieur, comptez sur moi.
-Toi, attention à mes leçons, sois écolier docile, ou je ne réponds de rien ; je vais rejoindre ma maîtresse, j'entamerai la conversation, je vanterai votre mérite, je tacherai de persuader son esprit, d'intéresser son coeur, ensuite, ma foi, chargez-vous du reste ; car enfin, moi, je ne peux pas tout faire.
+Eh ! Quel sort plus agréable puis-je espérer que celui d'être uni à une femme charmante dont la possession doit faire mon bonheur ?
 
-**** *book_ *id_I06 *act_I *date_1788
+Non, mon ami, tout cela peut amuser quelque temps, mais on revient de ces folies de jeunesse. D'ailleurs ces petites saillies de jeune homme sont peut-être excusables avec les femmes que l'on désigne sous le nom de femmes honnêtes, mais qu'on rougirait d'appeler honnêtes femmes ; mais avec des personnes comme la Comtesse, ce n'est que par des procédés et avec des vues légitimes qu'on peut parvenir à les mériter.
 
--*who_leveille
-La friponne sait bien son métier !
-Mais décidément, Monsieur, vous voulez donc tâter du mariage, et ce coeur si volage, qui papillonnait de belle en belle, enfin va se fixer.
+Penser, agir autrement ce serait outrager la beauté, la vertu. Soyons doux, honnêtes, déposons notre caractère, et jouissons.
 
--*who_lechevalier
-Eh !
-Quel sort plus agréable puis-je espérer que celui d'être uni à une femme charmante dont la possession doit faire mon bonheur ?
-
--*who_leveille
-Ma foi, Monsieur, je ne sais que vous dire, moi ; je goûtais assez vos principes, vous possédez le grand art de subjuguer les femmes, de leur conter fleurette à toutes sans en aimer aucune ; voler de belle en belle sans jamais se fixer, goûter le plaisir sans ivresse, toujours fêté, toujours couru, toujours adoré ; c'est charmant !
-Et puis les premiers soins pour s'assurer une conquête, la jalousie, les raccommodements, les pleurs d'une Agnès, les reproches, les billets doux imprimés, les portraits sacrifiés, les emportements, les fureurs, tout cela égaye, varie, et est préférable, je crois, à la triste monotonie de l'hymen.
-
--*who_lechevalier
-Non, mon ami, tout cela peut amuser quelque temps, mais on revient de ces folies de jeunesse.
-D'ailleurs ces petites saillies de jeune homme sont peut-être excusables avec les femmes que l'on désigne sous le nom de femmes honnêtes, mais qu'on rougirait d'appeler honnêtes femmes ; mais avec des personnes comme la Comtesse, ce n'est que par des procédés et avec des vues légitimes qu'on peut parvenir à les mériter.
-
--*who_leveille
-Allons, Monsieur, je vois qu'il faut faire une fin ; l'exemple m'entraîne, et je vais aussi me jeter dans la réforme.
-
--*who_lechevalier
-Penser, agir autrement ce serait outrager la beauté, la vertu.
-Soyons doux, honnêtes, déposons notre caractère, et jouissons.
-
--*who_leveille
-Oui, sauf à reprendre les rênes de notre empire ; quand la défaite sera parfaitement établie.
-
--*who_lechevalier
 Tais-toi donc, malheureux ; j'aperçois Cidalise, laisse-nous.
 
--*who_leveille
-Allons, on va le renvoyer à l'école.
-
-**** *book_ *id_I07 *act_I *date_1788
-
--*who_lacomtesse
-Hé bien, Monsieur le Chevalier, vous devez être bien fier !
-L'exclusion que je viens de donner à vos rivaux doit vous prouver...
-
--*who_lechevalier
 Je n'ose encore m'en flatter, Madame ; je ne suis pas assez vain pour l'attribuer à mon mérite ; mais que je serais heureux si je la devais à la reconnaissance, et au retour que peuvent attendre de vous la tendresse la plus pure, et le dévouement le plus respectueux !
 
--*who_lacomtesse
-La réponse est trop modeste pour un galant Chevalier comme vous, mais vous me permettrez bien de douter un peu de vos sentiments.
-Semblable au papillon qui dans un parterre caresse tour-à-tour la tubéreuse, la violette et la rose, votre coeur inconstant et léger voltige de belle en belle ; vous leur jurez à toutes une fidélité éternelle...
+Que vous me connaissez mal, cruelle femme que vous êtes !... Vous vous plaisez à me désespérer. Quoi ! Quand brûlant de l'ardeur la plus vive...
 
--*who_lechevalier
-Que vous me connaissez mal, cruelle femme que vous êtes !...
-Vous vous plaisez à me désespérer.
-Quoi !
-Quand brûlant de l'ardeur la plus vive...
+Que je n'aimai jamais ; non Madame, détrompez-vous. Si je leur ai rendu des soins, l'usage, le detsoeuvrement, le vide de mon coeur, la galanterie dont se pique notre nation, m'en imposaient la loi ; mais jamais elles ne m'ont sait ni occasionné la plus légère des sensations que j'éprouve auprès de vous : peut-être étais-je plus persuasif en leur peignant des sentiments qui m'étaient inconnus, l'esprit n'est jamais plus à son aise que quand le coeur n'est pas de la partie.
 
--*who_lacomtesse
-Oh, je sais que vous êtes éloquent là-dessus ; je vous rends justice : personne ne s'expliqua jamais avec ce degré de persuasion qui vous est propre : on peut en demander des nouvelles à Lucile, à Julie, à Émilie, à tant d'autres enfin....
-
--*who_lechevalier
-Que je n'aimai jamais ; non Madame, détrompez-vous.
-Si je leur ai rendu des soins, l'usage, le detsoeuvrement, le vide de mon coeur, la galanterie dont se pique notre nation, m'en imposaient la loi ; mais jamais elles ne m'ont sait ni occasionné la plus légère des sensations que j'éprouve auprès de vous : peut-être étais-je plus persuasif en leur peignant des sentiments qui m'étaient inconnus, l'esprit n'est jamais plus à son aise que quand le coeur n'est pas de la partie.
-
--*who_lacomtesse
-Fort bien ; et sans doute vous exigez que je vous croies corrigé sur votre parole ?
-
--*who_lechevalier
 Non, Madame, ce n'est pas moi que vous devez croire ; ce sont vos traits, vos yeux, ce sont vos charmes auxquels il est impossible de résister, et qui doivent vous assurer d'une constance à toute épreuve.
 
--*who_lacomtesse
-Tenez, Chevalier, Dorante, Damis, Licidas, Valère, et tant d'autres m'en ont dit tous autant mille fois, et vous voyez qu'ils ont pris leur parti en gens qui connaissent l'usage, aussitôt que leur congé leur a été signifié.
+Oh ! C'est qu'ils n'ont pas mon coeur ; mais ne cesserez-vous pas d'être injuste à mon égard ? Quoi ! Vous me confondez avec eux, vous ne distinguez pas, vous ne mettez aucune différence entre ces hommes frivoles qui n'ont jamais connu l'amour et celui qui brûle d'unir son sort au vôtre par les chaînes indissolubles de l'hymen ! Femme cruelle ! Cherchez-vous à me réduire au désespoir ?
 
--*who_lechevalier
-Oh !
-C'est qu'ils n'ont pas mon coeur ; mais ne cesserez-vous pas d'être injuste à mon égard ?
-Quoi !
-Vous me confondez avec eux, vous ne distinguez pas, vous ne mettez aucune différence entre ces hommes frivoles qui n'ont jamais connu l'amour et celui qui brûle d'unir son sort au vôtre par les chaînes indissolubles de l'hymen !
-Femme cruelle !
-Cherchez-vous à me réduire au désespoir ?
+Quoi ! Vous me persiflez ! Vous vous jouez ainsi de l'amour le plus tendre !
 
--*who_lacomtesse
-Quel désespoir d'être sans esprit à votre âge !
-
--*who_lechevalier
-Quoi !
-Vous me persiflez !
-Vous vous jouez ainsi de l'amour le plus tendre !
-
--*who_lacomtesse
-Monsieur le Chevalier, écoutez-moi ; vous ne m'êtes pas indifférent ; peut-être qu'un jour ce penchant deviendra plus fort, mais c'est que je crains....
-Si vous veniez à changer, si vous deveniez infidèle....
-Car quel est l'homme assez hardi pour jurer une constance éternelle à la femme la plus accomplie ?
-
--*who_lechevalier
 Moi, moi, dis-je...
 
--*who_lacomtesse
-Mais sentez-vous tout le poids d'un pareil engagement ?
+J'en certifierai la durée au-delà du tombeau. Oui, vous ferez toujours l'objet du plus tendre amour, et le mariage, avec lequel il semble avoir fait divorce, ne fera qu'augmenter ses feux.
 
--*who_lechevalier
-J'en certifierai la durée au-delà du tombeau.
-Oui, vous ferez toujours l'objet du plus tendre amour, et le mariage, avec lequel il semble avoir fait divorce, ne fera qu'augmenter ses feux.
-
--*who_lacomtesse
-Savez-vous que vous êtes pressant, Chevalier ?
-
--*who_lechevalier
-Quoi, Madame, serais-je assez fortuné pour vous persuader ?
-Puis-je espérer de vaincre cette indifférence qui ferait le malheur de ma vie, de l'emporter enfin sur ce préjugé cruel qui vous met en garde contre les hommes, et vous empêche de faire le bonheur de l'amant le plus tendre ?
-Achevez, Madame, laissez-vous toucher.
+Quoi, Madame, serais-je assez fortuné pour vous persuader ? Puis-je espérer de vaincre cette indifférence qui ferait le malheur de ma vie, de l'emporter enfin sur ce préjugé cruel qui vous met en garde contre les hommes, et vous empêche de faire le bonheur de l'amant le plus tendre ? Achevez, Madame, laissez-vous toucher.
 Partagez mes voeux, mon ivresse.
 
--*who_lacomtesse
-Vous vous échauffez, Chevalier.
+Oui, Madame, mais vous vous attendrissez, quel bonheur ! Oui, je vois dans vos yeux que mon amour vous touche, et que vous allez enfin combler tous mes voeux.
 
--*who_lechevalier
-Oui, Madame, mais vous vous attendrissez, quel bonheur !
-Oui, je vois dans vos yeux que mon amour vous touche, et que vous allez enfin combler tous mes voeux.
+Quoi, vous sonnez ? Vous craignez... Ah ! Le respect que vous savez si bien inspirer...
 
--*who_lacomtesse
-Calmez-vous, Monsieur, calmez-vous ; vous devenez pressant, vous vous échauffez de plus en plus, ceci deviendrait trop dangereux.
+Dieu ! Quelle ignominie ! Perfide !... Est-ce ainsi que vous jouez les hommes et l'amour ?
 
--*who_lechevalier
-Quoi, vous sonnez ?
-Vous craignez...
-Ah !
-Le respect que vous savez si bien inspirer...
-
-**** *book_ *id_I08 *act_I *date_1788
-
--*who_marton
-Que veut Madame ?
-
--*who_lacomtesse
-Qu'on donne à Monsieur un verre d'eau.
-
--*who_marton
-Tout plein Madame ?
-
--*who_lechevalier
-Dieu !
-Quelle ignominie !
-Perfide !...
-Est-ce ainsi que vous jouez les hommes et l'amour ?
-
--*who_lacomtesse
-Oh !
-Des emportements, des fureurs !...
-Qu'on donne le verre d'eau à la glace....
-Buvez, Monsieur, buvez, quand vos feux seront rassis, on vous parlera, vous serez plus tranquille, et tout se passera dans l'ordre.
-
-**** *book_ *id_I09 *act_I *date_1788
-
--*who_nicaise
-Si Monsieur veut se rafraîchir, v'la tout sin dret un grand verre d'eau que je l'i apporte, comme Mamzelle Marton me l'a dit.
-Tiens, i ne me r'garde pas tant seulement !
-Est-ce qu'i n'a pas soif ?
-Monsieur.
-
--*who_lechevalier
 Veux-tu te retirer, bourreau ?
 
--*who_nicaise
-V'la-t-i pas un beau chef-d'oeuvre que vous avez fait là, en v'la moitié de renversé ; oh !
-J'dis quoique ça, c'est égal, n'y aura rien de perdu.
-
--*who_lechevalier
 Je ne reviens point de mon étonnement, de mon indignation ; peut-on pousser plus loin le persiflage !
 
--*who_nicaise
-Y n'a pas l'air d'ête ben aise ; il aura p'tête dit queuque gaudriole à not' maitreffe, qui l'y envoie ça pour l'y rincer la bouche...
-Faut pourtant ben que l'y fasse avaler ça, puisqne not' dame le veut.
-Monsieur, sauf vot' respect, v'la le verre d'eau qu'attend.
-
--*who_lechevalier
 Comment, te voila encore, maraud ?
 
--*who_nicaise
-Monsieur fait ben que je ne m'appelle pas comme ça, not' famille s'appelait Nicaise, de père en fils, et c'est moi qui en ai la survivance.
-
--*who_lechevalier
 Va-t-en.
 
--*who_nicaise
-Pas si bête : faut ben que Monsieur se rafraîchisse.
+Ah ! Tu m'impatientes.
 
--*who_lechevalier
-Ah !
-Tu m'impatientes.
-
--*who_nicaise
-Hé ben !
-Qu'il est farce donc, ce Monsieur !
-Me v'la ben équipé moi !
-Belle chienne de commission !
-Ma maîtresse n'a qu'à me rencontrer comme ça, j'n'oserai rien lui dire ; me v'la rafraîchi pour une bonne quinzaine.
-
-**** *book_ *id_I10 *act_I *date_1788
-
--*who_marton
-Eh bien, te voila encore toi ?
-Est-ce que tu ne devrais pas être dans l'antichambre, demandez-moi à quoi ça s'amuse ?
-
--*who_nicaise
-À me faire jeter de l'eau au nez ; j'aurais mieux fait de n'y pas venir.
-
--*who_marton
-Cela ne te fera pas de mal ; au contraire, toi qui es amoureux, cela te rafraîchira.
-
--*who_nicaise
-Ah !
-C'est donc pour ça que Madame voulait...
-Hé, hé, hé, hé ; et Monsieur Léveillé donc, il y en faudrait bien un sciau, à lui ; c'est comme un coeur d'amadou stila, et vous donc qui li servez de briquet.
-
--*who_marton
-Allons, va-t-en, Madame t'appelle.
-
--*who_nicaise
-Eh, ben, on s'en va, mamzelle ; elle a si peur qu'o ne la....
-Hom !
-Comme c'est appétissant !
-Pourtant ; faut-i ?...
-
-**** *book_ *id_I11 *act_I *date_1788
-
--*who_marton
-Qu'avez-vous donc, Monsieur le Chevalier ?
-Vous voila tout pensis ?
-
--*who_lechevalier
 Jamais femme a-t-elle pu traiter aussi indignement un homme !
 
--*who_marton
-Quoi, Monsieur !
-Il s'est donc passé des choses ?...
-
--*who_lechevalier
 Rien que d'honnête, de louable dans mes procédés ; elle feint de douter de mon amour, je cherche à la rassurer sur ses craintes, je lui jure une fidélité éternelle, et, dans l'instant où je crois l'avoir attendrie, convaincue, elle me joue le tour le plus sanglant, le plus...
 
--*who_marton
-Oh !
-Je vois ce que c'est, Madame a voulu s'amuser ; je connais son caractère, elle craint de donner des droits sur elle ; vous êtes le seul dont elle reçoive les visites, preuve de son inclination pour vous.
+La belle preuve ! Quoi, quand je....
 
--*who_lechevalier
-La belle preuve !
-Quoi, quand je....
+Non, c'est en vain, Marton, que tu cherches à me flatter d'un espoir dont j'ai trop écouté l'illusion dangereuse ; en vain viendrait-elle m'offrir son coeur et sa main, je suis guéri de ma folle passion, j'en suis guéri... pour jamais. Oui, je la verrais à mes pieds....
 
--*who_marton
-Doucement, emportée par son caractère dédaigneux, et trouvant une espèce de gloire à vaincre les sentiments que vous lui inspirez ; trouvant même à vous persifler une espèce de plaisir, elle n'a suivi que l'impulsion du préjugé qu'elle a contre les hommes, mais elle s'est punie elle-même, soyez-en certain ; ce plaisir de vous humilier n'a duré qu'un moment, et ne peut lui tenir lieu du plaisir plus flatteur d'aimer et d'être aimée ; et n'est-ce pas là visiblement le voeu de la nature ?
-Que diantre !
-Je suis fille encore moi, et cependant j'ai passé par-là.
+Moi ! Si jamais...
 
--*who_lechevalier
-Non, c'est en vain, Marton, que tu cherches à me flatter d'un espoir dont j'ai trop écouté l'illusion dangereuse ; en vain viendrait-elle m'offrir son coeur et sa main, je suis guéri de ma folle passion, j'en suis guéri... pour jamais.
-Oui, je la verrais à mes pieds....
-
--*who_marton
-Oh !
-Tout doux !
-Ce n'est que pour vous, Messieurs, que l'amour mit en usage cette posture respectueuse, mais, qui pourtant vous conduit souvent à cesser de l'être : et, tel est l'empire de notre sexe sur le vôtre, que si ma maîtresse venait à reparaître, bientôt une demi-faveur vous forcerait à retomber à ses genoux.
-
--*who_lechevalier
-Moi !
-Si jamais...
-
--*who_marton
-Bon, bon !
-Ne jurons de rien, l'amour-propre fait des serments, l'amour en rit, et vous engage de nouveau : écoutez, vous aimez ma maîtresse, je suis sûre qu'elle a des dispositions à vous aimer, opposez caprices à caprices, feignez d'être infidèle, piquez également son amour-propre ; une absence de quinze jours vous la ramènera ; croyez-moi, cessez de la voir pendant quelque temps.
-
--*who_lechevalier
 Oui, je cesserai de la voir, mais ce sera pour toujours.
 
--*who_marton
-Oh !
-Vous êtes trop tenace aussi ; un trésor aussi précieux que la possession d'une femme jeune et jolie, mérite bien quelques légers sacrifices ; d'ailleurs, j'aime ma maîtresse, je voudrais la voir heureuse et détrompée, vous êtes l'homme le plus propre à détruire ses préjugés, et vous en viendrez à bout.
-D'abord, il y a un fait sûr, elle craint les hommes en général, mais vous êtes celui de tous qui, dans son coeur, pourrait le mieux faire exception à la regle.
-
--*who_lechevalier
 Comment, tu le crois ?...
 
--*who_marton
-J'en suis sûre ; elle vous distingue : la crainte de vous perdre, un soupçon d'infidélité, une invisibilité momentanée, opérerait ce miracle ; et tenez, je viens de la quitter rêveuse, et j'oserais dire fâchée du tour qu'elle vous a joué.
-
--*who_lechevalier
 Dissimulons pour mieux assurer ma vengeance.
 Si j'en étais certain...
 
--*who_marton
-Il est un moyen pour vous en assurer, cachez-vous dans ce cabinet, ma maîtresse ne tardera pas à venir...
-Et tenez, justement, j'entends du bruit, c'est peut-être Madame la Comtesse, cachez-vous.
-
-**** *book_ *id_I12 *act_I *date_1788
-
--*who_leveille
-Comment, morbleu !
-Il y a une heure, qu'après bien des si, des mais, des car, des oui, des non, des pour et des contre, je me suis destiné sans réserve, à la plus jolie des soubrettes, et je ne peux la rencontrer !
-Où diantre étais-tu donc fourrée ?
-
--*who_marton
-Eh mais, ne faudrait-il pas être aux ordres de Monsieur ; écoute, il t'a fallu des car, des si, des mais, pour te décider à m'épouser, et moi, sans tant de façons, je pourrais bien me résoudre à te planter là ; j'ai affaire ici, ma maîtresse va venir, ton poste t'appelle ailleurs ; bonjour, bonsoir adieu.
-
--*who_leveille
-Oh, oh, dis-moi donc, quelle mouche te pique ?
-
--*who_marton
-Ta présence.
-
--*who_leveille
-La réplique est honnête ; et pourrait-on savoir, ô beauté récalcitrante, pourquoi ma présence vous fait peur ?
-J'avoue que c'est du nouveau pour moi !
-Moi, qui plais par lettres, juge donc en me voyant.
-
--*who_marton
-Hé bien, ne voila-t-il pas encore mon avantageux ?
-
--*who_leveille
-Pardon, ma reine, j'ai tort, faisons la paix, mais conviens aussi que c'est recevoir un peu bien brusquement son prétendu ; que diable, fais comme ta maîtresse.
-À en juger par les apparences, cette beauté si fière s'est enfin humanisée, car la conversation est furieusement longue, si nous profitions de cet instant pour prendre, au moyen d'un petit baiser, un avant-goût du mariage ?...
-
--*who_marton
-Pas de ça, pas de ça, te dis-je, ces avants-goûts là, produisent souvent des dégoûts, je ne m'y fie pas.
-
--*who_leveille
-La friponne y a peut-être été prise, mais que risques-tu ?
-Je suis de bonne soi, nous allons nous épouser dans deux jours, demain, peut-être aujourd'hui, si tu veux, qui diable pourrait y trouver à redire et tiens, crois-tu que je ne vois pas qu'on a quitté le salon pour le boudoir, et que mon maître et ta maîtresse sont actuellement à dresser les articles ?
-
--*who_marton
-Mais voyez un peu l'impertinent.
-Voila Monsieur le bel esprit ; comme vous vous trompez dans votre calcule, ma maîtresse n'est point dans son boudoir, le Chevalier n'est point ici ; il est presque congédié, on ne l'épousera peut-être jamais, ni vous non plus, à moins qu'un caprice n'en décide ; mais dans tous les cas, vous n'en aurez jamais l'avant-goût, et sur cet article, je suis votre très humble servante.
-
--*who_leveille
-Comment diable !
-Tu me parais montée sur un furieux ton aujourd'hui ; allons, il faut baisser pavillon, aussi bien un mari doit être indulgent.
-
--*who_marton
-Surtout, quand il a besoin qu'on le soit à son égard.
-
--*who_leveille
-Tu l'as dit ; que diable, on n'est pas parfait, j'aurai de bons et de mauvais moments, car enfin le thermomètre n'est pas toujours au même degré, du haut et du bas, c'est à quoi toute femme doit s'attendre dans le mariage.
-
--*who_marton
-Il est sincère au moins ; eh bien, vois-tu, avec cette bonhomie là, tu me plais mille fois mieux qu'avec tout l'étalage de tes belles qualités.
-
--*who_leveille
-Hé bien, sois aussi sincère que moi ; n'as-tu pas, comme une autre, tes petits défauts ?
-Conviens-en, c'est égal, je m'y attends, je les ai déjà devinés, et pour peu que tu m'en défies, j'en vais faire l'énumération.
-
--*who_marton
-Je t'en dispense.
-
--*who_leveille
-Pourquoi donc ?
-Tiens, d'abord tu seras coquette, tu t'en sens déjà un peu, ce n'est rien que cela ; tu avoues toi-même que tu es capricieuse, souvent les caprices d'une femme la mènent plus loin qu'il ne serait nécessaire au repos de son mari.
-
--*who_marton
-Oh, pour cela ne crains rien, je suis persuadée que l'amant qu'on récompense ne vaut pas mieux que le mari qu'on punit ; c'est quitter un infidèle, pour un ingrat, un volage pour un indiscret, et les femmes sont toujours dupes de cette vengeance.
-
--*who_leveille
-Passons, dissimulée, rien d'étonnant à cela, c'est dans l'ordre, le coeur, d'une femme a toujours trois enveloppes pour une ; enfin que sais-je moi, fausse, perfide menteuse, acariâtre, inconstante et légère, voilà du plus au moins le tableau des qualités féminines ; il y a comme tu vois, quelques risques à courir ; mais j'en affronte le danger, et j'aurai toujours mon excuse prête, tu es aimable, faite pour plaire, et d'autres que moi voudraient, à pareil prix, courir les mêmes risques.
-
--*who_marton
-Monsieur Leveillé, la franchise a ses agréments, mais, malgré le cadre heureux qui sert de bordure à votre tableau, je ne sais si vous auriez dû le mettre au jour, vous n'êtes pas encore dans le cas où l'on s'explique aussi nettement sans risques, et je doute que vous y soyez jamais.
-J'entends ma maîtresse, elle vous sauve une réponse plus positive et plus digne de votre franchise ; mais je ne vous conseille pas de venir la chercher.
-
--*who_leveille
-Comment donc Marton, tu prends la chose au tragique, allons donc, tu fais l'enfant : sans adieu, ma radieuse, souviens-toi, que je ne veux pas que la lune soit témoin de ta colère, et qu'il faut que la paix soit faite avant son lever.
-
-**** *book_ *id_I13 *act_I *date_1788
-
--*who_lacomtesse
-Eh bien, ce galant Chevalier est-il parti ?
-
--*who_marton
-Oui, Madame, attéré, confondu.
-
--*who_lacomtesse
-Je le crois, ces petits Messieurs sont plaisants !
-Au bout d'un instant de conversation, ils prennent feu, cela n'est pas étonnant ; une jolie femme, est bien faite pour faire cette impression ; mais, avantageux au possible, ils s'imaginent bonnement qu'on doit leur céder la victoire, à l'instant ou ils commencent à combattre.
-Je m'imagine voir un despote asiatique qui déploie le mouchoir sur une esclave soumise, trop heureuse de l'accepter.
-
--*who_marton
-Et ce mouchoir, ne l'a pas qui veut, dit-on ?
-
--*who_lacomtesse
-Qu'importe, sommes-nous faites pour ramper sous un sexe orgueilleux et tyrannique, qui ne tombe à nos pieds, que pour s'en relever sûr de sa victoire, et nous faire sentir à chaque instant le joug impérieux ou nous nous sommes soumises.
-J'espère que celui-ci n'aura pas lieu de s'applaudir de son triomphe.
-
--*who_marton
-Je ne le crois pas.
-
--*who_lacomtesse
-Et tu dis qu'il est parti bien confus et bien désolé ?
-
--*who_marton
-Désolé...
-Mais non, Madame, au contraire il a pris son parti en brave ; ce que je vous en disais d'abord, n'était que pour vous inspirer un peu de pitié pour lui.
-
--*who_lacomtesse
-Comment cet homme si passionné !...
-
--*who_marton
-Oh !
-Pour passionné, il l'est, n'en doutez pas ; cet homme là vous aimait sincèrement ; mais, ma foi, vous m'avouerez que votre conduite à son égard...
-
--*who_lacomtesse
-S'il m'eût aimée véritablement, il en aurait au moins donné quelques marques, il eût cherché à me revoir, et à triompher de mon indifférence.
-
--*who_marton
-Non, Madame ; un amant peut bien, comme vous, chercher à vaincre une âme indifférente : mais il ne résiste point au mépris.
-Le Chevalier d'ailleurs est jeune, bien fait, plein de bonnes qualités, et sans doute il ne tardera pas à se consoler avec quelque Beauté, qui sentira mieux tout son mérite, et saura l'apprécier tout ce qu'il vaut.
-
--*who_lacomtesse
-Quoi !
-Tu crois que le Chevalier serait capable d'en aimer une autre.
-
--*who_marton
-Eh pourquoi non, Madame, tenez le coeur des hommes d'aujourd'hui est comme un miroir, de poche s'entend, car on ne le voit pas toujours à découvert ; la glace réfléchit un objet tant qu'il est placé en face ; mais si tout autre objet prend la place, à l'instant le miroir réfléchit les traits de celui-ci, et ne conserve plus aucuns des traits du premier.
-
--*who_lacomtesse
-Je n'aime pas... décidément... le Chevalier... cependant.
-
--*who_marton
-Ma foi, Madame, je n'en jurerois pas.
-
--*who_lacomtesse
-Non, je ne l'aime pas, heureusement ; mais, je l'avoue, l'idée de le soupçonner épris d'une autre femme me désespère, et m'affecte jusqu'aux larmes.
-
-**** *book_ *id_I14 *act_I *date_1788
-
--*who_lechevalier
 Rassurez-vous, Madame, il ne sera jamais qu'à vos pieds ; séchez ces larmes précieuses que je me reprocherais toujours d'avoir fait couler, et que je voudrais recueillir au passage.
 
--*who_lacomtesse
-Quoi, Monsieur, c'est vous ?
-Et vous, Marton, vous abusez ainsi de ma confiance !
+Ne lui en voulez pas, Madame ; je suis seul criminel, elle ignorait que je fusse dans ce cabinet. Pardonnez-moi d'avoir osé chercher à pénétrer vos sentiments, j'ai lu dans votre coeur, et s'il n'est pas encore touché de ma tendresse, c'est que l'instant heureux, cet instant fixé par l'amour, n'est pas encore arrivé ; permettez-moi d'espérer, ne m'accablez point de votre colère, je n'y survivrais pas.
 
--*who_lechevalier
-Ne lui en voulez pas, Madame ; je suis seul criminel, elle ignorait que je fusse dans ce cabinet.
-Pardonnez-moi d'avoir osé chercher à pénétrer vos sentiments, j'ai lu dans votre coeur, et s'il n'est pas encore touché de ma tendresse, c'est que l'instant heureux, cet instant fixé par l'amour, n'est pas encore arrivé ; permettez-moi d'espérer, ne m'accablez point de votre colère, je n'y survivrais pas.
+Ah ! Puissé-je expirer à vos pieds, si je ne puis espérer de vous fléchir un jour ! Moi, cesser de vous aimer, d'admirer ce que l'amour a jamais formé de plus beau ! Hé mais, il faudrait donc que je cessasse d'avoir des yeux.
 
--*who_lacomtesse
-Mais relevez-vous donc, Chevalier.
-
--*who_lechevalier
-Ah !
-Puissé-je expirer à vos pieds, si je ne puis espérer de vous fléchir un jour !
-Moi, cesser de vous aimer, d'admirer ce que l'amour a jamais formé de plus beau !
-Hé mais, il faudrait donc que je cessasse d'avoir des yeux.
-
--*who_lacomtesse
-J'avoue, Chevalier, que votre amour me touche, mais relevez-vous de grâce, je ne puis vous souffrir ainsi à mes genoux.
-
--*who_lechevalier
 J'obéis ; mais si l'amour le plus tendre, le plus pur le plus délicat, peut obtenir des droits à votre tendresse...
 
--*who_lacomtesse
-Ne vous y trompez pas, Chevalier ; votre amour me touche, mais ne me persuade pas ; je connais les hommes, fourbes, perfides, trompeurs...
+Ah ! Daignez ne pas me confondre avec ces âmes froides et insensibles, fléaux de l'amour et de la beauté ; qui n'ont jamais connu ces doux épanchements de deux coeurs sensibles et sans fard, unis par le goût le plus pur, enchaînés l'un à l'autre par l'attraction du sentiment le plus tendre, le plus irrésistible ; dont l'amour-propre n'est satisfait que par la diversité de vingt conquêtes, toujours honteusement sacrifiées à de nouveaux caprices.
 
--*who_lechevalier
-Ah !
-Daignez ne pas me confondre avec ces âmes froides et insensibles, fléaux de l'amour et de la beauté ; qui n'ont jamais connu ces doux épanchements de deux coeurs sensibles et sans fard, unis par le goût le plus pur, enchaînés l'un à l'autre par l'attraction du sentiment le plus tendre, le plus irrésistible ; dont l'amour-propre n'est satisfait que par la diversité de vingt conquêtes, toujours honteusement sacrifiées à de nouveaux caprices.
+Ah Madame ! Quelle différence de vous à ces coquettes à la glace, qui n'ont que du jargon sans esprit, de l'étourderie sans imagination, des goûts sans passions, des faiblesses sans volupté, de ces marbres inanimés, colorés avec art, mais qui ne sentent jamais, n'ont jamais offert à vos yeux l'incarnat de la décence confondu avec les roses de la volupté. Quelle différence, dis-je, de ces machines organisées qui ne semblent agir que par ressorts, avec vous, ô femme adorable, vous, chef-d'oeuvre de la nature, vous que l'amour, l'esprit, la raison, la beauté ont pris plaisir à combler des dons les plus précieux ! Eh ! Pourrais-je m'occuper d'une autre que de vous-même ? Une fois votre amant, votre adorateur, votre esclave, est-il en mon pouvoir de briser les chaînes sans lesquelles je ne puis plus vivre ? Dépend-il de moi, d'arracher le trait que vos yeux ont fixé dans mon coeur, et qui n'en sortira qu'avec ma vie ?
 
--*who_lacomtesse
-Ah Chevalier, qu'osez-vous dire ?
-Vous parlez de caprice au coeur que vous allez fixer...
-Je le crains du moins.
+Vous ne me répondez point ? Vous détournez les yeux ?
 
--*who_lechevalier
-Ah Madame !
-Quelle différence de vous à ces coquettes à la glace, qui n'ont que du jargon sans esprit, de l'étourderie sans imagination, des goûts sans passions, des faiblesses sans volupté, de ces marbres inanimés, colorés avec art, mais qui ne sentent jamais, n'ont jamais offert à vos yeux l'incarnat de la décence confondu avec les roses de la volupté.
-Quelle différence, dis-je, de ces machines organisées qui ne semblent agir que par ressorts, avec vous, ô femme adorable, vous, chef-d'oeuvre de la nature, vous que l'amour, l'esprit, la raison, la beauté ont pris plaisir à combler des dons les plus précieux !
-Eh !
-Pourrais-je m'occuper d'une autre que de vous-même ?
-Une fois votre amant, votre adorateur, votre esclave, est-il en mon pouvoir de briser les chaînes sans lesquelles je ne puis plus vivre ?
-Dépend-il de moi, d'arracher le trait que vos yeux ont fixé dans mon coeur, et qui n'en sortira qu'avec ma vie ?
+Je puis espérer d'être aimé, je suis trop heureux ! C'est aux Rois d'envier mon bonheur. Oui, Madame, quelque glorieux que soit pour moi le titre de votre époux, sûr d'être aimé, j'attendrai avec patience, sans me plaindre, mais avec délices, l'instant fortuné qui doit me procurer un destin glorieux. Je suis aimé ! Eh ! Quels malheurs ne supporterais-je pas avec cette certitude ! Oui, vous serez ma souveraine, et le moindre de vos regards...
 
--*who_lacomtesse
-Marton... je crois... qu'il me persuade...
-
--*who_marton
-Vraiment, le fripon plaide très-bien sa cause.
-Bravo, Monsieur le Chevalier.
-
--*who_lechevalier
-Vous ne me répondez point ?
-Vous détournez les yeux ?
-
--*who_lacomtesse
-Je l'avoue à ma honte, vous me persuadez, Chevalier, mais je ne suis point encore convaincue ; il faut de la persévérance ; cette épreuve peut-être coûte à mon coeur, jouissez de votre triomphe ; mais je l'exige cette épreuve, et je ne me déterminerai...
-
--*who_lechevalier
-Je puis espérer d'être aimé, je suis trop heureux !
-C'est aux Rois d'envier mon bonheur.
-Oui, Madame, quelque glorieux que soit pour moi le titre de votre époux, sûr d'être aimé, j'attendrai avec patience, sans me plaindre, mais avec délices, l'instant fortuné qui doit me procurer un destin glorieux.
-Je suis aimé !
-Eh !
-Quels malheurs ne supporterais-je pas avec cette certitude !
-Oui, vous serez ma souveraine, et le moindre de vos regards...
-
--*who_lacomtesse
-C'en est fait, Chevalier, je n'y résiste plus...
-Ce dernier trait... en vous donnant toute mon estime... me répond de votre sincérité ; et... je vous accorde ma main.
-
--*who_marton
-Bon, nous voici au dénouement.
-
--*who_lechevalier
 Pas encore...
-Je doute si je veille, et mon coeur transporté...
-Mais, Madame, ne me trompez-vous pas ?
-N'est-ce pas une illusion ?
-Pardonnez, femme adorable, si le piège que tantôt vous aviez tendu à ma bonne foi, me fait douter d'un bonheur aussi inespéré.
-Je le sens, je mourrais à vos pieds, si, vous jouant de tant d'amour...
+Je doute si je veille, et mon coeur transporté... Mais, Madame, ne me trompez-vous pas ? N'est-ce pas une illusion ? Pardonnez, femme adorable, si le piège que tantôt vous aviez tendu à ma bonne foi, me fait douter d'un bonheur aussi inespéré. Je le sens, je mourrais à vos pieds, si, vous jouant de tant d'amour...
 
--*who_lacomtesse
-Non, Chevalier, ma main est à vous ; je suis d'autant plus sincère en cet instant, que je sens, à ce que j'éprouve, combien mon procédé était déchirant pour vous.
+Oh ! Vous le sentirez encore plus vivement !
+Mais que j'en suis bien r2compensé dans cet heureux instant ! Avec quelle volupté je jouis de cet aveu flatteur ! Répétez-le moi mille dois ce mot charmant : je vous aime.
 
--*who_lechevalier
-Oh !
-Vous le sentirez encore plus vivement !
-Mais que j'en suis bien r2compensé dans cet heureux instant !
-Avec quelle volupté je jouis de cet aveu flatteur !
-Répétez-le moi mille dois ce mot charmant : je vous aime.
+Puissiez-vous le prononcer avec cette ivresse, ce besoin d'aimer qui enchaîne toutes nos facultés ! Mais, permettez-moi d'en douter encore ; serait-il possible que vous m'aimassiez avec cette ardeur brûlante que je viens de vous peindre.
 
--*who_lacomtesse
-Oui, Chevalier, je vous aime... je vous aime.
-
--*who_lechevalier
-Puissiez-vous le prononcer avec cette ivresse, ce besoin d'aimer qui enchaîne toutes nos facultés !
-Mais, permettez-moi d'en douter encore ; serait-il possible que vous m'aimassiez avec cette ardeur brûlante que je viens de vous peindre.
-
--*who_lacomtesse
-Oui, Chevalier, je ne me conçois pas moi-même ; avec ma façon de penser sur tous les hommes, j'aurais dû ne pas vous croire aussi légèrement, mais vous êtes un enchanteur, et vos discours ont fait... malgré moi... passer dans mon âme, tout le feu dont vous êtes pénétré.
-
--*who_lechevalier
 Ah nous y voilà.
 Calmez-vous, Madame, ceci deviendrait trop violent, mais vous connaissez le remède.
 Qu'on donne à Madame un verre d'eau.
 
-**** *book_ *id_I15 *act_I *date_1788
 
--*who_nicaise
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leveille
+
+Que faisais-tu donc avec ce benêt là ?
+
+À pas grand chose, j'en conviens, mais il t'en conte, et cela me déplaît ; j'avais résolu de m'en défaire, ce n'est que le genre de mort qui m'a embarrassé ; car il faut éviter les démêlés avec la justice. Je l'ai déjà fait manger sans boire, le coquin n'a pas étouffé ; je l'ai fait boire sans manger, le drôle m'escamotait encore mon vin, et j'en étais pour ma dépense ; j'ai mis en avant quelques coups de pied, quelques coups de poing, le maraud est invulnérable. C'est vraiment pénible ! Il y a comme cela des êtres dont on ne fait que faire, et dont ou ne peut se défaire.
+
+Eh ! Qui diable entend rien à la bizarrerie du goût des femmes ! Je suis joli homme, cela se voit du premier coup-d'oeil ; spirituel, tout le monde le sait ; pétri de grâces, mon miroir me le dit tous les matins ; fait pour tourner toutes les têtes : cet autre est un imbécile, une cruche, un magot, n'importe souvent les moindres causes ont occasionné ou détruit les plus grands événements.
+
+Tout entendre ?
+
+Tout voir ?
+
+Et choisir ?
+
+Prend-on le pis ; mais je ne sais, sans fatuité, j'avais droit de m'imaginer que j'avais mérité la préférence. Quoi ! Cela n'est pas encore décidé ? Le choix de mademoiselle n'est pas fait ?
+
+Jusqu'à préfent, fort bien ! Ah ; fort bien ! C'est-à-dire que je suis votre cher Léveillé jusqu'à ce que...
+
+N'en croyez rien, mon infante. On sait ce qu'on vaut, et des hommes de mon calibre ne se remplacent pas facilement.
+
+Oui, ma Princesse, j'ose vous défier de rompre des liens...
+
+Encore qui sait si elle aura son exécution ?
+
+Peste ! Tu prends tes précautions de bonne heure.
+
+Depuis deux grands mois ! Oh ma foi, le terme est trop long ! Il y aurait déjà six semaines que j'aurais quitté la partie.
+
+Que veux-tu dire ?
+
+Je profiterai de l'avis.
+
+La fine mouche ! Il vous en faut sans doute aussi, friponne ? Hé bien, on vous en fera, mon ange, on vous en fera.
+
+La friponne sait bien son métier ! Mais décidément, Monsieur, vous voulez donc tâter du mariage, et ce coeur si volage, qui papillonnait de belle en belle, enfin va se fixer.
+
+Ma foi, Monsieur, je ne sais que vous dire, moi ; je goûtais assez vos principes, vous possédez le grand art de subjuguer les femmes, de leur conter fleurette à toutes sans en aimer aucune ; voler de belle en belle sans jamais se fixer, goûter le plaisir sans ivresse, toujours fêté, toujours couru, toujours adoré ; c'est charmant ! Et puis les premiers soins pour s'assurer une conquête, la jalousie, les raccommodements, les pleurs d'une Agnès, les reproches, les billets doux imprimés, les portraits sacrifiés, les emportements, les fureurs, tout cela égaye, varie, et est préférable, je crois, à la triste monotonie de l'hymen.
+
+Allons, Monsieur, je vois qu'il faut faire une fin ; l'exemple m'entraîne, et je vais aussi me jeter dans la réforme.
+
+Oui, sauf à reprendre les rênes de notre empire ; quand la défaite sera parfaitement établie.
+
+Allons, on va le renvoyer à l'école.
+
+Comment, morbleu ! Il y a une heure, qu'après bien des si, des mais, des car, des oui, des non, des pour et des contre, je me suis destiné sans réserve, à la plus jolie des soubrettes, et je ne peux la rencontrer ! Où diantre étais-tu donc fourrée ?
+
+Oh, oh, dis-moi donc, quelle mouche te pique ?
+
+La réplique est honnête ; et pourrait-on savoir, ô beauté récalcitrante, pourquoi ma présence vous fait peur ? J'avoue que c'est du nouveau pour moi ! Moi, qui plais par lettres, juge donc en me voyant.
+
+Pardon, ma reine, j'ai tort, faisons la paix, mais conviens aussi que c'est recevoir un peu bien brusquement son prétendu ; que diable, fais comme ta maîtresse. À en juger par les apparences, cette beauté si fière s'est enfin humanisée, car la conversation est furieusement longue, si nous profitions de cet instant pour prendre, au moyen d'un petit baiser, un avant-goût du mariage ?...
+
+La friponne y a peut-être été prise, mais que risques-tu ? Je suis de bonne soi, nous allons nous épouser dans deux jours, demain, peut-être aujourd'hui, si tu veux, qui diable pourrait y trouver à redire et tiens, crois-tu que je ne vois pas qu'on a quitté le salon pour le boudoir, et que mon maître et ta maîtresse sont actuellement à dresser les articles ?
+
+Comment diable ! Tu me parais montée sur un furieux ton aujourd'hui ; allons, il faut baisser pavillon, aussi bien un mari doit être indulgent.
+
+Tu l'as dit ; que diable, on n'est pas parfait, j'aurai de bons et de mauvais moments, car enfin le thermomètre n'est pas toujours au même degré, du haut et du bas, c'est à quoi toute femme doit s'attendre dans le mariage.
+
+Hé bien, sois aussi sincère que moi ; n'as-tu pas, comme une autre, tes petits défauts ? Conviens-en, c'est égal, je m'y attends, je les ai déjà devinés, et pour peu que tu m'en défies, j'en vais faire l'énumération.
+
+Pourquoi donc ? Tiens, d'abord tu seras coquette, tu t'en sens déjà un peu, ce n'est rien que cela ; tu avoues toi-même que tu es capricieuse, souvent les caprices d'une femme la mènent plus loin qu'il ne serait nécessaire au repos de son mari.
+
+Passons, dissimulée, rien d'étonnant à cela, c'est dans l'ordre, le coeur, d'une femme a toujours trois enveloppes pour une ; enfin que sais-je moi, fausse, perfide menteuse, acariâtre, inconstante et légère, voilà du plus au moins le tableau des qualités féminines ; il y a comme tu vois, quelques risques à courir ; mais j'en affronte le danger, et j'aurai toujours mon excuse prête, tu es aimable, faite pour plaire, et d'autres que moi voudraient, à pareil prix, courir les mêmes risques.
+
+Comment donc Marton, tu prends la chose au tragique, allons donc, tu fais l'enfant : sans adieu, ma radieuse, souviens-toi, que je ne veux pas que la lune soit témoin de ta colère, et qu'il faut que la paix soit faite avant son lever.
+
+
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicaise
+
+Madame n'est pas ici, mamzelle, tant mieux ! Car j'ai bien des choses à vous dégoiser, allez, j'me vante.
+
+Bah ! C'est égal, j'm'en vais toujours deviser, et puis vous m'entendrez sans le faire exprès.
+
+Mais faut que vous me répondiez sans faire semblant de rien.
+
+Tiens, après ! J'n'ai encore rien dit ; elle est drôle au moins !
+
+Faut commencer auparavant.
+
+Benêt ! C'est ça, v'la que vous avez mis le doigt dessus.
+
+Sur le fil de mon discours. Je voulais vous demander pour au sujet de quoi est-ce que mon air ne vous revient pas.
+
+Ne suis-je-ti pas bon enfant ?
+
+Ne suis-je-ti pas votre service les trois quarts du temps ?
+
+Témoin ce jour que vous avez tant et tant jasé avec Monsieur Léveillé ; y vous plaît ben stila !
+
+Oh ! Je m'en vante, et d'une fière force.
+
+Est-ce c'qui vous disait, ou c'qui vous faisait ? N'importe, j'en conviens, c'est indigne.
+
+Visage, mamzelle ! Dame, chacun a le sien, le mien ne fait de mal à personne, et ceux qui n'en veulent pas n'ont qu'à le laisser... Au surplus, mamzelle, puisque ça vous fâche, prenez que je n'aie rien dit, prenez que je n'aie rien vu, plus de reproches entre nous ; aimez-moi ou ne m'aimez pas, c'est égal : que je vous épouse tant feulement une fois, et puis vous verrez, vous verrez.
+
+Oh ! Que oui, je le suis ; je commence à être drôle ; allez quand je m'y mets.
+
+Oh ! Je dis, pour ce qui est en cas de ça, ça dépend de vous, si vous voulez.... Bah !
+
+Vous savez bien qu'on ne se marie pas avec l'esprit d'un garçon ; et puis je me suis bien déluré depuis que je hante...
+
+Ça s'rait-i possible ça, mamzelle ? Et qui vous a dit ça ?
+
+C'est que les voisins du quartier m'en veulent, et ça n'est pas juste. Ils ont ben tort, car j'n'en veux qu'aux voisines, moi.
+
+Oh ! Quand je dis ça, pourtant ce n'est que par manière de conversation, car je fuis trop amoureux de votre personne, c'est pis qu'un sort, et si ce n'était l'appétit qui me fait vivre, je crois que j'en mourrais.
+
+Et bien dolent da ; dame c'est qu'on ne sait sur quel pied danser avec vous, mamzelle.
+
+Pour assidu, cela se peut, mamzelle ; mais entreprenant, je crains trop....
+
+Ptête ben qu'oui, savez-vous ben, mamzelle, que pour être entreprenant i faut ben des choses.
+
+Oh ! Que je sais bien cependant : tenez, il faut premièrement d'abord...
+
+Tant pis pour vous si vous savez déjà ça, mais tenez vlà l'autre ; i vous dira mieux que moi de quoi i retourne, faut pourtant que je lui cède ma place : queu peine, queu tourment !
+
+Si Monsieur veut se rafraîchir, v'la tout sin dret un grand verre d'eau que je l'i apporte, comme Mamzelle Marton me l'a dit. Tiens, i ne me r'garde pas tant seulement ! Est-ce qu'i n'a pas soif ?
+Monsieur.
+
+V'la-t-i pas un beau chef-d'oeuvre que vous avez fait là, en v'la moitié de renversé ; oh ! J'dis quoique ça, c'est égal, n'y aura rien de perdu.
+
+Y n'a pas l'air d'ête ben aise ; il aura p'tête dit queuque gaudriole à not' maitreffe, qui l'y envoie ça pour l'y rincer la bouche... Faut pourtant ben que l'y fasse avaler ça, puisqne not' dame le veut.
+Monsieur, sauf vot' respect, v'la le verre d'eau qu'attend.
+
+Monsieur fait ben que je ne m'appelle pas comme ça, not' famille s'appelait Nicaise, de père en fils, et c'est moi qui en ai la survivance.
+
+Pas si bête : faut ben que Monsieur se rafraîchisse.
+
+Hé ben ! Qu'il est farce donc, ce Monsieur ! Me v'la ben équipé moi ! Belle chienne de commission ! Ma maîtresse n'a qu'à me rencontrer comme ça, j'n'oserai rien lui dire ; me v'la rafraîchi pour une bonne quinzaine.
+
+À me faire jeter de l'eau au nez ; j'aurais mieux fait de n'y pas venir.
+
+Ah ! C'est donc pour ça que Madame voulait... Hé, hé, hé, hé ; et Monsieur Léveillé donc, il y en faudrait bien un sciau, à lui ; c'est comme un coeur d'amadou stila, et vous donc qui li servez de briquet.
+
+Eh, ben, on s'en va, mamzelle ; elle a si peur qu'o ne la.... Hom ! Comme c'est appétissant ! Pourtant ; faut-i ?...
+
 Pour qui donc encore ce verre d'eau ?
 
--*who_lacomtesse
-Le scélerat !
-Je suffoque...
-C'en est fait, je renonce aux hommes pour jamais ; ce sont des monstres qu'on ne peut apprivoiser.
+Eh bien ! Qu'est-ce que tout ça veut dire donc ? Madame s'en va, Monsieur s'en va, et ce verre d'eau qui est là qu'attend, qu'est-ce donc qui le boira ? Sera-ce toi ?
 
-**** *book_ *id_I16 *act_I *date_1788
+Tiens, elle parle toute seule. Dis donc, Mamzelle ?
 
--*who_nicaise
-Eh bien !
-Qu'est-ce que tout ça veut dire donc ?
-Madame s'en va, Monsieur s'en va, et ce verre d'eau qui est là qu'attend, qu'est-ce donc qui le boira ?
-Sera-ce toi ?
-
--*who_marton
-Je ne reviens point de ma surprise !
-Je ne m'attendais pas à ce raffinement de vengeance.
-
--*who_nicaise
-Tiens, elle parle toute seule.
-Dis donc, Mamzelle ?
-
--*who_marton
-Eh bien que veux-tu, Monsieur ?
-
--*who_nicaise
 Not' Dame ne se marie donc pas à l'encontre de Monsieur le Chevalier ?
 
--*who_marton
-Le Chevalier est un monstre.
-Ma Maîtresse peut avoir des torts, mais il est mille fois plus coupable qu'elle ; et cette aventure-ci doit bien la dégoûter du mariage.
-
--*who_nicaise
 Tant-pis.
 
--*who_marton
-Pourquoi cela ?
-
--*who_nicaise
 C'est que si Madame n'épouse personne, elle voudra pt'ètre aussi qu'personne ne vous épouse.
 
--*who_marton
-Oh !
-Cela ne fera rien à l'affaire : d'ailleurs, c'est un petit dégoût dont un homme plus aimable pourra la faire revenir dans quelque temps.
-
--*who_marton
-Et Léveillé ?
-
--*who_nicaise
 Ne remettra jamais les pieds dans la maison ; l'action de son maître est son congé absolu.
 
--*who_nicaise
 Et moi, qui n'aurai pus personne qui me barricade au vis-à-vis de vot' coeur, vous épouserais-je-ti ?
 
--*who_marton
+Faudrait qu'ça fût tout vu ; car moi, ça me, hé, hé, hé, hé.
+Oh ! C'est que dame, tenez, Mamzelle, déjà et d'un, je vous aimerai bien.
+
+Oh ! Je dis, pour ce qui est en cas de... c'est pas ça qui fait... parce que...
+
+
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+Je n'en aime aucun.
+
+Il le faut bien ; le grand art d'une jolie femme est d'avoir une cour nombreuse, beaucoup de prétendants.
+
+Pour tromper ou être trompée ? Non, ma chère, non ; amusons-nous de tout ; qu'ils espèrent ces Messieurs, on se décidera peut-être un jour.
+
+Ce qui arrive à tant d'autres : l'illusion prolonge le bonheur, et quand il tire à sa fin, on se retourne.
+
+Oui, c'est bien dit, on pensait ainsi autrefois ; mais nous avons changé tout cela.
+
+Des heureux. C'est rendre service aux hommes que de leur résister, les mystifier même... Mais à propos !...
+
+Tu as tort, ma chère enfant, tu as tort ; le grand nombre de soupirants semble ajouter au mérite d'une jolie femme, et le tien, pour peu que tu en aies, pensant comme tu fais, est rétréci de moitié.
+
+Tu le crois ?
+
+Et tu es dans l'erreur. La liberté, ma fille, fait le bonheur suprême ; jamais d'engagements sérieux : souffrons qu'on nous aime, mais n'aimons jamais.
+
+À peu près.
+
+Chacun le prend, le goûte à sa manière.
+
+C'est précisément un des premiers inconvénients du mariage ; une femme perd sont teint, sa fraîcheur, son enjouement, ses grâces, et pour qui ? Pour un mari qui souvent, loin de lui en savoir gré, calcule indignement si le fruit d'une maternité précoce, cadre avec le terme qu'il s'était proposé d'attendre.
+
+J'en jurerais presque ; pour tirer parti des hommes, il n'en faut point adopter : celui qu'on préfère est celui qui, abusant d'une autorité chimérique, veut tenir une épouse dans les liens de la captivité. On peut aimer son esclave, mais rarement l'esclave aime son maître.
+
+Tu le crois. Si j'entrais avec toi dans des détails...
+
+Tu te trompes toi-même.
+
+De moi ; et je suis si en garde que le plus fin ne pourra me surprendre.
+
+Qu'il faut éviter... N'ai-je pas congédié trois soupirants des plus pressants ! J'avais mes raisons, il peut s'en présenter d'autres, je les recevrai ; quant au Chevalier...
+
+Pour toi dont le coeur est pusillanime, mais le mien est de bronze.
+
+Ne crains de ma part aucune faiblesse, je réponds de moi ; et ma tête mieux organisée que celle d'une femme ordinaire, ne me laissera jamais faire de sottises ; tu verras comme je recevrai ce petit Monsieur. Oh ! D'abord je lui laisserai prendre feu, il en faut pour jouir de son triomphe, mais je saurai l'abaisser sans me compromettre. S'il vient, reçois-le gracieusement, contribue à le faire espérer, dispose de ma main, fais tout pour qu'il s'enflamme, et je me charge du reste.
+
+Hé bien, Monsieur le Chevalier, vous devez être bien fier ! L'exclusion que je viens de donner à vos rivaux doit vous prouver...
+
+La réponse est trop modeste pour un galant Chevalier comme vous, mais vous me permettrez bien de douter un peu de vos sentiments. Semblable au papillon qui dans un parterre caresse tour-à-tour la tubéreuse, la violette et la rose, votre coeur inconstant et léger voltige de belle en belle ; vous leur jurez à toutes une fidélité éternelle...
+
+Oh, je sais que vous êtes éloquent là-dessus ; je vous rends justice : personne ne s'expliqua jamais avec ce degré de persuasion qui vous est propre : on peut en demander des nouvelles à Lucile, à Julie, à Émilie, à tant d'autres enfin....
+
+Fort bien ; et sans doute vous exigez que je vous croies corrigé sur votre parole ?
+
+Tenez, Chevalier, Dorante, Damis, Licidas, Valère, et tant d'autres m'en ont dit tous autant mille fois, et vous voyez qu'ils ont pris leur parti en gens qui connaissent l'usage, aussitôt que leur congé leur a été signifié.
+
+Quel désespoir d'être sans esprit à votre âge !
+
+Monsieur le Chevalier, écoutez-moi ; vous ne m'êtes pas indifférent ; peut-être qu'un jour ce penchant deviendra plus fort, mais c'est que je crains.... Si vous veniez à changer, si vous deveniez infidèle.... Car quel est l'homme assez hardi pour jurer une constance éternelle à la femme la plus accomplie ?
+
+Mais sentez-vous tout le poids d'un pareil engagement ?
+
+Savez-vous que vous êtes pressant, Chevalier ?
+
+Vous vous échauffez, Chevalier.
+
+Calmez-vous, Monsieur, calmez-vous ; vous devenez pressant, vous vous échauffez de plus en plus, ceci deviendrait trop dangereux.
+
+Qu'on donne à Monsieur un verre d'eau.
+
+Oh ! Des emportements, des fureurs !... Qu'on donne le verre d'eau à la glace.... Buvez, Monsieur, buvez, quand vos feux seront rassis, on vous parlera, vous serez plus tranquille, et tout se passera dans l'ordre.
+
+Eh bien, ce galant Chevalier est-il parti ?
+
+Je le crois, ces petits Messieurs sont plaisants ! Au bout d'un instant de conversation, ils prennent feu, cela n'est pas étonnant ; une jolie femme, est bien faite pour faire cette impression ; mais, avantageux au possible, ils s'imaginent bonnement qu'on doit leur céder la victoire, à l'instant ou ils commencent à combattre. Je m'imagine voir un despote asiatique qui déploie le mouchoir sur une esclave soumise, trop heureuse de l'accepter.
+
+Qu'importe, sommes-nous faites pour ramper sous un sexe orgueilleux et tyrannique, qui ne tombe à nos pieds, que pour s'en relever sûr de sa victoire, et nous faire sentir à chaque instant le joug impérieux ou nous nous sommes soumises. J'espère que celui-ci n'aura pas lieu de s'applaudir de son triomphe.
+
+Et tu dis qu'il est parti bien confus et bien désolé ?
+
+Comment cet homme si passionné !...
+
+S'il m'eût aimée véritablement, il en aurait au moins donné quelques marques, il eût cherché à me revoir, et à triompher de mon indifférence.
+
+Quoi ! Tu crois que le Chevalier serait capable d'en aimer une autre.
+
+Je n'aime pas... décidément... le Chevalier... cependant.
+
+Non, je ne l'aime pas, heureusement ; mais, je l'avoue, l'idée de le soupçonner épris d'une autre femme me désespère, et m'affecte jusqu'aux larmes.
+
+Quoi, Monsieur, c'est vous ? Et vous, Marton, vous abusez ainsi de ma confiance !
+
+Mais relevez-vous donc, Chevalier.
+
+J'avoue, Chevalier, que votre amour me touche, mais relevez-vous de grâce, je ne puis vous souffrir ainsi à mes genoux.
+
+Ne vous y trompez pas, Chevalier ; votre amour me touche, mais ne me persuade pas ; je connais les hommes, fourbes, perfides, trompeurs...
+
+Ah Chevalier, qu'osez-vous dire ? Vous parlez de caprice au coeur que vous allez fixer... Je le crains du moins.
+
+Marton... je crois... qu'il me persuade...
+
+Je l'avoue à ma honte, vous me persuadez, Chevalier, mais je ne suis point encore convaincue ; il faut de la persévérance ; cette épreuve peut-être coûte à mon coeur, jouissez de votre triomphe ; mais je l'exige cette épreuve, et je ne me déterminerai...
+
+C'en est fait, Chevalier, je n'y résiste plus... Ce dernier trait... en vous donnant toute mon estime... me répond de votre sincérité ; et... je vous accorde ma main.
+
+Non, Chevalier, ma main est à vous ; je suis d'autant plus sincère en cet instant, que je sens, à ce que j'éprouve, combien mon procédé était déchirant pour vous.
+
+Oui, Chevalier, je vous aime... je vous aime.
+
+Oui, Chevalier, je ne me conçois pas moi-même ; avec ma façon de penser sur tous les hommes, j'aurais dû ne pas vous croire aussi légèrement, mais vous êtes un enchanteur, et vos discours ont fait... malgré moi... passer dans mon âme, tout le feu dont vous êtes pénétré.
+
+Le scélerat ! Je suffoque... C'en est fait, je renonce aux hommes pour jamais ; ce sont des monstres qu'on ne peut apprivoiser.
+
+
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
+Comment, Madame, de quatre amoureux pas un ne peut vous fixer ?
+
+Mais cependant tous se flattent en secret...
+
+Mais il faut enfin faire un choix.
+
+Et si vous vous décidez mal, qu'en arrivera-t-il ?
+
+Je ne pense pas comme cela, moi ; bien ou mal tombée je m'y tiendrai.
+
+Que prétendez-vous donc faire ?
+
+Mais, Madame, je ne vous conçois pas, je n'ai qu'un prétendu, car je ne compte pas Nicaise, quoiqu'il me fasse les yeux doux, ce n'est pas qu'il ne rendît, je pense, une femme très heureuse ; mais le pauvre garçon est si bête ! Hé bien, Madame, pour revenir à mon prétendu, car je me proposais de ne pas l'accepter sans vous en avoir prévenue, et sans avoir obtenu votre agrément, hé bien, lui seul m'a décidée, et tous les autres sont éconduits et congédiés.
+
+Mais il faut en finir : un homme qui vous épouse vaut mieux que quatre qui vous recherchent et vous amusent.
+
+Certainement.
+
+Pensez-vous comme cela ?
+
+Tant pis pour vous et tant mieux pour moi de penser différemment ; le bonheur et le plaisir ne vous seront jamais familiers.
+
+La mienne est d'aimer, d'être aimée, et d'en venir à la preuve, par devant notaire s'entend.
+
+Si bien donc, Madame, que vous n'aurez jamais d'époux ?
+
+Savez-vous bien que vous commencez à m'intimider. Cependant tout cela ne m'arrivera pas, j'aimerai de si bonne foi qu'il faudra être un monstre pour n'en pas faire autant.
+
+Vous avez été trompée, je le vois, je le gage.
+
+Cependant vous vous méfiez ?...
+
+Quelle est la femme assez hardie pour en dire autant ? Car enfin, Madame, il est certains moments...
+
+Moi, je le trouverais dangereux.
+
+Madame, le bronze est alliable aussitôt qu'il est fondu.
+
+Quel singulier caractère ! Il est indéfinissable ! Car enfin on veut ou on ne veut pas ! Vouloir des amants, faire tout pour les attirer, les fixer, si l'on peut, et n'en prendre aucun pour son compte, cela est incroyable ! Enfin qu'y faire ? Ma maîtresse est comme cela, elle joue l'amour, mais qu'elle prenne garde à elle ; l'amour la jouera, et ce fera bien fait. Ce Dieu a ses agréments et ses désagréments ; quand on s'accorde avec lui, il est bon diable, il s'humanise, on en tire parti, et c'est ce que je compte bien faire.
+
+Et moi je ne veux rien entendre.
+
+Que veux-tu ?
+
+Après.
+
+Finiras-tu ?
+
+Ah ! Tu m'impatientes. En vérité ce benêt-là....
+
+Sur quoi ?
+
+Est-ce qu'on fait cela ?
+
+Je le pense.
+
+J'en conviens.
+
+Est-ce que vous nous avez écouté ?
+
+Comment donc Monsieur Nicaise, mais c'est indigne.
+
+Mais voyez un peu ce que veut dire ce visage.
+
+Peste, quel dégourdi !
+
+Et vous y mettez-vous souvent ?
+
+Nous attendrons que l'esprit vous soit tout-à-fait poussé.
+
+La voisine, sans doute ? On ne sait sur quoi compter avec vous ; vous avez des allures, Monsieur Nicaise, et cela nuira à votre établissement.
+
+Comment, qui me l'a dit, tout le quartier, tous les voisins.
+
+Comptez donc sur Monsieur.
+
+Comment donc, Nicaise, mais voilà un amour bien triste.
+
+Console-toi Nicaise, cela viendra peut-être, que sait-on, si je te voyais assidu, entreprenant, jusqu'à un certain point pourtant...
+
+Les reproches ?
+
+Que vous n'avez pas.
+
+C'est assez, je t'entends.
+
+Moi, rien du tout. À quoi cela est-il propre ?
+
+Tu le crois donc un rival bien dangereux ?
+
+Monsieur Léveillé, votre génie vaste voit tout en grand, mais moi dont le mérite est renfermé dans un cercle plus étroit, je pense comme le vulgaire qu'il faut tout entendre.
+
+Oui ; tout voir.
+
+Et choisir.
+
+Oui... Monsieur, choisir ; et encore souvent...
+
+Jusqu'à présent c'est mon cher Léveillé.
+
+Déjà de la jalousie ?
+
+Le coquin est bien fort, parce qu'il connaît mon faible.
+
+Monsieur, l'union règne entre nous, il n'y a jusqu'ici qu'une promesse de mariage.
+
+Il le faudra bien ; arrange-toi comme tu voudras, il me faut un mari ; tu t'es offert, je t'ai accepté, préféré même à tant d'autres à qui je n'ai pu faire entendre raison qu'en promettant la survivance.
+
+Monsieur, à vous parler vrai ; ma maîtresse est impénétrable : cependant...
+
+Un congé donné en bonnes formes à trois de vos rivaux me serait espérer...
+
+Monsieur, Monsieur, vous avez encore du chemin à faire ; une femme ne se rend pas à la première attaque, ce serait se déshonorer, et violer les lois de la décence auxquelles la nature a soumis les deux sexes ; le vôtre en a franchi les bornes, il en tire même vanité, la bonne heure ; mais, telle est la force du préjugé, ce qui glorifie une sexe fait le déshonneur de l'autre.
+
+Oui ; mais qui quitte la partie la perd ; entendez-vous, mon bon ami ?
+
+Que les absents ont toujours tort.
+
+N'en doutez pas.
+
+Sans nombre ; de l'amour, des égards, des procédés, du respect, de la soumission.
+
+Oui, Monsieur le Chevalier, de la soumission ; ne vous y trompez pas : prévenue comme elle est contre les hommes, ce n'est qu'une entière déférence à ses volontés et une respectueuse persévérance qui pourront mériter son coeur et sa main, et quand même elle n'aurait pas cet éloignement étrange pour le mariage, croyez-vous qu'on réussisse, auprès d'une femme qui pense, avec des airs avantageux ? Eh mais, notre sexe est bien fait pour donner la loi, c'est bien le moins puisque c'est le seul instant de son triomphe ; je vous le répète un avantageux souvent se fait éconduire ; oui, soit dit entre nous. Et Monsieur Léveillé qui n'est pas de trop ici, peut prendre sa part de cette leçon, joignez à cela de temps en temps, quelques cadeaux, car cela flatte une femme, et l'engage souvent sans qu'elle y pense.
+
+En ce cas, Monsieur, comptez sur moi.
+Toi, attention à mes leçons, sois écolier docile, ou je ne réponds de rien ; je vais rejoindre ma maîtresse, j'entamerai la conversation, je vanterai votre mérite, je tacherai de persuader son esprit, d'intéresser son coeur, ensuite, ma foi, chargez-vous du reste ; car enfin, moi, je ne peux pas tout faire.
+
+Que veut Madame ?
+
+Tout plein Madame ?
+
+Eh bien, te voila encore toi ? Est-ce que tu ne devrais pas être dans l'antichambre, demandez-moi à quoi ça s'amuse ?
+
+Cela ne te fera pas de mal ; au contraire, toi qui es amoureux, cela te rafraîchira.
+
+Allons, va-t-en, Madame t'appelle.
+
+Qu'avez-vous donc, Monsieur le Chevalier ? Vous voila tout pensis ?
+
+Quoi, Monsieur ! Il s'est donc passé des choses ?...
+
+Oh ! Je vois ce que c'est, Madame a voulu s'amuser ; je connais son caractère, elle craint de donner des droits sur elle ; vous êtes le seul dont elle reçoive les visites, preuve de son inclination pour vous.
+
+Doucement, emportée par son caractère dédaigneux, et trouvant une espèce de gloire à vaincre les sentiments que vous lui inspirez ; trouvant même à vous persifler une espèce de plaisir, elle n'a suivi que l'impulsion du préjugé qu'elle a contre les hommes, mais elle s'est punie elle-même, soyez-en certain ; ce plaisir de vous humilier n'a duré qu'un moment, et ne peut lui tenir lieu du plaisir plus flatteur d'aimer et d'être aimée ; et n'est-ce pas là visiblement le voeu de la nature ? Que diantre ! Je suis fille encore moi, et cependant j'ai passé par-là.
+
+Oh ! Tout doux ! Ce n'est que pour vous, Messieurs, que l'amour mit en usage cette posture respectueuse, mais, qui pourtant vous conduit souvent à cesser de l'être : et, tel est l'empire de notre sexe sur le vôtre, que si ma maîtresse venait à reparaître, bientôt une demi-faveur vous forcerait à retomber à ses genoux.
+
+Bon, bon ! Ne jurons de rien, l'amour-propre fait des serments, l'amour en rit, et vous engage de nouveau : écoutez, vous aimez ma maîtresse, je suis sûre qu'elle a des dispositions à vous aimer, opposez caprices à caprices, feignez d'être infidèle, piquez également son amour-propre ; une absence de quinze jours vous la ramènera ; croyez-moi, cessez de la voir pendant quelque temps.
+
+Oh ! Vous êtes trop tenace aussi ; un trésor aussi précieux que la possession d'une femme jeune et jolie, mérite bien quelques légers sacrifices ; d'ailleurs, j'aime ma maîtresse, je voudrais la voir heureuse et détrompée, vous êtes l'homme le plus propre à détruire ses préjugés, et vous en viendrez à bout. D'abord, il y a un fait sûr, elle craint les hommes en général, mais vous êtes celui de tous qui, dans son coeur, pourrait le mieux faire exception à la regle.
+
+J'en suis sûre ; elle vous distingue : la crainte de vous perdre, un soupçon d'infidélité, une invisibilité momentanée, opérerait ce miracle ; et tenez, je viens de la quitter rêveuse, et j'oserais dire fâchée du tour qu'elle vous a joué.
+
+Il est un moyen pour vous en assurer, cachez-vous dans ce cabinet, ma maîtresse ne tardera pas à venir... Et tenez, justement, j'entends du bruit, c'est peut-être Madame la Comtesse, cachez-vous.
+
+Eh mais, ne faudrait-il pas être aux ordres de Monsieur ; écoute, il t'a fallu des car, des si, des mais, pour te décider à m'épouser, et moi, sans tant de façons, je pourrais bien me résoudre à te planter là ; j'ai affaire ici, ma maîtresse va venir, ton poste t'appelle ailleurs ; bonjour, bonsoir adieu.
+
+Ta présence.
+
+Hé bien, ne voila-t-il pas encore mon avantageux ?
+
+Pas de ça, pas de ça, te dis-je, ces avants-goûts là, produisent souvent des dégoûts, je ne m'y fie pas.
+
+Mais voyez un peu l'impertinent. Voila Monsieur le bel esprit ; comme vous vous trompez dans votre calcule, ma maîtresse n'est point dans son boudoir, le Chevalier n'est point ici ; il est presque congédié, on ne l'épousera peut-être jamais, ni vous non plus, à moins qu'un caprice n'en décide ; mais dans tous les cas, vous n'en aurez jamais l'avant-goût, et sur cet article, je suis votre très humble servante.
+
+Surtout, quand il a besoin qu'on le soit à son égard.
+
+Il est sincère au moins ; eh bien, vois-tu, avec cette bonhomie là, tu me plais mille fois mieux qu'avec tout l'étalage de tes belles qualités.
+
+Je t'en dispense.
+
+Oh, pour cela ne crains rien, je suis persuadée que l'amant qu'on récompense ne vaut pas mieux que le mari qu'on punit ; c'est quitter un infidèle, pour un ingrat, un volage pour un indiscret, et les femmes sont toujours dupes de cette vengeance.
+
+Monsieur Leveillé, la franchise a ses agréments, mais, malgré le cadre heureux qui sert de bordure à votre tableau, je ne sais si vous auriez dû le mettre au jour, vous n'êtes pas encore dans le cas où l'on s'explique aussi nettement sans risques, et je doute que vous y soyez jamais. J'entends ma maîtresse, elle vous sauve une réponse plus positive et plus digne de votre franchise ; mais je ne vous conseille pas de venir la chercher.
+
+Oui, Madame, attéré, confondu.
+
+Et ce mouchoir, ne l'a pas qui veut, dit-on ?
+
+Je ne le crois pas.
+
+Désolé... Mais non, Madame, au contraire il a pris son parti en brave ; ce que je vous en disais d'abord, n'était que pour vous inspirer un peu de pitié pour lui.
+
+Oh ! Pour passionné, il l'est, n'en doutez pas ; cet homme là vous aimait sincèrement ; mais, ma foi, vous m'avouerez que votre conduite à son égard...
+
+Non, Madame ; un amant peut bien, comme vous, chercher à vaincre une âme indifférente : mais il ne résiste point au mépris. Le Chevalier d'ailleurs est jeune, bien fait, plein de bonnes qualités, et sans doute il ne tardera pas à se consoler avec quelque Beauté, qui sentira mieux tout son mérite, et saura l'apprécier tout ce qu'il vaut.
+
+Eh pourquoi non, Madame, tenez le coeur des hommes d'aujourd'hui est comme un miroir, de poche s'entend, car on ne le voit pas toujours à découvert ; la glace réfléchit un objet tant qu'il est placé en face ; mais si tout autre objet prend la place, à l'instant le miroir réfléchit les traits de celui-ci, et ne conserve plus aucuns des traits du premier.
+
+Ma foi, Madame, je n'en jurerois pas.
+
+Vraiment, le fripon plaide très-bien sa cause.
+Bravo, Monsieur le Chevalier.
+
+Bon, nous voici au dénouement.
+
+Je ne reviens point de ma surprise ! Je ne m'attendais pas à ce raffinement de vengeance.
+
+Eh bien que veux-tu, Monsieur ?
+
+Le Chevalier est un monstre. Ma Maîtresse peut avoir des torts, mais il est mille fois plus coupable qu'elle ; et cette aventure-ci doit bien la dégoûter du mariage.
+
+Pourquoi cela ?
+
+Oh ! Cela ne fera rien à l'affaire : d'ailleurs, c'est un petit dégoût dont un homme plus aimable pourra la faire revenir dans quelque temps.
+
+Et Léveillé ?
+
 Nous verrons.
 
--*who_nicaise
-Faudrait qu'ça fût tout vu ; car moi, ça me, hé, hé, hé, hé.
-Oh !
-C'est que dame, tenez, Mamzelle, déjà et d'un, je vous aimerai bien.
+Eh bien, j'en parlerai à Madame, touche là... Cependant mon garçon tu es bien nigaud.
 
--*who_marton
-Eh bien, j'en parlerai à Madame, touche là...
-Cependant mon garçon tu es bien nigaud.
+Au surplus, tu as raison. Tout ce que je vois tous les jours me prouve qu'un mari un peu bête est excellent dans un ménage.
 
--*who_nicaise
-Oh !
-Je dis, pour ce qui est en cas de... c'est pas ça qui fait... parce que...
-
--*who_marton
-Au surplus, tu as raison.
-Tout ce que je vois tous les jours me prouve qu'un mari un peu bête est excellent dans un ménage.

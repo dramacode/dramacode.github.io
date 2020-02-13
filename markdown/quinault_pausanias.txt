@@ -1,6 +1,6 @@
 ---
 identifier: quinault_pausanias  
-creator: Quinault, Philippe  
+creator: Quinault, Philippe ; Georges Forestier.  
 date: 1669  
 title: Pausanias. Tragédie  
 ---

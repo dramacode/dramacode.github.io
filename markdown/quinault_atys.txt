@@ -1,6 +1,6 @@
 ---
 identifier: quinault_atys  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1676  
 title: Atys. , tragédie  
 ---

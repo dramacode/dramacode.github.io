@@ -1,6 +1,6 @@
 ---
 identifier: boyer_comteessex  
-creator: Boyer, Claude  
+creator: Boyer, Claude ; Georges Forestier.  
 date: 1678  
 title: Le Comte d'Essex. Tragédie  
 ---

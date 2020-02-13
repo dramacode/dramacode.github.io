@@ -1,8 +1,7 @@
 
 
-**** *book_ *id_I01 *act_I *date_1649
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proxene
 
--*who_proxene
 Que te sert de montrer par tant d'illustres marques
 Que le Ciel t'a donné les vertus des Monarques ?
 Que te sert d'aspirer au pouvoir souverain
@@ -36,29 +35,6 @@ Ta vertu qui peut tout, sujette d'une femme !
 Non, non, passe plus loin, j'aime un grand Prince en toi,
 Mais ce n'est pas assez, j'y veux aimer un Roi.
 
--*who_trasile
-Que je prends de plaisir au vol où je m'engage,
-À te voir aujourd'hui douter de mon courage,
-Puisque j'apprends au moins par ce doute amoureux
-Qu'en suivant mes désirs j'obéis à tes voeux.
-Pourrais-je mériter les fruits de la victoire,
-S'il fallait m'exciter à courir à la gloire
-Non, non, j'ai pour aller où va ma passion
-Les ailes de l'amour et de l'ambition.
-Tu veux aimer un Roi, généreuse Proxène,
-Et moi je veux périr si je n'aime une Reine.
-La Fortune n'a point d'empêchements si forts,
-Qui ne soient au-dessous de mes moindres efforts.
-Ce sacré nom de soeur, et de soeur adorable,
-N'a pour moi rien de saint, ni rien de vénérable.
-Les Sceptres sont à ceux qui peuvent les ravir,
-Et leur excuse ensuite est de s'en bien servir.
-Il faut que mon Amour enlève une Couronne,
-Et pour me satisfaire il faut qu'il te la donne ;
-Et s'il ne te couronne, et s'il n'est couronné,
-Il mérite ta haine où je l'ai condamné.
-
--*who_proxene
 Tu veux donc, me dis-tu, la Grandeur Souveraine,
 Comme le plus grand bien où le destin nous mène ?
 Cependant jusqu'ici quels desseins as-tu faits,
@@ -81,11 +57,6 @@ C'est sans doute un chemin mal propre à la gagner,
 Et qu'on tient rarement lorsque l'on veut régner.
 Tu ne me réponds rien.
 
--*who_trasile
-      Contente-toi d'apprendre
-Que c'est là le chemin que Trasile doit prendre.
-
--*who_proxene
 Crois-tu donc que mon coeur qui répond à tes voeux,
 Étant plein d'un secret, n'en puisse tenir deux ?
 Si je n'ignore pas que tu tends à l'Empire,
@@ -101,62 +72,13 @@ En montrant à mes yeux et le trouble et l'orage ;
 Fais-moi voir des cercueils et des gouffres partout,
 Tous ces chemins sont beaux quand le Trône est au bout.
 
--*who_trasile
-Conserve donc toujours ce courage indomptable,
-Si j'expose à tes yeux un chemin effroyable.
-Tu sais bien que le Roi mourut dans le combat
-Où l'avait engagé le besoin de l'État ;
-Et que c'est aujourd'hui l'opinion publique,
-Que durant un combat si grand et si tragique,
-Arcas donna le coup qui prive avec effroi
-La Reine d'un époux et l'Empire d'un Roi.
-Que cette opinion soit fausse ou véritable,
-Au moins elle a rendu ce Prince détestable ;
-Et depuis ce temps-là, quoi que son bras fameux
-Ait fait pour cet État et de grands et d'heureux,
-Tout s'étouffe et se perd dans la haine secrète
-Qui naquit de la mort du Roi que l'on regrette.
-
--*who_proxene
 Je ne vois pas encor où tendent tes desseins,
 Ni comment le pouvoir tombera dans tes mains.
 
--*who_trasile
-Comme Arcas est partout un grand objet de haine,
-L'aversion publique ira jusqu'à la Reine,
-Si la Reine, oubliant et sa gloire et sa foi,
-Peut donner son amour au meurtrier du Roi.
-Alors on la croira même avecque justice,
-D'un meurtre si cruel et coupable et complice.
-Alors pour mieux venger le premier attentat,
-Nous verrons éclater la haine de l'État,
-Le Peuple s'animant par l'un et l'autre crime,
-Fera de sa révolte un devoir légitime :
-Et moi-même appuyant sa haine et sa fureur,
-Je prendrai son parti contre une lâche soeur.
-Si la Couronne enfin tombe en cette tempête,
-Où peut-elle tomber si ce n'est sur ma tête ?
-Je sais bien que l'hymen m'a refusé le jour ;
-Et que je suis au monde un fruit du seul Amour,
-Mais au moins mes exploits ont bien eu la puissance
-D'effacer le défaut qu'on vit à ma naissance.
-
--*who_proxene
 Mais si la Reine juste en cette occasion,
 Ne montre pour Arcas que de l'aversion,
 Que ferez-vous alors ?
 
--*who_trasile
-      J'ai déjà fait en sorte
-Qu'à ce honteux hymen sa volonté se porte.
-J'ai gagné son Conseil, qui travaille pour moi,
-J'ai gagné ses amis, qui me veulent pour Roi.
-Bref, personne aujourd'hui n'approche de la Reine,
-Qui ne m'ait consacré sa fortune et sa peine,
-Et sans que je lui parle, on inspire en son coeur
-Tout ce qui peut la perdre et me rendre vainqueur.
-
--*who_proxene
 Gardez-vous de vous tromper par une vaine attente,
 Je crains avec raison qu'elle aime Poliante.
 Il a tout le bonheur qui peut le faire aimer,
@@ -179,7 +101,244 @@ Lorsque de part et d'autre on se voit couronné,
 L'amour naîtra bientôt s'il n'est pas déjà né.
 Pensez-y.
 
--*who_trasile
+Si le sort est pour toi, l'espérance est permise.
+
+Il est mieux dans mon coeur qu'il n'est pas dans ton sein,
+Tu me l'as découvert, et je saurai le taire.
+
+      Je sors.
+
+Qu'a la Reine, Proclée, elle est triste à la voir.
+
+Sa soeur ! Qu'entends-je ?
+
+      Elle sort, il la suit.
+
+Il passe sans me voir, et son âme inconstante
+Semble déjà goûter l'offre de Poliante.
+Prends garde, Ambitieux, qu'un Amour irrité
+Ne fasse un précipice à ta prospérité.
+
+Trasile me fuirait ! Moi qui connais son crime,
+Et qui puis aisément en faire ma victime ?
+Mais que ne ferait pas un coeur ambitieux,
+Lorsque l'occasion se présente à ses yeux ?
+Il voit un Sceptre acquis, il croit qu'une alliance
+Confirmera plutôt sa nouvelle puissance,
+Et que je l'aime assez pour voir d'un oeil constant
+Une infidélité qui le rendra content.
+Non, non, si la Couronne à ses yeux adorable
+Est la seule beauté qui lui paraisse aimable,
+Je n'aime en cet ingrat, que je puis dédaigner,
+Que l'illustre désir qui me ferait régner.
+Mais ne nous perdons pas par une aveugle flamme,
+Il faut que Poliante éclaircisse mon âme :
+Il est avec la Reine, il faut l'attendre ici,
+Suspendons nos fureurs, mais enfin le voici.
+Seigneur, il est donc vrai que le Ciel plus facile,
+Redonne à votre État une face tranquille,
+Et qu'un prompt châtiment montre à vos factieux
+Que le parti des Rois est le parti des Dieux ?
+
+Que mon coeur, qui respecte et chérit votre gloire !
+Prend de part aux douceurs d'une telle victoire.
+Que j'en prévois de biens pour deux puissants États !
+Que j'en prenais de maux pour le cruel Arcas !
+Et si Trasile entend l'offre que vous lui faites,
+Que j'en prévois partout de voluptés parfaites !
+Mais s'il n'acceptait pas ce trésor éclatant,
+Pourrait-il mériter le Trône qui l'attend ?
+Non, non, ce que l'on dit se dit sans apparence.
+
+      Qu'il se paît d'une vaine constance,
+Et qu'enfin ses esprits autre part arrêtés,
+Refusent le grand bien que vous lui présentez.
+
+Je m'en consolerais, Seigneur, si c'était moi.
+C'est gloire de céder à la soeur d'un grand Roi.
+Trasile se doit plus qu'aux yeux de la plus belle ;
+Serait-il Prince enfin s'il était si fidèle ?
+La constance n'est pas en cette occasion
+La vertu des Amants de sa condition.
+
+      Non, non, ou l'on doit croire
+Que je prends le parti de votre seule gloire
+
+      Oui, Seigneur.
+
+Céderai-je au transport qu'excite la colère ?
+Mais j'aperçois la soeur, il faut revoir le frère ;
+Et si ce frère ingrat me montre un lâche coeur,
+Alors pour me venger je reverrai la soeur.
+
+Enfin sans de grands maux vous obtenez la gloire
+Que donne rarement la force et la victoire ;
+Et j'offrirai du moins la première à mon Roi,
+Et mon obéissance, et mon coeur et ma foi.
+Si je ne puis avoir un plus noble partage,
+Je me contenterai de ce seul avantage :
+Mais comme d'un objet qui serait odieux,
+Il détourne de nous et l'oreille et les yeux.
+
+Il ne faut plus douter d'une chose certaine.
+Je n'ai donc plus d'appas, ni Trasile de foi ;
+J'aurais donc des beautés si j'étais soeur d'un Roi ?
+Ne nous regardez plus, vous faites bien, Trasile,
+L'Amour a plus d'attraits quand il est plus utile.
+Vous feriez une injure au pouvoir souverain,
+S'il ne vous rendait pas si superbe et si vain.
+Et de quelque mépris que vous donniez des marques,
+J'excuse cet orgueil en de nouveaux Monarques.
+
+Vous plaignez-vous déjà que la Couronne pèse ?
+Que l'on n'est pas assis sur un Trône à son aise ?
+Et que le plus beau Sceptre aux yeux de l'Univers,
+N'est qu'un arbre fertile en fruits toujours amers ?
+Attendez à former cette plainte commune,
+Que vous ayez du Trône éprouvé la Fortune.
+Ce n'est pas mériter pour prix de ses travaux,
+La gloire d'être Roi, que d'en craindre les maux.
+
+C'est, si vous le voulez, c'est une frénésie,
+Mais...
+
+      Plus vous me parlerez,
+Esprit ambitieux, plus vous me tromperez,
+Voulez-vous excusez une âme criminelle,
+Moi-même en sa faveur j'excuse un infidèle ?
+Le Sceptre vaut bien peu quand il est présenté,
+S'il ne vaut pas qu'on fasse une infidélité.
+Allez, allez, ingrat, jouissez de vos crimes,
+N'ayez jamais de biens ni d'honneurs légitimes
+Mais sachez qu'un méchant ne doit pas outrager
+Quiconque sait son crime, et qui peut se venger.
+
+      La reine doute-t-elle
+D'un rapport aussi vrai que je lui suis fidèle ?
+
+La Nature souvent comme une illusion,
+Trompe qui veut la croire en cette occasion.
+
+Oui, je lui soutiendrai ce crime épouvantable.
+Bien que le malheureux ait dit pour se purger,
+Que mon Amour jaloux a voulu se venger,
+Et que, me diffamant par de honteux mensonges,
+J'impute à son esprit les crimes de mes songes ;
+Je soutiendrais de même en présence des Dieux,
+Tout ce que je pourrai soutenir à ses yeux.
+Il est vrai qu'il m'aima d'une amour bien ardente,
+Puisque d'un si grand crime il me fit confidente,
+Ne sachant pas qu'un coeur généreux et prudent,
+Sera toujours du crime un mauvais confident.
+Mais les Dieux protecteurs du pouvoir légitime,
+Ont permis qu'il m'aimât pour découvrir son crime,
+Qu'il choisit un objet, de qui la noble ardeur
+Préférât l'innocence à l'injuste Grandeur ;
+Et que pour rendre ici son châtiment extrême,
+L'Amant fut accusé par son Amante même.
+Enfin si j'ai brûlé d'un feu respectueux
+Tandis que son amour me parut vertueux,
+Je crois qu'ayant appris que j'aimais un coupable,
+J'ai pu changer en haine un amour véritable,
+Et que si le devoir doit le vaincre une fois,
+C'est alors qu'il s'agit de l'intérêt des Rois.
+Ha, Madame, j'ai honte, et je répands des larmes
+D'accuser votre sang de causer vos alarmes ;
+Mais lorsque votre sang attaque votre sang,
+Je ne dois regarder que vous et votre rang ;
+Et l'on peut en verser par un coup nécessaire,
+La moindre portion pour sauver la plus chère.
+
+C'est qu'à son attentat le secours a manqué ;
+C'est que le peuple ému fut en vain provoqué,
+Et que sa faction ou faible ou peu hardie,
+N'osa pas achever cette ample Tragédie.
+Car tous ses partisans poussés par son courroux
+Devaient au bruit d'Arcas s'élever contre vous,
+Comme si votre Amour auteur de ces tempêtes
+Eût Arcas appelé sur le Trône où vous êtes ;
+Et que d'intelligence avecque son parti,
+À vous faire ravir vous eussiez consenti.
+Bref Arcas vint trop tôt, et toute leur attente
+Consistait au départ du Prince Poliante.
+Ainsi son seul aspect a rompu leurs desseins,
+Et ses yeux sont pour vous aussi forts que ses mains.
+
+Au moins vous connaissez par des preuves nouvelles
+Qu'il a gagné les coeurs que vous croyez fidèles.
+
+Mais il entre, et ses yeux ne sont pas d'un coupable.
+
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasile
+
+Que je prends de plaisir au vol où je m'engage,
+À te voir aujourd'hui douter de mon courage,
+Puisque j'apprends au moins par ce doute amoureux
+Qu'en suivant mes désirs j'obéis à tes voeux.
+Pourrais-je mériter les fruits de la victoire,
+S'il fallait m'exciter à courir à la gloire
+Non, non, j'ai pour aller où va ma passion
+Les ailes de l'amour et de l'ambition.
+Tu veux aimer un Roi, généreuse Proxène,
+Et moi je veux périr si je n'aime une Reine.
+La Fortune n'a point d'empêchements si forts,
+Qui ne soient au-dessous de mes moindres efforts.
+Ce sacré nom de soeur, et de soeur adorable,
+N'a pour moi rien de saint, ni rien de vénérable.
+Les Sceptres sont à ceux qui peuvent les ravir,
+Et leur excuse ensuite est de s'en bien servir.
+Il faut que mon Amour enlève une Couronne,
+Et pour me satisfaire il faut qu'il te la donne ;
+Et s'il ne te couronne, et s'il n'est couronné,
+Il mérite ta haine où je l'ai condamné.
+
+      Contente-toi d'apprendre
+Que c'est là le chemin que Trasile doit prendre.
+
+Conserve donc toujours ce courage indomptable,
+Si j'expose à tes yeux un chemin effroyable.
+Tu sais bien que le Roi mourut dans le combat
+Où l'avait engagé le besoin de l'État ;
+Et que c'est aujourd'hui l'opinion publique,
+Que durant un combat si grand et si tragique,
+Arcas donna le coup qui prive avec effroi
+La Reine d'un époux et l'Empire d'un Roi.
+Que cette opinion soit fausse ou véritable,
+Au moins elle a rendu ce Prince détestable ;
+Et depuis ce temps-là, quoi que son bras fameux
+Ait fait pour cet État et de grands et d'heureux,
+Tout s'étouffe et se perd dans la haine secrète
+Qui naquit de la mort du Roi que l'on regrette.
+
+Comme Arcas est partout un grand objet de haine,
+L'aversion publique ira jusqu'à la Reine,
+Si la Reine, oubliant et sa gloire et sa foi,
+Peut donner son amour au meurtrier du Roi.
+Alors on la croira même avecque justice,
+D'un meurtre si cruel et coupable et complice.
+Alors pour mieux venger le premier attentat,
+Nous verrons éclater la haine de l'État,
+Le Peuple s'animant par l'un et l'autre crime,
+Fera de sa révolte un devoir légitime :
+Et moi-même appuyant sa haine et sa fureur,
+Je prendrai son parti contre une lâche soeur.
+Si la Couronne enfin tombe en cette tempête,
+Où peut-elle tomber si ce n'est sur ma tête ?
+Je sais bien que l'hymen m'a refusé le jour ;
+Et que je suis au monde un fruit du seul Amour,
+Mais au moins mes exploits ont bien eu la puissance
+D'effacer le défaut qu'on vit à ma naissance.
+
+      J'ai déjà fait en sorte
+Qu'à ce honteux hymen sa volonté se porte.
+J'ai gagné son Conseil, qui travaille pour moi,
+J'ai gagné ses amis, qui me veulent pour Roi.
+Bref, personne aujourd'hui n'approche de la Reine,
+Qui ne m'ait consacré sa fortune et sa peine,
+Et sans que je lui parle, on inspire en son coeur
+Tout ce qui peut la perdre et me rendre vainqueur.
+
       C'en est fait, et quoi qu'il en succède,
 Tout le mal que tu crains a déjà son remède.
 Ainsi par des raisons d'intérêt et d'État,
@@ -194,25 +353,393 @@ Et s'il ne part bientôt, et de sa volonté,
 Il y sera contraint par la nécessité.
 Pourrait-on mieux conduire une grande entreprise ?
 
--*who_proxene
-Si le sort est pour toi, l'espérance est permise.
-
--*who_trasile
 Le sort sera pour nous, mais cache ce dessein.
 
--*who_proxene
-Il est mieux dans mon coeur qu'il n'est pas dans ton sein,
-Tu me l'as découvert, et je saurai le taire.
-
--*who_trasile
 Mais on ouvre.
 
--*who_proxene
-      Je sors.
+Ce discours me surprend, ce conseil est étrange.
 
-**** *book_ *id_I02 *act_I *date_1649
+Jusqu'ici toutefois il fut toujours fidèle.
 
--*who_dynamis
+Ceux qui vous défendaient dans votre adversité,
+Voudraient-ils vous trahir dans la prospérité ?
+
+Mais quels biens, quels honneurs, et quels destins si doux,
+Espèrent-ils d'Arcas qu'ils n'aient reçu de vous ?
+Ce n'est pas que je veuille embrasser leur défense,
+Si quelque lâcheté noircit leur innocence.
+Mais si malgré le temps leurs services passés
+De votre souvenir ne sont pas effacés,
+Au moins ce qu'ils ont fait mérite ce salaire,
+Que l'on juge un peu mieux de ce qu'ils veulent faire.
+En effet, supposez qu'Arcas soit innocent,
+L'État peut-il choisir un appui plus puissant ?
+Et qui recevrait-on des mains de la victoire,
+Qui puisse dans le Trône apporter plus de gloire ?
+D'ailleurs, jusques ici votre bouche et vos yeux
+Ne l'avaient pas traité comme un Prince odieux,
+Et suivant quelque feu, dont vous donniez des marques,
+Chacun le croyait voir au nombre des Monarques.
+Pardonnez à l'ardeur d'un zèle sans pareil,
+Qui donc a plus failli vous ou votre Conseil ?
+Lui de vous conseiller ce honteux hyménée,
+Vous d'en avoir longtemps l'espérance donnée.
+
+Mais enfin quels témoins avez-vous aujourd'hui
+Qui vous montrent son crime et parlent contre lui ?
+
+Quoi donc, si cet hymen qui vous fait tant de peur,
+Était de cet État la force et le bonheur,
+Un bruit trompeur et faux, un bruit que rien ne fonde
+Pourrait-il empêcher le bien de tout le monde ?
+Non, non, votre vertu peut en le choisissant
+Faire juger Arcas de tout crime innocent.
+Comme votre Justice a mérité des Temples,
+Et que tout l'Univers s'en forme des exemples,
+La Reine, dira-t-on, dont l'esprit fut surpris,
+A vu son innocence, et lui donne son prix.
+
+Mais Arcas est puissant, et je crains son absence.
+
+Quoi voulez-vous sa mort ?
+
+Ô nobles sentiments ! Ha pardonnez, Madame,
+À l'injuste soupçon qui glissa dans mon âme.
+Cette feinte douceur dont vous flattiez Arcas,
+M'avait fait soupçonner un Amour qui n'est pas ;
+Et pour mieux m'éclaircir d'un soupçon si funeste,
+J'ai feint tout le discours que votre âme déteste ;
+Et que pour vous mon coeur qui peut tout défier,
+Même en le concernant détesta le premier.
+Oui, mon esprit confus vous a fait un outrage,
+D'avoir osé douter de votre grand courage :
+Mais pour le réparer, me voilà sans effroi
+Tout prêt à vous venger sur Arcas et sur moi.
+
+Cependant vous savez ce qu'on ne peut plus taire,
+Que Poliante seul, l'appui de vos États,
+Est pourtant moins aimé que le coupable Arcas.
+On craint, vous le savez, qu'un Royal hyménée
+Ne vous engage enfin sous même destinée.
+Et qu'en un même temps et l'hymen et l'amour
+Chez ce Prince étranger ne transporte la Cour.
+
+Ô coeurs intéressés ! Ô sujets téméraires !
+Qui vous permettez tout, qui n'avez point de lois,
+Voulez-vous donc en faire aux désirs de vos Rois.
+Ha si vous n'aimiez pas le Prince Poliante,
+Je croirais...
+
+Ainsi vous contentez et l'État et vous-mêmes.
+
+Si le zèle et la foi d'une âme obéissante
+Rendent les Rois puissants, que vous êtes puissante !
+
+Vois donc, n'ai-je pas formé qu'un fantôme trompeur,
+Lorsque ce grand dessein se formait dans mon coeur ?
+N'ai-je, par des chemins mal assurés et sombres,
+Comme dans un sommeil poursuivi que des ombres ?
+Il n'importe, avançons ; c'est mon but et mon sort
+Ou d'emporter un Sceptre, ou d'embrasser la mort :
+Aussi bien quand l'esprit pour la gloire s'enflamme,
+Qui vit sans la Grandeur est privé de son âme !
+Suivons ce que la rage a de plus violent,
+Le Trône est toujours beau, quand même il est sanglant.
+Si ce n'est pas assez de faire agir un crime,
+Pour monter aisément à ce degré sublime,
+Nous en commettrons mille, et quand nous régnerons
+Vainqueurs et Souverains, nous nous en absoudrons.
+
+      Quoi ? Madame.
+
+Il faut auparavant que ses mains inhumaines
+Aient versé tout le sang que vous gardent mes veines.
+Non, non, la passion qui vous le rend suspect,
+N'a pas entièrement étouffé son respect.
+Il paraît seulement pour vous mettre en mémoire,
+Combien à son Amour vous promîtes de gloire ;
+Et qu'il n'espère rien qu'un peu d'affection
+N'ait permis d'espérer à son ambition.
+
+      C'est ce qu'il faut entendre.
+
+Arcas n'est pas si fort qu'il puisse faire peur ;
+Mais il faut s'opposer contre un autre malheur.
+Seigneur, il vous regarde. Il est venu nouvelle
+Que votre État en feu se trouble et se rebelle.
+
+Seigneur, votre présence est le meilleur secours
+Qui d'un mal si soudain puisse arrêter le cours.
+Ceux en qui vous avez le plus de confiance,
+Peut-être à ce tumulte ont donné la naissance.
+Que ne peut-on pas craindre en une occasion
+Où la facilité tente l'ambition.
+Un État sans Monarque est un vaisseau qui flotte
+À la merci des vents sans guide et sans Pilote,
+Tout le monde y commande, et l'absence d'un Roi
+Y fait toujours régner le désordre et l'effroi.
+Comment aux bons sujets vous rendrez-vous aimable,
+Comment aux révoltés serez-vous redoutable,
+Si vous laissez trembler un Trône juste et saint ?
+Et par qui l'on vous aime, et par qui l'on vous craint ?
+Mais enfin croiriez-vous qu'une Reine si grande
+N'eût pas les sentiments que l'honneur lui demande ?
+Qu'elle voulût pour soi retenir votre bras
+Lorsque vous le devez au bien de vos États ?
+
+Moi ! Madame, non, non, je suis trop satisfait
+Du titre glorieux de fidèle sujet.
+
+Ha ! Madame, le Sceptre est bien entre vos mains.
+
+Puisque vous le voulez je prendrai ce fardeau,
+Que je trouve déjà plus pesant qu'il n'est beau.
+Nous recevrons un Trône afin de le défendre,
+Et nous le défendrons afin de vous le rendre.
+Oui, je vous le proteste en présence des Dieux,
+Qu'aujourd'hui je n'accepte un Trône glorieux
+Qu'afin de vous le rendre en frère incomparable,
+Par la perte d'Arcas plus puissant et plus stable.
+
+Puis-je de mes desseins espérer plus de fruit ?
+
+Ainsi votre repos, comme celui des Sages,
+Ne sera point troublé ni sujet aux orages,
+Et vous ne perdrez pas le pouvoir souverain,
+Puisqu'il sera pour vous redoutable en ma main,
+Puisque je n'emploierai la force qu'il me donne
+Que pour vous élever plus haut que la Couronne.
+
+Vous me donner bien plus en gardant la Couronne.
+Que quand votre faveur me l'offre et me la donne.
+La générosité vous la faisait céder,
+La générosité vous la fera garder ;
+Et je venais ici poussé d'un zèle extrême,
+Vous donner le conseil qui vous vient de vous-même.
+
+Mais il fait demander, et je viens de l'apprendre,
+Si par ses Députés vous le voulez entendre.
+Il faudrait l'écouter.
+
+      Je le crois.
+
+Mais, ô trop inhumaine et trop cruelle soeur,
+L'amitié t'apprend-t-elle à me percer le coeur ?
+L'amitié t'apprend-t-elle à montrer ta puissance,
+En me rendant le but de ta folle inconstance.
+Et crois-tu que l'on offre un Sceptre plein d'appas
+Sans donner de la haine en ne le donnant pas ?
+Non, non, tu n'as rien fait par cet exploit auguste,
+Que rendre ma fureur et ma haine plus juste.
+Je poursuivais sans droit le Sceptre et le pouvoir,
+Avant que ton erreur m'en eût donné l'espoir,
+Maintenant quelque mal que le destin me livre,
+Tu me les as donné, j'ai droit de les poursuivre.
+Tu m'as donné le Trône, enfin il m'appartient,
+Et j'ai le droit de l'ôter à qui me le retient.
+Et si mon entreprise était hier un crime,
+Toi-même maintenant tu la rends légitime,
+Tu me permets d'armer mon bras autorisé,
+Et de n'attendre pas d'être encor abusé.
+Le Sceptre est de ces biens qu'on ne saurait attendre,
+Et lorsqu'on le promet, on enseigne à le prendre.
+Quoi, parce qu'une soeur qu'aveugle trop d'Amour,
+A reçu devant moi la lumière du jour,
+Il faut que la Nature, il faut que la naissance
+Ait mis entre ses mains la suprême puissance ?
+Non, non, c'est une erreur que nous condamnerons :
+La Nature a failli, nous la corrigerons.
+Ce fut moi qu'en sa place elle crût faire naître,
+Et le Sceptre en mes mains le fera reconnaître.
+Je sais que mes desseins jusqu'ici ruinés
+Rendraient les plus hardis maintenant étonnés.
+Mais il n'importe ; ayons la Fortune cruelle,
+La Couronne vaut bien que l'on souffre pour elle ;
+Et nous ferons agir tant de crimes secrets,
+Que peut-être quelqu'un aura quelque succès.
+
+Non, je n'épargnerai ni le sang ni la peine.
+
+Venez-vous donc, cruelle, au lieu de m'assister,
+Aider à la fortune à me persécuter ?
+
+Est-ce haine, risée, ou plutôt jalousie ?
+
+      Mais écoutez-moi...
+
+Quoi, tu m'as menacé ? Mais parmi ces disgrâces,
+Tu m'apprends à te perdre alors que tu menaces.
+Ô Dieux, qui m'inspirez ces desseins glorieux,
+Fallait-il que j'aimasse étant ambitieux ?
+Ou ne savais-je pas, ambitieux infâme,
+Que des secrets sont mal dans l'esprit d'une femme ?
+Et que l'ambition doit garder cette loi,
+De haïr tout le monde et de n'aimer que soi ?
+Dois-je par ma ruine aujourd'hui reconnaître
+Qu'en recevant l'Amour je recevais un traître ?
+Et de ce lâche coeur prit-il possession
+Pour être le bourreau de mon ambition ?
+Ta fureur me menace, orgueilleuse Proxène,
+Mais hâte ma ruine, ou ta perte est prochaine.
+J'ai perdu cet Amour qui serait ton appui,
+Et je puis aisément te perdre avecque lui.
+Non, non, ne songeons plus que nous l'avons aimée,
+Et que peut-être encor notre âme en est charmée ;
+Mais regardons enfin et le gouffre et l'horreur
+Où peut nous faire choir sa fatale fureur.
+Quoi qu'elle me promette, et que je puisse feindre,
+Elle sait mes desseins, elle est toujours à craindre :
+Par une prompte mort il faut m'en délivrer,
+Ce destin est cruel, mais il doit m'assurer.
+Tirons des grands forfaits ce qu'on peut s'en promettre ;
+Ne nous ruinons pas par la peur d'en commettre.
+Quiconque voulant vaincre ou voulant se venger,
+N'est qu'à demi méchant, est toujours en danger.
+Et d'où vient si souvent que tant de grands courages
+Ont fait dans leurs desseins de funestes naufrages ?
+C'est que leurs coeurs craintifs à la pitié penchants,
+N'osent être une fois entièrement méchants.
+Mais je vois repasser la cruelle Proxène,
+Elle prend son chemin pour aller chez la Reine.
+Destins, que dois-je attendre ? Est-ce ici le moment
+Où mon ambition doit choir au monument ?
+Non, non, dégageons-nous de ce profond abîme,
+Et sauvons-nous enfin d'un crime par un crime.
+
+      Chez la Reine.
+
+      Attendre, attendre, moi !
+En sais-tu le sujet ?
+
+Qui donc ? Est-ce Proxène ? Ô dieux !
+
+Que ferai-je ?
+
+      Rompons leur entretien.
+
+Et que je n'entre point ? Non, non, mais avançons.
+
+      Vainquons, ou périssons.
+
+Quoi donc ?
+
+Poliante !
+
+Ô Dieux, qui le croirait !
+
+D'un homme en qui l'on voit la Justice des Dieux,
+D'un fidèle sujet, bref du vieux Euristène,
+Qu'on a cru longtemps mort, mais dites qu'on l'amène.
+J'ai le coeur si pressé du coup que je reçois,
+Qu'il me refuse ici la parole et la voix.
+
+Il est vrai, qu'on trouva sur son corps déplorable
+L'instrument de sa mort, ce poignard effroyable.
+
+Mais pourquoi sachant bien le poids de cette affaire,
+Avez-vous fait si tard ce rapport nécessaire ?
+
+Enfin vous connaissez l'innocence d'Arcas.
+
+      Voulez-vous les entendre.
+
+Vous avez refusé d'entendre ceux d'Arcas.
+
+Ici votre conseil est je crois nécessaire.
+
+Madame excusez-moi si je romps le silence :
+Peut-on s'imaginer une telle insolence ?
+Hé Quoi, souffrirez-vous que leur témérité
+Vienne imposer des lois à votre autorité ?
+Que vos propres sujets pour les biens qu'ils reçoivent
+Composent avec vous des devoirs qu'ils vous doivent ?
+Espérez, disent-ils, à ces conditions,
+Espérez nos respects et nos soumissions.
+N'est-ce pas faire voir leur criminelle audace,
+Et jusque sur le Trône apporter la menace ?
+Quoi, si vous ne suivez les orgueilleuses lois
+Qu'ils donnent à leur Reine, et qu'ils vous font en Rois,
+Ils vous refuseront la juste obéissance
+Que leur condition doit à votre naissance ?
+Espérez, disent-ils, à ces conditions,
+Espérez nos respects et nos soumissions.
+Il faut, il faut punir cette audace fatale,
+Qui blesse presque à mort l'autorité Royale.
+C'est cette autorité qui fait fleurir les lois,
+Et pour la maintenir tout est permis aux Rois.
+Quand même des sujets, dont l'audace est si grande,
+Donneraient le conseil que la gloire demande,
+Si c'est avec orgueil qu'ils viennent l'apporter,
+Un Roi pour son honneur ne doit pas l'écouter.
+
+Je reçois toutefois, et j'estime et j'approuve
+Un salutaire avis partout où je le trouve,
+Et je ne prétends pas en ennemi des lois,
+Fermer aux bons conseils les oreilles des Rois.
+Mais en domptant l'orgueil avec une menace,
+Il faut montrer à ceux qui font voir de l'audace
+Que nous exécutons les Conseils généreux
+Comme venant de nous, non comme venant d'eux.
+Ainsi j'approuverais qu'une Amour éclatante
+Joignit vos grands États à ceux de Poliante
+
+Qui l'accuse, Madame ? Un seul homme, peut-être
+Gagné par un peu d'or, qui s'est rendu son maître.
+Un seul homme l'accuse ; et de ce grand trépas
+L'univers tout entier vient accuser Arcas.
+
+Bientôt si vous voulez, sans bruit, sans passion,
+Personne n'aura vu cette noire action.
+
+Il l'est, il l'est assez, de blesser votre espoir,
+Et d'avoir vu le mal qu'il ne devait pas voir.
+
+Régnez, régnez, Madame, et vous rendez contente.
+Oui, je vous le conseille, et que sert de régner,
+Si l'on n'ose l'apprendre, et se le témoigner ?
+Suivez enfin les lois que l'Amour vous peut faire.
+Le plus beau fruit du Sceptre est de se satisfaire.
+
+Moi, j'aurais ces desseins ? Le sang et la Nature
+Me défendent assez contre cette imposture.
+
+      Que savez-vous, Madame.
+
+Elle est pleine pour vous et de zèle et de foi.
+
+Je ne crains rien, Madame, à quoi que l'on m'expose.
+
+Vous reprendrez bientôt un meilleur sentiment.
+
+Il vous faut obéir, mais c'est me traiter mal.
+
+Est-il en sûreté ?
+
+Moi, méchant !
+
+Ô détestable Arcas ! Ô coeur peu généreux !
+Indigne de cueillir les fruits d'un crime heureux !
+Quand tu peux pour le moins te conserver ta gloire,
+Que te sert en mourant de noircir ta mémoire ?
+Ô lâche, affectes-tu d'aider à tes bourreaux
+À trouver contre toi des supplices nouveaux ?
+Et par ta lâcheté ta mort trop légitime
+Sera-t-elle plus douce, en confessant un crime ?
+Rappelle dans ton coeur ta première vertu,
+Relève en périssant ton honneur abattu.
+Tu vois de tous côtés ta peine découverte,
+Tu vois tes ennemis glorieux de ta perte,
+C'est là ton plus grand mal, venge, venge-toi d'eux,
+En laissant leur croyance et ton crime douteux.
+
+Parles-tu de pardon, ô lâche, ô détestable !
+Que la Reine le garde, il est pour le coupable.
+Et pour me venger d'elle et de ce brave Roi ;
+Je souhaite à tous deux des sujets comme toi.
+
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dynamis
+
       Oui ma gloire m'est chère.
 C'est trop vous écouter, conseillers odieux,
 Apprenez à donner des Conseils glorieux ;
@@ -237,51 +764,15 @@ Et de perdre du sang et d'être furieuses ;
 C'est ici qu'il sied bien à leurs Royales mains
 D'aller percer les coeurs d'où viennent ces desseins.
 
--*who_trasile
-Ce discours me surprend, ce conseil est étrange.
-
--*who_dynamis
 Aussi sur ses auteurs il faut que je me venge.
 Mais hélas, par un sort horrible et sans pareil,
 Il en faudrait punir tous ceux de mon Conseil.
 
--*who_trasile
-Jusqu'ici toutefois il fut toujours fidèle.
-
--*who_dynamis
 J'ai sujet aujourd'hui de douter de son zèle.
 
--*who_trasile
-Ceux qui vous défendaient dans votre adversité,
-Voudraient-ils vous trahir dans la prospérité ?
-
--*who_dynamis
 Quand d'un nouvel espoir une âme s'est repue,
 Quelle fidélité n'a-t-on pas corrompue ?
 
--*who_trasile
-Mais quels biens, quels honneurs, et quels destins si doux,
-Espèrent-ils d'Arcas qu'ils n'aient reçu de vous ?
-Ce n'est pas que je veuille embrasser leur défense,
-Si quelque lâcheté noircit leur innocence.
-Mais si malgré le temps leurs services passés
-De votre souvenir ne sont pas effacés,
-Au moins ce qu'ils ont fait mérite ce salaire,
-Que l'on juge un peu mieux de ce qu'ils veulent faire.
-En effet, supposez qu'Arcas soit innocent,
-L'État peut-il choisir un appui plus puissant ?
-Et qui recevrait-on des mains de la victoire,
-Qui puisse dans le Trône apporter plus de gloire ?
-D'ailleurs, jusques ici votre bouche et vos yeux
-Ne l'avaient pas traité comme un Prince odieux,
-Et suivant quelque feu, dont vous donniez des marques,
-Chacun le croyait voir au nombre des Monarques.
-Pardonnez à l'ardeur d'un zèle sans pareil,
-Qui donc a plus failli vous ou votre Conseil ?
-Lui de vous conseiller ce honteux hyménée,
-Vous d'en avoir longtemps l'espérance donnée.
-
--*who_dynamis
 Si j'ai failli, mon frère, il devait résister,
 Me remontrer ma faute, et non pas la flatter.
 Périssent ces esprits, dont le soin mercenaire
@@ -295,11 +786,6 @@ Ose encor nourrir ce criminel espoir,
 Que le premier bourreau de son coeur sanguinaire,
 Soit de désespérer du Trône qu'il espère.
 
--*who_trasile
-Mais enfin quels témoins avez-vous aujourd'hui
-Qui vous montrent son crime et parlent contre lui ?
-
--*who_dynamis
 L'ambitieux désir qu'il a de la Couronne,
 L'horreur que j'ai pour lui, la haine qu'il me donne,
 Et pour dire en un mot tout ce que je conçois,
@@ -319,19 +805,6 @@ Ce trésor le plus grand que nous donnent les Cieux,
 Cette main insensible à toute autre victoire,
 Fera de mon sépulcre un rempart à ma gloire.
 
--*who_trasile
-Quoi donc, si cet hymen qui vous fait tant de peur,
-Était de cet État la force et le bonheur,
-Un bruit trompeur et faux, un bruit que rien ne fonde
-Pourrait-il empêcher le bien de tout le monde ?
-Non, non, votre vertu peut en le choisissant
-Faire juger Arcas de tout crime innocent.
-Comme votre Justice a mérité des Temples,
-Et que tout l'Univers s'en forme des exemples,
-La Reine, dira-t-on, dont l'esprit fut surpris,
-A vu son innocence, et lui donne son prix.
-
--*who_dynamis
 Ou plutôt, dira-t-on pour mon propre supplice,
 L'Amour peut tout corrompre et même la Justice.
 Enfin quand la vertu me viendrait assurer
@@ -341,18 +814,10 @@ Je ne la croirais pas, j'en craindrais un outrage :
 Et croirais que mon coeur par elle combattu
 Aurait juste raison de haïr la vertu.
 
--*who_trasile
-Mais Arcas est puissant, et je crains son absence.
-
--*who_dynamis
 Mais au moins il est homme avecque sa puissance,
 Et quoi qu'il usurpât un Trône et des Autels,
 Au moins mes Ennemis ne sont pas immortels.
 
--*who_trasile
-Quoi voulez-vous sa mort ?
-
--*who_dynamis
       Quoi voulez-vous sa vie ?
 Voulez-vous que mon coeur réponde à son envie ?
 Voulez-vous me montrez que mon frère s'est mis
@@ -370,43 +835,10 @@ Je vous permets ici de m'ôter la Couronne,
 Et vous mériteriez qu'un autre vous l'ôtât
 Si vous ne vengiez pas la honte de l'État.
 
--*who_trasile
-Ô nobles sentiments ! Ha pardonnez, Madame,
-À l'injuste soupçon qui glissa dans mon âme.
-Cette feinte douceur dont vous flattiez Arcas,
-M'avait fait soupçonner un Amour qui n'est pas ;
-Et pour mieux m'éclaircir d'un soupçon si funeste,
-J'ai feint tout le discours que votre âme déteste ;
-Et que pour vous mon coeur qui peut tout défier,
-Même en le concernant détesta le premier.
-Oui, mon esprit confus vous a fait un outrage,
-D'avoir osé douter de votre grand courage :
-Mais pour le réparer, me voilà sans effroi
-Tout prêt à vous venger sur Arcas et sur moi.
-
--*who_dynamis
 C'est par ce sentiment que je connais mon frère.
 
--*who_trasile
-Cependant vous savez ce qu'on ne peut plus taire,
-Que Poliante seul, l'appui de vos États,
-Est pourtant moins aimé que le coupable Arcas.
-On craint, vous le savez, qu'un Royal hyménée
-Ne vous engage enfin sous même destinée.
-Et qu'en un même temps et l'hymen et l'amour
-Chez ce Prince étranger ne transporte la Cour.
-
--*who_dynamis
 Nous y saurons donner les ordres nécessaires.
 
--*who_trasile
-Ô coeurs intéressés ! Ô sujets téméraires !
-Qui vous permettez tout, qui n'avez point de lois,
-Voulez-vous donc en faire aux désirs de vos Rois.
-Ha si vous n'aimiez pas le Prince Poliante,
-Je croirais...
-
--*who_dynamis
       Ne crois rien, je l'aime, et je m'en vante.
 Après son grand secours si je ne l'aime pas,
 Je fais voir une Reine au nombre des ingrats.
@@ -423,39 +855,10 @@ De voir ce que l'on aime avec les yeux de l'âme ;
 Et nous pouvons aimer un Roi si plein d'attraits
 Comme on aime les Dieux que l'on ne voit jamais.
 
--*who_trasile
-Ainsi vous contentez et l'État et vous-mêmes.
-
--*who_dynamis
 Ainsi toujours constant montre moi que tu m'aimes,
 Et crois que je m'estime aussi forte par toi,
 Que par ce grand pouvoir qui fait régner un Roi.
 
--*who_trasile
-Si le zèle et la foi d'une âme obéissante
-Rendent les Rois puissants, que vous êtes puissante !
-
-**** *book_ *id_I03 *act_I *date_1649
-
--*who_trasile
-Vois donc, n'ai-je pas formé qu'un fantôme trompeur,
-Lorsque ce grand dessein se formait dans mon coeur ?
-N'ai-je, par des chemins mal assurés et sombres,
-Comme dans un sommeil poursuivi que des ombres ?
-Il n'importe, avançons ; c'est mon but et mon sort
-Ou d'emporter un Sceptre, ou d'embrasser la mort :
-Aussi bien quand l'esprit pour la gloire s'enflamme,
-Qui vit sans la Grandeur est privé de son âme !
-Suivons ce que la rage a de plus violent,
-Le Trône est toujours beau, quand même il est sanglant.
-Si ce n'est pas assez de faire agir un crime,
-Pour monter aisément à ce degré sublime,
-Nous en commettrons mille, et quand nous régnerons
-Vainqueurs et Souverains, nous nous en absoudrons.
-
-**** *book_ *id_II01 *act_II *date_1649
-
--*who_dynamis
 J'ai vu d'un oeil constant et d'un coeur invincible,
 Tout ce que la fortune avait de plus horrible,
 J'ai vu sans me troubler tout mon État troublé,
@@ -477,91 +880,25 @@ Où se perd ma constance, où se perd mon courage ;
 Et parmi cet effroi mon esprit abattu
 Cherche et ne trouve pas sa première vertu.
 
--*who_poliante
-Si mon bras combattant pour votre seule gloire,
-A pour vous remporté victoire sur victoire,
-Si je vous ai fait voir par un coeur enflammé
-Que le sang qui m'anime est par vous animé,
-Pensez-vous que la paix qui règne en cette terre
-Nous ait fait oublier le métier de la Guerre ?
-Si d'autres ennemis vous viennent sur les bras,
-Commandez-moi de vaincre, et ne vous plaignez pas.
-Il m'est, il m'est honteux et de voir vos alarmes,
-Et de vous ouïr plaindre où reluisent mes armes.
-Que n'obtiendrez-vous pas contre un plus grand tourment
-Et du bras d'un Monarque, et du coeur d'un Amant ?
-
--*who_dynamis
 Tout ; et ce que je crains, c'est que ton grand courage
 Ne soit pas assez fort contre un dernier orage ;
 Et que ton coeur surpris par de nouveaux combats
 Ne puisse supporter un coup qu'il n'attend pas.
 
--*who_poliante
-Je mourrais mille fois avec un oeil tranquille,
-Si mille fois ma mort pouvait vous être utile.
-Me croiriez-vous, Madame, et fort et généreux,
-Si je n'avais aimé que pour me rendre heureux ?
-Croiriez-vous mon amour et grande et véritable,
-Si je puis aimer pour être misérable ?
-Oui, l'Amour qui me dompte et qu'on ne peut dompter,
-Estime les malheurs qui le font éclater ;
-Et comme la Vertu l'Amour est incertaine,
-Sans l'épreuve qu'en fait le péril et la peine.
-Donnez, donnez ce coup.
-
--*who_dynamis
       C'est, c'est, sans te flatter,
 Le dirai-je ?
 
--*who_poliante
-      Achevez.
-
--*who_dynamis
       C'est qu'il faut me quitter.
 
--*who_poliante
-Ô Dieux !
-
--*who_dynamis
       Ne te plains pas, et si je t'abandonne
 Je ressens mieux que toi le coup que je te donne.
 
--*who_poliante
-Vous quitter !
-
--*who_dynamis
       Il le faut.
 
--*who_poliante
-      Et vous m'avez aimé !
-
--*who_dynamis
 Il le faut, et je t'aime.
 
--*who_poliante
-      Ô mot qui m'as charmé !
-Ô mot que j'aurais seul acheté d'un Empire !
-Mais il faut obéir, ma Reine le désire.
-Ainsi sans murmurer contre vos volontés,
-Je quitterai ma gloire et mes félicités :
-Je fuirai de vos yeux, si c'est là votre envie,
-Et si ce n'est assez je fuirai de la vie.
-Heureux de faire voir qu'un Monarque amoureux
-Sait pour vous obéir se rendre malheureux.
-Madame, dès demain.
-
--*who_dynamis
       C'est bientôt se résoudre.
 
--*who_poliante
-Si je devais périr par les flammes du foudre,
-J'irais d'un pas superbe au-devant de ses feux,
-Plutôt que de languir et de faire des voeux ;
-Et si je ne pouvais éviter mon naufrage,
-Mon naufrage du moins ferait voir mon courage.
-
--*who_dynamis
 C'est bientôt se résoudre à cette dure loi ;
 Un coeur n'est pas si fort, quand l'Amour est son Roi ;
 Et l'Amour n'est pas grand et n'est jamais extrême,
@@ -589,45 +926,6 @@ Au moins si nous aimons, on nous aime, on nous aime ;
 Enfin j'adoucirai des maux si rigoureux,
 En me disant au moins ce que j'aime est heureux.
 
--*who_poliante
-Ha ne me faites point par cet oeil en colère
-Le reproche cruel que je pourrais vous faire.
-Lequel brûle aujourd'hui d'un feu plus véhément
-Ou celle dont la voix a banni son Amant ?
-Ou l'Amant qui fait voir par son obéissance,
-Qu'il veut vivre et mourir sous la même puissance ?
-Oui, je vous ai fait voir un rayon apparent
-D'un esprit peu sensible et presque indifférent ;
-Mais j'ai cru vous laisser par cette indifférence
-D'un amour véritable une ferme assurance.
-Ainsi par votre amour ayant bien pu juger
-Que mon éloignement vous devait affliger,
-J'ai feint d'être insensible aux douleurs de ma Reine,
-Pour vous donner sujet de me quitter sans peine,
-Et pour emporter seul parmi tant de rigueurs
-Et l'ardeur de deux feux, et le mal de deux coeurs.
-Mais devant tant d'attraits cette feinte s'efface,
-Et n'est contre un grand feu qu'un obstacle de glace.
-Je le vois, je le sens, je l'éprouve à mon tour,
-Qu'on ne peut longtemps feindre avec beaucoup d'amour,
-Et que si cette feinte offense ce qu'on aime,
-Celui qui la produit, en est blessé lui-même.
-Mais pardonnez, Madame, à mon ressentiment,
-Mon Amour est trop fort pour marcher règlement,
-Il quitte la raison qui lui servait de phare,
-Il se conduit lui-même, et sans doute il s'égare,
-Il s'emporte, il m'emporte, et demande pourquoi
-Une Reine refuse et veut bannir un Roi ?
-Est-ce que vous craignez, ô chère, ô grande Reine,
-De perdre avecque moi le nom de Souveraine ?
-Mais ne serez-vous pas plus Reine que jamais
-Si l'on voit un Monarque au rang de vos sujets ?
-Est-ce, vous le dirai-je, et puis-je vous le dire
-Sans montrer les transports que la fureur inspire ?
-Est-ce que vous croyez contenter vos États,
-En nous abandonnant aux passions d'Arcas ?
-
--*who_dynamis
 Est-ce que vous voulez vous acquérir ma haine
 Par une opinion si honteuse et si vaine ?
 Est-ce pour obliger mon esprit furieux
@@ -635,23 +933,6 @@ Est-ce pour obliger mon esprit furieux
 C'est le plus grand effort du feu qui me dévore,
 D'entendre ce reproche et de brûler encore.
 
--*who_poliante
-Hélas dans ce transport trop indigne du jour,
-La fureur a parlé, mais non pas mon Amour ;
-Et quand même l'Amour aurait commis ce crime,
-Ne mérite-t-il pas un pardon légitime ;
-Puisque malgré le Ciel qui me gêne à mon tour,
-Les crimes de l'Amour sont des marques d'Amour ?
-Faites, faites-moi voir la raison véritable
-Qui bannit de vos yeux un Prince misérable :
-Si votre gloire veut que je quitte les Cieux ;
-C'est-à-dire l'Empire où reluisent vos yeux,
-J'ai le coeur assez fort pour me bannir moi-même,
-Pour aimer sans espoir, pour quitter ce que j'aime ;
-Et quand par cet exil on voudrait m'outrager,
-J'ai même assez d'Amour pour ne me pas venger.
-
--*who_dynamis
 Sache que tes vertus à mon âme si chères,
 T'ont fait dans cet État de secrets adversaires,
 Et que leur cruauté dont je crains les effets,
@@ -663,69 +944,21 @@ De voir et de punir nos secrets ennemis.
 Je les veux découvrir ces pestes de l'Empire.
 Mais que voudrait Proclée, et que veut-elle dire ?
 
-**** *book_ *id_II02 *act_II *date_1649
-
--*who_proclee
-Ha, Madame, il est temps de redouter Arcas ;
-Pour venir jusqu'à vous il n'a qu'à faire un pas.
-
--*who_dynamis
 Comment ! Que dites-vous ?
 
--*who_proclee
-      Tout est rempli d'alarmes,
-Il approche d'ici, mais il approche en armes.
-
--*who_dynamis
 Un bruit faux et trompeur fait ton étonnement,
 Il est sans apparence, il est sans fondement.
 Verrait-on approcher des troupes de rebelles,
 Sans que la renommée en eût dit des nouvelles ?
 
--*who_poliante
-On peut secrètement par quelques conjurés
-À quelque rendez-vous les avoir attirés.
-
--*who_proclee
-C'est ce qu'on dit, madame, et l'on dit davantage,
-Mais le dirai-je ici sans vous faire un outrage ;
-La crainte et le respect semblent m'en empêcher,
-Mais où le mal est grand il ne faut rien cacher.
-On dit qu'Arcas approche, et que l'Amour l'amène
-Les armes à la main par l'aveu de la Reine,
-Afin que les efforts de ce Prince insensé
-Excusent votre hymen qui paraîtra forcé.
-
--*who_dynamis
 Ô de tous mes malheurs le plus épouvantable !
 Que peut-on ajouter à ce coup effroyable ?
 
--*who_proclee
-On dit...
-
--*who_dynamis
       Que dirait-on de plus grand ou d'égal ?
 
--*who_proclee
-On achève l'injure, on confirme le mal.
-On dit que sous couleur que la paix renaissante
-Rendait de votre État la face plus riante,
-Vous avez renvoyé le glorieux secours
-Par qui ce Roi puissant rend le calme à nos jours ;
-Mais que c'est en effet par un dessein contraire,
-Pour ôter à l'État un appui nécessaire,
-Pour rendre Arcas plus fort et plus autorisé,
-Et lui tracer au Trône un chemin plus aisé.
-
--*who_dynamis
 Qu'ai-je fait, justes Dieux, et par quelle apparence
 Ai-je mis dans les coeurs cette indigne croyance ?
 
--*who_poliante
-Ne vous affligez point de ces bruits différents,
-Vous avez surmontés des ennemis plus grands.
-
--*who_dynamis
 Non, non, je ne vois rien qui soit plus redoutable,
 L'opinion publique est un monstre indomptable ;
 Les Rois peuvent beaucoup avec leurs légions,
@@ -733,11 +966,6 @@ Mais ils ne peuvent rien sur les opinions,
 Et ne triomphent point de ces monstres infâmes
 Que les bruits faux ou vrais font naître dans les âmes.
 
--*who_poliante
-Vos vertus les vaincront ces bruits injurieux,
-Et j'ai pour vous encor un bras victorieux.
-
--*who_dynamis
 Seigneur, reposez-vous, et laissez-moi la gloire
 De remporter au moins cette seule victoire.
 Ici pour étouffer des bruits trop inhumains,
@@ -745,76 +973,28 @@ Il faut, il faut agir avec mes seules mains ;
 Il faut avec ce bras ou juste ou tyrannique,
 Démentir hautement l'opinion publique.
 
-**** *book_ *id_II03 *act_II *date_1649
-
--*who_proxene
-Qu'a la Reine, Proclée, elle est triste à la voir.
-
--*who_dynamis
 Oui, le traître apprendra ce que peut mon pouvoir ;
 Et qu'une femme seule est toujours assez forte,
 Quand l'amour de l'honneur l'anime et la transporte.
 
-**** *book_ *id_II04 *act_II *date_1649
-
--*who_dynamis
 Mon Frère.
 
--*who_trasile
-      Quoi ? Madame.
-
--*who_dynamis
       Avance-t-il Arcas ?
 Et pour nous enlever marche-t-il sur vos pas ?
 
--*who_trasile
-Il faut auparavant que ses mains inhumaines
-Aient versé tout le sang que vous gardent mes veines.
-Non, non, la passion qui vous le rend suspect,
-N'a pas entièrement étouffé son respect.
-Il paraît seulement pour vous mettre en mémoire,
-Combien à son Amour vous promîtes de gloire ;
-Et qu'il n'espère rien qu'un peu d'affection
-N'ait permis d'espérer à son ambition.
-
--*who_dynamis
 Qu'un peu d'affection...
 
--*who_trasile
-      C'est ce qu'il faut entendre.
-
--*who_dynamis
 Qu'un peu d'affection ne lui fasse prétendre.
 Le traître éprouvera par sa punition
 Ce qu'il peut espérer de cette affection.
 Le traître éprouvera que l'Amour ne l'amène
 Que pour le voir bientôt immoler à ma haine.
 
--*who_trasile
-Arcas n'est pas si fort qu'il puisse faire peur ;
-Mais il faut s'opposer contre un autre malheur.
-Seigneur, il vous regarde. Il est venu nouvelle
-Que votre État en feu se trouble et se rebelle.
-
--*who_poliante
-Ô Dieux ! Que dites-vous ?
-
--*who_dynamis
       J'annonce malgré moi
 Le plus grand des malheurs que doive craindre un Roi.
 
--*who_poliante
-Ce mal n'est pas si grand qu'un faux bruit le veut rendre,
-J'en sais déjà la source et le cours qu'il doit prendre.
-
--*who_dynamis
 Quoi, Seigneur ?
 
--*who_poliante
-      Oui, je sais par des avis certains
-Qu'un tas de mécontents ont fait quelques desseins.
-
--*who_dynamis
 Allez sans différer avec votre présence
 À la rébellion imposer le silence.
 Hâtez-vous, armez-vous de foudres éclatants,
@@ -824,31 +1004,6 @@ La présence des Rois sait aisément l'éteindre.
 Vous savez ce que peut votre bras glorieux,
 Allez donc éprouver ce que peuvent vos yeux.
 
--*who_poliante
-J'ai prévu dès longtemps ce désordre funeste,
-Et le remède est prêt qui vaincra cette peste.
-
--*who_trasile
-Seigneur, votre présence est le meilleur secours
-Qui d'un mal si soudain puisse arrêter le cours.
-Ceux en qui vous avez le plus de confiance,
-Peut-être à ce tumulte ont donné la naissance.
-Que ne peut-on pas craindre en une occasion
-Où la facilité tente l'ambition.
-Un État sans Monarque est un vaisseau qui flotte
-À la merci des vents sans guide et sans Pilote,
-Tout le monde y commande, et l'absence d'un Roi
-Y fait toujours régner le désordre et l'effroi.
-Comment aux bons sujets vous rendrez-vous aimable,
-Comment aux révoltés serez-vous redoutable,
-Si vous laissez trembler un Trône juste et saint ?
-Et par qui l'on vous aime, et par qui l'on vous craint ?
-Mais enfin croiriez-vous qu'une Reine si grande
-N'eût pas les sentiments que l'honneur lui demande ?
-Qu'elle voulût pour soi retenir votre bras
-Lorsque vous le devez au bien de vos États ?
-
--*who_dynamis
 Non, non, à votre bien ma fortune sensible
 Ne veut point d'un secours qui vous serait nuisible,
 Je fuirais de la gloire où je prétends monter,
@@ -858,35 +1013,6 @@ Votre gloire consiste à sauver votre gloire,
 Et le plus beau travail des Monarques parfaits
 C'est d'établir chez eux le repos et la paix.
 
--*who_poliante
-Quand j'aurai fait pour vous, ô Princesse adorable,
-Tout ce que je dois faire en amant véritable,
-Alors déjà vainqueur j'entreprendrai pour moi
-Tout ce que je dois faire en véritable Roi.
-On saura que pour vaincre, et calmer cet orage
-Je suis Roi par la force, amant par le courage,
-Et qu'on porte bien loin la victoire et l'effroi
-Quand le coeur d'un amant pousse le bras d'un Roi ?
-Je n'ai rien fait pour vous qui m'ait pu satisfaire
-Puisqu'à votre grandeur je laisse un adversaire,
-Et la gloire où j'aspire, et que je veux gagner
-Ce n'est pas de régner, c'est de vous voir régner.
-Si je vous laisse en paix, à la main le tonnerre,
-Je trouverai la paix au milieu de la guerre.
-Enfin en étouffant vos rebelles domptés,
-Je commence à dompter mes peuples révoltés.
-Enfin en vous aidant à vaincre vos rebelles,
-Je gagne et du pouvoir, et des forces nouvelles,
-Car le plus grand secours d'un Prince glorieux
-Est d'avoir bien souvent été victorieux.
-Ainsi lorsque vos jours seront devenus calmes,
-Et que je prendrai part à l'honneur de vos palmes,
-Alors mes révoltés sans coeur et sans espoir
-Craindront votre secours autant que mon pouvoir,
-Et cette juste crainte et leur propre impuissance
-Remettront le devoir où régnait l'insolence.
-
--*who_dynamis
 Ce remède est douteux, suivez le plus certain,
 Allez, et paraissez les armes à la main.
 De quelque grand remords qu'une âme soit atteinte
@@ -898,13 +1024,6 @@ Ne me disputez pas l'honneur de me défendre.
 Si l'Amour vous abaisse au rang de mes sujets,
 Rendez obéissance aux ordres que je fais.
 
--*who_poliante
-Oui, j'ai toujours fait gloire, ô Reine incomparable,
-D'être de vos sujets le plus inébranlable ;
-Mais je fais gloire aussi dans un mal si pressant
-D'être pour vous servir le moins obéissant.
-
--*who_dynamis
 Est-ce paraître Roi, qui veut se faire craindre,
 De voir son Trône en flamme et de ne pas l'éteindre !
 Est-ce paraître Roi digne de son bonheur,
@@ -912,11 +1031,6 @@ Que d'écouter l'Amour plutôt que son honneur.
 Ainsi puisque l'Amour nous met tous deux en peine
 Je le chasse avec vous, et je veux votre haine.
 
--*who_poliante
-Ainsi je ferai voir un Amour plus parfait,
-Lorsque je combattrai pour un coeur qui me hait.
-
--*who_dynamis
 Songez, songez au moins qu'il n'est rien sur la terre
 Qui soit plus incertain que le sort de la guerre.
 Si le traître triomphe et de vous et de moi,
@@ -926,13 +1040,6 @@ Il faut qu'en un cercueil je me jette moi-même,
 Voulez-vous que mon sang que mes mains verseront
 Vous accuse du coup que vos yeux pleureront.
 
--*who_poliante
-C'est faire au bon parti de trop grandes injures,
-Que de vous figurer ces tristes aventures.
-On ne perd point sa cause et ses noms glorieux,
-Quand on a le bon droit, et pour Juges les Dieux.
-
--*who_dynamis
 Enfin vous me forcez d'achever un ouvrage
 Qu'un glorieux mépris inspire à mon courage,
 Qui me met à couvert des poursuites d'Arcas,
@@ -962,10 +1069,6 @@ Alors vous emploierez votre illustre courage
 Alors à mon repos j'ajouterai ce bien,
 De sauver votre Sceptre en méprisant le mien.
 
--*who_poliante
-C'est donc pour me chasser que vous...
-
--*who_dynamis
       C'est pour contraindre
 La fortune à gémir, elle qui me fit plaindre.
 Hé quoi ! Si vous m'aimez trouverez-vous mauvais
@@ -973,18 +1076,9 @@ Qu'après tant de travaux je me donne la paix ?
 Enfin de la Grandeur je veux quitter les marques,
 Et vous mettre, mon frère, au nombre des Monarques.
 
--*who_trasile
-Moi ! Madame, non, non, je suis trop satisfait
-Du titre glorieux de fidèle sujet.
-
--*who_dynamis
 Un Prince bon sujet donne une belle marque
 Que s'il avait un Trône il serait bon Monarque.
 
--*who_trasile
-Ha ! Madame, le Sceptre est bien entre vos mains.
-
--*who_dynamis
 Craignez-vous de paraître au rang des Souverains ?
 Craignez-vous les soucis que la Couronne excite ?
 La craignez-vous enfin parce que je la quitte ?
@@ -993,46 +1087,6 @@ Obéis aujourd'hui pour la dernière fois ;
 Que ce commandement que je te fais sans peine,
 Soit enfin le dernier que nous ferons en Reine.
 
--*who_trasile
-Puisque vous le voulez je prendrai ce fardeau,
-Que je trouve déjà plus pesant qu'il n'est beau.
-Nous recevrons un Trône afin de le défendre,
-Et nous le défendrons afin de vous le rendre.
-Oui, je vous le proteste en présence des Dieux,
-Qu'aujourd'hui je n'accepte un Trône glorieux
-Qu'afin de vous le rendre en frère incomparable,
-Par la perte d'Arcas plus puissant et plus stable.
-
--*who_poliante
-Ô frère généreux et digne de sa soeur !
-Lequel, ô justes Dieux, fait voir un plus grand coeur,
-Lequel est plus Illustre, ou bien celle qui donne,
-Ou bien celui qui rend le Sceptre et la Couronne ?
-Ce sont là des vertus que n'inspirent les Cieux
-Qu'à ceux qu'ils veulent mettre au nombre de leurs Dieux.
-Mais que sans y penser je tire d'avantage
-Et de votre action et de votre courage.
-Au moins je ferai voir qu'un Sceptre fortuné
-N'a point produit l'amour que vos yeux m'ont donné.
-Vous quittez vos Grandeurs et votre Diadème,
-Vous quittez un Empire, et pourtant je vous aime.
-Au lieu que mon Amour, dont le vôtre est le bien,
-Souhaite votre Trône, il vous donne le mien.
-Et si quelque ennemi veut murmurer encore
-Contre la pureté du feu qui me dévore,
-Le Trône après mes voeux fera voir à son tour
-Que l'Amour qui le donne est le parfait amour.
-Recevez donc ici le coeur et la Couronne
-Que d'une même main l'Amour même vous donne.
-Souffrez qu'un Roi qui suit la gloire et ses appas,
-Imite votre exemple, et marche sur vos pas ;
-Et pour une alliance et plus noble et plus chère
-Que j'offre ici ma soeur à votre illustre frère.
-
--*who_proxene
-Sa soeur ! Qu'entends-je ?
-
--*who_dynamis
       J'accepte et je reçois
 Ce glorieux présent que me fait un grand Roi.
 Mais puisque par un don si grand et si sublime
@@ -1042,120 +1096,6 @@ Défendre ce grand bien que vous m'avez donné.
 Je n'ai plus rien ici qu'Arcas puisse prétendre,
 Votre Trône est mon Trône, allez donc le défendre.
 
--*who_poliante
-Où me réduisez-vous ?
-
--*who_proxene
-      Elle sort, il la suit.
-
--*who_trasile
-Puis-je de mes desseins espérer plus de fruit ?
-
--*who_proxene
-Il passe sans me voir, et son âme inconstante
-Semble déjà goûter l'offre de Poliante.
-Prends garde, Ambitieux, qu'un Amour irrité
-Ne fasse un précipice à ta prospérité.
-
-**** *book_ *id_III01 *act_III *date_1649
-
--*who_proxene
-Trasile me fuirait ! Moi qui connais son crime,
-Et qui puis aisément en faire ma victime ?
-Mais que ne ferait pas un coeur ambitieux,
-Lorsque l'occasion se présente à ses yeux ?
-Il voit un Sceptre acquis, il croit qu'une alliance
-Confirmera plutôt sa nouvelle puissance,
-Et que je l'aime assez pour voir d'un oeil constant
-Une infidélité qui le rendra content.
-Non, non, si la Couronne à ses yeux adorable
-Est la seule beauté qui lui paraisse aimable,
-Je n'aime en cet ingrat, que je puis dédaigner,
-Que l'illustre désir qui me ferait régner.
-Mais ne nous perdons pas par une aveugle flamme,
-Il faut que Poliante éclaircisse mon âme :
-Il est avec la Reine, il faut l'attendre ici,
-Suspendons nos fureurs, mais enfin le voici.
-Seigneur, il est donc vrai que le Ciel plus facile,
-Redonne à votre État une face tranquille,
-Et qu'un prompt châtiment montre à vos factieux
-Que le parti des Rois est le parti des Dieux ?
-
--*who_poliante
-Oui, le Ciel a pour moi combattu mes rebelles,
-Je viens d'en recevoir les heureuses nouvelles :
-Enfin en s'allumant cette flamme a cessé,
-Et l'orage a fini quand il a commencé.
-Quand Trasile étonné disait que la Lycie
-D'un nuage sanglant était toute obscurcie,
-En ce même moment, qui nous a satisfaits,
-On voyait arriver le Courrier de la Paix.
-
--*who_proxene
-Que mon coeur, qui respecte et chérit votre gloire !
-Prend de part aux douceurs d'une telle victoire.
-Que j'en prévois de biens pour deux puissants États !
-Que j'en prenais de maux pour le cruel Arcas !
-Et si Trasile entend l'offre que vous lui faites,
-Que j'en prévois partout de voluptés parfaites !
-Mais s'il n'acceptait pas ce trésor éclatant,
-Pourrait-il mériter le Trône qui l'attend ?
-Non, non, ce que l'on dit se dit sans apparence.
-
--*who_poliante
-Que dit-on ?
-
--*who_proxene
-      Qu'il se paît d'une vaine constance,
-Et qu'enfin ses esprits autre part arrêtés,
-Refusent le grand bien que vous lui présentez.
-
--*who_poliante
-Que Trasile à ma soeur refuse sa conquête !
-Que dans d'autres liens une autre Amour l'arrête !
-Ce bruit est un trompeur, ce bruit est aussi faux
-Que si je vous disais que les biens sont des maux.
-Ou si Trasile ailleurs a montré quelque zèle,
-Jamais plus librement on ne fut infidèle ;
-Et celle dont l'Amour le flatta vainement,
-Peut dire en vérité qu'elle n'a plus d'Amant.
-Si vous la connaissez, cachez-lui ce mystère,
-De peur qu'en aimant trop elle n'en désespère.
-
--*who_proxene
-Je m'en consolerais, Seigneur, si c'était moi.
-C'est gloire de céder à la soeur d'un grand Roi.
-Trasile se doit plus qu'aux yeux de la plus belle ;
-Serait-il Prince enfin s'il était si fidèle ?
-La constance n'est pas en cette occasion
-La vertu des Amants de sa condition.
-
--*who_poliante
-Quoi vous prenez parti ?
-
--*who_proxene
-      Non, non, ou l'on doit croire
-Que je prends le parti de votre seule gloire
-
--*who_poliante
-Ainsi vous ajoutez d'autres biens à mes biens.
-Vous allez chez la Reine ?
-
--*who_proxene
-      Oui, Seigneur.
-
--*who_poliante
-      J'en reviens.
-
--*who_proxene
-Céderai-je au transport qu'excite la colère ?
-Mais j'aperçois la soeur, il faut revoir le frère ;
-Et si ce frère ingrat me montre un lâche coeur,
-Alors pour me venger je reverrai la soeur.
-
-**** *book_ *id_III02 *act_III *date_1649
-
--*who_dynamis
 À quelle extrémité me suis-je destinée ?
 Vouloir abandonner un Trône où je suis née ;
 Vouloir sortir du rang et du nombre des Dieux,
@@ -1213,23 +1153,11 @@ Il faut que mon Amour même gloire lui donne.
 Ici l'orgueil est juste ; et l'Amour et ses feux
 Sont indignes de moi, s'ils ne sont orgueilleux.
 
-**** *book_ *id_III03 *act_III *date_1649
-
--*who_dynamis
 Mon frère, j'ai d'un oeil qu'éclaire la prudence
 Du dessein que j'ai fait regardé l'importance.
 Je vois bien qu'il est grand, illustre et généreux,
 Et qu'en nous dépouillant il nous rend bien heureux.
 
--*who_trasile
-Ainsi votre repos, comme celui des Sages,
-Ne sera point troublé ni sujet aux orages,
-Et vous ne perdrez pas le pouvoir souverain,
-Puisqu'il sera pour vous redoutable en ma main,
-Puisque je n'emploierai la force qu'il me donne
-Que pour vous élever plus haut que la Couronne.
-
--*who_dynamis
 Enfin de quelque espoir qu'on se puisse flatter,
 La Couronne a des maux qu'on ne peut éviter ;
 Plus grand est le repos, plus grande est la conquête
@@ -1257,15 +1185,6 @@ Je croirai justement te montrer que je t'aime :
 Car enfin si le Trône est quelquefois un bien,
 C'est quand il est tranquille, et qu'il ne craint plus rien.
 
--*who_trasile
-Vous me donner bien plus en gardant la Couronne.
-Que quand votre faveur me l'offre et me la donne.
-La générosité vous la faisait céder,
-La générosité vous la fera garder ;
-Et je venais ici poussé d'un zèle extrême,
-Vous donner le conseil qui vous vient de vous-même.
-
--*who_dynamis
 Ainsi puisque les Rois, seuls Juges souverains,
 Tiennent comme les Dieux la Justice en leurs mains,
 Je condamne à la mort ce Prince détestable,
@@ -1277,18 +1196,8 @@ En obtiendra des prix égaux à sa conquête.
 Le sang d'un Ennemi de l'État et des Lois,
 Est le plus beau présent qu'on puisse faire aux Rois.
 
--*who_trasile
-Mais il fait demander, et je viens de l'apprendre,
-Si par ses Députés vous le voulez entendre.
-Il faudrait l'écouter.
-
--*who_dynamis
       L'écouter ?
 
--*who_trasile
-      Je le crois.
-
--*who_dynamis
 Il faudrait l'écouter ! Vous fait-il de l'effroi ?
 Qu'il vienne en criminel qui demande sa grâce,
 Que son remords l'amène, et non pas son audace,
@@ -1313,205 +1222,8 @@ Et s'il faut l'écouter, qu'on l'amène enchaîné.
 Enfin si vous m'aimez en véritable frère,
 L'amitié vous apprend ce que vous devez faire.
 
-**** *book_ *id_III04 *act_III *date_1649
-
--*who_trasile
-Mais, ô trop inhumaine et trop cruelle soeur,
-L'amitié t'apprend-t-elle à me percer le coeur ?
-L'amitié t'apprend-t-elle à montrer ta puissance,
-En me rendant le but de ta folle inconstance.
-Et crois-tu que l'on offre un Sceptre plein d'appas
-Sans donner de la haine en ne le donnant pas ?
-Non, non, tu n'as rien fait par cet exploit auguste,
-Que rendre ma fureur et ma haine plus juste.
-Je poursuivais sans droit le Sceptre et le pouvoir,
-Avant que ton erreur m'en eût donné l'espoir,
-Maintenant quelque mal que le destin me livre,
-Tu me les as donné, j'ai droit de les poursuivre.
-Tu m'as donné le Trône, enfin il m'appartient,
-Et j'ai le droit de l'ôter à qui me le retient.
-Et si mon entreprise était hier un crime,
-Toi-même maintenant tu la rends légitime,
-Tu me permets d'armer mon bras autorisé,
-Et de n'attendre pas d'être encor abusé.
-Le Sceptre est de ces biens qu'on ne saurait attendre,
-Et lorsqu'on le promet, on enseigne à le prendre.
-Quoi, parce qu'une soeur qu'aveugle trop d'Amour,
-A reçu devant moi la lumière du jour,
-Il faut que la Nature, il faut que la naissance
-Ait mis entre ses mains la suprême puissance ?
-Non, non, c'est une erreur que nous condamnerons :
-La Nature a failli, nous la corrigerons.
-Ce fut moi qu'en sa place elle crût faire naître,
-Et le Sceptre en mes mains le fera reconnaître.
-Je sais que mes desseins jusqu'ici ruinés
-Rendraient les plus hardis maintenant étonnés.
-Mais il n'importe ; ayons la Fortune cruelle,
-La Couronne vaut bien que l'on souffre pour elle ;
-Et nous ferons agir tant de crimes secrets,
-Que peut-être quelqu'un aura quelque succès.
-
-**** *book_ *id_III05 *act_III *date_1649
-
--*who_proxene
-Enfin sans de grands maux vous obtenez la gloire
-Que donne rarement la force et la victoire ;
-Et j'offrirai du moins la première à mon Roi,
-Et mon obéissance, et mon coeur et ma foi.
-Si je ne puis avoir un plus noble partage,
-Je me contenterai de ce seul avantage :
-Mais comme d'un objet qui serait odieux,
-Il détourne de nous et l'oreille et les yeux.
-
--*who_trasile
-Non, je n'épargnerai ni le sang ni la peine.
-
--*who_proxene
-Il ne faut plus douter d'une chose certaine.
-Je n'ai donc plus d'appas, ni Trasile de foi ;
-J'aurais donc des beautés si j'étais soeur d'un Roi ?
-Ne nous regardez plus, vous faites bien, Trasile,
-L'Amour a plus d'attraits quand il est plus utile.
-Vous feriez une injure au pouvoir souverain,
-S'il ne vous rendait pas si superbe et si vain.
-Et de quelque mépris que vous donniez des marques,
-J'excuse cet orgueil en de nouveaux Monarques.
-
--*who_trasile
-Venez-vous donc, cruelle, au lieu de m'assister,
-Aider à la fortune à me persécuter ?
-
--*who_proxene
-Vous plaignez-vous déjà que la Couronne pèse ?
-Que l'on n'est pas assis sur un Trône à son aise ?
-Et que le plus beau Sceptre aux yeux de l'Univers,
-N'est qu'un arbre fertile en fruits toujours amers ?
-Attendez à former cette plainte commune,
-Que vous ayez du Trône éprouvé la Fortune.
-Ce n'est pas mériter pour prix de ses travaux,
-La gloire d'être Roi, que d'en craindre les maux.
-
--*who_trasile
-Est-ce haine, risée, ou plutôt jalousie ?
-
--*who_proxene
-C'est, si vous le voulez, c'est une frénésie,
-Mais...
-
--*who_trasile
-      Mais écoutez-moi...
-
--*who_proxene
-      Plus vous me parlerez,
-Esprit ambitieux, plus vous me tromperez,
-Voulez-vous excusez une âme criminelle,
-Moi-même en sa faveur j'excuse un infidèle ?
-Le Sceptre vaut bien peu quand il est présenté,
-S'il ne vaut pas qu'on fasse une infidélité.
-Allez, allez, ingrat, jouissez de vos crimes,
-N'ayez jamais de biens ni d'honneurs légitimes
-Mais sachez qu'un méchant ne doit pas outrager
-Quiconque sait son crime, et qui peut se venger.
-
-**** *book_ *id_III06 *act_III *date_1649
-
--*who_trasile
-Quoi, tu m'as menacé ? Mais parmi ces disgrâces,
-Tu m'apprends à te perdre alors que tu menaces.
-Ô Dieux, qui m'inspirez ces desseins glorieux,
-Fallait-il que j'aimasse étant ambitieux ?
-Ou ne savais-je pas, ambitieux infâme,
-Que des secrets sont mal dans l'esprit d'une femme ?
-Et que l'ambition doit garder cette loi,
-De haïr tout le monde et de n'aimer que soi ?
-Dois-je par ma ruine aujourd'hui reconnaître
-Qu'en recevant l'Amour je recevais un traître ?
-Et de ce lâche coeur prit-il possession
-Pour être le bourreau de mon ambition ?
-Ta fureur me menace, orgueilleuse Proxène,
-Mais hâte ma ruine, ou ta perte est prochaine.
-J'ai perdu cet Amour qui serait ton appui,
-Et je puis aisément te perdre avecque lui.
-Non, non, ne songeons plus que nous l'avons aimée,
-Et que peut-être encor notre âme en est charmée ;
-Mais regardons enfin et le gouffre et l'horreur
-Où peut nous faire choir sa fatale fureur.
-Quoi qu'elle me promette, et que je puisse feindre,
-Elle sait mes desseins, elle est toujours à craindre :
-Par une prompte mort il faut m'en délivrer,
-Ce destin est cruel, mais il doit m'assurer.
-Tirons des grands forfaits ce qu'on peut s'en promettre ;
-Ne nous ruinons pas par la peur d'en commettre.
-Quiconque voulant vaincre ou voulant se venger,
-N'est qu'à demi méchant, est toujours en danger.
-Et d'où vient si souvent que tant de grands courages
-Ont fait dans leurs desseins de funestes naufrages ?
-C'est que leurs coeurs craintifs à la pitié penchants,
-N'osent être une fois entièrement méchants.
-Mais je vois repasser la cruelle Proxène,
-Elle prend son chemin pour aller chez la Reine.
-Destins, que dois-je attendre ? Est-ce ici le moment
-Où mon ambition doit choir au monument ?
-Non, non, dégageons-nous de ce profond abîme,
-Et sauvons-nous enfin d'un crime par un crime.
-
-**** *book_ *id_III07 *act_III *date_1649
-
--*who_proclee
-Seigneur, où courez-vous ?
-
--*who_trasile
-      Chez la Reine.
-
--*who_proclee
-      Je crois
-Que vous devez attendre.
-
--*who_trasile
-      Attendre, attendre, moi !
-En sais-tu le sujet ?
-
--*who_proclee
-      Quelqu'un en diligence
-Est venu pour lui dire un secret d'importance.
-
--*who_trasile
-Qui donc ? Est-ce Proxène ? Ô dieux !
-
--*who_proclee
-      Je n'en sais rien.
-
--*who_trasile
-Que ferai-je ?
-
--*who_proclee
-      Qu'a-t-il ?
-
--*who_trasile
-      Rompons leur entretien.
-
--*who_proclee
-Seigneur, pour mieux savoir ce qu'on est venu dire,
-La Reine a commandé que chacun se retire.
-
--*who_trasile
-Et que je n'entre point ? Non, non, mais avançons.
-
--*who_proclee
-Ô Dieux, qu'il est troublé !
-
--*who_trasile
-      Vainquons, ou périssons.
-
-**** *book_ *id_III08 *act_III *date_1649
-
--*who_dynamis
 Ha mon frère ! Ha Proclée ! Ha que viens-je d'apprendre ?
 
--*who_trasile
-Quoi donc ?
-
--*who_dynamis
       Un si grand mal, qu'on ne peut le comprendre ;
 Un attentat si lâche, et si prodigieux,
 Qu'il fait trembler la Terre, et fait frémir les Cieux.
@@ -1520,118 +1232,26 @@ Que le crime se mêle où l'on aime la gloire.
 Poliante, dit-on, hélas le croirez-vous ?
 Est le lâche assassin du feu Roi mon époux.
 
--*who_trasile
-Poliante !
-
--*who_dynamis
       C'est là ce qu'on vient de me dire.
 
--*who_trasile
-Ô Dieux, qui le croirait !
-
--*who_dynamis
       À la fin je respire.
 Mais de qui tenez-vous ce rapport odieux ?
 
--*who_trasile
-D'un homme en qui l'on voit la Justice des Dieux,
-D'un fidèle sujet, bref du vieux Euristène,
-Qu'on a cru longtemps mort, mais dites qu'on l'amène.
-J'ai le coeur si pressé du coup que je reçois,
-Qu'il me refuse ici la parole et la voix.
-
-**** *book_ *id_III09 *act_III *date_1649
-
--*who_dynamis
 Faites, faites encor ce rapport effroyable,
 Qui semble trop affreux, pour être véritable.
 
--*who_euristene
-C'est exciter la haine et l'attirer sur moi,
-De parler sans témoins contre un si puissant Roi ;
-Mais c'est me rendre aussi justement détestable,
-De laisser l'innocent apparemment coupable.
-Arcas, sorti des Rois vos illustres aïeux,
-A paru trop longtemps criminel à vos yeux ;
-Et c'est à mon avis gagner une victoire,
-De rendre à l'innocent son estime et sa gloire.
-Je ne vous dirai point qu'après un long effroi,
-L'on perdit la bataille, où demeura le Roi ;
-Que le mal fut si grand et la déroute telle,
-Que jamais le Soleil n'en vit de plus cruelle,
-Tout le monde oublia son courage et son coeur,
-Et chacun prit la fuite où le poussa la peur.
-Pour moi, voyant mon sang couler de cent blessures,
-Et de tous les côtés de tristes aventures,
-Je gagnai de grands bois, où chancelant d'abord,
-Parmi quelques buissons je tombai comme mort.
-Si j'y fus bien longtemps, je ne saurais le dire ;
-Remarque-t-on le temps au point que l'on expire ?
-Mais enfin un grand cri qui perça tout ce bois,
-Rappelant mes esprits, me tira des abois.
-Je lève un peu la tête ; à peine puis-je croire
-Ce que me montre ici ma funeste mémoire,
-Ainsi qu'à peine alors pus-je croire mes yeux
-D'un acte si cruel et si prodigieux.
-Je levai donc la tête, et je vis Poliante
-Le visage enflammé, la main toute sanglante,
-Qui retirait du corps du Roi mourant ou mort
-Un poignard effroyable avec un grand effort.
-
--*who_trasile
-Il est vrai, qu'on trouva sur son corps déplorable
-L'instrument de sa mort, ce poignard effroyable.
-
--*who_euristene
-À ce spectacle affreux et si plein de fureur,
-Je tombe en même temps de faiblesse et d'horreur ;
-Je voulus m'écrier, mais la douleur pressante,
-Ou bien plutôt le Ciel retint ma voix mourante,
-De peur que l'assassin, venant à m'aviser,
-Ne perdit le témoin qui pouvait l'accuser.
-
--*who_trasile
-Mais pourquoi sachant bien le poids de cette affaire,
-Avez-vous fait si tard ce rapport nécessaire ?
-
--*who_euristene
-C'est que jusqu'ici le destin a permis
-Que je sois demeuré parmi les Ennemis :
-Car m'ayant rencontré, ces cruels m'entraînèrent,
-Et dans la servitude ils me précipitèrent.
-Ainsi sans voir depuis que le Ciel et les eaux,
-J'ai toujours avec eux vogué sur leurs vaisseaux,
-Esclave malheureux, que la fortune adverse
-Loin du monde habité priva de tout commerce.
-
--*who_dynamis
 Ô Dieux, qui le peut croire, et ne s'emporter pas !
 
--*who_trasile
-Enfin vous connaissez l'innocence d'Arcas.
-
--*who_dynamis
 Qu'on tienne tout secret, et qu'on garde Euristène,
 Ici tout m'épouvante, et tout me met en peine.
 Mais le temps n'est pas loin qu'il faut entendre ceux
 Que les Grands de l'État m'ont députés pour eux.
 Je dois m'y disposer.
 
--*who_trasile
-      Voulez-vous les entendre.
-
--*who_dynamis
 S'ils ont de bons conseils je suis prête à les prendre.
 
--*who_trasile
-Vous avez refusé d'entendre ceux d'Arcas.
-
--*who_dynamis
 J'écoute qui me plaît, et ne m'en parlez pas.
 
-**** *book_ *id_IV01 *act_IV *date_1649
-
--*who_dynamis
 Un frère me trahir ! Relevez-vous, Proxène,
 Passez, et demeurez dans la chambre prochaine.
 Philon, et vous Ligdame, allez tout de ce pas
@@ -1668,47 +1288,16 @@ Et par qui trahissant moi-même mon estime,
 J'allais faire régner le coupable et le crime.
 Cachons ce nouveau mal. Hé bien, ces députés.
 
-**** *book_ *id_IV02 *act_IV *date_1649
-
--*who_proclee
-Ils n'attendent la loi que de vos volontés.
-
--*who_dynamis
 Qu'ils attendent mon frère, ô Dieux quelle surprise !
 
--*who_proclee
-À des maux incertains vous donnez trop de prise,
-Vous avez trop tôt cru ce rapport odieux,
-Qu'a peut-être inventé le crime ingénieux.
-
--*who_dynamis
 Mais Euristène a vu.
 
--*who_proclee
-      Mais ce même Euristène,
-Aux passions d'Arcas peut bien prêter sa haine.
-
--*who_dynamis
 Euristène si sage, et dont la probité
 Passe facilement jusqu'à la sainteté.
 
--*who_proclee
-Ce n'est pas le premier dont la sainte apparence,
-A caché l'attentat sous un front d'innocence.
-Ce qu'on voit de plus pur se corrompt à son tour :
-Enfin j'ai toujours peur de tous ces saints de Cour ;
-Et je crois que celui qui me fait bonne mine,
-De l'esprit et du coeur me perd et m'assassine.
-
--*who_dynamis
 Quoi ! Tu croirais qu'Arcas déjà presque abattu,
 Aurait osé tenter une telle vertu ?
 
--*who_proclee
-Aurait-il employé pour cette perfidie,
-Un méchant qu'on connaît, et dont on se défie ?
-
--*who_dynamis
 Déjà cette pensée a flatté mon Amour.
 Mais hélas ! D'autres maux veulent paraître au jour ;
 Et je ne saurais dire en ce sort lamentable,
@@ -1719,73 +1308,12 @@ Et quand j'ai traversé mille et mille supplices,
 Ce n'est que pour tomber dans d'autres précipices.
 Mais le voici le traître.
 
--*who_proclee
-      Ô Dieux, qu'ai-je entendu ?
-
-**** *book_ *id_IV03 *act_IV *date_1649
-
--*who_dynamis
 Enfin les Députés ont assez attendu.
 
--*who_trasile
-Ici votre conseil est je crois nécessaire.
-
--*who_dynamis
 Mon Conseil songe ailleurs aux choses qu'il doit faire.
 Qu'ils entrent. Prenez place. Il faut les écouter,
 Et suivre leurs conseils, s'ils peuvent profiter.
 
-**** *book_ *id_IV04 *act_IV *date_1649
-
--*who_deputes
-Ce n'est point l'intérêt, ce Tyran indomptable,
-Qui nous a fait paraître en ce lieu vénérable,
-Nous y venons pour vous, et poussés d'une ardeur
-Qui n'a jamais brûlé que pour votre Grandeur.
-Il court un mauvais bruit dans la Ville animée,
-Et ce grand bruit n'en veut qu'à votre renommée.
-Il fait croire qu'Arcas, par votre ordre attiré,
-Vient recevoir de vous un Sceptre désiré ;
-Que vous voulez paraître en un danger extrême
-Contrainte à lui céder et le Trône et vous-même ;
-Et que pour étonner les timides esprits,
-Vous avez bien voulu que l'on en fût surpris.
-Ce bruit est faux, Madame, et les Dieux équitables
-En foudroieront bientôt les Auteurs détestables.
-Enfin dans ce désordre on a tenté nos coeurs :
-Pour armer contre vous nos mains et nos fureurs,
-Pour vous donner, Seigneur, la Grandeur souveraine ;
-Mais vous êtes bon frère, et nous aimons la Reine.
-Commencez donc ici par votre jugement
-Du criminel Arcas le juste châtiment.
-La haine de l'État justement découverte,
-Vous demande par nous et sa tête et sa perte,
-Non pas pour satisfaire à notre aversion,
-Mais pour vous assurer par sa punition.
-Si votre coeur surpris lui cédait la victoire,
-Nous saurions malgré nous conserver votre gloire ;
-Nous vengerions le Roi contre tant d'attentats,
-Et dessus son sépulcre immolerions Arcas.
-Que si comme d'un faix votre main était lasse
-De porter toute seule un Sceptre qu'on menace,
-Le Roi des Lyciens, Poliante amoureux,
-Ce Prince renommé, ce Prince généreux,
-Est seul de tous les Rois que la gloire environne,
-Digne de vous aider à porter la Couronne.
-Enfin nous demandons pour tous nos Souverains,
-Que votre autorité soit en vos seules mains ;
-Que de votre Conseil vous éloigniez des traîtres,
-Qui se rendent déjà nos Tyrans et vos Maîtres ;
-Et qui d'un traître encor se déclarant l'appui,
-Font voir leur trahison en vous parlant pour lui.
-Ainsi vos bons sujets demeureront fidèles ;
-Ainsi vous ôterez le prétexte aux rebelles.
-Enfin voilà notre ordre. À ces conditions,
-Espérez nos respects et nos soumissions.
-Nous parlons librement, votre bien nous y porte ;
-Et quand le zèle est grand, il parle de la sorte.
-
--*who_dynamis
 J'aime la liberté d'un zèle généreux,
 Et les sages conseils rendent les Rois heureux.
 Je considérerai vos avis salutaires,
@@ -1793,35 +1321,6 @@ Je sauverai l'honneur du Trône de mes pères ;
 Et quoi que je résolve, ou la guerre ou la paix,
 J'aurai toujours pour but le bien de mes sujets.
 
-**** *book_ *id_IV05 *act_IV *date_1649
-
--*who_trasile
-Madame excusez-moi si je romps le silence :
-Peut-on s'imaginer une telle insolence ?
-Hé Quoi, souffrirez-vous que leur témérité
-Vienne imposer des lois à votre autorité ?
-Que vos propres sujets pour les biens qu'ils reçoivent
-Composent avec vous des devoirs qu'ils vous doivent ?
-Espérez, disent-ils, à ces conditions,
-Espérez nos respects et nos soumissions.
-N'est-ce pas faire voir leur criminelle audace,
-Et jusque sur le Trône apporter la menace ?
-Quoi, si vous ne suivez les orgueilleuses lois
-Qu'ils donnent à leur Reine, et qu'ils vous font en Rois,
-Ils vous refuseront la juste obéissance
-Que leur condition doit à votre naissance ?
-Espérez, disent-ils, à ces conditions,
-Espérez nos respects et nos soumissions.
-Il faut, il faut punir cette audace fatale,
-Qui blesse presque à mort l'autorité Royale.
-C'est cette autorité qui fait fleurir les lois,
-Et pour la maintenir tout est permis aux Rois.
-Quand même des sujets, dont l'audace est si grande,
-Donneraient le conseil que la gloire demande,
-Si c'est avec orgueil qu'ils viennent l'apporter,
-Un Roi pour son honneur ne doit pas l'écouter.
-
--*who_dynamis
 Vous me feriez régner par d'étranges maximes.
 Nous laissons aux Tyrans les fureurs et les crimes.
 Si les Rois rebutaient tous les libres discours,
@@ -1835,55 +1334,17 @@ Et régner par les lois que vous avez prescrites,
 Il faut vous avouer ce que je reconnais,
 Qu'en vous nommant pour Roi je fis un mauvais choix.
 
--*who_trasile
-Je reçois toutefois, et j'estime et j'approuve
-Un salutaire avis partout où je le trouve,
-Et je ne prétends pas en ennemi des lois,
-Fermer aux bons conseils les oreilles des Rois.
-Mais en domptant l'orgueil avec une menace,
-Il faut montrer à ceux qui font voir de l'audace
-Que nous exécutons les Conseils généreux
-Comme venant de nous, non comme venant d'eux.
-Ainsi j'approuverais qu'une Amour éclatante
-Joignit vos grands États à ceux de Poliante
-
--*who_dynamis
 Ce Prince parricide ! À qui votre courroux
 Peut enfin demander le sang de mon époux ?
 
--*who_trasile
-Qui l'accuse, Madame ? Un seul homme, peut-être
-Gagné par un peu d'or, qui s'est rendu son maître.
-Un seul homme l'accuse ; et de ce grand trépas
-L'univers tout entier vient accuser Arcas.
-
--*who_dynamis
 Mais ce seul homme a vu cette action si noire,
 Que l'Univers entier se contente de croire.
 
--*who_trasile
-Bientôt si vous voulez, sans bruit, sans passion,
-Personne n'aura vu cette noire action.
-
--*who_dynamis
 Je sais punir le crime, et l'on n'est pas coupable
 Pour avoir vu commettre un crime détestable.
 
--*who_trasile
-Il l'est, il l'est assez, de blesser votre espoir,
-Et d'avoir vu le mal qu'il ne devait pas voir.
-
--*who_dynamis
 Quoi vous me conseillez l'hymen de Poliante ?
 
--*who_trasile
-Régnez, régnez, Madame, et vous rendez contente.
-Oui, je vous le conseille, et que sert de régner,
-Si l'on n'ose l'apprendre, et se le témoigner ?
-Suivez enfin les lois que l'Amour vous peut faire.
-Le plus beau fruit du Sceptre est de se satisfaire.
-
--*who_dynamis
 Ha cruel ! Ha méchant ! Indigne d'une soeur
 Qui vous a jusqu'ici montré trop de douceur.
 Non, je ne doute plus de tant de barbaries
@@ -1899,59 +1360,27 @@ Et qu'il faut pour ton bien que j'aime un parricide.
 C'est qu'il faut que mon crime abattant mes appuis
 Serve aux tiens de degré pour monter où je suis.
 
--*who_trasile
-Moi, j'aurais ces desseins ? Le sang et la Nature
-Me défendent assez contre cette imposture.
-
--*who_dynamis
 La Nature et le sang par vos crimes confus,
 S'étonnent de se voir jusques-là corrompus.
 Oui, méchant, je sais tout.
 
--*who_trasile
-      Que savez-vous, Madame.
-
--*who_dynamis
 Le voulez-vous savoir, regardez dans votre âme.
 
--*who_trasile
-Elle est pleine pour vous et de zèle et de foi.
-
--*who_dynamis
 Il faut s'en éclaircir, et pour vous et pour moi.
 
--*who_trasile
-Je ne crains rien, Madame, à quoi que l'on m'expose.
-
--*who_dynamis
 Et moi j'apprends de vous à craindre toute chose.
 
--*who_trasile
-Vous reprendrez bientôt un meilleur sentiment.
-
--*who_dynamis
 Cependant demeurez dans cet appartement,
 Et pour vous témoignez à quel point je vous aime,
 Ici vous répondrez vous-même de vous-même.
 
--*who_trasile
-Il vous faut obéir, mais c'est me traiter mal.
-
--*who_dynamis
 Un autre ferait pis en un péril égal.
 
--*who_trasile
-Est-il en sûreté ?
-
--*who_dynamis
       Ne crains pas le contraire,
 L'ordre est déjà donné de ce que l'on doit faire.
 Enfin pour m'assurer dans ces maux infinis,
 Donne Proxène en garde à la sage Argénis.
 
-**** *book_ *id_IV06 *act_IV *date_1649
-
--*who_dynamis
 Hélas jusqu'à quel point mon malheur est extrême,
 Que s'il faut me venger, c'est sur tout ce que j'aime ;
 Et si ce faible coeur n'ose pas se venger,
@@ -2000,9 +1429,499 @@ Mais devons-nous croire tout, et nous tromper nous-même ?
 Mais que ne croit-on pas, quand on craint et qu'on aime ?
 Hélas ! Mais je le vois.
 
-**** *book_ *id_IV07 *act_IV *date_1649
+Ô prince ! Ô Dieux témoins d'un acte si perfide,
+Oui je crains de punir un Prince parricide.
 
--*who_poliante
+Par les charmes puissants de cette vertu même,
+Par qui vous me gagnez, et par qui je vous aime.
+Mais pour ne rien cacher parmi de si grands coups,
+Si ce qu'on dit est vrai, ce coupable c'est vous.
+
+      Le crime étant fait, étant irrévocable,
+Je voudrais pour le moins qu'un autre en fût coupable.
+Enfin l'on vous a vu le poignard à la main,
+D'un Roi votre allié tirer l'âme du sein.
+
+Pourquoi donc jusqu'ici, comme l'on cache un crime,
+Nous avez-vous caché cet acte légitime.
+
+L'on n'en a pas plus dit, mais on en croira plus.
+Et je crois cependant que pour sauver ma gloire
+Je dois sur mon amour obtenir la victoire.
+
+      Hélas pour notre bien
+De peur de me tromper je ne veux croire rien.
+Mais je dois regarder du Trône où je soupire,
+Ce que tout l'Univers et peut croire et peut dire.
+Si ce fameux Arcas qu'on déteste aujourd'hui,
+Disait autant que vous, que croiriez-vous de lui ?
+S'il confessait la fin d'un crime si funeste,
+Répondez en un mot, que croiriez-vous du reste ?
+Il aime, et vous aimez, et l'Amour en tous deux
+Pourrait être suspect d'un crime si honteux.
+
+Ha Prince, si ma bouche était jamais contrainte
+De donner à ton coeur cette mortelle atteinte,
+Le mien premier blessé périrait le premier,
+Et pour le moins l'Amour y mourrait le dernier.
+Mais si cette amitié de ma gloire ennemie,
+Ne peut s'entretenir qu'avec mon infamie,
+Moins sensible à l'honneur qu'à l'ardeur de tes feux,
+Voudrais-tu que j'aimasse où l'amour est honteux ?
+Serait-ce pas me dire en ta fureur extrême,
+J'ai fait un parricide à dessein que l'on m'aime ?
+Car qui veut être aimé quand l'honneur le défend,
+Ferait pour être aimé ce que le crime apprend.
+
+Tu demandes ma haine, et parmi nos combats
+S'il fallait la donner, je ne le pourrais pas.
+Mais s'il fallait sur toi punir un si grand crime,
+Je le pourrais enfin pour sauver mon estime ;
+Et je me vengerais d'un Prince souverain,
+L'Amour dedans le coeur, et la haine en la main.
+
+Ne fais rien pour un coeur peut être envenimé
+Qui ne sait plus s'il t'aime, et s'il t'a bien aimé.
+S'il faut haïr un jour ton bras et ton courage,
+Ne fais rien qui m'oblige à t'aimer davantage.
+
+Et moi qu'il fait souffrir, je crains de le trouver.
+
+Il me quitte, il s'enfuit, ô Dieux que va-t-il faire ?
+Va-t-il à son supplice, ou bien à son salaire ?
+Et doit-il être enfin dans cet événement
+Ou justement vainqueur, ou vaincu justement ?
+J'ai cru que son discours ferait cesser la peine
+Qu'a fait naître en mon coeur le rapport d'Euristène ;
+Et son discours, fatal à mon contentement,
+Confirme avec horreur ma haine et mon tourment.
+Si je crois l'apparence, il est digne du foudre :
+Si je crois l'apparence, il faut aussi l'absoudre :
+Et de quelque côté que se tournent mes voeux,
+L'innocence est suspecte, et le crime est douteux.
+Voyant presque ta main de ce meurtre sanglante,
+Puis-je t'aimer encor, malheureux Poliante ?
+Et dois-je encor haïr par un Arrêt fatal,
+Arcas, presque purgé par son propre rival ?
+Ô Dieux ! Qui doit avoir ou le prix ou la peine ?
+Montrez où doit aller mon Amour ou ma haine,
+Et ne permettez pas que mon coeur innocent,
+Fasse un crime en aimant ou bien en haïssant.
+Mais mon esprit troublé ne sait ce qu'il demande,
+Je demande du jour, c'est ce que j'appréhende.
+À quelles passions devons-nous obéir ?
+Ici je crains d'aimer, et je crains de haïr ;
+Je n'ose demander dans des nuits si funèbres,
+Qu'un peu plus de clarté dissipe mes ténèbres ;
+Et c'est à mon esprit, de ses flammes honteux,
+Une espèce de bien de demeurer douteux.
+
+      Je veux me satisfaire.
+Allez dire à Phorbas qu'il amène mon frère,
+Proclée. Il faut, Proxène, aux yeux de tout l'État
+Soutenir à Trasile un si grand attentat.
+Il faut que devant moi Trasile vous réponde,
+Que vous le confondiez, ou bien qu'il vous confonde.
+Enfin ce crime est tel, que je vois du hasard
+À le croire trop tôt de même que trop tard ;
+Et la Nature même, ou trompeuse ou fidèle,
+Me parle pour un frère, et m'attire avec elle.
+
+Mais lui soutiendrez-vous ce forfait incroyable ?
+
+Enfin vous m'avez dit que ce frère inhumain
+A fait venir Arcas les armes à la main.
+Cependant à l'abord de ce Prince rebelle,
+Trasile n'a rien fait que de montrer son zèle.
+
+Que parmi tant de maux si pleins de violence,
+Je trouve peu d'appui dans toute ma constance :
+Qui croirait que Trasile, où parut tant de foi,
+Cachât tant de fureurs et de crimes en soi ?
+Et qui de la vertu doit faire quelque estime,
+Puisqu'elle ne sert plus qu'à déguiser le crime ?
+
+Hé bien l'amène-t-on ?
+
+Et même je connais, moi qui dois le haïr,
+Qu'il me gagna moi-même afin de me trahir ;
+Et que par une erreur qu'un Dieu me fait connaître
+J'étais sans y penser du parti de ce traître.
+Non, je ne doute plus de ces noirs attentats,
+Par qui ce furieux menaçait mes États.
+Le criminel qui fuit d'un Juge légitime
+Imprime à chaque pas des marques de son crime ;
+Et sans qu'il soit besoin d'un autre délateur,
+Lui-même il est son Juge et son accusateur
+Mais connaître le traître et sa pratique noire,
+Est un commencement de force et de victoire.
+
+Poliante fuirait !
+
+Mon esprit est confus et demeure interdit.
+Si Trasile en fuyant d'une prison funeste,
+Rend aux yeux du Soleil son crime manifeste,
+Ô cruel Poliante, ô Prince infortuné,
+Que fait un Roi qui fuit quand il est soupçonné ?
+
+Mais lorsqu'à son honneur sa présence est utile,
+Pourquoi si promptement abandonner la ville ?
+Je l'avais fait prier de tarder cette nuit,
+Et cependant il part, et l'on me dit qu'il fuit.
+S'il est vrai qu'une fuite infâme et criminelle
+Donne à ta renommée une atteinte mortelle,
+Je cache assez d'amour dans ce coeur enchanté,
+Pour te laisser trouver un lieu de sûreté.
+Mais j'y conserve assez de force et de courage,
+Pour te suivre partout, pour vouloir ton naufrage,
+Pour t'aller attaquer en Monarque odieux,
+Quand même tu serais entre les bras des Dieux.
+Je sais ce que l'Amour demande à ma constance,
+Mais je sais mieux encor ce que veut la vengeance.
+Je sais tout ce que veut mon bien et mon bonheur,
+Mais je sais mieux encor ce que veut mon honneur.
+Ô toi, mon cher époux, dont la voix sans pareille
+Sort de ton monument et monte à mon oreille,
+Cesse de demander, je sais ce que tu veux :
+Nous l'aimons, il est vrai, mais nous suivrons tes voeux.
+Puis-je mieux satisfaire à ton ombre animée,
+Qu'en lui sacrifiant une victime aimée ?
+Oui, les Dieux ont permis que nous ayons aimé
+Ce qui fut par toi-même autrefois estimé ;
+Et sans tous ces soupçons, ta glorieuse estime
+Rendrait après ta mort cet Amour légitime.
+Mais l'honneur permettra qu'à la face du jour
+Nous vengions tes destins sur notre propre Amour.
+Est-il une vengeance et plus haute et de même,
+Que celle où notre coeur immole ce qu'il aime ?
+Que celle où notre Amour sans force et sans appui,
+Est contraint de souffrir qu'on se venge sur lui ?
+Ha Proxène, ha Proclée, avec mon aventure
+Que l'on a de raisons d'aimer la sépulture !
+Et qu'un sombre cercueil en l'état où je suis,
+Est préférable au Trône où montent tant d'ennuis !
+
+Il est vrai, mais au moins c'est pour se préparer
+D'endurer d'autres maux s'il les faut endurer.
+
+Mais aussi réponds-moi, lorsque l'on aime bien
+N'est-ce pas s'aveugler que de ne croire rien ?
+L'Amour voit-il si clair contre son ordinaire,
+Qu'il ne nous trompe plus au choix qu'il nous fait faire ?
+Et ce que nous aimons d'un transport si puissant,
+Parce que nous l'aimons, doit-il être innocent ?
+
+Qu'est ce que le discours ne rend pas excusable ?
+
+Ô l'heureuse surprise ! Ô destin florissant,
+Si plutôt que vainqueur il revient innocent !
+
+Arcas est-il donc mort ?
+
+Dites-moi ce succès, s'il vous est glorieux
+Alors j'estimerai mon sort victorieux.
+
+D'où vient cette querelle ?
+
+Non, non, le juste Ciel a conduit une trame
+Qu'il a voulu lui-même inspirer à mon âme
+Ainsi sachant les voeux de Trasile et d'Arcas,
+Que l'un voulait la Reine, et l'autre ses États ;
+J'ai fait qu'Arcas a su le complot de Trasile,
+Pour rendre en les troublant leur perte plus facile,
+Car quand des ennemis ont un corps si puissant,
+On commence à les vaincre en les désunissant.
+
+Donnez-m'en le repos, et prenez-en la gloire.
+Mais enfin achevez. L'ennemi, disiez-vous,
+Paraissait divisé.
+
+Et Trasile est-il mort ?
+
+      Oui, Prince, l'on le doit.
+Il faut que mes regards pour eux impitoyables,
+Achèvent de punir ces deux fameux coupables.
+Qu'ils entrent, Justes Dieux qui les avez soumis,
+Ne saurait-on régner sans avoir d'ennemis ?
+
+Enfin vous connaissez par de sanglantes marques
+S'il est avantageux d'attaquer les Monarques,
+Et que pour les méchants et les ambitieux
+Le Trône a son tonnerre aussi bien que les Cieux.
+
+Ô digne objet des coups de la fureur céleste !
+
+Quel était ton dessein, méchant ?
+
+Est-ce assez d'une mort pour être son supplice ?
+
+      Que dit-il ?
+
+Quoi méchant ta fureur fit périr un Monarque,
+Dont l'amour t'honora d'une si belle marque,
+Qui malgré ta naissance, et cette sainte loi
+Qui défend de régner à qui naît comme toi,
+Releva tes vertus par des couleurs si belles
+Qu'il te rendit aimable à ses peuples fidèles,
+Et leur fit consentir qu'au défaut de mon sang,
+Le tien pourrait régner et remplir notre rang.
+Crois-tu que sa bonté releva ta naissance
+Pour te donner sujet d'usurper la puissance.
+Ha, lorsqu'il te donna cet honneur infini
+Il fit sans doute un crime, et tu l'en as puni.
+Mais que n'as-tu cruel assez de sang de reste
+Pour assouvir ma haine et la haine céleste ?
+
+Qu'on les ôte, j'aimais à moi-même contraire
+Un frère naturel de même qu'un vrai frère,
+Et maintenant encore un reste d'amitié
+Me fait de son destin avoir de la pitié.
+Je voudrais le servir à l'instant qu'il m'opprime,
+Je plains son triste sort, même en voyant son crime.
+Et je déplore enfin ces géants abattus
+D'avoir mal employé de si grandes vertus.
+Hé bien, hé bien Proclée !
+
+N'ont-ils rien dit ?
+
+      Je profite en sa mort.
+Au moins si ces pareils appréhendent son sort.
+Ainsi nous apprendrons et souverains et maîtres,
+Qu'un Trône est bien fondé sur le débris des traîtres ;
+Et le corps de l'État que menaçait leur main,
+Purgé d'un mauvais sang en deviendra plus sain.
+Proxène c'est à toi que j'en dois l'avantage,
+Et toujours mon amour en sera ton partage.
+
+Mon erreur me fait honte, et me fait pour ma peine,
+Au lieu de votre amour mériter votre haine.
+
+Que ne puis-je honorer un Roi victorieux,
+Un Roi mon défenseur, d'un prix plus glorieux ?
+
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
+
+Si mon bras combattant pour votre seule gloire,
+A pour vous remporté victoire sur victoire,
+Si je vous ai fait voir par un coeur enflammé
+Que le sang qui m'anime est par vous animé,
+Pensez-vous que la paix qui règne en cette terre
+Nous ait fait oublier le métier de la Guerre ?
+Si d'autres ennemis vous viennent sur les bras,
+Commandez-moi de vaincre, et ne vous plaignez pas.
+Il m'est, il m'est honteux et de voir vos alarmes,
+Et de vous ouïr plaindre où reluisent mes armes.
+Que n'obtiendrez-vous pas contre un plus grand tourment
+Et du bras d'un Monarque, et du coeur d'un Amant ?
+
+Je mourrais mille fois avec un oeil tranquille,
+Si mille fois ma mort pouvait vous être utile.
+Me croiriez-vous, Madame, et fort et généreux,
+Si je n'avais aimé que pour me rendre heureux ?
+Croiriez-vous mon amour et grande et véritable,
+Si je puis aimer pour être misérable ?
+Oui, l'Amour qui me dompte et qu'on ne peut dompter,
+Estime les malheurs qui le font éclater ;
+Et comme la Vertu l'Amour est incertaine,
+Sans l'épreuve qu'en fait le péril et la peine.
+Donnez, donnez ce coup.
+
+      Achevez.
+
+Ô Dieux !
+
+Vous quitter !
+
+      Et vous m'avez aimé !
+
+      Ô mot qui m'as charmé !
+Ô mot que j'aurais seul acheté d'un Empire !
+Mais il faut obéir, ma Reine le désire.
+Ainsi sans murmurer contre vos volontés,
+Je quitterai ma gloire et mes félicités :
+Je fuirai de vos yeux, si c'est là votre envie,
+Et si ce n'est assez je fuirai de la vie.
+Heureux de faire voir qu'un Monarque amoureux
+Sait pour vous obéir se rendre malheureux.
+Madame, dès demain.
+
+Si je devais périr par les flammes du foudre,
+J'irais d'un pas superbe au-devant de ses feux,
+Plutôt que de languir et de faire des voeux ;
+Et si je ne pouvais éviter mon naufrage,
+Mon naufrage du moins ferait voir mon courage.
+
+Ha ne me faites point par cet oeil en colère
+Le reproche cruel que je pourrais vous faire.
+Lequel brûle aujourd'hui d'un feu plus véhément
+Ou celle dont la voix a banni son Amant ?
+Ou l'Amant qui fait voir par son obéissance,
+Qu'il veut vivre et mourir sous la même puissance ?
+Oui, je vous ai fait voir un rayon apparent
+D'un esprit peu sensible et presque indifférent ;
+Mais j'ai cru vous laisser par cette indifférence
+D'un amour véritable une ferme assurance.
+Ainsi par votre amour ayant bien pu juger
+Que mon éloignement vous devait affliger,
+J'ai feint d'être insensible aux douleurs de ma Reine,
+Pour vous donner sujet de me quitter sans peine,
+Et pour emporter seul parmi tant de rigueurs
+Et l'ardeur de deux feux, et le mal de deux coeurs.
+Mais devant tant d'attraits cette feinte s'efface,
+Et n'est contre un grand feu qu'un obstacle de glace.
+Je le vois, je le sens, je l'éprouve à mon tour,
+Qu'on ne peut longtemps feindre avec beaucoup d'amour,
+Et que si cette feinte offense ce qu'on aime,
+Celui qui la produit, en est blessé lui-même.
+Mais pardonnez, Madame, à mon ressentiment,
+Mon Amour est trop fort pour marcher règlement,
+Il quitte la raison qui lui servait de phare,
+Il se conduit lui-même, et sans doute il s'égare,
+Il s'emporte, il m'emporte, et demande pourquoi
+Une Reine refuse et veut bannir un Roi ?
+Est-ce que vous craignez, ô chère, ô grande Reine,
+De perdre avecque moi le nom de Souveraine ?
+Mais ne serez-vous pas plus Reine que jamais
+Si l'on voit un Monarque au rang de vos sujets ?
+Est-ce, vous le dirai-je, et puis-je vous le dire
+Sans montrer les transports que la fureur inspire ?
+Est-ce que vous croyez contenter vos États,
+En nous abandonnant aux passions d'Arcas ?
+
+Hélas dans ce transport trop indigne du jour,
+La fureur a parlé, mais non pas mon Amour ;
+Et quand même l'Amour aurait commis ce crime,
+Ne mérite-t-il pas un pardon légitime ;
+Puisque malgré le Ciel qui me gêne à mon tour,
+Les crimes de l'Amour sont des marques d'Amour ?
+Faites, faites-moi voir la raison véritable
+Qui bannit de vos yeux un Prince misérable :
+Si votre gloire veut que je quitte les Cieux ;
+C'est-à-dire l'Empire où reluisent vos yeux,
+J'ai le coeur assez fort pour me bannir moi-même,
+Pour aimer sans espoir, pour quitter ce que j'aime ;
+Et quand par cet exil on voudrait m'outrager,
+J'ai même assez d'Amour pour ne me pas venger.
+
+On peut secrètement par quelques conjurés
+À quelque rendez-vous les avoir attirés.
+
+Ne vous affligez point de ces bruits différents,
+Vous avez surmontés des ennemis plus grands.
+
+Vos vertus les vaincront ces bruits injurieux,
+Et j'ai pour vous encor un bras victorieux.
+
+Ô Dieux ! Que dites-vous ?
+
+Ce mal n'est pas si grand qu'un faux bruit le veut rendre,
+J'en sais déjà la source et le cours qu'il doit prendre.
+
+      Oui, je sais par des avis certains
+Qu'un tas de mécontents ont fait quelques desseins.
+
+J'ai prévu dès longtemps ce désordre funeste,
+Et le remède est prêt qui vaincra cette peste.
+
+Quand j'aurai fait pour vous, ô Princesse adorable,
+Tout ce que je dois faire en amant véritable,
+Alors déjà vainqueur j'entreprendrai pour moi
+Tout ce que je dois faire en véritable Roi.
+On saura que pour vaincre, et calmer cet orage
+Je suis Roi par la force, amant par le courage,
+Et qu'on porte bien loin la victoire et l'effroi
+Quand le coeur d'un amant pousse le bras d'un Roi ?
+Je n'ai rien fait pour vous qui m'ait pu satisfaire
+Puisqu'à votre grandeur je laisse un adversaire,
+Et la gloire où j'aspire, et que je veux gagner
+Ce n'est pas de régner, c'est de vous voir régner.
+Si je vous laisse en paix, à la main le tonnerre,
+Je trouverai la paix au milieu de la guerre.
+Enfin en étouffant vos rebelles domptés,
+Je commence à dompter mes peuples révoltés.
+Enfin en vous aidant à vaincre vos rebelles,
+Je gagne et du pouvoir, et des forces nouvelles,
+Car le plus grand secours d'un Prince glorieux
+Est d'avoir bien souvent été victorieux.
+Ainsi lorsque vos jours seront devenus calmes,
+Et que je prendrai part à l'honneur de vos palmes,
+Alors mes révoltés sans coeur et sans espoir
+Craindront votre secours autant que mon pouvoir,
+Et cette juste crainte et leur propre impuissance
+Remettront le devoir où régnait l'insolence.
+
+Oui, j'ai toujours fait gloire, ô Reine incomparable,
+D'être de vos sujets le plus inébranlable ;
+Mais je fais gloire aussi dans un mal si pressant
+D'être pour vous servir le moins obéissant.
+
+Ainsi je ferai voir un Amour plus parfait,
+Lorsque je combattrai pour un coeur qui me hait.
+
+C'est faire au bon parti de trop grandes injures,
+Que de vous figurer ces tristes aventures.
+On ne perd point sa cause et ses noms glorieux,
+Quand on a le bon droit, et pour Juges les Dieux.
+
+C'est donc pour me chasser que vous...
+
+Ô frère généreux et digne de sa soeur !
+Lequel, ô justes Dieux, fait voir un plus grand coeur,
+Lequel est plus Illustre, ou bien celle qui donne,
+Ou bien celui qui rend le Sceptre et la Couronne ?
+Ce sont là des vertus que n'inspirent les Cieux
+Qu'à ceux qu'ils veulent mettre au nombre de leurs Dieux.
+Mais que sans y penser je tire d'avantage
+Et de votre action et de votre courage.
+Au moins je ferai voir qu'un Sceptre fortuné
+N'a point produit l'amour que vos yeux m'ont donné.
+Vous quittez vos Grandeurs et votre Diadème,
+Vous quittez un Empire, et pourtant je vous aime.
+Au lieu que mon Amour, dont le vôtre est le bien,
+Souhaite votre Trône, il vous donne le mien.
+Et si quelque ennemi veut murmurer encore
+Contre la pureté du feu qui me dévore,
+Le Trône après mes voeux fera voir à son tour
+Que l'Amour qui le donne est le parfait amour.
+Recevez donc ici le coeur et la Couronne
+Que d'une même main l'Amour même vous donne.
+Souffrez qu'un Roi qui suit la gloire et ses appas,
+Imite votre exemple, et marche sur vos pas ;
+Et pour une alliance et plus noble et plus chère
+Que j'offre ici ma soeur à votre illustre frère.
+
+Où me réduisez-vous ?
+
+Oui, le Ciel a pour moi combattu mes rebelles,
+Je viens d'en recevoir les heureuses nouvelles :
+Enfin en s'allumant cette flamme a cessé,
+Et l'orage a fini quand il a commencé.
+Quand Trasile étonné disait que la Lycie
+D'un nuage sanglant était toute obscurcie,
+En ce même moment, qui nous a satisfaits,
+On voyait arriver le Courrier de la Paix.
+
+Que dit-on ?
+
+Que Trasile à ma soeur refuse sa conquête !
+Que dans d'autres liens une autre Amour l'arrête !
+Ce bruit est un trompeur, ce bruit est aussi faux
+Que si je vous disais que les biens sont des maux.
+Ou si Trasile ailleurs a montré quelque zèle,
+Jamais plus librement on ne fut infidèle ;
+Et celle dont l'Amour le flatta vainement,
+Peut dire en vérité qu'elle n'a plus d'Amant.
+Si vous la connaissez, cachez-lui ce mystère,
+De peur qu'en aimant trop elle n'en désespère.
+
+Quoi vous prenez parti ?
+
+Ainsi vous ajoutez d'autres biens à mes biens.
+Vous allez chez la Reine ?
+
+      J'en reviens.
+
       Enfin je crois qu'Arcas
 Punis de ses desseins ne triomphera pas.
 Je viens de voir vos gens de qui le grand courage
@@ -2018,30 +1937,11 @@ De fouler sous vos pieds sa criminelle tête ?
 Craignez-vous le moment heureux et fortuné
 Qui fait voir l'ennemi défait et ruiné ?
 
--*who_dynamis
-Ô prince ! Ô Dieux témoins d'un acte si perfide,
-Oui je crains de punir un Prince parricide.
-
--*who_poliante
 Par quels charmes puissants un Prince furieux
 S'est-il rendu si tôt agréable à vos yeux ?
 
--*who_dynamis
-Par les charmes puissants de cette vertu même,
-Par qui vous me gagnez, et par qui je vous aime.
-Mais pour ne rien cacher parmi de si grands coups,
-Si ce qu'on dit est vrai, ce coupable c'est vous.
-
--*who_poliante
 Moi !
 
--*who_dynamis
-      Le crime étant fait, étant irrévocable,
-Je voudrais pour le moins qu'un autre en fût coupable.
-Enfin l'on vous a vu le poignard à la main,
-D'un Roi votre allié tirer l'âme du sein.
-
--*who_poliante
 Non, je ne nierai point d'une bouche tremblante
 Qu'on n'ait vu le poignard dans cette main sanglante.
 Mais si la vérité que vous découvre un Roi
@@ -2063,38 +1963,14 @@ J'arrachai de son sein un poignard si funeste ;
 Les Dieux qui voient tout avec les mêmes soins,
 Parleraient de la sorte, eux qui sont mes témoins.
 
--*who_dynamis
-Pourquoi donc jusqu'ici, comme l'on cache un crime,
-Nous avez-vous caché cet acte légitime.
-
--*who_poliante
 De crainte d'obliger de secrets ennemis
 À m'accuser d'un mal que je n'ai pas commis.
 Qu'aurait enfin servi de rompre le silence
 Qu'à vous faire plutôt soupçonner l'innocence ?
 Vous en a-t-on plus dit pour me rendre confus ?
 
--*who_dynamis
-L'on n'en a pas plus dit, mais on en croira plus.
-Et je crois cependant que pour sauver ma gloire
-Je dois sur mon amour obtenir la victoire.
-
--*who_poliante
 Me croyez-vous coupable.
 
--*who_dynamis
-      Hélas pour notre bien
-De peur de me tromper je ne veux croire rien.
-Mais je dois regarder du Trône où je soupire,
-Ce que tout l'Univers et peut croire et peut dire.
-Si ce fameux Arcas qu'on déteste aujourd'hui,
-Disait autant que vous, que croiriez-vous de lui ?
-S'il confessait la fin d'un crime si funeste,
-Répondez en un mot, que croiriez-vous du reste ?
-Il aime, et vous aimez, et l'Amour en tous deux
-Pourrait être suspect d'un crime si honteux.
-
--*who_poliante
 Moi soupçonné d'un crime ! Et me voir sans défense !
 Ô Dieux, montrez-vous Dieux en montrant l'innocence.
 Moi soupçonné d'un crime, et soupçonné par vous !
@@ -2140,21 +2016,6 @@ Et me contenterais de vous avoir servie.
 Est-ce là la fortune et le prix éclatant
 Que le crime recherche, et dont il est content ?
 
--*who_dynamis
-Ha Prince, si ma bouche était jamais contrainte
-De donner à ton coeur cette mortelle atteinte,
-Le mien premier blessé périrait le premier,
-Et pour le moins l'Amour y mourrait le dernier.
-Mais si cette amitié de ma gloire ennemie,
-Ne peut s'entretenir qu'avec mon infamie,
-Moins sensible à l'honneur qu'à l'ardeur de tes feux,
-Voudrais-tu que j'aimasse où l'amour est honteux ?
-Serait-ce pas me dire en ta fureur extrême,
-J'ai fait un parricide à dessein que l'on m'aime ?
-Car qui veut être aimé quand l'honneur le défend,
-Ferait pour être aimé ce que le crime apprend.
-
--*who_poliante
 Non, non, j'ai mérité votre haine indomptable,
 Si d'un amour honteux je vous juge coupable ;
 Et puisque vos soupçons me peignent à vos yeux
@@ -2166,15 +2027,6 @@ Pourvu qu'elle me perde, elle m'est sans horreur.
 J'aime mieux, en l'état où le Ciel m'abandonne,
 La haine qui me perd, que l'Amour qui soupçonne.
 
--*who_dynamis
-Tu demandes ma haine, et parmi nos combats
-S'il fallait la donner, je ne le pourrais pas.
-Mais s'il fallait sur toi punir un si grand crime,
-Je le pourrais enfin pour sauver mon estime ;
-Et je me vengerais d'un Prince souverain,
-L'Amour dedans le coeur, et la haine en la main.
-
--*who_poliante
 Au moins vous permettrez à ma faible puissance
 De faire quelque effort pour sauver l'innocence.
 Il faut, il faut qu'Arcas cédant à ma vertu,
@@ -2182,19 +2034,8 @@ Me relève en votre âme où je suis abattu :
 Et par même victoire il faut sous la ruine
 Étouffer de vos maux la fatale origine.
 
--*who_dynamis
-Ne fais rien pour un coeur peut être envenimé
-Qui ne sait plus s'il t'aime, et s'il t'a bien aimé.
-S'il faut haïr un jour ton bras et ton courage,
-Ne fais rien qui m'oblige à t'aimer davantage.
-
--*who_poliante
 Je cherche un parricide afin de me sauver.
 
--*who_dynamis
-Et moi qu'il fait souffrir, je crains de le trouver.
-
--*who_poliante
 Ou la force et l'éclat d'une juste victoire
 D'un Prince malheureux relèvera la gloire,
 Ou pour le moins la mort, qui finit les malheurs
@@ -2204,275 +2045,6 @@ Vous servir par ma mort ainsi que par ma vie,
 Cette fatale mort, qui me soulagera,
 Si je suis parricide, au moins vous vengera.
 
-**** *book_ *id_IV08 *act_IV *date_1649
-
--*who_dynamis
-Il me quitte, il s'enfuit, ô Dieux que va-t-il faire ?
-Va-t-il à son supplice, ou bien à son salaire ?
-Et doit-il être enfin dans cet événement
-Ou justement vainqueur, ou vaincu justement ?
-J'ai cru que son discours ferait cesser la peine
-Qu'a fait naître en mon coeur le rapport d'Euristène ;
-Et son discours, fatal à mon contentement,
-Confirme avec horreur ma haine et mon tourment.
-Si je crois l'apparence, il est digne du foudre :
-Si je crois l'apparence, il faut aussi l'absoudre :
-Et de quelque côté que se tournent mes voeux,
-L'innocence est suspecte, et le crime est douteux.
-Voyant presque ta main de ce meurtre sanglante,
-Puis-je t'aimer encor, malheureux Poliante ?
-Et dois-je encor haïr par un Arrêt fatal,
-Arcas, presque purgé par son propre rival ?
-Ô Dieux ! Qui doit avoir ou le prix ou la peine ?
-Montrez où doit aller mon Amour ou ma haine,
-Et ne permettez pas que mon coeur innocent,
-Fasse un crime en aimant ou bien en haïssant.
-Mais mon esprit troublé ne sait ce qu'il demande,
-Je demande du jour, c'est ce que j'appréhende.
-À quelles passions devons-nous obéir ?
-Ici je crains d'aimer, et je crains de haïr ;
-Je n'ose demander dans des nuits si funèbres,
-Qu'un peu plus de clarté dissipe mes ténèbres ;
-Et c'est à mon esprit, de ses flammes honteux,
-Une espèce de bien de demeurer douteux.
-
-**** *book_ *id_V01 *act_V *date_1649
-
--*who_proclee
-La Reine veut vous voir.
-
--*who_proxene
-      La reine doute-t-elle
-D'un rapport aussi vrai que je lui suis fidèle ?
-
--*who_proclee
-Je ne le pense pas, mais elle veut vous voir,
-Et croit qu'il reste encor quelque chose à savoir.
-Entrez donc, elle attend.
-
-**** *book_ *id_V02 *act_V *date_1649
-
--*who_dynamis
-      Je veux me satisfaire.
-Allez dire à Phorbas qu'il amène mon frère,
-Proclée. Il faut, Proxène, aux yeux de tout l'État
-Soutenir à Trasile un si grand attentat.
-Il faut que devant moi Trasile vous réponde,
-Que vous le confondiez, ou bien qu'il vous confonde.
-Enfin ce crime est tel, que je vois du hasard
-À le croire trop tôt de même que trop tard ;
-Et la Nature même, ou trompeuse ou fidèle,
-Me parle pour un frère, et m'attire avec elle.
-
--*who_proxene
-La Nature souvent comme une illusion,
-Trompe qui veut la croire en cette occasion.
-
--*who_dynamis
-Mais lui soutiendrez-vous ce forfait incroyable ?
-
--*who_proxene
-Oui, je lui soutiendrai ce crime épouvantable.
-Bien que le malheureux ait dit pour se purger,
-Que mon Amour jaloux a voulu se venger,
-Et que, me diffamant par de honteux mensonges,
-J'impute à son esprit les crimes de mes songes ;
-Je soutiendrais de même en présence des Dieux,
-Tout ce que je pourrai soutenir à ses yeux.
-Il est vrai qu'il m'aima d'une amour bien ardente,
-Puisque d'un si grand crime il me fit confidente,
-Ne sachant pas qu'un coeur généreux et prudent,
-Sera toujours du crime un mauvais confident.
-Mais les Dieux protecteurs du pouvoir légitime,
-Ont permis qu'il m'aimât pour découvrir son crime,
-Qu'il choisit un objet, de qui la noble ardeur
-Préférât l'innocence à l'injuste Grandeur ;
-Et que pour rendre ici son châtiment extrême,
-L'Amant fut accusé par son Amante même.
-Enfin si j'ai brûlé d'un feu respectueux
-Tandis que son amour me parut vertueux,
-Je crois qu'ayant appris que j'aimais un coupable,
-J'ai pu changer en haine un amour véritable,
-Et que si le devoir doit le vaincre une fois,
-C'est alors qu'il s'agit de l'intérêt des Rois.
-Ha, Madame, j'ai honte, et je répands des larmes
-D'accuser votre sang de causer vos alarmes ;
-Mais lorsque votre sang attaque votre sang,
-Je ne dois regarder que vous et votre rang ;
-Et l'on peut en verser par un coup nécessaire,
-La moindre portion pour sauver la plus chère.
-
--*who_dynamis
-Enfin vous m'avez dit que ce frère inhumain
-A fait venir Arcas les armes à la main.
-Cependant à l'abord de ce Prince rebelle,
-Trasile n'a rien fait que de montrer son zèle.
-
--*who_proxene
-C'est qu'à son attentat le secours a manqué ;
-C'est que le peuple ému fut en vain provoqué,
-Et que sa faction ou faible ou peu hardie,
-N'osa pas achever cette ample Tragédie.
-Car tous ses partisans poussés par son courroux
-Devaient au bruit d'Arcas s'élever contre vous,
-Comme si votre Amour auteur de ces tempêtes
-Eût Arcas appelé sur le Trône où vous êtes ;
-Et que d'intelligence avecque son parti,
-À vous faire ravir vous eussiez consenti.
-Bref Arcas vint trop tôt, et toute leur attente
-Consistait au départ du Prince Poliante.
-Ainsi son seul aspect a rompu leurs desseins,
-Et ses yeux sont pour vous aussi forts que ses mains.
-
--*who_dynamis
-Que parmi tant de maux si pleins de violence,
-Je trouve peu d'appui dans toute ma constance :
-Qui croirait que Trasile, où parut tant de foi,
-Cachât tant de fureurs et de crimes en soi ?
-Et qui de la vertu doit faire quelque estime,
-Puisqu'elle ne sert plus qu'à déguiser le crime ?
-
-**** *book_ *id_V03 *act_V *date_1649
-
--*who_dynamis
-Hé bien l'amène-t-on ?
-
--*who_proclee
-      Madame il s'est sauvé,
-Et ceux qui le gardaient vous l'ont seuls enlevé.
-
--*who_proxene
-Au moins vous connaissez par des preuves nouvelles
-Qu'il a gagné les coeurs que vous croyez fidèles.
-
--*who_dynamis
-Et même je connais, moi qui dois le haïr,
-Qu'il me gagna moi-même afin de me trahir ;
-Et que par une erreur qu'un Dieu me fait connaître
-J'étais sans y penser du parti de ce traître.
-Non, je ne doute plus de ces noirs attentats,
-Par qui ce furieux menaçait mes États.
-Le criminel qui fuit d'un Juge légitime
-Imprime à chaque pas des marques de son crime ;
-Et sans qu'il soit besoin d'un autre délateur,
-Lui-même il est son Juge et son accusateur
-Mais connaître le traître et sa pratique noire,
-Est un commencement de force et de victoire.
-
--*who_proclee
-Mais ce mal est suivi d'un mal qu'on n'attend pas,
-Et Trasile en fuyant l'a semé sur ces pas.
-On sait de tous côtés ce qu'a dit Euristène,
-La ville s'en alarme, et chacun est en peine.
-Cependant Poliante est en armes sorti ;
-L'on dit qu'il prend la fuite, et non votre parti ;
-Et qu'enfin le remords, le bourreau de sa faute,
-Pour le gêner ailleurs vous l'enlève, et vous l'ôte.
-
--*who_dynamis
-Poliante fuirait !
-
--*who_proclee
-      Pour le moins on le dit.
-
--*who_dynamis
-Mon esprit est confus et demeure interdit.
-Si Trasile en fuyant d'une prison funeste,
-Rend aux yeux du Soleil son crime manifeste,
-Ô cruel Poliante, ô Prince infortuné,
-Que fait un Roi qui fuit quand il est soupçonné ?
-
--*who_proclee
-Mais pour le moins encore attendez à vous plaindre,
-Qu'un peu de vérité vous y puisse contraindre.
-Bien souvent tout le mal qui vient d'un bruit si haut
-C'est celui qu'on se fait en le croyant trop tôt.
-
--*who_dynamis
-Mais lorsqu'à son honneur sa présence est utile,
-Pourquoi si promptement abandonner la ville ?
-Je l'avais fait prier de tarder cette nuit,
-Et cependant il part, et l'on me dit qu'il fuit.
-S'il est vrai qu'une fuite infâme et criminelle
-Donne à ta renommée une atteinte mortelle,
-Je cache assez d'amour dans ce coeur enchanté,
-Pour te laisser trouver un lieu de sûreté.
-Mais j'y conserve assez de force et de courage,
-Pour te suivre partout, pour vouloir ton naufrage,
-Pour t'aller attaquer en Monarque odieux,
-Quand même tu serais entre les bras des Dieux.
-Je sais ce que l'Amour demande à ma constance,
-Mais je sais mieux encor ce que veut la vengeance.
-Je sais tout ce que veut mon bien et mon bonheur,
-Mais je sais mieux encor ce que veut mon honneur.
-Ô toi, mon cher époux, dont la voix sans pareille
-Sort de ton monument et monte à mon oreille,
-Cesse de demander, je sais ce que tu veux :
-Nous l'aimons, il est vrai, mais nous suivrons tes voeux.
-Puis-je mieux satisfaire à ton ombre animée,
-Qu'en lui sacrifiant une victime aimée ?
-Oui, les Dieux ont permis que nous ayons aimé
-Ce qui fut par toi-même autrefois estimé ;
-Et sans tous ces soupçons, ta glorieuse estime
-Rendrait après ta mort cet Amour légitime.
-Mais l'honneur permettra qu'à la face du jour
-Nous vengions tes destins sur notre propre Amour.
-Est-il une vengeance et plus haute et de même,
-Que celle où notre coeur immole ce qu'il aime ?
-Que celle où notre Amour sans force et sans appui,
-Est contraint de souffrir qu'on se venge sur lui ?
-Ha Proxène, ha Proclée, avec mon aventure
-Que l'on a de raisons d'aimer la sépulture !
-Et qu'un sombre cercueil en l'état où je suis,
-Est préférable au Trône où montent tant d'ennuis !
-
--*who_proclee
-Pardonnez-moi, Madame, et souffrez que je die
-Qu'à se persécuter votre âme s'étudie.
-
--*who_dynamis
-Il est vrai, mais au moins c'est pour se préparer
-D'endurer d'autres maux s'il les faut endurer.
-
--*who_proclee
-Est-ce aimer noblement et d'un Amour extrême,
-De soupçonner si tôt la personne qu'on aime ?
-
--*who_dynamis
-Mais aussi réponds-moi, lorsque l'on aime bien
-N'est-ce pas s'aveugler que de ne croire rien ?
-L'Amour voit-il si clair contre son ordinaire,
-Qu'il ne nous trompe plus au choix qu'il nous fait faire ?
-Et ce que nous aimons d'un transport si puissant,
-Parce que nous l'aimons, doit-il être innocent ?
-
--*who_proclee
-Mais si ce Prince fuit, il est de la prudence
-Qu'un Monarque en péril cherche son assurance,
-Quoi lorsqu'il est sans force et ses envieux
-Attaquent par ces bruits son renom glorieux ;
-Irait-il désarmé s'exposer à l'audace ?
-Attendrait-il le coup dont il voit la menace ?
-Et lors qu'il ne se peut autrement assurer,
-Doit-il plutôt périr que de se retirer ?
-C'est courage, il est vrai, que de voir et d'attendre
-Et les maux et les traits dont on peut se défendre,
-Mais c'est aveuglément, fureur et désespoir,
-Que de vouloir combattre où l'on est sans pouvoir.
-
--*who_dynamis
-Qu'est ce que le discours ne rend pas excusable ?
-
--*who_proxene
-Mais il entre, et ses yeux ne sont pas d'un coupable.
-
--*who_dynamis
-Ô l'heureuse surprise ! Ô destin florissant,
-Si plutôt que vainqueur il revient innocent !
-
-**** *book_ *id_V04 *act_V *date_1649
-
--*who_poliante
 Je ne sais si mon bras a relevé ma gloire,
 Mais au moins il revient avecque la victoire.
 Si toutefois le sort s'était assujetti
@@ -2482,18 +2054,9 @@ Mon bras qu'il a conduit, ramène aussi ma gloire.
 Enfin vos ennemis tous vaincus à la fois,
 Éprouvent que le Ciel est toujours pour les Rois.
 
--*who_dynamis
-Arcas est-il donc mort ?
-
--*who_poliante
       Au moins on vous l'amène,
 Pour rendre en expirant ses respects à se Reine.
 
--*who_dynamis
-Dites-moi ce succès, s'il vous est glorieux
-Alors j'estimerai mon sort victorieux.
-
--*who_poliante
 À peine avec les miens j'étais hors de la ville,
 Quand d'un autre côté j'ai vu sortir Trasile
 Peu de gens le suivaient, et courant à grands pas
@@ -2507,10 +2070,6 @@ Que Trasile et qu'Arcas ont ensemble querelle,
 Que chacun prend parti, que l'on est divisé,
 Et qu'enfin le triomphe en paraît plus aisé.
 
--*who_dynamis
-D'où vient cette querelle ?
-
--*who_poliante
       On m'a dit que Trasile
 Croyait trouver Arcas favorable et facile,
 Mais qu'aussitôt Arcas les armes à la main,
@@ -2524,25 +2083,8 @@ Aux fureurs du discours la colère des armes.
 Au reste l'on m'a dit qu'un soupçon seulement
 A produit aujourd'hui ce grand événement.
 
--*who_dynamis
-Non, non, le juste Ciel a conduit une trame
-Qu'il a voulu lui-même inspirer à mon âme
-Ainsi sachant les voeux de Trasile et d'Arcas,
-Que l'un voulait la Reine, et l'autre ses États ;
-J'ai fait qu'Arcas a su le complot de Trasile,
-Pour rendre en les troublant leur perte plus facile,
-Car quand des ennemis ont un corps si puissant,
-On commence à les vaincre en les désunissant.
-
--*who_poliante
 Ainsi sans y penser je vous dois la victoire.
 
--*who_dynamis
-Donnez-m'en le repos, et prenez-en la gloire.
-Mais enfin achevez. L'ennemi, disiez-vous,
-Paraissait divisé.
-
--*who_poliante
       Je le charge à grands coups,
 Je prends l'occasion, je renverse, je tue
 Tout ce qui se présente à mon bras, à ma vue,
@@ -2568,10 +2110,6 @@ Trasile est plus que moi l'ennemi de la Reine.
 Je le fus par l'Amour, mais il l'est par la haine.
 Sache donc, me dit-il... Mais on l'amène ici.
 
--*who_dynamis
-Et Trasile est-il mort ?
-
--*who_poliante
       On vous l'amène aussi :
 Et ce qu'a dit Arcas devant ces Capitaines,
 Qui vous rendent partout les victoires certaines,
@@ -2582,38 +2120,6 @@ Ne tomba dans l'esprit et ne toucha l'oreille.
 Mais ils ne sont pas loin, cet homme les menait.
 Doit-il les faire entrer ?
 
--*who_dynamis
-      Oui, Prince, l'on le doit.
-Il faut que mes regards pour eux impitoyables,
-Achèvent de punir ces deux fameux coupables.
-Qu'ils entrent, Justes Dieux qui les avez soumis,
-Ne saurait-on régner sans avoir d'ennemis ?
-
-**** *book_ *id_V05 *act_V *date_1649
-
--*who_dynamis
-Enfin vous connaissez par de sanglantes marques
-S'il est avantageux d'attaquer les Monarques,
-Et que pour les méchants et les ambitieux
-Le Trône a son tonnerre aussi bien que les Cieux.
-
--*who_arcas
-Ô reine, dont j'aimais et dont je crains la vue,
-Retenez un moment ce regard qui me tue,
-Et qu'il me laisse encore au moins un seul instant,
-Pour rendre à ce grand Roi son renom éclatant.
-Ce criminel qui parle à ce bien peut prétendre
-Qu'étant sans innocence, il peut ici la rendre.
-Oui, ce bras que la rage avait fait soulever,
-Versa le sang du Roi qu'il devait conserver.
-
--*who_dynamis
-Ô digne objet des coups de la fureur céleste !
-
--*who_arcas
-Seigneur, la voix me manque, et j'ai dit tout le reste.
-
--*who_poliante
 Oui, Madame, il a dit qu'à la fin du combat
 Qui fit tomber et vous et votre État,
 Sous ombre de sauver le Roi qu'il prit en garde,
@@ -2627,26 +2133,162 @@ Qu'en le frappant encor il entendit marcher ;
 Et que la peur qu'il eut d'être surpris en traître,
 Lui fit laisser le fer dans le coeur de son Maître.
 
--*who_dynamis
-Quel était ton dessein, méchant ?
+Enfin ce témoignage et visible et pressant
+Fait voir que dans mon coeur l'amour est innocent.
 
--*who_arcas
+Vous ne deviez pas moins à la mort d'un époux,
+Et je vous croyais juste en me plaignant de vous.
+
+C'est par un si grand prix, c'est par cette victoire,
+Que mes heureux destins peuvent combler ma gloire.
+
+Si j'ai vaincu pour vous le crime et l'injustice,
+Ô que ce prix illustre excède le service !
+C'est en récompensant être assez libéral
+Que de donner un prix aux services égal,
+Mais vous voulez montrer que pour payer en Reine
+Il faut donner un prix qui surpasse la peine.
+
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proclee
+
+Ha, Madame, il est temps de redouter Arcas ;
+Pour venir jusqu'à vous il n'a qu'à faire un pas.
+
+      Tout est rempli d'alarmes,
+Il approche d'ici, mais il approche en armes.
+
+C'est ce qu'on dit, madame, et l'on dit davantage,
+Mais le dirai-je ici sans vous faire un outrage ;
+La crainte et le respect semblent m'en empêcher,
+Mais où le mal est grand il ne faut rien cacher.
+On dit qu'Arcas approche, et que l'Amour l'amène
+Les armes à la main par l'aveu de la Reine,
+Afin que les efforts de ce Prince insensé
+Excusent votre hymen qui paraîtra forcé.
+
+On dit...
+
+On achève l'injure, on confirme le mal.
+On dit que sous couleur que la paix renaissante
+Rendait de votre État la face plus riante,
+Vous avez renvoyé le glorieux secours
+Par qui ce Roi puissant rend le calme à nos jours ;
+Mais que c'est en effet par un dessein contraire,
+Pour ôter à l'État un appui nécessaire,
+Pour rendre Arcas plus fort et plus autorisé,
+Et lui tracer au Trône un chemin plus aisé.
+
+Seigneur, où courez-vous ?
+
+      Je crois
+Que vous devez attendre.
+
+      Quelqu'un en diligence
+Est venu pour lui dire un secret d'importance.
+
+      Je n'en sais rien.
+
+      Qu'a-t-il ?
+
+Seigneur, pour mieux savoir ce qu'on est venu dire,
+La Reine a commandé que chacun se retire.
+
+Ô Dieux, qu'il est troublé !
+
+Ils n'attendent la loi que de vos volontés.
+
+À des maux incertains vous donnez trop de prise,
+Vous avez trop tôt cru ce rapport odieux,
+Qu'a peut-être inventé le crime ingénieux.
+
+      Mais ce même Euristène,
+Aux passions d'Arcas peut bien prêter sa haine.
+
+Ce n'est pas le premier dont la sainte apparence,
+A caché l'attentat sous un front d'innocence.
+Ce qu'on voit de plus pur se corrompt à son tour :
+Enfin j'ai toujours peur de tous ces saints de Cour ;
+Et je crois que celui qui me fait bonne mine,
+De l'esprit et du coeur me perd et m'assassine.
+
+Aurait-il employé pour cette perfidie,
+Un méchant qu'on connaît, et dont on se défie ?
+
+      Ô Dieux, qu'ai-je entendu ?
+
+La Reine veut vous voir.
+
+Je ne le pense pas, mais elle veut vous voir,
+Et croit qu'il reste encor quelque chose à savoir.
+Entrez donc, elle attend.
+
+      Madame il s'est sauvé,
+Et ceux qui le gardaient vous l'ont seuls enlevé.
+
+Mais ce mal est suivi d'un mal qu'on n'attend pas,
+Et Trasile en fuyant l'a semé sur ces pas.
+On sait de tous côtés ce qu'a dit Euristène,
+La ville s'en alarme, et chacun est en peine.
+Cependant Poliante est en armes sorti ;
+L'on dit qu'il prend la fuite, et non votre parti ;
+Et qu'enfin le remords, le bourreau de sa faute,
+Pour le gêner ailleurs vous l'enlève, et vous l'ôte.
+
+      Pour le moins on le dit.
+
+Mais pour le moins encore attendez à vous plaindre,
+Qu'un peu de vérité vous y puisse contraindre.
+Bien souvent tout le mal qui vient d'un bruit si haut
+C'est celui qu'on se fait en le croyant trop tôt.
+
+Pardonnez-moi, Madame, et souffrez que je die
+Qu'à se persécuter votre âme s'étudie.
+
+Est-ce aimer noblement et d'un Amour extrême,
+De soupçonner si tôt la personne qu'on aime ?
+
+Mais si ce Prince fuit, il est de la prudence
+Qu'un Monarque en péril cherche son assurance,
+Quoi lorsqu'il est sans force et ses envieux
+Attaquent par ces bruits son renom glorieux ;
+Irait-il désarmé s'exposer à l'audace ?
+Attendrait-il le coup dont il voit la menace ?
+Et lors qu'il ne se peut autrement assurer,
+Doit-il plutôt périr que de se retirer ?
+C'est courage, il est vrai, que de voir et d'attendre
+Et les maux et les traits dont on peut se défendre,
+Mais c'est aveuglément, fureur et désespoir,
+Que de vouloir combattre où l'on est sans pouvoir.
+
+      Ils ne sont plus Madame.
+
+      Arcas n'a fait que rendre l'âme.
+Mais Trasile pressé d'un remords dévorant,
+Je meurs avec justice, a-t-il dit en mourant.
+Ô Dieux ! Dont le pouvoir est plus fort que le nôtre
+Ainsi deux criminels sont bourreaux l'un de l'autre.
+C'est tout ce qu'il a dit.
+
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
+Ô reine, dont j'aimais et dont je crains la vue,
+Retenez un moment ce regard qui me tue,
+Et qu'il me laisse encore au moins un seul instant,
+Pour rendre à ce grand Roi son renom éclatant.
+Ce criminel qui parle à ce bien peut prétendre
+Qu'étant sans innocence, il peut ici la rendre.
+Oui, ce bras que la rage avait fait soulever,
+Versa le sang du Roi qu'il devait conserver.
+
+Seigneur, la voix me manque, et j'ai dit tout le reste.
+
       Je vous aimais,
 Et ce crime m'offrait le bien que j'espérais.
 
--*who_dynamis
-Est-ce assez d'une mort pour être son supplice ?
-
--*who_arcas
 Mais si ce crime est grand, Trasile est mon complice.
 
--*who_trasile
-Moi, méchant !
-
--*who_dynamis
-      Que dit-il ?
-
--*who_arcas
       Oui, vous l'avez voulu,
 Et ce grand parricide entre nous fut conclu.
 Comme vous estimiez son conseil salutaire,
@@ -2658,121 +2300,13 @@ Quand je tiendrais de lui la Couronne et la Reine.
 Ainsi je contentai nos lâches passions,
 Et devins criminel à ces conditions.
 
--*who_dynamis
-Quoi méchant ta fureur fit périr un Monarque,
-Dont l'amour t'honora d'une si belle marque,
-Qui malgré ta naissance, et cette sainte loi
-Qui défend de régner à qui naît comme toi,
-Releva tes vertus par des couleurs si belles
-Qu'il te rendit aimable à ses peuples fidèles,
-Et leur fit consentir qu'au défaut de mon sang,
-Le tien pourrait régner et remplir notre rang.
-Crois-tu que sa bonté releva ta naissance
-Pour te donner sujet d'usurper la puissance.
-Ha, lorsqu'il te donna cet honneur infini
-Il fit sans doute un crime, et tu l'en as puni.
-Mais que n'as-tu cruel assez de sang de reste
-Pour assouvir ma haine et la haine céleste ?
-
--*who_trasile
-Ô détestable Arcas ! Ô coeur peu généreux !
-Indigne de cueillir les fruits d'un crime heureux !
-Quand tu peux pour le moins te conserver ta gloire,
-Que te sert en mourant de noircir ta mémoire ?
-Ô lâche, affectes-tu d'aider à tes bourreaux
-À trouver contre toi des supplices nouveaux ?
-Et par ta lâcheté ta mort trop légitime
-Sera-t-elle plus douce, en confessant un crime ?
-Rappelle dans ton coeur ta première vertu,
-Relève en périssant ton honneur abattu.
-Tu vois de tous côtés ta peine découverte,
-Tu vois tes ennemis glorieux de ta perte,
-C'est là ton plus grand mal, venge, venge-toi d'eux,
-En laissant leur croyance et ton crime douteux.
-
--*who_arcas
 Exécrable en ta mort, de même qu'en ta vie,
 Si j'outrageai la Reine au moins je l'ai servie,
 En la vengeant sur toi d'un frère forcené,
 À qui trop bonne soeur elle aurait pardonné.
 
--*who_trasile
-Parles-tu de pardon, ô lâche, ô détestable !
-Que la Reine le garde, il est pour le coupable.
-Et pour me venger d'elle et de ce brave Roi ;
-Je souhaite à tous deux des sujets comme toi.
-
--*who_arcas
 Et moi qui leur souhaite un règne favorable,
 Que la paix rende heureux et toujours indomptable,
 Je leur souhaite aussi des sujets et des coeurs,
 Non comme j'ai vécu, mais ainsi que je meurs.
 
--*who_dynamis
-Qu'on les ôte, j'aimais à moi-même contraire
-Un frère naturel de même qu'un vrai frère,
-Et maintenant encore un reste d'amitié
-Me fait de son destin avoir de la pitié.
-Je voudrais le servir à l'instant qu'il m'opprime,
-Je plains son triste sort, même en voyant son crime.
-Et je déplore enfin ces géants abattus
-D'avoir mal employé de si grandes vertus.
-Hé bien, hé bien Proclée !
-
--*who_proclee
-      Ils ne sont plus Madame.
-
--*who_dynamis
-N'ont-ils rien dit ?
-
--*who_proclee
-      Arcas n'a fait que rendre l'âme.
-Mais Trasile pressé d'un remords dévorant,
-Je meurs avec justice, a-t-il dit en mourant.
-Ô Dieux ! Dont le pouvoir est plus fort que le nôtre
-Ainsi deux criminels sont bourreaux l'un de l'autre.
-C'est tout ce qu'il a dit.
-
--*who_dynamis
-      Je profite en sa mort.
-Au moins si ces pareils appréhendent son sort.
-Ainsi nous apprendrons et souverains et maîtres,
-Qu'un Trône est bien fondé sur le débris des traîtres ;
-Et le corps de l'État que menaçait leur main,
-Purgé d'un mauvais sang en deviendra plus sain.
-Proxène c'est à toi que j'en dois l'avantage,
-Et toujours mon amour en sera ton partage.
-
--*who_poliante
-Enfin ce témoignage et visible et pressant
-Fait voir que dans mon coeur l'amour est innocent.
-
--*who_dynamis
-Mon erreur me fait honte, et me fait pour ma peine,
-Au lieu de votre amour mériter votre haine.
-
--*who_poliante
-Vous ne deviez pas moins à la mort d'un époux,
-Et je vous croyais juste en me plaignant de vous.
-
--*who_deputes
-Mais enfin consentez qu'une juste alliance
-De deux fameux États contente l'espérance.
-Si la paix qui revient n'y pouvait séjourner
-Les liens de l'hymen l'y sauraient enchaîner.
-
--*who_poliante
-C'est par un si grand prix, c'est par cette victoire,
-Que mes heureux destins peuvent combler ma gloire.
-
--*who_dynamis
-Que ne puis-je honorer un Roi victorieux,
-Un Roi mon défenseur, d'un prix plus glorieux ?
-
--*who_poliante
-Si j'ai vaincu pour vous le crime et l'injustice,
-Ô que ce prix illustre excède le service !
-C'est en récompensant être assez libéral
-Que de donner un prix aux services égal,
-Mais vous voulez montrer que pour payer en Reine
-Il faut donner un prix qui surpasse la peine.

@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_barondalbikrac  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas ; Georges Forestier.  
 date: 1667  
 title: Le Baron d'Albikrac. Comédie  
 ---

@@ -1,16 +1,283 @@
 
 
-**** *book_ *id_I01 *act_I *date_1710
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
--*who_argentine
-Quel plaisir trouvez vous à me désespérer ?
-Vôtre cœur aux soupçons ne fait que se livrer.
-Vous êtes inquiet, jaloux à toute outrance,
-Croyez-moi, c'est trop loin pousser la défiance,
-Vous mériteriez bien qu'à vôtre vilain front
-Puisque vous m'outragez, je file quelque affront.
+      Non, je n'y puis suffire :
+C'est souffrir trop longtemps un rigoureux martyre :
+Quoi, je ne puis jouir d'un moment de repos !
+Le moyen d'écouter tant de fades propos ;
+L'un me vient aborder, un inconnu m'embrasse,
+Et cet autre me tient des discours à la glace :
+Comment vous portez-vous ; que dit-on de nouveau,
+Pour aller prendre l'air le temps est assez beau.
+L'un parle de sa voix, et l'autre de sa danse ;
+Celui-ci prend le soin de vanter ma science :
+De pareils entretiens ne me conviennent pas,
+Peste des importuns, j'en trouve à chaque pas :
+Horace avait raison d'en craindre la poursuite,
+Et de fuir avec soin cette race maudite ;
+Et le plus sûr moyen de fuir tous ces fâcheux,
+C'est d'entrer au Logis, et de m'éloigner d'eux.
 
--*who_arlequin
+Que font ces insolents plantez devant ma porte,
+Je veux les étriller, mais de la bonne sorte.
+
+Je dois pour quelque temps m'absenter du Logis :
+Le soin de la Maison par moi vous est commis.
+Balayez bien ma chambre, et songez au ménage,
+Lorsque je reviendrai que je trouve un potage,
+Et que la porte soit fermée à double tour,
+Gardez-vous de l'ouvrir jusques à mon retour.
+
+      Ne recevez personne.
+Faites ce que je dis, restez dans la Maison ;
+Surtout je vous défends de paraître au Balcon.
+
+      Vous faites l'indocile,
+Voyez cette morveuse, et ce bel embryon !
+
+Plaît-il ? Que dites-vous ?
+
+Taisez-vous, je suis las d'entendre ce langage,
+Un semblable entretien, et m'échauffe, et m'outrage,
+Songez à m'obéir en tout ce qui me plaît,
+Ou vous m'obligerez à vous donner le fouet.
+
+      Ma foi l'on a beau faire
+Pour gêner un esprit on se fatigue en vain ;
+Nature est la plus forte et va toujours son train.
+
+Je suis bien dissipé, je sors pour une affaire,
+Et j'oublie au Logis ce qui m'est nécessaire,
+Un Billet, sans lequel je ne puis recevoir
+La somme qui m'est due et que je veux avoir.
+A mes ordres prescrits ma fille obéissante,
+Ainsi qu'elle le doit, répond á mon attente :
+Elle a fermé sa porte. Un père est trop heureux,
+Quand sa fille veut bien satisfaire à ses vœux ;
+Et je rends grâce au Ciel, dont la bonté suprême
+M'a fait naître un enfant d'une sagesse extrême.
+Spinette ne sait pas ce que c'est qu'un amant,
+C'est ce qu'en une fille on trouve rarement ;
+Mais pour m'ouvrir la porte il faut que je l'appelle :
+Spinette, hola Spinette ! À présent que fait-elle ?
+Sans doute elle s'amuse à tricoter un bas,
+Je suis bien assuré qu'elle ne m'attend pas.
+
+Ma Fille que dis-tu ?
+
+Hé bien ?
+
+      Ô Ciel, est-il possible !
+
+Parbleu, je suis touché d'un accident semblable
+Cette perte est vraiment assez considérable,
+Et j'en suis pénétré plus qu'on ne peut penser,
+On n'est pas en état toujours de dépenser.
+
+Où donc est-elle ?
+
+      Tu te moques, je pense
+Je n'y vois rien.
+
+      C'est une extravagance...
+
+Entrons.
+
+Que le Ciel soit loué, j'ai fini mon affaire,
+Mon homme m'a reçu de la belle manière.
+Il vient de me païer en bon argent comptant,
+Et de son procedé, je suis enfin content.
+
+Quelle verve vous prend ?
+
+      Tout beau, Monsieur, tout beau,
+Il faut vous consoler, calmez cette colère,
+On doit bien réfléchir avant que de rien faire :
+Jamais un Philosophe en son adversité,
+Ne doit faire paraître un esprit agité.
+
+Modérez vos transports pour imiter le sage,
+Sans vous abandonner a de vaines douleurs,
+Soyez toujours constant dans les plus grands malheurs ?
+Vous pleurez, ah ! De grâce apaisez vos alarmes :
+Les femmes, les enfants ont bien recours aux larmes,
+Mais un homme d'esprit en verse rarement,
+Et vous vous démentez, vous dis-je, entièrement :
+Adieu, conservez-vous.
+
+Au secours.
+
+      On a volé ma fille,
+Peut-on ainsi traiter un père de famille !
+Ah ! mon cher Arlequin ne m'abandonnez pas ;
+Unissons-nous tous deux, venez, suivez mes pas,
+
+Vous vous moquez de moi quand le malheur m'accable.
+
+      Allez-vous en au Diable,
+Avec vôtre Doctrine, et vôtre air radouci.
+
+Il n'est pas temps, vous dis-je, ici de plaisanter :
+Cette fuite m'étonne, et me doit irriter,
+Ma fille, juste Ciel, qu'est-elle devenue ?
+Quel est l'audacieux qui la cache à ma vue ?
+Qu'il paroisse, et bien-tôt l'accablant sous ses coups,
+Le Docteur....
+
+Arlequin vengeons-nous, unissons nôtre rage,
+Que je suis malheureux ! mes chagrins sont cuisants.
+
+      Allons, courons aux armes.
+
+Vous voulez badiner.
+
+À l'aide !
+
+      Au Meurtre !
+
+Spinette m'a quitté.
+
+Non, j'ai perdu ma Fille.
+
+Mon soin pour la garder était donc inutile ?
+Je crève dans ma peau, je me sens étouffer.
+
+Ma foi les plus Argus sont de vrais Quinze-vingts,
+On fait de vains efforts pour bien garder les filles.
+
+Masques, vous pourriez bien ailleurs porter vos pas.
+
+Non, je veux me venger....
+
+Il y faut consentir : car un enlèvement,
+Pourrait déshonorer ma fille entièrement,
+Allons, je vous pardonne, et vous comme mon gendre.
+
+Qu'est-ce donc Arlequin, vous gardez le silence ?
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_spinette
+
+      Que veux-tu Scaramouche ?
+
+Adieu donc.
+
+      Que veux-tu donc, ah ! c'est vous !
+
+Douteriez-vous encor de mon ardeur parfaite ?
+Quoi, vous ne croyez pas d'être aimé de Spinette ?
+Que je suis malheureuse ; après ce que j'ai fait,
+Vous êtes trop jaloux.
+
+Par où donc, cher Octave, ai-je pu vous déplaire ?
+Pour vous tant allarmeR que me voyez-vous faire ?
+Du matin jusqu'au soir je suis dans la Maison ;
+Quand vous me soupçonnez vous n'avez pas raison ;
+A de pareils discours je ne puis rien comprendre.
+
+De moi, je le vois bien, vous faites peu de cas,
+Vous me grondez toujours, et vous ne m'aimez pas.
+
+Dites moi donc, Monsieur quand nous marierons-nous ?
+Mon père est bien méchant, vous aurez de la peine
+À gagner son esprit.
+
+Vous m'avez tant de fois promis des sérénades,
+Quand m'en donnerez-vous ? j'aime fort les aubades.
+
+      N'y manquez pas, les filles du quartier
+Ont toutes ce plaisir, et je dois l'envier,
+J'aime les instruments on ne peut davantage.
+
+      Mais par lui si vous étiez surpris,
+Il me maltraiterait d'une étrange manière.
+
+Je vous obéirai : le devoir me l'ordonne.
+Si quelqu'un vient frapper...
+
+Ferais-je un si grand mal, si pendant vôtre absence
+Je prenais un peu l'air ; pourquoi cette défense ?
+Quand je suis seule, hélas ! je m'ennuie a la mort,
+Et tout le monde dit que vous avez grand tort
+De me faire subir un si rude esclavage,
+Et qu'enfin il est temps de me mettre en ménage.
+Que déjà je devrais être avec un époux,
+Et que je me pourrais fort bien passer de vous.
+Car à ce qu'on m'a dit je suis fille nubile
+Je ne le sens que trop.
+
+Je ne mérite pas, mon père, un pareil nom.
+Vous m'appelez morveuse, et moi je vous assure
+Qu'on peut cueillir la poire aussitôt qu'elle est mûre,
+Et qu'il ne tient qu'à moi... suffit, je m'entends bien.
+
+      Qui moi ? Je ne dis rien.
+
+Ne vous emportez pas, je crains vôtre colère,
+Mon cher petit papa.
+
+Mon père me contraint et veut me rendre esclave ;
+Mais il n'en sera rien, si je voyais Octave,
+Maintenant au Logis je le ferais entrer,
+Peut-être viendra-t-il, j'ai tout lieu d'espérer ;
+Je l'aperçois enfin.
+
+Pour nous voir en secret l'occasion est belle,
+Mon père de longtemps ne viendra dans ces lieux.
+
+Que deviendrai-je hélas ! Juste Ciel, c'est mon père !
+Courage, un stratagème est ici nécessaire.
+Ah ! Mon père je suis en proie à la douleur,
+Il vient de m'arriver le plus cruel Malheur...
+Vous allez à coup sûr me faire une querelle.
+
+      Cette robe si belle
+Que vous prîtes le soin vous-même d'acheter.
+
+      Mon cher Papa je viens de la gâter :
+Elle est toute tachée.
+
+Jugez à ce malheur si mon cœur est sensible !
+Attendez un moment, j'entre pour la chercher,
+Vous verrez si sans peine on peut la détacher.
+
+Prenez-la par un bout, regardez bien mon père,
+Pour moi je ne sais pas comment on pourra faire,
+La tache est grande, et moi je ne saurais penser
+Que quelque effort qu'on fasse on puisse l'effacer.
+
+      Là.
+
+      Ici.
+
+Ah ! Je sais ce que c'est, je dois me consoler,
+La tache d'elle-même a voulu s'en aller.
+
+      Je le veux bien, je n'ai plus rien à craindre,
+Et je puis à présent le voir sans me contraindre,
+S'il fût entré chez nous sans faire un grand effort,
+Il aurait découvert la tache tout d'abord.
+
+Scaramouche, partons, et finis tes discours,
+Je crains que dans ces lieux mon père ne revienne.
+Enlève-moi donc vite.
+
+      Je ne puis t'exprimer
+Le plaisir que j'éprouve ; oui, je me sens charmer,
+Ne nous arrêtons pas, je meurs d'impatience,
+Ce doux enlèvement flatte mon espérance.
+
+      En lisant des romans,
+J'ai pris beaucoup de goût pour les enlèvements.
+Allons trouver Octave.
+
+      En vérité mon père,
+Je le ferais encor si j'avais à le faire.
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 Hélas ! pardonnez-moi mon aimable Argentine,
 J'ai tout à redouter de vôtre humeur badine ;
 Vos yeux vifs, et perçants, me font avec raison,
@@ -28,17 +295,8 @@ Je vais tout disposer pour notre mariage,
 Dés demain vous serez admise dans mon lit,
 Cela vous devrait bien aiguiser l'appétit.
 
--*who_argentine
-Dés demain, dites-vous ? C'est trop tôt, rien ne presse.
-
--*who_arlequin
 Ah ! Ce terme est encor trop long pour ma tendresse.
 
--*who_argentine
-Il vaut bien mieux laisser passer un peu de temps,
-Ce sera, je vous jure, assez tôt dans dix ans.
-
--*who_arlequin
 Dans dix ans, ma Bellotte, ah ! Qu'oses-tu me dire ?
 Quelle extrême rigueur ! Tu veux donc que j'expire,
 Tu prétends me ravir des biens si souhaités,
@@ -54,12 +312,6 @@ Et c'est, mon cher amour, t'en dire assez, je crois ;
 Je me suis consulté, je ne puis plus attendre,
 À mes justes désirs ma belle il faut se rendre.
 
--*who_argentine
-Quoi c'est donc tout de bon ? vous n'en démordez pas,
-Vous ferez dés demain la noce, et le repas ?
-Ah ! Différez de grâce.
-
--*who_arlequin
       Il ne m'est pas possible :
 A toutes tes beautés mon cœur est trop sensible ;
 Et certaine raison m'oblige fortement
@@ -72,122 +324,23 @@ Adieu, tout de ce pas, je vais chez le Notaire,
 Cette cérémonie est ici nécessaire,
 Pourtant si tu voulais je m'en passerais bien.
 
--*who_argentine
-Puisque vous le pouvez, Monsieur n'en faites rien.
-
--*who_arlequin
 Non, je veux que demain tu partages ma couche
 L'hymen est un morceau qu'on prend de broc en bouche,
 Le plutôt est le mieux, point de réflexion,
 Lorsque l'on veut former une longue union.
 Donne-moi deux baisers.
 
--*who_argentine
-      Vraiment, je suis trop sage.
-
--*who_arlequin
 Je rabattrai cela sur notre mariage.
 
--*who_argentine
-Les hommes, ce dit-on, en rabattent assez,
-Prés de nous cependant ils font les empressez,
-Débitent galamment un amoureux langage,
-Et pour nous obtenir mettent tout en usage ;
-Quand ils sont une fois les maîtres du Logis,
-En moins de quinze jours ils sont bien refroidis.
-Nous ne les voyons plus attachez à nous plaire,
-A peine peuvent-ils fournir le nécessaire,
-Les époux sont ma foi d'étranges animaux !
-
--*who_arlequin
 Les hommes d'aujourd'hui ne sont pas tous égaux,
 Tu ne te plaindras point, mon aimable Argentine,
 Toujours bon vin en Cave, et bon pot en Cuisine :
 Je te laisse, mon cœur, pour un petit moment.
 
-**** *book_ *id_I02 *act_I *date_1710
-
--*who_argentine
-J'ai tout à craindre hélas ! De cet empressement,
-Je ne puis le souffrir, et malgré mon envie
-Il veut que dès demain le nœud d'hymen nous lie ;
-Il croit se faire aimer, mais son espoir est vain,
-Je ne puis consentir à lui donner la main ;
-Que demande Pierrot ?
-
-**** *book_ *id_I03 *act_I *date_1710
-
--*who_pierrot
-      Bonjour la brune-blonde,
-Il faut auprès de vous que mon cœur se débonde ;
-Si vous le souhaitez je ferai vôtre Amant,
-Et je m'en vais vous faire un petit compliment.
-Je commence, écoutez. Le feu de ma tendresse
-Allumé par les yeux de ma belle Maîtresse...
-Cela fait que l'amour... Ne m'interrompez pas,
-Cela fait donc tout juste... Un autre en pareil cas
-Pourrait bien se brouiller ; mais je ne suis pas bête.
-Ors donc je vous dirai, que si vous êtes prête,
-Je suis tout disposé, vous n'avez qu'à parler...
-Dame ! Je voudrais bien avec vous m'enrôler.
-
--*who_argentine
-Je veux feindre un moment d'applaudir à sa flamme ;
-Vous m'aimez donc Pierrot ?
-
--*who_pierrot
-      Qui vraiment, ma chère âme,
-Quand je ne vous vois pas je suis absent de vous ;
-Quand je m'emporte un peu, je me mets en courroux.
-En un mot je vous aime, et vous n'avez qu'à dire,
-Je suis un drôle, allez, je vous ferai bien rire.
-
--*who_argentine
-Que vos expressions charment mon tendre cœur !
-Je ne m'en défends point, vous êtes mon vainqueur,
-Et je n'ai pu vous voir sans vous rendre les armes.
-
--*who_pierrot
-On me l'a toujours dit ; que j'avais bien des charmes,
-Je suis un beau garçon ; pour la taille, je crois
-Qu'on n'en saurait trouver de mieux bâti que moi.
-Elle en tient pour le coup.
-
--*who_argentine
-      Non, il n'est pas possible
-Qu'en vous voyant si beau je paraisse insensible :
-On ne peut résister à de puissants appas.
-
--*who_pierrot
-Elle va se pâmer, je pense, entre mes bras.
-Eh, Ventrebleu, pourquoi suis-je un fi beau brin d'homme.
-Ça, je vois bien qu'il faut vous acquitter la somme,
-Et vous ne voulez point des lettres de répit,
-Embrassez-moi ma fille, et sans faire grand bruit...
-
-**** *book_ *id_I04 *act_I *date_1710
-
--*who_pierrot
-Ah ! Je me suis mépris, et cela me chagrine :
-Au lieu de toi, je dois embrasser Argentine,
-Je vais recommencer pour te faire plaisir.
-
--*who_arlequin
 Il n'en est pas besoin, modère ce désir.
 Hé bien, je vous y prends, Madame la carogne,
 Et vous, que faites-vous ici Monsieur l'ivrogne ?
 
--*who_pierrot
-Tu m'as interrompu, que je suis malheureux !
-Ta prétendue, et moi je badinions tous deux.
-Je me dégourdissais de la belle manière,
-Va t'en pour un moment, crois-moi, laisse-moi faire.
-
--*who_argentine
-Vous êtes trop jaloux, c'est là tour mon souci,
-Et vous ne deviez pas venir sitôt ici.
-
--*who_arlequin
 Je conviens que j'ai tort, et je devais attendre
 Le joli dénouement d'un entretien si tendre.
 Vous voulez donc toujours m'en donner à garder,
@@ -195,58 +348,17 @@ A vôtre opinion la mienne doit céder,
 Sur le point d'occuper la couche maritale,
 Vous donnez une entorse à la foi conjugale ?
 
--*who_pierrot
-Puisqu'il demeure ici, sans faire du fracas,
-Mène-moi dans ta Chambre, il ne le saura pas.
-
--*who_argentine
-J'y consens.
-
--*who_arlequin
       Ah ! Tout doux, et vous Monsieur le drille
 Décampez au plutôt.
 
--*who_pierrot
-      Lâche-moi cette fille,
-Va, je te la rendrai dans un petit moment.
-
--*who_arlequin
 Morbleu, craignez l'effet de mon emportement ;
 Apprenez que demain j'épouse cette belle,
 Que je veux qu'elle soit toujours sage, et fidèle.
 
--*who_argentine
-Bon cela ne se peut, Arlequin, croyez-moi,
-Gardez de m'imposer une si dure loi.
-Fi donc vous vous feriez berner de tout le monde :
-Un Mari trop jaloux mérite qu'on le fronde,
-La sagesse est un monstre, et les femmes ont soin
-De ne le regarder ni de près, ni de loin.
-
--*who_arlequin
 Que faites-vous ici ?
 
--*who_pierrot
-      Moi, j'attends que tu sortes.
-Pour rester en ces lieux j'ai des raisons bien fortes.
-
--*who_arlequin
 Veux-tu te retirer, ou je te romps les bras.
 
--*who_pierrot
-Hé bien, je reviendrai quand tu n'y seras pas.
-
--*who_argentine
-Vos manières Monsieur, ne font que me déplaire !
-De tous ces vains soupçons songez à vous défaite,
-Je vous l'ai déjà dit, vous devez profiter
-Des leçons qu'Argentine a voulu vous dicter.
-Je veux goûter en paix les douceurs de la vie,
-Folâtrer, badiner au gré de mon envie,
-Adieu souvenez-vous, et soyez convaincu,
-Que quand on est jaloux, on est bien-tôt cocu.
-
--*who_arlequin
 Franchement ce discours n'est point énigmatique,
 Elle veut m'encorner malgré ma rhétorique,
 Mais je ne serai point sujet au grand malheur
@@ -254,65 +366,6 @@ Qui de tant de Maris fait naître la douleur,
 Et je prendrai morbleu, de si bonnes mesures,
 Que ma femme à mon front ne fera point d'injures.
 
-**** *book_ *id_I05 *act_I *date_1710
-
--*who_octave
-Se peut-il, cher ami, que ton cœur à son tout
-Refuse de se rendre au pouvoir de l'amour ?
-Tu fais gloire en tous lieux de ton indifférence ;
-Ah ! c'est faire au beau sexe une sensible offense
-Que de marquer pour lui si peu d'empressement,
-Et de voir sans l'aimer l'objet le plus charmant.
-Crains donc, pour te punir, que le fils de Cythère
-Ne te livre aux effets de sa juste colère,
-Et que ce fier vainqueur renversant tes projets
-Sur ton cœur dédaigneux ne lance tous ses traits.
-
--*who_leandre
-Pourquoi me blâmes-tu ? Ta remontrance est vaine,
-Je cède avec plaisir au penchant qui m'entraîne,
-Content de mon état, satisfait de mon sort,
-J'ignore les effets d'un amoureux transport.
-Un paisible repos est le bien où j'aspire,
-Un cœur qui le possède a tout ce qu'il désire ;
-Est-ce un charme ? dis-moi, de languir sans espoir,
-D'adorer un objet que l'on a peine à voir,
-De pousser des regrets, de répandre des larmes,
-De ressentir toujours de mortelles alarmes ;
-L'amour m'accablerait sous ses funestes coups,
-Et me ferait former mille soupçons jaloux ?
-Inquiet, agité, je craindrais que ma belle,
-Malgré ma tendre ardeur ne devint infidèle,
-Chaque instant ne ferait que redoubler mon mal.
-Je verrais avec peine un trop heureux rival !
-Ami je vis en paix, rien ne trouble ma vie :
-Au calme de mon cœur tu dois porter envie,
-Puisque rien n'est égal à ma félicité,
-Laisse-moi m'applaudir de ma tranquillité.
-
--*who_octave
-Non c'est injustement que tu veux te défendre
-D'un doux engagement ; et d'un commerce tendre :
-Chacun doit, cher ami, se laisser enflammer
-Et nul n'échappe enfin au Dieu qui fait aimer.
-
--*who_leandre
-Inutiles efforts pour soumettre mon âme,
-Aux tyranniques lois d'une volage femme !
-Et qui par un esprit, faible, capricieux,
-Reçoit tous les objets qui lui frappent les yeux.
-De ce sexe enchanteur l'approche est trop fatale :
-Une femme est toujours d'une humeur inégale,
-Aujourd'hui ses transports font des plus violents,
-On la trouve demain au milieu des galants,
-Affectant d'imiter les airs d'une coquette
-Badiner avec eux, répondre à la fleurette,
-Et pour donner du lustre à ses trompeurs appas
-Inspirer une ardeur qu'elle ne ressent pas.
-
-**** *book_ *id_I06 *act_I *date_1710
-
--*who_arlequin
 Messieurs mes écoliers quel nouveau soin vous presse ?
 Venez-vous dans ces lieux chercher quelque Maîtresse ?
 Vous étés faits d'un air à ne pas en manquer,
@@ -326,33 +379,11 @@ Ne ferait qu'augmenter votre concupiscence,
 Et je puis affirmer, sans passer pour menteur,
 Que vous en savez plus que vôtre précepteur.
 
--*who_octave
-Je fais ce que je puis pour convaincre Léandre ;
-Mais à tous mes discours il ne veut rien comprendre,
-Et persistant toujours dans sa frivole erreur,
-Du plus charmant plaisir il conçoit de l'horreur ?
-Pour lui le mot d'amour est un obscur langage,
-Et je ne vis jamais un garçon si sauvage.
-
--*who_leandre
-Je ne sais ce que c'est : pour tout indifférent
-J'avouerai qu'en amour je suis fort ignorant.
-
--*who_arlequin
 Je veux par mes leçons le rendre plus habile :
 Laissez-le moi, dans peu vous le verrez docile ;
 Je consens de tout perdre, et de passer pour fou,
 S'il n'est dans quelque temps plus tendre qu'un matou.
 
--*who_octave
-Ami, pour un moment d'ici je me retire ;
-Le Seigneur Arlequin aura soin de t'instruire,
-Malgré ta fermeté, bien-tôt sur ton esprit
-Ses savantes leçons auront quelque crédit.
-
-**** *book_ *id_I07 *act_I *date_1710
-
--*who_arlequin
 Ici nous sommes seuls, rien ne nous importune.
 Se peut-il, qu'insensible à la Blonde, à la Brune,
 Dans cette inaction tu passes tes beaux ans ?
@@ -394,17 +425,6 @@ Et le maquereau vert pourchasse sa femelle,
 Tant d'exemples tracés ne suffiront-ils pas
 Pour te déterminer à marcher sur leurs pas ?
 
--*who_leandre
-Pour me persuader à fuir l'indifférence,
-Vous employez en vain toute vôtre éloquence :
-J'ignore le secret de triompher d'un cœur,
-Daignez donc m'éclaircir, Monsieur mon précepteur :
-Lorsque vous m'aurez dit comment je dois m'y prendre,
-Peut être malgré moi chercherai-je à me rendre,
-Si vous m'instruisez bien je saurai galamment
-Pratiquer vos leçons prés d'un objet charmant.
-
--*who_arlequin
 Pour soumettre à tes lois une beauté charmante.
 Suis avec un grand soin ma maxime savante.
 Sitôt que tu verras une belle au balcon,
@@ -426,512 +446,16 @@ Après un grand discours demande un tête à tête,
 Tu verras que sans peine elle t'accordera
 Tête à tête, baisers, peut être.... Et cetera.
 
--*who_leandre
-Je vois qu'il faut céder, et qu'à vôtre éloquence
-On ne peut opposer qu'une vaine défense ;
-Je vais tout de ce pas en fidèle écolier
-Suivre vôtre leçon, et la bien essayer.
-
--*who_arlequin
 Moi, je vais sur le champ avertir le Notaire
 De se rendre chez moi pour finir mon affaire.
 
-**** *book_ *id_I08 *act_I *date_1710
-
--*who_octave
-C'est vivre trop longtemps loin de l'objet aimé ;
-Rien ne doit arrêter un cœur bien enflammé.
-Lorsque je ne vois point la charmante Spinette
-Mes sens sont agitez, mon âme est inquiète
-Cette jeune beauté fixe tous mes désirs,
-Loin d'elle je ne puis goûter de vrais plaisirs,
-J'aime son air naïf, sa manière innocente,
-Et sa simplicité me ravit, et m'enchante :
-Que dis-tu de mon-choix ?
-
--*who_scaramouche
-      À parler franchement,
-C'est un vilain métier que celui d'un Amant :
-Vous passez sans dormir les nuits les plus tranquilles,
-Vous êtes comme un Chat qui rode sur les tuiles,
-Pour moi je ne sais pas quel plaisir vous trouvez !
-Vos draps depuis deux mois n'ont pas été lavez
-Est ce pour épargner les frais du blanchissage
-Que vous dormez si peu ? quel Diable de ménage !
-Aussi vous devenez maigre comme un anchois,
-Et vous avez morbleu le plus fichu minois !
-J'enrage ; car il faut aussi par complaisance,
-Que je veille avec vous sans me farcir la panse.
-Moi qui toute ma vie ai bien mangé, bien bu,
-Ma foi, je n'ai jamais été si mal repu.
-Aussi, je m'aperçois que ma graisse est fondue,
-Je deviens tous les jours plus sec qu'une morue,
-À peine suis-je à table, aussitôt vous criez
-Scaramouche... d'abord il faut lever les pieds.
-Tu mangeras tantôt, va porter cette lettre
-À Spinette, à présent elle est à sa fenêtre,
-Et tu la lui rendras sans qu'on puisse te voir ;
-Cet ordre rigoureux me met au désespoir
-La nuit lorsque je crois reposer à mon aise,
-Scaramouche ! Viens-t'en me mettre sur la chaise,
-Pendant toute la nuit voilà quel est le train,
-Cela dure souvent jusques au lendemain ;
-Je crois que vous rendez votre amour par derrière
-Et vous m'empoisonnez avec vôtre matière.
-
--*who_octave
-Veux-tu bien terminer de si fades discours
-Sans rime, et sans raison tu plaisantes toujours.
-
--*who_scaramouche
-Le vilain loup-garou qui n'aime pas la joie !
-
--*who_octave
-Cours appeler Spinette il faut que je la voie.
-
--*who_scaramouche
-Oui, mais si le docteur était dans la maison
-Il me régalerait de cent coups de bâton :
-Le drôle quand il bat n'y va pas de main morte,
-Je le sais.
-
--*who_octave
-      Ne crains rien, va frapper à sa porte.
-
--*who_scaramouche
-Allons je le veux bien, et si je suis battu
-Je vous rendrai ma foi ce que j'aurai reçu.
-
--*who_octave
-Finiras-tu maraud ?
-
--*who_scaramouche
-      Qu'il a l'humeur farouche !
-Hola ! Quelqu'un, c'est moi ?
-
-**** *book_ *id_I09 *act_I *date_1710
-
--*who_spinette
-      Que veux-tu Scaramouche ?
-
--*who_scaramouche
-Madame en vérité... pour moi je ne veux rien,
-
--*who_spinette
-Adieu donc.
-
--*who_scaramouche
-      Serviteur, parlez, Monsieur.
-
--*who_octave
-      Hé bien !
-Qu'as-tu donc fait ?
-
--*who_scaramouche
-      J'ai vu la charmante Spinette,
-Qu'elle a l'air engageant ! morbleu qu'elle est bien faite !
-Elle m'a demandé pourquoi je l'appelais,
-Elle a voulu savoir ce que je lui voulais,
-Et moi j'ai répondu, je ne veux rien Spinette,
-Aussi-tôt elle a pris la poudre d'escampette.
-Voilà ce que j'ai fait.
-
--*who_octave
-      Ah ! le joli garçon
-Et qu'il s'acquitte bien d'une commission.
-Hola !
-
--*who_spinette
-      Que veux-tu donc, ah ! c'est vous !
-
--*who_octave
-      Oui, ma belle,
-Vous me voyez ici...
-
--*who_scaramouche
-      Bonjour Mademoiselle,
-Mon Maître n'a pas tort, elle a bien des appas,
-Le pauvre Scaramouche en ferait ses choux gras.
-
--*who_octave
-Hé bien puis- je former une douce espérance ?
-Vôtre cœur ressent-il les tourments de l'absence ?
-Et quand vous me voyez, goûte-t-il les plaisirs
-Où doivent se borner ses uniques désirs ?
-
--*who_spinette
-Douteriez-vous encor de mon ardeur parfaite ?
-Quoi, vous ne croyez pas d'être aimé de Spinette ?
-Que je suis malheureuse ; après ce que j'ai fait,
-Vous êtes trop jaloux.
-
--*who_octave
-      Je le suis en effet :
-Si je ne vous aimais avec délicatesse,
-Je ne craindrais pas tant, ma charmante Maîtresse,
-Ah ! Loin que mes soupçons vous soient injurieux,
-Ils doivent leur naissance à l'excès de mes feux.
-
--*who_spinette
-Par où donc, cher Octave, ai-je pu vous déplaire ?
-Pour vous tant allarmeR que me voyez-vous faire ?
-Du matin jusqu'au soir je suis dans la Maison ;
-Quand vous me soupçonnez vous n'avez pas raison ;
-A de pareils discours je ne puis rien comprendre.
-
--*who_octave
-Tu pleures ?
-
--*who_scaramouche
-      Oui, Monsieur ; c'est que j'ai le cœur tendre.
-
--*who_octave
-Daignez sécher les pleurs qui coulent de vos yeux.
-
--*who_scaramouche
-Monsieur, jusqu'à demain nous pleurerons tous deux ;
-Aussi pour quoi lâcher le robinet des larmes :
-Que de beaux yeux en pleurs ont d'agréables charmes !
-
--*who_spinette
-De moi, je le vois bien, vous faites peu de cas,
-Vous me grondez toujours, et vous ne m'aimez pas.
-
--*who_octave
-Pardonnez-moi Spinette, et croyez que mon âme
-Saura brûler pour vous d'une éternelle flamme,
-Belle, vous me voyez soumis à vos genoux...
-
--*who_spinette
-Dites moi donc, Monsieur quand nous marierons-nous ?
-Mon père est bien méchant, vous aurez de la peine
-À gagner son esprit.
-
--*who_octave
-      Non, vôtre crainte est vaine,
-Il faudra qu'il consente, et je suis assuré...
-
--*who_scaramouche
-Ah ! Que je serai beau quand j'aurai bien pleuré !
-
--*who_spinette
-Vous m'avez tant de fois promis des sérénades,
-Quand m'en donnerez-vous ? j'aime fort les aubades.
-
--*who_octave
-Ce soir.
-
--*who_spinette
-      N'y manquez pas, les filles du quartier
-Ont toutes ce plaisir, et je dois l'envier,
-J'aime les instruments on ne peut davantage.
-
--*who_scaramouche
-C'est assez là le goût des filles de vôtre âge.
-
--*who_octave
-Votre père n'est pas à présent au Logis.
-Entrons-y.
-
--*who_spinette
-      Mais par lui si vous étiez surpris,
-Il me maltraiterait d'une étrange manière.
-
--*who_octave
-Entrons sans différer, ne craignez rien ma chère ;
-Scaramouche aura soin de l'écarter d'ici :
-Entends-tu ?
-
--*who_scaramouche
-      Peste soit de l'amoureux transi :
-Cet emploi m'est à charge, et ne me convient guère,
-Tout franc je suis bien las d'un pareil ministère,
-Moi qui jamais n'ai craint en amour de rivaux,
-Aujourd'hui l'on m'emploie à garder les manteaux :
-Mais voici le Docteur.
-
-**** *book_ *id_I10 *act_I *date_1710
-
--*who_ledocteur
-      Non, je n'y puis suffire :
-C'est souffrir trop longtemps un rigoureux martyre :
-Quoi, je ne puis jouir d'un moment de repos !
-Le moyen d'écouter tant de fades propos ;
-L'un me vient aborder, un inconnu m'embrasse,
-Et cet autre me tient des discours à la glace :
-Comment vous portez-vous ; que dit-on de nouveau,
-Pour aller prendre l'air le temps est assez beau.
-L'un parle de sa voix, et l'autre de sa danse ;
-Celui-ci prend le soin de vanter ma science :
-De pareils entretiens ne me conviennent pas,
-Peste des importuns, j'en trouve à chaque pas :
-Horace avait raison d'en craindre la poursuite,
-Et de fuir avec soin cette race maudite ;
-Et le plus sûr moyen de fuir tous ces fâcheux,
-C'est d'entrer au Logis, et de m'éloigner d'eux.
-
-**** *book_ *id_I12 *act_I *date_1710
-
--*who_octave
-Hé bien puis-je sortir, et n'ai-je rien à craindre ?
-
--*who_scaramouche
-Le Docteur est bien loin, et j'ai su le contraindre
-A partir de ces lieux en le chargeant de coups,
-De peur qu'il ne revienne, allons, retirez-vous.
-
-**** *book_ *id_I13 *act_I *date_1710
-
--*who_argentine
-Que l'état d'une fille est triste et déplorable !
-Lors qu'en proie aux rigueurs du destin qui l'accable,
-Elle doit obéir, et que son cœur gêné,
-À fuir un doux penchant est enfin condamné.
-Non, je ne puis subir cette loi tyrannique.
-
--*who_leandre
-Il faut pour m'égayer que je mette en pratique
-La leçon qu'Arlequin m'a tracée en ces lieux.
-Que vois-je ! Quel objet se présente à mes yeux !
-Je vais, comme il m'a dit, me camper devant elle
-D'un air de petit Maître, et sourire à la belle.
-Bon, j'en fuis aperçu, tout va bien jusqu'ici ;
-Jouons de la prunelle en amoureux transi,
-Lançons-lui tendrement une œillade engageante,
-Pour la faire bien-tôt répondre à mon attente :
-Ce soupir plein de feu va la déterminer ;
-J'ai commencé l'ouvrage, il faut le terminer :
-Je dois mordre mon gant ; elle se met à rire,
-Je crois que j'obtiendrai tout ce que je désire.
-Madame, permettez que ma naissante ardeur
-Éclate, et que le feu qui dévore mon cœur
-Se découvre à vos yeux, puis qu'eux seuls l'ont fait naître.
-Il est trop violent pour craindre de paraître,
-Et jusques au tombeau je prétends vous aimer,
-Ma belle à vôtre tour laissez-vous enflammer ;
-Et pour prix de l'ardeur qui prés de vous m'arrête,
-J'ose vous demander en grâce un tête à tête.
-Qui ne dit mot consent ; elle l'accordera,
-Et je suis déjà sûr d'avoir l'et cetera.
-
--*who_argentine
-Un tel aveu, Monsieur, a lieu de me confondre ;
-Vous m'embarrassez fort, je ne sais que répondre ;
-Cependant je veux bien vous dire ingénument
-Qu'en cet instant mon cœur goûte un plaisir charmant ;
-Et comme je voudrais éviter l'esclavage,
-Pour me soustraire au joug d'un fatal mariage,
-Où prétend me soumettre un jaloux odieux ;
-Je braverais pour vous ses transports furieux ;
-Mais je crains de former une vaine espérance.
-
--*who_leandre
-Non, non, assurez-vous de ma persévérance ;
-Jusques à ce moment j'ai méprisé l'amour,
-Mais je vois qu'à ce Dieu chacun cède à son tour.
-Vous seule êtes l'objet de ma première flamme,
-Et vous avez enfin triomphé de mon âme :
-Pour vous faire échapper aux rigueurs du jaloux,
-Les plus affreux périls me sembleront trop doux,
-
--*who_argentine
-Que mon sort serait beau, si vous étiez ; sincère !
-Mais je n'ose penser...
-
--*who_leandre
-      N'en doutez point ma chère.
-
--*who_argentine
-Hé bien, s'il est ainsi, je vous attends demain,
-Pour vous communiquer en secret mon dessein ;
-Ensemble nous prendrons des mesures certaines,
-Pour entrer dans vos fers, je briserai mes chaînes.
-Je crains que mon jaloux ne vous trouve en ce lieu,
-Il faut vous retirer.
-
--*who_leandre
-      Vous me quittez.
-
--*who_argentine
-      Adieu.
-
--*who_leandre
-Déjà...
-
--*who_argentine
-      Dans un moment il doit ici se rendre ;
-Dites-moi votre nom.
-
--*who_leandre
-      On m'appelle Léandre.
-
--*who_argentine
-C'en est assez, Léandre, il ne tiendra qu'à vous
-De posséder ma main en qualité d'époux.
-
--*who_leandre
-Ah ! Puisqu'à vous aimer mon cœur se détermine,
-Apprenez-moi du moins vôtre nom.
-
--*who_argentine
-      Argentine,
-Mon cher Léandre, adieu, j'attends vôtre retour,
-Songez au rendez-vous accordé par l'amour.
-
--*who_leandre
-Quel changement soudain ! je me vois sans défense,
-Qu'êtes-vous devenue heureuse indifférence !
-Quoi l'amour à ses lois a soumis ma raison !
-J'ai pris, je le vois bien, du goût à la leçon ;
-Et ce Dieu tout à coup s'est vengé sur moi-même,
-Du mépris que j'ai fait de son pouvoir suprême.
-
-**** *book_ *id_I14 *act_I *date_1710
-
--*who_scaramouche
-Préludez s'il vous plaît, Messieurs du Violon,
-Et faites de Musique un joli carillon.
-
--*who_lachanteuse
-Un amant soumis à vos lois,
-Languit pour vous, belle Spinette ;
-Il brûle d'une ardeur parfaite,
-Et n'a pu faire un plus beau choix.
-Il cherche sans cesse à vous plaire.
-Ah ! daignez répondre à ses feux !
-Si vous voulez le rendre heureux,
-Il n'aura plus de vœux à faire.
-
-**** *book_ *id_I15 *act_I *date_1710
-
--*who_ledocteur
-Que font ces insolents plantez devant ma porte,
-Je veux les étriller, mais de la bonne sorte.
-
--*who_arlequin
 Messieurs les amoureux, je vais vous régaler,
 Et bientôt de ces lieux vous faire détaler.
 
-**** *book_ *id_II01 *act_II *date_1710
-
--*who_mezzetin
-Vive le jus de la treille
-Pour dissiper le chagrin :
-Lorsque je tiens ma bouteille,
-Je goûte un heureux destin.
-J'aime mieux rougir ma trogne
-Qu'aimer un objet charmant :
-Rien n'inquiète un ivrogne,
-Et tout alarme un amant.
-Ma foi c'est un plaisir de chanter et de boire,
-Le joyeux Mezzetin en fait toute sa gloire ;
-Fi de ces amoureux languissants et transis,
-Qu'accompagnent toujours les peines, les soucis ;
-Pour moi, grâces au Ciel, je n'ai point le cœur tendre,
-Dans ses filets tendus l'amour ne peut me prendre :
-J'incague son pouvoir, je me ris de ses traits,
-Et le Cabaret seul a pour moi des attraits.
-Je m'enivre souvent, et je suis un bon drille,
-Je fume quelquefois, je joue à Briscambille ;
-En moi d'un bon grivois on peut voir le portrait,
-Je suis sur mon honneur un Lyonnais parfait.
-Je voudrais bien savoir où s'est fourré mon Maître...
-Mais le voici qui vient, et je le vois paraître.
-
-**** *book_ *id_II02 *act_II *date_1710
-
--*who_leandre
-Étrange état d'un cœur que l'amour a soumis !
-De trouver du repos il ne m'est plus permis.
-
--*who_mezzetin
-Monsieur...
-
--*who_leandre
-      Loin de l'objet de ma nouvelle flamme
-Je ne puis vivre en paix, tout agite mon âme.
-
--*who_mezzetin
-Monsieur...
-
--*who_leandre
-      A le revoir je borne tous mes vœux,
-Et son aspect charmant peut seul me rendre heureux.
-
--*who_mezzetin
-Monsieur...
-
--*who_leandre
-      Ah ! Mezzetin que j'ai d'inquiétude !
-L'amour me fait souffrir le tourment le plus rude.
-
--*who_mezzetin
-La soif me désespère et me fait enrager.
-
--*who_leandre
-Je cherche un beauté...
-
--*who_mezzetin
-      Moi je cherche à manger.
-
--*who_leandre
-Non, rien n'est comparable aux attraits d'Argentine.
-
--*who_mezzetin
-Non, rien n'est plus charmant qu'une grande Cuisine.
-
--*who_leandre
-Et le cœur le plus fier doit enfin lui céder.
-
--*who_mezzetin
-Oui, je voudrais toujours m'emplir et me vider.
-
--*who_leandre
-Que dis-tu, Mezzetin, et quel est ce langage ?
-
--*who_mezzetin
-Pour moi le mot d'amour est un sensible outrage,
-Parlez plutôt de boire, est-il rien de plus doux
-Qu'un son harmonieux d'agréables glouglous ?
-Rien ne peut approcher de cette mélodie.
-
--*who_leandre
-Je croyais sans aimer passer toute ma vie ;
-Mais depuis que j'ai vu l'objet qui m'a charmé,
-Mon cœur indifférent s'est d'abord enflammé :
-Pour ne pas l'adorer ma Maîtresse est trop belle,
-Je dois dans un moment m'introduire chez elle ;
-Tu pourrais interrompre un si doux entretien,
-Retire-toi d'ici.
-
--*who_mezzetin
-      Ma foi je le veux bien ;
-Vous n'avez qu'à jaser, et conter la fleurette,
-Moi, je vais chez Muri boire la chopinette.
-
-**** *book_ *id_II03 *act_II *date_1710
-
--*who_leandre
-Voici l'heure, je pense, où je dois lui parler.
-Je suis bien amoureux, à ne le point celer !
-Parbleu, c'est tout de bon ; mais j'aperçois mon maître.
-Comment, cher Arlequin, pourrai-je reconnaître
-Votre bonté pour moi, vos soins officieux ?
-
--*who_arlequin
 Croyez, mon cher enfant, que j'ai fait de mon mieux :
 Avez-vous profité d'une leçon fi belle ?
 Vous étiez à l'amour terriblement rebelle.
 
--*who_leandre
-Ami, ce temps n'est plus, mon cœur est bien changé,
-Et dans d'aimables fers il se trouve engagé.
-J'ai suivi bien à point vôtre douce maxime :
-C'était contre l'amour commettre un trop grand, crime,
-Que de ne pas céder à des appas vainqueurs,
-Et je suis revenu de mes vaines erreurs.
-
--*who_arlequin
 Ah ! que j'en suis ravi, voila ce qui s'appelle,
 À voir un écolier et soumis, et fidèle ;
 Je suis trop satisfait que ma sage leçon
@@ -939,164 +463,48 @@ Ait fait en peu de temps un élève si bon.
 Çà ne me cachez rien, la belle s'est rendue ?
 Parlez, qu'avez-vous fait depuis nôtre entrevue ?
 
--*who_leandre
-J'ai d'abord pratiqué ce que vous m'avez dit :
-Vos préceptes étaient gravez dans mon esprit.
-Ainsi je ne pouvais qu'à mon grand avantage
-Appliquer la leçon que j'ai mise en usage.
-Un objet tout charmant s'est offert à mes yeux,
-Cette jeune beauté loge prés de ces lieux,
-Elle est, je l'avouerai, tout à fait engageante ;
-La Belle a répondu sans peine à mon attente,
-Pour la mieux amorcer j'ai d'abord employé,
-Les soupirs, les regards, je n'ai rien oublié :
-Enfin dans un moment je dois entrer chez elle.
-
--*who_arlequin
 Dites-moi donc comment le nomme cette belle.
 
--*who_leandre
-Son nom est Argentine.
-
--*who_arlequin
       Ha ! Que me dites-vous ?
 
--*who_leandre
-Elle est entre les mains d'un brutal, d'un jaloux
-Qu'elle ne peut souffrir, et que son cœur déteste.
-
--*who_arlequin
 Oh ! pour le coup j'en tiens, il m'a donné mon reste,
 L'ai-je bien entendu ? Peste de la leçon,
 Peut-être il s'est mépris, et quelle est sa Maison ?
 
--*who_leandre
-C'est là.
-
--*who_arlequin
       Vous vous trompez.
 
--*who_leandre
-      Non : c'est là sa demeure.
-
--*who_arlequin
 C'est peut-être plus bas.
 
--*who_leandre
-      Non Monsieur, où je meure.
-C'est ici.
-
--*who_arlequin
       Juste Ciel ! je n'en dois plus douter,
 Il a de me leçon su trop bien profiter.
 Ce Diable d'écolier en sait plus que le Maître.
 
--*who_leandre
-Dans un moment j'espère encore la mieux connaître :
-Son Jaloux est dehors, elle m'introduira
-Dans son Appartement.
-
--*who_arlequin
       Gare l'et cetera.
 
--*who_leandre
-Si vous vouliez Monsieur pour couronner l'ouvrage,
-Entrer chez me Maîtresse, et voir si ce sauvage,
-N'est point dans le Logis, vous m'obligerez fort.
-Ne refusez donc pas de servir mon transport :
-Vous êtes si zélé, d'une humeur si traitable !
-
--*who_arlequin
 Que j'ai lieu d'espérer... Ce serait bien le Diable,
 Cet ouvrage sans moi saura se terminer,
 Et vous allez, Monsieur, bien-tôt le couronner.
 
--*who_leandre
-Quoi, vous ne voulez pas ? Votre refus m'offense.
-
--*who_arlequin
 Non, ma foi, je ne puis le faire en conscience,
 Adieu.
 
--*who_leandre
-      Vous me quittez ; Ah ! restez en ces lieux,
-Pour voir....
-
--*who_arlequin
       Je ne suis pas à présent curieux.
 Ah ! Maudit écolier ! que la peste te crève.
 Qui l'eût jamais pensé : j'ai fait une bel élève ;
 Mais je veux à l'écart observer tout ceci.
 
--*who_leandre
-Qu'elle tarde à venir, juste Ciel ! La voici.
-
-**** *book_ *id_II04 *act_II *date_1710
-
--*who_leandre
-C'est donc vous ? Argentine, enfin vôtre présence
-Satisfait aux transports de mon impatience.
-Je vous vois, et je suis parfaitement heureux.
-
--*who_argentine
-Au plaisir d'être à vous je borne tous mes veux :
-Vous seul pouvez parer le coup qui me menace,
-Et me faire éviter une affreuse disgrâce ;
-Je ne puis consentir d'épouser un magot.
-
--*who_arlequin
 Comme elle me connaît ! Que je suis un grand sot !
 Ne lui devrais-je pas donner une bourrade...
 Mais non : je suis poltron, et je crains la gourmade.
 
--*who_leandre
-Oui, de vôtre jaloux je veux vous délivrer,
-Ma belle, c'est de quoi je puis vous assurer,
-Et les nœuds de l'hymen nous uniront ensemble.
-
--*who_argentine
-Ciel ! S'il nous surprenait ! Ah ! Léandre je tremble...
-
--*who_leandre
-Non, non, ne craignez rien, s'il troublait nos discours,
-Ce serait fait de lui j'abrégerais ses jours.
-
--*who_arlequin
 Oh ! vous pouvez parler avec toute assurance,
 Après l'avoir instruit, la belle récompense !
 
--*who_argentine
-Souhaitez-vous entrer ?
-
--*who_arlequin
       Eh non qu'il n'entre pas.
 
--*who_leandre
-Belle, je ne veux point vous causer d'embarras,
-Je vais tout disposer pour nôtre mariage.
-
--*who_arlequin
 S'il veut nous nous mettrons tous les deux en ménage,
 Moi je l'aurai la nuit, et lui l'aura le jour.
 
--*who_argentine
-Léandre, au nom des Dieux, pressez vôtre retour,
-Puissent-ils protéger des ardeurs si fidèles !
-
--*who_leandre
-Ma chère, de l'amour j'emprunterai les ailes.
-Pour voler jusqu'à vous, et pour vous garantir...
-
--*who_argentine
-Ce n'est pas sans regret que je vous vois partir.
-
--*who_leandre
-Tantôt de mon dessein vous serez mieux instruite
-Et nos amours auront une agréable suite.
-
-**** *book_ *id_II05 *act_II *date_1710
-
--*who_arlequin
 Hé bien qu'en dirons-nous ! sont-ce là des chansons !
 Non pas, voilà l'effet de mes belles leçons,
 Je m'en suis bien douté, quand cette matinée
@@ -1114,182 +522,6 @@ Car si tous las Maris sujets à tels malheurs.
 Pleuraient amèrement pour pareilles alarmes
 On ne verrait ici que des yeux plein de larmes.
 
-**** *book_ *id_II06 *act_II *date_1710
-
--*who_ledocteur
-Je dois pour quelque temps m'absenter du Logis :
-Le soin de la Maison par moi vous est commis.
-Balayez bien ma chambre, et songez au ménage,
-Lorsque je reviendrai que je trouve un potage,
-Et que la porte soit fermée à double tour,
-Gardez-vous de l'ouvrir jusques à mon retour.
-
--*who_spinette
-Je vous obéirai : le devoir me l'ordonne.
-Si quelqu'un vient frapper...
-
--*who_ledocteur
-      Ne recevez personne.
-Faites ce que je dis, restez dans la Maison ;
-Surtout je vous défends de paraître au Balcon.
-
--*who_spinette
-Ferais-je un si grand mal, si pendant vôtre absence
-Je prenais un peu l'air ; pourquoi cette défense ?
-Quand je suis seule, hélas ! je m'ennuie a la mort,
-Et tout le monde dit que vous avez grand tort
-De me faire subir un si rude esclavage,
-Et qu'enfin il est temps de me mettre en ménage.
-Que déjà je devrais être avec un époux,
-Et que je me pourrais fort bien passer de vous.
-Car à ce qu'on m'a dit je suis fille nubile
-Je ne le sens que trop.
-
--*who_ledocteur
-      Vous faites l'indocile,
-Voyez cette morveuse, et ce bel embryon !
-
--*who_spinette
-Je ne mérite pas, mon père, un pareil nom.
-Vous m'appelez morveuse, et moi je vous assure
-Qu'on peut cueillir la poire aussitôt qu'elle est mûre,
-Et qu'il ne tient qu'à moi... suffit, je m'entends bien.
-
--*who_ledocteur
-Plaît-il ? Que dites-vous ?
-
--*who_spinette
-      Qui moi ? Je ne dis rien.
-
--*who_ledocteur
-Taisez-vous, je suis las d'entendre ce langage,
-Un semblable entretien, et m'échauffe, et m'outrage,
-Songez à m'obéir en tout ce qui me plaît,
-Ou vous m'obligerez à vous donner le fouet.
-
--*who_spinette
-Ne vous emportez pas, je crains vôtre colère,
-Mon cher petit papa.
-
--*who_ledocteur
-      Ma foi l'on a beau faire
-Pour gêner un esprit on se fatigue en vain ;
-Nature est la plus forte et va toujours son train.
-
-**** *book_ *id_II07 *act_II *date_1710
-
--*who_spinette
-Mon père me contraint et veut me rendre esclave ;
-Mais il n'en sera rien, si je voyais Octave,
-Maintenant au Logis je le ferais entrer,
-Peut-être viendra-t-il, j'ai tout lieu d'espérer ;
-Je l'aperçois enfin.
-
--*who_octave
-      Quelle bonne nouvelle ?
-
--*who_spinette
-Pour nous voir en secret l'occasion est belle,
-Mon père de longtemps ne viendra dans ces lieux.
-
--*who_octave
-Entrons, et profitons d'un moment précieux.
-
-**** *book_ *id_II08 *act_II *date_1710
-
--*who_ledocteur
-Je suis bien dissipé, je sors pour une affaire,
-Et j'oublie au Logis ce qui m'est nécessaire,
-Un Billet, sans lequel je ne puis recevoir
-La somme qui m'est due et que je veux avoir.
-A mes ordres prescrits ma fille obéissante,
-Ainsi qu'elle le doit, répond á mon attente :
-Elle a fermé sa porte. Un père est trop heureux,
-Quand sa fille veut bien satisfaire à ses vœux ;
-Et je rends grâce au Ciel, dont la bonté suprême
-M'a fait naître un enfant d'une sagesse extrême.
-Spinette ne sait pas ce que c'est qu'un amant,
-C'est ce qu'en une fille on trouve rarement ;
-Mais pour m'ouvrir la porte il faut que je l'appelle :
-Spinette, hola Spinette ! À présent que fait-elle ?
-Sans doute elle s'amuse à tricoter un bas,
-Je suis bien assuré qu'elle ne m'attend pas.
-
-**** *book_ *id_II09 *act_II *date_1710
-
--*who_spinette
-Que deviendrai-je hélas ! Juste Ciel, c'est mon père !
-Courage, un stratagème est ici nécessaire.
-Ah ! Mon père je suis en proie à la douleur,
-Il vient de m'arriver le plus cruel Malheur...
-Vous allez à coup sûr me faire une querelle.
-
--*who_ledocteur
-Ma Fille que dis-tu ?
-
--*who_spinette
-      Cette robe si belle
-Que vous prîtes le soin vous-même d'acheter.
-
--*who_ledocteur
-Hé bien ?
-
--*who_spinette
-      Mon cher Papa je viens de la gâter :
-Elle est toute tachée.
-
--*who_ledocteur
-      Ô Ciel, est-il possible !
-
--*who_spinette
-Jugez à ce malheur si mon cœur est sensible !
-Attendez un moment, j'entre pour la chercher,
-Vous verrez si sans peine on peut la détacher.
-
--*who_ledocteur
-Parbleu, je suis touché d'un accident semblable
-Cette perte est vraiment assez considérable,
-Et j'en suis pénétré plus qu'on ne peut penser,
-On n'est pas en état toujours de dépenser.
-
--*who_spinette
-Prenez-la par un bout, regardez bien mon père,
-Pour moi je ne sais pas comment on pourra faire,
-La tache est grande, et moi je ne saurais penser
-Que quelque effort qu'on fasse on puisse l'effacer.
-
--*who_ledocteur
-Où donc est-elle ?
-
--*who_spinette
-      Là.
-
--*who_ledocteur
-      Tu te moques, je pense
-Je n'y vois rien.
-
--*who_spinette
-      Ici.
-
--*who_ledocteur
-      C'est une extravagance...
-
--*who_spinette
-Ah ! Je sais ce que c'est, je dois me consoler,
-La tache d'elle-même a voulu s'en aller.
-
--*who_ledocteur
-Entrons.
-
--*who_spinette
-      Je le veux bien, je n'ai plus rien à craindre,
-Et je puis à présent le voir sans me contraindre,
-S'il fût entré chez nous sans faire un grand effort,
-Il aurait découvert la tache tout d'abord.
-
-**** *book_ *id_II10 *act_II *date_1710
-
--*who_arlequin
 LE dessein en est pris, je vais faire carnage,
 Rien ne peut modérer ma fureur et ma rage :
 Il faut que l'infidèle expire sous mes coups,
@@ -1308,415 +540,23 @@ Ne perdons point le temps en discours superflus,
 Je prétends qu'elle meure, ainsi n'en parlons plus.
 Hola !
 
-**** *book_ *id_II11 *act_II *date_1710
-
--*who_argentine
-      Que vois-je, ô Ciel ! Que prétendez-vous faire ?
-
--*who_arlequin
 Rien, je veux vous purger, et vous tirer d'affaire :
 Hé bien, c'est donc ainsi, Madame la guenon,
 Que sans avoir égard à l'honneur, au renom,
 D'un vilain bois de Cerf vous arborez ma tête ?
 Il faut que vous mouriez, allons êtes-vous prête ?
 
--*who_argentine
-Quoi, vous vous préparez à terminer mes jours,
-Et vous voulez vous-même en abréger le cours ?
-Détournez loin de moi cet appareil terrible,
-Qu'à mes vives douleurs vôtre cœur soit sensible.
-De tout ce que j'ai fait, ingrat est-ce le prix ?
-Par où donc ai-je pu m'attirer vos mépris ?
-Ha, de mes tristes yeux voyez couler mes larmes,
-Et daignez dissiper mes mortelles alarmes.
-Quand je veux vous donner le nom de mon époux,
-Que je cherche à répondre à vos vœux les plus doux,
-Vous pouvez vous résoudre à m'arracher la vie !
-Vôtre fureur sur moi doit-elle etre assouvie ?
-A vos jaloux soupçons vous voulez m'immoler,
-Et c'est par vous, cruel, que mon sang, doit couler ?
-
--*who_argentine
-Non, c'est sur toi qu'il faut qu'éclate ma colère,
-Je veux exécuter ce que tu n'as su faire,
-C'est à présent mon tour, et je vais te purger.
-C'est donc ainsi, faquin, que tu veux te venger ?
-Ah ! Le vilain magot, apprends à me connaître,
-Si tu viens au Logis, ma foi, par la fenêtre
-Je te ferai sortir.
-
--*who_arlequin
       Mais...
 
--*who_argentine
-      Tu parles, je crois ?
-Je te conseille encor de te jouer à moi ;
-Dans ta bouche je veux mettre quelque pilule,
-Mais non, de te tuer je me fais un scrupule,
-Tu n'en vaux pas la peine : adieu, maître poltron ;
-C'est ainsi que je sais punir un fanfaron.
-
--*who_arlequin
 Voilà comme l'on doit se tirer d'une affaire,
 Ma foi, j'ai bien du cœur, et l'on ne peut mieux faire,
 Ah ! Chien de naturel ! J'admire ma valeur,
 Une femme aujourd'hui m'outrage et me fait peur !
 
-**** *book_ *id_II12 *act_II *date_1710
-
--*who_pierrot
-Petit fouille-partout, Dieu plus méchant qu'un Diable,
-Amour, c'est trop long temps me rendre misérable :
-Depuis que sur Pierrot décochant tous tes traits,
-Tu l'as fait par malice entrer dans tes filets,
-Il ne fait que languir, pleurer, gémir, et braire,
-Ma foi pour me guérir je ne sais plus que faire.
-J'ai depuis quelque temps un cours de ventre affreux :
-Argentine, mamour, doux objet de mes vœux,
-Quand soulagerez-vous le tourment que j'endure ?
-Vous avez un onguent très bon pour la brûlure.
-Aouf, quel gros soupir ! Non ce n'est pas un jeu,
-Je brûle là dedans, au feu, Messieurs, au feu.
-
-**** *book_ *id_II13 *act_II *date_1710
-
--*who_scaramouche
-Pourquoi crier au feu, ta Maison brûle-t-elle ?
-
--*who_pierrot
-Hélas, c'est que l'amour me trouble la cervelle :
-Je suis devenu fou par faute de raison,
-Et dans mon estomac je sens comme un tison,
-Qui petit à petit par les deux bouts s'allume ;
-Je crains bien qu'à la fin ce feu ne me consume :
-Argentine est l'objet qui me fait tant languir,
-Elle m'aime beaucoup, et ne peut me souffrir.
-
--*who_scaramouche
-Aux dépens de Pierrot, ma foi je prétends rire :
-C'est donc-là la beauté pour qui ton cœur soupire ?
-Comment pauvre nigaud veux-tu t'en faire aimer ?
-Peut-on en te voyant se laisser enflammer ?
-Un habit de meunier te sert de couverture,
-Tu n'as point de cheveux, et ta laide figure
-Doit plutôt dans une âme inspirer du mépris :
-Aujourd'hui, mon enfant, on s'attache aux habits,
-Et quand tu serais beau comme un petit Narcisse,
-Si tu n'est bien vêtu, tu seras un Jocrisse,
-
--*who_pierrot
-Comment, c'est donc l'habit qui donne de l'amour ?
-
--*who_scaramouche
-Aux habits, à l'argent les femmes font la cour :
-Est-on riche et bien mis, on doit s'attendre à plaire,
-La femme aime l'éclat, et non pas la misère.
-Fagoté de la sorte avec ce vêtement,
-On te prendrait ma foi pour un sac de froment :
-Mais si Pierrot voulait reformer sa figure,
-Et comme un petit Maître affecter la parure,
-Se mettre tout en frange, et se poudrer le dos,
-Il serait en amour reçu comme un héros.
-Oui tu serais couru de toutes les coquettes,
-Des Dames du grand air, et même des grisettes :
-Je vais, si tu le veux, pour te mettre en crédit,
-Dans ce même moment te chercher un habit.
-
--*who_pierrot
-Tope, je le veux bien, que j'aurai bonne mine !
-Je suis sûr de charmer mon aimable Argentine,
-Quand elle me verra couvert d'un bel harnois :
-Dans le fond je n'ai pas un trop vilain minois,
-Ce n'est que cet habit qui seul me défigure,
-Sans cela j'aurais eu quelque bonne aventure.
-
--*who_pierrot
-Voilà ce qui s'appelle être sur le bon pied,
-Au Diable l'habit blanc, fi je faisais pitié :
-Sous ces beaux ornements je pourrai bien paraître,
-Je crois qu'ainsi vêtu j'ai l'air d'un petit Maître.
-
-**** *book_ *id_III01 *act_III *date_1710
-
--*who_octave
-Quand du puissant amour nous ressentons les feux,
-Ce vainqueur aisément nous rend ingénieux ;
-A qui subit ses lois il n'est rien d'impossible,
-Ce Dieu fait surmonter un obstacle invincible :
-C'est par lui que Spinette a trompé le Docteur,
-Ce tour est merveilleux, et j'en ris de bon cœur.
-Mais il faut au plutôt m'assurer de la belle,
-Quoique son père fasse exacte sentinelle,
-Je prétends l'enlever, le dessein en est pris,
-Et je ne puis enfin être heureux qu'à ce prix.
-
-**** *book_ *id_III02 *act_III *date_1710
-
--*who_leandre
-Cher ami, vos conseils ont engagé mon âme
-A brûler comme vous d'une fidèle flamme ;
-Les leçons d'Arlequin m'ont su déterminer,
-Je vous fais un aveu qui doit vous étonner :
-L'indifférence était de mon cœur, le partage,
-Mais l'amour aujourd'hui s'y fait un doux passage.
-
--*who_octave
-Vous aimez ?
-
--*who_leandre
-      C'en est fait, j'ai cédé malgré moi,
-Je n'ai pu me soustraire à l'amoureuse loi :
-Vainement les plus fiers cherchent à s'en défendre,
-Et cent fois plus que vous, ami j'ai le cœur tendre.
-Pour marquer à ma belle un violent amour,
-Je la dois enlever avant la fin du jour ;
-Et pour la délivrer du jaloux qui l'obsède,
-Cette grande entreprise en est le seul remède.
-
--*who_octave
-Nos desseins sont égaux, pour preuve de mes feux,
-Je tromperai les soins d'un père trop fâcheux ;
-Par un enlèvement digne de ma tendresse,
-Je m'assure aujourd'hui de ma chère Maîtresse :
-Mais quelle est la beauté dont vous êtes épris ?
-Vous le savez assez, je suis de vos amis,
-Ne me déguisez rien.
-
--*who_leandre
-      Non, c'est vôtre voisine,
-Elle loge ici prés, et se nomme Argentine.
-
--*who_octave
-Comment, que dites-vous ? Vous me surprenez fort,
-Argentine ! Vraiment d'un si tendre transport
-Vôtre Maître Arlequin vous sera redevable,
-Vous en usez fort bien avec ce pauvre Diable,
-Qui charitablement vous a tantôt instruit :
-Il devait, ce dit on, l'épouser cette nuit.
-
--*who_leandre
-Arlequin, dites-vous ! L'aventure est plaisante,
-Je ne le savais pas.
-
--*who_octave
-      Un tel aveu m'enchante.
-
--*who_leandre
-Je l'ai trouvé tantôt, et comme un imprudent
-Je l'ai de mes secrets rendu le confident,
-En l'instruisant d'abord de ma flamme nouvelle :
-Mais que faire ? Mon cher, j'adore cette belle,
-A ses yeux Arlequin est un monstre odieux,
-Si j'en crois ses discours, je lui plais beaucoup mieux :
-M'avoir pour son époux est ce qu'elle désire,
-Et mon cœur amoureux à ce bonheur aspire.
-Malgré le noir souci du jaloux Arlequin,
-J'ai chargé d'un billet mon valet Mezzetin ;
-Lui-même à cette belle aura soin de le rendre ;
-Il sait où la conduire, et moi je vais l'attendre.
-
--*who_octave
-De grâce, cher ami, ne m'abandonnez pas,
-Je veux avec Spinette accompagner vos pas,
-Et dans le même endroit conduisant nos Maîtresses,
-Nous ferons éclater nos égales tendresses.
-Le Docteur doit dans peu sortir de la Maison,
-Vous pouvez me servir en cette occasion.
-
--*who_leandre
-Octave j'y consens. Et vôtre amour me touche.
-
--*who_octave
-Voici fort à propos mon valet Scaramouche.
-
-**** *book_ *id_III03 *act_III *date_1710
-
--*who_octave
-Attends ici Spinette. Il faut enlever,
-Avec elle bien-tôt tu viendras me trouver
-Au coin de cette rue, où nous allons l'attendre.
-
--*who_scaramouche
-Vous êtes de moitié, vous et Monsieur Léandre,
-Et vous avez acquis ce bien à fond perdu.
-
--*who_octave
-Répons-moi comme il faut, m'as-tu bien entendu ?
-
--*who_scaramouche
-Qui ne vous entendrait serait bien dur d'oreille.
-
--*who_octave
-Il la faut enlever...
-
--*who_scaramouche
-      Je comprends à merveille.
-Vous êtes en amour tous deux associés,
-J'y serais pour un tiers si vous me receviez.
-
--*who_octave
-Si-tôt que le Docteur aura quitté Spinette,
-Cours l'appeler, et songe à battre la retraite ;
-Adieu, nous t'attendons.
-
--*who_scaramouche
-      Allez toujours devant,
-Et pendant ce temps là voyez d'où vient le Vent.
-Voici le dénouement de notre comédie :
-Quand le Docteur saura que sa fille est partie,
-D'abord contre mon Maître il fera décréter ;
-Messieurs les pousse-culs viendront le visiter,
-Ils me prendront aussi, moi j'avouerai l'affaire
-Comme étant du complot je ne pourrai rien taire :
-J'entendrai contre moi prononcer un arrêt,
-On fera tout d'abord préparer le gibet,
-Et Scaramouche ira sans en avoir envie,
-Danser la Sarabande en bonne compagnie.
-Belle réflexion ; mais voici le Docteur,
-Retirons nous...
-
-**** *book_ *id_III04 *act_III *date_1710
-
--*who_octave
-      Je vais chercher mon débiteur.
-Et me faire payer la somme qui m'est due.
-Son Obligation dés longtemps est échue,
-Il n'aura pas, je crois, de peine à l'acquitter ;
-D'ici pour un moment il me faut écarter.
-
--*who_scaramouche
-Ne perdons point de temps ; hola Mademoiselle !
-Descendez au plutôt, la gloire vous appelle.
-
-**** *book_ *id_III05 *act_III *date_1710
-
--*who_scaramouche
-Suivez-moi, s'il vous plait, mon Maître vous attend,
-Je suis son Substitut, son Commis, son Agent,
-Il m'a passé son ordre, afin qu'en son absence
-J'acquitte son Billet au temps de l'échéance ;
-Je vais vous le payer en espèce ayant cours.
-
--*who_spinette
-Scaramouche, partons, et finis tes discours,
-Je crains que dans ces lieux mon père ne revienne.
-Enlève-moi donc vite.
-
--*who_scaramouche
-      Ah, qu'à cela ne tienne,
-L'enlèvement vous plaît.
-
--*who_spinette
-      Je ne puis t'exprimer
-Le plaisir que j'éprouve ; oui, je me sens charmer,
-Ne nous arrêtons pas, je meurs d'impatience,
-Ce doux enlèvement flatte mon espérance.
-
--*who_scaramouche
-D'où vous vient cette joie ?
-
--*who_spinette
-      En lisant des romans,
-J'ai pris beaucoup de goût pour les enlèvements.
-Allons trouver Octave.
-
--*who_scaramouche
-      Il faut vous satisfaire,
-Quand je serais pendu ce n'est pas une affaire.
-
-**** *book_ *id_III06 *act_III *date_1710
-
--*who_mezzetin
-Mon Maître honnêtement veut se servir de moi,
-Et de Courtier d'Amour il me donne l'emploi :
-Aujourd'hui ce métier est assez en usage,
-Avec un grand plaisir j'en fais l'apprentissage ;
-Pour mieux me distinguer, et me faire un beau nom,
-Je devrais bien porter des ailes au talon,
-Chacun me connaîtrait, et me rendrait hommage :
-Mais allons au plutôt faire nôtre message :
-À sa belle je dois remettre le poulet,
-Et m'acquitter de tout en fidèle Valet.
-Il m'a fait voir l'endroit où je dois la conduire,
-Faisons donc promptement ce que son cœur désire.
-
-**** *book_ *id_III07 *act_III *date_1710
-
--*who_argentine
-Que voulez-vous, l'ami ?
-
--*who_mezzetin
-      Vous rendre ce billet,
-De la part de Léandre.
-
--*who_argentine
-      Ah, donnez s'il vous plaît.
-
--*who_mezzetin
-Vous êtes, je le vois, fort âpre à la curée,
-Et fillette en amour n'est jamais modérée.
-
--*who_argentine
-Pour vous dérober au pouvoir
-Du Jaloux odieux que votre cœur abhorre,
-N'écoutez point un barbare devoir,
-Et répondez au feu qui me dévore ;
-Avec mon Valet Mezzetin,
-Dans le lieu qu'il connaît vous n'avez qu'à vous rendre,
-Et vous y trouverez Léandre,
-Qui vous prépare un plus heureux destin.
-
--*who_mezzetin
-Madame suivez-moi, vous n'avez rien à craindre.
-
--*who_argentine
-C'est assez, je ne puis plus longtemps me contraindre,
-Attendez un moment, je reviens sur mes pas.
-
--*who_mezzetin
-Ce petit tendron-là ne me déplairait pas,
-Cette fille est mignonne, une telle bouteille
-Rappelle par ma foi son buveur à merveille :
-Mon Maître est bon gourmet, il a fait un beau choix,
-Le gaillard en sait long, c'est un futé matois,
-Il se plaît d'en conter aux femmes comme aux filles,
-Et c'est un pèlerin qui vend bien ses coquilles.
-La voici de retour.
-
-**** *book_ *id_III08 *act_III *date_1710
-
--*who_mezzetin
-      Hé bien partirons-nous ?
-
--*who_argentine
-Ah ! pour le refuser ce plaisir est trop doux !
-Je vous suis... Juste Ciel mon importun s'avance !
-
--*who_mezzetin
-Comment ? C'est Arlequin... Un peu de patience,
-Couvrez-vous le visage, et ne redoutez rien,
-C'est un franc animal, je le duperai bien.
-
--*who_arlequin
 Où vas-tu Mezzetin avec cette femelle ?
 
--*who_mezzetin
-Et morbleu, gardez vous d'effaroucher la belle,
-C'est une jeune Enfant, qu'au gré de mes désirs
-J'ai prise seulement pour mes menus plaisirs,
-Je l'enlève, mon cher, puisqu'il faut tout vous dire,
-En lieu de sûreté je prétends la conduire.
-
--*who_arlequin
 Et ne pourrait-on pas voir la Belle au minois ?
 
--*who_mezzetin
-Non pas, mais vous pourrez la voir une autre fois,
-Elle a de la pudeur, et craint d'être connue,
-Cette fille en un mot ne veut pas être vue.
-Adieu... Venez Madame il est temps de partir.
-
--*who_arlequin
 Moi seul de mes projets je dois me repentir,
 D'un objet tout charmant j'élève la jeunesse,
 Je lui donne mes soins, ma main, et ma tendresse,
@@ -1743,50 +583,18 @@ Voudra pour un moment cesser d'être cruelle,
 Tâchons de ramener son esprit et son cœur,
 Et pour y réussir employons la douceur.
 
-**** *book_ *id_III09 *act_III *date_1710
-
--*who_ledocteur
-Que le Ciel soit loué, j'ai fini mon affaire,
-Mon homme m'a reçu de la belle manière.
-Il vient de me païer en bon argent comptant,
-Et de son procedé, je suis enfin content.
-
--*who_arlequin
 Je suis assassiné, que faut-il que je fasse ?
 Ah ! Monsieur, le Docteur, secourez-moi de grace,
 Dans les occasions, on connoit ses amis.
 
--*who_ledocteur
-Quelle verve vous prend ?
-
--*who_arlequin
       Hélas ! Dans le Logis
 Je ne retrouve plus la charmante Argentine,
 Ah ! Si je la tenais, dans mon humeur chagrine,
 De son ventre morbleu je ferais un fourreau,
 Oui, je la percerais....
 
--*who_ledocteur
-      Tout beau, Monsieur, tout beau,
-Il faut vous consoler, calmez cette colère,
-On doit bien réfléchir avant que de rien faire :
-Jamais un Philosophe en son adversité,
-Ne doit faire paraître un esprit agité.
-
--*who_arlequin
 Quel homme flegmatique ! Ah, de bon cœur j'enrage,
 
--*who_ledocteur
-Modérez vos transports pour imiter le sage,
-Sans vous abandonner a de vaines douleurs,
-Soyez toujours constant dans les plus grands malheurs ?
-Vous pleurez, ah ! De grâce apaisez vos alarmes :
-Les femmes, les enfants ont bien recours aux larmes,
-Mais un homme d'esprit en verse rarement,
-Et vous vous démentez, vous dis-je, entièrement :
-Adieu, conservez-vous.
-
--*who_arlequin
       Que le Diable t'emporte,
 Il veut que je surmonte une douleur si forte
 Quand j'ai tant de sujet pour me désespérer,
@@ -1796,238 +604,56 @@ Le fourbe Mezzetin emmenait la coquine,
 Il n'en faut plus douter, et rien n'est plus certain ;
 L'oiseau s'est envolé, quel sera mon destin ?
 
-**** *book_ *id_III10 *act_III *date_1710
-
--*who_ledocteur
-Au secours.
-
--*who_arlequin
       Qu'avez-vous ?
 
--*who_ledocteur
-      On a volé ma fille,
-Peut-on ainsi traiter un père de famille !
-Ah ! mon cher Arlequin ne m'abandonnez pas ;
-Unissons-nous tous deux, venez, suivez mes pas,
-
--*who_arlequin
 Ah ! Tout doux s'il vous plaît, calmez vôtre colère,
 Il faut bien réfléchir avant que de rien faire :
 Un philosophe doit modérer son chagrin,
 Et dans l'adversité garder un front serein.
 
--*who_ledocteur
-Vous vous moquez de moi quand le malheur m'accable.
-
--*who_arlequin
 Consolez-vous, Monsieur.
 
--*who_ledocteur
-      Allez-vous en au Diable,
-Avec vôtre Doctrine, et vôtre air radouci.
-
--*who_arlequin
 Fi ! vous ne devez pas vous emporter ainsi,
 Mon flegme devrait-il alarmer vôtre Oreille,
 Vous avez tort, Monsieur, je vous rends la pareille,
 
--*who_ledocteur
-Il n'est pas temps, vous dis-je, ici de plaisanter :
-Cette fuite m'étonne, et me doit irriter,
-Ma fille, juste Ciel, qu'est-elle devenue ?
-Quel est l'audacieux qui la cache à ma vue ?
-Qu'il paroisse, et bien-tôt l'accablant sous ses coups,
-Le Docteur....
-
--*who_arlequin
       Argentine en quels lieux êtes-vous ?
 Faut-il que je sois veuf avant le Mariage !
 
--*who_ledocteur
-Arlequin vengeons-nous, unissons nôtre rage,
-Que je suis malheureux ! mes chagrins sont cuisants.
-
--*who_arlequin
 Les femmes seulement, et les petits enfants
 S'amusent quelquefois à répandre des larmes,
 Monsieur ne pleurez pas.
 
--*who_ledocteur
-      Allons, courons aux armes.
-
--*who_arlequin
 Je suis un peu poltron, ne comptez pas sur moi.
 
--*who_ledocteur
-Vous voulez badiner.
-
--*who_arlequin
       Non j'en jure ma foi.
 
--*who_ledocteur
-À l'aide !
-
--*who_arlequin
       À la Justice !
 
--*who_ledocteur
-      Au Meurtre !
-
--*who_arlequin
       On m'assassine.
 
--*who_ledocteur
-Spinette m'a quitté.
-
--*who_arlequin
       Moi, je perds Argentine.
 
-**** *book_ *id_III11 *act_III *date_1710
-
--*who_pierrot
-D'où vient ce tintamarre ; et pourquoi tant crier ?
-Parbleu, vous alarmez la moitié du Quartier.
-Je vous ai toujours vu d'une humeur pacifique,
-Qu'avez-vous aujourd'hui, la pierre, la colique,
-La migraine, la toux, la goutte, et cetera.
-
--*who_ledocteur
-Non, j'ai perdu ma Fille.
-
--*who_pierrot
-      On la retrouvera.
-
--*who_arlequin
 Il faut avoir le cœur aussi dur qu'une Roche...
 
--*who_pierrot
-Fille ne se perd pas comme un couteau de poche,
-Qu'avez-vous ?
-
--*who_arlequin
       J'ai perdu ce que j'aime le mieux,
 Argentine.
 
--*who_pierrot
-      Ma foi vous êtes fous tous deux.
-
--*who_arlequin
 Argentine est partie avec Monsieur Léandre.
 
--*who_pierrot
-Peut-être elle viendra, vous n'avez qu'à l'attendre,
-Lorsque de cette belle il se sera servi,
-S'il veut me la donner je serai son Mari
-Ces restes-là sont bons, je suis peu difficile.
-
--*who_ledocteur
-Mon soin pour la garder était donc inutile ?
-Je crève dans ma peau, je me sens étouffer.
-
--*who_pierrot
-La fille est comme un arbre il la faut bien greffer,
-Quelque bon jardinier aura pris cette peine.
-
--*who_arlequin
 La fille est, je l'avoue, une méchante graine.
 
--*who_pierrot
-Nous en voyons souvent sortir de bons pépins.
-
--*who_ledocteur
-Ma foi les plus Argus sont de vrais Quinze-vingts,
-On fait de vains efforts pour bien garder les filles.
-
--*who_pierrot
-Ce sont des limaçons qui quittent leurs coquilles.
-
-**** *book_ *id_III12 *act_III *date_1710
-
--*who_ledocteur
-Masques, vous pourriez bien ailleurs porter vos pas.
-
--*who_pierrot
-Peut-être leurs chansons ne vous déplairont pas.
-
--*who_lachanteuse
-En vain pour garder une belle
-Un jaloux veille nuit et jour,
-Quoi qu'il fasse la sentinelle,
-Rien n'est impossible à l'amour.
-Pour se soustraire à l'esclavage,
-Une jeune beauté va souvent autre part,
-Et l'oiseau que l'on tient en cage
-S'envole tôt ou tard.
-
--*who_arlequin
 Qui peut nous interrompre, au Diable la Musique ;
 Messieurs je n'aime point du tout le ton lyrique,
 De grâce laissez-nous ; passez vôtre chemin,
 Cela ne convient point quand on a du chagrin ;
 Ne voyez-vous pas bien que nous parlons d'affaire.
 
--*who_pierrot
-Messieurs, démasquez-vous.
-
--*who_leandre
-      Il faut vous satisfaire.
-Me reconnaissez-vous, répondez s'il vous plaît ?
-
--*who_arlequin
 C'est Léandre.
 
--*who_scaramouche
-      Je suis Cupidon le cadet.
-
--*who_arlequin
 Ah ! Le bon écolier ! Voyez comme il s'applique,
 J'ai de la théorie, et lui de la pratique.
 
--*who_leandre
-Argentine est à moi, je puis en disposer,
-De vôtre bon précepte on ne peut mieux user.
-
--*who_argentine
-Consolez-vous, Monsieur, cette peine est légère,
-Vous ne me convenez en aucune manière.
-
--*who_octave
-Monsieur, je suis Octave homme de qualité,
-J'ai pris, je le confesse, un peu de liberté,
-L'amour doit excuser la faute que j'ai faite,
-J'aimais depuis longtemps la charmante Spinette,
-Je prétends par l'hymen réparer son honneur.
-
--*who_ledocteur
-Non, je veux me venger....
-
--*who_octave
-      Ah ! Monsieur le Docteur.
-Ne vous emportez pas.
-
--*who_spinette
-      En vérité mon père,
-Je le ferais encor si j'avais à le faire.
-
--*who_ledocteur
-Il y faut consentir : car un enlèvement,
-Pourrait déshonorer ma fille entièrement,
-Allons, je vous pardonne, et vous comme mon gendre.
-
--*who_scaramouche
-Quant à moi je croyais que l'on m'aurait fait pendre,
-
--*who_pierrot
-Argentine mamour, tu ne m'aime donc pas ?
-J'avais pour toi tantôt fait emplette d'appas.
-
--*who_ledocteur
-Qu'est-ce donc Arlequin, vous gardez le silence ?
-
--*who_pierrot
-C'est qu'il enrage hélas ! Bien plus que l'on ne pense.
-
--*who_arlequin
 Ô Ciel, est-il possible ! Ah fuyons de ces lieux,
 Partons, éloignons nous de ce Monstre odieux !
 De cette trahison, ton cœur était capable ?
@@ -2067,31 +693,6 @@ Lorsque le coup est fait, le chagrin est frivole,
 Et puis qu'à cet hymen, j'ai voulu consentir,
 Pour terminer la fête il faut nous divertir.
 
--*who_lachanteuse
-Si le plaisir vous intéresse
-Cédez à des appas vainqueurs,
-Et vous livrant à la tendresse
-Goûtez ses flatteuses douceurs :
-Si l'amour est une faiblesse,
-C'est la faiblesse des grands cœurs.
-
--*who_leandre
-Un cœur au Dieu d'amour rebelle
-Tôt ou tard se doit enflammer :
-À peine ai je vu cette belle,
-Que je me suis laissé charmer,
-Et comme un écolier fidèle,
-J'ai bien pratiqué l'art d'aimer.
-
--*who_argentine
-Arlequin vous a fait connaître
-De l'amour le charmant sentier
-Et ce précepteur a fait naître
-Dans vôtre âme un ardent brasier,
-En pareil cas souvent le Maître
-Est moins heureux que l'écolier.
-
--*who_arlequin
 Vous qui de l'amoureux Empire
 Ignorez les biens les plus doux,
 Qu'un soin curieux vous attire,
@@ -2099,23 +700,518 @@ Ici je vous attendrai tous,
 Ma pièce saura vous instruire,
 Venez à l'école chez nous.
 
--*who_mezzetin
-Vainement un pédant se vante
-De régenter avec succès,
-Sa Doctrine trop fatigante
-Fait rarement de bons effets,
-Mais dans une école galante,
-On fait bientôt d'heureux progrès.
+Je n'aurai plus de vœux à faire
+Si vous secondez mes desseins,
+Et si ma pièce a su vous plaire
+Donnez-m'en des signes certains,
+J'en serai sûr si le parterre
+Veut bien carillonner des mains.
 
--*who_pierrot
-On prend une peine inutile,
-En gardant un jeune tendron,
-Pour ouvrir toutes les serrures
-L'amour a des passes-par-tout,
-Quand on conserve trop la viande
-Tôt ou tard la mouche s'y met.
 
--*who_scaramouche
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_argentine
+
+Quel plaisir trouvez vous à me désespérer ?
+Vôtre cœur aux soupçons ne fait que se livrer.
+Vous êtes inquiet, jaloux à toute outrance,
+Croyez-moi, c'est trop loin pousser la défiance,
+Vous mériteriez bien qu'à vôtre vilain front
+Puisque vous m'outragez, je file quelque affront.
+
+Dés demain, dites-vous ? C'est trop tôt, rien ne presse.
+
+Il vaut bien mieux laisser passer un peu de temps,
+Ce sera, je vous jure, assez tôt dans dix ans.
+
+Quoi c'est donc tout de bon ? vous n'en démordez pas,
+Vous ferez dés demain la noce, et le repas ?
+Ah ! Différez de grâce.
+
+Puisque vous le pouvez, Monsieur n'en faites rien.
+
+      Vraiment, je suis trop sage.
+
+Les hommes, ce dit-on, en rabattent assez,
+Prés de nous cependant ils font les empressez,
+Débitent galamment un amoureux langage,
+Et pour nous obtenir mettent tout en usage ;
+Quand ils sont une fois les maîtres du Logis,
+En moins de quinze jours ils sont bien refroidis.
+Nous ne les voyons plus attachez à nous plaire,
+A peine peuvent-ils fournir le nécessaire,
+Les époux sont ma foi d'étranges animaux !
+
+J'ai tout à craindre hélas ! De cet empressement,
+Je ne puis le souffrir, et malgré mon envie
+Il veut que dès demain le nœud d'hymen nous lie ;
+Il croit se faire aimer, mais son espoir est vain,
+Je ne puis consentir à lui donner la main ;
+Que demande Pierrot ?
+
+Je veux feindre un moment d'applaudir à sa flamme ;
+Vous m'aimez donc Pierrot ?
+
+Que vos expressions charment mon tendre cœur !
+Je ne m'en défends point, vous êtes mon vainqueur,
+Et je n'ai pu vous voir sans vous rendre les armes.
+
+      Non, il n'est pas possible
+Qu'en vous voyant si beau je paraisse insensible :
+On ne peut résister à de puissants appas.
+
+Vous êtes trop jaloux, c'est là tour mon souci,
+Et vous ne deviez pas venir sitôt ici.
+
+J'y consens.
+
+Bon cela ne se peut, Arlequin, croyez-moi,
+Gardez de m'imposer une si dure loi.
+Fi donc vous vous feriez berner de tout le monde :
+Un Mari trop jaloux mérite qu'on le fronde,
+La sagesse est un monstre, et les femmes ont soin
+De ne le regarder ni de près, ni de loin.
+
+Vos manières Monsieur, ne font que me déplaire !
+De tous ces vains soupçons songez à vous défaite,
+Je vous l'ai déjà dit, vous devez profiter
+Des leçons qu'Argentine a voulu vous dicter.
+Je veux goûter en paix les douceurs de la vie,
+Folâtrer, badiner au gré de mon envie,
+Adieu souvenez-vous, et soyez convaincu,
+Que quand on est jaloux, on est bien-tôt cocu.
+
+Que l'état d'une fille est triste et déplorable !
+Lors qu'en proie aux rigueurs du destin qui l'accable,
+Elle doit obéir, et que son cœur gêné,
+À fuir un doux penchant est enfin condamné.
+Non, je ne puis subir cette loi tyrannique.
+
+Un tel aveu, Monsieur, a lieu de me confondre ;
+Vous m'embarrassez fort, je ne sais que répondre ;
+Cependant je veux bien vous dire ingénument
+Qu'en cet instant mon cœur goûte un plaisir charmant ;
+Et comme je voudrais éviter l'esclavage,
+Pour me soustraire au joug d'un fatal mariage,
+Où prétend me soumettre un jaloux odieux ;
+Je braverais pour vous ses transports furieux ;
+Mais je crains de former une vaine espérance.
+
+Que mon sort serait beau, si vous étiez ; sincère !
+Mais je n'ose penser...
+
+Hé bien, s'il est ainsi, je vous attends demain,
+Pour vous communiquer en secret mon dessein ;
+Ensemble nous prendrons des mesures certaines,
+Pour entrer dans vos fers, je briserai mes chaînes.
+Je crains que mon jaloux ne vous trouve en ce lieu,
+Il faut vous retirer.
+
+      Adieu.
+
+      Dans un moment il doit ici se rendre ;
+Dites-moi votre nom.
+
+C'en est assez, Léandre, il ne tiendra qu'à vous
+De posséder ma main en qualité d'époux.
+
+      Argentine,
+Mon cher Léandre, adieu, j'attends vôtre retour,
+Songez au rendez-vous accordé par l'amour.
+
+Au plaisir d'être à vous je borne tous mes veux :
+Vous seul pouvez parer le coup qui me menace,
+Et me faire éviter une affreuse disgrâce ;
+Je ne puis consentir d'épouser un magot.
+
+Ciel ! S'il nous surprenait ! Ah ! Léandre je tremble...
+
+Souhaitez-vous entrer ?
+
+Léandre, au nom des Dieux, pressez vôtre retour,
+Puissent-ils protéger des ardeurs si fidèles !
+
+Ce n'est pas sans regret que je vous vois partir.
+
+      Que vois-je, ô Ciel ! Que prétendez-vous faire ?
+
+Quoi, vous vous préparez à terminer mes jours,
+Et vous voulez vous-même en abréger le cours ?
+Détournez loin de moi cet appareil terrible,
+Qu'à mes vives douleurs vôtre cœur soit sensible.
+De tout ce que j'ai fait, ingrat est-ce le prix ?
+Par où donc ai-je pu m'attirer vos mépris ?
+Ha, de mes tristes yeux voyez couler mes larmes,
+Et daignez dissiper mes mortelles alarmes.
+Quand je veux vous donner le nom de mon époux,
+Que je cherche à répondre à vos vœux les plus doux,
+Vous pouvez vous résoudre à m'arracher la vie !
+Vôtre fureur sur moi doit-elle etre assouvie ?
+A vos jaloux soupçons vous voulez m'immoler,
+Et c'est par vous, cruel, que mon sang, doit couler ?
+
+Non, c'est sur toi qu'il faut qu'éclate ma colère,
+Je veux exécuter ce que tu n'as su faire,
+C'est à présent mon tour, et je vais te purger.
+C'est donc ainsi, faquin, que tu veux te venger ?
+Ah ! Le vilain magot, apprends à me connaître,
+Si tu viens au Logis, ma foi, par la fenêtre
+Je te ferai sortir.
+
+      Tu parles, je crois ?
+Je te conseille encor de te jouer à moi ;
+Dans ta bouche je veux mettre quelque pilule,
+Mais non, de te tuer je me fais un scrupule,
+Tu n'en vaux pas la peine : adieu, maître poltron ;
+C'est ainsi que je sais punir un fanfaron.
+
+Que voulez-vous, l'ami ?
+
+      Ah, donnez s'il vous plaît.
+
+Pour vous dérober au pouvoir
+Du Jaloux odieux que votre cœur abhorre,
+N'écoutez point un barbare devoir,
+Et répondez au feu qui me dévore ;
+Avec mon Valet Mezzetin,
+Dans le lieu qu'il connaît vous n'avez qu'à vous rendre,
+Et vous y trouverez Léandre,
+Qui vous prépare un plus heureux destin.
+
+C'est assez, je ne puis plus longtemps me contraindre,
+Attendez un moment, je reviens sur mes pas.
+
+Ah ! pour le refuser ce plaisir est trop doux !
+Je vous suis... Juste Ciel mon importun s'avance !
+
+Consolez-vous, Monsieur, cette peine est légère,
+Vous ne me convenez en aucune manière.
+
+Arlequin vous a fait connaître
+De l'amour le charmant sentier
+Et ce précepteur a fait naître
+Dans vôtre âme un ardent brasier,
+En pareil cas souvent le Maître
+Est moins heureux que l'écolier.
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
+Se peut-il, cher ami, que ton cœur à son tout
+Refuse de se rendre au pouvoir de l'amour ?
+Tu fais gloire en tous lieux de ton indifférence ;
+Ah ! c'est faire au beau sexe une sensible offense
+Que de marquer pour lui si peu d'empressement,
+Et de voir sans l'aimer l'objet le plus charmant.
+Crains donc, pour te punir, que le fils de Cythère
+Ne te livre aux effets de sa juste colère,
+Et que ce fier vainqueur renversant tes projets
+Sur ton cœur dédaigneux ne lance tous ses traits.
+
+Non c'est injustement que tu veux te défendre
+D'un doux engagement ; et d'un commerce tendre :
+Chacun doit, cher ami, se laisser enflammer
+Et nul n'échappe enfin au Dieu qui fait aimer.
+
+Je fais ce que je puis pour convaincre Léandre ;
+Mais à tous mes discours il ne veut rien comprendre,
+Et persistant toujours dans sa frivole erreur,
+Du plus charmant plaisir il conçoit de l'horreur ?
+Pour lui le mot d'amour est un obscur langage,
+Et je ne vis jamais un garçon si sauvage.
+
+Ami, pour un moment d'ici je me retire ;
+Le Seigneur Arlequin aura soin de t'instruire,
+Malgré ta fermeté, bien-tôt sur ton esprit
+Ses savantes leçons auront quelque crédit.
+
+C'est vivre trop longtemps loin de l'objet aimé ;
+Rien ne doit arrêter un cœur bien enflammé.
+Lorsque je ne vois point la charmante Spinette
+Mes sens sont agitez, mon âme est inquiète
+Cette jeune beauté fixe tous mes désirs,
+Loin d'elle je ne puis goûter de vrais plaisirs,
+J'aime son air naïf, sa manière innocente,
+Et sa simplicité me ravit, et m'enchante :
+Que dis-tu de mon-choix ?
+
+Veux-tu bien terminer de si fades discours
+Sans rime, et sans raison tu plaisantes toujours.
+
+Cours appeler Spinette il faut que je la voie.
+
+      Ne crains rien, va frapper à sa porte.
+
+Finiras-tu maraud ?
+
+      Hé bien !
+Qu'as-tu donc fait ?
+
+      Ah ! le joli garçon
+Et qu'il s'acquitte bien d'une commission.
+Hola !
+
+      Oui, ma belle,
+Vous me voyez ici...
+
+Hé bien puis- je former une douce espérance ?
+Vôtre cœur ressent-il les tourments de l'absence ?
+Et quand vous me voyez, goûte-t-il les plaisirs
+Où doivent se borner ses uniques désirs ?
+
+      Je le suis en effet :
+Si je ne vous aimais avec délicatesse,
+Je ne craindrais pas tant, ma charmante Maîtresse,
+Ah ! Loin que mes soupçons vous soient injurieux,
+Ils doivent leur naissance à l'excès de mes feux.
+
+Tu pleures ?
+
+Daignez sécher les pleurs qui coulent de vos yeux.
+
+Pardonnez-moi Spinette, et croyez que mon âme
+Saura brûler pour vous d'une éternelle flamme,
+Belle, vous me voyez soumis à vos genoux...
+
+      Non, vôtre crainte est vaine,
+Il faudra qu'il consente, et je suis assuré...
+
+Ce soir.
+
+Votre père n'est pas à présent au Logis.
+Entrons-y.
+
+Entrons sans différer, ne craignez rien ma chère ;
+Scaramouche aura soin de l'écarter d'ici :
+Entends-tu ?
+
+Hé bien puis-je sortir, et n'ai-je rien à craindre ?
+
+      Quelle bonne nouvelle ?
+
+Entrons, et profitons d'un moment précieux.
+
+Quand du puissant amour nous ressentons les feux,
+Ce vainqueur aisément nous rend ingénieux ;
+A qui subit ses lois il n'est rien d'impossible,
+Ce Dieu fait surmonter un obstacle invincible :
+C'est par lui que Spinette a trompé le Docteur,
+Ce tour est merveilleux, et j'en ris de bon cœur.
+Mais il faut au plutôt m'assurer de la belle,
+Quoique son père fasse exacte sentinelle,
+Je prétends l'enlever, le dessein en est pris,
+Et je ne puis enfin être heureux qu'à ce prix.
+
+Vous aimez ?
+
+Nos desseins sont égaux, pour preuve de mes feux,
+Je tromperai les soins d'un père trop fâcheux ;
+Par un enlèvement digne de ma tendresse,
+Je m'assure aujourd'hui de ma chère Maîtresse :
+Mais quelle est la beauté dont vous êtes épris ?
+Vous le savez assez, je suis de vos amis,
+Ne me déguisez rien.
+
+Comment, que dites-vous ? Vous me surprenez fort,
+Argentine ! Vraiment d'un si tendre transport
+Vôtre Maître Arlequin vous sera redevable,
+Vous en usez fort bien avec ce pauvre Diable,
+Qui charitablement vous a tantôt instruit :
+Il devait, ce dit on, l'épouser cette nuit.
+
+      Un tel aveu m'enchante.
+
+De grâce, cher ami, ne m'abandonnez pas,
+Je veux avec Spinette accompagner vos pas,
+Et dans le même endroit conduisant nos Maîtresses,
+Nous ferons éclater nos égales tendresses.
+Le Docteur doit dans peu sortir de la Maison,
+Vous pouvez me servir en cette occasion.
+
+Voici fort à propos mon valet Scaramouche.
+
+Attends ici Spinette. Il faut enlever,
+Avec elle bien-tôt tu viendras me trouver
+Au coin de cette rue, où nous allons l'attendre.
+
+Répons-moi comme il faut, m'as-tu bien entendu ?
+
+Il la faut enlever...
+
+Si-tôt que le Docteur aura quitté Spinette,
+Cours l'appeler, et songe à battre la retraite ;
+Adieu, nous t'attendons.
+
+      Je vais chercher mon débiteur.
+Et me faire payer la somme qui m'est due.
+Son Obligation dés longtemps est échue,
+Il n'aura pas, je crois, de peine à l'acquitter ;
+D'ici pour un moment il me faut écarter.
+
+Monsieur, je suis Octave homme de qualité,
+J'ai pris, je le confesse, un peu de liberté,
+L'amour doit excuser la faute que j'ai faite,
+J'aimais depuis longtemps la charmante Spinette,
+Je prétends par l'hymen réparer son honneur.
+
+      Ah ! Monsieur le Docteur.
+Ne vous emportez pas.
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+
+      À parler franchement,
+C'est un vilain métier que celui d'un Amant :
+Vous passez sans dormir les nuits les plus tranquilles,
+Vous êtes comme un Chat qui rode sur les tuiles,
+Pour moi je ne sais pas quel plaisir vous trouvez !
+Vos draps depuis deux mois n'ont pas été lavez
+Est ce pour épargner les frais du blanchissage
+Que vous dormez si peu ? quel Diable de ménage !
+Aussi vous devenez maigre comme un anchois,
+Et vous avez morbleu le plus fichu minois !
+J'enrage ; car il faut aussi par complaisance,
+Que je veille avec vous sans me farcir la panse.
+Moi qui toute ma vie ai bien mangé, bien bu,
+Ma foi, je n'ai jamais été si mal repu.
+Aussi, je m'aperçois que ma graisse est fondue,
+Je deviens tous les jours plus sec qu'une morue,
+À peine suis-je à table, aussitôt vous criez
+Scaramouche... d'abord il faut lever les pieds.
+Tu mangeras tantôt, va porter cette lettre
+À Spinette, à présent elle est à sa fenêtre,
+Et tu la lui rendras sans qu'on puisse te voir ;
+Cet ordre rigoureux me met au désespoir
+La nuit lorsque je crois reposer à mon aise,
+Scaramouche ! Viens-t'en me mettre sur la chaise,
+Pendant toute la nuit voilà quel est le train,
+Cela dure souvent jusques au lendemain ;
+Je crois que vous rendez votre amour par derrière
+Et vous m'empoisonnez avec vôtre matière.
+
+Le vilain loup-garou qui n'aime pas la joie !
+
+Oui, mais si le docteur était dans la maison
+Il me régalerait de cent coups de bâton :
+Le drôle quand il bat n'y va pas de main morte,
+Je le sais.
+
+Allons je le veux bien, et si je suis battu
+Je vous rendrai ma foi ce que j'aurai reçu.
+
+      Qu'il a l'humeur farouche !
+Hola ! Quelqu'un, c'est moi ?
+
+Madame en vérité... pour moi je ne veux rien,
+
+      Serviteur, parlez, Monsieur.
+
+      J'ai vu la charmante Spinette,
+Qu'elle a l'air engageant ! morbleu qu'elle est bien faite !
+Elle m'a demandé pourquoi je l'appelais,
+Elle a voulu savoir ce que je lui voulais,
+Et moi j'ai répondu, je ne veux rien Spinette,
+Aussi-tôt elle a pris la poudre d'escampette.
+Voilà ce que j'ai fait.
+
+      Bonjour Mademoiselle,
+Mon Maître n'a pas tort, elle a bien des appas,
+Le pauvre Scaramouche en ferait ses choux gras.
+
+      Oui, Monsieur ; c'est que j'ai le cœur tendre.
+
+Monsieur, jusqu'à demain nous pleurerons tous deux ;
+Aussi pour quoi lâcher le robinet des larmes :
+Que de beaux yeux en pleurs ont d'agréables charmes !
+
+Ah ! Que je serai beau quand j'aurai bien pleuré !
+
+C'est assez là le goût des filles de vôtre âge.
+
+      Peste soit de l'amoureux transi :
+Cet emploi m'est à charge, et ne me convient guère,
+Tout franc je suis bien las d'un pareil ministère,
+Moi qui jamais n'ai craint en amour de rivaux,
+Aujourd'hui l'on m'emploie à garder les manteaux :
+Mais voici le Docteur.
+
+Le Docteur est bien loin, et j'ai su le contraindre
+A partir de ces lieux en le chargeant de coups,
+De peur qu'il ne revienne, allons, retirez-vous.
+
+Préludez s'il vous plaît, Messieurs du Violon,
+Et faites de Musique un joli carillon.
+
+Pourquoi crier au feu, ta Maison brûle-t-elle ?
+
+Aux dépens de Pierrot, ma foi je prétends rire :
+C'est donc-là la beauté pour qui ton cœur soupire ?
+Comment pauvre nigaud veux-tu t'en faire aimer ?
+Peut-on en te voyant se laisser enflammer ?
+Un habit de meunier te sert de couverture,
+Tu n'as point de cheveux, et ta laide figure
+Doit plutôt dans une âme inspirer du mépris :
+Aujourd'hui, mon enfant, on s'attache aux habits,
+Et quand tu serais beau comme un petit Narcisse,
+Si tu n'est bien vêtu, tu seras un Jocrisse,
+
+Aux habits, à l'argent les femmes font la cour :
+Est-on riche et bien mis, on doit s'attendre à plaire,
+La femme aime l'éclat, et non pas la misère.
+Fagoté de la sorte avec ce vêtement,
+On te prendrait ma foi pour un sac de froment :
+Mais si Pierrot voulait reformer sa figure,
+Et comme un petit Maître affecter la parure,
+Se mettre tout en frange, et se poudrer le dos,
+Il serait en amour reçu comme un héros.
+Oui tu serais couru de toutes les coquettes,
+Des Dames du grand air, et même des grisettes :
+Je vais, si tu le veux, pour te mettre en crédit,
+Dans ce même moment te chercher un habit.
+
+Vous êtes de moitié, vous et Monsieur Léandre,
+Et vous avez acquis ce bien à fond perdu.
+
+Qui ne vous entendrait serait bien dur d'oreille.
+
+      Je comprends à merveille.
+Vous êtes en amour tous deux associés,
+J'y serais pour un tiers si vous me receviez.
+
+      Allez toujours devant,
+Et pendant ce temps là voyez d'où vient le Vent.
+Voici le dénouement de notre comédie :
+Quand le Docteur saura que sa fille est partie,
+D'abord contre mon Maître il fera décréter ;
+Messieurs les pousse-culs viendront le visiter,
+Ils me prendront aussi, moi j'avouerai l'affaire
+Comme étant du complot je ne pourrai rien taire :
+J'entendrai contre moi prononcer un arrêt,
+On fera tout d'abord préparer le gibet,
+Et Scaramouche ira sans en avoir envie,
+Danser la Sarabande en bonne compagnie.
+Belle réflexion ; mais voici le Docteur,
+Retirons nous...
+
+Ne perdons point de temps ; hola Mademoiselle !
+Descendez au plutôt, la gloire vous appelle.
+
+Suivez-moi, s'il vous plait, mon Maître vous attend,
+Je suis son Substitut, son Commis, son Agent,
+Il m'a passé son ordre, afin qu'en son absence
+J'acquitte son Billet au temps de l'échéance ;
+Je vais vous le payer en espèce ayant cours.
+
+      Ah, qu'à cela ne tienne,
+L'enlèvement vous plaît.
+
+D'où vous vient cette joie ?
+
+      Il faut vous satisfaire,
+Quand je serais pendu ce n'est pas une affaire.
+
+      Je suis Cupidon le cadet.
+
+Quant à moi je croyais que l'on m'aurait fait pendre,
+
 En vain on renferme une fille,
 Elle s'échappe bien souvent ;
 Et quand elle voit un bon drille
@@ -2123,10 +1219,491 @@ Elle en fait d'abord son galant,
 C'est une Anguille qui frétille,
 Un Moulin qui tourne à tout vent.
 
--*who_arlequin
-Je n'aurai plus de vœux à faire
-Si vous secondez mes desseins,
-Et si ma pièce a su vous plaire
-Donnez-m'en des signes certains,
-J'en serai sûr si le parterre
-Veut bien carillonner des mains.
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+Pourquoi me blâmes-tu ? Ta remontrance est vaine,
+Je cède avec plaisir au penchant qui m'entraîne,
+Content de mon état, satisfait de mon sort,
+J'ignore les effets d'un amoureux transport.
+Un paisible repos est le bien où j'aspire,
+Un cœur qui le possède a tout ce qu'il désire ;
+Est-ce un charme ? dis-moi, de languir sans espoir,
+D'adorer un objet que l'on a peine à voir,
+De pousser des regrets, de répandre des larmes,
+De ressentir toujours de mortelles alarmes ;
+L'amour m'accablerait sous ses funestes coups,
+Et me ferait former mille soupçons jaloux ?
+Inquiet, agité, je craindrais que ma belle,
+Malgré ma tendre ardeur ne devint infidèle,
+Chaque instant ne ferait que redoubler mon mal.
+Je verrais avec peine un trop heureux rival !
+Ami je vis en paix, rien ne trouble ma vie :
+Au calme de mon cœur tu dois porter envie,
+Puisque rien n'est égal à ma félicité,
+Laisse-moi m'applaudir de ma tranquillité.
+
+Inutiles efforts pour soumettre mon âme,
+Aux tyranniques lois d'une volage femme !
+Et qui par un esprit, faible, capricieux,
+Reçoit tous les objets qui lui frappent les yeux.
+De ce sexe enchanteur l'approche est trop fatale :
+Une femme est toujours d'une humeur inégale,
+Aujourd'hui ses transports font des plus violents,
+On la trouve demain au milieu des galants,
+Affectant d'imiter les airs d'une coquette
+Badiner avec eux, répondre à la fleurette,
+Et pour donner du lustre à ses trompeurs appas
+Inspirer une ardeur qu'elle ne ressent pas.
+
+Je ne sais ce que c'est : pour tout indifférent
+J'avouerai qu'en amour je suis fort ignorant.
+
+Pour me persuader à fuir l'indifférence,
+Vous employez en vain toute vôtre éloquence :
+J'ignore le secret de triompher d'un cœur,
+Daignez donc m'éclaircir, Monsieur mon précepteur :
+Lorsque vous m'aurez dit comment je dois m'y prendre,
+Peut être malgré moi chercherai-je à me rendre,
+Si vous m'instruisez bien je saurai galamment
+Pratiquer vos leçons prés d'un objet charmant.
+
+Je vois qu'il faut céder, et qu'à vôtre éloquence
+On ne peut opposer qu'une vaine défense ;
+Je vais tout de ce pas en fidèle écolier
+Suivre vôtre leçon, et la bien essayer.
+
+Il faut pour m'égayer que je mette en pratique
+La leçon qu'Arlequin m'a tracée en ces lieux.
+Que vois-je ! Quel objet se présente à mes yeux !
+Je vais, comme il m'a dit, me camper devant elle
+D'un air de petit Maître, et sourire à la belle.
+Bon, j'en fuis aperçu, tout va bien jusqu'ici ;
+Jouons de la prunelle en amoureux transi,
+Lançons-lui tendrement une œillade engageante,
+Pour la faire bien-tôt répondre à mon attente :
+Ce soupir plein de feu va la déterminer ;
+J'ai commencé l'ouvrage, il faut le terminer :
+Je dois mordre mon gant ; elle se met à rire,
+Je crois que j'obtiendrai tout ce que je désire.
+Madame, permettez que ma naissante ardeur
+Éclate, et que le feu qui dévore mon cœur
+Se découvre à vos yeux, puis qu'eux seuls l'ont fait naître.
+Il est trop violent pour craindre de paraître,
+Et jusques au tombeau je prétends vous aimer,
+Ma belle à vôtre tour laissez-vous enflammer ;
+Et pour prix de l'ardeur qui prés de vous m'arrête,
+J'ose vous demander en grâce un tête à tête.
+Qui ne dit mot consent ; elle l'accordera,
+Et je suis déjà sûr d'avoir l'et cetera.
+
+Non, non, assurez-vous de ma persévérance ;
+Jusques à ce moment j'ai méprisé l'amour,
+Mais je vois qu'à ce Dieu chacun cède à son tour.
+Vous seule êtes l'objet de ma première flamme,
+Et vous avez enfin triomphé de mon âme :
+Pour vous faire échapper aux rigueurs du jaloux,
+Les plus affreux périls me sembleront trop doux,
+
+      N'en doutez point ma chère.
+
+      Vous me quittez.
+
+Déjà...
+
+      On m'appelle Léandre.
+
+Ah ! Puisqu'à vous aimer mon cœur se détermine,
+Apprenez-moi du moins vôtre nom.
+
+Quel changement soudain ! je me vois sans défense,
+Qu'êtes-vous devenue heureuse indifférence !
+Quoi l'amour à ses lois a soumis ma raison !
+J'ai pris, je le vois bien, du goût à la leçon ;
+Et ce Dieu tout à coup s'est vengé sur moi-même,
+Du mépris que j'ai fait de son pouvoir suprême.
+
+Étrange état d'un cœur que l'amour a soumis !
+De trouver du repos il ne m'est plus permis.
+
+      Loin de l'objet de ma nouvelle flamme
+Je ne puis vivre en paix, tout agite mon âme.
+
+      A le revoir je borne tous mes vœux,
+Et son aspect charmant peut seul me rendre heureux.
+
+      Ah ! Mezzetin que j'ai d'inquiétude !
+L'amour me fait souffrir le tourment le plus rude.
+
+Je cherche un beauté...
+
+Non, rien n'est comparable aux attraits d'Argentine.
+
+Et le cœur le plus fier doit enfin lui céder.
+
+Que dis-tu, Mezzetin, et quel est ce langage ?
+
+Je croyais sans aimer passer toute ma vie ;
+Mais depuis que j'ai vu l'objet qui m'a charmé,
+Mon cœur indifférent s'est d'abord enflammé :
+Pour ne pas l'adorer ma Maîtresse est trop belle,
+Je dois dans un moment m'introduire chez elle ;
+Tu pourrais interrompre un si doux entretien,
+Retire-toi d'ici.
+
+Voici l'heure, je pense, où je dois lui parler.
+Je suis bien amoureux, à ne le point celer !
+Parbleu, c'est tout de bon ; mais j'aperçois mon maître.
+Comment, cher Arlequin, pourrai-je reconnaître
+Votre bonté pour moi, vos soins officieux ?
+
+Ami, ce temps n'est plus, mon cœur est bien changé,
+Et dans d'aimables fers il se trouve engagé.
+J'ai suivi bien à point vôtre douce maxime :
+C'était contre l'amour commettre un trop grand, crime,
+Que de ne pas céder à des appas vainqueurs,
+Et je suis revenu de mes vaines erreurs.
+
+J'ai d'abord pratiqué ce que vous m'avez dit :
+Vos préceptes étaient gravez dans mon esprit.
+Ainsi je ne pouvais qu'à mon grand avantage
+Appliquer la leçon que j'ai mise en usage.
+Un objet tout charmant s'est offert à mes yeux,
+Cette jeune beauté loge prés de ces lieux,
+Elle est, je l'avouerai, tout à fait engageante ;
+La Belle a répondu sans peine à mon attente,
+Pour la mieux amorcer j'ai d'abord employé,
+Les soupirs, les regards, je n'ai rien oublié :
+Enfin dans un moment je dois entrer chez elle.
+
+Son nom est Argentine.
+
+Elle est entre les mains d'un brutal, d'un jaloux
+Qu'elle ne peut souffrir, et que son cœur déteste.
+
+C'est là.
+
+      Non : c'est là sa demeure.
+
+      Non Monsieur, où je meure.
+C'est ici.
+
+Dans un moment j'espère encore la mieux connaître :
+Son Jaloux est dehors, elle m'introduira
+Dans son Appartement.
+
+Si vous vouliez Monsieur pour couronner l'ouvrage,
+Entrer chez me Maîtresse, et voir si ce sauvage,
+N'est point dans le Logis, vous m'obligerez fort.
+Ne refusez donc pas de servir mon transport :
+Vous êtes si zélé, d'une humeur si traitable !
+
+Quoi, vous ne voulez pas ? Votre refus m'offense.
+
+      Vous me quittez ; Ah ! restez en ces lieux,
+Pour voir....
+
+Qu'elle tarde à venir, juste Ciel ! La voici.
+
+C'est donc vous ? Argentine, enfin vôtre présence
+Satisfait aux transports de mon impatience.
+Je vous vois, et je suis parfaitement heureux.
+
+Oui, de vôtre jaloux je veux vous délivrer,
+Ma belle, c'est de quoi je puis vous assurer,
+Et les nœuds de l'hymen nous uniront ensemble.
+
+Non, non, ne craignez rien, s'il troublait nos discours,
+Ce serait fait de lui j'abrégerais ses jours.
+
+Belle, je ne veux point vous causer d'embarras,
+Je vais tout disposer pour nôtre mariage.
+
+Ma chère, de l'amour j'emprunterai les ailes.
+Pour voler jusqu'à vous, et pour vous garantir...
+
+Tantôt de mon dessein vous serez mieux instruite
+Et nos amours auront une agréable suite.
+
+Cher ami, vos conseils ont engagé mon âme
+A brûler comme vous d'une fidèle flamme ;
+Les leçons d'Arlequin m'ont su déterminer,
+Je vous fais un aveu qui doit vous étonner :
+L'indifférence était de mon cœur, le partage,
+Mais l'amour aujourd'hui s'y fait un doux passage.
+
+      C'en est fait, j'ai cédé malgré moi,
+Je n'ai pu me soustraire à l'amoureuse loi :
+Vainement les plus fiers cherchent à s'en défendre,
+Et cent fois plus que vous, ami j'ai le cœur tendre.
+Pour marquer à ma belle un violent amour,
+Je la dois enlever avant la fin du jour ;
+Et pour la délivrer du jaloux qui l'obsède,
+Cette grande entreprise en est le seul remède.
+
+      Non, c'est vôtre voisine,
+Elle loge ici prés, et se nomme Argentine.
+
+Arlequin, dites-vous ! L'aventure est plaisante,
+Je ne le savais pas.
+
+Je l'ai trouvé tantôt, et comme un imprudent
+Je l'ai de mes secrets rendu le confident,
+En l'instruisant d'abord de ma flamme nouvelle :
+Mais que faire ? Mon cher, j'adore cette belle,
+A ses yeux Arlequin est un monstre odieux,
+Si j'en crois ses discours, je lui plais beaucoup mieux :
+M'avoir pour son époux est ce qu'elle désire,
+Et mon cœur amoureux à ce bonheur aspire.
+Malgré le noir souci du jaloux Arlequin,
+J'ai chargé d'un billet mon valet Mezzetin ;
+Lui-même à cette belle aura soin de le rendre ;
+Il sait où la conduire, et moi je vais l'attendre.
+
+Octave j'y consens. Et vôtre amour me touche.
+
+      Il faut vous satisfaire.
+Me reconnaissez-vous, répondez s'il vous plaît ?
+
+Argentine est à moi, je puis en disposer,
+De vôtre bon précepte on ne peut mieux user.
+
+Un cœur au Dieu d'amour rebelle
+Tôt ou tard se doit enflammer :
+À peine ai je vu cette belle,
+Que je me suis laissé charmer,
+Et comme un écolier fidèle,
+J'ai bien pratiqué l'art d'aimer.
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
+Vive le jus de la treille
+Pour dissiper le chagrin :
+Lorsque je tiens ma bouteille,
+Je goûte un heureux destin.
+J'aime mieux rougir ma trogne
+Qu'aimer un objet charmant :
+Rien n'inquiète un ivrogne,
+Et tout alarme un amant.
+Ma foi c'est un plaisir de chanter et de boire,
+Le joyeux Mezzetin en fait toute sa gloire ;
+Fi de ces amoureux languissants et transis,
+Qu'accompagnent toujours les peines, les soucis ;
+Pour moi, grâces au Ciel, je n'ai point le cœur tendre,
+Dans ses filets tendus l'amour ne peut me prendre :
+J'incague son pouvoir, je me ris de ses traits,
+Et le Cabaret seul a pour moi des attraits.
+Je m'enivre souvent, et je suis un bon drille,
+Je fume quelquefois, je joue à Briscambille ;
+En moi d'un bon grivois on peut voir le portrait,
+Je suis sur mon honneur un Lyonnais parfait.
+Je voudrais bien savoir où s'est fourré mon Maître...
+Mais le voici qui vient, et je le vois paraître.
+
+Monsieur...
+
+Monsieur...
+
+Monsieur...
+
+La soif me désespère et me fait enrager.
+
+      Moi je cherche à manger.
+
+Non, rien n'est plus charmant qu'une grande Cuisine.
+
+Oui, je voudrais toujours m'emplir et me vider.
+
+Pour moi le mot d'amour est un sensible outrage,
+Parlez plutôt de boire, est-il rien de plus doux
+Qu'un son harmonieux d'agréables glouglous ?
+Rien ne peut approcher de cette mélodie.
+
+      Ma foi je le veux bien ;
+Vous n'avez qu'à jaser, et conter la fleurette,
+Moi, je vais chez Muri boire la chopinette.
+
+Mon Maître honnêtement veut se servir de moi,
+Et de Courtier d'Amour il me donne l'emploi :
+Aujourd'hui ce métier est assez en usage,
+Avec un grand plaisir j'en fais l'apprentissage ;
+Pour mieux me distinguer, et me faire un beau nom,
+Je devrais bien porter des ailes au talon,
+Chacun me connaîtrait, et me rendrait hommage :
+Mais allons au plutôt faire nôtre message :
+À sa belle je dois remettre le poulet,
+Et m'acquitter de tout en fidèle Valet.
+Il m'a fait voir l'endroit où je dois la conduire,
+Faisons donc promptement ce que son cœur désire.
+
+      Vous rendre ce billet,
+De la part de Léandre.
+
+Vous êtes, je le vois, fort âpre à la curée,
+Et fillette en amour n'est jamais modérée.
+
+Madame suivez-moi, vous n'avez rien à craindre.
+
+Ce petit tendron-là ne me déplairait pas,
+Cette fille est mignonne, une telle bouteille
+Rappelle par ma foi son buveur à merveille :
+Mon Maître est bon gourmet, il a fait un beau choix,
+Le gaillard en sait long, c'est un futé matois,
+Il se plaît d'en conter aux femmes comme aux filles,
+Et c'est un pèlerin qui vend bien ses coquilles.
+La voici de retour.
+
+      Hé bien partirons-nous ?
+
+Comment ? C'est Arlequin... Un peu de patience,
+Couvrez-vous le visage, et ne redoutez rien,
+C'est un franc animal, je le duperai bien.
+
+Et morbleu, gardez vous d'effaroucher la belle,
+C'est une jeune Enfant, qu'au gré de mes désirs
+J'ai prise seulement pour mes menus plaisirs,
+Je l'enlève, mon cher, puisqu'il faut tout vous dire,
+En lieu de sûreté je prétends la conduire.
+
+Non pas, mais vous pourrez la voir une autre fois,
+Elle a de la pudeur, et craint d'être connue,
+Cette fille en un mot ne veut pas être vue.
+Adieu... Venez Madame il est temps de partir.
+
+Vainement un pédant se vante
+De régenter avec succès,
+Sa Doctrine trop fatigante
+Fait rarement de bons effets,
+Mais dans une école galante,
+On fait bientôt d'heureux progrès.
+
+
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
+      Bonjour la brune-blonde,
+Il faut auprès de vous que mon cœur se débonde ;
+Si vous le souhaitez je ferai vôtre Amant,
+Et je m'en vais vous faire un petit compliment.
+Je commence, écoutez. Le feu de ma tendresse
+Allumé par les yeux de ma belle Maîtresse...
+Cela fait que l'amour... Ne m'interrompez pas,
+Cela fait donc tout juste... Un autre en pareil cas
+Pourrait bien se brouiller ; mais je ne suis pas bête.
+Ors donc je vous dirai, que si vous êtes prête,
+Je suis tout disposé, vous n'avez qu'à parler...
+Dame ! Je voudrais bien avec vous m'enrôler.
+
+      Qui vraiment, ma chère âme,
+Quand je ne vous vois pas je suis absent de vous ;
+Quand je m'emporte un peu, je me mets en courroux.
+En un mot je vous aime, et vous n'avez qu'à dire,
+Je suis un drôle, allez, je vous ferai bien rire.
+
+On me l'a toujours dit ; que j'avais bien des charmes,
+Je suis un beau garçon ; pour la taille, je crois
+Qu'on n'en saurait trouver de mieux bâti que moi.
+Elle en tient pour le coup.
+
+Elle va se pâmer, je pense, entre mes bras.
+Eh, Ventrebleu, pourquoi suis-je un fi beau brin d'homme.
+Ça, je vois bien qu'il faut vous acquitter la somme,
+Et vous ne voulez point des lettres de répit,
+Embrassez-moi ma fille, et sans faire grand bruit...
+
+Ah ! Je me suis mépris, et cela me chagrine :
+Au lieu de toi, je dois embrasser Argentine,
+Je vais recommencer pour te faire plaisir.
+
+Tu m'as interrompu, que je suis malheureux !
+Ta prétendue, et moi je badinions tous deux.
+Je me dégourdissais de la belle manière,
+Va t'en pour un moment, crois-moi, laisse-moi faire.
+
+Puisqu'il demeure ici, sans faire du fracas,
+Mène-moi dans ta Chambre, il ne le saura pas.
+
+      Lâche-moi cette fille,
+Va, je te la rendrai dans un petit moment.
+
+      Moi, j'attends que tu sortes.
+Pour rester en ces lieux j'ai des raisons bien fortes.
+
+Hé bien, je reviendrai quand tu n'y seras pas.
+
+Petit fouille-partout, Dieu plus méchant qu'un Diable,
+Amour, c'est trop long temps me rendre misérable :
+Depuis que sur Pierrot décochant tous tes traits,
+Tu l'as fait par malice entrer dans tes filets,
+Il ne fait que languir, pleurer, gémir, et braire,
+Ma foi pour me guérir je ne sais plus que faire.
+J'ai depuis quelque temps un cours de ventre affreux :
+Argentine, mamour, doux objet de mes vœux,
+Quand soulagerez-vous le tourment que j'endure ?
+Vous avez un onguent très bon pour la brûlure.
+Aouf, quel gros soupir ! Non ce n'est pas un jeu,
+Je brûle là dedans, au feu, Messieurs, au feu.
+
+Hélas, c'est que l'amour me trouble la cervelle :
+Je suis devenu fou par faute de raison,
+Et dans mon estomac je sens comme un tison,
+Qui petit à petit par les deux bouts s'allume ;
+Je crains bien qu'à la fin ce feu ne me consume :
+Argentine est l'objet qui me fait tant languir,
+Elle m'aime beaucoup, et ne peut me souffrir.
+
+Comment, c'est donc l'habit qui donne de l'amour ?
+
+Tope, je le veux bien, que j'aurai bonne mine !
+Je suis sûr de charmer mon aimable Argentine,
+Quand elle me verra couvert d'un bel harnois :
+Dans le fond je n'ai pas un trop vilain minois,
+Ce n'est que cet habit qui seul me défigure,
+Sans cela j'aurais eu quelque bonne aventure.
+
+Voilà ce qui s'appelle être sur le bon pied,
+Au Diable l'habit blanc, fi je faisais pitié :
+Sous ces beaux ornements je pourrai bien paraître,
+Je crois qu'ainsi vêtu j'ai l'air d'un petit Maître.
+
+D'où vient ce tintamarre ; et pourquoi tant crier ?
+Parbleu, vous alarmez la moitié du Quartier.
+Je vous ai toujours vu d'une humeur pacifique,
+Qu'avez-vous aujourd'hui, la pierre, la colique,
+La migraine, la toux, la goutte, et cetera.
+
+      On la retrouvera.
+
+Fille ne se perd pas comme un couteau de poche,
+Qu'avez-vous ?
+
+      Ma foi vous êtes fous tous deux.
+
+Peut-être elle viendra, vous n'avez qu'à l'attendre,
+Lorsque de cette belle il se sera servi,
+S'il veut me la donner je serai son Mari
+Ces restes-là sont bons, je suis peu difficile.
+
+La fille est comme un arbre il la faut bien greffer,
+Quelque bon jardinier aura pris cette peine.
+
+Nous en voyons souvent sortir de bons pépins.
+
+Ce sont des limaçons qui quittent leurs coquilles.
+
+Peut-être leurs chansons ne vous déplairont pas.
+
+Messieurs, démasquez-vous.
+
+Argentine mamour, tu ne m'aime donc pas ?
+J'avais pour toi tantôt fait emplette d'appas.
+
+C'est qu'il enrage hélas ! Bien plus que l'on ne pense.
+
+On prend une peine inutile,
+En gardant un jeune tendron,
+Pour ouvrir toutes les serrures
+L'amour a des passes-par-tout,
+Quand on conserve trop la viande
+Tôt ou tard la mouche s'y met.
+

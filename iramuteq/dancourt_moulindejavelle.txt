@@ -1,2011 +1,797 @@
 
 
-**** *book_ *id_I01 *act_I *date_1696
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bertrand
 
--*who_lacomtesse
-Hé Jasmin, laquais, petit laquais ?
+Palsanguoi, Jeanne, t'es toujours à l'entour de ces garçons ; j'ai biau les prendre tortus, bossus, borgnes et boiteux, ça n'y fait rian. Dame, acoute donc, je ne sis pas jaloux : mais si je m'y boute, je sais bian comme je les prendrai pour empêcher ça.
 
--*who_jasmin
-Plaît-il, Madame ?
+Oh, ne te fâche donc pas, Jeanne, je sais bian d'où ça viant, et c'est ce qui fait que je te le pardonne. Parce que tu vois ici des Madames qui couront après des Monsieux, tu t'imagines qu'il faut faire de même ; raye ça de tes papiers. Alles sont de Paris, ces Madames-là, c'est à elles à faire ; et quoique je soyons de la banlieue, je prétends qu'il y ait de la différence.
 
--*who_lacomtesse
-Que ce cocher se range à cent pas de la maison : là, sur le bord de l'eau, et qu'il nous attende.
+Hé, morgué, doucement, t'es toujours en colère. Çà, parlons un peu de nos petites affaires. Ce Monsieur Simonneau le Procureur est là-haut avec un autre homme de Justice.
 
-**** *book_ *id_I02 *act_I *date_1696
-
--*who_lecocher
-Qu'est-ce à dire que je vous attende ?
-Je me donne au diable si je vous attends, à moins que je ne sois payé, je vous en avertis.
-
--*who_finette
-Hé, si on lui donne de l'argent, il s'en ira, Madame.
-
--*who_lecocher
-Ça se pourra bien.
-Quand je serai payé, je n'aurai que faire ici.
-
--*who_lacomtesse
-Hé, comment veux-tu qu'on s'en retourne ?
-
--*who_lecocher
-Bon, qu'on s'en retourne !
-Est-ce que ça vous embarrasse ?
-Vous êtes jolie, je vous amène au Moulin de Javelle, vous y trouverez fortune, ne vous mettez pas en peine.
-
--*who_finette
-Ah, quel discours, Madame !
-Quel insolent !
-
--*who_lacomtesse
-C'est un maraud à qui il faut donner les étrivières.
-
--*who_lecocher
-Oui !
-Les étrivières ?
-Oh, écoutez donc, point tant de fierté ; je vous ai prises dans la rue de Seine, je vous déshonorerai, prenez-y garde.
-
--*who_finette
-Par ma foi, Madame, cela n'est point joli ; un coquin de fiacre parler de la sorte ?
-
--*who_lecocher
-Fiacre ?
-Oh !
-Fiacre vous-même ; point tant de bruit, vous dis-je, et de l'argent.
-Autrement…
-
--*who_lacomtesse
-Écoute, nous voici près de la maison ; si j'appelle quelqu'un, tu seras rossé.
-
--*who_lecocher
-Oh palsambleu, appelez, nous sommes faits à cela ; je serai rossé : mais je serai payé, ou je ferai beau bruit.
-Je n'ai pas la langue morte, non, quoique je l'aie un peu embarrassée.
-
--*who_finette
-Je m'en vais renvoyer ce gueux-là, Madame, il faut le payer : mais je le reconnaîtrai, sur ma parole.
-
--*who_lecocher
-Bon, tant mieux, je vous reconnaîtrai aussi, moi.
-Vous autres, et nous autres, nous ne sautions nous passer les uns des autres.
-
--*who_lacomtesse
-Quand ces misérables-là ont affaire à des femmes…
-
--*who_lecocher
-Nous connaissons un peu notre monde, n'est-il pas vrai ?
-
--*who_finette
-Tiens, voilà un écu ; mais je t'assure…
-
--*who_lecocher
-Ah !
-Ma Princesse, vous ne voudriez pas ; une personne de qualité comme vous : un écu !
-Fi donc.
-
--*who_lacomtesse
-Si tu veux nous attendre, et nous remener, on t'en donnera encore autant.
-
--*who_lecocher
-Oh !
-Vrai, comme voilà le jour qui nous éclaire, ma Reine, cela ne se peut pas ; j'ai une fiacrée de Bourgeois de village à voiturer, un lendemain de noces.
-Est-ce que vous voudriez que je perdisse cela ?
-Si vous couchiez ici, encore…
-
--*who_finette
-Coucher ici, Madame !
-Coucher ici !
-
--*who_lacomtesse
-Pour qui ce maroufle-là nous prend-il donc ?
-
--*who_lecocher
-Je vous demande pardon, je sais bien qu'il n'y a point de lits au Moulin de Javelle, on n'y loge pas ; mais cela n'empêche point qu'on n'y couche.
-
--*who_finette
-Que veut-il donc dire ?
-
--*who_lecocher
-Oh !
-Par la morbleu, je sais bien ce que je dis ; je suis grec là-dessus.
-Oh ça, il n'y a donc rien pour boire à votre santé ?
-Je n'en suis mordié pas moins votre serviteur, et je vous souhaite toutes sortes de prospérités : jusqu'au revoir, mes adorables.
-
-**** *book_ *id_I03 *act_I *date_1696
-
--*who_finette
-Voilà une jolie partie de plaisir !
-Venir ainsi vous et moi, tête à tête, au Moulin de Javelle dans un mauvais fiacre !
-Par ma foi, Madame, il faut être aussi bonne que je le suis, pour vous passer toutes vos folies.
-
--*who_lacomtesse
-J'ai toujours eu tant de complaisance pour les tiennes.
-
--*who_finette
-Moi, Madame !
-Je n'ai encore eu que des folies de bons sens ; j'ai aimé quelquefois : mais de jolies gens, des gens de mérite ; et grâces au ciel, aucun magot ne m'a jamais fait courir les rues.
-
--*who_lacomtesse
-Je suis donc de bien mauvais goût, à ton compte ?
-
--*who_finette
-Oh, pour cela oui, Madame, Monsieur Georges Ganivet !
-Le plus bourgeois, et le plus ridicule de tous les habitants de la bonne ville de Paris, sans contredit.
-
--*who_lacomtesse
-Hé bien, d'accord, c'est un Bourgeois : mais il a de quoi vivre en homme de qualité ; il est fort riche, et je n'ai point de bien ; il est très ridicule, j'en conviens, mais enfin…
-
--*who_finette
-Mais, mais, vous l'aimez tel qu'il est, n'est-ce pas ?
-
--*who_lacomtesse
-Je l'aime, moi : moi je l'aime ?
-Au contraire, je veux l'épouser ; il est trop fat pour un amant, je prétends en faire un mari.
-Que trouves-tu là d'incompatible ?
-
--*who_finette
-Rien du tout, vraiment, au contraire ; et sur ce pied-là, vous pourriez bien avoir moins de tort que je ne pense.
-Mais, le Chevalier que deviendra-t-il ?
-Vous l'aimiez, il vous aime aussi.
-
--*who_lacomtesse
-Point, Finette, nous avons cru d'abord que nous nous aimions : mais nous ne voulions que nous tromper tous deux, je t'assure.
-
--*who_finette
-Quoi, Madame…
-
--*who_lacomtesse
-Oui, te dis-je, nous en sommes venus aux éclaircissements, nous ne nous estimons presque pas même.
-
--*who_finette
-Et vous êtes de si bonne intelligence ?
-Sait-il les vues que vous avez pour Monsieur Ganivet ?
-
--*who_lacomtesse
-S'il les sait ?
-Il a besoin d'argent pour faire sa campagne : j'ai besoin de mari, moi, pour passer l'été : Monsieur Ganivet fera notre affaire à l'un et à l'autre.
-
--*who_finette
-Cela sera bien commode.
-
--*who_lacomtesse
-Il me donne ce soir à souper ici, Le Chevalier s'y trouvera, et nous prendrons ensemble des mesures.
-
--*who_finette
-Voici la maîtresse de la maison.
-
--*who_lacomtesse
-Hé, bonjour, ma bonne Madame Bertrand.
-
-**** *book_ *id_I04 *act_I *date_1696
-
--*who_madamebertrand
-Mesdames, votre très humble servante.
-Hé, c'est un petit miracle de vous voir.
-Vous nous avez bien abandonnés, d'où vient donc cela ?
-
--*who_lacomtesse
-Tout le monde est à l'armée, ma chère enfant ; les parties de plaisir sont supprimées, et ne sont presque que des parties d'ennui que celles qu'on fait à présent.
-
--*who_madamebertrand
-Est-ce que vous vous êtes mise dans l'épée ?
-Je vous ai vue si fort dans la robe.
-
--*who_finette
-Bon, dans l'épée !
-Nous sommes baissées d'un cran, Madame Bertrand, nous donnons dans le bas Bourgeois.
-À l'heure qu'il est, on se prend où l'on peut : en été c'est une saison morte.
-
--*who_lacomtesse
-Tais-toi donc, folle.
-
--*who_madamebertrand
-Hé, allez, allez, Madame, nous savons cela mieux que personne, et je ne sais combien de Dames qui sont ici tout l'hiver avec des Ducs et des Marquis, n'y viennent presque l'été qu'avec des Procureurs et des petits-maîtres du quartier Saint-Honoré : encore ne sont-ce pas les plus mal partagées.
-
--*who_lacomtesse
-As-tu aujourd'hui beaucoup de ces compagnies-là chez toi, Madame Bertrand ?
-
--*who_madamebertrand
-Il n'y a pas encore grand monde : mais nous attendons un lendemain de noces.
-
--*who_lacomtesse
-Un lendemain de noces ?
-
--*who_madamebertrand
-Oui, Madame, un Bourgeois de Vaugirard qui marie sa fille au garçon du Boulanger de Meudon, ils ont envoyé retenir notre grande chambre.
-
--*who_finette
-Un lendemain de noces au Moulin de Javelle !
-Cela est d'un mauvais pronostic pour les suites du mariage.
-
--*who_madamebertrand
-Vous attendez compagnie, apparemment, et vous ne voulez pas entrer encore ?
-
--*who_lacomtesse
-Nous ferons un tour dans ton jardin.
-Si le Chevalier vient, dis-lui que nous y sommes ?
-
--*who_madamebertrand
-Je vous l'enverrai sitôt qu'il sera venu, ne vous mettez pas en peine.
-
--*who_lacomtesse
-Allons, viens, Finette.
-
--*who_finette
-Allons, Madame.
-
-**** *book_ *id_I05 *act_I *date_1696
-
--*who_madamebertrand
-L'aimable Dame que voilà : ce que c'est que d'avoir de l'esprit et du bonheur !
-Ce n'est que la fille d'une Blanchisseuse de la Grenouillère, et cependant la voilà Comtesse.
-Oh !
-Il n'y a qu'à Paris où on fasse de ces fortunes-là.
-Holà, hé, Nicolas ?
-
-**** *book_ *id_I06 *act_I *date_1696
-
--*who_nicolas
-Qu'est-ce qu'il y a, Maîtresse ?
-
--*who_madamebertrand
-As-tu porté du vin et de la glace à ces deux Messieurs qui ont demandé une matelote et des écrevisses ?
-
--*who_nicolas
-Oui, Maîtresse.
-
--*who_madamebertrand
-Voilà qui est bien : fais-moi venir Marotte.
-
--*who_nicolas
-Çà, Maîtresse.
-Hé, Marotte, Marotte ?
-
--*who_madamebertrand
-Le gros butor !
-Est-ce que je n'appellerais pas aussi bien que toi, si je voulais appeler ?
-
--*who_nicolas
-Pargué, vous n'appelleriez pas mieux, du moins, car la vela venue.
-
-**** *book_ *id_I07 *act_I *date_1696
-
--*who_marotte
-Est-ce que vous me voulez quelque chose, ma tante ?
-
--*who_madamebertrand
-Oui.
-Tenez, allez dire à la grosse Thomasse qu'elle vous donne un demi cent d'écrevisses.
-
--*who_marotte
-Oui, ma Tante.
-
--*who_madamebertrand
-Choisissez les plus petites, au moins.
-
--*who_marotte
-J'entends bien, c'est pour quelque Bourgeois, pour quelque Procureur, n'est-ce pas ?
-
--*who_madamebertrand
-Oui.
-Écoutez, petite fille, c'est Monsieur Simonneau qui est là-haut, au moins.
-
--*who_marotte
-Le mari de cette belle Dame qui m'a fait tant de caresses ?
-
--*who_madamebertrand
-Justement.
-S'il vous questionnait tantôt, par hasard, ne vous avisez pas d'aller dire que sa femme soupa hier ici avec ce jeune Conseiller et ce vieux Musicien.
-
--*who_marotte
-Oh que je ne suis pas si mal apprise !
-Pourquoi me dites-vous cela ?
-Est-ce que vous me prenez pour une jaseuse ?
-
--*who_madamebertrand
-Non, mais…
-
--*who_marotte
-Et quand vous me menez avec vous chercher de la provision, et que nous déjeunons avec ce grand Clerc, ou avec ce gros Suisse, est-ce que j'en dis quelque chose à mon oncle ?
-
--*who_madamebertrand
-Je ne me plains pas de cela, tu es bonne fille.
-
--*who_marotte
-Si on ne savait un peu se taire, dans une maison comme celle-ci, ce serait belle pitié ; nous mettrions toute la ville en désordre.
-
--*who_madamebertrand
-Oui, il est de conséquence de ne point parler.
-
--*who_marotte
-Oh !
-Toute petite que je suis, je vois bien cela.
-Tenez, ma Tante, tous ces Messieurs qui viennent ici avec des femmes, ne voudraient pas que leurs femmes y vinssent avec des Messieurs, non.
-
--*who_madamebertrand
-Cela est vrai.
-
--*who_marotte
-Ah !
-Que ce vieux Médecin était fâché l'autre jour, quand il trouva là-haut sa femme qui mangeait une matelote avec ce garçon Apothicaire.
-
--*who_madamebertrand
-Et cependant il était avec une petite Lingère du Palais, lui ?
-
--*who_marotte
-Je n'ai jamais ouï tant jurer pour un Médecin.
-Il a bien dit qu'il se vengerait ; et le garçon Apothicaire ne sera jamais Maître.
-
-**** *book_ *id_I08 *act_I *date_1696
-
--*who_nicolas
-Oh !
-Palsangué, Maîtresse, je m'en vais cette fois-ci.
-
--*who_madamebertrand
-Tu t'en vas ?
-
--*who_nicolas
-Oui, morgué, je m'en irai.
-
--*who_marotte
-À qui en a-t-il donc ?
-
--*who_madamebertrand
-Va vite où je t'envoie, Marotte, et reviens de même.
-
-**** *book_ *id_I09 *act_I *date_1696
-
--*who_nicolas
-Jarnonce !
-
--*who_madamebertrand
-Mais, parle donc, garçon, quelle mouche te pique ?
-Es-tu devenu fou ?
-
--*who_nicolas
-Jarnigué, vela encore ces Madames qui m'avons fait darnièrement tant de niches.
-
--*who_madamebertrand
-Quelles Madames ?
-
--*who_nicolas
-Hé !
-Ces Madames de qualité, qui fesont comme si alles n'en étiant pas.
-Alles se promenont le long de l'iau, et alles viandront ici, je gage. .
-
--*who_madamebertrand
-Hé bien, laissez-les venir ; qu'est-ce que ça te fait ?
-
--*who_nicolas
-Hé, ventreguié, Maîtresse, alles me voulont débaucher.
-Vous ne savez pas stilà, peut-être ?
-
--*who_madamebertrand
-Comment, te débaucher ?
-
--*who_nicolas
-Alles me voulont mettre à mal, vous dis-je : mais tatigué, je m'enfuirai plutôt ; je sis honnête garçon, et vous le savez bian.
-
--*who_madamebertrand
-Tu es un sot, va, va-t-en à la maison.
-
--*who_nicolas
-Aga, donc, comme vous me chassez, à cause que vela votre mari : mais…
-
--*who_madamebertrand
-Ôte-toi de là, te dis-je.
-
-**** *book_ *id_I10 *act_I *date_1696
-
--*who_bertrand
-Palsanguoi, Jeanne, t'es toujours à l'entour de ces garçons ; j'ai biau les prendre tortus, bossus, borgnes et boiteux, ça n'y fait rian.
-Dame, acoute donc, je ne sis pas jaloux : mais si je m'y boute, je sais bian comme je les prendrai pour empêcher ça.
-
--*who_madamebertrand
-Plaît-il ?
-Hem ?
-Quoi ?
-Qu'est-ce ?
-Que voulez-vous dire, avec vos contes ?
-
--*who_bertrand
-Oh, ne te fâche donc pas, Jeanne, je sais bian d'où ça viant, et c'est ce qui fait que je te le pardonne.
-Parce que tu vois ici des Madames qui couront après des Monsieux, tu t'imagines qu'il faut faire de même ; raye ça de tes papiers.
-Alles sont de Paris, ces Madames-là, c'est à elles à faire ; et quoique je soyons de la banlieue, je prétends qu'il y ait de la différence.
-
--*who_madamebertrand
-Vous mériteriez bien…
-
--*who_bertrand
-Hé, morgué, doucement, t'es toujours en colère.
-Çà, parlons un peu de nos petites affaires.
-Ce Monsieur Simonneau le Procureur est là-haut avec un autre homme de Justice.
-
--*who_madamebertrand
-Je le sais bien, je viens de leur envoyer chercher par Marotte, des écrevisses qu'ils ont demandées.
-
--*who_bertrand
 Oui, mais j'ai dans la pensée qu'ils ne viennent pas ici pour des écrevisses, et qu'il y a queuque anguille sous roche.
 
--*who_madamebertrand
-Comment donc ?
-
--*who_bertrand
 Sa femme soupait ici, à Monsieur Simonneau.
 
--*who_madamebertrand
-Hé bien ?
-
--*who_bertrand
 Hé bian, ils parlont de mauvaise conduite, de faire enfarmer queuqu'un ; j'ai opignion qu'ils la voulont mettre à saint Lazare.
 
--*who_madamebertrand
-Une femme à saint Lazare !
+Oui, m'est avis que j'ai entendu ce mot-là, et ils m'avons bian enchargé de ne pas dire qu'ils sont ici, ils y demeureront peut-être jusqu'à demain. Si alle viant ce soir, comment ferons-le ?
 
--*who_bertrand
-Oui, m'est avis que j'ai entendu ce mot-là, et ils m'avons bian enchargé de ne pas dire qu'ils sont ici, ils y demeureront peut-être jusqu'à demain.
-Si alle viant ce soir, comment ferons-le ?
+Ah ! Votre valet, Monsieur de Lolive.
 
--*who_madamebertrand
-Si elle vient, elle viendra ; ce sont ses affaires.
+Moi ? Point du tout. Est-ce que votre maître se moque de moi ? On va dix fois cheux ly pour un méchant repas de trois pistoles : on ly reporte sa tabatière…
 
-**** *book_ *id_I11 *act_I *date_1696
-
--*who_lolive
-Serviteur, Monsieur Bertrand.
-
--*who_bertrand
-Ah !
-Votre valet, Monsieur de Lolive.
-
--*who_lolive
-Je baise les mains à Madame Bertrand ; comment se porte-t-elle ?
-
--*who_madamebertrand
-Fort bien, si vous m'apportez de l'argent.
-
--*who_lolive
-De l'argent, Madame Bertrand !
-Vous allez d'abord aux invectives.
-Monsieur Bertrand est plus poli que vous, et…
-
--*who_bertrand
-Moi ?
-Point du tout.
-Est-ce que votre maître se moque de moi ?
-On va dix fois cheux ly pour un méchant repas de trois pistoles : on ly reporte sa tabatière…
-
--*who_lolive
-Hé !
-Paix, monsieur Bertrand, vous me faites rougir.
-
--*who_bertrand
 Accoutez, si vous ne nous payez, votre maître et vous…
 
--*who_lolive
-Sans colère, Monsieur Bertrand, je ne viens ici que pour cela, et pour quelque autre petite chose.
+Ah ! Quand il vous plaira, tout est à votre service, Monsieur de Lolive.
 
--*who_madamebertrand
-Oh bian, commençons toujours par là, et je finirons par l'autre petite chose.
+Oh ! Ne craignez rian, je ne sis point babillard.
 
--*who_lolive
-Cela est trop juste.
-Tenez, voilà déjà les trois louis d'or de la tabatière, et en voilà un pour mon compte ; nous reprendrons ce soir nos nippes.
+De ma femme ? Oh ! Accoute : Jeanne, je ne sis pas si bon que tu penses, au moins.
 
--*who_bertrand
-Ah !
-Quand il vous plaira, tout est à votre service, Monsieur de Lolive.
+Pourquoi non ? Il y a bien eu des grosses Madames qui m'en avont voulu conter, à moi. Oh dame, Jeanne et moi, je sommes des biautés de caprice, et les parsonnes de qualité avont parfois des fantaisies.
 
--*who_lolive
-Cela est bien honnête !
-Oh çà, il me reste encore dix pistoles, dont mon maître m'a dit de faire présent à madame Bertrand, si elle veut lui rendre un petit service.
-
--*who_madamebertrand
-Oui da, volontiers.
-Quel service ?
-De quoi est-il question ?
-
--*who_lolive
-Il m'avait commandé de ne vous en pas parler devant votre mari, mais…
-
--*who_bertrand
-Oh !
-Ne craignez rian, je ne sis point babillard.
-
--*who_madamebertrand
-Oh, pour ça non, Bertrand est bon homme : dites vite.
-
--*who_lolive
-Mon maître est amoureux, Madame Bertrand.
-
--*who_bertrand
-De ma femme ?
-Oh !
-Accoute : Jeanne, je ne sis pas si bon que tu penses, au moins.
-
--*who_madamebertrand
-Hon !
-Que vous êtes nigaud, Monsieur Bertrand !
-
--*who_lolive
-Vous rêvez, je pense : mon maître est amoureux de votre femme !
-
--*who_bertrand
-Pourquoi non ?
-Il y a bien eu des grosses Madames qui m'en avont voulu conter, à moi.
-Oh dame, Jeanne et moi, je sommes des biautés de caprice, et les parsonnes de qualité avont parfois des fantaisies.
-
--*who_lolive
-Oh bien, le caprice de mon maître ne va point jusques là ; ne vous inquiétez point.
-C'est une petite bourgeoise de Vaugirard qui lui donne dans la vue ; et si madame Bertrand voulait…
-
--*who_madamebertrand
-Oh, pour cela non, nous ne nous mêlons point de ces choses-là : nous sommes gens de bien, Monsieur de Lolive.
-
--*who_lolive
-Mais il s'agit seulement…
-
--*who_madamebertrand
-Tenez, quand des personnes sont d'accord, et que leurs amitiés sont une fois commencées, on vient quelquefois chez nous mettre ces amitiés-là dans leur perfection ; on ne peut pas empêcher cela, on s'en doute, et on n'y prend pas garde, ce sont leurs affaires : mais pour ce qui est d'entrer là-dedans, nous n'en faisons rien, nous avons trop l'honneur en recommandation.
-
--*who_bertrand
 Le sis pis qu'un satan là-dessus, moi.
 
--*who_lolive
-Quoi, vous vous feriez un scrupule de rendre seulement un billet à une jeune fille ?
-
--*who_madamebertrand
-Un billet seulement, Bertrand.
-
--*who_bertrand
 Acoute, dix pistoles sont bonnes à gagner, Jeanne.
 
--*who_lolive
-Trouveriez-vous qu'il y eût grand mal à lui dire que mon maître l'attend ici ; et que comme nous n'oserions aller à Vaugirard, par ménagement pour elle, elle court moins de risque à nous venir trouver ?
-
--*who_madamebertrand
-Qu'en dis-tu Bertrand ?
-
--*who_bertrand
 Mais, il m'est avis qu'en bonne conscience, il n'y a pas de mal à ça ; si tu ne le fais pas, un autre le fera : la petite fille ne viendra pas moins, et tu n'auras pas les dix pistoles.
 
--*who_lolive
-Monsieur Bertrand est homme de bon sens et de bon conseil.
-
--*who_bertrand
 N'est-il pas vrai ?
 
--*who_madamebertrand
-Et qui est la petite fille ?
-Comment se nomme-t-elle ?
-
--*who_lolive
-Angélique.
-
--*who_madamebertrand
-Angélique, dites-vous ?
-
--*who_lolive
-Oui, elle demeure à l'entrée du Village, là, à main gauche.
-
--*who_madamebertrand
-Oh, je sais bien où elle demeure : mais il n'y a rien à faire ; cette fille-là est devenue femme, Monsieur de Lolive.
-
--*who_bertrand
 Oh, palsanguenne oui, alle fut hier mariée, et je faisons aujourd'hui son lendemain de noces.
 
--*who_lolive
-Quoi !
-Tout de bon ?
-
--*who_bertrand
 Oui, la peste m'étouffe.
 
--*who_lolive
-Cela fâchera mon maître.
-
--*who_madamebertrand
-Si vous voulez, pourtant, on lui rendra toujours votre billet, tout coup vaille.
-
--*who_lolive
-Oh diable, non, c'est un billet pour fille il en faut un pour femme, à présent.
-Je vais porter cette nouvelle à mon maître et cela ne nous empêchera pas de danser à la noce.
-
-**** *book_ *id_I12 *act_I *date_1696
-
--*who_madamebertrand
-Le Mitron a bien fait de hâter son mariage, Bertrand, on lui aurait soufflé sa maîtresse.
-
--*who_bertrand
 Hé morgué, on lui soufflera sa femme ; peut-être, ce sera bien pis encore.
 
--*who_madamebertrand
-À qui en veut ce laquais ?
-
-**** *book_ *id_I13 *act_I *date_1696
-
--*who_madamebertrand
-Demandez-vous quelque chose, mon enfant ?
-
--*who_lafleur
-C'est Monsieur Grimaudin, Madame, qui envoie savoir s'il n'y a ici personne de sa connaissance, et s'il y peut venir souper avec deux Dames de ses parentes ?
-
--*who_madamebertrand
-Oui, qu'il vienne : mais qu'il se dépêche.
-
--*who_bertrand
 Tatigué, Jeanne c'est une bonne pratique que ce Monsieur Grimaudin, on ne dirait pas qu'il y touche devant le monde : mais je le voyons pourtant bian souvent cheux nous, à ce qu'il me semble.
 
--*who_madamebertrand
-Oh, c'est un fort honnête homme, bien réglé, d'une bonne conduite.
+Et d'une grande famille, n'est-ce pas ? Morgué toutes les jolies femmes de Paris sont ses cousines à sti là.
 
--*who_bertrand
-Et d'une grande famille, n'est-ce pas ?
-Morgué toutes les jolies femmes de Paris sont ses cousines à sti là.
-
--*who_madamebertrand
-Paix, tais-toi, les voilà, je pense.
-
--*who_bertrand
 Pargué, Madame Simonneau est avec ly, elle est itou sa cousine, je gage.
 
-**** *book_ *id_I14 *act_I *date_1696
-
--*who_madamesimonneau
-Je ne bouge de chez toi, Madame Bertrand, j'y soupais encore hier au soir, j'y reviens aujourd'hui, je prendrai quelque jour le parti d'y faire apporter des meubles.
-
--*who_madamebertrand
-Je ne vous conseillerais pas de vous emménager aujourd'hui.
-Votre mari est là-haut, je vous en avertis.
-
--*who_madamesimonneau
-Mon mari.
-
--*who_monsieurgrimaudin
-Que nous dis-tu là ?
-
--*who_bertrand
 Alle vous dit vrai.
 
--*who_madamedurollet
-Le fâcheux contretemps !
-Nous nous étions tant proposé de nous bien réjouir !
+Hé bien, tenez, vous l'entendez ? Le vela qui appelle.
 
--*who_dorante
-Allons, Mesdames, évitons l'éclat, remontons en carrosse.
-
--*who_madamesimonneau
-Mais tu te trompes, Madame Bertrand, cela n'est pas possible.
-
--*who_madamebertrand
-Cela est comme je vous dis, je ne me trompe point.
-
--*who_madamedurollet
-Oh, pour cela c'est une chose ridicule !
-Vous ne devriez point recevoir de maris chez vous, vous autres.
-
--*who_monsieursimonneau
-Holà, quelqu'un ?
-Qu'on monte donc, hé ?
-
--*who_bertrand
-Hé bien, tenez, vous l'entendez ?
-Le vela qui appelle.
-
--*who_madamesimonneau
-Ils ont vraiment raison, c'est lui-même.
-
--*who_monsieurgrimaudin
-Allons-nous-en souper à Passy, Mesdames, il n'y a pas d'autre parti à prendre.
-
--*who_madamedurollet
-Nous n'y trouverons point de matelote.
-
--*who_madamesimonneau
-Ah, que cela est chagrinant !
-Je suis au désespoir quand quelque chose me dérange.
-
--*who_madamebertrand
-Oh, par ma foi, le voilà lui-même, voyez comme vous vous tirez d'affaire.
-
-**** *book_ *id_I15 *act_I *date_1696
-
--*who_monsieursimonneau
-Hé, qu'est-ce que c'est donc que cela, Madame Bertrand ?
-On ne saurait être servi chez vous : il y a une heure que nous avons demandé une matelote et des écrevisses.
-
--*who_madamesimonneau
-Oui, Monsieur mon mari !
-Une matelote et des écrevisses !
-C'est donc ainsi que vous venez manger votre bien au Cabaret ?
-
--*who_monsieursimonneau
-Ma femme au Moulin de Javelle !
-Qu'est-ce que cela veut dire ?
-
--*who_madamesimonneau
-Tu ne m'y attendais pas ivrogne.
-Ah !
-Je savais bien que je t'y attraperais ; il y a longtemps que je te guette.
-
--*who_bertrand
 Il est bon sur ce ton-là : morgué l'habile femme !
 
--*who_monsieursimonneau
-Écoutez, Madame Simonneau, je ne sais pas comment vous l'entendez : mais pour moi sérieusement…
-
--*who_madamebertrand
-Nous n'avons pas dit que vous étiez là-haut, Monsieur, si vous n'étiez pas descendu vous-même.
-
--*who_monsieursimonneau
-Il n'est pas question de cela, Madame Bertrand, je n'ai point à rendre compte…
-
--*who_bertrand
 Il y a morgué du temps qu'alle vous garde ça ; car alle viant ici trois ou quatre fois la semaine.
 
--*who_madamesimonneau
-Je suis bien malheureuse de voir ainsi dissiper le bien que mes parents…
-
--*who_dorante
-Il faut mettre ordre à vos affaires, Madame, une bonne séparation…
-
--*who_monsieurgrimaudin
-Oui.
-N'avez-vous pas les voies de la Justice pour empêcher…
-
--*who_monsieursimonneau
-Messieurs, Madame Simonneau, encore une fois, je n'entends point raillerie.
-
--*who_madamedurollet
-Allez, Monsieur, vous devriez mourir de honte, de passer ainsi votre vie dans la débauche, pendant qu'une pauvre petite femme…
-
--*who_monsieursimonneau
-Madame du Rollet, ce ne sont point ici vos affaires, mêlez-vous, je vous prie…
-
--*who_madamesimonneau
-Il vous battra, Madame, il vous battra ; il est déjà ivre.
-
--*who_madamedurollet
-Oui, il pue le vin : que cela est horrible.
-
--*who_monsieursimonneau
-Madame Bertrand, vous savez bien que…
-
--*who_madamebertrand
-Ce sont des femmes, Monsieur, ne prenez pas garde à cela, laissez-les dire.
-
--*who_monsieursimonneau
-Comment !
-Que je n'y prenne pas garde ?
-
--*who_bertrand
 Oui, faites-ly excuses, alle est bonne parsonne, alle vous pardonnera pour cette fois-ci peut-être.
 
--*who_monsieursimonneau
-Ouais, mais voici qui est admirable.
-Oh, je lui ferai bien voir…
-
--*who_madamesimonneau
-Il me menace, Messieurs, il me menace, remarquez bien cela, je vous prie.
-
--*who_dorante,monsieurgrimaudin
-Oui, Madame.
-
--*who_monsieursimonneau
-Comment, carogne ?
-
--*who_madamesimonneau
-Quelle infamie !
-Vous entendez comme il me traite ?
-
--*who_bertrand
 Hé morgué, Monsieur Simonneau, vous n'y songez pas.
 
--*who_monsieursimonneau
-C'est une coquine qui ne croyait pas me trouver ici.
-
--*who_madamesimonneau
-Oui, une coquine, fort bien !
-Ah !
-Je n'y puis plus tenir, je crève : qu'on me remène au plus vite à Paris, je veux faire mes plaintes, et vous me servirez de témoins, Messieurs, s'il vous plaît.
-
--*who_monsieursimonneau
-Comment donc des plaintes ?
-Je vous le conseille !
-Au moins, Monsieur, vous voyez bien…
-
--*who_monsieurgrimaudin
-Vous avez tort, Monsieur, je dirai ce que j'ai vu, je ne puis m'en défendre.
-Mettre la main sur une femme !
-
--*who_monsieursimonneau
-J'ai mis la main sur elle, moi ?
-Vous êtes honnête homme, vous, Monsieur, je vous demande en grâce…
-
--*who_dorante
-Oh, pour moi, je suis votre serviteur : mais je déposerai aussi contre vous, Monsieur Simonneau, je vous en avertis.
-
--*who_madamebertrand
-Voilà un pauvre diable de mari en bonne main !
-
--*who_madamedurollet
-Hom, que j'en dirai de belles aussi, moi, je vous en réponds.
-
-**** *book_ *id_I16 *act_I *date_1696
-
--*who_monsieursimonneau
-Ah !
-Madame Bertrand, je n'en puis plus, je tombe des nues, je n'ai pas la force de me remuer seulement.
-Par ma foi, c'est un méchant animal qu'une femme !
-
--*who_madamebertrand
-Vous avez tort, dans le fond ; pourquoi la quereller ?
-
--*who_bertrand
 Morgué, si vous aviais voulu, ça ce serait passé tout doucement.
 
-**** *book_ *id_I17 *act_I *date_1696
+Vous ne comprenez pas ? Alles veniont pour souper ici, alles trouvent la place prise, alles vont s'en plaindre : mais je ne pouvons mais de ça, nous autres.
 
--*who_monsieurdurollet
-Hé, à quoi vous amusez-vous donc ?
-Vous me laissez là-haut tout seul à croquer le marmot.
-
--*who_monsieursimonneau
-Ah !
-Mon pauvre ami, je suis au désespoir.
-
--*who_monsieurdurollet
-Comment donc ?
-Qu'est-il arrivé ?
-
--*who_monsieursimonneau
-Je ne viens ici, comme vous savez, que pour y attraper en quelque débauche mon coquin de neveu, qui est un vagabond, qui mange tout son fait.
-
--*who_monsieurdurollet
-Hé bien ?
-
--*who_monsieursimonneau
-Et j'y trouve ma femme en partie quarrée.
-
--*who_monsieurdurollet
-Votre femme en partie quarrée ?
-Ah !
-Ah !
-Ah !
-Cela est trop drôle.
-Et avec qui donc, s'il vous plaît ?
-
--*who_monsieursimonneau
-Oui, cela est fort plaisant ; avec la vôtre, Monsieur du Rollet, avec la vôtre.
-
--*who_monsieurdurollet
-Avec la mienne ?
-
--*who_madamebertrand
-Vous êtes bienheureux, vraiment, de n'être pas descendu le premier, il n'y aura pas de plainte contre vous.
-
--*who_monsieurdurollet
-Comment, de plainte contre moi ?
-Qu'est-ce que cela signifie ?
-
--*who_bertrand
-Vous ne comprenez pas ?
-Alles veniont pour souper ici, alles trouvent la place prise, alles vont s'en plaindre : mais je ne pouvons mais de ça, nous autres.
-
--*who_madamebertrand
-Bertrand a raison, ce n'est pas notre faute.
-
--*who_monsieurdurollet
-Mais cela est fort joli, vraiment !
-Et qui est avec elles ?
-
--*who_madamebertrand
-Deux Messieurs qui les remènent à Paris.
-
--*who_monsieurdurollet
-Il faut suivre cette affaire-là, Monsieur Simonneau.
-
--*who_monsieursimonneau
-Vous avez raison ; si cela se fait, on se moquera de nous encore.
-Allons, nos perruques, nos chapeaux, nos cannes.
-
--*who_bertrand
 Je m'en vais quérir toutes vos affaires.
 
-**** *book_ *id_I18 *act_I *date_1696
+Tenez, Messieurs, vela tout votre attirail. Je sis fâché que vous soyez fâchés : mais…
 
--*who_madamebertrand
-Est-ce que vous ne voulez pas qu'on vous serve vos écrevisses et votre matelote, Messieurs ?
+Tout ce qu'il vous plaira, Messieurs. Qu'est-ce qu'il y a, Jeanne.
 
--*who_monsieursimonneau
-Maugrébleu des matelotes !
-Si j'en viens manger de ma vie…
+Ça n'y fait rian ; vous les avez commandées. Je ne sommes pas cause que vos femmes sont venues.
 
--*who_monsieurdurollet
-Nous méritons bien cela, Monsieur Simonneau : des maris de bon sens ne doivent jamais aller où ils peuvent rencontrer leurs femmes.
-
-**** *book_ *id_I19 *act_I *date_1696
-
--*who_bertrand
-Tenez, Messieurs, vela tout votre attirail.
-Je sis fâché que vous soyez fâchés : mais…
-
--*who_monsieursimonneau
-Cela n'est rien.
-Qu'est-ce qu'il vous faut ?
-
--*who_bertrand
-Tout ce qu'il vous plaira, Messieurs.
-Qu'est-ce qu'il y a, Jeanne.
-
--*who_madamebertrand
-Hélas !
-Presque rien.
-Six francs de matelote, cent sols d'écrevisses, et quatre francs pour le reste, ce sont quinze livres.
-
--*who_monsieurdurollet
-Mais votre matelote, et vos écrevisses que l'on ne nous a pas seulement servies…
-
--*who_bertrand
-Ça n'y fait rian ; vous les avez commandées.
-Je ne sommes pas cause que vos femmes sont venues.
-
--*who_monsieursimonneau
-Oui, mais…
-
--*who_bertrand
 Tenez, point de mais avec nous, Monsieur Simonneau, ou bien je déposerons contre vous, choisissez.
 
--*who_monsieurdurollet
-Hé !
-Donnons-leur ce qu'ils demandent, et allons-nous-en ; je suis sur des épines.
-
--*who_monsieursimonneau
-Voilà mon demi louis d'or ; donnez le vôtre.
-
--*who_monsieurdurollet
-Le voilà, vous n'en aurez pas davantage.
-
--*who_bertrand
 Il faut bien se contenter de ça, je ne rançonnons parsonne, une autre fois je gagnerons davantage.
 
--*who_monsieurdurollet
-Hom !
-Si l'on me retient ici…
-
--*who_madamebertrand
-Jusqu'au revoir, Messieurs, bon voyage.
-
-**** *book_ *id_I20 *act_I *date_1696
-
--*who_bertrand
 Tatigué, vela deux bourgeois qui se sont bian divartis pour leur argent, n'est-il pas vrai, Jeanne ?
 
--*who_madamebertrand
-C'est bien employé.
-Est-ce à des magots comme cela, qui ont de jolies femmes, à se trouver sur leurs brisées ?
-Ne doivent-ils pas savoir qu'il y a des endroits autour de Paris qui ne sont pas faits pour eux ?
-
-**** *book_ *id_I21 *act_I *date_1696
-
--*who_nicolas
-Oh dame, Maîtresse, venez donc à la maison parler à ces gens-là.
-
--*who_madamebertrand
-Comment, quels gens ?
-
--*who_nicolas
-Et les ménétriers de cette noce qui sont venus devant ; ils juront comme tout, parce qu'ils n'avont pas encore de vin.
-
--*who_madamebertrand
-Ils sont bien pressés, qu'ils attendent leur monde.
-
--*who_nicolas
-Voirement oui, qu'ils attendent ?
-Ils disont comme ça que par faute de boire leur musique deviendra enragée, et que ça fera tantôt enrager tout le monde.
-Accoutez, il se faut bailler de garde de ça, je vous en avartis, ils demandont le maître ou la maîtresse.
-
--*who_madamebertrand
-Je m'en vais leur parler.
-
--*who_bertrand
 Hé palsangué, baille-leur du vin, Jeanne, je serons bian payés de tout ça, ne te boute pas en peine.
 
-**** *book_ *id_I22 *act_I *date_1696
-
--*who_bertrand
 Tatigué, il faut que ce soit un métier bian échauffant que celui de Ménétrier, car c'est une engeance bian altérée.
 
-**** *book_ *id_I23 *act_I *date_1696
+Comment morgué, vous revela, Mesdames ! Je vous croyais effarouchées pour plus de huit jours.
 
--*who_bertrand
-Comment morgué, vous revela, Mesdames !
-Je vous croyais effarouchées pour plus de huit jours.
-
--*who_madamesimonneau
-Je ne m'effarouche pas si aisément, et nous serons ce soir ici mieux qu'en lieu du monde.
-Monsieur mon mari ne nous soupçonnera pas d'y être sitôt revenues.
-Est-il allé rejoindre sa compagnie ?
-
--*who_bertrand
 Oui, Monsieur du Rollet et ly, tous deux ensemble, ils avont…
 
--*who_madamedurollet
-Mon mari est avec le tien ?
-Ah !
-Je suis au désespoir.
+Oh morguenne oui, il ne l'a pas bonne. C'est ly qui a mis le feu sous le ventre à l'autre, et ils s'en allont tous deux bellement vous charcher à Paris, pour vous quereller plus à leur aise.
 
--*who_madamesimonneau
-Comment donc ?
-
--*who_madamedurollet
-S'il sait que je suis venue ici avec Monsieur Grimaudin, je suis perdue, te dis-je.
-
--*who_madamesimonneau
-Bon, perdue !
-Es-tu folle ?
-Et t'embarrasses-tu fort d'un mari ?
-
--*who_madamedurollet
-Si je m'en embarrasse ?
-Le mien est la plus méchante langue que je connaisse.
-
--*who_bertrand
-Oh morguenne oui, il ne l'a pas bonne.
-C'est ly qui a mis le feu sous le ventre à l'autre, et ils s'en allont tous deux bellement vous charcher à Paris, pour vous quereller plus à leur aise.
-
--*who_madamesimonneau
-Et leur matelote, et leurs écrevisses ?
-
--*who_bertrand
 Ils n'avont pargué pas eu le temps de les manger, mais alles sont payées.
 
--*who_madamesimonneau
-À la bonne heure, qu'on nous les serve.
-Voilà des maris qui font bien les choses !
-Venir eux-mêmes au Moulin de Javelle faire apprêter ! souper de leurs femmes !
-Ils sont bonnes gens, cela est fort honnête.
+Morgué, se peut-il que ce ne soit là que des Bourgeoises ? Alles avont les magnières bian de qualité.
 
--*who_madamedurollet
-Nous allons avoir une furieuse querelle à soutenir en arrivant chez nous.
+Vous serez contentes, entrez toujours, n'y a qu'à dire à Jeanne. Tatigué que vela des femmes de bonne himeur, alles n'engendront point de mélancolie, ça ne gronde jamais que leurs maris, da ; ça ne fait point de meine. Oh, j'avons ça de bon, nous autres, je ne voyons morgué point de rechigneuses.
 
--*who_madamesimonneau
-Il n'y faut arriver que demain.
-
--*who_madamedurollet
-Que demain ?
-Tu n'y songes pas.
-
--*who_madamesimonneau
-Les affaires criminelles s'abonnissent en vieillissant.
-Nous n'avons qu'à nous tranquilliser ici pendant que leur premier mouvement passera : plus l'aventure sera forte, et plus ils craindront qu'elle éclate.
-Les maris sont devenus prudents depuis quelques années.
-
--*who_madamedurollet
-Je ferai tout ce que tu voudras, je le veux bien.
-Au hasard d'un fâcheux avenir, profitons du temps présent, puisque nous y sommes.
-La Fleur, va dire à ces Messieurs qu'ils viennent, les ennemis sont décampés, nous sommes maîtresses du champ de bataille.
-
--*who_bertrand
-Morgué, se peut-il que ce ne soit là que des Bourgeoises ?
-Alles avont les magnières bian de qualité.
-
--*who_madamesimonneau
-Mon pauvre Monsieur Bertrand, force bougies, grande chère, et de la glace, nous ne demandons pas autre chose.
-
--*who_bertrand
-Vous serez contentes, entrez toujours, n'y a qu'à dire à Jeanne.
-Tatigué que vela des femmes de bonne himeur, alles n'engendront point de mélancolie, ça ne gronde jamais que leurs maris, da ; ça ne fait point de meine.
-Oh, j'avons ça de bon, nous autres, je ne voyons morgué point de rechigneuses.
-
-**** *book_ *id_I24 *act_I *date_1696
-
--*who_lolive
-Mon maître n'est point encore venu, Monsieur Bertrand ?
-
--*who_bertrand
 Je ne l'ai point vu, Monsieur de Lolive : est-ce que vous ne l'avez pas trouvé, pour lui faire écrire ce billet pour femme ?
 
--*who_lolive
-Cela ne presse pas encore.
-Puisqu'elle est mariée, tant pis pour elle ; nous allons avoir d'autres affaires.
+Morgué, c'est un grand libartin que votre maître, Monsieur de Lolive ! Des vieilles, des jeunes, des Bourgeoises, des Marquises ; il en aime de toutes les façons, et il n'en épouse pas une.
 
--*who_bertrand
-Morgué, c'est un grand libartin que votre maître, Monsieur de Lolive !
-Des vieilles, des jeunes, des Bourgeoises, des Marquises ; il en aime de toutes les façons, et il n'en épouse pas une.
+Ça est bian heureux ! Oh, il est né coiffé, cet homme-là ; il n'a point d'argent, il n'en gagne point, et il en dépense. Comment fait-il ? Je n'y comprends rian, la peste m'étouffe.
 
--*who_lolive
-Qu'est-ce à dire, il n'en épouse pas une ?
-Il n'y en a presque point qu'il n'épouse.
-Mais comme, nous autres jeunes gens, nous ne faisons pas les choses dans toutes les règles, il manque toujours quelque formalité à nos mariages, et c'est ce qui fait qu'on les casse.
-
--*who_bertrand
-Ça est bian heureux !
-Oh, il est né coiffé, cet homme-là ; il n'a point d'argent, il n'en gagne point, et il en dépense.
-Comment fait-il ?
-Je n'y comprends rian, la peste m'étouffe.
-
--*who_lolive
-Oh diable, je le crois bien, cela vous passe ; nous avons de grandes ressources aux parties casuelles.
-
--*who_bertrand
 Aux parties casuelles !
 
--*who_lolive
-Nous jouissons de plus de vingt mille livres de rente en fonds d'esprit et de savoir-faire.
-Nous avons des droits sur tous les provinciaux qui viennent débarquer à Paris, sur les enfants de famille qui entrent de trop bonne heure dans le monde, sur les Bourgeois qui veulent contrefaire les gens de qualité, sur les successions qui tombent en mains mineures.
-Que diable sais-je ?
-Notre domaine est de grande étendue ; et si je n'y comprends pas les vieilles coquettes.
+Tatigué que vous devez être riches ! Mais vela votre maître qui vous fait segne, il est peut-être tombé quelques nouviaux droits dans son domaine.
 
--*who_bertrand
-Tatigué que vous devez être riches !
-Mais vela votre maître qui vous fait segne, il est peut-être tombé quelques nouviaux droits dans son domaine.
+Hom ! Que vela deux bonnes bêtes ensemble !
 
--*who_lolive
-Sans adieu, Monsieur Bertrand.
+Oh, palsangué, Monsieur le Chevalier, vela un Monsieur qui vous charche, qui viant de faire une belle culbute.
 
-**** *book_ *id_I25 *act_I *date_1696
+Ils étions deux, une Madame et ly, dans une petite carriole qui ne tiant qu'un.
 
--*who_lechevalier
-Hé bien, Lolive ?
+Tout justement, vela comme on l'appelle.
 
--*who_bertrand
-Hom !
-Que vela deux bonnes bêtes ensemble !
+Hé bian, ils avont varsé dans la rivière.
 
--*who_lechevalier
-Madame Bertrand s'est-elle chargée de mon billet : l'a-t-elle rendu ?
-Le rendra-t-elle.
+Ils sont morgué bian heureux que les yaux sont basses en cet endroit-là, et qu'ils ne sont tombés que sur un tas de piarres.
 
--*who_lolive
-Non, Monsieur, il n'y a rien à faire, la petite fille est mariée.
+Non, ils n'avons rian. La Madame, pourtant, crie de toute sa force, alle dit qu'alle a la tête cassée : mais ça n'est pas vrai, ça ne se peut pas !
 
--*who_lechevalier
-Elle est mariée ?
-Tu te moques, je pense.
+Hé, morgué non ; le Monsieur n'a rian, ly, et la tête d'une femme, comme vous savez, est bian plus dure à casser que non pas celle d'un homme.
 
--*who_lolive
-Je ne me moque point, et vous allez voir ici son lendemain de noces.
+Palsangué, tenez, vela le cabrioleux.
 
--*who_lechevalier
-Ah !
-Je la verrai du moins, je lui parlerai, je lui ferai connaître…
+Mais, tatigué, vela un visage qui ne m'est pas inconnu.
 
--*who_lolive
-Gardez-vous bien de lui faire la moindre mine seulement, vous gâteriez toutes vos affaires.
+Morgué, plus je l'envisage, et plus c'est ly-même.
 
--*who_lechevalier
+Je me donne au diable, si ce n'est le neveu de Monsieur Simonneau, notre Procureur.
+
+Morgué, les gens de qualité ne faisont pas comme ça : c'est un badaud, je ne m'y trompe guère.
+
+C'est le bian prendre. L'air de cheux nous baille de l'esprit, tout chacun y est toujours d'accord. Allons, allons, morgué, que les Ménétriers s'accordiant, pour bailler l'exemple.
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebertrand
+
+Mesdames, votre très humble servante. Hé, c'est un petit miracle de vous voir. Vous nous avez bien abandonnés, d'où vient donc cela ?
+
+Est-ce que vous vous êtes mise dans l'épée ? Je vous ai vue si fort dans la robe.
+
+Hé, allez, allez, Madame, nous savons cela mieux que personne, et je ne sais combien de Dames qui sont ici tout l'hiver avec des Ducs et des Marquis, n'y viennent presque l'été qu'avec des Procureurs et des petits-maîtres du quartier Saint-Honoré : encore ne sont-ce pas les plus mal partagées.
+
+Il n'y a pas encore grand monde : mais nous attendons un lendemain de noces.
+
+Oui, Madame, un Bourgeois de Vaugirard qui marie sa fille au garçon du Boulanger de Meudon, ils ont envoyé retenir notre grande chambre.
+
+Vous attendez compagnie, apparemment, et vous ne voulez pas entrer encore ?
+
+Je vous l'enverrai sitôt qu'il sera venu, ne vous mettez pas en peine.
+
+L'aimable Dame que voilà : ce que c'est que d'avoir de l'esprit et du bonheur ! Ce n'est que la fille d'une Blanchisseuse de la Grenouillère, et cependant la voilà Comtesse. Oh ! Il n'y a qu'à Paris où on fasse de ces fortunes-là. Holà, hé, Nicolas ?
+
+As-tu porté du vin et de la glace à ces deux Messieurs qui ont demandé une matelote et des écrevisses ?
+
+Voilà qui est bien : fais-moi venir Marotte.
+
+Le gros butor ! Est-ce que je n'appellerais pas aussi bien que toi, si je voulais appeler ?
+
+Oui. Tenez, allez dire à la grosse Thomasse qu'elle vous donne un demi cent d'écrevisses.
+
+Choisissez les plus petites, au moins.
+
+Oui. Écoutez, petite fille, c'est Monsieur Simonneau qui est là-haut, au moins.
+
+Justement. S'il vous questionnait tantôt, par hasard, ne vous avisez pas d'aller dire que sa femme soupa hier ici avec ce jeune Conseiller et ce vieux Musicien.
+
+Non, mais…
+
+Je ne me plains pas de cela, tu es bonne fille.
+
+Oui, il est de conséquence de ne point parler.
+
+Cela est vrai.
+
+Et cependant il était avec une petite Lingère du Palais, lui ?
+
+Tu t'en vas ?
+
+Va vite où je t'envoie, Marotte, et reviens de même.
+
+Mais, parle donc, garçon, quelle mouche te pique ? Es-tu devenu fou ?
+
+Quelles Madames ?
+
+Hé bien, laissez-les venir ; qu'est-ce que ça te fait ?
+
+Comment, te débaucher ?
+
+Tu es un sot, va, va-t-en à la maison.
+
+Ôte-toi de là, te dis-je.
+
+Plaît-il ? Hem ? Quoi ? Qu'est-ce ? Que voulez-vous dire, avec vos contes ?
+
+Vous mériteriez bien…
+
+Je le sais bien, je viens de leur envoyer chercher par Marotte, des écrevisses qu'ils ont demandées.
+
 Comment donc ?
 
--*who_lolive
-De nouvelles mariées sont encore toutes sottes de leurs maris ; réservons cela pour le quartier d'hiver, au retour de la campagne.
+Hé bien ?
 
--*who_lechevalier
-Et comment la faire, cette campagne ?
-Je n'ai pas vingt pistoles.
+Une femme à saint Lazare !
 
--*who_lolive
-Il en faut trouver.
-À quoi diable vous sert votre badaud de Monsieur Ganivet, si ce n'est pour…
+Si elle vient, elle viendra ; ce sont ses affaires.
 
--*who_lechevalier
-Il a sur lui un billet de quatre cent louis d'or, payable au porteur.
+Fort bien, si vous m'apportez de l'argent.
 
--*who_lolive
-Que diable fait-il de cela dans sa poche, cet animal-là ?
-Voilà un billet inutile… Je veux le mettre en œuvre, moi, Monsieur, laissez-moi faire.
+Oh bian, commençons toujours par là, et je finirons par l'autre petite chose.
 
--*who_lechevalier
-Oui : mais, Lolive…
+Oui da, volontiers. Quel service ? De quoi est-il question ?
 
--*who_lolive
-Qu'est-ce à dire, mais ?
-Monsieur Georges Ganivet est le fils d'un Procureur qui a ruiné votre famille ; le père est mort, le fils a hérité, c'est à lui faire restitution, à ce qu'il me semble.
+Oh, pour ça non, Bertrand est bon homme : dites vite.
 
--*who_lechevalier
-J'en demeure d'accord : mais cependant…
+Hon ! Que vous êtes nigaud, Monsieur Bertrand !
 
--*who_lolive
-Cependant il a encore eu depuis quinze jours la succession d'une vieille tante qui nous a quelquefois prêté de l'argent au dernier un.
-Allez, Monsieur, point de scrupule, nous avons de grandes hypothèques sur tous ces héritages-là, comme vous voyez.
+Oh, pour cela non, nous ne nous mêlons point de ces choses-là : nous sommes gens de bien, Monsieur de Lolive.
 
--*who_lechevalier
-Je vois bien, à peu près, quel est ton dessein.
+Tenez, quand des personnes sont d'accord, et que leurs amitiés sont une fois commencées, on vient quelquefois chez nous mettre ces amitiés-là dans leur perfection ; on ne peut pas empêcher cela, on s'en doute, et on n'y prend pas garde, ce sont leurs affaires : mais pour ce qui est d'entrer là-dedans, nous n'en faisons rien, nous avons trop l'honneur en recommandation.
 
--*who_lolive
-Et vous avez bien de la peine à ne pas l'approuver, je gage ?
+Un billet seulement, Bertrand.
 
--*who_lechevalier
-Mais, de quelle manière le faire réussir ?
+Qu'en dis-tu Bertrand ?
 
--*who_lolive
-De quelle manière ?
-Attendez… Ne pourrions-nous pas trouver quelque femme d'esprit, là…
+Et qui est la petite fille ? Comment se nomme-t-elle ?
 
--*who_lechevalier
-Pourquoi faire ?
+Angélique, dites-vous ?
 
--*who_lolive
-Ah, Monsieur, si feue ma pauvre cousine n'avait pas été pendue l'année passée…
+Oh, je sais bien où elle demeure : mais il n'y a rien à faire ; cette fille-là est devenue femme, Monsieur de Lolive.
 
--*who_lechevalier
-Que diantre avons-nous affaire de ta cousine ?
-Que veux-tu dire ?
+Si vous voulez, pourtant, on lui rendra toujours votre billet, tout coup vaille.
 
--*who_lolive
-C'est qu'il nous faudrait une personne de mérite, voyez-vous.
-Hom, que c'est bien dommage que ma tante et ma sœur soient encore au Châtelet.
+Le Mitron a bien fait de hâter son mariage, Bertrand, on lui aurait soufflé sa maîtresse.
 
--*who_lechevalier
-Et qu'a de commun toute ta malheureuse famille ?…
+À qui en veut ce laquais ?
 
--*who_lolive
-J'ai tort, et vous raison, Monsieur.
-Vous avez ici rendez-vous avec Madame la Comtesse : elle vaut bien ces honnêtes personnes-là.
+Demandez-vous quelque chose, mon enfant ?
 
--*who_lechevalier
-Oui, vraiment.
+Oui, qu'il vienne : mais qu'il se dépêche.
 
--*who_lolive
-Monsieur Ganivet y doit venir aussi.
+Oh, c'est un fort honnête homme, bien réglé, d'une bonne conduite.
 
--*who_lechevalier
-Il m'en a donné parole.
+Paix, tais-toi, les voilà, je pense.
 
--*who_lolive
-Attendez-les, et moi aussi, Monsieur.
+Je ne vous conseillerais pas de vous emménager aujourd'hui. Votre mari est là-haut, je vous en avertis.
 
--*who_lechevalier
-Que prétends-tu faire ?
+Cela est comme je vous dis, je ne me trompe point.
 
--*who_lolive
-Ne vous mettez pas en peine, la Comtesse a de l'esprit, elle entrera d'abord dans ma pensée ; attendez-la, vous dis-je, nous aurons de l'argent pour faire la campagne.
+Oh, par ma foi, le voilà lui-même, voyez comme vous vous tirez d'affaire.
 
--*who_lechevalier
-Mais que je sache…
+Nous n'avons pas dit que vous étiez là-haut, Monsieur, si vous n'étiez pas descendu vous-même.
 
--*who_lolive
-Mais, mais, demeurez ici seulement, et ne vous embarrassez pas du reste.
+Ce sont des femmes, Monsieur, ne prenez pas garde à cela, laissez-les dire.
 
-**** *book_ *id_I26 *act_I *date_1696
+Voilà un pauvre diable de mari en bonne main !
 
--*who_lechevalier
-Je ne puis deviner quel est son projet : mais il a du monde et de l'esprit, et il sort fort bien de ce qu'il entreprends : il faut le laisser faire.
+Vous avez tort, dans le fond ; pourquoi la quereller ?
 
-**** *book_ *id_I27 *act_I *date_1696
+Vous êtes bienheureux, vraiment, de n'être pas descendu le premier, il n'y aura pas de plainte contre vous.
 
--*who_lechevalier
-Hé, bonjour, belle Marotte, où allez-vous si vite, ma chère enfant ?
+Bertrand a raison, ce n'est pas notre faute.
 
--*who_marotte
-Oh çà, Monsieur, ne m'amusez point, s'il vous plaît ; ma tante me gronderait : laissez-moi lui porter ces écrevisses, et puis je reviendrai causer avec vous tant que vous voudrez.
+Deux Messieurs qui les remènent à Paris.
 
--*who_lechevalier
-Quoi, belle Marotte, on vous envoie chercher des écrevisses ?
-On vous occupe à des emplois si bas ?
-Ah fi, c'est se moquer, que…
+Est-ce que vous ne voulez pas qu'on vous serve vos écrevisses et votre matelote, Messieurs ?
 
--*who_marotte
-Bon, qu'est-ce que cela fait, Monsieur ?
-Je ne suis qu'une petite fille à cette heure : mais cela ne sera pas toujours de même.
-Hom, que j'ai bien envie de devenir grande !
+Hélas ! Presque rien. Six francs de matelote, cent sols d'écrevisses, et quatre francs pour le reste, ce sont quinze livres.
 
--*who_lechevalier
-Et pourquoi ?
-Vous êtes si jolie comme cela.
+Jusqu'au revoir, Messieurs, bon voyage.
 
--*who_marotte
-Pour ne plus aller chercher des écrevisses.
-Vous dites vous-même que cela est si vilain.
+C'est bien employé. Est-ce à des magots comme cela, qui ont de jolies femmes, à se trouver sur leurs brisées ? Ne doivent-ils pas savoir qu'il y a des endroits autour de Paris qui ne sont pas faits pour eux ?
 
--*who_lechevalier
-Il n'y faut point aller, toute petite que vous êtes.
+Comment, quels gens ?
 
--*who_marotte
-Il n'y faut point aller ?
-Ah, ah !
-Et ma tante ?
+Ils sont bien pressés, qu'ils attendent leur monde.
 
--*who_lechevalier
-Votre tante est une bonne femme qui…
+Je m'en vais leur parler.
 
--*who_marotte
-Oui, vous la trouvez bonne femme, parce que vous n'êtes pas sa petite nièce : mais moi qui la suis, je ne la trouve pas de même.
-Si vous l'entendiez quand elle prend son ton, et qu'elle se met à quereller…
-
--*who_lechevalier
-Comment, elle vous querelle ?
-
--*who_marotte
-Pas si fort depuis quelque temps que je sais de ses petites fredaines, elle a peur que je n'en parle à mon oncle.
-
--*who_lechevalier
-Oui !
-Votre tante a de petites fredaines par devers elle ?
-
--*who_marotte
-Vraiment il faut bien qu'elle en ait, vous dis-je ; car elle est devenue bien meilleure qu'elle n'était depuis qu'elle se doute que je m'en doute.
-
--*who_lechevalier
-Et sur quoi vous en doutez-vous ?
-
--*who_marotte
-Je m'en vais vous le dire : mais n'en parlez pas, au moins.
-
--*who_lechevalier
-Non, ne craignez rien.
-
--*who_marotte
-C'est elle qui reçoit l'argent du monde qui vient ici, et c'est mon oncle qui le serre.
-
--*who_lechevalier
-Hé bien.
-
--*who_marotte
-Hé bien, elle ne donne pas tout à mon oncle, non : elle garde toujours quelque chose, et puis elle achète tantôt des gants, tantôt un chapeau, des cravates à dentelles, une canne quelquefois ; et tout cela n'est pas pour elle, comme vous le voyez.
-
--*who_lechevalier
-Non, pour qui donc ?
-
--*who_marotte
-Pour un grand garçon qui demeure à Paris, qu'elle appelle son neveu, et qui ne l'est pas pourtant ; car je le sais bien.
-
--*who_lechevalier
-Et comment le savez-vous ?
-Ah, que vous êtes déjà méchante, Marotte !
-
--*who_marotte
-Il n'est pas mon cousin à moi, personne ne le connaît : c'est ma tante toute seule qui le met comme ça dans notre famille.
-
--*who_lechevalier
-Cela est admirable, Madame Bertrand qui se donne aussi des parents de contrebande.
-À ce que je puis voir, tout le monde s'en mêle.
-Mais la voici, votre tante, je m'en vais lui dire tout ce que vous m'avez dit.
-
--*who_marotte
-Et moi, si vous dites quelque chose, je conterai toutes vos friponneries à vos… là, laissez-moi faire.
-
-**** *book_ *id_I28 *act_I *date_1696
-
--*who_madamebertrand
 Que faites-vous donc là, petite fille ?
 
--*who_marotte
-Rien, ma tante, c'est ce Monsieur-là qui me fait des questions, et qui me veut faire dire ce que je ne sais pas : mais je ne suis pas une causeuse, moi, vous le savez bien.
-
--*who_madamebertrand
 Allez, allez porter ces écrevisses à la cuisine, et que votre oncle se dépêche de les faire cuire.
 
--*who_marotte
+C'est une fine mouche, défiez-vous d'elle.
+
+Je la connais, je sais de quoi elle est capable. Mais, Monsieur, y a-t-il longtemps que vous êtes ici ?
+
+Il y a une heure que Madame la Comtesse vous attend.
+
+Vraiment oui. Et tenez, la voilà, qui commence à s'impatienter, je pense. Vous avez apparemment quelque affaire ensemble ? Si je vous suis nécessaire à quelque chose, vous n'aurez qu'à dire, vous savez bien que je suis toute à votre service.
+
+Je viens vous dire que votre matelote…
+Hé palsanguié, qu'est-ce que j'entends là ? Vela vos Ménétriers qui s'enivront en musique, je pense.
+
+Place, place, Messieurs, et de la joie, voici tout le lendemain de noces qui nous arrive.
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marotte
+
+Est-ce que vous me voulez quelque chose, ma tante ?
+
+Oui, ma Tante.
+
+J'entends bien, c'est pour quelque Bourgeois, pour quelque Procureur, n'est-ce pas ?
+
+Le mari de cette belle Dame qui m'a fait tant de caresses ?
+
+Oh que je ne suis pas si mal apprise ! Pourquoi me dites-vous cela ? Est-ce que vous me prenez pour une jaseuse ?
+
+Et quand vous me menez avec vous chercher de la provision, et que nous déjeunons avec ce grand Clerc, ou avec ce gros Suisse, est-ce que j'en dis quelque chose à mon oncle ?
+
+Si on ne savait un peu se taire, dans une maison comme celle-ci, ce serait belle pitié ; nous mettrions toute la ville en désordre.
+
+Oh ! Toute petite que je suis, je vois bien cela. Tenez, ma Tante, tous ces Messieurs qui viennent ici avec des femmes, ne voudraient pas que leurs femmes y vinssent avec des Messieurs, non.
+
+Ah ! Que ce vieux Médecin était fâché l'autre jour, quand il trouva là-haut sa femme qui mangeait une matelote avec ce garçon Apothicaire.
+
+Je n'ai jamais ouï tant jurer pour un Médecin. Il a bien dit qu'il se vengerait ; et le garçon Apothicaire ne sera jamais Maître.
+
+À qui en a-t-il donc ?
+
+Oh çà, Monsieur, ne m'amusez point, s'il vous plaît ; ma tante me gronderait : laissez-moi lui porter ces écrevisses, et puis je reviendrai causer avec vous tant que vous voudrez.
+
+Bon, qu'est-ce que cela fait, Monsieur ? Je ne suis qu'une petite fille à cette heure : mais cela ne sera pas toujours de même. Hom, que j'ai bien envie de devenir grande !
+
+Pour ne plus aller chercher des écrevisses. Vous dites vous-même que cela est si vilain.
+
+Il n'y faut point aller ? Ah, ah ! Et ma tante ?
+
+Oui, vous la trouvez bonne femme, parce que vous n'êtes pas sa petite nièce : mais moi qui la suis, je ne la trouve pas de même. Si vous l'entendiez quand elle prend son ton, et qu'elle se met à quereller…
+
+Pas si fort depuis quelque temps que je sais de ses petites fredaines, elle a peur que je n'en parle à mon oncle.
+
+Vraiment il faut bien qu'elle en ait, vous dis-je ; car elle est devenue bien meilleure qu'elle n'était depuis qu'elle se doute que je m'en doute.
+
+Je m'en vais vous le dire : mais n'en parlez pas, au moins.
+
+C'est elle qui reçoit l'argent du monde qui vient ici, et c'est mon oncle qui le serre.
+
+Hé bien, elle ne donne pas tout à mon oncle, non : elle garde toujours quelque chose, et puis elle achète tantôt des gants, tantôt un chapeau, des cravates à dentelles, une canne quelquefois ; et tout cela n'est pas pour elle, comme vous le voyez.
+
+Pour un grand garçon qui demeure à Paris, qu'elle appelle son neveu, et qui ne l'est pas pourtant ; car je le sais bien.
+
+Il n'est pas mon cousin à moi, personne ne le connaît : c'est ma tante toute seule qui le met comme ça dans notre famille.
+
+Et moi, si vous dites quelque chose, je conterai toutes vos friponneries à vos… là, laissez-moi faire.
+
+Rien, ma tante, c'est ce Monsieur-là qui me fait des questions, et qui me veut faire dire ce que je ne sais pas : mais je ne suis pas une causeuse, moi, vous le savez bien.
+
 Si vous me trahissez, je vous le revaudrai.
 Je m'y en vais, ma tante.
 
-**** *book_ *id_I29 *act_I *date_1696
+Ah ! Ma tante, que la mariée est gentille, et qu'elle est aise ! La voilà qui vient, vous allez voir.
 
--*who_lechevalier
-Vous avez là une petite nièce, Madame Bertrand…
 
--*who_madamebertrand
-C'est une fine mouche, défiez-vous d'elle.
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
--*who_lechevalier
-Ne vous y fiez pas trop, vous-même.
+Hé bien, Lolive ?
 
--*who_madamebertrand
-Je la connais, je sais de quoi elle est capable.
-Mais, Monsieur, y a-t-il longtemps que vous êtes ici ?
+Madame Bertrand s'est-elle chargée de mon billet : l'a-t-elle rendu ? Le rendra-t-elle.
 
--*who_lechevalier
-Je ne fais que d'arriver, ma chère Madame Bertrand.
+Elle est mariée ? Tu te moques, je pense.
 
--*who_madamebertrand
-Il y a une heure que Madame la Comtesse vous attend.
+Ah ! Je la verrai du moins, je lui parlerai, je lui ferai connaître…
 
--*who_lechevalier
-Elle est ici ?
-
--*who_madamebertrand
-Vraiment oui.
-Et tenez, la voilà, qui commence à s'impatienter, je pense.
-Vous avez apparemment quelque affaire ensemble ?
-Si je vous suis nécessaire à quelque chose, vous n'aurez qu'à dire, vous savez bien que je suis toute à votre service.
-
-**** *book_ *id_I30 *act_I *date_1696
-
--*who_finette
-C'est une personne bien honnête et bien serviable, que cette Dame Bertrand.
-
--*who_lacomtesse
-Hé bien, Monsieur le Chevalier, que devenons-nous ?
-Partirez-vous pour l'armée ?
-Me marierai-je ?
-Aurons-nous ce soir votre bon ami Monsieur Georges Ganivet ?
-
--*who_lechevalier
-Oui, Madame ; et ce sera le sort que nous lui ferons, qui règlera votre destinée et la mienne.
-
--*who_finette
-Je ne sais pas ce que vous lui préparerez : mais si jamais un nigaud comme lui me donnait rendez-vous au Moulin de Javelle, le cadeau lui coûterait cher, sur ma parole.
-
--*who_lechevalier
-Monsieur de Lolive a dans la tête une petite idée qu'il va mettre en œuvre, à ce qu'il m'a dit ; nous n'avons qu'à l'attendre, et nous verrons.
-
--*who_finette
-Monsieur de Lolive travaille pour vous ?
-Vous êtes en bonne main ; ce garçon-là fait de bonne besogne.
-
-**** *book_ *id_I31 *act_I *date_1696
-
--*who_bertrand
-Oh, palsangué, Monsieur le Chevalier, vela un Monsieur qui vous charche, qui viant de faire une belle culbute.
-
--*who_lechevalier
 Comment donc ?
 
--*who_bertrand
-Ils étions deux, une Madame et ly, dans une petite carriole qui ne tiant qu'un.
+Et comment la faire, cette campagne ? Je n'ai pas vingt pistoles.
 
--*who_lacomtesse
-C'est Monsieur Ganivet, sans doute.
+Il a sur lui un billet de quatre cent louis d'or, payable au porteur.
 
--*who_bertrand
-Tout justement, vela comme on l'appelle.
+Oui : mais, Lolive…
 
--*who_lechevalier
+J'en demeure d'accord : mais cependant…
+
+Je vois bien, à peu près, quel est ton dessein.
+
+Mais, de quelle manière le faire réussir ?
+
+Pourquoi faire ?
+
+Que diantre avons-nous affaire de ta cousine ? Que veux-tu dire ?
+
+Et qu'a de commun toute ta malheureuse famille ?…
+
+Oui, vraiment.
+
+Il m'en a donné parole.
+
+Que prétends-tu faire ?
+
+Mais que je sache…
+
+Je ne puis deviner quel est son projet : mais il a du monde et de l'esprit, et il sort fort bien de ce qu'il entreprends : il faut le laisser faire.
+
+Hé, bonjour, belle Marotte, où allez-vous si vite, ma chère enfant ?
+
+Quoi, belle Marotte, on vous envoie chercher des écrevisses ? On vous occupe à des emplois si bas ? Ah fi, c'est se moquer, que…
+
+Et pourquoi ? Vous êtes si jolie comme cela.
+
+Il n'y faut point aller, toute petite que vous êtes.
+
+Votre tante est une bonne femme qui…
+
+Comment, elle vous querelle ?
+
+Oui ! Votre tante a de petites fredaines par devers elle ?
+
+Et sur quoi vous en doutez-vous ?
+
+Non, ne craignez rien.
+
+Hé bien.
+
+Non, pour qui donc ?
+
+Et comment le savez-vous ? Ah, que vous êtes déjà méchante, Marotte !
+
+Cela est admirable, Madame Bertrand qui se donne aussi des parents de contrebande. À ce que je puis voir, tout le monde s'en mêle. Mais la voici, votre tante, je m'en vais lui dire tout ce que vous m'avez dit.
+
+Vous avez là une petite nièce, Madame Bertrand…
+
+Ne vous y fiez pas trop, vous-même.
+
+Je ne fais que d'arriver, ma chère Madame Bertrand.
+
+Elle est ici ?
+
+Oui, Madame ; et ce sera le sort que nous lui ferons, qui règlera votre destinée et la mienne.
+
+Monsieur de Lolive a dans la tête une petite idée qu'il va mettre en œuvre, à ce qu'il m'a dit ; nous n'avons qu'à l'attendre, et nous verrons.
+
+Comment donc ?
+
 Hé bien ?
 
--*who_bertrand
-Hé bian, ils avont varsé dans la rivière.
+Sur un tas de pierres ! Sont-ils blessés ?
 
--*who_lacomtesse
-Dans la rivière !
+Qu'est-ce qu'il y a donc ? Que t'est-il arrivé ?
 
--*who_finette
-Voilà le mariage et la campagne à vau-l'eau.
-Quel dommage !
-
--*who_bertrand
-Ils sont morgué bian heureux que les yaux sont basses en cet endroit-là, et qu'ils ne sont tombés que sur un tas de piarres.
-
--*who_lechevalier
-Sur un tas de pierres !
-Sont-ils blessés ?
-
--*who_bertrand
-Non, ils n'avons rian.
-La Madame, pourtant, crie de toute sa force, alle dit qu'alle a la tête cassée : mais ça n'est pas vrai, ça ne se peut pas !
-
--*who_finette
-Cela ne se peut pas !
-
--*who_bertrand
-Hé, morgué non ; le Monsieur n'a rian, ly, et la tête d'une femme, comme vous savez, est bian plus dure à casser que non pas celle d'un homme.
-
-**** *book_ *id_I32 *act_I *date_1696
-
--*who_ganivet
-Parbleu, je n'y saurais que faire : elle a versé ; n'ai-je pas versé aussi, moi ?
-
--*who_bertrand
-Palsangué, tenez, vela le cabrioleux.
-
--*who_ganivet
-Si toutes les filles et les femmes qui versent faisaient autant de bruit que celle-là…
-
--*who_nicolas
-Alle dit qu'alle est toute moulue, Monsieu, et qu'alle ne saurait remuer.
-
--*who_ganivet
-Hé bien, qu'on la mette dans une chambre, et mon cheval dans une écurie ; je n'ai jamais vu de fille si délicate.
-
--*who_bertrand
-Mais, tatigué, vela un visage qui ne m'est pas inconnu.
-
--*who_lechevalier
-Qu'est-ce qu'il y a donc ?
-Que t'est-il arrivé ?
-
--*who_ganivet
-Cette grande virago de chanteuse, Mademoiselle Michelle, dont je me suis sottement embarrassé.
-
--*who_lacomtesse
-Vous donnez dans les beautés musiciennes, monsieur le Baron de Ganivet !
-
--*who_ganivet
-Bon !
-On voit cela quelquefois par conversation seulement, pour la petite débauche de table : mais du reste…
-
--*who_finette
-Il vous l'amenait ce soir pour chanter quelque air à votre souper, je gage.
-
--*who_ganivet
-Justement.
-Je l'ai trouvée toute seule aux Tuileries.
-Un petit Seigneur de robe qui l'avait priée ce soir à souper, lui a manqué de parole, je l'ai ramassée par grâce ; je l'ai mise dans ma petite chaise de deuil, cette masque-là me l'a toute cassée, elle se plaint encore.
-
--*who_lechevalier
 Ces sortes de personnes-là sont si peu polies, et savent si peu vivre…
 
--*who_ganivet
-N'est-il pas vrai ?
-
--*who_bertrand
-Morgué, plus je l'envisage, et plus c'est ly-même.
-
--*who_ganivet
-Tenez, parce qu'en arrivant je l'ai versée sur un tas de pierres, qu'elle a peut-être la hanche meurtrie, les coudes écorchés, et quelque bosse à la tête ; et qu'en me relevant je lui ai appuyé mon talon un peu ferme sur le visage, à ce qu'elle dit, elle m'appelle maladroit, cheval de carrosse : oh dame, je l'ai plantée-là ; je n'aime pas qu'on me rudoie, moi.
-
--*who_lacomtesse
-Monsieur le Baron a raison.
-
--*who_finette
-Et beaucoup de politesse, Madame.
-
--*who_bertrand
-Je me donne au diable, si ce n'est le neveu de Monsieur Simonneau, notre Procureur.
-
--*who_ganivet
-Oh, çà, çà, si elle est malade, qu'elle se couche, nous souperons bien, nous autres.
-Que nous donnera-t-on ?
-N'est-ce pas ici qu'on mange des matelotes ?
-
--*who_finette
-Oui, des matelotes, c'est le mets favori du Moulin de Javelle.
-
--*who_ganivet
-Je n'y étais encore jamais venu.
-Oh !
-Je ne suis guère débauché, moi, Madame.
-
--*who_lacomtesse
-On vous fuirait, si vous l'étiez.
-
--*who_ganivet
-Allons donc, Monsieur de Javelle, une bonne matelote ; tenez quatre louis d'or, faites de votre mieux ; grande chère, surtout, et que mon cheval et mes laquais ne manquent de rien.
-
--*who_lechevalier
 Voilà de belles manières, Madame la Comtesse.
 
--*who_lacomtesse
-Ah !
-Que les gens de qualité savent bien faire les choses !
-
--*who_bertrand
-Morgué, les gens de qualité ne faisont pas comme ça : c'est un badaud, je ne m'y trompe guère.
-
-**** *book_ *id_I33 *act_I *date_1696
-
--*who_lechevalier
 Avez-vous jamais vu de Seigneur à la Cour mieux fait que ce jeune gentilhomme-là, Madame ?
 
--*who_ganivet
-Oh, pour cela, Monsieur le Chevalier, vous avez des bontés…
-
--*who_lacomtesse
-Je n'en connais aucun qui ait cet air-là.
-
--*who_ganivet
-Ah !
-Quel conte, Madame.
-
--*who_lechevalier
 Ne lui trouves-tu pas une physionomie tout à fait agréable, Finette ?
 
--*who_ganivet
-Oh !
-Taisez-vous donc, vous me faites rougir.
-
--*who_finette
-Elle est des plus insinuantes, et des plus naturelles qui se portent.
-
--*who_ganivet
-Hé, fy donc, morbleu !
-Quel conte, vous dis-je !
-
--*who_lacomtesse
-Hé !
-Vous ne parlez plus de son esprit, qui est du plus fin, du plus vif, du plus…
-
--*who_ganivet
-Hé, mais, morbleu !
-Madame, quel peste de conte !
-
--*who_finette
-Quand quelques voyages à la Cour auront passé là-dessus, Madame… La Cour fait bien les gens de qualité.
-
--*who_ganivet
-Vous m'avez promis de m'y mener, Monsieur le Chevalier.
-
--*who_lechevalier
 Je n'ai garde d'y manquer.
 
--*who_ganivet
-J'y ferai bonne figure : je suis riche, da, Madame.
-
--*who_lacomtesse
-N'est-ce pas votre dessein d'acheter une charge, et de vous y établir ?
-
--*who_ganivet
-Vraiment oui, que faire à Paris ?
-Oh, je veux devenir Courtisan : j'épouserai quelque Courtisane, belle et de qualité : c'est le moyen de parvenir, n'est-ce pas ?
-Hé, tenez, ma mère me l'a toujours dit que je ferais fortune par les femmes.
-
--*who_finette
-Les mères prédisent justes, quelquefois.
-
--*who_ganivet
-Oh diable, la mienne n'était pas une sotte : elle avait fait fortune par les hommes, elle.
-
--*who_lechevalier
 Oui !
 
--*who_ganivet
-Ah !
-Si mon père l'avait laissée faire, je serais encore bien plus de qualité que je ne suis : mais c'était un jaloux, un bizarre, un homme incommode.
-
--*who_finette
-Le ridicule !
-Ne vouloir pas que sa femme lui fît des enfants de qualité !
-
--*who_ganivet
-Il avait cette folie-là.
-Et ne m'a-t-il pas toujours élevé comme un je ne sais qui, moi, comme un sot ?
-
--*who_lechevalier
 Est-il possible ?
 
--*who_ganivet
-Bon, si je n'avais eu un beau naturel, je serais le plus grand benêt qu'il y eût au monde.
-
--*who_lacomtesse
-Cela n'est pas croyable !
-
--*who_ganivet
-Je me donne au diable, si cela ne serait comme je le dis : mais il avait beau me tenir la bride haute, je prenais le mords aux dents quelquefois.
-
--*who_finette
-Et vous faisiez de belles galopades, je pense ?
-
--*who_ganivet
-Oh, je vous en réponds : à Charenton, à saint Cloud, à Vincennes, à Charonne ; et toujours avec des femmes de qualité, et en carrosse, da ; et je m'enivrais à ces parties-là, je m'enivrais.
-Oh, cela forme bien l'esprit d'un jeune homme !
-
--*who_lacomtesse
-Vous ne deviez votre éducation qu'à vous-même.
-Et depuis la mort de Monsieur votre père…
-
--*who_ganivet
-Ma tante et lui, ont été troussés en moins de trois semaines, et j'hérite de tout cela.
-Ne suis-je pas bienheureux ?
-
--*who_finette
-Oh, pour cela oui, vous avez été décanaillé en bien peu de temps.
-
--*who_ganivet
-Il y a un homme à Paris qui dit qu'il est mon oncle, parce qu'il est le frère de mon père : mais à moins que ce ne soit pour hériter, je ne connais point cette famille-là.
-
--*who_lechevalier
 Et il fait bien.
 
--*who_ganivet
-J'étais hier prié d'une noce de quelque espèce de cousin comme ça ; mais je n'y ai pas voulu aller.
-
--*who_lacomtesse
-Quand on s'est une fois mis dans le grand monde…
-
--*who_finette
-Et qu'on y est aussi avant que lui, surtout… Vous ne sauriez croire toutes les bonnes fortunes qu'a ce petit homme-là, Madame.
-
--*who_ganivet
-Et toutes femmes de qualité, au moins ; je n'en connais point d'autres.
-
--*who_lacomtesse
-Je le crois bien.
-Mais ne craignez-vous point les affaires qui peuvent arriver…
-
--*who_ganivet
-Bon, les affaires !
-Oh, Dieu merci, j'entends les affaires aussi bien qu'un autre.
-
-**** *book_ *id_I34 *act_I *date_1696
-
--*who_lolive
-Que vois-je ?
-Ah !
-Ciel, l'heureuse rencontre !
-C'est toi, mon pauvre Chevalier ?
-Et par quel hasard te trouvai-je ici ?
-
--*who_lechevalier
 C'est Lolive, si je ne me trompe.
 
--*who_lolive
-Il semble que tu aies peine à me reconnaître ?
-Tu ne te remets pas le Vicomte de la Jugulardière, ton meilleur ami ?
-
--*who_ganivet
-La Jugulardière, Madame !
-
--*who_lolive
-Est-ce que le coup de canon que j'ai reçu dans le visage, m'aurait assez changé les traits pour…
-
--*who_lechevalier
 Non, je me rappelle mes idées ; je te demande pardon, si d'abord…
 
--*who_lolive
-Nous ne nous étions point vus depuis cette dernière affaire qui nous arriva, je pense…
-
--*who_lechevalier
 Quelle affaire ?
 
--*who_lolive
-Hé, là, quand je tuai ces deux hommes, que je jetai ce grand laquais dans le puits, cette femme de chambre par la fenêtre, et le tout par méprise encore.
+Ah ! Je m'en souviens, je m'en souviens.
 
--*who_ganivet
-Monsieur le Chevalier a de vilaines connaissances.
-
--*who_lechevalier
-Ah !
-Je m'en souviens, je m'en souviens.
-
--*who_lolive
-Tu n'es pas seul au Moulin de Javelle ?
-Mais… Non… Si fait… Point du tout… Pardonnez-moi… Vraiment, c'est elle-même, c'est ma nièce.
-Hé, Que j'ai de joie de te trouver ici, ma chère, ma charmante, mon incomparable Comtesse !
-
--*who_lacomtesse
-Je croyais que vous m'aviez tout à fait oubliée, mon oncle.
-
--*who_ganivet
-Son oncle !
-
--*who_lolive
-T'avoir oubliée, moi !
-Hé, voilà aussi mes anciennes amours : cette pauvre Finette !
-Je suis bienheureux que ma chaise de poste ait rompu si près d'ici.
-Hé, bon jour, coquine.
-
--*who_finette
-Je suis bien votre servante, Monsieur le Vicomte.
-
--*who_lolive
-Et ce jeune Gentilhomme-là, qui est si bien fait, et de si bonne mine ?
-
--*who_ganivet
-Monsieur, je suis votre serviteur.
-
--*who_lolive
-Il est de ta compagnie, Comtesse ?
-Tu es une coquette ?
-
--*who_finette
-C'est lui qui nous donne à souper ce soir, mon oncle.
-
--*who_lolive
-À souper au Moulin de la Javelle !
-Allons, allons, tu es amoureuse de lui, je te le pardonne.
-La peste, voilà un joli homme !
-
--*who_ganivet
-Cet oncle-là sait assez bien son monde.
-
--*who_lechevalier
 C'est un homme de qualité.
 
--*who_lolive
-Comment s'appelle-t-il ?
-Qui est-il, Finette ?
-
--*who_finette
-C'est Monsieur le Baron de Ganivet, vous devez connaître cela, vous, Monsieur le Vicomte.
-
--*who_lolive
-Comment, Ganivet !
-Hé, que je vous embrasse, mon cher Monsieur le Baron de Ganivet, je ne connais autre.
-Les Ganivets, ils sont de Toulouse ?
-
--*who_ganivet
-Non, Monsieur, nous sommes de Paris, diantre.
-Oh, je ne suis pas un Provincial, moi.
-
--*who_lolive
-Hé, oui, vous êtes de Paris, vous, cela saute aux yeux d'abord ; On ne vous le dispute point ; mais originairement, votre famille…
-
--*who_finette
-Elle est originale, votre famille ?
-
--*who_ganivet
-Et elle vient de bien loin.
-Tenez, du vivant de mon père et de ma mère, il nous venait toujours de temps en temps des cousins de campagne qui étaient bien las quand ils arrivaient.
-
--*who_lolive
-Justement, ce sont les Ganivets dont je vous parle : noblesse presque aussi bonne que la nôtre, ma nièce.
-
--*who_ganivet
-C'est un fort honnête Seigneur, que Monsieur le Vicomte.
-
--*who_lechevalier
 Et d'un grand crédit ; cet homme-là peut tout à la Cour, je t'en avertis.
 
--*who_ganivet
-Voilà une bonne rencontre, si Madame la Comtesse pouvait devenir amoureuse de moi.
-
--*who_lacomtesse
-Nous vous demandons votre protection pour Monsieur le Baron de Ganivet, mon oncle, qu'il vous en souvienne.
-
--*who_lolive
-Si je m'en souviendrai !
-Il aura dans quatre jours un Régiment : laissez-moi faire.
-
--*who_ganivet
-Oh, non, non, point de charge où on tue, quelque charge où on vive : là, quelque charge, à boire et à manger, j'aime à boire et à manger, c'est là ma folie.
-
--*who_finette
-Voilà des inclinations bien nobles, et de bon sens, Monsieur le Vicomte.
-
--*who_lolive
-Les Ganivets sont comme cela, tous gens d'esprit et de mérite.
-
--*who_lacomtesse
-Ne pourriez-vous point, en cas qu'il m'épouse, mon oncle, lui ménager…
-
--*who_lolive
-Oui, je lui ferai avoir la Charge de premier Poilou suivant la Cour, cela est fait pour lui.
-
--*who_finette
-Premier Poilou, Monsieur Ganivet, premier Poilou !
-
--*who_ganivet
-Les bons hasards me viennent en dormant ; je ne m'attendais pas à celui-là.
-
--*who_lacomtesse
-Est-ce que vous voudriez vous défaire, mon oncle…
-
--*who_lolive
-J'ai acheté depuis trois semaines la Charge de Grand-Inutile, moi ; et en faveur de votre mariage, je remettrai l'autre à Monsieur Ganivet à très bon compte.
-
--*who_ganivet
-C'est bien de la grâce que vous me faîtes : et Madame la Comtesse n'a qu'à vouloir ; je suis tout prêt pour moi.
-
--*who_lacomtesse
-Puisque mon oncle le veut absolument, voilà qui est fini, je me détermine.
-
--*who_ganivet
-Ah !
-Madame…
-
--*who_lechevalier
 Tu es le plus heureux mortel que je connaisse.
 
--*who_ganivet
-Oh, j'irai loin, il n'y a qu'à me laisser faire.
 
--*who_lacomtesse
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
+Hé Jasmin, laquais, petit laquais ?
+
+Que ce cocher se range à cent pas de la maison : là, sur le bord de l'eau, et qu'il nous attende.
+
+Hé, comment veux-tu qu'on s'en retourne ?
+
+C'est un maraud à qui il faut donner les étrivières.
+
+Écoute, nous voici près de la maison ; si j'appelle quelqu'un, tu seras rossé.
+
+Quand ces misérables-là ont affaire à des femmes…
+
+Si tu veux nous attendre, et nous remener, on t'en donnera encore autant.
+
+Pour qui ce maroufle-là nous prend-il donc ?
+
+J'ai toujours eu tant de complaisance pour les tiennes.
+
+Je suis donc de bien mauvais goût, à ton compte ?
+
+Hé bien, d'accord, c'est un Bourgeois : mais il a de quoi vivre en homme de qualité ; il est fort riche, et je n'ai point de bien ; il est très ridicule, j'en conviens, mais enfin…
+
+Je l'aime, moi : moi je l'aime ? Au contraire, je veux l'épouser ; il est trop fat pour un amant, je prétends en faire un mari. Que trouves-tu là d'incompatible ?
+
+Point, Finette, nous avons cru d'abord que nous nous aimions : mais nous ne voulions que nous tromper tous deux, je t'assure.
+
+Oui, te dis-je, nous en sommes venus aux éclaircissements, nous ne nous estimons presque pas même.
+
+S'il les sait ? Il a besoin d'argent pour faire sa campagne : j'ai besoin de mari, moi, pour passer l'été : Monsieur Ganivet fera notre affaire à l'un et à l'autre.
+
+Il me donne ce soir à souper ici, Le Chevalier s'y trouvera, et nous prendrons ensemble des mesures.
+
+Hé, bonjour, ma bonne Madame Bertrand.
+
+Tout le monde est à l'armée, ma chère enfant ; les parties de plaisir sont supprimées, et ne sont presque que des parties d'ennui que celles qu'on fait à présent.
+
+Tais-toi donc, folle.
+
+As-tu aujourd'hui beaucoup de ces compagnies-là chez toi, Madame Bertrand ?
+
+Un lendemain de noces ?
+
+Nous ferons un tour dans ton jardin. Si le Chevalier vient, dis-lui que nous y sommes ?
+
+Allons, viens, Finette.
+
+Hé bien, Monsieur le Chevalier, que devenons-nous ? Partirez-vous pour l'armée ? Me marierai-je ? Aurons-nous ce soir votre bon ami Monsieur Georges Ganivet ?
+
+C'est Monsieur Ganivet, sans doute.
+
+Dans la rivière !
+
+Vous donnez dans les beautés musiciennes, monsieur le Baron de Ganivet !
+
+Monsieur le Baron a raison.
+
+On vous fuirait, si vous l'étiez.
+
+Ah ! Que les gens de qualité savent bien faire les choses !
+
+Je n'en connais aucun qui ait cet air-là.
+
+Hé ! Vous ne parlez plus de son esprit, qui est du plus fin, du plus vif, du plus…
+
+N'est-ce pas votre dessein d'acheter une charge, et de vous y établir ?
+
+Cela n'est pas croyable !
+
+Vous ne deviez votre éducation qu'à vous-même. Et depuis la mort de Monsieur votre père…
+
+Quand on s'est une fois mis dans le grand monde…
+
+Je le crois bien. Mais ne craignez-vous point les affaires qui peuvent arriver…
+
+Je croyais que vous m'aviez tout à fait oubliée, mon oncle.
+
+Nous vous demandons votre protection pour Monsieur le Baron de Ganivet, mon oncle, qu'il vous en souvienne.
+
+Ne pourriez-vous point, en cas qu'il m'épouse, mon oncle, lui ménager…
+
+Est-ce que vous voudriez vous défaire, mon oncle…
+
+Puisque mon oncle le veut absolument, voilà qui est fini, je me détermine.
+
 Il ne faut à présent pour ma Charge que deux mille écus d'argent comptant, elle en vaut dix, je donne le reste pour présent de noces.
 
--*who_ganivet
-Voilà un oncle qui fait bien les choses.
+Tout à l'heure, mon oncle ! Le moyen ?
 
--*who_lolive
-Mais je veux les deux mille écus tout à l'heure.
-
--*who_lacomtesse
-Tout à l'heure, mon oncle !
-Le moyen ?
-
--*who_ganivet
-Le moyen, Madame !
-Le moyen ?
-Ah, ah, tenez mon oncle, voilà un diamant de trois mille livres.
-
--*who_finette
-Oui, il les vaut bien, je le prendrai pour cela.
-
--*who_lolive
-Et puis un billet de quatre cents pistoles.
-
--*who_lolive
-Cela est fort bon, mon neveu Ganivet.
-
--*who_ganivet
-En voulez-vous encore ?
-Oh dame, je ne suis pas un gueux, moi, afin que vous le sachiez.
-
-**** *book_ *id_I35 *act_I *date_1696
-
--*who_madamebertrand
-Je viens vous dire que votre matelote…
-Hé palsanguié, qu'est-ce que j'entends là ?
-Vela vos Ménétriers qui s'enivront en musique, je pense.
-
-**** *book_ *id_I36 *act_I *date_1696
-
--*who_madamebertrand
-Place, place, Messieurs, et de la joie, voici tout le lendemain de noces qui nous arrive.
-
--*who_lecocher
-J'en ai voituré plus de la moitié, moi.
-Ah !
-Vous voilà encore ?
-Voulez-vous que je vous remène ?
-
--*who_lacomtesse
 Ôte-toi de là, ivrogne.
 
--*who_marotte
-Ah !
-Ma tante, que la mariée est gentille, et qu'elle est aise !
-La voilà qui vient, vous allez voir.
 
-**** *book_ *id_I37 *act_I *date_1696
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
--*who_lamariee
-Hé, ma mère !
-Voilà le cousin Ganivet qui n'a pas voulu venir à la noce, il vient le lendemain ; cela est bien honnête.
+Hé, si on lui donne de l'argent, il s'en ira, Madame.
 
--*who_lamere
-Hé, voirement oui, fille, c'est ly-même : je le savais bian, moi, que ce n'était pas par orgueil qu'il n'était pas venu aux fiançailles.
-Je vous sommes bian obligés, cousin, de nous faire tant d'honneur, que de…
+Ah, quel discours, Madame ! Quel insolent !
 
--*who_finette
-Comment ?
-Comment l'entendez-vous donc ?
-Ce n'est pas lui qui vient à votre noce, c'est vous qui venez à la sienne, ne vous y trompez pas.
+Par ma foi, Madame, cela n'est point joli ; un coquin de fiacre parler de la sorte ?
 
--*who_lamere
-À la noce de Monsieur Ganivet ?
+Je m'en vais renvoyer ce gueux-là, Madame, il faut le payer : mais je le reconnaîtrai, sur ma parole.
 
--*who_lolive
-Oui vraiment, nous venons de le marier avec Madame la Comtesse de la Grenouillère, que vous voyez.
+Tiens, voilà un écu ; mais je t'assure…
 
--*who_lamariee
-Une Comtesse, ma mère !
-Et il ne nous a pas priés de sa noce ?
-Vraiment, c'est un plaisant visage : nous sommes pourtant cousins germains, afin que vous le sachiez.
+Coucher ici, Madame ! Coucher ici !
 
--*who_lolive
-Cousins germains ?
-Monsieur le Baron de Ganivet est de race paysanne, et il a le front d'épouser une Comtesse qui est ma nièce ?
-Par la mort…
+Que veut-il donc dire ?
 
--*who_lamere
-Qu'est-ce à dire, une Comtesse ?
-Hé, c'est la fille à la commère Tiennette, qui est blanchisseuse à la Grenouillère.
+Voilà une jolie partie de plaisir ! Venir ainsi vous et moi, tête à tête, au Moulin de Javelle dans un mauvais fiacre ! Par ma foi, Madame, il faut être aussi bonne que je le suis, pour vous passer toutes vos folies.
 
--*who_ganivet
-Fille d'une Blanchisseuse, mon oncle le Vicomte !
+Moi, Madame ! Je n'ai encore eu que des folies de bons sens ; j'ai aimé quelquefois : mais de jolies gens, des gens de mérite ; et grâces au ciel, aucun magot ne m'a jamais fait courir les rues.
 
--*who_lolive
-Cela se pourrait bien, mon neveu le Poilou ; moi qui suis Vicomte et son oncle, je ne suis pas de meilleure maison que vous et elle.
+Oh, pour cela oui, Madame, Monsieur Georges Ganivet ! Le plus bourgeois, et le plus ridicule de tous les habitants de la bonne ville de Paris, sans contredit.
 
--*who_ganivet
-Comment, ventrebleu, c'est Lolive !
-Parle donc ?
-Hé, tu te moques de moi, je pense ?
+Mais, mais, vous l'aimez tel qu'il est, n'est-ce pas ?
 
--*who_lolive
-Je fais bien l'homme de qualité, n'est-ce pas ?
-Je suis un peu Protée, moi.
-Hé !
-Tenez, je vais me faire mitron, pour danser à la noce ; vous ne me reconnaîtrez pas, je gage.
+Rien du tout, vraiment, au contraire ; et sur ce pied-là, vous pourriez bien avoir moins de tort que je ne pense. Mais, le Chevalier que deviendra-t-il ? Vous l'aimiez, il vous aime aussi.
 
--*who_lamere
-Il me paraît que vous avez fait une sottise, cousin Ganivet.
+Quoi, Madame…
 
--*who_ganivet
-Pourquoi, une sottise ?
-Je n'en démordrai point, je ne suis pas plus de qualité qu'elle, nous n'aurons rien à nous reprocher ; elle s'est fait Comtesse, elle me fera bien autre chose.
+Et vous êtes de si bonne intelligence ? Sait-il les vues que vous avez pour Monsieur Ganivet ?
 
--*who_bertrand
-C'est le bian prendre.
-L'air de cheux nous baille de l'esprit, tout chacun y est toujours d'accord.
-Allons, allons, morgué, que les Ménétriers s'accordiant, pour bailler l'exemple.
+Cela sera bien commode.
 
--*who_finette
+Voici la maîtresse de la maison.
+
+Bon, dans l'épée ! Nous sommes baissées d'un cran, Madame Bertrand, nous donnons dans le bas Bourgeois. À l'heure qu'il est, on se prend où l'on peut : en été c'est une saison morte.
+
+Un lendemain de noces au Moulin de Javelle ! Cela est d'un mauvais pronostic pour les suites du mariage.
+
+Allons, Madame.
+
+C'est une personne bien honnête et bien serviable, que cette Dame Bertrand.
+
+Je ne sais pas ce que vous lui préparerez : mais si jamais un nigaud comme lui me donnait rendez-vous au Moulin de Javelle, le cadeau lui coûterait cher, sur ma parole.
+
+Monsieur de Lolive travaille pour vous ? Vous êtes en bonne main ; ce garçon-là fait de bonne besogne.
+
+Voilà le mariage et la campagne à vau-l'eau. Quel dommage !
+
+Cela ne se peut pas !
+
+Il vous l'amenait ce soir pour chanter quelque air à votre souper, je gage.
+
+Et beaucoup de politesse, Madame.
+
+Oui, des matelotes, c'est le mets favori du Moulin de Javelle.
+
+Elle est des plus insinuantes, et des plus naturelles qui se portent.
+
+Quand quelques voyages à la Cour auront passé là-dessus, Madame… La Cour fait bien les gens de qualité.
+
+Les mères prédisent justes, quelquefois.
+
+Le ridicule ! Ne vouloir pas que sa femme lui fît des enfants de qualité !
+
+Et vous faisiez de belles galopades, je pense ?
+
+Oh, pour cela oui, vous avez été décanaillé en bien peu de temps.
+
+Et qu'on y est aussi avant que lui, surtout… Vous ne sauriez croire toutes les bonnes fortunes qu'a ce petit homme-là, Madame.
+
+Je suis bien votre servante, Monsieur le Vicomte.
+
+C'est lui qui nous donne à souper ce soir, mon oncle.
+
+C'est Monsieur le Baron de Ganivet, vous devez connaître cela, vous, Monsieur le Vicomte.
+
+Elle est originale, votre famille ?
+
+Voilà des inclinations bien nobles, et de bon sens, Monsieur le Vicomte.
+
+Premier Poilou, Monsieur Ganivet, premier Poilou !
+
+Oui, il les vaut bien, je le prendrai pour cela.
+
+Comment ? Comment l'entendez-vous donc ? Ce n'est pas lui qui vient à votre noce, c'est vous qui venez à la sienne, ne vous y trompez pas.
+
 Et vivent les parties du Moulin de Javelle ; les mariages s'y font sans cérémonie.
 
-**** *book_ *id_I38 *act_I *date_1696
 
--*who_lolive
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
+Serviteur, Monsieur Bertrand.
+
+Je baise les mains à Madame Bertrand ; comment se porte-t-elle ?
+
+De l'argent, Madame Bertrand ! Vous allez d'abord aux invectives. Monsieur Bertrand est plus poli que vous, et…
+
+Hé ! Paix, monsieur Bertrand, vous me faites rougir.
+
+Sans colère, Monsieur Bertrand, je ne viens ici que pour cela, et pour quelque autre petite chose.
+
+Cela est trop juste. Tenez, voilà déjà les trois louis d'or de la tabatière, et en voilà un pour mon compte ; nous reprendrons ce soir nos nippes.
+
+Cela est bien honnête ! Oh çà, il me reste encore dix pistoles, dont mon maître m'a dit de faire présent à madame Bertrand, si elle veut lui rendre un petit service.
+
+Il m'avait commandé de ne vous en pas parler devant votre mari, mais…
+
+Mon maître est amoureux, Madame Bertrand.
+
+Vous rêvez, je pense : mon maître est amoureux de votre femme !
+
+Oh bien, le caprice de mon maître ne va point jusques là ; ne vous inquiétez point. C'est une petite bourgeoise de Vaugirard qui lui donne dans la vue ; et si madame Bertrand voulait…
+
+Mais il s'agit seulement…
+
+Quoi, vous vous feriez un scrupule de rendre seulement un billet à une jeune fille ?
+
+Trouveriez-vous qu'il y eût grand mal à lui dire que mon maître l'attend ici ; et que comme nous n'oserions aller à Vaugirard, par ménagement pour elle, elle court moins de risque à nous venir trouver ?
+
+Monsieur Bertrand est homme de bon sens et de bon conseil.
+
+Angélique.
+
+Oui, elle demeure à l'entrée du Village, là, à main gauche.
+
+Quoi ! Tout de bon ?
+
+Cela fâchera mon maître.
+
+Oh diable, non, c'est un billet pour fille il en faut un pour femme, à présent. Je vais porter cette nouvelle à mon maître et cela ne nous empêchera pas de danser à la noce.
+
+Mon maître n'est point encore venu, Monsieur Bertrand ?
+
+Cela ne presse pas encore. Puisqu'elle est mariée, tant pis pour elle ; nous allons avoir d'autres affaires.
+
+Qu'est-ce à dire, il n'en épouse pas une ? Il n'y en a presque point qu'il n'épouse. Mais comme, nous autres jeunes gens, nous ne faisons pas les choses dans toutes les règles, il manque toujours quelque formalité à nos mariages, et c'est ce qui fait qu'on les casse.
+
+Oh diable, je le crois bien, cela vous passe ; nous avons de grandes ressources aux parties casuelles.
+
+Nous jouissons de plus de vingt mille livres de rente en fonds d'esprit et de savoir-faire. Nous avons des droits sur tous les provinciaux qui viennent débarquer à Paris, sur les enfants de famille qui entrent de trop bonne heure dans le monde, sur les Bourgeois qui veulent contrefaire les gens de qualité, sur les successions qui tombent en mains mineures. Que diable sais-je ? Notre domaine est de grande étendue ; et si je n'y comprends pas les vieilles coquettes.
+
+Sans adieu, Monsieur Bertrand.
+
+Non, Monsieur, il n'y a rien à faire, la petite fille est mariée.
+
+Je ne me moque point, et vous allez voir ici son lendemain de noces.
+
+Gardez-vous bien de lui faire la moindre mine seulement, vous gâteriez toutes vos affaires.
+
+De nouvelles mariées sont encore toutes sottes de leurs maris ; réservons cela pour le quartier d'hiver, au retour de la campagne.
+
+Il en faut trouver. À quoi diable vous sert votre badaud de Monsieur Ganivet, si ce n'est pour…
+
+Que diable fait-il de cela dans sa poche, cet animal-là ? Voilà un billet inutile… Je veux le mettre en œuvre, moi, Monsieur, laissez-moi faire.
+
+Qu'est-ce à dire, mais ? Monsieur Georges Ganivet est le fils d'un Procureur qui a ruiné votre famille ; le père est mort, le fils a hérité, c'est à lui faire restitution, à ce qu'il me semble.
+
+Cependant il a encore eu depuis quinze jours la succession d'une vieille tante qui nous a quelquefois prêté de l'argent au dernier un. Allez, Monsieur, point de scrupule, nous avons de grandes hypothèques sur tous ces héritages-là, comme vous voyez.
+
+Et vous avez bien de la peine à ne pas l'approuver, je gage ?
+
+De quelle manière ? Attendez… Ne pourrions-nous pas trouver quelque femme d'esprit, là…
+
+Ah, Monsieur, si feue ma pauvre cousine n'avait pas été pendue l'année passée…
+
+C'est qu'il nous faudrait une personne de mérite, voyez-vous. Hom, que c'est bien dommage que ma tante et ma sœur soient encore au Châtelet.
+
+J'ai tort, et vous raison, Monsieur. Vous avez ici rendez-vous avec Madame la Comtesse : elle vaut bien ces honnêtes personnes-là.
+
+Monsieur Ganivet y doit venir aussi.
+
+Attendez-les, et moi aussi, Monsieur.
+
+Ne vous mettez pas en peine, la Comtesse a de l'esprit, elle entrera d'abord dans ma pensée ; attendez-la, vous dis-je, nous aurons de l'argent pour faire la campagne.
+
+Mais, mais, demeurez ici seulement, et ne vous embarrassez pas du reste.
+
+Que vois-je ? Ah ! Ciel, l'heureuse rencontre ! C'est toi, mon pauvre Chevalier ? Et par quel hasard te trouvai-je ici ?
+
+Il semble que tu aies peine à me reconnaître ? Tu ne te remets pas le Vicomte de la Jugulardière, ton meilleur ami ?
+
+Est-ce que le coup de canon que j'ai reçu dans le visage, m'aurait assez changé les traits pour…
+
+Nous ne nous étions point vus depuis cette dernière affaire qui nous arriva, je pense…
+
+Hé, là, quand je tuai ces deux hommes, que je jetai ce grand laquais dans le puits, cette femme de chambre par la fenêtre, et le tout par méprise encore.
+
+Tu n'es pas seul au Moulin de Javelle ? Mais… Non… Si fait… Point du tout… Pardonnez-moi… Vraiment, c'est elle-même, c'est ma nièce. Hé, Que j'ai de joie de te trouver ici, ma chère, ma charmante, mon incomparable Comtesse !
+
+T'avoir oubliée, moi ! Hé, voilà aussi mes anciennes amours : cette pauvre Finette ! Je suis bienheureux que ma chaise de poste ait rompu si près d'ici. Hé, bon jour, coquine.
+
+Et ce jeune Gentilhomme-là, qui est si bien fait, et de si bonne mine ?
+
+Il est de ta compagnie, Comtesse ? Tu es une coquette ?
+
+À souper au Moulin de la Javelle ! Allons, allons, tu es amoureuse de lui, je te le pardonne. La peste, voilà un joli homme !
+
+Comment s'appelle-t-il ? Qui est-il, Finette ?
+
+Comment, Ganivet ! Hé, que je vous embrasse, mon cher Monsieur le Baron de Ganivet, je ne connais autre. Les Ganivets, ils sont de Toulouse ?
+
+Hé, oui, vous êtes de Paris, vous, cela saute aux yeux d'abord ; On ne vous le dispute point ; mais originairement, votre famille…
+
+Justement, ce sont les Ganivets dont je vous parle : noblesse presque aussi bonne que la nôtre, ma nièce.
+
+Si je m'en souviendrai ! Il aura dans quatre jours un Régiment : laissez-moi faire.
+
+Les Ganivets sont comme cela, tous gens d'esprit et de mérite.
+
+Oui, je lui ferai avoir la Charge de premier Poilou suivant la Cour, cela est fait pour lui.
+
+J'ai acheté depuis trois semaines la Charge de Grand-Inutile, moi ; et en faveur de votre mariage, je remettrai l'autre à Monsieur Ganivet à très bon compte.
+
+Mais je veux les deux mille écus tout à l'heure.
+
+Et puis un billet de quatre cents pistoles.
+
+Cela est fort bon, mon neveu Ganivet.
+
+Oui vraiment, nous venons de le marier avec Madame la Comtesse de la Grenouillère, que vous voyez.
+
+Cousins germains ? Monsieur le Baron de Ganivet est de race paysanne, et il a le front d'épouser une Comtesse qui est ma nièce ? Par la mort…
+
+Cela se pourrait bien, mon neveu le Poilou ; moi qui suis Vicomte et son oncle, je ne suis pas de meilleure maison que vous et elle.
+
+Je fais bien l'homme de qualité, n'est-ce pas ? Je suis un peu Protée, moi. Hé ! Tenez, je vais me faire mitron, pour danser à la noce ; vous ne me reconnaîtrez pas, je gage.
+
 Venez, jeunes filles,
 Si gentilles,
 Venez, jeunes filles de Meudon,
@@ -2014,100 +800,214 @@ Pour danser le rigaudon ;
 Ne faites point les sottes, ni les cruelles,
 Et prenez chacune un garçon.
 
--*who_lesfillesdelanoce
-Ne faisons point les sottes, ni les cruelles,
-Et prenons chacune un garçon.
-
--*who_lemarie
-L'amour que j'ai pour toi, Claudenne,
-Me fait morgué bian de la peine,
-Pour tes biaux yeux soir et matin ;
-Je laisse brûler mon pain.
-Mets la main sur ma poitrenne,
-Et tu sentiras comme quoi,
-Mon cœur est toujours hors d'haleine,
-Dès que je badeine avec toi.
-
--*who_lamariee
-À toutes celles du village,
-On t'a vu jusqu'à ce jour :
-Mitron volage,
-Tour à tour,
-Faire la cour :
-Mais, puisque le mariage,
-L'un à l'autre nous engage,
-Laissons-là le badinage,
-Et pour la paix du ménage,
-Ne va plus cuire qu'à mon four.
-Humble salut au cousin George,
-De la part des cousins Mitrons.
-
--*who_lesmitronsetlesmitronnes
-Humble salut au cousin George,
-De la part des cousins Mitrons.
-
--*who_lemarie
-Aga donc comme il se rengorge !
-C'est la fleur des nouveaux Barons.
-
--*who_lesmitrons
-Humble salut au cousin George,
-De la part des cousins Mitrons.
-
--*who_lamariee
-Voyez comme il fait le Seigneur,
-Et les airs qu'il se donne !
-Il est le fils d'un Procureur,
-Nous sommes de race mitronne.
-Entre ces deux états, cousin,
-La différence n'est pas forte ;
-L'un conduit le sac au Moulin,
-L'autre au Palais le porte.
-
--*who_lecocher
-Sur ces charmantes rives,
-Cochers, que votre sort est doux !
-Vous êtes toujours ivres :
-Trop heureux, trop heureux qui l'est comme vous.
-Vive nos équipages !
-On fait dans ces réduits d'amour,
-Nombre de mariages,
-À vingt sols, à vingt sols par heure, en un jour.
-
--*who_lolive
 Pour faire honneur à la noce,
 Rions, chantons, et dansons tous.
 
--*who_touslesacteursetactrices
-Pour faire honneur à la Noce,
-Rions, chantons, et dansons tous.
-
--*who_lolive
 Que pour neuf mois, Monsieur l'époux,
 Relève sa Claudenne en bosse.
 Pour faire honneur à la Noce,
 Rions, chantons, et dansons tous.
 
--*who_lechŒur
-Pour faire honneur à la Noce,
-Rions, chantons, et dansons tous.
-
--*who_lemarie
-Mais que Claudenne à son poux,
-Ne donne point de fruit précoce.
-Pour faire honneur à la Noce,
-Rions, chantons, et dansons tous.
-
--*who_lechŒur
-Pour faire honneur à la Noce,
-Rions, chantons, et dansons tous.
-
--*who_lolive
 Du premier enfant de chez nous,
 Margot ne fut que trois mois grosse.
 Pour faire honneur à la Noce,
 Rions, chantons, et dansons tous.
 
--*who_touslesacteurs
-Pour faire honneur à la Noce,
-Rions, chantons, et dansons tous.
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursimonneau
+
+Holà, quelqu'un ? Qu'on monte donc, hé ?
+
+Hé, qu'est-ce que c'est donc que cela, Madame Bertrand ? On ne saurait être servi chez vous : il y a une heure que nous avons demandé une matelote et des écrevisses.
+
+Ma femme au Moulin de Javelle ! Qu'est-ce que cela veut dire ?
+
+Écoutez, Madame Simonneau, je ne sais pas comment vous l'entendez : mais pour moi sérieusement…
+
+Il n'est pas question de cela, Madame Bertrand, je n'ai point à rendre compte…
+
+Messieurs, Madame Simonneau, encore une fois, je n'entends point raillerie.
+
+Madame du Rollet, ce ne sont point ici vos affaires, mêlez-vous, je vous prie…
+
+Madame Bertrand, vous savez bien que…
+
+Comment ! Que je n'y prenne pas garde ?
+
+Ouais, mais voici qui est admirable. Oh, je lui ferai bien voir…
+
+Comment, carogne ?
+
+C'est une coquine qui ne croyait pas me trouver ici.
+
+Comment donc des plaintes ? Je vous le conseille !
+Au moins, Monsieur, vous voyez bien…
+
+J'ai mis la main sur elle, moi ?
+Vous êtes honnête homme, vous, Monsieur, je vous demande en grâce…
+
+Ah ! Madame Bertrand, je n'en puis plus, je tombe des nues, je n'ai pas la force de me remuer seulement. Par ma foi, c'est un méchant animal qu'une femme !
+
+Ah ! Mon pauvre ami, je suis au désespoir.
+
+Je ne viens ici, comme vous savez, que pour y attraper en quelque débauche mon coquin de neveu, qui est un vagabond, qui mange tout son fait.
+
+Et j'y trouve ma femme en partie quarrée.
+
+Oui, cela est fort plaisant ; avec la vôtre, Monsieur du Rollet, avec la vôtre.
+
+Vous avez raison ; si cela se fait, on se moquera de nous encore. Allons, nos perruques, nos chapeaux, nos cannes.
+
+Maugrébleu des matelotes ! Si j'en viens manger de ma vie…
+
+Cela n'est rien. Qu'est-ce qu'il vous faut ?
+
+Oui, mais…
+
+Voilà mon demi louis d'or ; donnez le vôtre.
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamesimonneau
+
+Je ne bouge de chez toi, Madame Bertrand, j'y soupais encore hier au soir, j'y reviens aujourd'hui, je prendrai quelque jour le parti d'y faire apporter des meubles.
+
+Mon mari.
+
+Mais tu te trompes, Madame Bertrand, cela n'est pas possible.
+
+Ils ont vraiment raison, c'est lui-même.
+
+Ah, que cela est chagrinant ! Je suis au désespoir quand quelque chose me dérange.
+
+Oui, Monsieur mon mari ! Une matelote et des écrevisses ! C'est donc ainsi que vous venez manger votre bien au Cabaret ?
+
+Tu ne m'y attendais pas ivrogne. Ah ! Je savais bien que je t'y attraperais ; il y a longtemps que je te guette.
+
+Je suis bien malheureuse de voir ainsi dissiper le bien que mes parents…
+
+Il vous battra, Madame, il vous battra ; il est déjà ivre.
+
+Il me menace, Messieurs, il me menace, remarquez bien cela, je vous prie.
+
+Quelle infamie ! Vous entendez comme il me traite ?
+
+Oui, une coquine, fort bien ! Ah ! Je n'y puis plus tenir, je crève : qu'on me remène au plus vite à Paris, je veux faire mes plaintes, et vous me servirez de témoins, Messieurs, s'il vous plaît.
+
+Je ne m'effarouche pas si aisément, et nous serons ce soir ici mieux qu'en lieu du monde. Monsieur mon mari ne nous soupçonnera pas d'y être sitôt revenues. Est-il allé rejoindre sa compagnie ?
+
+Comment donc ?
+
+Bon, perdue ! Es-tu folle ? Et t'embarrasses-tu fort d'un mari ?
+
+Et leur matelote, et leurs écrevisses ?
+
+À la bonne heure, qu'on nous les serve. Voilà des maris qui font bien les choses ! Venir eux-mêmes au Moulin de Javelle faire apprêter ! souper de leurs femmes ! Ils sont bonnes gens, cela est fort honnête.
+
+Il n'y faut arriver que demain.
+
+Les affaires criminelles s'abonnissent en vieillissant. Nous n'avons qu'à nous tranquilliser ici pendant que leur premier mouvement passera : plus l'aventure sera forte, et plus ils craindront qu'elle éclate. Les maris sont devenus prudents depuis quelques années.
+
+Mon pauvre Monsieur Bertrand, force bougies, grande chère, et de la glace, nous ne demandons pas autre chose.
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdurollet
+
+Hé, à quoi vous amusez-vous donc ? Vous me laissez là-haut tout seul à croquer le marmot.
+
+Comment donc ? Qu'est-il arrivé ?
+
+Hé bien ?
+
+Votre femme en partie quarrée ? Ah ! Ah ! Ah ! Cela est trop drôle. Et avec qui donc, s'il vous plaît ?
+
+Avec la mienne ?
+
+Comment, de plainte contre moi ? Qu'est-ce que cela signifie ?
+
+Mais cela est fort joli, vraiment ! Et qui est avec elles ?
+
+Il faut suivre cette affaire-là, Monsieur Simonneau.
+
+Nous méritons bien cela, Monsieur Simonneau : des maris de bon sens ne doivent jamais aller où ils peuvent rencontrer leurs femmes.
+
+Mais votre matelote, et vos écrevisses que l'on ne nous a pas seulement servies…
+
+Hé ! Donnons-leur ce qu'ils demandent, et allons-nous-en ; je suis sur des épines.
+
+Le voilà, vous n'en aurez pas davantage.
+
+Hom ! Si l'on me retient ici…
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedurollet
+
+Le fâcheux contretemps ! Nous nous étions tant proposé de nous bien réjouir !
+
+Oh, pour cela c'est une chose ridicule ! Vous ne devriez point recevoir de maris chez vous, vous autres.
+
+Nous n'y trouverons point de matelote.
+
+Allez, Monsieur, vous devriez mourir de honte, de passer ainsi votre vie dans la débauche, pendant qu'une pauvre petite femme…
+
+Oui, il pue le vin : que cela est horrible.
+
+Hom, que j'en dirai de belles aussi, moi, je vous en réponds.
+
+Mon mari est avec le tien ? Ah ! Je suis au désespoir.
+
+S'il sait que je suis venue ici avec Monsieur Grimaudin, je suis perdue, te dis-je.
+
+Si je m'en embarrasse ? Le mien est la plus méchante langue que je connaisse.
+
+Nous allons avoir une furieuse querelle à soutenir en arrivant chez nous.
+
+Que demain ? Tu n'y songes pas.
+
+Je ferai tout ce que tu voudras, je le veux bien. Au hasard d'un fâcheux avenir, profitons du temps présent, puisque nous y sommes. La Fleur, va dire à ces Messieurs qu'ils viennent, les ennemis sont décampés, nous sommes maîtresses du champ de bataille.
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrimaudin
+
+Que nous dis-tu là ?
+
+Allons-nous-en souper à Passy, Mesdames, il n'y a pas d'autre parti à prendre.
+
+Oui. N'avez-vous pas les voies de la Justice pour empêcher…
+
+Vous avez tort, Monsieur, je dirai ce que j'ai vu, je ne puis m'en défendre. Mettre la main sur une femme !
+
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+
+Qu'est-ce qu'il y a, Maîtresse ?
+
+Oui, Maîtresse.
+
+Çà, Maîtresse. Hé, Marotte, Marotte ?
+
+Pargué, vous n'appelleriez pas mieux, du moins, car la vela venue.
+
+Oh ! Palsangué, Maîtresse, je m'en vais cette fois-ci.
+
+Oui, morgué, je m'en irai.
+
+Jarnonce !
+
+Jarnigué, vela encore ces Madames qui m'avons fait darnièrement tant de niches.
+
+Hé ! Ces Madames de qualité, qui fesont comme si alles n'en étiant pas. Alles se promenont le long de l'iau, et alles viandront ici, je gage. .
+
+Hé, ventreguié, Maîtresse, alles me voulont débaucher. Vous ne savez pas stilà, peut-être ?
+
+Alles me voulont mettre à mal, vous dis-je : mais tatigué, je m'enfuirai plutôt ; je sis honnête garçon, et vous le savez bian.
+
+Aga, donc, comme vous me chassez, à cause que vela votre mari : mais…
+
+Oh dame, Maîtresse, venez donc à la maison parler à ces gens-là.
+
+Et les ménétriers de cette noce qui sont venus devant ; ils juront comme tout, parce qu'ils n'avont pas encore de vin.
+
+Voirement oui, qu'ils attendent ? Ils disont comme ça que par faute de boire leur musique deviendra enragée, et que ça fera tantôt enrager tout le monde. Accoutez, il se faut bailler de garde de ça, je vous en avartis, ils demandont le maître ou la maîtresse.
+
+Alle dit qu'alle est toute moulue, Monsieu, et qu'alle ne saurait remuer.
+

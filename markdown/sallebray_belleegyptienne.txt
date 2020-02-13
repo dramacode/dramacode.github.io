@@ -1,6 +1,6 @@
 ---
 identifier: sallebray_belleegyptienne  
-creator: Sallebray  
+creator: Sallebray ; Georges Forestier.  
 date: 1642  
 title: La Belle Égyptienne. Tragi-comédie  
 ---
